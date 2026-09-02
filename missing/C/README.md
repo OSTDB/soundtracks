@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Tycoon | 236517 | [236517-candy-tycoon.json](./236517-candy-tycoon.json) |
 | Candypink | 176496 | [176496-candypink.json](./176496-candypink.json) |
 | CandyRain | 201307 | [201307-candyrain.json](./201307-candyrain.json) |
+| CandyVenture | 113008 | [113008-candyventure.json](./113008-candyventure.json) |
 | Cannibal | 299444 | [299444-cannibal.json](./299444-cannibal.json) |
 | Cannon Army | 152349 | [152349-cannon-army.json](./152349-cannon-army.json) |
 | Cannon Basket HD | 232177 | [232177-cannon-basket-hd.json](./232177-cannon-basket-hd.json) |
@@ -334,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Crafters | 265399 | [265399-chaos-crafters.json](./265399-chaos-crafters.json) |
 | Chaos Entropy | 320559 | [320559-chaos-entropy.json](./320559-chaos-entropy.json) |
 | Chaos Journey | 295021 | [295021-chaos-journey.json](./295021-chaos-journey.json) |
+| Chaos Maker | 113033 | [113033-chaos-maker.json](./113033-chaos-maker.json) |
 | Chaos Metaverse | 267658 | [267658-chaos-metaverse.json](./267658-chaos-metaverse.json) |
 | Chaos of Fallen City | 159864 | [159864-chaos-of-fallen-city.json](./159864-chaos-of-fallen-city.json) |
 | Chaos Road | 158229 | [158229-chaos-road.json](./158229-chaos-road.json) |
@@ -433,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chlorophos | 119742 | [119742-chlorophos.json](./119742-chlorophos.json) |
 | Cho Chabudai Gaeshi! 2 | 313483 | [313483-cho-chabudai-gaeshi-2.json](./313483-cho-chabudai-gaeshi-2.json) |
 | Choco-ken no Chokotto Fushigi na Monogatari: Chocolate Hime to Mahou no Recipe | 222517 | [222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json](./222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json) |
+| Chocolate Factory | 112995 | [112995-chocolate-factory.json](./112995-chocolate-factory.json) |
 | Chocolate makes you happy: Valentine's Day | 114362 | [114362-chocolate-makes-you-happy-valentines-day.json](./114362-chocolate-makes-you-happy-valentines-day.json) |
 | Choice of Life: Wild Islands | 253576 | [253576-choice-of-life-wild-islands.json](./253576-choice-of-life-wild-islands.json) |
 | Choice or Fate | 114404 | [114404-choice-or-fate.json](./114404-choice-or-fate.json) |
@@ -457,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Jinsei Enjoi! Tamagotchi Plus | 229952 | [229952-chou-jinsei-enjoi-tamagotchi-plus.json](./229952-chou-jinsei-enjoi-tamagotchi-plus.json) |
 | Christmas Bazaar: Manager Simulator | 325265 | [325265-christmas-bazaar-manager-simulator.json](./325265-christmas-bazaar-manager-simulator.json) |
 | Christmas Clash | 277601 | [277601-christmas-clash.json](./277601-christmas-clash.json) |
+| Christmas Clicker: Idle Gift Builder | 113001 | [113001-christmas-clicker-idle-gift-builder.json](./113001-christmas-clicker-idle-gift-builder.json) |
 | Christmas Escape | 314046 | [314046-christmas-escape.json](./314046-christmas-escape.json) |
 | Christmas Griddlers | 168903 | [168903-christmas-griddlers.json](./168903-christmas-griddlers.json) |
 | Christmas Jumper Jam | 326981 | [326981-christmas-jumper-jam.json](./326981-christmas-jumper-jam.json) |
@@ -486,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChronoBreach | 117045 | [117045-chronobreach.json](./117045-chronobreach.json) |
 | ChronoCodex | 237053 | [237053-chronocodex.json](./237053-chronocodex.json) |
 | Chronomon | 244487 | [244487-chronomon.json](./244487-chronomon.json) |
+| Chuǎngguān Shā II | 113019 | [113019-chuangguan-sha-ii.json](./113019-chuangguan-sha-ii.json) |
 | Chubby & Flubby | 176471 | [176471-chubby-and-flubby.json](./176471-chubby-and-flubby.json) |
 | Chubby Cat 2 | 231050 | [231050-chubby-cat-2.json](./231050-chubby-cat-2.json) |
 | Chubby Hurdles | 243968 | [243968-chubby-hurdles.json](./243968-chubby-hurdles.json) |
@@ -696,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Sweat | 323508 | [323508-cold-sweat.json](./323508-cold-sweat.json) |
 | Cold War: Frontline | 339101 | [339101-cold-war-frontline.json](./339101-cold-war-frontline.json) |
 | Cold Wires | 127315 | [127315-cold-wires.json](./127315-cold-wires.json) |
+| Coldfall | 113005 | [113005-coldfall.json](./113005-coldfall.json) |
 | Collage | 177037 | [177037-collage.json](./177037-collage.json) |
 | Collapse Machine | 310765 | [310765-collapse-machine.json](./310765-collapse-machine.json) |
 | Collapsed Galaxy II | 248895 | [248895-collapsed-galaxy-ii.json](./248895-collapsed-galaxy-ii.json) |
@@ -912,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Costa's Classic Cosmic Pizzas | 156137 | [156137-costas-classic-cosmic-pizzas.json](./156137-costas-classic-cosmic-pizzas.json) |
 | Costly Adventure | 247735 | [247735-costly-adventure.json](./247735-costly-adventure.json) |
 | Costrutto | 191266 | [191266-costrutto.json](./191266-costrutto.json) |
+| Cotropitorii | 113007 | [113007-cotropitorii.json](./113007-cotropitorii.json) |
 | Cotton 2: Saturn Tribute | 173782 | [173782-cotton-2-saturn-tribute.json](./173782-cotton-2-saturn-tribute.json) |
 | Cotton Boomerang: Saturn Tribute | 173781 | [173781-cotton-boomerang-saturn-tribute.json](./173781-cotton-boomerang-saturn-tribute.json) |
 | Count on Me | 176511 | [176511-count-on-me.json](./176511-count-on-me.json) |
