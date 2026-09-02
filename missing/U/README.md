@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfated | 267672 | [267672-unfated.json](./267672-unfated.json) |
 | Unfinished 2 | 338589 | [338589-unfinished-2.json](./338589-unfinished-2.json) |
 | Unheard: The Lethal Script | 228720 | [228720-unheard-the-lethal-script.json](./228720-unheard-the-lethal-script.json) |
+| Uni | 145684 | [145684-uni.json](./145684-uni.json) |
 | Unicorn | 223672 | [223672-unicorn.json](./223672-unicorn.json) |
 | Unicorn Wars | 338588 | [338588-unicorn-wars.json](./338588-unicorn-wars.json) |
 | Union of Gnomes | 213004 | [213004-union-of-gnomes.json](./213004-union-of-gnomes.json) |
