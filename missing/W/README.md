@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Survivors | 338553 | [338553-waifu-survivors.json](./338553-waifu-survivors.json) |
 | Waifu Wars Splash | 183560 | [183560-waifu-wars-splash.json](./183560-waifu-wars-splash.json) |
 | Waifusitter | 338554 | [338554-waifusitter.json](./338554-waifusitter.json) |
+| Waimanu: Grinding Block Adventure | 123628 | [123628-waimanu-grinding-block-adventure.json](./123628-waimanu-grinding-block-adventure.json) |
 | WaiWai Drive | 312353 | [312353-waiwai-drive.json](./312353-waiwai-drive.json) |
 | Wakdoo Random Defence | 188098 | [188098-wakdoo-random-defence.json](./188098-wakdoo-random-defence.json) |
 | Wakfu: Ouginak Pack | 225873 | [225873-wakfu-ouginak-pack.json](./225873-wakfu-ouginak-pack.json) |
@@ -37,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall Ninja | 139434 | [139434-wall-ninja.json](./139434-wall-ninja.json) |
 | Walpurgis Quintet | 205253 | [205253-walpurgis-quintet.json](./205253-walpurgis-quintet.json) |
 | Walpurgis: Enkan no Meikyuu | 205252 | [205252-walpurgis-enkan-no-meikyuu.json](./205252-walpurgis-enkan-no-meikyuu.json) |
+| Walt Disney's The Jungle Book | 123599 | [123599-walt-disneys-the-jungle-book.json](./123599-walt-disneys-the-jungle-book.json) |
 | Wan Nyan Dobutsu Byouin: Suteki na Juui-San ni Narou! | 222539 | [222539-wan-nyan-dobutsu-byouin-suteki-na-juui-san-ni-narou.json](./222539-wan-nyan-dobutsu-byouin-suteki-na-juui-san-ni-narou.json) |
 | Wanaka Farm | 172770 | [172770-wanaka-farm.json](./172770-wanaka-farm.json) |
 | Wanderer's Shade | 310183 | [310183-wanderers-shade.json](./310183-wanderers-shade.json) |
@@ -116,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors & Mages | 173270 | [173270-warriors-and-mages.json](./173270-warriors-and-mages.json) |
 | Warriors of Thalyrion | 310749 | [310749-warriors-of-thalyrion.json](./310749-warriors-of-thalyrion.json) |
 | Warside | 230528 | [230528-warside.json](./230528-warside.json) |
+| WarUniverse | 123614 | [123614-waruniverse.json](./123614-waruniverse.json) |
 | Wasabi Game | 245044 | [245044-wasabi-game.json](./245044-wasabi-game.json) |
 | Wash Card | 223705 | [223705-wash-card.json](./223705-wash-card.json) |
 | Wash Simulator: Clean Garage, House, Cars Business Tycoons - Extended Edition | 328818 | [328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json](./328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json) |
@@ -220,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Which Naruto Character Are You? | 230540 | [230540-which-naruto-character-are-you.json](./230540-which-naruto-character-are-you.json) |
 | Whip Dummy Crash | 174902 | [174902-whip-dummy-crash.json](./174902-whip-dummy-crash.json) |
 | Whipplu Special | 266486 | [266486-whipplu-special.json](./266486-whipplu-special.json) |
+| Whirled | 123640 | [123640-whirled.json](./123640-whirled.json) |
 | Whisker Waters | 266497 | [266497-whisker-waters.json](./266497-whisker-waters.json) |
 | Whiskered Away | 196888 | [196888-whiskered-away.json](./196888-whiskered-away.json) |
 | Whiskers in the Dark | 309131 | [309131-whiskers-in-the-dark.json](./309131-whiskers-in-the-dark.json) |
