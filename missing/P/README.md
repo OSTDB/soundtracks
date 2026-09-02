@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pi.exe | 192463 | [192463-pi-exe.json](./192463-pi-exe.json) |
 | Piano: Learn and Play - Complete + | 328827 | [328827-piano-learn-and-play-complete.json](./328827-piano-learn-and-play-complete.json) |
 | Piano: Learn and Play - Ultra Director's Cut | 328828 | [328828-piano-learn-and-play-ultra-directors-cut.json](./328828-piano-learn-and-play-ultra-directors-cut.json) |
+| Piccadilly's Puzzle Museum | 126015 | [126015-piccadillys-puzzle-museum.json](./126015-piccadillys-puzzle-museum.json) |
 | Pick Me Pick Me | 321125 | [321125-pick-me-pick-me.json](./321125-pick-me-pick-me.json) |
 | Pick My Heart Chapter 1 | 324132 | [324132-pick-my-heart-chapter-1.json](./324132-pick-my-heart-chapter-1.json) |
 | Pick My Heart Chapter 2 | 324131 | [324131-pick-my-heart-chapter-2.json](./324131-pick-my-heart-chapter-2.json) |
@@ -723,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong Temple | 190725 | [190725-pong-temple.json](./190725-pong-temple.json) |
 | PongBall | 255993 | [255993-pongball.json](./255993-pongball.json) |
 | Pongeon | 184641 | [184641-pongeon.json](./184641-pongeon.json) |
+| Pongis Jump | 126000 | [126000-pongis-jump.json](./126000-pongis-jump.json) |
 | Poo Pusher | 309690 | [309690-poo-pusher.json](./309690-poo-pusher.json) |
 | Poogers | 223131 | [223131-poogers.json](./223131-poogers.json) |
 | Pool Adventure | 191221 | [191221-pool-adventure.json](./191221-pool-adventure.json) |
@@ -1063,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzrama | 152918 | [152918-puzzrama.json](./152918-puzzrama.json) |
 | Pwn! | 341318 | [341318-pwn.json](./341318-pwn.json) |
 | PxBeats | 256540 | [256540-pxbeats.json](./256540-pxbeats.json) |
+| Pyl | 126013 | [126013-pyl.json](./126013-pyl.json) |
 | PyNori | 336921 | [336921-pynori.json](./336921-pynori.json) |
 | Pyramid Bloxx | 194657 | [194657-pyramid-bloxx.json](./194657-pyramid-bloxx.json) |
 | Pyramid Game | 310185 | [310185-pyramid-game.json](./310185-pyramid-game.json) |
