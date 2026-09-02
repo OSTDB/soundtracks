@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reading Raven | 104090 | [104090-reading-raven.json](./104090-reading-raven.json) |
 | Reading World VR | 296082 | [296082-reading-world-vr.json](./296082-reading-world-vr.json) |
 | Ready Action | 196893 | [196893-ready-action.json](./196893-ready-action.json) |
+| Ready Player One: Oasis | 99013 | [99013-ready-player-one-oasis.json](./99013-ready-player-one-oasis.json) |
 | Ready? Set. Haiya! | 149601 | [149601-ready-set-haiya.json](./149601-ready-set-haiya.json) |
 | Reaktron | 121706 | [121706-reaktron.json](./121706-reaktron.json) |
 | Real Al's Humanity Academy | 115009 | [115009-real-als-humanity-academy.json](./115009-real-als-humanity-academy.json) |
@@ -830,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rouge Tank | 295548 | [295548-rouge-tank.json](./295548-rouge-tank.json) |
 | Roulette Knight | 178687 | [178687-roulette-knight.json](./178687-roulette-knight.json) |
 | Rounded Hills | 145654 | [145654-rounded-hills.json](./145654-rounded-hills.json) |
+| Rounders (Arena) | 98991 | [98991-rounders-arena.json](./98991-rounders-arena.json) |
 | RoundRick: Brick Breaker | 251201 | [251201-roundrick-brick-breaker.json](./251201-roundrick-brick-breaker.json) |
 | RoundRunners Playground | 253608 | [253608-roundrunners-playground.json](./253608-roundrunners-playground.json) |
 | Route Me Mail and Delivery Co | 147477 | [147477-route-me-mail-and-delivery-co.json](./147477-route-me-mail-and-delivery-co.json) |
