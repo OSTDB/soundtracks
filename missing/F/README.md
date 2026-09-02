@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Fencer F: Refrain Chord - Limited Edition | 205257 | [205257-fairy-fencer-f-refrain-chord-limited-edition.json](./205257-fairy-fencer-f-refrain-chord-limited-edition.json) |
 | Fairy Glade | 175980 | [175980-fairy-glade.json](./175980-fairy-glade.json) |
 | Fairy Godmother Stories: Puss in Boots Collector's Edition | 151202 | [151202-fairy-godmother-stories-puss-in-boots-collectors-edition.json](./151202-fairy-godmother-stories-puss-in-boots-collectors-edition.json) |
+| Fairy Knights | 105943 | [105943-fairy-knights.json](./105943-fairy-knights.json) |
 | Fairy Picturebook of Hero and Sorceress | 113698 | [113698-fairy-picturebook-of-hero-and-sorceress.json](./113698-fairy-picturebook-of-hero-and-sorceress.json) |
 | Fairy Tail 2: Outfit Set - Swimsuit | 332229 | [332229-fairy-tail-2-outfit-set-swimsuit.json](./332229-fairy-tail-2-outfit-set-swimsuit.json) |
 | Fairy Tower | 218159 | [218159-fairy-tower.json](./218159-fairy-tower.json) |
@@ -356,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firelight Fantasy: Force Energy | 147483 | [147483-firelight-fantasy-force-energy.json](./147483-firelight-fantasy-force-energy.json) |
 | Firelight Fantasy: Vengeance | 153982 | [153982-firelight-fantasy-vengeance.json](./153982-firelight-fantasy-vengeance.json) |
 | Firelore: Short Tales | 333391 | [333391-firelore-short-tales.json](./333391-firelore-short-tales.json) |
+| Fireman Titan Fights Games | 105934 | [105934-fireman-titan-fights-games.json](./105934-fireman-titan-fights-games.json) |
 | Fireside Hero | 191854 | [191854-fireside-hero.json](./191854-fireside-hero.json) |
 | FireTry: Capture the Flag | 167850 | [167850-firetry-capture-the-flag.json](./167850-firetry-capture-the-flag.json) |
 | Firewatch: Audio Tour | 251228 | [251228-firewatch-audio-tour.json](./251228-firewatch-audio-tour.json) |
@@ -802,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuck Space! | 199085 | [199085-fuck-space.json](./199085-fuck-space.json) |
 | Fuck the Police | 159889 | [159889-fuck-the-police.json](./159889-fuck-the-police.json) |
 | Fuel Station Simulator | 336369 | [336369-fuel-station-simulator.json](./336369-fuel-station-simulator.json) |
+| Fuel Tanker Truck | 105918 | [105918-fuel-tanker-truck.json](./105918-fuel-tanker-truck.json) |
 | Fuga: Melodies of Steel 2 - Deluxe Edition | 246620 | [246620-fuga-melodies-of-steel-2-deluxe-edition.json](./246620-fuga-melodies-of-steel-2-deluxe-edition.json) |
 | FukTopia 3 | 173833 | [173833-fuktopia-3.json](./173833-fuktopia-3.json) |
 | Fukuro to Subaru | 326946 | [326946-fukuro-to-subaru.json](./326946-fukuro-to-subaru.json) |
