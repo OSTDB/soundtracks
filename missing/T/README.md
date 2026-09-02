@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tappy Dig: Virtual Pet Fox Game | 265423 | [265423-tappy-dig-virtual-pet-fox-game.json](./265423-tappy-dig-virtual-pet-fox-game.json) |
 | Tappy Golf | 264905 | [264905-tappy-golf.json](./264905-tappy-golf.json) |
 | Tapybara | 311250 | [311250-tapybara.json](./311250-tapybara.json) |
+| Taravana | 132251 | [132251-taravana.json](./132251-taravana.json) |
 | Target | 190705 | [190705-target.json](./190705-target.json) |
 | Target Practice | 167303 | [167303-target-practice.json](./167303-target-practice.json) |
 | Task Force 88: Hostile Contact | 179209 | [179209-task-force-88-hostile-contact.json](./179209-task-force-88-hostile-contact.json) |
@@ -883,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nutcracker | 216997 | [216997-the-nutcracker.json](./216997-the-nutcracker.json) |
 | The Observed | 182555 | [182555-the-observed.json](./182555-the-observed.json) |
 | The Odarian Accounts | 218705 | [218705-the-odarian-accounts.json](./218705-the-odarian-accounts.json) |
+| The Odd Neon Void | 132246 | [132246-the-odd-neon-void.json](./132246-the-odd-neon-void.json) |
 | The Offering | 238754 | [238754-the-offering.json](./238754-the-offering.json) |
 | The Office | 203564 | [203564-the-office.json](./203564-the-office.json) |
 | The Old Barn | 325287 | [325287-the-old-barn.json](./325287-the-old-barn.json) |
