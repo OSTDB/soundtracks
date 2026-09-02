@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Realms: Revolt | 254770 | [254770-nine-realms-revolt.json](./254770-nine-realms-revolt.json) |
 | Nine Rounds Rapid | 238718 | [238718-nine-rounds-rapid.json](./238718-nine-rounds-rapid.json) |
 | Nine Worlds | 150659 | [150659-nine-worlds.json](./150659-nine-worlds.json) |
+| Nineteen | 128654 | [128654-nineteen.json](./128654-nineteen.json) |
 | Ningen Maru | 178677 | [178677-ningen-maru.json](./178677-ningen-maru.json) |
 | Ninja Break | 203559 | [203559-ninja-break.json](./203559-ninja-break.json) |
 | Ninja Chicken 2 | 233763 | [233763-ninja-chicken-2.json](./233763-ninja-chicken-2.json) |
@@ -357,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Transmission | 183070 | [183070-no-transmission.json](./183070-no-transmission.json) |
 | No Vacation for an Executioner | 305539 | [305539-no-vacation-for-an-executioner.json](./305539-no-vacation-for-an-executioner.json) |
 | No-brainer! Heroes | 134655 | [134655-no-brainer-heroes.json](./134655-no-brainer-heroes.json) |
+| No, Birdie, No! | 128640 | [128640-no-birdie-no.json](./128640-no-birdie-no.json) |
 | Noah's Descent into Madness | 267096 | [267096-noahs-descent-into-madness.json](./267096-noahs-descent-into-madness.json) |
 | Noah's Dilemma | 291750 | [291750-noahs-dilemma.json](./291750-noahs-dilemma.json) |
 | NoAmmo | 210882 | [210882-noammo.json](./210882-noammo.json) |
@@ -459,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NullStar | 144360 | [144360-nullstar.json](./144360-nullstar.json) |
 | Nullstar: Solus | 310206 | [310206-nullstar-solus.json](./310206-nullstar-solus.json) |
 | Num One: Revised Edition | 187504 | [187504-num-one-revised-edition.json](./187504-num-one-revised-edition.json) |
+| Number Munchers | 128661 | [128661-number-munchers.json](./128661-number-munchers.json) |
 | Number One Rich | 158198 | [158198-number-one-rich.json](./158198-number-one-rich.json) |
 | Number Slide Puzzle | 228106 | [228106-number-slide-puzzle.json](./228106-number-slide-puzzle.json) |
 | Number Wars | 193474 | [193474-number-wars.json](./193474-number-wars.json) |
