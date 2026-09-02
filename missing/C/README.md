@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cho Chabudai Gaeshi! 2 | 313483 | [313483-cho-chabudai-gaeshi-2.json](./313483-cho-chabudai-gaeshi-2.json) |
 | Choco-ken no Chokotto Fushigi na Monogatari: Chocolate Hime to Mahou no Recipe | 222517 | [222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json](./222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json) |
 | Chocolate Factory | 112995 | [112995-chocolate-factory.json](./112995-chocolate-factory.json) |
+| Chocolate makes you happy 7 | 105376 | [105376-chocolate-makes-you-happy-7.json](./105376-chocolate-makes-you-happy-7.json) |
 | Chocolate makes you happy: Halloween | 109746 | [109746-chocolate-makes-you-happy-halloween.json](./109746-chocolate-makes-you-happy-halloween.json) |
 | Chocolate makes you happy: Valentine's Day | 114362 | [114362-chocolate-makes-you-happy-valentines-day.json](./114362-chocolate-makes-you-happy-valentines-day.json) |
 | Choice of Life: Wild Islands | 253576 | [253576-choice-of-life-wild-islands.json](./253576-choice-of-life-wild-islands.json) |
@@ -1229,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Loot | 324114 | [324114-cursed-loot.json](./324114-cursed-loot.json) |
 | Cursed Mummies | 169470 | [169470-cursed-mummies.json](./169470-cursed-mummies.json) |
 | Cursed New Year | 323512 | [323512-cursed-new-year.json](./323512-cursed-new-year.json) |
+| Cursed Queen : Wicked Witch | 105371 | [105371-cursed-queen-wicked-witch.json](./105371-cursed-queen-wicked-witch.json) |
 | Cursed Realm | 258722 | [258722-cursed-realm.json](./258722-cursed-realm.json) |
 | Cursed Silence | 269273 | [269273-cursed-silence.json](./269273-cursed-silence.json) |
 | Cursed Spire | 195250 | [195250-cursed-spire.json](./195250-cursed-spire.json) |
