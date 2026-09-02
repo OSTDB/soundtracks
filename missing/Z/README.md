@@ -133,3 +133,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zurarararush!!! | 293386 | [293386-zurarararush.json](./293386-zurarararush.json) |
 | Zutto Atai no Turn! | 216458 | [216458-zutto-atai-no-turn.json](./216458-zutto-atai-no-turn.json) |
 | Zwaard | 235973 | [235973-zwaard.json](./235973-zwaard.json) |
+| ZYX Story | 105343 | [105343-zyx-story.json](./105343-zyx-story.json) |
