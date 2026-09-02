@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Winding Path | 157709 | [157709-a-winding-path.json](./157709-a-winding-path.json) |
 | A woman goes to a private games industry party | 135282 | [135282-a-woman-goes-to-a-private-games-industry-party.json](./135282-a-woman-goes-to-a-private-games-industry-party.json) |
 | A.R.M: Absolutely Reliable Machine | 132259 | [132259-a-r-m-absolutely-reliable-machine.json](./132259-a-r-m-absolutely-reliable-machine.json) |
+| A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
 | Aard and Wyzz: The rise of minions | 309102 | [309102-aard-and-wyzz-the-rise-of-minions.json](./309102-aard-and-wyzz-the-rise-of-minions.json) |
 | Aardwolf MUD | 228684 | [228684-aardwolf-mud.json](./228684-aardwolf-mud.json) |
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
