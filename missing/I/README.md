@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insurrection: Cyborgs Awakening | 211945 | [211945-insurrection-cyborgs-awakening.json](./211945-insurrection-cyborgs-awakening.json) |
 | Intense! Miyu-chan and Teacher's Rock-Paper-Scissors Battle! | 340756 | [340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json](./340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json) |
 | Interactive Storybook DS: Series 3 | 269833 | [269833-interactive-storybook-ds-series-3.json](./269833-interactive-storybook-ds-series-3.json) |
+| Intercity Truck Simulator | 100814 | [100814-intercity-truck-simulator.json](./100814-intercity-truck-simulator.json) |
 | Intercolonies | 319352 | [319352-intercolonies.json](./319352-intercolonies.json) |
 | Intergalactic Defenders | 340757 | [340757-intergalactic-defenders.json](./340757-intergalactic-defenders.json) |
 | Intergalacto-1 | 304369 | [304369-intergalacto-1.json](./304369-intergalacto-1.json) |
