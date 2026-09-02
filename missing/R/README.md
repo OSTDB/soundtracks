@@ -100,7 +100,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramhart | 341311 | [341311-ramhart.json](./341311-ramhart.json) |
 | Rampage Rowing | 316415 | [316415-rampage-rowing.json](./316415-rampage-rowing.json) |
 | RampageRunner | 341310 | [341310-rampagerunner.json](./341310-rampagerunner.json) |
+| Rance Quest Magnum | 137669 | [137669-rance-quest-magnum.json](./137669-rance-quest-magnum.json) |
 | Random Deck | 341309 | [341309-random-deck.json](./341309-random-deck.json) |
+| Random Dice | 137650 | [137650-random-dice.json](./137650-random-dice.json) |
 | Random Number God | 184625 | [184625-random-number-god.json](./184625-random-number-god.json) |
 | Ranger Danger | 224740 | [224740-ranger-danger.json](./224740-ranger-danger.json) |
 | Ranita Fishing | 178078 | [178078-ranita-fishing.json](./178078-ranita-fishing.json) |
@@ -359,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revelation of Decay | 301606 | [301606-revelation-of-decay.json](./301606-revelation-of-decay.json) |
 | Revenant Hill | 250625 | [250625-revenant-hill.json](./250625-revenant-hill.json) |
 | Revenant: In Memory Of The Day | 334494 | [334494-revenant-in-memory-of-the-day.json](./334494-revenant-in-memory-of-the-day.json) |
+| Revenge of Marjorie the Chicken | 137694 | [137694-revenge-of-marjorie-the-chicken.json](./137694-revenge-of-marjorie-the-chicken.json) |
 | Revenge of Noxi | 254148 | [254148-revenge-of-noxi.json](./254148-revenge-of-noxi.json) |
 | Revenge on Bad Guy | 220316 | [220316-revenge-on-bad-guy.json](./220316-revenge-on-bad-guy.json) |
 | Revenge Request | 295533 | [295533-revenge-request.json](./295533-revenge-request.json) |
