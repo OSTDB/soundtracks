@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bella | 260939 | [260939-bella.json](./260939-bella.json) |
 | Bella II | 260938 | [260938-bella-ii.json](./260938-bella-ii.json) |
 | Belladonna's Flight | 255344 | [255344-belladonnas-flight.json](./255344-belladonnas-flight.json) |
+| Belle Boomerang | 150127 | [150127-belle-boomerang.json](./150127-belle-boomerang.json) |
 | Belle-de-Nuit: Point-du-Jour | 230559 | [230559-belle-de-nuit-point-du-jour.json](./230559-belle-de-nuit-point-du-jour.json) |
 | Bellumarot | 151712 | [151712-bellumarot.json](./151712-bellumarot.json) |
 | Belongings | 158707 | [158707-belongings.json](./158707-belongings.json) |
@@ -427,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Astral | 201317 | [201317-black-astral.json](./201317-black-astral.json) |
 | Black Cat Explores Minds | 151736 | [151736-black-cat-explores-minds.json](./151736-black-cat-explores-minds.json) |
 | Black Cauldron Remake | 319346 | [319346-black-cauldron-remake.json](./319346-black-cauldron-remake.json) |
+| Black Desert: Traveler Edition | 150142 | [150142-black-desert-traveler-edition.json](./150142-black-desert-traveler-edition.json) |
 | Black Diamond | 275309 | [275309-black-diamond.json](./275309-black-diamond.json) |
 | Black Dust | 318211 | [318211-black-dust.json](./318211-black-dust.json) |
 | Black Fairy | 325841 | [325841-black-fairy.json](./325841-black-fairy.json) |
@@ -766,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutalism22 | 244470 | [244470-brutalism22.json](./244470-brutalism22.json) |
 | Brutalistick VR | 277017 | [277017-brutalistick-vr.json](./277017-brutalistick-vr.json) |
 | Brute Horse | 314627 | [314627-brute-horse.json](./314627-brute-horse.json) |
+| BS Ihatovo Monogatari | 150170 | [150170-bs-ihatovo-monogatari.json](./150170-bs-ihatovo-monogatari.json) |
 | BS SimCity: Machi Tsukuri Taikai - Scenario 1 | 179711 | [179711-bs-simcity-machi-tsukuri-taikai-scenario-1.json](./179711-bs-simcity-machi-tsukuri-taikai-scenario-1.json) |
 | BS SimCity: Machi Tsukuri Taikai - Scenario 2 | 179712 | [179712-bs-simcity-machi-tsukuri-taikai-scenario-2.json](./179712-bs-simcity-machi-tsukuri-taikai-scenario-2.json) |
 | BS SimCity: Machi Tsukuri Taikai - Scenario 3 | 179713 | [179713-bs-simcity-machi-tsukuri-taikai-scenario-3.json](./179713-bs-simcity-machi-tsukuri-taikai-scenario-3.json) |
