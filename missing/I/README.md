@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Soccer | 201305 | [201305-international-soccer.json](./201305-international-soccer.json) |
 | International Superstar Soccer 2000 | 220857 | [220857-international-superstar-soccer-2000.json](./220857-international-superstar-soccer-2000.json) |
 | International Volleyball 2004 | 204700 | [204700-international-volleyball-2004.json](./204700-international-volleyball-2004.json) |
+| Interphase | 129210 | [129210-interphase.json](./129210-interphase.json) |
 | InterSpace | 258209 | [258209-interspace.json](./258209-interspace.json) |
 | Interstate Cowboys | 292322 | [292322-interstate-cowboys.json](./292322-interstate-cowboys.json) |
 | Interweaver | 296682 | [296682-interweaver.json](./296682-interweaver.json) |
