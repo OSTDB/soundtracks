@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paths Taken | 119039 | [119039-paths-taken.json](./119039-paths-taken.json) |
 | Patriotika RPG: Shadow World | 298343 | [298343-patriotika-rpg-shadow-world.json](./298343-patriotika-rpg-shadow-world.json) |
 | Patron | 152393 | [152393-patron.json](./152393-patron.json) |
+| Pavor | 116378 | [116378-pavor.json](./116378-pavor.json) |
 | Paw Patrol | 298309 | [298309-paw-patrol.json](./298309-paw-patrol.json) |
 | Paw Patrol Bundle | 150141 | [150141-paw-patrol-bundle.json](./150141-paw-patrol-bundle.json) |
 | Paw Patrol: Laptop Infantil | 294467 | [294467-paw-patrol-laptop-infantil.json](./294467-paw-patrol-laptop-infantil.json) |
@@ -360,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Whispers | 291257 | [291257-phantom-whispers.json](./291257-phantom-whispers.json) |
 | Phantom Zone: Talon Fictions | 210897 | [210897-phantom-zone-talon-fictions.json](./210897-phantom-zone-talon-fictions.json) |
 | Phantoms | 278152 | [278152-phantoms.json](./278152-phantoms.json) |
+| Phar Lap: Horse Racing Challenge | 116374 | [116374-phar-lap-horse-racing-challenge.json](./116374-phar-lap-horse-racing-challenge.json) |
 | Pharaoh's Tomb | 262092 | [262092-pharaohs-tomb.json](./262092-pharaohs-tomb.json) |
 | Pharmacy Simulator | 297809 | [297809-pharmacy-simulator.json](./297809-pharmacy-simulator.json) |
 | Phase Zero | 335684 | [335684-phase-zero.json](./335684-phase-zero.json) |
