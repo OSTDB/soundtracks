@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Light-Years Away | 293938 | [293938-1000-light-years-away.json](./293938-1000-light-years-away.json) |
 | 1000 Seconds | 301027 | [301027-1000-seconds.json](./301027-1000-seconds.json) |
 | 1001 Jigsaw: Cute Cats 4 | 242231 | [242231-1001-jigsaw-cute-cats-4.json](./242231-1001-jigsaw-cute-cats-4.json) |
+| 1001 Jigsaw: Myths of Ancient Greece | 130923 | [130923-1001-jigsaw-myths-of-ancient-greece.json](./130923-1001-jigsaw-myths-of-ancient-greece.json) |
 | 100th Anniversary of the Crossword Puzzle | 233780 | [233780-100th-anniversary-of-the-crossword-puzzle.json](./233780-100th-anniversary-of-the-crossword-puzzle.json) |
 | 10K & The Kriminal World: Sammy's Attack | 195765 | [195765-10k-and-the-kriminal-world-sammys-attack.json](./195765-10k-and-the-kriminal-world-sammys-attack.json) |
 | 11.45 A Vivid Life | 176512 | [176512-11-45-a-vivid-life.json](./176512-11-45-a-vivid-life.json) |
