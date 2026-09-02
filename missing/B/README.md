@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballad of Antara | 303809 | [303809-ballad-of-antara.json](./303809-ballad-of-antara.json) |
 | Ballad of Ba'al | 189181 | [189181-ballad-of-baal.json](./189181-ballad-of-baal.json) |
 | Ballad of the Masked Bandits | 132255 | [132255-ballad-of-the-masked-bandits.json](./132255-ballad-of-the-masked-bandits.json) |
+| Ballance: The Return | 127371 | [127371-ballance-the-return.json](./127371-ballance-the-return.json) |
 | Ballastic | 336912 | [336912-ballastic.json](./336912-ballastic.json) |
 | Ballblazer | 273081 | [273081-ballblazer.json](./273081-ballblazer.json) |
 | Ballet Parking | 314070 | [314070-ballet-parking.json](./314070-ballet-parking.json) |
@@ -323,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat 'Em All | 265924 | [265924-beat-em-all.json](./265924-beat-em-all.json) |
 | Beat Banger | 253039 | [253039-beat-banger.json](./253039-beat-banger.json) |
 | Beat Blitz | 217028 | [217028-beat-blitz.json](./217028-beat-blitz.json) |
+| Beat or Die: The MiniGames | 127368 | [127368-beat-or-die-the-minigames.json](./127368-beat-or-die-the-minigames.json) |
 | Beat Refle | 209689 | [209689-beat-refle.json](./209689-beat-refle.json) |
 | Beat Rush | 166213 | [166213-beat-rush.json](./166213-beat-rush.json) |
 | Beat Rush | 265414 | [265414-beat-rush.json](./265414-beat-rush.json) |
@@ -765,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Babes: Sexy Fight Hentai Anime Girls | 165016 | [165016-boxing-babes-sexy-fight-hentai-anime-girls.json](./165016-boxing-babes-sexy-fight-hentai-anime-girls.json) |
 | Boxing Gym Story | 174339 | [174339-boxing-gym-story.json](./174339-boxing-gym-story.json) |
 | BoxLoop | 207542 | [207542-boxloop.json](./207542-boxloop.json) |
+| Boy Beats World | 127337 | [127337-boy-beats-world.json](./127337-boy-beats-world.json) |
 | Boyfriend Dungeon: Secret Weapons | 228681 | [228681-boyfriend-dungeon-secret-weapons.json](./228681-boyfriend-dungeon-secret-weapons.json) |
 | Boys Tale | 255358 | [255358-boys-tale.json](./255358-boys-tale.json) |
 | Bozalleth's Curse | 267088 | [267088-bozalleths-curse.json](./267088-bozalleths-curse.json) |
