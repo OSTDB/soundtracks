@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Cure 2 | 158195 | [158195-no-cure-2.json](./158195-no-cure-2.json) |
 | No Fair Play | 172755 | [172755-no-fair-play.json](./172755-no-fair-play.json) |
 | No Light | 150684 | [150684-no-light.json](./150684-no-light.json) |
+| No Love | 115048 | [115048-no-love.json](./115048-no-love.json) |
 | No More Heroes: Red Zone Edition | 116373 | [116373-no-more-heroes-red-zone-edition.json](./116373-no-more-heroes-red-zone-edition.json) |
 | No Rest | 302688 | [302688-no-rest.json](./302688-no-rest.json) |
 | No Son of Mine | 201314 | [201314-no-son-of-mine.json](./201314-no-son-of-mine.json) |
@@ -378,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Vacation for an Executioner | 305539 | [305539-no-vacation-for-an-executioner.json](./305539-no-vacation-for-an-executioner.json) |
 | No-brainer! Heroes | 134655 | [134655-no-brainer-heroes.json](./134655-no-brainer-heroes.json) |
 | No, Birdie, No! | 128640 | [128640-no-birdie-no.json](./128640-no-birdie-no.json) |
+| Noa Noa! | 115029 | [115029-noa-noa.json](./115029-noa-noa.json) |
 | Noah's Descent into Madness | 267096 | [267096-noahs-descent-into-madness.json](./267096-noahs-descent-into-madness.json) |
 | Noah's Dilemma | 291750 | [291750-noahs-dilemma.json](./291750-noahs-dilemma.json) |
 | NoAmmo | 210882 | [210882-noammo.json](./210882-noammo.json) |
