@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandido | 264322 | [264322-bandido.json](./264322-bandido.json) |
 | Bandit Accountancy | 336923 | [336923-bandit-accountancy.json](./336923-bandit-accountancy.json) |
 | Bandit Kings of Ancient China | 273085 | [273085-bandit-kings-of-ancient-china.json](./273085-bandit-kings-of-ancient-china.json) |
+| Bandit Skies | 96720 | [96720-bandit-skies.json](./96720-bandit-skies.json) |
 | Bandits | 228079 | [228079-bandits.json](./228079-bandits.json) |
 | Bandle | 294451 | [294451-bandle.json](./294451-bandle.json) |
 | Baneseed | 184658 | [184658-baneseed.json](./184658-baneseed.json) |
@@ -208,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barn Finders VR | 172184 | [172184-barn-finders-vr.json](./172184-barn-finders-vr.json) |
 | Barnanza | 119064 | [119064-barnanza.json](./119064-barnanza.json) |
 | Barney Shoot 'Em Up | 325816 | [325816-barney-shoot-em-up.json](./325816-barney-shoot-em-up.json) |
+| Barnyard Games For Kids | 96737 | [96737-barnyard-games-for-kids.json](./96737-barnyard-games-for-kids.json) |
 | Barrage Fantasia | 144356 | [144356-barrage-fantasia.json](./144356-barrage-fantasia.json) |
 | Barrel Blast | 172186 | [172186-barrel-blast.json](./172186-barrel-blast.json) |
 | Barrel-Blastapalooza | 231643 | [231643-barrel-blastapalooza.json](./231643-barrel-blastapalooza.json) |
