@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Hotel | 148531 | [148531-scary-hotel.json](./148531-scary-hotel.json) |
 | Scary Math Teacher Boss Pranks | 303260 | [303260-scary-math-teacher-boss-pranks.json](./303260-scary-math-teacher-boss-pranks.json) |
 | Scary Mine VR | 278695 | [278695-scary-mine-vr.json](./278695-scary-mine-vr.json) |
+| Scary Neighbor Survival | 100854 | [100854-scary-neighbor-survival.json](./100854-scary-neighbor-survival.json) |
 | Scary Robber: Home Clash | 227484 | [227484-scary-robber-home-clash.json](./227484-scary-robber-home-clash.json) |
 | Scary Shadow Spot: Bitter Glass | 328228 | [328228-scary-shadow-spot-bitter-glass.json](./328228-scary-shadow-spot-bitter-glass.json) |
 | Scary Stories | 323518 | [323518-scary-stories.json](./323518-scary-stories.json) |
@@ -426,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Asha | 203542 | [203542-shadow-of-asha.json](./203542-shadow-of-asha.json) |
 | Shadow of Atlantis | 298294 | [298294-shadow-of-atlantis.json](./298294-shadow-of-atlantis.json) |
 | Shadow of Chaos | 324701 | [324701-shadow-of-chaos.json](./324701-shadow-of-chaos.json) |
+| Shadow of Death: Dark Knight | 100823 | [100823-shadow-of-death-dark-knight.json](./100823-shadow-of-death-dark-knight.json) |
 | Shadow of the Tomb Raider: The Path Home | 117711 | [117711-shadow-of-the-tomb-raider-the-path-home.json](./117711-shadow-of-the-tomb-raider-the-path-home.json) |
 | Shadow Over Normoth | 183057 | [183057-shadow-over-normoth.json](./183057-shadow-over-normoth.json) |
 | Shadow Quest | 188095 | [188095-shadow-quest.json](./188095-shadow-quest.json) |
@@ -518,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shifted Heart | 235987 | [235987-shifted-heart.json](./235987-shifted-heart.json) |
 | Shijie Xiuxian | 295003 | [295003-shijie-xiuxian.json](./295003-shijie-xiuxian.json) |
 | Shimajiro no Eigo Activity Ehon: ABC Park de Asobou! | 327617 | [327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json](./327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json) |
+| Shin Hayarigami: Secret Club | 100817 | [100817-shin-hayarigami-secret-club.json](./100817-shin-hayarigami-secret-club.json) |
 | Shin Hisui no Shizuku: Hiiro no Kakera 2 DS | 124278 | [124278-shin-hisui-no-shizuku-hiiro-no-kakera-2-ds.json](./124278-shin-hisui-no-shizuku-hiiro-no-kakera-2-ds.json) |
 | Shin Koihime Musou: Kakumei - Ryuuki no Taimou | 127338 | [127338-shin-koihime-musou-kakumei-ryuuki-no-taimou.json](./127338-shin-koihime-musou-kakumei-ryuuki-no-taimou.json) |
 | Shin Mahjong Tenka Fubu | 188085 | [188085-shin-mahjong-tenka-fubu.json](./188085-shin-mahjong-tenka-fubu.json) |
@@ -766,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky of Tides | 122389 | [122389-sky-of-tides.json](./122389-sky-of-tides.json) |
 | Sky Races | 186909 | [186909-sky-races.json](./186909-sky-races.json) |
 | Sky Squadron | 139477 | [139477-sky-squadron.json](./139477-sky-squadron.json) |
+| Sky Whale | 100852 | [100852-sky-whale.json](./100852-sky-whale.json) |
 | Skycity | 274216 | [274216-skycity.json](./274216-skycity.json) |
 | Skycliffs | 190727 | [190727-skycliffs.json](./190727-skycliffs.json) |
 | SkyDive Racer | 233756 | [233756-skydive-racer.json](./233756-skydive-racer.json) |
@@ -1430,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport Girls | 157187 | [157187-sport-girls.json](./157187-sport-girls.json) |
 | Sports Car Challenge 2 | 233243 | [233243-sports-car-challenge-2.json](./233243-sports-car-challenge-2.json) |
 | Sports Car Driver | 187493 | [187493-sports-car-driver.json](./187493-sports-car-driver.json) |
+| Sports Car Driving Simulator 2018 | 100867 | [100867-sports-car-driving-simulator-2018.json](./100867-sports-car-driving-simulator-2018.json) |
 | Sports Champions / Medieval Moves: Deadmund's Quest Combo Pack | 268744 | [268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json](./268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json) |
 | Sports Hero | 311265 | [311265-sports-hero.json](./311265-sports-hero.json) |
 | Spot The Difference: Classic Finding Puzzle | 324123 | [324123-spot-the-difference-classic-finding-puzzle.json](./324123-spot-the-difference-classic-finding-puzzle.json) |
@@ -1656,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Hero Fighting Game | 254749 | [254749-stickman-hero-fighting-game.json](./254749-stickman-hero-fighting-game.json) |
 | Stickman Pixel Archer | 239348 | [239348-stickman-pixel-archer.json](./239348-stickman-pixel-archer.json) |
 | Stickman Skater | 174341 | [174341-stickman-skater.json](./174341-stickman-skater.json) |
+| Stickman Warriors Craft | 100834 | [100834-stickman-warriors-craft.json](./100834-stickman-warriors-craft.json) |
 | Stickman's Arena | 220862 | [220862-stickmans-arena.json](./220862-stickmans-arena.json) |
 | Sticky Pigeons | 177023 | [177023-sticky-pigeons.json](./177023-sticky-pigeons.json) |
 | Sticky Steve's Sticky Situation | 214191 | [214191-sticky-steves-sticky-situation.json](./214191-sticky-steves-sticky-situation.json) |
@@ -1740,6 +1746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Football 2 | 268209 | [268209-street-football-2.json](./268209-street-football-2.json) |
 | Street Hoops | 242807 | [242807-street-hoops.json](./242807-street-hoops.json) |
 | Street Karate 3 | 169468 | [169468-street-karate-3.json](./169468-street-karate-3.json) |
+| Street Karate Fighter | 100882 | [100882-street-karate-fighter.json](./100882-street-karate-fighter.json) |
 | Street Outlaws 2: Winner Takes All - Digital Deluxe Edition | 173797 | [173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json](./173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json) |
 | Street Racing Xtreme ( 3D Car Race Games ) | 105935 | [105935-street-racing-xtreme-3d-car-race-games.json](./105935-street-racing-xtreme-3d-car-race-games.json) |
 | Street Shuffle | 134659 | [134659-street-shuffle.json](./134659-street-shuffle.json) |
@@ -1894,6 +1901,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Collapse! Puzzle Gallery 4 | 201283 | [201283-super-collapse-puzzle-gallery-4.json](./201283-super-collapse-puzzle-gallery-4.json) |
 | Super Collapse! Puzzle Gallery 5 | 201284 | [201284-super-collapse-puzzle-gallery-5.json](./201284-super-collapse-puzzle-gallery-5.json) |
 | Super Contra | 217546 | [217546-super-contra.json](./217546-super-contra.json) |
+| Super Corners | 100776 | [100776-super-corners.json](./100776-super-corners.json) |
+| Super Craft: Building Game | 100851 | [100851-super-craft-building-game.json](./100851-super-craft-building-game.json) |
 | Super Cream 64: The Grand Finale | 214764 | [214764-super-cream-64-the-grand-finale.json](./214764-super-cream-64-the-grand-finale.json) |
 | Super Dapper Man vs. Furries | 310215 | [310215-super-dapper-man-vs-furries.json](./310215-super-dapper-man-vs-furries.json) |
 | Super Darts VR | 111720 | [111720-super-darts-vr.json](./111720-super-darts-vr.json) |
@@ -2142,6 +2151,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superdimensional | 181381 | [181381-superdimensional.json](./181381-superdimensional.json) |
 | Superfighter | 325272 | [325272-superfighter.json](./325272-superfighter.json) |
 | Superhero Robot Merge Master | 214167 | [214167-superhero-robot-merge-master.json](./214167-superhero-robot-merge-master.json) |
+| Superhero Wrestling Battle Arena Ring Fighting | 100857 | [100857-superhero-wrestling-battle-arena-ring-fighting.json](./100857-superhero-wrestling-battle-arena-ring-fighting.json) |
+| Superheroes Fast Highway Racing Challenges | 100869 | [100869-superheroes-fast-highway-racing-challenges.json](./100869-superheroes-fast-highway-racing-challenges.json) |
 | Superheroes: Power of New Horizons Legacy | 324124 | [324124-superheroes-power-of-new-horizons-legacy.json](./324124-superheroes-power-of-new-horizons-legacy.json) |
 | Superkid | 123064 | [123064-superkid.json](./123064-superkid.json) |
 | SuperLandlady | 237657 | [237657-superlandlady.json](./237657-superlandlady.json) |
