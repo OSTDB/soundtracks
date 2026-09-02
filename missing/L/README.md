@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Death Demonicron | 310761 | [310761-lady-death-demonicron.json](./310761-lady-death-demonicron.json) |
 | Lady Godiva: Naked Eye | 310741 | [310741-lady-godiva-naked-eye.json](./310741-lady-godiva-naked-eye.json) |
 | Lady Pac | 185165 | [185165-lady-pac.json](./185165-lady-pac.json) |
+| Lady's Hentai Mosaic | 112981 | [112981-ladys-hentai-mosaic.json](./112981-ladys-hentai-mosaic.json) |
 | Lagoon | 276473 | [276473-lagoon.json](./276473-lagoon.json) |
 | Laguna Racer | 170525 | [170525-laguna-racer.json](./170525-laguna-racer.json) |
 | Laid-Back Camp: Have a nice day! | 146334 | [146334-laid-back-camp-have-a-nice-day.json](./146334-laid-back-camp-have-a-nice-day.json) |
