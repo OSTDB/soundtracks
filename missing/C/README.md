@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Life: World Edition | 206347 | [206347-city-life-world-edition.json](./206347-city-life-world-edition.json) |
 | City of Gangsters: Deluxe Edition | 173783 | [173783-city-of-gangsters-deluxe-edition.json](./173783-city-of-gangsters-deluxe-edition.json) |
 | City of Love: Paris | 227511 | [227511-city-of-love-paris.json](./227511-city-of-love-paris.json) |
+| City of Mist | 112328 | [112328-city-of-mist.json](./112328-city-of-mist.json) |
 | City of Rampage | 217025 | [217025-city-of-rampage.json](./217025-city-of-rampage.json) |
 | City of Scrap | 183575 | [183575-city-of-scrap.json](./183575-city-of-scrap.json) |
 | City of Secrets 2: Episode 1 | 146872 | [146872-city-of-secrets-2-episode-1.json](./146872-city-of-secrets-2-episode-1.json) |
@@ -681,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: Rogue Fleet - The Reinforcements | 156155 | [156155-codename-rogue-fleet-the-reinforcements.json](./156155-codename-rogue-fleet-the-reinforcements.json) |
 | CodeWordPlay | 228096 | [228096-codewordplay.json](./228096-codewordplay.json) |
 | Coffee Extra: Ukuzala | 320528 | [320528-coffee-extra-ukuzala.json](./320528-coffee-extra-ukuzala.json) |
+| Coffee Mafia | 112322 | [112322-coffee-mafia.json](./112322-coffee-mafia.json) |
 | Coffee VendoR | 113685 | [113685-coffee-vendor.json](./113685-coffee-vendor.json) |
 | Coffee with Prescilla | 169428 | [169428-coffee-with-prescilla.json](./169428-coffee-with-prescilla.json) |
 | Coffin Counseling | 179704 | [179704-coffin-counseling.json](./179704-coffin-counseling.json) |
@@ -1062,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Reunion | 237652 | [237652-cross-reunion.json](./237652-cross-reunion.json) |
 | crossbeats REV. | 126033 | [126033-crossbeats-rev.json](./126033-crossbeats-rev.json) |
 | Crossbow Crusade | 148568 | [148568-crossbow-crusade.json](./148568-crossbow-crusade.json) |
+| Crossbow Potato | 112311 | [112311-crossbow-potato.json](./112311-crossbow-potato.json) |
 | Crossclimb | 321118 | [321118-crossclimb.json](./321118-crossclimb.json) |
 | Crossed Paths | 183045 | [183045-crossed-paths.json](./183045-crossed-paths.json) |
 | Crossedland | 207501 | [207501-crossedland.json](./207501-crossedland.json) |
@@ -1129,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Lab | 339086 | [339086-cube-lab.json](./339086-cube-lab.json) |
 | Cube Mission | 113723 | [113723-cube-mission.json](./113723-cube-mission.json) |
 | Cube Rampage | 134702 | [134702-cube-rampage.json](./134702-cube-rampage.json) |
+| Cube Rush | 112340 | [112340-cube-rush.json](./112340-cube-rush.json) |
 | Cube World | 195215 | [195215-cube-world.json](./195215-cube-world.json) |
 | Cubed | 120996 | [120996-cubed.json](./120996-cubed.json) |
 | CubeDood in the Memory Snatcher | 239336 | [239336-cubedood-in-the-memory-snatcher.json](./239336-cubedood-in-the-memory-snatcher.json) |
