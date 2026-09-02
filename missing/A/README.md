@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Starspangled Zephyr | 179189 | [179189-a-starspangled-zephyr.json](./179189-a-starspangled-zephyr.json) |
 | A Story About Birds | 320523 | [320523-a-story-about-birds.json](./320523-a-story-about-birds.json) |
 | A Story of a Company! | 200740 | [200740-a-story-of-a-company.json](./200740-a-story-of-a-company.json) |
+| A Story of Us: Ep. 1 - First Memories | 115043 | [115043-a-story-of-us-ep-1-first-memories.json](./115043-a-story-of-us-ep-1-first-memories.json) |
 | A Tale of Body Limbs | 331142 | [331142-a-tale-of-body-limbs.json](./331142-a-tale-of-body-limbs.json) |
 | A Tale of Synapse: The Chaos Theories - Collector's Edition | 152341 | [152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json](./152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json) |
 | A Terrible Place | 237062 | [237062-a-terrible-place.json](./237062-a-terrible-place.json) |
@@ -172,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Pact | 339129 | [339129-abyss-pact.json](./339129-abyss-pact.json) |
 | Abyss Survivors | 311261 | [311261-abyss-survivors.json](./311261-abyss-survivors.json) |
 | Abysus Arena | 303751 | [303751-abysus-arena.json](./303751-abysus-arena.json) |
+| ACA Neo Geo: Puzzle Bobble 2 | 115050 | [115050-aca-neo-geo-puzzle-bobble-2.json](./115050-aca-neo-geo-puzzle-bobble-2.json) |
 | ACA Neo Geo: The Ultimate 11 - SNK Football Championship | 115665 | [115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json](./115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json) |
 | Acassia | 209660 | [209660-acassia.json](./209660-acassia.json) |
 | Acatalepsy | 150169 | [150169-acatalepsy.json](./150169-acatalepsy.json) |
@@ -319,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires IV: Anniversary Edition | 221950 | [221950-age-of-empires-iv-anniversary-edition.json](./221950-age-of-empires-iv-anniversary-edition.json) |
 | Age of Goblins | 265403 | [265403-age-of-goblins.json](./265403-age-of-goblins.json) |
 | Age of Ottoman | 200739 | [200739-age-of-ottoman.json](./200739-age-of-ottoman.json) |
+| Age of Solitaire | 115051 | [115051-age-of-solitaire.json](./115051-age-of-solitaire.json) |
 | Age of Solitaire: Build Civilization | 211422 | [211422-age-of-solitaire-build-civilization.json](./211422-age-of-solitaire-build-civilization.json) |
 | Age of Trades | 176477 | [176477-age-of-trades.json](./176477-age-of-trades.json) |
 | Age of Wonders 4: Archon Prophecy | 325846 | [325846-age-of-wonders-4-archon-prophecy.json](./325846-age-of-wonders-4-archon-prophecy.json) |
@@ -946,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asdivine Collection | 172729 | [172729-asdivine-collection.json](./172729-asdivine-collection.json) |
 | Asesinato en 7º Grado (Por lo Menos) | 317029 | [317029-asesinato-en-7o-grado-por-lo-menos.json](./317029-asesinato-en-7o-grado-por-lo-menos.json) |
 | Asesinato en 7º Grado 2 (La Huida) | 317030 | [317030-asesinato-en-7o-grado-2-la-huida.json](./317030-asesinato-en-7o-grado-2-la-huida.json) |
+| Asgard's Wrath | 115031 | [115031-asgards-wrath.json](./115031-asgards-wrath.json) |
 | Ash Arms | 180283 | [180283-ash-arms.json](./180283-ash-arms.json) |
 | Ash of Gods: Fan Edition | 257095 | [257095-ash-of-gods-fan-edition.json](./257095-ash-of-gods-fan-edition.json) |
 | Ash of Gods: Universe Bundle | 257096 | [257096-ash-of-gods-universe-bundle.json](./257096-ash-of-gods-universe-bundle.json) |
@@ -1147,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awexome Cross | 135869 | [135869-awexome-cross.json](./135869-awexome-cross.json) |
 | Awful Kidnapper | 300410 | [300410-awful-kidnapper.json](./300410-awful-kidnapper.json) |
 | Axe Over It | 144296 | [144296-axe-over-it.json](./144296-axe-over-it.json) |
+| Axe Prime | 115046 | [115046-axe-prime.json](./115046-axe-prime.json) |
 | Axegend | 131596 | [131596-axegend.json](./131596-axegend.json) |
 | Axiom | 234347 | [234347-axiom.json](./234347-axiom.json) |
 | Axium's Box | 235453 | [235453-axiums-box.json](./235453-axiums-box.json) |
