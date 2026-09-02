@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Quest | 145651 | [145651-dark-quest.json](./145651-dark-quest.json) |
 | Dark Romance: Vampire Origins - Collector's Edition | 209716 | [209716-dark-romance-vampire-origins-collectors-edition.json](./209716-dark-romance-vampire-origins-collectors-edition.json) |
 | Dark Skies 2: Keepers of Nemansk | 296689 | [296689-dark-skies-2-keepers-of-nemansk.json](./296689-dark-skies-2-keepers-of-nemansk.json) |
+| Dark Swords | 119044 | [119044-dark-swords.json](./119044-dark-swords.json) |
 | Dark Tales: Edgar Allan Poe's The Black Cat - Collector's Edition | 201826 | [201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json](./201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json) |
 | Dark Tartarus | 260950 | [260950-dark-tartarus.json](./260950-dark-tartarus.json) |
 | Dark Zone Defense | 125439 | [125439-dark-zone-defense.json](./125439-dark-zone-defense.json) |
@@ -438,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Mail | 318758 | [318758-devil-mail.json](./318758-devil-mail.json) |
 | Devil May Cry | 302712 | [302712-devil-may-cry.json](./302712-devil-may-cry.json) |
 | Devil Zone | 300401 | [300401-devil-zone.json](./300401-devil-zone.json) |
+| Devil_catching_bees | 119012 | [119012-devil-catching-bees.json](./119012-devil-catching-bees.json) |
 | Devolution: Maken no Ou to Shimobe-tachi | 220329 | [220329-devolution-maken-no-ou-to-shimobe-tachi.json](./220329-devolution-maken-no-ou-to-shimobe-tachi.json) |
 | Devour | 181916 | [181916-devour.json](./181916-devour.json) |
 | Devwill Too ZX | 333924 | [333924-devwill-too-zx.json](./333924-devwill-too-zx.json) |
@@ -699,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dooblets | 302657 | [302657-dooblets.json](./302657-dooblets.json) |
 | Doodle Empires | 336893 | [336893-doodle-empires.json](./336893-doodle-empires.json) |
 | Doodle Escape | 338011 | [338011-doodle-escape.json](./338011-doodle-escape.json) |
+| Doodle God Bundle | 119072 | [119072-doodle-god-bundle.json](./119072-doodle-god-bundle.json) |
 | Doodle God: Fantasy World of Magic | 186346 | [186346-doodle-god-fantasy-world-of-magic.json](./186346-doodle-god-fantasy-world-of-magic.json) |
 | DoodleBob and the Magic Pencil | 341323 | [341323-doodlebob-and-the-magic-pencil.json](./341323-doodlebob-and-the-magic-pencil.json) |
 | DoodleBob and the Magic Pencil DX | 341325 | [341325-doodlebob-and-the-magic-pencil-dx.json](./341325-doodlebob-and-the-magic-pencil-dx.json) |
