@@ -844,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run & Jump Guy | 304363 | [304363-run-and-jump-guy.json](./304363-run-and-jump-guy.json) |
 | Run Away With Me, Empress! | 225270 | [225270-run-away-with-me-empress.json](./225270-run-away-with-me-empress.json) |
 | Run Buddy | 274211 | [274211-run-buddy.json](./274211-run-buddy.json) |
+| Run Fairy | 111014 | [111014-run-fairy.json](./111014-run-fairy.json) |
 | Run for Cheese | 174356 | [174356-run-for-cheese.json](./174356-run-for-cheese.json) |
 | Run Gor | 270932 | [270932-run-gor.json](./270932-run-gor.json) |
 | Run or Boom | 215927 | [215927-run-or-boom.json](./215927-run-or-boom.json) |
