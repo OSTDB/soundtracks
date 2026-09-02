@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raishi | 222500 | [222500-raishi.json](./222500-raishi.json) |
 | RaKoval~Nya: Escape Edition | 102164 | [102164-rakoval-nya-escape-edition.json](./102164-rakoval-nya-escape-edition.json) |
 | Rally | 197381 | [197381-rally.json](./197381-rally.json) |
+| Rally Championship: The X-Miles | 100179 | [100179-rally-championship-the-x-miles.json](./100179-rally-championship-the-x-miles.json) |
 | Rally Drifters Racing Cars 3D: Ultimate Fast Car Gang Challange | 232164 | [232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json](./232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json) |
 | Rally of Rockets | 112330 | [112330-rally-of-rockets.json](./112330-rally-of-rockets.json) |
 | Rally Racing | 186867 | [186867-rally-racing.json](./186867-rally-racing.json) |
@@ -163,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raze 2070 | 151193 | [151193-raze-2070.json](./151193-raze-2070.json) |
 | Razed Earth | 192423 | [192423-razed-earth.json](./192423-razed-earth.json) |
 | RC Airplane Challenge | 158711 | [158711-rc-airplane-challenge.json](./158711-rc-airplane-challenge.json) |
+| RC Toy Machines | 100173 | [100173-rc-toy-machines.json](./100173-rc-toy-machines.json) |
 | RDS: The Official Drift Videogame - Premium Cars Pack #1 | 226977 | [226977-rds-the-official-drift-videogame-premium-cars-pack-1.json](./226977-rds-the-official-drift-videogame-premium-cars-pack-1.json) |
 | RDS: The Official Drift Videogame - Premium Cars Pack #2 | 226978 | [226978-rds-the-official-drift-videogame-premium-cars-pack-2.json](./226978-rds-the-official-drift-videogame-premium-cars-pack-2.json) |
 | RDS: The Official Drift Videogame - Russian Cars Pack | 226979 | [226979-rds-the-official-drift-videogame-russian-cars-pack.json](./226979-rds-the-official-drift-videogame-russian-cars-pack.json) |
@@ -210,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Rally | 240493 | [240493-real-rally.json](./240493-real-rally.json) |
 | Real Soccer 2007 | 116347 | [116347-real-soccer-2007.json](./116347-real-soccer-2007.json) |
 | Real Soccer 2011 | 116348 | [116348-real-soccer-2011.json](./116348-real-soccer-2011.json) |
+| Real Tennis | 100200 | [100200-real-tennis.json](./100200-real-tennis.json) |
 | Real Time Assist Replay Time | 251243 | [251243-real-time-assist-replay-time.json](./251243-real-time-assist-replay-time.json) |
 | Real Time Attack | 290698 | [290698-real-time-attack.json](./290698-real-time-attack.json) |
 | Real Truck Simulator 2022 | 219283 | [219283-real-truck-simulator-2022.json](./219283-real-truck-simulator-2022.json) |
@@ -262,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ball Adventure 3D | 102778 | [102778-red-ball-adventure-3d.json](./102778-red-ball-adventure-3d.json) |
 | Red Ball Super Run | 228711 | [228711-red-ball-super-run.json](./228711-red-ball-super-run.json) |
 | Red Bash | 187537 | [187537-red-bash.json](./187537-red-bash.json) |
+| Red Bull Air Race 2 | 100165 | [100165-red-bull-air-race-2.json](./100165-red-bull-air-race-2.json) |
 | Red Bull: Soapbox Racers | 336920 | [336920-red-bull-soapbox-racers.json](./336920-red-bull-soapbox-racers.json) |
 | Red Colony | 139466 | [139466-red-colony.json](./139466-red-colony.json) |
 | Red Conquer | 186862 | [186862-red-conquer.json](./186862-red-conquer.json) |
