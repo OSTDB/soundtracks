@@ -1056,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seven Realms: Realm - Pythonium | 331105 | [331105-the-seven-realms-realm-pythonium.json](./331105-the-seven-realms-realm-pythonium.json) |
 | The Seven Realms: Realm 3 - High Lathión | 267673 | [267673-the-seven-realms-realm-3-high-lathion.json](./267673-the-seven-realms-realm-3-high-lathion.json) |
 | The Seven Years War (1756-1763): Pomeranian War | 171610 | [171610-the-seven-years-war-1756-1763-pomeranian-war.json](./171610-the-seven-years-war-1756-1763-pomeranian-war.json) |
+| The Shadow Sun | 108496 | [108496-the-shadow-sun.json](./108496-the-shadow-sun.json) |
 | The Shape on the Ground | 152383 | [152383-the-shape-on-the-ground.json](./152383-the-shape-on-the-ground.json) |
 | The Shape You Make When You Want Your Bones to Be Closest to the Surface | 123625 | [123625-the-shape-you-make-when-you-want-your-bones-to-be-closest-to-the-surface.json](./123625-the-shape-you-make-when-you-want-your-bones-to-be-closest-to-the-surface.json) |
 | The Shedding | 114372 | [114372-the-shedding.json](./114372-the-shedding.json) |
@@ -1353,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrillville: Off the Rails | 322364 | [322364-thrillville-off-the-rails.json](./322364-thrillville-off-the-rails.json) |
 | Thrive | 142499 | [142499-thrive.json](./142499-thrive.json) |
 | Throb of Lovegirl: A Ero Waifu TD | 175983 | [175983-throb-of-lovegirl-a-ero-waifu-td.json](./175983-throb-of-lovegirl-a-ero-waifu-td.json) |
+| Throne of Magic | 108502 | [108502-throne-of-magic.json](./108502-throne-of-magic.json) |
 | Throw Cubes into Brick Towers to Collapse Them | 134662 | [134662-throw-cubes-into-brick-towers-to-collapse-them.json](./134662-throw-cubes-into-brick-towers-to-collapse-them.json) |
 | Throw M | 319962 | [319962-throw-m.json](./319962-throw-m.json) |
 | Throw Me in the River | 149600 | [149600-throw-me-in-the-river.json](./149600-throw-me-in-the-river.json) |
@@ -1558,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tim & Bear at the Airport | 127323 | [127323-tim-and-bear-at-the-airport.json](./127323-tim-and-bear-at-the-airport.json) |
 | Tim's Birthday | 150126 | [150126-tims-birthday.json](./150126-tims-birthday.json) |
 | Timber Jump VR | 149589 | [149589-timber-jump-vr.json](./149589-timber-jump-vr.json) |
+| Timber Slash | 108473 | [108473-timber-slash.json](./108473-timber-slash.json) |
 | Time | 130947 | [130947-time.json](./130947-time.json) |
 | Time Attack! RPG | 152382 | [152382-time-attack-rpg.json](./152382-time-attack-rpg.json) |
 | Time is Solid Here | 197960 | [197960-time-is-solid-here.json](./197960-time-is-solid-here.json) |
@@ -1724,6 +1727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Many Kittens | 269839 | [269839-too-many-kittens.json](./269839-too-many-kittens.json) |
 | Took: The Immortal Hero | 329365 | [329365-took-the-immortal-hero.json](./329365-took-the-immortal-hero.json) |
 | Tools Up! Garden Party: Season Pass | 202935 | [202935-tools-up-garden-party-season-pass.json](./202935-tools-up-garden-party-season-pass.json) |
+| Toon Puzzle Quest | 108480 | [108480-toon-puzzle-quest.json](./108480-toon-puzzle-quest.json) |
 | Toontown: The Grindworks | 333930 | [333930-toontown-the-grindworks.json](./333930-toontown-the-grindworks.json) |
 | Top Down Battlegrounds | 292850 | [292850-top-down-battlegrounds.json](./292850-top-down-battlegrounds.json) |
 | Top Troops! | 228123 | [228123-top-troops.json](./228123-top-troops.json) |
@@ -1870,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailpa | 256518 | [256518-trailpa.json](./256518-trailpa.json) |
 | Trails of Illusion | 197951 | [197951-trails-of-illusion.json](./197951-trails-of-illusion.json) |
 | Trails of Sunder | 241077 | [241077-trails-of-sunder.json](./241077-trails-of-sunder.json) |
+| Train Merger | 108472 | [108472-train-merger.json](./108472-train-merger.json) |
 | Train No. 7 | 163960 | [163960-train-no-7.json](./163960-train-no-7.json) |
 | Train Sim World 2: DB BR 182 Loco Add-On | 167301 | [167301-train-sim-world-2-db-br-182-loco-add-on.json](./167301-train-sim-world-2-db-br-182-loco-add-on.json) |
 | Train Sim World 2: Harlem Line - Grand Central Terminal: North White Plains Route | 195778 | [195778-train-sim-world-2-harlem-line-grand-central-terminal-north-white-plains-route.json](./195778-train-sim-world-2-harlem-line-grand-central-terminal-north-white-plains-route.json) |
