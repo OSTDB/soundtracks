@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pair Matching Puzzle Connect: Expansion Pack 7 | 163449 | [163449-pair-matching-puzzle-connect-expansion-pack-7.json](./163449-pair-matching-puzzle-connect-expansion-pack-7.json) |
 | Pair Matching Puzzle Connect: Expansion Pack 8 | 163441 | [163441-pair-matching-puzzle-connect-expansion-pack-8.json](./163441-pair-matching-puzzle-connect-expansion-pack-8.json) |
 | Pako Highway | 212448 | [212448-pako-highway.json](./212448-pako-highway.json) |
+| Palace of Woe | 134683 | [134683-palace-of-woe.json](./134683-palace-of-woe.json) |
 | Paladin's Oath | 190739 | [190739-paladins-oath.json](./190739-paladins-oath.json) |
 | Pale Carnations | 239316 | [239316-pale-carnations.json](./239316-pale-carnations.json) |
 | Palette Swap | 163993 | [163993-palette-swap.json](./163993-palette-swap.json) |
@@ -281,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 Reload: Persona 5 Royal Shujin Academy Costume Set | 301572 | [301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json](./301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json) |
 | Persona 4: Golden Grimoire Edition | 273106 | [273106-persona-4-golden-grimoire-edition.json](./273106-persona-4-golden-grimoire-edition.json) |
 | Persona 4: Golden Midnight Channel Edition | 273107 | [273107-persona-4-golden-midnight-channel-edition.json](./273107-persona-4-golden-midnight-channel-edition.json) |
+| Persona 4: Racing All Afternoon | 134690 | [134690-persona-4-racing-all-afternoon.json](./134690-persona-4-racing-all-afternoon.json) |
 | Persona 5 Dancing in Starlight: Picaresque Mouse Set | 324706 | [324706-persona-5-dancing-in-starlight-picaresque-mouse-set.json](./324706-persona-5-dancing-in-starlight-picaresque-mouse-set.json) |
 | Persona 5 Royal: 1 More Edition | 261539 | [261539-persona-5-royal-1-more-edition.json](./261539-persona-5-royal-1-more-edition.json) |
 | Persona 5: Dancing in starlight - Dance! (OP ver.) | 324704 | [324704-persona-5-dancing-in-starlight-dance-op-ver.json](./324704-persona-5-dancing-in-starlight-dance-op-ver.json) |
@@ -347,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Wright: Ace Attorney - Tails Abuse In Court | 303756 | [303756-phoenix-wright-ace-attorney-tails-abuse-in-court.json](./303756-phoenix-wright-ace-attorney-tails-abuse-in-court.json) |
 | Phoenix Wright: Ace Attorney - Truth and Consequences | 302651 | [302651-phoenix-wright-ace-attorney-truth-and-consequences.json](./302651-phoenix-wright-ace-attorney-truth-and-consequences.json) |
 | Phoenix Wright: Ace Attorney Trilogy - E-Capcom Limited Edition | 205266 | [205266-phoenix-wright-ace-attorney-trilogy-e-capcom-limited-edition.json](./205266-phoenix-wright-ace-attorney-trilogy-e-capcom-limited-edition.json) |
+| Phonequest | 134694 | [134694-phonequest.json](./134694-phonequest.json) |
 | Photogeist Albums: Case 1 | 307337 | [307337-photogeist-albums-case-1.json](./307337-photogeist-albums-case-1.json) |
 | Phraze Craze | 307911 | [307911-phraze-craze.json](./307911-phraze-craze.json) |
 | Phyrexia | 208055 | [208055-phyrexia.json](./208055-phyrexia.json) |
@@ -553,8 +556,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playing With Fire 2 | 202372 | [202372-playing-with-fire-2.json](./202372-playing-with-fire-2.json) |
 | Playtown Genesis | 319376 | [319376-playtown-genesis.json](./319376-playtown-genesis.json) |
 | Playtown Remake | 332807 | [332807-playtown-remake.json](./332807-playtown-remake.json) |
+| Please | 134675 | [134675-please.json](./134675-please.json) |
 | Please (Don't) Touch the Art | 276478 | [276478-please-dont-touch-the-art.json](./276478-please-dont-touch-the-art.json) |
 | Please Answer Carefully | 176488 | [176488-please-answer-carefully.json](./176488-please-answer-carefully.json) |
+| Please Follow | 134681 | [134681-please-follow.json](./134681-please-follow.json) |
 | Please Stop Crying | 291230 | [291230-please-stop-crying.json](./291230-please-stop-crying.json) |
 | Pleasuredrome | 325246 | [325246-pleasuredrome.json](./325246-pleasuredrome.json) |
 | Pleasuredromes Of Kubla Khan | 268738 | [268738-pleasuredromes-of-kubla-khan.json](./268738-pleasuredromes-of-kubla-khan.json) |
