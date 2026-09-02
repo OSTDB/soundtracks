@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Straight Roads: Collector's Edition | 166225 | [166225-no-straight-roads-collectors-edition.json](./166225-no-straight-roads-collectors-edition.json) |
 | No Straight Roads: Encore Edition | 178093 | [178093-no-straight-roads-encore-edition.json](./178093-no-straight-roads-encore-edition.json) |
 | No Sun To Worship | 236015 | [236015-no-sun-to-worship.json](./236015-no-sun-to-worship.json) |
+| No Time Left | 104111 | [104111-no-time-left.json](./104111-no-time-left.json) |
 | No Time to Build | 337484 | [337484-no-time-to-build.json](./337484-no-time-to-build.json) |
 | No Transmission | 183070 | [183070-no-transmission.json](./183070-no-transmission.json) |
 | No Vacation for an Executioner | 305539 | [305539-no-vacation-for-an-executioner.json](./305539-no-vacation-for-an-executioner.json) |
@@ -458,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nora's Dream | 200732 | [200732-noras-dream.json](./200732-noras-dream.json) |
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
 | NoRoY | 193490 | [193490-noroy.json](./193490-noroy.json) |
+| North Stars | 102143 | [102143-north-stars.json](./102143-north-stars.json) |
 | Northbury Grove: Walls Closing In | 183062 | [183062-northbury-grove-walls-closing-in.json](./183062-northbury-grove-walls-closing-in.json) |
 | Northern Blade | 145643 | [145643-northern-blade.json](./145643-northern-blade.json) |
 | Northern Tale 3 | 105980 | [105980-northern-tale-3.json](./105980-northern-tale-3.json) |
@@ -537,4 +539,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyamo's Adventure | 182513 | [182513-nyamos-adventure.json](./182513-nyamos-adventure.json) |
 | Nyanco Project | 120984 | [120984-nyanco-project.json](./120984-nyanco-project.json) |
 | Nyjah Huston: #Skatelife | 105907 | [105907-nyjah-huston-skatelife.json](./105907-nyjah-huston-skatelife.json) |
+| Nykra | 102195 | [102195-nykra.json](./102195-nykra.json) |
 | Nykrig | 184646 | [184646-nykrig.json](./184646-nykrig.json) |
