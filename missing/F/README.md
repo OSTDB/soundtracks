@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Filly Fantasy VI | 312347 | [312347-filly-fantasy-vi.json](./312347-filly-fantasy-vi.json) |
 | Fin Fin: On Teo, the Magic Planet | 172775 | [172775-fin-fin-on-teo-the-magic-planet.json](./172775-fin-fin-on-teo-the-magic-planet.json) |
 | FIN: The Way Home | 302127 | [302127-fin-the-way-home.json](./302127-fin-the-way-home.json) |
+| Fina | 127981 | [127981-fina.json](./127981-fina.json) |
 | Final 5: Survival! | 234332 | [234332-final-5-survival.json](./234332-final-5-survival.json) |
 | Final Blockade | 203567 | [203567-final-blockade.json](./203567-final-blockade.json) |
 | Final Factory | 236524 | [236524-final-factory.json](./236524-final-factory.json) |
@@ -696,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogstool | 337479 | [337479-frogstool.json](./337479-frogstool.json) |
 | Frogurai | 226454 | [226454-frogurai.json](./226454-frogurai.json) |
 | Frogvival | 235482 | [235482-frogvival.json](./235482-frogvival.json) |
+| From Flames | 127977 | [127977-from-flames.json](./127977-from-flames.json) |
 | From Four Sides | 296090 | [296090-from-four-sides.json](./296090-from-four-sides.json) |
 | From Hell | 320524 | [320524-from-hell.json](./320524-from-hell.json) |
 | From Madness with Love | 215934 | [215934-from-madness-with-love.json](./215934-from-madness-with-love.json) |
@@ -745,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Gear | 229922 | [229922-full-gear.json](./229922-full-gear.json) |
 | Full Swing Golf | 299472 | [299472-full-swing-golf.json](./299472-full-swing-golf.json) |
 | Full Voice Throttle | 181352 | [181352-full-voice-throttle.json](./181352-full-voice-throttle.json) |
+| Funbag Fantasy: Sideboob Story | 127949 | [127949-funbag-fantasy-sideboob-story.json](./127949-funbag-fantasy-sideboob-story.json) |
 | Funfair Billionaire | 334493 | [334493-funfair-billionaire.json](./334493-funfair-billionaire.json) |
 | Fungal Colony Simulator | 257690 | [257690-fungal-colony-simulator.json](./257690-fungal-colony-simulator.json) |
 | FungEye | 291235 | [291235-fungeye.json](./291235-fungeye.json) |
