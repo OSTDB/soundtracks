@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cactus Cowboy: Desert Warfare | 263233 | [263233-cactus-cowboy-desert-warfare.json](./263233-cactus-cowboy-desert-warfare.json) |
 | Cadde | 265401 | [265401-cadde.json](./265401-cadde.json) |
 | Cadeau | 326952 | [326952-cadeau.json](./326952-cadeau.json) |
+| Cadria Item Shop | 107894 | [107894-cadria-item-shop.json](./107894-cadria-item-shop.json) |
 | Café Bouvardie | 225269 | [225269-cafe-bouvardie.json](./225269-cafe-bouvardie.json) |
 | Cafe Cuillere | 141888 | [141888-cafe-cuillere.json](./141888-cafe-cuillere.json) |
 | Café Enchanté: Limited Edition | 254787 | [254787-cafe-enchante-limited-edition.json](./254787-cafe-enchante-limited-edition.json) |
@@ -1033,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Pizza Boy | 242214 | [242214-crazy-pizza-boy.json](./242214-crazy-pizza-boy.json) |
 | Crazy Shipping | 324080 | [324080-crazy-shipping.json](./324080-crazy-shipping.json) |
 | Crazy Teacher of Math in School Education Learning | 303259 | [303259-crazy-teacher-of-math-in-school-education-learning.json](./303259-crazy-teacher-of-math-in-school-education-learning.json) |
+| CrazyDriving | 107853 | [107853-crazydriving.json](./107853-crazydriving.json) |
 | CrazyKart | 117720 | [117720-crazykart.json](./117720-crazykart.json) |
 | CRE1M1: Greyvein River | 276475 | [276475-cre1m1-greyvein-river.json](./276475-cre1m1-greyvein-river.json) |
 | Creaks: Collector's Edition | 154553 | [154553-creaks-collectors-edition.json](./154553-creaks-collectors-edition.json) |
