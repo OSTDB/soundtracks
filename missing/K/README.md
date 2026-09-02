@@ -168,10 +168,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidnappers | 301610 | [301610-kidnappers.json](./301610-kidnappers.json) |
 | Kidou Senshi Gundam: Fushigi no Dungeon | 311283 | [311283-kidou-senshi-gundam-fushigi-no-dungeon.json](./311283-kidou-senshi-gundam-fushigi-no-dungeon.json) |
 | Kids Cars | 213647 | [213647-kids-cars.json](./213647-kids-cars.json) |
+| Kids Dinosaur Rex Jigsaw Puzzles | 96749 | [96749-kids-dinosaur-rex-jigsaw-puzzles.json](./96749-kids-dinosaur-rex-jigsaw-puzzles.json) |
 | Kids Dreamland Adventures | 101552 | [101552-kids-dreamland-adventures.json](./101552-kids-dreamland-adventures.json) |
 | Kids Learn Animal Words | 97915 | [97915-kids-learn-animal-words.json](./97915-kids-learn-animal-words.json) |
 | Kids Puzzle - 2 in 1 Bundle | 231048 | [231048-kids-puzzle-2-in-1-bundle.json](./231048-kids-puzzle-2-in-1-bundle.json) |
 | Kids: Zoo Puzzle | 215395 | [215395-kids-zoo-puzzle.json](./215395-kids-zoo-puzzle.json) |
+| Kiitsu | 96734 | [96734-kiitsu.json](./96734-kiitsu.json) |
 | Kiki's Adventure | 125462 | [125462-kikis-adventure.json](./125462-kikis-adventure.json) |
 | Kikokugai | 232662 | [232662-kikokugai.json](./232662-kikokugai.json) |
 | KilaFlow | 265955 | [265955-kilaflow.json](./265955-kilaflow.json) |
