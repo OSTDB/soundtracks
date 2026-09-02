@@ -1044,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: The MIR Incident | 204062 | [204062-project-the-mir-incident.json](./204062-project-the-mir-incident.json) |
 | Project: Waterfall | 224783 | [224783-project-waterfall.json](./224783-project-waterfall.json) |
 | Projection Remains | 182514 | [182514-projection-remains.json](./182514-projection-remains.json) |
+| ProjectNimbus | 100205 | [100205-projectnimbus.json](./100205-projectnimbus.json) |
 | Projector | 202937 | [202937-projector.json](./202937-projector.json) |
 | Projekt Everblood | 213590 | [213590-projekt-everblood.json](./213590-projekt-everblood.json) |
 | Prokshov | 143728 | [143728-prokshov.json](./143728-prokshov.json) |
@@ -1156,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Masters | 104657 | [104657-puzzle-masters.json](./104657-puzzle-masters.json) |
 | Puzzle Park | 215882 | [215882-puzzle-park.json](./215882-puzzle-park.json) |
 | Puzzle Party | 132275 | [132275-puzzle-party.json](./132275-puzzle-party.json) |
+| Puzzle Party: 10 Games | 100175 | [100175-puzzle-party-10-games.json](./100175-puzzle-party-10-games.json) |
 | Puzzle Pests | 174366 | [174366-puzzle-pests.json](./174366-puzzle-pests.json) |
 | Puzzle Snake | 206382 | [206382-puzzle-snake.json](./206382-puzzle-snake.json) |
 | Puzzle Vacations: Italy | 322976 | [322976-puzzle-vacations-italy.json](./322976-puzzle-vacations-italy.json) |
@@ -1176,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle: Ultimate - Puzzle Pack: Space | 163434 | [163434-puzzle-ultimate-puzzle-pack-space.json](./163434-puzzle-ultimate-puzzle-pack-space.json) |
 | Puzzle: Ultimate - Puzzle Pack: Valley | 163431 | [163431-puzzle-ultimate-puzzle-pack-valley.json](./163431-puzzle-ultimate-puzzle-pack-valley.json) |
 | Puzzlebot Challenge | 138794 | [138794-puzzlebot-challenge.json](./138794-puzzlebot-challenge.json) |
+| Puzzled | 100211 | [100211-puzzled.json](./100211-puzzled.json) |
 | Puzzled Love | 180813 | [180813-puzzled-love.json](./180813-puzzled-love.json) |
 | Puzzlerio | 270945 | [270945-puzzlerio.json](./270945-puzzlerio.json) |
 | Puzzles & Chaos | 301582 | [301582-puzzles-and-chaos.json](./301582-puzzles-and-chaos.json) |
