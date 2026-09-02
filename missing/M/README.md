@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Tour: New Year's Tour | 338538 | [338538-mario-kart-tour-new-years-tour.json](./338538-mario-kart-tour-new-years-tour.json) |
 | Mario Kart Tour: Valentine's Tour | 338540 | [338540-mario-kart-tour-valentines-tour.json](./338540-mario-kart-tour-valentines-tour.json) |
 | Mario Kart Tour: Vancouver Tour | 338541 | [338541-mario-kart-tour-vancouver-tour.json](./338541-mario-kart-tour-vancouver-tour.json) |
+| Mario Kart XXL | 146289 | [146289-mario-kart-xxl.json](./146289-mario-kart-xxl.json) |
 | Mario Kart: Speed Strife | 250048 | [250048-mario-kart-speed-strife.json](./250048-mario-kart-speed-strife.json) |
 | Mario Kart: Virtual Cup | 195211 | [195211-mario-kart-virtual-cup.json](./195211-mario-kart-virtual-cup.json) |
 | Mario Net Quest | 246087 | [246087-mario-net-quest.json](./246087-mario-net-quest.json) |
@@ -388,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meine Tiersprechstunde | 179202 | [179202-meine-tiersprechstunde.json](./179202-meine-tiersprechstunde.json) |
 | MEIOU and Taxes | 294450 | [294450-meiou-and-taxes.json](./294450-meiou-and-taxes.json) |
 | MeiQi 2022 | 190735 | [190735-meiqi-2022.json](./190735-meiqi-2022.json) |
+| MekaFighters | 146350 | [146350-mekafighters.json](./146350-mekafighters.json) |
 | Melli's Retro Land | 270414 | [270414-mellis-retro-land.json](./270414-mellis-retro-land.json) |
 | Mello Haunted House | 207497 | [207497-mello-haunted-house.json](./207497-mello-haunted-house.json) |
 | Melody Mania | 247782 | [247782-melody-mania.json](./247782-melody-mania.json) |
@@ -774,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Parasite: Usotsuki na Onna | 225885 | [225885-money-parasite-usotsuki-na-onna.json](./225885-money-parasite-usotsuki-na-onna.json) |
 | Monishiri Quiz Taiko no Kyouryuu | 276466 | [276466-monishiri-quiz-taiko-no-kyouryuu.json](./276466-monishiri-quiz-taiko-no-kyouryuu.json) |
 | Monitoring All Night | 328274 | [328274-monitoring-all-night.json](./328274-monitoring-all-night.json) |
+| Monkey Bananza | 146349 | [146349-monkey-bananza.json](./146349-monkey-bananza.json) |
 | Monkey Doomsday | 190192 | [190192-monkey-doomsday.json](./190192-monkey-doomsday.json) |
 | Monkey Forward | 295553 | [295553-monkey-forward.json](./295553-monkey-forward.json) |
 | Monkey King vs Transformers | 156160 | [156160-monkey-king-vs-transformers.json](./156160-monkey-king-vs-transformers.json) |
@@ -1077,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Girlfriend is a Mermaid!? Refine: Limited Edition | 188645 | [188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json](./188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json) |
 | My Girlfriend's Special Place | 240481 | [240481-my-girlfriends-special-place.json](./240481-my-girlfriends-special-place.json) |
 | My Head On Your Body | 292316 | [292316-my-head-on-your-body.json](./292316-my-head-on-your-body.json) |
+| My Hero Academia: The Strongest Hero | 146301 | [146301-my-hero-academia-the-strongest-hero.json](./146301-my-hero-academia-the-strongest-hero.json) |
 | My Hero One's Justice 2: Cheerleader Costumes Bundle | 259811 | [259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json](./259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json) |
 | My Hotel | 199122 | [199122-my-hotel.json](./199122-my-hotel.json) |
 | My Hotel Romance | 298900 | [298900-my-hotel-romance.json](./298900-my-hotel-romance.json) |
