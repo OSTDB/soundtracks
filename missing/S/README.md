@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shimajiro no Eigo Activity Ehon: ABC Park de Asobou! | 327617 | [327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json](./327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json) |
 | Shin Mahjong Tenka Fubu | 188085 | [188085-shin-mahjong-tenka-fubu.json](./188085-shin-mahjong-tenka-fubu.json) |
 | Shin Megami Tensei III: Nocturne | 336392 | [336392-shin-megami-tensei-iii-nocturne.json](./336392-shin-megami-tensei-iii-nocturne.json) |
+| Shin Megami Tensei Vertex | 142491 | [142491-shin-megami-tensei-vertex.json](./142491-shin-megami-tensei-vertex.json) |
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
 | Shingata Kururin Pa! | 228065 | [228065-shingata-kururin-pa.json](./228065-shingata-kururin-pa.json) |
 | Shinies: Call of Light | 200167 | [200167-shinies-call-of-light.json](./200167-shinies-call-of-light.json) |
@@ -1190,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spread Out! Hold Naar' Havok | 273632 | [273632-spread-out-hold-naar-havok.json](./273632-spread-out-hold-naar-havok.json) |
 | Spring Catastrophe | 246652 | [246652-spring-catastrophe.json](./246652-spring-catastrophe.json) |
 | Spring Cleaning | 179733 | [179733-spring-cleaning.json](./179733-spring-cleaning.json) |
+| Spring: 1944 | 142500 | [142500-spring-1944.json](./142500-spring-1944.json) |
 | Sprite Fantasia | 174861 | [174861-sprite-fantasia.json](./174861-sprite-fantasia.json) |
 | Sprites at Play | 196880 | [196880-sprites-at-play.json](./196880-sprites-at-play.json) |
 | Sproing | 329401 | [329401-sproing.json](./329401-sproing.json) |
@@ -1269,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starborn Survivor | 306711 | [306711-starborn-survivor.json](./306711-starborn-survivor.json) |
 | Starborne: Frontiers | 242221 | [242221-starborne-frontiers.json](./242221-starborne-frontiers.json) |
 | Starbust | 181378 | [181378-starbust.json](./181378-starbust.json) |
+| Starcaller | 142496 | [142496-starcaller.json](./142496-starcaller.json) |
 | Starcatcher | 228094 | [228094-starcatcher.json](./228094-starcatcher.json) |
 | Stardust | 318797 | [318797-stardust.json](./318797-stardust.json) |
 | Starfield Digipick-Locking Minigame Simulator | 269304 | [269304-starfield-digipick-locking-minigame-simulator.json](./269304-starfield-digipick-locking-minigame-simulator.json) |
@@ -1428,6 +1431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter 6: Year 2 Ultimate Pass | 305529 | [305529-street-fighter-6-year-2-ultimate-pass.json](./305529-street-fighter-6-year-2-ultimate-pass.json) |
 | Street Fighter Alpha 3: Xiang Long | 213628 | [213628-street-fighter-alpha-3-xiang-long.json](./213628-street-fighter-alpha-3-xiang-long.json) |
 | Street Fighter V: Cyber Akuma Skin | 318196 | [318196-street-fighter-v-cyber-akuma-skin.json](./318196-street-fighter-v-cyber-akuma-skin.json) |
+| Street Fighter: Duel | 142490 | [142490-street-fighter-duel.json](./142490-street-fighter-duel.json) |
 | Street Football 2 | 268209 | [268209-street-football-2.json](./268209-street-football-2.json) |
 | Street Hoops | 242807 | [242807-street-hoops.json](./242807-street-hoops.json) |
 | Street Karate 3 | 169468 | [169468-street-karate-3.json](./169468-street-karate-3.json) |
@@ -1756,6 +1760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Toy Cars Collection | 204083 | [204083-super-toy-cars-collection.json](./204083-super-toy-cars-collection.json) |
 | Super Tumanguya Climber | 339136 | [339136-super-tumanguya-climber.json](./339136-super-tumanguya-climber.json) |
 | Super Turrican | 191878 | [191878-super-turrican.json](./191878-super-turrican.json) |
+| Super Tyrone Land | 142464 | [142464-super-tyrone-land.json](./142464-super-tyrone-land.json) |
 | Super Vadimka II: Revenge of Dr. Kulik | 194612 | [194612-super-vadimka-ii-revenge-of-dr-kulik.json](./194612-super-vadimka-ii-revenge-of-dr-kulik.json) |
 | Super Vadimka VI: A Terrible Threat there is No Vadimka | 224769 | [224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json](./224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json) |
 | Super Weapon Master | 213044 | [213044-super-weapon-master.json](./213044-super-weapon-master.json) |
