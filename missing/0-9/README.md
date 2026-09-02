@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2K Ball N' Brawl | 155095 | [155095-2k-ball-n-brawl.json](./155095-2k-ball-n-brawl.json) |
 | 2Week: Death World | 199087 | [199087-2week-death-world.json](./199087-2week-death-world.json) |
 | 2weistein: The Curse of the Red Dragon | 147439 | [147439-2weistein-the-curse-of-the-red-dragon.json](./147439-2weistein-the-curse-of-the-red-dragon.json) |
+| 2XL Supercross HD | 96726 | [96726-2xl-supercross-hd.json](./96726-2xl-supercross-hd.json) |
 | 3 Cushion Masters | 153462 | [153462-3-cushion-masters.json](./153462-3-cushion-masters.json) |
 | 3 Day Eventing: The Ultimate Riding Adventure | 205829 | [205829-3-day-eventing-the-ultimate-riding-adventure.json](./205829-3-day-eventing-the-ultimate-riding-adventure.json) |
 | 3 in 1: Logical Bundle | 208043 | [208043-3-in-1-logical-bundle.json](./208043-3-in-1-logical-bundle.json) |
