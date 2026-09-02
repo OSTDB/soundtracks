@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth: Classic Pinball Puzzle | 225884 | [225884-labyrinth-classic-pinball-puzzle.json](./225884-labyrinth-classic-pinball-puzzle.json) |
 | Labyrinthe | 242259 | [242259-labyrinthe.json](./242259-labyrinthe.json) |
 | Labyrinths of the World: The Wild Side - Collector's Edition | 128019 | [128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json](./128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json) |
+| Labyrneath | 111055 | [111055-labyrneath.json](./111055-labyrneath.json) |
 | Labyronia 2 | 137691 | [137691-labyronia-2.json](./137691-labyronia-2.json) |
 | Lacerta | 323542 | [323542-lacerta.json](./323542-lacerta.json) |
 | Ladders by Powgi | 146927 | [146927-ladders-by-powgi.json](./146927-ladders-by-powgi.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LED Storm Rally 2011 | 312321 | [312321-led-storm-rally-2011.json](./312321-led-storm-rally-2011.json) |
 | Ledoliel | 128629 | [128629-ledoliel.json](./128629-ledoliel.json) |
 | Left Alive: Day One Edition | 119066 | [119066-left-alive-day-one-edition.json](./119066-left-alive-day-one-edition.json) |
+| Left Alive: Mech Edition | 111022 | [111022-left-alive-mech-edition.json](./111022-left-alive-mech-edition.json) |
 | Left Stranded | 195199 | [195199-left-stranded.json](./195199-left-stranded.json) |
 | Left. | 265979 | [265979-left.json](./265979-left.json) |
 | Leftovers | 221977 | [221977-leftovers.json](./221977-leftovers.json) |
@@ -298,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifting Unlimited | 302109 | [302109-lifting-unlimited.json](./302109-lifting-unlimited.json) |
 | Light & Shadow | 226425 | [226425-light-and-shadow.json](./226425-light-and-shadow.json) |
 | Light Arrow is Missing | 262674 | [262674-light-arrow-is-missing.json](./262674-light-arrow-is-missing.json) |
+| Light Bearers | 111032 | [111032-light-bearers.json](./111032-light-bearers.json) |
 | Light Fighter | 165018 | [165018-light-fighter.json](./165018-light-fighter.json) |
 | Light In Blood | 277003 | [277003-light-in-blood.json](./277003-light-in-blood.json) |
 | Light Of Chaos | 304361 | [304361-light-of-chaos.json](./304361-light-of-chaos.json) |
