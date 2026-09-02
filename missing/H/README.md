@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happiness | 184120 | [184120-happiness.json](./184120-happiness.json) |
 | Happy Aquarium | 250638 | [250638-happy-aquarium.json](./250638-happy-aquarium.json) |
 | Happy Cat Tavern | 209603 | [209603-happy-cat-tavern.json](./209603-happy-cat-tavern.json) |
+| Happy Grumps | 121000 | [121000-happy-grumps.json](./121000-happy-grumps.json) |
 | Happy Hangover | 272005 | [272005-happy-hangover.json](./272005-happy-hangover.json) |
 | Happy Hour Hero | 277007 | [277007-happy-hour-hero.json](./277007-happy-hour-hero.json) |
 | Happy Mask | 263209 | [263209-happy-mask.json](./263209-happy-mask.json) |
@@ -540,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Potatoes! Compendium | 137674 | [137674-holy-potatoes-compendium.json](./137674-holy-potatoes-compendium.json) |
 | Holy Shot | 325271 | [325271-holy-shot.json](./325271-holy-shot.json) |
 | Homaysa | 224223 | [224223-homaysa.json](./224223-homaysa.json) |
+| Home | 121014 | [121014-home.json](./121014-home.json) |
 | Home A Drone | 122421 | [122421-home-a-drone.json](./122421-home-a-drone.json) |
 | Home Game 3 | 243397 | [243397-home-game-3.json](./243397-home-game-3.json) |
 | Home Run King | 242809 | [242809-home-run-king.json](./242809-home-run-king.json) |
