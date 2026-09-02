@@ -351,8 +351,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Be Nimble: Brain Training | 265425 | [265425-math-be-nimble-brain-training.json](./265425-math-be-nimble-brain-training.json) |
 | Math Blaster Ages 6-8 | 250608 | [250608-math-blaster-ages-6-8.json](./250608-math-blaster-ages-6-8.json) |
 | Math City HD | 232178 | [232178-math-city-hd.json](./232178-math-city-hd.json) |
+| Math Games PRO | 105956 | [105956-math-games-pro.json](./105956-math-games-pro.json) |
 | Math Genius King of Arithmetic | 233753 | [233753-math-genius-king-of-arithmetic.json](./233753-math-genius-king-of-arithmetic.json) |
+| Math puzzle PRO 2018 | 105941 | [105941-math-puzzle-pro-2018.json](./105941-math-puzzle-pro-2018.json) |
+| Math Puzzles PRO | 105958 | [105958-math-puzzles-pro.json](./105958-math-puzzles-pro.json) |
 | Mathomatics | 190215 | [190215-mathomatics.json](./190215-mathomatics.json) |
+| Maths Planets | 105932 | [105932-maths-planets.json](./105932-maths-planets.json) |
 | Mato Anomalies: Day One Edition | 228732 | [228732-mato-anomalies-day-one-edition.json](./228732-mato-anomalies-day-one-edition.json) |
 | Matricon: Monopoly | 230531 | [230531-matricon-monopoly.json](./230531-matricon-monopoly.json) |
 | Matsuro Palette | 245042 | [245042-matsuro-palette.json](./245042-matsuro-palette.json) |
@@ -1223,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Chemical Romance: Helena | 328268 | [328268-my-chemical-romance-helena.json](./328268-my-chemical-romance-helena.json) |
 | My Chemical Romance: Sweet Revenge!!! | 328267 | [328267-my-chemical-romance-sweet-revenge.json](./328267-my-chemical-romance-sweet-revenge.json) |
 | My Child New Beginnings | 151702 | [151702-my-child-new-beginnings.json](./151702-my-child-new-beginnings.json) |
+| My City - Entertainment Tycoon | 105926 | [105926-my-city-entertainment-tycoon.json](./105926-my-city-entertainment-tycoon.json) |
 | My Colony 2 | 200723 | [200723-my-colony-2.json](./200723-my-colony-2.json) |
 | My Creampie Heaven | 173815 | [173815-my-creampie-heaven.json](./173815-my-creampie-heaven.json) |
 | My Cute, Pure Boyfriend | 303274 | [303274-my-cute-pure-boyfriend.json](./303274-my-cute-pure-boyfriend.json) |
@@ -1303,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Talking Pretty Girl | 300430 | [300430-my-talking-pretty-girl.json](./300430-my-talking-pretty-girl.json) |
 | My Therapy | 207540 | [207540-my-therapy.json](./207540-my-therapy.json) |
 | My Time at Sandrock: Super Furniture Pack | 275899 | [275899-my-time-at-sandrock-super-furniture-pack.json](./275899-my-time-at-sandrock-super-furniture-pack.json) |
+| My Town : Police | 105920 | [105920-my-town-police.json](./105920-my-town-police.json) |
 | My Train World | 156663 | [156663-my-train-world.json](./156663-my-train-world.json) |
 | My Universe: My Baby - New Edition | 170028 | [170028-my-universe-my-baby-new-edition.json](./170028-my-universe-my-baby-new-edition.json) |
 | My Universe: Pets Edition | 221949 | [221949-my-universe-pets-edition.json](./221949-my-universe-pets-edition.json) |
