@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Body Limbs | 331142 | [331142-a-tale-of-body-limbs.json](./331142-a-tale-of-body-limbs.json) |
 | A Tale of Synapse: The Chaos Theories - Collector's Edition | 152341 | [152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json](./152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json) |
 | A Terrible Place | 237062 | [237062-a-terrible-place.json](./237062-a-terrible-place.json) |
+| A Timeless Carol | 112305 | [112305-a-timeless-carol.json](./112305-a-timeless-carol.json) |
 | A Tiny Eternity | 318177 | [318177-a-tiny-eternity.json](./318177-a-tiny-eternity.json) |
 | A Turnabout On Rails | 308541 | [308541-a-turnabout-on-rails.json](./308541-a-turnabout-on-rails.json) |
 | A Turnabout With Too Many Faces | 303250 | [303250-a-turnabout-with-too-many-faces.json](./303250-a-turnabout-with-too-many-faces.json) |
@@ -495,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Under Control | 335069 | [335069-all-under-control.json](./335069-all-under-control.json) |
 | All We Need | 263212 | [263212-all-we-need.json](./263212-all-we-need.json) |
 | All Will Fall | 328273 | [328273-all-will-fall.json](./328273-all-will-fall.json) |
+| Allan Poe's Nightmare | 112315 | [112315-allan-poes-nightmare.json](./112315-allan-poes-nightmare.json) |
 | Allegro Molto wo Hakobu Game | 339094 | [339094-allegro-molto-wo-hakobu-game.json](./339094-allegro-molto-wo-hakobu-game.json) |
 | AllFive Classic | 307277 | [307277-allfive-classic.json](./307277-allfive-classic.json) |
 | AllFive XP | 307280 | [307280-allfive-xp.json](./307280-allfive-xp.json) |
@@ -720,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti-Jump-Man | 130374 | [130374-anti-jump-man.json](./130374-anti-jump-man.json) |
 | Anti-Nightmare Master Plan | 211435 | [211435-anti-nightmare-master-plan.json](./211435-anti-nightmare-master-plan.json) |
 | Antiban | 302664 | [302664-antiban.json](./302664-antiban.json) |
+| Antichromatic | 112323 | [112323-antichromatic.json](./112323-antichromatic.json) |
 | Antigrav Racing Championship | 248329 | [248329-antigrav-racing-championship.json](./248329-antigrav-racing-championship.json) |
 | Antigravity Racing | 239292 | [239292-antigravity-racing.json](./239292-antigravity-racing.json) |
 | Antimatter Elevator | 166759 | [166759-antimatter-elevator.json](./166759-antimatter-elevator.json) |
