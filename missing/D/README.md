@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danmakai: Red Forbidden Fruit | 140040 | [140040-danmakai-red-forbidden-fruit.json](./140040-danmakai-red-forbidden-fruit.json) |
 | Danmaku Juuenka: Danmaku Card Battle | 215365 | [215365-danmaku-juuenka-danmaku-card-battle.json](./215365-danmaku-juuenka-danmaku-card-battle.json) |
 | Danmaku Kentei Shiken: DaiOuJou-hen | 296056 | [296056-danmaku-kentei-shiken-daioujou-hen.json](./296056-danmaku-kentei-shiken-daioujou-hen.json) |
+| Dānshēngǒu de Zuìhòu Jīhuì | 130962 | [130962-danshengou-de-zuihou-jihui.json](./130962-danshengou-de-zuihou-jihui.json) |
 | Dante's Inferno: Dark Forest Pack | 172772 | [172772-dantes-inferno-dark-forest-pack.json](./172772-dantes-inferno-dark-forest-pack.json) |
 | Daredemo Asobi Taizen | 137069 | [137069-daredemo-asobi-taizen.json](./137069-daredemo-asobi-taizen.json) |
 | Daredevil Dave 2: Motorcycle Mayhem! | 175432 | [175432-daredevil-dave-2-motorcycle-mayhem.json](./175432-daredevil-dave-2-motorcycle-mayhem.json) |
@@ -869,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DS Kokoro Nurie | 220849 | [220849-ds-kokoro-nurie.json](./220849-ds-kokoro-nurie.json) |
 | DS Pico Series: Sanrio no Party Heikou! Oryouri - Oshare - Okaimono | 255351 | [255351-ds-pico-series-sanrio-no-party-heikou-oryouri-oshare-okaimono.json](./255351-ds-pico-series-sanrio-no-party-heikou-oryouri-oshare-okaimono.json) |
 | DS Pico Series: Sanrio Puroland - Waku-waku Okaimono - Suteki na Oheya Otsukurimasho | 255352 | [255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json](./255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json) |
+| DTXPlayer | 130948 | [130948-dtxplayer.json](./130948-dtxplayer.json) |
 | Dual Pack I Awakening: The Goblin Kingdom and Awakening: The Skyward Castle | 201857 | [201857-dual-pack-i-awakening-the-goblin-kingdom-and-awakening-the-skyward-castle.json](./201857-dual-pack-i-awakening-the-goblin-kingdom-and-awakening-the-skyward-castle.json) |
 | Dual Pack I Spirits of Mystery: Song of the Phoenix & Spirits of Mystery: The Dark Minotaur | 201853 | [201853-dual-pack-i-spirits-of-mystery-song-of-the-phoenix-and-spirits-of-mystery-the-dark-minotaur.json](./201853-dual-pack-i-spirits-of-mystery-song-of-the-phoenix-and-spirits-of-mystery-the-dark-minotaur.json) |
 | Duck Creator 2 | 306082 | [306082-duck-creator-2.json](./306082-duck-creator-2.json) |
