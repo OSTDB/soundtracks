@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Bubble | 246100 | [246100-magic-bubble.json](./246100-magic-bubble.json) |
 | Magic Chaos | 206383 | [206383-magic-chaos.json](./206383-magic-chaos.json) |
 | Magic City Detective: The Carnival Begins - Collector's Edition | 304859 | [304859-magic-city-detective-the-carnival-begins-collectors-edition.json](./304859-magic-city-detective-the-carnival-begins-collectors-edition.json) |
+| Magic Clouds | 117057 | [117057-magic-clouds.json](./117057-magic-clouds.json) |
 | Magic Garden | 317579 | [317579-magic-garden.json](./317579-magic-garden.json) |
 | Magic Griddlers | 156671 | [156671-magic-griddlers.json](./156671-magic-griddlers.json) |
 | Magic Kingdom | 213591 | [213591-magic-kingdom.json](./213591-magic-kingdom.json) |
@@ -104,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magus in Mystic Geometries. | 123591 | [123591-magus-in-mystic-geometries.json](./123591-magus-in-mystic-geometries.json) |
 | Mah-jongg Puzzle Pai-Sen | 124787 | [124787-mah-jongg-puzzle-pai-sen.json](./124787-mah-jongg-puzzle-pai-sen.json) |
 | Mahjong Elements HD | 174371 | [174371-mahjong-elements-hd.json](./174371-mahjong-elements-hd.json) |
+| Mahjong Infinity | 117043 | [117043-mahjong-infinity.json](./117043-mahjong-infinity.json) |
 | Mahjong Party Pack | 268203 | [268203-mahjong-party-pack.json](./268203-mahjong-party-pack.json) |
 | Mahjong: Wolf's Stories | 177045 | [177045-mahjong-wolfs-stories.json](./177045-mahjong-wolfs-stories.json) |
 | MahjongSchool | 158226 | [158226-mahjongschool.json](./158226-mahjongschool.json) |
@@ -662,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milky Quest II | 232654 | [232654-milky-quest-ii.json](./232654-milky-quest-ii.json) |
 | Millefiori | 150155 | [150155-millefiori.json](./150155-millefiori.json) |
 | Millennium Mission | 274731 | [274731-millennium-mission.json](./274731-millennium-mission.json) |
+| Millionaire Dancer | 117098 | [117098-millionaire-dancer.json](./117098-millionaire-dancer.json) |
 | Mills of Morris | 291763 | [291763-mills-of-morris.json](./291763-mills-of-morris.json) |
 | Milo | 187525 | [187525-milo.json](./187525-milo.json) |
 | Milthm | 258703 | [258703-milthm.json](./258703-milthm.json) |
