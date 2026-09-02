@@ -130,10 +130,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kewter’s Showroom | 340787 | [340787-kewter-s-showroom.json](./340787-kewter-s-showroom.json) |
 | Keyboard Soldier | 340788 | [340788-keyboard-soldier.json](./340788-keyboard-soldier.json) |
 | Keyboard Warrior: Dreamstate | 209714 | [209714-keyboard-warrior-dreamstate.json](./209714-keyboard-warrior-dreamstate.json) |
+| Keyhole Spy: Fantasy Passion | 110382 | [110382-keyhole-spy-fantasy-passion.json](./110382-keyhole-spy-fantasy-passion.json) |
+| Keyhole Spy: Lots of Girls | 110383 | [110383-keyhole-spy-lots-of-girls.json](./110383-keyhole-spy-lots-of-girls.json) |
 | Keystone Library | 226428 | [226428-keystone-library.json](./226428-keystone-library.json) |
 | Khatyrka: Prelude | 229967 | [229967-khatyrka-prelude.json](./229967-khatyrka-prelude.json) |
 | Khemia | 136460 | [136460-khemia.json](./136460-khemia.json) |
 | Khio | 136458 | [136458-khio.json](./136458-khio.json) |
+| Khospis | 110338 | [110338-khospis.json](./110338-khospis.json) |
 | Kiara and My Ara Ara Adventure | 156149 | [156149-kiara-and-my-ara-ara-adventure.json](./156149-kiara-and-my-ara-ara-adventure.json) |
 | Kiborg | 249998 | [249998-kiborg.json](./249998-kiborg.json) |
 | Kichiku Megane | 142451 | [142451-kichiku-megane.json](./142451-kichiku-megane.json) |
