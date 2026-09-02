@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda 64: Recompiled | 300982 | [300982-zelda-64-recompiled.json](./300982-zelda-64-recompiled.json) |
 | Zelda no Densetsu: 4-tsu no Tsurugi + | 298870 | [298870-zelda-no-densetsu-4-tsu-no-tsurugi.json](./298870-zelda-no-densetsu-4-tsu-no-tsurugi.json) |
 | Zelda: Meadow of Shadows | 248290 | [248290-zelda-meadow-of-shadows.json](./248290-zelda-meadow-of-shadows.json) |
+| Zelter | 138243 | [138243-zelter.json](./138243-zelter.json) |
 | Zeltoid X1 | 216477 | [216477-zeltoid-x1.json](./216477-zeltoid-x1.json) |
 | Zen 2212 A.D. | 275310 | [275310-zen-2212-a-d.json](./275310-zen-2212-a-d.json) |
 | Zen Cube | 163988 | [163988-zen-cube.json](./163988-zen-cube.json) |
