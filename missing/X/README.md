@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | X Virus | 190742 | [190742-x-virus.json](./190742-x-virus.json) |
+| X-Car Stunts | 102156 | [102156-x-car-stunts.json](./102156-x-car-stunts.json) |
 | X-Force Genesis | 165652 | [165652-x-force-genesis.json](./165652-x-force-genesis.json) |
 | X-Moon | 112325 | [112325-x-moon.json](./112325-x-moon.json) |
 | X-Plane 10: Regional Edition - North America | 205810 | [205810-x-plane-10-regional-edition-north-america.json](./205810-x-plane-10-regional-edition-north-america.json) |
