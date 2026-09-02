@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zǎojiào Lèyuán: Wǒ de Tónghuà Huìběn - Xiǎo Hǎitù de Gùshì | 260973 | [260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json](./260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json) |
 | Zap Dem Rats | 195194 | [195194-zap-dem-rats.json](./195194-zap-dem-rats.json) |
 | Zap to It! | 234893 | [234893-zap-to-it.json](./234893-zap-to-it.json) |
+| Zaphie 2 | 145656 | [145656-zaphie-2.json](./145656-zaphie-2.json) |
 | ZAR | 161374 | [161374-zar.json](./161374-zar.json) |
 | Zarktor's Realm | 189172 | [189172-zarktors-realm.json](./189172-zarktors-realm.json) |
 | Zeddas | 242258 | [242258-zeddas.json](./242258-zeddas.json) |
