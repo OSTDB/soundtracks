@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Hunt: Halloween Pack2 | 273670 | [273670-west-hunt-halloween-pack2.json](./273670-west-hunt-halloween-pack2.json) |
 | WestHalla | 257681 | [257681-westhalla.json](./257681-westhalla.json) |
 | Wet Waifu | 161367 | [161367-wet-waifu.json](./161367-wet-waifu.json) |
+| Wet Warfare | 109679 | [109679-wet-warfare.json](./109679-wet-warfare.json) |
 | WFD | 272567 | [272567-wfd.json](./272567-wfd.json) |
 | What A Legend | 239306 | [239306-what-a-legend.json](./239306-what-a-legend.json) |
 | What Cat? | 253033 | [253033-what-cat.json](./253033-what-cat.json) |
@@ -224,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Rivers Were Trails | 130405 | [130405-when-rivers-were-trails.json](./130405-when-rivers-were-trails.json) |
 | When Silence Fell | 114428 | [114428-when-silence-fell.json](./114428-when-silence-fell.json) |
 | When the Lying Petals Scatter Into the Wind | 155104 | [155104-when-the-lying-petals-scatter-into-the-wind.json](./155104-when-the-lying-petals-scatter-into-the-wind.json) |
+| When the Shutter Stops | 109713 | [109713-when-the-shutter-stops.json](./109713-when-the-shutter-stops.json) |
 | Where Birds Sleep | 136451 | [136451-where-birds-sleep.json](./136451-where-birds-sleep.json) |
 | Where is a Toilet!? | 228682 | [228682-where-is-a-toilet.json](./228682-where-is-a-toilet.json) |
 | Where is Mr. Cloud | 251809 | [251809-where-is-mr-cloud.json](./251809-where-is-mr-cloud.json) |
@@ -523,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wunderhaven | 166763 | [166763-wunderhaven.json](./166763-wunderhaven.json) |
 | Wurdweb | 165047 | [165047-wurdweb.json](./165047-wurdweb.json) |
 | Wurmus | 181389 | [181389-wurmus.json](./181389-wurmus.json) |
+| Wuxia Master | 109703 | [109703-wuxia-master.json](./109703-wuxia-master.json) |
 | Wwaves | 181900 | [181900-wwaves.json](./181900-wwaves.json) |
 | WWE 2K17: Accelerator | 168353 | [168353-wwe-2k17-accelerator.json](./168353-wwe-2k17-accelerator.json) |
 | WWE 2K17: Hall of Fame Showcase | 168352 | [168352-wwe-2k17-hall-of-fame-showcase.json](./168352-wwe-2k17-hall-of-fame-showcase.json) |
