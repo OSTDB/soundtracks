@@ -258,9 +258,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Dead: White Collar Civilian Pack | 293405 | [293405-night-of-the-dead-white-collar-civilian-pack.json](./293405-night-of-the-dead-white-collar-civilian-pack.json) |
 | Night of the Dead: Wood Carving Doll Pack | 293406 | [293406-night-of-the-dead-wood-carving-doll-pack.json](./293406-night-of-the-dead-wood-carving-doll-pack.json) |
 | Night of the loving dead | 161905 | [161905-night-of-the-loving-dead.json](./161905-night-of-the-loving-dead.json) |
+| Night of the Scarecrows | 119752 | [119752-night-of-the-scarecrows.json](./119752-night-of-the-scarecrows.json) |
 | Night of the Wererat | 216986 | [216986-night-of-the-wererat.json](./216986-night-of-the-wererat.json) |
 | Night Run | 236526 | [236526-night-run.json](./236526-night-run.json) |
 | Night Shift: Laundry | 328253 | [328253-night-shift-laundry.json](./328253-night-shift-laundry.json) |
+| Night Signal | 119740 | [119740-night-signal.json](./119740-night-signal.json) |
+| Night Sing | 119758 | [119758-night-sing.json](./119758-night-sing.json) |
 | Night World | 178057 | [178057-night-world.json](./178057-night-world.json) |
 | Night&Scape | 237052 | [237052-night-and-scape.json](./237052-night-and-scape.json) |
 | Nightbird Society | 196309 | [196309-nightbird-society.json](./196309-nightbird-society.json) |
@@ -417,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonolith | 321176 | [321176-nonolith.json](./321176-nonolith.json) |
 | Noodle Fight | 269313 | [269313-noodle-fight.json](./269313-noodle-fight.json) |
 | Noodle Party | 209680 | [209680-noodle-party.json](./209680-noodle-party.json) |
+| Nor'Easter | 119754 | [119754-noreaster.json](./119754-noreaster.json) |
 | Nora to Oujo to Noraneko Heart 2 | 205267 | [205267-nora-to-oujo-to-noraneko-heart-2.json](./205267-nora-to-oujo-to-noraneko-heart-2.json) |
 | Nora's Dream | 200732 | [200732-noras-dream.json](./200732-noras-dream.json) |
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
