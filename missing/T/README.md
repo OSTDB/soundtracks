@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms World | 204671 | [204671-the-backrooms-world.json](./204671-the-backrooms-world.json) |
 | The Backrooms: Mass Extinction | 203558 | [203558-the-backrooms-mass-extinction.json](./203558-the-backrooms-mass-extinction.json) |
 | The Backrooms: Survival | 192975 | [192975-the-backrooms-survival.json](./192975-the-backrooms-survival.json) |
+| The Ball Adventure | 148535 | [148535-the-ball-adventure.json](./148535-the-ball-adventure.json) |
 | The Ball of the Rings | 176480 | [176480-the-ball-of-the-rings.json](./176480-the-ball-of-the-rings.json) |
 | The Ball Pit | 336382 | [336382-the-ball-pit.json](./336382-the-ball-pit.json) |
 | The Bard's Tale | 273089 | [273089-the-bards-tale.json](./273089-the-bards-tale.json) |
@@ -768,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic Garden | 320545 | [320545-the-magic-garden.json](./320545-the-magic-garden.json) |
 | The Magic Roundabout | 268201 | [268201-the-magic-roundabout.json](./268201-the-magic-roundabout.json) |
 | The Magistrate | 247750 | [247750-the-magistrate.json](./247750-the-magistrate.json) |
+| The Magnets | 148534 | [148534-the-magnets.json](./148534-the-magnets.json) |
 | The Maid | 335680 | [335680-the-maid.json](./335680-the-maid.json) |
 | The Mannequin | 179740 | [179740-the-mannequin.json](./179740-the-mannequin.json) |
 | The Many Pieces of Mr. Coo: Coollector Edition | 247195 | [247195-the-many-pieces-of-mr-coo-coollector-edition.json](./247195-the-many-pieces-of-mr-coo-coollector-edition.json) |
@@ -851,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perfect Shape | 158713 | [158713-the-perfect-shape.json](./158713-the-perfect-shape.json) |
 | The Perfect Tower II | 149572 | [149572-the-perfect-tower-ii.json](./149572-the-perfect-tower-ii.json) |
 | The Permanent Residence: Souls Kept | 324671 | [324671-the-permanent-residence-souls-kept.json](./324671-the-permanent-residence-souls-kept.json) |
+| The Perplexing Orb 2 | 148560 | [148560-the-perplexing-orb-2.json](./148560-the-perplexing-orb-2.json) |
 | The Pet Squad | 332810 | [332810-the-pet-squad.json](./332810-the-pet-squad.json) |
 | The Play's the Thing | 154017 | [154017-the-plays-the-thing.json](./154017-the-plays-the-thing.json) |
 | The Plug | 175436 | [175436-the-plug.json](./175436-the-plug.json) |
@@ -1580,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Ardia | 169453 | [169453-tower-of-ardia.json](./169453-tower-of-ardia.json) |
 | Tower of Tears | 268212 | [268212-tower-of-tears.json](./268212-tower-of-tears.json) |
 | Tower of unlife | 180831 | [180831-tower-of-unlife.json](./180831-tower-of-unlife.json) |
+| Tower of Waifus 2 | 148565 | [148565-tower-of-waifus-2.json](./148565-tower-of-waifus-2.json) |
 | Tower Skydiver | 226436 | [226436-tower-skydiver.json](./226436-tower-skydiver.json) |
 | Tower to Heaven | 173313 | [173313-tower-to-heaven.json](./173313-tower-to-heaven.json) |
 | Tower Walker: MMO Grind Simulator | 217504 | [217504-tower-walker-mmo-grind-simulator.json](./217504-tower-walker-mmo-grind-simulator.json) |
