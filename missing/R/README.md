@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboSkate | 139437 | [139437-roboskate.json](./139437-roboskate.json) |
 | RoboSquare | 141205 | [141205-robosquare.json](./141205-robosquare.json) |
 | Robot Hunt | 324661 | [324661-robot-hunt.json](./324661-robot-hunt.json) |
+| Robot Paradise VR | 133453 | [133453-robot-paradise-vr.json](./133453-robot-paradise-vr.json) |
 | Robot Planet | 232663 | [232663-robot-planet.json](./232663-robot-planet.json) |
 | Robot Ponkottsu: Moon Version | 243919 | [243919-robot-ponkottsu-moon-version.json](./243919-robot-ponkottsu-moon-version.json) |
 | Robot Programmer | 235976 | [235976-robot-programmer.json](./235976-robot-programmer.json) |
