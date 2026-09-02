@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laundry Simulator | 326396 | [326396-laundry-simulator.json](./326396-laundry-simulator.json) |
 | Lauras Tierklinik | 163974 | [163974-lauras-tierklinik.json](./163974-lauras-tierklinik.json) |
 | Lava-Runners | 331680 | [331680-lava-runners.json](./331680-lava-runners.json) |
+| Lawmage Academy | 125472 | [125472-lawmage-academy.json](./125472-lawmage-academy.json) |
 | Lawn & Order | 177021 | [177021-lawn-and-order.json](./177021-lawn-and-order.json) |
 | Lawnarchy | 195203 | [195203-lawnarchy.json](./195203-lawnarchy.json) |
 | LawnMower City | 186290 | [186290-lawnmower-city.json](./186290-lawnmower-city.json) |
