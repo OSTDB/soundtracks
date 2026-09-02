@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evilmun Family: Season 4 Spark | 198508 | [198508-evilmun-family-season-4-spark.json](./198508-evilmun-family-season-4-spark.json) |
 | Evilmun Family: Season 5 water renewal Part 1 | 230533 | [230533-evilmun-family-season-5-water-renewal-part-1.json](./230533-evilmun-family-season-5-water-renewal-part-1.json) |
 | Eviron's Chronicles | 161378 | [161378-evirons-chronicles.json](./161378-evirons-chronicles.json) |
+| Evkworld | 120379 | [120379-evkworld.json](./120379-evkworld.json) |
 | EvoGene | 248314 | [248314-evogene.json](./248314-evogene.json) |
 | Evoker's Gambit | 333361 | [333361-evokers-gambit.json](./333361-evokers-gambit.json) |
 | Evolution Board Game: Climate Expansion | 238214 | [238214-evolution-board-game-climate-expansion.json](./238214-evolution-board-game-climate-expansion.json) |
@@ -443,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exoprimal: Zephyr Security Guard Set | 256548 | [256548-exoprimal-zephyr-security-guard-set.json](./256548-exoprimal-zephyr-security-guard-set.json) |
 | Exorcist Onmyoji | 304875 | [304875-exorcist-onmyoji.json](./304875-exorcist-onmyoji.json) |
 | Exorzine | 194651 | [194651-exorzine.json](./194651-exorzine.json) |
+| Expansion | 120397 | [120397-expansion.json](./120397-expansion.json) |
 | Expediente Ñ | 322368 | [322368-expediente-n.json](./322368-expediente-n.json) |
 | Expendable | 317640 | [317640-expendable.json](./317640-expendable.json) |
 | Experimental | 163972 | [163972-experimental.json](./163972-experimental.json) |
