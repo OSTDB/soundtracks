@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteorfall: Krumit's Tale - Varfa the Ranger | 172169 | [172169-meteorfall-krumits-tale-varfa-the-ranger.json](./172169-meteorfall-krumits-tale-varfa-the-ranger.json) |
 | Method of Entry | 329369 | [329369-method-of-entry.json](./329369-method-of-entry.json) |
 | Meticulous | 237085 | [237085-meticulous.json](./237085-meticulous.json) |
+| Metric Racer | 133427 | [133427-metric-racer.json](./133427-metric-racer.json) |
 | Metro Blossom | 203519 | [203519-metro-blossom.json](./203519-metro-blossom.json) |
 | Metro Survival: Zombie Hunter | 174873 | [174873-metro-survival-zombie-hunter.json](./174873-metro-survival-zombie-hunter.json) |
 | Metrogether | 326385 | [326385-metrogether.json](./326385-metrogether.json) |
@@ -1167,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Rental Girlfriend | 205819 | [205819-my-rental-girlfriend.json](./205819-my-rental-girlfriend.json) |
 | My Riding Stables 2: A New Adventure | 140008 | [140008-my-riding-stables-2-a-new-adventure.json](./140008-my-riding-stables-2-a-new-adventure.json) |
 | My Sacred Shrine Maiden | 226420 | [226420-my-sacred-shrine-maiden.json](./226420-my-sacred-shrine-maiden.json) |
+| My Sail and My Sea | 133465 | [133465-my-sail-and-my-sea.json](./133465-my-sail-and-my-sea.json) |
 | My Secret Bistro: Cooking Game | 246661 | [246661-my-secret-bistro-cooking-game.json](./246661-my-secret-bistro-cooking-game.json) |
 | My Service Area | 212476 | [212476-my-service-area.json](./212476-my-service-area.json) |
 | My Sexual Hospitalization | 215890 | [215890-my-sexual-hospitalization.json](./215890-my-sexual-hospitalization.json) |
