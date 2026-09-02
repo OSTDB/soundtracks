@@ -338,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReMix: Encore | 311815 | [311815-remix-encore.json](./311815-remix-encore.json) |
 | Remnant Protocol | 236496 | [236496-remnant-protocol.json](./236496-remnant-protocol.json) |
 | Remote Planets | 224766 | [224766-remote-planets.json](./224766-remote-planets.json) |
+| Remote Virtual Cockpit | 109010 | [109010-remote-virtual-cockpit.json](./109010-remote-virtual-cockpit.json) |
 | Removed | 128631 | [128631-removed.json](./128631-removed.json) |
 | Remute: Electronic Deathstyle | 321794 | [321794-remute-electronic-deathstyle.json](./321794-remute-electronic-deathstyle.json) |
 | Remute: Electronic Lifestyle | 321790 | [321790-remute-electronic-lifestyle.json](./321790-remute-electronic-lifestyle.json) |
