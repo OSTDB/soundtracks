@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99 Moves | 221991 | [221991-99-moves.json](./221991-99-moves.json) |
 | 99 Seconds | 221992 | [221992-99-seconds.json](./221992-99-seconds.json) |
 | 99.99% 3D: Fill the Ball | 232146 | [232146-99-99-3d-fill-the-ball.json](./232146-99-99-3d-fill-the-ball.json) |
+| 999 | 104675 | [104675-999.json](./104675-999.json) |
 | 9Lives Arena | 134027 | [134027-9lives-arena.json](./134027-9lives-arena.json) |
 | 9Shot | 301034 | [301034-9shot.json](./301034-9shot.json) |
 | Àrengard: Invasion | 228081 | [228081-arengard-invasion.json](./228081-arengard-invasion.json) |
