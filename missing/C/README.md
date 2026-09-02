@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsule Rush | 218710 | [218710-capsule-rush.json](./218710-capsule-rush.json) |
 | Captain Alexia | 181907 | [181907-captain-alexia.json](./181907-captain-alexia.json) |
 | Captain DinoHater | 180848 | [180848-captain-dinohater.json](./180848-captain-dinohater.json) |
+| Captain Hannon: The Belanzano | 129759 | [129759-captain-hannon-the-belanzano.json](./129759-captain-hannon-the-belanzano.json) |
 | Captain Hardcore | 278686 | [278686-captain-hardcore.json](./278686-captain-hardcore.json) |
 | Captain Jackson | 190231 | [190231-captain-jackson.json](./190231-captain-jackson.json) |
 | Captain of Space | 320558 | [320558-captain-of-space.json](./320558-captain-of-space.json) |
@@ -167,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartridge Defense | 132277 | [132277-cartridge-defense.json](./132277-cartridge-defense.json) |
 | Carvalho: Los Pájaros de Bangkok | 138790 | [138790-carvalho-los-pajaros-de-bangkok.json](./138790-carvalho-los-pajaros-de-bangkok.json) |
 | Carwarz.io | 219269 | [219269-carwarz-io.json](./219269-carwarz-io.json) |
+| CarX Drift Racing 2 | 129793 | [129793-carx-drift-racing-2.json](./129793-carx-drift-racing-2.json) |
 | CarX Drift Racing Online: Hit the Wall | 199667 | [199667-carx-drift-racing-online-hit-the-wall.json](./199667-carx-drift-racing-online-hit-the-wall.json) |
 | Casadastra | 185160 | [185160-casadastra.json](./185160-casadastra.json) |
 | Cascade Theater | 303269 | [303269-cascade-theater.json](./303269-cascade-theater.json) |
@@ -252,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats vs. Aliens | 295561 | [295561-cats-vs-aliens.json](./295561-cats-vs-aliens.json) |
 | Cats Yakuza | 211961 | [211961-cats-yakuza.json](./211961-cats-yakuza.json) |
 | Cattle Hyperdrive | 247745 | [247745-cattle-hyperdrive.json](./247745-cattle-hyperdrive.json) |
+| Catty Battle | 129816 | [129816-catty-battle.json](./129816-catty-battle.json) |
 | Cauldron Caution | 309653 | [309653-cauldron-caution.json](./309653-cauldron-caution.json) |
 | Causality | 151182 | [151182-causality.json](./151182-causality.json) |
 | Cave Chaos | 250612 | [250612-cave-chaos.json](./250612-cave-chaos.json) |
@@ -1003,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossword Dungeon | 208017 | [208017-crossword-dungeon.json](./208017-crossword-dungeon.json) |
 | Crowd Medieval City War | 236522 | [236522-crowd-medieval-city-war.json](./236522-crowd-medieval-city-war.json) |
 | Crown Claimer | 187528 | [187528-crown-claimer.json](./187528-crown-claimer.json) |
+| Crown of Arthain | 129812 | [129812-crown-of-arthain.json](./129812-crown-of-arthain.json) |
 | Crows Coming | 245018 | [245018-crows-coming.json](./245018-crows-coming.json) |
 | CRSED: F.O.A.D. - Age of Nagual | 171062 | [171062-crsed-f-o-a-d-age-of-nagual.json](./171062-crsed-f-o-a-d-age-of-nagual.json) |
 | CRSED: F.O.A.D. - Biker Queen | 171057 | [171057-crsed-f-o-a-d-biker-queen.json](./171057-crsed-f-o-a-d-biker-queen.json) |
