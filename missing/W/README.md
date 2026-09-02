@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors of Thalyrion | 310749 | [310749-warriors-of-thalyrion.json](./310749-warriors-of-thalyrion.json) |
 | Warside | 230528 | [230528-warside.json](./230528-warside.json) |
 | WarUniverse | 123614 | [123614-waruniverse.json](./123614-waruniverse.json) |
+| WarWest | 112336 | [112336-warwest.json](./112336-warwest.json) |
 | WarZone Flashpoint | 112996 | [112996-warzone-flashpoint.json](./112996-warzone-flashpoint.json) |
 | Wasabi Game | 245044 | [245044-wasabi-game.json](./245044-wasabi-game.json) |
 | Wash Card | 223705 | [223705-wash-card.json](./223705-wash-card.json) |
