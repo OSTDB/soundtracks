@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | F-Rank Hero Story | 186323 | [186323-f-rank-hero-story.json](./186323-f-rank-hero-story.json) |
+| F-Zero X Climax | 135258 | [135258-f-zero-x-climax.json](./135258-f-zero-x-climax.json) |
 | F1 Racing Championship 2 | 137653 | [137653-f1-racing-championship-2.json](./137653-f1-racing-championship-2.json) |
 | F18 Pilot Simulator | 174355 | [174355-f18-pilot-simulator.json](./174355-f18-pilot-simulator.json) |
 | Fabby Golf | 239324 | [239324-fabby-golf.json](./239324-fabby-golf.json) |
@@ -328,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishery Tycoon | 212475 | [212475-fishery-tycoon.json](./212475-fishery-tycoon.json) |
 | Fishhead 3: The Search For a Heart of Gold | 191256 | [191256-fishhead-3-the-search-for-a-heart-of-gold.json](./191256-fishhead-3-the-search-for-a-heart-of-gold.json) |
 | Fishing Adventure | 299454 | [299454-fishing-adventure.json](./299454-fishing-adventure.json) |
+| Fishing Clash 2020: Fish Catching Games | 135263 | [135263-fishing-clash-2020-fish-catching-games.json](./135263-fishing-clash-2020-fish-catching-games.json) |
 | Fishing For Cats | 309685 | [309685-fishing-for-cats.json](./309685-fishing-for-cats.json) |
 | Fishing Kingdom | 195226 | [195226-fishing-kingdom.json](./195226-fishing-kingdom.json) |
 | Fishing Mayhem | 318187 | [318187-fishing-mayhem.json](./318187-fishing-mayhem.json) |
@@ -615,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freegglers | 185159 | [185159-freegglers.json](./185159-freegglers.json) |
 | FreeInfantry | 291224 | [291224-freeinfantry.json](./291224-freeinfantry.json) |
 | Freeing Quency | 179192 | [179192-freeing-quency.json](./179192-freeing-quency.json) |
+| Freelancer Simulator 2 | 135308 | [135308-freelancer-simulator-2.json](./135308-freelancer-simulator-2.json) |
 | Freeman | 253604 | [253604-freeman.json](./253604-freeman.json) |
 | Freestyle Baseball 2 | 239890 | [239890-freestyle-baseball-2.json](./239890-freestyle-baseball-2.json) |
 | Freestyle Football R | 213008 | [213008-freestyle-football-r.json](./213008-freestyle-football-r.json) |
