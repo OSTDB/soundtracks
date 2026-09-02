@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Runner | 233250 | [233250-ridge-runner.json](./233250-ridge-runner.json) |
 | Riding to Bounce City | 215922 | [215922-riding-to-bounce-city.json](./215922-riding-to-bounce-city.json) |
 | Riffle Effect | 217511 | [217511-riffle-effect.json](./217511-riffle-effect.json) |
+| Rifle MarksMan | 119787 | [119787-rifle-marksman.json](./119787-rifle-marksman.json) |
 | Rift Breach | 232693 | [232693-rift-breach.json](./232693-rift-breach.json) |
 | Rift Rangers | 226949 | [226949-rift-rangers.json](./226949-rift-rangers.json) |
 | Rift Wizard 2 | 270936 | [270936-rift-wizard-2.json](./270936-rift-wizard-2.json) |
@@ -746,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose Guns Days: Season 1 | 274213 | [274213-rose-guns-days-season-1.json](./274213-rose-guns-days-season-1.json) |
 | Roswell's 66th Anniversary | 225900 | [225900-roswells-66th-anniversary.json](./225900-roswells-66th-anniversary.json) |
 | Rosy Rubicunda | 299433 | [299433-rosy-rubicunda.json](./299433-rosy-rubicunda.json) |
+| rOt 3D | 119783 | [119783-rot-3d.json](./119783-rot-3d.json) |
 | Rotate the Rings | 259234 | [259234-rotate-the-rings.json](./259234-rotate-the-rings.json) |
 | Roterra Extreme - Great Escape | 125442 | [125442-roterra-extreme-great-escape.json](./125442-roterra-extreme-great-escape.json) |
 | Rothdam! | 196865 | [196865-rothdam.json](./196865-rothdam.json) |
