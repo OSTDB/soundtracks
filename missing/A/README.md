@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A group of beauties surrounded me | 278176 | [278176-a-group-of-beauties-surrounded-me.json](./278176-a-group-of-beauties-surrounded-me.json) |
 | A Gruta de Maquiné | 293930 | [293930-a-gruta-de-maquine.json](./293930-a-gruta-de-maquine.json) |
 | A Guidebook of Babel | 149085 | [149085-a-guidebook-of-babel.json](./149085-a-guidebook-of-babel.json) |
+| A Hero and a Garden | 137072 | [137072-a-hero-and-a-garden.json](./137072-a-hero-and-a-garden.json) |
 | A Hero's Rest: An RPG Town Simulator | 206356 | [206356-a-heros-rest-an-rpg-town-simulator.json](./206356-a-heros-rest-an-rpg-town-simulator.json) |
 | A Housewife's Healing Touch | 198561 | [198561-a-housewifes-healing-touch.json](./198561-a-housewifes-healing-touch.json) |
 | A Jornada | 299469 | [299469-a-jornada.json](./299469-a-jornada.json) |
@@ -571,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angellus: Asas do Anoitecer | 262079 | [262079-angellus-asas-do-anoitecer.json](./262079-angellus-asas-do-anoitecer.json) |
 | Angelo and Deemon 2: Too Hell of a Quest | 319368 | [319368-angelo-and-deemon-2-too-hell-of-a-quest.json](./319368-angelo-and-deemon-2-too-hell-of-a-quest.json) |
 | Angels | 246124 | [246124-angels.json](./246124-angels.json) |
+| Angels of Death Episode.Eddie | 137047 | [137047-angels-of-death-episode-eddie.json](./137047-angels-of-death-episode-eddie.json) |
 | Anger of Stick 4 | 237643 | [237643-anger-of-stick-4.json](./237643-anger-of-stick-4.json) |
 | AngerForce: Reloaded for Nintendo Switch | 147948 | [147948-angerforce-reloaded-for-nintendo-switch.json](./147948-angerforce-reloaded-for-nintendo-switch.json) |
 | AngerOfStick | 175433 | [175433-angerofstick.json](./175433-angerofstick.json) |
@@ -786,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Brutal | 197913 | [197913-arena-brutal.json](./197913-arena-brutal.json) |
 | Arena Constellation | 295012 | [295012-arena-constellation.json](./295012-arena-constellation.json) |
 | Arena of Trophies | 297789 | [297789-arena-of-trophies.json](./297789-arena-of-trophies.json) |
+| Aretha II | 137076 | [137076-aretha-ii.json](./137076-aretha-ii.json) |
 | Argh! Earthlings! | 175435 | [175435-argh-earthlings.json](./175435-argh-earthlings.json) |
 | Arghh, There's a Killer Chasing Me! | 188114 | [188114-arghh-theres-a-killer-chasing-me.json](./188114-arghh-theres-a-killer-chasing-me.json) |
 | Argonauts Agency: Chair of Hephaestus | 188084 | [188084-argonauts-agency-chair-of-hephaestus.json](./188084-argonauts-agency-chair-of-hephaestus.json) |
@@ -926,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astonishing Baseball 22 | 262081 | [262081-astonishing-baseball-22.json](./262081-astonishing-baseball-22.json) |
 | Astra Protocol 2: Audio Pack | 309660 | [309660-astra-protocol-2-audio-pack.json](./309660-astra-protocol-2-audio-pack.json) |
 | Astra: Fading Stars | 143124 | [143124-astra-fading-stars.json](./143124-astra-fading-stars.json) |
+| AstralAir no Shiroki Towa Finale: Shiroki Hoshi no Yume | 137105 | [137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json](./137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json) |
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
 | Astria Ascending: Collector's Edition | 173776 | [173776-astria-ascending-collectors-edition.json](./173776-astria-ascending-collectors-edition.json) |
 | Astro Blox Revisited | 241655 | [241655-astro-blox-revisited.json](./241655-astro-blox-revisited.json) |
