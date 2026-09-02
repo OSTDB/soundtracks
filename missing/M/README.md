@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MeiQi 2022 | 190735 | [190735-meiqi-2022.json](./190735-meiqi-2022.json) |
 | MekaFighters | 146350 | [146350-mekafighters.json](./146350-mekafighters.json) |
 | Melancholy Love | 139483 | [139483-melancholy-love.json](./139483-melancholy-love.json) |
+| Melbits POD | 138236 | [138236-melbits-pod.json](./138236-melbits-pod.json) |
 | Melli's Retro Land | 270414 | [270414-mellis-retro-land.json](./270414-mellis-retro-land.json) |
 | Mello Haunted House | 207497 | [207497-mello-haunted-house.json](./207497-mello-haunted-house.json) |
 | Melody Mania | 247782 | [247782-melody-mania.json](./247782-melody-mania.json) |
@@ -577,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Scenes Ep.2: The Goodbye Note - Special Edition | 176481 | [176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json](./176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json) |
 | Midnight Stranger | 143102 | [143102-midnight-stranger.json](./143102-midnight-stranger.json) |
 | Midnight Swamp | 318198 | [318198-midnight-swamp.json](./318198-midnight-swamp.json) |
+| Midnight Train | 138255 | [138255-midnight-train.json](./138255-midnight-train.json) |
 | Midnight Train: Going Anywhere | 176489 | [176489-midnight-train-going-anywhere.json](./176489-midnight-train-going-anywhere.json) |
 | Midnight's Curse | 154569 | [154569-midnights-curse.json](./154569-midnights-curse.json) |
 | Midori Budou-den | 339121 | [339121-midori-budou-den.json](./339121-midori-budou-den.json) |
