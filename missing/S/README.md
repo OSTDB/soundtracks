@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandbox Planet | 256534 | [256534-sandbox-planet.json](./256534-sandbox-planet.json) |
 | Sandcastles | 134693 | [134693-sandcastles.json](./134693-sandcastles.json) |
 | SandRipper | 270930 | [270930-sandripper.json](./270930-sandripper.json) |
+| Sands of Salzaar | 128004 | [128004-sands-of-salzaar.json](./128004-sands-of-salzaar.json) |
 | Sands of Slumber: The RPG | 225864 | [225864-sands-of-slumber-the-rpg.json](./225864-sands-of-slumber-the-rpg.json) |
 | SandTest | 146870 | [146870-sandtest.json](./146870-sandtest.json) |
 | Sandtrix | 251225 | [251225-sandtrix.json](./251225-sandtrix.json) |
@@ -782,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smithy Shop | 236538 | [236538-smithy-shop.json](./236538-smithy-shop.json) |
 | Smoking Simulator | 201285 | [201285-smoking-simulator.json](./201285-smoking-simulator.json) |
 | Smoking Snakes | 197952 | [197952-smoking-snakes.json](./197952-smoking-snakes.json) |
+| Smolsies | 127989 | [127989-smolsies.json](./127989-smolsies.json) |
 | Smoothie Galaxy | 182518 | [182518-smoothie-galaxy.json](./182518-smoothie-galaxy.json) |
 | SMYS: Classic | 292308 | [292308-smys-classic.json](./292308-smys-classic.json) |
 | Snack Pack 3: Trick or Treat | 275317 | [275317-snack-pack-3-trick-or-treat.json](./275317-snack-pack-3-trick-or-treat.json) |
@@ -845,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowdome | 260961 | [260961-snowdome.json](./260961-snowdome.json) |
 | Snowdreams -lost in winter- | 146324 | [146324-snowdreams-lost-in-winter.json](./146324-snowdreams-lost-in-winter.json) |
 | Snowdrop Escape | 170562 | [170562-snowdrop-escape.json](./170562-snowdrop-escape.json) |
+| SnowFight Go | 128011 | [128011-snowfight-go.json](./128011-snowfight-go.json) |
 | Snowman Attack | 262078 | [262078-snowman-attack.json](./262078-snowman-attack.json) |
 | SnowRunner: Jeep Dual Pack | 169995 | [169995-snowrunner-jeep-dual-pack.json](./169995-snowrunner-jeep-dual-pack.json) |
 | SnowRunner: Season 14 - Reap and Sow | 336931 | [336931-snowrunner-season-14-reap-and-sow.json](./336931-snowrunner-season-14-reap-and-sow.json) |
@@ -1332,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox 2D: War of Lylat | 324097 | [324097-star-fox-2d-war-of-lylat.json](./324097-star-fox-2d-war-of-lylat.json) |
 | Star Guard | 185136 | [185136-star-guard.json](./185136-star-guard.json) |
 | Star Hearts: Launch Point | 200713 | [200713-star-hearts-launch-point.json](./200713-star-hearts-launch-point.json) |
+| Star Jolt | 127960 | [127960-star-jolt.json](./127960-star-jolt.json) |
 | Star Man 2: Reupgraded | 333958 | [333958-star-man-2-reupgraded.json](./333958-star-man-2-reupgraded.json) |
 | Star Matter | 148524 | [148524-star-matter.json](./148524-star-matter.json) |
 | Star Melody: Yumemi Dreamer | 172717 | [172717-star-melody-yumemi-dreamer.json](./172717-star-melody-yumemi-dreamer.json) |
@@ -1419,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamForge | 339666 | [339666-steamforge.json](./339666-steamforge.json) |
 | Steampunch | 335075 | [335075-steampunch.json](./335075-steampunch.json) |
 | Steamworld Dig 2 + Steamworld Dig | 218691 | [218691-steamworld-dig-2-steamworld-dig.json](./218691-steamworld-dig-2-steamworld-dig.json) |
+| Steamy Sextet | 127997 | [127997-steamy-sextet.json](./127997-steamy-sextet.json) |
 | Steel | 329915 | [329915-steel.json](./329915-steel.json) |
 | Steel Covenant | 339665 | [339665-steel-covenant.json](./339665-steel-covenant.json) |
 | Steel Division 2: Nemesis - Battle of Rimini | 143080 | [143080-steel-division-2-nemesis-battle-of-rimini.json](./143080-steel-division-2-nemesis-battle-of-rimini.json) |
@@ -1587,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Challenge | 339651 | [339651-succubus-challenge.json](./339651-succubus-challenge.json) |
 | Succubus Farm | 151166 | [151166-succubus-farm.json](./151166-succubus-farm.json) |
 | Succubus Girl Story | 192443 | [192443-succubus-girl-story.json](./192443-succubus-girl-story.json) |
+| Succubus Waifu | 127998 | [127998-succubus-waifu.json](./127998-succubus-waifu.json) |
 | Such Ninja | 254154 | [254154-such-ninja.json](./254154-such-ninja.json) |
 | Such, Such Were the Joys | 264352 | [264352-such-such-were-the-joys.json](./264352-such-such-were-the-joys.json) |
 | Suction Co-Op | 303222 | [303222-suction-co-op.json](./303222-suction-co-op.json) |
