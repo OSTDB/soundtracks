@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman: The Firelands | 149057 | [149057-talisman-the-firelands.json](./149057-talisman-the-firelands.json) |
 | Talisman: The Woodland | 149081 | [149081-talisman-the-woodland.json](./149081-talisman-the-woodland.json) |
 | Talk to Strangers | 252403 | [252403-talk-to-strangers.json](./252403-talk-to-strangers.json) |
+| Talk to Yuno | 111005 | [111005-talk-to-yuno.json](./111005-talk-to-yuno.json) |
 | Talking Tom Cat 2 | 214779 | [214779-talking-tom-cat-2.json](./214779-talking-tom-cat-2.json) |
 | TalkTics: Double Served | 303793 | [303793-talktics-double-served.json](./303793-talktics-double-served.json) |
 | Tall Ships: Age of Sail | 256537 | [256537-tall-ships-age-of-sail.json](./256537-tall-ships-age-of-sail.json) |
@@ -907,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mixer | 223178 | [223178-the-mixer.json](./223178-the-mixer.json) |
 | The Monastery | 304889 | [304889-the-monastery.json](./304889-the-monastery.json) |
 | The Monkey P | 223148 | [223148-the-monkey-p.json](./223148-the-monkey-p.json) |
+| The Monster | 111019 | [111019-the-monster.json](./111019-the-monster.json) |
 | The Monster Within | 174346 | [174346-the-monster-within.json](./174346-the-monster-within.json) |
 | The Moon 2050 | 156686 | [156686-the-moon-2050.json](./156686-the-moon-2050.json) |
 | The Moon Ate the Sun | 318192 | [318192-the-moon-ate-the-sun.json](./318192-the-moon-ate-the-sun.json) |
@@ -1291,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Can Be Only One | 181893 | [181893-there-can-be-only-one.json](./181893-there-can-be-only-one.json) |
 | There Exists Nobody | 322970 | [322970-there-exists-nobody.json](./322970-there-exists-nobody.json) |
 | There Is No Light | 138213 | [138213-there-is-no-light.json](./138213-there-is-no-light.json) |
+| There Is No Turning Back! | 111004 | [111004-there-is-no-turning-back.json](./111004-there-is-no-turning-back.json) |
 | There Is Nothing Here | 179174 | [179174-there-is-nothing-here.json](./179174-there-is-nothing-here.json) |
 | There's an Only One Way Exit. | 314065 | [314065-theres-an-only-one-way-exit.json](./314065-theres-an-only-one-way-exit.json) |
 | There's No Easter Eggs | 273630 | [273630-theres-no-easter-eggs.json](./273630-theres-no-easter-eggs.json) |
@@ -1348,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throw M | 319962 | [319962-throw-m.json](./319962-throw-m.json) |
 | Throw Me in the River | 149600 | [149600-throw-me-in-the-river.json](./149600-throw-me-in-the-river.json) |
 | Thrunt! | 134682 | [134682-thrunt.json](./134682-thrunt.json) |
+| Thrushbriar Hall | 111031 | [111031-thrushbriar-hall.json](./111031-thrushbriar-hall.json) |
 | Thrust Master Deluxe | 258220 | [258220-thrust-master-deluxe.json](./258220-thrust-master-deluxe.json) |
 | ThrustMe Too | 333373 | [333373-thrustme-too.json](./333373-thrustme-too.json) |
 | Thukothea Defender | 159855 | [159855-thukothea-defender.json](./159855-thukothea-defender.json) |
@@ -1752,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Melo | 312904 | [312904-touch-melo.json](./312904-touch-melo.json) |
 | Touchdown Pinball | 129804 | [129804-touchdown-pinball.json](./129804-touchdown-pinball.json) |
 | TouchSports Tennis 2012 HD | 233744 | [233744-touchsports-tennis-2012-hd.json](./233744-touchsports-tennis-2012-hd.json) |
+| Touhou Cannonball | 111052 | [111052-touhou-cannonball.json](./111052-touhou-cannonball.json) |
 | Touhou Chouseisho: Sapphire Panlogism | 181892 | [181892-touhou-chouseisho-sapphire-panlogism.json](./181892-touhou-chouseisho-sapphire-panlogism.json) |
 | Touhou Danmaku Shunsatsu Gekijou: Shoken Koroshi ni Inochi wo Kakete | 339125 | [339125-touhou-danmaku-shunsatsu-gekijou-shoken-koroshi-ni-inochi-wo-kakete.json](./339125-touhou-danmaku-shunsatsu-gekijou-shoken-koroshi-ni-inochi-wo-kakete.json) |
 | Touhou Danmaku: Infinity | 233785 | [233785-touhou-danmaku-infinity.json](./233785-touhou-danmaku-infinity.json) |
@@ -1863,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 4: S-Bahn Vorarlberg - Lindau - Bludenz Route | 269322 | [269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json](./269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json) |
 | Train Sim World 5: Dutch Regional Edition | 336939 | [336939-train-sim-world-5-dutch-regional-edition.json](./336939-train-sim-world-5-dutch-regional-edition.json) |
 | Train Simulator | 327582 | [327582-train-simulator.json](./327582-train-simulator.json) |
+| Train Simulator 2019 | 111023 | [111023-train-simulator-2019.json](./111023-train-simulator-2019.json) |
 | Train Simulator 2021: Arizona Divide - Winslow: Williams Route | 162416 | [162416-train-simulator-2021-arizona-divide-winslow-williams-route.json](./162416-train-simulator-2021-arizona-divide-winslow-williams-route.json) |
 | Train Simulator 2021: BR Class 170 'Turbostar' DMU | 162391 | [162391-train-simulator-2021-br-class-170-turbostar-dmu.json](./162391-train-simulator-2021-br-class-170-turbostar-dmu.json) |
 | Train Simulator 2021: BR Class 31 Freight Loco | 162393 | [162393-train-simulator-2021-br-class-31-freight-loco.json](./162393-train-simulator-2021-br-class-31-freight-loco.json) |
