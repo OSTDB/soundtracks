@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patriotika RPG: Shadow World | 298343 | [298343-patriotika-rpg-shadow-world.json](./298343-patriotika-rpg-shadow-world.json) |
 | Patron | 152393 | [152393-patron.json](./152393-patron.json) |
 | Paw Patrol | 298309 | [298309-paw-patrol.json](./298309-paw-patrol.json) |
+| Paw Patrol Bundle | 150141 | [150141-paw-patrol-bundle.json](./150141-paw-patrol-bundle.json) |
 | Paw Patrol: Laptop Infantil | 294467 | [294467-paw-patrol-laptop-infantil.json](./294467-paw-patrol-laptop-infantil.json) |
 | Pawapuro-kun Pocket 12 | 229923 | [229923-pawapuro-kun-pocket-12.json](./229923-pawapuro-kun-pocket-12.json) |
 | Pawapuro-kun Pocket R | 152368 | [152368-pawapuro-kun-pocket-r.json](./152368-pawapuro-kun-pocket-r.json) |
