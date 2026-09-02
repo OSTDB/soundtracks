@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ewe Shall Not Pass | 260391 | [260391-ewe-shall-not-pass.json](./260391-ewe-shall-not-pass.json) |
 | Ex-Fraktion | 181370 | [181370-ex-fraktion.json](./181370-ex-fraktion.json) |
 | Excavate Diamond | 228111 | [228111-excavate-diamond.json](./228111-excavate-diamond.json) |
+| Excavator Simulator 2018 | 100865 | [100865-excavator-simulator-2018.json](./100865-excavator-simulator-2018.json) |
 | Excitebike-e | 169997 | [169997-excitebike-e.json](./169997-excitebike-e.json) |
 | Exclusive Memory | 319938 | [319938-exclusive-memory.json](./319938-exclusive-memory.json) |
 | Excursus | 177025 | [177025-excursus.json](./177025-excursus.json) |
@@ -489,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eXtinction | 221978 | [221978-extinction.json](./221978-extinction.json) |
 | Extreme Car Parking! | 310196 | [310196-extreme-car-parking.json](./310196-extreme-car-parking.json) |
 | Extreme flight | 118411 | [118411-extreme-flight.json](./118411-extreme-flight.json) |
+| Extreme Formula Championship | 101592 | [101592-extreme-formula-championship.json](./101592-extreme-formula-championship.json) |
 | Extreme Makeover: Home Edition | 262061 | [262061-extreme-makeover-home-edition.json](./262061-extreme-makeover-home-edition.json) |
 | Extreme Offroad Racing | 320540 | [320540-extreme-offroad-racing.json](./320540-extreme-offroad-racing.json) |
 | Extreme Overtake | 323528 | [323528-extreme-overtake.json](./323528-extreme-overtake.json) |
@@ -499,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extremely Realistic Siege Warfare Simulator | 130957 | [130957-extremely-realistic-siege-warfare-simulator.json](./130957-extremely-realistic-siege-warfare-simulator.json) |
 | Exсive A-1000 | 113714 | [113714-ex-ive-a-1000.json](./113714-ex-ive-a-1000.json) |
 | Eye on the world | 258731 | [258731-eye-on-the-world.json](./258731-eye-on-the-world.json) |
+| Eye Transplant : ER Emergency Hospital | 100855 | [100855-eye-transplant-er-emergency-hospital.json](./100855-eye-transplant-er-emergency-hospital.json) |
 | Eye-Witness | 271994 | [271994-eye-witness.json](./271994-eye-witness.json) |
 | eyEar | 181390 | [181390-eyear.json](./181390-eyear.json) |
 | Eyeball Master | 195272 | [195272-eyeball-master.json](./195272-eyeball-master.json) |
