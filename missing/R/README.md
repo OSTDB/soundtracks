@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Season 11 | 252378 | [252378-rocket-league-season-11.json](./252378-rocket-league-season-11.json) |
 | Rocket Mania | 195213 | [195213-rocket-mania.json](./195213-rocket-mania.json) |
 | Rocket Power: Zero Gravity Zone | 262089 | [262089-rocket-power-zero-gravity-zone.json](./262089-rocket-power-zero-gravity-zone.json) |
+| Rocket Rush | 99633 | [99633-rocket-rush.json](./99633-rocket-rush.json) |
 | Rocket Smash | 273642 | [273642-rocket-smash.json](./273642-rocket-smash.json) |
 | Rocketbirds 2: Mind Control | 170517 | [170517-rocketbirds-2-mind-control.json](./170517-rocketbirds-2-mind-control.json) |
 | Rocketbirds 2: Rescue Bundle | 170516 | [170516-rocketbirds-2-rescue-bundle.json](./170516-rocketbirds-2-rescue-bundle.json) |
