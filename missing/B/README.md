@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Orchard: Animal Valley - Ultimate Edition | 208618 | [208618-bit-orchard-animal-valley-ultimate-edition.json](./208618-bit-orchard-animal-valley-ultimate-edition.json) |
 | Bit Orchard: Animal Valley - Ultra Ultimate | 271500 | [271500-bit-orchard-animal-valley-ultra-ultimate.json](./271500-bit-orchard-animal-valley-ultra-ultimate.json) |
 | BitColor | 184116 | [184116-bitcolor.json](./184116-bitcolor.json) |
+| Bite Me | 128623 | [128623-bite-me.json](./128623-bite-me.json) |
 | Bitsnake | 135281 | [135281-bitsnake.json](./135281-bitsnake.json) |
 | Bitsturbed | 145011 | [145011-bitsturbed.json](./145011-bitsturbed.json) |
 | Bitsy Bits: The Secret of Magic | 311248 | [311248-bitsy-bits-the-secret-of-magic.json](./311248-bitsy-bits-the-secret-of-magic.json) |
