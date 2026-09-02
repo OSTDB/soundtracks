@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Garden | 317579 | [317579-magic-garden.json](./317579-magic-garden.json) |
 | Magic Griddlers | 156671 | [156671-magic-griddlers.json](./156671-magic-griddlers.json) |
 | Magic Kingdom | 213591 | [213591-magic-kingdom.json](./213591-magic-kingdom.json) |
+| Magic Ocean: Multiplayer Roguelike | 141245 | [141245-magic-ocean-multiplayer-roguelike.json](./141245-magic-ocean-multiplayer-roguelike.json) |
 | Magic Paper | 250648 | [250648-magic-paper.json](./250648-magic-paper.json) |
 | Magic Pen Color Book | 187488 | [187488-magic-pen-color-book.json](./187488-magic-pen-color-book.json) |
 | Magic Rune Stone | 333367 | [333367-magic-rune-stone.json](./333367-magic-rune-stone.json) |
@@ -523,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroCity | 144375 | [144375-microcity.json](./144375-microcity.json) |
 | Microjob | 149564 | [149564-microjob.json](./149564-microjob.json) |
 | Microsoft Combat Flight Simulator: WWII Europe Series | 243975 | [243975-microsoft-combat-flight-simulator-wwii-europe-series.json](./243975-microsoft-combat-flight-simulator-wwii-europe-series.json) |
+| Microsoft Flight Simulator 5.1: The Virtual Squadron | 141224 | [141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json](./141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json) |
 | Microsoft Flight Simulator X: Steam Edition - 3D Lights Redux | 161889 | [161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json](./161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json) |
 | Microsoft Flight Simulator X: Steam Edition - Around the World in 80 Flights | 161868 | [161868-microsoft-flight-simulator-x-steam-edition-around-the-world-in-80-flights.json](./161868-microsoft-flight-simulator-x-steam-edition-around-the-world-in-80-flights.json) |
 | Microsoft Flight Simulator X: Steam Edition - Beechcraft D17 Staggerwing | 161877 | [161877-microsoft-flight-simulator-x-steam-edition-beechcraft-d17-staggerwing.json](./161877-microsoft-flight-simulator-x-steam-edition-beechcraft-d17-staggerwing.json) |
