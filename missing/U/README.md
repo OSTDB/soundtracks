@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.F.O. K.O. Tower Defense | 152907 | [152907-u-f-o-k-o-tower-defense.json](./152907-u-f-o-k-o-tower-defense.json) |
 | U.F.O.M.O. | 184084 | [184084-u-f-o-m-o.json](./184084-u-f-o-m-o.json) |
 | U.N.P.O.C. Vessel of Opportunity | 335706 | [335706-u-n-p-o-c-vessel-of-opportunity.json](./335706-u-n-p-o-c-vessel-of-opportunity.json) |
+| U.R.B.A.N The Cyborg Project | 126029 | [126029-u-r-b-a-n-the-cyborg-project.json](./126029-u-r-b-a-n-the-cyborg-project.json) |
 | U96 | 207513 | [207513-u96.json](./207513-u96.json) |
 | Ubok. | 150160 | [150160-ubok.json](./150160-ubok.json) |
 | UC Love | 238218 | [238218-uc-love.json](./238218-uc-love.json) |
@@ -23,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO Enemy Known | 310768 | [310768-ufo-enemy-known.json](./310768-ufo-enemy-known.json) |
 | UFO: The Ranch | 248886 | [248886-ufo-the-ranch.json](./248886-ufo-the-ranch.json) |
 | Ug! Caveman Game | 198528 | [198528-ug-caveman-game.json](./198528-ug-caveman-game.json) |
+| Uin | 125993 | [125993-uin.json](./125993-uin.json) |
 | Ukik | 246103 | [246103-ukik.json](./246103-ukik.json) |
 | Uknon Jones & Guynelk: Awesome! | 275338 | [275338-uknon-jones-and-guynelk-awesome.json](./275338-uknon-jones-and-guynelk-awesome.json) |
 | Ultima Adventum | 149602 | [149602-ultima-adventum.json](./149602-ultima-adventum.json) |
@@ -61,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbral Core | 219257 | [219257-umbral-core.json](./219257-umbral-core.json) |
 | Umihara Kawase Uku | 276489 | [276489-umihara-kawase-uku.json](./276489-umihara-kawase-uku.json) |
 | Umineko no Naku Koro ni Saku: Nekobako to Musou no Koukyoukyoku - Limited Edition | 140001 | [140001-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku-limited-edition.json](./140001-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku-limited-edition.json) |
+| Umineko no Naku Koro ni Tsubasa | 125996 | [125996-umineko-no-naku-koro-ni-tsubasa.json](./125996-umineko-no-naku-koro-ni-tsubasa.json) |
 | Umineko no Naku Koro ni: Aru Ryourinin no Zakki | 272533 | [272533-umineko-no-naku-koro-ni-aru-ryourinin-no-zakki.json](./272533-umineko-no-naku-koro-ni-aru-ryourinin-no-zakki.json) |
 | Umineko no Naku Koro ni: Dare no Ochakai? | 272540 | [272540-umineko-no-naku-koro-ni-dare-no-ochakai.json](./272540-umineko-no-naku-koro-ni-dare-no-ochakai.json) |
 | Umineko no Naku Koro ni: Majo-tachi no Tanabata ha Amakunai | 272542 | [272542-umineko-no-naku-koro-ni-majo-tachi-no-tanabata-ha-amakunai.json](./272542-umineko-no-naku-koro-ni-majo-tachi-no-tanabata-ha-amakunai.json) |
