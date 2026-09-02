@@ -753,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Warfare | 156662 | [156662-another-warfare.json](./156662-another-warfare.json) |
 | Anpanman no Waku-waku Game Oekaki | 123617 | [123617-anpanman-no-waku-waku-game-oekaki.json](./123617-anpanman-no-waku-waku-game-oekaki.json) |
 | Anstoss 2: Gold Edition | 155090 | [155090-anstoss-2-gold-edition.json](./155090-anstoss-2-gold-edition.json) |
+| Anstoß Action | 98963 | [98963-ansto-action.json](./98963-ansto-action.json) |
 | Answer Campus | 260408 | [260408-answer-campus.json](./260408-answer-campus.json) |
 | Answer Me | 157164 | [157164-answer-me.json](./157164-answer-me.json) |
 | Answered Prayers | 145035 | [145035-answered-prayers.json](./145035-answered-prayers.json) |
@@ -892,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archons: Arena | 264897 | [264897-archons-arena.json](./264897-archons-arena.json) |
 | Arclands | 156147 | [156147-arclands.json](./156147-arclands.json) |
 | Arcshu: Kagerou no Jidai wo Koete | 314659 | [314659-arcshu-kagerou-no-jidai-wo-koete.json](./314659-arcshu-kagerou-no-jidai-wo-koete.json) |
+| Arctic Cave | 98987 | [98987-arctic-cave.json](./98987-arctic-cave.json) |
 | Arctic Motel Simulator | 311829 | [311829-arctic-motel-simulator.json](./311829-arctic-motel-simulator.json) |
 | Ardem | 260389 | [260389-ardem.json](./260389-ardem.json) |
 | Ardency: Heart of the Rebellion | 297788 | [297788-ardency-heart-of-the-rebellion.json](./297788-ardency-heart-of-the-rebellion.json) |
@@ -1213,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AWA 2024 | 278169 | [278169-awa-2024.json](./278169-awa-2024.json) |
 | AwakeMUD | 228698 | [228698-awakemud.json](./228698-awakemud.json) |
 | Awaken the Time | 132236 | [132236-awaken-the-time.json](./132236-awaken-the-time.json) |
+| Awaken: Gunpowder Adventurer Daydream | 99010 | [99010-awaken-gunpowder-adventurer-daydream.json](./99010-awaken-gunpowder-adventurer-daydream.json) |
 | Awakening: The Redleaf Forest & Awakening: The Golden Age | 201814 | [201814-awakening-the-redleaf-forest-and-awakening-the-golden-age.json](./201814-awakening-the-redleaf-forest-and-awakening-the-golden-age.json) |
 | Awesome Asteroids | 239291 | [239291-awesome-asteroids.json](./239291-awesome-asteroids.json) |
 | Awesome Tanks | 313503 | [313503-awesome-tanks.json](./313503-awesome-tanks.json) |
