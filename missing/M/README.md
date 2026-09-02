@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metawork: Hotel Simulator | 243395 | [243395-metawork-hotel-simulator.json](./243395-metawork-hotel-simulator.json) |
 | Metempsychosis | 104052 | [104052-metempsychosis.json](./104052-metempsychosis.json) |
 | Meteor | 127321 | [127321-meteor.json](./127321-meteor.json) |
+| Meteor Blaster | 97913 | [97913-meteor-blaster.json](./97913-meteor-blaster.json) |
 | Meteor Blasters | 199093 | [199093-meteor-blasters.json](./199093-meteor-blasters.json) |
 | Meteor Genocide | 153994 | [153994-meteor-genocide.json](./153994-meteor-genocide.json) |
 | Meteor Shower | 306668 | [306668-meteor-shower.json](./306668-meteor-shower.json) |
@@ -1016,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Universe | 237640 | [237640-monster-universe.json](./237640-monster-universe.json) |
 | Monster+Connect! | 181396 | [181396-monster-connect.json](./181396-monster-connect.json) |
 | Monsterlands | 203531 | [203531-monsterlands.json](./203531-monsterlands.json) |
+| MonsterRoll | 97917 | [97917-monsterroll.json](./97917-monsterroll.json) |
 | Monsters Idle RPG | 238721 | [238721-monsters-idle-rpg.json](./238721-monsters-idle-rpg.json) |
 | Monsters: Survival | 114997 | [114997-monsters-survival.json](./114997-monsters-survival.json) |
 | Monsters: The Hunter of Darkness | 214198 | [214198-monsters-the-hunter-of-darkness.json](./214198-monsters-the-hunter-of-darkness.json) |
