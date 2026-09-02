@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramble Planet | 152374 | [152374-ramble-planet.json](./152374-ramble-planet.json) |
 | Ramblings | 204678 | [204678-ramblings.json](./204678-ramblings.json) |
 | Ramen Chain | 159345 | [159345-ramen-chain.json](./159345-ramen-chain.json) |
+| Ramen in the 90's | 141190 | [141190-ramen-in-the-90s.json](./141190-ramen-in-the-90s.json) |
 | Ramhart | 341311 | [341311-ramhart.json](./341311-ramhart.json) |
 | Rampage Rowing | 316415 | [316415-rampage-rowing.json](./316415-rampage-rowing.json) |
 | RampageRunner | 341310 | [341310-rampagerunner.json](./341310-rampagerunner.json) |
@@ -392,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Lady's Slave Role Play | 199616 | [199616-rich-ladys-slave-role-play.json](./199616-rich-ladys-slave-role-play.json) |
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
 | RichMan 4 Fun | 252402 | [252402-richman-4-fun.json](./252402-richman-4-fun.json) |
+| Richup.io | 141249 | [141249-richup-io.json](./141249-richup-io.json) |
 | Ricochet | 209166 | [209166-ricochet.json](./209166-ricochet.json) |
 | Ricochet Blur | 226453 | [226453-ricochet-blur.json](./226453-ricochet-blur.json) |
 | Riddledale | 223174 | [223174-riddledale.json](./223174-riddledale.json) |
@@ -415,6 +417,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 5: Free Pack 06 | 293410 | [293410-ride-5-free-pack-06.json](./293410-ride-5-free-pack-06.json) |
 | Ride 5: Speed With Style Pack | 293411 | [293411-ride-5-speed-with-style-pack.json](./293411-ride-5-speed-with-style-pack.json) |
 | Ride Control Ultimate | 243403 | [243403-ride-control-ultimate.json](./243403-ride-control-ultimate.json) |
+| Ride Your Mind | 141208 | [141208-ride-your-mind.json](./141208-ride-your-mind.json) |
+| Ride Your Mind: Blossoms | 141210 | [141210-ride-your-mind-blossoms.json](./141210-ride-your-mind-blossoms.json) |
 | RideOp: New Heights - Expansion pack | 226950 | [226950-rideop-new-heights-expansion-pack.json](./226950-rideop-new-heights-expansion-pack.json) |
 | Riders 2491 | 158706 | [158706-riders-2491.json](./158706-riders-2491.json) |
 | Riders Republic: Year 1 Pass | 293916 | [293916-riders-republic-year-1-pass.json](./293916-riders-republic-year-1-pass.json) |
@@ -509,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robodash | 257093 | [257093-robodash.json](./257093-robodash.json) |
 | RoboJep | 165691 | [165691-robojep.json](./165691-robojep.json) |
 | Robosaurus | 264318 | [264318-robosaurus.json](./264318-robosaurus.json) |
+| RoboSquare | 141205 | [141205-robosquare.json](./141205-robosquare.json) |
 | Robot Hunt | 324661 | [324661-robot-hunt.json](./324661-robot-hunt.json) |
 | Robot Planet | 232663 | [232663-robot-planet.json](./232663-robot-planet.json) |
 | Robot Ponkottsu: Moon Version | 243919 | [243919-robot-ponkottsu-moon-version.json](./243919-robot-ponkottsu-moon-version.json) |
