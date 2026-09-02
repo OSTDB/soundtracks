@@ -829,6 +829,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furikake Spacey | 216461 | [216461-furikake-spacey.json](./216461-furikake-spacey.json) |
 | Furiosity | 225286 | [225286-furiosity.json](./225286-furiosity.json) |
 | Furious Farm: Total Reap Out | 245030 | [245030-furious-farm-total-reap-out.json](./245030-furious-farm-total-reap-out.json) |
+| Furistas Cat Cafe | 106594 | [106594-furistas-cat-cafe.json](./106594-furistas-cat-cafe.json) |
+| Furistas Cat Cafe | 106629 | [106629-furistas-cat-cafe.json](./106629-furistas-cat-cafe.json) |
 | Furries & Scalies & Bears OH MY! 2: Return to Kale Bay - Beyond the Monster Sea | 254146 | [254146-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay-beyond-the-monster-sea.json](./254146-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay-beyond-the-monster-sea.json) |
 | Furries & Scalies & Bears OH MY!: Charity Bonus | 171044 | [171044-furries-and-scalies-and-bears-oh-my-charity-bonus.json](./171044-furries-and-scalies-and-bears-oh-my-charity-bonus.json) |
 | Furries & Scalies & Bears OH MY!: Charity Pack - Echoes of the Fire | 171043 | [171043-furries-and-scalies-and-bears-oh-my-charity-pack-echoes-of-the-fire.json](./171043-furries-and-scalies-and-bears-oh-my-charity-pack-echoes-of-the-fire.json) |
