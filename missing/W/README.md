@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the Adventurer Inn! | 169460 | [169460-welcome-to-the-adventurer-inn.json](./169460-welcome-to-the-adventurer-inn.json) |
 | Welcome to the Galaxy | 178639 | [178639-welcome-to-the-galaxy.json](./178639-welcome-to-the-galaxy.json) |
 | Welcome to the Game 2+ | 265928 | [265928-welcome-to-the-game-2.json](./265928-welcome-to-the-game-2.json) |
+| Welcome To... Chicheser OVN 3 : The Mysterious Affair At The Violet Hotel | 131587 | [131587-welcome-to-chicheser-ovn-3-the-mysterious-affair-at-the-violet-hotel.json](./131587-welcome-to-chicheser-ovn-3-the-mysterious-affair-at-the-violet-hotel.json) |
 | Welcome To... Chichester OVN: Omnibus Edition | 248334 | [248334-welcome-to-chichester-ovn-omnibus-edition.json](./248334-welcome-to-chichester-ovn-omnibus-edition.json) |
 | Welly Wang VR | 267680 | [267680-welly-wang-vr.json](./267680-welly-wang-vr.json) |
 | Werner: Let's Go! | 269305 | [269305-werner-lets-go.json](./269305-werner-lets-go.json) |
@@ -296,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings 1941 | 203571 | [203571-wings-1941.json](./203571-wings-1941.json) |
 | Wingspan + European Expansion + Oceania Expansion | 275894 | [275894-wingspan-european-expansion-oceania-expansion.json](./275894-wingspan-european-expansion-oceania-expansion.json) |
 | Wingspan + European Expansion + Oceania Expansion + Seasonal Decorative Pack | 275895 | [275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json](./275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json) |
+| Winky Trap | 131582 | [131582-winky-trap.json](./131582-winky-trap.json) |
 | Winnie the Witch | 205840 | [205840-winnie-the-witch.json](./205840-winnie-the-witch.json) |
 | Winning Eleven Play Maker 2010: Aoki Samurai no Chousen | 268207 | [268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json](./268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json) |
 | Winning Lure | 298863 | [298863-winning-lure.json](./298863-winning-lure.json) |
@@ -373,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word After Word | 134653 | [134653-word-after-word.json](./134653-word-after-word.json) |
 | Word Crystal | 195197 | [195197-word-crystal.json](./195197-word-crystal.json) |
 | Word Escape | 152930 | [152930-word-escape.json](./152930-word-escape.json) |
+| Word Feud | 131583 | [131583-word-feud.json](./131583-word-feud.json) |
 | Word of Kitchen | 190702 | [190702-word-of-kitchen.json](./190702-word-of-kitchen.json) |
 | Word Search & Learn | 233741 | [233741-word-search-and-learn.json](./233741-word-search-and-learn.json) |
 | Word Warrior: Zombie Typocalypse | 278727 | [278727-word-warrior-zombie-typocalypse.json](./278727-word-warrior-zombie-typocalypse.json) |
