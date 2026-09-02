@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Senpai | 230521 | [230521-the-senpai.json](./230521-the-senpai.json) |
 | The Settlers 7: Paths to a Kingdom - Conquest: The Empire Expansion | 225912 | [225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json](./225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json) |
 | The Settlers 7: Paths to a Kingdom - The Two Kings | 225911 | [225911-the-settlers-7-paths-to-a-kingdom-the-two-kings.json](./225911-the-settlers-7-paths-to-a-kingdom-the-two-kings.json) |
+| The seven deadly seas | 122396 | [122396-the-seven-deadly-seas.json](./122396-the-seven-deadly-seas.json) |
 | The Seven Deadly Sins: Idle Adventure | 315273 | [315273-the-seven-deadly-sins-idle-adventure.json](./315273-the-seven-deadly-sins-idle-adventure.json) |
 | The Seven Realms: Realm - Pythonium | 331105 | [331105-the-seven-realms-realm-pythonium.json](./331105-the-seven-realms-realm-pythonium.json) |
 | The Seven Realms: Realm 3 - High Lathión | 267673 | [267673-the-seven-realms-realm-3-high-lathion.json](./267673-the-seven-realms-realm-3-high-lathion.json) |
@@ -1889,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Horror Collection | 204091 | [204091-trash-horror-collection.json](./204091-trash-horror-collection.json) |
 | Trash is Fun | 153997 | [153997-trash-is-fun.json](./153997-trash-is-fun.json) |
 | Trash Panda: The Adventures of Ricky and Boxman | 226433 | [226433-trash-panda-the-adventures-of-ricky-and-boxman.json](./226433-trash-panda-the-adventures-of-ricky-and-boxman.json) |
+| Trash Sailors | 122426 | [122426-trash-sailors.json](./122426-trash-sailors.json) |
 | Traulian: O Ultimo General | 293900 | [293900-traulian-o-ultimo-general.json](./293900-traulian-o-ultimo-general.json) |
 | Trauma | 301607 | [301607-trauma.json](./301607-trauma.json) |
 | TraumaCore Violence | 236518 | [236518-traumacore-violence.json](./236518-traumacore-violence.json) |
