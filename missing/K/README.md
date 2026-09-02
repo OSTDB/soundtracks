@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid 4 $29.99 | 141871 | [141871-kid-4-29-99.json](./141871-kid-4-29-99.json) |
 | Kid Hallow | 179210 | [179210-kid-hallow.json](./179210-kid-hallow.json) |
 | Kid Paddle: Lost in the Game | 268186 | [268186-kid-paddle-lost-in-the-game.json](./268186-kid-paddle-lost-in-the-game.json) |
+| Kid Speedy | 135867 | [135867-kid-speedy.json](./135867-kid-speedy.json) |
 | Kidnappers | 301610 | [301610-kidnappers.json](./301610-kidnappers.json) |
 | Kidou Senshi Gundam: Fushigi no Dungeon | 311283 | [311283-kidou-senshi-gundam-fushigi-no-dungeon.json](./311283-kidou-senshi-gundam-fushigi-no-dungeon.json) |
 | Kids Cars | 213647 | [213647-kids-cars.json](./213647-kids-cars.json) |
@@ -290,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koppun-50 | 310214 | [310214-koppun-50.json](./310214-koppun-50.json) |
 | Kor | 183561 | [183561-kor.json](./183561-kor.json) |
 | Korobo | 309105 | [309105-korobo.json](./309105-korobo.json) |
+| Korunu Kopia: Fushigi no Sumu Machi | 135895 | [135895-korunu-kopia-fushigi-no-sumu-machi.json](./135895-korunu-kopia-fushigi-no-sumu-machi.json) |
 | Kosmo Skirmish | 291771 | [291771-kosmo-skirmish.json](./291771-kosmo-skirmish.json) |
 | KosmoSquad | 154561 | [154561-kosmosquad.json](./154561-kosmosquad.json) |
 | Kotoko's a Little Weird | 290687 | [290687-kotokos-a-little-weird.json](./290687-kotokos-a-little-weird.json) |
