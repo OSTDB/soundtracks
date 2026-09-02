@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bái Xiǎo | 195266 | [195266-bai-xiao.json](./195266-bai-xiao.json) |
 | Baia | 334498 | [334498-baia.json](./334498-baia.json) |
 | Baja or Bust | 259245 | [259245-baja-or-bust.json](./259245-baja-or-bust.json) |
+| Bakemono | 128018 | [128018-bakemono.json](./128018-bakemono.json) |
 | Baker Business 3 | 235967 | [235967-baker-business-3.json](./235967-baker-business-3.json) |
 | Bakery Shop Simulator | 145637 | [145637-bakery-shop-simulator.json](./145637-bakery-shop-simulator.json) |
 | Baki Hanma: Blood Arena | 337462 | [337462-baki-hanma-blood-arena.json](./337462-baki-hanma-blood-arena.json) |
@@ -81,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance | 297775 | [297775-balance.json](./297775-balance.json) |
 | Balance of Power | 183072 | [183072-balance-of-power.json](./183072-balance-of-power.json) |
 | Balancefield | 180826 | [180826-balancefield.json](./180826-balancefield.json) |
+| Balconing Simulator 2020 | 127988 | [127988-balconing-simulator-2020.json](./127988-balconing-simulator-2020.json) |
 | Bald Man Climbs Up | 260988 | [260988-bald-man-climbs-up.json](./260988-bald-man-climbs-up.json) |
 | Baldi's Basics 1 Year Birthday Bash! | 176497 | [176497-baldis-basics-1-year-birthday-bash.json](./176497-baldis-basics-1-year-birthday-bash.json) |
 | Baldur's Gate Compilation | 141859 | [141859-baldurs-gate-compilation.json](./141859-baldurs-gate-compilation.json) |
@@ -227,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Asylum | 240487 | [240487-batman-arkham-asylum.json](./240487-batman-arkham-asylum.json) |
 | Batman: Arkham Knight - Earth 2 Dark Knight Skin | 138216 | [138216-batman-arkham-knight-earth-2-dark-knight-skin.json](./138216-batman-arkham-knight-earth-2-dark-knight-skin.json) |
 | Batman: The Brave and the Bold | 245552 | [245552-batman-the-brave-and-the-bold.json](./245552-batman-the-brave-and-the-bold.json) |
+| Batta Batta: Kampen mod Ultra | 127974 | [127974-batta-batta-kampen-mod-ultra.json](./127974-batta-batta-kampen-mod-ultra.json) |
 | Batta Batta: Kejserens Gave | 129773 | [129773-batta-batta-kejserens-gave.json](./129773-batta-batta-kejserens-gave.json) |
 | Batta Batta: Skurkestreger | 129777 | [129777-batta-batta-skurkestreger.json](./129777-batta-batta-skurkestreger.json) |
 | Batterneers | 158215 | [158215-batterneers.json](./158215-batterneers.json) |
@@ -986,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust a Block | 319973 | [319973-bust-a-block.json](./319973-bust-a-block.json) |
 | Bust a date | 173829 | [173829-bust-a-date.json](./173829-bust-a-date.json) |
 | Bust Out | 174878 | [174878-bust-out.json](./174878-bust-out.json) |
+| Busty Maid: Creampie Heaven | 127964 | [127964-busty-maid-creampie-heaven.json](./127964-busty-maid-creampie-heaven.json) |
 | Butanooo! Simulator | 303805 | [303805-butanooo-simulator.json](./303805-butanooo-simulator.json) |
 | Butt Naked & Big Guns | 158208 | [158208-butt-naked-and-big-guns.json](./158208-butt-naked-and-big-guns.json) |
 | Butterflies: Episode 1 - Rudies | 134666 | [134666-butterflies-episode-1-rudies.json](./134666-butterflies-episode-1-rudies.json) |
