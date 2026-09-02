@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enclosure 3-D | 215929 | [215929-enclosure-3-d.json](./215929-enclosure-3-d.json) |
 | Encode | 159861 | [159861-encode.json](./159861-encode.json) |
 | Encodya: Save the World Edition | 154533 | [154533-encodya-save-the-world-edition.json](./154533-encodya-save-the-world-edition.json) |
+| End of Days | 151183 | [151183-end-of-days.json](./151183-end-of-days.json) |
 | Endeavor | 228677 | [228677-endeavor.json](./228677-endeavor.json) |
 | Ender IO | 232676 | [232676-ender-io.json](./232676-ender-io.json) |
 | Ender Theater | 333381 | [333381-ender-theater.json](./333381-ender-theater.json) |
@@ -210,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless War 5 | 234922 | [234922-endless-war-5.json](./234922-endless-war-5.json) |
 | Endless War 6 | 234924 | [234924-endless-war-6.json](./234924-endless-war-6.json) |
 | Endless War 7 | 234926 | [234926-endless-war-7.json](./234926-endless-war-7.json) |
+| Endless Zombie Tower | 151172 | [151172-endless-zombie-tower.json](./151172-endless-zombie-tower.json) |
 | Endocrisis Hyperactive | 173294 | [173294-endocrisis-hyperactive.json](./173294-endocrisis-hyperactive.json) |
 | Endquest | 268763 | [268763-endquest.json](./268763-endquest.json) |
 | Endurance | 204680 | [204680-endurance.json](./204680-endurance.json) |
