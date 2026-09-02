@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Days of Future | 226446 | [226446-last-days-of-future.json](./226446-last-days-of-future.json) |
 | Last Equinox: Winds of Change | 255388 | [255388-last-equinox-winds-of-change.json](./255388-last-equinox-winds-of-change.json) |
 | Last Group Out | 189196 | [189196-last-group-out.json](./189196-last-group-out.json) |
+| Last Harvest | 138779 | [138779-last-harvest.json](./138779-last-harvest.json) |
 | Last Hit Titan | 337476 | [337476-last-hit-titan.json](./337476-last-hit-titan.json) |
 | Last Hopeless | 255991 | [255991-last-hopeless.json](./255991-last-hopeless.json) |
 | Last Look along Woodward Boulevard | 321171 | [321171-last-look-along-woodward-boulevard.json](./321171-last-look-along-woodward-boulevard.json) |
