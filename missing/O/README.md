@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Market Simulator | 291232 | [291232-old-market-simulator.json](./291232-old-market-simulator.json) |
 | Old Retro Shooter | 209668 | [209668-old-retro-shooter.json](./209668-old-retro-shooter.json) |
 | Old Salt | 165056 | [165056-old-salt.json](./165056-old-salt.json) |
+| Old Towers | 126017 | [126017-old-towers.json](./126017-old-towers.json) |
 | Old World Blues | 321740 | [321740-old-world-blues.json](./321740-old-world-blues.json) |
 | Oldfartenstein 3D | 255375 | [255375-oldfartenstein-3d.json](./255375-oldfartenstein-3d.json) |
 | Ollam House | 128628 | [128628-ollam-house.json](./128628-ollam-house.json) |
