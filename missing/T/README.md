@@ -1612,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TowerDefenceDesigner | 296648 | [296648-towerdefencedesigner.json](./296648-towerdefencedesigner.json) |
 | Town of Dusk | 251810 | [251810-town-of-dusk.json](./251810-town-of-dusk.json) |
 | Town of Host | 224196 | [224196-town-of-host.json](./224196-town-of-host.json) |
+| Town of Machine | 145049 | [145049-town-of-machine.json](./145049-town-of-machine.json) |
 | Town of Sin | 175994 | [175994-town-of-sin.json](./175994-town-of-sin.json) |
 | Town of Tides | 198540 | [198540-town-of-tides.json](./198540-town-of-tides.json) |
 | Townframe | 199128 | [199128-townframe.json](./199128-townframe.json) |
