@@ -35,6 +35,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jams | 340765 | [340765-jams.json](./340765-jams.json) |
 | Janggi for Kakao | 126002 | [126002-janggi-for-kakao.json](./126002-janggi-for-kakao.json) |
 | Janggun | 145638 | [145638-janggun.json](./145638-janggun.json) |
+| Jangou | 123078 | [123078-jangou.json](./123078-jangou.json) |
+| Jangou 1 | 123077 | [123077-jangou-1.json](./123077-jangou-1.json) |
+| Jangou 2 | 123076 | [123076-jangou-2.json](./123076-jangou-2.json) |
+| Jangou World Cup | 123075 | [123075-jangou-world-cup.json](./123075-jangou-world-cup.json) |
 | JanKen Battle Arena | 245051 | [245051-janken-battle-arena.json](./245051-janken-battle-arena.json) |
 | Janosik 2: Prologue | 316419 | [316419-janosik-2-prologue.json](./316419-janosik-2-prologue.json) |
 | Jantei Monogatari 3: Saver Angels | 321173 | [321173-jantei-monogatari-3-saver-angels.json](./321173-jantei-monogatari-3-saver-angels.json) |
