@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galak-Z: The Void & Skulls of the Shogun: Bonafide Edition - Platinum Pack | 138264 | [138264-galak-z-the-void-and-skulls-of-the-shogun-bonafide-edition-platinum-pack.json](./138264-galak-z-the-void-and-skulls-of-the-shogun-bonafide-edition-platinum-pack.json) |
 | GalaX | 259836 | [259836-galax.json](./259836-galax.json) |
 | Galaxicus | 119022 | [119022-galaxicus.json](./119022-galaxicus.json) |
+| Galaxity | 113747 | [113747-galaxity.json](./113747-galaxity.json) |
 | GalaxIverse II | 304895 | [304895-galaxiverse-ii.json](./304895-galaxiverse-ii.json) |
 | Galaxy Ballerina | 293415 | [293415-galaxy-ballerina.json](./293415-galaxy-ballerina.json) |
 | Galaxy Express Chaldea | 339113 | [339113-galaxy-express-chaldea.json](./339113-galaxy-express-chaldea.json) |
@@ -620,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guacamelee! One-Two Punch Collection | 115023 | [115023-guacamelee-one-two-punch-collection.json](./115023-guacamelee-one-two-punch-collection.json) |
 | Guardian Chronicle: Random Defense | 144989 | [144989-guardian-chronicle-random-defense.json](./144989-guardian-chronicle-random-defense.json) |
 | Guardian Force: Saturn Tribute | 173780 | [173780-guardian-force-saturn-tribute.json](./173780-guardian-force-saturn-tribute.json) |
+| Guardian Master VR | 113735 | [113735-guardian-master-vr.json](./113735-guardian-master-vr.json) |
 | Guardian of the Code | 202369 | [202369-guardian-of-the-code.json](./202369-guardian-of-the-code.json) |
 | Guardian of the Future | 119773 | [119773-guardian-of-the-future.json](./119773-guardian-of-the-future.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
