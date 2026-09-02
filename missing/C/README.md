@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken and Duck Brothers | 218699 | [218699-chicken-and-duck-brothers.json](./218699-chicken-and-duck-brothers.json) |
 | Chicken Defense | 181398 | [181398-chicken-defense.json](./181398-chicken-defense.json) |
 | Chicken Freeze! | 206968 | [206968-chicken-freeze.json](./206968-chicken-freeze.json) |
+| Chicken in the Darkness | 110341 | [110341-chicken-in-the-darkness.json](./110341-chicken-in-the-darkness.json) |
 | Chicken Rescue | 213048 | [213048-chicken-rescue.json](./213048-chicken-rescue.json) |
 | Chicken Scratch | 256558 | [256558-chicken-scratch.json](./256558-chicken-scratch.json) |
 | Chicken's Revenge | 206969 | [206969-chickens-revenge.json](./206969-chickens-revenge.json) |
@@ -424,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill of Death's: Breath | 269280 | [269280-chill-of-deaths-breath.json](./269280-chill-of-deaths-breath.json) |
 | Chill Seekers | 267108 | [267108-chill-seekers.json](./267108-chill-seekers.json) |
 | ChilloutVR | 121700 | [121700-chilloutvr.json](./121700-chilloutvr.json) |
+| Chimera of Tactics 3: Gun and Soccer | 110353 | [110353-chimera-of-tactics-3-gun-and-soccer.json](./110353-chimera-of-tactics-3-gun-and-soccer.json) |
 | Chimes: A Kinetic Novel | 184102 | [184102-chimes-a-kinetic-novel.json](./184102-chimes-a-kinetic-novel.json) |
 | Chimp Memory | 319391 | [319391-chimp-memory.json](./319391-chimp-memory.json) |
 | Chinatown | 272012 | [272012-chinatown.json](./272012-chinatown.json) |
@@ -725,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony Battle | 145686 | [145686-colony-battle.json](./145686-colony-battle.json) |
 | Colony Defense | 273627 | [273627-colony-defense.json](./273627-colony-defense.json) |
 | Colony: A Space RPG | 208025 | [208025-colony-a-space-rpg.json](./208025-colony-a-space-rpg.json) |
+| ColonyShip-4: Survivors | 110378 | [110378-colonyship-4-survivors.json](./110378-colonyship-4-survivors.json) |
 | Color DJ | 265418 | [265418-color-dj.json](./265418-color-dj.json) |
 | Color Dots Connect | 148569 | [148569-color-dots-connect.json](./148569-color-dots-connect.json) |
 | Color Fear | 296656 | [296656-color-fear.json](./296656-color-fear.json) |
@@ -1051,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Archives: Murder in the Pages - Collector's Edition | 294989 | [294989-criminal-archives-murder-in-the-pages-collectors-edition.json](./294989-criminal-archives-murder-in-the-pages-collectors-edition.json) |
 | Criminal Archives: Murder in the Pages DLC | 294990 | [294990-criminal-archives-murder-in-the-pages-dlc.json](./294990-criminal-archives-murder-in-the-pages-dlc.json) |
 | Criminal Attraction | 296673 | [296673-criminal-attraction.json](./296673-criminal-attraction.json) |
+| Criminal Pursuit Force | 110349 | [110349-criminal-pursuit-force.json](./110349-criminal-pursuit-force.json) |
 | Criminal Stories: CSI Episode | 215394 | [215394-criminal-stories-csi-episode.json](./215394-criminal-stories-csi-episode.json) |
 | Crimson III | 335119 | [335119-crimson-iii.json](./335119-crimson-iii.json) |
 | Crimson Thread of Fate | 318769 | [318769-crimson-thread-of-fate.json](./318769-crimson-thread-of-fate.json) |
