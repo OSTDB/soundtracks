@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Nights Keeper | 316436 | [316436-7-nights-keeper.json](./316436-7-nights-keeper.json) |
 | 7 of Clubs | 175417 | [175417-7-of-clubs.json](./175417-7-of-clubs.json) |
 | 7 Planets | 175396 | [175396-7-planets.json](./175396-7-planets.json) |
+| 70 Seconds! Adventure | 121777 | [121777-70-seconds-adventure.json](./121777-70-seconds-adventure.json) |
 | 77p egg: Eggwife | 218143 | [218143-77p-egg-eggwife.json](./218143-77p-egg-eggwife.json) |
 | 77Survival Part I | 314064 | [314064-77survival-part-i.json](./314064-77survival-part-i.json) |
 | 78 Hour Rain | 179739 | [179739-78-hour-rain.json](./179739-78-hour-rain.json) |
