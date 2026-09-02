@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanuk: The dusk of the brutes | 252401 | [252401-nanuk-the-dusk-of-the-brutes.json](./252401-nanuk-the-dusk-of-the-brutes.json) |
 | Narc | 307956 | [307956-narc.json](./307956-narc.json) |
 | Narc | 307957 | [307957-narc.json](./307957-narc.json) |
+| Narcissu: A Little Iris | 127324 | [127324-narcissu-a-little-iris.json](./127324-narcissu-a-little-iris.json) |
 | Narcissus | 335682 | [335682-narcissus.json](./335682-narcissus.json) |
 | Narcotics Ninja | 198554 | [198554-narcotics-ninja.json](./198554-narcotics-ninja.json) |
 | NarKarma Engine A | 257661 | [257661-narkarma-engine-a.json](./257661-narkarma-engine-a.json) |
@@ -87,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebuli | 157720 | [157720-nebuli.json](./157720-nebuli.json) |
 | Necessary Bimbos | 185699 | [185699-necessary-bimbos.json](./185699-necessary-bimbos.json) |
 | Necogram | 243384 | [243384-necogram.json](./243384-necogram.json) |
+| NecroLand: Undead Corps | 127361 | [127361-necroland-undead-corps.json](./127361-necroland-undead-corps.json) |
 | Necromancer's Gift | 173317 | [173317-necromancers-gift.json](./173317-necromancers-gift.json) |
 | Necropolis Nights | 332849 | [332849-necropolis-nights.json](./332849-necropolis-nights.json) |
 | Necropolis of the Angels | 214187 | [214187-necropolis-of-the-angels.json](./214187-necropolis-of-the-angels.json) |
@@ -283,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine in Flight | 310734 | [310734-nine-in-flight.json](./310734-nine-in-flight.json) |
 | Nine Realms: Revolt | 254770 | [254770-nine-realms-revolt.json](./254770-nine-realms-revolt.json) |
 | Nine Rounds Rapid | 238718 | [238718-nine-rounds-rapid.json](./238718-nine-rounds-rapid.json) |
+| Nine to Five | 127353 | [127353-nine-to-five.json](./127353-nine-to-five.json) |
 | Nine Worlds | 150659 | [150659-nine-worlds.json](./150659-nine-worlds.json) |
 | Nineteen | 128654 | [128654-nineteen.json](./128654-nineteen.json) |
 | Ningen Maru | 178677 | [178677-ningen-maru.json](./178677-ningen-maru.json) |
@@ -415,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northgard: Dodsvagr, Clan of the Rat | 188083 | [188083-northgard-dodsvagr-clan-of-the-rat.json](./188083-northgard-dodsvagr-clan-of-the-rat.json) |
 | Northgard: Hræsvelg, Clan of the Eagle | 218693 | [218693-northgard-hr-svelg-clan-of-the-eagle.json](./218693-northgard-hr-svelg-clan-of-the-eagle.json) |
 | NoseBound | 132821 | [132821-nosebound.json](./132821-nosebound.json) |
+| Nostalgiarian | 127375 | [127375-nostalgiarian.json](./127375-nostalgiarian.json) |
 | Nostalgic Entropy: Neo Retro | 312899 | [312899-nostalgic-entropy-neo-retro.json](./312899-nostalgic-entropy-neo-retro.json) |
 | Nostromo's Run | 274197 | [274197-nostromos-run.json](./274197-nostromos-run.json) |
 | Not Alone | 184094 | [184094-not-alone.json](./184094-not-alone.json) |
@@ -457,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuign Specter | 251242 | [251242-nuign-specter.json](./251242-nuign-specter.json) |
 | Nuketris | 145666 | [145666-nuketris.json](./145666-nuketris.json) |
 | NukiTashi | 201846 | [201846-nukitashi.json](./201846-nukitashi.json) |
+| Null & Peta -Invasion of the Queen Bug- | 127372 | [127372-null-and-peta-invasion-of-the-queen-bug.json](./127372-null-and-peta-invasion-of-the-queen-bug.json) |
 | Null Sequence | 263213 | [263213-null-sequence.json](./263213-null-sequence.json) |
 | Nullptr | 158234 | [158234-nullptr.json](./158234-nullptr.json) |
 | NullStar | 144360 | [144360-nullstar.json](./144360-nullstar.json) |
