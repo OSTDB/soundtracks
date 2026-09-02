@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Factory | 115047 | [115047-magic-factory.json](./115047-magic-factory.json) |
 | Magic Garden | 317579 | [317579-magic-garden.json](./317579-magic-garden.json) |
 | Magic Griddlers | 156671 | [156671-magic-griddlers.json](./156671-magic-griddlers.json) |
+| Magic Griddlers 2 | 101555 | [101555-magic-griddlers-2.json](./101555-magic-griddlers-2.json) |
 | Magic Heart | 114996 | [114996-magic-heart.json](./114996-magic-heart.json) |
 | Magic Kingdom | 213591 | [213591-magic-kingdom.json](./213591-magic-kingdom.json) |
 | Magic Ocean: Multiplayer Roguelike | 141245 | [141245-magic-ocean-multiplayer-roguelike.json](./141245-magic-ocean-multiplayer-roguelike.json) |
@@ -358,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math City HD | 232178 | [232178-math-city-hd.json](./232178-math-city-hd.json) |
 | Math Games PRO | 105956 | [105956-math-games-pro.json](./105956-math-games-pro.json) |
 | Math Genius King of Arithmetic | 233753 | [233753-math-genius-king-of-arithmetic.json](./233753-math-genius-king-of-arithmetic.json) |
+| Math Problem Challenge | 101616 | [101616-math-problem-challenge.json](./101616-math-problem-challenge.json) |
 | Math puzzle PRO 2018 | 105941 | [105941-math-puzzle-pro-2018.json](./105941-math-puzzle-pro-2018.json) |
 | Math Puzzles PRO | 105958 | [105958-math-puzzles-pro.json](./105958-math-puzzles-pro.json) |
 | Mathomatics | 190215 | [190215-mathomatics.json](./190215-mathomatics.json) |
@@ -383,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayority | 254169 | [254169-mayority.json](./254169-mayority.json) |
 | Maze | 220340 | [220340-maze.json](./220340-maze.json) |
 | Maze Forever | 233249 | [233249-maze-forever.json](./233249-maze-forever.json) |
+| Maze Madness | 101598 | [101598-maze-madness.json](./101598-maze-madness.json) |
 | Maze of Bears | 186321 | [186321-maze-of-bears.json](./186321-maze-of-bears.json) |
 | Maze of Realities: Reflection of Light - Collector's Edition | 218702 | [218702-maze-of-realities-reflection-of-light-collectors-edition.json](./218702-maze-of-realities-reflection-of-light-collectors-edition.json) |
 | Maze of the Gamja | 211920 | [211920-maze-of-the-gamja.json](./211920-maze-of-the-gamja.json) |
@@ -415,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechanixMind: IQ Puzzle Adventure | 275889 | [275889-mechanixmind-iq-puzzle-adventure.json](./275889-mechanixmind-iq-puzzle-adventure.json) |
 | Mechanode | 238757 | [238757-mechanode.json](./238757-mechanode.json) |
 | Mechatronika | 166737 | [166737-mechatronika.json](./166737-mechatronika.json) |
+| MechCom | 101549 | [101549-mechcom.json](./101549-mechcom.json) |
 | Mechsternmination Force | 115705 | [115705-mechsternmination-force.json](./115705-mechsternmination-force.json) |
 | MechWarrior Online: Black Hawk-Ku Mech Pack | 305533 | [305533-mechwarrior-online-black-hawk-ku-mech-pack.json](./305533-mechwarrior-online-black-hawk-ku-mech-pack.json) |
 | Medal of Honor: Airborne | 264877 | [264877-medal-of-honor-airborne.json](./264877-medal-of-honor-airborne.json) |
@@ -436,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet Cute: Cafe | 190701 | [190701-meet-cute-cafe.json](./190701-meet-cute-cafe.json) |
 | Meet Her There | 263786 | [263786-meet-her-there.json](./263786-meet-her-there.json) |
 | Meet Santa | 326969 | [326969-meet-santa.json](./326969-meet-santa.json) |
+| Meet the Letters Flashcards: Lowercase | 101569 | [101569-meet-the-letters-flashcards-lowercase.json](./101569-meet-the-letters-flashcards-lowercase.json) |
 | Meet the Myths: An Ormhildur the Brave Game | 331126 | [331126-meet-the-myths-an-ormhildur-the-brave-game.json](./331126-meet-the-myths-an-ormhildur-the-brave-game.json) |
 | Meet the Vowels | 102773 | [102773-meet-the-vowels.json](./102773-meet-the-vowels.json) |
 | Meeting Myself | 275919 | [275919-meeting-myself.json](./275919-meeting-myself.json) |
@@ -867,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Naval Warfare | 186903 | [186903-modern-naval-warfare.json](./186903-modern-naval-warfare.json) |
 | Modern War Simulator: Advance Under Air Raid | 169448 | [169448-modern-war-simulator-advance-under-air-raid.json](./169448-modern-war-simulator-advance-under-air-raid.json) |
 | Modified Spaceship | 301605 | [301605-modified-spaceship.json](./301605-modified-spaceship.json) |
+| Modsork | 101528 | [101528-modsork.json](./101528-modsork.json) |
 | Moduwar | 109753 | [109753-moduwar.json](./109753-moduwar.json) |
 | MOE Emo Girls Multiplayer | 300373 | [300373-moe-emo-girls-multiplayer.json](./300373-moe-emo-girls-multiplayer.json) |
 | Moe Jigsaw: Abnormal Lovers Pack | 162921 | [162921-moe-jigsaw-abnormal-lovers-pack.json](./162921-moe-jigsaw-abnormal-lovers-pack.json) |
@@ -950,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster 3 | 311266 | [311266-monster-3.json](./311266-monster-3.json) |
 | Monster 4x4 3D | 141860 | [141860-monster-4x4-3d.json](./141860-monster-4x4-3d.json) |
 | Monster Academy | 167307 | [167307-monster-academy.json](./167307-monster-academy.json) |
+| Monster Arena | 101572 | [101572-monster-arena.json](./101572-monster-arena.json) |
 | Monster Bang | 233764 | [233764-monster-bang.json](./233764-monster-bang.json) |
 | Monster Busters: Hexa Blast | 242793 | [242793-monster-busters-hexa-blast.json](./242793-monster-busters-hexa-blast.json) |
 | Monster Care Simulator | 326387 | [326387-monster-care-simulator.json](./326387-monster-care-simulator.json) |
