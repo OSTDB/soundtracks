@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakery Shop Simulator | 145637 | [145637-bakery-shop-simulator.json](./145637-bakery-shop-simulator.json) |
 | Baki Hanma: Blood Arena | 337462 | [337462-baki-hanma-blood-arena.json](./337462-baki-hanma-blood-arena.json) |
 | Bakkaniya | 249498 | [249498-bakkaniya.json](./249498-bakkaniya.json) |
+| Bakuryuu Sentai Abaranger | 130409 | [130409-bakuryuu-sentai-abaranger.json](./130409-bakuryuu-sentai-abaranger.json) |
 | Bakuten Shoot Beyblade 2002: Beybattle Tournament 2 | 303784 | [303784-bakuten-shoot-beyblade-2002-beybattle-tournament-2.json](./303784-bakuten-shoot-beyblade-2002-beybattle-tournament-2.json) |
 | Balam and the Spirit Within | 201325 | [201325-balam-and-the-spirit-within.json](./201325-balam-and-the-spirit-within.json) |
 | Balance | 297775 | [297775-balance.json](./297775-balance.json) |
@@ -766,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Teaser Bundle | 231073 | [231073-brain-teaser-bundle.json](./231073-brain-teaser-bundle.json) |
 | Brain Test | 166733 | [166733-brain-test.json](./166733-brain-test.json) |
 | Brainsss | 197397 | [197397-brainsss.json](./197397-brainsss.json) |
+| Brainstorm Series: Treasure Chase | 130389 | [130389-brainstorm-series-treasure-chase.json](./130389-brainstorm-series-treasure-chase.json) |
 | BrainTaire | 261521 | [261521-braintaire.json](./261521-braintaire.json) |
 | BrainZ Defender | 304879 | [304879-brainz-defender.json](./304879-brainz-defender.json) |
 | Brandins Buttons | 151176 | [151176-brandins-buttons.json](./151176-brandins-buttons.json) |
