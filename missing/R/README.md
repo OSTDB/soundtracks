@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red 7 | 175986 | [175986-red-7.json](./175986-red-7.json) |
 | Red and the Whispering Woods | 181357 | [181357-red-and-the-whispering-woods.json](./181357-red-and-the-whispering-woods.json) |
 | Red and White | 154018 | [154018-red-and-white.json](./154018-red-and-white.json) |
+| Red Archer | 150143 | [150143-red-archer.json](./150143-red-archer.json) |
 | Red Ball Super Run | 228711 | [228711-red-ball-super-run.json](./228711-red-ball-super-run.json) |
 | Red Bash | 187537 | [187537-red-bash.json](./187537-red-bash.json) |
 | Red Bull: Soapbox Racers | 336920 | [336920-red-bull-soapbox-racers.json](./336920-red-bull-soapbox-racers.json) |
@@ -349,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse 1999: Notes on Shuori | 340217 | [340217-reverse-1999-notes-on-shuori.json](./340217-reverse-1999-notes-on-shuori.json) |
 | Reverse 1999: Revival! The Uluru Games | 340205 | [340205-reverse-1999-revival-the-uluru-games.json](./340205-reverse-1999-revival-the-uluru-games.json) |
 | Reverse 1999: Vereinsamt | 340223 | [340223-reverse-1999-vereinsamt.json](./340223-reverse-1999-vereinsamt.json) |
+| Reverse Defenders | 150174 | [150174-reverse-defenders.json](./150174-reverse-defenders.json) |
 | Reversi 32 | 197920 | [197920-reversi-32.json](./197920-reversi-32.json) |
 | Reversi xVSx | 295564 | [295564-reversi-xvsx.json](./295564-reversi-xvsx.json) |
 | ReversiBot | 266477 | [266477-reversibot.json](./266477-reversibot.json) |
