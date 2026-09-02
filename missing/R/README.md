@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain & Chamomile Tea | 260948 | [260948-rain-and-chamomile-tea.json](./260948-rain-and-chamomile-tea.json) |
 | Rain in the Abyss | 194611 | [194611-rain-in-the-abyss.json](./194611-rain-in-the-abyss.json) |
 | Rain, House, Eternity | 143082 | [143082-rain-house-eternity.json](./143082-rain-house-eternity.json) |
+| Rain's Love Memory | 117087 | [117087-rains-love-memory.json](./117087-rains-love-memory.json) |
 | Rainbow Despair | 337444 | [337444-rainbow-despair.json](./337444-rainbow-despair.json) |
 | Rainbow Friends: Hide 'N Seek | 262695 | [262695-rainbow-friends-hide-n-seek.json](./262695-rainbow-friends-hide-n-seek.json) |
 | Rainbow Infinity | 232148 | [232148-rainbow-infinity.json](./232148-rainbow-infinity.json) |
@@ -474,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 5: Free Pack 06 | 293410 | [293410-ride-5-free-pack-06.json](./293410-ride-5-free-pack-06.json) |
 | Ride 5: Speed With Style Pack | 293411 | [293411-ride-5-speed-with-style-pack.json](./293411-ride-5-speed-with-style-pack.json) |
 | Ride Control Ultimate | 243403 | [243403-ride-control-ultimate.json](./243403-ride-control-ultimate.json) |
+| Ride with the Reaper | 117053 | [117053-ride-with-the-reaper.json](./117053-ride-with-the-reaper.json) |
 | Ride Your Mind | 141208 | [141208-ride-your-mind.json](./141208-ride-your-mind.json) |
 | Ride Your Mind: Blossoms | 141210 | [141210-ride-your-mind-blossoms.json](./141210-ride-your-mind-blossoms.json) |
 | RideOp: New Heights - Expansion pack | 226950 | [226950-rideop-new-heights-expansion-pack.json](./226950-rideop-new-heights-expansion-pack.json) |
@@ -756,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roto Force | 191870 | [191870-roto-force.json](./191870-roto-force.json) |
 | RotoDefendo | 137055 | [137055-rotodefendo.json](./137055-rotodefendo.json) |
 | Rotting Crescendo | 136441 | [136441-rotting-crescendo.json](./136441-rotting-crescendo.json) |
+| Rotund Rebound | 117060 | [117060-rotund-rebound.json](./117060-rotund-rebound.json) |
 | Rouge Tank | 295548 | [295548-rouge-tank.json](./295548-rouge-tank.json) |
 | Roulette Knight | 178687 | [178687-roulette-knight.json](./178687-roulette-knight.json) |
 | Rounded Hills | 145654 | [145654-rounded-hills.json](./145654-rounded-hills.json) |
@@ -793,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Tycoon: Supply & Demand | 164507 | [164507-rpg-tycoon-supply-and-demand.json](./164507-rpg-tycoon-supply-and-demand.json) |
 | RPG Workshop Max | 232708 | [232708-rpg-workshop-max.json](./232708-rpg-workshop-max.json) |
 | RPGirl | 297210 | [297210-rpgirl.json](./297210-rpgirl.json) |
+| RRRR 2 | 117081 | [117081-rrrr-2.json](./117081-rrrr-2.json) |
 | RRWard02 | 274209 | [274209-rrward02.json](./274209-rrward02.json) |
 | RTE Worlds | 273127 | [273127-rte-worlds.json](./273127-rte-worlds.json) |
 | RTL Alarm für Cobra 11: Teil II | 144348 | [144348-rtl-alarm-fur-cobra-11-teil-ii.json](./144348-rtl-alarm-fur-cobra-11-teil-ii.json) |
