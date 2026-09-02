@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Flipper: Cyberpunk | 171638 | [171638-house-flipper-cyberpunk.json](./171638-house-flipper-cyberpunk.json) |
 | House Flipper: Farm | 200725 | [200725-house-flipper-farm.json](./200725-house-flipper-farm.json) |
 | House in the village by the river v2.0 | 173813 | [173813-house-in-the-village-by-the-river-v2-0.json](./173813-house-in-the-village-by-the-river-v2-0.json) |
+| House of 1000 Doors: Serpent Flame | 119031 | [119031-house-of-1000-doors-serpent-flame.json](./119031-house-of-1000-doors-serpent-flame.json) |
 | House of Cathalon | 142442 | [142442-house-of-cathalon.json](./142442-house-of-cathalon.json) |
 | House of Fear: Cursed Souls | 228686 | [228686-house-of-fear-cursed-souls.json](./228686-house-of-fear-cursed-souls.json) |
 | House with Puzzles | 274762 | [274762-house-with-puzzles.json](./274762-house-with-puzzles.json) |
