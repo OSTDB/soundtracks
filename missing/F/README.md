@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Up | 259286 | [259286-fantasy-up.json](./259286-fantasy-up.json) |
 | Fantasy Zone | 202914 | [202914-fantasy-zone.json](./202914-fantasy-zone.json) |
 | Fap&Click | 331100 | [331100-fap-and-click.json](./331100-fap-and-click.json) |
+| Far Future Tourism | 133994 | [133994-far-future-tourism.json](./133994-far-future-tourism.json) |
 | Far light | 166775 | [166775-far-light.json](./166775-far-light.json) |
 | Far Sector | 173285 | [173285-far-sector.json](./173285-far-sector.json) |
 | Farafalla | 225285 | [225285-farafalla.json](./225285-farafalla.json) |
@@ -509,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Crossroads | 278151 | [278151-forest-crossroads.json](./278151-forest-crossroads.json) |
 | Forest Friends Match | 340231 | [340231-forest-friends-match.json](./340231-forest-friends-match.json) |
 | Forest Hills: The Last Year | 292310 | [292310-forest-hills-the-last-year.json](./292310-forest-hills-the-last-year.json) |
+| Forest Knight | 134059 | [134059-forest-knight.json](./134059-forest-knight.json) |
 | Forest of Deceit | 248904 | [248904-forest-of-deceit.json](./248904-forest-of-deceit.json) |
 | Forest Pop | 218724 | [218724-forest-pop.json](./218724-forest-pop.json) |
 | Forest Ranger Services: Episode 1 | 340232 | [340232-forest-ranger-services-episode-1.json](./340232-forest-ranger-services-episode-1.json) |
