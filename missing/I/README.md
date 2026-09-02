@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inazuma Eleven Re | 317592 | [317592-inazuma-eleven-re.json](./317592-inazuma-eleven-re.json) |
 | Inbetween a Land of Grass | 181387 | [181387-inbetween-a-land-of-grass.json](./181387-inbetween-a-land-of-grass.json) |
 | Incel Simulator | 315286 | [315286-incel-simulator.json](./315286-incel-simulator.json) |
+| Incredible Dracula 4: Games of Gods | 119746 | [119746-incredible-dracula-4-games-of-gods.json](./119746-incredible-dracula-4-games-of-gods.json) |
 | Incredible Dracula: Academy of Shadows | 340749 | [340749-incredible-dracula-academy-of-shadows.json](./340749-incredible-dracula-academy-of-shadows.json) |
 | Increlution | 158719 | [158719-increlution.json](./158719-increlution.json) |
 | Incremental Epic Breakers | 163968 | [163968-incremental-epic-breakers.json](./163968-incremental-epic-breakers.json) |
@@ -287,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InRun | 256554 | [256554-inrun.json](./256554-inrun.json) |
 | Insanity's Edge | 274186 | [274186-insanitys-edge.json](./274186-insanitys-edge.json) |
 | Inscryption: Kaycee's Mod | 186306 | [186306-inscryption-kaycees-mod.json](./186306-inscryption-kaycees-mod.json) |
+| Insectipede | 119764 | [119764-insectipede.json](./119764-insectipede.json) |
 | Insectoid Descent | 205231 | [205231-insectoid-descent.json](./205231-insectoid-descent.json) |
 | Insertion | 274187 | [274187-insertion.json](./274187-insertion.json) |
 | Inside My Mind | 149090 | [149090-inside-my-mind.json](./149090-inside-my-mind.json) |
