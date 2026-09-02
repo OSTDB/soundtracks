@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parsec Lost in Space | 255972 | [255972-parsec-lost-in-space.json](./255972-parsec-lost-in-space.json) |
 | Particles | 262696 | [262696-particles.json](./262696-particles.json) |
 | Partition Sector | 144383 | [144383-partition-sector.json](./144383-partition-sector.json) |
+| Partivity! | 115655 | [115655-partivity.json](./115655-partivity.json) |
 | Partner In TV!!! O-Uchi ni Wan-chan ga Yattekita | 327623 | [327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json](./327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json) |
 | Party Club | 295020 | [295020-party-club.json](./295020-party-club.json) |
 | Party Hard: High Crimes | 171630 | [171630-party-hard-high-crimes.json](./171630-party-hard-high-crimes.json) |
@@ -475,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipo Park | 141225 | [141225-pipo-park.json](./141225-pipo-park.json) |
 | Pippin's Mysterious Garden | 258729 | [258729-pippins-mysterious-garden.json](./258729-pippins-mysterious-garden.json) |
 | Pirarucu's Money Rush | 301023 | [301023-pirarucus-money-rush.json](./301023-pirarucus-money-rush.json) |
+| Pirate Cannons Ahoy! | 115675 | [115675-pirate-cannons-ahoy.json](./115675-pirate-cannons-ahoy.json) |
 | Pirate Cove Simulator | 326381 | [326381-pirate-cove-simulator.json](./326381-pirate-cove-simulator.json) |
 | Pirate Doom II | 298313 | [298313-pirate-doom-ii.json](./298313-pirate-doom-ii.json) |
 | Pirate Escape | 323506 | [323506-pirate-escape.json](./323506-pirate-escape.json) |
@@ -483,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirateer: High Seas | 253575 | [253575-pirateer-high-seas.json](./253575-pirateer-high-seas.json) |
 | Piratepoly Gold: Caribbean Treasure | 218723 | [218723-piratepoly-gold-caribbean-treasure.json](./218723-piratepoly-gold-caribbean-treasure.json) |
 | Pirates | 197378 | [197378-pirates.json](./197378-pirates.json) |
+| Pirates of First Star | 115668 | [115668-pirates-of-first-star.json](./115668-pirates-of-first-star.json) |
 | Pirates on Target | 187536 | [187536-pirates-on-target.json](./187536-pirates-on-target.json) |
 | Pirates: Mystery of the Skeletons Island | 133425 | [133425-pirates-mystery-of-the-skeletons-island.json](./133425-pirates-mystery-of-the-skeletons-island.json) |
 | PISTA Motorsport | 251855 | [251855-pista-motorsport.json](./251855-pista-motorsport.json) |
