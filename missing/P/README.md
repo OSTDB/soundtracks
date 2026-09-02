@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pintar | 330529 | [330529-pintar.json](./330529-pintar.json) |
 | Pinto | 326968 | [326968-pinto.json](./326968-pinto.json) |
 | Piofiore: Episodio 1926 Limited Edition | 223129 | [223129-piofiore-episodio-1926-limited-edition.json](./223129-piofiore-episodio-1926-limited-edition.json) |
+| Pioneerz | 129219 | [129219-pioneerz.json](./129219-pioneerz.json) |
 | Pipe Dreams | 232141 | [232141-pipe-dreams.json](./232141-pipe-dreams.json) |
 | Pipe Skull | 185127 | [185127-pipe-skull.json](./185127-pipe-skull.json) |
 | Pipeline RTX | 192980 | [192980-pipeline-rtx.json](./192980-pipeline-rtx.json) |
@@ -568,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play With Gilbert: A Small Tail | 157722 | [157722-play-with-gilbert-a-small-tail.json](./157722-play-with-gilbert-a-small-tail.json) |
 | Play With My Balls | 309674 | [309674-play-with-my-balls.json](./309674-play-with-my-balls.json) |
 | Playback Trauma: The Beach | 159888 | [159888-playback-trauma-the-beach.json](./159888-playback-trauma-the-beach.json) |
+| Player's Eleven | 129230 | [129230-players-eleven.json](./129230-players-eleven.json) |
 | PlayGuys | 320538 | [320538-playguys.json](./320538-playguys.json) |
 | Playing With Fire 2 | 202372 | [202372-playing-with-fire-2.json](./202372-playing-with-fire-2.json) |
 | Playtown Genesis | 319376 | [319376-playtown-genesis.json](./319376-playtown-genesis.json) |
@@ -945,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Provide Relief | 272008 | [272008-provide-relief.json](./272008-provide-relief.json) |
 | Pry into the Void | 187530 | [187530-pry-into-the-void.json](./187530-pry-into-the-void.json) |
 | PSI Masquerade | 204064 | [204064-psi-masquerade.json](./204064-psi-masquerade.json) |
+| Psicose? | 129235 | [129235-psicose.json](./129235-psicose.json) |
 | PSY in Apocalypse | 270953 | [270953-psy-in-apocalypse.json](./270953-psy-in-apocalypse.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim | 338006 | [338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json](./338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json) |
 | Psychomachia | 291218 | [291218-psychomachia.json](./291218-psychomachia.json) |
