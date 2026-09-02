@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tag Hop | 153413 | [153413-tag-hop.json](./153413-tag-hop.json) |
 | Tag War VR | 336904 | [336904-tag-war-vr.json](./336904-tag-war-vr.json) |
 | TAGAP 4 | 321139 | [321139-tagap-4.json](./321139-tagap-4.json) |
+| Tahn | 126046 | [126046-tahn.json](./126046-tahn.json) |
 | Tahoe Dragon: The Beginning | 220861 | [220861-tahoe-dragon-the-beginning.json](./220861-tahoe-dragon-the-beginning.json) |
 | Tàigǔ Qíngyuán zhī Qīngyún Jiànxiá Chuánqí | 161897 | [161897-taigu-qingyuan-zhi-qingyun-jianxia-chuanqi.json](./161897-taigu-qingyuan-zhi-qingyun-jianxia-chuanqi.json) |
 | Taiheiyou no Arashi: Koukoku no Kouhai Koko ni Ari, 1942 Senkan Yamato Hankou no Kouhou | 245034 | [245034-taiheiyou-no-arashi-koukoku-no-kouhai-koko-ni-ari-1942-senkan-yamato-hankou-no-kouhou.json](./245034-taiheiyou-no-arashi-koukoku-no-kouhai-koko-ni-ari-1942-senkan-yamato-hankou-no-kouhou.json) |
@@ -1530,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaplan Arcade Collection 4 | 325236 | [325236-toaplan-arcade-collection-4.json](./325236-toaplan-arcade-collection-4.json) |
 | Toasted! | 188101 | [188101-toasted.json](./188101-toasted.json) |
 | Tobe's Hookshot Escape | 248880 | [248880-tobes-hookshot-escape.json](./248880-tobes-hookshot-escape.json) |
+| Toca Life World | 126005 | [126005-toca-life-world.json](./126005-toca-life-world.json) |
 | Toca Pisadinha | 237621 | [237621-toca-pisadinha.json](./237621-toca-pisadinha.json) |
 | TOCA Race Driver 2 | 246667 | [246667-toca-race-driver-2.json](./246667-toca-race-driver-2.json) |
 | TOCA World Touring Cars | 234899 | [234899-toca-world-touring-cars.json](./234899-toca-world-touring-cars.json) |
@@ -1544,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Paper Simulator | 248890 | [248890-toilet-paper-simulator.json](./248890-toilet-paper-simulator.json) |
 | Tokimeki Taisen | 191861 | [191861-tokimeki-taisen.json](./191861-tokimeki-taisen.json) |
 | Tokimeter | 322951 | [322951-tokimeter.json](./322951-tokimeter.json) |
+| Tokoro's Mahjong Jr. | 126011 | [126011-tokoros-mahjong-jr.json](./126011-tokoros-mahjong-jr.json) |
 | Tokyo Alice | 135270 | [135270-tokyo-alice.json](./135270-tokyo-alice.json) |
 | Tokyo Cooking: Complete + | 328822 | [328822-tokyo-cooking-complete.json](./328822-tokyo-cooking-complete.json) |
 | Tokyo Cooking: Definitive Edition | 328799 | [328799-tokyo-cooking-definitive-edition.json](./328799-tokyo-cooking-definitive-edition.json) |
