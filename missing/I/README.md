@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferno Frontier | 340751 | [340751-inferno-frontier.json](./340751-inferno-frontier.json) |
 | Inferno’s Embrace | 298902 | [298902-inferno-s-embrace.json](./298902-inferno-s-embrace.json) |
 | Infestus | 235456 | [235456-infestus.json](./235456-infestus.json) |
+| Infiltration: Alone in Combat | 151196 | [151196-infiltration-alone-in-combat.json](./151196-infiltration-alone-in-combat.json) |
 | InfiniPicross 2.0: 100 Large Puzzles - Animals | 163426 | [163426-infinipicross-2-0-100-large-puzzles-animals.json](./163426-infinipicross-2-0-100-large-puzzles-animals.json) |
 | InfiniPicross 2.0: 100 Medium Puzzles | 163425 | [163425-infinipicross-2-0-100-medium-puzzles.json](./163425-infinipicross-2-0-100-medium-puzzles.json) |
 | InfiniPicross 3 | 251807 | [251807-infinipicross-3.json](./251807-infinipicross-3.json) |
