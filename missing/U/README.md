@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbridled Horror | 181896 | [181896-unbridled-horror.json](./181896-unbridled-horror.json) |
 | Unchained | 178075 | [178075-unchained.json](./178075-unchained.json) |
 | Uncharted Ocean: Adventures at the Poles | 262097 | [262097-uncharted-ocean-adventures-at-the-poles.json](./262097-uncharted-ocean-adventures-at-the-poles.json) |
+| Uncharted Waters: New Horizons | 102810 | [102810-uncharted-waters-new-horizons.json](./102810-uncharted-waters-new-horizons.json) |
 | Uncharted World | 310188 | [310188-uncharted-world.json](./310188-uncharted-world.json) |
 | Uncolor for iPad | 108460 | [108460-uncolor-for-ipad.json](./108460-uncolor-for-ipad.json) |
 | Uncover | 316427 | [316427-uncover.json](./316427-uncover.json) |
@@ -215,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upheaveal | 216994 | [216994-upheaveal.json](./216994-upheaveal.json) |
 | Uphill | 306090 | [306090-uphill.json](./306090-uphill.json) |
 | Upload Simulator Silicon | 315282 | [315282-upload-simulator-silicon.json](./315282-upload-simulator-silicon.json) |
+| Upperz | 102794 | [102794-upperz.json](./102794-upperz.json) |
 | Uprising: Humanum | 248903 | [248903-uprising-humanum.json](./248903-uprising-humanum.json) |
 | Uprk.cz | 161891 | [161891-uprk-cz.json](./161891-uprk-cz.json) |
 | Upside the Backrooms | 258740 | [258740-upside-the-backrooms.json](./258740-upside-the-backrooms.json) |
