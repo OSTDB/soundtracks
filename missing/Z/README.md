@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Match | 185681 | [185681-zen-match.json](./185681-zen-match.json) |
 | Zen Wars | 200187 | [200187-zen-wars.json](./200187-zen-wars.json) |
 | Zenful Journey | 249489 | [249489-zenful-journey.json](./249489-zenful-journey.json) |
+| Zero Core: Exile | 140579 | [140579-zero-core-exile.json](./140579-zero-core-exile.json) |
 | Zero Degrees | 258702 | [258702-zero-degrees.json](./258702-zero-degrees.json) |
 | Zero Fire: Toaplan Arcade Garage | 246668 | [246668-zero-fire-toaplan-arcade-garage.json](./246668-zero-fire-toaplan-arcade-garage.json) |
 | Zero Hour | 151730 | [151730-zero-hour.json](./151730-zero-hour.json) |
