@@ -651,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Four Old Gods | 136442 | [136442-the-four-old-gods.json](./136442-the-four-old-gods.json) |
 | The Fox Awaits Me: Limited Edition | 188644 | [188644-the-fox-awaits-me-limited-edition.json](./188644-the-fox-awaits-me-limited-edition.json) |
 | The Fruit, Labyrinth, and Eden of Grisaia Full Package | 117746 | [117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json](./117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json) |
+| The Funny Boneyard | 112335 | [112335-the-funny-boneyard.json](./112335-the-funny-boneyard.json) |
 | The Futurist | 181355 | [181355-the-futurist.json](./181355-the-futurist.json) |
 | The Game | 187522 | [187522-the-game.json](./187522-the-game.json) |
 | The Game of Bionic Goat | 339099 | [339099-the-game-of-bionic-goat.json](./339099-the-game-of-bionic-goat.json) |
@@ -1121,6 +1122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Square Game | 130377 | [130377-the-square-game.json](./130377-the-square-game.json) |
 | The Sticky Plan | 183577 | [183577-the-sticky-plan.json](./183577-the-sticky-plan.json) |
 | The Stone of God | 165659 | [165659-the-stone-of-god.json](./165659-the-stone-of-god.json) |
+| The Stories of Scheherazade | 112327 | [112327-the-stories-of-scheherazade.json](./112327-the-stories-of-scheherazade.json) |
 | The Story of King Aress | 125464 | [125464-the-story-of-king-aress.json](./125464-the-story-of-king-aress.json) |
 | The StoryTeller | 324670 | [324670-the-storyteller.json](./324670-the-storyteller.json) |
 | The Stray Laboratory | 302668 | [302668-the-stray-laboratory.json](./302668-the-stray-laboratory.json) |
@@ -2010,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials 2 | 140577 | [140577-trials-2.json](./140577-trials-2.json) |
 | Trials in Tainted Space | 128001 | [128001-trials-in-tainted-space.json](./128001-trials-in-tainted-space.json) |
 | Trials of Yarbil | 325835 | [325835-trials-of-yarbil.json](./325835-trials-of-yarbil.json) |
+| Triangle Legacy Revolution | 112317 | [112317-triangle-legacy-revolution.json](./112317-triangle-legacy-revolution.json) |
 | Triangle Project Otome Visual Novels | 116382 | [116382-triangle-project-otome-visual-novels.json](./116382-triangle-project-otome-visual-novels.json) |
 | Triangle Strategy | 318779 | [318779-triangle-strategy.json](./318779-triangle-strategy.json) |
 | Triangle Wing XXXX | 133461 | [133461-triangle-wing-xxxx.json](./133461-triangle-wing-xxxx.json) |
@@ -2037,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Take | 173277 | [173277-triple-take.json](./173277-triple-take.json) |
 | Triple Zoo | 232185 | [232185-triple-zoo.json](./232185-triple-zoo.json) |
 | TripSync | 189179 | [189179-tripsync.json](./189179-tripsync.json) |
+| Tristone | 112314 | [112314-tristone.json](./112314-tristone.json) |
 | Trivia Party | 195270 | [195270-trivia-party.json](./195270-trivia-party.json) |
 | TRL: The Rail Loaders | 266485 | [266485-trl-the-rail-loaders.json](./266485-trl-the-rail-loaders.json) |
 | Trog Smash Island | 296081 | [296081-trog-smash-island.json](./296081-trog-smash-island.json) |
