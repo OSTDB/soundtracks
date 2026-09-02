@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Brain: Dark Troops | 157156 | [157156-chess-brain-dark-troops.json](./157156-chess-brain-dark-troops.json) |
 | Chess Dungeons | 209663 | [209663-chess-dungeons.json](./209663-chess-dungeons.json) |
 | Chess Master | 245540 | [245540-chess-master.json](./245540-chess-master.json) |
+| Chess Minimal | 147955 | [147955-chess-minimal.json](./147955-chess-minimal.json) |
 | Chess Morph: The Queen's Wormholes | 237058 | [237058-chess-morph-the-queens-wormholes.json](./237058-chess-morph-the-queens-wormholes.json) |
 | Chess Puzzles: 100 by Emma | 163412 | [163412-chess-puzzles-100-by-emma.json](./163412-chess-puzzles-100-by-emma.json) |
 | Chess Puzzles: 100 by Liam | 163414 | [163414-chess-puzzles-100-by-liam.json](./163414-chess-puzzles-100-by-liam.json) |
@@ -589,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Zero | 161896 | [161896-code-zero.json](./161896-code-zero.json) |
 | Code Zodiac | 251853 | [251853-code-zodiac.json](./251853-code-zodiac.json) |
 | Code, Solve, Revolt! | 265387 | [265387-code-solve-revolt.json](./265387-code-solve-revolt.json) |
+| Codebreaker Puzzle 1000! ENG & JAN | 147958 | [147958-codebreaker-puzzle-1000-eng-and-jan.json](./147958-codebreaker-puzzle-1000-eng-and-jan.json) |
 | Codebreakers VR | 318181 | [318181-codebreakers-vr.json](./318181-codebreakers-vr.json) |
 | Codename: Rogue Fleet - The Reinforcements | 156155 | [156155-codename-rogue-fleet-the-reinforcements.json](./156155-codename-rogue-fleet-the-reinforcements.json) |
 | CodeWordPlay | 228096 | [228096-codewordplay.json](./228096-codewordplay.json) |
@@ -1050,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuties Hacked: Dakota Photo Pack | 325851 | [325851-cuties-hacked-dakota-photo-pack.json](./325851-cuties-hacked-dakota-photo-pack.json) |
 | Cuub | 278163 | [278163-cuub.json](./278163-cuub.json) |
 | Cy: Cyberpunk Survivors | 248908 | [248908-cy-cyberpunk-survivors.json](./248908-cy-cyberpunk-survivors.json) |
+| Cyanide & Happiness: Freakpocalypse - Episode 1 | 147983 | [147983-cyanide-and-happiness-freakpocalypse-episode-1.json](./147983-cyanide-and-happiness-freakpocalypse-episode-1.json) |
 | Cyber Attack | 157205 | [157205-cyber-attack.json](./157205-cyber-attack.json) |
 | Cyber Strike | 194001 | [194001-cyber-strike.json](./194001-cyber-strike.json) |
 | Cyber Theater | 218153 | [218153-cyber-theater.json](./218153-cyber-theater.json) |
