@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Town Needs Tamer | 216989 | [216989-new-town-needs-tamer.json](./216989-new-town-needs-tamer.json) |
 | New Witch in Town | 143694 | [143694-new-witch-in-town.json](./143694-new-witch-in-town.json) |
 | New World | 263768 | [263768-new-world.json](./263768-new-world.json) |
+| New Yankee 6: In Pharaoh's Court | 117096 | [117096-new-yankee-6-in-pharaohs-court.json](./117096-new-yankee-6-in-pharaohs-court.json) |
 | New Year Simulator 2025 | 326390 | [326390-new-year-simulator-2025.json](./326390-new-year-simulator-2025.json) |
 | New Year's Jam | 325263 | [325263-new-years-jam.json](./325263-new-years-jam.json) |
 | New York Mysteries: Power of Art - Collector's Edition | 339642 | [339642-new-york-mysteries-power-of-art-collectors-edition.json](./339642-new-york-mysteries-power-of-art-collectors-edition.json) |
