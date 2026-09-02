@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons are coming! | 278160 | [278160-demons-are-coming.json](./278160-demons-are-coming.json) |
 | Demons Infernalize | 243376 | [243376-demons-infernalize.json](./243376-demons-infernalize.json) |
 | Dendam | 262104 | [262104-dendam.json](./262104-dendam.json) |
+| Dengen Tenshi Taisen Mahjong Shangri-La | 131571 | [131571-dengen-tenshi-taisen-mahjong-shangri-la.json](./131571-dengen-tenshi-taisen-mahjong-shangri-la.json) |
 | Denpa Ningen no RPG 2 | 221987 | [221987-denpa-ningen-no-rpg-2.json](./221987-denpa-ningen-no-rpg-2.json) |
 | Denpa Ningen no RPG 3 | 221988 | [221988-denpa-ningen-no-rpg-3.json](./221988-denpa-ningen-no-rpg-3.json) |
 | Densha de GO! | 146907 | [146907-densha-de-go.json](./146907-densha-de-go.json) |
@@ -606,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doko Demo Issho: Toro's Story App | 246073 | [246073-doko-demo-issho-toros-story-app.json](./246073-doko-demo-issho-toros-story-app.json) |
 | Dokodemo Crash-kun | 210242 | [210242-dokodemo-crash-kun.json](./210242-dokodemo-crash-kun.json) |
 | Dolce | 229972 | [229972-dolce.json](./229972-dolce.json) |
+| Doll's Ingram | 131585 | [131585-dolls-ingram.json](./131585-dolls-ingram.json) |
 | Dollar Dash: More Ways to Win | 171055 | [171055-dollar-dash-more-ways-to-win.json](./171055-dollar-dash-more-ways-to-win.json) |
 | Dollar Dash: Winter Pack | 263216 | [263216-dollar-dash-winter-pack.json](./263216-dollar-dash-winter-pack.json) |
 | Dollarluigi's Quest | 324105 | [324105-dollarluigis-quest.json](./324105-dollarluigis-quest.json) |
@@ -786,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw No More | 177523 | [177523-draw-no-more.json](./177523-draw-no-more.json) |
 | Draw Rider Plus | 175394 | [175394-draw-rider-plus.json](./175394-draw-rider-plus.json) |
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
+| Drawize | 131579 | [131579-drawize.json](./131579-drawize.json) |
 | Dread the Rabbit | 183595 | [183595-dread-the-rabbit.json](./183595-dread-the-rabbit.json) |
 | Dread X Collection 3 | 140041 | [140041-dread-x-collection-3.json](./140041-dread-x-collection-3.json) |
 | Dreader | 176487 | [176487-dreader.json](./176487-dreader.json) |
