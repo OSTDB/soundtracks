@@ -350,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restock | 316414 | [316414-restock.json](./316414-restock.json) |
 | Restoring Falmay | 326979 | [326979-restoring-falmay.json](./326979-restoring-falmay.json) |
 | Resurgent | 177565 | [177565-resurgent.json](./177565-resurgent.json) |
+| Resurrector | 126624 | [126624-resurrector.json](./126624-resurrector.json) |
 | Retention: A Love Story | 149597 | [149597-retention-a-love-story.json](./149597-retention-a-love-story.json) |
 | Retired Men's Nude Beach Volleyball League | 163452 | [163452-retired-mens-nude-beach-volleyball-league.json](./163452-retired-mens-nude-beach-volleyball-league.json) |
 | Retooled | 204071 | [204071-retooled.json](./204071-retooled.json) |
@@ -371,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroMania Wrestling | 131604 | [131604-retromania-wrestling.json](./131604-retromania-wrestling.json) |
 | RetroRealms: Ash vs. Evil Dead | 313490 | [313490-retrorealms-ash-vs-evil-dead.json](./313490-retrorealms-ash-vs-evil-dead.json) |
 | RetroRealms: Halloween | 313489 | [313489-retrorealms-halloween.json](./313489-retrorealms-halloween.json) |
+| RetroVamp | 126634 | [126634-retrovamp.json](./126634-retrovamp.json) |
 | Retrowave '84 | 214180 | [214180-retrowave-84.json](./214180-retrowave-84.json) |
 | Retrowave Hexon | 159857 | [159857-retrowave-hexon.json](./159857-retrowave-hexon.json) |
 | Return | 255987 | [255987-return.json](./255987-return.json) |
