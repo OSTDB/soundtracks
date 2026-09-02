@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belongings | 158707 | [158707-belongings.json](./158707-belongings.json) |
 | Below the Ocean | 173312 | [173312-below-the-ocean.json](./173312-below-the-ocean.json) |
 | Beluflin: Beautiful Luminous Flying Insects | 325268 | [325268-beluflin-beautiful-luminous-flying-insects.json](./325268-beluflin-beautiful-luminous-flying-insects.json) |
+| Bemuzed | 135908 | [135908-bemuzed.json](./135908-bemuzed.json) |
 | Ben 10 Bundle | 146329 | [146329-ben-10-bundle.json](./146329-ben-10-bundle.json) |
 | Ben 10: Alien Experience | 196339 | [196339-ben-10-alien-experience.json](./196339-ben-10-alien-experience.json) |
 | Ben 10: Alien Force | 210256 | [210256-ben-10-alien-force.json](./210256-ben-10-alien-force.json) |
@@ -442,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioSynth: Rising | 336892 | [336892-biosynth-rising.json](./336892-biosynth-rising.json) |
 | Biotech Samurai | 161385 | [161385-biotech-samurai.json](./161385-biotech-samurai.json) |
 | Biphase | 148549 | [148549-biphase.json](./148549-biphase.json) |
+| Bird Alone | 135897 | [135897-bird-alone.json](./135897-bird-alone.json) |
 | Bird Shooter | 229974 | [229974-bird-shooter.json](./229974-bird-shooter.json) |
 | Bird Strike for Android | 137098 | [137098-bird-strike-for-android.json](./137098-bird-strike-for-android.json) |
 | Birdcage (Oda al Pájaro) | 325262 | [325262-birdcage-oda-al-pajaro.json](./325262-birdcage-oda-al-pajaro.json) |
@@ -647,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber | 270399 | [270399-bomber.json](./270399-bomber.json) |
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
 | Bomber-Mario | 248288 | [248288-bomber-mario.json](./248288-bomber-mario.json) |
+| Bomberman GB | 135909 | [135909-bomberman-gb.json](./135909-bomberman-gb.json) |
 | Bomberman Max: Ain Version | 197961 | [197961-bomberman-max-ain-version.json](./197961-bomberman-max-ain-version.json) |
 | Bomberman Nightmare | 142492 | [142492-bomberman-nightmare.json](./142492-bomberman-nightmare.json) |
 | Bomberman: Panic Bomber | 162409 | [162409-bomberman-panic-bomber.json](./162409-bomberman-panic-bomber.json) |
