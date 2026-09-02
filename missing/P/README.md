@@ -901,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PSY in Apocalypse | 270953 | [270953-psy-in-apocalypse.json](./270953-psy-in-apocalypse.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim | 338006 | [338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json](./338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json) |
 | Psychomachia | 291218 | [291218-psychomachia.json](./291218-psychomachia.json) |
+| Psychotic Adventures Origins | 138795 | [138795-psychotic-adventures-origins.json](./138795-psychotic-adventures-origins.json) |
 | Psycron | 145676 | [145676-psycron.json](./145676-psycron.json) |
 | Pub Mania | 325247 | [325247-pub-mania.json](./325247-pub-mania.json) |
 | Pub Sim | 311277 | [311277-pub-sim.json](./311277-pub-sim.json) |
@@ -988,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle: Ultimate - Puzzle Pack: Flowers | 163435 | [163435-puzzle-ultimate-puzzle-pack-flowers.json](./163435-puzzle-ultimate-puzzle-pack-flowers.json) |
 | Puzzle: Ultimate - Puzzle Pack: Space | 163434 | [163434-puzzle-ultimate-puzzle-pack-space.json](./163434-puzzle-ultimate-puzzle-pack-space.json) |
 | Puzzle: Ultimate - Puzzle Pack: Valley | 163431 | [163431-puzzle-ultimate-puzzle-pack-valley.json](./163431-puzzle-ultimate-puzzle-pack-valley.json) |
+| Puzzlebot Challenge | 138794 | [138794-puzzlebot-challenge.json](./138794-puzzlebot-challenge.json) |
 | Puzzled Love | 180813 | [180813-puzzled-love.json](./180813-puzzled-love.json) |
 | Puzzlerio | 270945 | [270945-puzzlerio.json](./270945-puzzlerio.json) |
 | Puzzles & Chaos | 301582 | [301582-puzzles-and-chaos.json](./301582-puzzles-and-chaos.json) |
