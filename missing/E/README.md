@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eighth Era | 329967 | [329967-eighth-era.json](./329967-eighth-era.json) |
 | Ein Fall für TKKG: Katjas Geheimnis | 127995 | [127995-ein-fall-fur-tkkg-katjas-geheimnis.json](./127995-ein-fall-fur-tkkg-katjas-geheimnis.json) |
 | Eko | 223673 | [223673-eko.json](./223673-eko.json) |
+| El Capitán Trueno | 100184 | [100184-el-capitan-trueno.json](./100184-el-capitan-trueno.json) |
 | El Chavo | 331122 | [331122-el-chavo.json](./331122-el-chavo.json) |
 | El Dorado | 312880 | [312880-el-dorado.json](./312880-el-dorado.json) |
 | El Hincha Rusia 2018 | 104053 | [104053-el-hincha-rusia-2018.json](./104053-el-hincha-rusia-2018.json) |
@@ -159,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elise's Peepshow | 161377 | [161377-elises-peepshow.json](./161377-elises-peepshow.json) |
 | Elite Beat Zombygons | 184659 | [184659-elite-beat-zombygons.json](./184659-elite-beat-zombygons.json) |
 | Elite Force | 223659 | [223659-elite-force.json](./223659-elite-force.json) |
+| Elite Plus | 100209 | [100209-elite-plus.json](./100209-elite-plus.json) |
 | Ellada Games RPG Bundle | 187500 | [187500-ellada-games-rpg-bundle.json](./187500-ellada-games-rpg-bundle.json) |
 | Ellie & Max | 175426 | [175426-ellie-and-max.json](./175426-ellie-and-max.json) |
 | Elon on Mars | 120997 | [120997-elon-on-mars.json](./120997-elon-on-mars.json) |
@@ -199,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Chronicles | 163985 | [163985-empire-chronicles.json](./163985-empire-chronicles.json) |
 | Empire of Empires | 211966 | [211966-empire-of-empires.json](./211966-empire-of-empires.json) |
 | Empire Origin: Rise | 258204 | [258204-empire-origin-rise.json](./258204-empire-origin-rise.json) |
+| Empires II: What Would You Risk for World Conquest? | 100215 | [100215-empires-ii-what-would-you-risk-for-world-conquest.json](./100215-empires-ii-what-would-you-risk-for-world-conquest.json) |
 | Empires of the Void II | 189167 | [189167-empires-of-the-void-ii.json](./189167-empires-of-the-void-ii.json) |
 | Empress's Choice | 245047 | [245047-empresss-choice.json](./245047-empresss-choice.json) |
 | Empty | 229384 | [229384-empty.json](./229384-empty.json) |
@@ -281,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epicedium | 102797 | [102797-epicedium.json](./102797-epicedium.json) |
 | Epsilon wars | 167296 | [167296-epsilon-wars.json](./167296-epsilon-wars.json) |
 | Equilibrium Ocean | 107161 | [107161-equilibrium-ocean.json](./107161-equilibrium-ocean.json) |
+| Equinox | 100180 | [100180-equinox.json](./100180-equinox.json) |
 | Equinox | 197403 | [197403-equinox.json](./197403-equinox.json) |
 | Equiverse | 303801 | [303801-equiverse.json](./303801-equiverse.json) |
 | Erannorth Reborn: Blood Coven Rise | 168914 | [168914-erannorth-reborn-blood-coven-rise.json](./168914-erannorth-reborn-blood-coven-rise.json) |
@@ -437,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolve Incremental | 255342 | [255342-evolve-incremental.json](./255342-evolve-incremental.json) |
 | Evolve: Mecha Squad | 309691 | [309691-evolve-mecha-squad.json](./309691-evolve-mecha-squad.json) |
 | EvoWars.io | 241633 | [241633-evowars-io.json](./241633-evowars-io.json) |
+| EVR Race | 100172 | [100172-evr-race.json](./100172-evr-race.json) |
 | Ewe Shall Not Pass | 260391 | [260391-ewe-shall-not-pass.json](./260391-ewe-shall-not-pass.json) |
 | Ex-Fraktion | 181370 | [181370-ex-fraktion.json](./181370-ex-fraktion.json) |
 | Excavate Diamond | 228111 | [228111-excavate-diamond.json](./228111-excavate-diamond.json) |
