@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Teenage Mutant Ninja Turtles: City Showdown | 146288 | [146288-rise-of-the-teenage-mutant-ninja-turtles-city-showdown.json](./146288-rise-of-the-teenage-mutant-ninja-turtles-city-showdown.json) |
 | Rise of the Teenage Mutant Ninja Turtles: Epic Mutant Missions | 146290 | [146290-rise-of-the-teenage-mutant-ninja-turtles-epic-mutant-missions.json](./146290-rise-of-the-teenage-mutant-ninja-turtles-epic-mutant-missions.json) |
 | Rise of the Teenage Mutant Ninja Turtles: Road Riot | 146291 | [146291-rise-of-the-teenage-mutant-ninja-turtles-road-riot.json](./146291-rise-of-the-teenage-mutant-ninja-turtles-road-riot.json) |
+| Rise up - Keeper challenge | 96743 | [96743-rise-up-keeper-challenge.json](./96743-rise-up-keeper-challenge.json) |
 | Rising Heat | 319372 | [319372-rising-heat.json](./319372-rising-heat.json) |
 | Rising Sun Mahjong | 257079 | [257079-rising-sun-mahjong.json](./257079-rising-sun-mahjong.json) |
 | Risk of Rain 2: Devotion Update | 306700 | [306700-risk-of-rain-2-devotion-update.json](./306700-risk-of-rain-2-devotion-update.json) |
@@ -788,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roof Genocide | 193492 | [193492-roof-genocide.json](./193492-roof-genocide.json) |
 | Roof Jump Stunt Driver | 231054 | [231054-roof-jump-stunt-driver.json](./231054-roof-jump-stunt-driver.json) |
 | Roof Jumping: Stunt Driver Sim | 104087 | [104087-roof-jumping-stunt-driver-sim.json](./104087-roof-jumping-stunt-driver-sim.json) |
+| Roofbot: Puzzler on the Roof | 96729 | [96729-roofbot-puzzler-on-the-roof.json](./96729-roofbot-puzzler-on-the-roof.json) |
 | Rookie Math Pro | 102205 | [102205-rookie-math-pro.json](./102205-rookie-math-pro.json) |
 | Rookie Tank | 116357 | [116357-rookie-tank.json](./116357-rookie-tank.json) |
 | Room Containing Candle x4 | 142502 | [142502-room-containing-candle-x4.json](./142502-room-containing-candle-x4.json) |
@@ -878,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruby Crush | 270417 | [270417-ruby-crush.json](./270417-ruby-crush.json) |
 | Ruby Heart | 159871 | [159871-ruby-heart.json](./159871-ruby-heart.json) |
 | Ruby Rose: Ace Attorney | 303243 | [303243-ruby-rose-ace-attorney.json](./303243-ruby-rose-ace-attorney.json) |
+| Ruby Square: logical puzzle game | 96741 | [96741-ruby-square-logical-puzzle-game.json](./96741-ruby-square-logical-puzzle-game.json) |
 | RubyDung | 262083 | [262083-rubydung.json](./262083-rubydung.json) |
 | Rue | 165663 | [165663-rue.json](./165663-rue.json) |
 | Rugby Hero | 233237 | [233237-rugby-hero.json](./233237-rugby-hero.json) |
