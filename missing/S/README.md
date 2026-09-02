@@ -41,11 +41,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row: The Heist & The Hazardous | 249476 | [249476-saints-row-the-heist-and-the-hazardous.json](./249476-saints-row-the-heist-and-the-hazardous.json) |
 | Sáivu | 293889 | [293889-saivu.json](./293889-saivu.json) |
 | Sáivu | 293893 | [293893-saivu.json](./293893-saivu.json) |
+| Saki: Achiga-Hen Episode of Side-A Portable | 135902 | [135902-saki-achiga-hen-episode-of-side-a-portable.json](./135902-saki-achiga-hen-episode-of-side-a-portable.json) |
 | Saku the Covert Agent | 310181 | [310181-saku-the-covert-agent.json](./310181-saku-the-covert-agent.json) |
+| Sakura Halloween | 135891 | [135891-sakura-halloween.json](./135891-sakura-halloween.json) |
 | Sakura Mau Otome no Rondo | 339138 | [339138-sakura-mau-otome-no-rondo.json](./339138-sakura-mau-otome-no-rondo.json) |
+| Sakura Moonlight | 135892 | [135892-sakura-moonlight.json](./135892-sakura-moonlight.json) |
 | Sakura Priestess and Shikigami Mountain | 306060 | [306060-sakura-priestess-and-shikigami-mountain.json](./306060-sakura-priestess-and-shikigami-mountain.json) |
 | Sakura Succubus 3 | 152892 | [152892-sakura-succubus-3.json](./152892-sakura-succubus-3.json) |
 | Sakura Sunshine | 215911 | [215911-sakura-sunshine.json](./215911-sakura-sunshine.json) |
+| Sakura Sweetheart | 135893 | [135893-sakura-sweetheart.json](./135893-sakura-sweetheart.json) |
 | Sakura Tsuushin: Remaking Memories | 209624 | [209624-sakura-tsuushin-remaking-memories.json](./209624-sakura-tsuushin-remaking-memories.json) |
 | Sakura X Clash: Last Millennial Spring | 213603 | [213603-sakura-x-clash-last-millennial-spring.json](./213603-sakura-x-clash-last-millennial-spring.json) |
 | Sakura, Moyu.: As the Night's, Reincarnation | 137106 | [137106-sakura-moyu-as-the-nights-reincarnation.json](./137106-sakura-moyu-as-the-nights-reincarnation.json) |
@@ -268,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sei no Shoujo: Bishoujo Gakuen 3 | 194623 | [194623-sei-no-shoujo-bishoujo-gakuen-3.json](./194623-sei-no-shoujo-bishoujo-gakuen-3.json) |
 | Sei Shoujo Sentai Lakers II | 264323 | [264323-sei-shoujo-sentai-lakers-ii.json](./264323-sei-shoujo-sentai-lakers-ii.json) |
 | Sei Shoujo Sentai Lakers III | 264324 | [264324-sei-shoujo-sentai-lakers-iii.json](./264324-sei-shoujo-sentai-lakers-iii.json) |
+| Seimbein | 135877 | [135877-seimbein.json](./135877-seimbein.json) |
 | Seireiki Rayblade | 311290 | [311290-seireiki-rayblade.json](./311290-seireiki-rayblade.json) |
 | Seishin Hakai | 260976 | [260976-seishin-hakai.json](./260976-seishin-hakai.json) |
 | Seka II | 292323 | [292323-seka-ii.json](./292323-seka-ii.json) |
@@ -791,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snood Poppers | 137656 | [137656-snood-poppers.json](./137656-snood-poppers.json) |
 | Snoopy DS: Let's Go Meet Snoopy and His Friends! | 302711 | [302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json](./302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json) |
 | Snops Attack! Zombie Defense | 240495 | [240495-snops-attack-zombie-defense.json](./240495-snops-attack-zombie-defense.json) |
+| Snow Kids | 135888 | [135888-snow-kids.json](./135888-snow-kids.json) |
 | Snow Madness | 224201 | [224201-snow-madness.json](./224201-snow-madness.json) |
 | Snow Storm | 318774 | [318774-snow-storm.json](./318774-snow-storm.json) |
 | Snowball Fall Down | 208622 | [208622-snowball-fall-down.json](./208622-snowball-fall-down.json) |
@@ -802,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboarder XS | 325285 | [325285-snowboarder-xs.json](./325285-snowboarder-xs.json) |
 | Snowboarding | 152929 | [152929-snowboarding.json](./152929-snowboarding.json) |
 | Snowbrawll | 235461 | [235461-snowbrawll.json](./235461-snowbrawll.json) |
+| Snowcrash | 135876 | [135876-snowcrash.json](./135876-snowcrash.json) |
 | Snowdome | 260961 | [260961-snowdome.json](./260961-snowdome.json) |
 | Snowdreams -lost in winter- | 146324 | [146324-snowdreams-lost-in-winter.json](./146324-snowdreams-lost-in-winter.json) |
 | Snowdrop Escape | 170562 | [170562-snowdrop-escape.json](./170562-snowdrop-escape.json) |
@@ -1495,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strobophagia: Rave Horror | 139460 | [139460-strobophagia-rave-horror.json](./139460-strobophagia-rave-horror.json) |
 | Stroke the Fish | 220342 | [220342-stroke-the-fish.json](./220342-stroke-the-fish.json) |
 | Stroke the Tortoise | 220344 | [220344-stroke-the-tortoise.json](./220344-stroke-the-tortoise.json) |
+| StrongBadZone | 135863 | [135863-strongbadzone.json](./135863-strongbadzone.json) |
 | Stronghold: Caverns of Sorcery | 339654 | [339654-stronghold-caverns-of-sorcery.json](./339654-stronghold-caverns-of-sorcery.json) |
 | Stronghold: On the Edge of Chaos | 141254 | [141254-stronghold-on-the-edge-of-chaos.json](./141254-stronghold-on-the-edge-of-chaos.json) |
 | Stronghold: Warlords - Rise of the Shogun Campaign | 186877 | [186877-stronghold-warlords-rise-of-the-shogun-campaign.json](./186877-stronghold-warlords-rise-of-the-shogun-campaign.json) |
@@ -1515,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suborbital | 260386 | [260386-suborbital.json](./260386-suborbital.json) |
 | Subsuelo | 272035 | [272035-subsuelo.json](./272035-subsuelo.json) |
 | Subterranean Siege | 271495 | [271495-subterranean-siege.json](./271495-subterranean-siege.json) |
+| Subway Adventure | 135861 | [135861-subway-adventure.json](./135861-subway-adventure.json) |
 | Subway Exorcist Girl | 329389 | [329389-subway-exorcist-girl.json](./329389-subway-exorcist-girl.json) |
 | Subway Midnight | 175934 | [175934-subway-midnight.json](./175934-subway-midnight.json) |
 | Subway Surfers Blast | 247170 | [247170-subway-surfers-blast.json](./247170-subway-surfers-blast.json) |
@@ -1566,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumy Shelltris: Iceblocks 1 | 197388 | [197388-sumy-shelltris-iceblocks-1.json](./197388-sumy-shelltris-iceblocks-1.json) |
 | Sun City | 310176 | [310176-sun-city.json](./310176-sun-city.json) |
 | Sun Rush | 244517 | [244517-sun-rush.json](./244517-sun-rush.json) |
+| Sunder | 135865 | [135865-sunder.json](./135865-sunder.json) |
 | Sundown | 299443 | [299443-sundown.json](./299443-sundown.json) |
 | Sundowner | 154022 | [154022-sundowner.json](./154022-sundowner.json) |
 | Sunforge Solar Survival | 322980 | [322980-sunforge-solar-survival.json](./322980-sunforge-solar-survival.json) |
