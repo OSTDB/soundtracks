@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Ships: The Type'em Up Shooter | 143707 | [143707-neon-ships-the-typeem-up-shooter.json](./143707-neon-ships-the-typeem-up-shooter.json) |
 | Neon Snap | 140597 | [140597-neon-snap.json](./140597-neon-snap.json) |
 | Neon Struct: Carrion Carrier | 158211 | [158211-neon-struct-carrion-carrier.json](./158211-neon-struct-carrion-carrier.json) |
+| Neon Sword | 107169 | [107169-neon-sword.json](./107169-neon-sword.json) |
 | Neon Wars | 312925 | [312925-neon-wars.json](./312925-neon-wars.json) |
 | NeonHat | 187517 | [187517-neonhat.json](./187517-neonhat.json) |
 | NeonLore | 197916 | [197916-neonlore.json](./197916-neonlore.json) |
@@ -174,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptunia: Virtual Stars - VIP Edition | 186890 | [186890-neptunia-virtual-stars-vip-edition.json](./186890-neptunia-virtual-stars-vip-edition.json) |
 | Nessy the... Robot | 237044 | [237044-nessy-the-robot.json](./237044-nessy-the-robot.json) |
 | Nestables | 134029 | [134029-nestables.json](./134029-nestables.json) |
+| Net de Get: Minigame @100 | 107186 | [107186-net-de-get-minigame-100.json](./107186-net-de-get-minigame-100.json) |
 | Net Defender | 266476 | [266476-net-defender.json](./266476-net-defender.json) |
 | Net Enjou Jikenbo: Moete Moeru SNS Idol Tenraku Illustration Quiz Game | 225898 | [225898-net-enjou-jikenbo-moete-moeru-sns-idol-tenraku-illustration-quiz-game.json](./225898-net-enjou-jikenbo-moete-moeru-sns-idol-tenraku-illustration-quiz-game.json) |
 | Netabare ga Hageshisugiru RPG 2: Shinyuu no Shin no Sugata ha Daimaou | 335674 | [335674-netabare-ga-hageshisugiru-rpg-2-shinyuu-no-shin-no-sugata-ha-daimaou.json](./335674-netabare-ga-hageshisugiru-rpg-2-shinyuu-no-shin-no-sugata-ha-daimaou.json) |
@@ -205,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Path 1: Adventure or Normality? | 124237 | [124237-new-path-1-adventure-or-normality.json](./124237-new-path-1-adventure-or-normality.json) |
 | New Roanoke | 270968 | [270968-new-roanoke.json](./270968-new-roanoke.json) |
 | New Super Kaizo Bros. | 214777 | [214777-new-super-kaizo-bros.json](./214777-new-super-kaizo-bros.json) |
+| New Super Mario Bros. Deluxe | 107234 | [107234-new-super-mario-bros-deluxe.json](./107234-new-super-mario-bros-deluxe.json) |
 | New Super Mario Bros. Mii | 175961 | [175961-new-super-mario-bros-mii.json](./175961-new-super-mario-bros-mii.json) |
 | New Super Mario Bros. Versus: Cubby's Character Mod | 243978 | [243978-new-super-mario-bros-versus-cubbys-character-mod.json](./243978-new-super-mario-bros-versus-cubbys-character-mod.json) |
 | New Super Mario Bros. Versus: Steve's Map Pack | 243976 | [243976-new-super-mario-bros-versus-steves-map-pack.json](./243976-new-super-mario-bros-versus-steves-map-pack.json) |
@@ -459,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoseBound | 132821 | [132821-nosebound.json](./132821-nosebound.json) |
 | Nostalgiarian | 127375 | [127375-nostalgiarian.json](./127375-nostalgiarian.json) |
 | Nostalgic Entropy: Neo Retro | 312899 | [312899-nostalgic-entropy-neo-retro.json](./312899-nostalgic-entropy-neo-retro.json) |
+| Nostos | 107252 | [107252-nostos.json](./107252-nostos.json) |
 | Nostromo's Run | 274197 | [274197-nostromos-run.json](./274197-nostromos-run.json) |
 | Not Alone | 184094 | [184094-not-alone.json](./184094-not-alone.json) |
 | Not Enough Time | 322943 | [322943-not-enough-time.json](./322943-not-enough-time.json) |
@@ -513,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Puzzler | 109042 | [109042-number-puzzler.json](./109042-number-puzzler.json) |
 | Number Slide Puzzle | 228106 | [228106-number-slide-puzzle.json](./228106-number-slide-puzzle.json) |
 | Number Wars | 193474 | [193474-number-wars.json](./193474-number-wars.json) |
+| Numberic Puzzle Ocean | 107168 | [107168-numberic-puzzle-ocean.json](./107168-numberic-puzzle-ocean.json) |
 | Numeral Lord | 221426 | [221426-numeral-lord.json](./221426-numeral-lord.json) |
 | Numina | 141250 | [141250-numina.json](./141250-numina.json) |
 | Numolition | 239345 | [239345-numolition.json](./239345-numolition.json) |
