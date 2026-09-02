@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick the Buddy: Remastered | 212447 | [212447-kick-the-buddy-remastered.json](./212447-kick-the-buddy-remastered.json) |
 | Kick-the-Can | 296101 | [296101-kick-the-can.json](./296101-kick-the-can.json) |
 | Kickabit | 319966 | [319966-kickabit.json](./319966-kickabit.json) |
+| Kickback | 108491 | [108491-kickback.json](./108491-kickback.json) |
 | Kickin Kong | 261532 | [261532-kickin-kong.json](./261532-kickin-kong.json) |
 | Kickrexing | 193487 | [193487-kickrexing.json](./193487-kickrexing.json) |
 | Kid 4 $29.99 | 141871 | [141871-kid-4-29-99.json](./141871-kid-4-29-99.json) |
