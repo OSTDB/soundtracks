@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Negative Atmosphere: Emergency Room | 232667 | [232667-negative-atmosphere-emergency-room.json](./232667-negative-atmosphere-emergency-room.json) |
 | Negative Nancy | 125474 | [125474-negative-nancy.json](./125474-negative-nancy.json) |
 | Negative Reverie | 321744 | [321744-negative-reverie.json](./321744-negative-reverie.json) |
+| Negative Type | 107910 | [107910-negative-type.json](./107910-negative-type.json) |
 | Negi Sho-gi: Negi Massigura | 311286 | [311286-negi-sho-gi-negi-massigura.json](./311286-negi-sho-gi-negi-massigura.json) |
 | Negligee: Love Stories | 111743 | [111743-negligee-love-stories.json](./111743-negligee-love-stories.json) |
 | Nehonobasa | 306676 | [306676-nehonobasa.json](./306676-nehonobasa.json) |
@@ -396,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noah's Descent into Madness | 267096 | [267096-noahs-descent-into-madness.json](./267096-noahs-descent-into-madness.json) |
 | Noah's Dilemma | 291750 | [291750-noahs-dilemma.json](./291750-noahs-dilemma.json) |
 | NoAmmo | 210882 | [210882-noammo.json](./210882-noammo.json) |
+| Noble Armada: Lost Worlds | 107897 | [107897-noble-armada-lost-worlds.json](./107897-noble-armada-lost-worlds.json) |
 | Noble Fates | 183602 | [183602-noble-fates.json](./183602-noble-fates.json) |
 | Noble Knight | 263191 | [263191-noble-knight.json](./263191-noble-knight.json) |
 | Noble's Life: Kingdom Reborn | 173301 | [173301-nobles-life-kingdom-reborn.json](./173301-nobles-life-kingdom-reborn.json) |
@@ -418,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoCanNoTap | 254158 | [254158-nocannotap.json](./254158-nocannotap.json) |
 | Noctuary | 221395 | [221395-noctuary.json](./221395-noctuary.json) |
 | Nocturne in Yellow | 141870 | [141870-nocturne-in-yellow.json](./141870-nocturne-in-yellow.json) |
+| Nocturne of Steel | 107893 | [107893-nocturne-of-steel.json](./107893-nocturne-of-steel.json) |
 | Noel the Mortal Fate: Season 12 | 243374 | [243374-noel-the-mortal-fate-season-12.json](./243374-noel-the-mortal-fate-season-12.json) |
 | Noel the Mortal Fate: Season 3.5 - Revenger's Vacation | 258205 | [258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json](./258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json) |
 | Noel's Hope | 113703 | [113703-noels-hope.json](./113703-noels-hope.json) |
