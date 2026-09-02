@@ -1458,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stroke the Fish | 220342 | [220342-stroke-the-fish.json](./220342-stroke-the-fish.json) |
 | Stroke the Tortoise | 220344 | [220344-stroke-the-tortoise.json](./220344-stroke-the-tortoise.json) |
 | Stronghold: Caverns of Sorcery | 339654 | [339654-stronghold-caverns-of-sorcery.json](./339654-stronghold-caverns-of-sorcery.json) |
+| Stronghold: On the Edge of Chaos | 141254 | [141254-stronghold-on-the-edge-of-chaos.json](./141254-stronghold-on-the-edge-of-chaos.json) |
 | Stronghold: Warlords - Rise of the Shogun Campaign | 186877 | [186877-stronghold-warlords-rise-of-the-shogun-campaign.json](./186877-stronghold-warlords-rise-of-the-shogun-campaign.json) |
 | Stronghold: Warlords - The Mongol Empire Campaign | 186879 | [186879-stronghold-warlords-the-mongol-empire-campaign.json](./186879-stronghold-warlords-the-mongol-empire-campaign.json) |
 | Strongloween: The Escape | 192424 | [192424-strongloween-the-escape.json](./192424-strongloween-the-escape.json) |
