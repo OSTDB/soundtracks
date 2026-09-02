@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landshay: Event Night | 186348 | [186348-landshay-event-night.json](./186348-landshay-event-night.json) |
 | Lane Splitter | 233227 | [233227-lane-splitter.json](./233227-lane-splitter.json) |
 | Lanescape | 203570 | [203570-lanescape.json](./203570-lanescape.json) |
+| Lapso | 126618 | [126618-lapso.json](./126618-lapso.json) |
 | Largo | 292285 | [292285-largo.json](./292285-largo.json) |
 | Larry the Dinosaur 2: Something in the Cola | 217509 | [217509-larry-the-dinosaur-2-something-in-the-cola.json](./217509-larry-the-dinosaur-2-something-in-the-cola.json) |
 | Larry: Wet Dreams Dry Twice | 200194 | [200194-larry-wet-dreams-dry-twice.json](./200194-larry-wet-dreams-dry-twice.json) |
@@ -113,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layers of Fear: Deluxe Edition | 254177 | [254177-layers-of-fear-deluxe-edition.json](./254177-layers-of-fear-deluxe-edition.json) |
 | Layers of Fear: Digital Deluxe | 186875 | [186875-layers-of-fear-digital-deluxe.json](./186875-layers-of-fear-digital-deluxe.json) |
 | LazinAround | 246122 | [246122-lazinaround.json](./246122-lazinaround.json) |
+| Lazr: A Clothformer | 126653 | [126653-lazr-a-clothformer.json](./126653-lazr-a-clothformer.json) |
 | LBreakout2 | 275915 | [275915-lbreakout2.json](./275915-lbreakout2.json) |
 | Le Avventure di Blue: Lacrima di Cristallo | 257676 | [257676-le-avventure-di-blue-lacrima-di-cristallo.json](./257676-le-avventure-di-blue-lacrima-di-cristallo.json) |
 | Le Château | 244484 | [244484-le-chateau.json](./244484-le-chateau.json) |
@@ -329,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquor Store Simulator | 326399 | [326399-liquor-store-simulator.json](./326399-liquor-store-simulator.json) |
 | LIRE | 145018 | [145018-lire.json](./145018-lire.json) |
 | Lisa: The Pointless - Scholar of the Wilbur Sin Edition | 177033 | [177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json](./177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json) |
+| LIT: Bend the Light | 126621 | [126621-lit-bend-the-light.json](./126621-lit-bend-the-light.json) |
 | Little Adventure Tale | 325834 | [325834-little-adventure-tale.json](./325834-little-adventure-tale.json) |
 | Little Astronaut | 199133 | [199133-little-astronaut.json](./199133-little-astronaut.json) |
 | Little Bear | 308582 | [308582-little-bear.json](./308582-little-bear.json) |
@@ -366,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Sparks | 189168 | [189168-little-sparks.json](./189168-little-sparks.json) |
 | Little Tail Story | 144320 | [144320-little-tail-story.json](./144320-little-tail-story.json) |
 | Little Things Remastered | 175935 | [175935-little-things-remastered.json](./175935-little-things-remastered.json) |
+| Little Witch Luana | 126647 | [126647-little-witch-luana.json](./126647-little-witch-luana.json) |
 | Little Witch Nobeta: Limited Edition | 205259 | [205259-little-witch-nobeta-limited-edition.json](./205259-little-witch-nobeta-limited-edition.json) |
 | Little Wolf | 149570 | [149570-little-wolf.json](./149570-little-wolf.json) |
 | Little-Known Galaxy | 273654 | [273654-little-known-galaxy.json](./273654-little-known-galaxy.json) |
@@ -432,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loneliness Butterfly | 314074 | [314074-loneliness-butterfly.json](./314074-loneliness-butterfly.json) |
 | Lonely Mountains: Downhill - Eldfjall Island | 138241 | [138241-lonely-mountains-downhill-eldfjall-island.json](./138241-lonely-mountains-downhill-eldfjall-island.json) |
 | Lonely Path | 250006 | [250006-lonely-path.json](./250006-lonely-path.json) |
+| Long Count | 126622 | [126622-long-count.json](./126622-long-count.json) |
 | Long Nardy | 264362 | [264362-long-nardy.json](./264362-long-nardy.json) |
 | Long Star | 131618 | [131618-long-star.json](./131618-long-star.json) |
 | Lonley, Lustful, Arrogant, Hateful | 172726 | [172726-lonley-lustful-arrogant-hateful.json](./172726-lonley-lustful-arrogant-hateful.json) |
