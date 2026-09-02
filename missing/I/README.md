@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferno’s Embrace | 298902 | [298902-inferno-s-embrace.json](./298902-inferno-s-embrace.json) |
 | Infestus | 235456 | [235456-infestus.json](./235456-infestus.json) |
 | Infiltration: Alone in Combat | 151196 | [151196-infiltration-alone-in-combat.json](./151196-infiltration-alone-in-combat.json) |
+| Infiniboss | 134008 | [134008-infiniboss.json](./134008-infiniboss.json) |
 | InfiniPicross 2.0: 100 Large Puzzles - Animals | 163426 | [163426-infinipicross-2-0-100-large-puzzles-animals.json](./163426-infinipicross-2-0-100-large-puzzles-animals.json) |
 | InfiniPicross 2.0: 100 Medium Puzzles | 163425 | [163425-infinipicross-2-0-100-medium-puzzles.json](./163425-infinipicross-2-0-100-medium-puzzles.json) |
 | InfiniPicross 3 | 251807 | [251807-infinipicross-3.json](./251807-infinipicross-3.json) |
@@ -304,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstate Cowboys | 292322 | [292322-interstate-cowboys.json](./292322-interstate-cowboys.json) |
 | Interweaver | 296682 | [296682-interweaver.json](./296682-interweaver.json) |
 | Intesa Vincente | 341899 | [341899-intesa-vincente.json](./341899-intesa-vincente.json) |
+| Intimate, Infinite | 134009 | [134009-intimate-infinite.json](./134009-intimate-infinite.json) |
 | Into Asteroid Belt | 178641 | [178641-into-asteroid-belt.json](./178641-into-asteroid-belt.json) |
 | Into Oblivion | 301586 | [301586-into-oblivion.json](./301586-into-oblivion.json) |
 | Into The Corner | 339112 | [339112-into-the-corner.json](./339112-into-the-corner.json) |
@@ -313,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Farlands | 226437 | [226437-into-the-farlands.json](./226437-into-the-farlands.json) |
 | Into the Flames: Retro Fire Gear 1 | 256560 | [256560-into-the-flames-retro-fire-gear-1.json](./256560-into-the-flames-retro-fire-gear-1.json) |
 | Into the Grid | 277005 | [277005-into-the-grid.json](./277005-into-the-grid.json) |
+| Into The Mist 2: The Cult | 134010 | [134010-into-the-mist-2-the-cult.json](./134010-into-the-mist-2-the-cult.json) |
 | Into the Timeverse | 172180 | [172180-into-the-timeverse.json](./172180-into-the-timeverse.json) |
 | Intrana | 310207 | [310207-intrana.json](./310207-intrana.json) |
 | Intruder | 313504 | [313504-intruder.json](./313504-intruder.json) |
