@@ -99,6 +99,33 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TaleSpire: Guest Edition | 316393 | [316393-talespire-guest-edition.json](./316393-talespire-guest-edition.json) |
 | Talesshop Puzzle: Jugeobeorin Byeorui Neokduri Deussi | 167859 | [167859-talesshop-puzzle-jugeobeorin-byeorui-neokduri-deussi.json](./167859-talesshop-puzzle-jugeobeorin-byeorui-neokduri-deussi.json) |
 | Talesshop Puzzle: Jugeobeorin Byeorui Neokduri Dummy | 167858 | [167858-talesshop-puzzle-jugeobeorin-byeorui-neokduri-dummy.json](./167858-talesshop-puzzle-jugeobeorin-byeorui-neokduri-dummy.json) |
+| Talisman: Digital Edition - Apprentice Mage | 149053 | [149053-talisman-digital-edition-apprentice-mage.json](./149053-talisman-digital-edition-apprentice-mage.json) |
+| Talisman: Digital Edition - Black Witch | 149069 | [149069-talisman-digital-edition-black-witch.json](./149069-talisman-digital-edition-black-witch.json) |
+| Talisman: Digital Edition - Courtesan | 149065 | [149065-talisman-digital-edition-courtesan.json](./149065-talisman-digital-edition-courtesan.json) |
+| Talisman: Digital Edition - Devil's Minion | 149067 | [149067-talisman-digital-edition-devils-minion.json](./149067-talisman-digital-edition-devils-minion.json) |
+| Talisman: Digital Edition - Exorcist | 149058 | [149058-talisman-digital-edition-exorcist.json](./149058-talisman-digital-edition-exorcist.json) |
+| Talisman: Digital Edition - Gambler | 149078 | [149078-talisman-digital-edition-gambler.json](./149078-talisman-digital-edition-gambler.json) |
+| Talisman: Digital Edition - Genie | 149063 | [149063-talisman-digital-edition-genie.json](./149063-talisman-digital-edition-genie.json) |
+| Talisman: Digital Edition - Goblin Shaman | 149051 | [149051-talisman-digital-edition-goblin-shaman.json](./149051-talisman-digital-edition-goblin-shaman.json) |
+| Talisman: Digital Edition - Illusionist | 149061 | [149061-talisman-digital-edition-illusionist.json](./149061-talisman-digital-edition-illusionist.json) |
+| Talisman: Digital Edition - Jester | 149052 | [149052-talisman-digital-edition-jester.json](./149052-talisman-digital-edition-jester.json) |
+| Talisman: Digital Edition - Martial Artist | 149054 | [149054-talisman-digital-edition-martial-artist.json](./149054-talisman-digital-edition-martial-artist.json) |
+| Talisman: Digital Edition - Martyr | 149055 | [149055-talisman-digital-edition-martyr.json](./149055-talisman-digital-edition-martyr.json) |
+| Talisman: Digital Edition - Pathfinder | 149074 | [149074-talisman-digital-edition-pathfinder.json](./149074-talisman-digital-edition-pathfinder.json) |
+| Talisman: Digital Edition - Pilgrim | 149062 | [149062-talisman-digital-edition-pilgrim.json](./149062-talisman-digital-edition-pilgrim.json) |
+| Talisman: Digital Edition - Ranger | 149060 | [149060-talisman-digital-edition-ranger.json](./149060-talisman-digital-edition-ranger.json) |
+| Talisman: Digital Edition - Samurai | 149072 | [149072-talisman-digital-edition-samurai.json](./149072-talisman-digital-edition-samurai.json) |
+| Talisman: Digital Edition - Saracen | 149075 | [149075-talisman-digital-edition-saracen.json](./149075-talisman-digital-edition-saracen.json) |
+| Talisman: Digital Edition - Satyr | 149071 | [149071-talisman-digital-edition-satyr.json](./149071-talisman-digital-edition-satyr.json) |
+| Talisman: Digital Edition - Shaman | 149066 | [149066-talisman-digital-edition-shaman.json](./149066-talisman-digital-edition-shaman.json) |
+| Talisman: Digital Edition - Shape Shifter | 149064 | [149064-talisman-digital-edition-shape-shifter.json](./149064-talisman-digital-edition-shape-shifter.json) |
+| Talisman: Digital Edition - Swordsman | 149059 | [149059-talisman-digital-edition-swordsman.json](./149059-talisman-digital-edition-swordsman.json) |
+| Talisman: Digital Edition - The Clockwork Kingdom | 149073 | [149073-talisman-digital-edition-the-clockwork-kingdom.json](./149073-talisman-digital-edition-the-clockwork-kingdom.json) |
+| Talisman: Digital Edition - Vampire | 149070 | [149070-talisman-digital-edition-vampire.json](./149070-talisman-digital-edition-vampire.json) |
+| Talisman: Digital Edition - Witch Hunter | 149077 | [149077-talisman-digital-edition-witch-hunter.json](./149077-talisman-digital-edition-witch-hunter.json) |
+| Talisman: Digital Edition - Woodsman | 149068 | [149068-talisman-digital-edition-woodsman.json](./149068-talisman-digital-edition-woodsman.json) |
+| Talisman: The Firelands | 149057 | [149057-talisman-the-firelands.json](./149057-talisman-the-firelands.json) |
+| Talisman: The Woodland | 149081 | [149081-talisman-the-woodland.json](./149081-talisman-the-woodland.json) |
 | Talk to Strangers | 252403 | [252403-talk-to-strangers.json](./252403-talk-to-strangers.json) |
 | Talking Tom Cat 2 | 214779 | [214779-talking-tom-cat-2.json](./214779-talking-tom-cat-2.json) |
 | TalkTics: Double Served | 303793 | [303793-talktics-double-served.json](./303793-talktics-double-served.json) |
@@ -131,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Master | 200733 | [200733-tank-master.json](./200733-tank-master.json) |
 | Tank Sudoku | 190734 | [190734-tank-sudoku.json](./190734-tank-sudoku.json) |
 | Tank War Defender 3 | 175405 | [175405-tank-war-defender-3.json](./175405-tank-war-defender-3.json) |
+| Tank War Nexus | 149080 | [149080-tank-war-nexus.json](./149080-tank-war-nexus.json) |
 | Tank Warfare: El Guettar | 154531 | [154531-tank-warfare-el-guettar.json](./154531-tank-warfare-el-guettar.json) |
 | Tank Warfare: Operation Pugilist | 155088 | [155088-tank-warfare-operation-pugilist.json](./155088-tank-warfare-operation-pugilist.json) |
 | Tankron | 215883 | [215883-tankron.json](./215883-tankron.json) |
@@ -1063,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wish | 181937 | [181937-the-wish.json](./181937-the-wish.json) |
 | The Witch's Cauldron: Supporter Pack | 309647 | [309647-the-witchs-cauldron-supporter-pack.json](./309647-the-witchs-cauldron-supporter-pack.json) |
 | The Witch's Knight | 254745 | [254745-the-witchs-knight.json](./254745-the-witchs-knight.json) |
+| The Wizard Game | 149092 | [149092-the-wizard-game.json](./149092-the-wizard-game.json) |
 | The Wizard Party | 277609 | [277609-the-wizard-party.json](./277609-the-wizard-party.json) |
 | The Wonder Sword | 327585 | [327585-the-wonder-sword.json](./327585-the-wonder-sword.json) |
 | The Wonderful 101 | 264890 | [264890-the-wonderful-101.json](./264890-the-wonderful-101.json) |
@@ -1124,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Dimension | 189183 | [189183-three-dimension.json](./189183-three-dimension.json) |
 | Three Finger Battle Arena | 192965 | [192965-three-finger-battle-arena.json](./192965-three-finger-battle-arena.json) |
 | Three Goblin Wobblin' | 267076 | [267076-three-goblin-wobblin.json](./267076-three-goblin-wobblin.json) |
+| Three Kingdoms 21 | 149094 | [149094-three-kingdoms-21.json](./149094-three-kingdoms-21.json) |
 | Three Kingdoms Front | 339098 | [339098-three-kingdoms-front.json](./339098-three-kingdoms-front.json) |
 | Three Kingdoms: Hero Wars | 208053 | [208053-three-kingdoms-hero-wars.json](./208053-three-kingdoms-hero-wars.json) |
 | Three Sons | 192968 | [192968-three-sons.json](./192968-three-sons.json) |
@@ -1870,6 +1900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type the Entire of Ulysses. That's It. That's the Game. | 198526 | [198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json](./198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json) |
 | Type: Unstable Vampire | 180822 | [180822-type-unstable-vampire.json](./180822-type-unstable-vampire.json) |
 | Typewriter Simulator | 177529 | [177529-typewriter-simulator.json](./177529-typewriter-simulator.json) |
+| Typing Hearts | 149091 | [149091-typing-hearts.json](./149091-typing-hearts.json) |
 | Typing Stars | 322387 | [322387-typing-stars.json](./322387-typing-stars.json) |
 | Tyrannical Chickens | 278726 | [278726-tyrannical-chickens.json](./278726-tyrannical-chickens.json) |
 | Tyranny: Gold Edition | 154526 | [154526-tyranny-gold-edition.json](./154526-tyranny-gold-edition.json) |
