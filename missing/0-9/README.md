@@ -108,6 +108,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 15th Prison | 316431 | [316431-15th-prison.json](./316431-15th-prison.json) |
 | 16 Planes:Return | 112980 | [112980-16-planes-return.json](./112980-16-planes-return.json) |
 | 16 Tales: Vol. 2 | 143075 | [143075-16-tales-vol-2.json](./143075-16-tales-vol-2.json) |
+| 16bit-Collection Athena Vol. 01 | 97891 | [97891-16bit-collection-athena-vol-01.json](./97891-16bit-collection-athena-vol-01.json) |
+| 16bit-Collection Culture Brain Vol. 01 | 97893 | [97893-16bit-collection-culture-brain-vol-01.json](./97893-16bit-collection-culture-brain-vol-01.json) |
+| 16bit-Collection Culture Brain Vol. 02 | 97888 | [97888-16bit-collection-culture-brain-vol-02.json](./97888-16bit-collection-culture-brain-vol-02.json) |
+| 16bit-Collection Culture Brain Vol. 03 | 97889 | [97889-16bit-collection-culture-brain-vol-03.json](./97889-16bit-collection-culture-brain-vol-03.json) |
+| 16bit-Collection Data East Vol. 02 | 97894 | [97894-16bit-collection-data-east-vol-02.json](./97894-16bit-collection-data-east-vol-02.json) |
+| 16bit-Collection Data East Vol. 03 | 97887 | [97887-16bit-collection-data-east-vol-03.json](./97887-16bit-collection-data-east-vol-03.json) |
+| 16bit-Collection Data East Vol. 1 | 97892 | [97892-16bit-collection-data-east-vol-1.json](./97892-16bit-collection-data-east-vol-1.json) |
+| 16bit-Collection Jaleco Vol. 01 | 97895 | [97895-16bit-collection-jaleco-vol-01.json](./97895-16bit-collection-jaleco-vol-01.json) |
 | 17 Fighters | 183562 | [183562-17-fighters.json](./183562-17-fighters.json) |
 | 18 Minutes | 274757 | [274757-18-minutes.json](./274757-18-minutes.json) |
 | 18th Airborne | 299485 | [299485-18th-airborne.json](./299485-18th-airborne.json) |
@@ -263,6 +271,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 868-Hack: Plan.B | 143096 | [143096-868-hack-plan-b.json](./143096-868-hack-plan-b.json) |
 | 87 Aftermath: A Rolling Ball Game | 154563 | [154563-87-aftermath-a-rolling-ball-game.json](./154563-87-aftermath-a-rolling-ball-game.json) |
 | 8alloween | 320544 | [320544-8alloween.json](./320544-8alloween.json) |
+| 8bit-Collection Culture Brain Vol. 01 | 97881 | [97881-8bit-collection-culture-brain-vol-01.json](./97881-8bit-collection-culture-brain-vol-01.json) |
+| 8bit-Collection Data East Vol. 01 | 97886 | [97886-8bit-collection-data-east-vol-01.json](./97886-8bit-collection-data-east-vol-01.json) |
+| 8bit-Collection Jaleco Vol. 01 | 97885 | [97885-8bit-collection-jaleco-vol-01.json](./97885-8bit-collection-jaleco-vol-01.json) |
+| 8bit-Collection Jaleco Vol. 02 | 97884 | [97884-8bit-collection-jaleco-vol-02.json](./97884-8bit-collection-jaleco-vol-02.json) |
 | 8Floor Bundle 4 in 1 | 259835 | [259835-8floor-bundle-4-in-1.json](./259835-8floor-bundle-4-in-1.json) |
 | 8Floor Bundle 4 in 1 Part 7 | 338027 | [338027-8floor-bundle-4-in-1-part-7.json](./338027-8floor-bundle-4-in-1-part-7.json) |
 | 9 Black Boxes | 179163 | [179163-9-black-boxes.json](./179163-9-black-boxes.json) |
