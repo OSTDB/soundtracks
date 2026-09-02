@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Glide | 189186 | [189186-hard-glide.json](./189186-hard-glide.json) |
 | Hard Lads | 135305 | [135305-hard-lads.json](./135305-hard-lads.json) |
 | Hard Life | 219810 | [219810-hard-life.json](./219810-hard-life.json) |
+| Hard Rock Pinball | 133434 | [133434-hard-rock-pinball.json](./133434-hard-rock-pinball.json) |
 | Hard-Life | 219809 | [219809-hard-life.json](./219809-hard-life.json) |
 | HardBoiledFarm | 255967 | [255967-hardboiledfarm.json](./255967-hardboiledfarm.json) |
 | HardCop 2 | 156681 | [156681-hardcop-2.json](./156681-hardcop-2.json) |
@@ -227,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartstrings | 202371 | [202371-heartstrings.json](./202371-heartstrings.json) |
 | Heat Reborn | 140590 | [140590-heat-reborn.json](./140590-heat-reborn.json) |
 | Heat wave | 180850 | [180850-heat-wave.json](./180850-heat-wave.json) |
+| Heathrow International Air Traffic Control | 133440 | [133440-heathrow-international-air-traffic-control.json](./133440-heathrow-international-air-traffic-control.json) |
 | HeatStroke | 194629 | [194629-heatstroke.json](./194629-heatstroke.json) |
 | Heaven Impact | 301001 | [301001-heaven-impact.json](./301001-heaven-impact.json) |
 | Heaven Keepers | 192941 | [192941-heaven-keepers.json](./192941-heaven-keepers.json) |
