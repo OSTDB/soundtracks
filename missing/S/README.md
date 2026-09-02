@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seashine | 143091 | [143091-seashine.json](./143091-seashine.json) |
 | Seaway | 181901 | [181901-seaway.json](./181901-seaway.json) |
 | Seawolf + Missile | 139470 | [139470-seawolf-missile.json](./139470-seawolf-missile.json) |
+| Second Final | 120381 | [120381-second-final.json](./120381-second-final.json) |
 | Second Novel: Kanojo no Natsu, 15fun no Kioku | 138805 | [138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json](./138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json) |
 | Second Soul | 202407 | [202407-second-soul.json](./202407-second-soul.json) |
 | Second Thoughts | 203543 | [203543-second-thoughts.json](./203543-second-thoughts.json) |
@@ -478,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei Vertex | 142491 | [142491-shin-megami-tensei-vertex.json](./142491-shin-megami-tensei-vertex.json) |
 | Shin Megami Tensei: 20XX Devil's Colosseum | 137685 | [137685-shin-megami-tensei-20xx-devils-colosseum.json](./137685-shin-megami-tensei-20xx-devils-colosseum.json) |
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
+| Shine's Adventures 2 (Zombie Attack) | 120372 | [120372-shines-adventures-2-zombie-attack.json](./120372-shines-adventures-2-zombie-attack.json) |
 | Shine's Adventures 5: World of Box | 127318 | [127318-shines-adventures-5-world-of-box.json](./127318-shines-adventures-5-world-of-box.json) |
 | Shingata Kururin Pa! | 228065 | [228065-shingata-kururin-pa.json](./228065-shingata-kururin-pa.json) |
 | Shinies: Call of Light | 200167 | [200167-shinies-call-of-light.json](./200167-shinies-call-of-light.json) |
@@ -1138,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Baller | 133431 | [133431-space-baller.json](./133431-space-baller.json) |
 | Space Battle: Sea Battle | 264906 | [264906-space-battle-sea-battle.json](./264906-space-battle-sea-battle.json) |
 | Space Betrayers | 188068 | [188068-space-betrayers.json](./188068-space-betrayers.json) |
+| Space Bomb | 120417 | [120417-space-bomb.json](./120417-space-bomb.json) |
 | Space Bunny Explorers | 208596 | [208596-space-bunny-explorers.json](./208596-space-bunny-explorers.json) |
 | Space City: Build Your Empire | 199662 | [199662-space-city-build-your-empire.json](./199662-space-city-build-your-empire.json) |
 | Space Cobra RetPixMod | 178647 | [178647-space-cobra-retpixmod.json](./178647-space-cobra-retpixmod.json) |
@@ -1727,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Calm Bros. 3 | 214718 | [214718-super-calm-bros-3.json](./214718-super-calm-bros-3.json) |
 | Super Capsule Boy | 334508 | [334508-super-capsule-boy.json](./334508-super-capsule-boy.json) |
 | Super Chuck Norris Bros | 294428 | [294428-super-chuck-norris-bros.json](./294428-super-chuck-norris-bros.json) |
+| Super Clash Crossover | 120413 | [120413-super-clash-crossover.json](./120413-super-clash-crossover.json) |
 | Super Clown 3: Revenge | 223179 | [223179-super-clown-3-revenge.json](./223179-super-clown-3-revenge.json) |
 | Super Code Strike | 145014 | [145014-super-code-strike.json](./145014-super-code-strike.json) |
 | Super Collapse! Puzzle Gallery 2 | 201281 | [201281-super-collapse-puzzle-gallery-2.json](./201281-super-collapse-puzzle-gallery-2.json) |
