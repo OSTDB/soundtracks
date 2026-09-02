@@ -12,6 +12,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.T. the Extra-Terrestrial: Return to the Green Planet | 201276 | [201276-e-t-the-extra-terrestrial-return-to-the-green-planet.json](./201276-e-t-the-extra-terrestrial-return-to-the-green-planet.json) |
 | E.T. the Extra-Terrestrial: Venrom's Assault | 238198 | [238198-e-t-the-extra-terrestrial-venroms-assault.json](./238198-e-t-the-extra-terrestrial-venroms-assault.json) |
 | E.T.: The Extra-Terrestrial - Search for Dragora | 201277 | [201277-e-t-the-extra-terrestrial-search-for-dragora.json](./201277-e-t-the-extra-terrestrial-search-for-dragora.json) |
+| E's Laf | 135884 | [135884-es-laf.json](./135884-es-laf.json) |
+| E's Laf++ | 135903 | [135903-es-laf.json](./135903-es-laf.json) |
 | EA Replay 2 | 209176 | [209176-ea-replay-2.json](./209176-ea-replay-2.json) |
 | Eagle Knight Paradox | 217549 | [217549-eagle-knight-paradox.json](./217549-eagle-knight-paradox.json) |
 | Eagle: Special Forces | 333383 | [333383-eagle-special-forces.json](./333383-eagle-special-forces.json) |
@@ -234,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enherjar Synergy | 159880 | [159880-enherjar-synergy.json](./159880-enherjar-synergy.json) |
 | Enigmarella | 190223 | [190223-enigmarella.json](./190223-enigmarella.json) |
 | EnigmOn | 174328 | [174328-enigmon.json](./174328-enigmon.json) |
+| Enkan no Memo-ria: Kakera Tomoshi | 135858 | [135858-enkan-no-memo-ria-kakera-tomoshi.json](./135858-enkan-no-memo-ria-kakera-tomoshi.json) |
 | Enpitsu de Oku no Hosomichi DS | 269830 | [269830-enpitsu-de-oku-no-hosomichi-ds.json](./269830-enpitsu-de-oku-no-hosomichi-ds.json) |
 | Enraged | 189159 | [189159-enraged.json](./189159-enraged.json) |
 | Ensou | 141212 | [141212-ensou.json](./141212-ensou.json) |
