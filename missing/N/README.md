@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Slide Puzzle | 228106 | [228106-number-slide-puzzle.json](./228106-number-slide-puzzle.json) |
 | Number Wars | 193474 | [193474-number-wars.json](./193474-number-wars.json) |
 | Numeral Lord | 221426 | [221426-numeral-lord.json](./221426-numeral-lord.json) |
+| Numina | 141250 | [141250-numina.json](./141250-numina.json) |
 | Numolition | 239345 | [239345-numolition.json](./239345-numolition.json) |
 | Nump Jump | 213587 | [213587-nump-jump.json](./213587-nump-jump.json) |
 | Nurburgring-1 | 238207 | [238207-nurburgring-1.json](./238207-nurburgring-1.json) |
