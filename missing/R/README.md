@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Horror Story | 318213 | [318213-retro-horror-story.json](./318213-retro-horror-story.json) |
 | Retro II | 199082 | [199082-retro-ii.json](./199082-retro-ii.json) |
 | Retro RPG Online 2 | 124233 | [124233-retro-rpg-online-2.json](./124233-retro-rpg-online-2.json) |
+| Retro Snake Adventures | 107915 | [107915-retro-snake-adventures.json](./107915-retro-snake-adventures.json) |
 | Retro Synthesis | 109715 | [109715-retro-synthesis.json](./109715-retro-synthesis.json) |
 | Retro Tanks | 130960 | [130960-retro-tanks.json](./130960-retro-tanks.json) |
 | Retro Three Kingdoms: Special edition | 195251 | [195251-retro-three-kingdoms-special-edition.json](./195251-retro-three-kingdoms-special-edition.json) |
@@ -695,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Randy | 166778 | [166778-rogue-randy.json](./166778-rogue-randy.json) |
 | Rogue Survivalist | 277592 | [277592-rogue-survivalist.json](./277592-rogue-survivalist.json) |
 | Rogue Trooper Redux: Collector's Edition | 154524 | [154524-rogue-trooper-redux-collectors-edition.json](./154524-rogue-trooper-redux-collectors-edition.json) |
+| Roguelike Hero | 107898 | [107898-roguelike-hero.json](./107898-roguelike-hero.json) |
 | Rogueline | 209659 | [209659-rogueline.json](./209659-rogueline.json) |
 | RogueLive | 291769 | [291769-roguelive.json](./291769-roguelive.json) |
 | Roguesphere | 297227 | [297227-roguesphere.json](./297227-roguesphere.json) |
