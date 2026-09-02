@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omen Fall | 251805 | [251805-omen-fall.json](./251805-omen-fall.json) |
 | Omi Oh My AI | 215393 | [215393-omi-oh-my-ai.json](./215393-omi-oh-my-ai.json) |
 | Ominous | 273126 | [273126-ominous.json](./273126-ominous.json) |
+| Ominous Objects: Phantom Reflection HD | 102793 | [102793-ominous-objects-phantom-reflection-hd.json](./102793-ominous-objects-phantom-reflection-hd.json) |
 | Omise de Tensyu | 138249 | [138249-omise-de-tensyu.json](./138249-omise-de-tensyu.json) |
 | Omizu no Hanamichi | 257113 | [257113-omizu-no-hanamichi.json](./257113-omizu-no-hanamichi.json) |
 | Omniswarm | 183056 | [183056-omniswarm.json](./183056-omniswarm.json) |
