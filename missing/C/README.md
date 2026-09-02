@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calm Forest | 185135 | [185135-calm-forest.json](./185135-calm-forest.json) |
 | Calx | 203520 | [203520-calx.json](./203520-calx.json) |
 | Calyx | 331102 | [331102-calyx.json](./331102-calyx.json) |
+| Camelot | 141242 | [141242-camelot.json](./141242-camelot.json) |
 | Camelot 2: The Holy Grail | 247766 | [247766-camelot-2-the-holy-grail.json](./247766-camelot-2-the-holy-grail.json) |
 | CamGirls Inc | 202386 | [202386-camgirls-inc.json](./202386-camgirls-inc.json) |
 | Camp Lazlo: Jumping Jelly Beans | 314031 | [314031-camp-lazlo-jumping-jelly-beans.json](./314031-camp-lazlo-jumping-jelly-beans.json) |
@@ -808,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Raze | 320535 | [320535-cosmic-raze.json](./320535-cosmic-raze.json) |
 | Cosmic Reach | 292852 | [292852-cosmic-reach.json](./292852-cosmic-reach.json) |
 | Cosmic Robots | 301006 | [301006-cosmic-robots.json](./301006-cosmic-robots.json) |
+| Cosmic Tank | 141200 | [141200-cosmic-tank.json](./141200-cosmic-tank.json) |
 | Cosmic Zephyr DX | 159845 | [159845-cosmic-zephyr-dx.json](./159845-cosmic-zephyr-dx.json) |
 | Cosmo 02 | 165690 | [165690-cosmo-02.json](./165690-cosmo-02.json) |
 | Cosmo Race | 196335 | [196335-cosmo-race.json](./196335-cosmo-race.json) |
