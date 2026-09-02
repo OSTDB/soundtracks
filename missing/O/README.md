@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One-inch Tactics | 301574 | [301574-one-inch-tactics.json](./301574-one-inch-tactics.json) |
 | One-Thousand Cuts | 250001 | [250001-one-thousand-cuts.json](./250001-one-thousand-cuts.json) |
 | OneBit Frogger | 209651 | [209651-onebit-frogger.json](./209651-onebit-frogger.json) |
+| OneJump | 131619 | [131619-onejump.json](./131619-onejump.json) |
 | OneTale | 335690 | [335690-onetale.json](./335690-onetale.json) |
 | Ongaku Tsukuuru: Kanadeeru - Convert Data | 234892 | [234892-ongaku-tsukuuru-kanadeeru-convert-data.json](./234892-ongaku-tsukuuru-kanadeeru-convert-data.json) |
 | Oni Ama: Watashi ni Amaete, Onii-chan | 145052 | [145052-oni-ama-watashi-ni-amaete-onii-chan.json](./145052-oni-ama-watashi-ni-amaete-onii-chan.json) |
@@ -314,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osseous and Swordy | 263220 | [263220-osseous-and-swordy.json](./263220-osseous-and-swordy.json) |
 | Ostalgie: The Berlin Wall - Legacy of Hoxha | 172165 | [172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json](./172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json) |
 | Otaku's Rage: Waifu Strikes Back | 144368 | [144368-otakus-rage-waifu-strikes-back.json](./144368-otakus-rage-waifu-strikes-back.json) |
+| Othello de Othello DS | 131567 | [131567-othello-de-othello-ds.json](./131567-othello-de-othello-ds.json) |
 | Other Minds | 183051 | [183051-other-minds.json](./183051-other-minds.json) |
 | Otherside | 209129 | [209129-otherside.json](./209129-otherside.json) |
 | Otherworld Heroes | 208054 | [208054-otherworld-heroes.json](./208054-otherworld-heroes.json) |
@@ -358,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Dark Dimensions Collection | 308579 | [308579-outbreak-dark-dimensions-collection.json](./308579-outbreak-dark-dimensions-collection.json) |
 | Outbreak: The Fedora Files Desperate Struggle Collection | 338025 | [338025-outbreak-the-fedora-files-desperate-struggle-collection.json](./338025-outbreak-the-fedora-files-desperate-struggle-collection.json) |
 | Outbreak: The New Nightmare - Definitive Collection | 234305 | [234305-outbreak-the-new-nightmare-definitive-collection.json](./234305-outbreak-the-new-nightmare-definitive-collection.json) |
+| Outbrk | 131609 | [131609-outbrk.json](./131609-outbrk.json) |
 | Outcasts of Dungeon | 195191 | [195191-outcasts-of-dungeon.json](./195191-outcasts-of-dungeon.json) |
 | Outdo IO: Alphabet Letter | 237632 | [237632-outdo-io-alphabet-letter.json](./237632-outdo-io-alphabet-letter.json) |
 | Outdoors Unlimited | 137088 | [137088-outdoors-unlimited.json](./137088-outdoors-unlimited.json) |
