@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Infinity | 202366 | [202366-silent-infinity.json](./202366-silent-infinity.json) |
 | Silent Seeker | 209159 | [209159-silent-seeker.json](./209159-silent-seeker.json) |
 | Silent Threat | 311259 | [311259-silent-threat.json](./311259-silent-threat.json) |
+| Silentium 2D | 106578 | [106578-silentium-2d.json](./106578-silentium-2d.json) |
 | Silhouette Stories | 198550 | [198550-silhouette-stories.json](./198550-silhouette-stories.json) |
 | SilhouetteGirl Zan | 233219 | [233219-silhouettegirl-zan.json](./233219-silhouettegirl-zan.json) |
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
@@ -770,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyOfSteel | 177017 | [177017-skyofsteel.json](./177017-skyofsteel.json) |
 | Skyward | 117099 | [117099-skyward.json](./117099-skyward.json) |
 | Skyweaver | 123039 | [123039-skyweaver.json](./123039-skyweaver.json) |
+| Slam Dunk - The best basketball game 2018 | 106631 | [106631-slam-dunk-the-best-basketball-game-2018.json](./106631-slam-dunk-the-best-basketball-game-2018.json) |
 | Slamslide | 183594 | [183594-slamslide.json](./183594-slamslide.json) |
 | Slap Circle | 237644 | [237644-slap-circle.json](./237644-slap-circle.json) |
 | Slap That | 311263 | [311263-slap-that.json](./311263-slap-that.json) |
@@ -818,9 +820,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Shoot | 312329 | [312329-slime-shoot.json](./312329-slime-shoot.json) |
 | Slime Smasher EX | 213645 | [213645-slime-smasher-ex.json](./213645-slime-smasher-ex.json) |
 | Slime Survivors | 304878 | [304878-slime-survivors.json](./304878-slime-survivors.json) |
+| Slime Time! | 106591 | [106591-slime-time.json](./106591-slime-time.json) |
 | Slimefrog | 167821 | [167821-slimefrog.json](./167821-slimefrog.json) |
 | Slimegeon | 254145 | [254145-slimegeon.json](./254145-slimegeon.json) |
 | Slimey Champions | 166770 | [166770-slimey-champions.json](./166770-slimey-champions.json) |
+| Slimy Snail Ride | 106571 | [106571-slimy-snail-ride.json](./106571-slimy-snail-ride.json) |
 | Sling Kings: Supercharged Chess | 236020 | [236020-sling-kings-supercharged-chess.json](./236020-sling-kings-supercharged-chess.json) |
 | Slinger | 255955 | [255955-slinger.json](./255955-slinger.json) |
 | Slingshot Rush | 253008 | [253008-slingshot-rush.json](./253008-slingshot-rush.json) |
@@ -881,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Story: Love Edition | 193500 | [193500-snail-story-love-edition.json](./193500-snail-story-love-edition.json) |
 | Snail's Knock Out! | 301021 | [301021-snails-knock-out.json](./301021-snails-knock-out.json) |
 | Snake 2 DX: Reawakening | 171624 | [171624-snake-2-dx-reawakening.json](./171624-snake-2-dx-reawakening.json) |
+| Snake Bricks-Bounce Balls | 106569 | [106569-snake-bricks-bounce-balls.json](./106569-snake-bricks-bounce-balls.json) |
 | Snake Neon Online | 209685 | [209685-snake-neon-online.json](./209685-snake-neon-online.json) |
 | Snake Quest | 261517 | [261517-snake-quest.json](./261517-snake-quest.json) |
 | Snake: The Elder Forest | 122415 | [122415-snake-the-elder-forest.json](./122415-snake-the-elder-forest.json) |
@@ -888,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnakeBird NES | 228690 | [228690-snakebird-nes.json](./228690-snakebird-nes.json) |
 | SnakeByte | 193470 | [193470-snakebyte.json](./193470-snakebyte.json) |
 | Snakes & Ladders | 147984 | [147984-snakes-and-ladders.json](./147984-snakes-and-ladders.json) |
+| Snakes and Ladders | 106570 | [106570-snakes-and-ladders.json](./106570-snakes-and-ladders.json) |
 | Snakes LTD | 265921 | [265921-snakes-ltd.json](./265921-snakes-ltd.json) |
 | Snap the Sentinel | 141867 | [141867-snap-the-sentinel.json](./141867-snap-the-sentinel.json) |
 | SnaPaul | 332828 | [332828-snapaul.json](./332828-snapaul.json) |
