@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tainted Gun | 208597 | [208597-tainted-gun.json](./208597-tainted-gun.json) |
 | Taipei Metro Quest | 178664 | [178664-taipei-metro-quest.json](./178664-taipei-metro-quest.json) |
 | Taipei Midsummer Night's Dream | 339104 | [339104-taipei-midsummer-nights-dream.json](./339104-taipei-midsummer-nights-dream.json) |
+| Taisho Zombi Roman (Plus) | 150657 | [150657-taisho-zombi-roman-plus.json](./150657-taisho-zombi-roman-plus.json) |
 | Taiyo No Miyako | 221422 | [221422-taiyo-no-miyako.json](./221422-taiyo-no-miyako.json) |
 | Taiyou no Tenshi Marlowe: Ohanabatake ha Dai-Panic! | 331117 | [331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json](./331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json) |
 | Tak: The Great Juju Challenge | 210254 | [210254-tak-the-great-juju-challenge.json](./210254-tak-the-great-juju-challenge.json) |
@@ -744,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Masked Prisoner | 217000 | [217000-the-masked-prisoner.json](./217000-the-masked-prisoner.json) |
 | The Mating Season | 218141 | [218141-the-mating-season.json](./218141-the-mating-season.json) |
 | The Matriarch | 188686 | [188686-the-matriarch.json](./188686-the-matriarch.json) |
+| The Maze Escaper | 150700 | [150700-the-maze-escaper.json](./150700-the-maze-escaper.json) |
 | The Medium: Deluxe Edition | 154537 | [154537-the-medium-deluxe-edition.json](./154537-the-medium-deluxe-edition.json) |
 | The Meme Hunter | 238745 | [238745-the-meme-hunter.json](./238745-the-meme-hunter.json) |
 | The Midnight Park | 183066 | [183066-the-midnight-park.json](./183066-the-midnight-park.json) |
@@ -1531,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tourist Bus Simulator: W906 | 168893 | [168893-tourist-bus-simulator-w906.json](./168893-tourist-bus-simulator-w906.json) |
 | Tournament of Tamers | 157168 | [157168-tournament-of-tamers.json](./157168-tournament-of-tamers.json) |
 | Toushin Toshi Girls Gift RPG | 175943 | [175943-toushin-toshi-girls-gift-rpg.json](./175943-toushin-toshi-girls-gift-rpg.json) |
+| Towards the Stars | 150689 | [150689-towards-the-stars.json](./150689-towards-the-stars.json) |
 | Towel Required! | 223667 | [223667-towel-required.json](./223667-towel-required.json) |
 | Tower Escape | 204105 | [204105-tower-escape.json](./204105-tower-escape.json) |
 | Tower of Alos | 262095 | [262095-tower-of-alos.json](./262095-tower-of-alos.json) |
