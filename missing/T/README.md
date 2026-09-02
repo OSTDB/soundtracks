@@ -1063,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Square Game | 130377 | [130377-the-square-game.json](./130377-the-square-game.json) |
 | The Sticky Plan | 183577 | [183577-the-sticky-plan.json](./183577-the-sticky-plan.json) |
 | The Stone of God | 165659 | [165659-the-stone-of-god.json](./165659-the-stone-of-god.json) |
+| The Story of King Aress | 125464 | [125464-the-story-of-king-aress.json](./125464-the-story-of-king-aress.json) |
 | The StoryTeller | 324670 | [324670-the-storyteller.json](./324670-the-storyteller.json) |
 | The Stray Laboratory | 302668 | [302668-the-stray-laboratory.json](./302668-the-stray-laboratory.json) |
 | The Strongest Ancestor | 301614 | [301614-the-strongest-ancestor.json](./301614-the-strongest-ancestor.json) |
@@ -1166,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Visitors | 130969 | [130969-the-visitors.json](./130969-the-visitors.json) |
 | The Voice of Germany: Das offizielle Videospiel! | 332829 | [332829-the-voice-of-germany-das-offizielle-videospiel.json](./332829-the-voice-of-germany-das-offizielle-videospiel.json) |
 | The Voices Games 2D Collection | 208590 | [208590-the-voices-games-2d-collection.json](./208590-the-voices-games-2d-collection.json) |
+| The Volcano | 125463 | [125463-the-volcano.json](./125463-the-volcano.json) |
 | The Vomit | 323535 | [323535-the-vomit.json](./323535-the-vomit.json) |
 | The VR Canyon | 126660 | [126660-the-vr-canyon.json](./126660-the-vr-canyon.json) |
 | The Walking Dead: Last Mile | 209152 | [209152-the-walking-dead-last-mile.json](./209152-the-walking-dead-last-mile.json) |
@@ -1863,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped in a Cage | 267067 | [267067-trapped-in-a-cage.json](./267067-trapped-in-a-cage.json) |
 | Trapped Summoner: Taigren's Secrets | 172194 | [172194-trapped-summoner-taigrens-secrets.json](./172194-trapped-summoner-taigrens-secrets.json) |
 | Traps in Space | 142482 | [142482-traps-in-space.json](./142482-traps-in-space.json) |
+| Trash Bandits | 125430 | [125430-trash-bandits.json](./125430-trash-bandits.json) |
 | Trash Horror Collection | 204091 | [204091-trash-horror-collection.json](./204091-trash-horror-collection.json) |
 | Trash is Fun | 153997 | [153997-trash-is-fun.json](./153997-trash-is-fun.json) |
 | Trash Panda: The Adventures of Ricky and Boxman | 226433 | [226433-trash-panda-the-adventures-of-ricky-and-boxman.json](./226433-trash-panda-the-adventures-of-ricky-and-boxman.json) |
