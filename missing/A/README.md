@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Us: Crewmate Edition | 155093 | [155093-among-us-crewmate-edition.json](./155093-among-us-crewmate-edition.json) |
 | Among Us: Ejected Edition | 155092 | [155092-among-us-ejected-edition.json](./155092-among-us-ejected-edition.json) |
 | Among Us: Impostor Edition | 155094 | [155094-among-us-impostor-edition.json](./155094-among-us-impostor-edition.json) |
+| Amorphous | 128658 | [128658-amorphous.json](./128658-amorphous.json) |
 | Amour Libre: Free Love | 129794 | [129794-amour-libre-free-love.json](./129794-amour-libre-free-love.json) |
 | Ampguard | 188678 | [188678-ampguard.json](./188678-ampguard.json) |
 | AMseven | 336390 | [336390-amseven.json](./336390-amseven.json) |
@@ -1037,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Reality | 231612 | [231612-attack-on-reality.json](./231612-attack-on-reality.json) |
 | Attack: Helicopter Simulator 2020 | 171077 | [171077-attack-helicopter-simulator-2020.json](./171077-attack-helicopter-simulator-2020.json) |
 | Attorney of the Arcane | 241048 | [241048-attorney-of-the-arcane.json](./241048-attorney-of-the-arcane.json) |
+| Atum | 128624 | [128624-atum.json](./128624-atum.json) |
 | Auraboros | 181358 | [181358-auraboros.json](./181358-auraboros.json) |
 | Aural to Hikari no Ryuu: Gathering Light | 327602 | [327602-aural-to-hikari-no-ryuu-gathering-light.json](./327602-aural-to-hikari-no-ryuu-gathering-light.json) |
 | Aurora: Weather Warfare | 129207 | [129207-aurora-weather-warfare.json](./129207-aurora-weather-warfare.json) |
