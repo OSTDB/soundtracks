@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yongbi M | 208061 | [208061-yongbi-m.json](./208061-yongbi-m.json) |
 | Yooka-Laylee and the Impossible Lair: Digital Deluxe Edition | 154557 | [154557-yooka-laylee-and-the-impossible-lair-digital-deluxe-edition.json](./154557-yooka-laylee-and-the-impossible-lair-digital-deluxe-edition.json) |
 | Yooka-Laylee: Buddy Duo Pack | 154556 | [154556-yooka-laylee-buddy-duo-pack.json](./154556-yooka-laylee-buddy-duo-pack.json) |
+| Yorg | 121719 | [121719-yorg.json](./121719-yorg.json) |
 | Yoshi Racing | 175959 | [175959-yoshi-racing.json](./175959-yoshi-racing.json) |
 | Yoshi's Mix-Up | 231652 | [231652-yoshis-mix-up.json](./231652-yoshis-mix-up.json) |
 | You Are Peter Shorts | 248919 | [248919-you-are-peter-shorts.json](./248919-you-are-peter-shorts.json) |
@@ -70,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Waifu Juice | 216478 | [216478-your-waifu-juice.json](./216478-your-waifu-juice.json) |
 | Yours Truly | 199134 | [199134-yours-truly.json](./199134-yours-truly.json) |
 | Youso Warriors | 166208 | [166208-youso-warriors.json](./166208-youso-warriors.json) |
+| Youth Feather | 121705 | [121705-youth-feather.json](./121705-youth-feather.json) |
 | Youyou Kengeki Musou | 137062 | [137062-youyou-kengeki-musou.json](./137062-youyou-kengeki-musou.json) |
 | YRek Lost In Portals | 166757 | [166757-yrek-lost-in-portals.json](./166757-yrek-lost-in-portals.json) |
 | Ys III: Wanderers from Ys | 201313 | [201313-ys-iii-wanderers-from-ys.json](./201313-ys-iii-wanderers-from-ys.json) |
