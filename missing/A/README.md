@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Doodle Fly | 241045 | [241045-a-doodle-fly.json](./241045-a-doodle-fly.json) |
 | A Dream of Silence | 317637 | [317637-a-dream-of-silence.json](./317637-a-dream-of-silence.json) |
 | A Factory Job | 192455 | [192455-a-factory-job.json](./192455-a-factory-job.json) |
+| A Feeble Saga | 126043 | [126043-a-feeble-saga.json](./126043-a-feeble-saga.json) |
 | A Fistful of Doom | 140047 | [140047-a-fistful-of-doom.json](./140047-a-fistful-of-doom.json) |
 | A Forever Solitude | 211396 | [211396-a-forever-solitude.json](./211396-a-forever-solitude.json) |
 | A Fox Tale | 142477 | [142477-a-fox-tale.json](./142477-a-fox-tale.json) |
@@ -1109,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayakashi & Sweets | 298879 | [298879-ayakashi-and-sweets.json](./298879-ayakashi-and-sweets.json) |
 | Ayakashi Rumble | 208034 | [208034-ayakashi-rumble.json](./208034-ayakashi-rumble.json) |
 | Ayda | 317604 | [317604-ayda.json](./317604-ayda.json) |
+| Aye Fair Lady | 126019 | [126019-aye-fair-lady.json](./126019-aye-fair-lady.json) |
 | Ayu: The Dream Soul | 149098 | [149098-ayu-the-dream-soul.json](./149098-ayu-the-dream-soul.json) |
 | Azazel | 170020 | [170020-azazel.json](./170020-azazel.json) |
 | Aznana | 151729 | [151729-aznana.json](./151729-aznana.json) |
