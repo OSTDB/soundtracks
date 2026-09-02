@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie New Horizons | 135260 | [135260-banjo-kazooie-new-horizons.json](./135260-banjo-kazooie-new-horizons.json) |
 | Banjo-Kazooie Worlds Collide | 135259 | [135259-banjo-kazooie-worlds-collide.json](./135259-banjo-kazooie-worlds-collide.json) |
 | Bankruptcy | 292283 | [292283-bankruptcy.json](./292283-bankruptcy.json) |
+| Banshiryuu | 123606 | [123606-banshiryuu.json](./123606-banshiryuu.json) |
 | Bansoko | 179193 | [179193-bansoko.json](./179193-bansoko.json) |
 | Banui Moheom: Idle RPG | 219781 | [219781-banui-moheom-idle-rpg.json](./219781-banui-moheom-idle-rpg.json) |
 | Banzai Escape 2: Subterranean - KTactical | 297781 | [297781-banzai-escape-2-subterranean-ktactical.json](./297781-banzai-escape-2-subterranean-ktactical.json) |
@@ -533,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasphemous Experiments | 268723 | [268723-blasphemous-experiments.json](./268723-blasphemous-experiments.json) |
 | Blasphemous II: Mea Culpa | 317595 | [317595-blasphemous-ii-mea-culpa.json](./317595-blasphemous-ii-mea-culpa.json) |
 | Blast Bots | 194022 | [194022-blast-bots.json](./194022-blast-bots.json) |
+| Blast Force | 123616 | [123616-blast-force.json](./123616-blast-force.json) |
 | Blast It | 245549 | [245549-blast-it.json](./245549-blast-it.json) |
 | Blast Royale | 231621 | [231621-blast-royale.json](./231621-blast-royale.json) |
 | Blastarock! | 196842 | [196842-blastarock.json](./196842-blastarock.json) |
@@ -693,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombproof Bob | 241612 | [241612-bombproof-bob.json](./241612-bombproof-bob.json) |
 | Bombs Away! | 245548 | [245548-bombs-away.json](./245548-bombs-away.json) |
 | Bombshell Barista: Speed Dating | 258195 | [258195-bombshell-barista-speed-dating.json](./258195-bombshell-barista-speed-dating.json) |
+| Bombyx | 123639 | [123639-bombyx.json](./123639-bombyx.json) |
 | Bonds of the Skies | 210264 | [210264-bonds-of-the-skies.json](./210264-bonds-of-the-skies.json) |
 | Bondstones | 302696 | [302696-bondstones.json](./302696-bondstones.json) |
 | Bone Mayhem | 146877 | [146877-bone-mayhem.json](./146877-bone-mayhem.json) |
