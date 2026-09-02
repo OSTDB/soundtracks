@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Into You | 218165 | [218165-falling-into-you.json](./218165-falling-into-you.json) |
 | Falling Kwadrats | 179203 | [179203-falling-kwadrats.json](./179203-falling-kwadrats.json) |
 | Falling Up | 134678 | [134678-falling-up.json](./134678-falling-up.json) |
+| Fallout 76: Platinum Edition | 111060 | [111060-fallout-76-platinum-edition.json](./111060-fallout-76-platinum-edition.json) |
 | Fallout 76: Season 11 - Nuka-World | 232689 | [232689-fallout-76-season-11-nuka-world.json](./232689-fallout-76-season-11-nuka-world.json) |
 | Fallout 76: Wild Appalachia | 115713 | [115713-fallout-76-wild-appalachia.json](./115713-fallout-76-wild-appalachia.json) |
 | Falnarion Tactics: Oathbreaker | 158730 | [158730-falnarion-tactics-oathbreaker.json](./158730-falnarion-tactics-oathbreaker.json) |
@@ -246,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Glory II: Rise of Persia | 124818 | [124818-field-of-glory-ii-rise-of-persia.json](./124818-field-of-glory-ii-rise-of-persia.json) |
 | Fierce Allies | 237667 | [237667-fierce-allies.json](./237667-fierce-allies.json) |
 | Fierce Tales: Feline Sight | 123637 | [123637-fierce-tales-feline-sight.json](./123637-fierce-tales-feline-sight.json) |
+| FIFA 19: Ultimate Edition | 111047 | [111047-fifa-19-ultimate-edition.json](./111047-fifa-19-ultimate-edition.json) |
 | FIFA 22: Legacy Edition | 155102 | [155102-fifa-22-legacy-edition.json](./155102-fifa-22-legacy-edition.json) |
 | FIFA 22: Ultimate Edition | 155101 | [155101-fifa-22-ultimate-edition.json](./155101-fifa-22-ultimate-edition.json) |
 | FIFA Soccer 2003 | 229956 | [229956-fifa-soccer-2003.json](./229956-fifa-soccer-2003.json) |
