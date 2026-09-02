@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kikokugai | 232662 | [232662-kikokugai.json](./232662-kikokugai.json) |
 | KilaFlow | 265955 | [265955-kilaflow.json](./265955-kilaflow.json) |
 | Kill Barney in Tokyo | 325818 | [325818-kill-barney-in-tokyo.json](./325818-kill-barney-in-tokyo.json) |
+| Kill Dad | 126034 | [126034-kill-dad.json](./126034-kill-dad.json) |
 | Kill Invaders | 278714 | [278714-kill-invaders.json](./278714-kill-invaders.json) |
 | Kill Me If You Can | 292293 | [292293-kill-me-if-you-can.json](./292293-kill-me-if-you-can.json) |
 | Kill the Barney | 325819 | [325819-kill-the-barney.json](./325819-kill-the-barney.json) |
