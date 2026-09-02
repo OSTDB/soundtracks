@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Shades of Gay | 165025 | [165025-furry-shades-of-gay.json](./165025-furry-shades-of-gay.json) |
 | Furry Striptease | 215899 | [215899-furry-striptease.json](./215899-furry-striptease.json) |
 | Furry Superstar | 213007 | [213007-furry-superstar.json](./213007-furry-superstar.json) |
+| Furs of Fury | 149049 | [149049-furs-of-fury.json](./149049-furs-of-fury.json) |
 | Further | 291743 | [291743-further.json](./291743-further.json) |
 | Further Still: Survivors | 213006 | [213006-further-still-survivors.json](./213006-further-still-survivors.json) |
 | FuryFury | 234910 | [234910-furyfury.json](./234910-furyfury.json) |
