@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Nation | 210250 | [210250-ant-nation.json](./210250-ant-nation.json) |
 | Ant Simulator | 171046 | [171046-ant-simulator.json](./171046-ant-simulator.json) |
 | Anthology of the Killer | 268731 | [268731-anthology-of-the-killer.json](./268731-anthology-of-the-killer.json) |
+| Anti Terrorist Rush 2 | 116342 | [116342-anti-terrorist-rush-2.json](./116342-anti-terrorist-rush-2.json) |
 | Anti-Jump-Man | 130374 | [130374-anti-jump-man.json](./130374-anti-jump-man.json) |
 | Anti-Nightmare Master Plan | 211435 | [211435-anti-nightmare-master-plan.json](./211435-anti-nightmare-master-plan.json) |
 | Antiban | 302664 | [302664-antiban.json](./302664-antiban.json) |
