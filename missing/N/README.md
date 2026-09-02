@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niji-iro Canvas | 109003 | [109003-niji-iro-canvas.json](./109003-niji-iro-canvas.json) |
 | Nikka: Rise | 235486 | [235486-nikka-rise.json](./235486-nikka-rise.json) |
 | Nilia | 146898 | [146898-nilia.json](./146898-nilia.json) |
+| Nim | 100217 | [100217-nim.json](./100217-nim.json) |
 | Nimbit Frontier | 258173 | [258173-nimbit-frontier.json](./258173-nimbit-frontier.json) |
 | Nina Aquila: Legal Eagle | 134657 | [134657-nina-aquila-legal-eagle.json](./134657-nina-aquila-legal-eagle.json) |
 | Nina Aquila: Legal Eagle, Chapter II - Broken Wings | 134658 | [134658-nina-aquila-legal-eagle-chapter-ii-broken-wings.json](./134658-nina-aquila-legal-eagle-chapter-ii-broken-wings.json) |
@@ -321,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Worlds | 150659 | [150659-nine-worlds.json](./150659-nine-worlds.json) |
 | Nineteen | 128654 | [128654-nineteen.json](./128654-nineteen.json) |
 | Ningen Maru | 178677 | [178677-ningen-maru.json](./178677-ningen-maru.json) |
+| Ninja Ball | 100192 | [100192-ninja-ball.json](./100192-ninja-ball.json) |
 | Ninja Break | 203559 | [203559-ninja-break.json](./203559-ninja-break.json) |
 | Ninja Chicken 2 | 233763 | [233763-ninja-chicken-2.json](./233763-ninja-chicken-2.json) |
 | Ninja Code | 110362 | [110362-ninja-code.json](./110362-ninja-code.json) |
