@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eko | 223673 | [223673-eko.json](./223673-eko.json) |
 | El Chavo | 331122 | [331122-el-chavo.json](./331122-el-chavo.json) |
 | El Dorado | 312880 | [312880-el-dorado.json](./312880-el-dorado.json) |
+| El Hincha Rusia 2018 | 104053 | [104053-el-hincha-rusia-2018.json](./104053-el-hincha-rusia-2018.json) |
 | El Internado Laguna Negra | 144305 | [144305-el-internado-laguna-negra.json](./144305-el-internado-laguna-negra.json) |
 | El Ladrón del Tiempo | 321134 | [321134-el-ladron-del-tiempo.json](./321134-el-ladron-del-tiempo.json) |
 | El Narco | 321170 | [321170-el-narco.json](./321170-el-narco.json) |
