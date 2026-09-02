@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 137E0 Action 1 Steak | 234303 | [234303-137e0-action-1-steak.json](./234303-137e0-action-1-steak.json) |
 | 13Z | 301031 | [301031-13z.json](./301031-13z.json) |
 | 1428: Shadows over Silesia - Deluxe Edition | 246634 | [246634-1428-shadows-over-silesia-deluxe-edition.json](./246634-1428-shadows-over-silesia-deluxe-edition.json) |
+| 1500 DS Spirits Vol. 4: Reversi | 100196 | [100196-1500-ds-spirits-vol-4-reversi.json](./100196-1500-ds-spirits-vol-4-reversi.json) |
 | 15th Prison | 316431 | [316431-15th-prison.json](./316431-15th-prison.json) |
 | 16 Planes:Return | 112980 | [112980-16-planes-return.json](./112980-16-planes-return.json) |
 | 16 Tales: Vol. 2 | 143075 | [143075-16-tales-vol-2.json](./143075-16-tales-vol-2.json) |
@@ -265,3 +266,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9Shot | 301034 | [301034-9shot.json](./301034-9shot.json) |
 | Ānquán Jiàoyù | 102177 | [102177-anquan-jiaoyu.json](./102177-anquan-jiaoyu.json) |
 | Àrengard: Invasion | 228081 | [228081-arengard-invasion.json](./228081-arengard-invasion.json) |
+| 一>◇ | 100203 | [100203-.json](./100203-.json) |
