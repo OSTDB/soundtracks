@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Kind To Yourself | 328241 | [328241-be-kind-to-yourself.json](./328241-be-kind-to-yourself.json) |
 | Be King | 254142 | [254142-be-king.json](./254142-be-king.json) |
 | Be Like Pac-Man and the Ghostly Adventures | 185672 | [185672-be-like-pac-man-and-the-ghostly-adventures.json](./185672-be-like-pac-man-and-the-ghostly-adventures.json) |
+| Be the Ruler: Britannia | 112987 | [112987-be-the-ruler-britannia.json](./112987-be-the-ruler-britannia.json) |
 | BE Witches | 157163 | [157163-be-witches.json](./157163-be-witches.json) |
 | Be Yourself | 318234 | [318234-be-yourself.json](./318234-be-yourself.json) |
 | Beach Festival World Championship 1997 | 255362 | [255362-beach-festival-world-championship-1997.json](./255362-beach-festival-world-championship-1997.json) |
