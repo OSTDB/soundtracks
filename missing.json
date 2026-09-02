@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T00:48:13.277Z",
-  "total_missing": 16362,
+  "generated_at": "2026-09-02T01:03:06.155Z",
+  "total_missing": 16412,
   "games": [
     {
       "igdb_id": 306086,
@@ -1246,6 +1246,11 @@
       "igdb_id": 293930,
       "game_name": "A Gruta de Maquiné",
       "file": "missing/A/293930-a-gruta-de-maquine.json"
+    },
+    {
+      "igdb_id": 149085,
+      "game_name": "A Guidebook of Babel",
+      "file": "missing/A/149085-a-guidebook-of-babel.json"
     },
     {
       "igdb_id": 206356,
@@ -5273,6 +5278,11 @@
       "file": "missing/A/176506-astero-inc.json"
     },
     {
+      "igdb_id": 149089,
+      "game_name": "Asteroad",
+      "file": "missing/A/149089-asteroad.json"
+    },
+    {
       "igdb_id": 297790,
       "game_name": "Asteroid Jungle",
       "file": "missing/A/297790-asteroid-jungle.json"
@@ -5916,6 +5926,11 @@
       "igdb_id": 317604,
       "game_name": "Ayda",
       "file": "missing/A/317604-ayda.json"
+    },
+    {
+      "igdb_id": 149098,
+      "game_name": "Ayu: The Dream Soul",
+      "file": "missing/A/149098-ayu-the-dream-soul.json"
     },
     {
       "igdb_id": 170020,
@@ -7911,6 +7926,11 @@
       "igdb_id": 231623,
       "game_name": "Bill Bounce",
       "file": "missing/B/231623-bill-bounce.json"
+    },
+    {
+      "igdb_id": 149079,
+      "game_name": "Billiards Dungeon",
+      "file": "missing/B/149079-billiards-dungeon.json"
     },
     {
       "igdb_id": 153437,
@@ -14201,6 +14221,11 @@
       "igdb_id": 291251,
       "game_name": "Corridor Maze: Home Cleanup",
       "file": "missing/C/291251-corridor-maze-home-cleanup.json"
+    },
+    {
+      "igdb_id": 149093,
+      "game_name": "Corridors of Their Memories",
+      "file": "missing/C/149093-corridors-of-their-memories.json"
     },
     {
       "igdb_id": 219302,
@@ -20688,6 +20713,11 @@
       "file": "missing/E/223680-eldritchvania.json"
     },
     {
+      "igdb_id": 149082,
+      "game_name": "Ele-Mental",
+      "file": "missing/E/149082-ele-mental.json"
+    },
+    {
       "igdb_id": 331720,
       "game_name": "Elect",
       "file": "missing/E/331720-elect.json"
@@ -25883,6 +25913,11 @@
       "file": "missing/F/213007-furry-superstar.json"
     },
     {
+      "igdb_id": 149049,
+      "game_name": "Furs of Fury",
+      "file": "missing/F/149049-furs-of-fury.json"
+    },
+    {
       "igdb_id": 291743,
       "game_name": "Further",
       "file": "missing/F/291743-further.json"
@@ -27121,6 +27156,11 @@
       "igdb_id": 219796,
       "game_name": "Girls! Girls! Girls!?",
       "file": "missing/G/219796-girls-girls-girls.json"
+    },
+    {
+      "igdb_id": 149096,
+      "game_name": "GiseiHero",
+      "file": "missing/G/149096-giseihero.json"
     },
     {
       "igdb_id": 290682,
@@ -29866,6 +29906,11 @@
       "igdb_id": 183074,
       "game_name": "Hedon Bloodrite",
       "file": "missing/H/183074-hedon-bloodrite.json"
+    },
+    {
+      "igdb_id": 149095,
+      "game_name": "Hedrons",
+      "file": "missing/H/149095-hedrons.json"
     },
     {
       "igdb_id": 274179,
@@ -33291,6 +33336,11 @@
       "igdb_id": 274187,
       "game_name": "Insertion",
       "file": "missing/I/274187-insertion.json"
+    },
+    {
+      "igdb_id": 149090,
+      "game_name": "Inside My Mind",
+      "file": "missing/I/149090-inside-my-mind.json"
     },
     {
       "igdb_id": 175936,
@@ -36993,6 +37043,11 @@
       "file": "missing/L/299442-le-gars-qui-a-fait-doom.json"
     },
     {
+      "igdb_id": 149087,
+      "game_name": "Leaf on Wind",
+      "file": "missing/L/149087-leaf-on-wind.json"
+    },
+    {
       "igdb_id": 152350,
       "game_name": "League of Champions Soccer",
       "file": "missing/L/152350-league-of-champions-soccer.json"
@@ -37548,6 +37603,11 @@
       "file": "missing/L/296097-letter-boxed.json"
     },
     {
+      "igdb_id": 149084,
+      "game_name": "Letter Vetter",
+      "file": "missing/L/149084-letter-vetter.json"
+    },
+    {
       "igdb_id": 242795,
       "game_name": "Letteral",
       "file": "missing/L/242795-letteral.json"
@@ -38056,6 +38116,11 @@
       "igdb_id": 333951,
       "game_name": "Little Library",
       "file": "missing/L/333951-little-library.json"
+    },
+    {
+      "igdb_id": 149097,
+      "game_name": "Little Lives",
+      "file": "missing/L/149097-little-lives.json"
     },
     {
       "igdb_id": 300385,
@@ -44938,6 +45003,11 @@
       "file": "missing/M/202950-mystical-chain.json"
     },
     {
+      "igdb_id": 149083,
+      "game_name": "Mystical Echoes",
+      "file": "missing/M/149083-mystical-echoes.json"
+    },
+    {
       "igdb_id": 341353,
       "game_name": "Mystical Mushrooms",
       "file": "missing/M/341353-mystical-mushrooms.json"
@@ -48783,6 +48853,11 @@
       "file": "missing/O/262662-outrage-fight-fest.json"
     },
     {
+      "igdb_id": 149086,
+      "game_name": "Outright",
+      "file": "missing/O/149086-outright.json"
+    },
+    {
       "igdb_id": 307917,
       "game_name": "OutRun",
       "file": "missing/O/307917-outrun.json"
@@ -51113,6 +51188,11 @@
       "file": "missing/P/220876-pixel-artist.json"
     },
     {
+      "igdb_id": 149088,
+      "game_name": "Pixel Combat",
+      "file": "missing/P/149088-pixel-combat.json"
+    },
+    {
       "igdb_id": 234320,
       "game_name": "Pixel Drifters",
       "file": "missing/P/234320-pixel-drifters.json"
@@ -52136,6 +52216,11 @@
       "igdb_id": 173290,
       "game_name": "Poly Racing",
       "file": "missing/P/173290-poly-racing.json"
+    },
+    {
+      "igdb_id": 149076,
+      "game_name": "Poly Squad",
+      "file": "missing/P/149076-poly-squad.json"
     },
     {
       "igdb_id": 270946,
@@ -60888,6 +60973,11 @@
       "file": "missing/S/306066-skylark-64.json"
     },
     {
+      "igdb_id": 149050,
+      "game_name": "SkyLife: VoxelSurvival",
+      "file": "missing/S/149050-skylife-voxelsurvival.json"
+    },
+    {
       "igdb_id": 177017,
       "game_name": "SkyOfSteel",
       "file": "missing/S/177017-skyofsteel.json"
@@ -61751,6 +61841,11 @@
       "igdb_id": 170532,
       "game_name": "Solar Conqueror",
       "file": "missing/S/170532-solar-conqueror.json"
+    },
+    {
+      "igdb_id": 149056,
+      "game_name": "Solar Echoes: The Star Legation",
+      "file": "missing/S/149056-solar-echoes-the-star-legation.json"
     },
     {
       "igdb_id": 295568,
@@ -67453,6 +67548,141 @@
       "file": "missing/T/167858-talesshop-puzzle-jugeobeorin-byeorui-neokduri-dummy.json"
     },
     {
+      "igdb_id": 149053,
+      "game_name": "Talisman: Digital Edition - Apprentice Mage",
+      "file": "missing/T/149053-talisman-digital-edition-apprentice-mage.json"
+    },
+    {
+      "igdb_id": 149069,
+      "game_name": "Talisman: Digital Edition - Black Witch",
+      "file": "missing/T/149069-talisman-digital-edition-black-witch.json"
+    },
+    {
+      "igdb_id": 149065,
+      "game_name": "Talisman: Digital Edition - Courtesan",
+      "file": "missing/T/149065-talisman-digital-edition-courtesan.json"
+    },
+    {
+      "igdb_id": 149067,
+      "game_name": "Talisman: Digital Edition - Devil's Minion",
+      "file": "missing/T/149067-talisman-digital-edition-devils-minion.json"
+    },
+    {
+      "igdb_id": 149058,
+      "game_name": "Talisman: Digital Edition - Exorcist",
+      "file": "missing/T/149058-talisman-digital-edition-exorcist.json"
+    },
+    {
+      "igdb_id": 149078,
+      "game_name": "Talisman: Digital Edition - Gambler",
+      "file": "missing/T/149078-talisman-digital-edition-gambler.json"
+    },
+    {
+      "igdb_id": 149063,
+      "game_name": "Talisman: Digital Edition - Genie",
+      "file": "missing/T/149063-talisman-digital-edition-genie.json"
+    },
+    {
+      "igdb_id": 149051,
+      "game_name": "Talisman: Digital Edition - Goblin Shaman",
+      "file": "missing/T/149051-talisman-digital-edition-goblin-shaman.json"
+    },
+    {
+      "igdb_id": 149061,
+      "game_name": "Talisman: Digital Edition - Illusionist",
+      "file": "missing/T/149061-talisman-digital-edition-illusionist.json"
+    },
+    {
+      "igdb_id": 149052,
+      "game_name": "Talisman: Digital Edition - Jester",
+      "file": "missing/T/149052-talisman-digital-edition-jester.json"
+    },
+    {
+      "igdb_id": 149054,
+      "game_name": "Talisman: Digital Edition - Martial Artist",
+      "file": "missing/T/149054-talisman-digital-edition-martial-artist.json"
+    },
+    {
+      "igdb_id": 149055,
+      "game_name": "Talisman: Digital Edition - Martyr",
+      "file": "missing/T/149055-talisman-digital-edition-martyr.json"
+    },
+    {
+      "igdb_id": 149074,
+      "game_name": "Talisman: Digital Edition - Pathfinder",
+      "file": "missing/T/149074-talisman-digital-edition-pathfinder.json"
+    },
+    {
+      "igdb_id": 149062,
+      "game_name": "Talisman: Digital Edition - Pilgrim",
+      "file": "missing/T/149062-talisman-digital-edition-pilgrim.json"
+    },
+    {
+      "igdb_id": 149060,
+      "game_name": "Talisman: Digital Edition - Ranger",
+      "file": "missing/T/149060-talisman-digital-edition-ranger.json"
+    },
+    {
+      "igdb_id": 149072,
+      "game_name": "Talisman: Digital Edition - Samurai",
+      "file": "missing/T/149072-talisman-digital-edition-samurai.json"
+    },
+    {
+      "igdb_id": 149075,
+      "game_name": "Talisman: Digital Edition - Saracen",
+      "file": "missing/T/149075-talisman-digital-edition-saracen.json"
+    },
+    {
+      "igdb_id": 149071,
+      "game_name": "Talisman: Digital Edition - Satyr",
+      "file": "missing/T/149071-talisman-digital-edition-satyr.json"
+    },
+    {
+      "igdb_id": 149066,
+      "game_name": "Talisman: Digital Edition - Shaman",
+      "file": "missing/T/149066-talisman-digital-edition-shaman.json"
+    },
+    {
+      "igdb_id": 149064,
+      "game_name": "Talisman: Digital Edition - Shape Shifter",
+      "file": "missing/T/149064-talisman-digital-edition-shape-shifter.json"
+    },
+    {
+      "igdb_id": 149059,
+      "game_name": "Talisman: Digital Edition - Swordsman",
+      "file": "missing/T/149059-talisman-digital-edition-swordsman.json"
+    },
+    {
+      "igdb_id": 149073,
+      "game_name": "Talisman: Digital Edition - The Clockwork Kingdom",
+      "file": "missing/T/149073-talisman-digital-edition-the-clockwork-kingdom.json"
+    },
+    {
+      "igdb_id": 149070,
+      "game_name": "Talisman: Digital Edition - Vampire",
+      "file": "missing/T/149070-talisman-digital-edition-vampire.json"
+    },
+    {
+      "igdb_id": 149077,
+      "game_name": "Talisman: Digital Edition - Witch Hunter",
+      "file": "missing/T/149077-talisman-digital-edition-witch-hunter.json"
+    },
+    {
+      "igdb_id": 149068,
+      "game_name": "Talisman: Digital Edition - Woodsman",
+      "file": "missing/T/149068-talisman-digital-edition-woodsman.json"
+    },
+    {
+      "igdb_id": 149057,
+      "game_name": "Talisman: The Firelands",
+      "file": "missing/T/149057-talisman-the-firelands.json"
+    },
+    {
+      "igdb_id": 149081,
+      "game_name": "Talisman: The Woodland",
+      "file": "missing/T/149081-talisman-the-woodland.json"
+    },
+    {
       "igdb_id": 252403,
       "game_name": "Talk to Strangers",
       "file": "missing/T/252403-talk-to-strangers.json"
@@ -67611,6 +67841,11 @@
       "igdb_id": 175405,
       "game_name": "Tank War Defender 3",
       "file": "missing/T/175405-tank-war-defender-3.json"
+    },
+    {
+      "igdb_id": 149080,
+      "game_name": "Tank War Nexus",
+      "file": "missing/T/149080-tank-war-nexus.json"
     },
     {
       "igdb_id": 154531,
@@ -72273,6 +72508,11 @@
       "file": "missing/T/254745-the-witchs-knight.json"
     },
     {
+      "igdb_id": 149092,
+      "game_name": "The Wizard Game",
+      "file": "missing/T/149092-the-wizard-game.json"
+    },
+    {
       "igdb_id": 277609,
       "game_name": "The Wizard Party",
       "file": "missing/T/277609-the-wizard-party.json"
@@ -72576,6 +72816,11 @@
       "igdb_id": 267076,
       "game_name": "Three Goblin Wobblin'",
       "file": "missing/T/267076-three-goblin-wobblin.json"
+    },
+    {
+      "igdb_id": 149094,
+      "game_name": "Three Kingdoms 21",
+      "file": "missing/T/149094-three-kingdoms-21.json"
     },
     {
       "igdb_id": 339098,
@@ -76306,6 +76551,11 @@
       "igdb_id": 177529,
       "game_name": "Typewriter Simulator",
       "file": "missing/T/177529-typewriter-simulator.json"
+    },
+    {
+      "igdb_id": 149091,
+      "game_name": "Typing Hearts",
+      "file": "missing/T/149091-typing-hearts.json"
     },
     {
       "igdb_id": 322387,
