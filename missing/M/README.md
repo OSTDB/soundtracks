@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Mario World 2: Awakened Power | 229347 | [229347-mega-mario-world-2-awakened-power.json](./229347-mega-mario-world-2-awakened-power.json) |
 | Mega Serval | 224750 | [224750-mega-serval.json](./224750-mega-serval.json) |
 | Mega Starforce: Return to the Great Star | 275311 | [275311-mega-starforce-return-to-the-great-star.json](./275311-mega-starforce-return-to-the-great-star.json) |
+| Mega Veg Man | 148538 | [148538-mega-veg-man.json](./148538-mega-veg-man.json) |
 | Mega-Bots | 214776 | [214776-mega-bots.json](./214776-mega-bots.json) |
 | MegaAri | 205788 | [205788-megaari.json](./205788-megaari.json) |
 | Megadimension Neptunia VII: Party Character - God Eater | 238177 | [238177-megadimension-neptunia-vii-party-character-god-eater.json](./238177-megadimension-neptunia-vii-party-character-god-eater.json) |
@@ -567,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike's Paper Mario Adventure | 324110 | [324110-mikes-paper-mario-adventure.json](./324110-mikes-paper-mario-adventure.json) |
 | Miku Legends 2 | 328207 | [328207-miku-legends-2.json](./328207-miku-legends-2.json) |
 | Mikuni Field Combat | 299482 | [299482-mikuni-field-combat.json](./299482-mikuni-field-combat.json) |
+| Miles of Cubes | 148537 | [148537-miles-of-cubes.json](./148537-miles-of-cubes.json) |
 | Milf Hunter | 192444 | [192444-milf-hunter.json](./192444-milf-hunter.json) |
 | Milf Toys 2 | 195244 | [195244-milf-toys-2.json](./195244-milf-toys-2.json) |
 | Milf Toys 3 | 208587 | [208587-milf-toys-3.json](./208587-milf-toys-3.json) |
@@ -830,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsterlands | 203531 | [203531-monsterlands.json](./203531-monsterlands.json) |
 | Monsters Idle RPG | 238721 | [238721-monsters-idle-rpg.json](./238721-monsters-idle-rpg.json) |
 | Monsters: The Hunter of Darkness | 214198 | [214198-monsters-the-hunter-of-darkness.json](./214198-monsters-the-hunter-of-darkness.json) |
+| Monstrous Lovers | 148562 | [148562-monstrous-lovers.json](./148562-monstrous-lovers.json) |
 | Monsty Corp | 164509 | [164509-monsty-corp.json](./164509-monsty-corp.json) |
 | Monsty Corp: The Prequels | 296059 | [296059-monsty-corp-the-prequels.json](./296059-monsty-corp-the-prequels.json) |
 | Monsty Corp: The Sequels | 296058 | [296058-monsty-corp-the-sequels.json](./296058-monsty-corp-the-sequels.json) |
