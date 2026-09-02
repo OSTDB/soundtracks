@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.E.A. | 161383 | [161383-s-e-a.json](./161383-s-e-a.json) |
 | S.N.I.P.E.R.: Hunter Scope - Grand Edition | 315856 | [315856-s-n-i-p-e-r-hunter-scope-grand-edition.json](./315856-s-n-i-p-e-r-hunter-scope-grand-edition.json) |
 | S.Q. Sound Qube | 230505 | [230505-s-q-sound-qube.json](./230505-s-q-sound-qube.json) |
+| S.T.A.L.K.E.R.: Oblivion Lost Remake | 138257 | [138257-s-t-a-l-k-e-r-oblivion-lost-remake.json](./138257-s-t-a-l-k-e-r-oblivion-lost-remake.json) |
 | S.T.A.L.K.E.R.: Wind of Time | 138799 | [138799-s-t-a-l-k-e-r-wind-of-time.json](./138799-s-t-a-l-k-e-r-wind-of-time.json) |
 | S7 Mexico | 218728 | [218728-s7-mexico.json](./218728-s7-mexico.json) |
 | Saadex: Perpetual Storm | 270933 | [270933-saadex-perpetual-storm.json](./270933-saadex-perpetual-storm.json) |
@@ -625,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Chuter | 328226 | [328226-sky-chuter.json](./328226-sky-chuter.json) |
 | Sky DarkCrow | 190195 | [190195-sky-darkcrow.json](./190195-sky-darkcrow.json) |
 | Sky Fortress: Odyssey | 277033 | [277033-sky-fortress-odyssey.json](./277033-sky-fortress-odyssey.json) |
+| Sky Jaguar 2 | 138250 | [138250-sky-jaguar-2.json](./138250-sky-jaguar-2.json) |
 | Sky Journey: Cozy Mornings | 290710 | [290710-sky-journey-cozy-mornings.json](./290710-sky-journey-cozy-mornings.json) |
 | Sky Mad | 310184 | [310184-sky-mad.json](./310184-sky-mad.json) |
 | Sky Races | 186909 | [186909-sky-races.json](./186909-sky-races.json) |
@@ -1884,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Love | 165027 | [165027-sweet-love.json](./165027-sweet-love.json) |
 | Sweet Surge | 195196 | [195196-sweet-surge.json](./195196-sweet-surge.json) |
 | Sweety Kitty 2 | 224774 | [224774-sweety-kitty-2.json](./224774-sweety-kitty-2.json) |
+| Swift Death | 138229 | [138229-swift-death.json](./138229-swift-death.json) |
 | Swim! Sacabambaspis | 276470 | [276470-swim-sacabambaspis.json](./276470-swim-sacabambaspis.json) |
 | Swing Into Zero-G | 296667 | [296667-swing-into-zero-g.json](./296667-swing-into-zero-g.json) |
 | Swipe: Maze solver | 242790 | [242790-swipe-maze-solver.json](./242790-swipe-maze-solver.json) |
