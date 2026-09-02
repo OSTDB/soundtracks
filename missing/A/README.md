@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Chimp: Episode 1 - The Jungle | 310194 | [310194-alpha-chimp-episode-1-the-jungle.json](./310194-alpha-chimp-episode-1-the-jungle.json) |
 | Alpha Guns | 137675 | [137675-alpha-guns.json](./137675-alpha-guns.json) |
 | Alpha Sea | 147448 | [147448-alpha-sea.json](./147448-alpha-sea.json) |
+| Alpha vs. Zet | 130380 | [130380-alpha-vs-zet.json](./130380-alpha-vs-zet.json) |
 | Alpine Crawler World | 174342 | [174342-alpine-crawler-world.json](./174342-alpine-crawler-world.json) |
 | Already Dead | 325868 | [325868-already-dead.json](./325868-already-dead.json) |
 | Alt254 | 135287 | [135287-alt254.json](./135287-alt254.json) |
@@ -654,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annulus | 196308 | [196308-annulus.json](./196308-annulus.json) |
 | Ano Hi wo Mou Ichido | 220318 | [220318-ano-hi-wo-mou-ichido.json](./220318-ano-hi-wo-mou-ichido.json) |
 | Ano Ko Doko no Ko | 314652 | [314652-ano-ko-doko-no-ko.json](./314652-ano-ko-doko-no-ko.json) |
+| Ano ne DS | 130388 | [130388-ano-ne-ds.json](./130388-ano-ne-ds.json) |
 | Anodos | 211398 | [211398-anodos.json](./211398-anodos.json) |
 | Anolock | 211433 | [211433-anolock.json](./211433-anolock.json) |
 | Anomalous Zone | 211434 | [211434-anomalous-zone.json](./211434-anomalous-zone.json) |
@@ -677,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Nation | 210250 | [210250-ant-nation.json](./210250-ant-nation.json) |
 | Ant Simulator | 171046 | [171046-ant-simulator.json](./171046-ant-simulator.json) |
 | Anthology of the Killer | 268731 | [268731-anthology-of-the-killer.json](./268731-anthology-of-the-killer.json) |
+| Anti-Jump-Man | 130374 | [130374-anti-jump-man.json](./130374-anti-jump-man.json) |
 | Anti-Nightmare Master Plan | 211435 | [211435-anti-nightmare-master-plan.json](./211435-anti-nightmare-master-plan.json) |
 | Antiban | 302664 | [302664-antiban.json](./302664-antiban.json) |
 | Antigrav Racing Championship | 248329 | [248329-antigrav-racing-championship.json](./248329-antigrav-racing-championship.json) |
@@ -943,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assetto Corsa: Red Pack | 168897 | [168897-assetto-corsa-red-pack.json](./168897-assetto-corsa-red-pack.json) |
 | Assetto Corsa: Red Pack | 225910 | [225910-assetto-corsa-red-pack.json](./225910-assetto-corsa-red-pack.json) |
 | Assetto Corsa: Tripl3 Pack | 168898 | [168898-assetto-corsa-tripl3-pack.json](./168898-assetto-corsa-tripl3-pack.json) |
+| AST-Hero | 130384 | [130384-ast-hero.json](./130384-ast-hero.json) |
 | Astæria | 134670 | [134670-ast-ria.json](./134670-ast-ria.json) |
 | Asterix & Obelix XXL 3: The Crystal Menhir - Collector's Edition | 166231 | [166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json](./166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json) |
 | Asterix & Obelix: Cesar's Challenge | 262663 | [262663-asterix-and-obelix-cesars-challenge.json](./262663-asterix-and-obelix-cesars-challenge.json) |
