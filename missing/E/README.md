@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldritchvania | 223680 | [223680-eldritchvania.json](./223680-eldritchvania.json) |
 | Ele-Mental | 149082 | [149082-ele-mental.json](./149082-ele-mental.json) |
 | Elect | 331720 | [331720-elect.json](./331720-elect.json) |
+| Electric Tortoise | 128613 | [128613-electric-tortoise.json](./128613-electric-tortoise.json) |
 | Electro-Dynamic Mayhem | 324679 | [324679-electro-dynamic-mayhem.json](./324679-electro-dynamic-mayhem.json) |
 | Electrogical | 262107 | [262107-electrogical.json](./262107-electrogical.json) |
 | Electron Handsome Boy | 201312 | [201312-electron-handsome-boy.json](./201312-electron-handsome-boy.json) |
