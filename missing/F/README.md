@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forget-Me-Not | 178672 | [178672-forget-me-not.json](./178672-forget-me-not.json) |
 | Forget-Me-Not of the Tetragon | 335696 | [335696-forget-me-not-of-the-tetragon.json](./335696-forget-me-not-of-the-tetragon.json) |
 | Forgetting Emily | 309680 | [309680-forgetting-emily.json](./309680-forgetting-emily.json) |
+| Forging Glory | 132814 | [132814-forging-glory.json](./132814-forging-glory.json) |
 | Forgotten Dreams | 340233 | [340233-forgotten-dreams.json](./340233-forgotten-dreams.json) |
 | Forgotten Hill: Fall | 317638 | [317638-forgotten-hill-fall.json](./317638-forgotten-hill-fall.json) |
 | Forgotten Hill: The Wardrobe | 340235 | [340235-forgotten-hill-the-wardrobe.json](./340235-forgotten-hill-the-wardrobe.json) |
@@ -542,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Top | 199646 | [199646-formula-top.json](./199646-formula-top.json) |
 | Forsaken Compound | 299441 | [299441-forsaken-compound.json](./299441-forsaken-compound.json) |
 | Forsaken Universe | 166771 | [166771-forsaken-universe.json](./166771-forsaken-universe.json) |
+| Fort Apache | 132816 | [132816-fort-apache.json](./132816-fort-apache.json) |
 | Fort Solis: Limited Edition | 261540 | [261540-fort-solis-limited-edition.json](./261540-fort-solis-limited-edition.json) |
 | Fortnite Ballistic | 325281 | [325281-fortnite-ballistic.json](./325281-fortnite-ballistic.json) |
 | Fortnite Festival: Season 3 | 299445 | [299445-fortnite-festival-season-3.json](./299445-fortnite-festival-season-3.json) |
@@ -561,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Cookie | 340238 | [340238-fortune-cookie.json](./340238-fortune-cookie.json) |
 | Fortune Cookie: More Cookies | 340239 | [340239-fortune-cookie-more-cookies.json](./340239-fortune-cookie-more-cookies.json) |
 | Fortune Handlers | 235493 | [235493-fortune-handlers.json](./235493-fortune-handlers.json) |
+| Forza Horizon - December IGN Car Pack | 132825 | [132825-forza-horizon-december-ign-car-pack.json](./132825-forza-horizon-december-ign-car-pack.json) |
 | Forza Horizon 5: Apex Allstars Car Pack | 305531 | [305531-forza-horizon-5-apex-allstars-car-pack.json](./305531-forza-horizon-5-apex-allstars-car-pack.json) |
 | Forza Horizon 5: Car Pass | 293918 | [293918-forza-horizon-5-car-pass.json](./293918-forza-horizon-5-car-pass.json) |
 | Forza Motorsport: 2016 Ligier #11 Eurointernational JS P3 | 305542 | [305542-forza-motorsport-2016-ligier-11-eurointernational-js-p3.json](./305542-forza-motorsport-2016-ligier-11-eurointernational-js-p3.json) |
