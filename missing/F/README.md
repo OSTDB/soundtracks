@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Fencer F: Refrain Chord - Limited Edition | 205257 | [205257-fairy-fencer-f-refrain-chord-limited-edition.json](./205257-fairy-fencer-f-refrain-chord-limited-edition.json) |
 | Fairy Glade | 175980 | [175980-fairy-glade.json](./175980-fairy-glade.json) |
 | Fairy Godmother Stories: Puss in Boots Collector's Edition | 151202 | [151202-fairy-godmother-stories-puss-in-boots-collectors-edition.json](./151202-fairy-godmother-stories-puss-in-boots-collectors-edition.json) |
+| Fairy Picturebook of Hero and Sorceress | 113698 | [113698-fairy-picturebook-of-hero-and-sorceress.json](./113698-fairy-picturebook-of-hero-and-sorceress.json) |
 | Fairy Tail 2: Outfit Set - Swimsuit | 332229 | [332229-fairy-tail-2-outfit-set-swimsuit.json](./332229-fairy-tail-2-outfit-set-swimsuit.json) |
 | Fairy Tower | 218159 | [218159-fairy-tower.json](./218159-fairy-tower.json) |
 | Fairytale Furnishing | 295560 | [295560-fairytale-furnishing.json](./295560-fairytale-furnishing.json) |
