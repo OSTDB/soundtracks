@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make the World a Better Place | 248326 | [248326-make-the-world-a-better-place.json](./248326-make-the-world-a-better-place.json) |
 | Makoto Mobius | 150152 | [150152-makoto-mobius.json](./150152-makoto-mobius.json) |
 | Makoto Wakaido's Case Files: Executioner's Wedge | 245045 | [245045-makoto-wakaidos-case-files-executioners-wedge.json](./245045-makoto-wakaidos-case-files-executioners-wedge.json) |
+| Maldrin Journey | 123037 | [123037-maldrin-journey.json](./123037-maldrin-journey.json) |
 | Malice | 208608 | [208608-malice.json](./208608-malice.json) |
 | MaliceWave | 274768 | [274768-malicewave.json](./274768-malicewave.json) |
 | Maliki: Poison Of The Past | 292846 | [292846-maliki-poison-of-the-past.json](./292846-maliki-poison-of-the-past.json) |
