@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Stallion Disco Junkie: One Hit | 115680 | [115680-laser-stallion-disco-junkie-one-hit.json](./115680-laser-stallion-disco-junkie-one-hit.json) |
 | Laser Tag Massacre | 329376 | [329376-laser-tag-massacre.json](./329376-laser-tag-massacre.json) |
 | Laser! | 253011 | [253011-laser.json](./253011-laser.json) |
+| Laserium | 104086 | [104086-laserium.json](./104086-laserium.json) |
 | LaserShotz | 159890 | [159890-lasershotz.json](./159890-lasershotz.json) |
 | Lasso Catch | 277575 | [277575-lasso-catch.json](./277575-lasso-catch.json) |
 | Last Bloody Snack | 256553 | [256553-last-bloody-snack.json](./256553-last-bloody-snack.json) |
