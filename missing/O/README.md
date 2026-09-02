@@ -384,11 +384,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outland Odyssey | 214172 | [214172-outland-odyssey.json](./214172-outland-odyssey.json) |
 | Outland Rapture | 169475 | [169475-outland-rapture.json](./169475-outland-rapture.json) |
 | Outlast: Journey of a Gladiator | 157186 | [157186-outlast-journey-of-a-gladiator.json](./157186-outlast-journey-of-a-gladiator.json) |
+| Outlaw | 123065 | [123065-outlaw.json](./123065-outlaw.json) |
 | Outlaw City | 324686 | [324686-outlaw-city.json](./324686-outlaw-city.json) |
 | Outlaw City: Dark Past | 324685 | [324685-outlaw-city-dark-past.json](./324685-outlaw-city-dark-past.json) |
 | Outlets Rush | 297247 | [297247-outlets-rush.json](./297247-outlets-rush.json) |
 | Outliver: Tribulation | 129234 | [129234-outliver-tribulation.json](./129234-outliver-tribulation.json) |
 | Outnumbered | 239904 | [239904-outnumbered.json](./239904-outnumbered.json) |
+| Outpost Delta | 123030 | [123030-outpost-delta.json](./123030-outpost-delta.json) |
 | Outpost Luna | 174363 | [174363-outpost-luna.json](./174363-outpost-luna.json) |
 | OutRage: Fight Fest | 262662 | [262662-outrage-fight-fest.json](./262662-outrage-fight-fest.json) |
 | Outright | 149086 | [149086-outright.json](./149086-outright.json) |
