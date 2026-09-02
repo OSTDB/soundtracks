@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game & Watch Mario's Cement Factory | 206933 | [206933-game-and-watch-marios-cement-factory.json](./206933-game-and-watch-marios-cement-factory.json) |
 | Game & Watch: The Legend of Zelda | 152361 | [152361-game-and-watch-the-legend-of-zelda.json](./152361-game-and-watch-the-legend-of-zelda.json) |
 | Game About Jetpack Fly | 320537 | [320537-game-about-jetpack-fly.json](./320537-game-about-jetpack-fly.json) |
+| Game club "Waka-Waka" | 117064 | [117064-game-club-waka-waka.json](./117064-game-club-waka-waka.json) |
 | Game Dev Masters | 146909 | [146909-game-dev-masters.json](./146909-game-dev-masters.json) |
 | Game For Anna | 154004 | [154004-game-for-anna.json](./154004-game-for-anna.json) |
 | Game for Peace | 196849 | [196849-game-for-peace.json](./196849-game-for-peace.json) |
@@ -655,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunma's Ambition: You and me are Gunma | 146925 | [146925-gunmas-ambition-you-and-me-are-gunma.json](./146925-gunmas-ambition-you-and-me-are-gunma.json) |
 | GunMaster | 266491 | [266491-gunmaster.json](./266491-gunmaster.json) |
 | Gunner 3 | 259821 | [259821-gunner-3.json](./259821-gunner-3.json) |
+| GunnRunner | 117063 | [117063-gunnrunner.json](./117063-gunnrunner.json) |
 | Gunny | 117721 | [117721-gunny.json](./117721-gunny.json) |
 | Guns & Bots | 304906 | [304906-guns-and-bots.json](./304906-guns-and-bots.json) |
 | Guns 4 Hire | 117728 | [117728-guns-4-hire.json](./117728-guns-4-hire.json) |
