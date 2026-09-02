@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Causality | 151182 | [151182-causality.json](./151182-causality.json) |
 | Cave Chaos | 250612 | [250612-cave-chaos.json](./250612-cave-chaos.json) |
 | Cave Crawler 2 | 318216 | [318216-cave-crawler-2.json](./318216-cave-crawler-2.json) |
+| Cave Digger: Riches | 107230 | [107230-cave-digger-riches.json](./107230-cave-digger-riches.json) |
 | Cave Explorer | 165675 | [165675-cave-explorer.json](./165675-cave-explorer.json) |
 | Cave Hopper | 139468 | [139468-cave-hopper.json](./139468-cave-hopper.json) |
 | Cave Shooter | 167275 | [167275-cave-shooter.json](./167275-cave-shooter.json) |
@@ -418,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicku | 181397 | [181397-chicku.json](./181397-chicku.json) |
 | Chief's Quest | 111703 | [111703-chiefs-quest.json](./111703-chiefs-quest.json) |
 | Chikarou | 206384 | [206384-chikarou.json](./206384-chikarou.json) |
+| Chiki-Chiki Boxy Racers | 107229 | [107229-chiki-chiki-boxy-racers.json](./107229-chiki-chiki-boxy-racers.json) |
 | Chikn Nuggit Nightmare Fwiends | 275929 | [275929-chikn-nuggit-nightmare-fwiends.json](./275929-chikn-nuggit-nightmare-fwiends.json) |
 | Child of Abyss | 167293 | [167293-child-of-abyss.json](./167293-child-of-abyss.json) |
 | Child of Hope | 190228 | [190228-child-of-hope.json](./190228-child-of-hope.json) |
@@ -493,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles Of Errodean | 247740 | [247740-chronicles-of-errodean.json](./247740-chronicles-of-errodean.json) |
 | Chronicles of the Great Wilderness | 339109 | [339109-chronicles-of-the-great-wilderness.json](./339109-chronicles-of-the-great-wilderness.json) |
 | Chronicles of the Wolf | 258184 | [258184-chronicles-of-the-wolf.json](./258184-chronicles-of-the-wolf.json) |
+| Chroniric | 107251 | [107251-chroniric.json](./107251-chroniric.json) |
 | Chrono | 341329 | [341329-chrono.json](./341329-chrono.json) |
 | Chrono Trigger: Bugfix and Uncensoring Patch | 249442 | [249442-chrono-trigger-bugfix-and-uncensoring-patch.json](./249442-chrono-trigger-bugfix-and-uncensoring-patch.json) |
 | Chrono's Arena | 126628 | [126628-chronos-arena.json](./126628-chronos-arena.json) |
@@ -521,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cidadão de SP Simulator | 317576 | [317576-cidadao-de-sp-simulator.json](./317576-cidadao-de-sp-simulator.json) |
 | Ciel Nosurge: Ushinawareta Hoshi e Sasagu Uta DX | 139995 | [139995-ciel-nosurge-ushinawareta-hoshi-e-sasagu-uta-dx.json](./139995-ciel-nosurge-ushinawareta-hoshi-e-sasagu-uta-dx.json) |
 | Cinema Manager | 157171 | [157171-cinema-manager.json](./157171-cinema-manager.json) |
+| Cinema Quest | 107249 | [107249-cinema-quest.json](./107249-cinema-quest.json) |
 | CineNerdle | 231638 | [231638-cinenerdle.json](./231638-cinenerdle.json) |
 | CineNerdle | 231639 | [231639-cinenerdle.json](./231639-cinenerdle.json) |
 | Cinnabar Nights | 314682 | [314682-cinnabar-nights.json](./314682-cinnabar-nights.json) |
@@ -531,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle Triangle Square | 257116 | [257116-circle-triangle-square.json](./257116-circle-triangle-square.json) |
 | Circling | 304338 | [304338-circling.json](./304338-circling.json) |
 | Circoid | 296679 | [296679-circoid.json](./296679-circoid.json) |
+| Circolour | 107239 | [107239-circolour.json](./107239-circolour.json) |
 | Circuit City | 188676 | [188676-circuit-city.json](./188676-circuit-city.json) |
 | Circuit Puzzle | 270402 | [270402-circuit-puzzle.json](./270402-circuit-puzzle.json) |
 | Circular | 169466 | [169466-circular.json](./169466-circular.json) |
@@ -983,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cracking the Cryptic | 211958 | [211958-cracking-the-cryptic.json](./211958-cracking-the-cryptic.json) |
 | Cradle of Egypt / Cradle of Persia | 201861 | [201861-cradle-of-egypt-cradle-of-persia.json](./201861-cradle-of-egypt-cradle-of-persia.json) |
 | Cradle of Nightmares: Chapter 1 | 323502 | [323502-cradle-of-nightmares-chapter-1.json](./323502-cradle-of-nightmares-chapter-1.json) |
+| Craft Control HD | 107223 | [107223-craft-control-hd.json](./107223-craft-control-hd.json) |
 | Craft Tower | 224213 | [224213-craft-tower.json](./224213-craft-tower.json) |
 | Crafting Town | 199660 | [199660-crafting-town.json](./199660-crafting-town.json) |
 | Crafty | 157157 | [157157-crafty.json](./157157-crafty.json) |
