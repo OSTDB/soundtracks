@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| Qanga | 97909 | [97909-qanga.json](./97909-qanga.json) |
 | QB Planets | 150686 | [150686-qb-planets.json](./150686-qb-planets.json) |
 | Qiángjūn | 98982 | [98982-qiangjun.json](./98982-qiangjun.json) |
 | Qǐluó Sìshí Tán | 130935 | [130935-qiluo-sishi-tan.json](./130935-qiluo-sishi-tan.json) |
