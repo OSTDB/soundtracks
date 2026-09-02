@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Yakuza | 211961 | [211961-cats-yakuza.json](./211961-cats-yakuza.json) |
 | Cattle Hyperdrive | 247745 | [247745-cattle-hyperdrive.json](./247745-cattle-hyperdrive.json) |
 | Cauldron Caution | 309653 | [309653-cauldron-caution.json](./309653-cauldron-caution.json) |
+| Causality | 151182 | [151182-causality.json](./151182-causality.json) |
 | Cave Chaos | 250612 | [250612-cave-chaos.json](./250612-cave-chaos.json) |
 | Cave Crawler 2 | 318216 | [318216-cave-crawler-2.json](./318216-cave-crawler-2.json) |
 | Cave Explorer | 165675 | [165675-cave-explorer.json](./165675-cave-explorer.json) |
@@ -669,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comp IV | 245533 | [245533-comp-iv.json](./245533-comp-iv.json) |
 | Company of Heroes 3: Console Launch Edition | 247187 | [247187-company-of-heroes-3-console-launch-edition.json](./247187-company-of-heroes-3-console-launch-edition.json) |
 | Company of Heroes 3: Hammer & Shield | 277019 | [277019-company-of-heroes-3-hammer-and-shield.json](./277019-company-of-heroes-3-hammer-and-shield.json) |
+| Compilation Assassin's Creed: Brotherhood + Revelations | 151207 | [151207-compilation-assassins-creed-brotherhood-revelations.json](./151207-compilation-assassins-creed-brotherhood-revelations.json) |
 | Completion LawnCare | 216454 | [216454-completion-lawncare.json](./216454-completion-lawncare.json) |
 | Compulsive | 250661 | [250661-compulsive.json](./250661-compulsive.json) |
 | Computer Baseball | 245531 | [245531-computer-baseball.json](./245531-computer-baseball.json) |
