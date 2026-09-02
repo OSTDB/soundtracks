@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red and the Whispering Woods | 181357 | [181357-red-and-the-whispering-woods.json](./181357-red-and-the-whispering-woods.json) |
 | Red and White | 154018 | [154018-red-and-white.json](./154018-red-and-white.json) |
 | Red Archer | 150143 | [150143-red-archer.json](./150143-red-archer.json) |
+| Red Ball Adventure 3D | 102778 | [102778-red-ball-adventure-3d.json](./102778-red-ball-adventure-3d.json) |
 | Red Ball Super Run | 228711 | [228711-red-ball-super-run.json](./228711-red-ball-super-run.json) |
 | Red Bash | 187537 | [187537-red-bash.json](./187537-red-bash.json) |
 | Red Bull: Soapbox Racers | 336920 | [336920-red-bull-soapbox-racers.json](./336920-red-bull-soapbox-racers.json) |
@@ -692,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocksmith: Foo Fighters - Song Pack | 226934 | [226934-rocksmith-foo-fighters-song-pack.json](./226934-rocksmith-foo-fighters-song-pack.json) |
 | Rocksmith: Queen 5-Song Pack | 226933 | [226933-rocksmith-queen-5-song-pack.json](./226933-rocksmith-queen-5-song-pack.json) |
 | Rocksmith: Rush 5-Song Pack | 226932 | [226932-rocksmith-rush-5-song-pack.json](./226932-rocksmith-rush-5-song-pack.json) |
+| Rockstar Alien Killers | 102796 | [102796-rockstar-alien-killers.json](./102796-rockstar-alien-killers.json) |
 | Rocococo: Audiogame Fantastique | 258700 | [258700-rocococo-audiogame-fantastique.json](./258700-rocococo-audiogame-fantastique.json) |
 | Roda a Roda | 254788 | [254788-roda-a-roda.json](./254788-roda-a-roda.json) |
 | Rodea Eternal | 317613 | [317613-rodea-eternal.json](./317613-rodea-eternal.json) |
