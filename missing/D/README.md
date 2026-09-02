@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Swords | 119044 | [119044-dark-swords.json](./119044-dark-swords.json) |
 | Dark Tales: Edgar Allan Poe's The Black Cat - Collector's Edition | 201826 | [201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json](./201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json) |
 | Dark Tartarus | 260950 | [260950-dark-tartarus.json](./260950-dark-tartarus.json) |
+| Dark Wish | 99011 | [99011-dark-wish.json](./99011-dark-wish.json) |
 | Dark Zone Defense | 125439 | [125439-dark-zone-defense.json](./125439-dark-zone-defense.json) |
 | Darkchaser: Battletide | 296660 | [296660-darkchaser-battletide.json](./296660-darkchaser-battletide.json) |
 | Darkend | 331684 | [331684-darkend.json](./331684-darkend.json) |
@@ -561,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinopunk: The Cacops Adventure | 273648 | [273648-dinopunk-the-cacops-adventure.json](./273648-dinopunk-the-cacops-adventure.json) |
 | Dinos | 311257 | [311257-dinos.json](./311257-dinos.json) |
 | Dinosaur Games Simulator 2018 | 105967 | [105967-dinosaur-games-simulator-2018.json](./105967-dinosaur-games-simulator-2018.json) |
+| Dinosaur Hunter | 98984 | [98984-dinosaur-hunter.json](./98984-dinosaur-hunter.json) |
 | Dinosaur Island | 266484 | [266484-dinosaur-island.json](./266484-dinosaur-island.json) |
 | Dinosaur Zookeeper | 318233 | [318233-dinosaur-zookeeper.json](./318233-dinosaur-zookeeper.json) |
 | Dinotopia | 146885 | [146885-dinotopia.json](./146885-dinotopia.json) |
@@ -643,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DMBX 2: Mountain Bike and BMX | 232159 | [232159-dmbx-2-mountain-bike-and-bmx.json](./232159-dmbx-2-mountain-bike-and-bmx.json) |
 | DMBX 2.5: Mountain Bike and BMX | 174338 | [174338-dmbx-2-5-mountain-bike-and-bmx.json](./174338-dmbx-2-5-mountain-bike-and-bmx.json) |
 | Dmod | 275917 | [275917-dmod.json](./275917-dmod.json) |
+| dMuse | 98978 | [98978-dmuse.json](./98978-dmuse.json) |
 | DMX Presents: Unnecessary Hypeman Hero | 138266 | [138266-dmx-presents-unnecessary-hypeman-hero.json](./138266-dmx-presents-unnecessary-hypeman-hero.json) |
 | DMZ Adventure 2 | 331110 | [331110-dmz-adventure-2.json](./331110-dmz-adventure-2.json) |
 | DNA: Episode 4 | 297801 | [297801-dna-episode-4.json](./297801-dna-episode-4.json) |
