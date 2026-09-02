@@ -619,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks | 208625 | [208625-blocks.json](./208625-blocks.json) |
 | Blocks! | 295521 | [295521-blocks.json](./295521-blocks.json) |
 | Blockudoku | 227479 | [227479-blockudoku.json](./227479-blockudoku.json) |
+| Blockz VS Ballz | 111013 | [111013-blockz-vs-ballz.json](./111013-blockz-vs-ballz.json) |
 | Blokdoku | 315827 | [315827-blokdoku.json](./315827-blokdoku.json) |
 | Blomst | 181911 | [181911-blomst.json](./181911-blomst.json) |
 | Blonsters | 304877 | [304877-blonsters.json](./304877-blonsters.json) |
@@ -911,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brødrene Mortensens Jul | 129815 | [129815-br-drene-mortensens-jul.json](./129815-br-drene-mortensens-jul.json) |
 | Broke Girl | 118423 | [118423-broke-girl.json](./118423-broke-girl.json) |
 | Broken Life | 265391 | [265391-broken-life.json](./265391-broken-life.json) |
+| Broken Metal | 111038 | [111038-broken-metal.json](./111038-broken-metal.json) |
 | Broken Note | 237041 | [237041-broken-note.json](./237041-broken-note.json) |
 | Broken Shell | 304374 | [304374-broken-shell.json](./304374-broken-shell.json) |
 | Broken Spell | 122422 | [122422-broken-spell.json](./122422-broken-spell.json) |
