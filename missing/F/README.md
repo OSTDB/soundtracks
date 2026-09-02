@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasia: The Realm of Thanos | 243964 | [243964-fantasia-the-realm-of-thanos.json](./243964-fantasia-the-realm-of-thanos.json) |
 | Fantasic Cube | 129763 | [129763-fantasic-cube.json](./129763-fantasic-cube.json) |
 | Fantastic Four: Rise of the Silver Surfer | 197930 | [197930-fantastic-four-rise-of-the-silver-surfer.json](./197930-fantastic-four-rise-of-the-silver-surfer.json) |
+| Fantasy & Blade II | 124223 | [124223-fantasy-and-blade-ii.json](./124223-fantasy-and-blade-ii.json) |
 | Fantasy Adventure | 156145 | [156145-fantasy-adventure.json](./156145-fantasy-adventure.json) |
 | Fantasy Cascade: Episode 1 - Overspill | 218166 | [218166-fantasy-cascade-episode-1-overspill.json](./218166-fantasy-cascade-episode-1-overspill.json) |
 | Fantasy Fighters: Historic Fighters | 209132 | [209132-fantasy-fighters-historic-fighters.json](./209132-fantasy-fighters-historic-fighters.json) |
@@ -756,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Gear | 229922 | [229922-full-gear.json](./229922-full-gear.json) |
 | Full Swing Golf | 299472 | [299472-full-swing-golf.json](./299472-full-swing-golf.json) |
 | Full Voice Throttle | 181352 | [181352-full-voice-throttle.json](./181352-full-voice-throttle.json) |
+| Fúlóng: Tiānyuán Jìnglèi | 124214 | [124214-fulong-tianyuan-jinglei.json](./124214-fulong-tianyuan-jinglei.json) |
 | Funbag Fantasy: Sideboob Story | 127949 | [127949-funbag-fantasy-sideboob-story.json](./127949-funbag-fantasy-sideboob-story.json) |
 | Funfair Billionaire | 334493 | [334493-funfair-billionaire.json](./334493-funfair-billionaire.json) |
 | Fungal Colony Simulator | 257690 | [257690-fungal-colony-simulator.json](./257690-fungal-colony-simulator.json) |
