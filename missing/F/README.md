@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Sonic's Remastered | 333960 | [333960-five-nights-at-sonics-remastered.json](./333960-five-nights-at-sonics-remastered.json) |
 | Fivies | 220343 | [220343-fivies.json](./220343-fivies.json) |
 | Fix My Hand Doc | 219789 | [219789-fix-my-hand-doc.json](./219789-fix-my-hand-doc.json) |
+| Fix My Truck: Offroad Pickup | 104670 | [104670-fix-my-truck-offroad-pickup.json](./104670-fix-my-truck-offroad-pickup.json) |
 | Fix the Lab! | 265929 | [265929-fix-the-lab.json](./265929-fix-the-lab.json) |
 | Fixat! | 129774 | [129774-fixat.json](./129774-fixat.json) |
 | Fixed Point In Space | 184644 | [184644-fixed-point-in-space.json](./184644-fixed-point-in-space.json) |
@@ -510,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Guy | 230512 | [230512-fly-guy.json](./230512-fly-guy.json) |
 | Fly8 | 141223 | [141223-fly8.json](./141223-fly8.json) |
 | Flyghts | 236512 | [236512-flyghts.json](./236512-flyghts.json) |
+| Flying Dino Simulator 3D: Pterodactyl | 104671 | [104671-flying-dino-simulator-3d-pterodactyl.json](./104671-flying-dino-simulator-3d-pterodactyl.json) |
 | Flying Hero VR | 164504 | [164504-flying-hero-vr.json](./164504-flying-hero-vr.json) |
 | Flying Stunt Simulator | 278156 | [278156-flying-stunt-simulator.json](./278156-flying-stunt-simulator.json) |
 | Flying Sushi | 337991 | [337991-flying-sushi.json](./337991-flying-sushi.json) |
@@ -889,4 +891,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Tanks Area | 193507 | [193507-future-tanks-area.json](./193507-future-tanks-area.json) |
 | Future Theater | 251842 | [251842-future-theater.json](./251842-future-theater.json) |
 | Fuu3's Fuun Journey | 265927 | [265927-fuu3s-fuun-journey.json](./265927-fuu3s-fuun-journey.json) |
+| Fuzzy Critters | 104644 | [104644-fuzzy-critters.json](./104644-fuzzy-critters.json) |
 | Fuzzy World Cup Qatar 2022 | 312349 | [312349-fuzzy-world-cup-qatar-2022.json](./312349-fuzzy-world-cup-qatar-2022.json) |
