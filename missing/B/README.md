@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bilateral! | 297220 | [297220-bilateral.json](./297220-bilateral.json) |
 | Bilkins' Folly | 152909 | [152909-bilkins-folly.json](./152909-bilkins-folly.json) |
 | Bill Bounce | 231623 | [231623-bill-bounce.json](./231623-bill-bounce.json) |
+| Billiards Dungeon | 149079 | [149079-billiards-dungeon.json](./149079-billiards-dungeon.json) |
 | Billionworlds : Kingdoms | 153437 | [153437-billionworlds-kingdoms.json](./153437-billionworlds-kingdoms.json) |
 | Billy 101 | 192964 | [192964-billy-101.json](./192964-billy-101.json) |
 | Bimbo Sequencer 2 | 185697 | [185697-bimbo-sequencer-2.json](./185697-bimbo-sequencer-2.json) |
