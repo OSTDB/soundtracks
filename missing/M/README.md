@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetaMorphic Rippers | 223165 | [223165-metamorphic-rippers.json](./223165-metamorphic-rippers.json) |
 | Metathrone | 173771 | [173771-metathrone.json](./173771-metathrone.json) |
 | Metawork: Hotel Simulator | 243395 | [243395-metawork-hotel-simulator.json](./243395-metawork-hotel-simulator.json) |
+| Meteor | 127321 | [127321-meteor.json](./127321-meteor.json) |
 | Meteor Blasters | 199093 | [199093-meteor-blasters.json](./199093-meteor-blasters.json) |
 | Meteor Genocide | 153994 | [153994-meteor-genocide.json](./153994-meteor-genocide.json) |
 | Meteor Shower | 306668 | [306668-meteor-shower.json](./306668-meteor-shower.json) |
@@ -840,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey King vs Transformers | 156160 | [156160-monkey-king-vs-transformers.json](./156160-monkey-king-vs-transformers.json) |
 | Monkey Split | 142450 | [142450-monkey-split.json](./142450-monkey-split.json) |
 | Monmusu Gladiator | 151749 | [151749-monmusu-gladiator.json](./151749-monmusu-gladiator.json) |
+| Mono Trail | 127317 | [127317-mono-trail.json](./127317-mono-trail.json) |
 | Monochro | 150164 | [150164-monochro.json](./150164-monochro.json) |
 | Monochrome Echoes: White | 331114 | [331114-monochrome-echoes-white.json](./331114-monochrome-echoes-white.json) |
 | Monochrome Mobius: Rights and Wrongs Forgotten - Deluxe Edition | 247196 | [247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json](./247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json) |
