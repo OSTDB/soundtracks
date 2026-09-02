@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabby Golf | 239324 | [239324-fabby-golf.json](./239324-fabby-golf.json) |
 | Fabled Lands | 133420 | [133420-fabled-lands.json](./133420-fabled-lands.json) |
 | Fabled Lands: The Serpent King's Domain | 296671 | [296671-fabled-lands-the-serpent-kings-domain.json](./296671-fabled-lands-the-serpent-kings-domain.json) |
+| Fables of Talumos | 119007 | [119007-fables-of-talumos.json](./119007-fables-of-talumos.json) |
 | Faceball 2000 | 299462 | [299462-faceball-2000.json](./299462-faceball-2000.json) |
 | Faced | 181377 | [181377-faced.json](./181377-faced.json) |
 | Facteroids | 173306 | [173306-facteroids.json](./173306-facteroids.json) |
@@ -93,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasic Cube | 129763 | [129763-fantasic-cube.json](./129763-fantasic-cube.json) |
 | Fantastic Four: Rise of the Silver Surfer | 197930 | [197930-fantastic-four-rise-of-the-silver-surfer.json](./197930-fantastic-four-rise-of-the-silver-surfer.json) |
 | Fantastic Kingdom | 120421 | [120421-fantastic-kingdom.json](./120421-fantastic-kingdom.json) |
+| Fantasy & Blade | 119021 | [119021-fantasy-and-blade.json](./119021-fantasy-and-blade.json) |
 | Fantasy & Blade II | 124223 | [124223-fantasy-and-blade-ii.json](./124223-fantasy-and-blade-ii.json) |
 | Fantasy Adventure | 156145 | [156145-fantasy-adventure.json](./156145-fantasy-adventure.json) |
 | Fantasy Cascade: Episode 1 - Overspill | 218166 | [218166-fantasy-cascade-episode-1-overspill.json](./218166-fantasy-cascade-episode-1-overspill.json) |
@@ -100,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy General II: Invasion Hero Edition | 124833 | [124833-fantasy-general-ii-invasion-hero-edition.json](./124833-fantasy-general-ii-invasion-hero-edition.json) |
 | Fantasy Girls | 310732 | [310732-fantasy-girls.json](./310732-fantasy-girls.json) |
 | Fantasy Hentai Quest | 210856 | [210856-fantasy-hentai-quest.json](./210856-fantasy-hentai-quest.json) |
+| Fantasy Heroes | 119005 | [119005-fantasy-heroes.json](./119005-fantasy-heroes.json) |
 | Fantasy Illness | 339115 | [339115-fantasy-illness.json](./339115-fantasy-illness.json) |
 | Fantasy Jigsaw Puzzles: Dwarves | 235467 | [235467-fantasy-jigsaw-puzzles-dwarves.json](./235467-fantasy-jigsaw-puzzles-dwarves.json) |
 | Fantasy Jigsaw Puzzles: Northlands | 234341 | [234341-fantasy-jigsaw-puzzles-northlands.json](./234341-fantasy-jigsaw-puzzles-northlands.json) |
@@ -168,9 +171,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Slice 2 | 185653 | [185653-fat-slice-2.json](./185653-fat-slice-2.json) |
 | Fatal Blade | 213015 | [213015-fatal-blade.json](./213015-fatal-blade.json) |
 | Fatal Delivery | 323530 | [323530-fatal-delivery.json](./323530-fatal-delivery.json) |
+| Fatal Evidence: Cursed Island - Collector's Edition | 119038 | [119038-fatal-evidence-cursed-island-collectors-edition.json](./119038-fatal-evidence-cursed-island-collectors-edition.json) |
 | Fatal Frame | 321739 | [321739-fatal-frame.json](./321739-fatal-frame.json) |
 | Fate Commander: Fighting | 273095 | [273095-fate-commander-fighting.json](./273095-fate-commander-fighting.json) |
 | Fate of the Elder Gods | 125454 | [125454-fate-of-the-elder-gods.json](./125454-fate-of-the-elder-gods.json) |
+| Fate/Extella Link: Digital Deluxe Edition | 119067 | [119067-fate-extella-link-digital-deluxe-edition.json](./119067-fate-extella-link-digital-deluxe-edition.json) |
 | Fate/Extella: Celebration Box | 140007 | [140007-fate-extella-celebration-box.json](./140007-fate-extella-celebration-box.json) |
 | Fate/Stay Night: First Press Limited Edition | 307303 | [307303-fate-stay-night-first-press-limited-edition.json](./307303-fate-stay-night-first-press-limited-edition.json) |
 | Fatec's Out | 132274 | [132274-fatecs-out.json](./132274-fatecs-out.json) |
@@ -551,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Simulator 2025 | 326427 | [326427-forest-simulator-2025.json](./326427-forest-simulator-2025.json) |
 | Foretales: Deluxe Edition | 218690 | [218690-foretales-deluxe-edition.json](./218690-foretales-deluxe-edition.json) |
 | Forever Quester | 243957 | [243957-forever-quester.json](./243957-forever-quester.json) |
+| Forever War | 119011 | [119011-forever-war.json](./119011-forever-war.json) |
 | Foreverred | 142484 | [142484-foreverred.json](./142484-foreverred.json) |
 | Forevolution | 209709 | [209709-forevolution.json](./209709-forevolution.json) |
 | Forge of Freedom: The American Civil War 1861-1865 | 230545 | [230545-forge-of-freedom-the-american-civil-war-1861-1865.json](./230545-forge-of-freedom-the-american-civil-war-1861-1865.json) |
