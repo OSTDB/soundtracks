@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absentis | 189193 | [189193-absentis.json](./189193-absentis.json) |
 | Absinthe | 337440 | [337440-absinthe.json](./337440-absinthe.json) |
 | Absolute Deduction Bundle | 209687 | [209687-absolute-deduction-bundle.json](./209687-absolute-deduction-bundle.json) |
+| Absolute Fall | 119004 | [119004-absolute-fall.json](./119004-absolute-fall.json) |
 | Absolutely Goode Championship | 161358 | [161358-absolutely-goode-championship.json](./161358-absolutely-goode-championship.json) |
 | Absolutely Perfect Specimen | 257098 | [257098-absolutely-perfect-specimen.json](./257098-absolutely-perfect-specimen.json) |
 | Abstractanks | 150694 | [150694-abstractanks.json](./150694-abstractanks.json) |
@@ -350,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air | 270385 | [270385-air.json](./270385-air.json) |
 | Air | 270403 | [270403-air.json](./270403-air.json) |
 | Air Combat | 333953 | [333953-air-combat.json](./333953-air-combat.json) |
+| Air Combat Fighter | 119024 | [119024-air-combat-fighter.json](./119024-air-combat-fighter.json) |
 | Air Combat MF | 121009 | [121009-air-combat-mf.json](./121009-air-combat-mf.json) |
 | Air Fury | 251819 | [251819-air-fury.json](./251819-air-fury.json) |
 | Air Glide | 312323 | [312323-air-glide.json](./312323-air-glide.json) |
@@ -736,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - The Thin Blue Line! | 171088 | [171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json](./171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json) |
 | Apocalypse Z: Survival | 129803 | [129803-apocalypse-z-survival.json](./129803-apocalypse-z-survival.json) |
 | Apocalyptic Vibes | 189189 | [189189-apocalyptic-vibes.json](./189189-apocalyptic-vibes.json) |
+| Apogee Games: Companion CD-ROM | 119059 | [119059-apogee-games-companion-cd-rom.json](./119059-apogee-games-companion-cd-rom.json) |
 | Apollo Justice: Ace Attorney 4 | 318771 | [318771-apollo-justice-ace-attorney-4.json](./318771-apollo-justice-ace-attorney-4.json) |
 | Apophis | 136490 | [136490-apophis.json](./136490-apophis.json) |
 | Aporia in the Dark | 337449 | [337449-aporia-in-the-dark.json](./337449-aporia-in-the-dark.json) |
