@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T00:03:15.313Z",
-  "total_missing": 16212,
+  "generated_at": "2026-09-02T00:18:11.286Z",
+  "total_missing": 16262,
   "games": [
     {
       "igdb_id": 306086,
@@ -1698,6 +1698,11 @@
       "file": "missing/A/257098-absolutely-perfect-specimen.json"
     },
     {
+      "igdb_id": 150694,
+      "game_name": "Abstractanks",
+      "file": "missing/A/150694-abstractanks.json"
+    },
+    {
       "igdb_id": 154572,
       "game_name": "Abstraction",
       "file": "missing/A/154572-abstraction.json"
@@ -1976,6 +1981,11 @@
       "igdb_id": 301596,
       "game_name": "Aduro",
       "file": "missing/A/301596-aduro.json"
+    },
+    {
+      "igdb_id": 150651,
+      "game_name": "Advanced Intelligence Surveillance Agency",
+      "file": "missing/A/150651-advanced-intelligence-surveillance-agency.json"
     },
     {
       "igdb_id": 249451,
@@ -2761,6 +2771,11 @@
       "igdb_id": 235463,
       "game_name": "Alexios the Protector",
       "file": "missing/A/235463-alexios-the-protector.json"
+    },
+    {
+      "igdb_id": 150695,
+      "game_name": "Algebra Ridge",
+      "file": "missing/A/150695-algebra-ridge.json"
     },
     {
       "igdb_id": 270382,
@@ -5886,6 +5901,11 @@
       "igdb_id": 257075,
       "game_name": "Azumi and the Vertical Slice",
       "file": "missing/A/257075-azumi-and-the-vertical-slice.json"
+    },
+    {
+      "igdb_id": 150658,
+      "game_name": "Azure",
+      "file": "missing/A/150658-azure.json"
     },
     {
       "igdb_id": 322396,
@@ -9858,6 +9878,11 @@
       "file": "missing/B/239341-bubble-bust-extreme.json"
     },
     {
+      "igdb_id": 150690,
+      "game_name": "Bubble Gun 3D",
+      "file": "missing/B/150690-bubble-gun-3d.json"
+    },
+    {
       "igdb_id": 241615,
       "game_name": "Bubble Piles",
       "file": "missing/B/241615-bubble-piles.json"
@@ -10171,6 +10196,11 @@
       "igdb_id": 231613,
       "game_name": "Burninate the Barnyard",
       "file": "missing/B/231613-burninate-the-barnyard.json"
+    },
+    {
+      "igdb_id": 150681,
+      "game_name": "Burning Mountain and Sea",
+      "file": "missing/B/150681-burning-mountain-and-sea.json"
     },
     {
       "igdb_id": 180816,
@@ -10648,14 +10678,29 @@
       "file": "missing/C/234302-capcom-arcade-stadium-battle-circuit.json"
     },
     {
+      "igdb_id": 150654,
+      "game_name": "Capcom Arcade Stadium: Dynasty Wars",
+      "file": "missing/C/150654-capcom-arcade-stadium-dynasty-wars.json"
+    },
+    {
       "igdb_id": 173796,
       "game_name": "Capcom Arcade Stadium: Ghosts 'n Goblins",
       "file": "missing/C/173796-capcom-arcade-stadium-ghosts-n-goblins.json"
     },
     {
+      "igdb_id": 150656,
+      "game_name": "Capcom Arcade Stadium: Mega Twins",
+      "file": "missing/C/150656-capcom-arcade-stadium-mega-twins.json"
+    },
+    {
       "igdb_id": 234309,
       "game_name": "Capcom Arcade Stadium: Powered Gear - Strategic Variant Armor Equipment",
       "file": "missing/C/234309-capcom-arcade-stadium-powered-gear-strategic-variant-armor-equipment.json"
+    },
+    {
+      "igdb_id": 150655,
+      "game_name": "Capcom Arcade Stadium: Tatakai no Banka",
+      "file": "missing/C/150655-capcom-arcade-stadium-tatakai-no-banka.json"
     },
     {
       "igdb_id": 310764,
@@ -11781,6 +11826,11 @@
       "igdb_id": 211963,
       "game_name": "Chased Around the World",
       "file": "missing/C/211963-chased-around-the-world.json"
+    },
+    {
+      "igdb_id": 150697,
+      "game_name": "Chasing the wind",
+      "file": "missing/C/150697-chasing-the-wind.json"
     },
     {
       "igdb_id": 306678,
@@ -13356,6 +13406,11 @@
       "igdb_id": 244468,
       "game_name": "Colonizer",
       "file": "missing/C/244468-colonizer.json"
+    },
+    {
+      "igdb_id": 150682,
+      "game_name": "Colony Antares",
+      "file": "missing/C/150682-colony-antares.json"
     },
     {
       "igdb_id": 273627,
@@ -15036,6 +15091,11 @@
       "igdb_id": 291738,
       "game_name": "Ctrl.Alt.Deal",
       "file": "missing/C/291738-ctrl-alt-deal.json"
+    },
+    {
+      "igdb_id": 150701,
+      "game_name": "Cub Gym",
+      "file": "missing/C/150701-cub-gym.json"
     },
     {
       "igdb_id": 272548,
@@ -20533,6 +20593,11 @@
       "file": "missing/E/201312-electron-handsome-boy.json"
     },
     {
+      "igdb_id": 150698,
+      "game_name": "Electronic World Z",
+      "file": "missing/E/150698-electronic-world-z.json"
+    },
+    {
       "igdb_id": 207525,
       "game_name": "Elemates",
       "file": "missing/E/207525-elemates.json"
@@ -21226,6 +21291,11 @@
       "igdb_id": 156644,
       "game_name": "Erotic Jigsaw Puzzle",
       "file": "missing/E/156644-erotic-jigsaw-puzzle.json"
+    },
+    {
+      "igdb_id": 150652,
+      "game_name": "Erotic Jigsaw Puzzle 2",
+      "file": "missing/E/150652-erotic-jigsaw-puzzle-2.json"
     },
     {
       "igdb_id": 200748,
@@ -23123,6 +23193,11 @@
       "file": "missing/F/162414-fifth-era-fragments-of-the-holy-stone.json"
     },
     {
+      "igdb_id": 150650,
+      "game_name": "Fight",
+      "file": "missing/F/150650-fight.json"
+    },
+    {
       "igdb_id": 234313,
       "game_name": "Fight & Crush",
       "file": "missing/F/234313-fight-and-crush.json"
@@ -23626,6 +23701,11 @@
       "igdb_id": 184088,
       "game_name": "Fish Kiss",
       "file": "missing/F/184088-fish-kiss.json"
+    },
+    {
+      "igdb_id": 150678,
+      "game_name": "Fish Memory",
+      "file": "missing/F/150678-fish-memory.json"
     },
     {
       "igdb_id": 227500,
@@ -31521,6 +31601,11 @@
       "igdb_id": 217001,
       "game_name": "Human Error",
       "file": "missing/H/217001-human-error.json"
+    },
+    {
+      "igdb_id": 150693,
+      "game_name": "Human vs Monster",
+      "file": "missing/H/150693-human-vs-monster.json"
     },
     {
       "igdb_id": 260414,
@@ -40463,6 +40548,11 @@
       "file": "missing/M/302678-mech-bros.json"
     },
     {
+      "igdb_id": 150696,
+      "game_name": "Mech Farmer",
+      "file": "missing/M/150696-mech-farmer.json"
+    },
+    {
       "igdb_id": 211964,
       "game_name": "Mech Shuffle",
       "file": "missing/M/211964-mech-shuffle.json"
@@ -45868,6 +45958,11 @@
       "file": "missing/N/238718-nine-rounds-rapid.json"
     },
     {
+      "igdb_id": 150659,
+      "game_name": "Nine Worlds",
+      "file": "missing/N/150659-nine-worlds.json"
+    },
+    {
       "igdb_id": 178677,
       "game_name": "Ningen Maru",
       "file": "missing/N/178677-ningen-maru.json"
@@ -46173,6 +46268,11 @@
       "file": "missing/N/172755-no-fair-play.json"
     },
     {
+      "igdb_id": 150684,
+      "game_name": "No Light",
+      "file": "missing/N/150684-no-light.json"
+    },
+    {
       "igdb_id": 302688,
       "game_name": "No Rest",
       "file": "missing/N/302688-no-rest.json"
@@ -46251,6 +46351,76 @@
       "igdb_id": 208626,
       "game_name": "Nobunaga no Yabou: Oretachi no Sengoku",
       "file": "missing/N/208626-nobunaga-no-yabou-oretachi-no-sengoku.json"
+    },
+    {
+      "igdb_id": 150668,
+      "game_name": "Nobunaga's Ambition: Souzou - Dokuganryutatsu Scenario",
+      "file": "missing/N/150668-nobunagas-ambition-souzou-dokuganryutatsu-scenario.json"
+    },
+    {
+      "igdb_id": 150675,
+      "game_name": "Nobunaga's Ambition: Souzou - Itsukushima Scenario",
+      "file": "missing/N/150675-nobunagas-ambition-souzou-itsukushima-scenario.json"
+    },
+    {
+      "igdb_id": 150662,
+      "game_name": "Nobunaga's Ambition: Souzou - Nagashinonotatakai Scenario",
+      "file": "missing/N/150662-nobunagas-ambition-souzou-nagashinonotatakai-scenario.json"
+    },
+    {
+      "igdb_id": 150674,
+      "game_name": "Nobunaga's Ambition: Souzou - Shingenjouraku Scenario",
+      "file": "missing/N/150674-nobunagas-ambition-souzou-shingenjouraku-scenario.json"
+    },
+    {
+      "igdb_id": 150661,
+      "game_name": "Nobunaga's Ambition: Souzou - Tenkafubu Scenario",
+      "file": "missing/N/150661-nobunagas-ambition-souzou-tenkafubu-scenario.json"
+    },
+    {
+      "igdb_id": 150667,
+      "game_name": "Nobunaga's Ambition: Souzou - Tennouzan Scenario",
+      "file": "missing/N/150667-nobunagas-ambition-souzou-tennouzan-scenario.json"
+    },
+    {
+      "igdb_id": 150672,
+      "game_name": "Nobunaga's Ambition: Souzou - Tetorigawa Scenario",
+      "file": "missing/N/150672-nobunagas-ambition-souzou-tetorigawa-scenario.json"
+    },
+    {
+      "igdb_id": 150671,
+      "game_name": "Nobunaga's Ambition: Souzou with Power Up Kit - Gunshinkourinsu Scenario",
+      "file": "missing/N/150671-nobunagas-ambition-souzou-with-power-up-kit-gunshinkourinsu-scenario.json"
+    },
+    {
+      "igdb_id": 150666,
+      "game_name": "Nobunaga's Ambition: Souzou with Power Up Kit - Shokutokudoumei Scenario",
+      "file": "missing/N/150666-nobunagas-ambition-souzou-with-power-up-kit-shokutokudoumei-scenario.json"
+    },
+    {
+      "igdb_id": 150673,
+      "game_name": "Nobunaga's Ambition: Taishi - Birth of Nobunaga Scenario",
+      "file": "missing/N/150673-nobunagas-ambition-taishi-birth-of-nobunaga-scenario.json"
+    },
+    {
+      "igdb_id": 150670,
+      "game_name": "Nobunaga's Ambition: Taishi - Mount Tennozan Scenario",
+      "file": "missing/N/150670-nobunagas-ambition-taishi-mount-tennozan-scenario.json"
+    },
+    {
+      "igdb_id": 150664,
+      "game_name": "Nobunaga's Ambition: Taishi - The Battle of Nagashino Scenario",
+      "file": "missing/N/150664-nobunagas-ambition-taishi-the-battle-of-nagashino-scenario.json"
+    },
+    {
+      "igdb_id": 150665,
+      "game_name": "Nobunaga's Ambition: Taishi - The Battle of Okitanawate Scenario",
+      "file": "missing/N/150665-nobunagas-ambition-taishi-the-battle-of-okitanawate-scenario.json"
+    },
+    {
+      "igdb_id": 150663,
+      "game_name": "Nobunaga's Ambition: Taishi - The Dutiful Lord of Echigo Scenario",
+      "file": "missing/N/150663-nobunagas-ambition-taishi-the-dutiful-lord-of-echigo-scenario.json"
     },
     {
       "igdb_id": 254158,
@@ -53268,6 +53438,11 @@
       "file": "missing/P/159850-pyxel-knight.json"
     },
     {
+      "igdb_id": 150686,
+      "game_name": "QB Planets",
+      "file": "missing/Q/150686-qb-planets.json"
+    },
+    {
       "igdb_id": 235989,
       "game_name": "Qisah Tomang: Cycle Ends",
       "file": "missing/Q/235989-qisah-tomang-cycle-ends.json"
@@ -54993,6 +55168,11 @@
       "file": "missing/R/321791-remute-the-cult-of-remute-portable.json"
     },
     {
+      "igdb_id": 150679,
+      "game_name": "Renegade: Arena Shooter",
+      "file": "missing/R/150679-renegade-arena-shooter.json"
+    },
+    {
       "igdb_id": 325284,
       "game_name": "Rengoku",
       "file": "missing/R/325284-rengoku.json"
@@ -55061,6 +55241,11 @@
       "igdb_id": 209168,
       "game_name": "Rescue Heroes: Molten Menace",
       "file": "missing/R/209168-rescue-heroes-molten-menace.json"
+    },
+    {
+      "igdb_id": 150692,
+      "game_name": "Rescue Rover Collection",
+      "file": "missing/R/150692-rescue-rover-collection.json"
     },
     {
       "igdb_id": 195206,
@@ -55686,6 +55871,11 @@
       "igdb_id": 268741,
       "game_name": "Rinne no Lagrange: Kamogawa Match",
       "file": "missing/R/268741-rinne-no-lagrange-kamogawa-match.json"
+    },
+    {
+      "igdb_id": 150699,
+      "game_name": "Rio Warzone",
+      "file": "missing/R/150699-rio-warzone.json"
     },
     {
       "igdb_id": 152407,
@@ -56896,6 +57086,11 @@
       "igdb_id": 254764,
       "game_name": "Royalevia",
       "file": "missing/R/254764-royalevia.json"
+    },
+    {
+      "igdb_id": 150669,
+      "game_name": "Rozalin and the Palace of Flowers",
+      "file": "missing/R/150669-rozalin-and-the-palace-of-flowers.json"
     },
     {
       "igdb_id": 263759,
@@ -62078,6 +62273,11 @@
       "file": "missing/S/272550-soulcalibur-broken-destiny.json"
     },
     {
+      "igdb_id": 150680,
+      "game_name": "Soulcaster",
+      "file": "missing/S/150680-soulcaster.json"
+    },
+    {
       "igdb_id": 152906,
       "game_name": "Soulfire: Weapon Master",
       "file": "missing/S/152906-soulfire-weapon-master.json"
@@ -64053,6 +64253,11 @@
       "file": "missing/S/339658-strawberry.json"
     },
     {
+      "igdb_id": 150691,
+      "game_name": "Stray Kitten",
+      "file": "missing/S/150691-stray-kitten.json"
+    },
+    {
       "igdb_id": 290715,
       "game_name": "Stray Shot",
       "file": "missing/S/290715-stray-shot.json"
@@ -64066,6 +64271,11 @@
       "igdb_id": 248912,
       "game_name": "Strayed",
       "file": "missing/S/248912-strayed.json"
+    },
+    {
+      "igdb_id": 150685,
+      "game_name": "Stream Madness",
+      "file": "missing/S/150685-stream-madness.json"
     },
     {
       "igdb_id": 292306,
@@ -64666,6 +64876,11 @@
       "igdb_id": 316988,
       "game_name": "Super Bo Noise",
       "file": "missing/S/316988-super-bo-noise.json"
+    },
+    {
+      "igdb_id": 150653,
+      "game_name": "Super Bomberman R Online: Premium Pack",
+      "file": "missing/S/150653-super-bomberman-r-online-premium-pack.json"
     },
     {
       "igdb_id": 240461,
@@ -65833,6 +66048,11 @@
       "file": "missing/S/257101-supreme-summoner.json"
     },
     {
+      "igdb_id": 150676,
+      "game_name": "Surabaya Inferno",
+      "file": "missing/S/150676-surabaya-inferno.json"
+    },
+    {
       "igdb_id": 308581,
       "game_name": "Surf & Turf Bundle",
       "file": "missing/S/308581-surf-and-turf-bundle.json"
@@ -66661,6 +66881,11 @@
       "igdb_id": 339104,
       "game_name": "Taipei Midsummer Night's Dream",
       "file": "missing/T/339104-taipei-midsummer-nights-dream.json"
+    },
+    {
+      "igdb_id": 150657,
+      "game_name": "Taisho Zombi Roman (Plus)",
+      "file": "missing/T/150657-taisho-zombi-roman-plus.json"
     },
     {
       "igdb_id": 221422,
@@ -70056,6 +70281,11 @@
       "igdb_id": 188686,
       "game_name": "The Matriarch",
       "file": "missing/T/188686-the-matriarch.json"
+    },
+    {
+      "igdb_id": 150700,
+      "game_name": "The Maze Escaper",
+      "file": "missing/T/150700-the-maze-escaper.json"
     },
     {
       "igdb_id": 154537,
@@ -73993,6 +74223,11 @@
       "file": "missing/T/175943-toushin-toshi-girls-gift-rpg.json"
     },
     {
+      "igdb_id": 150689,
+      "game_name": "Towards the Stars",
+      "file": "missing/T/150689-towards-the-stars.json"
+    },
+    {
       "igdb_id": 223667,
       "game_name": "Towel Required!",
       "file": "missing/T/223667-towel-required.json"
@@ -77658,6 +77893,11 @@
       "file": "missing/V/256006-vr-tribes-the-vr-edition.json"
     },
     {
+      "igdb_id": 150688,
+      "game_name": "VR Walking Simulator",
+      "file": "missing/V/150688-vr-walking-simulator.json"
+    },
+    {
       "igdb_id": 216488,
       "game_name": "VR War Lab",
       "file": "missing/V/216488-vr-war-lab.json"
@@ -78356,6 +78596,11 @@
       "igdb_id": 268208,
       "game_name": "We Sing Deutsche Hits 2",
       "file": "missing/W/268208-we-sing-deutsche-hits-2.json"
+    },
+    {
+      "igdb_id": 150687,
+      "game_name": "We Surround You",
+      "file": "missing/W/150687-we-surround-you.json"
     },
     {
       "igdb_id": 247741,
@@ -80086,6 +80331,11 @@
       "igdb_id": 205808,
       "game_name": "Xtreme Sports Arcade: Summer Edition",
       "file": "missing/X/205808-xtreme-sports-arcade-summer-edition.json"
+    },
+    {
+      "igdb_id": 150660,
+      "game_name": "Xtreme Typing",
+      "file": "missing/X/150660-xtreme-typing.json"
     },
     {
       "igdb_id": 154016,
