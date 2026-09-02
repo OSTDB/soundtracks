@@ -103,6 +103,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Legacy | 314034 | [314034-dark-legacy.json](./314034-dark-legacy.json) |
 | Dark Mist - The Wizard Vanishes | 141213 | [141213-dark-mist-the-wizard-vanishes.json](./141213-dark-mist-the-wizard-vanishes.json) |
 | Dark Old Sun II: Unspace | 217005 | [217005-dark-old-sun-ii-unspace.json](./217005-dark-old-sun-ii-unspace.json) |
+| Dark Parables: Return of the Salt Princess | 123634 | [123634-dark-parables-return-of-the-salt-princess.json](./123634-dark-parables-return-of-the-salt-princess.json) |
+| Dark Parables: The Match Girl's Lost Paradise | 123635 | [123635-dark-parables-the-match-girls-lost-paradise.json](./123635-dark-parables-the-match-girls-lost-paradise.json) |
 | Dark Place 1 | 272026 | [272026-dark-place-1.json](./272026-dark-place-1.json) |
 | Dark Place 2 | 272027 | [272027-dark-place-2.json](./272027-dark-place-2.json) |
 | Dark Place 3 | 272028 | [272028-dark-place-3.json](./272028-dark-place-3.json) |
@@ -269,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Alchemy Dungeon | 207500 | [207500-deep-alchemy-dungeon.json](./207500-deep-alchemy-dungeon.json) |
 | Deep Blue Fantasy | 253612 | [253612-deep-blue-fantasy.json](./253612-deep-blue-fantasy.json) |
 | Deep Blue Odyssey | 244475 | [244475-deep-blue-odyssey.json](./244475-deep-blue-odyssey.json) |
+| Deep Chalk Dive | 123613 | [123613-deep-chalk-dive.json](./123613-deep-chalk-dive.json) |
 | Deep Dark Forest | 151724 | [151724-deep-dark-forest.json](./151724-deep-dark-forest.json) |
 | Deep Despair 3 | 320554 | [320554-deep-despair-3.json](./320554-deep-despair-3.json) |
 | Deep Fishing | 188091 | [188091-deep-fishing.json](./188091-deep-fishing.json) |
@@ -793,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonborne | 140594 | [140594-dragonborne.json](./140594-dragonborne.json) |
 | Dragonia | 124242 | [124242-dragonia.json](./124242-dragonia.json) |
 | Dragons of Atlantis | 303231 | [303231-dragons-of-atlantis.json](./303231-dragons-of-atlantis.json) |
+| Dragons: Titan Uprising | 123626 | [123626-dragons-titan-uprising.json](./123626-dragons-titan-uprising.json) |
 | DragonScales 7: A Heart of Dark Flames | 197416 | [197416-dragonscales-7-a-heart-of-dark-flames.json](./197416-dragonscales-7-a-heart-of-dark-flames.json) |
 | Dragonscapes Adventure | 219830 | [219830-dragonscapes-adventure.json](./219830-dragonscapes-adventure.json) |
 | DragonSpear EX | 200164 | [200164-dragonspear-ex.json](./200164-dragonspear-ex.json) |
