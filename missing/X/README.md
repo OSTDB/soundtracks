@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xio: Survival | 193496 | [193496-xio-survival.json](./193496-xio-survival.json) |
 | Xmas Boom | 254136 | [254136-xmas-boom.json](./254136-xmas-boom.json) |
 | Xob | 149609 | [149609-xob.json](./149609-xob.json) |
+| Xod.io | 130942 | [130942-xod-io.json](./130942-xod-io.json) |
 | Xolotl | 195762 | [195762-xolotl.json](./195762-xolotl.json) |
 | Xonix | 304330 | [304330-xonix.json](./304330-xonix.json) |
 | Xplode Man | 313495 | [313495-xplode-man.json](./313495-xplode-man.json) |
@@ -47,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xtreme Sports Arcade: Summer Edition | 205808 | [205808-xtreme-sports-arcade-summer-edition.json](./205808-xtreme-sports-arcade-summer-edition.json) |
 | Xtreme Typing | 150660 | [150660-xtreme-typing.json](./150660-xtreme-typing.json) |
 | xTypeVersus | 154016 | [154016-xtypeversus.json](./154016-xtypeversus.json) |
+| Xuán Chén Xiāntú | 130928 | [130928-xuan-chen-xiantu.json](./130928-xuan-chen-xiantu.json) |
 | Xuan Yuan Sword Luminary | 196321 | [196321-xuan-yuan-sword-luminary.json](./196321-xuan-yuan-sword-luminary.json) |
 | Xuan-Yuan Sword: Mists Beyond the Mountains | 336910 | [336910-xuan-yuan-sword-mists-beyond-the-mountains.json](./336910-xuan-yuan-sword-mists-beyond-the-mountains.json) |
 | Xuan-Yuan Sword: Mists Beyond the Mountains -1999 Origin Version | 336911 | [336911-xuan-yuan-sword-mists-beyond-the-mountains-1999-origin-version.json](./336911-xuan-yuan-sword-mists-beyond-the-mountains-1999-origin-version.json) |
