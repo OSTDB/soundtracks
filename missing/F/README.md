@@ -588,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox and Shadow | 320556 | [320556-fox-and-shadow.json](./320556-fox-and-shadow.json) |
 | Fox Girl Taming | 239318 | [239318-fox-girl-taming.json](./239318-fox-girl-taming.json) |
 | Fox Stories | 154566 | [154566-fox-stories.json](./154566-fox-stories.json) |
+| Fox-Trot Over Run | 130970 | [130970-fox-trot-over-run.json](./130970-fox-trot-over-run.json) |
 | FoxRun | 340241 | [340241-foxrun.json](./340241-foxrun.json) |
 | Foxy's Adventure | 159893 | [159893-foxys-adventure.json](./159893-foxys-adventure.json) |
 | FP Racer | 340242 | [340242-fp-racer.json](./340242-fp-racer.json) |
@@ -640,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frequency Dissonance | 199120 | [199120-frequency-dissonance.json](./199120-frequency-dissonance.json) |
 | Freya's Potion Shop | 157702 | [157702-freyas-potion-shop.json](./157702-freyas-potion-shop.json) |
 | Freyr's Love | 165024 | [165024-freyrs-love.json](./165024-freyrs-love.json) |
+| Friday | 130926 | [130926-friday.json](./130926-friday.json) |
 | Friday Night Funkin vs. junim Cururu | 328236 | [328236-friday-night-funkin-vs-junim-cururu.json](./328236-friday-night-funkin-vs-junim-cururu.json) |
 | Friday Night Funkin' Red Version: vs. Red | 322374 | [322374-friday-night-funkin-red-version-vs-red.json](./322374-friday-night-funkin-red-version-vs-red.json) |
 | Friday Night Funkin' Soft | 206928 | [206928-friday-night-funkin-soft.json](./206928-friday-night-funkin-soft.json) |
