@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of a Turnabout | 318795 | [318795-tales-of-a-turnabout.json](./318795-tales-of-a-turnabout.json) |
 | Tales of Aravorn: Seasons Of The Wolf - Bad Blood | 171632 | [171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json](./171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json) |
 | Tales of Arise: Beyond the Dawn - Attachment Pack | 293401 | [293401-tales-of-arise-beyond-the-dawn-attachment-pack.json](./293401-tales-of-arise-beyond-the-dawn-attachment-pack.json) |
+| Tales of Arise: Premium Edition | 146339 | [146339-tales-of-arise-premium-edition.json](./146339-tales-of-arise-premium-edition.json) |
 | Tales of Arise: SAO Collaboration Pack | 259813 | [259813-tales-of-arise-sao-collaboration-pack.json](./259813-tales-of-arise-sao-collaboration-pack.json) |
 | Tales of the Black Death | 178068 | [178068-tales-of-the-black-death.json](./178068-tales-of-the-black-death.json) |
 | Tales of the Death | 204112 | [204112-tales-of-the-death.json](./204112-tales-of-the-death.json) |
@@ -528,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Engraved Dispatch | 181366 | [181366-the-engraved-dispatch.json](./181366-the-engraved-dispatch.json) |
 | The Envolution of Wandaland | 254137 | [254137-the-envolution-of-wandaland.json](./254137-the-envolution-of-wandaland.json) |
 | The Epic Quest of Birdo The Pink Dinosaur | 250662 | [250662-the-epic-quest-of-birdo-the-pink-dinosaur.json](./250662-the-epic-quest-of-birdo-the-pink-dinosaur.json) |
+| The ER: Patient Typhon | 146320 | [146320-the-er-patient-typhon.json](./146320-the-er-patient-typhon.json) |
 | The Escape Room Chronicles ep 4: The 24-Hour TV Station | 324122 | [324122-the-escape-room-chronicles-ep-4-the-24-hour-tv-station.json](./324122-the-escape-room-chronicles-ep-4-the-24-hour-tv-station.json) |
 | The Escape Room Chronicles ep1: The Mysterious KumaDonald's | 324119 | [324119-the-escape-room-chronicles-ep1-the-mysterious-kumadonalds.json](./324119-the-escape-room-chronicles-ep1-the-mysterious-kumadonalds.json) |
 | The Escape Room Chronicles ep2: The Old School Building | 324120 | [324120-the-escape-room-chronicles-ep2-the-old-school-building.json](./324120-the-escape-room-chronicles-ep2-the-old-school-building.json) |
@@ -564,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flames | 176510 | [176510-the-flames.json](./176510-the-flames.json) |
 | The Flayed Man | 329396 | [329396-the-flayed-man.json](./329396-the-flayed-man.json) |
 | The Flea Evolution | 188103 | [188103-the-flea-evolution.json](./188103-the-flea-evolution.json) |
+| The Flintstones: The Movie | 146331 | [146331-the-flintstones-the-movie.json](./146331-the-flintstones-the-movie.json) |
 | The Floor is Breathing | 229356 | [229356-the-floor-is-breathing.json](./229356-the-floor-is-breathing.json) |
 | The Flying Feathers | 247768 | [247768-the-flying-feathers.json](./247768-the-flying-feathers.json) |
 | The Fool | 302676 | [302676-the-fool.json](./302676-the-fool.json) |
@@ -667,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Burger: Turbo | 209146 | [209146-the-jumping-burger-turbo.json](./209146-the-jumping-burger-turbo.json) |
 | The Jumping Fries | 204078 | [204078-the-jumping-fries.json](./204078-the-jumping-fries.json) |
 | The Jumping Taco | 205240 | [205240-the-jumping-taco.json](./205240-the-jumping-taco.json) |
+| The Keep | 146340 | [146340-the-keep.json](./146340-the-keep.json) |
 | The Kindeman Remedy | 244499 | [244499-the-kindeman-remedy.json](./244499-the-kindeman-remedy.json) |
 | The King in the Shades | 259852 | [259852-the-king-in-the-shades.json](./259852-the-king-in-the-shades.json) |
 | The King of Fighters Arena | 225887 | [225887-the-king-of-fighters-arena.json](./225887-the-king-of-fighters-arena.json) |
@@ -681,10 +685,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lair of DOOMestic Animals | 271487 | [271487-the-lair-of-doomestic-animals.json](./271487-the-lair-of-doomestic-animals.json) |
 | The Land Before Time: Activity Center | 229378 | [229378-the-land-before-time-activity-center.json](./229378-the-land-before-time-activity-center.json) |
 | The Last Catalyst | 277613 | [277613-the-last-catalyst.json](./277613-the-last-catalyst.json) |
+| The Last Chronomancer | 146352 | [146352-the-last-chronomancer.json](./146352-the-last-chronomancer.json) |
 | The Last Craftsman | 229937 | [229937-the-last-craftsman.json](./229937-the-last-craftsman.json) |
 | The Last Door | 235984 | [235984-the-last-door.json](./235984-the-last-door.json) |
 | The Last Drop | 318194 | [318194-the-last-drop.json](./318194-the-last-drop.json) |
 | The Last Fighter | 209662 | [209662-the-last-fighter.json](./209662-the-last-fighter.json) |
+| The Last Flower | 146304 | [146304-the-last-flower.json](./146304-the-last-flower.json) |
 | The Last King | 258200 | [258200-the-last-king.json](./258200-the-last-king.json) |
 | The Last Light | 182556 | [182556-the-last-light.json](./182556-the-last-light.json) |
 | The Last Memory of a Burning Thought | 335655 | [335655-the-last-memory-of-a-burning-thought.json](./335655-the-last-memory-of-a-burning-thought.json) |
@@ -1432,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toddler Tech Laptop | 333374 | [333374-toddler-tech-laptop.json](./333374-toddler-tech-laptop.json) |
 | Todos Contra Tcheco | 321780 | [321780-todos-contra-tcheco.json](./321780-todos-contra-tcheco.json) |
 | Tofu Go! 2: The Onsen Adventure | 242206 | [242206-tofu-go-2-the-onsen-adventure.json](./242206-tofu-go-2-the-onsen-adventure.json) |
+| Together Bnb | 146310 | [146310-together-bnb.json](./146310-together-bnb.json) |
 | Together Tree: Romance 911 | 244494 | [244494-together-tree-romance-911.json](./244494-together-tree-romance-911.json) |
 | ToHeart | 303230 | [303230-toheart.json](./303230-toheart.json) |
 | Toilet Paper Simulator | 248890 | [248890-toilet-paper-simulator.json](./248890-toilet-paper-simulator.json) |
