@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone 400 | 255338 | [255338-zone-400.json](./255338-zone-400.json) |
 | Zone B Korosu | 161391 | [161391-zone-b-korosu.json](./161391-zone-b-korosu.json) |
 | Zoo Explorers | 170026 | [170026-zoo-explorers.json](./170026-zoo-explorers.json) |
+| Zookeeper DX Touch Edition | 104109 | [104109-zookeeper-dx-touch-edition.json](./104109-zookeeper-dx-touch-edition.json) |
 | Zookeeper World | 170542 | [170542-zookeeper-world.json](./170542-zookeeper-world.json) |
 | Zoolovelogy | 236504 | [236504-zoolovelogy.json](./236504-zoolovelogy.json) |
 | Zooma: Chapter 2 - "Cave" | 168375 | [168375-zooma-chapter-2-cave.json](./168375-zooma-chapter-2-cave.json) |
