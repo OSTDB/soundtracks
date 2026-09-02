@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Parkour 2 | 253614 | [253614-neon-parkour-2.json](./253614-neon-parkour-2.json) |
 | Neon Racer | 192464 | [192464-neon-racer.json](./192464-neon-racer.json) |
 | Neon Rumble | 292829 | [292829-neon-rumble.json](./292829-neon-rumble.json) |
+| Neon Ships: The Type'em Up Shooter | 143707 | [143707-neon-ships-the-typeem-up-shooter.json](./143707-neon-ships-the-typeem-up-shooter.json) |
 | Neon Struct: Carrion Carrier | 158211 | [158211-neon-struct-carrion-carrier.json](./158211-neon-struct-carrion-carrier.json) |
 | Neon Wars | 312925 | [312925-neon-wars.json](./312925-neon-wars.json) |
 | NeonHat | 187517 | [187517-neonhat.json](./187517-neonhat.json) |
@@ -185,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario World 1: The Twelve Magic Orbs - Powered-Up | 222515 | [222515-new-super-mario-world-1-the-twelve-magic-orbs-powered-up.json](./222515-new-super-mario-world-1-the-twelve-magic-orbs-powered-up.json) |
 | New Swordsman | 212478 | [212478-new-swordsman.json](./212478-new-swordsman.json) |
 | New Town Needs Tamer | 216989 | [216989-new-town-needs-tamer.json](./216989-new-town-needs-tamer.json) |
+| New Witch in Town | 143694 | [143694-new-witch-in-town.json](./143694-new-witch-in-town.json) |
 | New World | 263768 | [263768-new-world.json](./263768-new-world.json) |
 | New Year Simulator 2025 | 326390 | [326390-new-year-simulator-2025.json](./326390-new-year-simulator-2025.json) |
 | New Year's Jam | 325263 | [325263-new-years-jam.json](./325263-new-years-jam.json) |
@@ -252,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightStars: Project 1 | 314067 | [314067-nightstars-project-1.json](./314067-nightstars-project-1.json) |
 | Nightwalker | 163946 | [163946-nightwalker.json](./163946-nightwalker.json) |
 | Nihongo de Asobo | 327598 | [327598-nihongo-de-asobo.json](./327598-nihongo-de-asobo.json) |
+| Nihongo Quest: N5 | 143704 | [143704-nihongo-quest-n5.json](./143704-nihongo-quest-n5.json) |
 | Nihongo School | 257106 | [257106-nihongo-school.json](./257106-nihongo-school.json) |
 | Nikka: Rise | 235486 | [235486-nikka-rise.json](./235486-nikka-rise.json) |
 | Nilia | 146898 | [146898-nilia.json](./146898-nilia.json) |
