@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Keep Running | 248325 | [248325-just-keep-running.json](./248325-just-keep-running.json) |
 | Just Kiss Him Already! | 225310 | [225310-just-kiss-him-already.json](./225310-just-kiss-him-already.json) |
 | Just Skill Shooter: Catacombs | 340783 | [340783-just-skill-shooter-catacombs.json](./340783-just-skill-shooter-catacombs.json) |
+| Just Take Your Left | 148542 | [148542-just-take-your-left.json](./148542-just-take-your-left.json) |
 | JustBox | 340782 | [340782-justbox.json](./340782-justbox.json) |
 | JustHammers | 341865 | [341865-justhammers.json](./341865-justhammers.json) |
 | Justice Fighting Force | 206948 | [206948-justice-fighting-force.json](./206948-justice-fighting-force.json) |
