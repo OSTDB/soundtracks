@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairgames | 250615 | [250615-fairgames.json](./250615-fairgames.json) |
 | Fairground 2 | 103532 | [103532-fairground-2.json](./103532-fairground-2.json) |
 | Fairy Boyfriend | 298882 | [298882-fairy-boyfriend.json](./298882-fairy-boyfriend.json) |
+| Fairy Escape | 99632 | [99632-fairy-escape.json](./99632-fairy-escape.json) |
 | Fairy Fencer F: Advent Dark Force - Deluxe Edition | 186883 | [186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json](./186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json) |
 | Fairy Fencer F: Refrain Chord - Limited Edition | 205257 | [205257-fairy-fencer-f-refrain-chord-limited-edition.json](./205257-fairy-fencer-f-refrain-chord-limited-edition.json) |
 | Fairy Glade | 175980 | [175980-fairy-glade.json](./175980-fairy-glade.json) |
@@ -110,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy & Blade II | 124223 | [124223-fantasy-and-blade-ii.json](./124223-fantasy-and-blade-ii.json) |
 | Fantasy Adventure | 156145 | [156145-fantasy-adventure.json](./156145-fantasy-adventure.json) |
 | Fantasy Cascade: Episode 1 - Overspill | 218166 | [218166-fantasy-cascade-episode-1-overspill.json](./218166-fantasy-cascade-episode-1-overspill.json) |
+| Fantasy Dynasty: Le Château Deretic | 99639 | [99639-fantasy-dynasty-le-chateau-deretic.json](./99639-fantasy-dynasty-le-chateau-deretic.json) |
 | Fantasy Fighters: Historic Fighters | 209132 | [209132-fantasy-fighters-historic-fighters.json](./209132-fantasy-fighters-historic-fighters.json) |
 | Fantasy General II: Invasion Hero Edition | 124833 | [124833-fantasy-general-ii-invasion-hero-edition.json](./124833-fantasy-general-ii-invasion-hero-edition.json) |
 | Fantasy Girls | 310732 | [310732-fantasy-girls.json](./310732-fantasy-girls.json) |
@@ -631,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formation | 258690 | [258690-formation.json](./258690-formation.json) |
 | Formino | 175411 | [175411-formino.json](./175411-formino.json) |
 | Formula Top | 199646 | [199646-formula-top.json](./199646-formula-top.json) |
+| Formula X | 99643 | [99643-formula-x.json](./99643-formula-x.json) |
 | Forsaken Compound | 299441 | [299441-forsaken-compound.json](./299441-forsaken-compound.json) |
 | Forsaken Universe | 166771 | [166771-forsaken-universe.json](./166771-forsaken-universe.json) |
 | Fort Apache | 132816 | [132816-fort-apache.json](./132816-fort-apache.json) |
@@ -853,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funguys Swarm | 332851 | [332851-funguys-swarm.json](./332851-funguys-swarm.json) |
 | Funny Card | 193495 | [193495-funny-card.json](./193495-funny-card.json) |
 | Funny Face Apartment | 310762 | [310762-funny-face-apartment.json](./310762-funny-face-apartment.json) |
+| Funny Fingers | 99589 | [99589-funny-fingers.json](./99589-funny-fingers.json) |
 | Funny Pizza Land | 123615 | [123615-funny-pizza-land.json](./123615-funny-pizza-land.json) |
 | FunPack: Mums | 177052 | [177052-funpack-mums.json](./177052-funpack-mums.json) |
 | FunWar | 195757 | [195757-funwar.json](./195757-funwar.json) |
@@ -903,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusion | 158712 | [158712-fusion.json](./158712-fusion.json) |
 | Fusion Nexus: Alchemic Evolution | 291776 | [291776-fusion-nexus-alchemic-evolution.json](./291776-fusion-nexus-alchemic-evolution.json) |
 | Fusion Shift | 132260 | [132260-fusion-shift.json](./132260-fusion-shift.json) |
+| Futanari Quest | 99592 | [99592-futanari-quest.json](./99592-futanari-quest.json) |
 | Futanari Sex: The Gym | 203539 | [203539-futanari-sex-the-gym.json](./203539-futanari-sex-the-gym.json) |
 | Futanari Vampire Girlfriend | 163978 | [163978-futanari-vampire-girlfriend.json](./163978-futanari-vampire-girlfriend.json) |
 | Futari ha Pretty Cure Splash Star | 327580 | [327580-futari-ha-pretty-cure-splash-star.json](./327580-futari-ha-pretty-cure-splash-star.json) |
