@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left Alive: Day One Edition | 119066 | [119066-left-alive-day-one-edition.json](./119066-left-alive-day-one-edition.json) |
 | Left Alive: Mech Edition | 111022 | [111022-left-alive-mech-edition.json](./111022-left-alive-mech-edition.json) |
 | Left Stranded | 195199 | [195199-left-stranded.json](./195199-left-stranded.json) |
+| Left to Survive | 106608 | [106608-left-to-survive.json](./106608-left-to-survive.json) |
 | Left. | 265979 | [265979-left.json](./265979-left.json) |
 | Leftovers | 221977 | [221977-leftovers.json](./221977-leftovers.json) |
 | Legacy | 213049 | [213049-legacy.json](./213049-legacy.json) |
@@ -169,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Heroes: Eternal Arena | 151200 | [151200-legend-of-heroes-eternal-arena.json](./151200-legend-of-heroes-eternal-arena.json) |
 | Legend of Labot: The Golden Pearl | 173280 | [173280-legend-of-labot-the-golden-pearl.json](./173280-legend-of-labot-the-golden-pearl.json) |
 | Legend of Maratha Warriors | 158702 | [158702-legend-of-maratha-warriors.json](./158702-legend-of-maratha-warriors.json) |
+| Legend of Power Z | 106597 | [106597-legend-of-power-z.json](./106597-legend-of-power-z.json) |
 | Legend of Radiance | 192946 | [192946-legend-of-radiance.json](./192946-legend-of-radiance.json) |
 | Legend of Red | 334507 | [334507-legend-of-red.json](./334507-legend-of-red.json) |
 | Legend of Stars | 295013 | [295013-legend-of-stars.json](./295013-legend-of-stars.json) |
