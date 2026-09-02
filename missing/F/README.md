@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fail Factory! | 196314 | [196314-fail-factory.json](./196314-fail-factory.json) |
 | Faircroft's Antiques: The Mountaineer's Legacy | 197413 | [197413-faircrofts-antiques-the-mountaineers-legacy.json](./197413-faircrofts-antiques-the-mountaineers-legacy.json) |
 | Fairgames | 250615 | [250615-fairgames.json](./250615-fairgames.json) |
+| Fairground 2 | 103532 | [103532-fairground-2.json](./103532-fairground-2.json) |
 | Fairy Boyfriend | 298882 | [298882-fairy-boyfriend.json](./298882-fairy-boyfriend.json) |
 | Fairy Fencer F: Advent Dark Force - Deluxe Edition | 186883 | [186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json](./186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json) |
 | Fairy Fencer F: Refrain Chord - Limited Edition | 205257 | [205257-fairy-fencer-f-refrain-chord-limited-edition.json](./205257-fairy-fencer-f-refrain-chord-limited-edition.json) |
@@ -43,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Picturebook of Hero and Sorceress | 113698 | [113698-fairy-picturebook-of-hero-and-sorceress.json](./113698-fairy-picturebook-of-hero-and-sorceress.json) |
 | Fairy Tail 2: Outfit Set - Swimsuit | 332229 | [332229-fairy-tail-2-outfit-set-swimsuit.json](./332229-fairy-tail-2-outfit-set-swimsuit.json) |
 | Fairy Tower | 218159 | [218159-fairy-tower.json](./218159-fairy-tower.json) |
+| Fairyland: Power Dice | 103473 | [103473-fairyland-power-dice.json](./103473-fairyland-power-dice.json) |
 | Fairytale Furnishing | 295560 | [295560-fairytale-furnishing.json](./295560-fairytale-furnishing.json) |
 | Fairytale Mosaics: Cinderella 2 | 155649 | [155649-fairytale-mosaics-cinderella-2.json](./155649-fairytale-mosaics-cinderella-2.json) |
 | Faith & Shield: Tower Defense - Space Wars Game 2022 | 209694 | [209694-faith-and-shield-tower-defense-space-wars-game-2022.json](./209694-faith-and-shield-tower-defense-space-wars-game-2022.json) |
@@ -875,6 +877,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fury of Dracula: Digital Edition | 129189 | [129189-fury-of-dracula-digital-edition.json](./129189-fury-of-dracula-digital-edition.json) |
 | Fury Strike | 107918 | [107918-fury-strike.json](./107918-fury-strike.json) |
 | FuryFury | 234910 | [234910-furyfury.json](./234910-furyfury.json) |
+| Fushigi no Dungeon 2: Fuurai no Shiren | 103496 | [103496-fushigi-no-dungeon-2-fuurai-no-shiren.json](./103496-fushigi-no-dungeon-2-fuurai-no-shiren.json) |
+| Fushigi no Dungeon: Fuurai no Shiren 4 Plus - Kami no Hitomi to Akuma no Heso | 103507 | [103507-fushigi-no-dungeon-fuurai-no-shiren-4-plus-kami-no-hitomi-to-akuma-no-heso.json](./103507-fushigi-no-dungeon-fuurai-no-shiren-4-plus-kami-no-hitomi-to-akuma-no-heso.json) |
+| Fushigi no Dungeon: Fuurai no Shiren DS2 - Sabaku no Majou | 103508 | [103508-fushigi-no-dungeon-fuurai-no-shiren-ds2-sabaku-no-majou.json](./103508-fushigi-no-dungeon-fuurai-no-shiren-ds2-sabaku-no-majou.json) |
 | Fushigi no Dungeon: Fuurai no Shiren Mega | 311289 | [311289-fushigi-no-dungeon-fuurai-no-shiren-mega.json](./311289-fushigi-no-dungeon-fuurai-no-shiren-mega.json) |
 | Fushigi no Gensoukyou | 206927 | [206927-fushigi-no-gensoukyou.json](./206927-fushigi-no-gensoukyou.json) |
 | Fushigi no Gensoukyou 3 | 206946 | [206946-fushigi-no-gensoukyou-3.json](./206946-fushigi-no-gensoukyou-3.json) |
