@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vic Panic | 130371 | [130371-vic-panic.json](./130371-vic-panic.json) |
 | Victoria 3: Voice of the People | 247786 | [247786-victoria-3-voice-of-the-people.json](./247786-victoria-3-voice-of-the-people.json) |
 | Victory Heat Rally | 142489 | [142489-victory-heat-rally.json](./142489-victory-heat-rally.json) |
+| Victory is Justice! | 117092 | [117092-victory-is-justice.json](./117092-victory-is-justice.json) |
 | Victory of Seeker | 338570 | [338570-victory-of-seeker.json](./338570-victory-of-seeker.json) |
 | Video Casino Games | 137099 | [137099-video-casino-games.json](./137099-video-casino-games.json) |
 | Video Game Feminization Hypnosis | 146905 | [146905-video-game-feminization-hypnosis.json](./146905-video-game-feminization-hypnosis.json) |
