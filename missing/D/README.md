@@ -958,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonlike | 183574 | [183574-dungeonlike.json](./183574-dungeonlike.json) |
 | Dungeons & Dragons Online: Forsaken Lands | 209174 | [209174-dungeons-and-dragons-online-forsaken-lands.json](./209174-dungeons-and-dragons-online-forsaken-lands.json) |
 | Dungeons & Drivers | 332842 | [332842-dungeons-and-drivers.json](./332842-dungeons-and-drivers.json) |
+| Dungeons 3: Evil of the Caribbean | 124825 | [124825-dungeons-3-evil-of-the-caribbean.json](./124825-dungeons-3-evil-of-the-caribbean.json) |
 | Dungeons 4: The Good, the Bad and the Evil | 309104 | [309104-dungeons-4-the-good-the-bad-and-the-evil.json](./309104-dungeons-4-the-good-the-bad-and-the-evil.json) |
 | Dungeons and Monsters | 268751 | [268751-dungeons-and-monsters.json](./268751-dungeons-and-monsters.json) |
 | Dungeons and Raids | 236516 | [236516-dungeons-and-raids.json](./236516-dungeons-and-raids.json) |
