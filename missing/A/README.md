@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Guidebook of Babel | 149085 | [149085-a-guidebook-of-babel.json](./149085-a-guidebook-of-babel.json) |
 | A Hero and a Garden | 137072 | [137072-a-hero-and-a-garden.json](./137072-a-hero-and-a-garden.json) |
 | A Hero's Rest: An RPG Town Simulator | 206356 | [206356-a-heros-rest-an-rpg-town-simulator.json](./206356-a-heros-rest-an-rpg-town-simulator.json) |
+| A Host of Gentle Terrors | 136437 | [136437-a-host-of-gentle-terrors.json](./136437-a-host-of-gentle-terrors.json) |
 | A Housewife's Healing Touch | 198561 | [198561-a-housewifes-healing-touch.json](./198561-a-housewifes-healing-touch.json) |
 | A Jornada | 299469 | [299469-a-jornada.json](./299469-a-jornada.json) |
 | A Journey Through Valhalla | 165677 | [165677-a-journey-through-valhalla.json](./165677-a-journey-through-valhalla.json) |
@@ -502,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ame ni Negaeba: Wishin' in the Rain | 301601 | [301601-ame-ni-negaeba-wishin-in-the-rain.json](./301601-ame-ni-negaeba-wishin-in-the-rain.json) |
 | Amelie | 190744 | [190744-amelie.json](./190744-amelie.json) |
 | Ameprod Television Game 10 | 243416 | [243416-ameprod-television-game-10.json](./243416-ameprod-television-game-10.json) |
+| America is Doing Great | 136486 | [136486-america-is-doing-great.json](./136486-america-is-doing-great.json) |
 | American Assault | 273130 | [273130-american-assault.json](./273130-american-assault.json) |
 | American Basketball: Guns & Balls | 234316 | [234316-american-basketball-guns-and-balls.json](./234316-american-basketball-guns-and-balls.json) |
 | American Conquest: Anthology | 324664 | [324664-american-conquest-anthology.json](./324664-american-conquest-anthology.json) |
@@ -690,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - The Thin Blue Line! | 171088 | [171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json](./171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json) |
 | Apocalyptic Vibes | 189189 | [189189-apocalyptic-vibes.json](./189189-apocalyptic-vibes.json) |
 | Apollo Justice: Ace Attorney 4 | 318771 | [318771-apollo-justice-ace-attorney-4.json](./318771-apollo-justice-ace-attorney-4.json) |
+| Apophis | 136490 | [136490-apophis.json](./136490-apophis.json) |
 | Aporia in the Dark | 337449 | [337449-aporia-in-the-dark.json](./337449-aporia-in-the-dark.json) |
 | Apotheker | 141880 | [141880-apotheker.json](./141880-apotheker.json) |
 | Apotheosis | 211437 | [211437-apotheosis.json](./211437-apotheosis.json) |
@@ -1040,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Average Maria Individual | 293891 | [293891-average-maria-individual.json](./293891-average-maria-individual.json) |
 | Aviãozinho do tráfico 1: despacito 5 quem ler é arrombado 2 | 341879 | [341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json](./341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json) |
 | Aviãozinho do tráfico 2: 3D resenha de pasta base de cocaína com Sorrizo Ronaldo | 341880 | [341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json](./341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json) |
+| Aviary Attorney: Definitive Edition | 136443 | [136443-aviary-attorney-definitive-edition.json](./136443-aviary-attorney-definitive-edition.json) |
 | Aviassembly | 291217 | [291217-aviassembly.json](./291217-aviassembly.json) |
 | Avo Escape Space | 275882 | [275882-avo-escape-space.json](./275882-avo-escape-space.json) |
 | Avocado Puzzle Quest | 211414 | [211414-avocado-puzzle-quest.json](./211414-avocado-puzzle-quest.json) |
