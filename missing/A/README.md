@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Pact | 339129 | [339129-abyss-pact.json](./339129-abyss-pact.json) |
 | Abyss Survivors | 311261 | [311261-abyss-survivors.json](./311261-abyss-survivors.json) |
 | Abysus Arena | 303751 | [303751-abysus-arena.json](./303751-abysus-arena.json) |
+| ACA Neo Geo: The Ultimate 11 - SNK Football Championship | 115665 | [115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json](./115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json) |
 | Acassia | 209660 | [209660-acassia.json](./209660-acassia.json) |
 | Acatalepsy | 150169 | [150169-acatalepsy.json](./150169-acatalepsy.json) |
 | Accel Magician Mimi | 148554 | [148554-accel-magician-mimi.json](./148554-accel-magician-mimi.json) |
@@ -264,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AereA: Collector's Edition | 166237 | [166237-aerea-collectors-edition.json](./166237-aerea-collectors-edition.json) |
 | Aerial Austen | 232175 | [232175-aerial-austen.json](./232175-aerial-austen.json) |
 | Aerial Life | 147445 | [147445-aerial-life.json](./147445-aerial-life.json) |
+| Aero Attack: Retro Space Shooter | 115715 | [115715-aero-attack-retro-space-shooter.json](./115715-aero-attack-retro-space-shooter.json) |
 | Aero Cosmos | 335094 | [335094-aero-cosmos.json](./335094-aero-cosmos.json) |
 | Aerobics Revolution | 269323 | [269323-aerobics-revolution.json](./269323-aerobics-revolution.json) |
 | Aerobots | 120425 | [120425-aerobots.json](./120425-aerobots.json) |
@@ -518,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaemi: Longing for you | 206335 | [206335-amaemi-longing-for-you.json](./206335-amaemi-longing-for-you.json) |
 | Amamane | 121724 | [121724-amamane.json](./121724-amamane.json) |
 | Amanda's Magic Book 5: Hansel and Gretel | 237070 | [237070-amandas-magic-book-5-hansel-and-gretel.json](./237070-amandas-magic-book-5-hansel-and-gretel.json) |
+| Amanda's Sticker Book 2: Amazing Wldlife | 115704 | [115704-amandas-sticker-book-2-amazing-wldlife.json](./115704-amandas-sticker-book-2-amazing-wldlife.json) |
 | Amant | 258183 | [258183-amant.json](./258183-amant.json) |
 | Amanthi | 141853 | [141853-amanthi.json](./141853-amanthi.json) |
 | Amarantus | 201324 | [201324-amarantus.json](./201324-amarantus.json) |
