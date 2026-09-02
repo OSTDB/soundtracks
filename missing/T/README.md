@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talents | 248320 | [248320-talents.json](./248320-talents.json) |
 | Tales & Dragons: Merge Puzzle | 254178 | [254178-tales-and-dragons-merge-puzzle.json](./254178-tales-and-dragons-merge-puzzle.json) |
 | Tales from Ahrum | 175981 | [175981-tales-from-ahrum.json](./175981-tales-from-ahrum.json) |
+| Tales From Galaxy 34 | 113027 | [113027-tales-from-galaxy-34.json](./113027-tales-from-galaxy-34.json) |
 | Tales From The Arcade: Starship Murder | 263742 | [263742-tales-from-the-arcade-starship-murder.json](./263742-tales-from-the-arcade-starship-murder.json) |
 | Tales From The Under-Realm: After Midnight | 301004 | [301004-tales-from-the-under-realm-after-midnight.json](./301004-tales-from-the-under-realm-after-midnight.json) |
 | Tales of a Turnabout | 318795 | [318795-tales-of-a-turnabout.json](./318795-tales-of-a-turnabout.json) |
@@ -989,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Purgatory and the Stolen Souls | 239285 | [239285-the-purgatory-and-the-stolen-souls.json](./239285-the-purgatory-and-the-stolen-souls.json) |
 | The Puzzle of Blocks | 268214 | [268214-the-puzzle-of-blocks.json](./268214-the-puzzle-of-blocks.json) |
 | The Quest for Achievements Remix | 121008 | [121008-the-quest-for-achievements-remix.json](./121008-the-quest-for-achievements-remix.json) |
+| The Quest for Moe's | 112977 | [112977-the-quest-for-moes.json](./112977-the-quest-for-moes.json) |
 | The Quest for One | 202970 | [202970-the-quest-for-one.json](./202970-the-quest-for-one.json) |
 | The Quest: Hero of Lukomorye V | 200205 | [200205-the-quest-hero-of-lukomorye-v.json](./200205-the-quest-hero-of-lukomorye-v.json) |
 | The Question | 170529 | [170529-the-question.json](./170529-the-question.json) |
@@ -1270,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zombie Smasher | 219279 | [219279-the-zombie-smasher.json](./219279-the-zombie-smasher.json) |
 | The Zombland: Enter at Your Peril | 291244 | [291244-the-zombland-enter-at-your-peril.json](./291244-the-zombland-enter-at-your-peril.json) |
 | The Zone: Stalker Stories | 135901 | [135901-the-zone-stalker-stories.json](./135901-the-zone-stalker-stories.json) |
+| The.Thend.End | 112992 | [112992-the-thend-end.json](./112992-the-thend-end.json) |
 | TheBestiary | 196894 | [196894-thebestiary.json](./196894-thebestiary.json) |
 | TheBootCamp | 195219 | [195219-thebootcamp.json](./195219-thebootcamp.json) |
 | TheHunter: Call of the Wild - Reserve Cosmetics Bundle 1 | 271466 | [271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json](./271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json) |
@@ -1292,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Are Beasts | 119753 | [119753-they-are-beasts.json](./119753-they-are-beasts.json) |
 | They Are Coming | 272574 | [272574-they-are-coming.json](./272574-they-are-coming.json) |
 | They Are Coming! | 173283 | [173283-they-are-coming.json](./173283-they-are-coming.json) |
+| They That Feast | 113036 | [113036-they-that-feast.json](./113036-they-that-feast.json) |
 | They Watch From the Walls | 181930 | [181930-they-watch-from-the-walls.json](./181930-they-watch-from-the-walls.json) |
 | Thief City | 221424 | [221424-thief-city.json](./221424-thief-city.json) |
 | Thief Puzzle: Complete Edition | 315849 | [315849-thief-puzzle-complete-edition.json](./315849-thief-puzzle-complete-edition.json) |
@@ -1825,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Tactics | 204089 | [204089-toy-tactics.json](./204089-toy-tactics.json) |
 | Toybox | 184645 | [184645-toybox.json](./184645-toybox.json) |
 | Toys: Crash Arena | 221396 | [221396-toys-crash-arena.json](./221396-toys-crash-arena.json) |
+| ToyShot VR | 112982 | [112982-toyshot-vr.json](./112982-toyshot-vr.json) |
 | Tracery of Fate VR | 207496 | [207496-tracery-of-fate-vr.json](./207496-tracery-of-fate-vr.json) |
 | Track & Field | 239296 | [239296-track-and-field.json](./239296-track-and-field.json) |
 | Track Attack: Changes Everything | 251202 | [251202-track-attack-changes-everything.json](./251202-track-attack-changes-everything.json) |
@@ -2022,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Tracks | 229335 | [229335-tricky-tracks.json](./229335-tricky-tracks.json) |
 | Tridle | 228715 | [228715-tridle.json](./228715-tridle.json) |
 | Triga | 199652 | [199652-triga.json](./199652-triga.json) |
+| Trigger Table | 113028 | [113028-trigger-table.json](./113028-trigger-table.json) |
 | Trigonal | 188097 | [188097-trigonal.json](./188097-trigonal.json) |
 | Trimorta | 184086 | [184086-trimorta.json](./184086-trimorta.json) |
 | Trinity Trigger: Day 1 Edition | 221947 | [221947-trinity-trigger-day-1-edition.json](./221947-trinity-trigger-day-1-edition.json) |
