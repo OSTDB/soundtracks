@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle: Special Forces | 333383 | [333383-eagle-special-forces.json](./333383-eagle-special-forces.json) |
 | Ears of the Killer | 206957 | [206957-ears-of-the-killer.json](./206957-ears-of-the-killer.json) |
 | Earth Brigades | 204085 | [204085-earth-brigades.json](./204085-earth-brigades.json) |
+| Earth Defender | 112318 | [112318-earth-defender.json](./112318-earth-defender.json) |
 | Earth Defense Force 3 for Nintendo Switch | 172720 | [172720-earth-defense-force-3-for-nintendo-switch.json](./172720-earth-defense-force-3-for-nintendo-switch.json) |
 | Earth Defense Force 6: Additional Mission Pack 2 - Visions of Malice | 319369 | [319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json](./319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json) |
 | Earth Defense Force: World Brothers - Deluxe Edition | 222503 | [222503-earth-defense-force-world-brothers-deluxe-edition.json](./222503-earth-defense-force-world-brothers-deluxe-edition.json) |
@@ -65,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse | 218163 | [218163-eclipse.json](./218163-eclipse.json) |
 | Eclipse Isle | 125435 | [125435-eclipse-isle.json](./125435-eclipse-isle.json) |
 | Eco Mahjong | 177049 | [177049-eco-mahjong.json](./177049-eco-mahjong.json) |
+| EcoL tactics | 112312 | [112312-ecol-tactics.json](./112312-ecol-tactics.json) |
 | eCrew Development Program | 141196 | [141196-ecrew-development-program.json](./141196-ecrew-development-program.json) |
 | Ecto | 298341 | [298341-ecto.json](./298341-ecto.json) |
 | Ecto Portal | 163951 | [163951-ecto-portal.json](./163951-ecto-portal.json) |
@@ -298,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Evolution | 179180 | [179180-escape-evolution.json](./179180-escape-evolution.json) |
 | Escape from 1927 | 240498 | [240498-escape-from-1927.json](./240498-escape-from-1927.json) |
 | Escape from Aeon | 183559 | [183559-escape-from-aeon.json](./183559-escape-from-aeon.json) |
+| Escape From Andromed | 112326 | [112326-escape-from-andromed.json](./112326-escape-from-andromed.json) |
 | Escape From Exit 7 of the Theater | 315281 | [315281-escape-from-exit-7-of-the-theater.json](./315281-escape-from-exit-7-of-the-theater.json) |
 | Escape from Frankenstein's Castle | 213598 | [213598-escape-from-frankensteins-castle.json](./213598-escape-from-frankensteins-castle.json) |
 | Escape from Island | 313502 | [313502-escape-from-island.json](./313502-escape-from-island.json) |
@@ -383,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergreen: Pines Expansion | 298325 | [298325-evergreen-pines-expansion.json](./298325-evergreen-pines-expansion.json) |
 | Evergrow: Shards of Tomorrow | 337998 | [337998-evergrow-shards-of-tomorrow.json](./337998-evergrow-shards-of-tomorrow.json) |
 | Everlasting Tower | 335661 | [335661-everlasting-tower.json](./335661-everlasting-tower.json) |
+| Everlasting: Per Aspera Ad Terra | 112313 | [112313-everlasting-per-aspera-ad-terra.json](./112313-everlasting-per-aspera-ad-terra.json) |
 | Everlong Swansong | 257086 | [257086-everlong-swansong.json](./257086-everlong-swansong.json) |
 | EverMatch | 237672 | [237672-evermatch.json](./237672-evermatch.json) |
 | EverQuest: Torment of Velious | 125475 | [125475-everquest-torment-of-velious.json](./125475-everquest-torment-of-velious.json) |
