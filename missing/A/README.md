@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Memorable Time | 264347 | [264347-a-memorable-time.json](./264347-a-memorable-time.json) |
 | A Mermaid's Paradoxical Tale | 273664 | [273664-a-mermaids-paradoxical-tale.json](./273664-a-mermaids-paradoxical-tale.json) |
 | A Mirror Puzzle | 209705 | [209705-a-mirror-puzzle.json](./209705-a-mirror-puzzle.json) |
+| A Murmur in the Trees | 148561 | [148561-a-murmur-in-the-trees.json](./148561-a-murmur-in-the-trees.json) |
 | A New World Of Turnabouts | 303770 | [303770-a-new-world-of-turnabouts.json](./303770-a-new-world-of-turnabouts.json) |
 | A Night At Andy's | 184620 | [184620-a-night-at-andys.json](./184620-a-night-at-andys.json) |
 | A Night With: Spirit | 318180 | [318180-a-night-with-spirit.json](./318180-a-night-with-spirit.json) |
@@ -132,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | About Gretel | 156672 | [156672-about-gretel.json](./156672-about-gretel.json) |
 | About Love and Hate 2 | 173805 | [173805-about-love-and-hate-2.json](./173805-about-love-and-hate-2.json) |
 | Above Below | 216462 | [216462-above-below.json](./216462-above-below.json) |
+| Above the Stars | 148555 | [148555-above-the-stars.json](./148555-above-the-stars.json) |
 | AbraTabia Kingdom | 301593 | [301593-abratabia-kingdom.json](./301593-abratabia-kingdom.json) |
 | Abrix 2: Diamond Version | 307324 | [307324-abrix-2-diamond-version.json](./307324-abrix-2-diamond-version.json) |
 | Absented Age: Squarebound | 150161 | [150161-absented-age-squarebound.json](./150161-absented-age-squarebound.json) |
@@ -151,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abysus Arena | 303751 | [303751-abysus-arena.json](./303751-abysus-arena.json) |
 | Acassia | 209660 | [209660-acassia.json](./209660-acassia.json) |
 | Acatalepsy | 150169 | [150169-acatalepsy.json](./150169-acatalepsy.json) |
+| Accel Magician Mimi | 148554 | [148554-accel-magician-mimi.json](./148554-accel-magician-mimi.json) |
 | Acceptance | 210902 | [210902-acceptance.json](./210902-acceptance.json) |
 | Accurate Adjacent Ballistics Simulator | 247783 | [247783-accurate-adjacent-ballistics-simulator.json](./247783-accurate-adjacent-ballistics-simulator.json) |
 | Ace | 301591 | [301591-ace.json](./301591-ace.json) |
@@ -733,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arid Arnold | 318202 | [318202-arid-arnold.json](./318202-arid-arnold.json) |
 | Arisen Force: Life Devotee of Wukong | 322972 | [322972-arisen-force-life-devotee-of-wukong.json](./322972-arisen-force-life-devotee-of-wukong.json) |
 | Ark Odyssey | 319366 | [319366-ark-odyssey.json](./319366-ark-odyssey.json) |
+| Ark of Artemis | 148564 | [148564-ark-of-artemis.json](./148564-ark-of-artemis.json) |
 | Ark: Fantastic Tames - Pyromane | 304377 | [304377-ark-fantastic-tames-pyromane.json](./304377-ark-fantastic-tames-pyromane.json) |
 | Ark: Scorched Earth Ascended | 294992 | [294992-ark-scorched-earth-ascended.json](./294992-ark-scorched-earth-ascended.json) |
 | Ark: The Center Ascended | 304378 | [304378-ark-the-center-ascended.json](./304378-ark-the-center-ascended.json) |
