@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the Squirrel Park | 185161 | [185161-escape-from-the-squirrel-park.json](./185161-escape-from-the-squirrel-park.json) |
 | Escape from the Tomb Tower | 115706 | [115706-escape-from-the-tomb-tower.json](./115706-escape-from-the-tomb-tower.json) |
 | Escape From The Tutorial | 301599 | [301599-escape-from-the-tutorial.json](./301599-escape-from-the-tutorial.json) |
+| Escape from Voyna | 96738 | [96738-escape-from-voyna.json](./96738-escape-from-voyna.json) |
 | Escape from Zeta Aurigae | 291240 | [291240-escape-from-zeta-aurigae.json](./291240-escape-from-zeta-aurigae.json) |
 | Escape Gaia: Departure | 311797 | [311797-escape-gaia-departure.json](./311797-escape-gaia-departure.json) |
 | Escape Game Sleepless | 335698 | [335698-escape-game-sleepless.json](./335698-escape-game-sleepless.json) |
