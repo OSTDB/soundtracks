@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaigrad | 163969 | [163969-kaigrad.json](./163969-kaigrad.json) |
 | Kaikyuu Karane Kotoba | 206381 | [206381-kaikyuu-karane-kotoba.json](./206381-kaikyuu-karane-kotoba.json) |
 | Kairo Land | 208037 | [208037-kairo-land.json](./208037-kairo-land.json) |
+| Kairos'Light | 132235 | [132235-kairoslight.json](./132235-kairoslight.json) |
 | Kaisen! Ika Gundan! | 269317 | [269317-kaisen-ika-gundan.json](./269317-kaisen-ika-gundan.json) |
 | Kaitou Elf Liely | 246107 | [246107-kaitou-elf-liely.json](./246107-kaitou-elf-liely.json) |
 | Kaiwa | 290681 | [290681-kaiwa.json](./290681-kaiwa.json) |
@@ -274,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kodoku no Yurikago | 260941 | [260941-kodoku-no-yurikago.json](./260941-kodoku-no-yurikago.json) |
 | KoiGig: Devil x Angel | 202373 | [202373-koigig-devil-x-angel.json](./202373-koigig-devil-x-angel.json) |
 | Koihime Enbu RyoRaiRai: Jokou and Kakuka | 159307 | [159307-koihime-enbu-ryorairai-jokou-and-kakuka.json](./159307-koihime-enbu-ryorairai-jokou-and-kakuka.json) |
+| Koishi's Lumo | 132280 | [132280-koishis-lumo.json](./132280-koishis-lumo.json) |
 | Kokohore! Pukka: Dig-a-Dig Pukka | 138825 | [138825-kokohore-pukka-dig-a-dig-pukka.json](./138825-kokohore-pukka-dig-a-dig-pukka.json) |
 | Kokoro no Doki Doki Senpai?? | 150133 | [150133-kokoro-no-doki-doki-senpai.json](./150133-kokoro-no-doki-doki-senpai.json) |
 | Kokoro: Baka-Monogatari | 150134 | [150134-kokoro-baka-monogatari.json](./150134-kokoro-baka-monogatari.json) |
