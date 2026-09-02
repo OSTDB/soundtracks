@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshi to Hanaseru! Hangul Kiso Phrase | 276468 | [276468-oshi-to-hanaseru-hangul-kiso-phrase.json](./276468-oshi-to-hanaseru-hangul-kiso-phrase.json) |
 | Oshidashi Zintrick | 130369 | [130369-oshidashi-zintrick.json](./130369-oshidashi-zintrick.json) |
 | Oshigoto Theme Park 2 | 141218 | [141218-oshigoto-theme-park-2.json](./141218-oshigoto-theme-park-2.json) |
+| Osmo Monster | 104667 | [104667-osmo-monster.json](./104667-osmo-monster.json) |
 | Osomatsu-san Protagonist Contest Pokoball | 266478 | [266478-osomatsu-san-protagonist-contest-pokoball.json](./266478-osomatsu-san-protagonist-contest-pokoball.json) |
 | Osseous and Swordy | 263220 | [263220-osseous-and-swordy.json](./263220-osseous-and-swordy.json) |
 | Ostalgie: The Berlin Wall - Legacy of Hoxha | 172165 | [172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json](./172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json) |
@@ -358,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otoko Cross: Naked Remix | 247186 | [247186-otoko-cross-naked-remix.json](./247186-otoko-cross-naked-remix.json) |
 | Otostaz | 175947 | [175947-otostaz.json](./175947-otostaz.json) |
 | Otter Ocean | 242786 | [242786-otter-ocean.json](./242786-otter-ocean.json) |
+| Otter of My Life | 104662 | [104662-otter-of-my-life.json](./104662-otter-of-my-life.json) |
 | Ou Dorobou Jing: Devil Version | 146341 | [146341-ou-dorobou-jing-devil-version.json](./146341-ou-dorobou-jing-devil-version.json) |
 | Oubey VR: Cosmic Voyage | 153421 | [153421-oubey-vr-cosmic-voyage.json](./153421-oubey-vr-cosmic-voyage.json) |
 | Ouchi Otofuda | 206371 | [206371-ouchi-otofuda.json](./206371-ouchi-otofuda.json) |
@@ -373,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Two Bedroom Story: Here's to the Birthday Boy! - Kaoru | 238193 | [238193-our-two-bedroom-story-heres-to-the-birthday-boy-kaoru.json](./238193-our-two-bedroom-story-heres-to-the-birthday-boy-kaoru.json) |
 | Our Two Bedroom Story: Here's to the Birthday Boy! - Minato | 238192 | [238192-our-two-bedroom-story-heres-to-the-birthday-boy-minato.json](./238192-our-two-bedroom-story-heres-to-the-birthday-boy-minato.json) |
 | Our Two Bedroom Story: Here's to the Birthday Boy! - Shusei | 238191 | [238191-our-two-bedroom-story-heres-to-the-birthday-boy-shusei.json](./238191-our-two-bedroom-story-heres-to-the-birthday-boy-shusei.json) |
+| Our Way | 104673 | [104673-our-way.json](./104673-our-way.json) |
 | Our Way | 169977 | [169977-our-way.json](./169977-our-way.json) |
 | Ouros | 258726 | [258726-ouros.json](./258726-ouros.json) |
 | Out and About | 161379 | [161379-out-and-about.json](./161379-out-and-about.json) |
