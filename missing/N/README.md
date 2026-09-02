@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis '90 Kai | 314677 | [314677-nemesis-90-kai.json](./314677-nemesis-90-kai.json) |
 | Nemo | 303778 | [303778-nemo.json](./303778-nemo.json) |
 | Nemo: Puzzle Pack II | 303779 | [303779-nemo-puzzle-pack-ii.json](./303779-nemo-puzzle-pack-ii.json) |
+| Neo 2045 | 148536 | [148536-neo-2045.json](./148536-neo-2045.json) |
 | Neo Berlin 2087 | 244993 | [244993-neo-berlin-2087.json](./244993-neo-berlin-2087.json) |
 | Neo Golden Logres | 218154 | [218154-neo-golden-logres.json](./218154-neo-golden-logres.json) |
 | Neo Heiankyo Alien | 215371 | [215371-neo-heiankyo-alien.json](./215371-neo-heiankyo-alien.json) |
@@ -123,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoLemmix | 189200 | [189200-neolemmix.json](./189200-neolemmix.json) |
 | Neon Abyss 2 | 325279 | [325279-neon-abyss-2.json](./325279-neon-abyss-2.json) |
 | Neon Baller 0.1 | 151706 | [151706-neon-baller-0-1.json](./151706-neon-baller-0-1.json) |
+| Neon Cyborg Cat Club | 148533 | [148533-neon-cyborg-cat-club.json](./148533-neon-cyborg-cat-club.json) |
 | Neon Defenders Premium Defense | 200156 | [200156-neon-defenders-premium-defense.json](./200156-neon-defenders-premium-defense.json) |
 | Neon Express | 310723 | [310723-neon-express.json](./310723-neon-express.json) |
 | Neon Fantasy: Birds | 254144 | [254144-neon-fantasy-birds.json](./254144-neon-fantasy-birds.json) |
