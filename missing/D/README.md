@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dormitabis | 230514 | [230514-dormitabis.json](./230514-dormitabis.json) |
 | Dosukoi Slime | 322998 | [322998-dosukoi-slime.json](./322998-dosukoi-slime.json) |
 | Dot Ninja | 179183 | [179183-dot-ninja.json](./179183-dot-ninja.json) |
+| DotAge | 111045 | [111045-dotage.json](./111045-dotage.json) |
 | Dots and Dashes | 188674 | [188674-dots-and-dashes.json](./188674-dots-and-dashes.json) |
 | Dots in line | 223180 | [223180-dots-in-line.json](./223180-dots-in-line.json) |
 | Dots of War | 241051 | [241051-dots-of-war.json](./241051-dots-of-war.json) |
@@ -866,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream "ID" Journey | 292860 | [292860-dream-id-journey.json](./292860-dream-id-journey.json) |
 | Dream 64 | 244999 | [244999-dream-64.json](./244999-dream-64.json) |
 | Dream Chaser | 257074 | [257074-dream-chaser.json](./257074-dream-chaser.json) |
+| Dream Daddy: Dadrector's Cut | 111064 | [111064-dream-daddy-dadrectors-cut.json](./111064-dream-daddy-dadrectors-cut.json) |
 | Dream Dancer | 209170 | [209170-dream-dancer.json](./209170-dream-dancer.json) |
 | Dream Day: First Home | 209171 | [209171-dream-day-first-home.json](./209171-dream-day-first-home.json) |
 | Dream Day: Honeymoon | 209172 | [209172-dream-day-honeymoon.json](./209172-dream-day-honeymoon.json) |
