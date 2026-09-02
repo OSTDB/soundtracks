@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrorist Killer | 143755 | [143755-terrorist-killer.json](./143755-terrorist-killer.json) |
 | Terry's Treasure Trouble! | 265934 | [265934-terrys-treasure-trouble.json](./265934-terrys-treasure-trouble.json) |
 | Tesla Asteroids | 178643 | [178643-tesla-asteroids.json](./178643-tesla-asteroids.json) |
+| Tessa's Fate | 140583 | [140583-tessas-fate.json](./140583-tessas-fate.json) |
 | Test Subject | 318778 | [318778-test-subject.json](./318778-test-subject.json) |
 | Test Your Mario Memory | 231604 | [231604-test-your-mario-memory.json](./231604-test-your-mario-memory.json) |
 | Test: The Game | 298847 | [298847-test-the-game.json](./298847-test-the-game.json) |
@@ -471,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed Tape | 302677 | [302677-the-cursed-tape.json](./302677-the-cursed-tape.json) |
 | The Cyclist: Tactics | 159354 | [159354-the-cyclist-tactics.json](./159354-the-cyclist-tactics.json) |
 | The Da Vinci Cryptex 2 | 278725 | [278725-the-da-vinci-cryptex-2.json](./278725-the-da-vinci-cryptex-2.json) |
+| The Dark | 140576 | [140576-the-dark.json](./140576-the-dark.json) |
 | The Dark Defender | 199092 | [199092-the-dark-defender.json](./199092-the-dark-defender.json) |
 | The Dark Delivers | 335694 | [335694-the-dark-delivers.json](./335694-the-dark-delivers.json) |
 | The Dark Dungeon | 196291 | [196291-the-dark-dungeon.json](./196291-the-dark-dungeon.json) |
@@ -733,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Iowa | 269847 | [269847-the-legend-of-iowa.json](./269847-the-legend-of-iowa.json) |
 | The Legend of Khiimori | 318175 | [318175-the-legend-of-khiimori.json](./318175-the-legend-of-khiimori.json) |
 | The Legend of Ninja | 147947 | [147947-the-legend-of-ninja.json](./147947-the-legend-of-ninja.json) |
+| The Legend of Pirates Online | 140587 | [140587-the-legend-of-pirates-online.json](./140587-the-legend-of-pirates-online.json) |
 | The Legend of Sky Stones | 307951 | [307951-the-legend-of-sky-stones.json](./307951-the-legend-of-sky-stones.json) |
 | The Legend of Spyro: A New Beginning | 300392 | [300392-the-legend-of-spyro-a-new-beginning.json](./300392-the-legend-of-spyro-a-new-beginning.json) |
 | The Legend of Spyro: The Eternal Night | 300393 | [300393-the-legend-of-spyro-the-eternal-night.json](./300393-the-legend-of-spyro-the-eternal-night.json) |
@@ -839,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mysterious Case of Dr. Jekyll & Mr. Hyde | 197946 | [197946-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json](./197946-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json) |
 | The Mystery Cleaner | 204690 | [204690-the-mystery-cleaner.json](./204690-the-mystery-cleaner.json) |
 | The Mystery of the Art School | 321162 | [321162-the-mystery-of-the-art-school.json](./321162-the-mystery-of-the-art-school.json) |
+| The Mystery of the Crystal Portal: Beyond the Horizon | 140614 | [140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json](./140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json) |
 | The Mystery of the Village's Sacred Tree | 273662 | [273662-the-mystery-of-the-villages-sacred-tree.json](./273662-the-mystery-of-the-villages-sacred-tree.json) |
 | The Mystifying Trial | 163455 | [163455-the-mystifying-trial.json](./163455-the-mystifying-trial.json) |
 | The Nerve Game | 180256 | [180256-the-nerve-game.json](./180256-the-nerve-game.json) |
@@ -1818,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tri Focuser: Outside the Traditional World | 246673 | [246673-tri-focuser-outside-the-traditional-world.json](./246673-tri-focuser-outside-the-traditional-world.json) |
 | Triad | 304367 | [304367-triad.json](./304367-triad.json) |
 | Trial Xtreme 4 Remastered | 208035 | [208035-trial-xtreme-4-remastered.json](./208035-trial-xtreme-4-remastered.json) |
+| Trials 2 | 140577 | [140577-trials-2.json](./140577-trials-2.json) |
 | Trials of Yarbil | 325835 | [325835-trials-of-yarbil.json](./325835-trials-of-yarbil.json) |
 | Triangle Strategy | 318779 | [318779-triangle-strategy.json](./318779-triangle-strategy.json) |
 | Tribe of the Accord | 268221 | [268221-tribe-of-the-accord.json](./268221-tribe-of-the-accord.json) |
