@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Ball Wikie | 196890 | [196890-hard-ball-wikie.json](./196890-hard-ball-wikie.json) |
 | Hard Days | 267087 | [267087-hard-days.json](./267087-hard-days.json) |
 | Hard Glide | 189186 | [189186-hard-glide.json](./189186-hard-glide.json) |
+| Hard Helmets | 99596 | [99596-hard-helmets.json](./99596-hard-helmets.json) |
 | Hard Lads | 135305 | [135305-hard-lads.json](./135305-hard-lads.json) |
 | Hard Life | 219810 | [219810-hard-life.json](./219810-hard-life.json) |
 | Hard Rock Pinball | 133434 | [133434-hard-rock-pinball.json](./133434-hard-rock-pinball.json) |
@@ -175,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House Renovator | 211941 | [211941-haunted-house-renovator.json](./211941-haunted-house-renovator.json) |
 | Haunted House Renovator: Prologue | 316421 | [316421-haunted-house-renovator-prologue.json](./316421-haunted-house-renovator-prologue.json) |
 | Haunted Lands: Burial Grounds | 240502 | [240502-haunted-lands-burial-grounds.json](./240502-haunted-lands-burial-grounds.json) |
+| Haunted Legends: The Stone Guest - Collector's Edition | 99621 | [99621-haunted-legends-the-stone-guest-collectors-edition.json](./99621-haunted-legends-the-stone-guest-collectors-edition.json) |
 | Haunted Legends: The Undertaker | 140028 | [140028-haunted-legends-the-undertaker.json](./140028-haunted-legends-the-undertaker.json) |
 | Haunted Manor 2 | 109018 | [109018-haunted-manor-2.json](./109018-haunted-manor-2.json) |
 | Haunted Manor: Lord of Mirrors | 140029 | [140029-haunted-manor-lord-of-mirrors.json](./140029-haunted-manor-lord-of-mirrors.json) |
@@ -506,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highpoint | 202917 | [202917-highpoint.json](./202917-highpoint.json) |
 | Highrise | 292832 | [292832-highrise.json](./292832-highrise.json) |
 | Highrise City | 147440 | [147440-highrise-city.json](./147440-highrise-city.json) |
+| Highscore Processing Unit | 99645 | [99645-highscore-processing-unit.json](./99645-highscore-processing-unit.json) |
 | Highway of death | 112998 | [112998-highway-of-death.json](./112998-highway-of-death.json) |
 | Higurashi no Naku Koro ni Matsuri: Ch.0 Himatsubushi-hen | 262688 | [262688-higurashi-no-naku-koro-ni-matsuri-ch-0-himatsubushi-hen.json](./262688-higurashi-no-naku-koro-ni-matsuri-ch-0-himatsubushi-hen.json) |
 | Higurashi no Naku Koro ni Matsuri: Ch.1 Taraimawashi-hen | 262680 | [262680-higurashi-no-naku-koro-ni-matsuri-ch-1-taraimawashi-hen.json](./262680-higurashi-no-naku-koro-ni-matsuri-ch-1-taraimawashi-hen.json) |
@@ -608,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honekawa Marionette | 333370 | [333370-honekawa-marionette.json](./333370-honekawa-marionette.json) |
 | Honey Kingdom | 328248 | [328248-honey-kingdom.json](./328248-honey-kingdom.json) |
 | Honey Toast | 207508 | [207508-honey-toast.json](./207508-honey-toast.json) |
+| Honey, I Joined a Cult | 99634 | [99634-honey-i-joined-a-cult.json](./99634-honey-i-joined-a-cult.json) |
 | HoneySun | 260407 | [260407-honeysun.json](./260407-honeysun.json) |
 | Honkai Impact 3rd: Cutting Dreams at Dawn | 268770 | [268770-honkai-impact-3rd-cutting-dreams-at-dawn.json](./268770-honkai-impact-3rd-cutting-dreams-at-dawn.json) |
 | Honkai Impact 3rd: Elysian Reverie | 276496 | [276496-honkai-impact-3rd-elysian-reverie.json](./276496-honkai-impact-3rd-elysian-reverie.json) |
