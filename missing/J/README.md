@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joey's Shisha Simulator | 326412 | [326412-joeys-shisha-simulator.json](./326412-joeys-shisha-simulator.json) |
 | John Madden Football | 295034 | [295034-john-madden-football.json](./295034-john-madden-football.json) |
 | John Madden Football | 295035 | [295035-john-madden-football.json](./295035-john-madden-football.json) |
+| John Wick | 143750 | [143750-john-wick.json](./143750-john-wick.json) |
 | John's Tombstone | 187523 | [187523-johns-tombstone.json](./187523-johns-tombstone.json) |
 | Johnny Boy: Red Moon's Kiss | 188651 | [188651-johnny-boy-red-moons-kiss.json](./188651-johnny-boy-red-moons-kiss.json) |
 | JoJo Siwa: Worldwide Party | 218722 | [218722-jojo-siwa-worldwide-party.json](./218722-jojo-siwa-worldwide-party.json) |
