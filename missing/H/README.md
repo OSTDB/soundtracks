@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huíwén Píngtái Tiàoyuè | 156136 | [156136-huiwen-pingtai-tiaoyue.json](./156136-huiwen-pingtai-tiaoyue.json) |
 | Hululuup | 239907 | [239907-hululuup.json](./239907-hululuup.json) |
 | Human Error | 217001 | [217001-human-error.json](./217001-human-error.json) |
+| Human vs Monster | 150693 | [150693-human-vs-monster.json](./150693-human-vs-monster.json) |
 | Human Wall Simulator | 260414 | [260414-human-wall-simulator.json](./260414-human-wall-simulator.json) |
 | Human-Like | 157185 | [157185-human-like.json](./157185-human-like.json) |
 | Humanoid | 263788 | [263788-humanoid.json](./263788-humanoid.json) |
