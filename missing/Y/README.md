@@ -81,7 +81,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume 3 | 258176 | [258176-yume-3.json](./258176-yume-3.json) |
 | Yume Doodle | 201843 | [201843-yume-doodle.json](./201843-yume-doodle.json) |
 | Yume Fumi | 201847 | [201847-yume-fumi.json](./201847-yume-fumi.json) |
+| Yume Graffiti | 145036 | [145036-yume-graffiti.json](./145036-yume-graffiti.json) |
 | Yume Nikki Ver. 1.00 | 202368 | [202368-yume-nikki-ver-1-00.json](./202368-yume-nikki-ver-1-00.json) |
+| Yume Nisshi | 145033 | [145033-yume-nisshi.json](./145033-yume-nisshi.json) |
 | Yume Shikki | 201848 | [201848-yume-shikki.json](./201848-yume-shikki.json) |
 | Yume Wo. | 150159 | [150159-yume-wo.json](./150159-yume-wo.json) |
 | Yume, Shosen Mousou | 150172 | [150172-yume-shosen-mousou.json](./150172-yume-shosen-mousou.json) |
