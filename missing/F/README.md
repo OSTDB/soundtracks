@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farewell, My Dearest Love | 314063 | [314063-farewell-my-dearest-love.json](./314063-farewell-my-dearest-love.json) |
 | Farm Chores | 304901 | [304901-farm-chores.json](./304901-farm-chores.json) |
 | Farm Expert 2016: Farm Machines Pack | 263190 | [263190-farm-expert-2016-farm-machines-pack.json](./263190-farm-expert-2016-farm-machines-pack.json) |
+| Farm Expert 2019 | 112334 | [112334-farm-expert-2019.json](./112334-farm-expert-2019.json) |
 | Farm Frenzy: Animal Country | 201278 | [201278-farm-frenzy-animal-country.json](./201278-farm-frenzy-animal-country.json) |
 | Farm Frenzy: Forever and Ever! | 201279 | [201279-farm-frenzy-forever-and-ever.json](./201279-farm-frenzy-forever-and-ever.json) |
 | Farm Jam: Animal Parking Game | 247216 | [247216-farm-jam-animal-parking-game.json](./247216-farm-jam-animal-parking-game.json) |
