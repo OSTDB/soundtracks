@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamefest Puzzle Classic | 209592 | [209592-gamefest-puzzle-classic.json](./209592-gamefest-puzzle-classic.json) |
 | Gamer Girls: Futanari | 210858 | [210858-gamer-girls-futanari.json](./210858-gamer-girls-futanari.json) |
 | Gamer Quest | 319951 | [319951-gamer-quest.json](./319951-gamer-quest.json) |
+| Games for Toddlers 2 | 147977 | [147977-games-for-toddlers-2.json](./147977-games-for-toddlers-2.json) |
 | Gaming Cafe Simulator | 318807 | [318807-gaming-cafe-simulator.json](./318807-gaming-cafe-simulator.json) |
 | Gamma64 | 221989 | [221989-gamma64.json](./221989-gamma64.json) |
 | Gangnam City Deluxe | 242207 | [242207-gangnam-city-deluxe.json](./242207-gangnam-city-deluxe.json) |
@@ -94,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garin Game: Curse of Revival Ceremony | 214747 | [214747-garin-game-curse-of-revival-ceremony.json](./214747-garin-game-curse-of-revival-ceremony.json) |
 | Garnet Cradle | 221412 | [221412-garnet-cradle.json](./221412-garnet-cradle.json) |
 | Gartic on Stream | 185152 | [185152-gartic-on-stream.json](./185152-gartic-on-stream.json) |
+| Gas Station: Highway Services | 148001 | [148001-gas-station-highway-services.json](./148001-gas-station-highway-services.json) |
 | Gaslamp Cases 5: The Dreadful City | 248917 | [248917-gaslamp-cases-5-the-dreadful-city.json](./248917-gaslamp-cases-5-the-dreadful-city.json) |
 | Gastronomie | 220319 | [220319-gastronomie.json](./220319-gastronomie.json) |
 | Gate Builders | 197414 | [197414-gate-builders.json](./197414-gate-builders.json) |
@@ -323,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gokai Awesome Simulator + | 326416 | [326416-gokai-awesome-simulator.json](./326416-gokai-awesome-simulator.json) |
 | Gold | 315301 | [315301-gold.json](./315301-gold.json) |
 | Gold and Glory: The Road to El Dorado | 209636 | [209636-gold-and-glory-the-road-to-el-dorado.json](./209636-gold-and-glory-the-road-to-el-dorado.json) |
+| Gold Digger | 147994 | [147994-gold-digger.json](./147994-gold-digger.json) |
 | Gold Digger: The Simulator | 315835 | [315835-gold-digger-the-simulator.json](./315835-gold-digger-the-simulator.json) |
 | Gold Drop Mania | 329919 | [329919-gold-drop-mania.json](./329919-gold-drop-mania.json) |
 | Gold For All | 248338 | [248338-gold-for-all.json](./248338-gold-for-all.json) |
@@ -435,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapple Gum | 254150 | [254150-grapple-gum.json](./254150-grapple-gum.json) |
 | Grapple Gunners | 219805 | [219805-grapple-gunners.json](./219805-grapple-gunners.json) |
 | Grasshoping | 257670 | [257670-grasshoping.json](./257670-grasshoping.json) |
+| GravBlocks+ | 147964 | [147964-gravblocks.json](./147964-gravblocks.json) |
 | Grave-Queen | 219806 | [219806-grave-queen.json](./219806-grave-queen.json) |
 | Gravels of Endless War | 149565 | [149565-gravels-of-endless-war.json](./149565-gravels-of-endless-war.json) |
 | Graveyard Dude | 340203 | [340203-graveyard-dude.json](./340203-graveyard-dude.json) |
