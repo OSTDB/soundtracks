@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wangan Midnight Maximum Tune 6 RR+ | 315272 | [315272-wangan-midnight-maximum-tune-6-rr.json](./315272-wangan-midnight-maximum-tune-6-rr.json) |
 | Wani Wani Attack | 210896 | [210896-wani-wani-attack.json](./210896-wani-wani-attack.json) |
 | Wankuru | 242769 | [242769-wankuru.json](./242769-wankuru.json) |
+| Wanna Run Again | 116368 | [116368-wanna-run-again.json](./116368-wanna-run-again.json) |
 | Wanted Shadows | 267679 | [267679-wanted-shadows.json](./267679-wanted-shadows.json) |
 | Wanted: Dead - Collector's Edition | 228736 | [228736-wanted-dead-collectors-edition.json](./228736-wanted-dead-collectors-edition.json) |
 | Wanting Wings | 278705 | [278705-wanting-wings.json](./278705-wanting-wings.json) |
@@ -308,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windborn: Concrete Jungle | 340746 | [340746-windborn-concrete-jungle.json](./340746-windborn-concrete-jungle.json) |
 | Windrush Tales | 180269 | [180269-windrush-tales.json](./180269-windrush-tales.json) |
 | Winds Rhapsody | 142479 | [142479-winds-rhapsody.json](./142479-winds-rhapsody.json) |
+| WindShift | 116362 | [116362-windshift.json](./116362-windshift.json) |
 | Windsor | 209701 | [209701-windsor.json](./209701-windsor.json) |
 | Windsquire: Race From Dragon Castle | 241054 | [241054-windsquire-race-from-dragon-castle.json](./241054-windsquire-race-from-dragon-castle.json) |
 | WinFish 3 - Fly Fishing | 129767 | [129767-winfish-3-fly-fishing.json](./129767-winfish-3-fly-fishing.json) |
