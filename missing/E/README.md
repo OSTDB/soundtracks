@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverMatch | 237672 | [237672-evermatch.json](./237672-evermatch.json) |
 | EverQuest: Torment of Velious | 125475 | [125475-everquest-torment-of-velious.json](./125475-everquest-torment-of-velious.json) |
 | Everseed | 294473 | [294473-everseed.json](./294473-everseed.json) |
+| Everslash | 122424 | [122424-everslash.json](./122424-everslash.json) |
 | Every Ending Is A New Beginning | 184131 | [184131-every-ending-is-a-new-beginning.json](./184131-every-ending-is-a-new-beginning.json) |
 | Every Year Banjir | 254765 | [254765-every-year-banjir.json](./254765-every-year-banjir.json) |
 | Everybody's Home Run Derby | 231056 | [231056-everybodys-home-run-derby.json](./231056-everybodys-home-run-derby.json) |
