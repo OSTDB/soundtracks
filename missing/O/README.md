@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd-mensional | 184117 | [184117-odd-mensional.json](./184117-odd-mensional.json) |
 | Oddhop | 174368 | [174368-oddhop.json](./174368-oddhop.json) |
 | Oddventure | 137646 | [137646-oddventure.json](./137646-oddventure.json) |
+| Oddworld: Munch's Oddysee | 134025 | [134025-oddworld-munchs-oddysee.json](./134025-oddworld-munchs-oddysee.json) |
 | Oddy's Lost and Found | 257071 | [257071-oddys-lost-and-found.json](./257071-oddys-lost-and-found.json) |
 | Ode to Heroes | 137645 | [137645-ode-to-heroes.json](./137645-ode-to-heroes.json) |
 | Odekake Takorin: Choigae | 222527 | [222527-odekake-takorin-choigae.json](./222527-odekake-takorin-choigae.json) |
@@ -201,6 +202,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Pirate Warriors 3 - DLC Pack 2 | 171052 | [171052-one-piece-pirate-warriors-3-dlc-pack-2.json](./171052-one-piece-pirate-warriors-3-dlc-pack-2.json) |
 | One Piece: Pirate Warriors 4 - Path to the King of the Pirates & Soul Map 3 | 294429 | [294429-one-piece-pirate-warriors-4-path-to-the-king-of-the-pirates-and-soul-map-3.json](./294429-one-piece-pirate-warriors-4-path-to-the-king-of-the-pirates-and-soul-map-3.json) |
 | One Piece: World Seeker Episode Pass | 152911 | [152911-one-piece-world-seeker-episode-pass.json](./152911-one-piece-world-seeker-episode-pass.json) |
+| One Punch Man: A Hero Nobody Knows DLC Pack 1 - Suiryu | 134062 | [134062-one-punch-man-a-hero-nobody-knows-dlc-pack-1-suiryu.json](./134062-one-punch-man-a-hero-nobody-knows-dlc-pack-1-suiryu.json) |
+| One Punch Man: A Hero Nobody Knows DLC Pack 2 - Lightning Max | 134063 | [134063-one-punch-man-a-hero-nobody-knows-dlc-pack-2-lightning-max.json](./134063-one-punch-man-a-hero-nobody-knows-dlc-pack-2-lightning-max.json) |
+| One Punch Man: A Hero Nobody Knows DLC Pack 3 - Watchdog Man | 134064 | [134064-one-punch-man-a-hero-nobody-knows-dlc-pack-3-watchdog-man.json](./134064-one-punch-man-a-hero-nobody-knows-dlc-pack-3-watchdog-man.json) |
+| One Punch Man: A Hero Nobody Knows DLC Pack 4 - Garou | 134065 | [134065-one-punch-man-a-hero-nobody-knows-dlc-pack-4-garou.json](./134065-one-punch-man-a-hero-nobody-knows-dlc-pack-4-garou.json) |
 | One Room Hotel | 178654 | [178654-one-room-hotel.json](./178654-one-room-hotel.json) |
 | One Room: Prisoner's Dilemma | 304353 | [304353-one-room-prisoners-dilemma.json](./304353-one-room-prisoners-dilemma.json) |
 | One S'More | 258706 | [258706-one-smore.json](./258706-one-smore.json) |
@@ -323,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Friend Sloth | 179196 | [179196-our-friend-sloth.json](./179196-our-friend-sloth.json) |
 | Our Ninja World | 199106 | [199106-our-ninja-world.json](./199106-our-ninja-world.json) |
 | Our Tribe Above All | 263774 | [263774-our-tribe-above-all.json](./263774-our-tribe-above-all.json) |
+| Our Two Bedroom Story | 134016 | [134016-our-two-bedroom-story.json](./134016-our-two-bedroom-story.json) |
 | Our Two Bedroom Story: Here's to the Birthday Boy! - Akiyoshi | 238194 | [238194-our-two-bedroom-story-heres-to-the-birthday-boy-akiyoshi.json](./238194-our-two-bedroom-story-heres-to-the-birthday-boy-akiyoshi.json) |
 | Our Two Bedroom Story: Here's to the Birthday Boy! - Kaoru | 238193 | [238193-our-two-bedroom-story-heres-to-the-birthday-boy-kaoru.json](./238193-our-two-bedroom-story-heres-to-the-birthday-boy-kaoru.json) |
 | Our Two Bedroom Story: Here's to the Birthday Boy! - Minato | 238192 | [238192-our-two-bedroom-story-heres-to-the-birthday-boy-minato.json](./238192-our-two-bedroom-story-heres-to-the-birthday-boy-minato.json) |
