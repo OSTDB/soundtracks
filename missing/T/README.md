@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Croaker: The Ice | 306058 | [306058-the-croaker-the-ice.json](./306058-the-croaker-the-ice.json) |
 | The Crows | 326985 | [326985-the-crows.json](./326985-the-crows.json) |
 | The Crystal Rainforest | 151716 | [151716-the-crystal-rainforest.json](./151716-the-crystal-rainforest.json) |
+| The Cult: Marduk's Longest Night | 121742 | [121742-the-cult-marduks-longest-night.json](./121742-the-cult-marduks-longest-night.json) |
 | The Curator | 137668 | [137668-the-curator.json](./137668-the-curator.json) |
 | The Cure | 184647 | [184647-the-cure.json](./184647-the-cure.json) |
 | The Curiosity | 311801 | [311801-the-curiosity.json](./311801-the-curiosity.json) |
@@ -948,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pillagers of Raillore | 137096 | [137096-the-pillagers-of-raillore.json](./137096-the-pillagers-of-raillore.json) |
 | The Play's the Thing | 154017 | [154017-the-plays-the-thing.json](./154017-the-plays-the-thing.json) |
 | The Plug | 175436 | [175436-the-plug.json](./175436-the-plug.json) |
+| The Pointless Car Chase | 121701 | [121701-the-pointless-car-chase.json](./121701-the-pointless-car-chase.json) |
 | The Power | 137071 | [137071-the-power.json](./137071-the-power.json) |
 | The Powerpuff Girls: Monkey Mania | 309101 | [309101-the-powerpuff-girls-monkey-mania.json](./309101-the-powerpuff-girls-monkey-mania.json) |
 | The President | 209640 | [209640-the-president.json](./209640-the-president.json) |
