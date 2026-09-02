@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nations At War Digital: Stalin's Triumph Battlepack 2 | 166196 | [166196-nations-at-war-digital-stalins-triumph-battlepack-2.json](./166196-nations-at-war-digital-stalins-triumph-battlepack-2.json) |
 | Nations At War Digital: White Star Rising Battlepack 1 | 166198 | [166198-nations-at-war-digital-white-star-rising-battlepack-1.json](./166198-nations-at-war-digital-white-star-rising-battlepack-1.json) |
 | Nations At War Digital: White Star Rising Battlepack 2 | 166201 | [166201-nations-at-war-digital-white-star-rising-battlepack-2.json](./166201-nations-at-war-digital-white-star-rising-battlepack-2.json) |
+| Natsu Ecchi 2: Futago to Inaka no Natsuyasumi | 109001 | [109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json](./109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json) |
 | Natsu no Sagashimono: What We Found That Summer | 331121 | [331121-natsu-no-sagashimono-what-we-found-that-summer.json](./331121-natsu-no-sagashimono-what-we-found-that-summer.json) |
 | Natural Craft | 277570 | [277570-natural-craft.json](./277570-natural-craft.json) |
 | Naturalist Stories | 156146 | [156146-naturalist-stories.json](./156146-naturalist-stories.json) |
@@ -88,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Now 23 | 239884 | [239884-nba-now-23.json](./239884-nba-now-23.json) |
 | NBA the Run | 309667 | [309667-nba-the-run.json](./309667-nba-the-run.json) |
 | NCAA Football 09: All-Play | 137060 | [137060-ncaa-football-09-all-play.json](./137060-ncaa-football-09-all-play.json) |
+| NE_01 | 109025 | [109025-ne-01.json](./109025-ne-01.json) |
 | Near Bird | 113700 | [113700-near-bird.json](./113700-near-bird.json) |
 | NearEscape | 109685 | [109685-nearescape.json](./109685-nearescape.json) |
 | Nebula | 197412 | [197412-nebula.json](./197412-nebula.json) |
@@ -236,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL GameDay 2005 | 209589 | [209589-nfl-gameday-2005.json](./209589-nfl-gameday-2005.json) |
 | Ngolf: Legendary Edition | 315858 | [315858-ngolf-legendary-edition.json](./315858-ngolf-legendary-edition.json) |
 | NHRA Championship Drag Racing: Speed for All - Deluxe Edition | 214728 | [214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json](./214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json) |
+| Ni Hao, Kai-lan: Beach Day | 109052 | [109052-ni-hao-kai-lan-beach-day.json](./109052-ni-hao-kai-lan-beach-day.json) |
 | Niaki | 262065 | [262065-niaki.json](./262065-niaki.json) |
 | Nice Shot Golf | 123629 | [123629-nice-shot-golf.json](./123629-nice-shot-golf.json) |
 | Nice Try! | 129229 | [129229-nice-try.json](./129229-nice-try.json) |
@@ -297,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nihongo de Asobo | 327598 | [327598-nihongo-de-asobo.json](./327598-nihongo-de-asobo.json) |
 | Nihongo Quest: N5 | 143704 | [143704-nihongo-quest-n5.json](./143704-nihongo-quest-n5.json) |
 | Nihongo School | 257106 | [257106-nihongo-school.json](./257106-nihongo-school.json) |
+| Niji-iro Canvas | 109003 | [109003-niji-iro-canvas.json](./109003-niji-iro-canvas.json) |
 | Nikka: Rise | 235486 | [235486-nikka-rise.json](./235486-nikka-rise.json) |
 | Nilia | 146898 | [146898-nilia.json](./146898-nilia.json) |
 | Nimbit Frontier | 258173 | [258173-nimbit-frontier.json](./258173-nimbit-frontier.json) |
@@ -502,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Num One: Revised Edition | 187504 | [187504-num-one-revised-edition.json](./187504-num-one-revised-edition.json) |
 | Number Munchers | 128661 | [128661-number-munchers.json](./128661-number-munchers.json) |
 | Number One Rich | 158198 | [158198-number-one-rich.json](./158198-number-one-rich.json) |
+| Number Puzzler | 109042 | [109042-number-puzzler.json](./109042-number-puzzler.json) |
 | Number Slide Puzzle | 228106 | [228106-number-slide-puzzle.json](./228106-number-slide-puzzle.json) |
 | Number Wars | 193474 | [193474-number-wars.json](./193474-number-wars.json) |
 | Numeral Lord | 221426 | [221426-numeral-lord.json](./221426-numeral-lord.json) |
