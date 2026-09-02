@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitesurf Runner | 304379 | [304379-kitesurf-runner.json](./304379-kitesurf-runner.json) |
 | Kitori Academy | 136477 | [136477-kitori-academy.json](./136477-kitori-academy.json) |
 | Kitsune Battlemage | 190236 | [190236-kitsune-battlemage.json](./190236-kitsune-battlemage.json) |
+| Kitsune no Tabiji | 126627 | [126627-kitsune-no-tabiji.json](./126627-kitsune-no-tabiji.json) |
 | Kitsune: The Journey of Adashino | 217024 | [217024-kitsune-the-journey-of-adashino.json](./217024-kitsune-the-journey-of-adashino.json) |
 | Kitten Lost Her Box | 235490 | [235490-kitten-lost-her-box.json](./235490-kitten-lost-her-box.json) |
 | Kitten's Head Football: Spooky Edition | 221970 | [221970-kittens-head-football-spooky-edition.json](./221970-kittens-head-football-spooky-edition.json) |
@@ -290,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Komako | 165051 | [165051-komako.json](./165051-komako.json) |
 | Kombate Mexicano Elexiones | 261555 | [261555-kombate-mexicano-elexiones.json](./261555-kombate-mexicano-elexiones.json) |
 | Kommersant | 180295 | [180295-kommersant.json](./180295-kommersant.json) |
+| Komori Fruit Rush | 126633 | [126633-komori-fruit-rush.json](./126633-komori-fruit-rush.json) |
 | Konkwest | 277599 | [277599-konkwest.json](./277599-konkwest.json) |
 | Kono Aozora ni Yakusoku wo | 324662 | [324662-kono-aozora-ni-yakusoku-wo.json](./324662-kono-aozora-ni-yakusoku-wo.json) |
 | Kono Aozora ni Yakusoku wo: Melody of the Sun and Sea | 324668 | [324668-kono-aozora-ni-yakusoku-wo-melody-of-the-sun-and-sea.json](./324668-kono-aozora-ni-yakusoku-wo-melody-of-the-sun-and-sea.json) |
