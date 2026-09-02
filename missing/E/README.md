@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Essence Child | 260967 | [260967-essence-child.json](./260967-essence-child.json) |
 | Essence of Waluigi | 250044 | [250044-essence-of-waluigi.json](./250044-essence-of-waluigi.json) |
 | Esten | 186291 | [186291-esten.json](./186291-esten.json) |
+| Estigma | 142497 | [142497-estigma.json](./142497-estigma.json) |
 | ET Superman: Wrath of Tyrannosaurus Rex | 195258 | [195258-et-superman-wrath-of-tyrannosaurus-rex.json](./195258-et-superman-wrath-of-tyrannosaurus-rex.json) |
 | Eternal Destiny | 251215 | [251215-eternal-destiny.json](./251215-eternal-destiny.json) |
 | Eternal Fate: A Journey Begins | 298340 | [298340-eternal-fate-a-journey-begins.json](./298340-eternal-fate-a-journey-begins.json) |
