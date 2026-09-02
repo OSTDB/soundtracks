@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Astronomy Game | 156144 | [156144-the-astronomy-game.json](./156144-the-astronomy-game.json) |
 | The Auto Sort Is Broken | 329363 | [329363-the-auto-sort-is-broken.json](./329363-the-auto-sort-is-broken.json) |
 | The Awakening of a Villainous Lady: A Crimson and Pure White Romance | 310208 | [310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json](./310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json) |
+| The Backrooms Simulator | 121032 | [121032-the-backrooms-simulator.json](./121032-the-backrooms-simulator.json) |
 | The Backrooms World | 204671 | [204671-the-backrooms-world.json](./204671-the-backrooms-world.json) |
 | The Backrooms: Mass Extinction | 203558 | [203558-the-backrooms-mass-extinction.json](./203558-the-backrooms-mass-extinction.json) |
 | The Backrooms: Survival | 192975 | [192975-the-backrooms-survival.json](./192975-the-backrooms-survival.json) |
@@ -959,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pub Simulator | 238727 | [238727-the-pub-simulator.json](./238727-the-pub-simulator.json) |
 | The Purgatory and the Stolen Souls | 239285 | [239285-the-purgatory-and-the-stolen-souls.json](./239285-the-purgatory-and-the-stolen-souls.json) |
 | The Puzzle of Blocks | 268214 | [268214-the-puzzle-of-blocks.json](./268214-the-puzzle-of-blocks.json) |
+| The Quest for Achievements Remix | 121008 | [121008-the-quest-for-achievements-remix.json](./121008-the-quest-for-achievements-remix.json) |
 | The Quest for One | 202970 | [202970-the-quest-for-one.json](./202970-the-quest-for-one.json) |
 | The Quest: Hero of Lukomorye V | 200205 | [200205-the-quest-hero-of-lukomorye-v.json](./200205-the-quest-hero-of-lukomorye-v.json) |
 | The Question | 170529 | [170529-the-question.json](./170529-the-question.json) |
@@ -1023,7 +1025,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4 Halloween Bundle | 272558 | [272558-the-sims-4-halloween-bundle.json](./272558-the-sims-4-halloween-bundle.json) |
 | The Sims 4: Artist Studio Kit | 317646 | [317646-the-sims-4-artist-studio-kit.json](./317646-the-sims-4-artist-studio-kit.json) |
 | The Sims 4: Back to School Bundle | 159331 | [159331-the-sims-4-back-to-school-bundle.json](./159331-the-sims-4-back-to-school-bundle.json) |
+| The Sims 4: Backyard Stuff | 121024 | [121024-the-sims-4-backyard-stuff.json](./121024-the-sims-4-backyard-stuff.json) |
 | The Sims 4: Basement Treasures Kit | 246619 | [246619-the-sims-4-basement-treasures-kit.json](./246619-the-sims-4-basement-treasures-kit.json) |
+| The Sims 4: Bowling Night Stuff | 121026 | [121026-the-sims-4-bowling-night-stuff.json](./121026-the-sims-4-bowling-night-stuff.json) |
 | The Sims 4: Bundle - Cats & Dogs, Parenthood, Toddler Stuff | 159333 | [159333-the-sims-4-bundle-cats-and-dogs-parenthood-toddler-stuff.json](./159333-the-sims-4-bundle-cats-and-dogs-parenthood-toddler-stuff.json) |
 | The Sims 4: Bundle - City Living, Vampires, Vintage Glamour Stuff | 159336 | [159336-the-sims-4-bundle-city-living-vampires-vintage-glamour-stuff.json](./159336-the-sims-4-bundle-city-living-vampires-vintage-glamour-stuff.json) |
 | The Sims 4: Bundle - Get to Work, Dine Out, Cool Kitchen Stuff | 159334 | [159334-the-sims-4-bundle-get-to-work-dine-out-cool-kitchen-stuff.json](./159334-the-sims-4-bundle-get-to-work-dine-out-cool-kitchen-stuff.json) |
@@ -1033,15 +1037,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Bundle Pack 6 | 159329 | [159329-the-sims-4-bundle-pack-6.json](./159329-the-sims-4-bundle-pack-6.json) |
 | The Sims 4: Everyday Stuff Bundle | 159341 | [159341-the-sims-4-everyday-stuff-bundle.json](./159341-the-sims-4-everyday-stuff-bundle.json) |
 | The Sims 4: Extreme Violence | 259250 | [259250-the-sims-4-extreme-violence.json](./259250-the-sims-4-extreme-violence.json) |
+| The Sims 4: Kids Room Stuff | 121023 | [121023-the-sims-4-kids-room-stuff.json](./121023-the-sims-4-kids-room-stuff.json) |
 | The Sims 4: Life and Death | 316426 | [316426-the-sims-4-life-and-death.json](./316426-the-sims-4-life-and-death.json) |
 | The Sims 4: Live Lavishly Bundle | 159330 | [159330-the-sims-4-live-lavishly-bundle.json](./159330-the-sims-4-live-lavishly-bundle.json) |
 | The Sims 4: Outdoor Bundle | 159339 | [159339-the-sims-4-outdoor-bundle.json](./159339-the-sims-4-outdoor-bundle.json) |
+| The Sims 4: Romantic Garden Stuff | 121022 | [121022-the-sims-4-romantic-garden-stuff.json](./121022-the-sims-4-romantic-garden-stuff.json) |
 | The Sims 4: Seasons, Jungle Adventure, Spooky Stuff | 159332 | [159332-the-sims-4-seasons-jungle-adventure-spooky-stuff.json](./159332-the-sims-4-seasons-jungle-adventure-spooky-stuff.json) |
 | The Sims 4: Sims' Night Out Bundle | 159337 | [159337-the-sims-4-sims-night-out-bundle.json](./159337-the-sims-4-sims-night-out-bundle.json) |
 | The Sims 4: Starter Bundle | 159338 | [159338-the-sims-4-starter-bundle.json](./159338-the-sims-4-starter-bundle.json) |
 | The Sims 4: Storybook Nursery Kit | 317647 | [317647-the-sims-4-storybook-nursery-kit.json](./317647-the-sims-4-storybook-nursery-kit.json) |
 | The Sims 4: Stuff Bundle | 159340 | [159340-the-sims-4-stuff-bundle.json](./159340-the-sims-4-stuff-bundle.json) |
 | The Sims 4: The Daring Lifestyle Bundle | 249484 | [249484-the-sims-4-the-daring-lifestyle-bundle.json](./249484-the-sims-4-the-daring-lifestyle-bundle.json) |
+| The Sims 4: Vintage Glamour Stuff | 121025 | [121025-the-sims-4-vintage-glamour-stuff.json](./121025-the-sims-4-vintage-glamour-stuff.json) |
 | The Sims: Legacy Collection | 329954 | [329954-the-sims-legacy-collection.json](./329954-the-sims-legacy-collection.json) |
 | The Sinking City: Investigator Pack | 308567 | [308567-the-sinking-city-investigator-pack.json](./308567-the-sinking-city-investigator-pack.json) |
 | The Sinking City: Whisper of Darkness Pass | 208047 | [208047-the-sinking-city-whisper-of-darkness-pass.json](./208047-the-sinking-city-whisper-of-darkness-pass.json) |
@@ -1768,6 +1775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracery of Fate VR | 207496 | [207496-tracery-of-fate-vr.json](./207496-tracery-of-fate-vr.json) |
 | Track & Field | 239296 | [239296-track-and-field.json](./239296-track-and-field.json) |
 | Track Attack: Changes Everything | 251202 | [251202-track-attack-changes-everything.json](./251202-track-attack-changes-everything.json) |
+| Tractage aux Portes 2: Mob a la Cafeteria | 120979 | [120979-tractage-aux-portes-2-mob-a-la-cafeteria.json](./120979-tractage-aux-portes-2-mob-a-la-cafeteria.json) |
 | Tractor Journey | 223154 | [223154-tractor-journey.json](./223154-tractor-journey.json) |
 | Trade City | 257683 | [257683-trade-city.json](./257683-trade-city.json) |
 | Trade Sails | 200718 | [200718-trade-sails.json](./200718-trade-sails.json) |
@@ -2003,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsugunohi: Supernatural Supermarket | 234297 | [234297-tsugunohi-supernatural-supermarket.json](./234297-tsugunohi-supernatural-supermarket.json) |
 | Tsuki no Shoujo: Bishoujo Gakuen 2 | 194622 | [194622-tsuki-no-shoujo-bishoujo-gakuen-2.json](./194622-tsuki-no-shoujo-bishoujo-gakuen-2.json) |
 | Tsukihime: Fool's Errand | 254127 | [254127-tsukihime-fools-errand.json](./254127-tsukihime-fools-errand.json) |
+| Tsukikage no Simulacre: Kaihou no Hane | 120995 | [120995-tsukikage-no-simulacre-kaihou-no-hane.json](./120995-tsukikage-no-simulacre-kaihou-no-hane.json) |
 | Tsumobaka Nisshi | 299440 | [299440-tsumobaka-nisshi.json](./299440-tsumobaka-nisshi.json) |
 | Tsunagaru Voiro Shooters vs. Space Kedamaki | 204732 | [204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json](./204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json) |
 | Tsunami Cruiser | 184655 | [184655-tsunami-cruiser.json](./184655-tsunami-cruiser.json) |
