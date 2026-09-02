@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy: Animal Country | 201278 | [201278-farm-frenzy-animal-country.json](./201278-farm-frenzy-animal-country.json) |
 | Farm Frenzy: Forever and Ever! | 201279 | [201279-farm-frenzy-forever-and-ever.json](./201279-farm-frenzy-forever-and-ever.json) |
 | Farm Jam: Animal Parking Game | 247216 | [247216-farm-jam-animal-parking-game.json](./247216-farm-jam-animal-parking-game.json) |
+| Farm Manager 2021 | 139459 | [139459-farm-manager-2021.json](./139459-farm-manager-2021.json) |
 | Farm Manager 2021: Brewing & Winemaking | 171606 | [171606-farm-manager-2021-brewing-and-winemaking.json](./171606-farm-manager-2021-brewing-and-winemaking.json) |
 | Farm Manager 2022 | 193460 | [193460-farm-manager-2022.json](./193460-farm-manager-2022.json) |
 | Farm Slam | 241628 | [241628-farm-slam.json](./241628-farm-slam.json) |
@@ -262,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Road | 242210 | [242210-find-the-road.json](./242210-find-the-road.json) |
 | Find the Stalker | 310219 | [310219-find-the-stalker.json](./310219-find-the-stalker.json) |
 | Find Us Cats | 315297 | [315297-find-us-cats.json](./315297-find-us-cats.json) |
+| Finders, Keepers | 139457 | [139457-finders-keepers.json](./139457-finders-keepers.json) |
 | Finding America: New England | 273665 | [273665-finding-america-new-england.json](./273665-finding-america-new-england.json) |
 | Finding America: The Great Lakes | 260396 | [260396-finding-america-the-great-lakes.json](./260396-finding-america-the-great-lakes.json) |
 | Finding America: The Heartland - Collector's Edition | 224200 | [224200-finding-america-the-heartland-collectors-edition.json](./224200-finding-america-the-heartland-collectors-edition.json) |
