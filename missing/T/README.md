@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Capcom Collection | 246090 | [246090-the-capcom-collection.json](./246090-the-capcom-collection.json) |
 | The Caped Crusader | 278715 | [278715-the-caped-crusader.json](./278715-the-caped-crusader.json) |
 | The Capitol Cheese Agreement | 307316 | [307316-the-capitol-cheese-agreement.json](./307316-the-capitol-cheese-agreement.json) |
+| The Cartographer's Tale | 103509 | [103509-the-cartographers-tale.json](./103509-the-cartographers-tale.json) |
 | The Case of the Serialized Killer | 209720 | [209720-the-case-of-the-serialized-killer.json](./209720-the-case-of-the-serialized-killer.json) |
 | The Casino: Roulette, Video Poker, Slot Machines, Craps, Baccarat | 147952 | [147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json](./147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json) |
 | The Castle Disaster 2 | 105318 | [105318-the-castle-disaster-2.json](./105318-the-castle-disaster-2.json) |
@@ -1868,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town of Sin | 175994 | [175994-town-of-sin.json](./175994-town-of-sin.json) |
 | Town of Tides | 198540 | [198540-town-of-tides.json](./198540-town-of-tides.json) |
 | Townframe | 199128 | [199128-townframe.json](./199128-townframe.json) |
+| Townkins | 103524 | [103524-townkins.json](./103524-townkins.json) |
 | Townlore 2.0 | 299480 | [299480-townlore-2-0.json](./299480-townlore-2-0.json) |
 | Towns and Towers | 341866 | [341866-towns-and-towers.json](./341866-towns-and-towers.json) |
 | Townscaper VR | 223141 | [223141-townscaper-vr.json](./223141-townscaper-vr.json) |
@@ -1960,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: Zacens Wagon Pack | 293394 | [293394-train-simulator-classic-zacens-wagon-pack.json](./293394-train-simulator-classic-zacens-wagon-pack.json) |
 | Train Simulator Classic: Zcs VTG Wagon Pack | 293395 | [293395-train-simulator-classic-zcs-vtg-wagon-pack.json](./293395-train-simulator-classic-zcs-vtg-wagon-pack.json) |
 | Train Simulator: EA-692 | 306071 | [306071-train-simulator-ea-692.json](./306071-train-simulator-ea-692.json) |
+| Train Simulator: London Subway | 103488 | [103488-train-simulator-london-subway.json](./103488-train-simulator-london-subway.json) |
 | Train Simulator: ÖBB 4748 | 306074 | [306074-train-simulator-obb-4748.json](./306074-train-simulator-obb-4748.json) |
 | Train Simulator: Payerbach - Wien Hbf Route Add-On | 306073 | [306073-train-simulator-payerbach-wien-hbf-route-add-on.json](./306073-train-simulator-payerbach-wien-hbf-route-add-on.json) |
 | Train Simulator: Stevens Pass Scenario Pack 02 | 306072 | [306072-train-simulator-stevens-pass-scenario-pack-02.json](./306072-train-simulator-stevens-pass-scenario-pack-02.json) |
