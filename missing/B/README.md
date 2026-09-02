@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Time Simulator | 269275 | [269275-baby-time-simulator.json](./269275-baby-time-simulator.json) |
 | Back 2 School | 192417 | [192417-back-2-school.json](./192417-back-2-school.json) |
 | Back 4 Blood: Annual Pass | 293917 | [293917-back-4-blood-annual-pass.json](./293917-back-4-blood-annual-pass.json) |
+| Back 4 Blood: Ultimate Edition | 141889 | [141889-back-4-blood-ultimate-edition.json](./141889-back-4-blood-ultimate-edition.json) |
 | Back Rooms: Ground Zero | 250641 | [250641-back-rooms-ground-zero.json](./250641-back-rooms-ground-zero.json) |
 | Back to Brother | 231047 | [231047-back-to-brother.json](./231047-back-to-brother.json) |
 | Back to Home | 220350 | [220350-back-to-home.json](./220350-back-to-home.json) |
@@ -78,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balancefield | 180826 | [180826-balancefield.json](./180826-balancefield.json) |
 | Bald Man Climbs Up | 260988 | [260988-bald-man-climbs-up.json](./260988-bald-man-climbs-up.json) |
 | Baldi's Basics 1 Year Birthday Bash! | 176497 | [176497-baldis-basics-1-year-birthday-bash.json](./176497-baldis-basics-1-year-birthday-bash.json) |
+| Baldur's Gate Compilation | 141859 | [141859-baldurs-gate-compilation.json](./141859-baldurs-gate-compilation.json) |
 | Baldwin's Bear | 195262 | [195262-baldwins-bear.json](./195262-baldwins-bear.json) |
 | Baldy Dash | 314681 | [314681-baldy-dash.json](./314681-baldy-dash.json) |
 | Balkan Bloodbath | 310726 | [310726-balkan-bloodbath.json](./310726-balkan-bloodbath.json) |
@@ -418,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biohazard: 5th Anniversary Special Package | 145009 | [145009-biohazard-5th-anniversary-special-package.json](./145009-biohazard-5th-anniversary-special-package.json) |
 | Biomeinoes | 275877 | [275877-biomeinoes.json](./275877-biomeinoes.json) |
 | Bionicle: City of Legends | 175995 | [175995-bionicle-city-of-legends.json](./175995-bionicle-city-of-legends.json) |
+| Bionicle: Masks of Power | 141873 | [141873-bionicle-masks-of-power.json](./141873-bionicle-masks-of-power.json) |
 | Biorhythm | 170531 | [170531-biorhythm.json](./170531-biorhythm.json) |
 | BioSynth: Rising | 336892 | [336892-biosynth-rising.json](./336892-biosynth-rising.json) |
 | Biotech Samurai | 161385 | [161385-biotech-samurai.json](./161385-biotech-samurai.json) |
@@ -774,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bride for the Princess | 158192 | [158192-bride-for-the-princess.json](./158192-bride-for-the-princess.json) |
 | BridgeFix 2=3-1 | 158731 | [158731-bridgefix-2-3-1.json](./158731-bridgefix-2-3-1.json) |
 | Brigandine | 143118 | [143118-brigandine.json](./143118-brigandine.json) |
+| Bright Lancer | 141881 | [141881-bright-lancer.json](./141881-bright-lancer.json) |
 | Bright Oak | 277016 | [277016-bright-oak.json](./277016-bright-oak.json) |
 | Bright Reappear | 254171 | [254171-bright-reappear.json](./254171-bright-reappear.json) |
 | Bright Side: Riddles & Puzzles | 265393 | [265393-bright-side-riddles-and-puzzles.json](./265393-bright-side-riddles-and-puzzles.json) |
@@ -842,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Wrap DS | 215382 | [215382-bubble-wrap-ds.json](./215382-bubble-wrap-ds.json) |
 | Bubble Wrap Frenzy | 233236 | [233236-bubble-wrap-frenzy.json](./233236-bubble-wrap-frenzy.json) |
 | BubbleTT: Oh! My Fart | 256528 | [256528-bubblett-oh-my-fart.json](./256528-bubblett-oh-my-fart.json) |
+| Buccaneer | 141845 | [141845-buccaneer.json](./141845-buccaneer.json) |
 | Buck Blastem | 322987 | [322987-buck-blastem.json](./322987-buck-blastem.json) |
 | Bug & Seek | 271464 | [271464-bug-and-seek.json](./271464-bug-and-seek.json) |
 | Bug & Seek: Weevils DLC | 298342 | [298342-bug-and-seek-weevils-dlc.json](./298342-bug-and-seek-weevils-dlc.json) |
