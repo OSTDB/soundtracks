@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xīngjì Shéngé | 196875 | [196875-xingji-shenge.json](./196875-xingji-shenge.json) |
 | Xio: Survival | 193496 | [193496-xio-survival.json](./193496-xio-survival.json) |
 | Xmas Boom | 254136 | [254136-xmas-boom.json](./254136-xmas-boom.json) |
+| Xob | 149609 | [149609-xob.json](./149609-xob.json) |
 | Xolotl | 195762 | [195762-xolotl.json](./195762-xolotl.json) |
 | Xonix | 304330 | [304330-xonix.json](./304330-xonix.json) |
 | Xplode Man | 313495 | [313495-xplode-man.json](./313495-xplode-man.json) |
