@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vibin'Vendetta | 302671 | [302671-vibinvendetta.json](./302671-vibinvendetta.json) |
 | Victoria 3: Voice of the People | 247786 | [247786-victoria-3-voice-of-the-people.json](./247786-victoria-3-voice-of-the-people.json) |
 | Victory of Seeker | 338570 | [338570-victory-of-seeker.json](./338570-victory-of-seeker.json) |
+| Video Game Feminization Hypnosis | 146905 | [146905-video-game-feminization-hypnosis.json](./146905-video-game-feminization-hypnosis.json) |
 | Video Poker | 272552 | [272552-video-poker.json](./272552-video-poker.json) |
 | Video's Revenge | 178065 | [178065-videos-revenge.json](./178065-videos-revenge.json) |
 | Videoclub Simulator | 339093 | [339093-videoclub-simulator.json](./339093-videoclub-simulator.json) |
@@ -173,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidcrisis | 210889 | [210889-voidcrisis.json](./210889-voidcrisis.json) |
 | VoidOut Parkour | 155660 | [155660-voidout-parkour.json](./155660-voidout-parkour.json) |
 | Volcania Peaks | 254120 | [254120-volcania-peaks.json](./254120-volcania-peaks.json) |
+| Volcanic Blocks | 146918 | [146918-volcanic-blocks.json](./146918-volcanic-blocks.json) |
 | Volcanic Planet | 297242 | [297242-volcanic-planet.json](./297242-volcanic-planet.json) |
 | Volcanon | 195193 | [195193-volcanon.json](./195193-volcanon.json) |
 | Volleyball Trainer: The Legend of Sports | 224211 | [224211-volleyball-trainer-the-legend-of-sports.json](./224211-volleyball-trainer-the-legend-of-sports.json) |
