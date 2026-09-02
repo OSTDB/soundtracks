@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Heart | 248897 | [248897-machine-heart.json](./248897-machine-heart.json) |
 | Machine Love 2069 | 247739 | [247739-machine-love-2069.json](./247739-machine-love-2069.json) |
 | Machine Men | 299448 | [299448-machine-men.json](./299448-machine-men.json) |
+| Machine With a Big Gun | 103479 | [103479-machine-with-a-big-gun.json](./103479-machine-with-a-big-gun.json) |
 | Machizzle | 139478 | [139478-machizzle.json](./139478-machizzle.json) |
 | Macrocosm | 200180 | [200180-macrocosm.json](./200180-macrocosm.json) |
 | MacShot | 192447 | [192447-macshot.json](./192447-macshot.json) |
@@ -76,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Streets | 335648 | [335648-magic-streets.json](./335648-magic-streets.json) |
 | Magic Summoning Adventure | 154014 | [154014-magic-summoning-adventure.json](./154014-magic-summoning-adventure.json) |
 | Magic Survivor Undead | 333399 | [333399-magic-survivor-undead.json](./333399-magic-survivor-undead.json) |
+| Magic Synthesis | 103487 | [103487-magic-synthesis.json](./103487-magic-synthesis.json) |
 | Magic Touch: Wizard for Hire | 117755 | [117755-magic-touch-wizard-for-hire.json](./117755-magic-touch-wizard-for-hire.json) |
 | Magic Tower | 161372 | [161372-magic-tower.json](./161372-magic-tower.json) |
 | Magic Tower Adventure | 173803 | [173803-magic-tower-adventure.json](./173803-magic-tower-adventure.json) |
@@ -439,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Bundle: Cats | 208046 | [208046-mega-bundle-cats.json](./208046-mega-bundle-cats.json) |
 | Mega Drive Mini | 215392 | [215392-mega-drive-mini.json](./215392-mega-drive-mini.json) |
 | Mega Man 4 Voyage: Blue Version | 252392 | [252392-mega-man-4-voyage-blue-version.json](./252392-mega-man-4-voyage-blue-version.json) |
+| Mega Man 6 Mobile | 103490 | [103490-mega-man-6-mobile.json](./103490-mega-man-6-mobile.json) |
 | Mega Man Arkanoid | 245035 | [245035-mega-man-arkanoid.json](./245035-mega-man-arkanoid.json) |
 | Mega Man in Super Mario Bros. | 269874 | [269874-mega-man-in-super-mario-bros.json](./269874-mega-man-in-super-mario-bros.json) |
 | Mega Man X Dive | 121045 | [121045-mega-man-x-dive.json](./121045-mega-man-x-dive.json) |
