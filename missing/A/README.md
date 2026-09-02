@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Turnabout With Too Many Faces | 303250 | [303250-a-turnabout-with-too-many-faces.json](./303250-a-turnabout-with-too-many-faces.json) |
 | A Turtle In A Hare-Machine | 246102 | [246102-a-turtle-in-a-hare-machine.json](./246102-a-turtle-in-a-hare-machine.json) |
 | A Vacation in Nebula | 146325 | [146325-a-vacation-in-nebula.json](./146325-a-vacation-in-nebula.json) |
+| A Wake Inn | 143698 | [143698-a-wake-inn.json](./143698-a-wake-inn.json) |
 | A Walk With Yiayia | 151184 | [151184-a-walk-with-yiayia.json](./151184-a-walk-with-yiayia.json) |
 | A Warmer Shade of Summer | 151192 | [151192-a-warmer-shade-of-summer.json](./151192-a-warmer-shade-of-summer.json) |
 | A Way to Die | 159854 | [159854-a-way-to-die.json](./159854-a-way-to-die.json) |
@@ -347,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akayashiki | 297794 | [297794-akayashiki.json](./297794-akayashiki.json) |
 | Akazukin Cha Cha Cha | 265971 | [265971-akazukin-cha-cha-cha.json](./265971-akazukin-cha-cha-cha.json) |
 | Akazukin Dark Side | 150154 | [150154-akazukin-dark-side.json](./150154-akazukin-dark-side.json) |
+| Aker Fern | 143726 | [143726-aker-fern.json](./143726-aker-fern.json) |
 | Akita: King Pig Thinks Pink | 178098 | [178098-akita-king-pig-thinks-pink.json](./178098-akita-king-pig-thinks-pink.json) |
 | Akuarium | 147471 | [147471-akuarium.json](./147471-akuarium.json) |
 | Akuma | 201835 | [201835-akuma.json](./201835-akuma.json) |
@@ -833,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascending: Dojo | 170523 | [170523-ascending-dojo.json](./170523-ascending-dojo.json) |
 | Ascent | 330540 | [330540-ascent.json](./330540-ascent.json) |
 | Ascent DX | 336896 | [336896-ascent-dx.json](./336896-ascent-dx.json) |
+| Ascii the Brave Cat | 143752 | [143752-ascii-the-brave-cat.json](./143752-ascii-the-brave-cat.json) |
 | ASCII Tower Defense | 302097 | [302097-ascii-tower-defense.json](./302097-ascii-tower-defense.json) |
 | Asciill | 192976 | [192976-asciill.json](./192976-asciill.json) |
 | Ascribe | 235990 | [235990-ascribe.json](./235990-ascribe.json) |
