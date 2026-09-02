@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kami no Me no Aeon: Zenpen | 341326 | [341326-kami-no-me-no-aeon-zenpen.json](./341326-kami-no-me-no-aeon-zenpen.json) |
 | Kami-sama no Shippo: Etogami-sama-tachi no Ongaeshi | 194608 | [194608-kami-sama-no-shippo-etogami-sama-tachi-no-ongaeshi.json](./194608-kami-sama-no-shippo-etogami-sama-tachi-no-ongaeshi.json) |
 | Kamigami no Asobi InFinite | 136474 | [136474-kamigami-no-asobi-infinite.json](./136474-kamigami-no-asobi-infinite.json) |
+| Kamigami no Asobi: Ludere Deorum | 125461 | [125461-kamigami-no-asobi-ludere-deorum.json](./125461-kamigami-no-asobi-ludere-deorum.json) |
 | Kamikaze Bros. 3 | 214771 | [214771-kamikaze-bros-3.json](./214771-kamikaze-bros-3.json) |
 | Kamikaze Lassplanes | 250011 | [250011-kamikaze-lassplanes.json](./250011-kamikaze-lassplanes.json) |
 | Kamisama no Hitsugi | 328215 | [328215-kamisama-no-hitsugi.json](./328215-kamisama-no-hitsugi.json) |
@@ -147,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Cars | 213647 | [213647-kids-cars.json](./213647-kids-cars.json) |
 | Kids Puzzle - 2 in 1 Bundle | 231048 | [231048-kids-puzzle-2-in-1-bundle.json](./231048-kids-puzzle-2-in-1-bundle.json) |
 | Kids: Zoo Puzzle | 215395 | [215395-kids-zoo-puzzle.json](./215395-kids-zoo-puzzle.json) |
+| Kiki's Adventure | 125462 | [125462-kikis-adventure.json](./125462-kikis-adventure.json) |
 | Kikokugai | 232662 | [232662-kikokugai.json](./232662-kikokugai.json) |
 | KilaFlow | 265955 | [265955-kilaflow.json](./265955-kilaflow.json) |
 | Kill Barney in Tokyo | 325818 | [325818-kill-barney-in-tokyo.json](./325818-kill-barney-in-tokyo.json) |
@@ -311,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kotoko's a Little Weird | 290687 | [290687-kotokos-a-little-weird.json](./290687-kotokos-a-little-weird.json) |
 | Kotomasho: I Can't Believe This Neet Guy Turned Into a Magical Girl! | 203532 | [203532-kotomasho-i-cant-believe-this-neet-guy-turned-into-a-magical-girl.json](./203532-kotomasho-i-cant-believe-this-neet-guy-turned-into-a-magical-girl.json) |
 | Kouei no Tou | 206373 | [206373-kouei-no-tou.json](./206373-kouei-no-tou.json) |
+| Kowi Ishto: Battle of Akonoli | 125476 | [125476-kowi-ishto-battle-of-akonoli.json](./125476-kowi-ishto-battle-of-akonoli.json) |
 | Kowloon Story 2 | 291741 | [291741-kowloon-story-2.json](./291741-kowloon-story-2.json) |
 | Koziołek Matołek Wynalazca | 135255 | [135255-kozio-ek-mato-ek-wynalazca.json](./135255-kozio-ek-mato-ek-wynalazca.json) |
 | Krafteers | 174863 | [174863-krafteers.json](./174863-krafteers.json) |
