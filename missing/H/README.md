@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellfire | 321796 | [321796-hellfire.json](./321796-hellfire.json) |
 | Hellfire Saga | 234906 | [234906-hellfire-saga.json](./234906-hellfire-saga.json) |
 | Hellgate VR | 158718 | [158718-hellgate-vr.json](./158718-hellgate-vr.json) |
+| Hello Charlotte: Heaven's Gate | 144382 | [144382-hello-charlotte-heavens-gate.json](./144382-hello-charlotte-heavens-gate.json) |
 | Hello Counsel | 318223 | [318223-hello-counsel.json](./318223-hello-counsel.json) |
 | Hello Kitty Food Town | 249481 | [249481-hello-kitty-food-town.json](./249481-hello-kitty-food-town.json) |
 | Hello Kitty no Gotouchi Collection: Koi no Doki-doki Travel | 269832 | [269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json](./269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json) |
@@ -337,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hesperian Wars | 229367 | [229367-hesperian-wars.json](./229367-hesperian-wars.json) |
 | Heterodox | 147484 | [147484-heterodox.json](./147484-heterodox.json) |
 | HewDraw Remix | 242804 | [242804-hewdraw-remix.json](./242804-hewdraw-remix.json) |
+| Hex & Agon | 144351 | [144351-hex-and-agon.json](./144351-hex-and-agon.json) |
 | Hexa Puzzle Saga | 248330 | [248330-hexa-puzzle-saga.json](./248330-hexa-puzzle-saga.json) |
 | Hexagonal Explods | 238729 | [238729-hexagonal-explods.json](./238729-hexagonal-explods.json) |
 | HexaTerra | 320564 | [320564-hexaterra.json](./320564-hexaterra.json) |
@@ -459,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holey Moley | 270409 | [270409-holey-moley.json](./270409-holey-moley.json) |
 | Holiday Holocaust | 273139 | [273139-holiday-holocaust.json](./273139-holiday-holocaust.json) |
 | Holiday Mania | 157183 | [157183-holiday-mania.json](./157183-holiday-mania.json) |
+| Holiday Racer | 144386 | [144386-holiday-racer.json](./144386-holiday-racer.json) |
 | Hollow Stem | 297792 | [297792-hollow-stem.json](./297792-hollow-stem.json) |
 | Hollow World: Dark Knight | 231055 | [231055-hollow-world-dark-knight.json](./231055-hollow-world-dark-knight.json) |
 | HollowPath | 221429 | [221429-hollowpath.json](./221429-hollowpath.json) |
@@ -512,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopeless Dregs | 156658 | [156658-hopeless-dregs.json](./156658-hopeless-dregs.json) |
 | Hopeless. | 228080 | [228080-hopeless.json](./228080-hopeless.json) |
 | Hoppe Chan: Punitto Shibotte Daibouken! | 222538 | [222538-hoppe-chan-punitto-shibotte-daibouken.json](./222538-hoppe-chan-punitto-shibotte-daibouken.json) |
+| Hopper | 144374 | [144374-hopper.json](./144374-hopper.json) |
 | Hopshot | 331129 | [331129-hopshot.json](./331129-hopshot.json) |
 | Horatama | 157159 | [157159-horatama.json](./157159-horatama.json) |
 | Horcrux College | 340215 | [340215-horcrux-college.json](./340215-horcrux-college.json) |
