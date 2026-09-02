@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kapih | 332262 | [332262-kapih.json](./332262-kapih.json) |
 | Kappa Nittori-chan | 205790 | [205790-kappa-nittori-chan.json](./205790-kappa-nittori-chan.json) |
 | Karaoke Joysound for Nintendo Switch | 146313 | [146313-karaoke-joysound-for-nintendo-switch.json](./146313-karaoke-joysound-for-nintendo-switch.json) |
+| Karaoke Party | 137687 | [137687-karaoke-party.json](./137687-karaoke-party.json) |
 | Karate Hero | 234318 | [234318-karate-hero.json](./234318-karate-hero.json) |
 | Kardiossomatic | 185137 | [185137-kardiossomatic.json](./185137-kardiossomatic.json) |
 | Kardun | 214183 | [214183-kardun.json](./214183-kardun.json) |
