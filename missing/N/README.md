@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ningen Maru | 178677 | [178677-ningen-maru.json](./178677-ningen-maru.json) |
 | Ninja Break | 203559 | [203559-ninja-break.json](./203559-ninja-break.json) |
 | Ninja Chicken 2 | 233763 | [233763-ninja-chicken-2.json](./233763-ninja-chicken-2.json) |
+| Ninja Epic Adventure | 147458 | [147458-ninja-epic-adventure.json](./147458-ninja-epic-adventure.json) |
 | Ninja Fight | 336374 | [336374-ninja-fight.json](./336374-ninja-fight.json) |
 | Ninja Gaiden | 239925 | [239925-ninja-gaiden.json](./239925-ninja-gaiden.json) |
 | Ninja Gaiden: Dragon Scroll | 269875 | [269875-ninja-gaiden-dragon-scroll.json](./269875-ninja-gaiden-dragon-scroll.json) |
