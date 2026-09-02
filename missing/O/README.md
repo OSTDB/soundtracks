@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OG Puzzlers: Kira Maus | 277582 | [277582-og-puzzlers-kira-maus.json](./277582-og-puzzlers-kira-maus.json) |
 | OG Puzzlers: Synthwave Dinosaurs | 291234 | [291234-og-puzzlers-synthwave-dinosaurs.json](./291234-og-puzzlers-synthwave-dinosaurs.json) |
 | Oh Baby! Kart | 278139 | [278139-oh-baby-kart.json](./278139-oh-baby-kart.json) |
+| Oh Frog | 132242 | [132242-oh-frog.json](./132242-oh-frog.json) |
 | Oh My Cod!!: We Mer-Made For Each Other! | 302119 | [302119-oh-my-cod-we-mer-made-for-each-other.json](./302119-oh-my-cod-we-mer-made-for-each-other.json) |
 | Oh, Hel No! | 331664 | [331664-oh-hel-no.json](./331664-oh-hel-no.json) |
 | Oh, to Bee in Love | 178659 | [178659-oh-to-bee-in-love.json](./178659-oh-to-bee-in-love.json) |
@@ -240,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onmitsu Kiritan | 204729 | [204729-onmitsu-kiritan.json](./204729-onmitsu-kiritan.json) |
 | Onmyoji Chess | 194010 | [194010-onmyoji-chess.json](./194010-onmyoji-chess.json) |
 | Onmyouji Emaki | 335701 | [335701-onmyouji-emaki.json](./335701-onmyouji-emaki.json) |
+| Onryo | 132270 | [132270-onryo.json](./132270-onryo.json) |
 | Onsen mo Issho | 246072 | [246072-onsen-mo-issho.json](./246072-onsen-mo-issho.json) |
 | Onsen Nozokimi Daisakusen | 306679 | [306679-onsen-nozokimi-daisakusen.json](./306679-onsen-nozokimi-daisakusen.json) |
 | Ooo | 181897 | [181897-ooo.json](./181897-ooo.json) |
