@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Food Fight | 114402 | [114402-epic-food-fight.json](./114402-epic-food-fight.json) |
 | Epic Food Fight VR | 117075 | [117075-epic-food-fight-vr.json](./117075-epic-food-fight-vr.json) |
 | Epic Party Clicker | 314632 | [314632-epic-party-clicker.json](./314632-epic-party-clicker.json) |
+| Epicedium | 102797 | [102797-epicedium.json](./102797-epicedium.json) |
 | Epsilon wars | 167296 | [167296-epsilon-wars.json](./167296-epsilon-wars.json) |
 | Equilibrium Ocean | 107161 | [107161-equilibrium-ocean.json](./107161-equilibrium-ocean.json) |
 | Equinox | 197403 | [197403-equinox.json](./197403-equinox.json) |
@@ -410,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everything is Fine | 180819 | [180819-everything-is-fine.json](./180819-everything-is-fine.json) |
 | Everything: All in 1 | 291761 | [291761-everything-all-in-1.json](./291761-everything-all-in-1.json) |
 | Everywhere | 130365 | [130365-everywhere.json](./130365-everywhere.json) |
+| Evie Mal Games | 102776 | [102776-evie-mal-games.json](./102776-evie-mal-games.json) |
 | Evil | 154005 | [154005-evil.json](./154005-evil.json) |
 | Evil Castle & Princess | 258193 | [258193-evil-castle-and-princess.json](./258193-evil-castle-and-princess.json) |
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
