@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hieronymus | 263189 | [263189-hieronymus.json](./263189-hieronymus.json) |
 | Hifuu Bouenkyou | 222505 | [222505-hifuu-bouenkyou.json](./222505-hifuu-bouenkyou.json) |
 | High Dive | 233747 | [233747-high-dive.json](./233747-high-dive.json) |
+| High Five! | 132819 | [132819-high-five.json](./132819-high-five.json) |
 | High Fructose | 277011 | [277011-high-fructose.json](./277011-high-fructose.json) |
 | High Noon Drifter | 141868 | [141868-high-noon-drifter.json](./141868-high-noon-drifter.json) |
 | High Rise | 330538 | [330538-high-rise.json](./330538-high-rise.json) |
