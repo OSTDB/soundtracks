@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masks of Deception | 200705 | [200705-masks-of-deception.json](./200705-masks-of-deception.json) |
 | Mason and Strings | 183606 | [183606-mason-and-strings.json](./183606-mason-and-strings.json) |
 | Massacre Tower | 161359 | [161359-massacre-tower.json](./161359-massacre-tower.json) |
+| Massira | 116369 | [116369-massira.json](./116369-massira.json) |
 | Massive Air Combat: Puzzles | 163423 | [163423-massive-air-combat-puzzles.json](./163423-massive-air-combat-puzzles.json) |
 | Master Break | 177553 | [177553-master-break.json](./177553-master-break.json) |
 | Master Chess Ultimate | 193459 | [193459-master-chess-ultimate.json](./193459-master-chess-ultimate.json) |
@@ -795,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Home Run Derby VR | 293378 | [293378-mlb-home-run-derby-vr.json](./293378-mlb-home-run-derby-vr.json) |
 | MLB The Show 19: MVP Edition | 119070 | [119070-mlb-the-show-19-mvp-edition.json](./119070-mlb-the-show-19-mvp-edition.json) |
 | MMA Championship | 189178 | [189178-mma-championship.json](./189178-mma-championship.json) |
+| MMA Federation | 116394 | [116394-mma-federation.json](./116394-mma-federation.json) |
 | Mmm Fingers | 117752 | [117752-mmm-fingers.json](./117752-mmm-fingers.json) |
 | Moai Alley | 332802 | [332802-moai-alley.json](./332802-moai-alley.json) |
 | MOAR: Appeteaser | 209718 | [209718-moar-appeteaser.json](./209718-moar-appeteaser.json) |
