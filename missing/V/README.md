@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VHS vs. Betamax | 177572 | [177572-vhs-vs-betamax.json](./177572-vhs-vs-betamax.json) |
 | Vibin'Vendetta | 302671 | [302671-vibinvendetta.json](./302671-vibinvendetta.json) |
 | Victoria 3: Voice of the People | 247786 | [247786-victoria-3-voice-of-the-people.json](./247786-victoria-3-voice-of-the-people.json) |
+| Victory Heat Rally | 142489 | [142489-victory-heat-rally.json](./142489-victory-heat-rally.json) |
 | Victory of Seeker | 338570 | [338570-victory-of-seeker.json](./338570-victory-of-seeker.json) |
 | Video Game Feminization Hypnosis | 146905 | [146905-video-game-feminization-hypnosis.json](./146905-video-game-feminization-hypnosis.json) |
 | Video Poker | 272552 | [272552-video-poker.json](./272552-video-poker.json) |
@@ -133,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ViperTen16 | 313497 | [313497-viperten16.json](./313497-viperten16.json) |
 | Viquim | 341886 | [341886-viquim.json](./341886-viquim.json) |
 | Virche Evermore: ErroR:salvation | 147480 | [147480-virche-evermore-error-salvation.json](./147480-virche-evermore-error-salvation.json) |
+| Virgin Atlantic Challenge | 142439 | [142439-virgin-atlantic-challenge.json](./142439-virgin-atlantic-challenge.json) |
 | Viricide | 242779 | [242779-viricide.json](./242779-viricide.json) |
 | Virion | 338568 | [338568-virion.json](./338568-virion.json) |
 | Virt-U-Mate | 156646 | [156646-virt-u-mate.json](./156646-virt-u-mate.json) |
