@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mask: Beyond Lies | 255988 | [255988-mask-beyond-lies.json](./255988-mask-beyond-lies.json) |
 | Masked Shooters Assault | 240490 | [240490-masked-shooters-assault.json](./240490-masked-shooters-assault.json) |
 | Masked Shooters Single-player | 240489 | [240489-masked-shooters-single-player.json](./240489-masked-shooters-single-player.json) |
+| Maskless | 135267 | [135267-maskless.json](./135267-maskless.json) |
 | Masks of Deception | 200705 | [200705-masks-of-deception.json](./200705-masks-of-deception.json) |
 | Mason and Strings | 183606 | [183606-mason-and-strings.json](./183606-mason-and-strings.json) |
 | Massacre Tower | 161359 | [161359-massacre-tower.json](./161359-massacre-tower.json) |
