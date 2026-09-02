@@ -247,6 +247,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kodoku no Yurikago | 260941 | [260941-kodoku-no-yurikago.json](./260941-kodoku-no-yurikago.json) |
 | KoiGig: Devil x Angel | 202373 | [202373-koigig-devil-x-angel.json](./202373-koigig-devil-x-angel.json) |
 | Koihime Enbu RyoRaiRai: Jokou and Kakuka | 159307 | [159307-koihime-enbu-ryorairai-jokou-and-kakuka.json](./159307-koihime-enbu-ryorairai-jokou-and-kakuka.json) |
+| Kokoro no Doki Doki Senpai?? | 150133 | [150133-kokoro-no-doki-doki-senpai.json](./150133-kokoro-no-doki-doki-senpai.json) |
+| Kokoro: Baka-Monogatari | 150134 | [150134-kokoro-baka-monogatari.json](./150134-kokoro-baka-monogatari.json) |
 | Kokorowa Onigiri Delivery | 206338 | [206338-kokorowa-onigiri-delivery.json](./206338-kokorowa-onigiri-delivery.json) |
 | Komadori Inn | 296649 | [296649-komadori-inn.json](./296649-komadori-inn.json) |
 | Komako | 165051 | [165051-komako.json](./165051-komako.json) |
