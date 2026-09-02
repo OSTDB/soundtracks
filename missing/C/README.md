@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi 3D Online RPG Sandbox | 300372 | [300372-chibi-3d-online-rpg-sandbox.json](./300372-chibi-3d-online-rpg-sandbox.json) |
 | Chibi Charger | 338562 | [338562-chibi-charger.json](./338562-chibi-charger.json) |
 | Chibi Fighters 2.0 | 130375 | [130375-chibi-fighters-2-0.json](./130375-chibi-fighters-2-0.json) |
+| Chic Baby | 97342 | [97342-chic-baby.json](./97342-chic-baby.json) |
 | Chicago 2020 | 235999 | [235999-chicago-2020.json](./235999-chicago-2020.json) |
 | Chichen-Itza | 178052 | [178052-chichen-itza.json](./178052-chichen-itza.json) |
 | Chick 'N Sword | 183592 | [183592-chick-n-sword.json](./183592-chick-n-sword.json) |
@@ -477,6 +478,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop | 183081 | [183081-chop.json](./183081-chop.json) |
 | Choppie's | 236541 | [236541-choppies.json](./236541-choppies.json) |
 | Choro Q | 245031 | [245031-choro-q.json](./245031-choro-q.json) |
+| Choro Q 3 | 97364 | [97364-choro-q-3.json](./97364-choro-q-3.json) |
+| Choro Q Works | 97363 | [97363-choro-q-works.json](./97363-choro-q-works.json) |
 | Chosen Angels | 255998 | [255998-chosen-angels.json](./255998-chosen-angels.json) |
 | Chosen War | 333353 | [333353-chosen-war.json](./333353-chosen-war.json) |
 | Choson Janggi | 312335 | [312335-choson-janggi.json](./312335-choson-janggi.json) |
@@ -486,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chotto Magic Taizen: Nenzu Camera | 220848 | [220848-chotto-magic-taizen-nenzu-camera.json](./220848-chotto-magic-taizen-nenzu-camera.json) |
 | Chotto Magic Taizen: Suki Kirai Hakkenki | 220846 | [220846-chotto-magic-taizen-suki-kirai-hakkenki.json](./220846-chotto-magic-taizen-suki-kirai-hakkenki.json) |
 | Chou Ga Shin Zangard | 246106 | [246106-chou-ga-shin-zangard.json](./246106-chou-ga-shin-zangard.json) |
+| Chou Hatsumei Boy Kani Pan: Bousou Roboto no Nazo!? | 97335 | [97335-chou-hatsumei-boy-kani-pan-bousou-roboto-no-nazo.json](./97335-chou-hatsumei-boy-kani-pan-bousou-roboto-no-nazo.json) |
 | Chou Jinsei Enjoi! Tamagotchi Plus | 229952 | [229952-chou-jinsei-enjoi-tamagotchi-plus.json](./229952-chou-jinsei-enjoi-tamagotchi-plus.json) |
 | Chousoku Shoujo: Hypersonic Speed Girl | 97906 | [97906-chousoku-shoujo-hypersonic-speed-girl.json](./97906-chousoku-shoujo-hypersonic-speed-girl.json) |
 | Christmas Bazaar: Manager Simulator | 325265 | [325265-christmas-bazaar-manager-simulator.json](./325265-christmas-bazaar-manager-simulator.json) |
@@ -806,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColourS | 229381 | [229381-colours.json](./229381-colours.json) |
 | Comando Tracer | 138800 | [138800-comando-tracer.json](./138800-comando-tracer.json) |
 | Combat Champions | 244510 | [244510-combat-champions.json](./244510-combat-champions.json) |
+| Combat Choro Q | 97362 | [97362-combat-choro-q.json](./97362-combat-choro-q.json) |
 | Combat Jam 1 | 300418 | [300418-combat-jam-1.json](./300418-combat-jam-1.json) |
 | Combat Mission Shock Force 2 | 138217 | [138217-combat-mission-shock-force-2.json](./138217-combat-mission-shock-force-2.json) |
 | Combine War Toys | 111029 | [111029-combine-war-toys.json](./111029-combine-war-toys.json) |
