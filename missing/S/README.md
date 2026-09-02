@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapefighter | 333401 | [333401-shapefighter.json](./333401-shapefighter.json) |
 | Shard of Kronos | 163967 | [163967-shard-of-kronos.json](./163967-shard-of-kronos.json) |
 | Shard Squad | 323529 | [323529-shard-squad.json](./323529-shard-squad.json) |
+| Shark Copter vs. Zombie Dancers | 147976 | [147976-shark-copter-vs-zombie-dancers.json](./147976-shark-copter-vs-zombie-dancers.json) |
 | Shark Riders | 150137 | [150137-shark-riders.json](./150137-shark-riders.json) |
 | Shark Slayer | 166742 | [166742-shark-slayer.json](./166742-shark-slayer.json) |
 | SharkDrag Episode 5: Uniting the 5 Kingdoms | 210891 | [210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json](./210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json) |
@@ -524,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Blade of Gods' End | 301602 | [301602-silver-blade-of-gods-end.json](./301602-silver-blade-of-gods-end.json) |
 | Silver Falls: Ghoul Busters | 208583 | [208583-silver-falls-ghoul-busters.json](./208583-silver-falls-ghoul-busters.json) |
 | Silver Sonic: The Crystal Islands | 302142 | [302142-silver-sonic-the-crystal-islands.json](./302142-silver-sonic-the-crystal-islands.json) |
+| SilverStarChess | 147986 | [147986-silverstarchess.json](./147986-silverstarchess.json) |
 | Silverwood Bay: An Eleanor Grey Mystery | 291246 | [291246-silverwood-bay-an-eleanor-grey-mystery.json](./291246-silverwood-bay-an-eleanor-grey-mystery.json) |
 | Simon Scoop: Ace Attorney | 308551 | [308551-simon-scoop-ace-attorney.json](./308551-simon-scoop-ace-attorney.json) |
 | Simon's Cat in Purrfect Pitch | 233208 | [233208-simons-cat-in-purrfect-pitch.json](./233208-simons-cat-in-purrfect-pitch.json) |
@@ -539,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulator: Parking Lot | 323510 | [323510-simulator-parking-lot.json](./323510-simulator-parking-lot.json) |
 | Sin Breaker Rig | 238736 | [238736-sin-breaker-rig.json](./238736-sin-breaker-rig.json) |
 | Sin Chronicle | 172765 | [172765-sin-chronicle.json](./172765-sin-chronicle.json) |
+| Sin Slayers: Enhanced Edition | 148002 | [148002-sin-slayers-enhanced-edition.json](./148002-sin-slayers-enhanced-edition.json) |
 | Sin Slayers: Reign of The 8th | 291758 | [291758-sin-slayers-reign-of-the-8th.json](./291758-sin-slayers-reign-of-the-8th.json) |
 | Sincere Deceit | 328230 | [328230-sincere-deceit.json](./328230-sincere-deceit.json) |
 | Sinderfury | 306089 | [306089-sinderfury.json](./306089-sinderfury.json) |
@@ -565,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sitnalta | 268762 | [268762-sitnalta.json](./268762-sitnalta.json) |
 | Six Floors Under | 296659 | [296659-six-floors-under.json](./296659-six-floors-under.json) |
 | Six Orders | 277615 | [277615-six-orders.json](./277615-six-orders.json) |
+| Six Sides of the World Enhanced | 147980 | [147980-six-sides-of-the-world-enhanced.json](./147980-six-sides-of-the-world-enhanced.json) |
 | Six Textures #3 | 321123 | [321123-six-textures-3.json](./321123-six-textures-3.json) |
 | Six-Sided Streets | 234897 | [234897-six-sided-streets.json](./234897-six-sided-streets.json) |
 | Sixtar Gate: Startrail - Dystopia Pack | 293402 | [293402-sixtar-gate-startrail-dystopia-pack.json](./293402-sixtar-gate-startrail-dystopia-pack.json) |
@@ -645,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slendrina X | 233773 | [233773-slendrina-x.json](./233773-slendrina-x.json) |
 | Slendytubbies Ø | 332814 | [332814-slendytubbies.json](./332814-slendytubbies.json) |
 | Slice 'Em Up! | 185130 | [185130-slice-em-up.json](./185130-slice-em-up.json) |
+| Slice It! | 147957 | [147957-slice-it.json](./147957-slice-it.json) |
 | Slicy Flips | 322977 | [322977-slicy-flips.json](./322977-slicy-flips.json) |
 | SlideNSlip | 166774 | [166774-slidenslip.json](./166774-slidenslip.json) |
 | Sliding Puzzles | 270388 | [270388-sliding-puzzles.json](./270388-sliding-puzzles.json) |
@@ -677,6 +682,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slope | 264867 | [264867-slope.json](./264867-slope.json) |
 | Slot Car HTR+ : 3D Simulation | 239896 | [239896-slot-car-htr-3d-simulation.json](./239896-slot-car-htr-3d-simulation.json) |
 | Slot Waste | 306706 | [306706-slot-waste.json](./306706-slot-waste.json) |
+| Slots of Poker at Aces Casino | 147974 | [147974-slots-of-poker-at-aces-casino.json](./147974-slots-of-poker-at-aces-casino.json) |
+| Slots of the Season | 147975 | [147975-slots-of-the-season.json](./147975-slots-of-the-season.json) |
 | Slots Royale: 777 Casino Games | 231072 | [231072-slots-royale-777-casino-games.json](./231072-slots-royale-777-casino-games.json) |
 | Slow Rise | 267066 | [267066-slow-rise.json](./267066-slow-rise.json) |
 | Slowly Fighter | 333926 | [333926-slowly-fighter.json](./333926-slowly-fighter.json) |
@@ -716,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakebird GB | 324694 | [324694-snakebird-gb.json](./324694-snakebird-gb.json) |
 | SnakeBird NES | 228690 | [228690-snakebird-nes.json](./228690-snakebird-nes.json) |
 | SnakeByte | 193470 | [193470-snakebyte.json](./193470-snakebyte.json) |
+| Snakes & Ladders | 147984 | [147984-snakes-and-ladders.json](./147984-snakes-and-ladders.json) |
 | Snakes LTD | 265921 | [265921-snakes-ltd.json](./265921-snakes-ltd.json) |
 | SnaPaul | 332828 | [332828-snapaul.json](./332828-snapaul.json) |
 | Snapper | 312320 | [312320-snapper.json](./312320-snapper.json) |
@@ -1017,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hat | 290685 | [290685-space-hat.json](./290685-space-hat.json) |
 | Space Hole 2020 | 156675 | [156675-space-hole-2020.json](./156675-space-hole-2020.json) |
 | Space KaBaam: Neon | 335076 | [335076-space-kabaam-neon.json](./335076-space-kabaam-neon.json) |
+| Space Lift Danger Panic! | 147982 | [147982-space-lift-danger-panic.json](./147982-space-lift-danger-panic.json) |
 | Space Lines | 246085 | [246085-space-lines.json](./246085-space-lines.json) |
 | Space Mages: Dimension 33 | 153417 | [153417-space-mages-dimension-33.json](./153417-space-mages-dimension-33.json) |
 | Space Marshals 3 | 205223 | [205223-space-marshals-3.json](./205223-space-marshals-3.json) |
@@ -1280,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Home It Rains Outside | 316406 | [316406-stay-home-it-rains-outside.json](./316406-stay-home-it-rains-outside.json) |
 | Stay in | 237056 | [237056-stay-in.json](./237056-stay-in.json) |
 | Steal the Meal: Unblock Puzzle | 261514 | [261514-steal-the-meal-unblock-puzzle.json](./261514-steal-the-meal-unblock-puzzle.json) |
+| Stealth | 147969 | [147969-stealth.json](./147969-stealth.json) |
 | Steambots | 296655 | [296655-steambots.json](./296655-steambots.json) |
 | SteamForge | 339666 | [339666-steamforge.json](./339666-steamforge.json) |
 | Steampunch | 335075 | [335075-steampunch.json](./335075-steampunch.json) |
@@ -1402,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stretchy Adventure | 319957 | [319957-stretchy-adventure.json](./319957-stretchy-adventure.json) |
 | Stretchy-Man: The Video Game | 190234 | [190234-stretchy-man-the-video-game.json](./190234-stretchy-man-the-video-game.json) |
 | Striden | 237059 | [237059-striden.json](./237059-striden.json) |
+| Strife: Veteran Edition | 147967 | [147967-strife-veteran-edition.json](./147967-strife-veteran-edition.json) |
 | Strike Buster | 339656 | [339656-strike-buster.json](./339656-strike-buster.json) |
 | StrikeNet | 339655 | [339655-strikenet.json](./339655-strikenet.json) |
 | Strip Fighter 5: Chimpocon Edition | 185648 | [185648-strip-fighter-5-chimpocon-edition.json](./185648-strip-fighter-5-chimpocon-edition.json) |
@@ -1445,6 +1456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku 4 Kids | 245580 | [245580-sudoku-4-kids.json](./245580-sudoku-4-kids.json) |
 | Sudoku Casual Puzzle | 219280 | [219280-sudoku-casual-puzzle.json](./219280-sudoku-casual-puzzle.json) |
 | Sudoku Constellation | 292281 | [292281-sudoku-constellation.json](./292281-sudoku-constellation.json) |
+| Sudoku Master | 147968 | [147968-sudoku-master.json](./147968-sudoku-master.json) |
 | Sudoku XP | 278700 | [278700-sudoku-xp.json](./278700-sudoku-xp.json) |
 | Sugar High | 233226 | [233226-sugar-high.json](./233226-sugar-high.json) |
 | Sugar Mess: Let's Play Jolly Battle | 263752 | [263752-sugar-mess-lets-play-jolly-battle.json](./263752-sugar-mess-lets-play-jolly-battle.json) |
@@ -1675,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Neptunia RPG: Party Member - If | 238176 | [238176-super-neptunia-rpg-party-member-if.json](./238176-super-neptunia-rpg-party-member-if.json) |
 | Super Nova Stadium | 165687 | [165687-super-nova-stadium.json](./165687-super-nova-stadium.json) |
 | Super Party Games Online | 306098 | [306098-super-party-games-online.json](./306098-super-party-games-online.json) |
+| Super Punch | 147959 | [147959-super-punch.json](./147959-super-punch.json) |
 | Super Puzzle Platformer | 223665 | [223665-super-puzzle-platformer.json](./223665-super-puzzle-platformer.json) |
 | Super Retro Platformer Collection | 242770 | [242770-super-retro-platformer-collection.json](./242770-super-retro-platformer-collection.json) |
 | Super Retro World | 157172 | [157172-super-retro-world.json](./157172-super-retro-world.json) |
@@ -1702,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Taco Crew | 173845 | [173845-super-taco-crew.json](./173845-super-taco-crew.json) |
 | Super Tank Attack | 256556 | [256556-super-tank-attack.json](./256556-super-tank-attack.json) |
 | Super Tank Rumble | 185695 | [185695-super-tank-rumble.json](./185695-super-tank-rumble.json) |
+| Super Tennis | 147960 | [147960-super-tennis.json](./147960-super-tennis.json) |
 | Super Toy Cars 1 & 2 Bundle | 208579 | [208579-super-toy-cars-1-and-2-bundle.json](./208579-super-toy-cars-1-and-2-bundle.json) |
 | Super Toy Cars Collection | 204083 | [204083-super-toy-cars-collection.json](./204083-super-toy-cars-collection.json) |
 | Super Tumanguya Climber | 339136 | [339136-super-tumanguya-climber.json](./339136-super-tumanguya-climber.json) |
@@ -1835,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthaar | 304880 | [304880-synthaar.json](./304880-synthaar.json) |
 | Synthetic Fantasy; | 277581 | [277581-synthetic-fantasy.json](./277581-synthetic-fantasy.json) |
 | Synthetic Soul 3 | 310736 | [310736-synthetic-soul-3.json](./310736-synthetic-soul-3.json) |
+| Synthetik: Ultimate | 147972 | [147972-synthetik-ultimate.json](./147972-synthetik-ultimate.json) |
 | Synthwave Hop | 172198 | [172198-synthwave-hop.json](./172198-synthwave-hop.json) |
 | System Control | 157184 | [157184-system-control.json](./157184-system-control.json) |
 | System Escape | 237067 | [237067-system-escape.json](./237067-system-escape.json) |
