@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Best Play Baseball '90 | 267635 | [267635-the-best-play-baseball-90.json](./267635-the-best-play-baseball-90.json) |
 | The Best Play Baseball II | 267637 | [267637-the-best-play-baseball-ii.json](./267637-the-best-play-baseball-ii.json) |
 | The Beyond Of Fears: New House | 304876 | [304876-the-beyond-of-fears-new-house.json](./304876-the-beyond-of-fears-new-house.json) |
+| The Beziér Game | 138840 | [138840-the-bezier-game.json](./138840-the-bezier-game.json) |
 | The Big Lebowski Bowling | 312336 | [312336-the-big-lebowski-bowling.json](./312336-the-big-lebowski-bowling.json) |
 | The Big Picture | 206346 | [206346-the-big-picture.json](./206346-the-big-picture.json) |
 | The Big, Friendly Thud! | 260937 | [260937-the-big-friendly-thud.json](./260937-the-big-friendly-thud.json) |
@@ -1504,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Yamanote Boys Pure Raspberry Disc | 221959 | [221959-tokyo-yamanote-boys-pure-raspberry-disc.json](./221959-tokyo-yamanote-boys-pure-raspberry-disc.json) |
 | Tokyo Yamanote Boys Super Mint Disc | 221953 | [221953-tokyo-yamanote-boys-super-mint-disc.json](./221953-tokyo-yamanote-boys-super-mint-disc.json) |
 | Tokyo Yamanote Boys Sweet Jelly Beans Disc | 221960 | [221960-tokyo-yamanote-boys-sweet-jelly-beans-disc.json](./221960-tokyo-yamanote-boys-sweet-jelly-beans-disc.json) |
+| Tom Clancy's Ghost Recon: Breakpoint - Deep State | 138783 | [138783-tom-clancys-ghost-recon-breakpoint-deep-state.json](./138783-tom-clancys-ghost-recon-breakpoint-deep-state.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Deluxe Edition | 173793 | [173793-tom-clancys-ghost-recon-breakpoint-deluxe-edition.json](./173793-tom-clancys-ghost-recon-breakpoint-deluxe-edition.json) |
 | Tom Clancy's Ghost Recon: Frontline | 174907 | [174907-tom-clancys-ghost-recon-frontline.json](./174907-tom-clancys-ghost-recon-frontline.json) |
 | Tom Clancy's Ghost Recon: Future Soldier - Arctic Strike | 171635 | [171635-tom-clancys-ghost-recon-future-soldier-arctic-strike.json](./171635-tom-clancys-ghost-recon-future-soldier-arctic-strike.json) |
