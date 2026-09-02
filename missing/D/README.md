@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Not Kill Me Jacob!! JAM Ver. | 176482 | [176482-do-not-kill-me-jacob-jam-ver.json](./176482-do-not-kill-me-jacob-jam-ver.json) |
 | Do Not Touch | 266518 | [266518-do-not-touch.json](./266518-do-not-touch.json) |
 | Do or Die: Hunt to Survive | 235975 | [235975-do-or-die-hunt-to-survive.json](./235975-do-or-die-hunt-to-survive.json) |
+| Doblons.io | 126023 | [126023-doblons-io.json](./126023-doblons-io.json) |
 | Docking Donuts2 in 1 | 233225 | [233225-docking-donuts2-in-1.json](./233225-docking-donuts2-in-1.json) |
 | Docking Doom | 271991 | [271991-docking-doom.json](./271991-docking-doom.json) |
 | Doctor Nanobot | 207530 | [207530-doctor-nanobot.json](./207530-doctor-nanobot.json) |
@@ -849,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Alone | 126631 | [126631-drift-alone.json](./126631-drift-alone.json) |
 | Drift Apocalypse | 296091 | [296091-drift-apocalypse.json](./296091-drift-apocalypse.json) |
 | DriftHub | 256007 | [256007-drifthub.json](./256007-drifthub.json) |
+| Driftin.io | 126024 | [126024-driftin-io.json](./126024-driftin-io.json) |
 | Drifty | 251200 | [251200-drifty.json](./251200-drifty.json) |
 | Drink Beer, Neglect Family | 185673 | [185673-drink-beer-neglect-family.json](./185673-drink-beer-neglect-family.json) |
 | Drive Ahead! Carcade | 321142 | [321142-drive-ahead-carcade.json](./321142-drive-ahead-carcade.json) |
@@ -942,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Rollers | 184623 | [184623-dungeon-rollers.json](./184623-dungeon-rollers.json) |
 | Dungeon Rummage: Tiqee's Escape | 195248 | [195248-dungeon-rummage-tiqees-escape.json](./195248-dungeon-rummage-tiqees-escape.json) |
 | Dungeon Slayer | 194008 | [194008-dungeon-slayer.json](./194008-dungeon-slayer.json) |
+| Dungeon Survivor II | 126007 | [126007-dungeon-survivor-ii.json](./126007-dungeon-survivor-ii.json) |
 | Dungeon Train | 333404 | [333404-dungeon-train.json](./333404-dungeon-train.json) |
 | Dungeon Universe | 185665 | [185665-dungeon-universe.json](./185665-dungeon-universe.json) |
 | Dungeon Walk: Ryuumeikyuu no Kanrisha | 236525 | [236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json](./236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json) |
