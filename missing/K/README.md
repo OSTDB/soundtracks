@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts Tamagotchi | 229938 | [229938-kingdom-hearts-tamagotchi.json](./229938-kingdom-hearts-tamagotchi.json) |
 | Kingdom of Arcana | 292320 | [292320-kingdom-of-arcana.json](./292320-kingdom-of-arcana.json) |
 | Kingdom of Nyabur: The Shattered Realm | 217501 | [217501-kingdom-of-nyabur-the-shattered-realm.json](./217501-kingdom-of-nyabur-the-shattered-realm.json) |
+| Kingdom of Rhea | 119026 | [119026-kingdom-of-rhea.json](./119026-kingdom-of-rhea.json) |
 | Kingdom Run VR | 235469 | [235469-kingdom-run-vr.json](./235469-kingdom-run-vr.json) |
 | Kingdom Two Crowns: Jarl Edition | 186896 | [186896-kingdom-two-crowns-jarl-edition.json](./186896-kingdom-two-crowns-jarl-edition.json) |
 | Kingdom's Life | 189177 | [189177-kingdoms-life.json](./189177-kingdoms-life.json) |
@@ -279,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Valour Plus | 246086 | [246086-knights-of-valour-plus.json](./246086-knights-of-valour-plus.json) |
 | Knights Vault | 300984 | [300984-knights-vault.json](./300984-knights-vault.json) |
 | Knights vs Nature | 214193 | [214193-knights-vs-nature.json](./214193-knights-vs-nature.json) |
+| Knighty Night | 119027 | [119027-knighty-night.json](./119027-knighty-night.json) |
 | Knockback Knockout | 226452 | [226452-knockback-knockout.json](./226452-knockback-knockout.json) |
 | Knockout City: Private Server Edition | 296669 | [296669-knockout-city-private-server-edition.json](./296669-knockout-city-private-server-edition.json) |
 | Know more Thai | 214754 | [214754-know-more-thai.json](./214754-know-more-thai.json) |
