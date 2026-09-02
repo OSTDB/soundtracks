@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remute: The Cult Of Remute | 321789 | [321789-remute-the-cult-of-remute.json](./321789-remute-the-cult-of-remute.json) |
 | Remute: The Cult of Remute Portable | 321791 | [321791-remute-the-cult-of-remute-portable.json](./321791-remute-the-cult-of-remute-portable.json) |
 | Ren Ti Tu Pu | 130972 | [130972-ren-ti-tu-pu.json](./130972-ren-ti-tu-pu.json) |
+| Rending Sky | 114374 | [114374-rending-sky.json](./114374-rending-sky.json) |
 | Renegade: Arena Shooter | 150679 | [150679-renegade-arena-shooter.json](./150679-renegade-arena-shooter.json) |
 | Rengoku | 325284 | [325284-rengoku.json](./325284-rengoku.json) |
 | Rent Please!: Landlord Sim | 247214 | [247214-rent-please-landlord-sim.json](./247214-rent-please-landlord-sim.json) |
@@ -347,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renxia | 278696 | [278696-renxia.json](./278696-renxia.json) |
 | Repair Plane | 303790 | [303790-repair-plane.json](./303790-repair-plane.json) |
 | Repair This! | 260385 | [260385-repair-this.json](./260385-repair-this.json) |
+| RepairBot | 114403 | [114403-repairbot.json](./114403-repairbot.json) |
 | Repairny | 204073 | [204073-repairny.json](./204073-repairny.json) |
 | Repent | 270938 | [270938-repent.json](./270938-repent.json) |
 | Repentless | 213640 | [213640-repentless.json](./213640-repentless.json) |
@@ -423,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenis Prologue 01 | 116336 | [116336-revenis-prologue-01.json](./116336-revenis-prologue-01.json) |
 | Reverberant | 128619 | [128619-reverberant.json](./128619-reverberant.json) |
 | Reverend | 339622 | [339622-reverend.json](./339622-reverend.json) |
+| Reverie | 114417 | [114417-reverie.json](./114417-reverie.json) |
 | Reverie | 254161 | [254161-reverie.json](./254161-reverie.json) |
 | Reverse 1999: E lucevan le stelle | 340218 | [340218-reverse-1999-e-lucevan-le-stelle.json](./340218-reverse-1999-e-lucevan-le-stelle.json) |
 | Reverse 1999: Farewell, Rayashki | 340220 | [340220-reverse-1999-farewell-rayashki.json](./340220-reverse-1999-farewell-rayashki.json) |
