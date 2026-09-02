@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London: Upwards! | 191912 | [191912-fallen-london-upwards.json](./191912-fallen-london-upwards.json) |
 | Falling Into You | 218165 | [218165-falling-into-you.json](./218165-falling-into-you.json) |
 | Falling Kwadrats | 179203 | [179203-falling-kwadrats.json](./179203-falling-kwadrats.json) |
+| Falling Up | 134678 | [134678-falling-up.json](./134678-falling-up.json) |
 | Fallout 76: Season 11 - Nuka-World | 232689 | [232689-fallout-76-season-11-nuka-world.json](./232689-fallout-76-season-11-nuka-world.json) |
 | Falnarion Tactics: Oathbreaker | 158730 | [158730-falnarion-tactics-oathbreaker.json](./158730-falnarion-tactics-oathbreaker.json) |
 | Familiar Stranger | 319932 | [319932-familiar-stranger.json](./319932-familiar-stranger.json) |
@@ -321,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Time in Hawaii | 236002 | [236002-first-time-in-hawaii.json](./236002-first-time-in-hawaii.json) |
 | First Time In Paris: Collector's Edition | 209143 | [209143-first-time-in-paris-collectors-edition.json](./209143-first-time-in-paris-collectors-edition.json) |
 | Fiscal Jesters | 176509 | [176509-fiscal-jesters.json](./176509-fiscal-jesters.json) |
+| Fish Fly Fever | 134685 | [134685-fish-fly-fever.json](./134685-fish-fly-fever.json) |
 | Fish Kiss | 184088 | [184088-fish-kiss.json](./184088-fish-kiss.json) |
 | Fish Memory | 150678 | [150678-fish-memory.json](./150678-fish-memory.json) |
 | Fish Person Shooter | 145636 | [145636-fish-person-shooter.json](./145636-fish-person-shooter.json) |
@@ -424,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowery Vale | 177048 | [177048-flowery-vale.json](./177048-flowery-vale.json) |
 | Flown | 261524 | [261524-flown.json](./261524-flown.json) |
 | Fluff'n'Roll | 323516 | [323516-fluffnroll.json](./323516-fluffnroll.json) |
+| Flufftopia | 134696 | [134696-flufftopia.json](./134696-flufftopia.json) |
 | Fluffy Gore | 150156 | [150156-fluffy-gore.json](./150156-fluffy-gore.json) |
 | Fluffy Run | 292818 | [292818-fluffy-run.json](./292818-fluffy-run.json) |
 | Fluffy Smash | 219791 | [219791-fluffy-smash.json](./219791-fluffy-smash.json) |
