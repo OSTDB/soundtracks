@@ -307,6 +307,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Estigma | 142497 | [142497-estigma.json](./142497-estigma.json) |
 | ET Superman: Wrath of Tyrannosaurus Rex | 195258 | [195258-et-superman-wrath-of-tyrannosaurus-rex.json](./195258-et-superman-wrath-of-tyrannosaurus-rex.json) |
 | Eternal Destiny | 251215 | [251215-eternal-destiny.json](./251215-eternal-destiny.json) |
+| Eternal Dreamers | 140609 | [140609-eternal-dreamers.json](./140609-eternal-dreamers.json) |
+| Eternal Dungeon | 140589 | [140589-eternal-dungeon.json](./140589-eternal-dungeon.json) |
 | Eternal Fate: A Journey Begins | 298340 | [298340-eternal-fate-a-journey-begins.json](./298340-eternal-fate-a-journey-begins.json) |
 | Eternal of Swordsman | 194033 | [194033-eternal-of-swordsman.json](./194033-eternal-of-swordsman.json) |
 | Eternal Seas | 236509 | [236509-eternal-seas.json](./236509-eternal-seas.json) |
