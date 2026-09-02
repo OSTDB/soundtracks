@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7th Chance | 152897 | [152897-7th-chance.json](./152897-7th-chance.json) |
 | 8 Ball Goal | 316437 | [316437-8-ball-goal.json](./316437-8-ball-goal.json) |
 | 8 Bit Armies: Limited Edition | 185707 | [185707-8-bit-armies-limited-edition.json](./185707-8-bit-armies-limited-edition.json) |
+| 80S escape | 132231 | [132231-80s-escape.json](./132231-80s-escape.json) |
 | 81diver | 269321 | [269321-81diver.json](./269321-81diver.json) |
 | 868-Hack: Plan.B | 143096 | [143096-868-hack-plan-b.json](./143096-868-hack-plan-b.json) |
 | 87 Aftermath: A Rolling Ball Game | 154563 | [154563-87-aftermath-a-rolling-ball-game.json](./154563-87-aftermath-a-rolling-ball-game.json) |
