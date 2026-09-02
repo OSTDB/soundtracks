@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BabushCats | 297778 | [297778-babushcats.json](./297778-babushcats.json) |
 | Baby Blimp | 177054 | [177054-baby-blimp.json](./177054-baby-blimp.json) |
 | Baby Killer | 117733 | [117733-baby-killer.json](./117733-baby-killer.json) |
+| Baby Panda's Vacation | 106599 | [106599-baby-pandas-vacation.json](./106599-baby-pandas-vacation.json) |
 | Baby Puzzle: First Learning Shapes for Toddlers | 147985 | [147985-baby-puzzle-first-learning-shapes-for-toddlers.json](./147985-baby-puzzle-first-learning-shapes-for-toddlers.json) |
 | Baby Shapes for Kids | 225893 | [225893-baby-shapes-for-kids.json](./225893-baby-shapes-for-kids.json) |
 | Baby Time Simulator | 269275 | [269275-baby-time-simulator.json](./269275-baby-time-simulator.json) |
@@ -126,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Bonanza! | 231627 | [231627-banana-bonanza.json](./231627-banana-bonanza.json) |
 | Banana Bugs | 230534 | [230534-banana-bugs.json](./230534-banana-bugs.json) |
 | Banana Co. | 275881 | [275881-banana-co.json](./275881-banana-co.json) |
+| Banana girl | 106606 | [106606-banana-girl.json](./106606-banana-girl.json) |
 | Banana Grab | 231626 | [231626-banana-grab.json](./231626-banana-grab.json) |
 | Banana Hunter | 192954 | [192954-banana-hunter.json](./192954-banana-hunter.json) |
 | Banana Kong 2 | 209711 | [209711-banana-kong-2.json](./209711-banana-kong-2.json) |
@@ -1025,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulletnico | 334497 | [334497-bulletnico.json](./334497-bulletnico.json) |
 | Bulletrooms | 309692 | [309692-bulletrooms.json](./309692-bulletrooms.json) |
 | Bullets & Brains | 261552 | [261552-bullets-and-brains.json](./261552-bullets-and-brains.json) |
+| Bullets in the Space | 106626 | [106626-bullets-in-the-space.json](./106626-bullets-in-the-space.json) |
 | Bully Ball Soccer | 296653 | [296653-bully-ball-soccer.json](./296653-bully-ball-soccer.json) |
 | BullyBall | 161894 | [161894-bullyball.json](./161894-bullyball.json) |
 | Bump and Run Racing | 265396 | [265396-bump-and-run-racing.json](./265396-bump-and-run-racing.json) |
