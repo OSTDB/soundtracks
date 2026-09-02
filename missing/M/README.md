@@ -253,6 +253,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masterchef Chinese Food Edition | 195273 | [195273-masterchef-chinese-food-edition.json](./195273-masterchef-chinese-food-edition.json) |
 | MasterQ | 207536 | [207536-masterq.json](./207536-masterq.json) |
 | Masters of Chaos | 268757 | [268757-masters-of-chaos.json](./268757-masters-of-chaos.json) |
+| Masters of Puzzle: Autumn Fuji | 151213 | [151213-masters-of-puzzle-autumn-fuji.json](./151213-masters-of-puzzle-autumn-fuji.json) |
+| Masters of Puzzle: Childhood | 151216 | [151216-masters-of-puzzle-childhood.json](./151216-masters-of-puzzle-childhood.json) |
+| Masters of Puzzle: Christmas Edition - Mystery Town | 151215 | [151215-masters-of-puzzle-christmas-edition-mystery-town.json](./151215-masters-of-puzzle-christmas-edition-mystery-town.json) |
+| Masters of Puzzle: Clockwork Factory | 151214 | [151214-masters-of-puzzle-clockwork-factory.json](./151214-masters-of-puzzle-clockwork-factory.json) |
+| Masters of Puzzle: Desolation | 151212 | [151212-masters-of-puzzle-desolation.json](./151212-masters-of-puzzle-desolation.json) |
+| Masters of Puzzle: Destruction | 151211 | [151211-masters-of-puzzle-destruction.json](./151211-masters-of-puzzle-destruction.json) |
+| Masters of Puzzle: Dream of Arcadia | 151210 | [151210-masters-of-puzzle-dream-of-arcadia.json](./151210-masters-of-puzzle-dream-of-arcadia.json) |
+| Masters of Puzzle: Echoes | 151209 | [151209-masters-of-puzzle-echoes.json](./151209-masters-of-puzzle-echoes.json) |
 | Mata Yume no Naka de | 205239 | [205239-mata-yume-no-naka-de.json](./205239-mata-yume-no-naka-de.json) |
 | Mata, Itsuka. | 201309 | [201309-mata-itsuka.json](./201309-mata-itsuka.json) |
 | Match 3 Bundle of 3 | 218716 | [218716-match-3-bundle-of-3.json](./218716-match-3-bundle-of-3.json) |
@@ -572,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minarai Majo to Mokomoko Friends | 222497 | [222497-minarai-majo-to-mokomoko-friends.json](./222497-minarai-majo-to-mokomoko-friends.json) |
 | Mind Diver | 236519 | [236519-mind-diver.json](./236519-mind-diver.json) |
 | Mind Her Manor | 312325 | [312325-mind-her-manor.json](./312325-mind-her-manor.json) |
+| Mind Shadows | 151180 | [151180-mind-shadows.json](./151180-mind-shadows.json) |
 | Mind the Abyss | 310175 | [310175-mind-the-abyss.json](./310175-mind-the-abyss.json) |
 | Mindhack | 151735 | [151735-mindhack.json](./151735-mindhack.json) |
 | Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
