@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nav's Endless Nightmare | 182537 | [182537-navs-endless-nightmare.json](./182537-navs-endless-nightmare.json) |
 | Naval Campaigns Kriegsmarine | 202918 | [202918-naval-campaigns-kriegsmarine.json](./202918-naval-campaigns-kriegsmarine.json) |
 | Naval Creed: Warships | 239921 | [239921-naval-creed-warships.json](./239921-naval-creed-warships.json) |
+| Navalny: Posledniy miting | 111016 | [111016-navalny-posledniy-miting.json](./111016-navalny-posledniy-miting.json) |
 | Navigavia: Kirka's Island | 267107 | [267107-navigavia-kirkas-island.json](./267107-navigavia-kirkas-island.json) |
 | Navy War | 207517 | [207517-navy-war.json](./207517-navy-war.json) |
 | Naxat Cup Satellaview Bass Tournament "Big Fight" | 150171 | [150171-naxat-cup-satellaview-bass-tournament-big-fight.json](./150171-naxat-cup-satellaview-bass-tournament-big-fight.json) |
@@ -430,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonogram Minimal | 197918 | [197918-nonogram-minimal.json](./197918-nonogram-minimal.json) |
 | Nonogram Mon | 312367 | [312367-nonogram-mon.json](./312367-nonogram-mon.json) |
 | Nonogram: Girl's Sweets II | 228090 | [228090-nonogram-girls-sweets-ii.json](./228090-nonogram-girls-sweets-ii.json) |
+| Nonogram: Master's Legacy | 111030 | [111030-nonogram-masters-legacy.json](./111030-nonogram-masters-legacy.json) |
 | Nonolith | 321176 | [321176-nonolith.json](./321176-nonolith.json) |
 | Noodle Fight | 269313 | [269313-noodle-fight.json](./269313-noodle-fight.json) |
 | Noodle Party | 209680 | [209680-noodle-party.json](./209680-noodle-party.json) |
