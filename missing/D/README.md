@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinoland | 165672 | [165672-dinoland.json](./165672-dinoland.json) |
 | Dinopunk: The Cacops Adventure | 273648 | [273648-dinopunk-the-cacops-adventure.json](./273648-dinopunk-the-cacops-adventure.json) |
 | Dinos | 311257 | [311257-dinos.json](./311257-dinos.json) |
+| Dinosaur Games Simulator 2018 | 105967 | [105967-dinosaur-games-simulator-2018.json](./105967-dinosaur-games-simulator-2018.json) |
 | Dinosaur Island | 266484 | [266484-dinosaur-island.json](./266484-dinosaur-island.json) |
 | Dinosaur Zookeeper | 318233 | [318233-dinosaur-zookeeper.json](./318233-dinosaur-zookeeper.json) |
 | Dinotopia | 146885 | [146885-dinotopia.json](./146885-dinotopia.json) |
@@ -631,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DMX Presents: Unnecessary Hypeman Hero | 138266 | [138266-dmx-presents-unnecessary-hypeman-hero.json](./138266-dmx-presents-unnecessary-hypeman-hero.json) |
 | DMZ Adventure 2 | 331110 | [331110-dmz-adventure-2.json](./331110-dmz-adventure-2.json) |
 | DNA: Episode 4 | 297801 | [297801-dna-episode-4.json](./297801-dna-episode-4.json) |
+| DnD Dice | 105951 | [105951-dnd-dice.json](./105951-dnd-dice.json) |
 | Do I Pass? | 179738 | [179738-do-i-pass.json](./179738-do-i-pass.json) |
 | Do No Harm | 324687 | [324687-do-no-harm.json](./324687-do-no-harm.json) |
 | Do Not Crash | 252391 | [252391-do-not-crash.json](./252391-do-not-crash.json) |
