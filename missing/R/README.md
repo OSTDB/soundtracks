@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Embrace: Paradisus | 186332 | [186332-red-embrace-paradisus.json](./186332-red-embrace-paradisus.json) |
 | Red Entity | 181917 | [181917-red-entity.json](./181917-red-entity.json) |
 | Red Faction: B.E.A.S.T. | 264880 | [264880-red-faction-b-e-a-s-t.json](./264880-red-faction-b-e-a-s-t.json) |
+| Red Fox and the Four Seasons | 148529 | [148529-red-fox-and-the-four-seasons.json](./148529-red-fox-and-the-four-seasons.json) |
 | Red Fox and the Four Seasons: Design My Forest 2 | 215895 | [215895-red-fox-and-the-four-seasons-design-my-forest-2.json](./215895-red-fox-and-the-four-seasons-design-my-forest-2.json) |
 | Red Genie: An Eidola Tale | 258737 | [258737-red-genie-an-eidola-tale.json](./258737-red-genie-an-eidola-tale.json) |
 | Red Haven | 218714 | [218714-red-haven.json](./218714-red-haven.json) |
@@ -261,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reksio i Kapitan Nemo | 156177 | [156177-reksio-i-kapitan-nemo.json](./156177-reksio-i-kapitan-nemo.json) |
 | Relapse | 208585 | [208585-relapse.json](./208585-relapse.json) |
 | Relaxing Art Bundle | 231052 | [231052-relaxing-art-bundle.json](./231052-relaxing-art-bundle.json) |
+| Relaxing Kite | 148571 | [148571-relaxing-kite.json](./148571-relaxing-kite.json) |
 | Relayer: Limited Edition | 172776 | [172776-relayer-limited-edition.json](./172776-relayer-limited-edition.json) |
 | Release Me | 310173 | [310173-release-me.json](./310173-release-me.json) |
 | Relic Heroes | 219812 | [219812-relic-heroes.json](./219812-relic-heroes.json) |
@@ -411,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Breach | 232693 | [232693-rift-breach.json](./232693-rift-breach.json) |
 | Rift Rangers | 226949 | [226949-rift-rangers.json](./226949-rift-rangers.json) |
 | Rift Wizard 2 | 270936 | [270936-rift-wizard-2.json](./270936-rift-wizard-2.json) |
+| Rift World | 148550 | [148550-rift-world.json](./148550-rift-world.json) |
 | Riftwalker | 178679 | [178679-riftwalker.json](./178679-riftwalker.json) |
 | Rig'n' Roll: Cut-Throat Highway | 209162 | [209162-rign-roll-cut-throat-highway.json](./209162-rign-roll-cut-throat-highway.json) |
 | Right and Down | 207494 | [207494-right-and-down.json](./207494-right-and-down.json) |
