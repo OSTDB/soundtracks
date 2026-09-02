@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardboard Football Club | 233206 | [233206-cardboard-football-club.json](./233206-cardboard-football-club.json) |
 | Cardfight!! Vanguard: Dear Days - Additional Special Set | 301017 | [301017-cardfight-vanguard-dear-days-additional-special-set.json](./301017-cardfight-vanguard-dear-days-additional-special-set.json) |
 | Cardfight!!: Additional Card Set Vol.6 [D-BT09] - Dragontree Invasion | 267666 | [267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json](./267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json) |
+| Cardnarok: Raid with Gods | 132232 | [132232-cardnarok-raid-with-gods.json](./132232-cardnarok-raid-with-gods.json) |
 | Cardpocalypse: Time Warp Edition | 154554 | [154554-cardpocalypse-time-warp-edition.json](./154554-cardpocalypse-time-warp-edition.json) |
 | Cards and Castles 2 | 178080 | [178080-cards-and-castles-2.json](./178080-cards-and-castles-2.json) |
 | Cards of Eternity: The Wheel of Time | 321147 | [321147-cards-of-eternity-the-wheel-of-time.json](./321147-cards-of-eternity-the-wheel-of-time.json) |
@@ -163,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Bash | 339096 | [339096-cartoon-bash.json](./339096-cartoon-bash.json) |
 | Cartoon Cartoon Food Bash | 296099 | [296099-cartoon-cartoon-food-bash.json](./296099-cartoon-cartoon-food-bash.json) |
 | Cartoon Pet Game | 335068 | [335068-cartoon-pet-game.json](./335068-cartoon-pet-game.json) |
+| Cartridge Defense | 132277 | [132277-cartridge-defense.json](./132277-cartridge-defense.json) |
 | Carvalho: Los Pájaros de Bangkok | 138790 | [138790-carvalho-los-pajaros-de-bangkok.json](./138790-carvalho-los-pajaros-de-bangkok.json) |
 | Carwarz.io | 219269 | [219269-carwarz-io.json](./219269-carwarz-io.json) |
 | CarX Drift Racing Online: Hit the Wall | 199667 | [199667-carx-drift-racing-online-hit-the-wall.json](./199667-carx-drift-racing-online-hit-the-wall.json) |
@@ -739,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conc Jump | 132852 | [132852-conc-jump.json](./132852-conc-jump.json) |
 | ConcernedApe's Haunted Chocolatier | 178101 | [178101-concernedapes-haunted-chocolatier.json](./178101-concernedapes-haunted-chocolatier.json) |
 | Concourse X-Ray | 179172 | [179172-concourse-x-ray.json](./179172-concourse-x-ray.json) |
+| Concrete Genie: Digital Deluxe Edition | 132227 | [132227-concrete-genie-digital-deluxe-edition.json](./132227-concrete-genie-digital-deluxe-edition.json) |
 | Concurrence | 166779 | [166779-concurrence.json](./166779-concurrence.json) |
 | Conde | 265424 | [265424-conde.json](./265424-conde.json) |
 | Condominium | 333356 | [333356-condominium.json](./333356-condominium.json) |
@@ -1019,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CryptoClickers | 218162 | [218162-cryptoclickers.json](./218162-cryptoclickers.json) |
 | Crystal Guardian | 296668 | [296668-crystal-guardian.json](./296668-crystal-guardian.json) |
 | Crystal Ice Quest | 146899 | [146899-crystal-ice-quest.json](./146899-crystal-ice-quest.json) |
+| Crystal Soul Chambers | 132257 | [132257-crystal-soul-chambers.json](./132257-crystal-soul-chambers.json) |
 | Crystal Squad | 236503 | [236503-crystal-squad.json](./236503-crystal-squad.json) |
 | Crystal Venture | 189194 | [189194-crystal-venture.json](./189194-crystal-venture.json) |
 | Crystal Wish: Candy Chase | 264888 | [264888-crystal-wish-candy-chase.json](./264888-crystal-wish-candy-chase.json) |
