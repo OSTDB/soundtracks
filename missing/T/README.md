@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of LinShanHai | 234311 | [234311-the-adventures-of-linshanhai.json](./234311-the-adventures-of-linshanhai.json) |
 | The Age of Gods Return | 173271 | [173271-the-age-of-gods-return.json](./173271-the-age-of-gods-return.json) |
 | The Alehouse Tavern Chronicles | 335074 | [335074-the-alehouse-tavern-chronicles.json](./335074-the-alehouse-tavern-chronicles.json) |
+| The Alien Trials | 149578 | [149578-the-alien-trials.json](./149578-the-alien-trials.json) |
 | The Alpha 001 | 168369 | [168369-the-alpha-001.json](./168369-the-alpha-001.json) |
 | The Amulet of AmunRuuuuuN | 157188 | [157188-the-amulet-of-amunruuuuun.json](./157188-the-amulet-of-amunruuuuun.json) |
 | The Angry 4 | 186866 | [186866-the-angry-4.json](./186866-the-angry-4.json) |
@@ -558,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Giant of Torridge Island | 192984 | [192984-the-giant-of-torridge-island.json](./192984-the-giant-of-torridge-island.json) |
 | The GIF Game | 297813 | [297813-the-gif-game.json](./297813-the-gif-game.json) |
 | The Girl From the Snuff Video | 247742 | [247742-the-girl-from-the-snuff-video.json](./247742-the-girl-from-the-snuff-video.json) |
+| The Girl Who Sees | 149576 | [149576-the-girl-who-sees.json](./149576-the-girl-who-sees.json) |
 | The Girl's Moving Castle | 291759 | [291759-the-girls-moving-castle.json](./291759-the-girls-moving-castle.json) |
 | The Glassworks | 322353 | [322353-the-glassworks.json](./322353-the-glassworks.json) |
 | The Goddess Robbery | 307906 | [307906-the-goddess-robbery.json](./307906-the-goddess-robbery.json) |
@@ -589,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hauntings: Surveillance | 202367 | [202367-the-hauntings-surveillance.json](./202367-the-hauntings-surveillance.json) |
 | The Headsman | 153412 | [153412-the-headsman.json](./153412-the-headsman.json) |
 | The Heart Defenders | 224778 | [224778-the-heart-defenders.json](./224778-the-heart-defenders.json) |
+| The Heartbeat | 149610 | [149610-the-heartbeat.json](./149610-the-heartbeat.json) |
 | The Heights | 244504 | [244504-the-heights.json](./244504-the-heights.json) |
 | The Heist in LS | 328220 | [328220-the-heist-in-ls.json](./328220-the-heist-in-ls.json) |
 | The Hellbrand | 190728 | [190728-the-hellbrand.json](./190728-the-hellbrand.json) |
@@ -726,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Legends of Redwall: The Scout - Act 3 | 171612 | [171612-the-lost-legends-of-redwall-the-scout-act-3.json](./171612-the-lost-legends-of-redwall-the-scout-act-3.json) |
 | The Lost Marble | 161390 | [161390-the-lost-marble.json](./161390-the-lost-marble.json) |
 | The Lost Mines | 199103 | [199103-the-lost-mines.json](./199103-the-lost-mines.json) |
+| The Lost Shrine: Escape Room | 149606 | [149606-the-lost-shrine-escape-room.json](./149606-the-lost-shrine-escape-room.json) |
 | The Lost Vikings | 214769 | [214769-the-lost-vikings.json](./214769-the-lost-vikings.json) |
 | The Lost Weld | 197385 | [197385-the-lost-weld.json](./197385-the-lost-weld.json) |
 | The Love Interests get their Own Game | 183049 | [183049-the-love-interests-get-their-own-game.json](./183049-the-love-interests-get-their-own-game.json) |
@@ -817,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pepper Prince: Prologue | 302135 | [302135-the-pepper-prince-prologue.json](./302135-the-pepper-prince-prologue.json) |
 | The Perfect Garden | 211923 | [211923-the-perfect-garden.json](./211923-the-perfect-garden.json) |
 | The Perfect Shape | 158713 | [158713-the-perfect-shape.json](./158713-the-perfect-shape.json) |
+| The Perfect Tower II | 149572 | [149572-the-perfect-tower-ii.json](./149572-the-perfect-tower-ii.json) |
 | The Permanent Residence: Souls Kept | 324671 | [324671-the-permanent-residence-souls-kept.json](./324671-the-permanent-residence-souls-kept.json) |
 | The Pet Squad | 332810 | [332810-the-pet-squad.json](./332810-the-pet-squad.json) |
 | The Play's the Thing | 154017 | [154017-the-plays-the-thing.json](./154017-the-plays-the-thing.json) |
@@ -1128,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrillville: Off the Rails | 322364 | [322364-thrillville-off-the-rails.json](./322364-thrillville-off-the-rails.json) |
 | Throb of Lovegirl: A Ero Waifu TD | 175983 | [175983-throb-of-lovegirl-a-ero-waifu-td.json](./175983-throb-of-lovegirl-a-ero-waifu-td.json) |
 | Throw M | 319962 | [319962-throw-m.json](./319962-throw-m.json) |
+| Throw Me in the River | 149600 | [149600-throw-me-in-the-river.json](./149600-throw-me-in-the-river.json) |
 | Thrust Master Deluxe | 258220 | [258220-thrust-master-deluxe.json](./258220-thrust-master-deluxe.json) |
 | ThrustMe Too | 333373 | [333373-thrustme-too.json](./333373-thrustme-too.json) |
 | Thukothea Defender | 159855 | [159855-thukothea-defender.json](./159855-thukothea-defender.json) |
@@ -1319,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiles and Towers TD | 216503 | [216503-tiles-and-towers-td.json](./216503-tiles-and-towers-td.json) |
 | Tilting Tiles: Fires of Industry | 319945 | [319945-tilting-tiles-fires-of-industry.json](./319945-tilting-tiles-fires-of-industry.json) |
 | Tim's Birthday | 150126 | [150126-tims-birthday.json](./150126-tims-birthday.json) |
+| Timber Jump VR | 149589 | [149589-timber-jump-vr.json](./149589-timber-jump-vr.json) |
 | Time Attack! RPG | 152382 | [152382-time-attack-rpg.json](./152382-time-attack-rpg.json) |
 | Time is Solid Here | 197960 | [197960-time-is-solid-here.json](./197960-time-is-solid-here.json) |
 | Time Loader: First Memories | 166211 | [166211-time-loader-first-memories.json](./166211-time-loader-first-memories.json) |
