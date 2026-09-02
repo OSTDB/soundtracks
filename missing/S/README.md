@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiba Mekuri | 158726 | [158726-shiba-mekuri.json](./158726-shiba-mekuri.json) |
 | Shibainu: VR Katana Simulator | 197408 | [197408-shibainu-vr-katana-simulator.json](./197408-shibainu-vr-katana-simulator.json) |
 | Shibui Coliseum | 120985 | [120985-shibui-coliseum.json](./120985-shibui-coliseum.json) |
+| Shields Up! VR | 102196 | [102196-shields-up-vr.json](./102196-shields-up-vr.json) |
 | Shift | 181920 | [181920-shift.json](./181920-shift.json) |
 | Shifted Heart | 235987 | [235987-shifted-heart.json](./235987-shifted-heart.json) |
 | Shijie Xiuxian | 295003 | [295003-shijie-xiuxian.json](./295003-shijie-xiuxian.json) |
@@ -669,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Star Japan Table Games | 144997 | [144997-silver-star-japan-table-games.json](./144997-silver-star-japan-table-games.json) |
 | SilverStarChess | 147986 | [147986-silverstarchess.json](./147986-silverstarchess.json) |
 | Silverwood Bay: An Eleanor Grey Mystery | 291246 | [291246-silverwood-bay-an-eleanor-grey-mystery.json](./291246-silverwood-bay-an-eleanor-grey-mystery.json) |
+| Simian Rising | 102147 | [102147-simian-rising.json](./102147-simian-rising.json) |
 | Simon Scoop: Ace Attorney | 308551 | [308551-simon-scoop-ace-attorney.json](./308551-simon-scoop-ace-attorney.json) |
 | Simon Tatham's Portable Puzzle Collection | 135292 | [135292-simon-tathams-portable-puzzle-collection.json](./135292-simon-tathams-portable-puzzle-collection.json) |
 | Simon's Cat in Purrfect Pitch | 233208 | [233208-simons-cat-in-purrfect-pitch.json](./233208-simons-cat-in-purrfect-pitch.json) |
@@ -826,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Evolution | 235464 | [235464-slime-evolution.json](./235464-slime-evolution.json) |
 | Slime Evolutionary Path | 256516 | [256516-slime-evolutionary-path.json](./256516-slime-evolutionary-path.json) |
 | Slime Garden | 104661 | [104661-slime-garden.json](./104661-slime-garden.json) |
+| Slime Kingdom | 102192 | [102192-slime-kingdom.json](./102192-slime-kingdom.json) |
 | Slime Legion | 242238 | [242238-slime-legion.json](./242238-slime-legion.json) |
 | Slime Road | 108509 | [108509-slime-road.json](./108509-slime-road.json) |
 | Slime Runner | 215886 | [215886-slime-runner.json](./215886-slime-runner.json) |
