@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Burned Man Walks Down The Desolate Corridor | 303251 | [303251-a-burned-man-walks-down-the-desolate-corridor.json](./303251-a-burned-man-walks-down-the-desolate-corridor.json) |
 | A Cat Cafe Story | 183047 | [183047-a-cat-cafe-story.json](./183047-a-cat-cafe-story.json) |
 | A Cat in Dungeons | 149573 | [149573-a-cat-in-dungeons.json](./149573-a-cat-in-dungeons.json) |
+| A Chat with Charon | 138254 | [138254-a-chat-with-charon.json](./138254-a-chat-with-charon.json) |
 | A Christmas Gift: Timmy's Final Gift | 312366 | [312366-a-christmas-gift-timmys-final-gift.json](./312366-a-christmas-gift-timmys-final-gift.json) |
 | A Christmas Story From Hell VR | 189163 | [189163-a-christmas-story-from-hell-vr.json](./189163-a-christmas-story-from-hell-vr.json) |
 | A Clockwork Ley-Line: Daybreak of Remnants Shadow | 195795 | [195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json](./195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json) |
@@ -55,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Journey Through Valhalla | 165677 | [165677-a-journey-through-valhalla.json](./165677-a-journey-through-valhalla.json) |
 | A Juggler's Tale: Collector's Edition | 186874 | [186874-a-jugglers-tale-collectors-edition.json](./186874-a-jugglers-tale-collectors-edition.json) |
 | A Land Goo's Crazy | 238733 | [238733-a-land-goos-crazy.json](./238733-a-land-goos-crazy.json) |
+| A Landlord's Dream | 138215 | [138215-a-landlords-dream.json](./138215-a-landlords-dream.json) |
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
 | A List of People Who Went Missing in the Scheleirland National Forest | 193468 | [193468-a-list-of-people-who-went-missing-in-the-scheleirland-national-forest.json](./193468-a-list-of-people-who-went-missing-in-the-scheleirland-national-forest.json) |
 | A Little to the Left: Deep Clean | 264334 | [264334-a-little-to-the-left-deep-clean.json](./264334-a-little-to-the-left-deep-clean.json) |
@@ -63,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lonely Cabin Trip | 237065 | [237065-a-lonely-cabin-trip.json](./237065-a-lonely-cabin-trip.json) |
 | A Long Long Night | 335687 | [335687-a-long-long-night.json](./335687-a-long-long-night.json) |
 | A Long Way Home | 180805 | [180805-a-long-way-home.json](./180805-a-long-way-home.json) |
+| A Lozenge | 138252 | [138252-a-lozenge.json](./138252-a-lozenge.json) |
 | A Lucky First Turnabout: A Klavier Gavin Story | 308550 | [308550-a-lucky-first-turnabout-a-klavier-gavin-story.json](./308550-a-lucky-first-turnabout-a-klavier-gavin-story.json) |
 | A Maiden Astrologer Divines the Future | 229349 | [229349-a-maiden-astrologer-divines-the-future.json](./229349-a-maiden-astrologer-divines-the-future.json) |
 | A Maiden's Serenade | 302680 | [302680-a-maidens-serenade.json](./302680-a-maidens-serenade.json) |
@@ -90,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Rocket's Intensity | 247777 | [247777-a-rockets-intensity.json](./247777-a-rockets-intensity.json) |
 | A Sad Journey | 172196 | [172196-a-sad-journey.json](./172196-a-sad-journey.json) |
 | A Second Chance | 201290 | [201290-a-second-chance.json](./201290-a-second-chance.json) |
+| A Secret Bitsy Game | 138258 | [138258-a-secret-bitsy-game.json](./138258-a-secret-bitsy-game.json) |
 | A Sensei's Story | 276503 | [276503-a-senseis-story.json](./276503-a-senseis-story.json) |
 | A Shadow Cast on Water | 253582 | [253582-a-shadow-cast-on-water.json](./253582-a-shadow-cast-on-water.json) |
 | A Shard of Mine | 243418 | [243418-a-shard-of-mine.json](./243418-a-shard-of-mine.json) |
@@ -170,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Attorney: Athena Cykes - Wisdom at Law | 308533 | [308533-ace-attorney-athena-cykes-wisdom-at-law.json](./308533-ace-attorney-athena-cykes-wisdom-at-law.json) |
 | Ace Attorney: Beyond the Shadows | 308543 | [308543-ace-attorney-beyond-the-shadows.json](./308543-ace-attorney-beyond-the-shadows.json) |
 | Ace Baker | 182524 | [182524-ace-baker.json](./182524-ace-baker.json) |
+| Ace Combat 7: Skies Unknown - Original Aircraft Series | 138246 | [138246-ace-combat-7-skies-unknown-original-aircraft-series.json](./138246-ace-combat-7-skies-unknown-original-aircraft-series.json) |
 | Ace Combat 7: Skies Unknown - Top Gun: Maverick Edition | 204084 | [204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json](./204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json) |
 | Ace Combat 7: Skies Unknown - Top Gun: Maverick Ultimate Edition | 205250 | [205250-ace-combat-7-skies-unknown-top-gun-maverick-ultimate-edition.json](./205250-ace-combat-7-skies-unknown-top-gun-maverick-ultimate-edition.json) |
 | Ace Defender | 177535 | [177535-ace-defender.json](./177535-ace-defender.json) |
@@ -198,9 +203,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ActionHacker | 290686 | [290686-actionhacker.json](./290686-actionhacker.json) |
 | Active Life Outdoor Challenge | 167810 | [167810-active-life-outdoor-challenge.json](./167810-active-life-outdoor-challenge.json) |
 | Ad Fundum | 273626 | [273626-ad-fundum.json](./273626-ad-fundum.json) |
+| Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
 | Ada and Cal | 165676 | [165676-ada-and-cal.json](./165676-ada-and-cal.json) |
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
 | Adam and Eve | 300990 | [300990-adam-and-eve.json](./300990-adam-and-eve.json) |
+| Adam Sandler Dating Sim | 138263 | [138263-adam-sandler-dating-sim.json](./138263-adam-sandler-dating-sim.json) |
 | Add Astra | 292305 | [292305-add-astra.json](./292305-add-astra.json) |
 | Aden | 224770 | [224770-aden.json](./224770-aden.json) |
 | Adhvan Chakra | 328214 | [328214-adhvan-chakra.json](./328214-adhvan-chakra.json) |
@@ -503,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Americas Tower Simulator | 224756 | [224756-americas-tower-simulator.json](./224756-americas-tower-simulator.json) |
 | Amidst The Haze | 278677 | [278677-amidst-the-haze.json](./278677-amidst-the-haze.json) |
 | Amigo Pancho 2 | 331149 | [331149-amigo-pancho-2.json](./331149-amigo-pancho-2.json) |
+| Amma: A Quest for Light | 138223 | [138223-amma-a-quest-for-light.json](./138223-amma-a-quest-for-light.json) |
 | Ammossum | 275884 | [275884-ammossum.json](./275884-ammossum.json) |
 | Amoeboid | 233213 | [233213-amoeboid.json](./233213-amoeboid.json) |
 | Amogus TD 2: Defense of the Sus | 254757 | [254757-amogus-td-2-defense-of-the-sus.json](./254757-amogus-td-2-defense-of-the-sus.json) |
