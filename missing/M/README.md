@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miffed | 180821 | [180821-miffed.json](./180821-miffed.json) |
 | MiG-29 Fulcrum | 229931 | [229931-mig-29-fulcrum.json](./229931-mig-29-fulcrum.json) |
 | Mighty Gunvolt Burst: Character Set - Rivals | 225906 | [225906-mighty-gunvolt-burst-character-set-rivals.json](./225906-mighty-gunvolt-burst-character-set-rivals.json) |
+| Mighty Heroes | 125995 | [125995-mighty-heroes.json](./125995-mighty-heroes.json) |
 | Mighty Knight Legacy | 275339 | [275339-mighty-knight-legacy.json](./275339-mighty-knight-legacy.json) |
 | Miguelshroom: First Day at School | 149593 | [149593-miguelshroom-first-day-at-school.json](./149593-miguelshroom-first-day-at-school.json) |
 | Mikagami Sumika No Seifuku Katsudou | 147446 | [147446-mikagami-sumika-no-seifuku-katsudou.json](./147446-mikagami-sumika-no-seifuku-katsudou.json) |
