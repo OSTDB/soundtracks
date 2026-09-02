@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Slug Hyperway | 208030 | [208030-beat-slug-hyperway.json](./208030-beat-slug-hyperway.json) |
 | Beat The Boss Game | 331699 | [331699-beat-the-boss-game.json](./331699-beat-the-boss-game.json) |
 | Beatcraft Cyclon | 232683 | [232683-beatcraft-cyclon.json](./232683-beatcraft-cyclon.json) |
+| Beatem Tom and Jerry | 100822 | [100822-beatem-tom-and-jerry.json](./100822-beatem-tom-and-jerry.json) |
 | Beatmania Append Gottamix 2: Going Global | 292855 | [292855-beatmania-append-gottamix-2-going-global.json](./292855-beatmania-append-gottamix-2-going-global.json) |
 | Beatmania IIDX 31 Epolis | 258714 | [258714-beatmania-iidx-31-epolis.json](./258714-beatmania-iidx-31-epolis.json) |
 | Beauties Academy: Spellcraft Tournament | 211429 | [211429-beauties-academy-spellcraft-tournament.json](./211429-beauties-academy-spellcraft-tournament.json) |
@@ -481,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big's Fishing Quest | 329400 | [329400-bigs-fishing-quest.json](./329400-bigs-fishing-quest.json) |
 | Bigface Marsh | 179179 | [179179-bigface-marsh.json](./179179-bigface-marsh.json) |
 | BigFool | 307942 | [307942-bigfool.json](./307942-bigfool.json) |
+| Biggest Impossible Ramp Ever | 100895 | [100895-biggest-impossible-ramp-ever.json](./100895-biggest-impossible-ramp-ever.json) |
 | Bigroom Escape | 151727 | [151727-bigroom-escape.json](./151727-bigroom-escape.json) |
 | Bike Game 3D | 254747 | [254747-bike-game-3d.json](./254747-bike-game-3d.json) |
 | Bike Rush | 227508 | [227508-bike-rush.json](./227508-bike-rush.json) |
@@ -778,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookers: Underground Chapter | 104085 | [104085-bookers-underground-chapter.json](./104085-bookers-underground-chapter.json) |
 | Bookey Manor | 333915 | [333915-bookey-manor.json](./333915-bookey-manor.json) |
 | Boolean | 129217 | [129217-boolean.json](./129217-boolean.json) |
+| Boom Blaster | 100891 | [100891-boom-blaster.json](./100891-boom-blaster.json) |
 | Boom Faster | 157198 | [157198-boom-faster.json](./157198-boom-faster.json) |
 | Boom Karts: Multiplayer Kart Racing | 144982 | [144982-boom-karts-multiplayer-kart-racing.json](./144982-boom-karts-multiplayer-kart-racing.json) |
 | Boom Zoo | 297226 | [297226-boom-zoo.json](./297226-boom-zoo.json) |
