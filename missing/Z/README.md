@@ -67,6 +67,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zolaris | 153454 | [153454-zolaris.json](./153454-zolaris.json) |
 | Zombie Age 3: Dead City | 312905 | [312905-zombie-age-3-dead-city.json](./312905-zombie-age-3-dead-city.json) |
 | Zombie Ants VR | 250003 | [250003-zombie-ants-vr.json](./250003-zombie-ants-vr.json) |
+| Zombie Army 4: Dead War - Deluxe Edition | 129784 | [129784-zombie-army-4-dead-war-deluxe-edition.json](./129784-zombie-army-4-dead-war-deluxe-edition.json) |
+| Zombie Army 4: Dead War - Super Deluxe Edition | 129783 | [129783-zombie-army-4-dead-war-super-deluxe-edition.json](./129783-zombie-army-4-dead-war-super-deluxe-edition.json) |
 | Zombie Blender | 190746 | [190746-zombie-blender.json](./190746-zombie-blender.json) |
 | Zombie Escape: The Driving Dead | 213589 | [213589-zombie-escape-the-driving-dead.json](./213589-zombie-escape-the-driving-dead.json) |
 | Zombie Exodus: Safe Haven - Side Stories 2 | 291208 | [291208-zombie-exodus-safe-haven-side-stories-2.json](./291208-zombie-exodus-safe-haven-side-stories-2.json) |
