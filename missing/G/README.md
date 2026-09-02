@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamebox | 291782 | [291782-gamebox.json](./291782-gamebox.json) |
 | GameBoy Wordle | 195209 | [195209-gameboy-wordle.json](./195209-gameboy-wordle.json) |
 | Gamedec: Definitive Edition | 219788 | [219788-gamedec-definitive-edition.json](./219788-gamedec-definitive-edition.json) |
+| Gamedev Beatdown | 127986 | [127986-gamedev-beatdown.json](./127986-gamedev-beatdown.json) |
 | Gamedev simulator | 130958 | [130958-gamedev-simulator.json](./130958-gamedev-simulator.json) |
 | Gamedog | 292842 | [292842-gamedog.json](./292842-gamedog.json) |
 | Gamefest Puzzle Classic | 209592 | [209592-gamefest-puzzle-classic.json](./209592-gamefest-puzzle-classic.json) |
