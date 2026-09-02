@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palikat | 251194 | [251194-palikat.json](./251194-palikat.json) |
 | Palladise Island: Legendary Space | 228089 | [228089-palladise-island-legendary-space.json](./228089-palladise-island-legendary-space.json) |
 | Pallas of Vines | 129762 | [129762-pallas-of-vines.json](./129762-pallas-of-vines.json) |
+| Palm Reading Premium | 111056 | [111056-palm-reading-premium.json](./111056-palm-reading-premium.json) |
 | Palm Tetris | 250599 | [250599-palm-tetris.json](./250599-palm-tetris.json) |
 | Pam's HarvestCraft | 232682 | [232682-pams-harvestcraft.json](./232682-pams-harvestcraft.json) |
 | Pamali: Indonesian Folklore Horror - The Tied Corpse | 117737 | [117737-pamali-indonesian-folklore-horror-the-tied-corpse.json](./117737-pamali-indonesian-folklore-horror-the-tied-corpse.json) |
@@ -379,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phlegethon | 187520 | [187520-phlegethon.json](./187520-phlegethon.json) |
 | Phmlspd | 223132 | [223132-phmlspd.json](./223132-phmlspd.json) |
 | Phobos | 184093 | [184093-phobos.json](./184093-phobos.json) |
+| Phobos Vector Prime: The First Ring | 111057 | [111057-phobos-vector-prime-the-first-ring.json](./111057-phobos-vector-prime-the-first-ring.json) |
 | Phoebe Flingle Finger | 183569 | [183569-phoebe-flingle-finger.json](./183569-phoebe-flingle-finger.json) |
 | Phoenix Point: Blood and Titanium | 149580 | [149580-phoenix-point-blood-and-titanium.json](./149580-phoenix-point-blood-and-titanium.json) |
 | Phoenix Point: Corrupted Horizons | 171628 | [171628-phoenix-point-corrupted-horizons.json](./171628-phoenix-point-corrupted-horizons.json) |
@@ -395,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Physical Spheres | 305519 | [305519-physical-spheres.json](./305519-physical-spheres.json) |
 | Physics! Fun | 297236 | [297236-physics-fun.json](./297236-physics-fun.json) |
 | Pi.exe | 192463 | [192463-pi-exe.json](./192463-pi-exe.json) |
+| Pianista: The Legendary Virtuoso | 111040 | [111040-pianista-the-legendary-virtuoso.json](./111040-pianista-the-legendary-virtuoso.json) |
 | Piano: Learn and Play - Complete + | 328827 | [328827-piano-learn-and-play-complete.json](./328827-piano-learn-and-play-complete.json) |
 | Piano: Learn and Play - Ultra Director's Cut | 328828 | [328828-piano-learn-and-play-ultra-directors-cut.json](./328828-piano-learn-and-play-ultra-directors-cut.json) |
 | Piccadilly's Puzzle Museum | 126015 | [126015-piccadillys-puzzle-museum.json](./126015-piccadillys-puzzle-museum.json) |
@@ -609,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platzkart Simulator | 158201 | [158201-platzkart-simulator.json](./158201-platzkart-simulator.json) |
 | Play Dead! #2 | 183073 | [183073-play-dead-2.json](./183073-play-dead-2.json) |
 | Play Fire: Battle Royale | 221381 | [221381-play-fire-battle-royale.json](./221381-play-fire-battle-royale.json) |
+| Play Room 0g | 111017 | [111017-play-room-0g.json](./111017-play-room-0g.json) |
 | Play Something Different Vol. 1 | 173788 | [173788-play-something-different-vol-1.json](./173788-play-something-different-vol-1.json) |
 | Play With Gilbert: A Small Tail | 157722 | [157722-play-with-gilbert-a-small-tail.json](./157722-play-with-gilbert-a-small-tail.json) |
 | Play With My Balls | 309674 | [309674-play-with-my-balls.json](./309674-play-with-my-balls.json) |
