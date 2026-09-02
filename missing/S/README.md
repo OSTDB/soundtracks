@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sightline | 202944 | [202944-sightline.json](./202944-sightline.json) |
 | Sigma Draconis | 133450 | [133450-sigma-draconis.json](./133450-sigma-draconis.json) |
 | Sigma Theory: Global Cold War - Brazil | 155089 | [155089-sigma-theory-global-cold-war-brazil.json](./155089-sigma-theory-global-cold-war-brazil.json) |
+| Sigma Theory: Global Cold War - Deluxe Edition | 124827 | [124827-sigma-theory-global-cold-war-deluxe-edition.json](./124827-sigma-theory-global-cold-war-deluxe-edition.json) |
 | Sigmatica | 276487 | [276487-sigmatica.json](./276487-sigmatica.json) |
 | Signature | 257073 | [257073-signature.json](./257073-signature.json) |
 | Signum Perfectum | 190213 | [190213-signum-perfectum.json](./190213-signum-perfectum.json) |
@@ -1215,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Dash | 174320 | [174320-spell-dash.json](./174320-spell-dash.json) |
 | Spell Slingers: Trick or Treat | 198516 | [198516-spell-slingers-trick-or-treat.json](./198516-spell-slingers-trick-or-treat.json) |
 | Spellbound Schoolgirls! | 206950 | [206950-spellbound-schoolgirls.json](./206950-spellbound-schoolgirls.json) |
+| Spellcasting 1+2+3 | 124795 | [124795-spellcasting-1-2-3.json](./124795-spellcasting-1-2-3.json) |
 | Spellfarers | 308580 | [308580-spellfarers.json](./308580-spellfarers.json) |
 | Spellloom | 337487 | [337487-spellloom.json](./337487-spellloom.json) |
 | Spellsword | 259262 | [259262-spellsword.json](./259262-spellsword.json) |
@@ -1340,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Chef 2: Cooking Game | 153999 | [153999-star-chef-2-cooking-game.json](./153999-star-chef-2-cooking-game.json) |
 | Star Chindy | 175420 | [175420-star-chindy.json](./175420-star-chindy.json) |
 | Star Connect | 233737 | [233737-star-connect.json](./233737-star-connect.json) |
+| Star Control: Origins - Multiverse | 124805 | [124805-star-control-origins-multiverse.json](./124805-star-control-origins-multiverse.json) |
 | Star Crew | 329938 | [329938-star-crew.json](./329938-star-crew.json) |
 | Star Cruiser | 265968 | [265968-star-cruiser.json](./265968-star-cruiser.json) |
 | Star Cycle | 312900 | [312900-star-cycle.json](./312900-star-cycle.json) |
@@ -1403,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarPicker | 149607 | [149607-starpicker.json](./149607-starpicker.json) |
 | Starpiercer | 181360 | [181360-starpiercer.json](./181360-starpiercer.json) |
 | Starpoint Gemini 2 Gold Pack | 308575 | [308575-starpoint-gemini-2-gold-pack.json](./308575-starpoint-gemini-2-gold-pack.json) |
+| Starpoint Gemini Warlords - Cycle of Warfare | 124829 | [124829-starpoint-gemini-warlords-cycle-of-warfare.json](./124829-starpoint-gemini-warlords-cycle-of-warfare.json) |
 | StarRaver | 237072 | [237072-starraver.json](./237072-starraver.json) |
 | Starry Flowers | 145644 | [145644-starry-flowers.json](./145644-starry-flowers.json) |
 | Starry Moon Island: Mobile Stronghold MP09 | 190696 | [190696-starry-moon-island-mobile-stronghold-mp09.json](./190696-starry-moon-island-mobile-stronghold-mp09.json) |
@@ -1612,6 +1616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Such, Such Were the Joys | 264352 | [264352-such-such-were-the-joys.json](./264352-such-such-were-the-joys.json) |
 | Suction Co-Op | 303222 | [303222-suction-co-op.json](./303222-suction-co-op.json) |
 | Sudd City Adventures | 134030 | [134030-sudd-city-adventures.json](./134030-sudd-city-adventures.json) |
+| Sudden Strike 4: Finland - Winter Storm | 124799 | [124799-sudden-strike-4-finland-winter-storm.json](./124799-sudden-strike-4-finland-winter-storm.json) |
 | Suddenly Meow 2 | 197932 | [197932-suddenly-meow-2.json](./197932-suddenly-meow-2.json) |
 | Sudocats | 193466 | [193466-sudocats.json](./193466-sudocats.json) |
 | Sudoku | 337482 | [337482-sudoku.json](./337482-sudoku.json) |
@@ -2039,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords and Sandals Spartacus | 130387 | [130387-swords-and-sandals-spartacus.json](./130387-swords-and-sandals-spartacus.json) |
 | Swords Fantasy: Battlefield | 192450 | [192450-swords-fantasy-battlefield.json](./192450-swords-fantasy-battlefield.json) |
 | Swords of Time | 166761 | [166761-swords-of-time.json](./166761-swords-of-time.json) |
+| Syberia 3: The Complete Journey | 124797 | [124797-syberia-3-the-complete-journey.json](./124797-syberia-3-the-complete-journey.json) |
 | Syke | 295522 | [295522-syke.json](./295522-syke.json) |
 | Sylvan Disappearance | 260974 | [260974-sylvan-disappearance.json](./260974-sylvan-disappearance.json) |
 | Sylvie Lime | 230501 | [230501-sylvie-lime.json](./230501-sylvie-lime.json) |
