@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 96 | 240486 | [240486-madden-nfl-96.json](./240486-madden-nfl-96.json) |
 | Made in Abyss: Binary Star Falling into Darkness - Collector's Edition | 150144 | [150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json](./150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json) |
 | Made of DIrt | 185691 | [185691-made-of-dirt.json](./185691-made-of-dirt.json) |
+| Madievals | 120378 | [120378-madievals.json](./120378-madievals.json) |
 | Madness Interactive Reloaded | 331704 | [331704-madness-interactive-reloaded.json](./331704-madness-interactive-reloaded.json) |
 | Madotsuki's Closet | 145675 | [145675-madotsukis-closet.json](./145675-madotsukis-closet.json) |
 | Madvent Calendar 3 Necrosis | 229375 | [229375-madvent-calendar-3-necrosis.json](./229375-madvent-calendar-3-necrosis.json) |
@@ -47,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magatsu Barai | 172730 | [172730-magatsu-barai.json](./172730-magatsu-barai.json) |
 | Magatsu Wahrheit | 194004 | [194004-magatsu-wahrheit.json](./194004-magatsu-wahrheit.json) |
 | Mage and Monsters | 209682 | [209682-mage-and-monsters.json](./209682-mage-and-monsters.json) |
+| Mage Mania | 120408 | [120408-mage-mania.json](./120408-mage-mania.json) |
 | Mage March | 185155 | [185155-mage-march.json](./185155-mage-march.json) |
 | Magi: Mind Game | 197917 | [197917-magi-mind-game.json](./197917-magi-mind-game.json) |
 | Magia X: Leta | 172158 | [172158-magia-x-leta.json](./172158-magia-x-leta.json) |
@@ -283,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Massive Air Combat: Puzzles | 163423 | [163423-massive-air-combat-puzzles.json](./163423-massive-air-combat-puzzles.json) |
 | Master Break | 177553 | [177553-master-break.json](./177553-master-break.json) |
 | Master Chess Ultimate | 193459 | [193459-master-chess-ultimate.json](./193459-master-chess-ultimate.json) |
+| Master Cube | 120377 | [120377-master-cube.json](./120377-master-cube.json) |
 | Master Detective Archives: Rain Code - Ch. Vivia: The Near-Death Detective + Ch. Yakou: Thank You, My Detective | 268772 | [268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json](./268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json) |
 | Master Leaf Blower | 317024 | [317024-master-leaf-blower.json](./317024-master-leaf-blower.json) |
 | Master Levels For Doom II | 218171 | [218171-master-levels-for-doom-ii.json](./218171-master-levels-for-doom-ii.json) |
@@ -483,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Tower: Nonogram | 221399 | [221399-meow-tower-nonogram.json](./221399-meow-tower-nonogram.json) |
 | Meowingtons Simulator | 326384 | [326384-meowingtons-simulator.json](./326384-meowingtons-simulator.json) |
 | Mer Wars | 264310 | [264310-mer-wars.json](./264310-mer-wars.json) |
+| Mercforce: 30X1 | 120380 | [120380-mercforce-30x1.json](./120380-mercforce-30x1.json) |
 | Mercury | 248333 | [248333-mercury.json](./248333-mercury.json) |
 | Mercury no Aoi Suna | 150125 | [150125-mercury-no-aoi-suna.json](./150125-mercury-no-aoi-suna.json) |
 | Mercury Prime | 157675 | [157675-mercury-prime.json](./157675-mercury-prime.json) |
@@ -823,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Jigsaw: Unlucky Reverse Pack | 162914 | [162914-moe-jigsaw-unlucky-reverse-pack.json](./162914-moe-jigsaw-unlucky-reverse-pack.json) |
 | Moe Jigsaw: Witch's Garden Pack | 162929 | [162929-moe-jigsaw-witchs-garden-pack.json](./162929-moe-jigsaw-witchs-garden-pack.json) |
 | Moe Jigsaw: Witch's Garden vol.2 Pack | 162917 | [162917-moe-jigsaw-witchs-garden-vol-2-pack.json](./162917-moe-jigsaw-witchs-garden-vol-2-pack.json) |
+| Moe Moe World War II-3 | 120374 | [120374-moe-moe-world-war-ii-3.json](./120374-moe-moe-world-war-ii-3.json) |
 | Moe Waifu H: Push-Box | 337988 | [337988-moe-waifu-h-push-box.json](./337988-moe-waifu-h-push-box.json) |
 | Moemon Bonds | 336897 | [336897-moemon-bonds.json](./336897-moemon-bonds.json) |
 | Moero Chronicle: Deluxe Edition | 186878 | [186878-moero-chronicle-deluxe-edition.json](./186878-moero-chronicle-deluxe-edition.json) |
