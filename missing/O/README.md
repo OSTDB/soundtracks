@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon A Siege | 224765 | [224765-once-upon-a-siege.json](./224765-once-upon-a-siege.json) |
 | Once upon a Thai: Learn Thai | 214755 | [214755-once-upon-a-thai-learn-thai.json](./214755-once-upon-a-thai-learn-thai.json) |
 | Once Upon a Time in Morocco | 208586 | [208586-once-upon-a-time-in-morocco.json](./208586-once-upon-a-time-in-morocco.json) |
+| OncPangTzu Man | 116341 | [116341-oncpangtzu-man.json](./116341-oncpangtzu-man.json) |
 | One by One | 184631 | [184631-one-by-one.json](./184631-one-by-one.json) |
 | One Fear | 335084 | [335084-one-fear.json](./335084-one-fear.json) |
 | One Girl Army | 324699 | [324699-one-girl-army.json](./324699-one-girl-army.json) |
@@ -237,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One-inch Tactics | 301574 | [301574-one-inch-tactics.json](./301574-one-inch-tactics.json) |
 | One-Thousand Cuts | 250001 | [250001-one-thousand-cuts.json](./250001-one-thousand-cuts.json) |
 | OneBit Frogger | 209651 | [209651-onebit-frogger.json](./209651-onebit-frogger.json) |
+| Onechanbara Z: Kagura With NoNoNo! | 116359 | [116359-onechanbara-z-kagura-with-nonono.json](./116359-onechanbara-z-kagura-with-nonono.json) |
 | OneJump | 131619 | [131619-onejump.json](./131619-onejump.json) |
 | OneTale | 335690 | [335690-onetale.json](./335690-onetale.json) |
 | Ongaku Tsukuuru: Kanadeeru - Convert Data | 234892 | [234892-ongaku-tsukuuru-kanadeeru-convert-data.json](./234892-ongaku-tsukuuru-kanadeeru-convert-data.json) |
