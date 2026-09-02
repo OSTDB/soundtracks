@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Simulator | 326423 | [326423-fighting-simulator.json](./326423-fighting-simulator.json) |
 | FightingChicken | 309675 | [309675-fightingchicken.json](./309675-fightingchicken.json) |
 | Fignermukcre | 128627 | [128627-fignermukcre.json](./128627-fignermukcre.json) |
+| File://maniac | 118374 | [118374-file-maniac.json](./118374-file-maniac.json) |
 | Fill & Cross: Pirate Riddles 3 | 213014 | [213014-fill-and-cross-pirate-riddles-3.json](./213014-fill-and-cross-pirate-riddles-3.json) |
 | Fill and Cross: Trick or Treat | 163987 | [163987-fill-and-cross-trick-or-treat.json](./163987-fill-and-cross-trick-or-treat.json) |
 | Fill the Fridge | 311817 | [311817-fill-the-fridge.json](./311817-fill-the-fridge.json) |
