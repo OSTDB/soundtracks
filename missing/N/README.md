@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naxat Cup Satellaview Bass Tournament "Big Fight" | 150171 | [150171-naxat-cup-satellaview-bass-tournament-big-fight.json](./150171-naxat-cup-satellaview-bass-tournament-big-fight.json) |
 | Nazo no Mini Game: Choigae | 222525 | [222525-nazo-no-mini-game-choigae.json](./222525-nazo-no-mini-game-choigae.json) |
 | Nazo to Kioku no Labyrinth: Somewhere, elsewhere | 172743 | [172743-nazo-to-kioku-no-labyrinth-somewhere-elsewhere.json](./172743-nazo-to-kioku-no-labyrinth-somewhere-elsewhere.json) |
+| NBA 2K19: The Prelude | 110326 | [110326-nba-2k19-the-prelude.json](./110326-nba-2k19-the-prelude.json) |
 | NBA 2K6 | 257114 | [257114-nba-2k6.json](./257114-nba-2k6.json) |
 | NBA Jam: Legends On Fire Edition | 242257 | [242257-nba-jam-legends-on-fire-edition.json](./242257-nba-jam-legends-on-fire-edition.json) |
 | NBA Live 2000 | 264855 | [264855-nba-live-2000.json](./264855-nba-live-2000.json) |
@@ -309,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ningen Maru | 178677 | [178677-ningen-maru.json](./178677-ningen-maru.json) |
 | Ninja Break | 203559 | [203559-ninja-break.json](./203559-ninja-break.json) |
 | Ninja Chicken 2 | 233763 | [233763-ninja-chicken-2.json](./233763-ninja-chicken-2.json) |
+| Ninja Code | 110362 | [110362-ninja-code.json](./110362-ninja-code.json) |
 | Ninja Epic Adventure | 147458 | [147458-ninja-epic-adventure.json](./147458-ninja-epic-adventure.json) |
 | Ninja Fight | 336374 | [336374-ninja-fight.json](./336374-ninja-fight.json) |
 | Ninja Gaiden | 239925 | [239925-ninja-gaiden.json](./239925-ninja-gaiden.json) |
