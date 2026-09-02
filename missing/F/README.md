@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasia Sango 1 | 188656 | [188656-fantasia-sango-1.json](./188656-fantasia-sango-1.json) |
 | Fantasia Sango 3 | 188658 | [188658-fantasia-sango-3.json](./188658-fantasia-sango-3.json) |
 | Fantasia Sango 4 | 188657 | [188657-fantasia-sango-4.json](./188657-fantasia-sango-4.json) |
+| Fantasia Sango 5 | 107868 | [107868-fantasia-sango-5.json](./107868-fantasia-sango-5.json) |
 | Fantasia Sango Mysteria | 188637 | [188637-fantasia-sango-mysteria.json](./188637-fantasia-sango-mysteria.json) |
 | Fantasia: The Realm of Thanos | 243964 | [243964-fantasia-the-realm-of-thanos.json](./243964-fantasia-the-realm-of-thanos.json) |
 | Fantasic Cube | 129763 | [129763-fantasic-cube.json](./129763-fantasic-cube.json) |
@@ -849,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Further Still: Survivors | 213006 | [213006-further-still-survivors.json](./213006-further-still-survivors.json) |
 | Fururu Project : Ruby | 114366 | [114366-fururu-project-ruby.json](./114366-fururu-project-ruby.json) |
 | Fury of Dracula: Digital Edition | 129189 | [129189-fury-of-dracula-digital-edition.json](./129189-fury-of-dracula-digital-edition.json) |
+| Fury Strike | 107918 | [107918-fury-strike.json](./107918-fury-strike.json) |
 | FuryFury | 234910 | [234910-furyfury.json](./234910-furyfury.json) |
 | Fushigi no Dungeon: Fuurai no Shiren Mega | 311289 | [311289-fushigi-no-dungeon-fuurai-no-shiren-mega.json](./311289-fushigi-no-dungeon-fuurai-no-shiren-mega.json) |
 | Fushigi no Gensoukyou | 206927 | [206927-fushigi-no-gensoukyou.json](./206927-fushigi-no-gensoukyou.json) |
