@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggy Car | 335654 | [335654-eggy-car.json](./335654-eggy-car.json) |
 | Eggсellence: Eggs Bounce | 233223 | [233223-egg-ellence-eggs-bounce.json](./233223-egg-ellence-eggs-bounce.json) |
 | Ego Holic | 225297 | [225297-ego-holic.json](./225297-ego-holic.json) |
+| Egypt: Old Kingdom - Master of History | 124796 | [124796-egypt-old-kingdom-master-of-history.json](./124796-egypt-old-kingdom-master-of-history.json) |
 | Eigen Space | 192427 | [192427-eigen-space.json](./192427-eigen-space.json) |
 | Eigenstate | 176470 | [176470-eigenstate.json](./176470-eigenstate.json) |
 | Eighth Era | 329967 | [329967-eighth-era.json](./329967-eighth-era.json) |
