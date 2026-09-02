@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | (Dis)assemble | 192969 | [192969-dis-assemble.json](./192969-dis-assemble.json) |
 | [Speer] | 134672 | [134672-speer.json](./134672-speer.json) |
 | #Halloween, Super Puzzles Dream | 147438 | [147438-halloween-super-puzzles-dream.json](./147438-halloween-super-puzzles-dream.json) |
+| #Have A Sticker | 99640 | [99640-have-a-sticker.json](./99640-have-a-sticker.json) |
 | #womenUp, Super Puzzles Dream | 147437 | [147437-womenup-super-puzzles-dream.json](./147437-womenup-super-puzzles-dream.json) |
 | >Connect | 124224 | [124224-connect.json](./124224-connect.json) |
 | 001 Earth | 191250 | [191250-001-earth.json](./191250-001-earth.json) |
