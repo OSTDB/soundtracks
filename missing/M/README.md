@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Serval | 224750 | [224750-mega-serval.json](./224750-mega-serval.json) |
 | Mega Starforce: Return to the Great Star | 275311 | [275311-mega-starforce-return-to-the-great-star.json](./275311-mega-starforce-return-to-the-great-star.json) |
 | Mega Veg Man | 148538 | [148538-mega-veg-man.json](./148538-mega-veg-man.json) |
+| Mega Zombie | 146875 | [146875-mega-zombie.json](./146875-mega-zombie.json) |
 | Mega-Bots | 214776 | [214776-mega-bots.json](./214776-mega-bots.json) |
 | MegaAri | 205788 | [205788-megaari.json](./205788-megaari.json) |
 | Megadimension Neptunia VII: Party Character - God Eater | 238177 | [238177-megadimension-neptunia-vii-party-character-god-eater.json](./238177-megadimension-neptunia-vii-party-character-god-eater.json) |
@@ -633,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Drift Car: All Cars Key | 337461 | [337461-mini-drift-car-all-cars-key.json](./337461-mini-drift-car-all-cars-key.json) |
 | Mini Golf Championship | 204705 | [204705-mini-golf-championship.json](./204705-mini-golf-championship.json) |
 | Mini Golf Halloween | 233754 | [233754-mini-golf-halloween.json](./233754-mini-golf-halloween.json) |
+| Mini Golf Mania | 146893 | [146893-mini-golf-mania.json](./146893-mini-golf-mania.json) |
 | Mini Jumper | 163990 | [163990-mini-jumper.json](./163990-mini-jumper.json) |
 | Mini Leap | 209707 | [209707-mini-leap.json](./209707-mini-leap.json) |
 | Mini Mini-Golf | 188109 | [188109-mini-mini-golf.json](./188109-mini-mini-golf.json) |
@@ -690,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miszou | 224752 | [224752-miszou.json](./224752-miszou.json) |
 | Mithraeum | 213622 | [213622-mithraeum.json](./213622-mithraeum.json) |
 | Mithral Gun | 196330 | [196330-mithral-gun.json](./196330-mithral-gun.json) |
+| Mitrasphere | 146911 | [146911-mitrasphere.json](./146911-mitrasphere.json) |
 | Mitsuge! Megami-sama | 329951 | [329951-mitsuge-megami-sama.json](./329951-mitsuge-megami-sama.json) |
 | Mitsume ga Tooru | 202919 | [202919-mitsume-ga-tooru.json](./202919-mitsume-ga-tooru.json) |
 | Mítú | 156684 | [156684-mitu.json](./156684-mitu.json) |
@@ -827,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Survivors | 246626 | [246626-monster-survivors.json](./246626-monster-survivors.json) |
 | Monster Sweetie | 232173 | [232173-monster-sweetie.json](./232173-monster-sweetie.json) |
 | Monster Tamer | 190233 | [190233-monster-tamer.json](./190233-monster-tamer.json) |
+| Monster Truck Madness | 146887 | [146887-monster-truck-madness.json](./146887-monster-truck-madness.json) |
 | Monster Truck Montain Offroad | 228105 | [228105-monster-truck-montain-offroad.json](./228105-monster-truck-montain-offroad.json) |
 | Monster Universe | 237640 | [237640-monster-universe.json](./237640-monster-universe.json) |
 | Monster+Connect! | 181396 | [181396-monster-connect.json](./181396-monster-connect.json) |
@@ -1159,8 +1163,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: Paxton Creek Avenger Collector's Edition | 153456 | [153456-mystery-trackers-paxton-creek-avenger-collectors-edition.json](./153456-mystery-trackers-paxton-creek-avenger-collectors-edition.json) |
 | Mystery Trackers: Raincliff's Phantoms | 201829 | [201829-mystery-trackers-raincliffs-phantoms.json](./201829-mystery-trackers-raincliffs-phantoms.json) |
 | Mystery Trackers: Raincliff's Phantoms & Mystery Trackers: Blackrow's Secret | 201817 | [201817-mystery-trackers-raincliffs-phantoms-and-mystery-trackers-blackrows-secret.json](./201817-mystery-trackers-raincliffs-phantoms-and-mystery-trackers-blackrows-secret.json) |
+| Mystery: London | 146926 | [146926-mystery-london.json](./146926-mystery-london.json) |
 | Mystic Forest | 226424 | [226424-mystic-forest.json](./226424-mystic-forest.json) |
 | Mystic Land: The search for Maphaldo | 270967 | [270967-mystic-land-the-search-for-maphaldo.json](./270967-mystic-land-the-search-for-maphaldo.json) |
+| Mystic Store | 146889 | [146889-mystic-store.json](./146889-mystic-store.json) |
 | Mystic Tower Legends | 341354 | [341354-mystic-tower-legends.json](./341354-mystic-tower-legends.json) |
 | Mystic Valley Battleground | 272564 | [272564-mystic-valley-battleground.json](./272564-mystic-valley-battleground.json) |
 | Mystical Chain | 202950 | [202950-mystical-chain.json](./202950-mystical-chain.json) |
