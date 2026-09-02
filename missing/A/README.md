@@ -778,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aooni: The Horror of Blueberry Onsen | 341884 | [341884-aooni-the-horror-of-blueberry-onsen.json](./341884-aooni-the-horror-of-blueberry-onsen.json) |
 | Aozora Under Girls: Karsome Irony | 119755 | [119755-aozora-under-girls-karsome-irony.json](./119755-aozora-under-girls-karsome-irony.json) |
 | Apache Strike | 137662 | [137662-apache-strike.json](./137662-apache-strike.json) |
+| Apartment Life to Cuck and Impregnate Neighboring Busty Married Women | 98450 | [98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json](./98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json) |
 | Apartment Story: A Moving Simulator | 205792 | [205792-apartment-story-a-moving-simulator.json](./205792-apartment-story-a-moving-simulator.json) |
 | Apathy: Inaba Hyakumantetsu in Narugami Gakuen Reikaiki | 260980 | [260980-apathy-inaba-hyakumantetsu-in-narugami-gakuen-reikaiki.json](./260980-apathy-inaba-hyakumantetsu-in-narugami-gakuen-reikaiki.json) |
 | Ape Escape | 146296 | [146296-ape-escape.json](./146296-ape-escape.json) |
