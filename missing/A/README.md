@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Elite Wrestling: Fight Forever - World War Joe | 301010 | [301010-all-elite-wrestling-fight-forever-world-war-joe.json](./301010-all-elite-wrestling-fight-forever-world-war-joe.json) |
 | All For Nought: Tic Tac Toe | 155662 | [155662-all-for-nought-tic-tac-toe.json](./155662-all-for-nought-tic-tac-toe.json) |
 | All Grown Up Krazy Karts | 321770 | [321770-all-grown-up-krazy-karts.json](./321770-all-grown-up-krazy-karts.json) |
+| All Hail the Cook-o-tron | 139464 | [139464-all-hail-the-cook-o-tron.json](./139464-all-hail-the-cook-o-tron.json) |
 | All Hands on Deck | 216465 | [216465-all-hands-on-deck.json](./216465-all-hands-on-deck.json) |
 | All in Abyss: Judge the Fake | 302693 | [302693-all-in-abyss-judge-the-fake.json](./302693-all-in-abyss-judge-the-fake.json) |
 | All is Fair in Love and Vore: The Tavorion Collection | 250600 | [250600-all-is-fair-in-love-and-vore-the-tavorion-collection.json](./250600-all-is-fair-in-love-and-vore-the-tavorion-collection.json) |
@@ -995,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AutoForge | 257105 | [257105-autoforge.json](./257105-autoforge.json) |
 | AutoHeroes | 248883 | [248883-autoheroes.json](./248883-autoheroes.json) |
 | Automata 10 Pack Volume 2 | 258188 | [258188-automata-10-pack-volume-2.json](./258188-automata-10-pack-volume-2.json) |
+| Automata Break | 139455 | [139455-automata-break.json](./139455-automata-break.json) |
 | Automatica | 217013 | [217013-automatica.json](./217013-automatica.json) |
 | Automobilista 2: Formula HiTech | 278171 | [278171-automobilista-2-formula-hitech.json](./278171-automobilista-2-formula-hitech.json) |
 | Automobilista 2: Historical Track Pack Pt2 | 278172 | [278172-automobilista-2-historical-track-pack-pt2.json](./278172-automobilista-2-historical-track-pack-pt2.json) |
