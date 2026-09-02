@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Salt | 165056 | [165056-old-salt.json](./165056-old-salt.json) |
 | Old World Blues | 321740 | [321740-old-world-blues.json](./321740-old-world-blues.json) |
 | Oldfartenstein 3D | 255375 | [255375-oldfartenstein-3d.json](./255375-oldfartenstein-3d.json) |
+| Ollam House | 128628 | [128628-ollam-house.json](./128628-ollam-house.json) |
 | Olobollo | 156138 | [156138-olobollo.json](./156138-olobollo.json) |
 | Olympic Basketball | 147463 | [147463-olympic-basketball.json](./147463-olympic-basketball.json) |
 | Olympic Decathlon | 178060 | [178060-olympic-decathlon.json](./178060-olympic-decathlon.json) |
@@ -188,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Last Game | 143742 | [143742-one-last-game.json](./143742-one-last-game.json) |
 | One Last Memory: Reimagined | 196844 | [196844-one-last-memory-reimagined.json](./196844-one-last-memory-reimagined.json) |
 | One Life: Parkour Project | 318781 | [318781-one-life-parkour-project.json](./318781-one-life-parkour-project.json) |
+| One Man's Shit: An Interactive Trash Adventure | 128638 | [128638-one-mans-shit-an-interactive-trash-adventure.json](./128638-one-mans-shit-an-interactive-trash-adventure.json) |
 | One More Dream | 216981 | [216981-one-more-dream.json](./216981-one-more-dream.json) |
 | One more game | 152931 | [152931-one-more-game.json](./152931-one-more-game.json) |
 | One More Gate : A Wakfu Legend | 204689 | [204689-one-more-gate-a-wakfu-legend.json](./204689-one-more-gate-a-wakfu-legend.json) |
