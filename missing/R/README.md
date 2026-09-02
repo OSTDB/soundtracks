@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise Again | 248885 | [248885-rise-again.json](./248885-rise-again.json) |
 | Rise Of Anupet | 309644 | [309644-rise-of-anupet.json](./309644-rise-of-anupet.json) |
 | Rise of Cyber | 237628 | [237628-rise-of-cyber.json](./237628-rise-of-cyber.json) |
+| Rise of Empire: King's Landing | 100853 | [100853-rise-of-empire-kings-landing.json](./100853-rise-of-empire-kings-landing.json) |
 | Rise of Flight: Furious Wings | 156173 | [156173-rise-of-flight-furious-wings.json](./156173-rise-of-flight-furious-wings.json) |
 | Rise of Industry: 2130 | 154521 | [154521-rise-of-industry-2130.json](./154521-rise-of-industry-2130.json) |
 | Rise of Kenshin | 310731 | [310731-rise-of-kenshin.json](./310731-rise-of-kenshin.json) |
