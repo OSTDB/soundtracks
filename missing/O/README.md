@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obey the Law | 163983 | [163983-obey-the-law.json](./163983-obey-the-law.json) |
 | Oblitus Mortis | 336918 | [336918-oblitus-mortis.json](./336918-oblitus-mortis.json) |
 | Oblivion Congee | 183579 | [183579-oblivion-congee.json](./183579-oblivion-congee.json) |
+| Obscure Doubt | 117068 | [117068-obscure-doubt.json](./117068-obscure-doubt.json) |
 | Observer: System Redux - Deluxe Edition | 154532 | [154532-observer-system-redux-deluxe-edition.json](./154532-observer-system-redux-deluxe-edition.json) |
 | Obsidienne | 185120 | [185120-obsidienne.json](./185120-obsidienne.json) |
 | Obversion | 120388 | [120388-obversion.json](./120388-obversion.json) |
@@ -438,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overrun Survivors | 231617 | [231617-overrun-survivors.json](./231617-overrun-survivors.json) |
 | Overrun: Zombie Base Defense | 208024 | [208024-overrun-zombie-base-defense.json](./208024-overrun-zombie-base-defense.json) |
 | Overshift | 196856 | [196856-overshift.json](./196856-overshift.json) |
+| OverTheCloud_Global | 117100 | [117100-overthecloud-global.json](./117100-overthecloud-global.json) |
 | Overtime | 136483 | [136483-overtime.json](./136483-overtime.json) |
 | Overtime | 272006 | [272006-overtime.json](./272006-overtime.json) |
 | Overtime Anomaly | 330533 | [330533-overtime-anomaly.json](./330533-overtime-anomaly.json) |
