@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Swiper | 319956 | [319956-color-swiper.json](./319956-color-swiper.json) |
 | Color Teaser | 261527 | [261527-color-teaser.json](./261527-color-teaser.json) |
 | Colorful Critter | 218144 | [218144-colorful-critter.json](./218144-colorful-critter.json) |
+| Colorful3D II | 131623 | [131623-colorful3d-ii.json](./131623-colorful3d-ii.json) |
 | Colorim | 261525 | [261525-colorim.json](./261525-colorim.json) |
 | Coloring Animal Zoo Touch to Color Activity Coloring Book for Kids and Family Preschool Ultimate Edition | 232167 | [232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json](./232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json) |
 | Coloring Game: Girls | 255329 | [255329-coloring-game-girls.json](./255329-coloring-game-girls.json) |
@@ -1121,6 +1122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cy: Cyberpunk Survivors | 248908 | [248908-cy-cyberpunk-survivors.json](./248908-cy-cyberpunk-survivors.json) |
 | Cyanide & Happiness: Freakpocalypse - Episode 1 | 147983 | [147983-cyanide-and-happiness-freakpocalypse-episode-1.json](./147983-cyanide-and-happiness-freakpocalypse-episode-1.json) |
 | Cyber Attack | 157205 | [157205-cyber-attack.json](./157205-cyber-attack.json) |
+| Cyber Battle 69 | 131608 | [131608-cyber-battle-69.json](./131608-cyber-battle-69.json) |
 | Cyber Strike | 194001 | [194001-cyber-strike.json](./194001-cyber-strike.json) |
 | Cyber Theater | 218153 | [218153-cyber-theater.json](./218153-cyber-theater.json) |
 | Cyber Tower | 267098 | [267098-cyber-tower.json](./267098-cyber-tower.json) |
