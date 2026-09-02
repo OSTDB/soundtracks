@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse | 172192 | [172192-eclipse.json](./172192-eclipse.json) |
 | Eclipse | 218163 | [218163-eclipse.json](./218163-eclipse.json) |
 | Eco Mahjong | 177049 | [177049-eco-mahjong.json](./177049-eco-mahjong.json) |
+| eCrew Development Program | 141196 | [141196-ecrew-development-program.json](./141196-ecrew-development-program.json) |
 | Ecto | 298341 | [298341-ecto.json](./298341-ecto.json) |
 | Ecto Portal | 163951 | [163951-ecto-portal.json](./163951-ecto-portal.json) |
 | Eddie's World | 250037 | [250037-eddies-world.json](./250037-eddies-world.json) |
@@ -234,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EnigmOn | 174328 | [174328-enigmon.json](./174328-enigmon.json) |
 | Enpitsu de Oku no Hosomichi DS | 269830 | [269830-enpitsu-de-oku-no-hosomichi-ds.json](./269830-enpitsu-de-oku-no-hosomichi-ds.json) |
 | Enraged | 189159 | [189159-enraged.json](./189159-enraged.json) |
+| Ensou | 141212 | [141212-ensou.json](./141212-ensou.json) |
 | Enter the Backrooms | 157710 | [157710-enter-the-backrooms.json](./157710-enter-the-backrooms.json) |
 | Enter the Skinja | 183082 | [183082-enter-the-skinja.json](./183082-enter-the-skinja.json) |
 | Enter/Exit the Gungeon | 228735 | [228735-enter-exit-the-gungeon.json](./228735-enter-exit-the-gungeon.json) |
