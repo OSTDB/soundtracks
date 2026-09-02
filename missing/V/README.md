@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Urban Champion | 169998 | [169998-vs-urban-champion.json](./169998-vs-urban-champion.json) |
 | Vs. Vemny & Friends | 302648 | [302648-vs-vemny-and-friends.json](./302648-vs-vemny-and-friends.json) |
 | VTOL VR: AH-94 Attack Helicopter | 319396 | [319396-vtol-vr-ah-94-attack-helicopter.json](./319396-vtol-vr-ah-94-attack-helicopter.json) |
+| Vulcan 3055 | 110331 | [110331-vulcan-3055.json](./110331-vulcan-3055.json) |
 | Vyanka's Memories | 307943 | [307943-vyankas-memories.json](./307943-vyankas-memories.json) |
 | Vythzkel of City Dinasty | 338557 | [338557-vythzkel-of-city-dinasty.json](./338557-vythzkel-of-city-dinasty.json) |
 | VZfit Play | 125428 | [125428-vzfit-play.json](./125428-vzfit-play.json) |
