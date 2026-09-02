@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defying Fate | 205233 | [205233-defying-fate.json](./205233-defying-fate.json) |
 | Defying Heaven's Will | 183050 | [183050-defying-heavens-will.json](./183050-defying-heavens-will.json) |
 | Degenerate Souls | 159848 | [159848-degenerate-souls.json](./159848-degenerate-souls.json) |
+| Degeneration | 107891 | [107891-degeneration.json](./107891-degeneration.json) |
 | Deities Flush | 324113 | [324113-deities-flush.json](./324113-deities-flush.json) |
 | Déjà Vu I | 310192 | [310192-deja-vu-i.json](./310192-deja-vu-i.json) |
 | Déjà Vu II | 310193 | [310193-deja-vu-ii.json](./310193-deja-vu-ii.json) |
@@ -687,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolls: The Hunt | 310205 | [310205-dolls-the-hunt.json](./310205-dolls-the-hunt.json) |
 | Dolmenjord | 217519 | [217519-dolmenjord.json](./217519-dolmenjord.json) |
 | Dolphin Hustle | 200172 | [200172-dolphin-hustle.json](./200172-dolphin-hustle.json) |
+| DomiCard | 107904 | [107904-domicard.json](./107904-domicard.json) |
 | Dominance | 116371 | [116371-dominance.json](./116371-dominance.json) |
 | Dominate: Board Game | 147971 | [147971-dominate-board-game.json](./147971-dominate-board-game.json) |
 | Dominating the Skies | 162412 | [162412-dominating-the-skies.json](./162412-dominating-the-skies.json) |
@@ -710,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Hate My Music Taste | 167818 | [167818-dont-hate-my-music-taste.json](./167818-dont-hate-my-music-taste.json) |
 | Don't Hide | 215907 | [215907-dont-hide.json](./215907-dont-hide.json) |
 | Don't Look | 177547 | [177547-dont-look.json](./177547-dont-look.json) |
+| Don't Look Down | 107877 | [107877-dont-look-down.json](./107877-dont-look-down.json) |
 | Don't Look! | 168387 | [168387-dont-look.json](./168387-dont-look.json) |
 | Don't Shoot the Puppy | 136454 | [136454-dont-shoot-the-puppy.json](./136454-dont-shoot-the-puppy.json) |
 | Don't Touch the Red Bubble | 174330 | [174330-dont-touch-the-red-bubble.json](./174330-dont-touch-the-red-bubble.json) |
@@ -866,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drain Runner | 210885 | [210885-drain-runner.json](./210885-drain-runner.json) |
 | Drak | 168390 | [168390-drak.json](./168390-drak.json) |
 | Drake | 134654 | [134654-drake.json](./134654-drake.json) |
+| Drakkar Crew | 107886 | [107886-drakkar-crew.json](./107886-drakkar-crew.json) |
 | Dramaqueen | 158230 | [158230-dramaqueen.json](./158230-dramaqueen.json) |
 | Draw and Lie | 147973 | [147973-draw-and-lie.json](./147973-draw-and-lie.json) |
 | Draw Mania | 200155 | [200155-draw-mania.json](./200155-draw-mania.json) |
