@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Dawn | 139433 | [139433-battle-dawn.json](./139433-battle-dawn.json) |
 | Battle Dungeon: Risen | 175438 | [175438-battle-dungeon-risen.json](./175438-battle-dungeon-risen.json) |
 | Battle Fishing Masters | 190198 | [190198-battle-fishing-masters.json](./190198-battle-fishing-masters.json) |
+| Battle for the Mountain Throne | 98456 | [98456-battle-for-the-mountain-throne.json](./98456-battle-for-the-mountain-throne.json) |
 | Battle for the Void | 248901 | [248901-battle-for-the-void.json](./248901-battle-for-the-void.json) |
 | Battle Gem Ponies | 183573 | [183573-battle-gem-ponies.json](./183573-battle-gem-ponies.json) |
 | Battle Grounds III | 117066 | [117066-battle-grounds-iii.json](./117066-battle-grounds-iii.json) |
@@ -447,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Besotted | 297805 | [297805-besotted.json](./297805-besotted.json) |
 | Bestiary Bundle | 199625 | [199625-bestiary-bundle.json](./199625-bestiary-bundle.json) |
 | Bestiary Survivors | 290713 | [290713-bestiary-survivors.json](./290713-bestiary-survivors.json) |
+| Bestie Walzer | 98435 | [98435-bestie-walzer.json](./98435-bestie-walzer.json) |
 | Betaman 2000: Special Edition | 330521 | [330521-betaman-2000-special-edition.json](./330521-betaman-2000-special-edition.json) |
 | Betrayed Alliance: Book 2 | 239894 | [239894-betrayed-alliance-book-2.json](./239894-betrayed-alliance-book-2.json) |
 | Betrayer: Curse of the Spine | 168381 | [168381-betrayer-curse-of-the-spine.json](./168381-betrayer-curse-of-the-spine.json) |
