@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Library | 333951 | [333951-little-library.json](./333951-little-library.json) |
 | Little Lives | 149097 | [149097-little-lives.json](./149097-little-lives.json) |
 | Little Lookouts | 300385 | [300385-little-lookouts.json](./300385-little-lookouts.json) |
+| Little Mage | 116355 | [116355-little-mage.json](./116355-little-mage.json) |
 | Little Magic | 267646 | [267646-little-magic.json](./267646-little-magic.json) |
 | Little Mouse's Encyclopedia + Brawl Chess | 199638 | [199638-little-mouses-encyclopedia-brawl-chess.json](./199638-little-mouses-encyclopedia-brawl-chess.json) |
 | Little Mouse's Encyclopedia + Under Leaves | 188099 | [188099-little-mouses-encyclopedia-under-leaves.json](./188099-little-mouses-encyclopedia-under-leaves.json) |
