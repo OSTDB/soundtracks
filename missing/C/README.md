@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Cops | 247218 | [247218-car-cops.json](./247218-car-cops.json) |
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
 | Car Mechanic Pinball | 219301 | [219301-car-mechanic-pinball.json](./219301-car-mechanic-pinball.json) |
+| Car on a Stick | 123623 | [123623-car-on-a-stick.json](./123623-car-on-a-stick.json) |
 | Car Physics Simulator: Trucks + Missions DLC | 155107 | [155107-car-physics-simulator-trucks-missions-dlc.json](./155107-car-physics-simulator-trucks-missions-dlc.json) |
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
 | Car Wash | 323503 | [323503-car-wash.json](./323503-car-wash.json) |
@@ -804,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Continuum 01 | 265417 | [265417-continuum-01.json](./265417-continuum-01.json) |
 | Contract Marriage | 303264 | [303264-contract-marriage.json](./303264-contract-marriage.json) |
 | Contractor | 235980 | [235980-contractor.json](./235980-contractor.json) |
+| Contractors | 123603 | [123603-contractors.json](./123603-contractors.json) |
 | Contraption Maker: Battling Cards - Parts & Puzzles Expansion Pack | 163427 | [163427-contraption-maker-battling-cards-parts-and-puzzles-expansion-pack.json](./163427-contraption-maker-battling-cards-parts-and-puzzles-expansion-pack.json) |
 | Contraption Maker: Mighty Knights Parts & Puzzles Pack | 263215 | [263215-contraption-maker-mighty-knights-parts-and-puzzles-pack.json](./263215-contraption-maker-mighty-knights-parts-and-puzzles-pack.json) |
 | Contrition | 179748 | [179748-contrition.json](./179748-contrition.json) |
@@ -1186,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyclic | 232660 | [232660-cyclic.json](./232660-cyclic.json) |
 | Cyclo Chambers | 218704 | [218704-cyclo-chambers.json](./218704-cyclo-chambers.json) |
 | CycloHex | 192977 | [192977-cyclohex.json](./192977-cyclohex.json) |
+| Cylor vs. the Bullets From Hell | 123612 | [123612-cylor-vs-the-bullets-from-hell.json](./123612-cylor-vs-the-bullets-from-hell.json) |
 | Cymut x Mutrobo: The Last Cymut | 292326 | [292326-cymut-x-mutrobo-the-last-cymut.json](./292326-cymut-x-mutrobo-the-last-cymut.json) |
 | Cynoroid Gaiden | 150167 | [150167-cynoroid-gaiden.json](./150167-cynoroid-gaiden.json) |
 | Cytoplasm Madness | 180839 | [180839-cytoplasm-madness.json](./180839-cytoplasm-madness.json) |
