@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck of Souls | 252356 | [252356-deck-of-souls.json](./252356-deck-of-souls.json) |
 | Deck Remover | 295535 | [295535-deck-remover.json](./295535-deck-remover.json) |
 | DeckMake Fantasy | 208015 | [208015-deckmake-fantasy.json](./208015-deckmake-fantasy.json) |
+| Decks & Dungeons | 149574 | [149574-decks-and-dungeons.json](./149574-decks-and-dungeons.json) |
 | Decurse: A New Magic Farming Game | 254159 | [254159-decurse-a-new-magic-farming-game.json](./254159-decurse-a-new-magic-farming-game.json) |
 | Deep Alchemy Dungeon | 207500 | [207500-deep-alchemy-dungeon.json](./207500-deep-alchemy-dungeon.json) |
 | Deep Blue Fantasy | 253612 | [253612-deep-blue-fantasy.json](./253612-deep-blue-fantasy.json) |
@@ -526,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Doctor In A Dash | 249464 | [249464-doctor-who-doctor-in-a-dash.json](./249464-doctor-who-doctor-in-a-dash.json) |
 | Doctor Who: Thirteen | 240494 | [240494-doctor-who-thirteen.json](./240494-doctor-who-thirteen.json) |
 | Dodge | 177542 | [177542-dodge.json](./177542-dodge.json) |
+| Dodge Dancer | 149577 | [149577-dodge-dancer.json](./149577-dodge-dancer.json) |
 | Dodge Racing: Charger vs Challenger | 197942 | [197942-dodge-racing-charger-vs-challenger.json](./197942-dodge-racing-charger-vs-challenger.json) |
 | DoDodge2020 | 209674 | [209674-dododge2020.json](./209674-dododge2020.json) |
 | DoDonPachi DaiOuJou DX | 214719 | [214719-dodonpachi-daioujou-dx.json](./214719-dodonpachi-daioujou-dx.json) |
