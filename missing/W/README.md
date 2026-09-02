@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu | 338556 | [338556-waifu.json](./338556-waifu.json) |
 | Waifu Aim Trainer | 338555 | [338555-waifu-aim-trainer.json](./338555-waifu-aim-trainer.json) |
 | Waifu Bay Girls | 110364 | [110364-waifu-bay-girls.json](./110364-waifu-bay-girls.json) |
+| Waifu Bay Resort | 105363 | [105363-waifu-bay-resort.json](./105363-waifu-bay-resort.json) |
 | Waifu Builder | 331698 | [331698-waifu-builder.json](./331698-waifu-builder.json) |
 | Waifu Closet | 331097 | [331097-waifu-closet.json](./331097-waifu-closet.json) |
 | Waifu Collector | 171615 | [171615-waifu-collector.json](./171615-waifu-collector.json) |
@@ -157,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waves of Death VR | 132229 | [132229-waves-of-death-vr.json](./132229-waves-of-death-vr.json) |
 | Way Down | 187511 | [187511-way-down.json](./187511-way-down.json) |
 | Way to Yaatra | 140604 | [140604-way-to-yaatra.json](./140604-way-to-yaatra.json) |
+| WAyE | 105378 | [105378-waye.json](./105378-waye.json) |
 | Wayfarer | 310721 | [310721-wayfarer.json](./310721-wayfarer.json) |
 | Ways | 323521 | [323521-ways.json](./323521-ways.json) |
 | Waystones | 341864 | [341864-waystones.json](./341864-waystones.json) |
@@ -295,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicket Cricket Manager | 243977 | [243977-wicket-cricket-manager.json](./243977-wicket-cricket-manager.json) |
 | Wickie und die starken Männer: Die Mutprobe | 250603 | [250603-wickie-und-die-starken-manner-die-mutprobe.json](./250603-wickie-und-die-starken-manner-die-mutprobe.json) |
 | Wide Open | 173284 | [173284-wide-open.json](./173284-wide-open.json) |
+| Widget Satchel | 105353 | [105353-widget-satchel.json](./105353-widget-satchel.json) |
 | Widow in the Endless Labyrinth | 267104 | [267104-widow-in-the-endless-labyrinth.json](./267104-widow-in-the-endless-labyrinth.json) |
 | Wieldo | 214155 | [214155-wieldo.json](./214155-wieldo.json) |
 | Wienne | 127373 | [127373-wienne.json](./127373-wienne.json) |
@@ -355,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wire | 195755 | [195755-wire.json](./195755-wire.json) |
 | Wire Flying Maid | 129236 | [129236-wire-flying-maid.json](./129236-wire-flying-maid.json) |
 | Wireball | 121721 | [121721-wireball.json](./121721-wireball.json) |
+| Wired | 105334 | [105334-wired.json](./105334-wired.json) |
 | Wish Stone: Nonogram | 312363 | [312363-wish-stone-nonogram.json](./312363-wish-stone-nonogram.json) |
 | Wishes In Pen: Chrysanthemums in August - Otome Visual Novel | 107892 | [107892-wishes-in-pen-chrysanthemums-in-august-otome-visual-novel.json](./107892-wishes-in-pen-chrysanthemums-in-august-otome-visual-novel.json) |
 | Witch & Cats | 258177 | [258177-witch-and-cats.json](./258177-witch-and-cats.json) |
