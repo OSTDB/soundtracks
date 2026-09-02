@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Man: Marble Madness II | 125477 | [125477-marble-man-marble-madness-ii.json](./125477-marble-man-marble-madness-ii.json) |
 | Marble Meadows | 291222 | [291222-marble-meadows.json](./291222-marble-meadows.json) |
 | Marble Monster | 253025 | [253025-marble-monster.json](./253025-marble-monster.json) |
+| Marble Partner | 119756 | [119756-marble-partner.json](./119756-marble-partner.json) |
 | Mare Nostrvm | 137077 | [137077-mare-nostrvm.json](./137077-mare-nostrvm.json) |
 | Margonem Adventures | 237638 | [237638-margonem-adventures.json](./237638-margonem-adventures.json) |
 | Mariam Game | 235484 | [235484-mariam-game.json](./235484-mariam-game.json) |
@@ -1058,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouja | 197958 | [197958-mouja.json](./197958-mouja.json) |
 | Mount Everest Story | 174331 | [174331-mount-everest-story.json](./174331-mount-everest-story.json) |
 | Mountain Legends 3 | 291254 | [291254-mountain-legends-3.json](./291254-mountain-legends-3.json) |
+| Mountain Taxi Driver | 119745 | [119745-mountain-taxi-driver.json](./119745-mountain-taxi-driver.json) |
 | Mouse Dream | 166772 | [166772-mouse-dream.json](./166772-mouse-dream.json) |
 | Mouse Hero | 157716 | [157716-mouse-hero.json](./157716-mouse-hero.json) |
 | Mouse Work | 339137 | [339137-mouse-work.json](./339137-mouse-work.json) |
