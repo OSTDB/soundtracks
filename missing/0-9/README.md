@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Royal Cards | 190740 | [190740-2048-royal-cards.json](./190740-2048-royal-cards.json) |
 | 209 | 316432 | [316432-209.json](./316432-209.json) |
 | 20th Century Trivia Challenge | 205826 | [205826-20th-century-trivia-challenge.json](./205826-20th-century-trivia-challenge.json) |
+| 2112TD: Tower Defense Survival | 135256 | [135256-2112td-tower-defense-survival.json](./135256-2112td-tower-defense-survival.json) |
 | 2184 | 316433 | [316433-2184.json](./316433-2184.json) |
 | 25th Anniversary Super Mario Bros. | 202413 | [202413-25th-anniversary-super-mario-bros.json](./202413-25th-anniversary-super-mario-bros.json) |
 | 25th Century Duke | 273131 | [273131-25th-century-duke.json](./273131-25th-century-duke.json) |
