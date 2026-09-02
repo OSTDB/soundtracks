@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Ultraman (Hero Ichizoku) | 329359 | [329359-barcode-battler-ii-shogaku-ninensei-special-barcode-card-ultraman-hero-ichizoku.json](./329359-barcode-battler-ii-shogaku-ninensei-special-barcode-card-ultraman-hero-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Yossy (Game Ichizoku) | 329348 | [329348-barcode-battler-ii-shogaku-ninensei-special-barcode-card-yossy-game-ichizoku.json](./329348-barcode-battler-ii-shogaku-ninensei-special-barcode-card-yossy-game-ichizoku.json) |
 | Barcode Knight | 173808 | [173808-barcode-knight.json](./173808-barcode-knight.json) |
+| Bardarts | 141222 | [141222-bardarts.json](./141222-bardarts.json) |
 | Barezu ni Ikiru! | 212465 | [212465-barezu-ni-ikiru.json](./212465-barezu-ni-ikiru.json) |
 | Bargain Platfomer | 220352 | [220352-bargain-platfomer.json](./220352-bargain-platfomer.json) |
 | Bargain Wargame | 273668 | [273668-bargain-wargame.json](./273668-bargain-wargame.json) |
