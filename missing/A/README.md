@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemist's Mountain | 173292 | [173292-alchemists-mountain.json](./173292-alchemists-mountain.json) |
 | Alchemy Dungeon | 250656 | [250656-alchemy-dungeon.json](./250656-alchemy-dungeon.json) |
 | Alchemy of Love | 214160 | [214160-alchemy-of-love.json](./214160-alchemy-of-love.json) |
+| Alchemy Quest | 135904 | [135904-alchemy-quest.json](./135904-alchemy-quest.json) |
 | Alcohol Empire | 199097 | [199097-alcohol-empire.json](./199097-alcohol-empire.json) |
 | Aldoria | 322382 | [322382-aldoria.json](./322382-aldoria.json) |
 | Aldriak: The Advent of a New World | 149569 | [149569-aldriak-the-advent-of-a-new-world.json](./149569-aldriak-the-advent-of-a-new-world.json) |
@@ -841,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the Fire | 157166 | [157166-around-the-fire.json](./157166-around-the-fire.json) |
 | Around the World: Travel to Brazil | 269287 | [269287-around-the-world-travel-to-brazil.json](./269287-around-the-world-travel-to-brazil.json) |
 | Arrival, or Attack of the B-Movie Clichés | 314038 | [314038-arrival-or-attack-of-the-b-movie-cliches.json](./314038-arrival-or-attack-of-the-b-movie-cliches.json) |
+| Arrow Snake | 135874 | [135874-arrow-snake.json](./135874-arrow-snake.json) |
 | ArsDoom | 180260 | [180260-arsdoom.json](./180260-arsdoom.json) |
 | Arsenal | 188635 | [188635-arsenal.json](./188635-arsenal.json) |
 | Arson | 223660 | [223660-arson.json](./223660-arson.json) |
@@ -1056,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Asteroids | 239291 | [239291-awesome-asteroids.json](./239291-awesome-asteroids.json) |
 | Awesome Tanks | 313503 | [313503-awesome-tanks.json](./313503-awesome-tanks.json) |
 | Awesome Tanks 2 | 313506 | [313506-awesome-tanks-2.json](./313506-awesome-tanks-2.json) |
+| Awexome Cross | 135869 | [135869-awexome-cross.json](./135869-awexome-cross.json) |
 | Awful Kidnapper | 300410 | [300410-awful-kidnapper.json](./300410-awful-kidnapper.json) |
 | Axe Over It | 144296 | [144296-axe-over-it.json](./144296-axe-over-it.json) |
 | Axiom | 234347 | [234347-axiom.json](./234347-axiom.json) |
