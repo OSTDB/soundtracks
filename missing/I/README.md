@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inline: Out of Time | 290706 | [290706-inline-out-of-time.json](./290706-inline-out-of-time.json) |
 | Inn Hand | 325865 | [325865-inn-hand.json](./325865-inn-hand.json) |
 | Inn The Dark | 255985 | [255985-inn-the-dark.json](./255985-inn-the-dark.json) |
+| Innchanted | 138239 | [138239-innchanted.json](./138239-innchanted.json) |
 | Inner Ashes | 217007 | [217007-inner-ashes.json](./217007-inner-ashes.json) |
 | Innocence or Money: Season 2 - Episode 1 | 340754 | [340754-innocence-or-money-season-2-episode-1.json](./340754-innocence-or-money-season-2-episode-1.json) |
 | Innocent Critters | 238723 | [238723-innocent-critters.json](./238723-innocent-critters.json) |
@@ -312,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Timeverse | 172180 | [172180-into-the-timeverse.json](./172180-into-the-timeverse.json) |
 | Intrana | 310207 | [310207-intrana.json](./310207-intrana.json) |
 | Intruder | 313504 | [313504-intruder.json](./313504-intruder.json) |
+| Intruder -Sakura Yashiki no Tansaku- | 138224 | [138224-intruder-sakura-yashiki-no-tansaku.json](./138224-intruder-sakura-yashiki-no-tansaku.json) |
 | Intruder on the Bridge | 173839 | [173839-intruder-on-the-bridge.json](./173839-intruder-on-the-bridge.json) |
 | Intrusion of Alice | 223175 | [223175-intrusion-of-alice.json](./223175-intrusion-of-alice.json) |
 | Invaders | 271990 | [271990-invaders.json](./271990-invaders.json) |
