@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Informe Zenteno | 322947 | [322947-informe-zenteno.json](./322947-informe-zenteno.json) |
 | Infra: Underground | 255360 | [255360-infra-underground.json](./255360-infra-underground.json) |
 | Inglorious Waifu VS Nazi Zombies | 156163 | [156163-inglorious-waifu-vs-nazi-zombies.json](./156163-inglorious-waifu-vs-nazi-zombies.json) |
+| Initial Drift Online | 148573 | [148573-initial-drift-online.json](./148573-initial-drift-online.json) |
 | Initium Legenda | 192972 | [192972-initium-legenda.json](./192972-initium-legenda.json) |
 | Injustice 2: Black Manta | 165041 | [165041-injustice-2-black-manta.json](./165041-injustice-2-black-manta.json) |
 | Injustice 2: Brainiac | 165042 | [165042-injustice-2-brainiac.json](./165042-injustice-2-brainiac.json) |
@@ -358,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islanders: New Shores | 333961 | [333961-islanders-new-shores.json](./333961-islanders-new-shores.json) |
 | Isle of Arrows | 197945 | [197945-isle-of-arrows.json](./197945-isle-of-arrows.json) |
 | Isles of Silence | 309684 | [309684-isles-of-silence.json](./309684-isles-of-silence.json) |
+| Isolationist Nightclub Simulator | 148523 | [148523-isolationist-nightclub-simulator.json](./148523-isolationist-nightclub-simulator.json) |
 | Isonzo: Expedition Units | 303277 | [303277-isonzo-expedition-units.json](./303277-isonzo-expedition-units.json) |
 | IsoWords | 254170 | [254170-isowords.json](./254170-isowords.json) |
 | ISS Simulator | 326411 | [326411-iss-simulator.json](./326411-iss-simulator.json) |
