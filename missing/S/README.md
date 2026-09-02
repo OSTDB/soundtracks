@@ -1258,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere Arena | 166762 | [166762-sphere-arena.json](./166762-sphere-arena.json) |
 | Sphere: Flying Cities - Save the World Edition | 186905 | [186905-sphere-flying-cities-save-the-world-edition.json](./186905-sphere-flying-cities-save-the-world-edition.json) |
 | Spider Bounce | 263745 | [263745-spider-bounce.json](./263745-spider-bounce.json) |
+| Spider Shooting Bee | 119793 | [119793-spider-shooting-bee.json](./119793-spider-shooting-bee.json) |
 | Spider-Guy: Trapped in the Cheese Place | 291773 | [291773-spider-guy-trapped-in-the-cheese-place.json](./291773-spider-guy-trapped-in-the-cheese-place.json) |
 | Spider-Man / X-Men: Arcade's Redux | 219274 | [219274-spider-man-x-men-arcades-redux.json](./219274-spider-man-x-men-arcades-redux.json) |
 | Spider-Man 3 | 218140 | [218140-spider-man-3.json](./218140-spider-man-3.json) |
@@ -1654,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudocats | 193466 | [193466-sudocats.json](./193466-sudocats.json) |
 | Sudoku | 337482 | [337482-sudoku.json](./337482-sudoku.json) |
 | Sudoku 4 Kids | 245580 | [245580-sudoku-4-kids.json](./245580-sudoku-4-kids.json) |
+| Sudoku 9X16X25 | 119771 | [119771-sudoku-9x16x25.json](./119771-sudoku-9x16x25.json) |
 | Sudoku Casual Puzzle | 219280 | [219280-sudoku-casual-puzzle.json](./219280-sudoku-casual-puzzle.json) |
 | Sudoku Constellation | 292281 | [292281-sudoku-constellation.json](./292281-sudoku-constellation.json) |
 | Sudoku Master | 147968 | [147968-sudoku-master.json](./147968-sudoku-master.json) |
