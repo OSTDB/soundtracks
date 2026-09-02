@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailor's Stories Solitaire | 196881 | [196881-sailors-stories-solitaire.json](./196881-sailors-stories-solitaire.json) |
 | Saint Kotar: Digital Deluxe Edition | 246621 | [246621-saint-kotar-digital-deluxe-edition.json](./246621-saint-kotar-digital-deluxe-edition.json) |
 | Saint Seiya: Legends of Justice | 209634 | [209634-saint-seiya-legends-of-justice.json](./209634-saint-seiya-legends-of-justice.json) |
+| Sainth | 126003 | [126003-sainth.json](./126003-sainth.json) |
 | Saints Row: The Heist & The Hazardous | 249476 | [249476-saints-row-the-heist-and-the-hazardous.json](./249476-saints-row-the-heist-and-the-hazardous.json) |
 | Sáivu | 293889 | [293889-saivu.json](./293889-saivu.json) |
 | Sáivu | 293893 | [293893-saivu.json](./293893-saivu.json) |
@@ -65,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvador | 241645 | [241645-salvador.json](./241645-salvador.json) |
 | Salvagers | 329398 | [329398-salvagers.json](./329398-salvagers.json) |
 | Samael: The Legacy of Ophiuchus | 218718 | [218718-samael-the-legacy-of-ophiuchus.json](./218718-samael-the-legacy-of-ophiuchus.json) |
+| Samidare | 126040 | [126040-samidare.json](./126040-samidare.json) |
 | Samozbor ID:Heaven | 129231 | [129231-samozbor-id-heaven.json](./129231-samozbor-id-heaven.json) |
 | Samsara | 192957 | [192957-samsara.json](./192957-samsara.json) |
 | Samsara | 249503 | [249503-samsara.json](./249503-samsara.json) |
@@ -290,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sei Shoujo Sentai Lakers III | 264324 | [264324-sei-shoujo-sentai-lakers-iii.json](./264324-sei-shoujo-sentai-lakers-iii.json) |
 | Seimbein | 135877 | [135877-seimbein.json](./135877-seimbein.json) |
 | Seireiki Rayblade | 311290 | [311290-seireiki-rayblade.json](./311290-seireiki-rayblade.json) |
+| Seisai | 125997 | [125997-seisai.json](./125997-seisai.json) |
 | Seishin Hakai | 260976 | [260976-seishin-hakai.json](./260976-seishin-hakai.json) |
 | Seka II | 292323 | [292323-seka-ii.json](./292323-seka-ii.json) |
 | Sekai to Sekai no Mannaka de | 187532 | [187532-sekai-to-sekai-no-mannaka-de.json](./187532-sekai-to-sekai-no-mannaka-de.json) |
@@ -493,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shitataru Nikki | 257085 | [257085-shitataru-nikki.json](./257085-shitataru-nikki.json) |
 | Shleep | 340225 | [340225-shleep.json](./340225-shleep.json) |
 | Shmucker Casino 2: Purple Boog's Revenge | 270371 | [270371-shmucker-casino-2-purple-boogs-revenge.json](./270371-shmucker-casino-2-purple-boogs-revenge.json) |
+| Shogi Nyuumon | 126014 | [126014-shogi-nyuumon.json](./126014-shogi-nyuumon.json) |
 | Shogi Wars | 312359 | [312359-shogi-wars.json](./312359-shogi-wars.json) |
 | Shohei's Adult Streaming Channel | 161357 | [161357-shoheis-adult-streaming-channel.json](./161357-shoheis-adult-streaming-channel.json) |
 | Shoku Iku Series 1: Soreike! Anpanman: Sukikirai Nai Ko Genki na Ko! | 327607 | [327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json](./327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json) |
@@ -1093,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soultia | 130939 | [130939-soultia.json](./130939-soultia.json) |
 | SoulWorker: Anime Legends | 200736 | [200736-soulworker-anime-legends.json](./200736-soulworker-anime-legends.json) |
 | Sound Horizons | 304882 | [304882-sound-horizons.json](./304882-sound-horizons.json) |
+| Sound Voltex: Vivid Wave | 126031 | [126031-sound-voltex-vivid-wave.json](./126031-sound-voltex-vivid-wave.json) |
 | Soundsaber | 184660 | [184660-soundsaber.json](./184660-soundsaber.json) |
 | Soupsoup | 265948 | [265948-soupsoup.json](./265948-soupsoup.json) |
 | Source Code | 340199 | [340199-source-code.json](./340199-source-code.json) |
@@ -1555,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Outlaws 2: Winner Takes All - Digital Deluxe Edition | 173797 | [173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json](./173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json) |
 | Street Shuffle | 134659 | [134659-street-shuffle.json](./134659-street-shuffle.json) |
 | Streets of Gotham City | 272015 | [272015-streets-of-gotham-city.json](./272015-streets-of-gotham-city.json) |
+| Streets of Red: Devil's Dare | 126045 | [126045-streets-of-red-devils-dare.json](./126045-streets-of-red-devils-dare.json) |
 | Stress Test | 200168 | [200168-stress-test.json](./200168-stress-test.json) |
 | Stress, Out! | 258716 | [258716-stress-out.json](./258716-stress-out.json) |
 | Stretch Guy | 315844 | [315844-stretch-guy.json](./315844-stretch-guy.json) |
