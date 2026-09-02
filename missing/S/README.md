@@ -982,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Passage | 236542 | [236542-soul-passage.json](./236542-soul-passage.json) |
 | Soul Recursion | 172183 | [172183-soul-recursion.json](./172183-soul-recursion.json) |
 | Soul Rush | 340200 | [340200-soul-rush.json](./340200-soul-rush.json) |
+| Soul Slayers | 145650 | [145650-soul-slayers.json](./145650-soul-slayers.json) |
 | Soul Symphony | 196878 | [196878-soul-symphony.json](./196878-soul-symphony.json) |
 | Soul's Spectrum: Awakening | 267110 | [267110-souls-spectrum-awakening.json](./267110-souls-spectrum-awakening.json) |
 | SoulBound | 215932 | [215932-soulbound.json](./215932-soulbound.json) |
@@ -1006,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soviet Challenge: Javelin 1980 | 174329 | [174329-soviet-challenge-javelin-1980.json](./174329-soviet-challenge-javelin-1980.json) |
 | SOVL: Reptilian Kingdoms | 296657 | [296657-sovl-reptilian-kingdoms.json](./296657-sovl-reptilian-kingdoms.json) |
 | Sp:In | 242788 | [242788-sp-in.json](./242788-sp-in.json) |
+| Space 2: Breakthrough Gaming Arcade | 145669 | [145669-space-2-breakthrough-gaming-arcade.json](./145669-space-2-breakthrough-gaming-arcade.json) |
 | Space Adventure | 297239 | [297239-space-adventure.json](./297239-space-adventure.json) |
 | Space Agent Mission | 212486 | [212486-space-agent-mission.json](./212486-space-agent-mission.json) |
 | Space Battle: Sea Battle | 264906 | [264906-space-battle-sea-battle.json](./264906-space-battle-sea-battle.json) |
@@ -1231,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Melody: Yumemi Dreamer | 172717 | [172717-star-melody-yumemi-dreamer.json](./172717-star-melody-yumemi-dreamer.json) |
 | Star Melody: Yumemi Dreamer - Chapter 10 | 195782 | [195782-star-melody-yumemi-dreamer-chapter-10.json](./195782-star-melody-yumemi-dreamer-chapter-10.json) |
 | Star Melody: Yumemi Dreamer - Limited Edition | 175977 | [175977-star-melody-yumemi-dreamer-limited-edition.json](./175977-star-melody-yumemi-dreamer-limited-edition.json) |
+| Star of Providence: Relics of the Past | 145647 | [145647-star-of-providence-relics-of-the-past.json](./145647-star-of-providence-relics-of-the-past.json) |
 | Star Renegades: Total Lunarcy | 166215 | [166215-star-renegades-total-lunarcy.json](./166215-star-renegades-total-lunarcy.json) |
 | Star Scandal | 298894 | [298894-star-scandal.json](./298894-star-scandal.json) |
 | Star Sword | 221972 | [221972-star-sword.json](./221972-star-sword.json) |
@@ -1268,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starpiercer | 181360 | [181360-starpiercer.json](./181360-starpiercer.json) |
 | Starpoint Gemini 2 Gold Pack | 308575 | [308575-starpoint-gemini-2-gold-pack.json](./308575-starpoint-gemini-2-gold-pack.json) |
 | StarRaver | 237072 | [237072-starraver.json](./237072-starraver.json) |
+| Starry Flowers | 145644 | [145644-starry-flowers.json](./145644-starry-flowers.json) |
 | Starry Moon Island: Mobile Stronghold MP09 | 190696 | [190696-starry-moon-island-mobile-stronghold-mp09.json](./190696-starry-moon-island-mobile-stronghold-mp09.json) |
 | Starry Sky: After Spring Portable | 201833 | [201833-starry-sky-after-spring-portable.json](./201833-starry-sky-after-spring-portable.json) |
 | Starry Sky: in Spring 3D | 201302 | [201302-starry-sky-in-spring-3d.json](./201302-starry-sky-in-spring-3d.json) |
