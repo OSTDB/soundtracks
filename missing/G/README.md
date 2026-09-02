@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GT New Horizons | 204699 | [204699-gt-new-horizons.json](./204699-gt-new-horizons.json) |
 | GT Ride | 233749 | [233749-gt-ride.json](./233749-gt-ride.json) |
 | GTTOD: Lost in Reflection | 207528 | [207528-gttod-lost-in-reflection.json](./207528-gttod-lost-in-reflection.json) |
+| Guardian Chronicle: Random Defense | 144989 | [144989-guardian-chronicle-random-defense.json](./144989-guardian-chronicle-random-defense.json) |
 | Guardian Force: Saturn Tribute | 173780 | [173780-guardian-force-saturn-tribute.json](./173780-guardian-force-saturn-tribute.json) |
 | Guardian of the Code | 202369 | [202369-guardian-of-the-code.json](./202369-guardian-of-the-code.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
@@ -553,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun & Girls.io | 200754 | [200754-gun-and-girls-io.json](./200754-gun-and-girls-io.json) |
 | Gun Factory Simulator | 326421 | [326421-gun-factory-simulator.json](./326421-gun-factory-simulator.json) |
 | Gun Party | 158227 | [158227-gun-party.json](./158227-gun-party.json) |
+| Gun Raiders | 145040 | [145040-gun-raiders.json](./145040-gun-raiders.json) |
 | Gun Soul Girl 2 | 169455 | [169455-gun-soul-girl-2.json](./169455-gun-soul-girl-2.json) |
 | Gun Sounds: Shooting Master | 227499 | [227499-gun-sounds-shooting-master.json](./227499-gun-sounds-shooting-master.json) |
 | Gun Sprint | 332804 | [332804-gun-sprint.json](./332804-gun-sprint.json) |
