@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hedgehog Launch 2 | 234940 | [234940-hedgehog-launch-2.json](./234940-hedgehog-launch-2.json) |
 | Hedgehot: Battle Strike | 217498 | [217498-hedgehot-battle-strike.json](./217498-hedgehot-battle-strike.json) |
 | Hedon Bloodrite | 183074 | [183074-hedon-bloodrite.json](./183074-hedon-bloodrite.json) |
+| Hedrons | 149095 | [149095-hedrons.json](./149095-hedrons.json) |
 | Hedrox | 274179 | [274179-hedrox.json](./274179-hedrox.json) |
 | Hedrox 2 | 274180 | [274180-hedrox-2.json](./274180-hedrox-2.json) |
 | Heed | 169984 | [169984-heed.json](./169984-heed.json) |
