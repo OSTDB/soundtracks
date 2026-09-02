@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Bash | 339096 | [339096-cartoon-bash.json](./339096-cartoon-bash.json) |
 | Cartoon Cartoon Food Bash | 296099 | [296099-cartoon-cartoon-food-bash.json](./296099-cartoon-cartoon-food-bash.json) |
 | Cartoon Pet Game | 335068 | [335068-cartoon-pet-game.json](./335068-cartoon-pet-game.json) |
+| Carvalho: Los Pájaros de Bangkok | 138790 | [138790-carvalho-los-pajaros-de-bangkok.json](./138790-carvalho-los-pajaros-de-bangkok.json) |
 | Carwarz.io | 219269 | [219269-carwarz-io.json](./219269-carwarz-io.json) |
 | CarX Drift Racing Online: Hit the Wall | 199667 | [199667-carx-drift-racing-online-hit-the-wall.json](./199667-carx-drift-racing-online-hit-the-wall.json) |
 | Casadastra | 185160 | [185160-casadastra.json](./185160-casadastra.json) |
@@ -682,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colossal Cave VR | 253587 | [253587-colossal-cave-vr.json](./253587-colossal-cave-vr.json) |
 | Colossus Down: Destroy'em Up Editon | 150145 | [150145-colossus-down-destroyem-up-editon.json](./150145-colossus-down-destroyem-up-editon.json) |
 | ColourS | 229381 | [229381-colours.json](./229381-colours.json) |
+| Comando Tracer | 138800 | [138800-comando-tracer.json](./138800-comando-tracer.json) |
 | Combat Champions | 244510 | [244510-combat-champions.json](./244510-combat-champions.json) |
 | Combat Jam 1 | 300418 | [300418-combat-jam-1.json](./300418-combat-jam-1.json) |
 | Combined_Arms | 143116 | [143116-combined-arms.json](./143116-combined-arms.json) |
