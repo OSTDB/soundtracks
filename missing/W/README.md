@@ -312,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wintersdawn in the Deep | 183591 | [183591-wintersdawn-in-the-deep.json](./183591-wintersdawn-in-the-deep.json) |
 | Wipeout | 265970 | [265970-wipeout.json](./265970-wipeout.json) |
 | Wire | 195755 | [195755-wire.json](./195755-wire.json) |
+| Wire Flying Maid | 129236 | [129236-wire-flying-maid.json](./129236-wire-flying-maid.json) |
 | Wish Stone: Nonogram | 312363 | [312363-wish-stone-nonogram.json](./312363-wish-stone-nonogram.json) |
 | Witch & Cats | 258177 | [258177-witch-and-cats.json](./258177-witch-and-cats.json) |
 | Witch Epoch | 203528 | [203528-witch-epoch.json](./203528-witch-epoch.json) |
@@ -324,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch: A Special Delivery | 178071 | [178071-witch-a-special-delivery.json](./178071-witch-a-special-delivery.json) |
 | Witch's | 228075 | [228075-witchs.json](./228075-witchs.json) |
 | Witch's Weapon | 196331 | [196331-witchs-weapon.json](./196331-witchs-weapon.json) |
+| Witchblood | 129238 | [129238-witchblood.json](./129238-witchblood.json) |
 | Witchcraft U | 155652 | [155652-witchcraft-u.json](./155652-witchcraft-u.json) |
 | Witches Legacy: Slumbering Darkness & Dark Throne | 201824 | [201824-witches-legacy-slumbering-darkness-and-dark-throne.json](./201824-witches-legacy-slumbering-darkness-and-dark-throne.json) |
 | Witching Tower: Heroes | 132252 | [132252-witching-tower-heroes.json](./132252-witching-tower-heroes.json) |
