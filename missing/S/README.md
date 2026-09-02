@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura Burst Re:Newal - Yumi Character and Campaign | 248311 | [248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json](./248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json) |
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
 | Sensory Deprivation Chamber | 262088 | [262088-sensory-deprivation-chamber.json](./262088-sensory-deprivation-chamber.json) |
+| Sente | 122414 | [122414-sente.json](./122414-sente.json) |
 | Sentience | 143695 | [143695-sentience.json](./143695-sentience.json) |
 | Sentimental Graffiti | 124264 | [124264-sentimental-graffiti.json](./124264-sentimental-graffiti.json) |
 | Sentinel Point Heroes | 226441 | [226441-sentinel-point-heroes.json](./226441-sentinel-point-heroes.json) |
@@ -692,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Jaguar 2 | 138250 | [138250-sky-jaguar-2.json](./138250-sky-jaguar-2.json) |
 | Sky Journey: Cozy Mornings | 290710 | [290710-sky-journey-cozy-mornings.json](./290710-sky-journey-cozy-mornings.json) |
 | Sky Mad | 310184 | [310184-sky-mad.json](./310184-sky-mad.json) |
+| Sky of Tides | 122389 | [122389-sky-of-tides.json](./122389-sky-of-tides.json) |
 | Sky Races | 186909 | [186909-sky-races.json](./186909-sky-races.json) |
 | Sky Squadron | 139477 | [139477-sky-squadron.json](./139477-sky-squadron.json) |
 | Skycity | 274216 | [274216-skycity.json](./274216-skycity.json) |
@@ -816,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake 2 DX: Reawakening | 171624 | [171624-snake-2-dx-reawakening.json](./171624-snake-2-dx-reawakening.json) |
 | Snake Neon Online | 209685 | [209685-snake-neon-online.json](./209685-snake-neon-online.json) |
 | Snake Quest | 261517 | [261517-snake-quest.json](./261517-snake-quest.json) |
+| Snake: The Elder Forest | 122415 | [122415-snake-the-elder-forest.json](./122415-snake-the-elder-forest.json) |
 | Snakebird GB | 324694 | [324694-snakebird-gb.json](./324694-snakebird-gb.json) |
 | SnakeBird NES | 228690 | [228690-snakebird-nes.json](./228690-snakebird-nes.json) |
 | SnakeByte | 193470 | [193470-snakebyte.json](./193470-snakebyte.json) |
@@ -907,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sola Rola: The Gravity Maze | 269855 | [269855-sola-rola-the-gravity-maze.json](./269855-sola-rola-the-gravity-maze.json) |
 | Solar Candy | 180849 | [180849-solar-candy.json](./180849-solar-candy.json) |
 | Solar Conqueror | 170532 | [170532-solar-conqueror.json](./170532-solar-conqueror.json) |
+| Solar Cram School | 122393 | [122393-solar-cram-school.json](./122393-solar-cram-school.json) |
 | Solar Echoes: The Star Legation | 149056 | [149056-solar-echoes-the-star-legation.json](./149056-solar-echoes-the-star-legation.json) |
 | Solar Kingdoms: Human Survival | 295568 | [295568-solar-kingdoms-human-survival.json](./295568-solar-kingdoms-human-survival.json) |
 | Solar Rogue | 133421 | [133421-solar-rogue.json](./133421-solar-rogue.json) |
@@ -1176,6 +1180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Wave | 181912 | [181912-space-wave.json](./181912-space-wave.json) |
 | Space Waves | 189170 | [189170-space-waves.json](./189170-space-waves.json) |
 | Space Worm | 337468 | [337468-space-worm.json](./337468-space-worm.json) |
+| Space Wreck | 122417 | [122417-space-wreck.json](./122417-space-wreck.json) |
 | SpaceBlocc | 193499 | [193499-spaceblocc.json](./193499-spaceblocc.json) |
 | Spacejump | 250598 | [250598-spacejump.json](./250598-spacejump.json) |
 | Spaceland: Cooperative | 170524 | [170524-spaceland-cooperative.json](./170524-spaceland-cooperative.json) |
@@ -1392,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Witch | 190224 | [190224-star-witch.json](./190224-star-witch.json) |
 | Star Word | 318784 | [318784-star-word.json](./318784-star-word.json) |
 | Star: M | 306059 | [306059-star-m.json](./306059-star-m.json) |
+| Starazius | 122423 | [122423-starazius.json](./122423-starazius.json) |
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
 | Starboost EX | 123636 | [123636-starboost-ex.json](./123636-starboost-ex.json) |
 | Starborn Survivor | 306711 | [306711-starborn-survivor.json](./306711-starborn-survivor.json) |
@@ -1663,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer at Marisol Bay | 183035 | [183035-summer-at-marisol-bay.json](./183035-summer-at-marisol-bay.json) |
 | Summer Camp | 167865 | [167865-summer-camp.json](./167865-summer-camp.json) |
 | Summer Memories: Deluxe Edition | 186897 | [186897-summer-memories-deluxe-edition.json](./186897-summer-memories-deluxe-edition.json) |
+| Summer Paws | 122378 | [122378-summer-paws.json](./122378-summer-paws.json) |
 | Summer Pleasure | 210876 | [210876-summer-pleasure.json](./210876-summer-pleasure.json) |
 | Summer Vacation | 221405 | [221405-summer-vacation.json](./221405-summer-vacation.json) |
 | Summer Village | 236513 | [236513-summer-village.json](./236513-summer-village.json) |
