@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tango | 321121 | [321121-tango.json](./321121-tango.json) |
 | Tangram Puzzle: Shape Puzzle | 237625 | [237625-tangram-puzzle-shape-puzzle.json](./237625-tangram-puzzle-shape-puzzle.json) |
 | Tangy TD | 236534 | [236534-tangy-td.json](./236534-tangy-td.json) |
+| Tank Battle Heroes: Iron Warfare | 120430 | [120430-tank-battle-heroes-iron-warfare.json](./120430-tank-battle-heroes-iron-warfare.json) |
 | Tank Master | 200733 | [200733-tank-master.json](./200733-tank-master.json) |
 | Tank Sudoku | 190734 | [190734-tank-sudoku.json](./190734-tank-sudoku.json) |
 | Tank War Defender 3 | 175405 | [175405-tank-war-defender-3.json](./175405-tank-war-defender-3.json) |
@@ -174,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Warfare: Operation Pugilist | 155088 | [155088-tank-warfare-operation-pugilist.json](./155088-tank-warfare-operation-pugilist.json) |
 | Tankron | 215883 | [215883-tankron.json](./215883-tankron.json) |
 | Tanks Boom Boom | 210872 | [210872-tanks-boom-boom.json](./210872-tanks-boom-boom.json) |
+| Tanky Tanks | 120399 | [120399-tanky-tanks.json](./120399-tanky-tanks.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 3 - Shisha no Rakuen | 293903 | [293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json](./293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 4 - Shirasagi ni Aka no Hane | 296110 | [296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json](./296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json) |
 | Tantei Toki to Yukiyama Kaishi Densetsu Satsujin Jiken | 150118 | [150118-tantei-toki-to-yukiyama-kaishi-densetsu-satsujin-jiken.json](./150118-tantei-toki-to-yukiyama-kaishi-densetsu-satsujin-jiken.json) |
@@ -767,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Taxi | 132822 | [132822-the-last-taxi.json](./132822-the-last-taxi.json) |
 | The Last Wulin | 156148 | [156148-the-last-wulin.json](./156148-the-last-wulin.json) |
 | The Late D. Flate's Great Estate | 188090 | [188090-the-late-d-flates-great-estate.json](./188090-the-late-d-flates-great-estate.json) |
+| The Lattice Grimoire | 120396 | [120396-the-lattice-grimoire.json](./120396-the-lattice-grimoire.json) |
 | The Legacy of Lunatic Omsk | 321748 | [321748-the-legacy-of-lunatic-omsk.json](./321748-the-legacy-of-lunatic-omsk.json) |
 | The Legend of Arcadieu | 126635 | [126635-the-legend-of-arcadieu.json](./126635-the-legend-of-arcadieu.json) |
 | The Legend of Azarias Rebirth | 294994 | [294994-the-legend-of-azarias-rebirth.json](./294994-the-legend-of-azarias-rebirth.json) |
@@ -829,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: Return to Moria - Ent-craft Pack | 336898 | [336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json](./336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json) |
 | The Lord of the Rings: Rise to War | 174867 | [174867-the-lord-of-the-rings-rise-to-war.json](./174867-the-lord-of-the-rings-rise-to-war.json) |
 | The Lord of War | 262064 | [262064-the-lord-of-war.json](./262064-the-lord-of-war.json) |
+| The Lost | 120432 | [120432-the-lost.json](./120432-the-lost.json) |
 | The Lost Abyss | 213592 | [213592-the-lost-abyss.json](./213592-the-lost-abyss.json) |
 | The Lost Artifacts | 171588 | [171588-the-lost-artifacts.json](./171588-the-lost-artifacts.json) |
 | The Lost Caves | 179169 | [179169-the-lost-caves.json](./179169-the-lost-caves.json) |
@@ -900,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of the Village's Sacred Tree | 273662 | [273662-the-mystery-of-the-villages-sacred-tree.json](./273662-the-mystery-of-the-villages-sacred-tree.json) |
 | The Mystifying Trial | 163455 | [163455-the-mystifying-trial.json](./163455-the-mystifying-trial.json) |
 | The Nerve Game | 180256 | [180256-the-nerve-game.json](./180256-the-nerve-game.json) |
+| The New Universes: Eine Neue Reise Beginnt - Chapter 1 | 120391 | [120391-the-new-universes-eine-neue-reise-beginnt-chapter-1.json](./120391-the-new-universes-eine-neue-reise-beginnt-chapter-1.json) |
 | The Next Big Thing | 264879 | [264879-the-next-big-thing.json](./264879-the-next-big-thing.json) |
 | The Night of Erosion: Prequel | 267677 | [267677-the-night-of-erosion-prequel.json](./267677-the-night-of-erosion-prequel.json) |
 | The Nightfall Incident | 182525 | [182525-the-nightfall-incident.json](./182525-the-nightfall-incident.json) |
@@ -993,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rumble Fish: Complete Pack | 336932 | [336932-the-rumble-fish-complete-pack.json](./336932-the-rumble-fish-complete-pack.json) |
 | The Runaway Feijoao | 159874 | [159874-the-runaway-feijoao.json](./159874-the-runaway-feijoao.json) |
 | The Saddle Club | 268211 | [268211-the-saddle-club.json](./268211-the-saddle-club.json) |
+| The Saga of Nino's Transmigration | 120389 | [120389-the-saga-of-ninos-transmigration.json](./120389-the-saga-of-ninos-transmigration.json) |
 | The Salatroitsk Incident | 180807 | [180807-the-salatroitsk-incident.json](./180807-the-salatroitsk-incident.json) |
 | The Scourge | 267072 | [267072-the-scourge.json](./267072-the-scourge.json) |
 | The Scramble Vice | 266468 | [266468-the-scramble-vice.json](./266468-the-scramble-vice.json) |
@@ -2004,6 +2010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truco!: Chapter 1 | 259842 | [259842-truco-chapter-1.json](./259842-truco-chapter-1.json) |
 | Trudy's Time and Place House | 265978 | [265978-trudys-time-and-place-house.json](./265978-trudys-time-and-place-house.json) |
 | True Visions | 162413 | [162413-true-visions.json](./162413-true-visions.json) |
+| Truefish | 120412 | [120412-truefish.json](./120412-truefish.json) |
 | Trumpets | 179164 | [179164-trumpets.json](./179164-trumpets.json) |
 | Truth Loop | 218735 | [218735-truth-loop.json](./218735-truth-loop.json) |
 | Truth Loop 2 | 246120 | [246120-truth-loop-2.json](./246120-truth-loop-2.json) |
