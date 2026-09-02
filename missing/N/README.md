@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ngolf: Legendary Edition | 315858 | [315858-ngolf-legendary-edition.json](./315858-ngolf-legendary-edition.json) |
 | NHRA Championship Drag Racing: Speed for All - Deluxe Edition | 214728 | [214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json](./214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json) |
 | Ni Hao, Kai-lan: Beach Day | 109052 | [109052-ni-hao-kai-lan-beach-day.json](./109052-ni-hao-kai-lan-beach-day.json) |
+| Ni Hao, Kai-Lan: New Year's Celebration | 97371 | [97371-ni-hao-kai-lan-new-years-celebration.json](./97371-ni-hao-kai-lan-new-years-celebration.json) |
 | Niaki | 262065 | [262065-niaki.json](./262065-niaki.json) |
 | Nice Shot Golf | 123629 | [123629-nice-shot-golf.json](./123629-nice-shot-golf.json) |
 | Nice Try! | 129229 | [129229-nice-try.json](./129229-nice-try.json) |
