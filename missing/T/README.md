@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Force 2 | 203535 | [203535-team-force-2.json](./203535-team-force-2.json) |
 | Team Fortress 2: Gold Rush | 335705 | [335705-team-fortress-2-gold-rush.json](./335705-team-fortress-2-gold-rush.json) |
 | Team Hogus: GHAMEMFAIFTH OTHIYLTIM | 185659 | [185659-team-hogus-ghamemfaifth-othiyltim.json](./185659-team-hogus-ghamemfaifth-othiyltim.json) |
+| Team Of Robbers | 117773 | [117773-team-of-robbers.json](./117773-team-of-robbers.json) |
 | Team Rise | 258219 | [258219-team-rise.json](./258219-team-rise.json) |
 | Team:Cars | 138238 | [138238-team-cars.json](./138238-team-cars.json) |
 | TeamPlay | 163976 | [163976-teamplay.json](./163976-teamplay.json) |
@@ -640,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Village of Gondomayit | 268215 | [268215-the-forgotten-village-of-gondomayit.json](./268215-the-forgotten-village-of-gondomayit.json) |
 | The Four Old Gods | 136442 | [136442-the-four-old-gods.json](./136442-the-four-old-gods.json) |
 | The Fox Awaits Me: Limited Edition | 188644 | [188644-the-fox-awaits-me-limited-edition.json](./188644-the-fox-awaits-me-limited-edition.json) |
+| The Fruit, Labyrinth, and Eden of Grisaia Full Package | 117746 | [117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json](./117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json) |
 | The Futurist | 181355 | [181355-the-futurist.json](./181355-the-futurist.json) |
 | The Game | 187522 | [187522-the-game.json](./187522-the-game.json) |
 | The Game of Bionic Goat | 339099 | [339099-the-game-of-bionic-goat.json](./339099-the-game-of-bionic-goat.json) |
@@ -897,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moon Has Faded Away | 341903 | [341903-the-moon-has-faded-away.json](./341903-the-moon-has-faded-away.json) |
 | The Moon Relax | 165021 | [165021-the-moon-relax.json](./165021-the-moon-relax.json) |
 | The Moroccan Castle 3: Behind The Secrets | 242229 | [242229-the-moroccan-castle-3-behind-the-secrets.json](./242229-the-moroccan-castle-3-behind-the-secrets.json) |
+| The Moron Test | 117757 | [117757-the-moron-test.json](./117757-the-moron-test.json) |
 | The Mother Deer | 330544 | [330544-the-mother-deer.json](./330544-the-mother-deer.json) |
 | The Multi-Medium | 216996 | [216996-the-multi-medium.json](./216996-the-multi-medium.json) |
 | The Murder Hotel | 247770 | [247770-the-murder-hotel.json](./247770-the-murder-hotel.json) |
@@ -1728,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Genso Wanderer: Mononobe no Futo to Nanatsu no Shiren - Fushigi no Gensoukyou TOD Another Story | 206960 | [206960-touhou-genso-wanderer-mononobe-no-futo-to-nanatsu-no-shiren-fushigi-no-gensoukyou-tod-another-story.json](./206960-touhou-genso-wanderer-mononobe-no-futo-to-nanatsu-no-shiren-fushigi-no-gensoukyou-tod-another-story.json) |
 | Touhou Genso Wanderer: The Bullet Reporter | 206961 | [206961-touhou-genso-wanderer-the-bullet-reporter.json](./206961-touhou-genso-wanderer-the-bullet-reporter.json) |
 | Touhou Gensou Clicker | 135277 | [135277-touhou-gensou-clicker.json](./135277-touhou-gensou-clicker.json) |
+| Touhou Gensou Mahjong | 117744 | [117744-touhou-gensou-mahjong.json](./117744-touhou-gensou-mahjong.json) |
 | Touhou Gyakumyouran: Ephemeral Unnatural Balance | 246675 | [246675-touhou-gyakumyouran-ephemeral-unnatural-balance.json](./246675-touhou-gyakumyouran-ephemeral-unnatural-balance.json) |
 | Touhou Hakujinki: White Names Spoiled Past | 246674 | [246674-touhou-hakujinki-white-names-spoiled-past.json](./246674-touhou-hakujinki-white-names-spoiled-past.json) |
 | Touhou Jaseishou: The Last Comer | 246672 | [246672-touhou-jaseishou-the-last-comer.json](./246672-touhou-jaseishou-the-last-comer.json) |
@@ -1971,6 +1975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tresure Hunter | 278673 | [278673-tresure-hunter.json](./278673-tresure-hunter.json) |
 | Tri Focuser: Outside the Traditional World | 246673 | [246673-tri-focuser-outside-the-traditional-world.json](./246673-tri-focuser-outside-the-traditional-world.json) |
 | Triad | 304367 | [304367-triad.json](./304367-triad.json) |
+| Trial Xtreme 3 | 117763 | [117763-trial-xtreme-3.json](./117763-trial-xtreme-3.json) |
 | Trial Xtreme 4 Remastered | 208035 | [208035-trial-xtreme-4-remastered.json](./208035-trial-xtreme-4-remastered.json) |
 | Trials 2 | 140577 | [140577-trials-2.json](./140577-trials-2.json) |
 | Trials in Tainted Space | 128001 | [128001-trials-in-tainted-space.json](./128001-trials-in-tainted-space.json) |
@@ -2065,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunguska: The Visitation - Complete Edition | 338030 | [338030-tunguska-the-visitation-complete-edition.json](./338030-tunguska-the-visitation-complete-edition.json) |
 | Tuning Champions | 215912 | [215912-tuning-champions.json](./215912-tuning-champions.json) |
 | Tunnels of Terror! | 260986 | [260986-tunnels-of-terror.json](./260986-tunnels-of-terror.json) |
+| Tupsu | 117761 | [117761-tupsu.json](./117761-tupsu.json) |
 | Turbo 84 | 239344 | [239344-turbo-84.json](./239344-turbo-84.json) |
 | Turbo Bullets | 311822 | [311822-turbo-bullets.json](./311822-turbo-bullets.json) |
 | Turbo Live | 318765 | [318765-turbo-live.json](./318765-turbo-live.json) |
