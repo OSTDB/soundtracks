@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offline | 216977 | [216977-offline.json](./216977-offline.json) |
 | Offline Games | 336389 | [336389-offline-games.json](./336389-offline-games.json) |
 | Offroad Delivery Service | 216979 | [216979-offroad-delivery-service.json](./216979-offroad-delivery-service.json) |
+| Offroad Oil Tanker Hill Drivin | 108488 | [108488-offroad-oil-tanker-hill-drivin.json](./108488-offroad-oil-tanker-hill-drivin.json) |
 | Offroad Racing | 221416 | [221416-offroad-racing.json](./221416-offroad-racing.json) |
 | Offroad Racing on Line | 172161 | [172161-offroad-racing-on-line.json](./172161-offroad-racing-on-line.json) |
 | Offworld Trading Company: Almanac | 124802 | [124802-offworld-trading-company-almanac.json](./124802-offworld-trading-company-almanac.json) |
