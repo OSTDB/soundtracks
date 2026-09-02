@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Building Full of Cats 2 | 301592 | [301592-a-building-full-of-cats-2.json](./301592-a-building-full-of-cats-2.json) |
 | A Burned Man Walks Down The Desolate Corridor | 303251 | [303251-a-burned-man-walks-down-the-desolate-corridor.json](./303251-a-burned-man-walks-down-the-desolate-corridor.json) |
 | A Cat Cafe Story | 183047 | [183047-a-cat-cafe-story.json](./183047-a-cat-cafe-story.json) |
+| A Cat in Dungeons | 149573 | [149573-a-cat-in-dungeons.json](./149573-a-cat-in-dungeons.json) |
 | A Christmas Gift: Timmy's Final Gift | 312366 | [312366-a-christmas-gift-timmys-final-gift.json](./312366-a-christmas-gift-timmys-final-gift.json) |
 | A Christmas Story From Hell VR | 189163 | [189163-a-christmas-story-from-hell-vr.json](./189163-a-christmas-story-from-hell-vr.json) |
 | A Clockwork Ley-Line: Daybreak of Remnants Shadow | 195795 | [195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json](./195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json) |
@@ -345,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy of Love | 214160 | [214160-alchemy-of-love.json](./214160-alchemy-of-love.json) |
 | Alcohol Empire | 199097 | [199097-alcohol-empire.json](./199097-alcohol-empire.json) |
 | Aldoria | 322382 | [322382-aldoria.json](./322382-aldoria.json) |
+| Aldriak: The Advent of a New World | 149569 | [149569-aldriak-the-advent-of-a-new-world.json](./149569-aldriak-the-advent-of-a-new-world.json) |
 | Aldro | 247747 | [247747-aldro.json](./247747-aldro.json) |
 | Alea Lacta Est | 300419 | [300419-alea-lacta-est.json](./300419-alea-lacta-est.json) |
 | Alehouse Tavern Simulator | 334489 | [334489-alehouse-tavern-simulator.json](./334489-alehouse-tavern-simulator.json) |
@@ -860,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Command Scramble Retro! | 208624 | [208624-astro-command-scramble-retro.json](./208624-astro-command-scramble-retro.json) |
 | Astro Dash | 156655 | [156655-astro-dash.json](./156655-astro-dash.json) |
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
+| Astrodition | 149583 | [149583-astrodition.json](./149583-astrodition.json) |
 | Astronaut Spacewalk | 174354 | [174354-astronaut-spacewalk.json](./174354-astronaut-spacewalk.json) |
 | Astronomics Rise of a New Empire | 244513 | [244513-astronomics-rise-of-a-new-empire.json](./244513-astronomics-rise-of-a-new-empire.json) |
 | Asu Kano! Asu mo Kanojo to Issho! | 209141 | [209141-asu-kano-asu-mo-kanojo-to-issho.json](./209141-asu-kano-asu-mo-kanojo-to-issho.json) |
