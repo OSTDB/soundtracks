@@ -202,6 +202,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Shark | 294427 | [294427-new-york-shark.json](./294427-new-york-shark.json) |
 | New Zealand Jigsaw Puzzles | 274766 | [274766-new-zealand-jigsaw-puzzles.json](./274766-new-zealand-jigsaw-puzzles.json) |
 | New Zelda | 270386 | [270386-new-zelda.json](./270386-new-zelda.json) |
+| Newer Super Mario Bros. Wii Deluxe | 132846 | [132846-newer-super-mario-bros-wii-deluxe.json](./132846-newer-super-mario-bros-wii-deluxe.json) |
+| Newer: Falling Leaf | 132848 | [132848-newer-falling-leaf.json](./132848-newer-falling-leaf.json) |
+| Newer: Holiday Special | 132849 | [132849-newer-holiday-special.json](./132849-newer-holiday-special.json) |
+| Newer: Summer Sun | 132847 | [132847-newer-summer-sun.json](./132847-newer-summer-sun.json) |
 | Newton's House of Forces | 163948 | [163948-newtons-house-of-forces.json](./163948-newtons-house-of-forces.json) |
 | Nexa Tech Laboratory | 273636 | [273636-nexa-tech-laboratory.json](./273636-nexa-tech-laboratory.json) |
 | Next Earth: The Journey Trilogy | 149568 | [149568-next-earth-the-journey-trilogy.json](./149568-next-earth-the-journey-trilogy.json) |
@@ -402,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northern Blade | 145643 | [145643-northern-blade.json](./145643-northern-blade.json) |
 | Northgard: Dodsvagr, Clan of the Rat | 188083 | [188083-northgard-dodsvagr-clan-of-the-rat.json](./188083-northgard-dodsvagr-clan-of-the-rat.json) |
 | Northgard: Hræsvelg, Clan of the Eagle | 218693 | [218693-northgard-hr-svelg-clan-of-the-eagle.json](./218693-northgard-hr-svelg-clan-of-the-eagle.json) |
+| NoseBound | 132821 | [132821-nosebound.json](./132821-nosebound.json) |
 | Nostalgic Entropy: Neo Retro | 312899 | [312899-nostalgic-entropy-neo-retro.json](./312899-nostalgic-entropy-neo-retro.json) |
 | Nostromo's Run | 274197 | [274197-nostromos-run.json](./274197-nostromos-run.json) |
 | Not Alone | 184094 | [184094-not-alone.json](./184094-not-alone.json) |
