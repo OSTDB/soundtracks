@@ -1833,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Gensou Mahjong | 117744 | [117744-touhou-gensou-mahjong.json](./117744-touhou-gensou-mahjong.json) |
 | Touhou Gyakumyouran: Ephemeral Unnatural Balance | 246675 | [246675-touhou-gyakumyouran-ephemeral-unnatural-balance.json](./246675-touhou-gyakumyouran-ephemeral-unnatural-balance.json) |
 | Touhou Hakujinki: White Names Spoiled Past | 246674 | [246674-touhou-hakujinki-white-names-spoiled-past.json](./246674-touhou-hakujinki-white-names-spoiled-past.json) |
+| Touhou Haou III | 98454 | [98454-touhou-haou-iii.json](./98454-touhou-haou-iii.json) |
 | Touhou Jaseishou: The Last Comer | 246672 | [246672-touhou-jaseishou-the-last-comer.json](./246672-touhou-jaseishou-the-last-comer.json) |
 | Touhou Mahoujou: Book of Star Mythology | 246669 | [246669-touhou-mahoujou-book-of-star-mythology.json](./246669-touhou-mahoujou-book-of-star-mythology.json) |
 | Touhou Makuka Sai: Fantastic Danmaku Festival Part III | 331125 | [331125-touhou-makuka-sai-fantastic-danmaku-festival-part-iii.json](./331125-touhou-makuka-sai-fantastic-danmaku-festival-part-iii.json) |
