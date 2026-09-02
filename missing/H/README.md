@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House Renovator: Prologue | 316421 | [316421-haunted-house-renovator-prologue.json](./316421-haunted-house-renovator-prologue.json) |
 | Haunted Lands: Burial Grounds | 240502 | [240502-haunted-lands-burial-grounds.json](./240502-haunted-lands-burial-grounds.json) |
 | Haunted Legends: The Undertaker | 140028 | [140028-haunted-legends-the-undertaker.json](./140028-haunted-legends-the-undertaker.json) |
+| Haunted Manor 2 | 109018 | [109018-haunted-manor-2.json](./109018-haunted-manor-2.json) |
 | Haunted Manor: Lord of Mirrors | 140029 | [140029-haunted-manor-lord-of-mirrors.json](./140029-haunted-manor-lord-of-mirrors.json) |
 | Haunted Manor: Painted Beauties | 140030 | [140030-haunted-manor-painted-beauties.json](./140030-haunted-manor-painted-beauties.json) |
 | Haunted Manor: Queen of Death | 140031 | [140031-haunted-manor-queen-of-death.json](./140031-haunted-manor-queen-of-death.json) |
@@ -565,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home | 121014 | [121014-home.json](./121014-home.json) |
 | Home A Drone | 122421 | [122421-home-a-drone.json](./122421-home-a-drone.json) |
 | Home Game 3 | 243397 | [243397-home-game-3.json](./243397-home-game-3.json) |
+| Home Run High | 109008 | [109008-home-run-high.json](./109008-home-run-high.json) |
 | Home Run King | 242809 | [242809-home-run-king.json](./242809-home-run-king.json) |
 | Home Safety Hotline: Seasonal Worker | 317001 | [317001-home-safety-hotline-seasonal-worker.json](./317001-home-safety-hotline-seasonal-worker.json) |
 | Home Snatch | 311791 | [311791-home-snatch.json](./311791-home-snatch.json) |
@@ -762,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Panda | 332832 | [332832-hyper-panda.json](./332832-hyper-panda.json) |
 | Hyper Rider | 319972 | [319972-hyper-rider.json](./319972-hyper-rider.json) |
 | Hyper Strike | 151179 | [151179-hyper-strike.json](./151179-hyper-strike.json) |
+| Hyper Wars: The Mega Firestorm | 109046 | [109046-hyper-wars-the-mega-firestorm.json](./109046-hyper-wars-the-mega-firestorm.json) |
 | Hyperborean Charter | 113025 | [113025-hyperborean-charter.json](./113025-hyperborean-charter.json) |
 | HyperCore: Rhythm Bullet Hell | 122388 | [122388-hypercore-rhythm-bullet-hell.json](./122388-hypercore-rhythm-bullet-hell.json) |
 | Hyperdimension Neptunia Re;Birth2: Sister's Generation - Additional Content Pack 1 | 224216 | [224216-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-1.json](./224216-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-1.json) |
