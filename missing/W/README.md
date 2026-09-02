@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Mosaics 3: Fairy Tales | 135248 | [135248-world-mosaics-3-fairy-tales.json](./135248-world-mosaics-3-fairy-tales.json) |
 | World Mosaics IV | 135249 | [135249-world-mosaics-iv.json](./135249-world-mosaics-iv.json) |
 | World of Cube | 204104 | [204104-world-of-cube.json](./204104-world-of-cube.json) |
+| World of Feudal | 102160 | [102160-world-of-feudal.json](./102160-world-of-feudal.json) |
 | World of Mixed Martial Arts 5 | 125436 | [125436-world-of-mixed-martial-arts-5.json](./125436-world-of-mixed-martial-arts-5.json) |
 | World of Paranoia | 167292 | [167292-world-of-paranoia.json](./167292-world-of-paranoia.json) |
 | World of Retailing | 193472 | [193472-world-of-retailing.json](./193472-world-of-retailing.json) |
