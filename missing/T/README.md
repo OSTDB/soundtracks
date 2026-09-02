@@ -243,6 +243,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of Rubbo | 191913 | [191913-temple-of-rubbo.json](./191913-temple-of-rubbo.json) |
 | Temple of Spider | 316982 | [316982-temple-of-spider.json](./316982-temple-of-spider.json) |
 | Temple of Tangram | 198519 | [198519-temple-of-tangram.json](./198519-temple-of-tangram.json) |
+| Temple of the Lizardmen | 142486 | [142486-temple-of-the-lizardmen.json](./142486-temple-of-the-lizardmen.json) |
+| Temple of the Lizardmen 2 | 142487 | [142487-temple-of-the-lizardmen-2.json](./142487-temple-of-the-lizardmen-2.json) |
 | Temple Run 2 | 336388 | [336388-temple-run-2.json](./336388-temple-run-2.json) |
 | Tempo Nuts | 256542 | [256542-tempo-nuts.json](./256542-tempo-nuts.json) |
 | Tempoknight | 224204 | [224204-tempoknight.json](./224204-tempoknight.json) |
@@ -896,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quintessential Quintuplets: The Quintuplets Can't Divide the Puzzle Into Five Equal Parts | 194029 | [194029-the-quintessential-quintuplets-the-quintuplets-cant-divide-the-puzzle-into-five-equal-parts.json](./194029-the-quintessential-quintuplets-the-quintuplets-cant-divide-the-puzzle-into-five-equal-parts.json) |
 | The Rabbit's Scroll | 204114 | [204114-the-rabbits-scroll.json](./204114-the-rabbits-scroll.json) |
 | The Rainbowers | 254156 | [254156-the-rainbowers.json](./254156-the-rainbowers.json) |
+| The Ranchers | 142498 | [142498-the-ranchers.json](./142498-the-ranchers.json) |
 | The Rats in the Walls | 271489 | [271489-the-rats-in-the-walls.json](./271489-the-rats-in-the-walls.json) |
 | The Reaper Survivors | 224760 | [224760-the-reaper-survivors.json](./224760-the-reaper-survivors.json) |
 | The Red Forest | 267674 | [267674-the-red-forest.json](./267674-the-red-forest.json) |
@@ -1190,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threshold of Awakening | 272575 | [272575-threshold-of-awakening.json](./272575-threshold-of-awakening.json) |
 | Threshold of Pain | 274219 | [274219-threshold-of-pain.json](./274219-threshold-of-pain.json) |
 | Thrillville: Off the Rails | 322364 | [322364-thrillville-off-the-rails.json](./322364-thrillville-off-the-rails.json) |
+| Thrive | 142499 | [142499-thrive.json](./142499-thrive.json) |
 | Throb of Lovegirl: A Ero Waifu TD | 175983 | [175983-throb-of-lovegirl-a-ero-waifu-td.json](./175983-throb-of-lovegirl-a-ero-waifu-td.json) |
 | Throw M | 319962 | [319962-throw-m.json](./319962-throw-m.json) |
 | Throw Me in the River | 149600 | [149600-throw-me-in-the-river.json](./149600-throw-me-in-the-river.json) |
@@ -1517,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomodachii | 332803 | [332803-tomodachii.json](./332803-tomodachii.json) |
 | Tomorrow | 171070 | [171070-tomorrow.json](./171070-tomorrow.json) |
 | Tomotoru: Hello Kitty Happy Life | 188628 | [188628-tomotoru-hello-kitty-happy-life.json](./188628-tomotoru-hello-kitty-happy-life.json) |
+| Tonari ni Kanojo no Iru Shiawase: Winter Guest | 142444 | [142444-tonari-ni-kanojo-no-iru-shiawase-winter-guest.json](./142444-tonari-ni-kanojo-no-iru-shiawase-winter-guest.json) |
 | Tonka: Dig'n Rigs | 226412 | [226412-tonka-dign-rigs.json](./226412-tonka-dign-rigs.json) |
 | Tony and Clyde | 172753 | [172753-tony-and-clyde.json](./172753-tony-and-clyde.json) |
 | Tony Hawk's Pro Skater 2 | 229927 | [229927-tony-hawks-pro-skater-2.json](./229927-tony-hawks-pro-skater-2.json) |
@@ -1555,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer III - Shadows of Change | 251223 | [251223-total-war-warhammer-iii-shadows-of-change.json](./251223-total-war-warhammer-iii-shadows-of-change.json) |
 | Total War: Warhammer III - Thrones of Decay | 251224 | [251224-total-war-warhammer-iii-thrones-of-decay.json](./251224-total-war-warhammer-iii-thrones-of-decay.json) |
 | Total War: Warhammer III - Update 3.1 | 251222 | [251222-total-war-warhammer-iii-update-3-1.json](./251222-total-war-warhammer-iii-update-3-1.json) |
+| Totally Realistic Unicorn Buffalo Simulator | 142463 | [142463-totally-realistic-unicorn-buffalo-simulator.json](./142463-totally-realistic-unicorn-buffalo-simulator.json) |
 | Totally Reliable Delivery Service: Dress Code | 308576 | [308576-totally-reliable-delivery-service-dress-code.json](./308576-totally-reliable-delivery-service-dress-code.json) |
 | Totally Spies! The Mobile Game | 317003 | [317003-totally-spies-the-mobile-game.json](./317003-totally-spies-the-mobile-game.json) |
 | Totems: Game of Conquest | 200188 | [200188-totems-game-of-conquest.json](./200188-totems-game-of-conquest.json) |
@@ -1759,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped Beast | 339106 | [339106-trapped-beast.json](./339106-trapped-beast.json) |
 | Trapped in a Cage | 267067 | [267067-trapped-in-a-cage.json](./267067-trapped-in-a-cage.json) |
 | Trapped Summoner: Taigren's Secrets | 172194 | [172194-trapped-summoner-taigrens-secrets.json](./172194-trapped-summoner-taigrens-secrets.json) |
+| Traps in Space | 142482 | [142482-traps-in-space.json](./142482-traps-in-space.json) |
 | Trash Horror Collection | 204091 | [204091-trash-horror-collection.json](./204091-trash-horror-collection.json) |
 | Trash is Fun | 153997 | [153997-trash-is-fun.json](./153997-trash-is-fun.json) |
 | Trash Panda: The Adventures of Ricky and Boxman | 226433 | [226433-trash-panda-the-adventures-of-ricky-and-boxman.json](./226433-trash-panda-the-adventures-of-ricky-and-boxman.json) |
@@ -1885,6 +1892,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo 84 | 239344 | [239344-turbo-84.json](./239344-turbo-84.json) |
 | Turbo Bullets | 311822 | [311822-turbo-bullets.json](./311822-turbo-bullets.json) |
 | Turbo Live | 318765 | [318765-turbo-live.json](./318765-turbo-live.json) |
+| Turboroko: Passion Fever | 142471 | [142471-turboroko-passion-fever.json](./142471-turboroko-passion-fever.json) |
+| Turboroko: Path to Passion Fever | 142470 | [142470-turboroko-path-to-passion-fever.json](./142470-turboroko-path-to-passion-fever.json) |
 | Turdy | 172195 | [172195-turdy.json](./172195-turdy.json) |
 | Turis Station | 244501 | [244501-turis-station.json](./244501-turis-station.json) |
 | Turkey Fling | 261542 | [261542-turkey-fling.json](./261542-turkey-fling.json) |
@@ -1926,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twitter Plays Snake | 339133 | [339133-twitter-plays-snake.json](./339133-twitter-plays-snake.json) |
 | Twizzle Puzzle: Monkeys | 290690 | [290690-twizzle-puzzle-monkeys.json](./290690-twizzle-puzzle-monkeys.json) |
 | Two Atmospheric Atrocities | 331685 | [331685-two-atmospheric-atrocities.json](./331685-two-atmospheric-atrocities.json) |
+| Two Die | 142501 | [142501-two-die.json](./142501-two-die.json) |
 | Two Eyes: Nonogram | 292820 | [292820-two-eyes-nonogram.json](./292820-two-eyes-nonogram.json) |
 | Two Hoops | 234317 | [234317-two-hoops.json](./234317-two-hoops.json) |
 | Two Kiss with Two Men | 303272 | [303272-two-kiss-with-two-men.json](./303272-two-kiss-with-two-men.json) |
