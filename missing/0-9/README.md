@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5:48AM | 277038 | [277038-5-48am.json](./277038-5-48am.json) |
 | 50 Floors: The Paranormal Investigators Prologue | 306699 | [306699-50-floors-the-paranormal-investigators-prologue.json](./306699-50-floors-the-paranormal-investigators-prologue.json) |
 | 50 Loops | 174911 | [174911-50-loops.json](./174911-50-loops.json) |
+| 50K Racewalker | 135864 | [135864-50k-racewalker.json](./135864-50k-racewalker.json) |
 | 5525 | 301035 | [301035-5525.json](./301035-5525.json) |
 | 6-in-1 IQ Scale Bundle: Lost Starships | 166212 | [166212-6-in-1-iq-scale-bundle-lost-starships.json](./166212-6-in-1-iq-scale-bundle-lost-starships.json) |
 | 60 Minute Marathon 2 | 314628 | [314628-60-minute-marathon-2.json](./314628-60-minute-marathon-2.json) |
