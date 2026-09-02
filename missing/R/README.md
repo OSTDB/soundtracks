@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rasen Reijoh Spiral Ojosama: Chohatsu no Makina | 265945 | [265945-rasen-reijoh-spiral-ojosama-chohatsu-no-makina.json](./265945-rasen-reijoh-spiral-ojosama-chohatsu-no-makina.json) |
 | Rashomon of Shinjuku | 225314 | [225314-rashomon-of-shinjuku.json](./225314-rashomon-of-shinjuku.json) |
 | Raster Prime: Remix | 162415 | [162415-raster-prime-remix.json](./162415-raster-prime-remix.json) |
+| Rat Arena | 106585 | [106585-rat-arena.json](./106585-rat-arena.json) |
 | Rat Raze / Road to Riches: Tilt Five | 341308 | [341308-rat-raze-road-to-riches-tilt-five.json](./341308-rat-raze-road-to-riches-tilt-five.json) |
 | Rat vs. Cat | 242794 | [242794-rat-vs-cat.json](./242794-rat-vs-cat.json) |
 | Ratano | 269853 | [269853-ratano.json](./269853-ratano.json) |
@@ -805,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Route Me Mail and Delivery Co | 147477 | [147477-route-me-mail-and-delivery-co.json](./147477-route-me-mail-and-delivery-co.json) |
 | Rova | 297209 | [297209-rova.json](./297209-rova.json) |
 | Rover Wars | 177039 | [177039-rover-wars.json](./177039-rover-wars.json) |
+| Roving in the Dark | 106602 | [106602-roving-in-the-dark.json](./106602-roving-in-the-dark.json) |
 | Rovonaut Comrade | 128656 | [128656-rovonaut-comrade.json](./128656-rovonaut-comrade.json) |
 | Roxy Raccoon's Pinball Panic: American Anniversary | 311788 | [311788-roxy-raccoons-pinball-panic-american-anniversary.json](./311788-roxy-raccoons-pinball-panic-american-anniversary.json) |
 | Roxy Raccoon's Pinball Panic: Club Crazy | 267689 | [267689-roxy-raccoons-pinball-panic-club-crazy.json](./267689-roxy-raccoons-pinball-panic-club-crazy.json) |
@@ -898,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Hour Deluxe: The ultimate traffic jam game! | 220878 | [220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json](./220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json) |
 | Rush Rally | 242212 | [242212-rush-rally.json](./242212-rush-rally.json) |
 | Rush Troopers | 184657 | [184657-rush-troopers.json](./184657-rush-troopers.json) |
+| Russian bank - card game | 106568 | [106568-russian-bank-card-game.json](./106568-russian-bank-card-game.json) |
 | Russian Driver | 197376 | [197376-russian-driver.json](./197376-russian-driver.json) |
 | Russian Drunken Boxers | 158697 | [158697-russian-drunken-boxers.json](./158697-russian-drunken-boxers.json) |
 | Russian Fight Simulator | 263767 | [263767-russian-fight-simulator.json](./263767-russian-fight-simulator.json) |
