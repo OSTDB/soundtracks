@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jak and Daxter: The Precursor Legacy | 302690 | [302690-jak-and-daxter-the-precursor-legacy.json](./302690-jak-and-daxter-the-precursor-legacy.json) |
 | Jak and Daxter: The Precursor Legacy | 325261 | [325261-jak-and-daxter-the-precursor-legacy.json](./325261-jak-and-daxter-the-precursor-legacy.json) |
 | Jaleco Sports: Bases Loaded | 338551 | [338551-jaleco-sports-bases-loaded.json](./338551-jaleco-sports-bases-loaded.json) |
+| Jamco Matefest 3013 | 128614 | [128614-jamco-matefest-3013.json](./128614-jamco-matefest-3013.json) |
 | James is Bananas | 248887 | [248887-james-is-bananas.json](./248887-james-is-bananas.json) |
 | James Pond: Codename Robocod | 197941 | [197941-james-pond-codename-robocod.json](./197941-james-pond-codename-robocod.json) |
 | Jams | 340765 | [340765-jams.json](./340765-jams.json) |
@@ -130,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John's Tombstone | 187523 | [187523-johns-tombstone.json](./187523-johns-tombstone.json) |
 | Johnny Boy: Red Moon's Kiss | 188651 | [188651-johnny-boy-red-moons-kiss.json](./188651-johnny-boy-red-moons-kiss.json) |
 | JoJo Siwa: Worldwide Party | 218722 | [218722-jojo-siwa-worldwide-party.json](./218722-jojo-siwa-worldwide-party.json) |
+| Jojo's Bizarre Adventure: The 7th Stand User | 128606 | [128606-jojos-bizarre-adventure-the-7th-stand-user.json](./128606-jojos-bizarre-adventure-the-7th-stand-user.json) |
 | JoJo's Bizarre RPG: Battle Tendency | 172764 | [172764-jojos-bizarre-rpg-battle-tendency.json](./172764-jojos-bizarre-rpg-battle-tendency.json) |
 | JoJo's Bizarre RPG: Phantom Blood | 172763 | [172763-jojos-bizarre-rpg-phantom-blood.json](./172763-jojos-bizarre-rpg-phantom-blood.json) |
 | JoJo's Diner | 225295 | [225295-jojos-diner.json](./225295-jojos-diner.json) |
