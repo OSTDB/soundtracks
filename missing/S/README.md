@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabotage Will Set Us Free | 181376 | [181376-sabotage-will-set-us-free.json](./181376-sabotage-will-set-us-free.json) |
 | Sabreman Stampede | 175948 | [175948-sabreman-stampede.json](./175948-sabreman-stampede.json) |
 | Saccharine Playground | 133436 | [133436-saccharine-playground.json](./133436-saccharine-playground.json) |
+| Sack of Bots | 119040 | [119040-sack-of-bots.json](./119040-sack-of-bots.json) |
 | Sacra: Falling of Myrd | 331692 | [331692-sacra-falling-of-myrd.json](./331692-sacra-falling-of-myrd.json) |
 | Sacred Chasm: Silent Utopia | 297814 | [297814-sacred-chasm-silent-utopia.json](./297814-sacred-chasm-silent-utopia.json) |
 | Sacreligious | 276460 | [276460-sacreligious.json](./276460-sacreligious.json) |
@@ -176,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Tales | 171587 | [171587-scary-tales.json](./171587-scary-tales.json) |
 | Scavenger | 237648 | [237648-scavenger.json](./237648-scavenger.json) |
 | Scavland | 339674 | [339674-scavland.json](./339674-scavland.json) |
+| Scenner | 119045 | [119045-scenner.json](./119045-scenner.json) |
 | Scholastic Brain Play: Preschool - 1st Grade | 167276 | [167276-scholastic-brain-play-preschool-1st-grade.json](./167276-scholastic-brain-play-preschool-1st-grade.json) |
 | School Days LxH | 178079 | [178079-school-days-lxh.json](./178079-school-days-lxh.json) |
 | School Race GP | 219281 | [219281-school-race-gp.json](./219281-school-race-gp.json) |
@@ -395,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Wolf Mysteries: Cursed Wedding & Shadow Wolf Mysteries: Under the Crimson Moon | 201811 | [201811-shadow-wolf-mysteries-cursed-wedding-and-shadow-wolf-mysteries-under-the-crimson-moon.json](./201811-shadow-wolf-mysteries-cursed-wedding-and-shadow-wolf-mysteries-under-the-crimson-moon.json) |
 | Shadow's Bullet | 191871 | [191871-shadows-bullet.json](./191871-shadows-bullet.json) |
 | Shadowkin | 244515 | [244515-shadowkin.json](./244515-shadowkin.json) |
+| Shadowland | 119020 | [119020-shadowland.json](./119020-shadowland.json) |
 | Shadownest | 158199 | [158199-shadownest.json](./158199-shadownest.json) |
 | Shadoworld: The Impossible Escape Game | 204082 | [204082-shadoworld-the-impossible-escape-game.json](./204082-shadoworld-the-impossible-escape-game.json) |
 | Shadows | 318203 | [318203-shadows.json](./318203-shadows.json) |
@@ -816,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoking Snakes | 197952 | [197952-smoking-snakes.json](./197952-smoking-snakes.json) |
 | Smolsies | 127989 | [127989-smolsies.json](./127989-smolsies.json) |
 | Smoothie Galaxy | 182518 | [182518-smoothie-galaxy.json](./182518-smoothie-galaxy.json) |
+| Smush | 119028 | [119028-smush.json](./119028-smush.json) |
 | SMYS: Classic | 292308 | [292308-smys-classic.json](./292308-smys-classic.json) |
 | Snack Pack 3: Trick or Treat | 275317 | [275317-snack-pack-3-trick-or-treat.json](./275317-snack-pack-3-trick-or-treat.json) |
 | Snack Scoffer | 198515 | [198515-snack-scoffer.json](./198515-snack-scoffer.json) |
@@ -899,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Social Distancing Simulator | 166204 | [166204-social-distancing-simulator.json](./166204-social-distancing-simulator.json) |
 | Sock Dating Simulator | 341321 | [341321-sock-dating-simulator.json](./341321-sock-dating-simulator.json) |
 | Soctics League | 208623 | [208623-soctics-league.json](./208623-soctics-league.json) |
+| Soda Story: Brewing Tycoon | 119016 | [119016-soda-story-brewing-tycoon.json](./119016-soda-story-brewing-tycoon.json) |
 | Sofi Origins | 277607 | [277607-sofi-origins.json](./277607-sofi-origins.json) |
 | Sofia | 218734 | [218734-sofia.json](./218734-sofia.json) |
 | Sofiya and the Ancient Clan | 209648 | [209648-sofiya-and-the-ancient-clan.json](./209648-sofiya-and-the-ancient-clan.json) |
@@ -967,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of Yellow River | 130952 | [130952-song-of-yellow-river.json](./130952-song-of-yellow-river.json) |
 | Songbird | 324103 | [324103-songbird.json](./324103-songbird.json) |
 | Songbringer: The Trial of Ren | 165014 | [165014-songbringer-the-trial-of-ren.json](./165014-songbringer-the-trial-of-ren.json) |
+| Songs of Skydale | 119032 | [119032-songs-of-skydale.json](./119032-songs-of-skydale.json) |
 | Sonic & Blaze | 266506 | [266506-sonic-and-blaze.json](./266506-sonic-and-blaze.json) |
 | Sonic & Shadow | 330516 | [330516-sonic-and-shadow.json](./330516-sonic-and-shadow.json) |
 | Sonic & Shadow | 336350 | [336350-sonic-and-shadow.json](./336350-sonic-and-shadow.json) |
@@ -1140,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Baller | 133431 | [133431-space-baller.json](./133431-space-baller.json) |
 | Space Battle: Sea Battle | 264906 | [264906-space-battle-sea-battle.json](./264906-space-battle-sea-battle.json) |
 | Space Betrayers | 188068 | [188068-space-betrayers.json](./188068-space-betrayers.json) |
+| Space BloX | 119042 | [119042-space-blox.json](./119042-space-blox.json) |
 | Space Bomb | 120417 | [120417-space-bomb.json](./120417-space-bomb.json) |
 | Space Bunny Explorers | 208596 | [208596-space-bunny-explorers.json](./208596-space-bunny-explorers.json) |
 | Space City: Build Your Empire | 199662 | [199662-space-city-build-your-empire.json](./199662-space-city-build-your-empire.json) |
@@ -1457,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Start! Heart Thief | 165011 | [165011-start-heart-thief.json](./165011-start-heart-thief.json) |
 | Startenders: Intergalactic Bartending | 187509 | [187509-startenders-intergalactic-bartending.json](./187509-startenders-intergalactic-bartending.json) |
 | StartPlay | 339669 | [339669-startplay.json](./339669-startplay.json) |
+| StarWheels | 119041 | [119041-starwheels.json](./119041-starwheels.json) |
 | Starwisp Hyperdrive | 217023 | [217023-starwisp-hyperdrive.json](./217023-starwisp-hyperdrive.json) |
 | State of Decay 2: Daybreak Pack | 194647 | [194647-state-of-decay-2-daybreak-pack.json](./194647-state-of-decay-2-daybreak-pack.json) |
 | Static Cling | 182519 | [182519-static-cling.json](./182519-static-cling.json) |
@@ -1690,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Village | 236513 | [236513-summer-village.json](./236513-summer-village.json) |
 | Summer With You | 195234 | [195234-summer-with-you.json](./195234-summer-with-you.json) |
 | Summit | 163453 | [163453-summit.json](./163453-summit.json) |
+| Summit of the Wolf | 119033 | [119033-summit-of-the-wolf.json](./119033-summit-of-the-wolf.json) |
 | Summon | 263754 | [263754-summon.json](./263754-summon.json) |
 | Summon My Girl | 278702 | [278702-summon-my-girl.json](./278702-summon-my-girl.json) |
 | Summoner's Sky | 295562 | [295562-summoners-sky.json](./295562-summoners-sky.json) |
