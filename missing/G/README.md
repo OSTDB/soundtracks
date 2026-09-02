@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | G Warrior | 278666 | [278666-g-warrior.json](./278666-g-warrior.json) |
 | G-Force Fighters | 243938 | [243938-g-force-fighters.json](./243938-g-force-fighters.json) |
+| G-Mode Archives 08: Pucchin Puzzle | 137678 | [137678-g-mode-archives-08-pucchin-puzzle.json](./137678-g-mode-archives-08-pucchin-puzzle.json) |
 | G-Mode Archives 44: Dragon x Dragon | 241041 | [241041-g-mode-archives-44-dragon-x-dragon.json](./241041-g-mode-archives-44-dragon-x-dragon.json) |
 | G-Mode Archives+: Saiko Mystery Series Vol.5 - Cold Rain | 276453 | [276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json](./276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json) |
 | G-ump | 260398 | [260398-g-ump.json](./260398-g-ump.json) |
@@ -46,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Ballerina | 293415 | [293415-galaxy-ballerina.json](./293415-galaxy-ballerina.json) |
 | Galaxy Express Chaldea | 339113 | [339113-galaxy-express-chaldea.json](./339113-galaxy-express-chaldea.json) |
 | Galaxy Hero H2H | 233207 | [233207-galaxy-hero-h2h.json](./233207-galaxy-hero-h2h.json) |
+| Galaxy Hunter: Into the Portal | 137639 | [137639-galaxy-hunter-into-the-portal.json](./137639-galaxy-hunter-into-the-portal.json) |
 | Galaxy of Pen and Paper +1 Edition | 205270 | [205270-galaxy-of-pen-and-paper-1-edition.json](./205270-galaxy-of-pen-and-paper-1-edition.json) |
 | Galaxy on Fire: Alliances | 261530 | [261530-galaxy-on-fire-alliances.json](./261530-galaxy-on-fire-alliances.json) |
 | Galaxy Trader | 175402 | [175402-galaxy-trader.json](./175402-galaxy-trader.json) |
@@ -358,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goldrush | 314035 | [314035-goldrush.json](./314035-goldrush.json) |
 | Goldspace | 184643 | [184643-goldspace.json](./184643-goldspace.json) |
 | GoldStorm Pirates | 326948 | [326948-goldstorm-pirates.json](./326948-goldstorm-pirates.json) |
+| Golf Master | 137673 | [137673-golf-master.json](./137673-golf-master.json) |
 | Golf Monster | 156670 | [156670-golf-monster.json](./156670-golf-monster.json) |
 | Golf Up Tropical | 337990 | [337990-golf-up-tropical.json](./337990-golf-up-tropical.json) |
 | Golf With Your Friends 2 | 325850 | [325850-golf-with-your-friends-2.json](./325850-golf-with-your-friends-2.json) |
@@ -564,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gulag | 268773 | [268773-gulag.json](./268773-gulag.json) |
 | Gulu: A Tail's Journey | 215354 | [215354-gulu-a-tails-journey.json](./215354-gulu-a-tails-journey.json) |
 | Gum Droppers | 140608 | [140608-gum-droppers.json](./140608-gum-droppers.json) |
+| Gumchu Girl | 137682 | [137682-gumchu-girl.json](./137682-gumchu-girl.json) |
 | Gummy Slide | 251236 | [251236-gummy-slide.json](./251236-gummy-slide.json) |
 | Gumnaam | 215353 | [215353-gumnaam.json](./215353-gumnaam.json) |
 | Gump Jump | 209647 | [209647-gump-jump.json](./209647-gump-jump.json) |
