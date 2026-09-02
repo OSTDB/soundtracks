@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coat of Many Feathers | 318780 | [318780-coat-of-many-feathers.json](./318780-coat-of-many-feathers.json) |
 | Cobra Kai 2: Dojos Rising Nemesis Pack | 263194 | [263194-cobra-kai-2-dojos-rising-nemesis-pack.json](./263194-cobra-kai-2-dojos-rising-nemesis-pack.json) |
 | Cocked and Loaded | 278671 | [278671-cocked-and-loaded.json](./278671-cocked-and-loaded.json) |
+| Cockhead | 130937 | [130937-cockhead.json](./130937-cockhead.json) |
 | Cocktail Magic | 260411 | [260411-cocktail-magic.json](./260411-cocktail-magic.json) |
 | Coco Bandicoot: Tiger Ride | 314658 | [314658-coco-bandicoot-tiger-ride.json](./314658-coco-bandicoot-tiger-ride.json) |
 | Code Adventure | 179182 | [179182-code-adventure.json](./179182-code-adventure.json) |
@@ -656,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collapsed Galaxy II | 248895 | [248895-collapsed-galaxy-ii.json](./248895-collapsed-galaxy-ii.json) |
 | Collapsing | 258713 | [258713-collapsing.json](./258713-collapsing.json) |
 | Collection of Most Awful Things that Could Ever Happen on St. Valentine's Day | 319985 | [319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json](./319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json) |
+| Collector | 130936 | [130936-collector.json](./130936-collector.json) |
 | Collector's Edition: 101 Incredible Games! | 205799 | [205799-collectors-edition-101-incredible-games.json](./205799-collectors-edition-101-incredible-games.json) |
 | College Bound: Episode 4 | 207504 | [207504-college-bound-episode-4.json](./207504-college-bound-episode-4.json) |
 | College Craze | 210863 | [210863-college-craze.json](./210863-college-craze.json) |
