@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Football 2019 | 116353 | [116353-real-football-2019.json](./116353-real-football-2019.json) |
 | Real Hentai Situation! 2 | 194628 | [194628-real-hentai-situation-2.json](./194628-real-hentai-situation-2.json) |
 | Real Life Day: Threesome | 313508 | [313508-real-life-day-threesome.json](./313508-real-life-day-threesome.json) |
+| Real Miami Street Gangsters Crime Mafia Glory Lord | 101586 | [101586-real-miami-street-gangsters-crime-mafia-glory-lord.json](./101586-real-miami-street-gangsters-crime-mafia-glory-lord.json) |
 | Real Motocross Driving Simulator | 259814 | [259814-real-motocross-driving-simulator.json](./259814-real-motocross-driving-simulator.json) |
 | Real Rally | 240493 | [240493-real-rally.json](./240493-real-rally.json) |
 | Real Soccer 2007 | 116347 | [116347-real-soccer-2007.json](./116347-real-soccer-2007.json) |
@@ -817,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rothdam! | 196865 | [196865-rothdam.json](./196865-rothdam.json) |
 | Roto Force | 191870 | [191870-roto-force.json](./191870-roto-force.json) |
 | RotoDefendo | 137055 | [137055-rotodefendo.json](./137055-rotodefendo.json) |
+| Rotten Escape | 101542 | [101542-rotten-escape.json](./101542-rotten-escape.json) |
 | Rotting Crescendo | 136441 | [136441-rotting-crescendo.json](./136441-rotting-crescendo.json) |
 | Rotund Rebound | 117060 | [117060-rotund-rebound.json](./117060-rotund-rebound.json) |
 | Rouge Tank | 295548 | [295548-rouge-tank.json](./295548-rouge-tank.json) |
