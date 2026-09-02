@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage and Monsters | 209682 | [209682-mage-and-monsters.json](./209682-mage-and-monsters.json) |
 | Mage Mania | 120408 | [120408-mage-mania.json](./120408-mage-mania.json) |
 | Mage March | 185155 | [185155-mage-march.json](./185155-mage-march.json) |
+| Maggotmania | 109041 | [109041-maggotmania.json](./109041-maggotmania.json) |
 | Magi: Mind Game | 197917 | [197917-magi-mind-game.json](./197917-magi-mind-game.json) |
 | Magia X: Leta | 172158 | [172158-magia-x-leta.json](./172158-magia-x-leta.json) |
 | Magic & Sanctuary | 219784 | [219784-magic-and-sanctuary.json](./219784-magic-and-sanctuary.json) |
@@ -1263,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony World | 221943 | [221943-my-little-pony-world.json](./221943-my-little-pony-world.json) |
 | My Little Prince: A Jigsaw Puzzle Tale | 159852 | [159852-my-little-prince-a-jigsaw-puzzle-tale.json](./159852-my-little-prince-a-jigsaw-puzzle-tale.json) |
 | My Little Puppy | 335660 | [335660-my-little-puppy.json](./335660-my-little-puppy.json) |
+| My Little Riding Champion | 109006 | [109006-my-little-riding-champion.json](./109006-my-little-riding-champion.json) |
 | My Little Sister Callie | 321767 | [321767-my-little-sister-callie.json](./321767-my-little-sister-callie.json) |
 | My Lovely Dog Adventure | 263231 | [263231-my-lovely-dog-adventure.json](./263231-my-lovely-dog-adventure.json) |
 | My Moon Mart | 212467 | [212467-my-moon-mart.json](./212467-my-moon-mart.json) |
