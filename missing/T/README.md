@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tall Ships: Age of Sail | 256537 | [256537-tall-ships-age-of-sail.json](./256537-tall-ships-age-of-sail.json) |
 | Talon City: Death from Above | 214173 | [214173-talon-city-death-from-above.json](./214173-talon-city-death-from-above.json) |
 | Talon One: Bounty Hunter | 305521 | [305521-talon-one-bounty-hunter.json](./305521-talon-one-bounty-hunter.json) |
+| Talos VR | 102170 | [102170-talos-vr.json](./102170-talos-vr.json) |
 | Tamadog | 227503 | [227503-tamadog.json](./227503-tamadog.json) |
 | Tamagotchi Connection | 229942 | [229942-tamagotchi-connection.json](./229942-tamagotchi-connection.json) |
 | Tamagotchi Connection V2 | 229943 | [229943-tamagotchi-connection-v2.json](./229943-tamagotchi-connection-v2.json) |
@@ -178,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Battle Heroes: Iron Warfare | 120430 | [120430-tank-battle-heroes-iron-warfare.json](./120430-tank-battle-heroes-iron-warfare.json) |
 | Tank Master | 200733 | [200733-tank-master.json](./200733-tank-master.json) |
 | Tank Nova | 119790 | [119790-tank-nova.json](./119790-tank-nova.json) |
+| Tank rush | 102151 | [102151-tank-rush.json](./102151-tank-rush.json) |
 | Tank Stars | 104105 | [104105-tank-stars.json](./104105-tank-stars.json) |
 | Tank Sudoku | 190734 | [190734-tank-sudoku.json](./190734-tank-sudoku.json) |
 | Tank War Defender 3 | 175405 | [175405-tank-war-defender-3.json](./175405-tank-war-defender-3.json) |
@@ -203,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Rising | 242200 | [242200-tap-rising.json](./242200-tap-rising.json) |
 | Tap Soccer: Champions | 239891 | [239891-tap-soccer-champions.json](./239891-tap-soccer-champions.json) |
 | Tap Tap Ants | 232143 | [232143-tap-tap-ants.json](./232143-tap-tap-ants.json) |
+| Tap Tap Dunk | 102161 | [102161-tap-tap-dunk.json](./102161-tap-tap-dunk.json) |
 | Tap the Blocks | 214195 | [214195-tap-the-blocks.json](./214195-tap-the-blocks.json) |
 | Tapgym | 261515 | [261515-tapgym.json](./261515-tapgym.json) |
 | Tapioka Panic | 259829 | [259829-tapioka-panic.json](./259829-tapioka-panic.json) |
@@ -1383,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrive | 142499 | [142499-thrive.json](./142499-thrive.json) |
 | Throb of Lovegirl: A Ero Waifu TD | 175983 | [175983-throb-of-lovegirl-a-ero-waifu-td.json](./175983-throb-of-lovegirl-a-ero-waifu-td.json) |
 | Throne of Magic | 108502 | [108502-throne-of-magic.json](./108502-throne-of-magic.json) |
+| Through the Mist and Sky | 102179 | [102179-through-the-mist-and-sky.json](./102179-through-the-mist-and-sky.json) |
 | Throw Cubes into Brick Towers to Collapse Them | 134662 | [134662-throw-cubes-into-brick-towers-to-collapse-them.json](./134662-throw-cubes-into-brick-towers-to-collapse-them.json) |
 | Throw M | 319962 | [319962-throw-m.json](./319962-throw-m.json) |
 | Throw Me in the River | 149600 | [149600-throw-me-in-the-river.json](./149600-throw-me-in-the-river.json) |
@@ -1761,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toontown: The Grindworks | 333930 | [333930-toontown-the-grindworks.json](./333930-toontown-the-grindworks.json) |
 | Top Down Battlegrounds | 292850 | [292850-top-down-battlegrounds.json](./292850-top-down-battlegrounds.json) |
 | Top Down Racer | 107883 | [107883-top-down-racer.json](./107883-top-down-racer.json) |
+| Top Street Soccer | 102209 | [102209-top-street-soccer.json](./102209-top-street-soccer.json) |
 | Top Troops! | 228123 | [228123-top-troops.json](./228123-top-troops.json) |
 | Topgolf with Pro Putt | 143067 | [143067-topgolf-with-pro-putt.json](./143067-topgolf-with-pro-putt.json) |
 | Topic Twister | 254162 | [254162-topic-twister.json](./254162-topic-twister.json) |
@@ -2013,6 +2018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transworld Endless Skater | 241057 | [241057-transworld-endless-skater.json](./241057-transworld-endless-skater.json) |
 | Trap Adventure 2: Origins | 196322 | [196322-trap-adventure-2-origins.json](./196322-trap-adventure-2-origins.json) |
 | Trap Attack | 257107 | [257107-trap-attack.json](./257107-trap-attack.json) |
+| Trap Defense | 102174 | [102174-trap-defense.json](./102174-trap-defense.json) |
 | Trap for Winners | 115687 | [115687-trap-for-winners.json](./115687-trap-for-winners.json) |
 | Trap of Musk: Asia Night | 235481 | [235481-trap-of-musk-asia-night.json](./235481-trap-of-musk-asia-night.json) |
 | Trap of Musk: Europe Night | 237046 | [237046-trap-of-musk-europe-night.json](./237046-trap-of-musk-europe-night.json) |
@@ -2059,6 +2065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Star | 247746 | [247746-treasure-star.json](./247746-treasure-star.json) |
 | Treasures of the Aegean | 146900 | [146900-treasures-of-the-aegean.json](./146900-treasures-of-the-aegean.json) |
 | Treasures of the Aegean: Collector's Edition | 170031 | [170031-treasures-of-the-aegean-collectors-edition.json](./170031-treasures-of-the-aegean-collectors-edition.json) |
+| Treasures of the Ancients: Egypt | 102184 | [102184-treasures-of-the-ancients-egypt.json](./102184-treasures-of-the-ancients-egypt.json) |
 | Treasures of the Haunted Forest | 273645 | [273645-treasures-of-the-haunted-forest.json](./273645-treasures-of-the-haunted-forest.json) |
 | Trebuchet Town | 175993 | [175993-trebuchet-town.json](./175993-trebuchet-town.json) |
 | Tree Simulator 2022 | 152372 | [152372-tree-simulator-2022.json](./152372-tree-simulator-2022.json) |
