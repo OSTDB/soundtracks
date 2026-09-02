@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S7 Mexico | 218728 | [218728-s7-mexico.json](./218728-s7-mexico.json) |
 | Saadex: Perpetual Storm | 270933 | [270933-saadex-perpetual-storm.json](./270933-saadex-perpetual-storm.json) |
 | Sable Maze: Forbidden Garden & Sable Maze: Twelve Fears | 201822 | [201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json](./201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json) |
+| Sable Maze: Twelve Fears - Collector's Edition | 110347 | [110347-sable-maze-twelve-fears-collectors-edition.json](./110347-sable-maze-twelve-fears-collectors-edition.json) |
 | Sabotage Will Set Us Free | 181376 | [181376-sabotage-will-set-us-free.json](./181376-sabotage-will-set-us-free.json) |
 | Sabreman Stampede | 175948 | [175948-sabreman-stampede.json](./175948-sabreman-stampede.json) |
 | Saccharine Playground | 133436 | [133436-saccharine-playground.json](./133436-saccharine-playground.json) |
@@ -142,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage Tower Defense | 158715 | [158715-savage-tower-defense.json](./158715-savage-tower-defense.json) |
 | Save City R | 260399 | [260399-save-city-r.json](./260399-save-city-r.json) |
 | Save Da Frogs | 237047 | [237047-save-da-frogs.json](./237047-save-da-frogs.json) |
+| Save HomeWorld | 110370 | [110370-save-homeworld.json](./110370-save-homeworld.json) |
 | Save My Sister | 257679 | [257679-save-my-sister.json](./257679-save-my-sister.json) |
 | Save the Fish! | 152919 | [152919-save-the-fish.json](./152919-save-the-fish.json) |
 | Save the Pirate: Sea Story | 166764 | [166764-save-the-pirate-sea-story.json](./166764-save-the-pirate-sea-story.json) |
@@ -1332,6 +1334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Shift | 181365 | [181365-spirit-shift.json](./181365-spirit-shift.json) |
 | Spirit Timer | 223666 | [223666-spirit-timer.json](./223666-spirit-timer.json) |
 | Spiritle | 151731 | [151731-spiritle.json](./151731-spiritle.json) |
+| Spirits of Mystery: Chains of Promise - Collector's Edition | 110346 | [110346-spirits-of-mystery-chains-of-promise-collectors-edition.json](./110346-spirits-of-mystery-chains-of-promise-collectors-edition.json) |
 | Spirits of the Silicium Forest | 237049 | [237049-spirits-of-the-silicium-forest.json](./237049-spirits-of-the-silicium-forest.json) |
 | Spirulena Interceptor | 291231 | [291231-spirulena-interceptor.json](./291231-spirulena-interceptor.json) |
 | Spiteful Lovers in a Perfect World | 308539 | [308539-spiteful-lovers-in-a-perfect-world.json](./308539-spiteful-lovers-in-a-perfect-world.json) |
@@ -1455,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Tank | 169457 | [169457-star-tank.json](./169457-star-tank.json) |
 | Star Trek | 247203 | [247203-star-trek.json](./247203-star-trek.json) |
 | Star Trek Alien Domain: Incursion | 123597 | [123597-star-trek-alien-domain-incursion.json](./123597-star-trek-alien-domain-incursion.json) |
+| Star Trek: En Territoire Alien | 110351 | [110351-star-trek-en-territoire-alien.json](./110351-star-trek-en-territoire-alien.json) |
 | Star Vortex | 154021 | [154021-star-vortex.json](./154021-star-vortex.json) |
 | Star Wars | 212479 | [212479-star-wars.json](./212479-star-wars.json) |
 | Star Wars Battlefront: Hoth Bundle | 115714 | [115714-star-wars-battlefront-hoth-bundle.json](./115714-star-wars-battlefront-hoth-bundle.json) |
