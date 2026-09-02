@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless War 7 | 234926 | [234926-endless-war-7.json](./234926-endless-war-7.json) |
 | Endless Zombie Tower | 151172 | [151172-endless-zombie-tower.json](./151172-endless-zombie-tower.json) |
 | Endless Zone | 140043 | [140043-endless-zone.json](./140043-endless-zone.json) |
+| EndlessHell | 117046 | [117046-endlesshell.json](./117046-endlesshell.json) |
 | Endline | 144984 | [144984-endline.json](./144984-endline.json) |
 | Endocrisis Hyperactive | 173294 | [173294-endocrisis-hyperactive.json](./173294-endocrisis-hyperactive.json) |
 | Endquest | 268763 | [268763-endquest.json](./268763-endquest.json) |
@@ -263,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epejsodion Dodgeball Defense | 166748 | [166748-epejsodion-dodgeball-defense.json](./166748-epejsodion-dodgeball-defense.json) |
 | Epic Battle Fantasy Collection | 199653 | [199653-epic-battle-fantasy-collection.json](./199653-epic-battle-fantasy-collection.json) |
 | Epic Battle Fantasy: Adventure Story | 143725 | [143725-epic-battle-fantasy-adventure-story.json](./143725-epic-battle-fantasy-adventure-story.json) |
+| Epic Food Fight VR | 117075 | [117075-epic-food-fight-vr.json](./117075-epic-food-fight-vr.json) |
 | Epic Party Clicker | 314632 | [314632-epic-party-clicker.json](./314632-epic-party-clicker.json) |
 | Epsilon wars | 167296 | [167296-epsilon-wars.json](./167296-epsilon-wars.json) |
 | Equinox | 197403 | [197403-equinox.json](./197403-equinox.json) |
@@ -430,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EXO Encounter 667 | 179188 | [179188-exo-encounter-667.json](./179188-exo-encounter-667.json) |
 | Exo-Leviathan | 259284 | [259284-exo-leviathan.json](./259284-exo-leviathan.json) |
 | ExoCorps | 121018 | [121018-exocorps.json](./121018-exocorps.json) |
+| Exogen VR Experience | 117049 | [117049-exogen-vr-experience.json](./117049-exogen-vr-experience.json) |
 | Exoprimal: Barrage Splash! Set | 256550 | [256550-exoprimal-barrage-splash-set.json](./256550-exoprimal-barrage-splash-set.json) |
 | Exoprimal: Deadeye QB-W Set | 256547 | [256547-exoprimal-deadeye-qb-w-set.json](./256547-exoprimal-deadeye-qb-w-set.json) |
 | Exoprimal: Krieger Alpha Tin Machine Set | 298328 | [298328-exoprimal-krieger-alpha-tin-machine-set.json](./298328-exoprimal-krieger-alpha-tin-machine-set.json) |
