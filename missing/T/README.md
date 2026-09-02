@@ -67,6 +67,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taipei Metro Quest | 178664 | [178664-taipei-metro-quest.json](./178664-taipei-metro-quest.json) |
 | Taipei Midsummer Night's Dream | 339104 | [339104-taipei-midsummer-nights-dream.json](./339104-taipei-midsummer-nights-dream.json) |
 | Taisho Zombi Roman (Plus) | 150657 | [150657-taisho-zombi-roman-plus.json](./150657-taisho-zombi-roman-plus.json) |
+| Taishou Mebiusline Hitotsumi | 141897 | [141897-taishou-mebiusline-hitotsumi.json](./141897-taishou-mebiusline-hitotsumi.json) |
+| Taishou Mebiusline Teito Bibouroku Hare | 141895 | [141895-taishou-mebiusline-teito-bibouroku-hare.json](./141895-taishou-mebiusline-teito-bibouroku-hare.json) |
+| Taishou Mebiusline Vitable | 141896 | [141896-taishou-mebiusline-vitable.json](./141896-taishou-mebiusline-vitable.json) |
 | Taiyo No Miyako | 221422 | [221422-taiyo-no-miyako.json](./221422-taiyo-no-miyako.json) |
 | Taiyou no Tenshi Marlowe: Ohanabatake ha Dai-Panic! | 331117 | [331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json](./331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json) |
 | Tak: The Great Juju Challenge | 210254 | [210254-tak-the-great-juju-challenge.json](./210254-tak-the-great-juju-challenge.json) |
@@ -413,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Case of the Serialized Killer | 209720 | [209720-the-case-of-the-serialized-killer.json](./209720-the-case-of-the-serialized-killer.json) |
 | The Casino: Roulette, Video Poker, Slot Machines, Craps, Baccarat | 147952 | [147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json](./147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json) |
 | The Cat Maze | 218709 | [218709-the-cat-maze.json](./218709-the-cat-maze.json) |
+| The Catch: Carp & Coarse - Collector's Edition | 141891 | [141891-the-catch-carp-and-coarse-collectors-edition.json](./141891-the-catch-carp-and-coarse-collectors-edition.json) |
 | The Catch! | 262074 | [262074-the-catch.json](./262074-the-catch.json) |
 | The Cats of Ulthar | 182557 | [182557-the-cats-of-ulthar.json](./182557-the-cats-of-ulthar.json) |
 | The Cell | 307965 | [307965-the-cell.json](./307965-the-cell.json) |
@@ -1547,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tornado | 266469 | [266469-tornado.json](./266469-tornado.json) |
 | Toro to Typing | 246071 | [246071-toro-to-typing.json](./246071-toro-to-typing.json) |
 | Toro's Story App: Heart Pounding Nya | 246074 | [246074-toros-story-app-heart-pounding-nya.json](./246074-toros-story-app-heart-pounding-nya.json) |
+| Torqued Up Legends | 141879 | [141879-torqued-up-legends.json](./141879-torqued-up-legends.json) |
 | Torture | 276458 | [276458-torture.json](./276458-torture.json) |
 | Torus | 214725 | [214725-torus.json](./214725-torus.json) |
 | Toska | 334482 | [334482-toska.json](./334482-toska.json) |
@@ -1879,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuff Stuff | 317614 | [317614-tuff-stuff.json](./317614-tuff-stuff.json) |
 | Tuk Tuk Taxi | 272573 | [272573-tuk-tuk-taxi.json](./272573-tuk-tuk-taxi.json) |
 | TukTuk | 214757 | [214757-tuktuk.json](./214757-tuktuk.json) |
+| Tuma-7 | 141842 | [141842-tuma-7.json](./141842-tuma-7.json) |
 | Tumble Baby | 182521 | [182521-tumble-baby.json](./182521-tumble-baby.json) |
 | Tumble Ball | 295567 | [295567-tumble-ball.json](./295567-tumble-ball.json) |
 | Tumble Toys: Aviation | 215897 | [215897-tumble-toys-aviation.json](./215897-tumble-toys-aviation.json) |
@@ -1926,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Dragons | 159356 | [159356-twin-dragons.json](./159356-twin-dragons.json) |
 | Twin Mind: Nobody's Here | 228076 | [228076-twin-mind-nobodys-here.json](./228076-twin-mind-nobodys-here.json) |
 | Twin Shot 2: Good & Evil | 180291 | [180291-twin-shot-2-good-and-evil.json](./180291-twin-shot-2-good-and-evil.json) |
+| Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
 | Twist & Turn | 255960 | [255960-twist-and-turn.json](./255960-twist-and-turn.json) |
 | Twisted Citadel | 182526 | [182526-twisted-citadel.json](./182526-twisted-citadel.json) |
 | Twisted Draw | 199649 | [199649-twisted-draw.json](./199649-twisted-draw.json) |
