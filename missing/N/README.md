@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA the Run | 309667 | [309667-nba-the-run.json](./309667-nba-the-run.json) |
 | NCAA Football 09: All-Play | 137060 | [137060-ncaa-football-09-all-play.json](./137060-ncaa-football-09-all-play.json) |
 | Near Bird | 113700 | [113700-near-bird.json](./113700-near-bird.json) |
+| NearEscape | 109685 | [109685-nearescape.json](./109685-nearescape.json) |
 | Nebula | 197412 | [197412-nebula.json](./197412-nebula.json) |
 | NebuLeet | 304884 | [304884-nebuleet.json](./304884-nebuleet.json) |
 | Nebuli | 157720 | [157720-nebuli.json](./157720-nebuli.json) |
@@ -260,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Gal Summer | 229340 | [229340-night-gal-summer.json](./229340-night-gal-summer.json) |
 | Night Guard: The Last Shift | 177533 | [177533-night-guard-the-last-shift.json](./177533-night-guard-the-last-shift.json) |
 | Night Intruders | 184089 | [184089-night-intruders.json](./184089-night-intruders.json) |
+| Night Magic | 109747 | [109747-night-magic.json](./109747-night-magic.json) |
 | Night of Horror | 247222 | [247222-night-of-horror.json](./247222-night-of-horror.json) |
 | Night of the Dead: Beginner Pack | 293407 | [293407-night-of-the-dead-beginner-pack.json](./293407-night-of-the-dead-beginner-pack.json) |
 | Night of the Dead: Civilian Combatant Pack | 293408 | [293408-night-of-the-dead-civilian-combatant-pack.json](./293408-night-of-the-dead-civilian-combatant-pack.json) |
