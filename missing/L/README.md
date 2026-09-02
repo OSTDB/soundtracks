@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luberman and the Legend of Animals Warriors | 208580 | [208580-luberman-and-the-legend-of-animals-warriors.json](./208580-luberman-and-the-legend-of-animals-warriors.json) |
 | Lucha Libre AAA: Héroes del Ring | 264875 | [264875-lucha-libre-aaa-heroes-del-ring.json](./264875-lucha-libre-aaa-heroes-del-ring.json) |
 | Luci RPG | 228678 | [228678-luci-rpg.json](./228678-luci-rpg.json) |
+| Lucid Adventure Idle RPG | 143079 | [143079-lucid-adventure-idle-rpg.json](./143079-lucid-adventure-idle-rpg.json) |
 | Lucid Dream | 202933 | [202933-lucid-dream.json](./202933-lucid-dream.json) |
 | Luciel Angel Mission | 314060 | [314060-luciel-angel-mission.json](./314060-luciel-angel-mission.json) |
 | LuckLand | 260423 | [260423-luckland.json](./260423-luckland.json) |
