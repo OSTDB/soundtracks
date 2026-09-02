@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 23: All Madden Edition | 204081 | [204081-madden-nfl-23-all-madden-edition.json](./204081-madden-nfl-23-all-madden-edition.json) |
 | Madden NFL 24: Deluxe Edition | 252388 | [252388-madden-nfl-24-deluxe-edition.json](./252388-madden-nfl-24-deluxe-edition.json) |
 | Madden NFL 96 | 240486 | [240486-madden-nfl-96.json](./240486-madden-nfl-96.json) |
+| Made in Abyss: Binary Star Falling into Darkness - Collector's Edition | 150144 | [150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json](./150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json) |
 | Made of DIrt | 185691 | [185691-made-of-dirt.json](./185691-made-of-dirt.json) |
 | Madness Interactive Reloaded | 331704 | [331704-madness-interactive-reloaded.json](./331704-madness-interactive-reloaded.json) |
 | Madvent Calendar 3 Necrosis | 229375 | [229375-madvent-calendar-3-necrosis.json](./229375-madvent-calendar-3-necrosis.json) |
@@ -119,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Sure It's Closed | 176491 | [176491-make-sure-its-closed.json](./176491-make-sure-its-closed.json) |
 | Make the Border Great Again: Visa Officer Simulator | 326401 | [326401-make-the-border-great-again-visa-officer-simulator.json](./326401-make-the-border-great-again-visa-officer-simulator.json) |
 | Make the World a Better Place | 248326 | [248326-make-the-world-a-better-place.json](./248326-make-the-world-a-better-place.json) |
+| Makoto Mobius | 150152 | [150152-makoto-mobius.json](./150152-makoto-mobius.json) |
 | Makoto Wakaido's Case Files: Executioner's Wedge | 245045 | [245045-makoto-wakaidos-case-files-executioners-wedge.json](./245045-makoto-wakaidos-case-files-executioners-wedge.json) |
 | Malice | 208608 | [208608-malice.json](./208608-malice.json) |
 | MaliceWave | 274768 | [274768-malicewave.json](./274768-malicewave.json) |
@@ -195,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart: Virtual Cup | 195211 | [195211-mario-kart-virtual-cup.json](./195211-mario-kart-virtual-cup.json) |
 | Mario Net Quest | 246087 | [246087-mario-net-quest.json](./246087-mario-net-quest.json) |
 | Mario Paint 64 | 175957 | [175957-mario-paint-64.json](./175957-mario-paint-64.json) |
+| Mario Paint BS Ban: Yuushou Sakuhin Naizou Version | 150147 | [150147-mario-paint-bs-ban-yuushou-sakuhin-naizou-version.json](./150147-mario-paint-bs-ban-yuushou-sakuhin-naizou-version.json) |
 | Mario Party 3 StarStruck | 248306 | [248306-mario-party-3-starstruck.json](./248306-mario-party-3-starstruck.json) |
 | Mario Party 4 | 231603 | [231603-mario-party-4.json](./231603-mario-party-4.json) |
 | Mario Party 7 Bon Voyage | 231602 | [231602-mario-party-7-bon-voyage.json](./231602-mario-party-7-bon-voyage.json) |
@@ -424,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowingtons Simulator | 326384 | [326384-meowingtons-simulator.json](./326384-meowingtons-simulator.json) |
 | Mer Wars | 264310 | [264310-mer-wars.json](./264310-mer-wars.json) |
 | Mercury | 248333 | [248333-mercury.json](./248333-mercury.json) |
+| Mercury no Aoi Suna | 150125 | [150125-mercury-no-aoi-suna.json](./150125-mercury-no-aoi-suna.json) |
 | Mercury Prime | 157675 | [157675-mercury-prime.json](./157675-mercury-prime.json) |
 | Mercury Rising | 332809 | [332809-mercury-rising.json](./332809-mercury-rising.json) |
 | Merely A Chip | 309129 | [309129-merely-a-chip.json](./309129-merely-a-chip.json) |
@@ -569,10 +573,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milkblood | 241031 | [241031-milkblood.json](./241031-milkblood.json) |
 | Milky Bear Rescue Rocket | 221971 | [221971-milky-bear-rescue-rocket.json](./221971-milky-bear-rescue-rocket.json) |
 | Milky Quest II | 232654 | [232654-milky-quest-ii.json](./232654-milky-quest-ii.json) |
+| Millefiori | 150155 | [150155-millefiori.json](./150155-millefiori.json) |
 | Millennium Mission | 274731 | [274731-millennium-mission.json](./274731-millennium-mission.json) |
 | Mills of Morris | 291763 | [291763-mills-of-morris.json](./291763-mills-of-morris.json) |
 | Milo | 187525 | [187525-milo.json](./187525-milo.json) |
 | Milthm | 258703 | [258703-milthm.json](./258703-milthm.json) |
+| Milya[broken] | 150128 | [150128-milya-broken.json](./150128-milya-broken.json) |
 | Mima's Magical Wardrobe | 325817 | [325817-mimas-magical-wardrobe.json](./325817-mimas-magical-wardrobe.json) |
 | Mimic Search | 278678 | [278678-mimic-search.json](./278678-mimic-search.json) |
 | Mimizu Panzer | 267645 | [267645-mimizu-panzer.json](./267645-mimizu-panzer.json) |
@@ -763,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Forward | 295553 | [295553-monkey-forward.json](./295553-monkey-forward.json) |
 | Monkey King vs Transformers | 156160 | [156160-monkey-king-vs-transformers.json](./156160-monkey-king-vs-transformers.json) |
 | Monmusu Gladiator | 151749 | [151749-monmusu-gladiator.json](./151749-monmusu-gladiator.json) |
+| Monochro | 150164 | [150164-monochro.json](./150164-monochro.json) |
 | Monochrome Echoes: White | 331114 | [331114-monochrome-echoes-white.json](./331114-monochrome-echoes-white.json) |
 | Monochrome Mobius: Rights and Wrongs Forgotten - Deluxe Edition | 247196 | [247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json](./247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json) |
 | Monochrome RPG Episode 1: The Maniacal Morning | 152894 | [152894-monochrome-rpg-episode-1-the-maniacal-morning.json](./152894-monochrome-rpg-episode-1-the-maniacal-morning.json) |
@@ -980,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muddy Heights | 223678 | [223678-muddy-heights.json](./223678-muddy-heights.json) |
 | MudGate | 217009 | [217009-mudgate.json](./217009-mudgate.json) |
 | Muffins on Stream | 239307 | [239307-muffins-on-stream.json](./239307-muffins-on-stream.json) |
+| Mugamuchuu | 150166 | [150166-mugamuchuu.json](./150166-mugamuchuu.json) |
 | Mugen no Shinzou II | 246656 | [246656-mugen-no-shinzou-ii.json](./246656-mugen-no-shinzou-ii.json) |
 | Mugen RPG | 301613 | [301613-mugen-rpg.json](./301613-mugen-rpg.json) |
 | Mugogy Jump | 298300 | [298300-mugogy-jump.json](./298300-mugogy-jump.json) |
