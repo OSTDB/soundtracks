@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taravana | 132251 | [132251-taravana.json](./132251-taravana.json) |
 | Target | 190705 | [190705-target.json](./190705-target.json) |
 | Target Practice | 167303 | [167303-target-practice.json](./167303-target-practice.json) |
+| Taro | 126637 | [126637-taro.json](./126637-taro.json) |
 | Task Force 88: Hostile Contact | 179209 | [179209-task-force-88-hostile-contact.json](./179209-task-force-88-hostile-contact.json) |
 | Tasogare | 313493 | [313493-tasogare.json](./313493-tasogare.json) |
 | Tasty Love | 192453 | [192453-tasty-love.json](./192453-tasty-love.json) |
@@ -591,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ferry | 319378 | [319378-the-ferry.json](./319378-the-ferry.json) |
 | The Few | 211932 | [211932-the-few.json](./211932-the-few.json) |
 | The Fifth Paradox | 232710 | [232710-the-fifth-paradox.json](./232710-the-fifth-paradox.json) |
+| The Final Earth 2 | 126651 | [126651-the-final-earth-2.json](./126651-the-final-earth-2.json) |
 | The Final Heist | 184640 | [184640-the-final-heist.json](./184640-the-final-heist.json) |
 | The Final Ultra Super Duper Cube Cavern Deluxe GOTY Edition | 309115 | [309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json](./309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json) |
 | The Finals: Season 3 Starter Pack | 305527 | [305527-the-finals-season-3-starter-pack.json](./305527-the-finals-season-3-starter-pack.json) |
@@ -753,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Wulin | 156148 | [156148-the-last-wulin.json](./156148-the-last-wulin.json) |
 | The Late D. Flate's Great Estate | 188090 | [188090-the-late-d-flates-great-estate.json](./188090-the-late-d-flates-great-estate.json) |
 | The Legacy of Lunatic Omsk | 321748 | [321748-the-legacy-of-lunatic-omsk.json](./321748-the-legacy-of-lunatic-omsk.json) |
+| The Legend of Arcadieu | 126635 | [126635-the-legend-of-arcadieu.json](./126635-the-legend-of-arcadieu.json) |
 | The Legend of Azarias Rebirth | 294994 | [294994-the-legend-of-azarias-rebirth.json](./294994-the-legend-of-azarias-rebirth.json) |
 | The Legend of Banjo-Kazooie: The Bear Waker | 135261 | [135261-the-legend-of-banjo-kazooie-the-bear-waker.json](./135261-the-legend-of-banjo-kazooie-the-bear-waker.json) |
 | The Legend of Eight Dragons | 145653 | [145653-the-legend-of-eight-dragons.json](./145653-the-legend-of-eight-dragons.json) |
@@ -1053,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sorrowvirus | 245014 | [245014-the-sorrowvirus.json](./245014-the-sorrowvirus.json) |
 | The Soul of Dracula | 242797 | [242797-the-soul-of-dracula.json](./242797-the-soul-of-dracula.json) |
 | The Soul Ring of Soro: Divine Realm | 301603 | [301603-the-soul-ring-of-soro-divine-realm.json](./301603-the-soul-ring-of-soro-divine-realm.json) |
+| The Source of the Nightmare Storms | 126625 | [126625-the-source-of-the-nightmare-storms.json](./126625-the-source-of-the-nightmare-storms.json) |
 | The South Island | 304381 | [304381-the-south-island.json](./304381-the-south-island.json) |
 | The Spirit's Turnabout | 308532 | [308532-the-spirits-turnabout.json](./308532-the-spirits-turnabout.json) |
 | The Square Game | 130377 | [130377-the-square-game.json](./130377-the-square-game.json) |
@@ -1162,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Voice of Germany: Das offizielle Videospiel! | 332829 | [332829-the-voice-of-germany-das-offizielle-videospiel.json](./332829-the-voice-of-germany-das-offizielle-videospiel.json) |
 | The Voices Games 2D Collection | 208590 | [208590-the-voices-games-2d-collection.json](./208590-the-voices-games-2d-collection.json) |
 | The Vomit | 323535 | [323535-the-vomit.json](./323535-the-vomit.json) |
+| The VR Canyon | 126660 | [126660-the-vr-canyon.json](./126660-the-vr-canyon.json) |
 | The Walking Dead: Last Mile | 209152 | [209152-the-walking-dead-last-mile.json](./209152-the-walking-dead-last-mile.json) |
 | The Wall | 200750 | [200750-the-wall.json](./200750-the-wall.json) |
 | The Wanted Man's House | 313485 | [313485-the-wanted-mans-house.json](./313485-the-wanted-mans-house.json) |
@@ -1176,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way To Life | 329971 | [329971-the-way-to-life.json](./329971-the-way-to-life.json) |
 | The Weight of a Soul | 230546 | [230546-the-weight-of-a-soul.json](./230546-the-weight-of-a-soul.json) |
 | The Whisper of the Abyss: Echo of Eden | 311256 | [311256-the-whisper-of-the-abyss-echo-of-eden.json](./311256-the-whisper-of-the-abyss-echo-of-eden.json) |
+| The Wild Case | 126639 | [126639-the-wild-case.json](./126639-the-wild-case.json) |
 | The Wild Darkness | 212474 | [212474-the-wild-darkness.json](./212474-the-wild-darkness.json) |
 | The Wind's Disciple | 265935 | [265935-the-winds-disciple.json](./265935-the-winds-disciple.json) |
 | The Windows Are Gone | 267093 | [267093-the-windows-are-gone.json](./267093-the-windows-are-gone.json) |
@@ -2028,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Mind: Nobody's Here | 228076 | [228076-twin-mind-nobodys-here.json](./228076-twin-mind-nobodys-here.json) |
 | Twin Shot 2: Good & Evil | 180291 | [180291-twin-shot-2-good-and-evil.json](./180291-twin-shot-2-good-and-evil.json) |
 | Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
+| Twinora | 126636 | [126636-twinora.json](./126636-twinora.json) |
 | Twist & Turn | 255960 | [255960-twist-and-turn.json](./255960-twist-and-turn.json) |
 | Twisted Citadel | 182526 | [182526-twisted-citadel.json](./182526-twisted-citadel.json) |
 | Twisted Draw | 199649 | [199649-twisted-draw.json](./199649-twisted-draw.json) |
