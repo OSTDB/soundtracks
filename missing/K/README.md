@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamiwaza Wanda | 222531 | [222531-kamiwaza-wanda.json](./222531-kamiwaza-wanda.json) |
 | Kanban-mura | 310719 | [310719-kanban-mura.json](./310719-kanban-mura.json) |
 | Kandagawa Jet Girls: Ikaruga & Yomi Character Set | 225914 | [225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json](./225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json) |
+| Kandidatos | 146303 | [146303-kandidatos.json](./146303-kandidatos.json) |
 | Kangarumble | 185149 | [185149-kangarumble.json](./185149-kangarumble.json) |
 | Kanji Searcher | 151710 | [151710-kanji-searcher.json](./151710-kanji-searcher.json) |
 | Kanojo to Ore to Koibito to. | 194609 | [194609-kanojo-to-ore-to-koibito-to.json](./194609-kanojo-to-ore-to-koibito-to.json) |
@@ -51,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanzo | 236532 | [236532-kanzo.json](./236532-kanzo.json) |
 | Kapih | 332262 | [332262-kapih.json](./332262-kapih.json) |
 | Kappa Nittori-chan | 205790 | [205790-kappa-nittori-chan.json](./205790-kappa-nittori-chan.json) |
+| Karaoke Joysound for Nintendo Switch | 146313 | [146313-karaoke-joysound-for-nintendo-switch.json](./146313-karaoke-joysound-for-nintendo-switch.json) |
 | Karate Hero | 234318 | [234318-karate-hero.json](./234318-karate-hero.json) |
 | Kardiossomatic | 185137 | [185137-kardiossomatic.json](./185137-kardiossomatic.json) |
 | Kardun | 214183 | [214183-kardun.json](./214183-kardun.json) |
@@ -151,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Fighters 2002: 3rd Strike of the Orochi | 205791 | [205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json](./205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json) |
 | King of the Dwarves: Underground City Builder | 185700 | [185700-king-of-the-dwarves-underground-city-builder.json](./185700-king-of-the-dwarves-underground-city-builder.json) |
 | King of the Mountain: Premium | 174324 | [174324-king-of-the-mountain-premium.json](./174324-king-of-the-mountain-premium.json) |
+| King's Bounty II: Day One Edition | 146330 | [146330-kings-bounty-ii-day-one-edition.json](./146330-kings-bounty-ii-day-one-edition.json) |
 | King's Bounty II: Lord's Edition | 155100 | [155100-kings-bounty-ii-lords-edition.json](./155100-kings-bounty-ii-lords-edition.json) |
 | King's Choice | 186308 | [186308-kings-choice.json](./186308-kings-choice.json) |
 | King's Dungeon | 228691 | [228691-kings-dungeon.json](./228691-kings-dungeon.json) |
