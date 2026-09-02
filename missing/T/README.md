@@ -1059,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Everyday Stuff Bundle | 159341 | [159341-the-sims-4-everyday-stuff-bundle.json](./159341-the-sims-4-everyday-stuff-bundle.json) |
 | The Sims 4: Extreme Violence | 259250 | [259250-the-sims-4-extreme-violence.json](./259250-the-sims-4-extreme-violence.json) |
 | The Sims 4: Kids Room Stuff | 121023 | [121023-the-sims-4-kids-room-stuff.json](./121023-the-sims-4-kids-room-stuff.json) |
+| The Sims 4: Legacy Edition | 116388 | [116388-the-sims-4-legacy-edition.json](./116388-the-sims-4-legacy-edition.json) |
 | The Sims 4: Life and Death | 316426 | [316426-the-sims-4-life-and-death.json](./316426-the-sims-4-life-and-death.json) |
 | The Sims 4: Live Lavishly Bundle | 159330 | [159330-the-sims-4-live-lavishly-bundle.json](./159330-the-sims-4-live-lavishly-bundle.json) |
 | The Sims 4: Outdoor Bundle | 159339 | [159339-the-sims-4-outdoor-bundle.json](./159339-the-sims-4-outdoor-bundle.json) |
@@ -1261,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Reserve Cosmetics Bundle 1 | 271466 | [271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json](./271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json) |
 | TheHunter: Call of the Wild - Sundarpatan Nepal Hunting Reserve | 305517 | [305517-thehunter-call-of-the-wild-sundarpatan-nepal-hunting-reserve.json](./305517-thehunter-call-of-the-wild-sundarpatan-nepal-hunting-reserve.json) |
 | Them or Us | 216995 | [216995-them-or-us.json](./216995-them-or-us.json) |
+| TheMist | 116335 | [116335-themist.json](./116335-themist.json) |
 | Theomachiae | 172159 | [172159-theomachiae.json](./172159-theomachiae.json) |
 | Theory of Poltaran | 186314 | [186314-theory-of-poltaran.json](./186314-theory-of-poltaran.json) |
 | Therapist Simulator | 336378 | [336378-therapist-simulator.json](./336378-therapist-simulator.json) |
@@ -1569,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tizi Town: Airport Adventure | 227481 | [227481-tizi-town-airport-adventure.json](./227481-tizi-town-airport-adventure.json) |
 | Tkium Exclusion Area | 186335 | [186335-tkium-exclusion-area.json](./186335-tkium-exclusion-area.json) |
 | TKKG: Wer stoppt den Feuerteufel? | 158722 | [158722-tkkg-wer-stoppt-den-feuerteufel.json](./158722-tkkg-wer-stoppt-den-feuerteufel.json) |
+| Tlicolity Eyes Vol. 1 | 116379 | [116379-tlicolity-eyes-vol-1.json](./116379-tlicolity-eyes-vol-1.json) |
 | Tlicolity Eyes Vol. 2 | 240520 | [240520-tlicolity-eyes-vol-2.json](./240520-tlicolity-eyes-vol-2.json) |
 | Tlicolity Eyes Vol. 3 | 240521 | [240521-tlicolity-eyes-vol-3.json](./240521-tlicolity-eyes-vol-3.json) |
 | Tlicolity Eyes: Twinkle Showtime | 240522 | [240522-tlicolity-eyes-twinkle-showtime.json](./240522-tlicolity-eyes-twinkle-showtime.json) |
@@ -1985,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials 2 | 140577 | [140577-trials-2.json](./140577-trials-2.json) |
 | Trials in Tainted Space | 128001 | [128001-trials-in-tainted-space.json](./128001-trials-in-tainted-space.json) |
 | Trials of Yarbil | 325835 | [325835-trials-of-yarbil.json](./325835-trials-of-yarbil.json) |
+| Triangle Project Otome Visual Novels | 116382 | [116382-triangle-project-otome-visual-novels.json](./116382-triangle-project-otome-visual-novels.json) |
 | Triangle Strategy | 318779 | [318779-triangle-strategy.json](./318779-triangle-strategy.json) |
 | Triangle Wing XXXX | 133461 | [133461-triangle-wing-xxxx.json](./133461-triangle-wing-xxxx.json) |
 | Tribe of the Accord | 268221 | [268221-tribe-of-the-accord.json](./268221-tribe-of-the-accord.json) |
