@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paragon Pioneers | 206351 | [206351-paragon-pioneers.json](./206351-paragon-pioneers.json) |
 | Parallax | 292841 | [292841-parallax.json](./292841-parallax.json) |
 | Parallel Olympus | 156132 | [156132-parallel-olympus.json](./156132-parallel-olympus.json) |
+| Parallel World | 113026 | [113026-parallel-world.json](./113026-parallel-world.json) |
 | Parallel Worlds | 181373 | [181373-parallel-worlds.json](./181373-parallel-worlds.json) |
 | Paramedic Simulator | 141858 | [141858-paramedic-simulator.json](./141858-paramedic-simulator.json) |
 | Paramedics! | 270958 | [270958-paramedics.json](./270958-paramedics.json) |
