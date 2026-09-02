@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl's Memories | 295569 | [295569-girls-memories.json](./295569-girls-memories.json) |
 | Girls Legend | 196303 | [196303-girls-legend.json](./196303-girls-legend.json) |
 | Girls! Girls! Girls!? | 219796 | [219796-girls-girls-girls.json](./219796-girls-girls-girls.json) |
+| GiseiHero | 149096 | [149096-giseihero.json](./149096-giseihero.json) |
 | GizmoLab VR | 290682 | [290682-gizmolab-vr.json](./290682-gizmolab-vr.json) |
 | Gizmos: Spirit of the Christmas | 156678 | [156678-gizmos-spirit-of-the-christmas.json](./156678-gizmos-spirit-of-the-christmas.json) |
 | Gladiator | 194615 | [194615-gladiator.json](./194615-gladiator.json) |
