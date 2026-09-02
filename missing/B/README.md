@@ -359,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beluflin: Beautiful Luminous Flying Insects | 325268 | [325268-beluflin-beautiful-luminous-flying-insects.json](./325268-beluflin-beautiful-luminous-flying-insects.json) |
 | Bemuzed | 135908 | [135908-bemuzed.json](./135908-bemuzed.json) |
 | Ben 10 Bundle | 146329 | [146329-ben-10-bundle.json](./146329-ben-10-bundle.json) |
+| Ben 10 Game Generator | 130941 | [130941-ben-10-game-generator.json](./130941-ben-10-game-generator.json) |
 | Ben 10: Alien Experience | 196339 | [196339-ben-10-alien-experience.json](./196339-ben-10-alien-experience.json) |
 | Ben 10: Alien Force | 210256 | [210256-ben-10-alien-force.json](./210256-ben-10-alien-force.json) |
 | Ben 10: Galactic Racing | 210257 | [210257-ben-10-galactic-racing.json](./210257-ben-10-galactic-racing.json) |
@@ -492,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black/Matrix 00 | 137090 | [137090-black-matrix-00.json](./137090-black-matrix-00.json) |
 | Black/Matrix II | 229355 | [229355-black-matrix-ii.json](./229355-black-matrix-ii.json) |
 | Blackbox | 328240 | [328240-blackbox.json](./328240-blackbox.json) |
+| BlackBox | 130951 | [130951-blackbox.json](./130951-blackbox.json) |
 | Blackgate | 138226 | [138226-blackgate.json](./138226-blackgate.json) |
 | BlackGate | 325837 | [325837-blackgate.json](./325837-blackgate.json) |
 | Blackhole Simulator | 333385 | [333385-blackhole-simulator.json](./333385-blackhole-simulator.json) |
@@ -964,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burst Planet | 161393 | [161393-burst-planet.json](./161393-burst-planet.json) |
 | Bury Your Gays | 269864 | [269864-bury-your-gays.json](./269864-bury-your-gays.json) |
 | Bus Derby | 200203 | [200203-bus-derby.json](./200203-bus-derby.json) |
+| Bus Simulator | 130938 | [130938-bus-simulator.json](./130938-bus-simulator.json) |
 | Bus Simulator 3D | 241060 | [241060-bus-simulator-3d.json](./241060-bus-simulator-3d.json) |
 | Bus Simulator: City Driving Ultimate | 264902 | [264902-bus-simulator-city-driving-ultimate.json](./264902-bus-simulator-city-driving-ultimate.json) |
 | Bus stop in the fog | 159877 | [159877-bus-stop-in-the-fog.json](./159877-bus-stop-in-the-fog.json) |
