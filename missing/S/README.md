@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Stranger 3D | 303249 | [303249-scary-stranger-3d.json](./303249-scary-stranger-3d.json) |
 | Scary Tales | 171587 | [171587-scary-tales.json](./171587-scary-tales.json) |
 | Scavenger | 237648 | [237648-scavenger.json](./237648-scavenger.json) |
+| Scavenger Skirmish: Mortal World | 105372 | [105372-scavenger-skirmish-mortal-world.json](./105372-scavenger-skirmish-mortal-world.json) |
 | Scavland | 339674 | [339674-scavland.json](./339674-scavland.json) |
 | Scenner | 119045 | [119045-scenner.json](./119045-scenner.json) |
 | Scholastic Brain Play: Preschool - 1st Grade | 167276 | [167276-scholastic-brain-play-preschool-1st-grade.json](./167276-scholastic-brain-play-preschool-1st-grade.json) |
@@ -1309,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Masters ASD | 130971 | [130971-speed-masters-asd.json](./130971-speed-masters-asd.json) |
 | Speed Night | 278689 | [278689-speed-night.json](./278689-speed-night.json) |
 | Speed Tube Racer | 200202 | [200202-speed-tube-racer.json](./200202-speed-tube-racer.json) |
+| Speed Up | 105331 | [105331-speed-up.json](./105331-speed-up.json) |
 | Speed X: Extreme 3D Car Racing | 251211 | [251211-speed-x-extreme-3d-car-racing.json](./251211-speed-x-extreme-3d-car-racing.json) |
 | Speedboat Alchemy | 180828 | [180828-speedboat-alchemy.json](./180828-speedboat-alchemy.json) |
 | Speedboat Racing | 144387 | [144387-speedboat-racing.json](./144387-speedboat-racing.json) |
@@ -1506,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Witch | 190224 | [190224-star-witch.json](./190224-star-witch.json) |
 | Star Word | 318784 | [318784-star-word.json](./318784-star-word.json) |
 | Star: M | 306059 | [306059-star-m.json](./306059-star-m.json) |
+| Star'Shoot | 105327 | [105327-starshoot.json](./105327-starshoot.json) |
 | Starazius | 122423 | [122423-starazius.json](./122423-starazius.json) |
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
 | Starboost EX | 123636 | [123636-starboost-ex.json](./123636-starboost-ex.json) |
