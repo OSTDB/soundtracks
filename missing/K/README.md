@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Hallow | 179210 | [179210-kid-hallow.json](./179210-kid-hallow.json) |
 | Kid Paddle: Lost in the Game | 268186 | [268186-kid-paddle-lost-in-the-game.json](./268186-kid-paddle-lost-in-the-game.json) |
 | Kid Speedy | 135867 | [135867-kid-speedy.json](./135867-kid-speedy.json) |
+| Kiddies Party Pack | 100174 | [100174-kiddies-party-pack.json](./100174-kiddies-party-pack.json) |
 | Kidnappers | 301610 | [301610-kidnappers.json](./301610-kidnappers.json) |
 | Kidou Senshi Gundam: Fushigi no Dungeon | 311283 | [311283-kidou-senshi-gundam-fushigi-no-dungeon.json](./311283-kidou-senshi-gundam-fushigi-no-dungeon.json) |
 | Kids Cars | 213647 | [213647-kids-cars.json](./213647-kids-cars.json) |
@@ -216,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Two Crowns: Jarl Edition | 186896 | [186896-kingdom-two-crowns-jarl-edition.json](./186896-kingdom-two-crowns-jarl-edition.json) |
 | Kingdom's Life | 189177 | [189177-kingdoms-life.json](./189177-kingdoms-life.json) |
 | Kingdoms of Marazia: Classic | 107199 | [107199-kingdoms-of-marazia-classic.json](./107199-kingdoms-of-marazia-classic.json) |
+| Kingdoms: The Crown | 100212 | [100212-kingdoms-the-crown.json](./100212-kingdoms-the-crown.json) |
 | Kings and Pigs | 152937 | [152937-kings-and-pigs.json](./152937-kings-and-pigs.json) |
 | Kings Shire | 237073 | [237073-kings-shire.json](./237073-kings-shire.json) |
 | Kings' Cross | 112354 | [112354-kings-cross.json](./112354-kings-cross.json) |
