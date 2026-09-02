@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai vs. Orcs | 161388 | [161388-hentai-vs-orcs.json](./161388-hentai-vs-orcs.json) |
 | Henteria Chronicles: The Peacekeepers | 334495 | [334495-henteria-chronicles-the-peacekeepers.json](./334495-henteria-chronicles-the-peacekeepers.json) |
 | Hephep Fever: Retold | 334476 | [334476-hephep-fever-retold.json](./334476-hephep-fever-retold.json) |
+| Her | 105347 | [105347-her.json](./105347-her.json) |
 | Her Heart's Desire: A Landlord Epic | 224235 | [224235-her-hearts-desire-a-landlord-epic.json](./224235-her-hearts-desire-a-landlord-epic.json) |
 | Her Little Sylvietower | 316996 | [316996-her-little-sylvietower.json](./316996-her-little-sylvietower.json) |
 | Her New Memory: BDSM | 217541 | [217541-her-new-memory-bdsm.json](./217541-her-new-memory-bdsm.json) |
@@ -792,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypermind | 193471 | [193471-hypermind.json](./193471-hypermind.json) |
 | Hyperspace Services | 184085 | [184085-hyperspace-services.json](./184085-hyperspace-services.json) |
 | Hyperwheel Overdrive | 131574 | [131574-hyperwheel-overdrive.json](./131574-hyperwheel-overdrive.json) |
+| HyperZen Training | 105330 | [105330-hyperzen-training.json](./105330-hyperzen-training.json) |
 | Hypnagogia: Boundless Dreams | 159865 | [159865-hypnagogia-boundless-dreams.json](./159865-hypnagogia-boundless-dreams.json) |
 | Hypnosis of Corruption | 331124 | [331124-hypnosis-of-corruption.json](./331124-hypnosis-of-corruption.json) |
 | Hypoxia: One Last Breath | 167291 | [167291-hypoxia-one-last-breath.json](./167291-hypoxia-one-last-breath.json) |
