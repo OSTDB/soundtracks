@@ -766,6 +766,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Shrine: Escape Room | 149606 | [149606-the-lost-shrine-escape-room.json](./149606-the-lost-shrine-escape-room.json) |
 | The Lost Vikings | 214769 | [214769-the-lost-vikings.json](./214769-the-lost-vikings.json) |
 | The Lost Weld | 197385 | [197385-the-lost-weld.json](./197385-the-lost-weld.json) |
+| The Lost World: Jurassic Park | 147441 | [147441-the-lost-world-jurassic-park.json](./147441-the-lost-world-jurassic-park.json) |
+| The Lost World: Jurassic Park | 147442 | [147442-the-lost-world-jurassic-park.json](./147442-the-lost-world-jurassic-park.json) |
+| The Lost World: Jurassic Park | 147443 | [147443-the-lost-world-jurassic-park.json](./147443-the-lost-world-jurassic-park.json) |
 | The Love Interests get their Own Game | 183049 | [183049-the-love-interests-get-their-own-game.json](./183049-the-love-interests-get-their-own-game.json) |
 | The Madman | 205274 | [205274-the-madman.json](./205274-the-madman.json) |
 | The Madness of Death | 214182 | [214182-the-madness-of-death.json](./214182-the-madness-of-death.json) |
@@ -1628,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train No. 7 | 163960 | [163960-train-no-7.json](./163960-train-no-7.json) |
 | Train Sim World 2: DB BR 182 Loco Add-On | 167301 | [167301-train-sim-world-2-db-br-182-loco-add-on.json](./167301-train-sim-world-2-db-br-182-loco-add-on.json) |
 | Train Sim World 2: Harlem Line - Grand Central Terminal: North White Plains Route | 195778 | [195778-train-sim-world-2-harlem-line-grand-central-terminal-north-white-plains-route.json](./195778-train-sim-world-2-harlem-line-grand-central-terminal-north-white-plains-route.json) |
+| Train Sim World 2: Hauptstrecke Hamburg - Lübeck Route Add-On | 147456 | [147456-train-sim-world-2-hauptstrecke-hamburg-lubeck-route-add-on.json](./147456-train-sim-world-2-hauptstrecke-hamburg-lubeck-route-add-on.json) |
 | Train Sim World 2: S-Bahn Zentralschweiz - Luzern: Sursee Route | 195777 | [195777-train-sim-world-2-s-bahn-zentralschweiz-luzern-sursee-route.json](./195777-train-sim-world-2-s-bahn-zentralschweiz-luzern-sursee-route.json) |
 | Train Sim World 3: Niddertalbahn - Bad Vilbel - Stockheim Route Add-On | 269329 | [269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json](./269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json) |
 | Train Sim World 4: Antelope Valley Line - Los Angeles - Lancaster Route | 269324 | [269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json](./269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json) |
