@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Usagi Sekai: Bunny Shaman | 338581 | [338581-usagi-sekai-bunny-shaman.json](./338581-usagi-sekai-bunny-shaman.json) |
 | Use Holy Water! | 243961 | [243961-use-holy-water.json](./243961-use-holy-water.json) |
 | Useless Demon Lord | 264351 | [264351-useless-demon-lord.json](./264351-useless-demon-lord.json) |
+| User Is Typing // Message Sent | 134687 | [134687-user-is-typing-message-sent.json](./134687-user-is-typing-message-sent.json) |
 | UsoNatsu: The Summer Romance Bloomed From a Lie | 234340 | [234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json](./234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json) |
 | Utsuho's Great Hunger Battle | 262101 | [262101-utsuhos-great-hunger-battle.json](./262101-utsuhos-great-hunger-battle.json) |
 | Utsurobi no Serentia | 301608 | [301608-utsurobi-no-serentia.json](./301608-utsurobi-no-serentia.json) |
