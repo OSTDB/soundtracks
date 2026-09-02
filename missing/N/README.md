@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nowv | 320541 | [320541-nowv.json](./320541-nowv.json) |
 | Nox: Escape Adventure | 241049 | [241049-nox-escape-adventure.json](./241049-nox-escape-adventure.json) |
 | NPC Adventure: Post-Jam Edition | 308560 | [308560-npc-adventure-post-jam-edition.json](./308560-npc-adventure-post-jam-edition.json) |
+| Npc Problems: Vertex Coloring | 126655 | [126655-npc-problems-vertex-coloring.json](./126655-npc-problems-vertex-coloring.json) |
 | Npool: Complete + | 328826 | [328826-npool-complete.json](./328826-npool-complete.json) |
 | Nrg | 174348 | [174348-nrg.json](./174348-nrg.json) |
 | Nth^0: Infinity Reborn | 129799 | [129799-nth-0-infinity-reborn.json](./129799-nth-0-infinity-reborn.json) |
