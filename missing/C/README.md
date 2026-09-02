@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cell of Empireo | 175966 | [175966-cell-of-empireo.json](./175966-cell-of-empireo.json) |
 | Cellings | 190202 | [190202-cellings.json](./190202-cellings.json) |
 | Celted | 176478 | [176478-celted.json](./176478-celted.json) |
+| Celtic Football Coach | 138212 | [138212-celtic-football-coach.json](./138212-celtic-football-coach.json) |
 | Centipede | 245541 | [245541-centipede.json](./245541-centipede.json) |
 | Central Standard | 321130 | [321130-central-standard.json](./321130-central-standard.json) |
 | Central Station | 242244 | [242244-central-station.json](./242244-central-station.json) |
@@ -686,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comando Tracer | 138800 | [138800-comando-tracer.json](./138800-comando-tracer.json) |
 | Combat Champions | 244510 | [244510-combat-champions.json](./244510-combat-champions.json) |
 | Combat Jam 1 | 300418 | [300418-combat-jam-1.json](./300418-combat-jam-1.json) |
+| Combat Mission Shock Force 2 | 138217 | [138217-combat-mission-shock-force-2.json](./138217-combat-mission-shock-force-2.json) |
 | Combined_Arms | 143116 | [143116-combined-arms.json](./143116-combined-arms.json) |
 | Combined_Arms Gaiden | 143117 | [143117-combined-arms-gaiden.json](./143117-combined-arms-gaiden.json) |
 | Combo Babies | 167811 | [167811-combo-babies.json](./167811-combo-babies.json) |
