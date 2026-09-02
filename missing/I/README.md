@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InterSpace | 258209 | [258209-interspace.json](./258209-interspace.json) |
 | Interstate Cowboys | 292322 | [292322-interstate-cowboys.json](./292322-interstate-cowboys.json) |
 | Interweaver | 296682 | [296682-interweaver.json](./296682-interweaver.json) |
+| Interworlds Academy | 117080 | [117080-interworlds-academy.json](./117080-interworlds-academy.json) |
 | Intesa Vincente | 341899 | [341899-intesa-vincente.json](./341899-intesa-vincente.json) |
 | Intimate, Infinite | 134009 | [134009-intimate-infinite.json](./134009-intimate-infinite.json) |
 | Into Asteroid Belt | 178641 | [178641-into-asteroid-belt.json](./178641-into-asteroid-belt.json) |
