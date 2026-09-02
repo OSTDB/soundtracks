@@ -163,6 +163,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JollyWorld | 162408 | [162408-jollyworld.json](./162408-jollyworld.json) |
 | Joninės | 273667 | [273667-jonines.json](./273667-jonines.json) |
 | Joongboongi's Adventure | 340775 | [340775-joongboongis-adventure.json](./340775-joongboongis-adventure.json) |
+| Joryuu Janshi ni Chousen | 97861 | [97861-joryuu-janshi-ni-chousen.json](./97861-joryuu-janshi-ni-chousen.json) |
+| Joryuu Janshi ni Chousen GB: Watashi-tachi ni Chousen Shite ne! | 97857 | [97857-joryuu-janshi-ni-chousen-gb-watashi-tachi-ni-chousen-shite-ne.json](./97857-joryuu-janshi-ni-chousen-gb-watashi-tachi-ni-chousen-shite-ne.json) |
 | Josephine and Friends | 204726 | [204726-josephine-and-friends.json](./204726-josephine-and-friends.json) |
 | Joshi Daisei Private | 112341 | [112341-joshi-daisei-private.json](./112341-joshi-daisei-private.json) |
 | Jouka no Monshou | 274223 | [274223-jouka-no-monshou.json](./274223-jouka-no-monshou.json) |
