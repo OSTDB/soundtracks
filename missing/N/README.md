@@ -86,11 +86,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Now 23 | 239884 | [239884-nba-now-23.json](./239884-nba-now-23.json) |
 | NBA the Run | 309667 | [309667-nba-the-run.json](./309667-nba-the-run.json) |
 | NCAA Football 09: All-Play | 137060 | [137060-ncaa-football-09-all-play.json](./137060-ncaa-football-09-all-play.json) |
+| Near Bird | 113700 | [113700-near-bird.json](./113700-near-bird.json) |
 | Nebula | 197412 | [197412-nebula.json](./197412-nebula.json) |
 | NebuLeet | 304884 | [304884-nebuleet.json](./304884-nebuleet.json) |
 | Nebuli | 157720 | [157720-nebuli.json](./157720-nebuli.json) |
 | Necessary Bimbos | 185699 | [185699-necessary-bimbos.json](./185699-necessary-bimbos.json) |
 | Necogram | 243384 | [243384-necogram.json](./243384-necogram.json) |
+| Necro Defense | 113687 | [113687-necro-defense.json](./113687-necro-defense.json) |
 | NecroLand: Undead Corps | 127361 | [127361-necroland-undead-corps.json](./127361-necroland-undead-corps.json) |
 | Necromancer's Gift | 173317 | [173317-necromancers-gift.json](./173317-necromancers-gift.json) |
 | Necropolis Nights | 332849 | [332849-necropolis-nights.json](./332849-necropolis-nights.json) |
@@ -408,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturne in Yellow | 141870 | [141870-nocturne-in-yellow.json](./141870-nocturne-in-yellow.json) |
 | Noel the Mortal Fate: Season 12 | 243374 | [243374-noel-the-mortal-fate-season-12.json](./243374-noel-the-mortal-fate-season-12.json) |
 | Noel the Mortal Fate: Season 3.5 - Revenger's Vacation | 258205 | [258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json](./258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json) |
+| Noel's Hope | 113703 | [113703-noels-hope.json](./113703-noels-hope.json) |
 | Nofland Story | 220304 | [220304-nofland-story.json](./220304-nofland-story.json) |
 | Nohra | 156659 | [156659-nohra.json](./156659-nohra.json) |
 | Nohzdyve | 123624 | [123624-nohzdyve.json](./123624-nohzdyve.json) |
