@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4-Lung Boy | 185651 | [185651-4-lung-boy.json](./185651-4-lung-boy.json) |
 | 4.1.60Co | 295543 | [295543-4-1-60co.json](./295543-4-1-60co.json) |
 | 4096 | 157721 | [157721-4096.json](./157721-4096.json) |
+| 4X4 Masters | 148563 | [148563-4x4-masters.json](./148563-4x4-masters.json) |
 | 4x4 Offroad Car Exploration | 264899 | [264899-4x4-offroad-car-exploration.json](./264899-4x4-offroad-car-exploration.json) |
 | 4x4 Offroad Driver | 219294 | [219294-4x4-offroad-driver.json](./219294-4x4-offroad-driver.json) |
 | 4xM | 269841 | [269841-4xm.json](./269841-4xm.json) |
@@ -179,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 69 Hitomi Love | 173837 | [173837-69-hitomi-love.json](./173837-69-hitomi-love.json) |
 | 69 Lisa Love | 173826 | [173826-69-lisa-love.json](./173826-69-lisa-love.json) |
 | 6ix9ine Runner | 224198 | [224198-6ix9ine-runner.json](./224198-6ix9ine-runner.json) |
+| 6th Dimension | 148532 | [148532-6th-dimension.json](./148532-6th-dimension.json) |
 | 6th Floor | 301589 | [301589-6th-floor.json](./301589-6th-floor.json) |
 | 7 Ate 9 | 316435 | [316435-7-ate-9.json](./316435-7-ate-9.json) |
 | 7 Days | 314017 | [314017-7-days.json](./314017-7-days.json) |
