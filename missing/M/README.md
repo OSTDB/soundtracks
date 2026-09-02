@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Summoning Adventure | 154014 | [154014-magic-summoning-adventure.json](./154014-magic-summoning-adventure.json) |
 | Magic Survivor Undead | 333399 | [333399-magic-survivor-undead.json](./333399-magic-survivor-undead.json) |
 | Magic Synthesis | 103487 | [103487-magic-synthesis.json](./103487-magic-synthesis.json) |
+| Magic Tiles Saga: Upbeat Music | 100858 | [100858-magic-tiles-saga-upbeat-music.json](./100858-magic-tiles-saga-upbeat-music.json) |
 | Magic Touch: Wizard for Hire | 117755 | [117755-magic-touch-wizard-for-hire.json](./117755-magic-touch-wizard-for-hire.json) |
 | Magic Tower | 161372 | [161372-magic-tower.json](./161372-magic-tower.json) |
 | Magic Tower Adventure | 173803 | [173803-magic-tower-adventure.json](./173803-magic-tower-adventure.json) |
@@ -861,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Battle Operation Code Fairy | 178045 | [178045-mobile-suit-gundam-battle-operation-code-fairy.json](./178045-mobile-suit-gundam-battle-operation-code-fairy.json) |
 | Mobius | 104646 | [104646-mobius.json](./104646-mobius.json) |
 | Mobula | 311790 | [311790-mobula.json](./311790-mobula.json) |
+| Mochi Word Puzzles | 100881 | [100881-mochi-word-puzzles.json](./100881-mochi-word-puzzles.json) |
 | Mod Mage Mike | 310743 | [310743-mod-mage-mike.json](./310743-mod-mage-mike.json) |
 | Model Builder: Alaskan Road Truckers | 277586 | [277586-model-builder-alaskan-road-truckers.json](./277586-model-builder-alaskan-road-truckers.json) |
 | Model Employee | 274732 | [274732-model-employee.json](./274732-model-employee.json) |
@@ -871,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Museum | 305524 | [305524-modern-museum.json](./305524-modern-museum.json) |
 | Modern Naval Warfare | 186903 | [186903-modern-naval-warfare.json](./186903-modern-naval-warfare.json) |
 | Modern War Simulator: Advance Under Air Raid | 169448 | [169448-modern-war-simulator-advance-under-air-raid.json](./169448-modern-war-simulator-advance-under-air-raid.json) |
+| ModernArcheryVR | 100832 | [100832-modernarcheryvr.json](./100832-modernarcheryvr.json) |
 | Modified Spaceship | 301605 | [301605-modified-spaceship.json](./301605-modified-spaceship.json) |
 | Modsork | 101528 | [101528-modsork.json](./101528-modsork.json) |
 | Moduwar | 109753 | [109753-moduwar.json](./109753-moduwar.json) |
