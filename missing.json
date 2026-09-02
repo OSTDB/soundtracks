@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T05:03:11.675Z",
-  "total_missing": 17212,
+  "generated_at": "2026-09-02T05:18:15.667Z",
+  "total_missing": 17262,
   "games": [
     {
       "igdb_id": 306086,
@@ -3793,6 +3793,11 @@
       "file": "missing/A/273656-ancient-wonders-gardens-of-babylon.json"
     },
     {
+      "igdb_id": 138781,
+      "game_name": "And I Made Sure to Hold Your Head Sideways",
+      "file": "missing/A/138781-and-i-made-sure-to-hold-your-head-sideways.json"
+    },
+    {
       "igdb_id": 303789,
       "game_name": "Andalusian Roulette",
       "file": "missing/A/303789-andalusian-roulette.json"
@@ -4111,6 +4116,11 @@
       "igdb_id": 156645,
       "game_name": "Anna: The Series Test",
       "file": "missing/A/156645-anna-the-series-test.json"
+    },
+    {
+      "igdb_id": 138780,
+      "game_name": "Annapurna Interactive Deluxe Limited Edition",
+      "file": "missing/A/138780-annapurna-interactive-deluxe-limited-edition.json"
     },
     {
       "igdb_id": 192985,
@@ -6953,6 +6963,11 @@
       "file": "missing/B/152887-bang-dream-girls-band-party-for-nintendo-switch.json"
     },
     {
+      "igdb_id": 138808,
+      "game_name": "Bang! Bang! Totally Accurate Redneck Simulator",
+      "file": "missing/B/138808-bang-bang-totally-accurate-redneck-simulator.json"
+    },
+    {
       "igdb_id": 193484,
       "game_name": "BangBang PewPew",
       "file": "missing/B/193484-bangbang-pewpew.json"
@@ -7401,6 +7416,11 @@
       "igdb_id": 245553,
       "game_name": "Batman Begins: Fear the Bat",
       "file": "missing/B/245553-batman-begins-fear-the-bat.json"
+    },
+    {
+      "igdb_id": 138788,
+      "game_name": "Batman Doom",
+      "file": "missing/B/138788-batman-doom.json"
     },
     {
       "igdb_id": 240487,
@@ -11793,6 +11813,11 @@
       "file": "missing/C/335068-cartoon-pet-game.json"
     },
     {
+      "igdb_id": 138790,
+      "game_name": "Carvalho: Los Pájaros de Bangkok",
+      "file": "missing/C/138790-carvalho-los-pajaros-de-bangkok.json"
+    },
+    {
       "igdb_id": 219269,
       "game_name": "Carwarz.io",
       "file": "missing/C/219269-carwarz-io.json"
@@ -14421,6 +14446,11 @@
       "igdb_id": 229381,
       "game_name": "ColourS",
       "file": "missing/C/229381-colours.json"
+    },
+    {
+      "igdb_id": 138800,
+      "game_name": "Comando Tracer",
+      "file": "missing/C/138800-comando-tracer.json"
     },
     {
       "igdb_id": 244510,
@@ -18373,6 +18403,11 @@
       "file": "missing/D/265430-desert-rush.json"
     },
     {
+      "igdb_id": 138823,
+      "game_name": "Deserted Island",
+      "file": "missing/D/138823-deserted-island.json"
+    },
+    {
       "igdb_id": 321771,
       "game_name": "Designed for Danger",
       "file": "missing/D/321771-designed-for-danger.json"
@@ -21216,6 +21251,11 @@
       "igdb_id": 273628,
       "game_name": "Dusky Depths",
       "file": "missing/D/273628-dusky-depths.json"
+    },
+    {
+      "igdb_id": 138831,
+      "game_name": "Dust to Dusk",
+      "file": "missing/D/138831-dust-to-dusk.json"
     },
     {
       "igdb_id": 260393,
@@ -24326,6 +24366,11 @@
       "igdb_id": 335685,
       "game_name": "Fear of Hot Water Ghost",
       "file": "missing/F/335685-fear-of-hot-water-ghost.json"
+    },
+    {
+      "igdb_id": 138814,
+      "game_name": "Fear the Flossom",
+      "file": "missing/F/138814-fear-the-flossom.json"
     },
     {
       "igdb_id": 302098,
@@ -28943,6 +28988,11 @@
       "file": "missing/G/196301-going-deeper.json"
     },
     {
+      "igdb_id": 138786,
+      "game_name": "Going Down",
+      "file": "missing/G/138786-going-down.json"
+    },
+    {
       "igdb_id": 297250,
       "game_name": "GOKA Street",
       "file": "missing/G/297250-goka-street.json"
@@ -30838,6 +30888,11 @@
       "file": "missing/H/244511-hardhat-wombat.json"
     },
     {
+      "igdb_id": 138829,
+      "game_name": "Hardlight",
+      "file": "missing/H/138829-hardlight.json"
+    },
+    {
       "igdb_id": 257668,
       "game_name": "Hare Nochi Oosawagi!",
       "file": "missing/H/257668-hare-nochi-oosawagi.json"
@@ -31296,6 +31351,11 @@
       "igdb_id": 325842,
       "game_name": "Hearthstone: Perils in Paradise",
       "file": "missing/H/325842-hearthstone-perils-in-paradise.json"
+    },
+    {
+      "igdb_id": 138798,
+      "game_name": "Hearthstone: Scholomance Academy",
+      "file": "missing/H/138798-hearthstone-scholomance-academy.json"
     },
     {
       "igdb_id": 219824,
@@ -32918,6 +32978,11 @@
       "file": "missing/H/145000-honkaku-ai-tousai-ginsei-mahjong.json"
     },
     {
+      "igdb_id": 138839,
+      "game_name": "Honoo no Takkyubin",
+      "file": "missing/H/138839-honoo-no-takkyubin.json"
+    },
+    {
       "igdb_id": 267660,
       "game_name": "Honoo no Toukyuuji: Dodge Danpei",
       "file": "missing/H/267660-honoo-no-toukyuuji-dodge-danpei.json"
@@ -34236,6 +34301,11 @@
       "igdb_id": 218700,
       "game_name": "Idle Mining Empire",
       "file": "missing/I/218700-idle-mining-empire.json"
+    },
+    {
+      "igdb_id": 138787,
+      "game_name": "Idle Monster: Tower Defense",
+      "file": "missing/I/138787-idle-monster-tower-defense.json"
     },
     {
       "igdb_id": 247211,
@@ -36633,6 +36703,11 @@
       "file": "missing/J/340781-jungle-jim.json"
     },
     {
+      "igdb_id": 138828,
+      "game_name": "Jungle Wars",
+      "file": "missing/J/138828-jungle-wars.json"
+    },
+    {
       "igdb_id": 268182,
       "game_name": "Junior Fitness Trainer",
       "file": "missing/J/268182-junior-fitness-trainer.json"
@@ -37878,6 +37953,11 @@
       "file": "missing/K/176473-klepto-planet-attack.json"
     },
     {
+      "igdb_id": 138797,
+      "game_name": "Kleu's music",
+      "file": "missing/K/138797-kleus-music.json"
+    },
+    {
       "igdb_id": 225282,
       "game_name": "Klikwerk",
       "file": "missing/K/225282-klikwerk.json"
@@ -38071,6 +38151,11 @@
       "igdb_id": 159307,
       "game_name": "Koihime Enbu RyoRaiRai: Jokou and Kakuka",
       "file": "missing/K/159307-koihime-enbu-ryorairai-jokou-and-kakuka.json"
+    },
+    {
+      "igdb_id": 138825,
+      "game_name": "Kokohore! Pukka: Dig-a-Dig Pukka",
+      "file": "missing/K/138825-kokohore-pukka-dig-a-dig-pukka.json"
     },
     {
       "igdb_id": 150133,
@@ -38346,6 +38431,11 @@
       "igdb_id": 272549,
       "game_name": "Kurushi Final: Mental Blocks",
       "file": "missing/K/272549-kurushi-final-mental-blocks.json"
+    },
+    {
+      "igdb_id": 138804,
+      "game_name": "Kusarihime: Euthanasia",
+      "file": "missing/K/138804-kusarihime-euthanasia.json"
     },
     {
       "igdb_id": 331686,
@@ -38761,6 +38851,11 @@
       "igdb_id": 189196,
       "game_name": "Last Group Out",
       "file": "missing/L/189196-last-group-out.json"
+    },
+    {
+      "igdb_id": 138779,
+      "game_name": "Last Harvest",
+      "file": "missing/L/138779-last-harvest.json"
     },
     {
       "igdb_id": 337476,
@@ -45318,6 +45413,11 @@
       "file": "missing/M/197943-monster-galaxy.json"
     },
     {
+      "igdb_id": 138832,
+      "game_name": "Monster Girl Dreams",
+      "file": "missing/M/138832-monster-girl-dreams.json"
+    },
+    {
       "igdb_id": 166214,
       "game_name": "Monster Girl Dungeon",
       "file": "missing/M/166214-monster-girl-dungeon.json"
@@ -45516,6 +45616,11 @@
       "igdb_id": 214198,
       "game_name": "Monsters: The Hunter of Darkness",
       "file": "missing/M/214198-monsters-the-hunter-of-darkness.json"
+    },
+    {
+      "igdb_id": 138803,
+      "game_name": "MonsterSoft",
+      "file": "missing/M/138803-monstersoft.json"
     },
     {
       "igdb_id": 148562,
@@ -49356,6 +49461,11 @@
       "igdb_id": 256530,
       "game_name": "Nova Dash",
       "file": "missing/N/256530-nova-dash.json"
+    },
+    {
+      "igdb_id": 138830,
+      "game_name": "Nova: The Birth",
+      "file": "missing/N/138830-nova-the-birth.json"
     },
     {
       "igdb_id": 316397,
@@ -56023,6 +56133,11 @@
       "file": "missing/P/291218-psychomachia.json"
     },
     {
+      "igdb_id": 138795,
+      "game_name": "Psychotic Adventures Origins",
+      "file": "missing/P/138795-psychotic-adventures-origins.json"
+    },
+    {
       "igdb_id": 145676,
       "game_name": "Psycron",
       "file": "missing/P/145676-psycron.json"
@@ -56456,6 +56571,11 @@
       "igdb_id": 163431,
       "game_name": "Puzzle: Ultimate - Puzzle Pack: Valley",
       "file": "missing/P/163431-puzzle-ultimate-puzzle-pack-valley.json"
+    },
+    {
+      "igdb_id": 138794,
+      "game_name": "Puzzlebot Challenge",
+      "file": "missing/P/138794-puzzlebot-challenge.json"
     },
     {
       "igdb_id": 180813,
@@ -59763,6 +59883,11 @@
       "file": "missing/R/317613-rodea-eternal.json"
     },
     {
+      "igdb_id": 138792,
+      "game_name": "Rodea the Sky Soldier",
+      "file": "missing/R/138792-rodea-the-sky-soldier.json"
+    },
+    {
       "igdb_id": 153448,
       "game_name": "Roger Rabbit",
       "file": "missing/R/153448-roger-rabbit.json"
@@ -59901,6 +60026,11 @@
       "igdb_id": 298843,
       "game_name": "Rollerball",
       "file": "missing/R/298843-rollerball.json"
+    },
+    {
+      "igdb_id": 138793,
+      "game_name": "Rollergames",
+      "file": "missing/R/138793-rollergames.json"
     },
     {
       "igdb_id": 339645,
@@ -60196,6 +60326,11 @@
       "igdb_id": 320561,
       "game_name": "Roots of Harmony",
       "file": "missing/R/320561-roots-of-harmony.json"
+    },
+    {
+      "igdb_id": 138809,
+      "game_name": "Rope",
+      "file": "missing/R/138809-rope.json"
     },
     {
       "igdb_id": 262639,
@@ -60851,6 +60986,11 @@
       "igdb_id": 230505,
       "game_name": "S.Q. Sound Qube",
       "file": "missing/S/230505-s-q-sound-qube.json"
+    },
+    {
+      "igdb_id": 138799,
+      "game_name": "S.T.A.L.K.E.R.: Wind of Time",
+      "file": "missing/S/138799-s-t-a-l-k-e-r-wind-of-time.json"
     },
     {
       "igdb_id": 218728,
@@ -61853,6 +61993,11 @@
       "file": "missing/S/291228-sealed-bite-extended.json"
     },
     {
+      "igdb_id": 138802,
+      "game_name": "SeaQuest DSV",
+      "file": "missing/S/138802-seaquest-dsv.json"
+    },
+    {
       "igdb_id": 233771,
       "game_name": "Search",
       "file": "missing/S/233771-search.json"
@@ -61881,6 +62026,11 @@
       "igdb_id": 139470,
       "game_name": "Seawolf + Missile",
       "file": "missing/S/139470-seawolf-missile.json"
+    },
+    {
+      "igdb_id": 138805,
+      "game_name": "Second Novel: Kanojo no Natsu, 15fun no Kioku",
+      "file": "missing/S/138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json"
     },
     {
       "igdb_id": 202407,
@@ -67208,6 +67358,11 @@
       "file": "missing/S/306059-star-m.json"
     },
     {
+      "igdb_id": 138827,
+      "game_name": "Starblade",
+      "file": "missing/S/138827-starblade.json"
+    },
+    {
       "igdb_id": 306711,
       "game_name": "Starborn Survivor",
       "file": "missing/S/306711-starborn-survivor.json"
@@ -67246,6 +67401,11 @@
       "igdb_id": 269304,
       "game_name": "Starfield Digipick-Locking Minigame Simulator",
       "file": "missing/S/269304-starfield-digipick-locking-minigame-simulator.json"
+    },
+    {
+      "igdb_id": 138810,
+      "game_name": "Starfighter 77",
+      "file": "missing/S/138810-starfighter-77.json"
     },
     {
       "igdb_id": 139479,
@@ -68523,6 +68683,11 @@
       "file": "missing/S/322980-sunforge-solar-survival.json"
     },
     {
+      "igdb_id": 138821,
+      "game_name": "Sunken Heads",
+      "file": "missing/S/138821-sunken-heads.json"
+    },
+    {
       "igdb_id": 189205,
       "game_name": "Sunny Beach",
       "file": "missing/S/189205-sunny-beach.json"
@@ -69561,6 +69726,11 @@
       "igdb_id": 147436,
       "game_name": "Super Puzzles Dream: Xmas",
       "file": "missing/S/147436-super-puzzles-dream-xmas.json"
+    },
+    {
+      "igdb_id": 138826,
+      "game_name": "Super Real Mahjong Special: Mika, Kasumi, Shouko no Omoide yori",
+      "file": "missing/S/138826-super-real-mahjong-special-mika-kasumi-shouko-no-omoide-yori.json"
     },
     {
       "igdb_id": 242770,
@@ -72296,6 +72466,11 @@
       "igdb_id": 304876,
       "game_name": "The Beyond Of Fears: New House",
       "file": "missing/T/304876-the-beyond-of-fears-new-house.json"
+    },
+    {
+      "igdb_id": 138840,
+      "game_name": "The Beziér Game",
+      "file": "missing/T/138840-the-bezier-game.json"
     },
     {
       "igdb_id": 312336,
@@ -77923,6 +78098,11 @@
       "file": "missing/T/221960-tokyo-yamanote-boys-sweet-jelly-beans-disc.json"
     },
     {
+      "igdb_id": 138783,
+      "game_name": "Tom Clancy's Ghost Recon: Breakpoint - Deep State",
+      "file": "missing/T/138783-tom-clancys-ghost-recon-breakpoint-deep-state.json"
+    },
+    {
       "igdb_id": 173793,
       "game_name": "Tom Clancy's Ghost Recon: Breakpoint - Deluxe Edition",
       "file": "missing/T/173793-tom-clancys-ghost-recon-breakpoint-deluxe-edition.json"
@@ -81558,6 +81738,71 @@
       "file": "missing/V/224788-valkie-64.json"
     },
     {
+      "igdb_id": 138838,
+      "game_name": "Valkyria Chronicles 2: DLC Pack 2",
+      "file": "missing/V/138838-valkyria-chronicles-2-dlc-pack-2.json"
+    },
+    {
+      "igdb_id": 138811,
+      "game_name": "Valkyria Chronicles Bundle",
+      "file": "missing/V/138811-valkyria-chronicles-bundle.json"
+    },
+    {
+      "igdb_id": 138837,
+      "game_name": "Valkyria Chronicles: Challenge of the Edy Detachment",
+      "file": "missing/V/138837-valkyria-chronicles-challenge-of-the-edy-detachment.json"
+    },
+    {
+      "igdb_id": 138834,
+      "game_name": "Valkyria Chronicles: Edy's Mission \"Enter the Edy Detachment\"",
+      "file": "missing/V/138834-valkyria-chronicles-edys-mission-enter-the-edy-detachment.json"
+    },
+    {
+      "igdb_id": 138836,
+      "game_name": "Valkyria Chronicles: Hard EX Mode",
+      "file": "missing/V/138836-valkyria-chronicles-hard-ex-mode.json"
+    },
+    {
+      "igdb_id": 138835,
+      "game_name": "Valkyria Chronicles: Selveria's Mission - Behind Her Blue Flame",
+      "file": "missing/V/138835-valkyria-chronicles-selverias-mission-behind-her-blue-flame.json"
+    },
+    {
+      "igdb_id": 138818,
+      "game_name": "Valkyria Revolution Scenario Pack: Maxim and Remembrance",
+      "file": "missing/V/138818-valkyria-revolution-scenario-pack-maxim-and-remembrance.json"
+    },
+    {
+      "igdb_id": 138815,
+      "game_name": "Valkyria Revolution Scenario Pack: Princess and Valkyria DLC",
+      "file": "missing/V/138815-valkyria-revolution-scenario-pack-princess-and-valkyria-dlc.json"
+    },
+    {
+      "igdb_id": 138817,
+      "game_name": "Valkyria Revolution Scenario Pack: Vanargand Bundle DLC",
+      "file": "missing/V/138817-valkyria-revolution-scenario-pack-vanargand-bundle-dlc.json"
+    },
+    {
+      "igdb_id": 138819,
+      "game_name": "Valkyria Revolution Scenario: The Formation of Vanargand DLC",
+      "file": "missing/V/138819-valkyria-revolution-scenario-the-formation-of-vanargand-dlc.json"
+    },
+    {
+      "igdb_id": 138820,
+      "game_name": "Valkyria Revolution Scenario: The Ring of Contract DLC",
+      "file": "missing/V/138820-valkyria-revolution-scenario-the-ring-of-contract-dlc.json"
+    },
+    {
+      "igdb_id": 138813,
+      "game_name": "Valkyria Revolution: Limited Edition",
+      "file": "missing/V/138813-valkyria-revolution-limited-edition.json"
+    },
+    {
+      "igdb_id": 138816,
+      "game_name": "Valkyria Revolution: Scenario Pack - The Circle of Five",
+      "file": "missing/V/138816-valkyria-revolution-scenario-pack-the-circle-of-five.json"
+    },
+    {
       "igdb_id": 165671,
       "game_name": "Valkyrie: Journey to Midgard",
       "file": "missing/V/165671-valkyrie-journey-to-midgard.json"
@@ -81896,6 +82141,11 @@
       "igdb_id": 177572,
       "game_name": "VHS vs. Betamax",
       "file": "missing/V/177572-vhs-vs-betamax.json"
+    },
+    {
+      "igdb_id": 138807,
+      "game_name": "Viaje al centro de la Tierra",
+      "file": "missing/V/138807-viaje-al-centro-de-la-tierra.json"
     },
     {
       "igdb_id": 302671,
