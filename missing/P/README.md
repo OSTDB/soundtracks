@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Patrol: Laptop Infantil | 294467 | [294467-paw-patrol-laptop-infantil.json](./294467-paw-patrol-laptop-infantil.json) |
 | Pawapuro-kun Pocket 12 | 229923 | [229923-pawapuro-kun-pocket-12.json](./229923-pawapuro-kun-pocket-12.json) |
 | Pawapuro-kun Pocket R | 152368 | [152368-pawapuro-kun-pocket-r.json](./152368-pawapuro-kun-pocket-r.json) |
+| Pawn of the Dead | 107909 | [107909-pawn-of-the-dead.json](./107909-pawn-of-the-dead.json) |
 | Pawn Shop Simulator | 208605 | [208605-pawn-shop-simulator.json](./208605-pawn-shop-simulator.json) |
 | Pawnholm | 292302 | [292302-pawnholm.json](./292302-pawnholm.json) |
 | Paws for Adventure | 204108 | [204108-paws-for-adventure.json](./204108-paws-for-adventure.json) |
@@ -882,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: The Sands of Time | 213051 | [213051-prince-of-persia-the-sands-of-time.json](./213051-prince-of-persia-the-sands-of-time.json) |
 | Princess & Conquest | 128008 | [128008-princess-and-conquest.json](./128008-princess-and-conquest.json) |
 | Princess and the Ice Dragon | 237660 | [237660-princess-and-the-ice-dragon.json](./237660-princess-and-the-ice-dragon.json) |
+| Princess Lili | 107881 | [107881-princess-lili.json](./107881-princess-lili.json) |
 | Princess Miyumi and The Necro's Dungeon | 183570 | [183570-princess-miyumi-and-the-necros-dungeon.json](./183570-princess-miyumi-and-the-necros-dungeon.json) |
 | Princess Pony's Magic Seesaw | 337985 | [337985-princess-ponys-magic-seesaw.json](./337985-princess-ponys-magic-seesaw.json) |
 | Princess Quest Part 1 | 250055 | [250055-princess-quest-part-1.json](./250055-princess-quest-part-1.json) |
