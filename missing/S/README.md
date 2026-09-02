@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura X Clash: Last Millennial Spring | 213603 | [213603-sakura-x-clash-last-millennial-spring.json](./213603-sakura-x-clash-last-millennial-spring.json) |
 | Salacot Jack: Deluxe | 316400 | [316400-salacot-jack-deluxe.json](./316400-salacot-jack-deluxe.json) |
 | Salt 2: Shores of Gold | 151169 | [151169-salt-2-shores-of-gold.json](./151169-salt-2-shores-of-gold.json) |
+| Salto | 149579 | [149579-salto.json](./149579-salto.json) |
 | Salto Mortadella | 297212 | [297212-salto-mortadella.json](./297212-salto-mortadella.json) |
 | Saltwater Shells | 250642 | [250642-saltwater-shells.json](./250642-saltwater-shells.json) |
 | Salvador | 241645 | [241645-salvador.json](./241645-salvador.json) |
@@ -56,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samsara | 249503 | [249503-samsara.json](./249503-samsara.json) |
 | Samurai Blade | 237671 | [237671-samurai-blade.json](./237671-samurai-blade.json) |
 | Samurai Bringer | 192434 | [192434-samurai-bringer.json](./192434-samurai-bringer.json) |
+| Samurai Chess | 149571 | [149571-samurai-chess.json](./149571-samurai-chess.json) |
 | Samurai Shodown: Baiken | 167836 | [167836-samurai-shodown-baiken.json](./167836-samurai-shodown-baiken.json) |
 | Samurai Solitaire: Return of the Ronin | 204103 | [204103-samurai-solitaire-return-of-the-ronin.json](./204103-samurai-solitaire-return-of-the-ronin.json) |
 | Samurai Wars | 196342 | [196342-samurai-wars.json](./196342-samurai-wars.json) |
@@ -196,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Radiation: Ready | 304860 | [304860-sea-of-radiation-ready.json](./304860-sea-of-radiation-ready.json) |
 | Sea of Thieves: 2024 Edition | 335072 | [335072-sea-of-thieves-2024-edition.json](./335072-sea-of-thieves-2024-edition.json) |
 | Sea Power: Naval Combat in the Missile Age | 217518 | [217518-sea-power-naval-combat-in-the-missile-age.json](./217518-sea-power-naval-combat-in-the-missile-age.json) |
+| Sea Wolf: Tactics | 149586 | [149586-sea-wolf-tactics.json](./149586-sea-wolf-tactics.json) |
 | Sea-Doo Hydrocross | 264853 | [264853-sea-doo-hydrocross.json](./264853-sea-doo-hydrocross.json) |
 | Seabed Frog | 211956 | [211956-seabed-frog.json](./211956-seabed-frog.json) |
 | Seal of Solitomb | 325860 | [325860-seal-of-solitomb.json](./325860-seal-of-solitomb.json) |
@@ -622,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slashboy | 333393 | [333393-slashboy.json](./333393-slashboy.json) |
 | Slashy Chords: Guitar Warriors | 256541 | [256541-slashy-chords-guitar-warriors.json](./256541-slashy-chords-guitar-warriors.json) |
 | Slaughter Until Death | 274217 | [274217-slaughter-until-death.json](./274217-slaughter-until-death.json) |
+| Slaughterhouse | 149596 | [149596-slaughterhouse.json](./149596-slaughterhouse.json) |
 | Slave Princess Finne: Why Did She Sell Out Her Own Kingdom? | 214179 | [214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json](./214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json) |
 | Slave Zero X: Digital Deluxe Edition | 277028 | [277028-slave-zero-x-digital-deluxe-edition.json](./277028-slave-zero-x-digital-deluxe-edition.json) |
 | Slavic Gods Rodnoverie | 298304 | [298304-slavic-gods-rodnoverie.json](./298304-slavic-gods-rodnoverie.json) |
@@ -1144,6 +1148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Champions / Medieval Moves: Deadmund's Quest Combo Pack | 268744 | [268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json](./268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json) |
 | Sports Hero | 311265 | [311265-sports-hero.json](./311265-sports-hero.json) |
 | Spot The Difference: Classic Finding Puzzle | 324123 | [324123-spot-the-difference-classic-finding-puzzle.json](./324123-spot-the-difference-classic-finding-puzzle.json) |
+| Spot the Dot | 149563 | [149563-spot-the-dot.json](./149563-spot-the-dot.json) |
 | Spotlight | 277565 | [277565-spotlight.json](./277565-spotlight.json) |
 | Spotlight: Choose Your Romance | 298871 | [298871-spotlight-choose-your-romance.json](./298871-spotlight-choose-your-romance.json) |
 | Spotlight!!! | 299479 | [299479-spotlight.json](./299479-spotlight.json) |
@@ -1239,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight X-2: Galactic Puzzles | 163421 | [163421-starlight-x-2-galactic-puzzles.json](./163421-starlight-x-2-galactic-puzzles.json) |
 | Starlite: Defender of Justice | 156687 | [156687-starlite-defender-of-justice.json](./156687-starlite-defender-of-justice.json) |
 | StarOS | 255961 | [255961-staros.json](./255961-staros.json) |
+| StarPicker | 149607 | [149607-starpicker.json](./149607-starpicker.json) |
 | Starpiercer | 181360 | [181360-starpiercer.json](./181360-starpiercer.json) |
 | Starpoint Gemini 2 Gold Pack | 308575 | [308575-starpoint-gemini-2-gold-pack.json](./308575-starpoint-gemini-2-gold-pack.json) |
 | StarRaver | 237072 | [237072-starraver.json](./237072-starraver.json) |
@@ -1669,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Retro World | 157172 | [157172-super-retro-world.json](./157172-super-retro-world.json) |
 | Super Robot Wars 30: Limited Edition | 155096 | [155096-super-robot-wars-30-limited-edition.json](./155096-super-robot-wars-30-limited-edition.json) |
 | Super Russian Roulette | 307936 | [307936-super-russian-roulette.json](./307936-super-russian-roulette.json) |
+| Super Seals Float | 149594 | [149594-super-seals-float.json](./149594-super-seals-float.json) |
 | Super Shape Cascade | 268225 | [268225-super-shape-cascade.json](./268225-super-shape-cascade.json) |
 | Super Sheffy Bros. 3 | 214772 | [214772-super-sheffy-bros-3.json](./214772-super-sheffy-bros-3.json) |
 | Super Sheffy World 2: The Quest for 5 Shells | 214773 | [214773-super-sheffy-world-2-the-quest-for-5-shells.json](./214773-super-sheffy-world-2-the-quest-for-5-shells.json) |
