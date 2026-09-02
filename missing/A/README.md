@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andalusian Roulette | 303789 | [303789-andalusian-roulette.json](./303789-andalusian-roulette.json) |
 | Andara: Rise for Rebellion | 255986 | [255986-andara-rise-for-rebellion.json](./255986-andara-rise-for-rebellion.json) |
 | Android Amazones | 120987 | [120987-android-amazones.json](./120987-android-amazones.json) |
+| Android Runner | 100820 | [100820-android-runner.json](./100820-android-runner.json) |
 | Andromeda Acolytes | 211400 | [211400-andromeda-acolytes.json](./211400-andromeda-acolytes.json) |
 | Andromeda Overdrive | 265420 | [265420-andromeda-overdrive.json](./265420-andromeda-overdrive.json) |
 | Andromeda Zombies Colonies | 233221 | [233221-andromeda-zombies-colonies.json](./233221-andromeda-zombies-colonies.json) |
@@ -878,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archer of God | 237646 | [237646-archer-of-god.json](./237646-archer-of-god.json) |
 | Archero 2 | 319370 | [319370-archero-2.json](./319370-archero-2.json) |
 | Archery Legend | 319942 | [319942-archery-legend.json](./319942-archery-legend.json) |
+| Archery Physics Objects Destruction Apple shooter | 100824 | [100824-archery-physics-objects-destruction-apple-shooter.json](./100824-archery-physics-objects-destruction-apple-shooter.json) |
 | Archery Simulator | 332264 | [332264-archery-simulator.json](./332264-archery-simulator.json) |
 | Archery Star | 106630 | [106630-archery-star.json](./106630-archery-star.json) |
 | Archetypes: The Rite of Passage | 211439 | [211439-archetypes-the-rite-of-passage.json](./211439-archetypes-the-rite-of-passage.json) |
@@ -1151,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attorney of the Arcane | 241048 | [241048-attorney-of-the-arcane.json](./241048-attorney-of-the-arcane.json) |
 | Attract Fragments 5 | 119747 | [119747-attract-fragments-5.json](./119747-attract-fragments-5.json) |
 | Atum | 128624 | [128624-atum.json](./128624-atum.json) |
+| Audrey & Alexis | 100816 | [100816-audrey-and-alexis.json](./100816-audrey-and-alexis.json) |
 | Auraboros | 181358 | [181358-auraboros.json](./181358-auraboros.json) |
 | Aural to Hikari no Ryuu: Gathering Light | 327602 | [327602-aural-to-hikari-no-ryuu-gathering-light.json](./327602-aural-to-hikari-no-ryuu-gathering-light.json) |
 | Aurora: Weather Warfare | 129207 | [129207-aurora-weather-warfare.json](./129207-aurora-weather-warfare.json) |
