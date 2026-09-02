@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario World 2 | 339668 | [339668-paper-mario-world-2.json](./339668-paper-mario-world-2.json) |
 | Paper Mario: Black Pit | 159343 | [159343-paper-mario-black-pit.json](./159343-paper-mario-black-pit.json) |
 | Paper Mario: Dark Star Edition | 266504 | [266504-paper-mario-dark-star-edition.json](./266504-paper-mario-dark-star-edition.json) |
+| Paper Pilgrim | 140629 | [140629-paper-pilgrim.json](./140629-paper-pilgrim.json) |
 | Papercut Art Gallery-Growth | 297802 | [297802-papercut-art-gallery-growth.json](./297802-papercut-art-gallery-growth.json) |
 | Papercut Art Gallery: Nature | 292854 | [292854-papercut-art-gallery-nature.json](./292854-papercut-art-gallery-nature.json) |
 | Paperly: Paper Plane Adventure | 194040 | [194040-paperly-paper-plane-adventure.json](./194040-paperly-paper-plane-adventure.json) |
@@ -304,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petroleum Explore: Drill & Sell | 227504 | [227504-petroleum-explore-drill-and-sell.json](./227504-petroleum-explore-drill-and-sell.json) |
 | PetShop | 235494 | [235494-petshop.json](./235494-petshop.json) |
 | PetVille | 309123 | [309123-petville.json](./309123-petville.json) |
+| PewPew 2 | 140606 | [140606-pewpew-2.json](./140606-pewpew-2.json) |
 | Pewt 'em Up! | 203561 | [203561-pewt-em-up.json](./203561-pewt-em-up.json) |
 | PGA Tour 2K23: Tiger Woods Edition | 221421 | [221421-pga-tour-2k23-tiger-woods-edition.json](./221421-pga-tour-2k23-tiger-woods-edition.json) |
 | Ph0b0s | 207521 | [207521-ph0b0s.json](./207521-ph0b0s.json) |
@@ -492,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Placid Plastic Duck VR | 338550 | [338550-placid-plastic-duck-vr.json](./338550-placid-plastic-duck-vr.json) |
 | Plague | 185680 | [185680-plague.json](./185680-plague.json) |
 | Plague Inc: The Cure | 170560 | [170560-plague-inc-the-cure.json](./170560-plague-inc-the-cure.json) |
+| Plague M.D. | 140631 | [140631-plague-m-d.json](./140631-plague-m-d.json) |
 | Plague Masters | 154012 | [154012-plague-masters.json](./154012-plague-masters.json) |
 | Plagueworld: Expansion Pack | 167316 | [167316-plagueworld-expansion-pack.json](./167316-plagueworld-expansion-pack.json) |
 | Planarity | 246117 | [246117-planarity.json](./246117-planarity.json) |
