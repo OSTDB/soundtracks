@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Angel Challenge | 195253 | [195253-wind-angel-challenge.json](./195253-wind-angel-challenge.json) |
 | Windborn: Concrete Jungle | 340746 | [340746-windborn-concrete-jungle.json](./340746-windborn-concrete-jungle.json) |
 | Windrush Tales | 180269 | [180269-windrush-tales.json](./180269-windrush-tales.json) |
+| Winds Rhapsody | 142479 | [142479-winds-rhapsody.json](./142479-winds-rhapsody.json) |
 | Windsor | 209701 | [209701-windsor.json](./209701-windsor.json) |
 | Windsquire: Race From Dragon Castle | 241054 | [241054-windsquire-race-from-dragon-castle.json](./241054-windsquire-race-from-dragon-castle.json) |
 | Wing Breakers | 180305 | [180305-wing-breakers.json](./180305-wing-breakers.json) |
@@ -429,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreckfest: Vehicle Bundle 1 | 208051 | [208051-wreckfest-vehicle-bundle-1.json](./208051-wreckfest-vehicle-bundle-1.json) |
 | Wreckfest: Vehicle Bundle 2 | 208052 | [208052-wreckfest-vehicle-bundle-2.json](./208052-wreckfest-vehicle-bundle-2.json) |
 | Wrestle Story | 244509 | [244509-wrestle-story.json](./244509-wrestle-story.json) |
+| Wrestling Empire | 142449 | [142449-wrestling-empire.json](./142449-wrestling-empire.json) |
 | Wrist Nebula | 208020 | [208020-wrist-nebula.json](./208020-wrist-nebula.json) |
 | Wrist Sprinter | 181364 | [181364-wrist-sprinter.json](./181364-wrist-sprinter.json) |
 | Writer: Chapter 1 | 327616 | [327616-writer-chapter-1.json](./327616-writer-chapter-1.json) |
