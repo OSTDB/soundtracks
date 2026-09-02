@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Drive a Lil: It's a Mini Racing Game! | 217516 | [217516-just-drive-a-lil-its-a-mini-racing-game.json](./217516-just-drive-a-lil-its-a-mini-racing-game.json) |
 | Just Get There | 291747 | [291747-just-get-there.json](./291747-just-get-there.json) |
 | Just Get Z | 259236 | [259236-just-get-z.json](./259236-just-get-z.json) |
+| Just Glide | 137649 | [137649-just-glide.json](./137649-just-glide.json) |
 | Just Ignore Them: Brea's Story Tape 1 | 192456 | [192456-just-ignore-them-breas-story-tape-1.json](./192456-just-ignore-them-breas-story-tape-1.json) |
 | Just Keep Digging | 304370 | [304370-just-keep-digging.json](./304370-just-keep-digging.json) |
 | Just Keep Running | 248325 | [248325-just-keep-running.json](./248325-just-keep-running.json) |
