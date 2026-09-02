@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden | 185675 | [185675-garden.json](./185675-garden.json) |
 | Garden Box | 314675 | [314675-garden-box.json](./314675-garden-box.json) |
 | Garden Business | 215902 | [215902-garden-business.json](./215902-garden-business.json) |
+| Garden of Coloured Lights | 107235 | [107235-garden-of-coloured-lights.json](./107235-garden-of-coloured-lights.json) |
 | Garden's Bane: DG's Quest | 208610 | [208610-gardens-bane-dgs-quest.json](./208610-gardens-bane-dgs-quest.json) |
 | Garfield 2: Royal Adventure | 309657 | [309657-garfield-2-royal-adventure.json](./309657-garfield-2-royal-adventure.json) |
 | Garfield Collection 2 in 1 | 340739 | [340739-garfield-collection-2-in-1.json](./340739-garfield-collection-2-in-1.json) |
@@ -316,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Transport | 329388 | [329388-global-transport.json](./329388-global-transport.json) |
 | Globat Pixels | 115676 | [115676-globat-pixels.json](./115676-globat-pixels.json) |
 | Globeba | 300395 | [300395-globeba.json](./300395-globeba.json) |
+| Globetrotter Bundle | 107193 | [107193-globetrotter-bundle.json](./107193-globetrotter-bundle.json) |
 | Gloom | 151203 | [151203-gloom.json](./151203-gloom.json) |
 | Gloomy Island | 278133 | [278133-gloomy-island.json](./278133-gloomy-island.json) |
 | Glorious Storm | 258201 | [258201-glorious-storm.json](./258201-glorious-storm.json) |
@@ -568,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GreedyCraft | 204701 | [204701-greedycraft.json](./204701-greedycraft.json) |
 | Green Oddities | 239281 | [239281-green-oddities.json](./239281-green-oddities.json) |
 | Green Project | 133419 | [133419-green-project.json](./133419-green-project.json) |
+| Green Run | 107197 | [107197-green-run.json](./107197-green-run.json) |
 | Green Steel | 161361 | [161361-green-steel.json](./161361-green-steel.json) |
 | Green Wind | 209638 | [209638-green-wind.json](./209638-green-wind.json) |
 | Green Zone | 254768 | [254768-green-zone.json](./254768-green-zone.json) |
@@ -674,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Strike Ops: WW2 | 196307 | [196307-gun-strike-ops-ww2.json](./196307-gun-strike-ops-ww2.json) |
 | Gun to Colonists | 189173 | [189173-gun-to-colonists.json](./189173-gun-to-colonists.json) |
 | Gun Trails | 259277 | [259277-gun-trails.json](./259277-gun-trails.json) |
+| Gundam Battle Online | 107166 | [107166-gundam-battle-online.json](./107166-gundam-battle-online.json) |
 | Gundam Fights for Human Rights | 183567 | [183567-gundam-fights-for-human-rights.json](./183567-gundam-fights-for-human-rights.json) |
 | Gundam Supreme Battle | 174903 | [174903-gundam-supreme-battle.json](./174903-gundam-supreme-battle.json) |
 | Gundan: The Crowd Shooting | 205241 | [205241-gundan-the-crowd-shooting.json](./205241-gundan-the-crowd-shooting.json) |
