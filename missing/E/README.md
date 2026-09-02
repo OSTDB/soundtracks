@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enderal: The Shards of Order | 249452 | [249452-enderal-the-shards-of-order.json](./249452-enderal-the-shards-of-order.json) |
 | Ending Way | 189198 | [189198-ending-way.json](./189198-ending-way.json) |
 | Endings | 165668 | [165668-endings.json](./165668-endings.json) |
+| Endless Battle | 109664 | [109664-endless-battle.json](./109664-endless-battle.json) |
 | Endless Battlefield | 186317 | [186317-endless-battlefield.json](./186317-endless-battlefield.json) |
 | Endless Chaos: Hordes of the Afterlife | 209665 | [209665-endless-chaos-hordes-of-the-afterlife.json](./209665-endless-chaos-hordes-of-the-afterlife.json) |
 | Endless Combat Dungeon | 184621 | [184621-endless-combat-dungeon.json](./184621-endless-combat-dungeon.json) |
