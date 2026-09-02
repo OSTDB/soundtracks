@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine in Flight | 310734 | [310734-nine-in-flight.json](./310734-nine-in-flight.json) |
 | Nine Realms: Revolt | 254770 | [254770-nine-realms-revolt.json](./254770-nine-realms-revolt.json) |
 | Nine Rounds Rapid | 238718 | [238718-nine-rounds-rapid.json](./238718-nine-rounds-rapid.json) |
+| Nine Worlds | 150659 | [150659-nine-worlds.json](./150659-nine-worlds.json) |
 | Ningen Maru | 178677 | [178677-ningen-maru.json](./178677-ningen-maru.json) |
 | Ninja Break | 203559 | [203559-ninja-break.json](./203559-ninja-break.json) |
 | Ninja Chicken 2 | 233763 | [233763-ninja-chicken-2.json](./233763-ninja-chicken-2.json) |
@@ -310,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Contact | 302114 | [302114-no-contact.json](./302114-no-contact.json) |
 | No Cure 2 | 158195 | [158195-no-cure-2.json](./158195-no-cure-2.json) |
 | No Fair Play | 172755 | [172755-no-fair-play.json](./172755-no-fair-play.json) |
+| No Light | 150684 | [150684-no-light.json](./150684-no-light.json) |
 | No Rest | 302688 | [302688-no-rest.json](./302688-no-rest.json) |
 | No Son of Mine | 201314 | [201314-no-son-of-mine.json](./201314-no-son-of-mine.json) |
 | No Straight Roads: Collector's Edition | 166225 | [166225-no-straight-roads-collectors-edition.json](./166225-no-straight-roads-collectors-edition.json) |
@@ -326,6 +328,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noble's Life: Kingdom Reborn | 173301 | [173301-nobles-life-kingdom-reborn.json](./173301-nobles-life-kingdom-reborn.json) |
 | Nobody's Home | 179732 | [179732-nobodys-home.json](./179732-nobodys-home.json) |
 | Nobunaga no Yabou: Oretachi no Sengoku | 208626 | [208626-nobunaga-no-yabou-oretachi-no-sengoku.json](./208626-nobunaga-no-yabou-oretachi-no-sengoku.json) |
+| Nobunaga's Ambition: Souzou - Dokuganryutatsu Scenario | 150668 | [150668-nobunagas-ambition-souzou-dokuganryutatsu-scenario.json](./150668-nobunagas-ambition-souzou-dokuganryutatsu-scenario.json) |
+| Nobunaga's Ambition: Souzou - Itsukushima Scenario | 150675 | [150675-nobunagas-ambition-souzou-itsukushima-scenario.json](./150675-nobunagas-ambition-souzou-itsukushima-scenario.json) |
+| Nobunaga's Ambition: Souzou - Nagashinonotatakai Scenario | 150662 | [150662-nobunagas-ambition-souzou-nagashinonotatakai-scenario.json](./150662-nobunagas-ambition-souzou-nagashinonotatakai-scenario.json) |
+| Nobunaga's Ambition: Souzou - Shingenjouraku Scenario | 150674 | [150674-nobunagas-ambition-souzou-shingenjouraku-scenario.json](./150674-nobunagas-ambition-souzou-shingenjouraku-scenario.json) |
+| Nobunaga's Ambition: Souzou - Tenkafubu Scenario | 150661 | [150661-nobunagas-ambition-souzou-tenkafubu-scenario.json](./150661-nobunagas-ambition-souzou-tenkafubu-scenario.json) |
+| Nobunaga's Ambition: Souzou - Tennouzan Scenario | 150667 | [150667-nobunagas-ambition-souzou-tennouzan-scenario.json](./150667-nobunagas-ambition-souzou-tennouzan-scenario.json) |
+| Nobunaga's Ambition: Souzou - Tetorigawa Scenario | 150672 | [150672-nobunagas-ambition-souzou-tetorigawa-scenario.json](./150672-nobunagas-ambition-souzou-tetorigawa-scenario.json) |
+| Nobunaga's Ambition: Souzou with Power Up Kit - Gunshinkourinsu Scenario | 150671 | [150671-nobunagas-ambition-souzou-with-power-up-kit-gunshinkourinsu-scenario.json](./150671-nobunagas-ambition-souzou-with-power-up-kit-gunshinkourinsu-scenario.json) |
+| Nobunaga's Ambition: Souzou with Power Up Kit - Shokutokudoumei Scenario | 150666 | [150666-nobunagas-ambition-souzou-with-power-up-kit-shokutokudoumei-scenario.json](./150666-nobunagas-ambition-souzou-with-power-up-kit-shokutokudoumei-scenario.json) |
+| Nobunaga's Ambition: Taishi - Birth of Nobunaga Scenario | 150673 | [150673-nobunagas-ambition-taishi-birth-of-nobunaga-scenario.json](./150673-nobunagas-ambition-taishi-birth-of-nobunaga-scenario.json) |
+| Nobunaga's Ambition: Taishi - Mount Tennozan Scenario | 150670 | [150670-nobunagas-ambition-taishi-mount-tennozan-scenario.json](./150670-nobunagas-ambition-taishi-mount-tennozan-scenario.json) |
+| Nobunaga's Ambition: Taishi - The Battle of Nagashino Scenario | 150664 | [150664-nobunagas-ambition-taishi-the-battle-of-nagashino-scenario.json](./150664-nobunagas-ambition-taishi-the-battle-of-nagashino-scenario.json) |
+| Nobunaga's Ambition: Taishi - The Battle of Okitanawate Scenario | 150665 | [150665-nobunagas-ambition-taishi-the-battle-of-okitanawate-scenario.json](./150665-nobunagas-ambition-taishi-the-battle-of-okitanawate-scenario.json) |
+| Nobunaga's Ambition: Taishi - The Dutiful Lord of Echigo Scenario | 150663 | [150663-nobunagas-ambition-taishi-the-dutiful-lord-of-echigo-scenario.json](./150663-nobunagas-ambition-taishi-the-dutiful-lord-of-echigo-scenario.json) |
 | NoCanNoTap | 254158 | [254158-nocannotap.json](./254158-nocannotap.json) |
 | Noctuary | 221395 | [221395-noctuary.json](./221395-noctuary.json) |
 | Noel the Mortal Fate: Season 12 | 243374 | [243374-noel-the-mortal-fate-season-12.json](./243374-noel-the-mortal-fate-season-12.json) |
