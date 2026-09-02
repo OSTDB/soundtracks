@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth: Classic Pinball Puzzle | 225884 | [225884-labyrinth-classic-pinball-puzzle.json](./225884-labyrinth-classic-pinball-puzzle.json) |
 | Labyrinthe | 242259 | [242259-labyrinthe.json](./242259-labyrinthe.json) |
 | Lacerta | 323542 | [323542-lacerta.json](./323542-lacerta.json) |
+| Ladders by Powgi | 146927 | [146927-ladders-by-powgi.json](./146927-ladders-by-powgi.json) |
 | Ladderway | 255990 | [255990-ladderway.json](./255990-ladderway.json) |
 | Ladies and Gentlemen, It's the Turnabout Show! | 318803 | [318803-ladies-and-gentlemen-its-the-turnabout-show.json](./318803-ladies-and-gentlemen-its-the-turnabout-show.json) |
 | Ladies of Sorrow: Night One | 323551 | [323551-ladies-of-sorrow-night-one.json](./323551-ladies-of-sorrow-night-one.json) |
@@ -266,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil Johnny Goes Home | 258213 | [258213-lil-johnny-goes-home.json](./258213-lil-johnny-goes-home.json) |
 | Lil Jump 2 | 253024 | [253024-lil-jump-2.json](./253024-lil-jump-2.json) |
 | Lil Spoops | 236021 | [236021-lil-spoops.json](./236021-lil-spoops.json) |
+| Lil' Herder | 146891 | [146891-lil-herder.json](./146891-lil-herder.json) |
 | Lilian: The beginning of the end | 183038 | [183038-lilian-the-beginning-of-the-end.json](./183038-lilian-the-beginning-of-the-end.json) |
 | Lily Story | 338543 | [338543-lily-story.json](./338543-lily-story.json) |
 | Lily: Shiroki Yuri no Otome-tachi S | 222504 | [222504-lily-shiroki-yuri-no-otome-tachi-s.json](./222504-lily-shiroki-yuri-no-otome-tachi-s.json) |
@@ -343,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Maze | 210874 | [210874-live-maze.json](./210874-live-maze.json) |
 | LIve Pict | 278724 | [278724-live-pict.json](./278724-live-pict.json) |
 | Lively Chair Simulator | 273118 | [273118-lively-chair-simulator.json](./273118-lively-chair-simulator.json) |
+| Livestream: Escape from Hotel Izanami | 146928 | [146928-livestream-escape-from-hotel-izanami.json](./146928-livestream-escape-from-hotel-izanami.json) |
 | Living Labyrinth | 185139 | [185139-living-labyrinth.json](./185139-living-labyrinth.json) |
 | Living with an Elf: A Cozy Forest Retreat | 263195 | [263195-living-with-an-elf-a-cozy-forest-retreat.json](./263195-living-with-an-elf-a-cozy-forest-retreat.json) |
 | Living With It | 329394 | [329394-living-with-it.json](./329394-living-with-it.json) |
