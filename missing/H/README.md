@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houdini Master of the Extraordinary 1: The Temple of the Serpent | 218136 | [218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json](./218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json) |
 | Houkago no Senpai | 127961 | [127961-houkago-no-senpai.json](./127961-houkago-no-senpai.json) |
 | Hour Night | 178083 | [178083-hour-night.json](./178083-hour-night.json) |
+| Hour of the Snake | 117042 | [117042-hour-of-the-snake.json](./117042-hour-of-the-snake.json) |
 | House 2 | 267094 | [267094-house-2.json](./267094-house-2.json) |
 | House Designer | 171625 | [171625-house-designer.json](./171625-house-designer.json) |
 | House Flipper VR | 129209 | [129209-house-flipper-vr.json](./129209-house-flipper-vr.json) |
