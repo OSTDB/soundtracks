@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Park It! | 310740 | [310740-park-it.json](./310740-park-it.json) |
 | Park Master | 254751 | [254751-park-master.json](./254751-park-master.json) |
 | Parkasaurus: Sea Monsters | 195749 | [195749-parkasaurus-sea-monsters.json](./195749-parkasaurus-sea-monsters.json) |
+| Parking Attendant | 151186 | [151186-parking-attendant.json](./151186-parking-attendant.json) |
 | Parking Attendant Simulator | 326379 | [326379-parking-attendant-simulator.json](./326379-parking-attendant-simulator.json) |
 | Parking Jam: Complete Edition | 315855 | [315855-parking-jam-complete-edition.json](./315855-parking-jam-complete-edition.json) |
 | Parking Masters: Bus Driver | 313513 | [313513-parking-masters-bus-driver.json](./313513-parking-masters-bus-driver.json) |
@@ -363,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikuniku: Collector's Edition | 154528 | [154528-pikuniku-collectors-edition.json](./154528-pikuniku-collectors-edition.json) |
 | Pilapa Boom | 186325 | [186325-pilapa-boom.json](./186325-pilapa-boom.json) |
 | Pilapila | 296109 | [296109-pilapila.json](./296109-pilapila.json) |
+| Pillow Bellow | 151173 | [151173-pillow-bellow.json](./151173-pillow-bellow.json) |
 | Pilot Rush | 243388 | [243388-pilot-rush.json](./243388-pilot-rush.json) |
 | Pilot's Misadventures | 161376 | [161376-pilots-misadventures.json](./161376-pilots-misadventures.json) |
 | Pim World | 291746 | [291746-pim-world.json](./291746-pim-world.json) |
