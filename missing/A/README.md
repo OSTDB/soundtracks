@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Boss | 297230 | [297230-airport-boss.json](./297230-airport-boss.json) |
 | Airport Flight Administrator Simulator & Air Traffic-Sky Airplane Sim Plane | 220873 | [220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json](./220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json) |
 | Airstrip DLC and Can Touch This DLC Bundle | 305497 | [305497-airstrip-dlc-and-can-touch-this-dlc-bundle.json](./305497-airstrip-dlc-and-can-touch-this-dlc-bundle.json) |
+| AirTycoon 3 | 101538 | [101538-airtycoon-3.json](./101538-airtycoon-3.json) |
 | Airwave: I Fought the Law and the Law One | 169988 | [169988-airwave-i-fought-the-law-and-the-law-one.json](./169988-airwave-i-fought-the-law-and-the-law-one.json) |
 | Aislin's Story: The Bloodbath Trials | 177534 | [177534-aislins-story-the-bloodbath-trials.json](./177534-aislins-story-the-bloodbath-trials.json) |
 | Aiten Eishi: Blue Guardians | 252408 | [252408-aiten-eishi-blue-guardians.json](./252408-aiten-eishi-blue-guardians.json) |
@@ -537,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Sea | 147448 | [147448-alpha-sea.json](./147448-alpha-sea.json) |
 | Alpha vs. Zet | 130380 | [130380-alpha-vs-zet.json](./130380-alpha-vs-zet.json) |
 | Alphabet Memory Match | 108476 | [108476-alphabet-memory-match.json](./108476-alphabet-memory-match.json) |
+| Alphabet Solitaire Z: Russian | 101576 | [101576-alphabet-solitaire-z-russian.json](./101576-alphabet-solitaire-z-russian.json) |
 | Alpine Crawler World | 174342 | [174342-alpine-crawler-world.json](./174342-alpine-crawler-world.json) |
 | Already Dead | 325868 | [325868-already-dead.json](./325868-already-dead.json) |
 | Alt254 | 135287 | [135287-alt254.json](./135287-alt254.json) |
