@@ -762,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minute Knights | 221379 | [221379-minute-knights.json](./221379-minute-knights.json) |
 | Miracle Chou Party Plus: Sanae to Tenshi no Gensou Labyrinth | 206955 | [206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json](./206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json) |
 | Miracle Chou Party: Sanae to Tenshi no Gensou Labyrinth | 206944 | [206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json](./206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json) |
+| Miracle Circus | 110365 | [110365-miracle-circus.json](./110365-miracle-circus.json) |
 | Miracle Party Plus: Fushigi no Gensoukyou 2 | 206947 | [206947-miracle-party-plus-fushigi-no-gensoukyou-2.json](./206947-miracle-party-plus-fushigi-no-gensoukyou-2.json) |
 | Miracle Party: Fushigi no Gensoukyou 2 | 206936 | [206936-miracle-party-fushigi-no-gensoukyou-2.json](./206936-miracle-party-fushigi-no-gensoukyou-2.json) |
 | Miracle Squirrel Club | 339110 | [339110-miracle-squirrel-club.json](./339110-miracle-squirrel-club.json) |
