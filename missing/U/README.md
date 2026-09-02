@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbra: Journey Home | 173300 | [173300-umbra-journey-home.json](./173300-umbra-journey-home.json) |
 | Umbral Core | 219257 | [219257-umbral-core.json](./219257-umbral-core.json) |
 | Umihara Kawase Uku | 276489 | [276489-umihara-kawase-uku.json](./276489-umihara-kawase-uku.json) |
+| Umineko no Naku Koro ni Saku: Nekobako to Musou no Koukyoukyoku - Limited Edition | 140001 | [140001-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku-limited-edition.json](./140001-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku-limited-edition.json) |
 | Umineko no Naku Koro ni: Aru Ryourinin no Zakki | 272533 | [272533-umineko-no-naku-koro-ni-aru-ryourinin-no-zakki.json](./272533-umineko-no-naku-koro-ni-aru-ryourinin-no-zakki.json) |
 | Umineko no Naku Koro ni: Dare no Ochakai? | 272540 | [272540-umineko-no-naku-koro-ni-dare-no-ochakai.json](./272540-umineko-no-naku-koro-ni-dare-no-ochakai.json) |
 | Umineko no Naku Koro ni: Majo-tachi no Tanabata ha Amakunai | 272542 | [272542-umineko-no-naku-koro-ni-majo-tachi-no-tanabata-ha-amakunai.json](./272542-umineko-no-naku-koro-ni-majo-tachi-no-tanabata-ha-amakunai.json) |
