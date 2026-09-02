@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danmaku Juuenka: Danmaku Card Battle | 215365 | [215365-danmaku-juuenka-danmaku-card-battle.json](./215365-danmaku-juuenka-danmaku-card-battle.json) |
 | Danmaku Kentei Shiken: DaiOuJou-hen | 296056 | [296056-danmaku-kentei-shiken-daioujou-hen.json](./296056-danmaku-kentei-shiken-daioujou-hen.json) |
 | Dante's Inferno: Dark Forest Pack | 172772 | [172772-dantes-inferno-dark-forest-pack.json](./172772-dantes-inferno-dark-forest-pack.json) |
+| Daredemo Asobi Taizen | 137069 | [137069-daredemo-asobi-taizen.json](./137069-daredemo-asobi-taizen.json) |
 | Daredevil Dave 2: Motorcycle Mayhem! | 175432 | [175432-daredevil-dave-2-motorcycle-mayhem.json](./175432-daredevil-dave-2-motorcycle-mayhem.json) |
 | Darfall | 217030 | [217030-darfall.json](./217030-darfall.json) |
 | Dark & Under | 144371 | [144371-dark-and-under.json](./144371-dark-and-under.json) |
@@ -123,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data East Arcade 2 | 325238 | [325238-data-east-arcade-2.json](./325238-data-east-arcade-2.json) |
 | Data Link: Cyberpunk Racing | 234328 | [234328-data-link-cyberpunk-racing.json](./234328-data-link-cyberpunk-racing.json) |
 | Data Man | 310187 | [310187-data-man.json](./310187-data-man.json) |
+| Date Night Bowling | 137109 | [137109-date-night-bowling.json](./137109-date-night-bowling.json) |
 | Date with Detective Wolf | 303276 | [303276-date-with-detective-wolf.json](./303276-date-with-detective-wolf.json) |
 | Date with Foxgirl | 250007 | [250007-date-with-foxgirl.json](./250007-date-with-foxgirl.json) |
 | Dating My High School Bully | 205817 | [205817-dating-my-high-school-bully.json](./205817-dating-my-high-school-bully.json) |
@@ -715,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Robotnik's Mean Bean Tetris | 264896 | [264896-dr-robotniks-mean-bean-tetris.json](./264896-dr-robotniks-mean-bean-tetris.json) |
 | DracoFighter | 207527 | [207527-dracofighter.json](./207527-dracofighter.json) |
 | Draconic Evolution | 232672 | [232672-draconic-evolution.json](./232672-draconic-evolution.json) |
+| Dracu-Riot! | 137087 | [137087-dracu-riot.json](./137087-dracu-riot.json) |
 | Dracula vs. The Ninja On the Moon | 144306 | [144306-dracula-vs-the-ninja-on-the-moon.json](./144306-dracula-vs-the-ninja-on-the-moon.json) |
 | Draculator II: Byte of the Draculator | 168389 | [168389-draculator-ii-byte-of-the-draculator.json](./168389-draculator-ii-byte-of-the-draculator.json) |
 | Draft Day Sports: College Basketball 2022 | 191891 | [191891-draft-day-sports-college-basketball-2022.json](./191891-draft-day-sports-college-basketball-2022.json) |
