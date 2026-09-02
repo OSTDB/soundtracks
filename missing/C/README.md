@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case Files: The Death of Paulette Williams | 213024 | [213024-case-files-the-death-of-paulette-williams.json](./213024-case-files-the-death-of-paulette-williams.json) |
 | Casino Boss Simulator | 278701 | [278701-casino-boss-simulator.json](./278701-casino-boss-simulator.json) |
 | Cassette Boy | 248898 | [248898-cassette-boy.json](./248898-cassette-boy.json) |
+| Cassidy | 145032 | [145032-cassidy.json](./145032-cassidy.json) |
 | Cassius | 172197 | [172197-cassius.json](./172197-cassius.json) |
 | Castaway Coconuts | 307916 | [307916-castaway-coconuts.json](./307916-castaway-coconuts.json) |
 | Castelian | 295029 | [295029-castelian.json](./295029-castelian.json) |
@@ -717,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connor | 218145 | [218145-connor.json](./218145-connor.json) |
 | Conquer the Dungeon | 190720 | [190720-conquer-the-dungeon.json](./190720-conquer-the-dungeon.json) |
 | Conquer: Napoleonic Wars | 235447 | [235447-conquer-napoleonic-wars.json](./235447-conquer-napoleonic-wars.json) |
+| Conqueror 940 AD | 144985 | [144985-conqueror-940-ad.json](./144985-conqueror-940-ad.json) |
 | Conqueror's Blade: Colosseum | 217526 | [217526-conquerors-blade-colosseum.json](./217526-conquerors-blade-colosseum.json) |
 | Conqueror's Blade: Helheim | 217525 | [217525-conquerors-blade-helheim.json](./217525-conquerors-blade-helheim.json) |
 | Conquest of Kings | 295566 | [295566-conquest-of-kings.json](./295566-conquest-of-kings.json) |
@@ -797,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo 02 | 165690 | [165690-cosmo-02.json](./165690-cosmo-02.json) |
 | Cosmo Race | 196335 | [196335-cosmo-race.json](./196335-cosmo-race.json) |
 | Cosmoblaster Exodia | 192939 | [192939-cosmoblaster-exodia.json](./192939-cosmoblaster-exodia.json) |
+| Cosmodread | 144994 | [144994-cosmodread.json](./144994-cosmodread.json) |
 | Cosmophage | 148552 | [148552-cosmophage.json](./148552-cosmophage.json) |
 | Cosmos Kitten | 332843 | [332843-cosmos-kitten.json](./332843-cosmos-kitten.json) |
 | Cosmoscope | 158200 | [158200-cosmoscope.json](./158200-cosmoscope.json) |
