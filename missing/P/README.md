@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paramnesia: Escape Together | 244489 | [244489-paramnesia-escape-together.json](./244489-paramnesia-escape-together.json) |
 | Paranatural | 310763 | [310763-paranatural.json](./310763-paranatural.json) |
 | Paranoia | 165050 | [165050-paranoia.json](./165050-paranoia.json) |
+| Paranoia 2: Savior | 123592 | [123592-paranoia-2-savior.json](./123592-paranoia-2-savior.json) |
 | Paranoide | 333371 | [333371-paranoide.json](./333371-paranoide.json) |
 | Paranormal Watcher | 335082 | [335082-paranormal-watcher.json](./335082-paranormal-watcher.json) |
 | Pararena | 130356 | [130356-pararena.json](./130356-pararena.json) |
@@ -1037,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo | 146876 | [146876-puyo-puyo.json](./146876-puyo-puyo.json) |
 | Puyo Puyo Puzzle Pop | 291210 | [291210-puyo-puyo-puzzle-pop.json](./291210-puyo-puyo-puzzle-pop.json) |
 | Puzzl9 | 178650 | [178650-puzzl9.json](./178650-puzzl9.json) |
+| Puzzle & Action: Treasure Hunt | 123590 | [123590-puzzle-and-action-treasure-hunt.json](./123590-puzzle-and-action-treasure-hunt.json) |
 | Puzzle Adventures | 251813 | [251813-puzzle-adventures.json](./251813-puzzle-adventures.json) |
 | Puzzle Block Blast | 221382 | [221382-puzzle-block-blast.json](./221382-puzzle-block-blast.json) |
 | Puzzle Bundle Xbox: Mimi New Friend, Sokocrab and StoryBlocks | 335104 | [335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json](./335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json) |
