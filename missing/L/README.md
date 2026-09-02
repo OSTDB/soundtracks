@@ -328,10 +328,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Red Riding Hood A | 225313 | [225313-little-red-riding-hood-a.json](./225313-little-red-riding-hood-a.json) |
 | Little Red Riding Hood B | 225312 | [225312-little-red-riding-hood-b.json](./225312-little-red-riding-hood-b.json) |
 | Little Red Rocket Ship | 190199 | [190199-little-red-rocket-ship.json](./190199-little-red-rocket-ship.json) |
+| Little Robot Stories | 149588 | [149588-little-robot-stories.json](./149588-little-robot-stories.json) |
 | Little Shaker: Summer Adventures | 237623 | [237623-little-shaker-summer-adventures.json](./237623-little-shaker-summer-adventures.json) |
 | Little Sparks | 189168 | [189168-little-sparks.json](./189168-little-sparks.json) |
 | Little Things Remastered | 175935 | [175935-little-things-remastered.json](./175935-little-things-remastered.json) |
 | Little Witch Nobeta: Limited Edition | 205259 | [205259-little-witch-nobeta-limited-edition.json](./205259-little-witch-nobeta-limited-edition.json) |
+| Little Wolf | 149570 | [149570-little-wolf.json](./149570-little-wolf.json) |
 | Little-Known Galaxy | 273654 | [273654-little-known-galaxy.json](./273654-little-known-galaxy.json) |
 | LittleBigPlanet: Pirates of the Caribbean Level Kit | 194642 | [194642-littlebigplanet-pirates-of-the-caribbean-level-kit.json](./194642-littlebigplanet-pirates-of-the-caribbean-level-kit.json) |
 | Live Cycling Manager 2022 | 215920 | [215920-live-cycling-manager-2022.json](./215920-live-cycling-manager-2022.json) |
