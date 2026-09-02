@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eigen Space | 192427 | [192427-eigen-space.json](./192427-eigen-space.json) |
 | Eigenstate | 176470 | [176470-eigenstate.json](./176470-eigenstate.json) |
 | Eighth Era | 329967 | [329967-eighth-era.json](./329967-eighth-era.json) |
+| Ein Fall für TKKG: Katjas Geheimnis | 127995 | [127995-ein-fall-fur-tkkg-katjas-geheimnis.json](./127995-ein-fall-fur-tkkg-katjas-geheimnis.json) |
 | Eko | 223673 | [223673-eko.json](./223673-eko.json) |
 | El Chavo | 331122 | [331122-el-chavo.json](./331122-el-chavo.json) |
 | El Dorado | 312880 | [312880-el-dorado.json](./312880-el-dorado.json) |
