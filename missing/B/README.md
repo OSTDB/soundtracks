@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babes Reloaded | 272024 | [272024-babes-reloaded.json](./272024-babes-reloaded.json) |
 | BabushCats | 297778 | [297778-babushcats.json](./297778-babushcats.json) |
 | Baby Blimp | 177054 | [177054-baby-blimp.json](./177054-baby-blimp.json) |
+| Baby Puzzle: First Learning Shapes for Toddlers | 147985 | [147985-baby-puzzle-first-learning-shapes-for-toddlers.json](./147985-baby-puzzle-first-learning-shapes-for-toddlers.json) |
 | Baby Shapes for Kids | 225893 | [225893-baby-shapes-for-kids.json](./225893-baby-shapes-for-kids.json) |
 | Baby Time Simulator | 269275 | [269275-baby-time-simulator.json](./269275-baby-time-simulator.json) |
 | Back 2 School | 192417 | [192417-back-2-school.json](./192417-back-2-school.json) |
@@ -767,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken War | 309136 | [309136-broken-war.json](./309136-broken-war.json) |
 | Broventure: The Wild Co-op | 332270 | [332270-broventure-the-wild-co-op.json](./332270-broventure-the-wild-co-op.json) |
 | Brown Trouble | 295011 | [295011-brown-trouble.json](./295011-brown-trouble.json) |
+| Brunswick Pro Billiards | 147954 | [147954-brunswick-pro-billiards.json](./147954-brunswick-pro-billiards.json) |
 | Brutal Strike | 235459 | [235459-brutal-strike.json](./235459-brutal-strike.json) |
 | Brutal Wizardry | 159869 | [159869-brutal-wizardry.json](./159869-brutal-wizardry.json) |
 | Brutalism22 | 244470 | [244470-brutalism22.json](./244470-brutalism22.json) |
