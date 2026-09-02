@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of a Cat in Space | 322357 | [322357-adventures-of-a-cat-in-space.json](./322357-adventures-of-a-cat-in-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of Bruce | 141228 | [141228-adventures-of-bruce.json](./141228-adventures-of-bruce.json) |
+| Adventures of musical tones and their notes | 130934 | [130934-adventures-of-musical-tones-and-their-notes.json](./130934-adventures-of-musical-tones-and-their-notes.json) |
 | Adventures of Quin85 | 209629 | [209629-adventures-of-quin85.json](./209629-adventures-of-quin85.json) |
 | Adventures of the Old Testament: The Bible Video Game | 211395 | [211395-adventures-of-the-old-testament-the-bible-video-game.json](./211395-adventures-of-the-old-testament-the-bible-video-game.json) |
 | Adversator | 180289 | [180289-adversator.json](./180289-adversator.json) |
@@ -966,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
 | Astroblitz | 146299 | [146299-astroblitz.json](./146299-astroblitz.json) |
 | Astrodition | 149583 | [149583-astrodition.json](./149583-astrodition.json) |
+| Astrologer | 130963 | [130963-astrologer.json](./130963-astrologer.json) |
 | Astronaut Spacewalk | 174354 | [174354-astronaut-spacewalk.json](./174354-astronaut-spacewalk.json) |
 | Astronomics Rise of a New Empire | 244513 | [244513-astronomics-rise-of-a-new-empire.json](./244513-astronomics-rise-of-a-new-empire.json) |
 | Asu Kano! Asu mo Kanojo to Issho! | 209141 | [209141-asu-kano-asu-mo-kanojo-to-issho.json](./209141-asu-kano-asu-mo-kanojo-to-issho.json) |
