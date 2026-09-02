@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chip Beat Blaster | 232145 | [232145-chip-beat-blaster.json](./232145-chip-beat-blaster.json) |
 | ChiroTerra | 278168 | [278168-chiroterra.json](./278168-chiroterra.json) |
 | Chivalry 2: Regicide Update | 312382 | [312382-chivalry-2-regicide-update.json](./312382-chivalry-2-regicide-update.json) |
+| Chlorophos | 119742 | [119742-chlorophos.json](./119742-chlorophos.json) |
 | Cho Chabudai Gaeshi! 2 | 313483 | [313483-cho-chabudai-gaeshi-2.json](./313483-cho-chabudai-gaeshi-2.json) |
 | Choco-ken no Chokotto Fushigi na Monogatari: Chocolate Hime to Mahou no Recipe | 222517 | [222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json](./222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json) |
 | Choice of Life: Wild Islands | 253576 | [253576-choice-of-life-wild-islands.json](./253576-choice-of-life-wild-islands.json) |
@@ -574,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clay God | 303753 | [303753-clay-god.json](./303753-clay-god.json) |
 | Clay Shooter | 192981 | [192981-clay-shooter.json](./192981-clay-shooter.json) |
 | Clean Cut | 275315 | [275315-clean-cut.json](./275315-clean-cut.json) |
+| Cleaner | 119761 | [119761-cleaner.json](./119761-cleaner.json) |
 | Cleaner Boy | 331133 | [331133-cleaner-boy.json](./331133-cleaner-boy.json) |
 | Cleaning Girls | 258174 | [258174-cleaning-girls.json](./258174-cleaning-girls.json) |
 | Cleimos | 260945 | [260945-cleimos.json](./260945-cleimos.json) |
@@ -617,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudsea | 196871 | [196871-cloudsea.json](./196871-cloudsea.json) |
 | Cloudy & Stormy: Pawtastic Adventure | 333911 | [333911-cloudy-and-stormy-pawtastic-adventure.json](./333911-cloudy-and-stormy-pawtastic-adventure.json) |
 | Cloverheart | 140019 | [140019-cloverheart.json](./140019-cloverheart.json) |
+| CLS: Signal Person | 119778 | [119778-cls-signal-person.json](./119778-cls-signal-person.json) |
 | Clu Clu Land D | 170022 | [170022-clu-clu-land-d.json](./170022-clu-clu-land-d.json) |
 | Clu Clu Land-e | 170007 | [170007-clu-clu-land-e.json](./170007-clu-clu-land-e.json) |
 | Club Goblin | 184642 | [184642-club-goblin.json](./184642-club-goblin.json) |
@@ -1054,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruellete | 335676 | [335676-cruellete.json](./335676-cruellete.json) |
 | Cruise Ships Manager | 218698 | [218698-cruise-ships-manager.json](./218698-cruise-ships-manager.json) |
 | Crunch Bandicoot: Submarine Hunt | 314660 | [314660-crunch-bandicoot-submarine-hunt.json](./314660-crunch-bandicoot-submarine-hunt.json) |
+| Crunch Element | 119770 | [119770-crunch-element.json](./119770-crunch-element.json) |
 | Crunch Time! | 218161 | [218161-crunch-time.json](./218161-crunch-time.json) |
 | Crusade of Deitra | 173296 | [173296-crusade-of-deitra.json](./173296-crusade-of-deitra.json) |
 | Crusader Kings III: Northern Lords | 164510 | [164510-crusader-kings-iii-northern-lords.json](./164510-crusader-kings-iii-northern-lords.json) |
