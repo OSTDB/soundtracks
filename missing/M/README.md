@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Rider | 145025 | [145025-mad-rider.json](./145025-mad-rider.json) |
 | Mad Skills | 181353 | [181353-mad-skills.json](./181353-mad-skills.json) |
 | Mad Skills Motocross 3 | 241639 | [241639-mad-skills-motocross-3.json](./241639-mad-skills-motocross-3.json) |
+| Madden NFL 20: Ultimate Superstar Edition | 119063 | [119063-madden-nfl-20-ultimate-superstar-edition.json](./119063-madden-nfl-20-ultimate-superstar-edition.json) |
 | Madden NFL 21: Ultimate Team Starter Pack | 140010 | [140010-madden-nfl-21-ultimate-team-starter-pack.json](./140010-madden-nfl-21-ultimate-team-starter-pack.json) |
 | Madden NFL 22: Dynasty Edition | 155098 | [155098-madden-nfl-22-dynasty-edition.json](./155098-madden-nfl-22-dynasty-edition.json) |
 | Madden NFL 23: All Madden Edition | 204081 | [204081-madden-nfl-23-all-madden-edition.json](./204081-madden-nfl-23-all-madden-edition.json) |
@@ -307,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of Puzzle: Echoes | 151209 | [151209-masters-of-puzzle-echoes.json](./151209-masters-of-puzzle-echoes.json) |
 | Mata Yume no Naka de | 205239 | [205239-mata-yume-no-naka-de.json](./205239-mata-yume-no-naka-de.json) |
 | Mata, Itsuka. | 201309 | [201309-mata-itsuka.json](./201309-mata-itsuka.json) |
+| Match | 119019 | [119019-match.json](./119019-match.json) |
 | Match 3 Bundle of 3 | 218716 | [218716-match-3-bundle-of-3.json](./218716-match-3-bundle-of-3.json) |
 | Match 3 Fantasy | 197389 | [197389-match-3-fantasy.json](./197389-match-3-fantasy.json) |
 | Match it | 337989 | [337989-match-it.json](./337989-match-it.json) |
@@ -784,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixx Island: Remix Vol. 2 | 186316 | [186316-mixx-island-remix-vol-2.json](./186316-mixx-island-remix-vol-2.json) |
 | MJ | 130945 | [130945-mj.json](./130945-mj.json) |
 | MLB Home Run Derby VR | 293378 | [293378-mlb-home-run-derby-vr.json](./293378-mlb-home-run-derby-vr.json) |
+| MLB The Show 19: MVP Edition | 119070 | [119070-mlb-the-show-19-mvp-edition.json](./119070-mlb-the-show-19-mvp-edition.json) |
 | MMA Championship | 189178 | [189178-mma-championship.json](./189178-mma-championship.json) |
 | Moai Alley | 332802 | [332802-moai-alley.json](./332802-moai-alley.json) |
 | MOAR: Appeteaser | 209718 | [209718-moar-appeteaser.json](./209718-moar-appeteaser.json) |
