@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween: The Twelve Cards Curse | 294436 | [294436-halloween-the-twelve-cards-curse.json](./294436-halloween-the-twelve-cards-curse.json) |
 | Halls of Death | 229363 | [229363-halls-of-death.json](./229363-halls-of-death.json) |
 | Halo 2 Digsite: Alpha Moon | 332818 | [332818-halo-2-digsite-alpha-moon.json](./332818-halo-2-digsite-alpha-moon.json) |
+| Halo 3 & Fable II Double Pack | 141865 | [141865-halo-3-and-fable-ii-double-pack.json](./141865-halo-3-and-fable-ii-double-pack.json) |
 | Halo: Combat Devolved | 243401 | [243401-halo-combat-devolved.json](./243401-halo-combat-devolved.json) |
 | Halo: Combat Evolved - E3 2000 Demo | 326970 | [326970-halo-combat-evolved-e3-2000-demo.json](./326970-halo-combat-evolved-e3-2000-demo.json) |
 | Hamelin | 229364 | [229364-hamelin.json](./229364-hamelin.json) |
@@ -406,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hifuu Bouenkyou | 222505 | [222505-hifuu-bouenkyou.json](./222505-hifuu-bouenkyou.json) |
 | High Dive | 233747 | [233747-high-dive.json](./233747-high-dive.json) |
 | High Fructose | 277011 | [277011-high-fructose.json](./277011-high-fructose.json) |
+| High Noon Drifter | 141868 | [141868-high-noon-drifter.json](./141868-high-noon-drifter.json) |
 | High Rise | 330538 | [330538-high-rise.json](./330538-high-rise.json) |
 | High School Daze: Afterschool Stories | 264349 | [264349-high-school-daze-afterschool-stories.json](./264349-high-school-daze-afterschool-stories.json) |
 | High School Daze: Junior Year | 264348 | [264348-high-school-daze-junior-year.json](./264348-high-school-daze-junior-year.json) |
@@ -430,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hihou-den: Taiyou wo Motomeru Mono-tachi | 249465 | [249465-hihou-den-taiyou-wo-motomeru-mono-tachi.json](./249465-hihou-den-taiyou-wo-motomeru-mono-tachi.json) |
 | Hiirun | 257112 | [257112-hiirun.json](./257112-hiirun.json) |
 | Hikeback | 176492 | [176492-hikeback.json](./176492-hikeback.json) |
+| Hills & Hollows | 141876 | [141876-hills-and-hollows.json](./141876-hills-and-hollows.json) |
 | Hilltop Hotrods | 233231 | [233231-hilltop-hotrods.json](./233231-hilltop-hotrods.json) |
 | Him & Her: Her Challenges | 238195 | [238195-him-and-her-her-challenges.json](./238195-him-and-her-her-challenges.json) |
 | Himawari Catastrophe! | 333912 | [333912-himawari-catastrophe.json](./333912-himawari-catastrophe.json) |
@@ -522,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopeless. | 228080 | [228080-hopeless.json](./228080-hopeless.json) |
 | Hoppe Chan: Punitto Shibotte Daibouken! | 222538 | [222538-hoppe-chan-punitto-shibotte-daibouken.json](./222538-hoppe-chan-punitto-shibotte-daibouken.json) |
 | Hopper | 144374 | [144374-hopper.json](./144374-hopper.json) |
+| Hoppup! | 141878 | [141878-hoppup.json](./141878-hoppup.json) |
 | Hopshot | 331129 | [331129-hopshot.json](./331129-hopshot.json) |
 | Horatama | 157159 | [157159-horatama.json](./157159-horatama.json) |
 | Horcrux College | 340215 | [340215-horcrux-college.json](./340215-horcrux-college.json) |
