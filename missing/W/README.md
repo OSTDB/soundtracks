@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Worlds | 333949 | [333949-war-of-the-worlds.json](./333949-war-of-the-worlds.json) |
 | War Pinball | 209715 | [209715-war-pinball.json](./209715-war-pinball.json) |
 | War Pirates | 237639 | [237639-war-pirates.json](./237639-war-pirates.json) |
+| War Remains | 124265 | [124265-war-remains.json](./124265-war-remains.json) |
 | War Robots: Frontiers - Lancelot Rising | 335099 | [335099-war-robots-frontiers-lancelot-rising.json](./335099-war-robots-frontiers-lancelot-rising.json) |
 | War Robots: Planet Defender | 127379 | [127379-war-robots-planet-defender.json](./127379-war-robots-planet-defender.json) |
 | War Saber | 137689 | [137689-war-saber.json](./137689-war-saber.json) |
@@ -77,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Thunder: Marder Clovis Pack | 336935 | [336935-war-thunder-marder-clovis-pack.json](./336935-war-thunder-marder-clovis-pack.json) |
 | War Thunder: Somua SM Pack | 336936 | [336936-war-thunder-somua-sm-pack.json](./336936-war-thunder-somua-sm-pack.json) |
 | War Thunder: Wyvern Pack | 336937 | [336937-war-thunder-wyvern-pack.json](./336937-war-thunder-wyvern-pack.json) |
+| War Trains | 124239 | [124239-war-trains.json](./124239-war-trains.json) |
 | War Yards | 139480 | [139480-war-yards.json](./139480-war-yards.json) |
 | Warbot Engineer | 337458 | [337458-warbot-engineer.json](./337458-warbot-engineer.json) |
 | Warcos | 185676 | [185676-warcos.json](./185676-warcos.json) |
