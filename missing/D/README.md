@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Prisms | 243972 | [243972-dark-prisms.json](./243972-dark-prisms.json) |
 | Dark Quest | 145651 | [145651-dark-quest.json](./145651-dark-quest.json) |
 | Dark Romance: Vampire Origins - Collector's Edition | 209716 | [209716-dark-romance-vampire-origins-collectors-edition.json](./209716-dark-romance-vampire-origins-collectors-edition.json) |
+| Dark Sauce | 113693 | [113693-dark-sauce.json](./113693-dark-sauce.json) |
 | Dark Skies 2: Keepers of Nemansk | 296689 | [296689-dark-skies-2-keepers-of-nemansk.json](./296689-dark-skies-2-keepers-of-nemansk.json) |
 | Dark Swords | 119044 | [119044-dark-swords.json](./119044-dark-swords.json) |
 | Dark Tales: Edgar Allan Poe's The Black Cat - Collector's Edition | 201826 | [201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json](./201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json) |
@@ -407,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Mark | 253589 | [253589-desktop-mark.json](./253589-desktop-mark.json) |
 | Desktop Pals | 306687 | [306687-desktop-pals.json](./306687-desktop-pals.json) |
 | Desmond's Dungeon | 294474 | [294474-desmonds-dungeon.json](./294474-desmonds-dungeon.json) |
+| Desolate City: The Bloody Dawn - Enhanced Edition | 113731 | [113731-desolate-city-the-bloody-dawn-enhanced-edition.json](./113731-desolate-city-the-bloody-dawn-enhanced-edition.json) |
 | Despair | 268774 | [268774-despair.json](./268774-despair.json) |
 | Desperabis | 121707 | [121707-desperabis.json](./121707-desperabis.json) |
 | Desstroke | 207505 | [207505-desstroke.json](./207505-desstroke.json) |
@@ -435,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Story | 148553 | [148553-detective-story.json](./148553-detective-story.json) |
 | Detective: Minerva Case | 275334 | [275334-detective-minerva-case.json](./275334-detective-minerva-case.json) |
 | Detectives United: Origins - Collector's Edition | 248337 | [248337-detectives-united-origins-collectors-edition.json](./248337-detectives-united-origins-collectors-edition.json) |
+| Detectivez | 113683 | [113683-detectivez.json](./113683-detectivez.json) |
 | Detention Club: School's Out | 167813 | [167813-detention-club-schools-out.json](./167813-detention-club-schools-out.json) |
 | Detourist | 278744 | [278744-detourist.json](./278744-detourist.json) |
 | Detuned | 239317 | [239317-detuned.json](./239317-detuned.json) |
@@ -585,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diversant | 180294 | [180294-diversant.json](./180294-diversant.json) |
 | Divided Kingdoms | 158206 | [158206-divided-kingdoms.json](./158206-divided-kingdoms.json) |
 | Divination | 339102 | [339102-divination.json](./339102-divination.json) |
+| Divine Business: Fantasy Trading Simulator | 113744 | [113744-divine-business-fantasy-trading-simulator.json](./113744-divine-business-fantasy-trading-simulator.json) |
 | Divine Doubt | 278707 | [278707-divine-doubt.json](./278707-divine-doubt.json) |
 | Divine Dynamo Flamefrit | 309095 | [309095-divine-dynamo-flamefrit.json](./309095-divine-dynamo-flamefrit.json) |
 | Divine Gate Zero | 227486 | [227486-divine-gate-zero.json](./227486-divine-gate-zero.json) |
@@ -823,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Bane | 148541 | [148541-dragons-bane.json](./148541-dragons-bane.json) |
 | Dragon's Dogma II: Dragon's Dogma Music & Sound Collection - Custom Sounds | 308568 | [308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json](./308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json) |
 | Dragon's Heaven | 264306 | [264306-dragons-heaven.json](./264306-dragons-heaven.json) |
+| Dragon's Hope | 113740 | [113740-dragons-hope.json](./113740-dragons-hope.json) |
 | Dragon's Lair | 272020 | [272020-dragons-lair.json](./272020-dragons-lair.json) |
 | Dragon's Lair | 272021 | [272021-dragons-lair.json](./272021-dragons-lair.json) |
 | Dragon's Wandering Tavern | 153985 | [153985-dragons-wandering-tavern.json](./153985-dragons-wandering-tavern.json) |
