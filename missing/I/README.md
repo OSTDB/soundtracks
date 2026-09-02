@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intimate, Infinite | 134009 | [134009-intimate-infinite.json](./134009-intimate-infinite.json) |
 | Into Asteroid Belt | 178641 | [178641-into-asteroid-belt.json](./178641-into-asteroid-belt.json) |
 | Into Oblivion | 301586 | [301586-into-oblivion.json](./301586-into-oblivion.json) |
+| Into the Blue | 109033 | [109033-into-the-blue.json](./109033-into-the-blue.json) |
 | Into the Core | 118429 | [118429-into-the-core.json](./118429-into-the-core.json) |
 | Into The Corner | 339112 | [339112-into-the-corner.json](./339112-into-the-corner.json) |
 | Into the Dark | 199644 | [199644-into-the-dark.json](./199644-into-the-dark.json) |
@@ -390,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irresistible Love | 340764 | [340764-irresistible-love.json](./340764-irresistible-love.json) |
 | Iruka Iru Ka | 187491 | [187491-iruka-iru-ka.json](./187491-iruka-iru-ka.json) |
 | Irwin Ego: Ace Attorney | 302652 | [302652-irwin-ego-ace-attorney.json](./302652-irwin-ego-ace-attorney.json) |
+| Is it Love ? Nicolae Vampire | 109023 | [109023-is-it-love-nicolae-vampire.json](./109023-is-it-love-nicolae-vampire.json) |
 | Is it Love? Blue Swan Hospital | 116392 | [116392-is-it-love-blue-swan-hospital.json](./116392-is-it-love-blue-swan-hospital.json) |
 | Is It Wrong To Try To Rescue Monster Girls From The Inquisition? | 247774 | [247774-is-it-wrong-to-try-to-rescue-monster-girls-from-the-inquisition.json](./247774-is-it-wrong-to-try-to-rescue-monster-girls-from-the-inquisition.json) |
 | Is This Even Chess? | 275350 | [275350-is-this-even-chess.json](./275350-is-this-even-chess.json) |
@@ -426,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Issho ni Henshin Fresh Pretty Cure | 327591 | [327591-issho-ni-henshin-fresh-pretty-cure.json](./327591-issho-ni-henshin-fresh-pretty-cure.json) |
 | Istanbul | 274194 | [274194-istanbul.json](./274194-istanbul.json) |
 | It All Boils Down to This | 184125 | [184125-it-all-boils-down-to-this.json](./184125-it-all-boils-down-to-this.json) |
+| It Came From the Closet | 109050 | [109050-it-came-from-the-closet.json](./109050-it-came-from-the-closet.json) |
 | It Goes Away in the End | 312920 | [312920-it-goes-away-in-the-end.json](./312920-it-goes-away-in-the-end.json) |
 | It Is Coming | 335665 | [335665-it-is-coming.json](./335665-it-is-coming.json) |
 | It Knows You're Here | 185134 | [185134-it-knows-youre-here.json](./185134-it-knows-youre-here.json) |
