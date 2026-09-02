@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaos | 118397 | [118397-kaos.json](./118397-kaos.json) |
 | Kapih | 332262 | [332262-kapih.json](./332262-kapih.json) |
 | Kappa Nittori-chan | 205790 | [205790-kappa-nittori-chan.json](./205790-kappa-nittori-chan.json) |
+| Kara's Darkness Chapter 1 | 102154 | [102154-karas-darkness-chapter-1.json](./102154-karas-darkness-chapter-1.json) |
 | Karaoke Joysound for Nintendo Switch | 146313 | [146313-karaoke-joysound-for-nintendo-switch.json](./146313-karaoke-joysound-for-nintendo-switch.json) |
 | Karaoke Party | 137687 | [137687-karaoke-party.json](./137687-karaoke-party.json) |
 | Karate Hero | 234318 | [234318-karate-hero.json](./234318-karate-hero.json) |
@@ -151,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick-the-Can | 296101 | [296101-kick-the-can.json](./296101-kick-the-can.json) |
 | Kickabit | 319966 | [319966-kickabit.json](./319966-kickabit.json) |
 | Kickback | 108491 | [108491-kickback.json](./108491-kickback.json) |
+| kicker VR | 102182 | [102182-kicker-vr.json](./102182-kicker-vr.json) |
 | Kickin Kong | 261532 | [261532-kickin-kong.json](./261532-kickin-kong.json) |
 | Kickrexing | 193487 | [193487-kickrexing.json](./193487-kickrexing.json) |
 | Kid 4 $29.99 | 141871 | [141871-kid-4-29-99.json](./141871-kid-4-29-99.json) |
