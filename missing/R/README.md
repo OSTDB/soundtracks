@@ -670,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll Turtle | 208577 | [208577-roll-turtle.json](./208577-roll-turtle.json) |
 | Rollerball | 298843 | [298843-rollerball.json](./298843-rollerball.json) |
 | Rollergames | 138793 | [138793-rollergames.json](./138793-rollergames.json) |
+| RollerPlay | 121017 | [121017-rollerplay.json](./121017-rollerplay.json) |
 | Rollick N' Roll | 339645 | [339645-rollick-n-roll.json](./339645-rollick-n-roll.json) |
 | Rollie | 143073 | [143073-rollie.json](./143073-rollie.json) |
 | Rolling Ex.tre.me | 321752 | [321752-rolling-ex-tre-me.json](./321752-rolling-ex-tre-me.json) |
@@ -803,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruma | 274210 | [274210-ruma.json](./274210-ruma.json) |
 | Rumble Heroes | 242203 | [242203-rumble-heroes.json](./242203-rumble-heroes.json) |
 | Rumble League | 126042 | [126042-rumble-league.json](./126042-rumble-league.json) |
+| Rumia in the darkness | 121013 | [121013-rumia-in-the-darkness.json](./121013-rumia-in-the-darkness.json) |
 | Run & Jump Guy | 304363 | [304363-run-and-jump-guy.json](./304363-run-and-jump-guy.json) |
 | Run Away With Me, Empress! | 225270 | [225270-run-away-with-me-empress.json](./225270-run-away-with-me-empress.json) |
 | Run Buddy | 274211 | [274211-run-buddy.json](./274211-run-buddy.json) |
@@ -829,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RunnerDot | 153986 | [153986-runnerdot.json](./153986-runnerdot.json) |
 | RunnerSky | 181395 | [181395-runnersky.json](./181395-runnersky.json) |
 | Running Back to You | 191894 | [191894-running-back-to-you.json](./191894-running-back-to-you.json) |
+| Running Black | 120990 | [120990-running-black.json](./120990-running-black.json) |
 | Running Fox | 267061 | [267061-running-fox.json](./267061-running-fox.json) |
 | Running MrBeast | 229338 | [229338-running-mrbeast.json](./229338-running-mrbeast.json) |
 | Running Strike | 247174 | [247174-running-strike.json](./247174-running-strike.json) |
