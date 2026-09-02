@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Display Cabinet | 258207 | [258207-achievement-display-cabinet.json](./258207-achievement-display-cabinet.json) |
 | Achievement Hunter: Begins | 307333 | [307333-achievement-hunter-begins.json](./307333-achievement-hunter-begins.json) |
 | ACL Pro Cornhole | 211391 | [211391-acl-pro-cornhole.json](./211391-acl-pro-cornhole.json) |
+| ACM 1918 | 129795 | [129795-acm-1918.json](./129795-acm-1918.json) |
 | Acorn-A-Thon | 307328 | [307328-acorn-a-thon.json](./307328-acorn-a-thon.json) |
 | Acquaria | 132868 | [132868-acquaria.json](./132868-acquaria.json) |
 | Acras | 211392 | [211392-acras.json](./211392-acras.json) |
@@ -544,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Us: Crewmate Edition | 155093 | [155093-among-us-crewmate-edition.json](./155093-among-us-crewmate-edition.json) |
 | Among Us: Ejected Edition | 155092 | [155092-among-us-ejected-edition.json](./155092-among-us-ejected-edition.json) |
 | Among Us: Impostor Edition | 155094 | [155094-among-us-impostor-edition.json](./155094-among-us-impostor-edition.json) |
+| Amour Libre: Free Love | 129794 | [129794-amour-libre-free-love.json](./129794-amour-libre-free-love.json) |
 | Ampguard | 188678 | [188678-ampguard.json](./188678-ampguard.json) |
 | AMseven | 336390 | [336390-amseven.json](./336390-amseven.json) |
 | Amy Adventure | 331108 | [331108-amy-adventure.json](./331108-amy-adventure.json) |
@@ -713,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AploVVare Collection | 263219 | [263219-aplovvare-collection.json](./263219-aplovvare-collection.json) |
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - Museum of Horror! | 171089 | [171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json](./171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json) |
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - The Thin Blue Line! | 171088 | [171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json](./171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json) |
+| Apocalypse Z: Survival | 129803 | [129803-apocalypse-z-survival.json](./129803-apocalypse-z-survival.json) |
 | Apocalyptic Vibes | 189189 | [189189-apocalyptic-vibes.json](./189189-apocalyptic-vibes.json) |
 | Apollo Justice: Ace Attorney 4 | 318771 | [318771-apollo-justice-ace-attorney-4.json](./318771-apollo-justice-ace-attorney-4.json) |
 | Apophis | 136490 | [136490-apophis.json](./136490-apophis.json) |
@@ -755,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Mazinger Z | 249490 | [249490-arcade-archives-mazinger-z.json](./249490-arcade-archives-mazinger-z.json) |
 | Arcade Archives: Metal Black | 225889 | [225889-arcade-archives-metal-black.json](./225889-arcade-archives-metal-black.json) |
 | Arcade Archives: Ordyne | 223153 | [223153-arcade-archives-ordyne.json](./223153-arcade-archives-ordyne.json) |
+| Arcade Archives: Saint Dragon | 129766 | [129766-arcade-archives-saint-dragon.json](./129766-arcade-archives-saint-dragon.json) |
 | Arcade Archives: vs. Mystery Tower | 335093 | [335093-arcade-archives-vs-mystery-tower.json](./335093-arcade-archives-vs-mystery-tower.json) |
 | Arcade Archives: Warp & Warp | 277578 | [277578-arcade-archives-warp-and-warp.json](./277578-arcade-archives-warp-and-warp.json) |
 | Arcade Archives: Wonder Boy | 141885 | [141885-arcade-archives-wonder-boy.json](./141885-arcade-archives-wonder-boy.json) |
