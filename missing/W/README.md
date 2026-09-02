@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waimanu: Grinding Block Adventure | 123628 | [123628-waimanu-grinding-block-adventure.json](./123628-waimanu-grinding-block-adventure.json) |
 | WaiWai Drive | 312353 | [312353-waiwai-drive.json](./312353-waiwai-drive.json) |
 | Wakdoo Random Defence | 188098 | [188098-wakdoo-random-defence.json](./188098-wakdoo-random-defence.json) |
+| Wake Up, Good Guardian! | 107866 | [107866-wake-up-good-guardian.json](./107866-wake-up-good-guardian.json) |
 | Wakfu: Ouginak Pack | 225873 | [225873-wakfu-ouginak-pack.json](./225873-wakfu-ouginak-pack.json) |
 | Waking Atlas | 251829 | [251829-waking-atlas.json](./251829-waking-atlas.json) |
 | Wales Interactive Publisher Bundle | 301564 | [301564-wales-interactive-publisher-bundle.json](./301564-wales-interactive-publisher-bundle.json) |
@@ -121,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp Soldier | 216486 | [216486-warp-soldier.json](./216486-warp-soldier.json) |
 | Warpaws | 219259 | [219259-warpaws.json](./219259-warpaws.json) |
 | WarPlan | 125460 | [125460-warplan.json](./125460-warplan.json) |
+| WarPods | 107865 | [107865-warpods.json](./107865-warpods.json) |
 | Warrior | 215906 | [215906-warrior.json](./215906-warrior.json) |
 | Warrior Clicker | 227492 | [227492-warrior-clicker.json](./227492-warrior-clicker.json) |
 | Warrior Heart | 200204 | [200204-warrior-heart.json](./200204-warrior-heart.json) |
@@ -350,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wire Flying Maid | 129236 | [129236-wire-flying-maid.json](./129236-wire-flying-maid.json) |
 | Wireball | 121721 | [121721-wireball.json](./121721-wireball.json) |
 | Wish Stone: Nonogram | 312363 | [312363-wish-stone-nonogram.json](./312363-wish-stone-nonogram.json) |
+| Wishes In Pen: Chrysanthemums in August - Otome Visual Novel | 107892 | [107892-wishes-in-pen-chrysanthemums-in-august-otome-visual-novel.json](./107892-wishes-in-pen-chrysanthemums-in-august-otome-visual-novel.json) |
 | Witch & Cats | 258177 | [258177-witch-and-cats.json](./258177-witch-and-cats.json) |
 | Witch Epoch | 203528 | [203528-witch-epoch.json](./203528-witch-epoch.json) |
 | Witch Hunt | 210283 | [210283-witch-hunt.json](./210283-witch-hunt.json) |
