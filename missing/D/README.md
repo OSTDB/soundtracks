@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Desire Mute 5 | 250029 | [250029-dark-desire-mute-5.json](./250029-dark-desire-mute-5.json) |
 | Dark Desire Mute 6 | 260412 | [260412-dark-desire-mute-6.json](./260412-dark-desire-mute-6.json) |
 | Dark Dive: The Last Tropic | 277021 | [277021-dark-dive-the-last-tropic.json](./277021-dark-dive-the-last-tropic.json) |
+| Dark Fairy Fantasy | 122432 | [122432-dark-fairy-fantasy.json](./122432-dark-fairy-fantasy.json) |
 | Dark Farm | 322995 | [322995-dark-farm.json](./322995-dark-farm.json) |
 | Dark Hours | 251843 | [251843-dark-hours.json](./251843-dark-hours.json) |
 | Dark Hunter | 311784 | [311784-dark-hunter.json](./311784-dark-hunter.json) |
@@ -219,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadbait | 161381 | [161381-deadbait.json](./161381-deadbait.json) |
 | Deadblast | 248331 | [248331-deadblast.json](./248331-deadblast.json) |
 | Deaded | 238738 | [238738-deaded.json](./238738-deaded.json) |
+| Deadeus | 122405 | [122405-deadeus.json](./122405-deadeus.json) |
 | Deadeye Deepfake Simulacrum | 156161 | [156161-deadeye-deepfake-simulacrum.json](./156161-deadeye-deepfake-simulacrum.json) |
 | Deadliest Demolition | 274747 | [274747-deadliest-demolition.json](./274747-deadliest-demolition.json) |
 | Deadly Joy | 334503 | [334503-deadly-joy.json](./334503-deadly-joy.json) |
@@ -560,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distraint Collection | 186910 | [186910-distraint-collection.json](./186910-distraint-collection.json) |
 | Distress Signal | 178640 | [178640-distress-signal.json](./178640-distress-signal.json) |
 | Ditch Whit #1: Shield Night | 202922 | [202922-ditch-whit-1-shield-night.json](./202922-ditch-whit-1-shield-night.json) |
+| Dithered | 122411 | [122411-dithered.json](./122411-dithered.json) |
 | Divadlo | 271988 | [271988-divadlo.json](./271988-divadlo.json) |
 | Diver's Dream | 180281 | [180281-divers-dream.json](./180281-divers-dream.json) |
 | Diversant | 180294 | [180294-diversant.json](./180294-diversant.json) |
