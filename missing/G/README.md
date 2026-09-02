@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GemCore | 214157 | [214157-gemcore.json](./214157-gemcore.json) |
 | Gemporium | 330563 | [330563-gemporium.json](./330563-gemporium.json) |
 | Gems of Fate: the Charmed King | 133426 | [133426-gems-of-fate-the-charmed-king.json](./133426-gems-of-fate-the-charmed-king.json) |
+| Gems of Magic: Lost Family | 116367 | [116367-gems-of-magic-lost-family.json](./116367-gems-of-magic-lost-family.json) |
 | Gems Rush | 319964 | [319964-gems-rush.json](./319964-gems-rush.json) |
 | Gemsa | 243966 | [243966-gemsa.json](./243966-gemsa.json) |
 | Gemstones | 231616 | [231616-gemstones.json](./231616-gemstones.json) |
@@ -264,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginger Shroom Journey | 307914 | [307914-ginger-shroom-journey.json](./307914-ginger-shroom-journey.json) |
 | Ginger: The Tooth Fairy | 209134 | [209134-ginger-the-tooth-fairy.json](./209134-ginger-the-tooth-fairy.json) |
 | Ginnung | 224238 | [224238-ginnung.json](./224238-ginnung.json) |
+| Ginseng King | 116356 | [116356-ginseng-king.json](./116356-ginseng-king.json) |
 | Gipsy King | 175423 | [175423-gipsy-king.json](./175423-gipsy-king.json) |
 | Girbal | 219795 | [219795-girbal.json](./219795-girbal.json) |
 | Girl Doll Toy: Tamashii o Kudasai | 209622 | [209622-girl-doll-toy-tamashii-o-kudasai.json](./209622-girl-doll-toy-tamashii-o-kudasai.json) |
@@ -601,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gronk Want Rock | 249502 | [249502-gronk-want-rock.json](./249502-gronk-want-rock.json) |
 | Groove Runner | 130961 | [130961-groove-runner.json](./130961-groove-runner.json) |
 | Grooverland | 230547 | [230547-grooverland.json](./230547-grooverland.json) |
+| Grordbattle | 116386 | [116386-grordbattle.json](./116386-grordbattle.json) |
 | Grove: Nostalgia's End | 192952 | [192952-grove-nostalgias-end.json](./192952-grove-nostalgias-end.json) |
 | Grow Big (or Go Home) | 141221 | [141221-grow-big-or-go-home.json](./141221-grow-big-or-go-home.json) |
 | Grow Your Guarden | 263794 | [263794-grow-your-guarden.json](./263794-grow-your-guarden.json) |
@@ -639,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun & Girls.io | 200754 | [200754-gun-and-girls-io.json](./200754-gun-and-girls-io.json) |
 | Gun Factory Simulator | 326421 | [326421-gun-factory-simulator.json](./326421-gun-factory-simulator.json) |
 | Gun Party | 158227 | [158227-gun-party.json](./158227-gun-party.json) |
+| Gun Priest | 116354 | [116354-gun-priest.json](./116354-gun-priest.json) |
 | Gun Raiders | 145040 | [145040-gun-raiders.json](./145040-gun-raiders.json) |
 | Gun Soul Girl 2 | 169455 | [169455-gun-soul-girl-2.json](./169455-gun-soul-girl-2.json) |
 | Gun Sounds: Shooting Master | 227499 | [227499-gun-sounds-shooting-master.json](./227499-gun-sounds-shooting-master.json) |
