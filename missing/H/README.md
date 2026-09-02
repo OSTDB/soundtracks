@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halls of Death | 229363 | [229363-halls-of-death.json](./229363-halls-of-death.json) |
 | Halo 2 Digsite: Alpha Moon | 332818 | [332818-halo-2-digsite-alpha-moon.json](./332818-halo-2-digsite-alpha-moon.json) |
 | Halo 3 & Fable II Double Pack | 141865 | [141865-halo-3-and-fable-ii-double-pack.json](./141865-halo-3-and-fable-ii-double-pack.json) |
+| Halo Roll | 108485 | [108485-halo-roll.json](./108485-halo-roll.json) |
 | Halo: Combat Devolved | 243401 | [243401-halo-combat-devolved.json](./243401-halo-combat-devolved.json) |
 | Halo: Combat Evolved - E3 2000 Demo | 326970 | [326970-halo-combat-evolved-e3-2000-demo.json](./326970-halo-combat-evolved-e3-2000-demo.json) |
 | Hamelin | 229364 | [229364-hamelin.json](./229364-hamelin.json) |
@@ -305,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Charlotte: Heaven's Gate | 144382 | [144382-hello-charlotte-heavens-gate.json](./144382-hello-charlotte-heavens-gate.json) |
 | Hello Counsel | 318223 | [318223-hello-counsel.json](./318223-hello-counsel.json) |
 | Hello Guest | 140605 | [140605-hello-guest.json](./140605-hello-guest.json) |
+| Hello Helix | 108494 | [108494-hello-helix.json](./108494-hello-helix.json) |
 | Hello Kitty Food Town | 249481 | [249481-hello-kitty-food-town.json](./249481-hello-kitty-food-town.json) |
 | Hello Kitty no Gotouchi Collection: Koi no Doki-doki Travel | 269832 | [269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json](./269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json) |
 | Hello Kitty's Cube Frenzy | 299461 | [299461-hello-kittys-cube-frenzy.json](./299461-hello-kittys-cube-frenzy.json) |
@@ -357,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her New Memory: BDSM | 217541 | [217541-her-new-memory-bdsm.json](./217541-her-new-memory-bdsm.json) |
 | Herald: The Interactive Period Drama - Complete Edition | 226443 | [226443-herald-the-interactive-period-drama-complete-edition.json](./226443-herald-the-interactive-period-drama-complete-edition.json) |
 | Heralds of the Avirentes: Ch. 1 - Wings of Change | 244474 | [244474-heralds-of-the-avirentes-ch-1-wings-of-change.json](./244474-heralds-of-the-avirentes-ch-1-wings-of-change.json) |
+| Heralds of The Order | 108466 | [108466-heralds-of-the-order.json](./108466-heralds-of-the-order.json) |
 | Herb Garden Tycoon | 237669 | [237669-herb-garden-tycoon.json](./237669-herb-garden-tycoon.json) |
 | Herbheim's Mine | 188689 | [188689-herbheims-mine.json](./188689-herbheims-mine.json) |
 | Herbis | 158216 | [158216-herbis.json](./158216-herbis.json) |
@@ -391,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes & Generals: US Soldier Pack - Medium Tanker | 161906 | [161906-heroes-and-generals-us-soldier-pack-medium-tanker.json](./161906-heroes-and-generals-us-soldier-pack-medium-tanker.json) |
 | Heroes For Hire | 295559 | [295559-heroes-for-hire.json](./295559-heroes-for-hire.json) |
 | Heroes of Drakerealm | 235485 | [235485-heroes-of-drakerealm.json](./235485-heroes-of-drakerealm.json) |
+| Heroes of Magic: Card Battle | 108492 | [108492-heroes-of-magic-card-battle.json](./108492-heroes-of-magic-card-battle.json) |
 | Heroes of War | 227471 | [227471-heroes-of-war.json](./227471-heroes-of-war.json) |
 | Heroes Sky Legends | 336371 | [336371-heroes-sky-legends.json](./336371-heroes-sky-legends.json) |
 | Heroes Stand Tall: M.E.T.A | 302116 | [302116-heroes-stand-tall-m-e-t-a.json](./302116-heroes-stand-tall-m-e-t-a.json) |
@@ -459,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Series 1 | 258194 | [258194-hidden-series-1.json](./258194-hidden-series-1.json) |
 | Hidden Storehouse Top-Down 3D | 320548 | [320548-hidden-storehouse-top-down-3d.json](./320548-hidden-storehouse-top-down-3d.json) |
 | Hidden Words | 170534 | [170534-hidden-words.json](./170534-hidden-words.json) |
+| Hidden Words and Pictures Game | 108490 | [108490-hidden-words-and-pictures-game.json](./108490-hidden-words-and-pictures-game.json) |
 | Hidden World of Art 2 | 126667 | [126667-hidden-world-of-art-2.json](./126667-hidden-world-of-art-2.json) |
 | Hidden World Top-Down 3D | 192466 | [192466-hidden-world-top-down-3d.json](./192466-hidden-world-top-down-3d.json) |
 | Hiddens Awakening | 212998 | [212998-hiddens-awakening.json](./212998-hiddens-awakening.json) |
