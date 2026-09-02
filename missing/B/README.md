@@ -748,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bosei Kanojo: Shikyuu Kikan-hen | 194638 | [194638-bosei-kanojo-shikyuu-kikan-hen.json](./194638-bosei-kanojo-shikyuu-kikan-hen.json) |
 | Boston Nursing Home | 157174 | [157174-boston-nursing-home.json](./157174-boston-nursing-home.json) |
 | Bot Crafter | 253584 | [253584-bot-crafter.json](./253584-bot-crafter.json) |
+| Bot-Net | 120384 | [120384-bot-net.json](./120384-bot-net.json) |
 | BOT.vinnik Chess 2 | 219300 | [219300-bot-vinnik-chess-2.json](./219300-bot-vinnik-chess-2.json) |
 | Bot.vinnik Chess: Winning Patterns | 254119 | [254119-bot-vinnik-chess-winning-patterns.json](./254119-bot-vinnik-chess-winning-patterns.json) |
 | Botanical TD | 214163 | [214163-botanical-td.json](./214163-botanical-td.json) |
@@ -804,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Memory: Amazing Edition | 276452 | [276452-brain-memory-amazing-edition.json](./276452-brain-memory-amazing-edition.json) |
 | Brain Teaser Bundle | 231073 | [231073-brain-teaser-bundle.json](./231073-brain-teaser-bundle.json) |
 | Brain Test | 166733 | [166733-brain-test.json](./166733-brain-test.json) |
+| brainCloud Bombers | 120400 | [120400-braincloud-bombers.json](./120400-braincloud-bombers.json) |
 | Brainsss | 197397 | [197397-brainsss.json](./197397-brainsss.json) |
 | Brainstorm Series: Treasure Chase | 130389 | [130389-brainstorm-series-treasure-chase.json](./130389-brainstorm-series-treasure-chase.json) |
 | BrainTaire | 261521 | [261521-braintaire.json](./261521-braintaire.json) |
