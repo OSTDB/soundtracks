@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Market Trouble | 182541 | [182541-market-trouble.json](./182541-market-trouble.json) |
 | Marlboro Go! | 253027 | [253027-marlboro-go.json](./253027-marlboro-go.json) |
 | Mars for the Rich | 202382 | [202382-mars-for-the-rich.json](./202382-mars-for-the-rich.json) |
+| Marshin | 121770 | [121770-marshin.json](./121770-marshin.json) |
 | Marshmallow | 197396 | [197396-marshmallow.json](./197396-marshmallow.json) |
 | Marshmallow 2x2 | 234334 | [234334-marshmallow-2x2.json](./234334-marshmallow-2x2.json) |
 | Marshmallow Infinity | 182539 | [182539-marshmallow-infinity.json](./182539-marshmallow-infinity.json) |
@@ -271,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masha and Medved | 216457 | [216457-masha-and-medved.json](./216457-masha-and-medved.json) |
 | Masha and the Bear: Dentist | 227487 | [227487-masha-and-the-bear-dentist.json](./227487-masha-and-the-bear-dentist.json) |
 | Mask of Fury | 125434 | [125434-mask-of-fury.json](./125434-mask-of-fury.json) |
+| Mask of Sanity | 121696 | [121696-mask-of-sanity.json](./121696-mask-of-sanity.json) |
 | Mask: Beyond Lies | 255988 | [255988-mask-beyond-lies.json](./255988-mask-beyond-lies.json) |
 | Masked Shooters Assault | 240490 | [240490-masked-shooters-assault.json](./240490-masked-shooters-assault.json) |
 | Masked Shooters Single-player | 240489 | [240489-masked-shooters-single-player.json](./240489-masked-shooters-single-player.json) |
@@ -347,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of the Mini-taur | 185126 | [185126-maze-of-the-mini-taur.json](./185126-maze-of-the-mini-taur.json) |
 | MazeBrew | 242771 | [242771-mazebrew.json](./242771-mazebrew.json) |
 | Mazer Laser | 319341 | [319341-mazer-laser.json](./319341-mazer-laser.json) |
+| Mazes and Mages 2 | 121778 | [121778-mazes-and-mages-2.json](./121778-mazes-and-mages-2.json) |
 | Mazes of Karradash 2 | 175430 | [175430-mazes-of-karradash-2.json](./175430-mazes-of-karradash-2.json) |
 | Mbembe Radio | 300988 | [300988-mbembe-radio.json](./300988-mbembe-radio.json) |
 | McDonald's Fairies: Lily | 254793 | [254793-mcdonalds-fairies-lily.json](./254793-mcdonalds-fairies-lily.json) |
@@ -737,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Image | 322352 | [322352-mirror-image.json](./322352-mirror-image.json) |
 | Mirror Shoot | 193478 | [193478-mirror-shoot.json](./193478-mirror-shoot.json) |
 | Misadventure In Little Lon | 125425 | [125425-misadventure-in-little-lon.json](./125425-misadventure-in-little-lon.json) |
+| Misadventures of Laura Silver - Chapter II | 121771 | [121771-misadventures-of-laura-silver-chapter-ii.json](./121771-misadventures-of-laura-silver-chapter-ii.json) |
 | Misk Schools Quest | 187516 | [187516-misk-schools-quest.json](./187516-misk-schools-quest.json) |
 | Miss | 242777 | [242777-miss.json](./242777-miss.json) |
 | Miss Mantis | 307288 | [307288-miss-mantis.json](./307288-miss-mantis.json) |
@@ -821,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Waifu H: Push-Box | 337988 | [337988-moe-waifu-h-push-box.json](./337988-moe-waifu-h-push-box.json) |
 | Moemon Bonds | 336897 | [336897-moemon-bonds.json](./336897-moemon-bonds.json) |
 | Moero Chronicle: Deluxe Edition | 186878 | [186878-moero-chronicle-deluxe-edition.json](./186878-moero-chronicle-deluxe-edition.json) |
+| Moero Crystal H | 121766 | [121766-moero-crystal-h.json](./121766-moero-crystal-h.json) |
 | Mohism | 152378 | [152378-mohism.json](./152378-mohism.json) |
 | Moi Mei: Hidden Objects | 199655 | [199655-moi-mei-hidden-objects.json](./199655-moi-mei-hidden-objects.json) |
 | Moira | 182523 | [182523-moira.json](./182523-moira.json) |
@@ -943,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moondusk Masquerade | 334499 | [334499-moondusk-masquerade.json](./334499-moondusk-masquerade.json) |
 | Moonlight | 261534 | [261534-moonlight.json](./261534-moonlight.json) |
 | Moonlight Assault | 275314 | [275314-moonlight-assault.json](./275314-moonlight-assault.json) |
+| Moonlight maze | 121734 | [121734-moonlight-maze.json](./121734-moonlight-maze.json) |
 | Moons of True Magic | 263204 | [263204-moons-of-true-magic.json](./263204-moons-of-true-magic.json) |
 | Moonshine Inc. | 191849 | [191849-moonshine-inc.json](./191849-moonshine-inc.json) |
 | Moonsouls: Echoes of the Past | 234301 | [234301-moonsouls-echoes-of-the-past.json](./234301-moonsouls-echoes-of-the-past.json) |
