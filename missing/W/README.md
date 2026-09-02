@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Space Marine - Iron Hands Chapter Pack | 225871 | [225871-warhammer-40-000-space-marine-iron-hands-chapter-pack.json](./225871-warhammer-40-000-space-marine-iron-hands-chapter-pack.json) |
 | Warhammer 40,000: Space Marine - Traitor Legions Pack | 225869 | [225869-warhammer-40-000-space-marine-traitor-legions-pack.json](./225869-warhammer-40-000-space-marine-traitor-legions-pack.json) |
 | Warhammer 40,000: Space Wolf - Sentry Gun Pack | 156170 | [156170-warhammer-40-000-space-wolf-sentry-gun-pack.json](./156170-warhammer-40-000-space-wolf-sentry-gun-pack.json) |
+| Warhammer Quest: Silver Tower | 151194 | [151194-warhammer-quest-silver-tower.json](./151194-warhammer-quest-silver-tower.json) |
 | Warhammer: Mark of Chaos - Gold Edition | 154551 | [154551-warhammer-mark-of-chaos-gold-edition.json](./154551-warhammer-mark-of-chaos-gold-edition.json) |
 | Warhammer: Vermintide 2 - A Treacherous Adventure | 321734 | [321734-warhammer-vermintide-2-a-treacherous-adventure.json](./321734-warhammer-vermintide-2-a-treacherous-adventure.json) |
 | Warhammer: Vermintide 2 - Necromancer | 262658 | [262658-warhammer-vermintide-2-necromancer.json](./262658-warhammer-vermintide-2-necromancer.json) |
