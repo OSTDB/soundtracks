@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fall of Catzahstan. | 183565 | [183565-the-fall-of-catzahstan.json](./183565-the-fall-of-catzahstan.json) |
 | The Fall of Rallys Factory: Episode 2 - It's for Science | 186347 | [186347-the-fall-of-rallys-factory-episode-2-its-for-science.json](./186347-the-fall-of-rallys-factory-episode-2-its-for-science.json) |
 | The Fall of the Dungeon Guardians: Enhanced Edition | 269289 | [269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json](./269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json) |
+| The Fancy Pants Adventures: World 1 Remaster | 144384 | [144384-the-fancy-pants-adventures-world-1-remaster.json](./144384-the-fancy-pants-adventures-world-1-remaster.json) |
 | The Fantastic Game | 230520 | [230520-the-fantastic-game.json](./230520-the-fantastic-game.json) |
 | The Farside of Titan | 274182 | [274182-the-farside-of-titan.json](./274182-the-farside-of-titan.json) |
 | The Feast | 228727 | [228727-the-feast.json](./228727-the-feast.json) |
@@ -981,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs: Learn and Play - Deluxe Edition | 328798 | [328798-the-smurfs-learn-and-play-deluxe-edition.json](./328798-the-smurfs-learn-and-play-deluxe-edition.json) |
 | The Snow Fable: Mystery of the Flame | 207515 | [207515-the-snow-fable-mystery-of-the-flame.json](./207515-the-snow-fable-mystery-of-the-flame.json) |
 | The Snow of Basidia | 176504 | [176504-the-snow-of-basidia.json](./176504-the-snow-of-basidia.json) |
+| The Snowfield | 144323 | [144323-the-snowfield.json](./144323-the-snowfield.json) |
 | The Snowman | 299435 | [299435-the-snowman.json](./299435-the-snowman.json) |
 | The Soldat with Twin Arms | 151753 | [151753-the-soldat-with-twin-arms.json](./151753-the-soldat-with-twin-arms.json) |
 | The Soldier and the Golden Princess | 331116 | [331116-the-soldier-and-the-golden-princess.json](./331116-the-soldier-and-the-golden-princess.json) |
@@ -1025,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thing | 264859 | [264859-the-thing.json](./264859-the-thing.json) |
 | The Thing You Can't Defeat | 251239 | [251239-the-thing-you-cant-defeat.json](./251239-the-thing-you-cant-defeat.json) |
 | The Three Stooges | 264852 | [264852-the-three-stooges.json](./264852-the-three-stooges.json) |
+| The Throne | 144329 | [144329-the-throne.json](./144329-the-throne.json) |
 | The Throne | 302117 | [302117-the-throne.json](./302117-the-throne.json) |
 | The Tomorrow Children: Phoenix Edition | 205261 | [205261-the-tomorrow-children-phoenix-edition.json](./205261-the-tomorrow-children-phoenix-edition.json) |
 | The Tour | 179178 | [179178-the-tour.json](./179178-the-tour.json) |
