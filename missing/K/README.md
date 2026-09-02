@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karpar | 214750 | [214750-karpar.json](./214750-karpar.json) |
 | Kasplat | 258712 | [258712-kasplat.json](./258712-kasplat.json) |
 | Katachi Shin Hakken! Rittai Picross 2 | 222535 | [222535-katachi-shin-hakken-rittai-picross-2.json](./222535-katachi-shin-hakken-rittai-picross-2.json) |
+| Katakoi Contrast: Way of Parting Vol.1 | 116380 | [116380-katakoi-contrast-way-of-parting-vol-1.json](./116380-katakoi-contrast-way-of-parting-vol-1.json) |
 | Katakoi Contrast: Way of Parting Vol.2 | 240475 | [240475-katakoi-contrast-way-of-parting-vol-2.json](./240475-katakoi-contrast-way-of-parting-vol-2.json) |
 | Katakoi Contrast: Way of Parting Vol.3 | 240477 | [240477-katakoi-contrast-way-of-parting-vol-3.json](./240477-katakoi-contrast-way-of-parting-vol-3.json) |
 | Katalyst | 163959 | [163959-katalyst.json](./163959-katalyst.json) |
@@ -170,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Inside Us | 157189 | [157189-killer-inside-us.json](./157189-killer-inside-us.json) |
 | Killer Instinct 2 | 264309 | [264309-killer-instinct-2.json](./264309-killer-instinct-2.json) |
 | Killer Zombie Hunt | 276484 | [276484-killer-zombie-hunt.json](./276484-killer-zombie-hunt.json) |
+| Killing Floor: Double Feature | 116387 | [116387-killing-floor-double-feature.json](./116387-killing-floor-double-feature.json) |
 | Killing Kiss | 191905 | [191905-killing-kiss.json](./191905-killing-kiss.json) |
 | Kimi ga Mita Hikari 2 | 329968 | [329968-kimi-ga-mita-hikari-2.json](./329968-kimi-ga-mita-hikari-2.json) |
 | KindergarTen 3: The Basement | 290696 | [290696-kindergarten-3-the-basement.json](./290696-kindergarten-3-the-basement.json) |
