@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oishii Puzzle ha Irimasen ka | 312364 | [312364-oishii-puzzle-ha-irimasen-ka.json](./312364-oishii-puzzle-ha-irimasen-ka.json) |
 | Ojou-sama no Hanbun wa Renai de Dekiteimasu! | 328216 | [328216-ojou-sama-no-hanbun-wa-renai-de-dekiteimasu.json](./328216-ojou-sama-no-hanbun-wa-renai-de-dekiteimasu.json) |
 | Oku dake Drill Shougaku 6-nensei Kanji | 276467 | [276467-oku-dake-drill-shougaku-6-nensei-kanji.json](./276467-oku-dake-drill-shougaku-6-nensei-kanji.json) |
+| Okuplok Slaughter Map | 144389 | [144389-okuplok-slaughter-map.json](./144389-okuplok-slaughter-map.json) |
 | Old Friends Dog Game | 159311 | [159311-old-friends-dog-game.json](./159311-old-friends-dog-game.json) |
 | Old Future: Post-Apocalyptic Times | 196882 | [196882-old-future-post-apocalyptic-times.json](./196882-old-future-post-apocalyptic-times.json) |
 | Old Gay Cats Look at Old Photos | 264353 | [264353-old-gay-cats-look-at-old-photos.json](./264353-old-gay-cats-look-at-old-photos.json) |
@@ -295,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osomatsu-san Protagonist Contest Pokoball | 266478 | [266478-osomatsu-san-protagonist-contest-pokoball.json](./266478-osomatsu-san-protagonist-contest-pokoball.json) |
 | Osseous and Swordy | 263220 | [263220-osseous-and-swordy.json](./263220-osseous-and-swordy.json) |
 | Ostalgie: The Berlin Wall - Legacy of Hoxha | 172165 | [172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json](./172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json) |
+| Otaku's Rage: Waifu Strikes Back | 144368 | [144368-otakus-rage-waifu-strikes-back.json](./144368-otakus-rage-waifu-strikes-back.json) |
 | Other Minds | 183051 | [183051-other-minds.json](./183051-other-minds.json) |
 | Otherside | 209129 | [209129-otherside.json](./209129-otherside.json) |
 | Otherworld Heroes | 208054 | [208054-otherworld-heroes.json](./208054-otherworld-heroes.json) |
