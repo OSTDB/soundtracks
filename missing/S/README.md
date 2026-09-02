@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Da Frogs | 237047 | [237047-save-da-frogs.json](./237047-save-da-frogs.json) |
 | Save HomeWorld | 110370 | [110370-save-homeworld.json](./110370-save-homeworld.json) |
 | Save My Sister | 257679 | [257679-save-my-sister.json](./257679-save-my-sister.json) |
+| Save Snegurochka | 99021 | [99021-save-snegurochka.json](./99021-save-snegurochka.json) |
 | Save the Fish! | 152919 | [152919-save-the-fish.json](./152919-save-the-fish.json) |
 | Save the Pirate: Sea Story | 166764 | [166764-save-the-pirate-sea-story.json](./166764-save-the-pirate-sea-story.json) |
 | Save the Pixels | 112306 | [112306-save-the-pixels.json](./112306-save-the-pixels.json) |
@@ -197,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavenger | 237648 | [237648-scavenger.json](./237648-scavenger.json) |
 | Scavenger Skirmish: Mortal World | 105372 | [105372-scavenger-skirmish-mortal-world.json](./105372-scavenger-skirmish-mortal-world.json) |
 | Scavland | 339674 | [339674-scavland.json](./339674-scavland.json) |
+| Scenery Disk 5 | 98959 | [98959-scenery-disk-5.json](./98959-scenery-disk-5.json) |
 | Scenner | 119045 | [119045-scenner.json](./119045-scenner.json) |
 | Scholastic Brain Play: Preschool - 1st Grade | 167276 | [167276-scholastic-brain-play-preschool-1st-grade.json](./167276-scholastic-brain-play-preschool-1st-grade.json) |
 | School Bus Simulator: Blocky World | 104633 | [104633-school-bus-simulator-blocky-world.json](./104633-school-bus-simulator-blocky-world.json) |
@@ -730,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six-Sided Streets | 234897 | [234897-six-sided-streets.json](./234897-six-sided-streets.json) |
 | Sixtar Gate: Startrail - Dystopia Pack | 293402 | [293402-sixtar-gate-startrail-dystopia-pack.json](./293402-sixtar-gate-startrail-dystopia-pack.json) |
 | Size Matters! | 331709 | [331709-size-matters.json](./331709-size-matters.json) |
+| Skaphander: Der Auftrag | 98972 | [98972-skaphander-der-auftrag.json](./98972-skaphander-der-auftrag.json) |
 | Skapp | 140596 | [140596-skapp.json](./140596-skapp.json) |
 | Skaramazuzu | 217029 | [217029-skaramazuzu.json](./217029-skaramazuzu.json) |
 | Skat Stammtisch | 99613 | [99613-skat-stammtisch.json](./99613-skat-stammtisch.json) |
@@ -1219,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Recursion | 172183 | [172183-soul-recursion.json](./172183-soul-recursion.json) |
 | Soul Rush | 340200 | [340200-soul-rush.json](./340200-soul-rush.json) |
 | Soul Slayers | 145650 | [145650-soul-slayers.json](./145650-soul-slayers.json) |
+| Soul Smith of the Kingdom | 99019 | [99019-soul-smith-of-the-kingdom.json](./99019-soul-smith-of-the-kingdom.json) |
 | Soul Symphony | 196878 | [196878-soul-symphony.json](./196878-soul-symphony.json) |
 | Soul's Spectrum: Awakening | 267110 | [267110-souls-spectrum-awakening.json](./267110-souls-spectrum-awakening.json) |
 | SoulBound | 215932 | [215932-soulbound.json](./215932-soulbound.json) |
@@ -1459,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Cleaning | 179733 | [179733-spring-cleaning.json](./179733-spring-cleaning.json) |
 | Spring of Decadence | 103478 | [103478-spring-of-decadence.json](./103478-spring-of-decadence.json) |
 | Spring: 1944 | 142500 | [142500-spring-1944.json](./142500-spring-1944.json) |
+| Springer | 98967 | [98967-springer.json](./98967-springer.json) |
 | Sprite Fantasia | 174861 | [174861-sprite-fantasia.json](./174861-sprite-fantasia.json) |
 | Sprites at Play | 196880 | [196880-sprites-at-play.json](./196880-sprites-at-play.json) |
 | Sproing | 329401 | [329401-sproing.json](./329401-sproing.json) |
@@ -1476,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square | 208591 | [208591-square.json](./208591-square.json) |
 | Square Fighters | 131591 | [131591-square-fighters.json](./131591-square-fighters.json) |
 | Square Head Zombies 2 - FPS Game | 99638 | [99638-square-head-zombies-2-fps-game.json](./99638-square-head-zombies-2-fps-game.json) |
+| Square Route | 98997 | [98997-square-route.json](./98997-square-route.json) |
 | Square Shooter | 108482 | [108482-square-shooter.json](./108482-square-shooter.json) |
 | Squared Adventure | 311262 | [311262-squared-adventure.json](./311262-squared-adventure.json) |
 | Squares | 101610 | [101610-squares.json](./101610-squares.json) |
@@ -1532,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Renegades: Total Lunarcy | 166215 | [166215-star-renegades-total-lunarcy.json](./166215-star-renegades-total-lunarcy.json) |
 | Star Revenge 1: Star Takeover | 132841 | [132841-star-revenge-1-star-takeover.json](./132841-star-revenge-1-star-takeover.json) |
 | Star Scandal | 298894 | [298894-star-scandal.json](./298894-star-scandal.json) |
+| Star Scenery Disk: San Francisco Area | 98960 | [98960-star-scenery-disk-san-francisco-area.json](./98960-star-scenery-disk-san-francisco-area.json) |
 | Star Sky 3 | 109702 | [109702-star-sky-3.json](./109702-star-sky-3.json) |
 | Star Sword | 221972 | [221972-star-sword.json](./221972-star-sword.json) |
 | Star Tank | 169457 | [169457-star-tank.json](./169457-star-tank.json) |
@@ -1766,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stress Test | 200168 | [200168-stress-test.json](./200168-stress-test.json) |
 | Stress, Out! | 258716 | [258716-stress-out.json](./258716-stress-out.json) |
 | Stretch Guy | 315844 | [315844-stretch-guy.json](./315844-stretch-guy.json) |
+| StretchingVr | 99014 | [99014-stretchingvr.json](./99014-stretchingvr.json) |
 | Stretchy Adventure | 319957 | [319957-stretchy-adventure.json](./319957-stretchy-adventure.json) |
 | Stretchy-Man: The Video Game | 190234 | [190234-stretchy-man-the-video-game.json](./190234-stretchy-man-the-video-game.json) |
 | Striden | 237059 | [237059-striden.json](./237059-striden.json) |
@@ -1780,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stroke the Fish | 220342 | [220342-stroke-the-fish.json](./220342-stroke-the-fish.json) |
 | Stroke the Tortoise | 220344 | [220344-stroke-the-tortoise.json](./220344-stroke-the-tortoise.json) |
 | StrongBadZone | 135863 | [135863-strongbadzone.json](./135863-strongbadzone.json) |
+| Stronghold Deluxe | 98961 | [98961-stronghold-deluxe.json](./98961-stronghold-deluxe.json) |
 | Stronghold: Caverns of Sorcery | 339654 | [339654-stronghold-caverns-of-sorcery.json](./339654-stronghold-caverns-of-sorcery.json) |
 | Stronghold: On the Edge of Chaos | 141254 | [141254-stronghold-on-the-edge-of-chaos.json](./141254-stronghold-on-the-edge-of-chaos.json) |
 | Stronghold: Warlords - Rise of the Shogun Campaign | 186877 | [186877-stronghold-warlords-rise-of-the-shogun-campaign.json](./186877-stronghold-warlords-rise-of-the-shogun-campaign.json) |
@@ -2300,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syndicate of Souls | 267642 | [267642-syndicate-of-souls.json](./267642-syndicate-of-souls.json) |
 | Synth War Tactics | 151188 | [151188-synth-war-tactics.json](./151188-synth-war-tactics.json) |
 | Synthaar | 304880 | [304880-synthaar.json](./304880-synthaar.json) |
+| Synther | 99008 | [99008-synther.json](./99008-synther.json) |
 | Syntherapy | 139473 | [139473-syntherapy.json](./139473-syntherapy.json) |
 | Synthetic Fantasy; | 277581 | [277581-synthetic-fantasy.json](./277581-synthetic-fantasy.json) |
 | Synthetic Soul 3 | 310736 | [310736-synthetic-soul-3.json](./310736-synthetic-soul-3.json) |
