@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Virus: Evil Menance | 259846 | [259846-d-virus-evil-menance.json](./259846-d-virus-evil-menance.json) |
 | D.E.E.P.: Battle of Jove | 139485 | [139485-d-e-e-p-battle-of-jove.json](./139485-d-e-e-p-battle-of-jove.json) |
 | D.O.W.N | 229383 | [229383-d-o-w-n.json](./229383-d-o-w-n.json) |
+| D3d Inside | 126659 | [126659-d3d-inside.json](./126659-d3d-inside.json) |
 | D3L3T3.exe | 264331 | [264331-d3l3t3-exe.json](./264331-d3l3t3-exe.json) |
 | Daardoa | 151190 | [151190-daardoa.json](./151190-daardoa.json) |
 | DachStudio Puzzle Box:: Illumarie's Fantastic Characters | 296683 | [296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json](./296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json) |
@@ -60,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa: Antebellum - Lockdown | 333932 | [333932-danganronpa-antebellum-lockdown.json](./333932-danganronpa-antebellum-lockdown.json) |
 | Danganronpa: Eternal Endings | 304347 | [304347-danganronpa-eternal-endings.json](./304347-danganronpa-eternal-endings.json) |
 | Danger, Bob-omb! Danger!: Handle with Care | 322377 | [322377-danger-bob-omb-danger-handle-with-care.json](./322377-danger-bob-omb-danger-handle-with-care.json) |
+| Dangerous Blaster | 126617 | [126617-dangerous-blaster.json](./126617-dangerous-blaster.json) |
 | Dangerous Coins | 278706 | [278706-dangerous-coins.json](./278706-dangerous-coins.json) |
 | Dangerous Village Tradition | 273660 | [273660-dangerous-village-tradition.json](./273660-dangerous-village-tradition.json) |
 | DanLab's Golf | 315825 | [315825-danlabs-golf.json](./315825-danlabs-golf.json) |
@@ -739,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Robotnik Turns Everybody into Frogs | 188087 | [188087-dr-robotnik-turns-everybody-into-frogs.json](./188087-dr-robotnik-turns-everybody-into-frogs.json) |
 | Dr. Robotnik's Mean Bean Tetris | 264896 | [264896-dr-robotniks-mean-bean-tetris.json](./264896-dr-robotniks-mean-bean-tetris.json) |
 | DracoFighter | 207527 | [207527-dracofighter.json](./207527-dracofighter.json) |
+| Draconic Echoes: The Ardent War | 126664 | [126664-draconic-echoes-the-ardent-war.json](./126664-draconic-echoes-the-ardent-war.json) |
 | Draconic Evolution | 232672 | [232672-draconic-evolution.json](./232672-draconic-evolution.json) |
 | Dracu-Riot! | 137087 | [137087-dracu-riot.json](./137087-dracu-riot.json) |
 | Dracula vs. The Ninja On the Moon | 144306 | [144306-dracula-vs-the-ninja-on-the-moon.json](./144306-dracula-vs-the-ninja-on-the-moon.json) |
@@ -843,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drevepsina | 256005 | [256005-drevepsina.json](./256005-drevepsina.json) |
 | Driar | 191911 | [191911-driar.json](./191911-driar.json) |
 | Dribble Skillz | 231635 | [231635-dribble-skillz.json](./231635-dribble-skillz.json) |
+| Drift Alone | 126631 | [126631-drift-alone.json](./126631-drift-alone.json) |
 | Drift Apocalypse | 296091 | [296091-drift-apocalypse.json](./296091-drift-apocalypse.json) |
 | DriftHub | 256007 | [256007-drifthub.json](./256007-drifthub.json) |
 | Drifty | 251200 | [251200-drifty.json](./251200-drifty.json) |
