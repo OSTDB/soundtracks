@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Break | 203559 | [203559-ninja-break.json](./203559-ninja-break.json) |
 | Ninja Chicken 2 | 233763 | [233763-ninja-chicken-2.json](./233763-ninja-chicken-2.json) |
 | Ninja Code | 110362 | [110362-ninja-code.json](./110362-ninja-code.json) |
+| Ninja Dash - Ronin Jump RPG | 104648 | [104648-ninja-dash-ronin-jump-rpg.json](./104648-ninja-dash-ronin-jump-rpg.json) |
 | Ninja Epic Adventure | 147458 | [147458-ninja-epic-adventure.json](./147458-ninja-epic-adventure.json) |
 | Ninja Fight | 336374 | [336374-ninja-fight.json](./336374-ninja-fight.json) |
 | Ninja from Hell vs. Reptiloids | 105346 | [105346-ninja-from-hell-vs-reptiloids.json](./105346-ninja-from-hell-vs-reptiloids.json) |
