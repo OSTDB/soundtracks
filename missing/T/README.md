@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Croaker: The Ice | 306058 | [306058-the-croaker-the-ice.json](./306058-the-croaker-the-ice.json) |
 | The Crows | 326985 | [326985-the-crows.json](./326985-the-crows.json) |
 | The Crystal Rainforest | 151716 | [151716-the-crystal-rainforest.json](./151716-the-crystal-rainforest.json) |
+| The Curator | 137668 | [137668-the-curator.json](./137668-the-curator.json) |
 | The Cure | 184647 | [184647-the-cure.json](./184647-the-cure.json) |
 | The Curiosity | 311801 | [311801-the-curiosity.json](./311801-the-curiosity.json) |
 | The Curse of Aristotle | 251241 | [251241-the-curse-of-aristotle.json](./251241-the-curse-of-aristotle.json) |
@@ -517,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Doll Beneath | 192428 | [192428-the-doll-beneath.json](./192428-the-doll-beneath.json) |
 | The Doom Beneath | 175429 | [175429-the-doom-beneath.json](./175429-the-doom-beneath.json) |
 | The Door | 246123 | [246123-the-door.json](./246123-the-door.json) |
+| The Downgeon | 137640 | [137640-the-downgeon.json](./137640-the-downgeon.json) |
 | The Drafting Table | 231645 | [231645-the-drafting-table.json](./231645-the-drafting-table.json) |
 | The Dragon and the Djinn | 189166 | [189166-the-dragon-and-the-djinn.json](./189166-the-dragon-and-the-djinn.json) |
 | The Dragon Apprentice | 196883 | [196883-the-dragon-apprentice.json](./196883-the-dragon-apprentice.json) |
@@ -605,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Futurist | 181355 | [181355-the-futurist.json](./181355-the-futurist.json) |
 | The Game | 187522 | [187522-the-game.json](./187522-the-game.json) |
 | The Game of Bionic Goat | 339099 | [339099-the-game-of-bionic-goat.json](./339099-the-game-of-bionic-goat.json) |
+| The Game of Life / Yahtzee / Payday | 137695 | [137695-the-game-of-life-yahtzee-payday.json](./137695-the-game-of-life-yahtzee-payday.json) |
 | The Game of Life 2: Age of Giants World | 171591 | [171591-the-game-of-life-2-age-of-giants-world.json](./171591-the-game-of-life-2-age-of-giants-world.json) |
 | The Game of Life 2: El Dorado | 256002 | [256002-the-game-of-life-2-el-dorado.json](./256002-the-game-of-life-2-el-dorado.json) |
 | The Game of Life 2: Fairytale Kingdom World | 171608 | [171608-the-game-of-life-2-fairytale-kingdom-world.json](./171608-the-game-of-life-2-fairytale-kingdom-world.json) |
@@ -779,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lonely League | 245004 | [245004-the-lonely-league.json](./245004-the-lonely-league.json) |
 | The Longest Drift | 175441 | [175441-the-longest-drift.json](./175441-the-longest-drift.json) |
 | The Loop | 170528 | [170528-the-loop.json](./170528-the-loop.json) |
+| The Lord of the Creatures | 137641 | [137641-the-lord-of-the-creatures.json](./137641-the-lord-of-the-creatures.json) |
 | The Lord of the Rings Online: Before the Shadow | 275927 | [275927-the-lord-of-the-rings-online-before-the-shadow.json](./275927-the-lord-of-the-rings-online-before-the-shadow.json) |
 | The Lord of the Rings Online: Corsairs of Umbar | 275928 | [275928-the-lord-of-the-rings-online-corsairs-of-umbar.json](./275928-the-lord-of-the-rings-online-corsairs-of-umbar.json) |
 | The Lord of the Rings Online: Fate of Gundabad | 275926 | [275926-the-lord-of-the-rings-online-fate-of-gundabad.json](./275926-the-lord-of-the-rings-online-fate-of-gundabad.json) |
@@ -1033,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Surge 2: Premium Edition | 154535 | [154535-the-surge-2-premium-edition.json](./154535-the-surge-2-premium-edition.json) |
 | The Swarm | 226432 | [226432-the-swarm.json](./226432-the-swarm.json) |
 | The Sweetest Ring | 268213 | [268213-the-sweetest-ring.json](./268213-the-sweetest-ring.json) |
+| The Swine | 137693 | [137693-the-swine.json](./137693-the-swine.json) |
 | The Swordsmen X: Survival | 152375 | [152375-the-swordsmen-x-survival.json](./152375-the-swordsmen-x-survival.json) |
 | The T.O.T.E.: Tales of the Elements | 258214 | [258214-the-t-o-t-e-tales-of-the-elements.json](./258214-the-t-o-t-e-tales-of-the-elements.json) |
 | The Tabung | 196310 | [196310-the-tabung.json](./196310-the-tabung.json) |
@@ -1564,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topo Mix Game | 204107 | [204107-topo-mix-game.json](./204107-topo-mix-game.json) |
 | Topolino amico delle guardie | 246664 | [246664-topolino-amico-delle-guardie.json](./246664-topolino-amico-delle-guardie.json) |
 | Topple Tactics | 272547 | [272547-topple-tactics.json](./272547-topple-tactics.json) |
+| Topps Kick | 137686 | [137686-topps-kick.json](./137686-topps-kick.json) |
 | TopSpin 2K25: Grand Slam Edition | 293925 | [293925-topspin-2k25-grand-slam-edition.json](./293925-topspin-2k25-grand-slam-edition.json) |
 | Torbaci Oyunu | 274769 | [274769-torbaci-oyunu.json](./274769-torbaci-oyunu.json) |
 | Torchbear | 341898 | [341898-torchbear.json](./341898-torchbear.json) |
