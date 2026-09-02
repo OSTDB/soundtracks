@@ -146,10 +146,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House Renovator | 211941 | [211941-haunted-house-renovator.json](./211941-haunted-house-renovator.json) |
 | Haunted House Renovator: Prologue | 316421 | [316421-haunted-house-renovator-prologue.json](./316421-haunted-house-renovator-prologue.json) |
 | Haunted Lands: Burial Grounds | 240502 | [240502-haunted-lands-burial-grounds.json](./240502-haunted-lands-burial-grounds.json) |
+| Haunted Legends: The Undertaker | 140028 | [140028-haunted-legends-the-undertaker.json](./140028-haunted-legends-the-undertaker.json) |
+| Haunted Manor: Lord of Mirrors | 140029 | [140029-haunted-manor-lord-of-mirrors.json](./140029-haunted-manor-lord-of-mirrors.json) |
+| Haunted Manor: Painted Beauties | 140030 | [140030-haunted-manor-painted-beauties.json](./140030-haunted-manor-painted-beauties.json) |
+| Haunted Manor: Queen of Death | 140031 | [140031-haunted-manor-queen-of-death.json](./140031-haunted-manor-queen-of-death.json) |
 | Haunted Mansion | 204693 | [204693-haunted-mansion.json](./204693-haunted-mansion.json) |
 | Haunted Property | 335697 | [335697-haunted-property.json](./335697-haunted-property.json) |
 | Haunted PS1 Demo Disc 2021 | 145030 | [145030-haunted-ps1-demo-disc-2021.json](./145030-haunted-ps1-demo-disc-2021.json) |
 | Haunted Space Hotel: Vacancy | 330508 | [330508-haunted-space-hotel-vacancy.json](./330508-haunted-space-hotel-vacancy.json) |
+| Haunted Train: Frozen in Time | 140032 | [140032-haunted-train-frozen-in-time.json](./140032-haunted-train-frozen-in-time.json) |
+| Haunted Train: Spirits of Charon | 140033 | [140033-haunted-train-spirits-of-charon.json](./140033-haunted-train-spirits-of-charon.json) |
 | Haunted Zombie School | 205225 | [205225-haunted-zombie-school.json](./205225-haunted-zombie-school.json) |
 | Haunted: Attack of the Dead Men | 219813 | [219813-haunted-attack-of-the-dead-men.json](./219813-haunted-attack-of-the-dead-men.json) |
 | Haunted: Live | 220868 | [220868-haunted-live.json](./220868-haunted-live.json) |
@@ -377,6 +383,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Capybaras with Orange in the Whimsical Library | 321138 | [321138-hidden-capybaras-with-orange-in-the-whimsical-library.json](./321138-hidden-capybaras-with-orange-in-the-whimsical-library.json) |
 | Hidden Cats | 183564 | [183564-hidden-cats.json](./183564-hidden-cats.json) |
 | Hidden Cats In Amusement Park | 263791 | [263791-hidden-cats-in-amusement-park.json](./263791-hidden-cats-in-amusement-park.json) |
+| Hidden Expedition: Crown of Solomon | 140034 | [140034-hidden-expedition-crown-of-solomon.json](./140034-hidden-expedition-crown-of-solomon.json) |
+| Hidden Expedition: The Eternal Emperor | 140035 | [140035-hidden-expedition-the-eternal-emperor.json](./140035-hidden-expedition-the-eternal-emperor.json) |
+| Hidden Expedition: The Pearl of Discord | 140037 | [140037-hidden-expedition-the-pearl-of-discord.json](./140037-hidden-expedition-the-pearl-of-discord.json) |
 | Hidden Farm 2 Top-Down 3D | 208593 | [208593-hidden-farm-2-top-down-3d.json](./208593-hidden-farm-2-top-down-3d.json) |
 | Hidden Garden Word Scramble | 233748 | [233748-hidden-garden-word-scramble.json](./233748-hidden-garden-word-scramble.json) |
 | Hidden Gems, Hidden Secrets | 240499 | [240499-hidden-gems-hidden-secrets.json](./240499-hidden-gems-hidden-secrets.json) |
