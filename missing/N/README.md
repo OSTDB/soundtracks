@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Negative Nancy | 125474 | [125474-negative-nancy.json](./125474-negative-nancy.json) |
 | Negative Reverie | 321744 | [321744-negative-reverie.json](./321744-negative-reverie.json) |
 | Negi Sho-gi: Negi Massigura | 311286 | [311286-negi-sho-gi-negi-massigura.json](./311286-negi-sho-gi-negi-massigura.json) |
+| Negligee: Love Stories | 111743 | [111743-negligee-love-stories.json](./111743-negligee-love-stories.json) |
 | Nehonobasa | 306676 | [306676-nehonobasa.json](./306676-nehonobasa.json) |
 | Neighbor | 144366 | [144366-neighbor.json](./144366-neighbor.json) |
 | Neighbor Next Door | 309668 | [309668-neighbor-next-door.json](./309668-neighbor-next-door.json) |
