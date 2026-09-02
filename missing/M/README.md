@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momoe Link | 183052 | [183052-momoe-link.json](./183052-momoe-link.json) |
 | Momoiro Zousan | 295039 | [295039-momoiro-zousan.json](./295039-momoiro-zousan.json) |
 | Momotarou | 318770 | [318770-momotarou.json](./318770-momotarou.json) |
+| Mon-cuties for All | 134679 | [134679-mon-cuties-for-all.json](./134679-mon-cuties-for-all.json) |
 | Mona and the Witch's Hat | 195210 | [195210-mona-and-the-witchs-hat.json](./195210-mona-and-the-witchs-hat.json) |
 | Monaco | 178055 | [178055-monaco.json](./178055-monaco.json) |
 | Monark: Limited Edition Box | 152340 | [152340-monark-limited-edition-box.json](./152340-monark-limited-edition-box.json) |
