@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babes Reloaded | 272024 | [272024-babes-reloaded.json](./272024-babes-reloaded.json) |
 | BabushCats | 297778 | [297778-babushcats.json](./297778-babushcats.json) |
 | Baby Blimp | 177054 | [177054-baby-blimp.json](./177054-baby-blimp.json) |
+| Baby Killer | 117733 | [117733-baby-killer.json](./117733-baby-killer.json) |
 | Baby Puzzle: First Learning Shapes for Toddlers | 147985 | [147985-baby-puzzle-first-learning-shapes-for-toddlers.json](./147985-baby-puzzle-first-learning-shapes-for-toddlers.json) |
 | Baby Shapes for Kids | 225893 | [225893-baby-shapes-for-kids.json](./225893-baby-shapes-for-kids.json) |
 | Baby Time Simulator | 269275 | [269275-baby-time-simulator.json](./269275-baby-time-simulator.json) |
@@ -812,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Drain | 210268 | [210268-brain-drain.json](./210268-brain-drain.json) |
 | Brain Memory: Amazing Edition | 276452 | [276452-brain-memory-amazing-edition.json](./276452-brain-memory-amazing-edition.json) |
 | Brain Teaser Bundle | 231073 | [231073-brain-teaser-bundle.json](./231073-brain-teaser-bundle.json) |
+| Brain Teaser: Memory Limit | 117762 | [117762-brain-teaser-memory-limit.json](./117762-brain-teaser-memory-limit.json) |
 | Brain Test | 166733 | [166733-brain-test.json](./166733-brain-test.json) |
 | brainCloud Bombers | 120400 | [120400-braincloud-bombers.json](./120400-braincloud-bombers.json) |
 | Brainsss | 197397 | [197397-brainsss.json](./197397-brainsss.json) |
