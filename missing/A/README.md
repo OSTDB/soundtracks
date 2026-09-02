@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Slightly Different Backrooms | 295537 | [295537-a-slightly-different-backrooms.json](./295537-a-slightly-different-backrooms.json) |
 | A Slime and a Civil War | 236502 | [236502-a-slime-and-a-civil-war.json](./236502-a-slime-and-a-civil-war.json) |
 | A Space for the Unbound: Collector's Edition | 261538 | [261538-a-space-for-the-unbound-collectors-edition.json](./261538-a-space-for-the-unbound-collectors-edition.json) |
+| A Squire's Tale | 131616 | [131616-a-squires-tale.json](./131616-a-squires-tale.json) |
 | A Starspangled Zephyr | 179189 | [179189-a-starspangled-zephyr.json](./179189-a-starspangled-zephyr.json) |
 | A Story About Birds | 320523 | [320523-a-story-about-birds.json](./320523-a-story-about-birds.json) |
 | A Story of a Company! | 200740 | [200740-a-story-of-a-company.json](./200740-a-story-of-a-company.json) |
@@ -1083,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awexome Cross | 135869 | [135869-awexome-cross.json](./135869-awexome-cross.json) |
 | Awful Kidnapper | 300410 | [300410-awful-kidnapper.json](./300410-awful-kidnapper.json) |
 | Axe Over It | 144296 | [144296-axe-over-it.json](./144296-axe-over-it.json) |
+| Axegend | 131596 | [131596-axegend.json](./131596-axegend.json) |
 | Axiom | 234347 | [234347-axiom.json](./234347-axiom.json) |
 | Axium's Box | 235453 | [235453-axiums-box.json](./235453-axiums-box.json) |
 | Axom: Conquest | 333357 | [333357-axom-conquest.json](./333357-axom-conquest.json) |
