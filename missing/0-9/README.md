@@ -119,6 +119,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 Useless Apps | 243962 | [243962-20-useless-apps.json](./243962-20-useless-apps.json) |
 | 2000s Rock Legends: Music Pack | 325822 | [325822-2000s-rock-legends-music-pack.json](./325822-2000s-rock-legends-music-pack.json) |
 | 2003 Toshi Kaimaku: Ganbare Kyuukaiou | 269318 | [269318-2003-toshi-kaimaku-ganbare-kyuukaiou.json](./269318-2003-toshi-kaimaku-ganbare-kyuukaiou.json) |
+| 2004 Real Soccer | 116344 | [116344-2004-real-soccer.json](./116344-2004-real-soccer.json) |
+| 2005 Real Soccer | 116345 | [116345-2005-real-soccer.json](./116345-2005-real-soccer.json) |
+| 2006 Real Soccer | 116346 | [116346-2006-real-soccer.json](./116346-2006-real-soccer.json) |
 | 2020! | 261523 | [261523-2020.json](./261523-2020.json) |
 | 2045: Wasteland Rebuild | 194028 | [194028-2045-wasteland-rebuild.json](./194028-2045-wasteland-rebuild.json) |
 | 2048 | 270395 | [270395-2048.json](./270395-2048.json) |
