@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eko | 223673 | [223673-eko.json](./223673-eko.json) |
 | El Chavo | 331122 | [331122-el-chavo.json](./331122-el-chavo.json) |
 | El Dorado | 312880 | [312880-el-dorado.json](./312880-el-dorado.json) |
+| El Internado Laguna Negra | 144305 | [144305-el-internado-laguna-negra.json](./144305-el-internado-laguna-negra.json) |
 | El Ladrón del Tiempo | 321134 | [321134-el-ladron-del-tiempo.json](./321134-el-ladron-del-tiempo.json) |
 | El Narco | 321170 | [321170-el-narco.json](./321170-el-narco.json) |
 | El Paso, Nightmare | 223134 | [223134-el-paso-nightmare.json](./223134-el-paso-nightmare.json) |
@@ -321,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europe Front II | 200741 | [200741-europe-front-ii.json](./200741-europe-front-ii.json) |
 | European Card Wars | 291229 | [291229-european-card-wars.json](./291229-european-card-wars.json) |
 | Evacuation Combat | 156682 | [156682-evacuation-combat.json](./156682-evacuation-combat.json) |
+| Evade 2 | 144373 | [144373-evade-2.json](./144373-evade-2.json) |
 | Evade 2 | 227469 | [227469-evade-2.json](./227469-evade-2.json) |
 | Evader | 290693 | [290693-evader.json](./290693-evader.json) |
 | Evangeline's Defense | 203556 | [203556-evangelines-defense.json](./203556-evangelines-defense.json) |
