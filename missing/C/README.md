@@ -30,12 +30,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call From the Darkness | 337465 | [337465-call-from-the-darkness.json](./337465-call-from-the-darkness.json) |
 | Call Me Cera | 163982 | [163982-call-me-cera.json](./163982-call-me-cera.json) |
 | Call Me Emperor | 221961 | [221961-call-me-emperor.json](./221961-call-me-emperor.json) |
+| Call of Duty 4: Modern Warfare | 135294 | [135294-call-of-duty-4-modern-warfare.json](./135294-call-of-duty-4-modern-warfare.json) |
 | Call of Duty 4: Modern Warfare - Game of the Year Edition | 290723 | [290723-call-of-duty-4-modern-warfare-game-of-the-year-edition.json](./290723-call-of-duty-4-modern-warfare-game-of-the-year-edition.json) |
 | Call of Duty Tactics | 276488 | [276488-call-of-duty-tactics.json](./276488-call-of-duty-tactics.json) |
+| Call of Duty: Black Ops Mobile | 135300 | [135300-call-of-duty-black-ops-mobile.json](./135300-call-of-duty-black-ops-mobile.json) |
 | Call of Duty: Ghosts - Digital Hardened Edition | 240504 | [240504-call-of-duty-ghosts-digital-hardened-edition.json](./240504-call-of-duty-ghosts-digital-hardened-edition.json) |
+| Call of Duty: Modern Warfare 2 - Force Recon | 135298 | [135298-call-of-duty-modern-warfare-2-force-recon.json](./135298-call-of-duty-modern-warfare-2-force-recon.json) |
 | Call of Duty: Modern Warfare II - Griffin: Pro Pack | 254759 | [254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json](./254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json) |
 | Call of Duty: The War Collection | 292856 | [292856-call-of-duty-the-war-collection.json](./292856-call-of-duty-the-war-collection.json) |
 | Call of Duty: Warchest | 240503 | [240503-call-of-duty-warchest.json](./240503-call-of-duty-warchest.json) |
+| Call of Duty: World at War | 135296 | [135296-call-of-duty-world-at-war.json](./135296-call-of-duty-world-at-war.json) |
+| Call of Duty: World at War | 135297 | [135297-call-of-duty-world-at-war.json](./135297-call-of-duty-world-at-war.json) |
 | Call of Farming: Together | 278741 | [278741-call-of-farming-together.json](./278741-call-of-farming-together.json) |
 | Call of the Apostate | 268766 | [268766-call-of-the-apostate.json](./268766-call-of-the-apostate.json) |
 | Call of the Sea: Norah's Diary Edition | 170032 | [170032-call-of-the-sea-norahs-diary-edition.json](./170032-call-of-the-sea-norahs-diary-edition.json) |
@@ -517,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CJ Dreams | 263226 | [263226-cj-dreams.json](./263226-cj-dreams.json) |
 | Clan Wars | 188089 | [188089-clan-wars.json](./188089-clan-wars.json) |
 | ClanRivals: Vikings | 159876 | [159876-clanrivals-vikings.json](./159876-clanrivals-vikings.json) |
+| Clarent Saga: Tactics | 135271 | [135271-clarent-saga-tactics.json](./135271-clarent-saga-tactics.json) |
 | Clash of Chess | 174898 | [174898-clash-of-chess.json](./174898-clash-of-chess.json) |
 | Clash of Digital: Rumble Smash | 241666 | [241666-clash-of-digital-rumble-smash.json](./241666-clash-of-digital-rumble-smash.json) |
 | Clash of Elements | 233216 | [233216-clash-of-elements.json](./233216-clash-of-elements.json) |
@@ -708,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander of Battlefront | 333941 | [333941-commander-of-battlefront.json](./333941-commander-of-battlefront.json) |
 | Communication Game | 312918 | [312918-communication-game.json](./312918-communication-game.json) |
 | Communion | 290724 | [290724-communion.json](./290724-communion.json) |
+| Commute | 135279 | [135279-commute.json](./135279-commute.json) |
 | Commute | 204674 | [204674-commute.json](./204674-commute.json) |
 | Commute | 204676 | [204676-commute.json](./204676-commute.json) |
 | Commuter | 189160 | [189160-commuter.json](./189160-commuter.json) |
@@ -1010,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Venture | 189194 | [189194-crystal-venture.json](./189194-crystal-venture.json) |
 | Crystal Wish: Candy Chase | 264888 | [264888-crystal-wish-candy-chase.json](./264888-crystal-wish-candy-chase.json) |
 | Cthulhu Mythos ADV Lunatic Whispers | 213033 | [213033-cthulhu-mythos-adv-lunatic-whispers.json](./213033-cthulhu-mythos-adv-lunatic-whispers.json) |
+| Cthulhu: Frozen Nightmare | 135269 | [135269-cthulhu-frozen-nightmare.json](./135269-cthulhu-frozen-nightmare.json) |
 | Cthuloot | 235448 | [235448-cthuloot.json](./235448-cthuloot.json) |
 | Ctrl.Alt.Deal | 291738 | [291738-ctrl-alt-deal.json](./291738-ctrl-alt-deal.json) |
 | Cub Gym | 150701 | [150701-cub-gym.json](./150701-cub-gym.json) |
