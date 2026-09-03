@@ -36,6 +36,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zarktor's Realm | 189172 | [189172-zarktors-realm.json](./189172-zarktors-realm.json) |
 | Zeddas | 242258 | [242258-zeddas.json](./242258-zeddas.json) |
 | Zee Artillery | 93068 | [93068-zee-artillery.json](./93068-zee-artillery.json) |
+| Zegapain NOT | 68015 | [68015-zegapain-not.json](./68015-zegapain-not.json) |
+| Zegapain XOR | 68017 | [68017-zegapain-xor.json](./68017-zegapain-xor.json) |
 | Zelda | 152362 | [152362-zelda.json](./152362-zelda.json) |
 | Zelda 64: Recompiled | 300982 | [300982-zelda-64-recompiled.json](./300982-zelda-64-recompiled.json) |
 | Zelda no Densetsu: 4-tsu no Tsurugi + | 298870 | [298870-zelda-no-densetsu-4-tsu-no-tsurugi.json](./298870-zelda-no-densetsu-4-tsu-no-tsurugi.json) |
