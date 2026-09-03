@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherside | 209129 | [209129-otherside.json](./209129-otherside.json) |
 | Otherworld Heroes | 208054 | [208054-otherworld-heroes.json](./208054-otherworld-heroes.json) |
 | Otoko Cross: Naked Remix | 247186 | [247186-otoko-cross-naked-remix.json](./247186-otoko-cross-naked-remix.json) |
+| Otona no Joushikiryoku Training DS | 68029 | [68029-otona-no-joushikiryoku-training-ds.json](./68029-otona-no-joushikiryoku-training-ds.json) |
 | Otostaz | 175947 | [175947-otostaz.json](./175947-otostaz.json) |
 | Otsuge Uranai nan desu | 69268 | [69268-otsuge-uranai-nan-desu.json](./69268-otsuge-uranai-nan-desu.json) |
 | Otter Ocean | 242786 | [242786-otter-ocean.json](./242786-otter-ocean.json) |
@@ -457,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outland Rapture | 169475 | [169475-outland-rapture.json](./169475-outland-rapture.json) |
 | Outlast: Journey of a Gladiator | 157186 | [157186-outlast-journey-of-a-gladiator.json](./157186-outlast-journey-of-a-gladiator.json) |
 | Outlaw | 123065 | [123065-outlaw.json](./123065-outlaw.json) |
+| Outlaw Chopper | 68018 | [68018-outlaw-chopper.json](./68018-outlaw-chopper.json) |
 | Outlaw City | 324686 | [324686-outlaw-city.json](./324686-outlaw-city.json) |
 | Outlaw City: Dark Past | 324685 | [324685-outlaw-city-dark-past.json](./324685-outlaw-city-dark-past.json) |
 | Outlaw Golf: Holiday Golf | 78687 | [78687-outlaw-golf-holiday-golf.json](./78687-outlaw-golf-holiday-golf.json) |
