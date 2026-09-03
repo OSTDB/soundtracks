@@ -1003,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Ball 2022 | 211954 | [211954-power-ball-2022.json](./211954-power-ball-2022.json) |
 | Power Chess | 79900 | [79900-power-chess.json](./79900-power-chess.json) |
 | Power On: Energy Flow | 292816 | [292816-power-on-energy-flow.json](./292816-power-on-energy-flow.json) |
+| Power Pete | 47272 | [47272-power-pete.json](./47272-power-pete.json) |
 | Power Pipes | 146913 | [146913-power-pipes.json](./146913-power-pipes.json) |
 | Power Plays | 60548 | [60548-power-plays.json](./60548-power-plays.json) |
 | Power Pointer | 335080 | [335080-power-pointer.json](./335080-power-pointer.json) |
@@ -1292,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Public Enemy: The Dark Future | 248293 | [248293-public-enemy-the-dark-future.json](./248293-public-enemy-the-dark-future.json) |
 | Puchi Nikki | 201840 | [201840-puchi-nikki.json](./201840-puchi-nikki.json) |
 | Puchicon Magazine: Soukangou | 222530 | [222530-puchicon-magazine-soukangou.json](./222530-puchicon-magazine-soukangou.json) |
+| Puckman | 47280 | [47280-puckman.json](./47280-puckman.json) |
 | Puda + The Kid | 263198 | [263198-puda-the-kid.json](./263198-puda-the-kid.json) |
 | Puffins: Island Adventure | 68030 | [68030-puffins-island-adventure.json](./68030-puffins-island-adventure.json) |
 | Puffins: Let's Roll | 66695 | [66695-puffins-lets-roll.json](./66695-puffins-lets-roll.json) |
@@ -1370,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli S Sudoku | 219293 | [219293-puzzle-by-nikoli-s-sudoku.json](./219293-puzzle-by-nikoli-s-sudoku.json) |
 | Puzzle by Nikoli S: Nurikabe | 231075 | [231075-puzzle-by-nikoli-s-nurikabe.json](./231075-puzzle-by-nikoli-s-nurikabe.json) |
 | Puzzle by Nikoli W Kakuro | 262657 | [262657-puzzle-by-nikoli-w-kakuro.json](./262657-puzzle-by-nikoli-w-kakuro.json) |
+| Puzzle Craft | 47286 | [47286-puzzle-craft.json](./47286-puzzle-craft.json) |
 | Puzzle da Moro! | 259828 | [259828-puzzle-da-moro.json](./259828-puzzle-da-moro.json) |
 | Puzzle Dungeon | 62776 | [62776-puzzle-dungeon.json](./62776-puzzle-dungeon.json) |
 | Puzzle For Peppa Pig | 100825 | [100825-puzzle-for-peppa-pig.json](./100825-puzzle-for-peppa-pig.json) |
