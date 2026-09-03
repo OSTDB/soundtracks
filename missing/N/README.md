@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Museum Essentials | 52608 | [52608-namco-museum-essentials.json](./52608-namco-museum-essentials.json) |
 | Name that Sonic Tune | 326960 | [326960-name-that-sonic-tune.json](./326960-name-that-sonic-tune.json) |
 | Nana-chan no Star Tanjou | 66131 | [66131-nana-chan-no-star-tanjou.json](./66131-nana-chan-no-star-tanjou.json) |
+| Nanda's Island | 48048 | [48048-nandas-island.json](./48048-nandas-island.json) |
 | Nandemo!? Taihoman | 264312 | [264312-nandemo-taihoman.json](./264312-nandemo-taihoman.json) |
 | Nanocorp | 173281 | [173281-nanocorp.json](./173281-nanocorp.json) |
 | NanoHive | 216991 | [216991-nanohive.json](./216991-nanohive.json) |
