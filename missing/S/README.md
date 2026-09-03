@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeking Revenge | 158225 | [158225-seeking-revenge.json](./158225-seeking-revenge.json) |
 | Sega Ages 2500 Vol. 29: Monster World Complete Collection | 78047 | [78047-sega-ages-2500-vol-29-monster-world-complete-collection.json](./78047-sega-ages-2500-vol-29-monster-world-complete-collection.json) |
 | Sega Superstars Tennis | 255326 | [255326-sega-superstars-tennis.json](./255326-sega-superstars-tennis.json) |
+| Sei Monmusu Festival!! Omatsuri da yo Zen'in Shuugou! | 77370 | [77370-sei-monmusu-festival-omatsuri-da-yo-zenin-shuugou.json](./77370-sei-monmusu-festival-omatsuri-da-yo-zenin-shuugou.json) |
 | Sei no Shoujo: Bishoujo Gakuen 3 | 194623 | [194623-sei-no-shoujo-bishoujo-gakuen-3.json](./194623-sei-no-shoujo-bishoujo-gakuen-3.json) |
 | Sei Shoujo Sentai Lakers II | 264323 | [264323-sei-shoujo-sentai-lakers-ii.json](./264323-sei-shoujo-sentai-lakers-ii.json) |
 | Sei Shoujo Sentai Lakers III | 264324 | [264324-sei-shoujo-sentai-lakers-iii.json](./264324-sei-shoujo-sentai-lakers-iii.json) |
@@ -383,12 +384,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Koihime: Otome Kenran Sengoku Emaki | 144381 | [144381-sengoku-koihime-otome-kenran-sengoku-emaki.json](./144381-sengoku-koihime-otome-kenran-sengoku-emaki.json) |
 | Sengoku Rance: Limited Edition | 185689 | [185689-sengoku-rance-limited-edition.json](./185689-sengoku-rance-limited-edition.json) |
 | Senile Wizards | 259815 | [259815-senile-wizards.json](./259815-senile-wizards.json) |
+| Senjo no Valkyria Duel | 77367 | [77367-senjo-no-valkyria-duel.json](./77367-senjo-no-valkyria-duel.json) |
 | Senna Oaks Spaceship Trip | 202943 | [202943-senna-oaks-spaceship-trip.json](./202943-senna-oaks-spaceship-trip.json) |
 | Senran Kagura | 102788 | [102788-senran-kagura.json](./102788-senran-kagura.json) |
 | Senran Kagura Burst Re:Newal - Miyabi Character and Campaign | 248315 | [248315-senran-kagura-burst-re-newal-miyabi-character-and-campaign.json](./248315-senran-kagura-burst-re-newal-miyabi-character-and-campaign.json) |
 | Senran Kagura Burst Re:Newal - Yumi Character and Campaign | 248311 | [248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json](./248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json) |
 | Senran Meisuishu Tactics | 83548 | [83548-senran-meisuishu-tactics.json](./83548-senran-meisuishu-tactics.json) |
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
+| Sensible Train-Spotting | 77374 | [77374-sensible-train-spotting.json](./77374-sensible-train-spotting.json) |
 | Sensory Deprivation Chamber | 262088 | [262088-sensory-deprivation-chamber.json](./262088-sensory-deprivation-chamber.json) |
 | Sente | 122414 | [122414-sente.json](./122414-sente.json) |
 | Sentience | 143695 | [143695-sentience.json](./143695-sentience.json) |
@@ -967,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM Word | 93041 | [93041-sm-word.json](./93041-sm-word.json) |
 | SM64 Sapphire | 133993 | [133993-sm64-sapphire.json](./133993-sm64-sapphire.json) |
 | SM64 The Green Stars | 132830 | [132830-sm64-the-green-stars.json](./132830-sm64-the-green-stars.json) |
+| Smack Some Smackers | 77400 | [77400-smack-some-smackers.json](./77400-smack-some-smackers.json) |
 | Small Army | 185688 | [185688-small-army.json](./185688-small-army.json) |
 | Small Ball | 169461 | [169461-small-ball.json](./169461-small-ball.json) |
 | Smarty | 130360 | [130360-smarty.json](./130360-smarty.json) |
@@ -988,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smilinguido: Desafio na Floresta | 183610 | [183610-smilinguido-desafio-na-floresta.json](./183610-smilinguido-desafio-na-floresta.json) |
 | Smily Angry | 318754 | [318754-smily-angry.json](./318754-smily-angry.json) |
 | Smithy Shop | 236538 | [236538-smithy-shop.json](./236538-smithy-shop.json) |
+| Smoking Guns: Shooting Gallery! | 77382 | [77382-smoking-guns-shooting-gallery.json](./77382-smoking-guns-shooting-gallery.json) |
 | Smoking Simulator | 201285 | [201285-smoking-simulator.json](./201285-smoking-simulator.json) |
 | Smoking Snakes | 197952 | [197952-smoking-snakes.json](./197952-smoking-snakes.json) |
 | Smolsies | 127989 | [127989-smolsies.json](./127989-smolsies.json) |
@@ -1059,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Madness | 224201 | [224201-snow-madness.json](./224201-snow-madness.json) |
 | Snow Storm | 318774 | [318774-snow-storm.json](./318774-snow-storm.json) |
 | Snow Town - Ice Village World | 108477 | [108477-snow-town-ice-village-world.json](./108477-snow-town-ice-village-world.json) |
+| Snow White and the Seven Dwarfs | 77396 | [77396-snow-white-and-the-seven-dwarfs.json](./77396-snow-white-and-the-seven-dwarfs.json) |
 | Snowball Fall Down | 208622 | [208622-snowball-fall-down.json](./208622-snowball-fall-down.json) |
 | Snowball Fight At Christmas | 165020 | [165020-snowball-fight-at-christmas.json](./165020-snowball-fight-at-christmas.json) |
 | Snowball Go Go Go | 247208 | [247208-snowball-go-go-go.json](./247208-snowball-go-go-go.json) |
@@ -1584,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spud Customs | 324090 | [324090-spud-customs.json](./324090-spud-customs.json) |
 | Spy Alarm | 148572 | [148572-spy-alarm.json](./148572-spy-alarm.json) |
 | Spy Network | 188111 | [188111-spy-network.json](./188111-spy-network.json) |
+| Spy Vs. Spy: Volumes I & II | 77397 | [77397-spy-vs-spy-volumes-i-and-ii.json](./77397-spy-vs-spy-volumes-i-and-ii.json) |
 | Spykebots | 113706 | [113706-spykebots.json](./113706-spykebots.json) |
 | Spyrit Walker | 304872 | [304872-spyrit-walker.json](./304872-spyrit-walker.json) |
 | Spyro the Dragon | 290718 | [290718-spyro-the-dragon.json](./290718-spyro-the-dragon.json) |
@@ -1845,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Arena | 114425 | [114425-storm-arena.json](./114425-storm-arena.json) |
 | Storm of Jigsaw Puzzles | 109654 | [109654-storm-of-jigsaw-puzzles.json](./109654-storm-of-jigsaw-puzzles.json) |
 | Storm Swordsman | 190733 | [190733-storm-swordsman.json](./190733-storm-swordsman.json) |
+| Stormball | 77379 | [77379-stormball.json](./77379-stormball.json) |
 | Stormwinds | 210284 | [210284-stormwinds.json](./210284-stormwinds.json) |
 | Story About Times | 113009 | [113009-story-about-times.json](./113009-story-about-times.json) |
 | Story Machine | 95450 | [95450-story-machine.json](./95450-story-machine.json) |
@@ -1900,6 +1908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Hoops | 242807 | [242807-street-hoops.json](./242807-street-hoops.json) |
 | Street Karate 3 | 169468 | [169468-street-karate-3.json](./169468-street-karate-3.json) |
 | Street Karate Fighter | 100882 | [100882-street-karate-fighter.json](./100882-street-karate-fighter.json) |
+| Street Legal Racing: Redline | 77346 | [77346-street-legal-racing-redline.json](./77346-street-legal-racing-redline.json) |
 | Street Outlaws 2: Winner Takes All - Digital Deluxe Edition | 173797 | [173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json](./173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json) |
 | Street Racing Xtreme ( 3D Car Race Games ) | 105935 | [105935-street-racing-xtreme-3d-car-race-games.json](./105935-street-racing-xtreme-3d-car-race-games.json) |
 | Street Shuffle | 134659 | [134659-street-shuffle.json](./134659-street-shuffle.json) |
@@ -2240,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario: Magnum Opus | 250041 | [250041-super-mario-magnum-opus.json](./250041-super-mario-magnum-opus.json) |
 | Super Mario: The Star Kingdom | 324112 | [324112-super-mario-the-star-kingdom.json](./324112-super-mario-the-star-kingdom.json) |
 | Super Mario: The Trip | 277045 | [277045-super-mario-the-trip.json](./277045-super-mario-the-trip.json) |
+| Super Marisa World | 77351 | [77351-super-marisa-world.json](./77351-super-marisa-world.json) |
 | Super Market | 320533 | [320533-super-market.json](./320533-super-market.json) |
 | Super Masao 2 | 165061 | [165061-super-masao-2.json](./165061-super-masao-2.json) |
 | Super Metroid and A Link to the Past Crossover Randomizer | 210231 | [210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json](./210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json) |
@@ -2464,6 +2474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylvie Lime | 230501 | [230501-sylvie-lime.json](./230501-sylvie-lime.json) |
 | Sylvie RPG: 7 Elf Apocalypse | 292830 | [292830-sylvie-rpg-7-elf-apocalypse.json](./292830-sylvie-rpg-7-elf-apocalypse.json) |
 | Sylvio and the Mountains Giants | 236536 | [236536-sylvio-and-the-mountains-giants.json](./236536-sylvio-and-the-mountains-giants.json) |
+| Symb Eco | 77362 | [77362-symb-eco.json](./77362-symb-eco.json) |
 | Symbiotic Love | 159361 | [159361-symbiotic-love.json](./159361-symbiotic-love.json) |
 | Symbol | 229930 | [229930-symbol.json](./229930-symbol.json) |
 | Symmetrain | 123074 | [123074-symmetrain.json](./123074-symmetrain.json) |
