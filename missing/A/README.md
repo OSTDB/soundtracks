@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akanesasu Sekai de Kimi to Utau | 240479 | [240479-akanesasu-sekai-de-kimi-to-utau.json](./240479-akanesasu-sekai-de-kimi-to-utau.json) |
 | Akari by Nikoli | 84869 | [84869-akari-by-nikoli.json](./84869-akari-by-nikoli.json) |
 | Akashi | 229379 | [229379-akashi.json](./229379-akashi.json) |
+| Akatsuki no Amaneka to Aoi Kyojin: Pashiate Bunmei Kenkyuukai Koubouki | 67296 | [67296-akatsuki-no-amaneka-to-aoi-kyojin-pashiate-bunmei-kenkyuukai-koubouki.json](./67296-akatsuki-no-amaneka-to-aoi-kyojin-pashiate-bunmei-kenkyuukai-koubouki.json) |
 | Akatsuki no Bizantira | 228703 | [228703-akatsuki-no-bizantira.json](./228703-akatsuki-no-bizantira.json) |
 | Akatsuki no Goei | 202951 | [202951-akatsuki-no-goei.json](./202951-akatsuki-no-goei.json) |
 | Akatsuki no Goei Trinity | 202954 | [202954-akatsuki-no-goei-trinity.json](./202954-akatsuki-no-goei-trinity.json) |
@@ -855,6 +856,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Time Another Leaf: Kagami no Naka no Tantei | 69283 | [69283-another-time-another-leaf-kagami-no-naka-no-tantei.json](./69283-another-time-another-leaf-kagami-no-naka-no-tantei.json) |
 | Another Warfare | 156662 | [156662-another-warfare.json](./156662-another-warfare.json) |
 | Anpanman no Waku-waku Game Oekaki | 123617 | [123617-anpanman-no-waku-waku-game-oekaki.json](./123617-anpanman-no-waku-waku-game-oekaki.json) |
+| Anpanman to Asobo: ABC Kyoushitsu | 67283 | [67283-anpanman-to-asobo-abc-kyoushitsu.json](./67283-anpanman-to-asobo-abc-kyoushitsu.json) |
+| Anpanman to Asobo: AIUEO Kyoushitsu DX | 67285 | [67285-anpanman-to-asobo-aiueo-kyoushitsu-dx.json](./67285-anpanman-to-asobo-aiueo-kyoushitsu-dx.json) |
+| Anpanman to Asobu: AIUEO Kyoushitsu | 67284 | [67284-anpanman-to-asobu-aiueo-kyoushitsu.json](./67284-anpanman-to-asobu-aiueo-kyoushitsu.json) |
 | Anstoss 2: Gold Edition | 155090 | [155090-anstoss-2-gold-edition.json](./155090-anstoss-2-gold-edition.json) |
 | Anstoß Action | 98963 | [98963-ansto-action.json](./98963-ansto-action.json) |
 | Answer Campus | 260408 | [260408-answer-campus.json](./260408-answer-campus.json) |
@@ -961,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Wonder Boy | 141885 | [141885-arcade-archives-wonder-boy.json](./141885-arcade-archives-wonder-boy.json) |
 | Arcade Archives: XX Mission | 129194 | [129194-arcade-archives-xx-mission.json](./129194-arcade-archives-xx-mission.json) |
 | Arcade Basketball 3D Tournament Edition | 241611 | [241611-arcade-basketball-3d-tournament-edition.json](./241611-arcade-basketball-3d-tournament-edition.json) |
+| Arcade Bowling | 67310 | [67310-arcade-bowling.json](./67310-arcade-bowling.json) |
 | Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
 | Arcade Party | 241076 | [241076-arcade-party.json](./241076-arcade-party.json) |
 | Arcadium: Space Odyssey | 255971 | [255971-arcadium-space-odyssey.json](./255971-arcadium-space-odyssey.json) |
