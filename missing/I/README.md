@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Cross | 80581 | [80581-iron-cross.json](./80581-iron-cross.json) |
 | Iron Crown | 318183 | [318183-iron-crown.json](./318183-iron-crown.json) |
 | Iron Frontier | 224787 | [224787-iron-frontier.json](./224787-iron-frontier.json) |
+| Iron Master: The Legendary Blacksmith | 67991 | [67991-iron-master-the-legendary-blacksmith.json](./67991-iron-master-the-legendary-blacksmith.json) |
 | Iron Order 1919 | 196333 | [196333-iron-order-1919.json](./196333-iron-order-1919.json) |
 | Iron Reich | 157194 | [157194-iron-reich.json](./157194-iron-reich.json) |
 | Iron Saga VS | 273641 | [273641-iron-saga-vs.json](./273641-iron-saga-vs.json) |
