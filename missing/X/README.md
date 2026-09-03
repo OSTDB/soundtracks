@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xolotl | 195762 | [195762-xolotl.json](./195762-xolotl.json) |
 | Xonix | 304330 | [304330-xonix.json](./304330-xonix.json) |
 | Xplode Man | 313495 | [313495-xplode-man.json](./313495-xplode-man.json) |
+| XR-35 | 55210 | [55210-xr-35.json](./55210-xr-35.json) |
 | XS Moto | 205811 | [205811-xs-moto.json](./205811-xs-moto.json) |
 | Xtreme Boarders: Precision Skating | 205813 | [205813-xtreme-boarders-precision-skating.json](./205813-xtreme-boarders-precision-skating.json) |
 | Xtreme Garage: Drifter | 234329 | [234329-xtreme-garage-drifter.json](./234329-xtreme-garage-drifter.json) |
