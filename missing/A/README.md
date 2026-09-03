@@ -1543,6 +1543,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aye Fair Lady | 126019 | [126019-aye-fair-lady.json](./126019-aye-fair-lady.json) |
 | Ayni Fairyland | 107896 | [107896-ayni-fairyland.json](./107896-ayni-fairyland.json) |
 | Ayu: The Dream Soul | 149098 | [149098-ayu-the-dream-soul.json](./149098-ayu-the-dream-soul.json) |
+| Ayumi-chan Monogatari | 41410 | [41410-ayumi-chan-monogatari.json](./41410-ayumi-chan-monogatari.json) |
+| Ayumi-chan Monogatari: Jisshaban | 41411 | [41411-ayumi-chan-monogatari-jisshaban.json](./41411-ayumi-chan-monogatari-jisshaban.json) |
 | Azada: In Libro Collector's Edition | 74465 | [74465-azada-in-libro-collectors-edition.json](./74465-azada-in-libro-collectors-edition.json) |
 | Azangara | 77375 | [77375-azangara.json](./77375-azangara.json) |
 | Azazel | 170020 | [170020-azazel.json](./170020-azazel.json) |
