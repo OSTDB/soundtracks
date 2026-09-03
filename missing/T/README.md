@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Jade Li Guang | 151740 | [151740-tale-of-jade-li-guang.json](./151740-tale-of-jade-li-guang.json) |
 | Tale of Scale | 339628 | [339628-tale-of-scale.json](./339628-tale-of-scale.json) |
 | Tale of Swords | 113734 | [113734-tale-of-swords.json](./113734-tale-of-swords.json) |
+| Tale of Swords: Mystery Scroll | 83544 | [83544-tale-of-swords-mystery-scroll.json](./83544-tale-of-swords-mystery-scroll.json) |
 | Tale of the Shadow World | 267681 | [267681-tale-of-the-shadow-world.json](./267681-tale-of-the-shadow-world.json) |
 | Tale of Two Sides | 309133 | [309133-tale-of-two-sides.json](./309133-tale-of-two-sides.json) |
 | Talents | 248320 | [248320-talents.json](./248320-talents.json) |
@@ -267,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teel Me You! | 181361 | [181361-teel-me-you.json](./181361-teel-me-you.json) |
 | Teenage Lawnmower | 308559 | [308559-teenage-lawnmower.json](./308559-teenage-lawnmower.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Radical Reptiles | 317624 | [317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json](./317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json) |
+| Teeny Heist | 83556 | [83556-teeny-heist.json](./83556-teeny-heist.json) |
 | Teeny Tiny Trains | 297228 | [297228-teeny-tiny-trains.json](./297228-teeny-tiny-trains.json) |
 | Teeth Brushing Simulator | 228730 | [228730-teeth-brushing-simulator.json](./228730-teeth-brushing-simulator.json) |
 | Tekken 6 | 272551 | [272551-tekken-6.json](./272551-tekken-6.json) |
@@ -371,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetron | 153411 | [153411-tetron.json](./153411-tetron.json) |
 | Tetsu-pipe de Suika-wari | 220315 | [220315-tetsu-pipe-de-suika-wari.json](./220315-tetsu-pipe-de-suika-wari.json) |
 | Tetsudou Nippon! Rosen Tabi: Aizu Tetsudou‑hen | 221946 | [221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json](./221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json) |
+| Tex Murphy: Mean Streets + Martian Memorandum | 83575 | [83575-tex-murphy-mean-streets-martian-memorandum.json](./83575-tex-murphy-mean-streets-martian-memorandum.json) |
 | Texas Hold'em | 137058 | [137058-texas-holdem.json](./137058-texas-holdem.json) |
 | TextTwist 2 | 92504 | [92504-texttwist-2.json](./92504-texttwist-2.json) |
 | Thalassic | 238728 | [238728-thalassic.json](./238728-thalassic.json) |
@@ -453,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Lebowski Bowling | 312336 | [312336-the-big-lebowski-bowling.json](./312336-the-big-lebowski-bowling.json) |
 | The Big Picture | 206346 | [206346-the-big-picture.json](./206346-the-big-picture.json) |
 | The Big, Friendly Thud! | 260937 | [260937-the-big-friendly-thud.json](./260937-the-big-friendly-thud.json) |
+| The Binding of You | 83551 | [83551-the-binding-of-you.json](./83551-the-binding-of-you.json) |
 | The Bird Museum | 182545 | [182545-the-bird-museum.json](./182545-the-bird-museum.json) |
 | The Bitmap Brothers Collection 2 | 325242 | [325242-the-bitmap-brothers-collection-2.json](./325242-the-bitmap-brothers-collection-2.json) |
 | The Black Lamb | 329937 | [329937-the-black-lamb.json](./329937-the-black-lamb.json) |
@@ -785,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunt for the Lost Treasure | 88284 | [88284-the-hunt-for-the-lost-treasure.json](./88284-the-hunt-for-the-lost-treasure.json) |
 | The I of It | 225292 | [225292-the-i-of-it.json](./225292-the-i-of-it.json) |
 | The Idolmaster: Shiny Colors | 97876 | [97876-the-idolmaster-shiny-colors.json](./97876-the-idolmaster-shiny-colors.json) |
+| The IL Tempo Game | 83601 | [83601-the-il-tempo-game.json](./83601-the-il-tempo-game.json) |
 | The Illusory Abyss | 118368 | [118368-the-illusory-abyss.json](./118368-the-illusory-abyss.json) |
 | The Imaginary Circle | 215369 | [215369-the-imaginary-circle.json](./215369-the-imaginary-circle.json) |
 | The Immortal Mayor | 152377 | [152377-the-immortal-mayor.json](./152377-the-immortal-mayor.json) |
@@ -1282,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trader | 159881 | [159881-the-trader.json](./159881-the-trader.json) |
 | The Trap | 196838 | [196838-the-trap.json](./196838-the-trap.json) |
 | The Treasure of Civilization | 153422 | [153422-the-treasure-of-civilization.json](./153422-the-treasure-of-civilization.json) |
+| The Treasure Seekers of Lady Luck | 83596 | [83596-the-treasure-seekers-of-lady-luck.json](./83596-the-treasure-seekers-of-lady-luck.json) |
 | The Treasures of Hotei | 96071 | [96071-the-treasures-of-hotei.json](./96071-the-treasures-of-hotei.json) |
 | The Trials | 172767 | [172767-the-trials.json](./172767-the-trials.json) |
 | The Trials 2 | 310760 | [310760-the-trials-2.json](./310760-the-trials-2.json) |
@@ -1716,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Burn in Memory: Anniversary Edition | 110371 | [110371-to-burn-in-memory-anniversary-edition.json](./110371-to-burn-in-memory-anniversary-edition.json) |
 | To Duel List | 151704 | [151704-to-duel-list.json](./151704-to-duel-list.json) |
 | To Dust | 259824 | [259824-to-dust.json](./259824-to-dust.json) |
+| To the City of the Clouds | 83597 | [83597-to-the-city-of-the-clouds.json](./83597-to-the-city-of-the-clouds.json) |
 | To the Crown | 182530 | [182530-to-the-crown.json](./182530-to-the-crown.json) |
 | To The Dark Tower | 119006 | [119006-to-the-dark-tower.json](./119006-to-the-dark-tower.json) |
 | To the Mountain | 331128 | [331128-to-the-mountain.json](./331128-to-the-mountain.json) |
@@ -1797,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's The Division: Heartland | 146881 | [146881-tom-clancys-the-division-heartland.json](./146881-tom-clancys-the-division-heartland.json) |
 | Tom Cruise's Kissing History | 317036 | [317036-tom-cruises-kissing-history.json](./317036-tom-cruises-kissing-history.json) |
 | Tom Steal the Meal | 228100 | [228100-tom-steal-the-meal.json](./228100-tom-steal-the-meal.json) |
+| Tomato Jones - Episode 3 | 83542 | [83542-tomato-jones-episode-3.json](./83542-tomato-jones-episode-3.json) |
 | Tomb of Friends | 249468 | [249468-tomb-of-friends.json](./249468-tomb-of-friends.json) |
 | Tomb of the Dash | 199630 | [199630-tomb-of-the-dash.json](./199630-tomb-of-the-dash.json) |
 | Tomb of Trials | 180270 | [180270-tomb-of-trials.json](./180270-tomb-of-trials.json) |
@@ -2331,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Tales: Night night Scarlett | 178653 | [178653-twisted-tales-night-night-scarlett.json](./178653-twisted-tales-night-night-scarlett.json) |
 | Twisted Tangle | 254744 | [254744-twisted-tangle.json](./254744-twisted-tangle.json) |
 | Twisty Arrow! | 100880 | [100880-twisty-arrow.json](./100880-twisty-arrow.json) |
+| Twisty Planets Space Puzzle | 83577 | [83577-twisty-planets-space-puzzle.json](./83577-twisty-planets-space-puzzle.json) |
 | Twitchbox | 96052 | [96052-twitchbox.json](./96052-twitchbox.json) |
 | Twitter Plays Snake | 339133 | [339133-twitter-plays-snake.json](./339133-twitter-plays-snake.json) |
 | Twizzle Puzzle: Monkeys | 290690 | [290690-twizzle-puzzle-monkeys.json](./290690-twizzle-puzzle-monkeys.json) |
