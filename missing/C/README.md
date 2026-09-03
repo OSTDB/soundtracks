@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carperation | 163973 | [163973-carperation.json](./163973-carperation.json) |
 | Carrera | 295031 | [295031-carrera.json](./295031-carrera.json) |
 | Carrie the Caregiver: Episode 1 - Infancy | 95416 | [95416-carrie-the-caregiver-episode-1-infancy.json](./95416-carrie-the-caregiver-episode-1-infancy.json) |
+| Carrier | 55181 | [55181-carrier.json](./55181-carrier.json) |
 | Carrier Battles 4 Guadalcanal | 242201 | [242201-carrier-battles-4-guadalcanal.json](./242201-carrier-battles-4-guadalcanal.json) |
 | Carrier Battles 4 Guadalcanal: Advanced Fog of War in the Pacific | 170520 | [170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json](./170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json) |
 | Carrion Fields | 228692 | [228692-carrion-fields.json](./228692-carrion-fields.json) |
@@ -781,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Goblin | 184642 | [184642-club-goblin.json](./184642-club-goblin.json) |
 | Club Penguin Brasil | 194619 | [194619-club-penguin-brasil.json](./194619-club-penguin-brasil.json) |
 | Club Penguin Dimensions | 319377 | [319377-club-penguin-dimensions.json](./319377-club-penguin-dimensions.json) |
+| Club Soccer Director 2018 | 55160 | [55160-club-soccer-director-2018.json](./55160-club-soccer-director-2018.json) |
 | Club Vanentine | 228689 | [228689-club-vanentine.json](./228689-club-vanentine.json) |
 | Clubhouse Games Express: Card Classics | 70418 | [70418-clubhouse-games-express-card-classics.json](./70418-clubhouse-games-express-card-classics.json) |
 | Clue | 206977 | [206977-clue.json](./206977-clue.json) |
@@ -1350,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Gal Mahjong II | 123071 | [123071-crystal-gal-mahjong-ii.json](./123071-crystal-gal-mahjong-ii.json) |
 | Crystal Guardian | 296668 | [296668-crystal-guardian.json](./296668-crystal-guardian.json) |
 | Crystal Ice Quest | 146899 | [146899-crystal-ice-quest.json](./146899-crystal-ice-quest.json) |
+| Crystal Raider | 55188 | [55188-crystal-raider.json](./55188-crystal-raider.json) |
 | Crystal Soul Chambers | 132257 | [132257-crystal-soul-chambers.json](./132257-crystal-soul-chambers.json) |
 | Crystal Squad | 236503 | [236503-crystal-squad.json](./236503-crystal-squad.json) |
 | Crystal Venture | 189194 | [189194-crystal-venture.json](./189194-crystal-venture.json) |
