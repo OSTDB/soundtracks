@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Park 2: Horror Clown | 251232 | [251232-death-park-2-horror-clown.json](./251232-death-park-2-horror-clown.json) |
 | Death Race | 110376 | [110376-death-race.json](./110376-death-race.json) |
 | Death Remains | 333380 | [333380-death-remains.json](./333380-death-remains.json) |
+| Death Room | 75156 | [75156-death-room.json](./75156-death-room.json) |
 | Death Slave | 209698 | [209698-death-slave.json](./209698-death-slave.json) |
 | Death Tour | 242798 | [242798-death-tour.json](./242798-death-tour.json) |
 | Death Trading Card Game | 196879 | [196879-death-trading-card-game.json](./196879-death-trading-card-game.json) |
@@ -403,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Gate: Crown Defense | 114412 | [114412-demon-gate-crown-defense.json](./114412-demon-gate-crown-defense.json) |
 | Demon Gaze Extra | 148525 | [148525-demon-gaze-extra.json](./148525-demon-gaze-extra.json) |
 | Demon Go! | 209653 | [209653-demon-go.json](./209653-demon-go.json) |
+| Demon Grade | 75159 | [75159-demon-grade.json](./75159-demon-grade.json) |
 | Demon Keeper 2+ | 167305 | [167305-demon-keeper-2.json](./167305-demon-keeper-2.json) |
 | Demon Path: Tower of Armagor | 215904 | [215904-demon-path-tower-of-armagor.json](./215904-demon-path-tower-of-armagor.json) |
 | Demon RPG | 299451 | [299451-demon-rpg.json](./299451-demon-rpg.json) |
@@ -581,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dillo Guy | 293890 | [293890-dillo-guy.json](./293890-dillo-guy.json) |
 | Diluvian Ultra: Awakening | 316989 | [316989-diluvian-ultra-awakening.json](./316989-diluvian-ultra-awakening.json) |
 | Dim Glow | 158193 | [158193-dim-glow.json](./158193-dim-glow.json) |
+| Dima Rescues Ira | 75157 | [75157-dima-rescues-ira.json](./75157-dima-rescues-ira.json) |
 | Dimension X | 246067 | [246067-dimension-x.json](./246067-dimension-x.json) |
 | Dimensional Slaughter | 209696 | [209696-dimensional-slaughter.json](./209696-dimensional-slaughter.json) |
 | DimensionalDoors | 232666 | [232666-dimensionaldoors.json](./232666-dimensionaldoors.json) |
