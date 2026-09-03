@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Power | 242772 | [242772-next-power.json](./242772-next-power.json) |
 | Next Room | 292280 | [292280-next-room.json](./292280-next-room.json) |
 | Next Step | 178655 | [178655-next-step.json](./178655-next-step.json) |
+| Next Stop | 87314 | [87314-next-stop.json](./87314-next-stop.json) |
 | Nexus 2 | 92499 | [92499-nexus-2.json](./92499-nexus-2.json) |
 | Nexus Rumble: The Ultimate Showdown | 304869 | [304869-nexus-rumble-the-ultimate-showdown.json](./304869-nexus-rumble-the-ultimate-showdown.json) |
 | Neyyah | 133474 | [133474-neyyah.json](./133474-neyyah.json) |
@@ -258,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice Shot Golf | 123629 | [123629-nice-shot-golf.json](./123629-nice-shot-golf.json) |
 | Nice Try! | 129229 | [129229-nice-try.json](./129229-nice-try.json) |
 | Nick Faldo Championship Golf | 295038 | [295038-nick-faldo-championship-golf.json](./295038-nick-faldo-championship-golf.json) |
+| Nick Sports | 87199 | [87199-nick-sports.json](./87199-nick-sports.json) |
 | Nick's Night Out | 123052 | [123052-nicks-night-out.json](./123052-nicks-night-out.json) |
 | Nickelodeon Kart Racers 3: Slime Speedway Turbo Pack | 263234 | [263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json](./263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json) |
 | Nicktoons: Snap Shot | 308564 | [308564-nicktoons-snap-shot.json](./308564-nicktoons-snap-shot.json) |
