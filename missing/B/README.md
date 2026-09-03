@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backstage: Murdered Sleep | 297777 | [297777-backstage-murdered-sleep.json](./297777-backstage-murdered-sleep.json) |
 | Backward Poiesis | 297776 | [297776-backward-poiesis.json](./297776-backward-poiesis.json) |
 | Backwards | 179176 | [179176-backwards.json](./179176-backwards.json) |
+| Backyard Hockey 2005 | 46638 | [46638-backyard-hockey-2005.json](./46638-backyard-hockey-2005.json) |
 | Backyard Monsters | 159324 | [159324-backyard-monsters.json](./159324-backyard-monsters.json) |
 | Backyard Parking 3D | 83579 | [83579-backyard-parking-3d.json](./83579-backyard-parking-3d.json) |
 | Backyard Soccer 2004 | 72711 | [72711-backyard-soccer-2004.json](./72711-backyard-soccer-2004.json) |
@@ -461,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | beatmania complete MIX | 94744 | [94744-beatmania-complete-mix.json](./94744-beatmania-complete-mix.json) |
 | Beatmania IIDX 20 Tricoro | 61664 | [61664-beatmania-iidx-20-tricoro.json](./61664-beatmania-iidx-20-tricoro.json) |
 | Beatmania IIDX 31 Epolis | 258714 | [258714-beatmania-iidx-31-epolis.json](./258714-beatmania-iidx-31-epolis.json) |
+| Beats of Rage | 46623 | [46623-beats-of-rage.json](./46623-beats-of-rage.json) |
 | Beauties Academy: Spellcraft Tournament | 211429 | [211429-beauties-academy-spellcraft-tournament.json](./211429-beauties-academy-spellcraft-tournament.json) |
 | Beauties Unveiled 2: CEO 69 Edition | 315874 | [315874-beauties-unveiled-2-ceo-69-edition.json](./315874-beauties-unveiled-2-ceo-69-edition.json) |
 | Beautiful Amazing Jungle Animals for Kids | 100194 | [100194-beautiful-amazing-jungle-animals-for-kids.json](./100194-beautiful-amazing-jungle-animals-for-kids.json) |
@@ -1057,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Zone | 84241 | [84241-bounce-zone.json](./84241-bounce-zone.json) |
 | Bounceables | 217548 | [217548-bounceables.json](./217548-bounceables.json) |
 | Bounced | 295027 | [295027-bounced.json](./295027-bounced.json) |
+| Bouncing Babies | 46652 | [46652-bouncing-babies.json](./46652-bouncing-babies.json) |
 | Bouncy Goal | 242219 | [242219-bouncy-goal.json](./242219-bouncy-goal.json) |
 | Bound Ball Animals | 314020 | [314020-bound-ball-animals.json](./314020-bound-ball-animals.json) |
 | Bound High | 50596 | [50596-bound-high.json](./50596-bound-high.json) |
@@ -1332,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulletrooms | 309692 | [309692-bulletrooms.json](./309692-bulletrooms.json) |
 | Bullets & Brains | 261552 | [261552-bullets-and-brains.json](./261552-bullets-and-brains.json) |
 | Bullets in the Space | 106626 | [106626-bullets-in-the-space.json](./106626-bullets-in-the-space.json) |
+| Bulletstorm: Limited Edition | 46640 | [46640-bulletstorm-limited-edition.json](./46640-bulletstorm-limited-edition.json) |
 | Bullfight Ring no Hasha | 59428 | [59428-bullfight-ring-no-hasha.json](./59428-bullfight-ring-no-hasha.json) |
 | Bully Ball Soccer | 296653 | [296653-bully-ball-soccer.json](./296653-bully-ball-soccer.json) |
 | BullyBall | 161894 | [161894-bullyball.json](./161894-bullyball.json) |
