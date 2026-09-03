@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Savings | 114383 | [114383-secret-savings.json](./114383-secret-savings.json) |
 | Secret Thursday | 312926 | [312926-secret-thursday.json](./312926-secret-thursday.json) |
 | Secret Trial Ground | 273625 | [273625-secret-trial-ground.json](./273625-secret-trial-ground.json) |
+| Secret Wives' Club | 80592 | [80592-secret-wives-club.json](./80592-secret-wives-club.json) |
 | Secrets | 179171 | [179171-secrets.json](./179171-secrets.json) |
 | Secrets Agent | 136440 | [136440-secrets-agent.json](./136440-secrets-agent.json) |
 | Secrets of the Dark: Eclipse Mountain - Collector's Edition | 96752 | [96752-secrets-of-the-dark-eclipse-mountain-collectors-edition.json](./96752-secrets-of-the-dark-eclipse-mountain-collectors-edition.json) |
@@ -403,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam: GOG Collection | 205226 | [205226-serious-sam-gog-collection.json](./205226-serious-sam-gog-collection.json) |
 | Serious Solitaire | 84236 | [84236-serious-solitaire.json](./84236-serious-solitaire.json) |
 | Serpent of Isis: Your Journey Continues | 89291 | [89291-serpent-of-isis-your-journey-continues.json](./89291-serpent-of-isis-your-journey-continues.json) |
+| Serra Pelada | 80551 | [80551-serra-pelada.json](./80551-serra-pelada.json) |
 | Serve & Volley | 94267 | [94267-serve-and-volley.json](./94267-serve-and-volley.json) |
 | Served in Yong'an | 266474 | [266474-served-in-yongan.json](./266474-served-in-yongan.json) |
 | Served! A Gourmet Race | 104684 | [104684-served-a-gourmet-race.json](./104684-served-a-gourmet-race.json) |
