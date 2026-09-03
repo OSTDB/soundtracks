@@ -615,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Citizen Kane of Video Games | 225271 | [225271-the-citizen-kane-of-video-games.json](./225271-the-citizen-kane-of-video-games.json) |
 | The City of the Damned | 141239 | [141239-the-city-of-the-damned.json](./141239-the-city-of-the-damned.json) |
 | The City of the Damned: Apocalypse | 141240 | [141240-the-city-of-the-damned-apocalypse.json](./141240-the-city-of-the-damned-apocalypse.json) |
+| The Classic Lotus Trilogy | 39041 | [39041-the-classic-lotus-trilogy.json](./39041-the-classic-lotus-trilogy.json) |
 | The Climbest | 182538 | [182538-the-climbest.json](./182538-the-climbest.json) |
 | The Clown | 260975 | [260975-the-clown.json](./260975-the-clown.json) |
 | The Clutch: Remastered | 186864 | [186864-the-clutch-remastered.json](./186864-the-clutch-remastered.json) |
@@ -907,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hotel: Floor 13 | 272576 | [272576-the-hotel-floor-13.json](./272576-the-hotel-floor-13.json) |
 | The House in the Woods | 176505 | [176505-the-house-in-the-woods.json](./176505-the-house-in-the-woods.json) |
 | The House of Big people | 188677 | [188677-the-house-of-big-people.json](./188677-the-house-of-big-people.json) |
+| The Humans 2: Jurassic Levels | 39032 | [39032-the-humans-2-jurassic-levels.json](./39032-the-humans-2-jurassic-levels.json) |
 | The Hundred Line: Last Defense Academy - Digital Deluxe Edition | 338007 | [338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json](./338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json) |
 | The Hundred Year Kingdom | 151737 | [151737-the-hundred-year-kingdom.json](./151737-the-hundred-year-kingdom.json) |
 | The Hunger Games Adventures | 57708 | [57708-the-hunger-games-adventures.json](./57708-the-hunger-games-adventures.json) |
@@ -1169,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ninji Saga Part 1: Birth of a Legend | 275328 | [275328-the-ninji-saga-part-1-birth-of-a-legend.json](./275328-the-ninji-saga-part-1-birth-of-a-legend.json) |
 | The No Button Game | 225293 | [225293-the-no-button-game.json](./225293-the-no-button-game.json) |
 | The No No Man | 316412 | [316412-the-no-no-man.json](./316412-the-no-no-man.json) |
+| The Normal Day | 38997 | [38997-the-normal-day.json](./38997-the-normal-day.json) |
 | The Notzing Project | 323555 | [323555-the-notzing-project.json](./323555-the-notzing-project.json) |
 | The Nova Era | 209712 | [209712-the-nova-era.json](./209712-the-nova-era.json) |
 | The Nutcracker | 216997 | [216997-the-nutcracker.json](./216997-the-nutcracker.json) |
@@ -2499,8 +2502,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Fashion Trivia | 101615 | [101615-trivia-vault-fashion-trivia.json](./101615-trivia-vault-fashion-trivia.json) |
 | Trivia Vault: Toy Trivia | 101614 | [101614-trivia-vault-toy-trivia.json](./101614-trivia-vault-toy-trivia.json) |
 | Trivial Pursuit: NASCAR | 100170 | [100170-trivial-pursuit-nascar.json](./100170-trivial-pursuit-nascar.json) |
+| Trivial Pursuit: The CD32 Edition | 39040 | [39040-trivial-pursuit-the-cd32-edition.json](./39040-trivial-pursuit-the-cd32-edition.json) |
 | Trizeal | 93063 | [93063-trizeal.json](./93063-trizeal.json) |
 | TRL: The Rail Loaders | 266485 | [266485-trl-the-rail-loaders.json](./266485-trl-the-rail-loaders.json) |
+| Troddlers | 39029 | [39029-troddlers.json](./39029-troddlers.json) |
 | Trog Smash Island | 296081 | [296081-trog-smash-island.json](./296081-trog-smash-island.json) |
 | Troll Face Quest: Game of Trolls | 306703 | [306703-troll-face-quest-game-of-trolls.json](./306703-troll-face-quest-game-of-trolls.json) |
 | Trolley Folly | 248327 | [248327-trolley-folly.json](./248327-trolley-folly.json) |
@@ -2646,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Shot 2: Good & Evil | 180291 | [180291-twin-shot-2-good-and-evil.json](./180291-twin-shot-2-good-and-evil.json) |
 | Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
 | Twinkle Crusaders GoGo! | 59417 | [59417-twinkle-crusaders-gogo.json](./59417-twinkle-crusaders-gogo.json) |
+| Twinkle Knights | 39016 | [39016-twinkle-knights.json](./39016-twinkle-knights.json) |
 | Twinora | 126636 | [126636-twinora.json](./126636-twinora.json) |
 | TwinWorld: Land of Vision | 72099 | [72099-twinworld-land-of-vision.json](./72099-twinworld-land-of-vision.json) |
 | Twist & Turn | 255960 | [255960-twist-and-turn.json](./255960-twist-and-turn.json) |
