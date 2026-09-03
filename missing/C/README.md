@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carlos Klauss: Episode Zero | 258701 | [258701-carlos-klauss-episode-zero.json](./258701-carlos-klauss-episode-zero.json) |
 | Carma | 172153 | [172153-carma.json](./172153-carma.json) |
 | Carmen Sandiego Word Detective | 73312 | [73312-carmen-sandiego-word-detective.json](./73312-carmen-sandiego-word-detective.json) |
+| Carnica | 39636 | [39636-carnica.json](./39636-carnica.json) |
 | Carnival | 297810 | [297810-carnival.json](./297810-carnival.json) |
 | Carol the Dark Angel | 209722 | [209722-carol-the-dark-angel.json](./209722-carol-the-dark-angel.json) |
 | Carpathian Survival | 315263 | [315263-carpathian-survival.json](./315263-carpathian-survival.json) |
@@ -1064,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook Baker Match | 175425 | [175425-cook-baker-match.json](./175425-cook-baker-match.json) |
 | Cook Out! | 250045 | [250045-cook-out.json](./250045-cook-out.json) |
 | Cook-A-Geddon | 265433 | [265433-cook-a-geddon.json](./265433-cook-a-geddon.json) |
+| Cookie & Bibi 3 | 39643 | [39643-cookie-and-bibi-3.json](./39643-cookie-and-bibi-3.json) |
 | Cookie Run | 74416 | [74416-cookie-run.json](./74416-cookie-run.json) |
 | Cookies Cookies Cookies | 205243 | [205243-cookies-cookies-cookies.json](./205243-cookies-cookies-cookies.json) |
 | Cookies Inc. | 243980 | [243980-cookies-inc.json](./243980-cookies-inc.json) |
@@ -1145,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Wars | 48646 | [48646-cosmic-wars.json](./48646-cosmic-wars.json) |
 | Cosmic Zephyr DX | 159845 | [159845-cosmic-zephyr-dx.json](./159845-cosmic-zephyr-dx.json) |
 | Cosmo 02 | 165690 | [165690-cosmo-02.json](./165690-cosmo-02.json) |
+| Cosmo Gang the Video | 39644 | [39644-cosmo-gang-the-video.json](./39644-cosmo-gang-the-video.json) |
 | Cosmo Race | 196335 | [196335-cosmo-race.json](./196335-cosmo-race.json) |
 | Cosmoblaster Exodia | 192939 | [192939-cosmoblaster-exodia.json](./192939-cosmoblaster-exodia.json) |
 | Cosmodread | 144994 | [144994-cosmodread.json](./144994-cosmodread.json) |
@@ -1264,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Car | 94263 | [94263-crazy-car.json](./94263-crazy-car.json) |
 | Crazy Chewy | 47267 | [47267-crazy-chewy.json](./47267-crazy-chewy.json) |
 | Crazy Climber 2000 | 77399 | [77399-crazy-climber-2000.json](./77399-crazy-climber-2000.json) |
+| Crazy Cop | 39676 | [39676-crazy-cop.json](./39676-crazy-cop.json) |
 | Crazy Counting | 231622 | [231622-crazy-counting.json](./231622-crazy-counting.json) |
 | Crazy Forest 2 | 111684 | [111684-crazy-forest-2.json](./111684-crazy-forest-2.json) |
 | Crazy Frog Racer | 240508 | [240508-crazy-frog-racer.json](./240508-crazy-frog-racer.json) |
@@ -1376,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader: Adventure Out of Time | 72113 | [72113-crusader-adventure-out-of-time.json](./72113-crusader-adventure-out-of-time.json) |
 | Crusaders Arena | 260406 | [260406-crusaders-arena.json](./260406-crusaders-arena.json) |
 | Crush Beats: Club Candy | 96763 | [96763-crush-beats-club-candy.json](./96763-crush-beats-club-candy.json) |
+| Crush Roller | 39641 | [39641-crush-roller.json](./39641-crush-roller.json) |
 | Crush the Industry | 158700 | [158700-crush-the-industry.json](./158700-crush-the-industry.json) |
 | CrushBorgs | 199626 | [199626-crushborgs.json](./199626-crushborgs.json) |
 | Crushiator | 339676 | [339676-crushiator.json](./339676-crushiator.json) |
@@ -1447,11 +1452,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubis Creatures | 253017 | [253017-cubis-creatures.json](./253017-cubis-creatures.json) |
 | Cubix Robots for Everyone: Showdown | 242806 | [242806-cubix-robots-for-everyone-showdown.json](./242806-cubix-robots-for-everyone-showdown.json) |
 | Cuboyd | 290708 | [290708-cuboyd.json](./290708-cuboyd.json) |
+| Cuby Bop | 39675 | [39675-cuby-bop.json](./39675-cuby-bop.json) |
 | Cubzh | 250020 | [250020-cubzh.json](./250020-cubzh.json) |
 | Cucina Stellata: Starred Cuisine | 341891 | [341891-cucina-stellata-starred-cuisine.json](./341891-cucina-stellata-starred-cuisine.json) |
 | Cuckold Sex: Episode 3 | 316392 | [316392-cuckold-sex-episode-3.json](./316392-cuckold-sex-episode-3.json) |
 | Cuckwork: Mama pays for her useless son's failures with her body | 82898 | [82898-cuckwork-mama-pays-for-her-useless-sons-failures-with-her-body.json](./82898-cuckwork-mama-pays-for-her-useless-sons-failures-with-her-body.json) |
 | CucumbeRunner | 236011 | [236011-cucumberunner.json](./236011-cucumberunner.json) |
+| Cue Brick | 39638 | [39638-cue-brick.json](./39638-cue-brick.json) |
 | Cult Of Blood | 319965 | [319965-cult-of-blood.json](./319965-cult-of-blood.json) |
 | Cult of the Abyss | 122391 | [122391-cult-of-the-abyss.json](./122391-cult-of-the-abyss.json) |
 | Cult of the Cat | 269274 | [269274-cult-of-the-cat.json](./269274-cult-of-the-cat.json) |
