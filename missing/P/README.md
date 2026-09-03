@@ -1423,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Party: 10 Games | 100175 | [100175-puzzle-party-10-games.json](./100175-puzzle-party-10-games.json) |
 | Puzzle Pests | 174366 | [174366-puzzle-pests.json](./174366-puzzle-pests.json) |
 | Puzzle Quest Chapter 1: Battle of Gruulkar | 70416 | [70416-puzzle-quest-chapter-1-battle-of-gruulkar.json](./70416-puzzle-quest-chapter-1-battle-of-gruulkar.json) |
+| Puzzle Sages | 34493 | [34493-puzzle-sages.json](./34493-puzzle-sages.json) |
 | Puzzle Scape | 46021 | [46021-puzzle-scape.json](./46021-puzzle-scape.json) |
 | Puzzle Snake | 206382 | [206382-puzzle-snake.json](./206382-puzzle-snake.json) |
 | Puzzle Vacations: Italy | 322976 | [322976-puzzle-vacations-italy.json](./322976-puzzle-vacations-italy.json) |
