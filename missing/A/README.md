@@ -885,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Farm Roguelike | 214201 | [214201-another-farm-roguelike.json](./214201-another-farm-roguelike.json) |
 | Another Path | 196884 | [196884-another-path.json](./196884-another-path.json) |
 | Another Prince: A Lost Tale | 191915 | [191915-another-prince-a-lost-tale.json](./191915-another-prince-a-lost-tale.json) |
+| Another Runner | 55214 | [55214-another-runner.json](./55214-another-runner.json) |
 | Another SameGame | 64434 | [64434-another-samegame.json](./64434-another-samegame.json) |
 | Another Sight: Hodge's Journey | 111691 | [111691-another-sight-hodges-journey.json](./111691-another-sight-hodges-journey.json) |
 | Another Space Opera: Episode 1 - The Wake of The Giant | 216469 | [216469-another-space-opera-episode-1-the-wake-of-the-giant.json](./216469-another-space-opera-episode-1-the-wake-of-the-giant.json) |
