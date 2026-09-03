@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidcrisis | 210889 | [210889-voidcrisis.json](./210889-voidcrisis.json) |
 | VoidExpanse - Complete Collection | 53870 | [53870-voidexpanse-complete-collection.json](./53870-voidexpanse-complete-collection.json) |
 | VoidOut Parkour | 155660 | [155660-voidout-parkour.json](./155660-voidout-parkour.json) |
+| Vol'Talkes - The AI War | 35846 | [35846-voltalkes-the-ai-war.json](./35846-voltalkes-the-ai-war.json) |
 | Volcania Peaks | 254120 | [254120-volcania-peaks.json](./254120-volcania-peaks.json) |
 | Volcanic Blocks | 146918 | [146918-volcanic-blocks.json](./146918-volcanic-blocks.json) |
 | Volcanic Field 2 | 85477 | [85477-volcanic-field-2.json](./85477-volcanic-field-2.json) |
