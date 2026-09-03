@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RebirthM | 174879 | [174879-rebirthm.json](./174879-rebirthm.json) |
 | Reboot | 171611 | [171611-reboot.json](./171611-reboot.json) |
 | Rec: Beyond The Lens | 255957 | [255957-rec-beyond-the-lens.json](./255957-rec-beyond-the-lens.json) |
+| Recharge Complete | 75171 | [75171-recharge-complete.json](./75171-recharge-complete.json) |
 | ReCharge RC | 233758 | [233758-recharge-rc.json](./233758-recharge-rc.json) |
 | ReCharge RC: High Voltage | 330565 | [330565-recharge-rc-high-voltage.json](./330565-recharge-rc-high-voltage.json) |
 | Reckless Driver | 204067 | [204067-reckless-driver.json](./204067-reckless-driver.json) |
@@ -399,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renfield | 82885 | [82885-renfield.json](./82885-renfield.json) |
 | Rengoku | 325284 | [325284-rengoku.json](./325284-rengoku.json) |
 | Rent Please!: Landlord Sim | 247214 | [247214-rent-please-landlord-sim.json](./247214-rent-please-landlord-sim.json) |
+| Renters Revenge | 75177 | [75177-renters-revenge.json](./75177-renters-revenge.json) |
 | Rento Fortune: Dice Configurator | 298335 | [298335-rento-fortune-dice-configurator.json](./298335-rento-fortune-dice-configurator.json) |
 | RentoFortune | 187545 | [187545-rentofortune.json](./187545-rentofortune.json) |
 | Renxia | 278696 | [278696-renxia.json](./278696-renxia.json) |
@@ -414,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | reProgram | 128633 | [128633-reprogram.json](./128633-reprogram.json) |
 | Reptillian Rebellion | 123610 | [123610-reptillian-rebellion.json](./123610-reptillian-rebellion.json) |
 | Repton Mania | 94257 | [94257-repton-mania.json](./94257-repton-mania.json) |
+| Repulse: Galactic Rivals | 75166 | [75166-repulse-galactic-rivals.json](./75166-repulse-galactic-rivals.json) |
 | Requie-mu | 292859 | [292859-requie-mu.json](./292859-requie-mu.json) |
 | Requiem: Memento Mori | 80593 | [80593-requiem-memento-mori.json](./80593-requiem-memento-mori.json) |
 | Reroll | 104065 | [104065-reroll.json](./104065-reroll.json) |
@@ -459,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro II | 199082 | [199082-retro-ii.json](./199082-retro-ii.json) |
 | Retro RPG Online 2 | 124233 | [124233-retro-rpg-online-2.json](./124233-retro-rpg-online-2.json) |
 | Retro Snake Adventures | 107915 | [107915-retro-snake-adventures.json](./107915-retro-snake-adventures.json) |
+| Retro Space Shooter | 75186 | [75186-retro-space-shooter.json](./75186-retro-space-shooter.json) |
 | Retro Synthesis | 109715 | [109715-retro-synthesis.json](./109715-retro-synthesis.json) |
 | Retro Tanks | 130960 | [130960-retro-tanks.json](./130960-retro-tanks.json) |
 | Retro Three Kingdoms: Special edition | 195251 | [195251-retro-three-kingdoms-special-edition.json](./195251-retro-three-kingdoms-special-edition.json) |
@@ -941,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTL Skispringen 2003 | 94245 | [94245-rtl-skispringen-2003.json](./94245-rtl-skispringen-2003.json) |
 | Rubbadubbers | 335108 | [335108-rubbadubbers.json](./335108-rubbadubbers.json) |
 | Rubber Man | 185131 | [185131-rubber-man.json](./185131-rubber-man.json) |
+| Rubber Ninjas | 75143 | [75143-rubber-ninjas.json](./75143-rubber-ninjas.json) |
 | Ruby Crush | 270417 | [270417-ruby-crush.json](./270417-ruby-crush.json) |
 | Ruby Heart | 159871 | [159871-ruby-heart.json](./159871-ruby-heart.json) |
 | Ruby Rose: Ace Attorney | 303243 | [303243-ruby-rose-ace-attorney.json](./303243-ruby-rose-ace-attorney.json) |
@@ -973,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run! Run! Don't Die! | 329942 | [329942-run-run-dont-die.json](./329942-run-run-dont-die.json) |
 | Runa & the Chaikurú Legacy | 238734 | [238734-runa-and-the-chaikuru-legacy.json](./238734-runa-and-the-chaikuru-legacy.json) |
 | Runaway Train | 252368 | [252368-runaway-train.json](./252368-runaway-train.json) |
+| Rune Caster | 75149 | [75149-rune-caster.json](./75149-rune-caster.json) |
 | Rune Defender | 296676 | [296676-rune-defender.json](./296676-rune-defender.json) |
 | Rune in the Three Kingdoms | 278674 | [278674-rune-in-the-three-kingdoms.json](./278674-rune-in-the-three-kingdoms.json) |
 | Rune Worth: Kokui no Kikoushi | 243950 | [243950-rune-worth-kokui-no-kikoushi.json](./243950-rune-worth-kokui-no-kikoushi.json) |
