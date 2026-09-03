@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanocorp | 173281 | [173281-nanocorp.json](./173281-nanocorp.json) |
 | NanoHive | 216991 | [216991-nanohive.json](./216991-nanohive.json) |
 | Nanos World | 152927 | [152927-nanos-world.json](./152927-nanos-world.json) |
+| Nanosaur Extreme! | 57658 | [57658-nanosaur-extreme.json](./57658-nanosaur-extreme.json) |
 | Nanoui | 89972 | [89972-nanoui.json](./89972-nanoui.json) |
 | Nanowar | 181902 | [181902-nanowar.json](./181902-nanowar.json) |
 | Nanpure VOW | 191866 | [191866-nanpure-vow.json](./191866-nanpure-vow.json) |
@@ -222,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netherside | 152364 | [152364-netherside.json](./152364-netherside.json) |
 | NetMaze: A Funnyman Game | 242782 | [242782-netmaze-a-funnyman-game.json](./242782-netmaze-a-funnyman-game.json) |
 | Netrek | 79932 | [79932-netrek.json](./79932-netrek.json) |
+| NetWits | 57655 | [57655-netwits.json](./57655-netwits.json) |
 | Network | 95442 | [95442-network.json](./95442-network.json) |
 | Network E.L.E.: PC Edition | 166210 | [166210-network-e-l-e-pc-edition.json](./166210-network-e-l-e-pc-edition.json) |
 | Neuro | 141857 | [141857-neuro.json](./141857-neuro.json) |
