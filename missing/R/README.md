@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raft Survival Evolve Simulator | 103521 | [103521-raft-survival-evolve-simulator.json](./103521-raft-survival-evolve-simulator.json) |
 | Ragdoll LABS | 204069 | [204069-ragdoll-labs.json](./204069-ragdoll-labs.json) |
 | Ragdoll Laser Battle | 163979 | [163979-ragdoll-laser-battle.json](./163979-ragdoll-laser-battle.json) |
+| Ragdoll Masters | 78684 | [78684-ragdoll-masters.json](./78684-ragdoll-masters.json) |
 | Ragdoll Mayhem Maker | 306091 | [306091-ragdoll-mayhem-maker.json](./306091-ragdoll-mayhem-maker.json) |
 | Ragdoll Party Online | 131590 | [131590-ragdoll-party-online.json](./131590-ragdoll-party-online.json) |
 | Rage Gang | 270943 | [270943-rage-gang.json](./270943-rage-gang.json) |
@@ -159,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raw Nerve | 253567 | [253567-raw-nerve.json](./253567-raw-nerve.json) |
 | Rawshire the Last Hatchling | 158214 | [158214-rawshire-the-last-hatchling.json](./158214-rawshire-the-last-hatchling.json) |
 | Ray the Flying Squirrel in Sonic the Hedgehog | 198536 | [198536-ray-the-flying-squirrel-in-sonic-the-hedgehog.json](./198536-ray-the-flying-squirrel-in-sonic-the-hedgehog.json) |
+| Ray-Hound | 78702 | [78702-ray-hound.json](./78702-ray-hound.json) |
 | Rayadium | 341306 | [341306-rayadium.json](./341306-rayadium.json) |
 | Raybound | 145683 | [145683-raybound.json](./145683-raybound.json) |
 | RayCity | 116391 | [116391-raycity.json](./116391-raycity.json) |
@@ -482,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverend | 339622 | [339622-reverend.json](./339622-reverend.json) |
 | Reverie | 114417 | [114417-reverie.json](./114417-reverie.json) |
 | Reverie | 254161 | [254161-reverie.json](./254161-reverie.json) |
+| Reversal | 78717 | [78717-reversal.json](./78717-reversal.json) |
 | Reverse 1999: E lucevan le stelle | 340218 | [340218-reverse-1999-e-lucevan-le-stelle.json](./340218-reverse-1999-e-lucevan-le-stelle.json) |
 | Reverse 1999: Farewell, Rayashki | 340220 | [340220-reverse-1999-farewell-rayashki.json](./340220-reverse-1999-farewell-rayashki.json) |
 | Reverse 1999: Notes on Shuori | 340217 | [340217-reverse-1999-notes-on-shuori.json](./340217-reverse-1999-notes-on-shuori.json) |
@@ -741,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocksmith: Queen 5-Song Pack | 226933 | [226933-rocksmith-queen-5-song-pack.json](./226933-rocksmith-queen-5-song-pack.json) |
 | Rocksmith: Rush 5-Song Pack | 226932 | [226932-rocksmith-rush-5-song-pack.json](./226932-rocksmith-rush-5-song-pack.json) |
 | Rockstar Alien Killers | 102796 | [102796-rockstar-alien-killers.json](./102796-rockstar-alien-killers.json) |
+| Rockstar! | 78693 | [78693-rockstar.json](./78693-rockstar.json) |
 | Rocky Climb | 96085 | [96085-rocky-climb.json](./96085-rocky-climb.json) |
 | Rocococo: Audiogame Fantastique | 258700 | [258700-rocococo-audiogame-fantastique.json](./258700-rocococo-audiogame-fantastique.json) |
 | Roda a Roda | 254788 | [254788-roda-a-roda.json](./254788-roda-a-roda.json) |
