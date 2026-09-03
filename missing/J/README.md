@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jellitito | 340770 | [340770-jellitito.json](./340770-jellitito.json) |
 | Jelly Fruits Adventure: Magic Match 3 Puzzle | 262099 | [262099-jelly-fruits-adventure-magic-match-3-puzzle.json](./262099-jelly-fruits-adventure-magic-match-3-puzzle.json) |
 | Jelly Lab Reloaded | 246082 | [246082-jelly-lab-reloaded.json](./246082-jelly-lab-reloaded.json) |
+| Jelly Monsters | 60573 | [60573-jelly-monsters.json](./60573-jelly-monsters.json) |
 | Jelly no Puzzle | 141197 | [141197-jelly-no-puzzle.json](./141197-jelly-no-puzzle.json) |
 | JellyCar | 95422 | [95422-jellycar.json](./95422-jellycar.json) |
 | Jellyfish Archipelago | 272019 | [272019-jellyfish-archipelago.json](./272019-jellyfish-archipelago.json) |
@@ -109,6 +110,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jettatura | 207502 | [207502-jettatura.json](./207502-jettatura.json) |
 | Jewel Diamonds | 215396 | [215396-jewel-diamonds.json](./215396-jewel-diamonds.json) |
 | Jewel Match Solitaire: Summertime | 165683 | [165683-jewel-match-solitaire-summertime.json](./165683-jewel-match-solitaire-summertime.json) |
+| Jewel Pet: Cafe de Mahou no Cooking! | 60547 | [60547-jewel-pet-cafe-de-mahou-no-cooking.json](./60547-jewel-pet-cafe-de-mahou-no-cooking.json) |
+| Jewel Pet: Mahou de Oshare ni Dance * Deco! | 60543 | [60543-jewel-pet-mahou-de-oshare-ni-dance-deco.json](./60543-jewel-pet-mahou-de-oshare-ni-dance-deco.json) |
+| Jewel Pet: Mahou no Rhythm de Ieie! | 60546 | [60546-jewel-pet-mahou-no-rhythm-de-ieie.json](./60546-jewel-pet-mahou-no-rhythm-de-ieie.json) |
 | Jewel Queen: Puzzle & Magic | 212485 | [212485-jewel-queen-puzzle-and-magic.json](./212485-jewel-queen-puzzle-and-magic.json) |
 | Jewel Quest | 196845 | [196845-jewel-quest.json](./196845-jewel-quest.json) |
 | Jewel Time Deluxe | 110322 | [110322-jewel-time-deluxe.json](./110322-jewel-time-deluxe.json) |
@@ -201,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the Center of the Earth: Gold Edition | 81425 | [81425-journey-to-the-center-of-the-earth-gold-edition.json](./81425-journey-to-the-center-of-the-earth-gold-edition.json) |
 | Journey to the West: Dark Invasion | 309650 | [309650-journey-to-the-west-dark-invasion.json](./309650-journey-to-the-west-dark-invasion.json) |
 | Joust | 278128 | [278128-joust.json](./278128-joust.json) |
+| Joust Legend | 60567 | [60567-joust-legend.json](./60567-joust-legend.json) |
 | Joustaposition | 181371 | [181371-joustaposition.json](./181371-joustaposition.json) |
 | Joustish | 251193 | [251193-joustish.json](./251193-joustish.json) |
 | JoustMania | 119743 | [119743-joustmania.json](./119743-joustmania.json) |
