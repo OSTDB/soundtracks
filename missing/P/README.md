@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plutonia 4: Back to Your Hole | 260952 | [260952-plutonia-4-back-to-your-hole.json](./260952-plutonia-4-back-to-your-hole.json) |
 | Plutonia 7: Going to the Hell | 260953 | [260953-plutonia-7-going-to-the-hell.json](./260953-plutonia-7-going-to-the-hell.json) |
 | Pnevmo-Capsula | 220345 | [220345-pnevmo-capsula.json](./220345-pnevmo-capsula.json) |
+| Pnickies | 40262 | [40262-pnickies.json](./40262-pnickies.json) |
 | Po-Go-No! | 257111 | [257111-po-go-no.json](./257111-po-go-no.json) |
 | Poached : Hunt The Hunter | 163965 | [163965-poached-hunt-the-hunter.json](./163965-poached-hunt-the-hunter.json) |
 | Pocket Arcade Story DX | 208033 | [208033-pocket-arcade-story-dx.json](./208033-pocket-arcade-story-dx.json) |
@@ -907,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Political Arena | 180303 | [180303-political-arena.json](./180303-political-arena.json) |
 | Politics The Game | 304903 | [304903-politics-the-game.json](./304903-politics-the-game.json) |
 | Pollution | 316416 | [316416-pollution.json](./316416-pollution.json) |
+| Pollux | 40255 | [40255-pollux.json](./40255-pollux.json) |
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
 | Poly Bridge 3 | 243400 | [243400-poly-bridge-3.json](./243400-poly-bridge-3.json) |
 | Poly City : Vengeance | 114423 | [114423-poly-city-vengeance.json](./114423-poly-city-vengeance.json) |
