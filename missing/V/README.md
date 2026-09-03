@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valor & Victory: Kursk | 260381 | [260381-valor-and-victory-kursk.json](./260381-valor-and-victory-kursk.json) |
 | Valor Time | 107911 | [107911-valor-time.json](./107911-valor-time.json) |
 | Valyria Tear | 60586 | [60586-valyria-tear.json](./60586-valyria-tear.json) |
+| Valzar | 34391 | [34391-valzar.json](./34391-valzar.json) |
 | Vampire Clans | 216493 | [216493-vampire-clans.json](./216493-vampire-clans.json) |
 | Vampire Crystals: Rebirth | 85471 | [85471-vampire-crystals-rebirth.json](./85471-vampire-crystals-rebirth.json) |
 | Vampire Knight DS | 69290 | [69290-vampire-knight-ds.json](./69290-vampire-knight-ds.json) |
@@ -111,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector Zone | 278687 | [278687-vector-zone.json](./278687-vector-zone.json) |
 | Vectris | 273099 | [273099-vectris.json](./273099-vectris.json) |
 | VectroMirror | 140006 | [140006-vectromirror.json](./140006-vectromirror.json) |
+| Veer | 34384 | [34384-veer.json](./34384-veer.json) |
 | Vegas Games 2000 | 46639 | [46639-vegas-games-2000.json](./46639-vegas-games-2000.json) |
 | Vegas Stakes | 85469 | [85469-vegas-stakes.json](./85469-vegas-stakes.json) |
 | Veggie Tales 3D | 269838 | [269838-veggie-tales-3d.json](./269838-veggie-tales-3d.json) |
@@ -174,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vibin'Vendetta | 302671 | [302671-vibinvendetta.json](./302671-vibinvendetta.json) |
 | Vibrant Venture | 127991 | [127991-vibrant-venture.json](./127991-vibrant-venture.json) |
 | Vic Panic | 130371 | [130371-vic-panic.json](./130371-vic-panic.json) |
+| Vicky Saves the Big Dumb World | 34415 | [34415-vicky-saves-the-big-dumb-world.json](./34415-vicky-saves-the-big-dumb-world.json) |
 | Victoria 3: Voice of the People | 247786 | [247786-victoria-3-voice-of-the-people.json](./247786-victoria-3-voice-of-the-people.json) |
 | Victorious Nine II | 72116 | [72116-victorious-nine-ii.json](./72116-victorious-nine-ii.json) |
 | Victory | 95445 | [95445-victory.json](./95445-victory.json) |
