@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enemy Engaged: RAH-66 Comanche vs. Ka-52 Hokum | 69858 | [69858-enemy-engaged-rah-66-comanche-vs-ka-52-hokum.json](./69858-enemy-engaged-rah-66-comanche-vs-ka-52-hokum.json) |
 | Enemy On the Tail! | 320518 | [320518-enemy-on-the-tail.json](./320518-enemy-on-the-tail.json) |
 | Energy | 63332 | [63332-energy.json](./63332-energy.json) |
+| Energy Breaker | 38377 | [38377-energy-breaker.json](./38377-energy-breaker.json) |
 | Energy Collector | 207503 | [207503-energy-collector.json](./207503-energy-collector.json) |
 | Energy Fighters | 235452 | [235452-energy-fighters.json](./235452-energy-fighters.json) |
 | Energy Survivors | 224785 | [224785-energy-survivors.json](./224785-energy-survivors.json) |
