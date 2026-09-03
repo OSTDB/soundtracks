@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elden Ring: Launch Edition | 180259 | [180259-elden-ring-launch-edition.json](./180259-elden-ring-launch-edition.json) |
 | Eldoria: The Cursed Crown | 310758 | [310758-eldoria-the-cursed-crown.json](./310758-eldoria-the-cursed-crown.json) |
 | Eldritchvania | 223680 | [223680-eldritchvania.json](./223680-eldritchvania.json) |
+| Ele Blaze | 68662 | [68662-ele-blaze.json](./68662-ele-blaze.json) |
 | Ele-Mental | 149082 | [149082-ele-mental.json](./149082-ele-mental.json) |
 | Elect | 331720 | [331720-elect.json](./331720-elect.json) |
 | Electric Tortoise | 128613 | [128613-electric-tortoise.json](./128613-electric-tortoise.json) |
@@ -314,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Food Fight VR | 117075 | [117075-epic-food-fight-vr.json](./117075-epic-food-fight-vr.json) |
 | Epic Party Clicker | 314632 | [314632-epic-party-clicker.json](./314632-epic-party-clicker.json) |
 | Epic Skater | 70999 | [70999-epic-skater.json](./70999-epic-skater.json) |
+| Epic Snails | 68696 | [68696-epic-snails.json](./68696-epic-snails.json) |
 | Epicedium | 102797 | [102797-epicedium.json](./102797-epicedium.json) |
 | Epicinium | 82124 | [82124-epicinium.json](./82124-epicinium.json) |
 | Epsilon wars | 167296 | [167296-epsilon-wars.json](./167296-epsilon-wars.json) |
@@ -352,6 +354,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Andromed | 112326 | [112326-escape-from-andromed.json](./112326-escape-from-andromed.json) |
 | Escape From Exit 7 of the Theater | 315281 | [315281-escape-from-exit-7-of-the-theater.json](./315281-escape-from-exit-7-of-the-theater.json) |
 | Escape from Frankenstein's Castle | 213598 | [213598-escape-from-frankensteins-castle.json](./213598-escape-from-frankensteins-castle.json) |
+| Escape from here | 68659 | [68659-escape-from-here.json](./68659-escape-from-here.json) |
+| Escape from here | 68666 | [68666-escape-from-here.json](./68666-escape-from-here.json) |
 | Escape from Island | 313502 | [313502-escape-from-island.json](./313502-escape-from-island.json) |
 | Escape From Lavender Island | 235991 | [235991-escape-from-lavender-island.json](./235991-escape-from-lavender-island.json) |
 | Escape From Roswell | 225901 | [225901-escape-from-roswell.json](./225901-escape-from-roswell.json) |
