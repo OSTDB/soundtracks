@@ -410,6 +410,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dendam | 262104 | [262104-dendam.json](./262104-dendam.json) |
 | Denev | 108465 | [108465-denev.json](./108465-denev.json) |
 | Dengen Tenshi Taisen Mahjong Shangri-La | 131571 | [131571-dengen-tenshi-taisen-mahjong-shangri-la.json](./131571-dengen-tenshi-taisen-mahjong-shangri-la.json) |
+| Dennis og Bellini: De forsvundne kaniner | 91450 | [91450-dennis-og-bellini-de-forsvundne-kaniner.json](./91450-dennis-og-bellini-de-forsvundne-kaniner.json) |
+| Dennis og Bellini: Onkel Bellinis hemmeligheder | 91453 | [91453-dennis-og-bellini-onkel-bellinis-hemmeligheder.json](./91453-dennis-og-bellini-onkel-bellinis-hemmeligheder.json) |
+| Dennis og Bellini: Slapafnien | 91452 | [91452-dennis-og-bellini-slapafnien.json](./91452-dennis-og-bellini-slapafnien.json) |
+| Dennis og Bellini: Stridens Æble | 91451 | [91451-dennis-og-bellini-stridens-ble.json](./91451-dennis-og-bellini-stridens-ble.json) |
 | Denpa Ningen no RPG 2 | 221987 | [221987-denpa-ningen-no-rpg-2.json](./221987-denpa-ningen-no-rpg-2.json) |
 | Denpa Ningen no RPG 3 | 221988 | [221988-denpa-ningen-no-rpg-3.json](./221988-denpa-ningen-no-rpg-3.json) |
 | Densha de GO! | 146907 | [146907-densha-de-go.json](./146907-densha-de-go.json) |
