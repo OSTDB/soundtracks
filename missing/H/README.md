@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Quest: Automatic Roguelite RPG | 199663 | [199663-heros-quest-automatic-roguelite-rpg.json](./199663-heros-quest-automatic-roguelite-rpg.json) |
 | Hero's Quest: Lost Memories | 251836 | [251836-heros-quest-lost-memories.json](./251836-heros-quest-lost-memories.json) |
 | Hero's War | 224214 | [224214-heros-war.json](./224214-heros-war.json) |
+| Herobotix | 55204 | [55204-herobotix.json](./55204-herobotix.json) |
 | Heroes & Generals: GE Giga Pack | 161911 | [161911-heroes-and-generals-ge-giga-pack.json](./161911-heroes-and-generals-ge-giga-pack.json) |
 | Heroes & Generals: GE Soldier Pack - Light Tanker | 161910 | [161910-heroes-and-generals-ge-soldier-pack-light-tanker.json](./161910-heroes-and-generals-ge-soldier-pack-light-tanker.json) |
 | Heroes & Generals: GE Super Pack | 156172 | [156172-heroes-and-generals-ge-super-pack.json](./156172-heroes-and-generals-ge-super-pack.json) |
@@ -765,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi no Kakera no Monogatari. Shikake-ban | 220328 | [220328-hoshi-no-kakera-no-monogatari-shikake-ban.json](./220328-hoshi-no-kakera-no-monogatari-shikake-ban.json) |
 | Hoshi wo Miru Hito: Bad Ebuna Patch 2 | 269869 | [269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json](./269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json) |
 | Hoshizora no Memoria: Wish Upon a Shooting Star HD | 312361 | [312361-hoshizora-no-memoria-wish-upon-a-shooting-star-hd.json](./312361-hoshizora-no-memoria-wish-upon-a-shooting-star-hd.json) |
+| Hospice | 55161 | [55161-hospice.json](./55161-hospice.json) |
 | Hospital 9: Puzzles | 163417 | [163417-hospital-9-puzzles.json](./163417-hospital-9-puzzles.json) |
 | Host 714 | 153440 | [153440-host-714.json](./153440-host-714.json) |
 | Host Master and the Conquest of Humor | 62186 | [62186-host-master-and-the-conquest-of-humor.json](./62186-host-master-and-the-conquest-of-humor.json) |
@@ -897,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Season 3D | 220830 | [220830-hunting-season-3d.json](./220830-hunting-season-3d.json) |
 | Hunting Simulator 2: Bear Hunter Pack | 224221 | [224221-hunting-simulator-2-bear-hunter-pack.json](./224221-hunting-simulator-2-bear-hunter-pack.json) |
 | Hunting Simulator 2: Beretta Weapon Pack | 224220 | [224220-hunting-simulator-2-beretta-weapon-pack.json](./224220-hunting-simulator-2-beretta-weapon-pack.json) |
+| Hunting Yankee | 55159 | [55159-hunting-yankee.json](./55159-hunting-yankee.json) |
 | Hurdle Turtle 2 | 58264 | [58264-hurdle-turtle-2.json](./58264-hurdle-turtle-2.json) |
 | Hurdle Turtle Forever | 58262 | [58262-hurdle-turtle-forever.json](./58262-hurdle-turtle-forever.json) |
 | Hurry Up Bird Hunter! | 82107 | [82107-hurry-up-bird-hunter.json](./82107-hurry-up-bird-hunter.json) |
