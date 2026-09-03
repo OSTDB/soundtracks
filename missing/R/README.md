@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranma 1/2 | 75853 | [75853-ranma-1-2.json](./75853-ranma-1-2.json) |
 | Ranma 1/2: Hiryuu Densetsu | 75856 | [75856-ranma-1-2-hiryuu-densetsu.json](./75856-ranma-1-2-hiryuu-densetsu.json) |
 | Ranma 1/2: Kakuren Bodesu Match | 75852 | [75852-ranma-1-2-kakuren-bodesu-match.json](./75852-ranma-1-2-kakuren-bodesu-match.json) |
+| Ranma 1/2: Toraware no Hanayome | 72691 | [72691-ranma-1-2-toraware-no-hanayome.json](./72691-ranma-1-2-toraware-no-hanayome.json) |
 | Ranma ½: Chounai Gekitou-hen | 75857 | [75857-ranma-1-2-chounai-gekitou-hen.json](./75857-ranma-1-2-chounai-gekitou-hen.json) |
 | Ranma ½: Datou, Ganso Musabetsu Kakutou-ryuu! | 75858 | [75858-ranma-1-2-datou-ganso-musabetsu-kakutou-ryuu.json](./75858-ranma-1-2-datou-ganso-musabetsu-kakutou-ryuu.json) |
 | Ransomware Dating Sim | 124221 | [124221-ransomware-dating-sim.json](./124221-ransomware-dating-sim.json) |
@@ -869,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomba Out! | 302143 | [302143-roomba-out.json](./302143-roomba-out.json) |
 | Roomba Rail Rider | 302144 | [302144-roomba-rail-rider.json](./302144-roomba-rail-rider.json) |
 | Roommates | 297205 | [297205-roommates.json](./297205-roommates.json) |
+| Root After and Another | 72720 | [72720-root-after-and-another.json](./72720-root-after-and-another.json) |
 | Root Double: Before Crime * After Days | 79295 | [79295-root-double-before-crime-after-days.json](./79295-root-double-before-crime-after-days.json) |
 | Root Of Win | 258186 | [258186-root-of-win.json](./258186-root-of-win.json) |
 | Root: Exiles & Partisans & Vagabonds | 195233 | [195233-root-exiles-and-partisans-and-vagabonds.json](./195233-root-exiles-and-partisans-and-vagabonds.json) |
