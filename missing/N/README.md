@@ -171,9 +171,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo 2045 | 148536 | [148536-neo-2045.json](./148536-neo-2045.json) |
 | Neo Angelique | 72681 | [72681-neo-angelique.json](./72681-neo-angelique.json) |
 | Neo Berlin 2087 | 244993 | [244993-neo-berlin-2087.json](./244993-neo-berlin-2087.json) |
+| Neo Cherry Master Color | 43980 | [43980-neo-cherry-master-color.json](./43980-neo-cherry-master-color.json) |
+| Neo Derby Champ Daiyosou | 43968 | [43968-neo-derby-champ-daiyosou.json](./43968-neo-derby-champ-daiyosou.json) |
+| Neo Geo Cup '98 Plus Color | 43976 | [43976-neo-geo-cup-98-plus-color.json](./43976-neo-geo-cup-98-plus-color.json) |
 | Neo Golden Logres | 218154 | [218154-neo-golden-logres.json](./218154-neo-golden-logres.json) |
 | Neo Heiankyo Alien | 215371 | [215371-neo-heiankyo-alien.json](./215371-neo-heiankyo-alien.json) |
 | Neo Mario Galaxy | 262669 | [262669-neo-mario-galaxy.json](./262669-neo-mario-galaxy.json) |
+| Neo Mystery Bonus | 43979 | [43979-neo-mystery-bonus.json](./43979-neo-mystery-bonus.json) |
 | Neo Testament | 270969 | [270969-neo-testament.json](./270969-neo-testament.json) |
 | Neo's Land | 61632 | [61632-neos-land.json](./61632-neos-land.json) |
 | NeoBalls2 | 83560 | [83560-neoballs2.json](./83560-neoballs2.json) |
@@ -336,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NieR: Automata - Day One Edition | 144330 | [144330-nier-automata-day-one-edition.json](./144330-nier-automata-day-one-edition.json) |
 | Nieuw Perspectief | 253032 | [253032-nieuw-perspectief.json](./253032-nieuw-perspectief.json) |
 | Niffelheim: Odin's Blessing | 167841 | [167841-niffelheim-odins-blessing.json](./167841-niffelheim-odins-blessing.json) |
+| Nige-ron-pa | 43961 | [43961-nige-ron-pa.json](./43961-nige-ron-pa.json) |
 | Nigella | 201315 | [201315-nigella.json](./201315-nigella.json) |
 | Nigepico 1.2 | 256514 | [256514-nigepico-1-2.json](./256514-nigepico-1-2.json) |
 | Night and Day | 70378 | [70378-night-and-day.json](./70378-night-and-day.json) |
