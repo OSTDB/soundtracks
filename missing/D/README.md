@@ -47,6 +47,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damned Hand: Arcade Mode | 171069 | [171069-damned-hand-arcade-mode.json](./171069-damned-hand-arcade-mode.json) |
 | Dance Around | 210279 | [210279-dance-around.json](./210279-dance-around.json) |
 | Dance Dance Revolution ExtraMix | 93034 | [93034-dance-dance-revolution-extramix.json](./93034-dance-dance-revolution-extramix.json) |
+| Dance Dance Revolution GB | 72734 | [72734-dance-dance-revolution-gb.json](./72734-dance-dance-revolution-gb.json) |
+| Dance Dance Revolution GB 2 | 72735 | [72735-dance-dance-revolution-gb-2.json](./72735-dance-dance-revolution-gb-2.json) |
 | Dance Dance Revolution Grand Prix | 180262 | [180262-dance-dance-revolution-grand-prix.json](./180262-dance-dance-revolution-grand-prix.json) |
 | Dance Dance Revolution STR!KE | 128003 | [128003-dance-dance-revolution-str-ke.json](./128003-dance-dance-revolution-str-ke.json) |
 | Dance Dance Revolution: Dear Daniel | 329929 | [329929-dance-dance-revolution-dear-daniel.json](./329929-dance-dance-revolution-dear-daniel.json) |
@@ -538,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diabetor & The Sugar Monsters | 278736 | [278736-diabetor-and-the-sugar-monsters.json](./278736-diabetor-and-the-sugar-monsters.json) |
 | Diablo II: Resurrected - Prime Evil Collection | 155099 | [155099-diablo-ii-resurrected-prime-evil-collection.json](./155099-diablo-ii-resurrected-prime-evil-collection.json) |
 | Diablo IV: Vessel of Hatred - Expansion Bundle | 305496 | [305496-diablo-iv-vessel-of-hatred-expansion-bundle.json](./305496-diablo-iv-vessel-of-hatred-expansion-bundle.json) |
+| Diamond Dash | 72688 | [72688-diamond-dash.json](./72688-diamond-dash.json) |
 | Diamond Girl: An Earnest Education in Love | 147996 | [147996-diamond-girl-an-earnest-education-in-love.json](./147996-diamond-girl-an-earnest-education-in-love.json) |
 | Diamond Giza | 157193 | [157193-diamond-giza.json](./157193-diamond-giza.json) |
 | Diamond Lady | 81359 | [81359-diamond-lady.json](./81359-diamond-lady.json) |
@@ -907,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Run | 242783 | [242783-downtown-run.json](./242783-downtown-run.json) |
 | Dowon | 292299 | [292299-dowon.json](./292299-dowon.json) |
 | Dr. Bon Bon Puzzle | 229346 | [229346-dr-bon-bon-puzzle.json](./229346-dr-bon-bon-puzzle.json) |
+| Dr. Brain Thinking Games IQ Adventures | 72726 | [72726-dr-brain-thinking-games-iq-adventures.json](./72726-dr-brain-thinking-games-iq-adventures.json) |
 | Dr. Calgory's Lab: a 3D steampunk puzzle adventure game | 88312 | [88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json](./88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json) |
 | Dr. Chaos: Shadows of Mars | 268760 | [268760-dr-chaos-shadows-of-mars.json](./268760-dr-chaos-shadows-of-mars.json) |
 | Dr. Dino -Doctor & Dentist games for boys girls | 232181 | [232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json](./232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json) |
