@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost House | 179731 | [179731-ghost-house.json](./179731-ghost-house.json) |
 | Ghost Hunters Academy | 66688 | [66688-ghost-hunters-academy.json](./66688-ghost-hunters-academy.json) |
 | Ghost in the Brain | 263224 | [263224-ghost-in-the-brain.json](./263224-ghost-in-the-brain.json) |
+| Ghost in the Shell: Arise - Stealth Hounds | 52005 | [52005-ghost-in-the-shell-arise-stealth-hounds.json](./52005-ghost-in-the-shell-arise-stealth-hounds.json) |
 | Ghost Jumper: Red Hoodie | 315280 | [315280-ghost-jumper-red-hoodie.json](./315280-ghost-jumper-red-hoodie.json) |
 | Ghost Party | 304863 | [304863-ghost-party.json](./304863-ghost-party.json) |
 | Ghost Rider | 218142 | [218142-ghost-rider.json](./218142-ghost-rider.json) |
@@ -823,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Battle Online | 107166 | [107166-gundam-battle-online.json](./107166-gundam-battle-online.json) |
 | Gundam Fights for Human Rights | 183567 | [183567-gundam-fights-for-human-rights.json](./183567-gundam-fights-for-human-rights.json) |
 | Gundam Supreme Battle | 174903 | [174903-gundam-supreme-battle.json](./174903-gundam-supreme-battle.json) |
+| Gundam VR: Daiba Assault | 52001 | [52001-gundam-vr-daiba-assault.json](./52001-gundam-vr-daiba-assault.json) |
 | Gundam: The 3D Battle | 66113 | [66113-gundam-the-3d-battle.json](./66113-gundam-the-3d-battle.json) |
 | Gundan: The Crowd Shooting | 205241 | [205241-gundan-the-crowd-shooting.json](./205241-gundan-the-crowd-shooting.json) |
 | Gundertale | 336351 | [336351-gundertale.json](./336351-gundertale.json) |
