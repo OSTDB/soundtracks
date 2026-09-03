@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 | 294440 | [294440-10.json](./294440-10.json) |
 | 10 Amazingly Awful Games Vol 2 | 79939 | [79939-10-amazingly-awful-games-vol-2.json](./79939-10-amazingly-awful-games-vol-2.json) |
 | 10 Days Under the Sea | 205800 | [205800-10-days-under-the-sea.json](./205800-10-days-under-the-sea.json) |
+| 10 Little Robots | 76621 | [76621-10-little-robots.json](./76621-10-little-robots.json) |
 | 10 Minute Massacre | 316985 | [316985-10-minute-massacre.json](./316985-10-minute-massacre.json) |
 | 10 Pin: Champions Alley | 97356 | [97356-10-pin-champions-alley.json](./97356-10-pin-champions-alley.json) |
 | 10 Talismans | 205801 | [205801-10-talismans.json](./205801-10-talismans.json) |
