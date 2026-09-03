@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil Jump 2 | 253024 | [253024-lil-jump-2.json](./253024-lil-jump-2.json) |
 | Lil Spoops | 236021 | [236021-lil-spoops.json](./236021-lil-spoops.json) |
 | Lil' Herder | 146891 | [146891-lil-herder.json](./146891-lil-herder.json) |
+| Lil' Monster | 49920 | [49920-lil-monster.json](./49920-lil-monster.json) |
 | Lilian: The beginning of the end | 183038 | [183038-lilian-the-beginning-of-the-end.json](./183038-lilian-the-beginning-of-the-end.json) |
 | Lilium | 128653 | [128653-lilium.json](./128653-lilium.json) |
 | Lilly Knight and the Three Cities of Lust | 127999 | [127999-lilly-knight-and-the-three-cities-of-lust.json](./127999-lilly-knight-and-the-three-cities-of-lust.json) |
