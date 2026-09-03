@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freaky Trip: Superb Edition | 315864 | [315864-freaky-trip-superb-edition.json](./315864-freaky-trip-superb-edition.json) |
 | Fred Johnson's: Mech Simulator | 326429 | [326429-fred-johnsons-mech-simulator.json](./326429-fred-johnsons-mech-simulator.json) |
 | Freddy Fazbear's Pizzeria Simulator VR | 231618 | [231618-freddy-fazbears-pizzeria-simulator-vr.json](./231618-freddy-fazbears-pizzeria-simulator-vr.json) |
+| Freddy Hardest in Manhattan South | 45333 | [45333-freddy-hardest-in-manhattan-south.json](./45333-freddy-hardest-in-manhattan-south.json) |
 | Freddy's Journey | 104083 | [104083-freddys-journey.json](./104083-freddys-journey.json) |
 | Freddy's Rescue Roundup | 72088 | [72088-freddys-rescue-roundup.json](./72088-freddys-rescue-roundup.json) |
 | Free Bees | 224245 | [224245-free-bees.json](./224245-free-bees.json) |
