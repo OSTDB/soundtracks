@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle: City of Legends | 175995 | [175995-bionicle-city-of-legends.json](./175995-bionicle-city-of-legends.json) |
 | Bionicle: Masks of Power | 141873 | [141873-bionicle-masks-of-power.json](./141873-bionicle-masks-of-power.json) |
 | Biorhythm | 170531 | [170531-biorhythm.json](./170531-biorhythm.json) |
+| BioShock Infinite: Industrial Revolution | 64441 | [64441-bioshock-infinite-industrial-revolution.json](./64441-bioshock-infinite-industrial-revolution.json) |
 | BioSynth: Rising | 336892 | [336892-biosynth-rising.json](./336892-biosynth-rising.json) |
 | Biotech Samurai | 161385 | [161385-biotech-samurai.json](./161385-biotech-samurai.json) |
 | BipBop II | 73829 | [73829-bipbop-ii.json](./73829-bipbop-ii.json) |
@@ -930,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border Force: Space Force | 171627 | [171627-border-force-space-force.json](./171627-border-force-space-force.json) |
 | Border of her Heart 2 | 156669 | [156669-border-of-her-heart-2.json](./156669-border-of-her-heart-2.json) |
 | Border Reign | 142468 | [142468-border-reign.json](./142468-border-reign.json) |
+| Borderlands Legends | 64415 | [64415-borderlands-legends.json](./64415-borderlands-legends.json) |
 | Borderlands Triple Pack | 268734 | [268734-borderlands-triple-pack.json](./268734-borderlands-triple-pack.json) |
 | BorderStrain | 115037 | [115037-borderstrain.json](./115037-borderstrain.json) |
 | Boreal Tenebrae: Deluxe Ultimate Edition | 247753 | [247753-boreal-tenebrae-deluxe-ultimate-edition.json](./247753-boreal-tenebrae-deluxe-ultimate-edition.json) |
@@ -1070,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout Birdie Puzzle 2 | 278659 | [278659-breakout-birdie-puzzle-2.json](./278659-breakout-birdie-puzzle-2.json) |
 | Breakout Defense 2 | 77368 | [77368-breakout-defense-2.json](./77368-breakout-defense-2.json) |
 | Breakout in Space | 70977 | [70977-breakout-in-space.json](./70977-breakout-in-space.json) |
+| Breakout: Boost | 64400 | [64400-breakout-boost.json](./64400-breakout-boost.json) |
 | Breath of Dragon II | 203551 | [203551-breath-of-dragon-ii.json](./203551-breath-of-dragon-ii.json) |
 | Breath of Ghosts | 203552 | [203552-breath-of-ghosts.json](./203552-breath-of-ghosts.json) |
 | BreathePeace.World | 111722 | [111722-breathepeace-world.json](./111722-breathepeace-world.json) |
