@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T18:03:29.090Z",
-  "total_missing": 24305,
+  "generated_at": "2026-09-03T18:18:26.192Z",
+  "total_missing": 24355,
   "games": [
     {
       "igdb_id": 306086,
@@ -7416,6 +7416,11 @@
       "igdb_id": 70988,
       "game_name": "Arthur's 1st Grade",
       "file": "missing/A/70988-arthurs-1st-grade.json"
+    },
+    {
+      "igdb_id": 49917,
+      "game_name": "Arthur's Absolutely Fun Day!",
+      "file": "missing/A/49917-arthurs-absolutely-fun-day.json"
     },
     {
       "igdb_id": 207507,
@@ -27283,6 +27288,11 @@
       "file": "missing/D/72123-disneys-dinosaur-activity-center.json"
     },
     {
+      "igdb_id": 49942,
+      "game_name": "Disney's Doug: Doug's Big Game",
+      "file": "missing/D/49942-disneys-doug-dougs-big-game.json"
+    },
+    {
       "igdb_id": 51281,
       "game_name": "Disney's Magic Artist Studio",
       "file": "missing/D/51281-disneys-magic-artist-studio.json"
@@ -27296,6 +27306,11 @@
       "igdb_id": 242808,
       "game_name": "Disney's Party",
       "file": "missing/D/242808-disneys-party.json"
+    },
+    {
+      "igdb_id": 49919,
+      "game_name": "Disney's The Little Mermaid II: Pinball Frenzy",
+      "file": "missing/D/49919-disneys-the-little-mermaid-ii-pinball-frenzy.json"
     },
     {
       "igdb_id": 258692,
@@ -28708,6 +28723,11 @@
       "file": "missing/D/144306-dracula-vs-the-ninja-on-the-moon.json"
     },
     {
+      "igdb_id": 49941,
+      "game_name": "Dracula: Crazy Vampire",
+      "file": "missing/D/49941-dracula-crazy-vampire.json"
+    },
+    {
       "igdb_id": 95433,
       "game_name": "Dracula: Origin 2",
       "file": "missing/D/95433-dracula-origin-2.json"
@@ -28821,6 +28841,11 @@
       "igdb_id": 63337,
       "game_name": "Dragon Coins",
       "file": "missing/D/63337-dragon-coins.json"
+    },
+    {
+      "igdb_id": 49940,
+      "game_name": "Dragon Dance",
+      "file": "missing/D/49940-dragon-dance.json"
     },
     {
       "igdb_id": 69894,
@@ -28951,6 +28976,11 @@
       "igdb_id": 87240,
       "game_name": "Dragon Swarm",
       "file": "missing/D/87240-dragon-swarm.json"
+    },
+    {
+      "igdb_id": 49939,
+      "game_name": "Dragon Tales: Dragon Wings",
+      "file": "missing/D/49939-dragon-tales-dragon-wings.json"
     },
     {
       "igdb_id": 72127,
@@ -30393,9 +30423,19 @@
       "file": "missing/E/238198-e-t-the-extra-terrestrial-venroms-assault.json"
     },
     {
+      "igdb_id": 49937,
+      "game_name": "E.T.: The Extra-Terrestrial - Escape from Planet Earth",
+      "file": "missing/E/49937-e-t-the-extra-terrestrial-escape-from-planet-earth.json"
+    },
+    {
       "igdb_id": 201277,
       "game_name": "E.T.: The Extra-Terrestrial - Search for Dragora",
       "file": "missing/E/201277-e-t-the-extra-terrestrial-search-for-dragora.json"
+    },
+    {
+      "igdb_id": 49936,
+      "game_name": "E.T.: The Extra-Terrestrial and the Cosmic Garden",
+      "file": "missing/E/49936-e-t-the-extra-terrestrial-and-the-cosmic-garden.json"
     },
     {
       "igdb_id": 135884,
@@ -33268,6 +33308,11 @@
       "file": "missing/E/228110-extreme-snowboard.json"
     },
     {
+      "igdb_id": 49932,
+      "game_name": "Extreme Sports with the Berenstain Bears",
+      "file": "missing/E/49932-extreme-sports-with-the-berenstain-bears.json"
+    },
+    {
       "igdb_id": 51248,
       "game_name": "Extreme Tux Racer",
       "file": "missing/E/51248-extreme-tux-racer.json"
@@ -33361,6 +33406,11 @@
       "igdb_id": 66706,
       "game_name": "F-16 Renegade",
       "file": "missing/F/66706-f-16-renegade.json"
+    },
+    {
+      "igdb_id": 49931,
+      "game_name": "F-18 Thunder Strike",
+      "file": "missing/F/49931-f-18-thunder-strike.json"
     },
     {
       "igdb_id": 186323,
@@ -40088,6 +40138,11 @@
       "file": "missing/G/136448-getsuei-no-kusari-sakuran-paranoia.json"
     },
     {
+      "igdb_id": 49929,
+      "game_name": "Gex 3: Deep Pocket Gecko",
+      "file": "missing/G/49929-gex-3-deep-pocket-gecko.json"
+    },
+    {
       "igdb_id": 98451,
       "game_name": "GF Becomes SexCare Manager of Baseball Club: Cucked In Sportsmen's Sex",
       "file": "missing/G/98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json"
@@ -40916,6 +40971,11 @@
       "igdb_id": 153987,
       "game_name": "Gobot",
       "file": "missing/G/153987-gobot.json"
+    },
+    {
+      "igdb_id": 49928,
+      "game_name": "Gobs of Games",
+      "file": "missing/G/49928-gobs-of-games.json"
     },
     {
       "igdb_id": 269314,
@@ -43598,6 +43658,11 @@
       "file": "missing/H/185154-handdogg.json"
     },
     {
+      "igdb_id": 49927,
+      "game_name": "Hands of Time",
+      "file": "missing/H/49927-hands-of-time.json"
+    },
+    {
       "igdb_id": 158232,
       "game_name": "HandsON",
       "file": "missing/H/158232-handson.json"
@@ -43856,6 +43921,11 @@
       "igdb_id": 246111,
       "game_name": "HarleQuest!",
       "file": "missing/H/246111-harlequest.json"
+    },
+    {
+      "igdb_id": 49926,
+      "game_name": "Harley Davidson: Race Across America",
+      "file": "missing/H/49926-harley-davidson-race-across-america.json"
     },
     {
       "igdb_id": 253570,
@@ -45513,6 +45583,11 @@
       "file": "missing/H/92506-hexchess-360.json"
     },
     {
+      "igdb_id": 49925,
+      "game_name": "Hexcite: The Shapes of Victory",
+      "file": "missing/H/49925-hexcite-the-shapes-of-victory.json"
+    },
+    {
       "igdb_id": 313472,
       "game_name": "Hexcodle",
       "file": "missing/H/313472-hexcodle.json"
@@ -46326,6 +46401,11 @@
       "igdb_id": 292286,
       "game_name": "Hold The Noise",
       "file": "missing/H/292286-hold-the-noise.json"
+    },
+    {
+      "igdb_id": 49924,
+      "game_name": "Hole in One Golf",
+      "file": "missing/H/49924-hole-in-one-golf.json"
     },
     {
       "igdb_id": 315836,
@@ -51398,6 +51478,11 @@
       "file": "missing/J/319360-jill-o-lantern-final-cut.json"
     },
     {
+      "igdb_id": 49958,
+      "game_name": "Jim Henson's The Muppets",
+      "file": "missing/J/49958-jim-hensons-the-muppets.json"
+    },
+    {
       "igdb_id": 120433,
       "game_name": "Jim is Moving Out!",
       "file": "missing/J/120433-jim-is-moving-out.json"
@@ -51951,6 +52036,11 @@
       "igdb_id": 300415,
       "game_name": "JumpStart Math for Kindergarteners",
       "file": "missing/J/300415-jumpstart-math-for-kindergarteners.json"
+    },
+    {
+      "igdb_id": 49923,
+      "game_name": "JumpStart: Dino Adventure Field Trip",
+      "file": "missing/J/49923-jumpstart-dino-adventure-field-trip.json"
     },
     {
       "igdb_id": 94219,
@@ -56688,6 +56778,11 @@
       "file": "missing/L/146891-lil-herder.json"
     },
     {
+      "igdb_id": 49920,
+      "game_name": "Lil' Monster",
+      "file": "missing/L/49920-lil-monster.json"
+    },
+    {
       "igdb_id": 183038,
       "game_name": "Lilian: The beginning of the end",
       "file": "missing/L/183038-lilian-the-beginning-of-the-end.json"
@@ -58633,6 +58728,11 @@
       "file": "missing/M/197957-m-v-p.json"
     },
     {
+      "igdb_id": 49918,
+      "game_name": "M&M's Minis Madness",
+      "file": "missing/M/49918-m-and-ms-minis-madness.json"
+    },
+    {
       "igdb_id": 94232,
       "game_name": "M3 - Molesting the Match-3 Market",
       "file": "missing/M/94232-m3-molesting-the-match-3-market.json"
@@ -60348,6 +60448,11 @@
       "file": "missing/M/257664-mary-shelleys-frankenstein-bram-stokers-dracula.json"
     },
     {
+      "igdb_id": 49966,
+      "game_name": "Mary-Kate and Ashley: Winners Circle",
+      "file": "missing/M/49966-mary-kate-and-ashley-winners-circle.json"
+    },
+    {
       "igdb_id": 302107,
       "game_name": "Maseylia: Echoes of the Past",
       "file": "missing/M/302107-maseylia-echoes-of-the-past.json"
@@ -60596,6 +60701,11 @@
       "igdb_id": 137696,
       "game_name": "Matchbox Missions: Air, Land and Sea Rescue / Emergency Response",
       "file": "missing/M/137696-matchbox-missions-air-land-and-sea-rescue-emergency-response.json"
+    },
+    {
+      "igdb_id": 49963,
+      "game_name": "Matchbox: Emergency Patrol",
+      "file": "missing/M/49963-matchbox-emergency-patrol.json"
     },
     {
       "igdb_id": 253009,
@@ -62731,6 +62841,11 @@
       "igdb_id": 79897,
       "game_name": "Millennium Racer: Y2K Fighters",
       "file": "missing/M/79897-millennium-racer-y2k-fighters.json"
+    },
+    {
+      "igdb_id": 49962,
+      "game_name": "Millennium Winter Sports",
+      "file": "missing/M/49962-millennium-winter-sports.json"
     },
     {
       "igdb_id": 117098,
@@ -65593,6 +65708,21 @@
       "file": "missing/M/306635-mtv-sports-pure-ride.json"
     },
     {
+      "igdb_id": 49960,
+      "game_name": "MTV Sports: Pure Ride",
+      "file": "missing/M/49960-mtv-sports-pure-ride.json"
+    },
+    {
+      "igdb_id": 49959,
+      "game_name": "MTV Sports: Skateboarding Featuring Andy Macdonald",
+      "file": "missing/M/49959-mtv-sports-skateboarding-featuring-andy-macdonald.json"
+    },
+    {
+      "igdb_id": 49964,
+      "game_name": "MTV Sports: T.J. Lavin's Ultimate BMX",
+      "file": "missing/M/49964-mtv-sports-t-j-lavins-ultimate-bmx.json"
+    },
+    {
       "igdb_id": 57667,
       "game_name": "MTV Total Request Live Trivia",
       "file": "missing/M/57667-mtv-total-request-live-trivia.json"
@@ -67111,6 +67241,16 @@
       "igdb_id": 267081,
       "game_name": "Nascar Arcade Rush: Project-X Pack",
       "file": "missing/N/267081-nascar-arcade-rush-project-x-pack.json"
+    },
+    {
+      "igdb_id": 49957,
+      "game_name": "NASCAR Challenge",
+      "file": "missing/N/49957-nascar-challenge.json"
+    },
+    {
+      "igdb_id": 49956,
+      "game_name": "NASCAR Heat",
+      "file": "missing/N/49956-nascar-heat.json"
     },
     {
       "igdb_id": 209153,
@@ -69886,6 +70026,11 @@
       "igdb_id": 174348,
       "game_name": "Nrg",
       "file": "missing/N/174348-nrg.json"
+    },
+    {
+      "igdb_id": 49955,
+      "game_name": "NSYNC: Get to the Show",
+      "file": "missing/N/49955-nsync-get-to-the-show.json"
     },
     {
       "igdb_id": 129799,
@@ -77623,6 +77768,11 @@
       "file": "missing/P/180809-portal-rescue.json"
     },
     {
+      "igdb_id": 49954,
+      "game_name": "Portal Runner",
+      "file": "missing/P/49954-portal-runner.json"
+    },
+    {
       "igdb_id": 313478,
       "game_name": "Portal: Google Translate Edition",
       "file": "missing/P/313478-portal-google-translate-edition.json"
@@ -78343,6 +78493,11 @@
       "file": "missing/P/67311-pro-cycling-manager-2010.json"
     },
     {
+      "igdb_id": 49953,
+      "game_name": "Pro Darts",
+      "file": "missing/P/49953-pro-darts.json"
+    },
+    {
       "igdb_id": 240462,
       "game_name": "Pro Evolution Soccer 2010",
       "file": "missing/P/240462-pro-evolution-soccer-2010.json"
@@ -78481,6 +78636,11 @@
       "igdb_id": 93597,
       "game_name": "Pro Pilkki 2",
       "file": "missing/P/93597-pro-pilkki-2.json"
+    },
+    {
+      "igdb_id": 49952,
+      "game_name": "Pro Pool",
+      "file": "missing/P/49952-pro-pool.json"
     },
     {
       "igdb_id": 69867,
@@ -79663,6 +79823,11 @@
       "file": "missing/P/291238-puzzle-maker.json"
     },
     {
+      "igdb_id": 49951,
+      "game_name": "Puzzle Master",
+      "file": "missing/P/49951-puzzle-master.json"
+    },
+    {
       "igdb_id": 145642,
       "game_name": "Puzzle Master 2",
       "file": "missing/P/145642-puzzle-master-2.json"
@@ -80236,6 +80401,11 @@
       "igdb_id": 235966,
       "game_name": "Quest Master's Realm",
       "file": "missing/Q/235966-quest-masters-realm.json"
+    },
+    {
+      "igdb_id": 49950,
+      "game_name": "Quest: Fantasy Challenge",
+      "file": "missing/Q/49950-quest-fantasy-challenge.json"
     },
     {
       "igdb_id": 245019,
@@ -82718,6 +82888,11 @@
       "file": "missing/R/235981-rescape.json"
     },
     {
+      "igdb_id": 49948,
+      "game_name": "Rescue Heroes: Fire Frenzy",
+      "file": "missing/R/49948-rescue-heroes-fire-frenzy.json"
+    },
+    {
       "igdb_id": 209168,
       "game_name": "Rescue Heroes: Molten Menace",
       "file": "missing/R/209168-rescue-heroes-molten-menace.json"
@@ -83266,6 +83441,11 @@
       "igdb_id": 263757,
       "game_name": "Rhino Puzzle",
       "file": "missing/R/263757-rhino-puzzle.json"
+    },
+    {
+      "igdb_id": 49947,
+      "game_name": "Rhino Rumble",
+      "file": "missing/R/49947-rhino-rumble.json"
     },
     {
       "igdb_id": 261557,
@@ -84526,6 +84706,11 @@
       "igdb_id": 96085,
       "game_name": "Rocky Climb",
       "file": "missing/R/96085-rocky-climb.json"
+    },
+    {
+      "igdb_id": 49946,
+      "game_name": "Rocky Mountain: Trophy Hunter",
+      "file": "missing/R/49946-rocky-mountain-trophy-hunter.json"
     },
     {
       "igdb_id": 258700,
@@ -86101,6 +86286,16 @@
       "igdb_id": 175948,
       "game_name": "Sabreman Stampede",
       "file": "missing/S/175948-sabreman-stampede.json"
+    },
+    {
+      "igdb_id": 49944,
+      "game_name": "Sabrina the Animated Series: Spooked!",
+      "file": "missing/S/49944-sabrina-the-animated-series-spooked.json"
+    },
+    {
+      "igdb_id": 49943,
+      "game_name": "Sabrina the Animated Series: Zapped!",
+      "file": "missing/S/49943-sabrina-the-animated-series-zapped.json"
     },
     {
       "igdb_id": 133436,
@@ -88321,6 +88516,16 @@
       "igdb_id": 78035,
       "game_name": "Sesame Street: 1-2-3",
       "file": "missing/S/78035-sesame-street-1-2-3.json"
+    },
+    {
+      "igdb_id": 49934,
+      "game_name": "Sesame Street: Elmo's 123s",
+      "file": "missing/S/49934-sesame-street-elmos-123s.json"
+    },
+    {
+      "igdb_id": 49933,
+      "game_name": "Sesame Street: Elmo's ABCs",
+      "file": "missing/S/49933-sesame-street-elmos-abcs.json"
     },
     {
       "igdb_id": 245537,
@@ -93648,6 +93853,11 @@
       "file": "missing/S/153417-space-mages-dimension-33.json"
     },
     {
+      "igdb_id": 49968,
+      "game_name": "Space Marauder",
+      "file": "missing/S/49968-space-marauder.json"
+    },
+    {
       "igdb_id": 205223,
       "game_name": "Space Marshals 3",
       "file": "missing/S/205223-space-marshals-3.json"
@@ -93908,6 +94118,11 @@
       "file": "missing/S/115045-spattle-cats.json"
     },
     {
+      "igdb_id": 49969,
+      "game_name": "Spawn",
+      "file": "missing/S/49969-spawn.json"
+    },
+    {
       "igdb_id": 127360,
       "game_name": "Speak Lies",
       "file": "missing/S/127360-speak-lies.json"
@@ -94083,6 +94298,11 @@
       "file": "missing/S/174340-speedy-golf.json"
     },
     {
+      "igdb_id": 49970,
+      "game_name": "Speedy Gonzales: Aztec Adventure",
+      "file": "missing/S/49970-speedy-gonzales-aztec-adventure.json"
+    },
+    {
       "igdb_id": 174908,
       "game_name": "Speedy Rush",
       "file": "missing/S/174908-speedy-rush.json"
@@ -94246,6 +94466,11 @@
       "igdb_id": 219274,
       "game_name": "Spider-Man / X-Men: Arcade's Redux",
       "file": "missing/S/219274-spider-man-x-men-arcades-redux.json"
+    },
+    {
+      "igdb_id": 49971,
+      "game_name": "Spider-Man 2: The Sinister Six",
+      "file": "missing/S/49971-spider-man-2-the-sinister-six.json"
     },
     {
       "igdb_id": 218140,
@@ -101063,6 +101288,11 @@
       "file": "missing/T/100183-taz.json"
     },
     {
+      "igdb_id": 49967,
+      "game_name": "Tazmanian Devil: Munching Madness",
+      "file": "missing/T/49967-tazmanian-devil-munching-madness.json"
+    },
+    {
       "igdb_id": 246098,
       "game_name": "TBS Mini-Golf",
       "file": "missing/T/246098-tbs-mini-golf.json"
@@ -103658,6 +103888,11 @@
       "file": "missing/T/78017-the-flintstones-in-viva-rock-vegas.json"
     },
     {
+      "igdb_id": 49930,
+      "game_name": "The Flintstones: Burgertime in Bedrock",
+      "file": "missing/T/49930-the-flintstones-burgertime-in-bedrock.json"
+    },
+    {
       "igdb_id": 71541,
       "game_name": "The Flintstones: Dino - Lost in Bedrock",
       "file": "missing/T/71541-the-flintstones-dino-lost-in-bedrock.json"
@@ -105098,6 +105333,11 @@
       "file": "missing/T/102771-the-martian-official-game.json"
     },
     {
+      "igdb_id": 49965,
+      "game_name": "The Mask of Zorro",
+      "file": "missing/T/49965-the-mask-of-zorro.json"
+    },
+    {
       "igdb_id": 255333,
       "game_name": "The Mask: Mayhem",
       "file": "missing/T/255333-the-mask-mayhem.json"
@@ -105276,6 +105516,11 @@
       "igdb_id": 110381,
       "game_name": "The Mummy Pharaoh",
       "file": "missing/T/110381-the-mummy-pharaoh.json"
+    },
+    {
+      "igdb_id": 49961,
+      "game_name": "The Mummy Returns",
+      "file": "missing/T/49961-the-mummy-returns.json"
     },
     {
       "igdb_id": 247770,
@@ -116316,6 +116561,11 @@
       "igdb_id": 123599,
       "game_name": "Walt Disney's The Jungle Book",
       "file": "missing/W/123599-walt-disneys-the-jungle-book.json"
+    },
+    {
+      "igdb_id": 49922,
+      "game_name": "Walt Disney's The Jungle Book: Mowgli's Wild Adventure",
+      "file": "missing/W/49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json"
     },
     {
       "igdb_id": 117714,
