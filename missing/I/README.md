@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IguaRPG 2 | 314033 | [314033-iguarpg-2.json](./314033-iguarpg-2.json) |
 | II-III-V | 180808 | [180808-ii-iii-v.json](./180808-ii-iii-v.json) |
 | Ijigen Kara no Dasshutsu: Escape from Twilight Zone | 97326 | [97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json](./97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json) |
+| Ikaros | 51955 | [51955-ikaros.json](./51955-ikaros.json) |
 | Iktsua | 329930 | [329930-iktsua.json](./329930-iktsua.json) |
 | Il Divino: Michelangelo's Sistine Ceiling in VR | 130925 | [130925-il-divino-michelangelos-sistine-ceiling-in-vr.json](./130925-il-divino-michelangelos-sistine-ceiling-in-vr.json) |
 | Il Filo Conduttore | 134699 | [134699-il-filo-conduttore.json](./134699-il-filo-conduttore.json) |
@@ -198,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immeowtal Festival! | 234300 | [234300-immeowtal-festival.json](./234300-immeowtal-festival.json) |
 | Immersion | 191247 | [191247-immersion.json](./191247-immersion.json) |
 | Immersive Engineering | 232715 | [232715-immersive-engineering.json](./232715-immersive-engineering.json) |
+| Immersive Horror Room: Hospital Escape Terror | 52003 | [52003-immersive-horror-room-hospital-escape-terror.json](./52003-immersive-horror-room-hospital-escape-terror.json) |
 | Immortal Desire | 245535 | [245535-immortal-desire.json](./245535-immortal-desire.json) |
 | Immortal Girl | 128005 | [128005-immortal-girl.json](./128005-immortal-girl.json) |
 | Immortal Hero | 158209 | [158209-immortal-hero.json](./158209-immortal-hero.json) |
@@ -487,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Sky: Invasion - Digital Deluxe Edition | 53257 | [53257-iron-sky-invasion-digital-deluxe-edition.json](./53257-iron-sky-invasion-digital-deluxe-edition.json) |
 | Iron Sky: Invasion - Ultimate Edition | 53256 | [53256-iron-sky-invasion-ultimate-edition.json](./53256-iron-sky-invasion-ultimate-edition.json) |
 | Iron Skys | 340763 | [340763-iron-skys.json](./340763-iron-skys.json) |
+| Ironclads 2: Caroline Islands War 1885 | 51941 | [51941-ironclads-2-caroline-islands-war-1885.json](./51941-ironclads-2-caroline-islands-war-1885.json) |
 | Ironpants | 62198 | [62198-ironpants.json](./62198-ironpants.json) |
 | Irony Curtain: From Matryoshka with Love - Revolutionary Edition | 124830 | [124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json](./124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json) |
 | Iros | 270410 | [270410-iros.json](./270410-iros.json) |
