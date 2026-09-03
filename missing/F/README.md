@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fan'cie Veer! (Fish Are Nasty, Cake Is Excellent Vektor Evading Emblazed Rapture) | 105375 | [105375-fancie-veer-fish-are-nasty-cake-is-excellent-vektor-evading-emblazed-rapture.json](./105375-fancie-veer-fish-are-nasty-cake-is-excellent-vektor-evading-emblazed-rapture.json) |
 | FanaticBlader | 115699 | [115699-fanaticblader.json](./115699-fanaticblader.json) |
 | Fancy Island | 172735 | [172735-fancy-island.json](./172735-fancy-island.json) |
+| Fancy World - Earth of Crisis | 39686 | [39686-fancy-world-earth-of-crisis.json](./39686-fancy-world-earth-of-crisis.json) |
 | Fancy! | 237069 | [237069-fancy.json](./237069-fancy.json) |
 | Fangs: The Saga of Wolf Blood | 221965 | [221965-fangs-the-saga-of-wolf-blood.json](./221965-fangs-the-saga-of-wolf-blood.json) |
 | Fantasia Sango 1 | 188656 | [188656-fantasia-sango-1.json](./188656-fantasia-sango-1.json) |
@@ -238,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food Crisis | 266523 | [266523-fast-food-crisis.json](./266523-fast-food-crisis.json) |
 | Fast Food Panic | 50631 | [50631-fast-food-panic.json](./50631-fast-food-panic.json) |
 | Fast Travel: Loot Delivery Service | 117050 | [117050-fast-travel-loot-delivery-service.json](./117050-fast-travel-loot-delivery-service.json) |
+| Faster Harder More Challenging Q*bert | 39671 | [39671-faster-harder-more-challenging-q-bert.json](./39671-faster-harder-more-challenging-q-bert.json) |
 | Fastival | 302123 | [302123-fastival.json](./302123-fastival.json) |
 | Fastlane Bowling | 152932 | [152932-fastlane-bowling.json](./152932-fastlane-bowling.json) |
 | Fat Man Fights | 158720 | [158720-fat-man-fights.json](./158720-fat-man-fights.json) |
@@ -706,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Crazy Challenge | 84258 | [84258-football-crazy-challenge.json](./84258-football-crazy-challenge.json) |
 | Football Director 2017 | 200160 | [200160-football-director-2017.json](./200160-football-director-2017.json) |
 | Football Director 2019 | 112986 | [112986-football-director-2019.json](./112986-football-director-2019.json) |
+| Football Frenzy | 39649 | [39649-football-frenzy.json](./39649-football-frenzy.json) |
 | Football girl | 161366 | [161366-football-girl.json](./161366-football-girl.json) |
 | Football Granny | 107160 | [107160-football-granny.json](./107160-football-granny.json) |
 | Football Hero | 262060 | [262060-football-hero.json](./262060-football-hero.json) |
@@ -1030,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fungoids: Steam Version | 93613 | [93613-fungoids-steam-version.json](./93613-fungoids-steam-version.json) |
 | Fungus Reaper | 248882 | [248882-fungus-reaper.json](./248882-fungus-reaper.json) |
 | Funguys Swarm | 332851 | [332851-funguys-swarm.json](./332851-funguys-swarm.json) |
+| Funky Fish | 39685 | [39685-funky-fish.json](./39685-funky-fish.json) |
 | Funnels and Buckets | 46644 | [46644-funnels-and-buckets.json](./46644-funnels-and-buckets.json) |
 | Funny Card | 193495 | [193495-funny-card.json](./193495-funny-card.json) |
 | Funny Cards | 82138 | [82138-funny-cards.json](./82138-funny-cards.json) |
