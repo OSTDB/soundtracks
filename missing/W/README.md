@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Times | 77376 | [77376-war-times.json](./77376-war-times.json) |
 | War Trains | 124239 | [124239-war-trains.json](./124239-war-trains.json) |
 | War Yards | 139480 | [139480-war-yards.json](./139480-war-yards.json) |
+| WarBirds II | 72094 | [72094-warbirds-ii.json](./72094-warbirds-ii.json) |
 | Warbot Engineer | 337458 | [337458-warbot-engineer.json](./337458-warbot-engineer.json) |
 | Warcos | 185676 | [185676-warcos.json](./185676-warcos.json) |
 | Warden's Will | 190730 | [190730-wardens-will.json](./190730-wardens-will.json) |
