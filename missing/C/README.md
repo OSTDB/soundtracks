@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Hardcore | 278686 | [278686-captain-hardcore.json](./278686-captain-hardcore.json) |
 | Captain Jackson | 190231 | [190231-captain-jackson.json](./190231-captain-jackson.json) |
 | Captain of Space | 320558 | [320558-captain-of-space.json](./320558-captain-of-space.json) |
+| Captain Quazar | 39015 | [39015-captain-quazar.json](./39015-captain-quazar.json) |
 | Captain Tsubasa | 213601 | [213601-captain-tsubasa.json](./213601-captain-tsubasa.json) |
 | Capture | 104672 | [104672-capture.json](./104672-capture.json) |
 | Capture Creatures | 195252 | [195252-capture-creatures.json](./195252-capture-creatures.json) |
@@ -1139,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic League | 57134 | [57134-cosmic-league.json](./57134-cosmic-league.json) |
 | Cosmic Monsters 2 Enclaves Dawn | 195264 | [195264-cosmic-monsters-2-enclaves-dawn.json](./195264-cosmic-monsters-2-enclaves-dawn.json) |
 | Cosmic Payback | 318230 | [318230-cosmic-payback.json](./318230-cosmic-payback.json) |
+| Cosmic Pioneer | 38986 | [38986-cosmic-pioneer.json](./38986-cosmic-pioneer.json) |
 | Cosmic Raiders | 170533 | [170533-cosmic-raiders.json](./170533-cosmic-raiders.json) |
 | Cosmic Raze | 320535 | [320535-cosmic-raze.json](./320535-cosmic-raze.json) |
 | Cosmic Reach | 292852 | [292852-cosmic-reach.json](./292852-cosmic-reach.json) |
@@ -1553,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberBrick | 226427 | [226427-cyberbrick.json](./226427-cyberbrick.json) |
 | Cyberchase: Mission Motherboard | 143086 | [143086-cyberchase-mission-motherboard.json](./143086-cyberchase-mission-motherboard.json) |
 | Cyberchase: The Quest 1 - Mission Motherboard | 140627 | [140627-cyberchase-the-quest-1-mission-motherboard.json](./140627-cyberchase-the-quest-1-mission-motherboard.json) |
+| Cyberdillo | 39014 | [39014-cyberdillo.json](./39014-cyberdillo.json) |
 | Cyberdreams | 140045 | [140045-cyberdreams.json](./140045-cyberdreams.json) |
 | Cyberference | 244490 | [244490-cyberference.json](./244490-cyberference.json) |
 | Cyberflow | 61679 | [61679-cyberflow.json](./61679-cyberflow.json) |
