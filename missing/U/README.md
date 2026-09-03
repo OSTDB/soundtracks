@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbra: Journey Home | 173300 | [173300-umbra-journey-home.json](./173300-umbra-journey-home.json) |
 | Umbral Core | 219257 | [219257-umbral-core.json](./219257-umbral-core.json) |
 | Umihara Kawase Uku | 276489 | [276489-umihara-kawase-uku.json](./276489-umihara-kawase-uku.json) |
+| Umihara Kawase: Shun - Second Edition | 78719 | [78719-umihara-kawase-shun-second-edition.json](./78719-umihara-kawase-shun-second-edition.json) |
 | Umineko no Naku Koro ni Saku: Nekobako to Musou no Koukyoukyoku - Limited Edition | 140001 | [140001-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku-limited-edition.json](./140001-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku-limited-edition.json) |
 | Umineko no Naku Koro ni Tsubasa | 125996 | [125996-umineko-no-naku-koro-ni-tsubasa.json](./125996-umineko-no-naku-koro-ni-tsubasa.json) |
 | Umineko no Naku Koro ni: Aru Ryourinin no Zakki | 272533 | [272533-umineko-no-naku-koro-ni-aru-ryourinin-no-zakki.json](./272533-umineko-no-naku-koro-ni-aru-ryourinin-no-zakki.json) |
@@ -105,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted Ocean: Adventures at the Poles | 262097 | [262097-uncharted-ocean-adventures-at-the-poles.json](./262097-uncharted-ocean-adventures-at-the-poles.json) |
 | Uncharted Waters: New Horizons | 102810 | [102810-uncharted-waters-new-horizons.json](./102810-uncharted-waters-new-horizons.json) |
 | Uncharted World | 310188 | [310188-uncharted-world.json](./310188-uncharted-world.json) |
+| Uncle's Casino | 78674 | [78674-uncles-casino.json](./78674-uncles-casino.json) |
 | Uncolor for iPad | 108460 | [108460-uncolor-for-ipad.json](./108460-uncolor-for-ipad.json) |
 | Uncover | 316427 | [316427-uncover.json](./316427-uncover.json) |
 | Undawn: Desert Fury | 262700 | [262700-undawn-desert-fury.json](./262700-undawn-desert-fury.json) |
