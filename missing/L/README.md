@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Equinox: Winds of Change | 255388 | [255388-last-equinox-winds-of-change.json](./255388-last-equinox-winds-of-change.json) |
 | Last Friend | 91968 | [91968-last-friend.json](./91968-last-friend.json) |
 | Last Group Out | 189196 | [189196-last-group-out.json](./189196-last-group-out.json) |
+| Last Half of Darkness | 80604 | [80604-last-half-of-darkness.json](./80604-last-half-of-darkness.json) |
 | Last Harvest | 138779 | [138779-last-harvest.json](./138779-last-harvest.json) |
 | Last Hit Titan | 337476 | [337476-last-hit-titan.json](./337476-last-hit-titan.json) |
 | Last Hopeless | 255991 | [255991-last-hopeless.json](./255991-last-hopeless.json) |
@@ -186,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Radiance | 192946 | [192946-legend-of-radiance.json](./192946-legend-of-radiance.json) |
 | Legend of Red | 334507 | [334507-legend-of-red.json](./334507-legend-of-red.json) |
 | Legend of Stars | 295013 | [295013-legend-of-stars.json](./295013-legend-of-stars.json) |
+| Legend of the Five Rings | 80587 | [80587-legend-of-the-five-rings.json](./80587-legend-of-the-five-rings.json) |
 | Legend of the Tetrarchs | 117738 | [117738-legend-of-the-tetrarchs.json](./117738-legend-of-the-tetrarchs.json) |
 | Legend of the Time Sword: Episode 1 | 303814 | [303814-legend-of-the-time-sword-episode-1.json](./303814-legend-of-the-time-sword-episode-1.json) |
 | Legend of Vengeancev | 156685 | [156685-legend-of-vengeancev.json](./156685-legend-of-vengeancev.json) |
@@ -616,11 +618,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love, Hate and the Mysterious Ocean Tower | 300381 | [300381-love-hate-and-the-mysterious-ocean-tower.json](./300381-love-hate-and-the-mysterious-ocean-tower.json) |
 | Love's Eternal Wishes | 298898 | [298898-loves-eternal-wishes.json](./298898-loves-eternal-wishes.json) |
 | Love's Hella Punk | 239868 | [239868-loves-hella-punk.json](./239868-loves-hella-punk.json) |
+| Love+ | 80609 | [80609-love.json](./80609-love.json) |
 | LoveAndComplex | 311276 | [311276-loveandcomplex.json](./311276-loveandcomplex.json) |
 | Lovefield General: Back to Work | 105351 | [105351-lovefield-general-back-to-work.json](./105351-lovefield-general-back-to-work.json) |
 | Lovelink | 204709 | [204709-lovelink.json](./204709-lovelink.json) |
 | Lovelove Boin: High-handed Girl's Boobs | 97374 | [97374-lovelove-boin-high-handed-girls-boobs.json](./97374-lovelove-boin-high-handed-girls-boobs.json) |
 | Lovely Farm | 264360 | [264360-lovely-farm.json](./264360-lovely-farm.json) |
+| Lovely Lisa 3D | 80608 | [80608-lovely-lisa-3d.json](./80608-lovely-lisa-3d.json) |
 | Lovely Planet Remix | 165030 | [165030-lovely-planet-remix.json](./165030-lovely-planet-remix.json) |
 | Lovely Sweet Dream | 172766 | [172766-lovely-sweet-dream.json](./172766-lovely-sweet-dream.json) |
 | Lovers of Aether | 117041 | [117041-lovers-of-aether.json](./117041-lovers-of-aether.json) |
@@ -636,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luci RPG | 228678 | [228678-luci-rpg.json](./228678-luci-rpg.json) |
 | Lucid Adventure Idle RPG | 143079 | [143079-lucid-adventure-idle-rpg.json](./143079-lucid-adventure-idle-rpg.json) |
 | Lucid Dream | 202933 | [202933-lucid-dream.json](./202933-lucid-dream.json) |
+| Lucid9: Inciting Incident | 80553 | [80553-lucid9-inciting-incident.json](./80553-lucid9-inciting-incident.json) |
 | Luciel Angel Mission | 314060 | [314060-luciel-angel-mission.json](./314060-luciel-angel-mission.json) |
 | LuckLand | 260423 | [260423-luckland.json](./260423-luckland.json) |
 | Lucky day | 166750 | [166750-lucky-day.json](./166750-lucky-day.json) |
