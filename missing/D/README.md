@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Wore Endless Feathers | 168383 | [168383-death-wore-endless-feathers.json](./168383-death-wore-endless-feathers.json) |
 | Death's Playground | 208603 | [208603-deaths-playground.json](./208603-deaths-playground.json) |
 | Deathbed Lullabye | 201328 | [201328-deathbed-lullabye.json](./201328-deathbed-lullabye.json) |
+| Deathmatch Soccer | 74437 | [74437-deathmatch-soccer.json](./74437-deathmatch-soccer.json) |
 | DeathWorm | 234941 | [234941-deathworm.json](./234941-deathworm.json) |
 | Debrecen | 312921 | [312921-debrecen.json](./312921-debrecen.json) |
 | Decay | 272018 | [272018-decay.json](./272018-decay.json) |
@@ -455,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dere. Some Answers Before I... | 258696 | [258696-dere-some-answers-before-i.json](./258696-dere-some-answers-before-i.json) |
 | Derealized | 241630 | [241630-derealized.json](./241630-derealized.json) |
 | Derelict | 168384 | [168384-derelict.json](./168384-derelict.json) |
+| Derpy Dinos | 74433 | [74433-derpy-dinos.json](./74433-derpy-dinos.json) |
 | Deru | 258698 | [258698-deru.json](./258698-deru.json) |
 | Descend.gg | 232661 | [232661-descend-gg.json](./232661-descend-gg.json) |
 | Descending: House of Nightmares | 171614 | [171614-descending-house-of-nightmares.json](./171614-descending-house-of-nightmares.json) |
@@ -739,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doge Dimensions | 187527 | [187527-doge-dimensions.json](./187527-doge-dimensions.json) |
 | Dogforce: Seasons | 179161 | [179161-dogforce-seasons.json](./179161-dogforce-seasons.json) |
 | DogHotel | 101582 | [101582-doghotel.json](./101582-doghotel.json) |
+| Dogma | 74466 | [74466-dogma.json](./74466-dogma.json) |
 | Dogman | 141214 | [141214-dogman.json](./141214-dogman.json) |
 | Dogs of Wallstreet | 197925 | [197925-dogs-of-wallstreet.json](./197925-dogs-of-wallstreet.json) |
 | Dogs Organized Neatly | 154011 | [154011-dogs-organized-neatly.json](./154011-dogs-organized-neatly.json) |
@@ -950,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Merge Wind | 228112 | [228112-dragon-merge-wind.json](./228112-dragon-merge-wind.json) |
 | Dragon Must Die | 215917 | [215917-dragon-must-die.json](./215917-dragon-must-die.json) |
 | Dragon Nest M | 104643 | [104643-dragon-nest-m.json](./104643-dragon-nest-m.json) |
+| Dragon Perception | 74474 | [74474-dragon-perception.json](./74474-dragon-perception.json) |
 | Dragon Planner | 220331 | [220331-dragon-planner.json](./220331-dragon-planner.json) |
 | Dragon Quest Keshi Keshi | 194015 | [194015-dragon-quest-keshi-keshi.json](./194015-dragon-quest-keshi-keshi.json) |
 | Dragon Quest Monster Super Light | 80598 | [80598-dragon-quest-monster-super-light.json](./80598-dragon-quest-monster-super-light.json) |
@@ -1016,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Football Club | 220843 | [220843-dream-football-club.json](./220843-dream-football-club.json) |
 | Dream Genie | 201294 | [201294-dream-genie.json](./201294-dream-genie.json) |
 | Dream Girls VR | 111725 | [111725-dream-girls-vr.json](./111725-dream-girls-vr.json) |
+| Dream Golf VR | 74441 | [74441-dream-golf-vr.json](./74441-dream-golf-vr.json) |
 | Dream Invader | 220330 | [220330-dream-invader.json](./220330-dream-invader.json) |
 | Dream Knights: The Little Hero | 181372 | [181372-dream-knights-the-little-hero.json](./181372-dream-knights-the-little-hero.json) |
 | Dream Kombat | 229382 | [229382-dream-kombat.json](./229382-dream-kombat.json) |
