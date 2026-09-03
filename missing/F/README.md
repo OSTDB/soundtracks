@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | F-16 Multirole Fighter | 72715 | [72715-f-16-multirole-fighter.json](./72715-f-16-multirole-fighter.json) |
+| F-16 Renegade | 66706 | [66706-f-16-renegade.json](./66706-f-16-renegade.json) |
 | F-Rank Hero Story | 186323 | [186323-f-rank-hero-story.json](./186323-f-rank-hero-story.json) |
 | F-Zero X Climax | 135258 | [135258-f-zero-x-climax.json](./135258-f-zero-x-climax.json) |
 | F1 Circus MD | 125458 | [125458-f1-circus-md.json](./125458-f1-circus-md.json) |
@@ -280,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fernocity | 272014 | [272014-fernocity.json](./272014-fernocity.json) |
 | Ferrari Challenge: Trofeo Pirelli | 259269 | [259269-ferrari-challenge-trofeo-pirelli.json](./259269-ferrari-challenge-trofeo-pirelli.json) |
 | Ferrari Challenge: Trofeo Pirelli | 259270 | [259270-ferrari-challenge-trofeo-pirelli.json](./259270-ferrari-challenge-trofeo-pirelli.json) |
+| Ferrari GT: Evolution | 66696 | [66696-ferrari-gt-evolution.json](./66696-ferrari-gt-evolution.json) |
 | Ferrari Virtual Race | 129811 | [129811-ferrari-virtual-race.json](./129811-ferrari-virtual-race.json) |
 | FerroSlug | 218727 | [218727-ferroslug.json](./218727-ferroslug.json) |
 | Ferrule Instincts | 211952 | [211952-ferrule-instincts.json](./211952-ferrule-instincts.json) |
@@ -547,6 +549,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipping in the air | 278703 | [278703-flipping-in-the-air.json](./278703-flipping-in-the-air.json) |
 | FlipPix Jigsaw - Retro | 91997 | [91997-flippix-jigsaw-retro.json](./91997-flippix-jigsaw-retro.json) |
 | FlipPix Jigsaw - Spicy | 96047 | [96047-flippix-jigsaw-spicy.json](./96047-flippix-jigsaw-spicy.json) |
+| Flips: Artemis Fowl | 66667 | [66667-flips-artemis-fowl.json](./66667-flips-artemis-fowl.json) |
+| Flips: Cathy Cassidy | 66668 | [66668-flips-cathy-cassidy.json](./66668-flips-cathy-cassidy.json) |
+| Flips: Enid Blyton - Faraway Tree Stories | 66665 | [66665-flips-enid-blyton-faraway-tree-stories.json](./66665-flips-enid-blyton-faraway-tree-stories.json) |
+| Flips: Enid Blyton - The Adventure Series | 66666 | [66666-flips-enid-blyton-the-adventure-series.json](./66666-flips-enid-blyton-the-adventure-series.json) |
+| Flips: Mr. Gum | 66664 | [66664-flips-mr-gum.json](./66664-flips-mr-gum.json) |
+| Flips: Too Ghoul for School | 66663 | [66663-flips-too-ghoul-for-school.json](./66663-flips-too-ghoul-for-school.json) |
 | FlipScapes | 224249 | [224249-flipscapes.json](./224249-flipscapes.json) |
 | Flipull | 172779 | [172779-flipull.json](./172779-flipull.json) |
 | Flipz | 249455 | [249455-flipz.json](./249455-flipz.json) |
