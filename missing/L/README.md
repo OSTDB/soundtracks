@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loppi Puzzle Magazine: Kangaeru Dai-3-gou | 226400 | [226400-loppi-puzzle-magazine-kangaeru-dai-3-gou.json](./226400-loppi-puzzle-magazine-kangaeru-dai-3-gou.json) |
 | Loppi Puzzle Magazine: Kangaeru Puzzle Soukangou | 226401 | [226401-loppi-puzzle-magazine-kangaeru-puzzle-soukangou.json](./226401-loppi-puzzle-magazine-kangaeru-puzzle-soukangou.json) |
 | Lord of the Click 3 | 197410 | [197410-lord-of-the-click-3.json](./197410-lord-of-the-click-3.json) |
+| Lord of the Dark Castle | 35761 | [35761-lord-of-the-dark-castle.json](./35761-lord-of-the-dark-castle.json) |
 | Lord of the Sword | 46671 | [46671-lord-of-the-sword.json](./46671-lord-of-the-sword.json) |
 | Lord of Ultima | 66713 | [66713-lord-of-ultima.json](./66713-lord-of-ultima.json) |
 | Lords and Tactics | 247759 | [247759-lords-and-tactics.json](./247759-lords-and-tactics.json) |
@@ -772,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumbermill | 122427 | [122427-lumbermill.json](./122427-lumbermill.json) |
 | LumberQwaxes | 154013 | [154013-lumberqwaxes.json](./154013-lumberqwaxes.json) |
 | Lumencraft | 186294 | [186294-lumencraft.json](./186294-lumencraft.json) |
+| Luminosity | 35836 | [35836-luminosity.json](./35836-luminosity.json) |
 | Luminous Skies: A Short Adventure | 255956 | [255956-luminous-skies-a-short-adventure.json](./255956-luminous-skies-a-short-adventure.json) |
 | Lumo 2 | 338546 | [338546-lumo-2.json](./338546-lumo-2.json) |
 | Luna Child no Saishuu Bouei Line 3 | 202971 | [202971-luna-child-no-saishuu-bouei-line-3.json](./202971-luna-child-no-saishuu-bouei-line-3.json) |
