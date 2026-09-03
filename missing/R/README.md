@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Miami Street Gangsters Crime Mafia Glory Lord | 101586 | [101586-real-miami-street-gangsters-crime-mafia-glory-lord.json](./101586-real-miami-street-gangsters-crime-mafia-glory-lord.json) |
 | Real Motocross Driving Simulator | 259814 | [259814-real-motocross-driving-simulator.json](./259814-real-motocross-driving-simulator.json) |
 | Real Rally | 240493 | [240493-real-rally.json](./240493-real-rally.json) |
+| Real Robots Final Attack | 68026 | [68026-real-robots-final-attack.json](./68026-real-robots-final-attack.json) |
 | Real Soccer 2007 | 116347 | [116347-real-soccer-2007.json](./116347-real-soccer-2007.json) |
 | Real Soccer 2011 | 116348 | [116348-real-soccer-2011.json](./116348-real-soccer-2011.json) |
 | Real Tennis | 100200 | [100200-real-tennis.json](./100200-real-tennis.json) |
@@ -631,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Kenshin | 310731 | [310731-rise-of-kenshin.json](./310731-rise-of-kenshin.json) |
 | Rise of Kingdoms: Conquer War | 199634 | [199634-rise-of-kingdoms-conquer-war.json](./199634-rise-of-kingdoms-conquer-war.json) |
 | Rise of Koreth | 258206 | [258206-rise-of-koreth.json](./258206-rise-of-koreth.json) |
+| Rise of Lost Empires | 68027 | [68027-rise-of-lost-empires.json](./68027-rise-of-lost-empires.json) |
 | Rise of SamuraizerzZz | 156664 | [156664-rise-of-samuraizerzzz.json](./156664-rise-of-samuraizerzzz.json) |
 | Rise of The Fey | 82120 | [82120-rise-of-the-fey.json](./82120-rise-of-the-fey.json) |
 | Rise of the Ghostdom | 210895 | [210895-rise-of-the-ghostdom.json](./210895-rise-of-the-ghostdom.json) |
