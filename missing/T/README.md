@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tengai Makyou: Daiyon no Mokushiroku - The Apocalypse IV | 80577 | [80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json](./80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json) |
 | Tengai Makyou: Fuun Kabuki-den | 71530 | [71530-tengai-makyou-fuun-kabuki-den.json](./71530-tengai-makyou-fuun-kabuki-den.json) |
 | Tenioha! feat. Mami | 263741 | [263741-tenioha-feat-mami.json](./263741-tenioha-feat-mami.json) |
+| Tennis Champs Returns | 58823 | [58823-tennis-champs-returns.json](./58823-tennis-champs-returns.json) |
 | Tennis Club Story | 134020 | [134020-tennis-club-story.json](./134020-tennis-club-story.json) |
 | Tennis Kings VR | 89257 | [89257-tennis-kings-vr.json](./89257-tennis-kings-vr.json) |
 | Tennis Pro Tournaments | 274737 | [274737-tennis-pro-tournaments.json](./274737-tennis-pro-tournaments.json) |
@@ -487,9 +488,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battles for Abunka | 210900 | [210900-the-battles-for-abunka.json](./210900-the-battles-for-abunka.json) |
 | The Beast | 100210 | [100210-the-beast.json](./100210-the-beast.json) |
 | The Beast of the Rosewood | 302134 | [302134-the-beast-of-the-rosewood.json](./302134-the-beast-of-the-rosewood.json) |
+| The Beginning of the End | 58853 | [58853-the-beginning-of-the-end.json](./58853-the-beginning-of-the-end.json) |
 | The Bend | 172719 | [172719-the-bend.json](./172719-the-bend.json) |
 | The Berenstain Bears: Learning At Home, Volume One | 71548 | [71548-the-berenstain-bears-learning-at-home-volume-one.json](./71548-the-berenstain-bears-learning-at-home-volume-one.json) |
 | The Berlin Wall | 97910 | [97910-the-berlin-wall.json](./97910-the-berlin-wall.json) |
+| The Bermuda Triangle | 58843 | [58843-the-bermuda-triangle.json](./58843-the-bermuda-triangle.json) |
 | The Best Play Baseball '90 | 267635 | [267635-the-best-play-baseball-90.json](./267635-the-best-play-baseball-90.json) |
 | The Best Play Baseball II | 267637 | [267637-the-best-play-baseball-ii.json](./267637-the-best-play-baseball-ii.json) |
 | The Beyond Of Fears: New House | 304876 | [304876-the-beyond-of-fears-new-house.json](./304876-the-beyond-of-fears-new-house.json) |
@@ -504,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Pepper Crew | 184629 | [184629-the-black-pepper-crew.json](./184629-the-black-pepper-crew.json) |
 | The Black Pool | 226447 | [226447-the-black-pool.json](./226447-the-black-pool.json) |
 | The Black Rose | 124260 | [124260-the-black-rose.json](./124260-the-black-rose.json) |
+| The Black Tower | 58827 | [58827-the-black-tower.json](./58827-the-black-tower.json) |
 | The Blocks Cometh | 66103 | [66103-the-blocks-cometh.json](./66103-the-blocks-cometh.json) |
 | The Blue Bedroom | 180847 | [180847-the-blue-bedroom.json](./180847-the-blue-bedroom.json) |
 | The Blue Katana | 185122 | [185122-the-blue-katana.json](./185122-the-blue-katana.json) |
@@ -517,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bounty | 86113 | [86113-the-bounty.json](./86113-the-bounty.json) |
 | The Box Game | 203550 | [203550-the-box-game.json](./203550-the-box-game.json) |
 | The Boy With Bombs | 61122 | [61122-the-boy-with-bombs.json](./61122-the-boy-with-bombs.json) |
+| The Boyd File | 58826 | [58826-the-boyd-file.json](./58826-the-boyd-file.json) |
 | The Brain's Brain Game | 307913 | [307913-the-brains-brain-game.json](./307913-the-brains-brain-game.json) |
 | The Bread Pub Brawlers | 86118 | [86118-the-bread-pub-brawlers.json](./86118-the-bread-pub-brawlers.json) |
 | The BridgeMaster | 169445 | [169445-the-bridgemaster.json](./169445-the-bridgemaster.json) |
@@ -563,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chrono Jotter | 157173 | [157173-the-chrono-jotter.json](./157173-the-chrono-jotter.json) |
 | The Church of Cheesus Crisp: An All You Can Pray Buffet | 159364 | [159364-the-church-of-cheesus-crisp-an-all-you-can-pray-buffet.json](./159364-the-church-of-cheesus-crisp-an-all-you-can-pray-buffet.json) |
 | The Circulation of Shadows | 271462 | [271462-the-circulation-of-shadows.json](./271462-the-circulation-of-shadows.json) |
+| The Citadel | 58820 | [58820-the-citadel.json](./58820-the-citadel.json) |
 | The Citizen Kane of Video Games | 225271 | [225271-the-citizen-kane-of-video-games.json](./225271-the-citizen-kane-of-video-games.json) |
 | The City of the Damned | 141239 | [141239-the-city-of-the-damned.json](./141239-the-city-of-the-damned.json) |
 | The City of the Damned: Apocalypse | 141240 | [141240-the-city-of-the-damned-apocalypse.json](./141240-the-city-of-the-damned-apocalypse.json) |
@@ -866,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Invisible Guardian | 185670 | [185670-the-invisible-guardian.json](./185670-the-invisible-guardian.json) |
 | The Iron Age | 223151 | [223151-the-iron-age.json](./223151-the-iron-age.json) |
 | The Island | 274188 | [274188-the-island.json](./274188-the-island.json) |
+| The Island - Ethereal | 58833 | [58833-the-island-ethereal.json](./58833-the-island-ethereal.json) |
 | The Island 2 | 274189 | [274189-the-island-2.json](./274189-the-island-2.json) |
 | The Island Rescue | 236005 | [236005-the-island-rescue.json](./236005-the-island-rescue.json) |
 | The Isle Survival | 261507 | [261507-the-isle-survival.json](./261507-the-isle-survival.json) |
@@ -1568,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrust Master Deluxe | 258220 | [258220-thrust-master-deluxe.json](./258220-thrust-master-deluxe.json) |
 | ThrustMe Too | 333373 | [333373-thrustme-too.json](./333373-thrustme-too.json) |
 | Thukothea Defender | 159855 | [159855-thukothea-defender.json](./159855-thukothea-defender.json) |
+| Thumb Drift | 58840 | [58840-thumb-drift.json](./58840-thumb-drift.json) |
 | Thunder Jumper | 268219 | [268219-thunder-jumper.json](./268219-thunder-jumper.json) |
 | Thunder League | 59407 | [59407-thunder-league.json](./59407-thunder-league.json) |
 | Thunder Roar | 218121 | [218121-thunder-roar.json](./218121-thunder-roar.json) |
@@ -1798,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Times & Galaxy | 248316 | [248316-times-and-galaxy.json](./248316-times-and-galaxy.json) |
 | Times Turn | 185132 | [185132-times-turn.json](./185132-times-turn.json) |
 | TimeScape: Journey to Pompeii | 73819 | [73819-timescape-journey-to-pompeii.json](./73819-timescape-journey-to-pompeii.json) |
+| TimeZero | 58813 | [58813-timezero.json](./58813-timezero.json) |
 | Timmy the Dream Hunter | 307299 | [307299-timmy-the-dream-hunter.json](./307299-timmy-the-dream-hunter.json) |
 | Timo's Adventures | 143708 | [143708-timos-adventures.json](./143708-timos-adventures.json) |
 | Timothy | 64992 | [64992-timothy.json](./64992-timothy.json) |
@@ -2019,6 +2028,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totems: Game of Conquest | 200188 | [200188-totems-game-of-conquest.json](./200188-totems-game-of-conquest.json) |
 | Toto's Toy Box | 129222 | [129222-totos-toy-box.json](./129222-totos-toy-box.json) |
 | Tottoko Hamtaro Card-e | 220854 | [220854-tottoko-hamtaro-card-e.json](./220854-tottoko-hamtaro-card-e.json) |
+| Touch Battle Ninja | 58828 | [58828-touch-battle-ninja.json](./58828-touch-battle-ninja.json) |
+| Touch Battle Tank 3D-3 | 58832 | [58832-touch-battle-tank-3d-3.json](./58832-touch-battle-tank-3d-3.json) |
 | Touch Carrom: Striker Edition | 239887 | [239887-touch-carrom-striker-edition.json](./239887-touch-carrom-striker-edition.json) |
 | Touch Melo | 312904 | [312904-touch-melo.json](./312904-touch-melo.json) |
 | Touchdown Pinball | 129804 | [129804-touchdown-pinball.json](./129804-touchdown-pinball.json) |
@@ -2111,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Box | 325235 | [325235-toy-box.json](./325235-toy-box.json) |
 | Toy Car Extreme Racing: RC Driver Simulator | 309082 | [309082-toy-car-extreme-racing-rc-driver-simulator.json](./309082-toy-car-extreme-racing-rc-driver-simulator.json) |
 | TOY DJ - An Electronic Music Rhythm Game | 100909 | [100909-toy-dj-an-electronic-music-rhythm-game.json](./100909-toy-dj-an-electronic-music-rhythm-game.json) |
+| Toy Story 2: Woody Sousaku Daisakusen!! | 58850 | [58850-toy-story-2-woody-sousaku-daisakusen.json](./58850-toy-story-2-woody-sousaku-daisakusen.json) |
 | Toy Story 3 | 230554 | [230554-toy-story-3.json](./230554-toy-story-3.json) |
 | Toy Tactics | 204089 | [204089-toy-tactics.json](./204089-toy-tactics.json) |
 | Toybox | 184645 | [184645-toybox.json](./184645-toybox.json) |
