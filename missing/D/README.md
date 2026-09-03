@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkSpar | 193467 | [193467-darkspar.json](./193467-darkspar.json) |
 | Darso Roads | 325815 | [325815-darso-roads.json](./325815-darso-roads.json) |
 | Dartford Street | 183593 | [183593-dartford-street.json](./183593-dartford-street.json) |
+| Das Rätsel in Ägypten | 81399 | [81399-das-ratsel-in-agypten.json](./81399-das-ratsel-in-agypten.json) |
 | Dash.io | 256521 | [256521-dash-io.json](./256521-dash-io.json) |
 | Dasher | 158205 | [158205-dasher.json](./158205-dasher.json) |
 | Dashing Pixels | 136484 | [136484-dashing-pixels.json](./136484-dashing-pixels.json) |
@@ -240,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive Xtreme 3 Fortune: Collector's Edition | 166233 | [166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json](./166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json) |
 | Dead Reckoning: The Crescent Case - Collector's Edition | 89944 | [89944-dead-reckoning-the-crescent-case-collectors-edition.json](./89944-dead-reckoning-the-crescent-case-collectors-edition.json) |
 | Dead Rising 4: Capcom Heroes | 202965 | [202965-dead-rising-4-capcom-heroes.json](./202965-dead-rising-4-capcom-heroes.json) |
+| Dead Rising mobile | 81391 | [81391-dead-rising-mobile.json](./81391-dead-rising-mobile.json) |
 | Dead Rising/Gears of War | 141217 | [141217-dead-rising-gears-of-war.json](./141217-dead-rising-gears-of-war.json) |
 | Dead Shapes | 251815 | [251815-dead-shapes.json](./251815-dead-shapes.json) |
 | Dead Space 2 | 264868 | [264868-dead-space-2.json](./264868-dead-space-2.json) |
@@ -522,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo IV: Vessel of Hatred - Expansion Bundle | 305496 | [305496-diablo-iv-vessel-of-hatred-expansion-bundle.json](./305496-diablo-iv-vessel-of-hatred-expansion-bundle.json) |
 | Diamond Girl: An Earnest Education in Love | 147996 | [147996-diamond-girl-an-earnest-education-in-love.json](./147996-diamond-girl-an-earnest-education-in-love.json) |
 | Diamond Giza | 157193 | [157193-diamond-giza.json](./157193-diamond-giza.json) |
+| Diamond Lady | 81359 | [81359-diamond-lady.json](./81359-diamond-lady.json) |
 | Diamond Mind Baseball 8.0 | 94249 | [94249-diamond-mind-baseball-8-0.json](./94249-diamond-mind-baseball-8-0.json) |
 | Diamond Painting ASMR: Cool & Festive | 309075 | [309075-diamond-painting-asmr-cool-and-festive.json](./309075-diamond-painting-asmr-cool-and-festive.json) |
 | Diamond Painting ASMR: Fun & Cute | 309076 | [309076-diamond-painting-asmr-fun-and-cute.json](./309076-diamond-painting-asmr-fun-and-cute.json) |
@@ -547,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die CD-ROM mit der Maus 3 | 250611 | [250611-die-cd-rom-mit-der-maus-3.json](./250611-die-cd-rom-mit-der-maus-3.json) |
 | Die Cook | 277024 | [277024-die-cook.json](./277024-die-cook.json) |
 | Die drei???: Plan der Chamäleonbande | 302665 | [302665-die-drei-plan-der-chamaleonbande.json](./302665-die-drei-plan-der-chamaleonbande.json) |
+| Die kleine Lokomotive und ihre Freunde | 81401 | [81401-die-kleine-lokomotive-und-ihre-freunde.json](./81401-die-kleine-lokomotive-und-ihre-freunde.json) |
 | Die O'Clock | 214161 | [214161-die-oclock.json](./214161-die-oclock.json) |
 | Die Totenmaske | 184105 | [184105-die-totenmaske.json](./184105-die-totenmaske.json) |
 | DieRoll | 88263 | [88263-dieroll.json](./88263-dieroll.json) |
@@ -727,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogville | 272032 | [272032-dogville.json](./272032-dogville.json) |
 | DogWorld Premium | 87265 | [87265-dogworld-premium.json](./87265-dogworld-premium.json) |
 | Doka 2: Guts Out Ninja | 114386 | [114386-doka-2-guts-out-ninja.json](./114386-doka-2-guts-out-ninja.json) |
+| Dokapon! Ikari no Tetsuken | 81411 | [81411-dokapon-ikari-no-tetsuken.json](./81411-dokapon-ikari-no-tetsuken.json) |
 | Doki Doki A Slice Of Life | 333928 | [333928-doki-doki-a-slice-of-life.json](./333928-doki-doki-a-slice-of-life.json) |
 | Doki Doki Ace Attorney | 314043 | [314043-doki-doki-ace-attorney.json](./314043-doki-doki-ace-attorney.json) |
 | Doki Doki Brazilian Club Puts! | 332837 | [332837-doki-doki-brazilian-club-puts.json](./332837-doki-doki-brazilian-club-puts.json) |
@@ -889,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Robotnik Turns Everybody into Frogs | 188087 | [188087-dr-robotnik-turns-everybody-into-frogs.json](./188087-dr-robotnik-turns-everybody-into-frogs.json) |
 | Dr. Robotnik's Mean Bean Tetris | 264896 | [264896-dr-robotniks-mean-bean-tetris.json](./264896-dr-robotniks-mean-bean-tetris.json) |
 | Dr. Rudy | 94262 | [94262-dr-rudy.json](./94262-dr-rudy.json) |
+| Dr.Tool Gehirn Sport | 81395 | [81395-dr-tool-gehirn-sport.json](./81395-dr-tool-gehirn-sport.json) |
 | DracoFighter | 207527 | [207527-dracofighter.json](./207527-dracofighter.json) |
 | Draconic Echoes: The Ardent War | 126664 | [126664-draconic-echoes-the-ardent-war.json](./126664-draconic-echoes-the-ardent-war.json) |
 | Draconic Evolution | 232672 | [232672-draconic-evolution.json](./232672-draconic-evolution.json) |
