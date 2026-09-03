@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Hair: Music Race 3D | 212455 | [212455-dancing-hair-music-race-3d.json](./212455-dancing-hair-music-race-3d.json) |
 | DancingReaper | 140580 | [140580-dancingreaper.json](./140580-dancingreaper.json) |
 | Dandara | 296666 | [296666-dandara.json](./296666-dandara.json) |
+| Dandy: Or a Brief Glimpse Into the Life of the Candy Alchemist | 59985 | [59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json](./59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json) |
 | Daneta | 125456 | [125456-daneta.json](./125456-daneta.json) |
 | Daneta2 | 125455 | [125455-daneta2.json](./125455-daneta2.json) |
 | Danganronpa 2: Goodbye Despair - Anniversary Edition | 152400 | [152400-danganronpa-2-goodbye-despair-anniversary-edition.json](./152400-danganronpa-2-goodbye-despair-anniversary-edition.json) |
@@ -212,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daymare Town 4 | 257646 | [257646-daymare-town-4.json](./257646-daymare-town-4.json) |
 | Days After | 169990 | [169990-days-after.json](./169990-days-after.json) |
 | Days of the Divine | 243955 | [243955-days-of-the-divine.json](./243955-days-of-the-divine.json) |
+| DC Comics Legends | 60027 | [60027-dc-comics-legends.json](./60027-dc-comics-legends.json) |
 | DCF Universe Triple Trouble Bundle | 338026 | [338026-dcf-universe-triple-trouble-bundle.json](./338026-dcf-universe-triple-trouble-bundle.json) |
 | DCS World: AV-8B Kerman Campaign by Ground Pounder Sims | 325249 | [325249-dcs-world-av-8b-kerman-campaign-by-ground-pounder-sims.json](./325249-dcs-world-av-8b-kerman-campaign-by-ground-pounder-sims.json) |
 | DCS World: Black Shark 3 | 324663 | [324663-dcs-world-black-shark-3.json](./324663-dcs-world-black-shark-3.json) |
@@ -542,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Zone | 300401 | [300401-devil-zone.json](./300401-devil-zone.json) |
 | Devil_catching_bees | 119012 | [119012-devil-catching-bees.json](./119012-devil-catching-bees.json) |
 | Devil's Revenge | 69855 | [69855-devils-revenge.json](./69855-devils-revenge.json) |
+| Devil's Third Online | 59988 | [59988-devils-third-online.json](./59988-devils-third-online.json) |
 | Devil's Tuning Fork | 67304 | [67304-devils-tuning-fork.json](./67304-devils-tuning-fork.json) |
 | Devolution: Maken no Ou to Shimobe-tachi | 220329 | [220329-devolution-maken-no-ou-to-shimobe-tachi.json](./220329-devolution-maken-no-ou-to-shimobe-tachi.json) |
 | Devotion | 107228 | [107228-devotion.json](./107228-devotion.json) |
@@ -625,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DingDingDing | 109719 | [109719-dingdingding.json](./109719-dingdingding.json) |
 | Dinky Guardians | 244516 | [244516-dinky-guardians.json](./244516-dinky-guardians.json) |
 | Dinky Rinky | 231610 | [231610-dinky-rinky.json](./231610-dinky-rinky.json) |
+| Dinner Bell | 60005 | [60005-dinner-bell.json](./60005-dinner-bell.json) |
 | Dinner for Pigeons | 168385 | [168385-dinner-for-pigeons.json](./168385-dinner-for-pigeons.json) |
 | Dino Breeder | 64981 | [64981-dino-breeder.json](./64981-dino-breeder.json) |
 | Dino Breeder 2 | 63853 | [63853-dino-breeder-2.json](./63853-dino-breeder-2.json) |
@@ -935,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doughbee | 258727 | [258727-doughbee.json](./258727-doughbee.json) |
 | Douglas Rockmoor | 69305 | [69305-douglas-rockmoor.json](./69305-douglas-rockmoor.json) |
 | Douglas Rockmoor 2 | 69309 | [69309-douglas-rockmoor-2.json](./69309-douglas-rockmoor-2.json) |
+| Doukyuu-sei | 59997 | [59997-doukyuu-sei.json](./59997-doukyuu-sei.json) |
 | Dovez | 80607 | [80607-dovez.json](./80607-dovez.json) |
 | Down Beneath | 179725 | [179725-down-beneath.json](./179725-down-beneath.json) |
 | Down in the Depths Blind | 219263 | [219263-down-in-the-depths-blind.json](./219263-down-in-the-depths-blind.json) |
@@ -993,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Coins | 63337 | [63337-dragon-coins.json](./63337-dragon-coins.json) |
 | Dragon Dice | 69894 | [69894-dragon-dice.json](./69894-dragon-dice.json) |
 | Dragon Dodge Valley | 238743 | [238743-dragon-dodge-valley.json](./238743-dragon-dodge-valley.json) |
+| Dragon Eternity | 59981 | [59981-dragon-eternity.json](./59981-dragon-eternity.json) |
 | Dragon Friends: The Secret of Green Witch | 212453 | [212453-dragon-friends-the-secret-of-green-witch.json](./212453-dragon-friends-the-secret-of-green-witch.json) |
 | Dragon Fun Classic | 221974 | [221974-dragon-fun-classic.json](./221974-dragon-fun-classic.json) |
 | Dragon Fury | 231046 | [231046-dragon-fury.json](./231046-dragon-fury.json) |
