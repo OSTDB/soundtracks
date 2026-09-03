@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.O.B.2 | 303812 | [303812-b-o-b-2.json](./303812-b-o-b-2.json) |
 | B.o.o.o. | 178676 | [178676-b-o-o-o.json](./178676-b-o-o-o.json) |
 | B.O.W II VR | 251830 | [251830-b-o-w-ii-vr.json](./251830-b-o-w-ii-vr.json) |
+| B.U.T.T.O.N. (Brutally Unfair Tactics Totally OK Now) | 92526 | [92526-b-u-t-t-o-n-brutally-unfair-tactics-totally-ok-now.json](./92526-b-u-t-t-o-n-brutally-unfair-tactics-totally-ok-now.json) |
 | Baa! Never Stop Bleating | 295565 | [295565-baa-never-stop-bleating.json](./295565-baa-never-stop-bleating.json) |
 | Baba Is Cool 2 | 301581 | [301581-baba-is-cool-2.json](./301581-baba-is-cool-2.json) |
 | Babe and Friends | 245571 | [245571-babe-and-friends.json](./245571-babe-and-friends.json) |
@@ -604,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksea Odyssey: Limited Edition | 166202 | [166202-blacksea-odyssey-limited-edition.json](./166202-blacksea-odyssey-limited-edition.json) |
 | Blacksmith Forger | 231063 | [231063-blacksmith-forger.json](./231063-blacksmith-forger.json) |
 | Blacksmith Legends | 159348 | [159348-blacksmith-legends.json](./159348-blacksmith-legends.json) |
+| Blackwater 100 | 92540 | [92540-blackwater-100.json](./92540-blackwater-100.json) |
 | Blade Arcus from Shining | 121039 | [121039-blade-arcus-from-shining.json](./121039-blade-arcus-from-shining.json) |
 | Blade Crusade | 190210 | [190210-blade-crusade.json](./190210-blade-crusade.json) |
 | Blade of Dawn | 322361 | [322361-blade-of-dawn.json](./322361-blade-of-dawn.json) |
@@ -874,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Drag Racing: Pro Mod Pack 1 | 255970 | [255970-bounty-drag-racing-pro-mod-pack-1.json](./255970-bounty-drag-racing-pro-mod-pack-1.json) |
 | Bounty Drag Racing: Pro Mod Pack 2 | 255969 | [255969-bounty-drag-racing-pro-mod-pack-2.json](./255969-bounty-drag-racing-pro-mod-pack-2.json) |
 | Bounty Drag Racing: Pro Mod Pack 3 | 274742 | [274742-bounty-drag-racing-pro-mod-pack-3.json](./274742-bounty-drag-racing-pro-mod-pack-3.json) |
+| Bounty Hounds Online | 92495 | [92495-bounty-hounds-online.json](./92495-bounty-hounds-online.json) |
 | Bounty Hunters | 265389 | [265389-bounty-hunters.json](./265389-bounty-hunters.json) |
 | BountyHeart | 213641 | [213641-bountyheart.json](./213641-bountyheart.json) |
 | Bow & Crystal Tower Defense | 157169 | [157169-bow-and-crystal-tower-defense.json](./157169-bow-and-crystal-tower-defense.json) |
