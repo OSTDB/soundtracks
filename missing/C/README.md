@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Café Stella and the Reaper's Butterflies | 195774 | [195774-cafe-stella-and-the-reapers-butterflies.json](./195774-cafe-stella-and-the-reapers-butterflies.json) |
 | Cafe Tsuku: Is the order a Heart? | 204711 | [204711-cafe-tsuku-is-the-order-a-heart.json](./204711-cafe-tsuku-is-the-order-a-heart.json) |
 | Cafeworld | 177027 | [177027-cafeworld.json](./177027-cafeworld.json) |
+| Cagebreak | 60568 | [60568-cagebreak.json](./60568-cagebreak.json) |
 | Cairn | 178665 | [178665-cairn.json](./178665-cairn.json) |
 | Caïssa Board | 152893 | [152893-caissa-board.json](./152893-caissa-board.json) |
 | Cake Bites Make & Bake: Cooking Dessert Kids Game | 109012 | [109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json](./109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json) |
