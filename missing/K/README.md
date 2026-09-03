@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kraken Attack | 318228 | [318228-kraken-attack.json](./318228-kraken-attack.json) |
 | Krashimals | 330558 | [330558-krashimals.json](./330558-krashimals.json) |
 | Kratoria | 187540 | [187540-kratoria.json](./187540-kratoria.json) |
+| Krell | 93032 | [93032-krell.json](./93032-krell.json) |
 | Kremling Krushin | 231605 | [231605-kremling-krushin.json](./231605-kremling-krushin.json) |
 | Krew Eats | 172718 | [172718-krew-eats.json](./172718-krew-eats.json) |
 | Krila | 260943 | [260943-krila.json](./260943-krila.json) |
