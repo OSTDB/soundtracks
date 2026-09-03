@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome To... Chichester OVN: Omnibus Edition | 248334 | [248334-welcome-to-chichester-ovn-omnibus-edition.json](./248334-welcome-to-chichester-ovn-omnibus-edition.json) |
 | Welly Wang VR | 267680 | [267680-welly-wang-vr.json](./267680-welly-wang-vr.json) |
 | Werewolf Pinball | 105930 | [105930-werewolf-pinball.json](./105930-werewolf-pinball.json) |
+| Werner Flaschbier | 91939 | [91939-werner-flaschbier.json](./91939-werner-flaschbier.json) |
 | Werner: Let's Go! | 269305 | [269305-werner-lets-go.json](./269305-werner-lets-go.json) |
 | West Hunt: Halloween Pack2 | 273670 | [273670-west-hunt-halloween-pack2.json](./273670-west-hunt-halloween-pack2.json) |
 | WestHalla | 257681 | [257681-westhalla.json](./257681-westhalla.json) |
@@ -465,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Feud | 131583 | [131583-word-feud.json](./131583-word-feud.json) |
 | Word Finder - Word Connect | 96742 | [96742-word-finder-word-connect.json](./96742-word-finder-word-connect.json) |
 | Word Games - Order letters and create words | 96070 | [96070-word-games-order-letters-and-create-words.json](./96070-word-games-order-letters-and-create-words.json) |
+| Word Mess | 91982 | [91982-word-mess.json](./91982-word-mess.json) |
 | Word of Kitchen | 190702 | [190702-word-of-kitchen.json](./190702-word-of-kitchen.json) |
 | Word Quiz - Funny | 104686 | [104686-word-quiz-funny.json](./104686-word-quiz-funny.json) |
 | Word Search - Puzzle Game For Kids | 108507 | [108507-word-search-puzzle-game-for-kids.json](./108507-word-search-puzzle-game-for-kids.json) |
@@ -543,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Reloaded: Puzzle Pack | 163430 | [163430-worms-reloaded-puzzle-pack.json](./163430-worms-reloaded-puzzle-pack.json) |
 | Wormswarm | 275344 | [275344-wormswarm.json](./275344-wormswarm.json) |
 | Wormwood | 274728 | [274728-wormwood.json](./274728-wormwood.json) |
+| Worry | 91960 | [91960-worry.json](./91960-worry.json) |
 | Worshippers of Cthulhu | 292876 | [292876-worshippers-of-cthulhu.json](./292876-worshippers-of-cthulhu.json) |
 | Worst Case | 320552 | [320552-worst-case.json](./320552-worst-case.json) |
 | Worst Dating Sim | 178658 | [178658-worst-dating-sim.json](./178658-worst-dating-sim.json) |
@@ -567,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreckfest: Vehicle Bundle 2 | 208052 | [208052-wreckfest-vehicle-bundle-2.json](./208052-wreckfest-vehicle-bundle-2.json) |
 | Wrestle Story | 244509 | [244509-wrestle-story.json](./244509-wrestle-story.json) |
 | Wrestling Empire | 142449 | [142449-wrestling-empire.json](./142449-wrestling-empire.json) |
+| Wrestling Revolution Pro | 91987 | [91987-wrestling-revolution-pro.json](./91987-wrestling-revolution-pro.json) |
 | Wrist Nebula | 208020 | [208020-wrist-nebula.json](./208020-wrist-nebula.json) |
 | Wrist Sprinter | 181364 | [181364-wrist-sprinter.json](./181364-wrist-sprinter.json) |
 | Writer Rumble | 92514 | [92514-writer-rumble.json](./92514-writer-rumble.json) |
