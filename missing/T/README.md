@@ -1076,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of the Village's Sacred Tree | 273662 | [273662-the-mystery-of-the-villages-sacred-tree.json](./273662-the-mystery-of-the-villages-sacred-tree.json) |
 | The Mystifying Trial | 163455 | [163455-the-mystifying-trial.json](./163455-the-mystifying-trial.json) |
 | The Nerve Game | 180256 | [180256-the-nerve-game.json](./180256-the-nerve-game.json) |
+| The New California | 61649 | [61649-the-new-california.json](./61649-the-new-california.json) |
 | The New Universes: Eine Neue Reise Beginnt - Chapter 1 | 120391 | [120391-the-new-universes-eine-neue-reise-beginnt-chapter-1.json](./120391-the-new-universes-eine-neue-reise-beginnt-chapter-1.json) |
 | The Next Big Thing | 264879 | [264879-the-next-big-thing.json](./264879-the-next-big-thing.json) |
 | The Night of Erosion: Prequel | 267677 | [267677-the-night-of-erosion-prequel.json](./267677-the-night-of-erosion-prequel.json) |
@@ -1119,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Patient: After Hours | 207495 | [207495-the-patient-after-hours.json](./207495-the-patient-after-hours.json) |
 | The Patient: Can You Escape? | 325832 | [325832-the-patient-can-you-escape.json](./325832-the-patient-can-you-escape.json) |
 | The Peacekeeper | 307300 | [307300-the-peacekeeper.json](./307300-the-peacekeeper.json) |
+| The Peak Addiction | 61637 | [61637-the-peak-addiction.json](./61637-the-peak-addiction.json) |
 | The Pepper Prince: Episode 3 - Into Thin Air | 302136 | [302136-the-pepper-prince-episode-3-into-thin-air.json](./302136-the-pepper-prince-episode-3-into-thin-air.json) |
 | The Pepper Prince: Episode 4 - Lover's Peak | 302137 | [302137-the-pepper-prince-episode-4-lovers-peak.json](./302137-the-pepper-prince-episode-4-lovers-peak.json) |
 | The Pepper Prince: Prologue | 302135 | [302135-the-pepper-prince-prologue.json](./302135-the-pepper-prince-prologue.json) |
