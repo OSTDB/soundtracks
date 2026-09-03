@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New English Training: Learning with Tempo - Advanced Edition | 260942 | [260942-new-english-training-learning-with-tempo-advanced-edition.json](./260942-new-english-training-learning-with-tempo-advanced-edition.json) |
 | New English Training: Learning with Tempo - Beginners Edition | 260944 | [260944-new-english-training-learning-with-tempo-beginners-edition.json](./260944-new-english-training-learning-with-tempo-beginners-edition.json) |
 | New Era | 135862 | [135862-new-era.json](./135862-new-era.json) |
+| New Hyu Stone | 60549 | [60549-new-hyu-stone.json](./60549-new-hyu-stone.json) |
 | New Journey to the West | 320543 | [320543-new-journey-to-the-west.json](./320543-new-journey-to-the-west.json) |
 | New Lands 1 | 252390 | [252390-new-lands-1.json](./252390-new-lands-1.json) |
 | New Life | 311796 | [311796-new-life.json](./311796-new-life.json) |
@@ -415,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Warz | 314669 | [314669-ninja-warz.json](./314669-ninja-warz.json) |
 | Ninja's Creed | 227473 | [227473-ninjas-creed.json](./227473-ninjas-creed.json) |
 | NinJump Rush | 220828 | [220828-ninjump-rush.json](./220828-ninjump-rush.json) |
+| Ninku Dai-ni-Tama: Ninku Sensou-hen | 60537 | [60537-ninku-dai-ni-tama-ninku-sensou-hen.json](./60537-ninku-dai-ni-tama-ninku-sensou-hen.json) |
 | Ninpek | 317577 | [317577-ninpek.json](./317577-ninpek.json) |
 | Ninpuchi! Cryptoninja Petit | 333933 | [333933-ninpuchi-cryptoninja-petit.json](./333933-ninpuchi-cryptoninja-petit.json) |
 | Ninshi Masuta | 131617 | [131617-ninshi-masuta.json](./131617-ninshi-masuta.json) |
@@ -537,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nor'Easter | 119754 | [119754-noreaster.json](./119754-noreaster.json) |
 | Nora to Oujo to Noraneko Heart 2 | 205267 | [205267-nora-to-oujo-to-noraneko-heart-2.json](./205267-nora-to-oujo-to-noraneko-heart-2.json) |
 | Nora's Dream | 200732 | [200732-noras-dream.json](./200732-noras-dream.json) |
+| Norman | 60590 | [60590-norman.json](./60590-norman.json) |
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
 | NoRoY | 193490 | [193490-noroy.json](./193490-noroy.json) |
 | North Stars | 102143 | [102143-north-stars.json](./102143-north-stars.json) |
@@ -568,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nous | 231094 | [231094-nous.json](./231094-nous.json) |
 | Nova Antarctica | 213605 | [213605-nova-antarctica.json](./213605-nova-antarctica.json) |
 | Nova Dash | 256530 | [256530-nova-dash.json](./256530-nova-dash.json) |
+| Nova Force | 60583 | [60583-nova-force.json](./60583-nova-force.json) |
 | Nova: The Birth | 138830 | [138830-nova-the-birth.json](./138830-nova-the-birth.json) |
 | Nova's Adventure | 316397 | [316397-novas-adventure.json](./316397-novas-adventure.json) |
 | Novena Diabolos | 132267 | [132267-novena-diabolos.json](./132267-novena-diabolos.json) |
