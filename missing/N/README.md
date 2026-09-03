@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northgard: Hræsvelg, Clan of the Eagle | 218693 | [218693-northgard-hr-svelg-clan-of-the-eagle.json](./218693-northgard-hr-svelg-clan-of-the-eagle.json) |
 | NorthStar | 55207 | [55207-northstar.json](./55207-northstar.json) |
 | NoseBound | 132821 | [132821-nosebound.json](./132821-nosebound.json) |
+| NoserLand | 51960 | [51960-noserland.json](./51960-noserland.json) |
 | Nostalgiarian | 127375 | [127375-nostalgiarian.json](./127375-nostalgiarian.json) |
 | Nostalgic Entropy: Neo Retro | 312899 | [312899-nostalgic-entropy-neo-retro.json](./312899-nostalgic-entropy-neo-retro.json) |
 | Nostos | 107252 | [107252-nostos.json](./107252-nostos.json) |
