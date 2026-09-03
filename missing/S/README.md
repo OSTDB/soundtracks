@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.S. Mission | 40252 | [40252-s-s-mission.json](./40252-s-s-mission.json) |
 | S.T.A.L.K.E.R.: Oblivion Lost Remake | 138257 | [138257-s-t-a-l-k-e-r-oblivion-lost-remake.json](./138257-s-t-a-l-k-e-r-oblivion-lost-remake.json) |
 | S.T.A.L.K.E.R.: Wind of Time | 138799 | [138799-s-t-a-l-k-e-r-wind-of-time.json](./138799-s-t-a-l-k-e-r-wind-of-time.json) |
+| S.T.G: Strike Gunner | 39692 | [39692-s-t-g-strike-gunner.json](./39692-s-t-g-strike-gunner.json) |
 | S7 Mexico | 218728 | [218728-s7-mexico.json](./218728-s7-mexico.json) |
 | Saadex: Perpetual Storm | 270933 | [270933-saadex-perpetual-storm.json](./270933-saadex-perpetual-storm.json) |
 | Sable Maze: Forbidden Garden & Sable Maze: Twelve Fears | 201822 | [201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json](./201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json) |
@@ -1454,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Unite | 336359 | [336359-sonic-unite.json](./336359-sonic-unite.json) |
 | Sonic Vex | 330520 | [330520-sonic-vex.json](./330520-sonic-vex.json) |
 | Sonic Wild | 317612 | [317612-sonic-wild.json](./317612-sonic-wild.json) |
+| Sonic Wings Limited | 39693 | [39693-sonic-wings-limited.json](./39693-sonic-wings-limited.json) |
 | Sonic X-Treme | 336383 | [336383-sonic-x-treme.json](./336383-sonic-x-treme.json) |
 | Sonic X-Treme Revitalized | 326953 | [326953-sonic-x-treme-revitalized.json](./326953-sonic-x-treme-revitalized.json) |
 | Sonic X: Emerald Grab | 269876 | [269876-sonic-x-emerald-grab.json](./269876-sonic-x-emerald-grab.json) |
@@ -1721,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spikey Walls | 59445 | [59445-spikey-walls.json](./59445-spikey-walls.json) |
 | Spin City | 189199 | [189199-spin-city.json](./189199-spin-city.json) |
 | Spin or Die | 311247 | [311247-spin-or-die.json](./311247-spin-or-die.json) |
+| Spinal Breakers | 39666 | [39666-spinal-breakers.json](./39666-spinal-breakers.json) |
 | SpinDrive Ping Pong | 43354 | [43354-spindrive-ping-pong.json](./43354-spindrive-ping-pong.json) |
 | Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
 | SpinZap | 133469 | [133469-spinzap.json](./133469-spinzap.json) |
@@ -1859,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stagger 1 | 40250 | [40250-stagger-1.json](./40250-stagger-1.json) |
 | Staircase55 | 253603 | [253603-staircase55.json](./253603-staircase55.json) |
 | Stairs of Basically | 259839 | [259839-stairs-of-basically.json](./259839-stairs-of-basically.json) |
+| Stakes Winner | 39626 | [39626-stakes-winner.json](./39626-stakes-winner.json) |
 | Stalin vs. Martians 4 | 117736 | [117736-stalin-vs-martians-4.json](./117736-stalin-vs-martians-4.json) |
 | Stalker Defender Bunker 3D | 89238 | [89238-stalker-defender-bunker-3d.json](./89238-stalker-defender-bunker-3d.json) |
 | Stallions in America | 199117 | [199117-stallions-in-america.json](./199117-stallions-in-america.json) |
@@ -2028,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Division 2: Nemesis - Battle of Rimini | 143080 | [143080-steel-division-2-nemesis-battle-of-rimini.json](./143080-steel-division-2-nemesis-battle-of-rimini.json) |
 | Steel Dragon Ex | 43341 | [43341-steel-dragon-ex.json](./43341-steel-dragon-ex.json) |
 | Steel Empire | 49383 | [49383-steel-empire.json](./49383-steel-empire.json) |
+| Steel Force | 39670 | [39670-steel-force.json](./39670-steel-force.json) |
 | Steel Hunters | 301568 | [301568-steel-hunters.json](./301568-steel-hunters.json) |
 | Steel Manticore | 295016 | [295016-steel-manticore.json](./295016-steel-manticore.json) |
 | Steel Thunder | 244476 | [244476-steel-thunder.json](./244476-steel-thunder.json) |
