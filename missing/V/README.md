@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Casino Games | 137099 | [137099-video-casino-games.json](./137099-video-casino-games.json) |
 | Video Game Feminization Hypnosis | 146905 | [146905-video-game-feminization-hypnosis.json](./146905-video-game-feminization-hypnosis.json) |
 | Video Poker | 272552 | [272552-video-poker.json](./272552-video-poker.json) |
+| Video Time Machine | 40770 | [40770-video-time-machine.json](./40770-video-time-machine.json) |
 | Video's Revenge | 178065 | [178065-videos-revenge.json](./178065-videos-revenge.json) |
 | Videoclub Simulator | 339093 | [339093-videoclub-simulator.json](./339093-videoclub-simulator.json) |
 | Videophobia | 327615 | [327615-videophobia.json](./327615-videophobia.json) |
