@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JailBreaker | 274775 | [274775-jailbreaker.json](./274775-jailbreaker.json) |
 | Jak and Daxter: The Precursor Legacy | 302690 | [302690-jak-and-daxter-the-precursor-legacy.json](./302690-jak-and-daxter-the-precursor-legacy.json) |
 | Jak and Daxter: The Precursor Legacy | 325261 | [325261-jak-and-daxter-the-precursor-legacy.json](./325261-jak-and-daxter-the-precursor-legacy.json) |
+| Jaki Crush | 38361 | [38361-jaki-crush.json](./38361-jaki-crush.json) |
 | Jakou no Lyla: Trap of Musk | 116381 | [116381-jakou-no-lyla-trap-of-musk.json](./116381-jakou-no-lyla-trap-of-musk.json) |
 | Jaleco Sports: Bases Loaded | 338551 | [338551-jaleco-sports-bases-loaded.json](./338551-jaleco-sports-bases-loaded.json) |
 | Jamco Matefest 3013 | 128614 | [128614-jamco-matefest-3013.json](./128614-jamco-matefest-3013.json) |
@@ -86,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelda II | 78705 | [78705-jelda-ii.json](./78705-jelda-ii.json) |
 | Jellies! | 221430 | [221430-jellies.json](./221430-jellies.json) |
 | Jellitito | 340770 | [340770-jellitito.json](./340770-jellitito.json) |
+| Jelly Boy 2 | 38364 | [38364-jelly-boy-2.json](./38364-jelly-boy-2.json) |
 | Jelly Fruits Adventure: Magic Match 3 Puzzle | 262099 | [262099-jelly-fruits-adventure-magic-match-3-puzzle.json](./262099-jelly-fruits-adventure-magic-match-3-puzzle.json) |
 | Jelly Lab Reloaded | 246082 | [246082-jelly-lab-reloaded.json](./246082-jelly-lab-reloaded.json) |
 | Jelly Monsters | 60573 | [60573-jelly-monsters.json](./60573-jelly-monsters.json) |
@@ -166,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsu | 79944 | [79944-jigsu.json](./79944-jigsu.json) |
 | Jikkyou J.League 1999 Perfect Striker | 220858 | [220858-jikkyou-j-league-1999-perfect-striker.json](./220858-jikkyou-j-league-1999-perfect-striker.json) |
 | Jikkyou J.League Perfect Striker 5 | 220863 | [220863-jikkyou-j-league-perfect-striker-5.json](./220863-jikkyou-j-league-perfect-striker-5.json) |
+| Jikkyou Oshaberi Parodius | 38390 | [38390-jikkyou-oshaberi-parodius.json](./38390-jikkyou-oshaberi-parodius.json) |
 | Jikkyou Pawafuru Pro Yakyuu '96: Kaimaku-ban | 42644 | [42644-jikkyou-pawafuru-pro-yakyuu-96-kaimaku-ban.json](./42644-jikkyou-pawafuru-pro-yakyuu-96-kaimaku-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 3 | 42642 | [42642-jikkyou-pawafuru-puroyakyu-3.json](./42642-jikkyou-pawafuru-puroyakyu-3.json) |
 | Jill O' Lantern: Final Cut | 319360 | [319360-jill-o-lantern-final-cut.json](./319360-jill-o-lantern-final-cut.json) |
