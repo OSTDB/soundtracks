@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If Nil then | 201326 | [201326-if-nil-then.json](./201326-if-nil-then.json) |
 | iF-22 | 95458 | [95458-if-22.json](./95458-if-22.json) |
 | iFarkle | 104658 | [104658-ifarkle.json](./104658-ifarkle.json) |
+| iFighter 1945 | 91940 | [91940-ifighter-1945.json](./91940-ifighter-1945.json) |
 | IFU | 274774 | [274774-ifu.json](./274774-ifu.json) |
 | IGKnight | 238720 | [238720-igknight.json](./238720-igknight.json) |
 | Ignisia | 328239 | [328239-ignisia.json](./328239-ignisia.json) |
