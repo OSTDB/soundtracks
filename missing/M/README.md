@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major League Baseball 2K6 | 240488 | [240488-major-league-baseball-2k6.json](./240488-major-league-baseball-2k6.json) |
 | Majorelle Mystery | 232705 | [232705-majorelle-mystery.json](./232705-majorelle-mystery.json) |
 | Majyo no Nebaneba Note | 336940 | [336940-majyo-no-nebaneba-note.json](./336940-majyo-no-nebaneba-note.json) |
+| Makaimura Online | 63297 | [63297-makaimura-online.json](./63297-makaimura-online.json) |
 | Make a Friend | 201828 | [201828-make-a-friend.json](./201828-make-a-friend.json) |
 | Make a Scene: Dinosaurs | 96044 | [96044-make-a-scene-dinosaurs.json](./96044-make-a-scene-dinosaurs.json) |
 | Make It In Time | 214164 | [214164-make-it-in-time.json](./214164-make-it-in-time.json) |
@@ -1132,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Knockout | 224755 | [224755-monster-knockout.json](./224755-monster-knockout.json) |
 | Monster Loves You Too! | 214153 | [214153-monster-loves-you-too.json](./214153-monster-loves-you-too.json) |
 | Monster Maker: Yami no Ryuukishi | 63878 | [63878-monster-maker-yami-no-ryuukishi.json](./63878-monster-maker-yami-no-ryuukishi.json) |
+| Monster Meltdown | 63284 | [63284-monster-meltdown.json](./63284-monster-meltdown.json) |
 | Monster Milktruck! | 145670 | [145670-monster-milktruck.json](./145670-monster-milktruck.json) |
 | Monster Mystery | 224789 | [224789-monster-mystery.json](./224789-monster-mystery.json) |
 | Monster Never Cry | 297253 | [297253-monster-never-cry.json](./297253-monster-never-cry.json) |
@@ -1386,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Makes Strange Deadfellows | 73320 | [73320-murder-makes-strange-deadfellows.json](./73320-murder-makes-strange-deadfellows.json) |
 | Murder on the Spaceship Altair | 312330 | [312330-murder-on-the-spaceship-altair.json](./312330-murder-on-the-spaceship-altair.json) |
 | Murder Reservation | 129205 | [129205-murder-reservation.json](./129205-murder-reservation.json) |
+| MurderHobo: Aggravation Quest | 63289 | [63289-murderhobo-aggravation-quest.json](./63289-murderhobo-aggravation-quest.json) |
 | Murderwave: Digital Slaughter | 121011 | [121011-murderwave-digital-slaughter.json](./121011-murderwave-digital-slaughter.json) |
 | Murkon's Refuge | 65490 | [65490-murkons-refuge.json](./65490-murkons-refuge.json) |
 | Murkon's Vengeance | 65491 | [65491-murkons-vengeance.json](./65491-murkons-vengeance.json) |
