@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemo Kare! Oretachi no BL Byoutou | 240515 | [240515-kemo-kare-oretachi-no-bl-byoutou.json](./240515-kemo-kare-oretachi-no-bl-byoutou.json) |
 | Kemono Friends Pavilion | 214738 | [214738-kemono-friends-pavilion.json](./214738-kemono-friends-pavilion.json) |
 | Kemono Friends: Opening Day | 247776 | [247776-kemono-friends-opening-day.json](./247776-kemono-friends-opening-day.json) |
+| Ken to Mahou to Gakuen Mono. Final: Shinnyusei wa Ohimesama! | 63896 | [63896-ken-to-mahou-to-gakuen-mono-final-shinnyusei-wa-ohimesama.json](./63896-ken-to-mahou-to-gakuen-mono-final-shinnyusei-wa-ohimesama.json) |
 | Ken's Labyrinth II | 309654 | [309654-kens-labyrinth-ii.json](./309654-kens-labyrinth-ii.json) |
 | Kenchana: Oath of a Magical Spear | 238756 | [238756-kenchana-oath-of-a-magical-spear.json](./238756-kenchana-oath-of-a-magical-spear.json) |
 | Kengohazard 2 | 118418 | [118418-kengohazard-2.json](./118418-kengohazard-2.json) |
