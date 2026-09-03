@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Knight Chronicles II | 314050 | [314050-white-knight-chronicles-ii.json](./314050-white-knight-chronicles-ii.json) |
 | White Knight Chronicles: International EX Edition | 268742 | [268742-white-knight-chronicles-international-ex-edition.json](./268742-white-knight-chronicles-international-ex-edition.json) |
 | White Mask | 136487 | [136487-white-mask.json](./136487-white-mask.json) |
+| White Men Can't Jump | 40821 | [40821-white-men-cant-jump.json](./40821-white-men-cant-jump.json) |
 | White Mirror | 214734 | [214734-white-mirror.json](./214734-white-mirror.json) |
 | White Pearl | 76663 | [76663-white-pearl.json](./76663-white-pearl.json) |
 | White Rabbit | 161356 | [161356-white-rabbit.json](./161356-white-rabbit.json) |
