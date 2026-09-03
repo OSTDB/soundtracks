@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Rage: Mech Conflict | 78683 | [78683-battle-rage-mech-conflict.json](./78683-battle-rage-mech-conflict.json) |
 | Battle Rift | 211428 | [211428-battle-rift.json](./211428-battle-rift.json) |
 | Battle Royale with Cheese | 295529 | [295529-battle-royale-with-cheese.json](./295529-battle-royale-with-cheese.json) |
+| Battle Runner | 75919 | [75919-battle-runner.json](./75919-battle-runner.json) |
 | Battle Sage | 217517 | [217517-battle-sage.json](./217517-battle-sage.json) |
 | Battle Skin Panic | 91463 | [91463-battle-skin-panic.json](./91463-battle-skin-panic.json) |
 | Battle Slugs | 261522 | [261522-battle-slugs.json](./261522-battle-slugs.json) |
@@ -722,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block_Up | 265408 | [265408-block-up.json](./265408-block-up.json) |
 | Blockade Runner | 297244 | [297244-blockade-runner.json](./297244-blockade-runner.json) |
 | Blockdown | 157204 | [157204-blockdown.json](./157204-blockdown.json) |
+| Blocker Survive | 75849 | [75849-blocker-survive.json](./75849-blocker-survive.json) |
 | Blocker.io | 194036 | [194036-blocker-io.json](./194036-blocker-io.json) |
 | Blockpost Mobile | 225875 | [225875-blockpost-mobile.json](./225875-blockpost-mobile.json) |
 | Blocks | 208625 | [208625-blocks.json](./208625-blocks.json) |
