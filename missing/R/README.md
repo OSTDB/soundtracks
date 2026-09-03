@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversion: The Return | 130398 | [130398-reversion-the-return.json](./130398-reversion-the-return.json) |
 | Revolt Legion VR | 254138 | [254138-revolt-legion-vr.json](./254138-revolt-legion-vr.json) |
 | Revolution | 81387 | [81387-revolution.json](./81387-revolution.json) |
+| Revolver360 | 79926 | [79926-revolver360.json](./79926-revolver360.json) |
 | Rewilder | 303782 | [303782-rewilder.json](./303782-rewilder.json) |
 | Rex Blade: The Battle Begins | 209165 | [209165-rex-blade-the-battle-begins.json](./209165-rex-blade-the-battle-begins.json) |
 | Rex! Your Interactive Pet Dinosaur | 313491 | [313491-rex-your-interactive-pet-dinosaur.json](./313491-rex-your-interactive-pet-dinosaur.json) |
