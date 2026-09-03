@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone 400 | 255338 | [255338-zone-400.json](./255338-zone-400.json) |
 | Zone 66 | 73826 | [73826-zone-66.json](./73826-zone-66.json) |
 | Zone B Korosu | 161391 | [161391-zone-b-korosu.json](./161391-zone-b-korosu.json) |
+| Zone of the Enders HD Collection: Limited Collector's Edition | 44659 | [44659-zone-of-the-enders-hd-collection-limited-collectors-edition.json](./44659-zone-of-the-enders-hd-collection-limited-collectors-edition.json) |
 | Zoo Explorers | 170026 | [170026-zoo-explorers.json](./170026-zoo-explorers.json) |
 | Zoo Vet | 79929 | [79929-zoo-vet.json](./79929-zoo-vet.json) |
 | Zookeeper DX Touch Edition | 104109 | [104109-zookeeper-dx-touch-edition.json](./104109-zookeeper-dx-touch-edition.json) |
