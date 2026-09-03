@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Ten | 311292 | [311292-phantom-ten.json](./311292-phantom-ten.json) |
 | Phantom Whispers | 291257 | [291257-phantom-whispers.json](./291257-phantom-whispers.json) |
 | Phantom Zone: Talon Fictions | 210897 | [210897-phantom-zone-talon-fictions.json](./210897-phantom-zone-talon-fictions.json) |
+| Phantomas 2 | 45344 | [45344-phantomas-2.json](./45344-phantomas-2.json) |
 | Phantoms | 278152 | [278152-phantoms.json](./278152-phantoms.json) |
 | Phar Lap: Horse Racing Challenge | 116374 | [116374-phar-lap-horse-racing-challenge.json](./116374-phar-lap-horse-racing-challenge.json) |
 | Pharaoh's Revenge | 55206 | [55206-pharaohs-revenge.json](./55206-pharaohs-revenge.json) |
@@ -721,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetes | 184628 | [184628-planetes.json](./184628-planetes.json) |
 | PlanetExplorerVR | 101566 | [101566-planetexplorervr.json](./101566-planetexplorervr.json) |
 | Planetoids | 210873 | [210873-planetoids.json](./210873-planetoids.json) |
+| Planetoids | 45353 | [45353-planetoids.json](./45353-planetoids.json) |
 | PlanetSmith | 263777 | [263777-planetsmith.json](./263777-planetsmith.json) |
 | Planetstar Warrior | 290689 | [290689-planetstar-warrior.json](./290689-planetstar-warrior.json) |
 | Plank! | 105913 | [105913-plank.json](./105913-plank.json) |
