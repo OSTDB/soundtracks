@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Simulator: Patrol Officers - Gold Edition | 293933 | [293933-police-simulator-patrol-officers-gold-edition.json](./293933-police-simulator-patrol-officers-gold-edition.json) |
 | Police Station Cop Inc: Tycoon | 174884 | [174884-police-station-cop-inc-tycoon.json](./174884-police-station-cop-inc-tycoon.json) |
 | Police Stories: Zombie Case | 195756 | [195756-police-stories-zombie-case.json](./195756-police-stories-zombie-case.json) |
+| Police: Chase Down | 82131 | [82131-police-chase-down.json](./82131-police-chase-down.json) |
 | Political Arena | 180303 | [180303-political-arena.json](./180303-political-arena.json) |
 | Politics The Game | 304903 | [304903-politics-the-game.json](./304903-politics-the-game.json) |
 | Pollution | 316416 | [316416-pollution.json](./316416-pollution.json) |
