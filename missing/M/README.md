@@ -42,6 +42,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Daedalus | 218160 | [218160-mad-daedalus.json](./218160-mad-daedalus.json) |
 | Mad Finger Marathon | 233209 | [233209-mad-finger-marathon.json](./233209-mad-finger-marathon.json) |
 | Mad Gun Range VR Simulator | 115689 | [115689-mad-gun-range-vr-simulator.json](./115689-mad-gun-range-vr-simulator.json) |
+| Mad Martha | 45367 | [45367-mad-martha.json](./45367-mad-martha.json) |
+| Mad Martha 2 | 45366 | [45366-mad-martha-2.json](./45366-mad-martha-2.json) |
 | Mad Max: Ripper Special Edition | 89930 | [89930-mad-max-ripper-special-edition.json](./89930-mad-max-ripper-special-edition.json) |
 | Mad Murder's Mystery Pie Shop | 196891 | [196891-mad-murders-mystery-pie-shop.json](./196891-mad-murders-mystery-pie-shop.json) |
 | Mad News | 265973 | [265973-mad-news.json](./265973-mad-news.json) |
@@ -344,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshmallow Infinity | 182539 | [182539-marshmallow-infinity.json](./182539-marshmallow-infinity.json) |
 | Marshmallow Madness | 122431 | [122431-marshmallow-madness.json](./122431-marshmallow-madness.json) |
 | Marshmallow Marvin: Templestone | 336928 | [336928-marshmallow-marvin-templestone.json](./336928-marshmallow-marvin-templestone.json) |
+| Marsport | 45327 | [45327-marsport.json](./45327-marsport.json) |
 | Marswar TD | 169465 | [169465-marswar-td.json](./169465-marswar-td.json) |
 | Martha | 144357 | [144357-martha.json](./144357-martha.json) |
 | Martian Wars | 137692 | [137692-martian-wars.json](./137692-martian-wars.json) |
@@ -568,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Veg Man | 148538 | [148538-mega-veg-man.json](./148538-mega-veg-man.json) |
 | Mega Zombie | 146875 | [146875-mega-zombie.json](./146875-mega-zombie.json) |
 | Mega-Bots | 214776 | [214776-mega-bots.json](./214776-mega-bots.json) |
+| Mega-Corp | 45345 | [45345-mega-corp.json](./45345-mega-corp.json) |
 | MegaAri | 205788 | [205788-megaari.json](./205788-megaari.json) |
 | Megadimension Neptunia VII: Party Character - God Eater | 238177 | [238177-megadimension-neptunia-vii-party-character-god-eater.json](./238177-megadimension-neptunia-vii-party-character-god-eater.json) |
 | Megadimension Neptunia VII: Party Character - Nitroplus | 238178 | [238178-megadimension-neptunia-vii-party-character-nitroplus.json](./238178-megadimension-neptunia-vii-party-character-nitroplus.json) |
