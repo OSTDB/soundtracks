@@ -439,6 +439,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles - DLC 3 | 313511 | [313511-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-3.json](./313511-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-3.json) |
 | That's How Sumireko's Roach Stomping Mafia Works | 123593 | [123593-thats-how-sumirekos-roach-stomping-mafia-works.json](./123593-thats-how-sumirekos-roach-stomping-mafia-works.json) |
 | That's Not How it Happened | 209131 | [209131-thats-not-how-it-happened.json](./209131-thats-not-how-it-happened.json) |
+| That's So Raven | 49407 | [49407-thats-so-raven.json](./49407-thats-so-raven.json) |
+| That's So Raven 2: Supernatural Style | 49406 | [49406-thats-so-raven-2-supernatural-style.json](./49406-thats-so-raven-2-supernatural-style.json) |
 | The 13th Floor | 298323 | [298323-the-13th-floor.json](./298323-the-13th-floor.json) |
 | The 4th Unit | 78724 | [78724-the-4th-unit.json](./78724-the-4th-unit.json) |
 | The 4th Unit 2 | 78725 | [78725-the-4th-unit-2.json](./78725-the-4th-unit-2.json) |
@@ -587,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Charity Shop | 333942 | [333942-the-charity-shop.json](./333942-the-charity-shop.json) |
 | The Charm of Love | 157158 | [157158-the-charm-of-love.json](./157158-the-charm-of-love.json) |
 | The Chaste Full-Metal Maiden - Leiria | 124262 | [124262-the-chaste-full-metal-maiden-leiria.json](./124262-the-chaste-full-metal-maiden-leiria.json) |
+| The Cheetah Girls | 49367 | [49367-the-cheetah-girls.json](./49367-the-cheetah-girls.json) |
 | The Chick C | 191265 | [191265-the-chick-c.json](./191265-the-chick-c.json) |
 | The Chicken Bandit | 61117 | [61117-the-chicken-bandit.json](./61117-the-chicken-bandit.json) |
 | The Christmas Spirit: Grimm Tales | 139430 | [139430-the-christmas-spirit-grimm-tales.json](./139430-the-christmas-spirit-grimm-tales.json) |
@@ -936,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XV: Team Garou | 195801 | [195801-the-king-of-fighters-xv-team-garou.json](./195801-the-king-of-fighters-xv-team-garou.json) |
 | The King's League | 294419 | [294419-the-kings-league.json](./294419-the-kings-league.json) |
 | The King's League: Emblems | 294421 | [294421-the-kings-league-emblems.json](./294421-the-kings-league-emblems.json) |
+| The Koala Brothers: Outback Adventures | 49398 | [49398-the-koala-brothers-outback-adventures.json](./49398-the-koala-brothers-outback-adventures.json) |
 | The Kore Gang: Outvasion from Inner Earth | 72687 | [72687-the-kore-gang-outvasion-from-inner-earth.json](./72687-the-kore-gang-outvasion-from-inner-earth.json) |
 | The Kwanstone Project | 214751 | [214751-the-kwanstone-project.json](./214751-the-kwanstone-project.json) |
 | The Labyrinth Adventure of Demons | 195255 | [195255-the-labyrinth-adventure-of-demons.json](./195255-the-labyrinth-adventure-of-demons.json) |
@@ -1506,6 +1510,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wild | 64971 | [64971-the-wild.json](./64971-the-wild.json) |
 | The Wild Case | 126639 | [126639-the-wild-case.json](./126639-the-wild-case.json) |
 | The Wild Darkness | 212474 | [212474-the-wild-darkness.json](./212474-the-wild-darkness.json) |
+| The Wild Thornberrys Movie | 49372 | [49372-the-wild-thornberrys-movie.json](./49372-the-wild-thornberrys-movie.json) |
+| The Wild Thornberrys: Chimp Chase | 49373 | [49373-the-wild-thornberrys-chimp-chase.json](./49373-the-wild-thornberrys-chimp-chase.json) |
 | The Will of Dr. Frankenstein | 66715 | [66715-the-will-of-dr-frankenstein.json](./66715-the-will-of-dr-frankenstein.json) |
 | The Wind's Disciple | 265935 | [265935-the-winds-disciple.json](./265935-the-winds-disciple.json) |
 | The Windows Are Gone | 267093 | [267093-the-windows-are-gone.json](./267093-the-windows-are-gone.json) |
@@ -2459,6 +2465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trolley Folly | 248327 | [248327-trolley-folly.json](./248327-trolley-folly.json) |
 | Trollface Launch | 234908 | [234908-trollface-launch.json](./234908-trollface-launch.json) |
 | Trolls Remix Rescue | 261537 | [261537-trolls-remix-rescue.json](./261537-trolls-remix-rescue.json) |
+| Trollz: Hair Affair! | 49375 | [49375-trollz-hair-affair.json](./49375-trollz-hair-affair.json) |
 | Tron | 89933 | [89933-tron.json](./89933-tron.json) |
 | Tron Run/r: Deluxe Edition | 53853 | [53853-tron-run-r-deluxe-edition.json](./53853-tron-run-r-deluxe-edition.json) |
 | Tron Run/r: Ultimate Edition | 53852 | [53852-tron-run-r-ultimate-edition.json](./53852-tron-run-r-ultimate-edition.json) |
