@@ -1027,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Evolution Soccer 2017 | 240468 | [240468-pro-evolution-soccer-2017.json](./240468-pro-evolution-soccer-2017.json) |
 | Pro Evolution Soccer 2019 | 240471 | [240471-pro-evolution-soccer-2019.json](./240471-pro-evolution-soccer-2019.json) |
 | Pro Evolution Soccer 2019 | 240473 | [240473-pro-evolution-soccer-2019.json](./240473-pro-evolution-soccer-2019.json) |
+| Pro Fishing Challenge | 78688 | [78688-pro-fishing-challenge.json](./78688-pro-fishing-challenge.json) |
 | Pro Fishing Simulator: Predator Edition | 115022 | [115022-pro-fishing-simulator-predator-edition.json](./115022-pro-fishing-simulator-predator-edition.json) |
 | Pro Flight Simulator: Deluxe | 324128 | [324128-pro-flight-simulator-deluxe.json](./324128-pro-flight-simulator-deluxe.json) |
 | Pro Gamer Tycoon | 103471 | [103471-pro-gamer-tycoon.json](./103471-pro-gamer-tycoon.json) |
@@ -1148,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prophecy | 133435 | [133435-prophecy.json](./133435-prophecy.json) |
 | Prophecy of the Nun | 165657 | [165657-prophecy-of-the-nun.json](./165657-prophecy-of-the-nun.json) |
 | Prospector | 296680 | [296680-prospector.json](./296680-prospector.json) |
+| Prost Grand Prix 1998 | 78696 | [78696-prost-grand-prix-1998.json](./78696-prost-grand-prix-1998.json) |
 | Protect Mother | 241631 | [241631-protect-mother.json](./241631-protect-mother.json) |
 | Protecting Santa | 192986 | [192986-protecting-santa.json](./192986-protecting-santa.json) |
 | Protector | 95461 | [95461-protector.json](./95461-protector.json) |
