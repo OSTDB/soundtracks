@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lobotrypo | 332254 | [332254-lobotrypo.json](./332254-lobotrypo.json) |
 | Loca-Love: My Pure Priestess | 146302 | [146302-loca-love-my-pure-priestess.json](./146302-loca-love-my-pure-priestess.json) |
 | Loch Ness | 182506 | [182506-loch-ness.json](./182506-loch-ness.json) |
+| Lock | 68655 | [68655-lock.json](./68655-lock.json) |
 | Lock 'n Load Tactical Digital: Battles to the Rhine - Battlepack | 158746 | [158746-lock-n-load-tactical-digital-battles-to-the-rhine-battlepack.json](./158746-lock-n-load-tactical-digital-battles-to-the-rhine-battlepack.json) |
 | Lock 'n Load Tactical Digital: Bear and the Jackal - Battlepack | 158741 | [158741-lock-n-load-tactical-digital-bear-and-the-jackal-battlepack.json](./158741-lock-n-load-tactical-digital-bear-and-the-jackal-battlepack.json) |
 | Lock 'n Load Tactical Digital: For the Emperor - Battlepack | 158738 | [158738-lock-n-load-tactical-digital-for-the-emperor-battlepack.json](./158738-lock-n-load-tactical-digital-for-the-emperor-battlepack.json) |
