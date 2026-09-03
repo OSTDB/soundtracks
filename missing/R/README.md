@@ -1155,3 +1155,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rytmik: Rock Edition | 84905 | [84905-rytmik-rock-edition.json](./84905-rytmik-rock-edition.json) |
 | Rytmos | 158197 | [158197-rytmos.json](./158197-rytmos.json) |
 | Ryu Jin | 40253 | [40253-ryu-jin.json](./40253-ryu-jin.json) |
+| Ryuuko no Ken 2 | 38347 | [38347-ryuuko-no-ken-2.json](./38347-ryuuko-no-ken-2.json) |
