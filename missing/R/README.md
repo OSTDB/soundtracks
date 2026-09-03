@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raging Bytes | 246079 | [246079-raging-bytes.json](./246079-raging-bytes.json) |
 | Ragnania HD | 109711 | [109711-ragnania-hd.json](./109711-ragnania-hd.json) |
 | Ragnarok Idle Adventure Plus | 335646 | [335646-ragnarok-idle-adventure-plus.json](./335646-ragnarok-idle-adventure-plus.json) |
+| Ragnarok Odyssey ACE: Launch Edition | 42668 | [42668-ragnarok-odyssey-ace-launch-edition.json](./42668-ragnarok-odyssey-ace-launch-edition.json) |
 | Ragnarok Online / Grand Chase | 80588 | [80588-ragnarok-online-grand-chase.json](./80588-ragnarok-online-grand-chase.json) |
 | Ragnarok Tactics | 243421 | [243421-ragnarok-tactics.json](./243421-ragnarok-tactics.json) |
 | Ragnarok: Labyrinth | 197375 | [197375-ragnarok-labyrinth.json](./197375-ragnarok-labyrinth.json) |
@@ -573,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rewilder | 303782 | [303782-rewilder.json](./303782-rewilder.json) |
 | Rex | 45348 | [45348-rex.json](./45348-rex.json) |
 | Rex Blade: The Battle Begins | 209165 | [209165-rex-blade-the-battle-begins.json](./209165-rex-blade-the-battle-begins.json) |
+| Rex Ronan: Experimental Surgeon | 42651 | [42651-rex-ronan-experimental-surgeon.json](./42651-rex-ronan-experimental-surgeon.json) |
 | Rex! Your Interactive Pet Dinosaur | 313491 | [313491-rex-your-interactive-pet-dinosaur.json](./313491-rex-your-interactive-pet-dinosaur.json) |
 | Rezel Cross | 64955 | [64955-rezel-cross.json](./64955-rezel-cross.json) |
 | RGB | 251216 | [251216-rgb.json](./251216-rgb.json) |
@@ -684,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Ghostdom | 210895 | [210895-rise-of-the-ghostdom.json](./210895-rise-of-the-ghostdom.json) |
 | Rise of the Outcast Hero | 297202 | [297202-rise-of-the-outcast-hero.json](./297202-rise-of-the-outcast-hero.json) |
 | Rise of the Pawn | 321132 | [321132-rise-of-the-pawn.json](./321132-rise-of-the-pawn.json) |
+| Rise of the Phoenix | 42650 | [42650-rise-of-the-phoenix.json](./42650-rise-of-the-phoenix.json) |
 | Rise of the Teenage Mutant Ninja Turtles: City Showdown | 146288 | [146288-rise-of-the-teenage-mutant-ninja-turtles-city-showdown.json](./146288-rise-of-the-teenage-mutant-ninja-turtles-city-showdown.json) |
 | Rise of the Teenage Mutant Ninja Turtles: Epic Mutant Missions | 146290 | [146290-rise-of-the-teenage-mutant-ninja-turtles-epic-mutant-missions.json](./146290-rise-of-the-teenage-mutant-ninja-turtles-epic-mutant-missions.json) |
 | Rise of the Teenage Mutant Ninja Turtles: Road Riot | 146291 | [146291-rise-of-the-teenage-mutant-ninja-turtles-road-riot.json](./146291-rise-of-the-teenage-mutant-ninja-turtles-road-riot.json) |
@@ -835,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockstar! | 78693 | [78693-rockstar.json](./78693-rockstar.json) |
 | Rocky Climb | 96085 | [96085-rocky-climb.json](./96085-rocky-climb.json) |
 | Rocky Mountain: Trophy Hunter | 49946 | [49946-rocky-mountain-trophy-hunter.json](./49946-rocky-mountain-trophy-hunter.json) |
+| Rocky Rodent | 42648 | [42648-rocky-rodent.json](./42648-rocky-rodent.json) |
 | Rocococo: Audiogame Fantastique | 258700 | [258700-rocococo-audiogame-fantastique.json](./258700-rocococo-audiogame-fantastique.json) |
 | Roda a Roda | 254788 | [254788-roda-a-roda.json](./254788-roda-a-roda.json) |
 | Rodea Eternal | 317613 | [317613-rodea-eternal.json](./317613-rodea-eternal.json) |
