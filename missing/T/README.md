@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tacti-Cat | 265926 | [265926-tacti-cat.json](./265926-tacti-cat.json) |
 | Tactic Legends | 310202 | [310202-tactic-legends.json](./310202-tactic-legends.json) |
 | Tactical Rampart | 275332 | [275332-tactical-rampart.json](./275332-tactical-rampart.json) |
+| Tactical Soccer the New Season | 34477 | [34477-tactical-soccer-the-new-season.json](./34477-tactical-soccer-the-new-season.json) |
 | Tactics Arena Online | 69301 | [69301-tactics-arena-online.json](./69301-tactics-arena-online.json) |
 | Tactics Rogue | 109709 | [109709-tactics-rogue.json](./109709-tactics-rogue.json) |
 | TacticsLand | 311805 | [311805-tacticsland.json](./311805-tacticsland.json) |
@@ -1284,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Right Turn | 183060 | [183060-the-right-turn.json](./183060-the-right-turn.json) |
 | The River Of Fire | 268730 | [268730-the-river-of-fire.json](./268730-the-river-of-fire.json) |
 | The Road Driver | 221387 | [221387-the-road-driver.json](./221387-the-road-driver.json) |
+| The Room of Black & White | 34455 | [34455-the-room-of-black-and-white.json](./34455-the-room-of-black-and-white.json) |
 | The Room Syndrome | 124218 | [124218-the-room-syndrome.json](./124218-the-room-syndrome.json) |
 | The Rooms | 191855 | [191855-the-rooms.json](./191855-the-rooms.json) |
 | The Roottrees Are Dead | 276492 | [276492-the-roottrees-are-dead.json](./276492-the-roottrees-are-dead.json) |
@@ -1513,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ugly Ducling | 228078 | [228078-the-ugly-ducling.json](./228078-the-ugly-ducling.json) |
 | The Ultimate Arena | 77357 | [77357-the-ultimate-arena.json](./77357-the-ultimate-arena.json) |
 | The Ultimate FMV Bundle 2 | 213046 | [213046-the-ultimate-fmv-bundle-2.json](./213046-the-ultimate-fmv-bundle-2.json) |
+| The Ultimate Showdown | 34428 | [34428-the-ultimate-showdown.json](./34428-the-ultimate-showdown.json) |
 | The Ultra Mission | 199105 | [199105-the-ultra-mission.json](./199105-the-ultra-mission.json) |
 | The Unachievable Game | 205232 | [205232-the-unachievable-game.json](./205232-the-unachievable-game.json) |
 | The Unclogging: An Unsanitary Saga | 51979 | [51979-the-unclogging-an-unsanitary-saga.json](./51979-the-unclogging-an-unsanitary-saga.json) |
@@ -1583,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Cars Online | 70989 | [70989-the-world-of-cars-online.json](./70989-the-world-of-cars-online.json) |
 | The World of Golden Eggs: Nori Nori Rhythm-kei - Nissan Note Original Version | 268205 | [268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json](./268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json) |
 | The World's Hardest Game: On Steam | 262689 | [262689-the-worlds-hardest-game-on-steam.json](./262689-the-worlds-hardest-game-on-steam.json) |
+| The Worm | 34419 | [34419-the-worm.json](./34419-the-worm.json) |
 | The X Factor Sing | 84261 | [84261-the-x-factor-sing.json](./84261-the-x-factor-sing.json) |
 | The Yellow Quiz | 114365 | [114365-the-yellow-quiz.json](./114365-the-yellow-quiz.json) |
 | The You Testament: The 2D Coming | 234312 | [234312-the-you-testament-the-2d-coming.json](./234312-the-you-testament-the-2d-coming.json) |
@@ -2091,6 +2095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
 | Tomodachii | 332803 | [332803-tomodachii.json](./332803-tomodachii.json) |
 | Tomorrow | 171070 | [171070-tomorrow.json](./171070-tomorrow.json) |
+| Tomorrow | 34383 | [34383-tomorrow.json](./34383-tomorrow.json) |
 | Tomotoru: Hello Kitty Happy Life | 188628 | [188628-tomotoru-hello-kitty-happy-life.json](./188628-tomotoru-hello-kitty-happy-life.json) |
 | Tomy Car Drive Shutsudou! Kinkyuu Sharyou-hen | 79319 | [79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json](./79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json) |
 | Tonari ni Kanojo no Iru Shiawase: Winter Guest | 142444 | [142444-tonari-ni-kanojo-no-iru-shiawase-winter-guest.json](./142444-tonari-ni-kanojo-no-iru-shiawase-winter-guest.json) |
