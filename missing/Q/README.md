@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest For Wartorn Brotherhood | 118389 | [118389-quest-for-wartorn-brotherhood.json](./118389-quest-for-wartorn-brotherhood.json) |
 | Quest for Yrolg | 57098 | [57098-quest-for-yrolg.json](./57098-quest-for-yrolg.json) |
 | Quest Master's Realm | 235966 | [235966-quest-masters-realm.json](./235966-quest-masters-realm.json) |
+| Quest: Fantasy Challenge | 49950 | [49950-quest-fantasy-challenge.json](./49950-quest-fantasy-challenge.json) |
 | QuestBall | 245019 | [245019-questball.json](./245019-questball.json) |
 | Questboard | 333914 | [333914-questboard.json](./333914-questboard.json) |
 | Quester | 197387 | [197387-quester.json](./197387-quester.json) |
