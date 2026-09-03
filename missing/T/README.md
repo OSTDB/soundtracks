@@ -685,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Envolution of Wandaland | 254137 | [254137-the-envolution-of-wandaland.json](./254137-the-envolution-of-wandaland.json) |
 | The Epic Quest of Birdo The Pink Dinosaur | 250662 | [250662-the-epic-quest-of-birdo-the-pink-dinosaur.json](./250662-the-epic-quest-of-birdo-the-pink-dinosaur.json) |
 | The ER: Patient Typhon | 146320 | [146320-the-er-patient-typhon.json](./146320-the-er-patient-typhon.json) |
+| The Escape from the Hen-Roost | 69866 | [69866-the-escape-from-the-hen-roost.json](./69866-the-escape-from-the-hen-roost.json) |
 | The Escape Room Chronicles ep 4: The 24-Hour TV Station | 324122 | [324122-the-escape-room-chronicles-ep-4-the-24-hour-tv-station.json](./324122-the-escape-room-chronicles-ep-4-the-24-hour-tv-station.json) |
 | The Escape Room Chronicles ep1: The Mysterious KumaDonald's | 324119 | [324119-the-escape-room-chronicles-ep1-the-mysterious-kumadonalds.json](./324119-the-escape-room-chronicles-ep1-the-mysterious-kumadonalds.json) |
 | The Escape Room Chronicles ep2: The Old School Building | 324120 | [324120-the-escape-room-chronicles-ep2-the-old-school-building.json](./324120-the-escape-room-chronicles-ep2-the-old-school-building.json) |
@@ -2046,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town of Machine | 145049 | [145049-town-of-machine.json](./145049-town-of-machine.json) |
 | Town of Sin | 175994 | [175994-town-of-sin.json](./175994-town-of-sin.json) |
 | Town of Tides | 198540 | [198540-town-of-tides.json](./198540-town-of-tides.json) |
+| Town With No Name | 69874 | [69874-town-with-no-name.json](./69874-town-with-no-name.json) |
 | Townframe | 199128 | [199128-townframe.json](./199128-townframe.json) |
 | Townkins | 103524 | [103524-townkins.json](./103524-townkins.json) |
 | Townlore 2.0 | 299480 | [299480-townlore-2-0.json](./299480-townlore-2-0.json) |
