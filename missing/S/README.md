@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Breakdown | 191223 | [191223-serious-breakdown.json](./191223-serious-breakdown.json) |
 | Serious Sam 4: Deluxe Edition | 154536 | [154536-serious-sam-4-deluxe-edition.json](./154536-serious-sam-4-deluxe-edition.json) |
 | Serious Sam: GOG Collection | 205226 | [205226-serious-sam-gog-collection.json](./205226-serious-sam-gog-collection.json) |
+| Serve & Volley | 94267 | [94267-serve-and-volley.json](./94267-serve-and-volley.json) |
 | Served in Yong'an | 266474 | [266474-served-in-yongan.json](./266474-served-in-yongan.json) |
 | Served! A Gourmet Race | 104684 | [104684-served-a-gourmet-race.json](./104684-served-a-gourmet-race.json) |
 | Sesame Street Fighter | 339673 | [339673-sesame-street-fighter.json](./339673-sesame-street-fighter.json) |
@@ -1011,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Hero! | 103526 | [103526-soccer-hero.json](./103526-soccer-hero.json) |
 | Soccer Moves | 241059 | [241059-soccer-moves.json](./241059-soccer-moves.json) |
 | Soccer Physics | 101579 | [101579-soccer-physics.json](./101579-soccer-physics.json) |
+| Soccer RPG: Become the coach for the national team! | 94259 | [94259-soccer-rpg-become-the-coach-for-the-national-team.json](./94259-soccer-rpg-become-the-coach-for-the-national-team.json) |
 | Soccer Showdown 3 | 233735 | [233735-soccer-showdown-3.json](./233735-soccer-showdown-3.json) |
 | Soccer Star Manager | 108467 | [108467-soccer-star-manager.json](./108467-soccer-star-manager.json) |
 | Soccer VR Football | 200169 | [200169-soccer-vr-football.json](./200169-soccer-vr-football.json) |
@@ -1567,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek Trexels II | 108463 | [108463-star-trek-trexels-ii.json](./108463-star-trek-trexels-ii.json) |
 | Star Trek: En Territoire Alien | 110351 | [110351-star-trek-en-territoire-alien.json](./110351-star-trek-en-territoire-alien.json) |
 | Star Vortex | 154021 | [154021-star-vortex.json](./154021-star-vortex.json) |
+| Star Warrior | 94241 | [94241-star-warrior.json](./94241-star-warrior.json) |
 | Star Wars | 212479 | [212479-star-wars.json](./212479-star-wars.json) |
 | Star Wars Battlefront: Hoth Bundle | 115714 | [115714-star-wars-battlefront-hoth-bundle.json](./115714-star-wars-battlefront-hoth-bundle.json) |
 | Star Wars Outlaws: Cartel Ronin Bundle | 325857 | [325857-star-wars-outlaws-cartel-ronin-bundle.json](./325857-star-wars-outlaws-cartel-ronin-bundle.json) |
@@ -1639,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarWheels | 119041 | [119041-starwheels.json](./119041-starwheels.json) |
 | Starwisp Hyperdrive | 217023 | [217023-starwisp-hyperdrive.json](./217023-starwisp-hyperdrive.json) |
 | State of Decay 2: Daybreak Pack | 194647 | [194647-state-of-decay-2-daybreak-pack.json](./194647-state-of-decay-2-daybreak-pack.json) |
+| State of War | 94231 | [94231-state-of-war.json](./94231-state-of-war.json) |
 | Static Cling | 182519 | [182519-static-cling.json](./182519-static-cling.json) |
 | Station 37 | 277027 | [277027-station-37.json](./277027-station-37.json) |
 | Station 5 | 307931 | [307931-station-5.json](./307931-station-5.json) |
