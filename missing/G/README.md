@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxicus | 119022 | [119022-galaxicus.json](./119022-galaxicus.json) |
 | Galaxity | 113747 | [113747-galaxity.json](./113747-galaxity.json) |
 | GalaxIverse II | 304895 | [304895-galaxiverse-ii.json](./304895-galaxiverse-ii.json) |
+| Galaxy Angel | 70414 | [70414-galaxy-angel.json](./70414-galaxy-angel.json) |
 | Galaxy Ballerina | 293415 | [293415-galaxy-ballerina.json](./293415-galaxy-ballerina.json) |
 | Galaxy Boom - Defend Planet | 108487 | [108487-galaxy-boom-defend-planet.json](./108487-galaxy-boom-defend-planet.json) |
 | Galaxy Bowling | 101540 | [101540-galaxy-bowling.json](./101540-galaxy-bowling.json) |
@@ -446,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goin Up | 245033 | [245033-goin-up.json](./245033-goin-up.json) |
 | Going Deeper! | 196301 | [196301-going-deeper.json](./196301-going-deeper.json) |
 | Going Down | 138786 | [138786-going-down.json](./138786-going-down.json) |
+| Going Nuts | 70405 | [70405-going-nuts.json](./70405-going-nuts.json) |
 | Gojira tai 3 Daikaijuu | 75884 | [75884-gojira-tai-3-daikaijuu.json](./75884-gojira-tai-3-daikaijuu.json) |
 | Gojira-kun | 75886 | [75886-gojira-kun.json](./75886-gojira-kun.json) |
 | GOKA Street | 297250 | [297250-goka-street.json](./297250-goka-street.json) |
