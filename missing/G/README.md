@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns 4 Hire | 117728 | [117728-guns-4-hire.json](./117728-guns-4-hire.json) |
 | Guns and Grapples | 152363 | [152363-guns-and-grapples.json](./152363-guns-and-grapples.json) |
 | Guns and Spurs 2 | 174869 | [174869-guns-and-spurs-2.json](./174869-guns-and-spurs-2.json) |
+| Guns Craft Mod | 90708 | [90708-guns-craft-mod.json](./90708-guns-craft-mod.json) |
 | Guns of Fury | 312358 | [312358-guns-of-fury.json](./312358-guns-of-fury.json) |
 | Guns'n'Glory Zombies | 296073 | [296073-gunsnglory-zombies.json](./296073-gunsnglory-zombies.json) |
 | Gunship Battle | 174901 | [174901-gunship-battle.json](./174901-gunship-battle.json) |
