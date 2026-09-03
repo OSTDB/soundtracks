@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Griddlers 2 | 101555 | [101555-magic-griddlers-2.json](./101555-magic-griddlers-2.json) |
 | Magic Heart | 114996 | [114996-magic-heart.json](./114996-magic-heart.json) |
 | Magic Kingdom | 213591 | [213591-magic-kingdom.json](./213591-magic-kingdom.json) |
+| Magic Knight Rayearth | 38375 | [38375-magic-knight-rayearth.json](./38375-magic-knight-rayearth.json) |
 | Magic League | 99016 | [99016-magic-league.json](./99016-magic-league.json) |
 | Magic Ocean: Multiplayer Roguelike | 141245 | [141245-magic-ocean-multiplayer-roguelike.json](./141245-magic-ocean-multiplayer-roguelike.json) |
 | Magic Paper | 250648 | [250648-magic-paper.json](./250648-magic-paper.json) |
@@ -143,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magiduel | 177019 | [177019-magiduel.json](./177019-magiduel.json) |
 | Magiopolis | 277048 | [277048-magiopolis.json](./277048-magiopolis.json) |
 | Magman | 311271 | [311271-magman.json](./311271-magman.json) |
+| Magna Braban: Henreki no Yuusha | 38374 | [38374-magna-braban-henreki-no-yuusha.json](./38374-magna-braban-henreki-no-yuusha.json) |
 | Magna Fortuna | 171590 | [171590-magna-fortuna.json](./171590-magna-fortuna.json) |
 | Magna Regna | 211926 | [211926-magna-regna.json](./211926-magna-regna.json) |
 | Magnavody | 277610 | [277610-magnavody.json](./277610-magnavody.json) |
@@ -344,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Market Dominion | 114393 | [114393-market-dominion.json](./114393-market-dominion.json) |
 | Market Trouble | 182541 | [182541-market-trouble.json](./182541-market-trouble.json) |
 | Marlboro Go! | 253027 | [253027-marlboro-go.json](./253027-marlboro-go.json) |
+| Marmalade Boy | 38339 | [38339-marmalade-boy.json](./38339-marmalade-boy.json) |
 | Marriage or Pervert: The Small Penis Warrior & The Perverted Magician | 82909 | [82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json](./82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json) |
 | Mars for the Rich | 202382 | [202382-mars-for-the-rich.json](./202382-mars-for-the-rich.json) |
 | Mars Saga | 70980 | [70980-mars-saga.json](./70980-mars-saga.json) |
@@ -706,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gunner | 137655 | [137655-metal-gunner.json](./137655-metal-gunner.json) |
 | Metal Hunter | 189202 | [189202-metal-hunter.json](./189202-metal-hunter.json) |
 | Metal March | 228088 | [228088-metal-march.json](./228088-metal-march.json) |
+| Metal Max Returns | 38373 | [38373-metal-max-returns.json](./38373-metal-max-returns.json) |
 | Metal Max: Fireworks | 75850 | [75850-metal-max-fireworks.json](./75850-metal-max-fireworks.json) |
 | Metal Mech: Man & Machine | 48082 | [48082-metal-mech-man-and-machine.json](./48082-metal-mech-man-and-machine.json) |
 | Metal Pear | 302703 | [302703-metal-pear.json](./302703-metal-pear.json) |
@@ -1487,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mukaeute Uchuu Gundan Galack | 66130 | [66130-mukaeute-uchuu-gundan-galack.json](./66130-mukaeute-uchuu-gundan-galack.json) |
 | Mullet Madjack: Deluxe Edition | 318218 | [318218-mullet-madjack-deluxe-edition.json](./318218-mullet-madjack-deluxe-edition.json) |
 | Multi Maze 3D | 221380 | [221380-multi-maze-3d.json](./221380-multi-maze-3d.json) |
+| Multi Play Volleyball | 38363 | [38363-multi-play-volleyball.json](./38363-multi-play-volleyball.json) |
 | Multi Sports II | 301579 | [301579-multi-sports-ii.json](./301579-multi-sports-ii.json) |
 | Multibowl | 239313 | [239313-multibowl.json](./239313-multibowl.json) |
 | Multicrash! | 290712 | [290712-multicrash.json](./290712-multicrash.json) |
