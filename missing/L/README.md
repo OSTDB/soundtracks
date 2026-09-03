@@ -724,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luise and Secret Basement Rooms | 157705 | [157705-luise-and-secret-basement-rooms.json](./157705-luise-and-secret-basement-rooms.json) |
 | Lukewarm Ironclad | 113702 | [113702-lukewarm-ironclad.json](./113702-lukewarm-ironclad.json) |
 | Lumba: Redux | 210890 | [210890-lumba-redux.json](./210890-lumba-redux.json) |
+| Lumber King | 54474 | [54474-lumber-king.json](./54474-lumber-king.json) |
 | Lumberjack Construction Simulator | 239325 | [239325-lumberjack-construction-simulator.json](./239325-lumberjack-construction-simulator.json) |
 | Lumbermill | 122427 | [122427-lumbermill.json](./122427-lumbermill.json) |
 | LumberQwaxes | 154013 | [154013-lumberqwaxes.json](./154013-lumberqwaxes.json) |
