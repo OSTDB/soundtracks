@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Bees Advent | 228084 | [228084-i-commissioned-some-bees-advent.json](./228084-i-commissioned-some-bees-advent.json) |
 | I Commissioned Some Unicorns | 257692 | [257692-i-commissioned-some-unicorns.json](./257692-i-commissioned-some-unicorns.json) |
 | I Did a Bad Thing | 229370 | [229370-i-did-a-bad-thing.json](./229370-i-did-a-bad-thing.json) |
+| I Did it Mum! Picture Book | 48040 | [48040-i-did-it-mum-picture-book.json](./48040-i-did-it-mum-picture-book.json) |
 | I Didn't Cheat | 324683 | [324683-i-didnt-cheat.json](./324683-i-didnt-cheat.json) |
 | I Expect You to Die: Home Sweet Home | 223146 | [223146-i-expect-you-to-die-home-sweet-home.json](./223146-i-expect-you-to-die-home-sweet-home.json) |
 | I got a cat maid | 128013 | [128013-i-got-a-cat-maid.json](./128013-i-got-a-cat-maid.json) |
@@ -166,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IguaRPG 2 | 314033 | [314033-iguarpg-2.json](./314033-iguarpg-2.json) |
 | II-III-V | 180808 | [180808-ii-iii-v.json](./180808-ii-iii-v.json) |
 | Ijigen Kara no Dasshutsu: Escape from Twilight Zone | 97326 | [97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json](./97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json) |
+| Ikari III: The Rescue | 48054 | [48054-ikari-iii-the-rescue.json](./48054-ikari-iii-the-rescue.json) |
 | Ikaros | 51955 | [51955-ikaros.json](./51955-ikaros.json) |
 | Iktsua | 329930 | [329930-iktsua.json](./329930-iktsua.json) |
 | Il Divino: Michelangelo's Sistine Ceiling in VR | 130925 | [130925-il-divino-michelangelos-sistine-ceiling-in-vr.json](./130925-il-divino-michelangelos-sistine-ceiling-in-vr.json) |
