@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Base Jump: Wing Suit Flying | 199114 | [199114-base-jump-wing-suit-flying.json](./199114-base-jump-wing-suit-flying.json) |
 | Baseball | 245560 | [245560-baseball.json](./245560-baseball.json) |
 | Baseball | 245561 | [245561-baseball.json](./245561-baseball.json) |
+| Baseball Kings VR | 89255 | [89255-baseball-kings-vr.json](./89255-baseball-kings-vr.json) |
 | Baseball Stars | 273094 | [273094-baseball-stars.json](./273094-baseball-stars.json) |
 | Baseball-e | 170006 | [170006-baseball-e.json](./170006-baseball-e.json) |
 | Basemental Gangs | 259230 | [259230-basemental-gangs.json](./259230-basemental-gangs.json) |
@@ -242,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basilisk! | 297782 | [297782-basilisk.json](./297782-basilisk.json) |
 | Basketball 2 | 245559 | [245559-basketball-2.json](./245559-basketball-2.json) |
 | Basketball Arcade Stars | 250660 | [250660-basketball-arcade-stars.json](./250660-basketball-arcade-stars.json) |
+| Basketball Battle | 89288 | [89288-basketball-battle.json](./89288-basketball-battle.json) |
 | Basketball Hero VR | 102198 | [102198-basketball-hero-vr.json](./102198-basketball-hero-vr.json) |
 | Basketball Pinball | 148567 | [148567-basketball-pinball.json](./148567-basketball-pinball.json) |
 | Basketball Playgrounds | 212460 | [212460-basketball-playgrounds.json](./212460-basketball-playgrounds.json) |
@@ -413,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Becut | 309665 | [309665-becut.json](./309665-becut.json) |
 | Bed Survival | 145648 | [145648-bed-survival.json](./145648-bed-survival.json) |
 | BeeBop II | 336888 | [336888-beebop-ii.json](./336888-beebop-ii.json) |
+| BeeFender | 89267 | [89267-beefender.json](./89267-beefender.json) |
 | Beeftown Beatdown | 238769 | [238769-beeftown-beatdown.json](./238769-beeftown-beatdown.json) |
 | Beena Town he Youkoso | 300416 | [300416-beena-town-he-youkoso.json](./300416-beena-town-he-youkoso.json) |
 | Beep | 331671 | [331671-beep.json](./331671-beep.json) |
