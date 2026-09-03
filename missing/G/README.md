@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Express Chaldea | 339113 | [339113-galaxy-express-chaldea.json](./339113-galaxy-express-chaldea.json) |
 | Galaxy Hero H2H | 233207 | [233207-galaxy-hero-h2h.json](./233207-galaxy-hero-h2h.json) |
 | Galaxy Hunter: Into the Portal | 137639 | [137639-galaxy-hunter-into-the-portal.json](./137639-galaxy-hunter-into-the-portal.json) |
+| Galaxy Invader 1000 | 47282 | [47282-galaxy-invader-1000.json](./47282-galaxy-invader-1000.json) |
 | Galaxy of Pen and Paper +1 Edition | 205270 | [205270-galaxy-of-pen-and-paper-1-edition.json](./205270-galaxy-of-pen-and-paper-1-edition.json) |
 | Galaxy on Fire: Alliances | 261530 | [261530-galaxy-on-fire-alliances.json](./261530-galaxy-on-fire-alliances.json) |
 | Galaxy Strike | 135896 | [135896-galaxy-strike.json](./135896-galaxy-strike.json) |
@@ -596,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoVenture Typing | 117708 | [117708-goventure-typing.json](./117708-goventure-typing.json) |
 | Government X | 244481 | [244481-government-x.json](./244481-government-x.json) |
 | GraalOnline: Delteria | 82153 | [82153-graalonline-delteria.json](./82153-graalonline-delteria.json) |
+| Grab Man | 47264 | [47264-grab-man.json](./47264-grab-man.json) |
 | Grab the Goblins! | 250650 | [250650-grab-the-goblins.json](./250650-grab-the-goblins.json) |
 | Grabbers in the Woods | 294426 | [294426-grabbers-in-the-woods.json](./294426-grabbers-in-the-woods.json) |
 | Grabitoons | 231049 | [231049-grabitoons.json](./231049-grabitoons.json) |
