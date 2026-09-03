@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Tanks Area | 193507 | [193507-future-tanks-area.json](./193507-future-tanks-area.json) |
 | Future Theater | 251842 | [251842-future-theater.json](./251842-future-theater.json) |
 | Fuu3's Fuun Journey | 265927 | [265927-fuu3s-fuun-journey.json](./265927-fuu3s-fuun-journey.json) |
+| Fuyu no Rondo | 69310 | [69310-fuyu-no-rondo.json](./69310-fuyu-no-rondo.json) |
 | Fuzzy Critters | 104644 | [104644-fuzzy-critters.json](./104644-fuzzy-critters.json) |
 | Fuzzy World Cup Qatar 2022 | 312349 | [312349-fuzzy-world-cup-qatar-2022.json](./312349-fuzzy-world-cup-qatar-2022.json) |
 | FX Chess | 94266 | [94266-fx-chess.json](./94266-fx-chess.json) |
