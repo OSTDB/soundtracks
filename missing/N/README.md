@@ -166,6 +166,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Fantasy: Dogs | 270970 | [270970-neon-fantasy-dogs.json](./270970-neon-fantasy-dogs.json) |
 | Neon Fantasy: Predators | 278732 | [278732-neon-fantasy-predators.json](./278732-neon-fantasy-predators.json) |
 | Neon Flight | 297796 | [297796-neon-flight.json](./297796-neon-flight.json) |
+| Neon Genesis Evangelion 2 | 75876 | [75876-neon-genesis-evangelion-2.json](./75876-neon-genesis-evangelion-2.json) |
+| Neon Genesis Evangelion 2: Another Cases | 75877 | [75877-neon-genesis-evangelion-2-another-cases.json](./75877-neon-genesis-evangelion-2-another-cases.json) |
+| Neon Genesis Evangelion: 2nd Impression | 75875 | [75875-neon-genesis-evangelion-2nd-impression.json](./75875-neon-genesis-evangelion-2nd-impression.json) |
+| Neon Genesis Evangelion: Digital Card Library | 75880 | [75880-neon-genesis-evangelion-digital-card-library.json](./75880-neon-genesis-evangelion-digital-card-library.json) |
+| Neon Genesis Evangelion: Eva to Yukai na Nakamatachi | 75881 | [75881-neon-genesis-evangelion-eva-to-yukai-na-nakamatachi.json](./75881-neon-genesis-evangelion-eva-to-yukai-na-nakamatachi.json) |
+| Neon Genesis Evangelion: Eva to Yukai na Nakamatachi - Datsui Hokan Keikaku! | 75882 | [75882-neon-genesis-evangelion-eva-to-yukai-na-nakamatachi-datsui-hokan-keikaku.json](./75882-neon-genesis-evangelion-eva-to-yukai-na-nakamatachi-datsui-hokan-keikaku.json) |
+| Neon Genesis Evangelion: Shinji Ikari Raising Project | 75878 | [75878-neon-genesis-evangelion-shinji-ikari-raising-project.json](./75878-neon-genesis-evangelion-shinji-ikari-raising-project.json) |
+| Neon Genesis Evangelion: The Iron Maiden 2nd | 75879 | [75879-neon-genesis-evangelion-the-iron-maiden-2nd.json](./75879-neon-genesis-evangelion-the-iron-maiden-2nd.json) |
 | Neon Heights | 278144 | [278144-neon-heights.json](./278144-neon-heights.json) |
 | Neon Ladder | 311803 | [311803-neon-ladder.json](./311803-neon-ladder.json) |
 | Neon Outlast | 195787 | [195787-neon-outlast.json](./195787-neon-outlast.json) |
