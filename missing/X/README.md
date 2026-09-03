@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | X Virus | 190742 | [190742-x-virus.json](./190742-x-virus.json) |
+| X-Bladez: Inline Skater | 43941 | [43941-x-bladez-inline-skater.json](./43941-x-bladez-inline-skater.json) |
 | X-Car Stunts | 102156 | [102156-x-car-stunts.json](./102156-x-car-stunts.json) |
 | X-Force Genesis | 165652 | [165652-x-force-genesis.json](./165652-x-force-genesis.json) |
 | X-Man | 79301 | [79301-x-man.json](./79301-x-man.json) |
@@ -62,6 +63,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xonix | 304330 | [304330-xonix.json](./304330-xonix.json) |
 | Xplode Man | 313495 | [313495-xplode-man.json](./313495-xplode-man.json) |
 | XR-35 | 55210 | [55210-xr-35.json](./55210-xr-35.json) |
+| XS Airboat Racing | 43942 | [43942-xs-airboat-racing.json](./43942-xs-airboat-racing.json) |
+| XS Junior League Dodgeball | 43943 | [43943-xs-junior-league-dodgeball.json](./43943-xs-junior-league-dodgeball.json) |
+| XS Junior League Football | 43944 | [43944-xs-junior-league-football.json](./43944-xs-junior-league-football.json) |
+| XS Junior League Soccer | 43945 | [43945-xs-junior-league-soccer.json](./43945-xs-junior-league-soccer.json) |
 | XS Moto | 205811 | [205811-xs-moto.json](./205811-xs-moto.json) |
 | Xtom 3D | 45978 | [45978-xtom-3d.json](./45978-xtom-3d.json) |
 | Xtreme Boarders: Precision Skating | 205813 | [205813-xtreme-boarders-precision-skating.json](./205813-xtreme-boarders-precision-skating.json) |
