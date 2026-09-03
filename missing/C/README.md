@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chomp! | 137067 | [137067-chomp.json](./137067-chomp.json) |
 | Choo Choo Crossing | 278722 | [278722-choo-choo-crossing.json](./278722-choo-choo-crossing.json) |
 | Choo Choo Minder | 252988 | [252988-choo-choo-minder.json](./252988-choo-choo-minder.json) |
+| Choose an Enemy | 93051 | [93051-choose-an-enemy.json](./93051-choose-an-enemy.json) |
 | Chop | 183081 | [183081-chop.json](./183081-chop.json) |
 | Choppie's | 236541 | [236541-choppies.json](./236541-choppies.json) |
 | Choro Q | 245031 | [245031-choro-q.json](./245031-choro-q.json) |
@@ -1264,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult&Card | 291765 | [291765-cult-and-card.json](./291765-cult-and-card.json) |
 | Culture Warz: Chess | 291757 | [291757-culture-warz-chess.json](./291757-culture-warz-chess.json) |
 | Cultures: 8th Wonder of the World | 200207 | [200207-cultures-8th-wonder-of-the-world.json](./200207-cultures-8th-wonder-of-the-world.json) |
+| Cultures: Die Rache des Regengottes | 93039 | [93039-cultures-die-rache-des-regengottes.json](./93039-cultures-die-rache-des-regengottes.json) |
 | Cultus | 156690 | [156690-cultus.json](./156690-cultus.json) |
 | Cum & Climb | 267080 | [267080-cum-and-climb.json](./267080-cum-and-climb.json) |
 | Cum Clicker | 262098 | [262098-cum-clicker.json](./262098-cum-clicker.json) |
