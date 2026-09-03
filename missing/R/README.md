@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflection Seeker | 319954 | [319954-reflection-seeker.json](./319954-reflection-seeker.json) |
 | Reflections of Life: Spindle of Fate | 244479 | [244479-reflections-of-life-spindle-of-fate.json](./244479-reflections-of-life-spindle-of-fate.json) |
 | Reflections Path | 211951 | [211951-reflections-path.json](./211951-reflections-path.json) |
+| Reflectron | 42048 | [42048-reflectron.json](./42048-reflectron.json) |
 | Reflexia Prototype ver. | 224749 | [224749-reflexia-prototype-ver.json](./224749-reflexia-prototype-ver.json) |
 | Refuge | 226969 | [226969-refuge.json](./226969-refuge.json) |
 | Refund Me If You Can | 204074 | [204074-refund-me-if-you-can.json](./204074-refund-me-if-you-can.json) |
@@ -444,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renegade: Arena Shooter | 150679 | [150679-renegade-arena-shooter.json](./150679-renegade-arena-shooter.json) |
 | Renfield | 82885 | [82885-renfield.json](./82885-renfield.json) |
 | Rengoku | 325284 | [325284-rengoku.json](./325284-rengoku.json) |
+| Renny Blaster | 42008 | [42008-renny-blaster.json](./42008-renny-blaster.json) |
 | Rent Please!: Landlord Sim | 247214 | [247214-rent-please-landlord-sim.json](./247214-rent-please-landlord-sim.json) |
 | Renters Revenge | 75177 | [75177-renters-revenge.json](./75177-renters-revenge.json) |
 | Rento Fortune: Dice Configurator | 298335 | [298335-rento-fortune-dice-configurator.json](./298335-rento-fortune-dice-configurator.json) |
