@@ -692,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyakori's Rabbit Doll | 130403 | [130403-nyakoris-rabbit-doll.json](./130403-nyakoris-rabbit-doll.json) |
 | Nyamo's Adventure | 182513 | [182513-nyamos-adventure.json](./182513-nyamos-adventure.json) |
 | Nyanco Project | 120984 | [120984-nyanco-project.json](./120984-nyanco-project.json) |
+| Nyctophilia | 34424 | [34424-nyctophilia.json](./34424-nyctophilia.json) |
 | Nyjah Huston: #Skatelife | 105907 | [105907-nyjah-huston-skatelife.json](./105907-nyjah-huston-skatelife.json) |
 | Nykra | 102195 | [102195-nykra.json](./102195-nykra.json) |
 | Nykrig | 184646 | [184646-nykrig.json](./184646-nykrig.json) |
