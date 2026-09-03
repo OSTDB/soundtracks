@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absentis | 189193 | [189193-absentis.json](./189193-absentis.json) |
 | Absinthe | 337440 | [337440-absinthe.json](./337440-absinthe.json) |
 | Absolute Baseball | 84863 | [84863-absolute-baseball.json](./84863-absolute-baseball.json) |
+| Absolute Chess | 74418 | [74418-absolute-chess.json](./74418-absolute-chess.json) |
 | Absolute Deduction Bundle | 209687 | [209687-absolute-deduction-bundle.json](./209687-absolute-deduction-bundle.json) |
 | Absolute Fall | 119004 | [119004-absolute-fall.json](./119004-absolute-fall.json) |
 | Absolute Reversi | 84862 | [84862-absolute-reversi.json](./84862-absolute-reversi.json) |
@@ -1035,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armchair Quarterback | 314037 | [314037-armchair-quarterback.json](./314037-armchair-quarterback.json) |
 | Armed and Armoured | 190747 | [190747-armed-and-armoured.json](./190747-armed-and-armoured.json) |
 | Armed Forces Corp: Mercenaries | 123059 | [123059-armed-forces-corp-mercenaries.json](./123059-armed-forces-corp-mercenaries.json) |
+| Armed Warrior VR | 74435 | [74435-armed-warrior-vr.json](./74435-armed-warrior-vr.json) |
 | Armello: Deluxe Bundle | 173787 | [173787-armello-deluxe-bundle.json](./173787-armello-deluxe-bundle.json) |
 | Armello: Special Edition | 166228 | [166228-armello-special-edition.json](./166228-armello-special-edition.json) |
 | Armor Battle | 245574 | [245574-armor-battle.json](./245574-armor-battle.json) |
@@ -1231,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ryza: Ever Darkness & the Secret Hideout - Secret Solitary Island | 238227 | [238227-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json](./238227-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json) |
 | Athena | 273078 | [273078-athena.json](./273078-athena.json) |
 | Athena's Circus | 334505 | [334505-athenas-circus.json](./334505-athenas-circus.json) |
+| Athenian Acropolis | 74445 | [74445-athenian-acropolis.json](./74445-athenian-acropolis.json) |
 | Athletyx | 123069 | [123069-athletyx.json](./123069-athletyx.json) |
 | Athos | 265413 | [265413-athos.json](./265413-athos.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
@@ -1354,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aye Fair Lady | 126019 | [126019-aye-fair-lady.json](./126019-aye-fair-lady.json) |
 | Ayni Fairyland | 107896 | [107896-ayni-fairyland.json](./107896-ayni-fairyland.json) |
 | Ayu: The Dream Soul | 149098 | [149098-ayu-the-dream-soul.json](./149098-ayu-the-dream-soul.json) |
+| Azada: In Libro Collector's Edition | 74465 | [74465-azada-in-libro-collectors-edition.json](./74465-azada-in-libro-collectors-edition.json) |
 | Azangara | 77375 | [77375-azangara.json](./77375-azangara.json) |
 | Azazel | 170020 | [170020-azazel.json](./170020-azazel.json) |
 | Azera Online | 76612 | [76612-azera-online.json](./76612-azera-online.json) |
