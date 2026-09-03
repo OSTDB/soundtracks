@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head 2 Head | 150139 | [150139-head-2-head.json](./150139-head-2-head.json) |
 | Head AS Code Original Version | 143720 | [143720-head-as-code-original-version.json](./143720-head-as-code-original-version.json) |
 | Head Games | 152351 | [152351-head-games.json](./152351-head-games.json) |
+| Head Panic | 39683 | [39683-head-panic.json](./39683-head-panic.json) |
 | Headbangers Heaven | 250637 | [250637-headbangers-heaven.json](./250637-headbangers-heaven.json) |
 | Headbängers in Holiday Hell | 141232 | [141232-headbangers-in-holiday-hell.json](./141232-headbangers-in-holiday-hell.json) |
 | Headrooms | 334472 | [334472-headrooms.json](./334472-headrooms.json) |
@@ -317,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Hearts | 219825 | [219825-heavy-hearts.json](./219825-heavy-hearts.json) |
 | Heavy Truck Simulator | 58250 | [58250-heavy-truck-simulator.json](./58250-heavy-truck-simulator.json) |
 | Heavy Water Jogger | 73812 | [73812-heavy-water-jogger.json](./73812-heavy-water-jogger.json) |
+| Heavyweight Champ | 39678 | [39678-heavyweight-champ.json](./39678-heavyweight-champ.json) |
 | Heavyweight Thunder | 69875 | [69875-heavyweight-thunder.json](./69875-heavyweight-thunder.json) |
 | Hector'39 | 328247 | [328247-hector39.json](./328247-hector39.json) |
 | Hedgehog Launch | 234939 | [234939-hedgehog-launch.json](./234939-hedgehog-launch.json) |
@@ -628,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hippo Doctor: Hospital Laboratory | 105946 | [105946-hippo-doctor-hospital-laboratory.json](./105946-hippo-doctor-hospital-laboratory.json) |
 | Hippo Eating Banana | 220835 | [220835-hippo-eating-banana.json](./220835-hippo-eating-banana.json) |
 | Hippo Teeth | 41422 | [41422-hippo-teeth.json](./41422-hippo-teeth.json) |
+| Hippodrome | 39680 | [39680-hippodrome.json](./39680-hippodrome.json) |
 | Hira Hira Hihiru | 221418 | [221418-hira-hira-hihiru.json](./221418-hira-hira-hihiru.json) |
 | Hirata Shougo Interactive Ehon: Aesop Monogatari Vol. 1 | 245530 | [245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json](./245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json) |
 | Hired Team: Trial Gold | 73849 | [73849-hired-team-trial-gold.json](./73849-hired-team-trial-gold.json) |
@@ -824,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: Mechanix | 70991 | [70991-hot-wheels-mechanix.json](./70991-hot-wheels-mechanix.json) |
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
 | Hotch Kiss | 63302 | [63302-hotch-kiss.json](./63302-hotch-kiss.json) |
+| Hotdog Storm | 39679 | [39679-hotdog-storm.json](./39679-hotdog-storm.json) |
 | Hotel Alien | 229368 | [229368-hotel-alien.json](./229368-hotel-alien.json) |
 | Hotel Dash Deluxe | 96724 | [96724-hotel-dash-deluxe.json](./96724-hotel-dash-deluxe.json) |
 | Hotel Insanity | 324675 | [324675-hotel-insanity.json](./324675-hotel-insanity.json) |
