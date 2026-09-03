@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T22:48:36.487Z",
-  "total_missing": 25255,
+  "generated_at": "2026-09-03T23:02:53.189Z",
+  "total_missing": 25305,
   "games": [
     {
       "igdb_id": 306086,
@@ -100983,6 +100983,11 @@
       "file": "missing/S/315843-sugoi-girls-sassy-heroine.json"
     },
     {
+      "igdb_id": 37807,
+      "game_name": "Sugoro Quest++ Dicenics",
+      "file": "missing/S/37807-sugoro-quest-dicenics.json"
+    },
+    {
       "igdb_id": 339650,
       "game_name": "Suho Defense",
       "file": "missing/S/339650-suho-defense.json"
@@ -101913,6 +101918,11 @@
       "file": "missing/S/218123-super-kobushi-de-naguru-chan.json"
     },
     {
+      "igdb_id": 37815,
+      "game_name": "Super Kyuukyoku Harikiri Stadium 2",
+      "file": "missing/S/37815-super-kyuukyoku-harikiri-stadium-2.json"
+    },
+    {
       "igdb_id": 48676,
       "game_name": "Super Lode Runner II",
       "file": "missing/S/48676-super-lode-runner-ii.json"
@@ -101936,6 +101946,26 @@
       "igdb_id": 331134,
       "game_name": "Super Magic Chess",
       "file": "missing/S/331134-super-magic-chess.json"
+    },
+    {
+      "igdb_id": 37814,
+      "game_name": "Super Mahjong",
+      "file": "missing/S/37814-super-mahjong.json"
+    },
+    {
+      "igdb_id": 37813,
+      "game_name": "Super Mahjong 2: Honkaku 4-nin Uchi",
+      "file": "missing/S/37813-super-mahjong-2-honkaku-4-nin-uchi.json"
+    },
+    {
+      "igdb_id": 37812,
+      "game_name": "Super Mahjong 3",
+      "file": "missing/S/37812-super-mahjong-3.json"
+    },
+    {
+      "igdb_id": 37811,
+      "game_name": "Super Mahjong Taikai",
+      "file": "missing/S/37811-super-mahjong-taikai.json"
     },
     {
       "igdb_id": 72695,
@@ -102433,6 +102463,11 @@
       "file": "missing/S/38344-super-momotaro-dentetsu-dx.json"
     },
     {
+      "igdb_id": 37810,
+      "game_name": "Super Momotaro Dentetsu II",
+      "file": "missing/S/37810-super-momotaro-dentetsu-ii.json"
+    },
+    {
       "igdb_id": 38343,
       "game_name": "Super Momotaro Dentetsu III",
       "file": "missing/S/38343-super-momotaro-dentetsu-iii.json"
@@ -102483,6 +102518,21 @@
       "file": "missing/S/312875-super-nantucket-world.json"
     },
     {
+      "igdb_id": 37809,
+      "game_name": "Super Naxat Open",
+      "file": "missing/S/37809-super-naxat-open.json"
+    },
+    {
+      "igdb_id": 37805,
+      "game_name": "Super Nazo Puyo Tsuu: Rulue no Tetsuwan Hanjyouki",
+      "file": "missing/S/37805-super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjyouki.json"
+    },
+    {
+      "igdb_id": 37806,
+      "game_name": "Super Nazo Puyo: Rulue no Roux",
+      "file": "missing/S/37806-super-nazo-puyo-rulue-no-roux.json"
+    },
+    {
       "igdb_id": 166751,
       "game_name": "Super Neo Tanks",
       "file": "missing/S/166751-super-neo-tanks.json"
@@ -102501,6 +102551,21 @@
       "igdb_id": 238176,
       "game_name": "Super Neptunia RPG: Party Member - If",
       "file": "missing/S/238176-super-neptunia-rpg-party-member-if.json"
+    },
+    {
+      "igdb_id": 37804,
+      "game_name": "Super Nichibutsu Mahjong",
+      "file": "missing/S/37804-super-nichibutsu-mahjong.json"
+    },
+    {
+      "igdb_id": 37803,
+      "game_name": "Super Nichibutsu Mahjong 2: Zenkoku Seiha-hen",
+      "file": "missing/S/37803-super-nichibutsu-mahjong-2-zenkoku-seiha-hen.json"
+    },
+    {
+      "igdb_id": 37802,
+      "game_name": "Super Nichibutsu Mahjong 3: Yoshimoto Gekijou-hen",
+      "file": "missing/S/37802-super-nichibutsu-mahjong-3-yoshimoto-gekijou-hen.json"
     },
     {
       "igdb_id": 165687,
@@ -103613,6 +103678,11 @@
       "file": "missing/S/240492-sword-world-pc.json"
     },
     {
+      "igdb_id": 37801,
+      "game_name": "Sword World SFC 2: Inishie no Kyojin Densetsu",
+      "file": "missing/S/37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json"
+    },
+    {
       "igdb_id": 113751,
       "game_name": "Swordbreaker: Back to the Castle",
       "file": "missing/S/113751-swordbreaker-back-to-the-castle.json"
@@ -103918,6 +103988,11 @@
       "file": "missing/T/293398-table-ball-emotions-skin-pack.json"
     },
     {
+      "igdb_id": 37800,
+      "game_name": "Table Game Daishuugou!! Shogi Mahjong Hanafuda",
+      "file": "missing/T/37800-table-game-daishuugou-shogi-mahjong-hanafuda.json"
+    },
+    {
       "igdb_id": 147953,
       "game_name": "Table Soccer Foosball",
       "file": "missing/T/147953-table-soccer-foosball.json"
@@ -104123,6 +104198,11 @@
       "file": "missing/T/311805-tacticsland.json"
     },
     {
+      "igdb_id": 37799,
+      "game_name": "Tadaima Yuusha Boshuuchuu Okawari",
+      "file": "missing/T/37799-tadaima-yuusha-boshuuchuu-okawari.json"
+    },
+    {
       "igdb_id": 55929,
       "game_name": "Taern",
       "file": "missing/T/55929-taern.json"
@@ -104176,6 +104256,21 @@
       "igdb_id": 68016,
       "game_name": "Taikodom",
       "file": "missing/T/68016-taikodom.json"
+    },
+    {
+      "igdb_id": 37798,
+      "game_name": "Taikou Risshiden",
+      "file": "missing/T/37798-taikou-risshiden.json"
+    },
+    {
+      "igdb_id": 37797,
+      "game_name": "Taikyoku Igo: Goliath",
+      "file": "missing/T/37797-taikyoku-igo-goliath.json"
+    },
+    {
+      "igdb_id": 37796,
+      "game_name": "Taikyoku Igo: Idaten",
+      "file": "missing/T/37796-taikyoku-igo-idaten.json"
     },
     {
       "igdb_id": 305544,
@@ -104313,6 +104408,11 @@
       "file": "missing/T/92488-take-shape.json"
     },
     {
+      "igdb_id": 37795,
+      "game_name": "Take Yutaka G1 Memory",
+      "file": "missing/T/37795-take-yutaka-g1-memory.json"
+    },
+    {
       "igdb_id": 67323,
       "game_name": "Takeda 2",
       "file": "missing/T/67323-takeda-2.json"
@@ -104321,6 +104421,11 @@
       "igdb_id": 81334,
       "game_name": "Takeda Shingen",
       "file": "missing/T/81334-takeda-shingen.json"
+    },
+    {
+      "igdb_id": 37794,
+      "game_name": "Takemiya Masaki Kudan no Igo Taishou",
+      "file": "missing/T/37794-takemiya-masaki-kudan-no-igo-taishou.json"
     },
     {
       "igdb_id": 139427,
@@ -104748,6 +104853,11 @@
       "file": "missing/T/229957-tamagotchi-music-star.json"
     },
     {
+      "igdb_id": 37792,
+      "game_name": "Tamagotchi Town",
+      "file": "missing/T/37792-tamagotchi-town.json"
+    },
+    {
       "igdb_id": 229958,
       "game_name": "TamaTown Tama-Go",
       "file": "missing/T/229958-tamatown-tama-go.json"
@@ -105123,6 +105233,11 @@
       "file": "missing/T/126637-taro.json"
     },
     {
+      "igdb_id": 37793,
+      "game_name": "Tarot Mystery",
+      "file": "missing/T/37793-tarot-mystery.json"
+    },
+    {
       "igdb_id": 179209,
       "game_name": "Task Force 88: Hostile Contact",
       "file": "missing/T/179209-task-force-88-hostile-contact.json"
@@ -105403,6 +105518,11 @@
       "file": "missing/T/82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json"
     },
     {
+      "igdb_id": 37791,
+      "game_name": "Tekichuu Keiba Juku",
+      "file": "missing/T/37791-tekichuu-keiba-juku.json"
+    },
+    {
       "igdb_id": 272551,
       "game_name": "Tekken 6",
       "file": "missing/T/272551-tekken-6.json"
@@ -105556,6 +105676,11 @@
       "igdb_id": 123079,
       "game_name": "Tenchi Muyo! Ryo-Ohki FX",
       "file": "missing/T/123079-tenchi-muyo-ryo-ohki-fx.json"
+    },
+    {
+      "igdb_id": 37790,
+      "game_name": "Tenchi wo Kurau: Sangokushi Gunyuuden",
+      "file": "missing/T/37790-tenchi-wo-kurau-sangokushi-gunyuuden.json"
     },
     {
       "igdb_id": 306683,
@@ -112038,6 +112163,21 @@
       "file": "missing/T/47299-thorns-and-spells.json"
     },
     {
+      "igdb_id": 37789,
+      "game_name": "Thoroughbred Breeder",
+      "file": "missing/T/37789-thoroughbred-breeder.json"
+    },
+    {
+      "igdb_id": 37788,
+      "game_name": "Thoroughbred Breeder II",
+      "file": "missing/T/37788-thoroughbred-breeder-ii.json"
+    },
+    {
+      "igdb_id": 37787,
+      "game_name": "Thoroughbred Breeder III",
+      "file": "missing/T/37787-thoroughbred-breeder-iii.json"
+    },
+    {
       "igdb_id": 336360,
       "game_name": "Those Nights at Ring's 2",
       "file": "missing/T/336360-those-nights-at-rings-2.json"
@@ -113783,6 +113923,11 @@
       "file": "missing/T/322951-tokimeter.json"
     },
     {
+      "igdb_id": 37786,
+      "game_name": "Tokoro's Mahjong",
+      "file": "missing/T/37786-tokoros-mahjong.json"
+    },
+    {
       "igdb_id": 126011,
       "game_name": "Tokoro's Mahjong Jr.",
       "file": "missing/T/126011-tokoros-mahjong-jr.json"
@@ -114298,6 +114443,11 @@
       "file": "missing/T/107883-top-down-racer.json"
     },
     {
+      "igdb_id": 37785,
+      "game_name": "Top Management II",
+      "file": "missing/T/37785-top-management-ii.json"
+    },
+    {
       "igdb_id": 102209,
       "game_name": "Top Street Soccer",
       "file": "missing/T/102209-top-street-soccer.json"
@@ -114371,6 +114521,11 @@
       "igdb_id": 308530,
       "game_name": "Toree's Panic Pack",
       "file": "missing/T/308530-torees-panic-pack.json"
+    },
+    {
+      "igdb_id": 37784,
+      "game_name": "Toride",
+      "file": "missing/T/37784-toride.json"
     },
     {
       "igdb_id": 228700,
@@ -114531,6 +114686,11 @@
       "igdb_id": 129222,
       "game_name": "Toto's Toy Box",
       "file": "missing/T/129222-totos-toy-box.json"
+    },
+    {
+      "igdb_id": 37783,
+      "game_name": "Tottemo! Luckyman: Lucky Cookie Roulette de Totsugeki",
+      "file": "missing/T/37783-tottemo-luckyman-lucky-cookie-roulette-de-totsugeki.json"
     },
     {
       "igdb_id": 220854,
@@ -115908,6 +116068,11 @@
       "file": "missing/T/234936-travelers-bastion.json"
     },
     {
+      "igdb_id": 37782,
+      "game_name": "Traverse: Starlight & Prairie",
+      "file": "missing/T/37782-traverse-starlight-and-prairie.json"
+    },
+    {
       "igdb_id": 105939,
       "game_name": "Trax: Build it Race it",
       "file": "missing/T/105939-trax-build-it-race-it.json"
@@ -116713,6 +116878,11 @@
       "file": "missing/T/120995-tsukikage-no-simulacre-kaihou-no-hane.json"
     },
     {
+      "igdb_id": 37781,
+      "game_name": "Tsukikomori",
+      "file": "missing/T/37781-tsukikomori.json"
+    },
+    {
       "igdb_id": 66115,
       "game_name": "Tsukumonogatari",
       "file": "missing/T/66115-tsukumonogatari.json"
@@ -116743,6 +116913,16 @@
       "file": "missing/T/318235-tsuneko-apple.json"
     },
     {
+      "igdb_id": 37780,
+      "game_name": "Tsuppari Oozumou: Risshin Shusse-hen",
+      "file": "missing/T/37780-tsuppari-oozumou-risshin-shusse-hen.json"
+    },
+    {
+      "igdb_id": 37779,
+      "game_name": "Tsuri Tarou",
+      "file": "missing/T/37779-tsuri-tarou.json"
+    },
+    {
       "igdb_id": 59431,
       "game_name": "Tsuru Teruhito no Jissen Kabushiki Bi-Game",
       "file": "missing/T/59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json"
@@ -116751,6 +116931,11 @@
       "igdb_id": 67989,
       "game_name": "Tsuushin Taisen Mahjong: Touryuumon",
       "file": "missing/T/67989-tsuushin-taisen-mahjong-touryuumon.json"
+    },
+    {
+      "igdb_id": 37778,
+      "game_name": "Tsuyoshi Shikkari Shinasai Taisen Puzzle-dama",
+      "file": "missing/T/37778-tsuyoshi-shikkari-shinasai-taisen-puzzle-dama.json"
     },
     {
       "igdb_id": 253565,
@@ -116921,6 +117106,16 @@
       "igdb_id": 172195,
       "game_name": "Turdy",
       "file": "missing/T/172195-turdy.json"
+    },
+    {
+      "igdb_id": 37776,
+      "game_name": "Turf Hero",
+      "file": "missing/T/37776-turf-hero.json"
+    },
+    {
+      "igdb_id": 37808,
+      "game_name": "Turf Memories",
+      "file": "missing/T/37808-turf-memories.json"
     },
     {
       "igdb_id": 244501,
@@ -117683,6 +117878,11 @@
       "file": "missing/U/224203-ultra-age-rebirth-project.json"
     },
     {
+      "igdb_id": 37775,
+      "game_name": "Ultra Baseball Jitsumei-ban 3",
+      "file": "missing/U/37775-ultra-baseball-jitsumei-ban-3.json"
+    },
+    {
       "igdb_id": 47317,
       "game_name": "Ultra Bust-A-Move",
       "file": "missing/U/47317-ultra-bust-a-move.json"
@@ -117776,6 +117976,16 @@
       "igdb_id": 219257,
       "game_name": "Umbral Core",
       "file": "missing/U/219257-umbral-core.json"
+    },
+    {
+      "igdb_id": 37774,
+      "game_name": "Umi no Nushi Tsuri",
+      "file": "missing/U/37774-umi-no-nushi-tsuri.json"
+    },
+    {
+      "igdb_id": 37773,
+      "game_name": "Umi Tsuri Mejin: Suzuki-hen",
+      "file": "missing/U/37773-umi-tsuri-mejin-suzuki-hen.json"
     },
     {
       "igdb_id": 276489,
@@ -119603,6 +119813,11 @@
       "file": "missing/V/55202-verminator.json"
     },
     {
+      "igdb_id": 37772,
+      "game_name": "Verne World",
+      "file": "missing/V/37772-verne-world.json"
+    },
+    {
       "igdb_id": 53873,
       "game_name": "Versailles II",
       "file": "missing/V/53873-versailles-ii.json"
@@ -120583,6 +120798,11 @@
       "file": "missing/V/223136-vs-sonic-dash-and-spin.json"
     },
     {
+      "igdb_id": 37771,
+      "game_name": "Vs. Collection",
+      "file": "missing/V/37771-vs-collection.json"
+    },
+    {
       "igdb_id": 169999,
       "game_name": "Vs. Hogan's Alley",
       "file": "missing/V/169999-vs-hogans-alley.json"
@@ -120773,6 +120993,11 @@
       "file": "missing/W/96093-waku-waku-sweets-happy-sweets-making.json"
     },
     {
+      "igdb_id": 37770,
+      "game_name": "Waku-waku Ski Wonder Spur",
+      "file": "missing/W/37770-waku-waku-ski-wonder-spur.json"
+    },
+    {
       "igdb_id": 85479,
       "game_name": "Wakugumi: Monochrome Puzzle",
       "file": "missing/W/85479-wakugumi-monochrome-puzzle.json"
@@ -120846,6 +121071,11 @@
       "igdb_id": 64967,
       "game_name": "Wall Street Trader 98",
       "file": "missing/W/64967-wall-street-trader-98.json"
+    },
+    {
+      "igdb_id": 37769,
+      "game_name": "Wally wo Sagase! Ehon no Kuni no Daibouken!",
+      "file": "missing/W/37769-wally-wo-sagase-ehon-no-kuni-no-daibouken.json"
     },
     {
       "igdb_id": 205253,
@@ -121151,6 +121381,11 @@
       "igdb_id": 139480,
       "game_name": "War Yards",
       "file": "missing/W/139480-war-yards.json"
+    },
+    {
+      "igdb_id": 37768,
+      "game_name": "Waratte Iitomo! Tamorinpic",
+      "file": "missing/W/37768-waratte-iitomo-tamorinpic.json"
     },
     {
       "igdb_id": 72094,
@@ -122778,6 +123013,11 @@
       "file": "missing/W/298863-winning-lure.json"
     },
     {
+      "igdb_id": 37767,
+      "game_name": "Winning Post 2",
+      "file": "missing/W/37767-winning-post-2.json"
+    },
+    {
       "igdb_id": 194007,
       "game_name": "Winning Post 7 2010",
       "file": "missing/W/194007-winning-post-7-2010.json"
@@ -123596,6 +123836,16 @@
       "igdb_id": 239338,
       "game_name": "World Class Golf",
       "file": "missing/W/239338-world-class-golf.json"
+    },
+    {
+      "igdb_id": 37766,
+      "game_name": "World Class Rugby 2",
+      "file": "missing/W/37766-world-class-rugby-2.json"
+    },
+    {
+      "igdb_id": 37765,
+      "game_name": "World Class Service Super Nintendo Tester",
+      "file": "missing/W/37765-world-class-service-super-nintendo-tester.json"
     },
     {
       "igdb_id": 85497,
