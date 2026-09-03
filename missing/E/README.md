@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Food Fight VR | 117075 | [117075-epic-food-fight-vr.json](./117075-epic-food-fight-vr.json) |
 | Epic Party Clicker | 314632 | [314632-epic-party-clicker.json](./314632-epic-party-clicker.json) |
 | Epic Prose: Special Edition | 52020 | [52020-epic-prose-special-edition.json](./52020-epic-prose-special-edition.json) |
+| Epic Showdown | 34365 | [34365-epic-showdown.json](./34365-epic-showdown.json) |
 | Epic Skater | 70999 | [70999-epic-skater.json](./70999-epic-skater.json) |
 | Epic Snails | 68696 | [68696-epic-snails.json](./68696-epic-snails.json) |
 | Epicedium | 102797 | [102797-epicedium.json](./102797-epicedium.json) |
@@ -385,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from here | 68666 | [68666-escape-from-here.json](./68666-escape-from-here.json) |
 | Escape from Island | 313502 | [313502-escape-from-island.json](./313502-escape-from-island.json) |
 | Escape From Lavender Island | 235991 | [235991-escape-from-lavender-island.json](./235991-escape-from-lavender-island.json) |
+| Escape from Puzzlegate | 34373 | [34373-escape-from-puzzlegate.json](./34373-escape-from-puzzlegate.json) |
 | Escape From Roswell | 225901 | [225901-escape-from-roswell.json](./225901-escape-from-roswell.json) |
 | Escape From School: F.E.L.I.K | 235472 | [235472-escape-from-school-f-e-l-i-k.json](./235472-escape-from-school-f-e-l-i-k.json) |
 | Escape From Sunveil Starport | 299430 | [299430-escape-from-sunveil-starport.json](./299430-escape-from-sunveil-starport.json) |
@@ -512,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
 | Evil of Demons: Algailah | 243948 | [243948-evil-of-demons-algailah.json](./243948-evil-of-demons-algailah.json) |
 | Evil Resistance: Morning of the Dead | 55183 | [55183-evil-resistance-morning-of-the-dead.json](./55183-evil-resistance-morning-of-the-dead.json) |
+| Evil Robot Traffic Jam HD | 34407 | [34407-evil-robot-traffic-jam-hd.json](./34407-evil-robot-traffic-jam-hd.json) |
 | Evil Spirits | 55182 | [55182-evil-spirits.json](./55182-evil-spirits.json) |
 | Evil Tactics | 236018 | [236018-evil-tactics.json](./236018-evil-tactics.json) |
 | Evil Zombies: Death on the Road | 232158 | [232158-evil-zombies-death-on-the-road.json](./232158-evil-zombies-death-on-the-road.json) |
