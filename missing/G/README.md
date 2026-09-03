@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius: Im Zentrum der Macht | 86122 | [86122-genius-im-zentrum-der-macht.json](./86122-genius-im-zentrum-der-macht.json) |
 | Genji: Time Suspense Adventure | 66150 | [66150-genji-time-suspense-adventure.json](./66150-genji-time-suspense-adventure.json) |
 | Geno 2 the Generals' Orders | 265933 | [265933-geno-2-the-generals-orders.json](./265933-geno-2-the-generals-orders.json) |
+| Genocide 2 | 38334 | [38334-genocide-2.json](./38334-genocide-2.json) |
 | Genre Hopper | 182532 | [182532-genre-hopper.json](./182532-genre-hopper.json) |
 | Genshin Impact: To the Stars Shining in the Depths | 266492 | [266492-genshin-impact-to-the-stars-shining-in-the-depths.json](./266492-genshin-impact-to-the-stars-shining-in-the-depths.json) |
 | Genso Flood Front | 214768 | [214768-genso-flood-front.json](./214768-genso-flood-front.json) |
