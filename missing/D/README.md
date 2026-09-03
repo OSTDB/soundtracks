@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damn Little Town | 262062 | [262062-damn-little-town.json](./262062-damn-little-town.json) |
 | Damned Hand: Arcade Mode | 171069 | [171069-damned-hand-arcade-mode.json](./171069-damned-hand-arcade-mode.json) |
 | Dan Vs. This Game | 63879 | [63879-dan-vs-this-game.json](./63879-dan-vs-this-game.json) |
+| Danball Senki W Chou Custom | 59406 | [59406-danball-senki-w-chou-custom.json](./59406-danball-senki-w-chou-custom.json) |
 | Dance Around | 210279 | [210279-dance-around.json](./210279-dance-around.json) |
 | Dance Dance Revolution ExtraMix | 93034 | [93034-dance-dance-revolution-extramix.json](./93034-dance-dance-revolution-extramix.json) |
 | Dance Dance Revolution GB | 72734 | [72734-dance-dance-revolution-gb.json](./72734-dance-dance-revolution-gb.json) |
@@ -290,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadwar: Old Lies | 94730 | [94730-deadwar-old-lies.json](./94730-deadwar-old-lies.json) |
 | DeadWire | 332252 | [332252-deadwire.json](./332252-deadwire.json) |
 | Dear Diary | 297233 | [297233-dear-diary.json](./297233-dear-diary.json) |
+| Dear Drops Distortion | 59421 | [59421-dear-drops-distortion.json](./59421-dear-drops-distortion.json) |
 | Dear Genny | 177532 | [177532-dear-genny.json](./177532-dear-genny.json) |
 | Death Again | 185123 | [185123-death-again.json](./185123-death-again.json) |
 | Death Bowl | 208598 | [208598-death-bowl.json](./208598-death-bowl.json) |
@@ -758,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Nanobot | 207530 | [207530-doctor-nanobot.json](./207530-doctor-nanobot.json) |
 | Doctor Tsunami | 111708 | [111708-doctor-tsunami.json](./111708-doctor-tsunami.json) |
 | Doctor Who and the Warlord | 66675 | [66675-doctor-who-and-the-warlord.json](./66675-doctor-who-and-the-warlord.json) |
+| Doctor Who Game Maker | 59457 | [59457-doctor-who-game-maker.json](./59457-doctor-who-game-maker.json) |
 | Doctor Who: An Unlikely Heist | 245024 | [245024-doctor-who-an-unlikely-heist.json](./245024-doctor-who-an-unlikely-heist.json) |
 | Doctor Who: Dalek Break-Out | 249447 | [249447-doctor-who-dalek-break-out.json](./249447-doctor-who-dalek-break-out.json) |
 | Doctor Who: Doctor In A Dash | 249464 | [249464-doctor-who-doctor-in-a-dash.json](./249464-doctor-who-doctor-in-a-dash.json) |
@@ -767,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge Club Pocket | 96105 | [96105-dodge-club-pocket.json](./96105-dodge-club-pocket.json) |
 | Dodge Dancer | 149577 | [149577-dodge-dancer.json](./149577-dodge-dancer.json) |
 | Dodge Racing: Charger vs Challenger | 197942 | [197942-dodge-racing-charger-vs-challenger.json](./197942-dodge-racing-charger-vs-challenger.json) |
+| DodgerBall | 59415 | [59415-dodgerball.json](./59415-dodgerball.json) |
 | DoDodge2020 | 209674 | [209674-dododge2020.json](./209674-dododge2020.json) |
 | DodoGo! | 66709 | [66709-dodogo.json](./66709-dodogo.json) |
 | DoDonPachi DaiOuJou DX | 214719 | [214719-dodonpachi-daioujou-dx.json](./214719-dodonpachi-daioujou-dx.json) |
@@ -787,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogs of Wallstreet | 197925 | [197925-dogs-of-wallstreet.json](./197925-dogs-of-wallstreet.json) |
 | Dogs Organized Neatly | 154011 | [154011-dogs-organized-neatly.json](./154011-dogs-organized-neatly.json) |
 | Dogs++ | 180814 | [180814-dogs.json](./180814-dogs.json) |
+| DogStation | 59441 | [59441-dogstation.json](./59441-dogstation.json) |
 | Dogville | 272032 | [272032-dogville.json](./272032-dogville.json) |
 | DogWorld Premium | 87265 | [87265-dogworld-premium.json](./87265-dogworld-premium.json) |
 | Doka 2: Guts Out Ninja | 114386 | [114386-doka-2-guts-out-ninja.json](./114386-doka-2-guts-out-ninja.json) |
