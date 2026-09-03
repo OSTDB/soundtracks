@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Record of Agarest War: Limited Edition | 261541 | [261541-record-of-agarest-war-limited-edition.json](./261541-record-of-agarest-war-limited-edition.json) |
 | Record of Battle 3D Maiden Wars | 166209 | [166209-record-of-battle-3d-maiden-wars.json](./166209-record-of-battle-3d-maiden-wars.json) |
 | Record of Lodoss War | 81386 | [81386-record-of-lodoss-war.json](./81386-record-of-lodoss-war.json) |
+| Record of Lodoss War II | 66140 | [66140-record-of-lodoss-war-ii.json](./66140-record-of-lodoss-war-ii.json) |
 | Record Store Nightmare | 68660 | [68660-record-store-nightmare.json](./68660-record-store-nightmare.json) |
 | Recordance | 257109 | [257109-recordance.json](./257109-recordance.json) |
 | Recreational Dreaming | 83574 | [83574-recreational-dreaming.json](./83574-recreational-dreaming.json) |
@@ -1034,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runway | 174345 | [174345-runway.json](./174345-runway.json) |
 | RuPaul's Drag Race Match Queen | 339640 | [339640-rupauls-drag-race-match-queen.json](./339640-rupauls-drag-race-match-queen.json) |
 | Ruptured | 226438 | [226438-ruptured.json](./226438-ruptured.json) |
+| Rupupu Cube: Lup Salad | 66137 | [66137-rupupu-cube-lup-salad.json](./66137-rupupu-cube-lup-salad.json) |
 | Rural Nightmare | 272007 | [272007-rural-nightmare.json](./272007-rural-nightmare.json) |
 | Rush | 272586 | [272586-rush.json](./272586-rush.json) |
 | Rush Hour Deluxe: The ultimate traffic jam game! | 220878 | [220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json](./220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json) |
