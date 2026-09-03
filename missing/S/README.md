@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seashine | 143091 | [143091-seashine.json](./143091-seashine.json) |
 | Seaway | 181901 | [181901-seaway.json](./181901-seaway.json) |
 | Seawolf + Missile | 139470 | [139470-seawolf-missile.json](./139470-seawolf-missile.json) |
+| SeaWorld Adventure Parks Tycoon | 73288 | [73288-seaworld-adventure-parks-tycoon.json](./73288-seaworld-adventure-parks-tycoon.json) |
 | Second Final | 120381 | [120381-second-final.json](./120381-second-final.json) |
 | Second Novel: Kanojo no Natsu, 15fun no Kioku | 138805 | [138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json](./138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json) |
 | Second Soul | 202407 | [202407-second-soul.json](./202407-second-soul.json) |
@@ -522,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai DS | 84855 | [84855-shanghai-ds.json](./84855-shanghai-ds.json) |
 | Shanghai Gold | 297216 | [297216-shanghai-gold.json](./297216-shanghai-gold.json) |
 | Shanghai Wii | 84853 | [84853-shanghai-wii.json](./84853-shanghai-wii.json) |
+| Shanghai: Great Moments | 73316 | [73316-shanghai-great-moments.json](./73316-shanghai-great-moments.json) |
 | Shanghai1920 | 169452 | [169452-shanghai1920.json](./169452-shanghai1920.json) |
 | Shaolin Master | 123063 | [123063-shaolin-master.json](./123063-shaolin-master.json) |
 | Shaolin Master Plus | 123062 | [123062-shaolin-master-plus.json](./123062-shaolin-master-plus.json) |
@@ -634,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogi Nyuumon | 126014 | [126014-shogi-nyuumon.json](./126014-shogi-nyuumon.json) |
 | Shogi Wars | 312359 | [312359-shogi-wars.json](./312359-shogi-wars.json) |
 | Shohei's Adult Streaming Channel | 161357 | [161357-shoheis-adult-streaming-channel.json](./161357-shoheis-adult-streaming-channel.json) |
+| Shokrok Throwdown | 73283 | [73283-shokrok-throwdown.json](./73283-shokrok-throwdown.json) |
 | Shoku Iku Series 1: Soreike! Anpanman: Sukikirai Nai Ko Genki na Ko! | 327607 | [327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json](./327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json) |
 | Shokugeki no Soma: Yuujou to Kizuna no Hitosara | 222523 | [222523-shokugeki-no-soma-yuujou-to-kizuna-no-hitosara.json](./222523-shokugeki-no-soma-yuujou-to-kizuna-no-hitosara.json) |
 | Shoot Bubble Deluxe | 312882 | [312882-shoot-bubble-deluxe.json](./312882-shoot-bubble-deluxe.json) |
@@ -1095,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowman Attack | 262078 | [262078-snowman-attack.json](./262078-snowman-attack.json) |
 | SnowRunner: Jeep Dual Pack | 169995 | [169995-snowrunner-jeep-dual-pack.json](./169995-snowrunner-jeep-dual-pack.json) |
 | SnowRunner: Season 14 - Reap and Sow | 336931 | [336931-snowrunner-season-14-reap-and-sow.json](./336931-snowrunner-season-14-reap-and-sow.json) |
+| Snowy: Lunch Rush | 73289 | [73289-snowy-lunch-rush.json](./73289-snowy-lunch-rush.json) |
 | Snug Finder & Puzzles | 231059 | [231059-snug-finder-and-puzzles.json](./231059-snug-finder-and-puzzles.json) |
 | So Below | 218732 | [218732-so-below.json](./218732-so-below.json) |
 | So Below | 269844 | [269844-so-below.json](./269844-so-below.json) |
@@ -1385,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space City: Build Your Empire | 199662 | [199662-space-city-build-your-empire.json](./199662-space-city-build-your-empire.json) |
 | Space Cobra RetPixMod | 178647 | [178647-space-cobra-retpixmod.json](./178647-space-cobra-retpixmod.json) |
 | Space Command Battleship | 262071 | [262071-space-command-battleship.json](./262071-space-command-battleship.json) |
+| Space Conquest: A Galactic Odyssey | 73295 | [73295-space-conquest-a-galactic-odyssey.json](./73295-space-conquest-a-galactic-odyssey.json) |
 | Space Contact | 340198 | [340198-space-contact.json](./340198-space-contact.json) |
 | Space Court | 137684 | [137684-space-court.json](./137684-space-court.json) |
 | Space Crusade: The Voyage Beyond | 73855 | [73855-space-crusade-the-voyage-beyond.json](./73855-space-crusade-the-voyage-beyond.json) |
@@ -1558,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spliced | 218706 | [218706-spliced.json](./218706-spliced.json) |
 | Splinterlands | 165055 | [165055-splinterlands.json](./165055-splinterlands.json) |
 | Split Drive | 189197 | [189197-split-drive.json](./189197-split-drive.json) |
+| Split Personalities | 73323 | [73323-split-personalities.json](./73323-split-personalities.json) |
 | SpongeBob SquarePants: Flip or Flop | 273123 | [273123-spongebob-squarepants-flip-or-flop.json](./273123-spongebob-squarepants-flip-or-flop.json) |
 | Spook Tower | 179735 | [179735-spook-tower.json](./179735-spook-tower.json) |
 | Spookity Hollow | 170549 | [170549-spookity-hollow.json](./170549-spookity-hollow.json) |
@@ -1592,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spotlight: Choose Your Romance | 298871 | [298871-spotlight-choose-your-romance.json](./298871-spotlight-choose-your-romance.json) |
 | Spotlight!!! | 299479 | [299479-spotlight.json](./299479-spotlight.json) |
 | Spotted | 200720 | [200720-spotted.json](./200720-spotted.json) |
+| SPQR: The Empire's Darkest Hour | 73328 | [73328-spqr-the-empires-darkest-hour.json](./73328-spqr-the-empires-darkest-hour.json) |
 | Sprawl 96 | 314636 | [314636-sprawl-96.json](./314636-sprawl-96.json) |
 | Spread Out! Hold Naar' Havok | 273632 | [273632-spread-out-hold-naar-havok.json](./273632-spread-out-hold-naar-havok.json) |
 | Spring Catastrophe | 246652 | [246652-spring-catastrophe.json](./246652-spring-catastrophe.json) |
@@ -1710,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star: M | 306059 | [306059-star-m.json](./306059-star-m.json) |
 | Star'Shoot | 105327 | [105327-starshoot.json](./105327-starshoot.json) |
 | Starazius | 122423 | [122423-starazius.json](./122423-starazius.json) |
+| Starbirds | 73292 | [73292-starbirds.json](./73292-starbirds.json) |
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
 | Starboost EX | 123636 | [123636-starboost-ex.json](./123636-starboost-ex.json) |
 | Starborn Space | 115027 | [115027-starborn-space.json](./115027-starborn-space.json) |
@@ -1740,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlite: Defender of Justice | 156687 | [156687-starlite-defender-of-justice.json](./156687-starlite-defender-of-justice.json) |
 | Starman: Tale of Light | 104681 | [104681-starman-tale-of-light.json](./104681-starman-tale-of-light.json) |
 | StarOS | 255961 | [255961-staros.json](./255961-staros.json) |
+| StarPeace | 73286 | [73286-starpeace.json](./73286-starpeace.json) |
 | StarPicker | 149607 | [149607-starpicker.json](./149607-starpicker.json) |
 | Starpiercer | 181360 | [181360-starpiercer.json](./181360-starpiercer.json) |
 | Starpoint Gemini 2 Gold Pack | 308575 | [308575-starpoint-gemini-2-gold-pack.json](./308575-starpoint-gemini-2-gold-pack.json) |
@@ -2372,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 1500 Series: Qix 2000 | 97320 | [97320-superlite-1500-series-qix-2000.json](./97320-superlite-1500-series-qix-2000.json) |
 | SuperLite 1500: Crazy Balloon 2000 | 97323 | [97323-superlite-1500-crazy-balloon-2000.json](./97323-superlite-1500-crazy-balloon-2000.json) |
 | Superman: Man of Steel | 264862 | [264862-superman-man-of-steel.json](./264862-superman-man-of-steel.json) |
+| Superman: The Mysterious Mr. Mist | 73324 | [73324-superman-the-mysterious-mr-mist.json](./73324-superman-the-mysterious-mr-mist.json) |
 | Supermarket Manager | 218686 | [218686-supermarket-manager.json](./218686-supermarket-manager.json) |
 | Supernatural Squad | 333395 | [333395-supernatural-squad.json](./333395-supernatural-squad.json) |
 | Supernatural Sweethearts | 206951 | [206951-supernatural-sweethearts.json](./206951-supernatural-sweethearts.json) |
