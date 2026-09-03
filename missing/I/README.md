@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IGKnight | 238720 | [238720-igknight.json](./238720-igknight.json) |
 | Ignisia | 328239 | [328239-ignisia.json](./328239-ignisia.json) |
 | Ignition | 180309 | [180309-ignition.json](./180309-ignition.json) |
+| Igo Shinan | 63890 | [63890-igo-shinan.json](./63890-igo-shinan.json) |
 | IguaRPG 2 | 314033 | [314033-iguarpg-2.json](./314033-iguarpg-2.json) |
 | II-III-V | 180808 | [180808-ii-iii-v.json](./180808-ii-iii-v.json) |
 | Ijigen Kara no Dasshutsu: Escape from Twilight Zone | 97326 | [97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json](./97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json) |
