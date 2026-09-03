@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.I.E.B The Backrooms Project | 265402 | [265402-c-i-e-b-the-backrooms-project.json](./265402-c-i-e-b-the-backrooms-project.json) |
 | C.L.T.: Cheguei Louco no Trabalho | 255390 | [255390-c-l-t-cheguei-louco-no-trabalho.json](./255390-c-l-t-cheguei-louco-no-trabalho.json) |
 | C15: Horror | 121001 | [121001-c15-horror.json](./121001-c15-horror.json) |
+| C64 & Amiga Classix Remakes Sixpack | 94773 | [94773-c64-and-amiga-classix-remakes-sixpack.json](./94773-c64-and-amiga-classix-remakes-sixpack.json) |
 | Cactiverse | 314668 | [314668-cactiverse.json](./314668-cactiverse.json) |
 | Cactus Cowboy 3: Fully Loaded | 152901 | [152901-cactus-cowboy-3-fully-loaded.json](./152901-cactus-cowboy-3-fully-loaded.json) |
 | Cactus Cowboy: Desert Warfare | 263233 | [263233-cactus-cowboy-desert-warfare.json](./263233-cactus-cowboy-desert-warfare.json) |
@@ -659,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click on their Heads | 158189 | [158189-click-on-their-heads.json](./158189-click-on-their-heads.json) |
 | Click the Business | 111007 | [111007-click-the-business.json](./111007-click-the-business.json) |
 | Click to Sail | 218703 | [218703-click-to-sail.json](./218703-click-to-sail.json) |
+| Click! | 94731 | [94731-click.json](./94731-click.json) |
 | ClickCells: Summer | 173834 | [173834-clickcells-summer.json](./173834-clickcells-summer.json) |
 | Clientele | 213020 | [213020-clientele.json](./213020-clientele.json) |
 | Cliff Rush 3D | 322986 | [322986-cliff-rush-3d.json](./322986-cliff-rush-3d.json) |
@@ -1117,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crey | 126030 | [126030-crey.json](./126030-crey.json) |
 | Criaturas de la Noche | 272011 | [272011-criaturas-de-la-noche.json](./272011-criaturas-de-la-noche.json) |
 | Cribbage Pro | 141872 | [141872-cribbage-pro.json](./141872-cribbage-pro.json) |
+| Cribbage With Grandpas | 94781 | [94781-cribbage-with-grandpas.json](./94781-cribbage-with-grandpas.json) |
 | Cricket Captain | 95430 | [95430-cricket-captain.json](./95430-cricket-captain.json) |
 | Cricket League | 242218 | [242218-cricket-league.json](./242218-cricket-league.json) |
 | Crime District | 165699 | [165699-crime-district.json](./165699-crime-district.json) |
