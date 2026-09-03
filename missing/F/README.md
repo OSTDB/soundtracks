@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flintstones' Bedrock Boblseddin' Blowout | 196839 | [196839-flintstones-bedrock-boblseddin-blowout.json](./196839-flintstones-bedrock-boblseddin-blowout.json) |
 | Flip of Light | 185119 | [185119-flip-of-light.json](./185119-flip-of-light.json) |
 | Flip Out | 79314 | [79314-flip-out.json](./79314-flip-out.json) |
+| Flip Words | 77381 | [77381-flip-words.json](./77381-flip-words.json) |
 | FlipBook | 315831 | [315831-flipbook.json](./315831-flipbook.json) |
 | Flipped | 190737 | [190737-flipped.json](./190737-flipped.json) |
 | Flipped in Love | 143744 | [143744-flipped-in-love.json](./143744-flipped-in-love.json) |
