@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Cookie: More Cookies | 340239 | [340239-fortune-cookie-more-cookies.json](./340239-fortune-cookie-more-cookies.json) |
 | Fortune Handlers | 235493 | [235493-fortune-handlers.json](./235493-fortune-handlers.json) |
 | Fortune Hunters | 117729 | [117729-fortune-hunters.json](./117729-fortune-hunters.json) |
+| Fortune Street Smart | 64398 | [64398-fortune-street-smart.json](./64398-fortune-street-smart.json) |
 | Fortune Telling | 121042 | [121042-fortune-telling.json](./121042-fortune-telling.json) |
 | Forza Horizon - December IGN Car Pack | 132825 | [132825-forza-horizon-december-ign-car-pack.json](./132825-forza-horizon-december-ign-car-pack.json) |
 | Forza Horizon 5: Apex Allstars Car Pack | 305531 | [305531-forza-horizon-5-apex-allstars-car-pack.json](./305531-forza-horizon-5-apex-allstars-car-pack.json) |
@@ -923,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froot Basket Valentine | 179720 | [179720-froot-basket-valentine.json](./179720-froot-basket-valentine.json) |
 | Frost Dragon in Wonder Land | 199633 | [199633-frost-dragon-in-wonder-land.json](./199633-frost-dragon-in-wonder-land.json) |
 | Frost Survivors: Text Game | 318197 | [318197-frost-survivors-text-game.json](./318197-frost-survivors-text-game.json) |
+| Frost Wars: The Rise of Fatty Sparkles | 64440 | [64440-frost-wars-the-rise-of-fatty-sparkles.json](./64440-frost-wars-the-rise-of-fatty-sparkles.json) |
 | Frostbite: Deadly Climate | 105360 | [105360-frostbite-deadly-climate.json](./105360-frostbite-deadly-climate.json) |
 | Frostbitten | 199101 | [199101-frostbitten.json](./199101-frostbitten.json) |
 | Frostborn: Coop Survival | 141199 | [141199-frostborn-coop-survival.json](./141199-frostborn-coop-survival.json) |
