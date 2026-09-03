@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exercise Book Epic | 90659 | [90659-exercise-book-epic.json](./90659-exercise-book-epic.json) |
 | ExerciseSimulator Vol.1 | 309666 | [309666-exercisesimulator-vol-1.json](./309666-exercisesimulator-vol-1.json) |
 | Exhibit of Sorrows | 321126 | [321126-exhibit-of-sorrows.json](./321126-exhibit-of-sorrows.json) |
+| Exhibition | 60014 | [60014-exhibition.json](./60014-exhibition.json) |
 | Exilio | 218712 | [218712-exilio.json](./218712-exilio.json) |
 | Exist | 212488 | [212488-exist.json](./212488-exist.json) |
 | Existential | 193503 | [193503-existential.json](./193503-existential.json) |
