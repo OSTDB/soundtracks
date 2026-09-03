@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meat Shift | 181895 | [181895-meat-shift.json](./181895-meat-shift.json) |
 | Meatly's Storage World | 233751 | [233751-meatlys-storage-world.json](./233751-meatlys-storage-world.json) |
 | Mech Bros | 302678 | [302678-mech-bros.json](./302678-mech-bros.json) |
+| Mech Commander Gold | 51238 | [51238-mech-commander-gold.json](./51238-mech-commander-gold.json) |
 | Mech Farmer | 150696 | [150696-mech-farmer.json](./150696-mech-farmer.json) |
 | Mech Shuffle | 211964 | [211964-mech-shuffle.json](./211964-mech-shuffle.json) |
 | Mech vs. Bugs | 263784 | [263784-mech-vs-bugs.json](./263784-mech-vs-bugs.json) |
@@ -496,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechCom | 101549 | [101549-mechcom.json](./101549-mechcom.json) |
 | Mechsternmination Force | 115705 | [115705-mechsternmination-force.json](./115705-mechsternmination-force.json) |
 | MechWarrior Online: Black Hawk-Ku Mech Pack | 305533 | [305533-mechwarrior-online-black-hawk-ku-mech-pack.json](./305533-mechwarrior-online-black-hawk-ku-mech-pack.json) |
+| MechWarrior: Living Legends | 51237 | [51237-mechwarrior-living-legends.json](./51237-mechwarrior-living-legends.json) |
 | Medabots 5: Susutake Mura no Tenkousei | 55142 | [55142-medabots-5-susutake-mura-no-tenkousei.json](./55142-medabots-5-susutake-mura-no-tenkousei.json) |
 | Medabots Classic Collection | 55143 | [55143-medabots-classic-collection.json](./55143-medabots-classic-collection.json) |
 | Medal of Honor: Airborne | 264877 | [264877-medal-of-honor-airborne.json](./264877-medal-of-honor-airborne.json) |
@@ -674,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Revolution | 114398 | [114398-metal-revolution.json](./114398-metal-revolution.json) |
 | Metal Saga: The Ark of Wastes | 75851 | [75851-metal-saga-the-ark-of-wastes.json](./75851-metal-saga-the-ark-of-wastes.json) |
 | Metal Slug 1st & 2nd Mission Double Pack | 173779 | [173779-metal-slug-1st-and-2nd-mission-double-pack.json](./173779-metal-slug-1st-and-2nd-mission-double-pack.json) |
+| Metal Slug Collection | 51223 | [51223-metal-slug-collection.json](./51223-metal-slug-collection.json) |
 | Metal Slug Revolution | 98432 | [98432-metal-slug-revolution.json](./98432-metal-slug-revolution.json) |
 | Metal Sonic in Sonic 3 & Knuckles | 129187 | [129187-metal-sonic-in-sonic-3-and-knuckles.json](./129187-metal-sonic-in-sonic-3-and-knuckles.json) |
 | Metal Sonic in Sonic the Hedgehog | 198525 | [198525-metal-sonic-in-sonic-the-hedgehog.json](./198525-metal-sonic-in-sonic-the-hedgehog.json) |
@@ -1384,6 +1387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Presidents | 208027 | [208027-mr-presidents.json](./208027-mr-presidents.json) |
 | Mr. Pumpkin 2: Kowloon Walled City | 126666 | [126666-mr-pumpkin-2-kowloon-walled-city.json](./126666-mr-pumpkin-2-kowloon-walled-city.json) |
 | Mr. Pumpkin Series Bundle | 173799 | [173799-mr-pumpkin-series-bundle.json](./173799-mr-pumpkin-series-bundle.json) |
+| Mr. Rescue | 51222 | [51222-mr-rescue.json](./51222-mr-rescue.json) |
 | Mr. Rightaway | 341341 | [341341-mr-rightaway.json](./341341-mr-rightaway.json) |
 | Mr. Setam: Lady Killer | 61118 | [61118-mr-setam-lady-killer.json](./61118-mr-setam-lady-killer.json) |
 | Mr. Steal Yo Wifi | 107200 | [107200-mr-steal-yo-wifi.json](./107200-mr-steal-yo-wifi.json) |
