@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexxagon - Board Game | 147988 | [147988-hexxagon-board-game.json](./147988-hexxagon-board-game.json) |
 | Hexxen: Hunters | 262676 | [262676-hexxen-hunters.json](./262676-hexxen-hunters.json) |
 | Hey Bobby! | 331697 | [331697-hey-bobby.json](./331697-hey-bobby.json) |
+| Hey Duggee: The Big Outdoor App | 88308 | [88308-hey-duggee-the-big-outdoor-app.json](./88308-hey-duggee-the-big-outdoor-app.json) |
 | Hi-Fi Rush: Traditional Garb Costume Pack | 255966 | [255966-hi-fi-rush-traditional-garb-costume-pack.json](./255966-hi-fi-rush-traditional-garb-costume-pack.json) |
 | Hibernation | 339638 | [339638-hibernation.json](./339638-hibernation.json) |
 | Hibernation Day | 247772 | [247772-hibernation-day.json](./247772-hibernation-day.json) |
@@ -491,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects: Cartoon Fantasy | 170557 | [170557-hidden-objects-cartoon-fantasy.json](./170557-hidden-objects-cartoon-fantasy.json) |
 | Hidden Objects: Chambord Castle Adventures | 103534 | [103534-hidden-objects-chambord-castle-adventures.json](./103534-hidden-objects-chambord-castle-adventures.json) |
 | Hidden Objects: Messy Kitchen | 233218 | [233218-hidden-objects-messy-kitchen.json](./233218-hidden-objects-messy-kitchen.json) |
+| Hidden Objects: Romantic Love - Castle: Scary Mystery Ghost - The Secret Forest | 88266 | [88266-hidden-objects-romantic-love-castle-scary-mystery-ghost-the-secret-forest.json](./88266-hidden-objects-romantic-love-castle-scary-mystery-ghost-the-secret-forest.json) |
 | Hidden Objects: Victoria in Egypt - Cheops Pyramid | 200197 | [200197-hidden-objects-victoria-in-egypt-cheops-pyramid.json](./200197-hidden-objects-victoria-in-egypt-cheops-pyramid.json) |
 | Hidden Oddities | 302099 | [302099-hidden-oddities.json](./302099-hidden-oddities.json) |
 | Hidden SciFi City Top-Down 3D | 257110 | [257110-hidden-scifi-city-top-down-3d.json](./257110-hidden-scifi-city-top-down-3d.json) |
@@ -504,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiddenverse: Divided Kingdom | 223140 | [223140-hiddenverse-divided-kingdom.json](./223140-hiddenverse-divided-kingdom.json) |
 | Hiddenverse: Ominous Opus | 156677 | [156677-hiddenverse-ominous-opus.json](./156677-hiddenverse-ominous-opus.json) |
 | Hiddenverse: The Iron Tower | 209652 | [209652-hiddenverse-the-iron-tower.json](./209652-hiddenverse-the-iron-tower.json) |
+| Hide and Secret: Pharaoh's Quest | 88264 | [88264-hide-and-secret-pharaohs-quest.json](./88264-hide-and-secret-pharaohs-quest.json) |
 | Hide and Seek | 275354 | [275354-hide-and-seek.json](./275354-hide-and-seek.json) |
 | Hide Time: Chapter 2 | 248911 | [248911-hide-time-chapter-2.json](./248911-hide-time-chapter-2.json) |
 | Hieronymus | 263189 | [263189-hieronymus.json](./263189-hieronymus.json) |
@@ -714,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Alien | 229368 | [229368-hotel-alien.json](./229368-hotel-alien.json) |
 | Hotel Dash Deluxe | 96724 | [96724-hotel-dash-deluxe.json](./96724-hotel-dash-deluxe.json) |
 | Hotel Insanity | 324675 | [324675-hotel-insanity.json](./324675-hotel-insanity.json) |
+| Hotel Island: Paradise Story! | 88318 | [88318-hotel-island-paradise-story.json](./88318-hotel-island-paradise-story.json) |
 | Hotel Mario II | 269846 | [269846-hotel-mario-ii.json](./269846-hotel-mario-ii.json) |
 | Hotel of the Dead | 274749 | [274749-hotel-of-the-dead.json](./274749-hotel-of-the-dead.json) |
 | Hotel Story | 224754 | [224754-hotel-story.json](./224754-hotel-story.json) |
