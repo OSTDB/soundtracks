@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapefall | 295554 | [295554-shapefall.json](./295554-shapefall.json) |
 | Shapefighter | 333401 | [333401-shapefighter.json](./333401-shapefighter.json) |
 | Shapes on the Run | 108479 | [108479-shapes-on-the-run.json](./108479-shapes-on-the-run.json) |
+| Shapes3 | 54477 | [54477-shapes3.json](./54477-shapes3.json) |
 | Shapo | 84898 | [84898-shapo.json](./84898-shapo.json) |
 | Shaq Attaq | 94736 | [94736-shaq-attaq.json](./94736-shaq-attaq.json) |
 | Shard of Kronos | 163967 | [163967-shard-of-kronos.json](./163967-shard-of-kronos.json) |
@@ -909,6 +910,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skepixel | 75154 | [75154-skepixel.json](./75154-skepixel.json) |
 | Sker Ritual: Goon Brenn | 235466 | [235466-sker-ritual-goon-brenn.json](./235466-sker-ritual-goon-brenn.json) |
 | Sketch of a job that you had | 184090 | [184090-sketch-of-a-job-that-you-had.json](./184090-sketch-of-a-job-that-you-had.json) |
+| Sketchy | 54461 | [54461-sketchy.json](./54461-sketchy.json) |
+| Sketchy 2 | 54460 | [54460-sketchy-2.json](./54460-sketchy-2.json) |
 | Skibidi Toilet Hero: Sex Mod | 312888 | [312888-skibidi-toilet-hero-sex-mod.json](./312888-skibidi-toilet-hero-sex-mod.json) |
 | Skid Island: Asphalt Mayhem | 291745 | [291745-skid-island-asphalt-mayhem.json](./291745-skid-island-asphalt-mayhem.json) |
 | Skidmarks | 65506 | [65506-skidmarks.json](./65506-skidmarks.json) |
@@ -1710,6 +1713,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SPQR: The Empire's Darkest Hour | 73328 | [73328-spqr-the-empires-darkest-hour.json](./73328-spqr-the-empires-darkest-hour.json) |
 | Sprawl 96 | 314636 | [314636-sprawl-96.json](./314636-sprawl-96.json) |
 | Spread Out! Hold Naar' Havok | 273632 | [273632-spread-out-hold-naar-havok.json](./273632-spread-out-hold-naar-havok.json) |
+| Sprill & Ritchie: Adventures in Time | 54420 | [54420-sprill-and-ritchie-adventures-in-time.json](./54420-sprill-and-ritchie-adventures-in-time.json) |
+| Sprill: The Mystery of the Bermuda Triangle | 54419 | [54419-sprill-the-mystery-of-the-bermuda-triangle.json](./54419-sprill-the-mystery-of-the-bermuda-triangle.json) |
 | Spring Catastrophe | 246652 | [246652-spring-catastrophe.json](./246652-spring-catastrophe.json) |
 | Spring Cleaning | 179733 | [179733-spring-cleaning.json](./179733-spring-cleaning.json) |
 | Spring of Decadence | 103478 | [103478-spring-of-decadence.json](./103478-spring-of-decadence.json) |
@@ -1721,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprout Lands | 193481 | [193481-sprout-lands.json](./193481-sprout-lands.json) |
 | Sprunki Block Puzzle | 326982 | [326982-sprunki-block-puzzle.json](./326982-sprunki-block-puzzle.json) |
 | Spud Customs | 324090 | [324090-spud-customs.json](./324090-spud-customs.json) |
+| Spuds | 54421 | [54421-spuds.json](./54421-spuds.json) |
 | Spy Alarm | 148572 | [148572-spy-alarm.json](./148572-spy-alarm.json) |
 | Spy Kids Learning Adventures: Mission - Man in the Moon | 73833 | [73833-spy-kids-learning-adventures-mission-man-in-the-moon.json](./73833-spy-kids-learning-adventures-mission-man-in-the-moon.json) |
 | Spy Network | 188111 | [188111-spy-network.json](./188111-spy-network.json) |
@@ -2348,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kenney | 209683 | [209683-super-kenney.json](./209683-super-kenney.json) |
 | Super Kid | 98431 | [98431-super-kid.json](./98431-super-kid.json) |
 | Super Kids Racing: Snow Edition | 249491 | [249491-super-kids-racing-snow-edition.json](./249491-super-kids-racing-snow-edition.json) |
+| Super Killer Hornets: Resurrection | 54413 | [54413-super-killer-hornets-resurrection.json](./54413-super-killer-hornets-resurrection.json) |
 | Super Kobushi de Naguru Chan | 218123 | [218123-super-kobushi-de-naguru-chan.json](./218123-super-kobushi-de-naguru-chan.json) |
 | Super Lone Survivor | 140603 | [140603-super-lone-survivor.json](./140603-super-lone-survivor.json) |
 | Super Luigi Wii: The Emissary | 259276 | [259276-super-luigi-wii-the-emissary.json](./259276-super-luigi-wii-the-emissary.json) |
@@ -2504,6 +2511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Stickman Golf 3 | 58223 | [58223-super-stickman-golf-3.json](./58223-super-stickman-golf-3.json) |
 | Super Sunny World | 324695 | [324695-super-sunny-world.json](./324695-super-sunny-world.json) |
 | Super Surf Bros | 128609 | [128609-super-surf-bros.json](./128609-super-surf-bros.json) |
+| Super Swap! | 54414 | [54414-super-swap.json](./54414-super-swap.json) |
 | Super Swunsh World | 214775 | [214775-super-swunsh-world.json](./214775-super-swunsh-world.json) |
 | Super Taco Crew | 173845 | [173845-super-taco-crew.json](./173845-super-taco-crew.json) |
 | Super Tank Attack | 256556 | [256556-super-tank-attack.json](./256556-super-tank-attack.json) |
@@ -2526,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Wumpus | 152915 | [152915-super-wumpus.json](./152915-super-wumpus.json) |
 | Super X Chess | 111044 | [111044-super-x-chess.json](./111044-super-x-chess.json) |
 | Super XYX | 140036 | [140036-super-xyx.json](./140036-super-xyx.json) |
+| Superbike Racing | 54415 | [54415-superbike-racing.json](./54415-superbike-racing.json) |
 | Superboss of the Turnabout | 308537 | [308537-superboss-of-the-turnabout.json](./308537-superboss-of-the-turnabout.json) |
 | SuperBoys: The Big Fight | 58851 | [58851-superboys-the-big-fight.json](./58851-superboys-the-big-fight.json) |
 | Supercar Collection Simulator | 329962 | [329962-supercar-collection-simulator.json](./329962-supercar-collection-simulator.json) |
@@ -2604,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor's Dawn | 319940 | [319940-survivors-dawn.json](./319940-survivors-dawn.json) |
 | Sus Virus Amogus | 304864 | [304864-sus-virus-amogus.json](./304864-sus-virus-amogus.json) |
 | Sushi Bar | 298874 | [298874-sushi-bar.json](./298874-sushi-bar.json) |
+| Sushi Bar Express | 54416 | [54416-sushi-bar-express.json](./54416-sushi-bar-express.json) |
 | Sushi Battle Rambunctiously | 267685 | [267685-sushi-battle-rambunctiously.json](./267685-sushi-battle-rambunctiously.json) |
 | SushiParty2 | 124238 | [124238-sushiparty2.json](./124238-sushiparty2.json) |
 | Suspense: Madman's Dreams | 329393 | [329393-suspense-madmans-dreams.json](./329393-suspense-madmans-dreams.json) |
@@ -2621,6 +2631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swamp Castle | 276461 | [276461-swamp-castle.json](./276461-swamp-castle.json) |
 | Swamp Gas Visits the United States of America | 65517 | [65517-swamp-gas-visits-the-united-states-of-america.json](./65517-swamp-gas-visits-the-united-states-of-america.json) |
 | Swan Song | 257090 | [257090-swan-song.json](./257090-swan-song.json) |
+| Swap the Matrix | 54417 | [54417-swap-the-matrix.json](./54417-swap-the-matrix.json) |
 | Swapfell Maelstrom | 331668 | [331668-swapfell-maelstrom.json](./331668-swapfell-maelstrom.json) |
 | Swaplatformer | 178680 | [178680-swaplatformer.json](./178680-swaplatformer.json) |
 | SwapOut | 173316 | [173316-swapout.json](./173316-swapout.json) |
@@ -2655,11 +2666,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch! | 92519 | [92519-switch.json](./92519-switch.json) |
 | Switch! Love Over Flowers | 298877 | [298877-switch-love-over-flowers.json](./298877-switch-love-over-flowers.json) |
 | Switchcraft: Magical Match 3 | 219829 | [219829-switchcraft-magical-match-3.json](./219829-switchcraft-magical-match-3.json) |
+| Switchfire | 54418 | [54418-switchfire.json](./54418-switchfire.json) |
 | Swoon! | 153998 | [153998-swoon.json](./153998-swoon.json) |
 | Swoon! Earth Escape | 225894 | [225894-swoon-earth-escape.json](./225894-swoon-earth-escape.json) |
 | Sword & Dragon | 58234 | [58234-sword-and-dragon.json](./58234-sword-and-dragon.json) |
 | Sword and Fairy Inn | 78048 | [78048-sword-and-fairy-inn.json](./78048-sword-and-fairy-inn.json) |
 | Sword Art Online: Last Recollection - Digital Premium Edition | 271473 | [271473-sword-art-online-last-recollection-digital-premium-edition.json](./271473-sword-art-online-last-recollection-digital-premium-edition.json) |
+| Sword Coast Legends: Digital Deluxe Edition | 54422 | [54422-sword-coast-legends-digital-deluxe-edition.json](./54422-sword-coast-legends-digital-deluxe-edition.json) |
 | Sword of the Necromancer: Ultra Collector's Edition | 148543 | [148543-sword-of-the-necromancer-ultra-collectors-edition.json](./148543-sword-of-the-necromancer-ultra-collectors-edition.json) |
 | Sword of the Stars: The Pit 2 | 178077 | [178077-sword-of-the-stars-the-pit-2.json](./178077-sword-of-the-stars-the-pit-2.json) |
 | Sword Princess Cistina - The Chosen Saint | 146312 | [146312-sword-princess-cistina-the-chosen-saint.json](./146312-sword-princess-cistina-the-chosen-saint.json) |
@@ -2709,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Control | 157184 | [157184-system-control.json](./157184-system-control.json) |
 | System Escape | 237067 | [237067-system-escape.json](./237067-system-escape.json) |
 | System Goose Overload | 90651 | [90651-system-goose-overload.json](./90651-system-goose-overload.json) |
+| System Mania | 54423 | [54423-system-mania.json](./54423-system-mania.json) |
 | System Override | 277604 | [277604-system-override.json](./277604-system-override.json) |
 | SystemCrash92 | 249505 | [249505-systemcrash92.json](./249505-systemcrash92.json) |
 | Syunsoku Mezase! Zenkoku Saikyou Runner | 222512 | [222512-syunsoku-mezase-zenkoku-saikyou-runner.json](./222512-syunsoku-mezase-zenkoku-saikyou-runner.json) |
