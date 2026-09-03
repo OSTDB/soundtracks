@@ -211,9 +211,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavenger | 237648 | [237648-scavenger.json](./237648-scavenger.json) |
 | Scavenger Skirmish: Mortal World | 105372 | [105372-scavenger-skirmish-mortal-world.json](./105372-scavenger-skirmish-mortal-world.json) |
 | Scavland | 339674 | [339674-scavland.json](./339674-scavland.json) |
+| Scenery Disk 4 | 78012 | [78012-scenery-disk-4.json](./78012-scenery-disk-4.json) |
 | Scenery Disk 5 | 98959 | [98959-scenery-disk-5.json](./98959-scenery-disk-5.json) |
 | Scenner | 119045 | [119045-scenner.json](./119045-scenner.json) |
 | Schlag den Raab: Das 3. Spiel | 86078 | [86078-schlag-den-raab-das-3-spiel.json](./86078-schlag-den-raab-das-3-spiel.json) |
+| Schlag den Star: Das Spiel | 78045 | [78045-schlag-den-star-das-spiel.json](./78045-schlag-den-star-das-spiel.json) |
 | Scholastic Brain Play: Preschool - 1st Grade | 167276 | [167276-scholastic-brain-play-preschool-1st-grade.json](./167276-scholastic-brain-play-preschool-1st-grade.json) |
 | School Bus Simulator: Blocky World | 104633 | [104633-school-bus-simulator-blocky-world.json](./104633-school-bus-simulator-blocky-world.json) |
 | School Days LxH | 178079 | [178079-school-days-lxh.json](./178079-school-days-lxh.json) |
@@ -357,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeker | 114385 | [114385-seeker.json](./114385-seeker.json) |
 | Seekers of Eclipse | 278697 | [278697-seekers-of-eclipse.json](./278697-seekers-of-eclipse.json) |
 | Seeking Revenge | 158225 | [158225-seeking-revenge.json](./158225-seeking-revenge.json) |
+| Sega Ages 2500 Vol. 29: Monster World Complete Collection | 78047 | [78047-sega-ages-2500-vol-29-monster-world-complete-collection.json](./78047-sega-ages-2500-vol-29-monster-world-complete-collection.json) |
 | Sega Superstars Tennis | 255326 | [255326-sega-superstars-tennis.json](./255326-sega-superstars-tennis.json) |
 | Sei no Shoujo: Bishoujo Gakuen 3 | 194623 | [194623-sei-no-shoujo-bishoujo-gakuen-3.json](./194623-sei-no-shoujo-bishoujo-gakuen-3.json) |
 | Sei Shoujo Sentai Lakers II | 264323 | [264323-sei-shoujo-sentai-lakers-ii.json](./264323-sei-shoujo-sentai-lakers-ii.json) |
@@ -406,11 +409,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam: GOG Collection | 205226 | [205226-serious-sam-gog-collection.json](./205226-serious-sam-gog-collection.json) |
 | Serious Solitaire | 84236 | [84236-serious-solitaire.json](./84236-serious-solitaire.json) |
 | Serpent of Isis: Your Journey Continues | 89291 | [89291-serpent-of-isis-your-journey-continues.json](./89291-serpent-of-isis-your-journey-continues.json) |
+| Serpy | 78054 | [78054-serpy.json](./78054-serpy.json) |
 | Serra Pelada | 80551 | [80551-serra-pelada.json](./80551-serra-pelada.json) |
 | Serve & Volley | 94267 | [94267-serve-and-volley.json](./94267-serve-and-volley.json) |
 | Served in Yong'an | 266474 | [266474-served-in-yongan.json](./266474-served-in-yongan.json) |
 | Served! A Gourmet Race | 104684 | [104684-served-a-gourmet-race.json](./104684-served-a-gourmet-race.json) |
 | Sesame Street Fighter | 339673 | [339673-sesame-street-fighter.json](./339673-sesame-street-fighter.json) |
+| Sesame Street: 1-2-3 | 78035 | [78035-sesame-street-1-2-3.json](./78035-sesame-street-1-2-3.json) |
 | Sesame Street: Search & Learn Adventures | 245537 | [245537-sesame-street-search-and-learn-adventures.json](./245537-sesame-street-search-and-learn-adventures.json) |
 | Sesame Street: The Happy Scientists | 230551 | [230551-sesame-street-the-happy-scientists.json](./230551-sesame-street-the-happy-scientists.json) |
 | Sesari 1 | 321131 | [321131-sesari-1.json](./321131-sesari-1.json) |
@@ -1880,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StreamGods: Streamer Tycoon | 169449 | [169449-streamgods-streamer-tycoon.json](./169449-streamgods-streamer-tycoon.json) |
 | Streamline | 177552 | [177552-streamline.json](./177552-streamline.json) |
 | StreamWalker Tribes | 180252 | [180252-streamwalker-tribes.json](./180252-streamwalker-tribes.json) |
+| Street Cat | 78041 | [78041-street-cat.json](./78041-street-cat.json) |
 | Street Chef: Food Seller Simulator | 326408 | [326408-street-chef-food-seller-simulator.json](./326408-street-chef-food-seller-simulator.json) |
 | Street Drag Racing Car Driving Simulator 2022 Games | 231066 | [231066-street-drag-racing-car-driving-simulator-2022-games.json](./231066-street-drag-racing-car-driving-simulator-2022-games.json) |
 | Street Drag Racing Car Driving Simulator: Premium Edition | 315852 | [315852-street-drag-racing-car-driving-simulator-premium-edition.json](./315852-street-drag-racing-car-driving-simulator-premium-edition.json) |
@@ -2436,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switchcraft: Magical Match 3 | 219829 | [219829-switchcraft-magical-match-3.json](./219829-switchcraft-magical-match-3.json) |
 | Swoon! | 153998 | [153998-swoon.json](./153998-swoon.json) |
 | Swoon! Earth Escape | 225894 | [225894-swoon-earth-escape.json](./225894-swoon-earth-escape.json) |
+| Sword and Fairy Inn | 78048 | [78048-sword-and-fairy-inn.json](./78048-sword-and-fairy-inn.json) |
 | Sword Art Online: Last Recollection - Digital Premium Edition | 271473 | [271473-sword-art-online-last-recollection-digital-premium-edition.json](./271473-sword-art-online-last-recollection-digital-premium-edition.json) |
 | Sword of the Necromancer: Ultra Collector's Edition | 148543 | [148543-sword-of-the-necromancer-ultra-collectors-edition.json](./148543-sword-of-the-necromancer-ultra-collectors-edition.json) |
 | Sword of the Stars: The Pit 2 | 178077 | [178077-sword-of-the-stars-the-pit-2.json](./178077-sword-of-the-stars-the-pit-2.json) |
