@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winch it Out | 300387 | [300387-winch-it-out.json](./300387-winch-it-out.json) |
 | Wind and Mist | 253007 | [253007-wind-and-mist.json](./253007-wind-and-mist.json) |
 | Wind Angel Challenge | 195253 | [195253-wind-angel-challenge.json](./195253-wind-angel-challenge.json) |
+| Wind-Up Knight | 65528 | [65528-wind-up-knight.json](./65528-wind-up-knight.json) |
 | Windborn: Concrete Jungle | 340746 | [340746-windborn-concrete-jungle.json](./340746-windborn-concrete-jungle.json) |
 | Windowframe | 70387 | [70387-windowframe.json](./70387-windowframe.json) |
 | Windrush Tales | 180269 | [180269-windrush-tales.json](./180269-windrush-tales.json) |
@@ -536,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordban | 319358 | [319358-wordban.json](./319358-wordban.json) |
 | Wordfright | 334479 | [334479-wordfright.json](./334479-wordfright.json) |
 | Wordify | 147461 | [147461-wordify.json](./147461-wordify.json) |
+| WordJong Arcade | 65492 | [65492-wordjong-arcade.json](./65492-wordjong-arcade.json) |
 | WordLeap | 292300 | [292300-wordleap.json](./292300-wordleap.json) |
 | WordMaster | 207524 | [207524-wordmaster.json](./207524-wordmaster.json) |
 | Words | 197391 | [197391-words.json](./197391-words.json) |
@@ -554,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Class | 244508 | [244508-world-class.json](./244508-world-class.json) |
 | World Class Golf | 239338 | [239338-world-class-golf.json](./239338-world-class-golf.json) |
 | World Conqueror 3D | 85497 | [85497-world-conqueror-3d.json](./85497-world-conqueror-3d.json) |
+| World Cruise Story | 65518 | [65518-world-cruise-story.json](./65518-world-cruise-story.json) |
 | World Dai-star: Yume no Stellarium | 258691 | [258691-world-dai-star-yume-no-stellarium.json](./258691-world-dai-star-yume-no-stellarium.json) |
 | World Escape | 68667 | [68667-world-escape.json](./68667-world-escape.json) |
 | World Explorer Challenge | 325266 | [325266-world-explorer-challenge.json](./325266-world-explorer-challenge.json) |
