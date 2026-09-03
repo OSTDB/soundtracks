@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasia Sango Mysteria | 188637 | [188637-fantasia-sango-mysteria.json](./188637-fantasia-sango-mysteria.json) |
 | Fantasia: The Realm of Thanos | 243964 | [243964-fantasia-the-realm-of-thanos.json](./243964-fantasia-the-realm-of-thanos.json) |
 | Fantasic Cube | 129763 | [129763-fantasic-cube.json](./129763-fantasic-cube.json) |
+| Fantastic 4 in a Row HD | 70407 | [70407-fantastic-4-in-a-row-hd.json](./70407-fantastic-4-in-a-row-hd.json) |
 | Fantastic Four: Rise of the Silver Surfer | 197930 | [197930-fantastic-four-rise-of-the-silver-surfer.json](./197930-fantastic-four-rise-of-the-silver-surfer.json) |
 | Fantastic Kingdom | 120421 | [120421-fantastic-kingdom.json](./120421-fantastic-kingdom.json) |
 | Fantasy & Blade | 119021 | [119021-fantasy-and-blade.json](./119021-fantasy-and-blade.json) |
@@ -239,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faylinn's Quest | 173840 | [173840-faylinns-quest.json](./173840-faylinns-quest.json) |
 | FCK: Lille Leo Bruger Bolden | 129778 | [129778-fck-lille-leo-bruger-bolden.json](./129778-fck-lille-leo-bruger-bolden.json) |
 | Fear & Fury | 238716 | [238716-fear-and-fury.json](./238716-fear-and-fury.json) |
+| Fear & Respect | 70423 | [70423-fear-and-respect.json](./70423-fear-and-respect.json) |
 | Fear Effect: Sedna - Collector's Edition | 124813 | [124813-fear-effect-sedna-collectors-edition.json](./124813-fear-effect-sedna-collectors-edition.json) |
 | Fear for Sale: City of the Past HD - A Hidden Object Mystery | 88307 | [88307-fear-for-sale-city-of-the-past-hd-a-hidden-object-mystery.json](./88307-fear-for-sale-city-of-the-past-hd-a-hidden-object-mystery.json) |
 | Fear for Sale: Endless Voyage HD | 102204 | [102204-fear-for-sale-endless-voyage-hd.json](./102204-fear-for-sale-endless-voyage-hd.json) |
@@ -482,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five-A-Side Soccer | 84235 | [84235-five-a-side-soccer.json](./84235-five-a-side-soccer.json) |
 | Five-O Deluxe | 104103 | [104103-five-o-deluxe.json](./104103-five-o-deluxe.json) |
 | Fivies | 220343 | [220343-fivies.json](./220343-fivies.json) |
+| Fix My Car: Garage Wars - Furious Street Mechanics! | 70406 | [70406-fix-my-car-garage-wars-furious-street-mechanics.json](./70406-fix-my-car-garage-wars-furious-street-mechanics.json) |
 | Fix My Hand Doc | 219789 | [219789-fix-my-hand-doc.json](./219789-fix-my-hand-doc.json) |
 | Fix My Truck: Offroad Pickup | 104670 | [104670-fix-my-truck-offroad-pickup.json](./104670-fix-my-truck-offroad-pickup.json) |
 | Fix the Lab! | 265929 | [265929-fix-the-lab.json](./265929-fix-the-lab.json) |
