@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexceed: Incipiam | 224228 | [224228-hexceed-incipiam.json](./224228-hexceed-incipiam.json) |
 | HexChess 360 | 92506 | [92506-hexchess-360.json](./92506-hexchess-360.json) |
 | Hexcodle | 313472 | [313472-hexcodle.json](./313472-hexcodle.json) |
+| Hexos CCG Missions | 55947 | [55947-hexos-ccg-missions.json](./55947-hexos-ccg-missions.json) |
 | Hexplorando | 291778 | [291778-hexplorando.json](./291778-hexplorando.json) |
 | HexRoller | 253015 | [253015-hexroller.json](./253015-hexroller.json) |
 | HextriX | 105912 | [105912-hextrix.json](./105912-hextrix.json) |
@@ -590,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Matsuri: Kakera Asobi | 262698 | [262698-higurashi-no-naku-koro-ni-matsuri-kakera-asobi.json](./262698-higurashi-no-naku-koro-ni-matsuri-kakera-asobi.json) |
 | Higurashi When They Cry Hou+ | 273086 | [273086-higurashi-when-they-cry-hou.json](./273086-higurashi-when-they-cry-hou.json) |
 | Higurashi When They Cry Hou+: Mehagashi Chapter | 273084 | [273084-higurashi-when-they-cry-hou-mehagashi-chapter.json](./273084-higurashi-when-they-cry-hou-mehagashi-chapter.json) |
+| Hihou Densetsu Chris no Bouken | 55896 | [55896-hihou-densetsu-chris-no-bouken.json](./55896-hihou-densetsu-chris-no-bouken.json) |
 | Hihou-den: Taiyou wo Motomeru Mono-tachi | 249465 | [249465-hihou-den-taiyou-wo-motomeru-mono-tachi.json](./249465-hihou-den-taiyou-wo-motomeru-mono-tachi.json) |
 | Hiiro no Kakera: Omoi Iro no Kioku | 136478 | [136478-hiiro-no-kakera-omoi-iro-no-kioku.json](./136478-hiiro-no-kakera-omoi-iro-no-kioku.json) |
 | Hiirun | 257112 | [257112-hiirun.json](./257112-hiirun.json) |
@@ -807,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotshots Fire Rescue | 239903 | [239903-hotshots-fire-rescue.json](./239903-hotshots-fire-rescue.json) |
 | Hottarake no Shima: Kanata to Niji-iro no Kagami | 123035 | [123035-hottarake-no-shima-kanata-to-niji-iro-no-kagami.json](./123035-hottarake-no-shima-kanata-to-niji-iro-no-kagami.json) |
 | Houdini Master of the Extraordinary 1: The Temple of the Serpent | 218136 | [218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json](./218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json) |
+| Houkago Girls Tribe | 55928 | [55928-houkago-girls-tribe.json](./55928-houkago-girls-tribe.json) |
 | Houkago no Senpai | 127961 | [127961-houkago-no-senpai.json](./127961-houkago-no-senpai.json) |
 | Hour Night | 178083 | [178083-hour-night.json](./178083-hour-night.json) |
 | Hour of the Snake | 117042 | [117042-hour-of-the-snake.json](./117042-hour-of-the-snake.json) |
