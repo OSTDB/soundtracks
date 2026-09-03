@@ -20,8 +20,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naiad | 180277 | [180277-naiad.json](./180277-naiad.json) |
 | Naima's Melody | 122407 | [122407-naimas-melody.json](./122407-naimas-melody.json) |
 | Naious | 213623 | [213623-naious.json](./213623-naious.json) |
+| Nairo High School: Seishun Hakusho | 52609 | [52609-nairo-high-school-seishun-hakusho.json](./52609-nairo-high-school-seishun-hakusho.json) |
+| Nairo High School: Seishun Hakusho | 52611 | [52611-nairo-high-school-seishun-hakusho.json](./52611-nairo-high-school-seishun-hakusho.json) |
 | Naive Riri | 236511 | [236511-naive-riri.json](./236511-naive-riri.json) |
 | Naked Little Dude | 131607 | [131607-naked-little-dude.json](./131607-naked-little-dude.json) |
+| Namco Museum Essentials | 52608 | [52608-namco-museum-essentials.json](./52608-namco-museum-essentials.json) |
 | Name that Sonic Tune | 326960 | [326960-name-that-sonic-tune.json](./326960-name-that-sonic-tune.json) |
 | Nana-chan no Star Tanjou | 66131 | [66131-nana-chan-no-star-tanjou.json](./66131-nana-chan-no-star-tanjou.json) |
 | Nandemo!? Taihoman | 264312 | [264312-nandemo-taihoman.json](./264312-nandemo-taihoman.json) |
@@ -62,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NatGeo Adventures: Ghost Fleet | 209151 | [209151-natgeo-adventures-ghost-fleet.json](./209151-natgeo-adventures-ghost-fleet.json) |
 | NatGeo Adventures: Mystery of Cleopatra | 209150 | [209150-natgeo-adventures-mystery-of-cleopatra.json](./209150-natgeo-adventures-mystery-of-cleopatra.json) |
 | Nation War 2: Chronicle | 169432 | [169432-nation-war-2-chronicle.json](./169432-nation-war-2-chronicle.json) |
+| National Geographic Challenge! | 52603 | [52603-national-geographic-challenge.json](./52603-national-geographic-challenge.json) |
 | National Geographic Lilly Wu and the Terra Cotta Mystery | 209148 | [209148-national-geographic-lilly-wu-and-the-terra-cotta-mystery.json](./209148-national-geographic-lilly-wu-and-the-terra-cotta-mystery.json) |
 | Nationality Guesser | 340229 | [340229-nationality-guesser.json](./340229-nationality-guesser.json) |
 | Nations At War Digital: Desert Heat Battlepack 1 | 166200 | [166200-nations-at-war-digital-desert-heat-battlepack-1.json](./166200-nations-at-war-digital-desert-heat-battlepack-1.json) |
@@ -73,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nations: WWII Fighter Command | 62210 | [62210-nations-wwii-fighter-command.json](./62210-nations-wwii-fighter-command.json) |
 | Natsu Ecchi 2: Futago to Inaka no Natsuyasumi | 109001 | [109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json](./109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json) |
 | Natsu no Sagashimono: What We Found That Summer | 331121 | [331121-natsu-no-sagashimono-what-we-found-that-summer.json](./331121-natsu-no-sagashimono-what-we-found-that-summer.json) |
+| Natsuiro High School: Seishun Hakusho | 52602 | [52602-natsuiro-high-school-seishun-hakusho.json](./52602-natsuiro-high-school-seishun-hakusho.json) |
 | Natural Born Soldier | 82123 | [82123-natural-born-soldier.json](./82123-natural-born-soldier.json) |
 | Natural Craft | 277570 | [277570-natural-craft.json](./277570-natural-craft.json) |
 | Naturalist Stories | 156146 | [156146-naturalist-stories.json](./156146-naturalist-stories.json) |
@@ -99,7 +104,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K19: The Prelude | 110326 | [110326-nba-2k19-the-prelude.json](./110326-nba-2k19-the-prelude.json) |
 | NBA 2K6 | 257114 | [257114-nba-2k6.json](./257114-nba-2k6.json) |
 | NBA Ballers: Rebound | 72721 | [72721-nba-ballers-rebound.json](./72721-nba-ballers-rebound.json) |
+| NBA Elite 11 | 52625 | [52625-nba-elite-11.json](./52625-nba-elite-11.json) |
 | NBA Jam: Legends On Fire Edition | 242257 | [242257-nba-jam-legends-on-fire-edition.json](./242257-nba-jam-legends-on-fire-edition.json) |
+| NBA Live 13 | 52624 | [52624-nba-live-13.json](./52624-nba-live-13.json) |
 | NBA Live 2000 | 264855 | [264855-nba-live-2000.json](./264855-nba-live-2000.json) |
 | NBA Now | 303807 | [303807-nba-now.json](./303807-nba-now.json) |
 | NBA Now 22 | 303806 | [303806-nba-now-22.json](./303806-nba-now-22.json) |
@@ -585,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Force | 60583 | [60583-nova-force.json](./60583-nova-force.json) |
 | Nova: The Birth | 138830 | [138830-nova-the-birth.json](./138830-nova-the-birth.json) |
 | Nova's Adventure | 316397 | [316397-novas-adventure.json](./316397-novas-adventure.json) |
+| Novastrike | 52614 | [52614-novastrike.json](./52614-novastrike.json) |
 | Novena Diabolos | 132267 | [132267-novena-diabolos.json](./132267-novena-diabolos.json) |
 | Novus Conquest | 248881 | [248881-novus-conquest.json](./248881-novus-conquest.json) |
 | Novus Orbis | 253583 | [253583-novus-orbis.json](./253583-novus-orbis.json) |
@@ -634,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nurikabe World | 310757 | [310757-nurikabe-world.json](./310757-nurikabe-world.json) |
 | Nurse Call: Koi no Nurse Call | 324135 | [324135-nurse-call-koi-no-nurse-call.json](./324135-nurse-call-koi-no-nurse-call.json) |
 | Nursery Rhyme | 69306 | [69306-nursery-rhyme.json](./69306-nursery-rhyme.json) |
+| Nutjitsu: Reforged | 52645 | [52645-nutjitsu-reforged.json](./52645-nutjitsu-reforged.json) |
 | Nuwe: First seeds | 199099 | [199099-nuwe-first-seeds.json](./199099-nuwe-first-seeds.json) |
 | NY City Bank Manager 2018 | 96725 | [96725-ny-city-bank-manager-2018.json](./96725-ny-city-bank-manager-2018.json) |
 | Nyako: Restaurant Tycoon | 157178 | [157178-nyako-restaurant-tycoon.json](./157178-nyako-restaurant-tycoon.json) |
