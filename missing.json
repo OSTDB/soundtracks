@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T16:47:54.811Z",
-  "total_missing": 24055,
+  "generated_at": "2026-09-03T17:02:55.405Z",
+  "total_missing": 24105,
   "games": [
     {
       "igdb_id": 306086,
@@ -48583,6 +48583,16 @@
       "file": "missing/I/340749-incredible-dracula-academy-of-shadows.json"
     },
     {
+      "igdb_id": 53226,
+      "game_name": "Incredible Dracula: Chasing Love",
+      "file": "missing/I/53226-incredible-dracula-chasing-love.json"
+    },
+    {
+      "igdb_id": 53227,
+      "game_name": "Incredible Dracula: The Last Call Collector's Edition",
+      "file": "missing/I/53227-incredible-dracula-the-last-call-collectors-edition.json"
+    },
+    {
       "igdb_id": 158719,
       "game_name": "Increlution",
       "file": "missing/I/158719-increlution.json"
@@ -48626,6 +48636,16 @@
       "igdb_id": 292878,
       "game_name": "Industria II",
       "file": "missing/I/292878-industria-ii.json"
+    },
+    {
+      "igdb_id": 53228,
+      "game_name": "Industry Giant 2 - Gold 2012",
+      "file": "missing/I/53228-industry-giant-2-gold-2012.json"
+    },
+    {
+      "igdb_id": 53229,
+      "game_name": "Industry Giant 2 HD",
+      "file": "missing/I/53229-industry-giant-2-hd.json"
     },
     {
       "igdb_id": 59449,
@@ -48678,6 +48698,11 @@
       "file": "missing/I/333398-infernal-chess.json"
     },
     {
+      "igdb_id": 53230,
+      "game_name": "Infernal Dream Collection",
+      "file": "missing/I/53230-infernal-dream-collection.json"
+    },
+    {
       "igdb_id": 274190,
       "game_name": "Inferno",
       "file": "missing/I/274190-inferno.json"
@@ -48691,6 +48716,11 @@
       "igdb_id": 298902,
       "game_name": "Inferno’s Embrace",
       "file": "missing/I/298902-inferno-s-embrace.json"
+    },
+    {
+      "igdb_id": 53231,
+      "game_name": "Infested Planet: Planetary Campaign",
+      "file": "missing/I/53231-infested-planet-planetary-campaign.json"
     },
     {
       "igdb_id": 235456,
@@ -48781,6 +48811,11 @@
       "igdb_id": 70380,
       "game_name": "Infinitroid",
       "file": "missing/I/70380-infinitroid.json"
+    },
+    {
+      "igdb_id": 53232,
+      "game_name": "Infinitum: Deluxe Edition",
+      "file": "missing/I/53232-infinitum-deluxe-edition.json"
     },
     {
       "igdb_id": 258179,
@@ -49048,6 +49083,11 @@
       "file": "missing/I/149090-inside-my-mind.json"
     },
     {
+      "igdb_id": 53233,
+      "game_name": "Inside My Radio - Deluxe",
+      "file": "missing/I/53233-inside-my-radio-deluxe.json"
+    },
+    {
       "igdb_id": 175936,
       "game_name": "Inside Out",
       "file": "missing/I/175936-inside-out.json"
@@ -49086,6 +49126,11 @@
       "igdb_id": 154522,
       "game_name": "Inspector Waffles: Purrluxe Edition",
       "file": "missing/I/154522-inspector-waffles-purrluxe-edition.json"
+    },
+    {
+      "igdb_id": 53234,
+      "game_name": "InSpheration",
+      "file": "missing/I/53234-inspheration.json"
     },
     {
       "igdb_id": 298302,
@@ -49403,6 +49448,11 @@
       "file": "missing/I/134010-into-the-mist-2-the-cult.json"
     },
     {
+      "igdb_id": 53235,
+      "game_name": "Into the Stars - Deluxe",
+      "file": "missing/I/53235-into-the-stars-deluxe.json"
+    },
+    {
       "igdb_id": 172180,
       "game_name": "Into the Timeverse",
       "file": "missing/I/172180-into-the-timeverse.json"
@@ -49623,6 +49673,16 @@
       "file": "missing/I/318183-iron-crown.json"
     },
     {
+      "igdb_id": 53237,
+      "game_name": "Iron Front: Liberation 1944 - Gold Edition",
+      "file": "missing/I/53237-iron-front-liberation-1944-gold-edition.json"
+    },
+    {
+      "igdb_id": 53236,
+      "game_name": "Iron Front: Liberation 1944 D-Day",
+      "file": "missing/I/53236-iron-front-liberation-1944-d-day.json"
+    },
+    {
       "igdb_id": 224787,
       "game_name": "Iron Frontier",
       "file": "missing/I/224787-iron-frontier.json"
@@ -49651,6 +49711,16 @@
       "igdb_id": 234337,
       "game_name": "Iron Sky: A Lunar Adventure",
       "file": "missing/I/234337-iron-sky-a-lunar-adventure.json"
+    },
+    {
+      "igdb_id": 53257,
+      "game_name": "Iron Sky: Invasion - Digital Deluxe Edition",
+      "file": "missing/I/53257-iron-sky-invasion-digital-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 53256,
+      "game_name": "Iron Sky: Invasion - Ultimate Edition",
+      "file": "missing/I/53256-iron-sky-invasion-ultimate-edition.json"
     },
     {
       "igdb_id": 340763,
@@ -49731,6 +49801,11 @@
       "igdb_id": 329969,
       "game_name": "Isadora's Edge",
       "file": "missing/I/329969-isadoras-edge.json"
+    },
+    {
+      "igdb_id": 53255,
+      "game_name": "Isane Insects: The Inception",
+      "file": "missing/I/53255-isane-insects-the-inception.json"
     },
     {
       "igdb_id": 219277,
@@ -50168,6 +50243,16 @@
       "file": "missing/J/197962-jaded.json"
     },
     {
+      "igdb_id": 53252,
+      "game_name": "Jagged Alliance 2 Platinum",
+      "file": "missing/J/53252-jagged-alliance-2-platinum.json"
+    },
+    {
+      "igdb_id": 53254,
+      "game_name": "Jagged Alliance DS",
+      "file": "missing/J/53254-jagged-alliance-ds.json"
+    },
+    {
       "igdb_id": 329941,
       "game_name": "Jaghund Armoured Organ Delivery Service",
       "file": "missing/J/329941-jaghund-armoured-organ-delivery-service.json"
@@ -50583,6 +50668,11 @@
       "file": "missing/J/215396-jewel-diamonds.json"
     },
     {
+      "igdb_id": 53251,
+      "game_name": "Jewel Match",
+      "file": "missing/J/53251-jewel-match.json"
+    },
+    {
       "igdb_id": 165683,
       "game_name": "Jewel Match Solitaire: Summertime",
       "file": "missing/J/165683-jewel-match-solitaire-summertime.json"
@@ -50611,6 +50701,11 @@
       "igdb_id": 196845,
       "game_name": "Jewel Quest",
       "file": "missing/J/196845-jewel-quest.json"
+    },
+    {
+      "igdb_id": 53250,
+      "game_name": "Jewel Quest Solitaire II",
+      "file": "missing/J/53250-jewel-quest-solitaire-ii.json"
     },
     {
       "igdb_id": 110322,
@@ -50758,6 +50853,11 @@
       "file": "missing/J/104688-jigsaw-tour-4.json"
     },
     {
+      "igdb_id": 53249,
+      "game_name": "Jigsaw World",
+      "file": "missing/J/53249-jigsaw-world.json"
+    },
+    {
       "igdb_id": 79944,
       "game_name": "Jigsu",
       "file": "missing/J/79944-jigsu.json"
@@ -50866,6 +50966,11 @@
       "igdb_id": 123638,
       "game_name": "Jo's Dream: Organic Coffee",
       "file": "missing/J/123638-jos-dream-organic-coffee.json"
+    },
+    {
+      "igdb_id": 53248,
+      "game_name": "Joan Jade and the Gates of Xibalba",
+      "file": "missing/J/53248-joan-jade-and-the-gates-of-xibalba.json"
     },
     {
       "igdb_id": 340774,
@@ -51051,6 +51156,11 @@
       "igdb_id": 81425,
       "game_name": "Journey to the Center of the Earth: Gold Edition",
       "file": "missing/J/81425-journey-to-the-center-of-the-earth-gold-edition.json"
+    },
+    {
+      "igdb_id": 53246,
+      "game_name": "Journey to the Center of the Moon",
+      "file": "missing/J/53246-journey-to-the-center-of-the-moon.json"
     },
     {
       "igdb_id": 309650,
@@ -51503,6 +51613,11 @@
       "file": "missing/J/186901-just-cause-2-complete-edition.json"
     },
     {
+      "igdb_id": 53245,
+      "game_name": "Just Cause Collection",
+      "file": "missing/J/53245-just-cause-collection.json"
+    },
+    {
       "igdb_id": 264321,
       "game_name": "Just Crow Things",
       "file": "missing/J/264321-just-crow-things.json"
@@ -51541,6 +51656,11 @@
       "igdb_id": 137649,
       "game_name": "Just Glide",
       "file": "missing/J/137649-just-glide.json"
+    },
+    {
+      "igdb_id": 53244,
+      "game_name": "Just Hero: Collector's Edition",
+      "file": "missing/J/53244-just-hero-collectors-edition.json"
     },
     {
       "igdb_id": 192456,
@@ -51921,6 +52041,11 @@
       "igdb_id": 146303,
       "game_name": "Kandidatos",
       "file": "missing/K/146303-kandidatos.json"
+    },
+    {
+      "igdb_id": 53243,
+      "game_name": "Kane & Lynch Collection",
+      "file": "missing/K/53243-kane-and-lynch-collection.json"
     },
     {
       "igdb_id": 185149,
@@ -52723,6 +52848,16 @@
       "file": "missing/K/59412-killing-bites.json"
     },
     {
+      "igdb_id": 53242,
+      "game_name": "Killing Floor 2: Deluxe Edition",
+      "file": "missing/K/53242-killing-floor-2-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 53241,
+      "game_name": "Killing Floor 2: Digital Deluxe Edition",
+      "file": "missing/K/53241-killing-floor-2-digital-deluxe-edition.json"
+    },
+    {
       "igdb_id": 116387,
       "game_name": "Killing Floor: Double Feature",
       "file": "missing/K/116387-killing-floor-double-feature.json"
@@ -52753,9 +52888,19 @@
       "file": "missing/K/290696-kindergarten-3-the-basement.json"
     },
     {
+      "igdb_id": 53240,
+      "game_name": "Kindred Spirits Complete Collection",
+      "file": "missing/K/53240-kindred-spirits-complete-collection.json"
+    },
+    {
       "igdb_id": 124804,
       "game_name": "Kindred Spirits on the Roof: Full Chorus",
       "file": "missing/K/124804-kindred-spirits-on-the-roof-full-chorus.json"
+    },
+    {
+      "igdb_id": 53239,
+      "game_name": "King Arthur II: Dead Legions",
+      "file": "missing/K/53239-king-arthur-ii-dead-legions.json"
     },
     {
       "igdb_id": 244483,
@@ -52816,6 +52961,16 @@
       "igdb_id": 155100,
       "game_name": "King's Bounty II: Lord's Edition",
       "file": "missing/K/155100-kings-bounty-ii-lords-edition.json"
+    },
+    {
+      "igdb_id": 53238,
+      "game_name": "King's Bounty: Dark Side - Premium Edition",
+      "file": "missing/K/53238-kings-bounty-dark-side-premium-edition.json"
+    },
+    {
+      "igdb_id": 53258,
+      "game_name": "King's Bounty: Ultimate Edition",
+      "file": "missing/K/53258-kings-bounty-ultimate-edition.json"
     },
     {
       "igdb_id": 186308,
@@ -53408,6 +53563,11 @@
       "file": "missing/K/255963-knights-of-braveland-around-the-world-pack.json"
     },
     {
+      "igdb_id": 53260,
+      "game_name": "Knights of Pen and Paper II: Here Be Dragons",
+      "file": "missing/K/53260-knights-of-pen-and-paper-ii-here-be-dragons.json"
+    },
+    {
       "igdb_id": 196299,
       "game_name": "Knights of the Chalice 2: Archmage Edition",
       "file": "missing/K/196299-knights-of-the-chalice-2-archmage-edition.json"
@@ -53516,6 +53676,11 @@
       "igdb_id": 260941,
       "game_name": "Kodoku no Yurikago",
       "file": "missing/K/260941-kodoku-no-yurikago.json"
+    },
+    {
+      "igdb_id": 53261,
+      "game_name": "Koi-Koi Japan: Ukiyoe Deluxe Edition",
+      "file": "missing/K/53261-koi-koi-japan-ukiyoe-deluxe-edition.json"
     },
     {
       "igdb_id": 202373,
@@ -53761,6 +53926,11 @@
       "igdb_id": 253588,
       "game_name": "Kromlech",
       "file": "missing/K/253588-kromlech.json"
+    },
+    {
+      "igdb_id": 53262,
+      "game_name": "Kronville: Stolen Dreams",
+      "file": "missing/K/53262-kronville-stolen-dreams.json"
     },
     {
       "igdb_id": 180312,
@@ -54533,6 +54703,16 @@
       "file": "missing/L/226446-last-days-of-future.json"
     },
     {
+      "igdb_id": 53264,
+      "game_name": "Last Days of Spring 2: Deluxe Edition",
+      "file": "missing/L/53264-last-days-of-spring-2-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 53265,
+      "game_name": "Last Dream: Complete Edition",
+      "file": "missing/L/53265-last-dream-complete-edition.json"
+    },
+    {
       "igdb_id": 255388,
       "game_name": "Last Equinox: Winds of Change",
       "file": "missing/L/255388-last-equinox-winds-of-change.json"
@@ -54566,6 +54746,11 @@
       "igdb_id": 255991,
       "game_name": "Last Hopeless",
       "file": "missing/L/255991-last-hopeless.json"
+    },
+    {
+      "igdb_id": 53266,
+      "game_name": "Last Knight",
+      "file": "missing/L/53266-last-knight.json"
     },
     {
       "igdb_id": 321171,
@@ -54988,6 +55173,11 @@
       "file": "missing/L/62774-legend-of-mir.json"
     },
     {
+      "igdb_id": 53268,
+      "game_name": "Legend of Mysteria RPG",
+      "file": "missing/L/53268-legend-of-mysteria-rpg.json"
+    },
+    {
       "igdb_id": 106597,
       "game_name": "Legend of Power Z",
       "file": "missing/L/106597-legend-of-power-z.json"
@@ -55061,6 +55251,11 @@
       "igdb_id": 324106,
       "game_name": "Legendary Heroes Unchained",
       "file": "missing/L/324106-legendary-heroes-unchained.json"
+    },
+    {
+      "igdb_id": 53269,
+      "game_name": "Legendary Mahjong",
+      "file": "missing/L/53269-legendary-mahjong.json"
     },
     {
       "igdb_id": 251233,
@@ -55188,9 +55383,19 @@
       "file": "missing/L/137663-lego-marvels-avengers-classic-captain-marvel-pack.json"
     },
     {
+      "igdb_id": 53270,
+      "game_name": "LEGO Marvel's Avengers: Deluxe Edition",
+      "file": "missing/L/53270-lego-marvels-avengers-deluxe-edition.json"
+    },
+    {
       "igdb_id": 341908,
       "game_name": "LEGO Racers: The Video Game",
       "file": "missing/L/341908-lego-racers-the-video-game.json"
+    },
+    {
+      "igdb_id": 53271,
+      "game_name": "LEGO Star Wars: The Force Awakens - Deluxe Edition",
+      "file": "missing/L/53271-lego-star-wars-the-force-awakens-deluxe-edition.json"
     },
     {
       "igdb_id": 250613,
@@ -55446,6 +55651,11 @@
       "igdb_id": 268191,
       "game_name": "Let's Sing",
       "file": "missing/L/268191-lets-sing.json"
+    },
+    {
+      "igdb_id": 53272,
+      "game_name": "Let's Sing 16",
+      "file": "missing/L/53272-lets-sing-16.json"
     },
     {
       "igdb_id": 268192,
@@ -55768,6 +55978,11 @@
       "file": "missing/L/64426-life-is-magic.json"
     },
     {
+      "igdb_id": 53273,
+      "game_name": "Life is Strange: Before the Storm - Deluxe Edition",
+      "file": "missing/L/53273-life-is-strange-before-the-storm-deluxe-edition.json"
+    },
+    {
       "igdb_id": 118407,
       "game_name": "Life of a Capitalist",
       "file": "missing/L/118407-life-of-a-capitalist.json"
@@ -55861,6 +56076,11 @@
       "igdb_id": 161371,
       "game_name": "Light Up the Room",
       "file": "missing/L/161371-light-up-the-room.json"
+    },
+    {
+      "igdb_id": 53274,
+      "game_name": "Light: Rebirth-The falsehood",
+      "file": "missing/L/53274-light-rebirth-the-falsehood.json"
     },
     {
       "igdb_id": 114394,
@@ -56061,6 +56281,11 @@
       "igdb_id": 130924,
       "game_name": "Língxià Jìyì",
       "file": "missing/L/130924-lingxia-jiyi.json"
+    },
+    {
+      "igdb_id": 53275,
+      "game_name": "Link Letter",
+      "file": "missing/L/53275-link-letter.json"
     },
     {
       "igdb_id": 208012,
@@ -56366,6 +56591,11 @@
       "igdb_id": 237623,
       "game_name": "Little Shaker: Summer Adventures",
       "file": "missing/L/237623-little-shaker-summer-adventures.json"
+    },
+    {
+      "igdb_id": 53277,
+      "game_name": "Little Shop - World Traveler",
+      "file": "missing/L/53277-little-shop-world-traveler.json"
     },
     {
       "igdb_id": 91410,
@@ -56776,6 +57006,26 @@
       "igdb_id": 168347,
       "game_name": "Logistical 2: Vampires - Bundle",
       "file": "missing/L/168347-logistical-2-vampires-bundle.json"
+    },
+    {
+      "igdb_id": 53278,
+      "game_name": "Logistical: Europe",
+      "file": "missing/L/53278-logistical-europe.json"
+    },
+    {
+      "igdb_id": 53279,
+      "game_name": "Logistical: North America",
+      "file": "missing/L/53279-logistical-north-america.json"
+    },
+    {
+      "igdb_id": 53280,
+      "game_name": "Logistical: The Lot",
+      "file": "missing/L/53280-logistical-the-lot.json"
+    },
+    {
+      "igdb_id": 53281,
+      "game_name": "Logistical: United Kingdom",
+      "file": "missing/L/53281-logistical-united-kingdom.json"
     },
     {
       "igdb_id": 176518,
