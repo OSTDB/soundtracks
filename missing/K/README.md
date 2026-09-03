@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kira-kira Star Night Gold | 206342 | [206342-kira-kira-star-night-gold.json](./206342-kira-kira-star-night-gold.json) |
 | Kira-kira Star Night: Furusato Nouzei Fujimino-ban | 206343 | [206343-kira-kira-star-night-furusato-nouzei-fujimino-ban.json](./206343-kira-kira-star-night-furusato-nouzei-fujimino-ban.json) |
 | Kirakira Slimes | 300408 | [300408-kirakira-slimes.json](./300408-kirakira-slimes.json) |
+| Kirarin Revolution: Atsumete Change! Qurukira Coord | 70417 | [70417-kirarin-revolution-atsumete-change-qurukira-coord.json](./70417-kirarin-revolution-atsumete-change-qurukira-coord.json) |
 | Kirby Air Ride Hack Pack | 298856 | [298856-kirby-air-ride-hack-pack.json](./298856-kirby-air-ride-hack-pack.json) |
 | Kirby Bowl 64 | 298858 | [298858-kirby-bowl-64.json](./298858-kirby-bowl-64.json) |
 | Kirby in Sonic the Hedgehog | 198524 | [198524-kirby-in-sonic-the-hedgehog.json](./198524-kirby-in-sonic-the-hedgehog.json) |
