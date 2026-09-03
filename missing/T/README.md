@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TEOM | 236013 | [236013-teom.json](./236013-teom.json) |
 | Teppen Banchou Take 1: Saikou no Yankee Ikusei Game | 220305 | [220305-teppen-banchou-take-1-saikou-no-yankee-ikusei-game.json](./220305-teppen-banchou-take-1-saikou-no-yankee-ikusei-game.json) |
 | Teppoman | 242819 | [242819-teppoman.json](./242819-teppoman.json) |
+| Tequila & Boom Boom | 77398 | [77398-tequila-and-boom-boom.json](./77398-tequila-and-boom-boom.json) |
 | Terasene The Light of Her Life | 273102 | [273102-terasene-the-light-of-her-life.json](./273102-terasene-the-light-of-her-life.json) |
 | Terato Tamer | 228713 | [228713-terato-tamer.json](./228713-terato-tamer.json) |
 | Teravit | 167863 | [167863-teravit.json](./167863-teravit.json) |
@@ -339,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminate: Study X | 253574 | [253574-terminate-study-x.json](./253574-terminate-study-x.json) |
 | Terminull | 185151 | [185151-terminull.json](./185151-terminull.json) |
 | TerraBlocks | 291777 | [291777-terrablocks.json](./291777-terrablocks.json) |
+| Terracide | 77393 | [77393-terracide.json](./77393-terracide.json) |
 | Terraformers: Megastructures | 318782 | [318782-terraformers-megastructures.json](./318782-terraformers-megastructures.json) |
 | Terraformers: Supporter Edition | 271471 | [271471-terraformers-supporter-edition.json](./271471-terraformers-supporter-edition.json) |
 | TerraGenesis - Space Colony | 102762 | [102762-terragenesis-space-colony.json](./102762-terragenesis-space-colony.json) |
@@ -1328,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Twenty One | 210894 | [210894-the-twenty-one.json](./210894-the-twenty-one.json) |
 | The Twisting Trail of Clues | 295524 | [295524-the-twisting-trail-of-clues.json](./295524-the-twisting-trail-of-clues.json) |
 | The Ugly Ducling | 228078 | [228078-the-ugly-ducling.json](./228078-the-ugly-ducling.json) |
+| The Ultimate Arena | 77357 | [77357-the-ultimate-arena.json](./77357-the-ultimate-arena.json) |
 | The Ultimate FMV Bundle 2 | 213046 | [213046-the-ultimate-fmv-bundle-2.json](./213046-the-ultimate-fmv-bundle-2.json) |
 | The Ultra Mission | 199105 | [199105-the-ultra-mission.json](./199105-the-ultra-mission.json) |
 | The Unachievable Game | 205232 | [205232-the-unachievable-game.json](./205232-the-unachievable-game.json) |
