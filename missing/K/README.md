@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamek's Midnight Flight | 250035 | [250035-kameks-midnight-flight.json](./250035-kameks-midnight-flight.json) |
 | Kamen Rider Agito & Kuuga: Wild Battle | 62742 | [62742-kamen-rider-agito-and-kuuga-wild-battle.json](./62742-kamen-rider-agito-and-kuuga-wild-battle.json) |
 | Kamen Rider Battle Rush | 304337 | [304337-kamen-rider-battle-rush.json](./304337-kamen-rider-battle-rush.json) |
+| Kamen Rider Club: Gekitotsu Shocker Land | 48691 | [48691-kamen-rider-club-gekitotsu-shocker-land.json](./48691-kamen-rider-club-gekitotsu-shocker-land.json) |
 | Kamen Rider: Battride War II | 62184 | [62184-kamen-rider-battride-war-ii.json](./62184-kamen-rider-battride-war-ii.json) |
 | Kami Kamera | 341881 | [341881-kami-kamera.json](./341881-kami-kamera.json) |
 | Kami no Me no Aeon: Zenpen | 341326 | [341326-kami-no-me-no-aeon-zenpen.json](./341326-kami-no-me-no-aeon-zenpen.json) |
@@ -241,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindred Spirits on the Roof: Full Chorus | 124804 | [124804-kindred-spirits-on-the-roof-full-chorus.json](./124804-kindred-spirits-on-the-roof-full-chorus.json) |
 | King Arthur II: Dead Legions | 53239 | [53239-king-arthur-ii-dead-legions.json](./53239-king-arthur-ii-dead-legions.json) |
 | King Arthur: Legends Rise | 244483 | [244483-king-arthur-legends-rise.json](./244483-king-arthur-legends-rise.json) |
+| King Kong 2: Ikari no Megaton Punch | 48690 | [48690-king-kong-2-ikari-no-megaton-punch.json](./48690-king-kong-2-ikari-no-megaton-punch.json) |
 | King of BMX | 91979 | [91979-king-of-bmx.json](./91979-king-of-bmx.json) |
 | King of Defense 2: Epic TD | 227512 | [227512-king-of-defense-2-epic-td.json](./227512-king-of-defense-2-epic-td.json) |
 | King of Drop | 245052 | [245052-king-of-drop.json](./245052-king-of-drop.json) |
