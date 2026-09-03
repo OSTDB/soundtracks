@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damascus | 132266 | [132266-damascus.json](./132266-damascus.json) |
 | Damascus Gear: Operation Osaka | 123034 | [123034-damascus-gear-operation-osaka.json](./123034-damascus-gear-operation-osaka.json) |
 | Damn Little Town | 262062 | [262062-damn-little-town.json](./262062-damn-little-town.json) |
+| Damnation City of Death | 35837 | [35837-damnation-city-of-death.json](./35837-damnation-city-of-death.json) |
 | Damned Hand: Arcade Mode | 171069 | [171069-damned-hand-arcade-mode.json](./171069-damned-hand-arcade-mode.json) |
 | Dan Vs. This Game | 63879 | [63879-dan-vs-this-game.json](./63879-dan-vs-this-game.json) |
 | Danball Senki W Chou Custom | 59406 | [59406-danball-senki-w-chou-custom.json](./59406-danball-senki-w-chou-custom.json) |
@@ -203,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date with Foxgirl | 250007 | [250007-date-with-foxgirl.json](./250007-date-with-foxgirl.json) |
 | Dating My High School Bully | 205817 | [205817-dating-my-high-school-bully.json](./205817-dating-my-high-school-bully.json) |
 | Dato of Srivijaya | 156679 | [156679-dato-of-srivijaya.json](./156679-dato-of-srivijaya.json) |
+| Datswer | 35820 | [35820-datswer.json](./35820-datswer.json) |
 | Daughter of Shadows: An SCP Breach Event - Friend and Foe Expansion | 167317 | [167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json](./167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json) |
 | Dave | 111682 | [111682-dave.json](./111682-dave.json) |
 | David Leadbetter's Greens | 71545 | [71545-david-leadbetters-greens.json](./71545-david-leadbetters-greens.json) |
@@ -285,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Spawn | 121710 | [121710-dead-spawn.json](./121710-dead-spawn.json) |
 | Dead Spreading: Survival | 239911 | [239911-dead-spreading-survival.json](./239911-dead-spreading-survival.json) |
 | Dead Station | 225883 | [225883-dead-station.json](./225883-dead-station.json) |
+| Dead TrailZ | 35753 | [35753-dead-trailz.json](./35753-dead-trailz.json) |
 | Dead Zone | 203555 | [203555-dead-zone.json](./203555-dead-zone.json) |
 | Dead Zone Defense | 304897 | [304897-dead-zone-defense.json](./304897-dead-zone-defense.json) |
 | Deadbait | 161381 | [161381-deadbait.json](./161381-deadbait.json) |
@@ -413,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deities Flush | 324113 | [324113-deities-flush.json](./324113-deities-flush.json) |
 | Déjà Vu I | 310192 | [310192-deja-vu-i.json](./310192-deja-vu-i.json) |
 | Déjà Vu II | 310193 | [310193-deja-vu-ii.json](./310193-deja-vu-ii.json) |
+| Deja Vu II: MacVenture Series | 35914 | [35914-deja-vu-ii-macventure-series.json](./35914-deja-vu-ii-macventure-series.json) |
 | Dekisugi Tingle Pack | 100169 | [100169-dekisugi-tingle-pack.json](./100169-dekisugi-tingle-pack.json) |
 | Dekoboko Densetsu: Hashiru Wagamanma | 145674 | [145674-dekoboko-densetsu-hashiru-wagamanma.json](./145674-dekoboko-densetsu-hashiru-wagamanma.json) |
 | Delaware St. John: Volume 1 - The Curse of Midnight Manor / Volume 2: The Town with No Name | 93050 | [93050-delaware-st-john-volume-1-the-curse-of-midnight-manor-volume-2-the-town-with-no-name.json](./93050-delaware-st-john-volume-1-the-curse-of-midnight-manor-volume-2-the-town-with-no-name.json) |
@@ -611,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diabetor & The Sugar Monsters | 278736 | [278736-diabetor-and-the-sugar-monsters.json](./278736-diabetor-and-the-sugar-monsters.json) |
 | Diablo II: Resurrected - Prime Evil Collection | 155099 | [155099-diablo-ii-resurrected-prime-evil-collection.json](./155099-diablo-ii-resurrected-prime-evil-collection.json) |
 | Diablo IV: Vessel of Hatred - Expansion Bundle | 305496 | [305496-diablo-iv-vessel-of-hatred-expansion-bundle.json](./305496-diablo-iv-vessel-of-hatred-expansion-bundle.json) |
+| Diamond | 35826 | [35826-diamond.json](./35826-diamond.json) |
 | Diamond Dash | 72688 | [72688-diamond-dash.json](./72688-diamond-dash.json) |
 | Diamond Girl: An Earnest Education in Love | 147996 | [147996-diamond-girl-an-earnest-education-in-love.json](./147996-diamond-girl-an-earnest-education-in-love.json) |
 | Diamond Giza | 157193 | [157193-diamond-giza.json](./157193-diamond-giza.json) |
@@ -755,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Fairies: Tinker Bell | 78718 | [78718-disney-fairies-tinker-bell.json](./78718-disney-fairies-tinker-bell.json) |
 | Disney Fairies: Tinker Bell and the Great Fairy Rescue | 230553 | [230553-disney-fairies-tinker-bell-and-the-great-fairy-rescue.json](./230553-disney-fairies-tinker-bell-and-the-great-fairy-rescue.json) |
 | Disney Magical Dice | 55158 | [55158-disney-magical-dice.json](./55158-disney-magical-dice.json) |
+| Disney Mickey's Typing Adventure | 35796 | [35796-disney-mickeys-typing-adventure.json](./35796-disney-mickeys-typing-adventure.json) |
 | Disney Princess | 230556 | [230556-disney-princess.json](./230556-disney-princess.json) |
 | Disney Princess: Royal Adventure | 49411 | [49411-disney-princess-royal-adventure.json](./49411-disney-princess-royal-adventure.json) |
 | Disney Princess: Suteki ni Lesson! Hiragana-Katakana | 58849 | [58849-disney-princess-suteki-ni-lesson-hiragana-katakana.json](./58849-disney-princess-suteki-ni-lesson-hiragana-katakana.json) |
@@ -1222,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dresden Files Cooperative Card Game: Winter Schemes | 266503 | [266503-dresden-files-cooperative-card-game-winter-schemes.json](./266503-dresden-files-cooperative-card-game-winter-schemes.json) |
 | Dress | 94748 | [94748-dress.json](./94748-dress.json) |
 | Drevepsina | 256005 | [256005-drevepsina.json](./256005-drevepsina.json) |
+| Drew and the Floating Labyrinth | 35867 | [35867-drew-and-the-floating-labyrinth.json](./35867-drew-and-the-floating-labyrinth.json) |
 | Driar | 191911 | [191911-driar.json](./191911-driar.json) |
 | Dribble Skillz | 231635 | [231635-dribble-skillz.json](./231635-dribble-skillz.json) |
 | Drift Alone | 126631 | [126631-drift-alone.json](./126631-drift-alone.json) |
