@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fables of Talumos | 119007 | [119007-fables-of-talumos.json](./119007-fables-of-talumos.json) |
 | Faceball 2000 | 299462 | [299462-faceball-2000.json](./299462-faceball-2000.json) |
 | Faced | 181377 | [181377-faced.json](./181377-faced.json) |
+| Faces...tris III | 79320 | [79320-faces-tris-iii.json](./79320-faces-tris-iii.json) |
 | Facteroids | 173306 | [173306-facteroids.json](./173306-facteroids.json) |
 | Factor D | 200171 | [200171-factor-d.json](./200171-factor-d.json) |
 | Factory Balls | 87256 | [87256-factory-balls.json](./87256-factory-balls.json) |
@@ -514,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fling! | 264361 | [264361-fling.json](./264361-fling.json) |
 | Flintstones' Bedrock Boblseddin' Blowout | 196839 | [196839-flintstones-bedrock-boblseddin-blowout.json](./196839-flintstones-bedrock-boblseddin-blowout.json) |
 | Flip of Light | 185119 | [185119-flip-of-light.json](./185119-flip-of-light.json) |
+| Flip Out | 79314 | [79314-flip-out.json](./79314-flip-out.json) |
 | FlipBook | 315831 | [315831-flipbook.json](./315831-flipbook.json) |
 | Flipped | 190737 | [190737-flipped.json](./190737-flipped.json) |
 | Flipped in Love | 143744 | [143744-flipped-in-love.json](./143744-flipped-in-love.json) |
@@ -551,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flown | 261524 | [261524-flown.json](./261524-flown.json) |
 | Fluff'n'Roll | 323516 | [323516-fluffnroll.json](./323516-fluffnroll.json) |
 | Flufftopia | 134696 | [134696-flufftopia.json](./134696-flufftopia.json) |
+| Fluffy Bear | 79308 | [79308-fluffy-bear.json](./79308-fluffy-bear.json) |
 | Fluffy Gore | 150156 | [150156-fluffy-gore.json](./150156-fluffy-gore.json) |
 | Fluffy Run | 292818 | [292818-fluffy-run.json](./292818-fluffy-run.json) |
 | Fluffy Smash | 219791 | [219791-fluffy-smash.json](./219791-fluffy-smash.json) |
