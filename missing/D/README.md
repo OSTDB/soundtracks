@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Man | 310187 | [310187-data-man.json](./310187-data-man.json) |
 | Data mining | 106584 | [106584-data-mining.json](./106584-data-mining.json) |
 | Dataflow | 112353 | [112353-dataflow.json](./112353-dataflow.json) |
+| Date A Live: Rio Reincarnation HD - Limited Edition | 96104 | [96104-date-a-live-rio-reincarnation-hd-limited-edition.json](./96104-date-a-live-rio-reincarnation-hd-limited-edition.json) |
 | Date Night Bowling | 137109 | [137109-date-night-bowling.json](./137109-date-night-bowling.json) |
 | Date with Detective Wolf | 303276 | [303276-date-with-detective-wolf.json](./303276-date-with-detective-wolf.json) |
 | Date with Foxgirl | 250007 | [250007-date-with-foxgirl.json](./250007-date-with-foxgirl.json) |
@@ -320,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Bellhop | 339652 | [339652-deep-space-bellhop.json](./339652-deep-space-bellhop.json) |
 | Deep Space Shooter | 111731 | [111731-deep-space-shooter.json](./111731-deep-space-shooter.json) |
 | Deep Stories Bundle | 218689 | [218689-deep-stories-bundle.json](./218689-deep-stories-bundle.json) |
+| Deep Voyage | 96040 | [96040-deep-voyage.json](./96040-deep-voyage.json) |
 | Deeper | 104650 | [104650-deeper.json](./104650-deeper.json) |
 | Deeplanders | 319344 | [319344-deeplanders.json](./319344-deeplanders.json) |
 | Deer Hunter | 206345 | [206345-deer-hunter.json](./206345-deer-hunter.json) |
@@ -357,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery INC: Large Cargo | 274759 | [274759-delivery-inc-large-cargo.json](./274759-delivery-inc-large-cargo.json) |
 | Delivery man simulator | 99628 | [99628-delivery-man-simulator.json](./99628-delivery-man-simulator.json) |
 | Delta Dash | 213621 | [213621-delta-dash.json](./213621-delta-dash.json) |
+| Delta Riddle | 96039 | [96039-delta-riddle.json](./96039-delta-riddle.json) |
 | Delta Time | 171622 | [171622-delta-time.json](./171622-delta-time.json) |
 | Deltagun | 336347 | [336347-deltagun.json](./336347-deltagun.json) |
 | Deltagun Deluxe | 336349 | [336349-deltagun-deluxe.json](./336349-deltagun-deluxe.json) |
@@ -537,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Bird Playground | 124255 | [124255-digital-bird-playground.json](./124255-digital-bird-playground.json) |
 | Digital Circus Shooter | 276482 | [276482-digital-circus-shooter.json](./276482-digital-circus-shooter.json) |
 | Digital Circus: Obby Parkour | 276485 | [276485-digital-circus-obby-parkour.json](./276485-digital-circus-obby-parkour.json) |
+| Digital Dance Mix Vol. 1: Namie Amuro | 96091 | [96091-digital-dance-mix-vol-1-namie-amuro.json](./96091-digital-dance-mix-vol-1-namie-amuro.json) |
 | Digital Virus | 236008 | [236008-digital-virus.json](./236008-digital-virus.json) |
 | Dillo Guy | 293890 | [293890-dillo-guy.json](./293890-dillo-guy.json) |
 | Diluvian Ultra: Awakening | 316989 | [316989-diluvian-ultra-awakening.json](./316989-diluvian-ultra-awakening.json) |
@@ -674,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Doctor In A Dash | 249464 | [249464-doctor-who-doctor-in-a-dash.json](./249464-doctor-who-doctor-in-a-dash.json) |
 | Doctor Who: Thirteen | 240494 | [240494-doctor-who-thirteen.json](./240494-doctor-who-thirteen.json) |
 | Dodge | 177542 | [177542-dodge.json](./177542-dodge.json) |
+| Dodge Club Pocket | 96105 | [96105-dodge-club-pocket.json](./96105-dodge-club-pocket.json) |
 | Dodge Dancer | 149577 | [149577-dodge-dancer.json](./149577-dodge-dancer.json) |
 | Dodge Racing: Charger vs Challenger | 197942 | [197942-dodge-racing-charger-vs-challenger.json](./197942-dodge-racing-charger-vs-challenger.json) |
 | DoDodge2020 | 209674 | [209674-dododge2020.json](./209674-dododge2020.json) |
@@ -769,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Konga 1+2 Pack | 329370 | [329370-donkey-konga-1-2-pack.json](./329370-donkey-konga-1-2-pack.json) |
 | Donkey Konga Beat | 231646 | [231646-donkey-konga-beat.json](./231646-donkey-konga-beat.json) |
 | Donkey Konk | 231608 | [231608-donkey-konk.json](./231608-donkey-konk.json) |
+| Donut Drop by ABCya | 96075 | [96075-donut-drop-by-abcya.json](./96075-donut-drop-by-abcya.json) |
 | Donut Maker | 232179 | [232179-donut-maker.json](./232179-donut-maker.json) |
 | Donuts Runner | 251839 | [251839-donuts-runner.json](./251839-donuts-runner.json) |
 | Dooblets | 302657 | [302657-dooblets.json](./302657-dooblets.json) |
@@ -880,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Friends: The Secret of Green Witch | 212453 | [212453-dragon-friends-the-secret-of-green-witch.json](./212453-dragon-friends-the-secret-of-green-witch.json) |
 | Dragon Fun Classic | 221974 | [221974-dragon-fun-classic.json](./221974-dragon-fun-classic.json) |
 | Dragon Fury | 231046 | [231046-dragon-fury.json](./231046-dragon-fury.json) |
+| Dragon Island Blue | 96061 | [96061-dragon-island-blue.json](./96061-dragon-island-blue.json) |
 | Dragon King: The Fighting Game | 184099 | [184099-dragon-king-the-fighting-game.json](./184099-dragon-king-the-fighting-game.json) |
 | Dragon Marked for Death: Advanced Attackers | 147998 | [147998-dragon-marked-for-death-advanced-attackers.json](./147998-dragon-marked-for-death-advanced-attackers.json) |
 | Dragon Master | 209127 | [209127-dragon-master.json](./209127-dragon-master.json) |
