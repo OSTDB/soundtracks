@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasite Black | 239305 | [239305-parasite-black.json](./239305-parasite-black.json) |
 | Parasitus: Ninja Zero | 93628 | [93628-parasitus-ninja-zero.json](./93628-parasitus-ninja-zero.json) |
 | Parasol Fall | 231632 | [231632-parasol-fall.json](./231632-parasol-fall.json) |
+| Parasol Stars: Rainbow Islands 2 | 39027 | [39027-parasol-stars-rainbow-islands-2.json](./39027-parasol-stars-rainbow-islands-2.json) |
 | Parchis Club | 204683 | [204683-parchis-club.json](./204683-parchis-club.json) |
 | Paris Belle Epoque | 303270 | [303270-paris-belle-epoque.json](./303270-paris-belle-epoque.json) |
 | Paris Transylvania | 258189 | [258189-paris-transylvania.json](./258189-paris-transylvania.json) |
@@ -638,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Builder | 105962 | [105962-pixel-builder.json](./105962-pixel-builder.json) |
 | Pixel Caveman | 118435 | [118435-pixel-caveman.json](./118435-pixel-caveman.json) |
 | Pixel Combat | 149088 | [149088-pixel-combat.json](./149088-pixel-combat.json) |
+| Pixel Cup Soccer 16 | 39001 | [39001-pixel-cup-soccer-16.json](./39001-pixel-cup-soccer-16.json) |
 | Pixel Drifters | 234320 | [234320-pixel-drifters.json](./234320-pixel-drifters.json) |
 | Pixel Driver | 185656 | [185656-pixel-driver.json](./185656-pixel-driver.json) |
 | Pixel Family Fun | 231067 | [231067-pixel-family-fun.json](./231067-pixel-family-fun.json) |
@@ -1101,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Pony's Magic Seesaw | 337985 | [337985-princess-ponys-magic-seesaw.json](./337985-princess-ponys-magic-seesaw.json) |
 | Princess Princess: Himetachi no Abunai Houkago | 72671 | [72671-princess-princess-himetachi-no-abunai-houkago.json](./72671-princess-princess-himetachi-no-abunai-houkago.json) |
 | Princess Quest Part 1 | 250055 | [250055-princess-quest-part-1.json](./250055-princess-quest-part-1.json) |
+| Princess War | 39000 | [39000-princess-war.json](./39000-princess-war.json) |
 | Prinny Presents: NIS Classics Vol 1 - Deluxe Edition | 148545 | [148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json](./148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json) |
 | Priority Realignment | 234900 | [234900-priority-realignment.json](./234900-priority-realignment.json) |
 | PriPara & Pretty Rhythm: PriPara de Tsukaeru Oshare Item 1450! | 177578 | [177578-pripara-and-pretty-rhythm-pripara-de-tsukaeru-oshare-item-1450.json](./177578-pripara-and-pretty-rhythm-pripara-de-tsukaeru-oshare-item-1450.json) |
@@ -1339,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PumPum: +5 Girls Pack | 204065 | [204065-pumpum-5-girls-pack.json](./204065-pumpum-5-girls-pack.json) |
 | Punch Ball Mario Bros. | 91994 | [91994-punch-ball-mario-bros.json](./91994-punch-ball-mario-bros.json) |
 | Punch Chess | 332237 | [332237-punch-chess.json](./332237-punch-chess.json) |
+| Punch Hero | 38999 | [38999-punch-hero.json](./38999-punch-hero.json) |
 | Punch the Rats | 104102 | [104102-punch-the-rats.json](./104102-punch-the-rats.json) |
 | Punchhead | 96074 | [96074-punchhead.json](./96074-punchhead.json) |
 | Punchmasters | 196341 | [196341-punchmasters.json](./196341-punchmasters.json) |
@@ -1382,6 +1386,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putt Nutz | 59458 | [59458-putt-nutz.json](./59458-putt-nutz.json) |
 | Putt Putt Golf 3D | 175419 | [175419-putt-putt-golf-3d.json](./175419-putt-putt-golf-3d.json) |
 | Puttball | 58220 | [58220-puttball.json](./58220-puttball.json) |
+| Putty | 39022 | [39022-putty.json](./39022-putty.json) |
+| Putty Squad | 39021 | [39021-putty-squad.json](./39021-putty-squad.json) |
 | Puyo Puyo | 146876 | [146876-puyo-puyo.json](./146876-puyo-puyo.json) |
 | Puyo Puyo Puzzle Pop | 291210 | [291210-puyo-puyo-puzzle-pop.json](./291210-puyo-puyo-puzzle-pop.json) |
 | Puzz Loop 2 | 39669 | [39669-puzz-loop-2.json](./39669-puzz-loop-2.json) |
