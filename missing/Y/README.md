@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeth | 201832 | [201832-yeth.json](./201832-yeth.json) |
 | Yeti Legend: Mystery of the Forest | 294470 | [294470-yeti-legend-mystery-of-the-forest.json](./294470-yeti-legend-mystery-of-the-forest.json) |
 | Yeti Quest: Crazy Penguins | 294469 | [294469-yeti-quest-crazy-penguins.json](./294469-yeti-quest-crazy-penguins.json) |
+| Yeti's Parole Officer | 83598 | [83598-yetis-parole-officer.json](./83598-yetis-parole-officer.json) |
 | Yggdrasill | 251851 | [251851-yggdrasill.json](./251851-yggdrasill.json) |
 | Yin-Yang Labyrinth | 301600 | [301600-yin-yang-labyrinth.json](./301600-yin-yang-labyrinth.json) |
 | Yo My Yo! | 112355 | [112355-yo-my-yo.json](./112355-yo-my-yo.json) |
