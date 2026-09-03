@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Paper | 250648 | [250648-magic-paper.json](./250648-magic-paper.json) |
 | Magic Pen Color Book | 187488 | [187488-magic-pen-color-book.json](./187488-magic-pen-color-book.json) |
 | Magic Rune Stone | 333367 | [333367-magic-rune-stone.json](./333367-magic-rune-stone.json) |
+| Magic Snake II | 71517 | [71517-magic-snake-ii.json](./71517-magic-snake-ii.json) |
 | Magic Star | 306659 | [306659-magic-star.json](./306659-magic-star.json) |
 | Magic Streets | 335648 | [335648-magic-streets.json](./335648-magic-streets.json) |
 | Magic Summoning Adventure | 154014 | [154014-magic-summoning-adventure.json](./154014-magic-summoning-adventure.json) |
@@ -100,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Blaster | 151741 | [151741-magical-blaster.json](./151741-magical-blaster.json) |
 | Magical Boco | 313464 | [313464-magical-boco.json](./313464-magical-boco.json) |
 | Magical Circle Guru-Guru: Stardust Adventure | 302653 | [302653-magical-circle-guru-guru-stardust-adventure.json](./302653-magical-circle-guru-guru-stardust-adventure.json) |
+| Magical Drop | 71552 | [71552-magical-drop.json](./71552-magical-drop.json) |
 | Magical Escape | 194660 | [194660-magical-escape.json](./194660-magical-escape.json) |
 | Magical Girl Noble Rose | 173817 | [173817-magical-girl-noble-rose.json](./173817-magical-girl-noble-rose.json) |
 | Magical girl's labyrinth | 105332 | [105332-magical-girls-labyrinth.json](./105332-magical-girls-labyrinth.json) |
@@ -800,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Her Manor | 312325 | [312325-mind-her-manor.json](./312325-mind-her-manor.json) |
 | Mind Shadows | 151180 | [151180-mind-shadows.json](./151180-mind-shadows.json) |
 | Mind the Abyss | 310175 | [310175-mind-the-abyss.json](./310175-mind-the-abyss.json) |
+| Mindbender | 71529 | [71529-mindbender.json](./71529-mindbender.json) |
 | Mindblower Pack | 78023 | [78023-mindblower-pack.json](./78023-mindblower-pack.json) |
 | Minder | 100207 | [100207-minder.json](./100207-minder.json) |
 | Mindhack | 151735 | [151735-mindhack.json](./151735-mindhack.json) |
@@ -1116,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument Builders: Cathedral Rising | 294444 | [294444-monument-builders-cathedral-rising.json](./294444-monument-builders-cathedral-rising.json) |
 | Monuments of Mars 2 | 300404 | [300404-monuments-of-mars-2.json](./300404-monuments-of-mars-2.json) |
 | Moo & Move: Extra Grazing Grounds | 328251 | [328251-moo-and-move-extra-grazing-grounds.json](./328251-moo-and-move-extra-grazing-grounds.json) |
+| Moo at the Moon | 71542 | [71542-moo-at-the-moon.json](./71542-moo-at-the-moon.json) |
 | MookerzZ | 252377 | [252377-mookerzz.json](./252377-mookerzz.json) |
 | Moon | 242775 | [242775-moon.json](./242775-moon.json) |
 | Moon Fall | 122381 | [122381-moon-fall.json](./122381-moon-fall.json) |
@@ -1323,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munasawagi no Season | 246104 | [246104-munasawagi-no-season.json](./246104-munasawagi-no-season.json) |
 | Mundo SBT | 249459 | [249459-mundo-sbt.json](./249459-mundo-sbt.json) |
 | Munkiki's Castles | 111740 | [111740-munkikis-castles.json](./111740-munkikis-castles.json) |
+| Muppet Treasure Island | 71543 | [71543-muppet-treasure-island.json](./71543-muppet-treasure-island.json) |
 | Muramasa Burden | 341344 | [341344-muramasa-burden.json](./341344-muramasa-burden.json) |
 | Muramasa Rebirth: Blessing of Amitabha Collector's Edition | 89921 | [89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json](./89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json) |
 | Murder at Masquerade Manor | 223682 | [223682-murder-at-masquerade-manor.json](./223682-murder-at-masquerade-manor.json) |
