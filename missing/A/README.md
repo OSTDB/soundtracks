@@ -1010,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored | 151201 | [151201-armored.json](./151201-armored.json) |
 | Armored Core VI: Fires of Rubicon - Launch Edition | 248296 | [248296-armored-core-vi-fires-of-rubicon-launch-edition.json](./248296-armored-core-vi-fires-of-rubicon-launch-edition.json) |
 | Armored Heroes | 242204 | [242204-armored-heroes.json](./242204-armored-heroes.json) |
+| Armored Squad | 83557 | [83557-armored-squad.json](./83557-armored-squad.json) |
 | Armored Us | 241619 | [241619-armored-us.json](./241619-armored-us.json) |
 | Armoured Onslaught | 129223 | [129223-armoured-onslaught.json](./129223-armoured-onslaught.json) |
 | Arms Race: TCWE - Industrialization | 172191 | [172191-arms-race-tcwe-industrialization.json](./172191-arms-race-tcwe-industrialization.json) |
