@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windborn: Concrete Jungle | 340746 | [340746-windborn-concrete-jungle.json](./340746-windborn-concrete-jungle.json) |
 | Windowframe | 70387 | [70387-windowframe.json](./70387-windowframe.json) |
 | Windrush Tales | 180269 | [180269-windrush-tales.json](./180269-windrush-tales.json) |
+| Winds of Destiny - Duels of the Magi | 39002 | [39002-winds-of-destiny-duels-of-the-magi.json](./39002-winds-of-destiny-duels-of-the-magi.json) |
 | Winds Rhapsody | 142479 | [142479-winds-rhapsody.json](./142479-winds-rhapsody.json) |
 | WindShift | 116362 | [116362-windshift.json](./116362-windshift.json) |
 | Windsor | 209701 | [209701-windsor.json](./209701-windsor.json) |
