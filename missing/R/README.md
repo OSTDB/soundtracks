@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radia Senki: Reimeihen | 48686 | [48686-radia-senki-reimeihen.json](./48686-radia-senki-reimeihen.json) |
 | Radiant Princess: Poni Ceres | 331115 | [331115-radiant-princess-poni-ceres.json](./331115-radiant-princess-poni-ceres.json) |
 | Radiant Reckoning: Subterranean Odyssey | 254766 | [254766-radiant-reckoning-subterranean-odyssey.json](./254766-radiant-reckoning-subterranean-odyssey.json) |
+| Radical Bomber!! Jirai-kun | 41392 | [41392-radical-bomber-jirai-kun.json](./41392-radical-bomber-jirai-kun.json) |
 | Radikal Bikers | 221942 | [221942-radikal-bikers.json](./221942-radikal-bikers.json) |
 | Radio Commander: Complete Edition | 154538 | [154538-radio-commander-complete-edition.json](./154538-radio-commander-complete-edition.json) |
 | Radio Exurbia | 249439 | [249439-radio-exurbia.json](./249439-radio-exurbia.json) |
@@ -133,6 +134,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampage of the Dead | 105355 | [105355-rampage-of-the-dead.json](./105355-rampage-of-the-dead.json) |
 | Rampage Rowing | 316415 | [316415-rampage-rowing.json](./316415-rampage-rowing.json) |
 | RampageRunner | 341310 | [341310-rampagerunner.json](./341310-rampagerunner.json) |
+| Rance III: Leazas Kanraku | 41406 | [41406-rance-iii-leazas-kanraku.json](./41406-rance-iii-leazas-kanraku.json) |
+| Rance IV: Kyoudan no Isan | 41405 | [41405-rance-iv-kyoudan-no-isan.json](./41405-rance-iv-kyoudan-no-isan.json) |
 | Rance Quest Magnum | 137669 | [137669-rance-quest-magnum.json](./137669-rance-quest-magnum.json) |
 | Rancid | 124234 | [124234-rancid.json](./124234-rancid.json) |
 | Rand-O-mazE | 110359 | [110359-rand-o-maze.json](./110359-rand-o-maze.json) |
@@ -387,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reels of Fortune | 270416 | [270416-reels-of-fortune.json](./270416-reels-of-fortune.json) |
 | ReEstate | 197409 | [197409-reestate.json](./197409-reestate.json) |
 | Refantasia: Charm and Conquer | 200744 | [200744-refantasia-charm-and-conquer.json](./200744-refantasia-charm-and-conquer.json) |
+| Reflect World | 41391 | [41391-reflect-world.json](./41391-reflect-world.json) |
 | Reflection Seeker | 319954 | [319954-reflection-seeker.json](./319954-reflection-seeker.json) |
 | Reflections of Life: Spindle of Fate | 244479 | [244479-reflections-of-life-spindle-of-fate.json](./244479-reflections-of-life-spindle-of-fate.json) |
 | Reflections Path | 211951 | [211951-reflections-path.json](./211951-reflections-path.json) |
@@ -458,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repent | 270938 | [270938-repent.json](./270938-repent.json) |
 | Repentless | 213640 | [213640-repentless.json](./213640-repentless.json) |
 | Replay: A Puzzle Game | 157200 | [157200-replay-a-puzzle-game.json](./157200-replay-a-puzzle-game.json) |
+| Replicart | 41390 | [41390-replicart.json](./41390-replicart.json) |
 | Replics | 129765 | [129765-replics.json](./129765-replics.json) |
 | Reporter | 105975 | [105975-reporter.json](./105975-reporter.json) |
 | reProgram | 128633 | [128633-reprogram.json](./128633-reprogram.json) |
@@ -660,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rilakkuma Nakayoshi Collection | 222506 | [222506-rilakkuma-nakayoshi-collection.json](./222506-rilakkuma-nakayoshi-collection.json) |
 | Rilu Rilu Fairilu Kirakira: Hajimete no Fairilu Magic | 222537 | [222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json](./222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json) |
 | Ring of Titans | 189162 | [189162-ring-of-titans.json](./189162-ring-of-titans.json) |
+| Ring Out!! | 41404 | [41404-ring-out.json](./41404-ring-out.json) |
 | Ring Stars | 261508 | [261508-ring-stars.json](./261508-ring-stars.json) |
 | Ringling Bros. and Barnum & Bailey Circus | 67320 | [67320-ringling-bros-and-barnum-and-bailey-circus.json](./67320-ringling-bros-and-barnum-and-bailey-circus.json) |
 | Ringling Bros. and Barnum & Bailey: Circus Friends - Asian Elephants | 209163 | [209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json](./209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json) |
