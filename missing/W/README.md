@@ -402,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Survival Simulator | 309661 | [309661-winter-survival-simulator.json](./309661-winter-survival-simulator.json) |
 | Winter With You | 188108 | [188108-winter-with-you.json](./188108-winter-with-you.json) |
 | Wintersdawn in the Deep | 183591 | [183591-wintersdawn-in-the-deep.json](./183591-wintersdawn-in-the-deep.json) |
+| WinTrek | 69859 | [69859-wintrek.json](./69859-wintrek.json) |
 | Winx Club: Winx Fairy School | 96728 | [96728-winx-club-winx-fairy-school.json](./96728-winx-club-winx-fairy-school.json) |
 | Winzer | 77383 | [77383-winzer.json](./77383-winzer.json) |
 | Wipeout | 265970 | [265970-wipeout.json](./265970-wipeout.json) |
@@ -460,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizdom | 85500 | [85500-wizdom.json](./85500-wizdom.json) |
 | Wobbl | 192963 | [192963-wobbl.json](./192963-wobbl.json) |
 | Wobble Warriors | 261558 | [261558-wobble-warriors.json](./261558-wobble-warriors.json) |
+| Wobbly Bobbly | 69882 | [69882-wobbly-bobbly.json](./69882-wobbly-bobbly.json) |
 | Wolf And Moon: Nonogram | 312365 | [312365-wolf-and-moon-nonogram.json](./312365-wolf-and-moon-nonogram.json) |
 | Wolf And Moon: Sudoku | 312362 | [312362-wolf-and-moon-sudoku.json](./312362-wolf-and-moon-sudoku.json) |
 | Wolf or Boy | 117709 | [117709-wolf-or-boy.json](./117709-wolf-or-boy.json) |
