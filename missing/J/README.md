@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Queen: Puzzle & Magic | 212485 | [212485-jewel-queen-puzzle-and-magic.json](./212485-jewel-queen-puzzle-and-magic.json) |
 | Jewel Quest | 196845 | [196845-jewel-quest.json](./196845-jewel-quest.json) |
 | Jewel Quest Solitaire II | 53250 | [53250-jewel-quest-solitaire-ii.json](./53250-jewel-quest-solitaire-ii.json) |
+| Jewel Quest Trilogy | 50633 | [50633-jewel-quest-trilogy.json](./50633-jewel-quest-trilogy.json) |
 | Jewel Time Deluxe | 110322 | [110322-jewel-time-deluxe.json](./110322-jewel-time-deluxe.json) |
 | Jewel Witch Tale | 52007 | [52007-jewel-witch-tale.json](./52007-jewel-witch-tale.json) |
 | Jewels Deluxe | 108478 | [108478-jewels-deluxe.json](./108478-jewels-deluxe.json) |
@@ -244,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Kid | 217022 | [217022-jump-kid.json](./217022-jump-kid.json) |
 | Jump Like An Egyptian | 192978 | [192978-jump-like-an-egyptian.json](./192978-jump-like-an-egyptian.json) |
 | Jump on the Ball | 329380 | [329380-jump-on-the-ball.json](./329380-jump-on-the-ball.json) |
+| Jump Start Crazy Karts | 50638 | [50638-jump-start-crazy-karts.json](./50638-jump-start-crazy-karts.json) |
 | Jump To Win! | 303223 | [303223-jump-to-win.json](./303223-jump-to-win.json) |
 | Jump Truck | 328238 | [328238-jump-truck.json](./328238-jump-truck.json) |
 | Jump Without Reason | 124252 | [124252-jump-without-reason.json](./124252-jump-without-reason.json) |
