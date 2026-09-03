@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sack of Bots | 119040 | [119040-sack-of-bots.json](./119040-sack-of-bots.json) |
 | Sackman se-X | 82125 | [82125-sackman-se-x.json](./82125-sackman-se-x.json) |
 | Sacra: Falling of Myrd | 331692 | [331692-sacra-falling-of-myrd.json](./331692-sacra-falling-of-myrd.json) |
+| Sacred 3: First Edition | 51287 | [51287-sacred-3-first-edition.json](./51287-sacred-3-first-edition.json) |
 | Sacred Chasm: Silent Utopia | 297814 | [297814-sacred-chasm-silent-utopia.json](./297814-sacred-chasm-silent-utopia.json) |
 | Sacreligious | 276460 | [276460-sacreligious.json](./276460-sacreligious.json) |
 | Sacrilege | 61634 | [61634-sacrilege.json](./61634-sacrilege.json) |
@@ -265,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scoop'n Birds | 86076 | [86076-scoopn-birds.json](./86076-scoopn-birds.json) |
 | Scoot Hard DX: Daytime Drama Zero | 230508 | [230508-scoot-hard-dx-daytime-drama-zero.json](./230508-scoot-hard-dx-daytime-drama-zero.json) |
 | Scopic | 132865 | [132865-scopic.json](./132865-scopic.json) |
+| Scorched 3D | 51249 | [51249-scorched-3d.json](./51249-scorched-3d.json) |
 | Scorn | 262084 | [262084-scorn.json](./262084-scorn.json) |
 | Scorpion Overdrive | 193464 | [193464-scorpion-overdrive.json](./193464-scorpion-overdrive.json) |
 | Scoundrel | 101605 | [101605-scoundrel.json](./101605-scoundrel.json) |
@@ -398,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeking Revenge | 158225 | [158225-seeking-revenge.json](./158225-seeking-revenge.json) |
 | Sega Ages 2500 Vol. 23: Sega Memorial Selection | 69883 | [69883-sega-ages-2500-vol-23-sega-memorial-selection.json](./69883-sega-ages-2500-vol-23-sega-memorial-selection.json) |
 | Sega Ages 2500 Vol. 29: Monster World Complete Collection | 78047 | [78047-sega-ages-2500-vol-29-monster-world-complete-collection.json](./78047-sega-ages-2500-vol-29-monster-world-complete-collection.json) |
+| Sega Genesis Classic Collection: Gold Edition | 51261 | [51261-sega-genesis-classic-collection-gold-edition.json](./51261-sega-genesis-classic-collection-gold-edition.json) |
 | Sega Superstars Tennis | 255326 | [255326-sega-superstars-tennis.json](./255326-sega-superstars-tennis.json) |
 | Sei Monmusu Festival!! Omatsuri da yo Zen'in Shuugou! | 77370 | [77370-sei-monmusu-festival-omatsuri-da-yo-zenin-shuugou.json](./77370-sei-monmusu-festival-omatsuri-da-yo-zenin-shuugou.json) |
 | Sei no Shoujo: Bishoujo Gakuen 3 | 194623 | [194623-sei-no-shoujo-bishoujo-gakuen-3.json](./194623-sei-no-shoujo-bishoujo-gakuen-3.json) |
@@ -777,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidelined Futures | 308540 | [308540-sidelined-futures.json](./308540-sidelined-futures.json) |
 | Sidewinder Max | 322940 | [322940-sidewinder-max.json](./322940-sidewinder-max.json) |
 | Siegius | 319986 | [319986-siegius.json](./319986-siegius.json) |
+| Sienna | 51221 | [51221-sienna.json](./51221-sienna.json) |
 | Sierra's 3-D Helicopter Simulator | 72087 | [72087-sierras-3-d-helicopter-simulator.json](./72087-sierras-3-d-helicopter-simulator.json) |
 | Sift Heads | 209633 | [209633-sift-heads.json](./209633-sift-heads.json) |
 | Sift Heads Reborn | 191898 | [191898-sift-heads-reborn.json](./191898-sift-heads-reborn.json) |
@@ -1857,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcaller | 142496 | [142496-starcaller.json](./142496-starcaller.json) |
 | Starcatcher | 228094 | [228094-starcatcher.json](./228094-starcatcher.json) |
 | Starch | 91942 | [91942-starch.json](./91942-starch.json) |
+| StarCraft II: Legacy of the Void - Collector's Edition | 51293 | [51293-starcraft-ii-legacy-of-the-void-collectors-edition.json](./51293-starcraft-ii-legacy-of-the-void-collectors-edition.json) |
 | StarCraft: Retribution | 66116 | [66116-starcraft-retribution.json](./66116-starcraft-retribution.json) |
 | Starcraft: Stellar Forces | 135274 | [135274-starcraft-stellar-forces.json](./135274-starcraft-stellar-forces.json) |
 | StarCraft: Stratospace | 135273 | [135273-starcraft-stratospace.json](./135273-starcraft-stratospace.json) |
@@ -1869,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfighter 77 | 138810 | [138810-starfighter-77.json](./138810-starfighter-77.json) |
 | StarFighter R&D HD Edition | 134689 | [134689-starfighter-r-and-d-hd-edition.json](./134689-starfighter-r-and-d-hd-edition.json) |
 | Stargaze | 139479 | [139479-stargaze.json](./139479-stargaze.json) |
+| Stargoose Warrior | 51285 | [51285-stargoose-warrior.json](./51285-stargoose-warrior.json) |
 | Stark Penitentiary | 161892 | [161892-stark-penitentiary.json](./161892-stark-penitentiary.json) |
 | Starlab | 258721 | [258721-starlab.json](./258721-starlab.json) |
 | Starless | 204092 | [204092-starless.json](./204092-starless.json) |
@@ -1927,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealthscape | 96732 | [96732-stealthscape.json](./96732-stealthscape.json) |
 | Steam | 95441 | [95441-steam.json](./95441-steam.json) |
 | Steam Punks | 61085 | [61085-steam-punks.json](./61085-steam-punks.json) |
+| Steam Slug | 51262 | [51262-steam-slug.json](./51262-steam-slug.json) |
 | Steambots | 296655 | [296655-steambots.json](./296655-steambots.json) |
 | SteamDolls: Order of Chaos | 124261 | [124261-steamdolls-order-of-chaos.json](./124261-steamdolls-order-of-chaos.json) |
 | SteamForge | 339666 | [339666-steamforge.json](./339666-steamforge.json) |
@@ -2605,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Z The Alpha | 292304 | [292304-survival-z-the-alpha.json](./292304-survival-z-the-alpha.json) |
 | Survival Zone: Craft, Build & Grow | 336395 | [336395-survival-zone-craft-build-and-grow.json](./336395-survival-zone-craft-build-and-grow.json) |
 | Survival: Revelation | 124225 | [124225-survival-revelation.json](./124225-survival-revelation.json) |
+| Survival: The Ultimate Challenge | 51243 | [51243-survival-the-ultimate-challenge.json](./51243-survival-the-ultimate-challenge.json) |
 | Survive 10 Minutes Please | 201323 | [201323-survive-10-minutes-please.json](./201323-survive-10-minutes-please.json) |
 | Survive Avalon | 158709 | [158709-survive-avalon.json](./158709-survive-avalon.json) |
 | Survive Ten Days | 306094 | [306094-survive-ten-days.json](./306094-survive-ten-days.json) |
