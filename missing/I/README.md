@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illuminator | 243937 | [243937-illuminator.json](./243937-illuminator.json) |
 | Illusion | 211960 | [211960-illusion.json](./211960-illusion.json) |
 | Illusion Inexistante | 292815 | [292815-illusion-inexistante.json](./292815-illusion-inexistante.json) |
+| Illusion of L'Phalcia | 39010 | [39010-illusion-of-lphalcia.json](./39010-illusion-of-lphalcia.json) |
 | Illville: Return instructions | 75180 | [75180-illville-return-instructions.json](./75180-illville-return-instructions.json) |
 | Illwind | 251835 | [251835-illwind.json](./251835-illwind.json) |
 | Im Bann Der Dunklen Jagd | 324674 | [324674-im-bann-der-dunklen-jagd.json](./324674-im-bann-der-dunklen-jagd.json) |
@@ -305,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Chef | 300411 | [300411-infinite-chef.json](./300411-infinite-chef.json) |
 | Infinite Construction | 192442 | [192442-infinite-construction.json](./192442-infinite-construction.json) |
 | Infinite Dash | 173800 | [173800-infinite-dash.json](./173800-infinite-dash.json) |
+| Infinite Dunamis | 39013 | [39013-infinite-dunamis.json](./39013-infinite-dunamis.json) |
 | Infinite Jigsaw Puzzle | 94222 | [94222-infinite-jigsaw-puzzle.json](./94222-infinite-jigsaw-puzzle.json) |
 | Infinite Knights | 256523 | [256523-infinite-knights.json](./256523-infinite-knights.json) |
 | Infinite Library | 318186 | [318186-infinite-library.json](./318186-infinite-library.json) |
