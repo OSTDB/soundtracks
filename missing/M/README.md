@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid-san wo Migi ni Mi | 111051 | [111051-maid-san-wo-migi-ni-mi.json](./111051-maid-san-wo-migi-ni-mi.json) |
 | Maigo no Koneko-chan | 276472 | [276472-maigo-no-koneko-chan.json](./276472-maigo-no-koneko-chan.json) |
 | Mail Mole + Expansions Bundle | 238186 | [238186-mail-mole-expansions-bundle.json](./238186-mail-mole-expansions-bundle.json) |
+| Mailbag Mayhem | 62191 | [62191-mailbag-mayhem.json](./62191-mailbag-mayhem.json) |
 | Maimai DX Plus | 331676 | [331676-maimai-dx-plus.json](./331676-maimai-dx-plus.json) |
 | Maimai DX Splash Plus | 167282 | [167282-maimai-dx-splash-plus.json](./167282-maimai-dx-splash-plus.json) |
 | Maimai DX Universe | 167281 | [167281-maimai-dx-universe.json](./167281-maimai-dx-universe.json) |
@@ -209,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mammy Talk DS | 130391 | [130391-mammy-talk-ds.json](./130391-mammy-talk-ds.json) |
 | Mamono Hunter Youko: Makai Kara no Tenkousei | 292862 | [292862-mamono-hunter-youko-makai-kara-no-tenkousei.json](./292862-mamono-hunter-youko-makai-kara-no-tenkousei.json) |
 | Mamono Hunter Youko: Tooki Yobigoe | 292863 | [292863-mamono-hunter-youko-tooki-yobigoe.json](./292863-mamono-hunter-youko-tooki-yobigoe.json) |
+| Man in a Maze | 62219 | [62219-man-in-a-maze.json](./62219-man-in-a-maze.json) |
 | Man of Sterling Quality | 192432 | [192432-man-of-sterling-quality.json](./192432-man-of-sterling-quality.json) |
 | Man of War II: Chains of Command | 73835 | [73835-man-of-war-ii-chains-of-command.json](./73835-man-of-war-ii-chains-of-command.json) |
 | Mana Go Round | 167814 | [167814-mana-go-round.json](./167814-mana-go-round.json) |
@@ -1289,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorcycle Mechanic Simulator 2021 | 142478 | [142478-motorcycle-mechanic-simulator-2021.json](./142478-motorcycle-mechanic-simulator-2021.json) |
 | MotoRun | 166739 | [166739-motorun.json](./166739-motorun.json) |
 | Mots Croisés | 93557 | [93557-mots-croises.json](./93557-mots-croises.json) |
+| Motteke Tamago Ganbare Kamonohashi | 62206 | [62206-motteke-tamago-ganbare-kamonohashi.json](./62206-motteke-tamago-ganbare-kamonohashi.json) |
 | Mottia: The Gem Hunters | 215914 | [215914-mottia-the-gem-hunters.json](./215914-mottia-the-gem-hunters.json) |
 | Motto Shiritai Kodai Egypt | 276471 | [276471-motto-shiritai-kodai-egypt.json](./276471-motto-shiritai-kodai-egypt.json) |
 | Motto! SoniComi | 93600 | [93600-motto-sonicomi.json](./93600-motto-sonicomi.json) |
