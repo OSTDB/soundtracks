@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bouncing Ball | 195207 | [195207-the-bouncing-ball.json](./195207-the-bouncing-ball.json) |
 | The Bounty | 86113 | [86113-the-bounty.json](./86113-the-bounty.json) |
 | The Box Game | 203550 | [203550-the-box-game.json](./203550-the-box-game.json) |
+| The Boy With Bombs | 61122 | [61122-the-boy-with-bombs.json](./61122-the-boy-with-bombs.json) |
 | The Brain's Brain Game | 307913 | [307913-the-brains-brain-game.json](./307913-the-brains-brain-game.json) |
 | The Bread Pub Brawlers | 86118 | [86118-the-bread-pub-brawlers.json](./86118-the-bread-pub-brawlers.json) |
 | The BridgeMaster | 169445 | [169445-the-bridgemaster.json](./169445-the-bridgemaster.json) |
@@ -554,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Charm of Love | 157158 | [157158-the-charm-of-love.json](./157158-the-charm-of-love.json) |
 | The Chaste Full-Metal Maiden - Leiria | 124262 | [124262-the-chaste-full-metal-maiden-leiria.json](./124262-the-chaste-full-metal-maiden-leiria.json) |
 | The Chick C | 191265 | [191265-the-chick-c.json](./191265-the-chick-c.json) |
+| The Chicken Bandit | 61117 | [61117-the-chicken-bandit.json](./61117-the-chicken-bandit.json) |
 | The Christmas Spirit: Grimm Tales | 139430 | [139430-the-christmas-spirit-grimm-tales.json](./139430-the-christmas-spirit-grimm-tales.json) |
 | The Chronicles of Penghao: Ming | 292289 | [292289-the-chronicles-of-penghao-ming.json](./292289-the-chronicles-of-penghao-ming.json) |
 | The Chrono Jotter | 157173 | [157173-the-chrono-jotter.json](./157173-the-chrono-jotter.json) |
@@ -1003,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Legends of Redwall: The Scout - Act 3 | 171612 | [171612-the-lost-legends-of-redwall-the-scout-act-3.json](./171612-the-lost-legends-of-redwall-the-scout-act-3.json) |
 | The Lost Marble | 161390 | [161390-the-lost-marble.json](./161390-the-lost-marble.json) |
 | The Lost Mines | 199103 | [199103-the-lost-mines.json](./199103-the-lost-mines.json) |
+| The Lost Ship | 61102 | [61102-the-lost-ship.json](./61102-the-lost-ship.json) |
 | The Lost Shrine: Escape Room | 149606 | [149606-the-lost-shrine-escape-room.json](./149606-the-lost-shrine-escape-room.json) |
 | The Lost Vikings | 214769 | [214769-the-lost-vikings.json](./214769-the-lost-vikings.json) |
 | The Lost Weld | 197385 | [197385-the-lost-weld.json](./197385-the-lost-weld.json) |
@@ -1114,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outer Space Bugs | 224751 | [224751-the-outer-space-bugs.json](./224751-the-outer-space-bugs.json) |
 | The Outer Zone: Survival Tactics | 264856 | [264856-the-outer-zone-survival-tactics.json](./264856-the-outer-zone-survival-tactics.json) |
 | The Outlaw and the Newcomer | 216998 | [216998-the-outlaw-and-the-newcomer.json](./216998-the-outlaw-and-the-newcomer.json) |
+| The Owlman of Mawnan Smith | 61084 | [61084-the-owlman-of-mawnan-smith.json](./61084-the-owlman-of-mawnan-smith.json) |
 | The Palace on the Hill | 153430 | [153430-the-palace-on-the-hill.json](./153430-the-palace-on-the-hill.json) |
 | The Paper Aircraft of Childhood | 268216 | [268216-the-paper-aircraft-of-childhood.json](./268216-the-paper-aircraft-of-childhood.json) |
 | The Parish | 320549 | [320549-the-parish.json](./320549-the-parish.json) |
@@ -1131,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Permanent Residence: Souls Kept | 324671 | [324671-the-permanent-residence-souls-kept.json](./324671-the-permanent-residence-souls-kept.json) |
 | The Perplexing Orb 2 | 148560 | [148560-the-perplexing-orb-2.json](./148560-the-perplexing-orb-2.json) |
 | The Pet Squad | 332810 | [332810-the-pet-squad.json](./332810-the-pet-squad.json) |
+| The Pilgrim's Progress: The Video Game | 61109 | [61109-the-pilgrims-progress-the-video-game.json](./61109-the-pilgrims-progress-the-video-game.json) |
 | The Pillagers of Raillore | 137096 | [137096-the-pillagers-of-raillore.json](./137096-the-pillagers-of-raillore.json) |
 | The Play's the Thing | 154017 | [154017-the-plays-the-thing.json](./154017-the-plays-the-thing.json) |
 | The Plug | 175436 | [175436-the-plug.json](./175436-the-plug.json) |
@@ -1205,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Second Sight: Dead Reckoning | 331138 | [331138-the-second-sight-dead-reckoning.json](./331138-the-second-sight-dead-reckoning.json) |
 | The Secret Chronicles of Dr. M. | 134077 | [134077-the-secret-chronicles-of-dr-m.json](./134077-the-secret-chronicles-of-dr-m.json) |
 | The Secret of Cat Island | 194003 | [194003-the-secret-of-cat-island.json](./194003-the-secret-of-cat-island.json) |
+| The Secret of Grisly Manor | 61104 | [61104-the-secret-of-grisly-manor.json](./61104-the-secret-of-grisly-manor.json) |
 | The Secret of Rooms | 207518 | [207518-the-secret-of-rooms.json](./207518-the-secret-of-rooms.json) |
 | The Secrets | 178686 | [178686-the-secrets.json](./178686-the-secrets.json) |
 | The Secrets of Hope | 236533 | [236533-the-secrets-of-hope.json](./236533-the-secrets-of-hope.json) |
@@ -2221,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Battlegrounds - Complete Edition | 188638 | [188638-transformers-battlegrounds-complete-edition.json](./188638-transformers-battlegrounds-complete-edition.json) |
 | Transformers: Revenge of the Fallen | 335116 | [335116-transformers-revenge-of-the-fallen.json](./335116-transformers-revenge-of-the-fallen.json) |
 | Transformers: Robots in Disguise | 70990 | [70990-transformers-robots-in-disguise.json](./70990-transformers-robots-in-disguise.json) |
+| Transformers: Ultimate Autobots Edition | 61090 | [61090-transformers-ultimate-autobots-edition.json](./61090-transformers-ultimate-autobots-edition.json) |
 | Transformers: War for Cybertron - Autobots | 159310 | [159310-transformers-war-for-cybertron-autobots.json](./159310-transformers-war-for-cybertron-autobots.json) |
 | Transient: Extended Edition | 186911 | [186911-transient-extended-edition.json](./186911-transient-extended-edition.json) |
 | TransMemory | 318802 | [318802-transmemory.json](./318802-transmemory.json) |
@@ -2362,6 +2369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrotMania: Aeternum Obscurum | 313470 | [313470-trotmania-aeternum-obscurum.json](./313470-trotmania-aeternum-obscurum.json) |
 | Trouble Inn: Jonny's Room | 163949 | [163949-trouble-inn-jonnys-room.json](./163949-trouble-inn-jonnys-room.json) |
 | Troubles in Silesia Country | 250013 | [250013-troubles-in-silesia-country.json](./250013-troubles-in-silesia-country.json) |
+| Trouserheart | 61113 | [61113-trouserheart.json](./61113-trouserheart.json) |
 | Troy Online | 92516 | [92516-troy-online.json](./92516-troy-online.json) |
 | Truck & Logistics Simulator | 129757 | [129757-truck-and-logistics-simulator.json](./129757-truck-and-logistics-simulator.json) |
 | Truck Driver: French Paint Jobs | 241067 | [241067-truck-driver-french-paint-jobs.json](./241067-truck-driver-french-paint-jobs.json) |
