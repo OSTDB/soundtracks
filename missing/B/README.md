@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Bitch Blasters | 337996 | [337996-bad-bitch-blasters.json](./337996-bad-bitch-blasters.json) |
 | Bad Guy: Neighborhood | 193494 | [193494-bad-guy-neighborhood.json](./193494-bad-guy-neighborhood.json) |
 | Bad Impressions | 211424 | [211424-bad-impressions.json](./211424-bad-impressions.json) |
+| Bad Lands | 39655 | [39655-bad-lands.json](./39655-bad-lands.json) |
 | Bad Way | 189204 | [189204-bad-way.json](./189204-bad-way.json) |
 | Bad Weekend | 273135 | [273135-bad-weekend.json](./273135-bad-weekend.json) |
 | Bada Space Station | 146355 | [146355-bada-space-station.json](./146355-bada-space-station.json) |
@@ -336,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Dodge Ball 3 | 56519 | [56519-battle-dodge-ball-3.json](./56519-battle-dodge-ball-3.json) |
 | Battle Dungeon: Risen | 175438 | [175438-battle-dungeon-risen.json](./175438-battle-dungeon-risen.json) |
 | Battle Fishing Masters | 190198 | [190198-battle-fishing-masters.json](./190198-battle-fishing-masters.json) |
+| Battle Flip Shot | 39667 | [39667-battle-flip-shot.json](./39667-battle-flip-shot.json) |
 | Battle For It All | 87192 | [87192-battle-for-it-all.json](./87192-battle-for-it-all.json) |
 | Battle for the Mountain Throne | 98456 | [98456-battle-for-the-mountain-throne.json](./98456-battle-for-the-mountain-throne.json) |
 | Battle for the Void | 248901 | [248901-battle-for-the-void.json](./248901-battle-for-the-void.json) |
@@ -988,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Bomb Bomb | 248900 | [248900-bomb-bomb-bomb.json](./248900-bomb-bomb-bomb.json) |
 | Bomb Bowling | 307307 | [307307-bomb-bowling.json](./307307-bomb-bowling.json) |
 | Bomb Craft Tnt | 88319 | [88319-bomb-craft-tnt.json](./88319-bomb-craft-tnt.json) |
+| Bomb Jack Twin | 39652 | [39652-bomb-jack-twin.json](./39652-bomb-jack-twin.json) |
 | Bomb Labyrinth | 99623 | [99623-bomb-labyrinth.json](./99623-bomb-labyrinth.json) |
 | Bomb the City | 57669 | [57669-bomb-the-city.json](./57669-bomb-the-city.json) |
 | Bomb the Town | 319968 | [319968-bomb-the-town.json](./319968-bomb-the-town.json) |
@@ -1003,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Max: Ain Version | 197961 | [197961-bomberman-max-ain-version.json](./197961-bomberman-max-ain-version.json) |
 | Bomberman Nightmare | 142492 | [142492-bomberman-nightmare.json](./142492-bomberman-nightmare.json) |
 | Bomberman: Panic Bomber | 162409 | [162409-bomberman-panic-bomber.json](./162409-bomberman-panic-bomber.json) |
+| Bomberman: Panic Bomber | 39663 | [39663-bomberman-panic-bomber.json](./39663-bomberman-panic-bomber.json) |
 | Bomberman: Users Battle | 42055 | [42055-bomberman-users-battle.json](./42055-bomberman-users-battle.json) |
 | Bombfest | 74464 | [74464-bombfest.json](./74464-bombfest.json) |
 | Bombing Quest | 129796 | [129796-bombing-quest.json](./129796-bombing-quest.json) |
