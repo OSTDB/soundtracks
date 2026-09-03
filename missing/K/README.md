@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Quest IV: The Perils of Rosella Retold | 230506 | [230506-kings-quest-iv-the-perils-of-rosella-retold.json](./230506-kings-quest-iv-the-perils-of-rosella-retold.json) |
 | King's Throne: Royal Delights | 208592 | [208592-kings-throne-royal-delights.json](./208592-kings-throne-royal-delights.json) |
 | KingAndSlaves | 122401 | [122401-kingandslaves.json](./122401-kingandslaves.json) |
+| Kingdom at War | 84254 | [84254-kingdom-at-war.json](./84254-kingdom-at-war.json) |
 | Kingdom Come: Deliverance II - Gold Edition | 317636 | [317636-kingdom-come-deliverance-ii-gold-edition.json](./317636-kingdom-come-deliverance-ii-gold-edition.json) |
 | Kingdom Hearts Tamagotchi | 229938 | [229938-kingdom-hearts-tamagotchi.json](./229938-kingdom-hearts-tamagotchi.json) |
 | Kingdom of Arcana | 292320 | [292320-kingdom-of-arcana.json](./292320-kingdom-of-arcana.json) |
@@ -251,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby Bowl 64 | 298858 | [298858-kirby-bowl-64.json](./298858-kirby-bowl-64.json) |
 | Kirby in Sonic the Hedgehog | 198524 | [198524-kirby-in-sonic-the-hedgehog.json](./198524-kirby-in-sonic-the-hedgehog.json) |
 | Kirby in Sonic the Hedgehog 2 | 198531 | [198531-kirby-in-sonic-the-hedgehog-2.json](./198531-kirby-in-sonic-the-hedgehog-2.json) |
+| Kirby Puzzle | 84259 | [84259-kirby-puzzle.json](./84259-kirby-puzzle.json) |
 | Kirby the Dream Battle | 145015 | [145015-kirby-the-dream-battle.json](./145015-kirby-the-dream-battle.json) |
 | Kirby's Ballin' Adventure | 324102 | [324102-kirbys-ballin-adventure.json](./324102-kirbys-ballin-adventure.json) |
 | Kirby's Dream World | 243927 | [243927-kirbys-dream-world.json](./243927-kirbys-dream-world.json) |
@@ -383,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krell | 93032 | [93032-krell.json](./93032-krell.json) |
 | Kremling Krushin | 231605 | [231605-kremling-krushin.json](./231605-kremling-krushin.json) |
 | Krew Eats | 172718 | [172718-krew-eats.json](./172718-krew-eats.json) |
+| Kriegspiel | 84274 | [84274-kriegspiel.json](./84274-kriegspiel.json) |
 | Krila | 260943 | [260943-krila.json](./260943-krila.json) |
 | Kritika Global | 211930 | [211930-kritika-global.json](./211930-kritika-global.json) |
 | Kromlech | 253588 | [253588-kromlech.json](./253588-kromlech.json) |
