@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics Arena Online | 69301 | [69301-tactics-arena-online.json](./69301-tactics-arena-online.json) |
 | Tactics Rogue | 109709 | [109709-tactics-rogue.json](./109709-tactics-rogue.json) |
 | TacticsLand | 311805 | [311805-tacticsland.json](./311805-tacticsland.json) |
+| Taern | 55929 | [55929-taern.json](./55929-taern.json) |
 | Tag Hop | 153413 | [153413-tag-hop.json](./153413-tag-hop.json) |
 | Tag War VR | 336904 | [336904-tag-war-vr.json](./336904-tag-war-vr.json) |
 | TAGAP 4 | 321139 | [321139-tagap-4.json](./321139-tagap-4.json) |
@@ -558,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Case of the Serialized Killer | 209720 | [209720-the-case-of-the-serialized-killer.json](./209720-the-case-of-the-serialized-killer.json) |
 | The Casino: Roulette, Video Poker, Slot Machines, Craps, Baccarat | 147952 | [147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json](./147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json) |
 | The Castle Disaster 2 | 105318 | [105318-the-castle-disaster-2.json](./105318-the-castle-disaster-2.json) |
+| The Cat in the Hijab | 55930 | [55930-the-cat-in-the-hijab.json](./55930-the-cat-in-the-hijab.json) |
 | The Cat Maze | 218709 | [218709-the-cat-maze.json](./218709-the-cat-maze.json) |
 | The Catch: Carp & Coarse - Collector's Edition | 141891 | [141891-the-catch-carp-and-coarse-collectors-edition.json](./141891-the-catch-carp-and-coarse-collectors-edition.json) |
 | The Catch! | 262074 | [262074-the-catch.json](./262074-the-catch.json) |
@@ -838,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hardest Game in the Universe: DLC 3 | 306069 | [306069-the-hardest-game-in-the-universe-dlc-3.json](./306069-the-hardest-game-in-the-universe-dlc-3.json) |
 | The Hardest Quiz - Impossible | 96054 | [96054-the-hardest-quiz-impossible.json](./96054-the-hardest-quiz-impossible.json) |
 | The Harlem Shake vs. Gangnam Dance Game | 264355 | [264355-the-harlem-shake-vs-gangnam-dance-game.json](./264355-the-harlem-shake-vs-gangnam-dance-game.json) |
+| The Harmony of Buku | 55921 | [55921-the-harmony-of-buku.json](./55921-the-harmony-of-buku.json) |
 | The Haunted Dolls | 157181 | [157181-the-haunted-dolls.json](./157181-the-haunted-dolls.json) |
 | The Haunted Hospice | 259285 | [259285-the-haunted-hospice.json](./259285-the-haunted-hospice.json) |
 | The Haunted House | 314061 | [314061-the-haunted-house.json](./314061-the-haunted-house.json) |
@@ -981,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Liar's Tavern | 322981 | [322981-the-liars-tavern.json](./322981-the-liars-tavern.json) |
 | The Life of Me | 314662 | [314662-the-life-of-me.json](./314662-the-life-of-me.json) |
 | The Life Threads | 225261 | [225261-the-life-threads.json](./225261-the-life-threads.json) |
+| The Light Inside Us | 55922 | [55922-the-light-inside-us.json](./55922-the-light-inside-us.json) |
 | The Lighthouse \| VR Escape Room | 111710 | [111710-the-lighthouse-vr-escape-room.json](./111710-the-lighthouse-vr-escape-room.json) |
 | The Lightshield Report | 302141 | [302141-the-lightshield-report.json](./302141-the-lightshield-report.json) |
 | The Lilliput Workshop | 205249 | [205249-the-lilliput-workshop.json](./205249-the-lilliput-workshop.json) |
@@ -2045,7 +2049,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toto's Toy Box | 129222 | [129222-totos-toy-box.json](./129222-totos-toy-box.json) |
 | Tottoko Hamtaro Card-e | 220854 | [220854-tottoko-hamtaro-card-e.json](./220854-tottoko-hamtaro-card-e.json) |
 | Touch Battle Ninja | 58828 | [58828-touch-battle-ninja.json](./58828-touch-battle-ninja.json) |
+| Touch Battle Tank 3D | 55907 | [55907-touch-battle-tank-3d.json](./55907-touch-battle-tank-3d.json) |
+| Touch Battle Tank 3D-2 | 55912 | [55912-touch-battle-tank-3d-2.json](./55912-touch-battle-tank-3d-2.json) |
 | Touch Battle Tank 3D-3 | 58832 | [58832-touch-battle-tank-3d-3.json](./58832-touch-battle-tank-3d-3.json) |
+| Touch Battle Tank SP | 55908 | [55908-touch-battle-tank-sp.json](./55908-touch-battle-tank-sp.json) |
 | Touch Carrom: Striker Edition | 239887 | [239887-touch-carrom-striker-edition.json](./239887-touch-carrom-striker-edition.json) |
 | Touch Melo | 312904 | [312904-touch-melo.json](./312904-touch-melo.json) |
 | Touchdown Pinball | 129804 | [129804-touchdown-pinball.json](./129804-touchdown-pinball.json) |
