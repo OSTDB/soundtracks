@@ -363,6 +363,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFK Heroes | 194034 | [194034-afk-heroes.json](./194034-afk-heroes.json) |
 | AFK Summoner | 179206 | [179206-afk-summoner.json](./179206-afk-summoner.json) |
 | AFL 99 | 60580 | [60580-afl-99.json](./60580-afl-99.json) |
+| AFL Live 2003 | 47307 | [47307-afl-live-2003.json](./47307-afl-live-2003.json) |
+| AFL Live 2004 | 47306 | [47306-afl-live-2004.json](./47306-afl-live-2004.json) |
 | AFL Premiership 2005 | 73847 | [73847-afl-premiership-2005.json](./73847-afl-premiership-2005.json) |
 | Afrikan Tähti | 174367 | [174367-afrikan-tahti.json](./174367-afrikan-tahti.json) |
 | Afrodite The Game | 246670 | [246670-afrodite-the-game.json](./246670-afrodite-the-game.json) |
@@ -468,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airborne! | 95457 | [95457-airborne.json](./95457-airborne.json) |
 | Aircraft War: Extra Level Pack 2 | 263196 | [263196-aircraft-war-extra-level-pack-2.json](./263196-aircraft-war-extra-level-pack-2.json) |
 | AirFighter | 193485 | [193485-airfighter.json](./193485-airfighter.json) |
+| Airforce Delta | 47285 | [47285-airforce-delta.json](./47285-airforce-delta.json) |
 | Airline Commander | 106592 | [106592-airline-commander.json](./106592-airline-commander.json) |
 | Airline Commander: A Real Flight Experience | 106598 | [106598-airline-commander-a-real-flight-experience.json](./106598-airline-commander-a-real-flight-experience.json) |
 | Airline Flight Attendant Simulator VR | 236016 | [236016-airline-flight-attendant-simulator-vr.json](./236016-airline-flight-attendant-simulator-vr.json) |
@@ -484,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aislin's Story: The Bloodbath Trials | 177534 | [177534-aislins-story-the-bloodbath-trials.json](./177534-aislins-story-the-bloodbath-trials.json) |
 | Aiten Eishi: Blue Guardians | 252408 | [252408-aiten-eishi-blue-guardians.json](./252408-aiten-eishi-blue-guardians.json) |
 | Aiyana | 211415 | [211415-aiyana.json](./211415-aiyana.json) |
+| AJAX Club Football 2005 | 47305 | [47305-ajax-club-football-2005.json](./47305-ajax-club-football-2005.json) |
 | Akane Chan-bara | 204685 | [204685-akane-chan-bara.json](./204685-akane-chan-bara.json) |
 | Akaneiro ni Somaru Saka Portable | 56532 | [56532-akaneiro-ni-somaru-saka-portable.json](./56532-akaneiro-ni-somaru-saka-portable.json) |
 | Akanesasu Sekai de Kimi to Utau | 240479 | [240479-akanesasu-sekai-de-kimi-to-utau.json](./240479-akanesasu-sekai-de-kimi-to-utau.json) |
@@ -1301,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Dash | 156655 | [156655-astro-dash.json](./156655-astro-dash.json) |
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
 | Astro Warrior/Pit Pot | 93584 | [93584-astro-warrior-pit-pot.json](./93584-astro-warrior-pit-pot.json) |
+| Astro Wars | 47284 | [47284-astro-wars.json](./47284-astro-wars.json) |
 | Astro: The Beginning | 118431 | [118431-astro-the-beginning.json](./118431-astro-the-beginning.json) |
 | Astroblitz | 146299 | [146299-astroblitz.json](./146299-astroblitz.json) |
 | Astrodition | 149583 | [149583-astrodition.json](./149583-astrodition.json) |
