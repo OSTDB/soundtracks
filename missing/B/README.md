@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bible Trivia | 278164 | [278164-bible-trivia.json](./278164-bible-trivia.json) |
 | Biblistry | 58797 | [58797-biblistry.json](./58797-biblistry.json) |
 | Big Ball Sports | 275876 | [275876-big-ball-sports.json](./275876-big-ball-sports.json) |
+| Big Beach Sports 2 | 50639 | [50639-big-beach-sports-2.json](./50639-big-beach-sports-2.json) |
 | Big Bears Bad Advice: A Non-Biased Daily Fortune Teller | 126623 | [126623-big-bears-bad-advice-a-non-biased-daily-fortune-teller.json](./126623-big-bears-bad-advice-a-non-biased-daily-fortune-teller.json) |
 | Big Bible Town | 326992 | [326992-big-bible-town.json](./326992-big-bible-town.json) |
 | Big Booty Adventures | 186312 | [186312-big-booty-adventures.json](./186312-big-booty-adventures.json) |
@@ -597,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Story Little Heroes | 62741 | [62741-big-story-little-heroes.json](./62741-big-story-little-heroes.json) |
 | Big Thanks Super Keirin | 55898 | [55898-big-thanks-super-keirin.json](./55898-big-thanks-super-keirin.json) |
 | Big the Cat in Sonic the Hedgehog | 201296 | [201296-big-the-cat-in-sonic-the-hedgehog.json](./201296-big-the-cat-in-sonic-the-hedgehog.json) |
+| Big Time Rush: Dance Party | 50625 | [50625-big-time-rush-dance-party.json](./50625-big-time-rush-dance-party.json) |
 | Big's Fishing Quest | 329400 | [329400-bigs-fishing-quest.json](./329400-bigs-fishing-quest.json) |
 | Bigface Marsh | 179179 | [179179-bigface-marsh.json](./179179-bigface-marsh.json) |
 | BigFool | 307942 | [307942-bigfool.json](./307942-bigfool.json) |
@@ -916,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobo and the Chest of Nightmares | 332274 | [332274-bobo-and-the-chest-of-nightmares.json](./332274-bobo-and-the-chest-of-nightmares.json) |
 | Bobo the Cat | 221984 | [221984-bobo-the-cat.json](./221984-bobo-the-cat.json) |
 | BoBo World: Hospital | 237645 | [237645-bobo-world-hospital.json](./237645-bobo-world-hospital.json) |
+| Bobobo-bo Bo-bobo: Dassutsu! Hajike Royale | 50588 | [50588-bobobo-bo-bo-bobo-dassutsu-hajike-royale.json](./50588-bobobo-bo-bo-bobo-dassutsu-hajike-royale.json) |
 | Bobr Kurwa | 297241 | [297241-bobr-kurwa.json](./297241-bobr-kurwa.json) |
 | BobSP Series | 272000 | [272000-bobsp-series.json](./272000-bobsp-series.json) |
 | Bocce VR | 119786 | [119786-bocce-vr.json](./119786-bocce-vr.json) |
@@ -1048,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounced | 295027 | [295027-bounced.json](./295027-bounced.json) |
 | Bouncy Goal | 242219 | [242219-bouncy-goal.json](./242219-bouncy-goal.json) |
 | Bound Ball Animals | 314020 | [314020-bound-ball-animals.json](./314020-bound-ball-animals.json) |
+| Bound High | 50596 | [50596-bound-high.json](./50596-bound-high.json) |
 | Boundary Master | 311268 | [311268-boundary-master.json](./311268-boundary-master.json) |
 | Bounters | 199119 | [199119-bounters.json](./199119-bounters.json) |
 | Bounty Battle | 107873 | [107873-bounty-battle.json](./107873-bounty-battle.json) |
@@ -1379,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust Out | 174878 | [174878-bust-out.json](./174878-bust-out.json) |
 | Bustin-Out | 64946 | [64946-bustin-out.json](./64946-bustin-out.json) |
 | Busty Maid: Creampie Heaven | 127964 | [127964-busty-maid-creampie-heaven.json](./127964-busty-maid-creampie-heaven.json) |
+| Busy Scissors | 50594 | [50594-busy-scissors.json](./50594-busy-scissors.json) |
 | Butanooo! Simulator | 303805 | [303805-butanooo-simulator.json](./303805-butanooo-simulator.json) |
 | Butt Naked & Big Guns | 158208 | [158208-butt-naked-and-big-guns.json](./158208-butt-naked-and-big-guns.json) |
 | Butter & Friends Babysitter Sim | 75148 | [75148-butter-and-friends-babysitter-sim.json](./75148-butter-and-friends-babysitter-sim.json) |
