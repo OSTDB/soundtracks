@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen of Dark | 292821 | [292821-queen-of-dark.json](./292821-queen-of-dark.json) |
 | Queen of The Hill | 306061 | [306061-queen-of-the-hill.json](./306061-queen-of-the-hill.json) |
 | Queen of Zarkov | 173288 | [173288-queen-of-zarkov.json](./173288-queen-of-zarkov.json) |
+| Queen's Crown | 80571 | [80571-queens-crown.json](./80571-queens-crown.json) |
 | Quest 64 "French Vanilla" | 248305 | [248305-quest-64-french-vanilla.json](./248305-quest-64-french-vanilla.json) |
 | Quest Adventure | 133444 | [133444-quest-adventure.json](./133444-quest-adventure.json) |
 | Quest for Jesus | 307898 | [307898-quest-for-jesus.json](./307898-quest-for-jesus.json) |
