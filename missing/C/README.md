@@ -777,8 +777,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CodeWordPlay | 228096 | [228096-codewordplay.json](./228096-codewordplay.json) |
 | Coffee Extra: Ukuzala | 320528 | [320528-coffee-extra-ukuzala.json](./320528-coffee-extra-ukuzala.json) |
 | Coffee Mafia | 112322 | [112322-coffee-mafia.json](./112322-coffee-mafia.json) |
+| Coffee Run | 74470 | [74470-coffee-run.json](./74470-coffee-run.json) |
 | Coffee VendoR | 113685 | [113685-coffee-vendor.json](./113685-coffee-vendor.json) |
 | Coffee with Prescilla | 169428 | [169428-coffee-with-prescilla.json](./169428-coffee-with-prescilla.json) |
+| Coffeetime Crosswords | 74409 | [74409-coffeetime-crosswords.json](./74409-coffeetime-crosswords.json) |
 | Coffin Counseling | 179704 | [179704-coffin-counseling.json](./179704-coffin-counseling.json) |
 | Coffinman | 337463 | [337463-coffinman.json](./337463-coffinman.json) |
 | Cognitive Dissonance: A SiIvaGunner Christmas Comeback Crisis Side Story | 326956 | [326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json](./326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json) |
@@ -965,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook Baker Match | 175425 | [175425-cook-baker-match.json](./175425-cook-baker-match.json) |
 | Cook Out! | 250045 | [250045-cook-out.json](./250045-cook-out.json) |
 | Cook-A-Geddon | 265433 | [265433-cook-a-geddon.json](./265433-cook-a-geddon.json) |
+| Cookie Run | 74416 | [74416-cookie-run.json](./74416-cookie-run.json) |
 | Cookies Cookies Cookies | 205243 | [205243-cookies-cookies-cookies.json](./205243-cookies-cookies-cookies.json) |
 | Cookies Inc. | 243980 | [243980-cookies-inc.json](./243980-cookies-inc.json) |
 | Cooking Arena: 9 in 1 Edition | 275892 | [275892-cooking-arena-9-in-1-edition.json](./275892-cooking-arena-9-in-1-edition.json) |
@@ -1149,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Frog Racer | 240508 | [240508-crazy-frog-racer.json](./240508-crazy-frog-racer.json) |
 | Crazy Fun Ball | 172151 | [172151-crazy-fun-ball.json](./172151-crazy-fun-ball.json) |
 | Crazy Insane Monster Invaders | 152387 | [152387-crazy-insane-monster-invaders.json](./152387-crazy-insane-monster-invaders.json) |
+| Crazy Mouse | 74410 | [74410-crazy-mouse.json](./74410-crazy-mouse.json) |
 | Crazy One | 242791 | [242791-crazy-one.json](./242791-crazy-one.json) |
 | Crazy Pizza Boy | 242214 | [242214-crazy-pizza-boy.json](./242214-crazy-pizza-boy.json) |
 | Crazy Shipping | 324080 | [324080-crazy-shipping.json](./324080-crazy-shipping.json) |
