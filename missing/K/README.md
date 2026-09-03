@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K37-D | 130966 | [130966-k37-d.json](./130966-k37-d.json) |
 | Kaapelipeli: The Cable Game | 138260 | [138260-kaapelipeli-the-cable-game.json](./138260-kaapelipeli-the-cable-game.json) |
 | Kabaneri of the Iron Fortress: Ran - Hajimaru Michiato | 89983 | [89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json](./89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json) |
+| Kader Mühürleri | 86127 | [86127-kader-muhurleri.json](./86127-kader-muhurleri.json) |
 | Kaf Village | 340784 | [340784-kaf-village.json](./340784-kaf-village.json) |
 | Kafka's Metamorphosis | 328219 | [328219-kafkas-metamorphosis.json](./328219-kafkas-metamorphosis.json) |
 | Kafkaesque: The Nightmare Trial | 311827 | [311827-kafkaesque-the-nightmare-trial.json](./311827-kafkaesque-the-nightmare-trial.json) |
@@ -69,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaos | 118397 | [118397-kaos.json](./118397-kaos.json) |
 | Kapih | 332262 | [332262-kapih.json](./332262-kapih.json) |
 | Kappa Nittori-chan | 205790 | [205790-kappa-nittori-chan.json](./205790-kappa-nittori-chan.json) |
+| Käpt'n Blaubär: Die Verrückte Schatzsuche | 86070 | [86070-kaptn-blaubar-die-verruckte-schatzsuche.json](./86070-kaptn-blaubar-die-verruckte-schatzsuche.json) |
 | Kara's Darkness Chapter 1 | 102154 | [102154-karas-darkness-chapter-1.json](./102154-karas-darkness-chapter-1.json) |
 | Karaoke Joysound for Nintendo Switch | 146313 | [146313-karaoke-joysound-for-nintendo-switch.json](./146313-karaoke-joysound-for-nintendo-switch.json) |
 | Karaoke Party | 137687 | [137687-karaoke-party.json](./137687-karaoke-party.json) |
