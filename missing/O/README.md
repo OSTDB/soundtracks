@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh, Deer! | 80563 | [80563-oh-deer.json](./80563-oh-deer.json) |
 | Oh, Hel No! | 331664 | [331664-oh-hel-no.json](./331664-oh-hel-no.json) |
 | Oh, to Bee in Love | 178659 | [178659-oh-to-bee-in-love.json](./178659-oh-to-bee-in-love.json) |
+| Oh! Edo Towns | 65526 | [65526-oh-edo-towns.json](./65526-oh-edo-towns.json) |
 | Oh! Sheep | 233733 | [233733-oh-sheep.json](./233733-oh-sheep.json) |
 | Oha Suta Dance Dance Revolution GB | 246126 | [246126-oha-suta-dance-dance-revolution-gb.json](./246126-oha-suta-dance-dance-revolution-gb.json) |
 | OHV | 216978 | [216978-ohv.json](./216978-ohv.json) |
