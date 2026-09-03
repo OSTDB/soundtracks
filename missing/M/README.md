@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Ocean: Multiplayer Roguelike | 141245 | [141245-magic-ocean-multiplayer-roguelike.json](./141245-magic-ocean-multiplayer-roguelike.json) |
 | Magic Paper | 250648 | [250648-magic-paper.json](./250648-magic-paper.json) |
 | Magic Pen Color Book | 187488 | [187488-magic-pen-color-book.json](./187488-magic-pen-color-book.json) |
+| Magic Pixel Picross | 54449 | [54449-magic-pixel-picross.json](./54449-magic-pixel-picross.json) |
 | Magic Rune Stone | 333367 | [333367-magic-rune-stone.json](./333367-magic-rune-stone.json) |
 | Magic Snake II | 71517 | [71517-magic-snake-ii.json](./71517-magic-snake-ii.json) |
 | Magic Star | 306659 | [306659-magic-star.json](./306659-magic-star.json) |
@@ -1191,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsterlands | 203531 | [203531-monsterlands.json](./203531-monsterlands.json) |
 | MonsterRoll | 97917 | [97917-monsterroll.json](./97917-monsterroll.json) |
 | Monsters Idle RPG | 238721 | [238721-monsters-idle-rpg.json](./238721-monsters-idle-rpg.json) |
+| MonsterS in haha Island | 54464 | [54464-monsters-in-haha-island.json](./54464-monsters-in-haha-island.json) |
 | Monsters Love Candy | 63852 | [63852-monsters-love-candy.json](./63852-monsters-love-candy.json) |
 | Monsters: Survival | 114997 | [114997-monsters-survival.json](./114997-monsters-survival.json) |
 | Monsters: The Hunter of Darkness | 214198 | [214198-monsters-the-hunter-of-darkness.json](./214198-monsters-the-hunter-of-darkness.json) |
@@ -1300,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motherbird: The Dark One | 239922 | [239922-motherbird-the-dark-one.json](./239922-motherbird-the-dark-one.json) |
 | Motherload: Goldium Edition | 186345 | [186345-motherload-goldium-edition.json](./186345-motherload-goldium-edition.json) |
 | Mothership | 293414 | [293414-mothership.json](./293414-mothership.json) |
+| Mothlight | 54445 | [54445-mothlight.json](./54445-mothlight.json) |
 | Motion Soccer Pro | 320521 | [320521-motion-soccer-pro.json](./320521-motion-soccer-pro.json) |
 | Motioning Monument | 314679 | [314679-motioning-monument.json](./314679-motioning-monument.json) |
 | Moto Mouse Stunt Mania | 193475 | [193475-moto-mouse-stunt-mania.json](./193475-moto-mouse-stunt-mania.json) |
