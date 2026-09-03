@@ -2300,6 +2300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suggoi! Arcana Heart 2 | 243414 | [243414-suggoi-arcana-heart-2.json](./243414-suggoi-arcana-heart-2.json) |
 | Suggoi! Arcana Heart 2 | 243419 | [243419-suggoi-arcana-heart-2.json](./243419-suggoi-arcana-heart-2.json) |
 | Sugoi Girls: Sassy Heroine | 315843 | [315843-sugoi-girls-sassy-heroine.json](./315843-sugoi-girls-sassy-heroine.json) |
+| Sugoro Quest++ Dicenics | 37807 | [37807-sugoro-quest-dicenics.json](./37807-sugoro-quest-dicenics.json) |
 | Suho Defense | 339650 | [339650-suho-defense.json](./339650-suho-defense.json) |
 | SuiCats | 272583 | [272583-suicats.json](./272583-suicats.json) |
 | Suidou Kozou | 91949 | [91949-suidou-kozou.json](./91949-suidou-kozou.json) |
@@ -2486,11 +2487,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kids Racing: Snow Edition | 249491 | [249491-super-kids-racing-snow-edition.json](./249491-super-kids-racing-snow-edition.json) |
 | Super Killer Hornets: Resurrection | 54413 | [54413-super-killer-hornets-resurrection.json](./54413-super-killer-hornets-resurrection.json) |
 | Super Kobushi de Naguru Chan | 218123 | [218123-super-kobushi-de-naguru-chan.json](./218123-super-kobushi-de-naguru-chan.json) |
+| Super Kyuukyoku Harikiri Stadium 2 | 37815 | [37815-super-kyuukyoku-harikiri-stadium-2.json](./37815-super-kyuukyoku-harikiri-stadium-2.json) |
 | Super Lode Runner II | 48676 | [48676-super-lode-runner-ii.json](./48676-super-lode-runner-ii.json) |
 | Super Lone Survivor | 140603 | [140603-super-lone-survivor.json](./140603-super-lone-survivor.json) |
 | Super Luigi Wii: The Emissary | 259276 | [259276-super-luigi-wii-the-emissary.json](./259276-super-luigi-wii-the-emissary.json) |
 | Super Mabus Mania | 223160 | [223160-super-mabus-mania.json](./223160-super-mabus-mania.json) |
 | Super Magic Chess | 331134 | [331134-super-magic-chess.json](./331134-super-magic-chess.json) |
+| Super Mahjong | 37814 | [37814-super-mahjong.json](./37814-super-mahjong.json) |
+| Super Mahjong 2: Honkaku 4-nin Uchi | 37813 | [37813-super-mahjong-2-honkaku-4-nin-uchi.json](./37813-super-mahjong-2-honkaku-4-nin-uchi.json) |
+| Super Mahjong 3 | 37812 | [37812-super-mahjong-3.json](./37812-super-mahjong-3.json) |
+| Super Mahjong Taikai | 37811 | [37811-super-mahjong-taikai.json](./37811-super-mahjong-taikai.json) |
 | Super Mansion | 72695 | [72695-super-mansion.json](./72695-super-mansion.json) |
 | Super Marine | 234929 | [234929-super-marine.json](./234929-super-marine.json) |
 | Super Mario & Sonic | 262087 | [262087-super-mario-and-sonic.json](./262087-super-mario-and-sonic.json) |
@@ -2590,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super MineSweeper | 309683 | [309683-super-minesweeper.json](./309683-super-minesweeper.json) |
 | Super Mombo Quest | 139438 | [139438-super-mombo-quest.json](./139438-super-mombo-quest.json) |
 | Super Momotaro Dentetsu DX | 38344 | [38344-super-momotaro-dentetsu-dx.json](./38344-super-momotaro-dentetsu-dx.json) |
+| Super Momotaro Dentetsu II | 37810 | [37810-super-momotaro-dentetsu-ii.json](./37810-super-momotaro-dentetsu-ii.json) |
 | Super Momotaro Dentetsu III | 38343 | [38343-super-momotaro-dentetsu-iii.json](./38343-super-momotaro-dentetsu-iii.json) |
 | Super Monkey Ball: Banana Rumble - Amy | 309079 | [309079-super-monkey-ball-banana-rumble-amy.json](./309079-super-monkey-ball-banana-rumble-amy.json) |
 | Super Monkey Ball: Banana Rumble - Crewmate | 330551 | [330551-super-monkey-ball-banana-rumble-crewmate.json](./330551-super-monkey-ball-banana-rumble-crewmate.json) |
@@ -2600,10 +2607,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monsters | 295015 | [295015-super-monsters.json](./295015-super-monsters.json) |
 | Super Mumtaz Bros. | 183613 | [183613-super-mumtaz-bros.json](./183613-super-mumtaz-bros.json) |
 | Super Nantucket World | 312875 | [312875-super-nantucket-world.json](./312875-super-nantucket-world.json) |
+| Super Naxat Open | 37809 | [37809-super-naxat-open.json](./37809-super-naxat-open.json) |
+| Super Nazo Puyo Tsuu: Rulue no Tetsuwan Hanjyouki | 37805 | [37805-super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjyouki.json](./37805-super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjyouki.json) |
+| Super Nazo Puyo: Rulue no Roux | 37806 | [37806-super-nazo-puyo-rulue-no-roux.json](./37806-super-nazo-puyo-rulue-no-roux.json) |
 | Super Neo Tanks | 166751 | [166751-super-neo-tanks.json](./166751-super-neo-tanks.json) |
 | Super Neptunia RPG: Party Member - Artisan | 238174 | [238174-super-neptunia-rpg-party-member-artisan.json](./238174-super-neptunia-rpg-party-member-artisan.json) |
 | Super Neptunia RPG: Party Member - Compa | 238175 | [238175-super-neptunia-rpg-party-member-compa.json](./238175-super-neptunia-rpg-party-member-compa.json) |
 | Super Neptunia RPG: Party Member - If | 238176 | [238176-super-neptunia-rpg-party-member-if.json](./238176-super-neptunia-rpg-party-member-if.json) |
+| Super Nichibutsu Mahjong | 37804 | [37804-super-nichibutsu-mahjong.json](./37804-super-nichibutsu-mahjong.json) |
+| Super Nichibutsu Mahjong 2: Zenkoku Seiha-hen | 37803 | [37803-super-nichibutsu-mahjong-2-zenkoku-seiha-hen.json](./37803-super-nichibutsu-mahjong-2-zenkoku-seiha-hen.json) |
+| Super Nichibutsu Mahjong 3: Yoshimoto Gekijou-hen | 37802 | [37802-super-nichibutsu-mahjong-3-yoshimoto-gekijou-hen.json](./37802-super-nichibutsu-mahjong-3-yoshimoto-gekijou-hen.json) |
 | Super Nova Stadium | 165687 | [165687-super-nova-stadium.json](./165687-super-nova-stadium.json) |
 | Super Nudge 2000 | 72698 | [72698-super-nudge-2000.json](./72698-super-nudge-2000.json) |
 | Super Pachinko | 46663 | [46663-super-pachinko.json](./46663-super-pachinko.json) |
@@ -2826,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Princess Cistina - The Chosen Saint | 146312 | [146312-sword-princess-cistina-the-chosen-saint.json](./146312-sword-princess-cistina-the-chosen-saint.json) |
 | Sword Sanctuary | 333394 | [333394-sword-sanctuary.json](./333394-sword-sanctuary.json) |
 | Sword World PC | 240492 | [240492-sword-world-pc.json](./240492-sword-world-pc.json) |
+| Sword World SFC 2: Inishie no Kyojin Densetsu | 37801 | [37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json](./37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json) |
 | Swordbreaker: Back to the Castle | 113751 | [113751-swordbreaker-back-to-the-castle.json](./113751-swordbreaker-back-to-the-castle.json) |
 | Swordfight | 40794 | [40794-swordfight.json](./40794-swordfight.json) |
 | SwordQuest: AirWorld | 67334 | [67334-swordquest-airworld.json](./67334-swordquest-airworld.json) |
