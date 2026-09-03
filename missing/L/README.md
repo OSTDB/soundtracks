@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LaserShotz | 159890 | [159890-lasershotz.json](./159890-lasershotz.json) |
 | Lassie | 43331 | [43331-lassie.json](./43331-lassie.json) |
 | Lasso Catch | 277575 | [277575-lasso-catch.json](./277575-lasso-catch.json) |
+| Last Bible III | 38354 | [38354-last-bible-iii.json](./38354-last-bible-iii.json) |
 | Last Bloody Snack | 256553 | [256553-last-bloody-snack.json](./256553-last-bloody-snack.json) |
 | Last Bus Home | 208617 | [208617-last-bus-home.json](./208617-last-bus-home.json) |
 | Last Contingency | 152902 | [152902-last-contingency.json](./152902-last-contingency.json) |
@@ -487,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Lookouts | 300385 | [300385-little-lookouts.json](./300385-little-lookouts.json) |
 | Little Mage | 116355 | [116355-little-mage.json](./116355-little-mage.json) |
 | Little Magic | 267646 | [267646-little-magic.json](./267646-little-magic.json) |
+| Little Magic | 38383 | [38383-little-magic.json](./38383-little-magic.json) |
 | Little Memories | 109741 | [109741-little-memories.json](./109741-little-memories.json) |
 | Little Monster Games | 87243 | [87243-little-monster-games.json](./87243-little-monster-games.json) |
 | Little Mouse's Encyclopedia + Brawl Chess | 199638 | [199638-little-mouses-encyclopedia-brawl-chess.json](./199638-little-mouses-encyclopedia-brawl-chess.json) |
