@@ -31,7 +31,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanowar | 181902 | [181902-nanowar.json](./181902-nanowar.json) |
 | Nanpure VOW | 191866 | [191866-nanpure-vow.json](./191866-nanpure-vow.json) |
 | Nanuk: The dusk of the brutes | 252401 | [252401-nanuk-the-dusk-of-the-brutes.json](./252401-nanuk-the-dusk-of-the-brutes.json) |
+| Napoleon: Total War - Coalition Battle Pack | 82108 | [82108-napoleon-total-war-coalition-battle-pack.json](./82108-napoleon-total-war-coalition-battle-pack.json) |
 | Napoleon: Total War - Gold Edition | 88274 | [88274-napoleon-total-war-gold-edition.json](./88274-napoleon-total-war-gold-edition.json) |
+| Napoleon: Total War - Heroes of the Napoleonic Wars | 82111 | [82111-napoleon-total-war-heroes-of-the-napoleonic-wars.json](./82111-napoleon-total-war-heroes-of-the-napoleonic-wars.json) |
+| Napoleon: Total War - Imperial Eagle Pack | 82110 | [82110-napoleon-total-war-imperial-eagle-pack.json](./82110-napoleon-total-war-imperial-eagle-pack.json) |
+| Napoleon: Total War - The Peninsular Campaign | 82109 | [82109-napoleon-total-war-the-peninsular-campaign.json](./82109-napoleon-total-war-the-peninsular-campaign.json) |
 | Narc | 307956 | [307956-narc.json](./307956-narc.json) |
 | Narc | 307957 | [307957-narc.json](./307957-narc.json) |
 | Narcissu: A Little Iris | 127324 | [127324-narcissu-a-little-iris.json](./127324-narcissu-a-little-iris.json) |
@@ -62,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nations At War Digital: White Star Rising Battlepack 2 | 166201 | [166201-nations-at-war-digital-white-star-rising-battlepack-2.json](./166201-nations-at-war-digital-white-star-rising-battlepack-2.json) |
 | Natsu Ecchi 2: Futago to Inaka no Natsuyasumi | 109001 | [109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json](./109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json) |
 | Natsu no Sagashimono: What We Found That Summer | 331121 | [331121-natsu-no-sagashimono-what-we-found-that-summer.json](./331121-natsu-no-sagashimono-what-we-found-that-summer.json) |
+| Natural Born Soldier | 82123 | [82123-natural-born-soldier.json](./82123-natural-born-soldier.json) |
 | Natural Craft | 277570 | [277570-natural-craft.json](./277570-natural-craft.json) |
 | Naturalist Stories | 156146 | [156146-naturalist-stories.json](./156146-naturalist-stories.json) |
 | Naturals | 258734 | [258734-naturals.json](./258734-naturals.json) |
@@ -207,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeverSynth | 225878 | [225878-neversynth.json](./225878-neversynth.json) |
 | Nevsky Titbit | 250597 | [250597-nevsky-titbit.json](./250597-nevsky-titbit.json) |
 | NEW Again Beauty | 106596 | [106596-new-again-beauty.json](./106596-new-again-beauty.json) |
+| New Atelier Rorona: The Alchemist of Arland | 82105 | [82105-new-atelier-rorona-the-alchemist-of-arland.json](./82105-new-atelier-rorona-the-alchemist-of-arland.json) |
 | New Club Penguin | 246088 | [246088-new-club-penguin.json](./246088-new-club-penguin.json) |
 | New Dungeons | 268777 | [268777-new-dungeons.json](./268777-new-dungeons.json) |
 | New English Training: Learning with Tempo - Advanced Edition | 260942 | [260942-new-english-training-learning-with-tempo-advanced-edition.json](./260942-new-english-training-learning-with-tempo-advanced-edition.json) |
