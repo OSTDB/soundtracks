@@ -1247,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scoop | 73816 | [73816-the-scoop.json](./73816-the-scoop.json) |
 | The Scottish Open: Carnoustie Virtual Golf | 68706 | [68706-the-scottish-open-carnoustie-virtual-golf.json](./68706-the-scottish-open-carnoustie-virtual-golf.json) |
 | The Scourge | 267072 | [267072-the-scourge.json](./267072-the-scourge.json) |
+| The Scourge Project: Episodes 1 and 2 | 51294 | [51294-the-scourge-project-episodes-1-and-2.json](./51294-the-scourge-project-episodes-1-and-2.json) |
 | The Scramble Vice | 266468 | [266468-the-scramble-vice.json](./266468-the-scramble-vice.json) |
 | The Scrapper | 306645 | [306645-the-scrapper.json](./306645-the-scrapper.json) |
 | The Scrungeon Depths | 74471 | [74471-the-scrungeon-depths.json](./74471-the-scrungeon-depths.json) |
@@ -1812,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Winter Assault MP098 | 173759 | [173759-tiger-tank-59-i-winter-assault-mp098.json](./173759-tiger-tank-59-i-winter-assault-mp098.json) |
 | Tiger Tank 59 I: Winter Assault MP100 | 173763 | [173763-tiger-tank-59-i-winter-assault-mp100.json](./173763-tiger-tank-59-i-winter-assault-mp100.json) |
 | Tiger Transforming Robot 2018 | 102783 | [102783-tiger-transforming-robot-2018.json](./102783-tiger-transforming-robot-2018.json) |
+| Tiger Woods PGA Tour 2008 | 51234 | [51234-tiger-woods-pga-tour-2008.json](./51234-tiger-woods-pga-tour-2008.json) |
 | Tightrope Walking | 178076 | [178076-tightrope-walking.json](./178076-tightrope-walking.json) |
 | Tik Tak Caro | 239328 | [239328-tik-tak-caro.json](./239328-tik-tak-caro.json) |
 | Tikal & Chaos | 331716 | [331716-tikal-and-chaos.json](./331716-tikal-and-chaos.json) |
@@ -2115,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Monster TD: Dr.Cirno | 210248 | [210248-touhou-monster-td-dr-cirno.json](./210248-touhou-monster-td-dr-cirno.json) |
 | Touhou Mother | 184129 | [184129-touhou-mother.json](./184129-touhou-mother.json) |
 | Touhou Mukyuushi: Glory of Deep Skies | 246677 | [246677-touhou-mukyuushi-glory-of-deep-skies.json](./246677-touhou-mukyuushi-glory-of-deep-skies.json) |
+| Touhou Mutsuigeki: Concealed the Conclusion | 51266 | [51266-touhou-mutsuigeki-concealed-the-conclusion.json](./51266-touhou-mutsuigeki-concealed-the-conclusion.json) |
 | Touhou Rekkaden: Rift in a Friendship Game | 204669 | [204669-touhou-rekkaden-rift-in-a-friendship-game.json](./204669-touhou-rekkaden-rift-in-a-friendship-game.json) |
 | Touhou Rock Maiden 2: Houraisan Kaguya no Nazo | 202934 | [202934-touhou-rock-maiden-2-houraisan-kaguya-no-nazo.json](./202934-touhou-rock-maiden-2-houraisan-kaguya-no-nazo.json) |
 | Touhou Rock Maiden FC | 202936 | [202936-touhou-rock-maiden-fc.json](./202936-touhou-rock-maiden-fc.json) |
