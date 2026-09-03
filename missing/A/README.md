@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Card Football | 109662 | [109662-action-card-football.json](./109662-action-card-football.json) |
 | Action Games Bundle (5 in 1) | 231074 | [231074-action-games-bundle-5-in-1.json](./231074-action-games-bundle-5-in-1.json) |
 | Action Hero | 66714 | [66714-action-hero.json](./66714-action-hero.json) |
+| Action Replay Max | 43302 | [43302-action-replay-max.json](./43302-action-replay-max.json) |
 | ActionHacker | 290686 | [290686-actionhacker.json](./290686-actionhacker.json) |
 | Active Life Outdoor Challenge | 167810 | [167810-active-life-outdoor-challenge.json](./167810-active-life-outdoor-challenge.json) |
 | Activision Anthology: Remix Edition | 45979 | [45979-activision-anthology-remix-edition.json](./45979-activision-anthology-remix-edition.json) |
@@ -859,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Puzzle Cats | 225892 | [225892-animal-puzzle-cats.json](./225892-animal-puzzle-cats.json) |
 | Animal Rivals: Nintendo Switch Edition | 105904 | [105904-animal-rivals-nintendo-switch-edition.json](./105904-animal-rivals-nintendo-switch-edition.json) |
 | Animal Shelter Simulator: Puppies & Kittens | 209661 | [209661-animal-shelter-simulator-puppies-and-kittens.json](./209661-animal-shelter-simulator-puppies-and-kittens.json) |
+| Animal Soccer World | 43355 | [43355-animal-soccer-world.json](./43355-animal-soccer-world.json) |
 | Animal Unite | 212472 | [212472-animal-unite.json](./212472-animal-unite.json) |
 | Animal Up! | 121703 | [121703-animal-up.json](./121703-animal-up.json) |
 | Animal Village Rescue | 232170 | [232170-animal-village-rescue.json](./232170-animal-village-rescue.json) |
