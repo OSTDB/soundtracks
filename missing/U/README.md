@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upward | 234353 | [234353-upward.json](./234353-upward.json) |
 | Ura Jinsei Enjoi! Tamagotchi Plus | 229953 | [229953-ura-jinsei-enjoi-tamagotchi-plus.json](./229953-ura-jinsei-enjoi-tamagotchi-plus.json) |
 | Urban Champion-e | 170014 | [170014-urban-champion-e.json](./170014-urban-champion-e.json) |
+| Urban Dead | 69281 | [69281-urban-dead.json](./69281-urban-dead.json) |
 | Urban Drug Empire | 223138 | [223138-urban-drug-empire.json](./223138-urban-drug-empire.json) |
 | Urban Extreme | 198535 | [198535-urban-extreme.json](./198535-urban-extreme.json) |
 | Urban Flow Vehicle Vault | 309083 | [309083-urban-flow-vehicle-vault.json](./309083-urban-flow-vehicle-vault.json) |
@@ -274,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UsoNatsu: The Summer Romance Bloomed From a Lie | 234340 | [234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json](./234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json) |
 | Utsuho's Great Hunger Battle | 262101 | [262101-utsuhos-great-hunger-battle.json](./262101-utsuhos-great-hunger-battle.json) |
 | Utsurobi no Serentia | 301608 | [301608-utsurobi-no-serentia.json](./301608-utsurobi-no-serentia.json) |
+| Utsusemi no Meguri | 69323 | [69323-utsusemi-no-meguri.json](./69323-utsusemi-no-meguri.json) |
 | UvsU | 258704 | [258704-uvsu.json](./258704-uvsu.json) |
 | UWAR | 338579 | [338579-uwar.json](./338579-uwar.json) |
 | UzeMaze | 270418 | [270418-uzemaze.json](./270418-uzemaze.json) |
