@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolutely Goode Championship | 161358 | [161358-absolutely-goode-championship.json](./161358-absolutely-goode-championship.json) |
 | Absolutely Perfect Specimen | 257098 | [257098-absolutely-perfect-specimen.json](./257098-absolutely-perfect-specimen.json) |
 | Absolutely Unstoppable MineRun | 84861 | [84861-absolutely-unstoppable-minerun.json](./84861-absolutely-unstoppable-minerun.json) |
+| Abstacked | 79911 | [79911-abstacked.json](./79911-abstacked.json) |
 | Abstractanks | 150694 | [150694-abstractanks.json](./150694-abstractanks.json) |
 | Abstraction | 154572 | [154572-abstraction.json](./154572-abstraction.json) |
 | Absurbia: A Trashy Satire of Suburban Outcries | 159858 | [159858-absurbia-a-trashy-satire-of-suburban-outcries.json](./159858-absurbia-a-trashy-satire-of-suburban-outcries.json) |
