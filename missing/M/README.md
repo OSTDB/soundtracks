@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MAAA | 112978 | [112978-maaa.json](./112978-maaa.json) |
 | Mabeop Cheonjamun DS | 124789 | [124789-mabeop-cheonjamun-ds.json](./124789-mabeop-cheonjamun-ds.json) |
 | Mabeop Cheonjamun DS 2: The Final Hanja Magic | 124788 | [124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json](./124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json) |
+| Macadam: Futari Yogari | 66125 | [66125-macadam-futari-yogari.json](./66125-macadam-futari-yogari.json) |
 | Machi Knights: Blood Bagos | 115662 | [115662-machi-knights-blood-bagos.json](./115662-machi-knights-blood-bagos.json) |
 | Machick 2 | 332269 | [332269-machick-2.json](./332269-machick-2.json) |
 | Machigai-sagashi Daisousasen | 271506 | [271506-machigai-sagashi-daisousasen.json](./271506-machigai-sagashi-daisousasen.json) |
@@ -464,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech vs. Bugs | 263784 | [263784-mech-vs-bugs.json](./263784-mech-vs-bugs.json) |
 | Mech Wars | 317028 | [317028-mech-wars.json](./317028-mech-wars.json) |
 | Mechanical Tralp | 278665 | [278665-mechanical-tralp.json](./278665-mechanical-tralp.json) |
+| Mechanical Violator Hakaider: Last Judgement | 66147 | [66147-mechanical-violator-hakaider-last-judgement.json](./66147-mechanical-violator-hakaider-last-judgement.json) |
 | Mechanics | 254141 | [254141-mechanics.json](./254141-mechanics.json) |
 | MechanixMind: IQ Puzzle Adventure | 275889 | [275889-mechanixmind-iq-puzzle-adventure.json](./275889-mechanixmind-iq-puzzle-adventure.json) |
 | Mechanode | 238757 | [238757-mechanode.json](./238757-mechanode.json) |
@@ -1268,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouja | 197958 | [197958-mouja.json](./197958-mouja.json) |
 | Mount Everest Story | 174331 | [174331-mount-everest-story.json](./174331-mount-everest-story.json) |
 | Mountain Legends 3 | 291254 | [291254-mountain-legends-3.json](./291254-mountain-legends-3.json) |
+| Mountain Maniac | 66104 | [66104-mountain-maniac.json](./66104-mountain-maniac.json) |
 | Mountain Taxi Driver | 119745 | [119745-mountain-taxi-driver.json](./119745-mountain-taxi-driver.json) |
 | Mouse Dream | 166772 | [166772-mouse-dream.json](./166772-mouse-dream.json) |
 | Mouse Hero | 157716 | [157716-mouse-hero.json](./157716-mouse-hero.json) |
@@ -1336,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mugogy Jump | 298300 | [298300-mugogy-jump.json](./298300-mugogy-jump.json) |
 | Mühle-Online | 84275 | [84275-muhle-online.json](./84275-muhle-online.json) |
 | Mujina: Maze Game VR | 261504 | [261504-mujina-maze-game-vr.json](./261504-mujina-maze-game-vr.json) |
+| Mukaeute Uchuu Gundan Galack | 66130 | [66130-mukaeute-uchuu-gundan-galack.json](./66130-mukaeute-uchuu-gundan-galack.json) |
 | Mullet Madjack: Deluxe Edition | 318218 | [318218-mullet-madjack-deluxe-edition.json](./318218-mullet-madjack-deluxe-edition.json) |
 | Multi Maze 3D | 221380 | [221380-multi-maze-3d.json](./221380-multi-maze-3d.json) |
 | Multi Sports II | 301579 | [301579-multi-sports-ii.json](./301579-multi-sports-ii.json) |
@@ -1364,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muscle Ranking Vol. 3: Saikyou no Challenger Tanjou! | 209614 | [209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json](./209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json) |
 | Museum of Immersive Art | 341345 | [341345-museum-of-immersive-art.json](./341345-museum-of-immersive-art.json) |
 | Museum of Symmetry | 104076 | [104076-museum-of-symmetry.json](./104076-museum-of-symmetry.json) |
+| Mushihimesama Bug Panic | 66101 | [66101-mushihimesama-bug-panic.json](./66101-mushihimesama-bug-panic.json) |
 | Mushroom Card RPG | 219818 | [219818-mushroom-card-rpg.json](./219818-mushroom-card-rpg.json) |
 | Mushroom Hunt | 145673 | [145673-mushroom-hunt.json](./145673-mushroom-hunt.json) |
 | Mushroom Kingdom Fusion | 134078 | [134078-mushroom-kingdom-fusion.json](./134078-mushroom-kingdom-fusion.json) |
