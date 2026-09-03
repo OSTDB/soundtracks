@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombieeee! | 151718 | [151718-zombieeee.json](./151718-zombieeee.json) |
 | Zombies and Keys | 197393 | [197393-zombies-and-keys.json](./197393-zombies-and-keys.json) |
 | Zombies Crusher | 319960 | [319960-zombies-crusher.json](./319960-zombies-crusher.json) |
+| Zombies vs. Sheep | 67294 | [67294-zombies-vs-sheep.json](./67294-zombies-vs-sheep.json) |
 | Zombies! | 335649 | [335649-zombies.json](./335649-zombies.json) |
 | Zombies.io | 130359 | [130359-zombies-io.json](./130359-zombies-io.json) |
 | ZombieSquad | 216475 | [216475-zombiesquad.json](./216475-zombiesquad.json) |
