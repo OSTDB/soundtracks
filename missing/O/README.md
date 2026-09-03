@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Object "Cleaning" | 83568 | [83568-object-cleaning.json](./83568-object-cleaning.json) |
 | Oblitus Mortis | 336918 | [336918-oblitus-mortis.json](./336918-oblitus-mortis.json) |
 | Oblivion Congee | 183579 | [183579-oblivion-congee.json](./183579-oblivion-congee.json) |
+| Obocchama Kun | 42040 | [42040-obocchama-kun.json](./42040-obocchama-kun.json) |
 | Obscure Doubt | 117068 | [117068-obscure-doubt.json](./117068-obscure-doubt.json) |
 | Observer: System Redux - Deluxe Edition | 154532 | [154532-observer-system-redux-deluxe-edition.json](./154532-observer-system-redux-deluxe-edition.json) |
 | Obsidienne | 185120 | [185120-obsidienne.json](./185120-obsidienne.json) |
