@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T20:18:28.137Z",
-  "total_missing": 24755,
+  "generated_at": "2026-09-03T20:33:20.932Z",
+  "total_missing": 24805,
   "games": [
     {
       "igdb_id": 306086,
@@ -2968,6 +2968,11 @@
       "file": "missing/A/177040-action-ball-deluxe.json"
     },
     {
+      "igdb_id": 43937,
+      "game_name": "Action Bass",
+      "file": "missing/A/43937-action-bass.json"
+    },
+    {
       "igdb_id": 45338,
       "game_name": "Action Biker Starring Clumsy Colin",
       "file": "missing/A/45338-action-biker-starring-clumsy-colin.json"
@@ -3091,6 +3096,11 @@
       "igdb_id": 328214,
       "game_name": "Adhvan Chakra",
       "file": "missing/A/328214-adhvan-chakra.json"
+    },
+    {
+      "igdb_id": 43935,
+      "game_name": "Adidas Power Soccer 98",
+      "file": "missing/A/43935-adidas-power-soccer-98.json"
     },
     {
       "igdb_id": 76620,
@@ -3778,6 +3788,11 @@
       "file": "missing/A/86107-agi-gongnyong-dooly.json"
     },
     {
+      "igdb_id": 43936,
+      "game_name": "Agile Warrior F-111X",
+      "file": "missing/A/43936-agile-warrior-f-111x.json"
+    },
+    {
       "igdb_id": 224212,
       "game_name": "Agnostiko",
       "file": "missing/A/224212-agnostiko.json"
@@ -3966,6 +3981,11 @@
       "igdb_id": 312323,
       "game_name": "Air Glide",
       "file": "missing/A/312323-air-glide.json"
+    },
+    {
+      "igdb_id": 43934,
+      "game_name": "Air Hockey",
+      "file": "missing/A/43934-air-hockey.json"
     },
     {
       "igdb_id": 239889,
@@ -4376,6 +4396,11 @@
       "igdb_id": 272010,
       "game_name": "AlexCity 1: Bank Heist",
       "file": "missing/A/272010-alexcity-1-bank-heist.json"
+    },
+    {
+      "igdb_id": 43933,
+      "game_name": "Alexi Lalas International Soccer",
+      "file": "missing/A/43933-alexi-lalas-international-soccer.json"
     },
     {
       "igdb_id": 235463,
@@ -4803,6 +4828,16 @@
       "file": "missing/A/79309-all-star-darts.json"
     },
     {
+      "igdb_id": 43931,
+      "game_name": "All Star Racing",
+      "file": "missing/A/43931-all-star-racing.json"
+    },
+    {
+      "igdb_id": 43930,
+      "game_name": "All Star Racing 2",
+      "file": "missing/A/43930-all-star-racing-2.json"
+    },
+    {
       "igdb_id": 81432,
       "game_name": "All Star Soccer",
       "file": "missing/A/81432-all-star-soccer.json"
@@ -4836,6 +4871,11 @@
       "igdb_id": 89225,
       "game_name": "All-in-One Mahjong 2",
       "file": "missing/A/89225-all-in-one-mahjong-2.json"
+    },
+    {
+      "igdb_id": 43929,
+      "game_name": "All-Star Slammin' D-Ball",
+      "file": "missing/A/43929-all-star-slammin-d-ball.json"
     },
     {
       "igdb_id": 77392,
@@ -5236,6 +5276,11 @@
       "igdb_id": 111018,
       "game_name": "American Patriots: The Swamp Fox",
       "file": "missing/A/111018-american-patriots-the-swamp-fox.json"
+    },
+    {
+      "igdb_id": 43928,
+      "game_name": "American Pool",
+      "file": "missing/A/43928-american-pool.json"
     },
     {
       "igdb_id": 223687,
@@ -5981,6 +6026,11 @@
       "igdb_id": 132867,
       "game_name": "Animetic Story Game 1: Cardcaptor Sakura",
       "file": "missing/A/132867-animetic-story-game-1-cardcaptor-sakura.json"
+    },
+    {
+      "igdb_id": 43927,
+      "game_name": "Animorphs: Shattered Reality",
+      "file": "missing/A/43927-animorphs-shattered-reality.json"
     },
     {
       "igdb_id": 185129,
@@ -6833,6 +6883,16 @@
       "file": "missing/A/50626-arcade-shooting-gallery.json"
     },
     {
+      "igdb_id": 43925,
+      "game_name": "Arcade's Greatest Hits: The Atari Collection 2",
+      "file": "missing/A/43925-arcades-greatest-hits-the-atari-collection-2.json"
+    },
+    {
+      "igdb_id": 43924,
+      "game_name": "Arcade's Greatest Hits: The Midway Collection 2",
+      "file": "missing/A/43924-arcades-greatest-hits-the-midway-collection-2.json"
+    },
+    {
       "igdb_id": 255971,
       "game_name": "Arcadium: Space Odyssey",
       "file": "missing/A/255971-arcadium-space-odyssey.json"
@@ -7481,6 +7541,16 @@
       "igdb_id": 204087,
       "game_name": "Army Driver",
       "file": "missing/A/204087-army-driver.json"
+    },
+    {
+      "igdb_id": 43947,
+      "game_name": "Army Men World War: Team Assault",
+      "file": "missing/A/43947-army-men-world-war-team-assault.json"
+    },
+    {
+      "igdb_id": 43948,
+      "game_name": "Army Men: World War - Final Front",
+      "file": "missing/A/43948-army-men-world-war-final-front.json"
     },
     {
       "igdb_id": 172178,
@@ -12258,6 +12328,11 @@
       "file": "missing/B/275876-big-ball-sports.json"
     },
     {
+      "igdb_id": 43972,
+      "game_name": "Big Bang Pro Wrestling",
+      "file": "missing/B/43972-big-bang-pro-wrestling.json"
+    },
+    {
       "igdb_id": 50639,
       "game_name": "Big Beach Sports 2",
       "file": "missing/B/50639-big-beach-sports-2.json"
@@ -12396,6 +12471,11 @@
       "igdb_id": 51236,
       "game_name": "Bikini Karate Babes",
       "file": "missing/B/51236-bikini-karate-babes.json"
+    },
+    {
+      "igdb_id": 43971,
+      "game_name": "Bikkuriman 2000: Viva! Pocket Festival!",
+      "file": "missing/B/43971-bikkuriman-2000-viva-pocket-festival.json"
     },
     {
       "igdb_id": 297220,
@@ -15943,6 +16023,11 @@
       "file": "missing/B/237629-bullet-maniac.json"
     },
     {
+      "igdb_id": 43952,
+      "game_name": "Bullet Soul: Tama Tamashii",
+      "file": "missing/B/43952-bullet-soul-tama-tamashii.json"
+    },
+    {
       "igdb_id": 291227,
       "game_name": "Bullet Speed",
       "file": "missing/B/291227-bullet-speed.json"
@@ -16301,6 +16386,11 @@
       "igdb_id": 174878,
       "game_name": "Bust Out",
       "file": "missing/B/174878-bust-out.json"
+    },
+    {
+      "igdb_id": 43977,
+      "game_name": "Bust-A-Move Pocket",
+      "file": "missing/B/43977-bust-a-move-pocket.json"
     },
     {
       "igdb_id": 64946,
@@ -21683,6 +21773,11 @@
       "file": "missing/C/174909-cool-cats.json"
     },
     {
+      "igdb_id": 43967,
+      "game_name": "Cool Cool Jam",
+      "file": "missing/C/43967-cool-cool-jam.json"
+    },
+    {
       "igdb_id": 311270,
       "game_name": "Cool Cucumber Cricket Manager",
       "file": "missing/C/311270-cool-cucumber-cricket-manager.json"
@@ -26268,6 +26363,11 @@
       "file": "missing/D/171622-delta-time.json"
     },
     {
+      "igdb_id": 43978,
+      "game_name": "Delta Warp",
+      "file": "missing/D/43978-delta-warp.json"
+    },
+    {
       "igdb_id": 336347,
       "game_name": "Deltagun",
       "file": "missing/D/336347-deltagun.json"
@@ -26546,6 +26646,11 @@
       "igdb_id": 221988,
       "game_name": "Denpa Ningen no RPG 3",
       "file": "missing/D/221988-denpa-ningen-no-rpg-3.json"
+    },
+    {
+      "igdb_id": 43975,
+      "game_name": "Densetsu no Ogre Battle Gaiden: Zenobia no Ouji",
+      "file": "missing/D/43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json"
     },
     {
       "igdb_id": 55923,
@@ -28496,6 +28601,11 @@
       "igdb_id": 210242,
       "game_name": "Dokodemo Crash-kun",
       "file": "missing/D/210242-dokodemo-crash-kun.json"
+    },
+    {
+      "igdb_id": 43966,
+      "game_name": "Dokodemo Mahjong",
+      "file": "missing/D/43966-dokodemo-mahjong.json"
     },
     {
       "igdb_id": 229972,
@@ -34168,6 +34278,11 @@
       "file": "missing/F/239324-fabby-golf.json"
     },
     {
+      "igdb_id": 43958,
+      "game_name": "Fable III: Limited Collector's Edition",
+      "file": "missing/F/43958-fable-iii-limited-collectors-edition.json"
+    },
+    {
       "igdb_id": 133420,
       "game_name": "Fabled Lands",
       "file": "missing/F/133420-fabled-lands.json"
@@ -34901,6 +35016,11 @@
       "igdb_id": 202914,
       "game_name": "Fantasy Zone",
       "file": "missing/F/202914-fantasy-zone.json"
+    },
+    {
+      "igdb_id": 43950,
+      "game_name": "Fantasy: Battle Simulator",
+      "file": "missing/F/43950-fantasy-battle-simulator.json"
     },
     {
       "igdb_id": 331100,
@@ -40203,6 +40323,11 @@
       "file": "missing/G/221989-gamma64.json"
     },
     {
+      "igdb_id": 43970,
+      "game_name": "Ganbare Neo Poke-Kun",
+      "file": "missing/G/43970-ganbare-neo-poke-kun.json"
+    },
+    {
       "igdb_id": 242207,
       "game_name": "Gangnam City Deluxe",
       "file": "missing/G/242207-gangnam-city-deluxe.json"
@@ -44348,6 +44473,11 @@
       "file": "missing/H/141865-halo-3-and-fable-ii-double-pack.json"
     },
     {
+      "igdb_id": 43955,
+      "game_name": "Halo 3: Legendary Edition",
+      "file": "missing/H/43955-halo-3-legendary-edition.json"
+    },
+    {
       "igdb_id": 77343,
       "game_name": "Halo 4: King of the Hill Fueled by Mountain Dew",
       "file": "missing/H/77343-halo-4-king-of-the-hill-fueled-by-mountain-dew.json"
@@ -44358,6 +44488,11 @@
       "file": "missing/H/108485-halo-roll.json"
     },
     {
+      "igdb_id": 43956,
+      "game_name": "Halo Wars: Limited Edition",
+      "file": "missing/H/43956-halo-wars-limited-edition.json"
+    },
+    {
       "igdb_id": 243401,
       "game_name": "Halo: Combat Devolved",
       "file": "missing/H/243401-halo-combat-devolved.json"
@@ -44366,6 +44501,11 @@
       "igdb_id": 326970,
       "game_name": "Halo: Combat Evolved - E3 2000 Demo",
       "file": "missing/H/326970-halo-combat-evolved-e3-2000-demo.json"
+    },
+    {
+      "igdb_id": 43954,
+      "game_name": "Halo: Reach - Legendary Edition",
+      "file": "missing/H/43954-halo-reach-legendary-edition.json"
     },
     {
       "igdb_id": 60542,
@@ -50323,6 +50463,11 @@
       "file": "missing/I/301612-infinity-blocks.json"
     },
     {
+      "igdb_id": 43965,
+      "game_name": "Infinity Cure",
+      "file": "missing/I/43965-infinity-cure.json"
+    },
+    {
       "igdb_id": 203569,
       "game_name": "Infinity Dungeons",
       "file": "missing/I/203569-infinity-dungeons.json"
@@ -54343,6 +54488,11 @@
       "file": "missing/K/232662-kikokugai.json"
     },
     {
+      "igdb_id": 43969,
+      "game_name": "Kikou Seiki Unitron",
+      "file": "missing/K/43969-kikou-seiki-unitron.json"
+    },
+    {
       "igdb_id": 265955,
       "game_name": "KilaFlow",
       "file": "missing/K/265955-kilaflow.json"
@@ -55271,6 +55421,11 @@
       "igdb_id": 260941,
       "game_name": "Kodoku no Yurikago",
       "file": "missing/K/260941-kodoku-no-yurikago.json"
+    },
+    {
+      "igdb_id": 43964,
+      "game_name": "Koi Koi Mahjong",
+      "file": "missing/K/43964-koi-koi-mahjong.json"
     },
     {
       "igdb_id": 53261,
@@ -61613,6 +61768,11 @@
       "file": "missing/M/183606-mason-and-strings.json"
     },
     {
+      "igdb_id": 43957,
+      "game_name": "Mass Effect 2: Collector's Edition",
+      "file": "missing/M/43957-mass-effect-2-collectors-edition.json"
+    },
+    {
       "igdb_id": 161359,
       "game_name": "Massacre Tower",
       "file": "missing/M/161359-massacre-tower.json"
@@ -62813,6 +62973,11 @@
       "file": "missing/M/169456-memories-of-war-undead-decimation.json"
     },
     {
+      "igdb_id": 43974,
+      "game_name": "Memories Off Pure",
+      "file": "missing/M/43974-memories-off-pure.json"
+    },
+    {
       "igdb_id": 263206,
       "game_name": "Memories: Millennium Girl",
       "file": "missing/M/263206-memories-millennium-girl.json"
@@ -63441,6 +63606,11 @@
       "igdb_id": 211921,
       "game_name": "Mexico 1921: A Deep Slumber",
       "file": "missing/M/211921-mexico-1921-a-deep-slumber.json"
+    },
+    {
+      "igdb_id": 43962,
+      "game_name": "Mezase! Kanji Ou",
+      "file": "missing/M/43962-mezase-kanji-ou.json"
     },
     {
       "igdb_id": 327597,
@@ -64816,6 +64986,11 @@
       "igdb_id": 67305,
       "game_name": "Mizu no Senritsu 2: Hi no Kioku",
       "file": "missing/M/67305-mizu-no-senritsu-2-hi-no-kioku.json"
+    },
+    {
+      "igdb_id": 43963,
+      "game_name": "Mizuki Shigeru no Yokai Shashinkan",
+      "file": "missing/M/43963-mizuki-shigeru-no-yokai-shashinkan.json"
     },
     {
       "igdb_id": 130945,
@@ -69028,6 +69203,21 @@
       "file": "missing/N/244993-neo-berlin-2087.json"
     },
     {
+      "igdb_id": 43980,
+      "game_name": "Neo Cherry Master Color",
+      "file": "missing/N/43980-neo-cherry-master-color.json"
+    },
+    {
+      "igdb_id": 43968,
+      "game_name": "Neo Derby Champ Daiyosou",
+      "file": "missing/N/43968-neo-derby-champ-daiyosou.json"
+    },
+    {
+      "igdb_id": 43976,
+      "game_name": "Neo Geo Cup '98 Plus Color",
+      "file": "missing/N/43976-neo-geo-cup-98-plus-color.json"
+    },
+    {
       "igdb_id": 218154,
       "game_name": "Neo Golden Logres",
       "file": "missing/N/218154-neo-golden-logres.json"
@@ -69041,6 +69231,11 @@
       "igdb_id": 262669,
       "game_name": "Neo Mario Galaxy",
       "file": "missing/N/262669-neo-mario-galaxy.json"
+    },
+    {
+      "igdb_id": 43979,
+      "game_name": "Neo Mystery Bonus",
+      "file": "missing/N/43979-neo-mystery-bonus.json"
     },
     {
       "igdb_id": 270969,
@@ -69851,6 +70046,11 @@
       "igdb_id": 167841,
       "game_name": "Niffelheim: Odin's Blessing",
       "file": "missing/N/167841-niffelheim-odins-blessing.json"
+    },
+    {
+      "igdb_id": 43961,
+      "game_name": "Nige-ron-pa",
+      "file": "missing/N/43961-nige-ron-pa.json"
     },
     {
       "igdb_id": 201315,
@@ -78258,6 +78458,11 @@
       "file": "missing/P/63334-pocket-love.json"
     },
     {
+      "igdb_id": 43973,
+      "game_name": "Pocket Love: If",
+      "file": "missing/P/43973-pocket-love-if.json"
+    },
+    {
       "igdb_id": 319383,
       "game_name": "Pocket Necromancer",
       "file": "missing/P/319383-pocket-necromancer.json"
@@ -83441,6 +83646,11 @@
       "igdb_id": 321167,
       "game_name": "Recontact Istanbul: Eyes Of Sky",
       "file": "missing/R/321167-recontact-istanbul-eyes-of-sky.json"
+    },
+    {
+      "igdb_id": 43959,
+      "game_name": "Record of Agarest War Zero: Limited Edition",
+      "file": "missing/R/43959-record-of-agarest-war-zero-limited-edition.json"
     },
     {
       "igdb_id": 261541,
@@ -103073,6 +103283,11 @@
       "file": "missing/T/264889-tecmo-bowl-kickoff.json"
     },
     {
+      "igdb_id": 43939,
+      "game_name": "Tecmo Stackers",
+      "file": "missing/T/43939-tecmo-stackers.json"
+    },
+    {
       "igdb_id": 131605,
       "game_name": "Teddy Bear Wars",
       "file": "missing/T/131605-teddy-bear-wars.json"
@@ -112098,6 +112313,11 @@
       "file": "missing/T/214725-torus.json"
     },
     {
+      "igdb_id": 43946,
+      "game_name": "Toshinden Card Quest",
+      "file": "missing/T/43946-toshinden-card-quest.json"
+    },
+    {
       "igdb_id": 334482,
       "game_name": "Toska",
       "file": "missing/T/334482-toska.json"
@@ -115601,6 +115821,11 @@
       "igdb_id": 111026,
       "game_name": "Undefined",
       "file": "missing/U/111026-undefined.json"
+    },
+    {
+      "igdb_id": 43951,
+      "game_name": "Under Defeat HD",
+      "file": "missing/U/43951-under-defeat-hd.json"
     },
     {
       "igdb_id": 309084,
@@ -121808,6 +122033,11 @@
       "file": "missing/X/190742-x-virus.json"
     },
     {
+      "igdb_id": 43941,
+      "game_name": "X-Bladez: Inline Skater",
+      "file": "missing/X/43941-x-bladez-inline-skater.json"
+    },
+    {
       "igdb_id": 102156,
       "game_name": "X-Car Stunts",
       "file": "missing/X/102156-x-car-stunts.json"
@@ -122081,6 +122311,26 @@
       "igdb_id": 55210,
       "game_name": "XR-35",
       "file": "missing/X/55210-xr-35.json"
+    },
+    {
+      "igdb_id": 43942,
+      "game_name": "XS Airboat Racing",
+      "file": "missing/X/43942-xs-airboat-racing.json"
+    },
+    {
+      "igdb_id": 43943,
+      "game_name": "XS Junior League Dodgeball",
+      "file": "missing/X/43943-xs-junior-league-dodgeball.json"
+    },
+    {
+      "igdb_id": 43944,
+      "game_name": "XS Junior League Football",
+      "file": "missing/X/43944-xs-junior-league-football.json"
+    },
+    {
+      "igdb_id": 43945,
+      "game_name": "XS Junior League Soccer",
+      "file": "missing/X/43945-xs-junior-league-soccer.json"
     },
     {
       "igdb_id": 205811,
