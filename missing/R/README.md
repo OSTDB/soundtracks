@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Supremacy | 102191 | [102191-realms-of-supremacy.json](./102191-realms-of-supremacy.json) |
 | Reanimated | 274205 | [274205-reanimated.json](./274205-reanimated.json) |
 | Reaper's Isle | 255968 | [255968-reapers-isle.json](./255968-reapers-isle.json) |
+| Rear Pheles: Red of Another | 59446 | [59446-rear-pheles-red-of-another.json](./59446-rear-pheles-red-of-another.json) |
 | Reason: Casual Puzzle | 148000 | [148000-reason-casual-puzzle.json](./148000-reason-casual-puzzle.json) |
 | Rebel Moon | 262644 | [262644-rebel-moon.json](./262644-rebel-moon.json) |
 | Rebels & Redcoats | 122394 | [122394-rebels-and-redcoats.json](./122394-rebels-and-redcoats.json) |
@@ -888,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rome 2077: Tactics | 187526 | [187526-rome-2077-tactics.json](./187526-rome-2077-tactics.json) |
 | Romeo | 71527 | [71527-romeo.json](./71527-romeo.json) |
 | Romeo & Juliet | 145667 | [145667-romeo-and-juliet.json](./145667-romeo-and-juliet.json) |
+| Romeo vs. Juliet: All Series Pack | 59447 | [59447-romeo-vs-juliet-all-series-pack.json](./59447-romeo-vs-juliet-all-series-pack.json) |
 | Romgadr | 259291 | [259291-romgadr.json](./259291-romgadr.json) |
 | Romino's Adventure | 209717 | [209717-rominos-adventure.json](./209717-rominos-adventure.json) |
 | Rompe! | 171078 | [171078-rompe.json](./171078-rompe.json) |
