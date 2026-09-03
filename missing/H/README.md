@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold The Noise | 292286 | [292286-hold-the-noise.json](./292286-hold-the-noise.json) |
 | Hole io & Helix Jump | 315836 | [315836-hole-io-and-helix-jump.json](./315836-hole-io-and-helix-jump.json) |
 | Hole io: Ancient DLC | 309081 | [309081-hole-io-ancient-dlc.json](./309081-hole-io-ancient-dlc.json) |
+| Hole-In-One Miniature Golf | 70979 | [70979-hole-in-one-miniature-golf.json](./70979-hole-in-one-miniature-golf.json) |
 | Holey Moley | 270409 | [270409-holey-moley.json](./270409-holey-moley.json) |
 | Holiday Holocaust | 273139 | [273139-holiday-holocaust.json](./273139-holiday-holocaust.json) |
 | Holiday Mania | 157183 | [157183-holiday-mania.json](./157183-holiday-mania.json) |
@@ -751,7 +752,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed: McLaren Senna | 195768 | [195768-hot-wheels-unleashed-mclaren-senna.json](./195768-hot-wheels-unleashed-mclaren-senna.json) |
 | Hot Wheels Unleashed: Night Burner | 195767 | [195767-hot-wheels-unleashed-night-burner.json](./195767-hot-wheels-unleashed-night-burner.json) |
 | Hot Wheels Unleashed: Street Fighter Vega | 195770 | [195770-hot-wheels-unleashed-street-fighter-vega.json](./195770-hot-wheels-unleashed-street-fighter-vega.json) |
+| Hot Wheels: Bash Arena | 70992 | [70992-hot-wheels-bash-arena.json](./70992-hot-wheels-bash-arena.json) |
 | Hot Wheels: Jetz | 166206 | [166206-hot-wheels-jetz.json](./166206-hot-wheels-jetz.json) |
+| Hot Wheels: Mechanix | 70991 | [70991-hot-wheels-mechanix.json](./70991-hot-wheels-mechanix.json) |
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
 | Hotel Alien | 229368 | [229368-hotel-alien.json](./229368-hotel-alien.json) |
 | Hotel Dash Deluxe | 96724 | [96724-hotel-dash-deluxe.json](./96724-hotel-dash-deluxe.json) |
