@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Beaks | 230536 | [230536-adventure-beaks.json](./230536-adventure-beaks.json) |
 | Adventure Book in Dimension | 339128 | [339128-adventure-book-in-dimension.json](./339128-adventure-book-in-dimension.json) |
 | Adventure Delivery Service | 104055 | [104055-adventure-delivery-service.json](./104055-adventure-delivery-service.json) |
+| Adventure Elf | 72132 | [72132-adventure-elf.json](./72132-adventure-elf.json) |
 | Adventure in King Caries Land | 117044 | [117044-adventure-in-king-caries-land.json](./117044-adventure-in-king-caries-land.json) |
 | Adventure in My Head | 192945 | [192945-adventure-in-my-head.json](./192945-adventure-in-my-head.json) |
 | Adventure in Space | 237670 | [237670-adventure-in-space.json](./237670-adventure-in-space.json) |
@@ -300,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Story | 265404 | [265404-adventure-story.json](./265404-adventure-story.json) |
 | Adventure Value Pack #3 | 78679 | [78679-adventure-value-pack-3.json](./78679-adventure-value-pack-3.json) |
 | Adventure Word: Around the World | 275890 | [275890-adventure-word-around-the-world.json](./275890-adventure-word-around-the-world.json) |
+| Adventure Workshop 4th-6th Grade 5th Edition | 72114 | [72114-adventure-workshop-4th-6th-grade-5th-edition.json](./72114-adventure-workshop-4th-6th-grade-5th-edition.json) |
 | AdventureQuest Worlds: Infinity | 211394 | [211394-adventurequest-worlds-infinity.json](./211394-adventurequest-worlds-infinity.json) |
 | Adventurers.io | 197371 | [197371-adventurers-io.json](./197371-adventurers-io.json) |
 | Adventures of a Cat in Space | 322357 | [322357-adventures-of-a-cat-in-space.json](./322357-adventures-of-a-cat-in-space.json) |
@@ -1169,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assetto Corsa: Red Pack | 168897 | [168897-assetto-corsa-red-pack.json](./168897-assetto-corsa-red-pack.json) |
 | Assetto Corsa: Red Pack | 225910 | [225910-assetto-corsa-red-pack.json](./225910-assetto-corsa-red-pack.json) |
 | Assetto Corsa: Tripl3 Pack | 168898 | [168898-assetto-corsa-tripl3-pack.json](./168898-assetto-corsa-tripl3-pack.json) |
+| Assimilation | 72125 | [72125-assimilation.json](./72125-assimilation.json) |
 | AST-Hero | 130384 | [130384-ast-hero.json](./130384-ast-hero.json) |
 | Astæria | 134670 | [134670-ast-ria.json](./134670-ast-ria.json) |
 | Asterelis | 118404 | [118404-asterelis.json](./118404-asterelis.json) |
