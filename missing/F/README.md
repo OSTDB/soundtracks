@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farewell | 252987 | [252987-farewell.json](./252987-farewell.json) |
 | Farewell, My Dearest Love | 314063 | [314063-farewell-my-dearest-love.json](./314063-farewell-my-dearest-love.json) |
 | Farfalla | 91442 | [91442-farfalla.json](./91442-farfalla.json) |
+| Farjius no Jakoutei: Neo Metal Fantasy | 69862 | [69862-farjius-no-jakoutei-neo-metal-fantasy.json](./69862-farjius-no-jakoutei-neo-metal-fantasy.json) |
 | Farm Animals - Activity Book | 96059 | [96059-farm-animals-activity-book.json](./96059-farm-animals-activity-book.json) |
 | Farm Boy | 92507 | [92507-farm-boy.json](./92507-farm-boy.json) |
 | Farm Chores | 304901 | [304901-farm-chores.json](./304901-farm-chores.json) |
@@ -381,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FindIt | 303797 | [303797-findit.json](./303797-findit.json) |
 | FindIt: Bonus Maps 1 | 303798 | [303798-findit-bonus-maps-1.json](./303798-findit-bonus-maps-1.json) |
 | Finger Cuts | 315830 | [315830-finger-cuts.json](./315830-finger-cuts.json) |
+| Finger Flashing | 69870 | [69870-finger-flashing.json](./69870-finger-flashing.json) |
 | Finger Slayer | 341914 | [341914-finger-slayer.json](./341914-finger-slayer.json) |
 | Fingerspelling Unleashed: BANZSL Edition | 238726 | [238726-fingerspelling-unleashed-banzsl-edition.json](./238726-fingerspelling-unleashed-banzsl-edition.json) |
 | Finis | 213013 | [213013-finis.json](./213013-finis.json) |
@@ -530,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Commander 2 | 73854 | [73854-flight-commander-2.json](./73854-flight-commander-2.json) |
 | Flight of a Dragon | 270406 | [270406-flight-of-a-dragon.json](./270406-flight-of-a-dragon.json) |
 | Flight Simulator 2025 VR | 335088 | [335088-flight-simulator-2025-vr.json](./335088-flight-simulator-2025-vr.json) |
+| Flight Squadron | 69887 | [69887-flight-squadron.json](./69887-flight-squadron.json) |
 | Fling! | 264361 | [264361-fling.json](./264361-fling.json) |
 | Flintstones' Bedrock Boblseddin' Blowout | 196839 | [196839-flintstones-bedrock-boblseddin-blowout.json](./196839-flintstones-bedrock-boblseddin-blowout.json) |
 | Flip of Light | 185119 | [185119-flip-of-light.json](./185119-flip-of-light.json) |
@@ -562,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flour Hour | 183033 | [183033-flour-hour.json](./183033-flour-hour.json) |
 | Flow Dot | 105328 | [105328-flow-dot.json](./105328-flow-dot.json) |
 | Flow Fox | 307907 | [307907-flow-fox.json](./307907-flow-fox.json) |
+| Flower Lines | 69880 | [69880-flower-lines.json](./69880-flower-lines.json) |
 | Flower of Ice Blossoming Under the Moon | 82918 | [82918-flower-of-ice-blossoming-under-the-moon.json](./82918-flower-of-ice-blossoming-under-the-moon.json) |
 | Flower Visit | 177576 | [177576-flower-visit.json](./177576-flower-visit.json) |
 | Flowering Across | 153419 | [153419-flowering-across.json](./153419-flowering-across.json) |
@@ -587,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Cat | 199107 | [199107-fly-cat.json](./199107-fly-cat.json) |
 | Fly Catbug Fly! | 175434 | [175434-fly-catbug-fly.json](./175434-fly-catbug-fly.json) |
 | Fly Guy | 230512 | [230512-fly-guy.json](./230512-fly-guy.json) |
+| Fly! | 69847 | [69847-fly.json](./69847-fly.json) |
 | Fly! 2K | 93065 | [93065-fly-2k.json](./93065-fly-2k.json) |
 | Fly8 | 141223 | [141223-fly8.json](./141223-fly8.json) |
 | Flyghts | 236512 | [236512-flyghts.json](./236512-flyghts.json) |
@@ -881,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Deep | 224240 | [224240-from-the-deep.json](./224240-from-the-deep.json) |
 | Front Edge | 296065 | [296065-front-edge.json](./296065-front-edge.json) |
 | Front Office Football 2001 | 73842 | [73842-front-office-football-2001.json](./73842-front-office-football-2001.json) |
+| Front Page Sports: Trophy Rivers | 69872 | [69872-front-page-sports-trophy-rivers.json](./69872-front-page-sports-trophy-rivers.json) |
 | Frontera | 253568 | [253568-frontera.json](./253568-frontera.json) |
 | Frontier | 162905 | [162905-frontier.json](./162905-frontier.json) |
 | Frontier Force Vanguard | 337478 | [337478-frontier-force-vanguard.json](./337478-frontier-force-vanguard.json) |
