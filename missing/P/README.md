@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ph0b0s | 207521 | [207521-ph0b0s.json](./207521-ph0b0s.json) |
 | Phá Kén: Khúc Điêu Linh | 318783 | [318783-pha-ken-khuc-ieu-linh.json](./318783-pha-ken-khuc-ieu-linh.json) |
 | Phantasmat: The Dread of Oakville | 101551 | [101551-phantasmat-the-dread-of-oakville.json](./101551-phantasmat-the-dread-of-oakville.json) |
+| Phantasy Star Nova | 42674 | [42674-phantasy-star-nova.json](./42674-phantasy-star-nova.json) |
 | Phantasy Star Online 2 New Genesis: Limited Edition | 146336 | [146336-phantasy-star-online-2-new-genesis-limited-edition.json](./146336-phantasy-star-online-2-new-genesis-limited-edition.json) |
 | Phantasy Star Online 2: Helga Pack | 225867 | [225867-phantasy-star-online-2-helga-pack.json](./225867-phantasy-star-online-2-helga-pack.json) |
 | Phantasy Star Online 2: Howzer Pack | 225863 | [225863-phantasy-star-online-2-howzer-pack.json](./225863-phantasy-star-online-2-howzer-pack.json) |
@@ -451,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phenomenal Car Park Simulator | 124220 | [124220-phenomenal-car-park-simulator.json](./124220-phenomenal-car-park-simulator.json) |
 | Phibos | 243394 | [243394-phibos.json](./243394-phibos.json) |
 | Phil of the Future | 49387 | [49387-phil-of-the-future.json](./49387-phil-of-the-future.json) |
+| Phineas & Ferb: Day of Doofensmirtz | 42667 | [42667-phineas-and-ferb-day-of-doofensmirtz.json](./42667-phineas-and-ferb-day-of-doofensmirtz.json) |
 | Phlegethon | 187520 | [187520-phlegethon.json](./187520-phlegethon.json) |
 | Phmlspd | 223132 | [223132-phmlspd.json](./223132-phmlspd.json) |
 | Phobos | 184093 | [184093-phobos.json](./184093-phobos.json) |
