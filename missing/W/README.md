@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way to Yaatra | 140604 | [140604-way-to-yaatra.json](./140604-way-to-yaatra.json) |
 | WAyE | 105378 | [105378-waye.json](./105378-waye.json) |
 | Wayfarer | 310721 | [310721-wayfarer.json](./310721-wayfarer.json) |
+| Wayfarer Survival Mini-Game | 63288 | [63288-wayfarer-survival-mini-game.json](./63288-wayfarer-survival-mini-game.json) |
 | Ways | 323521 | [323521-ways.json](./323521-ways.json) |
 | Waystones | 341864 | [341864-waystones.json](./341864-waystones.json) |
 | WBTR: Welcome Back to Reality | 130376 | [130376-wbtr-welcome-back-to-reality.json](./130376-wbtr-welcome-back-to-reality.json) |
