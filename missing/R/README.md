@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Riding Hood | 225309 | [225309-red-riding-hood.json](./225309-red-riding-hood.json) |
 | Red Rope: Don't Fall Behind + | 147950 | [147950-red-rope-dont-fall-behind.json](./147950-red-rope-dont-fall-behind.json) |
 | Red Rose Rising | 102202 | [102202-red-rose-rising.json](./102202-red-rose-rising.json) |
+| Red Sea Crossing | 40773 | [40773-red-sea-crossing.json](./40773-red-sea-crossing.json) |
 | Red Tape | 226968 | [226968-red-tape.json](./226968-red-tape.json) |
 | Red, Blue, and Green | 135253 | [135253-red-blue-and-green.json](./135253-red-blue-and-green.json) |
 | RED: The Lucid Nightmare | 109677 | [109677-red-the-lucid-nightmare.json](./109677-red-the-lucid-nightmare.json) |
@@ -552,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenant: In Memory Of The Day | 334494 | [334494-revenant-in-memory-of-the-day.json](./334494-revenant-in-memory-of-the-day.json) |
 | Revenge of Marjorie the Chicken | 137694 | [137694-revenge-of-marjorie-the-chicken.json](./137694-revenge-of-marjorie-the-chicken.json) |
 | Revenge of Noxi | 254148 | [254148-revenge-of-noxi.json](./254148-revenge-of-noxi.json) |
+| Revenge of the Apes | 40772 | [40772-revenge-of-the-apes.json](./40772-revenge-of-the-apes.json) |
 | Revenge of the Fallen | 123600 | [123600-revenge-of-the-fallen.json](./123600-revenge-of-the-fallen.json) |
 | Revenge on Bad Guy | 220316 | [220316-revenge-on-bad-guy.json](./220316-revenge-on-bad-guy.json) |
 | Revenge Request | 295533 | [295533-revenge-request.json](./295533-revenge-request.json) |
