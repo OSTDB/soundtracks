@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pub Simulator | 238727 | [238727-the-pub-simulator.json](./238727-the-pub-simulator.json) |
 | The Purgatory and the Stolen Souls | 239285 | [239285-the-purgatory-and-the-stolen-souls.json](./239285-the-purgatory-and-the-stolen-souls.json) |
 | The Puzzle of Blocks | 268214 | [268214-the-puzzle-of-blocks.json](./268214-the-puzzle-of-blocks.json) |
+| The Pyramid | 45362 | [45362-the-pyramid.json](./45362-the-pyramid.json) |
 | The Quest for Achievements Remix | 121008 | [121008-the-quest-for-achievements-remix.json](./121008-the-quest-for-achievements-remix.json) |
 | The Quest for Moe's | 112977 | [112977-the-quest-for-moes.json](./112977-the-quest-for-moes.json) |
 | The Quest for One | 202970 | [202970-the-quest-for-one.json](./202970-the-quest-for-one.json) |
@@ -2360,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transporter Truck Simulator | 119043 | [119043-transporter-truck-simulator.json](./119043-transporter-truck-simulator.json) |
 | Transubstantiation Synthesis | 239879 | [239879-transubstantiation-synthesis.json](./239879-transubstantiation-synthesis.json) |
 | Transworld Endless Skater | 241057 | [241057-transworld-endless-skater.json](./241057-transworld-endless-skater.json) |
+| Tranz Am | 45358 | [45358-tranz-am.json](./45358-tranz-am.json) |
 | Trap Adventure 2: Origins | 196322 | [196322-trap-adventure-2-origins.json](./196322-trap-adventure-2-origins.json) |
 | Trap Attack | 257107 | [257107-trap-attack.json](./257107-trap-attack.json) |
 | Trap Defense | 102174 | [102174-trap-defense.json](./102174-trap-defense.json) |
