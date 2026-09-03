@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Atlantis: Exodus Premium | 174337 | [174337-legends-of-atlantis-exodus-premium.json](./174337-legends-of-atlantis-exodus-premium.json) |
 | Legends of Future Past | 65515 | [65515-legends-of-future-past.json](./65515-legends-of-future-past.json) |
 | Legends of Koyannis | 110368 | [110368-legends-of-koyannis.json](./110368-legends-of-koyannis.json) |
+| Legends of Norrath | 51219 | [51219-legends-of-norrath.json](./51219-legends-of-norrath.json) |
 | Legends of Seven Seas | 221406 | [221406-legends-of-seven-seas.json](./221406-legends-of-seven-seas.json) |
 | Legends of the Jedi | 228697 | [228697-legends-of-the-jedi.json](./228697-legends-of-the-jedi.json) |
 | Legends of the Mist | 201863 | [201863-legends-of-the-mist.json](./201863-legends-of-the-mist.json) |
@@ -439,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lionkiller | 138256 | [138256-lionkiller.json](./138256-lionkiller.json) |
 | Lips Breaker | 332848 | [332848-lips-breaker.json](./332848-lips-breaker.json) |
 | LipTrip: My Boss is My Heat Suppressant | 271985 | [271985-liptrip-my-boss-is-my-heat-suppressant.json](./271985-liptrip-my-boss-is-my-heat-suppressant.json) |
+| Liquid War | 51250 | [51250-liquid-war.json](./51250-liquid-war.json) |
 | Liquor and Wine Shop Simulator: Store Simulator | 326398 | [326398-liquor-and-wine-shop-simulator-store-simulator.json](./326398-liquor-and-wine-shop-simulator-store-simulator.json) |
 | Liquor Store Simulator | 326399 | [326399-liquor-store-simulator.json](./326399-liquor-store-simulator.json) |
 | LIRE | 145018 | [145018-lire.json](./145018-lire.json) |
