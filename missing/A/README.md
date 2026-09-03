@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Games Bundle (5 in 1) | 231074 | [231074-action-games-bundle-5-in-1.json](./231074-action-games-bundle-5-in-1.json) |
 | ActionHacker | 290686 | [290686-actionhacker.json](./290686-actionhacker.json) |
 | Active Life Outdoor Challenge | 167810 | [167810-active-life-outdoor-challenge.json](./167810-active-life-outdoor-challenge.json) |
+| Actua Ice Hockey 2 | 71553 | [71553-actua-ice-hockey-2.json](./71553-actua-ice-hockey-2.json) |
 | Actual Volleyball | 111736 | [111736-actual-volleyball.json](./111736-actual-volleyball.json) |
 | Ad Agency Tycoon | 137679 | [137679-ad-agency-tycoon.json](./137679-ad-agency-tycoon.json) |
 | Ad Fundum | 273626 | [273626-ad-fundum.json](./273626-ad-fundum.json) |
@@ -549,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens | 186868 | [186868-aliens.json](./186868-aliens.json) |
 | Aliens Like Milk | 200186 | [200186-aliens-like-milk.json](./200186-aliens-like-milk.json) |
 | Aliens: Fireteam Elite - Hardened Marine Pack | 247755 | [247755-aliens-fireteam-elite-hardened-marine-pack.json](./247755-aliens-fireteam-elite-hardened-marine-pack.json) |
+| Aliensurf | 71539 | [71539-aliensurf.json](./71539-aliensurf.json) |
 | AlienXcape | 322359 | [322359-alienxcape.json](./322359-alienxcape.json) |
 | Aline | 127978 | [127978-aline.json](./127978-aline.json) |
 | Alipache in Wonderworld | 204708 | [204708-alipache-in-wonderworld.json](./204708-alipache-in-wonderworld.json) |
@@ -1196,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
 | Astrela Starlight | 107914 | [107914-astrela-starlight.json](./107914-astrela-starlight.json) |
 | Astria Ascending: Collector's Edition | 173776 | [173776-astria-ascending-collectors-edition.json](./173776-astria-ascending-collectors-edition.json) |
+| Astro Assembler | 71506 | [71506-astro-assembler.json](./71506-astro-assembler.json) |
 | Astro Blox Revisited | 241655 | [241655-astro-blox-revisited.json](./241655-astro-blox-revisited.json) |
 | Astro Bot: Stellar Speedway | 317620 | [317620-astro-bot-stellar-speedway.json](./317620-astro-bot-stellar-speedway.json) |
 | Astro Bouncer | 103472 | [103472-astro-bouncer.json](./103472-astro-bouncer.json) |
@@ -1210,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrologer | 130963 | [130963-astrologer.json](./130963-astrologer.json) |
 | Astroman | 91944 | [91944-astroman.json](./91944-astroman.json) |
 | Astronaut Spacewalk | 174354 | [174354-astronaut-spacewalk.json](./174354-astronaut-spacewalk.json) |
+| Astronomica: The Quest for the Edge of the Universe | 71538 | [71538-astronomica-the-quest-for-the-edge-of-the-universe.json](./71538-astronomica-the-quest-for-the-edge-of-the-universe.json) |
 | Astronomics Rise of a New Empire | 244513 | [244513-astronomics-rise-of-a-new-empire.json](./244513-astronomics-rise-of-a-new-empire.json) |
 | Astrotit | 93074 | [93074-astrotit.json](./93074-astrotit.json) |
 | Asu Kano! Asu mo Kanojo to Issho! | 209141 | [209141-asu-kano-asu-mo-kanojo-to-issho.json](./209141-asu-kano-asu-mo-kanojo-to-issho.json) |
