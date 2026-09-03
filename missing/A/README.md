@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Force: Armour Force | 62182 | [62182-a-force-armour-force.json](./62182-a-force-armour-force.json) |
 | A.R.M: Absolutely Reliable Machine | 132259 | [132259-a-r-m-absolutely-reliable-machine.json](./132259-a-r-m-absolutely-reliable-machine.json) |
 | A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
+| Aa Yakyuu Jinsei Icchokusen | 48669 | [48669-aa-yakyuu-jinsei-icchokusen.json](./48669-aa-yakyuu-jinsei-icchokusen.json) |
 | Aahh! Spot the Difference | 84864 | [84864-aahh-spot-the-difference.json](./84864-aahh-spot-the-difference.json) |
 | Aard and Wyzz: The rise of minions | 309102 | [309102-aard-and-wyzz-the-rise-of-minions.json](./309102-aard-and-wyzz-the-rise-of-minions.json) |
 | Aardwolf MUD | 228684 | [228684-aardwolf-mud.json](./228684-aardwolf-mud.json) |
@@ -436,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Igo 2003 | 269325 | [269325-ai-igo-2003.json](./269325-ai-igo-2003.json) |
 | AI Mahjong | 56534 | [56534-ai-mahjong.json](./56534-ai-mahjong.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
+| Ai Sensei no Oshiete: Watashi no Hoshi | 48668 | [48668-ai-sensei-no-oshiete-watashi-no-hoshi.json](./48668-ai-sensei-no-oshiete-watashi-no-hoshi.json) |
 | AI Shogi 2003 | 269328 | [269328-ai-shogi-2003.json](./269328-ai-shogi-2003.json) |
 | AI.VI | 303258 | [303258-ai-vi.json](./303258-ai-vi.json) |
 | AI2U: With You 'Til The End | 293905 | [293905-ai2u-with-you-til-the-end.json](./293905-ai2u-with-you-til-the-end.json) |
@@ -1399,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Hill Climb | 237658 | [237658-auto-hill-climb.json](./237658-auto-hill-climb.json) |
 | Auto Race | 245572 | [245572-auto-race.json](./245572-auto-race.json) |
 | Auto Tow Truck Simulator | 278710 | [278710-auto-tow-truck-simulator.json](./278710-auto-tow-truck-simulator.json) |
+| Auto-Upturn | 48692 | [48692-auto-upturn.json](./48692-auto-upturn.json) |
 | Autobahn Raser | 210275 | [210275-autobahn-raser.json](./210275-autobahn-raser.json) |
 | Autobahn Raser II | 210276 | [210276-autobahn-raser-ii.json](./210276-autobahn-raser-ii.json) |
 | Autobahn Raser III | 210277 | [210277-autobahn-raser-iii.json](./210277-autobahn-raser-iii.json) |
