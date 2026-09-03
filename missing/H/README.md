@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halls of Death | 229363 | [229363-halls-of-death.json](./229363-halls-of-death.json) |
 | Halo 2 Digsite: Alpha Moon | 332818 | [332818-halo-2-digsite-alpha-moon.json](./332818-halo-2-digsite-alpha-moon.json) |
 | Halo 3 & Fable II Double Pack | 141865 | [141865-halo-3-and-fable-ii-double-pack.json](./141865-halo-3-and-fable-ii-double-pack.json) |
+| Halo 4: King of the Hill Fueled by Mountain Dew | 77343 | [77343-halo-4-king-of-the-hill-fueled-by-mountain-dew.json](./77343-halo-4-king-of-the-hill-fueled-by-mountain-dew.json) |
 | Halo Roll | 108485 | [108485-halo-roll.json](./108485-halo-roll.json) |
 | Halo: Combat Devolved | 243401 | [243401-halo-combat-devolved.json](./243401-halo-combat-devolved.json) |
 | Halo: Combat Evolved - E3 2000 Demo | 326970 | [326970-halo-combat-evolved-e3-2000-demo.json](./326970-halo-combat-evolved-e3-2000-demo.json) |
@@ -216,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawk Tuah Run | 321782 | [321782-hawk-tuah-run.json](./321782-hawk-tuah-run.json) |
 | Hawked: Ruby Raider Pack | 278667 | [278667-hawked-ruby-raider-pack.json](./278667-hawked-ruby-raider-pack.json) |
 | Hawken Skate Boarder | 321781 | [321781-hawken-skate-boarder.json](./321781-hawken-skate-boarder.json) |
+| Hawkquest | 77373 | [77373-hawkquest.json](./77373-hawkquest.json) |
 | Hawks of Bruyland | 329961 | [329961-hawks-of-bruyland.json](./329961-hawks-of-bruyland.json) |
 | Hawthorn | 319345 | [319345-hawthorn.json](./319345-hawthorn.json) |
 | Haxware Comgam | 219816 | [219816-haxware-comgam.json](./219816-haxware-comgam.json) |
@@ -341,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Crazy : Neighbor Doctor | 101532 | [101532-hello-crazy-neighbor-doctor.json](./101532-hello-crazy-neighbor-doctor.json) |
 | Hello Guest | 140605 | [140605-hello-guest.json](./140605-hello-guest.json) |
 | Hello Helix | 108494 | [108494-hello-helix.json](./108494-hello-helix.json) |
+| Hello Kitty Fairy Tale Samegame | 77342 | [77342-hello-kitty-fairy-tale-samegame.json](./77342-hello-kitty-fairy-tale-samegame.json) |
 | Hello Kitty Food Town | 249481 | [249481-hello-kitty-food-town.json](./249481-hello-kitty-food-town.json) |
 | Hello Kitty no Gotouchi Collection: Koi no Doki-doki Travel | 269832 | [269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json](./269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json) |
 | Hello Kitty's Cube Frenzy | 299461 | [299461-hello-kittys-cube-frenzy.json](./299461-hello-kittys-cube-frenzy.json) |
@@ -786,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Disappear Completely | 268728 | [268728-how-to-disappear-completely.json](./268728-how-to-disappear-completely.json) |
 | How to Train Your Dragon | 228092 | [228092-how-to-train-your-dragon.json](./228092-how-to-train-your-dragon.json) |
 | How!? | 258192 | [258192-how.json](./258192-how.json) |
+| Hoyle Card Games | 77395 | [77395-hoyle-card-games.json](./77395-hoyle-card-games.json) |
 | Hoyle Kid's Card Games | 99000 | [99000-hoyle-kids-card-games.json](./99000-hoyle-kids-card-games.json) |
 | HPL: Nyarlathotep Rising | 258223 | [258223-hpl-nyarlathotep-rising.json](./258223-hpl-nyarlathotep-rising.json) |
 | HQ Trivia | 214770 | [214770-hq-trivia.json](./214770-hq-trivia.json) |
