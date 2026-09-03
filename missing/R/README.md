@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel-istic Fishing | 259823 | [259823-reel-istic-fishing.json](./259823-reel-istic-fishing.json) |
 | Reels of Fortune | 270416 | [270416-reels-of-fortune.json](./270416-reels-of-fortune.json) |
 | ReEstate | 197409 | [197409-reestate.json](./197409-reestate.json) |
+| Refactor | 35928 | [35928-refactor.json](./35928-refactor.json) |
 | Refantasia: Charm and Conquer | 200744 | [200744-refantasia-charm-and-conquer.json](./200744-refantasia-charm-and-conquer.json) |
 | Reflect World | 41391 | [41391-reflect-world.json](./41391-reflect-world.json) |
 | Reflection Seeker | 319954 | [319954-reflection-seeker.json](./319954-reflection-seeker.json) |
@@ -735,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Raid 3D | 204070 | [204070-river-raid-3d.json](./204070-river-raid-3d.json) |
 | Riverboat Casino | 209164 | [209164-riverboat-casino.json](./209164-riverboat-casino.json) |
 | RKR: Rush Kill Repeat | 217495 | [217495-rkr-rush-kill-repeat.json](./217495-rkr-rush-kill-repeat.json) |
+| Rktcr | 35863 | [35863-rktcr.json](./35863-rktcr.json) |
 | Roach Royale | 275331 | [275331-roach-royale.json](./275331-roach-royale.json) |
 | Roach's Room ~Horror Experience Series~ | 107210 | [107210-roachs-room-horror-experience-series.json](./107210-roachs-room-horror-experience-series.json) |
 | Road 3 Pack | 147992 | [147992-road-3-pack.json](./147992-road-3-pack.json) |
@@ -993,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotate the Rings | 259234 | [259234-rotate-the-rings.json](./259234-rotate-the-rings.json) |
 | Roterra Extreme - Great Escape | 125442 | [125442-roterra-extreme-great-escape.json](./125442-roterra-extreme-great-escape.json) |
 | Rothdam! | 196865 | [196865-rothdam.json](./196865-rothdam.json) |
+| Rotieer | 35909 | [35909-rotieer.json](./35909-rotieer.json) |
 | Roto Force | 191870 | [191870-roto-force.json](./191870-roto-force.json) |
 | RotoDefendo | 137055 | [137055-rotodefendo.json](./137055-rotodefendo.json) |
 | Rotten Escape | 101542 | [101542-rotten-escape.json](./101542-rotten-escape.json) |
@@ -1072,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Heroes | 242203 | [242203-rumble-heroes.json](./242203-rumble-heroes.json) |
 | Rumble League | 126042 | [126042-rumble-league.json](./126042-rumble-league.json) |
 | Rumia in the darkness | 121013 | [121013-rumia-in-the-darkness.json](./121013-rumia-in-the-darkness.json) |
+| Rump! | 35772 | [35772-rump.json](./35772-rump.json) |
 | Run & Jump Guy | 304363 | [304363-run-and-jump-guy.json](./304363-run-and-jump-guy.json) |
 | Run Away With Me, Empress! | 225270 | [225270-run-away-with-me-empress.json](./225270-run-away-with-me-empress.json) |
 | Run Buddy | 274211 | [274211-run-buddy.json](./274211-run-buddy.json) |
