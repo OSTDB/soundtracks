@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Shadow Cast on Water | 253582 | [253582-a-shadow-cast-on-water.json](./253582-a-shadow-cast-on-water.json) |
 | A Shard of Mine | 243418 | [243418-a-shard-of-mine.json](./243418-a-shard-of-mine.json) |
 | A Siren's Call VR: Death Comes At Night | 195228 | [195228-a-sirens-call-vr-death-comes-at-night.json](./195228-a-sirens-call-vr-death-comes-at-night.json) |
+| A Skyrocket Story | 58800 | [58800-a-skyrocket-story.json](./58800-a-skyrocket-story.json) |
 | A Slightly Different Backrooms | 295537 | [295537-a-slightly-different-backrooms.json](./295537-a-slightly-different-backrooms.json) |
 | A Slime and a Civil War | 236502 | [236502-a-slime-and-a-civil-war.json](./236502-a-slime-and-a-civil-war.json) |
 | A Space for the Unbound: Collector's Edition | 261538 | [261538-a-space-for-the-unbound-collectors-edition.json](./261538-a-space-for-the-unbound-collectors-edition.json) |
@@ -134,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Terrible Place | 237062 | [237062-a-terrible-place.json](./237062-a-terrible-place.json) |
 | A Timeless Carol | 112305 | [112305-a-timeless-carol.json](./112305-a-timeless-carol.json) |
 | A Tiny Eternity | 318177 | [318177-a-tiny-eternity.json](./318177-a-tiny-eternity.json) |
+| A Tofu Tail | 58803 | [58803-a-tofu-tail.json](./58803-a-tofu-tail.json) |
 | A Turd's Life | 89975 | [89975-a-turds-life.json](./89975-a-turds-life.json) |
 | A Turnabout On Rails | 308541 | [308541-a-turnabout-on-rails.json](./308541-a-turnabout-on-rails.json) |
 | A Turnabout With Too Many Faces | 303250 | [303250-a-turnabout-with-too-many-faces.json](./303250-a-turnabout-with-too-many-faces.json) |
