@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyria Revolution Scenario: The Ring of Contract DLC | 138820 | [138820-valkyria-revolution-scenario-the-ring-of-contract-dlc.json](./138820-valkyria-revolution-scenario-the-ring-of-contract-dlc.json) |
 | Valkyria Revolution: Limited Edition | 138813 | [138813-valkyria-revolution-limited-edition.json](./138813-valkyria-revolution-limited-edition.json) |
 | Valkyria Revolution: Scenario Pack - The Circle of Five | 138816 | [138816-valkyria-revolution-scenario-pack-the-circle-of-five.json](./138816-valkyria-revolution-scenario-pack-the-circle-of-five.json) |
+| Valkyrie Drive: Bhikkhuni - Liberator's Edition | 42678 | [42678-valkyrie-drive-bhikkhuni-liberators-edition.json](./42678-valkyrie-drive-bhikkhuni-liberators-edition.json) |
 | Valkyrie Svia | 109002 | [109002-valkyrie-svia.json](./109002-valkyrie-svia.json) |
 | Valkyrie: Journey to Midgard | 165671 | [165671-valkyrie-journey-to-midgard.json](./165671-valkyrie-journey-to-midgard.json) |
 | Valley Dash | 194649 | [194649-valley-dash.json](./194649-valley-dash.json) |
