@@ -436,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoki | 172160 | [172160-kyoki.json](./172160-kyoki.json) |
 | Kyokugen Dasshutsu Minigame: Renda Shibou Desu | 298861 | [298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json](./298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json) |
 | Kyoto | 128630 | [128630-kyoto.json](./128630-kyoto.json) |
+| Kyoufu Shinbun | 77394 | [77394-kyoufu-shinbun.json](./77394-kyoufu-shinbun.json) |
 | Kyub Crazy Colors | 265431 | [265431-kyub-crazy-colors.json](./265431-kyub-crazy-colors.json) |
 | Kyumori Episode1 | 175985 | [175985-kyumori-episode1.json](./175985-kyumori-episode1.json) |
 | Kyvir: Rebirth | 144996 | [144996-kyvir-rebirth.json](./144996-kyvir-rebirth.json) |
