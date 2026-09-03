@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Throw | 186907 | [186907-santa-throw.json](./186907-santa-throw.json) |
 | Santa's Letters VR | 257066 | [257066-santas-letters-vr.json](./257066-santas-letters-vr.json) |
 | Santa's World | 277577 | [277577-santas-world.json](./277577-santas-world.json) |
+| Santatlantean | 42047 | [42047-santatlantean.json](./42047-santatlantean.json) |
 | Santo Island Incident | 199661 | [199661-santo-island-incident.json](./199661-santo-island-incident.json) |
 | Sanyo Pachinko Paradise | 55926 | [55926-sanyo-pachinko-paradise.json](./55926-sanyo-pachinko-paradise.json) |
 | Sanyo Pachinko Paradise 2: Umi Monogatari Special | 55942 | [55942-sanyo-pachinko-paradise-2-umi-monogatari-special.json](./55942-sanyo-pachinko-paradise-2-umi-monogatari-special.json) |
@@ -703,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiro to Kuro no Alice: Twilight Line | 136471 | [136471-shiro-to-kuro-no-alice-twilight-line.json](./136471-shiro-to-kuro-no-alice-twilight-line.json) |
 | Shiro: Midori | 208578 | [208578-shiro-midori.json](./208578-shiro-midori.json) |
 | Shirushi | 202364 | [202364-shirushi.json](./202364-shirushi.json) |
+| Shiryou Sensen: War of the Dead | 42041 | [42041-shiryou-sensen-war-of-the-dead.json](./42041-shiryou-sensen-war-of-the-dead.json) |
 | Shitataru Ano Ko: Drenched Girls | 271505 | [271505-shitataru-ano-ko-drenched-girls.json](./271505-shitataru-ano-ko-drenched-girls.json) |
 | Shitataru Nikki | 257085 | [257085-shitataru-nikki.json](./257085-shitataru-nikki.json) |
 | Shizue: Innocent Curse | 117086 | [117086-shizue-innocent-curse.json](./117086-shizue-innocent-curse.json) |
@@ -711,6 +713,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shnipers | 56484 | [56484-shnipers.json](./56484-shnipers.json) |
 | Shockwave | 48084 | [48084-shockwave.json](./48084-shockwave.json) |
 | Shogi Nyuumon | 126014 | [126014-shogi-nyuumon.json](./126014-shogi-nyuumon.json) |
+| Shogi Shodan Icchokusen | 42032 | [42032-shogi-shodan-icchokusen.json](./42032-shogi-shodan-icchokusen.json) |
+| Shogi Shoshisha Muyo | 42031 | [42031-shogi-shoshisha-muyo.json](./42031-shogi-shoshisha-muyo.json) |
 | Shogi Wars | 312359 | [312359-shogi-wars.json](./312359-shogi-wars.json) |
 | Shohei's Adult Streaming Channel | 161357 | [161357-shoheis-adult-streaming-channel.json](./161357-shoheis-adult-streaming-channel.json) |
 | Shokrok Throwdown | 73283 | [73283-shokrok-throwdown.json](./73283-shokrok-throwdown.json) |
@@ -845,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silversword | 101539 | [101539-silversword.json](./101539-silversword.json) |
 | Silverwood Bay: An Eleanor Grey Mystery | 291246 | [291246-silverwood-bay-an-eleanor-grey-mystery.json](./291246-silverwood-bay-an-eleanor-grey-mystery.json) |
 | SimCity Social | 64978 | [64978-simcity-social.json](./64978-simcity-social.json) |
+| SimEarth: The Living Planet | 42017 | [42017-simearth-the-living-planet.json](./42017-simearth-the-living-planet.json) |
 | SimHealth | 93048 | [93048-simhealth.json](./93048-simhealth.json) |
 | Simian Rising | 102147 | [102147-simian-rising.json](./102147-simian-rising.json) |
 | Simon Scoop: Ace Attorney | 308551 | [308551-simon-scoop-ace-attorney.json](./308551-simon-scoop-ace-attorney.json) |
@@ -1289,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solasta: Crown of the Magister - Primal Calling | 186870 | [186870-solasta-crown-of-the-magister-primal-calling.json](./186870-solasta-crown-of-the-magister-primal-calling.json) |
 | Solasta: Lightbringers Edition | 251208 | [251208-solasta-lightbringers-edition.json](./251208-solasta-lightbringers-edition.json) |
 | Solcialists | 272581 | [272581-solcialists.json](./272581-solcialists.json) |
+| Soldier Blade Special: Caravan Stage | 42024 | [42024-soldier-blade-special-caravan-stage.json](./42024-soldier-blade-special-caravan-stage.json) |
 | Soldier Front 2 | 63308 | [63308-soldier-front-2.json](./63308-soldier-front-2.json) |
 | Soldier of Fortune II: Double Helix - Gold Edition | 154525 | [154525-soldier-of-fortune-ii-double-helix-gold-edition.json](./154525-soldier-of-fortune-ii-double-helix-gold-edition.json) |
 | Soldier of Fortune: Gold Edition | 44642 | [44642-soldier-of-fortune-gold-edition.json](./44642-soldier-of-fortune-gold-edition.json) |
@@ -1547,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space electrician | 126668 | [126668-space-electrician.json](./126668-space-electrician.json) |
 | Space Engineers: Automatons | 247778 | [247778-space-engineers-automatons.json](./247778-space-engineers-automatons.json) |
 | Space Escape Obstacles | 202960 | [202960-space-escape-obstacles.json](./202960-space-escape-obstacles.json) |
+| Space Fantasy Zone | 42007 | [42007-space-fantasy-zone.json](./42007-space-fantasy-zone.json) |
 | Space Fat: To the Core | 155655 | [155655-space-fat-to-the-core.json](./155655-space-fat-to-the-core.json) |
 | Space Filler | 338013 | [338013-space-filler.json](./338013-space-filler.json) |
 | Space Fishermen | 64948 | [64948-space-fishermen.json](./64948-space-fishermen.json) |
@@ -1705,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
 | SpinZap | 133469 | [133469-spinzap.json](./133469-spinzap.json) |
 | Spinzer.io | 55164 | [55164-spinzer-io.json](./55164-spinzer-io.json) |
+| Spiral Wave | 42045 | [42045-spiral-wave.json](./42045-spiral-wave.json) |
 | Spire Horizon | 257687 | [257687-spire-horizon.json](./257687-spire-horizon.json) |
 | Spire Horizon Online | 304871 | [304871-spire-horizon-online.json](./304871-spire-horizon-online.json) |
 | Spirit Cleaning | 151717 | [151717-spirit-cleaning.json](./151717-spirit-cleaning.json) |
