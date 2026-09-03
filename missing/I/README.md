@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iai | 196885 | [196885-iai.json](./196885-iai.json) |
 | IAlly | 250008 | [250008-ially.json](./250008-ially.json) |
 | iAmBored Throw It Deluxe | 101527 | [101527-iambored-throw-it-deluxe.json](./101527-iambored-throw-it-deluxe.json) |
+| Ibara | 44623 | [44623-ibara.json](./44623-ibara.json) |
 | IC Carddass DragonBall | 59995 | [59995-ic-carddass-dragonball.json](./59995-ic-carddass-dragonball.json) |
 | Icarus | 245054 | [245054-icarus.json](./245054-icarus.json) |
 | Icarus Challenge | 210893 | [210893-icarus-challenge.json](./210893-icarus-challenge.json) |
@@ -169,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ijigen Kara no Dasshutsu: Escape from Twilight Zone | 97326 | [97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json](./97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json) |
 | Ikari III: The Rescue | 48054 | [48054-ikari-iii-the-rescue.json](./48054-ikari-iii-the-rescue.json) |
 | Ikaros | 51955 | [51955-ikaros.json](./51955-ikaros.json) |
+| Ikkitousen: Shining Dragon | 44645 | [44645-ikkitousen-shining-dragon.json](./44645-ikkitousen-shining-dragon.json) |
 | Iktsua | 329930 | [329930-iktsua.json](./329930-iktsua.json) |
 | Il Divino: Michelangelo's Sistine Ceiling in VR | 130925 | [130925-il-divino-michelangelos-sistine-ceiling-in-vr.json](./130925-il-divino-michelangelos-sistine-ceiling-in-vr.json) |
 | Il Filo Conduttore | 134699 | [134699-il-filo-conduttore.json](./134699-il-filo-conduttore.json) |
@@ -495,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Skys | 340763 | [340763-iron-skys.json](./340763-iron-skys.json) |
 | Ironclads 2: Caroline Islands War 1885 | 51941 | [51941-ironclads-2-caroline-islands-war-1885.json](./51941-ironclads-2-caroline-islands-war-1885.json) |
 | Ironpants | 62198 | [62198-ironpants.json](./62198-ironpants.json) |
+| IronStorm - World War Zero | 44641 | [44641-ironstorm-world-war-zero.json](./44641-ironstorm-world-war-zero.json) |
 | Irony Curtain: From Matryoshka with Love - Revolutionary Edition | 124830 | [124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json](./124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json) |
 | Iros | 270410 | [270410-iros.json](./270410-iros.json) |
 | Irresistible Love | 340764 | [340764-irresistible-love.json](./340764-irresistible-love.json) |
