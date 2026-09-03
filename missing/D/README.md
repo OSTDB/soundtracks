@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daardoa | 151190 | [151190-daardoa.json](./151190-daardoa.json) |
 | DachStudio Puzzle Box:: Illumarie's Fantastic Characters | 296683 | [296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json](./296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json) |
 | Dad by the Sword | 218687 | [218687-dad-by-the-sword.json](./218687-dad-by-the-sword.json) |
+| Daddy Long Legs | 89289 | [89289-daddy-long-legs.json](./89289-daddy-long-legs.json) |
 | Daemon Bride: Additional Gain | 313486 | [313486-daemon-bride-additional-gain.json](./313486-daemon-bride-additional-gain.json) |
 | Daemonstration | 179752 | [179752-daemonstration.json](./179752-daemonstration.json) |
 | Daemonum | 223147 | [223147-daemonum.json](./223147-daemonum.json) |
@@ -362,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeliCat | 256533 | [256533-delicat.json](./256533-delicat.json) |
 | Delicious Fruitworld | 173309 | [173309-delicious-fruitworld.json](./173309-delicious-fruitworld.json) |
 | Delicious World | 227476 | [227476-delicious-world.json](./227476-delicious-world.json) |
+| Delicious: Emily's Taste of Fame | 89222 | [89222-delicious-emilys-taste-of-fame.json](./89222-delicious-emilys-taste-of-fame.json) |
 | Delirium | 293898 | [293898-delirium.json](./293898-delirium.json) |
 | Delirium | 320553 | [320553-delirium.json](./320553-delirium.json) |
 | Deliverance | 195242 | [195242-deliverance.json](./195242-deliverance.json) |
@@ -738,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokodemo Crash-kun | 210242 | [210242-dokodemo-crash-kun.json](./210242-dokodemo-crash-kun.json) |
 | Dolce | 229972 | [229972-dolce.json](./229972-dolce.json) |
 | Doll's Ingram | 131585 | [131585-dolls-ingram.json](./131585-dolls-ingram.json) |
+| Dollal Simulator 2018 | 89261 | [89261-dollal-simulator-2018.json](./89261-dollal-simulator-2018.json) |
 | Dollar Dash: More Ways to Win | 171055 | [171055-dollar-dash-more-ways-to-win.json](./171055-dollar-dash-more-ways-to-win.json) |
 | Dollar Dash: Winter Pack | 263216 | [263216-dollar-dash-winter-pack.json](./263216-dollar-dash-winter-pack.json) |
 | Dollarluigi's Quest | 324105 | [324105-dollarluigis-quest.json](./324105-dollarluigis-quest.json) |
@@ -946,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drain Runner | 210885 | [210885-drain-runner.json](./210885-drain-runner.json) |
 | Drak | 168390 | [168390-drak.json](./168390-drak.json) |
 | Drake | 134654 | [134654-drake.json](./134654-drake.json) |
+| Drake's Tower | 89229 | [89229-drakes-tower.json](./89229-drakes-tower.json) |
 | Drakkar Crew | 107886 | [107886-drakkar-crew.json](./107886-drakkar-crew.json) |
 | Dramaqueen | 158230 | [158230-dramaqueen.json](./158230-dramaqueen.json) |
 | Draw and Lie | 147973 | [147973-draw-and-lie.json](./147973-draw-and-lie.json) |
@@ -1023,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driver's Work Trip | 185150 | [185150-drivers-work-trip.json](./185150-drivers-work-trip.json) |
 | Driving Force | 340214 | [340214-driving-force.json](./340214-driving-force.json) |
 | Driving Quest | 209691 | [209691-driving-quest.json](./209691-driving-quest.json) |
+| Driving School 2016 | 89273 | [89273-driving-school-2016.json](./89273-driving-school-2016.json) |
 | Driving Zone 2 | 100860 | [100860-driving-zone-2.json](./100860-driving-zone-2.json) |
 | Driving Zone: Japan | 174857 | [174857-driving-zone-japan.json](./174857-driving-zone-japan.json) |
 | Droid Dreams | 133442 | [133442-droid-dreams.json](./133442-droid-dreams.json) |
