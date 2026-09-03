@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefleet Gothic: Armada - Deluxe Edition | 186341 | [186341-battlefleet-gothic-armada-deluxe-edition.json](./186341-battlefleet-gothic-armada-deluxe-edition.json) |
 | Battlefleet Gothic: Armada 2 - Deluxe Edition | 186340 | [186340-battlefleet-gothic-armada-2-deluxe-edition.json](./186340-battlefleet-gothic-armada-2-deluxe-edition.json) |
 | BattleGuild | 251816 | [251816-battleguild.json](./251816-battleguild.json) |
+| Battlejack: Blackjack RPG | 91992 | [91992-battlejack-blackjack-rpg.json](./91992-battlejack-blackjack-rpg.json) |
 | BattleMore | 111689 | [111689-battlemore.json](./111689-battlemore.json) |
 | BattlePets | 300983 | [300983-battlepets.json](./300983-battlepets.json) |
 | Battlerite Royale: All Champions Pack | 168365 | [168365-battlerite-royale-all-champions-pack.json](./168365-battlerite-royale-all-champions-pack.json) |
@@ -945,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breadbox | 321736 | [321736-breadbox.json](./321736-breadbox.json) |
 | Break Bounds: Exile | 190741 | [190741-break-bounds-exile.json](./190741-break-bounds-exile.json) |
 | Break Free | 304334 | [304334-break-free.json](./304334-break-free.json) |
+| Break Limit | 91945 | [91945-break-limit.json](./91945-break-limit.json) |
 | Break My Case | 333943 | [333943-break-my-case.json](./333943-break-my-case.json) |
 | Break the Empire | 304870 | [304870-break-the-empire.json](./304870-break-the-empire.json) |
 | Break Ultimate | 241614 | [241614-break-ultimate.json](./241614-break-ultimate.json) |
@@ -1017,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutalism22 | 244470 | [244470-brutalism22.json](./244470-brutalism22.json) |
 | Brutalistick VR | 277017 | [277017-brutalistick-vr.json](./277017-brutalistick-vr.json) |
 | Brute Horse | 314627 | [314627-brute-horse.json](./314627-brute-horse.json) |
+| Brutus | 91950 | [91950-brutus.json](./91950-brutus.json) |
 | BS Ihatovo Monogatari | 150170 | [150170-bs-ihatovo-monogatari.json](./150170-bs-ihatovo-monogatari.json) |
 | BS SimCity: Machi Tsukuri Taikai - Scenario 1 | 179711 | [179711-bs-simcity-machi-tsukuri-taikai-scenario-1.json](./179711-bs-simcity-machi-tsukuri-taikai-scenario-1.json) |
 | BS SimCity: Machi Tsukuri Taikai - Scenario 2 | 179712 | [179712-bs-simcity-machi-tsukuri-taikai-scenario-2.json](./179712-bs-simcity-machi-tsukuri-taikai-scenario-2.json) |
