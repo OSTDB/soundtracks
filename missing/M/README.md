@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.O.Z.O.X.: Space Salvager | 209157 | [209157-m-o-z-o-x-space-salvager.json](./209157-m-o-z-o-x-space-salvager.json) |
 | M.U.D. Rally | 233244 | [233244-m-u-d-rally.json](./233244-m-u-d-rally.json) |
 | M.V.P. | 197957 | [197957-m-v-p.json](./197957-m-v-p.json) |
+| M&M's Minis Madness | 49918 | [49918-m-and-ms-minis-madness.json](./49918-m-and-ms-minis-madness.json) |
 | M3 - Molesting the Match-3 Market | 94232 | [94232-m3-molesting-the-match-3-market.json](./94232-m3-molesting-the-match-3-market.json) |
 | M3 Sono Kuroki Hagane: Mission Memento Mori | 61663 | [61663-m3-sono-kuroki-hagane-mission-memento-mori.json](./61663-m3-sono-kuroki-hagane-mission-memento-mori.json) |
 | MAAA | 112978 | [112978-maaa.json](./112978-maaa.json) |
@@ -356,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary Knots: Garden Wedding | 170554 | [170554-mary-knots-garden-wedding.json](./170554-mary-knots-garden-wedding.json) |
 | Mary Shelley's Frankenstein | 257663 | [257663-mary-shelleys-frankenstein.json](./257663-mary-shelleys-frankenstein.json) |
 | Mary Shelley's Frankenstein / Bram Stoker's Dracula | 257664 | [257664-mary-shelleys-frankenstein-bram-stokers-dracula.json](./257664-mary-shelleys-frankenstein-bram-stokers-dracula.json) |
+| Mary-Kate and Ashley: Winners Circle | 49966 | [49966-mary-kate-and-ashley-winners-circle.json](./49966-mary-kate-and-ashley-winners-circle.json) |
 | Maseylia: Echoes of the Past | 302107 | [302107-maseylia-echoes-of-the-past.json](./302107-maseylia-echoes-of-the-past.json) |
 | Masha and Medved | 216457 | [216457-masha-and-medved.json](./216457-masha-and-medved.json) |
 | Masha and the Bear: Dentist | 227487 | [227487-masha-and-the-bear-dentist.json](./227487-masha-and-the-bear-dentist.json) |
@@ -406,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Up | 81405 | [81405-match-up.json](./81405-match-up.json) |
 | Match War | 258710 | [258710-match-war.json](./258710-match-war.json) |
 | Matchbox Missions: Air, Land and Sea Rescue / Emergency Response | 137696 | [137696-matchbox-missions-air-land-and-sea-rescue-emergency-response.json](./137696-matchbox-missions-air-land-and-sea-rescue-emergency-response.json) |
+| Matchbox: Emergency Patrol | 49963 | [49963-matchbox-emergency-patrol.json](./49963-matchbox-emergency-patrol.json) |
 | Matched | 253009 | [253009-matched.json](./253009-matched.json) |
 | Matches Puzzle Game | 117754 | [117754-matches-puzzle-game.json](./117754-matches-puzzle-game.json) |
 | Matching | 106573 | [106573-matching.json](./106573-matching.json) |
@@ -833,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millefiori | 150155 | [150155-millefiori.json](./150155-millefiori.json) |
 | Millennium Mission | 274731 | [274731-millennium-mission.json](./274731-millennium-mission.json) |
 | Millennium Racer: Y2K Fighters | 79897 | [79897-millennium-racer-y2k-fighters.json](./79897-millennium-racer-y2k-fighters.json) |
+| Millennium Winter Sports | 49962 | [49962-millennium-winter-sports.json](./49962-millennium-winter-sports.json) |
 | Millionaire Dancer | 117098 | [117098-millionaire-dancer.json](./117098-millionaire-dancer.json) |
 | Mills of Morris | 291763 | [291763-mills-of-morris.json](./291763-mills-of-morris.json) |
 | Milo | 187525 | [187525-milo.json](./187525-milo.json) |
@@ -1405,6 +1409,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MT Force Aliens Uprising | 341343 | [341343-mt-force-aliens-uprising.json](./341343-mt-force-aliens-uprising.json) |
 | MTB DirtCross | 298860 | [298860-mtb-dirtcross.json](./298860-mtb-dirtcross.json) |
 | MTV Sports: Pure Ride | 306635 | [306635-mtv-sports-pure-ride.json](./306635-mtv-sports-pure-ride.json) |
+| MTV Sports: Pure Ride | 49960 | [49960-mtv-sports-pure-ride.json](./49960-mtv-sports-pure-ride.json) |
+| MTV Sports: Skateboarding Featuring Andy Macdonald | 49959 | [49959-mtv-sports-skateboarding-featuring-andy-macdonald.json](./49959-mtv-sports-skateboarding-featuring-andy-macdonald.json) |
+| MTV Sports: T.J. Lavin's Ultimate BMX | 49964 | [49964-mtv-sports-t-j-lavins-ultimate-bmx.json](./49964-mtv-sports-t-j-lavins-ultimate-bmx.json) |
 | MTV Total Request Live Trivia | 57667 | [57667-mtv-total-request-live-trivia.json](./57667-mtv-total-request-live-trivia.json) |
 | Mud and Blood | 153415 | [153415-mud-and-blood.json](./153415-mud-and-blood.json) |
 | Muddy Heights | 223678 | [223678-muddy-heights.json](./223678-muddy-heights.json) |
