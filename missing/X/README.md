@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xìngcúnzhě Lèyuán | 165655 | [165655-xingcunzhe-leyuan.json](./165655-xingcunzhe-leyuan.json) |
 | Xīngjì Shéngé | 196875 | [196875-xingji-shenge.json](./196875-xingji-shenge.json) |
 | Xio: Survival | 193496 | [193496-xio-survival.json](./193496-xio-survival.json) |
+| xkcd: Hoverboard | 59459 | [59459-xkcd-hoverboard.json](./59459-xkcd-hoverboard.json) |
 | Xmas Boom | 254136 | [254136-xmas-boom.json](./254136-xmas-boom.json) |
 | Xob | 149609 | [149609-xob.json](./149609-xob.json) |
 | Xod.io | 130942 | [130942-xod-io.json](./130942-xod-io.json) |
