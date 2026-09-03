@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank War Nexus | 149080 | [149080-tank-war-nexus.json](./149080-tank-war-nexus.json) |
 | Tank Warfare: El Guettar | 154531 | [154531-tank-warfare-el-guettar.json](./154531-tank-warfare-el-guettar.json) |
 | Tank Warfare: Operation Pugilist | 155088 | [155088-tank-warfare-operation-pugilist.json](./155088-tank-warfare-operation-pugilist.json) |
+| Tank-O-Box | 78682 | [78682-tank-o-box.json](./78682-tank-o-box.json) |
 | Tankomatron War Robots: Transform Tanks into Bots | 104634 | [104634-tankomatron-war-robots-transform-tanks-into-bots.json](./104634-tankomatron-war-robots-transform-tanks-into-bots.json) |
 | Tankron | 215883 | [215883-tankron.json](./215883-tankron.json) |
 | Tanks Boom Boom | 210872 | [210872-tanks-boom-boom.json](./210872-tanks-boom-boom.json) |
@@ -369,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris | 215387 | [215387-tetris.json](./215387-tetris.json) |
 | Tetris | 221969 | [221969-tetris.json](./221969-tetris.json) |
 | Tetris | 270420 | [270420-tetris.json](./270420-tetris.json) |
+| Tetris 2 + BomBliss | 78699 | [78699-tetris-2-bombliss.json](./78699-tetris-2-bombliss.json) |
 | Tetris Block Puzzle | 309098 | [309098-tetris-block-puzzle.json](./309098-tetris-block-puzzle.json) |
 | Tetris Deluxe | 215383 | [215383-tetris-deluxe.json](./215383-tetris-deluxe.json) |
 | Tetris DS | 238199 | [238199-tetris-ds.json](./238199-tetris-ds.json) |
@@ -399,6 +401,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's How Sumireko's Roach Stomping Mafia Works | 123593 | [123593-thats-how-sumirekos-roach-stomping-mafia-works.json](./123593-thats-how-sumirekos-roach-stomping-mafia-works.json) |
 | That's Not How it Happened | 209131 | [209131-thats-not-how-it-happened.json](./209131-thats-not-how-it-happened.json) |
 | The 13th Floor | 298323 | [298323-the-13th-floor.json](./298323-the-13th-floor.json) |
+| The 4th Unit | 78724 | [78724-the-4th-unit.json](./78724-the-4th-unit.json) |
+| The 4th Unit 2 | 78725 | [78725-the-4th-unit-2.json](./78725-the-4th-unit-2.json) |
+| The 4th Unit 3 - Dual Targets | 78726 | [78726-the-4th-unit-3-dual-targets.json](./78726-the-4th-unit-3-dual-targets.json) |
 | The 8th Day | 106605 | [106605-the-8th-day.json](./106605-the-8th-day.json) |
 | The Absence of Miriam Lane | 219792 | [219792-the-absence-of-miriam-lane.json](./219792-the-absence-of-miriam-lane.json) |
 | The Abyss Has Walls | 195760 | [195760-the-abyss-has-walls.json](./195760-the-abyss-has-walls.json) |
@@ -514,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cats of Ulthar | 182557 | [182557-the-cats-of-ulthar.json](./182557-the-cats-of-ulthar.json) |
 | The Cell | 307965 | [307965-the-cell.json](./307965-the-cell.json) |
 | The Cell | 326947 | [326947-the-cell.json](./326947-the-cell.json) |
+| The Champ | 78689 | [78689-the-champ.json](./78689-the-champ.json) |
 | The Charity Shop | 333942 | [333942-the-charity-shop.json](./333942-the-charity-shop.json) |
 | The Charm of Love | 157158 | [157158-the-charm-of-love.json](./157158-the-charm-of-love.json) |
 | The Chaste Full-Metal Maiden - Leiria | 124262 | [124262-the-chaste-full-metal-maiden-leiria.json](./124262-the-chaste-full-metal-maiden-leiria.json) |
