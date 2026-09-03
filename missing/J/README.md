@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Fruits Adventure: Magic Match 3 Puzzle | 262099 | [262099-jelly-fruits-adventure-magic-match-3-puzzle.json](./262099-jelly-fruits-adventure-magic-match-3-puzzle.json) |
 | Jelly Lab Reloaded | 246082 | [246082-jelly-lab-reloaded.json](./246082-jelly-lab-reloaded.json) |
 | Jelly no Puzzle | 141197 | [141197-jelly-no-puzzle.json](./141197-jelly-no-puzzle.json) |
+| JellyCar | 95422 | [95422-jellycar.json](./95422-jellycar.json) |
 | Jellyfish Archipelago | 272019 | [272019-jellyfish-archipelago.json](./272019-jellyfish-archipelago.json) |
 | Jellyfish Season | 109726 | [109726-jellyfish-season.json](./109726-jellyfish-season.json) |
 | Jellyfishers | 143088 | [143088-jellyfishers.json](./143088-jellyfishers.json) |
