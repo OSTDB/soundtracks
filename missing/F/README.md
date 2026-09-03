@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firestarter | 78049 | [78049-firestarter.json](./78049-firestarter.json) |
 | FireTry: Capture the Flag | 167850 | [167850-firetry-capture-the-flag.json](./167850-firetry-capture-the-flag.json) |
 | Firewatch: Audio Tour | 251228 | [251228-firewatch-audio-tour.json](./251228-firewatch-audio-tour.json) |
+| Firewind | 73322 | [73322-firewind.json](./73322-firewind.json) |
 | Firework Syndrome | 310756 | [310756-firework-syndrome.json](./310756-firework-syndrome.json) |
 | First Blood | 312895 | [312895-first-blood.json](./312895-first-blood.json) |
 | First Christmas | 248907 | [248907-first-christmas.json](./248907-first-christmas.json) |
