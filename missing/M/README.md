@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximal Mahjongg | 94235 | [94235-maximal-mahjongg.json](./94235-maximal-mahjongg.json) |
 | Maximum Football | 304344 | [304344-maximum-football.json](./304344-maximum-football.json) |
 | Maximum Football | 66690 | [66690-maximum-football.json](./66690-maximum-football.json) |
+| Maximum Racing: Super Truck Racer | 50603 | [50603-maximum-racing-super-truck-racer.json](./50603-maximum-racing-super-truck-racer.json) |
 | Maximum Rescue | 93027 | [93027-maximum-rescue.json](./93027-maximum-rescue.json) |
 | May Angels Fall Down | 257094 | [257094-may-angels-fall-down.json](./257094-may-angels-fall-down.json) |
 | May Blues | 153990 | [153990-may-blues.json](./153990-may-blues.json) |
@@ -1132,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monologue: Winter melancholy | 278145 | [278145-monologue-winter-melancholy.json](./278145-monologue-winter-melancholy.json) |
 | Mononobe no Futo to Muttsu no Shiren | 206958 | [206958-mononobe-no-futo-to-muttsu-no-shiren.json](./206958-mononobe-no-futo-to-muttsu-no-shiren.json) |
 | Monopoly | 335112 | [335112-monopoly.json](./335112-monopoly.json) |
+| Monopoly Collection | 50615 | [50615-monopoly-collection.json](./50615-monopoly-collection.json) |
 | Monopoly One | 55944 | [55944-monopoly-one.json](./55944-monopoly-one.json) |
 | Monorail Stories | 137051 | [137051-monorail-stories.json](./137051-monorail-stories.json) |
 | Monster 3 | 311266 | [311266-monster-3.json](./311266-monster-3.json) |
@@ -1373,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr White | 262073 | [262073-mr-white.json](./262073-mr-white.json) |
 | Mr. and Mrs. Potato Head Go on Vacation | 209156 | [209156-mr-and-mrs-potato-head-go-on-vacation.json](./209156-mr-and-mrs-potato-head-go-on-vacation.json) |
 | Mr. Angry | 77380 | [77380-mr-angry.json](./77380-mr-angry.json) |
+| Mr. Bean's Wacky World | 50621 | [50621-mr-beans-wacky-world.json](./50621-mr-beans-wacky-world.json) |
 | Mr. Big Wigs | 55931 | [55931-mr-big-wigs.json](./55931-mr-big-wigs.json) |
 | Mr. Bill | 92544 | [92544-mr-bill.json](./92544-mr-bill.json) |
 | Mr. Crab 2 | 57145 | [57145-mr-crab-2.json](./57145-mr-crab-2.json) |
