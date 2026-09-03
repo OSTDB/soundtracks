@@ -439,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: Broken Destiny | 329950 | [329950-deltarune-broken-destiny.json](./329950-deltarune-broken-destiny.json) |
 | Deltarune: Chapter 1 - Noelle Edition | 335691 | [335691-deltarune-chapter-1-noelle-edition.json](./335691-deltarune-chapter-1-noelle-edition.json) |
 | Deltarune: Master Mode | 336354 | [336354-deltarune-master-mode.json](./336354-deltarune-master-mode.json) |
+| Deluxe Galaga | 39026 | [39026-deluxe-galaga.json](./39026-deluxe-galaga.json) |
 | Deluxe Scrabble for Windows | 78722 | [78722-deluxe-scrabble-for-windows.json](./78722-deluxe-scrabble-for-windows.json) |
 | Deluxe Trivial Pursuit | 265974 | [265974-deluxe-trivial-pursuit.json](./265974-deluxe-trivial-pursuit.json) |
 | DEM_Stage_Zero | 127369 | [127369-dem-stage-zero.json](./127369-dem-stage-zero.json) |
@@ -484,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dengeki Stryker | 64954 | [64954-dengeki-stryker.json](./64954-dengeki-stryker.json) |
 | Dengen Tenshi Taisen Mahjong Shangri-La | 131571 | [131571-dengen-tenshi-taisen-mahjong-shangri-la.json](./131571-dengen-tenshi-taisen-mahjong-shangri-la.json) |
 | Denis Through the Drinking Glass | 73823 | [73823-denis-through-the-drinking-glass.json](./73823-denis-through-the-drinking-glass.json) |
+| Dennis Miller: That's News to Me | 39019 | [39019-dennis-miller-thats-news-to-me.json](./39019-dennis-miller-thats-news-to-me.json) |
 | Dennis og Bellini: De forsvundne kaniner | 91450 | [91450-dennis-og-bellini-de-forsvundne-kaniner.json](./91450-dennis-og-bellini-de-forsvundne-kaniner.json) |
 | Dennis og Bellini: Onkel Bellinis hemmeligheder | 91453 | [91453-dennis-og-bellini-onkel-bellinis-hemmeligheder.json](./91453-dennis-og-bellini-onkel-bellinis-hemmeligheder.json) |
 | Dennis og Bellini: Slapafnien | 91452 | [91452-dennis-og-bellini-slapafnien.json](./91452-dennis-og-bellini-slapafnien.json) |
@@ -965,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoodleBob and the Magic Pencil DX | 341325 | [341325-doodlebob-and-the-magic-pencil-dx.json](./341325-doodlebob-and-the-magic-pencil-dx.json) |
 | Doodlebug | 261511 | [261511-doodlebug.json](./261511-doodlebug.json) |
 | Doofas | 133438 | [133438-doofas.json](./133438-doofas.json) |
+| Doofus | 39025 | [39025-doofus.json](./39025-doofus.json) |
 | Dookie Nukem 3D | 218115 | [218115-dookie-nukem-3d.json](./218115-dookie-nukem-3d.json) |
 | Doom 2 In City Only | 299447 | [299447-doom-2-in-city-only.json](./299447-doom-2-in-city-only.json) |
 | Doom Eternal: Year One Pass | 293919 | [293919-doom-eternal-year-one-pass.json](./293919-doom-eternal-year-one-pass.json) |
