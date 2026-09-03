@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Princess PreCure: Sugar Oukoku to 6-nin no Princess! | 222540 | [222540-go-princess-precure-sugar-oukoku-to-6-nin-no-princess.json](./222540-go-princess-precure-sugar-oukoku-to-6-nin-no-princess.json) |
 | Goal and Crossbones | 178649 | [178649-goal-and-crossbones.json](./178649-goal-and-crossbones.json) |
 | Goal Poacher VR: Football Header Simulator | 326415 | [326415-goal-poacher-vr-football-header-simulator.json](./326415-goal-poacher-vr-football-header-simulator.json) |
+| Goat Runner | 84873 | [84873-goat-runner.json](./84873-goat-runner.json) |
 | Goat Simulator: Waste of Space Bundle | 234308 | [234308-goat-simulator-waste-of-space-bundle.json](./234308-goat-simulator-waste-of-space-bundle.json) |
 | GoBangTetris | 192437 | [192437-gobangtetris.json](./192437-gobangtetris.json) |
 | Gobblemen | 152346 | [152346-gobblemen.json](./152346-gobblemen.json) |
