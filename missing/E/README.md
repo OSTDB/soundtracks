@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enkan no Memo-ria: Kakera Tomoshi | 135858 | [135858-enkan-no-memo-ria-kakera-tomoshi.json](./135858-enkan-no-memo-ria-kakera-tomoshi.json) |
 | Enpitsu de Oku no Hosomichi DS | 269830 | [269830-enpitsu-de-oku-no-hosomichi-ds.json](./269830-enpitsu-de-oku-no-hosomichi-ds.json) |
 | Enraged | 189159 | [189159-enraged.json](./189159-enraged.json) |
+| Enslaved Odyssey: To The West - Collector's Edition | 44658 | [44658-enslaved-odyssey-to-the-west-collectors-edition.json](./44658-enslaved-odyssey-to-the-west-collectors-edition.json) |
 | Ensou | 141212 | [141212-ensou.json](./141212-ensou.json) |
 | Entangled | 105321 | [105321-entangled.json](./105321-entangled.json) |
 | Enter the Backrooms | 157710 | [157710-enter-the-backrooms.json](./157710-enter-the-backrooms.json) |
@@ -584,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exterminators of Saturn | 253580 | [253580-exterminators-of-saturn.json](./253580-exterminators-of-saturn.json) |
 | eXtinction | 221978 | [221978-extinction.json](./221978-extinction.json) |
 | Extinction: Deluxe Edition | 85473 | [85473-extinction-deluxe-edition.json](./85473-extinction-deluxe-edition.json) |
+| Extra Terrestrial Perception | 44615 | [44615-extra-terrestrial-perception.json](./44615-extra-terrestrial-perception.json) |
 | Extreme Basketball | 86104 | [86104-extreme-basketball.json](./86104-extreme-basketball.json) |
 | Extreme Car Parking! | 310196 | [310196-extreme-car-parking.json](./310196-extreme-car-parking.json) |
 | Extreme flight | 118411 | [118411-extreme-flight.json](./118411-extreme-flight.json) |
@@ -607,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyeball Master | 195272 | [195272-eyeball-master.json](./195272-eyeball-master.json) |
 | Eyeboss | 181906 | [181906-eyeboss.json](./181906-eyeboss.json) |
 | Eyeless | 269310 | [269310-eyeless.json](./269310-eyeless.json) |
+| EyeToy Play Hero | 44638 | [44638-eyetoy-play-hero.json](./44638-eyetoy-play-hero.json) |
 | EZ-Talk Shokyuuhen 1-6 Kan Set | 93596 | [93596-ez-talk-shokyuuhen-1-6-kan-set.json](./93596-ez-talk-shokyuuhen-1-6-kan-set.json) |
 | EZ2Dancer | 92487 | [92487-ez2dancer.json](./92487-ez2dancer.json) |
 | EZ2on Reboot: R - Fortress Collaboration DLC | 256004 | [256004-ez2on-reboot-r-fortress-collaboration-dlc.json](./256004-ez2on-reboot-r-fortress-collaboration-dlc.json) |
