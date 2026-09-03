@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Blaster | 151741 | [151741-magical-blaster.json](./151741-magical-blaster.json) |
 | Magical Boco | 313464 | [313464-magical-boco.json](./313464-magical-boco.json) |
 | Magical Circle Guru-Guru: Stardust Adventure | 302653 | [302653-magical-circle-guru-guru-stardust-adventure.json](./302653-magical-circle-guru-guru-stardust-adventure.json) |
+| Magical Dinosaur Tour | 42014 | [42014-magical-dinosaur-tour.json](./42014-magical-dinosaur-tour.json) |
 | Magical Drop | 71552 | [71552-magical-drop.json](./71552-magical-drop.json) |
 | Magical Escape | 194660 | [194660-magical-escape.json](./194660-magical-escape.json) |
 | Magical Girl Leaky Sara | 58810 | [58810-magical-girl-leaky-sara.json](./58810-magical-girl-leaky-sara.json) |
@@ -151,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Elements HD | 174371 | [174371-mahjong-elements-hd.json](./174371-mahjong-elements-hd.json) |
 | Mahjong Gakuen Touma Soushirou Toujou | 59429 | [59429-mahjong-gakuen-touma-soushirou-toujou.json](./59429-mahjong-gakuen-touma-soushirou-toujou.json) |
 | Mahjong Infinity | 117043 | [117043-mahjong-infinity.json](./117043-mahjong-infinity.json) |
+| Mahjong Lemon Angel | 42004 | [42004-mahjong-lemon-angel.json](./42004-mahjong-lemon-angel.json) |
 | Mahjong Party Pack | 268203 | [268203-mahjong-party-pack.json](./268203-mahjong-party-pack.json) |
 | Mahjong Trap | 115717 | [115717-mahjong-trap.json](./115717-mahjong-trap.json) |
 | Mahjong: Wolf's Stories | 177045 | [177045-mahjong-wolfs-stories.json](./177045-mahjong-wolfs-stories.json) |
@@ -680,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mesa | 233214 | [233214-mesa.json](./233214-mesa.json) |
 | Mesh Replica | 296684 | [296684-mesh-replica.json](./296684-mesh-replica.json) |
 | Meso | 319350 | [319350-meso.json](./319350-meso.json) |
+| Mesopotamia | 42042 | [42042-mesopotamia.json](./42042-mesopotamia.json) |
 | Mess Cleanup | 166765 | [166765-mess-cleanup.json](./166765-mess-cleanup.json) |
 | Messticulous | 319935 | [319935-messticulous.json](./319935-messticulous.json) |
 | Messy Desktop 98 | 184614 | [184614-messy-desktop-98.json](./184614-messy-desktop-98.json) |
@@ -974,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirage: Illusions | 326977 | [326977-mirage-illusions.json](./326977-mirage-illusions.json) |
 | Mirai | 200755 | [200755-mirai.json](./200755-mirai.json) |
 | Mirai Ninja: Keigumo Kinin Gaiden | 70997 | [70997-mirai-ninja-keigumo-kinin-gaiden.json](./70997-mirai-ninja-keigumo-kinin-gaiden.json) |
+| Mirai Shounen Conan | 42021 | [42021-mirai-shounen-conan.json](./42021-mirai-shounen-conan.json) |
 | Mirax Force | 55208 | [55208-mirax-force.json](./55208-mirax-force.json) |
 | Mirror Image | 322352 | [322352-mirror-image.json](./322352-mirror-image.json) |
 | Mirror Land | 91986 | [91986-mirror-land.json](./91986-mirror-land.json) |
@@ -1124,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momotaro Collection 2 | 64417 | [64417-momotaro-collection-2.json](./64417-momotaro-collection-2.json) |
 | Momotaro Densetsu | 64411 | [64411-momotaro-densetsu.json](./64411-momotaro-densetsu.json) |
 | Momotaro Densetsu 1-2 | 64413 | [64413-momotaro-densetsu-1-2.json](./64413-momotaro-densetsu-1-2.json) |
+| Momotaro Densetsu Turbo | 42049 | [42049-momotaro-densetsu-turbo.json](./42049-momotaro-densetsu-turbo.json) |
 | Momotaro Dentetsu 15: Godai Bonbii Toujou! no Maki | 64406 | [64406-momotaro-dentetsu-15-godai-bonbii-toujou-no-maki.json](./64406-momotaro-dentetsu-15-godai-bonbii-toujou-no-maki.json) |
 | Momotaro Dentetsu 16: Hokkaido Daiidou no Maki! | 64405 | [64405-momotaro-dentetsu-16-hokkaido-daiidou-no-maki.json](./64405-momotaro-dentetsu-16-hokkaido-daiidou-no-maki.json) |
 | Momotaro Dentetsu 7 | 64410 | [64410-momotaro-dentetsu-7.json](./64410-momotaro-dentetsu-7.json) |
@@ -1210,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Jam Showdown: Day One Edition | 293931 | [293931-monster-jam-showdown-day-one-edition.json](./293931-monster-jam-showdown-day-one-edition.json) |
 | Monster Jam Showdown: Yeti | 332228 | [332228-monster-jam-showdown-yeti.json](./332228-monster-jam-showdown-yeti.json) |
 | Monster Knockout | 224755 | [224755-monster-knockout.json](./224755-monster-knockout.json) |
+| Monster Lair | 42019 | [42019-monster-lair.json](./42019-monster-lair.json) |
 | Monster Loves You Too! | 214153 | [214153-monster-loves-you-too.json](./214153-monster-loves-you-too.json) |
 | Monster Maker: Yami no Ryuukishi | 63878 | [63878-monster-maker-yami-no-ryuukishi.json](./63878-monster-maker-yami-no-ryuukishi.json) |
 | Monster Meltdown | 63284 | [63284-monster-meltdown.json](./63284-monster-meltdown.json) |
@@ -1371,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorsiege: Warriors of Primetime | 44637 | [44637-motorsiege-warriors-of-primetime.json](./44637-motorsiege-warriors-of-primetime.json) |
 | MotoRun | 166739 | [166739-motorun.json](./166739-motorun.json) |
 | Mots Croisés | 93557 | [93557-mots-croises.json](./93557-mots-croises.json) |
+| Motteke Tamago | 42015 | [42015-motteke-tamago.json](./42015-motteke-tamago.json) |
 | Motteke Tamago Ganbare Kamonohashi | 62206 | [62206-motteke-tamago-ganbare-kamonohashi.json](./62206-motteke-tamago-ganbare-kamonohashi.json) |
 | Mottia: The Gem Hunters | 215914 | [215914-mottia-the-gem-hunters.json](./215914-mottia-the-gem-hunters.json) |
 | Motto Shiritai Kodai Egypt | 276471 | [276471-motto-shiritai-kodai-egypt.json](./276471-motto-shiritai-kodai-egypt.json) |
