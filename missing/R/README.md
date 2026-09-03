@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Football 2018 | 116352 | [116352-real-football-2018.json](./116352-real-football-2018.json) |
 | Real Football 2019 | 116353 | [116353-real-football-2019.json](./116353-real-football-2019.json) |
 | Real Hentai Situation! 2 | 194628 | [194628-real-hentai-situation-2.json](./194628-real-hentai-situation-2.json) |
+| Real Heroes Firefighter 3D | 84911 | [84911-real-heroes-firefighter-3d.json](./84911-real-heroes-firefighter-3d.json) |
 | Real Life Day: Threesome | 313508 | [313508-real-life-day-threesome.json](./313508-real-life-day-threesome.json) |
 | Real Miami Street Gangsters Crime Mafia Glory Lord | 101586 | [101586-real-miami-street-gangsters-crime-mafia-glory-lord.json](./101586-real-miami-street-gangsters-crime-mafia-glory-lord.json) |
 | Real Motocross Driving Simulator | 259814 | [259814-real-motocross-driving-simulator.json](./259814-real-motocross-driving-simulator.json) |
@@ -980,10 +981,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty's Retirement x Vampire Survivors | 339632 | [339632-rustys-retirement-x-vampire-survivors.json](./339632-rustys-retirement-x-vampire-survivors.json) |
 | Rustyard | 322354 | [322354-rustyard.json](./322354-rustyard.json) |
 | Ruzar: The Dark Stones | 310217 | [310217-ruzar-the-dark-stones.json](./310217-ruzar-the-dark-stones.json) |
+| RV-7 My Drone | 84909 | [84909-rv-7-my-drone.json](./84909-rv-7-my-drone.json) |
 | Ryan's Pack | 131602 | [131602-ryans-pack.json](./131602-ryans-pack.json) |
 | Ryan's Rescue Squad | 185704 | [185704-ryans-rescue-squad.json](./185704-ryans-rescue-squad.json) |
 | Ryojyoku Damashii: Ero Kenkyaku Den | 97367 | [97367-ryojyoku-damashii-ero-kenkyaku-den.json](./97367-ryojyoku-damashii-ero-kenkyaku-den.json) |
 | Rysen Dawn | 174899 | [174899-rysen-dawn.json](./174899-rysen-dawn.json) |
 | Rystel | 151723 | [151723-rystel.json](./151723-rystel.json) |
 | Rythm | 112331 | [112331-rythm.json](./112331-rythm.json) |
+| Rytmik Retrobits | 84908 | [84908-rytmik-retrobits.json](./84908-rytmik-retrobits.json) |
+| Rytmik World Music | 84906 | [84906-rytmik-world-music.json](./84906-rytmik-world-music.json) |
+| Rytmik: Rock Edition | 84905 | [84905-rytmik-rock-edition.json](./84905-rytmik-rock-edition.json) |
 | Rytmos | 158197 | [158197-rytmos.json](./158197-rytmos.json) |
