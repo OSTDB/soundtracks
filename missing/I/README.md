@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inzo | 99609 | [99609-inzo.json](./99609-inzo.json) |
 | IonballEX | 92515 | [92515-ionballex.json](./92515-ionballex.json) |
 | Ippan Mario | 268193 | [268193-ippan-mario.json](./268193-ippan-mario.json) |
+| iRagdoll | 90672 | [90672-iragdoll.json](./90672-iragdoll.json) |
 | Iragon | 115664 | [115664-iragon.json](./115664-iragon.json) |
 | Iraroji VOW | 191867 | [191867-iraroji-vow.json](./191867-iraroji-vow.json) |
 | Iratus: Necromancer Edition | 154555 | [154555-iratus-necromancer-edition.json](./154555-iratus-necromancer-edition.json) |
@@ -473,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itch! | 143745 | [143745-itch.json](./143745-itch.json) |
 | Iteriba: Olokun's Wrath | 255355 | [255355-iteriba-olokuns-wrath.json](./255355-iteriba-olokuns-wrath.json) |
 | Iterria Zone | 171609 | [171609-iterria-zone.json](./171609-iterria-zone.json) |
+| iTownGamePlay UNIVERSE | 90652 | [90652-itowngameplay-universe.json](./90652-itowngameplay-universe.json) |
 | Its Been a While Since I Went for a Walk | 151708 | [151708-its-been-a-while-since-i-went-for-a-walk.json](./151708-its-been-a-while-since-i-went-for-a-walk.json) |
 | Ivanoile ~ Christalixeur Corruption | 119023 | [119023-ivanoile-christalixeur-corruption.json](./119023-ivanoile-christalixeur-corruption.json) |
 | Iwai Keitai Kaitsuu! Tamagotchi Plus | 229950 | [229950-iwai-keitai-kaitsuu-tamagotchi-plus.json](./229950-iwai-keitai-kaitsuu-tamagotchi-plus.json) |
