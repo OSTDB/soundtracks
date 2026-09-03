@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle: Special Forces | 333383 | [333383-eagle-special-forces.json](./333383-eagle-special-forces.json) |
 | Ears of the Killer | 206957 | [206957-ears-of-the-killer.json](./206957-ears-of-the-killer.json) |
 | Earth 2025 | 92497 | [92497-earth-2025.json](./92497-earth-2025.json) |
+| Earth 2140: Mission Pack 1 | 79919 | [79919-earth-2140-mission-pack-1.json](./79919-earth-2140-mission-pack-1.json) |
 | Earth Brigades | 204085 | [204085-earth-brigades.json](./204085-earth-brigades.json) |
 | Earth Defender | 112318 | [112318-earth-defender.json](./112318-earth-defender.json) |
 | Earth Defense Force 3 for Nintendo Switch | 172720 | [172720-earth-defense-force-3-for-nintendo-switch.json](./172720-earth-defense-force-3-for-nintendo-switch.json) |
@@ -32,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthtia Saga: Larthur's Legend | 242223 | [242223-earthtia-saga-larthurs-legend.json](./242223-earthtia-saga-larthurs-legend.json) |
 | East Defense | 305526 | [305526-east-defense.json](./305526-east-defense.json) |
 | East Front II | 84257 | [84257-east-front-ii.json](./84257-east-front-ii.json) |
+| Easter Bunneh | 79941 | [79941-easter-bunneh.json](./79941-easter-bunneh.json) |
 | Easter Bunny | 278154 | [278154-easter-bunny.json](./278154-easter-bunny.json) |
 | Easter Journey | 296080 | [296080-easter-journey.json](./296080-easter-journey.json) |
 | Eastern Market Murder | 174372 | [174372-eastern-market-murder.json](./174372-eastern-market-murder.json) |
@@ -118,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eko | 223673 | [223673-eko.json](./223673-eko.json) |
 | El Capitán Trueno | 100184 | [100184-el-capitan-trueno.json](./100184-el-capitan-trueno.json) |
 | El Chavo | 331122 | [331122-el-chavo.json](./331122-el-chavo.json) |
+| El Chavo | 79918 | [79918-el-chavo.json](./79918-el-chavo.json) |
 | El Dorado | 312880 | [312880-el-dorado.json](./312880-el-dorado.json) |
 | El Hincha Rusia 2018 | 104053 | [104053-el-hincha-rusia-2018.json](./104053-el-hincha-rusia-2018.json) |
 | El Internado Laguna Negra | 144305 | [144305-el-internado-laguna-negra.json](./144305-el-internado-laguna-negra.json) |
@@ -546,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EZ-Talk Shokyuuhen 1-6 Kan Set | 93596 | [93596-ez-talk-shokyuuhen-1-6-kan-set.json](./93596-ez-talk-shokyuuhen-1-6-kan-set.json) |
 | EZ2Dancer | 92487 | [92487-ez2dancer.json](./92487-ez2dancer.json) |
 | EZ2on Reboot: R - Fortress Collaboration DLC | 256004 | [256004-ez2on-reboot-r-fortress-collaboration-dlc.json](./256004-ez2on-reboot-r-fortress-collaboration-dlc.json) |
+| EZMuze Break and House edition | 79908 | [79908-ezmuze-break-and-house-edition.json](./79908-ezmuze-break-and-house-edition.json) |
 | Ezmuze+ 2.0 | 93570 | [93570-ezmuze-2-0.json](./93570-ezmuze-2-0.json) |
 | Ezpz Saga | 174862 | [174862-ezpz-saga.json](./174862-ezpz-saga.json) |
 | Ezy | 94770 | [94770-ezy.json](./94770-ezy.json) |
