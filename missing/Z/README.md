@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zion Survivors | 199091 | [199091-zion-survivors.json](./199091-zion-survivors.json) |
 | ZiParate | 218122 | [218122-ziparate.json](./218122-ziparate.json) |
 | Zipper Amusement Ride | 104668 | [104668-zipper-amusement-ride.json](./104668-zipper-amusement-ride.json) |
+| Zippy Zombi | 73813 | [73813-zippy-zombi.json](./73813-zippy-zombi.json) |
 | Zodiac Online | 93558 | [93558-zodiac-online.json](./93558-zodiac-online.json) |
 | Zodiakalik | 161363 | [161363-zodiakalik.json](./161363-zodiakalik.json) |
 | Zodiarc | 331135 | [331135-zodiarc.json](./331135-zodiarc.json) |
@@ -140,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zomzoms | 130381 | [130381-zomzoms.json](./130381-zomzoms.json) |
 | Zone 300 | 255337 | [255337-zone-300.json](./255337-zone-300.json) |
 | Zone 400 | 255338 | [255338-zone-400.json](./255338-zone-400.json) |
+| Zone 66 | 73826 | [73826-zone-66.json](./73826-zone-66.json) |
 | Zone B Korosu | 161391 | [161391-zone-b-korosu.json](./161391-zone-b-korosu.json) |
 | Zoo Explorers | 170026 | [170026-zoo-explorers.json](./170026-zoo-explorers.json) |
 | Zoo Vet | 79929 | [79929-zoo-vet.json](./79929-zoo-vet.json) |
