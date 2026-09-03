@@ -729,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VII: Deluxe Edition | 315854 | [315854-sid-meiers-civilization-vii-deluxe-edition.json](./315854-sid-meiers-civilization-vii-deluxe-edition.json) |
 | Sid Meier's Civilization VII: Founders Edition | 315853 | [315853-sid-meiers-civilization-vii-founders-edition.json](./315853-sid-meiers-civilization-vii-founders-edition.json) |
 | Side by Side Special | 93055 | [93055-side-by-side-special.json](./93055-side-by-side-special.json) |
+| Side Kicks! | 69322 | [69322-side-kicks.json](./69322-side-kicks.json) |
 | Sidelined Futures | 308540 | [308540-sidelined-futures.json](./308540-sidelined-futures.json) |
 | Sidewinder Max | 322940 | [322940-sidewinder-max.json](./322940-sidewinder-max.json) |
 | Siegius | 319986 | [319986-siegius.json](./319986-siegius.json) |
@@ -1065,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snares of Ruin Zero | 112352 | [112352-snares-of-ruin-zero.json](./112352-snares-of-ruin-zero.json) |
 | Snatcher | 197937 | [197937-snatcher.json](./197937-snatcher.json) |
 | Sneak In | 117071 | [117071-sneak-in.json](./117071-sneak-in.json) |
+| Sneaky Bears | 69320 | [69320-sneaky-bears.json](./69320-sneaky-bears.json) |
 | Sneaky Kitten | 156650 | [156650-sneaky-kitten.json](./156650-sneaky-kitten.json) |
 | Sneaky Seekers | 253609 | [253609-sneaky-seekers.json](./253609-sneaky-seekers.json) |
 | SnekMP | 226442 | [226442-snekmp.json](./226442-snekmp.json) |
@@ -1863,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steve Magal: Fists of Brutal Truth | 341888 | [341888-steve-magal-fists-of-brutal-truth.json](./341888-steve-magal-fists-of-brutal-truth.json) |
 | Steve Reich’s Clapping Music | 312322 | [312322-steve-reich-s-clapping-music.json](./312322-steve-reich-s-clapping-music.json) |
 | Steve: Operation Nuts | 295010 | [295010-steve-operation-nuts.json](./295010-steve-operation-nuts.json) |
+| Stick Arena Ballistick | 69277 | [69277-stick-arena-ballistick.json](./69277-stick-arena-ballistick.json) |
 | Stick City Run 2 By Lettu Games | 232160 | [232160-stick-city-run-2-by-lettu-games.json](./232160-stick-city-run-2-by-lettu-games.json) |
 | Stick Tennis | 277566 | [277566-stick-tennis.json](./277566-stick-tennis.json) |
 | Stick Tennis Tour | 261513 | [261513-stick-tennis-tour.json](./261513-stick-tennis-tour.json) |
@@ -1985,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striden | 237059 | [237059-striden.json](./237059-striden.json) |
 | Strife: Veteran Edition | 147967 | [147967-strife-veteran-edition.json](./147967-strife-veteran-edition.json) |
 | Strike Buster | 339656 | [339656-strike-buster.json](./339656-strike-buster.json) |
+| Strike Witches: Doki! Otome Darake no Jouriku Sakusen | 69278 | [69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json](./69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json) |
 | StrikeNet | 339655 | [339655-strikenet.json](./339655-strikenet.json) |
 | Strip Breaker: Hentai Girls | 109695 | [109695-strip-breaker-hentai-girls.json](./109695-strip-breaker-hentai-girls.json) |
 | Strip Fighter 5: Chimpocon Edition | 185648 | [185648-strip-fighter-5-chimpocon-edition.json](./185648-strip-fighter-5-chimpocon-edition.json) |
@@ -2486,6 +2490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suul | 312915 | [312915-suul.json](./312915-suul.json) |
 | Suvarnabhumi Mahayuth | 214752 | [214752-suvarnabhumi-mahayuth.json](./214752-suvarnabhumi-mahayuth.json) |
 | Suzume: Match 3 Puzzle | 255336 | [255336-suzume-match-3-puzzle.json](./255336-suzume-match-3-puzzle.json) |
+| Suzumiya Haruhi no Gekidou | 69295 | [69295-suzumiya-haruhi-no-gekidou.json](./69295-suzumiya-haruhi-no-gekidou.json) |
 | Suzumiya Haruhi no Tomadoi | 72709 | [72709-suzumiya-haruhi-no-tomadoi.json](./72709-suzumiya-haruhi-no-tomadoi.json) |
 | Sveerz | 201280 | [201280-sveerz.json](./201280-sveerz.json) |
 | Sven Bømwøllen | 93079 | [93079-sven-b-mw-llen.json](./93079-sven-b-mw-llen.json) |
