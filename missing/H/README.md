@@ -708,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoppe Chan: Punitto Shibotte Daibouken! | 222538 | [222538-hoppe-chan-punitto-shibotte-daibouken.json](./222538-hoppe-chan-punitto-shibotte-daibouken.json) |
 | Hopper | 144374 | [144374-hopper.json](./144374-hopper.json) |
 | Hoppup! | 141878 | [141878-hoppup.json](./141878-hoppup.json) |
+| Hopscotch | 68689 | [68689-hopscotch.json](./68689-hopscotch.json) |
 | Hopshot | 331129 | [331129-hopshot.json](./331129-hopshot.json) |
 | Hopy-ONE | 93037 | [93037-hopy-one.json](./93037-hopy-one.json) |
 | Horatama | 157159 | [157159-horatama.json](./157159-horatama.json) |
@@ -746,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Milf 4 | 192441 | [192441-hot-milf-4.json](./192441-hot-milf-4.json) |
 | Hot Milf 9 | 224222 | [224222-hot-milf-9.json](./224222-hot-milf-9.json) |
 | Hot Pool | 74454 | [74454-hot-pool.json](./74454-hot-pool.json) |
+| Hot Runback: VR Runner | 68656 | [68656-hot-runback-vr-runner.json](./68656-hot-runback-vr-runner.json) |
 | Hot Shots Soccer | 101570 | [101570-hot-shots-soccer.json](./101570-hot-shots-soccer.json) |
 | Hot Slide | 152920 | [152920-hot-slide.json](./152920-hot-slide.json) |
 | Hot Spring Hero | 171065 | [171065-hot-spring-hero.json](./171065-hot-spring-hero.json) |
