@@ -748,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Western Star 57X | 211406 | [211406-american-truck-simulator-western-star-57x.json](./211406-american-truck-simulator-western-star-57x.json) |
 | Americas Tower Simulator | 224756 | [224756-americas-tower-simulator.json](./224756-americas-tower-simulator.json) |
 | Amidst The Haze | 278677 | [278677-amidst-the-haze.json](./278677-amidst-the-haze.json) |
+| Amiga CD Football | 39037 | [39037-amiga-cd-football.json](./39037-amiga-cd-football.json) |
 | Amigo | 92505 | [92505-amigo.json](./92505-amigo.json) |
 | Amigo Pancho 2 | 331149 | [331149-amigo-pancho-2.json](./331149-amigo-pancho-2.json) |
 | Amina's Kitchen | 91980 | [91980-aminas-kitchen.json](./91980-aminas-kitchen.json) |
@@ -961,7 +962,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antigravity Racing | 239292 | [239292-antigravity-racing.json](./239292-antigravity-racing.json) |
 | Antimatter Elevator | 166759 | [166759-antimatter-elevator.json](./166759-antimatter-elevator.json) |
 | Antiphona no Seikahime: Tenshi no Score Op.A | 56523 | [56523-antiphona-no-seikahime-tenshi-no-score-op-a.json](./56523-antiphona-no-seikahime-tenshi-no-score-op-a.json) |
+| Antiquia Lost | 39009 | [39009-antiquia-lost.json](./39009-antiquia-lost.json) |
 | Antiriad | 45331 | [45331-antiriad.json](./45331-antiriad.json) |
+| AntiSquad Tactics | 38987 | [38987-antisquad-tactics.json](./38987-antisquad-tactics.json) |
 | Antonball Deluxe Lite | 153463 | [153463-antonball-deluxe-lite.json](./153463-antonball-deluxe-lite.json) |
 | Ants With Guns | 211436 | [211436-ants-with-guns.json](./211436-ants-with-guns.json) |
 | Anubis Clicker | 236535 | [236535-anubis-clicker.json](./236535-anubis-clicker.json) |
@@ -1033,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ar nosurge Plus: Ode to an Unborn Star - Limited Edition | 89915 | [89915-ar-nosurge-plus-ode-to-an-unborn-star-limited-edition.json](./89915-ar-nosurge-plus-ode-to-an-unborn-star-limited-edition.json) |
 | AR Race Car | 242215 | [242215-ar-race-car.json](./242215-ar-race-car.json) |
 | Aracnidium | 193462 | [193462-aracnidium.json](./193462-aracnidium.json) |
+| Aralon: Sword and Shadow | 38985 | [38985-aralon-sword-and-shadow.json](./38985-aralon-sword-and-shadow.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
 | Arc Seed | 244485 | [244485-arc-seed.json](./244485-arc-seed.json) |
 | Arc Style Solitaire | 62222 | [62222-arc-style-solitaire.json](./62222-arc-style-solitaire.json) |
@@ -1295,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Valhalla: A Fated Encounter | 228706 | [228706-assassins-creed-valhalla-a-fated-encounter.json](./228706-assassins-creed-valhalla-a-fated-encounter.json) |
 | Assassin's Creed Valhalla: River Raids | 228704 | [228704-assassins-creed-valhalla-river-raids.json](./228704-assassins-creed-valhalla-river-raids.json) |
 | Assassin's Creed: Lost Legacy | 78709 | [78709-assassins-creed-lost-legacy.json](./78709-assassins-creed-lost-legacy.json) |
+| Assassin's Creed: Origins - God's Edition | 39045 | [39045-assassins-creed-origins-gods-edition.json](./39045-assassins-creed-origins-gods-edition.json) |
 | Assassin's Creed: Syndicate - Gold Edition | 52626 | [52626-assassins-creed-syndicate-gold-edition.json](./52626-assassins-creed-syndicate-gold-edition.json) |
 | Assassin's Creed: Syndicate - Rooks Edition | 230499 | [230499-assassins-creed-syndicate-rooks-edition.json](./230499-assassins-creed-syndicate-rooks-edition.json) |
 | Assassination Classroom VR Balloon Challenge Time | 44611 | [44611-assassination-classroom-vr-balloon-challenge-time.json](./44611-assassination-classroom-vr-balloon-challenge-time.json) |
