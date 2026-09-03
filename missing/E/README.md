@@ -520,3 +520,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyeless | 269310 | [269310-eyeless.json](./269310-eyeless.json) |
 | EZ2on Reboot: R - Fortress Collaboration DLC | 256004 | [256004-ez2on-reboot-r-fortress-collaboration-dlc.json](./256004-ez2on-reboot-r-fortress-collaboration-dlc.json) |
 | Ezpz Saga | 174862 | [174862-ezpz-saga.json](./174862-ezpz-saga.json) |
+| Ezy | 94770 | [94770-ezy.json](./94770-ezy.json) |
