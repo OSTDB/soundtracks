@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefight | 121746 | [121746-firefight.json](./121746-firefight.json) |
 | Firefighter Connor | 266524 | [266524-firefighter-connor.json](./266524-firefighter-connor.json) |
 | Firefly | 55209 | [55209-firefly.json](./55209-firefly.json) |
+| Firefly Online Cortex | 35908 | [35908-firefly-online-cortex.json](./35908-firefly-online-cortex.json) |
 | FireFly Studios' Stronghold Warchest | 78021 | [78021-firefly-studios-stronghold-warchest.json](./78021-firefly-studios-stronghold-warchest.json) |
 | Firefly Witch | 275345 | [275345-firefly-witch.json](./275345-firefly-witch.json) |
 | FireJumpers Inferno: Full Version Unlock | 220864 | [220864-firejumpers-inferno-full-version-unlock.json](./220864-firejumpers-inferno-full-version-unlock.json) |
@@ -1007,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Machine Mania | 97369 | [97369-fruit-machine-mania.json](./97369-fruit-machine-mania.json) |
 | Fruit Postal Service | 119777 | [119777-fruit-postal-service.json](./119777-fruit-postal-service.json) |
 | Fruit Warrior AR | 241047 | [241047-fruit-warrior-ar.json](./241047-fruit-warrior-ar.json) |
+| Fruits Inc. Deluxe Pack | 35750 | [35750-fruits-inc-deluxe-pack.json](./35750-fruits-inc-deluxe-pack.json) |
 | FTD: Fixin' to Die | 177560 | [177560-ftd-fixin-to-die.json](./177560-ftd-fixin-to-die.json) |
 | Fuck Space! | 199085 | [199085-fuck-space.json](./199085-fuck-space.json) |
 | Fuck the Police | 159889 | [159889-fuck-the-police.json](./159889-fuck-the-police.json) |
