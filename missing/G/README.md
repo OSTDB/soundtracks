@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Business | 215902 | [215902-garden-business.json](./215902-garden-business.json) |
 | Garden of Coloured Lights | 107235 | [107235-garden-of-coloured-lights.json](./107235-garden-of-coloured-lights.json) |
 | Garden's Bane: DG's Quest | 208610 | [208610-gardens-bane-dgs-quest.json](./208610-gardens-bane-dgs-quest.json) |
+| Gardia | 39684 | [39684-gardia.json](./39684-gardia.json) |
 | Garenburg Woods | 75915 | [75915-garenburg-woods.json](./75915-garenburg-woods.json) |
 | Garfield 2: Royal Adventure | 309657 | [309657-garfield-2-royal-adventure.json](./309657-garfield-2-royal-adventure.json) |
 | Garfield Collection 2 in 1 | 340739 | [340739-garfield-collection-2-in-1.json](./340739-garfield-collection-2-in-1.json) |
@@ -834,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun & Girls.io | 200754 | [200754-gun-and-girls-io.json](./200754-gun-and-girls-io.json) |
 | Gun Blood Cowboy Duel | 103506 | [103506-gun-blood-cowboy-duel.json](./103506-gun-blood-cowboy-duel.json) |
 | Gun Factory Simulator | 326421 | [326421-gun-factory-simulator.json](./326421-gun-factory-simulator.json) |
+| Gun Frontier | 39681 | [39681-gun-frontier.json](./39681-gun-frontier.json) |
 | Gun Party | 158227 | [158227-gun-party.json](./158227-gun-party.json) |
 | Gun Priest | 116354 | [116354-gun-priest.json](./116354-gun-priest.json) |
 | Gun Raiders | 145040 | [145040-gun-raiders.json](./145040-gun-raiders.json) |
@@ -895,4 +897,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyossait | 42684 | [42684-gyossait.json](./42684-gyossait.json) |
 | Gyossait: Deluxe Edition | 134001 | [134001-gyossait-deluxe-edition.json](./134001-gyossait-deluxe-edition.json) |
 | Gyras: Rogue | 305540 | [305540-gyras-rogue.json](./305540-gyras-rogue.json) |
+| Gyrodine | 39682 | [39682-gyrodine.json](./39682-gyrodine.json) |
 | Gythol Granditti: The Crypt of Darkness | 120411 | [120411-gythol-granditti-the-crypt-of-darkness.json](./120411-gythol-granditti-the-crypt-of-darkness.json) |
