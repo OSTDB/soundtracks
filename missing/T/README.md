@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew: Wild Run Edition | 166227 | [166227-the-crew-wild-run-edition.json](./166227-the-crew-wild-run-edition.json) |
 | The Crisis Zone | 257117 | [257117-the-crisis-zone.json](./257117-the-crisis-zone.json) |
 | The Croaker: The Ice | 306058 | [306058-the-croaker-the-ice.json](./306058-the-croaker-the-ice.json) |
+| The Croods: Prehistoric Party and Rise of the Guardians Combo Pack | 79313 | [79313-the-croods-prehistoric-party-and-rise-of-the-guardians-combo-pack.json](./79313-the-croods-prehistoric-party-and-rise-of-the-guardians-combo-pack.json) |
 | The Crows | 326985 | [326985-the-crows.json](./326985-the-crows.json) |
 | The Crystal Rainforest | 151716 | [151716-the-crystal-rainforest.json](./151716-the-crystal-rainforest.json) |
 | The Cult: Marduk's Longest Night | 121742 | [121742-the-cult-marduks-longest-night.json](./121742-the-cult-marduks-longest-night.json) |
@@ -796,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunt for the Chocolate Egg | 215376 | [215376-the-hunt-for-the-chocolate-egg.json](./215376-the-hunt-for-the-chocolate-egg.json) |
 | The Hunt for the Lost Treasure | 88284 | [88284-the-hunt-for-the-lost-treasure.json](./88284-the-hunt-for-the-lost-treasure.json) |
 | The I of It | 225292 | [225292-the-i-of-it.json](./225292-the-i-of-it.json) |
+| The Idolmaster: Gravure for You! Vol. 8 | 79352 | [79352-the-idolmaster-gravure-for-you-vol-8.json](./79352-the-idolmaster-gravure-for-you-vol-8.json) |
 | The Idolmaster: Shiny Colors | 97876 | [97876-the-idolmaster-shiny-colors.json](./97876-the-idolmaster-shiny-colors.json) |
 | The IL Tempo Game | 83601 | [83601-the-il-tempo-game.json](./83601-the-il-tempo-game.json) |
 | The Illusory Abyss | 118368 | [118368-the-illusory-abyss.json](./118368-the-illusory-abyss.json) |
@@ -1800,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Yamanote Boys Super Mint Disc | 221953 | [221953-tokyo-yamanote-boys-super-mint-disc.json](./221953-tokyo-yamanote-boys-super-mint-disc.json) |
 | Tokyo Yamanote Boys Sweet Jelly Beans Disc | 221960 | [221960-tokyo-yamanote-boys-sweet-jelly-beans-disc.json](./221960-tokyo-yamanote-boys-sweet-jelly-beans-disc.json) |
 | Told God-The Legacy of Cthulhu | 100813 | [100813-told-god-the-legacy-of-cthulhu.json](./100813-told-god-the-legacy-of-cthulhu.json) |
+| Tom & Jerry MMO | 79312 | [79312-tom-and-jerry-mmo.json](./79312-tom-and-jerry-mmo.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Deep State | 138783 | [138783-tom-clancys-ghost-recon-breakpoint-deep-state.json](./138783-tom-clancys-ghost-recon-breakpoint-deep-state.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Deluxe Edition | 173793 | [173793-tom-clancys-ghost-recon-breakpoint-deluxe-edition.json](./173793-tom-clancys-ghost-recon-breakpoint-deluxe-edition.json) |
 | Tom Clancy's Ghost Recon: Frontline | 174907 | [174907-tom-clancys-ghost-recon-frontline.json](./174907-tom-clancys-ghost-recon-frontline.json) |
@@ -1844,6 +1847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomodachii | 332803 | [332803-tomodachii.json](./332803-tomodachii.json) |
 | Tomorrow | 171070 | [171070-tomorrow.json](./171070-tomorrow.json) |
 | Tomotoru: Hello Kitty Happy Life | 188628 | [188628-tomotoru-hello-kitty-happy-life.json](./188628-tomotoru-hello-kitty-happy-life.json) |
+| Tomy Car Drive Shutsudou! Kinkyuu Sharyou-hen | 79319 | [79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json](./79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json) |
 | Tonari ni Kanojo no Iru Shiawase: Winter Guest | 142444 | [142444-tonari-ni-kanojo-no-iru-shiawase-winter-guest.json](./142444-tonari-ni-kanojo-no-iru-shiawase-winter-guest.json) |
 | Tongari Boushi to Mahou no Machi | 109053 | [109053-tongari-boushi-to-mahou-no-machi.json](./109053-tongari-boushi-to-mahou-no-machi.json) |
 | Tongari Boushi to Mahou no Omise | 109055 | [109055-tongari-boushi-to-mahou-no-omise.json](./109055-tongari-boushi-to-mahou-no-omise.json) |
@@ -2338,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turnabout Turnabout | 318787 | [318787-turnabout-turnabout.json](./318787-turnabout-turnabout.json) |
 | Turnabouts of the Father | 303254 | [303254-turnabouts-of-the-father.json](./303254-turnabouts-of-the-father.json) |
 | Turochamp | 232670 | [232670-turochamp.json](./232670-turochamp.json) |
+| Turtle Bay | 79302 | [79302-turtle-bay.json](./79302-turtle-bay.json) |
 | Turtle Evolution | 239346 | [239346-turtle-evolution.json](./239346-turtle-evolution.json) |
 | Tutorial | 231092 | [231092-tutorial.json](./231092-tutorial.json) |
 | Tux, of Math Command | 242812 | [242812-tux-of-math-command.json](./242812-tux-of-math-command.json) |
