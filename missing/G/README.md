@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangsta Underground: The Poker | 132263 | [132263-gangsta-underground-the-poker.json](./132263-gangsta-underground-the-poker.json) |
 | Ganz Schön Clever | 105957 | [105957-ganz-schon-clever.json](./105957-ganz-schon-clever.json) |
 | Garbage Truck Driving Simulator | 256561 | [256561-garbage-truck-driving-simulator.json](./256561-garbage-truck-driving-simulator.json) |
+| Garbage Truck: Brushy Pick Up | 87273 | [87273-garbage-truck-brushy-pick-up.json](./87273-garbage-truck-brushy-pick-up.json) |
 | Garden | 185675 | [185675-garden.json](./185675-garden.json) |
 | Garden Box | 314675 | [314675-garden-box.json](./314675-garden-box.json) |
 | Garden Business | 215902 | [215902-garden-business.json](./215902-garden-business.json) |
@@ -613,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Steel | 161361 | [161361-green-steel.json](./161361-green-steel.json) |
 | Green Wind | 209638 | [209638-green-wind.json](./209638-green-wind.json) |
 | Green Zone | 254768 | [254768-green-zone.json](./254768-green-zone.json) |
+| GreenChess | 87293 | [87293-greenchess.json](./87293-greenchess.json) |
 | Greener Grass Awaits | 266490 | [266490-greener-grass-awaits.json](./266490-greener-grass-awaits.json) |
 | Greenfeet Haven | 291781 | [291781-greenfeet-haven.json](./291781-greenfeet-haven.json) |
 | Greengrocer Simulator 2024 | 326419 | [326419-greengrocer-simulator-2024.json](./326419-greengrocer-simulator-2024.json) |
