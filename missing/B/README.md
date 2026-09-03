@@ -300,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Arena Toshinden 2 Plus | 225276 | [225276-battle-arena-toshinden-2-plus.json](./225276-battle-arena-toshinden-2-plus.json) |
 | Battle Babes: Lightning | 309649 | [309649-battle-babes-lightning.json](./309649-battle-babes-lightning.json) |
 | Battle Bean | 291239 | [291239-battle-bean.json](./291239-battle-bean.json) |
+| Battle Bears Pro | 61668 | [61668-battle-bears-pro.json](./61668-battle-bears-pro.json) |
 | Battle Bits | 333392 | [333392-battle-bits.json](./333392-battle-bits.json) |
 | Battle Blocks | 137660 | [137660-battle-blocks.json](./137660-battle-blocks.json) |
 | Battle Capacity | 332815 | [332815-battle-capacity.json](./332815-battle-capacity.json) |
@@ -434,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania Append 5thMix: Time to Get Down | 70994 | [70994-beatmania-append-5thmix-time-to-get-down.json](./70994-beatmania-append-5thmix-time-to-get-down.json) |
 | Beatmania Append Gottamix 2: Going Global | 292855 | [292855-beatmania-append-gottamix-2-going-global.json](./292855-beatmania-append-gottamix-2-going-global.json) |
 | beatmania complete MIX | 94744 | [94744-beatmania-complete-mix.json](./94744-beatmania-complete-mix.json) |
+| Beatmania IIDX 20 Tricoro | 61664 | [61664-beatmania-iidx-20-tricoro.json](./61664-beatmania-iidx-20-tricoro.json) |
 | Beatmania IIDX 31 Epolis | 258714 | [258714-beatmania-iidx-31-epolis.json](./258714-beatmania-iidx-31-epolis.json) |
 | Beauties Academy: Spellcraft Tournament | 211429 | [211429-beauties-academy-spellcraft-tournament.json](./211429-beauties-academy-spellcraft-tournament.json) |
 | Beauties Unveiled 2: CEO 69 Edition | 315874 | [315874-beauties-unveiled-2-ceo-69-edition.json](./315874-beauties-unveiled-2-ceo-69-edition.json) |
@@ -969,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bou Ningen Challenge! | 222520 | [222520-bou-ningen-challenge.json](./222520-bou-ningen-challenge.json) |
 | Bouhou Koumakyou 2 | 204075 | [204075-bouhou-koumakyou-2.json](./204075-bouhou-koumakyou-2.json) |
 | Bouhou Youyoumu | 204076 | [204076-bouhou-youyoumu.json](./204076-bouhou-youyoumu.json) |
+| Boulder Boy | 61639 | [61639-boulder-boy.json](./61639-boulder-boy.json) |
 | Boulder Match 4 | 66673 | [66673-boulder-match-4.json](./66673-boulder-match-4.json) |
 | Bounce Ball | 68653 | [68653-bounce-ball.json](./68653-bounce-ball.json) |
 | Bounce Boing Voyage | 245006 | [245006-bounce-boing-voyage.json](./245006-bounce-boing-voyage.json) |
