@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W4RR-i/o-RS | 75910 | [75910-w4rr-i-o-rs.json](./75910-w4rr-i-o-rs.json) |
 | Wabash Cannonball | 175415 | [175415-wabash-cannonball.json](./175415-wabash-cannonball.json) |
 | Wacky Chariots | 196887 | [196887-wacky-chariots.json](./196887-wacky-chariots.json) |
+| Wages of War: The Business of Battle | 70982 | [70982-wages-of-war-the-business-of-battle.json](./70982-wages-of-war-the-business-of-battle.json) |
 | Wai-Wai Monster Land | 292845 | [292845-wai-wai-monster-land.json](./292845-wai-wai-monster-land.json) |
 | Wai-wai! Minna de Challenge | 220355 | [220355-wai-wai-minna-de-challenge.json](./220355-wai-wai-minna-de-challenge.json) |
 | Waifu | 338556 | [338556-waifu.json](./338556-waifu.json) |
@@ -249,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Outside | 278729 | [278729-whats-outside.json](./278729-whats-outside.json) |
 | What's Shenmue? | 93595 | [93595-whats-shenmue.json](./93595-whats-shenmue.json) |
 | What's Updog | 228066 | [228066-whats-updog.json](./228066-whats-updog.json) |
+| Wheel of Fortune | 70959 | [70959-wheel-of-fortune.json](./70959-wheel-of-fortune.json) |
 | Wheel of Fortune Cookie | 100898 | [100898-wheel-of-fortune-cookie.json](./100898-wheel-of-fortune-cookie.json) |
 | Wheel of Fortune Daily | 321140 | [321140-wheel-of-fortune-daily.json](./321140-wheel-of-fortune-daily.json) |
 | Wheel of Fortune: New Second Edition | 209617 | [209617-wheel-of-fortune-new-second-edition.json](./209617-wheel-of-fortune-new-second-edition.json) |
