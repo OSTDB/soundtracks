@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurig Escape | 117768 | [117768-jurig-escape.json](./117768-jurig-escape.json) |
 | Just A Dream | 304894 | [304894-just-a-dream.json](./304894-just-a-dream.json) |
 | Just A Game | 167864 | [167864-just-a-game.json](./167864-just-a-game.json) |
+| Just a Jumping Square | 87186 | [87186-just-a-jumping-square.json](./87186-just-a-jumping-square.json) |
 | Just a Lullaby | 305522 | [305522-just-a-lullaby.json](./305522-just-a-lullaby.json) |
 | Just Another Christmas | 272033 | [272033-just-another-christmas.json](./272033-just-another-christmas.json) |
 | Just another generic: FPS | 291219 | [291219-just-another-generic-fps.json](./291219-just-another-generic-fps.json) |
