@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Wagon | 254763 | [254763-happy-wagon.json](./254763-happy-wagon.json) |
 | HappyFamily - Cut Knife | 100866 | [100866-happyfamily-cut-knife.json](./100866-happyfamily-cut-knife.json) |
 | HappySnowMan | 236540 | [236540-happysnowman.json](./236540-happysnowman.json) |
+| Harbinger | 51230 | [51230-harbinger.json](./51230-harbinger.json) |
 | Harbinger's Horse GT | 183586 | [183586-harbingers-horse-gt.json](./183586-harbingers-horse-gt.json) |
 | Harborland de Tsukamaete | 317009 | [317009-harborland-de-tsukamaete.json](./317009-harborland-de-tsukamaete.json) |
 | Hard Ball Wikie | 196890 | [196890-hard-ball-wikie.json](./196890-hard-ball-wikie.json) |
