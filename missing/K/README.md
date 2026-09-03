@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightfall Showdown | 322969 | [322969-knightfall-showdown.json](./322969-knightfall-showdown.json) |
 | Knightmare | 163950 | [163950-knightmare.json](./163950-knightmare.json) |
 | Knightmare Gold | 259255 | [259255-knightmare-gold.json](./259255-knightmare-gold.json) |
+| KnightQuest | 95427 | [95427-knightquest.json](./95427-knightquest.json) |
 | Knights & Guns: Grand Edition | 315860 | [315860-knights-and-guns-grand-edition.json](./315860-knights-and-guns-grand-edition.json) |
 | Knights and Craftsmen | 223689 | [223689-knights-and-craftsmen.json](./223689-knights-and-craftsmen.json) |
 | Knights Conquest | 123060 | [123060-knights-conquest.json](./123060-knights-conquest.json) |
