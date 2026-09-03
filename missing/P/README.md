@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pia Carrot e Youkoso!! 2.2 | 62747 | [62747-pia-carrot-e-youkoso-2-2.json](./62747-pia-carrot-e-youkoso-2-2.json) |
 | Pia Carrot e Youkoso!! 3 | 62746 | [62746-pia-carrot-e-youkoso-3.json](./62746-pia-carrot-e-youkoso-3.json) |
 | Pia Carrot e Youkoso!! 3.3 | 62745 | [62745-pia-carrot-e-youkoso-3-3.json](./62745-pia-carrot-e-youkoso-3-3.json) |
+| Pia Carrot he Youkoso!! | 45955 | [45955-pia-carrot-he-youkoso.json](./45955-pia-carrot-he-youkoso.json) |
 | Pia Carrot he Youkoso!! 2 | 62748 | [62748-pia-carrot-he-youkoso-2.json](./62748-pia-carrot-he-youkoso-2.json) |
 | Pianista: The Legendary Virtuoso | 111040 | [111040-pianista-the-legendary-virtuoso.json](./111040-pianista-the-legendary-virtuoso.json) |
 | Piano: Learn and Play - Complete + | 328827 | [328827-piano-learn-and-play-complete.json](./328827-piano-learn-and-play-complete.json) |
@@ -1013,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers Legends | 63856 | [63856-power-rangers-legends.json](./63856-power-rangers-legends.json) |
 | Power Rangers: Battle for the Grid - Collector's Edition | 119069 | [119069-power-rangers-battle-for-the-grid-collectors-edition.json](./119069-power-rangers-battle-for-the-grid-collectors-edition.json) |
 | Power Rangers: Battle for the Grid - Digital Collector's Edition | 205276 | [205276-power-rangers-battle-for-the-grid-digital-collectors-edition.json](./205276-power-rangers-battle-for-the-grid-digital-collectors-edition.json) |
+| Power Slave | 45972 | [45972-power-slave.json](./45972-power-slave.json) |
 | Power Solenoid | 251845 | [251845-power-solenoid.json](./251845-power-solenoid.json) |
 | Powerama | 60582 | [60582-powerama.json](./60582-powerama.json) |
 | PowerHits: BattleTech | 69864 | [69864-powerhits-battletech.json](./69864-powerhits-battletech.json) |
@@ -1023,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerWash Simulator: The Muckingham Files 2 | 264337 | [264337-powerwash-simulator-the-muckingham-files-2.json](./264337-powerwash-simulator-the-muckingham-files-2.json) |
 | PowerWash Simulator: Warhammer 40,000 Content Pack | 251220 | [251220-powerwash-simulator-warhammer-40-000-content-pack.json](./251220-powerwash-simulator-warhammer-40-000-content-pack.json) |
 | PowerZ | 146317 | [146317-powerz.json](./146317-powerz.json) |
+| PQ: Practical Intelligence Quotient | 46019 | [46019-pq-practical-intelligence-quotient.json](./46019-pq-practical-intelligence-quotient.json) |
 | PQ: The Party Quiz Game | 94250 | [94250-pq-the-party-quiz-game.json](./94250-pq-the-party-quiz-game.json) |
 | Pray Game | 167306 | [167306-pray-game.json](./167306-pray-game.json) |
 | Pre-RON MI5 Bob | 71007 | [71007-pre-ron-mi5-bob.json](./71007-pre-ron-mi5-bob.json) |
@@ -1389,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Party: 10 Games | 100175 | [100175-puzzle-party-10-games.json](./100175-puzzle-party-10-games.json) |
 | Puzzle Pests | 174366 | [174366-puzzle-pests.json](./174366-puzzle-pests.json) |
 | Puzzle Quest Chapter 1: Battle of Gruulkar | 70416 | [70416-puzzle-quest-chapter-1-battle-of-gruulkar.json](./70416-puzzle-quest-chapter-1-battle-of-gruulkar.json) |
+| Puzzle Scape | 46021 | [46021-puzzle-scape.json](./46021-puzzle-scape.json) |
 | Puzzle Snake | 206382 | [206382-puzzle-snake.json](./206382-puzzle-snake.json) |
 | Puzzle Vacations: Italy | 322976 | [322976-puzzle-vacations-italy.json](./322976-puzzle-vacations-italy.json) |
 | Puzzle Wars | 337984 | [337984-puzzle-wars.json](./337984-puzzle-wars.json) |
