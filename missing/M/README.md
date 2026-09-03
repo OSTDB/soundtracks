@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Hunter | 189202 | [189202-metal-hunter.json](./189202-metal-hunter.json) |
 | Metal March | 228088 | [228088-metal-march.json](./228088-metal-march.json) |
 | Metal Max: Fireworks | 75850 | [75850-metal-max-fireworks.json](./75850-metal-max-fireworks.json) |
+| Metal Mech: Man & Machine | 48082 | [48082-metal-mech-man-and-machine.json](./48082-metal-mech-man-and-machine.json) |
 | Metal Pear | 302703 | [302703-metal-pear.json](./302703-metal-pear.json) |
 | Metal Rage: Defender of the Earth | 64966 | [64966-metal-rage-defender-of-the-earth.json](./64966-metal-rage-defender-of-the-earth.json) |
 | Metal Revolution | 114398 | [114398-metal-revolution.json](./114398-metal-revolution.json) |
@@ -1495,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MXGP 2021 | 175971 | [175971-mxgp-2021.json](./175971-mxgp-2021.json) |
 | My Anima Boy | 278731 | [278731-my-anima-boy.json](./278731-my-anima-boy.json) |
 | My Aquarium | 52598 | [52598-my-aquarium.json](./52598-my-aquarium.json) |
+| My Baby 3 & Friends | 48041 | [48041-my-baby-3-and-friends.json](./48041-my-baby-3-and-friends.json) |
 | My Billionaire Girlfriend | 220335 | [220335-my-billionaire-girlfriend.json](./220335-my-billionaire-girlfriend.json) |
 | My Boss Is Scaring Me | 341346 | [341346-my-boss-is-scaring-me.json](./341346-my-boss-is-scaring-me.json) |
 | My Brother the Sacrifice | 123643 | [123643-my-brother-the-sacrifice.json](./123643-my-brother-the-sacrifice.json) |
