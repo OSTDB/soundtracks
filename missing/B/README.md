@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Mogul 2008 | 72673 | [72673-baseball-mogul-2008.json](./72673-baseball-mogul-2008.json) |
 | Baseball Stars | 273094 | [273094-baseball-stars.json](./273094-baseball-stars.json) |
 | Baseball-e | 170006 | [170006-baseball-e.json](./170006-baseball-e.json) |
+| Basement | 68654 | [68654-basement.json](./68654-basement.json) |
 | Basemental Gangs | 259230 | [259230-basemental-gangs.json](./259230-basemental-gangs.json) |
 | Bases Loaded for Game Boy | 273096 | [273096-bases-loaded-for-game-boy.json](./273096-bases-loaded-for-game-boy.json) |
 | Bashtronaut | 263203 | [263203-bashtronaut.json](./263203-bashtronaut.json) |
@@ -533,6 +534,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Evil | 161365 | [161365-beyond-the-evil.json](./161365-beyond-the-evil.json) |
 | Beyond the Grove | 341905 | [341905-beyond-the-grove.json](./341905-beyond-the-grove.json) |
 | Beyond the Ice Palace II | 297231 | [297231-beyond-the-ice-palace-ii.json](./297231-beyond-the-ice-palace-ii.json) |
+| Beyond the Sunset | 68671 | [68671-beyond-the-sunset.json](./68671-beyond-the-sunset.json) |
+| Beyond the Wall of Stars | 68684 | [68684-beyond-the-wall-of-stars.json](./68684-beyond-the-wall-of-stars.json) |
 | BFGE | 114995 | [114995-bfge.json](./114995-bfge.json) |
 | Bibi & Tina: Das große Unwetter | 216453 | [216453-bibi-and-tina-das-gro-e-unwetter.json](./216453-bibi-and-tina-das-gro-e-unwetter.json) |
 | Bibi & Tina: Mikoschs großer Auftritt | 151206 | [151206-bibi-and-tina-mikoschs-gro-er-auftritt.json](./151206-bibi-and-tina-mikoschs-gro-er-auftritt.json) |
@@ -606,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Generations: Dialhex | 251173 | [251173-bit-generations-dialhex.json](./251173-bit-generations-dialhex.json) |
 | Bit Orchard: Animal Valley - Ultimate Edition | 208618 | [208618-bit-orchard-animal-valley-ultimate-edition.json](./208618-bit-orchard-animal-valley-ultimate-edition.json) |
 | Bit Orchard: Animal Valley - Ultra Ultimate | 271500 | [271500-bit-orchard-animal-valley-ultra-ultimate.json](./271500-bit-orchard-animal-valley-ultra-ultimate.json) |
+| Bitcoin Collector: Spinners Attack | 68665 | [68665-bitcoin-collector-spinners-attack.json](./68665-bitcoin-collector-spinners-attack.json) |
 | Bitcoin highway | 83587 | [83587-bitcoin-highway.json](./83587-bitcoin-highway.json) |
 | Bitcoin Mining Tycoon | 103469 | [103469-bitcoin-mining-tycoon.json](./103469-bitcoin-mining-tycoon.json) |
 | Bitcoin Trading Master: Simulator | 125433 | [125433-bitcoin-trading-master-simulator.json](./125433-bitcoin-trading-master-simulator.json) |
@@ -747,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockpost Mobile | 225875 | [225875-blockpost-mobile.json](./225875-blockpost-mobile.json) |
 | Blocks | 208625 | [208625-blocks.json](./208625-blocks.json) |
 | Blocks! | 295521 | [295521-blocks.json](./295521-blocks.json) |
+| Blocksworld | 68685 | [68685-blocksworld.json](./68685-blocksworld.json) |
 | Blockudoku | 227479 | [227479-blockudoku.json](./227479-blockudoku.json) |
 | Blocky Monsters Smash | 100195 | [100195-blocky-monsters-smash.json](./100195-blocky-monsters-smash.json) |
 | Blockz VS Ballz | 111013 | [111013-blockz-vs-ballz.json](./111013-blockz-vs-ballz.json) |
@@ -937,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bou Ningen Challenge! | 222520 | [222520-bou-ningen-challenge.json](./222520-bou-ningen-challenge.json) |
 | Bouhou Koumakyou 2 | 204075 | [204075-bouhou-koumakyou-2.json](./204075-bouhou-koumakyou-2.json) |
 | Bouhou Youyoumu | 204076 | [204076-bouhou-youyoumu.json](./204076-bouhou-youyoumu.json) |
+| Bounce Ball | 68653 | [68653-bounce-ball.json](./68653-bounce-ball.json) |
 | Bounce Boing Voyage | 245006 | [245006-bounce-boing-voyage.json](./245006-bounce-boing-voyage.json) |
 | Bounce Lounge | 233232 | [233232-bounce-lounge.json](./233232-bounce-lounge.json) |
 | Bounce Tales 64 | 135264 | [135264-bounce-tales-64.json](./135264-bounce-tales-64.json) |
