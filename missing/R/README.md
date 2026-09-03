@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| R-Shark | 40254 | [40254-r-shark.json](./40254-r-shark.json) |
 | R-Type II | 276500 | [276500-r-type-ii.json](./276500-r-type-ii.json) |
 | R.B.I. Baseball 2 | 48090 | [48090-r-b-i-baseball-2.json](./48090-r-b-i-baseball-2.json) |
 | R.I.C.A | 115013 | [115013-r-i-c-a.json](./115013-r-i-c-a.json) |
@@ -878,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguesphere | 297227 | [297227-roguesphere.json](./297227-roguesphere.json) |
 | Rogun Arena | 165046 | [165046-rogun-arena.json](./165046-rogun-arena.json) |
 | Rogunky | 333376 | [333376-rogunky.json](./333376-rogunky.json) |
+| Rohga: Armor Force | 40260 | [40260-rohga-armor-force.json](./40260-rohga-armor-force.json) |
 | Rohgah Armor Force | 94756 | [94756-rohgah-armor-force.json](./94756-rohgah-armor-force.json) |
 | Roka Blocks Game - Fun & Hexagon Puzzle | 57690 | [57690-roka-blocks-game-fun-and-hexagon-puzzle.json](./57690-roka-blocks-game-fun-and-hexagon-puzzle.json) |
 | Roko-Loko no Castelo do Ratozinger Remix | 78042 | [78042-roko-loko-no-castelo-do-ratozinger-remix.json](./78042-roko-loko-no-castelo-do-ratozinger-remix.json) |
@@ -1149,3 +1151,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rytmik World Music | 84906 | [84906-rytmik-world-music.json](./84906-rytmik-world-music.json) |
 | Rytmik: Rock Edition | 84905 | [84905-rytmik-rock-edition.json](./84905-rytmik-rock-edition.json) |
 | Rytmos | 158197 | [158197-rytmos.json](./158197-rytmos.json) |
+| Ryu Jin | 40253 | [40253-ryu-jin.json](./40253-ryu-jin.json) |
