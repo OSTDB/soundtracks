@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Adventure | 156145 | [156145-fantasy-adventure.json](./156145-fantasy-adventure.json) |
 | Fantasy Cascade: Episode 1 - Overspill | 218166 | [218166-fantasy-cascade-episode-1-overspill.json](./218166-fantasy-cascade-episode-1-overspill.json) |
 | Fantasy Dynasty: Le Château Deretic | 99639 | [99639-fantasy-dynasty-le-chateau-deretic.json](./99639-fantasy-dynasty-le-chateau-deretic.json) |
+| Fantasy ERA | 54463 | [54463-fantasy-era.json](./54463-fantasy-era.json) |
 | Fantasy Fighters: Historic Fighters | 209132 | [209132-fantasy-fighters-historic-fighters.json](./209132-fantasy-fighters-historic-fighters.json) |
 | Fantasy General II: Invasion Hero Edition | 124833 | [124833-fantasy-general-ii-invasion-hero-edition.json](./124833-fantasy-general-ii-invasion-hero-edition.json) |
 | Fantasy Girls | 310732 | [310732-fantasy-girls.json](./310732-fantasy-girls.json) |
