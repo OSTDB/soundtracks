@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NebuLeet | 304884 | [304884-nebuleet.json](./304884-nebuleet.json) |
 | Nebuli | 157720 | [157720-nebuli.json](./157720-nebuli.json) |
 | Necessary Bimbos | 185699 | [185699-necessary-bimbos.json](./185699-necessary-bimbos.json) |
+| Necessary Force | 68014 | [68014-necessary-force.json](./68014-necessary-force.json) |
 | Necogram | 243384 | [243384-necogram.json](./243384-necogram.json) |
 | Necro Defense | 113687 | [113687-necro-defense.json](./113687-necro-defense.json) |
 | NecroLand: Undead Corps | 127361 | [127361-necroland-undead-corps.json](./127361-necroland-undead-corps.json) |
