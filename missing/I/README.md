@@ -343,6 +343,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intercity Truck Simulator | 100814 | [100814-intercity-truck-simulator.json](./100814-intercity-truck-simulator.json) |
 | Intercolonies | 319352 | [319352-intercolonies.json](./319352-intercolonies.json) |
 | Intergalactic Defenders | 340757 | [340757-intergalactic-defenders.json](./340757-intergalactic-defenders.json) |
+| Intergalactic Galactic Dinosaur Banana | 85537 | [85537-intergalactic-galactic-dinosaur-banana.json](./85537-intergalactic-galactic-dinosaur-banana.json) |
+| Intergalactic Space Rescue | 85517 | [85517-intergalactic-space-rescue.json](./85517-intergalactic-space-rescue.json) |
 | Intergalacto-1 | 304369 | [304369-intergalacto-1.json](./304369-intergalacto-1.json) |
 | Interkosmos 2000 | 215398 | [215398-interkosmos-2000.json](./215398-interkosmos-2000.json) |
 | Internal Reaches 2 | 274192 | [274192-internal-reaches-2.json](./274192-internal-reaches-2.json) |
@@ -381,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invaders | 271990 | [271990-invaders.json](./271990-invaders.json) |
 | Invasão | 299473 | [299473-invasao.json](./299473-invasao.json) |
 | Invasion Eternity | 258218 | [258218-invasion-eternity.json](./258218-invasion-eternity.json) |
+| Invasion Force | 85518 | [85518-invasion-force.json](./85518-invasion-force.json) |
 | Invention 6 | 340759 | [340759-invention-6.json](./340759-invention-6.json) |
 | Invention 7 | 340760 | [340760-invention-7.json](./340760-invention-7.json) |
 | Inventor Labs | 94242 | [94242-inventor-labs.json](./94242-inventor-labs.json) |
@@ -476,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Not Me, It's My Basement | 176514 | [176514-its-not-me-its-my-basement.json](./176514-its-not-me-its-my-basement.json) |
 | It’s on the Mouse | 328244 | [328244-it-s-on-the-mouse.json](./328244-it-s-on-the-mouse.json) |
 | It's Raining Acorn! | 331136 | [331136-its-raining-acorn.json](./331136-its-raining-acorn.json) |
+| Italy 1990 | 85520 | [85520-italy-1990.json](./85520-italy-1990.json) |
 | Itch! | 143745 | [143745-itch.json](./143745-itch.json) |
 | Iteriba: Olokun's Wrath | 255355 | [255355-iteriba-olokuns-wrath.json](./255355-iteriba-olokuns-wrath.json) |
 | Iterria Zone | 171609 | [171609-iterria-zone.json](./171609-iterria-zone.json) |
