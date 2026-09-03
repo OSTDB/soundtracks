@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage March | 185155 | [185155-mage-march.json](./185155-mage-march.json) |
 | Maggotmania | 109041 | [109041-maggotmania.json](./109041-maggotmania.json) |
 | Magi: Mind Game | 197917 | [197917-magi-mind-game.json](./197917-magi-mind-game.json) |
+| Magia Para Todos | 86111 | [86111-magia-para-todos.json](./86111-magia-para-todos.json) |
 | Magia X: Leta | 172158 | [172158-magia-x-leta.json](./172158-magia-x-leta.json) |
 | Magic & Sanctuary | 219784 | [219784-magic-and-sanctuary.json](./219784-magic-and-sanctuary.json) |
 | Magic Book Auto Battler | 328257 | [328257-magic-book-auto-battler.json](./328257-magic-book-auto-battler.json) |
@@ -183,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malvin`s Prehistoric Adventures | 129228 | [129228-malvin-s-prehistoric-adventures.json](./129228-malvin-s-prehistoric-adventures.json) |
 | Malvirta Station | 271459 | [271459-malvirta-station.json](./271459-malvirta-station.json) |
 | Māmā, Bié Zǒu | 130930 | [130930-mama-bie-zou.json](./130930-mama-bie-zou.json) |
+| Mama's 2-Pack | 86075 | [86075-mamas-2-pack.json](./86075-mamas-2-pack.json) |
 | Mama's Farm: Match ‪3‬ | 144995 | [144995-mamas-farm-match-3.json](./144995-mamas-farm-match-3.json) |
 | Mamegoma 2: Uchi no Ko ga Ichiban! | 241032 | [241032-mamegoma-2-uchi-no-ko-ga-ichiban.json](./241032-mamegoma-2-uchi-no-ko-ga-ichiban.json) |
 | Mamegoma 3: Kawaii ga Ippai! | 241043 | [241043-mamegoma-3-kawaii-ga-ippai.json](./241043-mamegoma-3-kawaii-ga-ippai.json) |
