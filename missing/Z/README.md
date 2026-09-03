@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen 2212 A.D. | 275310 | [275310-zen-2212-a-d.json](./275310-zen-2212-a-d.json) |
 | Zen Cube | 163988 | [163988-zen-cube.json](./163988-zen-cube.json) |
 | Zen Fashion | 92510 | [92510-zen-fashion.json](./92510-zen-fashion.json) |
+| Zen Fish Simulator | 60551 | [60551-zen-fish-simulator.json](./60551-zen-fish-simulator.json) |
 | Zen Koi 2 | 90702 | [90702-zen-koi-2.json](./90702-zen-koi-2.json) |
 | Zen Match | 185681 | [185681-zen-match.json](./185681-zen-match.json) |
 | Zen Wars | 200187 | [200187-zen-wars.json](./200187-zen-wars.json) |
@@ -92,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodiarc Ring | 331146 | [331146-zodiarc-ring.json](./331146-zodiarc-ring.json) |
 | ZodiaX | 259849 | [259849-zodiax.json](./259849-zodiax.json) |
 | Zoids: The Battle Begins | 75873 | [75873-zoids-the-battle-begins.json](./75873-zoids-the-battle-begins.json) |
+| Zoku Mikagura Shoujo Tanteidan: Kanketsuhen | 60574 | [60574-zoku-mikagura-shoujo-tanteidan-kanketsuhen.json](./60574-zoku-mikagura-shoujo-tanteidan-kanketsuhen.json) |
 | Zolaris | 153454 | [153454-zolaris.json](./153454-zolaris.json) |
 | Zombeat | 79946 | [79946-zombeat.json](./79946-zombeat.json) |
 | Zombidle | 70384 | [70384-zombidle.json](./70384-zombidle.json) |
