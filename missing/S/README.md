@@ -721,6 +721,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shmucker Casino 2: Purple Boog's Revenge | 270371 | [270371-shmucker-casino-2-purple-boogs-revenge.json](./270371-shmucker-casino-2-purple-boogs-revenge.json) |
 | Shnipers | 56484 | [56484-shnipers.json](./56484-shnipers.json) |
 | Shockwave | 48084 | [48084-shockwave.json](./48084-shockwave.json) |
+| Shodan Morita Shogi | 38372 | [38372-shodan-morita-shogi.json](./38372-shodan-morita-shogi.json) |
+| Shodankurai Nintei: Shodan Pro Mahjong | 38368 | [38368-shodankurai-nintei-shodan-pro-mahjong.json](./38368-shodankurai-nintei-shodan-pro-mahjong.json) |
 | Shogi Nyuumon | 126014 | [126014-shogi-nyuumon.json](./126014-shogi-nyuumon.json) |
 | Shogi Shodan Icchokusen | 42032 | [42032-shogi-shodan-icchokusen.json](./42032-shogi-shodan-icchokusen.json) |
 | Shogi Shoshisha Muyo | 42031 | [42031-shogi-shoshisha-muyo.json](./42031-shogi-shoshisha-muyo.json) |
@@ -1802,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SPQR: The Empire's Darkest Hour | 73328 | [73328-spqr-the-empires-darkest-hour.json](./73328-spqr-the-empires-darkest-hour.json) |
 | Sprawl 96 | 314636 | [314636-sprawl-96.json](./314636-sprawl-96.json) |
 | Spread Out! Hold Naar' Havok | 273632 | [273632-spread-out-hold-naar-havok.json](./273632-spread-out-hold-naar-havok.json) |
+| Spriggan Powered | 38358 | [38358-spriggan-powered.json](./38358-spriggan-powered.json) |
 | Sprill & Ritchie: Adventures in Time | 54420 | [54420-sprill-and-ritchie-adventures-in-time.json](./54420-sprill-and-ritchie-adventures-in-time.json) |
 | Sprill: The Mystery of the Bermuda Triangle | 54419 | [54419-sprill-the-mystery-of-the-bermuda-triangle.json](./54419-sprill-the-mystery-of-the-bermuda-triangle.json) |
 | Spring Catastrophe | 246652 | [246652-spring-catastrophe.json](./246652-spring-catastrophe.json) |
@@ -2419,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super gamebear with its three girlfriends | 112997 | [112997-super-gamebear-with-its-three-girlfriends.json](./112997-super-gamebear-with-its-three-girlfriends.json) |
 | Super Gridder | 57144 | [57144-super-gridder.json](./57144-super-gridder.json) |
 | Super Gussun Oyoyo | 42641 | [42641-super-gussun-oyoyo.json](./42641-super-gussun-oyoyo.json) |
+| Super Gussun Oyoyo 2 | 38385 | [38385-super-gussun-oyoyo-2.json](./38385-super-gussun-oyoyo-2.json) |
 | Super Head Esploder X | 87263 | [87263-super-head-esploder-x.json](./87263-super-head-esploder-x.json) |
 | Super Hentai Racers | 208629 | [208629-super-hentai-racers.json](./208629-super-hentai-racers.json) |
 | Super Hero Boy: A Platform Adventure | 248281 | [248281-super-hero-boy-a-platform-adventure.json](./248281-super-hero-boy-a-platform-adventure.json) |
@@ -2585,6 +2589,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Minecraft 64 DS | 270381 | [270381-super-minecraft-64-ds.json](./270381-super-minecraft-64-ds.json) |
 | Super MineSweeper | 309683 | [309683-super-minesweeper.json](./309683-super-minesweeper.json) |
 | Super Mombo Quest | 139438 | [139438-super-mombo-quest.json](./139438-super-mombo-quest.json) |
+| Super Momotaro Dentetsu DX | 38344 | [38344-super-momotaro-dentetsu-dx.json](./38344-super-momotaro-dentetsu-dx.json) |
+| Super Momotaro Dentetsu III | 38343 | [38343-super-momotaro-dentetsu-iii.json](./38343-super-momotaro-dentetsu-iii.json) |
 | Super Monkey Ball: Banana Rumble - Amy | 309079 | [309079-super-monkey-ball-banana-rumble-amy.json](./309079-super-monkey-ball-banana-rumble-amy.json) |
 | Super Monkey Ball: Banana Rumble - Crewmate | 330551 | [330551-super-monkey-ball-banana-rumble-crewmate.json](./330551-super-monkey-ball-banana-rumble-crewmate.json) |
 | Super Monkey Ball: Banana Rumble - Dole Logo Sticker Ball | 332227 | [332227-super-monkey-ball-banana-rumble-dole-logo-sticker-ball.json](./332227-super-monkey-ball-banana-rumble-dole-logo-sticker-ball.json) |
@@ -2632,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Goku Mod | 242815 | [242815-super-smash-bros-ultimate-goku-mod.json](./242815-super-smash-bros-ultimate-goku-mod.json) |
 | Super Smash Kart | 269293 | [269293-super-smash-kart.json](./269293-super-smash-kart.json) |
 | Super Soccer | 172784 | [172784-super-soccer.json](./172784-super-soccer.json) |
+| Super Soccer Champ | 38394 | [38394-super-soccer-champ.json](./38394-super-soccer-champ.json) |
 | Super Solvers: Gizmos & Gadgets! | 46647 | [46647-super-solvers-gizmos-and-gadgets.json](./46647-super-solvers-gizmos-and-gadgets.json) |
 | Super Solvers: Midnight Rescue! | 46646 | [46646-super-solvers-midnight-rescue.json](./46646-super-solvers-midnight-rescue.json) |
 | Super Sonic Cooking | 336357 | [336357-super-sonic-cooking.json](./336357-super-sonic-cooking.json) |
