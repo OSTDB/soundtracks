@@ -225,6 +225,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emily vs. the Unstable Creatures | 180853 | [180853-emily-vs-the-unstable-creatures.json](./180853-emily-vs-the-unstable-creatures.json) |
 | Emin's Journey | 291754 | [291754-emins-journey.json](./291754-emins-journey.json) |
 | Emma's Armaments | 213017 | [213017-emmas-armaments.json](./213017-emmas-armaments.json) |
+| Emmy II | 62195 | [62195-emmy-ii.json](./62195-emmy-ii.json) |
+| Emmy: The Funny Game | 62196 | [62196-emmy-the-funny-game.json](./62196-emmy-the-funny-game.json) |
 | Emoji Craft ! | 103503 | [103503-emoji-craft.json](./103503-emoji-craft.json) |
 | EmoteGuesser | 232687 | [232687-emoteguesser.json](./232687-emoteguesser.json) |
 | Emperium | 155661 | [155661-emperium.json](./155661-emperium.json) |
