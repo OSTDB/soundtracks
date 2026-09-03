@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| F-16 Multirole Fighter | 72715 | [72715-f-16-multirole-fighter.json](./72715-f-16-multirole-fighter.json) |
 | F-Rank Hero Story | 186323 | [186323-f-rank-hero-story.json](./186323-f-rank-hero-story.json) |
 | F-Zero X Climax | 135258 | [135258-f-zero-x-climax.json](./135258-f-zero-x-climax.json) |
 | F1 Circus MD | 125458 | [125458-f1-circus-md.json](./125458-f1-circus-md.json) |
@@ -754,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Girl Taming | 239318 | [239318-fox-girl-taming.json](./239318-fox-girl-taming.json) |
 | Fox Stories | 154566 | [154566-fox-stories.json](./154566-fox-stories.json) |
 | Fox-Trot Over Run | 130970 | [130970-fox-trot-over-run.json](./130970-fox-trot-over-run.json) |
+| Fox's Peter Pan & The Pirates: The Revenge of Captain Hook | 72710 | [72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json](./72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json) |
 | FoxHunt | 115719 | [115719-foxhunt.json](./115719-foxhunt.json) |
 | FoxRun | 340241 | [340241-foxrun.json](./340241-foxrun.json) |
 | Foxy Furry Lady of the Forest | 82919 | [82919-foxy-furry-lady-of-the-forest.json](./82919-foxy-furry-lady-of-the-forest.json) |
@@ -921,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full House Kiss | 97370 | [97370-full-house-kiss.json](./97370-full-house-kiss.json) |
 | Full Pitch | 115685 | [115685-full-pitch.json](./115685-full-pitch.json) |
 | Full Swing Golf | 299472 | [299472-full-swing-golf.json](./299472-full-swing-golf.json) |
+| Full Throttle: Hell on Wheels | 72722 | [72722-full-throttle-hell-on-wheels.json](./72722-full-throttle-hell-on-wheels.json) |
 | Full Voice Throttle | 181352 | [181352-full-voice-throttle.json](./181352-full-voice-throttle.json) |
 | Fúlóng: Tiānyuán Jìnglèi | 124214 | [124214-fulong-tianyuan-jinglei.json](./124214-fulong-tianyuan-jinglei.json) |
 | Funbag Fantasy: Sideboob Story | 127949 | [127949-funbag-fantasy-sideboob-story.json](./127949-funbag-fantasy-sideboob-story.json) |
