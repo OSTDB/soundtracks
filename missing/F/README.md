@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Pizza Land | 123615 | [123615-funny-pizza-land.json](./123615-funny-pizza-land.json) |
 | FunPack: Mums | 177052 | [177052-funpack-mums.json](./177052-funpack-mums.json) |
 | Funtagy of Doskebe | 82907 | [82907-funtagy-of-doskebe.json](./82907-funtagy-of-doskebe.json) |
+| Funtoon's World | 51964 | [51964-funtoons-world.json](./51964-funtoons-world.json) |
 | FunWar | 195757 | [195757-funwar.json](./195757-funwar.json) |
 | Fur Squadron | 226405 | [226405-fur-squadron.json](./226405-fur-squadron.json) |
 | Fura-fura Puzzrumia! | 204670 | [204670-fura-fura-puzzrumia.json](./204670-fura-fura-puzzrumia.json) |
