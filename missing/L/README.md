@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Seven Seas | 221406 | [221406-legends-of-seven-seas.json](./221406-legends-of-seven-seas.json) |
 | Legends of the Jedi | 228697 | [228697-legends-of-the-jedi.json](./228697-legends-of-the-jedi.json) |
 | Legends of the Mist | 201863 | [201863-legends-of-the-mist.json](./201863-legends-of-the-mist.json) |
+| Legends of Zork | 69302 | [69302-legends-of-zork.json](./69302-legends-of-zork.json) |
 | Legends Scrolls | 247215 | [247215-legends-scrolls.json](./247215-legends-scrolls.json) |
 | Legenne | 70381 | [70381-legenne.json](./70381-legenne.json) |
 | Legion of Judgment: Fallen Angel | 238755 | [238755-legion-of-judgment-fallen-angel.json](./238755-legion-of-judgment-fallen-angel.json) |
@@ -267,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Cook | 98445 | [98445-lets-cook.json](./98445-lets-cook.json) |
 | Let's Cook Together | 133455 | [133455-lets-cook-together.json](./133455-lets-cook-together.json) |
 | Let's Get Rich | 112316 | [112316-lets-get-rich.json](./112316-lets-get-rich.json) |
+| Let's Go Jungle!: Lost on the Island of Spice | 69304 | [69304-lets-go-jungle-lost-on-the-island-of-spice.json](./69304-lets-go-jungle-lost-on-the-island-of-spice.json) |
 | Let's Go! My Harem Farm | 278149 | [278149-lets-go-my-harem-farm.json](./278149-lets-go-my-harem-farm.json) |
 | Let's Learn Japanese! Complete Collection | 306696 | [306696-lets-learn-japanese-complete-collection.json](./306696-lets-learn-japanese-complete-collection.json) |
 | Let's Park: Backyard Edition | 214185 | [214185-lets-park-backyard-edition.json](./214185-lets-park-backyard-edition.json) |
@@ -567,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of the Click 3 | 197410 | [197410-lord-of-the-click-3.json](./197410-lord-of-the-click-3.json) |
 | Lords and Tactics | 247759 | [247759-lords-and-tactics.json](./247759-lords-and-tactics.json) |
 | Lords of Ravage | 204714 | [204714-lords-of-ravage.json](./204714-lords-of-ravage.json) |
+| Lore: Aftermath | 69274 | [69274-lore-aftermath.json](./69274-lore-aftermath.json) |
 | Loren the Amazon Princess: The Castle Of N'Mar | 171634 | [171634-loren-the-amazon-princess-the-castle-of-nmar.json](./171634-loren-the-amazon-princess-the-castle-of-nmar.json) |
 | Lost Abroad Café | 235450 | [235450-lost-abroad-cafe.json](./235450-lost-abroad-cafe.json) |
 | Lost Alone EP.1: Little Sister | 185649 | [185649-lost-alone-ep-1-little-sister.json](./185649-lost-alone-ep-1-little-sister.json) |
