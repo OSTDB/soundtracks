@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalzoon | 226450 | [226450-kalzoon.json](./226450-kalzoon.json) |
 | KaM Remake | 190698 | [190698-kam-remake.json](./190698-kam-remake.json) |
 | Kamek's Midnight Flight | 250035 | [250035-kameks-midnight-flight.json](./250035-kameks-midnight-flight.json) |
+| Kamen Rider Agito & Kuuga: Wild Battle | 62742 | [62742-kamen-rider-agito-and-kuuga-wild-battle.json](./62742-kamen-rider-agito-and-kuuga-wild-battle.json) |
 | Kamen Rider Battle Rush | 304337 | [304337-kamen-rider-battle-rush.json](./304337-kamen-rider-battle-rush.json) |
 | Kami Kamera | 341881 | [341881-kami-kamera.json](./341881-kami-kamera.json) |
 | Kami no Me no Aeon: Zenpen | 341326 | [341326-kami-no-me-no-aeon-zenpen.json](./341326-kami-no-me-no-aeon-zenpen.json) |
