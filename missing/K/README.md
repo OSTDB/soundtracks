@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyhole Spy: Fantasy Passion | 110382 | [110382-keyhole-spy-fantasy-passion.json](./110382-keyhole-spy-fantasy-passion.json) |
 | Keyhole Spy: Lots of Girls | 110383 | [110383-keyhole-spy-lots-of-girls.json](./110383-keyhole-spy-lots-of-girls.json) |
 | Keystone Library | 226428 | [226428-keystone-library.json](./226428-keystone-library.json) |
+| KeyWords | 72079 | [72079-keywords.json](./72079-keywords.json) |
 | Khatyrka: Prelude | 229967 | [229967-khatyrka-prelude.json](./229967-khatyrka-prelude.json) |
 | Khemia | 136460 | [136460-khemia.json](./136460-khemia.json) |
 | Khio | 136458 | [136458-khio.json](./136458-khio.json) |
