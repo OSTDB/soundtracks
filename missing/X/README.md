@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XI O'Clock | 341878 | [341878-xi-oclock.json](./341878-xi-oclock.json) |
 | Xiàngsù Nányǒu Yǔyīn: Wánzhěng Bǎn | 161382 | [161382-xiangsu-nanyou-yuyin-wanzheng-ban.json](./161382-xiangsu-nanyou-yuyin-wanzheng-ban.json) |
 | Xiào Ào Jiānghú 2 Wàizhuàn: Dōngfāng Zàiqǐ | 184095 | [184095-xiao-ao-jianghu-2-waizhuan-dongfang-zaiqi.json](./184095-xiao-ao-jianghu-2-waizhuan-dongfang-zaiqi.json) |
+| XII Stag | 43340 | [43340-xii-stag.json](./43340-xii-stag.json) |
 | Xin Juedai Shuangjiao 2 | 78051 | [78051-xin-juedai-shuangjiao-2.json](./78051-xin-juedai-shuangjiao-2.json) |
 | Xin Juedai Shuangjiao 3 | 68688 | [68688-xin-juedai-shuangjiao-3.json](./68688-xin-juedai-shuangjiao-3.json) |
 | Xìngcúnzhě Lèyuán | 165655 | [165655-xingcunzhe-leyuan.json](./165655-xingcunzhe-leyuan.json) |
@@ -88,4 +89,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XXZ: XXL - Rush | 170506 | [170506-xxz-xxl-rush.json](./170506-xxz-xxl-rush.json) |
 | XXZ: XXL - Squad | 170508 | [170508-xxz-xxl-squad.json](./170508-xxz-xxl-squad.json) |
 | XXZ: XXL - Squad Trial | 170507 | [170507-xxz-xxl-squad-trial.json](./170507-xxz-xxl-squad-trial.json) |
+| Xyanide Resurrection | 43342 | [43342-xyanide-resurrection.json](./43342-xyanide-resurrection.json) |
 | X遊戲 | 163986 | [163986-x.json](./163986-x.json) |
