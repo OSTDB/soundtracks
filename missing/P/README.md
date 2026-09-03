@@ -1332,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle: Ultimate - Puzzle Pack: Flowers | 163435 | [163435-puzzle-ultimate-puzzle-pack-flowers.json](./163435-puzzle-ultimate-puzzle-pack-flowers.json) |
 | Puzzle: Ultimate - Puzzle Pack: Space | 163434 | [163434-puzzle-ultimate-puzzle-pack-space.json](./163434-puzzle-ultimate-puzzle-pack-space.json) |
 | Puzzle: Ultimate - Puzzle Pack: Valley | 163431 | [163431-puzzle-ultimate-puzzle-pack-valley.json](./163431-puzzle-ultimate-puzzle-pack-valley.json) |
+| Puzzle! Mushihimetama | 66102 | [66102-puzzle-mushihimetama.json](./66102-puzzle-mushihimetama.json) |
 | Puzzlebot Challenge | 138794 | [138794-puzzlebot-challenge.json](./138794-puzzlebot-challenge.json) |
 | Puzzled | 100211 | [100211-puzzled.json](./100211-puzzled.json) |
 | Puzzled Love | 180813 | [180813-puzzled-love.json](./180813-puzzled-love.json) |
