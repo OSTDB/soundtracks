@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z-MMO | 55919 | [55919-z-mmo.json](./55919-z-mmo.json) |
 | Z: Escape | 99647 | [99647-z-escape.json](./99647-z-escape.json) |
 | Z.O.M.B.I.E. | 163952 | [163952-z-o-m-b-i-e.json](./163952-z-o-m-b-i-e.json) |
+| Z69 | 51959 | [51959-z69.json](./51959-z69.json) |
 | ZaBaTa! | 235496 | [235496-zabata.json](./235496-zabata.json) |
 | Zaccaria Pinball: Postal 2 Table Pack | 215390 | [215390-zaccaria-pinball-postal-2-table-pack.json](./215390-zaccaria-pinball-postal-2-table-pack.json) |
 | Zach-Like | 119788 | [119788-zach-like.json](./119788-zach-like.json) |
