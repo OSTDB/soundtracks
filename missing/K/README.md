@@ -107,9 +107,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kattish | 218726 | [218726-kattish.json](./218726-kattish.json) |
 | Kattonauten | 180844 | [180844-kattonauten.json](./180844-kattonauten.json) |
 | Katyusha | 75917 | [75917-katyusha.json](./75917-katyusha.json) |
+| Kava Tina Story | 68020 | [68020-kava-tina-story.json](./68020-kava-tina-story.json) |
 | Kavalmaja | 128655 | [128655-kavalmaja.json](./128655-kavalmaja.json) |
 | KaveXplorer | 157179 | [157179-kavexplorer.json](./157179-kavexplorer.json) |
 | Kawaii Hentai Girls 2 | 203553 | [203553-kawaii-hentai-girls-2.json](./203553-kawaii-hentai-girls-2.json) |
+| Kawaii Koneko DS 2 | 68005 | [68005-kawaii-koneko-ds-2.json](./68005-kawaii-koneko-ds-2.json) |
 | Kawaii Solitaire 3 in 1 | 220872 | [220872-kawaii-solitaire-3-in-1.json](./220872-kawaii-solitaire-3-in-1.json) |
 | Kazekao | 340786 | [340786-kazekao.json](./340786-kazekao.json) |
 | Kazoku Minna no Nouryoku Trainer | 327595 | [327595-kazoku-minna-no-nouryoku-trainer.json](./327595-kazoku-minna-no-nouryoku-trainer.json) |
@@ -135,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ken's Labyrinth II | 309654 | [309654-kens-labyrinth-ii.json](./309654-kens-labyrinth-ii.json) |
 | Kenchana: Oath of a Magical Spear | 238756 | [238756-kenchana-oath-of-a-magical-spear.json](./238756-kenchana-oath-of-a-magical-spear.json) |
 | Kengohazard 2 | 118418 | [118418-kengohazard-2.json](./118418-kengohazard-2.json) |
+| KenKen: Train Your Brain | 68022 | [68022-kenken-train-your-brain.json](./68022-kenken-train-your-brain.json) |
 | Kenny's Adventure | 268204 | [268204-kennys-adventure.json](./268204-kennys-adventure.json) |
 | Kenophobia | 267103 | [267103-kenophobia.json](./267103-kenophobia.json) |
 | Kentucky Route Zero: Act V | 144981 | [144981-kentucky-route-zero-act-v.json](./144981-kentucky-route-zero-act-v.json) |
