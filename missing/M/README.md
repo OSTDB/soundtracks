@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maimai Milk Plus | 331132 | [331132-maimai-milk-plus.json](./331132-maimai-milk-plus.json) |
 | Main Action | 254777 | [254777-main-action.json](./254777-main-action.json) |
 | Mainly at Rest | 165669 | [165669-mainly-at-rest.json](./165669-mainly-at-rest.json) |
+| Maison Kanraku: The Second Climax | 59992 | [59992-maison-kanraku-the-second-climax.json](./59992-maison-kanraku-the-second-climax.json) |
 | Majestic Majolical vol. 1 | 240523 | [240523-majestic-majolical-vol-1.json](./240523-majestic-majolical-vol-1.json) |
 | Majin Tensei: Blind Thinker | 112319 | [112319-majin-tensei-blind-thinker.json](./112319-majin-tensei-blind-thinker.json) |
 | Majoneko | 252398 | [252398-majoneko.json](./252398-majoneko.json) |
@@ -1035,9 +1036,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Waifu H: Push-Box | 337988 | [337988-moe-waifu-h-push-box.json](./337988-moe-waifu-h-push-box.json) |
 | Moeboid | 77352 | [77352-moeboid.json](./77352-moeboid.json) |
 | Moemon Bonds | 336897 | [336897-moemon-bonds.json](./336897-moemon-bonds.json) |
+| Moero 7!! Judo Warriors | 59994 | [59994-moero-7-judo-warriors.json](./59994-moero-7-judo-warriors.json) |
 | Moero Chronicle Hyper | 114421 | [114421-moero-chronicle-hyper.json](./114421-moero-chronicle-hyper.json) |
 | Moero Chronicle: Deluxe Edition | 186878 | [186878-moero-chronicle-deluxe-edition.json](./186878-moero-chronicle-deluxe-edition.json) |
 | Moero Crystal H | 121766 | [121766-moero-crystal-h.json](./121766-moero-crystal-h.json) |
+| Moero!! Nettou Yakyuu '88 | 59990 | [59990-moero-nettou-yakyuu-88.json](./59990-moero-nettou-yakyuu-88.json) |
 | Mohism | 152378 | [152378-mohism.json](./152378-mohism.json) |
 | Moi Mei: Hidden Objects | 199655 | [199655-moi-mei-hidden-objects.json](./199655-moi-mei-hidden-objects.json) |
 | Moira | 182523 | [182523-moira.json](./182523-moira.json) |
@@ -1056,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole's World | 245050 | [245050-moles-world.json](./245050-moles-world.json) |
 | Moleshine Cooking Simulator | 237057 | [237057-moleshine-cooking-simulator.json](./237057-moleshine-cooking-simulator.json) |
 | Molly and the Gunmids | 185687 | [185687-molly-and-the-gunmids.json](./185687-molly-and-the-gunmids.json) |
+| Moments Out of Time | 60009 | [60009-moments-out-of-time.json](./60009-moments-out-of-time.json) |
 | Momibosu | 151726 | [151726-momibosu.json](./151726-momibosu.json) |
 | Momo's Conflict | 207526 | [207526-momos-conflict.json](./207526-momos-conflict.json) |
 | Momoe Link | 183052 | [183052-momoe-link.json](./183052-momoe-link.json) |
