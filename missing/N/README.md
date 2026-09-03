@@ -562,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norman | 60590 | [60590-norman.json](./60590-norman.json) |
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
 | NoRoY | 193490 | [193490-noroy.json](./193490-noroy.json) |
+| North American Hunting Extravaganza 2 | 50619 | [50619-north-american-hunting-extravaganza-2.json](./50619-north-american-hunting-extravaganza-2.json) |
 | North Stars | 102143 | [102143-north-stars.json](./102143-north-stars.json) |
 | Northbury Grove: Walls Closing In | 183062 | [183062-northbury-grove-walls-closing-in.json](./183062-northbury-grove-walls-closing-in.json) |
 | Northern Blade | 145643 | [145643-northern-blade.json](./145643-northern-blade.json) |
@@ -647,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nurikabe World | 310757 | [310757-nurikabe-world.json](./310757-nurikabe-world.json) |
 | Nurse Call: Koi no Nurse Call | 324135 | [324135-nurse-call-koi-no-nurse-call.json](./324135-nurse-call-koi-no-nurse-call.json) |
 | Nursery Rhyme | 69306 | [69306-nursery-rhyme.json](./69306-nursery-rhyme.json) |
+| Nushi Tsuri Adventure: Kite no Bouken | 50560 | [50560-nushi-tsuri-adventure-kite-no-bouken.json](./50560-nushi-tsuri-adventure-kite-no-bouken.json) |
 | Nutjitsu: Reforged | 52645 | [52645-nutjitsu-reforged.json](./52645-nutjitsu-reforged.json) |
 | Nuwe: First seeds | 199099 | [199099-nuwe-first-seeds.json](./199099-nuwe-first-seeds.json) |
 | NY City Bank Manager 2018 | 96725 | [96725-ny-city-bank-manager-2018.json](./96725-ny-city-bank-manager-2018.json) |
