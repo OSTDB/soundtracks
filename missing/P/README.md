@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet'n'Run | 325833 | [325833-petnrun.json](./325833-petnrun.json) |
 | Petadachi | 225876 | [225876-petadachi.json](./225876-petadachi.json) |
 | Petdise Tycoon | 242232 | [242232-petdise-tycoon.json](./242232-petdise-tycoon.json) |
+| Peter Shilton's Handball Maradona! | 73836 | [73836-peter-shiltons-handball-maradona.json](./73836-peter-shiltons-handball-maradona.json) |
 | Peter's Journey | 306096 | [306096-peters-journey.json](./306096-peters-journey.json) |
 | PetHotel | 101581 | [101581-pethotel.json](./101581-pethotel.json) |
 | Petite Wife Devotes Herself to You | 98438 | [98438-petite-wife-devotes-herself-to-you.json](./98438-petite-wife-devotes-herself-to-you.json) |
