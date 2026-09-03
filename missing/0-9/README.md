@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | >Connect | 124224 | [124224-connect.json](./124224-connect.json) |
 | 001 Earth | 191250 | [191250-001-earth.json](./191250-001-earth.json) |
 | 0927 | 316429 | [316429-0927.json](./316429-0927.json) |
+| 1 Ball 1 Cup | 59435 | [59435-1-ball-1-cup.json](./59435-1-ball-1-cup.json) |
 | 1 Hop | 171045 | [171045-1-hop.json](./171045-1-hop.json) |
 | 1 Meter | 327613 | [327613-1-meter.json](./327613-1-meter.json) |
 | 1 Screen Platformer 2 | 133473 | [133473-1-screen-platformer-2.json](./133473-1-screen-platformer-2.json) |
