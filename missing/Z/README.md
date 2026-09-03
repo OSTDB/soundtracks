@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodiarc Ring | 331146 | [331146-zodiarc-ring.json](./331146-zodiarc-ring.json) |
 | ZodiaX | 259849 | [259849-zodiax.json](./259849-zodiax.json) |
 | Zolaris | 153454 | [153454-zolaris.json](./153454-zolaris.json) |
+| Zombeat | 79946 | [79946-zombeat.json](./79946-zombeat.json) |
 | Zombie Age 3: Dead City | 312905 | [312905-zombie-age-3-dead-city.json](./312905-zombie-age-3-dead-city.json) |
 | Zombie Ants VR | 250003 | [250003-zombie-ants-vr.json](./250003-zombie-ants-vr.json) |
 | Zombie Apocalypse Survivor | 99616 | [99616-zombie-apocalypse-survivor.json](./99616-zombie-apocalypse-survivor.json) |
@@ -136,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone 400 | 255338 | [255338-zone-400.json](./255338-zone-400.json) |
 | Zone B Korosu | 161391 | [161391-zone-b-korosu.json](./161391-zone-b-korosu.json) |
 | Zoo Explorers | 170026 | [170026-zoo-explorers.json](./170026-zoo-explorers.json) |
+| Zoo Vet | 79929 | [79929-zoo-vet.json](./79929-zoo-vet.json) |
 | Zookeeper DX Touch Edition | 104109 | [104109-zookeeper-dx-touch-edition.json](./104109-zookeeper-dx-touch-edition.json) |
 | Zookeeper World | 170542 | [170542-zookeeper-world.json](./170542-zookeeper-world.json) |
 | Zoolovelogy | 236504 | [236504-zoolovelogy.json](./236504-zoolovelogy.json) |
@@ -149,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zort 9 | 274227 | [274227-zort-9.json](./274227-zort-9.json) |
 | Zotenhold | 236498 | [236498-zotenhold.json](./236498-zotenhold.json) |
 | Zotto suru Kowai Toshi Densetsu | 252406 | [252406-zotto-suru-kowai-toshi-densetsu.json](./252406-zotto-suru-kowai-toshi-densetsu.json) |
+| ZP2KX: Zombies and Pterodactyls 20XX | 79927 | [79927-zp2kx-zombies-and-pterodactyls-20xx.json](./79927-zp2kx-zombies-and-pterodactyls-20xx.json) |
 | ZPack: Random Maps for ZDoom | 260981 | [260981-zpack-random-maps-for-zdoom.json](./260981-zpack-random-maps-for-zdoom.json) |
 | ZpellCatz | 206340 | [206340-zpellcatz.json](./206340-zpellcatz.json) |
 | ZunderFury | 270411 | [270411-zunderfury.json](./270411-zunderfury.json) |
