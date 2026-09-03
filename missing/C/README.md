@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can Knockdown 3 | 96722 | [96722-can-knockdown-3.json](./96722-can-knockdown-3.json) |
 | Can of Wormholes | 211936 | [211936-can-of-wormholes.json](./211936-can-of-wormholes.json) |
 | Can We Start Over? | 321777 | [321777-can-we-start-over.json](./321777-can-we-start-over.json) |
+| Can You Eat by Yourself | 76660 | [76660-can-you-eat-by-yourself.json](./76660-can-you-eat-by-yourself.json) |
 | Can You Escape Modern Office | 167290 | [167290-can-you-escape-modern-office.json](./167290-can-you-escape-modern-office.json) |
 | Can't Stand The Heat | 295007 | [295007-cant-stand-the-heat.json](./295007-cant-stand-the-heat.json) |
 | Canada Break | 208582 | [208582-canada-break.json](./208582-canada-break.json) |
@@ -361,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chainsaw Juice King | 321143 | [321143-chainsaw-juice-king.json](./321143-chainsaw-juice-king.json) |
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
+| Challengers of Khalea | 76622 | [76622-challengers-of-khalea.json](./76622-challengers-of-khalea.json) |
 | Champ Invaders | 94248 | [94248-champ-invaders.json](./94248-champ-invaders.json) |
 | Champion Cup Goal 2 | 242220 | [242220-champion-cup-goal-2.json](./242220-champion-cup-goal-2.json) |
 | Championship Wrestling Promoter | 199124 | [199124-championship-wrestling-promoter.json](./199124-championship-wrestling-promoter.json) |
@@ -535,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Jumper Jam | 326981 | [326981-christmas-jumper-jam.json](./326981-christmas-jumper-jam.json) |
 | Christmas Luge | 236521 | [236521-christmas-luge.json](./236521-christmas-luge.json) |
 | Christmas Mansion | 100190 | [100190-christmas-mansion.json](./100190-christmas-mansion.json) |
+| Christmas Puzzle 3 | 76672 | [76672-christmas-puzzle-3.json](./76672-christmas-puzzle-3.json) |
 | Christmas Race | 322983 | [322983-christmas-race.json](./322983-christmas-race.json) |
 | Christmas Rhythm | 158219 | [158219-christmas-rhythm.json](./158219-christmas-rhythm.json) |
 | Christmas with Freddy's | 239286 | [239286-christmas-with-freddys.json](./239286-christmas-with-freddys.json) |
@@ -770,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codebreaker Puzzle 1000! ENG & JAN | 147958 | [147958-codebreaker-puzzle-1000-eng-and-jan.json](./147958-codebreaker-puzzle-1000-eng-and-jan.json) |
 | Codebreakers VR | 318181 | [318181-codebreakers-vr.json](./318181-codebreakers-vr.json) |
 | Codename: Rogue Fleet - The Reinforcements | 156155 | [156155-codename-rogue-fleet-the-reinforcements.json](./156155-codename-rogue-fleet-the-reinforcements.json) |
+| CodeRed: Agent Sarah's Story - Day One | 76679 | [76679-codered-agent-sarahs-story-day-one.json](./76679-codered-agent-sarahs-story-day-one.json) |
 | CodeWordPlay | 228096 | [228096-codewordplay.json](./228096-codewordplay.json) |
 | Coffee Extra: Ukuzala | 320528 | [320528-coffee-extra-ukuzala.json](./320528-coffee-extra-ukuzala.json) |
 | Coffee Mafia | 112322 | [112322-coffee-mafia.json](./112322-coffee-mafia.json) |
@@ -811,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoLoBot | 80574 | [80574-colobot.json](./80574-colobot.json) |
 | Colonia | 207511 | [207511-colonia.json](./207511-colonia.json) |
 | Colonizer | 244468 | [244468-colonizer.json](./244468-colonizer.json) |
+| Colony | 76645 | [76645-colony.json](./76645-colony.json) |
 | Colony Antares | 150682 | [150682-colony-antares.json](./150682-colony-antares.json) |
 | Colony Battle | 145686 | [145686-colony-battle.json](./145686-colony-battle.json) |
 | Colony Defense | 273627 | [273627-colony-defense.json](./273627-colony-defense.json) |
@@ -1032,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmodread | 144994 | [144994-cosmodread.json](./144994-cosmodread.json) |
 | CosmoDrive:Zero | 111688 | [111688-cosmodrive-zero.json](./111688-cosmodrive-zero.json) |
 | Cosmophage | 148552 | [148552-cosmophage.json](./148552-cosmophage.json) |
+| Cosmos | 76611 | [76611-cosmos.json](./76611-cosmos.json) |
 | Cosmos Kitten | 332843 | [332843-cosmos-kitten.json](./332843-cosmos-kitten.json) |
 | Cosmoscope | 158200 | [158200-cosmoscope.json](./158200-cosmoscope.json) |
 | Costa's Classic Cosmic Pizzas | 156137 | [156137-costas-classic-cosmic-pizzas.json](./156137-costas-classic-cosmic-pizzas.json) |
