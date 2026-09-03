@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Mountain | 173299 | [173299-beneath-the-mountain.json](./173299-beneath-the-mountain.json) |
 | Beneath the Waves | 319393 | [319393-beneath-the-waves.json](./319393-beneath-the-waves.json) |
 | Bengbo | 257104 | [257104-bengbo.json](./257104-bengbo.json) |
+| Benkei Gaiden | 80572 | [80572-benkei-gaiden.json](./80572-benkei-gaiden.json) |
 | Bento Bugs | 329354 | [329354-bento-bugs.json](./329354-bento-bugs.json) |
 | Bepuzzled Jigsaw Puzzle: Aquatic | 241662 | [241662-bepuzzled-jigsaw-puzzle-aquatic.json](./241662-bepuzzled-jigsaw-puzzle-aquatic.json) |
 | Bepuzzled Jigsaw Puzzle: Japan | 241658 | [241658-bepuzzled-jigsaw-puzzle-japan.json](./241658-bepuzzled-jigsaw-puzzle-japan.json) |
@@ -963,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainstorm Series: Treasure Chase | 130389 | [130389-brainstorm-series-treasure-chase.json](./130389-brainstorm-series-treasure-chase.json) |
 | BrainTaire | 261521 | [261521-braintaire.json](./261521-braintaire.json) |
 | BrainZ Defender | 304879 | [304879-brainz-defender.json](./304879-brainz-defender.json) |
+| Braminar | 80614 | [80614-braminar.json](./80614-braminar.json) |
 | Brandins Buttons | 151176 | [151176-brandins-buttons.json](./151176-brandins-buttons.json) |
 | BrasFoot 2003 | 249466 | [249466-brasfoot-2003.json](./249466-brasfoot-2003.json) |
 | Brass Necessity | 292324 | [292324-brass-necessity.json](./292324-brass-necessity.json) |
