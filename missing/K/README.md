@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khemia | 136460 | [136460-khemia.json](./136460-khemia.json) |
 | Khio | 136458 | [136458-khio.json](./136458-khio.json) |
 | Khospis | 110338 | [110338-khospis.json](./110338-khospis.json) |
+| Khumba: The Game | 61116 | [61116-khumba-the-game.json](./61116-khumba-the-game.json) |
 | Kiara and My Ara Ara Adventure | 156149 | [156149-kiara-and-my-ara-ara-adventure.json](./156149-kiara-and-my-ara-ara-adventure.json) |
 | Kiborg | 249998 | [249998-kiborg.json](./249998-kiborg.json) |
 | Kichiku Megane | 142451 | [142451-kichiku-megane.json](./142451-kichiku-megane.json) |
