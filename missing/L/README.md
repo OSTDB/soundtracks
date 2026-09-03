@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LIRE | 145018 | [145018-lire.json](./145018-lire.json) |
 | Lisa: The Pointless - Scholar of the Wilbur Sin Edition | 177033 | [177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json](./177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json) |
 | LIT: Bend the Light | 126621 | [126621-lit-bend-the-light.json](./126621-lit-bend-the-light.json) |
+| Little Acorns | 64956 | [64956-little-acorns.json](./64956-little-acorns.json) |
 | Little Adventure Tale | 325834 | [325834-little-adventure-tale.json](./325834-little-adventure-tale.json) |
 | Little Adventurer | 98464 | [98464-little-adventurer.json](./98464-little-adventurer.json) |
 | Little Adventurer III | 83547 | [83547-little-adventurer-iii.json](./83547-little-adventurer-iii.json) |
@@ -599,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Epic | 150168 | [150168-lost-epic.json](./150168-lost-epic.json) |
 | Lost Girl In Mirror | 259820 | [259820-lost-girl-in-mirror.json](./259820-lost-girl-in-mirror.json) |
 | Lost Harem | 173823 | [173823-lost-harem.json](./173823-lost-harem.json) |
+| Lost Heroes | 64953 | [64953-lost-heroes.json](./64953-lost-heroes.json) |
 | Lost Horizon | 200193 | [200193-lost-horizon.json](./200193-lost-horizon.json) |
 | Lost in Hieroglyphs: A Hidden Objects Expedition | 317020 | [317020-lost-in-hieroglyphs-a-hidden-objects-expedition.json](./317020-lost-in-hieroglyphs-a-hidden-objects-expedition.json) |
 | Lost in Limbo | 307932 | [307932-lost-in-limbo.json](./307932-lost-in-limbo.json) |
