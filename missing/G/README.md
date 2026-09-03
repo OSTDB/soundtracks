@@ -625,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Magic | 119785 | [119785-grid-magic.json](./119785-grid-magic.json) |
 | Grid Ranger | 304905 | [304905-grid-ranger.json](./304905-grid-ranger.json) |
 | Gridblocked | 204719 | [204719-gridblocked.json](./204719-gridblocked.json) |
+| gridCrack | 89250 | [89250-gridcrack.json](./89250-gridcrack.json) |
 | Griddler | 242208 | [242208-griddler.json](./242208-griddler.json) |
 | Gridiron Champions | 130407 | [130407-gridiron-champions.json](./130407-gridiron-champions.json) |
 | Gridiron! | 137091 | [137091-gridiron.json](./137091-gridiron.json) |
@@ -655,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimville: The Gift of Darkness | 96760 | [96760-grimville-the-gift-of-darkness.json](./96760-grimville-the-gift-of-darkness.json) |
 | Grind Hockey | 269330 | [269330-grind-hockey.json](./269330-grind-hockey.json) |
 | Grinded Meat | 237068 | [237068-grinded-meat.json](./237068-grinded-meat.json) |
+| Gripper's Adventure | 89272 | [89272-grippers-adventure.json](./89272-grippers-adventure.json) |
 | Grisaia: Phantom Trigger Vol. 8 | 191896 | [191896-grisaia-phantom-trigger-vol-8.json](./191896-grisaia-phantom-trigger-vol-8.json) |
 | Grit Paintball | 158187 | [158187-grit-paintball.json](./158187-grit-paintball.json) |
 | Groaning Steel | 170541 | [170541-groaning-steel.json](./170541-groaning-steel.json) |
