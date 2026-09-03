@@ -274,6 +274,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Room | 292280 | [292280-next-room.json](./292280-next-room.json) |
 | Next Step | 178655 | [178655-next-step.json](./178655-next-step.json) |
 | Next Stop | 87314 | [87314-next-stop.json](./87314-next-stop.json) |
+| NextRev: Eibunpou Tettei Tokkun | 64944 | [64944-nextrev-eibunpou-tettei-tokkun.json](./64944-nextrev-eibunpou-tettei-tokkun.json) |
+| NextRev: FP Ginoukentei Shiken 2-Kyuu | 64941 | [64941-nextrev-fp-ginoukentei-shiken-2-kyuu.json](./64941-nextrev-fp-ginoukentei-shiken-2-kyuu.json) |
+| NextRev: IT Passport Shiken | 64945 | [64945-nextrev-it-passport-shiken.json](./64945-nextrev-it-passport-shiken.json) |
+| NextRev: Kihonjouhou Gijutsusha Shiken | 64942 | [64942-nextrev-kihonjouhou-gijutsusha-shiken.json](./64942-nextrev-kihonjouhou-gijutsusha-shiken.json) |
+| NextRev: Ouyou Jouhougijutsusha Shiken | 64943 | [64943-nextrev-ouyou-jouhougijutsusha-shiken.json](./64943-nextrev-ouyou-jouhougijutsusha-shiken.json) |
 | Nexus 2 | 92499 | [92499-nexus-2.json](./92499-nexus-2.json) |
 | Nexus Rumble: The Ultimate Showdown | 304869 | [304869-nexus-rumble-the-ultimate-showdown.json](./304869-nexus-rumble-the-ultimate-showdown.json) |
 | Nexus: The Kingdom of the Winds | 80550 | [80550-nexus-the-kingdom-of-the-winds.json](./80550-nexus-the-kingdom-of-the-winds.json) |
@@ -325,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the loving dead | 161905 | [161905-night-of-the-loving-dead.json](./161905-night-of-the-loving-dead.json) |
 | Night of the Scarecrows | 119752 | [119752-night-of-the-scarecrows.json](./119752-night-of-the-scarecrows.json) |
 | Night of the Wererat | 216986 | [216986-night-of-the-wererat.json](./216986-night-of-the-wererat.json) |
+| Night of the Wordsmith | 64985 | [64985-night-of-the-wordsmith.json](./64985-night-of-the-wordsmith.json) |
 | Night Run | 236526 | [236526-night-run.json](./236526-night-run.json) |
 | Night Shift: Laundry | 328253 | [328253-night-shift-laundry.json](./328253-night-shift-laundry.json) |
 | Night Signal | 119740 | [119740-night-signal.json](./119740-night-signal.json) |
