@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U96 | 207513 | [207513-u96.json](./207513-u96.json) |
 | Ubergridder | 92521 | [92521-ubergridder.json](./92521-ubergridder.json) |
 | Ubok. | 150160 | [150160-ubok.json](./150160-ubok.json) |
+| UBRocks | 90683 | [90683-ubrocks.json](./90683-ubrocks.json) |
 | UC Love | 238218 | [238218-uc-love.json](./238218-uc-love.json) |
 | Uchi Tore: Saitan 4-fun Kin Tore & Yuusansou Undou | 276469 | [276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json](./276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json) |
 | Ucube Avcıları | 268222 | [268222-ucube-avc-lar.json](./268222-ucube-avc-lar.json) |
@@ -34,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima Adventum | 149602 | [149602-ultima-adventum.json](./149602-ultima-adventum.json) |
 | Ultimate ADOM: Caverns of Chaos - Save the World Edition | 186876 | [186876-ultimate-adom-caverns-of-chaos-save-the-world-edition.json](./186876-ultimate-adom-caverns-of-chaos-save-the-world-edition.json) |
 | Ultimate Arena of Fate | 273090 | [273090-ultimate-arena-of-fate.json](./273090-ultimate-arena-of-fate.json) |
+| Ultimate Battle Royale PvP | 90675 | [90675-ultimate-battle-royale-pvp.json](./90675-ultimate-battle-royale-pvp.json) |
 | Ultimate Blackball | 243383 | [243383-ultimate-blackball.json](./243383-ultimate-blackball.json) |
 | Ultimate Bomb Squad | 142465 | [142465-ultimate-bomb-squad.json](./142465-ultimate-bomb-squad.json) |
 | Ultimate Chump | 259851 | [259851-ultimate-chump.json](./259851-ultimate-chump.json) |
