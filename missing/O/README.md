@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oishii Puzzle ha Irimasen ka | 312364 | [312364-oishii-puzzle-ha-irimasen-ka.json](./312364-oishii-puzzle-ha-irimasen-ka.json) |
 | Ojou-sama no Hanbun wa Renai de Dekiteimasu! | 328216 | [328216-ojou-sama-no-hanbun-wa-renai-de-dekiteimasu.json](./328216-ojou-sama-no-hanbun-wa-renai-de-dekiteimasu.json) |
 | Ojousama Sousamou | 70400 | [70400-ojousama-sousamou.json](./70400-ojousama-sousamou.json) |
+| Okie Dokie | 40776 | [40776-okie-dokie.json](./40776-okie-dokie.json) |
 | Oku dake Drill Shougaku 6-nensei Kanji | 276467 | [276467-oku-dake-drill-shougaku-6-nensei-kanji.json](./276467-oku-dake-drill-shougaku-6-nensei-kanji.json) |
 | Okuplok Slaughter Map | 144389 | [144389-okuplok-slaughter-map.json](./144389-okuplok-slaughter-map.json) |
 | Old Edge I | 117706 | [117706-old-edge-i.json](./117706-old-edge-i.json) |
@@ -457,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out For Delivery | 152380 | [152380-out-for-delivery.json](./152380-out-for-delivery.json) |
 | Out of Ammo | 177536 | [177536-out-of-ammo.json](./177536-out-of-ammo.json) |
 | Out of Brakes: Endless Racer | 232155 | [232155-out-of-brakes-endless-racer.json](./232155-out-of-brakes-endless-racer.json) |
+| Out of Control | 40775 | [40775-out-of-control.json](./40775-out-of-control.json) |
 | Out of Frame | 141886 | [141886-out-of-frame.json](./141886-out-of-frame.json) |
 | Out of Order | 195783 | [195783-out-of-order.json](./195783-out-of-order.json) |
 | Out of Print | 294425 | [294425-out-of-print.json](./294425-out-of-print.json) |
