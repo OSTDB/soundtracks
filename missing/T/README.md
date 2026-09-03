@@ -724,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Durka: You will (not) die | 154010 | [154010-the-durka-you-will-not-die.json](./154010-the-durka-you-will-not-die.json) |
 | The Dusk Alliance | 250614 | [250614-the-dusk-alliance.json](./250614-the-dusk-alliance.json) |
 | The Earl Street Massacre | 302709 | [302709-the-earl-street-massacre.json](./302709-the-earl-street-massacre.json) |
+| The Earth Defend | 46674 | [46674-the-earth-defend.json](./46674-the-earth-defend.json) |
 | The Eastern Edge | 341897 | [341897-the-eastern-edge.json](./341897-the-eastern-edge.json) |
 | The Eastern Sacrifice | 273659 | [273659-the-eastern-sacrifice.json](./273659-the-eastern-sacrifice.json) |
 | The Egg of Human Endeavors | 223133 | [223133-the-egg-of-human-endeavors.json](./223133-the-egg-of-human-endeavors.json) |
@@ -1007,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Journey of a Day | 269848 | [269848-the-legend-of-zelda-journey-of-a-day.json](./269848-the-legend-of-zelda-journey-of-a-day.json) |
 | The Legend of Zelda: Just Beginning | 324079 | [324079-the-legend-of-zelda-just-beginning.json](./324079-the-legend-of-zelda-just-beginning.json) |
 | The Legend of Zelda: Link's Shadow | 269867 | [269867-the-legend-of-zelda-links-shadow.json](./269867-the-legend-of-zelda-links-shadow.json) |
+| The Legend of Zelda: Mystery of Solarus XD | 46620 | [46620-the-legend-of-zelda-mystery-of-solarus-xd.json](./46620-the-legend-of-zelda-mystery-of-solarus-xd.json) |
 | The Legend of Zelda: Nightmare | 255387 | [255387-the-legend-of-zelda-nightmare.json](./255387-the-legend-of-zelda-nightmare.json) |
 | The Legend of Zelda: Oracle of Life Online | 324095 | [324095-the-legend-of-zelda-oracle-of-life-online.json](./324095-the-legend-of-zelda-oracle-of-life-online.json) |
 | The Legend of Zelda: Parallel Worlds Remodel | 198543 | [198543-the-legend-of-zelda-parallel-worlds-remodel.json](./198543-the-legend-of-zelda-parallel-worlds-remodel.json) |
@@ -1274,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Second Kids' World Almanac Adventure | 71531 | [71531-the-second-kids-world-almanac-adventure.json](./71531-the-second-kids-world-almanac-adventure.json) |
 | The Second Sight: Dead Reckoning | 331138 | [331138-the-second-sight-dead-reckoning.json](./331138-the-second-sight-dead-reckoning.json) |
 | The Secret Chronicles of Dr. M. | 134077 | [134077-the-secret-chronicles-of-dr-m.json](./134077-the-secret-chronicles-of-dr-m.json) |
+| The Secret Island of Dr. Quandary | 46654 | [46654-the-secret-island-of-dr-quandary.json](./46654-the-secret-island-of-dr-quandary.json) |
 | The Secret of Cat Island | 194003 | [194003-the-secret-of-cat-island.json](./194003-the-secret-of-cat-island.json) |
 | The Secret of Grisly Manor | 61104 | [61104-the-secret-of-grisly-manor.json](./61104-the-secret-of-grisly-manor.json) |
 | The Secret of Rooms | 207518 | [207518-the-secret-of-rooms.json](./207518-the-secret-of-rooms.json) |
@@ -1645,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Jumper | 268219 | [268219-thunder-jumper.json](./268219-thunder-jumper.json) |
 | Thunder League | 59407 | [59407-thunder-league.json](./59407-thunder-league.json) |
 | Thunder Roar | 218121 | [218121-thunder-roar.json](./218121-thunder-roar.json) |
+| Thunder Spirits | 46662 | [46662-thunder-spirits.json](./46662-thunder-spirits.json) |
 | Thunderblade Saga | 277589 | [277589-thunderblade-saga.json](./277589-thunderblade-saga.json) |
 | Thundercross | 55201 | [55201-thundercross.json](./55201-thundercross.json) |
 | Thunderwing | 74427 | [74427-thunderwing.json](./74427-thunderwing.json) |
@@ -1915,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tlicolity Eyes Vol. 2 | 240520 | [240520-tlicolity-eyes-vol-2.json](./240520-tlicolity-eyes-vol-2.json) |
 | Tlicolity Eyes Vol. 3 | 240521 | [240521-tlicolity-eyes-vol-3.json](./240521-tlicolity-eyes-vol-3.json) |
 | Tlicolity Eyes: Twinkle Showtime | 240522 | [240522-tlicolity-eyes-twinkle-showtime.json](./240522-tlicolity-eyes-twinkle-showtime.json) |
+| TNT: Evilution | 46616 | [46616-tnt-evilution.json](./46616-tnt-evilution.json) |
 | To Be A Dummy Head VR | 118377 | [118377-to-be-a-dummy-head-vr.json](./118377-to-be-a-dummy-head-vr.json) |
 | To Be A Dummy Head VR: Ferris Wheel Story | 118379 | [118379-to-be-a-dummy-head-vr-ferris-wheel-story.json](./118379-to-be-a-dummy-head-vr-ferris-wheel-story.json) |
 | To Be A Dummy Head VR: Hotel Elevator Story | 118378 | [118378-to-be-a-dummy-head-vr-hotel-elevator-story.json](./118378-to-be-a-dummy-head-vr-hotel-elevator-story.json) |
