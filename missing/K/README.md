@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kochira, Haha Naru Hoshi Yori | 152912 | [152912-kochira-haha-naru-hoshi-yori.json](./152912-kochira-haha-naru-hoshi-yori.json) |
 | Kodama | 262067 | [262067-kodama.json](./262067-kodama.json) |
 | Kodoku no Yurikago | 260941 | [260941-kodoku-no-yurikago.json](./260941-kodoku-no-yurikago.json) |
+| Koffi Yellow Copter | 40797 | [40797-koffi-yellow-copter.json](./40797-koffi-yellow-copter.json) |
 | Koi Koi Mahjong | 43964 | [43964-koi-koi-mahjong.json](./43964-koi-koi-mahjong.json) |
 | Koi-Koi Japan: Ukiyoe Deluxe Edition | 53261 | [53261-koi-koi-japan-ukiyoe-deluxe-edition.json](./53261-koi-koi-japan-ukiyoe-deluxe-edition.json) |
 | KoiGig: Devil x Angel | 202373 | [202373-koigig-devil-x-angel.json](./202373-koigig-devil-x-angel.json) |
