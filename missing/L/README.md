@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Pongbat | 161904 | [161904-lethal-pongbat.json](./161904-lethal-pongbat.json) |
 | Lethal RPG Destiny: Rebirth | 309094 | [309094-lethal-rpg-destiny-rebirth.json](./309094-lethal-rpg-destiny-rebirth.json) |
 | LethalRpgDestiny | 309093 | [309093-lethalrpgdestiny.json](./309093-lethalrpgdestiny.json) |
+| Letris Power: Word puzzle game | 89239 | [89239-letris-power-word-puzzle-game.json](./89239-letris-power-word-puzzle-game.json) |
 | Letter Boxed | 296097 | [296097-letter-boxed.json](./296097-letter-boxed.json) |
 | Letter Vetter | 149084 | [149084-letter-vetter.json](./149084-letter-vetter.json) |
 | Letteral | 242795 | [242795-letteral.json](./242795-letteral.json) |
@@ -445,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Livli: A Sámi Story | 293894 | [293894-livli-a-sami-story.json](./293894-livli-a-sami-story.json) |
 | Lix | 97896 | [97896-lix.json](./97896-lix.json) |
 | Liyf | 275349 | [275349-liyf.json](./275349-liyf.json) |
+| Lizard | 89223 | [89223-lizard.json](./89223-lizard.json) |
 | Lizard Quest! | 244471 | [244471-lizard-quest.json](./244471-lizard-quest.json) |
 | Lizardquest-Alien waters | 115035 | [115035-lizardquest-alien-waters.json](./115035-lizardquest-alien-waters.json) |
 | Load Roll Die | 172734 | [172734-load-roll-die.json](./172734-load-roll-die.json) |
