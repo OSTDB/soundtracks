@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Saga VS | 273641 | [273641-iron-saga-vs.json](./273641-iron-saga-vs.json) |
 | Iron Sky: A Lunar Adventure | 234337 | [234337-iron-sky-a-lunar-adventure.json](./234337-iron-sky-a-lunar-adventure.json) |
 | Iron Skys | 340763 | [340763-iron-skys.json](./340763-iron-skys.json) |
+| Ironpants | 62198 | [62198-ironpants.json](./62198-ironpants.json) |
 | Irony Curtain: From Matryoshka with Love - Revolutionary Edition | 124830 | [124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json](./124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json) |
 | Iros | 270410 | [270410-iros.json](./270410-iros.json) |
 | Irresistible Love | 340764 | [340764-irresistible-love.json](./340764-irresistible-love.json) |
@@ -523,6 +524,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Not Me, It's My Basement | 176514 | [176514-its-not-me-its-my-basement.json](./176514-its-not-me-its-my-basement.json) |
 | It’s on the Mouse | 328244 | [328244-it-s-on-the-mouse.json](./328244-it-s-on-the-mouse.json) |
 | It's Raining Acorn! | 331136 | [331136-its-raining-acorn.json](./331136-its-raining-acorn.json) |
+| It's Raining Cats' & Dogs' Poop | 62217 | [62217-its-raining-cats-and-dogs-poop.json](./62217-its-raining-cats-and-dogs-poop.json) |
+| It's Raining Cats' & Dogs' Poop 2 | 62216 | [62216-its-raining-cats-and-dogs-poop-2.json](./62216-its-raining-cats-and-dogs-poop-2.json) |
 | Italy 1990 | 85520 | [85520-italy-1990.json](./85520-italy-1990.json) |
 | Itch! | 143745 | [143745-itch.json](./143745-itch.json) |
 | Iteriba: Olokun's Wrath | 255355 | [255355-iteriba-olokuns-wrath.json](./255355-iteriba-olokuns-wrath.json) |
