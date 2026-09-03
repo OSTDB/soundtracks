@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visit Once | 147469 | [147469-visit-once.json](./147469-visit-once.json) |
 | Visitor | 177557 | [177557-visitor.json](./177557-visitor.json) |
 | VISK | 248914 | [248914-visk.json](./248914-visk.json) |
+| Visualizer | 80590 | [80590-visualizer.json](./80590-visualizer.json) |
 | Vitality | 213040 | [213040-vitality.json](./213040-vitality.json) |
 | Vitreous | 179717 | [179717-vitreous.json](./179717-vitreous.json) |
 | Viva Mortis | 117734 | [117734-viva-mortis.json](./117734-viva-mortis.json) |
@@ -247,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volleyball Trainer: The Legend of Sports | 224211 | [224211-volleyball-trainer-the-legend-of-sports.json](./224211-volleyball-trainer-the-legend-of-sports.json) |
 | Volos | 93070 | [93070-volos.json](./93070-volos.json) |
 | Voron: Raven's Story | 235968 | [235968-voron-ravens-story.json](./235968-voron-ravens-story.json) |
+| Vortex | 81436 | [81436-vortex.json](./81436-vortex.json) |
 | Vortex Attack EX | 124235 | [124235-vortex-attack-ex.json](./124235-vortex-attack-ex.json) |
 | Vows of Eternity | 298872 | [298872-vows-of-eternity.json](./298872-vows-of-eternity.json) |
 | Vox Populi: Poland 2023 | 267678 | [267678-vox-populi-poland-2023.json](./267678-vox-populi-poland-2023.json) |
