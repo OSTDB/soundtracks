@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dad by the Sword | 218687 | [218687-dad-by-the-sword.json](./218687-dad-by-the-sword.json) |
 | Daddy Long Legs | 89289 | [89289-daddy-long-legs.json](./89289-daddy-long-legs.json) |
 | Daemon Bride: Additional Gain | 313486 | [313486-daemon-bride-additional-gain.json](./313486-daemon-bride-additional-gain.json) |
+| Daemon Summoner | 44628 | [44628-daemon-summoner.json](./44628-daemon-summoner.json) |
 | Daemonstration | 179752 | [179752-daemonstration.json](./179752-daemonstration.json) |
 | Daemonum | 223147 | [223147-daemonum.json](./223147-daemonum.json) |
 | Dahlia | 58839 | [58839-dahlia.json](./58839-dahlia.json) |
@@ -67,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance With Zombies | 127319 | [127319-dance-with-zombies.json](./127319-dance-with-zombies.json) |
 | Dance: UK | 95455 | [95455-dance-uk.json](./95455-dance-uk.json) |
 | Dances with Butterflies VR | 117088 | [117088-dances-with-butterflies-vr.json](./117088-dances-with-butterflies-vr.json) |
+| DanceStar: Party Hits | 44595 | [44595-dancestar-party-hits.json](./44595-dancestar-party-hits.json) |
 | Dancing Cats | 332805 | [332805-dancing-cats.json](./332805-dancing-cats.json) |
 | Dancing Dreamer | 148566 | [148566-dancing-dreamer.json](./148566-dancing-dreamer.json) |
 | Dancing Hair: Music Race 3D | 212455 | [212455-dancing-hair-music-race-3d.json](./212455-dancing-hair-music-race-3d.json) |
@@ -103,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danse Macabre: Deadly Deception | 108461 | [108461-danse-macabre-deadly-deception.json](./108461-danse-macabre-deadly-deception.json) |
 | Dānshēngǒu de Zuìhòu Jīhuì | 130962 | [130962-danshengou-de-zuihou-jihui.json](./130962-danshengou-de-zuihou-jihui.json) |
 | Dante's Inferno: Dark Forest Pack | 172772 | [172772-dantes-inferno-dark-forest-pack.json](./172772-dantes-inferno-dark-forest-pack.json) |
+| Dante's Inferno: Divine Edition | 44610 | [44610-dantes-inferno-divine-edition.json](./44610-dantes-inferno-divine-edition.json) |
 | Dare | 130352 | [130352-dare.json](./130352-dare.json) |
 | Daredemo Asobi Taizen | 137069 | [137069-daredemo-asobi-taizen.json](./137069-daredemo-asobi-taizen.json) |
 | Daredevil Dave 2: Motorcycle Mayhem! | 175432 | [175432-daredevil-dave-2-motorcycle-mayhem.json](./175432-daredevil-dave-2-motorcycle-mayhem.json) |
@@ -155,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Romance: Vampire Origins - Collector's Edition | 209716 | [209716-dark-romance-vampire-origins-collectors-edition.json](./209716-dark-romance-vampire-origins-collectors-edition.json) |
 | Dark Sauce | 113693 | [113693-dark-sauce.json](./113693-dark-sauce.json) |
 | Dark Skies 2: Keepers of Nemansk | 296689 | [296689-dark-skies-2-keepers-of-nemansk.json](./296689-dark-skies-2-keepers-of-nemansk.json) |
+| Dark Souls: Collector's Edition | 44607 | [44607-dark-souls-collectors-edition.json](./44607-dark-souls-collectors-edition.json) |
 | Dark Swords | 119044 | [119044-dark-swords.json](./119044-dark-swords.json) |
 | Dark Tales: Edgar Allan Poe's The Black Cat - Collector's Edition | 201826 | [201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json](./201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json) |
 | Dark Tartarus | 260950 | [260950-dark-tartarus.json](./260950-dark-tartarus.json) |
@@ -251,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead End Junction #2 Deadman's Bullet | 95411 | [95411-dead-end-junction-2-deadmans-bullet.json](./95411-dead-end-junction-2-deadmans-bullet.json) |
 | Dead End Mission | 260415 | [260415-dead-end-mission.json](./260415-dead-end-mission.json) |
 | Dead Event | 177035 | [177035-dead-event.json](./177035-dead-event.json) |
+| Dead Eye Jim | 44639 | [44639-dead-eye-jim.json](./44639-dead-eye-jim.json) |
 | Dead Face | 181919 | [181919-dead-face.json](./181919-dead-face.json) |
 | Dead Function | 179737 | [179737-dead-function.json](./179737-dead-function.json) |
 | Dead Hunter | 119760 | [119760-dead-hunter.json](./119760-dead-hunter.json) |
@@ -271,6 +276,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rising/Gears of War | 141217 | [141217-dead-rising-gears-of-war.json](./141217-dead-rising-gears-of-war.json) |
 | Dead Shapes | 251815 | [251815-dead-shapes.json](./251815-dead-shapes.json) |
 | Dead Space 2 | 264868 | [264868-dead-space-2.json](./264868-dead-space-2.json) |
+| Dead Space 2: Limited Edition | 44613 | [44613-dead-space-2-limited-edition.json](./44613-dead-space-2-limited-edition.json) |
+| Dead Space 3: Limited Edition | 44604 | [44604-dead-space-3-limited-edition.json](./44604-dead-space-3-limited-edition.json) |
 | Dead Space: Collector's Edition | 229975 | [229975-dead-space-collectors-edition.json](./229975-dead-space-collectors-edition.json) |
 | Dead Spawn | 121710 | [121710-dead-spawn.json](./121710-dead-spawn.json) |
 | Dead Spreading: Survival | 239911 | [239911-dead-spreading-survival.json](./239911-dead-spreading-survival.json) |
