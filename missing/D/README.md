@@ -663,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disconcerting Unease 1 | 275313 | [275313-disconcerting-unease-1.json](./275313-disconcerting-unease-1.json) |
 | Disconcerting Unease 2 | 275320 | [275320-disconcerting-unease-2.json](./275320-disconcerting-unease-2.json) |
 | Discovering Colors - Animals (Coloring Book) | 106572 | [106572-discovering-colors-animals-coloring-book.json](./106572-discovering-colors-animals-coloring-book.json) |
+| Discovery Kids: Pony Paradise | 69273 | [69273-discovery-kids-pony-paradise.json](./69273-discovery-kids-pony-paradise.json) |
 | Discrete Orange | 312348 | [312348-discrete-orange.json](./312348-discrete-orange.json) |
 | Disgaea 4 Complete+: A Promise of Sardines Edition | 205262 | [205262-disgaea-4-complete-a-promise-of-sardines-edition.json](./205262-disgaea-4-complete-a-promise-of-sardines-edition.json) |
 | Dishonored 2: Steelbook Edition | 308562 | [308562-dishonored-2-steelbook-edition.json](./308562-dishonored-2-steelbook-edition.json) |
@@ -905,6 +906,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Trouble | 215928 | [215928-double-trouble.json](./215928-double-trouble.json) |
 | DoubleShake | 142481 | [142481-doubleshake.json](./142481-doubleshake.json) |
 | Doughbee | 258727 | [258727-doughbee.json](./258727-doughbee.json) |
+| Douglas Rockmoor | 69305 | [69305-douglas-rockmoor.json](./69305-douglas-rockmoor.json) |
+| Douglas Rockmoor 2 | 69309 | [69309-douglas-rockmoor-2.json](./69309-douglas-rockmoor-2.json) |
 | Dovez | 80607 | [80607-dovez.json](./80607-dovez.json) |
 | Down Beneath | 179725 | [179725-down-beneath.json](./179725-down-beneath.json) |
 | Down in the Depths Blind | 219263 | [219263-down-in-the-depths-blind.json](./219263-down-in-the-depths-blind.json) |
@@ -1160,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dummy Never Fails 2 | 234903 | [234903-dummy-never-fails-2.json](./234903-dummy-never-fails-2.json) |
 | Dump Truck Offroad Driver 3D | 104638 | [104638-dump-truck-offroad-driver-3d.json](./104638-dump-truck-offroad-driver-3d.json) |
 | Dumpling Together | 339108 | [339108-dumpling-together.json](./339108-dumpling-together.json) |
+| Dun Dam: Dungeons & Dam | 69298 | [69298-dun-dam-dungeons-and-dam.json](./69298-dun-dam-dungeons-and-dam.json) |
 | Dunchess | 269267 | [269267-dunchess.json](./269267-dunchess.json) |
 | Dune Sea | 120414 | [120414-dune-sea.json](./120414-dune-sea.json) |
 | Dune Strider | 203547 | [203547-dune-strider.json](./203547-dune-strider.json) |
