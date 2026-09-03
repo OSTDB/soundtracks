@@ -1010,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power at Sea | 55151 | [55151-power-at-sea.json](./55151-power-at-sea.json) |
 | Power Ball 2022 | 211954 | [211954-power-ball-2022.json](./211954-power-ball-2022.json) |
 | Power Chess | 79900 | [79900-power-chess.json](./79900-power-chess.json) |
+| Power Eleven | 42043 | [42043-power-eleven.json](./42043-power-eleven.json) |
 | Power On: Energy Flow | 292816 | [292816-power-on-energy-flow.json](./292816-power-on-energy-flow.json) |
 | Power Pete | 47272 | [47272-power-pete.json](./47272-power-pete.json) |
 | Power Pipes | 146913 | [146913-power-pipes.json](./146913-power-pipes.json) |
