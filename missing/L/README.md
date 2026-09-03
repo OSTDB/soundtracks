@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Harvest | 138779 | [138779-last-harvest.json](./138779-last-harvest.json) |
 | Last Hit Titan | 337476 | [337476-last-hit-titan.json](./337476-last-hit-titan.json) |
 | Last Hopeless | 255991 | [255991-last-hopeless.json](./255991-last-hopeless.json) |
+| Last Imperial Prince | 45956 | [45956-last-imperial-prince.json](./45956-last-imperial-prince.json) |
 | Last Knight | 53266 | [53266-last-knight.json](./53266-last-knight.json) |
 | Last Look along Woodward Boulevard | 321171 | [321171-last-look-along-woodward-boulevard.json](./321171-last-look-along-woodward-boulevard.json) |
 | Last Meal | 125999 | [125999-last-meal.json](./125999-last-meal.json) |
@@ -163,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Avventure di Blue: Lacrima di Cristallo | 257676 | [257676-le-avventure-di-blue-lacrima-di-cristallo.json](./257676-le-avventure-di-blue-lacrima-di-cristallo.json) |
 | Le Château | 244484 | [244484-le-chateau.json](./244484-le-chateau.json) |
 | Le Gars Qui A Fait Doom | 299442 | [299442-le-gars-qui-a-fait-doom.json](./299442-le-gars-qui-a-fait-doom.json) |
+| Leading Company | 46004 | [46004-leading-company.json](./46004-leading-company.json) |
 | Leaf on Wind | 149087 | [149087-leaf-on-wind.json](./149087-leaf-on-wind.json) |
 | League of Champions Soccer | 152350 | [152350-league-of-champions-soccer.json](./152350-league-of-champions-soccer.json) |
 | League of Enthusiastic Losers: Definitive Edition | 246645 | [246645-league-of-enthusiastic-losers-definitive-edition.json](./246645-league-of-enthusiastic-losers-definitive-edition.json) |
