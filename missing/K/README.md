@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunio no Nekketsu School Fighters | 296061 | [296061-kunio-no-nekketsu-school-fighters.json](./296061-kunio-no-nekketsu-school-fighters.json) |
 | Kupechestvo | 190211 | [190211-kupechestvo.json](./190211-kupechestvo.json) |
 | Kurai Nichiyoubi: Sombre Dimanche | 260982 | [260982-kurai-nichiyoubi-sombre-dimanche.json](./260982-kurai-nichiyoubi-sombre-dimanche.json) |
+| Kurayami | 94763 | [94763-kurayami.json](./94763-kurayami.json) |
 | Kurenai no Homura Sanada Ninpouchou | 136472 | [136472-kurenai-no-homura-sanada-ninpouchou.json](./136472-kurenai-no-homura-sanada-ninpouchou.json) |
 | Kuroinu 2 Redux | 262080 | [262080-kuroinu-2-redux.json](./262080-kuroinu-2-redux.json) |
 | Kurt: Der Fussballmanager | 171616 | [171616-kurt-der-fussballmanager.json](./171616-kurt-der-fussballmanager.json) |
