@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangman: Fun Word Game | 89236 | [89236-hangman-fun-word-game.json](./89236-hangman-fun-word-game.json) |
 | HangOutGame | 166755 | [166755-hangoutgame.json](./166755-hangoutgame.json) |
 | Hangzo | 141238 | [141238-hangzo.json](./141238-hangzo.json) |
+| Hanna Barbera's Turbo Toons | 42619 | [42619-hanna-barberas-turbo-toons.json](./42619-hanna-barberas-turbo-toons.json) |
 | Hannah & Henry | 257067 | [257067-hannah-and-henry.json](./257067-hannah-and-henry.json) |
 | Hansel and Gretel | 215350 | [215350-hansel-and-gretel.json](./215350-hansel-and-gretel.json) |
 | Hansel and Gretel and the Enchanted Castle | 46641 | [46641-hansel-and-gretel-and-the-enchanted-castle.json](./46641-hansel-and-gretel-and-the-enchanted-castle.json) |
