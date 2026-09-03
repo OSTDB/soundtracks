@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Labyrinth Story | 84867 | [84867-adventure-labyrinth-story.json](./84867-adventure-labyrinth-story.json) |
 | Adventure Of Baldero I and II | 301597 | [301597-adventure-of-baldero-i-and-ii.json](./301597-adventure-of-baldero-i-and-ii.json) |
 | Adventure Party: Cats and Caverns | 84866 | [84866-adventure-party-cats-and-caverns.json](./84866-adventure-party-cats-and-caverns.json) |
+| Adventure Player | 56531 | [56531-adventure-player.json](./56531-adventure-player.json) |
 | Adventure Playground | 102207 | [102207-adventure-playground.json](./102207-adventure-playground.json) |
 | Adventure Rock | 293939 | [293939-adventure-rock.json](./293939-adventure-rock.json) |
 | Adventure Story | 265404 | [265404-adventure-story.json](./265404-adventure-story.json) |
@@ -430,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ahri and Bear | 166760 | [166760-ahri-and-bear.json](./166760-ahri-and-bear.json) |
 | AI ha Sabaku no Bara no Yume o Miru | 82936 | [82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json](./82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json) |
 | AI Igo 2003 | 269325 | [269325-ai-igo-2003.json](./269325-ai-igo-2003.json) |
+| AI Mahjong | 56534 | [56534-ai-mahjong.json](./56534-ai-mahjong.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
 | AI Shogi 2003 | 269328 | [269328-ai-shogi-2003.json](./269328-ai-shogi-2003.json) |
 | AI.VI | 303258 | [303258-ai-vi.json](./303258-ai-vi.json) |
@@ -477,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aiten Eishi: Blue Guardians | 252408 | [252408-aiten-eishi-blue-guardians.json](./252408-aiten-eishi-blue-guardians.json) |
 | Aiyana | 211415 | [211415-aiyana.json](./211415-aiyana.json) |
 | Akane Chan-bara | 204685 | [204685-akane-chan-bara.json](./204685-akane-chan-bara.json) |
+| Akaneiro ni Somaru Saka Portable | 56532 | [56532-akaneiro-ni-somaru-saka-portable.json](./56532-akaneiro-ni-somaru-saka-portable.json) |
 | Akanesasu Sekai de Kimi to Utau | 240479 | [240479-akanesasu-sekai-de-kimi-to-utau.json](./240479-akanesasu-sekai-de-kimi-to-utau.json) |
 | Akari by Nikoli | 84869 | [84869-akari-by-nikoli.json](./84869-akari-by-nikoli.json) |
 | Akashi | 229379 | [229379-akashi.json](./229379-akashi.json) |
@@ -494,6 +497,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aker Fern | 143726 | [143726-aker-fern.json](./143726-aker-fern.json) |
 | Akita: King Pig Thinks Pink | 178098 | [178098-akita-king-pig-thinks-pink.json](./178098-akita-king-pig-thinks-pink.json) |
 | Akuarium | 147471 | [147471-akuarium.json](./147471-akuarium.json) |
+| Akudaikan Manyuuki | 56517 | [56517-akudaikan-manyuuki.json](./56517-akudaikan-manyuuki.json) |
+| Akudaikan Manyuuki: Seigi no Yaiba | 56513 | [56513-akudaikan-manyuuki-seigi-no-yaiba.json](./56513-akudaikan-manyuuki-seigi-no-yaiba.json) |
 | Akuma | 201835 | [201835-akuma.json](./201835-akuma.json) |
 | Akuma no Shinpan | 307961 | [307961-akuma-no-shinpan.json](./307961-akuma-no-shinpan.json) |
 | Akyrikon VR | 158204 | [158204-akyrikon-vr.json](./158204-akyrikon-vr.json) |
@@ -783,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angelic Vale | 202376 | [202376-angelic-vale.json](./202376-angelic-vale.json) |
 | Angelique Etoile | 72680 | [72680-angelique-etoile.json](./72680-angelique-etoile.json) |
 | Angelique Trois | 72678 | [72678-angelique-trois.json](./72678-angelique-trois.json) |
+| Angelique: Maren no Rokukishi | 56515 | [56515-angelique-maren-no-rokukishi.json](./56515-angelique-maren-no-rokukishi.json) |
 | Angellus: Asas do Anoitecer | 262079 | [262079-angellus-asas-do-anoitecer.json](./262079-angellus-asas-do-anoitecer.json) |
 | Angelo and Deemon 2: Too Hell of a Quest | 319368 | [319368-angelo-and-deemon-2-too-hell-of-a-quest.json](./319368-angelo-and-deemon-2-too-hell-of-a-quest.json) |
 | Angels | 246124 | [246124-angels.json](./246124-angels.json) |
@@ -908,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antigrav Racing Championship | 248329 | [248329-antigrav-racing-championship.json](./248329-antigrav-racing-championship.json) |
 | Antigravity Racing | 239292 | [239292-antigravity-racing.json](./239292-antigravity-racing.json) |
 | Antimatter Elevator | 166759 | [166759-antimatter-elevator.json](./166759-antimatter-elevator.json) |
+| Antiphona no Seikahime: Tenshi no Score Op.A | 56523 | [56523-antiphona-no-seikahime-tenshi-no-score-op-a.json](./56523-antiphona-no-seikahime-tenshi-no-score-op-a.json) |
 | Antonball Deluxe Lite | 153463 | [153463-antonball-deluxe-lite.json](./153463-antonball-deluxe-lite.json) |
 | Ants With Guns | 211436 | [211436-ants-with-guns.json](./211436-ants-with-guns.json) |
 | Anubis Clicker | 236535 | [236535-anubis-clicker.json](./236535-anubis-clicker.json) |
@@ -971,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquatics Hentai Babes | 157717 | [157717-aquatics-hentai-babes.json](./157717-aquatics-hentai-babes.json) |
 | Aquavias | 96757 | [96757-aquavias.json](./96757-aquavias.json) |
 | AR Flappy | 232186 | [232186-ar-flappy.json](./232186-ar-flappy.json) |
+| AR Magic Color UP | 56487 | [56487-ar-magic-color-up.json](./56487-ar-magic-color-up.json) |
 | Ar nosurge Plus: Ode to an Unborn Star - Limited Edition | 89915 | [89915-ar-nosurge-plus-ode-to-an-unborn-star-limited-edition.json](./89915-ar-nosurge-plus-ode-to-an-unborn-star-limited-edition.json) |
 | AR Race Car | 242215 | [242215-ar-race-car.json](./242215-ar-race-car.json) |
 | Aracnidium | 193462 | [193462-aracnidium.json](./193462-aracnidium.json) |
@@ -1044,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archons: Arena | 264897 | [264897-archons-arena.json](./264897-archons-arena.json) |
 | Arclands | 156147 | [156147-arclands.json](./156147-arclands.json) |
 | Arcshu: Kagerou no Jidai wo Koete | 314659 | [314659-arcshu-kagerou-no-jidai-wo-koete.json](./314659-arcshu-kagerou-no-jidai-wo-koete.json) |
+| Arctic | 56479 | [56479-arctic.json](./56479-arctic.json) |
 | Arctic Cave | 98987 | [98987-arctic-cave.json](./98987-arctic-cave.json) |
 | Arctic Combat | 63888 | [63888-arctic-combat.json](./63888-arctic-combat.json) |
 | Arctic Motel Simulator | 311829 | [311829-arctic-motel-simulator.json](./311829-arctic-motel-simulator.json) |
@@ -1107,6 +1116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed Warrior VR | 74435 | [74435-armed-warrior-vr.json](./74435-armed-warrior-vr.json) |
 | Armello: Deluxe Bundle | 173787 | [173787-armello-deluxe-bundle.json](./173787-armello-deluxe-bundle.json) |
 | Armello: Special Edition | 166228 | [166228-armello-special-edition.json](./166228-armello-special-edition.json) |
+| Armen Noir | 56525 | [56525-armen-noir.json](./56525-armen-noir.json) |
 | Armor Battle | 245574 | [245574-armor-battle.json](./245574-armor-battle.json) |
 | Armor Clash 2022 | 188092 | [188092-armor-clash-2022.json](./188092-armor-clash-2022.json) |
 | Armor Command | 73843 | [73843-armor-command.json](./73843-armor-command.json) |
@@ -1165,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arxon | 93062 | [93062-arxon.json](./93062-arxon.json) |
 | As Aventuras de Kiwi | 306710 | [306710-as-aventuras-de-kiwi.json](./306710-as-aventuras-de-kiwi.json) |
 | As simple as it could get | 211411 | [211411-as-simple-as-it-could-get.json](./211411-as-simple-as-it-could-get.json) |
+| Asaki, Yumemishi | 56524 | [56524-asaki-yumemishi.json](./56524-asaki-yumemishi.json) |
 | Ascend to Zero | 316425 | [316425-ascend-to-zero.json](./316425-ascend-to-zero.json) |
 | Ascended Realms | 137683 | [137683-ascended-realms.json](./137683-ascended-realms.json) |
 | Ascending: Dojo | 170523 | [170523-ascending-dojo.json](./170523-ascending-dojo.json) |
@@ -1351,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attract Fragments 5 | 119747 | [119747-attract-fragments-5.json](./119747-attract-fragments-5.json) |
 | Atum | 128624 | [128624-atum.json](./128624-atum.json) |
 | ATV Madness | 88324 | [88324-atv-madness.json](./88324-atv-madness.json) |
+| Audition Portable | 56520 | [56520-audition-portable.json](./56520-audition-portable.json) |
 | Audrey & Alexis | 100816 | [100816-audrey-and-alexis.json](./100816-audrey-and-alexis.json) |
 | Augmented Fourth | 60028 | [60028-augmented-fourth.json](./60028-augmented-fourth.json) |
 | Auraboros | 181358 | [181358-auraboros.json](./181358-auraboros.json) |
@@ -1446,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axom: Conquest | 333357 | [333357-axom-conquest.json](./333357-axom-conquest.json) |
 | Ayakashi & Sweets | 298879 | [298879-ayakashi-and-sweets.json](./298879-ayakashi-and-sweets.json) |
 | Ayakashi Rumble | 208034 | [208034-ayakashi-rumble.json](./208034-ayakashi-rumble.json) |
+| Ayakashibito: Genyou Ibunroku | 56521 | [56521-ayakashibito-genyou-ibunroku.json](./56521-ayakashibito-genyou-ibunroku.json) |
 | Ayda | 317604 | [317604-ayda.json](./317604-ayda.json) |
 | Aye Fair Lady | 126019 | [126019-aye-fair-lady.json](./126019-aye-fair-lady.json) |
 | Ayni Fairyland | 107896 | [107896-ayni-fairyland.json](./107896-ayni-fairyland.json) |
