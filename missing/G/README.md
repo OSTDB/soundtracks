@@ -450,6 +450,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobs of Games | 49928 | [49928-gobs-of-games.json](./49928-gobs-of-games.json) |
 | God is in the Radio | 269314 | [269314-god-is-in-the-radio.json](./269314-god-is-in-the-radio.json) |
 | God is Watching | 336922 | [336922-god-is-watching.json](./336922-god-is-watching.json) |
+| God of War Trilogy | 44653 | [44653-god-of-war-trilogy.json](./44653-god-of-war-trilogy.json) |
+| God of War: Ascension - Special Edition | 44664 | [44664-god-of-war-ascension-special-edition.json](./44664-god-of-war-ascension-special-edition.json) |
 | God Pill | 217515 | [217515-god-pill.json](./217515-god-pill.json) |
 | God: The Game | 264872 | [264872-god-the-game.json](./264872-god-the-game.json) |
 | God's Trigger: O.M.G. Edition | 154548 | [154548-gods-trigger-o-m-g-edition.json](./154548-gods-trigger-o-m-g-edition.json) |
@@ -836,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Strike Ops: WW2 | 196307 | [196307-gun-strike-ops-ww2.json](./196307-gun-strike-ops-ww2.json) |
 | Gun to Colonists | 189173 | [189173-gun-to-colonists.json](./189173-gun-to-colonists.json) |
 | Gun Trails | 259277 | [259277-gun-trails.json](./259277-gun-trails.json) |
+| Gunbird: Special Edition | 44643 | [44643-gunbird-special-edition.json](./44643-gunbird-special-edition.json) |
 | Gundam Battle Online | 107166 | [107166-gundam-battle-online.json](./107166-gundam-battle-online.json) |
 | Gundam Fights for Human Rights | 183567 | [183567-gundam-fights-for-human-rights.json](./183567-gundam-fights-for-human-rights.json) |
 | Gundam Supreme Battle | 174903 | [174903-gundam-supreme-battle.json](./174903-gundam-supreme-battle.json) |
