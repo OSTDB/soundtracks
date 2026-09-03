@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Force | 121736 | [121736-ace-force.json](./121736-ace-force.json) |
 | Ace Invaders | 147460 | [147460-ace-invaders.json](./147460-ace-invaders.json) |
 | Ace Racer | 174905 | [174905-ace-racer.json](./174905-ace-racer.json) |
+| Ace Ventura: Pet Detective - The Case of the Serial Shaver | 61643 | [61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json](./61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json) |
 | Acedior | 70432 | [70432-acedior.json](./70432-acedior.json) |
 | AceForce 2 | 311282 | [311282-aceforce-2.json](./311282-aceforce-2.json) |
 | Aces High! | 328246 | [328246-aces-high.json](./328246-aces-high.json) |
@@ -479,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akatsuki no Goei Trinity: Complete Edition | 202955 | [202955-akatsuki-no-goei-trinity-complete-edition.json](./202955-akatsuki-no-goei-trinity-complete-edition.json) |
 | Akatsuki no Goei: Principal-tachi no Kyuujitsu | 202952 | [202952-akatsuki-no-goei-principal-tachi-no-kyuujitsu.json](./202952-akatsuki-no-goei-principal-tachi-no-kyuujitsu.json) |
 | Akatsuki no Goei: Tsumibukaki Shuumatsuron | 202953 | [202953-akatsuki-no-goei-tsumibukaki-shuumatsuron.json](./202953-akatsuki-no-goei-tsumibukaki-shuumatsuron.json) |
+| Akatsuki: Shisei Ichi-go | 61628 | [61628-akatsuki-shisei-ichi-go.json](./61628-akatsuki-shisei-ichi-go.json) |
 | Akayashiki | 297794 | [297794-akayashiki.json](./297794-akayashiki.json) |
 | Akazukin Cha Cha Cha | 265971 | [265971-akazukin-cha-cha-cha.json](./265971-akazukin-cha-cha-cha.json) |
 | Akazukin Dark Side | 150154 | [150154-akazukin-dark-side.json](./150154-akazukin-dark-side.json) |
@@ -612,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AllFive Classic | 307277 | [307277-allfive-classic.json](./307277-allfive-classic.json) |
 | AllFive XP | 307280 | [307280-allfive-xp.json](./307280-allfive-xp.json) |
 | Alliance at War | 193992 | [193992-alliance-at-war.json](./193992-alliance-at-war.json) |
+| Alliance: Future Combat | 61681 | [61681-alliance-future-combat.json](./61681-alliance-future-combat.json) |
 | Allotropy | 169472 | [169472-allotropy.json](./169472-allotropy.json) |
 | Almost Reversi | 316407 | [316407-almost-reversi.json](./316407-almost-reversi.json) |
 | Aloha Play | 91408 | [91408-aloha-play.json](./91408-aloha-play.json) |
@@ -656,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AmazeBowl | 104070 | [104070-amazebowl.json](./104070-amazebowl.json) |
 | Amazeing Lemons | 75901 | [75901-amazeing-lemons.json](./75901-amazeing-lemons.json) |
 | Amazething | 154020 | [154020-amazething.json](./154020-amazething.json) |
+| Amazing Adventures: The Forgotten Dynasty | 61675 | [61675-amazing-adventures-the-forgotten-dynasty.json](./61675-amazing-adventures-the-forgotten-dynasty.json) |
 | Amazing Breaker | 65493 | [65493-amazing-breaker.json](./65493-amazing-breaker.json) |
 | Amazing Crime Rope Stickman | 296072 | [296072-amazing-crime-rope-stickman.json](./296072-amazing-crime-rope-stickman.json) |
 | Amazing Drones | 76619 | [76619-amazing-drones.json](./76619-amazing-drones.json) |
