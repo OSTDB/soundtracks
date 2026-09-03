@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HollowPath | 221429 | [221429-hollowpath.json](./221429-hollowpath.json) |
 | Holly: A Christmas Tale | 177046 | [177046-holly-a-christmas-tale.json](./177046-holly-a-christmas-tale.json) |
 | Hollybound | 262653 | [262653-hollybound.json](./262653-hollybound.json) |
+| Hollywood Monsters | 71516 | [71516-hollywood-monsters.json](./71516-hollywood-monsters.json) |
 | Hollywoodle | 325824 | [325824-hollywoodle.json](./325824-hollywoodle.json) |
 | Hololive Treasure Mountain | 311821 | [311821-hololive-treasure-mountain.json](./311821-hololive-treasure-mountain.json) |
 | Holonglide | 106611 | [106611-holonglide.json](./106611-holonglide.json) |
@@ -665,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honeycomb Hotel ZEN | 96056 | [96056-honeycomb-hotel-zen.json](./96056-honeycomb-hotel-zen.json) |
 | HoneySun | 260407 | [260407-honeysun.json](./260407-honeysun.json) |
 | Hong Kong Mahjong Pro | 79933 | [79933-hong-kong-mahjong-pro.json](./79933-hong-kong-mahjong-pro.json) |
+| Hong Kong Phooey: No.1 Super Guy | 71528 | [71528-hong-kong-phooey-no-1-super-guy.json](./71528-hong-kong-phooey-no-1-super-guy.json) |
 | Honkai Impact 3rd: Cutting Dreams at Dawn | 268770 | [268770-honkai-impact-3rd-cutting-dreams-at-dawn.json](./268770-honkai-impact-3rd-cutting-dreams-at-dawn.json) |
 | Honkai Impact 3rd: Elysian Reverie | 276496 | [276496-honkai-impact-3rd-elysian-reverie.json](./276496-honkai-impact-3rd-elysian-reverie.json) |
 | Honkai Impact 3rd: Equinox Gate | 276497 | [276497-honkai-impact-3rd-equinox-gate.json](./276497-honkai-impact-3rd-equinox-gate.json) |
