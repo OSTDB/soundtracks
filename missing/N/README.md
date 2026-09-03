@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nana-chan no Star Tanjou | 66131 | [66131-nana-chan-no-star-tanjou.json](./66131-nana-chan-no-star-tanjou.json) |
 | Nanda's Island | 48048 | [48048-nandas-island.json](./48048-nandas-island.json) |
 | Nandemo!? Taihoman | 264312 | [264312-nandemo-taihoman.json](./264312-nandemo-taihoman.json) |
+| Nankin no Adventure | 41401 | [41401-nankin-no-adventure.json](./41401-nankin-no-adventure.json) |
 | Nanocorp | 173281 | [173281-nanocorp.json](./173281-nanocorp.json) |
 | NanoHive | 216991 | [216991-nanohive.json](./216991-nanohive.json) |
 | Nanos World | 152927 | [152927-nanos-world.json](./152927-nanos-world.json) |
@@ -106,6 +107,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazo no Mini Game: Choigae | 222525 | [222525-nazo-no-mini-game-choigae.json](./222525-nazo-no-mini-game-choigae.json) |
 | Nazo no Minigame | 63902 | [63902-nazo-no-minigame.json](./63902-nazo-no-minigame.json) |
 | Nazo to Kioku no Labyrinth: Somewhere, elsewhere | 172743 | [172743-nazo-to-kioku-no-labyrinth-somewhere-elsewhere.json](./172743-nazo-to-kioku-no-labyrinth-somewhere-elsewhere.json) |
+| Nazoler Land Dai 2-gou | 41400 | [41400-nazoler-land-dai-2-gou.json](./41400-nazoler-land-dai-2-gou.json) |
+| Nazoler Land Dai 3-gou | 41399 | [41399-nazoler-land-dai-3-gou.json](./41399-nazoler-land-dai-3-gou.json) |
+| Nazoler Land Soukan-gou | 41398 | [41398-nazoler-land-soukan-gou.json](./41398-nazoler-land-soukan-gou.json) |
+| Nazoler Land Special!! Quiz-Ou wo Ikuse | 41397 | [41397-nazoler-land-special-quiz-ou-wo-ikuse.json](./41397-nazoler-land-special-quiz-ou-wo-ikuse.json) |
 | NBA 2K19: The Prelude | 110326 | [110326-nba-2k19-the-prelude.json](./110326-nba-2k19-the-prelude.json) |
 | NBA 2K6 | 257114 | [257114-nba-2k6.json](./257114-nba-2k6.json) |
 | NBA Ballers: Rebound | 72721 | [72721-nba-ballers-rebound.json](./72721-nba-ballers-rebound.json) |
@@ -419,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nineteen | 128654 | [128654-nineteen.json](./128654-nineteen.json) |
 | Ninety-Nine Nights Online | 66135 | [66135-ninety-nine-nights-online.json](./66135-ninety-nine-nights-online.json) |
 | Ningen Maru | 178677 | [178677-ningen-maru.json](./178677-ningen-maru.json) |
+| Ningyou Tsukai | 41407 | [41407-ningyou-tsukai.json](./41407-ningyou-tsukai.json) |
 | Ninja Ball | 100192 | [100192-ninja-ball.json](./100192-ninja-ball.json) |
 | Ninja Break | 203559 | [203559-ninja-break.json](./203559-ninja-break.json) |
 | Ninja Chicken 2 | 233763 | [233763-ninja-chicken-2.json](./233763-ninja-chicken-2.json) |
