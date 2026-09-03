@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mosaics 5 | 300375 | [300375-fantasy-mosaics-5.json](./300375-fantasy-mosaics-5.json) |
 | Fantasy Office | 226445 | [226445-fantasy-office.json](./226445-fantasy-office.json) |
 | Fantasy Online 2 | 327624 | [327624-fantasy-online-2.json](./327624-fantasy-online-2.json) |
+| Fantasy Rivals | 63299 | [63299-fantasy-rivals.json](./63299-fantasy-rivals.json) |
 | Fantasy Tavern Simulator | 237088 | [237088-fantasy-tavern-simulator.json](./237088-fantasy-tavern-simulator.json) |
 | Fantasy Up | 259286 | [259286-fantasy-up.json](./259286-fantasy-up.json) |
 | Fantasy World | 68687 | [68687-fantasy-world.json](./68687-fantasy-world.json) |
@@ -295,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feudalism | 234914 | [234914-feudalism.json](./234914-feudalism.json) |
 | Feudalism II | 234915 | [234915-feudalism-ii.json](./234915-feudalism-ii.json) |
 | Fey: Distant Daydream | 189201 | [189201-fey-distant-daydream.json](./189201-fey-distant-daydream.json) |
+| Fez II | 63291 | [63291-fez-ii.json](./63291-fez-ii.json) |
 | FF Link | 311806 | [311806-ff-link.json](./311806-ff-link.json) |
 | FF56! | 93054 | [93054-ff56.json](./93054-ff56.json) |
 | FFF | 219303 | [219303-fff.json](./219303-fff.json) |
@@ -356,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy IV: Unprecedented Crisis | 215385 | [215385-final-fantasy-iv-unprecedented-crisis.json](./215385-final-fantasy-iv-unprecedented-crisis.json) |
 | Final Fantasy IX Remake | 309656 | [309656-final-fantasy-ix-remake.json](./309656-final-fantasy-ix-remake.json) |
 | Final Fantasy Redux | 219282 | [219282-final-fantasy-redux.json](./219282-final-fantasy-redux.json) |
+| Final Fantasy Tactics S | 63312 | [63312-final-fantasy-tactics-s.json](./63312-final-fantasy-tactics-s.json) |
 | Final Fantasy VI: A Soldier's Contingency | 312346 | [312346-final-fantasy-vi-a-soldiers-contingency.json](./312346-final-fantasy-vi-a-soldiers-contingency.json) |
 | Final Fantasy XIV: Endwalker - Collector's Edition | 152343 | [152343-final-fantasy-xiv-endwalker-collectors-edition.json](./152343-final-fantasy-xiv-endwalker-collectors-edition.json) |
 | Final Fantasy XV: Special Edition | 205260 | [205260-final-fantasy-xv-special-edition.json](./205260-final-fantasy-xv-special-edition.json) |
