@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Women's Murder Club: Little Black Lies | 135250 | [135250-womens-murder-club-little-black-lies.json](./135250-womens-murder-club-little-black-lies.json) |
 | Wonder Land | 216483 | [216483-wonder-land.json](./216483-wonder-land.json) |
 | Wonder Mu: Mu to Unmei no Monster | 220323 | [220323-wonder-mu-mu-to-unmei-no-monster.json](./220323-wonder-mu-mu-to-unmei-no-monster.json) |
+| Wonderball Heroes | 83581 | [83581-wonderball-heroes.json](./83581-wonderball-heroes.json) |
 | Wonderland | 95460 | [95460-wonderland.json](./95460-wonderland.json) |
 | Wonderland Nights: White Rabbit's Diary | 151705 | [151705-wonderland-nights-white-rabbits-diary.json](./151705-wonderland-nights-white-rabbits-diary.json) |
 | Wonderland Quest | 216482 | [216482-wonderland-quest.json](./216482-wonderland-quest.json) |
