@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jessica Plunkenstein and the Dusseldorf Conspiracy | 169992 | [169992-jessica-plunkenstein-and-the-dusseldorf-conspiracy.json](./169992-jessica-plunkenstein-and-the-dusseldorf-conspiracy.json) |
 | Jester / King | 166745 | [166745-jester-king.json](./166745-jester-king.json) |
 | Jesucristo: El Robot del Futuro | 302125 | [302125-jesucristo-el-robot-del-futuro.json](./302125-jesucristo-el-robot-del-futuro.json) |
+| Jet Bike Simulator | 55211 | [55211-jet-bike-simulator.json](./55211-jet-bike-simulator.json) |
 | Jet Blaster | 239905 | [239905-jet-blaster.json](./239905-jet-blaster.json) |
 | Jet Buster | 68698 | [68698-jet-buster.json](./68698-jet-buster.json) |
 | Jet Pack | 84273 | [84273-jet-pack.json](./84273-jet-pack.json) |
