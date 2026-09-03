@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm in Love With Your Dead Grandmother Presents: Noah Smalljohnson's Puzzle Game - Digital Deluxe Mega Chad Edition | 332816 | [332816-im-in-love-with-your-dead-grandmother-presents-noah-smalljohnsons-puzzle-game-digital-deluxe-mega-chad-edition.json](./332816-im-in-love-with-your-dead-grandmother-presents-noah-smalljohnsons-puzzle-game-digital-deluxe-mega-chad-edition.json) |
 | I'm Just a Slime | 260424 | [260424-im-just-a-slime.json](./260424-im-just-a-slime.json) |
 | I'm Late | 223173 | [223173-im-late.json](./223173-im-late.json) |
+| I'm Lost | 75189 | [75189-im-lost.json](./75189-im-lost.json) |
 | I'm Not Sleepy | 295002 | [295002-im-not-sleepy.json](./295002-im-not-sleepy.json) |
 | I'm on Cirno Duty | 206931 | [206931-im-on-cirno-duty.json](./206931-im-on-cirno-duty.json) |
 | I'm the Policeman | 278704 | [278704-im-the-policeman.json](./278704-im-the-policeman.json) |
@@ -165,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illuminator | 243937 | [243937-illuminator.json](./243937-illuminator.json) |
 | Illusion | 211960 | [211960-illusion.json](./211960-illusion.json) |
 | Illusion Inexistante | 292815 | [292815-illusion-inexistante.json](./292815-illusion-inexistante.json) |
+| Illville: Return instructions | 75180 | [75180-illville-return-instructions.json](./75180-illville-return-instructions.json) |
 | Illwind | 251835 | [251835-illwind.json](./251835-illwind.json) |
 | Im Bann Der Dunklen Jagd | 324674 | [324674-im-bann-der-dunklen-jagd.json](./324674-im-bann-der-dunklen-jagd.json) |
 | Ima wo Ikinobite | 208611 | [208611-ima-wo-ikinobite.json](./208611-ima-wo-ikinobite.json) |
