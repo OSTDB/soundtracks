@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.R.B.A.N The Cyborg Project | 126029 | [126029-u-r-b-a-n-the-cyborg-project.json](./126029-u-r-b-a-n-the-cyborg-project.json) |
 | U.S.A. Football | 93576 | [93576-u-s-a-football.json](./93576-u-s-a-football.json) |
 | U96 | 207513 | [207513-u96.json](./207513-u96.json) |
+| Ubergridder | 92521 | [92521-ubergridder.json](./92521-ubergridder.json) |
 | Ubok. | 150160 | [150160-ubok.json](./150160-ubok.json) |
 | UC Love | 238218 | [238218-uc-love.json](./238218-uc-love.json) |
 | Uchi Tore: Saitan 4-fun Kin Tore & Yuusansou Undou | 276469 | [276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json](./276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json) |
