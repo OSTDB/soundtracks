@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Rhea | 119026 | [119026-kingdom-of-rhea.json](./119026-kingdom-of-rhea.json) |
 | Kingdom Run VR | 235469 | [235469-kingdom-run-vr.json](./235469-kingdom-run-vr.json) |
 | Kingdom Two Crowns: Jarl Edition | 186896 | [186896-kingdom-two-crowns-jarl-edition.json](./186896-kingdom-two-crowns-jarl-edition.json) |
+| Kingdom Warriors | 58240 | [58240-kingdom-warriors.json](./58240-kingdom-warriors.json) |
 | Kingdom's Life | 189177 | [189177-kingdoms-life.json](./189177-kingdoms-life.json) |
 | Kingdoms of Marazia: Classic | 107199 | [107199-kingdoms-of-marazia-classic.json](./107199-kingdoms-of-marazia-classic.json) |
 | Kingdoms: The Crown | 100212 | [100212-kingdoms-the-crown.json](./100212-kingdoms-the-crown.json) |
@@ -443,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Do Fighting | 58798 | [58798-kung-fu-do-fighting.json](./58798-kung-fu-do-fighting.json) |
 | Kung Fu Duel | 336930 | [336930-kung-fu-duel.json](./336930-kung-fu-duel.json) |
 | Kung Fu Fearsome Fists | 333947 | [333947-kung-fu-fearsome-fists.json](./333947-kung-fu-fearsome-fists.json) |
+| Kung Fu Fight! | 58239 | [58239-kung-fu-fight.json](./58239-kung-fu-fight.json) |
 | Kung Fu Panda 2 | 230549 | [230549-kung-fu-panda-2.json](./230549-kung-fu-panda-2.json) |
 | Kung Fu Panda: Legendary Warriors | 259266 | [259266-kung-fu-panda-legendary-warriors.json](./259266-kung-fu-panda-legendary-warriors.json) |
 | Kung Fury: Street Rage - Ultimate Edition | 204716 | [204716-kung-fury-street-rage-ultimate-edition.json](./204716-kung-fury-street-rage-ultimate-edition.json) |
