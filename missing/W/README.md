@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakfu: Ouginak Pack | 225873 | [225873-wakfu-ouginak-pack.json](./225873-wakfu-ouginak-pack.json) |
 | Waking Atlas | 251829 | [251829-waking-atlas.json](./251829-waking-atlas.json) |
 | Waku Waku Sweets | 102782 | [102782-waku-waku-sweets.json](./102782-waku-waku-sweets.json) |
+| Waku Waku Sweets: Happy Sweets Making | 96093 | [96093-waku-waku-sweets-happy-sweets-making.json](./96093-waku-waku-sweets-happy-sweets-making.json) |
 | Wales Interactive Publisher Bundle | 301564 | [301564-wales-interactive-publisher-bundle.json](./301564-wales-interactive-publisher-bundle.json) |
 | Walk Home | 183069 | [183069-walk-home.json](./183069-walk-home.json) |
 | Walk With Me | 128002 | [128002-walk-with-me.json](./128002-walk-with-me.json) |
@@ -185,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Web Crawlies | 236523 | [236523-web-crawlies.json](./236523-web-crawlies.json) |
 | Web Runner | 178066 | [178066-web-runner.json](./178066-web-runner.json) |
 | Web Spice Purple World | 128020 | [128020-web-spice-purple-world.json](./128020-web-spice-purple-world.json) |
+| Wedding Girl Makeover | 96072 | [96072-wedding-girl-makeover.json](./96072-wedding-girl-makeover.json) |
 | Weed Farmer | 200201 | [200201-weed-farmer.json](./200201-weed-farmer.json) |
 | Weed Shop 4: Highland | 309645 | [309645-weed-shop-4-highland.json](./309645-weed-shop-4-highland.json) |
 | Weekend Drive | 109019 | [109019-weekend-drive.json](./109019-weekend-drive.json) |
@@ -313,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiffel Ball | 205806 | [205806-wiffel-ball.json](./205806-wiffel-ball.json) |
 | Wild Adventure | 208032 | [208032-wild-adventure.json](./208032-wild-adventure.json) |
 | Wild Earth: Africa | 195802 | [195802-wild-earth-africa.json](./195802-wild-earth-africa.json) |
+| Wild Fishing Simulator | 96083 | [96083-wild-fishing-simulator.json](./96083-wild-fishing-simulator.json) |
 | Wild Hearts: Karakuri Edition | 228734 | [228734-wild-hearts-karakuri-edition.json](./228734-wild-hearts-karakuri-edition.json) |
 | Wild Ice | 166777 | [166777-wild-ice.json](./166777-wild-ice.json) |
 | Wild Marble Beats | 181351 | [181351-wild-marble-beats.json](./181351-wild-marble-beats.json) |
@@ -452,10 +455,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wooo 2 | 260978 | [260978-wooo-2.json](./260978-wooo-2.json) |
 | Word After Word | 134653 | [134653-word-after-word.json](./134653-word-after-word.json) |
 | Word Connect 2 | 105965 | [105965-word-connect-2.json](./105965-word-connect-2.json) |
+| Word Connect HD | 96069 | [96069-word-connect-hd.json](./96069-word-connect-hd.json) |
 | Word Crystal | 195197 | [195197-word-crystal.json](./195197-word-crystal.json) |
 | Word Escape | 152930 | [152930-word-escape.json](./152930-word-escape.json) |
 | Word Feud | 131583 | [131583-word-feud.json](./131583-word-feud.json) |
 | Word Finder - Word Connect | 96742 | [96742-word-finder-word-connect.json](./96742-word-finder-word-connect.json) |
+| Word Games - Order letters and create words | 96070 | [96070-word-games-order-letters-and-create-words.json](./96070-word-games-order-letters-and-create-words.json) |
 | Word of Kitchen | 190702 | [190702-word-of-kitchen.json](./190702-word-of-kitchen.json) |
 | Word Quiz - Funny | 104686 | [104686-word-quiz-funny.json](./104686-word-quiz-funny.json) |
 | Word Search - Puzzle Game For Kids | 108507 | [108507-word-search-puzzle-game-for-kids.json](./108507-word-search-puzzle-game-for-kids.json) |
