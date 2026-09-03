@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle & Myosotis | 178662 | [178662-castle-and-myosotis.json](./178662-castle-and-myosotis.json) |
 | Castle Creeps Battle | 105908 | [105908-castle-creeps-battle.json](./105908-castle-creeps-battle.json) |
 | Castle Formers | 154026 | [154026-castle-formers.json](./154026-castle-formers.json) |
+| Castle Hassle | 59452 | [59452-castle-hassle.json](./59452-castle-hassle.json) |
 | Castle of Awa | 104089 | [104089-castle-of-awa.json](./104089-castle-of-awa.json) |
 | Castle of Doom | 215380 | [215380-castle-of-doom.json](./215380-castle-of-doom.json) |
 | Castle of Horrors: The Awful Tortures | 276474 | [276474-castle-of-horrors-the-awful-tortures.json](./276474-castle-of-horrors-the-awful-tortures.json) |
@@ -530,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choko Loco 2 | 321179 | [321179-choko-loco-2.json](./321179-choko-loco-2.json) |
 | Chokotto Study Mijika na Kotoba | 252409 | [252409-chokotto-study-mijika-na-kotoba.json](./252409-chokotto-study-mijika-na-kotoba.json) |
 | Chomp! | 137067 | [137067-chomp.json](./137067-chomp.json) |
+| Chomper's Adventure | 59451 | [59451-chompers-adventure.json](./59451-chompers-adventure.json) |
 | Choo Choo Crossing | 278722 | [278722-choo-choo-crossing.json](./278722-choo-choo-crossing.json) |
 | Choo Choo Minder | 252988 | [252988-choo-choo-minder.json](./252988-choo-choo-minder.json) |
 | Choose an Enemy | 93051 | [93051-choose-an-enemy.json](./93051-choose-an-enemy.json) |
@@ -1074,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Collapse | 275327 | [275327-cosmic-collapse.json](./275327-cosmic-collapse.json) |
 | Cosmic Consensus | 68045 | [68045-cosmic-consensus.json](./68045-cosmic-consensus.json) |
 | Cosmic Cruiser | 210871 | [210871-cosmic-cruiser.json](./210871-cosmic-cruiser.json) |
+| Cosmic Cruncher | 59448 | [59448-cosmic-cruncher.json](./59448-cosmic-cruncher.json) |
 | Cosmic Fantasy Collection | 269306 | [269306-cosmic-fantasy-collection.json](./269306-cosmic-fantasy-collection.json) |
 | Cosmic Monsters 2 Enclaves Dawn | 195264 | [195264-cosmic-monsters-2-enclaves-dawn.json](./195264-cosmic-monsters-2-enclaves-dawn.json) |
 | Cosmic Payback | 318230 | [318230-cosmic-payback.json](./318230-cosmic-payback.json) |
@@ -1233,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crescent Loom | 134667 | [134667-crescent-loom.json](./134667-crescent-loom.json) |
 | Crescite | 262096 | [262096-crescite.json](./262096-crescite.json) |
 | Cresteaju | 143094 | [143094-cresteaju.json](./143094-cresteaju.json) |
+| Crevis | 59413 | [59413-crevis.json](./59413-crevis.json) |
 | Crew Crew Blocks | 150162 | [150162-crew-crew-blocks.json](./150162-crew-crew-blocks.json) |
 | Crey | 126030 | [126030-crey.json](./126030-crey.json) |
 | Criaturas de la Noche | 272011 | [272011-criaturas-de-la-noche.json](./272011-criaturas-de-la-noche.json) |
