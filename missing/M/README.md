@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Market Dominion | 114393 | [114393-market-dominion.json](./114393-market-dominion.json) |
 | Market Trouble | 182541 | [182541-market-trouble.json](./182541-market-trouble.json) |
 | Marlboro Go! | 253027 | [253027-marlboro-go.json](./253027-marlboro-go.json) |
+| Marriage or Pervert: The Small Penis Warrior & The Perverted Magician | 82909 | [82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json](./82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json) |
 | Mars for the Rich | 202382 | [202382-mars-for-the-rich.json](./202382-mars-for-the-rich.json) |
 | Mars: Chaos Menace | 111712 | [111712-mars-chaos-menace.json](./111712-mars-chaos-menace.json) |
 | Marshin | 121770 | [121770-marshin.json](./121770-marshin.json) |
@@ -429,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me and the Zombies | 200714 | [200714-me-and-the-zombies.json](./200714-me-and-the-zombies.json) |
 | Me vs. You | 172177 | [172177-me-vs-you.json](./172177-me-vs-you.json) |
 | Meal: Mystery Escape Room | 311828 | [311828-meal-mystery-escape-room.json](./311828-meal-mystery-escape-room.json) |
+| Meaning | 82891 | [82891-meaning.json](./82891-meaning.json) |
 | Measurement Problem | 166740 | [166740-measurement-problem.json](./166740-measurement-problem.json) |
 | Meat & Greed | 203546 | [203546-meat-and-greed.json](./203546-meat-and-greed.json) |
 | Meat Shift | 181895 | [181895-meat-shift.json](./181895-meat-shift.json) |
@@ -874,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Memories | 257088 | [257088-missing-memories.json](./257088-missing-memories.json) |
 | Missing Mildred | 189190 | [189190-missing-mildred.json](./189190-missing-mildred.json) |
 | Missing: Itsuka Kitto | 257653 | [257653-missing-itsuka-kitto.json](./257653-missing-itsuka-kitto.json) |
+| Mission Angel Angelic Pink | 82908 | [82908-mission-angel-angelic-pink.json](./82908-mission-angel-angelic-pink.json) |
 | Mission Bravo | 295040 | [295040-mission-bravo.json](./295040-mission-bravo.json) |
 | Mission Critical: Foresight | 186328 | [186328-mission-critical-foresight.json](./186328-mission-critical-foresight.json) |
 | Mission Idle | 172193 | [172193-mission-idle.json](./172193-mission-idle.json) |
@@ -1249,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mroi | 333940 | [333940-mroi.json](./333940-mroi.json) |
 | Ms. Holmes: The Adventure of the McKirk Ritual - Collector's Edition | 186333 | [186333-ms-holmes-the-adventure-of-the-mckirk-ritual-collectors-edition.json](./186333-ms-holmes-the-adventure-of-the-mckirk-ritual-collectors-edition.json) |
 | Ms. Pac Person | 209155 | [209155-ms-pac-person.json](./209155-ms-pac-person.json) |
+| Ms. Rufiia's Struggle for Repayment: To Be a Lewd Arcdaemon | 82882 | [82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json](./82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json) |
 | Msoids | 199081 | [199081-msoids.json](./199081-msoids.json) |
 | MT Force Aliens Uprising | 341343 | [341343-mt-force-aliens-uprising.json](./341343-mt-force-aliens-uprising.json) |
 | MTB DirtCross | 298860 | [298860-mtb-dirtcross.json](./298860-mtb-dirtcross.json) |
