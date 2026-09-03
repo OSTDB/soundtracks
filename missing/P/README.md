@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perspectrum | 106613 | [106613-perspectrum.json](./106613-perspectrum.json) |
 | Perverts Society | 110357 | [110357-perverts-society.json](./110357-perverts-society.json) |
 | PES 2018 Mobile | 240469 | [240469-pes-2018-mobile.json](./240469-pes-2018-mobile.json) |
+| Pesterminator: The Western Exterminator | 48080 | [48080-pesterminator-the-western-exterminator.json](./48080-pesterminator-the-western-exterminator.json) |
 | Pet Cemetery | 302710 | [302710-pet-cemetery.json](./302710-pet-cemetery.json) |
 | Pet Cube: Tower Stack | 242211 | [242211-pet-cube-tower-stack.json](./242211-pet-cube-tower-stack.json) |
 | Pet Dog | 178682 | [178682-pet-dog.json](./178682-pet-dog.json) |
@@ -549,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball HD | 88282 | [88282-pinball-hd.json](./88282-pinball-hd.json) |
 | Pinball Heroes: Wipeout HD Fury | 52655 | [52655-pinball-heroes-wipeout-hd-fury.json](./52655-pinball-heroes-wipeout-hd-fury.json) |
 | Pinball Lockdown | 133432 | [133432-pinball-lockdown.json](./133432-pinball-lockdown.json) |
+| Pinball Quest | 48026 | [48026-pinball-quest.json](./48026-pinball-quest.json) |
 | Pinball Shuffle | 88315 | [88315-pinball-shuffle.json](./88315-pinball-shuffle.json) |
 | Pinball-e | 170009 | [170009-pinball-e.json](./170009-pinball-e.json) |
 | Pinball: Our Church and Halloween RPG - Machine #1 | 208619 | [208619-pinball-our-church-and-halloween-rpg-machine-1.json](./208619-pinball-our-church-and-halloween-rpg-machine-1.json) |
