@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backwards | 179176 | [179176-backwards.json](./179176-backwards.json) |
 | Backyard Monsters | 159324 | [159324-backyard-monsters.json](./159324-backyard-monsters.json) |
 | Backyard Parking 3D | 83579 | [83579-backyard-parking-3d.json](./83579-backyard-parking-3d.json) |
+| Backyard Soccer 2004 | 72711 | [72711-backyard-soccer-2004.json](./72711-backyard-soccer-2004.json) |
 | Bacteria Warfare | 309097 | [309097-bacteria-warfare.json](./309097-bacteria-warfare.json) |
 | Bacteria Wars | 165701 | [165701-bacteria-wars.json](./165701-bacteria-wars.json) |
 | Bacteriophage | 197948 | [197948-bacteriophage.json](./197948-bacteriophage.json) |
@@ -242,6 +243,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball | 245560 | [245560-baseball.json](./245560-baseball.json) |
 | Baseball | 245561 | [245561-baseball.json](./245561-baseball.json) |
 | Baseball Kings VR | 89255 | [89255-baseball-kings-vr.json](./89255-baseball-kings-vr.json) |
+| Baseball Mogul 2000 | 72675 | [72675-baseball-mogul-2000.json](./72675-baseball-mogul-2000.json) |
+| Baseball Mogul 2004 | 72677 | [72677-baseball-mogul-2004.json](./72677-baseball-mogul-2004.json) |
+| Baseball Mogul 2005 | 72676 | [72676-baseball-mogul-2005.json](./72676-baseball-mogul-2005.json) |
+| Baseball Mogul 2008 | 72673 | [72673-baseball-mogul-2008.json](./72673-baseball-mogul-2008.json) |
 | Baseball Stars | 273094 | [273094-baseball-stars.json](./273094-baseball-stars.json) |
 | Baseball-e | 170006 | [170006-baseball-e.json](./170006-baseball-e.json) |
 | Basemental Gangs | 259230 | [259230-basemental-gangs.json](./259230-basemental-gangs.json) |
