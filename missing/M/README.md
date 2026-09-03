@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Ring Possible | 141901 | [141901-mission-ring-possible.json](./141901-mission-ring-possible.json) |
 | Mission Supernova | 93040 | [93040-mission-supernova.json](./93040-mission-supernova.json) |
 | Mission: Driver | 210855 | [210855-mission-driver.json](./210855-mission-driver.json) |
+| Mission: Humanity | 73325 | [73325-mission-humanity.json](./73325-mission-humanity.json) |
 | Mission: Rift Seeker | 295539 | [295539-mission-rift-seeker.json](./295539-mission-rift-seeker.json) |
 | Mistake | 189188 | [189188-mistake.json](./189188-mistake.json) |
 | Mistake Souls | 75193 | [75193-mistake-souls.json](./75193-mistake-souls.json) |
@@ -1323,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder at Masquerade Manor | 223682 | [223682-murder-at-masquerade-manor.json](./223682-murder-at-masquerade-manor.json) |
 | Murder by Moonlight 2: Crimson Night | 193501 | [193501-murder-by-moonlight-2-crimson-night.json](./193501-murder-by-moonlight-2-crimson-night.json) |
 | Murder Is Game Over: The Blackinton Curse | 318208 | [318208-murder-is-game-over-the-blackinton-curse.json](./318208-murder-is-game-over-the-blackinton-curse.json) |
+| Murder Makes Strange Deadfellows | 73320 | [73320-murder-makes-strange-deadfellows.json](./73320-murder-makes-strange-deadfellows.json) |
 | Murder on the Spaceship Altair | 312330 | [312330-murder-on-the-spaceship-altair.json](./312330-murder-on-the-spaceship-altair.json) |
 | Murder Reservation | 129205 | [129205-murder-reservation.json](./129205-murder-reservation.json) |
 | Murderwave: Digital Slaughter | 121011 | [121011-murderwave-digital-slaughter.json](./121011-murderwave-digital-slaughter.json) |
@@ -1460,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Woods | 335652 | [335652-my-woods.json](./335652-my-woods.json) |
 | My Young Boyfriend Part 1 | 298881 | [298881-my-young-boyfriend-part-1.json](./298881-my-young-boyfriend-part-1.json) |
 | My Young Boyfriend Part 2 | 303273 | [303273-my-young-boyfriend-part-2.json](./303273-my-young-boyfriend-part-2.json) |
+| Mychess | 73301 | [73301-mychess.json](./73301-mychess.json) |
 | Myles Wright: Ace Attorney | 303775 | [303775-myles-wright-ace-attorney.json](./303775-myles-wright-ace-attorney.json) |
 | Myrddin | 174361 | [174361-myrddin.json](./174361-myrddin.json) |
 | Myriad Mayhem | 258208 | [258208-myriad-mayhem.json](./258208-myriad-mayhem.json) |
@@ -1478,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: The Last Resort - Collector's Edition | 236009 | [236009-mystery-case-files-the-last-resort-collectors-edition.json](./236009-mystery-case-files-the-last-resort-collectors-edition.json) |
 | Mystery Crypt | 261520 | [261520-mystery-crypt.json](./261520-mystery-crypt.json) |
 | Mystery Dungeon | 200184 | [200184-mystery-dungeon.json](./200184-mystery-dungeon.json) |
+| Mystery Master: Felony! | 73291 | [73291-mystery-master-felony.json](./73291-mystery-master-felony.json) |
 | Mystery Masters: Carnival of Crime - Collector's Edition | 201820 | [201820-mystery-masters-carnival-of-crime-collectors-edition.json](./201820-mystery-masters-carnival-of-crime-collectors-edition.json) |
 | Mystery Masters: Mysteries of the Heart | 201812 | [201812-mystery-masters-mysteries-of-the-heart.json](./201812-mystery-masters-mysteries-of-the-heart.json) |
 | Mystery Masters: Wicked Worlds Collection | 201860 | [201860-mystery-masters-wicked-worlds-collection.json](./201860-mystery-masters-wicked-worlds-collection.json) |
