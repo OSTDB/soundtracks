@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireball Classic | 91446 | [91446-fireball-classic.json](./91446-fireball-classic.json) |
 | Firefight | 121746 | [121746-firefight.json](./121746-firefight.json) |
 | Firefighter Connor | 266524 | [266524-firefighter-connor.json](./266524-firefighter-connor.json) |
+| Firefly | 55209 | [55209-firefly.json](./55209-firefly.json) |
 | FireFly Studios' Stronghold Warchest | 78021 | [78021-firefly-studios-stronghold-warchest.json](./78021-firefly-studios-stronghold-warchest.json) |
 | Firefly Witch | 275345 | [275345-firefly-witch.json](./275345-firefly-witch.json) |
 | FireJumpers Inferno: Full Version Unlock | 220864 | [220864-firejumpers-inferno-full-version-unlock.json](./220864-firejumpers-inferno-full-version-unlock.json) |
