@@ -341,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why Did The Chicken Cross The Road? | 310753 | [310753-why-did-the-chicken-cross-the-road.json](./310753-why-did-the-chicken-cross-the-road.json) |
 | Wi-Fi Taiou: Gensen Table Game Wii | 268206 | [268206-wi-fi-taiou-gensen-table-game-wii.json](./268206-wi-fi-taiou-gensen-table-game-wii.json) |
 | Wibarm | 84248 | [84248-wibarm.json](./84248-wibarm.json) |
+| Wiblits | 58269 | [58269-wiblits.json](./58269-wiblits.json) |
 | Wicked Monsters Blast! HD Plus | 85482 | [85482-wicked-monsters-blast-hd-plus.json](./85482-wicked-monsters-blast-hd-plus.json) |
 | Wicked Plague | 324691 | [324691-wicked-plague.json](./324691-wicked-plague.json) |
 | Wicked Willow | 137647 | [137647-wicked-willow.json](./137647-wicked-willow.json) |
@@ -629,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worst Case | 320552 | [320552-worst-case.json](./320552-worst-case.json) |
 | Worst Dating Sim | 178658 | [178658-worst-dating-sim.json](./178658-worst-dating-sim.json) |
 | Worth Life | 152369 | [152369-worth-life.json](./152369-worth-life.json) |
+| WortWechsel | 58232 | [58232-wortwechsel.json](./58232-wortwechsel.json) |
 | Would you rather?! | 90677 | [90677-would-you-rather.json](./90677-would-you-rather.json) |
 | Would You Sell Your Soul? 2 | 303265 | [303265-would-you-sell-your-soul-2.json](./303265-would-you-sell-your-soul-2.json) |
 | Wraith | 125994 | [125994-wraith.json](./125994-wraith.json) |
@@ -664,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wufo | 228074 | [228074-wufo.json](./228074-wufo.json) |
 | Wǔlín Zhēngbà zhī Yīngxióng Tiē | 93585 | [93585-wulin-zhengba-zhi-yingxiong-tie.json](./93585-wulin-zhengba-zhi-yingxiong-tie.json) |
 | Wunderhaven | 166763 | [166763-wunderhaven.json](./166763-wunderhaven.json) |
+| Wurd Torn | 58230 | [58230-wurd-torn.json](./58230-wurd-torn.json) |
 | Wurdweb | 165047 | [165047-wurdweb.json](./165047-wurdweb.json) |
 | Wurmus | 181389 | [181389-wurmus.json](./181389-wurmus.json) |
 | Wuxia Master | 109703 | [109703-wuxia-master.json](./109703-wuxia-master.json) |
