@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Ants | 232143 | [232143-tap-tap-ants.json](./232143-tap-tap-ants.json) |
 | Tap Tap Builder | 75141 | [75141-tap-tap-builder.json](./75141-tap-tap-builder.json) |
 | Tap Tap Dunk | 102161 | [102161-tap-tap-dunk.json](./102161-tap-tap-dunk.json) |
+| Tap Tap Radiation | 66156 | [66156-tap-tap-radiation.json](./66156-tap-tap-radiation.json) |
 | Tap the Blocks | 214195 | [214195-tap-the-blocks.json](./214195-tap-the-blocks.json) |
 | Tap Titans | 91424 | [91424-tap-titans.json](./91424-tap-titans.json) |
 | Tapgym | 261515 | [261515-tapgym.json](./261515-tapgym.json) |
@@ -452,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Assassins: PD Games Volume 01 | 267643 | [267643-the-assassins-pd-games-volume-01.json](./267643-the-assassins-pd-games-volume-01.json) |
 | The Assistant's Turnabout | 303261 | [303261-the-assistants-turnabout.json](./303261-the-assistants-turnabout.json) |
 | The Astronomy Game | 156144 | [156144-the-astronomy-game.json](./156144-the-astronomy-game.json) |
+| The Asylum: Psychiatric Clinic for Abused Cuddly Toys | 66153 | [66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json](./66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json) |
 | The Auto Sort Is Broken | 329363 | [329363-the-auto-sort-is-broken.json](./329363-the-auto-sort-is-broken.json) |
 | The Avengers | 86108 | [86108-the-avengers.json](./86108-the-avengers.json) |
 | The Awakening of a Villainous Lady: A Crimson and Pure White Romance | 310208 | [310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json](./310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json) |
@@ -495,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Pepper Crew | 184629 | [184629-the-black-pepper-crew.json](./184629-the-black-pepper-crew.json) |
 | The Black Pool | 226447 | [226447-the-black-pool.json](./226447-the-black-pool.json) |
 | The Black Rose | 124260 | [124260-the-black-rose.json](./124260-the-black-rose.json) |
+| The Blocks Cometh | 66103 | [66103-the-blocks-cometh.json](./66103-the-blocks-cometh.json) |
 | The Blue Bedroom | 180847 | [180847-the-blue-bedroom.json](./180847-the-blue-bedroom.json) |
 | The Blue Katana | 185122 | [185122-the-blue-katana.json](./185122-the-blue-katana.json) |
 | The Blue-diamond Damsel in Distress | 336386 | [336386-the-blue-diamond-damsel-in-distress.json](./336386-the-blue-diamond-damsel-in-distress.json) |
@@ -1859,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Love Hustle | 239872 | [239872-tokyo-love-hustle.json](./239872-tokyo-love-hustle.json) |
 | Tokyo Millennium Collaboration | 333386 | [333386-tokyo-millennium-collaboration.json](./333386-tokyo-millennium-collaboration.json) |
 | Tokyo Mono Hara Shi: Karasu no Mori Gakuen Kitan | 67287 | [67287-tokyo-mono-hara-shi-karasu-no-mori-gakuen-kitan.json](./67287-tokyo-mono-hara-shi-karasu-no-mori-gakuen-kitan.json) |
+| Tokyo Nampa Street | 66132 | [66132-tokyo-nampa-street.json](./66132-tokyo-nampa-street.json) |
 | Tokyo Rock Redemption | 298899 | [298899-tokyo-rock-redemption.json](./298899-tokyo-rock-redemption.json) |
 | Tokyo Shadow | 209609 | [209609-tokyo-shadow.json](./209609-tokyo-shadow.json) |
 | Tokyo Wall-gai | 220301 | [220301-tokyo-wall-gai.json](./220301-tokyo-wall-gai.json) |
@@ -1989,6 +1993,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touchdown Pinball | 129804 | [129804-touchdown-pinball.json](./129804-touchdown-pinball.json) |
 | Touchgrind BMX | 88294 | [88294-touchgrind-bmx.json](./88294-touchgrind-bmx.json) |
 | TouchSports Tennis 2012 HD | 233744 | [233744-touchsports-tennis-2012-hd.json](./233744-touchsports-tennis-2012-hd.json) |
+| Touge King: The Spirits 2 | 66100 | [66100-touge-king-the-spirits-2.json](./66100-touge-king-the-spirits-2.json) |
+| Touge Max 2 | 66099 | [66099-touge-max-2.json](./66099-touge-max-2.json) |
 | Touhou Cannonball | 111052 | [111052-touhou-cannonball.json](./111052-touhou-cannonball.json) |
 | Touhou Chouseisho: Sapphire Panlogism | 181892 | [181892-touhou-chouseisho-sapphire-panlogism.json](./181892-touhou-chouseisho-sapphire-panlogism.json) |
 | Touhou Danmaku Shunsatsu Gekijou: Shoken Koroshi ni Inochi wo Kakete | 339125 | [339125-touhou-danmaku-shunsatsu-gekijou-shoken-koroshi-ni-inochi-wo-kakete.json](./339125-touhou-danmaku-shunsatsu-gekijou-shoken-koroshi-ni-inochi-wo-kakete.json) |
@@ -2370,6 +2376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuki no Shoujo: Bishoujo Gakuen 2 | 194622 | [194622-tsuki-no-shoujo-bishoujo-gakuen-2.json](./194622-tsuki-no-shoujo-bishoujo-gakuen-2.json) |
 | Tsukihime: Fool's Errand | 254127 | [254127-tsukihime-fools-errand.json](./254127-tsukihime-fools-errand.json) |
 | Tsukikage no Simulacre: Kaihou no Hane | 120995 | [120995-tsukikage-no-simulacre-kaihou-no-hane.json](./120995-tsukikage-no-simulacre-kaihou-no-hane.json) |
+| Tsukumonogatari | 66115 | [66115-tsukumonogatari.json](./66115-tsukumonogatari.json) |
 | Tsumobaka Nisshi | 299440 | [299440-tsumobaka-nisshi.json](./299440-tsumobaka-nisshi.json) |
 | Tsunagaru Voiro Shooters vs. Space Kedamaki | 204732 | [204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json](./204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json) |
 | Tsunami Cruiser | 184655 | [184655-tsunami-cruiser.json](./184655-tsunami-cruiser.json) |
