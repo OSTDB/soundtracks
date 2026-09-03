@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penelope's Odyssey | 190700 | [190700-penelopes-odyssey.json](./190700-penelopes-odyssey.json) |
 | Pengo | 270415 | [270415-pengo.json](./270415-pengo.json) |
 | Penguin Helper | 302112 | [302112-penguin-helper.json](./302112-penguin-helper.json) |
+| Penguin no Mondai X: Tenkuu no 7 Senshi | 68010 | [68010-penguin-no-mondai-x-tenkuu-no-7-senshi.json](./68010-penguin-no-mondai-x-tenkuu-no-7-senshi.json) |
 | Penguin no Mondai: Saikyou Penguin Densetsu! | 69272 | [69272-penguin-no-mondai-saikyou-penguin-densetsu.json](./69272-penguin-no-mondai-saikyou-penguin-densetsu.json) |
 | Penguin Noir | 247764 | [247764-penguin-noir.json](./247764-penguin-noir.json) |
 | Penguin Push | 146894 | [146894-penguin-push.json](./146894-penguin-push.json) |
@@ -710,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play With My Balls | 309674 | [309674-play-with-my-balls.json](./309674-play-with-my-balls.json) |
 | Playback Trauma: The Beach | 159888 | [159888-playback-trauma-the-beach.json](./159888-playback-trauma-the-beach.json) |
 | PlayBound | 126662 | [126662-playbound.json](./126662-playbound.json) |
+| Playboy: The Mansion - Private Party | 68037 | [68037-playboy-the-mansion-private-party.json](./68037-playboy-the-mansion-private-party.json) |
 | Player's Eleven | 129230 | [129230-players-eleven.json](./129230-players-eleven.json) |
 | PlayGuys | 320538 | [320538-playguys.json](./320538-playguys.json) |
 | Playing With Fire 2 | 202372 | [202372-playing-with-fire-2.json](./202372-playing-with-fire-2.json) |
@@ -1046,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Detective Punch Drunk: PDPD | 77365 | [77365-private-detective-punch-drunk-pdpd.json](./77365-private-detective-punch-drunk-pdpd.json) |
 | Private Garden | 331099 | [331099-private-garden.json](./331099-private-garden.json) |
 | Prizefighters | 239914 | [239914-prizefighters.json](./239914-prizefighters.json) |
+| Pro Cycling 2009 | 68004 | [68004-pro-cycling-2009.json](./68004-pro-cycling-2009.json) |
 | Pro Evolution Soccer 2010 | 240462 | [240462-pro-evolution-soccer-2010.json](./240462-pro-evolution-soccer-2010.json) |
 | Pro Evolution Soccer 2011 | 240463 | [240463-pro-evolution-soccer-2011.json](./240463-pro-evolution-soccer-2011.json) |
 | Pro Evolution Soccer 2011 | 240464 | [240464-pro-evolution-soccer-2011.json](./240464-pro-evolution-soccer-2011.json) |
@@ -1219,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puchi Nikki | 201840 | [201840-puchi-nikki.json](./201840-puchi-nikki.json) |
 | Puchicon Magazine: Soukangou | 222530 | [222530-puchicon-magazine-soukangou.json](./222530-puchicon-magazine-soukangou.json) |
 | Puda + The Kid | 263198 | [263198-puda-the-kid.json](./263198-puda-the-kid.json) |
+| Puffins: Island Adventure | 68030 | [68030-puffins-island-adventure.json](./68030-puffins-island-adventure.json) |
 | Pug'llector | 311252 | [311252-pugllector.json](./311252-pugllector.json) |
 | Pug's Quest | 82954 | [82954-pugs-quest.json](./82954-pugs-quest.json) |
 | Pugovki | 177051 | [177051-pugovki.json](./177051-pugovki.json) |
