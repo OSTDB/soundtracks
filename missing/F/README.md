@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairyland: Power Dice | 103473 | [103473-fairyland-power-dice.json](./103473-fairyland-power-dice.json) |
 | Fairytale Furnishing | 295560 | [295560-fairytale-furnishing.json](./295560-fairytale-furnishing.json) |
 | Fairytale Mosaics: Cinderella 2 | 155649 | [155649-fairytale-mosaics-cinderella-2.json](./155649-fairytale-mosaics-cinderella-2.json) |
+| Fairytale Mosaics. Beauty and the Beast | 94788 | [94788-fairytale-mosaics-beauty-and-the-beast.json](./94788-fairytale-mosaics-beauty-and-the-beast.json) |
 | Faith & Shield: Tower Defense - Space Wars Game 2022 | 209694 | [209694-faith-and-shield-tower-defense-space-wars-game-2022.json](./209694-faith-and-shield-tower-defense-space-wars-game-2022.json) |
 | Fake Block | 96711 | [96711-fake-block.json](./96711-fake-block.json) |
 | Fake Ducks: Spooky Chronicles | 322398 | [322398-fake-ducks-spooky-chronicles.json](./322398-fake-ducks-spooky-chronicles.json) |
