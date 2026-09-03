@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sail Simulator 4 | 143740 | [143740-sail-simulator-4.json](./143740-sail-simulator-4.json) |
 | Sailor Fuku to Femme Fatale | 293941 | [293941-sailor-fuku-to-femme-fatale.json](./293941-sailor-fuku-to-femme-fatale.json) |
 | Sailor's Stories Solitaire | 196881 | [196881-sailors-stories-solitaire.json](./196881-sailors-stories-solitaire.json) |
+| Saimazoom | 45326 | [45326-saimazoom.json](./45326-saimazoom.json) |
 | Saint | 94739 | [94739-saint.json](./94739-saint.json) |
 | Saint Kotar: Digital Deluxe Edition | 246621 | [246621-saint-kotar-digital-deluxe-edition.json](./246621-saint-kotar-digital-deluxe-edition.json) |
 | Saint Seiya: Legends of Justice | 209634 | [209634-saint-seiya-legends-of-justice.json](./209634-saint-seiya-legends-of-justice.json) |
@@ -313,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scroll Driver Lite | 232157 | [232157-scroll-driver-lite.json](./232157-scroll-driver-lite.json) |
 | Scuba Bear | 178678 | [178678-scuba-bear.json](./178678-scuba-bear.json) |
 | Sculpt | 263763 | [263763-sculpt.json](./263763-sculpt.json) |
+| Scumball | 45361 | [45361-scumball.json](./45361-scumball.json) |
 | Scurvy Dogs | 224761 | [224761-scurvy-dogs.json](./224761-scurvy-dogs.json) |
 | Scythe X | 137667 | [137667-scythe-x.json](./137667-scythe-x.json) |
 | SD Gundam Battle Alliance: Limited Edition | 205271 | [205271-sd-gundam-battle-alliance-limited-edition.json](./205271-sd-gundam-battle-alliance-limited-edition.json) |
@@ -916,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate Jam | 251207 | [251207-skate-jam.json](./251207-skate-jam.json) |
 | Skate Space | 178086 | [178086-skate-space.json](./178086-skate-space.json) |
 | Skate Tribe | 303232 | [303232-skate-tribe.json](./303232-skate-tribe.json) |
+| Skateball | 45329 | [45329-skateball.json](./45329-skateball.json) |
 | Skateboard Drifting Simulator with Maxwell Cat: The Game | 259231 | [259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json](./259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json) |
 | Skatemasta Tcheco | 118401 | [118401-skatemasta-tcheco.json](./118401-skatemasta-tcheco.json) |
 | SkateNationXL | 272579 | [272579-skatenationxl.json](./272579-skatenationxl.json) |
@@ -1616,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Ascension | 152938 | [152938-spectral-ascension.json](./152938-spectral-ascension.json) |
 | Spectre of Eternity | 210865 | [210865-spectre-of-eternity.json](./210865-spectre-of-eternity.json) |
 | Spectre's Library | 235971 | [235971-spectres-library.json](./235971-spectres-library.json) |
+| Spectres | 45359 | [45359-spectres.json](./45359-spectres.json) |
 | Spectrum Valley | 184132 | [184132-spectrum-valley.json](./184132-spectrum-valley.json) |
 | Speechless | 166736 | [166736-speechless.json](./166736-speechless.json) |
 | Speed Bike Racing | 250657 | [250657-speed-bike-racing.json](./250657-speed-bike-racing.json) |
@@ -1714,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Personalities | 73323 | [73323-split-personalities.json](./73323-split-personalities.json) |
 | SpongeBob SquarePants: Flip or Flop | 273123 | [273123-spongebob-squarepants-flip-or-flop.json](./273123-spongebob-squarepants-flip-or-flop.json) |
 | Spook Tower | 179735 | [179735-spook-tower.json](./179735-spook-tower.json) |
+| Spooked | 45325 | [45325-spooked.json](./45325-spooked.json) |
 | Spookity Hollow | 170549 | [170549-spookity-hollow.json](./170549-spookity-hollow.json) |
 | Spookulele | 204715 | [204715-spookulele.json](./204715-spookulele.json) |
 | Spookware: Watch Party | 189180 | [189180-spookware-watch-party.json](./189180-spookware-watch-party.json) |
@@ -2010,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Step Up! | 84902 | [84902-step-up.json](./84902-step-up.json) |
 | Stephen King's F13 | 74412 | [74412-stephen-kings-f13.json](./74412-stephen-kings-f13.json) |
 | StereoPaint | 192425 | [192425-stereopaint.json](./192425-stereopaint.json) |
+| Steve Davis Snooker | 45323 | [45323-steve-davis-snooker.json](./45323-steve-davis-snooker.json) |
 | Steve Magal: Fists of Brutal Truth | 341888 | [341888-steve-magal-fists-of-brutal-truth.json](./341888-steve-magal-fists-of-brutal-truth.json) |
 | Steve Reich’s Clapping Music | 312322 | [312322-steve-reich-s-clapping-music.json](./312322-steve-reich-s-clapping-music.json) |
 | Steve: Operation Nuts | 295010 | [295010-steve-operation-nuts.json](./295010-steve-operation-nuts.json) |
