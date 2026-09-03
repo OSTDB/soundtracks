@@ -84,6 +84,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvagers | 329398 | [329398-salvagers.json](./329398-salvagers.json) |
 | Salvation in Corruption | 75183 | [75183-salvation-in-corruption.json](./75183-salvation-in-corruption.json) |
 | Samael: The Legacy of Ophiuchus | 218718 | [218718-samael-the-legacy-of-ophiuchus.json](./218718-samael-the-legacy-of-ophiuchus.json) |
+| Same | 64423 | [64423-same.json](./64423-same.json) |
+| Same-X | 64429 | [64429-same-x.json](./64429-same-x.json) |
+| SameGame | 64430 | [64430-samegame.json](./64430-samegame.json) |
+| SameGame Fighter | 64436 | [64436-samegame-fighter.json](./64436-samegame-fighter.json) |
+| SameGame HD | 64432 | [64432-samegame-hd.json](./64432-samegame-hd.json) |
 | Samidare | 126040 | [126040-samidare.json](./126040-samidare.json) |
 | Sammi's Quest vol.1: The Wandering Ogres | 104628 | [104628-sammis-quest-vol-1-the-wandering-ogres.json](./104628-sammis-quest-vol-1-the-wandering-ogres.json) |
 | Samosbor 2D | 120986 | [120986-samosbor-2d.json](./120986-samosbor-2d.json) |
@@ -127,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandy & Junior: Aventura Virtual | 132863 | [132863-sandy-and-junior-aventura-virtual.json](./132863-sandy-and-junior-aventura-virtual.json) |
 | Sangoku Stories Ten | 222510 | [222510-sangoku-stories-ten.json](./222510-sangoku-stories-ten.json) |
 | Sangokushi Taisen 3 War Begins | 64974 | [64974-sangokushi-taisen-3-war-begins.json](./64974-sangokushi-taisen-3-war-begins.json) |
+| Sangokushi: Chuugen no Hasha | 64448 | [64448-sangokushi-chuugen-no-hasha.json](./64448-sangokushi-chuugen-no-hasha.json) |
 | Sanguine | 260425 | [260425-sanguine.json](./260425-sanguine.json) |
 | Sanguine Holy Land | 299431 | [299431-sanguine-holy-land.json](./299431-sanguine-holy-land.json) |
 | Sanguo | 113003 | [113003-sanguo.json](./113003-sanguo.json) |
@@ -2170,6 +2176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bo Noise | 316988 | [316988-super-bo-noise.json](./316988-super-bo-noise.json) |
 | Super Bomberman R Online: Premium Pack | 150653 | [150653-super-bomberman-r-online-premium-pack.json](./150653-super-bomberman-r-online-premium-pack.json) |
 | Super Bowsette 64 | 240461 | [240461-super-bowsette-64.json](./240461-super-bowsette-64.json) |
+| Super Breakout Ultra | 64401 | [64401-super-breakout-ultra.json](./64401-super-breakout-ultra.json) |
 | Super Bunnies Show Free | 232182 | [232182-super-bunnies-show-free.json](./232182-super-bunnies-show-free.json) |
 | Super Calm Bros. 3 | 214718 | [214718-super-calm-bros-3.json](./214718-super-calm-bros-3.json) |
 | Super Capsule Boy | 334508 | [334508-super-capsule-boy.json](./334508-super-capsule-boy.json) |
