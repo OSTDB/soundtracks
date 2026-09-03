@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Primrose Lake 3 | 337472 | [337472-welcome-to-primrose-lake-3.json](./337472-welcome-to-primrose-lake-3.json) |
 | Welcome to Primrose Lake 4 | 337471 | [337471-welcome-to-primrose-lake-4.json](./337471-welcome-to-primrose-lake-4.json) |
 | Welcome to Primrose Lake 5 | 337473 | [337473-welcome-to-primrose-lake-5.json](./337473-welcome-to-primrose-lake-5.json) |
+| Welcome to Pussy Paradise | 58807 | [58807-welcome-to-pussy-paradise.json](./58807-welcome-to-pussy-paradise.json) |
 | Welcome to the Adventurer Inn! | 169460 | [169460-welcome-to-the-adventurer-inn.json](./169460-welcome-to-the-adventurer-inn.json) |
 | Welcome to the Galaxy | 178639 | [178639-welcome-to-the-galaxy.json](./178639-welcome-to-the-galaxy.json) |
 | Welcome to the Game 2+ | 265928 | [265928-welcome-to-the-game-2.json](./265928-welcome-to-the-game-2.json) |
