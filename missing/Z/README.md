@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaphie 2 | 145656 | [145656-zaphie-2.json](./145656-zaphie-2.json) |
 | ZAR | 161374 | [161374-zar.json](./161374-zar.json) |
 | Zarktor's Realm | 189172 | [189172-zarktors-realm.json](./189172-zarktors-realm.json) |
+| Zarth | 45977 | [45977-zarth.json](./45977-zarth.json) |
 | Zeddas | 242258 | [242258-zeddas.json](./242258-zeddas.json) |
 | Zee Artillery | 93068 | [93068-zee-artillery.json](./93068-zee-artillery.json) |
 | Zegapain NOT | 68015 | [68015-zegapain-not.json](./68015-zegapain-not.json) |
@@ -55,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Match | 185681 | [185681-zen-match.json](./185681-zen-match.json) |
 | Zen Wars | 200187 | [200187-zen-wars.json](./200187-zen-wars.json) |
 | Zen-Ichi | 82119 | [82119-zen-ichi.json](./82119-zen-ichi.json) |
+| Zen-Nippon Joshi Pro Wrestling: Queen of Queens | 45954 | [45954-zen-nippon-joshi-pro-wrestling-queen-of-queens.json](./45954-zen-nippon-joshi-pro-wrestling-queen-of-queens.json) |
 | ZenBlade | 58268 | [58268-zenblade.json](./58268-zenblade.json) |
 | Zenforms: Protectors | 96043 | [96043-zenforms-protectors.json](./96043-zenforms-protectors.json) |
 | Zenful Journey | 249489 | [249489-zenful-journey.json](./249489-zenful-journey.json) |
