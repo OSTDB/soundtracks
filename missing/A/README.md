@@ -530,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Men Are Pigs | 183041 | [183041-all-men-are-pigs.json](./183041-all-men-are-pigs.json) |
 | All Monsters Attack! | 202403 | [202403-all-monsters-attack.json](./202403-all-monsters-attack.json) |
 | All one click | 267086 | [267086-all-one-click.json](./267086-all-one-click.json) |
+| All Star Baseball | 91416 | [91416-all-star-baseball.json](./91416-all-star-baseball.json) |
 | All the Mods 9: No Frills | 291253 | [291253-all-the-mods-9-no-frills.json](./291253-all-the-mods-9-no-frills.json) |
 | All Things Equal I Would Prefer It If We Were Safe & Lonely Instead of Together & Afraid But I Cannot Deny That It Is Hard; or: A Solitary Spacecraft. | 133997 | [133997-all-things-equal-i-would-prefer-it-if-we-were-safe-and-lonely-instead-of-together-and-afraid-but-i-cannot-deny-that-it-is-hard-or-a-solitary-spacecraft.json](./133997-all-things-equal-i-would-prefer-it-if-we-were-safe-and-lonely-instead-of-together-and-afraid-but-i-cannot-deny-that-it-is-hard-or-a-solitary-spacecraft.json) |
 | All Under Control | 335069 | [335069-all-under-control.json](./335069-all-under-control.json) |
@@ -542,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alliance at War | 193992 | [193992-alliance-at-war.json](./193992-alliance-at-war.json) |
 | Allotropy | 169472 | [169472-allotropy.json](./169472-allotropy.json) |
 | Almost Reversi | 316407 | [316407-almost-reversi.json](./316407-almost-reversi.json) |
+| Aloha Play | 91408 | [91408-aloha-play.json](./91408-aloha-play.json) |
 | Alone In a Dream | 156665 | [156665-alone-in-a-dream.json](./156665-alone-in-a-dream.json) |
 | Alpha Centauri Space Force | 156165 | [156165-alpha-centauri-space-force.json](./156165-alpha-centauri-space-force.json) |
 | Alpha Chimp: Episode 1 - The Jungle | 310194 | [310194-alpha-chimp-episode-1-the-jungle.json](./310194-alpha-chimp-episode-1-the-jungle.json) |
@@ -879,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Party | 241076 | [241076-arcade-party.json](./241076-arcade-party.json) |
 | Arcadium: Space Odyssey | 255971 | [255971-arcadium-space-odyssey.json](./255971-arcadium-space-odyssey.json) |
 | Arcadius | 156126 | [156126-arcadius.json](./156126-arcadius.json) |
+| Arcana Ritter | 91422 | [91422-arcana-ritter.json](./91422-arcana-ritter.json) |
 | Arcana: Boundless Horizon | 220306 | [220306-arcana-boundless-horizon.json](./220306-arcana-boundless-horizon.json) |
 | Arcana: Heat and Cold - Season 2 | 191241 | [191241-arcana-heat-and-cold-season-2.json](./191241-arcana-heat-and-cold-season-2.json) |
 | Arcana: Seal of Rimsala | 312351 | [312351-arcana-seal-of-rimsala.json](./312351-arcana-seal-of-rimsala.json) |
@@ -1179,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atria-1 | 191222 | [191222-atria-1.json](./191222-atria-1.json) |
 | Atrocity | 113011 | [113011-atrocity.json](./113011-atrocity.json) |
 | Attack at EP-CYG-4 | 292837 | [292837-attack-at-ep-cyg-4.json](./292837-attack-at-ep-cyg-4.json) |
+| Attack From Mars | 91434 | [91434-attack-from-mars.json](./91434-attack-from-mars.json) |
 | Attack of the Evil Poop VR | 166738 | [166738-attack-of-the-evil-poop-vr.json](./166738-attack-of-the-evil-poop-vr.json) |
 | Attack of the Giant Mutant Lizard | 113711 | [113711-attack-of-the-giant-mutant-lizard.json](./113711-attack-of-the-giant-mutant-lizard.json) |
 | Attack of the Killer Tomatoes | 273079 | [273079-attack-of-the-killer-tomatoes.json](./273079-attack-of-the-killer-tomatoes.json) |
@@ -1256,6 +1260,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Tanks 2 | 313506 | [313506-awesome-tanks-2.json](./313506-awesome-tanks-2.json) |
 | Awexome Cross | 135869 | [135869-awexome-cross.json](./135869-awexome-cross.json) |
 | Awful Kidnapper | 300410 | [300410-awful-kidnapper.json](./300410-awful-kidnapper.json) |
+| AX-1: Arabian Rhapsody | 91462 | [91462-ax-1-arabian-rhapsody.json](./91462-ax-1-arabian-rhapsody.json) |
+| AX-10: Outlaw | 91459 | [91459-ax-10-outlaw.json](./91459-ax-10-outlaw.json) |
+| AX-7: Police & Gangster | 91461 | [91461-ax-7-police-and-gangster.json](./91461-ax-7-police-and-gangster.json) |
+| AX-8: Galaxy Mission | 91460 | [91460-ax-8-galaxy-mission.json](./91460-ax-8-galaxy-mission.json) |
 | Axe Over It | 144296 | [144296-axe-over-it.json](./144296-axe-over-it.json) |
 | Axe Prime | 115046 | [115046-axe-prime.json](./115046-axe-prime.json) |
 | Axegend | 131596 | [131596-axegend.json](./131596-axegend.json) |
