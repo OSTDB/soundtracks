@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dark Place | 301587 | [301587-a-dark-place.json](./301587-a-dark-place.json) |
 | A Dark Room | 255977 | [255977-a-dark-room.json](./255977-a-dark-room.json) |
 | A Day At the Track | 243399 | [243399-a-day-at-the-track.json](./243399-a-day-at-the-track.json) |
+| A Day In the Life | 78681 | [78681-a-day-in-the-life.json](./78681-a-day-in-the-life.json) |
 | A Day in the Office | 176500 | [176500-a-day-in-the-office.json](./176500-a-day-in-the-office.json) |
 | A Day to Bring Them Happiness | 314042 | [314042-a-day-to-bring-them-happiness.json](./314042-a-day-to-bring-them-happiness.json) |
 | A Desert Christmas Story | 235974 | [235974-a-desert-christmas-story.json](./235974-a-desert-christmas-story.json) |
@@ -288,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Playground | 102207 | [102207-adventure-playground.json](./102207-adventure-playground.json) |
 | Adventure Rock | 293939 | [293939-adventure-rock.json](./293939-adventure-rock.json) |
 | Adventure Story | 265404 | [265404-adventure-story.json](./265404-adventure-story.json) |
+| Adventure Value Pack #3 | 78679 | [78679-adventure-value-pack-3.json](./78679-adventure-value-pack-3.json) |
 | Adventure Word: Around the World | 275890 | [275890-adventure-word-around-the-world.json](./275890-adventure-word-around-the-world.json) |
 | AdventureQuest Worlds: Infinity | 211394 | [211394-adventurequest-worlds-infinity.json](./211394-adventurequest-worlds-infinity.json) |
 | Adventurers.io | 197371 | [197371-adventurers-io.json](./197371-adventurers-io.json) |
@@ -484,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlexCity 1: Bank Heist | 272009 | [272009-alexcity-1-bank-heist.json](./272009-alexcity-1-bank-heist.json) |
 | AlexCity 1: Bank Heist | 272010 | [272010-alexcity-1-bank-heist.json](./272010-alexcity-1-bank-heist.json) |
 | Alexios the Protector | 235463 | [235463-alexios-the-protector.json](./235463-alexios-the-protector.json) |
+| ALF's Thinking Skills | 78720 | [78720-alfs-thinking-skills.json](./78720-alfs-thinking-skills.json) |
 | ALF's U.S. Geography | 94247 | [94247-alfs-u-s-geography.json](./94247-alfs-u-s-geography.json) |
 | Algae | 106601 | [106601-algae.json](./106601-algae.json) |
 | Algebra Fish | 102760 | [102760-algebra-fish.json](./102760-algebra-fish.json) |
@@ -739,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anima of Quantmix | 200731 | [200731-anima-of-quantmix.json](./200731-anima-of-quantmix.json) |
 | Animaddicts | 190724 | [190724-animaddicts.json](./190724-animaddicts.json) |
 | Animal Bomber | 147466 | [147466-animal-bomber.json](./147466-animal-bomber.json) |
+| Animal Breeder | 78715 | [78715-animal-breeder.json](./78715-animal-breeder.json) |
 | Animal Crackers | 177567 | [177567-animal-crackers.json](./177567-animal-crackers.json) |
 | Animal Crossing: City Folk Deluxe | 341895 | [341895-animal-crossing-city-folk-deluxe.json](./341895-animal-crossing-city-folk-deluxe.json) |
 | Animal Drifters | 219296 | [219296-animal-drifters.json](./219296-animal-drifters.json) |
@@ -1119,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Revelations: Special Edition | 268735 | [268735-assassins-creed-revelations-special-edition.json](./268735-assassins-creed-revelations-special-edition.json) |
 | Assassin's Creed Valhalla: A Fated Encounter | 228706 | [228706-assassins-creed-valhalla-a-fated-encounter.json](./228706-assassins-creed-valhalla-a-fated-encounter.json) |
 | Assassin's Creed Valhalla: River Raids | 228704 | [228704-assassins-creed-valhalla-river-raids.json](./228704-assassins-creed-valhalla-river-raids.json) |
+| Assassin's Creed: Lost Legacy | 78709 | [78709-assassins-creed-lost-legacy.json](./78709-assassins-creed-lost-legacy.json) |
 | Assassin's Creed: Syndicate - Rooks Edition | 230499 | [230499-assassins-creed-syndicate-rooks-edition.json](./230499-assassins-creed-syndicate-rooks-edition.json) |
 | Assault Rei Play | 109004 | [109004-assault-rei-play.json](./109004-assault-rei-play.json) |
 | Assault Spy: Elite Spy Edition | 124831 | [124831-assault-spy-elite-spy-edition.json](./124831-assault-spy-elite-spy-edition.json) |
@@ -1292,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aveliana | 156152 | [156152-aveliana.json](./156152-aveliana.json) |
 | Aventador Drift Simulator 2 | 104649 | [104649-aventador-drift-simulator-2.json](./104649-aventador-drift-simulator-2.json) |
 | Average Maria Individual | 293891 | [293891-average-maria-individual.json](./293891-average-maria-individual.json) |
+| Avery Cardoza's Casino 2000 | 78694 | [78694-avery-cardozas-casino-2000.json](./78694-avery-cardozas-casino-2000.json) |
 | Aviãozinho do tráfico 1: despacito 5 quem ler é arrombado 2 | 341879 | [341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json](./341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json) |
 | Aviãozinho do tráfico 2: 3D resenha de pasta base de cocaína com Sorrizo Ronaldo | 341880 | [341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json](./341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json) |
 | Aviary Attorney: Definitive Edition | 136443 | [136443-aviary-attorney-definitive-edition.json](./136443-aviary-attorney-definitive-edition.json) |
