@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Zombie Shelter | 200729 | [200729-idle-zombie-shelter.json](./200729-idle-zombie-shelter.json) |
 | Idling Gears | 237081 | [237081-idling-gears.json](./237081-idling-gears.json) |
 | Idly God | 209637 | [209637-idly-god.json](./209637-idly-god.json) |
+| Idol Janshi Suchie-Pai III | 76610 | [76610-idol-janshi-suchie-pai-iii.json](./76610-idol-janshi-suchie-pai-iii.json) |
 | Idol Mahjong Final Romance 4 Remaster | 273652 | [273652-idol-mahjong-final-romance-4-remaster.json](./273652-idol-mahjong-final-romance-4-remaster.json) |
 | Idol Tantei You&My | 246105 | [246105-idol-tantei-you-and-my.json](./246105-idol-tantei-you-and-my.json) |
 | Idtipsa | 201838 | [201838-idtipsa.json](./201838-idtipsa.json) |
@@ -454,6 +455,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Designer | 296652 | [296652-island-designer.json](./296652-island-designer.json) |
 | Island of Aito | 199657 | [199657-island-of-aito.json](./199657-island-of-aito.json) |
 | Island of Lust | 191220 | [191220-island-of-lust.json](./191220-island-of-lust.json) |
+| Island Tribe 4 | 76635 | [76635-island-tribe-4.json](./76635-island-tribe-4.json) |
+| Island Tribe 4 | 76646 | [76646-island-tribe-4.json](./76646-island-tribe-4.json) |
 | Islanders: New Shores | 333961 | [333961-islanders-new-shores.json](./333961-islanders-new-shores.json) |
 | Isle Clash | 132265 | [132265-isle-clash.json](./132265-isle-clash.json) |
 | Isle of Arrows | 197945 | [197945-isle-of-arrows.json](./197945-isle-of-arrows.json) |
