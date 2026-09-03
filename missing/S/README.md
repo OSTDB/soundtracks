@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shard of Kronos | 163967 | [163967-shard-of-kronos.json](./163967-shard-of-kronos.json) |
 | Shard Squad | 323529 | [323529-shard-squad.json](./323529-shard-squad.json) |
 | Shark Copter vs. Zombie Dancers | 147976 | [147976-shark-copter-vs-zombie-dancers.json](./147976-shark-copter-vs-zombie-dancers.json) |
+| Shark or Die | 61105 | [61105-shark-or-die.json](./61105-shark-or-die.json) |
 | Shark Riders | 150137 | [150137-shark-riders.json](./150137-shark-riders.json) |
 | Shark Slayer | 166742 | [166742-shark-slayer.json](./166742-shark-slayer.json) |
 | SharkDrag Episode 5: Uniting the 5 Kingdoms | 210891 | [210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json](./210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json) |
@@ -1461,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space BloX | 119042 | [119042-space-blox.json](./119042-space-blox.json) |
 | Space Bomb | 120417 | [120417-space-bomb.json](./120417-space-bomb.json) |
 | Space Bunny Explorers | 208596 | [208596-space-bunny-explorers.json](./208596-space-bunny-explorers.json) |
+| Space Cake | 61114 | [61114-space-cake.json](./61114-space-cake.json) |
 | Space City: Build Your Empire | 199662 | [199662-space-city-build-your-empire.json](./199662-space-city-build-your-empire.json) |
 | Space Cobra RetPixMod | 178647 | [178647-space-cobra-retpixmod.json](./178647-space-cobra-retpixmod.json) |
 | Space Command Battleship | 262071 | [262071-space-command-battleship.json](./262071-space-command-battleship.json) |
@@ -1627,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Rover | 107208 | [107208-spirit-rover.json](./107208-spirit-rover.json) |
 | Spirit Shift | 181365 | [181365-spirit-shift.json](./181365-spirit-shift.json) |
 | Spirit Timer | 223666 | [223666-spirit-timer.json](./223666-spirit-timer.json) |
+| Spirited Soul | 61124 | [61124-spirited-soul.json](./61124-spirited-soul.json) |
 | Spiritle | 151731 | [151731-spiritle.json](./151731-spiritle.json) |
 | Spirits of Mystery: Chains of Promise - Collector's Edition | 110346 | [110346-spirits-of-mystery-chains-of-promise-collectors-edition.json](./110346-spirits-of-mystery-chains-of-promise-collectors-edition.json) |
 | Spirits of Mystery: Family Lies | 102790 | [102790-spirits-of-mystery-family-lies.json](./102790-spirits-of-mystery-family-lies.json) |
@@ -1882,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Bastard: Tactical Espionage Arsehole | 65531 | [65531-stealth-bastard-tactical-espionage-arsehole.json](./65531-stealth-bastard-tactical-espionage-arsehole.json) |
 | Stealthscape | 96732 | [96732-stealthscape.json](./96732-stealthscape.json) |
 | Steam | 95441 | [95441-steam.json](./95441-steam.json) |
+| Steam Punks | 61085 | [61085-steam-punks.json](./61085-steam-punks.json) |
 | Steambots | 296655 | [296655-steambots.json](./296655-steambots.json) |
 | SteamDolls: Order of Chaos | 124261 | [124261-steamdolls-order-of-chaos.json](./124261-steamdolls-order-of-chaos.json) |
 | SteamForge | 339666 | [339666-steamforge.json](./339666-steamforge.json) |
@@ -2233,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dream Dasher | 172189 | [172189-super-dream-dasher.json](./172189-super-dream-dasher.json) |
 | Super Dunkman | 134700 | [134700-super-dunkman.json](./134700-super-dunkman.json) |
 | Super Durak | 174336 | [174336-super-durak.json](./174336-super-durak.json) |
+| Super Dynamite Fishing | 61126 | [61126-super-dynamite-fishing.json](./61126-super-dynamite-fishing.json) |
 | Super Falling Fred | 295025 | [295025-super-falling-fred.json](./295025-super-falling-fred.json) |
 | Super Famicom Wars BS Ban | 150173 | [150173-super-famicom-wars-bs-ban.json](./150173-super-famicom-wars-bs-ban.json) |
 | Super Fight | 132240 | [132240-super-fight.json](./132240-super-fight.json) |
