@@ -802,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Kite | 200183 | [200183-pocket-kite.json](./200183-pocket-kite.json) |
 | Pocket Lights | 239924 | [239924-pocket-lights.json](./239924-pocket-lights.json) |
 | Pocket Love | 63334 | [63334-pocket-love.json](./63334-pocket-love.json) |
+| Pocket Love: If | 43973 | [43973-pocket-love-if.json](./43973-pocket-love-if.json) |
 | Pocket Necromancer | 319383 | [319383-pocket-necromancer.json](./319383-pocket-necromancer.json) |
 | Pocket Pioneers | 152388 | [152388-pocket-pioneers.json](./152388-pocket-pioneers.json) |
 | Pocket Plants | 149595 | [149595-pocket-plants.json](./149595-pocket-plants.json) |
