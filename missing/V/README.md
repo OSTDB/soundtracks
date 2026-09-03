@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Interactive Fireplace | 338566 | [338566-virtual-interactive-fireplace.json](./338566-virtual-interactive-fireplace.json) |
 | Virtual Pet | 315292 | [315292-virtual-pet.json](./315292-virtual-pet.json) |
 | Virtual Pet Great White Shark | 106574 | [106574-virtual-pet-great-white-shark.json](./106574-virtual-pet-great-white-shark.json) |
+| Virtual Pet Kitty Cat | 89227 | [89227-virtual-pet-kitty-cat.json](./89227-virtual-pet-kitty-cat.json) |
 | Virtual Pool 4 Online | 91991 | [91991-virtual-pool-4-online.json](./91991-virtual-pool-4-online.json) |
 | Virtual Rehab Art 4 Health | 172181 | [172181-virtual-rehab-art-4-health.json](./172181-virtual-rehab-art-4-health.json) |
 | Virtual Villagers 2: The Lost Children for iPad | 108474 | [108474-virtual-villagers-2-the-lost-children-for-ipad.json](./108474-virtual-villagers-2-the-lost-children-for-ipad.json) |
