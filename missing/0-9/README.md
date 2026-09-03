@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3Buttons | 110352 | [110352-3buttons.json](./110352-3buttons.json) |
 | 3D Alien Syndrome | 202925 | [202925-3d-alien-syndrome.json](./202925-3d-alien-syndrome.json) |
 | 3D Bowling USA | 205830 | [205830-3d-bowling-usa.json](./205830-3d-bowling-usa.json) |
+| 3D Brick Breaker Revolution 2 | 66152 | [66152-3d-brick-breaker-revolution-2.json](./66152-3d-brick-breaker-revolution-2.json) |
 | 3D Brick Bustin Madness | 205832 | [205832-3d-brick-bustin-madness.json](./205832-3d-brick-bustin-madness.json) |
 | 3D Caveman Rocks & 3D Brick Bustin Madness | 205834 | [205834-3d-caveman-rocks-and-3d-brick-bustin-madness.json](./205834-3d-caveman-rocks-and-3d-brick-bustin-madness.json) |
 | 3D Columns | 202926 | [202926-3d-columns.json](./202926-3d-columns.json) |
