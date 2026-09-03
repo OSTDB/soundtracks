@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven Keepers | 192941 | [192941-heaven-keepers.json](./192941-heaven-keepers.json) |
 | Heaven's Door | 231057 | [231057-heavens-door.json](./231057-heavens-door.json) |
 | Heavenly Hammer | 173820 | [173820-heavenly-hammer.json](./173820-heavenly-hammer.json) |
+| Heavy Fire: Black Arms | 65497 | [65497-heavy-fire-black-arms.json](./65497-heavy-fire-black-arms.json) |
 | Heavy Gear III | 100191 | [100191-heavy-gear-iii.json](./100191-heavy-gear-iii.json) |
 | Heavy Hearts | 219825 | [219825-heavy-hearts.json](./219825-heavy-hearts.json) |
 | Heavy Water Jogger | 73812 | [73812-heavy-water-jogger.json](./73812-heavy-water-jogger.json) |
@@ -449,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Drakerealm | 235485 | [235485-heroes-of-drakerealm.json](./235485-heroes-of-drakerealm.json) |
 | Heroes of Magic: Card Battle | 108492 | [108492-heroes-of-magic-card-battle.json](./108492-heroes-of-magic-card-battle.json) |
 | Heroes of War | 227471 | [227471-heroes-of-war.json](./227471-heroes-of-war.json) |
+| Heroes Phantasia | 65495 | [65495-heroes-phantasia.json](./65495-heroes-phantasia.json) |
 | Heroes Sky Legends | 336371 | [336371-heroes-sky-legends.json](./336371-heroes-sky-legends.json) |
 | Heroes Stand Tall: M.E.T.A | 302116 | [302116-heroes-stand-tall-m-e-t-a.json](./302116-heroes-stand-tall-m-e-t-a.json) |
 | Heroes War | 200722 | [200722-heroes-war.json](./200722-heroes-war.json) |
@@ -610,10 +612,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitme 2 | 225273 | [225273-hitme-2.json](./225273-hitme-2.json) |
 | Hitori Kakurenbo | 150131 | [150131-hitori-kakurenbo.json](./150131-hitori-kakurenbo.json) |
 | Hitotsu Tobashi Renai V | 217545 | [217545-hitotsu-tobashi-renai-v.json](./217545-hitotsu-tobashi-renai-v.json) |
+| Hitozuma Sentai Aisaiger | 65519 | [65519-hitozuma-sentai-aisaiger.json](./65519-hitozuma-sentai-aisaiger.json) |
 | Hituzibuster | 229371 | [229371-hituzibuster.json](./229371-hituzibuster.json) |
 | Hive Defender | 190193 | [190193-hive-defender.json](./190193-hive-defender.json) |
 | Hive In Space | 290716 | [290716-hive-in-space.json](./290716-hive-in-space.json) |
 | Hive Time | 124254 | [124254-hive-time.json](./124254-hive-time.json) |
+| Hiza no Ue no Partner: Kitty on Your Lap | 65494 | [65494-hiza-no-ue-no-partner-kitty-on-your-lap.json](./65494-hiza-no-ue-no-partner-kitty-on-your-lap.json) |
 | Hjarta | 169985 | [169985-hjarta.json](./169985-hjarta.json) |
 | Hlina | 244996 | [244996-hlina.json](./244996-hlina.json) |
 | Hoard: Dynamite Roll! | 171075 | [171075-hoard-dynamite-roll.json](./171075-hoard-dynamite-roll.json) |
@@ -791,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Flipper: Cyberpunk | 171638 | [171638-house-flipper-cyberpunk.json](./171638-house-flipper-cyberpunk.json) |
 | House Flipper: Farm | 200725 | [200725-house-flipper-farm.json](./200725-house-flipper-farm.json) |
 | House in the village by the river v2.0 | 173813 | [173813-house-in-the-village-by-the-river-v2-0.json](./173813-house-in-the-village-by-the-river-v2-0.json) |
+| House M.D. Episode 5: Under the Big Top | 65508 | [65508-house-m-d-episode-5-under-the-big-top.json](./65508-house-m-d-episode-5-under-the-big-top.json) |
 | House Maid Asuka | 97368 | [97368-house-maid-asuka.json](./97368-house-maid-asuka.json) |
 | House of 1000 Doors: Family Secrets | 79322 | [79322-house-of-1000-doors-family-secrets.json](./79322-house-of-1000-doors-family-secrets.json) |
 | House of 1000 Doors: Serpent Flame | 119031 | [119031-house-of-1000-doors-serpent-flame.json](./119031-house-of-1000-doors-serpent-flame.json) |
