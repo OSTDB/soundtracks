@@ -606,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Senshi Sailor V | 234339 | [234339-bishoujo-senshi-sailor-v.json](./234339-bishoujo-senshi-sailor-v.json) |
 | Bistro Blitz | 278709 | [278709-bistro-blitz.json](./278709-bistro-blitz.json) |
 | Bistro Days | 139481 | [139481-bistro-days.json](./139481-bistro-days.json) |
+| Bistro Recipe | 66674 | [66674-bistro-recipe.json](./66674-bistro-recipe.json) |
 | Bit Addiction | 277573 | [277573-bit-addiction.json](./277573-bit-addiction.json) |
 | Bit Generations: Dialhex | 251173 | [251173-bit-generations-dialhex.json](./251173-bit-generations-dialhex.json) |
 | Bit Orchard: Animal Valley - Ultimate Edition | 208618 | [208618-bit-orchard-animal-valley-ultimate-edition.json](./208618-bit-orchard-animal-valley-ultimate-edition.json) |
@@ -945,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bou Ningen Challenge! | 222520 | [222520-bou-ningen-challenge.json](./222520-bou-ningen-challenge.json) |
 | Bouhou Koumakyou 2 | 204075 | [204075-bouhou-koumakyou-2.json](./204075-bouhou-koumakyou-2.json) |
 | Bouhou Youyoumu | 204076 | [204076-bouhou-youyoumu.json](./204076-bouhou-youyoumu.json) |
+| Boulder Match 4 | 66673 | [66673-boulder-match-4.json](./66673-boulder-match-4.json) |
 | Bounce Ball | 68653 | [68653-bounce-ball.json](./68653-bounce-ball.json) |
 | Bounce Boing Voyage | 245006 | [245006-bounce-boing-voyage.json](./245006-bounce-boing-voyage.json) |
 | Bounce Lounge | 233232 | [233232-bounce-lounge.json](./233232-bounce-lounge.json) |
@@ -1178,6 +1180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug-o-Buster | 322985 | [322985-bug-o-buster.json](./322985-bug-o-buster.json) |
 | Bugdas | 113721 | [113721-bugdas.json](./113721-bugdas.json) |
 | Bugger Off! | 278712 | [278712-bugger-off.json](./278712-bugger-off.json) |
+| Buggy Boogie | 66677 | [66677-buggy-boogie.json](./66677-buggy-boogie.json) |
 | Bugs | 332238 | [332238-bugs.json](./332238-bugs.json) |
 | Bugs Bunny's Birthday Ball | 81361 | [81361-bugs-bunnys-birthday-ball.json](./81361-bugs-bunnys-birthday-ball.json) |
 | Bugz | 270400 | [270400-bugz.json](./270400-bugz.json) |
