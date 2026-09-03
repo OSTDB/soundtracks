@@ -43,6 +43,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James is Bananas | 248887 | [248887-james-is-bananas.json](./248887-james-is-bananas.json) |
 | James Pond: Codename Robocod | 197941 | [197941-james-pond-codename-robocod.json](./197941-james-pond-codename-robocod.json) |
 | Jammin' | 126016 | [126016-jammin.json](./126016-jammin.json) |
+| Jampack Summer 2K | 43318 | [43318-jampack-summer-2k.json](./43318-jampack-summer-2k.json) |
+| Jampack: Volume 12 | 43316 | [43316-jampack-volume-12.json](./43316-jampack-volume-12.json) |
+| Jampack: Volume 13 | 43315 | [43315-jampack-volume-13.json](./43315-jampack-volume-13.json) |
+| Jampack: Volume 14 | 43314 | [43314-jampack-volume-14.json](./43314-jampack-volume-14.json) |
+| Jampack: Volume 15 | 43317 | [43317-jampack-volume-15.json](./43317-jampack-volume-15.json) |
 | Jams | 340765 | [340765-jams.json](./340765-jams.json) |
 | Jane's Combat Simulations: Advanced Tactical Fighters | 78026 | [78026-janes-combat-simulations-advanced-tactical-fighters.json](./78026-janes-combat-simulations-advanced-tactical-fighters.json) |
 | Jane's Combat Simulations: Attack Pack | 78022 | [78022-janes-combat-simulations-attack-pack.json](./78022-janes-combat-simulations-attack-pack.json) |
