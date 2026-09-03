@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pablo Let's Go Bar | 169433 | [169433-pablo-lets-go-bar.json](./169433-pablo-lets-go-bar.json) |
 | Pac 16 | 313499 | [313499-pac-16.json](./313499-pac-16.json) |
 | Pac Maze | 312907 | [312907-pac-maze.json](./312907-pac-maze.json) |
+| Pac-Boy & Mouse | 86097 | [86097-pac-boy-and-mouse.json](./86097-pac-boy-and-mouse.json) |
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
 | Pac's Revenge | 337997 | [337997-pacs-revenge.json](./337997-pacs-revenge.json) |
 | Paca Paca Passion Special | 329386 | [329386-paca-paca-passion-special.json](./329386-paca-paca-passion-special.json) |
@@ -21,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi Pachi: On a Roll | 143696 | [143696-pachi-pachi-on-a-roll.json](./143696-pachi-pachi-on-a-roll.json) |
 | Pachillinko | 188665 | [188665-pachillinko.json](./188665-pachillinko.json) |
 | Pachinko With Nick | 184121 | [184121-pachinko-with-nick.json](./184121-pachinko-with-nick.json) |
+| Pachio-kun Game Gallery | 86125 | [86125-pachio-kun-game-gallery.json](./86125-pachio-kun-game-gallery.json) |
 | Pacific Warships | 254748 | [254748-pacific-warships.json](./254748-pacific-warships.json) |
 | Pacifish | 203545 | [203545-pacifish.json](./203545-pacifish.json) |
 | Pack 2 Games Pony Friends 2 + My Riding Stables: Life with Horses | 147465 | [147465-pack-2-games-pony-friends-2-my-riding-stables-life-with-horses.json](./147465-pack-2-games-pony-friends-2-my-riding-stables-life-with-horses.json) |
@@ -837,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyhop: The Skybound Islands | 278743 | [278743-polyhop-the-skybound-islands.json](./278743-polyhop-the-skybound-islands.json) |
 | PolyZen Drive | 278679 | [278679-polyzen-drive.json](./278679-polyzen-drive.json) |
 | Pom Pom Purin: Koro-koro Daibouken | 222518 | [222518-pom-pom-purin-koro-koro-daibouken.json](./222518-pom-pom-purin-koro-koro-daibouken.json) |
+| Pommy | 86103 | [86103-pommy.json](./86103-pommy.json) |
 | Pomo Post | 319389 | [319389-pomo-post.json](./319389-pomo-post.json) |
 | Pompom | 173842 | [173842-pompom.json](./173842-pompom.json) |
 | Pong Pong's Learning Adventure: Back to the Future | 188078 | [188078-pong-pongs-learning-adventure-back-to-the-future.json](./188078-pong-pongs-learning-adventure-back-to-the-future.json) |
