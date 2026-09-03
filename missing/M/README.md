@@ -1048,6 +1048,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momo's Conflict | 207526 | [207526-momos-conflict.json](./207526-momos-conflict.json) |
 | Momoe Link | 183052 | [183052-momoe-link.json](./183052-momoe-link.json) |
 | Momoiro Zousan | 295039 | [295039-momoiro-zousan.json](./295039-momoiro-zousan.json) |
+| Momotaro Collection | 64418 | [64418-momotaro-collection.json](./64418-momotaro-collection.json) |
+| Momotaro Collection 2 | 64417 | [64417-momotaro-collection-2.json](./64417-momotaro-collection-2.json) |
+| Momotaro Densetsu | 64411 | [64411-momotaro-densetsu.json](./64411-momotaro-densetsu.json) |
+| Momotaro Densetsu 1-2 | 64413 | [64413-momotaro-densetsu-1-2.json](./64413-momotaro-densetsu-1-2.json) |
+| Momotaro Dentetsu 15: Godai Bonbii Toujou! no Maki | 64406 | [64406-momotaro-dentetsu-15-godai-bonbii-toujou-no-maki.json](./64406-momotaro-dentetsu-15-godai-bonbii-toujou-no-maki.json) |
+| Momotaro Dentetsu 16: Hokkaido Daiidou no Maki! | 64405 | [64405-momotaro-dentetsu-16-hokkaido-daiidou-no-maki.json](./64405-momotaro-dentetsu-16-hokkaido-daiidou-no-maki.json) |
+| Momotaro Dentetsu 7 | 64410 | [64410-momotaro-dentetsu-7.json](./64410-momotaro-dentetsu-7.json) |
+| Momotaro Dentetsu DS: Tokyo & Japan | 64419 | [64419-momotaro-dentetsu-ds-tokyo-and-japan.json](./64419-momotaro-dentetsu-ds-tokyo-and-japan.json) |
+| Momotaro Dentetsu Japan+ | 64408 | [64408-momotaro-dentetsu-japan.json](./64408-momotaro-dentetsu-japan.json) |
+| Momotaro Dentetsu Jr.: Zenkoku Ramen Meguri no Maki | 64414 | [64414-momotaro-dentetsu-jr-zenkoku-ramen-meguri-no-maki.json](./64414-momotaro-dentetsu-jr-zenkoku-ramen-meguri-no-maki.json) |
+| Momotaro Dentetsu Tag Match: Yuujou, Doryoku, Shouri no Maki! | 64403 | [64403-momotaro-dentetsu-tag-match-yuujou-doryoku-shouri-no-maki.json](./64403-momotaro-dentetsu-tag-match-yuujou-doryoku-shouri-no-maki.json) |
+| Momotaro Dentetsu USA | 64404 | [64404-momotaro-dentetsu-usa.json](./64404-momotaro-dentetsu-usa.json) |
+| Momotaro Dentetsu V | 64409 | [64409-momotaro-dentetsu-v.json](./64409-momotaro-dentetsu-v.json) |
+| Momotaro Dentetsu World | 64416 | [64416-momotaro-dentetsu-world.json](./64416-momotaro-dentetsu-world.json) |
+| Momotaro Dentetsu: 20 Shuunen | 64420 | [64420-momotaro-dentetsu-20-shuunen.json](./64420-momotaro-dentetsu-20-shuunen.json) |
+| Momotaro Douchuuki | 64421 | [64421-momotaro-douchuuki.json](./64421-momotaro-douchuuki.json) |
+| Momotaro Matsuri: Ishikawa Rokuemon no Maki | 64407 | [64407-momotaro-matsuri-ishikawa-rokuemon-no-maki.json](./64407-momotaro-matsuri-ishikawa-rokuemon-no-maki.json) |
+| Momotaro Thunderbolt 2 | 64422 | [64422-momotaro-thunderbolt-2.json](./64422-momotaro-thunderbolt-2.json) |
 | Momotarou | 318770 | [318770-momotarou.json](./318770-momotarou.json) |
 | Mon-cuties for All | 134679 | [134679-mon-cuties-for-all.json](./134679-mon-cuties-for-all.json) |
 | Mona and the Witch's Hat | 195210 | [195210-mona-and-the-witchs-hat.json](./195210-mona-and-the-witchs-hat.json) |
@@ -1480,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Riding Stables 2: A New Adventure | 140008 | [140008-my-riding-stables-2-a-new-adventure.json](./140008-my-riding-stables-2-a-new-adventure.json) |
 | My Sacred Shrine Maiden | 226420 | [226420-my-sacred-shrine-maiden.json](./226420-my-sacred-shrine-maiden.json) |
 | My Sail and My Sea | 133465 | [133465-my-sail-and-my-sea.json](./133465-my-sail-and-my-sea.json) |
+| My SameGame | 64433 | [64433-my-samegame.json](./64433-my-samegame.json) |
 | My Secret Bistro: Cooking Game | 246661 | [246661-my-secret-bistro-cooking-game.json](./246661-my-secret-bistro-cooking-game.json) |
 | My Service Area | 212476 | [212476-my-service-area.json](./212476-my-service-area.json) |
 | My Sexual Hospitalization | 215890 | [215890-my-sexual-hospitalization.json](./215890-my-sexual-hospitalization.json) |
