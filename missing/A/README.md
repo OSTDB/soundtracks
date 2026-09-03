@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acatalepsy | 150169 | [150169-acatalepsy.json](./150169-acatalepsy.json) |
 | Accel Magician Mimi | 148554 | [148554-accel-magician-mimi.json](./148554-accel-magician-mimi.json) |
 | Accel World: Awakening of the Silver Wings | 44598 | [44598-accel-world-awakening-of-the-silver-wings.json](./44598-accel-world-awakening-of-the-silver-wings.json) |
+| Accele Brid | 38353 | [38353-accele-brid.json](./38353-accele-brid.json) |
 | Acceleration of Suguri X-Edition | 44596 | [44596-acceleration-of-suguri-x-edition.json](./44596-acceleration-of-suguri-x-edition.json) |
 | Acceptance | 210902 | [210902-acceptance.json](./210902-acceptance.json) |
 | Accurate Adjacent Ballistics Simulator | 247783 | [247783-accurate-adjacent-ballistics-simulator.json](./247783-accurate-adjacent-ballistics-simulator.json) |
@@ -279,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Card Football | 109662 | [109662-action-card-football.json](./109662-action-card-football.json) |
 | Action Games Bundle (5 in 1) | 231074 | [231074-action-games-bundle-5-in-1.json](./231074-action-games-bundle-5-in-1.json) |
 | Action Hero | 66714 | [66714-action-hero.json](./66714-action-hero.json) |
+| Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
 | Action Replay Max | 43302 | [43302-action-replay-max.json](./43302-action-replay-max.json) |
 | ActionHacker | 290686 | [290686-actionhacker.json](./290686-actionhacker.json) |
 | Active Life Outdoor Challenge | 167810 | [167810-active-life-outdoor-challenge.json](./167810-active-life-outdoor-challenge.json) |
@@ -538,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alabaster | 60017 | [60017-alabaster.json](./60017-alabaster.json) |
 | Alan Probe: Amateur Surgeon | 70415 | [70415-alan-probe-amateur-surgeon.json](./70415-alan-probe-amateur-surgeon.json) |
 | Alan Wake II: The Final Draft | 298842 | [298842-alan-wake-ii-the-final-draft.json](./298842-alan-wake-ii-the-final-draft.json) |
+| Albert Odyssey 2: Jashin no Taidou | 38346 | [38346-albert-odyssey-2-jashin-no-taidou.json](./38346-albert-odyssey-2-jashin-no-taidou.json) |
 | Alchemic Cutie | 107171 | [107171-alchemic-cutie.json](./107171-alchemic-cutie.json) |
 | Alchemist code | 75134 | [75134-alchemist-code.json](./75134-alchemist-code.json) |
 | Alchemist Tris's Desire | 211417 | [211417-alchemist-triss-desire.json](./211417-alchemist-triss-desire.json) |
@@ -1010,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apox: Legend | 167853 | [167853-apox-legend.json](./167853-apox-legend.json) |
 | App Co Tycoon | 211438 | [211438-app-co-tycoon.json](./211438-app-co-tycoon.json) |
 | Appetite for Detestation | 147482 | [147482-appetite-for-detestation.json](./147482-appetite-for-detestation.json) |
+| Appleseed: Prometheus no Shintaku | 38370 | [38370-appleseed-prometheus-no-shintaku.json](./38370-appleseed-prometheus-no-shintaku.json) |
 | Approaching Cao Army | 254773 | [254773-approaching-cao-army.json](./254773-approaching-cao-army.json) |
 | April '86 | 251841 | [251841-april-86.json](./251841-april-86.json) |
 | Aptly Rolling | 165661 | [165661-aptly-rolling.json](./165661-aptly-rolling.json) |
@@ -1035,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AR Magic Color UP | 56487 | [56487-ar-magic-color-up.json](./56487-ar-magic-color-up.json) |
 | Ar nosurge Plus: Ode to an Unborn Star - Limited Edition | 89915 | [89915-ar-nosurge-plus-ode-to-an-unborn-star-limited-edition.json](./89915-ar-nosurge-plus-ode-to-an-unborn-star-limited-edition.json) |
 | AR Race Car | 242215 | [242215-ar-race-car.json](./242215-ar-race-car.json) |
+| Arabian Nights: Sabaku no Seirei-ou | 38381 | [38381-arabian-nights-sabaku-no-seirei-ou.json](./38381-arabian-nights-sabaku-no-seirei-ou.json) |
 | Aracnidium | 193462 | [193462-aracnidium.json](./193462-aracnidium.json) |
 | Aralon: Sword and Shadow | 38985 | [38985-aralon-sword-and-shadow.json](./38985-aralon-sword-and-shadow.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
