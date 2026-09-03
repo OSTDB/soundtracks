@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm Craft | 251811 | [251811-realm-craft.json](./251811-realm-craft.json) |
 | Realm Hacker | 132271 | [132271-realm-hacker.json](./132271-realm-hacker.json) |
 | Realm of the hero | 156128 | [156128-realm-of-the-hero.json](./156128-realm-of-the-hero.json) |
+| Realm of Valor | 56503 | [56503-realm-of-valor.json](./56503-realm-of-valor.json) |
 | Realms of Despair | 127951 | [127951-realms-of-despair.json](./127951-realms-of-despair.json) |
 | Realms of Dr. Chaos | 268758 | [268758-realms-of-dr-chaos.json](./268758-realms-of-dr-chaos.json) |
 | Realms of Flow | 253591 | [253591-realms-of-flow.json](./253591-realms-of-flow.json) |
@@ -832,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Survivalist | 277592 | [277592-rogue-survivalist.json](./277592-rogue-survivalist.json) |
 | Rogue Survivor | 80557 | [80557-rogue-survivor.json](./80557-rogue-survivor.json) |
 | Rogue Trooper Redux: Collector's Edition | 154524 | [154524-rogue-trooper-redux-collectors-edition.json](./154524-rogue-trooper-redux-collectors-edition.json) |
+| RogueCraft Squadron | 56507 | [56507-roguecraft-squadron.json](./56507-roguecraft-squadron.json) |
 | Roguelike Hero | 107898 | [107898-roguelike-hero.json](./107898-roguelike-hero.json) |
 | Rogueline | 209659 | [209659-rogueline.json](./209659-rogueline.json) |
 | RogueLive | 291769 | [291769-roguelive.json](./291769-roguelive.json) |
