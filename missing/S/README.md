@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SFCave | 87233 | [87233-sfcave.json](./87233-sfcave.json) |
 | SGS Pacific D-Day | 197415 | [197415-sgs-pacific-d-day.json](./197415-sgs-pacific-d-day.json) |
 | Shade | 171056 | [171056-shade.json](./171056-shade.json) |
+| Shade | 79903 | [79903-shade.json](./79903-shade.json) |
 | Shade Hunters | 291225 | [291225-shade-hunters.json](./291225-shade-hunters.json) |
 | Shade Silver | 297215 | [297215-shade-silver.json](./297215-shade-silver.json) |
 | Shade: The Border Collie Flycatcher | 241623 | [241623-shade-the-border-collie-flycatcher.json](./241623-shade-the-border-collie-flycatcher.json) |
@@ -2454,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphony of Souls | 253573 | [253573-symphony-of-souls.json](./253573-symphony-of-souls.json) |
 | Symphony of War: Legends | 252370 | [252370-symphony-of-war-legends.json](./252370-symphony-of-war-legends.json) |
 | Symphorix | 333400 | [333400-symphorix.json](./333400-symphorix.json) |
+| Synaesthete | 79917 | [79917-synaesthete.json](./79917-synaesthete.json) |
 | Synapses | 302131 | [302131-synapses.json](./302131-synapses.json) |
 | Synchronizacja | 187539 | [187539-synchronizacja.json](./187539-synchronizacja.json) |
 | SynCo 2321 | 192979 | [192979-synco-2321.json](./192979-synco-2321.json) |
