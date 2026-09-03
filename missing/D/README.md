@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daneta2 | 125455 | [125455-daneta2.json](./125455-daneta2.json) |
 | Danganronpa 2: Goodbye Despair - Anniversary Edition | 152400 | [152400-danganronpa-2-goodbye-despair-anniversary-edition.json](./152400-danganronpa-2-goodbye-despair-anniversary-edition.json) |
 | Danganronpa Absolute Vindication | 304350 | [304350-danganronpa-absolute-vindication.json](./304350-danganronpa-absolute-vindication.json) |
+| Danganronpa Another Episode: Ultra Despair Girls - Limited Edition | 42675 | [42675-danganronpa-another-episode-ultra-despair-girls-limited-edition.json](./42675-danganronpa-another-episode-ultra-despair-girls-limited-edition.json) |
 | Danganronpa Blowback: The Stage of Repeated Despair and Hope | 304343 | [304343-danganronpa-blowback-the-stage-of-repeated-despair-and-hope.json](./304343-danganronpa-blowback-the-stage-of-repeated-despair-and-hope.json) |
 | Danganronpa Croxx: The Beginning of the Despair Plan | 304340 | [304340-danganronpa-croxx-the-beginning-of-the-despair-plan.json](./304340-danganronpa-croxx-the-beginning-of-the-despair-plan.json) |
 | Danganronpa Daydream | 304352 | [304352-danganronpa-daydream.json](./304352-danganronpa-daydream.json) |
@@ -344,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death's Playground | 208603 | [208603-deaths-playground.json](./208603-deaths-playground.json) |
 | Deathbed Lullabye | 201328 | [201328-deathbed-lullabye.json](./201328-deathbed-lullabye.json) |
 | Deathmatch Soccer | 74437 | [74437-deathmatch-soccer.json](./74437-deathmatch-soccer.json) |
+| Deathmatch Village | 42683 | [42683-deathmatch-village.json](./42683-deathmatch-village.json) |
 | Deathsmiles II: Makai no Merry Christmas | 68011 | [68011-deathsmiles-ii-makai-no-merry-christmas.json](./68011-deathsmiles-ii-makai-no-merry-christmas.json) |
 | DeathWorm | 234941 | [234941-deathworm.json](./234941-deathworm.json) |
 | Debrecen | 312921 | [312921-debrecen.json](./312921-debrecen.json) |
@@ -545,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Chaser | 114413 | [114413-destiny-chaser.json](./114413-destiny-chaser.json) |
 | Destiny Duel | 236546 | [236546-destiny-duel.json](./236546-destiny-duel.json) |
 | Destiny of an Emperor | 48064 | [48064-destiny-of-an-emperor.json](./48064-destiny-of-an-emperor.json) |
+| Destiny of Spirits | 42682 | [42682-destiny-of-spirits.json](./42682-destiny-of-spirits.json) |
 | Destiny of Thrones | 97322 | [97322-destiny-of-thrones.json](./97322-destiny-of-thrones.json) |
 | Destiny's Sword | 117061 | [117061-destinys-sword.json](./117061-destinys-sword.json) |
 | Destroy Blocks | 296642 | [296642-destroy-blocks.json](./296642-destroy-blocks.json) |
@@ -713,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Bicycle Rider Simulator | 259816 | [259816-dirt-bicycle-rider-simulator.json](./259816-dirt-bicycle-rider-simulator.json) |
 | Dirt Racing 2 Sprint Car Game | 232161 | [232161-dirt-racing-2-sprint-car-game.json](./232161-dirt-racing-2-sprint-car-game.json) |
 | Dirt Rally Driver HD | 116383 | [116383-dirt-rally-driver-hd.json](./116383-dirt-rally-driver-hd.json) |
+| Dirt Trax FX | 42622 | [42622-dirt-trax-fx.json](./42622-dirt-trax-fx.json) |
 | Dirty House | 278158 | [278158-dirty-house.json](./278158-dirty-house.json) |
 | Dirty Texts: Are You Sure? | 263221 | [263221-dirty-texts-are-you-sure.json](./263221-dirty-texts-are-you-sure.json) |
 | Disaster Crisis | 166749 | [166749-disaster-crisis.json](./166749-disaster-crisis.json) |
