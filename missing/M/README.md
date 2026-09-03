@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaball: Kung Fu Pack | 293417 | [293417-metaball-kung-fu-pack.json](./293417-metaball-kung-fu-pack.json) |
 | Metaball: Red Astro Pack | 293418 | [293418-metaball-red-astro-pack.json](./293418-metaball-red-astro-pack.json) |
 | MetaCity M | 220334 | [220334-metacity-m.json](./220334-metacity-m.json) |
+| Metal Angel 3 | 91961 | [91961-metal-angel-3.json](./91961-metal-angel-3.json) |
 | Metal Dragon | 325243 | [325243-metal-dragon.json](./325243-metal-dragon.json) |
 | Metal Dragon/Life on Mars | 325244 | [325244-metal-dragon-life-on-mars.json](./325244-metal-dragon-life-on-mars.json) |
 | Metal Freezer | 267644 | [267644-metal-freezer.json](./267644-metal-freezer.json) |
@@ -654,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Abyss | 166768 | [166768-micro-abyss.json](./166768-micro-abyss.json) |
 | Micro Machines 1 and 2: Twin Turbo | 93056 | [93056-micro-machines-1-and-2-twin-turbo.json](./93056-micro-machines-1-and-2-twin-turbo.json) |
 | Micro Mayhem | 115040 | [115040-micro-mayhem.json](./115040-micro-mayhem.json) |
+| Micro Mouse Game | 91957 | [91957-micro-mouse-game.json](./91957-micro-mouse-game.json) |
 | Micro Ninja | 314647 | [314647-micro-ninja.json](./314647-micro-ninja.json) |
 | Micro Plutonia | 312898 | [312898-micro-plutonia.json](./312898-micro-plutonia.json) |
 | MicroCity | 144375 | [144375-microcity.json](./144375-microcity.json) |
@@ -702,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Calling: Jeronimo | 102792 | [102792-midnight-calling-jeronimo.json](./102792-midnight-calling-jeronimo.json) |
 | Midnight Castle | 294462 | [294462-midnight-castle.json](./294462-midnight-castle.json) |
 | Midnight Collection | 309078 | [309078-midnight-collection.json](./309078-midnight-collection.json) |
+| Midnight Commander | 91963 | [91963-midnight-commander.json](./91963-midnight-commander.json) |
 | Midnight Dungeon | 179719 | [179719-midnight-dungeon.json](./179719-midnight-dungeon.json) |
 | Midnight Fishing | 302684 | [302684-midnight-fishing.json](./302684-midnight-fishing.json) |
 | Midnight Horror School | 292834 | [292834-midnight-horror-school.json](./292834-midnight-horror-school.json) |
@@ -839,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirage: Illusions | 326977 | [326977-mirage-illusions.json](./326977-mirage-illusions.json) |
 | Mirai | 200755 | [200755-mirai.json](./200755-mirai.json) |
 | Mirror Image | 322352 | [322352-mirror-image.json](./322352-mirror-image.json) |
+| Mirror Land | 91986 | [91986-mirror-land.json](./91986-mirror-land.json) |
 | Mirror Shoot | 193478 | [193478-mirror-shoot.json](./193478-mirror-shoot.json) |
 | Misadventure In Little Lon | 125425 | [125425-misadventure-in-little-lon.json](./125425-misadventure-in-little-lon.json) |
 | Misadventures of Laura Silver - Chapter II | 121771 | [121771-misadventures-of-laura-silver-chapter-ii.json](./121771-misadventures-of-laura-silver-chapter-ii.json) |
