@@ -791,6 +791,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gravedigger | 311267 | [311267-the-gravedigger.json](./311267-the-gravedigger.json) |
 | The Gray Wolf and The Little Lamb | 245003 | [245003-the-gray-wolf-and-the-little-lamb.json](./245003-the-gray-wolf-and-the-little-lamb.json) |
 | The Great | 211959 | [211959-the-great.json](./211959-the-great.json) |
+| The Great Battle III | 66671 | [66671-the-great-battle-iii.json](./66671-the-great-battle-iii.json) |
+| The Great Battle V | 66672 | [66672-the-great-battle-v.json](./66672-the-great-battle-v.json) |
+| The Great Battle VI | 66670 | [66670-the-great-battle-vi.json](./66670-the-great-battle-vi.json) |
 | The Great Dick Invasion | 213595 | [213595-the-great-dick-invasion.json](./213595-the-great-dick-invasion.json) |
 | The Great Farce | 318176 | [318176-the-great-farce.json](./318176-the-great-farce.json) |
 | The Great Hero's Cat | 209605 | [209605-the-great-heros-cat.json](./209605-the-great-heros-cat.json) |
@@ -841,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Imaginary Circle | 215369 | [215369-the-imaginary-circle.json](./215369-the-imaginary-circle.json) |
 | The Immortal Mayor | 152377 | [152377-the-immortal-mayor.json](./152377-the-immortal-mayor.json) |
 | The Immortal Mayor: Kingdom of Women | 262077 | [262077-the-immortal-mayor-kingdom-of-women.json](./262077-the-immortal-mayor-kingdom-of-women.json) |
+| The Impossible Test | 66712 | [66712-the-impossible-test.json](./66712-the-impossible-test.json) |
 | The Innsmouth Case | 129197 | [129197-the-innsmouth-case.json](./129197-the-innsmouth-case.json) |
 | The Instruction Manual | 202384 | [202384-the-instruction-manual.json](./202384-the-instruction-manual.json) |
 | The Interdiction Zone | 274191 | [274191-the-interdiction-zone.json](./274191-the-interdiction-zone.json) |
@@ -1417,6 +1421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Whisper of the Abyss: Echo of Eden | 311256 | [311256-the-whisper-of-the-abyss-echo-of-eden.json](./311256-the-whisper-of-the-abyss-echo-of-eden.json) |
 | The Wild Case | 126639 | [126639-the-wild-case.json](./126639-the-wild-case.json) |
 | The Wild Darkness | 212474 | [212474-the-wild-darkness.json](./212474-the-wild-darkness.json) |
+| The Will of Dr. Frankenstein | 66715 | [66715-the-will-of-dr-frankenstein.json](./66715-the-will-of-dr-frankenstein.json) |
 | The Wind's Disciple | 265935 | [265935-the-winds-disciple.json](./265935-the-winds-disciple.json) |
 | The Windows Are Gone | 267093 | [267093-the-windows-are-gone.json](./267093-the-windows-are-gone.json) |
 | The Winter | 209684 | [209684-the-winter.json](./209684-the-winter.json) |
