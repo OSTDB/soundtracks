@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Above the Stars | 148555 | [148555-above-the-stars.json](./148555-above-the-stars.json) |
 | AbraTabia Kingdom | 301593 | [301593-abratabia-kingdom.json](./301593-abratabia-kingdom.json) |
 | Abrix 2: Diamond Version | 307324 | [307324-abrix-2-diamond-version.json](./307324-abrix-2-diamond-version.json) |
+| Absence Request | 76618 | [76618-absence-request.json](./76618-absence-request.json) |
 | Absented Age: Squarebound | 150161 | [150161-absented-age-squarebound.json](./150161-absented-age-squarebound.json) |
 | Absentis | 189193 | [189193-absentis.json](./189193-absentis.json) |
 | Absinthe | 337440 | [337440-absinthe.json](./337440-absinthe.json) |
@@ -209,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accel Magician Mimi | 148554 | [148554-accel-magician-mimi.json](./148554-accel-magician-mimi.json) |
 | Acceptance | 210902 | [210902-acceptance.json](./210902-acceptance.json) |
 | Accurate Adjacent Ballistics Simulator | 247783 | [247783-accurate-adjacent-ballistics-simulator.json](./247783-accurate-adjacent-ballistics-simulator.json) |
+| Accuwar | 76632 | [76632-accuwar.json](./76632-accuwar.json) |
 | Ace | 301591 | [301591-ace.json](./301591-ace.json) |
 | Ace Attorney But Plotagon | 303755 | [303755-ace-attorney-but-plotagon.json](./303755-ace-attorney-but-plotagon.json) |
 | Ace Attorney Online: The Game | 303774 | [303774-ace-attorney-online-the-game.json](./303774-ace-attorney-online-the-game.json) |
@@ -258,13 +260,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Fundum | 273626 | [273626-ad-fundum.json](./273626-ad-fundum.json) |
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
 | Ada and Cal | 165676 | [165676-ada-and-cal.json](./165676-ada-and-cal.json) |
+| ADAC: The Simulation | 76623 | [76623-adac-the-simulation.json](./76623-adac-the-simulation.json) |
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
 | Adam and Eve | 300990 | [300990-adam-and-eve.json](./300990-adam-and-eve.json) |
 | Adam Sandler Dating Sim | 138263 | [138263-adam-sandler-dating-sim.json](./138263-adam-sandler-dating-sim.json) |
 | Add Astra | 292305 | [292305-add-astra.json](./292305-add-astra.json) |
+| Addition | 76606 | [76606-addition.json](./76606-addition.json) |
+| Adelantado Trilogy: Book Two | 76652 | [76652-adelantado-trilogy-book-two.json](./76652-adelantado-trilogy-book-two.json) |
 | Adelantado. 4 Aztec skulls | 104665 | [104665-adelantado-4-aztec-skulls.json](./104665-adelantado-4-aztec-skulls.json) |
 | Aden | 224770 | [224770-aden.json](./224770-aden.json) |
 | Adhvan Chakra | 328214 | [328214-adhvan-chakra.json](./328214-adhvan-chakra.json) |
+| Adj | 76620 | [76620-adj.json](./76620-adj.json) |
 | Adonis | 200708 | [200708-adonis.json](./200708-adonis.json) |
 | Adora and My Treasure | 301598 | [301598-adora-and-my-treasure.json](./301598-adora-and-my-treasure.json) |
 | Adorable Home | 193994 | [193994-adorable-home.json](./193994-adorable-home.json) |
@@ -619,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AmazeBowl | 104070 | [104070-amazebowl.json](./104070-amazebowl.json) |
 | Amazething | 154020 | [154020-amazething.json](./154020-amazething.json) |
 | Amazing Crime Rope Stickman | 296072 | [296072-amazing-crime-rope-stickman.json](./296072-amazing-crime-rope-stickman.json) |
+| Amazing Drones | 76619 | [76619-amazing-drones.json](./76619-amazing-drones.json) |
 | Amazing Frog: In the City | 96058 | [96058-amazing-frog-in-the-city.json](./96058-amazing-frog-in-the-city.json) |
 | Amazing Space | 258210 | [258210-amazing-space.json](./258210-amazing-space.json) |
 | Amazing Superhero Squad | 159862 | [159862-amazing-superhero-squad.json](./159862-amazing-superhero-squad.json) |
@@ -1098,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash of Gods: Fan Edition | 257095 | [257095-ash-of-gods-fan-edition.json](./257095-ash-of-gods-fan-edition.json) |
 | Ash of Gods: Universe Bundle | 257096 | [257096-ash-of-gods-universe-bundle.json](./257096-ash-of-gods-universe-bundle.json) |
 | Ash of War | 109684 | [109684-ash-of-war.json](./109684-ash-of-war.json) |
+| Ash. | 76669 | [76669-ash.json](./76669-ash.json) |
 | Ashen Arrows | 211413 | [211413-ashen-arrows.json](./211413-ashen-arrows.json) |
 | Ashen Knights: Foreshadow | 211412 | [211412-ashen-knights-foreshadow.json](./211412-ashen-knights-foreshadow.json) |
 | Ashes 2 | 119774 | [119774-ashes-2.json](./119774-ashes-2.json) |
@@ -1342,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayu: The Dream Soul | 149098 | [149098-ayu-the-dream-soul.json](./149098-ayu-the-dream-soul.json) |
 | Azangara | 77375 | [77375-azangara.json](./77375-azangara.json) |
 | Azazel | 170020 | [170020-azazel.json](./170020-azazel.json) |
+| Azera Online | 76612 | [76612-azera-online.json](./76612-azera-online.json) |
 | Aznana | 151729 | [151729-aznana.json](./151729-aznana.json) |
 | Azrael | 192457 | [192457-azrael.json](./192457-azrael.json) |
 | Azrael | 209697 | [209697-azrael.json](./209697-azrael.json) |
