@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale: Wildfire | 314045 | [314045-undertale-wildfire.json](./314045-undertale-wildfire.json) |
 | Undertone | 229350 | [229350-undertone.json](./229350-undertone.json) |
 | Undertones | 104632 | [104632-undertones.json](./104632-undertones.json) |
+| Undertown | 51263 | [51263-undertown.json](./51263-undertown.json) |
 | Undervault | 129771 | [129771-undervault.json](./129771-undervault.json) |
 | Underwater Affect | 113000 | [113000-underwater-affect.json](./113000-underwater-affect.json) |
 | Underworld Football Manager | 233739 | [233739-underworld-football-manager.json](./233739-underworld-football-manager.json) |
