@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabboz Simulator | 191239 | [191239-tabboz-simulator.json](./191239-tabboz-simulator.json) |
 | Table Ball: Amazing Extras Skin Pack | 293399 | [293399-table-ball-amazing-extras-skin-pack.json](./293399-table-ball-amazing-extras-skin-pack.json) |
 | Table Ball: Emotions Skin Pack | 293398 | [293398-table-ball-emotions-skin-pack.json](./293398-table-ball-emotions-skin-pack.json) |
+| Table Game Daishuugou!! Shogi Mahjong Hanafuda | 37800 | [37800-table-game-daishuugou-shogi-mahjong-hanafuda.json](./37800-table-game-daishuugou-shogi-mahjong-hanafuda.json) |
 | Table Soccer Foosball | 147953 | [147953-table-soccer-foosball.json](./147953-table-soccer-foosball.json) |
 | TableSoccer | 339092 | [339092-tablesoccer.json](./339092-tablesoccer.json) |
 | Tabletopia: Aquanauts | 162891 | [162891-tabletopia-aquanauts.json](./162891-tabletopia-aquanauts.json) |
@@ -54,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics Arena Online | 69301 | [69301-tactics-arena-online.json](./69301-tactics-arena-online.json) |
 | Tactics Rogue | 109709 | [109709-tactics-rogue.json](./109709-tactics-rogue.json) |
 | TacticsLand | 311805 | [311805-tacticsland.json](./311805-tacticsland.json) |
+| Tadaima Yuusha Boshuuchuu Okawari | 37799 | [37799-tadaima-yuusha-boshuuchuu-okawari.json](./37799-tadaima-yuusha-boshuuchuu-okawari.json) |
 | Taern | 55929 | [55929-taern.json](./55929-taern.json) |
 | Tag Hop | 153413 | [153413-tag-hop.json](./153413-tag-hop.json) |
 | Tag War VR | 336904 | [336904-tag-war-vr.json](./336904-tag-war-vr.json) |
@@ -65,6 +67,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taijitu: A Game About Balance | 167289 | [167289-taijitu-a-game-about-balance.json](./167289-taijitu-a-game-about-balance.json) |
 | Taiko no Tatsujin: Ongaku Lesson | 123620 | [123620-taiko-no-tatsujin-ongaku-lesson.json](./123620-taiko-no-tatsujin-ongaku-lesson.json) |
 | Taikodom | 68016 | [68016-taikodom.json](./68016-taikodom.json) |
+| Taikou Risshiden | 37798 | [37798-taikou-risshiden.json](./37798-taikou-risshiden.json) |
+| Taikyoku Igo: Goliath | 37797 | [37797-taikyoku-igo-goliath.json](./37797-taikyoku-igo-goliath.json) |
+| Taikyoku Igo: Idaten | 37796 | [37796-taikyoku-igo-idaten.json](./37796-taikyoku-igo-idaten.json) |
 | Tailor Tales - Aiden Plus | 305544 | [305544-tailor-tales-aiden-plus.json](./305544-tailor-tales-aiden-plus.json) |
 | Tailor Tales: Gray Plus | 305543 | [305543-tailor-tales-gray-plus.json](./305543-tailor-tales-gray-plus.json) |
 | Tails Advance | 326961 | [326961-tails-advance.json](./326961-tails-advance.json) |
@@ -92,8 +97,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Care VR | 236507 | [236507-take-care-vr.json](./236507-take-care-vr.json) |
 | Take on Helicopters: Hinds | 166219 | [166219-take-on-helicopters-hinds.json](./166219-take-on-helicopters-hinds.json) |
 | Take Shape | 92488 | [92488-take-shape.json](./92488-take-shape.json) |
+| Take Yutaka G1 Memory | 37795 | [37795-take-yutaka-g1-memory.json](./37795-take-yutaka-g1-memory.json) |
 | Takeda 2 | 67323 | [67323-takeda-2.json](./67323-takeda-2.json) |
 | Takeda Shingen | 81334 | [81334-takeda-shingen.json](./81334-takeda-shingen.json) |
+| Takemiya Masaki Kudan no Igo Taishou | 37794 | [37794-takemiya-masaki-kudan-no-igo-taishou.json](./37794-takemiya-masaki-kudan-no-igo-taishou.json) |
 | Taken Souls: Blood Ritual | 139427 | [139427-taken-souls-blood-ritual.json](./139427-taken-souls-blood-ritual.json) |
 | Takeout food | 107902 | [107902-takeout-food.json](./107902-takeout-food.json) |
 | Tako no Himitsu: Ocean of Secrets | 250031 | [250031-tako-no-himitsu-ocean-of-secrets.json](./250031-tako-no-himitsu-ocean-of-secrets.json) |
@@ -179,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi Friends: Dream Town Digital Friend | 229960 | [229960-tamagotchi-friends-dream-town-digital-friend.json](./229960-tamagotchi-friends-dream-town-digital-friend.json) |
 | Tamagotchi Mini | 229970 | [229970-tamagotchi-mini.json](./229970-tamagotchi-mini.json) |
 | Tamagotchi Music Star | 229957 | [229957-tamagotchi-music-star.json](./229957-tamagotchi-music-star.json) |
+| Tamagotchi Town | 37792 | [37792-tamagotchi-town.json](./37792-tamagotchi-town.json) |
 | TamaTown Tama-Go | 229958 | [229958-tamatown-tama-go.json](./229958-tamatown-tama-go.json) |
 | Tame It Too! | 310745 | [310745-tame-it-too.json](./310745-tame-it-too.json) |
 | Tamer Saga | 56489 | [56489-tamer-saga.json](./56489-tamer-saga.json) |
@@ -254,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Target | 190705 | [190705-target.json](./190705-target.json) |
 | Target Practice | 167303 | [167303-target-practice.json](./167303-target-practice.json) |
 | Taro | 126637 | [126637-taro.json](./126637-taro.json) |
+| Tarot Mystery | 37793 | [37793-tarot-mystery.json](./37793-tarot-mystery.json) |
 | Task Force 88: Hostile Contact | 179209 | [179209-task-force-88-hostile-contact.json](./179209-task-force-88-hostile-contact.json) |
 | Task Force Harrier | 40248 | [40248-task-force-harrier.json](./40248-task-force-harrier.json) |
 | Task III | 55150 | [55150-task-iii.json](./55150-task-iii.json) |
@@ -310,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teeny Tiny Trains | 297228 | [297228-teeny-tiny-trains.json](./297228-teeny-tiny-trains.json) |
 | Teeth Brushing Simulator | 228730 | [228730-teeth-brushing-simulator.json](./228730-teeth-brushing-simulator.json) |
 | Teisoukannen Zero: Yariman Kazoku to Hame Kurui Natsuyasumi | 82956 | [82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json](./82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json) |
+| Tekichuu Keiba Juku | 37791 | [37791-tekichuu-keiba-juku.json](./37791-tekichuu-keiba-juku.json) |
 | Tekken 6 | 272551 | [272551-tekken-6.json](./272551-tekken-6.json) |
 | Tekken 8: Eddy Gordo | 296675 | [296675-tekken-8-eddy-gordo.json](./296675-tekken-8-eddy-gordo.json) |
 | Tekken 8: Ultimate Pack | 293397 | [293397-tekken-8-ultimate-pack.json](./293397-tekken-8-ultimate-pack.json) |
@@ -341,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempoknight | 224204 | [224204-tempoknight.json](./224204-tempoknight.json) |
 | Temporal Cross | 310211 | [310211-temporal-cross.json](./310211-temporal-cross.json) |
 | Tenchi Muyo! Ryo-Ohki FX | 123079 | [123079-tenchi-muyo-ryo-ohki-fx.json](./123079-tenchi-muyo-ryo-ohki-fx.json) |
+| Tenchi wo Kurau: Sangokushi Gunyuuden | 37790 | [37790-tenchi-wo-kurau-sangokushi-gunyuuden.json](./37790-tenchi-wo-kurau-sangokushi-gunyuuden.json) |
 | Tender Frame Cocoon: //Rhapsody of Cross-Pollination | 306683 | [306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json](./306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json) |
 | Tendo Blade | 202973 | [202973-tendo-blade.json](./202973-tendo-blade.json) |
 | Tenebra | 333921 | [333921-tenebra.json](./333921-tenebra.json) |
@@ -1637,6 +1648,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thor | 95414 | [95414-thor.json](./95414-thor.json) |
 | Thor: The Dark World - The Official Game | 62214 | [62214-thor-the-dark-world-the-official-game.json](./62214-thor-the-dark-world-the-official-game.json) |
 | Thorns & Spells | 47299 | [47299-thorns-and-spells.json](./47299-thorns-and-spells.json) |
+| Thoroughbred Breeder | 37789 | [37789-thoroughbred-breeder.json](./37789-thoroughbred-breeder.json) |
+| Thoroughbred Breeder II | 37788 | [37788-thoroughbred-breeder-ii.json](./37788-thoroughbred-breeder-ii.json) |
+| Thoroughbred Breeder III | 37787 | [37787-thoroughbred-breeder-iii.json](./37787-thoroughbred-breeder-iii.json) |
 | Those Nights at Ring's 2 | 336360 | [336360-those-nights-at-rings-2.json](./336360-those-nights-at-rings-2.json) |
 | Threads of War | 296691 | [296691-threads-of-war.json](./296691-threads-of-war.json) |
 | Three Bosses | 174323 | [174323-three-bosses.json](./174323-three-bosses.json) |
@@ -1986,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Memorial Girl's Side Triple Pack | 109045 | [109045-tokimeki-memorial-girls-side-triple-pack.json](./109045-tokimeki-memorial-girls-side-triple-pack.json) |
 | Tokimeki Taisen | 191861 | [191861-tokimeki-taisen.json](./191861-tokimeki-taisen.json) |
 | Tokimeter | 322951 | [322951-tokimeter.json](./322951-tokimeter.json) |
+| Tokoro's Mahjong | 37786 | [37786-tokoros-mahjong.json](./37786-tokoros-mahjong.json) |
 | Tokoro's Mahjong Jr. | 126011 | [126011-tokoros-mahjong-jr.json](./126011-tokoros-mahjong-jr.json) |
 | Tokyo Alice | 135270 | [135270-tokyo-alice.json](./135270-tokyo-alice.json) |
 | Tokyo Cooking: Complete + | 328822 | [328822-tokyo-cooking-complete.json](./328822-tokyo-cooking-complete.json) |
@@ -2089,6 +2104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tootuff: Mission Nadia | 48037 | [48037-tootuff-mission-nadia.json](./48037-tootuff-mission-nadia.json) |
 | Top Down Battlegrounds | 292850 | [292850-top-down-battlegrounds.json](./292850-top-down-battlegrounds.json) |
 | Top Down Racer | 107883 | [107883-top-down-racer.json](./107883-top-down-racer.json) |
+| Top Management II | 37785 | [37785-top-management-ii.json](./37785-top-management-ii.json) |
 | Top Street Soccer | 102209 | [102209-top-street-soccer.json](./102209-top-street-soccer.json) |
 | Top Troops! | 228123 | [228123-top-troops.json](./228123-top-troops.json) |
 | Topgolf with Pro Putt | 143067 | [143067-topgolf-with-pro-putt.json](./143067-topgolf-with-pro-putt.json) |
@@ -2104,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torchbear | 341898 | [341898-torchbear.json](./341898-torchbear.json) |
 | Torches of Fate | 133458 | [133458-torches-of-fate.json](./133458-torches-of-fate.json) |
 | Toree's Panic Pack | 308530 | [308530-torees-panic-pack.json](./308530-torees-panic-pack.json) |
+| Toride | 37784 | [37784-toride.json](./37784-toride.json) |
 | Toril | 228700 | [228700-toril.json](./228700-toril.json) |
 | Torn | 253595 | [253595-torn.json](./253595-torn.json) |
 | Tornado | 266469 | [266469-tornado.json](./266469-tornado.json) |
@@ -2136,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TotemBall | 79930 | [79930-totemball.json](./79930-totemball.json) |
 | Totems: Game of Conquest | 200188 | [200188-totems-game-of-conquest.json](./200188-totems-game-of-conquest.json) |
 | Toto's Toy Box | 129222 | [129222-totos-toy-box.json](./129222-totos-toy-box.json) |
+| Tottemo! Luckyman: Lucky Cookie Roulette de Totsugeki | 37783 | [37783-tottemo-luckyman-lucky-cookie-roulette-de-totsugeki.json](./37783-tottemo-luckyman-lucky-cookie-roulette-de-totsugeki.json) |
 | Tottoko Hamtaro Card-e | 220854 | [220854-tottoko-hamtaro-card-e.json](./220854-tottoko-hamtaro-card-e.json) |
 | Touch Battle Ninja | 58828 | [58828-touch-battle-ninja.json](./58828-touch-battle-ninja.json) |
 | Touch Battle Tank 3D | 55907 | [55907-touch-battle-tank-3d.json](./55907-touch-battle-tank-3d.json) |
@@ -2411,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Riddles: Mahjong | 106588 | [106588-travel-riddles-mahjong.json](./106588-travel-riddles-mahjong.json) |
 | Travel to GolemPark | 199100 | [199100-travel-to-golempark.json](./199100-travel-to-golempark.json) |
 | Traveler's Bastion | 234936 | [234936-travelers-bastion.json](./234936-travelers-bastion.json) |
+| Traverse: Starlight & Prairie | 37782 | [37782-traverse-starlight-and-prairie.json](./37782-traverse-starlight-and-prairie.json) |
 | Trax: Build it Race it | 105939 | [105939-trax-build-it-race-it.json](./105939-trax-build-it-race-it.json) |
 | Traxion | 257688 | [257688-traxion.json](./257688-traxion.json) |
 | Treachery in Beatdown City: U.N. Trouble | 272568 | [272568-treachery-in-beatdown-city-u-n-trouble.json](./272568-treachery-in-beatdown-city-u-n-trouble.json) |
@@ -2572,14 +2591,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuki no Shoujo: Bishoujo Gakuen 2 | 194622 | [194622-tsuki-no-shoujo-bishoujo-gakuen-2.json](./194622-tsuki-no-shoujo-bishoujo-gakuen-2.json) |
 | Tsukihime: Fool's Errand | 254127 | [254127-tsukihime-fools-errand.json](./254127-tsukihime-fools-errand.json) |
 | Tsukikage no Simulacre: Kaihou no Hane | 120995 | [120995-tsukikage-no-simulacre-kaihou-no-hane.json](./120995-tsukikage-no-simulacre-kaihou-no-hane.json) |
+| Tsukikomori | 37781 | [37781-tsukikomori.json](./37781-tsukikomori.json) |
 | Tsukumonogatari | 66115 | [66115-tsukumonogatari.json](./66115-tsukumonogatari.json) |
 | Tsumobaka Nisshi | 299440 | [299440-tsumobaka-nisshi.json](./299440-tsumobaka-nisshi.json) |
 | Tsunagaru Voiro Shooters vs. Space Kedamaki | 204732 | [204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json](./204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json) |
 | Tsunami Cruiser | 184655 | [184655-tsunami-cruiser.json](./184655-tsunami-cruiser.json) |
 | Tsundere Simulator 2 | 221389 | [221389-tsundere-simulator-2.json](./221389-tsundere-simulator-2.json) |
 | Tsuneko Apple | 318235 | [318235-tsuneko-apple.json](./318235-tsuneko-apple.json) |
+| Tsuppari Oozumou: Risshin Shusse-hen | 37780 | [37780-tsuppari-oozumou-risshin-shusse-hen.json](./37780-tsuppari-oozumou-risshin-shusse-hen.json) |
+| Tsuri Tarou | 37779 | [37779-tsuri-tarou.json](./37779-tsuri-tarou.json) |
 | Tsuru Teruhito no Jissen Kabushiki Bi-Game | 59431 | [59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json](./59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json) |
 | Tsuushin Taisen Mahjong: Touryuumon | 67989 | [67989-tsuushin-taisen-mahjong-touryuumon.json](./67989-tsuushin-taisen-mahjong-touryuumon.json) |
+| Tsuyoshi Shikkari Shinasai Taisen Puzzle-dama | 37778 | [37778-tsuyoshi-shikkari-shinasai-taisen-puzzle-dama.json](./37778-tsuyoshi-shikkari-shinasai-taisen-puzzle-dama.json) |
 | TTA 1 | 253565 | [253565-tta-1.json](./253565-tta-1.json) |
 | Tu cara me suena: El videojuego | 332817 | [332817-tu-cara-me-suena-el-videojuego.json](./332817-tu-cara-me-suena-el-videojuego.json) |
 | Tube Be Continued | 272569 | [272569-tube-be-continued.json](./272569-tube-be-continued.json) |
@@ -2614,6 +2637,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turboroko: Passion Fever | 142471 | [142471-turboroko-passion-fever.json](./142471-turboroko-passion-fever.json) |
 | Turboroko: Path to Passion Fever | 142470 | [142470-turboroko-path-to-passion-fever.json](./142470-turboroko-path-to-passion-fever.json) |
 | Turdy | 172195 | [172195-turdy.json](./172195-turdy.json) |
+| Turf Hero | 37776 | [37776-turf-hero.json](./37776-turf-hero.json) |
+| Turf Memories | 37808 | [37808-turf-memories.json](./37808-turf-memories.json) |
 | Turis Station | 244501 | [244501-turis-station.json](./244501-turis-station.json) |
 | Turkey Fling | 261542 | [261542-turkey-fling.json](./261542-turkey-fling.json) |
 | Turma da Mônica em O Resgate | 246679 | [246679-turma-da-monica-em-o-resgate.json](./246679-turma-da-monica-em-o-resgate.json) |
