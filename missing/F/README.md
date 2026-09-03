@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly! | 69847 | [69847-fly.json](./69847-fly.json) |
 | Fly! 2K | 93065 | [93065-fly-2k.json](./93065-fly-2k.json) |
 | Fly8 | 141223 | [141223-fly8.json](./141223-fly8.json) |
+| Flyer Fox | 46661 | [46661-flyer-fox.json](./46661-flyer-fox.json) |
 | Flyghts | 236512 | [236512-flyghts.json](./236512-flyghts.json) |
 | Flying Dino Simulator 3D: Pterodactyl | 104671 | [104671-flying-dino-simulator-3d-pterodactyl.json](./104671-flying-dino-simulator-3d-pterodactyl.json) |
 | Flying Hero VR | 164504 | [164504-flying-hero-vr.json](./164504-flying-hero-vr.json) |
@@ -1011,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fungoids: Steam Version | 93613 | [93613-fungoids-steam-version.json](./93613-fungoids-steam-version.json) |
 | Fungus Reaper | 248882 | [248882-fungus-reaper.json](./248882-fungus-reaper.json) |
 | Funguys Swarm | 332851 | [332851-funguys-swarm.json](./332851-funguys-swarm.json) |
+| Funnels and Buckets | 46644 | [46644-funnels-and-buckets.json](./46644-funnels-and-buckets.json) |
 | Funny Card | 193495 | [193495-funny-card.json](./193495-funny-card.json) |
 | Funny Cards | 82138 | [82138-funny-cards.json](./82138-funny-cards.json) |
 | Funny Face Apartment | 310762 | [310762-funny-face-apartment.json](./310762-funny-face-apartment.json) |
