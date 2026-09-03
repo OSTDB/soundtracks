@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leprechaun Twins | 307313 | [307313-leprechaun-twins.json](./307313-leprechaun-twins.json) |
 | Lernen Leicht Gemacht! Für Junggebliebene | 81389 | [81389-lernen-leicht-gemacht-fur-junggebliebene.json](./81389-lernen-leicht-gemacht-fur-junggebliebene.json) |
 | Les Incollables CE1-CE2 | 269834 | [269834-les-incollables-ce1-ce2.json](./269834-les-incollables-ce1-ce2.json) |
+| Les Manley in: Lost in L.A. | 72090 | [72090-les-manley-in-lost-in-l-a.json](./72090-les-manley-in-lost-in-l-a.json) |
 | Les Manley in: Search for the King | 73837 | [73837-les-manley-in-search-for-the-king.json](./73837-les-manley-in-search-for-the-king.json) |
 | Les Ripoux | 133439 | [133439-les-ripoux.json](./133439-les-ripoux.json) |
 | Lesbian Mothman Hunters | 151751 | [151751-lesbian-mothman-hunters.json](./151751-lesbian-mothman-hunters.json) |
@@ -319,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Libros de Chilam Balam | 188075 | [188075-libros-de-chilam-balam.json](./188075-libros-de-chilam-balam.json) |
 | Lichenia | 138271 | [138271-lichenia.json](./138271-lichenia.json) |
 | Liebt Mich Nicht | 126021 | [126021-liebt-mich-nicht.json](./126021-liebt-mich-nicht.json) |
+| Liero Xtreme | 72080 | [72080-liero-xtreme.json](./72080-liero-xtreme.json) |
 | Life And Death Are Predetermined by Heaven | 330555 | [330555-life-and-death-are-predetermined-by-heaven.json](./330555-life-and-death-are-predetermined-by-heaven.json) |
 | Life and Minimalism | 202962 | [202962-life-and-minimalism.json](./202962-life-and-minimalism.json) |
 | Life Goals | 102144 | [102144-life-goals.json](./102144-life-goals.json) |
@@ -648,12 +650,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lu[Idle] | 321738 | [321738-lu-idle.json](./321738-lu-idle.json) |
 | Luberman and the Legend of Animals Warriors | 208580 | [208580-luberman-and-the-legend-of-animals-warriors.json](./208580-luberman-and-the-legend-of-animals-warriors.json) |
 | Luc Bernard's Reaper | 93601 | [93601-luc-bernards-reaper.json](./93601-luc-bernards-reaper.json) |
+| Lucas's Problem | 72095 | [72095-lucass-problem.json](./72095-lucass-problem.json) |
 | Lucha Libre AAA: Héroes del Ring | 264875 | [264875-lucha-libre-aaa-heroes-del-ring.json](./264875-lucha-libre-aaa-heroes-del-ring.json) |
 | Luci RPG | 228678 | [228678-luci-rpg.json](./228678-luci-rpg.json) |
 | Lucid Adventure Idle RPG | 143079 | [143079-lucid-adventure-idle-rpg.json](./143079-lucid-adventure-idle-rpg.json) |
 | Lucid Dream | 202933 | [202933-lucid-dream.json](./202933-lucid-dream.json) |
 | Lucid9: Inciting Incident | 80553 | [80553-lucid9-inciting-incident.json](./80553-lucid9-inciting-incident.json) |
 | Luciel Angel Mission | 314060 | [314060-luciel-angel-mission.json](./314060-luciel-angel-mission.json) |
+| Lucifer's Kingdom | 72097 | [72097-lucifers-kingdom.json](./72097-lucifers-kingdom.json) |
 | LuckLand | 260423 | [260423-luckland.json](./260423-luckland.json) |
 | Lucky day | 166750 | [166750-lucky-day.json](./166750-lucky-day.json) |
 | Lucky Dog 1 | 147444 | [147444-lucky-dog-1.json](./147444-lucky-dog-1.json) |
