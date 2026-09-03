@@ -104,6 +104,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamebook Adventures 8: Curse of the Assassin | 174344 | [174344-gamebook-adventures-8-curse-of-the-assassin.json](./174344-gamebook-adventures-8-curse-of-the-assassin.json) |
 | Gamebox | 291782 | [291782-gamebox.json](./291782-gamebox.json) |
 | GameBoy Wordle | 195209 | [195209-gameboy-wordle.json](./195209-gameboy-wordle.json) |
+| GameCenter CX: 3-Choume no Arino | 79922 | [79922-gamecenter-cx-3-choume-no-arino.json](./79922-gamecenter-cx-3-choume-no-arino.json) |
+| GameCenter CX: Arino no Chousenjou 2 | 79923 | [79923-gamecenter-cx-arino-no-chousenjou-2.json](./79923-gamecenter-cx-arino-no-chousenjou-2.json) |
 | Gamedec: Definitive Edition | 219788 | [219788-gamedec-definitive-edition.json](./219788-gamedec-definitive-edition.json) |
 | Gamedev Beatdown | 127986 | [127986-gamedev-beatdown.json](./127986-gamedev-beatdown.json) |
 | Gamedev simulator | 130958 | [130958-gamedev-simulator.json](./130958-gamedev-simulator.json) |
@@ -174,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gems of Magic: Lost Family | 116367 | [116367-gems-of-magic-lost-family.json](./116367-gems-of-magic-lost-family.json) |
 | Gems Rush | 319964 | [319964-gems-rush.json](./319964-gems-rush.json) |
 | Gemsa | 243966 | [243966-gemsa.json](./243966-gemsa.json) |
+| Gemstone IV | 79899 | [79899-gemstone-iv.json](./79899-gemstone-iv.json) |
 | Gemstones | 231616 | [231616-gemstones.json](./231616-gemstones.json) |
 | Gemsweeper | 135284 | [135284-gemsweeper.json](./135284-gemsweeper.json) |
 | Gemwielders | 325245 | [325245-gemwielders.json](./325245-gemwielders.json) |
@@ -218,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensou Ningyou Embu Gaiden: Yuki-chan no Shugyou | 312327 | [312327-gensou-ningyou-embu-gaiden-yuki-chan-no-shugyou.json](./312327-gensou-ningyou-embu-gaiden-yuki-chan-no-shugyou.json) |
 | Gensou no Idea: Oratorio Phantasm Historia | 137081 | [137081-gensou-no-idea-oratorio-phantasm-historia.json](./137081-gensou-no-idea-oratorio-phantasm-historia.json) |
 | Geo Mythica | 264315 | [264315-geo-mythica.json](./264315-geo-mythica.json) |
+| Geo-Political Simulator | 79943 | [79943-geo-political-simulator.json](./79943-geo-political-simulator.json) |
 | Geocells Tricells | 107869 | [107869-geocells-tricells.json](./107869-geocells-tricells.json) |
 | GeoExpert - USA Geography | 98998 | [98998-geoexpert-usa-geography.json](./98998-geoexpert-usa-geography.json) |
 | Geography Champion | 105933 | [105933-geography-champion.json](./105933-geography-champion.json) |
