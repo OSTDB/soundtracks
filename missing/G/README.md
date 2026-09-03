@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Runner | 130961 | [130961-groove-runner.json](./130961-groove-runner.json) |
 | Grooverland | 230547 | [230547-grooverland.json](./230547-grooverland.json) |
 | Grordbattle | 116386 | [116386-grordbattle.json](./116386-grordbattle.json) |
+| Ground Attack | 84255 | [84255-ground-attack.json](./84255-ground-attack.json) |
 | Ground Under | 112994 | [112994-ground-under.json](./112994-ground-under.json) |
 | Grove: Nostalgia's End | 192952 | [192952-grove-nostalgias-end.json](./192952-grove-nostalgias-end.json) |
 | Grow Big (or Go Home) | 141221 | [141221-grow-big-or-go-home.json](./141221-grow-big-or-go-home.json) |
@@ -745,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunDress | 213042 | [213042-gundress.json](./213042-gundress.json) |
 | Gunfighter | 95448 | [95448-gunfighter.json](./95448-gunfighter.json) |
 | Gungrave VR: Loaded Coffin Edition | 166230 | [166230-gungrave-vr-loaded-coffin-edition.json](./166230-gungrave-vr-loaded-coffin-edition.json) |
+| Gunless | 84262 | [84262-gunless.json](./84262-gunless.json) |
 | Gunma's Ambition: You and me are Gunma | 146925 | [146925-gunmas-ambition-you-and-me-are-gunma.json](./146925-gunmas-ambition-you-and-me-are-gunma.json) |
 | GunMaster | 266491 | [266491-gunmaster.json](./266491-gunmaster.json) |
 | Gunner 3 | 259821 | [259821-gunner-3.json](./259821-gunner-3.json) |
@@ -770,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunWorld VR | 159853 | [159853-gunworld-vr.json](./159853-gunworld-vr.json) |
 | Guójì Xiàngqí: Dānshuāngrén Duìzhàn Qípái Xiǎoyóuxì | 109011 | [109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json](./109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json) |
 | Gura's Adventure | 184097 | [184097-guras-adventure.json](./184097-guras-adventure.json) |
+| Guru Logic | 84233 | [84233-guru-logic.json](./84233-guru-logic.json) |
 | Guru Meditation | 178091 | [178091-guru-meditation.json](./178091-guru-meditation.json) |
 | Guts and Syringes | 94766 | [94766-guts-and-syringes.json](./94766-guts-and-syringes.json) |
 | Gutter: The Reject | 257691 | [257691-gutter-the-reject.json](./257691-gutter-the-reject.json) |
