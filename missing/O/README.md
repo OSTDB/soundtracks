@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Steel | 151732 | [151732-operation-steel.json](./151732-operation-steel.json) |
 | Operation: Hostage Rescue | 337987 | [337987-operation-hostage-rescue.json](./337987-operation-hostage-rescue.json) |
 | Operation: Ops | 184651 | [184651-operation-ops.json](./184651-operation-ops.json) |
+| Operation: Thunder | 91403 | [91403-operation-thunder.json](./91403-operation-thunder.json) |
 | Operator Ace's Simple Infinite Survival | 278734 | [278734-operator-aces-simple-infinite-survival.json](./278734-operator-aces-simple-infinite-survival.json) |
 | Operencia: The Stolen Sun - Explorer's Edition | 154541 | [154541-operencia-the-stolen-sun-explorers-edition.json](./154541-operencia-the-stolen-sun-explorers-edition.json) |
 | Opia | 322946 | [322946-opia.json](./322946-opia.json) |
@@ -372,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OSR Unhinged | 91946 | [91946-osr-unhinged.json](./91946-osr-unhinged.json) |
 | Osseous and Swordy | 263220 | [263220-osseous-and-swordy.json](./263220-osseous-and-swordy.json) |
 | Ostalgie: The Berlin Wall - Legacy of Hoxha | 172165 | [172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json](./172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json) |
+| Ostekrigen på Mælkevejen | 91455 | [91455-ostekrigen-pa-m-lkevejen.json](./91455-ostekrigen-pa-m-lkevejen.json) |
 | Otaku's Rage: Waifu Strikes Back | 144368 | [144368-otakus-rage-waifu-strikes-back.json](./144368-otakus-rage-waifu-strikes-back.json) |
 | Othello de Othello DS | 131567 | [131567-othello-de-othello-ds.json](./131567-othello-de-othello-ds.json) |
 | Other Minds | 183051 | [183051-other-minds.json](./183051-other-minds.json) |
