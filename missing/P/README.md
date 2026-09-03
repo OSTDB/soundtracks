@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint By Numbers: 8-Bit World Ep. 9 | 305509 | [305509-paint-by-numbers-8-bit-world-ep-9.json](./305509-paint-by-numbers-8-bit-world-ep-9.json) |
 | Paint Chase | 317578 | [317578-paint-chase.json](./317578-paint-chase.json) |
 | Paint Hit | 102784 | [102784-paint-hit.json](./102784-paint-hit.json) |
+| Paint My Cat - Color and Play | 96045 | [96045-paint-my-cat-color-and-play.json](./96045-paint-my-cat-color-and-play.json) |
 | Paint Rider | 179187 | [179187-paint-rider.json](./179187-paint-rider.json) |
 | Paint to Pixel | 192959 | [192959-paint-to-pixel.json](./192959-paint-to-pixel.json) |
 | Paintball 3: Candy Match Factory | 270960 | [270960-paintball-3-candy-match-factory.json](./270960-paintball-3-candy-match-factory.json) |
@@ -1126,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PumPum: +5 Girls Pack | 204065 | [204065-pumpum-5-girls-pack.json](./204065-pumpum-5-girls-pack.json) |
 | Punch Chess | 332237 | [332237-punch-chess.json](./332237-punch-chess.json) |
 | Punch the Rats | 104102 | [104102-punch-the-rats.json](./104102-punch-the-rats.json) |
+| Punchhead | 96074 | [96074-punchhead.json](./96074-punchhead.json) |
 | Punchmasters | 196341 | [196341-punchmasters.json](./196341-punchmasters.json) |
 | Punishment Darkness Online: Centre Ville | 171080 | [171080-punishment-darkness-online-centre-ville.json](./171080-punishment-darkness-online-centre-ville.json) |
 | Punishment Darkness Online: Grand Moun | 171079 | [171079-punishment-darkness-online-grand-moun.json](./171079-punishment-darkness-online-grand-moun.json) |
@@ -1154,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Push Penguin | 209600 | [209600-push-push-penguin.json](./209600-push-push-penguin.json) |
 | Push Puzzle: Rescue Adventure | 179205 | [179205-push-puzzle-rescue-adventure.json](./179205-push-puzzle-rescue-adventure.json) |
 | Push Stack | 146348 | [146348-push-stack.json](./146348-push-stack.json) |
+| Push the Circles Extreme | 96036 | [96036-push-the-circles-extreme.json](./96036-push-the-circles-extreme.json) |
 | Push the Crate | 147991 | [147991-push-the-crate.json](./147991-push-the-crate.json) |
 | Push the Sheep | 193463 | [193463-push-the-sheep.json](./193463-push-the-sheep.json) |
 | Push The Squares | 262076 | [262076-push-the-squares.json](./262076-push-the-squares.json) |
