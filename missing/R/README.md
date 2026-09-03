@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rio Warzone | 150699 | [150699-rio-warzone.json](./150699-rio-warzone.json) |
 | Rio: Raised In Oblivion | 152407 | [152407-rio-raised-in-oblivion.json](./152407-rio-raised-in-oblivion.json) |
 | Rip Van Bubsy | 269835 | [269835-rip-van-bubsy.json](./269835-rip-van-bubsy.json) |
+| Ripcord | 95419 | [95419-ripcord.json](./95419-ripcord.json) |
 | Ripple | 198510 | [198510-ripple.json](./198510-ripple.json) |
 | Ripples | 239315 | [239315-ripples.json](./239315-ripples.json) |
 | Riptide | 291236 | [291236-riptide.json](./291236-riptide.json) |
