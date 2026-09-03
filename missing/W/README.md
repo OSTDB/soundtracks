@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warpaws | 219259 | [219259-warpaws.json](./219259-warpaws.json) |
 | WarPlan | 125460 | [125460-warplan.json](./125460-warplan.json) |
 | WarPods | 107865 | [107865-warpods.json](./107865-warpods.json) |
+| Warring Worms: The Worm (re)Turns | 73285 | [73285-warring-worms-the-worm-re-turns.json](./73285-warring-worms-the-worm-re-turns.json) |
 | Warrior | 215906 | [215906-warrior.json](./215906-warrior.json) |
 | Warrior Clicker | 227492 | [227492-warrior-clicker.json](./227492-warrior-clicker.json) |
 | Warrior Heart | 200204 | [200204-warrior-heart.json](./200204-warrior-heart.json) |
@@ -261,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When the Lying Petals Scatter Into the Wind | 155104 | [155104-when-the-lying-petals-scatter-into-the-wind.json](./155104-when-the-lying-petals-scatter-into-the-wind.json) |
 | When the Shutter Stops | 109713 | [109713-when-the-shutter-stops.json](./109713-when-the-shutter-stops.json) |
 | Where Birds Sleep | 136451 | [136451-where-birds-sleep.json](./136451-where-birds-sleep.json) |
+| Where in Space is Carmen Sandiego?: Deluxe Edition | 73309 | [73309-where-in-space-is-carmen-sandiego-deluxe-edition.json](./73309-where-in-space-is-carmen-sandiego-deluxe-edition.json) |
 | Where is a Toilet!? | 228682 | [228682-where-is-a-toilet.json](./228682-where-is-a-toilet.json) |
 | Where is Mr. Cloud | 251809 | [251809-where-is-mr-cloud.json](./251809-where-is-mr-cloud.json) |
 | Where is Mrs Peregrine? | 318772 | [318772-where-is-mrs-peregrine.json](./318772-where-is-mrs-peregrine.json) |
