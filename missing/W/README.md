@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Touch | 174333 | [174333-world-war-touch.json](./174333-world-war-touch.json) |
 | World War: D-Day Part Two | 278663 | [278663-world-war-d-day-part-two.json](./278663-world-war-d-day-part-two.json) |
 | World-Wide Adventure! Collection 2 | 222507 | [222507-world-wide-adventure-collection-2.json](./222507-world-wide-adventure-collection-2.json) |
+| World's Best Chess: Fritz 8 Deluxe | 93043 | [93043-worlds-best-chess-fritz-8-deluxe.json](./93043-worlds-best-chess-fritz-8-deluxe.json) |
 | World's Greatest Cities Mosaics 10 | 294471 | [294471-worlds-greatest-cities-mosaics-10.json](./294471-worlds-greatest-cities-mosaics-10.json) |
 | World's Largest Pac-Man | 175992 | [175992-worlds-largest-pac-man.json](./175992-worlds-largest-pac-man.json) |
 | WorldNeverland: Black Modern Wedding Outfit Set | 301018 | [301018-worldneverland-black-modern-wedding-outfit-set.json](./301018-worldneverland-black-modern-wedding-outfit-set.json) |
