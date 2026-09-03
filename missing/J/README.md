@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpBeard | 199642 | [199642-jumpbeard.json](./199642-jumpbeard.json) |
 | Jumper Three | 79910 | [79910-jumper-three.json](./79910-jumper-three.json) |
 | Jumpers League | 329960 | [329960-jumpers-league.json](./329960-jumpers-league.json) |
+| Jumphobia | 55946 | [55946-jumphobia.json](./55946-jumphobia.json) |
 | Jumping Henry | 340779 | [340779-jumping-henry.json](./340779-jumping-henry.json) |
 | Jumping Jack | 340780 | [340780-jumping-jack.json](./340780-jumping-jack.json) |
 | Jumping Over It With Kang KiYun | 120382 | [120382-jumping-over-it-with-kang-kiyun.json](./120382-jumping-over-it-with-kang-kiyun.json) |
