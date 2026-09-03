@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accele Brid | 38353 | [38353-accele-brid.json](./38353-accele-brid.json) |
 | Acceleration of Suguri X-Edition | 44596 | [44596-acceleration-of-suguri-x-edition.json](./44596-acceleration-of-suguri-x-edition.json) |
 | Acceptance | 210902 | [210902-acceptance.json](./210902-acceptance.json) |
+| Accolade's Comics featuring Steve Keene Thrillseeker | 37156 | [37156-accolades-comics-featuring-steve-keene-thrillseeker.json](./37156-accolades-comics-featuring-steve-keene-thrillseeker.json) |
 | Accurate Adjacent Ballistics Simulator | 247783 | [247783-accurate-adjacent-ballistics-simulator.json](./247783-accurate-adjacent-ballistics-simulator.json) |
 | Accuwar | 76632 | [76632-accuwar.json](./76632-accuwar.json) |
 | Ace | 301591 | [301591-ace.json](./301591-ace.json) |
@@ -946,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anpanman to Asobo: ABC Kyoushitsu | 67283 | [67283-anpanman-to-asobo-abc-kyoushitsu.json](./67283-anpanman-to-asobo-abc-kyoushitsu.json) |
 | Anpanman to Asobo: AIUEO Kyoushitsu DX | 67285 | [67285-anpanman-to-asobo-aiueo-kyoushitsu-dx.json](./67285-anpanman-to-asobo-aiueo-kyoushitsu-dx.json) |
 | Anpanman to Asobu: AIUEO Kyoushitsu | 67284 | [67284-anpanman-to-asobu-aiueo-kyoushitsu.json](./67284-anpanman-to-asobu-aiueo-kyoushitsu.json) |
+| Anstoss | 37126 | [37126-anstoss.json](./37126-anstoss.json) |
 | Anstoss 2: Gold Edition | 155090 | [155090-anstoss-2-gold-edition.json](./155090-anstoss-2-gold-edition.json) |
 | Anstoß Action | 98963 | [98963-ansto-action.json](./98963-ansto-action.json) |
 | Answer Campus | 260408 | [260408-answer-campus.json](./260408-answer-campus.json) |
@@ -1363,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Dash | 156655 | [156655-astro-dash.json](./156655-astro-dash.json) |
 | Astro Invader | 39656 | [39656-astro-invader.json](./39656-astro-invader.json) |
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
+| Astro Warrior | 37176 | [37176-astro-warrior.json](./37176-astro-warrior.json) |
 | Astro Warrior/Pit Pot | 93584 | [93584-astro-warrior-pit-pot.json](./93584-astro-warrior-pit-pot.json) |
 | Astro Wars | 47284 | [47284-astro-wars.json](./47284-astro-wars.json) |
 | Astro: The Beginning | 118431 | [118431-astro-the-beginning.json](./118431-astro-the-beginning.json) |
@@ -1477,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autobahn Raser III | 210277 | [210277-autobahn-raser-iii.json](./210277-autobahn-raser-iii.json) |
 | Autobahn Raser IV | 210278 | [210278-autobahn-raser-iv.json](./210278-autobahn-raser-iv.json) |
 | Autobahn Raser: Das Spiel zum Film | 144385 | [144385-autobahn-raser-das-spiel-zum-film.json](./144385-autobahn-raser-das-spiel-zum-film.json) |
+| Autobahn Tokio | 37206 | [37206-autobahn-tokio.json](./37206-autobahn-tokio.json) |
 | Autocracy | 84243 | [84243-autocracy.json](./84243-autocracy.json) |
 | Autocrusher: Bumper Cars | 213608 | [213608-autocrusher-bumper-cars.json](./213608-autocrusher-bumper-cars.json) |
 | AutoDemo Levels in SADX | 198544 | [198544-autodemo-levels-in-sadx.json](./198544-autodemo-levels-in-sadx.json) |
