@@ -221,6 +221,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haxware Comgam | 219816 | [219816-haxware-comgam.json](./219816-haxware-comgam.json) |
 | Hayai | 200715 | [200715-hayai.json](./200715-hayai.json) |
 | Hayarigami 1, 2, 3 Pack | 247192 | [247192-hayarigami-1-2-3-pack.json](./247192-hayarigami-1-2-3-pack.json) |
+| Hayarigami 2: Keishichou Kaii Jiken File | 79330 | [79330-hayarigami-2-keishichou-kaii-jiken-file.json](./79330-hayarigami-2-keishichou-kaii-jiken-file.json) |
+| Hayarigami Portable: Keishichou Kaii Jiken File | 79329 | [79329-hayarigami-portable-keishichou-kaii-jiken-file.json](./79329-hayarigami-portable-keishichou-kaii-jiken-file.json) |
 | Haydee 2 | 141257 | [141257-haydee-2.json](./141257-haydee-2.json) |
 | Haywire | 180825 | [180825-haywire.json](./180825-haywire.json) |
 | Hazard Level | 177007 | [177007-hazard-level.json](./177007-hazard-level.json) |
@@ -581,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit | 208059 | [208059-hit.json](./208059-hit.json) |
 | Hit Him | 195254 | [195254-hit-him.json](./195254-hit-him.json) |
 | Hit the Ice | 295042 | [295042-hit-the-ice.json](./295042-hit-the-ice.json) |
+| HIT: Heroes of Incredible Tales | 79317 | [79317-hit-heroes-of-incredible-tales.json](./79317-hit-heroes-of-incredible-tales.json) |
 | Hitler My Friend | 277006 | [277006-hitler-my-friend.json](./277006-hitler-my-friend.json) |
 | Hitman 2 Christmas Game | 336886 | [336886-hitman-2-christmas-game.json](./336886-hitman-2-christmas-game.json) |
 | Hitman 3: Trinity Pack | 224225 | [224225-hitman-3-trinity-pack.json](./224225-hitman-3-trinity-pack.json) |
@@ -755,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Flipper: Farm | 200725 | [200725-house-flipper-farm.json](./200725-house-flipper-farm.json) |
 | House in the village by the river v2.0 | 173813 | [173813-house-in-the-village-by-the-river-v2-0.json](./173813-house-in-the-village-by-the-river-v2-0.json) |
 | House Maid Asuka | 97368 | [97368-house-maid-asuka.json](./97368-house-maid-asuka.json) |
+| House of 1000 Doors: Family Secrets | 79322 | [79322-house-of-1000-doors-family-secrets.json](./79322-house-of-1000-doors-family-secrets.json) |
 | House of 1000 Doors: Serpent Flame | 119031 | [119031-house-of-1000-doors-serpent-flame.json](./119031-house-of-1000-doors-serpent-flame.json) |
 | House of Cathalon | 142442 | [142442-house-of-cathalon.json](./142442-house-of-cathalon.json) |
 | House of Fear: Cursed Souls | 228686 | [228686-house-of-fear-cursed-souls.json](./228686-house-of-fear-cursed-souls.json) |
