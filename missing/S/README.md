@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapper: Defuse the Bomb Simulator | 118439 | [118439-sapper-defuse-the-bomb-simulator.json](./118439-sapper-defuse-the-bomb-simulator.json) |
 | Sarah's Adventure: Time Travel | 304862 | [304862-sarahs-adventure-time-travel.json](./304862-sarahs-adventure-time-travel.json) |
 | Sargasso | 261544 | [261544-sargasso.json](./261544-sargasso.json) |
+| SAS: Anti-Terror Force | 43294 | [43294-sas-anti-terror-force.json](./43294-sas-anti-terror-force.json) |
 | Satan's Pepper | 274183 | [274183-satans-pepper.json](./274183-satans-pepper.json) |
 | Satan's Zombies | 233230 | [233230-satans-zombies.json](./233230-satans-zombies.json) |
 | Satanislas | 250027 | [250027-satanislas.json](./250027-satanislas.json) |
@@ -344,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sealed Bite: Extended | 291228 | [291228-sealed-bite-extended.json](./291228-sealed-bite-extended.json) |
 | SeaQuest DSV | 138802 | [138802-seaquest-dsv.json](./138802-seaquest-dsv.json) |
 | Search | 233771 | [233771-search.json](./233771-search.json) |
+| Search & Destroy | 43347 | [43347-search-and-destroy.json](./43347-search-and-destroy.json) |
 | Search for the Secret Keys | 69885 | [69885-search-for-the-secret-keys.json](./69885-search-for-the-secret-keys.json) |
 | Search for the Titanic | 69849 | [69849-search-for-the-titanic.json](./69849-search-for-the-titanic.json) |
 | Seashell Thief | 302111 | [302111-seashell-thief.json](./302111-seashell-thief.json) |
@@ -542,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Atlantis | 298294 | [298294-shadow-of-atlantis.json](./298294-shadow-of-atlantis.json) |
 | Shadow of Chaos | 324701 | [324701-shadow-of-chaos.json](./324701-shadow-of-chaos.json) |
 | Shadow of Death: Dark Knight | 100823 | [100823-shadow-of-death-dark-knight.json](./100823-shadow-of-death-dark-knight.json) |
+| Shadow of Ganymede | 43337 | [43337-shadow-of-ganymede.json](./43337-shadow-of-ganymede.json) |
 | Shadow of the Tomb Raider: The Path Home | 117711 | [117711-shadow-of-the-tomb-raider-the-path-home.json](./117711-shadow-of-the-tomb-raider-the-path-home.json) |
 | Shadow Over Normoth | 183057 | [183057-shadow-over-normoth.json](./183057-shadow-over-normoth.json) |
 | Shadow Quest | 188095 | [188095-shadow-quest.json](./188095-shadow-quest.json) |
@@ -851,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series 2-in-1 Vol. 4: The Bushido & The Sniper 2 | 57131 | [57131-simple-2000-series-2-in-1-vol-4-the-bushido-and-the-sniper-2.json](./57131-simple-2000-series-2-in-1-vol-4-the-bushido-and-the-sniper-2.json) |
 | Simple 2000 Series Portable Vol. 1: The Mahjong | 82135 | [82135-simple-2000-series-portable-vol-1-the-mahjong.json](./82135-simple-2000-series-portable-vol-1-the-mahjong.json) |
 | Simple 2000 Series Vol. 19: The Renai Simulation - Watashi ni Oma Cafe | 70431 | [70431-simple-2000-series-vol-19-the-renai-simulation-watashi-ni-oma-cafe.json](./70431-simple-2000-series-vol-19-the-renai-simulation-watashi-ni-oma-cafe.json) |
+| Simple 2000 Series Vol. 88: The Mini Suke Porisu | 43325 | [43325-simple-2000-series-vol-88-the-mini-suke-porisu.json](./43325-simple-2000-series-vol-88-the-mini-suke-porisu.json) |
 | Simple 500 Series Vol. 2: The Misshitsu kara no Dasshutsu | 79351 | [79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json](./79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json) |
 | Simple Characters 2000 Series Vol. 11: Detective Conan - The Board Game | 78706 | [78706-simple-characters-2000-series-vol-11-detective-conan-the-board-game.json](./78706-simple-characters-2000-series-vol-11-detective-conan-the-board-game.json) |
 | Simple DS Series Vol. 1: The Mahjong | 82134 | [82134-simple-ds-series-vol-1-the-mahjong.json](./82134-simple-ds-series-vol-1-the-mahjong.json) |
@@ -1194,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Ash Land | 112347 | [112347-snow-ash-land.json](./112347-snow-ash-land.json) |
 | Snow Kids | 135888 | [135888-snow-kids.json](./135888-snow-kids.json) |
 | Snow Madness | 224201 | [224201-snow-madness.json](./224201-snow-madness.json) |
+| Snow Rider | 43336 | [43336-snow-rider.json](./43336-snow-rider.json) |
 | Snow Storm | 318774 | [318774-snow-storm.json](./318774-snow-storm.json) |
 | Snow Town - Ice Village World | 108477 | [108477-snow-town-ice-village-world.json](./108477-snow-town-ice-village-world.json) |
 | Snow White and the Seven Dwarfs | 77396 | [77396-snow-white-and-the-seven-dwarfs.json](./77396-snow-white-and-the-seven-dwarfs.json) |
@@ -1223,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Below | 269844 | [269844-so-below.json](./269844-so-below.json) |
 | So Fart Away: Jam Edition | 255391 | [255391-so-fart-away-jam-edition.json](./255391-so-fart-away-jam-edition.json) |
 | So Many Words | 308548 | [308548-so-many-words.json](./308548-so-many-words.json) |
+| Soccer America International Cup | 43307 | [43307-soccer-america-international-cup.json](./43307-soccer-america-international-cup.json) |
 | Soccer Boss | 190209 | [190209-soccer-boss.json](./190209-soccer-boss.json) |
 | Soccer But Different | 209666 | [209666-soccer-but-different.json](./209666-soccer-but-different.json) |
 | Soccer Championship | 108468 | [108468-soccer-championship.json](./108468-soccer-championship.json) |
@@ -1403,9 +1409,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Fighters Blitz | 321766 | [321766-sonic-the-fighters-blitz.json](./321766-sonic-the-fighters-blitz.json) |
 | Sonic the Hedgehog | 264886 | [264886-sonic-the-hedgehog.json](./264886-sonic-the-hedgehog.json) |
 | Sonic The Hedgehog 2: Archives | 332835 | [332835-sonic-the-hedgehog-2-archives.json](./332835-sonic-the-hedgehog-2-archives.json) |
+| Sonic the Hedgehog 2: Pink Edition | 43319 | [43319-sonic-the-hedgehog-2-pink-edition.json](./43319-sonic-the-hedgehog-2-pink-edition.json) |
 | Sonic the Hedgehog Extreme Boarding | 198563 | [198563-sonic-the-hedgehog-extreme-boarding.json](./198563-sonic-the-hedgehog-extreme-boarding.json) |
 | Sonic the Hedgehog Golf | 197369 | [197369-sonic-the-hedgehog-golf.json](./197369-sonic-the-hedgehog-golf.json) |
 | Sonic the Hedgehog Interactive Watch | 238200 | [238200-sonic-the-hedgehog-interactive-watch.json](./238200-sonic-the-hedgehog-interactive-watch.json) |
+| Sonic the Hedgehog Megamix | 43320 | [43320-sonic-the-hedgehog-megamix.json](./43320-sonic-the-hedgehog-megamix.json) |
 | Sonic the Hedgehog Revitalized | 326955 | [326955-sonic-the-hedgehog-revitalized.json](./326955-sonic-the-hedgehog-revitalized.json) |
 | Sonic the Hedgehog RPG: Entropy | 317585 | [317585-sonic-the-hedgehog-rpg-entropy.json](./317585-sonic-the-hedgehog-rpg-entropy.json) |
 | Sonic the Hedgehog RPG: In The Belly of The Beast | 317586 | [317586-sonic-the-hedgehog-rpg-in-the-belly-of-the-beast.json](./317586-sonic-the-hedgehog-rpg-in-the-belly-of-the-beast.json) |
@@ -1690,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spikey Walls | 59445 | [59445-spikey-walls.json](./59445-spikey-walls.json) |
 | Spin City | 189199 | [189199-spin-city.json](./189199-spin-city.json) |
 | Spin or Die | 311247 | [311247-spin-or-die.json](./311247-spin-or-die.json) |
+| SpinDrive Ping Pong | 43354 | [43354-spindrive-ping-pong.json](./43354-spindrive-ping-pong.json) |
 | Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
 | SpinZap | 133469 | [133469-spinzap.json](./133469-spinzap.json) |
 | Spinzer.io | 55164 | [55164-spinzer-io.json](./55164-spinzer-io.json) |
@@ -1722,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Drive | 189197 | [189197-split-drive.json](./189197-split-drive.json) |
 | Split Personalities | 73323 | [73323-split-personalities.json](./73323-split-personalities.json) |
 | SpongeBob SquarePants: Flip or Flop | 273123 | [273123-spongebob-squarepants-flip-or-flop.json](./273123-spongebob-squarepants-flip-or-flop.json) |
+| SpongeBob's Atlantis Squarepantis | 43312 | [43312-spongebobs-atlantis-squarepantis.json](./43312-spongebobs-atlantis-squarepantis.json) |
 | Spook Tower | 179735 | [179735-spook-tower.json](./179735-spook-tower.json) |
 | Spooked | 45325 | [45325-spooked.json](./45325-spooked.json) |
 | Spookity Hollow | 170549 | [170549-spookity-hollow.json](./170549-spookity-hollow.json) |
@@ -1767,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring of Decadence | 103478 | [103478-spring-of-decadence.json](./103478-spring-of-decadence.json) |
 | Spring: 1944 | 142500 | [142500-spring-1944.json](./142500-spring-1944.json) |
 | Springer | 98967 | [98967-springer.json](./98967-springer.json) |
+| Sprint Car Challenge | 43333 | [43333-sprint-car-challenge.json](./43333-sprint-car-challenge.json) |
 | Sprite Fantasia | 174861 | [174861-sprite-fantasia.json](./174861-sprite-fantasia.json) |
 | Sprites at Play | 196880 | [196880-sprites-at-play.json](./196880-sprites-at-play.json) |
 | Sproing | 329401 | [329401-sproing.json](./329401-sproing.json) |
@@ -1775,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spud Customs | 324090 | [324090-spud-customs.json](./324090-spud-customs.json) |
 | Spuds | 54421 | [54421-spuds.json](./54421-spuds.json) |
 | Spy Alarm | 148572 | [148572-spy-alarm.json](./148572-spy-alarm.json) |
+| Spy Fiction | 43327 | [43327-spy-fiction.json](./43327-spy-fiction.json) |
 | Spy Kids Challenger | 49385 | [49385-spy-kids-challenger.json](./49385-spy-kids-challenger.json) |
 | Spy Kids Learning Adventures: Mission - Man in the Moon | 73833 | [73833-spy-kids-learning-adventures-mission-man-in-the-moon.json](./73833-spy-kids-learning-adventures-mission-man-in-the-moon.json) |
 | Spy Network | 188111 | [188111-spy-network.json](./188111-spy-network.json) |
@@ -1988,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel | 329915 | [329915-steel.json](./329915-steel.json) |
 | Steel Covenant | 339665 | [339665-steel-covenant.json](./339665-steel-covenant.json) |
 | Steel Division 2: Nemesis - Battle of Rimini | 143080 | [143080-steel-division-2-nemesis-battle-of-rimini.json](./143080-steel-division-2-nemesis-battle-of-rimini.json) |
+| Steel Dragon Ex | 43341 | [43341-steel-dragon-ex.json](./43341-steel-dragon-ex.json) |
 | Steel Empire | 49383 | [49383-steel-empire.json](./49383-steel-empire.json) |
 | Steel Hunters | 301568 | [301568-steel-hunters.json](./301568-steel-hunters.json) |
 | Steel Manticore | 295016 | [295016-steel-manticore.json](./295016-steel-manticore.json) |
@@ -2187,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Su Hack | 111002 | [111002-su-hack.json](./111002-su-hack.json) |
 | Sub Chase | 245579 | [245579-sub-chase.json](./245579-sub-chase.json) |
 | Sub Duel | 97352 | [97352-sub-duel.json](./97352-sub-duel.json) |
+| Sub Rebellion | 43329 | [43329-sub-rebellion.json](./43329-sub-rebellion.json) |
 | Sub Stalker | 93053 | [93053-sub-stalker.json](./93053-sub-stalker.json) |
 | Sub Terra Draconis | 57099 | [57099-sub-terra-draconis.json](./57099-sub-terra-draconis.json) |
 | Sub0ptimal | 339653 | [339653-sub0ptimal.json](./339653-sub0ptimal.json) |
@@ -2597,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Toss the Turtle | 57104 | [57104-super-toss-the-turtle.json](./57104-super-toss-the-turtle.json) |
 | Super Toy Cars 1 & 2 Bundle | 208579 | [208579-super-toy-cars-1-and-2-bundle.json](./208579-super-toy-cars-1-and-2-bundle.json) |
 | Super Toy Cars Collection | 204083 | [204083-super-toy-cars-collection.json](./204083-super-toy-cars-collection.json) |
+| Super Trucks Racing | 43352 | [43352-super-trucks-racing.json](./43352-super-trucks-racing.json) |
 | Super Trux | 74431 | [74431-super-trux.json](./74431-super-trux.json) |
 | Super Tumanguya Climber | 339136 | [339136-super-tumanguya-climber.json](./339136-super-tumanguya-climber.json) |
 | Super Turrican | 191878 | [191878-super-turrican.json](./191878-super-turrican.json) |
@@ -2612,6 +2627,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super X Chess | 111044 | [111044-super-x-chess.json](./111044-super-x-chess.json) |
 | Super XYX | 140036 | [140036-super-xyx.json](./140036-super-xyx.json) |
 | Super ZZT | 46656 | [46656-super-zzt.json](./46656-super-zzt.json) |
+| Super-Bikes: Riding Challenge | 43310 | [43310-super-bikes-riding-challenge.json](./43310-super-bikes-riding-challenge.json) |
+| Superbike GP | 43328 | [43328-superbike-gp.json](./43328-superbike-gp.json) |
 | Superbike Racing | 54415 | [54415-superbike-racing.json](./54415-superbike-racing.json) |
 | Superboss of the Turnabout | 308537 | [308537-superboss-of-the-turnabout.json](./308537-superboss-of-the-turnabout.json) |
 | SuperBoys: The Big Fight | 58851 | [58851-superboys-the-big-fight.json](./58851-superboys-the-big-fight.json) |
@@ -2650,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface: Alone in the Mist - Collector's Edition | 89943 | [89943-surface-alone-in-the-mist-collectors-edition.json](./89943-surface-alone-in-the-mist-collectors-edition.json) |
 | Surface: Project Dawn | 102812 | [102812-surface-project-dawn.json](./102812-surface-project-dawn.json) |
 | Surfacer+ | 85529 | [85529-surfacer.json](./85529-surfacer.json) |
+| Surfing H3O | 43344 | [43344-surfing-h3o.json](./43344-surfing-h3o.json) |
 | Surge Breaker | 185693 | [185693-surge-breaker.json](./185693-surge-breaker.json) |
 | Surge Concerto DX Agent Pack Code: Gold/. | 139996 | [139996-surge-concerto-dx-agent-pack-code-gold.json](./139996-surge-concerto-dx-agent-pack-code-gold.json) |
 | Surge Concerto DX Agent Pack Code: Silver/. | 140004 | [140004-surge-concerto-dx-agent-pack-code-silver.json](./140004-surge-concerto-dx-agent-pack-code-silver.json) |
