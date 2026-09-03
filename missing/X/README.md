@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Car Stunts | 102156 | [102156-x-car-stunts.json](./102156-x-car-stunts.json) |
 | X-Force Genesis | 165652 | [165652-x-force-genesis.json](./165652-x-force-genesis.json) |
 | X-Moon | 112325 | [112325-x-moon.json](./112325-x-moon.json) |
+| X-Plane 10 | 79940 | [79940-x-plane-10.json](./79940-x-plane-10.json) |
 | X-Plane 10: Regional Edition - North America | 205810 | [205810-x-plane-10-regional-edition-north-america.json](./205810-x-plane-10-regional-edition-north-america.json) |
 | X-Plane 11: Aerosoft Seychelles XP | 168367 | [168367-x-plane-11-aerosoft-seychelles-xp.json](./168367-x-plane-11-aerosoft-seychelles-xp.json) |
 | X-Plane 8 | 94229 | [94229-x-plane-8.json](./94229-x-plane-8.json) |
