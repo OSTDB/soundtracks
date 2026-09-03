@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhōnghuá Fùjiǎ Sānguó | 161903 | [161903-zhonghua-fujia-sanguo.json](./161903-zhonghua-fujia-sanguo.json) |
 | Zim's Word Game | 216476 | [216476-zims-word-game.json](./216476-zims-word-game.json) |
 | Zion Survivors | 199091 | [199091-zion-survivors.json](./199091-zion-survivors.json) |
+| Zip Zap | 45357 | [45357-zip-zap.json](./45357-zip-zap.json) |
 | ZiParate | 218122 | [218122-ziparate.json](./218122-ziparate.json) |
 | Zipper Amusement Ride | 104668 | [104668-zipper-amusement-ride.json](./104668-zipper-amusement-ride.json) |
 | Zippy Zombi | 73813 | [73813-zippy-zombi.json](./73813-zippy-zombi.json) |
@@ -188,3 +189,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zutto Atai no Turn! | 216458 | [216458-zutto-atai-no-turn.json](./216458-zutto-atai-no-turn.json) |
 | Zwaard | 235973 | [235973-zwaard.json](./235973-zwaard.json) |
 | ZYX Story | 105343 | [105343-zyx-story.json](./105343-zyx-story.json) |
+| Zzoom | 45356 | [45356-zzoom.json](./45356-zzoom.json) |
