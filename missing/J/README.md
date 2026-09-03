@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jester / King | 166745 | [166745-jester-king.json](./166745-jester-king.json) |
 | Jesucristo: El Robot del Futuro | 302125 | [302125-jesucristo-el-robot-del-futuro.json](./302125-jesucristo-el-robot-del-futuro.json) |
 | Jet Blaster | 239905 | [239905-jet-blaster.json](./239905-jet-blaster.json) |
+| Jet Buster | 68698 | [68698-jet-buster.json](./68698-jet-buster.json) |
 | Jet Pack | 84273 | [84273-jet-pack.json](./84273-jet-pack.json) |
 | JetBall Arena | 113697 | [113697-jetball-arena.json](./113697-jetball-arena.json) |
 | Jetboy | 119775 | [119775-jetboy.json](./119775-jetboy.json) |
