@@ -240,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart & Soul | 173319 | [173319-heart-and-soul.json](./173319-heart-and-soul.json) |
 | Heart Attack | 252376 | [252376-heart-attack.json](./252376-heart-attack.json) |
 | Heart Clicker | 304868 | [304868-heart-clicker.json](./304868-heart-clicker.json) |
+| Heart de Roommate | 84234 | [84234-heart-de-roommate.json](./84234-heart-de-roommate.json) |
 | Heart Fragment | 131599 | [131599-heart-fragment.json](./131599-heart-fragment.json) |
 | Heart Fragment: Book One - Fantasy Fragments | 245032 | [245032-heart-fragment-book-one-fantasy-fragments.json](./245032-heart-fragment-book-one-fantasy-fragments.json) |
 | Heart is Muscle | 181933 | [181933-heart-is-muscle.json](./181933-heart-is-muscle.json) |
@@ -432,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heros Survival | 304898 | [304898-heros-survival.json](./304898-heros-survival.json) |
 | Heros: The Sanguine Seven | 140621 | [140621-heros-the-sanguine-seven.json](./140621-heros-the-sanguine-seven.json) |
 | HerrAnwalt: Lawyers Legacy | 224233 | [224233-herranwalt-lawyers-legacy.json](./224233-herranwalt-lawyers-legacy.json) |
+| HesGames | 84269 | [84269-hesgames.json](./84269-hesgames.json) |
 | Hesperian Wars | 229367 | [229367-hesperian-wars.json](./229367-hesperian-wars.json) |
 | Heterodox | 147484 | [147484-heterodox.json](./147484-heterodox.json) |
 | HewDraw Remix | 242804 | [242804-hewdraw-remix.json](./242804-hewdraw-remix.json) |
@@ -451,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HextriX | 105912 | [105912-hextrix.json](./105912-hextrix.json) |
 | Hexual Deflection | 308552 | [308552-hexual-deflection.json](./308552-hexual-deflection.json) |
 | Hexuma | 265422 | [265422-hexuma.json](./265422-hexuma.json) |
+| Hexuma: Das Auge des Kal | 84271 | [84271-hexuma-das-auge-des-kal.json](./84271-hexuma-das-auge-des-kal.json) |
 | Hexxagon - Board Game | 147988 | [147988-hexxagon-board-game.json](./147988-hexxagon-board-game.json) |
 | Hexxen: Hunters | 262676 | [262676-hexxen-hunters.json](./262676-hexxen-hunters.json) |
 | Hey Bobby! | 331697 | [331697-hey-bobby.json](./331697-hey-bobby.json) |
