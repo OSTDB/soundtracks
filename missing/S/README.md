@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: A Tutto Pop | 268743 | [268743-singstar-a-tutto-pop.json](./268743-singstar-a-tutto-pop.json) |
 | SingStar: Polskie Hity | 268752 | [268752-singstar-polskie-hity.json](./268752-singstar-polskie-hity.json) |
 | SingStar: Polskie Hity 2 | 268753 | [268753-singstar-polskie-hity-2.json](./268753-singstar-polskie-hity-2.json) |
+| Singstar: Portugal Hits | 91953 | [91953-singstar-portugal-hits.json](./91953-singstar-portugal-hits.json) |
 | Sinister Adventures Bundle | 199624 | [199624-sinister-adventures-bundle.json](./199624-sinister-adventures-bundle.json) |
 | Sinister Mansion | 297798 | [297798-sinister-mansion.json](./297798-sinister-mansion.json) |
 | Sinistrous | 153423 | [153423-sinistrous.json](./153423-sinistrous.json) |
@@ -1603,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbust | 181378 | [181378-starbust.json](./181378-starbust.json) |
 | Starcaller | 142496 | [142496-starcaller.json](./142496-starcaller.json) |
 | Starcatcher | 228094 | [228094-starcatcher.json](./228094-starcatcher.json) |
+| Starch | 91942 | [91942-starch.json](./91942-starch.json) |
 | Starcraft: Stellar Forces | 135274 | [135274-starcraft-stellar-forces.json](./135274-starcraft-stellar-forces.json) |
 | StarCraft: Stratospace | 135273 | [135273-starcraft-stratospace.json](./135273-starcraft-stratospace.json) |
 | Stardeus | 139453 | [139453-stardeus.json](./139453-stardeus.json) |
@@ -1666,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steambots | 296655 | [296655-steambots.json](./296655-steambots.json) |
 | SteamDolls: Order of Chaos | 124261 | [124261-steamdolls-order-of-chaos.json](./124261-steamdolls-order-of-chaos.json) |
 | SteamForge | 339666 | [339666-steamforge.json](./339666-steamforge.json) |
+| SteamGear Mash | 91943 | [91943-steamgear-mash.json](./91943-steamgear-mash.json) |
 | Steampunch | 335075 | [335075-steampunch.json](./335075-steampunch.json) |
 | Steamworld Dig 2 + Steamworld Dig | 218691 | [218691-steamworld-dig-2-steamworld-dig.json](./218691-steamworld-dig-2-steamworld-dig.json) |
 | Steamy Sextet | 127997 | [127997-steamy-sextet.json](./127997-steamy-sextet.json) |
@@ -1738,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Defence | 113032 | [113032-stone-defence.json](./113032-stone-defence.json) |
 | Stone of Destiny | 242796 | [242796-stone-of-destiny.json](./242796-stone-of-destiny.json) |
 | Stone Story | 301604 | [301604-stone-story.json](./301604-stone-story.json) |
+| Stone Wars | 91938 | [91938-stone-wars.json](./91938-stone-wars.json) |
 | StoneStory | 339662 | [339662-stonestory.json](./339662-stonestory.json) |
 | Stop and Go | 93567 | [93567-stop-and-go.json](./93567-stop-and-go.json) |
 | Stop Those Aliens! | 277567 | [277567-stop-those-aliens.json](./277567-stop-those-aliens.json) |
@@ -1890,6 +1894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugoi Girls: Sassy Heroine | 315843 | [315843-sugoi-girls-sassy-heroine.json](./315843-sugoi-girls-sassy-heroine.json) |
 | Suho Defense | 339650 | [339650-suho-defense.json](./339650-suho-defense.json) |
 | SuiCats | 272583 | [272583-suicats.json](./272583-suicats.json) |
+| Suidou Kozou | 91949 | [91949-suidou-kozou.json](./91949-suidou-kozou.json) |
 | Suika Jelly Game | 310174 | [310174-suika-jelly-game.json](./310174-suika-jelly-game.json) |
 | Suiren | 131578 | [131578-suiren.json](./131578-suiren.json) |
 | Suite PreCure: Happy Oshare Harmony | 327601 | [327601-suite-precure-happy-oshare-harmony.json](./327601-suite-precure-happy-oshare-harmony.json) |
