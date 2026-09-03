@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Parkour 2 | 253614 | [253614-neon-parkour-2.json](./253614-neon-parkour-2.json) |
 | Neon Racer | 192464 | [192464-neon-racer.json](./192464-neon-racer.json) |
 | Neon Rumble | 292829 | [292829-neon-rumble.json](./292829-neon-rumble.json) |
+| Neon Runner - Gravity Dash | 55166 | [55166-neon-runner-gravity-dash.json](./55166-neon-runner-gravity-dash.json) |
 | Neon Ships: The Type'em Up Shooter | 143707 | [143707-neon-ships-the-typeem-up-shooter.json](./143707-neon-ships-the-typeem-up-shooter.json) |
 | Neon Snap | 140597 | [140597-neon-snap.json](./140597-neon-snap.json) |
 | Neon Spaceboard | 99597 | [99597-neon-spaceboard.json](./99597-neon-spaceboard.json) |
@@ -557,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northern Tales | 114405 | [114405-northern-tales.json](./114405-northern-tales.json) |
 | Northgard: Dodsvagr, Clan of the Rat | 188083 | [188083-northgard-dodsvagr-clan-of-the-rat.json](./188083-northgard-dodsvagr-clan-of-the-rat.json) |
 | Northgard: Hræsvelg, Clan of the Eagle | 218693 | [218693-northgard-hr-svelg-clan-of-the-eagle.json](./218693-northgard-hr-svelg-clan-of-the-eagle.json) |
+| NorthStar | 55207 | [55207-northstar.json](./55207-northstar.json) |
 | NoseBound | 132821 | [132821-nosebound.json](./132821-nosebound.json) |
 | Nostalgiarian | 127375 | [127375-nostalgiarian.json](./127375-nostalgiarian.json) |
 | Nostalgic Entropy: Neo Retro | 312899 | [312899-nostalgic-entropy-neo-retro.json](./312899-nostalgic-entropy-neo-retro.json) |
