@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasight: Chlorophyll worms | 195793 | [195793-parasight-chlorophyll-worms.json](./195793-parasight-chlorophyll-worms.json) |
 | Parasite | 195754 | [195754-parasite.json](./195754-parasite.json) |
 | Parasite Black | 239305 | [239305-parasite-black.json](./239305-parasite-black.json) |
+| Parasitus: Ninja Zero | 93628 | [93628-parasitus-ninja-zero.json](./93628-parasitus-ninja-zero.json) |
 | Parasol Fall | 231632 | [231632-parasol-fall.json](./231632-parasol-fall.json) |
 | Parchis Club | 204683 | [204683-parchis-club.json](./204683-parchis-club.json) |
 | Paris Belle Epoque | 303270 | [303270-paris-belle-epoque.json](./303270-paris-belle-epoque.json) |
@@ -297,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pepo | 171047 | [171047-pepo.json](./171047-pepo.json) |
 | Peppa Pig: Laptop Infantil | 297771 | [297771-peppa-pig-laptop-infantil.json](./297771-peppa-pig-laptop-infantil.json) |
 | Peppered: An Existential Platformer | 170018 | [170018-peppered-an-existential-platformer.json](./170018-peppered-an-existential-platformer.json) |
+| Peppy | 93575 | [93575-peppy.json](./93575-peppy.json) |
 | Per Aspera: Deluxe Edition | 154545 | [154545-per-aspera-deluxe-edition.json](./154545-per-aspera-deluxe-edition.json) |
 | Perception | 271498 | [271498-perception.json](./271498-perception.json) |
 | Percipio | 339634 | [339634-percipio.json](./339634-percipio.json) |
@@ -509,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinpoint | 321116 | [321116-pinpoint.json](./321116-pinpoint.json) |
 | Pintar | 330529 | [330529-pintar.json](./330529-pintar.json) |
 | Pinto | 326968 | [326968-pinto.json](./326968-pinto.json) |
+| PinWar | 93632 | [93632-pinwar.json](./93632-pinwar.json) |
 | Piofiore: Episodio 1926 Limited Edition | 223129 | [223129-piofiore-episodio-1926-limited-edition.json](./223129-piofiore-episodio-1926-limited-edition.json) |
 | Pioneerz | 129219 | [129219-pioneerz.json](./129219-pioneerz.json) |
 | Pipe Dreams | 232141 | [232141-pipe-dreams.json](./232141-pipe-dreams.json) |
@@ -987,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Mahjong Tsuwamono GB 2 | 97868 | [97868-pro-mahjong-tsuwamono-gb-2.json](./97868-pro-mahjong-tsuwamono-gb-2.json) |
 | Pro Mahjong Tsuwamono GBA | 97866 | [97866-pro-mahjong-tsuwamono-gba.json](./97866-pro-mahjong-tsuwamono-gba.json) |
 | Pro Office Calculator | 142457 | [142457-pro-office-calculator.json](./142457-pro-office-calculator.json) |
+| Pro Pilkki 2 | 93597 | [93597-pro-pilkki-2.json](./93597-pro-pilkki-2.json) |
 | Pro Strategy Football 2024 | 263776 | [263776-pro-strategy-football-2024.json](./263776-pro-strategy-football-2024.json) |
 | Pro Table Tennis VR | 159872 | [159872-pro-table-tennis-vr.json](./159872-pro-table-tennis-vr.json) |
 | Pro Tennis WTA Tour | 242802 | [242802-pro-tennis-wta-tour.json](./242802-pro-tennis-wta-tour.json) |
@@ -1109,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychomachia | 291218 | [291218-psychomachia.json](./291218-psychomachia.json) |
 | Psychotic Adventures Origins | 138795 | [138795-psychotic-adventures-origins.json](./138795-psychotic-adventures-origins.json) |
 | Psycron | 145676 | [145676-psycron.json](./145676-psycron.json) |
+| Pteroglider | 93590 | [93590-pteroglider.json](./93590-pteroglider.json) |
 | Pub Mania | 325247 | [325247-pub-mania.json](./325247-pub-mania.json) |
 | Pub Sim | 311277 | [311277-pub-sim.json](./311277-pub-sim.json) |
 | PUBG Mobile: Season 16 | 141193 | [141193-pubg-mobile-season-16.json](./141193-pubg-mobile-season-16.json) |
@@ -1169,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push the Sheep | 193463 | [193463-push-the-sheep.json](./193463-push-the-sheep.json) |
 | Push The Squares | 262076 | [262076-push-the-squares.json](./262076-push-the-squares.json) |
 | Pussies Wrestling Dicks | 211928 | [211928-pussies-wrestling-dicks.json](./211928-pussies-wrestling-dicks.json) |
+| Puszka Pandory | 93586 | [93586-puszka-pandory.json](./93586-puszka-pandory.json) |
 | Put the Fries in the Bag | 335692 | [335692-put-the-fries-in-the-bag.json](./335692-put-the-fries-in-the-bag.json) |
 | Put Your Stamp On | 226434 | [226434-put-your-stamp-on.json](./226434-put-your-stamp-on.json) |
 | Putt Putt Golf 3D | 175419 | [175419-putt-putt-golf-3d.json](./175419-putt-putt-golf-3d.json) |
