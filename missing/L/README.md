@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth | 260387 | [260387-labyrinth.json](./260387-labyrinth.json) |
 | Labyrinth 3 | 171066 | [171066-labyrinth-3.json](./171066-labyrinth-3.json) |
 | Labyrinth of the Witch DX | 217538 | [217538-labyrinth-of-the-witch-dx.json](./217538-labyrinth-of-the-witch-dx.json) |
+| Labyrinth of Touhou | 63855 | [63855-labyrinth-of-touhou.json](./63855-labyrinth-of-touhou.json) |
 | Labyrinth of Zangetsu: Adventure Academia - The Fractured Continent Collab: Additional Characters Pack | 246643 | [246643-labyrinth-of-zangetsu-adventure-academia-the-fractured-continent-collab-additional-characters-pack.json](./246643-labyrinth-of-zangetsu-adventure-academia-the-fractured-continent-collab-additional-characters-pack.json) |
 | Labyrinth of Zangetsu: Akiba's Beat Collaboration - Additional Characters Pack | 246642 | [246642-labyrinth-of-zangetsu-akibas-beat-collaboration-additional-characters-pack.json](./246642-labyrinth-of-zangetsu-akibas-beat-collaboration-additional-characters-pack.json) |
 | Labyrinth of Zangetsu: Akiba's Trip Collaboration - Additional Characters Pack | 246641 | [246641-labyrinth-of-zangetsu-akibas-trip-collaboration-additional-characters-pack.json](./246641-labyrinth-of-zangetsu-akibas-trip-collaboration-additional-characters-pack.json) |
@@ -620,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Love Island | 278148 | [278148-lost-love-island.json](./278148-lost-love-island.json) |
 | Lost Memories | 224779 | [224779-lost-memories.json](./224779-lost-memories.json) |
 | Lost Memories: Romance You Choose | 299456 | [299456-lost-memories-romance-you-choose.json](./299456-lost-memories-romance-you-choose.json) |
+| Lost Saga | 63868 | [63868-lost-saga.json](./63868-lost-saga.json) |
 | Lost Soul | 184128 | [184128-lost-soul.json](./184128-lost-soul.json) |
 | Lost Traces: Unsolved Cases - Genesis | 329387 | [329387-lost-traces-unsolved-cases-genesis.json](./329387-lost-traces-unsolved-cases-genesis.json) |
 | Lost Twins 2 | 173308 | [173308-lost-twins-2.json](./173308-lost-twins-2.json) |
