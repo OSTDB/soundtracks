@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vendir: Plague of Lies | 190212 | [190212-vendir-plague-of-lies.json](./190212-vendir-plague-of-lies.json) |
 | Vengeance of Mr. Peppermint | 250012 | [250012-vengeance-of-mr-peppermint.json](./250012-vengeance-of-mr-peppermint.json) |
 | Venomous | 338573 | [338573-venomous.json](./338573-venomous.json) |
+| Venture | 94741 | [94741-venture.json](./94741-venture.json) |
 | Venus One: Galactic Overlords | 253602 | [253602-venus-one-galactic-overlords.json](./253602-venus-one-galactic-overlords.json) |
 | Venus Puzzles | 272572 | [272572-venus-puzzles.json](./272572-venus-puzzles.json) |
 | Venus Voyager 2 | 292882 | [292882-venus-voyager-2.json](./292882-venus-voyager-2.json) |
@@ -263,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Tribes: The VR Edition | 256006 | [256006-vr-tribes-the-vr-edition.json](./256006-vr-tribes-the-vr-edition.json) |
 | VR Walking Simulator | 150688 | [150688-vr-walking-simulator.json](./150688-vr-walking-simulator.json) |
 | VR War Lab | 216488 | [216488-vr-war-lab.json](./216488-vr-war-lab.json) |
+| VR: Killing Town | 94767 | [94767-vr-killing-town.json](./94767-vr-killing-town.json) |
 | VRetired | 111702 | [111702-vretired.json](./111702-vretired.json) |
 | VRiking | 261506 | [261506-vriking.json](./261506-vriking.json) |
 | Vritra: Complete Edition | 107917 | [107917-vritra-complete-edition.json](./107917-vritra-complete-edition.json) |
