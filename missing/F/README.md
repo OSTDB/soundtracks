@@ -889,7 +889,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Ashes | 224243 | [224243-from-the-ashes.json](./224243-from-the-ashes.json) |
 | From the Deep | 224240 | [224240-from-the-deep.json](./224240-from-the-deep.json) |
 | Front Edge | 296065 | [296065-front-edge.json](./296065-front-edge.json) |
+| Front Office Card Games: Up and Down the River | 67995 | [67995-front-office-card-games-up-and-down-the-river.json](./67995-front-office-card-games-up-and-down-the-river.json) |
+| Front Office Football 2 | 68051 | [68051-front-office-football-2.json](./68051-front-office-football-2.json) |
 | Front Office Football 2001 | 73842 | [73842-front-office-football-2001.json](./73842-front-office-football-2001.json) |
+| Front Office Football 2004 | 68048 | [68048-front-office-football-2004.json](./68048-front-office-football-2004.json) |
+| Front Office Football: The College Years | 68046 | [68046-front-office-football-the-college-years.json](./68046-front-office-football-the-college-years.json) |
+| Front Office Football: The Fourth Edition | 68050 | [68050-front-office-football-the-fourth-edition.json](./68050-front-office-football-the-fourth-edition.json) |
 | Front Page Sports: Trophy Rivers | 69872 | [69872-front-page-sports-trophy-rivers.json](./69872-front-page-sports-trophy-rivers.json) |
 | Frontera | 253568 | [253568-frontera.json](./253568-frontera.json) |
 | Frontier | 162905 | [162905-frontier.json](./162905-frontier.json) |
@@ -999,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi no Gensoukyou Chronicle | 206942 | [206942-fushigi-no-gensoukyou-chronicle.json](./206942-fushigi-no-gensoukyou-chronicle.json) |
 | Fushigi no Gensoukyou Origin: Hajimari no Kamikakushi-hen | 206941 | [206941-fushigi-no-gensoukyou-origin-hajimari-no-kamikakushi-hen.json](./206941-fushigi-no-gensoukyou-origin-hajimari-no-kamikakushi-hen.json) |
 | Fushigi no Gensoukyou: Another Face | 206943 | [206943-fushigi-no-gensoukyou-another-face.json](./206943-fushigi-no-gensoukyou-another-face.json) |
+| Fushigi Yuugi DS | 68021 | [68021-fushigi-yuugi-ds.json](./68021-fushigi-yuugi-ds.json) |
 | Fusing Noracam | 267090 | [267090-fusing-noracam.json](./267090-fusing-noracam.json) |
 | Fusion | 158712 | [158712-fusion.json](./158712-fusion.json) |
 | Fusion Nexus: Alchemic Evolution | 291776 | [291776-fusion-nexus-alchemic-evolution.json](./291776-fusion-nexus-alchemic-evolution.json) |
