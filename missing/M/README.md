@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max's Big Bust 2 - Max's Bigger Bust | 140626 | [140626-maxs-big-bust-2-maxs-bigger-bust.json](./140626-maxs-big-bust-2-maxs-bigger-bust.json) |
 | Maximal Mahjongg | 94235 | [94235-maximal-mahjongg.json](./94235-maximal-mahjongg.json) |
 | Maximum Football | 304344 | [304344-maximum-football.json](./304344-maximum-football.json) |
+| Maximum Football | 66690 | [66690-maximum-football.json](./66690-maximum-football.json) |
 | Maximum Rescue | 93027 | [93027-maximum-rescue.json](./93027-maximum-rescue.json) |
 | May Angels Fall Down | 257094 | [257094-may-angels-fall-down.json](./257094-may-angels-fall-down.json) |
 | May Blues | 153990 | [153990-may-blues.json](./153990-may-blues.json) |
@@ -1026,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojito the Cat: Christmas Skins | 309642 | [309642-mojito-the-cat-christmas-skins.json](./309642-mojito-the-cat-christmas-skins.json) |
 | Mojito the Cat: Easter Edition | 246644 | [246644-mojito-the-cat-easter-edition.json](./246644-mojito-the-cat-easter-edition.json) |
 | Mojito the Cat: Halloween Skins | 309643 | [309643-mojito-the-cat-halloween-skins.json](./309643-mojito-the-cat-halloween-skins.json) |
+| Mojo Master | 66702 | [66702-mojo-master.json](./66702-mojo-master.json) |
 | Mokete | 266472 | [266472-mokete.json](./266472-mokete.json) |
 | Moki: The Escape | 238725 | [238725-moki-the-escape.json](./238725-moki-the-escape.json) |
 | Mokoko X Deluxe | 246636 | [246636-mokoko-x-deluxe.json](./246636-mokoko-x-deluxe.json) |
@@ -1133,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsty Corp | 164509 | [164509-monsty-corp.json](./164509-monsty-corp.json) |
 | Monsty Corp: The Prequels | 296059 | [296059-monsty-corp-the-prequels.json](./296059-monsty-corp-the-prequels.json) |
 | Monsty Corp: The Sequels | 296058 | [296058-monsty-corp-the-sequels.json](./296058-monsty-corp-the-sequels.json) |
+| Montjoie! | 66719 | [66719-montjoie.json](./66719-montjoie.json) |
 | Monument Builders: Big Ben | 294445 | [294445-monument-builders-big-ben.json](./294445-monument-builders-big-ben.json) |
 | Monument Builders: Cathedral Rising | 294444 | [294444-monument-builders-cathedral-rising.json](./294444-monument-builders-cathedral-rising.json) |
 | Monuments of Mars 2 | 300404 | [300404-monuments-of-mars-2.json](./300404-monuments-of-mars-2.json) |
@@ -1381,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Football League: Complete Bundle | 271469 | [271469-mutant-football-league-complete-bundle.json](./271469-mutant-football-league-complete-bundle.json) |
 | Mutant Herd | 292827 | [292827-mutant-herd.json](./292827-mutant-herd.json) |
 | Mutant Karate Canary | 214156 | [214156-mutant-karate-canary.json](./214156-mutant-karate-canary.json) |
+| Mutant Monty | 66711 | [66711-mutant-monty.json](./66711-mutant-monty.json) |
 | Mutual Assured Destruction Simulator | 326389 | [326389-mutual-assured-destruction-simulator.json](./326389-mutual-assured-destruction-simulator.json) |
 | Muumit ja Taikalamppu | 178047 | [178047-muumit-ja-taikalamppu.json](./178047-muumit-ja-taikalamppu.json) |
 | MX vs. ATV: Legends - GASGAS Pack 2023 | 274741 | [274741-mx-vs-atv-legends-gasgas-pack-2023.json](./274741-mx-vs-atv-legends-gasgas-pack-2023.json) |
