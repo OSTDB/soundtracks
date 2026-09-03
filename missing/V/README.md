@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Colony Builder Valhalla | 322979 | [322979-viking-colony-builder-valhalla.json](./322979-viking-colony-builder-valhalla.json) |
 | Viking Idle | 172167 | [172167-viking-idle.json](./172167-viking-idle.json) |
 | Viking: Sigurd's Adventure | 115000 | [115000-viking-sigurds-adventure.json](./115000-viking-sigurds-adventure.json) |
+| Vikings on Trampolines | 92493 | [92493-vikings-on-trampolines.json](./92493-vikings-on-trampolines.json) |
 | Vikings: Valhalla Saga | 228120 | [228120-vikings-valhalla-saga.json](./228120-vikings-valhalla-saga.json) |
 | Village Cricket | 175401 | [175401-village-cricket.json](./175401-village-cricket.json) |
 | Village Heros | 235992 | [235992-village-heros.json](./235992-village-heros.json) |
