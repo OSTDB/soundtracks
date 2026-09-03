@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ja-in | 274206 | [274206-ja-in.json](./274206-ja-in.json) |
 | Jacal | 223662 | [223662-jacal.json](./223662-jacal.json) |
 | Jack Flash | 93078 | [93078-jack-flash.json](./93078-jack-flash.json) |
+| Jack Horror | 63859 | [63859-jack-horror.json](./63859-jack-horror.json) |
 | Jack Mason: Ace Attorney | 303777 | [303777-jack-mason-ace-attorney.json](./303777-jack-mason-ace-attorney.json) |
 | Jack of Clubs | 319394 | [319394-jack-of-clubs.json](./319394-jack-of-clubs.json) |
 | Jack Saves Easter | 193479 | [193479-jack-saves-easter.json](./193479-jack-saves-easter.json) |
