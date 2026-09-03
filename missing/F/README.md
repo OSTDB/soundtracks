@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Man Fights | 158720 | [158720-fat-man-fights.json](./158720-fat-man-fights.json) |
 | Fat Slice 2 | 185653 | [185653-fat-slice-2.json](./185653-fat-slice-2.json) |
 | Fata morgana no Yakata: Collected Edition | 86081 | [86081-fata-morgana-no-yakata-collected-edition.json](./86081-fata-morgana-no-yakata-collected-edition.json) |
+| Fatal Abyss | 78676 | [78676-fatal-abyss.json](./78676-fatal-abyss.json) |
 | Fatal Blade | 213015 | [213015-fatal-blade.json](./213015-fatal-blade.json) |
 | Fatal Delivery | 323530 | [323530-fatal-delivery.json](./323530-fatal-delivery.json) |
 | Fatal Evidence: Cursed Island - Collector's Edition | 119038 | [119038-fatal-evidence-cursed-island-collectors-edition.json](./119038-fatal-evidence-cursed-island-collectors-edition.json) |
