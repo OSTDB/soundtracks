@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insurgency: Sandstorm - Year 1 Pass + Year 2 Pass | 293922 | [293922-insurgency-sandstorm-year-1-pass-year-2-pass.json](./293922-insurgency-sandstorm-year-1-pass-year-2-pass.json) |
 | Insurgency: Sandstorm - Year 2 Pass | 293921 | [293921-insurgency-sandstorm-year-2-pass.json](./293921-insurgency-sandstorm-year-2-pass.json) |
 | Insurrection: Cyborgs Awakening | 211945 | [211945-insurrection-cyborgs-awakening.json](./211945-insurrection-cyborgs-awakening.json) |
+| Intelligence: 314th Clash | 58809 | [58809-intelligence-314th-clash.json](./58809-intelligence-314th-clash.json) |
 | Intellivision Rocks | 73321 | [73321-intellivision-rocks.json](./73321-intellivision-rocks.json) |
 | Intense! Miyu-chan and Teacher's Rock-Paper-Scissors Battle! | 340756 | [340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json](./340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json) |
 | Interactive Storybook DS: Series 3 | 269833 | [269833-interactive-storybook-ds-series-3.json](./269833-interactive-storybook-ds-series-3.json) |
