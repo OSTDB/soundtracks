@@ -466,6 +466,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before Fate | 205248 | [205248-before-fate.json](./205248-before-fate.json) |
 | Before the Needle Lifts | 303754 | [303754-before-the-needle-lifts.json](./303754-before-the-needle-lifts.json) |
 | BeGone | 109038 | [109038-begone.json](./109038-begone.json) |
+| Behind Closed Doors (Revenge of the Ants) | 58847 | [58847-behind-closed-doors-revenge-of-the-ants.json](./58847-behind-closed-doors-revenge-of-the-ants.json) |
+| Behind Closed Doors (The Sequel) | 58852 | [58852-behind-closed-doors-the-sequel.json](./58852-behind-closed-doors-the-sequel.json) |
+| Behind Closed Doors 4: Balrog's Day Out | 58846 | [58846-behind-closed-doors-4-balrogs-day-out.json](./58846-behind-closed-doors-4-balrogs-day-out.json) |
 | Behind Enemy Line | 156167 | [156167-behind-enemy-line.json](./156167-behind-enemy-line.json) |
 | Behind the Horizon: The Desert | 195239 | [195239-behind-the-horizon-the-desert.json](./195239-behind-the-horizon-the-desert.json) |
 | Behind The Mask Bundle | 308578 | [308578-behind-the-mask-bundle.json](./308578-behind-the-mask-bundle.json) |
@@ -543,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bewitched Hearts | 179703 | [179703-bewitched-hearts.json](./179703-bewitched-hearts.json) |
 | Beyond A Steel Sky: Utopia Edition | 170029 | [170029-beyond-a-steel-sky-utopia-edition.json](./170029-beyond-a-steel-sky-utopia-edition.json) |
 | Beyond Castle Wolfenstein | 307296 | [307296-beyond-castle-wolfenstein.json](./307296-beyond-castle-wolfenstein.json) |
+| Beyond El Dorado | 58841 | [58841-beyond-el-dorado.json](./58841-beyond-el-dorado.json) |
 | Beyond Hanwell | 265409 | [265409-beyond-hanwell.json](./265409-beyond-hanwell.json) |
 | Beyond the Abyss | 86126 | [86126-beyond-the-abyss.json](./86126-beyond-the-abyss.json) |
 | Beyond the Deep | 225259 | [225259-beyond-the-deep.json](./225259-beyond-the-deep.json) |
@@ -557,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibi & Tina: Mikoschs großer Auftritt | 151206 | [151206-bibi-and-tina-mikoschs-gro-er-auftritt.json](./151206-bibi-and-tina-mikoschs-gro-er-auftritt.json) |
 | Bibi Bunny | 337459 | [337459-bibi-bunny.json](./337459-bibi-bunny.json) |
 | Bible Trivia | 278164 | [278164-bible-trivia.json](./278164-bible-trivia.json) |
+| Biblistry | 58797 | [58797-biblistry.json](./58797-biblistry.json) |
 | Big Ball Sports | 275876 | [275876-big-ball-sports.json](./275876-big-ball-sports.json) |
 | Big Bears Bad Advice: A Non-Biased Daily Fortune Teller | 126623 | [126623-big-bears-bad-advice-a-non-biased-daily-fortune-teller.json](./126623-big-bears-bad-advice-a-non-biased-daily-fortune-teller.json) |
 | Big Bible Town | 326992 | [326992-big-bible-town.json](./326992-big-bible-town.json) |
@@ -673,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Robinia | 59420 | [59420-black-robinia.json](./59420-black-robinia.json) |
 | Black Rose Valkyrie | 137079 | [137079-black-rose-valkyrie.json](./137079-black-rose-valkyrie.json) |
 | Black Swan: Collector's Edition | 196315 | [196315-black-swan-collectors-edition.json](./196315-black-swan-collectors-edition.json) |
+| Black Tower | 58824 | [58824-black-tower.json](./58824-black-tower.json) |
 | Black Widow: Looking for Love | 220874 | [220874-black-widow-looking-for-love.json](./220874-black-widow-looking-for-love.json) |
 | Black/Matrix 00 | 137090 | [137090-black-matrix-00.json](./137090-black-matrix-00.json) |
 | Black/Matrix II | 229355 | [229355-black-matrix-ii.json](./229355-black-matrix-ii.json) |
@@ -765,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Man Adventures | 295557 | [295557-block-man-adventures.json](./295557-block-man-adventures.json) |
 | Block Puzzle 1010 | 227506 | [227506-block-puzzle-1010.json](./227506-block-puzzle-1010.json) |
 | Block Slender-Man 3D: Lucky Survivor - Worldwide Multiplayer Edition | 327592 | [327592-block-slender-man-3d-lucky-survivor-worldwide-multiplayer-edition.json](./327592-block-slender-man-3d-lucky-survivor-worldwide-multiplayer-edition.json) |
+| Block Smash | 58834 | [58834-block-smash.json](./58834-block-smash.json) |
 | Block Smasher: 3D Arcade Action Reaction Brick Breaker Game | 90667 | [90667-block-smasher-3d-arcade-action-reaction-brick-breaker-game.json](./90667-block-smasher-3d-arcade-action-reaction-brick-breaker-game.json) |
 | Block Tuner | 124253 | [124253-block-tuner.json](./124253-block-tuner.json) |
 | Block x3 | 253013 | [253013-block-x3.json](./253013-block-x3.json) |
@@ -885,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boinihi: The Ki Codex | 172188 | [172188-boinihi-the-ki-codex.json](./172188-boinihi-the-ki-codex.json) |
 | Boku no Choro-Q | 59440 | [59440-boku-no-choro-q.json](./59440-boku-no-choro-q.json) |
 | Boku no Soushiki ni Youkoso: Happy Rebirthday | 335700 | [335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json](./335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json) |
+| Boku to Wanko | 58819 | [58819-boku-to-wanko.json](./58819-boku-to-wanko.json) |
 | Boku wa Koukuu Kanseikan: Airport Hero 3D Haneda with JAL | 78708 | [78708-boku-wa-koukuu-kanseikan-airport-hero-3d-haneda-with-jal.json](./78708-boku-wa-koukuu-kanseikan-airport-hero-3d-haneda-with-jal.json) |
 | Boku, Doraemon | 66134 | [66134-boku-doraemon.json](./66134-boku-doraemon.json) |
 | Bokura no Gakkou Sensou: Tsuukai Adventure | 222534 | [222534-bokura-no-gakkou-sensou-tsuukai-adventure.json](./222534-bokura-no-gakkou-sensou-tsuukai-adventure.json) |
@@ -923,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bondstones | 302696 | [302696-bondstones.json](./302696-bondstones.json) |
 | Bone Mayhem | 146877 | [146877-bone-mayhem.json](./146877-bone-mayhem.json) |
 | Bones in the Boneyard | 319339 | [319339-bones-in-the-boneyard.json](./319339-bones-in-the-boneyard.json) |
+| Bones: Lab Panic | 58811 | [58811-bones-lab-panic.json](./58811-bones-lab-panic.json) |
 | Bonesy | 143074 | [143074-bonesy.json](./143074-bonesy.json) |
 | Bonetale | 229380 | [229380-bonetale.json](./229380-bonetale.json) |
 | BoneTown | 145047 | [145047-bonetown.json](./145047-bonetown.json) |
@@ -975,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bot.vinnik Chess: Winning Patterns | 254119 | [254119-bot-vinnik-chess-winning-patterns.json](./254119-bot-vinnik-chess-winning-patterns.json) |
 | Botanical TD | 214163 | [214163-botanical-td.json](./214163-botanical-td.json) |
 | Botanicula: Collector's Edition | 186881 | [186881-botanicula-collectors-edition.json](./186881-botanicula-collectors-edition.json) |
+| Bots | 58817 | [58817-bots.json](./58817-bots.json) |
 | Bots & Belts | 139484 | [139484-bots-and-belts.json](./139484-bots-and-belts.json) |
 | Bots Rush | 112350 | [112350-bots-rush.json](./112350-bots-rush.json) |
 | Bottle Flip VR | 159895 | [159895-bottle-flip-vr.json](./159895-bottle-flip-vr.json) |
@@ -1109,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brendan Keogh's Putting Land | 329908 | [329908-brendan-keoghs-putting-land.json](./329908-brendan-keoghs-putting-land.json) |
 | Brews & Bastards | 265392 | [265392-brews-and-bastards.json](./265392-brews-and-bastards.json) |
 | Brewtopia | 319384 | [319384-brewtopia.json](./319384-brewtopia.json) |
+| Brian: The Novice Barbarian | 58825 | [58825-brian-the-novice-barbarian.json](./58825-brian-the-novice-barbarian.json) |
 | Brick Breaker | 195751 | [195751-brick-breaker.json](./195751-brick-breaker.json) |
 | Brick Breaker Premium | 104081 | [104081-brick-breaker-premium.json](./104081-brick-breaker-premium.json) |
 | Brick Breaker Unicorn | 151199 | [151199-brick-breaker-unicorn.json](./151199-brick-breaker-unicorn.json) |
@@ -1237,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulanci: Map Pack | 267669 | [267669-bulanci-map-pack.json](./267669-bulanci-map-pack.json) |
 | Bulb Boy 2: Jar of Despair | 172747 | [172747-bulb-boy-2-jar-of-despair.json](./172747-bulb-boy-2-jar-of-despair.json) |
 | Bulb! | 215384 | [215384-bulb.json](./215384-bulb.json) |
+| Bulbo and the Lizard-King | 58822 | [58822-bulbo-and-the-lizard-king.json](./58822-bulbo-and-the-lizard-king.json) |
 | Bule Form | 158224 | [158224-bule-form.json](./158224-bule-form.json) |
 | Bulldozer Bob | 146921 | [146921-bulldozer-bob.json](./146921-bulldozer-bob.json) |
 | Bulldozer Crash | 227466 | [227466-bulldozer-crash.json](./227466-bulldozer-crash.json) |
