@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvador | 241645 | [241645-salvador.json](./241645-salvador.json) |
 | Salvador Dali painting match | 103529 | [103529-salvador-dali-painting-match.json](./103529-salvador-dali-painting-match.json) |
 | Salvagers | 329398 | [329398-salvagers.json](./329398-salvagers.json) |
+| Salvation in Corruption | 75183 | [75183-salvation-in-corruption.json](./75183-salvation-in-corruption.json) |
 | Samael: The Legacy of Ophiuchus | 218718 | [218718-samael-the-legacy-of-ophiuchus.json](./218718-samael-the-legacy-of-ophiuchus.json) |
 | Samidare | 126040 | [126040-samidare.json](./126040-samidare.json) |
 | Sammi's Quest vol.1: The Wandering Ogres | 104628 | [104628-sammis-quest-vol-1-the-wandering-ogres.json](./104628-sammis-quest-vol-1-the-wandering-ogres.json) |
@@ -168,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save My Sister | 257679 | [257679-save-my-sister.json](./257679-save-my-sister.json) |
 | Save Snegurochka | 99021 | [99021-save-snegurochka.json](./99021-save-snegurochka.json) |
 | Save the Fish! | 152919 | [152919-save-the-fish.json](./152919-save-the-fish.json) |
+| Save the Halloween | 75198 | [75198-save-the-halloween.json](./75198-save-the-halloween.json) |
 | Save the Pirate: Sea Story | 166764 | [166764-save-the-pirate-sea-story.json](./166764-save-the-pirate-sea-story.json) |
 | Save the Pixels | 112306 | [112306-save-the-pixels.json](./112306-save-the-pixels.json) |
 | Save the Planet | 153425 | [153425-save-the-planet.json](./153425-save-the-planet.json) |
@@ -832,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeletris | 134701 | [134701-skeletris.json](./134701-skeletris.json) |
 | Skelets | 140620 | [140620-skelets.json](./140620-skelets.json) |
 | Skellington | 224758 | [224758-skellington.json](./224758-skellington.json) |
+| Skepixel | 75154 | [75154-skepixel.json](./75154-skepixel.json) |
 | Sker Ritual: Goon Brenn | 235466 | [235466-sker-ritual-goon-brenn.json](./235466-sker-ritual-goon-brenn.json) |
 | Sketch of a job that you had | 184090 | [184090-sketch-of-a-job-that-you-had.json](./184090-sketch-of-a-job-that-you-had.json) |
 | Skibidi Toilet Hero: Sex Mod | 312888 | [312888-skibidi-toilet-hero-sex-mod.json](./312888-skibidi-toilet-hero-sex-mod.json) |
@@ -851,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky City Blues | 132824 | [132824-sky-city-blues.json](./132824-sky-city-blues.json) |
 | Sky DarkCrow | 190195 | [190195-sky-darkcrow.json](./190195-sky-darkcrow.json) |
 | Sky Fortress: Odyssey | 277033 | [277033-sky-fortress-odyssey.json](./277033-sky-fortress-odyssey.json) |
+| Sky Hunter | 75165 | [75165-sky-hunter.json](./75165-sky-hunter.json) |
 | Sky Jaguar 2 | 138250 | [138250-sky-jaguar-2.json](./138250-sky-jaguar-2.json) |
 | Sky Journey: Cozy Mornings | 290710 | [290710-sky-journey-cozy-mornings.json](./290710-sky-journey-cozy-mornings.json) |
 | Sky Mad | 310184 | [310184-sky-mad.json](./310184-sky-mad.json) |
@@ -1323,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Land: Advent of the Gods | 194020 | [194020-soul-land-advent-of-the-gods.json](./194020-soul-land-advent-of-the-gods.json) |
 | Soul Master | 180288 | [180288-soul-master.json](./180288-soul-master.json) |
 | Soul of Heroes: Empire Wars | 247175 | [247175-soul-of-heroes-empire-wars.json](./247175-soul-of-heroes-empire-wars.json) |
+| Soul of Mask | 75179 | [75179-soul-of-mask.json](./75179-soul-of-mask.json) |
 | Soul Passage | 236542 | [236542-soul-passage.json](./236542-soul-passage.json) |
 | Soul Recursion | 172183 | [172183-soul-recursion.json](./172183-soul-recursion.json) |
 | Soul Rush | 340200 | [340200-soul-rush.json](./340200-soul-rush.json) |
@@ -1929,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StrikeNet | 339655 | [339655-strikenet.json](./339655-strikenet.json) |
 | Strip Breaker: Hentai Girls | 109695 | [109695-strip-breaker-hentai-girls.json](./109695-strip-breaker-hentai-girls.json) |
 | Strip Fighter 5: Chimpocon Edition | 185648 | [185648-strip-fighter-5-chimpocon-edition.json](./185648-strip-fighter-5-chimpocon-edition.json) |
+| Stripper Anya 2: X-MiGuFighters | 75168 | [75168-stripper-anya-2-x-migufighters.json](./75168-stripper-anya-2-x-migufighters.json) |
 | Strive: A Path Forward | 334496 | [334496-strive-a-path-forward.json](./334496-strive-a-path-forward.json) |
 | Strix STG | 228077 | [228077-strix-stg.json](./228077-strix-stg.json) |
 | Strobophagia: Rave Horror | 139460 | [139460-strobophagia-rave-horror.json](./139460-strobophagia-rave-horror.json) |
@@ -2038,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sundowner | 154022 | [154022-sundowner.json](./154022-sundowner.json) |
 | Sune och Hans Värld: Pussjakten | 129781 | [129781-sune-och-hans-varld-pussjakten.json](./129781-sune-och-hans-varld-pussjakten.json) |
 | Sunforge Solar Survival | 322980 | [322980-sunforge-solar-survival.json](./322980-sunforge-solar-survival.json) |
+| Sunken Brawl | 75147 | [75147-sunken-brawl.json](./75147-sunken-brawl.json) |
 | Sunken Heads | 138821 | [138821-sunken-heads.json](./138821-sunken-heads.json) |
 | Sunny Beach | 189205 | [189205-sunny-beach.json](./189205-sunny-beach.json) |
 | Sunny Shine on the Funny Side of Life | 123605 | [123605-sunny-shine-on-the-funny-side-of-life.json](./123605-sunny-shine-on-the-funny-side-of-life.json) |
