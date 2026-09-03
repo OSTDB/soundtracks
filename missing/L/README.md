@@ -108,6 +108,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Bus Home | 208617 | [208617-last-bus-home.json](./208617-last-bus-home.json) |
 | Last Contingency | 152902 | [152902-last-contingency.json](./152902-last-contingency.json) |
 | Last Days of Future | 226446 | [226446-last-days-of-future.json](./226446-last-days-of-future.json) |
+| Last Days of Spring 2: Deluxe Edition | 53264 | [53264-last-days-of-spring-2-deluxe-edition.json](./53264-last-days-of-spring-2-deluxe-edition.json) |
+| Last Dream: Complete Edition | 53265 | [53265-last-dream-complete-edition.json](./53265-last-dream-complete-edition.json) |
 | Last Equinox: Winds of Change | 255388 | [255388-last-equinox-winds-of-change.json](./255388-last-equinox-winds-of-change.json) |
 | Last Friend | 91968 | [91968-last-friend.json](./91968-last-friend.json) |
 | Last Group Out | 189196 | [189196-last-group-out.json](./189196-last-group-out.json) |
@@ -115,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Harvest | 138779 | [138779-last-harvest.json](./138779-last-harvest.json) |
 | Last Hit Titan | 337476 | [337476-last-hit-titan.json](./337476-last-hit-titan.json) |
 | Last Hopeless | 255991 | [255991-last-hopeless.json](./255991-last-hopeless.json) |
+| Last Knight | 53266 | [53266-last-knight.json](./53266-last-knight.json) |
 | Last Look along Woodward Boulevard | 321171 | [321171-last-look-along-woodward-boulevard.json](./321171-last-look-along-woodward-boulevard.json) |
 | Last Meal | 125999 | [125999-last-meal.json](./125999-last-meal.json) |
 | Last Moon | 120387 | [120387-last-moon.json](./120387-last-moon.json) |
@@ -199,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Labot: The Golden Pearl | 173280 | [173280-legend-of-labot-the-golden-pearl.json](./173280-legend-of-labot-the-golden-pearl.json) |
 | Legend of Maratha Warriors | 158702 | [158702-legend-of-maratha-warriors.json](./158702-legend-of-maratha-warriors.json) |
 | Legend of Mir | 62774 | [62774-legend-of-mir.json](./62774-legend-of-mir.json) |
+| Legend of Mysteria RPG | 53268 | [53268-legend-of-mysteria-rpg.json](./53268-legend-of-mysteria-rpg.json) |
 | Legend of Power Z | 106597 | [106597-legend-of-power-z.json](./106597-legend-of-power-z.json) |
 | Legend of Radiance | 192946 | [192946-legend-of-radiance.json](./192946-legend-of-radiance.json) |
 | Legend of Red | 334507 | [334507-legend-of-red.json](./334507-legend-of-red.json) |
@@ -214,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Yashiyu 3 | 173773 | [173773-legend-of-yashiyu-3.json](./173773-legend-of-yashiyu-3.json) |
 | Legend of Yashiyu 4 | 173774 | [173774-legend-of-yashiyu-4.json](./173774-legend-of-yashiyu-4.json) |
 | Legendary Heroes Unchained | 324106 | [324106-legendary-heroes-unchained.json](./324106-legendary-heroes-unchained.json) |
+| Legendary Mahjong | 53269 | [53269-legendary-mahjong.json](./53269-legendary-mahjong.json) |
 | Legendary Master Idle | 251233 | [251233-legendary-master-idle.json](./251233-legendary-master-idle.json) |
 | Legendary Racing | 232163 | [232163-legendary-racing.json](./232163-legendary-racing.json) |
 | Legendary Tales | 157175 | [157175-legendary-tales.json](./157175-legendary-tales.json) |
@@ -239,7 +244,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Island 2: The Brickster's Revenge | 229925 | [229925-lego-island-2-the-bricksters-revenge.json](./229925-lego-island-2-the-bricksters-revenge.json) |
 | LEGO Marvel Super Heroes 2: Champions Character Pack | 168368 | [168368-lego-marvel-super-heroes-2-champions-character-pack.json](./168368-lego-marvel-super-heroes-2-champions-character-pack.json) |
 | LEGO Marvel's Avengers: Classic Captain Marvel Pack | 137663 | [137663-lego-marvels-avengers-classic-captain-marvel-pack.json](./137663-lego-marvels-avengers-classic-captain-marvel-pack.json) |
+| LEGO Marvel's Avengers: Deluxe Edition | 53270 | [53270-lego-marvels-avengers-deluxe-edition.json](./53270-lego-marvels-avengers-deluxe-edition.json) |
 | LEGO Racers: The Video Game | 341908 | [341908-lego-racers-the-video-game.json](./341908-lego-racers-the-video-game.json) |
+| LEGO Star Wars: The Force Awakens - Deluxe Edition | 53271 | [53271-lego-star-wars-the-force-awakens-deluxe-edition.json](./53271-lego-star-wars-the-force-awakens-deluxe-edition.json) |
 | LEGO Supersonic RC | 250613 | [250613-lego-supersonic-rc.json](./250613-lego-supersonic-rc.json) |
 | Lego Worlds Showcase Collection #1 | 255377 | [255377-lego-worlds-showcase-collection-1.json](./255377-lego-worlds-showcase-collection-1.json) |
 | LEGO: City Builder | 318792 | [318792-lego-city-builder.json](./318792-lego-city-builder.json) |
@@ -291,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play Jigsaw Puzzles: A Journey Across Continents | 263210 | [263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json](./263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json) |
 | Let's Play! Oink Games - Complete Edition | 315859 | [315859-lets-play-oink-games-complete-edition.json](./315859-lets-play-oink-games-complete-edition.json) |
 | Let's Sing | 268191 | [268191-lets-sing.json](./268191-lets-sing.json) |
+| Let's Sing 16 | 53272 | [53272-lets-sing-16.json](./53272-lets-sing-16.json) |
 | Let's Sing 2017: Hits Francais et Internationaux | 268192 | [268192-lets-sing-2017-hits-francais-et-internationaux.json](./268192-lets-sing-2017-hits-francais-et-internationaux.json) |
 | Let's Sing 2018: Hits Francais et Internationaux | 268194 | [268194-lets-sing-2018-hits-francais-et-internationaux.json](./268194-lets-sing-2018-hits-francais-et-internationaux.json) |
 | Let's Sing 2019: Hits Français et Internationaux | 253026 | [253026-lets-sing-2019-hits-francais-et-internationaux.json](./253026-lets-sing-2019-hits-francais-et-internationaux.json) |
@@ -355,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Is A Game | 298887 | [298887-life-is-a-game.json](./298887-life-is-a-game.json) |
 | Life is a Race | 199086 | [199086-life-is-a-race.json](./199086-life-is-a-race.json) |
 | Life is Magic | 64426 | [64426-life-is-magic.json](./64426-life-is-magic.json) |
+| Life is Strange: Before the Storm - Deluxe Edition | 53273 | [53273-life-is-strange-before-the-storm-deluxe-edition.json](./53273-life-is-strange-before-the-storm-deluxe-edition.json) |
 | Life of a Capitalist | 118407 | [118407-life-of-a-capitalist.json](./118407-life-of-a-capitalist.json) |
 | Life source | 117093 | [117093-life-source.json](./117093-life-source.json) |
 | Life: The Game | 332839 | [332839-life-the-game.json](./332839-life-the-game.json) |
@@ -374,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Switch Simulator | 317591 | [317591-light-switch-simulator.json](./317591-light-switch-simulator.json) |
 | Light the Way | 248286 | [248286-light-the-way.json](./248286-light-the-way.json) |
 | Light Up the Room | 161371 | [161371-light-up-the-room.json](./161371-light-up-the-room.json) |
+| Light: Rebirth-The falsehood | 53274 | [53274-light-rebirth-the-falsehood.json](./53274-light-rebirth-the-falsehood.json) |
 | Lighter | 114394 | [114394-lighter.json](./114394-lighter.json) |
 | Lights Out | 300989 | [300989-lights-out.json](./300989-lights-out.json) |
 | Lightstream Racer | 100163 | [100163-lightstream-racer.json](./100163-lightstream-racer.json) |
@@ -414,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LineWay | 307291 | [307291-lineway.json](./307291-lineway.json) |
 | Lingo | 189169 | [189169-lingo.json](./189169-lingo.json) |
 | Língxià Jìyì | 130924 | [130924-lingxia-jiyi.json](./130924-lingxia-jiyi.json) |
+| Link Letter | 53275 | [53275-link-letter.json](./53275-link-letter.json) |
 | Link of Hearts | 208012 | [208012-link-of-hearts.json](./208012-link-of-hearts.json) |
 | Link the animals | 117774 | [117774-link-the-animals.json](./117774-link-the-animals.json) |
 | Link: The Unleashed Nexus - Restructured Heaven | 151756 | [151756-link-the-unleashed-nexus-restructured-heaven.json](./151756-link-the-unleashed-nexus-restructured-heaven.json) |
@@ -475,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Red Rocket Ship | 190199 | [190199-little-red-rocket-ship.json](./190199-little-red-rocket-ship.json) |
 | Little Robot Stories | 149588 | [149588-little-robot-stories.json](./149588-little-robot-stories.json) |
 | Little Shaker: Summer Adventures | 237623 | [237623-little-shaker-summer-adventures.json](./237623-little-shaker-summer-adventures.json) |
+| Little Shop - World Traveler | 53277 | [53277-little-shop-world-traveler.json](./53277-little-shop-world-traveler.json) |
 | Little Sound Dj | 91410 | [91410-little-sound-dj.json](./91410-little-sound-dj.json) |
 | Little Sparks | 189168 | [189168-little-sparks.json](./189168-little-sparks.json) |
 | Little Tail Story | 144320 | [144320-little-tail-story.json](./144320-little-tail-story.json) |
@@ -557,6 +569,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistical 2: Mall Rats | 168348 | [168348-logistical-2-mall-rats.json](./168348-logistical-2-mall-rats.json) |
 | Logistical 2: Suriname - Xmas 2018 | 168346 | [168346-logistical-2-suriname-xmas-2018.json](./168346-logistical-2-suriname-xmas-2018.json) |
 | Logistical 2: Vampires - Bundle | 168347 | [168347-logistical-2-vampires-bundle.json](./168347-logistical-2-vampires-bundle.json) |
+| Logistical: Europe | 53278 | [53278-logistical-europe.json](./53278-logistical-europe.json) |
+| Logistical: North America | 53279 | [53279-logistical-north-america.json](./53279-logistical-north-america.json) |
+| Logistical: The Lot | 53280 | [53280-logistical-the-lot.json](./53280-logistical-the-lot.json) |
+| Logistical: United Kingdom | 53281 | [53281-logistical-united-kingdom.json](./53281-logistical-united-kingdom.json) |
 | Loihtija | 176518 | [176518-loihtija.json](./176518-loihtija.json) |
 | Lola and the Giant | 110325 | [110325-lola-and-the-giant.json](./110325-lola-and-the-giant.json) |
 | Loli Racing | 292291 | [292291-loli-racing.json](./292291-loli-racing.json) |
