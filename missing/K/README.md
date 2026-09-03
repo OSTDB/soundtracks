@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaf Village | 340784 | [340784-kaf-village.json](./340784-kaf-village.json) |
 | Kafka's Metamorphosis | 328219 | [328219-kafkas-metamorphosis.json](./328219-kafkas-metamorphosis.json) |
 | Kafkaesque: The Nightmare Trial | 311827 | [311827-kafkaesque-the-nightmare-trial.json](./311827-kafkaesque-the-nightmare-trial.json) |
+| Kagirinaki Tatakai | 64397 | [64397-kagirinaki-tatakai.json](./64397-kagirinaki-tatakai.json) |
 | Kai-ri-Sei Million Arthur | 137066 | [137066-kai-ri-sei-million-arthur.json](./137066-kai-ri-sei-million-arthur.json) |
 | Kai.Ren | 174877 | [174877-kai-ren.json](./174877-kai-ren.json) |
 | Kaia's Ascent | 337995 | [337995-kaias-ascent.json](./337995-kaias-ascent.json) |
@@ -72,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaos | 118397 | [118397-kaos.json](./118397-kaos.json) |
 | Kapih | 332262 | [332262-kapih.json](./332262-kapih.json) |
 | Kappa Nittori-chan | 205790 | [205790-kappa-nittori-chan.json](./205790-kappa-nittori-chan.json) |
+| Kappa-kun to Asobou: Kappa-kun to Ota no Shimikai | 64439 | [64439-kappa-kun-to-asobou-kappa-kun-to-ota-no-shimikai.json](./64439-kappa-kun-to-asobou-kappa-kun-to-ota-no-shimikai.json) |
 | Käpt'n Blaubär: Die Verrückte Schatzsuche | 86070 | [86070-kaptn-blaubar-die-verruckte-schatzsuche.json](./86070-kaptn-blaubar-die-verruckte-schatzsuche.json) |
 | Kara's Darkness Chapter 1 | 102154 | [102154-karas-darkness-chapter-1.json](./102154-karas-darkness-chapter-1.json) |
 | Karaoke Joysound for Nintendo Switch | 146313 | [146313-karaoke-joysound-for-nintendo-switch.json](./146313-karaoke-joysound-for-nintendo-switch.json) |
@@ -417,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krusty Zombies | 180312 | [180312-krusty-zombies.json](./180312-krusty-zombies.json) |
 | Kryzta | 199113 | [199113-kryzta.json](./199113-kryzta.json) |
 | Krzyżacy: The Knights of the Cross - Character Pack (Western Style) | 257065 | [257065-krzyzacy-the-knights-of-the-cross-character-pack-western-style.json](./257065-krzyzacy-the-knights-of-the-cross-character-pack-western-style.json) |
+| KSame | 64431 | [64431-ksame.json](./64431-ksame.json) |
 | Kselebox | 169978 | [169978-kselebox.json](./169978-kselebox.json) |
 | Kuàilè Xiǎojī | 130953 | [130953-kuaile-xiaoji.json](./130953-kuaile-xiaoji.json) |
 | Kubble Star | 129218 | [129218-kubble-star.json](./129218-kubble-star.json) |
