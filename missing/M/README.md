@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindhack | 151735 | [151735-mindhack.json](./151735-mindhack.json) |
 | Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
 | MindScape: Verenna | 274760 | [274760-mindscape-verenna.json](./274760-mindscape-verenna.json) |
+| Mindtrap | 91406 | [91406-mindtrap.json](./91406-mindtrap.json) |
 | Mine Blast | 96758 | [96758-mine-blast.json](./96758-mine-blast.json) |
 | Mine Quest | 196868 | [196868-mine-quest.json](./196868-mine-quest.json) |
 | Mine Sweeper | 252359 | [252359-mine-sweeper.json](./252359-mine-sweeper.json) |
