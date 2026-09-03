@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Master | 137673 | [137673-golf-master.json](./137673-golf-master.json) |
 | Golf Monster | 156670 | [156670-golf-monster.json](./156670-golf-monster.json) |
 | Golf Pro 2000 Downunder | 93072 | [93072-golf-pro-2000-downunder.json](./93072-golf-pro-2000-downunder.json) |
+| Golf Resort Tycoon | 73296 | [73296-golf-resort-tycoon.json](./73296-golf-resort-tycoon.json) |
 | Golf Solitaire Pro | 88299 | [88299-golf-solitaire-pro.json](./88299-golf-solitaire-pro.json) |
 | Golf Up Tropical | 337990 | [337990-golf-up-tropical.json](./337990-golf-up-tropical.json) |
 | Golf With Your Friends 2 | 325850 | [325850-golf-with-your-friends-2.json](./325850-golf-with-your-friends-2.json) |
