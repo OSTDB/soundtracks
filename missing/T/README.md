@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi Music Star | 229957 | [229957-tamagotchi-music-star.json](./229957-tamagotchi-music-star.json) |
 | TamaTown Tama-Go | 229958 | [229958-tamatown-tama-go.json](./229958-tamatown-tama-go.json) |
 | Tame It Too! | 310745 | [310745-tame-it-too.json](./310745-tame-it-too.json) |
+| Tamer Saga | 56489 | [56489-tamer-saga.json](./56489-tamer-saga.json) |
 | Taming the Heart of a Beast | 228067 | [228067-taming-the-heart-of-a-beast.json](./228067-taming-the-heart-of-a-beast.json) |
 | Tampon Trawl | 184123 | [184123-tampon-trawl.json](./184123-tampon-trawl.json) |
 | Tampopo | 317004 | [317004-tampopo.json](./317004-tampopo.json) |
@@ -1911,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Ghoul: Break the Chains | 275897 | [275897-tokyo-ghoul-break-the-chains.json](./275897-tokyo-ghoul-break-the-chains.json) |
 | Tokyo Ghoul: Carnaval | 123630 | [123630-tokyo-ghoul-carnaval.json](./123630-tokyo-ghoul-carnaval.json) |
 | Tokyo Love Hustle | 239872 | [239872-tokyo-love-hustle.json](./239872-tokyo-love-hustle.json) |
+| Tokyo Mew Mew: Toujou Shin Mew Mew! - Minna Issho ni Gohoushi Suru Nyan | 56483 | [56483-tokyo-mew-mew-toujou-shin-mew-mew-minna-issho-ni-gohoushi-suru-nyan.json](./56483-tokyo-mew-mew-toujou-shin-mew-mew-minna-issho-ni-gohoushi-suru-nyan.json) |
 | Tokyo Millennium Collaboration | 333386 | [333386-tokyo-millennium-collaboration.json](./333386-tokyo-millennium-collaboration.json) |
 | Tokyo Mono Hara Shi: Karasu no Mori Gakuen Kitan | 67287 | [67287-tokyo-mono-hara-shi-karasu-no-mori-gakuen-kitan.json](./67287-tokyo-mono-hara-shi-karasu-no-mori-gakuen-kitan.json) |
 | Tokyo Nampa Street | 66132 | [66132-tokyo-nampa-street.json](./66132-tokyo-nampa-street.json) |
