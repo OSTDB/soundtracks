@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterimage Mobile | 297224 | [297224-afterimage-mobile.json](./297224-afterimage-mobile.json) |
 | Afterlife: Rickard's Quest | 306641 | [306641-afterlife-rickards-quest.json](./306641-afterlife-rickards-quest.json) |
 | Aftermath | 183600 | [183600-aftermath.json](./183600-aftermath.json) |
+| Aftermoon | 63880 | [63880-aftermoon.json](./63880-aftermoon.json) |
 | Afterslave | 210857 | [210857-afterslave.json](./210857-afterslave.json) |
 | Aftertime | 211420 | [211420-aftertime.json](./211420-aftertime.json) |
 | AfterZoom | 84884 | [84884-afterzoom.json](./84884-afterzoom.json) |
@@ -739,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | And I Made Sure to Hold Your Head Sideways | 138781 | [138781-and-i-made-sure-to-hold-your-head-sideways.json](./138781-and-i-made-sure-to-hold-your-head-sideways.json) |
 | Andalusian Roulette | 303789 | [303789-andalusian-roulette.json](./303789-andalusian-roulette.json) |
 | Andara: Rise for Rebellion | 255986 | [255986-andara-rise-for-rebellion.json](./255986-andara-rise-for-rebellion.json) |
+| Andrew Lloyd Webber Musicals: Sing and Dance | 63874 | [63874-andrew-lloyd-webber-musicals-sing-and-dance.json](./63874-andrew-lloyd-webber-musicals-sing-and-dance.json) |
 | Android Amazones | 120987 | [120987-android-amazones.json](./120987-android-amazones.json) |
 | Android Runner | 100820 | [100820-android-runner.json](./100820-android-runner.json) |
 | Andromeda Acolytes | 211400 | [211400-andromeda-acolytes.json](./211400-andromeda-acolytes.json) |
@@ -1018,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arclands | 156147 | [156147-arclands.json](./156147-arclands.json) |
 | Arcshu: Kagerou no Jidai wo Koete | 314659 | [314659-arcshu-kagerou-no-jidai-wo-koete.json](./314659-arcshu-kagerou-no-jidai-wo-koete.json) |
 | Arctic Cave | 98987 | [98987-arctic-cave.json](./98987-arctic-cave.json) |
+| Arctic Combat | 63888 | [63888-arctic-combat.json](./63888-arctic-combat.json) |
 | Arctic Motel Simulator | 311829 | [311829-arctic-motel-simulator.json](./311829-arctic-motel-simulator.json) |
 | Ardem | 260389 | [260389-ardem.json](./260389-ardem.json) |
 | Ardency: Heart of the Rebellion | 297788 | [297788-ardency-heart-of-the-rebellion.json](./297788-ardency-heart-of-the-rebellion.json) |
@@ -1097,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Driver | 204087 | [204087-army-driver.json](./204087-army-driver.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim - Halloween | 172178 | [172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json](./172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim 2 - DLC 2 | 254147 | [254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json](./254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json) |
+| Army Rage | 63889 | [63889-army-rage.json](./63889-army-rage.json) |
 | Army Wars Tactics | 200158 | [200158-army-wars-tactics.json](./200158-army-wars-tactics.json) |
 | Arobynn: Below The Surface | 248893 | [248893-arobynn-below-the-surface.json](./248893-arobynn-below-the-surface.json) |
 | Aron's Gift | 96100 | [96100-arons-gift.json](./96100-arons-gift.json) |
@@ -1355,10 +1359,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automobilista: Snetterton | 171087 | [171087-automobilista-snetterton.json](./171087-automobilista-snetterton.json) |
 | Autos | 197392 | [197392-autos.json](./197392-autos.json) |
 | Autumn Leaves | 109731 | [109731-autumn-leaves.json](./109731-autumn-leaves.json) |
+| Autumn Walk | 63883 | [63883-autumn-walk.json](./63883-autumn-walk.json) |
 | Ava and the Half-World | 303268 | [303268-ava-and-the-half-world.json](./303268-ava-and-the-half-world.json) |
 | Ava's Adventure | 258693 | [258693-avas-adventure.json](./258693-avas-adventure.json) |
 | Avalanche Snowboarding | 214763 | [214763-avalanche-snowboarding.json](./214763-avalanche-snowboarding.json) |
 | Avalanche! | 255354 | [255354-avalanche.json](./255354-avalanche.json) |
+| Avalon Heroes | 63886 | [63886-avalon-heroes.json](./63886-avalon-heroes.json) |
 | Avalon: The Druids | 274229 | [274229-avalon-the-druids.json](./274229-avalon-the-druids.json) |
 | Avatar Farm! | 94737 | [94737-avatar-farm.json](./94737-avatar-farm.json) |
 | Avatar Ninja! | 94738 | [94738-avatar-ninja.json](./94738-avatar-ninja.json) |
