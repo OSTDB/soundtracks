@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flicky | 275907 | [275907-flicky.json](./275907-flicky.json) |
 | Flicky | 275909 | [275909-flicky.json](./275909-flicky.json) |
 | Flicky | 275910 | [275910-flicky.json](./275910-flicky.json) |
+| Flight Commander 2 | 73854 | [73854-flight-commander-2.json](./73854-flight-commander-2.json) |
 | Flight of a Dragon | 270406 | [270406-flight-of-a-dragon.json](./270406-flight-of-a-dragon.json) |
 | Flight Simulator 2025 VR | 335088 | [335088-flight-simulator-2025-vr.json](./335088-flight-simulator-2025-vr.json) |
 | Fling! | 264361 | [264361-fling.json](./264361-fling.json) |
@@ -871,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Ashes | 224243 | [224243-from-the-ashes.json](./224243-from-the-ashes.json) |
 | From the Deep | 224240 | [224240-from-the-deep.json](./224240-from-the-deep.json) |
 | Front Edge | 296065 | [296065-front-edge.json](./296065-front-edge.json) |
+| Front Office Football 2001 | 73842 | [73842-front-office-football-2001.json](./73842-front-office-football-2001.json) |
 | Frontera | 253568 | [253568-frontera.json](./253568-frontera.json) |
 | Frontier | 162905 | [162905-frontier.json](./162905-frontier.json) |
 | Frontier Force Vanguard | 337478 | [337478-frontier-force-vanguard.json](./337478-frontier-force-vanguard.json) |
