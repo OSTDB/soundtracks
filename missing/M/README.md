@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.O.Z.O.X.: Space Salvager | 209157 | [209157-m-o-z-o-x-space-salvager.json](./209157-m-o-z-o-x-space-salvager.json) |
 | M.U.D. Rally | 233244 | [233244-m-u-d-rally.json](./233244-m-u-d-rally.json) |
 | M.V.P. | 197957 | [197957-m-v-p.json](./197957-m-v-p.json) |
+| M3 - Molesting the Match-3 Market | 94232 | [94232-m3-molesting-the-match-3-market.json](./94232-m3-molesting-the-match-3-market.json) |
 | MAAA | 112978 | [112978-maaa.json](./112978-maaa.json) |
 | Mabeop Cheonjamun DS | 124789 | [124789-mabeop-cheonjamun-ds.json](./124789-mabeop-cheonjamun-ds.json) |
 | Mabeop Cheonjamun DS 2: The Final Hanja Magic | 124788 | [124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json](./124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json) |
@@ -21,12 +22,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machina | 184624 | [184624-machina.json](./184624-machina.json) |
 | Machinarium | 264876 | [264876-machinarium.json](./264876-machinarium.json) |
 | Machine Heart | 248897 | [248897-machine-heart.json](./248897-machine-heart.json) |
+| Machine Hell | 94256 | [94256-machine-hell.json](./94256-machine-hell.json) |
 | Machine Love 2069 | 247739 | [247739-machine-love-2069.json](./247739-machine-love-2069.json) |
 | Machine Men | 299448 | [299448-machine-men.json](./299448-machine-men.json) |
 | Machine With a Big Gun | 103479 | [103479-machine-with-a-big-gun.json](./103479-machine-with-a-big-gun.json) |
 | Machizzle | 139478 | [139478-machizzle.json](./139478-machizzle.json) |
 | Macrocosm | 200180 | [200180-macrocosm.json](./200180-macrocosm.json) |
 | MacShot | 192447 | [192447-macshot.json](./192447-macshot.json) |
+| Mad Cars | 94261 | [94261-mad-cars.json](./94261-mad-cars.json) |
 | Mad Crash Racing | 234323 | [234323-mad-crash-racing.json](./234323-mad-crash-racing.json) |
 | Mad Daedalus | 218160 | [218160-mad-daedalus.json](./218160-mad-daedalus.json) |
 | Mad Finger Marathon | 233209 | [233209-mad-finger-marathon.json](./233209-mad-finger-marathon.json) |
@@ -160,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Sure It's Closed | 176491 | [176491-make-sure-its-closed.json](./176491-make-sure-its-closed.json) |
 | Make the Border Great Again: Visa Officer Simulator | 326401 | [326401-make-the-border-great-again-visa-officer-simulator.json](./326401-make-the-border-great-again-visa-officer-simulator.json) |
 | Make the World a Better Place | 248326 | [248326-make-the-world-a-better-place.json](./248326-make-the-world-a-better-place.json) |
+| MakeNumber | 94243 | [94243-makenumber.json](./94243-makenumber.json) |
 | Makoto Mobius | 150152 | [150152-makoto-mobius.json](./150152-makoto-mobius.json) |
 | Makoto Wakaido's Case Files: Executioner's Wedge | 245045 | [245045-makoto-wakaidos-case-files-executioners-wedge.json](./245045-makoto-wakaidos-case-files-executioners-wedge.json) |
 | Maldrin Journey | 123037 | [123037-maldrin-journey.json](./123037-maldrin-journey.json) |
@@ -381,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Steel: Turbo Tablet | 294465 | [294465-max-steel-turbo-tablet.json](./294465-max-steel-turbo-tablet.json) |
 | Max Traffic | 191887 | [191887-max-traffic.json](./191887-max-traffic.json) |
 | Max's Big Bust 2 - Max's Bigger Bust | 140626 | [140626-maxs-big-bust-2-maxs-bigger-bust.json](./140626-maxs-big-bust-2-maxs-bigger-bust.json) |
+| Maximal Mahjongg | 94235 | [94235-maximal-mahjongg.json](./94235-maximal-mahjongg.json) |
 | Maximum Football | 304344 | [304344-maximum-football.json](./304344-maximum-football.json) |
 | May Angels Fall Down | 257094 | [257094-may-angels-fall-down.json](./257094-may-angels-fall-down.json) |
 | May Blues | 153990 | [153990-may-blues.json](./153990-may-blues.json) |
@@ -644,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Plutonia | 312898 | [312898-micro-plutonia.json](./312898-micro-plutonia.json) |
 | MicroCity | 144375 | [144375-microcity.json](./144375-microcity.json) |
 | Microjob | 149564 | [149564-microjob.json](./149564-microjob.json) |
+| MicroLeague Football 2 | 94265 | [94265-microleague-football-2.json](./94265-microleague-football-2.json) |
 | MicroProse Entertainment Pack Vol #1: Dr Floyd's Desktop Toys | 98962 | [98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json](./98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json) |
 | Microsoft Combat Flight Simulator: WWII Europe Series | 243975 | [243975-microsoft-combat-flight-simulator-wwii-europe-series.json](./243975-microsoft-combat-flight-simulator-wwii-europe-series.json) |
 | Microsoft Flight Simulator 5.1: The Virtual Squadron | 141224 | [141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json](./141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json) |
@@ -1050,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Runner | 199125 | [199125-moon-runner.json](./199125-moon-runner.json) |
 | Moon Thirst | 310177 | [310177-moon-thirst.json](./310177-moon-thirst.json) |
 | Moon Waltz | 201291 | [201291-moon-waltz.json](./201291-moon-waltz.json) |
+| Moonbase | 94230 | [94230-moonbase.json](./94230-moonbase.json) |
 | Moondusk Masquerade | 334499 | [334499-moondusk-masquerade.json](./334499-moondusk-masquerade.json) |
 | Moonlight | 261534 | [261534-moonlight.json](./261534-moonlight.json) |
 | Moonlight Assault | 275314 | [275314-moonlight-assault.json](./275314-moonlight-assault.json) |
