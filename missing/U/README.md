@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubergridder | 92521 | [92521-ubergridder.json](./92521-ubergridder.json) |
 | Ubok. | 150160 | [150160-ubok.json](./150160-ubok.json) |
 | UBRocks | 90683 | [90683-ubrocks.json](./90683-ubrocks.json) |
+| UBV Volley 2011 | 87225 | [87225-ubv-volley-2011.json](./87225-ubv-volley-2011.json) |
 | UC Love | 238218 | [238218-uc-love.json](./238218-uc-love.json) |
 | Uchi Tore: Saitan 4-fun Kin Tore & Yuusansou Undou | 276469 | [276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json](./276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json) |
 | Ucube Avcıları | 268222 | [268222-ucube-avc-lar.json](./268222-ucube-avc-lar.json) |
