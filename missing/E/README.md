@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elements | 336927 | [336927-elements.json](./336927-elements.json) |
 | Eletar Hero | 188673 | [188673-eletar-hero.json](./188673-eletar-hero.json) |
 | Elette Fragments | 126657 | [126657-elette-fragments.json](./126657-elette-fragments.json) |
+| Elevator Action | 51241 | [51241-elevator-action.json](./51241-elevator-action.json) |
 | Elevatrix | 316408 | [316408-elevatrix.json](./316408-elevatrix.json) |
 | Elfie | 304867 | [304867-elfie.json](./304867-elfie.json) |
 | Elfin National Park | 341877 | [341877-elfin-national-park.json](./341877-elfin-national-park.json) |
@@ -586,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Riding 2 | 278155 | [278155-extreme-riding-2.json](./278155-extreme-riding-2.json) |
 | Extreme Skater | 200200 | [200200-extreme-skater.json](./200200-extreme-skater.json) |
 | Extreme Snowboard | 228110 | [228110-extreme-snowboard.json](./228110-extreme-snowboard.json) |
+| Extreme Tux Racer | 51248 | [51248-extreme-tux-racer.json](./51248-extreme-tux-racer.json) |
 | Extremely Realistic Siege Warfare Simulator | 130957 | [130957-extremely-realistic-siege-warfare-simulator.json](./130957-extremely-realistic-siege-warfare-simulator.json) |
 | Exсive A-1000 | 113714 | [113714-ex-ive-a-1000.json](./113714-ex-ive-a-1000.json) |
 | Eye on the world | 258731 | [258731-eye-on-the-world.json](./258731-eye-on-the-world.json) |
