@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogs Organized Neatly | 154011 | [154011-dogs-organized-neatly.json](./154011-dogs-organized-neatly.json) |
 | Dogs++ | 180814 | [180814-dogs.json](./180814-dogs.json) |
 | Dogville | 272032 | [272032-dogville.json](./272032-dogville.json) |
+| DogWorld Premium | 87265 | [87265-dogworld-premium.json](./87265-dogworld-premium.json) |
 | Doka 2: Guts Out Ninja | 114386 | [114386-doka-2-guts-out-ninja.json](./114386-doka-2-guts-out-ninja.json) |
 | Doki Doki A Slice Of Life | 333928 | [333928-doki-doki-a-slice-of-life.json](./333928-doki-doki-a-slice-of-life.json) |
 | Doki Doki Ace Attorney | 314043 | [314043-doki-doki-ace-attorney.json](./314043-doki-doki-ace-attorney.json) |
@@ -824,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomworld Mega Project 2013 | 260954 | [260954-doomworld-mega-project-2013.json](./260954-doomworld-mega-project-2013.json) |
 | Doomworld Roulette: Session 1 | 312908 | [312908-doomworld-roulette-session-1.json](./312908-doomworld-roulette-session-1.json) |
 | Doomworld Roulette: Session 2 | 312909 | [312909-doomworld-roulette-session-2.json](./312909-doomworld-roulette-session-2.json) |
+| Doon Snake | 87218 | [87218-doon-snake.json](./87218-doon-snake.json) |
 | Dooria | 158231 | [158231-dooria.json](./158231-dooria.json) |
 | Doors | 168388 | [168388-doors.json](./168388-doors.json) |
 | Doors and Doors | 244498 | [244498-doors-and-doors.json](./244498-doors-and-doors.json) |
@@ -894,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: Pro Football 2016 | 102142 | [102142-draft-day-sports-pro-football-2016.json](./102142-draft-day-sports-pro-football-2016.json) |
 | Draftycar | 254775 | [254775-draftycar.json](./254775-draftycar.json) |
 | Drag and Drop Medieval | 304865 | [304865-drag-and-drop-medieval.json](./304865-drag-and-drop-medieval.json) |
+| Drag Race: Reaction Trainer | 87257 | [87257-drag-race-reaction-trainer.json](./87257-drag-race-reaction-trainer.json) |
 | Dragabox | 259858 | [259858-dragabox.json](./259858-dragabox.json) |
 | Dragenas | 297804 | [297804-dragenas.json](./297804-dragenas.json) |
 | DragKnockFight | 218124 | [218124-dragknockfight.json](./218124-dragknockfight.json) |
@@ -926,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ruins II | 328277 | [328277-dragon-ruins-ii.json](./328277-dragon-ruins-ii.json) |
 | Dragon Song Tavern | 334471 | [334471-dragon-song-tavern.json](./334471-dragon-song-tavern.json) |
 | Dragon Star Varnir: Complete Deluxe Edition | 186884 | [186884-dragon-star-varnir-complete-deluxe-edition.json](./186884-dragon-star-varnir-complete-deluxe-edition.json) |
+| Dragon Swarm | 87240 | [87240-dragon-swarm.json](./87240-dragon-swarm.json) |
 | Dragon Trails | 173289 | [173289-dragon-trails.json](./173289-dragon-trails.json) |
 | Dragon Tycoon Edge | 97321 | [97321-dragon-tycoon-edge.json](./97321-dragon-tycoon-edge.json) |
 | Dragon valley | 109744 | [109744-dragon-valley.json](./109744-dragon-valley.json) |
@@ -973,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Dancer | 209170 | [209170-dream-dancer.json](./209170-dream-dancer.json) |
 | Dream Day: First Home | 209171 | [209171-dream-day-first-home.json](./209171-dream-day-first-home.json) |
 | Dream Day: Honeymoon | 209172 | [209172-dream-day-honeymoon.json](./209172-dream-day-honeymoon.json) |
+| Dream Day: Viva Las Vegas | 87284 | [87284-dream-day-viva-las-vegas.json](./87284-dream-day-viva-las-vegas.json) |
 | Dream Day: Wedding | 209173 | [209173-dream-day-wedding.json](./209173-dream-day-wedding.json) |
 | Dream Doll House - Decorating Game | 100868 | [100868-dream-doll-house-decorating-game.json](./100868-dream-doll-house-decorating-game.json) |
 | Dream Ending: Drama | 121033 | [121033-dream-ending-drama.json](./121033-dream-ending-drama.json) |
