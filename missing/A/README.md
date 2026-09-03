@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Guidebook of Babel | 149085 | [149085-a-guidebook-of-babel.json](./149085-a-guidebook-of-babel.json) |
 | A Hero and a Garden | 137072 | [137072-a-hero-and-a-garden.json](./137072-a-hero-and-a-garden.json) |
 | A Hero's Rest: An RPG Town Simulator | 206356 | [206356-a-heros-rest-an-rpg-town-simulator.json](./206356-a-heros-rest-an-rpg-town-simulator.json) |
+| A Hollow Doorway | 94785 | [94785-a-hollow-doorway.json](./94785-a-hollow-doorway.json) |
 | A Host of Gentle Terrors | 136437 | [136437-a-host-of-gentle-terrors.json](./136437-a-host-of-gentle-terrors.json) |
 | A Housewife's Healing Touch | 198561 | [198561-a-housewifes-healing-touch.json](./198561-a-housewifes-healing-touch.json) |
 | A Jornada | 299469 | [299469-a-jornada.json](./299469-a-jornada.json) |
@@ -381,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aikiss 2: Complete Edition | 141893 | [141893-aikiss-2-complete-edition.json](./141893-aikiss-2-complete-edition.json) |
 | Ailuri | 189192 | [189192-ailuri.json](./189192-ailuri.json) |
 | Aimee's Cafe | 266520 | [266520-aimees-cafe.json](./266520-aimees-cafe.json) |
+| AionGuard | 94732 | [94732-aionguard.json](./94732-aionguard.json) |
 | Air | 270385 | [270385-air.json](./270385-air.json) |
 | Air | 270403 | [270403-air.json](./270403-air.json) |
 | Air Combat | 333953 | [333953-air-combat.json](./333953-air-combat.json) |
@@ -500,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlienXcape | 322359 | [322359-alienxcape.json](./322359-alienxcape.json) |
 | Aline | 127978 | [127978-aline.json](./127978-aline.json) |
 | Alipache in Wonderworld | 204708 | [204708-alipache-in-wonderworld.json](./204708-alipache-in-wonderworld.json) |
+| Alive 4-ever Returns | 94758 | [94758-alive-4-ever-returns.json](./94758-alive-4-ever-returns.json) |
 | Aliya | 278728 | [278728-aliya.json](./278728-aliya.json) |
 | Aliya's Awakening: Dooge 2042 | 341887 | [341887-aliyas-awakening-dooge-2042.json](./341887-aliyas-awakening-dooge-2042.json) |
 | All Aboard! The Train Defense Express | 337454 | [337454-all-aboard-the-train-defense-express.json](./337454-all-aboard-the-train-defense-express.json) |
@@ -655,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andromeda Acolytes | 211400 | [211400-andromeda-acolytes.json](./211400-andromeda-acolytes.json) |
 | Andromeda Overdrive | 265420 | [265420-andromeda-overdrive.json](./265420-andromeda-overdrive.json) |
 | Andromeda Zombies Colonies | 233221 | [233221-andromeda-zombies-colonies.json](./233221-andromeda-zombies-colonies.json) |
+| Andromium | 94740 | [94740-andromium.json](./94740-andromium.json) |
 | Andy Blast vs. The Forces of Evil | 291772 | [291772-andy-blast-vs-the-forces-of-evil.json](./291772-andy-blast-vs-the-forces-of-evil.json) |
 | Andy's Apple Farm: Christmas Special | 193505 | [193505-andys-apple-farm-christmas-special.json](./193505-andys-apple-farm-christmas-special.json) |
 | Anemoiapolis | 141855 | [141855-anemoiapolis.json](./141855-anemoiapolis.json) |
@@ -923,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Brutal | 197913 | [197913-arena-brutal.json](./197913-arena-brutal.json) |
 | Arena Constellation | 295012 | [295012-arena-constellation.json](./295012-arena-constellation.json) |
 | Arena of Trophies | 297789 | [297789-arena-of-trophies.json](./297789-arena-of-trophies.json) |
+| Arena Titans | 94789 | [94789-arena-titans.json](./94789-arena-titans.json) |
 | Aretha II | 137076 | [137076-aretha-ii.json](./137076-aretha-ii.json) |
 | Argh! Earthlings! | 175435 | [175435-argh-earthlings.json](./175435-argh-earthlings.json) |
 | Arghh, There's a Killer Chasing Me! | 188114 | [188114-arghh-theres-a-killer-chasing-me.json](./188114-arghh-theres-a-killer-chasing-me.json) |
@@ -1208,6 +1213,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalanche Snowboarding | 214763 | [214763-avalanche-snowboarding.json](./214763-avalanche-snowboarding.json) |
 | Avalanche! | 255354 | [255354-avalanche.json](./255354-avalanche.json) |
 | Avalon: The Druids | 274229 | [274229-avalon-the-druids.json](./274229-avalon-the-druids.json) |
+| Avatar Farm! | 94737 | [94737-avatar-farm.json](./94737-avatar-farm.json) |
+| Avatar Ninja! | 94738 | [94738-avatar-ninja.json](./94738-avatar-ninja.json) |
 | Avatar: The Last Airbender - Into the Inferno | 210251 | [210251-avatar-the-last-airbender-into-the-inferno.json](./210251-avatar-the-last-airbender-into-the-inferno.json) |
 | Avatar: The Last Airbender - The Burning Earth | 210252 | [210252-avatar-the-last-airbender-the-burning-earth.json](./210252-avatar-the-last-airbender-the-burning-earth.json) |
 | Avatar: The Last Airbender - The Burning Earth | 210253 | [210253-avatar-the-last-airbender-the-burning-earth.json](./210253-avatar-the-last-airbender-the-burning-earth.json) |
