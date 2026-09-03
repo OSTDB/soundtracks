@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Script: Nature | 319348 | [319348-wild-script-nature.json](./319348-wild-script-nature.json) |
 | Wild Shape | 180311 | [180311-wild-shape.json](./180311-wild-shape.json) |
 | Wild Terra 2: New Lands | 126619 | [126619-wild-terra-2-new-lands.json](./126619-wild-terra-2-new-lands.json) |
+| Wild Turkey Hunt | 95453 | [95453-wild-turkey-hunt.json](./95453-wild-turkey-hunt.json) |
 | Wild West Races | 175395 | [175395-wild-west-races.json](./175395-wild-west-races.json) |
 | Wild West VR | 104075 | [104075-wild-west-vr.json](./104075-wild-west-vr.json) |
 | WildCraft | 241635 | [241635-wildcraft.json](./241635-wildcraft.json) |
@@ -435,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Women's Murder Club: Little Black Lies | 135250 | [135250-womens-murder-club-little-black-lies.json](./135250-womens-murder-club-little-black-lies.json) |
 | Wonder Land | 216483 | [216483-wonder-land.json](./216483-wonder-land.json) |
 | Wonder Mu: Mu to Unmei no Monster | 220323 | [220323-wonder-mu-mu-to-unmei-no-monster.json](./220323-wonder-mu-mu-to-unmei-no-monster.json) |
+| Wonderland | 95460 | [95460-wonderland.json](./95460-wonderland.json) |
 | Wonderland Nights: White Rabbit's Diary | 151705 | [151705-wonderland-nights-white-rabbits-diary.json](./151705-wonderland-nights-white-rabbits-diary.json) |
 | Wonderland Quest | 216482 | [216482-wonderland-quest.json](./216482-wonderland-quest.json) |
 | Wonderland Secret Worlds | 260964 | [260964-wonderland-secret-worlds.json](./260964-wonderland-secret-worlds.json) |
