@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dato of Srivijaya | 156679 | [156679-dato-of-srivijaya.json](./156679-dato-of-srivijaya.json) |
 | Daughter of Shadows: An SCP Breach Event - Friend and Foe Expansion | 167317 | [167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json](./167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json) |
 | Dave | 111682 | [111682-dave.json](./111682-dave.json) |
+| David Leadbetter's Greens | 71545 | [71545-david-leadbetters-greens.json](./71545-david-leadbetters-greens.json) |
 | Davy Jones' Locker | 177024 | [177024-davy-jones-locker.json](./177024-davy-jones-locker.json) |
 | Dawn | 319979 | [319979-dawn.json](./319979-dawn.json) |
 | Dawn of Anarchy | 274773 | [274773-dawn-of-anarchy.json](./274773-dawn-of-anarchy.json) |
@@ -246,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 5: Last Round - Character: Mai Shiranui | 246628 | [246628-dead-or-alive-5-last-round-character-mai-shiranui.json](./246628-dead-or-alive-5-last-round-character-mai-shiranui.json) |
 | Dead or Alive 6: Energy Up! Training Wear Set | 225904 | [225904-dead-or-alive-6-energy-up-training-wear-set.json](./225904-dead-or-alive-6-energy-up-training-wear-set.json) |
 | Dead or Alive Xtreme 3 Fortune: Collector's Edition | 166233 | [166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json](./166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json) |
+| Dead Reckoning | 71536 | [71536-dead-reckoning.json](./71536-dead-reckoning.json) |
 | Dead Reckoning: The Crescent Case - Collector's Edition | 89944 | [89944-dead-reckoning-the-crescent-case-collectors-edition.json](./89944-dead-reckoning-the-crescent-case-collectors-edition.json) |
 | Dead Rising 4: Capcom Heroes | 202965 | [202965-dead-rising-4-capcom-heroes.json](./202965-dead-rising-4-capcom-heroes.json) |
 | Dead Rising mobile | 81391 | [81391-dead-rising-mobile.json](./81391-dead-rising-mobile.json) |
