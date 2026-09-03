@@ -220,9 +220,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Inside Us | 157189 | [157189-killer-inside-us.json](./157189-killer-inside-us.json) |
 | Killer Instinct 2 | 264309 | [264309-killer-instinct-2.json](./264309-killer-instinct-2.json) |
 | Killer Zombie Hunt | 276484 | [276484-killer-zombie-hunt.json](./276484-killer-zombie-hunt.json) |
+| Killing Bites | 59412 | [59412-killing-bites.json](./59412-killing-bites.json) |
 | Killing Floor: Double Feature | 116387 | [116387-killing-floor-double-feature.json](./116387-killing-floor-double-feature.json) |
 | Killing Kiss | 191905 | [191905-killing-kiss.json](./191905-killing-kiss.json) |
 | Kiloblaster | 79333 | [79333-kiloblaster.json](./79333-kiloblaster.json) |
+| Kimero!! Hero Gakuen: Eiyuu ni Shinjutsu Nashi | 59439 | [59439-kimero-hero-gakuen-eiyuu-ni-shinjutsu-nashi.json](./59439-kimero-hero-gakuen-eiyuu-ni-shinjutsu-nashi.json) |
 | Kimi ga Mita Hikari 2 | 329968 | [329968-kimi-ga-mita-hikari-2.json](./329968-kimi-ga-mita-hikari-2.json) |
 | KindergarTen 3: The Basement | 290696 | [290696-kindergarten-3-the-basement.json](./290696-kindergarten-3-the-basement.json) |
 | Kindred Spirits on the Roof: Full Chorus | 124804 | [124804-kindred-spirits-on-the-roof-full-chorus.json](./124804-kindred-spirits-on-the-roof-full-chorus.json) |
