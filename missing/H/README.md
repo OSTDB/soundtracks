@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatup | 204093 | [204093-hatup.json](./204093-hatup.json) |
 | Haunt Monster | 237040 | [237040-haunt-monster.json](./237040-haunt-monster.json) |
 | Haunted Cities Volume 4 | 140618 | [140618-haunted-cities-volume-4.json](./140618-haunted-cities-volume-4.json) |
+| Haunted Escape: Wrath of Victoria | 62759 | [62759-haunted-escape-wrath-of-victoria.json](./62759-haunted-escape-wrath-of-victoria.json) |
 | Haunted Girls | 212999 | [212999-haunted-girls.json](./212999-haunted-girls.json) |
 | Haunted Hotel: A Past Redeemed - Collector's Edition | 152889 | [152889-haunted-hotel-a-past-redeemed-collectors-edition.json](./152889-haunted-hotel-a-past-redeemed-collectors-edition.json) |
 | Haunted Hotel: Ancient Bane | 180306 | [180306-haunted-hotel-ancient-bane.json](./180306-haunted-hotel-ancient-bane.json) |
@@ -356,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Helix | 108494 | [108494-hello-helix.json](./108494-hello-helix.json) |
 | Hello Kitty Fairy Tale Samegame | 77342 | [77342-hello-kitty-fairy-tale-samegame.json](./77342-hello-kitty-fairy-tale-samegame.json) |
 | Hello Kitty Food Town | 249481 | [249481-hello-kitty-food-town.json](./249481-hello-kitty-food-town.json) |
+| Hello Kitty Kruisers with Sanrio Friends | 62781 | [62781-hello-kitty-kruisers-with-sanrio-friends.json](./62781-hello-kitty-kruisers-with-sanrio-friends.json) |
 | Hello Kitty no Gotouchi Collection: Koi no Doki-doki Travel | 269832 | [269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json](./269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json) |
 | Hello Kitty's Cube Frenzy | 299461 | [299461-hello-kittys-cube-frenzy.json](./299461-hello-kittys-cube-frenzy.json) |
 | Hello Pocoyo! | 64972 | [64972-hello-pocoyo.json](./64972-hello-pocoyo.json) |
@@ -452,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Drakerealm | 235485 | [235485-heroes-of-drakerealm.json](./235485-heroes-of-drakerealm.json) |
 | Heroes of Gaia | 63867 | [63867-heroes-of-gaia.json](./63867-heroes-of-gaia.json) |
 | Heroes of Magic: Card Battle | 108492 | [108492-heroes-of-magic-card-battle.json](./108492-heroes-of-magic-card-battle.json) |
+| Heroes of the Obelisk | 62761 | [62761-heroes-of-the-obelisk.json](./62761-heroes-of-the-obelisk.json) |
 | Heroes of War | 227471 | [227471-heroes-of-war.json](./227471-heroes-of-war.json) |
 | Heroes Phantasia | 65495 | [65495-heroes-phantasia.json](./65495-heroes-phantasia.json) |
 | Heroes Sky Legends | 336371 | [336371-heroes-sky-legends.json](./336371-heroes-sky-legends.json) |
@@ -465,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HesGames | 84269 | [84269-hesgames.json](./84269-hesgames.json) |
 | Hesperian Wars | 229367 | [229367-hesperian-wars.json](./229367-hesperian-wars.json) |
 | Heterodox | 147484 | [147484-heterodox.json](./147484-heterodox.json) |
+| Heva Clonia Online | 62744 | [62744-heva-clonia-online.json](./62744-heva-clonia-online.json) |
 | HewDraw Remix | 242804 | [242804-hewdraw-remix.json](./242804-hewdraw-remix.json) |
 | Hex & Agon | 144351 | [144351-hex-and-agon.json](./144351-hex-and-agon.json) |
 | Hexa | 114390 | [114390-hexa.json](./114390-hexa.json) |
