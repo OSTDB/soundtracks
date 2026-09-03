@@ -330,6 +330,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReEarth | 309689 | [309689-reearth.json](./309689-reearth.json) |
 | Reed 2 | 134012 | [134012-reed-2.json](./134012-reed-2.json) |
 | Reed Collection | 221993 | [221993-reed-collection.json](./221993-reed-collection.json) |
+| Reel Deal Card Games | 77387 | [77387-reel-deal-card-games.json](./77387-reel-deal-card-games.json) |
+| Reel Deal Card Games '09 | 77388 | [77388-reel-deal-card-games-09.json](./77388-reel-deal-card-games-09.json) |
+| Reel Deal Card Games 2011 | 77389 | [77389-reel-deal-card-games-2011.json](./77389-reel-deal-card-games-2011.json) |
+| Reel Deal Casino: Championship Edition | 77391 | [77391-reel-deal-casino-championship-edition.json](./77391-reel-deal-casino-championship-edition.json) |
+| Reel Deal Casino: Shuffle Master Edition | 77390 | [77390-reel-deal-casino-shuffle-master-edition.json](./77390-reel-deal-casino-shuffle-master-edition.json) |
 | Reel-istic Fishing | 259823 | [259823-reel-istic-fishing.json](./259823-reel-istic-fishing.json) |
 | Reels of Fortune | 270416 | [270416-reels-of-fortune.json](./270416-reels-of-fortune.json) |
 | ReEstate | 197409 | [197409-reestate.json](./197409-reestate.json) |
@@ -1009,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rustyard | 322354 | [322354-rustyard.json](./322354-rustyard.json) |
 | Ruzar: The Dark Stones | 310217 | [310217-ruzar-the-dark-stones.json](./310217-ruzar-the-dark-stones.json) |
 | RV-7 My Drone | 84909 | [84909-rv-7-my-drone.json](./84909-rv-7-my-drone.json) |
+| RXN: Raijin | 77386 | [77386-rxn-raijin.json](./77386-rxn-raijin.json) |
 | Ryan's Pack | 131602 | [131602-ryans-pack.json](./131602-ryans-pack.json) |
 | Ryan's Rescue Squad | 185704 | [185704-ryans-rescue-squad.json](./185704-ryans-rescue-squad.json) |
 | Ryojyoku Damashii: Ero Kenkyaku Den | 97367 | [97367-ryojyoku-damashii-ero-kenkyaku-den.json](./97367-ryojyoku-damashii-ero-kenkyaku-den.json) |
