@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rallycross Track Racing | 221383 | [221383-rallycross-track-racing.json](./221383-rallycross-track-racing.json) |
 | Ralph Baer's Pinball! | 257666 | [257666-ralph-baers-pinball.json](./257666-ralph-baers-pinball.json) |
 | Ralph Breaks VR | 246638 | [246638-ralph-breaks-vr.json](./246638-ralph-breaks-vr.json) |
+| Ram! | 94218 | [94218-ram.json](./94218-ram.json) |
 | Ramble Planet | 152374 | [152374-ramble-planet.json](./152374-ramble-planet.json) |
 | Ramblings | 204678 | [204678-ramblings.json](./204678-ramblings.json) |
 | Ramen Chain | 159345 | [159345-ramen-chain.json](./159345-ramen-chain.json) |
@@ -385,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reporter | 105975 | [105975-reporter.json](./105975-reporter.json) |
 | reProgram | 128633 | [128633-reprogram.json](./128633-reprogram.json) |
 | Reptillian Rebellion | 123610 | [123610-reptillian-rebellion.json](./123610-reptillian-rebellion.json) |
+| Repton Mania | 94257 | [94257-repton-mania.json](./94257-repton-mania.json) |
 | Requie-mu | 292859 | [292859-requie-mu.json](./292859-requie-mu.json) |
 | Reroll | 104065 | [104065-reroll.json](./104065-reroll.json) |
 | Rescape | 235981 | [235981-rescape.json](./235981-rescape.json) |
@@ -879,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RRWard02 | 274209 | [274209-rrward02.json](./274209-rrward02.json) |
 | RTE Worlds | 273127 | [273127-rte-worlds.json](./273127-rte-worlds.json) |
 | RTL Alarm für Cobra 11: Teil II | 144348 | [144348-rtl-alarm-fur-cobra-11-teil-ii.json](./144348-rtl-alarm-fur-cobra-11-teil-ii.json) |
+| RTL Skispringen 2003 | 94245 | [94245-rtl-skispringen-2003.json](./94245-rtl-skispringen-2003.json) |
 | Rubbadubbers | 335108 | [335108-rubbadubbers.json](./335108-rubbadubbers.json) |
 | Rubber Man | 185131 | [185131-rubber-man.json](./185131-rubber-man.json) |
 | Ruby Crush | 270417 | [270417-ruby-crush.json](./270417-ruby-crush.json) |
@@ -892,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruins of Mitriom | 186320 | [186320-ruins-of-mitriom.json](./186320-ruins-of-mitriom.json) |
 | Ruins To Fortress | 273638 | [273638-ruins-to-fortress.json](./273638-ruins-to-fortress.json) |
 | Ruler of the Earth | 185694 | [185694-ruler-of-the-earth.json](./185694-ruler-of-the-earth.json) |
+| Rules of the Game | 94237 | [94237-rules-of-the-game.json](./94237-rules-of-the-game.json) |
 | Ruma | 274210 | [274210-ruma.json](./274210-ruma.json) |
 | Rumble Heroes | 242203 | [242203-rumble-heroes.json](./242203-rumble-heroes.json) |
 | Rumble League | 126042 | [126042-rumble-league.json](./126042-rumble-league.json) |
