@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T06:03:23.496Z",
-  "total_missing": 21905,
+  "generated_at": "2026-09-03T06:18:24.323Z",
+  "total_missing": 21955,
   "games": [
     {
       "igdb_id": 306086,
@@ -2648,6 +2648,11 @@
       "file": "missing/A/307333-achievement-hunter-begins.json"
     },
     {
+      "igdb_id": 79318,
+      "game_name": "Ack-Ack Attack!",
+      "file": "missing/A/79318-ack-ack-attack.json"
+    },
+    {
       "igdb_id": 211391,
       "game_name": "ACL Pro Cornhole",
       "file": "missing/A/211391-acl-pro-cornhole.json"
@@ -4103,6 +4108,11 @@
       "file": "missing/A/209133-alien-xenoblaster.json"
     },
     {
+      "igdb_id": 79315,
+      "game_name": "Alien's Return",
+      "file": "missing/A/79315-aliens-return.json"
+    },
+    {
       "igdb_id": 332245,
       "game_name": "Alienator",
       "file": "missing/A/332245-alienator.json"
@@ -4276,6 +4286,11 @@
       "igdb_id": 91416,
       "game_name": "All Star Baseball",
       "file": "missing/A/91416-all-star-baseball.json"
+    },
+    {
+      "igdb_id": 79309,
+      "game_name": "All Star Darts",
+      "file": "missing/A/79309-all-star-darts.json"
     },
     {
       "igdb_id": 81432,
@@ -5271,6 +5286,11 @@
       "igdb_id": 224759,
       "game_name": "Anime Catgirl Runner",
       "file": "missing/A/224759-anime-catgirl-runner.json"
+    },
+    {
+      "igdb_id": 79350,
+      "game_name": "Anime Freak FX Vol. 1",
+      "file": "missing/A/79350-anime-freak-fx-vol-1.json"
     },
     {
       "igdb_id": 307275,
@@ -8528,6 +8548,11 @@
       "file": "missing/B/234348-baff-4.json"
     },
     {
+      "igdb_id": 79324,
+      "game_name": "Bagitman",
+      "file": "missing/B/79324-bagitman.json"
+    },
+    {
       "igdb_id": 185164,
       "game_name": "Bagman Comes Back",
       "file": "missing/B/185164-bagman-comes-back.json"
@@ -10906,6 +10931,11 @@
       "igdb_id": 192964,
       "game_name": "Billy 101",
       "file": "missing/B/192964-billy-101.json"
+    },
+    {
+      "igdb_id": 79334,
+      "game_name": "Bilspel",
+      "file": "missing/B/79334-bilspel.json"
     },
     {
       "igdb_id": 185697,
@@ -17808,6 +17838,11 @@
       "file": "missing/C/322999-clones-run.json"
     },
     {
+      "igdb_id": 79332,
+      "game_name": "Clonk A.P.E.",
+      "file": "missing/C/79332-clonk-a-p-e.json"
+    },
+    {
       "igdb_id": 254175,
       "game_name": "Closed Circuit",
       "file": "missing/C/254175-closed-circuit.json"
@@ -21418,6 +21453,11 @@
       "file": "missing/D/221400-dai-2-ji-super-robot-taisen-g.json"
     },
     {
+      "igdb_id": 79338,
+      "game_name": "Dai-3-ji Super Robot Taisen Alpha: Shuuen no Ginga he",
+      "file": "missing/D/79338-dai-3-ji-super-robot-taisen-alpha-shuuen-no-ginga-he.json"
+    },
+    {
       "igdb_id": 97337,
       "game_name": "Daibouken: Saint Elmos no Kiseki",
       "file": "missing/D/97337-daibouken-saint-elmos-no-kiseki.json"
@@ -24708,6 +24748,11 @@
       "file": "missing/D/233222-dizzyroids.json"
     },
     {
+      "igdb_id": 79327,
+      "game_name": "DJMax Portable: Clazziquai Edition",
+      "file": "missing/D/79327-djmax-portable-clazziquai-edition.json"
+    },
+    {
       "igdb_id": 239342,
       "game_name": "DJMax Respect V: Ez2on Pack",
       "file": "missing/D/239342-djmax-respect-v-ez2on-pack.json"
@@ -25888,6 +25933,11 @@
       "file": "missing/D/116372-dragon-ball-xenoverse-2-lite-version.json"
     },
     {
+      "igdb_id": 79299,
+      "game_name": "Dragon Ball Z: Buu's Fury / Dragon Ball GT: Transformation",
+      "file": "missing/D/79299-dragon-ball-z-buus-fury-dragon-ball-gt-transformation.json"
+    },
+    {
       "igdb_id": 322346,
       "game_name": "Dragon Ball Z: Cell To Kogeki Da",
       "file": "missing/D/322346-dragon-ball-z-cell-to-kogeki-da.json"
@@ -25996,6 +26046,11 @@
       "igdb_id": 80598,
       "game_name": "Dragon Quest Monster Super Light",
       "file": "missing/D/80598-dragon-quest-monster-super-light.json"
+    },
+    {
+      "igdb_id": 79296,
+      "game_name": "Dragon Quest Monsters: Joker 3 Professional",
+      "file": "missing/D/79296-dragon-quest-monsters-joker-3-professional.json"
     },
     {
       "igdb_id": 80596,
@@ -27476,6 +27531,11 @@
       "igdb_id": 84257,
       "game_name": "East Front II",
       "file": "missing/E/84257-east-front-ii.json"
+    },
+    {
+      "igdb_id": 79304,
+      "game_name": "EastEnders",
+      "file": "missing/E/79304-eastenders.json"
     },
     {
       "igdb_id": 79941,
@@ -29473,6 +29533,11 @@
       "file": "missing/E/111025-everquest-ii-the-splitpaw-saga.json"
     },
     {
+      "igdb_id": 79300,
+      "game_name": "EverQuest: The Planes of Power",
+      "file": "missing/E/79300-everquest-the-planes-of-power.json"
+    },
+    {
       "igdb_id": 125475,
       "game_name": "EverQuest: Torment of Velious",
       "file": "missing/E/125475-everquest-torment-of-velious.json"
@@ -30136,6 +30201,11 @@
       "igdb_id": 181377,
       "game_name": "Faced",
       "file": "missing/F/181377-faced.json"
+    },
+    {
+      "igdb_id": 79320,
+      "game_name": "Faces...tris III",
+      "file": "missing/F/79320-faces-tris-iii.json"
     },
     {
       "igdb_id": 173306,
@@ -32618,6 +32688,11 @@
       "file": "missing/F/185119-flip-of-light.json"
     },
     {
+      "igdb_id": 79314,
+      "game_name": "Flip Out",
+      "file": "missing/F/79314-flip-out.json"
+    },
+    {
       "igdb_id": 315831,
       "game_name": "FlipBook",
       "file": "missing/F/315831-flipbook.json"
@@ -32801,6 +32876,11 @@
       "igdb_id": 134696,
       "game_name": "Flufftopia",
       "file": "missing/F/134696-flufftopia.json"
+    },
+    {
+      "igdb_id": 79308,
+      "game_name": "Fluffy Bear",
+      "file": "missing/F/79308-fluffy-bear.json"
     },
     {
       "igdb_id": 150156,
@@ -36033,6 +36113,11 @@
       "file": "missing/G/137081-gensou-no-idea-oratorio-phantasm-historia.json"
     },
     {
+      "igdb_id": 79293,
+      "game_name": "Gensou Tairiku Aurelia",
+      "file": "missing/G/79293-gensou-tairiku-aurelia.json"
+    },
+    {
       "igdb_id": 264315,
       "game_name": "Geo Mythica",
       "file": "missing/G/264315-geo-mythica.json"
@@ -38518,6 +38603,11 @@
       "file": "missing/G/104067-guess-da-meme.json"
     },
     {
+      "igdb_id": 79346,
+      "game_name": "Guess it not",
+      "file": "missing/G/79346-guess-it-not.json"
+    },
+    {
       "igdb_id": 202387,
       "game_name": "Guess Pony Cartoon",
       "file": "missing/G/202387-guess-pony-cartoon.json"
@@ -39991,6 +40081,16 @@
       "igdb_id": 247192,
       "game_name": "Hayarigami 1, 2, 3 Pack",
       "file": "missing/H/247192-hayarigami-1-2-3-pack.json"
+    },
+    {
+      "igdb_id": 79330,
+      "game_name": "Hayarigami 2: Keishichou Kaii Jiken File",
+      "file": "missing/H/79330-hayarigami-2-keishichou-kaii-jiken-file.json"
+    },
+    {
+      "igdb_id": 79329,
+      "game_name": "Hayarigami Portable: Keishichou Kaii Jiken File",
+      "file": "missing/H/79329-hayarigami-portable-keishichou-kaii-jiken-file.json"
     },
     {
       "igdb_id": 141257,
@@ -41793,6 +41893,11 @@
       "file": "missing/H/295042-hit-the-ice.json"
     },
     {
+      "igdb_id": 79317,
+      "game_name": "HIT: Heroes of Incredible Tales",
+      "file": "missing/H/79317-hit-heroes-of-incredible-tales.json"
+    },
+    {
       "igdb_id": 277006,
       "game_name": "Hitler My Friend",
       "file": "missing/H/277006-hitler-my-friend.json"
@@ -42661,6 +42766,11 @@
       "igdb_id": 97368,
       "game_name": "House Maid Asuka",
       "file": "missing/H/97368-house-maid-asuka.json"
+    },
+    {
+      "igdb_id": 79322,
+      "game_name": "House of 1000 Doors: Family Secrets",
+      "file": "missing/H/79322-house-of-1000-doors-family-secrets.json"
     },
     {
       "igdb_id": 119031,
@@ -48098,6 +48208,11 @@
       "file": "missing/K/191905-killing-kiss.json"
     },
     {
+      "igdb_id": 79333,
+      "game_name": "Kiloblaster",
+      "file": "missing/K/79333-kiloblaster.json"
+    },
+    {
       "igdb_id": 329968,
       "game_name": "Kimi ga Mita Hikari 2",
       "file": "missing/K/329968-kimi-ga-mita-hikari-2.json"
@@ -48751,6 +48866,11 @@
       "igdb_id": 296669,
       "game_name": "Knockout City: Private Server Edition",
       "file": "missing/K/296669-knockout-city-private-server-edition.json"
+    },
+    {
+      "igdb_id": 79303,
+      "game_name": "Knot in 3D",
+      "file": "missing/K/79303-knot-in-3d.json"
     },
     {
       "igdb_id": 214754,
@@ -52373,6 +52493,11 @@
       "file": "missing/L/172766-lovely-sweet-dream.json"
     },
     {
+      "igdb_id": 79306,
+      "game_name": "Lovely x Cation 1 & 2",
+      "file": "missing/L/79306-lovely-x-cation-1-and-2.json"
+    },
+    {
       "igdb_id": 117041,
       "game_name": "Lovers of Aether",
       "file": "missing/L/117041-lovers-of-aether.json"
@@ -52861,6 +52986,11 @@
       "igdb_id": 200180,
       "game_name": "Macrocosm",
       "file": "missing/M/200180-macrocosm.json"
+    },
+    {
+      "igdb_id": 79292,
+      "game_name": "Macross 30: Voices across the Galaxy",
+      "file": "missing/M/79292-macross-30-voices-across-the-galaxy.json"
     },
     {
       "igdb_id": 192447,
@@ -55411,6 +55541,11 @@
       "igdb_id": 311793,
       "game_name": "Memoria VR",
       "file": "missing/M/311793-memoria-vr.json"
+    },
+    {
+      "igdb_id": 79347,
+      "game_name": "Memorial Series: Sunsoft vol. 1",
+      "file": "missing/M/79347-memorial-series-sunsoft-vol-1.json"
     },
     {
       "igdb_id": 243382,
@@ -60393,6 +60528,11 @@
       "file": "missing/N/243415-naruto-shinobi-breakdown.json"
     },
     {
+      "igdb_id": 79298,
+      "game_name": "Naruto Shippuden: Ultimate Ninja Blazing",
+      "file": "missing/N/79298-naruto-shippuden-ultimate-ninja-blazing.json"
+    },
+    {
       "igdb_id": 275885,
       "game_name": "Naruto To Boruto: Shinobi Stricker - Master Character Training Pack: Boruto Uzumaki (Karma Progression)",
       "file": "missing/N/275885-naruto-to-boruto-shinobi-stricker-master-character-training-pack-boruto-uzumaki-karma-progression.json"
@@ -60401,6 +60541,11 @@
       "igdb_id": 294999,
       "game_name": "Naruto to Boruto: Shinobi Striker - Special Ninjutsu: Wood Style - Wood Golem Jutsu",
       "file": "missing/N/294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json"
+    },
+    {
+      "igdb_id": 79297,
+      "game_name": "Naruto: Ninja Council 2 - European Version",
+      "file": "missing/N/79297-naruto-ninja-council-2-european-version.json"
     },
     {
       "igdb_id": 267081,
@@ -71493,6 +71638,11 @@
       "file": "missing/P/119053-pum.json"
     },
     {
+      "igdb_id": 79307,
+      "game_name": "Pump It Up",
+      "file": "missing/P/79307-pump-it-up.json"
+    },
+    {
       "igdb_id": 341907,
       "game_name": "Pump It Up Exceed 2",
       "file": "missing/P/341907-pump-it-up-exceed-2.json"
@@ -72366,6 +72516,11 @@
       "igdb_id": 147473,
       "game_name": "Questions pour un Champion",
       "file": "missing/Q/147473-questions-pour-un-champion.json"
+    },
+    {
+      "igdb_id": 79305,
+      "game_name": "QuestMania",
+      "file": "missing/Q/79305-questmania.json"
     },
     {
       "igdb_id": 180255,
@@ -75858,6 +76013,11 @@
       "file": "missing/R/141205-robosquare.json"
     },
     {
+      "igdb_id": 79323,
+      "game_name": "Robot Arena: Design & Destroy",
+      "file": "missing/R/79323-robot-arena-design-and-destroy.json"
+    },
+    {
       "igdb_id": 127950,
       "game_name": "Robot Auto Racing Simulator",
       "file": "missing/R/127950-robot-auto-racing-simulator.json"
@@ -76438,6 +76598,11 @@
       "file": "missing/R/312370-rolly-cubes.json"
     },
     {
+      "igdb_id": 79311,
+      "game_name": "ROM Check Fail",
+      "file": "missing/R/79311-rom-check-fail.json"
+    },
+    {
       "igdb_id": 105336,
       "game_name": "Roman the Worm",
       "file": "missing/R/105336-roman-the-worm.json"
@@ -76681,6 +76846,11 @@
       "igdb_id": 297205,
       "game_name": "Roommates",
       "file": "missing/R/297205-roommates.json"
+    },
+    {
+      "igdb_id": 79295,
+      "game_name": "Root Double: Before Crime * After Days",
+      "file": "missing/R/79295-root-double-before-crime-after-days.json"
     },
     {
       "igdb_id": 258186,
@@ -78763,6 +78933,11 @@
       "file": "missing/S/228716-scrabwordle.json"
     },
     {
+      "igdb_id": 79316,
+      "game_name": "Scram 20",
+      "file": "missing/S/79316-scram-20.json"
+    },
+    {
       "igdb_id": 181898,
       "game_name": "Scrap Kings",
       "file": "missing/S/181898-scrap-kings.json"
@@ -80258,6 +80433,11 @@
       "file": "missing/S/182528-shelled-flame.json"
     },
     {
+      "igdb_id": 79294,
+      "game_name": "Shelley Duvall's It's a Bird's Life",
+      "file": "missing/S/79294-shelley-duvalls-its-a-birds-life.json"
+    },
+    {
       "igdb_id": 186885,
       "game_name": "Sheltered Double Pack",
       "file": "missing/S/186885-sheltered-double-pack.json"
@@ -80366,6 +80546,11 @@
       "igdb_id": 327617,
       "game_name": "Shimajiro no Eigo Activity Ehon: ABC Park de Asobou!",
       "file": "missing/S/327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json"
+    },
+    {
+      "igdb_id": 79331,
+      "game_name": "Shin Hayarigami",
+      "file": "missing/S/79331-shin-hayarigami.json"
     },
     {
       "igdb_id": 100817,
@@ -81226,6 +81411,11 @@
       "igdb_id": 82135,
       "game_name": "Simple 2000 Series Portable Vol. 1: The Mahjong",
       "file": "missing/S/82135-simple-2000-series-portable-vol-1-the-mahjong.json"
+    },
+    {
+      "igdb_id": 79351,
+      "game_name": "Simple 500 Series Vol. 2: The Misshitsu kara no Dasshutsu",
+      "file": "missing/S/79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json"
     },
     {
       "igdb_id": 82134,
@@ -88838,9 +89028,24 @@
       "file": "missing/S/157172-super-retro-world.json"
     },
     {
+      "igdb_id": 79344,
+      "game_name": "Super Robot Taisen OE: Operation Extend",
+      "file": "missing/S/79344-super-robot-taisen-oe-operation-extend.json"
+    },
+    {
+      "igdb_id": 79342,
+      "game_name": "Super Robot Taisen Z",
+      "file": "missing/S/79342-super-robot-taisen-z.json"
+    },
+    {
       "igdb_id": 155096,
       "game_name": "Super Robot Wars 30: Limited Edition",
       "file": "missing/S/155096-super-robot-wars-30-limited-edition.json"
+    },
+    {
+      "igdb_id": 79337,
+      "game_name": "Super Robot Wars BX",
+      "file": "missing/S/79337-super-robot-wars-bx.json"
     },
     {
       "igdb_id": 307936,
@@ -92648,6 +92853,11 @@
       "file": "missing/T/306058-the-croaker-the-ice.json"
     },
     {
+      "igdb_id": 79313,
+      "game_name": "The Croods: Prehistoric Party and Rise of the Guardians Combo Pack",
+      "file": "missing/T/79313-the-croods-prehistoric-party-and-rise-of-the-guardians-combo-pack.json"
+    },
+    {
       "igdb_id": 326985,
       "game_name": "The Crows",
       "file": "missing/T/326985-the-crows.json"
@@ -93861,6 +94071,11 @@
       "igdb_id": 225292,
       "game_name": "The I of It",
       "file": "missing/T/225292-the-i-of-it.json"
+    },
+    {
+      "igdb_id": 79352,
+      "game_name": "The Idolmaster: Gravure for You! Vol. 8",
+      "file": "missing/T/79352-the-idolmaster-gravure-for-you-vol-8.json"
     },
     {
       "igdb_id": 97876,
@@ -98883,6 +99098,11 @@
       "file": "missing/T/100813-told-god-the-legacy-of-cthulhu.json"
     },
     {
+      "igdb_id": 79312,
+      "game_name": "Tom & Jerry MMO",
+      "file": "missing/T/79312-tom-and-jerry-mmo.json"
+    },
+    {
       "igdb_id": 138783,
       "game_name": "Tom Clancy's Ghost Recon: Breakpoint - Deep State",
       "file": "missing/T/138783-tom-clancys-ghost-recon-breakpoint-deep-state.json"
@@ -99101,6 +99321,11 @@
       "igdb_id": 188628,
       "game_name": "Tomotoru: Hello Kitty Happy Life",
       "file": "missing/T/188628-tomotoru-hello-kitty-happy-life.json"
+    },
+    {
+      "igdb_id": 79319,
+      "game_name": "Tomy Car Drive Shutsudou! Kinkyuu Sharyou-hen",
+      "file": "missing/T/79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json"
     },
     {
       "igdb_id": 142444,
@@ -101571,6 +101796,11 @@
       "igdb_id": 232670,
       "game_name": "Turochamp",
       "file": "missing/T/232670-turochamp.json"
+    },
+    {
+      "igdb_id": 79302,
+      "game_name": "Turtle Bay",
+      "file": "missing/T/79302-turtle-bay.json"
     },
     {
       "igdb_id": 239346,
@@ -107878,6 +108108,11 @@
       "file": "missing/X/165652-x-force-genesis.json"
     },
     {
+      "igdb_id": 79301,
+      "game_name": "X-Man",
+      "file": "missing/X/79301-x-man.json"
+    },
+    {
       "igdb_id": 112325,
       "game_name": "X-Moon",
       "file": "missing/X/112325-x-moon.json"
@@ -108226,6 +108461,21 @@
       "igdb_id": 268765,
       "game_name": "Yard of the Dead",
       "file": "missing/Y/268765-yard-of-the-dead.json"
+    },
+    {
+      "igdb_id": 79353,
+      "game_name": "Yarudora Series Vol. 1: Double Cast",
+      "file": "missing/Y/79353-yarudora-series-vol-1-double-cast.json"
+    },
+    {
+      "igdb_id": 79349,
+      "game_name": "Yarudora Series Vol. 3: Sampaguita",
+      "file": "missing/Y/79349-yarudora-series-vol-3-sampaguita.json"
+    },
+    {
+      "igdb_id": 79348,
+      "game_name": "Yarudora Series Vol. 4: Yukiwari no Hana",
+      "file": "missing/Y/79348-yarudora-series-vol-4-yukiwari-no-hana.json"
     },
     {
       "igdb_id": 191868,
