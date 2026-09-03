@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exelio | 264350 | [264350-exelio.json](./264350-exelio.json) |
 | Exercise Book Epic | 90659 | [90659-exercise-book-epic.json](./90659-exercise-book-epic.json) |
 | ExerciseSimulator Vol.1 | 309666 | [309666-exercisesimulator-vol-1.json](./309666-exercisesimulator-vol-1.json) |
+| Exerion II: Zorni | 37189 | [37189-exerion-ii-zorni.json](./37189-exerion-ii-zorni.json) |
 | Exhibit of Sorrows | 321126 | [321126-exhibit-of-sorrows.json](./321126-exhibit-of-sorrows.json) |
 | Exhibition | 60014 | [60014-exhibition.json](./60014-exhibition.json) |
 | Exilio | 218712 | [218712-exilio.json](./218712-exilio.json) |
