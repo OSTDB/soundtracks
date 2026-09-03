@@ -1220,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secrets | 178686 | [178686-the-secrets.json](./178686-the-secrets.json) |
 | The Secrets of Hope | 236533 | [236533-the-secrets-of-hope.json](./236533-the-secrets-of-hope.json) |
 | The Senpai | 230521 | [230521-the-senpai.json](./230521-the-senpai.json) |
+| The Sensha | 59418 | [59418-the-sensha.json](./59418-the-sensha.json) |
 | The Settlers 7: Paths to a Kingdom - Conquest: The Empire Expansion | 225912 | [225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json](./225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json) |
 | The Settlers 7: Paths to a Kingdom - The Two Kings | 225911 | [225911-the-settlers-7-paths-to-a-kingdom-the-two-kings.json](./225911-the-settlers-7-paths-to-a-kingdom-the-two-kings.json) |
 | The Settlers: History Edition | 107232 | [107232-the-settlers-history-edition.json](./107232-the-settlers-history-edition.json) |
@@ -1568,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThrustMe Too | 333373 | [333373-thrustme-too.json](./333373-thrustme-too.json) |
 | Thukothea Defender | 159855 | [159855-thukothea-defender.json](./159855-thukothea-defender.json) |
 | Thunder Jumper | 268219 | [268219-thunder-jumper.json](./268219-thunder-jumper.json) |
+| Thunder League | 59407 | [59407-thunder-league.json](./59407-thunder-league.json) |
 | Thunder Roar | 218121 | [218121-thunder-roar.json](./218121-thunder-roar.json) |
 | Thunderblade Saga | 277589 | [277589-thunderblade-saga.json](./277589-thunderblade-saga.json) |
 | Thunderwing | 74427 | [74427-thunderwing.json](./74427-thunderwing.json) |
@@ -2122,6 +2124,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trade City | 257683 | [257683-trade-city.json](./257683-trade-city.json) |
 | Trade Sails | 200718 | [200718-trade-sails.json](./200718-trade-sails.json) |
 | Trader of the Night | 219258 | [219258-trader-of-the-night.json](./219258-trader-of-the-night.json) |
+| Tradewinds Caravan | 59455 | [59455-tradewinds-caravan.json](./59455-tradewinds-caravan.json) |
+| Tradewinds Legends | 59454 | [59454-tradewinds-legends.json](./59454-tradewinds-legends.json) |
+| Tradewinds Odyssey | 59456 | [59456-tradewinds-odyssey.json](./59456-tradewinds-odyssey.json) |
 | Traffic Chase | 173303 | [173303-traffic-chase.json](./173303-traffic-chase.json) |
 | Traffic City | 169476 | [169476-traffic-city.json](./169476-traffic-city.json) |
 | Traffix 3D | 296071 | [296071-traffix-3d.json](./296071-traffix-3d.json) |
@@ -2416,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsunami Cruiser | 184655 | [184655-tsunami-cruiser.json](./184655-tsunami-cruiser.json) |
 | Tsundere Simulator 2 | 221389 | [221389-tsundere-simulator-2.json](./221389-tsundere-simulator-2.json) |
 | Tsuneko Apple | 318235 | [318235-tsuneko-apple.json](./318235-tsuneko-apple.json) |
+| Tsuru Teruhito no Jissen Kabushiki Bi-Game | 59431 | [59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json](./59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json) |
 | Tsuushin Taisen Mahjong: Touryuumon | 67989 | [67989-tsuushin-taisen-mahjong-touryuumon.json](./67989-tsuushin-taisen-mahjong-touryuumon.json) |
 | TTA 1 | 253565 | [253565-tta-1.json](./253565-tta-1.json) |
 | Tu cara me suena: El videojuego | 332817 | [332817-tu-cara-me-suena-el-videojuego.json](./332817-tu-cara-me-suena-el-videojuego.json) |
@@ -2485,6 +2491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Mind: Nobody's Here | 228076 | [228076-twin-mind-nobodys-here.json](./228076-twin-mind-nobodys-here.json) |
 | Twin Shot 2: Good & Evil | 180291 | [180291-twin-shot-2-good-and-evil.json](./180291-twin-shot-2-good-and-evil.json) |
 | Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
+| Twinkle Crusaders GoGo! | 59417 | [59417-twinkle-crusaders-gogo.json](./59417-twinkle-crusaders-gogo.json) |
 | Twinora | 126636 | [126636-twinora.json](./126636-twinora.json) |
 | TwinWorld: Land of Vision | 72099 | [72099-twinworld-land-of-vision.json](./72099-twinworld-land-of-vision.json) |
 | Twist & Turn | 255960 | [255960-twist-and-turn.json](./255960-twist-and-turn.json) |
