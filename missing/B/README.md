@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Catch Bass Fishing | 197944 | [197944-big-catch-bass-fishing.json](./197944-big-catch-bass-fishing.json) |
 | Big Mountain Snowboarding | 88322 | [88322-big-mountain-snowboarding.json](./88322-big-mountain-snowboarding.json) |
 | Big Screen Games: Pack 1 | 197383 | [197383-big-screen-games-pack-1.json](./197383-big-screen-games-pack-1.json) |
+| Big Story Little Heroes | 62741 | [62741-big-story-little-heroes.json](./62741-big-story-little-heroes.json) |
 | Big the Cat in Sonic the Hedgehog | 201296 | [201296-big-the-cat-in-sonic-the-hedgehog.json](./201296-big-the-cat-in-sonic-the-hedgehog.json) |
 | Big's Fishing Quest | 329400 | [329400-bigs-fishing-quest.json](./329400-bigs-fishing-quest.json) |
 | Bigface Marsh | 179179 | [179179-bigface-marsh.json](./179179-bigface-marsh.json) |
@@ -914,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonkers | 177539 | [177539-bonkers.json](./177539-bonkers.json) |
 | Bonza Word Puzzle | 90678 | [90678-bonza-word-puzzle.json](./90678-bonza-word-puzzle.json) |
 | Boofie's Birthday Adventure | 340246 | [340246-boofies-birthday-adventure.json](./340246-boofies-birthday-adventure.json) |
+| Boogaloopers | 62752 | [62752-boogaloopers.json](./62752-boogaloopers.json) |
 | Boogie | 210265 | [210265-boogie.json](./210265-boogie.json) |
 | Book End | 221419 | [221419-book-end.json](./221419-book-end.json) |
 | Book of Mario | 159321 | [159321-book-of-mario.json](./159321-book-of-mario.json) |
@@ -926,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Karts: Multiplayer Kart Racing | 144982 | [144982-boom-karts-multiplayer-kart-racing.json](./144982-boom-karts-multiplayer-kart-racing.json) |
 | Boom Zoo | 297226 | [297226-boom-zoo.json](./297226-boom-zoo.json) |
 | Boom! Boom! | 115691 | [115691-boom-boom.json](./115691-boom-boom.json) |
+| Boom! Tanks | 62778 | [62778-boom-tanks.json](./62778-boom-tanks.json) |
 | Boomblastica | 65520 | [65520-boomblastica.json](./65520-boomblastica.json) |
 | Boomerang RPG | 297248 | [297248-boomerang-rpg.json](./297248-boomerang-rpg.json) |
 | Boosted Survivors | 314666 | [314666-boosted-survivors.json](./314666-boosted-survivors.json) |
