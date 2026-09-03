@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erotic Colouring Book | 110356 | [110356-erotic-colouring-book.json](./110356-erotic-colouring-book.json) |
 | Erotic Jigsaw Puzzle | 156644 | [156644-erotic-jigsaw-puzzle.json](./156644-erotic-jigsaw-puzzle.json) |
 | Erotic Jigsaw Puzzle 2 | 150652 | [150652-erotic-jigsaw-puzzle-2.json](./150652-erotic-jigsaw-puzzle-2.json) |
+| Errand | 57092 | [57092-errand.json](./57092-errand.json) |
 | Errant: Hunter's Soul | 200748 | [200748-errant-hunters-soul.json](./200748-errant-hunters-soul.json) |
 | Error 0: New World Found | 178685 | [178685-error-0-new-world-found.json](./178685-error-0-new-world-found.json) |
 | Error Loop | 329948 | [329948-error-loop.json](./329948-error-loop.json) |
