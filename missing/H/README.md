@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Gear III | 100191 | [100191-heavy-gear-iii.json](./100191-heavy-gear-iii.json) |
 | Heavy Hearts | 219825 | [219825-heavy-hearts.json](./219825-heavy-hearts.json) |
 | Heavy Water Jogger | 73812 | [73812-heavy-water-jogger.json](./73812-heavy-water-jogger.json) |
+| Heavyweight Thunder | 69875 | [69875-heavyweight-thunder.json](./69875-heavyweight-thunder.json) |
 | Hector'39 | 328247 | [328247-hector39.json](./328247-hector39.json) |
 | Hedgehog Launch | 234939 | [234939-hedgehog-launch.json](./234939-hedgehog-launch.json) |
 | Hedgehog Launch 2 | 234940 | [234940-hedgehog-launch-2.json](./234940-hedgehog-launch-2.json) |
@@ -304,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hegzis | 336370 | [336370-hegzis.json](./336370-hegzis.json) |
 | Hēi'àn Liàolǐ | 111705 | [111705-heian-liaoli.json](./111705-heian-liaoli.json) |
 | Heimdallr | 174871 | [174871-heimdallr.json](./174871-heimdallr.json) |
+| Heirs to the Throne | 69893 | [69893-heirs-to-the-throne.json](./69893-heirs-to-the-throne.json) |
 | Heisei Kyouiku Iinkai Jr. Mezase Yuutousei | 303758 | [303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json](./303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json) |
 | Heist | 111050 | [111050-heist.json](./111050-heist.json) |
 | Heist Day | 153983 | [153983-heist-day.json](./153983-heist-day.json) |
