@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Guy: Back to the Multiverse | 264870 | [264870-family-guy-back-to-the-multiverse.json](./264870-family-guy-back-to-the-multiverse.json) |
 | Family Guy: Back to the Multiverse | 264871 | [264871-family-guy-back-to-the-multiverse.json](./264871-family-guy-back-to-the-multiverse.json) |
 | Family Road Trips | 215402 | [215402-family-road-trips.json](./215402-family-road-trips.json) |
+| Family Secret | 75185 | [75185-family-secret.json](./75185-family-secret.json) |
 | Family Town | 219265 | [219265-family-town.json](./219265-family-town.json) |
 | Family Tree! | 274744 | [274744-family-tree.json](./274744-family-tree.json) |
 | Famista 2 | 86101 | [86101-famista-2.json](./86101-famista-2.json) |
@@ -156,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faraway | 325275 | [325275-faraway.json](./325275-faraway.json) |
 | Faraway 4: Ancient Escape | 115052 | [115052-faraway-4-ancient-escape.json](./115052-faraway-4-ancient-escape.json) |
 | Fare Thee Well | 96730 | [96730-fare-thee-well.json](./96730-fare-thee-well.json) |
+| Farethere City | 75151 | [75151-farethere-city.json](./75151-farethere-city.json) |
 | Farewell | 252987 | [252987-farewell.json](./252987-farewell.json) |
 | Farewell, My Dearest Love | 314063 | [314063-farewell-my-dearest-love.json](./314063-farewell-my-dearest-love.json) |
 | Farfalla | 91442 | [91442-farfalla.json](./91442-farfalla.json) |
@@ -216,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Delivery | 323530 | [323530-fatal-delivery.json](./323530-fatal-delivery.json) |
 | Fatal Evidence: Cursed Island - Collector's Edition | 119038 | [119038-fatal-evidence-cursed-island-collectors-edition.json](./119038-fatal-evidence-cursed-island-collectors-edition.json) |
 | Fatal Frame | 321739 | [321739-fatal-frame.json](./321739-fatal-frame.json) |
+| Fatal Heritage | 75150 | [75150-fatal-heritage.json](./75150-fatal-heritage.json) |
 | Fate Commander: Fighting | 273095 | [273095-fate-commander-fighting.json](./273095-fate-commander-fighting.json) |
 | Fate of the Elder Gods | 125454 | [125454-fate-of-the-elder-gods.json](./125454-fate-of-the-elder-gods.json) |
 | Fate/Extella Link: Digital Deluxe Edition | 119067 | [119067-fate-extella-link-digital-deluxe-edition.json](./119067-fate-extella-link-digital-deluxe-edition.json) |
@@ -607,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foam | 138267 | [138267-foam.json](./138267-foam.json) |
 | Foc/us | 223677 | [223677-foc-us.json](./223677-foc-us.json) |
 | Focus indies Bundle: Curse of the Dead Gods + Shady Part of Me + Aeon Must Die! | 187499 | [187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json](./187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json) |
+| Foes.io | 75135 | [75135-foes-io.json](./75135-foes-io.json) |
 | Fog | 201837 | [201837-fog.json](./201837-fog.json) |
 | Folk Song | 317010 | [317010-folk-song.json](./317010-folk-song.json) |
 | Follow My Voice | 179194 | [179194-follow-my-voice.json](./179194-follow-my-voice.json) |
