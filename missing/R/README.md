@@ -178,6 +178,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RayCity | 116391 | [116391-raycity.json](./116391-raycity.json) |
 | Raygraze | 196323 | [196323-raygraze.json](./196323-raygraze.json) |
 | Rayman 3: Hoodlum Havoc Print Studio | 61654 | [61654-rayman-3-hoodlum-havoc-print-studio.json](./61654-rayman-3-hoodlum-havoc-print-studio.json) |
+| Rayman By His Fans | 61097 | [61097-rayman-by-his-fans.json](./61097-rayman-by-his-fans.json) |
+| Rayman Garden | 61095 | [61095-rayman-garden.json](./61095-rayman-garden.json) |
+| Rayman Gold | 61096 | [61096-rayman-gold.json](./61096-rayman-gold.json) |
+| Rayman Golf | 61094 | [61094-rayman-golf.json](./61094-rayman-golf.json) |
+| Rayman Kart | 61091 | [61091-rayman-kart.json](./61091-rayman-kart.json) |
 | Rayman the Fan Series Adventure | 331695 | [331695-rayman-the-fan-series-adventure.json](./331695-rayman-the-fan-series-adventure.json) |
 | Rayman the Fan Series Adventure 2: Curse of the Jade Lum | 331696 | [331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json](./331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json) |
 | Raze 2070 | 151193 | [151193-raze-2070.json](./151193-raze-2070.json) |
@@ -214,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reading World VR | 296082 | [296082-reading-world-vr.json](./296082-reading-world-vr.json) |
 | Ready Action | 196893 | [196893-ready-action.json](./196893-ready-action.json) |
 | Ready Player One: Oasis | 99013 | [99013-ready-player-one-oasis.json](./99013-ready-player-one-oasis.json) |
+| Ready Steady Play | 61073 | [61073-ready-steady-play.json](./61073-ready-steady-play.json) |
 | Ready? Set. Haiya! | 149601 | [149601-ready-set-haiya.json](./149601-ready-set-haiya.json) |
 | Reaktron | 121706 | [121706-reaktron.json](./121706-reaktron.json) |
 | Real Al's Humanity Academy | 115009 | [115009-real-als-humanity-academy.json](./115009-real-als-humanity-academy.json) |
@@ -333,8 +339,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redden | 83576 | [83576-redden.json](./83576-redden.json) |
 | Redeemart: A Convenient Apocalypse | 226448 | [226448-redeemart-a-convenient-apocalypse.json](./226448-redeemart-a-convenient-apocalypse.json) |
 | Redemption | 306063 | [306063-redemption.json](./306063-redemption.json) |
+| Redemption Cemetery: Bitter Frost | 61076 | [61076-redemption-cemetery-bitter-frost.json](./61076-redemption-cemetery-bitter-frost.json) |
+| Redemption Cemetery: Children's Plight | 61079 | [61079-redemption-cemetery-childrens-plight.json](./61079-redemption-cemetery-childrens-plight.json) |
 | Redemption Cemetery: Clock of Fate - Collector's Edition | 83553 | [83553-redemption-cemetery-clock-of-fate-collectors-edition.json](./83553-redemption-cemetery-clock-of-fate-collectors-edition.json) |
+| Redemption Cemetery: Grave Testimony | 61078 | [61078-redemption-cemetery-grave-testimony.json](./61078-redemption-cemetery-grave-testimony.json) |
 | Redemption Cemetery: Grave Testimony - Collector's Edition | 102189 | [102189-redemption-cemetery-grave-testimony-collectors-edition.json](./102189-redemption-cemetery-grave-testimony-collectors-edition.json) |
+| Redemption Cemetery: Salvation of the Lost | 61077 | [61077-redemption-cemetery-salvation-of-the-lost.json](./61077-redemption-cemetery-salvation-of-the-lost.json) |
 | Redemption Cemetery: Terrors | 94776 | [94776-redemption-cemetery-terrors.json](./94776-redemption-cemetery-terrors.json) |
 | RedEx | 163956 | [163956-redex.json](./163956-redex.json) |
 | Reditus: Ashes of Heremus | 230535 | [230535-reditus-ashes-of-heremus.json](./230535-reditus-ashes-of-heremus.json) |
@@ -807,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Drone | 107163 | [107163-rogue-drone.json](./107163-rogue-drone.json) |
 | Rogue Glitch Ultra | 275900 | [275900-rogue-glitch-ultra.json](./275900-rogue-glitch-ultra.json) |
 | Rogue Hands! | 333352 | [333352-rogue-hands.json](./333352-rogue-hands.json) |
+| Rogue Heroes | 61120 | [61120-rogue-heroes.json](./61120-rogue-heroes.json) |
 | Rogue Jungle | 307949 | [307949-rogue-jungle.json](./307949-rogue-jungle.json) |
 | Rogue Kingdoms | 317594 | [317594-rogue-kingdoms.json](./317594-rogue-kingdoms.json) |
 | Rogue Lords: Day One Edition | 199631 | [199631-rogue-lords-day-one-edition.json](./199631-rogue-lords-day-one-edition.json) |
@@ -972,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royalevia | 254764 | [254764-royalevia.json](./254764-royalevia.json) |
 | Rozalin and the Palace of Flowers | 150669 | [150669-rozalin-and-the-palace-of-flowers.json](./150669-rozalin-and-the-palace-of-flowers.json) |
 | Rozen Maiden: Wechseln Sie Welt ab | 86091 | [86091-rozen-maiden-wechseln-sie-welt-ab.json](./86091-rozen-maiden-wechseln-sie-welt-ab.json) |
+| RPG Creator for iOS | 61099 | [61099-rpg-creator-for-ios.json](./61099-rpg-creator-for-ios.json) |
 | RPG Golf with Vampires | 263759 | [263759-rpg-golf-with-vampires.json](./263759-rpg-golf-with-vampires.json) |
 | RPG Tsukuuru 2 Taiou: Organic Stone Honpen | 151167 | [151167-rpg-tsukuuru-2-taiou-organic-stone-honpen.json](./151167-rpg-tsukuuru-2-taiou-organic-stone-honpen.json) |
 | RPG Tsukuuru 2 Taiou: Ryouma de Yuku | 151168 | [151168-rpg-tsukuuru-2-taiou-ryouma-de-yuku.json](./151168-rpg-tsukuuru-2-taiou-ryouma-de-yuku.json) |
