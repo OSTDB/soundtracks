@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou J.League 1999 Perfect Striker | 220858 | [220858-jikkyou-j-league-1999-perfect-striker.json](./220858-jikkyou-j-league-1999-perfect-striker.json) |
 | Jikkyou J.League Perfect Striker 5 | 220863 | [220863-jikkyou-j-league-perfect-striker-5.json](./220863-jikkyou-j-league-perfect-striker-5.json) |
 | Jill O' Lantern: Final Cut | 319360 | [319360-jill-o-lantern-final-cut.json](./319360-jill-o-lantern-final-cut.json) |
+| Jim Henson's The Muppets | 49958 | [49958-jim-hensons-the-muppets.json](./49958-jim-hensons-the-muppets.json) |
 | Jim is Moving Out! | 120433 | [120433-jim-is-moving-out.json](./120433-jim-is-moving-out.json) |
 | Jim's Gym | 241056 | [241056-jims-gym.json](./241056-jims-gym.json) |
 | Jimmy's Soccer Manager | 77377 | [77377-jimmys-soccer-manager.json](./77377-jimmys-soccer-manager.json) |
@@ -268,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpSky | 74472 | [74472-jumpsky.json](./74472-jumpsky.json) |
 | JumpStart 3D Virtual World: Trouble in Town | 200191 | [200191-jumpstart-3d-virtual-world-trouble-in-town.json](./200191-jumpstart-3d-virtual-world-trouble-in-town.json) |
 | JumpStart Math for Kindergarteners | 300415 | [300415-jumpstart-math-for-kindergarteners.json](./300415-jumpstart-math-for-kindergarteners.json) |
+| JumpStart: Dino Adventure Field Trip | 49923 | [49923-jumpstart-dino-adventure-field-trip.json](./49923-jumpstart-dino-adventure-field-trip.json) |
 | Jumpster | 94219 | [94219-jumpster.json](./94219-jumpster.json) |
 | Jumpwad | 228063 | [228063-jumpwad.json](./228063-jumpwad.json) |
 | Jumpy Bunny | 307309 | [307309-jumpy-bunny.json](./307309-jumpy-bunny.json) |
