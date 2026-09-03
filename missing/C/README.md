@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Jigsaw Puzzle Games: Expansion Pack 7 | 263214 | [263214-cat-jigsaw-puzzle-games-expansion-pack-7.json](./263214-cat-jigsaw-puzzle-games-expansion-pack-7.json) |
 | Cat Life | 230525 | [230525-cat-life.json](./230525-cat-life.json) |
 | Cat Sokoban | 135868 | [135868-cat-sokoban.json](./135868-cat-sokoban.json) |
+| Cat vs. Corgis | 54448 | [54448-cat-vs-corgis.json](./54448-cat-vs-corgis.json) |
 | Cat'n'Robot: Idle Defense | 174912 | [174912-catnrobot-idle-defense.json](./174912-catnrobot-idle-defense.json) |
 | Cat's Request | 237043 | [237043-cats-request.json](./237043-cats-request.json) |
 | Cataclysm | 250651 | [250651-cataclysm.json](./250651-cataclysm.json) |
