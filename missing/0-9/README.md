@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 868-Hack: Plan.B | 143096 | [143096-868-hack-plan-b.json](./143096-868-hack-plan-b.json) |
 | 87 Aftermath: A Rolling Ball Game | 154563 | [154563-87-aftermath-a-rolling-ball-game.json](./154563-87-aftermath-a-rolling-ball-game.json) |
 | 8alloween | 320544 | [320544-8alloween.json](./320544-8alloween.json) |
+| 8bit Killer | 65522 | [65522-8bit-killer.json](./65522-8bit-killer.json) |
 | 8bit-Collection Culture Brain Vol. 01 | 97881 | [97881-8bit-collection-culture-brain-vol-01.json](./97881-8bit-collection-culture-brain-vol-01.json) |
 | 8bit-Collection Data East Vol. 01 | 97886 | [97886-8bit-collection-data-east-vol-01.json](./97886-8bit-collection-data-east-vol-01.json) |
 | 8bit-Collection Jaleco Vol. 01 | 97885 | [97885-8bit-collection-jaleco-vol-01.json](./97885-8bit-collection-jaleco-vol-01.json) |
