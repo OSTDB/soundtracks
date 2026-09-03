@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Anything Gallery | 177029 | [177029-the-anything-gallery.json](./177029-the-anything-gallery.json) |
 | The Apothecary's Apprentice | 177571 | [177571-the-apothecarys-apprentice.json](./177571-the-apothecarys-apprentice.json) |
 | The Apple Tree | 208594 | [208594-the-apple-tree.json](./208594-the-apple-tree.json) |
+| The Apprentice: Los Angeles | 73815 | [73815-the-apprentice-los-angeles.json](./73815-the-apprentice-los-angeles.json) |
 | The ​Aquarium Does Not Dance | 243398 | [243398-the-aquarium-does-not-dance.json](./243398-the-aquarium-does-not-dance.json) |
 | The Arcane Tower | 166744 | [166744-the-arcane-tower.json](./166744-the-arcane-tower.json) |
 | The Archer | 311814 | [311814-the-archer.json](./311814-the-archer.json) |
@@ -903,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Spyro: A New Beginning | 300392 | [300392-the-legend-of-spyro-a-new-beginning.json](./300392-the-legend-of-spyro-a-new-beginning.json) |
 | The Legend of Spyro: The Eternal Night | 300393 | [300393-the-legend-of-spyro-the-eternal-night.json](./300393-the-legend-of-spyro-the-eternal-night.json) |
 | The Legend of White Whale | 243945 | [243945-the-legend-of-white-whale.json](./243945-the-legend-of-white-whale.json) |
+| The Legend of Xanadu | 73824 | [73824-the-legend-of-xanadu.json](./73824-the-legend-of-xanadu.json) |
 | The Legend of Zelda: Goddess of Wisdom | 275308 | [275308-the-legend-of-zelda-goddess-of-wisdom.json](./275308-the-legend-of-zelda-goddess-of-wisdom.json) |
 | The Legend of Zelda: Journey of a Day | 269848 | [269848-the-legend-of-zelda-journey-of-a-day.json](./269848-the-legend-of-zelda-journey-of-a-day.json) |
 | The Legend of Zelda: Just Beginning | 324079 | [324079-the-legend-of-zelda-just-beginning.json](./324079-the-legend-of-zelda-just-beginning.json) |
@@ -1141,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Salatroitsk Incident | 180807 | [180807-the-salatroitsk-incident.json](./180807-the-salatroitsk-incident.json) |
 | The Sandbox - Building & Craft | 90705 | [90705-the-sandbox-building-and-craft.json](./90705-the-sandbox-building-and-craft.json) |
 | The Savior's Gang | 115049 | [115049-the-saviors-gang.json](./115049-the-saviors-gang.json) |
+| The Scoop | 73816 | [73816-the-scoop.json](./73816-the-scoop.json) |
 | The Scourge | 267072 | [267072-the-scourge.json](./267072-the-scourge.json) |
 | The Scramble Vice | 266468 | [266468-the-scramble-vice.json](./266468-the-scramble-vice.json) |
 | The Scrapper | 306645 | [306645-the-scrapper.json](./306645-the-scrapper.json) |
@@ -1719,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timerunner | 161900 | [161900-timerunner.json](./161900-timerunner.json) |
 | Times & Galaxy | 248316 | [248316-times-and-galaxy.json](./248316-times-and-galaxy.json) |
 | Times Turn | 185132 | [185132-times-turn.json](./185132-times-turn.json) |
+| TimeScape: Journey to Pompeii | 73819 | [73819-timescape-journey-to-pompeii.json](./73819-timescape-journey-to-pompeii.json) |
 | Timmy the Dream Hunter | 307299 | [307299-timmy-the-dream-hunter.json](./307299-timmy-the-dream-hunter.json) |
 | Timo's Adventures | 143708 | [143708-timos-adventures.json](./143708-timos-adventures.json) |
 | Tin Tandem | 152396 | [152396-tin-tandem.json](./152396-tin-tandem.json) |
