@@ -50,6 +50,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikyou Todai Shogi | 203548 | [203548-saikyou-todai-shogi.json](./203548-saikyou-todai-shogi.json) |
 | Saikyou Todai Shogi 2 | 203549 | [203549-saikyou-todai-shogi-2.json](./203549-saikyou-todai-shogi-2.json) |
 | Sail Simulator 4 | 143740 | [143740-sail-simulator-4.json](./143740-sail-simulator-4.json) |
+| Sailor Fuku Bishoujo Zukan Vol. 1 | 41389 | [41389-sailor-fuku-bishoujo-zukan-vol-1.json](./41389-sailor-fuku-bishoujo-zukan-vol-1.json) |
+| Sailor Fuku Bishoujo Zukan Vol. 2 | 41388 | [41388-sailor-fuku-bishoujo-zukan-vol-2.json](./41388-sailor-fuku-bishoujo-zukan-vol-2.json) |
+| Sailor Fuku Bishoujo Zukan Vol. 3 | 41387 | [41387-sailor-fuku-bishoujo-zukan-vol-3.json](./41387-sailor-fuku-bishoujo-zukan-vol-3.json) |
+| Sailor Fuku Bishoujo Zukan Vol. 4 | 41386 | [41386-sailor-fuku-bishoujo-zukan-vol-4.json](./41386-sailor-fuku-bishoujo-zukan-vol-4.json) |
+| Sailor Fuku Bishoujo Zukan Vol. 5 | 41385 | [41385-sailor-fuku-bishoujo-zukan-vol-5.json](./41385-sailor-fuku-bishoujo-zukan-vol-5.json) |
+| Sailor Fuku Bishoujo Zukan Vol. 6 | 41384 | [41384-sailor-fuku-bishoujo-zukan-vol-6.json](./41384-sailor-fuku-bishoujo-zukan-vol-6.json) |
 | Sailor Fuku to Femme Fatale | 293941 | [293941-sailor-fuku-to-femme-fatale.json](./293941-sailor-fuku-to-femme-fatale.json) |
 | Sailor's Stories Solitaire | 196881 | [196881-sailors-stories-solitaire.json](./196881-sailors-stories-solitaire.json) |
 | Saimazoom | 45326 | [45326-saimazoom.json](./45326-saimazoom.json) |
