@@ -1108,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster 3 | 311266 | [311266-monster-3.json](./311266-monster-3.json) |
 | Monster 4x4 3D | 141860 | [141860-monster-4x4-3d.json](./141860-monster-4x4-3d.json) |
 | Monster Academy | 167307 | [167307-monster-academy.json](./167307-monster-academy.json) |
+| Monster Adventures | 61088 | [61088-monster-adventures.json](./61088-monster-adventures.json) |
 | Monster Arena | 101572 | [101572-monster-arena.json](./101572-monster-arena.json) |
 | Monster Bang | 233764 | [233764-monster-bang.json](./233764-monster-bang.json) |
 | Monster Box | 68717 | [68717-monster-box.json](./68717-monster-box.json) |
@@ -1351,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Pumpkin 2: Kowloon Walled City | 126666 | [126666-mr-pumpkin-2-kowloon-walled-city.json](./126666-mr-pumpkin-2-kowloon-walled-city.json) |
 | Mr. Pumpkin Series Bundle | 173799 | [173799-mr-pumpkin-series-bundle.json](./173799-mr-pumpkin-series-bundle.json) |
 | Mr. Rightaway | 341341 | [341341-mr-rightaway.json](./341341-mr-rightaway.json) |
+| Mr. Setam: Lady Killer | 61118 | [61118-mr-setam-lady-killer.json](./61118-mr-setam-lady-killer.json) |
 | Mr. Steal Yo Wifi | 107200 | [107200-mr-steal-yo-wifi.json](./107200-mr-steal-yo-wifi.json) |
 | Mr. Supershot | 274736 | [274736-mr-supershot.json](./274736-mr-supershot.json) |
 | Mr.Ninja!! Fever | 248283 | [248283-mr-ninja-fever.json](./248283-mr-ninja-fever.json) |
@@ -1568,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of Camp Enigma | 147447 | [147447-mystery-of-camp-enigma.json](./147447-mystery-of-camp-enigma.json) |
 | Mystery of Munroe Manor | 298865 | [298865-mystery-of-munroe-manor.json](./298865-mystery-of-munroe-manor.json) |
 | Mystery of the Ancients: Mudwater Creek | 74415 | [74415-mystery-of-the-ancients-mudwater-creek.json](./74415-mystery-of-the-ancients-mudwater-creek.json) |
+| Mystery of the Lost Temples | 61103 | [61103-mystery-of-the-lost-temples.json](./61103-mystery-of-the-lost-temples.json) |
 | Mystery of the Opera | 94792 | [94792-mystery-of-the-opera.json](./94792-mystery-of-the-opera.json) |
 | Mystery of Time and Space | 78675 | [78675-mystery-of-time-and-space.json](./78675-mystery-of-time-and-space.json) |
 | Mystery P.I.: Stolen in San Francisco | 80549 | [80549-mystery-p-i-stolen-in-san-francisco.json](./80549-mystery-p-i-stolen-in-san-francisco.json) |
