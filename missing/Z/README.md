@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Fire: Toaplan Arcade Garage | 246668 | [246668-zero-fire-toaplan-arcade-garage.json](./246668-zero-fire-toaplan-arcade-garage.json) |
 | Zero Hour | 151730 | [151730-zero-hour.json](./151730-zero-hour.json) |
 | Zero King | 293912 | [293912-zero-king.json](./293912-zero-king.json) |
+| Zero no Tsukaima: Ko-akuma to Harukaze no Concerto | 72685 | [72685-zero-no-tsukaima-ko-akuma-to-harukaze-no-concerto.json](./72685-zero-no-tsukaima-ko-akuma-to-harukaze-no-concerto.json) |
 | Zero Ops | 213626 | [213626-zero-ops.json](./213626-zero-ops.json) |
 | Zero Zero | 130361 | [130361-zero-zero.json](./130361-zero-zero.json) |
 | Zerone 2D | 161899 | [161899-zerone-2d.json](./161899-zerone-2d.json) |
