@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frank Fux | 294422 | [294422-frank-fux.json](./294422-frank-fux.json) |
 | Frank's Adventure | 191258 | [191258-franks-adventure.json](./191258-franks-adventure.json) |
 | Franken Girl | 208014 | [208014-franken-girl.json](./208014-franken-girl.json) |
+| Frankenstein | 37191 | [37191-frankenstein.json](./37191-frankenstein.json) |
 | Frankenstein: The Village | 177050 | [177050-frankenstein-the-village.json](./177050-frankenstein-the-village.json) |
 | Frankie's FunClub | 340244 | [340244-frankies-funclub.json](./340244-frankies-funclub.json) |
 | Franklin the Turtle | 49400 | [49400-franklin-the-turtle.json](./49400-franklin-the-turtle.json) |
