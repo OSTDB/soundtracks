@@ -402,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter's Journey | 306096 | [306096-peters-journey.json](./306096-peters-journey.json) |
 | PetHotel | 101581 | [101581-pethotel.json](./101581-pethotel.json) |
 | Petite Wife Devotes Herself to You | 98438 | [98438-petite-wife-devotes-herself-to-you.json](./98438-petite-wife-devotes-herself-to-you.json) |
+| Petrichor | 60540 | [60540-petrichor.json](./60540-petrichor.json) |
 | Petrol Blood | 156134 | [156134-petrol-blood.json](./156134-petrol-blood.json) |
 | Petrol Station Sim | 263780 | [263780-petrol-station-sim.json](./263780-petrol-station-sim.json) |
 | Petroleum Explore: Drill & Sell | 227504 | [227504-petroleum-explore-drill-and-sell.json](./227504-petroleum-explore-drill-and-sell.json) |
@@ -942,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal done Half-Life Source | 323554 | [323554-portal-done-half-life-source.json](./323554-portal-done-half-life-source.json) |
 | Portal Rescue | 180809 | [180809-portal-rescue.json](./180809-portal-rescue.json) |
 | Portal: Google Translate Edition | 313478 | [313478-portal-google-translate-edition.json](./313478-portal-google-translate-edition.json) |
+| Portalnauts | 60589 | [60589-portalnauts.json](./60589-portalnauts.json) |
 | Portals of P'Thaal | 142459 | [142459-portals-of-pthaal.json](./142459-portals-of-pthaal.json) |
 | Porterminus | 265954 | [265954-porterminus.json](./265954-porterminus.json) |
 | Portile | 322360 | [322360-portile.json](./322360-portile.json) |
@@ -976,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Chess | 79900 | [79900-power-chess.json](./79900-power-chess.json) |
 | Power On: Energy Flow | 292816 | [292816-power-on-energy-flow.json](./292816-power-on-energy-flow.json) |
 | Power Pipes | 146913 | [146913-power-pipes.json](./146913-power-pipes.json) |
+| Power Plays | 60548 | [60548-power-plays.json](./60548-power-plays.json) |
 | Power Pointer | 335080 | [335080-power-pointer.json](./335080-power-pointer.json) |
 | Power Quest Survivors | 295558 | [295558-power-quest-survivors.json](./295558-power-quest-survivors.json) |
 | Power Racing Bundle 3 | 152353 | [152353-power-racing-bundle-3.json](./152353-power-racing-bundle-3.json) |
@@ -984,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers: Battle for the Grid - Collector's Edition | 119069 | [119069-power-rangers-battle-for-the-grid-collectors-edition.json](./119069-power-rangers-battle-for-the-grid-collectors-edition.json) |
 | Power Rangers: Battle for the Grid - Digital Collector's Edition | 205276 | [205276-power-rangers-battle-for-the-grid-digital-collectors-edition.json](./205276-power-rangers-battle-for-the-grid-digital-collectors-edition.json) |
 | Power Solenoid | 251845 | [251845-power-solenoid.json](./251845-power-solenoid.json) |
+| Powerama | 60582 | [60582-powerama.json](./60582-powerama.json) |
 | PowerHits: BattleTech | 69864 | [69864-powerhits-battletech.json](./69864-powerhits-battletech.json) |
 | Powerline.io | 191257 | [191257-powerline-io.json](./191257-powerline-io.json) |
 | PowerSimulator | 251808 | [251808-powersimulator.json](./251808-powersimulator.json) |
