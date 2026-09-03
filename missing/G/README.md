@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl's Blossom Project: Unbelievable Real Love | 245022 | [245022-girls-blossom-project-unbelievable-real-love.json](./245022-girls-blossom-project-unbelievable-real-love.json) |
 | Girl's Memories | 295569 | [295569-girls-memories.json](./295569-girls-memories.json) |
 | Girlfriend Cards | 106582 | [106582-girlfriend-cards.json](./106582-girlfriend-cards.json) |
+| Girlfriend Note | 58812 | [58812-girlfriend-note.json](./58812-girlfriend-note.json) |
 | Girlish Love Revolution | 80610 | [80610-girlish-love-revolution.json](./80610-girlish-love-revolution.json) |
 | GirlJail | 97348 | [97348-girljail.json](./97348-girljail.json) |
 | Girls Legend | 196303 | [196303-girls-legend.json](./196303-girls-legend.json) |
