@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | F-16 Multirole Fighter | 72715 | [72715-f-16-multirole-fighter.json](./72715-f-16-multirole-fighter.json) |
 | F-16 Renegade | 66706 | [66706-f-16-renegade.json](./66706-f-16-renegade.json) |
+| F-18 Thunder Strike | 49931 | [49931-f-18-thunder-strike.json](./49931-f-18-thunder-strike.json) |
 | F-Rank Hero Story | 186323 | [186323-f-rank-hero-story.json](./186323-f-rank-hero-story.json) |
 | F-Zero X Climax | 135258 | [135258-f-zero-x-climax.json](./135258-f-zero-x-climax.json) |
 | F1 Circus MD | 125458 | [125458-f1-circus-md.json](./125458-f1-circus-md.json) |
