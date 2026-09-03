@@ -132,6 +132,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperly: Paper Plane Adventure | 194040 | [194040-paperly-paper-plane-adventure.json](./194040-paperly-paper-plane-adventure.json) |
 | PaperPlanets | 106612 | [106612-paperplanets.json](./106612-paperplanets.json) |
 | Paperquarium | 249458 | [249458-paperquarium.json](./249458-paperquarium.json) |
+| PapiCatch | 87241 | [87241-papicatch.json](./87241-papicatch.json) |
+| PapiFlap | 87249 | [87249-papiflap.json](./87249-papiflap.json) |
+| PapiMountain | 87234 | [87234-papimountain.json](./87234-papimountain.json) |
 | Par 1 Golf 10 | 200181 | [200181-par-1-golf-10.json](./200181-par-1-golf-10.json) |
 | Para-sol | 309651 | [309651-para-sol.json](./309651-para-sol.json) |
 | Parachute Ninja | 232671 | [232671-parachute-ninja.json](./232671-parachute-ninja.json) |
@@ -436,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piano: Learn and Play - Complete + | 328827 | [328827-piano-learn-and-play-complete.json](./328827-piano-learn-and-play-complete.json) |
 | Piano: Learn and Play - Ultra Director's Cut | 328828 | [328828-piano-learn-and-play-ultra-directors-cut.json](./328828-piano-learn-and-play-ultra-directors-cut.json) |
 | Piccadilly's Puzzle Museum | 126015 | [126015-piccadillys-puzzle-museum.json](./126015-piccadillys-puzzle-museum.json) |
+| Pick & Match | 87223 | [87223-pick-and-match.json](./87223-pick-and-match.json) |
 | Pick Me Pick Me | 321125 | [321125-pick-me-pick-me.json](./321125-pick-me-pick-me.json) |
 | Pick My Heart Chapter 1 | 324132 | [324132-pick-my-heart-chapter-1.json](./324132-pick-my-heart-chapter-1.json) |
 | Pick My Heart Chapter 2 | 324131 | [324131-pick-my-heart-chapter-2.json](./324131-pick-my-heart-chapter-2.json) |
@@ -1272,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PyNori | 336921 | [336921-pynori.json](./336921-pynori.json) |
 | Pyramid Bloxx | 194657 | [194657-pyramid-bloxx.json](./194657-pyramid-bloxx.json) |
 | Pyramid Game | 310185 | [310185-pyramid-game.json](./310185-pyramid-game.json) |
+| Pyramid Solitaire Cards | 87315 | [87315-pyramid-solitaire-cards.json](./87315-pyramid-solitaire-cards.json) |
 | Pyramid Solitaire Saga | 89248 | [89248-pyramid-solitaire-saga.json](./89248-pyramid-solitaire-saga.json) |
 | Pyramida | 136491 | [136491-pyramida.json](./136491-pyramida.json) |
 | Pyramids and Aliens: Escape Room | 295019 | [295019-pyramids-and-aliens-escape-room.json](./295019-pyramids-and-aliens-escape-room.json) |
