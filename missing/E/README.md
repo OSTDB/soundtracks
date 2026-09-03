@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E's Laf | 135884 | [135884-es-laf.json](./135884-es-laf.json) |
 | E's Laf++ | 135903 | [135903-es-laf.json](./135903-es-laf.json) |
 | EA Replay 2 | 209176 | [209176-ea-replay-2.json](./209176-ea-replay-2.json) |
+| Eagle Eye Mysteries | 70962 | [70962-eagle-eye-mysteries.json](./70962-eagle-eye-mysteries.json) |
 | Eagle Knight Paradox | 217549 | [217549-eagle-knight-paradox.json](./217549-eagle-knight-paradox.json) |
 | Eagle: Special Forces | 333383 | [333383-eagle-special-forces.json](./333383-eagle-special-forces.json) |
 | Earl Bobby is looking for his Balls | 78686 | [78686-earl-bobby-is-looking-for-his-balls.json](./78686-earl-bobby-is-looking-for-his-balls.json) |
@@ -241,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encodya: Save the World Edition | 154533 | [154533-encodya-save-the-world-edition.json](./154533-encodya-save-the-world-edition.json) |
 | Encounter | 81445 | [81445-encounter.json](./81445-encounter.json) |
 | End of Days | 151183 | [151183-end-of-days.json](./151183-end-of-days.json) |
+| End of Twilight | 70973 | [70973-end-of-twilight.json](./70973-end-of-twilight.json) |
 | End of War 1945 | 127377 | [127377-end-of-war-1945.json](./127377-end-of-war-1945.json) |
 | Endeavor | 228677 | [228677-endeavor.json](./228677-endeavor.json) |
 | Ender IO | 232676 | [232676-ender-io.json](./232676-ender-io.json) |
@@ -308,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Food Fight | 114402 | [114402-epic-food-fight.json](./114402-epic-food-fight.json) |
 | Epic Food Fight VR | 117075 | [117075-epic-food-fight-vr.json](./117075-epic-food-fight-vr.json) |
 | Epic Party Clicker | 314632 | [314632-epic-party-clicker.json](./314632-epic-party-clicker.json) |
+| Epic Skater | 70999 | [70999-epic-skater.json](./70999-epic-skater.json) |
 | Epicedium | 102797 | [102797-epicedium.json](./102797-epicedium.json) |
 | Epicinium | 82124 | [82124-epicinium.json](./82124-epicinium.json) |
 | Epsilon wars | 167296 | [167296-epsilon-wars.json](./167296-epsilon-wars.json) |
