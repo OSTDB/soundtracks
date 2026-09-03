@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniMap Kingdom | 166743 | [166743-minimap-kingdom.json](./166743-minimap-kingdom.json) |
 | MinMe | 241050 | [241050-minme.json](./241050-minme.json) |
 | Minos Starfighter VR | 104639 | [104639-minos-starfighter-vr.json](./104639-minos-starfighter-vr.json) |
+| Minotaur Rescue | 94757 | [94757-minotaur-rescue.json](./94757-minotaur-rescue.json) |
 | MinQ | 322348 | [322348-minq.json](./322348-minq.json) |
 | Minubeat | 199083 | [199083-minubeat.json](./199083-minubeat.json) |
 | Minute Knights | 221379 | [221379-minute-knights.json](./221379-minute-knights.json) |
@@ -1396,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Masters: Wicked Worlds Collection | 201860 | [201860-mystery-masters-wicked-worlds-collection.json](./201860-mystery-masters-wicked-worlds-collection.json) |
 | Mystery of Camp Enigma | 147447 | [147447-mystery-of-camp-enigma.json](./147447-mystery-of-camp-enigma.json) |
 | Mystery of Munroe Manor | 298865 | [298865-mystery-of-munroe-manor.json](./298865-mystery-of-munroe-manor.json) |
+| Mystery of the Opera | 94792 | [94792-mystery-of-the-opera.json](./94792-mystery-of-the-opera.json) |
 | Mystery Solitaire: Cthulhu Mythos 2 | 251852 | [251852-mystery-solitaire-cthulhu-mythos-2.json](./251852-mystery-solitaire-cthulhu-mythos-2.json) |
 | Mystery Solitaire: Cthulhu Mythos 3 | 270966 | [270966-mystery-solitaire-cthulhu-mythos-3.json](./270966-mystery-solitaire-cthulhu-mythos-3.json) |
 | Mystery Solitaire: The Black Raven 5 | 254756 | [254756-mystery-solitaire-the-black-raven-5.json](./254756-mystery-solitaire-the-black-raven-5.json) |
