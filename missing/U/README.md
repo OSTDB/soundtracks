@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unholy Arts | 135882 | [135882-unholy-arts.json](./135882-unholy-arts.json) |
 | Uni | 145684 | [145684-uni.json](./145684-uni.json) |
 | Unicorn | 223672 | [223672-unicorn.json](./223672-unicorn.json) |
+| Unicorn Coloring Book | 96076 | [96076-unicorn-coloring-book.json](./96076-unicorn-coloring-book.json) |
 | Unicorn Wars | 338588 | [338588-unicorn-wars.json](./338588-unicorn-wars.json) |
 | Union of Gnomes | 213004 | [213004-union-of-gnomes.json](./213004-union-of-gnomes.json) |
 | UniqKiller: Urban Shooter | 323514 | [323514-uniqkiller-urban-shooter.json](./323514-uniqkiller-urban-shooter.json) |
