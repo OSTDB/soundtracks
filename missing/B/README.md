@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Become a pig | 205244 | [205244-become-a-pig.json](./205244-become-a-pig.json) |
 | Becut | 309665 | [309665-becut.json](./309665-becut.json) |
 | Bed Survival | 145648 | [145648-bed-survival.json](./145648-bed-survival.json) |
+| Bedlamball | 51985 | [51985-bedlamball.json](./51985-bedlamball.json) |
 | BeeBop II | 336888 | [336888-beebop-ii.json](./336888-beebop-ii.json) |
 | BeeFender | 89267 | [89267-beefender.json](./89267-beefender.json) |
 | Beeftown Beatdown | 238769 | [238769-beeftown-beatdown.json](./238769-beeftown-beatdown.json) |
@@ -571,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Deep | 225259 | [225259-beyond-the-deep.json](./225259-beyond-the-deep.json) |
 | Beyond the Evil | 161365 | [161365-beyond-the-evil.json](./161365-beyond-the-evil.json) |
 | Beyond the Grove | 341905 | [341905-beyond-the-grove.json](./341905-beyond-the-grove.json) |
+| Beyond the Horizon | 51984 | [51984-beyond-the-horizon.json](./51984-beyond-the-horizon.json) |
 | Beyond the Ice Palace II | 297231 | [297231-beyond-the-ice-palace-ii.json](./297231-beyond-the-ice-palace-ii.json) |
 | Beyond the Sideline Football | 62223 | [62223-beyond-the-sideline-football.json](./62223-beyond-the-sideline-football.json) |
 | Beyond the Sunset | 68671 | [68671-beyond-the-sunset.json](./68671-beyond-the-sunset.json) |
@@ -759,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazin' Aces | 61107 | [61107-blazin-aces.json](./61107-blazin-aces.json) |
 | Blazing Legion: Ignition | 78064 | [78064-blazing-legion-ignition.json](./78064-blazing-legion-ignition.json) |
 | Bleak Frontier | 258707 | [258707-bleak-frontier.json](./258707-bleak-frontier.json) |
+| Bleeding Kansas | 51939 | [51939-bleeding-kansas.json](./51939-bleeding-kansas.json) |
 | Blendamaze | 101530 | [101530-blendamaze.json](./101530-blendamaze.json) |
 | Blendy 2 Dolls Factory | 129758 | [129758-blendy-2-dolls-factory.json](./129758-blendy-2-dolls-factory.json) |
 | Blight Dream | 121029 | [121029-blight-dream.json](./121029-blight-dream.json) |
@@ -1271,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug & Seek: Weevils DLC | 298342 | [298342-bug-and-seek-weevils-dlc.json](./298342-bug-and-seek-weevils-dlc.json) |
 | Bug Dates | 206974 | [206974-bug-dates.json](./206974-bug-dates.json) |
 | Bug Hunter | 317575 | [317575-bug-hunter.json](./317575-bug-hunter.json) |
+| Bug Killers | 51958 | [51958-bug-killers.json](./51958-bug-killers.json) |
 | Bug-o-Buster | 322985 | [322985-bug-o-buster.json](./322985-bug-o-buster.json) |
 | Bugdas | 113721 | [113721-bugdas.json](./113721-bugdas.json) |
 | Bugger Off! | 278712 | [278712-bugger-off.json](./278712-bugger-off.json) |
