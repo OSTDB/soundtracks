@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Conversation With a Magical Deer | 320562 | [320562-a-conversation-with-a-magical-deer.json](./320562-a-conversation-with-a-magical-deer.json) |
 | A Cosmic Forest | 145672 | [145672-a-cosmic-forest.json](./145672-a-cosmic-forest.json) |
 | A Couple of Cubes | 153409 | [153409-a-couple-of-cubes.json](./153409-a-couple-of-cubes.json) |
+| A Dark and Deadly Path | 73278 | [73278-a-dark-and-deadly-path.json](./73278-a-dark-and-deadly-path.json) |
 | A Dark Ice Saga: The Rescue | 158223 | [158223-a-dark-ice-saga-the-rescue.json](./158223-a-dark-ice-saga-the-rescue.json) |
 | A Dark Place | 274228 | [274228-a-dark-place.json](./274228-a-dark-place.json) |
 | A Dark Place | 301587 | [301587-a-dark-place.json](./301587-a-dark-place.json) |
@@ -388,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent of Chaos | 157170 | [157170-agent-of-chaos.json](./157170-agent-of-chaos.json) |
 | Agent Roy: Secure the Temple | 229331 | [229331-agent-roy-secure-the-temple.json](./229331-agent-roy-secure-the-temple.json) |
 | Agent Sorry | 208011 | [208011-agent-sorry.json](./208011-agent-sorry.json) |
+| Agharta: The Hollow Earth | 73280 | [73280-agharta-the-hollow-earth.json](./73280-agharta-the-hollow-earth.json) |
 | Agi Gongnyong Dooly | 86107 | [86107-agi-gongnyong-dooly.json](./86107-agi-gongnyong-dooly.json) |
 | Agnostiko | 224212 | [224212-agnostiko.json](./224212-agnostiko.json) |
 | Agony VR | 197402 | [197402-agony-vr.json](./197402-agony-vr.json) |
@@ -529,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Harvest Leader | 141890 | [141890-alien-harvest-leader.json](./141890-alien-harvest-leader.json) |
 | Alien Invasion | 273129 | [273129-alien-invasion.json](./273129-alien-invasion.json) |
 | Alien Nations Mission Pack | 73810 | [73810-alien-nations-mission-pack.json](./73810-alien-nations-mission-pack.json) |
+| Alien Olympics | 73317 | [73317-alien-olympics.json](./73317-alien-olympics.json) |
 | Alien Panic! | 222524 | [222524-alien-panic.json](./222524-alien-panic.json) |
 | Alien Paradise | 292312 | [292312-alien-paradise.json](./292312-alien-paradise.json) |
 | Alien Planet Bell | 302130 | [302130-alien-planet-bell.json](./302130-alien-planet-bell.json) |
