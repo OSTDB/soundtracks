@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lapse | 111699 | [111699-lapse.json](./111699-lapse.json) |
 | Lapso | 126618 | [126618-lapso.json](./126618-lapso.json) |
 | Largo | 292285 | [292285-largo.json](./292285-largo.json) |
+| Larry Lotter and the Test of Time | 57096 | [57096-larry-lotter-and-the-test-of-time.json](./57096-larry-lotter-and-the-test-of-time.json) |
 | Larry the Dinosaur 2: Something in the Cola | 217509 | [217509-larry-the-dinosaur-2-something-in-the-cola.json](./217509-larry-the-dinosaur-2-something-in-the-cola.json) |
 | Larry: Wet Dreams Dry Twice | 200194 | [200194-larry-wet-dreams-dry-twice.json](./200194-larry-wet-dreams-dry-twice.json) |
 | Lars the Wanderer | 145652 | [145652-lars-the-wanderer.json](./145652-lars-the-wanderer.json) |
