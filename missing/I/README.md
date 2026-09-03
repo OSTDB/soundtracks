@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inventor Labs | 94242 | [94242-inventor-labs.json](./94242-inventor-labs.json) |
 | Inverness Nights | 134676 | [134676-inverness-nights.json](./134676-inverness-nights.json) |
 | Inverse Ninjas vs. The Public Domain | 277593 | [277593-inverse-ninjas-vs-the-public-domain.json](./277593-inverse-ninjas-vs-the-public-domain.json) |
+| Investation | 92527 | [92527-investation.json](./92527-investation.json) |
 | Invincible Fins | 157162 | [157162-invincible-fins.json](./157162-invincible-fins.json) |
 | Invincible: Guarding the Globe | 257102 | [257102-invincible-guarding-the-globe.json](./257102-invincible-guarding-the-globe.json) |
 | Invisible | 178671 | [178671-invisible.json](./178671-invisible.json) |
@@ -387,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible Beasts | 183040 | [183040-invisible-beasts.json](./183040-invisible-beasts.json) |
 | Invisible: Story Extension | 168364 | [168364-invisible-story-extension.json](./168364-invisible-story-extension.json) |
 | Inzo | 99609 | [99609-inzo.json](./99609-inzo.json) |
+| IonballEX | 92515 | [92515-ionballex.json](./92515-ionballex.json) |
 | Ippan Mario | 268193 | [268193-ippan-mario.json](./268193-ippan-mario.json) |
 | Iragon | 115664 | [115664-iragon.json](./115664-iragon.json) |
 | Iraroji VOW | 191867 | [191867-iraroji-vow.json](./191867-iraroji-vow.json) |
