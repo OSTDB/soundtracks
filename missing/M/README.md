@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario 128 | 130354 | [130354-mario-128.json](./130354-mario-128.json) |
 | Mario 64 x Banjo Kazooie | 134018 | [134018-mario-64-x-banjo-kazooie.json](./134018-mario-64-x-banjo-kazooie.json) |
 | Mario 7-in-1 | 242230 | [242230-mario-7-in-1.json](./242230-mario-7-in-1.json) |
+| Mario and Donkey Kong: Minis on the Move + Mario vs. Donkey Kong: Minis March Again! | 60579 | [60579-mario-and-donkey-kong-minis-on-the-move-mario-vs-donkey-kong-minis-march-again.json](./60579-mario-and-donkey-kong-minis-on-the-move-mario-vs-donkey-kong-minis-march-again.json) |
 | Mario Artist: Game Maker | 175951 | [175951-mario-artist-game-maker.json](./175951-mario-artist-game-maker.json) |
 | Mario Artist: Graphical Message Maker | 175952 | [175952-mario-artist-graphical-message-maker.json](./175952-mario-artist-graphical-message-maker.json) |
 | Mario Artist: Sound Maker | 175953 | [175953-mario-artist-sound-maker.json](./175953-mario-artist-sound-maker.json) |
@@ -791,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miguelshroom: First Day at School | 149593 | [149593-miguelshroom-first-day-at-school.json](./149593-miguelshroom-first-day-at-school.json) |
 | Mika Dozer Spin | 90693 | [90693-mika-dozer-spin.json](./90693-mika-dozer-spin.json) |
 | Mikagami Sumika No Seifuku Katsudou | 147446 | [147446-mikagami-sumika-no-seifuku-katsudou.json](./147446-mikagami-sumika-no-seifuku-katsudou.json) |
+| Mikagura Shoujo Tanteidan | 60575 | [60575-mikagura-shoujo-tanteidan.json](./60575-mikagura-shoujo-tanteidan.json) |
 | Mike's Paper Mario Adventure | 324110 | [324110-mikes-paper-mario-adventure.json](./324110-mikes-paper-mario-adventure.json) |
 | Mikey Boots | 140610 | [140610-mikey-boots.json](./140610-mikey-boots.json) |
 | Miku Legends 2 | 328207 | [328207-miku-legends-2.json](./328207-miku-legends-2.json) |
@@ -1115,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Busters: Hexa Blast | 242793 | [242793-monster-busters-hexa-blast.json](./242793-monster-busters-hexa-blast.json) |
 | Monster Care Simulator | 326387 | [326387-monster-care-simulator.json](./326387-monster-care-simulator.json) |
 | Monster Charmer | 310724 | [310724-monster-charmer.json](./310724-monster-charmer.json) |
+| Monster Chase | 60566 | [60566-monster-chase.json](./60566-monster-chase.json) |
 | Monster Club | 185144 | [185144-monster-club.json](./185144-monster-club.json) |
 | Monster Commanders | 310720 | [310720-monster-commanders.json](./310720-monster-commanders.json) |
 | Monster Fair | 218156 | [218156-monster-fair.json](./218156-monster-fair.json) |
