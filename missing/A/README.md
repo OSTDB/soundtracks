@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | About Love and Hate 2 | 173805 | [173805-about-love-and-hate-2.json](./173805-about-love-and-hate-2.json) |
 | Above Below | 216462 | [216462-above-below.json](./216462-above-below.json) |
 | Above the Stars | 148555 | [148555-above-the-stars.json](./148555-above-the-stars.json) |
+| Above Top Secret | 51996 | [51996-above-top-secret.json](./51996-above-top-secret.json) |
 | AbraTabia Kingdom | 301593 | [301593-abratabia-kingdom.json](./301593-abratabia-kingdom.json) |
 | Abrix 2: Diamond Version | 307324 | [307324-abrix-2-diamond-version.json](./307324-abrix-2-diamond-version.json) |
 | Absence Request | 76618 | [76618-absence-request.json](./76618-absence-request.json) |
@@ -415,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent of Chaos | 157170 | [157170-agent-of-chaos.json](./157170-agent-of-chaos.json) |
 | Agent Roy: Secure the Temple | 229331 | [229331-agent-roy-secure-the-temple.json](./229331-agent-roy-secure-the-temple.json) |
 | Agent Sorry | 208011 | [208011-agent-sorry.json](./208011-agent-sorry.json) |
+| Agents of Mayhem: Day One Edition | 52015 | [52015-agents-of-mayhem-day-one-edition.json](./52015-agents-of-mayhem-day-one-edition.json) |
 | Agharta: The Hollow Earth | 73280 | [73280-agharta-the-hollow-earth.json](./73280-agharta-the-hollow-earth.json) |
 | Agi Gongnyong Dooly | 86107 | [86107-agi-gongnyong-dooly.json](./86107-agi-gongnyong-dooly.json) |
 | Agnostiko | 224212 | [224212-agnostiko.json](./224212-agnostiko.json) |
@@ -460,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Racing VR | 192445 | [192445-air-racing-vr.json](./192445-air-racing-vr.json) |
 | Air Raid Over Britain | 89949 | [89949-air-raid-over-britain.json](./89949-air-raid-over-britain.json) |
 | Air Traffic Controller Airport Hero 3D New Chitose with JAL | 222522 | [222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json](./222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json) |
+| Air Traffic Disruptor | 51990 | [51990-air-traffic-disruptor.json](./51990-air-traffic-disruptor.json) |
 | Airborne! | 95457 | [95457-airborne.json](./95457-airborne.json) |
 | Aircraft War: Extra Level Pack 2 | 263196 | [263196-aircraft-war-extra-level-pack-2.json](./263196-aircraft-war-extra-level-pack-2.json) |
 | AirFighter | 193485 | [193485-airfighter.json](./193485-airfighter.json) |
@@ -1278,6 +1281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astonishing Baseball 22 | 262081 | [262081-astonishing-baseball-22.json](./262081-astonishing-baseball-22.json) |
 | Astra Protocol 2: Audio Pack | 309660 | [309660-astra-protocol-2-audio-pack.json](./309660-astra-protocol-2-audio-pack.json) |
 | Astra: Fading Stars | 143124 | [143124-astra-fading-stars.json](./143124-astra-fading-stars.json) |
+| Astral Traveler | 51973 | [51973-astral-traveler.json](./51973-astral-traveler.json) |
 | AstralAir no Shiroki Towa Finale: Shiroki Hoshi no Yume | 137105 | [137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json](./137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json) |
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
 | Astrela Starlight | 107914 | [107914-astrela-starlight.json](./107914-astrela-starlight.json) |
