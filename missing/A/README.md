@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aard and Wyzz: The rise of minions | 309102 | [309102-aard-and-wyzz-the-rise-of-minions.json](./309102-aard-and-wyzz-the-rise-of-minions.json) |
 | Aardwolf MUD | 228684 | [228684-aardwolf-mud.json](./228684-aardwolf-mud.json) |
 | Aargon Deluxe | 70984 | [70984-aargon-deluxe.json](./70984-aargon-deluxe.json) |
+| Aaron vs. Ruth: Battle of the Big Bats | 69280 | [69280-aaron-vs-ruth-battle-of-the-big-bats.json](./69280-aaron-vs-ruth-battle-of-the-big-bats.json) |
 | Aba Daba | 84237 | [84237-aba-daba.json](./84237-aba-daba.json) |
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
 | Abalone | 328242 | [328242-abalone.json](./328242-abalone.json) |
@@ -651,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing: A House In Kansas VR | 119767 | [119767-amazing-a-house-in-kansas-vr.json](./119767-amazing-a-house-in-kansas-vr.json) |
 | Amazon Rush | 89271 | [89271-amazon-rush.json](./89271-amazon-rush.json) |
 | Ambar's Fate | 173807 | [173807-ambars-fate.json](./173807-ambars-fate.json) |
+| Amber Quartz | 69291 | [69291-amber-quartz.json](./69291-amber-quartz.json) |
 | Ambien | 254122 | [254122-ambien.json](./254122-ambien.json) |
 | Ambitious Mission | 293897 | [293897-ambitious-mission.json](./293897-ambitious-mission.json) |
 | Ambulance Driver | 311816 | [311816-ambulance-driver.json](./311816-ambulance-driver.json) |
@@ -845,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Space Opera: Episode 1 - The Wake of The Giant | 216469 | [216469-another-space-opera-episode-1-the-wake-of-the-giant.json](./216469-another-space-opera-episode-1-the-wake-of-the-giant.json) |
 | Another Super Mario 3D | 132829 | [132829-another-super-mario-3d.json](./132829-another-super-mario-3d.json) |
 | Another Super Mario Bros. Wii | 132850 | [132850-another-super-mario-bros-wii.json](./132850-another-super-mario-bros-wii.json) |
+| Another Time Another Leaf: Kagami no Naka no Tantei | 69283 | [69283-another-time-another-leaf-kagami-no-naka-no-tantei.json](./69283-another-time-another-leaf-kagami-no-naka-no-tantei.json) |
 | Another Warfare | 156662 | [156662-another-warfare.json](./156662-another-warfare.json) |
 | Anpanman no Waku-waku Game Oekaki | 123617 | [123617-anpanman-no-waku-waku-game-oekaki.json](./123617-anpanman-no-waku-waku-game-oekaki.json) |
 | Anstoss 2: Gold Edition | 155090 | [155090-anstoss-2-gold-edition.json](./155090-anstoss-2-gold-edition.json) |
@@ -1088,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arsenal | 188635 | [188635-arsenal.json](./188635-arsenal.json) |
 | Arson | 223660 | [223660-arson.json](./223660-arson.json) |
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
+| Art Style: Zengage | 69293 | [69293-art-style-zengage.json](./69293-art-style-zengage.json) |
 | Artemis Lutea: District Defender | 318766 | [318766-artemis-lutea-district-defender.json](./318766-artemis-lutea-district-defender.json) |
 | Artemis: Book One | 239288 | [239288-artemis-book-one.json](./239288-artemis-book-one.json) |
 | Arthur's 1st Grade | 70988 | [70988-arthurs-1st-grade.json](./70988-arthurs-1st-grade.json) |
@@ -1248,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Flashback Portable | 245573 | [245573-atari-flashback-portable.json](./245573-atari-flashback-portable.json) |
 | Atari Hits 2006 | 70971 | [70971-atari-hits-2006.json](./70971-atari-hits-2006.json) |
 | Ataxia | 259841 | [259841-ataxia.json](./259841-ataxia.json) |
+| ATCpro | 69318 | [69318-atcpro.json](./69318-atcpro.json) |
 | Atelier Elie: Puzzle Workshop | 338535 | [338535-atelier-elie-puzzle-workshop.json](./338535-atelier-elie-puzzle-workshop.json) |
 | Atelier Ellie: Puzzle Workshop | 329392 | [329392-atelier-ellie-puzzle-workshop.json](./329392-atelier-ellie-puzzle-workshop.json) |
 | Atelier Marie | 329384 | [329384-atelier-marie.json](./329384-atelier-marie.json) |
@@ -1351,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avish! | 69863 | [69863-avish.json](./69863-avish.json) |
 | Avo Escape Space | 275882 | [275882-avo-escape-space.json](./275882-avo-escape-space.json) |
 | Avocado Puzzle Quest | 211414 | [211414-avocado-puzzle-quest.json](./211414-avocado-puzzle-quest.json) |
+| Avoid the Awful Thing that Vaguely Resembles a Banana!! | 69312 | [69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json](./69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json) |
 | Avolteha | 208022 | [208022-avolteha.json](./208022-avolteha.json) |
 | Avorion: Into the Rift | 210867 | [210867-avorion-into-the-rift.json](./210867-avorion-into-the-rift.json) |
 | Avy, Fables of the Night | 269288 | [269288-avy-fables-of-the-night.json](./269288-avy-fables-of-the-night.json) |
