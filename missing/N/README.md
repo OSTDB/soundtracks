@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Shark | 294427 | [294427-new-york-shark.json](./294427-new-york-shark.json) |
 | New Zealand Jigsaw Puzzles | 274766 | [274766-new-zealand-jigsaw-puzzles.json](./274766-new-zealand-jigsaw-puzzles.json) |
 | New Zelda | 270386 | [270386-new-zelda.json](./270386-new-zelda.json) |
+| Newcomer | 84280 | [84280-newcomer.json](./84280-newcomer.json) |
 | Newer Super Mario Bros. Wii Deluxe | 132846 | [132846-newer-super-mario-bros-wii-deluxe.json](./132846-newer-super-mario-bros-wii-deluxe.json) |
 | Newer: Falling Leaf | 132848 | [132848-newer-falling-leaf.json](./132848-newer-falling-leaf.json) |
 | Newer: Holiday Special | 132849 | [132849-newer-holiday-special.json](./132849-newer-holiday-special.json) |
@@ -301,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightclub Manager Simulator | 326391 | [326391-nightclub-manager-simulator.json](./326391-nightclub-manager-simulator.json) |
 | Nightfall | 145678 | [145678-nightfall.json](./145678-nightfall.json) |
 | Nightfall Conquest | 290725 | [290725-nightfall-conquest.json](./290725-nightfall-conquest.json) |
+| Nightfighter | 84263 | [84263-nightfighter.json](./84263-nightfighter.json) |
 | Nightly Maintenance | 196852 | [196852-nightly-maintenance.json](./196852-nightly-maintenance.json) |
 | Nightmare | 216987 | [216987-nightmare.json](./216987-nightmare.json) |
 | Nightmare Adventures: The Witch's Prison & Nightmare Adventures: The Turning Thorn | 201856 | [201856-nightmare-adventures-the-witchs-prison-and-nightmare-adventures-the-turning-thorn.json](./201856-nightmare-adventures-the-witchs-prison-and-nightmare-adventures-the-turning-thorn.json) |
@@ -460,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nomad Idle | 323533 | [323533-nomad-idle.json](./323533-nomad-idle.json) |
 | Non-Stop Raiders | 216982 | [216982-non-stop-raiders.json](./216982-non-stop-raiders.json) |
 | Nona's Game | 211925 | [211925-nonas-game.json](./211925-nonas-game.json) |
+| Nonamed | 84264 | [84264-nonamed.json](./84264-nonamed.json) |
 | Nonno Lorenzo | 216983 | [216983-nonno-lorenzo.json](./216983-nonno-lorenzo.json) |
 | Nonocular | 181384 | [181384-nonocular.json](./181384-nonocular.json) |
 | Nonogram | 112360 | [112360-nonogram.json](./112360-nonogram.json) |
