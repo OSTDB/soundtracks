@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vektor Tank 3D+ | 85468 | [85468-vektor-tank-3d.json](./85468-vektor-tank-3d.json) |
 | Velldeselba Senki: Tsubasa no Kunshou | 140026 | [140026-velldeselba-senki-tsubasa-no-kunshou.json](./140026-velldeselba-senki-tsubasa-no-kunshou.json) |
 | Velocidevorium | 96765 | [96765-velocidevorium.json](./96765-velocidevorium.json) |
+| Velocity Classics: Volume 1 | 84252 | [84252-velocity-classics-volume-1.json](./84252-velocity-classics-volume-1.json) |
 | Velocity Rush | 338574 | [338574-velocity-rush.json](./338574-velocity-rush.json) |
 | Velucity | 155656 | [155656-velucity.json](./155656-velucity.json) |
 | Ven Adventure | 216495 | [216495-ven-adventure.json](./216495-ven-adventure.json) |
@@ -292,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Urban Champion | 169998 | [169998-vs-urban-champion.json](./169998-vs-urban-champion.json) |
 | Vs. Vemny & Friends | 302648 | [302648-vs-vemny-and-friends.json](./302648-vs-vemny-and-friends.json) |
 | VTOL VR: AH-94 Attack Helicopter | 319396 | [319396-vtol-vr-ah-94-attack-helicopter.json](./319396-vtol-vr-ah-94-attack-helicopter.json) |
+| Vtoraya Mirovaya: Izdanie Vtoroe | 84277 | [84277-vtoraya-mirovaya-izdanie-vtoroe.json](./84277-vtoraya-mirovaya-izdanie-vtoroe.json) |
 | Vulcan 3055 | 110331 | [110331-vulcan-3055.json](./110331-vulcan-3055.json) |
 | Vyanka's Memories | 307943 | [307943-vyankas-memories.json](./307943-vyankas-memories.json) |
 | Vythzkel of City Dinasty | 338557 | [338557-vythzkel-of-city-dinasty.json](./338557-vythzkel-of-city-dinasty.json) |
