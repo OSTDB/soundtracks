@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2D Zombie Survival | 115044 | [115044-2d-zombie-survival.json](./115044-2d-zombie-survival.json) |
 | 2DGameManias Taken | 109652 | [109652-2dgamemanias-taken.json](./109652-2dgamemanias-taken.json) |
 | 2K Ball N' Brawl | 155095 | [155095-2k-ball-n-brawl.json](./155095-2k-ball-n-brawl.json) |
+| 2urvive | 77361 | [77361-2urvive.json](./77361-2urvive.json) |
 | 2Week: Death World | 199087 | [199087-2week-death-world.json](./199087-2week-death-world.json) |
 | 2weistein: The Curse of the Red Dragon | 147439 | [147439-2weistein-the-curse-of-the-red-dragon.json](./147439-2weistein-the-curse-of-the-red-dragon.json) |
 | 2XL Supercross HD | 96726 | [96726-2xl-supercross-hd.json](./96726-2xl-supercross-hd.json) |
