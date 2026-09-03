@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Hunter | 165664 | [165664-old-hunter.json](./165664-old-hunter.json) |
 | Old Lefty Johnson's Rubbin' & Racin' | 114407 | [114407-old-lefty-johnsons-rubbin-and-racin.json](./114407-old-lefty-johnsons-rubbin-and-racin.json) |
 | Old Love: Story | 129768 | [129768-old-love-story.json](./129768-old-love-story.json) |
+| Old Man's Guilt | 96081 | [96081-old-mans-guilt.json](./96081-old-mans-guilt.json) |
 | Old Market Simulator | 291232 | [291232-old-market-simulator.json](./291232-old-market-simulator.json) |
 | Old Retro Shooter | 209668 | [209668-old-retro-shooter.json](./209668-old-retro-shooter.json) |
 | Old Salt | 165056 | [165056-old-salt.json](./165056-old-salt.json) |
@@ -316,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orange Cast: Prologue | 151198 | [151198-orange-cast-prologue.json](./151198-orange-cast-prologue.json) |
 | Orange is True Love | 274199 | [274199-orange-is-true-love.json](./274199-orange-is-true-love.json) |
 | Orbit Quest | 107201 | [107201-orbit-quest.json](./107201-orbit-quest.json) |
+| Orbital 1 | 96089 | [96089-orbital-1.json](./96089-orbital-1.json) |
 | Orbital Bombardment | 237078 | [237078-orbital-bombardment.json](./237078-orbital-bombardment.json) |
 | Orbital Dance | 319961 | [319961-orbital-dance.json](./319961-orbital-dance.json) |
 | Orbital Invaders | 156656 | [156656-orbital-invaders.json](./156656-orbital-invaders.json) |
