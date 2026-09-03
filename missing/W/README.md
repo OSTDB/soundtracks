@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrong Floor | 177032 | [177032-wrong-floor.json](./177032-wrong-floor.json) |
 | WSOP | 93572 | [93572-wsop.json](./93572-wsop.json) |
 | WSYC Remix | 271992 | [271992-wsyc-remix.json](./271992-wsyc-remix.json) |
+| WTA Tour Tennis | 66701 | [66701-wta-tour-tennis.json](./66701-wta-tour-tennis.json) |
 | WTC: Recruitment Day | 192462 | [192462-wtc-recruitment-day.json](./192462-wtc-recruitment-day.json) |
 | Wufo | 228074 | [228074-wufo.json](./228074-wufo.json) |
 | Wǔlín Zhēngbà zhī Yīngxióng Tiē | 93585 | [93585-wulin-zhengba-zhi-yingxiong-tie.json](./93585-wulin-zhengba-zhi-yingxiong-tie.json) |
