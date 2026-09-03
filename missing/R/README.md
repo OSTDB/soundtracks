@@ -918,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Root After and Another | 72720 | [72720-root-after-and-another.json](./72720-root-after-and-another.json) |
 | Root Double: Before Crime * After Days | 79295 | [79295-root-double-before-crime-after-days.json](./79295-root-double-before-crime-after-days.json) |
 | Root Infinity Rexx | 61660 | [61660-root-infinity-rexx.json](./61660-root-infinity-rexx.json) |
+| Root of All Evil | 57105 | [57105-root-of-all-evil.json](./57105-root-of-all-evil.json) |
 | Root Of Win | 258186 | [258186-root-of-win.json](./258186-root-of-win.json) |
 | Root: Exiles & Partisans & Vagabonds | 195233 | [195233-root-exiles-and-partisans-and-vagabonds.json](./195233-root-exiles-and-partisans-and-vagabonds.json) |
 | Root: The Riverfolk Expansion | 221420 | [221420-root-the-riverfolk-expansion.json](./221420-root-the-riverfolk-expansion.json) |
