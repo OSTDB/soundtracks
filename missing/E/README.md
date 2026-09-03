@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the past Collection | 177053 | [177053-escape-the-past-collection.json](./177053-escape-the-past-collection.json) |
 | Escape the Void | 296681 | [296681-escape-the-void.json](./296681-escape-the-void.json) |
 | Escape to the Ocean | 231061 | [231061-escape-to-the-ocean.json](./231061-escape-to-the-ocean.json) |
+| Escape Whisper Valley | 61673 | [61673-escape-whisper-valley.json](./61673-escape-whisper-valley.json) |
 | Escape Zombie Land | 75898 | [75898-escape-zombie-land.json](./75898-escape-zombie-land.json) |
 | Escapers | 210853 | [210853-escapers.json](./210853-escapers.json) |
 | Escaping Darkness | 320531 | [320531-escaping-darkness.json](./320531-escaping-darkness.json) |
