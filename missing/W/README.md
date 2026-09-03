@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarLords | 196892 | [196892-warlords.json](./196892-warlords.json) |
 | Warlords of Aternum | 107181 | [107181-warlords-of-aternum.json](./107181-warlords-of-aternum.json) |
 | Warlords.IO | 111729 | [111729-warlords-io.json](./111729-warlords-io.json) |
+| WarMages | 68676 | [68676-warmages.json](./68676-warmages.json) |
 | WarMen Tactics | 85496 | [85496-warmen-tactics.json](./85496-warmen-tactics.json) |
 | WarOFuture | 301615 | [301615-warofuture.json](./301615-warofuture.json) |
 | Warp 7 | 231062 | [231062-warp-7.json](./231062-warp-7.json) |
@@ -402,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Survival Simulator | 309661 | [309661-winter-survival-simulator.json](./309661-winter-survival-simulator.json) |
 | Winter With You | 188108 | [188108-winter-with-you.json](./188108-winter-with-you.json) |
 | Wintersdawn in the Deep | 183591 | [183591-wintersdawn-in-the-deep.json](./183591-wintersdawn-in-the-deep.json) |
+| Wintersport | 68677 | [68677-wintersport.json](./68677-wintersport.json) |
 | WinTrek | 69859 | [69859-wintrek.json](./69859-wintrek.json) |
 | Winx Club: Winx Fairy School | 96728 | [96728-winx-club-winx-fairy-school.json](./96728-winx-club-winx-fairy-school.json) |
 | Winzer | 77383 | [77383-winzer.json](./77383-winzer.json) |
@@ -551,8 +553,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Class Golf | 239338 | [239338-world-class-golf.json](./239338-world-class-golf.json) |
 | World Conqueror 3D | 85497 | [85497-world-conqueror-3d.json](./85497-world-conqueror-3d.json) |
 | World Dai-star: Yume no Stellarium | 258691 | [258691-world-dai-star-yume-no-stellarium.json](./258691-world-dai-star-yume-no-stellarium.json) |
+| World Escape | 68667 | [68667-world-escape.json](./68667-world-escape.json) |
 | World Explorer Challenge | 325266 | [325266-world-explorer-challenge.json](./325266-world-explorer-challenge.json) |
 | World Fantasista | 302701 | [302701-world-fantasista.json](./302701-world-fantasista.json) |
+| World Golf | 68674 | [68674-world-golf.json](./68674-world-golf.json) |
 | World Leader Card Game | 119779 | [119779-world-leader-card-game.json](./119779-world-leader-card-game.json) |
 | World Mosaics | 135246 | [135246-world-mosaics.json](./135246-world-mosaics.json) |
 | World Mosaics 2 | 135247 | [135247-world-mosaics-2.json](./135247-world-mosaics-2.json) |
@@ -571,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Wimmelbild Gold | 92503 | [92503-world-of-wimmelbild-gold.json](./92503-world-of-wimmelbild-gold.json) |
 | World Poker Tour: Texas Hold 'Em | 85498 | [85498-world-poker-tour-texas-hold-em.json](./85498-world-poker-tour-texas-hold-em.json) |
 | World Robot Boxing 2 | 196302 | [196302-world-robot-boxing-2.json](./196302-world-robot-boxing-2.json) |
+| World Soccer: Winning Eleven | 68693 | [68693-world-soccer-winning-eleven.json](./68693-world-soccer-winning-eleven.json) |
 | World Subway Simulator | 89234 | [89234-world-subway-simulator.json](./89234-world-subway-simulator.json) |
 | World Ultimate Mafia | 323546 | [323546-world-ultimate-mafia.json](./323546-world-ultimate-mafia.json) |
 | World War 3: Card Battler | 216480 | [216480-world-war-3-card-battler.json](./216480-world-war-3-card-battler.json) |
