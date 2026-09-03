@@ -266,7 +266,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings' Cross | 112354 | [112354-kings-cross.json](./112354-kings-cross.json) |
 | Kingslayer Tactics | 117065 | [117065-kingslayer-tactics.json](./117065-kingslayer-tactics.json) |
 | Kiniro Mosaic Memories | 202390 | [202390-kiniro-mosaic-memories.json](./202390-kiniro-mosaic-memories.json) |
+| Kiniro no Corda 2 | 57703 | [57703-kiniro-no-corda-2.json](./57703-kiniro-no-corda-2.json) |
+| Kiniro no Corda 2: Encore | 57704 | [57704-kiniro-no-corda-2-encore.json](./57704-kiniro-no-corda-2-encore.json) |
 | Kiniro no Corda 3 | 79928 | [79928-kiniro-no-corda-3.json](./79928-kiniro-no-corda-3.json) |
+| Kiniro no Corda 4 | 57702 | [57702-kiniro-no-corda-4.json](./57702-kiniro-no-corda-4.json) |
+| Kiniro no Corda: La Corda d'Oro | 57705 | [57705-kiniro-no-corda-la-corda-doro.json](./57705-kiniro-no-corda-la-corda-doro.json) |
 | Kiniro no Korda Starlight Orchestra | 220314 | [220314-kiniro-no-korda-starlight-orchestra.json](./220314-kiniro-no-korda-starlight-orchestra.json) |
 | Kinnikuman Muscle Grand Prix Max | 66662 | [66662-kinnikuman-muscle-grand-prix-max.json](./66662-kinnikuman-muscle-grand-prix-max.json) |
 | Kioh Gyoku | 123607 | [123607-kioh-gyoku.json](./123607-kioh-gyoku.json) |
