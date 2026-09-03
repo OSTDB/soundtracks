@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viricide | 242779 | [242779-viricide.json](./242779-viricide.json) |
 | Virion | 338568 | [338568-virion.json](./338568-virion.json) |
 | Virt-U-Mate | 156646 | [156646-virt-u-mate.json](./156646-virt-u-mate.json) |
+| Virtua Fighter 4: Final Tuned | 39668 | [39668-virtua-fighter-4-final-tuned.json](./39668-virtua-fighter-4-final-tuned.json) |
 | Virtua Tennis: Mobile Edition | 317005 | [317005-virtua-tennis-mobile-edition.json](./317005-virtua-tennis-mobile-edition.json) |
 | Virtual Bart Redux | 219273 | [219273-virtual-bart-redux.json](./219273-virtual-bart-redux.json) |
 | Virtual Escape: Digital World | 167838 | [167838-virtual-escape-digital-world.json](./167838-virtual-escape-digital-world.json) |
