@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LIT: Bend the Light | 126621 | [126621-lit-bend-the-light.json](./126621-lit-bend-the-light.json) |
 | Little Adventure Tale | 325834 | [325834-little-adventure-tale.json](./325834-little-adventure-tale.json) |
 | Little Adventurer | 98464 | [98464-little-adventurer.json](./98464-little-adventurer.json) |
+| Little Adventurer III | 83547 | [83547-little-adventurer-iii.json](./83547-little-adventurer-iii.json) |
 | Little Astronaut | 199133 | [199133-little-astronaut.json](./199133-little-astronaut.json) |
 | Little Bear | 308582 | [308582-little-bear.json](./308582-little-bear.json) |
 | Little Big Horn | 226409 | [226409-little-big-horn.json](./226409-little-big-horn.json) |
@@ -492,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lode Runner: Domdom Dan no Yabou! | 109026 | [109026-lode-runner-domdom-dan-no-yabou.json](./109026-lode-runner-domdom-dan-no-yabou.json) |
 | Lofi Ball: Dessert | 255981 | [255981-lofi-ball-dessert.json](./255981-lofi-ball-dessert.json) |
 | Lofirunner | 332844 | [332844-lofirunner.json](./332844-lofirunner.json) |
+| Log Jammers | 83583 | [83583-log-jammers.json](./83583-log-jammers.json) |
 | Logi Box | 339630 | [339630-logi-box.json](./339630-logi-box.json) |
 | Logic Circuit: Marble Puzzle | 210854 | [210854-logic-circuit-marble-puzzle.json](./210854-logic-circuit-marble-puzzle.json) |
 | Logic Puzzle Collection: Sudoku, Permudoku, Nonodoku | 147949 | [147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json](./147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json) |
@@ -510,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loneliness Butterfly | 314074 | [314074-loneliness-butterfly.json](./314074-loneliness-butterfly.json) |
 | Lonely Mountains: Downhill - Eldfjall Island | 138241 | [138241-lonely-mountains-downhill-eldfjall-island.json](./138241-lonely-mountains-downhill-eldfjall-island.json) |
 | Lonely Path | 250006 | [250006-lonely-path.json](./250006-lonely-path.json) |
+| Lonely Trip | 83572 | [83572-lonely-trip.json](./83572-lonely-trip.json) |
 | Long Count | 126622 | [126622-long-count.json](./126622-long-count.json) |
 | Long Nardy | 264362 | [264362-long-nardy.json](./264362-long-nardy.json) |
 | Long Star | 131618 | [131618-long-star.json](./131618-long-star.json) |
@@ -601,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Meeting | 165032 | [165032-love-meeting.json](./165032-love-meeting.json) |
 | Love My Pegasus | 239871 | [239871-love-my-pegasus.json](./239871-love-my-pegasus.json) |
 | Love on Paper | 158220 | [158220-love-on-paper.json](./158220-love-on-paper.json) |
+| Love or Loved | 83592 | [83592-love-or-loved.json](./83592-love-or-loved.json) |
 | Love Stories: Sex and the Furry Titty | 165031 | [165031-love-stories-sex-and-the-furry-titty.json](./165031-love-stories-sex-and-the-furry-titty.json) |
 | Love Story: The Way Home | 102187 | [102187-love-story-the-way-home.json](./102187-love-story-the-way-home.json) |
 | Love Tavern | 165028 | [165028-love-tavern.json](./165028-love-tavern.json) |
