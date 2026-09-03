@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Life: Aquarium Simulator | 309648 | [309648-ocean-life-aquarium-simulator.json](./309648-ocean-life-aquarium-simulator.json) |
 | Ocean of Battles | 124246 | [124246-ocean-of-battles.json](./124246-ocean-of-battles.json) |
 | Oceanside | 274198 | [274198-oceanside.json](./274198-oceanside.json) |
+| Oceanspirit Danish | 57102 | [57102-oceanspirit-danish.json](./57102-oceanspirit-danish.json) |
 | Ochakai he no Shoutaijou | 246092 | [246092-ochakai-he-no-shoutaijou.json](./246092-ochakai-he-no-shoutaijou.json) |
 | Ochakumi | 78020 | [78020-ochakumi.json](./78020-ochakumi.json) |
 | Ocopoco | 175397 | [175397-ocopoco.json](./175397-ocopoco.json) |
