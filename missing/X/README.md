@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 11: Aerosoft Seychelles XP | 168367 | [168367-x-plane-11-aerosoft-seychelles-xp.json](./168367-x-plane-11-aerosoft-seychelles-xp.json) |
 | X-Plane 6 | 72091 | [72091-x-plane-6.json](./72091-x-plane-6.json) |
 | X-Plane 8 | 94229 | [94229-x-plane-8.json](./94229-x-plane-8.json) |
+| X-Plane 9 | 51270 | [51270-x-plane-9.json](./51270-x-plane-9.json) |
 | X-Plane Flight Simulator | 196325 | [196325-x-plane-flight-simulator.json](./196325-x-plane-flight-simulator.json) |
 | X-Ray & Dilligas | 144319 | [144319-x-ray-and-dilligas.json](./144319-x-ray-and-dilligas.json) |
 | X'Treme Roller | 205814 | [205814-xtreme-roller.json](./205814-xtreme-roller.json) |
