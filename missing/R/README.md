@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recontact Istanbul: Eyes Of Sky | 321167 | [321167-recontact-istanbul-eyes-of-sky.json](./321167-recontact-istanbul-eyes-of-sky.json) |
 | Record of Agarest War: Limited Edition | 261541 | [261541-record-of-agarest-war-limited-edition.json](./261541-record-of-agarest-war-limited-edition.json) |
 | Record of Battle 3D Maiden Wars | 166209 | [166209-record-of-battle-3d-maiden-wars.json](./166209-record-of-battle-3d-maiden-wars.json) |
+| Record of Lodoss War | 81386 | [81386-record-of-lodoss-war.json](./81386-record-of-lodoss-war.json) |
 | Recordance | 257109 | [257109-recordance.json](./257109-recordance.json) |
 | Recreational Dreaming | 83574 | [83574-recreational-dreaming.json](./83574-recreational-dreaming.json) |
 | Recreational Warfare | 251182 | [251182-recreational-warfare.json](./251182-recreational-warfare.json) |
@@ -492,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversing Caste: Omegaverse | 269303 | [269303-reversing-caste-omegaverse.json](./269303-reversing-caste-omegaverse.json) |
 | Reversion: The Return | 130398 | [130398-reversion-the-return.json](./130398-reversion-the-return.json) |
 | Revolt Legion VR | 254138 | [254138-revolt-legion-vr.json](./254138-revolt-legion-vr.json) |
+| Revolution | 81387 | [81387-revolution.json](./81387-revolution.json) |
 | Rewilder | 303782 | [303782-rewilder.json](./303782-rewilder.json) |
 | Rex Blade: The Battle Begins | 209165 | [209165-rex-blade-the-battle-begins.json](./209165-rex-blade-the-battle-begins.json) |
 | Rex! Your Interactive Pet Dinosaur | 313491 | [313491-rex-your-interactive-pet-dinosaur.json](./313491-rex-your-interactive-pet-dinosaur.json) |
