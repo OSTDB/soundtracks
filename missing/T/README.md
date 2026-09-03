@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks Boom Boom | 210872 | [210872-tanks-boom-boom.json](./210872-tanks-boom-boom.json) |
 | Tanks Endeavor | 117073 | [117073-tanks-endeavor.json](./117073-tanks-endeavor.json) |
 | Tanky Tanks | 120399 | [120399-tanky-tanks.json](./120399-tanky-tanks.json) |
+| Tanoth | 52019 | [52019-tanoth.json](./52019-tanoth.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 3 - Shisha no Rakuen | 293903 | [293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json](./293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 4 - Shirasagi ni Aka no Hane | 296110 | [296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json](./296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json) |
 | Tantei Toki to Yukiyama Kaishi Densetsu Satsujin Jiken | 150118 | [150118-tantei-toki-to-yukiyama-kaishi-densetsu-satsujin-jiken.json](./150118-tantei-toki-to-yukiyama-kaishi-densetsu-satsujin-jiken.json) |
@@ -518,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Best Play Baseball II | 267637 | [267637-the-best-play-baseball-ii.json](./267637-the-best-play-baseball-ii.json) |
 | The Beyond Of Fears: New House | 304876 | [304876-the-beyond-of-fears-new-house.json](./304876-the-beyond-of-fears-new-house.json) |
 | The Beziér Game | 138840 | [138840-the-bezier-game.json](./138840-the-bezier-game.json) |
+| The Big Fear of Heights Experience | 52002 | [52002-the-big-fear-of-heights-experience.json](./52002-the-big-fear-of-heights-experience.json) |
 | The Big Lebowski Bowling | 312336 | [312336-the-big-lebowski-bowling.json](./312336-the-big-lebowski-bowling.json) |
 | The Big Picture | 206346 | [206346-the-big-picture.json](./206346-the-big-picture.json) |
 | The Big, Friendly Thud! | 260937 | [260937-the-big-friendly-thud.json](./260937-the-big-friendly-thud.json) |
@@ -744,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escape Room Chronicles ep3: The Southern Resort | 324121 | [324121-the-escape-room-chronicles-ep3-the-southern-resort.json](./324121-the-escape-room-chronicles-ep3-the-southern-resort.json) |
 | The Essence of Luna | 323509 | [323509-the-essence-of-luna.json](./323509-the-essence-of-luna.json) |
 | The Eternal Fool | 217496 | [217496-the-eternal-fool.json](./217496-the-eternal-fool.json) |
+| The Executioner: Prologue | 51993 | [51993-the-executioner-prologue.json](./51993-the-executioner-prologue.json) |
 | The Exit Project: Backstreets | 319939 | [319939-the-exit-project-backstreets.json](./319939-the-exit-project-backstreets.json) |
 | The Eyes of Dr Kautzmann | 219256 | [219256-the-eyes-of-dr-kautzmann.json](./219256-the-eyes-of-dr-kautzmann.json) |
 | The F.A. Premier League Football Manager 2000 | 70974 | [70974-the-f-a-premier-league-football-manager-2000.json](./70974-the-f-a-premier-league-football-manager-2000.json) |
@@ -1098,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moon 2050 | 156686 | [156686-the-moon-2050.json](./156686-the-moon-2050.json) |
 | The Moon Ate the Sun | 318192 | [318192-the-moon-ate-the-sun.json](./318192-the-moon-ate-the-sun.json) |
 | The Moon Has Faded Away | 341903 | [341903-the-moon-has-faded-away.json](./341903-the-moon-has-faded-away.json) |
+| The Moon Night | 51962 | [51962-the-moon-night.json](./51962-the-moon-night.json) |
 | The Moon Relax | 165021 | [165021-the-moon-relax.json](./165021-the-moon-relax.json) |
 | The Moroccan Castle 3: Behind The Secrets | 242229 | [242229-the-moroccan-castle-3-behind-the-secrets.json](./242229-the-moroccan-castle-3-behind-the-secrets.json) |
 | The Moron Test | 117757 | [117757-the-moron-test.json](./117757-the-moron-test.json) |
@@ -1453,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate FMV Bundle 2 | 213046 | [213046-the-ultimate-fmv-bundle-2.json](./213046-the-ultimate-fmv-bundle-2.json) |
 | The Ultra Mission | 199105 | [199105-the-ultra-mission.json](./199105-the-ultra-mission.json) |
 | The Unachievable Game | 205232 | [205232-the-unachievable-game.json](./205232-the-unachievable-game.json) |
+| The Unclogging: An Unsanitary Saga | 51979 | [51979-the-unclogging-an-unsanitary-saga.json](./51979-the-unclogging-an-unsanitary-saga.json) |
 | The Unfettered | 223163 | [223163-the-unfettered.json](./223163-the-unfettered.json) |
 | The Unsettled | 199665 | [199665-the-unsettled.json](./199665-the-unsettled.json) |
 | The Untitled Tower | 334500 | [334500-the-untitled-tower.json](./334500-the-untitled-tower.json) |
@@ -1820,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Triple 3D | 227509 | [227509-tile-triple-3d.json](./227509-tile-triple-3d.json) |
 | Tilefinder | 196857 | [196857-tilefinder.json](./196857-tilefinder.json) |
 | Tiles and Towers TD | 216503 | [216503-tiles-and-towers-td.json](./216503-tiles-and-towers-td.json) |
+| Tilted: A Tale of Refraction | 51947 | [51947-tilted-a-tale-of-refraction.json](./51947-tilted-a-tale-of-refraction.json) |
 | Tilting Tiles: Fires of Industry | 319945 | [319945-tilting-tiles-fires-of-industry.json](./319945-tilting-tiles-fires-of-industry.json) |
 | Tim & Bear at the Airport | 127323 | [127323-tim-and-bear-at-the-airport.json](./127323-tim-and-bear-at-the-airport.json) |
 | Tim's Birthday | 150126 | [150126-tims-birthday.json](./150126-tims-birthday.json) |
@@ -2158,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Walker: MMO Grind Simulator | 217504 | [217504-tower-walker-mmo-grind-simulator.json](./217504-tower-walker-mmo-grind-simulator.json) |
 | TowerDefenceDesigner | 296648 | [296648-towerdefencedesigner.json](./296648-towerdefencedesigner.json) |
 | Towers of Twilight | 53835 | [53835-towers-of-twilight.json](./53835-towers-of-twilight.json) |
+| Towers That Don't Like Each Other | 51997 | [51997-towers-that-dont-like-each-other.json](./51997-towers-that-dont-like-each-other.json) |
 | Town of Dusk | 251810 | [251810-town-of-dusk.json](./251810-town-of-dusk.json) |
 | Town of Host | 224196 | [224196-town-of-host.json](./224196-town-of-host.json) |
 | Town of Machine | 145049 | [145049-town-of-machine.json](./145049-town-of-machine.json) |
