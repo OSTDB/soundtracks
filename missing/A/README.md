@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Western Star 57X | 211406 | [211406-american-truck-simulator-western-star-57x.json](./211406-american-truck-simulator-western-star-57x.json) |
 | Americas Tower Simulator | 224756 | [224756-americas-tower-simulator.json](./224756-americas-tower-simulator.json) |
 | Amidst The Haze | 278677 | [278677-amidst-the-haze.json](./278677-amidst-the-haze.json) |
+| Amigo | 92505 | [92505-amigo.json](./92505-amigo.json) |
 | Amigo Pancho 2 | 331149 | [331149-amigo-pancho-2.json](./331149-amigo-pancho-2.json) |
 | Amma: A Quest for Light | 138223 | [138223-amma-a-quest-for-light.json](./138223-amma-a-quest-for-light.json) |
 | Ammo Pigs: Armed and Delicious | 107889 | [107889-ammo-pigs-armed-and-delicious.json](./107889-ammo-pigs-armed-and-delicious.json) |
