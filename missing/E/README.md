@@ -12,7 +12,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.T. the Extra-Terrestrial Fixed | 335114 | [335114-e-t-the-extra-terrestrial-fixed.json](./335114-e-t-the-extra-terrestrial-fixed.json) |
 | E.T. the Extra-Terrestrial: Return to the Green Planet | 201276 | [201276-e-t-the-extra-terrestrial-return-to-the-green-planet.json](./201276-e-t-the-extra-terrestrial-return-to-the-green-planet.json) |
 | E.T. the Extra-Terrestrial: Venrom's Assault | 238198 | [238198-e-t-the-extra-terrestrial-venroms-assault.json](./238198-e-t-the-extra-terrestrial-venroms-assault.json) |
+| E.T.: The Extra-Terrestrial - Escape from Planet Earth | 49937 | [49937-e-t-the-extra-terrestrial-escape-from-planet-earth.json](./49937-e-t-the-extra-terrestrial-escape-from-planet-earth.json) |
 | E.T.: The Extra-Terrestrial - Search for Dragora | 201277 | [201277-e-t-the-extra-terrestrial-search-for-dragora.json](./201277-e-t-the-extra-terrestrial-search-for-dragora.json) |
+| E.T.: The Extra-Terrestrial and the Cosmic Garden | 49936 | [49936-e-t-the-extra-terrestrial-and-the-cosmic-garden.json](./49936-e-t-the-extra-terrestrial-and-the-cosmic-garden.json) |
 | E's Laf | 135884 | [135884-es-laf.json](./135884-es-laf.json) |
 | E's Laf++ | 135903 | [135903-es-laf.json](./135903-es-laf.json) |
 | EA Replay 2 | 209176 | [209176-ea-replay-2.json](./209176-ea-replay-2.json) |
@@ -587,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Riding 2 | 278155 | [278155-extreme-riding-2.json](./278155-extreme-riding-2.json) |
 | Extreme Skater | 200200 | [200200-extreme-skater.json](./200200-extreme-skater.json) |
 | Extreme Snowboard | 228110 | [228110-extreme-snowboard.json](./228110-extreme-snowboard.json) |
+| Extreme Sports with the Berenstain Bears | 49932 | [49932-extreme-sports-with-the-berenstain-bears.json](./49932-extreme-sports-with-the-berenstain-bears.json) |
 | Extreme Tux Racer | 51248 | [51248-extreme-tux-racer.json](./51248-extreme-tux-racer.json) |
 | Extremely Realistic Siege Warfare Simulator | 130957 | [130957-extremely-realistic-siege-warfare-simulator.json](./130957-extremely-realistic-siege-warfare-simulator.json) |
 | Exсive A-1000 | 113714 | [113714-ex-ive-a-1000.json](./113714-ex-ive-a-1000.json) |
