@@ -543,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noiz2sa | 335673 | [335673-noiz2sa.json](./335673-noiz2sa.json) |
 | Nom Nom Nom | 209650 | [209650-nom-nom-nom.json](./209650-nom-nom-nom.json) |
 | Nomad Idle | 323533 | [323533-nomad-idle.json](./323533-nomad-idle.json) |
+| Nomolos: Storming the Catsle | 48699 | [48699-nomolos-storming-the-catsle.json](./48699-nomolos-storming-the-catsle.json) |
 | Non-Stop Raiders | 216982 | [216982-non-stop-raiders.json](./216982-non-stop-raiders.json) |
 | Nona's Game | 211925 | [211925-nonas-game.json](./211925-nonas-game.json) |
 | Nonamed | 84264 | [84264-nonamed.json](./84264-nonamed.json) |
