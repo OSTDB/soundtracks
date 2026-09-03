@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Fate: A Journey Begins | 298340 | [298340-eternal-fate-a-journey-begins.json](./298340-eternal-fate-a-journey-begins.json) |
 | Eternal Man: Jump | 99605 | [99605-eternal-man-jump.json](./99605-eternal-man-jump.json) |
 | Eternal of Swordsman | 194033 | [194033-eternal-of-swordsman.json](./194033-eternal-of-swordsman.json) |
+| Eternal Quest | 43353 | [43353-eternal-quest.json](./43353-eternal-quest.json) |
 | Eternal Saga | 62762 | [62762-eternal-saga.json](./62762-eternal-saga.json) |
 | Eternal Seas | 236509 | [236509-eternal-seas.json](./236509-eternal-seas.json) |
 | Eternal Supreme | 210881 | [210881-eternal-supreme.json](./210881-eternal-supreme.json) |
@@ -442,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euchre by Webfoot | 88323 | [88323-euchre-by-webfoot.json](./88323-euchre-by-webfoot.json) |
 | Euplectella | 339100 | [339100-euplectella.json](./339100-euplectella.json) |
 | Eureka | 298318 | [298318-eureka.json](./298318-eureka.json) |
+| Euro Rally Champion | 43298 | [43298-euro-rally-champion.json](./43298-euro-rally-champion.json) |
 | Euro Truck Simulator 2: DAF XD | 277585 | [277585-euro-truck-simulator-2-daf-xd.json](./277585-euro-truck-simulator-2-daf-xd.json) |
 | Euro Truck Simulator 2: Heart of Russia | 165013 | [165013-euro-truck-simulator-2-heart-of-russia.json](./165013-euro-truck-simulator-2-heart-of-russia.json) |
 | Euro-Man | 71554 | [71554-euro-man.json](./71554-euro-man.json) |
