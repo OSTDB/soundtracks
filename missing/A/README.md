@@ -944,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archery Physics Objects Destruction Apple shooter | 100824 | [100824-archery-physics-objects-destruction-apple-shooter.json](./100824-archery-physics-objects-destruction-apple-shooter.json) |
 | Archery Simulator | 332264 | [332264-archery-simulator.json](./332264-archery-simulator.json) |
 | Archery Star | 106630 | [106630-archery-star.json](./106630-archery-star.json) |
+| Archetype | 80584 | [80584-archetype.json](./80584-archetype.json) |
 | Archetypes: The Rite of Passage | 211439 | [211439-archetypes-the-rite-of-passage.json](./211439-archetypes-the-rite-of-passage.json) |
 | ArcheWorld | 217002 | [217002-archeworld.json](./217002-archeworld.json) |
 | Archipelagates | 258224 | [258224-archipelagates.json](./258224-archipelagates.json) |
@@ -993,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark: Scorched Earth Ascended | 294992 | [294992-ark-scorched-earth-ascended.json](./294992-ark-scorched-earth-ascended.json) |
 | Ark: The Center Ascended | 304378 | [304378-ark-the-center-ascended.json](./304378-ark-the-center-ascended.json) |
 | Ark: Ultimate Survivor Edition | 152344 | [152344-ark-ultimate-survivor-edition.json](./152344-ark-ultimate-survivor-edition.json) |
+| Arkanoid 2000 | 80599 | [80599-arkanoid-2000.json](./80599-arkanoid-2000.json) |
 | Arkham Detective | 278178 | [278178-arkham-detective.json](./278178-arkham-detective.json) |
 | Arla Milkout! | 314036 | [314036-arla-milkout.json](./314036-arla-milkout.json) |
 | Arma 3: Creator DLC - CSLA Iron Curtain | 168912 | [168912-arma-3-creator-dlc-csla-iron-curtain.json](./168912-arma-3-creator-dlc-csla-iron-curtain.json) |
