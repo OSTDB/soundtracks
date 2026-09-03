@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Rider | 161399 | [161399-wave-rider.json](./161399-wave-rider.json) |
 | Waves ! | 104097 | [104097-waves.json](./104097-waves.json) |
 | Waves of Death VR | 132229 | [132229-waves-of-death-vr.json](./132229-waves-of-death-vr.json) |
+| Waves: Arena Tactics | 93630 | [93630-waves-arena-tactics.json](./93630-waves-arena-tactics.json) |
 | Way Down | 187511 | [187511-way-down.json](./187511-way-down.json) |
 | Way to Yaatra | 140604 | [140604-way-to-yaatra.json](./140604-way-to-yaatra.json) |
 | WAyE | 105378 | [105378-waye.json](./105378-waye.json) |
@@ -231,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Different | 153457 | [153457-whats-different.json](./153457-whats-different.json) |
 | What's in the Attic? | 140593 | [140593-whats-in-the-attic.json](./140593-whats-in-the-attic.json) |
 | What's Outside | 278729 | [278729-whats-outside.json](./278729-whats-outside.json) |
+| What's Shenmue? | 93595 | [93595-whats-shenmue.json](./93595-whats-shenmue.json) |
 | What's Updog | 228066 | [228066-whats-updog.json](./228066-whats-updog.json) |
 | Wheel of Fortune Cookie | 100898 | [100898-wheel-of-fortune-cookie.json](./100898-wheel-of-fortune-cookie.json) |
 | Wheel of Fortune Daily | 321140 | [321140-wheel-of-fortune-daily.json](./321140-wheel-of-fortune-daily.json) |
@@ -568,9 +570,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Writer: Chapter 1 | 327616 | [327616-writer-chapter-1.json](./327616-writer-chapter-1.json) |
 | wrldDivision | 181379 | [181379-wrlddivision.json](./181379-wrlddivision.json) |
 | Wrong Floor | 177032 | [177032-wrong-floor.json](./177032-wrong-floor.json) |
+| WSOP | 93572 | [93572-wsop.json](./93572-wsop.json) |
 | WSYC Remix | 271992 | [271992-wsyc-remix.json](./271992-wsyc-remix.json) |
 | WTC: Recruitment Day | 192462 | [192462-wtc-recruitment-day.json](./192462-wtc-recruitment-day.json) |
 | Wufo | 228074 | [228074-wufo.json](./228074-wufo.json) |
+| Wǔlín Zhēngbà zhī Yīngxióng Tiē | 93585 | [93585-wulin-zhengba-zhi-yingxiong-tie.json](./93585-wulin-zhengba-zhi-yingxiong-tie.json) |
 | Wunderhaven | 166763 | [166763-wunderhaven.json](./166763-wunderhaven.json) |
 | Wurdweb | 165047 | [165047-wurdweb.json](./165047-wurdweb.json) |
 | Wurmus | 181389 | [181389-wurmus.json](./181389-wurmus.json) |
