@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Crush Saga Ticket Model | 229352 | [229352-candy-crush-saga-ticket-model.json](./229352-candy-crush-saga-ticket-model.json) |
 | Candy Land / Chutes & Ladders / Original Memory Game | 91423 | [91423-candy-land-chutes-and-ladders-original-memory-game.json](./91423-candy-land-chutes-and-ladders-original-memory-game.json) |
 | Candy Maid | 224777 | [224777-candy-maid.json](./224777-candy-maid.json) |
+| Candy Snake Master | 83573 | [83573-candy-snake-master.json](./83573-candy-snake-master.json) |
 | Candy Tycoon | 236517 | [236517-candy-tycoon.json](./236517-candy-tycoon.json) |
 | Candypink | 176496 | [176496-candypink.json](./176496-candypink.json) |
 | CandyRain | 201307 | [201307-candyrain.json](./201307-candyrain.json) |
@@ -136,10 +137,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captures | 165670 | [165670-captures.json](./165670-captures.json) |
 | Captures II | 170550 | [170550-captures-ii.json](./170550-captures-ii.json) |
 | Car Cops | 247218 | [247218-car-cops.json](./247218-car-cops.json) |
+| Car Crash Couch Party | 83586 | [83586-car-crash-couch-party.json](./83586-car-crash-couch-party.json) |
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
 | Car Mechanic Pinball | 219301 | [219301-car-mechanic-pinball.json](./219301-car-mechanic-pinball.json) |
 | Car on a Stick | 123623 | [123623-car-on-a-stick.json](./123623-car-on-a-stick.json) |
 | Car Parking - Test Drive and Parking Simulator | 88298 | [88298-car-parking-test-drive-and-parking-simulator.json](./88298-car-parking-test-drive-and-parking-simulator.json) |
+| Car Parking Game 3D - Real City Driving School | 83585 | [83585-car-parking-game-3d-real-city-driving-school.json](./83585-car-parking-game-3d-real-city-driving-school.json) |
 | Car Parking Simulator 3D Game | 105929 | [105929-car-parking-simulator-3d-game.json](./105929-car-parking-simulator-3d-game.json) |
 | Car Physics Simulator: Trucks + Missions DLC | 155107 | [155107-car-physics-simulator-trucks-missions-dlc.json](./155107-car-physics-simulator-trucks-missions-dlc.json) |
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
