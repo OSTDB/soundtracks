@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noctuary | 221395 | [221395-noctuary.json](./221395-noctuary.json) |
 | Nocturne in Yellow | 141870 | [141870-nocturne-in-yellow.json](./141870-nocturne-in-yellow.json) |
 | Nocturne of Steel | 107893 | [107893-nocturne-of-steel.json](./107893-nocturne-of-steel.json) |
+| Noddy: A Day in Toyland | 49388 | [49388-noddy-a-day-in-toyland.json](./49388-noddy-a-day-in-toyland.json) |
 | Noel the Mortal Fate: Season 12 | 243374 | [243374-noel-the-mortal-fate-season-12.json](./243374-noel-the-mortal-fate-season-12.json) |
 | Noel the Mortal Fate: Season 3.5 - Revenger's Vacation | 258205 | [258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json](./258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json) |
 | Noel's Hope | 113703 | [113703-noels-hope.json](./113703-noels-hope.json) |
