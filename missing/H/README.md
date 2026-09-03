@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Them | 239295 | [239295-harvest-them.json](./239295-harvest-them.json) |
 | Harvest Uranus | 244514 | [244514-harvest-uranus.json](./244514-harvest-uranus.json) |
 | Harvester Tractor Farming Simulator Game | 174866 | [174866-harvester-tractor-farming-simulator-game.json](./174866-harvester-tractor-farming-simulator-game.json) |
+| Hasbro Family Game Night 2 | 50606 | [50606-hasbro-family-game-night-2.json](./50606-hasbro-family-game-night-2.json) |
 | Hash Line | 120402 | [120402-hash-line.json](./120402-hash-line.json) |
 | Hatchling | 182511 | [182511-hatchling.json](./182511-hatchling.json) |
 | Hatchpunk | 143729 | [143729-hatchpunk.json](./143729-hatchpunk.json) |
@@ -367,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Food Town | 249481 | [249481-hello-kitty-food-town.json](./249481-hello-kitty-food-town.json) |
 | Hello Kitty Kruisers with Sanrio Friends | 62781 | [62781-hello-kitty-kruisers-with-sanrio-friends.json](./62781-hello-kitty-kruisers-with-sanrio-friends.json) |
 | Hello Kitty no Gotouchi Collection: Koi no Doki-doki Travel | 269832 | [269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json](./269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json) |
+| Hello Kitty no Magical Museum | 50562 | [50562-hello-kitty-no-magical-museum.json](./50562-hello-kitty-no-magical-museum.json) |
 | Hello Kitty no Waku-waku Quiz | 61677 | [61677-hello-kitty-no-waku-waku-quiz.json](./61677-hello-kitty-no-waku-waku-quiz.json) |
 | Hello Kitty's Cube Frenzy | 299461 | [299461-hello-kittys-cube-frenzy.json](./299461-hello-kittys-cube-frenzy.json) |
 | Hello Pocoyo! | 64972 | [64972-hello-pocoyo.json](./64972-hello-pocoyo.json) |
@@ -723,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook Worlds | 91941 | [91941-hook-worlds.json](./91941-hook-worlds.json) |
 | Hook, Line, and Spelunker | 214730 | [214730-hook-line-and-spelunker.json](./214730-hook-line-and-spelunker.json) |
 | Hook: Complete Edition | 340742 | [340742-hook-complete-edition.json](./340742-hook-complete-edition.json) |
+| Hooked! Again: Real Motion Fishing | 50627 | [50627-hooked-again-real-motion-fishing.json](./50627-hooked-again-real-motion-fishing.json) |
 | Hooligans: Storm Over Europe | 73846 | [73846-hooligans-storm-over-europe.json](./73846-hooligans-storm-over-europe.json) |
 | Hools: Football Club Territory | 81353 | [81353-hools-football-club-territory.json](./81353-hools-football-club-territory.json) |
 | Hoonigans | 314653 | [314653-hoonigans.json](./314653-hoonigans.json) |
@@ -860,6 +863,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HS Galaxy | 147450 | [147450-hs-galaxy.json](./147450-hs-galaxy.json) |
 | htoL#NiQ: The Firefly Diary - Limited Edition | 89918 | [89918-htol-niq-the-firefly-diary-limited-edition.json](./89918-htol-niq-the-firefly-diary-limited-edition.json) |
 | Huanu Poems | 339119 | [339119-huanu-poems.json](./339119-huanu-poems.json) |
+| Hudson Selection Vol. 3: PC Genjin - Pithecanthropus Computerurus | 50580 | [50580-hudson-selection-vol-3-pc-genjin-pithecanthropus-computerurus.json](./50580-hudson-selection-vol-3-pc-genjin-pithecanthropus-computerurus.json) |
+| Hudson Selection Vol. 4: Takahashi Meijin no Bouken-jima | 50574 | [50574-hudson-selection-vol-4-takahashi-meijin-no-bouken-jima.json](./50574-hudson-selection-vol-4-takahashi-meijin-no-bouken-jima.json) |
 | Hueor | 127365 | [127365-hueor.json](./127365-hueor.json) |
 | Huge Breast Princess Knight Anne | 158212 | [158212-huge-breast-princess-knight-anne.json](./158212-huge-breast-princess-knight-anne.json) |
 | Huge Enemy - Worldbreakers | 107855 | [107855-huge-enemy-worldbreakers.json](./107855-huge-enemy-worldbreakers.json) |
