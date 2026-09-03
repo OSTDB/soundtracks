@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Ball Fall | 141852 | [141852-fall-ball-fall.json](./141852-fall-ball-fall.json) |
 | Fall Down | 95432 | [95432-fall-down.json](./95432-fall-down.json) |
 | Fall Guys: Season 4 - Creative Construction | 243406 | [243406-fall-guys-season-4-creative-construction.json](./243406-fall-guys-season-4-creative-construction.json) |
+| Fall of Magic: Digital Edition | 56480 | [56480-fall-of-magic-digital-edition.json](./56480-fall-of-magic-digital-edition.json) |
 | Fall of Porcupine: Save the World Edition | 254153 | [254153-fall-of-porcupine-save-the-world-edition.json](./254153-fall-of-porcupine-save-the-world-edition.json) |
 | Fall Platform | 320536 | [320536-fall-platform.json](./320536-fall-platform.json) |
 | Fall Weiss | 62205 | [62205-fall-weiss.json](./62205-fall-weiss.json) |
@@ -395,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding America: New England | 273665 | [273665-finding-america-new-england.json](./273665-finding-america-new-england.json) |
 | Finding America: The Great Lakes | 260396 | [260396-finding-america-the-great-lakes.json](./260396-finding-america-the-great-lakes.json) |
 | Finding America: The Heartland - Collector's Edition | 224200 | [224200-finding-america-the-heartland-collectors-edition.json](./224200-finding-america-the-heartland-collectors-edition.json) |
+| Finding Bigfoot | 56494 | [56494-finding-bigfoot.json](./56494-finding-bigfoot.json) |
 | Finding Mosey | 214158 | [214158-finding-mosey.json](./214158-finding-mosey.json) |
 | Finding Santa Christmas Special | 175440 | [175440-finding-santa-christmas-special.json](./175440-finding-santa-christmas-special.json) |
 | Finding summer | 114396 | [114396-finding-summer.json](./114396-finding-summer.json) |
@@ -887,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fright Cops | 216459 | [216459-fright-cops.json](./216459-fright-cops.json) |
 | Fright House | 329352 | [329352-fright-house.json](./329352-fright-house.json) |
 | Frigid VR | 172733 | [172733-frigid-vr.json](./172733-frigid-vr.json) |
+| Frip and Froop's Logical Labyrinth | 56509 | [56509-frip-and-froops-logical-labyrinth.json](./56509-frip-and-froops-logical-labyrinth.json) |
 | Fritz: Your Chess Coach | 262648 | [262648-fritz-your-chess-coach.json](./262648-fritz-your-chess-coach.json) |
 | Frog Fall Down | 192430 | [192430-frog-fall-down.json](./192430-frog-fall-down.json) |
 | Frog Feast | 270407 | [270407-frog-feast.json](./270407-frog-feast.json) |
