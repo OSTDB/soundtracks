@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oldfartenstein 3D | 255375 | [255375-oldfartenstein-3d.json](./255375-oldfartenstein-3d.json) |
 | oldTail | 98990 | [98990-oldtail.json](./98990-oldtail.json) |
 | Ole! | 93045 | [93045-ole.json](./93045-ole.json) |
+| Oliver & Spike: Dimension Jumpers | 63894 | [63894-oliver-and-spike-dimension-jumpers.json](./63894-oliver-and-spike-dimension-jumpers.json) |
 | Ollam House | 128628 | [128628-ollam-house.json](./128628-ollam-house.json) |
 | Olobollo | 156138 | [156138-olobollo.json](./156138-olobollo.json) |
 | Olympic Basketball | 147463 | [147463-olympic-basketball.json](./147463-olympic-basketball.json) |
@@ -405,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherworld Heroes | 208054 | [208054-otherworld-heroes.json](./208054-otherworld-heroes.json) |
 | Otis | 64428 | [64428-otis.json](./64428-otis.json) |
 | Otoko Cross: Naked Remix | 247186 | [247186-otoko-cross-naked-remix.json](./247186-otoko-cross-naked-remix.json) |
+| Otoko Dogeza Zigoku | 63870 | [63870-otoko-dogeza-zigoku.json](./63870-otoko-dogeza-zigoku.json) |
 | Otona no Joushikiryoku Training DS | 68029 | [68029-otona-no-joushikiryoku-training-ds.json](./68029-otona-no-joushikiryoku-training-ds.json) |
 | Otostaz | 175947 | [175947-otostaz.json](./175947-otostaz.json) |
 | Otsuge Uranai nan desu | 69268 | [69268-otsuge-uranai-nan-desu.json](./69268-otsuge-uranai-nan-desu.json) |
