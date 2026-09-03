@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T12:03:25.925Z",
-  "total_missing": 23105,
+  "generated_at": "2026-09-03T12:18:19.913Z",
+  "total_missing": 23155,
   "games": [
     {
       "igdb_id": 306086,
@@ -5818,6 +5818,11 @@
       "file": "missing/A/191915-another-prince-a-lost-tale.json"
     },
     {
+      "igdb_id": 64434,
+      "game_name": "Another SameGame",
+      "file": "missing/A/64434-another-samegame.json"
+    },
+    {
       "igdb_id": 111691,
       "game_name": "Another Sight: Hodge's Journey",
       "file": "missing/A/111691-another-sight-hodges-journey.json"
@@ -5911,6 +5916,11 @@
       "igdb_id": 171046,
       "game_name": "Ant Simulator",
       "file": "missing/A/171046-ant-simulator.json"
+    },
+    {
+      "igdb_id": 64446,
+      "game_name": "Antharion",
+      "file": "missing/A/64446-antharion.json"
     },
     {
       "igdb_id": 268731,
@@ -7646,6 +7656,11 @@
       "igdb_id": 232695,
       "game_name": "Asteroids",
       "file": "missing/A/232695-asteroids.json"
+    },
+    {
+      "igdb_id": 64402,
+      "game_name": "Asteroids: Gunner",
+      "file": "missing/A/64402-asteroids-gunner.json"
     },
     {
       "igdb_id": 133470,
@@ -11623,6 +11638,11 @@
       "file": "missing/B/170531-biorhythm.json"
     },
     {
+      "igdb_id": 64441,
+      "game_name": "BioShock Infinite: Industrial Revolution",
+      "file": "missing/B/64441-bioshock-infinite-industrial-revolution.json"
+    },
+    {
       "igdb_id": 336892,
       "game_name": "BioSynth: Rising",
       "file": "missing/B/336892-biosynth-rising.json"
@@ -13293,6 +13313,11 @@
       "file": "missing/B/142468-border-reign.json"
     },
     {
+      "igdb_id": 64415,
+      "game_name": "Borderlands Legends",
+      "file": "missing/B/64415-borderlands-legends.json"
+    },
+    {
       "igdb_id": 268734,
       "game_name": "Borderlands Triple Pack",
       "file": "missing/B/268734-borderlands-triple-pack.json"
@@ -13991,6 +14016,11 @@
       "igdb_id": 70977,
       "game_name": "Breakout in Space",
       "file": "missing/B/70977-breakout-in-space.json"
+    },
+    {
+      "igdb_id": 64400,
+      "game_name": "Breakout: Boost",
+      "file": "missing/B/64400-breakout-boost.json"
     },
     {
       "igdb_id": 203551,
@@ -16898,6 +16928,11 @@
       "file": "missing/C/245541-centipede.json"
     },
     {
+      "igdb_id": 64399,
+      "game_name": "Centipede & Battlezone",
+      "file": "missing/C/64399-centipede-and-battlezone.json"
+    },
+    {
       "igdb_id": 321130,
       "game_name": "Central Standard",
       "file": "missing/C/321130-central-standard.json"
@@ -16981,6 +17016,11 @@
       "igdb_id": 177011,
       "game_name": "Chain Champs",
       "file": "missing/C/177011-chain-champs.json"
+    },
+    {
+      "igdb_id": 64438,
+      "game_name": "Chain Shot",
+      "file": "missing/C/64438-chain-shot.json"
     },
     {
       "igdb_id": 321143,
@@ -18706,6 +18746,11 @@
       "igdb_id": 84270,
       "game_name": "Clickenzee",
       "file": "missing/C/84270-clickenzee.json"
+    },
+    {
+      "igdb_id": 64437,
+      "game_name": "Clickomania!",
+      "file": "missing/C/64437-clickomania.json"
     },
     {
       "igdb_id": 213020,
@@ -35463,6 +35508,11 @@
       "file": "missing/F/117729-fortune-hunters.json"
     },
     {
+      "igdb_id": 64398,
+      "game_name": "Fortune Street Smart",
+      "file": "missing/F/64398-fortune-street-smart.json"
+    },
+    {
       "igdb_id": 121042,
       "game_name": "Fortune Telling",
       "file": "missing/F/121042-fortune-telling.json"
@@ -36316,6 +36366,11 @@
       "igdb_id": 318197,
       "game_name": "Frost Survivors: Text Game",
       "file": "missing/F/318197-frost-survivors-text-game.json"
+    },
+    {
+      "igdb_id": 64440,
+      "game_name": "Frost Wars: The Rise of Fatty Sparkles",
+      "file": "missing/F/64440-frost-wars-the-rise-of-fatty-sparkles.json"
     },
     {
       "igdb_id": 105360,
@@ -40593,6 +40648,11 @@
       "file": "missing/G/173780-guardian-force-saturn-tribute.json"
     },
     {
+      "igdb_id": 64445,
+      "game_name": "Guardian Hearts Online",
+      "file": "missing/G/64445-guardian-hearts-online.json"
+    },
+    {
       "igdb_id": 113735,
       "game_name": "Guardian Master VR",
       "file": "missing/G/113735-guardian-master-vr.json"
@@ -44018,6 +44078,11 @@
       "file": "missing/H/73849-hired-team-trial-gold.json"
     },
     {
+      "igdb_id": 64447,
+      "game_name": "Hiryuu no Ken II: Dragon no Tsubasa",
+      "file": "missing/H/64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json"
+    },
+    {
       "igdb_id": 137100,
       "game_name": "Hissatsu Pachinko Station V2",
       "file": "missing/H/137100-hissatsu-pachinko-station-v2.json"
@@ -45056,6 +45121,11 @@
       "igdb_id": 107907,
       "game_name": "House of Plague 0",
       "file": "missing/H/107907-house-of-plague-0.json"
+    },
+    {
+      "igdb_id": 64425,
+      "game_name": "House of Slender-Man",
+      "file": "missing/H/64425-house-of-slender-man.json"
     },
     {
       "igdb_id": 274762,
@@ -49733,6 +49803,11 @@
       "file": "missing/K/311827-kafkaesque-the-nightmare-trial.json"
     },
     {
+      "igdb_id": 64397,
+      "game_name": "Kagirinaki Tatakai",
+      "file": "missing/K/64397-kagirinaki-tatakai.json"
+    },
+    {
       "igdb_id": 137066,
       "game_name": "Kai-ri-Sei Million Arthur",
       "file": "missing/K/137066-kai-ri-sei-million-arthur.json"
@@ -50016,6 +50091,11 @@
       "igdb_id": 205790,
       "game_name": "Kappa Nittori-chan",
       "file": "missing/K/205790-kappa-nittori-chan.json"
+    },
+    {
+      "igdb_id": 64439,
+      "game_name": "Kappa-kun to Asobou: Kappa-kun to Ota no Shimikai",
+      "file": "missing/K/64439-kappa-kun-to-asobou-kappa-kun-to-ota-no-shimikai.json"
     },
     {
       "igdb_id": 86070,
@@ -51741,6 +51821,11 @@
       "igdb_id": 257065,
       "game_name": "Krzyżacy: The Knights of the Cross - Character Pack (Western Style)",
       "file": "missing/K/257065-krzyzacy-the-knights-of-the-cross-character-pack-western-style.json"
+    },
+    {
+      "igdb_id": 64431,
+      "game_name": "KSame",
+      "file": "missing/K/64431-ksame.json"
     },
     {
       "igdb_id": 169978,
@@ -53646,6 +53731,11 @@
       "igdb_id": 199086,
       "game_name": "Life is a Race",
       "file": "missing/L/199086-life-is-a-race.json"
+    },
+    {
+      "igdb_id": 64426,
+      "game_name": "Life is Magic",
+      "file": "missing/L/64426-life-is-magic.json"
     },
     {
       "igdb_id": 118407,
@@ -60863,6 +60953,96 @@
       "file": "missing/M/295039-momoiro-zousan.json"
     },
     {
+      "igdb_id": 64418,
+      "game_name": "Momotaro Collection",
+      "file": "missing/M/64418-momotaro-collection.json"
+    },
+    {
+      "igdb_id": 64417,
+      "game_name": "Momotaro Collection 2",
+      "file": "missing/M/64417-momotaro-collection-2.json"
+    },
+    {
+      "igdb_id": 64411,
+      "game_name": "Momotaro Densetsu",
+      "file": "missing/M/64411-momotaro-densetsu.json"
+    },
+    {
+      "igdb_id": 64413,
+      "game_name": "Momotaro Densetsu 1-2",
+      "file": "missing/M/64413-momotaro-densetsu-1-2.json"
+    },
+    {
+      "igdb_id": 64406,
+      "game_name": "Momotaro Dentetsu 15: Godai Bonbii Toujou! no Maki",
+      "file": "missing/M/64406-momotaro-dentetsu-15-godai-bonbii-toujou-no-maki.json"
+    },
+    {
+      "igdb_id": 64405,
+      "game_name": "Momotaro Dentetsu 16: Hokkaido Daiidou no Maki!",
+      "file": "missing/M/64405-momotaro-dentetsu-16-hokkaido-daiidou-no-maki.json"
+    },
+    {
+      "igdb_id": 64410,
+      "game_name": "Momotaro Dentetsu 7",
+      "file": "missing/M/64410-momotaro-dentetsu-7.json"
+    },
+    {
+      "igdb_id": 64419,
+      "game_name": "Momotaro Dentetsu DS: Tokyo & Japan",
+      "file": "missing/M/64419-momotaro-dentetsu-ds-tokyo-and-japan.json"
+    },
+    {
+      "igdb_id": 64408,
+      "game_name": "Momotaro Dentetsu Japan+",
+      "file": "missing/M/64408-momotaro-dentetsu-japan.json"
+    },
+    {
+      "igdb_id": 64414,
+      "game_name": "Momotaro Dentetsu Jr.: Zenkoku Ramen Meguri no Maki",
+      "file": "missing/M/64414-momotaro-dentetsu-jr-zenkoku-ramen-meguri-no-maki.json"
+    },
+    {
+      "igdb_id": 64403,
+      "game_name": "Momotaro Dentetsu Tag Match: Yuujou, Doryoku, Shouri no Maki!",
+      "file": "missing/M/64403-momotaro-dentetsu-tag-match-yuujou-doryoku-shouri-no-maki.json"
+    },
+    {
+      "igdb_id": 64404,
+      "game_name": "Momotaro Dentetsu USA",
+      "file": "missing/M/64404-momotaro-dentetsu-usa.json"
+    },
+    {
+      "igdb_id": 64409,
+      "game_name": "Momotaro Dentetsu V",
+      "file": "missing/M/64409-momotaro-dentetsu-v.json"
+    },
+    {
+      "igdb_id": 64416,
+      "game_name": "Momotaro Dentetsu World",
+      "file": "missing/M/64416-momotaro-dentetsu-world.json"
+    },
+    {
+      "igdb_id": 64420,
+      "game_name": "Momotaro Dentetsu: 20 Shuunen",
+      "file": "missing/M/64420-momotaro-dentetsu-20-shuunen.json"
+    },
+    {
+      "igdb_id": 64421,
+      "game_name": "Momotaro Douchuuki",
+      "file": "missing/M/64421-momotaro-douchuuki.json"
+    },
+    {
+      "igdb_id": 64407,
+      "game_name": "Momotaro Matsuri: Ishikawa Rokuemon no Maki",
+      "file": "missing/M/64407-momotaro-matsuri-ishikawa-rokuemon-no-maki.json"
+    },
+    {
+      "igdb_id": 64422,
+      "game_name": "Momotaro Thunderbolt 2",
+      "file": "missing/M/64422-momotaro-thunderbolt-2.json"
+    },
+    {
       "igdb_id": 318770,
       "game_name": "Momotarou",
       "file": "missing/M/318770-momotarou.json"
@@ -63023,6 +63203,11 @@
       "file": "missing/M/133465-my-sail-and-my-sea.json"
     },
     {
+      "igdb_id": 64433,
+      "game_name": "My SameGame",
+      "file": "missing/M/64433-my-samegame.json"
+    },
+    {
       "igdb_id": 246661,
       "game_name": "My Secret Bistro: Cooking Game",
       "file": "missing/M/246661-my-secret-bistro-cooking-game.json"
@@ -64481,6 +64666,11 @@
       "igdb_id": 186890,
       "game_name": "Neptunia: Virtual Stars - VIP Edition",
       "file": "missing/N/186890-neptunia-virtual-stars-vip-edition.json"
+    },
+    {
+      "igdb_id": 64442,
+      "game_name": "Nessie",
+      "file": "missing/N/64442-nessie.json"
     },
     {
       "igdb_id": 237044,
@@ -68521,6 +68711,11 @@
       "igdb_id": 208054,
       "game_name": "Otherworld Heroes",
       "file": "missing/O/208054-otherworld-heroes.json"
+    },
+    {
+      "igdb_id": 64428,
+      "game_name": "Otis",
+      "file": "missing/O/64428-otis.json"
     },
     {
       "igdb_id": 247186,
@@ -81163,6 +81358,11 @@
       "file": "missing/R/120410-royal-life-hard-to-be-a-queen.json"
     },
     {
+      "igdb_id": 64443,
+      "game_name": "Royal Mahjong",
+      "file": "missing/R/64443-royal-mahjong.json"
+    },
+    {
       "igdb_id": 195763,
       "game_name": "Royal Mahjong King's Journey",
       "file": "missing/R/195763-royal-mahjong-kings-journey.json"
@@ -82148,6 +82348,31 @@
       "file": "missing/S/218718-samael-the-legacy-of-ophiuchus.json"
     },
     {
+      "igdb_id": 64423,
+      "game_name": "Same",
+      "file": "missing/S/64423-same.json"
+    },
+    {
+      "igdb_id": 64429,
+      "game_name": "Same-X",
+      "file": "missing/S/64429-same-x.json"
+    },
+    {
+      "igdb_id": 64430,
+      "game_name": "SameGame",
+      "file": "missing/S/64430-samegame.json"
+    },
+    {
+      "igdb_id": 64436,
+      "game_name": "SameGame Fighter",
+      "file": "missing/S/64436-samegame-fighter.json"
+    },
+    {
+      "igdb_id": 64432,
+      "game_name": "SameGame HD",
+      "file": "missing/S/64432-samegame-hd.json"
+    },
+    {
       "igdb_id": 126040,
       "game_name": "Samidare",
       "file": "missing/S/126040-samidare.json"
@@ -82361,6 +82586,11 @@
       "igdb_id": 64974,
       "game_name": "Sangokushi Taisen 3 War Begins",
       "file": "missing/S/64974-sangokushi-taisen-3-war-begins.json"
+    },
+    {
+      "igdb_id": 64448,
+      "game_name": "Sangokushi: Chuugen no Hasha",
+      "file": "missing/S/64448-sangokushi-chuugen-no-hasha.json"
     },
     {
       "igdb_id": 260425,
@@ -92578,6 +92808,11 @@
       "file": "missing/S/240461-super-bowsette-64.json"
     },
     {
+      "igdb_id": 64401,
+      "game_name": "Super Breakout Ultra",
+      "file": "missing/S/64401-super-breakout-ultra.json"
+    },
+    {
       "igdb_id": 232182,
       "game_name": "Super Bunnies Show Free",
       "file": "missing/S/232182-super-bunnies-show-free.json"
@@ -96301,6 +96536,11 @@
       "igdb_id": 143748,
       "game_name": "Tekken Tag Tournament HD",
       "file": "missing/T/143748-tekken-tag-tournament-hd.json"
+    },
+    {
+      "igdb_id": 64427,
+      "game_name": "Tele-Shibai Wii",
+      "file": "missing/T/64427-tele-shibai-wii.json"
     },
     {
       "igdb_id": 65532,
@@ -101431,6 +101671,11 @@
       "igdb_id": 115005,
       "game_name": "The Tear",
       "file": "missing/T/115005-the-tear.json"
+    },
+    {
+      "igdb_id": 64435,
+      "game_name": "The Tempura Samurai",
+      "file": "missing/T/64435-the-tempura-samurai.json"
     },
     {
       "igdb_id": 298322,
@@ -115446,6 +115691,11 @@
       "igdb_id": 107876,
       "game_name": "ZoomnBoom",
       "file": "missing/Z/107876-zoomnboom.json"
+    },
+    {
+      "igdb_id": 64396,
+      "game_name": "ZooZooGo!",
+      "file": "missing/Z/64396-zoozoogo.json"
     },
     {
       "igdb_id": 81431,
