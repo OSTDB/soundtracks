@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiniro Mosaic Memories | 202390 | [202390-kiniro-mosaic-memories.json](./202390-kiniro-mosaic-memories.json) |
 | Kiniro no Corda 3 | 79928 | [79928-kiniro-no-corda-3.json](./79928-kiniro-no-corda-3.json) |
 | Kiniro no Korda Starlight Orchestra | 220314 | [220314-kiniro-no-korda-starlight-orchestra.json](./220314-kiniro-no-korda-starlight-orchestra.json) |
+| Kinnikuman Muscle Grand Prix Max | 66662 | [66662-kinnikuman-muscle-grand-prix-max.json](./66662-kinnikuman-muscle-grand-prix-max.json) |
 | Kioh Gyoku | 123607 | [123607-kioh-gyoku.json](./123607-kioh-gyoku.json) |
 | Kipidon: We Will Always Love You | 337455 | [337455-kipidon-we-will-always-love-you.json](./337455-kipidon-we-will-always-love-you.json) |
 | Kira-kira Star Night AC | 206341 | [206341-kira-kira-star-night-ac.json](./206341-kira-kira-star-night-ac.json) |
