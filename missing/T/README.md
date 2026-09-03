@@ -2126,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Hunter | 242235 | [242235-treasure-hunter.json](./242235-treasure-hunter.json) |
 | Treasure Hunter | 327577 | [327577-treasure-hunter.json](./327577-treasure-hunter.json) |
 | Treasure Hunter Simulator 2 | 153995 | [153995-treasure-hunter-simulator-2.json](./153995-treasure-hunter-simulator-2.json) |
+| Treasure Hunter X | 85522 | [85522-treasure-hunter-x.json](./85522-treasure-hunter-x.json) |
 | Treasure Hunter: History of Monastery Gold | 253581 | [253581-treasure-hunter-history-of-monastery-gold.json](./253581-treasure-hunter-history-of-monastery-gold.json) |
 | Treasure Hunter: Idle RPG | 311246 | [311246-treasure-hunter-idle-rpg.json](./311246-treasure-hunter-idle-rpg.json) |
 | Treasure of Barracuda | 165695 | [165695-treasure-of-barracuda.json](./165695-treasure-of-barracuda.json) |
@@ -2153,6 +2154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tremors: The Game | 127959 | [127959-tremors-the-game.json](./127959-tremors-the-game.json) |
 | Trench Runner! | 260984 | [260984-trench-runner.json](./260984-trench-runner.json) |
 | Trench Warfare WW1: RTS Battle | 303792 | [303792-trench-warfare-ww1-rts-battle.json](./303792-trench-warfare-ww1-rts-battle.json) |
+| Trenches Generals | 85521 | [85521-trenches-generals.json](./85521-trenches-generals.json) |
 | Trespasser 2 | 204111 | [204111-trespasser-2.json](./204111-trespasser-2.json) |
 | Tresure Hunter | 278673 | [278673-tresure-hunter.json](./278673-tresure-hunter.json) |
 | Tri Focuser: Outside the Traditional World | 246673 | [246673-tri-focuser-outside-the-traditional-world.json](./246673-tri-focuser-outside-the-traditional-world.json) |
