@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Only Livez Twice | 124250 | [124250-you-only-livez-twice.json](./124250-you-only-livez-twice.json) |
 | You Should Eat Breakfast | 176515 | [176515-you-should-eat-breakfast.json](./176515-you-should-eat-breakfast.json) |
 | You Will Fall | 245000 | [245000-you-will-fall.json](./245000-you-will-fall.json) |
+| You Will Select a Decision | 60015 | [60015-you-will-select-a-decision.json](./60015-you-will-select-a-decision.json) |
 | You, Me and Empty Words | 150153 | [150153-you-me-and-empty-words.json](./150153-you-me-and-empty-words.json) |
 | You're Grounded! | 322355 | [322355-youre-grounded.json](./322355-youre-grounded.json) |
 | You're Mine! | 303275 | [303275-youre-mine.json](./303275-youre-mine.json) |
