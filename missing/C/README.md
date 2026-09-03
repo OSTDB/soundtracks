@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Hopper | 139468 | [139468-cave-hopper.json](./139468-cave-hopper.json) |
 | Cave Shooter | 167275 | [167275-cave-shooter.json](./167275-cave-shooter.json) |
 | Cavegirl Adventures | 163992 | [163992-cavegirl-adventures.json](./163992-cavegirl-adventures.json) |
+| Caveman | 47281 | [47281-caveman.json](./47281-caveman.json) |
 | Caveman Games | 48100 | [48100-caveman-games.json](./48100-caveman-games.json) |
 | Caveman hits Giraffe in a Car | 333397 | [333397-caveman-hits-giraffe-in-a-car.json](./333397-caveman-hits-giraffe-in-a-car.json) |
 | Cavemen vs. Aliens | 91412 | [91412-cavemen-vs-aliens.json](./91412-cavemen-vs-aliens.json) |
@@ -549,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choo Choo Minder | 252988 | [252988-choo-choo-minder.json](./252988-choo-choo-minder.json) |
 | Choose an Enemy | 93051 | [93051-choose-an-enemy.json](./93051-choose-an-enemy.json) |
 | Chop | 183081 | [183081-chop.json](./183081-chop.json) |
+| Chop Suey | 47297 | [47297-chop-suey.json](./47297-chop-suey.json) |
 | Chopper Commando | 78716 | [78716-chopper-commando.json](./78716-chopper-commando.json) |
 | Choppie's | 236541 | [236541-choppies.json](./236541-choppies.json) |
 | Choro Q | 245031 | [245031-choro-q.json](./245031-choro-q.json) |
@@ -696,6 +698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CityInc | 307902 | [307902-cityinc.json](./307902-cityinc.json) |
 | Ciudad Alfombra | 251848 | [251848-ciudad-alfombra.json](./251848-ciudad-alfombra.json) |
 | Ciudad Empresarial | 274750 | [274750-ciudad-empresarial.json](./274750-ciudad-empresarial.json) |
+| CivCraft - Legends of Ellaria | 47273 | [47273-civcraft-legends-of-ellaria.json](./47273-civcraft-legends-of-ellaria.json) |
 | Cividle | 224744 | [224744-cividle.json](./224744-cividle.json) |
 | Civil War | 95459 | [95459-civil-war.json](./95459-civil-war.json) |
 | Civilization Simulator | 267069 | [267069-civilization-simulator.json](./267069-civilization-simulator.json) |
@@ -984,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concurrence | 166779 | [166779-concurrence.json](./166779-concurrence.json) |
 | Conde | 265424 | [265424-conde.json](./265424-conde.json) |
 | Condominium | 333356 | [333356-condominium.json](./333356-condominium.json) |
+| Condor | 47268 | [47268-condor.json](./47268-condor.json) |
 | Cones in Space | 254771 | [254771-cones-in-space.json](./254771-cones-in-space.json) |
 | Conexus | 202920 | [202920-conexus.json](./202920-conexus.json) |
 | Confederate Express | 62730 | [62730-confederate-express.json](./62730-confederate-express.json) |
@@ -1008,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conqueror's Blade: Helheim | 217525 | [217525-conquerors-blade-helheim.json](./217525-conquerors-blade-helheim.json) |
 | Conquest of Kings | 295566 | [295566-conquest-of-kings.json](./295566-conquest-of-kings.json) |
 | Conquest of the Crystal Palace | 48068 | [48068-conquest-of-the-crystal-palace.json](./48068-conquest-of-the-crystal-palace.json) |
+| Conquest of the World | 47293 | [47293-conquest-of-the-world.json](./47293-conquest-of-the-world.json) |
 | ConsTance | 323524 | [323524-constance.json](./323524-constance.json) |
 | Constantine | 236004 | [236004-constantine.json](./236004-constantine.json) |
 | Constellation Courier | 309127 | [309127-constellation-courier.json](./309127-constellation-courier.json) |
@@ -1234,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Adventure Bundle | 231064 | [231064-crazy-adventure-bundle.json](./231064-crazy-adventure-bundle.json) |
 | Crazy Archery | 113696 | [113696-crazy-archery.json](./113696-crazy-archery.json) |
 | Crazy Car | 94263 | [94263-crazy-car.json](./94263-crazy-car.json) |
+| Crazy Chewy | 47267 | [47267-crazy-chewy.json](./47267-crazy-chewy.json) |
 | Crazy Climber 2000 | 77399 | [77399-crazy-climber-2000.json](./77399-crazy-climber-2000.json) |
 | Crazy Counting | 231622 | [231622-crazy-counting.json](./231622-crazy-counting.json) |
 | Crazy Forest 2 | 111684 | [111684-crazy-forest-2.json](./111684-crazy-forest-2.json) |
