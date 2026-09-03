@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure D: Espionage Island | 45370 | [45370-adventure-d-espionage-island.json](./45370-adventure-d-espionage-island.json) |
 | Adventure Delivery Service | 104055 | [104055-adventure-delivery-service.json](./104055-adventure-delivery-service.json) |
 | Adventure Elf | 72132 | [72132-adventure-elf.json](./72132-adventure-elf.json) |
+| Adventure II | 40783 | [40783-adventure-ii.json](./40783-adventure-ii.json) |
 | Adventure in King Caries Land | 117044 | [117044-adventure-in-king-caries-land.json](./117044-adventure-in-king-caries-land.json) |
 | Adventure in My Head | 192945 | [192945-adventure-in-my-head.json](./192945-adventure-in-my-head.json) |
 | Adventure in Space | 237670 | [237670-adventure-in-space.json](./237670-adventure-in-space.json) |
@@ -480,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Glide | 312323 | [312323-air-glide.json](./312323-air-glide.json) |
 | Air Hockey | 43934 | [43934-air-hockey.json](./43934-air-hockey.json) |
 | Air Hockey: Championship 3D+ | 239889 | [239889-air-hockey-championship-3d.json](./239889-air-hockey-championship-3d.json) |
+| Air patrol | 40768 | [40768-air-patrol.json](./40768-air-patrol.json) |
 | Air Race | 249506 | [249506-air-race.json](./249506-air-race.json) |
 | Air Racer: Sky Traffic | 232156 | [232156-air-racer-sky-traffic.json](./232156-air-racer-sky-traffic.json) |
 | Air Racing VR | 192445 | [192445-air-racing-vr.json](./192445-air-racing-vr.json) |
@@ -1373,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At the Gates of Midian | 271496 | [271496-at-the-gates-of-midian.json](./271496-at-the-gates-of-midian.json) |
 | At the Heart of the Forest | 201303 | [201303-at-the-heart-of-the-forest.json](./201303-at-the-heart-of-the-forest.json) |
 | Atari Classics: Evolved | 46023 | [46023-atari-classics-evolved.json](./46023-atari-classics-evolved.json) |
+| Atari Climber | 40769 | [40769-atari-climber.json](./40769-atari-climber.json) |
 | Atari Flashback 2+ | 277035 | [277035-atari-flashback-2.json](./277035-atari-flashback-2.json) |
 | Atari Flashback 3 | 277037 | [277037-atari-flashback-3.json](./277037-atari-flashback-3.json) |
 | Atari Flashback 4 | 277039 | [277039-atari-flashback-4.json](./277039-atari-flashback-4.json) |
@@ -1387,6 +1390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Flashback 8 Gold | 277051 | [277051-atari-flashback-8-gold.json](./277051-atari-flashback-8-gold.json) |
 | Atari Flashback Portable | 245573 | [245573-atari-flashback-portable.json](./245573-atari-flashback-portable.json) |
 | Atari Hits 2006 | 70971 | [70971-atari-hits-2006.json](./70971-atari-hits-2006.json) |
+| Atari Karts | 40802 | [40802-atari-karts.json](./40802-atari-karts.json) |
 | Ataxia | 259841 | [259841-ataxia.json](./259841-ataxia.json) |
 | ATCpro | 69318 | [69318-atcpro.json](./69318-atcpro.json) |
 | Atelier Elie: Puzzle Workshop | 338535 | [338535-atelier-elie-puzzle-workshop.json](./338535-atelier-elie-puzzle-workshop.json) |
@@ -1409,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
 | Atlantic Quest | 85504 | [85504-atlantic-quest.json](./85504-atlantic-quest.json) |
 | Atlantic Rim | 180827 | [180827-atlantic-rim.json](./180827-atlantic-rim.json) |
+| Atlantis II | 40779 | [40779-atlantis-ii.json](./40779-atlantis-ii.json) |
 | Atlantis-6 | 147472 | [147472-atlantis-6.json](./147472-atlantis-6.json) |
 | Atlas Architect | 157191 | [157191-atlas-architect.json](./157191-atlas-architect.json) |
 | Atlas Earth: Buy Virtual Land | 247217 | [247217-atlas-earth-buy-virtual-land.json](./247217-atlas-earth-buy-virtual-land.json) |
@@ -1428,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Evil Poop VR | 166738 | [166738-attack-of-the-evil-poop-vr.json](./166738-attack-of-the-evil-poop-vr.json) |
 | Attack of the Giant Mutant Lizard | 113711 | [113711-attack-of-the-giant-mutant-lizard.json](./113711-attack-of-the-giant-mutant-lizard.json) |
 | Attack of the Killer Tomatoes | 273079 | [273079-attack-of-the-killer-tomatoes.json](./273079-attack-of-the-killer-tomatoes.json) |
+| Attack of the Mutant Penguins | 40819 | [40819-attack-of-the-mutant-penguins.json](./40819-attack-of-the-mutant-penguins.json) |
 | Attack of Undo Zai | 191242 | [191242-attack-of-undo-zai.json](./191242-attack-of-undo-zai.json) |
 | Attack on Altair | 69848 | [69848-attack-on-altair.json](./69848-attack-on-altair.json) |
 | Attack on Reality | 231612 | [231612-attack-on-reality.json](./231612-attack-on-reality.json) |
