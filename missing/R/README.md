@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranma ½: Datou, Ganso Musabetsu Kakutou-ryuu! | 75858 | [75858-ranma-1-2-datou-ganso-musabetsu-kakutou-ryuu.json](./75858-ranma-1-2-datou-ganso-musabetsu-kakutou-ryuu.json) |
 | Ransomware Dating Sim | 124221 | [124221-ransomware-dating-sim.json](./124221-ransomware-dating-sim.json) |
 | Rap Quest | 295037 | [295037-rap-quest.json](./295037-rap-quest.json) |
+| Rapala's Fishing Frenzy | 50605 | [50605-rapalas-fishing-frenzy.json](./50605-rapalas-fishing-frenzy.json) |
 | RaphaelGer's Plane | 229973 | [229973-raphaelgers-plane.json](./229973-raphaelgers-plane.json) |
 | Rapid Roll | 274733 | [274733-rapid-roll.json](./274733-rapid-roll.json) |
 | Rapid the Hedgehog | 330517 | [330517-rapid-the-hedgehog.json](./330517-rapid-the-hedgehog.json) |
