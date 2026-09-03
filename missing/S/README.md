@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandbox Planet | 256534 | [256534-sandbox-planet.json](./256534-sandbox-planet.json) |
 | Sandcastles | 134693 | [134693-sandcastles.json](./134693-sandcastles.json) |
 | SandRipper | 270930 | [270930-sandripper.json](./270930-sandripper.json) |
+| Sands of Osiris | 60541 | [60541-sands-of-osiris.json](./60541-sands-of-osiris.json) |
 | Sands of Salzaar | 128004 | [128004-sands-of-salzaar.json](./128004-sands-of-salzaar.json) |
 | Sands of Slumber: The RPG | 225864 | [225864-sands-of-slumber-the-rpg.json](./225864-sands-of-slumber-the-rpg.json) |
 | SandTest | 146870 | [146870-sandtest.json](./146870-sandtest.json) |
@@ -569,12 +570,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaq Attaq | 94736 | [94736-shaq-attaq.json](./94736-shaq-attaq.json) |
 | Shard of Kronos | 163967 | [163967-shard-of-kronos.json](./163967-shard-of-kronos.json) |
 | Shard Squad | 323529 | [323529-shard-squad.json](./323529-shard-squad.json) |
+| Shards of War | 60565 | [60565-shards-of-war.json](./60565-shards-of-war.json) |
 | Shark Copter vs. Zombie Dancers | 147976 | [147976-shark-copter-vs-zombie-dancers.json](./147976-shark-copter-vs-zombie-dancers.json) |
 | Shark or Die | 61105 | [61105-shark-or-die.json](./61105-shark-or-die.json) |
 | Shark Riders | 150137 | [150137-shark-riders.json](./150137-shark-riders.json) |
 | Shark Slayer | 166742 | [166742-shark-slayer.json](./166742-shark-slayer.json) |
 | SharkDrag Episode 5: Uniting the 5 Kingdoms | 210891 | [210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json](./210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json) |
 | Sharknado VR: Arcade Edition | 197404 | [197404-sharknado-vr-arcade-edition.json](./197404-sharknado-vr-arcade-edition.json) |
+| SharkSketch | 60576 | [60576-sharksketch.json](./60576-sharksketch.json) |
 | Sharp Trouble | 192938 | [192938-sharp-trouble.json](./192938-sharp-trouble.json) |
 | Shatter | 137083 | [137083-shatter.json](./137083-shatter.json) |
 | Shatter and Spin | 293383 | [293383-shatter-and-spin.json](./293383-shatter-and-spin.json) |
@@ -909,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkullSP | 329973 | [329973-skullsp.json](./329973-skullsp.json) |
 | Skunny: Lost in Space | 68705 | [68705-skunny-lost-in-space.json](./68705-skunny-lost-in-space.json) |
 | Skunny: Save Our Pizzas! | 73839 | [73839-skunny-save-our-pizzas.json](./73839-skunny-save-our-pizzas.json) |
+| Sky Arena | 60556 | [60556-sky-arena.json](./60556-sky-arena.json) |
 | Sky Baron: War of Planes | 101531 | [101531-sky-baron-war-of-planes.json](./101531-sky-baron-war-of-planes.json) |
 | Sky Champ | 194017 | [194017-sky-champ.json](./194017-sky-champ.json) |
 | Sky Chuter | 328226 | [328226-sky-chuter.json](./328226-sky-chuter.json) |
@@ -1012,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sling Kings: Supercharged Chess | 236020 | [236020-sling-kings-supercharged-chess.json](./236020-sling-kings-supercharged-chess.json) |
 | Slinger | 255955 | [255955-slinger.json](./255955-slinger.json) |
 | Slingo Quest Hawaii | 73807 | [73807-slingo-quest-hawaii.json](./73807-slingo-quest-hawaii.json) |
+| Slingshot | 60577 | [60577-slingshot.json](./60577-slingshot.json) |
 | Slingshot Rush | 253008 | [253008-slingshot-rush.json](./253008-slingshot-rush.json) |
 | Slingshot Stunt Driver & Sports | 188102 | [188102-slingshot-stunt-driver-and-sports.json](./188102-slingshot-stunt-driver-and-sports.json) |
 | Slingshot: The Bump Challenge | 108470 | [108470-slingshot-the-bump-challenge.json](./108470-slingshot-the-bump-challenge.json) |
@@ -1159,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowdreams -lost in winter- | 146324 | [146324-snowdreams-lost-in-winter.json](./146324-snowdreams-lost-in-winter.json) |
 | Snowdrop Escape | 170562 | [170562-snowdrop-escape.json](./170562-snowdrop-escape.json) |
 | SnowFight Go | 128011 | [128011-snowfight-go.json](./128011-snowfight-go.json) |
+| SnowJinks | 60554 | [60554-snowjinks.json](./60554-snowjinks.json) |
 | Snowman Attack | 262078 | [262078-snowman-attack.json](./262078-snowman-attack.json) |
 | SnowRunner: Jeep Dual Pack | 169995 | [169995-snowrunner-jeep-dual-pack.json](./169995-snowrunner-jeep-dual-pack.json) |
 | SnowRunner: Season 14 - Reap and Sow | 336931 | [336931-snowrunner-season-14-reap-and-sow.json](./336931-snowrunner-season-14-reap-and-sow.json) |
@@ -1554,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spebo | 259830 | [259830-spebo.json](./259830-spebo.json) |
 | Special Forces Group 3 | 245043 | [245043-special-forces-group-3.json](./245043-special-forces-group-3.json) |
 | Special Forces Pack | 100208 | [100208-special-forces-pack.json](./100208-special-forces-pack.json) |
+| Special Tee Shot | 60587 | [60587-special-tee-shot.json](./60587-special-tee-shot.json) |
 | Spectral Ascension | 152938 | [152938-spectral-ascension.json](./152938-spectral-ascension.json) |
 | Spectre of Eternity | 210865 | [210865-spectre-of-eternity.json](./210865-spectre-of-eternity.json) |
 | Spectre's Library | 235971 | [235971-spectres-library.json](./235971-spectres-library.json) |
@@ -2583,6 +2590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarmsign | 304904 | [304904-swarmsign.json](./304904-swarmsign.json) |
 | Swat | 71547 | [71547-swat.json](./71547-swat.json) |
 | SWAT Commander | 319967 | [319967-swat-commander.json](./319967-swat-commander.json) |
+| Swat! | 60557 | [60557-swat.json](./60557-swat.json) |
 | Swatch | 179177 | [179177-swatch.json](./179177-swatch.json) |
 | SwayBods | 233233 | [233233-swaybods.json](./233233-swaybods.json) |
 | Swaying Girl | 159875 | [159875-swaying-girl.json](./159875-swaying-girl.json) |
