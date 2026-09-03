@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabi-Ribi: Is the order a DLC? | 171637 | [171637-rabi-ribi-is-the-order-a-dlc.json](./171637-rabi-ribi-is-the-order-a-dlc.json) |
 | Rabid Helix | 257656 | [257656-rabid-helix.json](./257656-rabid-helix.json) |
 | Rabisco+ | 147464 | [147464-rabisco.json](./147464-rabisco.json) |
+| Raccoon Hero: The Sunrise | 51961 | [51961-raccoon-hero-the-sunrise.json](./51961-raccoon-hero-the-sunrise.json) |
 | Race Ace | 315274 | [315274-race-ace.json](./315274-race-ace.json) |
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
 | Race or Crash: Secret Racer League | 341314 | [341314-race-or-crash-secret-racer-league.json](./341314-race-or-crash-secret-racer-league.json) |
@@ -188,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman the Fan Series Adventure | 331695 | [331695-rayman-the-fan-series-adventure.json](./331695-rayman-the-fan-series-adventure.json) |
 | Rayman the Fan Series Adventure 2: Curse of the Jade Lum | 331696 | [331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json](./331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json) |
 | Raze 2070 | 151193 | [151193-raze-2070.json](./151193-raze-2070.json) |
+| Raze: Dungeon Arena | 52010 | [52010-raze-dungeon-arena.json](./52010-raze-dungeon-arena.json) |
 | Razed Earth | 192423 | [192423-razed-earth.json](./192423-razed-earth.json) |
 | RC Airplane Challenge | 158711 | [158711-rc-airplane-challenge.json](./158711-rc-airplane-challenge.json) |
 | RC Toy Machines | 100173 | [100173-rc-toy-machines.json](./100173-rc-toy-machines.json) |
@@ -277,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebirth of Fortune | 174322 | [174322-rebirth-of-fortune.json](./174322-rebirth-of-fortune.json) |
 | RebirthM | 174879 | [174879-rebirthm.json](./174879-rebirthm.json) |
 | Reboot | 171611 | [171611-reboot.json](./171611-reboot.json) |
+| ReBoot | 51953 | [51953-reboot.json](./51953-reboot.json) |
 | Rec: Beyond The Lens | 255957 | [255957-rec-beyond-the-lens.json](./255957-rec-beyond-the-lens.json) |
 | Recharge Complete | 75171 | [75171-recharge-complete.json](./75171-recharge-complete.json) |
 | ReCharge RC | 233758 | [233758-recharge-rc.json](./233758-recharge-rc.json) |
