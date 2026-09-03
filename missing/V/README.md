@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V-Ware | 250052 | [250052-v-ware.json](./250052-v-ware.json) |
 | V.G. Re-birth | 180273 | [180273-v-g-re-birth.json](./180273-v-g-re-birth.json) |
 | V.O.S.S. Turbo | 215918 | [215918-v-o-s-s-turbo.json](./215918-v-o-s-s-turbo.json) |
+| V8 Challenge | 69886 | [69886-v8-challenge.json](./69886-v8-challenge.json) |
 | Vacation Paradise: Florida - Collector's Edition | 254785 | [254785-vacation-paradise-florida-collectors-edition.json](./254785-vacation-paradise-florida-collectors-edition.json) |
 | Vaccine Hunter | 144355 | [144355-vaccine-hunter.json](./144355-vaccine-hunter.json) |
 | Vade Retro: Exorcist | 216492 | [216492-vade-retro-exorcist.json](./216492-vade-retro-exorcist.json) |
@@ -71,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire's Castle Adventure | 73314 | [73314-vampires-castle-adventure.json](./73314-vampires-castle-adventure.json) |
 | Vampires and Knights: Eclipse Survival & Magic Craft | 335073 | [335073-vampires-and-knights-eclipse-survival-and-magic-craft.json](./335073-vampires-and-knights-eclipse-survival-and-magic-craft.json) |
 | Vampires' Melody | 169435 | [169435-vampires-melody.json](./169435-vampires-melody.json) |
+| Vampiric Tower | 69853 | [69853-vampiric-tower.json](./69853-vampiric-tower.json) |
 | Vamps For the Memories | 192422 | [192422-vamps-for-the-memories.json](./192422-vamps-for-the-memories.json) |
 | Vamps-Imulator | 251817 | [251817-vamps-imulator.json](./251817-vamps-imulator.json) |
 | Vampyre Crusade | 317002 | [317002-vampyre-crusade.json](./317002-vampyre-crusade.json) |
