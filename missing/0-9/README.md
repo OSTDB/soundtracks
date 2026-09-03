@@ -139,9 +139,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Cubes 1 Ball | 107206 | [107206-2-cubes-1-ball.json](./107206-2-cubes-1-ball.json) |
 | 2 Game Pack I Haunted Hotel 3: Lonely Dream & Haunted Hotel 4: Charles Dexter Ward | 201862 | [201862-2-game-pack-i-haunted-hotel-3-lonely-dream-and-haunted-hotel-4-charles-dexter-ward.json](./201862-2-game-pack-i-haunted-hotel-3-lonely-dream-and-haunted-hotel-4-charles-dexter-ward.json) |
 | 2 Game Pack I Haunted Hotel: Eclipse & Haunted Hotel: Ancient Bane | 201816 | [201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json](./201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json) |
+| 2 Games in 1 Double Pack: Scooby-Doo and the Cyber Chase + Scooby-Doo! Mystery Mayhem | 84265 | [84265-2-games-in-1-double-pack-scooby-doo-and-the-cyber-chase-scooby-doo-mystery-mayhem.json](./84265-2-games-in-1-double-pack-scooby-doo-and-the-cyber-chase-scooby-doo-mystery-mayhem.json) |
 | 2 Games in One Double Pack \| Dora the Explorer: Pirate Pig's Treasure & Dora the Explorer: Super Star Adventures | 91427 | [91427-2-games-in-one-double-pack-dora-the-explorer-pirate-pigs-treasure-and-dora-the-explorer-super-star-adventures.json](./91427-2-games-in-one-double-pack-dora-the-explorer-pirate-pigs-treasure-and-dora-the-explorer-super-star-adventures.json) |
 | 2 in 1 I My Pet Hotel & My Vet Practice: In the Country | 127329 | [127329-2-in-1-i-my-pet-hotel-and-my-vet-practice-in-the-country.json](./127329-2-in-1-i-my-pet-hotel-and-my-vet-practice-in-the-country.json) |
 | 2 in 1: Monumental Bundle | 208044 | [208044-2-in-1-monumental-bundle.json](./208044-2-in-1-monumental-bundle.json) |
+| 2 in 1: V-Rally 3 + Stuntman | 84266 | [84266-2-in-1-v-rally-3-stuntman.json](./84266-2-in-1-v-rally-3-stuntman.json) |
 | 2 Player Baseball | 245578 | [245578-2-player-baseball.json](./245578-2-player-baseball.json) |
 | 2 Synchro Hedgehogs | 167831 | [167831-2-synchro-hedgehogs.json](./167831-2-synchro-hedgehogs.json) |
 | 2 Times Circles | 149575 | [149575-2-times-circles.json](./149575-2-times-circles.json) |
@@ -265,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Nights Keeper | 316436 | [316436-7-nights-keeper.json](./316436-7-nights-keeper.json) |
 | 7 of Clubs | 175417 | [175417-7-of-clubs.json](./175417-7-of-clubs.json) |
 | 7 Planets | 175396 | [175396-7-planets.json](./175396-7-planets.json) |
+| 7 Zwerge: Das Brettspiel | 84284 | [84284-7-zwerge-das-brettspiel.json](./84284-7-zwerge-das-brettspiel.json) |
 | 70 Seconds! Adventure | 121777 | [121777-70-seconds-adventure.json](./121777-70-seconds-adventure.json) |
 | 77p egg: Eggwife | 218143 | [218143-77p-egg-eggwife.json](./218143-77p-egg-eggwife.json) |
 | 77Survival Part I | 314064 | [314064-77survival-part-i.json](./314064-77survival-part-i.json) |
