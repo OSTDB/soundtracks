@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Route: The Story of Jozic | 199127 | [199127-rail-route-the-story-of-jozic.json](./199127-rail-route-the-story-of-jozic.json) |
 | Railbreak: 90s Throwback Collection | 335102 | [335102-railbreak-90s-throwback-collection.json](./335102-railbreak-90s-throwback-collection.json) |
 | Railed Up | 254780 | [254780-railed-up.json](./254780-railed-up.json) |
+| Railgunners | 74440 | [74440-railgunners.json](./74440-railgunners.json) |
 | Railroad Ink Challenge | 156127 | [156127-railroad-ink-challenge.json](./156127-railroad-ink-challenge.json) |
 | Railroad Scheduler | 295005 | [295005-railroad-scheduler.json](./295005-railroad-scheduler.json) |
 | Railroad Story HD | 175393 | [175393-railroad-story-hd.json](./175393-railroad-story-hd.json) |
@@ -812,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Sky New | 227502 | [227502-rolling-sky-new.json](./227502-rolling-sky-new.json) |
 | Rolly Cubes | 312370 | [312370-rolly-cubes.json](./312370-rolly-cubes.json) |
 | ROM Check Fail | 79311 | [79311-rom-check-fail.json](./79311-rom-check-fail.json) |
+| Roman Sacrifice in Córdoba | 74447 | [74447-roman-sacrifice-in-cordoba.json](./74447-roman-sacrifice-in-cordoba.json) |
 | Roman the Worm | 105336 | [105336-roman-the-worm.json](./105336-roman-the-worm.json) |
 | Romance Club: Stories I Play | 270927 | [270927-romance-club-stories-i-play.json](./270927-romance-club-stories-i-play.json) |
 | Romance in the Cityscape | 297208 | [297208-romance-in-the-cityscape.json](./297208-romance-in-the-cityscape.json) |
