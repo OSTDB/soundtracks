@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amidst The Haze | 278677 | [278677-amidst-the-haze.json](./278677-amidst-the-haze.json) |
 | Amigo | 92505 | [92505-amigo.json](./92505-amigo.json) |
 | Amigo Pancho 2 | 331149 | [331149-amigo-pancho-2.json](./331149-amigo-pancho-2.json) |
+| Amina's Kitchen | 91980 | [91980-aminas-kitchen.json](./91980-aminas-kitchen.json) |
 | Amma: A Quest for Light | 138223 | [138223-amma-a-quest-for-light.json](./138223-amma-a-quest-for-light.json) |
 | Ammo Pigs: Armed and Delicious | 107889 | [107889-ammo-pigs-armed-and-delicious.json](./107889-ammo-pigs-armed-and-delicious.json) |
 | Ammossum | 275884 | [275884-ammossum.json](./275884-ammossum.json) |
@@ -1053,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes: 2063 - Enriched Edition | 184100 | [184100-ashes-2063-enriched-edition.json](./184100-ashes-2063-enriched-edition.json) |
 | Ashfall | 218167 | [218167-ashfall.json](./218167-ashfall.json) |
 | Ashgard: Tone Break | 199618 | [199618-ashgard-tone-break.json](./199618-ashgard-tone-break.json) |
+| Ashi Wash | 91967 | [91967-ashi-wash.json](./91967-ashi-wash.json) |
 | Ashland | 124216 | [124216-ashland.json](./124216-ashland.json) |
 | Ashland: Rebellion of Gods | 194013 | [194013-ashland-rebellion-of-gods.json](./194013-ashland-rebellion-of-gods.json) |
 | Asian Truck Simulator | 214165 | [214165-asian-truck-simulator.json](./214165-asian-truck-simulator.json) |
@@ -1121,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrodition | 149583 | [149583-astrodition.json](./149583-astrodition.json) |
 | AstroGenesis: Boss Rush | 121041 | [121041-astrogenesis-boss-rush.json](./121041-astrogenesis-boss-rush.json) |
 | Astrologer | 130963 | [130963-astrologer.json](./130963-astrologer.json) |
+| Astroman | 91944 | [91944-astroman.json](./91944-astroman.json) |
 | Astronaut Spacewalk | 174354 | [174354-astronaut-spacewalk.json](./174354-astronaut-spacewalk.json) |
 | Astronomics Rise of a New Empire | 244513 | [244513-astronomics-rise-of-a-new-empire.json](./244513-astronomics-rise-of-a-new-empire.json) |
 | Astrotit | 93074 | [93074-astrotit.json](./93074-astrotit.json) |
