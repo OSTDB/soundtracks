@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaming Cafe Simulator | 318807 | [318807-gaming-cafe-simulator.json](./318807-gaming-cafe-simulator.json) |
 | Gaming Constructor Simulator | 121002 | [121002-gaming-constructor-simulator.json](./121002-gaming-constructor-simulator.json) |
 | Gamma64 | 221989 | [221989-gamma64.json](./221989-gamma64.json) |
+| Ganbare Neo Poke-Kun | 43970 | [43970-ganbare-neo-poke-kun.json](./43970-ganbare-neo-poke-kun.json) |
 | Gangnam City Deluxe | 242207 | [242207-gangnam-city-deluxe.json](./242207-gangnam-city-deluxe.json) |
 | Gangsta Bean | 234931 | [234931-gangsta-bean.json](./234931-gangsta-bean.json) |
 | Gangsta Underground: The Poker | 132263 | [132263-gangsta-underground-the-poker.json](./132263-gangsta-underground-the-poker.json) |
