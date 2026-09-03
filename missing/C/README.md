@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain of Space | 320558 | [320558-captain-of-space.json](./320558-captain-of-space.json) |
 | Captain Quazar | 39015 | [39015-captain-quazar.json](./39015-captain-quazar.json) |
 | Captain Tsubasa | 213601 | [213601-captain-tsubasa.json](./213601-captain-tsubasa.json) |
+| Captain Tsubasa III: Koutei no Chousen | 38340 | [38340-captain-tsubasa-iii-koutei-no-chousen.json](./38340-captain-tsubasa-iii-koutei-no-chousen.json) |
 | Capture | 104672 | [104672-capture.json](./104672-capture.json) |
 | Capture Creatures | 195252 | [195252-capture-creatures.json](./195252-capture-creatures.json) |
 | Captures | 165670 | [165670-captures.json](./165670-captures.json) |
@@ -1162,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Costly Adventure | 247735 | [247735-costly-adventure.json](./247735-costly-adventure.json) |
 | Costrutto | 191266 | [191266-costrutto.json](./191266-costrutto.json) |
 | Cotropitorii | 113007 | [113007-cotropitorii.json](./113007-cotropitorii.json) |
+| Cotton 100% | 38359 | [38359-cotton-100.json](./38359-cotton-100.json) |
 | Cotton 2: Saturn Tribute | 173782 | [173782-cotton-2-saturn-tribute.json](./173782-cotton-2-saturn-tribute.json) |
 | Cotton Boomerang: Saturn Tribute | 173781 | [173781-cotton-boomerang-saturn-tribute.json](./173781-cotton-boomerang-saturn-tribute.json) |
 | Couch Party Game Night | 109655 | [109655-couch-party-game-night.json](./109655-couch-party-game-night.json) |
