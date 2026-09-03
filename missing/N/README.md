@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naive Riri | 236511 | [236511-naive-riri.json](./236511-naive-riri.json) |
 | Naked Little Dude | 131607 | [131607-naked-little-dude.json](./131607-naked-little-dude.json) |
 | Name that Sonic Tune | 326960 | [326960-name-that-sonic-tune.json](./326960-name-that-sonic-tune.json) |
+| Nana-chan no Star Tanjou | 66131 | [66131-nana-chan-no-star-tanjou.json](./66131-nana-chan-no-star-tanjou.json) |
 | Nandemo!? Taihoman | 264312 | [264312-nandemo-taihoman.json](./264312-nandemo-taihoman.json) |
 | Nanocorp | 173281 | [173281-nanocorp.json](./173281-nanocorp.json) |
 | NanoHive | 216991 | [216991-nanohive.json](./216991-nanohive.json) |
@@ -367,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine to Five | 127353 | [127353-nine-to-five.json](./127353-nine-to-five.json) |
 | Nine Worlds | 150659 | [150659-nine-worlds.json](./150659-nine-worlds.json) |
 | Nineteen | 128654 | [128654-nineteen.json](./128654-nineteen.json) |
+| Ninety-Nine Nights Online | 66135 | [66135-ninety-nine-nights-online.json](./66135-ninety-nine-nights-online.json) |
 | Ningen Maru | 178677 | [178677-ningen-maru.json](./178677-ningen-maru.json) |
 | Ninja Ball | 100192 | [100192-ninja-ball.json](./100192-ninja-ball.json) |
 | Ninja Break | 203559 | [203559-ninja-break.json](./203559-ninja-break.json) |
