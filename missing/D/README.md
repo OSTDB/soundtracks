@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damascus Gear: Operation Osaka | 123034 | [123034-damascus-gear-operation-osaka.json](./123034-damascus-gear-operation-osaka.json) |
 | Damn Little Town | 262062 | [262062-damn-little-town.json](./262062-damn-little-town.json) |
 | Damned Hand: Arcade Mode | 171069 | [171069-damned-hand-arcade-mode.json](./171069-damned-hand-arcade-mode.json) |
+| Dan Vs. This Game | 63879 | [63879-dan-vs-this-game.json](./63879-dan-vs-this-game.json) |
 | Dance Around | 210279 | [210279-dance-around.json](./210279-dance-around.json) |
 | Dance Dance Revolution ExtraMix | 93034 | [93034-dance-dance-revolution-extramix.json](./93034-dance-dance-revolution-extramix.json) |
 | Dance Dance Revolution GB | 72734 | [72734-dance-dance-revolution-gb.json](./72734-dance-dance-revolution-gb.json) |
@@ -622,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinky Rinky | 231610 | [231610-dinky-rinky.json](./231610-dinky-rinky.json) |
 | Dinner for Pigeons | 168385 | [168385-dinner-for-pigeons.json](./168385-dinner-for-pigeons.json) |
 | Dino Breeder | 64981 | [64981-dino-breeder.json](./64981-dino-breeder.json) |
+| Dino Breeder 2 | 63853 | [63853-dino-breeder-2.json](./63853-dino-breeder-2.json) |
 | Dino Crisis | 317628 | [317628-dino-crisis.json](./317628-dino-crisis.json) |
 | Dino Crisis: Dungeon in Chaos | 146923 | [146923-dino-crisis-dungeon-in-chaos.json](./146923-dino-crisis-dungeon-in-chaos.json) |
 | Dino Genesis | 146924 | [146924-dino-genesis.json](./146924-dino-genesis.json) |
