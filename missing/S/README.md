@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Chess | 149571 | [149571-samurai-chess.json](./149571-samurai-chess.json) |
 | Samurai Defender | 84903 | [84903-samurai-defender.json](./84903-samurai-defender.json) |
 | Samurai Fighter | 108475 | [108475-samurai-fighter.json](./108475-samurai-fighter.json) |
+| Samurai Saga | 55910 | [55910-samurai-saga.json](./55910-samurai-saga.json) |
 | Samurai Shodown: Baiken | 167836 | [167836-samurai-shodown-baiken.json](./167836-samurai-shodown-baiken.json) |
 | Samurai Solitaire: Return of the Ronin | 204103 | [204103-samurai-solitaire-return-of-the-ronin.json](./204103-samurai-solitaire-return-of-the-ronin.json) |
 | Samurai Warriors 3 Z | 136468 | [136468-samurai-warriors-3-z.json](./136468-samurai-warriors-3-z.json) |
@@ -165,6 +166,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Letters VR | 257066 | [257066-santas-letters-vr.json](./257066-santas-letters-vr.json) |
 | Santa's World | 277577 | [277577-santas-world.json](./277577-santas-world.json) |
 | Santo Island Incident | 199661 | [199661-santo-island-incident.json](./199661-santo-island-incident.json) |
+| Sanyo Pachinko Paradise | 55926 | [55926-sanyo-pachinko-paradise.json](./55926-sanyo-pachinko-paradise.json) |
+| Sanyo Pachinko Paradise 2: Umi Monogatari Special | 55942 | [55942-sanyo-pachinko-paradise-2-umi-monogatari-special.json](./55942-sanyo-pachinko-paradise-2-umi-monogatari-special.json) |
+| Sanyo Pachinko Paradise 3 | 55927 | [55927-sanyo-pachinko-paradise-3.json](./55927-sanyo-pachinko-paradise-3.json) |
 | Sapo Xulé: S.O.S. Lagoa Poluída | 84282 | [84282-sapo-xule-s-o-s-lagoa-poluida.json](./84282-sapo-xule-s-o-s-lagoa-poluida.json) |
 | Sapper: Defuse the Bomb Simulator | 118439 | [118439-sapper-defuse-the-bomb-simulator.json](./118439-sapper-defuse-the-bomb-simulator.json) |
 | Sarah's Adventure: Time Travel | 304862 | [304862-sarahs-adventure-time-travel.json](./304862-sarahs-adventure-time-travel.json) |
@@ -1568,6 +1572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spebo | 259830 | [259830-spebo.json](./259830-spebo.json) |
 | Special Forces Group 3 | 245043 | [245043-special-forces-group-3.json](./245043-special-forces-group-3.json) |
 | Special Forces Pack | 100208 | [100208-special-forces-pack.json](./100208-special-forces-pack.json) |
+| Special Sampler | 55925 | [55925-special-sampler.json](./55925-special-sampler.json) |
 | Special Tee Shot | 60587 | [60587-special-tee-shot.json](./60587-special-tee-shot.json) |
 | Spectral Ascension | 152938 | [152938-spectral-ascension.json](./152938-spectral-ascension.json) |
 | Spectre of Eternity | 210865 | [210865-spectre-of-eternity.json](./210865-spectre-of-eternity.json) |
@@ -1912,6 +1917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamDolls: Order of Chaos | 124261 | [124261-steamdolls-order-of-chaos.json](./124261-steamdolls-order-of-chaos.json) |
 | SteamForge | 339666 | [339666-steamforge.json](./339666-steamforge.json) |
 | SteamGear Mash | 91943 | [91943-steamgear-mash.json](./91943-steamgear-mash.json) |
+| SteamHammerVR - The Rogue Apprentice | 55903 | [55903-steamhammervr-the-rogue-apprentice.json](./55903-steamhammervr-the-rogue-apprentice.json) |
 | Steampunch | 335075 | [335075-steampunch.json](./335075-steampunch.json) |
 | Steamworld Dig 2 + Steamworld Dig | 218691 | [218691-steamworld-dig-2-steamworld-dig.json](./218691-steamworld-dig-2-steamworld-dig.json) |
 | Steamy Sextet | 127997 | [127997-steamy-sextet.json](./127997-steamy-sextet.json) |
@@ -2181,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Memories: Deluxe Edition | 186897 | [186897-summer-memories-deluxe-edition.json](./186897-summer-memories-deluxe-edition.json) |
 | Summer Paws | 122378 | [122378-summer-paws.json](./122378-summer-paws.json) |
 | Summer Pleasure | 210876 | [210876-summer-pleasure.json](./210876-summer-pleasure.json) |
+| Summer Sled | 55943 | [55943-summer-sled.json](./55943-summer-sled.json) |
 | Summer Vacation | 221405 | [221405-summer-vacation.json](./221405-summer-vacation.json) |
 | Summer Village | 236513 | [236513-summer-village.json](./236513-summer-village.json) |
 | Summer With You | 195234 | [195234-summer-with-you.json](./195234-summer-with-you.json) |
