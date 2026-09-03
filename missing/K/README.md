@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights Conquest | 123060 | [123060-knights-conquest.json](./123060-knights-conquest.json) |
 | Knights of Braveland: Around the World Pack | 255963 | [255963-knights-of-braveland-around-the-world-pack.json](./255963-knights-of-braveland-around-the-world-pack.json) |
 | Knights of the Chalice 2: Archmage Edition | 196299 | [196299-knights-of-the-chalice-2-archmage-edition.json](./196299-knights-of-the-chalice-2-archmage-edition.json) |
+| Knights of the Desert: The North African Campaign of 1941-1943 | 73828 | [73828-knights-of-the-desert-the-north-african-campaign-of-1941-1943.json](./73828-knights-of-the-desert-the-north-african-campaign-of-1941-1943.json) |
 | Knights of Valour | 76639 | [76639-knights-of-valour.json](./76639-knights-of-valour.json) |
 | Knights of Valour Plus | 246086 | [246086-knights-of-valour-plus.json](./246086-knights-of-valour-plus.json) |
 | Knights Vault | 300984 | [300984-knights-vault.json](./300984-knights-vault.json) |
