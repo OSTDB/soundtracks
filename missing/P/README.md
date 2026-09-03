@@ -666,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Robot Return | 186319 | [186319-pixel-robot-return.json](./186319-pixel-robot-return.json) |
 | Pixel Sangokushi | 200730 | [200730-pixel-sangokushi.json](./200730-pixel-sangokushi.json) |
 | Pixel Skater | 190205 | [190205-pixel-skater.json](./190205-pixel-skater.json) |
+| Pixel Soccer | 35814 | [35814-pixel-soccer.json](./35814-pixel-soccer.json) |
 | Pixel Storm | 182547 | [182547-pixel-storm.json](./182547-pixel-storm.json) |
 | Pixel Survival Game 2 | 241636 | [241636-pixel-survival-game-2.json](./241636-pixel-survival-game-2.json) |
 | Pixel Sweepers | 259244 | [259244-pixel-sweepers.json](./259244-pixel-sweepers.json) |
