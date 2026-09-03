@@ -633,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altered Anomalies | 322994 | [322994-altered-anomalies.json](./322994-altered-anomalies.json) |
 | Altered Beast | 202941 | [202941-altered-beast.json](./202941-altered-beast.json) |
 | AlterEgo City | 306643 | [306643-alterego-city.json](./306643-alterego-city.json) |
+| Alternate Worlds | 62768 | [62768-alternate-worlds.json](./62768-alternate-worlds.json) |
 | AlterVerse: Disruption | 70394 | [70394-alterverse-disruption.json](./70394-alterverse-disruption.json) |
 | AltLife | 331148 | [331148-altlife.json](./331148-altlife.json) |
 | Altruism | 147451 | [147451-altruism.json](./147451-altruism.json) |
@@ -692,6 +693,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amma: A Quest for Light | 138223 | [138223-amma-a-quest-for-light.json](./138223-amma-a-quest-for-light.json) |
 | Ammo Pigs: Armed and Delicious | 107889 | [107889-ammo-pigs-armed-and-delicious.json](./107889-ammo-pigs-armed-and-delicious.json) |
 | Ammossum | 275884 | [275884-ammossum.json](./275884-ammossum.json) |
+| Amnesia Crowd | 62754 | [62754-amnesia-crowd.json](./62754-amnesia-crowd.json) |
+| Amnesia Later | 62753 | [62753-amnesia-later.json](./62753-amnesia-later.json) |
+| Amnesia World | 62755 | [62755-amnesia-world.json](./62755-amnesia-world.json) |
 | Amoeboid | 233213 | [233213-amoeboid.json](./233213-amoeboid.json) |
 | Amogus TD 2: Defense of the Sus | 254757 | [254757-amogus-td-2-defense-of-the-sus.json](./254757-amogus-td-2-defense-of-the-sus.json) |
 | Among School Girls | 165006 | [165006-among-school-girls.json](./165006-among-school-girls.json) |
