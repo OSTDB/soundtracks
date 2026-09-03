@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaction | 152347 | [152347-reaction.json](./152347-reaction.json) |
 | Reactor 09 | 123596 | [123596-reactor-09.json](./123596-reactor-09.json) |
 | Reactor Tech 2 | 163975 | [163975-reactor-tech-2.json](./163975-reactor-tech-2.json) |
+| Reader Rabbit 1st Grade | 88280 | [88280-reader-rabbit-1st-grade.json](./88280-reader-rabbit-1st-grade.json) |
 | Reading Raven | 104090 | [104090-reading-raven.json](./104090-reading-raven.json) |
 | Reading World VR | 296082 | [296082-reading-world-vr.json](./296082-reading-world-vr.json) |
 | Ready Action | 196893 | [196893-ready-action.json](./196893-ready-action.json) |
@@ -478,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse 1999: Revival! The Uluru Games | 340205 | [340205-reverse-1999-revival-the-uluru-games.json](./340205-reverse-1999-revival-the-uluru-games.json) |
 | Reverse 1999: Vereinsamt | 340223 | [340223-reverse-1999-vereinsamt.json](./340223-reverse-1999-vereinsamt.json) |
 | Reverse Defenders | 150174 | [150174-reverse-defenders.json](./150174-reverse-defenders.json) |
+| Reverse it, board game | 88262 | [88262-reverse-it-board-game.json](./88262-reverse-it-board-game.json) |
 | Reversi 32 | 197920 | [197920-reversi-32.json](./197920-reversi-32.json) |
 | Reversi xVSx | 295564 | [295564-reversi-xvsx.json](./295564-reversi-xvsx.json) |
 | ReversiBot | 266477 | [266477-reversibot.json](./266477-reversibot.json) |
