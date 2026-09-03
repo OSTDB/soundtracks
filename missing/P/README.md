@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paca Paca Passion Special | 329386 | [329386-paca-paca-passion-special.json](./329386-paca-paca-passion-special.json) |
 | PacaPomo | 310189 | [310189-pacapomo.json](./310189-pacapomo.json) |
 | Pachi Pachi: On a Roll | 143696 | [143696-pachi-pachi-on-a-roll.json](./143696-pachi-pachi-on-a-roll.json) |
+| Pachi Para 15: Super Sea in Okinawa 2 | 65538 | [65538-pachi-para-15-super-sea-in-okinawa-2.json](./65538-pachi-para-15-super-sea-in-okinawa-2.json) |
 | Pachillinko | 188665 | [188665-pachillinko.json](./188665-pachillinko.json) |
 | Pachinko With Nick | 184121 | [184121-pachinko-with-nick.json](./184121-pachinko-with-nick.json) |
 | Pachio-kun Game Gallery | 86125 | [86125-pachio-kun-game-gallery.json](./86125-pachio-kun-game-gallery.json) |
