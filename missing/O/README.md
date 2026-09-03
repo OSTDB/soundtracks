@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: The Fedora Files Desperate Struggle Collection | 338025 | [338025-outbreak-the-fedora-files-desperate-struggle-collection.json](./338025-outbreak-the-fedora-files-desperate-struggle-collection.json) |
 | Outbreak: The New Nightmare - Definitive Collection | 234305 | [234305-outbreak-the-new-nightmare-definitive-collection.json](./234305-outbreak-the-new-nightmare-definitive-collection.json) |
 | Outbrk | 131609 | [131609-outbrk.json](./131609-outbrk.json) |
+| Outcast II: The Lost Paradise | 66687 | [66687-outcast-ii-the-lost-paradise.json](./66687-outcast-ii-the-lost-paradise.json) |
 | Outcasts of Dungeon | 195191 | [195191-outcasts-of-dungeon.json](./195191-outcasts-of-dungeon.json) |
 | Outdo IO: Alphabet Letter | 237632 | [237632-outdo-io-alphabet-letter.json](./237632-outdo-io-alphabet-letter.json) |
 | Outdoors Unlimited | 137088 | [137088-outdoors-unlimited.json](./137088-outdoors-unlimited.json) |
