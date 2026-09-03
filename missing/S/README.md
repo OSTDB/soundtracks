@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Doorways | 209632 | [209632-seven-doorways.json](./209632-seven-doorways.json) |
 | Seven Knights: Time Wanderer - Special Edition | 238229 | [238229-seven-knights-time-wanderer-special-edition.json](./238229-seven-knights-time-wanderer-special-edition.json) |
 | Seven: Enhanced - Collector's Edition | 154529 | [154529-seven-enhanced-collectors-edition.json](./154529-seven-enhanced-collectors-edition.json) |
+| Severity | 93615 | [93615-severity.json](./93615-severity.json) |
 | Sex and the Furry Titty 2: Sins of the City - Love Stories Episodes | 173846 | [173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json](./173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json) |
 | Sex and the Furry Titty 3: Come Inside, Sweety | 237075 | [237075-sex-and-the-furry-titty-3-come-inside-sweety.json](./237075-sex-and-the-furry-titty-3-come-inside-sweety.json) |
 | Sex College | 297214 | [297214-sex-college.json](./297214-sex-college.json) |
@@ -533,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shift | 181920 | [181920-shift.json](./181920-shift.json) |
 | Shifted Heart | 235987 | [235987-shifted-heart.json](./235987-shifted-heart.json) |
 | Shijie Xiuxian | 295003 | [295003-shijie-xiuxian.json](./295003-shijie-xiuxian.json) |
+| Shiki-Tei | 93616 | [93616-shiki-tei.json](./93616-shiki-tei.json) |
 | Shimajiro no Eigo Activity Ehon: ABC Park de Asobou! | 327617 | [327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json](./327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json) |
 | Shin Hayarigami: Secret Club | 100817 | [100817-shin-hayarigami-secret-club.json](./100817-shin-hayarigami-secret-club.json) |
 | Shin Hisui no Shizuku: Hiiro no Kakera 2 DS | 124278 | [124278-shin-hisui-no-shizuku-hiiro-no-kakera-2-ds.json](./124278-shin-hisui-no-shizuku-hiiro-no-kakera-2-ds.json) |
@@ -1017,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Star Manager | 108467 | [108467-soccer-star-manager.json](./108467-soccer-star-manager.json) |
 | Soccer VR Football | 200169 | [200169-soccer-vr-football.json](./200169-soccer-vr-football.json) |
 | Soccer Wind Shot | 233736 | [233736-soccer-wind-shot.json](./233736-soccer-wind-shot.json) |
+| Soccerholix | 93577 | [93577-soccerholix.json](./93577-soccerholix.json) |
 | Soccering | 115041 | [115041-soccering.json](./115041-soccering.json) |
 | Social Distancing Simulator | 166204 | [166204-social-distancing-simulator.json](./166204-social-distancing-simulator.json) |
 | Sock Dating Simulator | 341321 | [341321-sock-dating-simulator.json](./341321-sock-dating-simulator.json) |
@@ -1731,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone of Destiny | 242796 | [242796-stone-of-destiny.json](./242796-stone-of-destiny.json) |
 | Stone Story | 301604 | [301604-stone-story.json](./301604-stone-story.json) |
 | StoneStory | 339662 | [339662-stonestory.json](./339662-stonestory.json) |
+| Stop and Go | 93567 | [93567-stop-and-go.json](./93567-stop-and-go.json) |
 | Stop Those Aliens! | 277567 | [277567-stop-those-aliens.json](./277567-stop-those-aliens.json) |
 | Storage Anomaly | 325821 | [325821-storage-anomaly.json](./325821-storage-anomaly.json) |
 | Storage Master | 212483 | [212483-storage-master.json](./212483-storage-master.json) |
@@ -2175,6 +2179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sonic in Sonic 3D | 198546 | [198546-super-sonic-in-sonic-3d.json](./198546-super-sonic-in-sonic-3d.json) |
 | Super Sonic in Sonic the Hedgehog | 198527 | [198527-super-sonic-in-sonic-the-hedgehog.json](./198527-super-sonic-in-sonic-the-hedgehog.json) |
 | Super Sonic Speed Course | 321115 | [321115-super-sonic-speed-course.json](./321115-super-sonic-speed-course.json) |
+| Super Spike V'Ball/Nintendo World Cup | 93582 | [93582-super-spike-vball-nintendo-world-cup.json](./93582-super-spike-vball-nintendo-world-cup.json) |
 | Super Spray n' Slay 3D | 184107 | [184107-super-spray-n-slay-3d.json](./184107-super-spray-n-slay-3d.json) |
 | Super Star Trek | 325825 | [325825-super-star-trek.json](./325825-super-star-trek.json) |
 | Super Sunny World | 324695 | [324695-super-sunny-world.json](./324695-super-sunny-world.json) |
@@ -2226,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Candy: Oudou ni wa Oudoutaru Riyuu ga Arun Desu! | 137107 | [137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json](./137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json) |
 | Supreme Summoner | 257101 | [257101-supreme-summoner.json](./257101-supreme-summoner.json) |
 | Surabaya Inferno | 150676 | [150676-surabaya-inferno.json](./150676-surabaya-inferno.json) |
+| Surf 'n Safari | 93574 | [93574-surf-n-safari.json](./93574-surf-n-safari.json) |
 | Surf & Turf Bundle | 308581 | [308581-surf-and-turf-bundle.json](./308581-surf-and-turf-bundle.json) |
 | Surface: Project Dawn | 102812 | [102812-surface-project-dawn.json](./102812-surface-project-dawn.json) |
 | Surge Breaker | 185693 | [185693-surge-breaker.json](./185693-surge-breaker.json) |
