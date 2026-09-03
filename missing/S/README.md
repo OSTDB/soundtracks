@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacra: Falling of Myrd | 331692 | [331692-sacra-falling-of-myrd.json](./331692-sacra-falling-of-myrd.json) |
 | Sacred Chasm: Silent Utopia | 297814 | [297814-sacred-chasm-silent-utopia.json](./297814-sacred-chasm-silent-utopia.json) |
 | Sacreligious | 276460 | [276460-sacreligious.json](./276460-sacreligious.json) |
+| Sacrilege | 61634 | [61634-sacrilege.json](./61634-sacrilege.json) |
 | Sad Ghouls | 194655 | [194655-sad-ghouls.json](./194655-sad-ghouls.json) |
 | Sadboy | 113682 | [113682-sadboy.json](./113682-sadboy.json) |
 | Sadoubu (Tea Ceremony Club) | 82946 | [82946-sadoubu-tea-ceremony-club.json](./82946-sadoubu-tea-ceremony-club.json) |
@@ -352,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Maryo Chronicles | 134076 | [134076-secret-maryo-chronicles.json](./134076-secret-maryo-chronicles.json) |
 | Secret Mysteries in London | 84900 | [84900-secret-mysteries-in-london.json](./84900-secret-mysteries-in-london.json) |
 | Secret Mysteries in New York | 84899 | [84899-secret-mysteries-in-new-york.json](./84899-secret-mysteries-in-new-york.json) |
+| Secret of Evangelion | 61670 | [61670-secret-of-evangelion.json](./61670-secret-of-evangelion.json) |
 | Secret of the Solstice | 307331 | [307331-secret-of-the-solstice.json](./307331-secret-of-the-solstice.json) |
 | Secret Paths to the Sea | 70382 | [70382-secret-paths-to-the-sea.json](./70382-secret-paths-to-the-sea.json) |
 | Secret Pet Playmate | 243930 | [243930-secret-pet-playmate.json](./243930-secret-pet-playmate.json) |
@@ -642,10 +644,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Stars 3: Sanctuary of the Star Comet | 132861 | [132861-shining-stars-3-sanctuary-of-the-star-comet.json](./132861-shining-stars-3-sanctuary-of-the-star-comet.json) |
 | Shinobi Match | 332845 | [332845-shinobi-match.json](./332845-shinobi-match.json) |
 | Shinobi Spirits S: Legend of Heroes | 121046 | [121046-shinobi-spirits-s-legend-of-heroes.json](./121046-shinobi-spirits-s-legend-of-heroes.json) |
+| Shinobi, Koi Utsutsu | 61665 | [61665-shinobi-koi-utsutsu.json](./61665-shinobi-koi-utsutsu.json) |
 | Shinobi, Koi Utsutsu: Banka Aya Emaki - Limited Edition | 205269 | [205269-shinobi-koi-utsutsu-banka-aya-emaki-limited-edition.json](./205269-shinobi-koi-utsutsu-banka-aya-emaki-limited-edition.json) |
 | Shinobi.io | 194016 | [194016-shinobi-io.json](./194016-shinobi-io.json) |
 | Shinorubi | 173320 | [173320-shinorubi.json](./173320-shinorubi.json) |
 | Shinrei Gakkou kara no Dasshutsu | 150130 | [150130-shinrei-gakkou-kara-no-dasshutsu.json](./150130-shinrei-gakkou-kara-no-dasshutsu.json) |
+| Shinseiki Evangelion Mahjong Hokan Keikaku | 61676 | [61676-shinseiki-evangelion-mahjong-hokan-keikaku.json](./61676-shinseiki-evangelion-mahjong-hokan-keikaku.json) |
+| Shinseiki Evangelion: Typing E-Keikaku | 61671 | [61671-shinseiki-evangelion-typing-e-keikaku.json](./61671-shinseiki-evangelion-typing-e-keikaku.json) |
 | Shinsetsu Mahou Shoujo | 131589 | [131589-shinsetsu-mahou-shoujo.json](./131589-shinsetsu-mahou-shoujo.json) |
 | Shinshuku Taisen: It's a Noni! | 123622 | [123622-shinshuku-taisen-its-a-noni.json](./123622-shinshuku-taisen-its-a-noni.json) |
 | Shinya Ichizoku: The Battle for Hokkaido's Delicious Foods | 186908 | [186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json](./186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json) |
@@ -849,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sins | 183078 | [183078-sins.json](./183078-sins.json) |
 | Siphonogore | 291237 | [291237-siphonogore.json](./291237-siphonogore.json) |
 | Sir Ababol: Remastered Edition | 194641 | [194641-sir-ababol-remastered-edition.json](./194641-sir-ababol-remastered-edition.json) |
+| Sira | 61626 | [61626-sira.json](./61626-sira.json) |
 | Siren Head: Stranded | 309120 | [309120-siren-head-stranded.json](./309120-siren-head-stranded.json) |
 | Siren Head: The Arrival | 312360 | [312360-siren-head-the-arrival.json](./312360-siren-head-the-arrival.json) |
 | Siren's Call: Escape Velocity | 258728 | [258728-sirens-call-escape-velocity.json](./258728-sirens-call-escape-velocity.json) |
@@ -1043,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Balls | 275898 | [275898-smash-balls.json](./275898-smash-balls.json) |
 | Smash Bowling 3D | 84881 | [84881-smash-bowling-3d.json](./84881-smash-bowling-3d.json) |
 | Smash Cat Heroes | 84882 | [84882-smash-cat-heroes.json](./84882-smash-cat-heroes.json) |
+| Smash Court 3 | 61669 | [61669-smash-court-3.json](./61669-smash-court-3.json) |
 | Smash Crabs | 151744 | [151744-smash-crabs.json](./151744-smash-crabs.json) |
 | Smash Halloween Pumpkins: The Challenge | 103485 | [103485-smash-halloween-pumpkins-the-challenge.json](./103485-smash-halloween-pumpkins-the-challenge.json) |
 | Smash Reversi | 167287 | [167287-smash-reversi.json](./167287-smash-reversi.json) |
