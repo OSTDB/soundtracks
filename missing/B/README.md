@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Orchard: Animal Valley - Ultra Ultimate | 271500 | [271500-bit-orchard-animal-valley-ultra-ultimate.json](./271500-bit-orchard-animal-valley-ultra-ultimate.json) |
 | Bitcoin Mining Tycoon | 103469 | [103469-bitcoin-mining-tycoon.json](./103469-bitcoin-mining-tycoon.json) |
 | Bitcoin Trading Master: Simulator | 125433 | [125433-bitcoin-trading-master-simulator.json](./125433-bitcoin-trading-master-simulator.json) |
+| Bitcoin VS Brain | 89961 | [89961-bitcoin-vs-brain.json](./89961-bitcoin-vs-brain.json) |
 | BitColor | 184116 | [184116-bitcolor.json](./184116-bitcolor.json) |
 | Bite Me | 128623 | [128623-bite-me.json](./128623-bite-me.json) |
 | Bitsnake | 135281 | [135281-bitsnake.json](./135281-bitsnake.json) |
@@ -727,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodRush: Undying Wish | 255389 | [255389-bloodrush-undying-wish.json](./255389-bloodrush-undying-wish.json) |
 | BloodSworn | 267099 | [267099-bloodsworn.json](./267099-bloodsworn.json) |
 | Bloody Bunny: The Game | 144358 | [144358-bloody-bunny-the-game.json](./144358-bloody-bunny-the-game.json) |
+| Bloody Faerie | 89948 | [89948-bloody-faerie.json](./89948-bloody-faerie.json) |
 | Bloody Heck | 261548 | [261548-bloody-heck.json](./261548-bloody-heck.json) |
 | Bloody Walls: Hardcore | 166222 | [166222-bloody-walls-hardcore.json](./166222-bloody-walls-hardcore.json) |
 | Bloody Walls: Hardcore x2 | 166223 | [166223-bloody-walls-hardcore-x2.json](./166223-bloody-walls-hardcore-x2.json) |
@@ -953,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Royale | 269326 | [269326-brawl-royale.json](./269326-brawl-royale.json) |
 | Brawlin' Sailor | 201288 | [201288-brawlin-sailor.json](./201288-brawlin-sailor.json) |
 | Breach | 251831 | [251831-breach.json](./251831-breach.json) |
+| Breach of Contract Reloaded | 89947 | [89947-breach-of-contract-reloaded.json](./89947-breach-of-contract-reloaded.json) |
 | Bread Barbershop Differences | 219819 | [219819-bread-barbershop-differences.json](./219819-bread-barbershop-differences.json) |
 | Bread Fish Clicker | 306637 | [306637-bread-fish-clicker.json](./306637-bread-fish-clicker.json) |
 | Bread Kittens | 159352 | [159352-bread-kittens.json](./159352-bread-kittens.json) |
@@ -991,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Crossy Road | 241613 | [241613-brick-crossy-road.json](./241613-brick-crossy-road.json) |
 | Brick Mini Golf | 297249 | [297249-brick-mini-golf.json](./297249-brick-mini-golf.json) |
 | Brick Odyssey | 229332 | [229332-brick-odyssey.json](./229332-brick-odyssey.json) |
+| Brick Thru | 89932 | [89932-brick-thru.json](./89932-brick-thru.json) |
 | Bricksbumpbump | 325830 | [325830-bricksbumpbump.json](./325830-bricksbumpbump.json) |
 | Brickyard / Clowns | 93565 | [93565-brickyard-clowns.json](./93565-brickyard-clowns.json) |
 | Bride for the Princess | 158192 | [158192-bride-for-the-princess.json](./158192-bride-for-the-princess.json) |
@@ -1029,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Strike | 235459 | [235459-brutal-strike.json](./235459-brutal-strike.json) |
 | Brutal Wizardry | 159869 | [159869-brutal-wizardry.json](./159869-brutal-wizardry.json) |
 | BrutalAliens | 107903 | [107903-brutalaliens.json](./107903-brutalaliens.json) |
+| Brutalism | 89979 | [89979-brutalism.json](./89979-brutalism.json) |
 | Brutalism22 | 244470 | [244470-brutalism22.json](./244470-brutalism22.json) |
 | Brutalistick VR | 277017 | [277017-brutalistick-vr.json](./277017-brutalistick-vr.json) |
 | Brute Horse | 314627 | [314627-brute-horse.json](./314627-brute-horse.json) |
