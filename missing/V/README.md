@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | V Bomb | 318753 | [318753-v-bomb.json](./318753-v-bomb.json) |
+| V for Victory: Market Garden | 70965 | [70965-v-for-victory-market-garden.json](./70965-v-for-victory-market-garden.json) |
 | V Lights | 216498 | [216498-v-lights.json](./216498-v-lights.json) |
 | V Rising: Invaders of Oakvale | 339621 | [339621-v-rising-invaders-of-oakvale.json](./339621-v-rising-invaders-of-oakvale.json) |
 | V-Shift | 338559 | [338559-v-shift.json](./338559-v-shift.json) |
@@ -136,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vestaria Saga II: The Sacred Sword of Silvanister | 186886 | [186886-vestaria-saga-ii-the-sacred-sword-of-silvanister.json](./186886-vestaria-saga-ii-the-sacred-sword-of-silvanister.json) |
 | VEV: Viva Ex Vivo - VR Edition | 187513 | [187513-vev-viva-ex-vivo-vr-edition.json](./187513-vev-viva-ex-vivo-vr-edition.json) |
 | Vexius | 76677 | [76677-vexius.json](./76677-vexius.json) |
+| VFR Real Scenery: London | 70963 | [70963-vfr-real-scenery-london.json](./70963-vfr-real-scenery-london.json) |
 | VGA Planets | 135285 | [135285-vga-planets.json](./135285-vga-planets.json) |
 | VGM Quiz | 219270 | [219270-vgm-quiz.json](./219270-vgm-quiz.json) |
 | VHS vs. Betamax | 177572 | [177572-vhs-vs-betamax.json](./177572-vhs-vs-betamax.json) |
