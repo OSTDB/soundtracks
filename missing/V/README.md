@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valor Time | 107911 | [107911-valor-time.json](./107911-valor-time.json) |
 | Vampire Clans | 216493 | [216493-vampire-clans.json](./216493-vampire-clans.json) |
 | Vampire Crystals: Rebirth | 85471 | [85471-vampire-crystals-rebirth.json](./85471-vampire-crystals-rebirth.json) |
+| Vampire Knight DS | 69290 | [69290-vampire-knight-ds.json](./69290-vampire-knight-ds.json) |
 | Vampire Martina-Bloody Day 228 | 124222 | [124222-vampire-martina-bloody-day-228.json](./124222-vampire-martina-bloody-day-228.json) |
 | Vampire Slayer: The Resurrection | 231065 | [231065-vampire-slayer-the-resurrection.json](./231065-vampire-slayer-the-resurrection.json) |
 | Vampire Survivors: Emerald Diorama | 339620 | [339620-vampire-survivors-emerald-diorama.json](./339620-vampire-survivors-emerald-diorama.json) |
@@ -87,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vapor Memories | 184122 | [184122-vapor-memories.json](./184122-vapor-memories.json) |
 | Varenje: Don't Touch The Berries | 271501 | [271501-varenje-dont-touch-the-berries.json](./271501-varenje-dont-touch-the-berries.json) |
 | Vari Dungeon | 220869 | [220869-vari-dungeon.json](./220869-vari-dungeon.json) |
+| Variant: Limits | 69317 | [69317-variant-limits.json](./69317-variant-limits.json) |
 | VariTale | 71508 | [71508-varitale.json](./71508-varitale.json) |
 | Vaster Claws 3: Dragon Slayer of the God World | 132243 | [132243-vaster-claws-3-dragon-slayer-of-the-god-world.json](./132243-vaster-claws-3-dragon-slayer-of-the-god-world.json) |
 | Vault of Power | 260390 | [260390-vault-of-power.json](./260390-vault-of-power.json) |
@@ -122,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veredilia: The Sacred Forest | 265932 | [265932-veredilia-the-sacred-forest.json](./265932-veredilia-the-sacred-forest.json) |
 | Verfall | 338572 | [338572-verfall.json](./338572-verfall.json) |
 | Verho: Curse of Faces | 318767 | [318767-verho-curse-of-faces.json](./318767-verho-curse-of-faces.json) |
+| Vermilion Desert | 69316 | [69316-vermilion-desert.json](./69316-vermilion-desert.json) |
 | Vermillion Descent | 209137 | [209137-vermillion-descent.json](./209137-vermillion-descent.json) |
 | Vermin | 232696 | [232696-vermin.json](./232696-vermin.json) |
 | Vermin Control | 334483 | [334483-vermin-control.json](./334483-vermin-control.json) |
@@ -227,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VISK | 248914 | [248914-visk.json](./248914-visk.json) |
 | Visualizer | 80590 | [80590-visualizer.json](./80590-visualizer.json) |
 | Vitality | 213040 | [213040-vitality.json](./213040-vitality.json) |
+| Vitamin X | 69288 | [69288-vitamin-x.json](./69288-vitamin-x.json) |
 | Vitreous | 179717 | [179717-vitreous.json](./179717-vitreous.json) |
 | Viva Mortis | 117734 | [117734-viva-mortis.json](./117734-viva-mortis.json) |
 | Vivat Slovakia | 216496 | [216496-vivat-slovakia.json](./216496-vivat-slovakia.json) |
