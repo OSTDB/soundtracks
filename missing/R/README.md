@@ -670,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCop | 242810 | [242810-robocop.json](./242810-robocop.json) |
 | Robodash | 257093 | [257093-robodash.json](./257093-robodash.json) |
 | RoboJep | 165691 | [165691-robojep.json](./165691-robojep.json) |
+| RoboMaze III: The Dome | 78029 | [78029-robomaze-iii-the-dome.json](./78029-robomaze-iii-the-dome.json) |
 | Robosaurus | 264318 | [264318-robosaurus.json](./264318-robosaurus.json) |
 | RoboSkate | 139437 | [139437-roboskate.json](./139437-roboskate.json) |
 | RoboSquare | 141205 | [141205-robosquare.json](./141205-robosquare.json) |
@@ -690,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robovenger | 192421 | [192421-robovenger.json](./192421-robovenger.json) |
 | RoboWarrior Arena | 266473 | [266473-robowarrior-arena.json](./266473-robowarrior-arena.json) |
 | Roburst | 199647 | [199647-roburst.json](./199647-roburst.json) |
+| Rocco | 78015 | [78015-rocco.json](./78015-rocco.json) |
 | Rock 'N Roll | 90647 | [90647-rock-n-roll.json](./90647-rock-n-roll.json) |
 | Rock Band 3 | 206953 | [206953-rock-band-3.json](./206953-rock-band-3.json) |
 | Rock Band Sessions | 250663 | [250663-rock-band-sessions.json](./250663-rock-band-sessions.json) |
@@ -774,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogun Arena | 165046 | [165046-rogun-arena.json](./165046-rogun-arena.json) |
 | Rogunky | 333376 | [333376-rogunky.json](./333376-rogunky.json) |
 | Rohgah Armor Force | 94756 | [94756-rohgah-armor-force.json](./94756-rohgah-armor-force.json) |
+| Roko-Loko no Castelo do Ratozinger Remix | 78042 | [78042-roko-loko-no-castelo-do-ratozinger-remix.json](./78042-roko-loko-no-castelo-do-ratozinger-remix.json) |
 | Rolando: Deluxe Edition | 236539 | [236539-rolando-deluxe-edition.json](./236539-rolando-deluxe-edition.json) |
 | Roll | 147455 | [147455-roll.json](./147455-roll.json) |
 | Roll Ball | 319963 | [319963-roll-ball.json](./319963-roll-ball.json) |
@@ -824,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romgadr | 259291 | [259291-romgadr.json](./259291-romgadr.json) |
 | Romino's Adventure | 209717 | [209717-rominos-adventure.json](./209717-rominos-adventure.json) |
 | Rompe! | 171078 | [171078-rompe.json](./171078-rompe.json) |
+| Ronde | 78016 | [78016-ronde.json](./78016-ronde.json) |
 | Ronin: Two Souls | 139474 | [139474-ronin-two-souls.json](./139474-ronin-two-souls.json) |
 | Ronnarium | 263758 | [263758-ronnarium.json](./263758-ronnarium.json) |
 | Ronnie O'Sullivan's Snooker | 312350 | [312350-ronnie-osullivans-snooker.json](./312350-ronnie-osullivans-snooker.json) |
