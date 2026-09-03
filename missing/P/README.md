@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathogenesis: Overcome | 122387 | [122387-pathogenesis-overcome.json](./122387-pathogenesis-overcome.json) |
 | PathPix Edge | 108498 | [108498-pathpix-edge.json](./108498-pathpix-edge.json) |
 | Paths Taken | 119039 | [119039-paths-taken.json](./119039-paths-taken.json) |
+| Pathstorm | 71512 | [71512-pathstorm.json](./71512-pathstorm.json) |
 | Patlabor: Come Back Mini-Pato | 75899 | [75899-patlabor-come-back-mini-pato.json](./75899-patlabor-come-back-mini-pato.json) |
 | Patlabor: The Mobile Police | 75896 | [75896-patlabor-the-mobile-police.json](./75896-patlabor-the-mobile-police.json) |
 | Patriotika RPG: Shadow World | 298343 | [298343-patriotika-rpg-shadow-world.json](./298343-patriotika-rpg-shadow-world.json) |
@@ -1145,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Werewolf | 306099 | [306099-project-werewolf.json](./306099-project-werewolf.json) |
 | Project X: Love Potion Disaster | 218729 | [218729-project-x-love-potion-disaster.json](./218729-project-x-love-potion-disaster.json) |
 | Project XY | 178645 | [178645-project-xy.json](./178645-project-xy.json) |
+| Project-X Special Edition & F17 Challenge | 71537 | [71537-project-x-special-edition-and-f17-challenge.json](./71537-project-x-special-edition-and-f17-challenge.json) |
 | Project: G-216 | 313480 | [313480-project-g-216.json](./313480-project-g-216.json) |
 | Project: Summer Ice - Bowling: Online | 221975 | [221975-project-summer-ice-bowling-online.json](./221975-project-summer-ice-bowling-online.json) |
 | Project: Summer Ice - Bowling: Story One - Jane Version | 215359 | [215359-project-summer-ice-bowling-story-one-jane-version.json](./215359-project-summer-ice-bowling-story-one-jane-version.json) |
@@ -1318,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PyNori | 336921 | [336921-pynori.json](./336921-pynori.json) |
 | Pyramid Bloxx | 194657 | [194657-pyramid-bloxx.json](./194657-pyramid-bloxx.json) |
 | Pyramid Game | 310185 | [310185-pyramid-game.json](./310185-pyramid-game.json) |
+| Pyramid Power | 71535 | [71535-pyramid-power.json](./71535-pyramid-power.json) |
 | Pyramid Solitaire Cards | 87315 | [87315-pyramid-solitaire-cards.json](./87315-pyramid-solitaire-cards.json) |
 | Pyramid Solitaire Saga | 89248 | [89248-pyramid-solitaire-saga.json](./89248-pyramid-solitaire-saga.json) |
 | Pyramida | 136491 | [136491-pyramida.json](./136491-pyramida.json) |
