@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Capybaras with Orange in the Whimsical Library | 321138 | [321138-hidden-capybaras-with-orange-in-the-whimsical-library.json](./321138-hidden-capybaras-with-orange-in-the-whimsical-library.json) |
 | Hidden Cats | 183564 | [183564-hidden-cats.json](./183564-hidden-cats.json) |
 | Hidden Cats In Amusement Park | 263791 | [263791-hidden-cats-in-amusement-park.json](./263791-hidden-cats-in-amusement-park.json) |
+| Hidden Cubes | 74459 | [74459-hidden-cubes.json](./74459-hidden-cubes.json) |
 | Hidden Expedition: Crown of Solomon | 140034 | [140034-hidden-expedition-crown-of-solomon.json](./140034-hidden-expedition-crown-of-solomon.json) |
 | Hidden Expedition: The Eternal Emperor | 140035 | [140035-hidden-expedition-the-eternal-emperor.json](./140035-hidden-expedition-the-eternal-emperor.json) |
 | Hidden Expedition: The Pearl of Discord | 140037 | [140037-hidden-expedition-the-pearl-of-discord.json](./140037-hidden-expedition-the-pearl-of-discord.json) |
@@ -607,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoard: Dynamite Roll! | 171075 | [171075-hoard-dynamite-roll.json](./171075-hoard-dynamite-roll.json) |
 | Hoard: Flame-Broiled Sandwich | 171076 | [171076-hoard-flame-broiled-sandwich.json](./171076-hoard-flame-broiled-sandwich.json) |
 | Hoards of Glory | 156688 | [156688-hoards-of-glory.json](./156688-hoards-of-glory.json) |
+| Hobby Module | 74413 | [74413-hobby-module.json](./74413-hobby-module.json) |
 | Hoboman | 255965 | [255965-hoboman.json](./255965-hoboman.json) |
 | Hockey Fights | 93559 | [93559-hockey-fights.json](./93559-hockey-fights.json) |
 | Hockey: Strategy of Success | 115690 | [115690-hockey-strategy-of-success.json](./115690-hockey-strategy-of-success.json) |
@@ -730,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Garbage: A Keysmash Story | 183571 | [183571-hot-garbage-a-keysmash-story.json](./183571-hot-garbage-a-keysmash-story.json) |
 | Hot Milf 4 | 192441 | [192441-hot-milf-4.json](./192441-hot-milf-4.json) |
 | Hot Milf 9 | 224222 | [224222-hot-milf-9.json](./224222-hot-milf-9.json) |
+| Hot Pool | 74454 | [74454-hot-pool.json](./74454-hot-pool.json) |
 | Hot Shots Soccer | 101570 | [101570-hot-shots-soccer.json](./101570-hot-shots-soccer.json) |
 | Hot Slide | 152920 | [152920-hot-slide.json](./152920-hot-slide.json) |
 | Hot Spring Hero | 171065 | [171065-hot-spring-hero.json](./171065-hot-spring-hero.json) |
