@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Senki 2 | 191880 | [191880-alice-senki-2.json](./191880-alice-senki-2.json) |
 | Alice Trapped Beyond Wonderland | 165057 | [165057-alice-trapped-beyond-wonderland.json](./165057-alice-trapped-beyond-wonderland.json) |
 | Alice Trapped in Wonderland | 90668 | [90668-alice-trapped-in-wonderland.json](./90668-alice-trapped-in-wonderland.json) |
+| Alice: Adventures in Wonderland | 66129 | [66129-alice-adventures-in-wonderland.json](./66129-alice-adventures-in-wonderland.json) |
 | Alice! | 186324 | [186324-alice.json](./186324-alice.json) |
 | Alice's Adventures in Wonderland | 95466 | [95466-alices-adventures-in-wonderland.json](./95466-alices-adventures-in-wonderland.json) |
 | Alice's Jigsaw: Wonderland 2 | 102816 | [102816-alices-jigsaw-wonderland-2.json](./102816-alices-jigsaw-wonderland-2.json) |
