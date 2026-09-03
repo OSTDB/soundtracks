@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teravit | 167863 | [167863-teravit.json](./167863-teravit.json) |
 | Terebron | 165681 | [165681-terebron.json](./165681-terebron.json) |
 | Terminal | 177556 | [177556-terminal.json](./177556-terminal.json) |
+| Terminal Hacker - Into the Deep | 35935 | [35935-terminal-hacker-into-the-deep.json](./35935-terminal-hacker-into-the-deep.json) |
 | Terminal Machine | 54427 | [54427-terminal-machine.json](./54427-terminal-machine.json) |
 | Terminal Singularity | 158701 | [158701-terminal-singularity.json](./158701-terminal-singularity.json) |
 | Terminate: Study X | 253574 | [253574-terminate-study-x.json](./253574-terminate-study-x.json) |
@@ -651,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Copperfield Department | 326967 | [326967-the-copperfield-department.json](./326967-the-copperfield-department.json) |
 | The Corrupted Turnabout | 308529 | [308529-the-corrupted-turnabout.json](./308529-the-corrupted-turnabout.json) |
 | The Cosmic Tunnels | 62760 | [62760-the-cosmic-tunnels.json](./62760-the-cosmic-tunnels.json) |
+| The Cosmos is Mine! | 35800 | [35800-the-cosmos-is-mine.json](./35800-the-cosmos-is-mine.json) |
 | The Cost Of Seeds | 292857 | [292857-the-cost-of-seeds.json](./292857-the-cost-of-seeds.json) |
 | The Crazed Chicken | 71000 | [71000-the-crazed-chicken.json](./71000-the-crazed-chicken.json) |
 | The Creature Zone VR: Nightfall | 259834 | [259834-the-creature-zone-vr-nightfall.json](./259834-the-creature-zone-vr-nightfall.json) |
@@ -2018,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Cooking: Ultimate Edition | 328804 | [328804-tokyo-cooking-ultimate-edition.json](./328804-tokyo-cooking-ultimate-edition.json) |
 | Tokyo Ghoul: Break the Chains | 275897 | [275897-tokyo-ghoul-break-the-chains.json](./275897-tokyo-ghoul-break-the-chains.json) |
 | Tokyo Ghoul: Carnaval | 123630 | [123630-tokyo-ghoul-carnaval.json](./123630-tokyo-ghoul-carnaval.json) |
+| Tokyo Hosto | 35767 | [35767-tokyo-hosto.json](./35767-tokyo-hosto.json) |
 | Tokyo Love Hustle | 239872 | [239872-tokyo-love-hustle.json](./239872-tokyo-love-hustle.json) |
 | Tokyo Mew Mew: Toujou Shin Mew Mew! - Minna Issho ni Gohoushi Suru Nyan | 56483 | [56483-tokyo-mew-mew-toujou-shin-mew-mew-minna-issho-ni-gohoushi-suru-nyan.json](./56483-tokyo-mew-mew-toujou-shin-mew-mew-minna-issho-ni-gohoushi-suru-nyan.json) |
 | Tokyo Millennium Collaboration | 333386 | [333386-tokyo-millennium-collaboration.json](./333386-tokyo-millennium-collaboration.json) |
@@ -2113,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Management II | 37785 | [37785-top-management-ii.json](./37785-top-management-ii.json) |
 | Top Street Soccer | 102209 | [102209-top-street-soccer.json](./102209-top-street-soccer.json) |
 | Top Troops! | 228123 | [228123-top-troops.json](./228123-top-troops.json) |
+| Top Trumps Turbo | 35897 | [35897-top-trumps-turbo.json](./35897-top-trumps-turbo.json) |
 | Topgolf with Pro Putt | 143067 | [143067-topgolf-with-pro-putt.json](./143067-topgolf-with-pro-putt.json) |
 | Topic Twister | 254162 | [254162-topic-twister.json](./254162-topic-twister.json) |
 | Topo Mix Game | 204107 | [204107-topo-mix-game.json](./204107-topo-mix-game.json) |
