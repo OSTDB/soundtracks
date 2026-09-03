@@ -1279,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashland | 124216 | [124216-ashland.json](./124216-ashland.json) |
 | Ashland: Rebellion of Gods | 194013 | [194013-ashland-rebellion-of-gods.json](./194013-ashland-rebellion-of-gods.json) |
 | Ashton's Family Resort | 52604 | [52604-ashtons-family-resort.json](./52604-ashtons-family-resort.json) |
+| Asian Dynamite | 39645 | [39645-asian-dynamite.json](./39645-asian-dynamite.json) |
 | Asian Truck Simulator | 214165 | [214165-asian-truck-simulator.json](./214165-asian-truck-simulator.json) |
 | Ask Madame Clairvoya | 231628 | [231628-ask-madame-clairvoya.json](./231628-ask-madame-clairvoya.json) |
 | Aske | 165008 | [165008-aske.json](./165008-aske.json) |
@@ -1350,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Boy Flight! | 58276 | [58276-astro-boy-flight.json](./58276-astro-boy-flight.json) |
 | Astro Command Scramble Retro! | 208624 | [208624-astro-command-scramble-retro.json](./208624-astro-command-scramble-retro.json) |
 | Astro Dash | 156655 | [156655-astro-dash.json](./156655-astro-dash.json) |
+| Astro Invader | 39656 | [39656-astro-invader.json](./39656-astro-invader.json) |
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
 | Astro Warrior/Pit Pot | 93584 | [93584-astro-warrior-pit-pot.json](./93584-astro-warrior-pit-pot.json) |
 | Astro Wars | 47284 | [47284-astro-wars.json](./47284-astro-wars.json) |
@@ -1561,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azrael | 209697 | [209697-azrael.json](./209697-azrael.json) |
 | Aztlan Uncovered | 201308 | [201308-aztlan-uncovered.json](./201308-aztlan-uncovered.json) |
 | AzuFight: Taisen Shiyo | 222541 | [222541-azufight-taisen-shiyo.json](./222541-azufight-taisen-shiyo.json) |
+| Azumanga Daioh Puzzle Bobble | 39646 | [39646-azumanga-daioh-puzzle-bobble.json](./39646-azumanga-daioh-puzzle-bobble.json) |
 | Azumanga Fighter: Come Back! | 328279 | [328279-azumanga-fighter-come-back.json](./328279-azumanga-fighter-come-back.json) |
 | Azumi and the Vertical Slice | 257075 | [257075-azumi-and-the-vertical-slice.json](./257075-azumi-and-the-vertical-slice.json) |
 | Azure | 150658 | [150658-azure.json](./150658-azure.json) |
