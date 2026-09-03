@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reroll | 104065 | [104065-reroll.json](./104065-reroll.json) |
 | Rescape | 235981 | [235981-rescape.json](./235981-rescape.json) |
 | Rescue Heroes: Molten Menace | 209168 | [209168-rescue-heroes-molten-menace.json](./209168-rescue-heroes-molten-menace.json) |
+| Rescue Rover 2 | 72110 | [72110-rescue-rover-2.json](./72110-rescue-rover-2.json) |
 | Rescue Rover Collection | 150692 | [150692-rescue-rover-collection.json](./150692-rescue-rover-collection.json) |
 | Rescue Team: Evil Genius | 122409 | [122409-rescue-team-evil-genius.json](./122409-rescue-team-evil-genius.json) |
 | Rescue Team: Heist of the Century | 195206 | [195206-rescue-team-heist-of-the-century.json](./195206-rescue-team-heist-of-the-century.json) |
@@ -886,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rope Cow: Rope it to The Cow | 170519 | [170519-rope-cow-rope-it-to-the-cow.json](./170519-rope-cow-rope-it-to-the-cow.json) |
 | Rope-Kun Adventure | 296664 | [296664-rope-kun-adventure.json](./296664-rope-kun-adventure.json) |
 | Roped In | 300412 | [300412-roped-in.json](./300412-roped-in.json) |
+| Rorke's Drift | 72107 | [72107-rorkes-drift.json](./72107-rorkes-drift.json) |
 | Rorry's Race | 335110 | [335110-rorrys-race.json](./335110-rorrys-race.json) |
 | Rosa Musou | 214765 | [214765-rosa-musou.json](./214765-rosa-musou.json) |
 | Rose & Camellia 2 | 317596 | [317596-rose-and-camellia-2.json](./317596-rose-and-camellia-2.json) |
