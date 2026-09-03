@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umokay 64DS 8: The End is Near... | 270374 | [270374-umokay-64ds-8-the-end-is-near.json](./270374-umokay-64ds-8-the-end-is-near.json) |
 | Umokay 64DS 9: The Purple Comet | 270375 | [270375-umokay-64ds-9-the-purple-comet.json](./270375-umokay-64ds-9-the-purple-comet.json) |
 | Umokay 64DS X: To Infinity And Beyond! | 270376 | [270376-umokay-64ds-x-to-infinity-and-beyond.json](./270376-umokay-64ds-x-to-infinity-and-beyond.json) |
+| Un juego de huevos | 81390 | [81390-un-juego-de-huevos.json](./81390-un-juego-de-huevos.json) |
 | Un-Matching Game | 307293 | [307293-un-matching-game.json](./307293-un-matching-game.json) |
 | Unakiri Action!: Kiritan-hou no Nazo | 204707 | [204707-unakiri-action-kiritan-hou-no-nazo.json](./204707-unakiri-action-kiritan-hou-no-nazo.json) |
 | Unblock Car : Puzzles Game | 104629 | [104629-unblock-car-puzzles-game.json](./104629-unblock-car-puzzles-game.json) |
