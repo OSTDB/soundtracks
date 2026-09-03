@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine With a Big Gun | 103479 | [103479-machine-with-a-big-gun.json](./103479-machine-with-a-big-gun.json) |
 | Machizzle | 139478 | [139478-machizzle.json](./139478-machizzle.json) |
 | Macrocosm | 200180 | [200180-macrocosm.json](./200180-macrocosm.json) |
+| Macross 30: Voices across the Galaxy | 79292 | [79292-macross-30-voices-across-the-galaxy.json](./79292-macross-30-voices-across-the-galaxy.json) |
 | MacShot | 192447 | [192447-macshot.json](./192447-macshot.json) |
 | Mad Cars | 94261 | [94261-mad-cars.json](./94261-mad-cars.json) |
 | Mad Crash Racing | 234323 | [234323-mad-crash-racing.json](./234323-mad-crash-racing.json) |
@@ -539,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MemGame | 128641 | [128641-memgame.json](./128641-memgame.json) |
 | Memo Blox | 304373 | [304373-memo-blox.json](./304373-memo-blox.json) |
 | Memoria VR | 311793 | [311793-memoria-vr.json](./311793-memoria-vr.json) |
+| Memorial Series: Sunsoft vol. 1 | 79347 | [79347-memorial-series-sunsoft-vol-1.json](./79347-memorial-series-sunsoft-vol-1.json) |
 | Memories From Beyond a Coral Sea | 243382 | [243382-memories-from-beyond-a-coral-sea.json](./243382-memories-from-beyond-a-coral-sea.json) |
 | Memories in Late Summer | 109688 | [109688-memories-in-late-summer.json](./109688-memories-in-late-summer.json) |
 | Memories of Bust | 303796 | [303796-memories-of-bust.json](./303796-memories-of-bust.json) |
