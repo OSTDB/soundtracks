@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gift Wrapped | 272556 | [272556-gift-wrapped.json](./272556-gift-wrapped.json) |
 | Gifts from Arthur | 202365 | [202365-gifts-from-arthur.json](./202365-gifts-from-arthur.json) |
 | Gigachess: Brilliant Blitz Level Pack | 166224 | [166224-gigachess-brilliant-blitz-level-pack.json](./166224-gigachess-brilliant-blitz-level-pack.json) |
+| Gigolo | 40777 | [40777-gigolo.json](./40777-gigolo.json) |
 | Gilbert and the chemystical island | 319364 | [319364-gilbert-and-the-chemystical-island.json](./319364-gilbert-and-the-chemystical-island.json) |
 | Gilded Destiny | 236528 | [236528-gilded-destiny.json](./236528-gilded-destiny.json) |
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen | 267651 | [267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json](./267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json) |
