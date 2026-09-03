@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onryo | 132270 | [132270-onryo.json](./132270-onryo.json) |
 | Onsen mo Issho | 246072 | [246072-onsen-mo-issho.json](./246072-onsen-mo-issho.json) |
 | Onsen Nozokimi Daisakusen | 306679 | [306679-onsen-nozokimi-daisakusen.json](./306679-onsen-nozokimi-daisakusen.json) |
+| Oolite | 47274 | [47274-oolite.json](./47274-oolite.json) |
 | Ooo | 181897 | [181897-ooo.json](./181897-ooo.json) |
 | Ooohh, Big Stretch!!! | 341882 | [341882-ooohh-big-stretch.json](./341882-ooohh-big-stretch.json) |
 | Oops, I said Yes?! | 239870 | [239870-oops-i-said-yes.json](./239870-oops-i-said-yes.json) |
@@ -487,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaw Chopper | 68018 | [68018-outlaw-chopper.json](./68018-outlaw-chopper.json) |
 | Outlaw City | 324686 | [324686-outlaw-city.json](./324686-outlaw-city.json) |
 | Outlaw City: Dark Past | 324685 | [324685-outlaw-city-dark-past.json](./324685-outlaw-city-dark-past.json) |
+| Outlaw Golf: 9 More Holes of X-Mas | 47311 | [47311-outlaw-golf-9-more-holes-of-x-mas.json](./47311-outlaw-golf-9-more-holes-of-x-mas.json) |
 | Outlaw Golf: Holiday Golf | 78687 | [78687-outlaw-golf-holiday-golf.json](./78687-outlaw-golf-holiday-golf.json) |
 | Outlets Rush | 297247 | [297247-outlets-rush.json](./297247-outlets-rush.json) |
 | Outliver: Tribulation | 129234 | [129234-outliver-tribulation.json](./129234-outliver-tribulation.json) |
