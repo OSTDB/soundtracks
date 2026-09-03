@@ -1816,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toro to Typing | 246071 | [246071-toro-to-typing.json](./246071-toro-to-typing.json) |
 | Toro's Story App: Heart Pounding Nya | 246074 | [246074-toros-story-app-heart-pounding-nya.json](./246074-toros-story-app-heart-pounding-nya.json) |
 | Torqued Up Legends | 141879 | [141879-torqued-up-legends.json](./141879-torqued-up-legends.json) |
+| Torres | 94251 | [94251-torres.json](./94251-torres.json) |
 | Torture | 276458 | [276458-torture.json](./276458-torture.json) |
 | Torus | 214725 | [214725-torus.json](./214725-torus.json) |
 | Toska | 334482 | [334482-toska.json](./334482-toska.json) |
@@ -2228,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo 84 | 239344 | [239344-turbo-84.json](./239344-turbo-84.json) |
 | Turbo Bullets | 311822 | [311822-turbo-bullets.json](./311822-turbo-bullets.json) |
 | Turbo Live | 318765 | [318765-turbo-live.json](./318765-turbo-live.json) |
+| TurboRaketti II | 94239 | [94239-turboraketti-ii.json](./94239-turboraketti-ii.json) |
 | Turboroko: Passion Fever | 142471 | [142471-turboroko-passion-fever.json](./142471-turboroko-passion-fever.json) |
 | Turboroko: Path to Passion Fever | 142470 | [142470-turboroko-path-to-passion-fever.json](./142470-turboroko-path-to-passion-fever.json) |
 | Turdy | 172195 | [172195-turdy.json](./172195-turdy.json) |
