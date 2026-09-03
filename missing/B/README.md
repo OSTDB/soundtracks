@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back 2 School | 192417 | [192417-back-2-school.json](./192417-back-2-school.json) |
 | Back 4 Blood: Annual Pass | 293917 | [293917-back-4-blood-annual-pass.json](./293917-back-4-blood-annual-pass.json) |
 | Back 4 Blood: Ultimate Edition | 141889 | [141889-back-4-blood-ultimate-edition.json](./141889-back-4-blood-ultimate-edition.json) |
+| Back In 1995 64 | 85503 | [85503-back-in-1995-64.json](./85503-back-in-1995-64.json) |
 | Back Rooms: Ground Zero | 250641 | [250641-back-rooms-ground-zero.json](./250641-back-rooms-ground-zero.json) |
 | Back to Brother | 231047 | [231047-back-to-brother.json](./231047-back-to-brother.json) |
 | Back to Home | 220350 | [220350-back-to-home.json](./220350-back-to-home.json) |
@@ -478,6 +479,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bertie the Stableboy | 265410 | [265410-bertie-the-stableboy.json](./265410-bertie-the-stableboy.json) |
 | Berusky | 135275 | [135275-berusky.json](./135275-berusky.json) |
 | Besotted | 297805 | [297805-besotted.json](./297805-besotted.json) |
+| Best of Mahjong | 85509 | [85509-best-of-mahjong.json](./85509-best-of-mahjong.json) |
+| Best of Solitaire | 85508 | [85508-best-of-solitaire.json](./85508-best-of-solitaire.json) |
 | Bestiary Bundle | 199625 | [199625-bestiary-bundle.json](./199625-bestiary-bundle.json) |
 | Bestiary Survivors | 290713 | [290713-bestiary-survivors.json](./290713-bestiary-survivors.json) |
 | Bestie Walzer | 98435 | [98435-bestie-walzer.json](./98435-bestie-walzer.json) |
@@ -600,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Emperor | 125471 | [125471-black-emperor.json](./125471-black-emperor.json) |
 | Black Fairy | 325841 | [325841-black-fairy.json](./325841-black-fairy.json) |
 | Black Gold | 136436 | [136436-black-gold.json](./136436-black-gold.json) |
+| Black Hole | 85507 | [85507-black-hole.json](./85507-black-hole.json) |
 | Black Lotus Motel | 159894 | [159894-black-lotus-motel.json](./159894-black-lotus-motel.json) |
 | Black Market of Bulletphilia: 100th Black Market | 210247 | [210247-black-market-of-bulletphilia-100th-black-market.json](./210247-black-market-of-bulletphilia-100th-black-market.json) |
 | Black Mesa Inbound | 253030 | [253030-black-mesa-inbound.json](./253030-black-mesa-inbound.json) |
@@ -621,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackhole: Challenge Vault | 170521 | [170521-blackhole-challenge-vault.json](./170521-blackhole-challenge-vault.json) |
 | Blackhole: Testing Laboratory | 170522 | [170522-blackhole-testing-laboratory.json](./170522-blackhole-testing-laboratory.json) |
 | Blackholes Stars | 190219 | [190219-blackholes-stars.json](./190219-blackholes-stars.json) |
+| Blackjack 21 | 85514 | [85514-blackjack-21.json](./85514-blackjack-21.json) |
 | Blackjack Calculator | 245550 | [245550-blackjack-calculator.json](./245550-blackjack-calculator.json) |
 | Blackjack/Poker/Acey-Deucey | 100176 | [100176-blackjack-poker-acey-deucey.json](./100176-blackjack-poker-acey-deucey.json) |
 | Blackout: Uma Aventura Energética | 293896 | [293896-blackout-uma-aventura-energetica.json](./293896-blackout-uma-aventura-energetica.json) |
@@ -975,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Free | 304334 | [304334-break-free.json](./304334-break-free.json) |
 | Break Limit | 91945 | [91945-break-limit.json](./91945-break-limit.json) |
 | Break My Case | 333943 | [333943-break-my-case.json](./333943-break-my-case.json) |
+| Break Tactics | 85516 | [85516-break-tactics.json](./85516-break-tactics.json) |
 | Break the Empire | 304870 | [304870-break-the-empire.json](./304870-break-the-empire.json) |
 | Break Ultimate | 241614 | [241614-break-ultimate.json](./241614-break-ultimate.json) |
 | Break Up | 245545 | [245545-break-up.json](./245545-break-up.json) |
@@ -1009,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricksbumpbump | 325830 | [325830-bricksbumpbump.json](./325830-bricksbumpbump.json) |
 | Brickyard / Clowns | 93565 | [93565-brickyard-clowns.json](./93565-brickyard-clowns.json) |
 | Bride for the Princess | 158192 | [158192-bride-for-the-princess.json](./158192-bride-for-the-princess.json) |
+| Bridge | 85515 | [85515-bridge.json](./85515-bridge.json) |
 | Bridge Constructor Compilation | 131601 | [131601-bridge-constructor-compilation.json](./131601-bridge-constructor-compilation.json) |
 | Bridge Constructor: Ultimate Edition | 129195 | [129195-bridge-constructor-ultimate-edition.json](./129195-bridge-constructor-ultimate-edition.json) |
 | Bridge hand Composer | 87317 | [87317-bridge-hand-composer.json](./87317-bridge-hand-composer.json) |
