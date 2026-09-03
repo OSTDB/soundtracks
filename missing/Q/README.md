@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quickerflak | 186860 | [186860-quickerflak.json](./186860-quickerflak.json) |
 | Quickflash: A Fabula Story | 192431 | [192431-quickflash-a-fabula-story.json](./192431-quickflash-a-fabula-story.json) |
 | QuickSwitch | 341315 | [341315-quickswitch.json](./341315-quickswitch.json) |
+| Quiet Christmas | 58236 | [58236-quiet-christmas.json](./58236-quiet-christmas.json) |
 | Quiet House Massacre | 317023 | [317023-quiet-house-massacre.json](./317023-quiet-house-massacre.json) |
 | Quinterra | 145023 | [145023-quinterra.json](./145023-quinterra.json) |
 | Quit the Game to Win | 179167 | [179167-quit-the-game-to-win.json](./179167-quit-the-game-to-win.json) |
