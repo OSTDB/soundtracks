@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akuma no Shinpan | 307961 | [307961-akuma-no-shinpan.json](./307961-akuma-no-shinpan.json) |
 | Akyrikon VR | 158204 | [158204-akyrikon-vr.json](./158204-akyrikon-vr.json) |
 | Al-Ankabut | 211416 | [211416-al-ankabut.json](./211416-al-ankabut.json) |
+| Alabaster | 60017 | [60017-alabaster.json](./60017-alabaster.json) |
 | Alan Probe: Amateur Surgeon | 70415 | [70415-alan-probe-amateur-surgeon.json](./70415-alan-probe-amateur-surgeon.json) |
 | Alan Wake II: The Final Draft | 298842 | [298842-alan-wake-ii-the-final-draft.json](./298842-alan-wake-ii-the-final-draft.json) |
 | Alchemic Cutie | 107171 | [107171-alchemic-cutie.json](./107171-alchemic-cutie.json) |
@@ -1340,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atum | 128624 | [128624-atum.json](./128624-atum.json) |
 | ATV Madness | 88324 | [88324-atv-madness.json](./88324-atv-madness.json) |
 | Audrey & Alexis | 100816 | [100816-audrey-and-alexis.json](./100816-audrey-and-alexis.json) |
+| Augmented Fourth | 60028 | [60028-augmented-fourth.json](./60028-augmented-fourth.json) |
 | Auraboros | 181358 | [181358-auraboros.json](./181358-auraboros.json) |
 | Aural to Hikari no Ryuu: Gathering Light | 327602 | [327602-aural-to-hikari-no-ryuu-gathering-light.json](./327602-aural-to-hikari-no-ryuu-gathering-light.json) |
 | Aurora Memoria: Philosophical Data Session 2093 | 75146 | [75146-aurora-memoria-philosophical-data-session-2093.json](./75146-aurora-memoria-philosophical-data-session-2093.json) |
