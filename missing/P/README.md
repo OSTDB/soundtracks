@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phasmonauts | 310730 | [310730-phasmonauts.json](./310730-phasmonauts.json) |
 | Phenomenal Car Park Simulator | 124220 | [124220-phenomenal-car-park-simulator.json](./124220-phenomenal-car-park-simulator.json) |
 | Phibos | 243394 | [243394-phibos.json](./243394-phibos.json) |
+| Phil of the Future | 49387 | [49387-phil-of-the-future.json](./49387-phil-of-the-future.json) |
 | Phlegethon | 187520 | [187520-phlegethon.json](./187520-phlegethon.json) |
 | Phmlspd | 223132 | [223132-phmlspd.json](./223132-phmlspd.json) |
 | Phobos | 184093 | [184093-phobos.json](./184093-phobos.json) |
@@ -540,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pin Zhi | 304893 | [304893-pin-zhi.json](./304893-pin-zhi.json) |
 | Pin-Bowler | 92541 | [92541-pin-bowler.json](./92541-pin-bowler.json) |
 | Pinball Arcade Season 2 | 141861 | [141861-pinball-arcade-season-2.json](./141861-pinball-arcade-season-2.json) |
+| Pinball Challenge Deluxe | 49361 | [49361-pinball-challenge-deluxe.json](./49361-pinball-challenge-deluxe.json) |
 | Pinball Dungeon | 177562 | [177562-pinball-dungeon.json](./177562-pinball-dungeon.json) |
 | Pinball Freedom | 196317 | [196317-pinball-freedom.json](./196317-pinball-freedom.json) |
 | Pinball FX: Charity Pack | 308577 | [308577-pinball-fx-charity-pack.json](./308577-pinball-fx-charity-pack.json) |
@@ -570,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Elephant | 186310 | [186310-pink-elephant.json](./186310-pink-elephant.json) |
 | Pink Explorer | 210877 | [210877-pink-explorer.json](./210877-pink-explorer.json) |
 | Pink Marmalade | 184627 | [184627-pink-marmalade.json](./184627-pink-marmalade.json) |
+| Pinky and the Brain: The Master Plan | 49360 | [49360-pinky-and-the-brain-the-master-plan.json](./49360-pinky-and-the-brain-the-master-plan.json) |
 | Pinky Xmas | 340207 | [340207-pinky-xmas.json](./340207-pinky-xmas.json) |
 | Pinnacle of Darkness | 274202 | [274202-pinnacle-of-darkness.json](./274202-pinnacle-of-darkness.json) |
 | Pinochle Plus | 105937 | [105937-pinochle-plus.json](./105937-pinochle-plus.json) |
@@ -701,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Delta | 80552 | [80552-planet-delta.json](./80552-planet-delta.json) |
 | Planet Fights | 239323 | [239323-planet-fights.json](./239323-planet-fights.json) |
 | Planet Joker | 91954 | [91954-planet-joker.json](./91954-planet-joker.json) |
+| Planet Monsters | 49359 | [49359-planet-monsters.json](./49359-planet-monsters.json) |
 | Planet Nine | 113694 | [113694-planet-nine.json](./113694-planet-nine.json) |
 | Planet of Carrots | 311254 | [311254-planet-of-carrots.json](./311254-planet-of-carrots.json) |
 | Planet Omnia | 197912 | [197912-planet-omnia.json](./197912-planet-omnia.json) |
