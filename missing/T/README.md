@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talents | 248320 | [248320-talents.json](./248320-talents.json) |
 | Tales & Dragons: Merge Puzzle | 254178 | [254178-tales-and-dragons-merge-puzzle.json](./254178-tales-and-dragons-merge-puzzle.json) |
 | Tales from Ahrum | 175981 | [175981-tales-from-ahrum.json](./175981-tales-from-ahrum.json) |
+| Tales From Deep Space | 94751 | [94751-tales-from-deep-space.json](./94751-tales-from-deep-space.json) |
 | Tales From Galaxy 34 | 113027 | [113027-tales-from-galaxy-34.json](./113027-tales-from-galaxy-34.json) |
 | Tales From The Arcade: Starship Murder | 263742 | [263742-tales-from-the-arcade-starship-murder.json](./263742-tales-from-the-arcade-starship-murder.json) |
 | Tales From The Under-Realm: After Midnight | 301004 | [301004-tales-from-the-under-realm-after-midnight.json](./301004-tales-from-the-under-realm-after-midnight.json) |
@@ -384,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adjudicator | 145697 | [145697-the-adjudicator.json](./145697-the-adjudicator.json) |
 | The Adventure Story of Yixiu | 293385 | [293385-the-adventure-story-of-yixiu.json](./293385-the-adventure-story-of-yixiu.json) |
 | The Adventurer | 159365 | [159365-the-adventurer.json](./159365-the-adventurer.json) |
+| The Adventures of Clive McMulligan on Planet Zeta Four | 94774 | [94774-the-adventures-of-clive-mcmulligan-on-planet-zeta-four.json](./94774-the-adventures-of-clive-mcmulligan-on-planet-zeta-four.json) |
 | The Adventures of Detective Bron | 200721 | [200721-the-adventures-of-detective-bron.json](./200721-the-adventures-of-detective-bron.json) |
 | The Adventures of LinShanHai | 234311 | [234311-the-adventures-of-linshanhai.json](./234311-the-adventures-of-linshanhai.json) |
 | The Age of Gods Return | 173271 | [173271-the-age-of-gods-return.json](./173271-the-age-of-gods-return.json) |
@@ -886,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Living End & Elder World Waystation | 271480 | [271480-the-living-end-and-elder-world-waystation.json](./271480-the-living-end-and-elder-world-waystation.json) |
 | The Lodge | 158190 | [158190-the-lodge.json](./158190-the-lodge.json) |
 | The Lone Alien | 237079 | [237079-the-lone-alien.json](./237079-the-lone-alien.json) |
+| The Lonely Gorilla | 94769 | [94769-the-lonely-gorilla.json](./94769-the-lonely-gorilla.json) |
 | The Lonely League | 245004 | [245004-the-lonely-league.json](./245004-the-lonely-league.json) |
 | The Longest Drift | 175441 | [175441-the-longest-drift.json](./175441-the-longest-drift.json) |
 | The Loop | 170528 | [170528-the-loop.json](./170528-the-loop.json) |
@@ -1037,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prince is Dead | 239877 | [239877-the-prince-is-dead.json](./239877-the-prince-is-dead.json) |
 | The Princess in the Mirror | 298885 | [298885-the-princess-in-the-mirror.json](./298885-the-princess-in-the-mirror.json) |
 | The Prison | 117089 | [117089-the-prison.json](./117089-the-prison.json) |
+| The Prototype | 94771 | [94771-the-prototype.json](./94771-the-prototype.json) |
 | The Psychologist | 319934 | [319934-the-psychologist.json](./319934-the-psychologist.json) |
 | The Pub Simulator | 238727 | [238727-the-pub-simulator.json](./238727-the-pub-simulator.json) |
 | The Purgatory and the Stolen Souls | 239285 | [239285-the-purgatory-and-the-stolen-souls.json](./239285-the-purgatory-and-the-stolen-souls.json) |
@@ -1406,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrive | 142499 | [142499-thrive.json](./142499-thrive.json) |
 | Throb of Lovegirl: A Ero Waifu TD | 175983 | [175983-throb-of-lovegirl-a-ero-waifu-td.json](./175983-throb-of-lovegirl-a-ero-waifu-td.json) |
 | Throne of Magic | 108502 | [108502-throne-of-magic.json](./108502-throne-of-magic.json) |
+| Through | 94765 | [94765-through.json](./94765-through.json) |
 | Through the Mist and Sky | 102179 | [102179-through-the-mist-and-sky.json](./102179-through-the-mist-and-sky.json) |
 | Throw Cubes into Brick Towers to Collapse Them | 134662 | [134662-throw-cubes-into-brick-towers-to-collapse-them.json](./134662-throw-cubes-into-brick-towers-to-collapse-them.json) |
 | Throw M | 319962 | [319962-throw-m.json](./319962-throw-m.json) |
