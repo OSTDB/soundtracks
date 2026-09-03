@@ -981,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Ghost Warrior Contracts 2: Butcher's Banquet | 159362 | [159362-sniper-ghost-warrior-contracts-2-butchers-banquet.json](./159362-sniper-ghost-warrior-contracts-2-butchers-banquet.json) |
 | Sniper Ghost Warrior Contracts: Full Arsenal Edition | 199639 | [199639-sniper-ghost-warrior-contracts-full-arsenal-edition.json](./199639-sniper-ghost-warrior-contracts-full-arsenal-edition.json) |
 | Sniper Master: City Hunter | 227482 | [227482-sniper-master-city-hunter.json](./227482-sniper-master-city-hunter.json) |
+| Sniper Ops 3D | 88297 | [88297-sniper-ops-3d.json](./88297-sniper-ops-3d.json) |
 | Sniper Zombies | 227491 | [227491-sniper-zombies.json](./227491-sniper-zombies.json) |
 | Snolf 3 & Knolf | 143734 | [143734-snolf-3-and-knolf.json](./143734-snolf-3-and-knolf.json) |
 | Snolf CD: A Snolf in Time | 143736 | [143736-snolf-cd-a-snolf-in-time.json](./143736-snolf-cd-a-snolf-in-time.json) |
@@ -1084,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Stories | 180280 | [180280-solitaire-stories.json](./180280-solitaire-stories.json) |
 | Solitaire Superstars | 96764 | [96764-solitaire-superstars.json](./96764-solitaire-superstars.json) |
 | Solitaire Valentine's Day 2 | 89237 | [89237-solitaire-valentines-day-2.json](./89237-solitaire-valentines-day-2.json) |
+| Solitaire: Classic Klondike Card Game | 88289 | [88289-solitaire-classic-klondike-card-game.json](./88289-solitaire-classic-klondike-card-game.json) |
 | Solitaire: Royal Mansion | 199627 | [199627-solitaire-royal-mansion.json](./199627-solitaire-royal-mansion.json) |
 | Solitar: Retro Picks | 305516 | [305516-solitar-retro-picks.json](./305516-solitar-retro-picks.json) |
 | Solitomb | 325859 | [325859-solitomb.json](./325859-solitomb.json) |
@@ -1366,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark | 256525 | [256525-spark.json](./256525-spark.json) |
 | Spark Five | 111683 | [111683-spark-five.json](./111683-spark-five.json) |
 | Spark in the Dark | 140616 | [140616-spark-in-the-dark.json](./140616-spark-in-the-dark.json) |
+| Sparkle | 88277 | [88277-sparkle.json](./88277-sparkle.json) |
 | Sparky Marky: Episode 3 | 258178 | [258178-sparky-marky-episode-3.json](./258178-sparky-marky-episode-3.json) |
 | Sparrow Solitaire | 209649 | [209649-sparrow-solitaire.json](./209649-sparrow-solitaire.json) |
 | Spattle Cats | 115045 | [115045-spattle-cats.json](./115045-spattle-cats.json) |
