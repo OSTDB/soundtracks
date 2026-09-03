@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranoide | 333371 | [333371-paranoide.json](./333371-paranoide.json) |
 | Paranormal Territory 2 | 91974 | [91974-paranormal-territory-2.json](./91974-paranormal-territory-2.json) |
 | Paranormal Watcher | 335082 | [335082-paranormal-watcher.json](./335082-paranormal-watcher.json) |
+| Paranormal: The Town | 61627 | [61627-paranormal-the-town.json](./61627-paranormal-the-town.json) |
 | Pararena | 130356 | [130356-pararena.json](./130356-pararena.json) |
 | Parasight: Chlorophyll worms | 195793 | [195793-parasight-chlorophyll-worms.json](./195793-parasight-chlorophyll-worms.json) |
 | Parasite | 195754 | [195754-parasite.json](./195754-parasite.json) |
@@ -318,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pentomino | 202422 | [202422-pentomino.json](./202422-pentomino.json) |
 | Penumbra | 177550 | [177550-penumbra.json](./177550-penumbra.json) |
 | Penumbra Lane | 307332 | [307332-penumbra-lane.json](./307332-penumbra-lane.json) |
+| Peojeul Pooh | 61672 | [61672-peojeul-pooh.json](./61672-peojeul-pooh.json) |
 | People Manipulation Sim | 181369 | [181369-people-manipulation-sim.json](./181369-people-manipulation-sim.json) |
 | Pepo | 171047 | [171047-pepo.json](./171047-pepo.json) |
 | Peppa Pig: Laptop Infantil | 297771 | [297771-peppa-pig-laptop-infantil.json](./297771-peppa-pig-laptop-infantil.json) |
@@ -453,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Wright: Ace Attorney - Truth and Consequences | 302651 | [302651-phoenix-wright-ace-attorney-truth-and-consequences.json](./302651-phoenix-wright-ace-attorney-truth-and-consequences.json) |
 | Phoenix Wright: Ace Attorney Trilogy - E-Capcom Limited Edition | 205266 | [205266-phoenix-wright-ace-attorney-trilogy-e-capcom-limited-edition.json](./205266-phoenix-wright-ace-attorney-trilogy-e-capcom-limited-edition.json) |
 | Phonequest | 134694 | [134694-phonequest.json](./134694-phonequest.json) |
+| Phonics Fun with Biff, Chip & Kipper Vol. 1 | 61657 | [61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json](./61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json) |
 | Photogeist Albums: Case 1 | 307337 | [307337-photogeist-albums-case-1.json](./307337-photogeist-albums-case-1.json) |
 | Photon Cube | 104057 | [104057-photon-cube.json](./104057-photon-cube.json) |
 | Photon Flux | 68703 | [68703-photon-flux.json](./68703-photon-flux.json) |
@@ -565,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinto | 326968 | [326968-pinto.json](./326968-pinto.json) |
 | PinWar | 93632 | [93632-pinwar.json](./93632-pinwar.json) |
 | Piofiore: Episodio 1926 Limited Edition | 223129 | [223129-piofiore-episodio-1926-limited-edition.json](./223129-piofiore-episodio-1926-limited-edition.json) |
+| Pioneer | 61666 | [61666-pioneer.json](./61666-pioneer.json) |
 | Pioneerz | 129219 | [129219-pioneerz.json](./129219-pioneerz.json) |
 | Pipe Dreams | 232141 | [232141-pipe-dreams.json](./232141-pipe-dreams.json) |
 | Pipe Skull | 185127 | [185127-pipe-skull.json](./185127-pipe-skull.json) |
