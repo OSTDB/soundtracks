@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CBeebies Playtime Island: Game | 321783 | [321783-cbeebies-playtime-island-game.json](./321783-cbeebies-playtime-island-game.json) |
 | CCTV | 264863 | [264863-cctv.json](./264863-cctv.json) |
 | Cecil Hollow | 253613 | [253613-cecil-hollow.json](./253613-cecil-hollow.json) |
+| CEdges | 68678 | [68678-cedges.json](./68678-cedges.json) |
 | Cedric & Odious | 328270 | [328270-cedric-and-odious.json](./328270-cedric-and-odious.json) |
 | Cel Damage 2 | 143110 | [143110-cel-damage-2.json](./143110-cel-damage-2.json) |
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
