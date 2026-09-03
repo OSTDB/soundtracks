@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Raining Acorn! | 331136 | [331136-its-raining-acorn.json](./331136-its-raining-acorn.json) |
 | It's Raining Cats' & Dogs' Poop | 62217 | [62217-its-raining-cats-and-dogs-poop.json](./62217-its-raining-cats-and-dogs-poop.json) |
 | It's Raining Cats' & Dogs' Poop 2 | 62216 | [62216-its-raining-cats-and-dogs-poop-2.json](./62216-its-raining-cats-and-dogs-poop-2.json) |
+| Itadaki Street 2: Neon Sign ha Bara Iro ni | 38345 | [38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json](./38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json) |
 | Italy 1990 | 85520 | [85520-italy-1990.json](./85520-italy-1990.json) |
 | Itch! | 143745 | [143745-itch.json](./143745-itch.json) |
 | Iteriba: Olokun's Wrath | 255355 | [255355-iteriba-olokuns-wrath.json](./255355-iteriba-olokuns-wrath.json) |
