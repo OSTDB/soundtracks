@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headbangers Heaven | 250637 | [250637-headbangers-heaven.json](./250637-headbangers-heaven.json) |
 | Headbängers in Holiday Hell | 141232 | [141232-headbangers-in-holiday-hell.json](./141232-headbangers-in-holiday-hell.json) |
 | Headrooms | 334472 | [334472-headrooms.json](./334472-headrooms.json) |
+| Heads Run | 82128 | [82128-heads-run.json](./82128-heads-run.json) |
 | Heads-Up | 231634 | [231634-heads-up.json](./231634-heads-up.json) |
 | Headspun: Dazed Edition | 134664 | [134664-headspun-dazed-edition.json](./134664-headspun-dazed-edition.json) |
 | Heal Plz | 121741 | [121741-heal-plz.json](./121741-heal-plz.json) |
@@ -301,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helicopter Flight Simulator | 319980 | [319980-helicopter-flight-simulator.json](./319980-helicopter-flight-simulator.json) |
 | Helicopter Gunship DEX | 208606 | [208606-helicopter-gunship-dex.json](./208606-helicopter-gunship-dex.json) |
 | Helicopter Sim Pro Hellfire | 101537 | [101537-helicopter-sim-pro-hellfire.json](./101537-helicopter-sim-pro-hellfire.json) |
+| Helidroid 3B PRO : 3D RC Copter | 82113 | [82113-helidroid-3b-pro-3d-rc-copter.json](./82113-helidroid-3b-pro-3d-rc-copter.json) |
 | Helios Battle Universe | 157180 | [157180-helios-battle-universe.json](./157180-helios-battle-universe.json) |
 | HeliVR Simulator | 249472 | [249472-helivr-simulator.json](./249472-helivr-simulator.json) |
 | Helix Ball | 104651 | [104651-helix-ball.json](./104651-helix-ball.json) |
@@ -488,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object Mystery: Ghostly Manor | 105961 | [105961-hidden-object-mystery-ghostly-manor.json](./105961-hidden-object-mystery-ghostly-manor.json) |
 | Hidden Object Vacation | 217016 | [217016-hidden-object-vacation.json](./217016-hidden-object-vacation.json) |
 | Hidden Object: Detective Wiltshire Kingdom, The Book is About 33 Knight | 200199 | [200199-hidden-object-detective-wiltshire-kingdom-the-book-is-about-33-knight.json](./200199-hidden-object-detective-wiltshire-kingdom-the-book-is-about-33-knight.json) |
+| Hidden Object: Dog Happy Life | 82160 | [82160-hidden-object-dog-happy-life.json](./82160-hidden-object-dog-happy-life.json) |
 | Hidden Object: Ghost of King Black Magic | 200196 | [200196-hidden-object-ghost-of-king-black-magic.json](./200196-hidden-object-ghost-of-king-black-magic.json) |
 | Hidden Object: Hunter Secrets of Aztec and Mayan Tribes | 233248 | [233248-hidden-object-hunter-secrets-of-aztec-and-mayan-tribes.json](./233248-hidden-object-hunter-secrets-of-aztec-and-mayan-tribes.json) |
 | Hidden Object: Hunters for the Secret | 208008 | [208008-hidden-object-hunters-for-the-secret.json](./208008-hidden-object-hunters-for-the-secret.json) |
@@ -820,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Season 3D | 220830 | [220830-hunting-season-3d.json](./220830-hunting-season-3d.json) |
 | Hunting Simulator 2: Bear Hunter Pack | 224221 | [224221-hunting-simulator-2-bear-hunter-pack.json](./224221-hunting-simulator-2-bear-hunter-pack.json) |
 | Hunting Simulator 2: Beretta Weapon Pack | 224220 | [224220-hunting-simulator-2-beretta-weapon-pack.json](./224220-hunting-simulator-2-beretta-weapon-pack.json) |
+| Hurry Up Bird Hunter! | 82107 | [82107-hurry-up-bird-hunter.json](./82107-hurry-up-bird-hunter.json) |
 | Hyakki Yako: OH&S | 259289 | [259289-hyakki-yako-oh-and-s.json](./259289-hyakki-yako-oh-and-s.json) |
 | Hybrid Wars: Yana 'Tesla' Radovich | 168342 | [168342-hybrid-wars-yana-tesla-radovich.json](./168342-hybrid-wars-yana-tesla-radovich.json) |
 | Hybrid Wars: Yoko Takano | 168341 | [168341-hybrid-wars-yoko-takano.json](./168341-hybrid-wars-yoko-takano.json) |
