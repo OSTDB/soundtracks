@@ -810,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six-Sided Streets | 234897 | [234897-six-sided-streets.json](./234897-six-sided-streets.json) |
 | Sixtar Gate: Startrail - Dystopia Pack | 293402 | [293402-sixtar-gate-startrail-dystopia-pack.json](./293402-sixtar-gate-startrail-dystopia-pack.json) |
 | Size Matters! | 331709 | [331709-size-matters.json](./331709-size-matters.json) |
+| Sk8 | 75918 | [75918-sk8.json](./75918-sk8.json) |
 | Skaphander: Der Auftrag | 98972 | [98972-skaphander-der-auftrag.json](./98972-skaphander-der-auftrag.json) |
 | Skapp | 140596 | [140596-skapp.json](./140596-skapp.json) |
 | Skaramazuzu | 217029 | [217029-skaramazuzu.json](./217029-skaramazuzu.json) |
