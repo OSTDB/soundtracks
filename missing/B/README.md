@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for Wesnoth HD | 94778 | [94778-battle-for-wesnoth-hd.json](./94778-battle-for-wesnoth-hd.json) |
 | Battle Gear 4 | 64964 | [64964-battle-gear-4.json](./64964-battle-gear-4.json) |
 | Battle Gem Ponies | 183573 | [183573-battle-gem-ponies.json](./183573-battle-gem-ponies.json) |
+| Battle Grand Prix | 42628 | [42628-battle-grand-prix.json](./42628-battle-grand-prix.json) |
 | Battle Grounds III | 117066 | [117066-battle-grounds-iii.json](./117066-battle-grounds-iii.json) |
 | Battle Heat! | 45962 | [45962-battle-heat.json](./45962-battle-heat.json) |
 | Battle In Space | 212470 | [212470-battle-in-space.json](./212470-battle-in-space.json) |
@@ -409,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleWords | 121043 | [121043-battlewords.json](./121043-battlewords.json) |
 | Battlezone 98 Redux: The Red Odyssey | 124824 | [124824-battlezone-98-redux-the-red-odyssey.json](./124824-battlezone-98-redux-the-red-odyssey.json) |
 | Batya | 126638 | [126638-batya.json](./126638-batya.json) |
+| Bazooka Blitzkrieg | 42627 | [42627-bazooka-blitzkrieg.json](./42627-bazooka-blitzkrieg.json) |
 | Bazooka Boy | 227498 | [227498-bazooka-boy.json](./227498-bazooka-boy.json) |
 | Bazzle | 231080 | [231080-bazzle.json](./231080-bazzle.json) |
 | BBlocks | 109737 | [109737-bblocks.json](./109737-bblocks.json) |
@@ -609,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Mountain Snowboarding | 88322 | [88322-big-mountain-snowboarding.json](./88322-big-mountain-snowboarding.json) |
 | Big Nose Freaks Out | 48105 | [48105-big-nose-freaks-out.json](./48105-big-nose-freaks-out.json) |
 | Big Screen Games: Pack 1 | 197383 | [197383-big-screen-games-pack-1.json](./197383-big-screen-games-pack-1.json) |
+| Big Sky Trooper | 42640 | [42640-big-sky-trooper.json](./42640-big-sky-trooper.json) |
 | Big Story Little Heroes | 62741 | [62741-big-story-little-heroes.json](./62741-big-story-little-heroes.json) |
 | Big Thanks Super Keirin | 55898 | [55898-big-thanks-super-keirin.json](./55898-big-thanks-super-keirin.json) |
 | Big the Cat in Sonic the Hedgehog | 201296 | [201296-big-the-cat-in-sonic-the-hedgehog.json](./201296-big-the-cat-in-sonic-the-hedgehog.json) |
@@ -1187,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breezy Paws | 274735 | [274735-breezy-paws.json](./274735-breezy-paws.json) |
 | Brelok: Nezumi-tachi no Dasshutsu | 330509 | [330509-brelok-nezumi-tachi-no-dasshutsu.json](./330509-brelok-nezumi-tachi-no-dasshutsu.json) |
 | Brendan Keogh's Putting Land | 329908 | [329908-brendan-keoghs-putting-land.json](./329908-brendan-keoghs-putting-land.json) |
+| Brett Hull Hockey | 42633 | [42633-brett-hull-hockey.json](./42633-brett-hull-hockey.json) |
 | Brews & Bastards | 265392 | [265392-brews-and-bastards.json](./265392-brews-and-bastards.json) |
 | Brewtopia | 319384 | [319384-brewtopia.json](./319384-brewtopia.json) |
 | Brian: The Novice Barbarian | 58825 | [58825-brian-the-novice-barbarian.json](./58825-brian-the-novice-barbarian.json) |
@@ -1232,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Sword: Parzival’s Stone | 262650 | [262650-broken-sword-parzival-s-stone.json](./262650-broken-sword-parzival-s-stone.json) |
 | Broken System | 236007 | [236007-broken-system.json](./236007-broken-system.json) |
 | Broken War | 309136 | [309136-broken-war.json](./309136-broken-war.json) |
+| Bronkie the Bronchiasaurus | 42624 | [42624-bronkie-the-bronchiasaurus.json](./42624-bronkie-the-bronchiasaurus.json) |
 | Brothers Conflict: Brilliant Blue | 45991 | [45991-brothers-conflict-brilliant-blue.json](./45991-brothers-conflict-brilliant-blue.json) |
 | Brothers Conflict: Passion Pink | 45990 | [45990-brothers-conflict-passion-pink.json](./45990-brothers-conflict-passion-pink.json) |
 | Broventure: The Wild Co-op | 332270 | [332270-broventure-the-wild-co-op.json](./332270-broventure-the-wild-co-op.json) |
@@ -1350,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullets in the Space | 106626 | [106626-bullets-in-the-space.json](./106626-bullets-in-the-space.json) |
 | Bulletstorm: Limited Edition | 46640 | [46640-bulletstorm-limited-edition.json](./46640-bulletstorm-limited-edition.json) |
 | Bullfight Ring no Hasha | 59428 | [59428-bullfight-ring-no-hasha.json](./59428-bullfight-ring-no-hasha.json) |
+| Bulls Vs Blazers and the NBA Playoffs | 42638 | [42638-bulls-vs-blazers-and-the-nba-playoffs.json](./42638-bulls-vs-blazers-and-the-nba-playoffs.json) |
 | Bully Ball Soccer | 296653 | [296653-bully-ball-soccer.json](./296653-bully-ball-soccer.json) |
 | BullyBall | 161894 | [161894-bullyball.json](./161894-bullyball.json) |
 | Bumblepig | 94735 | [94735-bumblepig.json](./94735-bumblepig.json) |
