@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore Parkour | 119765 | [119765-hardcore-parkour.json](./119765-hardcore-parkour.json) |
 | Hardhat Wombat | 244511 | [244511-hardhat-wombat.json](./244511-hardhat-wombat.json) |
 | Hardlight | 138829 | [138829-hardlight.json](./138829-hardlight.json) |
+| Hardline | 94221 | [94221-hardline.json](./94221-hardline.json) |
 | Hardway Party | 102197 | [102197-hardway-party.json](./102197-hardway-party.json) |
 | Hare Nochi Oosawagi! | 257668 | [257668-hare-nochi-oosawagi.json](./257668-hare-nochi-oosawagi.json) |
 | Harem Little Twins | 98453 | [98453-harem-little-twins.json](./98453-harem-little-twins.json) |
@@ -389,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heritage | 323499 | [323499-heritage.json](./323499-heritage.json) |
 | Heritage Hills | 156666 | [156666-heritage-hills.json](./156666-heritage-hills.json) |
 | Heritage: A Dragon's Tale | 250043 | [250043-heritage-a-dragons-tale.json](./250043-heritage-a-dragons-tale.json) |
+| Hermes | 94255 | [94255-hermes.json](./94255-hermes.json) |
 | Hermit: an Underwater Tale | 211955 | [211955-hermit-an-underwater-tale.json](./211955-hermit-an-underwater-tale.json) |
 | Hero Blaze: Three Kingdoms | 212463 | [212463-hero-blaze-three-kingdoms.json](./212463-hero-blaze-three-kingdoms.json) |
 | Hero Bump | 184101 | [184101-hero-bump.json](./184101-hero-bump.json) |
@@ -646,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop Step Idol | 202400 | [202400-hop-step-idol.json](./202400-hop-step-idol.json) |
 | Hop: The Movie | 254792 | [254792-hop-the-movie.json](./254792-hop-the-movie.json) |
 | Hope Deferred | 337992 | [337992-hope-deferred.json](./337992-hope-deferred.json) |
+| Hope Springs Eternal | 94227 | [94227-hope-springs-eternal.json](./94227-hope-springs-eternal.json) |
 | Hope Timbre | 295531 | [295531-hope-timbre.json](./295531-hope-timbre.json) |
 | Hopeless Dregs | 156658 | [156658-hopeless-dregs.json](./156658-hopeless-dregs.json) |
 | Hopeless. | 228080 | [228080-hopeless.json](./228080-hopeless.json) |
