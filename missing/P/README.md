@@ -709,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumber No More | 184109 | [184109-plumber-no-more.json](./184109-plumber-no-more.json) |
 | Plumbers Creed | 178667 | [178667-plumbers-creed.json](./178667-plumbers-creed.json) |
 | Plumbers Don't Wear Ties: Definitive Edition - Collector's Edition | 267640 | [267640-plumbers-dont-wear-ties-definitive-edition-collectors-edition.json](./267640-plumbers-dont-wear-ties-definitive-edition-collectors-edition.json) |
+| Plummet | 84238 | [84238-plummet.json](./84238-plummet.json) |
 | Plummet Panic | 317618 | [317618-plummet-panic.json](./317618-plummet-panic.json) |
 | Plunder | 113748 | [113748-plunder.json](./113748-plunder.json) |
 | Plunger Simulator | 165653 | [165653-plunger-simulator.json](./165653-plunger-simulator.json) |
@@ -1153,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PSY in Apocalypse | 270953 | [270953-psy-in-apocalypse.json](./270953-psy-in-apocalypse.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim | 338006 | [338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json](./338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json) |
 | Psychomachia | 291218 | [291218-psychomachia.json](./291218-psychomachia.json) |
+| Psychosomnium | 84249 | [84249-psychosomnium.json](./84249-psychosomnium.json) |
 | Psychotic Adventures Origins | 138795 | [138795-psychotic-adventures-origins.json](./138795-psychotic-adventures-origins.json) |
 | Psycron | 145676 | [145676-psycron.json](./145676-psycron.json) |
 | Pteroglider | 93590 | [93590-pteroglider.json](./93590-pteroglider.json) |
