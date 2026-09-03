@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All We Need | 263212 | [263212-all-we-need.json](./263212-all-we-need.json) |
 | All Will Fall | 328273 | [328273-all-will-fall.json](./328273-all-will-fall.json) |
 | All-in-One Mahjong 2 | 89225 | [89225-all-in-one-mahjong-2.json](./89225-all-in-one-mahjong-2.json) |
+| Allan Border's Cricket | 77392 | [77392-allan-borders-cricket.json](./77392-allan-borders-cricket.json) |
 | Allan Poe's Nightmare | 112315 | [112315-allan-poes-nightmare.json](./112315-allan-poes-nightmare.json) |
 | Allegro Molto wo Hakobu Game | 339094 | [339094-allegro-molto-wo-hakobu-game.json](./339094-allegro-molto-wo-hakobu-game.json) |
 | AllFive Classic | 307277 | [307277-allfive-classic.json](./307277-allfive-classic.json) |
@@ -1317,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awakening: The Redleaf Forest & Awakening: The Golden Age | 201814 | [201814-awakening-the-redleaf-forest-and-awakening-the-golden-age.json](./201814-awakening-the-redleaf-forest-and-awakening-the-golden-age.json) |
 | Awakening: The Skyward Castle - Collector's Edition | 89942 | [89942-awakening-the-skyward-castle-collectors-edition.json](./89942-awakening-the-skyward-castle-collectors-edition.json) |
 | Awesome Asteroids | 239291 | [239291-awesome-asteroids.json](./239291-awesome-asteroids.json) |
+| Awesome Metal Detecting | 77371 | [77371-awesome-metal-detecting.json](./77371-awesome-metal-detecting.json) |
 | Awesome Tanks | 313503 | [313503-awesome-tanks.json](./313503-awesome-tanks.json) |
 | Awesome Tanks 2 | 313506 | [313506-awesome-tanks-2.json](./313506-awesome-tanks-2.json) |
 | Awexome Cross | 135869 | [135869-awexome-cross.json](./135869-awexome-cross.json) |
@@ -1338,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aye Fair Lady | 126019 | [126019-aye-fair-lady.json](./126019-aye-fair-lady.json) |
 | Ayni Fairyland | 107896 | [107896-ayni-fairyland.json](./107896-ayni-fairyland.json) |
 | Ayu: The Dream Soul | 149098 | [149098-ayu-the-dream-soul.json](./149098-ayu-the-dream-soul.json) |
+| Azangara | 77375 | [77375-azangara.json](./77375-azangara.json) |
 | Azazel | 170020 | [170020-azazel.json](./170020-azazel.json) |
 | Aznana | 151729 | [151729-aznana.json](./151729-aznana.json) |
 | Azrael | 192457 | [192457-azrael.json](./192457-azrael.json) |
