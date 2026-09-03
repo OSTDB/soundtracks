@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boat Simulator | 231082 | [231082-boat-simulator.json](./231082-boat-simulator.json) |
 | Bob & Dob | 177570 | [177570-bob-and-dob.json](./177570-bob-and-dob.json) |
 | Bob Does Not Care | 181903 | [181903-bob-does-not-care.json](./181903-bob-does-not-care.json) |
+| Bob vs the Mob | 57670 | [57670-bob-vs-the-mob.json](./57670-bob-vs-the-mob.json) |
 | Boba | 177569 | [177569-boba.json](./177569-boba.json) |
 | Boba Tale | 199622 | [199622-boba-tale.json](./199622-boba-tale.json) |
 | Bobblehead College Football | 247171 | [247171-bobblehead-college-football.json](./247171-bobblehead-college-football.json) |
@@ -908,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Bowling | 307307 | [307307-bomb-bowling.json](./307307-bomb-bowling.json) |
 | Bomb Craft Tnt | 88319 | [88319-bomb-craft-tnt.json](./88319-bomb-craft-tnt.json) |
 | Bomb Labyrinth | 99623 | [99623-bomb-labyrinth.json](./99623-bomb-labyrinth.json) |
+| Bomb the City | 57669 | [57669-bomb-the-city.json](./57669-bomb-the-city.json) |
 | Bomb the Town | 319968 | [319968-bomb-the-town.json](./319968-bomb-the-town.json) |
 | Bombabomb! | 267092 | [267092-bombabomb.json](./267092-bombabomb.json) |
 | Bombagun | 188112 | [188112-bombagun.json](./188112-bombagun.json) |
@@ -1166,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken War | 309136 | [309136-broken-war.json](./309136-broken-war.json) |
 | Broventure: The Wild Co-op | 332270 | [332270-broventure-the-wild-co-op.json](./332270-broventure-the-wild-co-op.json) |
 | Brown Trouble | 295011 | [295011-brown-trouble.json](./295011-brown-trouble.json) |
+| Brudal Baddle | 57677 | [57677-brudal-baddle.json](./57677-brudal-baddle.json) |
 | Brunswick Pro Billiards | 147954 | [147954-brunswick-pro-billiards.json](./147954-brunswick-pro-billiards.json) |
 | Brutal Mario | 132862 | [132862-brutal-mario.json](./132862-brutal-mario.json) |
 | Brutal Strike | 235459 | [235459-brutal-strike.json](./235459-brutal-strike.json) |
@@ -1224,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Troops | 236531 | [236531-bubble-troops.json](./236531-bubble-troops.json) |
 | Bubble Wrap DS | 215382 | [215382-bubble-wrap-ds.json](./215382-bubble-wrap-ds.json) |
 | Bubble Wrap Frenzy | 233236 | [233236-bubble-wrap-frenzy.json](./233236-bubble-wrap-frenzy.json) |
+| Bubble Xmas | 57663 | [57663-bubble-xmas.json](./57663-bubble-xmas.json) |
 | BubbleTT: Oh! My Fart | 256528 | [256528-bubblett-oh-my-fart.json](./256528-bubblett-oh-my-fart.json) |
 | BubbleXRush | 61089 | [61089-bubblexrush.json](./61089-bubblexrush.json) |
 | Buccaneer | 141845 | [141845-buccaneer.json](./141845-buccaneer.json) |
