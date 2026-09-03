@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planes.io | 194038 | [194038-planes-io.json](./194038-planes-io.json) |
 | Planet Assault | 89936 | [89936-planet-assault.json](./89936-planet-assault.json) |
 | Planet Crossword | 220841 | [220841-planet-crossword.json](./220841-planet-crossword.json) |
+| Planet Delta | 80552 | [80552-planet-delta.json](./80552-planet-delta.json) |
 | Planet Fights | 239323 | [239323-planet-fights.json](./239323-planet-fights.json) |
 | Planet Joker | 91954 | [91954-planet-joker.json](./91954-planet-joker.json) |
 | Planet Nine | 113694 | [113694-planet-nine.json](./113694-planet-nine.json) |
@@ -962,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Priest's Artifice: Raguna Series 2 | 98437 | [98437-priests-artifice-raguna-series-2.json](./98437-priests-artifice-raguna-series-2.json) |
 | Prima: First Rogues | 291233 | [291233-prima-first-rogues.json](./291233-prima-first-rogues.json) |
 | Primal Carnage: Evolution | 259812 | [259812-primal-carnage-evolution.json](./259812-primal-carnage-evolution.json) |
+| Primal Carnage: Genesis | 80564 | [80564-primal-carnage-genesis.json](./80564-primal-carnage-genesis.json) |
 | Primal Fray | 244469 | [244469-primal-fray.json](./244469-primal-fray.json) |
 | Primal Hearts | 159312 | [159312-primal-hearts.json](./159312-primal-hearts.json) |
 | Primal Hearts 2 | 159313 | [159313-primal-hearts-2.json](./159313-primal-hearts-2.json) |
@@ -1149,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proton Bus Simulator Road | 219822 | [219822-proton-bus-simulator-road.json](./219822-proton-bus-simulator-road.json) |
 | Prototype Blocks | 191244 | [191244-prototype-blocks.json](./191244-prototype-blocks.json) |
 | Prototype TD 2 | 195796 | [195796-prototype-td-2.json](./195796-prototype-td-2.json) |
+| Proun | 80558 | [80558-proun.json](./80558-proun.json) |
 | Provide Relief | 272008 | [272008-provide-relief.json](./272008-provide-relief.json) |
 | Pry into the Void | 187530 | [187530-pry-into-the-void.json](./187530-pry-into-the-void.json) |
 | PSI Masquerade | 204064 | [204064-psi-masquerade.json](./204064-psi-masquerade.json) |
