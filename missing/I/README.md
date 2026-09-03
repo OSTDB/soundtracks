@@ -370,6 +370,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interlocked | 83578 | [83578-interlocked.json](./83578-interlocked.json) |
 | Internal Reaches 2 | 274192 | [274192-internal-reaches-2.json](./274192-internal-reaches-2.json) |
 | Internal Reaches 4 | 274193 | [274193-internal-reaches-4.json](./274193-internal-reaches-4.json) |
+| International Cricket Captain 2 | 63317 | [63317-international-cricket-captain-2.json](./63317-international-cricket-captain-2.json) |
+| International Cricket Captain 2000 | 63318 | [63318-international-cricket-captain-2000.json](./63318-international-cricket-captain-2000.json) |
+| International Cricket Captain 2001 | 63321 | [63321-international-cricket-captain-2001.json](./63321-international-cricket-captain-2001.json) |
+| International Cricket Captain 2002 | 63319 | [63319-international-cricket-captain-2002.json](./63319-international-cricket-captain-2002.json) |
+| International Cricket Captain 2005: Ashes Edition | 63322 | [63322-international-cricket-captain-2005-ashes-edition.json](./63322-international-cricket-captain-2005-ashes-edition.json) |
+| International Cricket Captain 2006: Ashes Edition | 63323 | [63323-international-cricket-captain-2006-ashes-edition.json](./63323-international-cricket-captain-2006-ashes-edition.json) |
+| International Cricket Captain 2009 | 63324 | [63324-international-cricket-captain-2009.json](./63324-international-cricket-captain-2009.json) |
+| International Cricket Captain 2009: Ashes Edition | 63328 | [63328-international-cricket-captain-2009-ashes-edition.json](./63328-international-cricket-captain-2009-ashes-edition.json) |
+| International Cricket Captain 2010 | 63326 | [63326-international-cricket-captain-2010.json](./63326-international-cricket-captain-2010.json) |
+| International Cricket Captain 2011 | 63327 | [63327-international-cricket-captain-2011.json](./63327-international-cricket-captain-2011.json) |
+| International Cricket Captain 2012 | 63330 | [63330-international-cricket-captain-2012.json](./63330-international-cricket-captain-2012.json) |
+| International Cricket Captain 2013 | 63329 | [63329-international-cricket-captain-2013.json](./63329-international-cricket-captain-2013.json) |
+| International Cricket Captain III | 63325 | [63325-international-cricket-captain-iii.json](./63325-international-cricket-captain-iii.json) |
 | International Rugby Challenge | 73281 | [73281-international-rugby-challenge.json](./73281-international-rugby-challenge.json) |
 | International Soccer | 201305 | [201305-international-soccer.json](./201305-international-soccer.json) |
 | International Superstar Soccer 2000 | 220857 | [220857-international-superstar-soccer-2000.json](./220857-international-superstar-soccer-2000.json) |
