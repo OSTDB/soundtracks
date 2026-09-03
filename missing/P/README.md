@@ -1247,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protocol Xeno | 211967 | [211967-protocol-xeno.json](./211967-protocol-xeno.json) |
 | Protocore | 109674 | [109674-protocore.json](./109674-protocore.json) |
 | Proton Bus Simulator Road | 219822 | [219822-proton-bus-simulator-road.json](./219822-proton-bus-simulator-road.json) |
+| Proton Pulse + | 56526 | [56526-proton-pulse.json](./56526-proton-pulse.json) |
 | Prototype Blocks | 191244 | [191244-prototype-blocks.json](./191244-prototype-blocks.json) |
 | Prototype TD 2 | 195796 | [195796-prototype-td-2.json](./195796-prototype-td-2.json) |
 | Proun | 80558 | [80558-proun.json](./80558-proun.json) |
