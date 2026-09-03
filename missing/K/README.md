@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kowloon Story 2 | 291741 | [291741-kowloon-story-2.json](./291741-kowloon-story-2.json) |
 | Koziołek Matołek Wynalazca | 135255 | [135255-kozio-ek-mato-ek-wynalazca.json](./135255-kozio-ek-mato-ek-wynalazca.json) |
 | Krafteers | 174863 | [174863-krafteers.json](./174863-krafteers.json) |
+| Kraken | 74458 | [74458-kraken.json](./74458-kraken.json) |
 | Kraken Attack | 318228 | [318228-kraken-attack.json](./318228-kraken-attack.json) |
 | Krampus Quest | 76674 | [76674-krampus-quest.json](./76674-krampus-quest.json) |
 | Krashimals | 330558 | [330558-krashimals.json](./330558-krashimals.json) |
