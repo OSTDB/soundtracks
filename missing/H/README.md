@@ -190,9 +190,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvester Tractor Farming Simulator Game | 174866 | [174866-harvester-tractor-farming-simulator-game.json](./174866-harvester-tractor-farming-simulator-game.json) |
 | Hasbro Family Game Night 2 | 50606 | [50606-hasbro-family-game-night-2.json](./50606-hasbro-family-game-night-2.json) |
 | Hash Line | 120402 | [120402-hash-line.json](./120402-hash-line.json) |
+| Hashtag Dungeon | 35942 | [35942-hashtag-dungeon.json](./35942-hashtag-dungeon.json) |
 | Hat Trick Hero 2 | 38332 | [38332-hat-trick-hero-2.json](./38332-hat-trick-hero-2.json) |
 | Hatchling | 182511 | [182511-hatchling.json](./182511-hatchling.json) |
 | Hatchpunk | 143729 | [143729-hatchpunk.json](./143729-hatchpunk.json) |
+| Hatland Adventures | 35818 | [35818-hatland-adventures.json](./35818-hatland-adventures.json) |
 | Hats Are Not Allowed | 159892 | [159892-hats-are-not-allowed.json](./159892-hats-are-not-allowed.json) |
 | Hatsukoi Master Up | 329945 | [329945-hatsukoi-master-up.json](./329945-hatsukoi-master-up.json) |
 | Hatsune Miku Jigsaw Puzzle | 194617 | [194617-hatsune-miku-jigsaw-puzzle.json](./194617-hatsune-miku-jigsaw-puzzle.json) |
@@ -639,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hirata Shougo Interactive Ehon: Aesop Monogatari Vol. 1 | 245530 | [245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json](./245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json) |
 | Hired Team: Trial Gold | 73849 | [73849-hired-team-trial-gold.json](./73849-hired-team-trial-gold.json) |
 | Hiryuu no Ken II: Dragon no Tsubasa | 64447 | [64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json](./64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json) |
+| HIS: Heroes in the Sky | 35933 | [35933-his-heroes-in-the-sky.json](./35933-his-heroes-in-the-sky.json) |
 | Hisou Kihei Kai Serd | 42034 | [42034-hisou-kihei-kai-serd.json](./42034-hisou-kihei-kai-serd.json) |
 | Hissatsu Pachinko Station V2 | 137100 | [137100-hissatsu-pachinko-station-v2.json](./137100-hissatsu-pachinko-station-v2.json) |
 | Historia Battles Crusade | 134004 | [134004-historia-battles-crusade.json](./134004-historia-battles-crusade.json) |
