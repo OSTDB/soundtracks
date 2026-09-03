@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innchanted | 138239 | [138239-innchanted.json](./138239-innchanted.json) |
 | Inner Ashes | 217007 | [217007-inner-ashes.json](./217007-inner-ashes.json) |
 | Inner Fire | 97341 | [97341-inner-fire.json](./97341-inner-fire.json) |
+| Innergy | 81398 | [81398-innergy.json](./81398-innergy.json) |
 | Innocence or Money: Season 2 - Episode 1 | 340754 | [340754-innocence-or-money-season-2-episode-1.json](./340754-innocence-or-money-season-2-episode-1.json) |
 | Innocent Critters | 238723 | [238723-innocent-critters.json](./238723-innocent-critters.json) |
 | Innsmouth Corporate Plaza | 276476 | [276476-innsmouth-corporate-plaza.json](./276476-innsmouth-corporate-plaza.json) |
