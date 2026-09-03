@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oak Adventure the Maze | 235473 | [235473-oak-adventure-the-maze.json](./235473-oak-adventure-the-maze.json) |
 | Obake no Q-Taro: Oba Q Channel | 293908 | [293908-obake-no-q-taro-oba-q-channel.json](./293908-obake-no-q-taro-oba-q-channel.json) |
 | Obey the Law | 163983 | [163983-obey-the-law.json](./163983-obey-the-law.json) |
+| Object "Cleaning" | 83568 | [83568-object-cleaning.json](./83568-object-cleaning.json) |
 | Oblitus Mortis | 336918 | [336918-oblitus-mortis.json](./336918-oblitus-mortis.json) |
 | Oblivion Congee | 183579 | [183579-oblivion-congee.json](./183579-oblivion-congee.json) |
 | Obscure Doubt | 117068 | [117068-obscure-doubt.json](./117068-obscure-doubt.json) |
