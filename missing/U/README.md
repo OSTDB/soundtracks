@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unravel: Yarny Bundle | 115025 | [115025-unravel-yarny-bundle.json](./115025-unravel-yarny-bundle.json) |
 | Unreal Drift Online Car Racing | 174891 | [174891-unreal-drift-online-car-racing.json](./174891-unreal-drift-online-car-racing.json) |
 | Unreal Evolution | 136489 | [136489-unreal-evolution.json](./136489-unreal-evolution.json) |
+| Unreal II: The Awakening - Special Edition | 46625 | [46625-unreal-ii-the-awakening-special-edition.json](./46625-unreal-ii-the-awakening-special-edition.json) |
 | Unreal Land | 62220 | [62220-unreal-land.json](./62220-unreal-land.json) |
 | UnRequited | 201311 | [201311-unrequited.json](./201311-unrequited.json) |
 | Unruly Tennis | 228121 | [228121-unruly-tennis.json](./228121-unruly-tennis.json) |
@@ -296,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utsusemi no Meguri | 69323 | [69323-utsusemi-no-meguri.json](./69323-utsusemi-no-meguri.json) |
 | UvsU | 258704 | [258704-uvsu.json](./258704-uvsu.json) |
 | UWAR | 338579 | [338579-uwar.json](./338579-uwar.json) |
+| Uwol: Quest for Money | 46675 | [46675-uwol-quest-for-money.json](./46675-uwol-quest-for-money.json) |
 | UzeMaze | 270418 | [270418-uzemaze.json](./270418-uzemaze.json) |
 | UzeMaze RA | 270419 | [270419-uzemaze-ra.json](./270419-uzemaze-ra.json) |
 | Uzo | 195761 | [195761-uzo.json](./195761-uzo.json) |
