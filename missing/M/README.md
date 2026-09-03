@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maps 4TMD | 312911 | [312911-maps-4tmd.json](./312911-maps-4tmd.json) |
 | Marble Blast Platinum | 239883 | [239883-marble-blast-platinum.json](./239883-marble-blast-platinum.json) |
 | Marble Bloomers | 127962 | [127962-marble-bloomers.json](./127962-marble-bloomers.json) |
+| Marble Machine | 58221 | [58221-marble-machine.json](./58221-marble-machine.json) |
 | Marble Man: Marble Madness II | 125477 | [125477-marble-man-marble-madness-ii.json](./125477-marble-man-marble-madness-ii.json) |
 | Marble Meadows | 291222 | [291222-marble-meadows.json](./291222-marble-meadows.json) |
 | Marble Monster | 253025 | [253025-marble-monster.json](./253025-marble-monster.json) |
