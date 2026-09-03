@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Heiankyo Alien | 215371 | [215371-neo-heiankyo-alien.json](./215371-neo-heiankyo-alien.json) |
 | Neo Mario Galaxy | 262669 | [262669-neo-mario-galaxy.json](./262669-neo-mario-galaxy.json) |
 | Neo Testament | 270969 | [270969-neo-testament.json](./270969-neo-testament.json) |
+| NeoBalls2 | 83560 | [83560-neoballs2.json](./83560-neoballs2.json) |
 | NeoFables | 330552 | [330552-neofables.json](./330552-neofables.json) |
 | Neogen BeatZ | 256539 | [256539-neogen-beatz.json](./256539-neogen-beatz.json) |
 | Neogen Space Monkeys | 221979 | [221979-neogen-space-monkeys.json](./221979-neogen-space-monkeys.json) |
@@ -177,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neophyte: The Spirit Master | 145696 | [145696-neophyte-the-spirit-master.json](./145696-neophyte-the-spirit-master.json) |
 | NeoTrap | 184112 | [184112-neotrap.json](./184112-neotrap.json) |
 | Nephilim | 270973 | [270973-nephilim.json](./270973-nephilim.json) |
+| NeptuneGL | 83563 | [83563-neptunegl.json](./83563-neptunegl.json) |
 | Neptunia: Virtual Stars - VIP Edition | 186890 | [186890-neptunia-virtual-stars-vip-edition.json](./186890-neptunia-virtual-stars-vip-edition.json) |
 | Nessy the... Robot | 237044 | [237044-nessy-the-robot.json](./237044-nessy-the-robot.json) |
 | Nestables | 134029 | [134029-nestables.json](./134029-nestables.json) |
