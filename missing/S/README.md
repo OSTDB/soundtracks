@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
 | Shine's Adventures 2 (Zombie Attack) | 120372 | [120372-shines-adventures-2-zombie-attack.json](./120372-shines-adventures-2-zombie-attack.json) |
 | Shine's Adventures 5: World of Box | 127318 | [127318-shines-adventures-5-world-of-box.json](./127318-shines-adventures-5-world-of-box.json) |
+| ShineG Has Nightmares | 68675 | [68675-shineg-has-nightmares.json](./68675-shineg-has-nightmares.json) |
 | Shingata Kururin Pa! | 228065 | [228065-shingata-kururin-pa.json](./228065-shingata-kururin-pa.json) |
 | Shinies: Call of Light | 200167 | [200167-shinies-call-of-light.json](./200167-shinies-call-of-light.json) |
 | Shinigami no Testament ~menuet of epistula~ | 137085 | [137085-shinigami-no-testament-menuet-of-epistula.json](./137085-shinigami-no-testament-menuet-of-epistula.json) |
@@ -872,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Island: Rise of Kong - Colossal Pack | 272584 | [272584-skull-island-rise-of-kong-colossal-pack.json](./272584-skull-island-rise-of-kong-colossal-pack.json) |
 | Skull Maze: Tiny Roguelike | 200709 | [200709-skull-maze-tiny-roguelike.json](./200709-skull-maze-tiny-roguelike.json) |
 | SkullSP | 329973 | [329973-skullsp.json](./329973-skullsp.json) |
+| Skunny: Lost in Space | 68705 | [68705-skunny-lost-in-space.json](./68705-skunny-lost-in-space.json) |
 | Skunny: Save Our Pizzas! | 73839 | [73839-skunny-save-our-pizzas.json](./73839-skunny-save-our-pizzas.json) |
 | Sky Baron: War of Planes | 101531 | [101531-sky-baron-war-of-planes.json](./101531-sky-baron-war-of-planes.json) |
 | Sky Champ | 194017 | [194017-sky-champ.json](./194017-sky-champ.json) |
@@ -1004,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64 Sapphire | 133993 | [133993-sm64-sapphire.json](./133993-sm64-sapphire.json) |
 | SM64 The Green Stars | 132830 | [132830-sm64-the-green-stars.json](./132830-sm64-the-green-stars.json) |
 | Smack Some Smackers | 77400 | [77400-smack-some-smackers.json](./77400-smack-some-smackers.json) |
+| Smack Wacker | 68668 | [68668-smack-wacker.json](./68668-smack-wacker.json) |
 | Small Army | 185688 | [185688-small-army.json](./185688-small-army.json) |
 | Small Ball | 169461 | [169461-small-ball.json](./169461-small-ball.json) |
 | Smart CyberFly | 69851 | [69851-smart-cyberfly.json](./69851-smart-cyberfly.json) |
@@ -1167,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Battalion | 99600 | [99600-solar-battalion.json](./99600-solar-battalion.json) |
 | Solar Candy | 180849 | [180849-solar-candy.json](./180849-solar-candy.json) |
 | Solar Conqueror | 170532 | [170532-solar-conqueror.json](./170532-solar-conqueror.json) |
+| Solar Core | 68683 | [68683-solar-core.json](./68683-solar-core.json) |
 | Solar Cram School | 122393 | [122393-solar-cram-school.json](./122393-solar-cram-school.json) |
 | Solar Echoes: The Star Legation | 149056 | [149056-solar-echoes-the-star-legation.json](./149056-solar-echoes-the-star-legation.json) |
 | Solar Kingdoms: Human Survival | 295568 | [295568-solar-kingdoms-human-survival.json](./295568-solar-kingdoms-human-survival.json) |
@@ -1715,6 +1719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Melody: Yumemi Dreamer - Chapter 10 | 195782 | [195782-star-melody-yumemi-dreamer-chapter-10.json](./195782-star-melody-yumemi-dreamer-chapter-10.json) |
 | Star Melody: Yumemi Dreamer - Limited Edition | 175977 | [175977-star-melody-yumemi-dreamer-limited-edition.json](./175977-star-melody-yumemi-dreamer-limited-edition.json) |
 | Star of Providence: Relics of the Past | 145647 | [145647-star-of-providence-relics-of-the-past.json](./145647-star-of-providence-relics-of-the-past.json) |
+| Star Rage VR | 68697 | [68697-star-rage-vr.json](./68697-star-rage-vr.json) |
 | Star Rank Boxing II | 69871 | [69871-star-rank-boxing-ii.json](./69871-star-rank-boxing-ii.json) |
 | Star Renegades: Total Lunarcy | 166215 | [166215-star-renegades-total-lunarcy.json](./166215-star-renegades-total-lunarcy.json) |
 | Star Revenge 1: Star Takeover | 132841 | [132841-star-revenge-1-star-takeover.json](./132841-star-revenge-1-star-takeover.json) |
@@ -1867,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steve: Operation Nuts | 295010 | [295010-steve-operation-nuts.json](./295010-steve-operation-nuts.json) |
 | Stick Arena Ballistick | 69277 | [69277-stick-arena-ballistick.json](./69277-stick-arena-ballistick.json) |
 | Stick City Run 2 By Lettu Games | 232160 | [232160-stick-city-run-2-by-lettu-games.json](./232160-stick-city-run-2-by-lettu-games.json) |
+| Stick Soldiers | 68700 | [68700-stick-soldiers.json](./68700-stick-soldiers.json) |
 | Stick Tennis | 277566 | [277566-stick-tennis.json](./277566-stick-tennis.json) |
 | Stick Tennis Tour | 261513 | [261513-stick-tennis-tour.json](./261513-stick-tennis-tour.json) |
 | Stick to the Plan | 234299 | [234299-stick-to-the-plan.json](./234299-stick-to-the-plan.json) |
