@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.F.O.M.O. | 184084 | [184084-u-f-o-m-o.json](./184084-u-f-o-m-o.json) |
 | U.N.P.O.C. Vessel of Opportunity | 335706 | [335706-u-n-p-o-c-vessel-of-opportunity.json](./335706-u-n-p-o-c-vessel-of-opportunity.json) |
 | U.R.B.A.N The Cyborg Project | 126029 | [126029-u-r-b-a-n-the-cyborg-project.json](./126029-u-r-b-a-n-the-cyborg-project.json) |
+| U.S.A. Football | 93576 | [93576-u-s-a-football.json](./93576-u-s-a-football.json) |
 | U96 | 207513 | [207513-u96.json](./207513-u96.json) |
 | Ubok. | 150160 | [150160-ubok.json](./150160-ubok.json) |
 | UC Love | 238218 | [238218-uc-love.json](./238218-uc-love.json) |
@@ -26,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO: The Ranch | 248886 | [248886-ufo-the-ranch.json](./248886-ufo-the-ranch.json) |
 | Ug! Caveman Game | 198528 | [198528-ug-caveman-game.json](./198528-ug-caveman-game.json) |
 | Uin | 125993 | [125993-uin.json](./125993-uin.json) |
+| Uju Jeonsa Dooly | 93589 | [93589-uju-jeonsa-dooly.json](./93589-uju-jeonsa-dooly.json) |
 | Ukik | 246103 | [246103-ukik.json](./246103-ukik.json) |
 | Uknon Jones & Guynelk: Awesome! | 275338 | [275338-uknon-jones-and-guynelk-awesome.json](./275338-uknon-jones-and-guynelk-awesome.json) |
 | Ultima Adventum | 149602 | [149602-ultima-adventum.json](./149602-ultima-adventum.json) |
