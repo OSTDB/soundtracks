@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: National History Museum | 340212 | [340212-pokemon-national-history-museum.json](./340212-pokemon-national-history-museum.json) |
 | Poker Club: Gold Edition | 277568 | [277568-poker-club-gold-edition.json](./277568-poker-club-gold-edition.json) |
 | Poker Dungeon: Joker's Madness | 310747 | [310747-poker-dungeon-jokers-madness.json](./310747-poker-dungeon-jokers-madness.json) |
+| Poker for Dummies | 64983 | [64983-poker-for-dummies.json](./64983-poker-for-dummies.json) |
 | Poker Hands | 147993 | [147993-poker-hands.json](./147993-poker-hands.json) |
 | Poker Pop! | 209145 | [209145-poker-pop.json](./209145-poker-pop.json) |
 | Poker World: Casino Game | 219292 | [219292-poker-world-casino-game.json](./219292-poker-world-casino-game.json) |
