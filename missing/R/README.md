@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relayer: Limited Edition | 172776 | [172776-relayer-limited-edition.json](./172776-relayer-limited-edition.json) |
 | Release Me | 310173 | [310173-release-me.json](./310173-release-me.json) |
 | Relic Heroes | 219812 | [219812-relic-heroes.json](./219812-relic-heroes.json) |
+| Relic Raiders | 70986 | [70986-relic-raiders.json](./70986-relic-raiders.json) |
 | Relics 2: The Crusader's Tomb | 195236 | [195236-relics-2-the-crusaders-tomb.json](./195236-relics-2-the-crusaders-tomb.json) |
 | Relics: Dark Hours | 92494 | [92494-relics-dark-hours.json](./92494-relics-dark-hours.json) |
 | Reliquary | 213627 | [213627-reliquary.json](./213627-reliquary.json) |
@@ -527,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rex! Your Interactive Pet Dinosaur | 313491 | [313491-rex-your-interactive-pet-dinosaur.json](./313491-rex-your-interactive-pet-dinosaur.json) |
 | RGB | 251216 | [251216-rgb.json](./251216-rgb.json) |
 | RGB Rush | 218173 | [218173-rgb-rush.json](./218173-rgb-rush.json) |
+| Rhapsody of Zephyr | 70961 | [70961-rhapsody-of-zephyr.json](./70961-rhapsody-of-zephyr.json) |
 | Rhino Puzzle | 263757 | [263757-rhino-puzzle.json](./263757-rhino-puzzle.json) |
 | Rhino Runner | 261557 | [261557-rhino-runner.json](./261557-rhino-runner.json) |
 | Rhythm & Beats | 292282 | [292282-rhythm-and-beats.json](./292282-rhythm-and-beats.json) |
@@ -854,6 +856,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romgadr | 259291 | [259291-romgadr.json](./259291-romgadr.json) |
 | Romino's Adventure | 209717 | [209717-rominos-adventure.json](./209717-rominos-adventure.json) |
 | Rompe! | 171078 | [171078-rompe.json](./171078-rompe.json) |
+| RON 13:13 Retaliation | 71005 | [71005-ron-13-13-retaliation.json](./71005-ron-13-13-retaliation.json) |
+| Ron 13:13^2: The Thickening | 71003 | [71003-ron-13-13-2-the-thickening.json](./71003-ron-13-13-2-the-thickening.json) |
 | Ronde | 78016 | [78016-ronde.json](./78016-ronde.json) |
 | Ronin: Two Souls | 139474 | [139474-ronin-two-souls.json](./139474-ronin-two-souls.json) |
 | Ronnarium | 263758 | [263758-ronnarium.json](./263758-ronnarium.json) |
