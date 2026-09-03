@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarOFuture | 301615 | [301615-warofuture.json](./301615-warofuture.json) |
 | Warp 7 | 231062 | [231062-warp-7.json](./231062-warp-7.json) |
 | Warp Soldier | 216486 | [216486-warp-soldier.json](./216486-warp-soldier.json) |
+| Warp-1 | 57125 | [57125-warp-1.json](./57125-warp-1.json) |
 | Warpaws | 219259 | [219259-warpaws.json](./219259-warpaws.json) |
 | WarPlan | 125460 | [125460-warplan.json](./125460-warplan.json) |
 | WarPods | 107865 | [107865-warpods.json](./107865-warpods.json) |
