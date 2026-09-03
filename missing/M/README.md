@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal March | 228088 | [228088-metal-march.json](./228088-metal-march.json) |
 | Metal Max: Fireworks | 75850 | [75850-metal-max-fireworks.json](./75850-metal-max-fireworks.json) |
 | Metal Pear | 302703 | [302703-metal-pear.json](./302703-metal-pear.json) |
+| Metal Rage: Defender of the Earth | 64966 | [64966-metal-rage-defender-of-the-earth.json](./64966-metal-rage-defender-of-the-earth.json) |
 | Metal Revolution | 114398 | [114398-metal-revolution.json](./114398-metal-revolution.json) |
 | Metal Saga: The Ark of Wastes | 75851 | [75851-metal-saga-the-ark-of-wastes.json](./75851-metal-saga-the-ark-of-wastes.json) |
 | Metal Slug 1st & 2nd Mission Double Pack | 173779 | [173779-metal-slug-1st-and-2nd-mission-double-pack.json](./173779-metal-slug-1st-and-2nd-mission-double-pack.json) |
@@ -1383,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MushroomJump | 311273 | [311273-mushroomjump.json](./311273-mushroomjump.json) |
 | Mushy Score | 257694 | [257694-mushy-score.json](./257694-mushy-score.json) |
 | Music Club Manager | 126616 | [126616-music-club-manager.json](./126616-music-club-manager.json) |
+| Music GunGun! | 64963 | [64963-music-gungun.json](./64963-music-gungun.json) |
 | Music Intro Pro 68K | 265972 | [265972-music-intro-pro-68k.json](./265972-music-intro-pro-68k.json) |
 | Music Puzzle | 256543 | [256543-music-puzzle.json](./256543-music-puzzle.json) |
 | Musical de Primeiro de Abril | 243404 | [243404-musical-de-primeiro-de-abril.json](./243404-musical-de-primeiro-de-abril.json) |
