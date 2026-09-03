@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romancing the Kingdom | 224775 | [224775-romancing-the-kingdom.json](./224775-romancing-the-kingdom.json) |
 | Romantic Escapades | 297207 | [297207-romantic-escapades.json](./297207-romantic-escapades.json) |
 | Rome 2077: Tactics | 187526 | [187526-rome-2077-tactics.json](./187526-rome-2077-tactics.json) |
+| Romeo | 71527 | [71527-romeo.json](./71527-romeo.json) |
 | Romeo & Juliet | 145667 | [145667-romeo-and-juliet.json](./145667-romeo-and-juliet.json) |
 | Romgadr | 259291 | [259291-romgadr.json](./259291-romgadr.json) |
 | Romino's Adventure | 209717 | [209717-rominos-adventure.json](./209717-rominos-adventure.json) |
