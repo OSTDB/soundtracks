@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanocorp | 173281 | [173281-nanocorp.json](./173281-nanocorp.json) |
 | NanoHive | 216991 | [216991-nanohive.json](./216991-nanohive.json) |
 | Nanos World | 152927 | [152927-nanos-world.json](./152927-nanos-world.json) |
+| Nanoui | 89972 | [89972-nanoui.json](./89972-nanoui.json) |
 | Nanowar | 181902 | [181902-nanowar.json](./181902-nanowar.json) |
 | Nanpure VOW | 191866 | [191866-nanpure-vow.json](./191866-nanpure-vow.json) |
 | Nanuk: The dusk of the brutes | 252401 | [252401-nanuk-the-dusk-of-the-brutes.json](./252401-nanuk-the-dusk-of-the-brutes.json) |
