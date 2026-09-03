@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Ball Goal | 316437 | [316437-8-ball-goal.json](./316437-8-ball-goal.json) |
 | 8 Bit Armies: Limited Edition | 185707 | [185707-8-bit-armies-limited-edition.json](./185707-8-bit-armies-limited-edition.json) |
 | 8 Queens | 112358 | [112358-8-queens.json](./112358-8-queens.json) |
+| 80.08 | 54444 | [54444-80-08.json](./54444-80-08.json) |
 | 80S escape | 132231 | [132231-80s-escape.json](./132231-80s-escape.json) |
 | 81diver | 269321 | [269321-81diver.json](./269321-81diver.json) |
 | 868-Hack: Plan.B | 143096 | [143096-868-hack-plan-b.json](./143096-868-hack-plan-b.json) |
