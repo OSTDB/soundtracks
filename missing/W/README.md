@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weed Shop 4: Highland | 309645 | [309645-weed-shop-4-highland.json](./309645-weed-shop-4-highland.json) |
 | Weekend Drive | 109019 | [109019-weekend-drive.json](./109019-weekend-drive.json) |
 | Weekly Shonen Jump Jikkyou Jan-jan Stadium | 109051 | [109051-weekly-shonen-jump-jikkyou-jan-jan-stadium.json](./109051-weekly-shonen-jump-jikkyou-jan-jan-stadium.json) |
+| Weekly Shonen Jump Ore Collection | 81415 | [81415-weekly-shonen-jump-ore-collection.json](./81415-weekly-shonen-jump-ore-collection.json) |
 | Weinende Rose | 140584 | [140584-weinende-rose.json](./140584-weinende-rose.json) |
 | Welcome Back | 153992 | [153992-welcome-back.json](./153992-welcome-back.json) |
 | Welcome Home | 146327 | [146327-welcome-home.json](./146327-welcome-home.json) |
