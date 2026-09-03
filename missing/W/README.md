@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K23: Cross-Gen Digital Edition | 241078 | [241078-wwe-2k23-cross-gen-digital-edition.json](./241078-wwe-2k23-cross-gen-digital-edition.json) |
 | WWE 2K25: Deadman Edition | 335095 | [335095-wwe-2k25-deadman-edition.json](./335095-wwe-2k25-deadman-edition.json) |
 | WWE 2K25: The Bloodline Edition | 335096 | [335096-wwe-2k25-the-bloodline-edition.json](./335096-wwe-2k25-the-bloodline-edition.json) |
+| WWII Eiyuu Retsuden: Saikyou no Tora - Kurt Knispel | 91407 | [91407-wwii-eiyuu-retsuden-saikyou-no-tora-kurt-knispel.json](./91407-wwii-eiyuu-retsuden-saikyou-no-tora-kurt-knispel.json) |
 | WWII Squad Level Land Battles ssp | 295540 | [295540-wwii-squad-level-land-battles-ssp.json](./295540-wwii-squad-level-land-battles-ssp.json) |
 | WWII: Battle Over Europe | 144311 | [144311-wwii-battle-over-europe.json](./144311-wwii-battle-over-europe.json) |
 | WWII: Tank Battle Arena | 225896 | [225896-wwii-tank-battle-arena.json](./225896-wwii-tank-battle-arena.json) |
