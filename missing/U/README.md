@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Farm | 184648 | [184648-under-the-farm.json](./184648-under-the-farm.json) |
 | Under the Sea: Swim | 233740 | [233740-under-the-sea-swim.json](./233740-under-the-sea-swim.json) |
 | Under the Witch's Trial | 247201 | [247201-under-the-witchs-trial.json](./247201-under-the-witchs-trial.json) |
+| Undercover AD2025 Kei | 86084 | [86084-undercover-ad2025-kei.json](./86084-undercover-ad2025-kei.json) |
 | Undercover: Blood Bonds | 225303 | [225303-undercover-blood-bonds.json](./225303-undercover-blood-bonds.json) |
 | Underdog Detective | 198551 | [198551-underdog-detective.json](./198551-underdog-detective.json) |
 | Underfell Neutral Run | 335065 | [335065-underfell-neutral-run.json](./335065-underfell-neutral-run.json) |
