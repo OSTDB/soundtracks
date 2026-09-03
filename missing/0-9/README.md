@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9-Ball Pocket | 178646 | [178646-9-ball-pocket.json](./178646-9-ball-pocket.json) |
 | 9-nine-: New Episode | 194644 | [194644-9-nine-new-episode.json](./194644-9-nine-new-episode.json) |
 | 9:22 | 178657 | [178657-9-22.json](./178657-9-22.json) |
+| 90 Second Portraits | 51220 | [51220-90-second-portraits.json](./51220-90-second-portraits.json) |
 | 90 Seconds | 259237 | [259237-90-seconds.json](./259237-90-seconds.json) |
 | 90s My Dear | 316438 | [316438-90s-my-dear.json](./316438-90s-my-dear.json) |
 | 99 Moves | 221991 | [221991-99-moves.json](./221991-99-moves.json) |
