@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Werewolf Opportunity, Obviously | 225265 | [225265-a-werewolf-opportunity-obviously.json](./225265-a-werewolf-opportunity-obviously.json) |
 | A Winding Path | 157709 | [157709-a-winding-path.json](./157709-a-winding-path.json) |
 | A woman goes to a private games industry party | 135282 | [135282-a-woman-goes-to-a-private-games-industry-party.json](./135282-a-woman-goes-to-a-private-games-industry-party.json) |
+| A Wonder | 75164 | [75164-a-wonder.json](./75164-a-wonder.json) |
 | A.R.M: Absolutely Reliable Machine | 132259 | [132259-a-r-m-absolutely-reliable-machine.json](./132259-a-r-m-absolutely-reliable-machine.json) |
 | A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
 | Aahh! Spot the Difference | 84864 | [84864-aahh-spot-the-difference.json](./84864-aahh-spot-the-difference.json) |
@@ -468,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Al-Ankabut | 211416 | [211416-al-ankabut.json](./211416-al-ankabut.json) |
 | Alan Wake II: The Final Draft | 298842 | [298842-alan-wake-ii-the-final-draft.json](./298842-alan-wake-ii-the-final-draft.json) |
 | Alchemic Cutie | 107171 | [107171-alchemic-cutie.json](./107171-alchemic-cutie.json) |
+| Alchemist code | 75134 | [75134-alchemist-code.json](./75134-alchemist-code.json) |
 | Alchemist Tris's Desire | 211417 | [211417-alchemist-triss-desire.json](./211417-alchemist-triss-desire.json) |
 | Alchemist's Apprentice | 341889 | [341889-alchemists-apprentice.json](./341889-alchemists-apprentice.json) |
 | Alchemist's Apprentice 2: Strength of Stones | 341901 | [341901-alchemists-apprentice-2-strength-of-stones.json](./341901-alchemists-apprentice-2-strength-of-stones.json) |
@@ -1247,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aton | 332239 | [332239-aton.json](./332239-aton.json) |
 | Atria-1 | 191222 | [191222-atria-1.json](./191222-atria-1.json) |
 | Atrocity | 113011 | [113011-atrocity.json](./113011-atrocity.json) |
+| Atrocity: Field of Hands | 75137 | [75137-atrocity-field-of-hands.json](./75137-atrocity-field-of-hands.json) |
 | Attack at EP-CYG-4 | 292837 | [292837-attack-at-ep-cyg-4.json](./292837-attack-at-ep-cyg-4.json) |
 | Attack From Mars | 91434 | [91434-attack-from-mars.json](./91434-attack-from-mars.json) |
 | Attack of the Evil Poop VR | 166738 | [166738-attack-of-the-evil-poop-vr.json](./166738-attack-of-the-evil-poop-vr.json) |
@@ -1262,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audrey & Alexis | 100816 | [100816-audrey-and-alexis.json](./100816-audrey-and-alexis.json) |
 | Auraboros | 181358 | [181358-auraboros.json](./181358-auraboros.json) |
 | Aural to Hikari no Ryuu: Gathering Light | 327602 | [327602-aural-to-hikari-no-ryuu-gathering-light.json](./327602-aural-to-hikari-no-ryuu-gathering-light.json) |
+| Aurora Memoria: Philosophical Data Session 2093 | 75146 | [75146-aurora-memoria-philosophical-data-session-2093.json](./75146-aurora-memoria-philosophical-data-session-2093.json) |
 | Aurora: Weather Warfare | 129207 | [129207-aurora-weather-warfare.json](./129207-aurora-weather-warfare.json) |
 | Aussie Clowns At War | 190194 | [190194-aussie-clowns-at-war.json](./190194-aussie-clowns-at-war.json) |
 | Austin Powers: Why Make Millions...? | 295028 | [295028-austin-powers-why-make-millions.json](./295028-austin-powers-why-make-millions.json) |
