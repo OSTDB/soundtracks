@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Run | 254752 | [254752-taxi-run.json](./254752-taxi-run.json) |
 | Tayutama: Kiss on My Deity | 69311 | [69311-tayutama-kiss-on-my-deity.json](./69311-tayutama-kiss-on-my-deity.json) |
 | Taz | 100183 | [100183-taz.json](./100183-taz.json) |
+| Tazmanian Devil: Munching Madness | 49967 | [49967-tazmanian-devil-munching-madness.json](./49967-tazmanian-devil-munching-madness.json) |
 | TBS Mini-Golf | 246098 | [246098-tbs-mini-golf.json](./246098-tbs-mini-golf.json) |
 | TC!Underfell | 306682 | [306682-tc-underfell.json](./306682-tc-underfell.json) |
 | TD Strategy of Three Kingdoms | 130927 | [130927-td-strategy-of-three-kingdoms.json](./130927-td-strategy-of-three-kingdoms.json) |
@@ -788,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flayed Man | 329396 | [329396-the-flayed-man.json](./329396-the-flayed-man.json) |
 | The Flea Evolution | 188103 | [188103-the-flea-evolution.json](./188103-the-flea-evolution.json) |
 | The Flintstones in Viva Rock Vegas | 78017 | [78017-the-flintstones-in-viva-rock-vegas.json](./78017-the-flintstones-in-viva-rock-vegas.json) |
+| The Flintstones: Burgertime in Bedrock | 49930 | [49930-the-flintstones-burgertime-in-bedrock.json](./49930-the-flintstones-burgertime-in-bedrock.json) |
 | The Flintstones: Dino - Lost in Bedrock | 71541 | [71541-the-flintstones-dino-lost-in-bedrock.json](./71541-the-flintstones-dino-lost-in-bedrock.json) |
 | The Flintstones: The Movie | 146331 | [146331-the-flintstones-the-movie.json](./146331-the-flintstones-the-movie.json) |
 | The Floor is Breathing | 229356 | [229356-the-floor-is-breathing.json](./229356-the-floor-is-breathing.json) |
@@ -1076,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Marbians | 336387 | [336387-the-marbians.json](./336387-the-marbians.json) |
 | The Market of Light | 170545 | [170545-the-market-of-light.json](./170545-the-market-of-light.json) |
 | The Martian: Official Game | 102771 | [102771-the-martian-official-game.json](./102771-the-martian-official-game.json) |
+| The Mask of Zorro | 49965 | [49965-the-mask-of-zorro.json](./49965-the-mask-of-zorro.json) |
 | The Mask: Mayhem | 255333 | [255333-the-mask-mayhem.json](./255333-the-mask-mayhem.json) |
 | The Masked Prisoner | 217000 | [217000-the-masked-prisoner.json](./217000-the-masked-prisoner.json) |
 | The Mating Season | 218141 | [218141-the-mating-season.json](./218141-the-mating-season.json) |
@@ -1112,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mulldoon Murders | 60029 | [60029-the-mulldoon-murders.json](./60029-the-mulldoon-murders.json) |
 | The Multi-Medium | 216996 | [216996-the-multi-medium.json](./216996-the-multi-medium.json) |
 | The Mummy Pharaoh | 110381 | [110381-the-mummy-pharaoh.json](./110381-the-mummy-pharaoh.json) |
+| The Mummy Returns | 49961 | [49961-the-mummy-returns.json](./49961-the-mummy-returns.json) |
 | The Murder Hotel | 247770 | [247770-the-murder-hotel.json](./247770-the-murder-hotel.json) |
 | The Mutineer | 139463 | [139463-the-mutineer.json](./139463-the-mutineer.json) |
 | The Mutton Horn: Jump Jump! | 105379 | [105379-the-mutton-horn-jump-jump.json](./105379-the-mutton-horn-jump-jump.json) |
