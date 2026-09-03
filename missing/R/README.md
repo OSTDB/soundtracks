@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remute: The Cult of Remute Portable | 321791 | [321791-remute-the-cult-of-remute-portable.json](./321791-remute-the-cult-of-remute-portable.json) |
 | Ren Ti Tu Pu | 130972 | [130972-ren-ti-tu-pu.json](./130972-ren-ti-tu-pu.json) |
 | Rending Sky | 114374 | [114374-rending-sky.json](./114374-rending-sky.json) |
+| Renegade X: Black Dawn | 51290 | [51290-renegade-x-black-dawn.json](./51290-renegade-x-black-dawn.json) |
 | Renegade: Arena Shooter | 150679 | [150679-renegade-arena-shooter.json](./150679-renegade-arena-shooter.json) |
 | Renfield | 82885 | [82885-renfield.json](./82885-renfield.json) |
 | Rengoku | 325284 | [325284-rengoku.json](./325284-rengoku.json) |
@@ -571,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm & Beats | 292282 | [292282-rhythm-and-beats.json](./292282-rhythm-and-beats.json) |
 | Rhythm Hell | 257080 | [257080-rhythm-hell.json](./257080-rhythm-hell.json) |
 | Rhythm Stars Climbing | 157196 | [157196-rhythm-stars-climbing.json](./157196-rhythm-stars-climbing.json) |
+| Rhythm Zone | 51283 | [51283-rhythm-zone.json](./51283-rhythm-zone.json) |
 | Rhythmscapes | 317017 | [317017-rhythmscapes.json](./317017-rhythmscapes.json) |
 | RhythmSlinger | 154000 | [154000-rhythmslinger.json](./154000-rhythmslinger.json) |
 | RhythmStar | 230522 | [230522-rhythmstar.json](./230522-rhythmstar.json) |
