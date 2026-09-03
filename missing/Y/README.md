@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You're Grounded! | 322355 | [322355-youre-grounded.json](./322355-youre-grounded.json) |
 | You're Mine! | 303275 | [303275-youre-mine.json](./303275-youre-mine.json) |
 | Young Detective | 196304 | [196304-young-detective.json](./196304-young-detective.json) |
+| Young Justice Shadow Mission | 80565 | [80565-young-justice-shadow-mission.json](./80565-young-justice-shadow-mission.json) |
 | Young Street | 251240 | [251240-young-street.json](./251240-young-street.json) |
 | Youngblood: Search and Destroy | 202395 | [202395-youngblood-search-and-destroy.json](./202395-youngblood-search-and-destroy.json) |
 | Your Future 2 Future Prediction | 276455 | [276455-your-future-2-future-prediction.json](./276455-your-future-2-future-prediction.json) |
