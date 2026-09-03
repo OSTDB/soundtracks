@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary Knots: Garden Wedding | 170554 | [170554-mary-knots-garden-wedding.json](./170554-mary-knots-garden-wedding.json) |
 | Mary Shelley's Frankenstein | 257663 | [257663-mary-shelleys-frankenstein.json](./257663-mary-shelleys-frankenstein.json) |
 | Mary Shelley's Frankenstein / Bram Stoker's Dracula | 257664 | [257664-mary-shelleys-frankenstein-bram-stokers-dracula.json](./257664-mary-shelleys-frankenstein-bram-stokers-dracula.json) |
+| Mary-Kate and Ashley: Girls Night Out | 49391 | [49391-mary-kate-and-ashley-girls-night-out.json](./49391-mary-kate-and-ashley-girls-night-out.json) |
 | Mary-Kate and Ashley: Winners Circle | 49966 | [49966-mary-kate-and-ashley-winners-circle.json](./49966-mary-kate-and-ashley-winners-circle.json) |
 | Maseylia: Echoes of the Past | 302107 | [302107-maseylia-echoes-of-the-past.json](./302107-maseylia-echoes-of-the-past.json) |
 | Masha and Medved | 216457 | [216457-masha-and-medved.json](./216457-masha-and-medved.json) |
@@ -1156,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Commanders | 310720 | [310720-monster-commanders.json](./310720-monster-commanders.json) |
 | Monster Fair | 218156 | [218156-monster-fair.json](./218156-monster-fair.json) |
 | Monster Fishing 2018 | 102766 | [102766-monster-fishing-2018.json](./102766-monster-fishing-2018.json) |
+| Monster Force | 49390 | [49390-monster-force.json](./49390-monster-force.json) |
 | Monster Galaxy | 197943 | [197943-monster-galaxy.json](./197943-monster-galaxy.json) |
 | Monster Girl Dreams | 138832 | [138832-monster-girl-dreams.json](./138832-monster-girl-dreams.json) |
 | Monster Girl Dungeon | 166214 | [166214-monster-girl-dungeon.json](./166214-monster-girl-dungeon.json) |
@@ -1546,6 +1548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Garden | 261528 | [261528-my-little-garden.json](./261528-my-little-garden.json) |
 | My Little Kitty Cat | 99001 | [99001-my-little-kitty-cat.json](./99001-my-little-kitty-cat.json) |
 | My Little MILF | 341351 | [341351-my-little-milf.json](./341351-my-little-milf.json) |
+| My Little Pony Crystal Princess: The Runaway Rainbow | 49389 | [49389-my-little-pony-crystal-princess-the-runaway-rainbow.json](./49389-my-little-pony-crystal-princess-the-runaway-rainbow.json) |
 | My Little Pony World | 221943 | [221943-my-little-pony-world.json](./221943-my-little-pony-world.json) |
 | My Little Prince: A Jigsaw Puzzle Tale | 159852 | [159852-my-little-prince-a-jigsaw-puzzle-tale.json](./159852-my-little-prince-a-jigsaw-puzzle-tale.json) |
 | My Little Puppy | 335660 | [335660-my-little-puppy.json](./335660-my-little-puppy.json) |
