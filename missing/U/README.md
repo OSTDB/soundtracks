@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Signal: Invasion | 290695 | [290695-unknown-signal-invasion.json](./290695-unknown-signal-invasion.json) |
 | Unkore | 151750 | [151750-unkore.json](./151750-unkore.json) |
 | Unlimited | 268217 | [268217-unlimited.json](./268217-unlimited.json) |
+| Unlimited Elevators | 94790 | [94790-unlimited-elevators.json](./94790-unlimited-elevators.json) |
 | Unlock Me | 338587 | [338587-unlock-me.json](./338587-unlock-me.json) |
 | Unlock the Block | 166756 | [166756-unlock-the-block.json](./166756-unlock-the-block.json) |
 | Unlock the Feelings | 199094 | [199094-unlock-the-feelings.json](./199094-unlock-the-feelings.json) |
