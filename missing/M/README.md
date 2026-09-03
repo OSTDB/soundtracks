@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana Spark: Forgotten Crypts | 238187 | [238187-mana-spark-forgotten-crypts.json](./238187-mana-spark-forgotten-crypts.json) |
 | Mana's Manual | 248884 | [248884-manas-manual.json](./248884-manas-manual.json) |
 | Manatee | 311249 | [311249-manatee.json](./311249-manatee.json) |
+| Manchester United Club Football | 52013 | [52013-manchester-united-club-football.json](./52013-manchester-united-club-football.json) |
 | Mandela Effect Brain Test | 306694 | [306694-mandela-effect-brain-test.json](./306694-mandela-effect-brain-test.json) |
 | Mandeshire | 173274 | [173274-mandeshire.json](./173274-mandeshire.json) |
 | Mandrake Boys | 202398 | [202398-mandrake-boys.json](./202398-mandrake-boys.json) |
@@ -1630,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Store | 146889 | [146889-mystic-store.json](./146889-mystic-store.json) |
 | Mystic Tower Legends | 341354 | [341354-mystic-tower-legends.json](./341354-mystic-tower-legends.json) |
 | Mystic Valley Battleground | 272564 | [272564-mystic-valley-battleground.json](./272564-mystic-valley-battleground.json) |
+| Mystic VR | 51940 | [51940-mystic-vr.json](./51940-mystic-vr.json) |
 | Mystical Chain | 202950 | [202950-mystical-chain.json](./202950-mystical-chain.json) |
 | Mystical Echoes | 149083 | [149083-mystical-echoes.json](./149083-mystical-echoes.json) |
 | Mystical Mushrooms | 341353 | [341353-mystical-mushrooms.json](./341353-mystical-mushrooms.json) |
