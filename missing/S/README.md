@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siren Head: The Arrival | 312360 | [312360-siren-head-the-arrival.json](./312360-siren-head-the-arrival.json) |
 | Siren's Call: Escape Velocity | 258728 | [258728-sirens-call-escape-velocity.json](./258728-sirens-call-escape-velocity.json) |
 | Sitnalta | 268762 | [268762-sitnalta.json](./268762-sitnalta.json) |
+| Situation Outbreak | 91456 | [91456-situation-outbreak.json](./91456-situation-outbreak.json) |
 | Six Floors Under | 296659 | [296659-six-floors-under.json](./296659-six-floors-under.json) |
 | Six Orders | 277615 | [277615-six-orders.json](./277615-six-orders.json) |
 | Six Sides of the World Enhanced | 147980 | [147980-six-sides-of-the-world-enhanced.json](./147980-six-sides-of-the-world-enhanced.json) |
@@ -774,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibidi Toilet Hero: Sex Mod | 312888 | [312888-skibidi-toilet-hero-sex-mod.json](./312888-skibidi-toilet-hero-sex-mod.json) |
 | Skid Island: Asphalt Mayhem | 291745 | [291745-skid-island-asphalt-mayhem.json](./291745-skid-island-asphalt-mayhem.json) |
 | Skinny & Franko: Fists of Violence | 215900 | [215900-skinny-and-franko-fists-of-violence.json](./215900-skinny-and-franko-fists-of-violence.json) |
+| Skins Game | 91433 | [91433-skins-game.json](./91433-skins-game.json) |
 | Skuiggle | 202945 | [202945-skuiggle.json](./202945-skuiggle.json) |
 | Skull and Bones: Season 1 - Raging Tides | 303240 | [303240-skull-and-bones-season-1-raging-tides.json](./303240-skull-and-bones-season-1-raging-tides.json) |
 | Skull and Bones: Season 2 - Chorus of Havoc | 303241 | [303241-skull-and-bones-season-2-chorus-of-havoc.json](./303241-skull-and-bones-season-2-chorus-of-havoc.json) |
@@ -1951,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Battle Sensha | 252407 | [252407-super-battle-sensha.json](./252407-super-battle-sensha.json) |
 | Super Beast Activation | 311823 | [311823-super-beast-activation.json](./311823-super-beast-activation.json) |
 | Super Big Bro Quest | 321775 | [321775-super-big-bro-quest.json](./321775-super-big-bro-quest.json) |
+| Super Blocmania 3D + 3D Brick Blaster | 91431 | [91431-super-blocmania-3d-3d-brick-blaster.json](./91431-super-blocmania-3d-3d-brick-blaster.json) |
 | Super Bo Noise | 316988 | [316988-super-bo-noise.json](./316988-super-bo-noise.json) |
 | Super Bomberman R Online: Premium Pack | 150653 | [150653-super-bomberman-r-online-premium-pack.json](./150653-super-bomberman-r-online-premium-pack.json) |
 | Super Bowsette 64 | 240461 | [240461-super-bowsette-64.json](./240461-super-bowsette-64.json) |
