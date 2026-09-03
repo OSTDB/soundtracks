@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanou Kaihatsu Series 6 Ouyou Mondai | 303766 | [303766-sanou-kaihatsu-series-6-ouyou-mondai.json](./303766-sanou-kaihatsu-series-6-ouyou-mondai.json) |
 | Sanrio Timenet World | 302682 | [302682-sanrio-timenet-world.json](./302682-sanrio-timenet-world.json) |
 | Santa Challenge | 130959 | [130959-santa-challenge.json](./130959-santa-challenge.json) |
+| Santa Claus is Comin' to Town | 50622 | [50622-santa-claus-is-comin-to-town.json](./50622-santa-claus-is-comin-to-town.json) |
 | Santa Claus Jigsaw Puzzles | 228108 | [228108-santa-claus-jigsaw-puzzles.json](./228108-santa-claus-jigsaw-puzzles.json) |
 | Santa Clicker Tycoon | 209630 | [209630-santa-clicker-tycoon.json](./209630-santa-clicker-tycoon.json) |
 | Santa in search of toys | 113691 | [113691-santa-in-search-of-toys.json](./113691-santa-in-search-of-toys.json) |
@@ -339,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seashine | 143091 | [143091-seashine.json](./143091-seashine.json) |
 | Seaway | 181901 | [181901-seaway.json](./181901-seaway.json) |
 | Seawolf + Missile | 139470 | [139470-seawolf-missile.json](./139470-seawolf-missile.json) |
+| SeaWorld Adventure Park: Shamu's Deep Sea Adventures | 50565 | [50565-seaworld-adventure-park-shamus-deep-sea-adventures.json](./50565-seaworld-adventure-park-shamus-deep-sea-adventures.json) |
 | SeaWorld Adventure Parks Tycoon | 73288 | [73288-seaworld-adventure-parks-tycoon.json](./73288-seaworld-adventure-parks-tycoon.json) |
 | Second Final | 120381 | [120381-second-final.json](./120381-second-final.json) |
 | Second Novel: Kanojo no Natsu, 15fun no Kioku | 138805 | [138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json](./138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json) |
@@ -855,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sincere Deceit | 328230 | [328230-sincere-deceit.json](./328230-sincere-deceit.json) |
 | SinClient | 82951 | [82951-sinclient.json](./82951-sinclient.json) |
 | Sinderfury | 306089 | [306089-sinderfury.json](./306089-sinderfury.json) |
+| Sing 4: The Hits Edition | 50602 | [50602-sing-4-the-hits-edition.json](./50602-sing-4-the-hits-edition.json) |
 | SingStar Grandes Exitos | 268750 | [268750-singstar-grandes-exitos.json](./268750-singstar-grandes-exitos.json) |
 | SingStar Intro | 268745 | [268745-singstar-intro.json](./268745-singstar-intro.json) |
 | SingStar MegaHits | 268748 | [268748-singstar-megahits.json](./268748-singstar-megahits.json) |
@@ -1533,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
 | Space Misfits | 123040 | [123040-space-misfits.json](./123040-space-misfits.json) |
 | Space Operation | 273661 | [273661-space-operation.json](./273661-space-operation.json) |
+| Space Pinball | 50595 | [50595-space-pinball.json](./50595-space-pinball.json) |
 | Space Quiz | 74456 | [74456-space-quiz.json](./74456-space-quiz.json) |
 | Space Rage | 105947 | [105947-space-rage.json](./105947-space-rage.json) |
 | Space Raiders | 52000 | [52000-space-raiders.json](./52000-space-raiders.json) |
@@ -2365,6 +2369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - USA Puzzles | 155634 | [155634-super-jigsaw-puzzle-generations-usa-puzzles.json](./155634-super-jigsaw-puzzle-generations-usa-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Winter 2023 | 273631 | [273631-super-jigsaw-puzzle-generations-winter-2023.json](./273631-super-jigsaw-puzzle-generations-winter-2023.json) |
 | Super Jump Guys | 267683 | [267683-super-jump-guys.json](./267683-super-jump-guys.json) |
+| Super Karts | 50614 | [50614-super-karts.json](./50614-super-karts.json) |
 | Super Kenney | 209683 | [209683-super-kenney.json](./209683-super-kenney.json) |
 | Super Kid | 98431 | [98431-super-kid.json](./98431-super-kid.json) |
 | Super Kids Racing: Snow Edition | 249491 | [249491-super-kids-racing-snow-edition.json](./249491-super-kids-racing-snow-edition.json) |
