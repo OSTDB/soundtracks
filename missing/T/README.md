@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Care VR | 236507 | [236507-take-care-vr.json](./236507-take-care-vr.json) |
 | Take on Helicopters: Hinds | 166219 | [166219-take-on-helicopters-hinds.json](./166219-take-on-helicopters-hinds.json) |
 | Take Shape | 92488 | [92488-take-shape.json](./92488-take-shape.json) |
+| Takeda Shingen | 81334 | [81334-takeda-shingen.json](./81334-takeda-shingen.json) |
 | Taken Souls: Blood Ritual | 139427 | [139427-taken-souls-blood-ritual.json](./139427-taken-souls-blood-ritual.json) |
 | Takeout food | 107902 | [107902-takeout-food.json](./107902-takeout-food.json) |
 | Tako no Himitsu: Ocean of Secrets | 250031 | [250031-tako-no-himitsu-ocean-of-secrets.json](./250031-tako-no-himitsu-ocean-of-secrets.json) |
@@ -234,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatari: Curse Road | 293382 | [293382-tatari-curse-road.json](./293382-tatari-curse-road.json) |
 | Tatari: The Arrival | 267101 | [267101-tatari-the-arrival.json](./267101-tatari-the-arrival.json) |
 | Taurus War | 290701 | [290701-taurus-war.json](./290701-taurus-war.json) |
+| Tavenier | 81420 | [81420-tavenier.json](./81420-tavenier.json) |
 | Tavern Rumble: Roguelike Card | 256517 | [256517-tavern-rumble-roguelike-card.json](./256517-tavern-rumble-roguelike-card.json) |
 | Taxi By Night | 184653 | [184653-taxi-by-night.json](./184653-taxi-by-night.json) |
 | Taxi in the Rain | 150177 | [150177-taxi-in-the-rain.json](./150177-taxi-in-the-rain.json) |
@@ -378,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tex Murphy: Mean Streets + Martian Memorandum | 83575 | [83575-tex-murphy-mean-streets-martian-memorandum.json](./83575-tex-murphy-mean-streets-martian-memorandum.json) |
 | Texas Hold'em | 137058 | [137058-texas-holdem.json](./137058-texas-holdem.json) |
 | TextTwist 2 | 92504 | [92504-texttwist-2.json](./92504-texttwist-2.json) |
+| th!nk Logic Trainer: Kids | 81392 | [81392-th-nk-logic-trainer-kids.json](./81392-th-nk-logic-trainer-kids.json) |
 | Thalassic | 238728 | [238728-thalassic.json](./238728-thalassic.json) |
 | Thalassophobia | 303799 | [303799-thalassophobia.json](./303799-thalassophobia.json) |
 | Thalu: Dreamtime is Now | 113707 | [113707-thalu-dreamtime-is-now.json](./113707-thalu-dreamtime-is-now.json) |
@@ -1096,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reggae Operation | 188119 | [188119-the-reggae-operation.json](./188119-the-reggae-operation.json) |
 | The Relief of Impact | 179751 | [179751-the-relief-of-impact.json](./179751-the-relief-of-impact.json) |
 | The Remote Outpost | 268726 | [268726-the-remote-outpost.json](./268726-the-remote-outpost.json) |
+| The Repossessor | 81338 | [81338-the-repossessor.json](./81338-the-repossessor.json) |
 | The Restless Dead | 87304 | [87304-the-restless-dead.json](./87304-the-restless-dead.json) |
 | The Restless Resort | 271987 | [271987-the-restless-resort.json](./271987-the-restless-resort.json) |
 | The Revenant Prince | 129761 | [129761-the-revenant-prince.json](./129761-the-revenant-prince.json) |
@@ -1884,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Rome II - Hannibal at the Gates Campaign Pack | 167824 | [167824-total-war-rome-ii-hannibal-at-the-gates-campaign-pack.json](./167824-total-war-rome-ii-hannibal-at-the-gates-campaign-pack.json) |
 | Total War: Rome II - Imperator Augustus Campaign Pack | 167822 | [167822-total-war-rome-ii-imperator-augustus-campaign-pack.json](./167822-total-war-rome-ii-imperator-augustus-campaign-pack.json) |
 | Total War: Warhammer - Dark Gods Edition | 170027 | [170027-total-war-warhammer-dark-gods-edition.json](./170027-total-war-warhammer-dark-gods-edition.json) |
+| Total War: Warhammer - Grey Wizard | 81349 | [81349-total-war-warhammer-grey-wizard.json](./81349-total-war-warhammer-grey-wizard.json) |
 | Total War: Warhammer II - Tretch Craventail | 167825 | [167825-total-war-warhammer-ii-tretch-craventail.json](./167825-total-war-warhammer-ii-tretch-craventail.json) |
 | Total War: Warhammer III - Shadows of Change | 251223 | [251223-total-war-warhammer-iii-shadows-of-change.json](./251223-total-war-warhammer-iii-shadows-of-change.json) |
 | Total War: Warhammer III - Thrones of Decay | 251224 | [251224-total-war-warhammer-iii-thrones-of-decay.json](./251224-total-war-warhammer-iii-thrones-of-decay.json) |
