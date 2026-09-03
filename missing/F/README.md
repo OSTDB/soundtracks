@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Flush | 107220 | [107220-fire-flush.json](./107220-fire-flush.json) |
 | Fire Fly | 277588 | [277588-fire-fly.json](./277588-fire-fly.json) |
 | Fire Sale | 165694 | [165694-fire-sale.json](./165694-fire-sale.json) |
+| Fire Woman: Matoi Gumi | 45958 | [45958-fire-woman-matoi-gumi.json](./45958-fire-woman-matoi-gumi.json) |
 | Fireball Classic | 91446 | [91446-fireball-classic.json](./91446-fireball-classic.json) |
 | Firefight | 121746 | [121746-firefight.json](./121746-firefight.json) |
 | Firefighter Connor | 266524 | [266524-firefighter-connor.json](./266524-firefighter-connor.json) |
