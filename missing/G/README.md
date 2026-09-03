@@ -140,6 +140,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield 2: Royal Adventure | 309657 | [309657-garfield-2-royal-adventure.json](./309657-garfield-2-royal-adventure.json) |
 | Garfield Collection 2 in 1 | 340739 | [340739-garfield-collection-2-in-1.json](./340739-garfield-collection-2-in-1.json) |
 | Garfield Labyrinth | 153452 | [153452-garfield-labyrinth.json](./153452-garfield-labyrinth.json) |
+| Garfield's Defense 2: The Food Invaders Strike Back | 63862 | [63862-garfields-defense-2-the-food-invaders-strike-back.json](./63862-garfields-defense-2-the-food-invaders-strike-back.json) |
+| Garfield's Defense: Attack of the Food Invaders | 63864 | [63864-garfields-defense-attack-of-the-food-invaders.json](./63864-garfields-defense-attack-of-the-food-invaders.json) |
+| Garfield's Diner | 63863 | [63863-garfields-diner.json](./63863-garfields-diner.json) |
+| Garfield's Diner Hawaii | 63860 | [63860-garfields-diner-hawaii.json](./63860-garfields-diner-hawaii.json) |
+| Garfield's Escape | 63869 | [63869-garfields-escape.json](./63869-garfields-escape.json) |
+| Garfield's Gem | 63861 | [63861-garfields-gem.json](./63861-garfields-gem.json) |
 | Garin Game: Curse of Revival Ceremony | 214747 | [214747-garin-game-curse-of-revival-ceremony.json](./214747-garin-game-curse-of-revival-ceremony.json) |
 | Garnet Cradle | 221412 | [221412-garnet-cradle.json](./221412-garnet-cradle.json) |
 | Gartic on Stream | 185152 | [185152-gartic-on-stream.json](./185152-gartic-on-stream.json) |
@@ -645,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grayscale | 217502 | [217502-grayscale.json](./217502-grayscale.json) |
 | Graytail | 292298 | [292298-graytail.json](./292298-graytail.json) |
 | Great Adventures: Castle | 167280 | [167280-great-adventures-castle.json](./167280-great-adventures-castle.json) |
+| Great Adventures: Pirate Ship | 63892 | [63892-great-adventures-pirate-ship.json](./63892-great-adventures-pirate-ship.json) |
 | Great Alhcemist | 129227 | [129227-great-alhcemist.json](./129227-great-alhcemist.json) |
 | Great Battle Full Blast | 65516 | [65516-great-battle-full-blast.json](./65516-great-battle-full-blast.json) |
 | Great Bishi Bashi Champ | 321128 | [321128-great-bishi-bashi-champ.json](./321128-great-bishi-bashi-champ.json) |
