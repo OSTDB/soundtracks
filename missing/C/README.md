@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Cops | 247218 | [247218-car-cops.json](./247218-car-cops.json) |
 | Car Crash Couch Party | 83586 | [83586-car-crash-couch-party.json](./83586-car-crash-couch-party.json) |
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
+| Car Jamboree | 40232 | [40232-car-jamboree.json](./40232-car-jamboree.json) |
 | Car Mechanic Pinball | 219301 | [219301-car-mechanic-pinball.json](./219301-car-mechanic-pinball.json) |
 | Car on a Stick | 123623 | [123623-car-on-a-stick.json](./123623-car-on-a-stick.json) |
 | Car Parking - Test Drive and Parking Simulator | 88298 | [88298-car-parking-test-drive-and-parking-simulator.json](./88298-car-parking-test-drive-and-parking-simulator.json) |
