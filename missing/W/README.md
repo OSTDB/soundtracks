@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wet Warfare | 109679 | [109679-wet-warfare.json](./109679-wet-warfare.json) |
 | WFD | 272567 | [272567-wfd.json](./272567-wfd.json) |
 | Whack-A-Friend | 85486 | [85486-whack-a-friend.json](./85486-whack-a-friend.json) |
+| Wham the Music Box | 45314 | [45314-wham-the-music-box.json](./45314-wham-the-music-box.json) |
 | What A Legend | 239306 | [239306-what-a-legend.json](./239306-what-a-legend.json) |
 | What Cat? | 253033 | [253033-what-cat.json](./253033-what-cat.json) |
 | What da Yak | 214758 | [214758-what-da-yak.json](./214758-what-da-yak.json) |
@@ -617,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Wimmelbild Gold | 92503 | [92503-world-of-wimmelbild-gold.json](./92503-world-of-wimmelbild-gold.json) |
 | World Poker Tour: Texas Hold 'Em | 85498 | [85498-world-poker-tour-texas-hold-em.json](./85498-world-poker-tour-texas-hold-em.json) |
 | World Robot Boxing 2 | 196302 | [196302-world-robot-boxing-2.json](./196302-world-robot-boxing-2.json) |
+| World Series Basketball | 45316 | [45316-world-series-basketball.json](./45316-world-series-basketball.json) |
 | World Snooker Championship: Season 2007-08 | 64994 | [64994-world-snooker-championship-season-2007-08.json](./64994-world-snooker-championship-season-2007-08.json) |
 | World Soccer: Winning Eleven | 68693 | [68693-world-soccer-winning-eleven.json](./68693-world-soccer-winning-eleven.json) |
 | World Soccer: Winning Eleven 2010 - Arcade Championship | 64960 | [64960-world-soccer-winning-eleven-2010-arcade-championship.json](./64960-world-soccer-winning-eleven-2010-arcade-championship.json) |
