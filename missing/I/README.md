@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If My Heart Had Wings | 196874 | [196874-if-my-heart-had-wings.json](./196874-if-my-heart-had-wings.json) |
 | If Nil then | 201326 | [201326-if-nil-then.json](./201326-if-nil-then.json) |
 | iF-22 | 95458 | [95458-if-22.json](./95458-if-22.json) |
+| iF/A-18E Carrier Strike Fighter | 78014 | [78014-if-a-18e-carrier-strike-fighter.json](./78014-if-a-18e-carrier-strike-fighter.json) |
 | iFarkle | 104658 | [104658-ifarkle.json](./104658-ifarkle.json) |
 | iFighter 1945 | 91940 | [91940-ifighter-1945.json](./91940-ifighter-1945.json) |
 | IFU | 274774 | [274774-ifu.json](./274774-ifu.json) |
