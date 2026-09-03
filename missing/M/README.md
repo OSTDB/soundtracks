@@ -687,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroLeague Football 2 | 94265 | [94265-microleague-football-2.json](./94265-microleague-football-2.json) |
 | MicroProse Entertainment Pack Vol #1: Dr Floyd's Desktop Toys | 98962 | [98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json](./98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json) |
 | Microsoft Combat Flight Simulator: WWII Europe Series | 243975 | [243975-microsoft-combat-flight-simulator-wwii-europe-series.json](./243975-microsoft-combat-flight-simulator-wwii-europe-series.json) |
+| Microsoft Entertainment Pack for Windows | 78025 | [78025-microsoft-entertainment-pack-for-windows.json](./78025-microsoft-entertainment-pack-for-windows.json) |
 | Microsoft Flight Simulator 5.1: The Virtual Squadron | 141224 | [141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json](./141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json) |
 | Microsoft Flight Simulator X: Steam Edition - 3D Lights Redux | 161889 | [161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json](./161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json) |
 | Microsoft Flight Simulator X: Steam Edition - Around the World in 80 Flights | 161868 | [161868-microsoft-flight-simulator-x-steam-edition-around-the-world-in-80-flights.json](./161868-microsoft-flight-simulator-x-steam-edition-around-the-world-in-80-flights.json) |
@@ -720,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator: 40th Anniversary Edition | 293926 | [293926-microsoft-flight-simulator-40th-anniversary-edition.json](./293926-microsoft-flight-simulator-40th-anniversary-edition.json) |
 | Microsoft Flight Simulator: Deluxe 40th Anniversary Edition | 293928 | [293928-microsoft-flight-simulator-deluxe-40th-anniversary-edition.json](./293928-microsoft-flight-simulator-deluxe-40th-anniversary-edition.json) |
 | Microsoft Flight Simulator: Premium Deluxe 40th Anniversary Edition | 293927 | [293927-microsoft-flight-simulator-premium-deluxe-40th-anniversary-edition.json](./293927-microsoft-flight-simulator-premium-deluxe-40th-anniversary-edition.json) |
+| Microsoft Train Simulator: German Railroads Volume Two - Fast Railcars on the Runway | 78055 | [78055-microsoft-train-simulator-german-railroads-volume-two-fast-railcars-on-the-runway.json](./78055-microsoft-train-simulator-german-railroads-volume-two-fast-railcars-on-the-runway.json) |
 | Microsoft: My Personal Tutor 1st & 2nd Grade | 144365 | [144365-microsoft-my-personal-tutor-1st-and-2nd-grade.json](./144365-microsoft-my-personal-tutor-1st-and-2nd-grade.json) |
 | Microsoft: My Personal Tutor Preschool & Kindergarden | 144363 | [144363-microsoft-my-personal-tutor-preschool-and-kindergarden.json](./144363-microsoft-my-personal-tutor-preschool-and-kindergarden.json) |
 | Midio! | 336919 | [336919-midio.json](./336919-midio.json) |
@@ -787,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Her Manor | 312325 | [312325-mind-her-manor.json](./312325-mind-her-manor.json) |
 | Mind Shadows | 151180 | [151180-mind-shadows.json](./151180-mind-shadows.json) |
 | Mind the Abyss | 310175 | [310175-mind-the-abyss.json](./310175-mind-the-abyss.json) |
+| Mindblower Pack | 78023 | [78023-mindblower-pack.json](./78023-mindblower-pack.json) |
 | Minder | 100207 | [100207-minder.json](./100207-minder.json) |
 | Mindhack | 151735 | [151735-mindhack.json](./151735-mindhack.json) |
 | Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
@@ -1136,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morphcat Games Collection 1 | 191899 | [191899-morphcat-games-collection-1.json](./191899-morphcat-games-collection-1.json) |
 | Morrow | 220844 | [220844-morrow.json](./220844-morrow.json) |
 | Mortadelo y Filemón II: Safari Callejero | 98975 | [98975-mortadelo-y-filemon-ii-safari-callejero.json](./98975-mortadelo-y-filemon-ii-safari-callejero.json) |
+| Mortadelo y Filemón: El Escarabajo de Cleopatra | 78038 | [78038-mortadelo-y-filemon-el-escarabajo-de-cleopatra.json](./78038-mortadelo-y-filemon-el-escarabajo-de-cleopatra.json) |
 | Mortal Fighter | 251837 | [251837-mortal-fighter.json](./251837-mortal-fighter.json) |
 | Mortal Hire | 295006 | [295006-mortal-hire.json](./295006-mortal-hire.json) |
 | Mortal Kombat | 242239 | [242239-mortal-kombat.json](./242239-mortal-kombat.json) |
