@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leganda | 188675 | [188675-leganda.json](./188675-leganda.json) |
 | Legend | 197955 | [197955-legend.json](./197955-legend.json) |
 | Legend of Cozar | 334475 | [334475-legend-of-cozar.json](./334475-legend-of-cozar.json) |
+| Legend of Fairies | 73814 | [73814-legend-of-fairies.json](./73814-legend-of-fairies.json) |
 | Legend of Frog | 327576 | [327576-legend-of-frog.json](./327576-legend-of-frog.json) |
 | Legend of Heroes: Eternal Arena | 151200 | [151200-legend-of-heroes-eternal-arena.json](./151200-legend-of-heroes-eternal-arena.json) |
 | Legend of Labot: The Golden Pearl | 173280 | [173280-legend-of-labot-the-golden-pearl.json](./173280-legend-of-labot-the-golden-pearl.json) |
@@ -246,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leprechaun Twins | 307313 | [307313-leprechaun-twins.json](./307313-leprechaun-twins.json) |
 | Lernen Leicht Gemacht! Für Junggebliebene | 81389 | [81389-lernen-leicht-gemacht-fur-junggebliebene.json](./81389-lernen-leicht-gemacht-fur-junggebliebene.json) |
 | Les Incollables CE1-CE2 | 269834 | [269834-les-incollables-ce1-ce2.json](./269834-les-incollables-ce1-ce2.json) |
+| Les Manley in: Search for the King | 73837 | [73837-les-manley-in-search-for-the-king.json](./73837-les-manley-in-search-for-the-king.json) |
 | Les Ripoux | 133439 | [133439-les-ripoux.json](./133439-les-ripoux.json) |
 | Lesbian Mothman Hunters | 151751 | [151751-lesbian-mothman-hunters.json](./151751-lesbian-mothman-hunters.json) |
 | Lesbian Vampire Simulator | 177531 | [177531-lesbian-vampire-simulator.json](./177531-lesbian-vampire-simulator.json) |
@@ -468,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizard Quest! | 244471 | [244471-lizard-quest.json](./244471-lizard-quest.json) |
 | Lizardquest-Alien waters | 115035 | [115035-lizardquest-alien-waters.json](./115035-lizardquest-alien-waters.json) |
 | Load Roll Die | 172734 | [172734-load-roll-die.json](./172734-load-roll-die.json) |
+| Loader Larry | 73809 | [73809-loader-larry.json](./73809-loader-larry.json) |
 | Loading Zone | 193469 | [193469-loading-zone.json](./193469-loading-zone.json) |
 | Lobby Cam by Bryn Oh | 235468 | [235468-lobby-cam-by-bryn-oh.json](./235468-lobby-cam-by-bryn-oh.json) |
 | Lobo | 86130 | [86130-lobo.json](./86130-lobo.json) |
