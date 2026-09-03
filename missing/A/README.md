@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquatic Rampage | 152348 | [152348-aquatic-rampage.json](./152348-aquatic-rampage.json) |
 | Aquatics Hentai Babes | 157717 | [157717-aquatics-hentai-babes.json](./157717-aquatics-hentai-babes.json) |
 | Aquavias | 96757 | [96757-aquavias.json](./96757-aquavias.json) |
+| AR Darts | 55895 | [55895-ar-darts.json](./55895-ar-darts.json) |
 | AR Flappy | 232186 | [232186-ar-flappy.json](./232186-ar-flappy.json) |
 | AR Magic Color UP | 56487 | [56487-ar-magic-color-up.json](./56487-ar-magic-color-up.json) |
 | Ar nosurge Plus: Ode to an Unborn Star - Limited Edition | 89915 | [89915-ar-nosurge-plus-ode-to-an-unborn-star-limited-edition.json](./89915-ar-nosurge-plus-ode-to-an-unborn-star-limited-edition.json) |
@@ -1125,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored | 151201 | [151201-armored.json](./151201-armored.json) |
 | Armored Core VI: Fires of Rubicon - Launch Edition | 248296 | [248296-armored-core-vi-fires-of-rubicon-launch-edition.json](./248296-armored-core-vi-fires-of-rubicon-launch-edition.json) |
 | Armored Heroes | 242204 | [242204-armored-heroes.json](./242204-armored-heroes.json) |
+| Armored Patrol | 55932 | [55932-armored-patrol.json](./55932-armored-patrol.json) |
 | Armored Squad | 83557 | [83557-armored-squad.json](./83557-armored-squad.json) |
 | Armored Us | 241619 | [241619-armored-us.json](./241619-armored-us.json) |
 | Armoured Onslaught | 129223 | [129223-armoured-onslaught.json](./129223-armoured-onslaught.json) |
@@ -1327,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ryza 2: Lost Legends & The Secret Fairy - Special Collection Box | 140002 | [140002-atelier-ryza-2-lost-legends-and-the-secret-fairy-special-collection-box.json](./140002-atelier-ryza-2-lost-legends-and-the-secret-fairy-special-collection-box.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - Secret Solitary Island | 238227 | [238227-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json](./238227-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json) |
 | Athena | 273078 | [273078-athena.json](./273078-athena.json) |
+| Athena: Full Throttle | 55894 | [55894-athena-full-throttle.json](./55894-athena-full-throttle.json) |
 | Athena's Circus | 334505 | [334505-athenas-circus.json](./334505-athenas-circus.json) |
 | Athenian Acropolis | 74445 | [74445-athenian-acropolis.json](./74445-athenian-acropolis.json) |
 | Athletyx | 123069 | [123069-athletyx.json](./123069-athletyx.json) |
