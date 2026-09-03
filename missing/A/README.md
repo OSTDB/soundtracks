@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Force | 121736 | [121736-ace-force.json](./121736-ace-force.json) |
 | Ace Invaders | 147460 | [147460-ace-invaders.json](./147460-ace-invaders.json) |
 | Ace Racer | 174905 | [174905-ace-racer.json](./174905-ace-racer.json) |
+| Acedior | 70432 | [70432-acedior.json](./70432-acedior.json) |
 | AceForce 2 | 311282 | [311282-aceforce-2.json](./311282-aceforce-2.json) |
 | Aces High! | 328246 | [328246-aces-high.json](./328246-aces-high.json) |
 | Achaem | 104680 | [104680-achaem.json](./104680-achaem.json) |
@@ -476,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akuma no Shinpan | 307961 | [307961-akuma-no-shinpan.json](./307961-akuma-no-shinpan.json) |
 | Akyrikon VR | 158204 | [158204-akyrikon-vr.json](./158204-akyrikon-vr.json) |
 | Al-Ankabut | 211416 | [211416-al-ankabut.json](./211416-al-ankabut.json) |
+| Alan Probe: Amateur Surgeon | 70415 | [70415-alan-probe-amateur-surgeon.json](./70415-alan-probe-amateur-surgeon.json) |
 | Alan Wake II: The Final Draft | 298842 | [298842-alan-wake-ii-the-final-draft.json](./298842-alan-wake-ii-the-final-draft.json) |
 | Alchemic Cutie | 107171 | [107171-alchemic-cutie.json](./107171-alchemic-cutie.json) |
 | Alchemist code | 75134 | [75134-alchemist-code.json](./75134-alchemist-code.json) |
@@ -620,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altered Anomalies | 322994 | [322994-altered-anomalies.json](./322994-altered-anomalies.json) |
 | Altered Beast | 202941 | [202941-altered-beast.json](./202941-altered-beast.json) |
 | AlterEgo City | 306643 | [306643-alterego-city.json](./306643-alterego-city.json) |
+| AlterVerse: Disruption | 70394 | [70394-alterverse-disruption.json](./70394-alterverse-disruption.json) |
 | AltLife | 331148 | [331148-altlife.json](./331148-altlife.json) |
 | Altruism | 147451 | [147451-altruism.json](./147451-altruism.json) |
 | Alucinod | 118422 | [118422-alucinod.json](./118422-alucinod.json) |
