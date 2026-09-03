@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemstones | 231616 | [231616-gemstones.json](./231616-gemstones.json) |
 | Gemsweeper | 135284 | [135284-gemsweeper.json](./135284-gemsweeper.json) |
 | Gemwielders | 325245 | [325245-gemwielders.json](./325245-gemwielders.json) |
+| Gene | 35898 | [35898-gene.json](./35898-gene.json) |
 | Gene Rain Ultimate & Your Toy Bundle | 301575 | [301575-gene-rain-ultimate-and-your-toy-bundle.json](./301575-gene-rain-ultimate-and-your-toy-bundle.json) |
 | Geneforge 1: Mutagen | 134650 | [134650-geneforge-1-mutagen.json](./134650-geneforge-1-mutagen.json) |
 | Geneki Toudai-sei ga Tsukutta!: Dekiru Ko ni Naru Seikatsu Shuukan Dragon Sakura Youji-hen | 327587 | [327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json](./327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json) |
