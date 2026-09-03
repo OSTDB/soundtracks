@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linked Mask | 120386 | [120386-linked-mask.json](./120386-linked-mask.json) |
 | Links E6: Course Pack 1 | 153464 | [153464-links-e6-course-pack-1.json](./153464-links-e6-course-pack-1.json) |
 | Links E6: Course Pack 3 | 153465 | [153465-links-e6-course-pack-3.json](./153465-links-e6-course-pack-3.json) |
+| Links: Championship Course - Troon North | 73319 | [73319-links-championship-course-troon-north.json](./73319-links-championship-course-troon-north.json) |
 | Linxicon | 319984 | [319984-linxicon.json](./319984-linxicon.json) |
 | Lioden | 178067 | [178067-lioden.json](./178067-lioden.json) |
 | Lion Pig: Frozen Run | 259238 | [259238-lion-pig-frozen-run.json](./259238-lion-pig-frozen-run.json) |
