@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Target Practice | 167303 | [167303-target-practice.json](./167303-target-practice.json) |
 | Taro | 126637 | [126637-taro.json](./126637-taro.json) |
 | Task Force 88: Hostile Contact | 179209 | [179209-task-force-88-hostile-contact.json](./179209-task-force-88-hostile-contact.json) |
+| Task III | 55150 | [55150-task-iii.json](./55150-task-iii.json) |
 | Tasogare | 313493 | [313493-tasogare.json](./313493-tasogare.json) |
 | Tasty Love | 192453 | [192453-tasty-love.json](./192453-tasty-love.json) |
 | Tasty Ramen | 176503 | [176503-tasty-ramen.json](./176503-tasty-ramen.json) |
@@ -1324,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Source of the Nightmare Storms | 126625 | [126625-the-source-of-the-nightmare-storms.json](./126625-the-source-of-the-nightmare-storms.json) |
 | The South Island | 304381 | [304381-the-south-island.json](./304381-the-south-island.json) |
 | The Spirit's Turnabout | 308532 | [308532-the-spirits-turnabout.json](./308532-the-spirits-turnabout.json) |
+| The Sporting News Baseball | 55154 | [55154-the-sporting-news-baseball.json](./55154-the-sporting-news-baseball.json) |
 | The Sports Daishuugou | 123043 | [123043-the-sports-daishuugou.json](./123043-the-sports-daishuugou.json) |
 | The Square Game | 130377 | [130377-the-square-game.json](./130377-the-square-game.json) |
 | The Stadium Project | 62177 | [62177-the-stadium-project.json](./62177-the-stadium-project.json) |
@@ -1454,6 +1456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vomit | 323535 | [323535-the-vomit.json](./323535-the-vomit.json) |
 | The VR Canyon | 126660 | [126660-the-vr-canyon.json](./126660-the-vr-canyon.json) |
 | The Walking Dead: Last Mile | 209152 | [209152-the-walking-dead-last-mile.json](./209152-the-walking-dead-last-mile.json) |
+| The Walking Dead: Our World | 55177 | [55177-the-walking-dead-our-world.json](./55177-the-walking-dead-our-world.json) |
 | The Wall | 200750 | [200750-the-wall.json](./200750-the-wall.json) |
 | The Wanted Man's House | 313485 | [313485-the-wanted-mans-house.json](./313485-the-wanted-mans-house.json) |
 | The War Zone Crisis | 339122 | [339122-the-war-zone-crisis.json](./339122-the-war-zone-crisis.json) |
@@ -1591,10 +1594,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThrustMe Too | 333373 | [333373-thrustme-too.json](./333373-thrustme-too.json) |
 | Thukothea Defender | 159855 | [159855-thukothea-defender.json](./159855-thukothea-defender.json) |
 | Thumb Drift | 58840 | [58840-thumb-drift.json](./58840-thumb-drift.json) |
+| Thunder Boy | 55186 | [55186-thunder-boy.json](./55186-thunder-boy.json) |
 | Thunder Jumper | 268219 | [268219-thunder-jumper.json](./268219-thunder-jumper.json) |
 | Thunder League | 59407 | [59407-thunder-league.json](./59407-thunder-league.json) |
 | Thunder Roar | 218121 | [218121-thunder-roar.json](./218121-thunder-roar.json) |
 | Thunderblade Saga | 277589 | [277589-thunderblade-saga.json](./277589-thunderblade-saga.json) |
+| Thundercross | 55201 | [55201-thundercross.json](./55201-thundercross.json) |
 | Thunderwing | 74427 | [74427-thunderwing.json](./74427-thunderwing.json) |
 | Thundra - Alien Wackiness from the future | 132811 | [132811-thundra-alien-wackiness-from-the-future.json](./132811-thundra-alien-wackiness-from-the-future.json) |
 | Thurgood P. Marshall and the Quest for Ontological Theory Advancement | 128639 | [128639-thurgood-p-marshall-and-the-quest-for-ontological-theory-advancement.json](./128639-thurgood-p-marshall-and-the-quest-for-ontological-theory-advancement.json) |
@@ -1944,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon: Wildlands - Ultimate Edition | 119071 | [119071-tom-clancys-ghost-recon-wildlands-ultimate-edition.json](./119071-tom-clancys-ghost-recon-wildlands-ultimate-edition.json) |
 | Tom Clancy's H.A.W.X | 264874 | [264874-tom-clancys-h-a-w-x.json](./264874-tom-clancys-h-a-w-x.json) |
 | Tom Clancy's H.A.W.X 2 | 341328 | [341328-tom-clancys-h-a-w-x-2.json](./341328-tom-clancys-h-a-w-x-2.json) |
+| Tom Clancy's Rainbow Six Siege: Operation Blood Orchid | 55167 | [55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json](./55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Brutal Swarm | 217522 | [217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json](./217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Neon Dawn | 141194 | [141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json](./141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Vector Glare | 217521 | [217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json](./217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json) |
