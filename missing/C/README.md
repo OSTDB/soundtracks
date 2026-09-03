@@ -1042,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Break | 80556 | [80556-cosmic-break.json](./80556-cosmic-break.json) |
 | Cosmic Challenge Racing | 196336 | [196336-cosmic-challenge-racing.json](./196336-cosmic-challenge-racing.json) |
 | Cosmic Collapse | 275327 | [275327-cosmic-collapse.json](./275327-cosmic-collapse.json) |
+| Cosmic Consensus | 68045 | [68045-cosmic-consensus.json](./68045-cosmic-consensus.json) |
 | Cosmic Cruiser | 210871 | [210871-cosmic-cruiser.json](./210871-cosmic-cruiser.json) |
 | Cosmic Fantasy Collection | 269306 | [269306-cosmic-fantasy-collection.json](./269306-cosmic-fantasy-collection.json) |
 | Cosmic Monsters 2 Enclaves Dawn | 195264 | [195264-cosmic-monsters-2-enclaves-dawn.json](./195264-cosmic-monsters-2-enclaves-dawn.json) |
@@ -1288,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CryptoClickers | 218162 | [218162-cryptoclickers.json](./218162-cryptoclickers.json) |
 | Crypts of Death | 115658 | [115658-crypts-of-death.json](./115658-crypts-of-death.json) |
 | Crystal Confines | 69319 | [69319-crystal-confines.json](./69319-crystal-confines.json) |
+| Crystal Fantasy | 68033 | [68033-crystal-fantasy.json](./68033-crystal-fantasy.json) |
 | Crystal Gal Mahjong | 123070 | [123070-crystal-gal-mahjong.json](./123070-crystal-gal-mahjong.json) |
 | Crystal Gal Mahjong II | 123071 | [123071-crystal-gal-mahjong-ii.json](./123071-crystal-gal-mahjong-ii.json) |
 | Crystal Guardian | 296668 | [296668-crystal-guardian.json](./296668-crystal-guardian.json) |
@@ -1423,6 +1425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyanide & Happiness: Freakpocalypse - Episode 1 | 147983 | [147983-cyanide-and-happiness-freakpocalypse-episode-1.json](./147983-cyanide-and-happiness-freakpocalypse-episode-1.json) |
 | Cyber Attack | 157205 | [157205-cyber-attack.json](./157205-cyber-attack.json) |
 | Cyber Battle 69 | 131608 | [131608-cyber-battle-69.json](./131608-cyber-battle-69.json) |
+| Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
 | Cyber Strike | 194001 | [194001-cyber-strike.json](./194001-cyber-strike.json) |
 | Cyber Theater | 218153 | [218153-cyber-theater.json](./218153-cyber-theater.json) |
 | Cyber Tower | 267098 | [267098-cyber-tower.json](./267098-cyber-tower.json) |
