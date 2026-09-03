@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.U.D. Rally | 233244 | [233244-m-u-d-rally.json](./233244-m-u-d-rally.json) |
 | M.V.P. | 197957 | [197957-m-v-p.json](./197957-m-v-p.json) |
 | M3 - Molesting the Match-3 Market | 94232 | [94232-m3-molesting-the-match-3-market.json](./94232-m3-molesting-the-match-3-market.json) |
+| M3 Sono Kuroki Hagane: Mission Memento Mori | 61663 | [61663-m3-sono-kuroki-hagane-mission-memento-mori.json](./61663-m3-sono-kuroki-hagane-mission-memento-mori.json) |
 | MAAA | 112978 | [112978-maaa.json](./112978-maaa.json) |
 | Mabeop Cheonjamun DS | 124789 | [124789-mabeop-cheonjamun-ds.json](./124789-mabeop-cheonjamun-ds.json) |
 | Mabeop Cheonjamun DS 2: The Final Hanja Magic | 124788 | [124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json](./124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json) |
@@ -188,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makoto Mobius | 150152 | [150152-makoto-mobius.json](./150152-makoto-mobius.json) |
 | Makoto Wakaido's Case Files: Executioner's Wedge | 245045 | [245045-makoto-wakaidos-case-files-executioners-wedge.json](./245045-makoto-wakaidos-case-files-executioners-wedge.json) |
 | Maldrin Journey | 123037 | [123037-maldrin-journey.json](./123037-maldrin-journey.json) |
+| Maleficent Free Fall | 61680 | [61680-maleficent-free-fall.json](./61680-maleficent-free-fall.json) |
 | Malfortune | 105382 | [105382-malfortune.json](./105382-malfortune.json) |
 | Malice | 208608 | [208608-malice.json](./208608-malice.json) |
 | MaliceWave | 274768 | [274768-malicewave.json](./274768-malicewave.json) |
@@ -333,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martin Wort's Special Report | 112310 | [112310-martin-worts-special-report.json](./112310-martin-worts-special-report.json) |
 | Marty McFart | 183589 | [183589-marty-mcfart.json](./183589-marty-mcfart.json) |
 | Maru and her make-believe world | 166747 | [166747-maru-and-her-make-believe-world.json](./166747-maru-and-her-make-believe-world.json) |
+| Marvel Disk Wars: Avengers - Ultimate Heroes | 61656 | [61656-marvel-disk-wars-avengers-ultimate-heroes.json](./61656-marvel-disk-wars-avengers-ultimate-heroes.json) |
 | Marvel End Time Arena | 89254 | [89254-marvel-end-time-arena.json](./89254-marvel-end-time-arena.json) |
 | Marvel First Alliance | 300380 | [300380-marvel-first-alliance.json](./300380-marvel-first-alliance.json) |
 | Marvel Mystic Mayhem | 319970 | [319970-marvel-mystic-mayhem.json](./319970-marvel-mystic-mayhem.json) |
@@ -982,8 +985,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Senjo No Kazuna | 69294 | [69294-mobile-suit-gundam-senjo-no-kazuna.json](./69294-mobile-suit-gundam-senjo-no-kazuna.json) |
 | Mobius | 104646 | [104646-mobius.json](./104646-mobius.json) |
 | Mobula | 311790 | [311790-mobula.json](./311790-mobula.json) |
+| Mocap Boxing | 61667 | [61667-mocap-boxing.json](./61667-mocap-boxing.json) |
 | Mochi Word Puzzles | 100881 | [100881-mochi-word-puzzles.json](./100881-mochi-word-puzzles.json) |
 | Mod Mage Mike | 310743 | [310743-mod-mage-mike.json](./310743-mod-mage-mike.json) |
+| Mode | 61659 | [61659-mode.json](./61659-mode.json) |
 | Model 3 Test Drive | 96057 | [96057-model-3-test-drive.json](./96057-model-3-test-drive.json) |
 | Model Builder: Alaskan Road Truckers | 277586 | [277586-model-builder-alaskan-road-truckers.json](./277586-model-builder-alaskan-road-truckers.json) |
 | Model Employee | 274732 | [274732-model-employee.json](./274732-model-employee.json) |
