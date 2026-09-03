@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentience | 143695 | [143695-sentience.json](./143695-sentience.json) |
 | Sentimental Graffiti | 124264 | [124264-sentimental-graffiti.json](./124264-sentimental-graffiti.json) |
 | Sentinel Point Heroes | 226441 | [226441-sentinel-point-heroes.json](./226441-sentinel-point-heroes.json) |
+| Sentinel Worlds I: Future Magic | 55155 | [55155-sentinel-worlds-i-future-magic.json](./55155-sentinel-worlds-i-future-magic.json) |
 | Sentinels of Earth-Prime: Magical Mysteries Mini-Pack | 273672 | [273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json](./273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json) |
 | Sentry | 218164 | [218164-sentry.json](./218164-sentry.json) |
 | Sentry: Obelisk of Dawn | 152898 | [152898-sentry-obelisk-of-dawn.json](./152898-sentry-obelisk-of-dawn.json) |
@@ -980,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaveblade | 121774 | [121774-slaveblade.json](./121774-slaveblade.json) |
 | Slavic Gods Rodnoverie | 298304 | [298304-slavic-gods-rodnoverie.json](./298304-slavic-gods-rodnoverie.json) |
 | Slay the Wak | 231097 | [231097-slay-the-wak.json](./231097-slay-the-wak.json) |
+| Slaygon | 55148 | [55148-slaygon.json](./55148-slaygon.json) |
 | Slayin 2 | 134021 | [134021-slayin-2.json](./134021-slayin-2.json) |
 | Slayser | 238760 | [238760-slayser.json](./238760-slayser.json) |
 | Sled Riders | 301003 | [301003-sled-riders.json](./301003-sled-riders.json) |
@@ -1642,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin or Die | 311247 | [311247-spin-or-die.json](./311247-spin-or-die.json) |
 | Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
 | SpinZap | 133469 | [133469-spinzap.json](./133469-spinzap.json) |
+| Spinzer.io | 55164 | [55164-spinzer-io.json](./55164-spinzer-io.json) |
 | Spire Horizon | 257687 | [257687-spire-horizon.json](./257687-spire-horizon.json) |
 | Spire Horizon Online | 304871 | [304871-spire-horizon-online.json](./304871-spire-horizon-online.json) |
 | Spirit Cleaning | 151717 | [151717-spirit-cleaning.json](./151717-spirit-cleaning.json) |
@@ -2072,6 +2075,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Outlaws 2: Winner Takes All - Digital Deluxe Edition | 173797 | [173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json](./173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json) |
 | Street Racing Xtreme ( 3D Car Race Games ) | 105935 | [105935-street-racing-xtreme-3d-car-race-games.json](./105935-street-racing-xtreme-3d-car-race-games.json) |
 | Street Shuffle | 134659 | [134659-street-shuffle.json](./134659-street-shuffle.json) |
+| Street Sports Football | 55153 | [55153-street-sports-football.json](./55153-street-sports-football.json) |
+| Street Sports Soccer | 55152 | [55152-street-sports-soccer.json](./55152-street-sports-soccer.json) |
 | Street Tennis, the Next Generation Champions | 57668 | [57668-street-tennis-the-next-generation-champions.json](./57668-street-tennis-the-next-generation-champions.json) |
 | Streets of Gotham City | 272015 | [272015-streets-of-gotham-city.json](./272015-streets-of-gotham-city.json) |
 | Streets of Red: Devil's Dare | 126045 | [126045-streets-of-red-devils-dare.json](./126045-streets-of-red-devils-dare.json) |
@@ -2121,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submarine War | 154007 | [154007-submarine-war.json](./154007-submarine-war.json) |
 | Suborbital | 260386 | [260386-suborbital.json](./260386-suborbital.json) |
 | Subsuelo | 272035 | [272035-subsuelo.json](./272035-subsuelo.json) |
+| Subterranea | 55205 | [55205-subterranea.json](./55205-subterranea.json) |
 | Subterranean Siege | 271495 | [271495-subterranean-siege.json](./271495-subterranean-siege.json) |
 | Suburban Commando | 73811 | [73811-suburban-commando.json](./73811-suburban-commando.json) |
 | Subway Adventure | 135861 | [135861-subway-adventure.json](./135861-subway-adventure.json) |
