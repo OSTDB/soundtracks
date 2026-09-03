@@ -185,6 +185,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Plus | 100209 | [100209-elite-plus.json](./100209-elite-plus.json) |
 | Ellada Games RPG Bundle | 187500 | [187500-ellada-games-rpg-bundle.json](./187500-ellada-games-rpg-bundle.json) |
 | Ellie & Max | 175426 | [175426-ellie-and-max.json](./175426-ellie-and-max.json) |
+| Elmo's Deep Sea Adventure | 71511 | [71511-elmos-deep-sea-adventure.json](./71511-elmos-deep-sea-adventure.json) |
+| Elmo's Deep Sea Adventure | 71513 | [71513-elmos-deep-sea-adventure.json](./71513-elmos-deep-sea-adventure.json) |
 | Elon on Mars | 120997 | [120997-elon-on-mars.json](./120997-elon-on-mars.json) |
 | Elon vs AI | 258709 | [258709-elon-vs-ai.json](./258709-elon-vs-ai.json) |
 | Elona Mobile | 194018 | [194018-elona-mobile.json](./194018-elona-mobile.json) |
@@ -405,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eureka | 298318 | [298318-eureka.json](./298318-eureka.json) |
 | Euro Truck Simulator 2: DAF XD | 277585 | [277585-euro-truck-simulator-2-daf-xd.json](./277585-euro-truck-simulator-2-daf-xd.json) |
 | Euro Truck Simulator 2: Heart of Russia | 165013 | [165013-euro-truck-simulator-2-heart-of-russia.json](./165013-euro-truck-simulator-2-heart-of-russia.json) |
+| Euro-Man | 71554 | [71554-euro-man.json](./71554-euro-man.json) |
 | Europa Barbarorum | 137059 | [137059-europa-barbarorum.json](./137059-europa-barbarorum.json) |
 | Europa Universalis IV: Lions of the North | 215925 | [215925-europa-universalis-iv-lions-of-the-north.json](./215925-europa-universalis-iv-lions-of-the-north.json) |
 | Europa Universalis IV: National Monuments II | 169976 | [169976-europa-universalis-iv-national-monuments-ii.json](./169976-europa-universalis-iv-national-monuments-ii.json) |
