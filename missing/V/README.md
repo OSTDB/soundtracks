@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Videophobia | 327615 | [327615-videophobia.json](./327615-videophobia.json) |
 | Videoverse | 213618 | [213618-videoverse.json](./213618-videoverse.json) |
 | Vietnam War Platoon | 214746 | [214746-vietnam-war-platoon.json](./214746-vietnam-war-platoon.json) |
+| Vietnam: Black Ops | 78703 | [78703-vietnam-black-ops.json](./78703-vietnam-black-ops.json) |
 | Viewpoint 2064 | 225296 | [225296-viewpoint-2064.json](./225296-viewpoint-2064.json) |
 | ViewSelect the Game | 140588 | [140588-viewselect-the-game.json](./140588-viewselect-the-game.json) |
 | Vigaro Runner 2: Return | 338569 | [338569-vigaro-runner-2-return.json](./338569-vigaro-runner-2-return.json) |
