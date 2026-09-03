@@ -877,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Image | 322352 | [322352-mirror-image.json](./322352-mirror-image.json) |
 | Mirror Land | 91986 | [91986-mirror-land.json](./91986-mirror-land.json) |
 | Mirror Shoot | 193478 | [193478-mirror-shoot.json](./193478-mirror-shoot.json) |
+| Mirror's Edge 2D | 77347 | [77347-mirrors-edge-2d.json](./77347-mirrors-edge-2d.json) |
 | Misadventure In Little Lon | 125425 | [125425-misadventure-in-little-lon.json](./125425-misadventure-in-little-lon.json) |
 | Misadventures of Laura Silver - Chapter II | 121771 | [121771-misadventures-of-laura-silver-chapter-ii.json](./121771-misadventures-of-laura-silver-chapter-ii.json) |
 | Miscrits: Volcano Island | 98465 | [98465-miscrits-volcano-island.json](./98465-miscrits-volcano-island.json) |
@@ -916,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mitsume ga Tooru | 202919 | [202919-mitsume-ga-tooru.json](./202919-mitsume-ga-tooru.json) |
 | Mítú | 156684 | [156684-mitu.json](./156684-mitu.json) |
 | Mixed Unit Tactics | 252983 | [252983-mixed-unit-tactics.json](./252983-mixed-unit-tactics.json) |
+| MixMaster Online | 77363 | [77363-mixmaster-online.json](./77363-mixmaster-online.json) |
 | Mixx Island: Remix Vol. 2 | 186316 | [186316-mixx-island-remix-vol-2.json](./186316-mixx-island-remix-vol-2.json) |
 | MJ | 130945 | [130945-mj.json](./130945-mj.json) |
 | MLB Home Run Derby 18 | 96055 | [96055-mlb-home-run-derby-18.json](./96055-mlb-home-run-derby-18.json) |
@@ -977,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Jigsaw: Witch's Garden vol.2 Pack | 162917 | [162917-moe-jigsaw-witchs-garden-vol-2-pack.json](./162917-moe-jigsaw-witchs-garden-vol-2-pack.json) |
 | Moe Moe World War II-3 | 120374 | [120374-moe-moe-world-war-ii-3.json](./120374-moe-moe-world-war-ii-3.json) |
 | Moe Waifu H: Push-Box | 337988 | [337988-moe-waifu-h-push-box.json](./337988-moe-waifu-h-push-box.json) |
+| Moeboid | 77352 | [77352-moeboid.json](./77352-moeboid.json) |
 | Moemon Bonds | 336897 | [336897-moemon-bonds.json](./336897-moemon-bonds.json) |
 | Moero Chronicle Hyper | 114421 | [114421-moero-chronicle-hyper.json](./114421-moero-chronicle-hyper.json) |
 | Moero Chronicle: Deluxe Edition | 186878 | [186878-moero-chronicle-deluxe-edition.json](./186878-moero-chronicle-deluxe-edition.json) |
@@ -1250,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Tomato Adventures | 341342 | [341342-mr-tomato-adventures.json](./341342-mr-tomato-adventures.json) |
 | Mr White | 262073 | [262073-mr-white.json](./262073-mr-white.json) |
 | Mr. and Mrs. Potato Head Go on Vacation | 209156 | [209156-mr-and-mrs-potato-head-go-on-vacation.json](./209156-mr-and-mrs-potato-head-go-on-vacation.json) |
+| Mr. Angry | 77380 | [77380-mr-angry.json](./77380-mr-angry.json) |
 | Mr. Bill | 92544 | [92544-mr-bill.json](./92544-mr-bill.json) |
 | Mr. Fishbones | 185118 | [185118-mr-fishbones.json](./185118-mr-fishbones.json) |
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
