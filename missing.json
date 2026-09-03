@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T03:47:56.502Z",
-  "total_missing": 21499,
+  "generated_at": "2026-09-03T04:02:50.137Z",
+  "total_missing": 21549,
   "games": [
     {
       "igdb_id": 306086,
@@ -2158,6 +2158,11 @@
       "file": "missing/A/99614-a-s-h.json"
     },
     {
+      "igdb_id": 84864,
+      "game_name": "Aahh! Spot the Difference",
+      "file": "missing/A/84864-aahh-spot-the-difference.json"
+    },
+    {
       "igdb_id": 309102,
       "game_name": "Aard and Wyzz: The rise of minions",
       "file": "missing/A/309102-aard-and-wyzz-the-rise-of-minions.json"
@@ -2328,6 +2333,11 @@
       "file": "missing/A/337440-absinthe.json"
     },
     {
+      "igdb_id": 84863,
+      "game_name": "Absolute Baseball",
+      "file": "missing/A/84863-absolute-baseball.json"
+    },
+    {
       "igdb_id": 209687,
       "game_name": "Absolute Deduction Bundle",
       "file": "missing/A/209687-absolute-deduction-bundle.json"
@@ -2336,6 +2346,11 @@
       "igdb_id": 119004,
       "game_name": "Absolute Fall",
       "file": "missing/A/119004-absolute-fall.json"
+    },
+    {
+      "igdb_id": 84862,
+      "game_name": "Absolute Reversi",
+      "file": "missing/A/84862-absolute-reversi.json"
     },
     {
       "igdb_id": 104064,
@@ -2351,6 +2366,11 @@
       "igdb_id": 257098,
       "game_name": "Absolutely Perfect Specimen",
       "file": "missing/A/257098-absolutely-perfect-specimen.json"
+    },
+    {
+      "igdb_id": 84861,
+      "game_name": "Absolutely Unstoppable MineRun",
+      "file": "missing/A/84861-absolutely-unstoppable-minerun.json"
     },
     {
       "igdb_id": 150694,
@@ -2813,9 +2833,19 @@
       "file": "missing/A/314076-adventure-in-wachirawit-world.json"
     },
     {
+      "igdb_id": 84867,
+      "game_name": "Adventure Labyrinth Story",
+      "file": "missing/A/84867-adventure-labyrinth-story.json"
+    },
+    {
       "igdb_id": 301597,
       "game_name": "Adventure Of Baldero I and II",
       "file": "missing/A/301597-adventure-of-baldero-i-and-ii.json"
+    },
+    {
+      "igdb_id": 84866,
+      "game_name": "Adventure Party: Cats and Caverns",
+      "file": "missing/A/84866-adventure-party-cats-and-caverns.json"
     },
     {
       "igdb_id": 102207,
@@ -3116,6 +3146,11 @@
       "igdb_id": 211420,
       "game_name": "Aftertime",
       "file": "missing/A/211420-aftertime.json"
+    },
+    {
+      "igdb_id": 84884,
+      "game_name": "AfterZoom",
+      "file": "missing/A/84884-afterzoom.json"
     },
     {
       "igdb_id": 117713,
@@ -3566,6 +3601,11 @@
       "igdb_id": 240479,
       "game_name": "Akanesasu Sekai de Kimi to Utau",
       "file": "missing/A/240479-akanesasu-sekai-de-kimi-to-utau.json"
+    },
+    {
+      "igdb_id": 84869,
+      "game_name": "Akari by Nikoli",
+      "file": "missing/A/84869-akari-by-nikoli.json"
     },
     {
       "igdb_id": 229379,
@@ -4796,6 +4836,11 @@
       "igdb_id": 277014,
       "game_name": "Ancient Stars",
       "file": "missing/A/277014-ancient-stars.json"
+    },
+    {
+      "igdb_id": 84886,
+      "game_name": "Ancient Tribe",
+      "file": "missing/A/84886-ancient-tribe.json"
     },
     {
       "igdb_id": 113695,
@@ -36201,6 +36246,11 @@
       "igdb_id": 326415,
       "game_name": "Goal Poacher VR: Football Header Simulator",
       "file": "missing/G/326415-goal-poacher-vr-football-header-simulator.json"
+    },
+    {
+      "igdb_id": 84873,
+      "game_name": "Goat Runner",
+      "file": "missing/G/84873-goat-runner.json"
     },
     {
       "igdb_id": 234308,
@@ -72288,6 +72338,11 @@
       "file": "missing/R/194628-real-hentai-situation-2.json"
     },
     {
+      "igdb_id": 84911,
+      "game_name": "Real Heroes Firefighter 3D",
+      "file": "missing/R/84911-real-heroes-firefighter-3d.json"
+    },
+    {
       "igdb_id": 313508,
       "game_name": "Real Life Day: Threesome",
       "file": "missing/R/313508-real-life-day-threesome.json"
@@ -76128,6 +76183,11 @@
       "file": "missing/R/310217-ruzar-the-dark-stones.json"
     },
     {
+      "igdb_id": 84909,
+      "game_name": "RV-7 My Drone",
+      "file": "missing/R/84909-rv-7-my-drone.json"
+    },
+    {
       "igdb_id": 131602,
       "game_name": "Ryan's Pack",
       "file": "missing/R/131602-ryans-pack.json"
@@ -76156,6 +76216,21 @@
       "igdb_id": 112331,
       "game_name": "Rythm",
       "file": "missing/R/112331-rythm.json"
+    },
+    {
+      "igdb_id": 84908,
+      "game_name": "Rytmik Retrobits",
+      "file": "missing/R/84908-rytmik-retrobits.json"
+    },
+    {
+      "igdb_id": 84906,
+      "game_name": "Rytmik World Music",
+      "file": "missing/R/84906-rytmik-world-music.json"
+    },
+    {
+      "igdb_id": 84905,
+      "game_name": "Rytmik: Rock Edition",
+      "file": "missing/R/84905-rytmik-rock-edition.json"
     },
     {
       "igdb_id": 158197,
@@ -76281,6 +76356,11 @@
       "igdb_id": 319952,
       "game_name": "Safari Puzzle Match",
       "file": "missing/S/319952-safari-puzzle-match.json"
+    },
+    {
+      "igdb_id": 84904,
+      "game_name": "Safari Quest",
+      "file": "missing/S/84904-safari-quest.json"
     },
     {
       "igdb_id": 175941,
@@ -76571,6 +76651,11 @@
       "igdb_id": 149571,
       "game_name": "Samurai Chess",
       "file": "missing/S/149571-samurai-chess.json"
+    },
+    {
+      "igdb_id": 84903,
+      "game_name": "Samurai Defender",
+      "file": "missing/S/84903-samurai-defender.json"
     },
     {
       "igdb_id": 108475,
@@ -77458,6 +77543,16 @@
       "file": "missing/S/205271-sd-gundam-battle-alliance-limited-edition.json"
     },
     {
+      "igdb_id": 84860,
+      "game_name": "SDK Paint",
+      "file": "missing/S/84860-sdk-paint.json"
+    },
+    {
+      "igdb_id": 84859,
+      "game_name": "SDK Spriter",
+      "file": "missing/S/84859-sdk-spriter.json"
+    },
+    {
       "igdb_id": 168904,
       "game_name": "SDST: Deluxe",
       "file": "missing/S/168904-sdst-deluxe.json"
@@ -77613,6 +77708,11 @@
       "file": "missing/S/129225-secret-admirer.json"
     },
     {
+      "igdb_id": 84858,
+      "game_name": "Secret Agent Files: Miami",
+      "file": "missing/S/84858-secret-agent-files-miami.json"
+    },
+    {
       "igdb_id": 331662,
       "game_name": "Secret Agent Puzzle",
       "file": "missing/S/331662-secret-agent-puzzle.json"
@@ -77658,9 +77758,29 @@
       "file": "missing/S/129214-secret-city-chalk-of-fate-collectors-edition.json"
     },
     {
+      "igdb_id": 84857,
+      "game_name": "Secret Empires of the Ancient World",
+      "file": "missing/S/84857-secret-empires-of-the-ancient-world.json"
+    },
+    {
+      "igdb_id": 84901,
+      "game_name": "Secret Journeys: Cities of the World",
+      "file": "missing/S/84901-secret-journeys-cities-of-the-world.json"
+    },
+    {
       "igdb_id": 134076,
       "game_name": "Secret Maryo Chronicles",
       "file": "missing/S/134076-secret-maryo-chronicles.json"
+    },
+    {
+      "igdb_id": 84900,
+      "game_name": "Secret Mysteries in London",
+      "file": "missing/S/84900-secret-mysteries-in-london.json"
+    },
+    {
+      "igdb_id": 84899,
+      "game_name": "Secret Mysteries in New York",
+      "file": "missing/S/84899-secret-mysteries-in-new-york.json"
     },
     {
       "igdb_id": 307331,
@@ -78533,9 +78653,19 @@
       "file": "missing/S/128644-shanghai-double-pack.json"
     },
     {
+      "igdb_id": 84855,
+      "game_name": "Shanghai DS",
+      "file": "missing/S/84855-shanghai-ds.json"
+    },
+    {
       "igdb_id": 297216,
       "game_name": "Shanghai Gold",
       "file": "missing/S/297216-shanghai-gold.json"
+    },
+    {
+      "igdb_id": 84853,
+      "game_name": "Shanghai Wii",
+      "file": "missing/S/84853-shanghai-wii.json"
     },
     {
       "igdb_id": 169452,
@@ -78581,6 +78711,11 @@
       "igdb_id": 108479,
       "game_name": "Shapes on the Run",
       "file": "missing/S/108479-shapes-on-the-run.json"
+    },
+    {
+      "igdb_id": 84898,
+      "game_name": "Shapo",
+      "file": "missing/S/84898-shapo.json"
     },
     {
       "igdb_id": 94736,
@@ -79113,6 +79248,11 @@
       "file": "missing/S/202949-shoot-shoot-nitori-the-golden.json"
     },
     {
+      "igdb_id": 84872,
+      "game_name": "Shoot the Ball",
+      "file": "missing/S/84872-shoot-the-ball.json"
+    },
+    {
       "igdb_id": 214194,
       "game_name": "Shoot the Buuuuuuugs",
       "file": "missing/S/214194-shoot-the-buuuuuuugs.json"
@@ -79161,6 +79301,11 @@
       "igdb_id": 123619,
       "game_name": "Shooting Beena Toy Story 3: Woody to Buzz no Daibouken!",
       "file": "missing/S/123619-shooting-beena-toy-story-3-woody-to-buzz-no-daibouken.json"
+    },
+    {
+      "igdb_id": 84871,
+      "game_name": "Shooting Range by Thornbury Software",
+      "file": "missing/S/84871-shooting-range-by-thornbury-software.json"
     },
     {
       "igdb_id": 245053,
@@ -80373,6 +80518,11 @@
       "file": "missing/S/301003-sled-riders.json"
     },
     {
+      "igdb_id": 84883,
+      "game_name": "Sleep Clock: Record and Analyse Your Sleep Patterns",
+      "file": "missing/S/84883-sleep-clock-record-and-analyse-your-sleep-patterns.json"
+    },
+    {
       "igdb_id": 196876,
       "game_name": "Sleep Paralysis: The Uncanny Valley",
       "file": "missing/S/196876-sleep-paralysis-the-uncanny-valley.json"
@@ -80733,6 +80883,16 @@
       "file": "missing/S/275898-smash-balls.json"
     },
     {
+      "igdb_id": 84881,
+      "game_name": "Smash Bowling 3D",
+      "file": "missing/S/84881-smash-bowling-3d.json"
+    },
+    {
+      "igdb_id": 84882,
+      "game_name": "Smash Cat Heroes",
+      "file": "missing/S/84882-smash-cat-heroes.json"
+    },
+    {
       "igdb_id": 151744,
       "game_name": "Smash Crabs",
       "file": "missing/S/151744-smash-crabs.json"
@@ -80746,6 +80906,11 @@
       "igdb_id": 167287,
       "game_name": "Smash Reversi",
       "file": "missing/S/167287-smash-reversi.json"
+    },
+    {
+      "igdb_id": 84880,
+      "game_name": "Smash Table Tennis",
+      "file": "missing/S/84880-smash-table-tennis.json"
     },
     {
       "igdb_id": 172147,
@@ -80858,6 +81023,11 @@
       "file": "missing/S/213638-snail-bob-3-egypt-journey.json"
     },
     {
+      "igdb_id": 84877,
+      "game_name": "Snail Mail",
+      "file": "missing/S/84877-snail-mail.json"
+    },
+    {
       "igdb_id": 193500,
       "game_name": "Snail Story: Love Edition",
       "file": "missing/S/193500-snail-story-love-edition.json"
@@ -80881,6 +81051,11 @@
       "igdb_id": 106569,
       "game_name": "Snake Bricks-Bounce Balls",
       "file": "missing/S/106569-snake-bricks-bounce-balls.json"
+    },
+    {
+      "igdb_id": 84876,
+      "game_name": "Snake Den",
+      "file": "missing/S/84876-snake-den.json"
     },
     {
       "igdb_id": 209685,
@@ -80916,6 +81091,16 @@
       "igdb_id": 104674,
       "game_name": "SnakeLogic",
       "file": "missing/S/104674-snakelogic.json"
+    },
+    {
+      "igdb_id": 84875,
+      "game_name": "Snakenoid",
+      "file": "missing/S/84875-snakenoid.json"
+    },
+    {
+      "igdb_id": 84874,
+      "game_name": "Snakenoid Deluxe",
+      "file": "missing/S/84874-snakenoid-deluxe.json"
     },
     {
       "igdb_id": 147984,
@@ -82763,6 +82948,11 @@
       "file": "missing/S/156675-space-hole-2020.json"
     },
     {
+      "igdb_id": 84892,
+      "game_name": "Space Hunted",
+      "file": "missing/S/84892-space-hunted.json"
+    },
+    {
       "igdb_id": 335076,
       "game_name": "Space KaBaam: Neon",
       "file": "missing/S/335076-space-kabaam-neon.json"
@@ -83303,6 +83493,11 @@
       "file": "missing/S/118387-spherecraft.json"
     },
     {
+      "igdb_id": 84890,
+      "game_name": "SphereZor",
+      "file": "missing/S/84890-spherezor.json"
+    },
+    {
       "igdb_id": 263745,
       "game_name": "Spider Bounce",
       "file": "missing/S/263745-spider-bounce.json"
@@ -83383,6 +83578,11 @@
       "file": "missing/S/151717-spirit-cleaning.json"
     },
     {
+      "igdb_id": 84895,
+      "game_name": "Spirit Hunters Inc. Shadow/Light",
+      "file": "missing/S/84895-spirit-hunters-inc-shadow-light.json"
+    },
+    {
       "igdb_id": 322997,
       "game_name": "Spirit Level",
       "file": "missing/S/322997-spirit-level.json"
@@ -83461,6 +83661,11 @@
       "igdb_id": 214176,
       "game_name": "Splash Ship",
       "file": "missing/S/214176-splash-ship.json"
+    },
+    {
+      "igdb_id": 84893,
+      "game_name": "Splashy Duck",
+      "file": "missing/S/84893-splashy-duck.json"
     },
     {
       "igdb_id": 172174,
@@ -83621,6 +83826,11 @@
       "igdb_id": 324123,
       "game_name": "Spot The Difference: Classic Finding Puzzle",
       "file": "missing/S/324123-spot-the-difference-classic-finding-puzzle.json"
+    },
+    {
+      "igdb_id": 84897,
+      "game_name": "Spot the Differences: Party!",
+      "file": "missing/S/84897-spot-the-differences-party.json"
     },
     {
       "igdb_id": 149563,
@@ -83846,6 +84056,11 @@
       "igdb_id": 326954,
       "game_name": "SRB2 Heroes",
       "file": "missing/S/326954-srb2-heroes.json"
+    },
+    {
+      "igdb_id": 84896,
+      "game_name": "Sssnakes",
+      "file": "missing/S/84896-sssnakes.json"
     },
     {
       "igdb_id": 269857,
@@ -84743,6 +84958,11 @@
       "file": "missing/S/317018-stellifier.json"
     },
     {
+      "igdb_id": 84902,
+      "game_name": "Step Up!",
+      "file": "missing/S/84902-step-up.json"
+    },
+    {
       "igdb_id": 192425,
       "game_name": "StereoPaint",
       "file": "missing/S/192425-stereopaint.json"
@@ -85623,6 +85843,11 @@
       "file": "missing/S/119771-sudoku-9x16x25.json"
     },
     {
+      "igdb_id": 84913,
+      "game_name": "Sudoku and Permudoku",
+      "file": "missing/S/84913-sudoku-and-permudoku.json"
+    },
+    {
       "igdb_id": 219280,
       "game_name": "Sudoku Casual Puzzle",
       "file": "missing/S/219280-sudoku-casual-puzzle.json"
@@ -85648,9 +85873,24 @@
       "file": "missing/S/147968-sudoku-master.json"
     },
     {
+      "igdb_id": 84914,
+      "game_name": "Sudoku Master",
+      "file": "missing/S/84914-sudoku-master.json"
+    },
+    {
+      "igdb_id": 84915,
+      "game_name": "Sudoku Party",
+      "file": "missing/S/84915-sudoku-party.json"
+    },
+    {
       "igdb_id": 105969,
       "game_name": "Sudoku Scapes",
       "file": "missing/S/105969-sudoku-scapes.json"
+    },
+    {
+      "igdb_id": 84912,
+      "game_name": "Sudoku Student",
+      "file": "missing/S/84912-sudoku-student.json"
     },
     {
       "igdb_id": 121747,
@@ -86121,6 +86361,16 @@
       "igdb_id": 111720,
       "game_name": "Super Darts VR",
       "file": "missing/S/111720-super-darts-vr.json"
+    },
+    {
+      "igdb_id": 84917,
+      "game_name": "Super Destronaut 2: Go Duck Yourself",
+      "file": "missing/S/84917-super-destronaut-2-go-duck-yourself.json"
+    },
+    {
+      "igdb_id": 84916,
+      "game_name": "Super Destronaut 3D",
+      "file": "missing/S/84916-super-destronaut-3d.json"
     },
     {
       "igdb_id": 220880,
