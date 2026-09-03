@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Profound | 277594 | [277594-profound.json](./277594-profound.json) |
 | Progressbar Popup Fighter | 250015 | [250015-progressbar-popup-fighter.json](./250015-progressbar-popup-fighter.json) |
 | Project 2/3 | 322933 | [322933-project-2-3.json](./322933-project-2-3.json) |
+| Project Aftershock | 94753 | [94753-project-aftershock.json](./94753-project-aftershock.json) |
 | Project Arena | 197374 | [197374-project-arena.json](./197374-project-arena.json) |
 | Project B-Fer | 257651 | [257651-project-b-fer.json](./257651-project-b-fer.json) |
 | Project Backrooms | 236529 | [236529-project-backrooms.json](./236529-project-backrooms.json) |
@@ -1061,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Tachyon | 297793 | [297793-project-tachyon.json](./297793-project-tachyon.json) |
 | Project Timi: Sasha's Curse | 204063 | [204063-project-timi-sashas-curse.json](./204063-project-timi-sashas-curse.json) |
 | Project Toon Tanks | 132249 | [132249-project-toon-tanks.json](./132249-project-toon-tanks.json) |
+| Project Treasure | 94761 | [94761-project-treasure.json](./94761-project-treasure.json) |
 | Project Werewolf | 306099 | [306099-project-werewolf.json](./306099-project-werewolf.json) |
 | Project X: Love Potion Disaster | 218729 | [218729-project-x-love-potion-disaster.json](./218729-project-x-love-potion-disaster.json) |
 | Project XY | 178645 | [178645-project-xy.json](./178645-project-xy.json) |
@@ -1137,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punji VR | 192962 | [192962-punji-vr.json](./192962-punji-vr.json) |
 | PunPics | 233217 | [233217-punpics.json](./233217-punpics.json) |
 | Pupa | 310221 | [310221-pupa.json](./310221-pupa.json) |
+| Puppet Master RPG | 94786 | [94786-puppet-master-rpg.json](./94786-puppet-master-rpg.json) |
 | Puppet Tale | 242814 | [242814-puppet-tale.json](./242814-puppet-tale.json) |
 | PuppeTNetiK: Speedrun Challenge | 152365 | [152365-puppetnetik-speedrun-challenge.json](./152365-puppetnetik-speedrun-challenge.json) |
 | Purdy's Night Flight | 335109 | [335109-purdys-night-flight.json](./335109-purdys-night-flight.json) |
