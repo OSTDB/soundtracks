@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Stone | 110329 | [110329-devil-stone.json](./110329-devil-stone.json) |
 | Devil Zone | 300401 | [300401-devil-zone.json](./300401-devil-zone.json) |
 | Devil_catching_bees | 119012 | [119012-devil-catching-bees.json](./119012-devil-catching-bees.json) |
+| Devil's Revenge | 69855 | [69855-devils-revenge.json](./69855-devils-revenge.json) |
 | Devolution: Maken no Ou to Shimobe-tachi | 220329 | [220329-devolution-maken-no-ou-to-shimobe-tachi.json](./220329-devolution-maken-no-ou-to-shimobe-tachi.json) |
 | Devotion | 107228 | [107228-devotion.json](./107228-devotion.json) |
 | Devour | 181916 | [181916-devour.json](./181916-devour.json) |
@@ -956,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Strongest Warrior | 174895 | [174895-dragon-ball-strongest-warrior.json](./174895-dragon-ball-strongest-warrior.json) |
 | Dragon Battle | 102165 | [102165-dragon-battle.json](./102165-dragon-battle.json) |
 | Dragon Champions | 125473 | [125473-dragon-champions.json](./125473-dragon-champions.json) |
+| Dragon Dice | 69894 | [69894-dragon-dice.json](./69894-dragon-dice.json) |
 | Dragon Dodge Valley | 238743 | [238743-dragon-dodge-valley.json](./238743-dragon-dodge-valley.json) |
 | Dragon Friends: The Secret of Green Witch | 212453 | [212453-dragon-friends-the-secret-of-green-witch.json](./212453-dragon-friends-the-secret-of-green-witch.json) |
 | Dragon Fun Classic | 221974 | [221974-dragon-fun-classic.json](./221974-dragon-fun-classic.json) |
