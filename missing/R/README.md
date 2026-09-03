@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Heroes Firefighter 3D | 84911 | [84911-real-heroes-firefighter-3d.json](./84911-real-heroes-firefighter-3d.json) |
 | Real Life Day: Threesome | 313508 | [313508-real-life-day-threesome.json](./313508-real-life-day-threesome.json) |
 | Real Miami Street Gangsters Crime Mafia Glory Lord | 101586 | [101586-real-miami-street-gangsters-crime-mafia-glory-lord.json](./101586-real-miami-street-gangsters-crime-mafia-glory-lord.json) |
+| Real Motion Fishing: Hooked! Again | 67289 | [67289-real-motion-fishing-hooked-again.json](./67289-real-motion-fishing-hooked-again.json) |
 | Real Motocross Driving Simulator | 259814 | [259814-real-motocross-driving-simulator.json](./259814-real-motocross-driving-simulator.json) |
 | Real Rally | 240493 | [240493-real-rally.json](./240493-real-rally.json) |
 | Real Robots Final Attack | 68026 | [68026-real-robots-final-attack.json](./68026-real-robots-final-attack.json) |
@@ -612,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rilu Rilu Fairilu Kirakira: Hajimete no Fairilu Magic | 222537 | [222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json](./222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json) |
 | Ring of Titans | 189162 | [189162-ring-of-titans.json](./189162-ring-of-titans.json) |
 | Ring Stars | 261508 | [261508-ring-stars.json](./261508-ring-stars.json) |
+| Ringling Bros. and Barnum & Bailey Circus | 67320 | [67320-ringling-bros-and-barnum-and-bailey-circus.json](./67320-ringling-bros-and-barnum-and-bailey-circus.json) |
 | Ringling Bros. and Barnum & Bailey: Circus Friends - Asian Elephants | 209163 | [209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json](./209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json) |
 | Ringo's Roundup | 292278 | [292278-ringos-roundup.json](./292278-ringos-roundup.json) |
 | Rings of Saturn: Tungsten Edition | 188093 | [188093-rings-of-saturn-tungsten-edition.json](./188093-rings-of-saturn-tungsten-edition.json) |
