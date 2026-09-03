@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scenery Disk 4 | 78012 | [78012-scenery-disk-4.json](./78012-scenery-disk-4.json) |
 | Scenery Disk 5 | 98959 | [98959-scenery-disk-5.json](./98959-scenery-disk-5.json) |
 | Scenner | 119045 | [119045-scenner.json](./119045-scenner.json) |
+| Schar: Blue Shield Alliance | 35941 | [35941-schar-blue-shield-alliance.json](./35941-schar-blue-shield-alliance.json) |
 | Schlag den Raab: Das 3. Spiel | 86078 | [86078-schlag-den-raab-das-3-spiel.json](./86078-schlag-den-raab-das-3-spiel.json) |
 | Schlag den Star: Das Spiel | 78045 | [78045-schlag-den-star-das-spiel.json](./78045-schlag-den-star-das-spiel.json) |
 | Scholastic Brain Play: Preschool - 1st Grade | 167276 | [167276-scholastic-brain-play-preschool-1st-grade.json](./167276-scholastic-brain-play-preschool-1st-grade.json) |
@@ -406,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector 01 | 177577 | [177577-sector-01.json](./177577-sector-01.json) |
 | Sector a Training Facilitea | 253029 | [253029-sector-a-training-facilitea.json](./253029-sector-a-training-facilitea.json) |
 | Sector Strike | 145016 | [145016-sector-strike.json](./145016-sector-strike.json) |
+| Sector Zero | 35783 | [35783-sector-zero.json](./35783-sector-zero.json) |
 | SectorA23 | 182552 | [182552-sectora23.json](./182552-sectora23.json) |
 | Security: The Horrible Nights | 298319 | [298319-security-the-horrible-nights.json](./298319-security-the-horrible-nights.json) |
 | Sedecktion | 297213 | [297213-sedecktion.json](./297213-sedecktion.json) |
@@ -986,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skunny: Save Our Pizzas! | 73839 | [73839-skunny-save-our-pizzas.json](./73839-skunny-save-our-pizzas.json) |
 | Sky Arena | 60556 | [60556-sky-arena.json](./60556-sky-arena.json) |
 | Sky Baron: War of Planes | 101531 | [101531-sky-baron-war-of-planes.json](./101531-sky-baron-war-of-planes.json) |
+| Sky Battles | 35834 | [35834-sky-battles.json](./35834-sky-battles.json) |
 | Sky Champ | 194017 | [194017-sky-champ.json](./194017-sky-champ.json) |
 | Sky Chuter | 328226 | [328226-sky-chuter.json](./328226-sky-chuter.json) |
 | Sky City Blues | 132824 | [132824-sky-city-blues.json](./132824-sky-city-blues.json) |
@@ -1308,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Rogue | 133421 | [133421-solar-rogue.json](./133421-solar-rogue.json) |
 | Solar Survivors | 238766 | [238766-solar-survivors.json](./238766-solar-survivors.json) |
 | Solar Sweets | 311244 | [311244-solar-sweets.json](./311244-solar-sweets.json) |
+| Solar System Conflict | 35768 | [35768-solar-system-conflict.json](./35768-solar-system-conflict.json) |
 | Solar Warden | 101603 | [101603-solar-warden.json](./101603-solar-warden.json) |
 | Solarfall | 271484 | [271484-solarfall.json](./271484-solarfall.json) |
 | Solaris: Off World Combat | 146332 | [146332-solaris-off-world-combat.json](./146332-solaris-off-world-combat.json) |
@@ -1670,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectre's Library | 235971 | [235971-spectres-library.json](./235971-spectres-library.json) |
 | Spectres | 45359 | [45359-spectres.json](./45359-spectres.json) |
 | Spectrum Valley | 184132 | [184132-spectrum-valley.json](./184132-spectrum-valley.json) |
+| Spectrum: First Light | 35827 | [35827-spectrum-first-light.json](./35827-spectrum-first-light.json) |
 | Speechless | 166736 | [166736-speechless.json](./166736-speechless.json) |
 | Speed Bike Racing | 250657 | [250657-speed-bike-racing.json](./250657-speed-bike-racing.json) |
 | Speed Blazers | 38989 | [38989-speed-blazers.json](./38989-speed-blazers.json) |
