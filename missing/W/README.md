@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Guru - Puzzle Word Game | 89233 | [89233-word-guru-puzzle-word-game.json](./89233-word-guru-puzzle-word-game.json) |
 | Word Logic by Powgi | 85495 | [85495-word-logic-by-powgi.json](./85495-word-logic-by-powgi.json) |
 | Word Mess | 91982 | [91982-word-mess.json](./91982-word-mess.json) |
+| Word Munchers | 82151 | [82151-word-munchers.json](./82151-word-munchers.json) |
 | Word of Kitchen | 190702 | [190702-word-of-kitchen.json](./190702-word-of-kitchen.json) |
 | Word Party | 85494 | [85494-word-party.json](./85494-word-party.json) |
 | Word Quiz - Funny | 104686 | [104686-word-quiz-funny.json](./104686-word-quiz-funny.json) |
