@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C64 & Amiga Classix Remakes Sixpack | 94773 | [94773-c64-and-amiga-classix-remakes-sixpack.json](./94773-c64-and-amiga-classix-remakes-sixpack.json) |
 | Cabela's 4x4 Off-Road Adventure | 94238 | [94238-cabelas-4x4-off-road-adventure.json](./94238-cabelas-4x4-off-road-adventure.json) |
 | Cabela's 4x4 Off-Road Adventure 2 | 92531 | [92531-cabelas-4x4-off-road-adventure-2.json](./92531-cabelas-4x4-off-road-adventure-2.json) |
+| Cabela's Grand Slam Hunting: North American 29 | 78057 | [78057-cabelas-grand-slam-hunting-north-american-29.json](./78057-cabelas-grand-slam-hunting-north-american-29.json) |
 | Cactiverse | 314668 | [314668-cactiverse.json](./314668-cactiverse.json) |
 | Cactus Cowboy 3: Fully Loaded | 152901 | [152901-cactus-cowboy-3-fully-loaded.json](./152901-cactus-cowboy-3-fully-loaded.json) |
 | Cactus Cowboy: Desert Warfare | 263233 | [263233-cactus-cowboy-desert-warfare.json](./263233-cactus-cowboy-desert-warfare.json) |
