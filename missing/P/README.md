@@ -1169,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puchicon Magazine: Soukangou | 222530 | [222530-puchicon-magazine-soukangou.json](./222530-puchicon-magazine-soukangou.json) |
 | Puda + The Kid | 263198 | [263198-puda-the-kid.json](./263198-puda-the-kid.json) |
 | Pug'llector | 311252 | [311252-pugllector.json](./311252-pugllector.json) |
+| Pug's Quest | 82954 | [82954-pugs-quest.json](./82954-pugs-quest.json) |
 | Pugovki | 177051 | [177051-pugovki.json](./177051-pugovki.json) |
 | Pull the Pin | 227513 | [227513-pull-the-pin.json](./227513-pull-the-pin.json) |
 | Pulsar | 172728 | [172728-pulsar.json](./172728-pulsar.json) |
