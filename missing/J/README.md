@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | june 18 2024 (White people in China) | 318232 | [318232-june-18-2024-white-people-in-china.json](./318232-june-18-2024-white-people-in-china.json) |
 | Jung's Labyrinth | 149562 | [149562-jungs-labyrinth.json](./149562-jungs-labyrinth.json) |
 | Jungle Catz | 291786 | [291786-jungle-catz.json](./291786-jungle-catz.json) |
+| Jungle Crash Land | 66151 | [66151-jungle-crash-land.json](./66151-jungle-crash-land.json) |
 | Jungle Jim | 340781 | [340781-jungle-jim.json](./340781-jungle-jim.json) |
 | Jungle Wars | 138828 | [138828-jungle-wars.json](./138828-jungle-wars.json) |
 | Junior Fitness Trainer | 268182 | [268182-junior-fitness-trainer.json](./268182-junior-fitness-trainer.json) |
