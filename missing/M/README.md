@@ -1106,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Forward | 295553 | [295553-monkey-forward.json](./295553-monkey-forward.json) |
 | Monkey King vs Transformers | 156160 | [156160-monkey-king-vs-transformers.json](./156160-monkey-king-vs-transformers.json) |
 | Monkey Split | 142450 | [142450-monkey-split.json](./142450-monkey-split.json) |
+| Monkeys to the Moon | 57097 | [57097-monkeys-to-the-moon.json](./57097-monkeys-to-the-moon.json) |
 | Monmusu Gladiator | 151749 | [151749-monmusu-gladiator.json](./151749-monmusu-gladiator.json) |
 | Mono Trail | 127317 | [127317-mono-trail.json](./127317-mono-trail.json) |
 | Monochro | 150164 | [150164-monochro.json](./150164-monochro.json) |
@@ -1345,6 +1346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mpirimpa | 341339 | [341339-mpirimpa.json](./341339-mpirimpa.json) |
 | Mr Anchry's Divine Intervention | 124271 | [124271-mr-anchrys-divine-intervention.json](./124271-mr-anchrys-divine-intervention.json) |
 | Mr Bea Boy Kart Dash Race | 247206 | [247206-mr-bea-boy-kart-dash-race.json](./247206-mr-bea-boy-kart-dash-race.json) |
+| Mr Crab | 57146 | [57146-mr-crab.json](./57146-mr-crab.json) |
 | Mr Flippers Out For Vengeance | 278668 | [278668-mr-flippers-out-for-vengeance.json](./278668-mr-flippers-out-for-vengeance.json) |
 | Mr Jack Pocket | 175410 | [175410-mr-jack-pocket.json](./175410-mr-jack-pocket.json) |
 | Mr Mosco Bizarre Climbing | 263770 | [263770-mr-mosco-bizarre-climbing.json](./263770-mr-mosco-bizarre-climbing.json) |
@@ -1355,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. and Mrs. Potato Head Go on Vacation | 209156 | [209156-mr-and-mrs-potato-head-go-on-vacation.json](./209156-mr-and-mrs-potato-head-go-on-vacation.json) |
 | Mr. Angry | 77380 | [77380-mr-angry.json](./77380-mr-angry.json) |
 | Mr. Bill | 92544 | [92544-mr-bill.json](./92544-mr-bill.json) |
+| Mr. Crab 2 | 57145 | [57145-mr-crab-2.json](./57145-mr-crab-2.json) |
 | Mr. Fishbones | 185118 | [185118-mr-fishbones.json](./185118-mr-fishbones.json) |
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
 | Mr. Luma's Cooking Adventure | 234335 | [234335-mr-lumas-cooking-adventure.json](./234335-mr-lumas-cooking-adventure.json) |
@@ -1423,6 +1426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MurMur | 239333 | [239333-murmur.json](./239333-murmur.json) |
 | Muscle Ninja VR | 266475 | [266475-muscle-ninja-vr.json](./266475-muscle-ninja-vr.json) |
 | Muscle Ranking Vol. 3: Saikyou no Challenger Tanjou! | 209614 | [209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json](./209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json) |
+| Museca | 57107 | [57107-museca.json](./57107-museca.json) |
 | Museum of Immersive Art | 341345 | [341345-museum-of-immersive-art.json](./341345-museum-of-immersive-art.json) |
 | Museum of Symmetry | 104076 | [104076-museum-of-symmetry.json](./104076-museum-of-symmetry.json) |
 | Mushihimesama Bug Panic | 66101 | [66101-mushihimesama-bug-panic.json](./66101-mushihimesama-bug-panic.json) |
