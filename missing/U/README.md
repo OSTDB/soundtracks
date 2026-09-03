@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Bridge | 221982 | [221982-under-the-bridge.json](./221982-under-the-bridge.json) |
 | Under The Concrete Wave | 306068 | [306068-under-the-concrete-wave.json](./306068-under-the-concrete-wave.json) |
 | Under the Farm | 184648 | [184648-under-the-farm.json](./184648-under-the-farm.json) |
+| Under the Moon: Tsukiiro Ehon | 72682 | [72682-under-the-moon-tsukiiro-ehon.json](./72682-under-the-moon-tsukiiro-ehon.json) |
 | Under the Sea: Swim | 233740 | [233740-under-the-sea-swim.json](./233740-under-the-sea-swim.json) |
 | Under the Witch's Trial | 247201 | [247201-under-the-witchs-trial.json](./247201-under-the-witchs-trial.json) |
 | Undercover AD2025 Kei | 86084 | [86084-undercover-ad2025-kei.json](./86084-undercover-ad2025-kei.json) |
@@ -261,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Trial Pocket | 213642 | [213642-urban-trial-pocket.json](./213642-urban-trial-pocket.json) |
 | Urban Trial Tricky: Deluxe Edition | 152345 | [152345-urban-trial-tricky-deluxe-edition.json](./152345-urban-trial-tricky-deluxe-edition.json) |
 | Urbance Clans Card Battle! | 107879 | [107879-urbance-clans-card-battle.json](./107879-urbance-clans-card-battle.json) |
+| Urusei Yatsura: Endless Summer | 72697 | [72697-urusei-yatsura-endless-summer.json](./72697-urusei-yatsura-endless-summer.json) |
 | USA Nature's Trails Jigsaw Edition | 338580 | [338580-usa-natures-trails-jigsaw-edition.json](./338580-usa-natures-trails-jigsaw-edition.json) |
 | Usagi Sekai: Bunny Shaman | 338581 | [338581-usagi-sekai-bunny-shaman.json](./338581-usagi-sekai-bunny-shaman.json) |
 | Use Holy Water! | 243961 | [243961-use-holy-water.json](./243961-use-holy-water.json) |
