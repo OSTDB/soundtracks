@@ -1064,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking with Bebo | 105931 | [105931-cooking-with-bebo.json](./105931-cooking-with-bebo.json) |
 | Cooking with Cat | 180310 | [180310-cooking-with-cat.json](./180310-cooking-with-cat.json) |
 | Cool Cats | 174909 | [174909-cool-cats.json](./174909-cool-cats.json) |
+| Cool Cool Jam | 43967 | [43967-cool-cool-jam.json](./43967-cool-cool-jam.json) |
 | Cool Cucumber Cricket Manager | 311270 | [311270-cool-cucumber-cricket-manager.json](./311270-cool-cucumber-cricket-manager.json) |
 | Cool Forts Prevail | 176472 | [176472-cool-forts-prevail.json](./176472-cool-forts-prevail.json) |
 | Coop Catacombs | 293895 | [293895-coop-catacombs.json](./293895-coop-catacombs.json) |
