@@ -813,6 +813,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon's Cat in Purrfect Pitch | 233208 | [233208-simons-cat-in-purrfect-pitch.json](./233208-simons-cat-in-purrfect-pitch.json) |
 | Simon's Journey | 71002 | [71002-simons-journey.json](./71002-simons-journey.json) |
 | Simple 1500 Series Vol. 42: The Igo 2 | 82129 | [82129-simple-1500-series-vol-42-the-igo-2.json](./82129-simple-1500-series-vol-42-the-igo-2.json) |
+| Simple 1500 Series Vol. 56: The Sniper | 57130 | [57130-simple-1500-series-vol-56-the-sniper.json](./57130-simple-1500-series-vol-56-the-sniper.json) |
+| Simple 2000 Series 2-in-1 Vol. 4: The Bushido & The Sniper 2 | 57131 | [57131-simple-2000-series-2-in-1-vol-4-the-bushido-and-the-sniper-2.json](./57131-simple-2000-series-2-in-1-vol-4-the-bushido-and-the-sniper-2.json) |
 | Simple 2000 Series Portable Vol. 1: The Mahjong | 82135 | [82135-simple-2000-series-portable-vol-1-the-mahjong.json](./82135-simple-2000-series-portable-vol-1-the-mahjong.json) |
 | Simple 2000 Series Vol. 19: The Renai Simulation - Watashi ni Oma Cafe | 70431 | [70431-simple-2000-series-vol-19-the-renai-simulation-watashi-ni-oma-cafe.json](./70431-simple-2000-series-vol-19-the-renai-simulation-watashi-ni-oma-cafe.json) |
 | Simple 500 Series Vol. 2: The Misshitsu kara no Dasshutsu | 79351 | [79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json](./79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json) |
@@ -1870,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars Collapse | 302672 | [302672-stars-collapse.json](./302672-stars-collapse.json) |
 | Stars of the Screen | 232677 | [232677-stars-of-the-screen.json](./232677-stars-of-the-screen.json) |
 | Starshifter | 211942 | [211942-starshifter.json](./211942-starshifter.json) |
+| Starship Escape | 57113 | [57113-starship-escape.json](./57113-starship-escape.json) |
 | Starship Home | 293377 | [293377-starship-home.json](./293377-starship-home.json) |
 | Starship Traders MMO | 254139 | [254139-starship-traders-mmo.json](./254139-starship-traders-mmo.json) |
 | Starship Troopers TC | 218116 | [218116-starship-troopers-tc.json](./218116-starship-troopers-tc.json) |
@@ -2099,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Chase | 245579 | [245579-sub-chase.json](./245579-sub-chase.json) |
 | Sub Duel | 97352 | [97352-sub-duel.json](./97352-sub-duel.json) |
 | Sub Stalker | 93053 | [93053-sub-stalker.json](./93053-sub-stalker.json) |
+| Sub Terra Draconis | 57099 | [57099-sub-terra-draconis.json](./57099-sub-terra-draconis.json) |
 | Sub0ptimal | 339653 | [339653-sub0ptimal.json](./339653-sub0ptimal.json) |
 | Subjectivation | 341910 | [341910-subjectivation.json](./341910-subjectivation.json) |
 | Submachine Extended Version | 259844 | [259844-submachine-extended-version.json](./259844-submachine-extended-version.json) |
@@ -2265,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fox 2 | 146920 | [146920-super-fox-2.json](./146920-super-fox-2.json) |
 | Super Friends Party | 117779 | [117779-super-friends-party.json](./117779-super-friends-party.json) |
 | Super gamebear with its three girlfriends | 112997 | [112997-super-gamebear-with-its-three-girlfriends.json](./112997-super-gamebear-with-its-three-girlfriends.json) |
+| Super Gridder | 57144 | [57144-super-gridder.json](./57144-super-gridder.json) |
 | Super Head Esploder X | 87263 | [87263-super-head-esploder-x.json](./87263-super-head-esploder-x.json) |
 | Super Hentai Racers | 208629 | [208629-super-hentai-racers.json](./208629-super-hentai-racers.json) |
 | Super Hero Boy: A Platform Adventure | 248281 | [248281-super-hero-boy-a-platform-adventure.json](./248281-super-hero-boy-a-platform-adventure.json) |
@@ -2485,6 +2490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tank Attack | 256556 | [256556-super-tank-attack.json](./256556-super-tank-attack.json) |
 | Super Tank Rumble | 185695 | [185695-super-tank-rumble.json](./185695-super-tank-rumble.json) |
 | Super Tennis | 147960 | [147960-super-tennis.json](./147960-super-tennis.json) |
+| Super Toss the Turtle | 57104 | [57104-super-toss-the-turtle.json](./57104-super-toss-the-turtle.json) |
 | Super Toy Cars 1 & 2 Bundle | 208579 | [208579-super-toy-cars-1-and-2-bundle.json](./208579-super-toy-cars-1-and-2-bundle.json) |
 | Super Toy Cars Collection | 204083 | [204083-super-toy-cars-collection.json](./204083-super-toy-cars-collection.json) |
 | Super Trux | 74431 | [74431-super-trux.json](./74431-super-trux.json) |
