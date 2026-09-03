@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nona's Game | 211925 | [211925-nonas-game.json](./211925-nonas-game.json) |
 | Nonamed | 84264 | [84264-nonamed.json](./84264-nonamed.json) |
 | Nonno Lorenzo | 216983 | [216983-nonno-lorenzo.json](./216983-nonno-lorenzo.json) |
+| Nono Islands | 57111 | [57111-nono-islands.json](./57111-nono-islands.json) |
 | Nonocular | 181384 | [181384-nonocular.json](./181384-nonocular.json) |
 | Nonogram | 112360 | [112360-nonogram.json](./112360-nonogram.json) |
 | Nonogram Minimal | 197918 | [197918-nonogram-minimal.json](./197918-nonogram-minimal.json) |
