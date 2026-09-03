@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrograde Arena: Arms Race Pack | 226966 | [226966-retrograde-arena-arms-race-pack.json](./226966-retrograde-arena-arms-race-pack.json) |
 | Retrograde Arena: Deathmatch Pack | 226967 | [226967-retrograde-arena-deathmatch-pack.json](./226967-retrograde-arena-deathmatch-pack.json) |
 | RetroMania Wrestling | 131604 | [131604-retromania-wrestling.json](./131604-retromania-wrestling.json) |
+| RetroQuest | 45332 | [45332-retroquest.json](./45332-retroquest.json) |
 | RetroRaider II: Lara's Quest Continues | 55914 | [55914-retroraider-ii-laras-quest-continues.json](./55914-retroraider-ii-laras-quest-continues.json) |
 | RetroRaider: Three Crystals | 55915 | [55915-retroraider-three-crystals.json](./55915-retroraider-three-crystals.json) |
 | RetroRealms: Ash vs. Evil Dead | 313490 | [313490-retrorealms-ash-vs-evil-dead.json](./313490-retrorealms-ash-vs-evil-dead.json) |
@@ -566,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolution | 81387 | [81387-revolution.json](./81387-revolution.json) |
 | Revolver360 | 79926 | [79926-revolver360.json](./79926-revolver360.json) |
 | Rewilder | 303782 | [303782-rewilder.json](./303782-rewilder.json) |
+| Rex | 45348 | [45348-rex.json](./45348-rex.json) |
 | Rex Blade: The Battle Begins | 209165 | [209165-rex-blade-the-battle-begins.json](./209165-rex-blade-the-battle-begins.json) |
 | Rex! Your Interactive Pet Dinosaur | 313491 | [313491-rex-your-interactive-pet-dinosaur.json](./313491-rex-your-interactive-pet-dinosaur.json) |
 | Rezel Cross | 64955 | [64955-rezel-cross.json](./64955-rezel-cross.json) |
