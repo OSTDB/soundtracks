@@ -735,8 +735,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel of Death | 269285 | [269285-angel-of-death.json](./269285-angel-of-death.json) |
 | Angel Tears | 169444 | [169444-angel-tears.json](./169444-angel-tears.json) |
 | Angel Wings | 102168 | [102168-angel-wings.json](./102168-angel-wings.json) |
+| Angel's Feather | 72737 | [72737-angels-feather.json](./72737-angels-feather.json) |
 | Angelian Trigger | 312331 | [312331-angelian-trigger.json](./312331-angelian-trigger.json) |
 | Angelic Vale | 202376 | [202376-angelic-vale.json](./202376-angelic-vale.json) |
+| Angelique Etoile | 72680 | [72680-angelique-etoile.json](./72680-angelique-etoile.json) |
+| Angelique Trois | 72678 | [72678-angelique-trois.json](./72678-angelique-trois.json) |
 | Angellus: Asas do Anoitecer | 262079 | [262079-angellus-asas-do-anoitecer.json](./262079-angellus-asas-do-anoitecer.json) |
 | Angelo and Deemon 2: Too Hell of a Quest | 319368 | [319368-angelo-and-deemon-2-too-hell-of-a-quest.json](./319368-angelo-and-deemon-2-too-hell-of-a-quest.json) |
 | Angels | 246124 | [246124-angels.json](./246124-angels.json) |
@@ -1139,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asleep | 201310 | [201310-asleep.json](./201310-asleep.json) |
 | Asleep: Act 1 | 209702 | [209702-asleep-act-1.json](./209702-asleep-act-1.json) |
 | ASMR Slicing | 254179 | [254179-asmr-slicing.json](./254179-asmr-slicing.json) |
+| Asobu Rakugaki | 72690 | [72690-asobu-rakugaki.json](./72690-asobu-rakugaki.json) |
 | Asonde Poker ga Tsuyoku Naru! Texas Hold 'Em | 144998 | [144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json](./144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json) |
 | Aspiel: Edge of Chaos | 334502 | [334502-aspiel-edge-of-chaos.json](./334502-aspiel-edge-of-chaos.json) |
 | Assassin's Creed Mirage & Assassin's Creed Valhalla Bundle | 271474 | [271474-assassins-creed-mirage-and-assassins-creed-valhalla-bundle.json](./271474-assassins-creed-mirage-and-assassins-creed-valhalla-bundle.json) |
