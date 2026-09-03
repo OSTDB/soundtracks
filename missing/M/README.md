@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mabeop Cheonjamun DS 2: The Final Hanja Magic | 124788 | [124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json](./124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json) |
 | Macadam: Futari Yogari | 66125 | [66125-macadam-futari-yogari.json](./66125-macadam-futari-yogari.json) |
 | Machi Knights: Blood Bagos | 115662 | [115662-machi-knights-blood-bagos.json](./115662-machi-knights-blood-bagos.json) |
+| Machi-ing Maker 4 | 65510 | [65510-machi-ing-maker-4.json](./65510-machi-ing-maker-4.json) |
 | Machick 2 | 332269 | [332269-machick-2.json](./332269-machick-2.json) |
 | Machigai-sagashi Daisousasen | 271506 | [271506-machigai-sagashi-daisousasen.json](./271506-machigai-sagashi-daisousasen.json) |
 | Machina | 184624 | [184624-machina.json](./184624-machina.json) |
@@ -31,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machizzle | 139478 | [139478-machizzle.json](./139478-machizzle.json) |
 | Macrocosm | 200180 | [200180-macrocosm.json](./200180-macrocosm.json) |
 | Macross 30: Voices across the Galaxy | 79292 | [79292-macross-30-voices-across-the-galaxy.json](./79292-macross-30-voices-across-the-galaxy.json) |
+| Macross Trial Frontier | 65536 | [65536-macross-trial-frontier.json](./65536-macross-trial-frontier.json) |
 | Macross Ultimate Frontier | 68013 | [68013-macross-ultimate-frontier.json](./68013-macross-ultimate-frontier.json) |
 | MacShot | 192447 | [192447-macshot.json](./192447-macshot.json) |
 | Mad Cars | 94261 | [94261-mad-cars.json](./94261-mad-cars.json) |
@@ -145,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MahjongSchool | 158226 | [158226-mahjongschool.json](./158226-mahjongschool.json) |
 | Mahou Mating | 128014 | [128014-mahou-mating.json](./128014-mahou-mating.json) |
 | Mahoutsukai ni Naru Houhou | 97338 | [97338-mahoutsukai-ni-naru-houhou.json](./97338-mahoutsukai-ni-naru-houhou.json) |
+| Mahoutsukai no Yoru | 65487 | [65487-mahoutsukai-no-yoru.json](./65487-mahoutsukai-no-yoru.json) |
 | Mai In The Mysterious Castle | 277595 | [277595-mai-in-the-mysterious-castle.json](./277595-mai-in-the-mysterious-castle.json) |
 | Mai-Chan's Sweet Buns | 142448 | [142448-mai-chans-sweet-buns.json](./142448-mai-chans-sweet-buns.json) |
 | Maia | 188641 | [188641-maia.json](./188641-maia.json) |
@@ -1363,12 +1366,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder on the Spaceship Altair | 312330 | [312330-murder-on-the-spaceship-altair.json](./312330-murder-on-the-spaceship-altair.json) |
 | Murder Reservation | 129205 | [129205-murder-reservation.json](./129205-murder-reservation.json) |
 | Murderwave: Digital Slaughter | 121011 | [121011-murderwave-digital-slaughter.json](./121011-murderwave-digital-slaughter.json) |
+| Murkon's Refuge | 65490 | [65490-murkons-refuge.json](./65490-murkons-refuge.json) |
+| Murkon's Vengeance | 65491 | [65491-murkons-vengeance.json](./65491-murkons-vengeance.json) |
 | MurMur | 239333 | [239333-murmur.json](./239333-murmur.json) |
 | Muscle Ninja VR | 266475 | [266475-muscle-ninja-vr.json](./266475-muscle-ninja-vr.json) |
 | Muscle Ranking Vol. 3: Saikyou no Challenger Tanjou! | 209614 | [209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json](./209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json) |
 | Museum of Immersive Art | 341345 | [341345-museum-of-immersive-art.json](./341345-museum-of-immersive-art.json) |
 | Museum of Symmetry | 104076 | [104076-museum-of-symmetry.json](./104076-museum-of-symmetry.json) |
 | Mushihimesama Bug Panic | 66101 | [66101-mushihimesama-bug-panic.json](./66101-mushihimesama-bug-panic.json) |
+| Mushihimesama Ver 1.5 | 65500 | [65500-mushihimesama-ver-1-5.json](./65500-mushihimesama-ver-1-5.json) |
 | Mushroom Card RPG | 219818 | [219818-mushroom-card-rpg.json](./219818-mushroom-card-rpg.json) |
 | Mushroom Hunt | 145673 | [145673-mushroom-hunt.json](./145673-mushroom-hunt.json) |
 | Mushroom Kingdom Fusion | 134078 | [134078-mushroom-kingdom-fusion.json](./134078-mushroom-kingdom-fusion.json) |
