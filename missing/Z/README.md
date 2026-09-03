@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen 2212 A.D. | 275310 | [275310-zen-2212-a-d.json](./275310-zen-2212-a-d.json) |
 | Zen Cube | 163988 | [163988-zen-cube.json](./163988-zen-cube.json) |
 | Zen Fashion | 92510 | [92510-zen-fashion.json](./92510-zen-fashion.json) |
+| Zen Koi 2 | 90702 | [90702-zen-koi-2.json](./90702-zen-koi-2.json) |
 | Zen Match | 185681 | [185681-zen-match.json](./185681-zen-match.json) |
 | Zen Wars | 200187 | [200187-zen-wars.json](./200187-zen-wars.json) |
 | Zenforms: Protectors | 96043 | [96043-zenforms-protectors.json](./96043-zenforms-protectors.json) |
