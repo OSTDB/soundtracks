@@ -1358,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs: Colorful Stories - Special Edition | 328797 | [328797-the-smurfs-colorful-stories-special-edition.json](./328797-the-smurfs-colorful-stories-special-edition.json) |
 | The Smurfs: Learn and Play | 275887 | [275887-the-smurfs-learn-and-play.json](./275887-the-smurfs-learn-and-play.json) |
 | The Smurfs: Learn and Play - Deluxe Edition | 328798 | [328798-the-smurfs-learn-and-play-deluxe-edition.json](./328798-the-smurfs-learn-and-play-deluxe-edition.json) |
+| The Sniper 2 | 44625 | [44625-the-sniper-2.json](./44625-the-sniper-2.json) |
 | The Snow Fable: Mystery of the Flame | 207515 | [207515-the-snow-fable-mystery-of-the-flame.json](./207515-the-snow-fable-mystery-of-the-flame.json) |
 | The Snow of Basidia | 176504 | [176504-the-snow-of-basidia.json](./176504-the-snow-of-basidia.json) |
 | The Snowfield | 144323 | [144323-the-snowfield.json](./144323-the-snowfield.json) |
@@ -1605,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Grand Life 2 | 253572 | [253572-this-grand-life-2.json](./253572-this-grand-life-2.json) |
 | This is a Refuge | 226419 | [226419-this-is-a-refuge.json](./226419-this-is-a-refuge.json) |
 | This is a Work of Fiction | 242780 | [242780-this-is-a-work-of-fiction.json](./242780-this-is-a-work-of-fiction.json) |
+| This is Football 2002 | 44626 | [44626-this-is-football-2002.json](./44626-this-is-football-2002.json) |
 | This Is How U Look Saying This Shit | 277597 | [277597-this-is-how-u-look-saying-this-shit.json](./277597-this-is-how-u-look-saying-this-shit.json) |
 | This is Timmy | 189171 | [189171-this-is-timmy.json](./189171-this-is-timmy.json) |
 | This Little Piggy | 181391 | [181391-this-little-piggy.json](./181391-this-little-piggy.json) |
@@ -1878,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Traveler | 201849 | [201849-time-traveler.json](./201849-time-traveler.json) |
 | Time Tripper | 209128 | [209128-time-tripper.json](./209128-time-tripper.json) |
 | Timeless | 119751 | [119751-timeless.json](./119751-timeless.json) |
+| Timeless: The Forgotten Town | 44597 | [44597-timeless-the-forgotten-town.json](./44597-timeless-the-forgotten-town.json) |
 | Timeline Traveler II: Dream | 170518 | [170518-timeline-traveler-ii-dream.json](./170518-timeline-traveler-ii-dream.json) |
 | TimeMelters | 210869 | [210869-timemelters.json](./210869-timemelters.json) |
 | Timerunner | 161900 | [161900-timerunner.json](./161900-timerunner.json) |
@@ -1986,6 +1989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Rock Redemption | 298899 | [298899-tokyo-rock-redemption.json](./298899-tokyo-rock-redemption.json) |
 | Tokyo Shadow | 209609 | [209609-tokyo-shadow.json](./209609-tokyo-shadow.json) |
 | Tokyo Wall-gai | 220301 | [220301-tokyo-wall-gai.json](./220301-tokyo-wall-gai.json) |
+| Tokyo Xtreme Racer Drift | 44632 | [44632-tokyo-xtreme-racer-drift.json](./44632-tokyo-xtreme-racer-drift.json) |
 | Tokyo Yamanote Boys Black Vanilla Disc | 221958 | [221958-tokyo-yamanote-boys-black-vanilla-disc.json](./221958-tokyo-yamanote-boys-black-vanilla-disc.json) |
 | Tokyo Yamanote Boys Dark Cherry Disc | 221955 | [221955-tokyo-yamanote-boys-dark-cherry-disc.json](./221955-tokyo-yamanote-boys-dark-cherry-disc.json) |
 | Tokyo Yamanote Boys Fresh Ginger Disc | 221957 | [221957-tokyo-yamanote-boys-fresh-ginger-disc.json](./221957-tokyo-yamanote-boys-fresh-ginger-disc.json) |
@@ -2583,6 +2587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo 84 | 239344 | [239344-turbo-84.json](./239344-turbo-84.json) |
 | Turbo Bullets | 311822 | [311822-turbo-bullets.json](./311822-turbo-bullets.json) |
 | Turbo Live | 318765 | [318765-turbo-live.json](./318765-turbo-live.json) |
+| Turbo trucks | 44635 | [44635-turbo-trucks.json](./44635-turbo-trucks.json) |
 | TurboRaketti II | 94239 | [94239-turboraketti-ii.json](./94239-turboraketti-ii.json) |
 | Turboroko: Passion Fever | 142471 | [142471-turboroko-passion-fever.json](./142471-turboroko-passion-fever.json) |
 | Turboroko: Path to Passion Fever | 142470 | [142470-turboroko-path-to-passion-fever.json](./142470-turboroko-path-to-passion-fever.json) |
