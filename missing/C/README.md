@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadde | 265401 | [265401-cadde.json](./265401-cadde.json) |
 | Cadeau | 326952 | [326952-cadeau.json](./326952-cadeau.json) |
 | Cadria Item Shop | 107894 | [107894-cadria-item-shop.json](./107894-cadria-item-shop.json) |
+| Caesar's Travels | 73307 | [73307-caesars-travels.json](./73307-caesars-travels.json) |
 | Café Bouvardie | 225269 | [225269-cafe-bouvardie.json](./225269-cafe-bouvardie.json) |
 | Cafe Cuillere | 141888 | [141888-cafe-cuillere.json](./141888-cafe-cuillere.json) |
 | Café Enchanté: Limited Edition | 254787 | [254787-cafe-enchante-limited-edition.json](./254787-cafe-enchante-limited-edition.json) |
@@ -182,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carl Currency, Expert Exchanger | 229345 | [229345-carl-currency-expert-exchanger.json](./229345-carl-currency-expert-exchanger.json) |
 | Carlos Klauss: Episode Zero | 258701 | [258701-carlos-klauss-episode-zero.json](./258701-carlos-klauss-episode-zero.json) |
 | Carma | 172153 | [172153-carma.json](./172153-carma.json) |
+| Carmen Sandiego Word Detective | 73312 | [73312-carmen-sandiego-word-detective.json](./73312-carmen-sandiego-word-detective.json) |
 | Carnival | 297810 | [297810-carnival.json](./297810-carnival.json) |
 | Carol the Dark Angel | 209722 | [209722-carol-the-dark-angel.json](./209722-carol-the-dark-angel.json) |
 | Carpathian Survival | 315263 | [315263-carpathian-survival.json](./315263-carpathian-survival.json) |
@@ -318,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavegirl Adventures | 163992 | [163992-cavegirl-adventures.json](./163992-cavegirl-adventures.json) |
 | Caveman hits Giraffe in a Car | 333397 | [333397-caveman-hits-giraffe-in-a-car.json](./333397-caveman-hits-giraffe-in-a-car.json) |
 | Cavemen vs. Aliens | 91412 | [91412-cavemen-vs-aliens.json](./91412-cavemen-vs-aliens.json) |
+| Cavern Crusader | 73303 | [73303-cavern-crusader.json](./73303-cavern-crusader.json) |
 | Cavescape | 317012 | [317012-cavescape.json](./317012-cavescape.json) |
 | Caxy Gambá Encontra o Monstruário | 257103 | [257103-caxy-gamba-encontra-o-monstruario.json](./257103-caxy-gamba-encontra-o-monstruario.json) |
 | Cazzarion: Dart Wheel | 296087 | [296087-cazzarion-dart-wheel.json](./296087-cazzarion-dart-wheel.json) |
@@ -805,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coldfall | 113005 | [113005-coldfall.json](./113005-coldfall.json) |
 | Collage | 177037 | [177037-collage.json](./177037-collage.json) |
 | Collapse Machine | 310765 | [310765-collapse-machine.json](./310765-collapse-machine.json) |
+| Collapse! Crunch | 73327 | [73327-collapse-crunch.json](./73327-collapse-crunch.json) |
 | Collapsed Galaxy II | 248895 | [248895-collapsed-galaxy-ii.json](./248895-collapsed-galaxy-ii.json) |
 | Collapsing | 258713 | [258713-collapsing.json](./258713-collapsing.json) |
 | Collection of Most Awful Things that Could Ever Happen on St. Valentine's Day | 319985 | [319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json](./319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json) |
@@ -1431,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyclic | 232660 | [232660-cyclic.json](./232660-cyclic.json) |
 | Cyclo Chambers | 218704 | [218704-cyclo-chambers.json](./218704-cyclo-chambers.json) |
 | CycloHex | 192977 | [192977-cyclohex.json](./192977-cyclohex.json) |
+| Cylindrix | 73318 | [73318-cylindrix.json](./73318-cylindrix.json) |
 | Cylor vs. the Bullets From Hell | 123612 | [123612-cylor-vs-the-bullets-from-hell.json](./123612-cylor-vs-the-bullets-from-hell.json) |
 | Cymut x Mutrobo: The Last Cymut | 292326 | [292326-cymut-x-mutrobo-the-last-cymut.json](./292326-cymut-x-mutrobo-the-last-cymut.json) |
 | Cynoroid Gaiden | 150167 | [150167-cynoroid-gaiden.json](./150167-cynoroid-gaiden.json) |
