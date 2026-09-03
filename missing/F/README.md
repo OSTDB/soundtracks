@@ -850,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frankie's FunClub | 340244 | [340244-frankies-funclub.json](./340244-frankies-funclub.json) |
 | Franklin the Turtle | 49400 | [49400-franklin-the-turtle.json](./49400-franklin-the-turtle.json) |
 | Franklin's Great Adventures | 48044 | [48044-franklins-great-adventures.json](./48044-franklins-great-adventures.json) |
+| Frantic Flea | 42620 | [42620-frantic-flea.json](./42620-frantic-flea.json) |
 | Fraudster | 340245 | [340245-fraudster.json](./340245-fraudster.json) |
 | Fray | 305518 | [305518-fray.json](./305518-fray.json) |
 | Frayed | 292314 | [292314-frayed.json](./292314-frayed.json) |
