@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanowar | 181902 | [181902-nanowar.json](./181902-nanowar.json) |
 | Nanpure VOW | 191866 | [191866-nanpure-vow.json](./191866-nanpure-vow.json) |
 | Nanuk: The dusk of the brutes | 252401 | [252401-nanuk-the-dusk-of-the-brutes.json](./252401-nanuk-the-dusk-of-the-brutes.json) |
+| Napalm: The Crimson Crisis | 69892 | [69892-napalm-the-crimson-crisis.json](./69892-napalm-the-crimson-crisis.json) |
 | Napoleon: Total War - Coalition Battle Pack | 82108 | [82108-napoleon-total-war-coalition-battle-pack.json](./82108-napoleon-total-war-coalition-battle-pack.json) |
 | Napoleon: Total War - Gold Edition | 88274 | [88274-napoleon-total-war-gold-edition.json](./88274-napoleon-total-war-gold-edition.json) |
 | Napoleon: Total War - Heroes of the Napoleonic Wars | 82111 | [82111-napoleon-total-war-heroes-of-the-napoleonic-wars.json](./82111-napoleon-total-war-heroes-of-the-napoleonic-wars.json) |
