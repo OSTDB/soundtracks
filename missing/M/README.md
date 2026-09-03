@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mugen no Shinzou II | 246656 | [246656-mugen-no-shinzou-ii.json](./246656-mugen-no-shinzou-ii.json) |
 | Mugen RPG | 301613 | [301613-mugen-rpg.json](./301613-mugen-rpg.json) |
 | Mugogy Jump | 298300 | [298300-mugogy-jump.json](./298300-mugogy-jump.json) |
+| Mühle-Online | 84275 | [84275-muhle-online.json](./84275-muhle-online.json) |
 | Mujina: Maze Game VR | 261504 | [261504-mujina-maze-game-vr.json](./261504-mujina-maze-game-vr.json) |
 | Mullet Madjack: Deluxe Edition | 318218 | [318218-mullet-madjack-deluxe-edition.json](./318218-mullet-madjack-deluxe-edition.json) |
 | Multi Maze 3D | 221380 | [221380-multi-maze-3d.json](./221380-multi-maze-3d.json) |
@@ -1451,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: Raincliff's Phantoms & Mystery Trackers: Blackrow's Secret | 201817 | [201817-mystery-trackers-raincliffs-phantoms-and-mystery-trackers-blackrows-secret.json](./201817-mystery-trackers-raincliffs-phantoms-and-mystery-trackers-blackrows-secret.json) |
 | Mystery: London | 146926 | [146926-mystery-london.json](./146926-mystery-london.json) |
 | Mystic Forest | 226424 | [226424-mystic-forest.json](./226424-mystic-forest.json) |
+| Mystic Inn | 84272 | [84272-mystic-inn.json](./84272-mystic-inn.json) |
 | Mystic Land: The search for Maphaldo | 270967 | [270967-mystic-land-the-search-for-maphaldo.json](./270967-mystic-land-the-search-for-maphaldo.json) |
 | Mystic Store | 146889 | [146889-mystic-store.json](./146889-mystic-store.json) |
 | Mystic Tower Legends | 341354 | [341354-mystic-tower-legends.json](./341354-mystic-tower-legends.json) |
