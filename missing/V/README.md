@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vermin | 232696 | [232696-vermin.json](./232696-vermin.json) |
 | Vermin Control | 334483 | [334483-vermin-control.json](./334483-vermin-control.json) |
 | Verminator | 55202 | [55202-verminator.json](./55202-verminator.json) |
+| Verne World | 37772 | [37772-verne-world.json](./37772-verne-world.json) |
 | Versailles II | 53873 | [53873-versailles-ii.json](./53873-versailles-ii.json) |
 | Verse Hopper | 312910 | [312910-verse-hopper.json](./312910-verse-hopper.json) |
 | Vertiball | 86123 | [86123-vertiball.json](./86123-vertiball.json) |
@@ -343,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRLab Academy: Anatomy VR | 115011 | [115011-vrlab-academy-anatomy-vr.json](./115011-vrlab-academy-anatomy-vr.json) |
 | Vrsus Dead | 306080 | [306080-vrsus-dead.json](./306080-vrsus-dead.json) |
 | VS Sonic: Dash & Spin | 223136 | [223136-vs-sonic-dash-and-spin.json](./223136-vs-sonic-dash-and-spin.json) |
+| Vs. Collection | 37771 | [37771-vs-collection.json](./37771-vs-collection.json) |
 | Vs. Hogan's Alley | 169999 | [169999-vs-hogans-alley.json](./169999-vs-hogans-alley.json) |
 | Vs. Urban Champion | 169998 | [169998-vs-urban-champion.json](./169998-vs-urban-champion.json) |
 | Vs. Vemny & Friends | 302648 | [302648-vs-vemny-and-friends.json](./302648-vs-vemny-and-friends.json) |
