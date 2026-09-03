@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T21:03:37.601Z",
-  "total_missing": 24905,
+  "generated_at": "2026-09-03T21:18:27.141Z",
+  "total_missing": 24955,
   "games": [
     {
       "igdb_id": 306086,
@@ -13653,6 +13653,11 @@
       "file": "missing/B/52647-blood-code-complete-edition.json"
     },
     {
+      "igdb_id": 42020,
+      "game_name": "Blood Gear",
+      "file": "missing/B/42020-blood-gear.json"
+    },
+    {
       "igdb_id": 95451,
       "game_name": "Blood II: The Chosen - The Nightmare Levels",
       "file": "missing/B/95451-blood-ii-the-chosen-the-nightmare-levels.json"
@@ -14293,6 +14298,11 @@
       "file": "missing/B/248288-bomber-mario.json"
     },
     {
+      "igdb_id": 42056,
+      "game_name": "Bomberman '93 Special",
+      "file": "missing/B/42056-bomberman-93-special.json"
+    },
+    {
       "igdb_id": 135909,
       "game_name": "Bomberman GB",
       "file": "missing/B/135909-bomberman-gb.json"
@@ -14316,6 +14326,11 @@
       "igdb_id": 162409,
       "game_name": "Bomberman: Panic Bomber",
       "file": "missing/B/162409-bomberman-panic-bomber.json"
+    },
+    {
+      "igdb_id": 42055,
+      "game_name": "Bomberman: Users Battle",
+      "file": "missing/B/42055-bomberman-users-battle.json"
     },
     {
       "igdb_id": 74464,
@@ -19073,6 +19088,11 @@
       "file": "missing/C/275929-chikn-nuggit-nightmare-fwiends.json"
     },
     {
+      "igdb_id": 42039,
+      "game_name": "Chikudenya Toubee",
+      "file": "missing/C/42039-chikudenya-toubee.json"
+    },
+    {
       "igdb_id": 167293,
       "game_name": "Child of Abyss",
       "file": "missing/C/167293-child-of-abyss.json"
@@ -19401,6 +19421,11 @@
       "igdb_id": 97906,
       "game_name": "Chousoku Shoujo: Hypersonic Speed Girl",
       "file": "missing/C/97906-chousoku-shoujo-hypersonic-speed-girl.json"
+    },
+    {
+      "igdb_id": 42038,
+      "game_name": "Chozetsu Rinjin Berabo Man",
+      "file": "missing/C/42038-chozetsu-rinjin-berabo-man.json"
     },
     {
       "igdb_id": 95423,
@@ -21428,6 +21453,11 @@
       "file": "missing/C/245532-computer-baseball.json"
     },
     {
+      "igdb_id": 42035,
+      "game_name": "Computer Board Game: Genpei Touma-den",
+      "file": "missing/C/42035-computer-board-game-genpei-touma-den.json"
+    },
+    {
       "igdb_id": 226431,
       "game_name": "Computer Cats",
       "file": "missing/C/226431-computer-cats.json"
@@ -22113,9 +22143,19 @@
       "file": "missing/C/48689-cosmic-epsilon.json"
     },
     {
+      "igdb_id": 42003,
+      "game_name": "Cosmic Fantasy 2",
+      "file": "missing/C/42003-cosmic-fantasy-2.json"
+    },
+    {
       "igdb_id": 269306,
       "game_name": "Cosmic Fantasy Collection",
       "file": "missing/C/269306-cosmic-fantasy-collection.json"
+    },
+    {
+      "igdb_id": 42005,
+      "game_name": "Cosmic Fantasy: Bouken Shounen Yuu",
+      "file": "missing/C/42005-cosmic-fantasy-bouken-shounen-yuu.json"
     },
     {
       "igdb_id": 57108,
@@ -24128,6 +24168,11 @@
       "file": "missing/C/131608-cyber-battle-69.json"
     },
     {
+      "igdb_id": 42054,
+      "game_name": "Cyber Dodge",
+      "file": "missing/C/42054-cyber-dodge.json"
+    },
+    {
       "igdb_id": 68036,
       "game_name": "Cyber Photographer",
       "file": "missing/C/68036-cyber-photographer.json"
@@ -24466,6 +24511,11 @@
       "igdb_id": 151748,
       "game_name": "Daibutsu Paradise",
       "file": "missing/D/151748-daibutsu-paradise.json"
+    },
+    {
+      "igdb_id": 42029,
+      "game_name": "Daichikun Crisis: Do Natural",
+      "file": "missing/D/42029-daichikun-crisis-do-natural.json"
     },
     {
       "igdb_id": 55911,
@@ -25626,6 +25676,11 @@
       "igdb_id": 102806,
       "game_name": "Dead Matter",
       "file": "missing/D/102806-dead-matter.json"
+    },
+    {
+      "igdb_id": 42012,
+      "game_name": "Dead of the Brain",
+      "file": "missing/D/42012-dead-of-the-brain.json"
     },
     {
       "igdb_id": 47302,
@@ -30906,6 +30961,11 @@
       "igdb_id": 159867,
       "game_name": "Dungeon Display",
       "file": "missing/D/159867-dungeon-display.json"
+    },
+    {
+      "igdb_id": 42022,
+      "game_name": "Dungeon Explorer II",
+      "file": "missing/D/42022-dungeon-explorer-ii.json"
     },
     {
       "igdb_id": 244507,
@@ -36248,6 +36308,11 @@
       "file": "missing/F/177554-final-shot.json"
     },
     {
+      "igdb_id": 42026,
+      "game_name": "Final Soldier: Special Version",
+      "file": "missing/F/42026-final-soldier-special-version.json"
+    },
+    {
       "igdb_id": 147999,
       "game_name": "Final Sword: Definitive Edition",
       "file": "missing/F/147999-final-sword-definitive-edition.json"
@@ -38128,6 +38193,11 @@
       "file": "missing/F/258690-formation.json"
     },
     {
+      "igdb_id": 42046,
+      "game_name": "Formation Soccer: Human Cup '90",
+      "file": "missing/F/42046-formation-soccer-human-cup-90.json"
+    },
+    {
       "igdb_id": 175411,
       "game_name": "Formino",
       "file": "missing/F/175411-formino.json"
@@ -39921,6 +39991,11 @@
       "igdb_id": 126630,
       "game_name": "Gaijin Troubles",
       "file": "missing/G/126630-gaijin-troubles.json"
+    },
+    {
+      "igdb_id": 42013,
+      "game_name": "Gain Ground SX",
+      "file": "missing/G/42013-gain-ground-sx.json"
     },
     {
       "igdb_id": 264307,
@@ -44053,6 +44128,11 @@
       "file": "missing/G/166230-gungrave-vr-loaded-coffin-edition.json"
     },
     {
+      "igdb_id": 42025,
+      "game_name": "Gunhed: Taikai",
+      "file": "missing/G/42025-gunhed-taikai.json"
+    },
+    {
       "igdb_id": 84262,
       "game_name": "Gunless",
       "file": "missing/G/84262-gunless.json"
@@ -47373,6 +47453,11 @@
       "file": "missing/H/64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json"
     },
     {
+      "igdb_id": 42034,
+      "game_name": "Hisou Kihei Kai Serd",
+      "file": "missing/H/42034-hisou-kihei-kai-serd.json"
+    },
+    {
       "igdb_id": 137100,
       "game_name": "Hissatsu Pachinko Station V2",
       "file": "missing/H/137100-hissatsu-pachinko-station-v2.json"
@@ -47891,6 +47976,11 @@
       "igdb_id": 267660,
       "game_name": "Honoo no Toukyuuji: Dodge Danpei",
       "file": "missing/H/267660-honoo-no-toukyuuji-dodge-danpei.json"
+    },
+    {
+      "igdb_id": 42053,
+      "game_name": "Honoo no Toukyuuji: Dodge Danpei",
+      "file": "missing/H/42053-honoo-no-toukyuuji-dodge-danpei.json"
     },
     {
       "igdb_id": 66108,
@@ -53793,6 +53883,11 @@
       "file": "missing/K/262668-kaizo-mario-galaxy-rebalanced.json"
     },
     {
+      "igdb_id": 42052,
+      "game_name": "Kaizou Choujin Schbibinman",
+      "file": "missing/K/42052-kaizou-choujin-schbibinman.json"
+    },
+    {
       "igdb_id": 93588,
       "game_name": "Kajko i Kokosz",
       "file": "missing/K/93588-kajko-i-kokosz.json"
@@ -54543,6 +54638,11 @@
       "file": "missing/K/61116-khumba-the-game.json"
     },
     {
+      "igdb_id": 42011,
+      "game_name": "Kiaidan 00",
+      "file": "missing/K/42011-kiaidan-00.json"
+    },
+    {
       "igdb_id": 156149,
       "game_name": "Kiara and My Ara Ara Adventure",
       "file": "missing/K/156149-kiara-and-my-ara-ara-adventure.json"
@@ -54556,6 +54656,11 @@
       "igdb_id": 142451,
       "game_name": "Kichiku Megane",
       "file": "missing/K/142451-kichiku-megane.json"
+    },
+    {
+      "igdb_id": 42051,
+      "game_name": "Kick Ball",
+      "file": "missing/K/42051-kick-ball.json"
     },
     {
       "igdb_id": 137089,
@@ -55773,6 +55878,11 @@
       "file": "missing/K/183561-kor.json"
     },
     {
+      "igdb_id": 42037,
+      "game_name": "Kore ga Pro Yakyuu '89",
+      "file": "missing/K/42037-kore-ga-pro-yakyuu-89.json"
+    },
+    {
       "igdb_id": 309105,
       "game_name": "Korobo",
       "file": "missing/K/309105-korobo.json"
@@ -56398,6 +56508,11 @@
       "file": "missing/L/185165-lady-pac.json"
     },
     {
+      "igdb_id": 42050,
+      "game_name": "Lady Sword: Ryakudatsusareta 10-nin no Otome",
+      "file": "missing/L/42050-lady-sword-ryakudatsusareta-10-nin-no-otome.json"
+    },
+    {
       "igdb_id": 112981,
       "game_name": "Lady's Hentai Mosaic",
       "file": "missing/L/112981-ladys-hentai-mosaic.json"
@@ -56556,6 +56671,11 @@
       "igdb_id": 62775,
       "game_name": "Langrisser I & II",
       "file": "missing/L/62775-langrisser-i-and-ii.json"
+    },
+    {
+      "igdb_id": 42010,
+      "game_name": "Langrisser: Hikari no Matsuei",
+      "file": "missing/L/42010-langrisser-hikari-no-matsuei.json"
     },
     {
       "igdb_id": 89967,
@@ -60673,6 +60793,11 @@
       "file": "missing/M/302653-magical-circle-guru-guru-stardust-adventure.json"
     },
     {
+      "igdb_id": 42014,
+      "game_name": "Magical Dinosaur Tour",
+      "file": "missing/M/42014-magical-dinosaur-tour.json"
+    },
+    {
       "igdb_id": 71552,
       "game_name": "Magical Drop",
       "file": "missing/M/71552-magical-drop.json"
@@ -60856,6 +60981,11 @@
       "igdb_id": 117043,
       "game_name": "Mahjong Infinity",
       "file": "missing/M/117043-mahjong-infinity.json"
+    },
+    {
+      "igdb_id": 42004,
+      "game_name": "Mahjong Lemon Angel",
+      "file": "missing/M/42004-mahjong-lemon-angel.json"
     },
     {
       "igdb_id": 268203,
@@ -63503,6 +63633,11 @@
       "file": "missing/M/319350-meso.json"
     },
     {
+      "igdb_id": 42042,
+      "game_name": "Mesopotamia",
+      "file": "missing/M/42042-mesopotamia.json"
+    },
+    {
       "igdb_id": 166765,
       "game_name": "Mess Cleanup",
       "file": "missing/M/166765-mess-cleanup.json"
@@ -64973,6 +65108,11 @@
       "file": "missing/M/70997-mirai-ninja-keigumo-kinin-gaiden.json"
     },
     {
+      "igdb_id": 42021,
+      "game_name": "Mirai Shounen Conan",
+      "file": "missing/M/42021-mirai-shounen-conan.json"
+    },
+    {
       "igdb_id": 55208,
       "game_name": "Mirax Force",
       "file": "missing/M/55208-mirax-force.json"
@@ -65723,6 +65863,11 @@
       "file": "missing/M/64413-momotaro-densetsu-1-2.json"
     },
     {
+      "igdb_id": 42049,
+      "game_name": "Momotaro Densetsu Turbo",
+      "file": "missing/M/42049-momotaro-densetsu-turbo.json"
+    },
+    {
       "igdb_id": 64406,
       "game_name": "Momotaro Dentetsu 15: Godai Bonbii Toujou! no Maki",
       "file": "missing/M/64406-momotaro-dentetsu-15-godai-bonbii-toujou-no-maki.json"
@@ -66151,6 +66296,11 @@
       "igdb_id": 224755,
       "game_name": "Monster Knockout",
       "file": "missing/M/224755-monster-knockout.json"
+    },
+    {
+      "igdb_id": 42019,
+      "game_name": "Monster Lair",
+      "file": "missing/M/42019-monster-lair.json"
     },
     {
       "igdb_id": 214153,
@@ -66956,6 +67106,11 @@
       "igdb_id": 93557,
       "game_name": "Mots Croisés",
       "file": "missing/M/93557-mots-croises.json"
+    },
+    {
+      "igdb_id": 42015,
+      "game_name": "Motteke Tamago",
+      "file": "missing/M/42015-motteke-tamago.json"
     },
     {
       "igdb_id": 62206,
@@ -69273,6 +69428,11 @@
       "file": "missing/N/260987-nectar-wars.json"
     },
     {
+      "igdb_id": 42030,
+      "game_name": "Nectaris",
+      "file": "missing/N/42030-nectaris.json"
+    },
+    {
       "igdb_id": 67288,
       "game_name": "Ned",
       "file": "missing/N/67288-ned.json"
@@ -69486,6 +69646,11 @@
       "igdb_id": 43979,
       "game_name": "Neo Mystery Bonus",
       "file": "missing/N/43979-neo-mystery-bonus.json"
+    },
+    {
+      "igdb_id": 42009,
+      "game_name": "Neo Nectaris",
+      "file": "missing/N/42009-neo-nectaris.json"
     },
     {
       "igdb_id": 270969,
@@ -70158,6 +70323,11 @@
       "file": "missing/N/80550-nexus-the-kingdom-of-the-winds.json"
     },
     {
+      "igdb_id": 42016,
+      "game_name": "Nexzr",
+      "file": "missing/N/42016-nexzr.json"
+    },
+    {
       "igdb_id": 133474,
       "game_name": "Neyyah",
       "file": "missing/N/133474-neyyah.json"
@@ -70601,6 +70771,11 @@
       "igdb_id": 235486,
       "game_name": "Nikka: Rise",
       "file": "missing/N/235486-nikka-rise.json"
+    },
+    {
+      "igdb_id": 42057,
+      "game_name": "Niko Niko Pun",
+      "file": "missing/N/42057-niko-niko-pun.json"
     },
     {
       "igdb_id": 146898,
@@ -72026,6 +72201,11 @@
       "igdb_id": 183579,
       "game_name": "Oblivion Congee",
       "file": "missing/O/183579-oblivion-congee.json"
+    },
+    {
+      "igdb_id": 42040,
+      "game_name": "Obocchama Kun",
+      "file": "missing/O/42040-obocchama-kun.json"
     },
     {
       "igdb_id": 117068,
@@ -79753,6 +79933,11 @@
       "file": "missing/P/79900-power-chess.json"
     },
     {
+      "igdb_id": 42043,
+      "game_name": "Power Eleven",
+      "file": "missing/P/42043-power-eleven.json"
+    },
+    {
       "igdb_id": 292816,
       "game_name": "Power On: Energy Flow",
       "file": "missing/P/292816-power-on-energy-flow.json"
@@ -84408,6 +84593,11 @@
       "file": "missing/R/211951-reflections-path.json"
     },
     {
+      "igdb_id": 42048,
+      "game_name": "Reflectron",
+      "file": "missing/R/42048-reflectron.json"
+    },
+    {
       "igdb_id": 224749,
       "game_name": "Reflexia Prototype ver.",
       "file": "missing/R/224749-reflexia-prototype-ver.json"
@@ -84676,6 +84866,11 @@
       "igdb_id": 325284,
       "game_name": "Rengoku",
       "file": "missing/R/325284-rengoku.json"
+    },
+    {
+      "igdb_id": 42008,
+      "game_name": "Renny Blaster",
+      "file": "missing/R/42008-renny-blaster.json"
     },
     {
       "igdb_id": 247214,
@@ -88993,6 +89188,11 @@
       "file": "missing/S/277577-santas-world.json"
     },
     {
+      "igdb_id": 42047,
+      "game_name": "Santatlantean",
+      "file": "missing/S/42047-santatlantean.json"
+    },
+    {
       "igdb_id": 199661,
       "game_name": "Santo Island Incident",
       "file": "missing/S/199661-santo-island-incident.json"
@@ -91638,6 +91838,11 @@
       "file": "missing/S/202364-shirushi.json"
     },
     {
+      "igdb_id": 42041,
+      "game_name": "Shiryou Sensen: War of the Dead",
+      "file": "missing/S/42041-shiryou-sensen-war-of-the-dead.json"
+    },
+    {
       "igdb_id": 271505,
       "game_name": "Shitataru Ano Ko: Drenched Girls",
       "file": "missing/S/271505-shitataru-ano-ko-drenched-girls.json"
@@ -91676,6 +91881,16 @@
       "igdb_id": 126014,
       "game_name": "Shogi Nyuumon",
       "file": "missing/S/126014-shogi-nyuumon.json"
+    },
+    {
+      "igdb_id": 42032,
+      "game_name": "Shogi Shodan Icchokusen",
+      "file": "missing/S/42032-shogi-shodan-icchokusen.json"
+    },
+    {
+      "igdb_id": 42031,
+      "game_name": "Shogi Shoshisha Muyo",
+      "file": "missing/S/42031-shogi-shoshisha-muyo.json"
     },
     {
       "igdb_id": 312359,
@@ -92346,6 +92561,11 @@
       "igdb_id": 64978,
       "game_name": "SimCity Social",
       "file": "missing/S/64978-simcity-social.json"
+    },
+    {
+      "igdb_id": 42017,
+      "game_name": "SimEarth: The Living Planet",
+      "file": "missing/S/42017-simearth-the-living-planet.json"
     },
     {
       "igdb_id": 93048,
@@ -94568,6 +94788,11 @@
       "file": "missing/S/272581-solcialists.json"
     },
     {
+      "igdb_id": 42024,
+      "game_name": "Soldier Blade Special: Caravan Stage",
+      "file": "missing/S/42024-soldier-blade-special-caravan-stage.json"
+    },
+    {
       "igdb_id": 63308,
       "game_name": "Soldier Front 2",
       "file": "missing/S/63308-soldier-front-2.json"
@@ -95858,6 +96083,11 @@
       "file": "missing/S/202960-space-escape-obstacles.json"
     },
     {
+      "igdb_id": 42007,
+      "game_name": "Space Fantasy Zone",
+      "file": "missing/S/42007-space-fantasy-zone.json"
+    },
+    {
       "igdb_id": 155655,
       "game_name": "Space Fat: To the Core",
       "file": "missing/S/155655-space-fat-to-the-core.json"
@@ -96646,6 +96876,11 @@
       "igdb_id": 55164,
       "game_name": "Spinzer.io",
       "file": "missing/S/55164-spinzer-io.json"
+    },
+    {
+      "igdb_id": 42045,
+      "game_name": "Spiral Wave",
+      "file": "missing/S/42045-spiral-wave.json"
     },
     {
       "igdb_id": 257687,
@@ -106441,6 +106676,11 @@
       "igdb_id": 109057,
       "game_name": "The Genesis Project",
       "file": "missing/T/109057-the-genesis-project.json"
+    },
+    {
+      "igdb_id": 42036,
+      "game_name": "The Genji and the Heike Clans",
+      "file": "missing/T/42036-the-genji-and-the-heike-clans.json"
     },
     {
       "igdb_id": 341319,
@@ -122613,6 +122853,11 @@
       "file": "missing/X/124814-x4-split-vendetta.json"
     },
     {
+      "igdb_id": 42006,
+      "game_name": "Xak I + II",
+      "file": "missing/X/42006-xak-i-ii.json"
+    },
+    {
       "igdb_id": 120983,
       "game_name": "Xander the Monster Morpher: Universe Breaker",
       "file": "missing/X/120983-xander-the-monster-morpher-universe-breaker.json"
@@ -123116,6 +123361,11 @@
       "igdb_id": 234321,
       "game_name": "Yo! Ninjia",
       "file": "missing/Y/234321-yo-ninjia.json"
+    },
+    {
+      "igdb_id": 42023,
+      "game_name": "Yo' Bro",
+      "file": "missing/Y/42023-yo-bro.json"
     },
     {
       "igdb_id": 177010,
