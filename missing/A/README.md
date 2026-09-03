@@ -854,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Farm Roguelike | 214201 | [214201-another-farm-roguelike.json](./214201-another-farm-roguelike.json) |
 | Another Path | 196884 | [196884-another-path.json](./196884-another-path.json) |
 | Another Prince: A Lost Tale | 191915 | [191915-another-prince-a-lost-tale.json](./191915-another-prince-a-lost-tale.json) |
+| Another SameGame | 64434 | [64434-another-samegame.json](./64434-another-samegame.json) |
 | Another Sight: Hodge's Journey | 111691 | [111691-another-sight-hodges-journey.json](./111691-another-sight-hodges-journey.json) |
 | Another Space Opera: Episode 1 - The Wake of The Giant | 216469 | [216469-another-space-opera-episode-1-the-wake-of-the-giant.json](./216469-another-space-opera-episode-1-the-wake-of-the-giant.json) |
 | Another Super Mario 3D | 132829 | [132829-another-super-mario-3d.json](./132829-another-super-mario-3d.json) |
@@ -872,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Empire | 109705 | [109705-ant-empire.json](./109705-ant-empire.json) |
 | Ant Nation | 210250 | [210250-ant-nation.json](./210250-ant-nation.json) |
 | Ant Simulator | 171046 | [171046-ant-simulator.json](./171046-ant-simulator.json) |
+| Antharion | 64446 | [64446-antharion.json](./64446-antharion.json) |
 | Anthology of the Killer | 268731 | [268731-anthology-of-the-killer.json](./268731-anthology-of-the-killer.json) |
 | Anti Terrorist Rush 2 | 116342 | [116342-anti-terrorist-rush-2.json](./116342-anti-terrorist-rush-2.json) |
 | Anti-Jump-Man | 130374 | [130374-anti-jump-man.json](./130374-anti-jump-man.json) |
@@ -1218,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Sentinel | 297791 | [297791-asteroid-sentinel.json](./297791-asteroid-sentinel.json) |
 | AsteroIdle | 211410 | [211410-asteroidle.json](./211410-asteroidle.json) |
 | Asteroids | 232695 | [232695-asteroids.json](./232695-asteroids.json) |
+| Asteroids: Gunner | 64402 | [64402-asteroids-gunner.json](./64402-asteroids-gunner.json) |
 | Astonishing Baseball 20 | 133470 | [133470-astonishing-baseball-20.json](./133470-astonishing-baseball-20.json) |
 | Astonishing Baseball 22 | 262081 | [262081-astonishing-baseball-22.json](./262081-astonishing-baseball-22.json) |
 | Astra Protocol 2: Audio Pack | 309660 | [309660-astra-protocol-2-audio-pack.json](./309660-astra-protocol-2-audio-pack.json) |
