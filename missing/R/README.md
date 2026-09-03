@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Empires | 245016 | [245016-racing-empires.json](./245016-racing-empires.json) |
 | Racing Karts | 186913 | [186913-racing-karts.json](./186913-racing-karts.json) |
 | Racing: Breakthrough Gaming Arcade | 145668 | [145668-racing-breakthrough-gaming-arcade.json](./145668-racing-breakthrough-gaming-arcade.json) |
+| Rack 'Em Up | 66717 | [66717-rack-em-up.json](./66717-rack-em-up.json) |
 | RackJacker | 163981 | [163981-rackjacker.json](./163981-rackjacker.json) |
 | Racoonfeast | 326971 | [326971-racoonfeast.json](./326971-racoonfeast.json) |
 | Radiant Princess: Poni Ceres | 331115 | [331115-radiant-princess-poni-ceres.json](./331115-radiant-princess-poni-ceres.json) |
@@ -481,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Vaders: Reloaded - Classified Projects | 171629 | [171629-retro-vaders-reloaded-classified-projects.json](./171629-retro-vaders-reloaded-classified-projects.json) |
 | Retro Wing Prime | 113034 | [113034-retro-wing-prime.json](./113034-retro-wing-prime.json) |
 | RetroCube | 175404 | [175404-retrocube.json](./175404-retrocube.json) |
+| Retrofit: Overload | 66676 | [66676-retrofit-overload.json](./66676-retrofit-overload.json) |
 | RetroFuel | 184108 | [184108-retrofuel.json](./184108-retrofuel.json) |
 | Retrograde Arena: Arms Race Pack | 226966 | [226966-retrograde-arena-arms-race-pack.json](./226966-retrograde-arena-arms-race-pack.json) |
 | Retrograde Arena: Deathmatch Pack | 226967 | [226967-retrograde-arena-deathmatch-pack.json](./226967-retrograde-arena-deathmatch-pack.json) |
