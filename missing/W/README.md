@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Quiz - Funny | 104686 | [104686-word-quiz-funny.json](./104686-word-quiz-funny.json) |
 | Word Search - Puzzle Game For Kids | 108507 | [108507-word-search-puzzle-game-for-kids.json](./108507-word-search-puzzle-game-for-kids.json) |
 | Word Search & Learn | 233741 | [233741-word-search-and-learn.json](./233741-word-search-and-learn.json) |
+| Word Search Joy | 88270 | [88270-word-search-joy.json](./88270-word-search-joy.json) |
 | Word Swipe | 101529 | [101529-word-swipe.json](./101529-word-swipe.json) |
 | Word Town: New Crossword Games | 101541 | [101541-word-town-new-crossword-games.json](./101541-word-town-new-crossword-games.json) |
 | Word Training Camp | 130929 | [130929-word-training-camp.json](./130929-word-training-camp.json) |
