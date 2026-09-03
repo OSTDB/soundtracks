@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Love | 115048 | [115048-no-love.json](./115048-no-love.json) |
 | No Luca No | 92496 | [92496-no-luca-no.json](./92496-no-luca-no.json) |
 | No More Heroes: Red Zone Edition | 116373 | [116373-no-more-heroes-red-zone-edition.json](./116373-no-more-heroes-red-zone-edition.json) |
+| No Ordinary Elevator | 76666 | [76666-no-ordinary-elevator.json](./76666-no-ordinary-elevator.json) |
 | No Rest | 302688 | [302688-no-rest.json](./302688-no-rest.json) |
 | No Son of Mine | 201314 | [201314-no-son-of-mine.json](./201314-no-son-of-mine.json) |
 | No Straight Roads: Collector's Edition | 166225 | [166225-no-straight-roads-collectors-edition.json](./166225-no-straight-roads-collectors-edition.json) |
@@ -498,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | North Stars | 102143 | [102143-north-stars.json](./102143-north-stars.json) |
 | Northbury Grove: Walls Closing In | 183062 | [183062-northbury-grove-walls-closing-in.json](./183062-northbury-grove-walls-closing-in.json) |
 | Northern Blade | 145643 | [145643-northern-blade.json](./145643-northern-blade.json) |
+| Northern Tale 2 | 76647 | [76647-northern-tale-2.json](./76647-northern-tale-2.json) |
 | Northern Tale 3 | 105980 | [105980-northern-tale-3.json](./105980-northern-tale-3.json) |
 | Northern Tales | 114405 | [114405-northern-tales.json](./114405-northern-tales.json) |
 | Northgard: Dodsvagr, Clan of the Rat | 188083 | [188083-northgard-dodsvagr-clan-of-the-rat.json](./188083-northgard-dodsvagr-clan-of-the-rat.json) |
