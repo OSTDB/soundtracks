@@ -338,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Library of Souls | 183568 | [183568-library-of-souls.json](./183568-library-of-souls.json) |
 | Libritopia: Librarian Simulator | 326949 | [326949-libritopia-librarian-simulator.json](./326949-libritopia-librarian-simulator.json) |
 | Libros de Chilam Balam | 188075 | [188075-libros-de-chilam-balam.json](./188075-libros-de-chilam-balam.json) |
+| Licca-chan ni Naritai! | 58848 | [58848-licca-chan-ni-naritai.json](./58848-licca-chan-ni-naritai.json) |
 | Lichenia | 138271 | [138271-lichenia.json](./138271-lichenia.json) |
 | Liebt Mich Nicht | 126021 | [126021-liebt-mich-nicht.json](./126021-liebt-mich-nicht.json) |
 | Liero Xtreme | 72080 | [72080-liero-xtreme.json](./72080-liero-xtreme.json) |
