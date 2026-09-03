@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qomp | 142475 | [142475-qomp.json](./142475-qomp.json) |
 | Qorena | 211931 | [211931-qorena.json](./211931-qorena.json) |
 | QotU | 308538 | [308538-qotu.json](./308538-qotu.json) |
+| Quacker Blaster | 63286 | [63286-quacker-blaster.json](./63286-quacker-blaster.json) |
 | Quadice | 234298 | [234298-quadice.json](./234298-quadice.json) |
 | Quadrablaze | 68710 | [68710-quadrablaze.json](./68710-quadrablaze.json) |
 | Quadrant 7 | 322393 | [322393-quadrant-7.json](./322393-quadrant-7.json) |
