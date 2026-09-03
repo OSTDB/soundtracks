@@ -1265,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket League | 242218 | [242218-cricket-league.json](./242218-cricket-league.json) |
 | Crime District | 165699 | [165699-crime-district.json](./165699-crime-district.json) |
 | Crime Moto Racer | 218695 | [218695-crime-moto-racer.json](./218695-crime-moto-racer.json) |
+| CrimeCraft Bleedout | 51265 | [51265-crimecraft-bleedout.json](./51265-crimecraft-bleedout.json) |
 | Criminal Archives: Alphabetic Murders DLC | 248289 | [248289-criminal-archives-alphabetic-murders-dlc.json](./248289-criminal-archives-alphabetic-murders-dlc.json) |
 | Criminal Archives: City on Fire - Collector's Edition | 186330 | [186330-criminal-archives-city-on-fire-collectors-edition.json](./186330-criminal-archives-city-on-fire-collectors-edition.json) |
 | Criminal Archives: Murder in the Pages - Collector's Edition | 294989 | [294989-criminal-archives-murder-in-the-pages-collectors-edition.json](./294989-criminal-archives-murder-in-the-pages-collectors-edition.json) |
@@ -1347,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypto Fantasy: The Scrolls of Kouga | 335695 | [335695-crypto-fantasy-the-scrolls-of-kouga.json](./335695-crypto-fantasy-the-scrolls-of-kouga.json) |
 | CryptoClickers | 218162 | [218162-cryptoclickers.json](./218162-cryptoclickers.json) |
 | Crypts of Death | 115658 | [115658-crypts-of-death.json](./115658-crypts-of-death.json) |
+| Crysis Wreckage | 51292 | [51292-crysis-wreckage.json](./51292-crysis-wreckage.json) |
 | Crystal Confines | 69319 | [69319-crystal-confines.json](./69319-crystal-confines.json) |
 | Crystal Fantasy | 68033 | [68033-crystal-fantasy.json](./68033-crystal-fantasy.json) |
 | Crystal Gal Mahjong | 123070 | [123070-crystal-gal-mahjong.json](./123070-crystal-gal-mahjong.json) |
