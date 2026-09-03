@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Dreams of Yuri | 339131 | [339131-wandering-dreams-of-yuri.json](./339131-wandering-dreams-of-yuri.json) |
 | Wanderlust | 336914 | [336914-wanderlust.json](./336914-wanderlust.json) |
 | Wangan Midnight | 268764 | [268764-wangan-midnight.json](./268764-wangan-midnight.json) |
+| Wangan Midnight Maximum Tune 3 | 68044 | [68044-wangan-midnight-maximum-tune-3.json](./68044-wangan-midnight-maximum-tune-3.json) |
 | Wangan Midnight Maximum Tune 3DX | 315268 | [315268-wangan-midnight-maximum-tune-3dx.json](./315268-wangan-midnight-maximum-tune-3dx.json) |
 | Wangan Midnight Maximum Tune 3DX+ | 315269 | [315269-wangan-midnight-maximum-tune-3dx.json](./315269-wangan-midnight-maximum-tune-3dx.json) |
 | Wangan Midnight Maximum Tune 5DX | 315270 | [315270-wangan-midnight-maximum-tune-5dx.json](./315270-wangan-midnight-maximum-tune-5dx.json) |
@@ -449,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Hentai Survivors | 233782 | [233782-wizard-hentai-survivors.json](./233782-wizard-hentai-survivors.json) |
 | Wizard Lady | 248929 | [248929-wizard-lady.json](./248929-wizard-lady.json) |
 | Wizard Man | 211927 | [211927-wizard-man.json](./211927-wizard-man.json) |
+| Wizard of Wall Street | 68043 | [68043-wizard-of-wall-street.json](./68043-wizard-of-wall-street.json) |
 | Wizard with a Gun: Bounty Hunter Pack | 293391 | [293391-wizard-with-a-gun-bounty-hunter-pack.json](./293391-wizard-with-a-gun-bounty-hunter-pack.json) |
 | Wizard's Beard | 277606 | [277606-wizards-beard.json](./277606-wizards-beard.json) |
 | Wizard's Words | 105966 | [105966-wizards-words.json](./105966-wizards-words.json) |
