@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis | 210282 | [210282-nemesis.json](./210282-nemesis.json) |
 | Nemesis - RPG | 143084 | [143084-nemesis-rpg.json](./143084-nemesis-rpg.json) |
 | Nemesis '90 Kai | 314677 | [314677-nemesis-90-kai.json](./314677-nemesis-90-kai.json) |
+| Nemesis the Warlock | 37187 | [37187-nemesis-the-warlock.json](./37187-nemesis-the-warlock.json) |
 | Nemo | 303778 | [303778-nemo.json](./303778-nemo.json) |
 | Nemo: Puzzle Pack II | 303779 | [303779-nemo-puzzle-pack-ii.json](./303779-nemo-puzzle-pack-ii.json) |
 | Neo 2045 | 148536 | [148536-neo-2045.json](./148536-neo-2045.json) |
