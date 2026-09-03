@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Rescue Tale | 241040 | [241040-neko-rescue-tale.json](./241040-neko-rescue-tale.json) |
 | Neko Samurai | 212468 | [212468-neko-samurai.json](./212468-neko-samurai.json) |
 | Neko's Rage | 251840 | [251840-nekos-rage.json](./251840-nekos-rage.json) |
+| Nelda Nockbladder's Anatomy Lesson | 73284 | [73284-nelda-nockbladders-anatomy-lesson.json](./73284-nelda-nockbladders-anatomy-lesson.json) |
 | Nemac IV | 138259 | [138259-nemac-iv.json](./138259-nemac-iv.json) |
 | Nemesis | 210282 | [210282-nemesis.json](./210282-nemesis.json) |
 | Nemesis - RPG | 143084 | [143084-nemesis-rpg.json](./143084-nemesis-rpg.json) |
