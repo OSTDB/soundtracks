@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tears of Adria | 268226 | [268226-tears-of-adria.json](./268226-tears-of-adria.json) |
 | Tearscape | 318752 | [318752-tearscape.json](./318752-tearscape.json) |
 | Tech Disorder | 291258 | [291258-tech-disorder.json](./291258-tech-disorder.json) |
+| Technician Ted | 84242 | [84242-technician-ted.json](./84242-technician-ted.json) |
 | Technuclear | 180812 | [180812-technuclear.json](./180812-technuclear.json) |
 | Tecmo Bowl: Kickoff | 264889 | [264889-tecmo-bowl-kickoff.json](./264889-tecmo-bowl-kickoff.json) |
 | Teddy Bear Wars | 131605 | [131605-teddy-bear-wars.json](./131605-teddy-bear-wars.json) |
@@ -352,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Testimony of Help | 268228 | [268228-testimony-of-help.json](./268228-testimony-of-help.json) |
 | Testing Facility | 274181 | [274181-testing-facility.json](./274181-testing-facility.json) |
 | Tether | 186336 | [186336-tether.json](./186336-tether.json) |
+| Tetriller | 84247 | [84247-tetriller.json](./84247-tetriller.json) |
 | Tetris | 180279 | [180279-tetris.json](./180279-tetris.json) |
 | Tetris | 185669 | [185669-tetris.json](./185669-tetris.json) |
 | Tetris | 215381 | [215381-tetris.json](./215381-tetris.json) |
@@ -1354,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World Next Door: Deluxe Edition | 124800 | [124800-the-world-next-door-deluxe-edition.json](./124800-the-world-next-door-deluxe-edition.json) |
 | The World of Golden Eggs: Nori Nori Rhythm-kei - Nissan Note Original Version | 268205 | [268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json](./268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json) |
 | The World's Hardest Game: On Steam | 262689 | [262689-the-worlds-hardest-game-on-steam.json](./262689-the-worlds-hardest-game-on-steam.json) |
+| The X Factor Sing | 84261 | [84261-the-x-factor-sing.json](./84261-the-x-factor-sing.json) |
 | The Yellow Quiz | 114365 | [114365-the-yellow-quiz.json](./114365-the-yellow-quiz.json) |
 | The You Testament: The 2D Coming | 234312 | [234312-the-you-testament-the-2d-coming.json](./234312-the-you-testament-the-2d-coming.json) |
 | The Zombie Slayers | 329958 | [329958-the-zombie-slayers.json](./329958-the-zombie-slayers.json) |
@@ -1396,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Think Logic! Sudoku: Binary - Suguru | 231081 | [231081-think-logic-sudoku-binary-suguru.json](./231081-think-logic-sudoku-binary-suguru.json) |
 | Think Tap Turn | 100815 | [100815-think-tap-turn.json](./100815-think-tap-turn.json) |
 | Thinkin' Science: Zap! | 243422 | [243422-thinkin-science-zap.json](./243422-thinkin-science-zap.json) |
+| ThinkTanks | 84240 | [84240-thinktanks.json](./84240-thinktanks.json) |
 | Third | 233784 | [233784-third.json](./233784-third.json) |
 | Third Crisis | 187542 | [187542-third-crisis.json](./187542-third-crisis.json) |
 | Third Iteration | 322394 | [322394-third-iteration.json](./322394-third-iteration.json) |
