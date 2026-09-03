@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pashah to Henshin: Beauty Academy | 327622 | [327622-pashah-to-henshin-beauty-academy.json](./327622-pashah-to-henshin-beauty-academy.json) |
 | Pashtet | 113705 | [113705-pashtet.json](./113705-pashtet.json) |
 | Paskal's Path | 213646 | [213646-paskals-path.json](./213646-paskals-path.json) |
+| Paso Comic PuruPuru Paradise: Santa Claus Tokushuu | 62213 | [62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json](./62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json) |
 | Pass On | 183076 | [183076-pass-on.json](./183076-pass-on.json) |
 | Passage | 204687 | [204687-passage.json](./204687-passage.json) |
 | Passage | 209700 | [209700-passage.json](./209700-passage.json) |
@@ -338,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Permadeath | 337442 | [337442-permadeath.json](./337442-permadeath.json) |
 | Permafrost | 302147 | [302147-permafrost.json](./302147-permafrost.json) |
 | Permanence TD | 195256 | [195256-permanence-td.json](./195256-permanence-td.json) |
+| Permanent Daylight | 62194 | [62194-permanent-daylight.json](./62194-permanent-daylight.json) |
 | Perpession | 334506 | [334506-perpession.json](./334506-perpession.json) |
 | PerPuzzle | 105911 | [105911-perpuzzle.json](./105911-perpuzzle.json) |
 | Perrengue de escritor | 341894 | [341894-perrengue-de-escritor.json](./341894-perrengue-de-escritor.json) |
@@ -747,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plummet Panic | 317618 | [317618-plummet-panic.json](./317618-plummet-panic.json) |
 | Plunder | 113748 | [113748-plunder.json](./113748-plunder.json) |
 | Plunger Simulator | 165653 | [165653-plunger-simulator.json](./165653-plunger-simulator.json) |
+| Plus Plum 2 | 62227 | [62227-plus-plum-2.json](./62227-plus-plum-2.json) |
 | Plushie Bomber | 237083 | [237083-plushie-bomber.json](./237083-plushie-bomber.json) |
 | Plust: Loving U So True | 239874 | [239874-plust-loving-u-so-true.json](./239874-plust-loving-u-so-true.json) |
 | Plutonia 3: Going to Surface | 260951 | [260951-plutonia-3-going-to-surface.json](./260951-plutonia-3-going-to-surface.json) |
