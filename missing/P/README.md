@@ -892,6 +892,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Music GB: Animation Melody | 209619 | [209619-popn-music-gb-animation-melody.json](./209619-popn-music-gb-animation-melody.json) |
 | Pop'n Music Iroha | 79935 | [79935-popn-music-iroha.json](./79935-popn-music-iroha.json) |
 | Pop'n Music Lapistoria | 79936 | [79936-popn-music-lapistoria.json](./79936-popn-music-lapistoria.json) |
+| Pop'n Music Portable | 67314 | [67314-popn-music-portable.json](./67314-popn-music-portable.json) |
+| Pop'n Music Sengoku Retsuden | 67315 | [67315-popn-music-sengoku-retsuden.json](./67315-popn-music-sengoku-retsuden.json) |
+| Pop'n Music the Movie | 67316 | [67316-popn-music-the-movie.json](./67316-popn-music-the-movie.json) |
 | Pop4 | 134028 | [134028-pop4.json](./134028-pop4.json) |
 | Popeye | 232703 | [232703-popeye.json](./232703-popeye.json) |
 | PopGerm Classic | 253021 | [253021-popgerm-classic.json](./253021-popgerm-classic.json) |
@@ -999,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Fray | 244469 | [244469-primal-fray.json](./244469-primal-fray.json) |
 | Primal Hearts | 159312 | [159312-primal-hearts.json](./159312-primal-hearts.json) |
 | Primal Hearts 2 | 159313 | [159313-primal-hearts-2.json](./159313-primal-hearts-2.json) |
+| Primal Image Vol.1 | 67313 | [67313-primal-image-vol-1.json](./67313-primal-image-vol-1.json) |
 | Primal Planet | 243924 | [243924-primal-planet.json](./243924-primal-planet.json) |
 | Primavera Lihbor | 295538 | [295538-primavera-lihbor.json](./295538-primavera-lihbor.json) |
 | Prime | 291783 | [291783-prime.json](./291783-prime.json) |
@@ -1049,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Garden | 331099 | [331099-private-garden.json](./331099-private-garden.json) |
 | Prizefighters | 239914 | [239914-prizefighters.json](./239914-prizefighters.json) |
 | Pro Cycling 2009 | 68004 | [68004-pro-cycling-2009.json](./68004-pro-cycling-2009.json) |
+| Pro Cycling Manager 2010 | 67311 | [67311-pro-cycling-manager-2010.json](./67311-pro-cycling-manager-2010.json) |
 | Pro Evolution Soccer 2010 | 240462 | [240462-pro-evolution-soccer-2010.json](./240462-pro-evolution-soccer-2010.json) |
 | Pro Evolution Soccer 2011 | 240463 | [240463-pro-evolution-soccer-2011.json](./240463-pro-evolution-soccer-2011.json) |
 | Pro Evolution Soccer 2011 | 240464 | [240464-pro-evolution-soccer-2011.json](./240464-pro-evolution-soccer-2011.json) |
