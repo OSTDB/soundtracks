@@ -55,6 +55,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint | 94739 | [94739-saint.json](./94739-saint.json) |
 | Saint Kotar: Digital Deluxe Edition | 246621 | [246621-saint-kotar-digital-deluxe-edition.json](./246621-saint-kotar-digital-deluxe-edition.json) |
 | Saint Seiya: Legends of Justice | 209634 | [209634-saint-seiya-legends-of-justice.json](./209634-saint-seiya-legends-of-justice.json) |
+| Saint Seiya: Ougon Densetsu | 48655 | [48655-saint-seiya-ougon-densetsu.json](./48655-saint-seiya-ougon-densetsu.json) |
+| Saint Seiya: Ougon Densetsu - Kanketsu-hen | 48654 | [48654-saint-seiya-ougon-densetsu-kanketsu-hen.json](./48654-saint-seiya-ougon-densetsu-kanketsu-hen.json) |
 | Sainth | 126003 | [126003-sainth.json](./126003-sainth.json) |
 | Saints of Virtue | 67312 | [67312-saints-of-virtue.json](./67312-saints-of-virtue.json) |
 | Saints Row: The Heist & The Hazardous | 249476 | [249476-saints-row-the-heist-and-the-hazardous.json](./249476-saints-row-the-heist-and-the-hazardous.json) |
@@ -64,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakata Goro Kudan no Renju Kyoushitsu | 97859 | [97859-sakata-goro-kudan-no-renju-kyoushitsu.json](./97859-sakata-goro-kudan-no-renju-kyoushitsu.json) |
 | Sakatsuku: Pro Soccer Club wo Tsukurou! | 63298 | [63298-sakatsuku-pro-soccer-club-wo-tsukurou.json](./63298-sakatsuku-pro-soccer-club-wo-tsukurou.json) |
 | Saki: Achiga-Hen Episode of Side-A Portable | 135902 | [135902-saki-achiga-hen-episode-of-side-a-portable.json](./135902-saki-achiga-hen-episode-of-side-a-portable.json) |
+| Sakigake!! Otokojuku: Shippuu Ichi Gou Sei | 48674 | [48674-sakigake-otokojuku-shippuu-ichi-gou-sei.json](./48674-sakigake-otokojuku-shippuu-ichi-gou-sei.json) |
 | Saku the Covert Agent | 310181 | [310181-saku-the-covert-agent.json](./310181-saku-the-covert-agent.json) |
 | Sakura Day 2 Mahjong | 100216 | [100216-sakura-day-2-mahjong.json](./100216-sakura-day-2-mahjong.json) |
 | Sakura Halloween | 135891 | [135891-sakura-halloween.json](./135891-sakura-halloween.json) |
@@ -817,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
 | Sillouhettes of Phobos | 274212 | [274212-sillouhettes-of-phobos.json](./274212-sillouhettes-of-phobos.json) |
 | Silly Royale: Devil Amongst Us | 242233 | [242233-silly-royale-devil-amongst-us.json](./242233-silly-royale-devil-amongst-us.json) |
+| Silva Saga | 48708 | [48708-silva-saga.json](./48708-silva-saga.json) |
 | SilvaGunner: Rebooted | 326957 | [326957-silvagunner-rebooted.json](./326957-silvagunner-rebooted.json) |
 | Silver Blade of Gods' End | 301602 | [301602-silver-blade-of-gods-end.json](./301602-silver-blade-of-gods-end.json) |
 | Silver Falls: Ghoul Busters | 208583 | [208583-silver-falls-ghoul-busters.json](./208583-silver-falls-ghoul-busters.json) |
@@ -1589,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkle Snapshots | 67332 | [67332-sparkle-snapshots.json](./67332-sparkle-snapshots.json) |
 | Sparky Marky: Episode 3 | 258178 | [258178-sparky-marky-episode-3.json](./258178-sparky-marky-episode-3.json) |
 | Sparrow Solitaire | 209649 | [209649-sparrow-solitaire.json](./209649-sparrow-solitaire.json) |
+| Spartan X 2 | 48650 | [48650-spartan-x-2.json](./48650-spartan-x-2.json) |
 | Spattle Cats | 115045 | [115045-spattle-cats.json](./115045-spattle-cats.json) |
 | Spawn | 49969 | [49969-spawn.json](./49969-spawn.json) |
 | Speak Lies | 127360 | [127360-speak-lies.json](./127360-speak-lies.json) |
@@ -1959,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steampunch | 335075 | [335075-steampunch.json](./335075-steampunch.json) |
 | Steamworld Dig 2 + Steamworld Dig | 218691 | [218691-steamworld-dig-2-steamworld-dig.json](./218691-steamworld-dig-2-steamworld-dig.json) |
 | Steamy Sextet | 127997 | [127997-steamy-sextet.json](./127997-steamy-sextet.json) |
+| STED: Iseki Wakusei no Yabou | 48703 | [48703-sted-iseki-wakusei-no-yabou.json](./48703-sted-iseki-wakusei-no-yabou.json) |
 | Steel | 329915 | [329915-steel.json](./329915-steel.json) |
 | Steel Covenant | 339665 | [339665-steel-covenant.json](./339665-steel-covenant.json) |
 | Steel Division 2: Nemesis - Battle of Rimini | 143080 | [143080-steel-division-2-nemesis-battle-of-rimini.json](./143080-steel-division-2-nemesis-battle-of-rimini.json) |
@@ -2220,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suika Jelly Game | 310174 | [310174-suika-jelly-game.json](./310174-suika-jelly-game.json) |
 | Suiren | 131578 | [131578-suiren.json](./131578-suiren.json) |
 | Suite PreCure: Happy Oshare Harmony | 327601 | [327601-suite-precure-happy-oshare-harmony.json](./327601-suite-precure-happy-oshare-harmony.json) |
+| Sukeban Deka III | 48684 | [48684-sukeban-deka-iii.json](./48684-sukeban-deka-iii.json) |
 | Sukutte: Save Me... | 130358 | [130358-sukutte-save-me.json](./130358-sukutte-save-me.json) |
 | Sultan of Egypt | 195788 | [195788-sultan-of-egypt.json](./195788-sultan-of-egypt.json) |
 | Sum | 252995 | [252995-sum.json](./252995-sum.json) |
@@ -2254,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunforge Solar Survival | 322980 | [322980-sunforge-solar-survival.json](./322980-sunforge-solar-survival.json) |
 | Sunken Brawl | 75147 | [75147-sunken-brawl.json](./75147-sunken-brawl.json) |
 | Sunken Heads | 138821 | [138821-sunken-heads.json](./138821-sunken-heads.json) |
+| Sunman | 48651 | [48651-sunman.json](./48651-sunman.json) |
 | Sunny Beach | 189205 | [189205-sunny-beach.json](./189205-sunny-beach.json) |
 | Sunny Shine on the Funny Side of Life | 123605 | [123605-sunny-shine-on-the-funny-side-of-life.json](./123605-sunny-shine-on-the-funny-side-of-life.json) |
 | Sunrider 4: The Captain's Return | 234352 | [234352-sunrider-4-the-captains-return.json](./234352-sunrider-4-the-captains-return.json) |
@@ -2272,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Angling | 126629 | [126629-super-angling.json](./126629-super-angling.json) |
 | Super Animal Royale: Season 0 | 204696 | [204696-super-animal-royale-season-0.json](./204696-super-animal-royale-season-0.json) |
 | Super Animal Royale: Season 0.5 | 204698 | [204698-super-animal-royale-season-0-5.json](./204698-super-animal-royale-season-0-5.json) |
+| Super Arabian | 48665 | [48665-super-arabian.json](./48665-super-arabian.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - Isle of the Cat Girls | 225902 | [225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json](./225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json) |
 | Super Ate in Wonderland | 195192 | [195192-super-ate-in-wonderland.json](./195192-super-ate-in-wonderland.json) |
 | Super Auto Racing | 245581 | [245581-super-auto-racing.json](./245581-super-auto-racing.json) |
@@ -2279,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Beast Activation | 311823 | [311823-super-beast-activation.json](./311823-super-beast-activation.json) |
 | Super Big 2 | 63331 | [63331-super-big-2.json](./63331-super-big-2.json) |
 | Super Big Bro Quest | 321775 | [321775-super-big-bro-quest.json](./321775-super-big-bro-quest.json) |
+| Super Black Onyx | 48704 | [48704-super-black-onyx.json](./48704-super-black-onyx.json) |
 | Super Blocmania 3D + 3D Brick Blaster | 91431 | [91431-super-blocmania-3d-3d-brick-blaster.json](./91431-super-blocmania-3d-3d-brick-blaster.json) |
 | Super Bo Noise | 316988 | [316988-super-bo-noise.json](./316988-super-bo-noise.json) |
 | Super Bomberman R Online: Premium Pack | 150653 | [150653-super-bomberman-r-online-premium-pack.json](./150653-super-bomberman-r-online-premium-pack.json) |
@@ -2342,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Impostor Bros. | 202379 | [202379-super-impostor-bros.json](./202379-super-impostor-bros.json) |
 | Super Jack | 265965 | [265965-super-jack.json](./265965-super-jack.json) |
 | Super Jack The Ripper | 336895 | [336895-super-jack-the-ripper.json](./336895-super-jack-the-ripper.json) |
+| Super Jeopardy! | 48698 | [48698-super-jeopardy.json](./48698-super-jeopardy.json) |
 | Super Jet Juck | 111685 | [111685-super-jet-juck.json](./111685-super-jet-juck.json) |
 | Super Jigsaw Puzzle: Generations - Abandoned Places 2 | 155625 | [155625-super-jigsaw-puzzle-generations-abandoned-places-2.json](./155625-super-jigsaw-puzzle-generations-abandoned-places-2.json) |
 | Super Jigsaw Puzzle: Generations - Abandoned Places Puzzles | 155643 | [155643-super-jigsaw-puzzle-generations-abandoned-places-puzzles.json](./155643-super-jigsaw-puzzle-generations-abandoned-places-puzzles.json) |
@@ -2391,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kids Racing: Snow Edition | 249491 | [249491-super-kids-racing-snow-edition.json](./249491-super-kids-racing-snow-edition.json) |
 | Super Killer Hornets: Resurrection | 54413 | [54413-super-killer-hornets-resurrection.json](./54413-super-killer-hornets-resurrection.json) |
 | Super Kobushi de Naguru Chan | 218123 | [218123-super-kobushi-de-naguru-chan.json](./218123-super-kobushi-de-naguru-chan.json) |
+| Super Lode Runner II | 48676 | [48676-super-lode-runner-ii.json](./48676-super-lode-runner-ii.json) |
 | Super Lone Survivor | 140603 | [140603-super-lone-survivor.json](./140603-super-lone-survivor.json) |
 | Super Luigi Wii: The Emissary | 259276 | [259276-super-luigi-wii-the-emissary.json](./259276-super-luigi-wii-the-emissary.json) |
 | Super Mabus Mania | 223160 | [223160-super-mabus-mania.json](./223160-super-mabus-mania.json) |
@@ -2523,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen Z | 79342 | [79342-super-robot-taisen-z.json](./79342-super-robot-taisen-z.json) |
 | Super Robot Wars 30: Limited Edition | 155096 | [155096-super-robot-wars-30-limited-edition.json](./155096-super-robot-wars-30-limited-edition.json) |
 | Super Robot Wars BX | 79337 | [79337-super-robot-wars-bx.json](./79337-super-robot-wars-bx.json) |
+| Super Rugby | 48664 | [48664-super-rugby.json](./48664-super-rugby.json) |
 | Super Russian Roulette | 307936 | [307936-super-russian-roulette.json](./307936-super-russian-roulette.json) |
 | Super Samtong | 92509 | [92509-super-samtong.json](./92509-super-samtong.json) |
 | Super Seals Float | 149594 | [149594-super-seals-float.json](./149594-super-seals-float.json) |
