@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Gang | 270943 | [270943-rage-gang.json](./270943-rage-gang.json) |
 | Rage Night | 224764 | [224764-rage-night.json](./224764-rage-night.json) |
 | Rage Racing 3D | 242799 | [242799-rage-racing-3d.json](./242799-rage-racing-3d.json) |
+| Raging Blades | 43324 | [43324-raging-blades.json](./43324-raging-blades.json) |
 | Raging Bytes | 246079 | [246079-raging-bytes.json](./246079-raging-bytes.json) |
 | Ragnania HD | 109711 | [109711-ragnania-hd.json](./109711-ragnania-hd.json) |
 | Ragnarok Idle Adventure Plus | 335646 | [335646-ragnarok-idle-adventure-plus.json](./335646-ragnarok-idle-adventure-plus.json) |
@@ -183,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raybound | 145683 | [145683-raybound.json](./145683-raybound.json) |
 | RayCity | 116391 | [116391-raycity.json](./116391-raycity.json) |
 | Raygraze | 196323 | [196323-raygraze.json](./196323-raygraze.json) |
+| Rayman 10th Anniversary | 43339 | [43339-rayman-10th-anniversary.json](./43339-rayman-10th-anniversary.json) |
 | Rayman 3: Hoodlum Havoc Print Studio | 61654 | [61654-rayman-3-hoodlum-havoc-print-studio.json](./61654-rayman-3-hoodlum-havoc-print-studio.json) |
 | Rayman By His Fans | 61097 | [61097-rayman-by-his-fans.json](./61097-rayman-by-his-fans.json) |
 | Rayman Garden | 61095 | [61095-rayman-garden.json](./61095-rayman-garden.json) |
@@ -322,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Colony | 139466 | [139466-red-colony.json](./139466-red-colony.json) |
 | Red Conquer | 186862 | [186862-red-conquer.json](./186862-red-conquer.json) |
 | Red Crimes: Hidden Murders | 108508 | [108508-red-crimes-hidden-murders.json](./108508-red-crimes-hidden-murders.json) |
+| Red Dead Redemption: Myths and Mavericks | 43356 | [43356-red-dead-redemption-myths-and-mavericks.json](./43356-red-dead-redemption-myths-and-mavericks.json) |
 | Red Door Ylw Door | 308556 | [308556-red-door-ylw-door.json](./308556-red-door-ylw-door.json) |
 | Red Echo | 270941 | [270941-red-echo.json](./270941-red-echo.json) |
 | Red Embrace: Paradisus | 186332 | [186332-red-embrace-paradisus.json](./186332-red-embrace-paradisus.json) |
