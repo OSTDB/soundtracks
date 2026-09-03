@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actias | 204681 | [204681-actias.json](./204681-actias.json) |
 | Action 52 | 238205 | [238205-action-52.json](./238205-action-52.json) |
 | Action Ball Deluxe | 177040 | [177040-action-ball-deluxe.json](./177040-action-ball-deluxe.json) |
+| Action Bass | 43937 | [43937-action-bass.json](./43937-action-bass.json) |
 | Action Biker Starring Clumsy Colin | 45338 | [45338-action-biker-starring-clumsy-colin.json](./45338-action-biker-starring-clumsy-colin.json) |
 | Action Card Football | 109662 | [109662-action-card-football.json](./109662-action-card-football.json) |
 | Action Games Bundle (5 in 1) | 231074 | [231074-action-games-bundle-5-in-1.json](./231074-action-games-bundle-5-in-1.json) |
@@ -297,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adelantado. 4 Aztec skulls | 104665 | [104665-adelantado-4-aztec-skulls.json](./104665-adelantado-4-aztec-skulls.json) |
 | Aden | 224770 | [224770-aden.json](./224770-aden.json) |
 | Adhvan Chakra | 328214 | [328214-adhvan-chakra.json](./328214-adhvan-chakra.json) |
+| Adidas Power Soccer 98 | 43935 | [43935-adidas-power-soccer-98.json](./43935-adidas-power-soccer-98.json) |
 | Adj | 76620 | [76620-adj.json](./76620-adj.json) |
 | Adonis | 200708 | [200708-adonis.json](./200708-adonis.json) |
 | Adora and My Treasure | 301598 | [301598-adora-and-my-treasure.json](./301598-adora-and-my-treasure.json) |
@@ -434,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agents of Mayhem: Day One Edition | 52015 | [52015-agents-of-mayhem-day-one-edition.json](./52015-agents-of-mayhem-day-one-edition.json) |
 | Agharta: The Hollow Earth | 73280 | [73280-agharta-the-hollow-earth.json](./73280-agharta-the-hollow-earth.json) |
 | Agi Gongnyong Dooly | 86107 | [86107-agi-gongnyong-dooly.json](./86107-agi-gongnyong-dooly.json) |
+| Agile Warrior F-111X | 43936 | [43936-agile-warrior-f-111x.json](./43936-agile-warrior-f-111x.json) |
 | Agnostiko | 224212 | [224212-agnostiko.json](./224212-agnostiko.json) |
 | Agony VR | 197402 | [197402-agony-vr.json](./197402-agony-vr.json) |
 | Agony: Lords of Hell | 211421 | [211421-agony-lords-of-hell.json](./211421-agony-lords-of-hell.json) |
@@ -472,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Combat MF | 121009 | [121009-air-combat-mf.json](./121009-air-combat-mf.json) |
 | Air Fury | 251819 | [251819-air-fury.json](./251819-air-fury.json) |
 | Air Glide | 312323 | [312323-air-glide.json](./312323-air-glide.json) |
+| Air Hockey | 43934 | [43934-air-hockey.json](./43934-air-hockey.json) |
 | Air Hockey: Championship 3D+ | 239889 | [239889-air-hockey-championship-3d.json](./239889-air-hockey-championship-3d.json) |
 | Air Race | 249506 | [249506-air-race.json](./249506-air-race.json) |
 | Air Racer: Sky Traffic | 232156 | [232156-air-racer-sky-traffic.json](./232156-air-racer-sky-traffic.json) |
@@ -554,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alexandra Fortune: Mystery of the Lunar Archipelago | 177047 | [177047-alexandra-fortune-mystery-of-the-lunar-archipelago.json](./177047-alexandra-fortune-mystery-of-the-lunar-archipelago.json) |
 | AlexCity 1: Bank Heist | 272009 | [272009-alexcity-1-bank-heist.json](./272009-alexcity-1-bank-heist.json) |
 | AlexCity 1: Bank Heist | 272010 | [272010-alexcity-1-bank-heist.json](./272010-alexcity-1-bank-heist.json) |
+| Alexi Lalas International Soccer | 43933 | [43933-alexi-lalas-international-soccer.json](./43933-alexi-lalas-international-soccer.json) |
 | Alexios the Protector | 235463 | [235463-alexios-the-protector.json](./235463-alexios-the-protector.json) |
 | ALF's Thinking Skills | 78720 | [78720-alfs-thinking-skills.json](./78720-alfs-thinking-skills.json) |
 | ALF's U.S. Geography | 94247 | [94247-alfs-u-s-geography.json](./94247-alfs-u-s-geography.json) |
@@ -639,6 +644,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All one click | 267086 | [267086-all-one-click.json](./267086-all-one-click.json) |
 | All Star Baseball | 91416 | [91416-all-star-baseball.json](./91416-all-star-baseball.json) |
 | All Star Darts | 79309 | [79309-all-star-darts.json](./79309-all-star-darts.json) |
+| All Star Racing | 43931 | [43931-all-star-racing.json](./43931-all-star-racing.json) |
+| All Star Racing 2 | 43930 | [43930-all-star-racing-2.json](./43930-all-star-racing-2.json) |
 | All Star Soccer | 81432 | [81432-all-star-soccer.json](./81432-all-star-soccer.json) |
 | All the Mods 9: No Frills | 291253 | [291253-all-the-mods-9-no-frills.json](./291253-all-the-mods-9-no-frills.json) |
 | All Things Equal I Would Prefer It If We Were Safe & Lonely Instead of Together & Afraid But I Cannot Deny That It Is Hard; or: A Solitary Spacecraft. | 133997 | [133997-all-things-equal-i-would-prefer-it-if-we-were-safe-and-lonely-instead-of-together-and-afraid-but-i-cannot-deny-that-it-is-hard-or-a-solitary-spacecraft.json](./133997-all-things-equal-i-would-prefer-it-if-we-were-safe-and-lonely-instead-of-together-and-afraid-but-i-cannot-deny-that-it-is-hard-or-a-solitary-spacecraft.json) |
@@ -646,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All We Need | 263212 | [263212-all-we-need.json](./263212-all-we-need.json) |
 | All Will Fall | 328273 | [328273-all-will-fall.json](./328273-all-will-fall.json) |
 | All-in-One Mahjong 2 | 89225 | [89225-all-in-one-mahjong-2.json](./89225-all-in-one-mahjong-2.json) |
+| All-Star Slammin' D-Ball | 43929 | [43929-all-star-slammin-d-ball.json](./43929-all-star-slammin-d-ball.json) |
 | Allan Border's Cricket | 77392 | [77392-allan-borders-cricket.json](./77392-allan-borders-cricket.json) |
 | Allan Poe's Nightmare | 112315 | [112315-allan-poes-nightmare.json](./112315-allan-poes-nightmare.json) |
 | Allegro Molto wo Hakobu Game | 339094 | [339094-allegro-molto-wo-hakobu-game.json](./339094-allegro-molto-wo-hakobu-game.json) |
@@ -726,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Isekai: Legends of Nipponia | 277012 | [277012-american-isekai-legends-of-nipponia.json](./277012-american-isekai-legends-of-nipponia.json) |
 | American Marksman | 239912 | [239912-american-marksman.json](./239912-american-marksman.json) |
 | American Patriots: The Swamp Fox | 111018 | [111018-american-patriots-the-swamp-fox.json](./111018-american-patriots-the-swamp-fox.json) |
+| American Pool | 43928 | [43928-american-pool.json](./43928-american-pool.json) |
 | American Truck Simulator: Goodyear Tires Pack | 223687 | [223687-american-truck-simulator-goodyear-tires-pack.json](./223687-american-truck-simulator-goodyear-tires-pack.json) |
 | American Truck Simulator: Lode King & Prestige Trailers Pack | 223688 | [223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json](./223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json) |
 | American Truck Simulator: Special Transport | 268771 | [268771-american-truck-simulator-special-transport.json](./268771-american-truck-simulator-special-transport.json) |
@@ -875,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Vampire Slayer | 118421 | [118421-anime-vampire-slayer.json](./118421-anime-vampire-slayer.json) |
 | Anime Wave Simulator | 156668 | [156668-anime-wave-simulator.json](./156668-anime-wave-simulator.json) |
 | Animetic Story Game 1: Cardcaptor Sakura | 132867 | [132867-animetic-story-game-1-cardcaptor-sakura.json](./132867-animetic-story-game-1-cardcaptor-sakura.json) |
+| Animorphs: Shattered Reality | 43927 | [43927-animorphs-shattered-reality.json](./43927-animorphs-shattered-reality.json) |
 | Anise Flowers | 185129 | [185129-anise-flowers.json](./185129-anise-flowers.json) |
 | Anna: The Series Test | 156645 | [156645-anna-the-series-test.json](./156645-anna-the-series-test.json) |
 | Anna's Gram | 94252 | [94252-annas-gram.json](./94252-annas-gram.json) |
@@ -1044,6 +1054,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
 | Arcade Party | 241076 | [241076-arcade-party.json](./241076-arcade-party.json) |
 | Arcade Shooting Gallery | 50626 | [50626-arcade-shooting-gallery.json](./50626-arcade-shooting-gallery.json) |
+| Arcade's Greatest Hits: The Atari Collection 2 | 43925 | [43925-arcades-greatest-hits-the-atari-collection-2.json](./43925-arcades-greatest-hits-the-atari-collection-2.json) |
+| Arcade's Greatest Hits: The Midway Collection 2 | 43924 | [43924-arcades-greatest-hits-the-midway-collection-2.json](./43924-arcades-greatest-hits-the-midway-collection-2.json) |
 | Arcadium: Space Odyssey | 255971 | [255971-arcadium-space-odyssey.json](./255971-arcadium-space-odyssey.json) |
 | Arcadius | 156126 | [156126-arcadius.json](./156126-arcadius.json) |
 | Arcana Ritter | 91422 | [91422-arcana-ritter.json](./91422-arcana-ritter.json) |
@@ -1173,6 +1185,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arms Trade Tycoon: Tanks | 190232 | [190232-arms-trade-tycoon-tanks.json](./190232-arms-trade-tycoon-tanks.json) |
 | Army Defence | 256519 | [256519-army-defence.json](./256519-army-defence.json) |
 | Army Driver | 204087 | [204087-army-driver.json](./204087-army-driver.json) |
+| Army Men World War: Team Assault | 43947 | [43947-army-men-world-war-team-assault.json](./43947-army-men-world-war-team-assault.json) |
+| Army Men: World War - Final Front | 43948 | [43948-army-men-world-war-final-front.json](./43948-army-men-world-war-final-front.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim - Halloween | 172178 | [172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json](./172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim 2 - DLC 2 | 254147 | [254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json](./254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json) |
 | Army Rage | 63889 | [63889-army-rage.json](./63889-army-rage.json) |
