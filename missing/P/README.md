@@ -240,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawn of the Dead | 107909 | [107909-pawn-of-the-dead.json](./107909-pawn-of-the-dead.json) |
 | Pawn Shop Simulator | 208605 | [208605-pawn-shop-simulator.json](./208605-pawn-shop-simulator.json) |
 | Pawnholm | 292302 | [292302-pawnholm.json](./292302-pawnholm.json) |
+| Paws | 94253 | [94253-paws.json](./94253-paws.json) |
 | Paws for Adventure | 204108 | [204108-paws-for-adventure.json](./204108-paws-for-adventure.json) |
 | Pawsitive | 298873 | [298873-pawsitive.json](./298873-pawsitive.json) |
 | Pax | 274201 | [274201-pax.json](./274201-pax.json) |
@@ -889,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerWash Simulator: The Muckingham Files 2 | 264337 | [264337-powerwash-simulator-the-muckingham-files-2.json](./264337-powerwash-simulator-the-muckingham-files-2.json) |
 | PowerWash Simulator: Warhammer 40,000 Content Pack | 251220 | [251220-powerwash-simulator-warhammer-40-000-content-pack.json](./251220-powerwash-simulator-warhammer-40-000-content-pack.json) |
 | PowerZ | 146317 | [146317-powerz.json](./146317-powerz.json) |
+| PQ: The Party Quiz Game | 94250 | [94250-pq-the-party-quiz-game.json](./94250-pq-the-party-quiz-game.json) |
 | Pray Game | 167306 | [167306-pray-game.json](./167306-pray-game.json) |
 | Precision Point VR | 270949 | [270949-precision-point-vr.json](./270949-precision-point-vr.json) |
 | Predatory Islands | 251832 | [251832-predatory-islands.json](./251832-predatory-islands.json) |
