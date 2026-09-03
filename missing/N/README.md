@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Power | 242772 | [242772-next-power.json](./242772-next-power.json) |
 | Next Room | 292280 | [292280-next-room.json](./292280-next-room.json) |
 | Next Step | 178655 | [178655-next-step.json](./178655-next-step.json) |
+| Nexus 2 | 92499 | [92499-nexus-2.json](./92499-nexus-2.json) |
 | Nexus Rumble: The Ultimate Showdown | 304869 | [304869-nexus-rumble-the-ultimate-showdown.json](./304869-nexus-rumble-the-ultimate-showdown.json) |
 | Neyyah | 133474 | [133474-neyyah.json](./133474-neyyah.json) |
 | Nezumi Man | 276480 | [276480-nezumi-man.json](./276480-nezumi-man.json) |
@@ -398,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Fair Play | 172755 | [172755-no-fair-play.json](./172755-no-fair-play.json) |
 | No Light | 150684 | [150684-no-light.json](./150684-no-light.json) |
 | No Love | 115048 | [115048-no-love.json](./115048-no-love.json) |
+| No Luca No | 92496 | [92496-no-luca-no.json](./92496-no-luca-no.json) |
 | No More Heroes: Red Zone Edition | 116373 | [116373-no-more-heroes-red-zone-edition.json](./116373-no-more-heroes-red-zone-edition.json) |
 | No Rest | 302688 | [302688-no-rest.json](./302688-no-rest.json) |
 | No Son of Mine | 201314 | [201314-no-son-of-mine.json](./201314-no-son-of-mine.json) |
