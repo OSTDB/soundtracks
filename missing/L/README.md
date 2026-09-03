@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letters & Legends | 292319 | [292319-letters-and-legends.json](./292319-letters-and-legends.json) |
 | Letters of Bernard Thorne | 337466 | [337466-letters-of-bernard-thorne.json](./337466-letters-of-bernard-thorne.json) |
 | Letters to the Metro | 182548 | [182548-letters-to-the-metro.json](./182548-letters-to-the-metro.json) |
+| Level Squared | 82890 | [82890-level-squared.json](./82890-level-squared.json) |
 | Levers! | 200195 | [200195-levers.json](./200195-levers.json) |
 | Levi's Garden | 142503 | [142503-levis-garden.json](./142503-levis-garden.json) |
 | Leviathan | 341320 | [341320-leviathan.json](./341320-leviathan.json) |
