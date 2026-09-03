@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vantage Master Portable | 196855 | [196855-vantage-master-portable.json](./196855-vantage-master-portable.json) |
 | vApe Escape | 115700 | [115700-vape-escape.json](./115700-vape-escape.json) |
 | Vapor Memories | 184122 | [184122-vapor-memories.json](./184122-vapor-memories.json) |
+| VarDragons | 57114 | [57114-vardragons.json](./57114-vardragons.json) |
 | Varenje: Don't Touch The Berries | 271501 | [271501-varenje-dont-touch-the-berries.json](./271501-varenje-dont-touch-the-berries.json) |
 | Vari Dungeon | 220869 | [220869-vari-dungeon.json](./220869-vari-dungeon.json) |
 | Variant: Limits | 69317 | [69317-variant-limits.json](./69317-variant-limits.json) |
@@ -101,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vayan | 216494 | [216494-vayan.json](./216494-vayan.json) |
 | VB Mario Land | 175949 | [175949-vb-mario-land.json](./175949-vb-mario-land.json) |
 | Vector the Crocodile in Sonic the Hedgehog | 198530 | [198530-vector-the-crocodile-in-sonic-the-hedgehog.json](./198530-vector-the-crocodile-in-sonic-the-hedgehog.json) |
+| Vector Vendetta | 57100 | [57100-vector-vendetta.json](./57100-vector-vendetta.json) |
 | Vector Zone | 278687 | [278687-vector-zone.json](./278687-vector-zone.json) |
 | Vectris | 273099 | [273099-vectris.json](./273099-vectris.json) |
 | VectroMirror | 140006 | [140006-vectromirror.json](./140006-vectromirror.json) |
