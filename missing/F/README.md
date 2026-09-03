@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Online 2 | 327624 | [327624-fantasy-online-2.json](./327624-fantasy-online-2.json) |
 | Fantasy Tavern Simulator | 237088 | [237088-fantasy-tavern-simulator.json](./237088-fantasy-tavern-simulator.json) |
 | Fantasy Up | 259286 | [259286-fantasy-up.json](./259286-fantasy-up.json) |
+| Fantasy World | 68687 | [68687-fantasy-world.json](./68687-fantasy-world.json) |
 | Fantasy Zone | 202914 | [202914-fantasy-zone.json](./202914-fantasy-zone.json) |
 | Fap&Click | 331100 | [331100-fap-and-click.json](./331100-fap-and-click.json) |
 | Far East of Eden III: Namida | 80576 | [80576-far-east-of-eden-iii-namida.json](./80576-far-east-of-eden-iii-namida.json) |
@@ -271,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fencing Girl | 186863 | [186863-fencing-girl.json](./186863-fencing-girl.json) |
 | Fency Krabby | 185146 | [185146-fency-krabby.json](./185146-fency-krabby.json) |
 | Féngmó zhī Shí | 156692 | [156692-fengmo-zhi-shi.json](./156692-fengmo-zhi-shi.json) |
+| Fengse Huanxiang 5: Chi Yue Zhanzheng | 68690 | [68690-fengse-huanxiang-5-chi-yue-zhanzheng.json](./68690-fengse-huanxiang-5-chi-yue-zhanzheng.json) |
 | Fēngshén Yīngjié Zhuán | 93061 | [93061-fengshen-yingjie-zhuan.json](./93061-fengshen-yingjie-zhuan.json) |
 | Fenix | 298305 | [298305-fenix.json](./298305-fenix.json) |
 | Fernageddon | 258196 | [258196-fernageddon.json](./258196-fernageddon.json) |
@@ -323,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter X Fighter | 211947 | [211947-fighter-x-fighter.json](./211947-fighter-x-fighter.json) |
 | Fighter's Fury | 72082 | [72082-fighters-fury.json](./72082-fighters-fury.json) |
 | Fighters Wizards | 131595 | [131595-fighters-wizards.json](./131595-fighters-wizards.json) |
+| Fighting Box | 68657 | [68657-fighting-box.json](./68657-fighting-box.json) |
 | Fighting Fantasy Classics | 102159 | [102159-fighting-fantasy-classics.json](./102159-fighting-fantasy-classics.json) |
 | Fighting Fantasy: Island of the Lizard King | 175407 | [175407-fighting-fantasy-island-of-the-lizard-king.json](./175407-fighting-fantasy-island-of-the-lizard-king.json) |
 | Fighting Force Collection | 306653 | [306653-fighting-force-collection.json](./306653-fighting-force-collection.json) |
@@ -756,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Mini Kingdoms War | 340240 | [340240-four-mini-kingdoms-war.json](./340240-four-mini-kingdoms-war.json) |
 | Four Seasons - A fan-created Avatar Game | 143730 | [143730-four-seasons-a-fan-created-avatar-game.json](./143730-four-seasons-a-fan-created-avatar-game.json) |
 | Four Second Forever | 302121 | [302121-four-second-forever.json](./302121-four-second-forever.json) |
+| FourFourTwo Touchline Passion | 68711 | [68711-fourfourtwo-touchline-passion.json](./68711-fourfourtwo-touchline-passion.json) |
 | Fourspell Survivors Online | 224247 | [224247-fourspell-survivors-online.json](./224247-fourspell-survivors-online.json) |
 | Fourthy | 129199 | [129199-fourthy.json](./129199-fourthy.json) |
 | Fox and Bunny | 117780 | [117780-fox-and-bunny.json](./117780-fox-and-bunny.json) |
