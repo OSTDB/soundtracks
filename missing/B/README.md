@@ -276,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Capacity | 332815 | [332815-battle-capacity.json](./332815-battle-capacity.json) |
 | Battle Cars | 332256 | [332256-battle-cars.json](./332256-battle-cars.json) |
 | Battle Charge | 211426 | [211426-battle-charge.json](./211426-battle-charge.json) |
+| Battle Cross | 95412 | [95412-battle-cross.json](./95412-battle-cross.json) |
 | Battle Dawn | 139433 | [139433-battle-dawn.json](./139433-battle-dawn.json) |
 | Battle Dungeon: Risen | 175438 | [175438-battle-dungeon-risen.json](./175438-battle-dungeon-risen.json) |
 | Battle Fishing Masters | 190198 | [190198-battle-fishing-masters.json](./190198-battle-fishing-masters.json) |
@@ -327,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattlePets | 300983 | [300983-battlepets.json](./300983-battlepets.json) |
 | Battlerite Royale: All Champions Pack | 168365 | [168365-battlerite-royale-all-champions-pack.json](./168365-battlerite-royale-all-champions-pack.json) |
 | Battleship | 317631 | [317631-battleship.json](./317631-battleship.json) |
+| Battleship | 95434 | [95434-battleship.json](./95434-battleship.json) |
 | Battleships and Carriers: WW2 Battleship Game | 111706 | [111706-battleships-and-carriers-ww2-battleship-game.json](./111706-battleships-and-carriers-ww2-battleship-game.json) |
 | BattleSound | 151739 | [151739-battlesound.json](./151739-battlesound.json) |
 | Battlestar Galactica Deadlock: Sin and Sacrifice | 115672 | [115672-battlestar-galactica-deadlock-sin-and-sacrifice.json](./115672-battlestar-galactica-deadlock-sin-and-sacrifice.json) |
@@ -676,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blonsters | 304877 | [304877-blonsters.json](./304877-blonsters.json) |
 | Blood & Gold: Caribbean! - The Zombiest Adventures | 124837 | [124837-blood-and-gold-caribbean-the-zombiest-adventures.json](./124837-blood-and-gold-caribbean-the-zombiest-adventures.json) |
 | Blood and Ruby | 135251 | [135251-blood-and-ruby.json](./135251-blood-and-ruby.json) |
+| Blood II: The Chosen - The Nightmare Levels | 95451 | [95451-blood-ii-the-chosen-the-nightmare-levels.json](./95451-blood-ii-the-chosen-the-nightmare-levels.json) |
 | Blood Midnight Blossom | 258221 | [258221-blood-midnight-blossom.json](./258221-blood-midnight-blossom.json) |
 | Blood Night | 326976 | [326976-blood-night.json](./326976-blood-night.json) |
 | Blood of Calamity | 319375 | [319375-blood-of-calamity.json](./319375-blood-of-calamity.json) |
