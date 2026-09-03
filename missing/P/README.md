@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 Reload: Persona 5 Royal BGM Set | 301573 | [301573-persona-3-reload-persona-5-royal-bgm-set.json](./301573-persona-3-reload-persona-5-royal-bgm-set.json) |
 | Persona 3 Reload: Persona 5 Royal Phantom Thieves Costume Set | 301577 | [301577-persona-3-reload-persona-5-royal-phantom-thieves-costume-set.json](./301577-persona-3-reload-persona-5-royal-phantom-thieves-costume-set.json) |
 | Persona 3 Reload: Persona 5 Royal Shujin Academy Costume Set | 301572 | [301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json](./301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json) |
+| Persona 4: Golden - Solid Gold Premium Edition | 89923 | [89923-persona-4-golden-solid-gold-premium-edition.json](./89923-persona-4-golden-solid-gold-premium-edition.json) |
 | Persona 4: Golden Grimoire Edition | 273106 | [273106-persona-4-golden-grimoire-edition.json](./273106-persona-4-golden-grimoire-edition.json) |
 | Persona 4: Golden Midnight Channel Edition | 273107 | [273107-persona-4-golden-midnight-channel-edition.json](./273107-persona-4-golden-midnight-channel-edition.json) |
 | Persona 4: Racing All Afternoon | 134690 | [134690-persona-4-racing-all-afternoon.json](./134690-persona-4-racing-all-afternoon.json) |
@@ -629,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planes | 262093 | [262093-planes.json](./262093-planes.json) |
 | Planes Combat | 278150 | [278150-planes-combat.json](./278150-planes-combat.json) |
 | Planes.io | 194038 | [194038-planes-io.json](./194038-planes-io.json) |
+| Planet Assault | 89936 | [89936-planet-assault.json](./89936-planet-assault.json) |
 | Planet Crossword | 220841 | [220841-planet-crossword.json](./220841-planet-crossword.json) |
 | Planet Fights | 239323 | [239323-planet-fights.json](./239323-planet-fights.json) |
 | Planet Joker | 91954 | [91954-planet-joker.json](./91954-planet-joker.json) |
