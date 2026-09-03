@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Motorcycle Simulator | 100826 | [100826-ultimate-motorcycle-simulator.json](./100826-ultimate-motorcycle-simulator.json) |
 | Ultimate Panzer | 216490 | [216490-ultimate-panzer.json](./216490-ultimate-panzer.json) |
 | Ultimate Pro Basketball GM | 228122 | [228122-ultimate-pro-basketball-gm.json](./228122-ultimate-pro-basketball-gm.json) |
+| Ultimate Ride | 95444 | [95444-ultimate-ride.json](./95444-ultimate-ride.json) |
 | Ultimate Rivals: The Rink | 127349 | [127349-ultimate-rivals-the-rink.json](./127349-ultimate-rivals-the-rink.json) |
 | Ultimate Sheep Raccoon | 325276 | [325276-ultimate-sheep-raccoon.json](./325276-ultimate-sheep-raccoon.json) |
 | Ultimate Sliding Puzzle: Arcade Pack | 270391 | [270391-ultimate-sliding-puzzle-arcade-pack.json](./270391-ultimate-sliding-puzzle-arcade-pack.json) |
@@ -54,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Wall Defense Force | 149566 | [149566-ultimate-wall-defense-force.json](./149566-ultimate-wall-defense-force.json) |
 | Ultire: Balls Out | 124259 | [124259-ultire-balls-out.json](./124259-ultire-balls-out.json) |
 | Ultra Age: Rebirth Project | 224203 | [224203-ultra-age-rebirth-project.json](./224203-ultra-age-rebirth-project.json) |
+| Ultra Fighters | 95454 | [95454-ultra-fighters.json](./95454-ultra-fighters.json) |
 | Ultra Ninja Soul | 151755 | [151755-ultra-ninja-soul.json](./151755-ultra-ninja-soul.json) |
 | Ultracore | 107188 | [107188-ultracore.json](./107188-ultracore.json) |
 | Ultraflow 2 | 129790 | [129790-ultraflow-2.json](./129790-ultraflow-2.json) |
@@ -64,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Um Jammer Lammy Now | 243420 | [243420-um-jammer-lammy-now.json](./243420-um-jammer-lammy-now.json) |
 | UmaNetto. Full Preved! | 252372 | [252372-umanetto-full-preved.json](./252372-umanetto-full-preved.json) |
 | Umblight | 313487 | [313487-umblight.json](./313487-umblight.json) |
+| Umbra | 95415 | [95415-umbra.json](./95415-umbra.json) |
 | Umbra Fields | 272571 | [272571-umbra-fields.json](./272571-umbra-fields.json) |
 | Umbra: Journey Home | 173300 | [173300-umbra-journey-home.json](./173300-umbra-journey-home.json) |
 | Umbral Core | 219257 | [219257-umbral-core.json](./219257-umbral-core.json) |
