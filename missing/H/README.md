@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handball Manager 2022 | 193497 | [193497-handball-manager-2022.json](./193497-handball-manager-2022.json) |
 | Handdogg | 185154 | [185154-handdogg.json](./185154-handdogg.json) |
 | Hands of Time | 49927 | [49927-hands-of-time.json](./49927-hands-of-time.json) |
+| Hands On! Tangrams | 48043 | [48043-hands-on-tangrams.json](./48043-hands-on-tangrams.json) |
 | HandsON | 158232 | [158232-handson.json](./158232-handson.json) |
 | HandyCopter | 89959 | [89959-handycopter.json](./89959-handycopter.json) |
 | Hanerutchi | 229961 | [229961-hanerutchi.json](./229961-hanerutchi.json) |
@@ -123,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hansel and Gretel | 215350 | [215350-hansel-and-gretel.json](./215350-hansel-and-gretel.json) |
 | Hanz Puppetguns | 106619 | [106619-hanz-puppetguns.json](./106619-hanz-puppetguns.json) |
 | Hàoyuè Kōnghuá | 112991 | [112991-haoyue-konghua.json](./112991-haoyue-konghua.json) |
+| Happily Ever After | 48024 | [48024-happily-ever-after.json](./48024-happily-ever-after.json) |
 | Happiness | 184120 | [184120-happiness.json](./184120-happiness.json) |
 | Happy Aquarium | 250638 | [250638-happy-aquarium.json](./250638-happy-aquarium.json) |
 | Happy Cat Tavern | 209603 | [209603-happy-cat-tavern.json](./209603-happy-cat-tavern.json) |
@@ -673,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holly: A Christmas Tale | 177046 | [177046-holly-a-christmas-tale.json](./177046-holly-a-christmas-tale.json) |
 | Hollybound | 262653 | [262653-hollybound.json](./262653-hollybound.json) |
 | Hollywood Monsters | 71516 | [71516-hollywood-monsters.json](./71516-hollywood-monsters.json) |
+| Hollywood Squares | 48056 | [48056-hollywood-squares.json](./48056-hollywood-squares.json) |
 | Hollywoodle | 325824 | [325824-hollywoodle.json](./325824-hollywoodle.json) |
 | Hololive Treasure Mountain | 311821 | [311821-hololive-treasure-mountain.json](./311821-hololive-treasure-mountain.json) |
 | Holonglide | 106611 | [106611-holonglide.json](./106611-holonglide.json) |
@@ -875,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huge Enemy - Worldbreakers | 107855 | [107855-huge-enemy-worldbreakers.json](./107855-huge-enemy-worldbreakers.json) |
 | Hugo Gold | 265969 | [265969-hugo-gold.json](./265969-hugo-gold.json) |
 | Hugo: Bukkazoom | 165052 | [165052-hugo-bukkazoom.json](./165052-hugo-bukkazoom.json) |
+| Hugo: Magic in the Trollwoods | 48023 | [48023-hugo-magic-in-the-trollwoods.json](./48023-hugo-magic-in-the-trollwoods.json) |
 | Huíwén Píngtái Tiàoyuè | 156136 | [156136-huiwen-pingtai-tiaoyue.json](./156136-huiwen-pingtai-tiaoyue.json) |
 | Hulu Has Live Sports '20: The Video Game | 125457 | [125457-hulu-has-live-sports-20-the-video-game.json](./125457-hulu-has-live-sports-20-the-video-game.json) |
 | Hululuup | 239907 | [239907-hululuup.json](./239907-hululuup.json) |
