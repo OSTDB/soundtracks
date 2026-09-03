@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dai-3-ji Super Robot Taisen Alpha: Shuuen no Ginga he | 79338 | [79338-dai-3-ji-super-robot-taisen-alpha-shuuen-no-ginga-he.json](./79338-dai-3-ji-super-robot-taisen-alpha-shuuen-no-ginga-he.json) |
 | Daibouken: Saint Elmos no Kiseki | 97337 | [97337-daibouken-saint-elmos-no-kiseki.json](./97337-daibouken-saint-elmos-no-kiseki.json) |
 | Daibutsu Paradise | 151748 | [151748-daibutsu-paradise.json](./151748-daibutsu-paradise.json) |
+| Daikoukai Jidai V | 56530 | [56530-daikoukai-jidai-v.json](./56530-daikoukai-jidai-v.json) |
 | Daily Chthonicle | 57103 | [57103-daily-chthonicle.json](./57103-daily-chthonicle.json) |
 | Daily Driven Racer | 334474 | [334474-daily-driven-racer.json](./334474-daily-driven-racer.json) |
 | Daily Quizz | 78701 | [78701-daily-quizz.json](./78701-daily-quizz.json) |
@@ -185,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dataflow | 112353 | [112353-dataflow.json](./112353-dataflow.json) |
 | Date A Live: Rio Reincarnation HD - Limited Edition | 96104 | [96104-date-a-live-rio-reincarnation-hd-limited-edition.json](./96104-date-a-live-rio-reincarnation-hd-limited-edition.json) |
 | Date Night Bowling | 137109 | [137109-date-night-bowling.json](./137109-date-night-bowling.json) |
+| Date or Die | 56508 | [56508-date-or-die.json](./56508-date-or-die.json) |
 | Date with Detective Wolf | 303276 | [303276-date-with-detective-wolf.json](./303276-date-with-detective-wolf.json) |
 | Date with Foxgirl | 250007 | [250007-date-with-foxgirl.json](./250007-date-with-foxgirl.json) |
 | Dating My High School Bully | 205817 | [205817-dating-my-high-school-bully.json](./205817-dating-my-high-school-bully.json) |
@@ -559,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devwill Too ZX | 333924 | [333924-devwill-too-zx.json](./333924-devwill-too-zx.json) |
 | Dex & Akane | 315824 | [315824-dex-and-akane.json](./315824-dex-and-akane.json) |
 | Dexterous: Time to Steal | 278159 | [278159-dexterous-time-to-steal.json](./278159-dexterous-time-to-steal.json) |
+| Dezaemon | 56533 | [56533-dezaemon.json](./56533-dezaemon.json) |
 | Dezaemon Kids! | 98463 | [98463-dezaemon-kids.json](./98463-dezaemon-kids.json) |
 | Dharma Dojo | 79948 | [79948-dharma-dojo.json](./79948-dharma-dojo.json) |
 | Diaball | 176485 | [176485-diaball.json](./176485-diaball.json) |
@@ -610,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Odyssey: Cosmic Mining | 251205 | [251205-dig-odyssey-cosmic-mining.json](./251205-dig-odyssey-cosmic-mining.json) |
 | Digger | 172721 | [172721-digger.json](./172721-digger.json) |
 | Diggerman | 101578 | [101578-diggerman.json](./101578-diggerman.json) |
+| Digimon Fortune | 56488 | [56488-digimon-fortune.json](./56488-digimon-fortune.json) |
 | Digimon Story: Lost Evolution | 67307 | [67307-digimon-story-lost-evolution.json](./67307-digimon-story-lost-evolution.json) |
 | Digimon Super Rumble | 202964 | [202964-digimon-super-rumble.json](./202964-digimon-super-rumble.json) |
 | Digital Audio Wasteland | 297818 | [297818-digital-audio-wasteland.json](./297818-digital-audio-wasteland.json) |
