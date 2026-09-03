@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge Run | 197935 | [197935-edge-run.json](./197935-edge-run.json) |
 | Edgy Fantasy Battle Deluxe | 184632 | [184632-edgy-fantasy-battle-deluxe.json](./184632-edgy-fantasy-battle-deluxe.json) |
 | Edmund Puzzle and The Mystery of the Sacred Relics | 269268 | [269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json](./269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json) |
+| Education Series: General Knowledge Builder | 80603 | [80603-education-series-general-knowledge-builder.json](./80603-education-series-general-knowledge-builder.json) |
 | Edward's Manor | 319349 | [319349-edwards-manor.json](./319349-edwards-manor.json) |
 | Eevoo II | 233769 | [233769-eevoo-ii.json](./233769-eevoo-ii.json) |
 | Effective Immediately | 310180 | [310180-effective-immediately.json](./310180-effective-immediately.json) |
@@ -225,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enclosure 3-D | 215929 | [215929-enclosure-3-d.json](./215929-enclosure-3-d.json) |
 | Encode | 159861 | [159861-encode.json](./159861-encode.json) |
 | Encodya: Save the World Edition | 154533 | [154533-encodya-save-the-world-edition.json](./154533-encodya-save-the-world-edition.json) |
+| Encounter | 81445 | [81445-encounter.json](./81445-encounter.json) |
 | End of Days | 151183 | [151183-end-of-days.json](./151183-end-of-days.json) |
 | End of War 1945 | 127377 | [127377-end-of-war-1945.json](./127377-end-of-war-1945.json) |
 | Endeavor | 228677 | [228677-endeavor.json](./228677-endeavor.json) |
@@ -506,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expediente Ñ | 322368 | [322368-expediente-n.json](./322368-expediente-n.json) |
 | Expendable | 317640 | [317640-expendable.json](./317640-expendable.json) |
 | Experimental | 163972 | [163972-experimental.json](./163972-experimental.json) |
+| Experimental Game Pack 01 | 80612 | [80612-experimental-game-pack-01.json](./80612-experimental-game-pack-01.json) |
 | Explo Bee | 233745 | [233745-explo-bee.json](./233745-explo-bee.json) |
 | Exploaris: Vermis story | 167837 | [167837-exploaris-vermis-story.json](./167837-exploaris-vermis-story.json) |
 | Explode on Contact | 148546 | [148546-explode-on-contact.json](./148546-explode-on-contact.json) |
