@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 8: Ultimate Pack | 293397 | [293397-tekken-8-ultimate-pack.json](./293397-tekken-8-ultimate-pack.json) |
 | Tekken Tag Tournament 2: Prologue | 143749 | [143749-tekken-tag-tournament-2-prologue.json](./143749-tekken-tag-tournament-2-prologue.json) |
 | Tekken Tag Tournament HD | 143748 | [143748-tekken-tag-tournament-hd.json](./143748-tekken-tag-tournament-hd.json) |
+| Telepath RPG: Servants of God | 65532 | [65532-telepath-rpg-servants-of-god.json](./65532-telepath-rpg-servants-of-god.json) |
 | Teleportal Customer Service | 181374 | [181374-teleportal-customer-service.json](./181374-teleportal-customer-service.json) |
 | Telescape | 267059 | [267059-telescape.json](./267059-telescape.json) |
 | Telethugs | 188079 | [188079-telethugs.json](./188079-telethugs.json) |
@@ -619,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkest Paths: Missing Files | 235985 | [235985-the-darkest-paths-missing-files.json](./235985-the-darkest-paths-missing-files.json) |
 | The Darkest Woods 2 | 111711 | [111711-the-darkest-woods-2.json](./111711-the-darkest-woods-2.json) |
 | The Darkness | 331150 | [331150-the-darkness.json](./331150-the-darkness.json) |
+| The Dating Game | 65534 | [65534-the-dating-game.json](./65534-the-dating-game.json) |
 | The Dawn is Inevitable | 249461 | [249461-the-dawn-is-inevitable.json](./249461-the-dawn-is-inevitable.json) |
 | The Dawn: Sniper's Way | 189207 | [189207-the-dawn-snipers-way.json](./189207-the-dawn-snipers-way.json) |
 | The Day Nothing Happened | 70379 | [70379-the-day-nothing-happened.json](./70379-the-day-nothing-happened.json) |
