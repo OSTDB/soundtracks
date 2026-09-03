@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Expert 2019 | 112334 | [112334-farm-expert-2019.json](./112334-farm-expert-2019.json) |
 | Farm Frenzy: Animal Country | 201278 | [201278-farm-frenzy-animal-country.json](./201278-farm-frenzy-animal-country.json) |
 | Farm Frenzy: Forever and Ever! | 201279 | [201279-farm-frenzy-forever-and-ever.json](./201279-farm-frenzy-forever-and-ever.json) |
+| Farm Invasion USA | 61125 | [61125-farm-invasion-usa.json](./61125-farm-invasion-usa.json) |
 | Farm Jam: Animal Parking Game | 247216 | [247216-farm-jam-animal-parking-game.json](./247216-farm-jam-animal-parking-game.json) |
 | Farm Manager 2021 | 139459 | [139459-farm-manager-2021.json](./139459-farm-manager-2021.json) |
 | Farm Manager 2021: Brewing & Winemaking | 171606 | [171606-farm-manager-2021-brewing-and-winemaking.json](./171606-farm-manager-2021-brewing-and-winemaking.json) |
@@ -1015,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FurryFury: Smash & Roll | 116361 | [116361-furryfury-smash-and-roll.json](./116361-furryfury-smash-and-roll.json) |
 | Furs of Fury | 149049 | [149049-furs-of-fury.json](./149049-furs-of-fury.json) |
 | Further | 291743 | [291743-further.json](./291743-further.json) |
+| Further Beyond Fighting | 61121 | [61121-further-beyond-fighting.json](./61121-further-beyond-fighting.json) |
 | Further Still: Survivors | 213006 | [213006-further-still-survivors.json](./213006-further-still-survivors.json) |
 | Fururu Project : Ruby | 114366 | [114366-fururu-project-ruby.json](./114366-fururu-project-ruby.json) |
 | Fury of Dracula: Digital Edition | 129189 | [129189-fury-of-dracula-digital-edition.json](./129189-fury-of-dracula-digital-edition.json) |
