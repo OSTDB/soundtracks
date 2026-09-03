@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Jikkyou Honoo no Striker | 220856 | [220856-j-league-jikkyou-honoo-no-striker.json](./220856-j-league-jikkyou-honoo-no-striker.json) |
 | J.League Jikkyou Winning Eleven 3 | 220865 | [220865-j-league-jikkyou-winning-eleven-3.json](./220865-j-league-jikkyou-winning-eleven-3.json) |
 | J.League Soccer Prime Goal 3 | 220831 | [220831-j-league-soccer-prime-goal-3.json](./220831-j-league-soccer-prime-goal-3.json) |
+| J.League Supporter Soccer | 64980 | [64980-j-league-supporter-soccer.json](./64980-j-league-supporter-soccer.json) |
 | J'ai Trouvé! Le Manoir Hanté | 140600 | [140600-jai-trouve-le-manoir-hante.json](./140600-jai-trouve-le-manoir-hante.json) |
 | Ja-in | 274206 | [274206-ja-in.json](./274206-ja-in.json) |
 | Jacal | 223662 | [223662-jacal.json](./223662-jacal.json) |
