@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest | 196845 | [196845-jewel-quest.json](./196845-jewel-quest.json) |
 | Jewel Quest Solitaire II | 53250 | [53250-jewel-quest-solitaire-ii.json](./53250-jewel-quest-solitaire-ii.json) |
 | Jewel Time Deluxe | 110322 | [110322-jewel-time-deluxe.json](./110322-jewel-time-deluxe.json) |
+| Jewel Witch Tale | 52007 | [52007-jewel-witch-tale.json](./52007-jewel-witch-tale.json) |
 | Jewels Deluxe | 108478 | [108478-jewels-deluxe.json](./108478-jewels-deluxe.json) |
 | Jewels of the Mysterious Woodland: Fairies Magical Jewel Match Quest | 171596 | [171596-jewels-of-the-mysterious-woodland-fairies-magical-jewel-match-quest.json](./171596-jewels-of-the-mysterious-woodland-fairies-magical-jewel-match-quest.json) |
 | JFCBP1 | 273114 | [273114-jfcbp1.json](./273114-jfcbp1.json) |
