@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match It Fast | 104091 | [104091-match-it-fast.json](./104091-match-it-fast.json) |
 | Match It Sexy | 260383 | [260383-match-it-sexy.json](./260383-match-it-sexy.json) |
 | Match Kill Survive | 309679 | [309679-match-kill-survive.json](./309679-match-kill-survive.json) |
+| Match Up | 81405 | [81405-match-up.json](./81405-match-up.json) |
 | Match War | 258710 | [258710-match-war.json](./258710-match-war.json) |
 | Matchbox Missions: Air, Land and Sea Rescue / Emergency Response | 137696 | [137696-matchbox-missions-air-land-and-sea-rescue-emergency-response.json](./137696-matchbox-missions-air-land-and-sea-rescue-emergency-response.json) |
 | Matched | 253009 | [253009-matched.json](./253009-matched.json) |
@@ -386,6 +387,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Problem Challenge | 101616 | [101616-math-problem-challenge.json](./101616-math-problem-challenge.json) |
 | Math puzzle PRO 2018 | 105941 | [105941-math-puzzle-pro-2018.json](./105941-math-puzzle-pro-2018.json) |
 | Math Puzzles PRO | 105958 | [105958-math-puzzles-pro.json](./105958-math-puzzles-pro.json) |
+| Mathe Pfiffikus 1 - 1995 | 81404 | [81404-mathe-pfiffikus-1-1995.json](./81404-mathe-pfiffikus-1-1995.json) |
+| Mathe Pfiffikus 2 | 81403 | [81403-mathe-pfiffikus-2.json](./81403-mathe-pfiffikus-2.json) |
+| Mathe Pfiffikus 2009 | 81394 | [81394-mathe-pfiffikus-2009.json](./81394-mathe-pfiffikus-2009.json) |
 | Mathomatics | 190215 | [190215-mathomatics.json](./190215-mathomatics.json) |
 | Maths Planets | 105932 | [105932-maths-planets.json](./105932-maths-planets.json) |
 | Mato Anomalies: Day One Edition | 228732 | [228732-mato-anomalies-day-one-edition.json](./228732-mato-anomalies-day-one-edition.json) |
@@ -772,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minami no Shima ni Buta Ga Ita | 267647 | [267647-minami-no-shima-ni-buta-ga-ita.json](./267647-minami-no-shima-ni-buta-ga-ita.json) |
 | Minarai Majo to Mokomoko Friends | 222497 | [222497-minarai-majo-to-mokomoko-friends.json](./222497-minarai-majo-to-mokomoko-friends.json) |
 | Mind Diver | 236519 | [236519-mind-diver.json](./236519-mind-diver.json) |
+| Mind Games | 81416 | [81416-mind-games.json](./81416-mind-games.json) |
 | Mind Her Manor | 312325 | [312325-mind-her-manor.json](./312325-mind-her-manor.json) |
 | Mind Shadows | 151180 | [151180-mind-shadows.json](./151180-mind-shadows.json) |
 | Mind the Abyss | 310175 | [310175-mind-the-abyss.json](./310175-mind-the-abyss.json) |
@@ -1040,6 +1045,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Rise: Title Update 4 | 252382 | [252382-monster-hunter-rise-title-update-4.json](./252382-monster-hunter-rise-title-update-4.json) |
 | Monster Hunter Rise: Title Update 5 | 252383 | [252383-monster-hunter-rise-title-update-5.json](./252383-monster-hunter-rise-title-update-5.json) |
 | Monster Hunter: Poogie Race | 313482 | [313482-monster-hunter-poogie-race.json](./313482-monster-hunter-poogie-race.json) |
+| Monster Hunter: World - Digital Deluxe Edition | 81354 | [81354-monster-hunter-world-digital-deluxe-edition.json](./81354-monster-hunter-world-digital-deluxe-edition.json) |
+| Monster Hunter: World - Steelbook Edition | 81355 | [81355-monster-hunter-world-steelbook-edition.json](./81355-monster-hunter-world-steelbook-edition.json) |
 | Monster Hunting: Incremental Grind Forever | 341332 | [341332-monster-hunting-incremental-grind-forever.json](./341332-monster-hunting-incremental-grind-forever.json) |
 | Monster Impossible Truck No Limit Adventure Drive Simulator Sport 3D | 227516 | [227516-monster-impossible-truck-no-limit-adventure-drive-simulator-sport-3d.json](./227516-monster-impossible-truck-no-limit-adventure-drive-simulator-sport-3d.json) |
 | Monster in the Dark: Remaster | 195275 | [195275-monster-in-the-dark-remaster.json](./195275-monster-in-the-dark-remaster.json) |
