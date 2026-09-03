@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everbloom | 178663 | [178663-everbloom.json](./178663-everbloom.json) |
 | Everdark Tower | 121744 | [121744-everdark-tower.json](./121744-everdark-tower.json) |
 | Everdream Valley: GOG Exclusive DLC | 250652 | [250652-everdream-valley-gog-exclusive-dlc.json](./250652-everdream-valley-gog-exclusive-dlc.json) |
+| Everest | 95437 | [95437-everest.json](./95437-everest.json) |
 | Evergreen: Cacti Expansion | 298326 | [298326-evergreen-cacti-expansion.json](./298326-evergreen-cacti-expansion.json) |
 | Evergreen: Pines Expansion | 298325 | [298325-evergreen-pines-expansion.json](./298325-evergreen-pines-expansion.json) |
 | Evergrow: Shards of Tomorrow | 337998 | [337998-evergrow-shards-of-tomorrow.json](./337998-evergrow-shards-of-tomorrow.json) |
