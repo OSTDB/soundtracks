@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Trains | 124239 | [124239-war-trains.json](./124239-war-trains.json) |
 | War Yards | 139480 | [139480-war-yards.json](./139480-war-yards.json) |
 | WarBirds II | 72094 | [72094-warbirds-ii.json](./72094-warbirds-ii.json) |
+| WarBirds III | 71557 | [71557-warbirds-iii.json](./71557-warbirds-iii.json) |
 | Warbot Engineer | 337458 | [337458-warbot-engineer.json](./337458-warbot-engineer.json) |
 | Warcos | 185676 | [185676-warcos.json](./185676-warcos.json) |
 | Warden's Will | 190730 | [190730-wardens-will.json](./190730-wardens-will.json) |
@@ -510,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search - Puzzle Game For Kids | 108507 | [108507-word-search-puzzle-game-for-kids.json](./108507-word-search-puzzle-game-for-kids.json) |
 | Word Search & Learn | 233741 | [233741-word-search-and-learn.json](./233741-word-search-and-learn.json) |
 | Word Search Joy | 88270 | [88270-word-search-joy.json](./88270-word-search-joy.json) |
+| Word Spinner | 71546 | [71546-word-spinner.json](./71546-word-spinner.json) |
 | Word Swipe | 101529 | [101529-word-swipe.json](./101529-word-swipe.json) |
 | Word Town: New Crossword Games | 101541 | [101541-word-town-new-crossword-games.json](./101541-word-town-new-crossword-games.json) |
 | Word Training Camp | 130929 | [130929-word-training-camp.json](./130929-word-training-camp.json) |
@@ -583,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds at War: Monitors Only | 117095 | [117095-worlds-at-war-monitors-only.json](./117095-worlds-at-war-monitors-only.json) |
 | Worlds of Aria | 211944 | [211944-worlds-of-aria.json](./211944-worlds-of-aria.json) |
 | Worlds of Billy 2 | 205831 | [205831-worlds-of-billy-2.json](./205831-worlds-of-billy-2.json) |
+| Worlds of Legend: Son of the Empire | 71521 | [71521-worlds-of-legend-son-of-the-empire.json](./71521-worlds-of-legend-son-of-the-empire.json) |
 | Worm Dungeon | 135878 | [135878-worm-dungeon.json](./135878-worm-dungeon.json) |
 | Worm Odyssey | 275914 | [275914-worm-odyssey.json](./275914-worm-odyssey.json) |
 | Wormatozoa | 190722 | [190722-wormatozoa.json](./190722-wormatozoa.json) |
@@ -644,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K23: Cross-Gen Digital Edition | 241078 | [241078-wwe-2k23-cross-gen-digital-edition.json](./241078-wwe-2k23-cross-gen-digital-edition.json) |
 | WWE 2K25: Deadman Edition | 335095 | [335095-wwe-2k25-deadman-edition.json](./335095-wwe-2k25-deadman-edition.json) |
 | WWE 2K25: The Bloodline Edition | 335096 | [335096-wwe-2k25-the-bloodline-edition.json](./335096-wwe-2k25-the-bloodline-edition.json) |
+| WWI: The Great War | 71540 | [71540-wwi-the-great-war.json](./71540-wwi-the-great-war.json) |
 | WWII Eiyuu Retsuden: Saikyou no Tora - Kurt Knispel | 91407 | [91407-wwii-eiyuu-retsuden-saikyou-no-tora-kurt-knispel.json](./91407-wwii-eiyuu-retsuden-saikyou-no-tora-kurt-knispel.json) |
 | WWII Squad Level Land Battles ssp | 295540 | [295540-wwii-squad-level-land-battles-ssp.json](./295540-wwii-squad-level-land-battles-ssp.json) |
 | WWII: Battle Over Europe | 144311 | [144311-wwii-battle-over-europe.json](./144311-wwii-battle-over-europe.json) |
