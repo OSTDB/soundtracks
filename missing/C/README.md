@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle & Myosotis | 178662 | [178662-castle-and-myosotis.json](./178662-castle-and-myosotis.json) |
 | Castle Adventure | 46645 | [46645-castle-adventure.json](./46645-castle-adventure.json) |
 | Castle Creeps Battle | 105908 | [105908-castle-creeps-battle.json](./105908-castle-creeps-battle.json) |
+| Castle Crisis | 40782 | [40782-castle-crisis.json](./40782-castle-crisis.json) |
 | Castle Formers | 154026 | [154026-castle-formers.json](./154026-castle-formers.json) |
 | Castle Hassle | 59452 | [59452-castle-hassle.json](./59452-castle-hassle.json) |
 | Castle of Awa | 104089 | [104089-castle-of-awa.json](./104089-castle-of-awa.json) |
@@ -441,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasing the wind | 150697 | [150697-chasing-the-wind.json](./150697-chasing-the-wind.json) |
 | ChatTDT: Tower Defense Twitch | 306678 | [306678-chattdt-tower-defense-twitch.json](./306678-chattdt-tower-defense-twitch.json) |
 | Cheap Game 3 | 153984 | [153984-cheap-game-3.json](./153984-cheap-game-3.json) |
+| Checkered Flag | 40815 | [40815-checkered-flag.json](./40815-checkered-flag.json) |
 | Checkers Gold | 100162 | [100162-checkers-gold.json](./100162-checkers-gold.json) |
 | Checkers Quest Bundle | 231068 | [231068-checkers-quest-bundle.json](./231068-checkers-quest-bundle.json) |
 | Checkers Saga | 58275 | [58275-checkers-saga.json](./58275-checkers-saga.json) |
@@ -801,9 +803,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudy & Stormy: Pawtastic Adventure | 333911 | [333911-cloudy-and-stormy-pawtastic-adventure.json](./333911-cloudy-and-stormy-pawtastic-adventure.json) |
 | Clover Heart's: Looking for Happiness | 69282 | [69282-clover-hearts-looking-for-happiness.json](./69282-clover-hearts-looking-for-happiness.json) |
 | Cloverheart | 140019 | [140019-cloverheart.json](./140019-cloverheart.json) |
+| Clowns and Balloons | 40781 | [40781-clowns-and-balloons.json](./40781-clowns-and-balloons.json) |
 | CLS: Signal Person | 119778 | [119778-cls-signal-person.json](./119778-cls-signal-person.json) |
 | Clu Clu Land D | 170022 | [170022-clu-clu-land-d.json](./170022-clu-clu-land-d.json) |
 | Clu Clu Land-e | 170007 | [170007-clu-clu-land-e.json](./170007-clu-clu-land-e.json) |
+| Club Drive | 40804 | [40804-club-drive.json](./40804-club-drive.json) |
 | Club Goblin | 184642 | [184642-club-goblin.json](./184642-club-goblin.json) |
 | Club Penguin Brasil | 194619 | [194619-club-penguin-brasil.json](./194619-club-penguin-brasil.json) |
 | Club Penguin Dimensions | 319377 | [319377-club-penguin-dimensions.json](./319377-club-penguin-dimensions.json) |
