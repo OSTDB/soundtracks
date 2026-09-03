@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Follows | 191224 | [191224-ghost-follows.json](./191224-ghost-follows.json) |
 | Ghost Hospital | 111741 | [111741-ghost-hospital.json](./111741-ghost-hospital.json) |
 | Ghost House | 179731 | [179731-ghost-house.json](./179731-ghost-house.json) |
+| Ghost Hunters Academy | 66688 | [66688-ghost-hunters-academy.json](./66688-ghost-hunters-academy.json) |
 | Ghost in the Brain | 263224 | [263224-ghost-in-the-brain.json](./263224-ghost-in-the-brain.json) |
 | Ghost Jumper: Red Hoodie | 315280 | [315280-ghost-jumper-red-hoodie.json](./315280-ghost-jumper-red-hoodie.json) |
 | Ghost Party | 304863 | [304863-ghost-party.json](./304863-ghost-party.json) |
@@ -330,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls X Battle: GXB Global | 104098 | [104098-girls-x-battle-gxb-global.json](./104098-girls-x-battle-gxb-global.json) |
 | Girls! Girls! Girls!? | 219796 | [219796-girls-girls-girls.json](./219796-girls-girls-girls.json) |
 | GiseiHero | 149096 | [149096-giseihero.json](./149096-giseihero.json) |
+| Give My Regards to Broad Street | 66710 | [66710-give-my-regards-to-broad-street.json](./66710-give-my-regards-to-broad-street.json) |
 | GizmoLab VR | 290682 | [290682-gizmolab-vr.json](./290682-gizmolab-vr.json) |
 | Gizmos: Spirit of the Christmas | 156678 | [156678-gizmos-spirit-of-the-christmas.json](./156678-gizmos-spirit-of-the-christmas.json) |
 | Gladiator | 194615 | [194615-gladiator.json](./194615-gladiator.json) |
@@ -424,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goddess Of Swing | 329353 | [329353-goddess-of-swing.json](./329353-goddess-of-swing.json) |
 | Godfall: Primal Update | 312371 | [312371-godfall-primal-update.json](./312371-godfall-primal-update.json) |
 | Godfall: Ultimate Edition | 195237 | [195237-godfall-ultimate-edition.json](./195237-godfall-ultimate-edition.json) |
+| GodFinger | 66697 | [66697-godfinger.json](./66697-godfinger.json) |
 | Godforged: Origins of Ozgalor | 313473 | [313473-godforged-origins-of-ozgalor.json](./313473-godforged-origins-of-ozgalor.json) |
 | Godrop | 292290 | [292290-godrop.json](./292290-godrop.json) |
 | Gods | 142458 | [142458-gods.json](./142458-gods.json) |
@@ -644,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Game 1/5 | 294439 | [294439-great-game-1-5.json](./294439-great-game-1-5.json) |
 | Great Gold Bird, Great Dark Yawn | 223671 | [223671-great-gold-bird-great-dark-yawn.json](./223671-great-gold-bird-great-dark-yawn.json) |
 | Great Hits | 94734 | [94734-great-hits.json](./94734-great-hits.json) |
+| Great Invasions: The Darkages 350-1066 AD | 66718 | [66718-great-invasions-the-darkages-350-1066-ad.json](./66718-great-invasions-the-darkages-350-1066-ad.json) |
 | Great Naval Battles Vol. II: Guadalcanal 1942-43 | 73821 | [73821-great-naval-battles-vol-ii-guadalcanal-1942-43.json](./73821-great-naval-battles-vol-ii-guadalcanal-1942-43.json) |
 | Great Time Trio Remake | 306684 | [306684-great-time-trio-remake.json](./306684-great-time-trio-remake.json) |
 | Great Toy Showdown | 251838 | [251838-great-toy-showdown.json](./251838-great-toy-showdown.json) |
