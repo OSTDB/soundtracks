@@ -357,7 +357,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnosis | 292284 | [292284-gnosis.json](./292284-gnosis.json) |
 | Go Fight Fantastic! | 127364 | [127364-go-fight-fantastic.json](./127364-go-fight-fantastic.json) |
 | Go Go Muffin | 212451 | [212451-go-go-muffin.json](./212451-go-go-muffin.json) |
+| Go Go Poncho! | 89958 | [89958-go-go-poncho.json](./89958-go-go-poncho.json) |
 | Go Go! Flambeau! | 219799 | [219799-go-go-flambeau.json](./219799-go-go-flambeau.json) |
+| Go Guess | 89981 | [89981-go-guess.json](./89981-go-guess.json) |
 | Go Home | 210886 | [210886-go-home.json](./210886-go-home.json) |
 | Go Long! | 136444 | [136444-go-long.json](./136444-go-long.json) |
 | Go to Heck | 214154 | [214154-go-to-heck.json](./214154-go-to-heck.json) |
@@ -700,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilds n Glory | 213001 | [213001-guilds-n-glory.json](./213001-guilds-n-glory.json) |
 | Guillermo Tell | 146307 | [146307-guillermo-tell.json](./146307-guillermo-tell.json) |
 | Guilty | 215389 | [215389-guilty.json](./215389-guilty.json) |
+| Guilty Gear Xrd: Revelator - Let's Rock! Edition | 89928 | [89928-guilty-gear-xrd-revelator-lets-rock-edition.json](./89928-guilty-gear-xrd-revelator-lets-rock-edition.json) |
 | Guilty Gear: Strive - Additional Character 6: Bridget | 213005 | [213005-guilty-gear-strive-additional-character-6-bridget.json](./213005-guilty-gear-strive-additional-character-6-bridget.json) |
 | GuitarFreaks 4thMix & DrumMania 3rdMix | 188659 | [188659-guitarfreaks-4thmix-and-drummania-3rdmix.json](./188659-guitarfreaks-4thmix-and-drummania-3rdmix.json) |
 | Gulag | 268773 | [268773-gulag.json](./268773-gulag.json) |
