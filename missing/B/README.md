@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Buck Hunter Pro Adventure | 328254 | [328254-big-buck-hunter-pro-adventure.json](./328254-big-buck-hunter-pro-adventure.json) |
 | Big Bucks: Trivia Quest | 312355 | [312355-big-bucks-trivia-quest.json](./312355-big-bucks-trivia-quest.json) |
 | Big Catch Bass Fishing | 197944 | [197944-big-catch-bass-fishing.json](./197944-big-catch-bass-fishing.json) |
+| Big Mountain Snowboarding | 88322 | [88322-big-mountain-snowboarding.json](./88322-big-mountain-snowboarding.json) |
 | Big Screen Games: Pack 1 | 197383 | [197383-big-screen-games-pack-1.json](./197383-big-screen-games-pack-1.json) |
 | Big the Cat in Sonic the Hedgehog | 201296 | [201296-big-the-cat-in-sonic-the-hedgehog.json](./201296-big-the-cat-in-sonic-the-hedgehog.json) |
 | Big's Fishing Quest | 329400 | [329400-bigs-fishing-quest.json](./329400-bigs-fishing-quest.json) |
@@ -539,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bimbo Sequencer 2 | 185697 | [185697-bimbo-sequencer-2.json](./185697-bimbo-sequencer-2.json) |
 | Bîme | 251828 | [251828-bime.json](./251828-bime.json) |
 | Bin Weevils | 126020 | [126020-bin-weevils.json](./126020-bin-weevils.json) |
+| Bind: Brain teaser puzzle game | 88292 | [88292-bind-brain-teaser-puzzle-game.json](./88292-bind-brain-teaser-puzzle-game.json) |
 | Bingaboll | 259862 | [259862-bingaboll.json](./259862-bingaboll.json) |
 | Bingo de NouTore: BinTore | 222526 | [222526-bingo-de-noutore-bintore.json](./222526-bingo-de-noutore-bintore.json) |
 | Bingo Infinity | 96082 | [96082-bingo-infinity.json](./96082-bingo-infinity.json) |
@@ -802,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolo Ball | 94224 | [94224-bolo-ball.json](./94224-bolo-ball.json) |
 | Bomb Bomb Bomb | 248900 | [248900-bomb-bomb-bomb.json](./248900-bomb-bomb-bomb.json) |
 | Bomb Bowling | 307307 | [307307-bomb-bowling.json](./307307-bomb-bowling.json) |
+| Bomb Craft Tnt | 88319 | [88319-bomb-craft-tnt.json](./88319-bomb-craft-tnt.json) |
 | Bomb Labyrinth | 99623 | [99623-bomb-labyrinth.json](./99623-bomb-labyrinth.json) |
 | Bomb the Town | 319968 | [319968-bomb-the-town.json](./319968-bomb-the-town.json) |
 | Bombabomb! | 267092 | [267092-bombabomb.json](./267092-bombabomb.json) |
@@ -1063,7 +1066,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Zelda no Densetsu: Inishie no Sekiban - Dai-3-wa | 178063 | [178063-bs-zelda-no-densetsu-inishie-no-sekiban-dai-3-wa.json](./178063-bs-zelda-no-densetsu-inishie-no-sekiban-dai-3-wa.json) |
 | BS Zelda no Densetsu: Inishie no Sekiban - Dai-4-wa | 178064 | [178064-bs-zelda-no-densetsu-inishie-no-sekiban-dai-4-wa.json](./178064-bs-zelda-no-densetsu-inishie-no-sekiban-dai-4-wa.json) |
 | BS2 | 329932 | [329932-bs2.json](./329932-bs2.json) |
+| BSL Winter Games Challenge | 88283 | [88283-bsl-winter-games-challenge.json](./88283-bsl-winter-games-challenge.json) |
 | Bubbits | 319971 | [319971-bubbits.json](./319971-bubbits.json) |
+| Bubble | 88295 | [88295-bubble.json](./88295-bubble.json) |
 | Bubble Attack | 193993 | [193993-bubble-attack.json](./193993-bubble-attack.json) |
 | Bubble Battle | 333378 | [333378-bubble-battle.json](./333378-bubble-battle.json) |
 | Bubble Bobble | 332218 | [332218-bubble-bobble.json](./332218-bubble-bobble.json) |
