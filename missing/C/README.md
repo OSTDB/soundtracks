@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Child of Hope | 190228 | [190228-child-of-hope.json](./190228-child-of-hope.json) |
 | Child of Light: Limited Edition | 166238 | [166238-child-of-light-limited-edition.json](./166238-child-of-light-limited-edition.json) |
 | Child of Ruin | 298876 | [298876-child-of-ruin.json](./298876-child-of-ruin.json) |
+| Child's Play | 60007 | [60007-childs-play.json](./60007-childs-play.json) |
 | Children's Garden | 323505 | [323505-childrens-garden.json](./323505-childrens-garden.json) |
 | Children's Jigsaw Puzzles: Beautifully Illustrated - Expansion Pack | 225859 | [225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json](./225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json) |
 | Chill Fishing | 337457 | [337457-chill-fishing.json](./337457-chill-fishing.json) |
@@ -511,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Train Trip | 195190 | [195190-chinese-train-trip.json](./195190-chinese-train-trip.json) |
 | Chineze | 96712 | [96712-chineze.json](./96712-chineze.json) |
 | Chip Beat Blaster | 232145 | [232145-chip-beat-blaster.json](./232145-chip-beat-blaster.json) |
+| Chipper & Sons Lumber Co. | 59984 | [59984-chipper-and-sons-lumber-co.json](./59984-chipper-and-sons-lumber-co.json) |
 | ChiroTerra | 278168 | [278168-chiroterra.json](./278168-chiroterra.json) |
 | Chivalry 2: Regicide Update | 312382 | [312382-chivalry-2-regicide-update.json](./312382-chivalry-2-regicide-update.json) |
 | Chlorophos | 119742 | [119742-chlorophos.json](./119742-chlorophos.json) |
@@ -568,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Wonderland 7 | 226426 | [226426-christmas-wonderland-7.json](./226426-christmas-wonderland-7.json) |
 | Christmas Yarn 2 | 278699 | [278699-christmas-yarn-2.json](./278699-christmas-yarn-2.json) |
 | Christmasdius | 63887 | [63887-christmasdius.json](./63887-christmasdius.json) |
+| Christminster | 60021 | [60021-christminster.json](./60021-christminster.json) |
 | Chroma | 311799 | [311799-chroma.json](./311799-chroma.json) |
 | Chroma Zero | 319356 | [319356-chroma-zero.json](./319356-chroma-zero.json) |
 | Chromarena | 188666 | [188666-chromarena.json](./188666-chromarena.json) |
@@ -753,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Castle | 275874 | [275874-cloud-castle.json](./275874-cloud-castle.json) |
 | Cloud Escape | 183612 | [183612-cloud-escape.json](./183612-cloud-escape.json) |
 | Cloud House | 236497 | [236497-cloud-house.json](./236497-cloud-house.json) |
+| Cloud Raiders | 59983 | [59983-cloud-raiders.json](./59983-cloud-raiders.json) |
 | Cloud Serpent | 185658 | [185658-cloud-serpent.json](./185658-cloud-serpent.json) |
 | Clouds of Farfisa | 182542 | [182542-clouds-of-farfisa.json](./182542-clouds-of-farfisa.json) |
 | Cloudsea | 196871 | [196871-cloudsea.json](./196871-cloudsea.json) |
@@ -915,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come Home: Premium Edition | 238762 | [238762-come-home-premium-edition.json](./238762-come-home-premium-edition.json) |
 | Come to Jesus | 179726 | [179726-come-to-jesus.json](./179726-come-to-jesus.json) |
 | Comer | 94225 | [94225-comer.json](./94225-comer.json) |
+| Coming Out Simulator 2014 | 60030 | [60030-coming-out-simulator-2014.json](./60030-coming-out-simulator-2014.json) |
 | Command & Conquer: Red Alert 2 - Mental Omega | 180284 | [180284-command-and-conquer-red-alert-2-mental-omega.json](./180284-command-and-conquer-red-alert-2-mental-omega.json) |
 | Command Center Earth | 273634 | [273634-command-center-earth.json](./273634-command-center-earth.json) |
 | Command: Modern Operations - Chains of War | 167870 | [167870-command-modern-operations-chains-of-war.json](./167870-command-modern-operations-chains-of-war.json) |
