@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pew Pew Zombies | 88300 | [88300-pew-pew-zombies.json](./88300-pew-pew-zombies.json) |
 | PewPew 2 | 140606 | [140606-pewpew-2.json](./140606-pewpew-2.json) |
 | Pewt 'em Up! | 203561 | [203561-pewt-em-up.json](./203561-pewt-em-up.json) |
+| PGA Championship Golf 2000: Titanium Edition | 70960 | [70960-pga-championship-golf-2000-titanium-edition.json](./70960-pga-championship-golf-2000-titanium-edition.json) |
 | PGA Tour 2K23: Tiger Woods Edition | 221421 | [221421-pga-tour-2k23-tiger-woods-edition.json](./221421-pga-tour-2k23-tiger-woods-edition.json) |
 | Ph0b0s | 207521 | [207521-ph0b0s.json](./207521-ph0b0s.json) |
 | Phá Kén: Khúc Điêu Linh | 318783 | [318783-pha-ken-khuc-ieu-linh.json](./318783-pha-ken-khuc-ieu-linh.json) |
@@ -855,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyfield WW2 | 102148 | [102148-polyfield-ww2.json](./102148-polyfield-ww2.json) |
 | Polygon Base | 274207 | [274207-polygon-base.json](./274207-polygon-base.json) |
 | Polyhop: The Skybound Islands | 278743 | [278743-polyhop-the-skybound-islands.json](./278743-polyhop-the-skybound-islands.json) |
+| Polystars | 70998 | [70998-polystars.json](./70998-polystars.json) |
 | PolyZen Drive | 278679 | [278679-polyzen-drive.json](./278679-polyzen-drive.json) |
 | Pom Pom Purin: Koro-koro Daibouken | 222518 | [222518-pom-pom-purin-koro-koro-daibouken.json](./222518-pom-pom-purin-koro-koro-daibouken.json) |
 | Pommy | 86103 | [86103-pommy.json](./86103-pommy.json) |
@@ -955,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerZ | 146317 | [146317-powerz.json](./146317-powerz.json) |
 | PQ: The Party Quiz Game | 94250 | [94250-pq-the-party-quiz-game.json](./94250-pq-the-party-quiz-game.json) |
 | Pray Game | 167306 | [167306-pray-game.json](./167306-pray-game.json) |
+| Pre-RON MI5 Bob | 71007 | [71007-pre-ron-mi5-bob.json](./71007-pre-ron-mi5-bob.json) |
 | Precision Point VR | 270949 | [270949-precision-point-vr.json](./270949-precision-point-vr.json) |
 | Predator | 74422 | [74422-predator.json](./74422-predator.json) |
 | Predatory Islands | 251832 | [251832-predatory-islands.json](./251832-predatory-islands.json) |
