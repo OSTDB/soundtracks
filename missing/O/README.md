@@ -305,11 +305,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Door | 214177 | [214177-open-door.json](./214177-open-door.json) |
 | Open Rails | 89985 | [89985-open-rails.json](./89985-open-rails.json) |
 | Open Space Collection | 196306 | [196306-open-space-collection.json](./196306-open-space-collection.json) |
+| OpenArena | 77358 | [77358-openarena.json](./77358-openarena.json) |
 | Openbound Online | 183583 | [183583-openbound-online.json](./183583-openbound-online.json) |
 | OpenGoal: Jak II | 275306 | [275306-opengoal-jak-ii.json](./275306-opengoal-jak-ii.json) |
 | OpenGuessr | 314022 | [314022-openguessr.json](./314022-openguessr.json) |
 | OpenLoco | 138233 | [138233-openloco.json](./138233-openloco.json) |
 | OpenQuiz | 246110 | [246110-openquiz.json](./246110-openquiz.json) |
+| Opera Omnia | 77359 | [77359-opera-omnia.json](./77359-opera-omnia.json) |
 | Operation Abyss: New Tokyo Legacy - Launch Edition | 89917 | [89917-operation-abyss-new-tokyo-legacy-launch-edition.json](./89917-operation-abyss-new-tokyo-legacy-launch-edition.json) |
 | Operation Abyss: New Tokyo Legacy - Limited Edition | 89916 | [89916-operation-abyss-new-tokyo-legacy-limited-edition.json](./89916-operation-abyss-new-tokyo-legacy-limited-edition.json) |
 | Operation CrossCounter | 94755 | [94755-operation-crosscounter.json](./94755-operation-crosscounter.json) |
