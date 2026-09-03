@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Koi 2 | 90702 | [90702-zen-koi-2.json](./90702-zen-koi-2.json) |
 | Zen Match | 185681 | [185681-zen-match.json](./185681-zen-match.json) |
 | Zen Wars | 200187 | [200187-zen-wars.json](./200187-zen-wars.json) |
+| Zen-Ichi | 82119 | [82119-zen-ichi.json](./82119-zen-ichi.json) |
 | Zenforms: Protectors | 96043 | [96043-zenforms-protectors.json](./96043-zenforms-protectors.json) |
 | Zenful Journey | 249489 | [249489-zenful-journey.json](./249489-zenful-journey.json) |
 | Zero Core: Exile | 140579 | [140579-zero-core-exile.json](./140579-zero-core-exile.json) |
