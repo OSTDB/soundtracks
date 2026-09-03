@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catsbridge Stories: Detective in Time | 116360 | [116360-catsbridge-stories-detective-in-time.json](./116360-catsbridge-stories-detective-in-time.json) |
 | Cattle Hyperdrive | 247745 | [247745-cattle-hyperdrive.json](./247745-cattle-hyperdrive.json) |
 | Catty Battle | 129816 | [129816-catty-battle.json](./129816-catty-battle.json) |
+| Catwoman | 67337 | [67337-catwoman.json](./67337-catwoman.json) |
 | Cauldron Caution | 309653 | [309653-cauldron-caution.json](./309653-cauldron-caution.json) |
 | Cauldron I & II | 126012 | [126012-cauldron-i-and-ii.json](./126012-cauldron-i-and-ii.json) |
 | Causality | 151182 | [151182-causality.json](./151182-causality.json) |
@@ -634,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citizen Zein | 278738 | [278738-citizen-zein.json](./278738-citizen-zein.json) |
 | City Ambulance: Rescue Express | 277018 | [277018-city-ambulance-rescue-express.json](./277018-city-ambulance-rescue-express.json) |
 | City Builder | 101595 | [101595-city-builder.json](./101595-city-builder.json) |
+| City Bus Simulator 2010 | 67299 | [67299-city-bus-simulator-2010.json](./67299-city-bus-simulator-2010.json) |
 | City Defense | 221999 | [221999-city-defense.json](./221999-city-defense.json) |
 | City Dunk 2 | 220298 | [220298-city-dunk-2.json](./220298-city-dunk-2.json) |
 | City Fighter: Vertical Limit | 237626 | [237626-city-fighter-vertical-limit.json](./237626-city-fighter-vertical-limit.json) |
