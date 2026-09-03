@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T16:33:11.060Z",
-  "total_missing": 24005,
+  "generated_at": "2026-09-03T16:47:54.811Z",
+  "total_missing": 24055,
   "games": [
     {
       "igdb_id": 306086,
@@ -105833,6 +105833,21 @@
       "file": "missing/T/295524-the-twisting-trail-of-clues.json"
     },
     {
+      "igdb_id": 53867,
+      "game_name": "The Typing of the Dead: Overkill - Love at First Bite DLC",
+      "file": "missing/T/53867-the-typing-of-the-dead-overkill-love-at-first-bite-dlc.json"
+    },
+    {
+      "igdb_id": 53869,
+      "game_name": "The Typing of the Dead: Overkill - Shakespeare DLC",
+      "file": "missing/T/53869-the-typing-of-the-dead-overkill-shakespeare-dlc.json"
+    },
+    {
+      "igdb_id": 53868,
+      "game_name": "The Typing of the Dead: Overkill - Silver Screen DLC",
+      "file": "missing/T/53868-the-typing-of-the-dead-overkill-silver-screen-dlc.json"
+    },
+    {
       "igdb_id": 228078,
       "game_name": "The Ugly Ducling",
       "file": "missing/T/228078-the-ugly-ducling.json"
@@ -108908,6 +108923,11 @@
       "file": "missing/T/81349-total-war-warhammer-grey-wizard.json"
     },
     {
+      "igdb_id": 53833,
+      "game_name": "Total War: Warhammer - Norsca",
+      "file": "missing/T/53833-total-war-warhammer-norsca.json"
+    },
+    {
       "igdb_id": 167825,
       "game_name": "Total War: Warhammer II - Tretch Craventail",
       "file": "missing/T/167825-total-war-warhammer-ii-tretch-craventail.json"
@@ -109373,6 +109393,11 @@
       "file": "missing/T/296648-towerdefencedesigner.json"
     },
     {
+      "igdb_id": 53835,
+      "game_name": "Towers of Twilight",
+      "file": "missing/T/53835-towers-of-twilight.json"
+    },
+    {
       "igdb_id": 251810,
       "game_name": "Town of Dusk",
       "file": "missing/T/251810-town-of-dusk.json"
@@ -109416,6 +109441,11 @@
       "igdb_id": 299480,
       "game_name": "Townlore 2.0",
       "file": "missing/T/299480-townlore-2-0.json"
+    },
+    {
+      "igdb_id": 53836,
+      "game_name": "Townopolis Romopolis Megapolis Collection",
+      "file": "missing/T/53836-townopolis-romopolis-megapolis-collection.json"
     },
     {
       "igdb_id": 341866,
@@ -109663,6 +109693,11 @@
       "file": "missing/T/336939-train-sim-world-5-dutch-regional-edition.json"
     },
     {
+      "igdb_id": 53837,
+      "game_name": "Train Sim World: Great Western Express",
+      "file": "missing/T/53837-train-sim-world-great-western-express.json"
+    },
+    {
       "igdb_id": 327582,
       "game_name": "Train Simulator",
       "file": "missing/T/327582-train-simulator.json"
@@ -109888,6 +109923,11 @@
       "file": "missing/T/293392-train-simulator-classic-eamnos-vtg-wagon-pack.json"
     },
     {
+      "igdb_id": 53838,
+      "game_name": "Train Simulator Classic: New Haven FL9 Loco Add-On",
+      "file": "missing/T/53838-train-simulator-classic-new-haven-fl9-loco-add-on.json"
+    },
+    {
       "igdb_id": 293393,
       "game_name": "Train Simulator Classic: Tamns VTG Wagon Pack",
       "file": "missing/T/293393-train-simulator-classic-tamns-vtg-wagon-pack.json"
@@ -109941,6 +109981,11 @@
       "igdb_id": 328805,
       "game_name": "Train Traffic Manager: Prime Edition",
       "file": "missing/T/328805-train-traffic-manager-prime-edition.json"
+    },
+    {
+      "igdb_id": 53857,
+      "game_name": "Train Valley: Deluxe Edition",
+      "file": "missing/T/53857-train-valley-deluxe-edition.json"
     },
     {
       "igdb_id": 163971,
@@ -110131,6 +110176,11 @@
       "igdb_id": 318802,
       "game_name": "TransMemory",
       "file": "missing/T/318802-transmemory.json"
+    },
+    {
+      "igdb_id": 53856,
+      "game_name": "Transport Giant: Gold Edition 2012",
+      "file": "missing/T/53856-transport-giant-gold-edition-2012.json"
     },
     {
       "igdb_id": 119043,
@@ -110778,6 +110828,16 @@
       "file": "missing/T/89933-tron.json"
     },
     {
+      "igdb_id": 53853,
+      "game_name": "Tron Run/r: Deluxe Edition",
+      "file": "missing/T/53853-tron-run-r-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 53852,
+      "game_name": "Tron Run/r: Ultimate Edition",
+      "file": "missing/T/53852-tron-run-r-ultimate-edition.json"
+    },
+    {
       "igdb_id": 143070,
       "game_name": "Trophy",
       "file": "missing/T/143070-trophy.json"
@@ -110798,9 +110858,74 @@
       "file": "missing/T/208026-tropical-resort-story.json"
     },
     {
+      "igdb_id": 53848,
+      "game_name": "Tropico 4: Apocalypse",
+      "file": "missing/T/53848-tropico-4-apocalypse.json"
+    },
+    {
+      "igdb_id": 53851,
+      "game_name": "Tropico 4: Junta Military",
+      "file": "missing/T/53851-tropico-4-junta-military.json"
+    },
+    {
+      "igdb_id": 53847,
+      "game_name": "Tropico 4: Megalopolis",
+      "file": "missing/T/53847-tropico-4-megalopolis.json"
+    },
+    {
+      "igdb_id": 53849,
+      "game_name": "Tropico 4: Plantador",
+      "file": "missing/T/53849-tropico-4-plantador.json"
+    },
+    {
+      "igdb_id": 53845,
+      "game_name": "Tropico 4: Propaganda",
+      "file": "missing/T/53845-tropico-4-propaganda.json"
+    },
+    {
+      "igdb_id": 53844,
+      "game_name": "Tropico 4: Quick-Dry-Cement",
+      "file": "missing/T/53844-tropico-4-quick-dry-cement.json"
+    },
+    {
+      "igdb_id": 53843,
+      "game_name": "Tropico 4: Vigilante",
+      "file": "missing/T/53843-tropico-4-vigilante.json"
+    },
+    {
+      "igdb_id": 53842,
+      "game_name": "Tropico 5: Espionage",
+      "file": "missing/T/53842-tropico-5-espionage.json"
+    },
+    {
+      "igdb_id": 53841,
+      "game_name": "Tropico 5: The Big Cheese",
+      "file": "missing/T/53841-tropico-5-the-big-cheese.json"
+    },
+    {
+      "igdb_id": 53840,
+      "game_name": "Tropico 5: Waterborne",
+      "file": "missing/T/53840-tropico-5-waterborne.json"
+    },
+    {
       "igdb_id": 305525,
       "game_name": "Tropico 6: Tropican Shores",
       "file": "missing/T/305525-tropico-6-tropican-shores.json"
+    },
+    {
+      "igdb_id": 53861,
+      "game_name": "Tropico Reloaded",
+      "file": "missing/T/53861-tropico-reloaded.json"
+    },
+    {
+      "igdb_id": 53860,
+      "game_name": "Tropico Trilogy",
+      "file": "missing/T/53860-tropico-trilogy.json"
+    },
+    {
+      "igdb_id": 53859,
+      "game_name": "Tropix 2: Quest for the Golden Banana",
+      "file": "missing/T/53859-tropix-2-quest-for-the-golden-banana.json"
     },
     {
       "igdb_id": 313471,
@@ -111091,6 +111216,11 @@
       "igdb_id": 259279,
       "game_name": "Tumble Tundra",
       "file": "missing/T/259279-tumble-tundra.json"
+    },
+    {
+      "igdb_id": 53858,
+      "game_name": "Tumblebugs 2",
+      "file": "missing/T/53858-tumblebugs-2.json"
     },
     {
       "igdb_id": 330523,
@@ -111398,6 +111528,21 @@
       "file": "missing/T/199649-twisted-draw.json"
     },
     {
+      "igdb_id": 53864,
+      "game_name": "Twisted Lands Trilogy",
+      "file": "missing/T/53864-twisted-lands-trilogy.json"
+    },
+    {
+      "igdb_id": 53863,
+      "game_name": "Twisted Lands: Insomniac - Collector's Edition",
+      "file": "missing/T/53863-twisted-lands-insomniac-collectors-edition.json"
+    },
+    {
+      "igdb_id": 53862,
+      "game_name": "Twisted Lands: Shadow Town - Collector's Edition",
+      "file": "missing/T/53862-twisted-lands-shadow-town-collectors-edition.json"
+    },
+    {
       "igdb_id": 243425,
       "game_name": "Twisted Lovestruck",
       "file": "missing/T/243425-twisted-lovestruck.json"
@@ -111506,6 +111651,16 @@
       "igdb_id": 181359,
       "game_name": "Two Worlds Connected",
       "file": "missing/T/181359-two-worlds-connected.json"
+    },
+    {
+      "igdb_id": 53865,
+      "game_name": "Two Worlds II HD",
+      "file": "missing/T/53865-two-worlds-ii-hd.json"
+    },
+    {
+      "igdb_id": 53866,
+      "game_name": "Two Worlds: The Game of the Year Edition",
+      "file": "missing/T/53866-two-worlds-the-game-of-the-year-edition.json"
     },
     {
       "igdb_id": 80559,
@@ -112408,6 +112563,11 @@
       "file": "missing/U/213004-union-of-gnomes.json"
     },
     {
+      "igdb_id": 53879,
+      "game_name": "Union of Koi Musubi",
+      "file": "missing/U/53879-union-of-koi-musubi.json"
+    },
+    {
       "igdb_id": 323514,
       "game_name": "UniqKiller: Urban Shooter",
       "file": "missing/U/323514-uniqkiller-urban-shooter.json"
@@ -112791,6 +112951,11 @@
       "igdb_id": 102794,
       "game_name": "Upperz",
       "file": "missing/U/102794-upperz.json"
+    },
+    {
+      "igdb_id": 53878,
+      "game_name": "Uprising Complete",
+      "file": "missing/U/53878-uprising-complete.json"
     },
     {
       "igdb_id": 248903,
@@ -113613,6 +113778,11 @@
       "file": "missing/V/188073-venatio.json"
     },
     {
+      "igdb_id": 53875,
+      "game_name": "Vendetta: Curse of Raven's Cry - Deluxe Edition",
+      "file": "missing/V/53875-vendetta-curse-of-ravens-cry-deluxe-edition.json"
+    },
+    {
       "igdb_id": 190212,
       "game_name": "Vendir: Plague of Lies",
       "file": "missing/V/190212-vendir-plague-of-lies.json"
@@ -113658,6 +113828,11 @@
       "file": "missing/V/292882-venus-voyager-2.json"
     },
     {
+      "igdb_id": 53874,
+      "game_name": "Verald Defense",
+      "file": "missing/V/53874-verald-defense.json"
+    },
+    {
       "igdb_id": 265932,
       "game_name": "Veredilia: The Sacred Forest",
       "file": "missing/V/265932-veredilia-the-sacred-forest.json"
@@ -113696,6 +113871,11 @@
       "igdb_id": 55202,
       "game_name": "Verminator",
       "file": "missing/V/55202-verminator.json"
+    },
+    {
+      "igdb_id": 53873,
+      "game_name": "Versailles II",
+      "file": "missing/V/53873-versailles-ii.json"
     },
     {
       "igdb_id": 312910,
@@ -113933,6 +114113,11 @@
       "file": "missing/V/105366-viki-spotter-camping.json"
     },
     {
+      "igdb_id": 53872,
+      "game_name": "Viking Brothers 2",
+      "file": "missing/V/53872-viking-brothers-2.json"
+    },
+    {
       "igdb_id": 322979,
       "game_name": "Viking Colony Builder Valhalla",
       "file": "missing/V/322979-viking-colony-builder-valhalla.json"
@@ -113966,6 +114151,11 @@
       "igdb_id": 228120,
       "game_name": "Vikings: Valhalla Saga",
       "file": "missing/V/228120-vikings-valhalla-saga.json"
+    },
+    {
+      "igdb_id": 53871,
+      "game_name": "Viktor: Enforcer Edition",
+      "file": "missing/V/53871-viktor-enforcer-edition.json"
     },
     {
       "igdb_id": 175401,
@@ -114343,6 +114533,11 @@
       "file": "missing/V/210889-voidcrisis.json"
     },
     {
+      "igdb_id": 53870,
+      "game_name": "VoidExpanse - Complete Collection",
+      "file": "missing/V/53870-voidexpanse-complete-collection.json"
+    },
+    {
       "igdb_id": 155660,
       "game_name": "VoidOut Parkour",
       "file": "missing/V/155660-voidout-parkour.json"
@@ -114658,6 +114853,11 @@
       "file": "missing/V/110331-vulcan-3055.json"
     },
     {
+      "igdb_id": 53880,
+      "game_name": "Vulcan Sacrifice",
+      "file": "missing/V/53880-vulcan-sacrifice.json"
+    },
+    {
       "igdb_id": 307943,
       "game_name": "Vyanka's Memories",
       "file": "missing/V/307943-vyankas-memories.json"
@@ -114768,6 +114968,11 @@
       "file": "missing/W/338554-waifusitter.json"
     },
     {
+      "igdb_id": 53881,
+      "game_name": "Wailing Heights: Deluxe Edition",
+      "file": "missing/W/53881-wailing-heights-deluxe-edition.json"
+    },
+    {
       "igdb_id": 123628,
       "game_name": "Waimanu: Grinding Block Adventure",
       "file": "missing/W/123628-waimanu-grinding-block-adventure.json"
@@ -114866,6 +115071,11 @@
       "igdb_id": 139434,
       "game_name": "Wall Ninja",
       "file": "missing/W/139434-wall-ninja.json"
+    },
+    {
+      "igdb_id": 53882,
+      "game_name": "Wall Simulator 2017",
+      "file": "missing/W/53882-wall-simulator-2017.json"
     },
     {
       "igdb_id": 73831,
@@ -115038,6 +115248,11 @@
       "file": "missing/W/111010-war-in-space.json"
     },
     {
+      "igdb_id": 53883,
+      "game_name": "War is Heck Collection",
+      "file": "missing/W/53883-war-is-heck-collection.json"
+    },
+    {
       "igdb_id": 309676,
       "game_name": "War of Charge",
       "file": "missing/W/309676-war-of-charge.json"
@@ -115066,6 +115281,11 @@
       "igdb_id": 225895,
       "game_name": "War of Ships",
       "file": "missing/W/225895-war-of-ships.json"
+    },
+    {
+      "igdb_id": 53884,
+      "game_name": "War of the Human Tanks - Complete Collection",
+      "file": "missing/W/53884-war-of-the-human-tanks-complete-collection.json"
     },
     {
       "igdb_id": 117056,
@@ -115198,6 +115418,11 @@
       "file": "missing/W/172778-warface-global-operations.json"
     },
     {
+      "igdb_id": 53886,
+      "game_name": "WarFire: Deluxe Edition",
+      "file": "missing/W/53886-warfire-deluxe-edition.json"
+    },
+    {
       "igdb_id": 223706,
       "game_name": "Warframe: Angels of the Zariman - Chrysalith Pack",
       "file": "missing/W/223706-warframe-angels-of-the-zariman-chrysalith-pack.json"
@@ -115211,6 +115436,31 @@
       "igdb_id": 278721,
       "game_name": "Wargame Construction Set Pack",
       "file": "missing/W/278721-wargame-construction-set-pack.json"
+    },
+    {
+      "igdb_id": 53887,
+      "game_name": "Wargame: Red Dragon - Complete Edition",
+      "file": "missing/W/53887-wargame-red-dragon-complete-edition.json"
+    },
+    {
+      "igdb_id": 53889,
+      "game_name": "Warhammer 40,000: Armageddon - Angels of Death",
+      "file": "missing/W/53889-warhammer-40-000-armageddon-angels-of-death.json"
+    },
+    {
+      "igdb_id": 53890,
+      "game_name": "Warhammer 40,000: Armageddon - Glory of Macragge",
+      "file": "missing/W/53890-warhammer-40-000-armageddon-glory-of-macragge.json"
+    },
+    {
+      "igdb_id": 53891,
+      "game_name": "Warhammer 40,000: Armageddon - Golgotha",
+      "file": "missing/W/53891-warhammer-40-000-armageddon-golgotha.json"
+    },
+    {
+      "igdb_id": 53888,
+      "game_name": "Warhammer 40,000: Armageddon - Ork Hunters",
+      "file": "missing/W/53888-warhammer-40-000-armageddon-ork-hunters.json"
     },
     {
       "igdb_id": 225868,
