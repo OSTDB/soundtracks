@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrossFire: Legends | 102759 | [102759-crossfire-legends.json](./102759-crossfire-legends.json) |
 | CrossfireX: Operation Spectre | 221392 | [221392-crossfirex-operation-spectre.json](./221392-crossfirex-operation-spectre.json) |
 | Crosshollow Foundations | 182508 | [182508-crosshollow-foundations.json](./182508-crosshollow-foundations.json) |
+| Crosslogic Ultimate | 66716 | [66716-crosslogic-ultimate.json](./66716-crosslogic-ultimate.json) |
 | CrossLust | 235491 | [235491-crosslust.json](./235491-crosslust.json) |
 | Crossroads Inn: Anniversary Edition | 154549 | [154549-crossroads-inn-anniversary-edition.json](./154549-crossroads-inn-anniversary-edition.json) |
 | Crossword Dungeon | 208017 | [208017-crossword-dungeon.json](./208017-crossword-dungeon.json) |
@@ -1272,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crunch Element | 119770 | [119770-crunch-element.json](./119770-crunch-element.json) |
 | Crunch Time! | 218161 | [218161-crunch-time.json](./218161-crunch-time.json) |
 | Crusade of Deitra | 173296 | [173296-crusade-of-deitra.json](./173296-crusade-of-deitra.json) |
+| Crusade of Destiny | 66721 | [66721-crusade-of-destiny.json](./66721-crusade-of-destiny.json) |
 | Crusader Kings III: Northern Lords | 164510 | [164510-crusader-kings-iii-northern-lords.json](./164510-crusader-kings-iii-northern-lords.json) |
 | Crusader: Adventure Out of Time | 72113 | [72113-crusader-adventure-out-of-time.json](./72113-crusader-adventure-out-of-time.json) |
 | Crusaders Arena | 260406 | [260406-crusaders-arena.json](./260406-crusaders-arena.json) |
