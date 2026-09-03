@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Right Swipes: Blast Date | 200735 | [200735-right-swipes-blast-date.json](./200735-right-swipes-blast-date.json) |
 | Righteous Kill | 209161 | [209161-righteous-kill.json](./209161-righteous-kill.json) |
 | Rights of Progression | 229921 | [229921-rights-of-progression.json](./229921-rights-of-progression.json) |
+| Riglord Saga 2 | 73838 | [73838-riglord-saga-2.json](./73838-riglord-saga-2.json) |
 | Rika Suzuki | 97328 | [97328-rika-suzuki.json](./97328-rika-suzuki.json) |
 | Rilakkuma Nakayoshi Collection | 222506 | [222506-rilakkuma-nakayoshi-collection.json](./222506-rilakkuma-nakayoshi-collection.json) |
 | Rilu Rilu Fairilu Kirakira: Hajimete no Fairilu Magic | 222537 | [222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json](./222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json) |
@@ -678,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robber Knight | 204068 | [204068-robber-knight.json](./204068-robber-knight.json) |
 | Robbery Madness: Thief Games | 219782 | [219782-robbery-madness-thief-games.json](./219782-robbery-madness-thief-games.json) |
 | Robert Robie and the Idols of Jade | 189187 | [189187-robert-robie-and-the-idols-of-jade.json](./189187-robert-robie-and-the-idols-of-jade.json) |
+| Robin of Sherwood: The Touchstones of Rhiannon | 73825 | [73825-robin-of-sherwood-the-touchstones-of-rhiannon.json](./73825-robin-of-sherwood-the-touchstones-of-rhiannon.json) |
 | RobinBobin | 138220 | [138220-robinbobin.json](./138220-robinbobin.json) |
 | RobinWords | 303237 | [303237-robinwords.json](./303237-robinwords.json) |
 | Robo Boop | 89970 | [89970-robo-boop.json](./89970-robo-boop.json) |
@@ -910,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rover Wars | 177039 | [177039-rover-wars.json](./177039-rover-wars.json) |
 | Roving in the Dark | 106602 | [106602-roving-in-the-dark.json](./106602-roving-in-the-dark.json) |
 | Rovonaut Comrade | 128656 | [128656-rovonaut-comrade.json](./128656-rovonaut-comrade.json) |
+| Rowan's Battle of Britain | 73818 | [73818-rowans-battle-of-britain.json](./73818-rowans-battle-of-britain.json) |
 | Roxy Raccoon's Pinball Panic: American Anniversary | 311788 | [311788-roxy-raccoons-pinball-panic-american-anniversary.json](./311788-roxy-raccoons-pinball-panic-american-anniversary.json) |
 | Roxy Raccoon's Pinball Panic: Club Crazy | 267689 | [267689-roxy-raccoons-pinball-panic-club-crazy.json](./267689-roxy-raccoons-pinball-panic-club-crazy.json) |
 | Roxy Raccoon's Pinball Panic: Joyous Japan | 226931 | [226931-roxy-raccoons-pinball-panic-joyous-japan.json](./226931-roxy-raccoons-pinball-panic-joyous-japan.json) |
