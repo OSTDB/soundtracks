@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangram Puzzle: Shape Puzzle | 237625 | [237625-tangram-puzzle-shape-puzzle.json](./237625-tangram-puzzle-shape-puzzle.json) |
 | Tangy TD | 236534 | [236534-tangy-td.json](./236534-tangy-td.json) |
 | Tank Battle Heroes: Iron Warfare | 120430 | [120430-tank-battle-heroes-iron-warfare.json](./120430-tank-battle-heroes-iron-warfare.json) |
+| Tank Elite | 82130 | [82130-tank-elite.json](./82130-tank-elite.json) |
 | Tank Master | 200733 | [200733-tank-master.json](./200733-tank-master.json) |
 | Tank Nova | 119790 | [119790-tank-nova.json](./119790-tank-nova.json) |
 | Tank rush | 102151 | [102151-tank-rush.json](./102151-tank-rush.json) |
@@ -997,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mutton Horn: Jump Jump! | 105379 | [105379-the-mutton-horn-jump-jump.json](./105379-the-mutton-horn-jump-jump.json) |
 | The Mysteries of Underville | 268754 | [268754-the-mysteries-of-underville.json](./268754-the-mysteries-of-underville.json) |
 | The Mysterious Case of Dr. Jekyll & Mr. Hyde | 197946 | [197946-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json](./197946-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json) |
+| The Mysterious Case of Dr. Jekyll & Mr. Hyde | 82157 | [82157-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json](./82157-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json) |
 | The Mystery Cleaner | 204690 | [204690-the-mystery-cleaner.json](./204690-the-mystery-cleaner.json) |
 | The Mystery Files of Detective Inaba No. 1 | 131575 | [131575-the-mystery-files-of-detective-inaba-no-1.json](./131575-the-mystery-files-of-detective-inaba-no-1.json) |
 | The Mystery Files of Detective Inaba No. 2 | 131576 | [131576-the-mystery-files-of-detective-inaba-no-2.json](./131576-the-mystery-files-of-detective-inaba-no-2.json) |
@@ -1161,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Everyday Stuff Bundle | 159341 | [159341-the-sims-4-everyday-stuff-bundle.json](./159341-the-sims-4-everyday-stuff-bundle.json) |
 | The Sims 4: Extreme Violence | 259250 | [259250-the-sims-4-extreme-violence.json](./259250-the-sims-4-extreme-violence.json) |
 | The Sims 4: Kids Room Stuff | 121023 | [121023-the-sims-4-kids-room-stuff.json](./121023-the-sims-4-kids-room-stuff.json) |
+| The Sims 4: Laundry Day Stuff | 82118 | [82118-the-sims-4-laundry-day-stuff.json](./82118-the-sims-4-laundry-day-stuff.json) |
 | The Sims 4: Legacy Edition | 116388 | [116388-the-sims-4-legacy-edition.json](./116388-the-sims-4-legacy-edition.json) |
 | The Sims 4: Life and Death | 316426 | [316426-the-sims-4-life-and-death.json](./316426-the-sims-4-life-and-death.json) |
 | The Sims 4: Live Lavishly Bundle | 159330 | [159330-the-sims-4-live-lavishly-bundle.json](./159330-the-sims-4-live-lavishly-bundle.json) |
@@ -2156,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure of Big Totem 7 | 315266 | [315266-treasure-of-big-totem-7.json](./315266-treasure-of-big-totem-7.json) |
 | Treasure of Big Totem 8 | 315267 | [315267-treasure-of-big-totem-8.json](./315267-treasure-of-big-totem-8.json) |
 | Treasure Quest | 100213 | [100213-treasure-quest.json](./100213-treasure-quest.json) |
+| Treasure Raiders: Zombie Crisis | 82152 | [82152-treasure-raiders-zombie-crisis.json](./82152-treasure-raiders-zombie-crisis.json) |
 | Treasure Rangers | 153445 | [153445-treasure-rangers.json](./153445-treasure-rangers.json) |
 | Treasure Star | 247746 | [247746-treasure-star.json](./247746-treasure-star.json) |
 | Treasures of the Aegean | 146900 | [146900-treasures-of-the-aegean.json](./146900-treasures-of-the-aegean.json) |
@@ -2163,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasures of the Ancients: Egypt | 102184 | [102184-treasures-of-the-ancients-egypt.json](./102184-treasures-of-the-ancients-egypt.json) |
 | Treasures of the Haunted Forest | 273645 | [273645-treasures-of-the-haunted-forest.json](./273645-treasures-of-the-haunted-forest.json) |
 | Trebuchet Town | 175993 | [175993-trebuchet-town.json](./175993-trebuchet-town.json) |
+| Tree of Life: Yggdrasil | 82159 | [82159-tree-of-life-yggdrasil.json](./82159-tree-of-life-yggdrasil.json) |
 | Tree Simulator 2022 | 152372 | [152372-tree-simulator-2022.json](./152372-tree-simulator-2022.json) |
 | Tree Spade Truck | 90670 | [90670-tree-spade-truck.json](./90670-tree-spade-truck.json) |
 | Treepury | 303802 | [303802-treepury.json](./303802-treepury.json) |
@@ -2255,6 +2260,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trudy's Time and Place House | 265978 | [265978-trudys-time-and-place-house.json](./265978-trudys-time-and-place-house.json) |
 | True Visions | 162413 | [162413-true-visions.json](./162413-true-visions.json) |
 | Truefish | 120412 | [120412-truefish.json](./120412-truefish.json) |
+| Trump Collection 2: Bottom Up Teki Sekai Isshuu no Tabi | 82136 | [82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json](./82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json) |
+| Trump Collection GB | 82137 | [82137-trump-collection-gb.json](./82137-trump-collection-gb.json) |
 | Trumpets | 179164 | [179164-trumpets.json](./179164-trumpets.json) |
 | Trundle | 93599 | [93599-trundle.json](./93599-trundle.json) |
 | Truth Loop | 218735 | [218735-truth-loop.json](./218735-truth-loop.json) |
