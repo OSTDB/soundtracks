@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardfight!! Vanguard EX | 115018 | [115018-cardfight-vanguard-ex.json](./115018-cardfight-vanguard-ex.json) |
 | Cardfight!! Vanguard: Dear Days - Additional Special Set | 301017 | [301017-cardfight-vanguard-dear-days-additional-special-set.json](./301017-cardfight-vanguard-dear-days-additional-special-set.json) |
 | Cardfight!!: Additional Card Set Vol.6 [D-BT09] - Dragontree Invasion | 267666 | [267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json](./267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json) |
+| Cardinal Land: Jigsaw & Tangram Puzzle Blend | 87213 | [87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json](./87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json) |
 | Cardnarok: Raid with Gods | 132232 | [132232-cardnarok-raid-with-gods.json](./132232-cardnarok-raid-with-gods.json) |
 | Cardpocalypse: Time Warp Edition | 154554 | [154554-cardpocalypse-time-warp-edition.json](./154554-cardpocalypse-time-warp-edition.json) |
 | Cards and Castles 2 | 178080 | [178080-cards-and-castles-2.json](./178080-cards-and-castles-2.json) |
@@ -301,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cauldron I & II | 126012 | [126012-cauldron-i-and-ii.json](./126012-cauldron-i-and-ii.json) |
 | Causality | 151182 | [151182-causality.json](./151182-causality.json) |
 | Cause of Death | 91937 | [91937-cause-of-death.json](./91937-cause-of-death.json) |
+| Cave Bowling | 87262 | [87262-cave-bowling.json](./87262-cave-bowling.json) |
 | Cave Chaos | 250612 | [250612-cave-chaos.json](./250612-cave-chaos.json) |
 | Cave Crawler 2 | 318216 | [318216-cave-crawler-2.json](./318216-cave-crawler-2.json) |
 | Cave Digger: Riches | 107230 | [107230-cave-digger-riches.json](./107230-cave-digger-riches.json) |
@@ -346,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CFG: Combat for General | 235478 | [235478-cfg-combat-for-general.json](./235478-cfg-combat-for-general.json) |
 | CGA Pumpkin Carver | 179741 | [179741-cga-pumpkin-carver.json](./179741-cga-pumpkin-carver.json) |
 | Cgencore | 115028 | [115028-cgencore.json](./115028-cgencore.json) |
+| Chachacha Slot | 87296 | [87296-chachacha-slot.json](./87296-chachacha-slot.json) |
 | Chadboy | 241618 | [241618-chadboy.json](./241618-chadboy.json) |
 | Chain Break | 159355 | [159355-chain-break.json](./159355-chain-break.json) |
 | Chain Champs | 177011 | [177011-chain-champs.json](./177011-chain-champs.json) |
@@ -1053,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crab Raid Tactics | 247749 | [247749-crab-raid-tactics.json](./247749-crab-raid-tactics.json) |
 | CrabbleUp | 295018 | [295018-crabbleup.json](./295018-crabbleup.json) |
 | CrabMania | 267665 | [267665-crabmania.json](./267665-crabmania.json) |
+| Crack a Bottle | 87220 | [87220-crack-a-bottle.json](./87220-crack-a-bottle.json) |
 | Crack it! | 278708 | [278708-crack-it.json](./278708-crack-it.json) |
 | Cracked | 265432 | [265432-cracked.json](./265432-cracked.json) |
 | Cracking the Cryptic | 211958 | [211958-cracking-the-cryptic.json](./211958-cracking-the-cryptic.json) |
