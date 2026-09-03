@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evader | 290693 | [290693-evader.json](./290693-evader.json) |
 | Evangeline's Defense | 203556 | [203556-evangelines-defense.json](./203556-evangelines-defense.json) |
 | Evasion from Cluster 42 | 259283 | [259283-evasion-from-cluster-42.json](./259283-evasion-from-cluster-42.json) |
+| EVE Jan | 59432 | [59432-eve-jan.json](./59432-eve-jan.json) |
 | Eve Online: Ascension | 329910 | [329910-eve-online-ascension.json](./329910-eve-online-ascension.json) |
 | Eve Online: Eclipse - Quadrant 2 | 329918 | [329918-eve-online-eclipse-quadrant-2.json](./329918-eve-online-eclipse-quadrant-2.json) |
 | Eve Online: Equinox | 329933 | [329933-eve-online-equinox.json](./329933-eve-online-equinox.json) |
