@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Other Minds | 183051 | [183051-other-minds.json](./183051-other-minds.json) |
 | Otherside | 209129 | [209129-otherside.json](./209129-otherside.json) |
 | Otherworld Heroes | 208054 | [208054-otherworld-heroes.json](./208054-otherworld-heroes.json) |
+| Otis | 64428 | [64428-otis.json](./64428-otis.json) |
 | Otoko Cross: Naked Remix | 247186 | [247186-otoko-cross-naked-remix.json](./247186-otoko-cross-naked-remix.json) |
 | Otona no Joushikiryoku Training DS | 68029 | [68029-otona-no-joushikiryoku-training-ds.json](./68029-otona-no-joushikiryoku-training-ds.json) |
 | Otostaz | 175947 | [175947-otostaz.json](./175947-otostaz.json) |
