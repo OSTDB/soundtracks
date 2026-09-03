@@ -14,6 +14,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-ump | 260398 | [260398-g-ump.json](./260398-g-ump.json) |
 | G.H.O.S.T. Chronicles: Phantom of the Faire | 209598 | [209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json](./209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json) |
 | G.O.P.O.T.A 2 | 291756 | [291756-g-o-p-o-t-a-2.json](./291756-g-o-p-o-t-a-2.json) |
+| G1 Jockey 2 | 55170 | [55170-g1-jockey-2.json](./55170-g1-jockey-2.json) |
+| G1 Jockey 2000 | 55171 | [55171-g1-jockey-2000.json](./55171-g1-jockey-2000.json) |
 | G1 Jockey 4 2008 | 93614 | [93614-g1-jockey-4-2008.json](./93614-g1-jockey-4-2008.json) |
 | Gabenwood: 99 Hidden Bucks | 224239 | [224239-gabenwood-99-hidden-bucks.json](./224239-gabenwood-99-hidden-bucks.json) |
 | Gabriel's Worlds: The Adventure | 163954 | [163954-gabriels-worlds-the-adventure.json](./163954-gabriels-worlds-the-adventure.json) |
@@ -62,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galak-Z: The Void / Skulls of the Shogun: Bone-A-Fide Edition - Platinum Pack | 173777 | [173777-galak-z-the-void-skulls-of-the-shogun-bone-a-fide-edition-platinum-pack.json](./173777-galak-z-the-void-skulls-of-the-shogun-bone-a-fide-edition-platinum-pack.json) |
 | Galak-Z: The Void & Skulls of the Shogun: Bonafide Edition - Platinum Pack | 138264 | [138264-galak-z-the-void-and-skulls-of-the-shogun-bonafide-edition-platinum-pack.json](./138264-galak-z-the-void-and-skulls-of-the-shogun-bonafide-edition-platinum-pack.json) |
 | GalaX | 259836 | [259836-galax.json](./259836-galax.json) |
+| Galax-i-Birds | 55187 | [55187-galax-i-birds.json](./55187-galax-i-birds.json) |
 | Galaxicus | 119022 | [119022-galaxicus.json](./119022-galaxicus.json) |
 | Galaxity | 113747 | [113747-galaxity.json](./113747-galaxity.json) |
 | GalaxIverse II | 304895 | [304895-galaxiverse-ii.json](./304895-galaxiverse-ii.json) |
@@ -257,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Germany's Next Top Model: Das Offizielle Spiel zur Staffel 2009 | 86128 | [86128-germanys-next-top-model-das-offizielle-spiel-zur-staffel-2009.json](./86128-germanys-next-top-model-das-offizielle-spiel-zur-staffel-2009.json) |
 | GermCraft Deluxe | 208013 | [208013-germcraft-deluxe.json](./208013-germcraft-deluxe.json) |
 | Get Away From The Cube | 335678 | [335678-get-away-from-the-cube.json](./335678-get-away-from-the-cube.json) |
+| Get Dexter 2 | 55203 | [55203-get-dexter-2.json](./55203-get-dexter-2.json) |
 | Get Home Safe | 229327 | [229327-get-home-safe.json](./229327-get-home-safe.json) |
 | Get in the Car, Loser!: The Fate of Another World | 226411 | [226411-get-in-the-car-loser-the-fate-of-another-world.json](./226411-get-in-the-car-loser-the-fate-of-another-world.json) |
 | Get it Hard | 215935 | [215935-get-it-hard.json](./215935-get-it-hard.json) |
