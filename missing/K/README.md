@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Fight! | 58239 | [58239-kung-fu-fight.json](./58239-kung-fu-fight.json) |
 | Kung Fu Panda 2 | 230549 | [230549-kung-fu-panda-2.json](./230549-kung-fu-panda-2.json) |
 | Kung Fu Panda: Legendary Warriors | 259266 | [259266-kung-fu-panda-legendary-warriors.json](./259266-kung-fu-panda-legendary-warriors.json) |
+| Kung Fu Strike: The Warrior's Rise - Master Level | 9385 | [9385-kung-fu-strike-the-warriors-rise-master-level.json](./9385-kung-fu-strike-the-warriors-rise-master-level.json) |
 | Kung Fury: Street Rage - Ultimate Edition | 204716 | [204716-kung-fury-street-rage-ultimate-edition.json](./204716-kung-fury-street-rage-ultimate-edition.json) |
 | Kung Pao Banqi | 320527 | [320527-kung-pao-banqi.json](./320527-kung-pao-banqi.json) |
 | Kung-Fu Street | 137063 | [137063-kung-fu-street.json](./137063-kung-fu-street.json) |
