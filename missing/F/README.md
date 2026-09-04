@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV Online | 386 | [386-final-fantasy-xiv-online.json](./386-final-fantasy-xiv-online.json) |
 | Final Fantasy XIV: Endwalker | 143232 | [143232-final-fantasy-xiv-endwalker.json](./143232-final-fantasy-xiv-endwalker.json) |
 | Final Fantasy XIV: Endwalker - Collector's Edition | 152343 | [152343-final-fantasy-xiv-endwalker-collectors-edition.json](./152343-final-fantasy-xiv-endwalker-collectors-edition.json) |
+| Final Fantasy XV: Episode Ardyn | 76430 | [76430-final-fantasy-xv-episode-ardyn.json](./76430-final-fantasy-xv-episode-ardyn.json) |
 | Final Fantasy XV: Episode Prompto | 37193 | [37193-final-fantasy-xv-episode-prompto.json](./37193-final-fantasy-xv-episode-prompto.json) |
 | Final Fantasy XV: Special Edition | 205260 | [205260-final-fantasy-xv-special-edition.json](./205260-final-fantasy-xv-special-edition.json) |
 | Final Fantasy XVI: Deluxe Edition | 228738 | [228738-final-fantasy-xvi-deluxe-edition.json](./228738-final-fantasy-xvi-deluxe-edition.json) |
@@ -532,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireside Hero | 191854 | [191854-fireside-hero.json](./191854-fireside-hero.json) |
 | Firestarter | 78049 | [78049-firestarter.json](./78049-firestarter.json) |
 | FireTry: Capture the Flag | 167850 | [167850-firetry-capture-the-flag.json](./167850-firetry-capture-the-flag.json) |
+| Firewall Zero Hour | 76966 | [76966-firewall-zero-hour.json](./76966-firewall-zero-hour.json) |
 | Firewatch: Audio Tour | 251228 | [251228-firewatch-audio-tour.json](./251228-firewatch-audio-tour.json) |
 | Firewind | 73322 | [73322-firewind.json](./73322-firewind.json) |
 | Firework Syndrome | 310756 | [310756-firework-syndrome.json](./310756-firework-syndrome.json) |
