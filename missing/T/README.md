@@ -1102,13 +1102,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Journey of a Day | 269848 | [269848-the-legend-of-zelda-journey-of-a-day.json](./269848-the-legend-of-zelda-journey-of-a-day.json) |
 | The Legend of Zelda: Just Beginning | 324079 | [324079-the-legend-of-zelda-just-beginning.json](./324079-the-legend-of-zelda-just-beginning.json) |
 | The Legend of Zelda: Link's Awakening | 1028 | [1028-the-legend-of-zelda-links-awakening.json](./1028-the-legend-of-zelda-links-awakening.json) |
+| The Legend of Zelda: Link's Awakening DX | 1027 | [1027-the-legend-of-zelda-links-awakening-dx.json](./1027-the-legend-of-zelda-links-awakening-dx.json) |
 | The Legend of Zelda: Link's Shadow | 269867 | [269867-the-legend-of-zelda-links-shadow.json](./269867-the-legend-of-zelda-links-shadow.json) |
+| The Legend of Zelda: Majora's Mask 3D | 8593 | [8593-the-legend-of-zelda-majoras-mask-3d.json](./8593-the-legend-of-zelda-majoras-mask-3d.json) |
 | The Legend of Zelda: Mystery of Solarus XD | 46620 | [46620-the-legend-of-zelda-mystery-of-solarus-xd.json](./46620-the-legend-of-zelda-mystery-of-solarus-xd.json) |
 | The Legend of Zelda: Nightmare | 255387 | [255387-the-legend-of-zelda-nightmare.json](./255387-the-legend-of-zelda-nightmare.json) |
 | The Legend of Zelda: Oracle of Life Online | 324095 | [324095-the-legend-of-zelda-oracle-of-life-online.json](./324095-the-legend-of-zelda-oracle-of-life-online.json) |
 | The Legend of Zelda: Parallel Worlds Remodel | 198543 | [198543-the-legend-of-zelda-parallel-worlds-remodel.json](./198543-the-legend-of-zelda-parallel-worlds-remodel.json) |
 | The Legend of Zelda: Perils of Darkness | 213041 | [213041-the-legend-of-zelda-perils-of-darkness.json](./213041-the-legend-of-zelda-perils-of-darkness.json) |
 | The Legend of Zelda: Skyward Sword HD Randomizer | 331139 | [331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json](./331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json) |
+| The Legend of Zelda: Spirit Tracks | 1038 | [1038-the-legend-of-zelda-spirit-tracks.json](./1038-the-legend-of-zelda-spirit-tracks.json) |
 | The Legend of Zelda: The Wind Waker HD Randomizer | 332219 | [332219-the-legend-of-zelda-the-wind-waker-hd-randomizer.json](./332219-the-legend-of-zelda-the-wind-waker-hd-randomizer.json) |
 | The Legend of Zelda: Whomp's Fortress | 299484 | [299484-the-legend-of-zelda-whomps-fortress.json](./299484-the-legend-of-zelda-whomps-fortress.json) |
 | The Lesser Evil | 176507 | [176507-the-lesser-evil.json](./176507-the-lesser-evil.json) |
@@ -1375,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rules | 224762 | [224762-the-rules.json](./224762-the-rules.json) |
 | The Rumble Fish: Complete Pack | 336932 | [336932-the-rumble-fish-complete-pack.json](./336932-the-rumble-fish-complete-pack.json) |
 | The Runaway Feijoao | 159874 | [159874-the-runaway-feijoao.json](./159874-the-runaway-feijoao.json) |
+| The Saboteur | 3171 | [3171-the-saboteur.json](./3171-the-saboteur.json) |
 | The Saddle Club | 268211 | [268211-the-saddle-club.json](./268211-the-saddle-club.json) |
 | The Safeguard Garrison 2 | 28899 | [28899-the-safeguard-garrison-2.json](./28899-the-safeguard-garrison-2.json) |
 | The Saga of Nino's Transmigration | 120389 | [120389-the-saga-of-ninos-transmigration.json](./120389-the-saga-of-ninos-transmigration.json) |
@@ -1516,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Super Mario Bros. Super Literature Club! | 294438 | [294438-the-super-mario-bros-super-literature-club.json](./294438-the-super-mario-bros-super-literature-club.json) |
 | The Super Mario Bros. Super Show! 64 | 135268 | [135268-the-super-mario-bros-super-show-64.json](./135268-the-super-mario-bros-super-show-64.json) |
 | The Surge 2: Premium Edition | 154535 | [154535-the-surge-2-premium-edition.json](./154535-the-surge-2-premium-edition.json) |
+| The Swapper | 5892 | [5892-the-swapper.json](./5892-the-swapper.json) |
 | The Swarm | 226432 | [226432-the-swarm.json](./226432-the-swarm.json) |
 | The Sweetest Ring | 268213 | [268213-the-sweetest-ring.json](./268213-the-sweetest-ring.json) |
 | The Swine | 137693 | [137693-the-swine.json](./137693-the-swine.json) |
@@ -1759,6 +1764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thistledown: Marrowroot | 216502 | [216502-thistledown-marrowroot.json](./216502-thistledown-marrowroot.json) |
 | THO Simulator | 188086 | [188086-tho-simulator.json](./188086-tho-simulator.json) |
 | Thomas to Asonde Oboeru Kotoba to Kazu to ABC | 222516 | [222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json](./222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json) |
+| Thomas Was Alone | 2291 | [2291-thomas-was-alone.json](./2291-thomas-was-alone.json) |
 | Thor | 95414 | [95414-thor.json](./95414-thor.json) |
 | Thor: The Dark World - The Official Game | 62214 | [62214-thor-the-dark-world-the-official-game.json](./62214-thor-the-dark-world-the-official-game.json) |
 | Thorns & Spells | 47299 | [47299-thorns-and-spells.json](./47299-thorns-and-spells.json) |
@@ -1783,6 +1789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrive | 142499 | [142499-thrive.json](./142499-thrive.json) |
 | Throb of Lovegirl: A Ero Waifu TD | 175983 | [175983-throb-of-lovegirl-a-ero-waifu-td.json](./175983-throb-of-lovegirl-a-ero-waifu-td.json) |
 | Throne of Magic | 108502 | [108502-throne-of-magic.json](./108502-throne-of-magic.json) |
+| Thronebreaker: The Witcher Tales | 107300 | [107300-thronebreaker-the-witcher-tales.json](./107300-thronebreaker-the-witcher-tales.json) |
 | Through | 94765 | [94765-through.json](./94765-through.json) |
 | Through the Mist and Sky | 102179 | [102179-through-the-mist-and-sky.json](./102179-through-the-mist-and-sky.json) |
 | Throw Cubes into Brick Towers to Collapse Them | 134662 | [134662-throw-cubes-into-brick-towers-to-collapse-them.json](./134662-throw-cubes-into-brick-towers-to-collapse-them.json) |
@@ -2176,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege: Operation Vector Glare | 217521 | [217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json](./217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json) |
 | Tom Clancy's Splinter Cell | 90689 | [90689-tom-clancys-splinter-cell.json](./90689-tom-clancys-splinter-cell.json) |
 | Tom Clancy's Splinter Cell: Conviction - Insurgency Pack | 11010 | [11010-tom-clancys-splinter-cell-conviction-insurgency-pack.json](./11010-tom-clancys-splinter-cell-conviction-insurgency-pack.json) |
+| Tom Clancy's Splinter Cell: Double Agent | 7469 | [7469-tom-clancys-splinter-cell-double-agent.json](./7469-tom-clancys-splinter-cell-double-agent.json) |
 | Tom Clancy's Splinter Cell: Elite Echelon Edition | 27866 | [27866-tom-clancys-splinter-cell-elite-echelon-edition.json](./27866-tom-clancys-splinter-cell-elite-echelon-edition.json) |
 | Tom Clancy's Splinter Cell: Pandora Tomorrow | 874 | [874-tom-clancys-splinter-cell-pandora-tomorrow.json](./874-tom-clancys-splinter-cell-pandora-tomorrow.json) |
 | Tom Clancy's SSN | 57686 | [57686-tom-clancys-ssn.json](./57686-tom-clancys-ssn.json) |
@@ -2198,6 +2206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of Trials | 180270 | [180270-tomb-of-trials.json](./180270-tomb-of-trials.json) |
 | Tomb Raider Collection 1 | 299439 | [299439-tomb-raider-collection-1.json](./299439-tomb-raider-collection-1.json) |
 | Tomb Raider II: Collector's Edition | 159319 | [159319-tomb-raider-ii-collectors-edition.json](./159319-tomb-raider-ii-collectors-edition.json) |
+| Tomb Raider III: Adventures of Lara Croft | 1157 | [1157-tomb-raider-iii-adventures-of-lara-croft.json](./1157-tomb-raider-iii-adventures-of-lara-croft.json) |
 | Tomb Raider: Anniversary - Collectors Edition | 202972 | [202972-tomb-raider-anniversary-collectors-edition.json](./202972-tomb-raider-anniversary-collectors-edition.json) |
 | Tomb Raider: The Angel of Darkness 1.5 | 156178 | [156178-tomb-raider-the-angel-of-darkness-1-5.json](./156178-tomb-raider-the-angel-of-darkness-1-5.json) |
 | Tomb Robber | 90655 | [90655-tomb-robber.json](./90655-tomb-robber.json) |
