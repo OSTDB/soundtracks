@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| C-Rush | 16833 | [16833-c-rush.json](./16833-c-rush.json) |
 | C-War 2 | 119010 | [119010-c-war-2.json](./119010-c-war-2.json) |
 | C: The Contra Adventure | 45010 | [45010-c-the-contra-adventure.json](./45010-c-the-contra-adventure.json) |
 | C.A.R.D.S. RPG: The Misty Battlefield | 273624 | [273624-c-a-r-d-s-rpg-the-misty-battlefield.json](./273624-c-a-r-d-s-rpg-the-misty-battlefield.json) |
@@ -409,7 +410,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman Warriors | 29250 | [29250-caveman-warriors.json](./29250-caveman-warriors.json) |
 | Cavemen vs. Aliens | 91412 | [91412-cavemen-vs-aliens.json](./91412-cavemen-vs-aliens.json) |
 | Cavern Crusader | 73303 | [73303-cavern-crusader.json](./73303-cavern-crusader.json) |
+| Cavern of Dreams | 219095 | [219095-cavern-of-dreams.json](./219095-cavern-of-dreams.json) |
 | Caverns of Callisto | 24990 | [24990-caverns-of-callisto.json](./24990-caverns-of-callisto.json) |
+| Caverns of Mars: Recharged | 233624 | [233624-caverns-of-mars-recharged.json](./233624-caverns-of-mars-recharged.json) |
 | Caves of Qud | 24054 | [24054-caves-of-qud.json](./24054-caves-of-qud.json) |
 | Cavescape | 317012 | [317012-cavescape.json](./317012-cavescape.json) |
 | Caxy Gambá Encontra o Monstruário | 257103 | [257103-caxy-gamba-encontra-o-monstruario.json](./257103-caxy-gamba-encontra-o-monstruario.json) |
@@ -1127,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Companion | 30884 | [30884-companion.json](./30884-companion.json) |
 | Company of Heroes | 654 | [654-company-of-heroes.json](./654-company-of-heroes.json) |
 | Company of Heroes 2: Complete Collection | 145682 | [145682-company-of-heroes-2-complete-collection.json](./145682-company-of-heroes-2-complete-collection.json) |
+| Company of Heroes 3: Console Edition | 228537 | [228537-company-of-heroes-3-console-edition.json](./228537-company-of-heroes-3-console-edition.json) |
 | Company of Heroes 3: Console Launch Edition | 247187 | [247187-company-of-heroes-3-console-launch-edition.json](./247187-company-of-heroes-3-console-launch-edition.json) |
 | Company of Heroes 3: Hammer & Shield | 277019 | [277019-company-of-heroes-3-hammer-and-shield.json](./277019-company-of-heroes-3-hammer-and-shield.json) |
 | Company of Heroes: Legacy Edition | 84532 | [84532-company-of-heroes-legacy-edition.json](./84532-company-of-heroes-legacy-edition.json) |
