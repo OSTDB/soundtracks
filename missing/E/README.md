@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Heck | 149604 | [149604-endless-heck.json](./149604-endless-heck.json) |
 | Endless Love | 152933 | [152933-endless-love.json](./152933-endless-love.json) |
 | Endless Martian Pit | 185692 | [185692-endless-martian-pit.json](./185692-endless-martian-pit.json) |
+| Endless Memories | 126265 | [126265-endless-memories.json](./126265-endless-memories.json) |
 | Endless Nightmare | 193996 | [193996-endless-nightmare.json](./193996-endless-nightmare.json) |
 | Endless Nightmare: Shrine | 200737 | [200737-endless-nightmare-shrine.json](./200737-endless-nightmare-shrine.json) |
 | Endless Siege Online | 218696 | [218696-endless-siege-online.json](./218696-endless-siege-online.json) |
@@ -504,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternals' Path | 249999 | [249999-eternals-path.json](./249999-eternals-path.json) |
 | Eternia: Chronicles of Meranthe | 215366 | [215366-eternia-chronicles-of-meranthe.json](./215366-eternia-chronicles-of-meranthe.json) |
 | Eternity Convergence | 156135 | [156135-eternity-convergence.json](./156135-eternity-convergence.json) |
+| Ether Loop | 126735 | [126735-ether-loop.json](./126735-ether-loop.json) |
 | Ethereal: Clash of Souls | 127325 | [127325-ethereal-clash-of-souls.json](./127325-ethereal-clash-of-souls.json) |
 | EthnoGuessr | 340230 | [340230-ethnoguessr.json](./340230-ethnoguessr.json) |
 | Eto-cetera In no Maki | 113729 | [113729-eto-cetera-in-no-maki.json](./113729-eto-cetera-in-no-maki.json) |
@@ -645,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo-Leviathan | 259284 | [259284-exo-leviathan.json](./259284-exo-leviathan.json) |
 | ExoCorps | 121018 | [121018-exocorps.json](./121018-exocorps.json) |
 | Exogen VR Experience | 117049 | [117049-exogen-vr-experience.json](./117049-exogen-vr-experience.json) |
+| Exophobia | 126756 | [126756-exophobia.json](./126756-exophobia.json) |
 | Exoprimal: Barrage Splash! Set | 256550 | [256550-exoprimal-barrage-splash-set.json](./256550-exoprimal-barrage-splash-set.json) |
 | Exoprimal: Deadeye QB-W Set | 256547 | [256547-exoprimal-deadeye-qb-w-set.json](./256547-exoprimal-deadeye-qb-w-set.json) |
 | Exoprimal: Krieger Alpha Tin Machine Set | 298328 | [298328-exoprimal-krieger-alpha-tin-machine-set.json](./298328-exoprimal-krieger-alpha-tin-machine-set.json) |
