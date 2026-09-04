@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Doodle Fly | 241045 | [241045-a-doodle-fly.json](./241045-a-doodle-fly.json) |
 | A Dream of Silence | 317637 | [317637-a-dream-of-silence.json](./317637-a-dream-of-silence.json) |
 | A Factory Job | 192455 | [192455-a-factory-job.json](./192455-a-factory-job.json) |
+| A Farewell to Dragons | 20667 | [20667-a-farewell-to-dragons.json](./20667-a-farewell-to-dragons.json) |
 | A Feeble Saga | 126043 | [126043-a-feeble-saga.json](./126043-a-feeble-saga.json) |
 | A Few Billion Square Tiles | 104687 | [104687-a-few-billion-square-tiles.json](./104687-a-few-billion-square-tiles.json) |
 | A Fistful of Doom | 140047 | [140047-a-fistful-of-doom.json](./140047-a-fistful-of-doom.json) |
@@ -468,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agapan | 35878 | [35878-agapan.json](./35878-agapan.json) |
 | Agapito's Crazy Adventure | 332833 | [332833-agapitos-crazy-adventure.json](./332833-agapitos-crazy-adventure.json) |
 | Agatha Christie: 4:50 from Paddington | 135245 | [135245-agatha-christie-4-50-from-paddington.json](./135245-agatha-christie-4-50-from-paddington.json) |
+| Agatha Christie: Death on the Nile | 21134 | [21134-agatha-christie-death-on-the-nile.json](./21134-agatha-christie-death-on-the-nile.json) |
 | Agatha Knife | 28312 | [28312-agatha-knife.json](./28312-agatha-knife.json) |
 | Age of Aincrad | 223686 | [223686-age-of-aincrad.json](./223686-age-of-aincrad.json) |
 | Age of Barbarians Chronicles | 207506 | [207506-age-of-barbarians-chronicles.json](./207506-age-of-barbarians-chronicles.json) |
@@ -1204,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua 3 | 273134 | [273134-aqua-3.json](./273134-aqua-3.json) |
 | AquaFantasia | 297786 | [297786-aquafantasia.json](./297786-aquafantasia.json) |
 | AquaHero | 237665 | [237665-aquahero.json](./237665-aquahero.json) |
+| Aquanaut's Holiday | 20589 | [20589-aquanauts-holiday.json](./20589-aquanauts-holiday.json) |
 | Aquanoid | 46629 | [46629-aquanoid.json](./46629-aquanoid.json) |
 | Aquapark Tycoon | 296651 | [296651-aquapark-tycoon.json](./296651-aquapark-tycoon.json) |
 | Aquaphobia | 46655 | [46655-aquaphobia.json](./46655-aquaphobia.json) |
