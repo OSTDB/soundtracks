@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Arise: Beyond the Dawn - Attachment Pack | 293401 | [293401-tales-of-arise-beyond-the-dawn-attachment-pack.json](./293401-tales-of-arise-beyond-the-dawn-attachment-pack.json) |
 | Tales of Arise: Premium Edition | 146339 | [146339-tales-of-arise-premium-edition.json](./146339-tales-of-arise-premium-edition.json) |
 | Tales of Arise: SAO Collaboration Pack | 259813 | [259813-tales-of-arise-sao-collaboration-pack.json](./259813-tales-of-arise-sao-collaboration-pack.json) |
+| Tales of Graces | 1211 | [1211-tales-of-graces.json](./1211-tales-of-graces.json) |
 | Tales of Innocence R | 42673 | [42673-tales-of-innocence-r.json](./42673-tales-of-innocence-r.json) |
 | Tales of Lagoona: Orphans of the Ocean | 54424 | [54424-tales-of-lagoona-orphans-of-the-ocean.json](./54424-tales-of-lagoona-orphans-of-the-ocean.json) |
 | Tales of Terror: House on the Hill | 139428 | [139428-tales-of-terror-house-on-the-hill.json](./139428-tales-of-terror-house-on-the-hill.json) |
@@ -327,11 +328,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Lawnmower | 308559 | [308559-teenage-lawnmower.json](./308559-teenage-lawnmower.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Radical Reptiles | 317624 | [317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json](./317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json) |
 | Teenage Mutant Ninja Turtles: The HyperStone Heist | 4404 | [4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json](./4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json) |
+| Teenage Mutant Ninja Turtles: Tournament Fighters | 134079 | [134079-teenage-mutant-ninja-turtles-tournament-fighters.json](./134079-teenage-mutant-ninja-turtles-tournament-fighters.json) |
 | Teeny Heist | 83556 | [83556-teeny-heist.json](./83556-teeny-heist.json) |
 | Teeny Tiny Trains | 297228 | [297228-teeny-tiny-trains.json](./297228-teeny-tiny-trains.json) |
 | Teeth Brushing Simulator | 228730 | [228730-teeth-brushing-simulator.json](./228730-teeth-brushing-simulator.json) |
 | Teisoukannen Zero: Yariman Kazoku to Hame Kurui Natsuyasumi | 82956 | [82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json](./82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json) |
 | Tekichuu Keiba Juku | 37791 | [37791-tekichuu-keiba-juku.json](./37791-tekichuu-keiba-juku.json) |
+| Tekken 3D: Prime Edition | 1237 | [1237-tekken-3d-prime-edition.json](./1237-tekken-3d-prime-edition.json) |
 | Tekken 6 | 1236 | [1236-tekken-6.json](./1236-tekken-6.json) |
 | Tekken 6 | 195868 | [195868-tekken-6.json](./195868-tekken-6.json) |
 | Tekken 6 | 272551 | [272551-tekken-6.json](./272551-tekken-6.json) |
@@ -632,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Button Be | 213629 | [213629-the-button-be.json](./213629-the-button-be.json) |
 | The Button Be: Fields | 217542 | [217542-the-button-be-fields.json](./217542-the-button-be-fields.json) |
 | The Button Be: Unexpected | 217543 | [217543-the-button-be-unexpected.json](./217543-the-button-be-unexpected.json) |
+| The Cabin Factory | 325273 | [325273-the-cabin-factory.json](./325273-the-cabin-factory.json) |
 | The Cadet Files: Scene Unseen | 278685 | [278685-the-cadet-files-scene-unseen.json](./278685-the-cadet-files-scene-unseen.json) |
 | The California Raisins | 73306 | [73306-the-california-raisins.json](./73306-the-california-raisins.json) |
 | The California Raisins: The Grape Escape | 48702 | [48702-the-california-raisins-the-grape-escape.json](./48702-the-california-raisins-the-grape-escape.json) |
@@ -1036,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Isle Survival | 261507 | [261507-the-isle-survival.json](./261507-the-isle-survival.json) |
 | The Isolated Town | 253594 | [253594-the-isolated-town.json](./253594-the-isolated-town.json) |
 | The Jackbox Party Pack 7 | 138375 | [138375-the-jackbox-party-pack-7.json](./138375-the-jackbox-party-pack-7.json) |
+| The Jackbox Party Pack 8 | 144783 | [144783-the-jackbox-party-pack-8.json](./144783-the-jackbox-party-pack-8.json) |
 | The Jellyfish Girl's Absolute Abnormal Adventure | 194656 | [194656-the-jellyfish-girls-absolute-abnormal-adventure.json](./194656-the-jellyfish-girls-absolute-abnormal-adventure.json) |
 | The journey to the party | 179743 | [179743-the-journey-to-the-party.json](./179743-the-journey-to-the-party.json) |
 | The Journey VR | 30873 | [30873-the-journey-vr.json](./30873-the-journey-vr.json) |
@@ -2255,6 +2260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege: Operation Brutal Swarm | 217522 | [217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json](./217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Neon Dawn | 141194 | [141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json](./141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Vector Glare | 217521 | [217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json](./217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json) |
+| Tom Clancy's Splinter Cell | 134350 | [134350-tom-clancys-splinter-cell.json](./134350-tom-clancys-splinter-cell.json) |
 | Tom Clancy's Splinter Cell | 90689 | [90689-tom-clancys-splinter-cell.json](./90689-tom-clancys-splinter-cell.json) |
 | Tom Clancy's Splinter Cell: Conviction - Insurgency Pack | 11010 | [11010-tom-clancys-splinter-cell-conviction-insurgency-pack.json](./11010-tom-clancys-splinter-cell-conviction-insurgency-pack.json) |
 | Tom Clancy's Splinter Cell: Double Agent | 7469 | [7469-tom-clancys-splinter-cell-double-agent.json](./7469-tom-clancys-splinter-cell-double-agent.json) |
@@ -2749,6 +2755,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribal Trouble | 64958 | [64958-tribal-trouble.json](./64958-tribal-trouble.json) |
 | Tribe of Pok | 31979 | [31979-tribe-of-pok.json](./31979-tribe-of-pok.json) |
 | Tribe of the Accord | 268221 | [268221-tribe-of-the-accord.json](./268221-tribe-of-the-accord.json) |
+| Tribes 2 | 922 | [922-tribes-2.json](./922-tribes-2.json) |
+| Tribes: Vengeance | 923 | [923-tribes-vengeance.json](./923-tribes-vengeance.json) |
 | Tribio puzzle: Strategic Spot | 253022 | [253022-tribio-puzzle-strategic-spot.json](./253022-tribio-puzzle-strategic-spot.json) |
 | Tribloos 3 | 104685 | [104685-tribloos-3.json](./104685-tribloos-3.json) |
 | Tribute | 293387 | [293387-tribute.json](./293387-tribute.json) |
@@ -2794,6 +2802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trollface Launch | 234908 | [234908-trollface-launch.json](./234908-trollface-launch.json) |
 | Trolls Remix Rescue | 261537 | [261537-trolls-remix-rescue.json](./261537-trolls-remix-rescue.json) |
 | Trollz: Hair Affair! | 49375 | [49375-trollz-hair-affair.json](./49375-trollz-hair-affair.json) |
+| Trombone Champ | 149821 | [149821-trombone-champ.json](./149821-trombone-champ.json) |
 | Tron | 89933 | [89933-tron.json](./89933-tron.json) |
 | Tron Run/r: Deluxe Edition | 53853 | [53853-tron-run-r-deluxe-edition.json](./53853-tron-run-r-deluxe-edition.json) |
 | Tron Run/r: Ultimate Edition | 53852 | [53852-tron-run-r-ultimate-edition.json](./53852-tron-run-r-ultimate-edition.json) |
