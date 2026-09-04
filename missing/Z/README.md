@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoids: The Battle Begins | 75873 | [75873-zoids-the-battle-begins.json](./75873-zoids-the-battle-begins.json) |
 | Zoku Mikagura Shoujo Tanteidan: Kanketsuhen | 60574 | [60574-zoku-mikagura-shoujo-tanteidan-kanketsuhen.json](./60574-zoku-mikagura-shoujo-tanteidan-kanketsuhen.json) |
 | Zolaris | 153454 | [153454-zolaris.json](./153454-zolaris.json) |
+| Zombapocalypse | 25753 | [25753-zombapocalypse.json](./25753-zombapocalypse.json) |
 | Zombeat | 79946 | [79946-zombeat.json](./79946-zombeat.json) |
 | Zombidle | 70384 | [70384-zombidle.json](./70384-zombidle.json) |
 | Zombie Accountant | 66159 | [66159-zombie-accountant.json](./66159-zombie-accountant.json) |
