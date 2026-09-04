@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naught | 117751 | [117751-naught.json](./117751-naught.json) |
 | Naught Reawakening | 35798 | [35798-naught-reawakening.json](./35798-naught-reawakening.json) |
 | Naught: Edahi & Dohai | 238215 | [238215-naught-edahi-and-dohai.json](./238215-naught-edahi-and-dohai.json) |
+| Naughty Kitties | 19593 | [19593-naughty-kitties.json](./19593-naughty-kitties.json) |
 | Nauka Prediel | 202401 | [202401-nauka-prediel.json](./202401-nauka-prediel.json) |
 | Nautikin Adventures | 329372 | [329372-nautikin-adventures.json](./329372-nautikin-adventures.json) |
 | Nautilus | 24937 | [24937-nautilus.json](./24937-nautilus.json) |
@@ -169,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbor Next Door | 309668 | [309668-neighbor-next-door.json](./309668-neighbor-next-door.json) |
 | Nekketsu Oyako | 61633 | [61633-nekketsu-oyako.json](./61633-nekketsu-oyako.json) |
 | Neko Bento | 324136 | [324136-neko-bento.json](./324136-neko-bento.json) |
+| Neko Daisuki! | 19668 | [19668-neko-daisuki.json](./19668-neko-daisuki.json) |
 | Neko Golf: Anime Golf | 223126 | [223126-neko-golf-anime-golf.json](./223126-neko-golf-anime-golf.json) |
 | Neko Miko Onryou Toubatsu Emaki | 244997 | [244997-neko-miko-onryou-toubatsu-emaki.json](./244997-neko-miko-onryou-toubatsu-emaki.json) |
 | Neko Neko Nihonshi: Rekishi Hakken Puzzle! | 222536 | [222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json](./222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json) |
@@ -342,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Sports Talk Football '93 Starring Joe Montana | 72117 | [72117-nfl-sports-talk-football-93-starring-joe-montana.json](./72117-nfl-sports-talk-football-93-starring-joe-montana.json) |
 | Ngolf: Legendary Edition | 315858 | [315858-ngolf-legendary-edition.json](./315858-ngolf-legendary-edition.json) |
 | NHL 19: Ultimate Edition | 61636 | [61636-nhl-19-ultimate-edition.json](./61636-nhl-19-ultimate-edition.json) |
+| NHL All-Star Hockey '95 | 19559 | [19559-nhl-all-star-hockey-95.json](./19559-nhl-all-star-hockey-95.json) |
 | NHL Stanley Cup | 42655 | [42655-nhl-stanley-cup.json](./42655-nhl-stanley-cup.json) |
 | NHRA Championship Drag Racing: Speed for All - Deluxe Edition | 214728 | [214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json](./214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json) |
 | NHRA Drag Racing 2 | 78037 | [78037-nhra-drag-racing-2.json](./78037-nhra-drag-racing-2.json) |
