@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Lab | 223661 | [223661-dead-lab.json](./223661-dead-lab.json) |
 | Dead Land 2 VR | 336368 | [336368-dead-land-2-vr.json](./336368-dead-land-2-vr.json) |
 | Dead Man Shooting | 183597 | [183597-dead-man-shooting.json](./183597-dead-man-shooting.json) |
+| Dead Man's Diary | 194871 | [194871-dead-mans-diary.json](./194871-dead-mans-diary.json) |
 | Dead Man's Fault | 228082 | [228082-dead-mans-fault.json](./228082-dead-mans-fault.json) |
 | Dead Man's Hand | 5809 | [5809-dead-mans-hand.json](./5809-dead-mans-hand.json) |
 | Dead Matter | 102806 | [102806-dead-matter.json](./102806-dead-matter.json) |
@@ -361,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadhunt | 33709 | [33709-deadhunt.json](./33709-deadhunt.json) |
 | Deadliest Demolition | 274747 | [274747-deadliest-demolition.json](./274747-deadliest-demolition.json) |
 | Deadlight: Director's Cut | 19454 | [19454-deadlight-directors-cut.json](./19454-deadlight-directors-cut.json) |
+| Deadly Dozen Reloaded | 193753 | [193753-deadly-dozen-reloaded.json](./193753-deadly-dozen-reloaded.json) |
 | Deadly Duck | 22434 | [22434-deadly-duck.json](./22434-deadly-duck.json) |
 | Deadly Joy | 334503 | [334503-deadly-joy.json](./334503-deadly-joy.json) |
 | Deadly Sky | 51981 | [51981-deadly-sky.json](./51981-deadly-sky.json) |
@@ -542,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delve Deeper | 16204 | [16204-delve-deeper.json](./16204-delve-deeper.json) |
 | Delve Deeper: Gratis Grottos | 26640 | [26640-delve-deeper-gratis-grottos.json](./26640-delve-deeper-gratis-grottos.json) |
 | DEM_Stage_Zero | 127369 | [127369-dem-stage-zero.json](./127369-dem-stage-zero.json) |
+| Demeo: PC Edition | 194737 | [194737-demeo-pc-edition.json](./194737-demeo-pc-edition.json) |
 | Demetrios: The Big Cynical Adventure - Replastered | 194005 | [194005-demetrios-the-big-cynical-adventure-replastered.json](./194005-demetrios-the-big-cynical-adventure-replastered.json) |
 | Demetrios: The Big Cynical Adventure & Xenon Valkyrie+ | 145053 | [145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json](./145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json) |
 | Demigod Idle: Rise of a legend | 265426 | [265426-demigod-idle-rise-of-a-legend.json](./265426-demigod-idle-rise-of-a-legend.json) |
@@ -906,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discworld | 8291 | [8291-discworld.json](./8291-discworld.json) |
 | Discworld II: Mortality Bytes! | 8292 | [8292-discworld-ii-mortality-bytes.json](./8292-discworld-ii-mortality-bytes.json) |
 | Disgaea 4 Complete+: A Promise of Sardines Edition | 205262 | [205262-disgaea-4-complete-a-promise-of-sardines-edition.json](./205262-disgaea-4-complete-a-promise-of-sardines-edition.json) |
+| Disgaea 6 Complete | 191497 | [191497-disgaea-6-complete.json](./191497-disgaea-6-complete.json) |
 | Disgaea 7: Vows of the Virtueless | 214530 | [214530-disgaea-7-vows-of-the-virtueless.json](./214530-disgaea-7-vows-of-the-virtueless.json) |
 | Dishonored 2: Steelbook Edition | 308562 | [308562-dishonored-2-steelbook-edition.json](./308562-dishonored-2-steelbook-edition.json) |
 | Dishonored: Death of the Outsider | 37030 | [37030-dishonored-death-of-the-outsider.json](./37030-dishonored-death-of-the-outsider.json) |
@@ -1688,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying: Reborn | 27569 | [27569-dying-reborn.json](./27569-dying-reborn.json) |
 | Dylan Dog: Horror Luna Park | 70970 | [70970-dylan-dog-horror-luna-park.json](./70970-dylan-dog-horror-luna-park.json) |
 | Dymension | 191262 | [191262-dymension.json](./191262-dymension.json) |
+| Dynacat | 196958 | [196958-dynacat.json](./196958-dynacat.json) |
 | Dynacore | 214722 | [214722-dynacore.json](./214722-dynacore.json) |
 | Dynamic Chord feat. Apple-Polisher | 142447 | [142447-dynamic-chord-feat-apple-polisher.json](./142447-dynamic-chord-feat-apple-polisher.json) |
 | Dynamic Chord feat. Kyohso | 142446 | [142446-dynamic-chord-feat-kyohso.json](./142446-dynamic-chord-feat-kyohso.json) |
