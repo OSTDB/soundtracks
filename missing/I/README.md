@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iceman: Digital PlayStage | 180837 | [180837-iceman-digital-playstage.json](./180837-iceman-digital-playstage.json) |
 | Icewind Dale II: Collector's Edition | 232152 | [232152-icewind-dale-ii-collectors-edition.json](./232152-icewind-dale-ii-collectors-edition.json) |
 | Icewind Dale: Complete | 143699 | [143699-icewind-dale-complete.json](./143699-icewind-dale-complete.json) |
+| Icewind Dale: Enhanced Edition | 36240 | [36240-icewind-dale-enhanced-edition.json](./36240-icewind-dale-enhanced-edition.json) |
 | Ichor | 122398 | [122398-ichor.json](./122398-ichor.json) |
 | iClub Manager | 200159 | [200159-iclub-manager.json](./200159-iclub-manager.json) |
 | Icon Tower Defense | 333384 | [333384-icon-tower-defense.json](./333384-icon-tower-defense.json) |
@@ -182,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Il Divino: Michelangelo's Sistine Ceiling in VR | 130925 | [130925-il-divino-michelangelos-sistine-ceiling-in-vr.json](./130925-il-divino-michelangelos-sistine-ceiling-in-vr.json) |
 | Il Filo Conduttore | 134699 | [134699-il-filo-conduttore.json](./134699-il-filo-conduttore.json) |
 | Il Fiore di Moretti | 331141 | [331141-il-fiore-di-moretti.json](./331141-il-fiore-di-moretti.json) |
+| IL-2 Sturmovik: 1946 | 5563 | [5563-il-2-sturmovik-1946.json](./5563-il-2-sturmovik-1946.json) |
 | IL-2 Sturmovik: Hell Hawks Over the Bulge Campaign | 267661 | [267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json](./267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json) |
 | IL-2 Sturmovik: Lisunov Li-2 Collector Plane | 267662 | [267662-il-2-sturmovik-lisunov-li-2-collector-plane.json](./267662-il-2-sturmovik-lisunov-li-2-collector-plane.json) |
 | IL-2 Sturmovik: Ten Days of Autumn Campaign | 267663 | [267663-il-2-sturmovik-ten-days-of-autumn-campaign.json](./267663-il-2-sturmovik-ten-days-of-autumn-campaign.json) |
