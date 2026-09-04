@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xak I + II | 42006 | [42006-xak-i-ii.json](./42006-xak-i-ii.json) |
 | Xander the Monster Morpher: Universe Breaker | 120983 | [120983-xander-the-monster-morpher-universe-breaker.json](./120983-xander-the-monster-morpher-universe-breaker.json) |
 | Xango Tango | 205820 | [205820-xango-tango.json](./205820-xango-tango.json) |
+| XBlaze Lost: Memories | 11637 | [11637-xblaze-lost-memories.json](./11637-xblaze-lost-memories.json) |
 | xDasher | 132261 | [132261-xdasher.json](./132261-xdasher.json) |
 | XDefiant | 159029 | [159029-xdefiant.json](./159029-xdefiant.json) |
 | Xel: Breaking Time | 246632 | [246632-xel-breaking-time.json](./246632-xel-breaking-time.json) |
