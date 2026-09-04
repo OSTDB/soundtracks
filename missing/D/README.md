@@ -1297,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Robotnik's Mean Bean Tetris | 264896 | [264896-dr-robotniks-mean-bean-tetris.json](./264896-dr-robotniks-mean-bean-tetris.json) |
 | Dr. Rudy | 94262 | [94262-dr-rudy.json](./94262-dr-rudy.json) |
 | Dr. Seuss': The Cat in the Hat | 5814 | [5814-dr-seuss-the-cat-in-the-hat.json](./5814-dr-seuss-the-cat-in-the-hat.json) |
+| Dr. Trolley's Problem | 117072 | [117072-dr-trolleys-problem.json](./117072-dr-trolleys-problem.json) |
 | Dr.Tool Gehirn Sport | 81395 | [81395-dr-tool-gehirn-sport.json](./81395-dr-tool-gehirn-sport.json) |
 | Drac's Night Out | 48643 | [48643-dracs-night-out.json](./48643-dracs-night-out.json) |
 | Draco Dux | 33069 | [33069-draco-dux.json](./33069-draco-dux.json) |
@@ -1446,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread the Rabbit | 183595 | [183595-dread-the-rabbit.json](./183595-dread-the-rabbit.json) |
 | Dread X Collection 3 | 140041 | [140041-dread-x-collection-3.json](./140041-dread-x-collection-3.json) |
 | Dreader | 176487 | [176487-dreader.json](./176487-dreader.json) |
+| Dreadlands | 117002 | [117002-dreadlands.json](./117002-dreadlands.json) |
 | Dreadnaughts | 55178 | [55178-dreadnaughts.json](./55178-dreadnaughts.json) |
 | DreadOut | 11712 | [11712-dreadout.json](./11712-dreadout.json) |
 | DreadWood | 184110 | [184110-dreadwood.json](./184110-dreadwood.json) |
@@ -1527,6 +1529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Ahead! Carcade | 321142 | [321142-drive-ahead-carcade.json](./321142-drive-ahead-carcade.json) |
 | Drive Beyond Horizons | 290959 | [290959-drive-beyond-horizons.json](./290959-drive-beyond-horizons.json) |
 | Drive Drift X | 187487 | [187487-drive-drift-x.json](./187487-drive-drift-x.json) |
+| Drive for Your Life | 116722 | [116722-drive-for-your-life.json](./116722-drive-for-your-life.json) |
 | Drive Simulator 2016 | 90673 | [90673-drive-simulator-2016.json](./90673-drive-simulator-2016.json) |
 | Drive Your Car | 199629 | [199629-drive-your-car.json](./199629-drive-your-car.json) |
 | Driveby Gangster | 34452 | [34452-driveby-gangster.json](./34452-driveby-gangster.json) |
