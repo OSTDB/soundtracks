@@ -348,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Bull Air Race 2 | 100165 | [100165-red-bull-air-race-2.json](./100165-red-bull-air-race-2.json) |
 | Red Bull: Soapbox Racers | 336920 | [336920-red-bull-soapbox-racers.json](./336920-red-bull-soapbox-racers.json) |
 | Red Colony | 139466 | [139466-red-colony.json](./139466-red-colony.json) |
+| Red Comrades 2: For the Great Justice - Reloaded | 33509 | [33509-red-comrades-2-for-the-great-justice-reloaded.json](./33509-red-comrades-2-for-the-great-justice-reloaded.json) |
 | Red Conquer | 186862 | [186862-red-conquer.json](./186862-red-conquer.json) |
 | Red Crimes: Hidden Murders | 108508 | [108508-red-crimes-hidden-murders.json](./108508-red-crimes-hidden-murders.json) |
 | Red Crow Mysteries: Legion | 9410 | [9410-red-crow-mysteries-legion.json](./9410-red-crow-mysteries-legion.json) |
@@ -429,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refuge | 226969 | [226969-refuge.json](./226969-refuge.json) |
 | Refund Me If You Can | 204074 | [204074-refund-me-if-you-can.json](./204074-refund-me-if-you-can.json) |
 | Refuted Wind | 319343 | [319343-refuted-wind.json](./319343-refuted-wind.json) |
+| Regalia: Of Men and Monarchs | 30205 | [30205-regalia-of-men-and-monarchs.json](./30205-regalia-of-men-and-monarchs.json) |
 | Regalia: Of Men and Monarchs - Paragons and Pajamas | 172162 | [172162-regalia-of-men-and-monarchs-paragons-and-pajamas.json](./172162-regalia-of-men-and-monarchs-paragons-and-pajamas.json) |
 | Regency Solitaire II | 237089 | [237089-regency-solitaire-ii.json](./237089-regency-solitaire-ii.json) |
 | Reggie's Adventures: Part 1 - Escape From Paradise | 230502 | [230502-reggies-adventures-part-1-escape-from-paradise.json](./230502-reggies-adventures-part-1-escape-from-paradise.json) |
@@ -1012,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romans From Mars | 62224 | [62224-romans-from-mars.json](./62224-romans-from-mars.json) |
 | Romantic Escapades | 297207 | [297207-romantic-escapades.json](./297207-romantic-escapades.json) |
 | Rome 2077: Tactics | 187526 | [187526-rome-2077-tactics.json](./187526-rome-2077-tactics.json) |
+| Rome: Total War - Gold Edition | 24146 | [24146-rome-total-war-gold-edition.json](./24146-rome-total-war-gold-edition.json) |
 | Romeo | 71527 | [71527-romeo.json](./71527-romeo.json) |
 | Romeo & Juliet | 145667 | [145667-romeo-and-juliet.json](./145667-romeo-and-juliet.json) |
 | Romeo vs. Juliet: All Series Pack | 59447 | [59447-romeo-vs-juliet-all-series-pack.json](./59447-romeo-vs-juliet-all-series-pack.json) |
