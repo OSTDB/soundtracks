@@ -276,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judge Dredd | 4387 | [4387-judge-dredd.json](./4387-judge-dredd.json) |
 | Judgement | 335650 | [335650-judgement.json](./335650-judgement.json) |
 | Judgment Day: Pacific Assault | 340777 | [340777-judgment-day-pacific-assault.json](./340777-judgment-day-pacific-assault.json) |
+| Judgment: Apocalypse Survival Simulation | 33153 | [33153-judgment-apocalypse-survival-simulation.json](./33153-judgment-apocalypse-survival-simulation.json) |
 | Juggle Struggle | 250659 | [250659-juggle-struggle.json](./250659-juggle-struggle.json) |
 | Juggles' Butterfly | 72105 | [72105-juggles-butterfly.json](./72105-juggles-butterfly.json) |
 | Juggling | 340778 | [340778-juggling.json](./340778-juggling.json) |
