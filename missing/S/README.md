@@ -1961,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Control: Origins - Multiverse | 124805 | [124805-star-control-origins-multiverse.json](./124805-star-control-origins-multiverse.json) |
 | Star Crew | 329938 | [329938-star-crew.json](./329938-star-crew.json) |
 | Star Cruiser | 265968 | [265968-star-cruiser.json](./265968-star-cruiser.json) |
+| Star Crusader | 15566 | [15566-star-crusader.json](./15566-star-crusader.json) |
 | Star Cycle | 312900 | [312900-star-cycle.json](./312900-star-cycle.json) |
 | Star Daemon | 112309 | [112309-star-daemon.json](./112309-star-daemon.json) |
 | Star Days | 194632 | [194632-star-days.json](./194632-star-days.json) |
