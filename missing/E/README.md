@@ -25,6 +25,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ears of the Killer | 206957 | [206957-ears-of-the-killer.json](./206957-ears-of-the-killer.json) |
 | Earth 2025 | 92497 | [92497-earth-2025.json](./92497-earth-2025.json) |
 | Earth 2140: Mission Pack 1 | 79919 | [79919-earth-2140-mission-pack-1.json](./79919-earth-2140-mission-pack-1.json) |
+| Earth and Sky | 9427 | [9427-earth-and-sky.json](./9427-earth-and-sky.json) |
+| Earth and Sky 2: Another Earth, Another Sky | 9504 | [9504-earth-and-sky-2-another-earth-another-sky.json](./9504-earth-and-sky-2-another-earth-another-sky.json) |
+| Earth and Sky 3: Luminous Horizon | 9505 | [9505-earth-and-sky-3-luminous-horizon.json](./9505-earth-and-sky-3-luminous-horizon.json) |
 | Earth Brigades | 204085 | [204085-earth-brigades.json](./204085-earth-brigades.json) |
 | Earth Defender | 112318 | [112318-earth-defender.json](./112318-earth-defender.json) |
 | Earth Defense Force | 46666 | [46666-earth-defense-force.json](./46666-earth-defense-force.json) |
@@ -331,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enter the Backrooms | 157710 | [157710-enter-the-backrooms.json](./157710-enter-the-backrooms.json) |
 | Enter the Skinja | 183082 | [183082-enter-the-skinja.json](./183082-enter-the-skinja.json) |
 | Enter/Exit the Gungeon | 228735 | [228735-enter-exit-the-gungeon.json](./228735-enter-exit-the-gungeon.json) |
+| Enterprise | 12993 | [12993-enterprise.json](./12993-enterprise.json) |
 | Entertainment Simulator | 151713 | [151713-entertainment-simulator.json](./151713-entertainment-simulator.json) |
 | Enthralled | 239882 | [239882-enthralled.json](./239882-enthralled.json) |
 | Entity | 171620 | [171620-entity.json](./171620-entity.json) |
@@ -390,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from here | 68659 | [68659-escape-from-here.json](./68659-escape-from-here.json) |
 | Escape from here | 68666 | [68666-escape-from-here.json](./68666-escape-from-here.json) |
 | Escape from Island | 313502 | [313502-escape-from-island.json](./313502-escape-from-island.json) |
+| Escape from Khoshima | 12994 | [12994-escape-from-khoshima.json](./12994-escape-from-khoshima.json) |
 | Escape From Lavender Island | 235991 | [235991-escape-from-lavender-island.json](./235991-escape-from-lavender-island.json) |
 | Escape from Puzzlegate | 34373 | [34373-escape-from-puzzlegate.json](./34373-escape-from-puzzlegate.json) |
 | Escape From Roswell | 225901 | [225901-escape-from-roswell.json](./225901-escape-from-roswell.json) |
