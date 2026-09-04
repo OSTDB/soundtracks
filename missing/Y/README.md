@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yahtzee Party | 205809 | [205809-yahtzee-party.json](./205809-yahtzee-party.json) |
 | Yaku Slap | 329976 | [329976-yaku-slap.json](./329976-yaku-slap.json) |
 | Yakuman | 67330 | [67330-yakuman.json](./67330-yakuman.json) |
+| Yakuza 5 Remastered | 103017 | [103017-yakuza-5-remastered.json](./103017-yakuza-5-remastered.json) |
 | Yakuza Shadows of New York | 322399 | [322399-yakuza-shadows-of-new-york.json](./322399-yakuza-shadows-of-new-york.json) |
 | Yakuza: Like a Dragon | 36550 | [36550-yakuza-like-a-dragon.json](./36550-yakuza-like-a-dragon.json) |
 | Yamame Climb | 335688 | [335688-yamame-climb.json](./335688-yamame-climb.json) |
