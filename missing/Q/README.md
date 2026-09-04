@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | QAD: Quintessential Art of Destruction | 72102 | [72102-qad-quintessential-art-of-destruction.json](./72102-qad-quintessential-art-of-destruction.json) |
 | Qanga | 97909 | [97909-qanga.json](./97909-qanga.json) |
+| Qasir al-Wasat: International Edition | 36327 | [36327-qasir-al-wasat-international-edition.json](./36327-qasir-al-wasat-international-edition.json) |
 | QB Planets | 150686 | [150686-qb-planets.json](./150686-qb-planets.json) |
 | Qbasic Gorillas | 11690 | [11690-qbasic-gorillas.json](./11690-qbasic-gorillas.json) |
 | Qiángjūn | 98982 | [98982-qiangjun.json](./98982-qiangjun.json) |
