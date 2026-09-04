@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Parking 3D | 83579 | [83579-backyard-parking-3d.json](./83579-backyard-parking-3d.json) |
 | Backyard Soccer 2004 | 72711 | [72711-backyard-soccer-2004.json](./72711-backyard-soccer-2004.json) |
 | Backyard Sports: Sandlot Sluggers | 47383 | [47383-backyard-sports-sandlot-sluggers.json](./47383-backyard-sports-sandlot-sluggers.json) |
+| Backyard Wrestling 2: There Goes the Neighborhood | 5735 | [5735-backyard-wrestling-2-there-goes-the-neighborhood.json](./5735-backyard-wrestling-2-there-goes-the-neighborhood.json) |
 | Backyard Wrestling: Don't Try This at Home | 5734 | [5734-backyard-wrestling-dont-try-this-at-home.json](./5734-backyard-wrestling-dont-try-this-at-home.json) |
 | BAClash | 58271 | [58271-baclash.json](./58271-baclash.json) |
 | Bacon Tales: Between Pigs and Wolves | 31919 | [31919-bacon-tales-between-pigs-and-wolves.json](./31919-bacon-tales-between-pigs-and-wolves.json) |
@@ -537,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Blitz | 217028 | [217028-beat-blitz.json](./217028-beat-blitz.json) |
 | Beat Bros | 52633 | [52633-beat-bros.json](./52633-beat-bros.json) |
 | Beat Cop | 18860 | [18860-beat-cop.json](./18860-beat-cop.json) |
+| Beat Down: Fists of Vengeance | 5745 | [5745-beat-down-fists-of-vengeance.json](./5745-beat-down-fists-of-vengeance.json) |
 | Beat Hopper | 96049 | [96049-beat-hopper.json](./96049-beat-hopper.json) |
 | Beat or Die: The MiniGames | 127368 | [127368-beat-or-die-the-minigames.json](./127368-beat-or-die-the-minigames.json) |
 | Beat Refle | 209689 | [209689-beat-refle.json](./209689-beat-refle.json) |
@@ -625,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Galactic Racing | 210257 | [210257-ben-10-galactic-racing.json](./210257-ben-10-galactic-racing.json) |
 | Ben 10: Galactic Racing | 210259 | [210259-ben-10-galactic-racing.json](./210259-ben-10-galactic-racing.json) |
 | Ben 10: Galactic Racing | 210260 | [210260-ben-10-galactic-racing.json](./210260-ben-10-galactic-racing.json) |
+| Ben 10: Omniverse 2 | 5310 | [5310-ben-10-omniverse-2.json](./5310-ben-10-omniverse-2.json) |
 | Ben 10: Protector of Earth | 210263 | [210263-ben-10-protector-of-earth.json](./210263-ben-10-protector-of-earth.json) |
 | Ben and Holly: Big Star Fun | 109009 | [109009-ben-and-holly-big-star-fun.json](./109009-ben-and-holly-big-star-fun.json) |
 | Ben Bero Beh | 40265 | [40265-ben-bero-beh.json](./40265-ben-bero-beh.json) |
