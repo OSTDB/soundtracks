@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saw Lab | 290692 | [290692-saw-lab.json](./290692-saw-lab.json) |
 | Sawdust | 314039 | [314039-sawdust.json](./314039-sawdust.json) |
 | Sawmill | 312894 | [312894-sawmill.json](./312894-sawmill.json) |
+| Sayaka | 29858 | [29858-sayaka.json](./29858-sayaka.json) |
 | Sayonara | 252989 | [252989-sayonara.json](./252989-sayonara.json) |
 | Sayonara NightCap | 260397 | [260397-sayonara-nightcap.json](./260397-sayonara-nightcap.json) |
 | Sayonara Sigil Sentry | 331679 | [331679-sayonara-sigil-sentry.json](./331679-sayonara-sigil-sentry.json) |
@@ -1180,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Bricks-Bounce Balls | 106569 | [106569-snake-bricks-bounce-balls.json](./106569-snake-bricks-bounce-balls.json) |
 | Snake Den | 84876 | [84876-snake-den.json](./84876-snake-den.json) |
 | Snake Neon Online | 209685 | [209685-snake-neon-online.json](./209685-snake-neon-online.json) |
+| Snake Party | 29906 | [29906-snake-party.json](./29906-snake-party.json) |
 | Snake Plissken's Escape | 67295 | [67295-snake-plisskens-escape.json](./67295-snake-plisskens-escape.json) |
 | Snake Quest | 261517 | [261517-snake-quest.json](./261517-snake-quest.json) |
 | Snake: The Elder Forest | 122415 | [122415-snake-the-elder-forest.json](./122415-snake-the-elder-forest.json) |
@@ -1565,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Adventure | 297239 | [297239-space-adventure.json](./297239-space-adventure.json) |
 | Space Adventure Laika | 128634 | [128634-space-adventure-laika.json](./128634-space-adventure-laika.json) |
 | Space Agent Mission | 212486 | [212486-space-agent-mission.json](./212486-space-agent-mission.json) |
+| Space Badminton VR | 29853 | [29853-space-badminton-vr.json](./29853-space-badminton-vr.json) |
 | Space Baller | 133431 | [133431-space-baller.json](./133431-space-baller.json) |
 | Space Battle: Sea Battle | 264906 | [264906-space-battle-sea-battle.json](./264906-space-battle-sea-battle.json) |
 | Space Berserker | 82929 | [82929-space-berserker.json](./82929-space-berserker.json) |
@@ -1628,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space shooter: Galaxy Attack | 256526 | [256526-space-shooter-galaxy-attack.json](./256526-space-shooter-galaxy-attack.json) |
 | Space Show Edition 17 | 290709 | [290709-space-show-edition-17.json](./290709-space-show-edition-17.json) |
 | Space Smack! | 171074 | [171074-space-smack.json](./171074-space-smack.json) |
+| Space Station Loma: Operations | 29841 | [29841-space-station-loma-operations.json](./29841-space-station-loma-operations.json) |
 | Space Station Proto Speedmap Jam | 300420 | [300420-space-station-proto-speedmap-jam.json](./300420-space-station-proto-speedmap-jam.json) |
 | Space Theory | 203544 | [203544-space-theory.json](./203544-space-theory.json) |
 | Space Thinger | 34471 | [34471-space-thinger.json](./34471-space-thinger.json) |
@@ -1859,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Fighters | 131591 | [131591-square-fighters.json](./131591-square-fighters.json) |
 | Square Flood | 58259 | [58259-square-flood.json](./58259-square-flood.json) |
 | Square Head Zombies 2 - FPS Game | 99638 | [99638-square-head-zombies-2-fps-game.json](./99638-square-head-zombies-2-fps-game.json) |
+| Square n Fair | 29862 | [29862-square-n-fair.json](./29862-square-n-fair.json) |
 | Square Route | 98997 | [98997-square-route.json](./98997-square-route.json) |
 | Square Shooter | 108482 | [108482-square-shooter.json](./108482-square-shooter.json) |
 | Squared Adventure | 311262 | [311262-squared-adventure.json](./311262-squared-adventure.json) |
@@ -1912,6 +1917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Cycle | 312900 | [312900-star-cycle.json](./312900-star-cycle.json) |
 | Star Daemon | 112309 | [112309-star-daemon.json](./112309-star-daemon.json) |
 | Star Days | 194632 | [194632-star-days.json](./194632-star-days.json) |
+| Star Dust: The Book of Earth (VR) | 29931 | [29931-star-dust-the-book-of-earth-vr.json](./29931-star-dust-the-book-of-earth-vr.json) |
 | Star Equestrian | 242225 | [242225-star-equestrian.json](./242225-star-equestrian.json) |
 | Star Evil | 243936 | [243936-star-evil.json](./243936-star-evil.json) |
 | Star Fox 2D: War of Lylat | 324097 | [324097-star-fox-2d-war-of-lylat.json](./324097-star-fox-2d-war-of-lylat.json) |
@@ -2349,6 +2355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Camp | 167865 | [167865-summer-camp.json](./167865-summer-camp.json) |
 | Summer Meetings | 121692 | [121692-summer-meetings.json](./121692-summer-meetings.json) |
 | Summer Memories: Deluxe Edition | 186897 | [186897-summer-memories-deluxe-edition.json](./186897-summer-memories-deluxe-edition.json) |
+| Summer Nightmare | 29895 | [29895-summer-nightmare.json](./29895-summer-nightmare.json) |
 | Summer Paws | 122378 | [122378-summer-paws.json](./122378-summer-paws.json) |
 | Summer Pleasure | 210876 | [210876-summer-pleasure.json](./210876-summer-pleasure.json) |
 | Summer Sled | 55943 | [55943-summer-sled.json](./55943-summer-sled.json) |
