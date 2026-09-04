@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 22: Dynasty Edition | 155098 | [155098-madden-nfl-22-dynasty-edition.json](./155098-madden-nfl-22-dynasty-edition.json) |
 | Madden NFL 23: All Madden Edition | 204081 | [204081-madden-nfl-23-all-madden-edition.json](./204081-madden-nfl-23-all-madden-edition.json) |
 | Madden NFL 24: Deluxe Edition | 252388 | [252388-madden-nfl-24-deluxe-edition.json](./252388-madden-nfl-24-deluxe-edition.json) |
+| Madden NFL 25 | 301506 | [301506-madden-nfl-25.json](./301506-madden-nfl-25.json) |
 | Madden NFL 26 | 342382 | [342382-madden-nfl-26.json](./342382-madden-nfl-26.json) |
 | Madden NFL 96 | 240486 | [240486-madden-nfl-96.json](./240486-madden-nfl-96.json) |
 | Made in Abyss: Binary Star Falling into Darkness - Collector's Edition | 150144 | [150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json](./150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json) |
@@ -255,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manchester United Club Football | 52013 | [52013-manchester-united-club-football.json](./52013-manchester-united-club-football.json) |
 | Mandela Effect Brain Test | 306694 | [306694-mandela-effect-brain-test.json](./306694-mandela-effect-brain-test.json) |
 | Mandeshire | 173274 | [173274-mandeshire.json](./173274-mandeshire.json) |
+| Mandragora: Whispers of the Witch Tree | 191427 | [191427-mandragora-whispers-of-the-witch-tree.json](./191427-mandragora-whispers-of-the-witch-tree.json) |
 | Mandrake Boys | 202398 | [202398-mandrake-boys.json](./202398-mandrake-boys.json) |
 | Mandrake Girls: Garden of Secret | 202399 | [202399-mandrake-girls-garden-of-secret.json](./202399-mandrake-girls-garden-of-secret.json) |
 | Maneuver Warfare | 293419 | [293419-maneuver-warfare.json](./293419-maneuver-warfare.json) |
@@ -1324,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Heart | 229929 | [229929-monster-heart.json](./229929-monster-heart.json) |
 | Monster Hunter 4 Ultimate | 6440 | [6440-monster-hunter-4-ultimate.json](./6440-monster-hunter-4-ultimate.json) |
 | Monster Hunter Generations Ultimate | 25623 | [25623-monster-hunter-generations-ultimate.json](./25623-monster-hunter-generations-ultimate.json) |
+| Monster Hunter Rise + Sunbreak | 207388 | [207388-monster-hunter-rise-sunbreak.json](./207388-monster-hunter-rise-sunbreak.json) |
 | Monster Hunter Rise + Sunbreak: Deluxe Edition | 208042 | [208042-monster-hunter-rise-sunbreak-deluxe-edition.json](./208042-monster-hunter-rise-sunbreak-deluxe-edition.json) |
 | Monster Hunter Rise: Bonus Update | 252384 | [252384-monster-hunter-rise-bonus-update.json](./252384-monster-hunter-rise-bonus-update.json) |
 | Monster Hunter Rise: Title Update 1 | 252379 | [252379-monster-hunter-rise-title-update-1.json](./252379-monster-hunter-rise-title-update-1.json) |
@@ -1383,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Montjoie! | 66719 | [66719-montjoie.json](./66719-montjoie.json) |
 | Monument Builders: Big Ben | 294445 | [294445-monument-builders-big-ben.json](./294445-monument-builders-big-ben.json) |
 | Monument Builders: Cathedral Rising | 294444 | [294444-monument-builders-cathedral-rising.json](./294444-monument-builders-cathedral-rising.json) |
+| Monument Valley: Panoramic Edition | 203331 | [203331-monument-valley-panoramic-edition.json](./203331-monument-valley-panoramic-edition.json) |
 | Monuments of Mars 2 | 300404 | [300404-monuments-of-mars-2.json](./300404-monuments-of-mars-2.json) |
 | Moo & Move: Extra Grazing Grounds | 328251 | [328251-moo-and-move-extra-grazing-grounds.json](./328251-moo-and-move-extra-grazing-grounds.json) |
 | Moo at the Moon | 71542 | [71542-moo-at-the-moon.json](./71542-moo-at-the-moon.json) |
