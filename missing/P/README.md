@@ -1320,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Mahjong Gokuu | 41394 | [41394-professional-mahjong-gokuu.json](./41394-professional-mahjong-gokuu.json) |
 | Professional Mahjong Kiwame | 97871 | [97871-professional-mahjong-kiwame.json](./97871-professional-mahjong-kiwame.json) |
 | Professor Chuckenhope | 109682 | [109682-professor-chuckenhope.json](./109682-professor-chuckenhope.json) |
+| Professor Heinz Wolff's Gravity | 5109 | [5109-professor-heinz-wolffs-gravity.json](./5109-professor-heinz-wolffs-gravity.json) |
 | Professor Layton and the Mansion of the Deathly Mirror | 276490 | [276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json](./276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json) |
 | Professor Layton and the Phantom Thieves | 276491 | [276491-professor-layton-and-the-phantom-thieves.json](./276491-professor-layton-and-the-phantom-thieves.json) |
 | Professor Layton Royale | 300386 | [300386-professor-layton-royale.json](./300386-professor-layton-royale.json) |
