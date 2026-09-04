@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Club | 295020 | [295020-party-club.json](./295020-party-club.json) |
 | Party Golf | 31009 | [31009-party-golf.json](./31009-party-golf.json) |
 | Party Hard: High Crimes | 171630 | [171630-party-hard-high-crimes.json](./171630-party-hard-high-crimes.json) |
+| Party Jousting | 33608 | [33608-party-jousting.json](./33608-party-jousting.json) |
 | Party Party Time | 231043 | [231043-party-party-time.json](./231043-party-party-time.json) |
 | Party Party Time + Master Pack Set | 276462 | [276462-party-party-time-master-pack-set.json](./276462-party-party-time-master-pack-set.json) |
 | Party Party Time 3 | 324133 | [324133-party-party-time-3.json](./324133-party-party-time-3.json) |
@@ -351,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pen Pals | 145020 | [145020-pen-pals.json](./145020-pen-pals.json) |
 | Penalty Shooters Footy | 241061 | [241061-penalty-shooters-footy.json](./241061-penalty-shooters-footy.json) |
 | Pencil Plus: The Wrath of The Spankster | 242245 | [242245-pencil-plus-the-wrath-of-the-spankster.json](./242245-pencil-plus-the-wrath-of-the-spankster.json) |
+| Pendragon Rising | 34210 | [34210-pendragon-rising.json](./34210-pendragon-rising.json) |
 | Penelope Pendrick and the Art of Deceit | 316422 | [316422-penelope-pendrick-and-the-art-of-deceit.json](./316422-penelope-pendrick-and-the-art-of-deceit.json) |
 | Penelope's Odyssey | 190700 | [190700-penelopes-odyssey.json](./190700-penelopes-odyssey.json) |
 | Pengo | 270415 | [270415-pengo.json](./270415-pengo.json) |
@@ -1238,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Manager 2 | 194002 | [194002-prison-manager-2.json](./194002-prison-manager-2.json) |
 | Prison of Nightmare | 311245 | [311245-prison-of-nightmare.json](./311245-prison-of-nightmare.json) |
 | Prison Princess | 127335 | [127335-prison-princess.json](./127335-prison-princess.json) |
+| Prison Run and Gun | 33672 | [33672-prison-run-and-gun.json](./33672-prison-run-and-gun.json) |
 | Prison Tycoon: Under New Management | 152405 | [152405-prison-tycoon-under-new-management.json](./152405-prison-tycoon-under-new-management.json) |
 | Prison Tycoon: Under New Management - Maximum Security | 196298 | [196298-prison-tycoon-under-new-management-maximum-security.json](./196298-prison-tycoon-under-new-management-maximum-security.json) |
 | Prisonela | 218697 | [218697-prisonela.json](./218697-prisonela.json) |
