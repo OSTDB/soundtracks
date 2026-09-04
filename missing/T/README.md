@@ -436,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Hacker - Into the Deep | 35935 | [35935-terminal-hacker-into-the-deep.json](./35935-terminal-hacker-into-the-deep.json) |
 | Terminal Machine | 54427 | [54427-terminal-machine.json](./54427-terminal-machine.json) |
 | Terminal Singularity | 158701 | [158701-terminal-singularity.json](./158701-terminal-singularity.json) |
+| Terminal VR | 127362 | [127362-terminal-vr.json](./127362-terminal-vr.json) |
 | Terminate: Study X | 253574 | [253574-terminate-study-x.json](./253574-terminate-study-x.json) |
 | Terminull | 185151 | [185151-terminull.json](./185151-terminull.json) |
 | Terra Alia | 279404 | [279404-terra-alia.json](./279404-terra-alia.json) |
@@ -567,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Angry 4 | 186866 | [186866-the-angry-4.json](./186866-the-angry-4.json) |
 | The Angry Turnabout | 308547 | [308547-the-angry-turnabout.json](./308547-the-angry-turnabout.json) |
 | The Anomaly Project | 312378 | [312378-the-anomaly-project.json](./312378-the-anomaly-project.json) |
+| The Answer is 42 | 127234 | [127234-the-answer-is-42.json](./127234-the-answer-is-42.json) |
 | The Anything Gallery | 177029 | [177029-the-anything-gallery.json](./177029-the-anything-gallery.json) |
 | The Apothecary's Apprentice | 177571 | [177571-the-apothecarys-apprentice.json](./177571-the-apothecarys-apprentice.json) |
 | The Apple Tree | 208594 | [208594-the-apple-tree.json](./208594-the-apple-tree.json) |
@@ -894,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Entertainment | 128622 | [128622-the-entertainment.json](./128622-the-entertainment.json) |
 | The Envolution of Wandaland | 254137 | [254137-the-envolution-of-wandaland.json](./254137-the-envolution-of-wandaland.json) |
 | The Epic Quest of Birdo The Pink Dinosaur | 250662 | [250662-the-epic-quest-of-birdo-the-pink-dinosaur.json](./250662-the-epic-quest-of-birdo-the-pink-dinosaur.json) |
+| The Equinox Hunt | 125368 | [125368-the-equinox-hunt.json](./125368-the-equinox-hunt.json) |
 | The ER: Patient Typhon | 146320 | [146320-the-er-patient-typhon.json](./146320-the-er-patient-typhon.json) |
 | The Escape from the Hen-Roost | 69866 | [69866-the-escape-from-the-hen-roost.json](./69866-the-escape-from-the-hen-roost.json) |
 | The Escape Room Chronicles ep 4: The 24-Hour TV Station | 324122 | [324122-the-escape-room-chronicles-ep-4-the-24-hour-tv-station.json](./324122-the-escape-room-chronicles-ep-4-the-24-hour-tv-station.json) |
@@ -1185,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Express: Gold Edition | 30235 | [30235-the-last-express-gold-edition.json](./30235-the-last-express-gold-edition.json) |
 | The Last Fighter | 209662 | [209662-the-last-fighter.json](./209662-the-last-fighter.json) |
 | The Last Flower | 146304 | [146304-the-last-flower.json](./146304-the-last-flower.json) |
+| The Last Haven | 127615 | [127615-the-last-haven.json](./127615-the-last-haven.json) |
 | The Last Hope | 25627 | [25627-the-last-hope.json](./25627-the-last-hope.json) |
 | The Last King | 258200 | [258200-the-last-king.json](./258200-the-last-king.json) |
 | The Last Light | 182556 | [182556-the-last-light.json](./182556-the-last-light.json) |
@@ -2556,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer III - Shadows of Change | 251223 | [251223-total-war-warhammer-iii-shadows-of-change.json](./251223-total-war-warhammer-iii-shadows-of-change.json) |
 | Total War: Warhammer III - Thrones of Decay | 251224 | [251224-total-war-warhammer-iii-thrones-of-decay.json](./251224-total-war-warhammer-iii-thrones-of-decay.json) |
 | Total War: Warhammer III - Update 3.1 | 251222 | [251222-total-war-warhammer-iii-update-3-1.json](./251222-total-war-warhammer-iii-update-3-1.json) |
+| Totally Baseball | 127163 | [127163-totally-baseball.json](./127163-totally-baseball.json) |
 | Totally Realistic Unicorn Buffalo Simulator | 142463 | [142463-totally-realistic-unicorn-buffalo-simulator.json](./142463-totally-realistic-unicorn-buffalo-simulator.json) |
 | Totally Reliable Delivery Service: Dress Code | 308576 | [308576-totally-reliable-delivery-service-dress-code.json](./308576-totally-reliable-delivery-service-dress-code.json) |
 | Totally Spies! The Mobile Game | 317003 | [317003-totally-spies-the-mobile-game.json](./317003-totally-spies-the-mobile-game.json) |
@@ -2651,6 +2656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Babel: No Mercy | 129190 | [129190-tower-of-babel-no-mercy.json](./129190-tower-of-babel-no-mercy.json) |
 | Tower of Evil | 25731 | [25731-tower-of-evil.json](./25731-tower-of-evil.json) |
 | Tower of Saviors | 22440 | [22440-tower-of-saviors.json](./22440-tower-of-saviors.json) |
+| Tower of Shades | 127386 | [127386-tower-of-shades.json](./127386-tower-of-shades.json) |
 | Tower of Tears | 268212 | [268212-tower-of-tears.json](./268212-tower-of-tears.json) |
 | Tower of unlife | 180831 | [180831-tower-of-unlife.json](./180831-tower-of-unlife.json) |
 | Tower of Waifus 2 | 148565 | [148565-tower-of-waifus-2.json](./148565-tower-of-waifus-2.json) |
@@ -2942,6 +2948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials 2 | 140577 | [140577-trials-2.json](./140577-trials-2.json) |
 | Trials Evolution: Gold Edition | 20748 | [20748-trials-evolution-gold-edition.json](./20748-trials-evolution-gold-edition.json) |
 | Trials in Tainted Space | 128001 | [128001-trials-in-tainted-space.json](./128001-trials-in-tainted-space.json) |
+| Trials of Guinevere | 127611 | [127611-trials-of-guinevere.json](./127611-trials-of-guinevere.json) |
 | Trials of the Illuminati: Snack Time Jigsaw Puzzles | 109660 | [109660-trials-of-the-illuminati-snack-time-jigsaw-puzzles.json](./109660-trials-of-the-illuminati-snack-time-jigsaw-puzzles.json) |
 | Trials of Yarbil | 325835 | [325835-trials-of-yarbil.json](./325835-trials-of-yarbil.json) |
 | Triangle Legacy Revolution | 112317 | [112317-triangle-legacy-revolution.json](./112317-triangle-legacy-revolution.json) |
