@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Jigsaw Puzzles: Northlands | 234341 | [234341-fantasy-jigsaw-puzzles-northlands.json](./234341-fantasy-jigsaw-puzzles-northlands.json) |
 | Fantasy Kingdom: Fantasy Tiny Forest | 219290 | [219290-fantasy-kingdom-fantasy-tiny-forest.json](./219290-fantasy-kingdom-fantasy-tiny-forest.json) |
 | Fantasy Life i: The Girl Who Steals Time - Digital Deluxe Edition | 336364 | [336364-fantasy-life-i-the-girl-who-steals-time-digital-deluxe-edition.json](./336364-fantasy-life-i-the-girl-who-steals-time-digital-deluxe-edition.json) |
+| Fantasy Life Online | 26609 | [26609-fantasy-life-online.json](./26609-fantasy-life-online.json) |
 | Fantasy Mosaics 37: Spooky Night | 296060 | [296060-fantasy-mosaics-37-spooky-night.json](./296060-fantasy-mosaics-37-spooky-night.json) |
 | Fantasy Mosaics 41: Wizard's Realm | 296062 | [296062-fantasy-mosaics-41-wizards-realm.json](./296062-fantasy-mosaics-41-wizards-realm.json) |
 | Fantasy Mosaics 44: Winter Holiday | 296063 | [296063-fantasy-mosaics-44-winter-holiday.json](./296063-fantasy-mosaics-44-winter-holiday.json) |
@@ -507,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Memory | 150678 | [150678-fish-memory.json](./150678-fish-memory.json) |
 | Fish Person Shooter | 145636 | [145636-fish-person-shooter.json](./145636-fish-person-shooter.json) |
 | Fish Royale | 227500 | [227500-fish-royale.json](./227500-fish-royale.json) |
+| Fisher-Price: I Can Remember | 26659 | [26659-fisher-price-i-can-remember.json](./26659-fisher-price-i-can-remember.json) |
 | Fisherman's House | 172749 | [172749-fishermans-house.json](./172749-fishermans-house.json) |
 | Fishery Tycoon | 212475 | [212475-fishery-tycoon.json](./212475-fishery-tycoon.json) |
 | Fishhead 3: The Search For a Heart of Gold | 191256 | [191256-fishhead-3-the-search-for-a-heart-of-gold.json](./191256-fishhead-3-the-search-for-a-heart-of-gold.json) |
@@ -636,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floodbound | 298852 | [298852-floodbound.json](./298852-floodbound.json) |
 | Flooded | 204077 | [204077-flooded.json](./204077-flooded.json) |
 | Floodrush | 251217 | [251217-floodrush.json](./251217-floodrush.json) |
+| Floor | 26645 | [26645-floor.json](./26645-floor.json) |
 | Floor is Lava | 207520 | [207520-floor-is-lava.json](./207520-floor-is-lava.json) |
 | Floor44 | 213011 | [213011-floor44.json](./213011-floor44.json) |
 | Floppy and the Sleepy Planet | 116385 | [116385-floppy-and-the-sleepy-planet.json](./116385-floppy-and-the-sleepy-planet.json) |
@@ -778,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forget-Me-Not of the Tetragon | 335696 | [335696-forget-me-not-of-the-tetragon.json](./335696-forget-me-not-of-the-tetragon.json) |
 | Forgetting Emily | 309680 | [309680-forgetting-emily.json](./309680-forgetting-emily.json) |
 | Forging Glory | 132814 | [132814-forging-glory.json](./132814-forging-glory.json) |
+| Forgotten | 26702 | [26702-forgotten.json](./26702-forgotten.json) |
 | Forgotten Dreams | 340233 | [340233-forgotten-dreams.json](./340233-forgotten-dreams.json) |
 | Forgotten Hill: Fall | 317638 | [317638-forgotten-hill-fall.json](./317638-forgotten-hill-fall.json) |
 | Forgotten Hill: The Wardrobe | 340235 | [340235-forgotten-hill-the-wardrobe.json](./340235-forgotten-hill-the-wardrobe.json) |
