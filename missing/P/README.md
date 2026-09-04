@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac 16 | 313499 | [313499-pac-16.json](./313499-pac-16.json) |
 | Pac Maze | 312907 | [312907-pac-maze.json](./312907-pac-maze.json) |
 | Pac-Boy & Mouse | 86097 | [86097-pac-boy-and-mouse.json](./86097-pac-boy-and-mouse.json) |
+| Pac-Man | 284317 | [284317-pac-man.json](./284317-pac-man.json) |
 | Pac-Man | 88904 | [88904-pac-man.json](./88904-pac-man.json) |
 | Pac-Man & Galaga Dimensions | 6861 | [6861-pac-man-and-galaga-dimensions.json](./6861-pac-man-and-galaga-dimensions.json) |
 | Pac-Man 256 | 14701 | [14701-pac-man-256.json](./14701-pac-man-256.json) |
@@ -782,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Simulator Together | 326382 | [326382-pizza-simulator-together.json](./326382-pizza-simulator-together.json) |
 | Pizza Western | 318191 | [318191-pizza-western.json](./318191-pizza-western.json) |
 | PizzaBoy | 319955 | [319955-pizzaboy.json](./319955-pizzaboy.json) |
+| PJ Masks Power Heroes: Mighty Alliance | 282048 | [282048-pj-masks-power-heroes-mighty-alliance.json](./282048-pj-masks-power-heroes-mighty-alliance.json) |
 | Pj Masks: Heroes of the Night | 148527 | [148527-pj-masks-heroes-of-the-night.json](./148527-pj-masks-heroes-of-the-night.json) |
 | PJ Masks: Heroes of the Night - Complete Edition | 214727 | [214727-pj-masks-heroes-of-the-night-complete-edition.json](./214727-pj-masks-heroes-of-the-night-complete-edition.json) |
 | PJ Masks: Heroes of the Night - Mischief on Mystery Mountain | 195772 | [195772-pj-masks-heroes-of-the-night-mischief-on-mystery-mountain.json](./195772-pj-masks-heroes-of-the-night-mischief-on-mystery-mountain.json) |
@@ -1162,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerSkate | 233238 | [233238-powerskate.json](./233238-powerskate.json) |
 | PowerSlave | 188071 | [188071-powerslave.json](./188071-powerslave.json) |
 | PowerWash Simulator | 138590 | [138590-powerwash-simulator.json](./138590-powerwash-simulator.json) |
+| PowerWash Simulator: Santa's Workshop - Winter 2023 | 280540 | [280540-powerwash-simulator-santas-workshop-winter-2023.json](./280540-powerwash-simulator-santas-workshop-winter-2023.json) |
 | PowerWash Simulator: The Muckingham Files 2 | 264337 | [264337-powerwash-simulator-the-muckingham-files-2.json](./264337-powerwash-simulator-the-muckingham-files-2.json) |
 | PowerWash Simulator: Warhammer 40,000 Content Pack | 251220 | [251220-powerwash-simulator-warhammer-40-000-content-pack.json](./251220-powerwash-simulator-warhammer-40-000-content-pack.json) |
 | PowerZ | 146317 | [146317-powerz.json](./146317-powerz.json) |
