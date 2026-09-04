@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aegis Kingdoms | 216463 | [216463-aegis-kingdoms.json](./216463-aegis-kingdoms.json) |
 | Aeolis Tournament | 120419 | [120419-aeolis-tournament.json](./120419-aeolis-tournament.json) |
 | Aeolwyn's Legacy | 200707 | [200707-aeolwyns-legacy.json](./200707-aeolwyns-legacy.json) |
+| Aeon Flux | 15847 | [15847-aeon-flux.json](./15847-aeon-flux.json) |
 | AereA: Collector's Edition | 166237 | [166237-aerea-collectors-edition.json](./166237-aerea-collectors-edition.json) |
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
 | Aerial Austen | 232175 | [232175-aerial-austen.json](./232175-aerial-austen.json) |
@@ -600,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akiba's Trip: Undead & Undressed | 7268 | [7268-akibas-trip-undead-and-undressed.json](./7268-akibas-trip-undead-and-undressed.json) |
 | Akin | 32403 | [32403-akin.json](./32403-akin.json) |
 | Akita: King Pig Thinks Pink | 178098 | [178098-akita-king-pig-thinks-pink.json](./178098-akita-king-pig-thinks-pink.json) |
+| Akka Arrh | 225592 | [225592-akka-arrh.json](./225592-akka-arrh.json) |
 | Akte Europa | 19584 | [19584-akte-europa.json](./19584-akte-europa.json) |
 | Akuarium | 147471 | [147471-akuarium.json](./147471-akuarium.json) |
 | Akudaikan Manyuuki | 56517 | [56517-akudaikan-manyuuki.json](./56517-akudaikan-manyuuki.json) |
@@ -683,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Frontier | 240500 | [240500-alien-frontier.json](./240500-alien-frontier.json) |
 | Alien Galaxy Clicker | 58255 | [58255-alien-galaxy-clicker.json](./58255-alien-galaxy-clicker.json) |
 | Alien Gladiator | 207529 | [207529-alien-gladiator.json](./207529-alien-gladiator.json) |
+| Alien Hallway | 16246 | [16246-alien-hallway.json](./16246-alien-hallway.json) |
 | Alien Harvest Leader | 141890 | [141890-alien-harvest-leader.json](./141890-alien-harvest-leader.json) |
 | Alien Invasion | 273129 | [273129-alien-invasion.json](./273129-alien-invasion.json) |
 | Alien Nations | 11259 | [11259-alien-nations.json](./11259-alien-nations.json) |
@@ -1273,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archmage Ricka | 211440 | [211440-archmage-ricka.json](./211440-archmage-ricka.json) |
 | Archmage Rises | 31937 | [31937-archmage-rises.json](./31937-archmage-rises.json) |
 | Archon | 5539 | [5539-archon.json](./5539-archon.json) |
+| Archon Classic | 16208 | [16208-archon-classic.json](./16208-archon-classic.json) |
 | Archons: Arena | 264897 | [264897-archons-arena.json](./264897-archons-arena.json) |
 | Arclands | 156147 | [156147-arclands.json](./156147-arclands.json) |
 | Arco | 263903 | [263903-arco.json](./263903-arco.json) |
@@ -1486,6 +1490,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asonde Poker ga Tsuyoku Naru! Texas Hold 'Em | 144998 | [144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json](./144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json) |
 | Aspectus: Rinascimento Chronicles | 35938 | [35938-aspectus-rinascimento-chronicles.json](./35938-aspectus-rinascimento-chronicles.json) |
 | Asphalt: Nitro | 23310 | [23310-asphalt-nitro.json](./23310-asphalt-nitro.json) |
+| Asphalt: Urban GT | 243184 | [243184-asphalt-urban-gt.json](./243184-asphalt-urban-gt.json) |
+| Asphalt: Urban GT 2 | 243030 | [243030-asphalt-urban-gt-2.json](./243030-asphalt-urban-gt-2.json) |
 | Aspiel: Edge of Chaos | 334502 | [334502-aspiel-edge-of-chaos.json](./334502-aspiel-edge-of-chaos.json) |
 | Assassin's Creed Identity | 17028 | [17028-assassins-creed-identity.json](./17028-assassins-creed-identity.json) |
 | Assassin's Creed III: Benedict Arnold | 261996 | [261996-assassins-creed-iii-benedict-arnold.json](./261996-assassins-creed-iii-benedict-arnold.json) |
