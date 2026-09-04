@@ -1556,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rooms | 191855 | [191855-the-rooms.json](./191855-the-rooms.json) |
 | The Roottrees Are Dead | 276492 | [276492-the-roottrees-are-dead.json](./276492-the-roottrees-are-dead.json) |
 | The Roscoe: Who's Ya Daddy? | 183587 | [183587-the-roscoe-whos-ya-daddy.json](./183587-the-roscoe-whos-ya-daddy.json) |
+| The Rose of Segunda | 101612 | [101612-the-rose-of-segunda.json](./101612-the-rose-of-segunda.json) |
 | The Rose Princess | 69308 | [69308-the-rose-princess.json](./69308-the-rose-princess.json) |
 | The Ruins of Machi Itcza | 182520 | [182520-the-ruins-of-machi-itcza.json](./182520-the-ruins-of-machi-itcza.json) |
 | The Rules | 224762 | [224762-the-rules.json](./224762-the-rules.json) |
@@ -2347,6 +2348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Duel List | 151704 | [151704-to-duel-list.json](./151704-to-duel-list.json) |
 | To Dust | 259824 | [259824-to-dust.json](./259824-to-dust.json) |
 | To Hell in a Hamper | 60019 | [60019-to-hell-in-a-hamper.json](./60019-to-hell-in-a-hamper.json) |
+| To Light: Ex Umbra | 102370 | [102370-to-light-ex-umbra.json](./102370-to-light-ex-umbra.json) |
 | To the City of the Clouds | 83597 | [83597-to-the-city-of-the-clouds.json](./83597-to-the-city-of-the-clouds.json) |
 | To the Crown | 182530 | [182530-to-the-crown.json](./182530-to-the-crown.json) |
 | To The Dark Tower | 119006 | [119006-to-the-dark-tower.json](./119006-to-the-dark-tower.json) |
