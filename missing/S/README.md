@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Fate | 191264 | [191264-shadow-fate.json](./191264-shadow-fate.json) |
 | Shadow Island | 239335 | [239335-shadow-island.json](./239335-shadow-island.json) |
 | Shadow Knight | 227519 | [227519-shadow-knight.json](./227519-shadow-knight.json) |
+| Shadow Mist | 28905 | [28905-shadow-mist.json](./28905-shadow-mist.json) |
 | Shadow of Asha | 203542 | [203542-shadow-of-asha.json](./203542-shadow-of-asha.json) |
 | Shadow of Atlantis | 298294 | [298294-shadow-of-atlantis.json](./298294-shadow-of-atlantis.json) |
 | Shadow of Chaos | 324701 | [324701-shadow-of-chaos.json](./324701-shadow-of-chaos.json) |
@@ -1125,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slotter Mania P: Tetsuya Shinjuku vs Ueno | 62738 | [62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json](./62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json) |
 | Slow Rise | 267066 | [267066-slow-rise.json](./267066-slow-rise.json) |
 | Slowly Fighter | 333926 | [333926-slowly-fighter.json](./333926-slowly-fighter.json) |
+| Slug Blast | 28893 | [28893-slug-blast.json](./28893-slug-blast.json) |
 | Slugterra: Dark Waters | 327630 | [327630-slugterra-dark-waters.json](./327630-slugterra-dark-waters.json) |
 | Slumberfish! | 243954 | [243954-slumberfish.json](./243954-slumberfish.json) |
 | Sly Panda | 198514 | [198514-sly-panda.json](./198514-sly-panda.json) |
@@ -1324,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar System Conflict | 35768 | [35768-solar-system-conflict.json](./35768-solar-system-conflict.json) |
 | Solar Warden | 101603 | [101603-solar-warden.json](./101603-solar-warden.json) |
 | Solarfall | 271484 | [271484-solarfall.json](./271484-solarfall.json) |
+| Solaright | 28934 | [28934-solaright.json](./28934-solaright.json) |
 | Solaris: Off World Combat | 146332 | [146332-solaris-off-world-combat.json](./146332-solaris-off-world-combat.json) |
 | Solarland | 212459 | [212459-solarland.json](./212459-solarland.json) |
 | Solasta: Crown of the Magister - Primal Calling | 186870 | [186870-solasta-crown-of-the-magister-primal-calling.json](./186870-solasta-crown-of-the-magister-primal-calling.json) |
@@ -1550,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Slide | 114378 | [114378-sound-slide.json](./114378-sound-slide.json) |
 | Sound Voltex: Vivid Wave | 126031 | [126031-sound-voltex-vivid-wave.json](./126031-sound-voltex-vivid-wave.json) |
 | Soundsaber | 184660 | [184660-soundsaber.json](./184660-soundsaber.json) |
+| Soundscape VR | 28879 | [28879-soundscape-vr.json](./28879-soundscape-vr.json) |
 | Soupsoup | 265948 | [265948-soupsoup.json](./265948-soupsoup.json) |
 | Source Code | 340199 | [340199-source-code.json](./340199-source-code.json) |
 | Source Control | 62734 | [62734-source-control.json](./62734-source-control.json) |
@@ -2041,6 +2045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of War 2: Arcon | 64986 | [64986-state-of-war-2-arcon.json](./64986-state-of-war-2-arcon.json) |
 | States, Firms, and Households | 33122 | [33122-states-firms-and-households.json](./33122-states-firms-and-households.json) |
 | Static Cling | 182519 | [182519-static-cling.json](./182519-static-cling.json) |
+| Station 21 - Space Station Simulator | 28883 | [28883-station-21-space-station-simulator.json](./28883-station-21-space-station-simulator.json) |
 | Station 37 | 277027 | [277027-station-37.json](./277027-station-37.json) |
 | Station 5 | 307931 | [307931-station-5.json](./307931-station-5.json) |
 | Station Commander | 76654 | [76654-station-commander.json](./76654-station-commander.json) |
