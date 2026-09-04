@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Swords | 119044 | [119044-dark-swords.json](./119044-dark-swords.json) |
 | Dark Tales: Edgar Allan Poe's The Black Cat - Collector's Edition | 201826 | [201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json](./201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json) |
 | Dark Tartarus | 260950 | [260950-dark-tartarus.json](./260950-dark-tartarus.json) |
+| Dark Void | 4220 | [4220-dark-void.json](./4220-dark-void.json) |
 | Dark Wish | 99011 | [99011-dark-wish.json](./99011-dark-wish.json) |
 | Dark Zone Defense | 125439 | [125439-dark-zone-defense.json](./125439-dark-zone-defense.json) |
 | Darkchaser: Battletide | 296660 | [296660-darkchaser-battletide.json](./296660-darkchaser-battletide.json) |
@@ -320,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadeye Deepfake Simulacrum | 156161 | [156161-deadeye-deepfake-simulacrum.json](./156161-deadeye-deepfake-simulacrum.json) |
 | Deadfall Tropics | 99644 | [99644-deadfall-tropics.json](./99644-deadfall-tropics.json) |
 | Deadliest Demolition | 274747 | [274747-deadliest-demolition.json](./274747-deadliest-demolition.json) |
+| Deadlight: Director's Cut | 19454 | [19454-deadlight-directors-cut.json](./19454-deadlight-directors-cut.json) |
 | Deadly Duck | 22434 | [22434-deadly-duck.json](./22434-deadly-duck.json) |
 | Deadly Joy | 334503 | [334503-deadly-joy.json](./334503-deadly-joy.json) |
 | Deadly Sky | 51981 | [51981-deadly-sky.json](./51981-deadly-sky.json) |
@@ -693,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die CD-ROM mit der Maus 3 | 250611 | [250611-die-cd-rom-mit-der-maus-3.json](./250611-die-cd-rom-mit-der-maus-3.json) |
 | Die Cook | 277024 | [277024-die-cook.json](./277024-die-cook.json) |
 | Die drei???: Plan der Chamäleonbande | 302665 | [302665-die-drei-plan-der-chamaleonbande.json](./302665-die-drei-plan-der-chamaleonbande.json) |
+| Die Hard Trilogy | 8234 | [8234-die-hard-trilogy.json](./8234-die-hard-trilogy.json) |
 | Die kleine Lokomotive und ihre Freunde | 81401 | [81401-die-kleine-lokomotive-und-ihre-freunde.json](./81401-die-kleine-lokomotive-und-ihre-freunde.json) |
 | Die O'Clock | 214161 | [214161-die-oclock.json](./214161-die-oclock.json) |
 | Die Totenmaske | 184105 | [184105-die-totenmaske.json](./184105-die-totenmaske.json) |
@@ -827,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Cinderella: Magical Dreams | 49376 | [49376-disneys-cinderella-magical-dreams.json](./49376-disneys-cinderella-magical-dreams.json) |
 | Disney's Dinosaur Activity Center | 72123 | [72123-disneys-dinosaur-activity-center.json](./72123-disneys-dinosaur-activity-center.json) |
 | Disney's Doug: Doug's Big Game | 49942 | [49942-disneys-doug-dougs-big-game.json](./49942-disneys-doug-dougs-big-game.json) |
+| Disney's DuckTales 2 | 6488 | [6488-disneys-ducktales-2.json](./6488-disneys-ducktales-2.json) |
 | Disney's Magic Artist Studio | 51281 | [51281-disneys-magic-artist-studio.json](./51281-disneys-magic-artist-studio.json) |
 | Disney's Magical Quest 2 Starring Mickey & Minnie | 188634 | [188634-disneys-magical-quest-2-starring-mickey-and-minnie.json](./188634-disneys-magical-quest-2-starring-mickey-and-minnie.json) |
 | Disney's Mulan | 46673 | [46673-disneys-mulan.json](./46673-disneys-mulan.json) |
@@ -1161,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z II: Gekishin Frieza!! | 48682 | [48682-dragon-ball-z-ii-gekishin-frieza.json](./48682-dragon-ball-z-ii-gekishin-frieza.json) |
 | Dragon Ball Z III: Ressen Jinzou Ningen | 48680 | [48680-dragon-ball-z-iii-ressen-jinzou-ningen.json](./48680-dragon-ball-z-iii-ressen-jinzou-ningen.json) |
 | Dragon Ball Z: Budokai Tenkaichi | 2253 | [2253-dragon-ball-z-budokai-tenkaichi.json](./2253-dragon-ball-z-budokai-tenkaichi.json) |
+| Dragon Ball Z: Buu's Fury | 19835 | [19835-dragon-ball-z-buus-fury.json](./19835-dragon-ball-z-buus-fury.json) |
 | Dragon Ball Z: Buu's Fury / Dragon Ball GT: Transformation | 79299 | [79299-dragon-ball-z-buus-fury-dragon-ball-gt-transformation.json](./79299-dragon-ball-z-buus-fury-dragon-ball-gt-transformation.json) |
 | Dragon Ball Z: Cell To Kogeki Da | 322346 | [322346-dragon-ball-z-cell-to-kogeki-da.json](./322346-dragon-ball-z-cell-to-kogeki-da.json) |
 | Dragon Ball Z: Super Goku-den - Totsugeki-hen | 38396 | [38396-dragon-ball-z-super-goku-den-totsugeki-hen.json](./38396-dragon-ball-z-super-goku-den-totsugeki-hen.json) |
