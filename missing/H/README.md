@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hattrick | 270408 | [270408-hattrick.json](./270408-hattrick.json) |
 | Hatup | 204093 | [204093-hatup.json](./204093-hatup.json) |
 | Haunt Monster | 237040 | [237040-haunt-monster.json](./237040-haunt-monster.json) |
+| Haunted Abbey | 13725 | [13725-haunted-abbey.json](./13725-haunted-abbey.json) |
 | Haunted Cities Volume 4 | 140618 | [140618-haunted-cities-volume-4.json](./140618-haunted-cities-volume-4.json) |
 | Haunted Escape: Wrath of Victoria | 62759 | [62759-haunted-escape-wrath-of-victoria.json](./62759-haunted-escape-wrath-of-victoria.json) |
 | Haunted Girls | 212999 | [212999-haunted-girls.json](./212999-haunted-girls.json) |
@@ -796,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopeless Dregs | 156658 | [156658-hopeless-dregs.json](./156658-hopeless-dregs.json) |
 | Hopeless. | 228080 | [228080-hopeless.json](./228080-hopeless.json) |
 | Hoppe Chan: Punitto Shibotte Daibouken! | 222538 | [222538-hoppe-chan-punitto-shibotte-daibouken.json](./222538-hoppe-chan-punitto-shibotte-daibouken.json) |
+| Hopper | 13726 | [13726-hopper.json](./13726-hopper.json) |
 | Hopper | 144374 | [144374-hopper.json](./144374-hopper.json) |
 | Hoppup! | 141878 | [141878-hoppup.json](./141878-hoppup.json) |
 | Hopscotch | 68689 | [68689-hopscotch.json](./68689-hopscotch.json) |
