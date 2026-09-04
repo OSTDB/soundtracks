@@ -1138,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ape Escape Academy | 272555 | [272555-ape-escape-academy.json](./272555-ape-escape-academy.json) |
 | Ape Escape: Million Monkeys | 68008 | [68008-ape-escape-million-monkeys.json](./68008-ape-escape-million-monkeys.json) |
 | Ape Escape: On the Loose | 44530 | [44530-ape-escape-on-the-loose.json](./44530-ape-escape-on-the-loose.json) |
+| Apex | 5728 | [5728-apex.json](./5728-apex.json) |
 | Apex Heroines: Character Outfit - Dark Maid | 309091 | [309091-apex-heroines-character-outfit-dark-maid.json](./309091-apex-heroines-character-outfit-dark-maid.json) |
 | Apex Heroines: Character Outfit - Flower Fairy | 309090 | [309090-apex-heroines-character-outfit-flower-fairy.json](./309090-apex-heroines-character-outfit-flower-fairy.json) |
 | Apex Heroines: Character Outfit - Ninja Leader | 309088 | [309088-apex-heroines-character-outfit-ninja-leader.json](./309088-apex-heroines-character-outfit-ninja-leader.json) |
