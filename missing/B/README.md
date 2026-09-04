@@ -314,7 +314,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman Begins: Fear the Bat | 245553 | [245553-batman-begins-fear-the-bat.json](./245553-batman-begins-fear-the-bat.json) |
 | Batman Doom | 138788 | [138788-batman-doom.json](./138788-batman-doom.json) |
 | Batman: Arkham Asylum | 240487 | [240487-batman-arkham-asylum.json](./240487-batman-arkham-asylum.json) |
+| Batman: Arkham Knight - 2008 Tumbler Batmobile Pack | 15524 | [15524-batman-arkham-knight-2008-tumbler-batmobile-pack.json](./15524-batman-arkham-knight-2008-tumbler-batmobile-pack.json) |
+| Batman: Arkham Knight - Batman Classic TV Series Batmobile Pack | 15527 | [15527-batman-arkham-knight-batman-classic-tv-series-batmobile-pack.json](./15527-batman-arkham-knight-batman-classic-tv-series-batmobile-pack.json) |
+| Batman: Arkham Knight - Crime Fighter Challenge Pack 2 | 15526 | [15526-batman-arkham-knight-crime-fighter-challenge-pack-2.json](./15526-batman-arkham-knight-crime-fighter-challenge-pack-2.json) |
+| Batman: Arkham Knight - Crime Fighter Challenge Pack 3 | 15528 | [15528-batman-arkham-knight-crime-fighter-challenge-pack-3.json](./15528-batman-arkham-knight-crime-fighter-challenge-pack-3.json) |
 | Batman: Arkham Knight - Earth 2 Dark Knight Skin | 138216 | [138216-batman-arkham-knight-earth-2-dark-knight-skin.json](./138216-batman-arkham-knight-earth-2-dark-knight-skin.json) |
+| Batman: Arkham Knight - Original Arkham Batman Skin | 15525 | [15525-batman-arkham-knight-original-arkham-batman-skin.json](./15525-batman-arkham-knight-original-arkham-batman-skin.json) |
 | Batman: The Brave and the Bold | 245552 | [245552-batman-the-brave-and-the-bold.json](./245552-batman-the-brave-and-the-bold.json) |
 | Batta Batta: Kampen mod Ultra | 127974 | [127974-batta-batta-kampen-mod-ultra.json](./127974-batta-batta-kampen-mod-ultra.json) |
 | Batta Batta: Kejserens Gave | 129773 | [129773-batta-batta-kejserens-gave.json](./129773-batta-batta-kejserens-gave.json) |
