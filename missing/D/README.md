@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Sauce | 113693 | [113693-dark-sauce.json](./113693-dark-sauce.json) |
 | Dark Sceptre | 12990 | [12990-dark-sceptre.json](./12990-dark-sceptre.json) |
 | Dark Skies 2: Keepers of Nemansk | 296689 | [296689-dark-skies-2-keepers-of-nemansk.json](./296689-dark-skies-2-keepers-of-nemansk.json) |
+| Dark Souls II: Crown of the Old Iron King | 22502 | [22502-dark-souls-ii-crown-of-the-old-iron-king.json](./22502-dark-souls-ii-crown-of-the-old-iron-king.json) |
 | Dark Souls: Collector's Edition | 44607 | [44607-dark-souls-collectors-edition.json](./44607-dark-souls-collectors-edition.json) |
 | Dark Swords | 119044 | [119044-dark-swords.json](./119044-dark-swords.json) |
 | Dark Tales: Edgar Allan Poe's The Black Cat - Collector's Edition | 201826 | [201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json](./201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json) |
@@ -302,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rising/Gears of War | 141217 | [141217-dead-rising-gears-of-war.json](./141217-dead-rising-gears-of-war.json) |
 | Dead Shapes | 251815 | [251815-dead-shapes.json](./251815-dead-shapes.json) |
 | Dead Some Day | 33155 | [33155-dead-some-day.json](./33155-dead-some-day.json) |
+| Dead Space | 131931 | [131931-dead-space.json](./131931-dead-space.json) |
 | Dead Space 2 | 264868 | [264868-dead-space-2.json](./264868-dead-space-2.json) |
 | Dead Space 2: Limited Edition | 44613 | [44613-dead-space-2-limited-edition.json](./44613-dead-space-2-limited-edition.json) |
 | Dead Space 3: Limited Edition | 44604 | [44604-dead-space-3-limited-edition.json](./44604-dead-space-3-limited-edition.json) |
@@ -345,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Drops Distortion | 59421 | [59421-dear-drops-distortion.json](./59421-dear-drops-distortion.json) |
 | Dear Genny | 177532 | [177532-dear-genny.json](./177532-dear-genny.json) |
 | Death Again | 185123 | [185123-death-again.json](./185123-death-again.json) |
+| Death and Taxes | 126835 | [126835-death-and-taxes.json](./126835-death-and-taxes.json) |
 | Death Bowl | 208598 | [208598-death-bowl.json](./208598-death-bowl.json) |
 | Death By Chatter | 322934 | [322934-death-by-chatter.json](./322934-death-by-chatter.json) |
 | Death by Dark Shadows | 57665 | [57665-death-by-dark-shadows.json](./57665-death-by-dark-shadows.json) |
@@ -543,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Departure!! Shipping Freighter | 299483 | [299483-departure-shipping-freighter.json](./299483-departure-shipping-freighter.json) |
 | Depict the City | 212462 | [212462-depict-the-city.json](./212462-depict-the-city.json) |
 | Depixtion: Halloween Edition | 336909 | [336909-depixtion-halloween-edition.json](./336909-depixtion-halloween-edition.json) |
+| Deponia: The Complete Journey | 17224 | [17224-deponia-the-complete-journey.json](./17224-deponia-the-complete-journey.json) |
 | Depths of Insanity 2 | 292321 | [292321-depths-of-insanity-2.json](./292321-depths-of-insanity-2.json) |
 | Der Blaue Diamant: Additional mission | 213031 | [213031-der-blaue-diamant-additional-mission.json](./213031-der-blaue-diamant-additional-mission.json) |
 | Der Weichensteller: Odyssey Live | 309108 | [309108-der-weichensteller-odyssey-live.json](./309108-der-weichensteller-odyssey-live.json) |
@@ -1035,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Creatures HD | 100873 | [100873-doodle-creatures-hd.json](./100873-doodle-creatures-hd.json) |
 | Doodle Empires | 336893 | [336893-doodle-empires.json](./336893-doodle-empires.json) |
 | Doodle Escape | 338011 | [338011-doodle-escape.json](./338011-doodle-escape.json) |
+| Doodle God | 18528 | [18528-doodle-god.json](./18528-doodle-god.json) |
 | Doodle God Bundle | 119072 | [119072-doodle-god-bundle.json](./119072-doodle-god-bundle.json) |
 | Doodle God: Fantasy World of Magic | 186346 | [186346-doodle-god-fantasy-world-of-magic.json](./186346-doodle-god-fantasy-world-of-magic.json) |
 | Doodle God: Genesis Secrets | 99617 | [99617-doodle-god-genesis-secrets.json](./99617-doodle-god-genesis-secrets.json) |
@@ -1159,6 +1164,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragluttony | 190230 | [190230-dragluttony.json](./190230-dragluttony.json) |
 | Dragon & Elfs | 227507 | [227507-dragon-and-elfs.json](./227507-dragon-and-elfs.json) |
 | Dragon & Knights | 200747 | [200747-dragon-and-knights.json](./200747-dragon-and-knights.json) |
+| Dragon Age: Origins - Leliana's Song | 17465 | [17465-dragon-age-origins-lelianas-song.json](./17465-dragon-age-origins-lelianas-song.json) |
+| Dragon Age: Origins - The Stone Prisoner | 17462 | [17462-dragon-age-origins-the-stone-prisoner.json](./17462-dragon-age-origins-the-stone-prisoner.json) |
 | Dragon Ball 3: Goku-den | 48679 | [48679-dragon-ball-3-goku-den.json](./48679-dragon-ball-3-goku-den.json) |
 | Dragon Ball FighterZ | 36911 | [36911-dragon-ball-fighterz.json](./36911-dragon-ball-fighterz.json) |
 | Dragon Ball Xenoverse 2: Lite Version | 116372 | [116372-dragon-ball-xenoverse-2-lite-version.json](./116372-dragon-ball-xenoverse-2-lite-version.json) |
