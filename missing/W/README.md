@@ -408,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Wall | 149582 | [149582-white-wall.json](./149582-white-wall.json) |
 | Whiteout | 181385 | [181385-whiteout.json](./181385-whiteout.json) |
 | Whitewater Rapids | 205838 | [205838-whitewater-rapids.json](./205838-whitewater-rapids.json) |
+| Who Am I: The Tale of Dorothy | 96654 | [96654-who-am-i-the-tale-of-dorothy.json](./96654-who-am-i-the-tale-of-dorothy.json) |
 | Who Are Ya | 239284 | [239284-who-are-ya.json](./239284-who-are-ya.json) |
 | Who Are You!? | 256522 | [256522-who-are-you.json](./256522-who-are-you.json) |
 | Who Are You? | 169439 | [169439-who-are-you.json](./169439-who-are-you.json) |
@@ -491,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wimbledon '88 | 121720 | [121720-wimbledon-88.json](./121720-wimbledon-88.json) |
 | Win Big or Die | 30937 | [30937-win-big-or-die.json](./30937-win-big-or-die.json) |
 | Win the Diamond | 220839 | [220839-win-the-diamond.json](./220839-win-the-diamond.json) |
+| Win the Game: Do It! | 96648 | [96648-win-the-game-do-it.json](./96648-win-the-game-do-it.json) |
 | Win, Lose or Draw | 48093 | [48093-win-lose-or-draw.json](./48093-win-lose-or-draw.json) |
 | Winch it Out | 300387 | [300387-winch-it-out.json](./300387-winch-it-out.json) |
 | Wind and Mist | 253007 | [253007-wind-and-mist.json](./253007-wind-and-mist.json) |
