@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastoral | 228688 | [228688-pastoral.json](./228688-pastoral.json) |
 | Pat Sajak's Trivia Gems | 98966 | [98966-pat-sajaks-trivia-gems.json](./98966-pat-sajaks-trivia-gems.json) |
 | Patapon | 7812 | [7812-patapon.json](./7812-patapon.json) |
+| Patapon 2 | 7813 | [7813-patapon-2.json](./7813-patapon-2.json) |
 | Patapon 2: Art of War | 61093 | [61093-patapon-2-art-of-war.json](./61093-patapon-2-art-of-war.json) |
 | Patapon: Band Camp | 61092 | [61092-patapon-band-camp.json](./61092-patapon-band-camp.json) |
 | PatchCon! Defend the Library | 202948 | [202948-patchcon-defend-the-library.json](./202948-patchcon-defend-the-library.json) |
@@ -1374,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pteroglider | 93590 | [93590-pteroglider.json](./93590-pteroglider.json) |
 | Pub Mania | 325247 | [325247-pub-mania.json](./325247-pub-mania.json) |
 | Pub Sim | 311277 | [311277-pub-sim.json](./311277-pub-sim.json) |
+| PUBG Lite | 124036 | [124036-pubg-lite.json](./124036-pubg-lite.json) |
 | PUBG Mobile: Season 16 | 141193 | [141193-pubg-mobile-season-16.json](./141193-pubg-mobile-season-16.json) |
 | PUBG: Battlegrounds - Season 18 | 217520 | [217520-pubg-battlegrounds-season-18.json](./217520-pubg-battlegrounds-season-18.json) |
 | PUBG: Blindspot | 321135 | [321135-pubg-blindspot.json](./321135-pubg-blindspot.json) |
@@ -1455,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putty Squad | 39021 | [39021-putty-squad.json](./39021-putty-squad.json) |
 | Puyo Puyo | 146876 | [146876-puyo-puyo.json](./146876-puyo-puyo.json) |
 | Puyo Puyo Puzzle Pop | 291210 | [291210-puyo-puyo-puzzle-pop.json](./291210-puyo-puyo-puzzle-pop.json) |
+| Puyo Puyo Tetris 2 | 137132 | [137132-puyo-puyo-tetris-2.json](./137132-puyo-puyo-tetris-2.json) |
 | Puzz Loop 2 | 39669 | [39669-puzz-loop-2.json](./39669-puzz-loop-2.json) |
 | Puzzl9 | 178650 | [178650-puzzl9.json](./178650-puzzl9.json) |
 | Puzzle & Action: Treasure Hunt | 123590 | [123590-puzzle-and-action-treasure-hunt.json](./123590-puzzle-and-action-treasure-hunt.json) |
