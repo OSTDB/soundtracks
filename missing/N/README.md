@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nations At War Digital: White Star Rising Battlepack 1 | 166198 | [166198-nations-at-war-digital-white-star-rising-battlepack-1.json](./166198-nations-at-war-digital-white-star-rising-battlepack-1.json) |
 | Nations At War Digital: White Star Rising Battlepack 2 | 166201 | [166201-nations-at-war-digital-white-star-rising-battlepack-2.json](./166201-nations-at-war-digital-white-star-rising-battlepack-2.json) |
 | Nations: WWII Fighter Command | 62210 | [62210-nations-wwii-fighter-command.json](./62210-nations-wwii-fighter-command.json) |
+| NATO Commander | 24988 | [24988-nato-commander.json](./24988-nato-commander.json) |
 | Natsu Ecchi 2: Futago to Inaka no Natsuyasumi | 109001 | [109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json](./109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json) |
 | Natsu no Sagashimono: What We Found That Summer | 331121 | [331121-natsu-no-sagashimono-what-we-found-that-summer.json](./331121-natsu-no-sagashimono-what-we-found-that-summer.json) |
 | Natsuiro High School: Seishun Hakusho | 52602 | [52602-natsuiro-high-school-seishun-hakusho.json](./52602-natsuiro-high-school-seishun-hakusho.json) |
@@ -102,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naught: Edahi & Dohai | 238215 | [238215-naught-edahi-and-dohai.json](./238215-naught-edahi-and-dohai.json) |
 | Nauka Prediel | 202401 | [202401-nauka-prediel.json](./202401-nauka-prediel.json) |
 | Nautikin Adventures | 329372 | [329372-nautikin-adventures.json](./329372-nautikin-adventures.json) |
+| Nautilus | 24937 | [24937-nautilus.json](./24937-nautilus.json) |
 | Nautilus Epoch | 166780 | [166780-nautilus-epoch.json](./166780-nautilus-epoch.json) |
 | Nav's Endless Nightmare | 182537 | [182537-navs-endless-nightmare.json](./182537-navs-endless-nightmare.json) |
 | Naval Campaigns Kriegsmarine | 202918 | [202918-naval-campaigns-kriegsmarine.json](./202918-naval-campaigns-kriegsmarine.json) |
