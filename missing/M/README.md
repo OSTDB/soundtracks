@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mariner | 39690 | [39690-mariner.json](./39690-mariner.json) |
 | Mario & Luigi | 117772 | [117772-mario-and-luigi.json](./117772-mario-and-luigi.json) |
 | Mario & Luigi: Kola Kingdom Quest | 132856 | [132856-mario-and-luigi-kola-kingdom-quest.json](./132856-mario-and-luigi-kola-kingdom-quest.json) |
+| Mario & Luigi: Superstar Saga | 3351 | [3351-mario-and-luigi-superstar-saga.json](./3351-mario-and-luigi-superstar-saga.json) |
 | Mario & Sonic | 324089 | [324089-mario-and-sonic.json](./324089-mario-and-sonic.json) |
 | Mario 128 | 130354 | [130354-mario-128.json](./130354-mario-128.json) |
 | Mario 64 x Banjo Kazooie | 134018 | [134018-mario-64-x-banjo-kazooie.json](./134018-mario-64-x-banjo-kazooie.json) |
@@ -786,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid FreezeFlame | 255382 | [255382-metroid-freezeflame.json](./255382-metroid-freezeflame.json) |
 | Metroid FreezeFlame 2: Twisted Dimensions | 255383 | [255383-metroid-freezeflame-2-twisted-dimensions.json](./255383-metroid-freezeflame-2-twisted-dimensions.json) |
 | Metroid Nebulus | 324078 | [324078-metroid-nebulus.json](./324078-metroid-nebulus.json) |
+| Metroid Prime 2: Echoes | 1108 | [1108-metroid-prime-2-echoes.json](./1108-metroid-prime-2-echoes.json) |
 | Metroid Prime: Google Translate Edition | 255380 | [255380-metroid-prime-google-translate-edition.json](./255380-metroid-prime-google-translate-edition.json) |
 | Metroid Tactics | 264878 | [264878-metroid-tactics.json](./264878-metroid-tactics.json) |
 | Metroid Vanguard | 331700 | [331700-metroid-vanguard.json](./331700-metroid-vanguard.json) |
