@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is a Race | 199086 | [199086-life-is-a-race.json](./199086-life-is-a-race.json) |
 | Life is Magic | 64426 | [64426-life-is-magic.json](./64426-life-is-magic.json) |
 | Life is Strange: Before the Storm - Deluxe Edition | 53273 | [53273-life-is-strange-before-the-storm-deluxe-edition.json](./53273-life-is-strange-before-the-storm-deluxe-edition.json) |
+| Life is Strange: True Colors | 144765 | [144765-life-is-strange-true-colors.json](./144765-life-is-strange-true-colors.json) |
 | Life of a Capitalist | 118407 | [118407-life-of-a-capitalist.json](./118407-life-of-a-capitalist.json) |
 | Life Simulator | 10959 | [10959-life-simulator.json](./10959-life-simulator.json) |
 | Life source | 117093 | [117093-life-source.json](./117093-life-source.json) |
