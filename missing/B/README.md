@@ -710,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin highway | 83587 | [83587-bitcoin-highway.json](./83587-bitcoin-highway.json) |
 | Bitcoin Mining Tycoon | 103469 | [103469-bitcoin-mining-tycoon.json](./103469-bitcoin-mining-tycoon.json) |
 | Bitcoin Trading Master: Simulator | 125433 | [125433-bitcoin-trading-master-simulator.json](./125433-bitcoin-trading-master-simulator.json) |
+| Bitcoin VR | 28932 | [28932-bitcoin-vr.json](./28932-bitcoin-vr.json) |
 | Bitcoin VS Brain | 89961 | [89961-bitcoin-vs-brain.json](./89961-bitcoin-vs-brain.json) |
 | BitColor | 184116 | [184116-bitcolor.json](./184116-bitcolor.json) |
 | Bite Me | 128623 | [128623-bite-me.json](./128623-bite-me.json) |
@@ -856,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Slender-Man 3D: Lucky Survivor - Worldwide Multiplayer Edition | 327592 | [327592-block-slender-man-3d-lucky-survivor-worldwide-multiplayer-edition.json](./327592-block-slender-man-3d-lucky-survivor-worldwide-multiplayer-edition.json) |
 | Block Smash | 58834 | [58834-block-smash.json](./58834-block-smash.json) |
 | Block Smasher: 3D Arcade Action Reaction Brick Breaker Game | 90667 | [90667-block-smasher-3d-arcade-action-reaction-brick-breaker-game.json](./90667-block-smasher-3d-arcade-action-reaction-brick-breaker-game.json) |
+| Block Strike | 28898 | [28898-block-strike.json](./28898-block-strike.json) |
 | Block Tuner | 124253 | [124253-block-tuner.json](./124253-block-tuner.json) |
 | Block x3 | 253013 | [253013-block-x3.json](./253013-block-x3.json) |
 | Block_Up | 265408 | [265408-block-up.json](./265408-block-up.json) |
@@ -1451,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burst Error: Eve the First | 59434 | [59434-burst-error-eve-the-first.json](./59434-burst-error-eve-the-first.json) |
 | Burst Hero | 237042 | [237042-burst-hero.json](./237042-burst-hero.json) |
 | Burst Planet | 161393 | [161393-burst-planet.json](./161393-burst-planet.json) |
+| Burst the Game | 28929 | [28929-burst-the-game.json](./28929-burst-the-game.json) |
 | Bury Your Gays | 269864 | [269864-bury-your-gays.json](./269864-bury-your-gays.json) |
 | Bus Derby | 200203 | [200203-bus-derby.json](./200203-bus-derby.json) |
 | Bus Simulator | 130938 | [130938-bus-simulator.json](./130938-bus-simulator.json) |
