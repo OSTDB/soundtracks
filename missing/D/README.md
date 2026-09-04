@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.E.E.P.: Battle of Jove | 139485 | [139485-d-e-e-p-battle-of-jove.json](./139485-d-e-e-p-battle-of-jove.json) |
 | D.H.Trouble Guy | 117067 | [117067-d-h-trouble-guy.json](./117067-d-h-trouble-guy.json) |
 | D.O.W.N | 229383 | [229383-d-o-w-n.json](./229383-d-o-w-n.json) |
+| D1 Grand Prix | 20551 | [20551-d1-grand-prix.json](./20551-d1-grand-prix.json) |
 | D3d Inside | 126659 | [126659-d3d-inside.json](./126659-d3d-inside.json) |
 | D3L3T3.exe | 264331 | [264331-d3l3t3-exe.json](./264331-d3l3t3-exe.json) |
 | Dà Fùwēng | 125469 | [125469-da-fuweng.json](./125469-da-fuweng.json) |
@@ -71,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution Ultramix 3 | 5801 | [5801-dance-dance-revolution-ultramix-3.json](./5801-dance-dance-revolution-ultramix-3.json) |
 | Dance Dance Revolution Ultramix 4 | 5802 | [5802-dance-dance-revolution-ultramix-4.json](./5802-dance-dance-revolution-ultramix-4.json) |
 | Dance Dance Revolution: Dear Daniel | 329929 | [329929-dance-dance-revolution-dear-daniel.json](./329929-dance-dance-revolution-dear-daniel.json) |
+| Dance Factory | 20560 | [20560-dance-factory.json](./20560-dance-factory.json) |
 | Dance Fever HD | 232150 | [232150-dance-fever-hd.json](./232150-dance-fever-hd.json) |
 | Dance of Cubes | 170552 | [170552-dance-of-cubes.json](./170552-dance-of-cubes.json) |
 | Dance With Zombies | 127319 | [127319-dance-with-zombies.json](./127319-dance-with-zombies.json) |
@@ -469,6 +471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep in Brixen Space | 140585 | [140585-deep-in-brixen-space.json](./140585-deep-in-brixen-space.json) |
 | Deep in the Forest | 183042 | [183042-deep-in-the-forest.json](./183042-deep-in-the-forest.json) |
 | Deep In The Snowy Night 2 | 278740 | [278740-deep-in-the-snowy-night-2.json](./278740-deep-in-the-snowy-night-2.json) |
+| Deep Labyrinth | 20552 | [20552-deep-labyrinth.json](./20552-deep-labyrinth.json) |
 | Deep Research | 271493 | [271493-deep-research.json](./271493-deep-research.json) |
 | Deep Sea Marble Pop | 146901 | [146901-deep-sea-marble-pop.json](./146901-deep-sea-marble-pop.json) |
 | Deep Sleep | 185125 | [185125-deep-sleep.json](./185125-deep-sleep.json) |
@@ -938,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Step | 335656 | [335656-disney-step.json](./335656-disney-step.json) |
 | Disney The Little Mermaid: Undersea Treasures! | 328255 | [328255-disney-the-little-mermaid-undersea-treasures.json](./328255-disney-the-little-mermaid-undersea-treasures.json) |
 | Disney Two Pack I Big Hero 6: Battle In the Bay & Frozen: Olaf's Quest | 79914 | [79914-disney-two-pack-i-big-hero-6-battle-in-the-bay-and-frozen-olafs-quest.json](./79914-disney-two-pack-i-big-hero-6-battle-in-the-bay-and-frozen-olafs-quest.json) |
+| Disney's A Christmas Carol | 21086 | [21086-disneys-a-christmas-carol.json](./21086-disneys-a-christmas-carol.json) |
 | Disney's Adventures in Typing with Timon & Pumbaa | 167278 | [167278-disneys-adventures-in-typing-with-timon-and-pumbaa.json](./167278-disneys-adventures-in-typing-with-timon-and-pumbaa.json) |
 | Disney's Aladdin | 2473 | [2473-disneys-aladdin.json](./2473-disneys-aladdin.json) |
 | Disney's Aladdin | 8118 | [8118-disneys-aladdin.json](./8118-disneys-aladdin.json) |
@@ -1403,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonfire | 5671 | [5671-dragonfire.json](./5671-dragonfire.json) |
 | DragonFishing | 70392 | [70392-dragonfishing.json](./70392-dragonfishing.json) |
 | Dragonia | 124242 | [124242-dragonia.json](./124242-dragonia.json) |
+| Dragonology | 21095 | [21095-dragonology.json](./21095-dragonology.json) |
 | Dragons and Titans | 10195 | [10195-dragons-and-titans.json](./10195-dragons-and-titans.json) |
 | Dragons of Atlantis | 303231 | [303231-dragons-of-atlantis.json](./303231-dragons-of-atlantis.json) |
 | Dragons: Titan Uprising | 123626 | [123626-dragons-titan-uprising.json](./123626-dragons-titan-uprising.json) |
