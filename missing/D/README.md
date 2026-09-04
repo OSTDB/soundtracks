@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darksiders III: Collector's Edition | 45985 | [45985-darksiders-iii-collectors-edition.json](./45985-darksiders-iii-collectors-edition.json) |
 | Darksiders: Warmastered Edition | 25081 | [25081-darksiders-warmastered-edition.json](./25081-darksiders-warmastered-edition.json) |
 | DarkSpar | 193467 | [193467-darkspar.json](./193467-darkspar.json) |
+| Darkwatch | 5808 | [5808-darkwatch.json](./5808-darkwatch.json) |
 | Darso Roads | 325815 | [325815-darso-roads.json](./325815-darso-roads.json) |
 | Dartford Street | 183593 | [183593-dartford-street.json](./183593-dartford-street.json) |
 | Darthy | 34374 | [34374-darthy.json](./34374-darthy.json) |
@@ -265,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: OH-58D Kiowa Warrior | 304372 | [304372-dcs-world-oh-58d-kiowa-warrior.json](./304372-dcs-world-oh-58d-kiowa-warrior.json) |
 | DCS: Normandy 1944 | 27782 | [27782-dcs-normandy-1944.json](./27782-dcs-normandy-1944.json) |
 | DDS Defenders Dark Side | 214726 | [214726-dds-defenders-dark-side.json](./214726-dds-defenders-dark-side.json) |
+| de Blob | 2637 | [2637-de-blob.json](./2637-de-blob.json) |
 | De Blob | 233776 | [233776-de-blob.json](./233776-de-blob.json) |
 | De-Exit: Eternal Matters | 172757 | [172757-de-exit-eternal-matters.json](./172757-de-exit-eternal-matters.json) |
 | De:Fanastasis | 297812 | [297812-de-fanastasis.json](./297812-de-fanastasis.json) |
@@ -434,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenda | 45350 | [45350-defenda.json](./45350-defenda.json) |
 | Defender | 228072 | [228072-defender.json](./228072-defender.json) |
 | Defender 2000 | 40817 | [40817-defender-2000.json](./40817-defender-2000.json) |
+| Defender of the Crown | 1873 | [1873-defender-of-the-crown.json](./1873-defender-of-the-crown.json) |
 | Defender of the Turrets: Warp Attack | 171593 | [171593-defender-of-the-turrets-warp-attack.json](./171593-defender-of-the-turrets-warp-attack.json) |
 | Defender's Quest 2: Mists of Ruin | 7889 | [7889-defenders-quest-2-mists-of-ruin.json](./7889-defenders-quest-2-mists-of-ruin.json) |
 | Defenders of Asteria | 207537 | [207537-defenders-of-asteria.json](./207537-defenders-of-asteria.json) |
@@ -1054,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doofus | 39025 | [39025-doofus.json](./39025-doofus.json) |
 | Dookie Nukem 3D | 218115 | [218115-dookie-nukem-3d.json](./218115-dookie-nukem-3d.json) |
 | Doom 2 In City Only | 299447 | [299447-doom-2-in-city-only.json](./299447-doom-2-in-city-only.json) |
+| Doom Eternal: The Ancient Gods - Part Two | 144731 | [144731-doom-eternal-the-ancient-gods-part-two.json](./144731-doom-eternal-the-ancient-gods-part-two.json) |
 | Doom Eternal: Year One Pass | 293919 | [293919-doom-eternal-year-one-pass.json](./293919-doom-eternal-year-one-pass.json) |
 | Doom II + Final Doom | 132823 | [132823-doom-ii-final-doom.json](./132823-doom-ii-final-doom.json) |
 | Doom II: Japanese Community Project | 140048 | [140048-doom-ii-japanese-community-project.json](./140048-doom-ii-japanese-community-project.json) |
@@ -1100,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dottie Dreads Nought | 313475 | [313475-dottie-dreads-nought.json](./313475-dottie-dreads-nought.json) |
 | Double Bubble Blaster Madness VR | 112989 | [112989-double-bubble-blaster-madness-vr.json](./112989-double-bubble-blaster-madness-vr.json) |
 | Double Dragon | 200154 | [200154-double-dragon.json](./200154-double-dragon.json) |
+| Double Dragon | 201319 | [201319-double-dragon.json](./201319-double-dragon.json) |
 | Double Dragon | 201322 | [201322-double-dragon.json](./201322-double-dragon.json) |
 | Double Dungeons | 206965 | [206965-double-dungeons.json](./206965-double-dungeons.json) |
 | Double Elf Fantasy | 241663 | [241663-double-elf-fantasy.json](./241663-double-elf-fantasy.json) |
@@ -1178,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Buu's Fury | 19835 | [19835-dragon-ball-z-buus-fury.json](./19835-dragon-ball-z-buus-fury.json) |
 | Dragon Ball Z: Buu's Fury / Dragon Ball GT: Transformation | 79299 | [79299-dragon-ball-z-buus-fury-dragon-ball-gt-transformation.json](./79299-dragon-ball-z-buus-fury-dragon-ball-gt-transformation.json) |
 | Dragon Ball Z: Cell To Kogeki Da | 322346 | [322346-dragon-ball-z-cell-to-kogeki-da.json](./322346-dragon-ball-z-cell-to-kogeki-da.json) |
+| Dragon Ball Z: Super Butouden | 2545 | [2545-dragon-ball-z-super-butouden.json](./2545-dragon-ball-z-super-butouden.json) |
 | Dragon Ball Z: Super Goku-den - Totsugeki-hen | 38396 | [38396-dragon-ball-z-super-goku-den-totsugeki-hen.json](./38396-dragon-ball-z-super-goku-den-totsugeki-hen.json) |
 | Dragon Ball Z: The Legacy Of Tenkaichi | 308554 | [308554-dragon-ball-z-the-legacy-of-tenkaichi.json](./308554-dragon-ball-z-the-legacy-of-tenkaichi.json) |
 | Dragon Ball Z: XKeeperZ | 98436 | [98436-dragon-ball-z-xkeeperz.json](./98436-dragon-ball-z-xkeeperz.json) |
