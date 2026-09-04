@@ -296,6 +296,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Life | 311796 | [311796-new-life.json](./311796-new-life.json) |
 | New Path 1: Adventure or Normality? | 124237 | [124237-new-path-1-adventure-or-normality.json](./124237-new-path-1-adventure-or-normality.json) |
 | New Roanoke | 270968 | [270968-new-roanoke.json](./270968-new-roanoke.json) |
+| New Star Soccer | 7682 | [7682-new-star-soccer.json](./7682-new-star-soccer.json) |
+| New Star Soccer 2 | 7681 | [7681-new-star-soccer-2.json](./7681-new-star-soccer-2.json) |
+| New Star Soccer 2010 | 7678 | [7678-new-star-soccer-2010.json](./7678-new-star-soccer-2010.json) |
+| New Star Soccer 3 | 7680 | [7680-new-star-soccer-3.json](./7680-new-star-soccer-3.json) |
+| New Star Soccer 4 | 7679 | [7679-new-star-soccer-4.json](./7679-new-star-soccer-4.json) |
 | New Super Kaizo Bros. | 214777 | [214777-new-super-kaizo-bros.json](./214777-new-super-kaizo-bros.json) |
 | New Super Mario Bros. Deluxe | 107234 | [107234-new-super-mario-bros-deluxe.json](./107234-new-super-mario-bros-deluxe.json) |
 | New Super Mario Bros. Mii | 175961 | [175961-new-super-mario-bros-mii.json](./175961-new-super-mario-bros-mii.json) |
