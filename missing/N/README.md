@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Rest | 302688 | [302688-no-rest.json](./302688-no-rest.json) |
 | No Son of Mine | 201314 | [201314-no-son-of-mine.json](./201314-no-son-of-mine.json) |
 | No Stick Shooter | 28910 | [28910-no-stick-shooter.json](./28910-no-stick-shooter.json) |
+| No Straight Roads | 114783 | [114783-no-straight-roads.json](./114783-no-straight-roads.json) |
 | No Straight Roads: Collector's Edition | 166225 | [166225-no-straight-roads-collectors-edition.json](./166225-no-straight-roads-collectors-edition.json) |
 | No Straight Roads: Encore Edition | 178093 | [178093-no-straight-roads-encore-edition.json](./178093-no-straight-roads-encore-edition.json) |
 | No Sun To Worship | 236015 | [236015-no-sun-to-worship.json](./236015-no-sun-to-worship.json) |
@@ -673,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Match | 232147 | [232147-not-match.json](./232147-not-match.json) |
 | Not Our Home 2 | 156649 | [156649-not-our-home-2.json](./156649-not-our-home-2.json) |
 | Not Sonic Flash | 330525 | [330525-not-sonic-flash.json](./330525-not-sonic-flash.json) |
+| Not Tonight | 96088 | [96088-not-tonight.json](./96088-not-tonight.json) |
 | Not Tonight: One Love | 154560 | [154560-not-tonight-one-love.json](./154560-not-tonight-one-love.json) |
 | Not Your Eyes | 156660 | [156660-not-your-eyes.json](./156660-not-your-eyes.json) |
 | Notes on Crying | 181918 | [181918-notes-on-crying.json](./181918-notes-on-crying.json) |
