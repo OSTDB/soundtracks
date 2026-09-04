@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macross 30: Voices across the Galaxy | 79292 | [79292-macross-30-voices-across-the-galaxy.json](./79292-macross-30-voices-across-the-galaxy.json) |
 | Macross Trial Frontier | 65536 | [65536-macross-trial-frontier.json](./65536-macross-trial-frontier.json) |
 | Macross Ultimate Frontier | 68013 | [68013-macross-ultimate-frontier.json](./68013-macross-ultimate-frontier.json) |
+| Macross: Shooting Insight | 230620 | [230620-macross-shooting-insight.json](./230620-macross-shooting-insight.json) |
 | MacShot | 192447 | [192447-macshot.json](./192447-macshot.json) |
 | Mad Cars | 94261 | [94261-mad-cars.json](./94261-mad-cars.json) |
 | Mad Crash Racing | 234323 | [234323-mad-crash-racing.json](./234323-mad-crash-racing.json) |
@@ -53,7 +54,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Skills | 181353 | [181353-mad-skills.json](./181353-mad-skills.json) |
 | Mad Skills Motocross 3 | 241639 | [241639-mad-skills-motocross-3.json](./241639-mad-skills-motocross-3.json) |
 | Mad Stalker: Full Metal Force | 41408 | [41408-mad-stalker-full-metal-force.json](./41408-mad-stalker-full-metal-force.json) |
+| Madden NFL 07 | 243011 | [243011-madden-nfl-07.json](./243011-madden-nfl-07.json) |
 | Madden NFL 07 | 4983 | [4983-madden-nfl-07.json](./4983-madden-nfl-07.json) |
+| Madden NFL 13 | 243257 | [243257-madden-nfl-13.json](./243257-madden-nfl-13.json) |
 | Madden NFL 20: Ultimate Superstar Edition | 119063 | [119063-madden-nfl-20-ultimate-superstar-edition.json](./119063-madden-nfl-20-ultimate-superstar-edition.json) |
 | Madden NFL 2000 | 3537 | [3537-madden-nfl-2000.json](./3537-madden-nfl-2000.json) |
 | Madden NFL 2002 | 3539 | [3539-madden-nfl-2002.json](./3539-madden-nfl-2002.json) |
@@ -62,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 22: Dynasty Edition | 155098 | [155098-madden-nfl-22-dynasty-edition.json](./155098-madden-nfl-22-dynasty-edition.json) |
 | Madden NFL 23: All Madden Edition | 204081 | [204081-madden-nfl-23-all-madden-edition.json](./204081-madden-nfl-23-all-madden-edition.json) |
 | Madden NFL 24: Deluxe Edition | 252388 | [252388-madden-nfl-24-deluxe-edition.json](./252388-madden-nfl-24-deluxe-edition.json) |
+| Madden NFL 25 | 243261 | [243261-madden-nfl-25.json](./243261-madden-nfl-25.json) |
 | Madden NFL 25 | 301506 | [301506-madden-nfl-25.json](./301506-madden-nfl-25.json) |
 | Madden NFL 26 | 342382 | [342382-madden-nfl-26.json](./342382-madden-nfl-26.json) |
 | Madden NFL 96 | 240486 | [240486-madden-nfl-96.json](./240486-madden-nfl-96.json) |
@@ -565,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MC Lars 2: Brotherhood | 75188 | [75188-mc-lars-2-brotherhood.json](./75188-mc-lars-2-brotherhood.json) |
 | McDonald's Fairies: Lily | 254793 | [254793-mcdonalds-fairies-lily.json](./254793-mcdonalds-fairies-lily.json) |
 | McDonald's Fairies: Rose | 254794 | [254794-mcdonalds-fairies-rose.json](./254794-mcdonalds-fairies-rose.json) |
+| McDroid | 16689 | [16689-mcdroid.json](./16689-mcdroid.json) |
 | Me | 145034 | [145034-me.json](./145034-me.json) |
 | Me and the Key 2 | 225280 | [225280-me-and-the-key-2.json](./225280-me-and-the-key-2.json) |
 | Me and the Key 3 | 225281 | [225281-me-and-the-key-3.json](./225281-me-and-the-key-3.json) |
@@ -1400,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Maker: Yami no Ryuukishi | 63878 | [63878-monster-maker-yami-no-ryuukishi.json](./63878-monster-maker-yami-no-ryuukishi.json) |
 | Monster Medic | 18236 | [18236-monster-medic.json](./18236-monster-medic.json) |
 | Monster Meltdown | 63284 | [63284-monster-meltdown.json](./63284-monster-meltdown.json) |
+| Monster Menu: The Scavenger's Cookbook | 216579 | [216579-monster-menu-the-scavengers-cookbook.json](./216579-monster-menu-the-scavengers-cookbook.json) |
 | Monster Milktruck! | 145670 | [145670-monster-milktruck.json](./145670-monster-milktruck.json) |
 | Monster Mystery | 224789 | [224789-monster-mystery.json](./224789-monster-mystery.json) |
 | Monster Never Cry | 297253 | [297253-monster-never-cry.json](./297253-monster-never-cry.json) |
@@ -1751,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Herd | 292827 | [292827-mutant-herd.json](./292827-mutant-herd.json) |
 | Mutant Karate Canary | 214156 | [214156-mutant-karate-canary.json](./214156-mutant-karate-canary.json) |
 | Mutant Monty | 66711 | [66711-mutant-monty.json](./66711-mutant-monty.json) |
+| Mutant Storm: Reloaded | 16266 | [16266-mutant-storm-reloaded.json](./16266-mutant-storm-reloaded.json) |
 | Mutual Assured Destruction Simulator | 326389 | [326389-mutual-assured-destruction-simulator.json](./326389-mutual-assured-destruction-simulator.json) |
 | Muumit ja Taikalamppu | 178047 | [178047-muumit-ja-taikalamppu.json](./178047-muumit-ja-taikalamppu.json) |
 | Muv-Luv VR | 33162 | [33162-muv-luv-vr.json](./33162-muv-luv-vr.json) |
