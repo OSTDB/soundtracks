@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Littlest Pet Shop: City Friends | 48022 | [48022-littlest-pet-shop-city-friends.json](./48022-littlest-pet-shop-city-friends.json) |
 | Littlest Pet Shop: Country Friends | 48021 | [48021-littlest-pet-shop-country-friends.json](./48021-littlest-pet-shop-country-friends.json) |
 | Littlest Pet Shop: Spring | 68040 | [68040-littlest-pet-shop-spring.json](./68040-littlest-pet-shop-spring.json) |
+| LittleWarGame | 9625 | [9625-littlewargame.json](./9625-littlewargame.json) |
 | Live Ammo | 93030 | [93030-live-ammo.json](./93030-live-ammo.json) |
 | Live Cycling Manager 2022 | 215920 | [215920-live-cycling-manager-2022.json](./215920-live-cycling-manager-2022.json) |
 | Live Maze | 210874 | [210874-live-maze.json](./210874-live-maze.json) |
