@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabulo | 337994 | [337994-tabulo.json](./337994-tabulo.json) |
 | Tachanka Simulator | 312906 | [312906-tachanka-simulator.json](./312906-tachanka-simulator.json) |
 | Tachyon Project: Limited Edition | 166235 | [166235-tachyon-project-limited-edition.json](./166235-tachyon-project-limited-edition.json) |
+| Tachyon: The Fringe | 357 | [357-tachyon-the-fringe.json](./357-tachyon-the-fringe.json) |
 | Tachypsychia | 141253 | [141253-tachypsychia.json](./141253-tachypsychia.json) |
 | Tackle Tourney Turbo | 177012 | [177012-tackle-tourney-turbo.json](./177012-tackle-tourney-turbo.json) |
 | Taco Bell: Tasty Temple Challenge | 11008 | [11008-taco-bell-tasty-temple-challenge.json](./11008-taco-bell-tasty-temple-challenge.json) |
@@ -1338,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Old Man Club | 59987 | [59987-the-old-man-club.json](./59987-the-old-man-club.json) |
 | The Oldest Edda | 190721 | [190721-the-oldest-edda.json](./190721-the-oldest-edda.json) |
 | The Omega Stone: Riddle of the Sphinx II | 71524 | [71524-the-omega-stone-riddle-of-the-sphinx-ii.json](./71524-the-omega-stone-riddle-of-the-sphinx-ii.json) |
+| The One Who Pulls Out the Sword Will Be Crowned King | 191888 | [191888-the-one-who-pulls-out-the-sword-will-be-crowned-king.json](./191888-the-one-who-pulls-out-the-sword-will-be-crowned-king.json) |
 | The One Who Stands Behind | 258191 | [258191-the-one-who-stands-behind.json](./258191-the-one-who-stands-behind.json) |
 | The Oracle Land | 197911 | [197911-the-oracle-land.json](./197911-the-oracle-land.json) |
 | The Oregon Trail: Boom Town | 247177 | [247177-the-oregon-trail-boom-town.json](./247177-the-oregon-trail-boom-town.json) |
@@ -1495,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Signifier: Deluxe Edition | 154550 | [154550-the-signifier-deluxe-edition.json](./154550-the-signifier-deluxe-edition.json) |
 | The Silent Islands | 211939 | [211939-the-silent-islands.json](./211939-the-silent-islands.json) |
 | The Simpsons: Bug Squad! | 307953 | [307953-the-simpsons-bug-squad.json](./307953-the-simpsons-bug-squad.json) |
+| The Sims 2 | 192905 | [192905-the-sims-2.json](./192905-the-sims-2.json) |
 | The Sims 4 Halloween Bundle | 272558 | [272558-the-sims-4-halloween-bundle.json](./272558-the-sims-4-halloween-bundle.json) |
 | The Sims 4: Artist Studio Kit | 317646 | [317646-the-sims-4-artist-studio-kit.json](./317646-the-sims-4-artist-studio-kit.json) |
 | The Sims 4: Back to School Bundle | 159331 | [159331-the-sims-4-back-to-school-bundle.json](./159331-the-sims-4-back-to-school-bundle.json) |
@@ -2256,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon: Breakpoint - Deluxe Edition | 173793 | [173793-tom-clancys-ghost-recon-breakpoint-deluxe-edition.json](./173793-tom-clancys-ghost-recon-breakpoint-deluxe-edition.json) |
 | Tom Clancy's Ghost Recon: Frontline | 174907 | [174907-tom-clancys-ghost-recon-frontline.json](./174907-tom-clancys-ghost-recon-frontline.json) |
 | Tom Clancy's Ghost Recon: Future Soldier - Arctic Strike | 171635 | [171635-tom-clancys-ghost-recon-future-soldier-arctic-strike.json](./171635-tom-clancys-ghost-recon-future-soldier-arctic-strike.json) |
+| Tom Clancy's Ghost Recon: Island Thunder | 1296 | [1296-tom-clancys-ghost-recon-island-thunder.json](./1296-tom-clancys-ghost-recon-island-thunder.json) |
 | Tom Clancy's Ghost Recon: Island Thunder | 307301 | [307301-tom-clancys-ghost-recon-island-thunder.json](./307301-tom-clancys-ghost-recon-island-thunder.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Ultimate Edition | 119071 | [119071-tom-clancys-ghost-recon-wildlands-ultimate-edition.json](./119071-tom-clancys-ghost-recon-wildlands-ultimate-edition.json) |
 | Tom Clancy's H.A.W.X | 264874 | [264874-tom-clancys-h-a-w-x.json](./264874-tom-clancys-h-a-w-x.json) |
@@ -2911,6 +2915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tupsu | 117761 | [117761-tupsu.json](./117761-tupsu.json) |
 | Turbo 84 | 239344 | [239344-turbo-84.json](./239344-turbo-84.json) |
 | Turbo Bullets | 311822 | [311822-turbo-bullets.json](./311822-turbo-bullets.json) |
+| Turbo Golf Racing | 194736 | [194736-turbo-golf-racing.json](./194736-turbo-golf-racing.json) |
 | Turbo Live | 318765 | [318765-turbo-live.json](./318765-turbo-live.json) |
 | Turbo trucks | 44635 | [44635-turbo-trucks.json](./44635-turbo-trucks.json) |
 | TurboRaketti II | 94239 | [94239-turboraketti-ii.json](./94239-turboraketti-ii.json) |
