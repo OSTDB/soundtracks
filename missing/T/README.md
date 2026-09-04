@@ -1369,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Omega Stone: Riddle of the Sphinx II | 71524 | [71524-the-omega-stone-riddle-of-the-sphinx-ii.json](./71524-the-omega-stone-riddle-of-the-sphinx-ii.json) |
 | The One Who Pulls Out the Sword Will Be Crowned King | 191888 | [191888-the-one-who-pulls-out-the-sword-will-be-crowned-king.json](./191888-the-one-who-pulls-out-the-sword-will-be-crowned-king.json) |
 | The One Who Stands Behind | 258191 | [258191-the-one-who-stands-behind.json](./258191-the-one-who-stands-behind.json) |
+| The Ooze | 46251 | [46251-the-ooze.json](./46251-the-ooze.json) |
 | The Oracle Land | 197911 | [197911-the-oracle-land.json](./197911-the-oracle-land.json) |
 | The Oregon Trail: Boom Town | 247177 | [247177-the-oregon-trail-boom-town.json](./247177-the-oregon-trail-boom-town.json) |
 | The Orion Conspiracy | 23862 | [23862-the-orion-conspiracy.json](./23862-the-orion-conspiracy.json) |
@@ -1412,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Play's the Thing | 154017 | [154017-the-plays-the-thing.json](./154017-the-plays-the-thing.json) |
 | The Plug | 175436 | [175436-the-plug.json](./175436-the-plug.json) |
 | The Plus Point | 89950 | [89950-the-plus-point.json](./89950-the-plus-point.json) |
+| The Plutonia Experiment | 46615 | [46615-the-plutonia-experiment.json](./46615-the-plutonia-experiment.json) |
 | The Pointless Car Chase | 121701 | [121701-the-pointless-car-chase.json](./121701-the-pointless-car-chase.json) |
 | The Power | 137071 | [137071-the-power.json](./137071-the-power.json) |
 | The power of chaos | 118369 | [118369-the-power-of-chaos.json](./118369-the-power-of-chaos.json) |
@@ -1667,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Three Stooges | 264852 | [264852-the-three-stooges.json](./264852-the-three-stooges.json) |
 | The Throne | 144329 | [144329-the-throne.json](./144329-the-throne.json) |
 | The Throne | 302117 | [302117-the-throne.json](./302117-the-throne.json) |
+| The Tick | 46594 | [46594-the-tick.json](./46594-the-tick.json) |
 | The Tomorrow Children: Phoenix Edition | 205261 | [205261-the-tomorrow-children-phoenix-edition.json](./205261-the-tomorrow-children-phoenix-edition.json) |
 | The Tomorrow Corporation Collection | 124784 | [124784-the-tomorrow-corporation-collection.json](./124784-the-tomorrow-corporation-collection.json) |
 | The Tour | 179178 | [179178-the-tour.json](./179178-the-tour.json) |
@@ -1924,7 +1927,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thumb Drift | 58840 | [58840-thumb-drift.json](./58840-thumb-drift.json) |
 | Thunder Blade | 12862 | [12862-thunder-blade.json](./12862-thunder-blade.json) |
 | Thunder Boy | 55186 | [55186-thunder-boy.json](./55186-thunder-boy.json) |
+| Thunder Cross | 46772 | [46772-thunder-cross.json](./46772-thunder-cross.json) |
 | Thunder Dragon 2 | 40247 | [40247-thunder-dragon-2.json](./40247-thunder-dragon-2.json) |
+| Thunder Fox | 39888 | [39888-thunder-fox.json](./39888-thunder-fox.json) |
 | Thunder Jumper | 268219 | [268219-thunder-jumper.json](./268219-thunder-jumper.json) |
 | Thunder League | 59407 | [59407-thunder-league.json](./59407-thunder-league.json) |
 | Thunder Roar | 218121 | [218121-thunder-roar.json](./218121-thunder-roar.json) |
