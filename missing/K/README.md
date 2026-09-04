@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kickrexing | 193487 | [193487-kickrexing.json](./193487-kickrexing.json) |
 | Kickshot | 99641 | [99641-kickshot.json](./99641-kickshot.json) |
 | Kid 4 $29.99 | 141871 | [141871-kid-4-29-99.json](./141871-kid-4-29-99.json) |
+| Kid Chameleon | 16035 | [16035-kid-chameleon.json](./16035-kid-chameleon.json) |
 | Kid Hallow | 179210 | [179210-kid-hallow.json](./179210-kid-hallow.json) |
 | Kid no Hore Hore Daisakusen | 40237 | [40237-kid-no-hore-hore-daisakusen.json](./40237-kid-no-hore-hore-daisakusen.json) |
 | Kid Paddle: Lost in the Game | 268186 | [268186-kid-paddle-lost-in-the-game.json](./268186-kid-paddle-lost-in-the-game.json) |
@@ -288,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KingAndSlaves | 122401 | [122401-kingandslaves.json](./122401-kingandslaves.json) |
 | Kingdom at War | 84254 | [84254-kingdom-at-war.json](./84254-kingdom-at-war.json) |
 | Kingdom Come: Deliverance II - Gold Edition | 317636 | [317636-kingdom-come-deliverance-ii-gold-edition.json](./317636-kingdom-come-deliverance-ii-gold-edition.json) |
+| Kingdom Hearts Dream Drop Distance HD | 117525 | [117525-kingdom-hearts-dream-drop-distance-hd.json](./117525-kingdom-hearts-dream-drop-distance-hd.json) |
 | Kingdom Hearts Tamagotchi | 229938 | [229938-kingdom-hearts-tamagotchi.json](./229938-kingdom-hearts-tamagotchi.json) |
 | Kingdom of Arcana | 292320 | [292320-kingdom-of-arcana.json](./292320-kingdom-of-arcana.json) |
 | Kingdom of Hamil | 13734 | [13734-kingdom-of-hamil.json](./13734-kingdom-of-hamil.json) |
