@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| X Multiply | 12271 | [12271-x-multiply.json](./12271-x-multiply.json) |
 | X Virus | 190742 | [190742-x-virus.json](./190742-x-virus.json) |
 | X-Bladez: Inline Skater | 43941 | [43941-x-bladez-inline-skater.json](./43941-x-bladez-inline-skater.json) |
 | X-Car Stunts | 102156 | [102156-x-car-stunts.json](./102156-x-car-stunts.json) |
