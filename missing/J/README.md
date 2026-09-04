@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Lab Reloaded | 246082 | [246082-jelly-lab-reloaded.json](./246082-jelly-lab-reloaded.json) |
 | Jelly Monsters | 60573 | [60573-jelly-monsters.json](./60573-jelly-monsters.json) |
 | Jelly no Puzzle | 141197 | [141197-jelly-no-puzzle.json](./141197-jelly-no-puzzle.json) |
+| Jelly Pops | 22934 | [22934-jelly-pops.json](./22934-jelly-pops.json) |
 | JellyCar | 95422 | [95422-jellycar.json](./95422-jellycar.json) |
 | Jellyfish Archipelago | 272019 | [272019-jellyfish-archipelago.json](./272019-jellyfish-archipelago.json) |
 | Jellyfish Season | 109726 | [109726-jellyfish-season.json](./109726-jellyfish-season.json) |
