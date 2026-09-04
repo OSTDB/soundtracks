@@ -721,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Men Are Pigs | 183041 | [183041-all-men-are-pigs.json](./183041-all-men-are-pigs.json) |
 | All Monsters Attack! | 202403 | [202403-all-monsters-attack.json](./202403-all-monsters-attack.json) |
 | All one click | 267086 | [267086-all-one-click.json](./267086-all-one-click.json) |
+| All Our Asias | 68216 | [68216-all-our-asias.json](./68216-all-our-asias.json) |
 | All Star Baseball | 91416 | [91416-all-star-baseball.json](./91416-all-star-baseball.json) |
 | All Star Darts | 79309 | [79309-all-star-darts.json](./79309-all-star-darts.json) |
 | All Star Racing | 43931 | [43931-all-star-racing.json](./43931-all-star-racing.json) |
@@ -1079,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anubis Clicker | 236535 | [236535-anubis-clicker.json](./236535-anubis-clicker.json) |
 | Anxieties | 335699 | [335699-anxieties.json](./335699-anxieties.json) |
 | Anytime Pool | 65488 | [65488-anytime-pool.json](./65488-anytime-pool.json) |
+| AO Tennis | 76726 | [76726-ao-tennis.json](./76726-ao-tennis.json) |
 | AOD | 297785 | [297785-aod.json](./297785-aod.json) |
 | Aoki Ookami to Shiroki Mejika | 30922 | [30922-aoki-ookami-to-shiroki-mejika.json](./30922-aoki-ookami-to-shiroki-mejika.json) |
 | Aonar | 259292 | [259292-aonar.json](./259292-aonar.json) |
@@ -1183,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Basketball 3D Tournament Edition | 241611 | [241611-arcade-basketball-3d-tournament-edition.json](./241611-arcade-basketball-3d-tournament-edition.json) |
 | Arcade Bowling | 67310 | [67310-arcade-bowling.json](./67310-arcade-bowling.json) |
 | Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
+| Arcade Game Series: Pac-Man | 68344 | [68344-arcade-game-series-pac-man.json](./68344-arcade-game-series-pac-man.json) |
 | Arcade Party | 241076 | [241076-arcade-party.json](./241076-arcade-party.json) |
 | Arcade Shooting Gallery | 50626 | [50626-arcade-shooting-gallery.json](./50626-arcade-shooting-gallery.json) |
 | Arcade Soccer | 15599 | [15599-arcade-soccer.json](./15599-arcade-soccer.json) |
@@ -1415,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen Knights: Foreshadow | 211412 | [211412-ashen-knights-foreshadow.json](./211412-ashen-knights-foreshadow.json) |
 | Ashen Sky | 299596 | [299596-ashen-sky.json](./299596-ashen-sky.json) |
 | Ashes 2 | 119774 | [119774-ashes-2.json](./119774-ashes-2.json) |
+| Ashes Cricket | 68282 | [68282-ashes-cricket.json](./68282-ashes-cricket.json) |
 | Ashes of Equestria | 121722 | [121722-ashes-of-equestria.json](./121722-ashes-of-equestria.json) |
 | Ashes of Immortality Trilogy | 52607 | [52607-ashes-of-immortality-trilogy.json](./52607-ashes-of-immortality-trilogy.json) |
 | Ashes of Sombtir | 275883 | [275883-ashes-of-sombtir.json](./275883-ashes-of-sombtir.json) |
