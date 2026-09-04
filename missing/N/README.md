@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nascar Web Racing | 209153 | [209153-nascar-web-racing.json](./209153-nascar-web-racing.json) |
 | Naser: Son of Man | 138240 | [138240-naser-son-of-man.json](./138240-naser-son-of-man.json) |
 | Nashijiru Action! Funassyi no Yukai na Ohanassyi | 222508 | [222508-nashijiru-action-funassyi-no-yukai-na-ohanassyi.json](./222508-nashijiru-action-funassyi-no-yukai-na-ohanassyi.json) |
+| NASL Soccer | 5688 | [5688-nasl-soccer.json](./5688-nasl-soccer.json) |
 | Nastrond | 271483 | [271483-nastrond.json](./271483-nastrond.json) |
 | Nasty Goats | 204725 | [204725-nasty-goats.json](./204725-nasty-goats.json) |
 | NatGeo Adventures: Ghost Fleet | 209151 | [209151-natgeo-adventures-ghost-fleet.json](./209151-natgeo-adventures-ghost-fleet.json) |
