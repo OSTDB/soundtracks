@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Corps: US Corps | 124806 | [124806-panzer-corps-us-corps.json](./124806-panzer-corps-us-corps.json) |
 | Panzer Crew VR | 132273 | [132273-panzer-crew-vr.json](./132273-panzer-crew-vr.json) |
 | Panzerfaust | 258212 | [258212-panzerfaust.json](./258212-panzerfaust.json) |
+| Papa Sangre | 7698 | [7698-papa-sangre.json](./7698-papa-sangre.json) |
 | Paper Cages | 178670 | [178670-paper-cages.json](./178670-paper-cages.json) |
 | Paper Champion | 242800 | [242800-paper-champion.json](./242800-paper-champion.json) |
 | Paper Flight: Future Battles | 263236 | [263236-paper-flight-future-battles.json](./263236-paper-flight-future-battles.json) |
@@ -194,6 +195,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Park Inc | 146878 | [146878-park-inc.json](./146878-park-inc.json) |
 | Park It! | 310740 | [310740-park-it.json](./310740-park-it.json) |
 | Park Master | 254751 | [254751-park-master.json](./254751-park-master.json) |
+| Parkan: Iron Strategy | 7701 | [7701-parkan-iron-strategy.json](./7701-parkan-iron-strategy.json) |
+| Parkan: The Imperial Chronicles | 7700 | [7700-parkan-the-imperial-chronicles.json](./7700-parkan-the-imperial-chronicles.json) |
 | Parkasaurus: Sea Monsters | 195749 | [195749-parkasaurus-sea-monsters.json](./195749-parkasaurus-sea-monsters.json) |
 | Parking 3D - Car Parking | 102206 | [102206-parking-3d-car-parking.json](./102206-parking-3d-car-parking.json) |
 | Parking Attendant | 151186 | [151186-parking-attendant.json](./151186-parking-attendant.json) |
