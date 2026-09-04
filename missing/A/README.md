@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angler Quest | 290711 | [290711-angler-quest.json](./290711-angler-quest.json) |
 | Angler's World | 217019 | [217019-anglers-world.json](./217019-anglers-world.json) |
 | Angry Barry | 67987 | [67987-angry-barry.json](./67987-angry-barry.json) |
+| Angry Birds | 2035 | [2035-angry-birds.json](./2035-angry-birds.json) |
 | Angry Birds Dream Blast | 114424 | [114424-angry-birds-dream-blast.json](./114424-angry-birds-dream-blast.json) |
 | Angry Birds FPS: First Person Slingshot | 111021 | [111021-angry-birds-fps-first-person-slingshot.json](./111021-angry-birds-fps-first-person-slingshot.json) |
 | Angry Birds Google+ | 245001 | [245001-angry-birds-google.json](./245001-angry-birds-google.json) |
@@ -1383,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Revelations: Special Edition | 268735 | [268735-assassins-creed-revelations-special-edition.json](./268735-assassins-creed-revelations-special-edition.json) |
 | Assassin's Creed Valhalla: A Fated Encounter | 228706 | [228706-assassins-creed-valhalla-a-fated-encounter.json](./228706-assassins-creed-valhalla-a-fated-encounter.json) |
 | Assassin's Creed Valhalla: River Raids | 228704 | [228704-assassins-creed-valhalla-river-raids.json](./228704-assassins-creed-valhalla-river-raids.json) |
+| Assassin's Creed: Freedom Cry | 3775 | [3775-assassins-creed-freedom-cry.json](./3775-assassins-creed-freedom-cry.json) |
 | Assassin's Creed: Lost Legacy | 78709 | [78709-assassins-creed-lost-legacy.json](./78709-assassins-creed-lost-legacy.json) |
 | Assassin's Creed: Origins - God's Edition | 39045 | [39045-assassins-creed-origins-gods-edition.json](./39045-assassins-creed-origins-gods-edition.json) |
 | Assassin's Creed: Syndicate - Gold Edition | 52626 | [52626-assassins-creed-syndicate-gold-edition.json](./52626-assassins-creed-syndicate-gold-edition.json) |
