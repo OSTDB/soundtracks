@@ -599,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Sim World: Pro Tour - Tournament Bass Pack | 156156 | [156156-fishing-sim-world-pro-tour-tournament-bass-pack.json](./156156-fishing-sim-world-pro-tour-tournament-bass-pack.json) |
 | Fishing Universe Simulator | 114416 | [114416-fishing-universe-simulator.json](./114416-fishing-universe-simulator.json) |
 | Fishton: A Town to Remember | 219785 | [219785-fishton-a-town-to-remember.json](./219785-fishton-a-town-to-remember.json) |
+| Fist Puncher | 9088 | [9088-fist-puncher.json](./9088-fist-puncher.json) |
 | Fista 3-in-1 Retro Pack | 254762 | [254762-fista-3-in-1-retro-pack.json](./254762-fista-3-in-1-retro-pack.json) |
 | Fists of Stone | 219786 | [219786-fists-of-stone.json](./219786-fists-of-stone.json) |
 | Fit & Fun | 50604 | [50604-fit-and-fun.json](./50604-fit-and-fun.json) |
@@ -931,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport: Deluxe Edition | 271467 | [271467-forza-motorsport-deluxe-edition.json](./271467-forza-motorsport-deluxe-edition.json) |
 | Forza Motorsport: Porsche 963 Combo | 316395 | [316395-forza-motorsport-porsche-963-combo.json](./316395-forza-motorsport-porsche-963-combo.json) |
 | Forza Motorsport: Premium Add-Ons Bundle | 271472 | [271472-forza-motorsport-premium-add-ons-bundle.json](./271472-forza-motorsport-premium-add-ons-bundle.json) |
+| Fossil Fighters: Frontier | 8609 | [8609-fossil-fighters-frontier.json](./8609-fossil-fighters-frontier.json) |
 | Fossil Skater | 318214 | [318214-fossil-skater.json](./318214-fossil-skater.json) |
 | Fostering Apocalypse | 153991 | [153991-fostering-apocalypse.json](./153991-fostering-apocalypse.json) |
 | Foto Face: The Face Stealer Strikes | 67286 | [67286-foto-face-the-face-stealer-strikes.json](./67286-foto-face-the-face-stealer-strikes.json) |
