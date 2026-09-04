@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Fighter | 7898 | [7898-cave-fighter.json](./7898-cave-fighter.json) |
 | Cave Flying | 27878 | [27878-cave-flying.json](./27878-cave-flying.json) |
 | Cave Hopper | 139468 | [139468-cave-hopper.json](./139468-cave-hopper.json) |
+| Cave of Illusions | 125116 | [125116-cave-of-illusions.json](./125116-cave-of-illusions.json) |
 | Cave Shooter | 167275 | [167275-cave-shooter.json](./167275-cave-shooter.json) |
 | Cavegirl Adventures | 163992 | [163992-cavegirl-adventures.json](./163992-cavegirl-adventures.json) |
 | Caveman | 47281 | [47281-caveman.json](./47281-caveman.json) |
@@ -1259,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Convicted Galaxy | 30902 | [30902-convicted-galaxy.json](./30902-convicted-galaxy.json) |
 | Convrgence | 269281 | [269281-convrgence.json](./269281-convrgence.json) |
 | Cook Baker Match | 175425 | [175425-cook-baker-match.json](./175425-cook-baker-match.json) |
+| Cook Dungeon | 127174 | [127174-cook-dungeon.json](./127174-cook-dungeon.json) |
 | Cook Out! | 250045 | [250045-cook-out.json](./250045-cook-out.json) |
 | Cook-A-Geddon | 265433 | [265433-cook-a-geddon.json](./265433-cook-a-geddon.json) |
 | Cookie & Bibi 3 | 39643 | [39643-cookie-and-bibi-3.json](./39643-cookie-and-bibi-3.json) |
