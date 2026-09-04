@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadoworld: The Impossible Escape Game | 204082 | [204082-shadoworld-the-impossible-escape-game.json](./204082-shadoworld-the-impossible-escape-game.json) |
 | Shadowrun | 7643 | [7643-shadowrun.json](./7643-shadowrun.json) |
 | Shadows | 318203 | [318203-shadows.json](./318203-shadows.json) |
+| Shadows 2: Perfidia | 29178 | [29178-shadows-2-perfidia.json](./29178-shadows-2-perfidia.json) |
 | Shadows of a Sunless World | 183063 | [183063-shadows-of-a-sunless-world.json](./183063-shadows-of-a-sunless-world.json) |
 | Shadows of Duat | 252395 | [252395-shadows-of-duat.json](./252395-shadows-of-duat.json) |
 | Shadows of Dungeon | 237659 | [237659-shadows-of-dungeon.json](./237659-shadows-of-dungeon.json) |
@@ -886,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrommzzz | 247752 | [247752-shrommzzz.json](./247752-shrommzzz.json) |
 | Shroomscape Zone | 192465 | [192465-shroomscape-zone.json](./192465-shroomscape-zone.json) |
 | Shuffle Party | 65525 | [65525-shuffle-party.json](./65525-shuffle-party.json) |
+| Shuffle! | 31127 | [31127-shuffle.json](./31127-shuffle.json) |
 | Shuffleboard | 170526 | [170526-shuffleboard.json](./170526-shuffleboard.json) |
 | Shugo Chara! Spirit! Chara Formation-Rhythm | 124276 | [124276-shugo-chara-spirit-chara-formation-rhythm.json](./124276-shugo-chara-spirit-chara-formation-rhythm.json) |
 | Shukusai no Utahime: Kimi to Tsumugu Asu he no Uta | 194605 | [194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json](./194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json) |
@@ -972,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silversword | 101539 | [101539-silversword.json](./101539-silversword.json) |
 | Silverwood Bay: An Eleanor Grey Mystery | 291246 | [291246-silverwood-bay-an-eleanor-grey-mystery.json](./291246-silverwood-bay-an-eleanor-grey-mystery.json) |
 | Sim Theme Park | 12484 | [12484-sim-theme-park.json](./12484-sim-theme-park.json) |
+| SimAirport | 27686 | [27686-simairport.json](./27686-simairport.json) |
 | SimCity 4: Rush Hour | 18494 | [18494-simcity-4-rush-hour.json](./18494-simcity-4-rush-hour.json) |
 | SimCity DS | 1494 | [1494-simcity-ds.json](./1494-simcity-ds.json) |
 | SimCity Social | 64978 | [64978-simcity-social.json](./64978-simcity-social.json) |
@@ -1424,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccerholix | 93577 | [93577-soccerholix.json](./93577-soccerholix.json) |
 | Soccering | 115041 | [115041-soccering.json](./115041-soccering.json) |
 | Social Distancing Simulator | 166204 | [166204-social-distancing-simulator.json](./166204-social-distancing-simulator.json) |
+| Social Interaction Trainer | 31531 | [31531-social-interaction-trainer.json](./31531-social-interaction-trainer.json) |
 | Sock Dating Simulator | 341321 | [341321-sock-dating-simulator.json](./341321-sock-dating-simulator.json) |
 | Soctics League | 208623 | [208623-soctics-league.json](./208623-soctics-league.json) |
 | Soda Story: Brewing Tycoon | 119016 | [119016-soda-story-brewing-tycoon.json](./119016-soda-story-brewing-tycoon.json) |
@@ -2354,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Step Up! | 84902 | [84902-step-up.json](./84902-step-up.json) |
 | Stephen King's F13 | 74412 | [74412-stephen-kings-f13.json](./74412-stephen-kings-f13.json) |
 | StereoPaint | 192425 | [192425-stereopaint.json](./192425-stereopaint.json) |
+| Stern Pinball Arcade | 30288 | [30288-stern-pinball-arcade.json](./30288-stern-pinball-arcade.json) |
 | Steve Davis Snooker | 45323 | [45323-steve-davis-snooker.json](./45323-steve-davis-snooker.json) |
 | Steve Magal: Fists of Brutal Truth | 341888 | [341888-steve-magal-fists-of-brutal-truth.json](./341888-steve-magal-fists-of-brutal-truth.json) |
 | Steve Reich’s Clapping Music | 312322 | [312322-steve-reich-s-clapping-music.json](./312322-steve-reich-s-clapping-music.json) |
