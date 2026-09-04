@@ -1930,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne of Magic | 108502 | [108502-throne-of-magic.json](./108502-throne-of-magic.json) |
 | Thronebreaker: The Witcher Tales | 107300 | [107300-thronebreaker-the-witcher-tales.json](./107300-thronebreaker-the-witcher-tales.json) |
 | Through | 94765 | [94765-through.json](./94765-through.json) |
+| Through the Ages | 87726 | [87726-through-the-ages.json](./87726-through-the-ages.json) |
 | Through the Mist and Sky | 102179 | [102179-through-the-mist-and-sky.json](./102179-through-the-mist-and-sky.json) |
 | Throw Cubes into Brick Towers to Collapse Them | 134662 | [134662-throw-cubes-into-brick-towers-to-collapse-them.json](./134662-throw-cubes-into-brick-towers-to-collapse-them.json) |
 | Throw M | 319962 | [319962-throw-m.json](./319962-throw-m.json) |
@@ -2489,6 +2490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Danmaku: Infinity | 233785 | [233785-touhou-danmaku-infinity.json](./233785-touhou-danmaku-infinity.json) |
 | TouHou Dew Valley | 262654 | [262654-touhou-dew-valley.json](./262654-touhou-dew-valley.json) |
 | Touhou Doumeiju: Mystical Power Plant | 246671 | [246671-touhou-doumeiju-mystical-power-plant.json](./246671-touhou-doumeiju-mystical-power-plant.json) |
+| Touhou Genso Wanderer Reloaded | 86645 | [86645-touhou-genso-wanderer-reloaded.json](./86645-touhou-genso-wanderer-reloaded.json) |
 | Touhou Genso Wanderer: Momiji Inubashiri | 206962 | [206962-touhou-genso-wanderer-momiji-inubashiri.json](./206962-touhou-genso-wanderer-momiji-inubashiri.json) |
 | Touhou Genso Wanderer: Mononobe no Futo to Nanatsu no Shiren - Fushigi no Gensoukyou TOD Another Story | 206960 | [206960-touhou-genso-wanderer-mononobe-no-futo-to-nanatsu-no-shiren-fushigi-no-gensoukyou-tod-another-story.json](./206960-touhou-genso-wanderer-mononobe-no-futo-to-nanatsu-no-shiren-fushigi-no-gensoukyou-tod-another-story.json) |
 | Touhou Genso Wanderer: The Bullet Reporter | 206961 | [206961-touhou-genso-wanderer-the-bullet-reporter.json](./206961-touhou-genso-wanderer-the-bullet-reporter.json) |
@@ -2608,11 +2610,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tradewinds Odyssey | 59456 | [59456-tradewinds-odyssey.json](./59456-tradewinds-odyssey.json) |
 | Traffic Chase | 173303 | [173303-traffic-chase.json](./173303-traffic-chase.json) |
 | Traffic City | 169476 | [169476-traffic-city.json](./169476-traffic-city.json) |
+| Traffic Rush | 87886 | [87886-traffic-rush.json](./87886-traffic-rush.json) |
 | Traffix 3D | 296071 | [296071-traffix-3d.json](./296071-traffix-3d.json) |
 | Trago | 104066 | [104066-trago.json](./104066-trago.json) |
 | Trail of Destruction | 28880 | [28880-trail-of-destruction.json](./28880-trail-of-destruction.json) |
 | Trail of Stars | 329966 | [329966-trail-of-stars.json](./329966-trail-of-stars.json) |
 | Trail of Toads | 223166 | [223166-trail-of-toads.json](./223166-trail-of-toads.json) |
+| Trailblazers | 88383 | [88383-trailblazers.json](./88383-trailblazers.json) |
 | Trailer Park Boys: Grea$y Money | 76608 | [76608-trailer-park-boys-grea-y-money.json](./76608-trailer-park-boys-grea-y-money.json) |
 | Trailmakers: Rescue Pack | 293396 | [293396-trailmakers-rescue-pack.json](./293396-trailmakers-rescue-pack.json) |
 | Trailpa | 256518 | [256518-trailpa.json](./256518-trailpa.json) |
