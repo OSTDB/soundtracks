@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screen Blaster | 101548 | [101548-screen-blaster.json](./101548-screen-blaster.json) |
 | Screen Wonders | 297211 | [297211-screen-wonders.json](./297211-screen-wonders.json) |
 | Screens Up by Nickelodeon | 105974 | [105974-screens-up-by-nickelodeon.json](./105974-screens-up-by-nickelodeon.json) |
+| Screeps: World | 25903 | [25903-screeps-world.json](./25903-screeps-world.json) |
 | Scribble | 262675 | [262675-scribble.json](./262675-scribble.json) |
 | Scribble | 290697 | [290697-scribble.json](./290697-scribble.json) |
 | Scribbleman Army | 217026 | [217026-scribbleman-army.json](./217026-scribbleman-army.json) |
@@ -510,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senjo no Valkyria Duel | 77367 | [77367-senjo-no-valkyria-duel.json](./77367-senjo-no-valkyria-duel.json) |
 | Senna Oaks Spaceship Trip | 202943 | [202943-senna-oaks-spaceship-trip.json](./202943-senna-oaks-spaceship-trip.json) |
 | Senran Kagura | 102788 | [102788-senran-kagura.json](./102788-senran-kagura.json) |
+| Senran Kagura Bon Appétit!: Full Course | 26008 | [26008-senran-kagura-bon-appetit-full-course.json](./26008-senran-kagura-bon-appetit-full-course.json) |
 | Senran Kagura Burst Re:Newal - Miyabi Character and Campaign | 248315 | [248315-senran-kagura-burst-re-newal-miyabi-character-and-campaign.json](./248315-senran-kagura-burst-re-newal-miyabi-character-and-campaign.json) |
 | Senran Kagura Burst Re:Newal - Yumi Character and Campaign | 248311 | [248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json](./248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json) |
 | Senran Kagura Reflexions | 28129 | [28129-senran-kagura-reflexions.json](./28129-senran-kagura-reflexions.json) |
@@ -1196,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaveblade | 121774 | [121774-slaveblade.json](./121774-slaveblade.json) |
 | Slavic Gods Rodnoverie | 298304 | [298304-slavic-gods-rodnoverie.json](./298304-slavic-gods-rodnoverie.json) |
 | Slay the Wak | 231097 | [231097-slay-the-wak.json](./231097-slay-the-wak.json) |
+| Slayer Shock | 24646 | [24646-slayer-shock.json](./24646-slayer-shock.json) |
 | Slaygon | 55148 | [55148-slaygon.json](./55148-slaygon.json) |
 | Slayin 2 | 134021 | [134021-slayin-2.json](./134021-slayin-2.json) |
 | Slayser | 238760 | [238760-slayser.json](./238760-slayser.json) |
@@ -1204,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep Paralysis: The Uncanny Valley | 196876 | [196876-sleep-paralysis-the-uncanny-valley.json](./196876-sleep-paralysis-the-uncanny-valley.json) |
 | Sleep Terror | 292309 | [292309-sleep-terror.json](./292309-sleep-terror.json) |
 | Sleeping Beauty X : The Legend of Tales | 175984 | [175984-sleeping-beauty-x-the-legend-of-tales.json](./175984-sleeping-beauty-x-the-legend-of-tales.json) |
+| Sleeping Valley | 24960 | [24960-sleeping-valley.json](./24960-sleeping-valley.json) |
 | Sleepless Cinderella: Party | 298884 | [298884-sleepless-cinderella-party.json](./298884-sleepless-cinderella-party.json) |
 | Sleepover | 113709 | [113709-sleepover.json](./113709-sleepover.json) |
 | SleepWalker | 117718 | [117718-sleepwalker.json](./117718-sleepwalker.json) |
@@ -1698,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sora no Iro, Mizu no Iro | 72718 | [72718-sora-no-iro-mizu-no-iro.json](./72718-sora-no-iro-mizu-no-iro.json) |
 | Sora o Aogite Kumo Takaku | 62733 | [62733-sora-o-aogite-kumo-takaku.json](./62733-sora-o-aogite-kumo-takaku.json) |
 | Sorcerer | 23856 | [23856-sorcerer.json](./23856-sorcerer.json) |
+| Sorcerer King: Rivals | 24922 | [24922-sorcerer-king-rivals.json](./24922-sorcerer-king-rivals.json) |
 | Sorcerer of Fortune | 175439 | [175439-sorcerer-of-fortune.json](./175439-sorcerer-of-fortune.json) |
 | Sorcerer's Choice: Angel or Demon? Steam Version | 246657 | [246657-sorcerers-choice-angel-or-demon-steam-version.json](./246657-sorcerers-choice-angel-or-demon-steam-version.json) |
 | Sorceress Elisha's Hypnotized & Lent-Out Log | 98452 | [98452-sorceress-elishas-hypnotized-and-lent-out-log.json](./98452-sorceress-elishas-hypnotized-and-lent-out-log.json) |
@@ -1788,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bunny Explorers | 208596 | [208596-space-bunny-explorers.json](./208596-space-bunny-explorers.json) |
 | Space Cake | 61114 | [61114-space-cake.json](./61114-space-cake.json) |
 | Space Canyon | 40771 | [40771-space-canyon.json](./40771-space-canyon.json) |
+| Space Channel 5: Ulala's Cosmic Attack | 23716 | [23716-space-channel-5-ulalas-cosmic-attack.json](./23716-space-channel-5-ulalas-cosmic-attack.json) |
 | Space City: Build Your Empire | 199662 | [199662-space-city-build-your-empire.json](./199662-space-city-build-your-empire.json) |
 | Space Cobra RetPixMod | 178647 | [178647-space-cobra-retpixmod.json](./178647-space-cobra-retpixmod.json) |
 | Space Command Battleship | 262071 | [262071-space-command-battleship.json](./262071-space-command-battleship.json) |
@@ -2994,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monster Bros by Adventure Time Pocket Free Games | 25017 | [25017-super-monster-bros-by-adventure-time-pocket-free-games.json](./25017-super-monster-bros-by-adventure-time-pocket-free-games.json) |
 | Super Monsters | 295015 | [295015-super-monsters.json](./295015-super-monsters.json) |
 | Super Mumtaz Bros. | 183613 | [183613-super-mumtaz-bros.json](./183613-super-mumtaz-bros.json) |
+| Super Mustache | 24616 | [24616-super-mustache.json](./24616-super-mustache.json) |
 | Super Nantucket World | 312875 | [312875-super-nantucket-world.json](./312875-super-nantucket-world.json) |
 | Super Naxat Open | 37809 | [37809-super-naxat-open.json](./37809-super-naxat-open.json) |
 | Super Nazo Puyo Tsuu: Rulue no Tetsuwan Hanjyouki | 37805 | [37805-super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjyouki.json](./37805-super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjyouki.json) |
