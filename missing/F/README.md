@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Redux | 219282 | [219282-final-fantasy-redux.json](./219282-final-fantasy-redux.json) |
 | Final Fantasy Tactics | 428 | [428-final-fantasy-tactics.json](./428-final-fantasy-tactics.json) |
 | Final Fantasy Tactics S | 63312 | [63312-final-fantasy-tactics-s.json](./63312-final-fantasy-tactics-s.json) |
+| Final Fantasy Tactics: The Ivalice Chronicles | 347121 | [347121-final-fantasy-tactics-the-ivalice-chronicles.json](./347121-final-fantasy-tactics-the-ivalice-chronicles.json) |
 | Final Fantasy Type-0 HD | 7399 | [7399-final-fantasy-type-0-hd.json](./7399-final-fantasy-type-0-hd.json) |
 | Final Fantasy VI: A Soldier's Contingency | 312346 | [312346-final-fantasy-vi-a-soldiers-contingency.json](./312346-final-fantasy-vi-a-soldiers-contingency.json) |
 | Final Fantasy XIV Online | 386 | [386-final-fantasy-xiv-online.json](./386-final-fantasy-xiv-online.json) |
@@ -600,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Sonic's Remastered | 333960 | [333960-five-nights-at-sonics-remastered.json](./333960-five-nights-at-sonics-remastered.json) |
 | Five-A-Side Soccer | 84235 | [84235-five-a-side-soccer.json](./84235-five-a-side-soccer.json) |
 | Five-O Deluxe | 104103 | [104103-five-o-deluxe.json](./104103-five-o-deluxe.json) |
+| FiveM | 146553 | [146553-fivem.json](./146553-fivem.json) |
 | Fivies | 220343 | [220343-fivies.json](./220343-fivies.json) |
 | Fix My Car: Garage Wars - Furious Street Mechanics! | 70406 | [70406-fix-my-car-garage-wars-furious-street-mechanics.json](./70406-fix-my-car-garage-wars-furious-street-mechanics.json) |
 | Fix My Hand Doc | 219789 | [219789-fix-my-hand-doc.json](./219789-fix-my-hand-doc.json) |
@@ -1024,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fringes of the Empire | 34426 | [34426-fringes-of-the-empire.json](./34426-fringes-of-the-empire.json) |
 | Frip and Froop's Logical Labyrinth | 56509 | [56509-frip-and-froops-logical-labyrinth.json](./56509-frip-and-froops-logical-labyrinth.json) |
 | Fritz: Your Chess Coach | 262648 | [262648-fritz-your-chess-coach.json](./262648-fritz-your-chess-coach.json) |
+| Frog Detective 3: Corruption at Cowboy County | 161552 | [161552-frog-detective-3-corruption-at-cowboy-county.json](./161552-frog-detective-3-corruption-at-cowboy-county.json) |
 | Frog Fall Down | 192430 | [192430-frog-fall-down.json](./192430-frog-fall-down.json) |
 | Frog Feast | 270407 | [270407-frog-feast.json](./270407-frog-feast.json) |
 | Frog Fractions | 18723 | [18723-frog-fractions.json](./18723-frog-fractions.json) |
