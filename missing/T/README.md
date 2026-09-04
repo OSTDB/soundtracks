@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Run | 254752 | [254752-taxi-run.json](./254752-taxi-run.json) |
 | Tayutama: Kiss on My Deity | 69311 | [69311-tayutama-kiss-on-my-deity.json](./69311-tayutama-kiss-on-my-deity.json) |
 | Taz | 100183 | [100183-taz.json](./100183-taz.json) |
+| Taz-Mania | 8066 | [8066-taz-mania.json](./8066-taz-mania.json) |
 | Tazmanian Devil: Munching Madness | 49967 | [49967-tazmanian-devil-munching-madness.json](./49967-tazmanian-devil-munching-madness.json) |
 | TBS Mini-Golf | 246098 | [246098-tbs-mini-golf.json](./246098-tbs-mini-golf.json) |
 | TC!Underfell | 306682 | [306682-tc-underfell.json](./306682-tc-underfell.json) |
@@ -447,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Battle Gaiden | 38371 | [38371-tetris-battle-gaiden.json](./38371-tetris-battle-gaiden.json) |
 | Tetris Block Puzzle | 309098 | [309098-tetris-block-puzzle.json](./309098-tetris-block-puzzle.json) |
 | Tetris Deluxe | 215383 | [215383-tetris-deluxe.json](./215383-tetris-deluxe.json) |
+| Tetris DS | 18599 | [18599-tetris-ds.json](./18599-tetris-ds.json) |
 | Tetris DS | 238199 | [238199-tetris-ds.json](./238199-tetris-ds.json) |
 | Tetris Mind Bender | 302679 | [302679-tetris-mind-bender.json](./302679-tetris-mind-bender.json) |
 | Tetris Pro | 95421 | [95421-tetris-pro.json](./95421-tetris-pro.json) |
@@ -1037,10 +1039,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Keep | 146340 | [146340-the-keep.json](./146340-the-keep.json) |
 | The Kindeman Remedy | 244499 | [244499-the-kindeman-remedy.json](./244499-the-kindeman-remedy.json) |
 | The King in the Shades | 259852 | [259852-the-king-in-the-shades.json](./259852-the-king-in-the-shades.json) |
+| The King of Dragons | 6814 | [6814-the-king-of-dragons.json](./6814-the-king-of-dragons.json) |
 | The King of Fighters '95 | 15427 | [15427-the-king-of-fighters-95.json](./15427-the-king-of-fighters-95.json) |
 | The King of Fighters '97 | 15428 | [15428-the-king-of-fighters-97.json](./15428-the-king-of-fighters-97.json) |
 | The King of Fighters '97 OL | 80566 | [80566-the-king-of-fighters-97-ol.json](./80566-the-king-of-fighters-97-ol.json) |
 | The King of Fighters 2000/2001 | 43348 | [43348-the-king-of-fighters-2000-2001.json](./43348-the-king-of-fighters-2000-2001.json) |
+| The King of Fighters 2001 | 15432 | [15432-the-king-of-fighters-2001.json](./15432-the-king-of-fighters-2001.json) |
 | The King of Fighters Arena | 225887 | [225887-the-king-of-fighters-arena.json](./225887-the-king-of-fighters-arena.json) |
 | The King of Fighters XIV | 18814 | [18814-the-king-of-fighters-xiv.json](./18814-the-king-of-fighters-xiv.json) |
 | The King of Fighters XIV: Classic Iori Costume | 322961 | [322961-the-king-of-fighters-xiv-classic-iori-costume.json](./322961-the-king-of-fighters-xiv-classic-iori-costume.json) |
@@ -1392,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Revenant Prince | 129761 | [129761-the-revenant-prince.json](./129761-the-revenant-prince.json) |
 | The Rhythm of Fighters: SNK Original Sound Collection | 80562 | [80562-the-rhythm-of-fighters-snk-original-sound-collection.json](./80562-the-rhythm-of-fighters-snk-original-sound-collection.json) |
 | The Right Turn | 183060 | [183060-the-right-turn.json](./183060-the-right-turn.json) |
+| The Rise of the Golden Idol | 279614 | [279614-the-rise-of-the-golden-idol.json](./279614-the-rise-of-the-golden-idol.json) |
 | The River Of Fire | 268730 | [268730-the-river-of-fire.json](./268730-the-river-of-fire.json) |
 | The Road Driver | 221387 | [221387-the-road-driver.json](./221387-the-road-driver.json) |
 | The Room | 11625 | [11625-the-room.json](./11625-the-room.json) |
@@ -1780,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third Wild | 208600 | [208600-third-wild.json](./208600-third-wild.json) |
 | Thirteen Souls | 129770 | [129770-thirteen-souls.json](./129770-thirteen-souls.json) |
 | Thirty Cycles | 200710 | [200710-thirty-cycles.json](./200710-thirty-cycles.json) |
+| Thirty Flights of Loving | 9013 | [9013-thirty-flights-of-loving.json](./9013-thirty-flights-of-loving.json) |
 | This Grand Life 2 | 253572 | [253572-this-grand-life-2.json](./253572-this-grand-life-2.json) |
 | This is a Refuge | 226419 | [226419-this-is-a-refuge.json](./226419-this-is-a-refuge.json) |
 | This is a Work of Fiction | 242780 | [242780-this-is-a-work-of-fiction.json](./242780-this-is-a-work-of-fiction.json) |
