@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeliVR Simulator | 249472 | [249472-helivr-simulator.json](./249472-helivr-simulator.json) |
 | Helix Ball | 104651 | [104651-helix-ball.json](./104651-helix-ball.json) |
 | Helix Jump 2 | 101536 | [101536-helix-jump-2.json](./101536-helix-jump-2.json) |
+| Helix: Descent N Ascent | 284906 | [284906-helix-descent-n-ascent.json](./284906-helix-descent-n-ascent.json) |
 | Hell Awaits | 229366 | [229366-hell-awaits.json](./229366-hell-awaits.json) |
 | Hell Clock | 324256 | [324256-hell-clock.json](./324256-hell-clock.json) |
 | Hell Corp | 154568 | [154568-hell-corp.json](./154568-hell-corp.json) |
@@ -1046,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown - Fear the Reaper | 224219 | [224219-hunt-showdown-fear-the-reaper.json](./224219-hunt-showdown-fear-the-reaper.json) |
 | Hunter A Hunter | 192461 | [192461-hunter-a-hunter.json](./192461-hunter-a-hunter.json) |
 | Hunter Beat | 296650 | [296650-hunter-beat.json](./296650-hunter-beat.json) |
+| Hunter x Hunter: Nen x Impact | 281740 | [281740-hunter-x-hunter-nen-x-impact.json](./281740-hunter-x-hunter-nen-x-impact.json) |
 | Hunter X: Begin | 171067 | [171067-hunter-x-begin.json](./171067-hunter-x-begin.json) |
 | Hunter: Avendzer Dragon | 145646 | [145646-hunter-avendzer-dragon.json](./145646-hunter-avendzer-dragon.json) |
 | Hunter's Soul | 122435 | [122435-hunters-soul.json](./122435-hunters-soul.json) |
