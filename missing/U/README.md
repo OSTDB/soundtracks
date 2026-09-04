@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Battle Royale PvP | 90675 | [90675-ultimate-battle-royale-pvp.json](./90675-ultimate-battle-royale-pvp.json) |
 | Ultimate Blackball | 243383 | [243383-ultimate-blackball.json](./243383-ultimate-blackball.json) |
 | Ultimate Bomb Squad | 142465 | [142465-ultimate-bomb-squad.json](./142465-ultimate-bomb-squad.json) |
+| Ultimate Chicken Horse | 18158 | [18158-ultimate-chicken-horse.json](./18158-ultimate-chicken-horse.json) |
 | Ultimate Chump | 259851 | [259851-ultimate-chump.json](./259851-ultimate-chump.json) |
 | Ultimate Drunken Warrior Master | 303225 | [303225-ultimate-drunken-warrior-master.json](./303225-ultimate-drunken-warrior-master.json) |
 | Ultimate Dungeons & Dragons | 73282 | [73282-ultimate-dungeons-and-dragons.json](./73282-ultimate-dungeons-and-dragons.json) |
