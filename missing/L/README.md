@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Build a Zoo: Ultimate Bundle | 262054 | [262054-lets-build-a-zoo-ultimate-bundle.json](./262054-lets-build-a-zoo-ultimate-bundle.json) |
 | Let's Cook | 98445 | [98445-lets-cook.json](./98445-lets-cook.json) |
 | Let's Cook Together | 133455 | [133455-lets-cook-together.json](./133455-lets-cook-together.json) |
+| Let's Draw | 29849 | [29849-lets-draw.json](./29849-lets-draw.json) |
 | Let's Get Rich | 112316 | [112316-lets-get-rich.json](./112316-lets-get-rich.json) |
 | Let's Go Jungle!: Lost on the Island of Spice | 69304 | [69304-lets-go-jungle-lost-on-the-island-of-spice.json](./69304-lets-go-jungle-lost-on-the-island-of-spice.json) |
 | Let's Go! My Harem Farm | 278149 | [278149-lets-go-my-harem-farm.json](./278149-lets-go-my-harem-farm.json) |
@@ -703,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Connection! | 242789 | [242789-love-connection.json](./242789-love-connection.json) |
 | Love Death | 259259 | [259259-love-death.json](./259259-love-death.json) |
 | Love Elysium: Secret of the Goddess - Extended Edition | 315872 | [315872-love-elysium-secret-of-the-goddess-extended-edition.json](./315872-love-elysium-secret-of-the-goddess-extended-edition.json) |
+| Love Engine | 29956 | [29956-love-engine.json](./29956-love-engine.json) |
 | Love Hentai: Sexy Body | 109714 | [109714-love-hentai-sexy-body.json](./109714-love-hentai-sexy-body.json) |
 | Love Hina Advance ~Shukufuku no Kane wa Naru kana~ | 49416 | [49416-love-hina-advance-shukufuku-no-kane-wa-naru-kana.json](./49416-love-hina-advance-shukufuku-no-kane-wa-naru-kana.json) |
 | Love Hues! | 134674 | [134674-love-hues.json](./134674-love-hues.json) |
