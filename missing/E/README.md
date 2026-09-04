@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engine Room | 47266 | [47266-engine-room.json](./47266-engine-room.json) |
 | Engine Sentai Go-Onger: Mach de Oboeru! Aiueo!! | 123618 | [123618-engine-sentai-go-onger-mach-de-oboeru-aiueo.json](./123618-engine-sentai-go-onger-mach-de-oboeru-aiueo.json) |
 | England Team Manager | 69289 | [69289-england-team-manager.json](./69289-england-team-manager.json) |
+| English Country Tune | 9699 | [9699-english-country-tune.json](./9699-english-country-tune.json) |
 | Enherjar Synergy | 159880 | [159880-enherjar-synergy.json](./159880-enherjar-synergy.json) |
 | Enigmarella | 190223 | [190223-enigmarella.json](./190223-enigmarella.json) |
 | Enigmatis: The Ghosts of Maple Creek | 17137 | [17137-enigmatis-the-ghosts-of-maple-creek.json](./17137-enigmatis-the-ghosts-of-maple-creek.json) |
@@ -341,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enpitsu de Oku no Hosomichi DS | 269830 | [269830-enpitsu-de-oku-no-hosomichi-ds.json](./269830-enpitsu-de-oku-no-hosomichi-ds.json) |
 | Enraged | 189159 | [189159-enraged.json](./189159-enraged.json) |
 | Enslaved Odyssey: To The West - Collector's Edition | 44658 | [44658-enslaved-odyssey-to-the-west-collectors-edition.json](./44658-enslaved-odyssey-to-the-west-collectors-edition.json) |
+| Enslaved: Odyssey to the West - Pigsy's Perfect 10 | 17468 | [17468-enslaved-odyssey-to-the-west-pigsys-perfect-10.json](./17468-enslaved-odyssey-to-the-west-pigsys-perfect-10.json) |
 | Ensou | 141212 | [141212-ensou.json](./141212-ensou.json) |
 | Entangled | 105321 | [105321-entangled.json](./105321-entangled.json) |
 | Enter the Backrooms | 157710 | [157710-enter-the-backrooms.json](./157710-enter-the-backrooms.json) |
@@ -624,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expansion | 120397 | [120397-expansion.json](./120397-expansion.json) |
 | Expediente Ñ | 322368 | [322368-expediente-n.json](./322368-expediente-n.json) |
 | Expedition Amazon | 23898 | [23898-expedition-amazon.json](./23898-expedition-amazon.json) |
+| Expeditions: Conquistador | 16523 | [16523-expeditions-conquistador.json](./16523-expeditions-conquistador.json) |
 | Expendable | 317640 | [317640-expendable.json](./317640-expendable.json) |
 | Experimental | 163972 | [163972-experimental.json](./163972-experimental.json) |
 | Experimental Game Pack 01 | 80612 | [80612-experimental-game-pack-01.json](./80612-experimental-game-pack-01.json) |
