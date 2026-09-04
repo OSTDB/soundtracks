@@ -344,8 +344,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party 7 Bon Voyage | 231602 | [231602-mario-party-7-bon-voyage.json](./231602-mario-party-7-bon-voyage.json) |
 | Mario Royale Deluxe | 262665 | [262665-mario-royale-deluxe.json](./262665-mario-royale-deluxe.json) |
 | Mario Sports Complex: Barrel Blast | 231644 | [231644-mario-sports-complex-barrel-blast.json](./231644-mario-sports-complex-barrel-blast.json) |
+| Mario Sports Mix | 3989 | [3989-mario-sports-mix.json](./3989-mario-sports-mix.json) |
 | Mario Superstar | 275325 | [275325-mario-superstar.json](./275325-mario-superstar.json) |
 | Mario Takes America | 175956 | [175956-mario-takes-america.json](./175956-mario-takes-america.json) |
+| Mario Tennis: Power Tour | 6504 | [6504-mario-tennis-power-tour.json](./6504-mario-tennis-power-tour.json) |
 | Mario Tennis: Power Tour - Bicep Pump | 231624 | [231624-mario-tennis-power-tour-bicep-pump.json](./231624-mario-tennis-power-tour-bicep-pump.json) |
 | Mario vs. Donkey Kong 2: March of the Minis - Cannon Kaos | 231640 | [231640-mario-vs-donkey-kong-2-march-of-the-minis-cannon-kaos.json](./231640-mario-vs-donkey-kong-2-march-of-the-minis-cannon-kaos.json) |
 | Mario vs. Donkey Kong Card e+ | 220855 | [220855-mario-vs-donkey-kong-card-e.json](./220855-mario-vs-donkey-kong-card-e.json) |
@@ -441,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of Puzzle: Echoes | 151209 | [151209-masters-of-puzzle-echoes.json](./151209-masters-of-puzzle-echoes.json) |
 | Masters of the Universe: The Movie | 30904 | [30904-masters-of-the-universe-the-movie.json](./30904-masters-of-the-universe-the-movie.json) |
 | Masters of the Universe: The Power of He-Man | 5683 | [5683-masters-of-the-universe-the-power-of-he-man.json](./5683-masters-of-the-universe-the-power-of-he-man.json) |
+| Mat Hoffman's Pro BMX | 3994 | [3994-mat-hoffmans-pro-bmx.json](./3994-mat-hoffmans-pro-bmx.json) |
 | Mata Yume no Naka de | 205239 | [205239-mata-yume-no-naka-de.json](./205239-mata-yume-no-naka-de.json) |
 | Mata, Itsuka. | 201309 | [201309-mata-itsuka.json](./201309-mata-itsuka.json) |
 | Match | 119019 | [119019-match.json](./119019-match.json) |
