@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SameGame HD | 64432 | [64432-samegame-hd.json](./64432-samegame-hd.json) |
 | Samidare | 126040 | [126040-samidare.json](./126040-samidare.json) |
 | Sammi's Quest vol.1: The Wandering Ogres | 104628 | [104628-sammis-quest-vol-1-the-wandering-ogres.json](./104628-sammis-quest-vol-1-the-wandering-ogres.json) |
+| Sammy Lightfoot | 23885 | [23885-sammy-lightfoot.json](./23885-sammy-lightfoot.json) |
 | Samosbor 2D | 120986 | [120986-samosbor-2d.json](./120986-samosbor-2d.json) |
 | Samozbor ID:Heaven | 129231 | [129231-samozbor-id-heaven.json](./129231-samozbor-id-heaven.json) |
 | Sampling | 107874 | [107874-sampling.json](./107874-sampling.json) |
@@ -200,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturn | 313467 | [313467-saturn.json](./313467-saturn.json) |
 | Saturnalia | 131564 | [131564-saturnalia.json](./131564-saturnalia.json) |
 | Sausage Legend: Arena | 303800 | [303800-sausage-legend-arena.json](./303800-sausage-legend-arena.json) |
+| Savage Bliss | 23919 | [23919-savage-bliss.json](./23919-savage-bliss.json) |
 | Savage Pond | 299436 | [299436-savage-pond.json](./299436-savage-pond.json) |
 | Savage Skies | 47314 | [47314-savage-skies.json](./47314-savage-skies.json) |
 | Savage Tower Defense | 158715 | [158715-savage-tower-defense.json](./158715-savage-tower-defense.json) |
@@ -340,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Battle Minimal | 192947 | [192947-sea-battle-minimal.json](./192947-sea-battle-minimal.json) |
 | Sea Bubble Burst | 205833 | [205833-sea-bubble-burst.json](./205833-sea-bubble-burst.json) |
 | Sea Dogs: To Each His Own - Hero of the Nation | 171618 | [171618-sea-dogs-to-each-his-own-hero-of-the-nation.json](./171618-sea-dogs-to-each-his-own-hero-of-the-nation.json) |
+| Sea Hawk | 23911 | [23911-sea-hawk.json](./23911-sea-hawk.json) |
 | Sea of Giants: Monument Island | 96046 | [96046-sea-of-giants-monument-island.json](./96046-sea-of-giants-monument-island.json) |
 | Sea of Lies: Burning Coast | 98434 | [98434-sea-of-lies-burning-coast.json](./98434-sea-of-lies-burning-coast.json) |
 | Sea of Lies: Burning Coast - Collector's Edition | 83554 | [83554-sea-of-lies-burning-coast-collectors-edition.json](./83554-sea-of-lies-burning-coast-collectors-edition.json) |
@@ -604,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shall we date?: Ninja Love | 225316 | [225316-shall-we-date-ninja-love.json](./225316-shall-we-date-ninja-love.json) |
 | Shalnor Legends 2: Trials of Thunder | 232702 | [232702-shalnor-legends-2-trials-of-thunder.json](./232702-shalnor-legends-2-trials-of-thunder.json) |
 | ShamaL | 201316 | [201316-shamal.json](./201316-shamal.json) |
+| Shamus: Case II | 23889 | [23889-shamus-case-ii.json](./23889-shamus-case-ii.json) |
 | Shanghai Double Pack | 128644 | [128644-shanghai-double-pack.json](./128644-shanghai-double-pack.json) |
 | Shanghai DS | 84855 | [84855-shanghai-ds.json](./84855-shanghai-ds.json) |
 | Shanghai Gold | 297216 | [297216-shanghai-gold.json](./297216-shanghai-gold.json) |
@@ -821,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siam Twinstick | 111714 | [111714-siam-twinstick.json](./111714-siam-twinstick.json) |
 | Sicier's Zweck | 117076 | [117076-siciers-zweck.json](./117076-siciers-zweck.json) |
 | Sick | 277612 | [277612-sick.json](./277612-sick.json) |
+| Sick Bricks | 23925 | [23925-sick-bricks.json](./23925-sick-bricks.json) |
 | Sid Meier's Civilization II: Conflicts in Civilization | 115032 | [115032-sid-meiers-civilization-ii-conflicts-in-civilization.json](./115032-sid-meiers-civilization-ii-conflicts-in-civilization.json) |
 | Sid Meier's Civilization Revolution | 264864 | [264864-sid-meiers-civilization-revolution.json](./264864-sid-meiers-civilization-revolution.json) |
 | Sid Meier's Civilization Revolution | 264865 | [264865-sid-meiers-civilization-revolution.json](./264865-sid-meiers-civilization-revolution.json) |
@@ -1307,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sofiya and the Ancient Clan | 209648 | [209648-sofiya-and-the-ancient-clan.json](./209648-sofiya-and-the-ancient-clan.json) |
 | Soft Drizzle | 177527 | [177527-soft-drizzle.json](./177527-soft-drizzle.json) |
 | Softball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 213633 | [213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
+| Softnauts the Game | 23908 | [23908-softnauts-the-game.json](./23908-softnauts-the-game.json) |
 | Software Tycoon: Der Spielemanager | 243953 | [243953-software-tycoon-der-spielemanager.json](./243953-software-tycoon-der-spielemanager.json) |
 | Sojourn Through the Decade | 314056 | [314056-sojourn-through-the-decade.json](./314056-sojourn-through-the-decade.json) |
 | Sokoban (Boxman) Classic | 171619 | [171619-sokoban-boxman-classic.json](./171619-sokoban-boxman-classic.json) |
@@ -1513,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophie's Safecracking Simulator | 152924 | [152924-sophies-safecracking-simulator.json](./152924-sophies-safecracking-simulator.json) |
 | Sora no Iro, Mizu no Iro | 72718 | [72718-sora-no-iro-mizu-no-iro.json](./72718-sora-no-iro-mizu-no-iro.json) |
 | Sora o Aogite Kumo Takaku | 62733 | [62733-sora-o-aogite-kumo-takaku.json](./62733-sora-o-aogite-kumo-takaku.json) |
+| Sorcerer | 23856 | [23856-sorcerer.json](./23856-sorcerer.json) |
 | Sorcerer of Fortune | 175439 | [175439-sorcerer-of-fortune.json](./175439-sorcerer-of-fortune.json) |
 | Sorcerer's Choice: Angel or Demon? Steam Version | 246657 | [246657-sorcerers-choice-angel-or-demon-steam-version.json](./246657-sorcerers-choice-angel-or-demon-steam-version.json) |
 | Sorceress Elisha's Hypnotized & Lent-Out Log | 98452 | [98452-sorceress-elishas-hypnotized-and-lent-out-log.json](./98452-sorceress-elishas-hypnotized-and-lent-out-log.json) |
@@ -1682,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceWrestler XL | 128610 | [128610-spacewrestler-xl.json](./128610-spacewrestler-xl.json) |
 | Spam Text | 214196 | [214196-spam-text.json](./214196-spam-text.json) |
 | Spanish for Everyone! | 25018 | [25018-spanish-for-everyone.json](./25018-spanish-for-everyone.json) |
+| Spare Change | 23869 | [23869-spare-change.json](./23869-spare-change.json) |
 | Spark | 212450 | [212450-spark.json](./212450-spark.json) |
 | Spark | 256525 | [256525-spark.json](./256525-spark.json) |
 | Spark Five | 111683 | [111683-spark-five.json](./111683-spark-five.json) |
@@ -1729,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedollama | 263766 | [263766-speedollama.json](./263766-speedollama.json) |
 | Speedrun Squid | 185133 | [185133-speedrun-squid.json](./185133-speedrun-squid.json) |
 | Speedrun the Game | 159309 | [159309-speedrun-the-game.json](./159309-speedrun-the-game.json) |
+| Speedway Blast | 23868 | [23868-speedway-blast.json](./23868-speedway-blast.json) |
 | Speedway Challenge 2022 | 203562 | [203562-speedway-challenge-2022.json](./203562-speedway-challenge-2022.json) |
 | Speedway/Tag | 92529 | [92529-speedway-tag.json](./92529-speedway-tag.json) |
 | Speedy Golf | 174340 | [174340-speedy-golf.json](./174340-speedy-golf.json) |
@@ -1898,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel Day | 278693 | [278693-squirrel-day.json](./278693-squirrel-day.json) |
 | Squirrel vs. Worms | 262075 | [262075-squirrel-vs-worms.json](./262075-squirrel-vs-worms.json) |
 | Squirreled Away | 314650 | [314650-squirreled-away.json](./314650-squirreled-away.json) |
+| Squish 'em | 23887 | [23887-squish-em.json](./23887-squish-em.json) |
 | Squish Run | 251204 | [251204-squish-run.json](./251204-squish-run.json) |
 | Sqwark! A Nutty Adventure | 169478 | [169478-sqwark-a-nutty-adventure.json](./169478-sqwark-a-nutty-adventure.json) |
 | SRB2 Heroes | 326954 | [326954-srb2-heroes.json](./326954-srb2-heroes.json) |
