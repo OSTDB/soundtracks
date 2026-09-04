@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardhat Wombat | 244511 | [244511-hardhat-wombat.json](./244511-hardhat-wombat.json) |
 | Hardlight | 138829 | [138829-hardlight.json](./138829-hardlight.json) |
 | Hardline | 94221 | [94221-hardline.json](./94221-hardline.json) |
+| Hardwar | 19566 | [19566-hardwar.json](./19566-hardwar.json) |
 | Hardway Party | 102197 | [102197-hardway-party.json](./102197-hardway-party.json) |
 | Hare | 83584 | [83584-hare.json](./83584-hare.json) |
 | Hare Nochi Oosawagi! | 257668 | [257668-hare-nochi-oosawagi.json](./257668-hare-nochi-oosawagi.json) |
