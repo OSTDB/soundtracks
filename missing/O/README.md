@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Masterbus Gen 3 Pack | 155138 | [155138-omsi-2-masterbus-gen-3-pack.json](./155138-omsi-2-masterbus-gen-3-pack.json) |
 | OMSI 2: Metropole Ruhr | 155121 | [155121-omsi-2-metropole-ruhr.json](./155121-omsi-2-metropole-ruhr.json) |
 | OMSI 2: Saint-Servan | 155137 | [155137-omsi-2-saint-servan.json](./155137-omsi-2-saint-servan.json) |
+| OMSI 2: Steam Edition | 22438 | [22438-omsi-2-steam-edition.json](./22438-omsi-2-steam-edition.json) |
 | OMSI 2: Steam Edition - AI-Articulated Bus for Vienna | 238753 | [238753-omsi-2-steam-edition-ai-articulated-bus-for-vienna.json](./238753-omsi-2-steam-edition-ai-articulated-bus-for-vienna.json) |
 | OMSI 2: Strassenbahn NF6D Essen/Gelsenkirchen | 155125 | [155125-omsi-2-strassenbahn-nf6d-essen-gelsenkirchen.json](./155125-omsi-2-strassenbahn-nf6d-essen-gelsenkirchen.json) |
 | OMSI 2: Three Generations | 155112 | [155112-omsi-2-three-generations.json](./155112-omsi-2-three-generations.json) |
