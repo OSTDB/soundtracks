@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palais de Reine | 130397 | [130397-palais-de-reine.json](./130397-palais-de-reine.json) |
 | Pale Carnations | 239316 | [239316-pale-carnations.json](./239316-pale-carnations.json) |
 | Palette Swap | 163993 | [163993-palette-swap.json](./163993-palette-swap.json) |
+| Palia | 151467 | [151467-palia.json](./151467-palia.json) |
 | Palikat | 251194 | [251194-palikat.json](./251194-palikat.json) |
 | Palladise Island: Legendary Space | 228089 | [228089-palladise-island-legendary-space.json](./228089-palladise-island-legendary-space.json) |
 | Pallas of Vines | 129762 | [129762-pallas-of-vines.json](./129762-pallas-of-vines.json) |
@@ -135,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario World 2 | 339668 | [339668-paper-mario-world-2.json](./339668-paper-mario-world-2.json) |
 | Paper Mario: Black Pit | 159343 | [159343-paper-mario-black-pit.json](./159343-paper-mario-black-pit.json) |
 | Paper Mario: Dark Star Edition | 266504 | [266504-paper-mario-dark-star-edition.json](./266504-paper-mario-dark-star-edition.json) |
+| Paper Mario: Sticker Star | 3350 | [3350-paper-mario-sticker-star.json](./3350-paper-mario-sticker-star.json) |
 | Paper Pilgrim | 140629 | [140629-paper-pilgrim.json](./140629-paper-pilgrim.json) |
 | Paper Shakespeare: Loves Labor(s) Lost | 102158 | [102158-paper-shakespeare-loves-labor-s-lost.json](./102158-paper-shakespeare-loves-labor-s-lost.json) |
 | Paper Wars: Cannon Fodder Devastated | 88328 | [88328-paper-wars-cannon-fodder-devastated.json](./88328-paper-wars-cannon-fodder-devastated.json) |
@@ -147,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PapiFlap | 87249 | [87249-papiflap.json](./87249-papiflap.json) |
 | PapiJump | 72701 | [72701-papijump.json](./72701-papijump.json) |
 | PapiMountain | 87234 | [87234-papimountain.json](./87234-papimountain.json) |
+| Papo & Yo | 7388 | [7388-papo-and-yo.json](./7388-papo-and-yo.json) |
 | Par 1 Golf 10 | 200181 | [200181-par-1-golf-10.json](./200181-par-1-golf-10.json) |
 | Para-sol | 309651 | [309651-para-sol.json](./309651-para-sol.json) |
 | Parachute Ninja | 232671 | [232671-parachute-ninja.json](./232671-parachute-ninja.json) |
@@ -243,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastel Friends | 338542 | [338542-pastel-friends.json](./338542-pastel-friends.json) |
 | Pastoral | 228688 | [228688-pastoral.json](./228688-pastoral.json) |
 | Pat Sajak's Trivia Gems | 98966 | [98966-pat-sajaks-trivia-gems.json](./98966-pat-sajaks-trivia-gems.json) |
+| Patapon | 7812 | [7812-patapon.json](./7812-patapon.json) |
 | Patapon 2: Art of War | 61093 | [61093-patapon-2-art-of-war.json](./61093-patapon-2-art-of-war.json) |
 | Patapon: Band Camp | 61092 | [61092-patapon-band-camp.json](./61092-patapon-band-camp.json) |
 | PatchCon! Defend the Library | 202948 | [202948-patchcon-defend-the-library.json](./202948-patchcon-defend-the-library.json) |
