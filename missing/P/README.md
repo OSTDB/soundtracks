@@ -36,8 +36,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacman Cube | 230500 | [230500-pacman-cube.json](./230500-pacman-cube.json) |
 | Paddle Battle | 172781 | [172781-paddle-battle.json](./172781-paddle-battle.json) |
 | Paimordle | 243974 | [243974-paimordle.json](./243974-paimordle.json) |
+| Pain | 7387 | [7387-pain.json](./7387-pain.json) |
 | Paincult | 177022 | [177022-paincult.json](./177022-paincult.json) |
 | PainFighting | 255984 | [255984-painfighting.json](./255984-painfighting.json) |
+| Painkiller: Redemption | 1838 | [1838-painkiller-redemption.json](./1838-painkiller-redemption.json) |
 | Paint By Numbers: 8-Bit World Ep. 10 | 305506 | [305506-paint-by-numbers-8-bit-world-ep-10.json](./305506-paint-by-numbers-8-bit-world-ep-10.json) |
 | Paint By Numbers: 8-Bit World Ep. 11 | 305503 | [305503-paint-by-numbers-8-bit-world-ep-11.json](./305503-paint-by-numbers-8-bit-world-ep-11.json) |
 | Paint By Numbers: 8-Bit World Ep. 12 | 305507 | [305507-paint-by-numbers-8-bit-world-ep-12.json](./305507-paint-by-numbers-8-bit-world-ep-12.json) |
@@ -763,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Nine | 113694 | [113694-planet-nine.json](./113694-planet-nine.json) |
 | Planet of Carrots | 311254 | [311254-planet-of-carrots.json](./311254-planet-of-carrots.json) |
 | Planet of Lana | 152071 | [152071-planet-of-lana.json](./152071-planet-of-lana.json) |
+| Planet of Lana II: Children of the Leaf | 348200 | [348200-planet-of-lana-ii-children-of-the-leaf.json](./348200-planet-of-lana-ii-children-of-the-leaf.json) |
 | Planet Omnia | 197912 | [197912-planet-omnia.json](./197912-planet-omnia.json) |
 | Planet Quiz: Learn & Discover | 187494 | [187494-planet-quiz-learn-and-discover.json](./187494-planet-quiz-learn-and-discover.json) |
 | Planet Soccer | 57688 | [57688-planet-soccer.json](./57688-planet-soccer.json) |
@@ -784,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plantan | 110330 | [110330-plantan.json](./110330-plantan.json) |
 | Planth Care | 181356 | [181356-planth-care.json](./181356-planth-care.json) |
 | Plants vs. Zombies 2: Into the Storm | 272546 | [272546-plants-vs-zombies-2-into-the-storm.json](./272546-plants-vs-zombies-2-into-the-storm.json) |
+| Plants vs. Zombies: Replanted | 358529 | [358529-plants-vs-zombies-replanted.json](./358529-plants-vs-zombies-replanted.json) |
 | Plaqueman | 229928 | [229928-plaqueman.json](./229928-plaqueman.json) |
 | Plasmaworm | 93052 | [93052-plasmaworm.json](./93052-plasmaworm.json) |
 | Plastic Invasion: A Super Magical Mermaid Adventure | 302128 | [302128-plastic-invasion-a-super-magical-mermaid-adventure.json](./302128-plastic-invasion-a-super-magical-mermaid-adventure.json) |
