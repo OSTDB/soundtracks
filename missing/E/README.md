@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge Run | 197935 | [197935-edge-run.json](./197935-edge-run.json) |
 | Edgy Fantasy Battle Deluxe | 184632 | [184632-edgy-fantasy-battle-deluxe.json](./184632-edgy-fantasy-battle-deluxe.json) |
 | Edmund Puzzle and The Mystery of the Sacred Relics | 269268 | [269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json](./269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json) |
+| Edna & Harvey: Harvey's New Eyes | 6701 | [6701-edna-and-harvey-harveys-new-eyes.json](./6701-edna-and-harvey-harveys-new-eyes.json) |
 | Edtris 2600 | 78031 | [78031-edtris-2600.json](./78031-edtris-2600.json) |
 | Education Series: General Knowledge Builder | 80603 | [80603-education-series-general-knowledge-builder.json](./80603-education-series-general-knowledge-builder.json) |
 | Edward's Manor | 319349 | [319349-edwards-manor.json](./319349-edwards-manor.json) |
@@ -511,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergreen: Cacti Expansion | 298326 | [298326-evergreen-cacti-expansion.json](./298326-evergreen-cacti-expansion.json) |
 | Evergreen: Pines Expansion | 298325 | [298325-evergreen-pines-expansion.json](./298325-evergreen-pines-expansion.json) |
 | Evergrow: Shards of Tomorrow | 337998 | [337998-evergrow-shards-of-tomorrow.json](./337998-evergrow-shards-of-tomorrow.json) |
+| Everhood | 132083 | [132083-everhood.json](./132083-everhood.json) |
 | Everlasting Tower | 335661 | [335661-everlasting-tower.json](./335661-everlasting-tower.json) |
 | Everlasting: Per Aspera Ad Terra | 112313 | [112313-everlasting-per-aspera-ad-terra.json](./112313-everlasting-per-aspera-ad-terra.json) |
 | Everlong Swansong | 257086 | [257086-everlong-swansong.json](./257086-everlong-swansong.json) |
