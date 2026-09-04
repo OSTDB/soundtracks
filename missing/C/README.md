@@ -1128,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Content Caution: The Horror Filmmaker | 335090 | [335090-content-caution-the-horror-filmmaker.json](./335090-content-caution-the-horror-filmmaker.json) |
 | Contingent️ | 275352 | [275352-contingent.json](./275352-contingent.json) |
 | Continuum 01 | 265417 | [265417-continuum-01.json](./265417-continuum-01.json) |
+| Contra Force | 24978 | [24978-contra-force.json](./24978-contra-force.json) |
 | Contract Marriage | 303264 | [303264-contract-marriage.json](./303264-contract-marriage.json) |
 | Contractor | 235980 | [235980-contractor.json](./235980-contractor.json) |
 | Contractors | 123603 | [123603-contractors.json](./123603-contractors.json) |
@@ -1297,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrabMania | 267665 | [267665-crabmania.json](./267665-crabmania.json) |
 | Crack a Bottle | 87220 | [87220-crack-a-bottle.json](./87220-crack-a-bottle.json) |
 | Crack it! | 278708 | [278708-crack-it.json](./278708-crack-it.json) |
+| Crackdown 2 | 2897 | [2897-crackdown-2.json](./2897-crackdown-2.json) |
 | Cracked | 265432 | [265432-cracked.json](./265432-cracked.json) |
 | Cracking the Cryptic | 211958 | [211958-cracking-the-cryptic.json](./211958-cracking-the-cryptic.json) |
 | Cradle of Egypt / Cradle of Persia | 201861 | [201861-cradle-of-egypt-cradle-of-persia.json](./201861-cradle-of-egypt-cradle-of-persia.json) |
