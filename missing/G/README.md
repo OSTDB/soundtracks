@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gossipia | 59991 | [59991-gossipia.json](./59991-gossipia.json) |
 | GOTC: Siege on the Lightorder Citadel | 164515 | [164515-gotc-siege-on-the-lightorder-citadel.json](./164515-gotc-siege-on-the-lightorder-citadel.json) |
 | Gotcha | 250633 | [250633-gotcha.json](./250633-gotcha.json) |
+| Gotcha! The Sport! | 5848 | [5848-gotcha-the-sport.json](./5848-gotcha-the-sport.json) |
 | Gotham Gangsta | 29930 | [29930-gotham-gangsta.json](./29930-gotham-gangsta.json) |
 | Gothams Industrial District | 273116 | [273116-gothams-industrial-district.json](./273116-gothams-industrial-district.json) |
 | Gothic 1 Remake: Nyras Prologue | 333955 | [333955-gothic-1-remake-nyras-prologue.json](./333955-gothic-1-remake-nyras-prologue.json) |
@@ -720,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Cat | 143705 | [143705-gravity-cat.json](./143705-gravity-cat.json) |
 | Gravity Den | 33177 | [33177-gravity-den.json](./33177-gravity-den.json) |
 | Gravity Flip | 190204 | [190204-gravity-flip.json](./190204-gravity-flip.json) |
+| Gravity Games Bike: Street Vert Dirt | 5851 | [5851-gravity-games-bike-street-vert-dirt.json](./5851-gravity-games-bike-street-vert-dirt.json) |
 | Gravity Kid | 171601 | [171601-gravity-kid.json](./171601-gravity-kid.json) |
 | Gravity Machine | 294441 | [294441-gravity-machine.json](./294441-gravity-machine.json) |
 | Gravity run | 153432 | [153432-gravity-run.json](./153432-gravity-run.json) |
