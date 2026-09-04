@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underwater Affect | 113000 | [113000-underwater-affect.json](./113000-underwater-affect.json) |
 | Underworld Football Manager | 233739 | [233739-underworld-football-manager.json](./233739-underworld-football-manager.json) |
 | Underworld Re: Card | 213050 | [213050-underworld-re-card.json](./213050-underworld-re-card.json) |
+| Undisputed | 146957 | [146957-undisputed.json](./146957-undisputed.json) |
 | Undoing Evil | 195271 | [195271-undoing-evil.json](./195271-undoing-evil.json) |
 | Unearth | 255974 | [255974-unearth.json](./255974-unearth.json) |
 | Unearthed VR | 293379 | [293379-unearthed-vr.json](./293379-unearthed-vr.json) |
