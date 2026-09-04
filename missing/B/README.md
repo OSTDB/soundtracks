@@ -738,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BigFool | 307942 | [307942-bigfool.json](./307942-bigfool.json) |
 | Biggest Impossible Ramp Ever | 100895 | [100895-biggest-impossible-ramp-ever.json](./100895-biggest-impossible-ramp-ever.json) |
 | Bigroom Escape | 151727 | [151727-bigroom-escape.json](./151727-bigroom-escape.json) |
+| Bike Baron | 65290 | [65290-bike-baron.json](./65290-bike-baron.json) |
 | Bike Game 3D | 254747 | [254747-bike-game-3d.json](./254747-bike-game-3d.json) |
 | Bike Rush | 227508 | [227508-bike-rush.json](./227508-bike-rush.json) |
 | Bike Stunt Master | 105960 | [105960-bike-stunt-master.json](./105960-bike-stunt-master.json) |
@@ -793,6 +794,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biphase | 148549 | [148549-biphase.json](./148549-biphase.json) |
 | Bird Alone | 135897 | [135897-bird-alone.json](./135897-bird-alone.json) |
 | Bird Fall | 37150 | [37150-bird-fall.json](./37150-bird-fall.json) |
+| Bird Mania 3D | 65254 | [65254-bird-mania-3d.json](./65254-bird-mania-3d.json) |
+| Bird Mania 3D Christmas | 62258 | [62258-bird-mania-3d-christmas.json](./62258-bird-mania-3d-christmas.json) |
 | Bird Shooter | 229974 | [229974-bird-shooter.json](./229974-bird-shooter.json) |
 | Bird Strike for Android | 137098 | [137098-bird-strike-for-android.json](./137098-bird-strike-for-android.json) |
 | Birdcage (Oda al Pájaro) | 325262 | [325262-birdcage-oda-al-pajaro.json](./325262-birdcage-oda-al-pajaro.json) |
@@ -812,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bistro Days | 139481 | [139481-bistro-days.json](./139481-bistro-days.json) |
 | Bistro Recipe | 66674 | [66674-bistro-recipe.json](./66674-bistro-recipe.json) |
 | Bit Addiction | 277573 | [277573-bit-addiction.json](./277573-bit-addiction.json) |
+| Bit Boy!! Arcade | 62852 | [62852-bit-boy-arcade.json](./62852-bit-boy-arcade.json) |
 | Bit Generations: Dialhex | 251173 | [251173-bit-generations-dialhex.json](./251173-bit-generations-dialhex.json) |
 | Bit Orchard: Animal Valley - Ultimate Edition | 208618 | [208618-bit-orchard-animal-valley-ultimate-edition.json](./208618-bit-orchard-animal-valley-ultimate-edition.json) |
 | Bit Orchard: Animal Valley - Ultra Ultimate | 271500 | [271500-bit-orchard-animal-valley-ultra-ultimate.json](./271500-bit-orchard-animal-valley-ultra-ultimate.json) |
@@ -973,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blippo+ | 325283 | [325283-blippo.json](./325283-blippo.json) |
 | Blithe | 177528 | [177528-blithe.json](./177528-blithe.json) |
 | Blitz Breaker | 17457 | [17457-blitz-breaker.json](./17457-blitz-breaker.json) |
+| Blitz Brigade | 63292 | [63292-blitz-brigade.json](./63292-blitz-brigade.json) |
 | Blitz Guard | 267100 | [267100-blitz-guard.json](./267100-blitz-guard.json) |
 | Blitz: The League | 264860 | [264860-blitz-the-league.json](./264860-blitz-the-league.json) |
 | Blitzkrieg 3: Deluxe Edition | 52653 | [52653-blitzkrieg-3-deluxe-edition.json](./52653-blitzkrieg-3-deluxe-edition.json) |
@@ -1193,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
 | Bomber-Mario | 248288 | [248288-bomber-mario.json](./248288-bomber-mario.json) |
 | Bomberman '93 Special | 42056 | [42056-bomberman-93-special.json](./42056-bomberman-93-special.json) |
+| Bomberman Blitz | 67318 | [67318-bomberman-blitz.json](./67318-bomberman-blitz.json) |
 | Bomberman GB | 135909 | [135909-bomberman-gb.json](./135909-bomberman-gb.json) |
 | Bomberman Generation | 3832 | [3832-bomberman-generation.json](./3832-bomberman-generation.json) |
 | Bomberman Land 3 | 64947 | [64947-bomberman-land-3.json](./64947-bomberman-land-3.json) |
@@ -1236,6 +1242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookbound Brigade | 121218 | [121218-bookbound-brigade.json](./121218-bookbound-brigade.json) |
 | Bookers: Underground Chapter | 104085 | [104085-bookers-underground-chapter.json](./104085-bookers-underground-chapter.json) |
 | Bookey Manor | 333915 | [333915-bookey-manor.json](./333915-bookey-manor.json) |
+| Bookstore Dream | 62950 | [62950-bookstore-dream.json](./62950-bookstore-dream.json) |
 | Boolean | 129217 | [129217-boolean.json](./129217-boolean.json) |
 | Boom Blaster | 100891 | [100891-boom-blaster.json](./100891-boom-blaster.json) |
 | Boom Faster | 157198 | [157198-boom-faster.json](./157198-boom-faster.json) |
