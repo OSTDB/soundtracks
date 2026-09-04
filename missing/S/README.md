@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S-Copter | 76653 | [76653-s-copter.json](./76653-s-copter.json) |
 | S. Cargo | 275916 | [275916-s-cargo.json](./275916-s-cargo.json) |
 | S.C.A.R | 169437 | [169437-s-c-a-r.json](./169437-s-c-a-r.json) |
+| S.C.I.: Special Criminal Investigation | 11999 | [11999-s-c-i-special-criminal-investigation.json](./11999-s-c-i-special-criminal-investigation.json) |
 | S.E.A. | 161383 | [161383-s-e-a.json](./161383-s-e-a.json) |
 | S.M.A.R.T. Adventures: Mission Math - Sabotage at the Space Station | 86092 | [86092-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json](./86092-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json) |
 | S.N.I.P.E.R.: Hunter Scope - Grand Edition | 315856 | [315856-s-n-i-p-e-r-hunter-scope-grand-edition.json](./315856-s-n-i-p-e-r-hunter-scope-grand-edition.json) |
@@ -529,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serial Experiments Lain Bootleg | 245007 | [245007-serial-experiments-lain-bootleg.json](./245007-serial-experiments-lain-bootleg.json) |
 | Series Makers Tycoon | 173806 | [173806-series-makers-tycoon.json](./173806-series-makers-tycoon.json) |
 | Serious Breakdown | 191223 | [191223-serious-breakdown.json](./191223-serious-breakdown.json) |
+| Serious Sam 3: Jewel of the Nile | 10817 | [10817-serious-sam-3-jewel-of-the-nile.json](./10817-serious-sam-3-jewel-of-the-nile.json) |
 | Serious Sam 4: Deluxe Edition | 154536 | [154536-serious-sam-4-deluxe-edition.json](./154536-serious-sam-4-deluxe-edition.json) |
 | Serious Sam Fusion 2017 | 91191 | [91191-serious-sam-fusion-2017.json](./91191-serious-sam-fusion-2017.json) |
 | Serious Sam II | 787 | [787-serious-sam-ii.json](./787-serious-sam-ii.json) |
@@ -943,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Scope 3 | 44630 | [44630-silent-scope-3.json](./44630-silent-scope-3.json) |
 | Silent Seeker | 209159 | [209159-silent-seeker.json](./209159-silent-seeker.json) |
 | Silent Steel | 73827 | [73827-silent-steel.json](./73827-silent-steel.json) |
+| Silent Storm: Sentinels | 10845 | [10845-silent-storm-sentinels.json](./10845-silent-storm-sentinels.json) |
 | Silent Threat | 311259 | [311259-silent-threat.json](./311259-silent-threat.json) |
 | Silentium 2D | 106578 | [106578-silentium-2d.json](./106578-silentium-2d.json) |
 | Silhouette Mirage | 1356 | [1356-silhouette-mirage.json](./1356-silhouette-mirage.json) |
@@ -2182,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Clone Wars | 3760 | [3760-star-wars-the-clone-wars.json](./3760-star-wars-the-clone-wars.json) |
 | Star Wars: The Force Unleashed | 197926 | [197926-star-wars-the-force-unleashed.json](./197926-star-wars-the-force-unleashed.json) |
 | Star Wars: The Old Republic | 114 | [114-star-wars-the-old-republic.json](./114-star-wars-the-old-republic.json) |
+| Star Wars: The Old Republic - Knights of the Fallen Empire | 11178 | [11178-star-wars-the-old-republic-knights-of-the-fallen-empire.json](./11178-star-wars-the-old-republic-knights-of-the-fallen-empire.json) |
 | Star Wars: TIE Fighter - Defender of the Empire | 167 | [167-star-wars-tie-fighter-defender-of-the-empire.json](./167-star-wars-tie-fighter-defender-of-the-empire.json) |
 | Star Wars: X-Wing Tour of Duty - B-Wing | 171 | [171-star-wars-x-wing-tour-of-duty-b-wing.json](./171-star-wars-x-wing-tour-of-duty-b-wing.json) |
 | Star Witch | 190224 | [190224-star-witch.json](./190224-star-witch.json) |
@@ -2296,6 +2300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steamy Sextet | 127997 | [127997-steamy-sextet.json](./127997-steamy-sextet.json) |
 | STED: Iseki Wakusei no Yabou | 48703 | [48703-sted-iseki-wakusei-no-yabou.json](./48703-sted-iseki-wakusei-no-yabou.json) |
 | Steel | 329915 | [329915-steel.json](./329915-steel.json) |
+| Steel Battalion: Heavy Armor | 8547 | [8547-steel-battalion-heavy-armor.json](./8547-steel-battalion-heavy-armor.json) |
 | Steel Covenant | 339665 | [339665-steel-covenant.json](./339665-steel-covenant.json) |
 | Steel Division 2: Nemesis - Battle of Rimini | 143080 | [143080-steel-division-2-nemesis-battle-of-rimini.json](./143080-steel-division-2-nemesis-battle-of-rimini.json) |
 | Steel Dragon Ex | 43341 | [43341-steel-dragon-ex.json](./43341-steel-dragon-ex.json) |
@@ -2670,6 +2675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bunnies Show Free | 232182 | [232182-super-bunnies-show-free.json](./232182-super-bunnies-show-free.json) |
 | Super Calm Bros. 3 | 214718 | [214718-super-calm-bros-3.json](./214718-super-calm-bros-3.json) |
 | Super Capsule Boy | 334508 | [334508-super-capsule-boy.json](./334508-super-capsule-boy.json) |
+| Super Cars II | 12227 | [12227-super-cars-ii.json](./12227-super-cars-ii.json) |
 | Super Castlevania IV | 1124 | [1124-super-castlevania-iv.json](./1124-super-castlevania-iv.json) |
 | Super Cats | 111058 | [111058-super-cats.json](./111058-super-cats.json) |
 | Super Cauldron | 39028 | [39028-super-cauldron.json](./39028-super-cauldron.json) |
