@@ -159,6 +159,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verminator | 55202 | [55202-verminator.json](./55202-verminator.json) |
 | Verne World | 37772 | [37772-verne-world.json](./37772-verne-world.json) |
 | Versailles II | 53873 | [53873-versailles-ii.json](./53873-versailles-ii.json) |
+| Versailles Mysteries 2: The Royal Spy | 11033 | [11033-versailles-mysteries-2-the-royal-spy.json](./11033-versailles-mysteries-2-the-royal-spy.json) |
+| Versailles Mysteries: Oscar and the Athanor | 11034 | [11034-versailles-mysteries-oscar-and-the-athanor.json](./11034-versailles-mysteries-oscar-and-the-athanor.json) |
 | Verse Hopper | 312910 | [312910-verse-hopper.json](./312910-verse-hopper.json) |
 | Vertiball | 86123 | [86123-vertiball.json](./86123-vertiball.json) |
 | Vertical Dash | 59438 | [59438-vertical-dash.json](./59438-vertical-dash.json) |
@@ -185,6 +187,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vic Panic | 130371 | [130371-vic-panic.json](./130371-vic-panic.json) |
 | Vicky Saves the Big Dumb World | 34415 | [34415-vicky-saves-the-big-dumb-world.json](./34415-vicky-saves-the-big-dumb-world.json) |
 | Victoria 3: Voice of the People | 247786 | [247786-victoria-3-voice-of-the-people.json](./247786-victoria-3-voice-of-the-people.json) |
+| Victoria II: A House Divided | 11038 | [11038-victoria-ii-a-house-divided.json](./11038-victoria-ii-a-house-divided.json) |
+| Victoria II: Heart of Darkness | 11039 | [11039-victoria-ii-heart-of-darkness.json](./11039-victoria-ii-heart-of-darkness.json) |
 | Victorious Nine II | 72116 | [72116-victorious-nine-ii.json](./72116-victorious-nine-ii.json) |
 | Victory | 95445 | [95445-victory.json](./95445-victory.json) |
 | Victory Heat Rally | 142489 | [142489-victory-heat-rally.json](./142489-victory-heat-rally.json) |
