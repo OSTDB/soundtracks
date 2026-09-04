@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidnappers | 301610 | [301610-kidnappers.json](./301610-kidnappers.json) |
 | Kido Keisatstsu Patlabor: Griffon-hen | 75897 | [75897-kido-keisatstsu-patlabor-griffon-hen.json](./75897-kido-keisatstsu-patlabor-griffon-hen.json) |
 | Kidou Senshi Gundam: Fushigi no Dungeon | 311283 | [311283-kidou-senshi-gundam-fushigi-no-dungeon.json](./311283-kidou-senshi-gundam-fushigi-no-dungeon.json) |
+| Kids ABC and Counting Jigsaw Puzzles Pre school | 87151 | [87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json](./87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json) |
 | Kids Cars | 213647 | [213647-kids-cars.json](./213647-kids-cars.json) |
 | Kids Dinosaur Rex Jigsaw Puzzles | 96749 | [96749-kids-dinosaur-rex-jigsaw-puzzles.json](./96749-kids-dinosaur-rex-jigsaw-puzzles.json) |
 | Kids Dreamland Adventures | 101552 | [101552-kids-dreamland-adventures.json](./101552-kids-dreamland-adventures.json) |
@@ -294,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of the Mountain: Premium | 174324 | [174324-king-of-the-mountain-premium.json](./174324-king-of-the-mountain-premium.json) |
 | King of Unblock | 101524 | [101524-king-of-unblock.json](./101524-king-of-unblock.json) |
 | King of Wildlings | 27810 | [27810-king-of-wildlings.json](./27810-king-of-wildlings.json) |
+| King Tongue | 87873 | [87873-king-tongue.json](./87873-king-tongue.json) |
 | King Valley | 121729 | [121729-king-valley.json](./121729-king-valley.json) |
 | King's Bounty II: Day One Edition | 146330 | [146330-kings-bounty-ii-day-one-edition.json](./146330-kings-bounty-ii-day-one-edition.json) |
 | King's Bounty II: Lord's Edition | 155100 | [155100-kings-bounty-ii-lords-edition.json](./155100-kings-bounty-ii-lords-edition.json) |
