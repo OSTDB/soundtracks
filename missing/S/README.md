@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Fighter | 108475 | [108475-samurai-fighter.json](./108475-samurai-fighter.json) |
 | Samurai Forge | 51972 | [51972-samurai-forge.json](./51972-samurai-forge.json) |
 | Samurai Gunn | 16538 | [16538-samurai-gunn.json](./16538-samurai-gunn.json) |
+| Samurai Maiden | 212269 | [212269-samurai-maiden.json](./212269-samurai-maiden.json) |
 | Samurai Saga | 55910 | [55910-samurai-saga.json](./55910-samurai-saga.json) |
 | Samurai Shodown: Baiken | 167836 | [167836-samurai-shodown-baiken.json](./167836-samurai-shodown-baiken.json) |
 | Samurai Solitaire: Return of the Ronin | 204103 | [204103-samurai-solitaire-return-of-the-ronin.json](./204103-samurai-solitaire-return-of-the-ronin.json) |
@@ -792,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinya Ichizoku: The Battle for Hokkaido's Delicious Foods | 186908 | [186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json](./186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json) |
 | Ship Adventure | 179185 | [179185-ship-adventure.json](./179185-ship-adventure.json) |
 | Ship Graveyard Simulator: Submarines | 197405 | [197405-ship-graveyard-simulator-submarines.json](./197405-ship-graveyard-simulator-submarines.json) |
+| Ship of Harkinian | 194694 | [194694-ship-of-harkinian.json](./194694-ship-of-harkinian.json) |
 | Ship of the Line | 73845 | [73845-ship-of-the-line.json](./73845-ship-of-the-line.json) |
 | Ship Simulator | 327584 | [327584-ship-simulator.json](./327584-ship-simulator.json) |
 | Ships 3D | 321755 | [321755-ships-3d.json](./321755-ships-3d.json) |
@@ -1458,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solaright | 28934 | [28934-solaright.json](./28934-solaright.json) |
 | Solaris: Off World Combat | 146332 | [146332-solaris-off-world-combat.json](./146332-solaris-off-world-combat.json) |
 | Solarland | 212459 | [212459-solarland.json](./212459-solarland.json) |
+| Solarpunk | 194950 | [194950-solarpunk.json](./194950-solarpunk.json) |
 | Solasta: Crown of the Magister - Primal Calling | 186870 | [186870-solasta-crown-of-the-magister-primal-calling.json](./186870-solasta-crown-of-the-magister-primal-calling.json) |
 | Solasta: Lightbringers Edition | 251208 | [251208-solasta-lightbringers-edition.json](./251208-solasta-lightbringers-edition.json) |
 | Solcialists | 272581 | [272581-solcialists.json](./272581-solcialists.json) |
@@ -1958,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Shift | 181365 | [181365-spirit-shift.json](./181365-spirit-shift.json) |
 | Spirit Timer | 223666 | [223666-spirit-timer.json](./223666-spirit-timer.json) |
 | Spirited Soul | 61124 | [61124-spirited-soul.json](./61124-spirited-soul.json) |
+| Spiritfall | 188946 | [188946-spiritfall.json](./188946-spiritfall.json) |
 | Spiritle | 151731 | [151731-spiritle.json](./151731-spiritle.json) |
 | Spirits of Mystery: Chains of Promise - Collector's Edition | 110346 | [110346-spirits-of-mystery-chains-of-promise-collectors-edition.json](./110346-spirits-of-mystery-chains-of-promise-collectors-edition.json) |
 | Spirits of Mystery: Family Lies | 102790 | [102790-spirits-of-mystery-family-lies.json](./102790-spirits-of-mystery-family-lies.json) |
@@ -2476,6 +2480,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streetdance 3D | 9466 | [9466-streetdance-3d.json](./9466-streetdance-3d.json) |
 | Streets of Gotham City | 272015 | [272015-streets-of-gotham-city.json](./272015-streets-of-gotham-city.json) |
 | Streets of Kamurocho | 140046 | [140046-streets-of-kamurocho.json](./140046-streets-of-kamurocho.json) |
+| Streets of Rage | 198650 | [198650-streets-of-rage.json](./198650-streets-of-rage.json) |
+| Streets of Rage 2 | 203318 | [203318-streets-of-rage-2.json](./203318-streets-of-rage-2.json) |
 | Streets of Red: Devil's Dare | 126045 | [126045-streets-of-red-devils-dare.json](./126045-streets-of-red-devils-dare.json) |
 | Streets of Rogue | 23275 | [23275-streets-of-rogue.json](./23275-streets-of-rogue.json) |
 | Stress Test | 200168 | [200168-stress-test.json](./200168-stress-test.json) |
@@ -3158,6 +3164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Integral Factor | 68441 | [68441-sword-art-online-integral-factor.json](./68441-sword-art-online-integral-factor.json) |
 | Sword Art Online: Last Recollection - Digital Premium Edition | 271473 | [271473-sword-art-online-last-recollection-digital-premium-edition.json](./271473-sword-art-online-last-recollection-digital-premium-edition.json) |
 | Sword Coast Legends: Digital Deluxe Edition | 54422 | [54422-sword-coast-legends-digital-deluxe-edition.json](./54422-sword-coast-legends-digital-deluxe-edition.json) |
+| Sword of Convallaria: For This World of Peace | 212438 | [212438-sword-of-convallaria-for-this-world-of-peace.json](./212438-sword-of-convallaria-for-this-world-of-peace.json) |
 | Sword of Fireheart - The Awakening Element | 31989 | [31989-sword-of-fireheart-the-awakening-element.json](./31989-sword-of-fireheart-the-awakening-element.json) |
 | Sword of Mana | 6630 | [6630-sword-of-mana.json](./6630-sword-of-mana.json) |
 | Sword of the Necromancer: Ultra Collector's Edition | 148543 | [148543-sword-of-the-necromancer-ultra-collectors-edition.json](./148543-sword-of-the-necromancer-ultra-collectors-edition.json) |
