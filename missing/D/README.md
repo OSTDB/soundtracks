@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Skies 2: Keepers of Nemansk | 296689 | [296689-dark-skies-2-keepers-of-nemansk.json](./296689-dark-skies-2-keepers-of-nemansk.json) |
 | Dark Souls II: Crown of the Old Iron King | 22502 | [22502-dark-souls-ii-crown-of-the-old-iron-king.json](./22502-dark-souls-ii-crown-of-the-old-iron-king.json) |
 | Dark Souls: Collector's Edition | 44607 | [44607-dark-souls-collectors-edition.json](./44607-dark-souls-collectors-edition.json) |
+| Dark Sun: Shattered Lands | 2466 | [2466-dark-sun-shattered-lands.json](./2466-dark-sun-shattered-lands.json) |
 | Dark Swords | 119044 | [119044-dark-swords.json](./119044-dark-swords.json) |
 | Dark Tales: Edgar Allan Poe's The Black Cat - Collector's Edition | 201826 | [201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json](./201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json) |
 | Dark Tartarus | 260950 | [260950-dark-tartarus.json](./260950-dark-tartarus.json) |
@@ -246,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of Red Letter | 253031 | [253031-day-of-red-letter.json](./253031-day-of-red-letter.json) |
 | Day of the Dead: Solitaire Collection | 161362 | [161362-day-of-the-dead-solitaire-collection.json](./161362-day-of-the-dead-solitaire-collection.json) |
 | Day of the Dimetrodon | 168382 | [168382-day-of-the-dimetrodon.json](./168382-day-of-the-dimetrodon.json) |
+| Day One: Garry's Incident | 3046 | [3046-day-one-garrys-incident.json](./3046-day-one-garrys-incident.json) |
 | Daydream | 192955 | [192955-daydream.json](./192955-daydream.json) |
 | DayDream Mosaics 2: Juliette's Tale | 193506 | [193506-daydream-mosaics-2-juliettes-tale.json](./193506-daydream-mosaics-2-juliettes-tale.json) |
 | Daylife in Japan: Pixel Art Jigsaw Puzzle | 147966 | [147966-daylife-in-japan-pixel-art-jigsaw-puzzle.json](./147966-daylife-in-japan-pixel-art-jigsaw-puzzle.json) |
@@ -629,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny: Rising | 319758 | [319758-destiny-rising.json](./319758-destiny-rising.json) |
 | Destiny: The Dark Below | 19920 | [19920-destiny-the-dark-below.json](./19920-destiny-the-dark-below.json) |
 | Destiny's Sword | 117061 | [117061-destinys-sword.json](./117061-destinys-sword.json) |
+| Destroy All Humans! Path of the Furon | 2717 | [2717-destroy-all-humans-path-of-the-furon.json](./2717-destroy-all-humans-path-of-the-furon.json) |
 | Destroy Blocks | 296642 | [296642-destroy-blocks.json](./296642-destroy-blocks.json) |
 | Destroy the Cubes | 156133 | [156133-destroy-the-cubes.json](./156133-destroy-the-cubes.json) |
 | Destroy the Hexons | 156129 | [156129-destroy-the-hexons.json](./156129-destroy-the-hexons.json) |
@@ -1228,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragluttony | 190230 | [190230-dragluttony.json](./190230-dragluttony.json) |
 | Dragon & Elfs | 227507 | [227507-dragon-and-elfs.json](./227507-dragon-and-elfs.json) |
 | Dragon & Knights | 200747 | [200747-dragon-and-knights.json](./200747-dragon-and-knights.json) |
+| Dragon Age II: Ultimate Edition | 306726 | [306726-dragon-age-ii-ultimate-edition.json](./306726-dragon-age-ii-ultimate-edition.json) |
 | Dragon Age: Origins - Leliana's Song | 17465 | [17465-dragon-age-origins-lelianas-song.json](./17465-dragon-age-origins-lelianas-song.json) |
 | Dragon Age: Origins - The Stone Prisoner | 17462 | [17462-dragon-age-origins-the-stone-prisoner.json](./17462-dragon-age-origins-the-stone-prisoner.json) |
 | Dragon Ball 3: Goku-den | 48679 | [48679-dragon-ball-3-goku-den.json](./48679-dragon-ball-3-goku-den.json) |
@@ -1538,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Keeper | 20093 | [20093-dungeon-keeper.json](./20093-dungeon-keeper.json) |
 | Dungeon Legends 2 | 200179 | [200179-dungeon-legends-2.json](./200179-dungeon-legends-2.json) |
 | Dungeon Master | 220842 | [220842-dungeon-master.json](./220842-dungeon-master.json) |
+| Dungeon Master II: The Legend of Skullkeep | 2503 | [2503-dungeon-master-ii-the-legend-of-skullkeep.json](./2503-dungeon-master-ii-the-legend-of-skullkeep.json) |
 | Dungeon Mori | 338000 | [338000-dungeon-mori.json](./338000-dungeon-mori.json) |
 | Dungeon of Despair | 193990 | [193990-dungeon-of-despair.json](./193990-dungeon-of-despair.json) |
 | Dungeon Quest | 101600 | [101600-dungeon-quest.json](./101600-dungeon-quest.json) |
