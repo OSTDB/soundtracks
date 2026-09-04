@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZombieSquad | 216475 | [216475-zombiesquad.json](./216475-zombiesquad.json) |
 | ZombieZoid Zenith | 34435 | [34435-zombiezoid-zenith.json](./34435-zombiezoid-zenith.json) |
 | Zombified: The Text Adventure Game of the Zombie Plague Apocalypse! | 87259 | [87259-zombified-the-text-adventure-game-of-the-zombie-plague-apocalypse.json](./87259-zombified-the-text-adventure-game-of-the-zombie-plague-apocalypse.json) |
+| ZombLabs | 31891 | [31891-zomblabs.json](./31891-zomblabs.json) |
 | Zompiercer | 132247 | [132247-zompiercer.json](./132247-zompiercer.json) |
 | Zompizza | 302102 | [302102-zompizza.json](./302102-zompizza.json) |
 | Zoms & Guns | 190201 | [190201-zoms-and-guns.json](./190201-zoms-and-guns.json) |
