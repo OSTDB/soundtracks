@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Remix | 259293 | [259293-chess-remix.json](./259293-chess-remix.json) |
 | Chess With Friends | 79921 | [79921-chess-with-friends.json](./79921-chess-with-friends.json) |
 | Chess: Secrets of the Grandmasters | 206967 | [206967-chess-secrets-of-the-grandmasters.json](./206967-chess-secrets-of-the-grandmasters.json) |
+| Chess.com | 121957 | [121957-chess-com.json](./121957-chess-com.json) |
 | ChesseR | 78700 | [78700-chesser.json](./78700-chesser.json) |
 | Chest Mate | 195240 | [195240-chest-mate.json](./195240-chest-mate.json) |
 | Chester One | 35790 | [35790-chester-one.json](./35790-chester-one.json) |
@@ -774,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civilization Simulator | 267069 | [267069-civilization-simulator.json](./267069-civilization-simulator.json) |
 | CJ Dreams | 263226 | [263226-cj-dreams.json](./263226-cj-dreams.json) |
 | Clan Wars | 188089 | [188089-clan-wars.json](./188089-clan-wars.json) |
+| Clannad | 9607 | [9607-clannad.json](./9607-clannad.json) |
 | ClanRivals: Vikings | 159876 | [159876-clanrivals-vikings.json](./159876-clanrivals-vikings.json) |
 | Clarc | 11047 | [11047-clarc.json](./11047-clarc.json) |
 | Clarent Saga: Tactics | 135271 | [135271-clarent-saga-tactics.json](./135271-clarent-saga-tactics.json) |
