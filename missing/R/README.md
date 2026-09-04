@@ -721,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Kingdoms: Conquer War | 199634 | [199634-rise-of-kingdoms-conquer-war.json](./199634-rise-of-kingdoms-conquer-war.json) |
 | Rise of Koreth | 258206 | [258206-rise-of-koreth.json](./258206-rise-of-koreth.json) |
 | Rise of Lost Empires | 68027 | [68027-rise-of-lost-empires.json](./68027-rise-of-lost-empires.json) |
+| Rise of Nations | 848 | [848-rise-of-nations.json](./848-rise-of-nations.json) |
 | Rise of SamuraizerzZz | 156664 | [156664-rise-of-samuraizerzzz.json](./156664-rise-of-samuraizerzzz.json) |
 | Rise of The Fey | 82120 | [82120-rise-of-the-fey.json](./82120-rise-of-the-fey.json) |
 | Rise of the Ghostdom | 210895 | [210895-rise-of-the-ghostdom.json](./210895-rise-of-the-ghostdom.json) |
