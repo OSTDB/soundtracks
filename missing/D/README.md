@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Space | 131931 | [131931-dead-space.json](./131931-dead-space.json) |
 | Dead Space 2 | 264868 | [264868-dead-space-2.json](./264868-dead-space-2.json) |
 | Dead Space 2: Limited Edition | 44613 | [44613-dead-space-2-limited-edition.json](./44613-dead-space-2-limited-edition.json) |
+| Dead Space 2: Severed | 20440 | [20440-dead-space-2-severed.json](./20440-dead-space-2-severed.json) |
 | Dead Space 3: Limited Edition | 44604 | [44604-dead-space-3-limited-edition.json](./44604-dead-space-3-limited-edition.json) |
 | Dead Space: Collector's Edition | 229975 | [229975-dead-space-collectors-edition.json](./229975-dead-space-collectors-edition.json) |
 | Dead Spawn | 121710 | [121710-dead-spawn.json](./121710-dead-spawn.json) |
@@ -922,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DizzyRoids | 233222 | [233222-dizzyroids.json](./233222-dizzyroids.json) |
 | DJ Mix Tour | 68028 | [68028-dj-mix-tour.json](./68028-dj-mix-tour.json) |
 | DJMax Portable: Clazziquai Edition | 79327 | [79327-djmax-portable-clazziquai-edition.json](./79327-djmax-portable-clazziquai-edition.json) |
+| DJMax Respect | 28192 | [28192-djmax-respect.json](./28192-djmax-respect.json) |
 | DJMax Respect V: Ez2on Pack | 239342 | [239342-djmax-respect-v-ez2on-pack.json](./239342-djmax-respect-v-ez2on-pack.json) |
 | DK: King of Swing - Hurling for Distance | 231633 | [231633-dk-king-of-swing-hurling-for-distance.json](./231633-dk-king-of-swing-hurling-for-distance.json) |
 | Dkls | 173276 | [173276-dkls.json](./173276-dkls.json) |
@@ -1091,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle God: Fantasy World of Magic | 186346 | [186346-doodle-god-fantasy-world-of-magic.json](./186346-doodle-god-fantasy-world-of-magic.json) |
 | Doodle God: Genesis Secrets | 99617 | [99617-doodle-god-genesis-secrets.json](./99617-doodle-god-genesis-secrets.json) |
 | Doodle Jump HD: Insanely Good! | 104106 | [104106-doodle-jump-hd-insanely-good.json](./104106-doodle-jump-hd-insanely-good.json) |
+| Doodle Kingdom | 27243 | [27243-doodle-kingdom.json](./27243-doodle-kingdom.json) |
 | DoodleBob and the Magic Pencil | 341323 | [341323-doodlebob-and-the-magic-pencil.json](./341323-doodlebob-and-the-magic-pencil.json) |
 | DoodleBob and the Magic Pencil DX | 341325 | [341325-doodlebob-and-the-magic-pencil-dx.json](./341325-doodlebob-and-the-magic-pencil-dx.json) |
 | Doodlebug | 261511 | [261511-doodlebug.json](./261511-doodlebug.json) |
@@ -1523,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Display | 159867 | [159867-dungeon-display.json](./159867-dungeon-display.json) |
 | Dungeon Explorer II | 42022 | [42022-dungeon-explorer-ii.json](./42022-dungeon-explorer-ii.json) |
 | Dungeon Golf | 244507 | [244507-dungeon-golf.json](./244507-dungeon-golf.json) |
+| Dungeon Keeper | 20093 | [20093-dungeon-keeper.json](./20093-dungeon-keeper.json) |
 | Dungeon Legends 2 | 200179 | [200179-dungeon-legends-2.json](./200179-dungeon-legends-2.json) |
 | Dungeon Master | 220842 | [220842-dungeon-master.json](./220842-dungeon-master.json) |
 | Dungeon Mori | 338000 | [338000-dungeon-mori.json](./338000-dungeon-mori.json) |
@@ -1584,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying for Daylight | 79904 | [79904-dying-for-daylight.json](./79904-dying-for-daylight.json) |
 | Dying Light 2: Stay Human - Collector's Edition | 150146 | [150146-dying-light-2-stay-human-collectors-edition.json](./150146-dying-light-2-stay-human-collectors-edition.json) |
 | Dying Light: Enhanced Edition | 248317 | [248317-dying-light-enhanced-edition.json](./248317-dying-light-enhanced-edition.json) |
+| Dying: Reborn | 27569 | [27569-dying-reborn.json](./27569-dying-reborn.json) |
 | Dylan Dog: Horror Luna Park | 70970 | [70970-dylan-dog-horror-luna-park.json](./70970-dylan-dog-horror-luna-park.json) |
 | Dymension | 191262 | [191262-dymension.json](./191262-dymension.json) |
 | Dynacore | 214722 | [214722-dynacore.json](./214722-dynacore.json) |
