@@ -590,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Al Unser Jr.'s Road to the Top | 42631 | [42631-al-unser-jr-s-road-to-the-top.json](./42631-al-unser-jr-s-road-to-the-top.json) |
 | Al-Ankabut | 211416 | [211416-al-ankabut.json](./211416-al-ankabut.json) |
 | Alabaster | 60017 | [60017-alabaster.json](./60017-alabaster.json) |
+| Alaloth: Champions of the Four Kingdoms | 27406 | [27406-alaloth-champions-of-the-four-kingdoms.json](./27406-alaloth-champions-of-the-four-kingdoms.json) |
 | Alan Probe: Amateur Surgeon | 70415 | [70415-alan-probe-amateur-surgeon.json](./70415-alan-probe-amateur-surgeon.json) |
 | Alan Wake II: The Final Draft | 298842 | [298842-alan-wake-ii-the-final-draft.json](./298842-alan-wake-ii-the-final-draft.json) |
 | Alba: A Wildlife Adventure | 135919 | [135919-alba-a-wildlife-adventure.json](./135919-alba-a-wildlife-adventure.json) |
@@ -1315,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armor Mayhem | 264330 | [264330-armor-mayhem.json](./264330-armor-mayhem.json) |
 | Armor of Heroes | 140015 | [140015-armor-of-heroes.json](./140015-armor-of-heroes.json) |
 | Armored | 151201 | [151201-armored.json](./151201-armored.json) |
+| Armored Core 2 | 31719 | [31719-armored-core-2.json](./31719-armored-core-2.json) |
 | Armored Core 2: Another Age | 46029 | [46029-armored-core-2-another-age.json](./46029-armored-core-2-another-age.json) |
 | Armored Core 4 | 5491 | [5491-armored-core-4.json](./5491-armored-core-4.json) |
 | Armored Core VI: Fires of Rubicon - Launch Edition | 248296 | [248296-armored-core-vi-fires-of-rubicon-launch-edition.json](./248296-armored-core-vi-fires-of-rubicon-launch-edition.json) |
@@ -1693,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoid the Awful Thing that Vaguely Resembles a Banana!! | 69312 | [69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json](./69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json) |
 | Avoid the Monsters | 54450 | [54450-avoid-the-monsters.json](./54450-avoid-the-monsters.json) |
 | Avolteha | 208022 | [208022-avolteha.json](./208022-avolteha.json) |
+| Avorion | 27114 | [27114-avorion.json](./27114-avorion.json) |
 | Avorion: Into the Rift | 210867 | [210867-avorion-into-the-rift.json](./210867-avorion-into-the-rift.json) |
 | Avy, Fables of the Night | 269288 | [269288-avy-fables-of-the-night.json](./269288-avy-fables-of-the-night.json) |
 | AWA 2024 | 278169 | [278169-awa-2024.json](./278169-awa-2024.json) |
