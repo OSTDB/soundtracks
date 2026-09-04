@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Hunter: Rodent Rampage | 330556 | [330556-hamster-hunter-rodent-rampage.json](./330556-hamster-hunter-rodent-rampage.json) |
 | Hamster Monogatari 64 | 3509 | [3509-hamster-monogatari-64.json](./3509-hamster-monogatari-64.json) |
 | Hamster Panic | 151743 | [151743-hamster-panic.json](./151743-hamster-panic.json) |
+| Hamster Scramble | 125655 | [125655-hamster-scramble.json](./125655-hamster-scramble.json) |
 | Hana Oboro: Sengoku-den Ranki | 136480 | [136480-hana-oboro-sengoku-den-ranki.json](./136480-hana-oboro-sengoku-den-ranki.json) |
 | Hanafuda Yuukyou-den: Nagarebana Oryuu | 267655 | [267655-hanafuda-yuukyou-den-nagarebana-oryuu.json](./267655-hanafuda-yuukyou-den-nagarebana-oryuu.json) |
 | Hanagumi Taisen Columns | 69307 | [69307-hanagumi-taisen-columns.json](./69307-hanagumi-taisen-columns.json) |
@@ -513,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Bump | 184101 | [184101-hero-bump.json](./184101-hero-bump.json) |
 | Hero Fighter | 66720 | [66720-hero-fighter.json](./66720-hero-fighter.json) |
 | Hero Hunters: Jurassic Shooting Sniper | 104069 | [104069-hero-hunters-jurassic-shooting-sniper.json](./104069-hero-hunters-jurassic-shooting-sniper.json) |
+| Hero Must Die. Again | 127334 | [127334-hero-must-die-again.json](./127334-hero-must-die-again.json) |
 | Hero Park | 156651 | [156651-hero-park.json](./156651-hero-park.json) |
 | Hero Quest | 331670 | [331670-hero-quest.json](./331670-hero-quest.json) |
 | Hero Rescue | 319947 | [319947-hero-rescue.json](./319947-hero-rescue.json) |
@@ -997,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Date a Non-Terrian Person | 184081 | [184081-how-to-date-a-non-terrian-person.json](./184081-how-to-date-a-non-terrian-person.json) |
 | How to Die. | 218131 | [218131-how-to-die.json](./218131-how-to-die.json) |
 | How to Disappear Completely | 268728 | [268728-how-to-disappear-completely.json](./268728-how-to-disappear-completely.json) |
+| How to Raise a Wolf Girl | 122825 | [122825-how-to-raise-a-wolf-girl.json](./122825-how-to-raise-a-wolf-girl.json) |
 | How to Train Your Dragon | 228092 | [228092-how-to-train-your-dragon.json](./228092-how-to-train-your-dragon.json) |
 | How!? | 258192 | [258192-how.json](./258192-how.json) |
 | Hoyle Card Games | 77395 | [77395-hoyle-card-games.json](./77395-hoyle-card-games.json) |
