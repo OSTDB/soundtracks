@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Madden Football | 295034 | [295034-john-madden-football.json](./295034-john-madden-football.json) |
 | John Madden Football | 295035 | [295035-john-madden-football.json](./295035-john-madden-football.json) |
 | John Wick | 143750 | [143750-john-wick.json](./143750-john-wick.json) |
+| John Wick Hex | 118219 | [118219-john-wick-hex.json](./118219-john-wick-hex.json) |
 | John:Condemned | 111011 | [111011-john-condemned.json](./111011-john-condemned.json) |
 | John's Tombstone | 187523 | [187523-johns-tombstone.json](./187523-johns-tombstone.json) |
 | John's Wizard Dungeon | 119738 | [119738-johns-wizard-dungeon.json](./119738-johns-wizard-dungeon.json) |
