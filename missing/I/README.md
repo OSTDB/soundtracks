@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inoue Takehiko: Buzzer Beater - Kouhen | 209725 | [209725-inoue-takehiko-buzzer-beater-kouhen.json](./209725-inoue-takehiko-buzzer-beater-kouhen.json) |
 | Inoue Takehiko: Buzzer Beater - Zenpen | 209724 | [209724-inoue-takehiko-buzzer-beater-zenpen.json](./209724-inoue-takehiko-buzzer-beater-zenpen.json) |
 | Input Chaos | 215926 | [215926-input-chaos.json](./215926-input-chaos.json) |
+| Inquisitor | 9100 | [9100-inquisitor.json](./9100-inquisitor.json) |
 | Inquisitor: Shade of Swords | 123604 | [123604-inquisitor-shade-of-swords.json](./123604-inquisitor-shade-of-swords.json) |
 | InRun | 256554 | [256554-inrun.json](./256554-inrun.json) |
 | Insanity's Edge | 274186 | [274186-insanitys-edge.json](./274186-insanitys-edge.json) |
@@ -636,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itoi Shigesato no Bass Tsuri No. 1 | 3518 | [3518-itoi-shigesato-no-bass-tsuri-no-1.json](./3518-itoi-shigesato-no-bass-tsuri-no-1.json) |
 | iTownGamePlay UNIVERSE | 90652 | [90652-itowngameplay-universe.json](./90652-itowngameplay-universe.json) |
 | Its Been a While Since I Went for a Walk | 151708 | [151708-its-been-a-while-since-i-went-for-a-walk.json](./151708-its-been-a-while-since-i-went-for-a-walk.json) |
+| Ittle Dew 2 | 11598 | [11598-ittle-dew-2.json](./11598-ittle-dew-2.json) |
 | Ivanoile ~ Christalixeur Corruption | 119023 | [119023-ivanoile-christalixeur-corruption.json](./119023-ivanoile-christalixeur-corruption.json) |
 | Iwai Keitai Kaitsuu! Tamagotchi Plus | 229950 | [229950-iwai-keitai-kaitsuu-tamagotchi-plus.json](./229950-iwai-keitai-kaitsuu-tamagotchi-plus.json) |
 | Iwai Keitai Kaitsuu! Tamagotchi Plus Akai | 229951 | [229951-iwai-keitai-kaitsuu-tamagotchi-plus-akai.json](./229951-iwai-keitai-kaitsuu-tamagotchi-plus-akai.json) |
