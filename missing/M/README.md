@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Ninja | 15539 | [15539-master-ninja.json](./15539-master-ninja.json) |
 | Master of Dimensions | 7695 | [7695-master-of-dimensions.json](./7695-master-of-dimensions.json) |
 | Master of Mutations | 109716 | [109716-master-of-mutations.json](./109716-master-of-mutations.json) |
+| Master of Orion III | 69 | [69-master-of-orion-iii.json](./69-master-of-orion-iii.json) |
 | Master of the Wind | 123642 | [123642-master-of-the-wind.json](./123642-master-of-the-wind.json) |
 | Master Sleuth Bundle | 209692 | [209692-master-sleuth-bundle.json](./209692-master-sleuth-bundle.json) |
 | Master the Sky | 257693 | [257693-master-the-sky.json](./257693-master-the-sky.json) |
@@ -1148,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moai Alley | 332802 | [332802-moai-alley.json](./332802-moai-alley.json) |
 | MOAR: Appeteaser | 209718 | [209718-moar-appeteaser.json](./209718-moar-appeteaser.json) |
 | MOB the Robot | 330514 | [330514-mob-the-robot.json](./330514-mob-the-robot.json) |
+| Mobil 1 Rally Championship | 793 | [793-mobil-1-rally-championship.json](./793-mobil-1-rally-championship.json) |
 | Mobile Dinosaur: Action Edition | 108501 | [108501-mobile-dinosaur-action-edition.json](./108501-mobile-dinosaur-action-edition.json) |
 | Mobile Suit Gundam Extreme Versus 2 Cross Boost | 265951 | [265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json](./265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json) |
 | Mobile Suit Gundam Federation vs. Zeon | 43311 | [43311-mobile-suit-gundam-federation-vs-zeon.json](./43311-mobile-suit-gundam-federation-vs-zeon.json) |
@@ -1853,6 +1855,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth | 12186 | [12186-myth.json](./12186-myth.json) |
 | Myth | 252374 | [252374-myth.json](./252374-myth.json) |
 | Myth & Mirage | 310727 | [310727-myth-and-mirage.json](./310727-myth-and-mirage.json) |
+| Myth II: Soulblighter | 799 | [799-myth-ii-soulblighter.json](./799-myth-ii-soulblighter.json) |
+| Myth of Empires | 143628 | [143628-myth-of-empires.json](./143628-myth-of-empires.json) |
 | Myth of Empires: Musical Instruments Pack | 293413 | [293413-myth-of-empires-musical-instruments-pack.json](./293413-myth-of-empires-musical-instruments-pack.json) |
 | Myth of Mirka | 209670 | [209670-myth-of-mirka.json](./209670-myth-of-mirka.json) |
 | Myth: Make Your True Hero | 143702 | [143702-myth-make-your-true-hero.json](./143702-myth-make-your-true-hero.json) |
