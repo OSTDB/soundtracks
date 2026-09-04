@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yes! PreCure 5: Asonde Oboeyou Hiragana! | 327605 | [327605-yes-precure-5-asonde-oboeyou-hiragana.json](./327605-yes-precure-5-asonde-oboeyou-hiragana.json) |
 | Yesterday | 7647 | [7647-yesterday.json](./7647-yesterday.json) |
 | Yesterday's Nightmare | 274225 | [274225-yesterdays-nightmare.json](./274225-yesterdays-nightmare.json) |
+| YesterMorrow | 120533 | [120533-yestermorrow.json](./120533-yestermorrow.json) |
 | Yet Another Pixel Dungeon | 129772 | [129772-yet-another-pixel-dungeon.json](./129772-yet-another-pixel-dungeon.json) |
 | Yet Another Solitaire Game | 316981 | [316981-yet-another-solitaire-game.json](./316981-yet-another-solitaire-game.json) |
 | Yeth | 201832 | [201832-yeth.json](./201832-yeth.json) |
