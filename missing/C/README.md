@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Push | 259856 | [259856-castle-push.json](./259856-castle-push.json) |
 | Castle Rush | 185145 | [185145-castle-rush.json](./185145-castle-rush.json) |
 | Castle Rush Zombies | 241620 | [241620-castle-rush-zombies.json](./241620-castle-rush-zombies.json) |
+| Castle: Never Judge a Book by its Cover | 17407 | [17407-castle-never-judge-a-book-by-its-cover.json](./17407-castle-never-judge-a-book-by-its-cover.json) |
 | Castle's Adventure | 245542 | [245542-castles-adventure.json](./245542-castles-adventure.json) |
 | CastleBoy | 144370 | [144370-castleboy.json](./144370-castleboy.json) |
 | Castlevania 2 | 276459 | [276459-castlevania-2.json](./276459-castlevania-2.json) |
@@ -843,12 +844,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Takeover: Fierce Animals | 309085 | [309085-city-takeover-fierce-animals.json](./309085-city-takeover-fierce-animals.json) |
 | City Takeover: Gentle Animals | 309086 | [309086-city-takeover-gentle-animals.json](./309086-city-takeover-gentle-animals.json) |
 | CityBuilder | 206348 | [206348-citybuilder.json](./206348-citybuilder.json) |
+| Cityconomy: Service for your City | 17494 | [17494-cityconomy-service-for-your-city.json](./17494-cityconomy-service-for-your-city.json) |
 | CityInc | 307902 | [307902-cityinc.json](./307902-cityinc.json) |
 | Ciudad Alfombra | 251848 | [251848-ciudad-alfombra.json](./251848-ciudad-alfombra.json) |
 | Ciudad Empresarial | 274750 | [274750-ciudad-empresarial.json](./274750-ciudad-empresarial.json) |
 | CivCraft - Legends of Ellaria | 47273 | [47273-civcraft-legends-of-ellaria.json](./47273-civcraft-legends-of-ellaria.json) |
 | Cividle | 224744 | [224744-cividle.json](./224744-cividle.json) |
 | Civil War | 95459 | [95459-civil-war.json](./95459-civil-war.json) |
+| Civil War II | 17527 | [17527-civil-war-ii.json](./17527-civil-war-ii.json) |
 | Civilization Simulator | 267069 | [267069-civilization-simulator.json](./267069-civilization-simulator.json) |
 | CJ Dreams | 263226 | [263226-cj-dreams.json](./263226-cj-dreams.json) |
 | Clair Obscur: Expedition 33 – Deluxe Edition | 333209 | [333209-clair-obscur-expedition-33-deluxe-edition.json](./333209-clair-obscur-expedition-33-deluxe-edition.json) |
@@ -856,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clan Wars | 188089 | [188089-clan-wars.json](./188089-clan-wars.json) |
 | Clannad | 9607 | [9607-clannad.json](./9607-clannad.json) |
 | ClanRivals: Vikings | 159876 | [159876-clanrivals-vikings.json](./159876-clanrivals-vikings.json) |
+| Clans | 17121 | [17121-clans.json](./17121-clans.json) |
 | Clarc | 11047 | [11047-clarc.json](./11047-clarc.json) |
 | Clarent Saga: Tactics | 135271 | [135271-clarent-saga-tactics.json](./135271-clarent-saga-tactics.json) |
 | Clash of Champs | 56529 | [56529-clash-of-champs.json](./56529-clash-of-champs.json) |
@@ -1430,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cranes | 99642 | [99642-cranes.json](./99642-cranes.json) |
 | Crank | 331113 | [331113-crank.json](./331113-crank.json) |
 | Cranks Playdate Baseball | 273673 | [273673-cranks-playdate-baseball.json](./273673-cranks-playdate-baseball.json) |
+| Cranky Cat | 16514 | [16514-cranky-cat.json](./16514-cranky-cat.json) |
 | Crapette | 332253 | [332253-crapette.json](./332253-crapette.json) |
 | Crapman | 70424 | [70424-crapman.json](./70424-crapman.json) |
 | Crash 'n Burn | 95438 | [95438-crash-n-burn.json](./95438-crash-n-burn.json) |
@@ -1862,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cypest Underground | 111734 | [111734-cypest-underground.json](./111734-cypest-underground.json) |
 | Cypher: Cyberpunk Text Adventure | 64616 | [64616-cypher-cyberpunk-text-adventure.json](./64616-cypher-cyberpunk-text-adventure.json) |
 | Cyrus II Chess | 12988 | [12988-cyrus-ii-chess.json](./12988-cyrus-ii-chess.json) |
+| Cyto | 17431 | [17431-cyto.json](./17431-cyto.json) |
 | Cytoplasm Madness | 180839 | [180839-cytoplasm-madness.json](./180839-cytoplasm-madness.json) |
 | Cytron Masters | 22489 | [22489-cytron-masters.json](./22489-cytron-masters.json) |
 | Cytus II | 89095 | [89095-cytus-ii.json](./89095-cytus-ii.json) |
