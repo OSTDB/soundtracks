@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narc | 307957 | [307957-narc.json](./307957-narc.json) |
 | Narcissu: A Little Iris | 127324 | [127324-narcissu-a-little-iris.json](./127324-narcissu-a-little-iris.json) |
 | Narcissus | 335682 | [335682-narcissus.json](./335682-narcissus.json) |
+| Narco Terror | 16446 | [16446-narco-terror.json](./16446-narco-terror.json) |
 | Narcolepsy | 91415 | [91415-narcolepsy.json](./91415-narcolepsy.json) |
 | Narcosis | 19168 | [19168-narcosis.json](./19168-narcosis.json) |
 | Narcotics Ninja | 198554 | [198554-narcotics-ninja.json](./198554-narcotics-ninja.json) |
@@ -738,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northern Tales | 114405 | [114405-northern-tales.json](./114405-northern-tales.json) |
 | Northgard: Dodsvagr, Clan of the Rat | 188083 | [188083-northgard-dodsvagr-clan-of-the-rat.json](./188083-northgard-dodsvagr-clan-of-the-rat.json) |
 | Northgard: Hræsvelg, Clan of the Eagle | 218693 | [218693-northgard-hr-svelg-clan-of-the-eagle.json](./218693-northgard-hr-svelg-clan-of-the-eagle.json) |
+| Northmark: Hour of the Wolf | 17532 | [17532-northmark-hour-of-the-wolf.json](./17532-northmark-hour-of-the-wolf.json) |
 | NorthStar | 55207 | [55207-northstar.json](./55207-northstar.json) |
 | NoseBound | 132821 | [132821-nosebound.json](./132821-nosebound.json) |
 | NoserLand | 51960 | [51960-noserland.json](./51960-noserland.json) |
