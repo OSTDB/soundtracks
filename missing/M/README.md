@@ -393,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masks of Deception | 200705 | [200705-masks-of-deception.json](./200705-masks-of-deception.json) |
 | Mason and Strings | 183606 | [183606-mason-and-strings.json](./183606-mason-and-strings.json) |
 | Mass Effect 2: Collector's Edition | 43957 | [43957-mass-effect-2-collectors-edition.json](./43957-mass-effect-2-collectors-edition.json) |
+| Mass Effect: Andromeda - Super Deluxe Edition | 27767 | [27767-mass-effect-andromeda-super-deluxe-edition.json](./27767-mass-effect-andromeda-super-deluxe-edition.json) |
 | Massacre Tower | 161359 | [161359-massacre-tower.json](./161359-massacre-tower.json) |
 | Massira | 116369 | [116369-massira.json](./116369-massira.json) |
 | Massive Air Combat: Puzzles | 163423 | [163423-massive-air-combat-puzzles.json](./163423-massive-air-combat-puzzles.json) |
@@ -906,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Her Manor | 312325 | [312325-mind-her-manor.json](./312325-mind-her-manor.json) |
 | Mind Shadows | 151180 | [151180-mind-shadows.json](./151180-mind-shadows.json) |
 | Mind the Abyss | 310175 | [310175-mind-the-abyss.json](./310175-mind-the-abyss.json) |
+| Mind-Machine Interface | 27763 | [27763-mind-machine-interface.json](./27763-mind-machine-interface.json) |
 | Mindbender | 71529 | [71529-mindbender.json](./71529-mindbender.json) |
 | Mindblower Pack | 78023 | [78023-mindblower-pack.json](./78023-mindblower-pack.json) |
 | Minder | 100207 | [100207-minder.json](./100207-minder.json) |
@@ -1424,6 +1426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Maniac | 66104 | [66104-mountain-maniac.json](./66104-mountain-maniac.json) |
 | Mountain Taxi Driver | 119745 | [119745-mountain-taxi-driver.json](./119745-mountain-taxi-driver.json) |
 | Mouse Dream | 166772 | [166772-mouse-dream.json](./166772-mouse-dream.json) |
+| Mouse Dreams | 27805 | [27805-mouse-dreams.json](./27805-mouse-dreams.json) |
 | Mouse Hero | 157716 | [157716-mouse-hero.json](./157716-mouse-hero.json) |
 | Mouse Maze - Top Brain Puzzle | 89274 | [89274-mouse-maze-top-brain-puzzle.json](./89274-mouse-maze-top-brain-puzzle.json) |
 | Mouse Mind: Secrets of Pharaon | 73808 | [73808-mouse-mind-secrets-of-pharaon.json](./73808-mouse-mind-secrets-of-pharaon.json) |
