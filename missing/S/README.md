@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailor Fuku Bishoujo Zukan Vol. 5 | 41385 | [41385-sailor-fuku-bishoujo-zukan-vol-5.json](./41385-sailor-fuku-bishoujo-zukan-vol-5.json) |
 | Sailor Fuku Bishoujo Zukan Vol. 6 | 41384 | [41384-sailor-fuku-bishoujo-zukan-vol-6.json](./41384-sailor-fuku-bishoujo-zukan-vol-6.json) |
 | Sailor Fuku to Femme Fatale | 293941 | [293941-sailor-fuku-to-femme-fatale.json](./293941-sailor-fuku-to-femme-fatale.json) |
+| Sailor Moon | 38280 | [38280-sailor-moon.json](./38280-sailor-moon.json) |
 | Sailor's Stories Solitaire | 196881 | [196881-sailors-stories-solitaire.json](./196881-sailors-stories-solitaire.json) |
 | Saimazoom | 45326 | [45326-saimazoom.json](./45326-saimazoom.json) |
 | Saint | 94739 | [94739-saint.json](./94739-saint.json) |
@@ -469,8 +470,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selfmade Devil | 170546 | [170546-selfmade-devil.json](./170546-selfmade-devil.json) |
 | Selini | 159885 | [159885-selini.json](./159885-selini.json) |
 | Selling Sunlight | 118412 | [118412-selling-sunlight.json](./118412-selling-sunlight.json) |
+| Semblance | 55173 | [55173-semblance.json](./55173-semblance.json) |
 | Semmelweis | 238752 | [238752-semmelweis.json](./238752-semmelweis.json) |
 | Semper Fidelis: Marine Corps | 73830 | [73830-semper-fidelis-marine-corps.json](./73830-semper-fidelis-marine-corps.json) |
+| Sengoku 3 | 46784 | [46784-sengoku-3.json](./46784-sengoku-3.json) |
 | Sengoku Block Bashi | 151711 | [151711-sengoku-block-bashi.json](./151711-sengoku-block-bashi.json) |
 | Sengoku Koihime + Sengoku Koihime X Set | 339636 | [339636-sengoku-koihime-sengoku-koihime-x-set.json](./339636-sengoku-koihime-sengoku-koihime-x-set.json) |
 | Sengoku Koihime X: Otome Kenran Sengoku Emaki Koujou-ke Souran-hen | 339635 | [339635-sengoku-koihime-x-otome-kenran-sengoku-emaki-koujou-ke-souran-hen.json](./339635-sengoku-koihime-x-otome-kenran-sengoku-emaki-koujou-ke-souran-hen.json) |
@@ -537,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Doorways | 209632 | [209632-seven-doorways.json](./209632-seven-doorways.json) |
 | Seven Knights: Time Wanderer - Special Edition | 238229 | [238229-seven-knights-time-wanderer-special-edition.json](./238229-seven-knights-time-wanderer-special-edition.json) |
 | Seven: Enhanced - Collector's Edition | 154529 | [154529-seven-enhanced-collectors-edition.json](./154529-seven-enhanced-collectors-edition.json) |
+| Seven: The Days Long Gone | 18908 | [18908-seven-the-days-long-gone.json](./18908-seven-the-days-long-gone.json) |
 | Severity | 93615 | [93615-severity.json](./93615-severity.json) |
 | Sex and the Furry Titty 2: Sins of the City - Love Stories Episodes | 173846 | [173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json](./173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json) |
 | Sex and the Furry Titty 3: Come Inside, Sweety | 237075 | [237075-sex-and-the-furry-titty-3-come-inside-sweety.json](./237075-sex-and-the-furry-titty-3-come-inside-sweety.json) |
@@ -929,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silversword | 101539 | [101539-silversword.json](./101539-silversword.json) |
 | Silverwood Bay: An Eleanor Grey Mystery | 291246 | [291246-silverwood-bay-an-eleanor-grey-mystery.json](./291246-silverwood-bay-an-eleanor-grey-mystery.json) |
 | Sim Theme Park | 12484 | [12484-sim-theme-park.json](./12484-sim-theme-park.json) |
+| SimCity 4: Rush Hour | 18494 | [18494-simcity-4-rush-hour.json](./18494-simcity-4-rush-hour.json) |
 | SimCity Social | 64978 | [64978-simcity-social.json](./64978-simcity-social.json) |
 | SimEarth: The Living Planet | 42017 | [42017-simearth-the-living-planet.json](./42017-simearth-the-living-planet.json) |
 | SimHealth | 93048 | [93048-simhealth.json](./93048-simhealth.json) |
@@ -1914,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash Ship | 214176 | [214176-splash-ship.json](./214176-splash-ship.json) |
 | Splashy Duck | 84893 | [84893-splashy-duck.json](./84893-splashy-duck.json) |
 | Splatterhouse | 6929 | [6929-splatterhouse.json](./6929-splatterhouse.json) |
+| Splatterhouse 3 | 46194 | [46194-splatterhouse-3.json](./46194-splatterhouse-3.json) |
 | Splendor: The Strongholds | 172174 | [172174-splendor-the-strongholds.json](./172174-splendor-the-strongholds.json) |
 | Spliced | 218706 | [218706-spliced.json](./218706-spliced.json) |
 | Splinterlands | 165055 | [165055-splinterlands.json](./165055-splinterlands.json) |
@@ -1980,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spud Customs | 324090 | [324090-spud-customs.json](./324090-spud-customs.json) |
 | Spuds | 54421 | [54421-spuds.json](./54421-spuds.json) |
 | Spy Alarm | 148572 | [148572-spy-alarm.json](./148572-spy-alarm.json) |
+| Spy Chameleon | 15462 | [15462-spy-chameleon.json](./15462-spy-chameleon.json) |
 | Spy Fiction | 43327 | [43327-spy-fiction.json](./43327-spy-fiction.json) |
 | Spy Kids Challenger | 49385 | [49385-spy-kids-challenger.json](./49385-spy-kids-challenger.json) |
 | Spy Kids Learning Adventures: Mission - Man in the Moon | 73833 | [73833-spy-kids-learning-adventures-mission-man-in-the-moon.json](./73833-spy-kids-learning-adventures-mission-man-in-the-moon.json) |
@@ -2087,6 +2094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Scout | 70399 | [70399-star-scout.json](./70399-star-scout.json) |
 | Star Sentinel Tactics | 67329 | [67329-star-sentinel-tactics.json](./67329-star-sentinel-tactics.json) |
 | Star Sky 3 | 109702 | [109702-star-sky-3.json](./109702-star-sky-3.json) |
+| Star Soldier | 48240 | [48240-star-soldier.json](./48240-star-soldier.json) |
 | Star Sword | 221972 | [221972-star-sword.json](./221972-star-sword.json) |
 | Star Tank | 169457 | [169457-star-tank.json](./169457-star-tank.json) |
 | Star Trek | 247203 | [247203-star-trek.json](./247203-star-trek.json) |
@@ -2618,6 +2626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dino | 220880 | [220880-super-dino.json](./220880-super-dino.json) |
 | Super Disc Soccer | 147462 | [147462-super-disc-soccer.json](./147462-super-disc-soccer.json) |
 | Super DJ | 233241 | [233241-super-dj.json](./233241-super-dj.json) |
+| Super Dodge Ball | 46768 | [46768-super-dodge-ball.json](./46768-super-dodge-ball.json) |
 | Super Donkey Kong 64 | 134017 | [134017-super-donkey-kong-64.json](./134017-super-donkey-kong-64.json) |
 | Super Donuts! | 175412 | [175412-super-donuts.json](./175412-super-donuts.json) |
 | Super Doom TV | 299449 | [299449-super-doom-tv.json](./299449-super-doom-tv.json) |
@@ -2875,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Skyland | 175406 | [175406-super-skyland.json](./175406-super-skyland.json) |
 | Super Slinger | 192958 | [192958-super-slinger.json](./192958-super-slinger.json) |
 | Super Smash Bros. Ultimate: Goku Mod | 242815 | [242815-super-smash-bros-ultimate-goku-mod.json](./242815-super-smash-bros-ultimate-goku-mod.json) |
+| Super Smash Flash 2 | 14247 | [14247-super-smash-flash-2.json](./14247-super-smash-flash-2.json) |
 | Super Smash Kart | 269293 | [269293-super-smash-kart.json](./269293-super-smash-kart.json) |
 | Super Soccer | 172784 | [172784-super-soccer.json](./172784-super-soccer.json) |
 | Super Soccer Champ | 38394 | [38394-super-soccer-champ.json](./38394-super-soccer-champ.json) |
