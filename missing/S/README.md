@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samidare | 126040 | [126040-samidare.json](./126040-samidare.json) |
 | Sammi's Quest vol.1: The Wandering Ogres | 104628 | [104628-sammis-quest-vol-1-the-wandering-ogres.json](./104628-sammis-quest-vol-1-the-wandering-ogres.json) |
 | Sammy Lightfoot | 23885 | [23885-sammy-lightfoot.json](./23885-sammy-lightfoot.json) |
+| Samorost 3 | 15537 | [15537-samorost-3.json](./15537-samorost-3.json) |
 | Samosbor 2D | 120986 | [120986-samosbor-2d.json](./120986-samosbor-2d.json) |
 | Samozbor ID:Heaven | 129231 | [129231-samozbor-id-heaven.json](./129231-samozbor-id-heaven.json) |
 | Sampling | 107874 | [107874-sampling.json](./107874-sampling.json) |
@@ -681,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelley Duvall's It's a Bird's Life | 79294 | [79294-shelley-duvalls-its-a-birds-life.json](./79294-shelley-duvalls-its-a-birds-life.json) |
 | Sheltered Double Pack | 186885 | [186885-sheltered-double-pack.json](./186885-sheltered-double-pack.json) |
 | Shēngwù Zhīshì Gédòu Dàsài | 130968 | [130968-shengwu-zhishi-gedou-dasai.json](./130968-shengwu-zhishi-gedou-dasai.json) |
+| Shenmue II | 1218 | [1218-shenmue-ii.json](./1218-shenmue-ii.json) |
 | Shenmue III: Battle Rally | 129191 | [129191-shenmue-iii-battle-rally.json](./129191-shenmue-iii-battle-rally.json) |
 | Shennong: Taste of Illusion | 113015 | [113015-shennong-taste-of-illusion.json](./113015-shennong-taste-of-illusion.json) |
 | Shēnyuān | 165700 | [165700-shenyuan.json](./165700-shenyuan.json) |
@@ -851,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization Revolution | 264865 | [264865-sid-meiers-civilization-revolution.json](./264865-sid-meiers-civilization-revolution.json) |
 | Sid Meier's Civilization Revolution | 264866 | [264866-sid-meiers-civilization-revolution.json](./264866-sid-meiers-civilization-revolution.json) |
 | Sid Meier's Civilization Revolution 2 Plus | 139435 | [139435-sid-meiers-civilization-revolution-2-plus.json](./139435-sid-meiers-civilization-revolution-2-plus.json) |
+| Sid Meier's Civilization V: Brave New World | 3272 | [3272-sid-meiers-civilization-v-brave-new-world.json](./3272-sid-meiers-civilization-v-brave-new-world.json) |
 | Sid Meier's Civilization VI: Mona Megistus Pack | 278742 | [278742-sid-meiers-civilization-vi-mona-megistus-pack.json](./278742-sid-meiers-civilization-vi-mona-megistus-pack.json) |
 | Sid Meier's Civilization VII: Deluxe Edition | 315854 | [315854-sid-meiers-civilization-vii-deluxe-edition.json](./315854-sid-meiers-civilization-vii-deluxe-edition.json) |
 | Sid Meier's Civilization VII: Founders Edition | 315853 | [315853-sid-meiers-civilization-vii-founders-edition.json](./315853-sid-meiers-civilization-vii-founders-edition.json) |
@@ -1463,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Destiny | 331715 | [331715-sonic-destiny.json](./331715-sonic-destiny.json) |
 | Sonic Elementals | 333959 | [333959-sonic-elementals.json](./333959-sonic-elementals.json) |
 | Sonic ERaZor | 198564 | [198564-sonic-erazor.json](./198564-sonic-erazor.json) |
+| Sonic Frontiers | 150010 | [150010-sonic-frontiers.json](./150010-sonic-frontiers.json) |
 | Sonic Frontiers 2D | 336348 | [336348-sonic-frontiers-2d.json](./336348-sonic-frontiers-2d.json) |
 | Sonic Gallery | 330528 | [330528-sonic-gallery.json](./330528-sonic-gallery.json) |
 | Sonic Gear | 332255 | [332255-sonic-gear.json](./332255-sonic-gear.json) |
@@ -1603,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul's Spectrum: Awakening | 267110 | [267110-souls-spectrum-awakening.json](./267110-souls-spectrum-awakening.json) |
 | SoulBound | 215932 | [215932-soulbound.json](./215932-soulbound.json) |
 | SoulCalibur II | 1565 | [1565-soulcalibur-ii.json](./1565-soulcalibur-ii.json) |
+| SoulCalibur V | 1013 | [1013-soulcalibur-v.json](./1013-soulcalibur-v.json) |
 | SoulCalibur V: Collectors Edition | 44655 | [44655-soulcalibur-v-collectors-edition.json](./44655-soulcalibur-v-collectors-edition.json) |
 | Soulcalibur: Broken Destiny | 272550 | [272550-soulcalibur-broken-destiny.json](./272550-soulcalibur-broken-destiny.json) |
 | Soulcaster | 150680 | [150680-soulcaster.json](./150680-soulcaster.json) |
@@ -1941,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spykebots | 113706 | [113706-spykebots.json](./113706-spykebots.json) |
 | Spyrit Walker | 304872 | [304872-spyrit-walker.json](./304872-spyrit-walker.json) |
 | Spyro the Dragon | 290718 | [290718-spyro-the-dragon.json](./290718-spyro-the-dragon.json) |
+| Squad | 9495 | [9495-squad.json](./9495-squad.json) |
 | Squad Battles: The Proud and the Few | 186303 | [186303-squad-battles-the-proud-and-the-few.json](./186303-squad-battles-the-proud-and-the-few.json) |
 | Squad Battles: Vietnam | 70966 | [70966-squad-battles-vietnam.json](./70966-squad-battles-vietnam.json) |
 | Squad Busters vs Zombies | 237637 | [237637-squad-busters-vs-zombies.json](./237637-squad-busters-vs-zombies.json) |
@@ -1969,6 +1975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SRB2 Heroes | 326954 | [326954-srb2-heroes.json](./326954-srb2-heroes.json) |
 | SRS: Street Racing Syndicate | 49382 | [49382-srs-street-racing-syndicate.json](./49382-srs-street-racing-syndicate.json) |
 | Sssnakes | 84896 | [84896-sssnakes.json](./84896-sssnakes.json) |
+| SSX 3 | 4174 | [4174-ssx-3.json](./4174-ssx-3.json) |
 | ST World | 269857 | [269857-st-world.json](./269857-st-world.json) |
 | Stabfish 2 | 200190 | [200190-stabfish-2.json](./200190-stabfish-2.json) |
 | Stable Masters | 206975 | [206975-stable-masters.json](./206975-stable-masters.json) |
@@ -2043,6 +2050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars | 212479 | [212479-star-wars.json](./212479-star-wars.json) |
 | Star Wars Battlefront: Hoth Bundle | 115714 | [115714-star-wars-battlefront-hoth-bundle.json](./115714-star-wars-battlefront-hoth-bundle.json) |
 | Star Wars Challenge | 86087 | [86087-star-wars-challenge.json](./86087-star-wars-challenge.json) |
+| Star Wars Episode I: The Phantom Menace | 158 | [158-star-wars-episode-i-the-phantom-menace.json](./158-star-wars-episode-i-the-phantom-menace.json) |
 | Star Wars Outlaws: Cartel Ronin Bundle | 325857 | [325857-star-wars-outlaws-cartel-ronin-bundle.json](./325857-star-wars-outlaws-cartel-ronin-bundle.json) |
 | Star Wars Outlaws: Forest Commando Pack | 325856 | [325856-star-wars-outlaws-forest-commando-pack.json](./325856-star-wars-outlaws-forest-commando-pack.json) |
 | Star Wars Outlaws: Hunter's Legacy Bundle | 325858 | [325858-star-wars-outlaws-hunters-legacy-bundle.json](./325858-star-wars-outlaws-hunters-legacy-bundle.json) |
@@ -2493,6 +2501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Devils | 295549 | [295549-sunset-devils.json](./295549-sunset-devils.json) |
 | Sunset Giant | 114391 | [114391-sunset-giant.json](./114391-sunset-giant.json) |
 | Sunset Irreligion | 325252 | [325252-sunset-irreligion.json](./325252-sunset-irreligion.json) |
+| Sunset Riders | 4370 | [4370-sunset-riders.json](./4370-sunset-riders.json) |
 | Sunset Studio | 145012 | [145012-sunset-studio.json](./145012-sunset-studio.json) |
 | Sunshine Acres | 25002 | [25002-sunshine-acres.json](./25002-sunshine-acres.json) |
 | Sunshine Island | 237647 | [237647-sunshine-island.json](./237647-sunshine-island.json) |
