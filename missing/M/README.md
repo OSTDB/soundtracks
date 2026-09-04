@@ -789,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metori | 107864 | [107864-metori.json](./107864-metori.json) |
 | Metric Racer | 133427 | [133427-metric-racer.json](./133427-metric-racer.json) |
 | Metro Blossom | 203519 | [203519-metro-blossom.json](./203519-metro-blossom.json) |
+| Metro Exodus: Sam's Story | 121756 | [121756-metro-exodus-sams-story.json](./121756-metro-exodus-sams-story.json) |
 | Metro Survival: Zombie Hunter | 174873 | [174873-metro-survival-zombie-hunter.json](./174873-metro-survival-zombie-hunter.json) |
 | Metro-Police | 19586 | [19586-metro-police.json](./19586-metro-police.json) |
 | Metrogether | 326385 | [326385-metrogether.json](./326385-metrogether.json) |
@@ -1299,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Rise: Title Update 3 | 252381 | [252381-monster-hunter-rise-title-update-3.json](./252381-monster-hunter-rise-title-update-3.json) |
 | Monster Hunter Rise: Title Update 4 | 252382 | [252382-monster-hunter-rise-title-update-4.json](./252382-monster-hunter-rise-title-update-4.json) |
 | Monster Hunter Rise: Title Update 5 | 252383 | [252383-monster-hunter-rise-title-update-5.json](./252383-monster-hunter-rise-title-update-5.json) |
+| Monster Hunter Stories 2: Wings of Ruin | 138951 | [138951-monster-hunter-stories-2-wings-of-ruin.json](./138951-monster-hunter-stories-2-wings-of-ruin.json) |
 | Monster Hunter: Poogie Race | 313482 | [313482-monster-hunter-poogie-race.json](./313482-monster-hunter-poogie-race.json) |
 | Monster Hunter: World - Digital Deluxe Edition | 81354 | [81354-monster-hunter-world-digital-deluxe-edition.json](./81354-monster-hunter-world-digital-deluxe-edition.json) |
 | Monster Hunter: World - Steelbook Edition | 81355 | [81355-monster-hunter-world-steelbook-edition.json](./81355-monster-hunter-world-steelbook-edition.json) |
@@ -1321,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Ops 4 | 341335 | [341335-monster-ops-4.json](./341335-monster-ops-4.json) |
 | Monster Pet Shop | 242787 | [242787-monster-pet-shop.json](./242787-monster-pet-shop.json) |
 | Monster Phenomenon | 192982 | [192982-monster-phenomenon.json](./192982-monster-phenomenon.json) |
+| Monster Prom | 69483 | [69483-monster-prom.json](./69483-monster-prom.json) |
 | Monster Prom 4: Monster Con | 307329 | [307329-monster-prom-4-monster-con.json](./307329-monster-prom-4-monster-con.json) |
 | Monster Rescue | 188104 | [188104-monster-rescue.json](./188104-monster-rescue.json) |
 | Monster Shooter | 290700 | [290700-monster-shooter.json](./290700-monster-shooter.json) |
