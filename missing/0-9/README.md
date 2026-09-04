@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7Swordsman | 197394 | [197394-7swordsman.json](./197394-7swordsman.json) |
 | 7th Chance | 152897 | [152897-7th-chance.json](./152897-7th-chance.json) |
 | 8 Ball Goal | 316437 | [316437-8-ball-goal.json](./316437-8-ball-goal.json) |
+| 8 Ball Pool | 39185 | [39185-8-ball-pool.json](./39185-8-ball-pool.json) |
 | 8 Bit Armies: Limited Edition | 185707 | [185707-8-bit-armies-limited-edition.json](./185707-8-bit-armies-limited-edition.json) |
 | 8 Queens | 112358 | [112358-8-queens.json](./112358-8-queens.json) |
 | 80.08 | 54444 | [54444-80-08.json](./54444-80-08.json) |
