@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Cats | 332805 | [332805-dancing-cats.json](./332805-dancing-cats.json) |
 | Dancing Dreamer | 148566 | [148566-dancing-dreamer.json](./148566-dancing-dreamer.json) |
 | Dancing Hair: Music Race 3D | 212455 | [212455-dancing-hair-music-race-3d.json](./212455-dancing-hair-music-race-3d.json) |
+| Dancing Hut | 26632 | [26632-dancing-hut.json](./26632-dancing-hut.json) |
 | DancingReaper | 140580 | [140580-dancingreaper.json](./140580-dancingreaper.json) |
 | Dandara | 296666 | [296666-dandara.json](./296666-dandara.json) |
 | Dandy: Or a Brief Glimpse Into the Life of the Candy Alchemist | 59985 | [59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json](./59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json) |
@@ -94,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa: Antebellum | 333929 | [333929-danganronpa-antebellum.json](./333929-danganronpa-antebellum.json) |
 | Danganronpa: Antebellum - Lockdown | 333932 | [333932-danganronpa-antebellum-lockdown.json](./333932-danganronpa-antebellum-lockdown.json) |
 | Danganronpa: Eternal Endings | 304347 | [304347-danganronpa-eternal-endings.json](./304347-danganronpa-eternal-endings.json) |
+| Danger Bounce | 26607 | [26607-danger-bounce.json](./26607-danger-bounce.json) |
 | Danger Close! | 76658 | [76658-danger-close.json](./76658-danger-close.json) |
 | Danger Course VR | 124231 | [124231-danger-course-vr.json](./124231-danger-course-vr.json) |
 | Danger, Bob-omb! Danger!: Handle with Care | 322377 | [322377-danger-bob-omb-danger-handle-with-care.json](./322377-danger-bob-omb-danger-handle-with-care.json) |
@@ -452,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deluxe Galaga | 39026 | [39026-deluxe-galaga.json](./39026-deluxe-galaga.json) |
 | Deluxe Scrabble for Windows | 78722 | [78722-deluxe-scrabble-for-windows.json](./78722-deluxe-scrabble-for-windows.json) |
 | Deluxe Trivial Pursuit | 265974 | [265974-deluxe-trivial-pursuit.json](./265974-deluxe-trivial-pursuit.json) |
+| Delve Deeper: Gratis Grottos | 26640 | [26640-delve-deeper-gratis-grottos.json](./26640-delve-deeper-gratis-grottos.json) |
 | DEM_Stage_Zero | 127369 | [127369-dem-stage-zero.json](./127369-dem-stage-zero.json) |
 | Demetrios: The Big Cynical Adventure - Replastered | 194005 | [194005-demetrios-the-big-cynical-adventure-replastered.json](./194005-demetrios-the-big-cynical-adventure-replastered.json) |
 | Demetrios: The Big Cynical Adventure & Xenon Valkyrie+ | 145053 | [145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json](./145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json) |
@@ -605,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil World | 55212 | [55212-devil-world.json](./55212-devil-world.json) |
 | Devil Zone | 300401 | [300401-devil-zone.json](./300401-devil-zone.json) |
 | Devil_catching_bees | 119012 | [119012-devil-catching-bees.json](./119012-devil-catching-bees.json) |
+| Devil's Affliction | 26681 | [26681-devils-affliction.json](./26681-devils-affliction.json) |
 | Devil's Revenge | 69855 | [69855-devils-revenge.json](./69855-devils-revenge.json) |
 | Devil's Third Online | 59988 | [59988-devils-third-online.json](./59988-devils-third-online.json) |
 | Devil's Tuning Fork | 67304 | [67304-devils-tuning-fork.json](./67304-devils-tuning-fork.json) |
@@ -622,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diabetor & The Sugar Monsters | 278736 | [278736-diabetor-and-the-sugar-monsters.json](./278736-diabetor-and-the-sugar-monsters.json) |
 | Diablo II: Resurrected - Prime Evil Collection | 155099 | [155099-diablo-ii-resurrected-prime-evil-collection.json](./155099-diablo-ii-resurrected-prime-evil-collection.json) |
 | Diablo IV: Vessel of Hatred - Expansion Bundle | 305496 | [305496-diablo-iv-vessel-of-hatred-expansion-bundle.json](./305496-diablo-iv-vessel-of-hatred-expansion-bundle.json) |
+| Dialogue: A Writer's Story | 26706 | [26706-dialogue-a-writers-story.json](./26706-dialogue-a-writers-story.json) |
 | Diamond | 35826 | [35826-diamond.json](./35826-diamond.json) |
 | Diamond Dash | 72688 | [72688-diamond-dash.json](./72688-diamond-dash.json) |
 | Diamond Girl: An Earnest Education in Love | 147996 | [147996-diamond-girl-an-earnest-education-in-love.json](./147996-diamond-girl-an-earnest-education-in-love.json) |
@@ -855,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: An Unlikely Heist | 245024 | [245024-doctor-who-an-unlikely-heist.json](./245024-doctor-who-an-unlikely-heist.json) |
 | Doctor Who: Dalek Break-Out | 249447 | [249447-doctor-who-dalek-break-out.json](./249447-doctor-who-dalek-break-out.json) |
 | Doctor Who: Doctor In A Dash | 249464 | [249464-doctor-who-doctor-in-a-dash.json](./249464-doctor-who-doctor-in-a-dash.json) |
+| Doctor Who: The Adventure Games - Episode 1: City of the Daleks | 26655 | [26655-doctor-who-the-adventure-games-episode-1-city-of-the-daleks.json](./26655-doctor-who-the-adventure-games-episode-1-city-of-the-daleks.json) |
 | Doctor Who: The First Adventure | 66678 | [66678-doctor-who-the-first-adventure.json](./66678-doctor-who-the-first-adventure.json) |
 | Doctor Who: Thirteen | 240494 | [240494-doctor-who-thirteen.json](./240494-doctor-who-thirteen.json) |
 | Dodge | 177542 | [177542-dodge.json](./177542-dodge.json) |
