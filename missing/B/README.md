@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrel Blast | 172186 | [172186-barrel-blast.json](./172186-barrel-blast.json) |
 | Barrel-Blastapalooza | 231643 | [231643-barrel-blastapalooza.json](./231643-barrel-blastapalooza.json) |
 | Barrels Up | 75181 | [75181-barrels-up.json](./75181-barrels-up.json) |
+| Barro 2020 | 123866 | [123866-barro-2020.json](./123866-barro-2020.json) |
 | Barro GT: Pack #1 | 298338 | [298338-barro-gt-pack-1.json](./298338-barro-gt-pack-1.json) |
 | Barro Racing | 156139 | [156139-barro-racing.json](./156139-barro-racing.json) |
 | Barro T23: Pack #1 | 298339 | [298339-barro-t23-pack-1.json](./298339-barro-t23-pack-1.json) |
@@ -1211,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book End | 221419 | [221419-book-end.json](./221419-book-end.json) |
 | Book of Mario | 159321 | [159321-book-of-mario.json](./159321-book-of-mario.json) |
 | Book of Mario: Thousands of Doors | 159323 | [159323-book-of-mario-thousands-of-doors.json](./159323-book-of-mario-thousands-of-doors.json) |
+| Bookbound Brigade | 121218 | [121218-bookbound-brigade.json](./121218-bookbound-brigade.json) |
 | Bookers: Underground Chapter | 104085 | [104085-bookers-underground-chapter.json](./104085-bookers-underground-chapter.json) |
 | Bookey Manor | 333915 | [333915-bookey-manor.json](./333915-bookey-manor.json) |
 | Boolean | 129217 | [129217-boolean.json](./129217-boolean.json) |
