@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ledoliel | 128629 | [128629-ledoliel.json](./128629-ledoliel.json) |
 | Left Alive: Day One Edition | 119066 | [119066-left-alive-day-one-edition.json](./119066-left-alive-day-one-edition.json) |
 | Left Alive: Mech Edition | 111022 | [111022-left-alive-mech-edition.json](./111022-left-alive-mech-edition.json) |
+| Left in the Dark: No One on Board | 17144 | [17144-left-in-the-dark-no-one-on-board.json](./17144-left-in-the-dark-no-one-on-board.json) |
 | Left Stranded | 195199 | [195199-left-stranded.json](./195199-left-stranded.json) |
 | Left to Survive | 106608 | [106608-left-to-survive.json](./106608-left-to-survive.json) |
 | Left. | 265979 | [265979-left.json](./265979-left.json) |
@@ -363,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 9: Version Espanola | 268200 | [268200-lets-sing-9-version-espanola.json](./268200-lets-sing-9-version-espanola.json) |
 | Let's Sing: Radio Italia | 268190 | [268190-lets-sing-radio-italia.json](./268190-lets-sing-radio-italia.json) |
 | Let's Worm | 115686 | [115686-lets-worm.json](./115686-lets-worm.json) |
+| Let's! Revolution! | 242101 | [242101-lets-revolution.json](./242101-lets-revolution.json) |
 | Let's! Splat! Machigai Sagashi | 222528 | [222528-lets-splat-machigai-sagashi.json](./222528-lets-splat-machigai-sagashi.json) |
 | Lethal Application | 256555 | [256555-lethal-application.json](./256555-lethal-application.json) |
 | Lethal Beach | 267109 | [267109-lethal-beach.json](./267109-lethal-beach.json) |
