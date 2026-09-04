@@ -549,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Skys | 340763 | [340763-iron-skys.json](./340763-iron-skys.json) |
 | Iron Soldier | 22460 | [22460-iron-soldier.json](./22460-iron-soldier.json) |
 | Ironclads 2: Caroline Islands War 1885 | 51941 | [51941-ironclads-2-caroline-islands-war-1885.json](./51941-ironclads-2-caroline-islands-war-1885.json) |
+| IronFall: Invasion | 8610 | [8610-ironfall-invasion.json](./8610-ironfall-invasion.json) |
 | Ironpants | 62198 | [62198-ironpants.json](./62198-ironpants.json) |
 | IronSaga | 23904 | [23904-ironsaga.json](./23904-ironsaga.json) |
 | IronStorm - World War Zero | 44641 | [44641-ironstorm-world-war-zero.json](./44641-ironstorm-world-war-zero.json) |
