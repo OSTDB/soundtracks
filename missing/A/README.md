@@ -440,6 +440,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Goblins | 265403 | [265403-age-of-goblins.json](./265403-age-of-goblins.json) |
 | Age of Grit | 61074 | [61074-age-of-grit.json](./61074-age-of-grit.json) |
 | Age of Ottoman | 200739 | [200739-age-of-ottoman.json](./200739-age-of-ottoman.json) |
+| Age of Sail | 9430 | [9430-age-of-sail.json](./9430-age-of-sail.json) |
+| Age of Sail II | 9428 | [9428-age-of-sail-ii.json](./9428-age-of-sail-ii.json) |
+| Age of Sail II: Privateer's Bounty | 9429 | [9429-age-of-sail-ii-privateers-bounty.json](./9429-age-of-sail-ii-privateers-bounty.json) |
 | Age of Solitaire | 115051 | [115051-age-of-solitaire.json](./115051-age-of-solitaire.json) |
 | Age of Solitaire: Build Civilization | 211422 | [211422-age-of-solitaire-build-civilization.json](./211422-age-of-solitaire-build-civilization.json) |
 | Age of Trades | 176477 | [176477-age-of-trades.json](./176477-age-of-trades.json) |
@@ -465,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agony: Lords of Hell | 211421 | [211421-agony-lords-of-hell.json](./211421-agony-lords-of-hell.json) |
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
 | Agri-Tycoon | 217031 | [217031-agri-tycoon.json](./217031-agri-tycoon.json) |
+| Agricultural Simulator 2011 | 9537 | [9537-agricultural-simulator-2011.json](./9537-agricultural-simulator-2011.json) |
 | Agriculture | 252389 | [252389-agriculture.json](./252389-agriculture.json) |
 | Agrou | 133456 | [133456-agrou.json](./133456-agrou.json) |
 | Aground Zero | 211418 | [211418-aground-zero.json](./211418-aground-zero.json) |
@@ -973,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anonymous ME | 68670 | [68670-anonymous-me.json](./68670-anonymous-me.json) |
 | Anonymous Messages | 262649 | [262649-anonymous-messages.json](./262649-anonymous-messages.json) |
 | Another Boss Battle Test | 214716 | [214716-another-boss-battle-test.json](./214716-another-boss-battle-test.json) |
+| Another Century's Episode | 9566 | [9566-another-centurys-episode.json](./9566-another-centurys-episode.json) |
 | Another Day | 254143 | [254143-another-day.json](./254143-another-day.json) |
 | Another Day of Chikan! Vol7 Cool Beauty Schoolgirl in a Band | 82931 | [82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json](./82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json) |
 | Another Farm Roguelike | 214201 | [214201-another-farm-roguelike.json](./214201-another-farm-roguelike.json) |
@@ -1374,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault on Port Stanley | 12981 | [12981-assault-on-port-stanley.json](./12981-assault-on-port-stanley.json) |
 | Assault Rei Play | 109004 | [109004-assault-rei-play.json](./109004-assault-rei-play.json) |
 | Assault Spy: Elite Spy Edition | 124831 | [124831-assault-spy-elite-spy-edition.json](./124831-assault-spy-elite-spy-edition.json) |
+| AssaultCube | 9530 | [9530-assaultcube.json](./9530-assaultcube.json) |
 | Assembly Line 2: Mobile Version | 277015 | [277015-assembly-line-2-mobile-version.json](./277015-assembly-line-2-mobile-version.json) |
 | Assetto Corsa Competizione: 2020 GT World Challenge Pack | 168372 | [168372-assetto-corsa-competizione-2020-gt-world-challenge-pack.json](./168372-assetto-corsa-competizione-2020-gt-world-challenge-pack.json) |
 | Assetto Corsa Competizione: American Track Pack | 208627 | [208627-assetto-corsa-competizione-american-track-pack.json](./208627-assetto-corsa-competizione-american-track-pack.json) |
@@ -1494,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
 | Atlantic Quest | 85504 | [85504-atlantic-quest.json](./85504-atlantic-quest.json) |
 | Atlantic Rim | 180827 | [180827-atlantic-rim.json](./180827-atlantic-rim.json) |
+| Atlantica Online | 9522 | [9522-atlantica-online.json](./9522-atlantica-online.json) |
 | Atlantis II | 40779 | [40779-atlantis-ii.json](./40779-atlantis-ii.json) |
 | Atlantis-6 | 147472 | [147472-atlantis-6.json](./147472-atlantis-6.json) |
 | Atlas Architect | 157191 | [157191-atlas-architect.json](./157191-atlas-architect.json) |
