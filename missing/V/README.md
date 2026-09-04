@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valfaris: Digital Deluxe Edition | 154523 | [154523-valfaris-digital-deluxe-edition.json](./154523-valfaris-digital-deluxe-edition.json) |
 | Valfaris: Mecha Therion | 211760 | [211760-valfaris-mecha-therion.json](./211760-valfaris-mecha-therion.json) |
 | Valgrave: Immortal Plains | 122395 | [122395-valgrave-immortal-plains.json](./122395-valgrave-immortal-plains.json) |
+| Valhalla | 23053 | [23053-valhalla.json](./23053-valhalla.json) |
 | Valhalla Hills: Sand of the Damned | 171639 | [171639-valhalla-hills-sand-of-the-damned.json](./171639-valhalla-hills-sand-of-the-damned.json) |
 | Valhalla: Awakening of Valkyrie | 214200 | [214200-valhalla-awakening-of-valkyrie.json](./214200-valhalla-awakening-of-valkyrie.json) |
 | Valhyre: The Aftermath | 67293 | [67293-valhyre-the-aftermath.json](./67293-valhyre-the-aftermath.json) |
