@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GetClose | 61658 | [61658-getclose.json](./61658-getclose.json) |
 | Getsuei no Kusari: Kyouran Moratoriamu | 136449 | [136449-getsuei-no-kusari-kyouran-moratoriamu.json](./136449-getsuei-no-kusari-kyouran-moratoriamu.json) |
 | Getsuei no Kusari: Sakuran Paranoia | 136448 | [136448-getsuei-no-kusari-sakuran-paranoia.json](./136448-getsuei-no-kusari-sakuran-paranoia.json) |
+| Getter Love!!: Chou Renai Party Game Tanjou | 3504 | [3504-getter-love-chou-renai-party-game-tanjou.json](./3504-getter-love-chou-renai-party-game-tanjou.json) |
 | Gex 3: Deep Pocket Gecko | 49929 | [49929-gex-3-deep-pocket-gecko.json](./49929-gex-3-deep-pocket-gecko.json) |
 | GF Becomes SexCare Manager of Baseball Club: Cucked In Sportsmen's Sex | 98451 | [98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json](./98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json) |
 | Ghaib | 117767 | [117767-ghaib.json](./117767-ghaib.json) |
@@ -513,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla: Archipelago Shock | 75891 | [75891-godzilla-archipelago-shock.json](./75891-godzilla-archipelago-shock.json) |
 | Godzilla: Doki-doki Kaijuu-tou!! | 75890 | [75890-godzilla-doki-doki-kaijuu-tou.json](./75890-godzilla-doki-doki-kaijuu-tou.json) |
 | Godzilla: The Series | 75893 | [75893-godzilla-the-series.json](./75893-godzilla-the-series.json) |
+| Goemon: Mononoke Sugoroku | 3507 | [3507-goemon-mononoke-sugoroku.json](./3507-goemon-mononoke-sugoroku.json) |
 | Goetia: The Infinite Tower | 222511 | [222511-goetia-the-infinite-tower.json](./222511-goetia-the-infinite-tower.json) |
 | GoetiaX | 145665 | [145665-goetiax.json](./145665-goetiax.json) |
 | GoGo Sentai Boukenger Kazu to Katachi wo Oboeyou! | 327590 | [327590-gogo-sentai-boukenger-kazu-to-katachi-wo-oboeyou.json](./327590-gogo-sentai-boukenger-kazu-to-katachi-wo-oboeyou.json) |
