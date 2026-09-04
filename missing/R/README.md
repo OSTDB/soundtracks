@@ -1045,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll the Dark Heart | 251850 | [251850-roll-the-dark-heart.json](./251850-roll-the-dark-heart.json) |
 | Roll Turtle | 208577 | [208577-roll-turtle.json](./208577-roll-turtle.json) |
 | Rollerball | 298843 | [298843-rollerball.json](./298843-rollerball.json) |
+| RollerCoaster Legends II: Thor's Hammer | 102340 | [102340-rollercoaster-legends-ii-thors-hammer.json](./102340-rollercoaster-legends-ii-thors-hammer.json) |
 | RollerCoaster Tycoon Joyride | 99460 | [99460-rollercoaster-tycoon-joyride.json](./99460-rollercoaster-tycoon-joyride.json) |
 | Rollergames | 138793 | [138793-rollergames.json](./138793-rollergames.json) |
 | RollerPlay | 121017 | [121017-rollerplay.json](./121017-rollerplay.json) |
