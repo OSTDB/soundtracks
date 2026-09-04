@@ -456,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Man: Jump | 99605 | [99605-eternal-man-jump.json](./99605-eternal-man-jump.json) |
 | Eternal of Swordsman | 194033 | [194033-eternal-of-swordsman.json](./194033-eternal-of-swordsman.json) |
 | Eternal Quest | 43353 | [43353-eternal-quest.json](./43353-eternal-quest.json) |
+| Eternal Return | 135842 | [135842-eternal-return.json](./135842-eternal-return.json) |
 | Eternal Saga | 62762 | [62762-eternal-saga.json](./62762-eternal-saga.json) |
 | Eternal Seas | 236509 | [236509-eternal-seas.json](./236509-eternal-seas.json) |
 | Eternal Supreme | 210881 | [210881-eternal-supreme.json](./210881-eternal-supreme.json) |
