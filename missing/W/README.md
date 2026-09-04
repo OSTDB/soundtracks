@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K25: Deadman Edition | 335095 | [335095-wwe-2k25-deadman-edition.json](./335095-wwe-2k25-deadman-edition.json) |
 | WWE 2K25: The Bloodline Edition | 335096 | [335096-wwe-2k25-the-bloodline-edition.json](./335096-wwe-2k25-the-bloodline-edition.json) |
 | WWF Attitude | 3643 | [3643-wwf-attitude.json](./3643-wwf-attitude.json) |
+| WWF WrestleMania: The Arcade Game | 4546 | [4546-wwf-wrestlemania-the-arcade-game.json](./4546-wwf-wrestlemania-the-arcade-game.json) |
 | WWI: Aces of the Sky | 9392 | [9392-wwi-aces-of-the-sky.json](./9392-wwi-aces-of-the-sky.json) |
 | WWI: The Great War | 71540 | [71540-wwi-the-great-war.json](./71540-wwi-the-great-war.json) |
 | WWII Eiyuu Retsuden: Saikyou no Tora - Kurt Knispel | 91407 | [91407-wwii-eiyuu-retsuden-saikyou-no-tora-kurt-knispel.json](./91407-wwii-eiyuu-retsuden-saikyou-no-tora-kurt-knispel.json) |
