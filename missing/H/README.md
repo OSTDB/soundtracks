@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest | 229365 | [229365-harvest.json](./229365-harvest.json) |
 | Harvest Island: Beginnings | 159878 | [159878-harvest-island-beginnings.json](./159878-harvest-island-beginnings.json) |
 | Harvest Master | 320522 | [320522-harvest-master.json](./320522-harvest-master.json) |
+| Harvest Moon: Back to Nature | 3380 | [3380-harvest-moon-back-to-nature.json](./3380-harvest-moon-back-to-nature.json) |
 | Harvest Moon: One World Bundle | 173798 | [173798-harvest-moon-one-world-bundle.json](./173798-harvest-moon-one-world-bundle.json) |
 | Harvest Them | 239295 | [239295-harvest-them.json](./239295-harvest-them.json) |
 | Harvest Uranus | 244514 | [244514-harvest-uranus.json](./244514-harvest-uranus.json) |
