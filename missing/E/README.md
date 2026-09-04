@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.T. the Extra-Terrestrial: Return to the Green Planet | 201276 | [201276-e-t-the-extra-terrestrial-return-to-the-green-planet.json](./201276-e-t-the-extra-terrestrial-return-to-the-green-planet.json) |
 | E.T. the Extra-Terrestrial: Venrom's Assault | 238198 | [238198-e-t-the-extra-terrestrial-venroms-assault.json](./238198-e-t-the-extra-terrestrial-venroms-assault.json) |
 | E.T.: The Extra-Terrestrial - Escape from Planet Earth | 49937 | [49937-e-t-the-extra-terrestrial-escape-from-planet-earth.json](./49937-e-t-the-extra-terrestrial-escape-from-planet-earth.json) |
+| E.T.: The Extra-Terrestrial - Interplanetary Mission | 44985 | [44985-e-t-the-extra-terrestrial-interplanetary-mission.json](./44985-e-t-the-extra-terrestrial-interplanetary-mission.json) |
 | E.T.: The Extra-Terrestrial - Search for Dragora | 201277 | [201277-e-t-the-extra-terrestrial-search-for-dragora.json](./201277-e-t-the-extra-terrestrial-search-for-dragora.json) |
 | E.T.: The Extra-Terrestrial and the Cosmic Garden | 49936 | [49936-e-t-the-extra-terrestrial-and-the-cosmic-garden.json](./49936-e-t-the-extra-terrestrial-and-the-cosmic-garden.json) |
 | E.V.O.: Search for Eden | 6979 | [6979-e-v-o-search-for-eden.json](./6979-e-v-o-search-for-eden.json) |
@@ -101,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ECW Hardcore Revolution | 3483 | [3483-ecw-hardcore-revolution.json](./3483-ecw-hardcore-revolution.json) |
 | Ed Chess | 93042 | [93042-ed-chess.json](./93042-ed-chess.json) |
 | Eddie's World | 250037 | [250037-eddies-world.json](./250037-eddies-world.json) |
+| Eden Eternal | 46995 | [46995-eden-eternal.json](./46995-eden-eternal.json) |
 | Eden: A Genesis Through Time | 290722 | [290722-eden-a-genesis-through-time.json](./290722-eden-a-genesis-through-time.json) |
 | Eden.schemata(); | 151707 | [151707-eden-schemata.json](./151707-eden-schemata.json) |
 | Eden's Last Sunrise | 190187 | [190187-edens-last-sunrise.json](./190187-edens-last-sunrise.json) |
@@ -185,7 +187,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Angel II | 192420 | [192420-elemental-angel-ii.json](./192420-elemental-angel-ii.json) |
 | Elemental Empire | 297816 | [297816-elemental-empire.json](./297816-elemental-empire.json) |
 | Elemental Gelade: Tozasareshi Uta | 49413 | [49413-elemental-gelade-tozasareshi-uta.json](./49413-elemental-gelade-tozasareshi-uta.json) |
+| Elemental Gimmick Gear | 45862 | [45862-elemental-gimmick-gear.json](./45862-elemental-gimmick-gear.json) |
 | Elemental Mage Defense | 269269 | [269269-elemental-mage-defense.json](./269269-elemental-mage-defense.json) |
+| Elemental Master | 46218 | [46218-elemental-master.json](./46218-elemental-master.json) |
 | Elemental Ninja | 61119 | [61119-elemental-ninja.json](./61119-elemental-ninja.json) |
 | Elemental Raiders | 231614 | [231614-elemental-raiders.json](./231614-elemental-raiders.json) |
 | Elemental World | 208039 | [208039-elemental-world.json](./208039-elemental-world.json) |
