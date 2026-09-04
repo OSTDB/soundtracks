@@ -1313,6 +1313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Forward | 295553 | [295553-monkey-forward.json](./295553-monkey-forward.json) |
 | Monkey Island 2 Special Edition: LeChuck's Revenge | 66 | [66-monkey-island-2-special-edition-lechucks-revenge.json](./66-monkey-island-2-special-edition-lechucks-revenge.json) |
 | Monkey King vs Transformers | 156160 | [156160-monkey-king-vs-transformers.json](./156160-monkey-king-vs-transformers.json) |
+| Monkey Magic | 45220 | [45220-monkey-magic.json](./45220-monkey-magic.json) |
 | Monkey Split | 142450 | [142450-monkey-split.json](./142450-monkey-split.json) |
 | Monkeys to the Moon | 57097 | [57097-monkeys-to-the-moon.json](./57097-monkeys-to-the-moon.json) |
 | Monmusu Gladiator | 151749 | [151749-monmusu-gladiator.json](./151749-monmusu-gladiator.json) |
@@ -1495,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 11: The Joker | 128009 | [128009-mortal-kombat-11-the-joker.json](./128009-mortal-kombat-11-the-joker.json) |
 | Mortal Kombat 3 | 242251 | [242251-mortal-kombat-3.json](./242251-mortal-kombat-3.json) |
 | Mortal Kombat 3 | 242252 | [242252-mortal-kombat-3.json](./242252-mortal-kombat-3.json) |
+| Mortal Kombat Advance | 45156 | [45156-mortal-kombat-advance.json](./45156-mortal-kombat-advance.json) |
 | Mortal Kombat Gold | 45155 | [45155-mortal-kombat-gold.json](./45155-mortal-kombat-gold.json) |
 | Mortal Kombat HD Arcade Kollection | 44618 | [44618-mortal-kombat-hd-arcade-kollection.json](./44618-mortal-kombat-hd-arcade-kollection.json) |
 | Mortal Kombat II | 242249 | [242249-mortal-kombat-ii.json](./242249-mortal-kombat-ii.json) |
