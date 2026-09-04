@@ -481,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildwood: Graveyard Defense | 217539 | [217539-wildwood-graveyard-defense.json](./217539-wildwood-graveyard-defense.json) |
 | Will Hero | 92116 | [92116-will-hero.json](./92116-will-hero.json) |
 | Will it Crush? | 102785 | [102785-will-it-crush.json](./102785-will-it-crush.json) |
+| William Shatner's TekWar | 8686 | [8686-william-shatners-tekwar.json](./8686-william-shatners-tekwar.json) |
 | Williams Arcade's Greatest Hits | 20713 | [20713-williams-arcades-greatest-hits.json](./20713-williams-arcades-greatest-hits.json) |
 | Willo | 179746 | [179746-willo.json](./179746-willo.json) |
 | Wilmot's Warehouse | 77494 | [77494-wilmots-warehouse.json](./77494-wilmots-warehouse.json) |
@@ -516,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WingMan | 216484 | [216484-wingman.json](./216484-wingman.json) |
 | Wings 1941 | 203571 | [203571-wings-1941.json](./203571-wings-1941.json) |
 | Wings of Magloryx | 85492 | [85492-wings-of-magloryx.json](./85492-wings-of-magloryx.json) |
+| Wings! Remastered Edition | 8801 | [8801-wings-remastered-edition.json](./8801-wings-remastered-edition.json) |
 | Wingspan + European Expansion + Oceania Expansion | 275894 | [275894-wingspan-european-expansion-oceania-expansion.json](./275894-wingspan-european-expansion-oceania-expansion.json) |
 | Wingspan + European Expansion + Oceania Expansion + Seasonal Decorative Pack | 275895 | [275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json](./275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json) |
 | Winky Trap | 131582 | [131582-winky-trap.json](./131582-winky-trap.json) |
