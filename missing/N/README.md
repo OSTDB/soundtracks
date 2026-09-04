@@ -31,6 +31,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Name that Sonic Tune | 326960 | [326960-name-that-sonic-tune.json](./326960-name-that-sonic-tune.json) |
 | Nana-chan no Star Tanjou | 66131 | [66131-nana-chan-no-star-tanjou.json](./66131-nana-chan-no-star-tanjou.json) |
 | Nancy Drew: Danger on Deception Island | 10580 | [10580-nancy-drew-danger-on-deception-island.json](./10580-nancy-drew-danger-on-deception-island.json) |
+| Nancy Drew: Ransom of the Seven Ships | 29201 | [29201-nancy-drew-ransom-of-the-seven-ships.json](./29201-nancy-drew-ransom-of-the-seven-ships.json) |
+| Nancy Drew: Sea of Darkness | 29920 | [29920-nancy-drew-sea-of-darkness.json](./29920-nancy-drew-sea-of-darkness.json) |
 | Nancy Drew: Secret of the Scarlet Hand | 7625 | [7625-nancy-drew-secret-of-the-scarlet-hand.json](./7625-nancy-drew-secret-of-the-scarlet-hand.json) |
 | Nancy Drew: Shadow at the Water's Edge | 10583 | [10583-nancy-drew-shadow-at-the-waters-edge.json](./10583-nancy-drew-shadow-at-the-waters-edge.json) |
 | Nancy Drew: Stay Tuned for Danger | 7622 | [7622-nancy-drew-stay-tuned-for-danger.json](./7622-nancy-drew-stay-tuned-for-danger.json) |
@@ -313,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverputt | 51246 | [51246-neverputt.json](./51246-neverputt.json) |
 | Neversong | 133261 | [133261-neversong.json](./133261-neversong.json) |
 | NeverSynth | 225878 | [225878-neversynth.json](./225878-neversynth.json) |
+| Neverwinter Nights 2: Platinum | 28972 | [28972-neverwinter-nights-2-platinum.json](./28972-neverwinter-nights-2-platinum.json) |
 | Nevsky Titbit | 250597 | [250597-nevsky-titbit.json](./250597-nevsky-titbit.json) |
 | NEW Again Beauty | 106596 | [106596-new-again-beauty.json](./106596-new-again-beauty.json) |
 | New Atelier Rorona: The Alchemist of Arland | 82105 | [82105-new-atelier-rorona-the-alchemist-of-arland.json](./82105-new-atelier-rorona-the-alchemist-of-arland.json) |
