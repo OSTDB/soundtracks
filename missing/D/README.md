@@ -995,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomworld Roulette: Session 1 | 312908 | [312908-doomworld-roulette-session-1.json](./312908-doomworld-roulette-session-1.json) |
 | Doomworld Roulette: Session 2 | 312909 | [312909-doomworld-roulette-session-2.json](./312909-doomworld-roulette-session-2.json) |
 | Doon Snake | 87218 | [87218-doon-snake.json](./87218-doon-snake.json) |
+| Dooors VR | 29947 | [29947-dooors-vr.json](./29947-dooors-vr.json) |
 | Dooria | 158231 | [158231-dooria.json](./158231-dooria.json) |
 | Doors | 168388 | [168388-doors.json](./168388-doors.json) |
 | Doors and Doors | 244498 | [244498-doors-and-doors.json](./244498-doors-and-doors.json) |
@@ -1286,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk Fist | 180817 | [180817-drunk-fist.json](./180817-drunk-fist.json) |
 | Drunk Puppet | 110354 | [110354-drunk-puppet.json](./110354-drunk-puppet.json) |
 | Drunkard Quiz Show Hyoutan | 115684 | [115684-drunkard-quiz-show-hyoutan.json](./115684-drunkard-quiz-show-hyoutan.json) |
+| Drunken Fight Simulator | 29913 | [29913-drunken-fight-simulator.json](./29913-drunken-fight-simulator.json) |
 | Drunken Fist 2: Zombie Hangover | 203560 | [203560-drunken-fist-2-zombie-hangover.json](./203560-drunken-fist-2-zombie-hangover.json) |
 | Drunken Fist Totally Accurate Beat 'em up | 124272 | [124272-drunken-fist-totally-accurate-beat-em-up.json](./124272-drunken-fist-totally-accurate-beat-em-up.json) |
 | Druonio | 177013 | [177013-druonio.json](./177013-druonio.json) |
