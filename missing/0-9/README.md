@@ -335,6 +335,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 90 Second Portraits | 51220 | [51220-90-second-portraits.json](./51220-90-second-portraits.json) |
 | 90 Seconds | 259237 | [259237-90-seconds.json](./259237-90-seconds.json) |
 | 90s My Dear | 316438 | [316438-90s-my-dear.json](./316438-90s-my-dear.json) |
+| 94 Degrees: fun trivia quiz | 27787 | [27787-94-degrees-fun-trivia-quiz.json](./27787-94-degrees-fun-trivia-quiz.json) |
+| 94 Seconds: category word game | 27788 | [27788-94-seconds-category-word-game.json](./27788-94-seconds-category-word-game.json) |
+| 94% | 27784 | [27784-94.json](./27784-94.json) |
 | 99 Moves | 221991 | [221991-99-moves.json](./221991-99-moves.json) |
 | 99 Seconds | 221992 | [221992-99-seconds.json](./221992-99-seconds.json) |
 | 99.99% 3D: Fill the Ball | 232146 | [232146-99-99-3d-fill-the-ball.json](./232146-99-99-3d-fill-the-ball.json) |
