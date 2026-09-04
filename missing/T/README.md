@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chronicles of Riddick: Assault on Dark Athena | 433 | [433-the-chronicles-of-riddick-assault-on-dark-athena.json](./433-the-chronicles-of-riddick-assault-on-dark-athena.json) |
 | The Chronicles of Shakespeare: A Midsummer Night's Dream | 9401 | [9401-the-chronicles-of-shakespeare-a-midsummer-nights-dream.json](./9401-the-chronicles-of-shakespeare-a-midsummer-nights-dream.json) |
 | The Chrono Jotter | 157173 | [157173-the-chrono-jotter.json](./157173-the-chrono-jotter.json) |
+| The Church in the Darkness | 18113 | [18113-the-church-in-the-darkness.json](./18113-the-church-in-the-darkness.json) |
 | The Church of Cheesus Crisp: An All You Can Pray Buffet | 159364 | [159364-the-church-of-cheesus-crisp-an-all-you-can-pray-buffet.json](./159364-the-church-of-cheesus-crisp-an-all-you-can-pray-buffet.json) |
 | The Circulation of Shadows | 271462 | [271462-the-circulation-of-shadows.json](./271462-the-circulation-of-shadows.json) |
 | The Citadel | 58820 | [58820-the-citadel.json](./58820-the-citadel.json) |
@@ -1886,6 +1887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThrustMe Too | 333373 | [333373-thrustme-too.json](./333373-thrustme-too.json) |
 | Thukothea Defender | 159855 | [159855-thukothea-defender.json](./159855-thukothea-defender.json) |
 | Thumb Drift | 58840 | [58840-thumb-drift.json](./58840-thumb-drift.json) |
+| Thunder Blade | 12862 | [12862-thunder-blade.json](./12862-thunder-blade.json) |
 | Thunder Boy | 55186 | [55186-thunder-boy.json](./55186-thunder-boy.json) |
 | Thunder Dragon 2 | 40247 | [40247-thunder-dragon-2.json](./40247-thunder-dragon-2.json) |
 | Thunder Jumper | 268219 | [268219-thunder-jumper.json](./268219-thunder-jumper.json) |
