@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Male Me Dressed up and Was Loved | 82878 | [82878-a-male-me-dressed-up-and-was-loved.json](./82878-a-male-me-dressed-up-and-was-loved.json) |
 | A Mall Near You | 229968 | [229968-a-mall-near-you.json](./229968-a-mall-near-you.json) |
 | A man outside | 176501 | [176501-a-man-outside.json](./176501-a-man-outside.json) |
+| A Man with a Monocle | 25005 | [25005-a-man-with-a-monocle.json](./25005-a-man-with-a-monocle.json) |
 | A Matter of Time | 153414 | [153414-a-matter-of-time.json](./153414-a-matter-of-time.json) |
 | A Maze for Owls | 182517 | [182517-a-maze-for-owls.json](./182517-a-maze-for-owls.json) |
 | A Maze Fox | 187535 | [187535-a-maze-fox.json](./187535-a-maze-fox.json) |
@@ -897,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animaniacs Game Pack | 78028 | [78028-animaniacs-game-pack.json](./78028-animaniacs-game-pack.json) |
 | Animated Jigsaw Puzzles | 269286 | [269286-animated-jigsaw-puzzles.json](./269286-animated-jigsaw-puzzles.json) |
 | Animated Puzzles: Spooky Pack | 163420 | [163420-animated-puzzles-spooky-pack.json](./163420-animated-puzzles-spooky-pack.json) |
+| Anime Bowling Babes | 24997 | [24997-anime-bowling-babes.json](./24997-anime-bowling-babes.json) |
 | Anime Catgirl Runner | 224759 | [224759-anime-catgirl-runner.json](./224759-anime-catgirl-runner.json) |
 | Anime Freak FX Vol. 1 | 79350 | [79350-anime-freak-fx-vol-1.json](./79350-anime-freak-fx-vol-1.json) |
 | Anime Gacha! | 307275 | [307275-anime-gacha.json](./307275-anime-gacha.json) |
