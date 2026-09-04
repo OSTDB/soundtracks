@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samidare | 126040 | [126040-samidare.json](./126040-samidare.json) |
 | Sammi's Quest vol.1: The Wandering Ogres | 104628 | [104628-sammis-quest-vol-1-the-wandering-ogres.json](./104628-sammis-quest-vol-1-the-wandering-ogres.json) |
 | Sammy Lightfoot | 23885 | [23885-sammy-lightfoot.json](./23885-sammy-lightfoot.json) |
+| Samorost 1 | 148352 | [148352-samorost-1.json](./148352-samorost-1.json) |
 | Samorost 3 | 15537 | [15537-samorost-3.json](./15537-samorost-3.json) |
 | Samosbor 2D | 120986 | [120986-samosbor-2d.json](./120986-samosbor-2d.json) |
 | Samozbor ID:Heaven | 129231 | [129231-samozbor-id-heaven.json](./129231-samozbor-id-heaven.json) |
@@ -497,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seraphic Destroyer: Puzzles | 163419 | [163419-seraphic-destroyer-puzzles.json](./163419-seraphic-destroyer-puzzles.json) |
 | Serendipity Hotel | 190218 | [190218-serendipity-hotel.json](./190218-serendipity-hotel.json) |
 | Serene Asylum | 172740 | [172740-serene-asylum.json](./172740-serene-asylum.json) |
+| Serial Cleaner | 19450 | [19450-serial-cleaner.json](./19450-serial-cleaner.json) |
 | Serial Experiments Lain Bootleg | 245007 | [245007-serial-experiments-lain-bootleg.json](./245007-serial-experiments-lain-bootleg.json) |
 | Series Makers Tycoon | 173806 | [173806-series-makers-tycoon.json](./173806-series-makers-tycoon.json) |
 | Serious Breakdown | 191223 | [191223-serious-breakdown.json](./191223-serious-breakdown.json) |
@@ -718,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei III: Nocturne | 336392 | [336392-shin-megami-tensei-iii-nocturne.json](./336392-shin-megami-tensei-iii-nocturne.json) |
 | Shin Megami Tensei Vertex | 142491 | [142491-shin-megami-tensei-vertex.json](./142491-shin-megami-tensei-vertex.json) |
 | Shin Megami Tensei: 20XX Devil's Colosseum | 137685 | [137685-shin-megami-tensei-20xx-devils-colosseum.json](./137685-shin-megami-tensei-20xx-devils-colosseum.json) |
+| Shin Megami Tensei: Digital Devil Saga | 18227 | [18227-shin-megami-tensei-digital-devil-saga.json](./18227-shin-megami-tensei-digital-devil-saga.json) |
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
 | Shine's Adventures 2 (Zombie Attack) | 120372 | [120372-shines-adventures-2-zombie-attack.json](./120372-shines-adventures-2-zombie-attack.json) |
 | Shine's Adventures 5: World of Box | 127318 | [127318-shines-adventures-5-world-of-box.json](./127318-shines-adventures-5-world-of-box.json) |
@@ -1462,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Axiom | 325848 | [325848-sonic-axiom.json](./325848-sonic-axiom.json) |
 | Sonic Battle Rush | 266507 | [266507-sonic-battle-rush.json](./266507-sonic-battle-rush.json) |
 | Sonic Blaze | 330512 | [330512-sonic-blaze.json](./330512-sonic-blaze.json) |
+| Sonic CD | 86807 | [86807-sonic-cd.json](./86807-sonic-cd.json) |
 | Sonic CD++ | 198545 | [198545-sonic-cd.json](./198545-sonic-cd.json) |
 | Sonic Celerity | 336344 | [336344-sonic-celerity.json](./336344-sonic-celerity.json) |
 | Sonic Champions | 330527 | [330527-sonic-champions.json](./330527-sonic-champions.json) |
@@ -2739,6 +2743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Flashback | 134075 | [134075-super-mario-flashback.json](./134075-super-mario-flashback.json) |
 | Super Mario Kart NES | 250038 | [250038-super-mario-kart-nes.json](./250038-super-mario-kart-nes.json) |
 | Super Mario Kart Xtreme | 311285 | [311285-super-mario-kart-xtreme.json](./311285-super-mario-kart-xtreme.json) |
+| Super Mario Maker for Nintendo 3DS | 26157 | [26157-super-mario-maker-for-nintendo-3ds.json](./26157-super-mario-maker-for-nintendo-3ds.json) |
 | Super Mario Maker for Nspire | 262660 | [262660-super-mario-maker-for-nspire.json](./262660-super-mario-maker-for-nspire.json) |
 | Super Mario Odyssey Safari | 250042 | [250042-super-mario-odyssey-safari.json](./250042-super-mario-odyssey-safari.json) |
 | Super Mario Odyssey: Bon-Bones Mountain | 246625 | [246625-super-mario-odyssey-bon-bones-mountain.json](./246625-super-mario-odyssey-bon-bones-mountain.json) |
@@ -2894,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman: Man of Steel | 264862 | [264862-superman-man-of-steel.json](./264862-superman-man-of-steel.json) |
 | Superman: The Mysterious Mr. Mist | 73324 | [73324-superman-the-mysterious-mr-mist.json](./73324-superman-the-mysterious-mr-mist.json) |
 | Supermarket Manager | 218686 | [218686-supermarket-manager.json](./218686-supermarket-manager.json) |
+| Supermarket Together | 311540 | [311540-supermarket-together.json](./311540-supermarket-together.json) |
 | Supernatural Squad | 333395 | [333395-supernatural-squad.json](./333395-supernatural-squad.json) |
 | Supernatural Sweethearts | 206951 | [206951-supernatural-sweethearts.json](./206951-supernatural-sweethearts.json) |
 | Supernormal | 278716 | [278716-supernormal.json](./278716-supernormal.json) |
