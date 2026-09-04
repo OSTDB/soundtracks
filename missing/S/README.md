@@ -914,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Castle | 212491 | [212491-silent-castle.json](./212491-silent-castle.json) |
 | Silent Hill 2: Deluxe Edition | 303813 | [303813-silent-hill-2-deluxe-edition.json](./303813-silent-hill-2-deluxe-edition.json) |
 | Silent Hill 3 | 222486 | [222486-silent-hill-3.json](./222486-silent-hill-3.json) |
+| Silent Hunter III | 870 | [870-silent-hunter-iii.json](./870-silent-hunter-iii.json) |
 | Silent Hunter Online | 3449 | [3449-silent-hunter-online.json](./3449-silent-hunter-online.json) |
 | Silent Infinity | 202366 | [202366-silent-infinity.json](./202366-silent-infinity.json) |
 | Silent Scope 3 | 44630 | [44630-silent-scope-3.json](./44630-silent-scope-3.json) |
@@ -940,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sim Theme Park | 12484 | [12484-sim-theme-park.json](./12484-sim-theme-park.json) |
 | SimCity 4: Rush Hour | 18494 | [18494-simcity-4-rush-hour.json](./18494-simcity-4-rush-hour.json) |
 | SimCity Social | 64978 | [64978-simcity-social.json](./64978-simcity-social.json) |
+| SimCopter | 1496 | [1496-simcopter.json](./1496-simcopter.json) |
 | SimEarth: The Living Planet | 42017 | [42017-simearth-the-living-planet.json](./42017-simearth-the-living-planet.json) |
 | SimHealth | 93048 | [93048-simhealth.json](./93048-simhealth.json) |
 | Simian Rising | 102147 | [102147-simian-rising.json](./102147-simian-rising.json) |
@@ -1937,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splosion Man | 8354 | [8354-splosion-man.json](./8354-splosion-man.json) |
 | SpongeBob SquarePants: Flip or Flop | 273123 | [273123-spongebob-squarepants-flip-or-flop.json](./273123-spongebob-squarepants-flip-or-flop.json) |
 | SpongeBob SquarePants: Nighty Nightmare | 18301 | [18301-spongebob-squarepants-nighty-nightmare.json](./18301-spongebob-squarepants-nighty-nightmare.json) |
+| SpongeBob SquarePants: Titans of the Tide | 358751 | [358751-spongebob-squarepants-titans-of-the-tide.json](./358751-spongebob-squarepants-titans-of-the-tide.json) |
 | SpongeBob's Atlantis Squarepantis | 43312 | [43312-spongebobs-atlantis-squarepantis.json](./43312-spongebobs-atlantis-squarepantis.json) |
 | Spook Tower | 179735 | [179735-spook-tower.json](./179735-spook-tower.json) |
 | Spooked | 45325 | [45325-spooked.json](./45325-spooked.json) |
@@ -2004,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpyHunter | 4166 | [4166-spyhunter.json](./4166-spyhunter.json) |
 | Spykebots | 113706 | [113706-spykebots.json](./113706-spykebots.json) |
 | Spyrit Walker | 304872 | [304872-spyrit-walker.json](./304872-spyrit-walker.json) |
+| Spyro 2: Season of Flame | 1588 | [1588-spyro-2-season-of-flame.json](./1588-spyro-2-season-of-flame.json) |
 | Spyro the Dragon | 290718 | [290718-spyro-the-dragon.json](./290718-spyro-the-dragon.json) |
 | Spyro: Season of Ice | 1587 | [1587-spyro-season-of-ice.json](./1587-spyro-season-of-ice.json) |
 | Squad | 9495 | [9495-squad.json](./9495-squad.json) |
@@ -2399,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter 6: Deluxe Edition | 228737 | [228737-street-fighter-6-deluxe-edition.json](./228737-street-fighter-6-deluxe-edition.json) |
 | Street Fighter 6: Year 2 Ultimate Pass | 305529 | [305529-street-fighter-6-year-2-ultimate-pass.json](./305529-street-fighter-6-year-2-ultimate-pass.json) |
 | Street Fighter Alpha 3: Xiang Long | 213628 | [213628-street-fighter-alpha-3-xiang-long.json](./213628-street-fighter-alpha-3-xiang-long.json) |
+| Street Fighter II | 321621 | [321621-street-fighter-ii.json](./321621-street-fighter-ii.json) |
 | Street Fighter IV | 884 | [884-street-fighter-iv.json](./884-street-fighter-iv.json) |
 | Street Fighter V: Cyber Akuma Skin | 318196 | [318196-street-fighter-v-cyber-akuma-skin.json](./318196-street-fighter-v-cyber-akuma-skin.json) |
 | Street Fighter: Duel | 142490 | [142490-street-fighter-duel.json](./142490-street-fighter-duel.json) |
@@ -3127,6 +3132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sympathia | 277608 | [277608-sympathia.json](./277608-sympathia.json) |
 | Symphony of Souls | 253573 | [253573-symphony-of-souls.json](./253573-symphony-of-souls.json) |
 | Symphony of War: Legends | 252370 | [252370-symphony-of-war-legends.json](./252370-symphony-of-war-legends.json) |
+| Symphony of War: The Nephilim Saga | 192840 | [192840-symphony-of-war-the-nephilim-saga.json](./192840-symphony-of-war-the-nephilim-saga.json) |
 | Symphorix | 333400 | [333400-symphorix.json](./333400-symphorix.json) |
 | Symulator Tuska 2014 | 62204 | [62204-symulator-tuska-2014.json](./62204-symulator-tuska-2014.json) |
 | Synaesthete | 79917 | [79917-synaesthete.json](./79917-synaesthete.json) |
@@ -3134,6 +3140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synchronizacja | 187539 | [187539-synchronizacja.json](./187539-synchronizacja.json) |
 | SynCo 2321 | 192979 | [192979-synco-2321.json](./192979-synco-2321.json) |
 | Syndicate of Souls | 267642 | [267642-syndicate-of-souls.json](./267642-syndicate-of-souls.json) |
+| Syndicate: American Revolt | 50 | [50-syndicate-american-revolt.json](./50-syndicate-american-revolt.json) |
 | Synth War Tactics | 151188 | [151188-synth-war-tactics.json](./151188-synth-war-tactics.json) |
 | Synthaar | 304880 | [304880-synthaar.json](./304880-synthaar.json) |
 | Synther | 99008 | [99008-synther.json](./99008-synther.json) |
