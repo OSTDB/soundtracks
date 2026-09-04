@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umineko no Naku Koro ni Tsubasa | 125996 | [125996-umineko-no-naku-koro-ni-tsubasa.json](./125996-umineko-no-naku-koro-ni-tsubasa.json) |
 | Umineko no Naku Koro ni: Aru Ryourinin no Zakki | 272533 | [272533-umineko-no-naku-koro-ni-aru-ryourinin-no-zakki.json](./272533-umineko-no-naku-koro-ni-aru-ryourinin-no-zakki.json) |
 | Umineko no Naku Koro ni: Dare no Ochakai? | 272540 | [272540-umineko-no-naku-koro-ni-dare-no-ochakai.json](./272540-umineko-no-naku-koro-ni-dare-no-ochakai.json) |
+| Umineko no Naku Koro ni: Episode 4 - Alliance of the Golden Witch | 67170 | [67170-umineko-no-naku-koro-ni-episode-4-alliance-of-the-golden-witch.json](./67170-umineko-no-naku-koro-ni-episode-4-alliance-of-the-golden-witch.json) |
 | Umineko no Naku Koro ni: Majo-tachi no Tanabata ha Amakunai | 272542 | [272542-umineko-no-naku-koro-ni-majo-tachi-no-tanabata-ha-amakunai.json](./272542-umineko-no-naku-koro-ni-majo-tachi-no-tanabata-ha-amakunai.json) |
 | Umineko no Naku Koro ni: Memoirs of the ΛΔ | 272532 | [272532-umineko-no-naku-koro-ni-memoirs-of-the.json](./272532-umineko-no-naku-koro-ni-memoirs-of-the.json) |
 | Umineko no Naku Koro ni: Nana Shimai no Valentine | 272538 | [272538-umineko-no-naku-koro-ni-nana-shimai-no-valentine.json](./272538-umineko-no-naku-koro-ni-nana-shimai-no-valentine.json) |
