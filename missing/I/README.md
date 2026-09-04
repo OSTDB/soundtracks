@@ -535,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Cauldron: Guess the Colorblock | 340762 | [340762-iron-cauldron-guess-the-colorblock.json](./340762-iron-cauldron-guess-the-colorblock.json) |
 | Iron Cross | 80581 | [80581-iron-cross.json](./80581-iron-cross.json) |
 | Iron Crown | 318183 | [318183-iron-crown.json](./318183-iron-crown.json) |
+| Iron Danger | 101065 | [101065-iron-danger.json](./101065-iron-danger.json) |
 | Iron Front: Liberation 1944 - Gold Edition | 53237 | [53237-iron-front-liberation-1944-gold-edition.json](./53237-iron-front-liberation-1944-gold-edition.json) |
 | Iron Front: Liberation 1944 D-Day | 53236 | [53236-iron-front-liberation-1944-d-day.json](./53236-iron-front-liberation-1944-d-day.json) |
 | Iron Frontier | 224787 | [224787-iron-frontier.json](./224787-iron-frontier.json) |
