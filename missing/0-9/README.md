@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | _Turing | 306086 | [306086-turing.json](./306086-turing.json) |
 | ¡Shin Chan: Flipa en colores! | 93591 | [93591-shin-chan-flipa-en-colores.json](./93591-shin-chan-flipa-en-colores.json) |
+| ...Iru! | 93548 | [93548-iru.json](./93548-iru.json) |
 | .B.P. | 150158 | [150158-b-p.json](./150158-b-p.json) |
 | .Cat Nincat Dinogotchi | 231044 | [231044-cat-nincat-dinogotchi.json](./231044-cat-nincat-dinogotchi.json) |
 | .Hack//G.U. Last Recode | 37134 | [37134-hack-g-u-last-recode.json](./37134-hack-g-u-last-recode.json) |
@@ -26,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Ball 1 Cup | 59435 | [59435-1-ball-1-cup.json](./59435-1-ball-1-cup.json) |
 | 1 Hop | 171045 | [171045-1-hop.json](./171045-1-hop.json) |
 | 1 Meter | 327613 | [327613-1-meter.json](./327613-1-meter.json) |
+| 1 Screen Platformer | 97902 | [97902-1-screen-platformer.json](./97902-1-screen-platformer.json) |
 | 1 Screen Platformer 2 | 133473 | [133473-1-screen-platformer-2.json](./133473-1-screen-platformer-2.json) |
 | 1 to 1 Humanoid Edible Toys | 301033 | [301033-1-to-1-humanoid-edible-toys.json](./301033-1-to-1-humanoid-edible-toys.json) |
 | 1 Trait Escape | 237063 | [237063-1-trait-escape.json](./237063-1-trait-escape.json) |
@@ -100,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 11wol Sonyeon | 98427 | [98427-11wol-sonyeon.json](./98427-11wol-sonyeon.json) |
 | 12 Labours of Hercules II: The Cretan Bull | 35493 | [35493-12-labours-of-hercules-ii-the-cretan-bull.json](./35493-12-labours-of-hercules-ii-the-cretan-bull.json) |
 | 12 Locks: Plasticine Room | 308527 | [308527-12-locks-plasticine-room.json](./308527-12-locks-plasticine-room.json) |
+| 12 Orbits | 90578 | [90578-12-orbits.json](./90578-12-orbits.json) |
 | 12-sai: Koi Suru Diary | 98417 | [98417-12-sai-koi-suru-diary.json](./98417-12-sai-koi-suru-diary.json) |
 | 12+ | 98424 | [98424-12.json](./98424-12.json) |
 | 1201 | 252993 | [252993-1201.json](./252993-1201.json) |
