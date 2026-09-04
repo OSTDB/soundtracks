@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ijigen Kara no Dasshutsu: Escape from Twilight Zone | 97326 | [97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json](./97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json) |
 | Ikari III: The Rescue | 48054 | [48054-ikari-iii-the-rescue.json](./48054-ikari-iii-the-rescue.json) |
 | Ikaros | 51955 | [51955-ikaros.json](./51955-ikaros.json) |
+| Ikaruga | 200996 | [200996-ikaruga.json](./200996-ikaruga.json) |
 | Ikkitousen: Shining Dragon | 44645 | [44645-ikkitousen-shining-dragon.json](./44645-ikkitousen-shining-dragon.json) |
 | Iktsua | 329930 | [329930-iktsua.json](./329930-iktsua.json) |
 | Il Divino: Michelangelo's Sistine Ceiling in VR | 130925 | [130925-il-divino-michelangelos-sistine-ceiling-in-vr.json](./130925-il-divino-michelangelos-sistine-ceiling-in-vr.json) |
