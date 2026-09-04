@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island - Ethereal | 58833 | [58833-the-island-ethereal.json](./58833-the-island-ethereal.json) |
 | The Island 2 | 274189 | [274189-the-island-2.json](./274189-the-island-2.json) |
 | The Island Rescue | 236005 | [236005-the-island-rescue.json](./236005-the-island-rescue.json) |
+| The Isle | 25838 | [25838-the-isle.json](./25838-the-isle.json) |
 | The Isle Survival | 261507 | [261507-the-isle-survival.json](./261507-the-isle-survival.json) |
 | The Isolated Town | 253594 | [253594-the-isolated-town.json](./253594-the-isolated-town.json) |
 | The Jellyfish Girl's Absolute Abnormal Adventure | 194656 | [194656-the-jellyfish-girls-absolute-abnormal-adventure.json](./194656-the-jellyfish-girls-absolute-abnormal-adventure.json) |
@@ -1041,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters '97 OL | 80566 | [80566-the-king-of-fighters-97-ol.json](./80566-the-king-of-fighters-97-ol.json) |
 | The King of Fighters 2000/2001 | 43348 | [43348-the-king-of-fighters-2000-2001.json](./43348-the-king-of-fighters-2000-2001.json) |
 | The King of Fighters Arena | 225887 | [225887-the-king-of-fighters-arena.json](./225887-the-king-of-fighters-arena.json) |
+| The King of Fighters XIV | 18814 | [18814-the-king-of-fighters-xiv.json](./18814-the-king-of-fighters-xiv.json) |
 | The King of Fighters XIV: Classic Iori Costume | 322961 | [322961-the-king-of-fighters-xiv-classic-iori-costume.json](./322961-the-king-of-fighters-xiv-classic-iori-costume.json) |
 | The King of Fighters XV: Team Garou | 195801 | [195801-the-king-of-fighters-xv-team-garou.json](./195801-the-king-of-fighters-xv-team-garou.json) |
 | The King of Fighters: Maximum Impact - Maniax | 47322 | [47322-the-king-of-fighters-maximum-impact-maniax.json](./47322-the-king-of-fighters-maximum-impact-maniax.json) |
@@ -1524,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sports Daishuugou | 123043 | [123043-the-sports-daishuugou.json](./123043-the-sports-daishuugou.json) |
 | The Square Game | 130377 | [130377-the-square-game.json](./130377-the-square-game.json) |
 | The Stadium Project | 62177 | [62177-the-stadium-project.json](./62177-the-stadium-project.json) |
+| The Stanley Parable | 18453 | [18453-the-stanley-parable.json](./18453-the-stanley-parable.json) |
 | The Starfire Soccer Challenge | 70383 | [70383-the-starfire-soccer-challenge.json](./70383-the-starfire-soccer-challenge.json) |
 | The Sticky Plan | 183577 | [183577-the-sticky-plan.json](./183577-the-sticky-plan.json) |
 | The Stone of God | 165659 | [165659-the-stone-of-god.json](./165659-the-stone-of-god.json) |
@@ -1763,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief Puzzle: Complete Edition | 315849 | [315849-thief-puzzle-complete-edition.json](./315849-thief-puzzle-complete-edition.json) |
 | Thief Puzzle: Pranks | 313515 | [313515-thief-puzzle-pranks.json](./313515-thief-puzzle-pranks.json) |
 | Thief Puzzle: Tricks | 313514 | [313514-thief-puzzle-tricks.json](./313514-thief-puzzle-tricks.json) |
+| Thief Simulator | 61616 | [61616-thief-simulator.json](./61616-thief-simulator.json) |
 | Thievery | 105326 | [105326-thievery.json](./105326-thievery.json) |
 | Thing-Thing Arena 3 | 234938 | [234938-thing-thing-arena-3.json](./234938-thing-thing-arena-3.json) |
 | Things on Wheels | 72727 | [72727-things-on-wheels.json](./72727-things-on-wheels.json) |
@@ -2206,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon: Wildlands - Ultimate Edition | 119071 | [119071-tom-clancys-ghost-recon-wildlands-ultimate-edition.json](./119071-tom-clancys-ghost-recon-wildlands-ultimate-edition.json) |
 | Tom Clancy's H.A.W.X | 264874 | [264874-tom-clancys-h-a-w-x.json](./264874-tom-clancys-h-a-w-x.json) |
 | Tom Clancy's H.A.W.X 2 | 341328 | [341328-tom-clancys-h-a-w-x-2.json](./341328-tom-clancys-h-a-w-x-2.json) |
+| Tom Clancy's Rainbow Six Extraction | 119262 | [119262-tom-clancys-rainbow-six-extraction.json](./119262-tom-clancys-rainbow-six-extraction.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Blood Orchid | 55167 | [55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json](./55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Brutal Swarm | 217522 | [217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json](./217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Neon Dawn | 141194 | [141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json](./141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json) |
@@ -2237,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider II: Collector's Edition | 159319 | [159319-tomb-raider-ii-collectors-edition.json](./159319-tomb-raider-ii-collectors-edition.json) |
 | Tomb Raider III: Adventures of Lara Croft | 1157 | [1157-tomb-raider-iii-adventures-of-lara-croft.json](./1157-tomb-raider-iii-adventures-of-lara-croft.json) |
 | Tomb Raider: Anniversary - Collectors Edition | 202972 | [202972-tomb-raider-anniversary-collectors-edition.json](./202972-tomb-raider-anniversary-collectors-edition.json) |
+| Tomb Raider: Game of the Year Edition | 53818 | [53818-tomb-raider-game-of-the-year-edition.json](./53818-tomb-raider-game-of-the-year-edition.json) |
 | Tomb Raider: The Angel of Darkness 1.5 | 156178 | [156178-tomb-raider-the-angel-of-darkness-1-5.json](./156178-tomb-raider-the-angel-of-darkness-1-5.json) |
 | Tomb Robber | 90655 | [90655-tomb-robber.json](./90655-tomb-robber.json) |
 | Tomb Rumble: Cursed Sorcerer | 170559 | [170559-tomb-rumble-cursed-sorcerer.json](./170559-tomb-rumble-cursed-sorcerer.json) |
@@ -2279,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tootuff: Mission Nadia | 48037 | [48037-tootuff-mission-nadia.json](./48037-tootuff-mission-nadia.json) |
 | Top Down Battlegrounds | 292850 | [292850-top-down-battlegrounds.json](./292850-top-down-battlegrounds.json) |
 | Top Down Racer | 107883 | [107883-top-down-racer.json](./107883-top-down-racer.json) |
+| Top Gear | 27461 | [27461-top-gear.json](./27461-top-gear.json) |
 | Top Management II | 37785 | [37785-top-management-ii.json](./37785-top-management-ii.json) |
 | Top Street Soccer | 102209 | [102209-top-street-soccer.json](./102209-top-street-soccer.json) |
 | Top Troops! | 228123 | [228123-top-troops.json](./228123-top-troops.json) |
