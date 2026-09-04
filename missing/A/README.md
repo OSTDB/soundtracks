@@ -1053,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AntiSquad Tactics | 38987 | [38987-antisquad-tactics.json](./38987-antisquad-tactics.json) |
 | Antix | 15597 | [15597-antix.json](./15597-antix.json) |
 | Antonball Deluxe Lite | 153463 | [153463-antonball-deluxe-lite.json](./153463-antonball-deluxe-lite.json) |
+| Antonblast | 201752 | [201752-antonblast.json](./201752-antonblast.json) |
 | Ants With Guns | 211436 | [211436-ants-with-guns.json](./211436-ants-with-guns.json) |
 | Anubis Clicker | 236535 | [236535-anubis-clicker.json](./236535-anubis-clicker.json) |
 | Anxieties | 335699 | [335699-anxieties.json](./335699-anxieties.json) |
@@ -1379,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash. | 76669 | [76669-ash.json](./76669-ash.json) |
 | Ashen Arrows | 211413 | [211413-ashen-arrows.json](./211413-ashen-arrows.json) |
 | Ashen Knights: Foreshadow | 211412 | [211412-ashen-knights-foreshadow.json](./211412-ashen-knights-foreshadow.json) |
+| Ashen Sky | 299596 | [299596-ashen-sky.json](./299596-ashen-sky.json) |
 | Ashes 2 | 119774 | [119774-ashes-2.json](./119774-ashes-2.json) |
 | Ashes of Equestria | 121722 | [121722-ashes-of-equestria.json](./121722-ashes-of-equestria.json) |
 | Ashes of Immortality Trilogy | 52607 | [52607-ashes-of-immortality-trilogy.json](./52607-ashes-of-immortality-trilogy.json) |
