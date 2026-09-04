@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakigake!! Otokojuku: Shippuu Ichi Gou Sei | 48674 | [48674-sakigake-otokojuku-shippuu-ichi-gou-sei.json](./48674-sakigake-otokojuku-shippuu-ichi-gou-sei.json) |
 | Saku the Covert Agent | 310181 | [310181-saku-the-covert-agent.json](./310181-saku-the-covert-agent.json) |
 | Sakura Day 2 Mahjong | 100216 | [100216-sakura-day-2-mahjong.json](./100216-sakura-day-2-mahjong.json) |
+| Sakura Gamer 2 | 127212 | [127212-sakura-gamer-2.json](./127212-sakura-gamer-2.json) |
 | Sakura Halloween | 135891 | [135891-sakura-halloween.json](./135891-sakura-halloween.json) |
 | Sakura Mau Otome no Rondo | 339138 | [339138-sakura-mau-otome-no-rondo.json](./339138-sakura-mau-otome-no-rondo.json) |
 | Sakura Moonlight | 135892 | [135892-sakura-moonlight.json](./135892-sakura-moonlight.json) |
@@ -691,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai Wii | 84853 | [84853-shanghai-wii.json](./84853-shanghai-wii.json) |
 | Shanghai: Great Moments | 73316 | [73316-shanghai-great-moments.json](./73316-shanghai-great-moments.json) |
 | Shanghai1920 | 169452 | [169452-shanghai1920.json](./169452-shanghai1920.json) |
+| Shantae and the Seven Sirens Part 1 | 122493 | [122493-shantae-and-the-seven-sirens-part-1.json](./122493-shantae-and-the-seven-sirens-part-1.json) |
 | Shaolin | 18299 | [18299-shaolin.json](./18299-shaolin.json) |
 | Shaolin Master | 123063 | [123063-shaolin-master.json](./123063-shaolin-master.json) |
 | Shaolin Master Plus | 123062 | [123062-shaolin-master-plus.json](./123062-shaolin-master-plus.json) |
@@ -3136,6 +3138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman: The Mysterious Mr. Mist | 73324 | [73324-superman-the-mysterious-mr-mist.json](./73324-superman-the-mysterious-mr-mist.json) |
 | Supermarket Manager | 218686 | [218686-supermarket-manager.json](./218686-supermarket-manager.json) |
 | Supermarket Together | 311540 | [311540-supermarket-together.json](./311540-supermarket-together.json) |
+| SuperMash | 127307 | [127307-supermash.json](./127307-supermash.json) |
 | Supermoves: World of Parkour | 280450 | [280450-supermoves-world-of-parkour.json](./280450-supermoves-world-of-parkour.json) |
 | Supernatural Squad | 333395 | [333395-supernatural-squad.json](./333395-supernatural-squad.json) |
 | Supernatural Sweethearts | 206951 | [206951-supernatural-sweethearts.json](./206951-supernatural-sweethearts.json) |
@@ -3270,6 +3273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swoon! Earth Escape | 225894 | [225894-swoon-earth-escape.json](./225894-swoon-earth-escape.json) |
 | Sword & Dragon | 58234 | [58234-sword-and-dragon.json](./58234-sword-and-dragon.json) |
 | Sword and Fairy Inn | 78048 | [78048-sword-and-fairy-inn.json](./78048-sword-and-fairy-inn.json) |
+| Sword Art Online: Alicization Rising Steel | 125818 | [125818-sword-art-online-alicization-rising-steel.json](./125818-sword-art-online-alicization-rising-steel.json) |
 | Sword Art Online: Fractured Daydream | 287852 | [287852-sword-art-online-fractured-daydream.json](./287852-sword-art-online-fractured-daydream.json) |
 | Sword Art Online: Integral Factor | 68441 | [68441-sword-art-online-integral-factor.json](./68441-sword-art-online-integral-factor.json) |
 | Sword Art Online: Last Recollection - Digital Premium Edition | 271473 | [271473-sword-art-online-last-recollection-digital-premium-edition.json](./271473-sword-art-online-last-recollection-digital-premium-edition.json) |
