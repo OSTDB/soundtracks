@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kissed by the Baddest Bidder: Secrets from the Past - Soryu | 238226 | [238226-kissed-by-the-baddest-bidder-secrets-from-the-past-soryu.json](./238226-kissed-by-the-baddest-bidder-secrets-from-the-past-soryu.json) |
 | Kit Cat | 297806 | [297806-kit-cat.json](./297806-kit-cat.json) |
 | Kitchen | 218719 | [218719-kitchen.json](./218719-kitchen.json) |
+| Kitchen master | 26648 | [26648-kitchen-master.json](./26648-kitchen-master.json) |
 | Kitesurf Runner | 304379 | [304379-kitesurf-runner.json](./304379-kitesurf-runner.json) |
 | Kitori Academy | 136477 | [136477-kitori-academy.json](./136477-kitori-academy.json) |
 | Kitrinos: Inside the Cube | 105349 | [105349-kitrinos-inside-the-cube.json](./105349-kitrinos-inside-the-cube.json) |
