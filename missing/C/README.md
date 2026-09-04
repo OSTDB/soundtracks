@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.L.T.: Cheguei Louco no Trabalho | 255390 | [255390-c-l-t-cheguei-louco-no-trabalho.json](./255390-c-l-t-cheguei-louco-no-trabalho.json) |
 | C15: Horror | 121001 | [121001-c15-horror.json](./121001-c15-horror.json) |
 | C64 & Amiga Classix Remakes Sixpack | 94773 | [94773-c64-and-amiga-classix-remakes-sixpack.json](./94773-c64-and-amiga-classix-remakes-sixpack.json) |
+| Cabals: Magic & Battle Cards | 33107 | [33107-cabals-magic-and-battle-cards.json](./33107-cabals-magic-and-battle-cards.json) |
 | Cabbage Patch Kids: The Patch Puppy Rescue | 49363 | [49363-cabbage-patch-kids-the-patch-puppy-rescue.json](./49363-cabbage-patch-kids-the-patch-puppy-rescue.json) |
 | Cabela's 4x4 Off-Road Adventure | 94238 | [94238-cabelas-4x4-off-road-adventure.json](./94238-cabelas-4x4-off-road-adventure.json) |
 | Cabela's 4x4 Off-Road Adventure 2 | 92531 | [92531-cabelas-4x4-off-road-adventure-2.json](./92531-cabelas-4x4-off-road-adventure-2.json) |
@@ -131,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capelord: Bounty Hunters | 190718 | [190718-capelord-bounty-hunters.json](./190718-capelord-bounty-hunters.json) |
 | Capes: Supporter Pack | 304362 | [304362-capes-supporter-pack.json](./304362-capes-supporter-pack.json) |
 | CapoeiRogue: Dandara Cordão de Ouro | 215919 | [215919-capoeirogue-dandara-cordao-de-ouro.json](./215919-capoeirogue-dandara-cordao-de-ouro.json) |
+| Capria: Magic of the Elements | 33142 | [33142-capria-magic-of-the-elements.json](./33142-capria-magic-of-the-elements.json) |
 | Capsella: The Lights of Lucerne | 103501 | [103501-capsella-the-lights-of-lucerne.json](./103501-capsella-the-lights-of-lucerne.json) |
 | Capsize | 122403 | [122403-capsize.json](./122403-capsize.json) |
 | Capslock | 300425 | [300425-capslock.json](./300425-capslock.json) |
