@@ -706,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Fortune | 56488 | [56488-digimon-fortune.json](./56488-digimon-fortune.json) |
 | Digimon Story: Lost Evolution | 67307 | [67307-digimon-story-lost-evolution.json](./67307-digimon-story-lost-evolution.json) |
 | Digimon Super Rumble | 202964 | [202964-digimon-super-rumble.json](./202964-digimon-super-rumble.json) |
+| Digimon World | 8614 | [8614-digimon-world.json](./8614-digimon-world.json) |
 | Digital Audio Wasteland | 297818 | [297818-digital-audio-wasteland.json](./297818-digital-audio-wasteland.json) |
 | Digital Bird Playground | 124255 | [124255-digital-bird-playground.json](./124255-digital-bird-playground.json) |
 | Digital Circus Shooter | 276482 | [276482-digital-circus-shooter.json](./276482-digital-circus-shooter.json) |
@@ -1152,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Xenoverse 2: Lite Version | 116372 | [116372-dragon-ball-xenoverse-2-lite-version.json](./116372-dragon-ball-xenoverse-2-lite-version.json) |
 | Dragon Ball Z II: Gekishin Frieza!! | 48682 | [48682-dragon-ball-z-ii-gekishin-frieza.json](./48682-dragon-ball-z-ii-gekishin-frieza.json) |
 | Dragon Ball Z III: Ressen Jinzou Ningen | 48680 | [48680-dragon-ball-z-iii-ressen-jinzou-ningen.json](./48680-dragon-ball-z-iii-ressen-jinzou-ningen.json) |
+| Dragon Ball Z: Budokai Tenkaichi | 2253 | [2253-dragon-ball-z-budokai-tenkaichi.json](./2253-dragon-ball-z-budokai-tenkaichi.json) |
 | Dragon Ball Z: Buu's Fury / Dragon Ball GT: Transformation | 79299 | [79299-dragon-ball-z-buus-fury-dragon-ball-gt-transformation.json](./79299-dragon-ball-z-buus-fury-dragon-ball-gt-transformation.json) |
 | Dragon Ball Z: Cell To Kogeki Da | 322346 | [322346-dragon-ball-z-cell-to-kogeki-da.json](./322346-dragon-ball-z-cell-to-kogeki-da.json) |
 | Dragon Ball Z: Super Goku-den - Totsugeki-hen | 38396 | [38396-dragon-ball-z-super-goku-den-totsugeki-hen.json](./38396-dragon-ball-z-super-goku-den-totsugeki-hen.json) |
@@ -1187,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Monsters: Joker 3 Professional | 79296 | [79296-dragon-quest-monsters-joker-3-professional.json](./79296-dragon-quest-monsters-joker-3-professional.json) |
 | Dragon Quest Monsters: Terry no Wonderland 3D | 80596 | [80596-dragon-quest-monsters-terry-no-wonderland-3d.json](./80596-dragon-quest-monsters-terry-no-wonderland-3d.json) |
 | Dragon Quest X: Mezameshi Itsutsu no Shuzoku Online | 80597 | [80597-dragon-quest-x-mezameshi-itsutsu-no-shuzoku-online.json](./80597-dragon-quest-x-mezameshi-itsutsu-no-shuzoku-online.json) |
+| Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition | 110069 | [110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json](./110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json) |
 | Dragon Roll | 184124 | [184124-dragon-roll.json](./184124-dragon-roll.json) |
 | Dragon Ruins II | 328277 | [328277-dragon-ruins-ii.json](./328277-dragon-ruins-ii.json) |
 | Dragon Song Tavern | 334471 | [334471-dragon-song-tavern.json](./334471-dragon-song-tavern.json) |
