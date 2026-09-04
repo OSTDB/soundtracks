@@ -239,8 +239,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carma | 172153 | [172153-carma.json](./172153-carma.json) |
 | Carmageddon | 246743 | [246743-carmageddon.json](./246743-carmageddon.json) |
 | Carmen Sandiego Word Detective | 73312 | [73312-carmen-sandiego-word-detective.json](./73312-carmen-sandiego-word-detective.json) |
+| Carnage Heart | 20733 | [20733-carnage-heart.json](./20733-carnage-heart.json) |
 | Carnica | 39636 | [39636-carnica.json](./39636-carnica.json) |
 | Carnival | 297810 | [297810-carnival.json](./297810-carnival.json) |
+| Carnivores: Cityscape | 20568 | [20568-carnivores-cityscape.json](./20568-carnivores-cityscape.json) |
+| Carnivores: Dinosaur Hunter | 20569 | [20569-carnivores-dinosaur-hunter.json](./20569-carnivores-dinosaur-hunter.json) |
+| Carnivores: Dinosaur Hunter HD | 20570 | [20570-carnivores-dinosaur-hunter-hd.json](./20570-carnivores-dinosaur-hunter-hd.json) |
 | Carol the Dark Angel | 209722 | [209722-carol-the-dark-angel.json](./209722-carol-the-dark-angel.json) |
 | Carousel | 13700 | [13700-carousel.json](./13700-carousel.json) |
 | Carpathian Survival | 315263 | [315263-carpathian-survival.json](./315263-carpathian-survival.json) |
@@ -503,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Metaverse | 267658 | [267658-chaos-metaverse.json](./267658-chaos-metaverse.json) |
 | Chaos of Fallen City | 159864 | [159864-chaos-of-fallen-city.json](./159864-chaos-of-fallen-city.json) |
 | Chaos Road | 158229 | [158229-chaos-road.json](./158229-chaos-road.json) |
+| Chaos Wars | 21051 | [21051-chaos-wars.json](./21051-chaos-wars.json) |
 | Chaos World | 7904 | [7904-chaos-world.json](./7904-chaos-world.json) |
 | Chaos Zero Nightmare | 350249 | [350249-chaos-zero-nightmare.json](./350249-chaos-zero-nightmare.json) |
 | Chaos;Child Love Chu Chu!! | 65530 | [65530-chaos-child-love-chu-chu.json](./65530-chaos-child-love-chu-chu.json) |
@@ -571,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess.com | 121957 | [121957-chess-com.json](./121957-chess-com.json) |
 | ChesseR | 78700 | [78700-chesser.json](./78700-chesser.json) |
 | Chessmaster | 23714 | [23714-chessmaster.json](./23714-chessmaster.json) |
+| Chessmaster: The Art of Learning | 20777 | [20777-chessmaster-the-art-of-learning.json](./20777-chessmaster-the-art-of-learning.json) |
 | Chest Mate | 195240 | [195240-chest-mate.json](./195240-chest-mate.json) |
 | Chester Cheetah: Too Cool to Fool | 46255 | [46255-chester-cheetah-too-cool-to-fool.json](./46255-chester-cheetah-too-cool-to-fool.json) |
 | Chester Cheetah: Wild Wild Quest | 46283 | [46283-chester-cheetah-wild-wild-quest.json](./46283-chester-cheetah-wild-wild-quest.json) |
@@ -1094,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colors! Maze | 193486 | [193486-colors-maze.json](./193486-colors-maze.json) |
 | Colors’ Heartbeat | 235480 | [235480-colors-heartbeat.json](./235480-colors-heartbeat.json) |
 | ColorSense | 182516 | [182516-colorsense.json](./182516-colorsense.json) |
+| ColorZ | 21043 | [21043-colorz.json](./21043-colorz.json) |
 | Colossal Cave VR | 253587 | [253587-colossal-cave-vr.json](./253587-colossal-cave-vr.json) |
 | Colossal Saga | 126663 | [126663-colossal-saga.json](./126663-colossal-saga.json) |
 | Colossatron: Massive World Threat | 62546 | [62546-colossatron-massive-world-threat.json](./62546-colossatron-massive-world-threat.json) |
@@ -1137,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command: Modern Operations Live - The King of the Border | 167868 | [167868-command-modern-operations-live-the-king-of-the-border.json](./167868-command-modern-operations-live-the-king-of-the-border.json) |
 | Commander Keen in Invasion of the Vorticons: Marooned on Mars | 2439 | [2439-commander-keen-in-invasion-of-the-vorticons-marooned-on-mars.json](./2439-commander-keen-in-invasion-of-the-vorticons-marooned-on-mars.json) |
 | Commander of Battlefront | 333941 | [333941-commander-of-battlefront.json](./333941-commander-of-battlefront.json) |
+| Commanders: Attack of the Genos | 20775 | [20775-commanders-attack-of-the-genos.json](./20775-commanders-attack-of-the-genos.json) |
 | Commando Raid | 11153 | [11153-commando-raid.json](./11153-commando-raid.json) |
 | Commando vs Zombies | 99002 | [99002-commando-vs-zombies.json](./99002-commando-vs-zombies.json) |
 | Commissar's Contrapasso | 126018 | [126018-commissars-contrapasso.json](./126018-commissars-contrapasso.json) |
@@ -1516,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creme de la Creme | 126884 | [126884-creme-de-la-creme.json](./126884-creme-de-la-creme.json) |
 | Crescendo Of Dreams + Surmounting Terror | 271490 | [271490-crescendo-of-dreams-surmounting-terror.json](./271490-crescendo-of-dreams-surmounting-terror.json) |
 | Crescent Loom | 134667 | [134667-crescent-loom.json](./134667-crescent-loom.json) |
+| Crescent Pale Mist | 21085 | [21085-crescent-pale-mist.json](./21085-crescent-pale-mist.json) |
 | Crescite | 262096 | [262096-crescite.json](./262096-crescite.json) |
 | Cresteaju | 143094 | [143094-cresteaju.json](./143094-cresteaju.json) |
 | Crevis | 59413 | [59413-crevis.json](./59413-crevis.json) |
@@ -1619,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruzcredo: Become a Legend! | 332272 | [332272-cruzcredo-become-a-legend.json](./332272-cruzcredo-become-a-legend.json) |
 | Cryohazard | 297815 | [297815-cryohazard.json](./297815-cryohazard.json) |
 | CryoNation | 278166 | [278166-cryonation.json](./278166-cryonation.json) |
+| Crypt Killer | 20737 | [20737-crypt-killer.json](./20737-crypt-killer.json) |
 | Crypt of Dracula | 102808 | [102808-crypt-of-dracula.json](./102808-crypt-of-dracula.json) |
 | Crypt of the Necrodancer: Amplified | 26613 | [26613-crypt-of-the-necrodancer-amplified.json](./26613-crypt-of-the-necrodancer-amplified.json) |
 | Cryptic | 122425 | [122425-cryptic.json](./122425-cryptic.json) |
@@ -1634,6 +1644,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crysis Warhead | 336 | [336-crysis-warhead.json](./336-crysis-warhead.json) |
 | Crysis Wreckage | 51292 | [51292-crysis-wreckage.json](./51292-crysis-wreckage.json) |
 | Crystal Confines | 69319 | [69319-crystal-confines.json](./69319-crystal-confines.json) |
+| Crystal Defenders R1 | 21126 | [21126-crystal-defenders-r1.json](./21126-crystal-defenders-r1.json) |
+| Crystal Defenders R2 | 21133 | [21133-crystal-defenders-r2.json](./21133-crystal-defenders-r2.json) |
 | Crystal Fantasy | 68033 | [68033-crystal-fantasy.json](./68033-crystal-fantasy.json) |
 | Crystal Gal Mahjong | 123070 | [123070-crystal-gal-mahjong.json](./123070-crystal-gal-mahjong.json) |
 | Crystal Gal Mahjong II | 123071 | [123071-crystal-gal-mahjong-ii.json](./123071-crystal-gal-mahjong-ii.json) |
@@ -1764,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Robo Arena Redux | 219276 | [219276-custom-robo-arena-redux.json](./219276-custom-robo-arena-redux.json) |
 | Custom Robo GX | 3464 | [3464-custom-robo-gx.json](./3464-custom-robo-gx.json) |
 | Custom Robo V2 | 3463 | [3463-custom-robo-v2.json](./3463-custom-robo-v2.json) |
+| Customplay Golf 2010 | 21118 | [21118-customplay-golf-2010.json](./21118-customplay-golf-2010.json) |
 | Cut 2017 | 91411 | [91411-cut-2017.json](./91411-cut-2017.json) |
 | Cut the Box | 117724 | [117724-cut-the-box.json](./117724-cut-the-box.json) |
 | Cut the Rope | 9761 | [9761-cut-the-rope.json](./9761-cut-the-rope.json) |
@@ -1798,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Battle 69 | 131608 | [131608-cyber-battle-69.json](./131608-cyber-battle-69.json) |
 | Cyber Dodge | 42054 | [42054-cyber-dodge.json](./42054-cyber-dodge.json) |
 | Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
+| Cyber Sled | 20626 | [20626-cyber-sled.json](./20626-cyber-sled.json) |
 | Cyber Strike | 194001 | [194001-cyber-strike.json](./194001-cyber-strike.json) |
 | Cyber Theater | 218153 | [218153-cyber-theater.json](./218153-cyber-theater.json) |
 | Cyber Tiger | 3431 | [3431-cyber-tiger.json](./3431-cyber-tiger.json) |
