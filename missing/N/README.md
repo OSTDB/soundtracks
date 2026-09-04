@@ -160,9 +160,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed II | 91 | [91-need-for-speed-ii.json](./91-need-for-speed-ii.json) |
 | Need for Speed Unbound: Palace Edition | 220860 | [220860-need-for-speed-unbound-palace-edition.json](./220860-need-for-speed-unbound-palace-edition.json) |
 | Need for Speed: Heat | 119161 | [119161-need-for-speed-heat.json](./119161-need-for-speed-heat.json) |
+| Need for Speed: High Stakes | 93 | [93-need-for-speed-high-stakes.json](./93-need-for-speed-high-stakes.json) |
 | Need for Speed: Hot Pursuit | 264364 | [264364-need-for-speed-hot-pursuit.json](./264364-need-for-speed-hot-pursuit.json) |
 | Need for Speed: Porsche Unleashed | 94 | [94-need-for-speed-porsche-unleashed.json](./94-need-for-speed-porsche-unleashed.json) |
 | Need for Speed: ProStreet | 240505 | [240505-need-for-speed-prostreet.json](./240505-need-for-speed-prostreet.json) |
+| Need for Speed: Unbound | 219442 | [219442-need-for-speed-unbound.json](./219442-need-for-speed-unbound.json) |
 | Need More Troops | 165680 | [165680-need-more-troops.json](./165680-need-more-troops.json) |
 | Nefarium | 192452 | [192452-nefarium.json](./192452-nefarium.json) |
 | Negaeba Kitto... | 202938 | [202938-negaeba-kitto.json](./202938-negaeba-kitto.json) |
@@ -507,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Classic Mini: Family Computer | 213597 | [213597-nintendo-classic-mini-family-computer.json](./213597-nintendo-classic-mini-family-computer.json) |
 | Nintendo Classic Mini: Family Computer - Weekly Shonen Jump 50th Anniversary Version | 213599 | [213599-nintendo-classic-mini-family-computer-weekly-shonen-jump-50th-anniversary-version.json](./213599-nintendo-classic-mini-family-computer-weekly-shonen-jump-50th-anniversary-version.json) |
 | Nintendo Classic Mini: Super Famicom | 213594 | [213594-nintendo-classic-mini-super-famicom.json](./213594-nintendo-classic-mini-super-famicom.json) |
+| Nintendo Land | 2172 | [2172-nintendo-land.json](./2172-nintendo-land.json) |
 | Nintendo Mini Classic: Snoopy Tennis | 206367 | [206367-nintendo-mini-classic-snoopy-tennis.json](./206367-nintendo-mini-classic-snoopy-tennis.json) |
 | Nintendo Mini Classics: Carrera | 206372 | [206372-nintendo-mini-classics-carrera.json](./206372-nintendo-mini-classics-carrera.json) |
 | Nintendo Mini Classics: Donkey Kong | 206361 | [206361-nintendo-mini-classics-donkey-kong.json](./206361-nintendo-mini-classics-donkey-kong.json) |
