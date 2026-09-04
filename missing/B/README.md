@@ -1224,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Boy | 61639 | [61639-boulder-boy.json](./61639-boulder-boy.json) |
 | Boulder Dash | 12942 | [12942-boulder-dash.json](./12942-boulder-dash.json) |
 | Boulder Match 4 | 66673 | [66673-boulder-match-4.json](./66673-boulder-match-4.json) |
+| Boulderdash | 47237 | [47237-boulderdash.json](./47237-boulderdash.json) |
 | Bounce Ball | 68653 | [68653-bounce-ball.json](./68653-bounce-ball.json) |
 | Bounce Boing Voyage | 245006 | [245006-bounce-boing-voyage.json](./245006-bounce-boing-voyage.json) |
 | Bounce Lounge | 233232 | [233232-bounce-lounge.json](./233232-bounce-lounge.json) |
