@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddballz: Your Wacky Computer Petz | 78013 | [78013-oddballz-your-wacky-computer-petz.json](./78013-oddballz-your-wacky-computer-petz.json) |
 | Oddhop | 174368 | [174368-oddhop.json](./174368-oddhop.json) |
 | Oddventure | 137646 | [137646-oddventure.json](./137646-oddventure.json) |
+| Oddworld: Abe's Exoddus | 1000 | [1000-oddworld-abes-exoddus.json](./1000-oddworld-abes-exoddus.json) |
 | Oddworld: Munch's Oddysee | 134025 | [134025-oddworld-munchs-oddysee.json](./134025-oddworld-munchs-oddysee.json) |
 | Oddy's Lost and Found | 257071 | [257071-oddys-lost-and-found.json](./257071-oddys-lost-and-found.json) |
 | Ode to a Moon | 111059 | [111059-ode-to-a-moon.json](./111059-ode-to-a-moon.json) |
