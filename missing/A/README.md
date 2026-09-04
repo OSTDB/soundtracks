@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alto's Adventure | 18130 | [18130-altos-adventure.json](./18130-altos-adventure.json) |
 | Altruism | 147451 | [147451-altruism.json](./147451-altruism.json) |
 | Alucinod | 118422 | [118422-alucinod.json](./118422-alucinod.json) |
+| Alundra 2: A New Legend Begins | 1176 | [1176-alundra-2-a-new-legend-begins.json](./1176-alundra-2-a-new-legend-begins.json) |
 | Always 1-1 | 290688 | [290688-always-1-1.json](./290688-always-1-1.json) |
 | Am I the baddie? | 173287 | [173287-am-i-the-baddie.json](./173287-am-i-the-baddie.json) |
 | AMA Superbike | 94233 | [94233-ama-superbike.json](./94233-ama-superbike.json) |
@@ -1085,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: Legacy | 146328 | [146328-apex-legends-legacy.json](./146328-apex-legends-legacy.json) |
 | Apex Legends: PlayStation Plus Play Pack | 325861 | [325861-apex-legends-playstation-plus-play-pack.json](./325861-apex-legends-playstation-plus-play-pack.json) |
 | Aphelion | 171599 | [171599-aphelion.json](./171599-aphelion.json) |
+| Aphelion | 348192 | [348192-aphelion.json](./348192-aphelion.json) |
 | Apico 4.0: Hive of Industry | 330561 | [330561-apico-4-0-hive-of-industry.json](./330561-apico-4-0-hive-of-industry.json) |
 | APlaceDominatedByHoles | 260418 | [260418-aplacedominatedbyholes.json](./260418-aplacedominatedbyholes.json) |
 | Aplestia: Retold | 189175 | [189175-aplestia-retold.json](./189175-aplestia-retold.json) |
