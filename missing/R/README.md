@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | R-Shark | 40254 | [40254-r-shark.json](./40254-r-shark.json) |
+| R-Type | 263373 | [263373-r-type.json](./263373-r-type.json) |
 | R-Type II | 276500 | [276500-r-type-ii.json](./276500-r-type-ii.json) |
 | R.B.I. Baseball 2 | 48090 | [48090-r-b-i-baseball-2.json](./48090-r-b-i-baseball-2.json) |
 | R.C. Bot Inc. | 33097 | [33097-r-c-bot-inc.json](./33097-r-c-bot-inc.json) |
@@ -212,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Gold | 61096 | [61096-rayman-gold.json](./61096-rayman-gold.json) |
 | Rayman Golf | 61094 | [61094-rayman-golf.json](./61094-rayman-golf.json) |
 | Rayman Kart | 61091 | [61091-rayman-kart.json](./61091-rayman-kart.json) |
+| Rayman Raving Rabbids | 254520 | [254520-rayman-raving-rabbids.json](./254520-rayman-raving-rabbids.json) |
 | Rayman Rush | 86216 | [86216-rayman-rush.json](./86216-rayman-rush.json) |
 | Rayman the Fan Series Adventure | 331695 | [331695-rayman-the-fan-series-adventure.json](./331695-rayman-the-fan-series-adventure.json) |
 | Rayman the Fan Series Adventure 2: Curse of the Jade Lum | 331696 | [331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json](./331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json) |
