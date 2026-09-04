@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Barbarians Chronicles | 207506 | [207506-age-of-barbarians-chronicles.json](./207506-age-of-barbarians-chronicles.json) |
 | Age of Castles | 319975 | [319975-age-of-castles.json](./319975-age-of-castles.json) |
 | Age of Conan: Unchained | 16402 | [16402-age-of-conan-unchained.json](./16402-age-of-conan-unchained.json) |
+| Age of Conquest IV | 36268 | [36268-age-of-conquest-iv.json](./36268-age-of-conquest-iv.json) |
 | Age of Dynasties: Shogun | 219260 | [219260-age-of-dynasties-shogun.json](./219260-age-of-dynasties-shogun.json) |
 | Age of Empires II Mobile | 144346 | [144346-age-of-empires-ii-mobile.json](./144346-age-of-empires-ii-mobile.json) |
 | Age of Empires II: Definitive Edition | 55056 | [55056-age-of-empires-ii-definitive-edition.json](./55056-age-of-empires-ii-definitive-edition.json) |
