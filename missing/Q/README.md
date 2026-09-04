@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qisah Tomang: Cycle Ends | 235989 | [235989-qisah-tomang-cycle-ends.json](./235989-qisah-tomang-cycle-ends.json) |
 | Qlanet | 206376 | [206376-qlanet.json](./206376-qlanet.json) |
 | Qomp | 142475 | [142475-qomp.json](./142475-qomp.json) |
+| Qop 3 | 102389 | [102389-qop-3.json](./102389-qop-3.json) |
 | Qorena | 211931 | [211931-qorena.json](./211931-qorena.json) |
 | QotU | 308538 | [308538-qotu.json](./308538-qotu.json) |
 | Quacker Blaster | 63286 | [63286-quacker-blaster.json](./63286-quacker-blaster.json) |
@@ -63,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen Elsa and Her Horse Girl Games | 107862 | [107862-queen-elsa-and-her-horse-girl-games.json](./107862-queen-elsa-and-her-horse-girl-games.json) |
 | Queen Frances and the Rat Rebellion | 112307 | [112307-queen-frances-and-the-rat-rebellion.json](./112307-queen-frances-and-the-rat-rebellion.json) |
 | Queen of Dark | 292821 | [292821-queen-of-dark.json](./292821-queen-of-dark.json) |
+| Queen of Seas 2 | 102347 | [102347-queen-of-seas-2.json](./102347-queen-of-seas-2.json) |
 | Queen of The Hill | 306061 | [306061-queen-of-the-hill.json](./306061-queen-of-the-hill.json) |
 | Queen of Zarkov | 173288 | [173288-queen-of-zarkov.json](./173288-queen-of-zarkov.json) |
 | Queen's Crown | 80571 | [80571-queens-crown.json](./80571-queens-crown.json) |
@@ -133,3 +135,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qvadriga | 17347 | [17347-qvadriga.json](./17347-qvadriga.json) |
 | Qwilight | 203526 | [203526-qwilight.json](./203526-qwilight.json) |
 | Qwixx | 175421 | [175421-qwixx.json](./175421-qwixx.json) |
+| Qybe | 102961 | [102961-qybe.json](./102961-qybe.json) |
