@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
 | Action Replay Max | 43302 | [43302-action-replay-max.json](./43302-action-replay-max.json) |
 | ActionHacker | 290686 | [290686-actionhacker.json](./290686-actionhacker.json) |
+| Actionloop Twist | 23044 | [23044-actionloop-twist.json](./23044-actionloop-twist.json) |
 | Active Life Outdoor Challenge | 167810 | [167810-active-life-outdoor-challenge.json](./167810-active-life-outdoor-challenge.json) |
 | Activision Anthology: Remix Edition | 45979 | [45979-activision-anthology-remix-edition.json](./45979-activision-anthology-remix-edition.json) |
 | ActRaiser | 6468 | [6468-actraiser.json](./6468-actraiser.json) |
@@ -506,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Roy: Secure the Temple | 229331 | [229331-agent-roy-secure-the-temple.json](./229331-agent-roy-secure-the-temple.json) |
 | Agent Sorry | 208011 | [208011-agent-sorry.json](./208011-agent-sorry.json) |
 | Agent USA | 12247 | [12247-agent-usa.json](./12247-agent-usa.json) |
+| Agent X | 23067 | [23067-agent-x.json](./23067-agent-x.json) |
 | Agents of Mayhem: Day One Edition | 52015 | [52015-agents-of-mayhem-day-one-edition.json](./52015-agents-of-mayhem-day-one-edition.json) |
 | Agharta: The Hollow Earth | 73280 | [73280-agharta-the-hollow-earth.json](./73280-agharta-the-hollow-earth.json) |
 | Agi Gongnyong Dooly | 86107 | [86107-agi-gongnyong-dooly.json](./86107-agi-gongnyong-dooly.json) |
@@ -556,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hockey | 43934 | [43934-air-hockey.json](./43934-air-hockey.json) |
 | Air Hockey: Championship 3D+ | 239889 | [239889-air-hockey-championship-3d.json](./239889-air-hockey-championship-3d.json) |
 | Air patrol | 40768 | [40768-air-patrol.json](./40768-air-patrol.json) |
+| Air Power: Battle in the Skies | 22622 | [22622-air-power-battle-in-the-skies.json](./22622-air-power-battle-in-the-skies.json) |
 | Air Race | 249506 | [249506-air-race.json](./249506-air-race.json) |
 | Air Racer: Sky Traffic | 232156 | [232156-air-racer-sky-traffic.json](./232156-air-racer-sky-traffic.json) |
 | Air Racing VR | 192445 | [192445-air-racing-vr.json](./192445-air-racing-vr.json) |
@@ -1613,6 +1616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Boy Flight! | 58276 | [58276-astro-boy-flight.json](./58276-astro-boy-flight.json) |
 | Astro Command Scramble Retro! | 208624 | [208624-astro-command-scramble-retro.json](./208624-astro-command-scramble-retro.json) |
 | Astro Dash | 156655 | [156655-astro-dash.json](./156655-astro-dash.json) |
+| Astro Fighter | 23049 | [23049-astro-fighter.json](./23049-astro-fighter.json) |
 | Astro Invader | 39656 | [39656-astro-invader.json](./39656-astro-invader.json) |
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
 | Astro Rabby | 7759 | [7759-astro-rabby.json](./7759-astro-rabby.json) |
@@ -1778,6 +1782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avakin Life | 86966 | [86966-avakin-life.json](./86966-avakin-life.json) |
 | Avalanche Snowboarding | 214763 | [214763-avalanche-snowboarding.json](./214763-avalanche-snowboarding.json) |
 | Avalanche! | 255354 | [255354-avalanche.json](./255354-avalanche.json) |
+| Avalon | 23068 | [23068-avalon.json](./23068-avalon.json) |
 | Avalon Heroes | 63886 | [63886-avalon-heroes.json](./63886-avalon-heroes.json) |
 | Avalon: The Druids | 274229 | [274229-avalon-the-druids.json](./274229-avalon-the-druids.json) |
 | Avatar Farm! | 94737 | [94737-avatar-farm.json](./94737-avatar-farm.json) |
