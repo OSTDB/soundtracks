@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flag Clicker | 304375 | [304375-flag-clicker.json](./304375-flag-clicker.json) |
 | Flag Defender! | 262656 | [262656-flag-defender.json](./262656-flag-defender.json) |
 | Flag Defense | 213012 | [213012-flag-defense.json](./213012-flag-defense.json) |
+| Flag N Frag | 33157 | [33157-flag-n-frag.json](./33157-flag-n-frag.json) |
 | Flain: Tao force & Cubes | 153433 | [153433-flain-tao-force-and-cubes.json](./153433-flain-tao-force-and-cubes.json) |
 | Flame of Recca | 49412 | [49412-flame-of-recca.json](./49412-flame-of-recca.json) |
 | Flan's Mod | 232680 | [232680-flans-mod.json](./232680-flans-mod.json) |
