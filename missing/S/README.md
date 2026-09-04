@@ -1057,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyLife: VoxelSurvival | 149050 | [149050-skylife-voxelsurvival.json](./149050-skylife-voxelsurvival.json) |
 | SkyOfSteel | 177017 | [177017-skyofsteel.json](./177017-skyofsteel.json) |
 | SkyRider ADV | 90696 | [90696-skyrider-adv.json](./90696-skyrider-adv.json) |
+| Skyscraper | 9422 | [9422-skyscraper.json](./9422-skyscraper.json) |
 | Skyward | 117099 | [117099-skyward.json](./117099-skyward.json) |
 | Skyweaver | 123039 | [123039-skyweaver.json](./123039-skyweaver.json) |
 | Slag | 70398 | [70398-slag.json](./70398-slag.json) |
@@ -1286,6 +1287,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboarding | 152929 | [152929-snowboarding.json](./152929-snowboarding.json) |
 | Snowboarding | 19688 | [19688-snowboarding.json](./19688-snowboarding.json) |
 | Snowbrawll | 235461 | [235461-snowbrawll.json](./235461-snowbrawll.json) |
+| Snowcat Simulator | 9479 | [9479-snowcat-simulator.json](./9479-snowcat-simulator.json) |
+| Snowcat Simulator 2011 | 9480 | [9480-snowcat-simulator-2011.json](./9480-snowcat-simulator-2011.json) |
 | Snowcrash | 135876 | [135876-snowcrash.json](./135876-snowcrash.json) |
 | Snowdome | 260961 | [260961-snowdome.json](./260961-snowdome.json) |
 | Snowdreams -lost in winter- | 146324 | [146324-snowdreams-lost-in-winter.json](./146324-snowdreams-lost-in-winter.json) |
@@ -1696,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Theory | 203544 | [203544-space-theory.json](./203544-space-theory.json) |
 | Space Thinger | 34471 | [34471-space-thinger.json](./34471-space-thinger.json) |
 | Space to Investigate | 179702 | [179702-space-to-investigate.json](./179702-space-to-investigate.json) |
+| Space Trader | 9469 | [9469-space-trader.json](./9469-space-trader.json) |
 | Space Trail Fireworks | 304858 | [304858-space-trail-fireworks.json](./304858-space-trail-fireworks.json) |
 | Space Valet | 177005 | [177005-space-valet.json](./177005-space-valet.json) |
 | Space Viking Raiders | 74469 | [74469-space-viking-raiders.json](./74469-space-viking-raiders.json) |
@@ -2098,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship: Invasion | 69889 | [69889-starship-invasion.json](./69889-starship-invasion.json) |
 | Starships Unlimited | 72128 | [72128-starships-unlimited.json](./72128-starships-unlimited.json) |
 | Starshot | 151181 | [151181-starshot.json](./151181-starshot.json) |
+| Starsweep | 9529 | [9529-starsweep.json](./9529-starsweep.json) |
 | Start Your Engines Bundle | 173789 | [173789-start-your-engines-bundle.json](./173789-start-your-engines-bundle.json) |
 | Start! Heart Thief | 165011 | [165011-start-heart-thief.json](./165011-start-heart-thief.json) |
 | Startenders: Intergalactic Bartending | 187509 | [187509-startenders-intergalactic-bartending.json](./187509-startenders-intergalactic-bartending.json) |
@@ -2118,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Alive | 339667 | [339667-stay-alive.json](./339667-stay-alive.json) |
 | Stay Home It Rains Outside | 316406 | [316406-stay-home-it-rains-outside.json](./316406-stay-home-it-rains-outside.json) |
 | Stay in | 237056 | [237056-stay-in.json](./237056-stay-in.json) |
+| Steal My Artificial Heart | 9516 | [9516-steal-my-artificial-heart.json](./9516-steal-my-artificial-heart.json) |
 | Steal the Meal: Unblock Puzzle | 261514 | [261514-steal-the-meal-unblock-puzzle.json](./261514-steal-the-meal-unblock-puzzle.json) |
 | Stealth | 147969 | [147969-stealth.json](./147969-stealth.json) |
 | Stealth Bastard: Tactical Espionage Arsehole | 65531 | [65531-stealth-bastard-tactical-espionage-arsehole.json](./65531-stealth-bastard-tactical-espionage-arsehole.json) |
@@ -2303,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Sports Soccer | 55152 | [55152-street-sports-soccer.json](./55152-street-sports-soccer.json) |
 | Street Tennis, the Next Generation Champions | 57668 | [57668-street-tennis-the-next-generation-champions.json](./57668-street-tennis-the-next-generation-champions.json) |
 | Street Warrior | 44621 | [44621-street-warrior.json](./44621-street-warrior.json) |
+| Streetdance 3D | 9466 | [9466-streetdance-3d.json](./9466-streetdance-3d.json) |
 | Streets of Gotham City | 272015 | [272015-streets-of-gotham-city.json](./272015-streets-of-gotham-city.json) |
 | Streets of Red: Devil's Dare | 126045 | [126045-streets-of-red-devils-dare.json](./126045-streets-of-red-devils-dare.json) |
 | Stress Test | 200168 | [200168-stress-test.json](./200168-stress-test.json) |
