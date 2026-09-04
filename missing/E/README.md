@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden's Last Sunrise | 190187 | [190187-edens-last-sunrise.json](./190187-edens-last-sunrise.json) |
 | Edens Zero Deluxe Edition | 336887 | [336887-edens-zero-deluxe-edition.json](./336887-edens-zero-deluxe-edition.json) |
 | Edens Zero: Pocket Galaxy | 174888 | [174888-edens-zero-pocket-galaxy.json](./174888-edens-zero-pocket-galaxy.json) |
+| Edge of Atlantis | 28946 | [28946-edge-of-atlantis.json](./28946-edge-of-atlantis.json) |
 | Edge of Galaxy | 115681 | [115681-edge-of-galaxy.json](./115681-edge-of-galaxy.json) |
 | Edge of Grief | 254760 | [254760-edge-of-grief.json](./254760-edge-of-grief.json) |
 | Edge of the Abyss Awaken | 152895 | [152895-edge-of-the-abyss-awaken.json](./152895-edge-of-the-abyss-awaken.json) |
@@ -263,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encode | 159861 | [159861-encode.json](./159861-encode.json) |
 | Encodya: Save the World Edition | 154533 | [154533-encodya-save-the-world-edition.json](./154533-encodya-save-the-world-edition.json) |
 | Encounter | 81445 | [81445-encounter.json](./81445-encounter.json) |
+| Encounter of Galaxies | 28931 | [28931-encounter-of-galaxies.json](./28931-encounter-of-galaxies.json) |
 | End of Days | 151183 | [151183-end-of-days.json](./151183-end-of-days.json) |
 | End of Twilight | 70973 | [70973-end-of-twilight.json](./70973-end-of-twilight.json) |
 | End of War 1945 | 127377 | [127377-end-of-war-1945.json](./127377-end-of-war-1945.json) |
@@ -480,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve Online: Zenith - Quadrant 3 | 329917 | [329917-eve-online-zenith-quadrant-3.json](./329917-eve-online-zenith-quadrant-3.json) |
 | Evening Vibes | 217020 | [217020-evening-vibes.json](./217020-evening-vibes.json) |
 | Event World VR | 295523 | [295523-event-world-vr.json](./295523-event-world-vr.json) |
+| Eventide Night | 28940 | [28940-eventide-night.json](./28940-eventide-night.json) |
 | Ever Maiden: Daraku no Sono no Otome-tachi | 249497 | [249497-ever-maiden-daraku-no-sono-no-otome-tachi.json](./249497-ever-maiden-daraku-no-sono-no-otome-tachi.json) |
 | Ever Planet | 67290 | [67290-ever-planet.json](./67290-ever-planet.json) |
 | Everbloom | 178663 | [178663-everbloom.json](./178663-everbloom.json) |
