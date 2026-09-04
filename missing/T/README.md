@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alpine Encounter | 12252 | [12252-the-alpine-encounter.json](./12252-the-alpine-encounter.json) |
 | The Amazing Fantastics | 58228 | [58228-the-amazing-fantastics.json](./58228-the-amazing-fantastics.json) |
 | The Amazing Frog? | 63333 | [63333-the-amazing-frog.json](./63333-the-amazing-frog.json) |
+| The Amazing Shinsengumi: Heroes in Love | 32318 | [32318-the-amazing-shinsengumi-heroes-in-love.json](./32318-the-amazing-shinsengumi-heroes-in-love.json) |
 | The American Challenge: A Sailing Simulation | 12253 | [12253-the-american-challenge-a-sailing-simulation.json](./12253-the-american-challenge-a-sailing-simulation.json) |
 | The American Girls Premiere | 18243 | [18243-the-american-girls-premiere.json](./18243-the-american-girls-premiere.json) |
 | The Amulet of AmunRuuuuuN | 157188 | [157188-the-amulet-of-amunruuuuun.json](./157188-the-amulet-of-amunruuuuun.json) |
@@ -1863,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's an Only One Way Exit. | 314065 | [314065-theres-an-only-one-way-exit.json](./314065-theres-an-only-one-way-exit.json) |
 | There's No Easter Eggs | 273630 | [273630-theres-no-easter-eggs.json](./273630-theres-no-easter-eggs.json) |
 | There's No Santa | 315296 | [315296-theres-no-santa.json](./315296-theres-no-santa.json) |
+| There's Poop In My Soup | 33315 | [33315-theres-poop-in-my-soup.json](./33315-theres-poop-in-my-soup.json) |
 | Therian Saga | 30951 | [30951-therian-saga.json](./30951-therian-saga.json) |
 | Theurgy Architect | 333365 | [333365-theurgy-architect.json](./333365-theurgy-architect.json) |
 | TheWaveVR | 25014 | [25014-thewavevr.json](./25014-thewavevr.json) |
@@ -2767,6 +2769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped in a Cage | 267067 | [267067-trapped-in-a-cage.json](./267067-trapped-in-a-cage.json) |
 | Trapped Summoner: Taigren's Secrets | 172194 | [172194-trapped-summoner-taigrens-secrets.json](./172194-trapped-summoner-taigrens-secrets.json) |
 | Trapped Within | 28918 | [28918-trapped-within.json](./28918-trapped-within.json) |
+| Trapper's Delight | 32701 | [32701-trappers-delight.json](./32701-trappers-delight.json) |
 | Traps in Space | 142482 | [142482-traps-in-space.json](./142482-traps-in-space.json) |
 | Trash Bandits | 125430 | [125430-trash-bandits.json](./125430-trash-bandits.json) |
 | Trash defense | 114397 | [114397-trash-defense.json](./114397-trash-defense.json) |
@@ -2849,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triangle Project Otome Visual Novels | 116382 | [116382-triangle-project-otome-visual-novels.json](./116382-triangle-project-otome-visual-novels.json) |
 | Triangle Strategy | 318779 | [318779-triangle-strategy.json](./318779-triangle-strategy.json) |
 | Triangle Wing XXXX | 133461 | [133461-triangle-wing-xxxx.json](./133461-triangle-wing-xxxx.json) |
+| Tribal Pass | 32646 | [32646-tribal-pass.json](./32646-tribal-pass.json) |
 | Tribal Trouble | 64958 | [64958-tribal-trouble.json](./64958-tribal-trouble.json) |
 | Tribe of Pok | 31979 | [31979-tribe-of-pok.json](./31979-tribe-of-pok.json) |
 | Tribe of the Accord | 268221 | [268221-tribe-of-the-accord.json](./268221-tribe-of-the-accord.json) |
