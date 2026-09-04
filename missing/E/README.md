@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires II: What Would You Risk for World Conquest? | 100215 | [100215-empires-ii-what-would-you-risk-for-world-conquest.json](./100215-empires-ii-what-would-you-risk-for-world-conquest.json) |
 | Empires of the Void II | 189167 | [189167-empires-of-the-void-ii.json](./189167-empires-of-the-void-ii.json) |
 | Empires: Dawn of the Modern World | 678 | [678-empires-dawn-of-the-modern-world.json](./678-empires-dawn-of-the-modern-world.json) |
+| Empress of the Deep: The Darkest Secret | 17368 | [17368-empress-of-the-deep-the-darkest-secret.json](./17368-empress-of-the-deep-the-darkest-secret.json) |
 | Empress's Choice | 245047 | [245047-empresss-choice.json](./245047-empresss-choice.json) |
 | Empty | 229384 | [229384-empty.json](./229384-empty.json) |
 | Empyre: Dukes of the Far Frontier | 198555 | [198555-empyre-dukes-of-the-far-frontier.json](./198555-empyre-dukes-of-the-far-frontier.json) |
@@ -399,7 +400,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Tavern | 25644 | [25644-epic-tavern.json](./25644-epic-tavern.json) |
 | Epicedium | 102797 | [102797-epicedium.json](./102797-epicedium.json) |
 | Epicinium | 82124 | [82124-epicinium.json](./82124-epicinium.json) |
+| Epigenesis | 16576 | [16576-epigenesis.json](./16576-epigenesis.json) |
 | Epoch | 16939 | [16939-epoch.json](./16939-epoch.json) |
+| Epsilon | 17391 | [17391-epsilon.json](./17391-epsilon.json) |
 | Epsilon wars | 167296 | [167296-epsilon-wars.json](./167296-epsilon-wars.json) |
 | Equilibrium Ocean | 107161 | [107161-equilibrium-ocean.json](./107161-equilibrium-ocean.json) |
 | Equilibrium VR | 29941 | [29941-equilibrium-vr.json](./29941-equilibrium-vr.json) |
@@ -633,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EvoWars.io | 241633 | [241633-evowars-io.json](./241633-evowars-io.json) |
 | EVR Race | 100172 | [100172-evr-race.json](./100172-evr-race.json) |
 | Ewe Shall Not Pass | 260391 | [260391-ewe-shall-not-pass.json](./260391-ewe-shall-not-pass.json) |
+| Ex Machina: Arcade | 17171 | [17171-ex-machina-arcade.json](./17171-ex-machina-arcade.json) |
 | Ex-Fraktion | 181370 | [181370-ex-fraktion.json](./181370-ex-fraktion.json) |
 | Excavate Diamond | 228111 | [228111-excavate-diamond.json](./228111-excavate-diamond.json) |
 | Excavator Simulator 2018 | 100865 | [100865-excavator-simulator-2018.json](./100865-excavator-simulator-2018.json) |
