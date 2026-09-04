@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J'ai Trouvé! Le Manoir Hanté | 140600 | [140600-jai-trouve-le-manoir-hante.json](./140600-jai-trouve-le-manoir-hante.json) |
 | Ja-in | 274206 | [274206-ja-in.json](./274206-ja-in.json) |
 | Jacal | 223662 | [223662-jacal.json](./223662-jacal.json) |
+| Jack and the Beanstalk | 25724 | [25724-jack-and-the-beanstalk.json](./25724-jack-and-the-beanstalk.json) |
 | Jack Flash | 93078 | [93078-jack-flash.json](./93078-jack-flash.json) |
 | Jack Horror | 63859 | [63859-jack-horror.json](./63859-jack-horror.json) |
 | Jack Mason: Ace Attorney | 303777 | [303777-jack-mason-ace-attorney.json](./303777-jack-mason-ace-attorney.json) |
