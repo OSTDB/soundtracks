@@ -1098,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Virus Simulator | 218133 | [218133-computer-virus-simulator.json](./218133-computer-virus-simulator.json) |
 | Computer, Open That Door! | 181382 | [181382-computer-open-that-door.json](./181382-computer-open-that-door.json) |
 | ComputerCraft | 232659 | [232659-computercraft.json](./232659-computercraft.json) |
+| Conan | 3862 | [3862-conan.json](./3862-conan.json) |
 | Conbunn Cardboard | 204099 | [204099-conbunn-cardboard.json](./204099-conbunn-cardboard.json) |
 | Conc Jump | 132852 | [132852-conc-jump.json](./132852-conc-jump.json) |
 | Conception II: Children of the Seven Stars - Limited Edition | 42669 | [42669-conception-ii-children-of-the-seven-stars-limited-edition.json](./42669-conception-ii-children-of-the-seven-stars-limited-edition.json) |
