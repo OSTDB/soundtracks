@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Hard: Nakatomi Plaza | 18219 | [18219-die-hard-nakatomi-plaza.json](./18219-die-hard-nakatomi-plaza.json) |
 | Die kleine Lokomotive und ihre Freunde | 81401 | [81401-die-kleine-lokomotive-und-ihre-freunde.json](./81401-die-kleine-lokomotive-und-ihre-freunde.json) |
 | Die O'Clock | 214161 | [214161-die-oclock.json](./214161-die-oclock.json) |
+| Die Original Moorhuhn Jagd | 83237 | [83237-die-original-moorhuhn-jagd.json](./83237-die-original-moorhuhn-jagd.json) |
 | Die Totenmaske | 184105 | [184105-die-totenmaske.json](./184105-die-totenmaske.json) |
 | Diep.io | 19341 | [19341-diep-io.json](./19341-diep-io.json) |
 | DieRoll | 88263 | [88263-dieroll.json](./88263-dieroll.json) |
