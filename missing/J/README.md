@@ -6,15 +6,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| J.League Dynamite Soccer 64 | 3519 | [3519-j-league-dynamite-soccer-64.json](./3519-j-league-dynamite-soccer-64.json) |
+| J.League Eleven Beat 1997 | 3520 | [3520-j-league-eleven-beat-1997.json](./3520-j-league-eleven-beat-1997.json) |
 | J.League Excite Stage '96 | 42657 | [42657-j-league-excite-stage-96.json](./42657-j-league-excite-stage-96.json) |
 | J.League GG Pro-Striker '94 | 126010 | [126010-j-league-gg-pro-striker-94.json](./126010-j-league-gg-pro-striker-94.json) |
 | J.League Jikkyou Honoo no Striker | 220856 | [220856-j-league-jikkyou-honoo-no-striker.json](./220856-j-league-jikkyou-honoo-no-striker.json) |
 | J.League Jikkyou Winning Eleven 3 | 220865 | [220865-j-league-jikkyou-winning-eleven-3.json](./220865-j-league-jikkyou-winning-eleven-3.json) |
+| J.League Live 64 | 3521 | [3521-j-league-live-64.json](./3521-j-league-live-64.json) |
 | J.League Pro Soccer Club wo Tsukurou! '04 | 62764 | [62764-j-league-pro-soccer-club-wo-tsukurou-04.json](./62764-j-league-pro-soccer-club-wo-tsukurou-04.json) |
 | J.League Pro Soccer Club wo Tsukurou! 6: Pride of J | 62766 | [62766-j-league-pro-soccer-club-wo-tsukurou-6-pride-of-j.json](./62766-j-league-pro-soccer-club-wo-tsukurou-6-pride-of-j.json) |
 | J.League Pro Soccer Club wo Tsukurou! 8: Euro + | 62765 | [62765-j-league-pro-soccer-club-wo-tsukurou-8-euro.json](./62765-j-league-pro-soccer-club-wo-tsukurou-8-euro.json) |
 | J.League Soccer Prime Goal 3 | 220831 | [220831-j-league-soccer-prime-goal-3.json](./220831-j-league-soccer-prime-goal-3.json) |
 | J.League Supporter Soccer | 64980 | [64980-j-league-supporter-soccer.json](./64980-j-league-supporter-soccer.json) |
+| J.League Tactics Soccer | 3522 | [3522-j-league-tactics-soccer.json](./3522-j-league-tactics-soccer.json) |
 | J.League Virtual Stadium '95 | 37200 | [37200-j-league-virtual-stadium-95.json](./37200-j-league-virtual-stadium-95.json) |
 | J'ai Trouvé! Le Manoir Hanté | 140600 | [140600-jai-trouve-le-manoir-hante.json](./140600-jai-trouve-le-manoir-hante.json) |
 | Ja-in | 274206 | [274206-ja-in.json](./274206-ja-in.json) |
@@ -174,12 +178,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Tour 4 | 104688 | [104688-jigsaw-tour-4.json](./104688-jigsaw-tour-4.json) |
 | Jigsaw World | 53249 | [53249-jigsaw-world.json](./53249-jigsaw-world.json) |
 | Jigsu | 79944 | [79944-jigsu.json](./79944-jigsu.json) |
+| Jikkyou GI Stable | 3524 | [3524-jikkyou-gi-stable.json](./3524-jikkyou-gi-stable.json) |
 | Jikkyou J.League 1999 Perfect Striker | 220858 | [220858-jikkyou-j-league-1999-perfect-striker.json](./220858-jikkyou-j-league-1999-perfect-striker.json) |
 | Jikkyou J.League Perfect Striker 5 | 220863 | [220863-jikkyou-j-league-perfect-striker-5.json](./220863-jikkyou-j-league-perfect-striker-5.json) |
 | Jikkyou Oshaberi Parodius | 38390 | [38390-jikkyou-oshaberi-parodius.json](./38390-jikkyou-oshaberi-parodius.json) |
 | Jikkyou Pawafuru Pro Yakyuu '96: Kaimaku-ban | 42644 | [42644-jikkyou-pawafuru-pro-yakyuu-96-kaimaku-ban.json](./42644-jikkyou-pawafuru-pro-yakyuu-96-kaimaku-ban.json) |
 | Jikkyou Pawafuru Pro Yakyuu: Basic-ban '98 | 37207 | [37207-jikkyou-pawafuru-pro-yakyuu-basic-ban-98.json](./37207-jikkyou-pawafuru-pro-yakyuu-basic-ban-98.json) |
 | Jikkyou Pawafuru Puroyakyu 3 | 42642 | [42642-jikkyou-pawafuru-puroyakyu-3.json](./42642-jikkyou-pawafuru-puroyakyu-3.json) |
+| Jikkyou Pawafuru Puroyakyu 5 | 3526 | [3526-jikkyou-pawafuru-puroyakyu-5.json](./3526-jikkyou-pawafuru-puroyakyu-5.json) |
 | Jill O' Lantern: Final Cut | 319360 | [319360-jill-o-lantern-final-cut.json](./319360-jill-o-lantern-final-cut.json) |
 | Jim Henson's The Muppets | 49958 | [49958-jim-hensons-the-muppets.json](./49958-jim-hensons-the-muppets.json) |
 | Jim is Moving Out! | 120433 | [120433-jim-is-moving-out.json](./120433-jim-is-moving-out.json) |
@@ -192,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinki Resurrection: Limited Edition | 141189 | [141189-jinki-resurrection-limited-edition.json](./141189-jinki-resurrection-limited-edition.json) |
 | Jinki: Infinity | 249501 | [249501-jinki-infinity.json](./249501-jinki-infinity.json) |
 | Jinrou Game | 296100 | [296100-jinrou-game.json](./296100-jinrou-game.json) |
+| Jinsei Game 64 | 3530 | [3530-jinsei-game-64.json](./3530-jinsei-game-64.json) |
 | Jinsei Game for Dreamcast | 131569 | [131569-jinsei-game-for-dreamcast.json](./131569-jinsei-game-for-dreamcast.json) |
 | Jīnyōng Qúnxiá Zhuán | 78043 | [78043-jinyong-qunxia-zhuan.json](./78043-jinyong-qunxia-zhuan.json) |
 | Jishogi | 199614 | [199614-jishogi.json](./199614-jishogi.json) |
