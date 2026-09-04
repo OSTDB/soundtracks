@@ -922,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Blood Cowboy Duel | 103506 | [103506-gun-blood-cowboy-duel.json](./103506-gun-blood-cowboy-duel.json) |
 | Gun Factory Simulator | 326421 | [326421-gun-factory-simulator.json](./326421-gun-factory-simulator.json) |
 | Gun Frontier | 39681 | [39681-gun-frontier.json](./39681-gun-frontier.json) |
+| Gun Godz | 31439 | [31439-gun-godz.json](./31439-gun-godz.json) |
 | Gun Party | 158227 | [158227-gun-party.json](./158227-gun-party.json) |
 | Gun Priest | 116354 | [116354-gun-priest.json](./116354-gun-priest.json) |
 | Gun Raiders | 145040 | [145040-gun-raiders.json](./145040-gun-raiders.json) |
