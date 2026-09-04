@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Increlution | 158719 | [158719-increlution.json](./158719-increlution.json) |
 | Incremental Epic Breakers | 163968 | [163968-incremental-epic-breakers.json](./163968-incremental-epic-breakers.json) |
 | Incremental Epic Hero 2 | 197398 | [197398-incremental-epic-hero-2.json](./197398-incremental-epic-hero-2.json) |
+| Indecision. | 83969 | [83969-indecision.json](./83969-indecision.json) |
 | Indiana Jones and the Last Crusade: The Action Game | 185 | [185-indiana-jones-and-the-last-crusade-the-action-game.json](./185-indiana-jones-and-the-last-crusade-the-action-game.json) |
 | Indiana Jones and the Temple of the Spheres | 322929 | [322929-indiana-jones-and-the-temple-of-the-spheres.json](./322929-indiana-jones-and-the-temple-of-the-spheres.json) |
 | Indiana Jones y la estatua sagrada | 322931 | [322931-indiana-jones-y-la-estatua-sagrada.json](./322931-indiana-jones-y-la-estatua-sagrada.json) |
@@ -616,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Is Coming | 335665 | [335665-it-is-coming.json](./335665-it-is-coming.json) |
 | It Knows You're Here | 185134 | [185134-it-knows-youre-here.json](./185134-it-knows-youre-here.json) |
 | It Lives Within | 300413 | [300413-it-lives-within.json](./300413-it-lives-within.json) |
+| It Lurks Below | 85662 | [85662-it-lurks-below.json](./85662-it-lurks-below.json) |
 | It Pays to Be a Winner | 122410 | [122410-it-pays-to-be-a-winner.json](./122410-it-pays-to-be-a-winner.json) |
 | It sucks, y'know | 302661 | [302661-it-sucks-yknow.json](./302661-it-sucks-yknow.json) |
 | It Takes Two to Tangle | 321129 | [321129-it-takes-two-to-tangle.json](./321129-it-takes-two-to-tangle.json) |
