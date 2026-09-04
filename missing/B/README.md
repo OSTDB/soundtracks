@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon | 152338 | [152338-backgammon.json](./152338-backgammon.json) |
 | Backgammon 3D | 146896 | [146896-backgammon-3d.json](./146896-backgammon-3d.json) |
 | Backpack | 297779 | [297779-backpack.json](./297779-backpack.json) |
+| Backpacker | 28352 | [28352-backpacker.json](./28352-backpacker.json) |
 | Backpacker 3: Mediterraneo | 129782 | [129782-backpacker-3-mediterraneo.json](./129782-backpacker-3-mediterraneo.json) |
 | Backrooms Cycle | 235470 | [235470-backrooms-cycle.json](./235470-backrooms-cycle.json) |
 | Backrooms Hide and Seek | 220349 | [220349-backrooms-hide-and-seek.json](./220349-backrooms-hide-and-seek.json) |
@@ -154,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballblazer | 273081 | [273081-ballblazer.json](./273081-ballblazer.json) |
 | Ballet Parking | 314070 | [314070-ballet-parking.json](./314070-ballet-parking.json) |
 | Ballista Legend | 117038 | [117038-ballista-legend.json](./117038-ballista-legend.json) |
+| BallisticNG | 32640 | [32640-ballisticng.json](./32640-ballisticng.json) |
 | BallisticNG: Outer Reaches | 167304 | [167304-ballisticng-outer-reaches.json](./167304-ballisticng-outer-reaches.json) |
 | Balloon Chess | 339097 | [339097-balloon-chess.json](./339097-balloon-chess.json) |
 | Balloon Fight | 269842 | [269842-balloon-fight.json](./269842-balloon-fight.json) |
@@ -586,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind the Iron Gate | 14294 | [14294-behind-the-iron-gate.json](./14294-behind-the-iron-gate.json) |
 | Behind The Mask Bundle | 308578 | [308578-behind-the-mask-bundle.json](./308578-behind-the-mask-bundle.json) |
 | Behoarder | 184617 | [184617-behoarder.json](./184617-behoarder.json) |
+| Behold the Kickmen | 26188 | [26188-behold-the-kickmen.json](./26188-behold-the-kickmen.json) |
 | Beholgar: Collector's Edition | 228739 | [228739-beholgar-collectors-edition.json](./228739-beholgar-collectors-edition.json) |
 | BeiJing Courier Simulator | 118413 | [118413-beijing-courier-simulator.json](./118413-beijing-courier-simulator.json) |
 | Bejeweled | 121723 | [121723-bejeweled.json](./121723-bejeweled.json) |
@@ -842,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Powder | 101590 | [101590-black-powder.json](./101590-black-powder.json) |
 | Black Queen | 13697 | [13697-black-queen.json](./13697-black-queen.json) |
 | Black Robinia | 59420 | [59420-black-robinia.json](./59420-black-robinia.json) |
+| Black Rose | 33253 | [33253-black-rose.json](./33253-black-rose.json) |
 | Black Rose Valkyrie | 137079 | [137079-black-rose-valkyrie.json](./137079-black-rose-valkyrie.json) |
 | Black Sand Drift: Collector's Edition | 52627 | [52627-black-sand-drift-collectors-edition.json](./52627-black-sand-drift-collectors-edition.json) |
 | Black Shadow | 14310 | [14310-black-shadow.json](./14310-black-shadow.json) |
