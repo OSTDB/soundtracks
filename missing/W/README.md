@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWII Eiyuu Retsuden: Saikyou no Tora - Kurt Knispel | 91407 | [91407-wwii-eiyuu-retsuden-saikyou-no-tora-kurt-knispel.json](./91407-wwii-eiyuu-retsuden-saikyou-no-tora-kurt-knispel.json) |
 | WWII Squad Level Land Battles ssp | 295540 | [295540-wwii-squad-level-land-battles-ssp.json](./295540-wwii-squad-level-land-battles-ssp.json) |
 | WWII: Battle Over Europe | 144311 | [144311-wwii-battle-over-europe.json](./144311-wwii-battle-over-europe.json) |
+| WWII: Normandy | 18324 | [18324-wwii-normandy.json](./18324-wwii-normandy.json) |
 | WWII: Tank Battle Arena | 225896 | [225896-wwii-tank-battle-arena.json](./225896-wwii-tank-battle-arena.json) |
 | WWTF | 110369 | [110369-wwtf.json](./110369-wwtf.json) |
 | Wyld Land | 334480 | [334480-wyld-land.json](./334480-wyld-land.json) |
