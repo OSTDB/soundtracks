@@ -334,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart: Virtual Cup | 195211 | [195211-mario-kart-virtual-cup.json](./195211-mario-kart-virtual-cup.json) |
 | Mario Net Quest | 246087 | [246087-mario-net-quest.json](./246087-mario-net-quest.json) |
 | Mario no Photopi | 3541 | [3541-mario-no-photopi.json](./3541-mario-no-photopi.json) |
+| Mario Paint | 8203 | [8203-mario-paint.json](./8203-mario-paint.json) |
 | Mario Paint 64 | 175957 | [175957-mario-paint-64.json](./175957-mario-paint-64.json) |
 | Mario Paint BS Ban: Yuushou Sakuhin Naizou Version | 150147 | [150147-mario-paint-bs-ban-yuushou-sakuhin-naizou-version.json](./150147-mario-paint-bs-ban-yuushou-sakuhin-naizou-version.json) |
 | Mario Party 3 StarStruck | 248306 | [248306-mario-party-3-starstruck.json](./248306-mario-party-3-starstruck.json) |
@@ -1281,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Saga: Fallen Heroes | 341330 | [341330-monster-girl-saga-fallen-heroes.json](./341330-monster-girl-saga-fallen-heroes.json) |
 | Monster Grid | 341331 | [341331-monster-grid.json](./341331-monster-grid.json) |
 | Monster Heart | 229929 | [229929-monster-heart.json](./229929-monster-heart.json) |
+| Monster Hunter 4 Ultimate | 6440 | [6440-monster-hunter-4-ultimate.json](./6440-monster-hunter-4-ultimate.json) |
 | Monster Hunter Rise + Sunbreak: Deluxe Edition | 208042 | [208042-monster-hunter-rise-sunbreak-deluxe-edition.json](./208042-monster-hunter-rise-sunbreak-deluxe-edition.json) |
 | Monster Hunter Rise: Bonus Update | 252384 | [252384-monster-hunter-rise-bonus-update.json](./252384-monster-hunter-rise-bonus-update.json) |
 | Monster Hunter Rise: Title Update 1 | 252379 | [252379-monster-hunter-rise-title-update-1.json](./252379-monster-hunter-rise-title-update-1.json) |
