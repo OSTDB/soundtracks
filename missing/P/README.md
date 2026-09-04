@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pentomino | 202422 | [202422-pentomino.json](./202422-pentomino.json) |
 | Penumbra | 177550 | [177550-penumbra.json](./177550-penumbra.json) |
 | Penumbra Lane | 307332 | [307332-penumbra-lane.json](./307332-penumbra-lane.json) |
+| Penumbra: Black Plague - Gold Edition | 27840 | [27840-penumbra-black-plague-gold-edition.json](./27840-penumbra-black-plague-gold-edition.json) |
 | Peojeul Pooh | 61672 | [61672-peojeul-pooh.json](./61672-peojeul-pooh.json) |
 | People Eater | 28901 | [28901-people-eater.json](./28901-people-eater.json) |
 | People Manipulation Sim | 181369 | [181369-people-manipulation-sim.json](./181369-people-manipulation-sim.json) |
