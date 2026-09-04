@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Master | 46218 | [46218-elemental-master.json](./46218-elemental-master.json) |
 | Elemental Ninja | 61119 | [61119-elemental-ninja.json](./61119-elemental-ninja.json) |
 | Elemental Raiders | 231614 | [231614-elemental-raiders.json](./231614-elemental-raiders.json) |
+| Elemental War | 110131 | [110131-elemental-war.json](./110131-elemental-war.json) |
 | Elemental World | 208039 | [208039-elemental-world.json](./208039-elemental-world.json) |
 | Elemental World | 311798 | [311798-elemental-world.json](./311798-elemental-world.json) |
 | Elemental World Part 1: Rise of the Guardians | 91443 | [91443-elemental-world-part-1-rise-of-the-guardians.json](./91443-elemental-world-part-1-rise-of-the-guardians.json) |
