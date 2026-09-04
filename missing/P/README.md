@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5: Dancing In Starlight - Wake Up, Get Up, Get Out There (OP ver.) | 324708 | [324708-persona-5-dancing-in-starlight-wake-up-get-up-get-out-there-op-ver.json](./324708-persona-5-dancing-in-starlight-wake-up-get-up-get-out-there-op-ver.json) |
 | Personal Arcade Volume One | 79947 | [79947-personal-arcade-volume-one.json](./79947-personal-arcade-volume-one.json) |
 | Personal Chef to the Stars | 218707 | [218707-personal-chef-to-the-stars.json](./218707-personal-chef-to-the-stars.json) |
+| Personal Nightmare | 12194 | [12194-personal-nightmare.json](./12194-personal-nightmare.json) |
 | Perspectives: Aleppo-Helsinki | 75160 | [75160-perspectives-aleppo-helsinki.json](./75160-perspectives-aleppo-helsinki.json) |
 | Perspectives: Paradise | 115007 | [115007-perspectives-paradise.json](./115007-perspectives-paradise.json) |
 | Perspectrum | 106613 | [106613-perspectrum.json](./106613-perspectrum.json) |
@@ -575,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Prelude | 15564 | [15564-pinball-prelude.json](./15564-pinball-prelude.json) |
 | Pinball Quest | 48026 | [48026-pinball-quest.json](./48026-pinball-quest.json) |
 | Pinball Shuffle | 88315 | [88315-pinball-shuffle.json](./88315-pinball-shuffle.json) |
+| Pinball Wizard | 12959 | [12959-pinball-wizard.json](./12959-pinball-wizard.json) |
 | Pinball-e | 170009 | [170009-pinball-e.json](./170009-pinball-e.json) |
 | Pinball: Our Church and Halloween RPG - Machine #1 | 208619 | [208619-pinball-our-church-and-halloween-rpg-machine-1.json](./208619-pinball-our-church-and-halloween-rpg-machine-1.json) |
 | Pinball: Our Church and Halloween RPG - Machine #2 | 213631 | [213631-pinball-our-church-and-halloween-rpg-machine-2.json](./213631-pinball-our-church-and-halloween-rpg-machine-2.json) |
@@ -797,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleonexia | 246119 | [246119-pleonexia.json](./246119-pleonexia.json) |
 | Plinko Panic! | 189203 | [189203-plinko-panic.json](./189203-plinko-panic.json) |
 | Plong | 258190 | [258190-plong.json](./258190-plong.json) |
+| Plotting | 12196 | [12196-plotting.json](./12196-plotting.json) |
 | Pluck It | 105910 | [105910-pluck-it.json](./105910-pluck-it.json) |
 | Plumber 3D | 336908 | [336908-plumber-3d.json](./336908-plumber-3d.json) |
 | Plumber No More | 184109 | [184109-plumber-no-more.json](./184109-plumber-no-more.json) |
@@ -1479,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlerio | 270945 | [270945-puzzlerio.json](./270945-puzzlerio.json) |
 | Puzzles & Chaos | 301582 | [301582-puzzles-and-chaos.json](./301582-puzzles-and-chaos.json) |
 | Puzzly Game Collection | 105938 | [105938-puzzly-game-collection.json](./105938-puzzly-game-collection.json) |
+| Puzznic | 12199 | [12199-puzznic.json](./12199-puzznic.json) |
 | Puzznic | 295044 | [295044-puzznic.json](./295044-puzznic.json) |
 | Puzznic | 307912 | [307912-puzznic.json](./307912-puzznic.json) |
 | Puzzrama | 152918 | [152918-puzzrama.json](./152918-puzzrama.json) |
