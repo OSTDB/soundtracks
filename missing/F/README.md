@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Zone | 202914 | [202914-fantasy-zone.json](./202914-fantasy-zone.json) |
 | Fantasy: Battle Simulator | 43950 | [43950-fantasy-battle-simulator.json](./43950-fantasy-battle-simulator.json) |
 | Fap&Click | 331100 | [331100-fap-and-click.json](./331100-fap-and-click.json) |
+| Far Cry Instincts: Evolution | 22584 | [22584-far-cry-instincts-evolution.json](./22584-far-cry-instincts-evolution.json) |
 | Far Cry: Delta Sector | 51227 | [51227-far-cry-delta-sector.json](./51227-far-cry-delta-sector.json) |
 | Far East of Eden III: Namida | 80576 | [80576-far-east-of-eden-iii-namida.json](./80576-far-east-of-eden-iii-namida.json) |
 | Far Future Tourism | 133994 | [133994-far-future-tourism.json](./133994-far-future-tourism.json) |
@@ -292,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatum Betula + Knights & Guns | 246080 | [246080-fatum-betula-knights-and-guns.json](./246080-fatum-betula-knights-and-guns.json) |
 | Faucet VR | 89269 | [89269-faucet-vr.json](./89269-faucet-vr.json) |
 | Faul! | 194659 | [194659-faul.json](./194659-faul.json) |
+| Fault Milestone Two Side: Above | 35883 | [35883-fault-milestone-two-side-above.json](./35883-fault-milestone-two-side-above.json) |
 | Faustian Bargain | 209669 | [209669-faustian-bargain.json](./209669-faustian-bargain.json) |
 | Faylinn's Quest | 173840 | [173840-faylinns-quest.json](./173840-faylinns-quest.json) |
 | FCK: Lille Leo Bruger Bolden | 129778 | [129778-fck-lille-leo-bruger-bolden.json](./129778-fck-lille-leo-bruger-bolden.json) |
@@ -358,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FF56! | 93054 | [93054-ff56.json](./93054-ff56.json) |
 | FFF | 219303 | [219303-fff.json](./219303-fff.json) |
 | FhaMazein | 109723 | [109723-fhamazein.json](./109723-fhamazein.json) |
+| Fibbage XL | 33374 | [33374-fibbage-xl.json](./33374-fibbage-xl.json) |
 | Fibble | 228714 | [228714-fibble.json](./228714-fibble.json) |
 | Fiddlebert's Folly | 313476 | [313476-fiddleberts-folly.json](./313476-fiddleberts-folly.json) |
 | Fidget Spinner | 100888 | [100888-fidget-spinner.json](./100888-fidget-spinner.json) |
