@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Angael | 206964 | [206964-dark-angael.json](./206964-dark-angael.json) |
 | Dark Arcana: The Carnival | 10137 | [10137-dark-arcana-the-carnival.json](./10137-dark-arcana-the-carnival.json) |
 | Dark Canvas Collection | 146305 | [146305-dark-canvas-collection.json](./146305-dark-canvas-collection.json) |
+| Dark Castle | 12034 | [12034-dark-castle.json](./12034-dark-castle.json) |
 | Dark Cavern | 278723 | [278723-dark-cavern.json](./278723-dark-cavern.json) |
 | Dark Chaser | 109034 | [109034-dark-chaser.json](./109034-dark-chaser.json) |
 | Dark City: Paris Collector's Edition | 190743 | [190743-dark-city-paris-collectors-edition.json](./190743-dark-city-paris-collectors-edition.json) |
@@ -637,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy Blocks | 296642 | [296642-destroy-blocks.json](./296642-destroy-blocks.json) |
 | Destroy the Cubes | 156133 | [156133-destroy-the-cubes.json](./156133-destroy-the-cubes.json) |
 | Destroy the Hexons | 156129 | [156129-destroy-the-hexons.json](./156129-destroy-the-hexons.json) |
+| Destruction Derby 64 | 10686 | [10686-destruction-derby-64.json](./10686-destruction-derby-64.json) |
 | Destruction of Planets | 193498 | [193498-destruction-of-planets.json](./193498-destruction-of-planets.json) |
 | Detail Hunter | 322982 | [322982-detail-hunter.json](./322982-detail-hunter.json) |
 | Detect Occult | 183064 | [183064-detect-occult.json](./183064-detect-occult.json) |
@@ -847,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discharge | 117040 | [117040-discharge.json](./117040-discharge.json) |
 | Disciples II: Dark Prophecy | 6542 | [6542-disciples-ii-dark-prophecy.json](./6542-disciples-ii-dark-prophecy.json) |
 | Disciples II: Gallean's Return | 19351 | [19351-disciples-ii-galleans-return.json](./19351-disciples-ii-galleans-return.json) |
+| Disciples II: Guardians of the Light | 11403 | [11403-disciples-ii-guardians-of-the-light.json](./11403-disciples-ii-guardians-of-the-light.json) |
 | Disco Bert and the Curse of the Evil Mummies | 55913 | [55913-disco-bert-and-the-curse-of-the-evil-mummies.json](./55913-disco-bert-and-the-curse-of-the-evil-mummies.json) |
 | Disco Elysium: Game Boy Edition | 140050 | [140050-disco-elysium-game-boy-edition.json](./140050-disco-elysium-game-boy-edition.json) |
 | Disco Elysium: The Final Cut Bundle | 249486 | [249486-disco-elysium-the-final-cut-bundle.json](./249486-disco-elysium-the-final-cut-bundle.json) |
@@ -931,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DIY Slime Maker! Squishy ASMR | 106593 | [106593-diy-slime-maker-squishy-asmr.json](./106593-diy-slime-maker-squishy-asmr.json) |
 | Dizziness | 181375 | [181375-dizziness.json](./181375-dizziness.json) |
 | Dizzy the Adventurer | 48672 | [48672-dizzy-the-adventurer.json](./48672-dizzy-the-adventurer.json) |
+| Dizzy: Prince of the Yolkfolk | 12049 | [12049-dizzy-prince-of-the-yolkfolk.json](./12049-dizzy-prince-of-the-yolkfolk.json) |
 | DizzyRoids | 233222 | [233222-dizzyroids.json](./233222-dizzyroids.json) |
 | DJ Mix Tour | 68028 | [68028-dj-mix-tour.json](./68028-dj-mix-tour.json) |
 | DJMax Portable: Clazziquai Edition | 79327 | [79327-djmax-portable-clazziquai-edition.json](./79327-djmax-portable-clazziquai-edition.json) |
