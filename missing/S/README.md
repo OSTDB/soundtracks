@@ -1131,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64 The Green Stars | 132830 | [132830-sm64-the-green-stars.json](./132830-sm64-the-green-stars.json) |
 | Smack Some Smackers | 77400 | [77400-smack-some-smackers.json](./77400-smack-some-smackers.json) |
 | Smack Wacker | 68668 | [68668-smack-wacker.json](./68668-smack-wacker.json) |
+| Smackitball | 33036 | [33036-smackitball.json](./33036-smackitball.json) |
 | Small Army | 185688 | [185688-small-army.json](./185688-small-army.json) |
 | Small Ball | 169461 | [169461-small-ball.json](./169461-small-ball.json) |
 | Smart CyberFly | 69851 | [69851-smart-cyberfly.json](./69851-smart-cyberfly.json) |
@@ -1141,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Court 3 | 61669 | [61669-smash-court-3.json](./61669-smash-court-3.json) |
 | Smash Crabs | 151744 | [151744-smash-crabs.json](./151744-smash-crabs.json) |
 | Smash Halloween Pumpkins: The Challenge | 103485 | [103485-smash-halloween-pumpkins-the-challenge.json](./103485-smash-halloween-pumpkins-the-challenge.json) |
+| Smash Pixel Racing | 33154 | [33154-smash-pixel-racing.json](./33154-smash-pixel-racing.json) |
 | Smash Reversi | 167287 | [167287-smash-reversi.json](./167287-smash-reversi.json) |
 | Smash Table Tennis | 84880 | [84880-smash-table-tennis.json](./84880-smash-table-tennis.json) |
 | Smash Up: Pretty Pretty | 172147 | [172147-smash-up-pretty-pretty.json](./172147-smash-up-pretty-pretty.json) |
@@ -1296,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokomonster + Sokolab + Feed Your Cat | 335101 | [335101-sokomonster-sokolab-feed-your-cat.json](./335101-sokomonster-sokolab-feed-your-cat.json) |
 | SokoNature | 324666 | [324666-sokonature.json](./324666-sokonature.json) |
 | Sokorun: One Box | 209673 | [209673-sokorun-one-box.json](./209673-sokorun-one-box.json) |
+| Sokos | 33053 | [33053-sokos.json](./33053-sokos.json) |
 | Sokotale | 141851 | [141851-sokotale.json](./141851-sokotale.json) |
 | Sol Frontiers | 317033 | [317033-sol-frontiers.json](./317033-sol-frontiers.json) |
 | Sol-Rui: After Mini | 331104 | [331104-sol-rui-after-mini.json](./331104-sol-rui-after-mini.json) |
@@ -1616,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Raiders | 52000 | [52000-space-raiders.json](./52000-space-raiders.json) |
 | Space Revenge | 158217 | [158217-space-revenge.json](./158217-space-revenge.json) |
 | Space Rockets: Spaceship Rocket Simulator | 232180 | [232180-space-rockets-spaceship-rocket-simulator.json](./232180-space-rockets-spaceship-rocket-simulator.json) |
+| Space Scaven | 33156 | [33156-space-scaven.json](./33156-space-scaven.json) |
 | Space Shells | 204100 | [204100-space-shells.json](./204100-space-shells.json) |
 | Space Shooter 3D | 96756 | [96756-space-shooter-3d.json](./96756-space-shooter-3d.json) |
 | Space shooter: Galaxy Attack | 256526 | [256526-space-shooter-galaxy-attack.json](./256526-space-shooter-galaxy-attack.json) |
@@ -1978,6 +1982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfighter 77 | 138810 | [138810-starfighter-77.json](./138810-starfighter-77.json) |
 | StarFighter R&D HD Edition | 134689 | [134689-starfighter-r-and-d-hd-edition.json](./134689-starfighter-r-and-d-hd-edition.json) |
 | StarForce: 2193 | 34475 | [34475-starforce-2193.json](./34475-starforce-2193.json) |
+| StarFringe: Adversus | 33148 | [33148-starfringe-adversus.json](./33148-starfringe-adversus.json) |
 | Stargaze | 139479 | [139479-stargaze.json](./139479-stargaze.json) |
 | Stargoose Warrior | 51285 | [51285-stargoose-warrior.json](./51285-stargoose-warrior.json) |
 | Stark Penitentiary | 161892 | [161892-stark-penitentiary.json](./161892-stark-penitentiary.json) |
@@ -2023,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of Decay 2: Daybreak Pack | 194647 | [194647-state-of-decay-2-daybreak-pack.json](./194647-state-of-decay-2-daybreak-pack.json) |
 | State of War | 94231 | [94231-state-of-war.json](./94231-state-of-war.json) |
 | State of War 2: Arcon | 64986 | [64986-state-of-war-2-arcon.json](./64986-state-of-war-2-arcon.json) |
+| States, Firms, and Households | 33122 | [33122-states-firms-and-households.json](./33122-states-firms-and-households.json) |
 | Static Cling | 182519 | [182519-static-cling.json](./182519-static-cling.json) |
 | Station 37 | 277027 | [277027-station-37.json](./277027-station-37.json) |
 | Station 5 | 307931 | [307931-station-5.json](./307931-station-5.json) |
@@ -2132,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Story | 301604 | [301604-stone-story.json](./301604-stone-story.json) |
 | Stone Tales | 34386 | [34386-stone-tales.json](./34386-stone-tales.json) |
 | Stone Wars | 91938 | [91938-stone-wars.json](./91938-stone-wars.json) |
+| Stonehenge VR | 33137 | [33137-stonehenge-vr.json](./33137-stonehenge-vr.json) |
 | StoneStory | 339662 | [339662-stonestory.json](./339662-stonestory.json) |
 | Stop and Go | 93567 | [93567-stop-and-go.json](./93567-stop-and-go.json) |
 | Stop Those Aliens! | 277567 | [277567-stop-those-aliens.json](./277567-stop-those-aliens.json) |
@@ -2751,6 +2758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surge Breaker | 185693 | [185693-surge-breaker.json](./185693-surge-breaker.json) |
 | Surge Concerto DX Agent Pack Code: Gold/. | 139996 | [139996-surge-concerto-dx-agent-pack-code-gold.json](./139996-surge-concerto-dx-agent-pack-code-gold.json) |
 | Surge Concerto DX Agent Pack Code: Silver/. | 140004 | [140004-surge-concerto-dx-agent-pack-code-silver.json](./140004-surge-concerto-dx-agent-pack-code-silver.json) |
+| Surgeon Simulator VR: Meet the Medic | 33128 | [33128-surgeon-simulator-vr-meet-the-medic.json](./33128-surgeon-simulator-vr-meet-the-medic.json) |
 | Surgical Robot Simulator | 170543 | [170543-surgical-robot-simulator.json](./170543-surgical-robot-simulator.json) |
 | Surgical Strike | 298295 | [298295-surgical-strike.json](./298295-surgical-strike.json) |
 | Surgineer | 223145 | [223145-surgineer.json](./223145-surgineer.json) |
