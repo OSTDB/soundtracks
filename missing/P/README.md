@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross S4 | 132828 | [132828-picross-s4.json](./132828-picross-s4.json) |
 | Picross: Lord of the Nazarick | 120899 | [120899-picross-lord-of-the-nazarick.json](./120899-picross-lord-of-the-nazarick.json) |
 | Picross.io | 126640 | [126640-picross-io.json](./126640-picross-io.json) |
+| Pictoword: Fun Word Pics Games | 87361 | [87361-pictoword-fun-word-pics-games.json](./87361-pictoword-fun-word-pics-games.json) |
 | Picture Party VR | 187541 | [187541-picture-party-vr.json](./187541-picture-party-vr.json) |
 | Piczle Colors | 114419 | [114419-piczle-colors.json](./114419-piczle-colors.json) |
 | Piczle Puzzle Adventures + Picto Quest Puzzle Bundle | 145690 | [145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json](./145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json) |
@@ -923,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Plants | 265949 | [265949-pocket-plants.json](./265949-pocket-plants.json) |
 | Pocket Player: Bubble Bobble | 245544 | [245544-pocket-player-bubble-bobble.json](./245544-pocket-player-bubble-bobble.json) |
 | Pocket Pool | 225877 | [225877-pocket-pool.json](./225877-pocket-pool.json) |
+| Pocket Puyo Puyo Tsuu | 87198 | [87198-pocket-puyo-puyo-tsuu.json](./87198-pocket-puyo-puyo-tsuu.json) |
 | Pocket Royal | 196332 | [196332-pocket-royal.json](./196332-pocket-royal.json) |
 | Pocket RPG | 61075 | [61075-pocket-rpg.json](./61075-pocket-rpg.json) |
 | Pocket Shooter Hardcore | 57691 | [57691-pocket-shooter-hardcore.json](./57691-pocket-shooter-hardcore.json) |
