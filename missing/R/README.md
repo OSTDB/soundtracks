@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabi-Ribi: Is the order a DLC? | 171637 | [171637-rabi-ribi-is-the-order-a-dlc.json](./171637-rabi-ribi-is-the-order-a-dlc.json) |
 | Rabid Helix | 257656 | [257656-rabid-helix.json](./257656-rabid-helix.json) |
 | Rabisco+ | 147464 | [147464-rabisco.json](./147464-rabisco.json) |
+| Raccoin: Coin Pusher Roguelike | 360748 | [360748-raccoin-coin-pusher-roguelike.json](./360748-raccoin-coin-pusher-roguelike.json) |
 | Raccoon Hero: The Sunrise | 51961 | [51961-raccoon-hero-the-sunrise.json](./51961-raccoon-hero-the-sunrise.json) |
 | Race Ace | 315274 | [315274-race-ace.json](./315274-race-ace.json) |
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
@@ -639,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhino Rumble | 49947 | [49947-rhino-rumble.json](./49947-rhino-rumble.json) |
 | Rhino Runner | 261557 | [261557-rhino-runner.json](./261557-rhino-runner.json) |
 | Rhythm & Beats | 292282 | [292282-rhythm-and-beats.json](./292282-rhythm-and-beats.json) |
+| Rhythm Heaven Groove | 337031 | [337031-rhythm-heaven-groove.json](./337031-rhythm-heaven-groove.json) |
 | Rhythm Hell | 257080 | [257080-rhythm-hell.json](./257080-rhythm-hell.json) |
 | Rhythm Stars Climbing | 157196 | [157196-rhythm-stars-climbing.json](./157196-rhythm-stars-climbing.json) |
 | Rhythm Zone | 51283 | [51283-rhythm-zone.json](./51283-rhythm-zone.json) |
@@ -805,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Hog! | 84245 | [84245-road-hog.json](./84245-road-hog.json) |
 | Road Homeward: Open World | 127312 | [127312-road-homeward-open-world.json](./127312-road-homeward-open-world.json) |
 | Road Racer | 297243 | [297243-road-racer.json](./297243-road-racer.json) |
+| Road Rash 64 | 3589 | [3589-road-rash-64.json](./3589-road-rash-64.json) |
 | Road to Adventure! | 143747 | [143747-road-to-adventure.json](./143747-road-to-adventure.json) |
 | Road to Beta | 86114 | [86114-road-to-beta.json](./86114-road-to-beta.json) |
 | Road to Exotics! | 275337 | [275337-road-to-exotics.json](./275337-road-to-exotics.json) |
@@ -1026,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roof Jumping: Stunt Driver Sim | 104087 | [104087-roof-jumping-stunt-driver-sim.json](./104087-roof-jumping-stunt-driver-sim.json) |
 | Roofbot | 30897 | [30897-roofbot.json](./30897-roofbot.json) |
 | Roofbot: Puzzler on the Roof | 96729 | [96729-roofbot-puzzler-on-the-roof.json](./96729-roofbot-puzzler-on-the-roof.json) |
+| Rooftop Rascal: The Glitch Cat | 324996 | [324996-rooftop-rascal-the-glitch-cat.json](./324996-rooftop-rascal-the-glitch-cat.json) |
 | Rookie Math Pro | 102205 | [102205-rookie-math-pro.json](./102205-rookie-math-pro.json) |
 | Rookie Tank | 116357 | [116357-rookie-tank.json](./116357-rookie-tank.json) |
 | Room 404 | 55191 | [55191-room-404.json](./55191-room-404.json) |
