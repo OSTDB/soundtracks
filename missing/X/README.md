@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xander the Monster Morpher: Universe Breaker | 120983 | [120983-xander-the-monster-morpher-universe-breaker.json](./120983-xander-the-monster-morpher-universe-breaker.json) |
 | Xango Tango | 205820 | [205820-xango-tango.json](./205820-xango-tango.json) |
 | XBlaze Lost: Memories | 11637 | [11637-xblaze-lost-memories.json](./11637-xblaze-lost-memories.json) |
+| XCOM 2: Shen's Last Gift | 19859 | [19859-xcom-2-shens-last-gift.json](./19859-xcom-2-shens-last-gift.json) |
 | xDasher | 132261 | [132261-xdasher.json](./132261-xdasher.json) |
 | XDefiant | 159029 | [159029-xdefiant.json](./159029-xdefiant.json) |
 | Xel: Breaking Time | 246632 | [246632-xel-breaking-time.json](./246632-xel-breaking-time.json) |
@@ -50,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoblade Chronicles: Collector's Edition | 50591 | [50591-xenoblade-chronicles-collectors-edition.json](./50591-xenoblade-chronicles-collectors-edition.json) |
 | XenoFeud | 235488 | [235488-xenofeud.json](./235488-xenofeud.json) |
 | Xenogears | 1346 | [1346-xenogears.json](./1346-xenogears.json) |
+| Xenonauts 2 | 19408 | [19408-xenonauts-2.json](./19408-xenonauts-2.json) |
 | Xenopathy | 183043 | [183043-xenopathy.json](./183043-xenopathy.json) |
 | Xenosaga II to III: A Missing Year | 240497 | [240497-xenosaga-ii-to-iii-a-missing-year.json](./240497-xenosaga-ii-to-iii-a-missing-year.json) |
 | Xenowar | 70390 | [70390-xenowar.json](./70390-xenowar.json) |
