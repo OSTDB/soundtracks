@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Spreading: Survival | 239911 | [239911-dead-spreading-survival.json](./239911-dead-spreading-survival.json) |
 | Dead Station | 225883 | [225883-dead-station.json](./225883-dead-station.json) |
 | Dead TrailZ | 35753 | [35753-dead-trailz.json](./35753-dead-trailz.json) |
+| Dead Years | 19582 | [19582-dead-years.json](./19582-dead-years.json) |
 | Dead Zone | 203555 | [203555-dead-zone.json](./203555-dead-zone.json) |
 | Dead Zone Defense | 304897 | [304897-dead-zone-defense.json](./304897-dead-zone-defense.json) |
 | Deadbait | 161381 | [161381-deadbait.json](./161381-deadbait.json) |
@@ -1096,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draconic Order VR | 31925 | [31925-draconic-order-vr.json](./31925-draconic-order-vr.json) |
 | Dracu-Riot! | 137087 | [137087-dracu-riot.json](./137087-dracu-riot.json) |
 | Dracula Hakushaku | 66111 | [66111-dracula-hakushaku.json](./66111-dracula-hakushaku.json) |
+| Dracula Twins | 19594 | [19594-dracula-twins.json](./19594-dracula-twins.json) |
 | Dracula vs. The Ninja On the Moon | 144306 | [144306-dracula-vs-the-ninja-on-the-moon.json](./144306-dracula-vs-the-ninja-on-the-moon.json) |
 | Dracula: Crazy Vampire | 49941 | [49941-dracula-crazy-vampire.json](./49941-dracula-crazy-vampire.json) |
 | Dracula: Origin 2 | 95433 | [95433-dracula-origin-2.json](./95433-dracula-origin-2.json) |
