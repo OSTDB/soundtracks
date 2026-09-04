@@ -1087,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ape Escape | 146296 | [146296-ape-escape.json](./146296-ape-escape.json) |
 | Ape Escape Academy | 272555 | [272555-ape-escape-academy.json](./272555-ape-escape-academy.json) |
 | Ape Escape: Million Monkeys | 68008 | [68008-ape-escape-million-monkeys.json](./68008-ape-escape-million-monkeys.json) |
+| Ape Escape: On the Loose | 44530 | [44530-ape-escape-on-the-loose.json](./44530-ape-escape-on-the-loose.json) |
 | Apex Heroines: Character Outfit - Dark Maid | 309091 | [309091-apex-heroines-character-outfit-dark-maid.json](./309091-apex-heroines-character-outfit-dark-maid.json) |
 | Apex Heroines: Character Outfit - Flower Fairy | 309090 | [309090-apex-heroines-character-outfit-flower-fairy.json](./309090-apex-heroines-character-outfit-flower-fairy.json) |
 | Apex Heroines: Character Outfit - Ninja Leader | 309088 | [309088-apex-heroines-character-outfit-ninja-leader.json](./309088-apex-heroines-character-outfit-ninja-leader.json) |
@@ -1471,10 +1472,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assimilation | 72125 | [72125-assimilation.json](./72125-assimilation.json) |
 | AST-Hero | 130384 | [130384-ast-hero.json](./130384-ast-hero.json) |
 | Astæria | 134670 | [134670-ast-ria.json](./134670-ast-ria.json) |
+| Astalon: Tears of the Earth | 80885 | [80885-astalon-tears-of-the-earth.json](./80885-astalon-tears-of-the-earth.json) |
 | Asterelis | 118404 | [118404-asterelis.json](./118404-asterelis.json) |
 | Asterism | 119741 | [119741-asterism.json](./119741-asterism.json) |
 | Asterix | 12242 | [12242-asterix.json](./12242-asterix.json) |
 | Astérix | 19486 | [19486-asterix.json](./19486-asterix.json) |
+| Astérix & Obélix XXL 2: Mission: Las Vegum | 81480 | [81480-asterix-and-obelix-xxl-2-mission-las-vegum.json](./81480-asterix-and-obelix-xxl-2-mission-las-vegum.json) |
 | Asterix & Obelix XXL 3: The Crystal Menhir - Collector's Edition | 166231 | [166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json](./166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json) |
 | Asterix & Obelix: Cesar's Challenge | 262663 | [262663-asterix-and-obelix-cesars-challenge.json](./262663-asterix-and-obelix-cesars-challenge.json) |
 | Astero Inc. | 176506 | [176506-astero-inc.json](./176506-astero-inc.json) |
