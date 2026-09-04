@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Collector: Zombie | 114370 | [114370-achievement-collector-zombie.json](./114370-achievement-collector-zombie.json) |
 | Achievement Display Cabinet | 258207 | [258207-achievement-display-cabinet.json](./258207-achievement-display-cabinet.json) |
 | Achievement Hunter: Begins | 307333 | [307333-achievement-hunter-begins.json](./307333-achievement-hunter-begins.json) |
+| Achilles: Legends Untold | 160293 | [160293-achilles-legends-untold.json](./160293-achilles-legends-untold.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
 | Ack-Ack Attack! | 79318 | [79318-ack-ack-attack.json](./79318-ack-ack-attack.json) |
 | ACL Pro Cornhole | 211391 | [211391-acl-pro-cornhole.json](./211391-acl-pro-cornhole.json) |
@@ -802,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amelie | 190744 | [190744-amelie.json](./190744-amelie.json) |
 | Ameprod Television Game 10 | 243416 | [243416-ameprod-television-game-10.json](./243416-ameprod-television-game-10.json) |
 | America is Doing Great | 136486 | [136486-america-is-doing-great.json](./136486-america-is-doing-great.json) |
+| America's Army | 597 | [597-americas-army.json](./597-americas-army.json) |
 | American Assault | 273130 | [273130-american-assault.json](./273130-american-assault.json) |
 | American Basketball: Guns & Balls | 234316 | [234316-american-basketball-guns-and-balls.json](./234316-american-basketball-guns-and-balls.json) |
 | American Conquest: Anthology | 324664 | [324664-american-conquest-anthology.json](./324664-american-conquest-anthology.json) |
@@ -1436,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Spy: Elite Spy Edition | 124831 | [124831-assault-spy-elite-spy-edition.json](./124831-assault-spy-elite-spy-edition.json) |
 | AssaultCube | 9530 | [9530-assaultcube.json](./9530-assaultcube.json) |
 | Assembly Line 2: Mobile Version | 277015 | [277015-assembly-line-2-mobile-version.json](./277015-assembly-line-2-mobile-version.json) |
+| Assetto Corsa Competizione | 171274 | [171274-assetto-corsa-competizione.json](./171274-assetto-corsa-competizione.json) |
 | Assetto Corsa Competizione: 2020 GT World Challenge Pack | 168372 | [168372-assetto-corsa-competizione-2020-gt-world-challenge-pack.json](./168372-assetto-corsa-competizione-2020-gt-world-challenge-pack.json) |
 | Assetto Corsa Competizione: American Track Pack | 208627 | [208627-assetto-corsa-competizione-american-track-pack.json](./208627-assetto-corsa-competizione-american-track-pack.json) |
 | Assetto Corsa Competizione: British GT Pack | 168371 | [168371-assetto-corsa-competizione-british-gt-pack.json](./168371-assetto-corsa-competizione-british-gt-pack.json) |
@@ -1515,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asym Altered Axis | 205794 | [205794-asym-altered-axis.json](./205794-asym-altered-axis.json) |
 | At a Distance | 65496 | [65496-at-a-distance.json](./65496-at-a-distance.json) |
 | At Dawn's Break | 303271 | [303271-at-dawns-break.json](./303271-at-dawns-break.json) |
+| At Dead of Night | 141235 | [141235-at-dead-of-night.json](./141235-at-dead-of-night.json) |
 | At Ishtar's Gate | 142493 | [142493-at-ishtars-gate.json](./142493-at-ishtars-gate.json) |
 | At the Gates of Midian | 271496 | [271496-at-the-gates-of-midian.json](./271496-at-the-gates-of-midian.json) |
 | At the Heart of the Forest | 201303 | [201303-at-the-heart-of-the-forest.json](./201303-at-the-heart-of-the-forest.json) |
