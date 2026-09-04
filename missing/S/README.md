@@ -277,6 +277,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School: The Hardest RPG in Your Life | 263765 | [263765-school-the-hardest-rpg-in-your-life.json](./263765-school-the-hardest-rpg-in-your-life.json) |
 | Schoolboy Escape | 336376 | [336376-schoolboy-escape.json](./336376-schoolboy-escape.json) |
 | SchoolBoy Simulator | 335077 | [335077-schoolboy-simulator.json](./335077-schoolboy-simulator.json) |
+| SchoolMate | 22464 | [22464-schoolmate.json](./22464-schoolmate.json) |
+| SchoolMate Sweets! | 22466 | [22466-schoolmate-sweets.json](./22466-schoolmate-sweets.json) |
 | Schoolmates: The Mystery of the Magical Bracelet | 165005 | [165005-schoolmates-the-mystery-of-the-magical-bracelet.json](./165005-schoolmates-the-mystery-of-the-magical-bracelet.json) |
 | Schrödinger no Neko: Die Katze von Schrödinger | 230513 | [230513-schrodinger-no-neko-die-katze-von-schrodinger.json](./230513-schrodinger-no-neko-die-katze-von-schrodinger.json) |
 | Schrodinger's Cat Burglar | 270929 | [270929-schrodingers-cat-burglar.json](./270929-schrodingers-cat-burglar.json) |
@@ -356,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea-Doo Hydrocross | 264853 | [264853-sea-doo-hydrocross.json](./264853-sea-doo-hydrocross.json) |
 | Seabed Frog | 211956 | [211956-seabed-frog.json](./211956-seabed-frog.json) |
 | SeaBlade | 47320 | [47320-seablade.json](./47320-seablade.json) |
+| Seafox | 22416 | [22416-seafox.json](./22416-seafox.json) |
 | Seal of Solitomb | 325860 | [325860-seal-of-solitomb.json](./325860-seal-of-solitomb.json) |
 | Sealed | 306661 | [306661-sealed.json](./306661-sealed.json) |
 | Sealed Bite: Extended | 291228 | [291228-sealed-bite-extended.json](./291228-sealed-bite-extended.json) |
@@ -537,6 +540,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexdivers | 324680 | [324680-sexdivers.json](./324680-sexdivers.json) |
 | Sexual Nudity | 140575 | [140575-sexual-nudity.json](./140575-sexual-nudity.json) |
 | SexWife: No Limit | 259854 | [259854-sexwife-no-limit.json](./259854-sexwife-no-limit.json) |
+| Sexy Beach | 22419 | [22419-sexy-beach.json](./22419-sexy-beach.json) |
+| Sexy Beach 2 | 22421 | [22421-sexy-beach-2.json](./22421-sexy-beach-2.json) |
+| Sexy Beach 3 Plus | 22463 | [22463-sexy-beach-3-plus.json](./22463-sexy-beach-3-plus.json) |
+| Sexy Beach Zero | 22423 | [22423-sexy-beach-zero.json](./22423-sexy-beach-zero.json) |
 | Sexy Girls | 111721 | [111721-sexy-girls.json](./111721-sexy-girls.json) |
 | Sexy Girls Puzzle | 109706 | [109706-sexy-girls-puzzle.json](./109706-sexy-girls-puzzle.json) |
 | Sexy Hentai Puzzle | 214189 | [214189-sexy-hentai-puzzle.json](./214189-sexy-hentai-puzzle.json) |
@@ -1175,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smilinguido: Desafio na Floresta | 183610 | [183610-smilinguido-desafio-na-floresta.json](./183610-smilinguido-desafio-na-floresta.json) |
 | Smily Angry | 318754 | [318754-smily-angry.json](./318754-smily-angry.json) |
 | Smite Rivals | 26693 | [26693-smite-rivals.json](./26693-smite-rivals.json) |
+| Smithereens! | 22412 | [22412-smithereens.json](./22412-smithereens.json) |
 | Smithy Shop | 236538 | [236538-smithy-shop.json](./236538-smithy-shop.json) |
 | Smoking Guns: Shooting Gallery! | 77382 | [77382-smoking-guns-shooting-gallery.json](./77382-smoking-guns-shooting-gallery.json) |
 | Smoking Simulator | 201285 | [201285-smoking-simulator.json](./201285-smoking-simulator.json) |
@@ -1618,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fantasy Zone | 42007 | [42007-space-fantasy-zone.json](./42007-space-fantasy-zone.json) |
 | Space Fat: To the Core | 155655 | [155655-space-fat-to-the-core.json](./155655-space-fat-to-the-core.json) |
 | Space Filler | 338013 | [338013-space-filler.json](./338013-space-filler.json) |
+| Space Firebird | 22432 | [22432-space-firebird.json](./22432-space-firebird.json) |
 | Space Fishermen | 64948 | [64948-space-fishermen.json](./64948-space-fishermen.json) |
 | Space Force | 336915 | [336915-space-force.json](./336915-space-force.json) |
 | Space Fox Kimi and the Interstellar Fortress | 171589 | [171589-space-fox-kimi-and-the-interstellar-fortress.json](./171589-space-fox-kimi-and-the-interstellar-fortress.json) |
