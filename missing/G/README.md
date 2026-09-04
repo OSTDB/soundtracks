@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactica: Batalha Espacial | 123033 | [123033-galactica-batalha-espacial.json](./123033-galactica-batalha-espacial.json) |
 | Galacticraft | 232681 | [232681-galacticraft.json](./232681-galacticraft.json) |
 | Galactose: Pastries in Space | 109047 | [109047-galactose-pastries-in-space.json](./109047-galactose-pastries-in-space.json) |
+| Galaforce | 13719 | [13719-galaforce.json](./13719-galaforce.json) |
 | Galak-Z: The Virtual | 111039 | [111039-galak-z-the-virtual.json](./111039-galak-z-the-virtual.json) |
 | Galak-Z: The Void - Deluxe Edition | 115666 | [115666-galak-z-the-void-deluxe-edition.json](./115666-galak-z-the-void-deluxe-edition.json) |
 | Galak-Z: The Void / Skulls of the Shogun: Bone-A-Fide Edition - Platinum Pack | 173777 | [173777-galak-z-the-void-skulls-of-the-shogun-bone-a-fide-edition-platinum-pack.json](./173777-galak-z-the-void-skulls-of-the-shogun-bone-a-fide-edition-platinum-pack.json) |
@@ -187,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GatePass | 319987 | [319987-gatepass.json](./319987-gatepass.json) |
 | Gates of Andaron | 209594 | [209594-gates-of-andaron.json](./209594-gates-of-andaron.json) |
 | Gates to Terra II | 126646 | [126646-gates-to-terra-ii.json](./126646-gates-to-terra-ii.json) |
+| Gateway to Karos | 13720 | [13720-gateway-to-karos.json](./13720-gateway-to-karos.json) |
 | Gauley | 341327 | [341327-gauley.json](./341327-gauley.json) |
 | Gauntlet: Slayer Edition - Lilith the Necromancer Pack | 226429 | [226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json](./226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json) |
 | Gauntlet: The Deeper Dungeons | 37164 | [37164-gauntlet-the-deeper-dungeons.json](./37164-gauntlet-the-deeper-dungeons.json) |
@@ -341,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostwinter | 148558 | [148558-ghostwinter.json](./148558-ghostwinter.json) |
 | Ghostwire Tokyo: Spider's Thread | 246125 | [246125-ghostwire-tokyo-spiders-thread.json](./246125-ghostwire-tokyo-spiders-thread.json) |
 | GhoulBoy: Limited Edition | 166234 | [166234-ghoulboy-limited-edition.json](./166234-ghoulboy-limited-edition.json) |
+| Ghouls | 13721 | [13721-ghouls.json](./13721-ghouls.json) |
 | Ghouls 'n Ghosts Remix | 191269 | [191269-ghouls-n-ghosts-remix.json](./191269-ghouls-n-ghosts-remix.json) |
 | Ghouls 'n Ghosts Remix: Queen Edition | 191271 | [191271-ghouls-n-ghosts-remix-queen-edition.json](./191271-ghouls-n-ghosts-remix-queen-edition.json) |
 | Giagachan | 218132 | [218132-giagachan.json](./218132-giagachan.json) |
@@ -438,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomonic | 219797 | [219797-gnomonic.json](./219797-gnomonic.json) |
 | Gnosis | 201292 | [201292-gnosis.json](./201292-gnosis.json) |
 | Gnosis | 292284 | [292284-gnosis.json](./292284-gnosis.json) |
+| Go | 13722 | [13722-go.json](./13722-go.json) |
 | Go Fight Fantastic! | 127364 | [127364-go-fight-fantastic.json](./127364-go-fight-fantastic.json) |
 | Go Go Muffin | 212451 | [212451-go-go-muffin.json](./212451-go-go-muffin.json) |
 | Go Go Poncho! | 89958 | [89958-go-go-poncho.json](./89958-go-go-poncho.json) |
@@ -527,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golazo! | 122408 | [122408-golazo.json](./122408-golazo.json) |
 | Gold | 315301 | [315301-gold.json](./315301-gold.json) |
 | Gold and Glory: The Road to El Dorado | 209636 | [209636-gold-and-glory-the-road-to-el-dorado.json](./209636-gold-and-glory-the-road-to-el-dorado.json) |
+| Gold Digger | 13723 | [13723-gold-digger.json](./13723-gold-digger.json) |
 | Gold Digger | 147994 | [147994-gold-digger.json](./147994-gold-digger.json) |
 | Gold Digger Maze | 105380 | [105380-gold-digger-maze.json](./105380-gold-digger-maze.json) |
 | Gold Digger: The Simulator | 315835 | [315835-gold-digger-the-simulator.json](./315835-gold-digger-the-simulator.json) |
