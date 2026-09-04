@@ -533,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iseran: Isekai Rantou | 257675 | [257675-iseran-isekai-rantou.json](./257675-iseran-isekai-rantou.json) |
 | Ishidó: The Way of Stones | 152385 | [152385-ishido-the-way-of-stones.json](./152385-ishido-the-way-of-stones.json) |
 | Ishika & Honori | 124241 | [124241-ishika-and-honori.json](./124241-ishika-and-honori.json) |
+| Ishin no Arashi | 30923 | [30923-ishin-no-arashi.json](./30923-ishin-no-arashi.json) |
 | Ishu Saikyou-ou Zukan: Battle Colosseum | 225897 | [225897-ishu-saikyou-ou-zukan-battle-colosseum.json](./225897-ishu-saikyou-ou-zukan-battle-colosseum.json) |
 | Island | 260380 | [260380-island.json](./260380-island.json) |
 | Island Bender | 234346 | [234346-island-bender.json](./234346-island-bender.json) |
