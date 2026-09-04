@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Was in the War | 242822 | [242822-i-was-in-the-war.json](./242822-i-was-in-the-war.json) |
 | I Was Wrong | 207499 | [207499-i-was-wrong.json](./207499-i-was-wrong.json) |
 | I Will Be Your Eyes | 126649 | [126649-i-will-be-your-eyes.json](./126649-i-will-be-your-eyes.json) |
+| I will eat you | 126957 | [126957-i-will-eat-you.json](./126957-i-will-eat-you.json) |
 | I Will Return | 341876 | [341876-i-will-return.json](./341876-i-will-return.json) |
 | I Wish You Rain | 23884 | [23884-i-wish-you-rain.json](./23884-i-wish-you-rain.json) |
 | I-0: Jailbait on Interstate Zero | 69879 | [69879-i-0-jailbait-on-interstate-zero.json](./69879-i-0-jailbait-on-interstate-zero.json) |
@@ -257,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Maze | 135898 | [135898-impossible-maze.json](./135898-impossible-maze.json) |
 | Impossible Road 2 | 278688 | [278688-impossible-road-2.json](./278688-impossible-road-2.json) |
 | Impossible Slasher | 194634 | [194634-impossible-slasher.json](./194634-impossible-slasher.json) |
+| Impossible Soaring | 127705 | [127705-impossible-soaring.json](./127705-impossible-soaring.json) |
 | Impossible Target | 156158 | [156158-impossible-target.json](./156158-impossible-target.json) |
 | Impossible Twisty Dots | 88288 | [88288-impossible-twisty-dots.json](./88288-impossible-twisty-dots.json) |
 | Impostor Hide Online | 179727 | [179727-impostor-hide-online.json](./179727-impostor-hide-online.json) |
