@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Memories: Romance You Choose | 299456 | [299456-lost-memories-romance-you-choose.json](./299456-lost-memories-romance-you-choose.json) |
 | Lost Planet 3 | 1916 | [1916-lost-planet-3.json](./1916-lost-planet-3.json) |
 | Lost Planet: Extreme Condition | 1913 | [1913-lost-planet-extreme-condition.json](./1913-lost-planet-extreme-condition.json) |
+| Lost Recipes | 194717 | [194717-lost-recipes.json](./194717-lost-recipes.json) |
 | Lost Saga | 63868 | [63868-lost-saga.json](./63868-lost-saga.json) |
 | Lost Soul | 184128 | [184128-lost-soul.json](./184128-lost-soul.json) |
 | Lost Traces: Unsolved Cases - Genesis | 329387 | [329387-lost-traces-unsolved-cases-genesis.json](./329387-lost-traces-unsolved-cases-genesis.json) |
@@ -803,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Planet Remix | 165030 | [165030-lovely-planet-remix.json](./165030-lovely-planet-remix.json) |
 | Lovely Sweet Dream | 172766 | [172766-lovely-sweet-dream.json](./172766-lovely-sweet-dream.json) |
 | Lovely x Cation 1 & 2 | 79306 | [79306-lovely-x-cation-1-and-2.json](./79306-lovely-x-cation-1-and-2.json) |
+| Lover Pretend | 193536 | [193536-lover-pretend.json](./193536-lover-pretend.json) |
 | Lovers of Aether | 117041 | [117041-lovers-of-aether.json](./117041-lovers-of-aether.json) |
 | Loving You Fully | 159873 | [159873-loving-you-fully.json](./159873-loving-you-fully.json) |
 | Low G Man: The Low Gravity Man | 48028 | [48028-low-g-man-the-low-gravity-man.json](./48028-low-g-man-the-low-gravity-man.json) |
