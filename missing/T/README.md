@@ -2084,6 +2084,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Winter Assault MP098 | 173759 | [173759-tiger-tank-59-i-winter-assault-mp098.json](./173759-tiger-tank-59-i-winter-assault-mp098.json) |
 | Tiger Tank 59 I: Winter Assault MP100 | 173763 | [173763-tiger-tank-59-i-winter-assault-mp100.json](./173763-tiger-tank-59-i-winter-assault-mp100.json) |
 | Tiger Transforming Robot 2018 | 102783 | [102783-tiger-transforming-robot-2018.json](./102783-tiger-transforming-robot-2018.json) |
+| Tiger Woods PGA Tour 09 | 5222 | [5222-tiger-woods-pga-tour-09.json](./5222-tiger-woods-pga-tour-09.json) |
+| Tiger Woods PGA Tour 2004 | 905 | [905-tiger-woods-pga-tour-2004.json](./905-tiger-woods-pga-tour-2004.json) |
 | Tiger Woods PGA Tour 2008 | 51234 | [51234-tiger-woods-pga-tour-2008.json](./51234-tiger-woods-pga-tour-2008.json) |
 | Tightrope Walking | 178076 | [178076-tightrope-walking.json](./178076-tightrope-walking.json) |
 | Tik Tak Caro | 239328 | [239328-tik-tak-caro.json](./239328-tik-tak-caro.json) |
@@ -2327,6 +2329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonka: Dig'n Rigs | 226412 | [226412-tonka-dign-rigs.json](./226412-tonka-dign-rigs.json) |
 | Tony & Friends in Kellogg's Land | 58272 | [58272-tony-and-friends-in-kelloggs-land.json](./58272-tony-and-friends-in-kelloggs-land.json) |
 | Tony and Clyde | 172753 | [172753-tony-and-clyde.json](./172753-tony-and-clyde.json) |
+| Tony Hawk's American Sk8land | 6643 | [6643-tony-hawks-american-sk8land.json](./6643-tony-hawks-american-sk8land.json) |
 | Tony Hawk's Pro Skater | 6692 | [6692-tony-hawks-pro-skater.json](./6692-tony-hawks-pro-skater.json) |
 | Tony Hawk's Pro Skater 2 | 229927 | [229927-tony-hawks-pro-skater-2.json](./229927-tony-hawks-pro-skater-2.json) |
 | Tony Hawk's Pro Skater 3 | 194213 | [194213-tony-hawks-pro-skater-3.json](./194213-tony-hawks-pro-skater-3.json) |
@@ -2405,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Battle Tank SP | 55908 | [55908-touch-battle-tank-sp.json](./55908-touch-battle-tank-sp.json) |
 | Touch Carrom: Striker Edition | 239887 | [239887-touch-carrom-striker-edition.json](./239887-touch-carrom-striker-edition.json) |
 | Touch Melo | 312904 | [312904-touch-melo.json](./312904-touch-melo.json) |
+| Touch My Katamari | 6462 | [6462-touch-my-katamari.json](./6462-touch-my-katamari.json) |
 | Touchdown Pinball | 129804 | [129804-touchdown-pinball.json](./129804-touchdown-pinball.json) |
 | Touchgrind BMX | 88294 | [88294-touchgrind-bmx.json](./88294-touchgrind-bmx.json) |
 | TouchSports Tennis 2012 HD | 233744 | [233744-touchsports-tennis-2012-hd.json](./233744-touchsports-tennis-2012-hd.json) |
