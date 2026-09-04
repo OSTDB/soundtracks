@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Janshi Suchie-Pai III | 76610 | [76610-idol-janshi-suchie-pai-iii.json](./76610-idol-janshi-suchie-pai-iii.json) |
 | Idol Mahjong Final Romance 4 Remaster | 273652 | [273652-idol-mahjong-final-romance-4-remaster.json](./273652-idol-mahjong-final-romance-4-remaster.json) |
 | Idol Manager | 95215 | [95215-idol-manager.json](./95215-idol-manager.json) |
+| Idol Showdown | 243747 | [243747-idol-showdown.json](./243747-idol-showdown.json) |
 | Idol Tantei You&My | 246105 | [246105-idol-tantei-you-and-my.json](./246105-idol-tantei-you-and-my.json) |
 | Idtipsa | 201838 | [201838-idtipsa.json](./201838-idtipsa.json) |
 | Idun | 237048 | [237048-idun.json](./237048-idun.json) |
