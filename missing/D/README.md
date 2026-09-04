@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danmakai: Red Forbidden Fruit | 140040 | [140040-danmakai-red-forbidden-fruit.json](./140040-danmakai-red-forbidden-fruit.json) |
 | Danmaku Juuenka: Danmaku Card Battle | 215365 | [215365-danmaku-juuenka-danmaku-card-battle.json](./215365-danmaku-juuenka-danmaku-card-battle.json) |
 | Danmaku Kentei Shiken: DaiOuJou-hen | 296056 | [296056-danmaku-kentei-shiken-daioujou-hen.json](./296056-danmaku-kentei-shiken-daioujou-hen.json) |
+| Danmaku Unlimited 2 | 17107 | [17107-danmaku-unlimited-2.json](./17107-danmaku-unlimited-2.json) |
 | Danse Macabre: Crimson Cabaret HD | 101580 | [101580-danse-macabre-crimson-cabaret-hd.json](./101580-danse-macabre-crimson-cabaret-hd.json) |
 | Danse Macabre: Deadly Deception | 108461 | [108461-danse-macabre-deadly-deception.json](./108461-danse-macabre-deadly-deception.json) |
 | Dānshēngǒu de Zuìhòu Jīhuì | 130962 | [130962-danshengou-de-zuihou-jihui.json](./130962-danshengou-de-zuihou-jihui.json) |
@@ -196,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkfate | 242817 | [242817-darkfate.json](./242817-darkfate.json) |
 | Darklin Wars | 129769 | [129769-darklin-wars.json](./129769-darklin-wars.json) |
 | Darkman | 12037 | [12037-darkman.json](./12037-darkman.json) |
+| DarkMaus | 18335 | [18335-darkmaus.json](./18335-darkmaus.json) |
 | Darkmoor Manor | 102791 | [102791-darkmoor-manor.json](./102791-darkmoor-manor.json) |
 | Darkness of the Coast | 195220 | [195220-darkness-of-the-coast.json](./195220-darkness-of-the-coast.json) |
 | Darkout | 10108 | [10108-darkout.json](./10108-darkout.json) |
@@ -407,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Rally | 18121 | [18121-death-rally.json](./18121-death-rally.json) |
 | Death Remains | 333380 | [333380-death-remains.json](./333380-death-remains.json) |
 | Death Room | 75156 | [75156-death-room.json](./75156-death-room.json) |
+| Death Skid Marks | 17897 | [17897-death-skid-marks.json](./17897-death-skid-marks.json) |
 | Death Slave | 209698 | [209698-death-slave.json](./209698-death-slave.json) |
 | Death Star | 12949 | [12949-death-star.json](./12949-death-star.json) |
 | Death Star Interceptor | 45334 | [45334-death-star-interceptor.json](./45334-death-star-interceptor.json) |
@@ -541,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Gaze Extra | 148525 | [148525-demon-gaze-extra.json](./148525-demon-gaze-extra.json) |
 | Demon Go! | 209653 | [209653-demon-go.json](./209653-demon-go.json) |
 | Demon Grade | 75159 | [75159-demon-grade.json](./75159-demon-grade.json) |
+| Demon Hunter: Chronicles from Beyond | 17987 | [17987-demon-hunter-chronicles-from-beyond.json](./17987-demon-hunter-chronicles-from-beyond.json) |
 | Demon Keeper 2+ | 167305 | [167305-demon-keeper-2.json](./167305-demon-keeper-2.json) |
 | Demon Path: Tower of Armagor | 215904 | [215904-demon-path-tower-of-armagor.json](./215904-demon-path-tower-of-armagor.json) |
 | Demon RPG | 299451 | [299451-demon-rpg.json](./299451-demon-rpg.json) |
