@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravengrave: Iron Bonds | 335113 | [335113-ravengrave-iron-bonds.json](./335113-ravengrave-iron-bonds.json) |
 | Ravenhaul | 249470 | [249470-ravenhaul.json](./249470-ravenhaul.json) |
 | RavenHeart Hospital: A Medical Visual Novel | 165009 | [165009-ravenheart-hospital-a-medical-visual-novel.json](./165009-ravenheart-hospital-a-medical-visual-novel.json) |
+| Ravenlok | 204626 | [204626-ravenlok.json](./204626-ravenlok.json) |
 | Raw Element | 341307 | [341307-raw-element.json](./341307-raw-element.json) |
 | Raw Nerve | 253567 | [253567-raw-nerve.json](./253567-raw-nerve.json) |
 | Rawshire the Last Hatchling | 158214 | [158214-rawshire-the-last-hatchling.json](./158214-rawshire-the-last-hatchling.json) |
@@ -842,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Vacuum Simulator 2013 | 61629 | [61629-robot-vacuum-simulator-2013.json](./61629-robot-vacuum-simulator-2013.json) |
 | Robot Vacuum Simulator X | 130370 | [130370-robot-vacuum-simulator-x.json](./130370-robot-vacuum-simulator-x.json) |
 | Robot-X | 192440 | [192440-robot-x.json](./192440-robot-x.json) |
+| Robotron: 2084 | 3592 | [3592-robotron-2084.json](./3592-robotron-2084.json) |
 | Robots 2 Unknown World | 105369 | [105369-robots-2-unknown-world.json](./105369-robots-2-unknown-world.json) |
 | Robovenger | 192421 | [192421-robovenger.json](./192421-robovenger.json) |
 | RoboWarrior Arena | 266473 | [266473-robowarrior-arena.json](./266473-robowarrior-arena.json) |
