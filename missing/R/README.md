@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk of Rain: Meridian | 316994 | [316994-risk-of-rain-meridian.json](./316994-risk-of-rain-meridian.json) |
 | Risk of Rain: Starstorm | 262102 | [262102-risk-of-rain-starstorm.json](./262102-risk-of-rain-starstorm.json) |
 | Risk your life to get your dinner back Nyanzou action game | 231070 | [231070-risk-your-life-to-get-your-dinner-back-nyanzou-action-game.json](./231070-risk-your-life-to-get-your-dinner-back-nyanzou-action-game.json) |
+| Risk: Factions | 3693 | [3693-risk-factions.json](./3693-risk-factions.json) |
 | Risk: Global Domination - Advanced Map Pack | 226941 | [226941-risk-global-domination-advanced-map-pack.json](./226941-risk-global-domination-advanced-map-pack.json) |
 | Risk: Global Domination - Dawn of the Dinos Map Pack | 226942 | [226942-risk-global-domination-dawn-of-the-dinos-map-pack.json](./226942-risk-global-domination-dawn-of-the-dinos-map-pack.json) |
 | Risk: Global Domination - Enchanted Realms Map Pack | 226943 | [226943-risk-global-domination-enchanted-realms-map-pack.json](./226943-risk-global-domination-enchanted-realms-map-pack.json) |
@@ -1153,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RubyDung | 262083 | [262083-rubydung.json](./262083-rubydung.json) |
 | Rue | 165663 | [165663-rue.json](./165663-rue.json) |
 | Rugby Hero | 233237 | [233237-rugby-hero.json](./233237-rugby-hero.json) |
+| Rugrats: Scavenger Hunt | 2786 | [2786-rugrats-scavenger-hunt.json](./2786-rugrats-scavenger-hunt.json) |
 | Ruined King: A League of Legends Story - Deluxe Edition | 186888 | [186888-ruined-king-a-league-of-legends-story-deluxe-edition.json](./186888-ruined-king-a-league-of-legends-story-deluxe-edition.json) |
 | Ruins of Mitriom | 186320 | [186320-ruins-of-mitriom.json](./186320-ruins-of-mitriom.json) |
 | Ruins To Fortress | 273638 | [273638-ruins-to-fortress.json](./273638-ruins-to-fortress.json) |
@@ -1193,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune: Gold | 300409 | [300409-rune-gold.json](./300409-rune-gold.json) |
 | Runemon | 296685 | [296685-runemon.json](./296685-runemon.json) |
 | Runeomicon | 318184 | [318184-runeomicon.json](./318184-runeomicon.json) |
+| RuneScape: Dragonwilds | 337712 | [337712-runescape-dragonwilds.json](./337712-runescape-dragonwilds.json) |
 | RuneStone Keeper & YourToy & Distrust Bundle | 301565 | [301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json](./301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json) |
 | Runic Survivor | 215909 | [215909-runic-survivor.json](./215909-runic-survivor.json) |
 | Runion | 25735 | [25735-runion.json](./25735-runion.json) |
