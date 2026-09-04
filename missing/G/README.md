@@ -820,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian of Immortal Mountain | 97904 | [97904-guardian-of-immortal-mountain.json](./97904-guardian-of-immortal-mountain.json) |
 | Guardian of the Code | 202369 | [202369-guardian-of-the-code.json](./202369-guardian-of-the-code.json) |
 | Guardian of the Future | 119773 | [119773-guardian-of-the-future.json](./119773-guardian-of-the-future.json) |
+| Guardian Sword | 26627 | [26627-guardian-sword.json](./26627-guardian-sword.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
 | Gudetama: Okawari Ikagassuka | 57711 | [57711-gudetama-okawari-ikagassuka.json](./57711-gudetama-okawari-ikagassuka.json) |
 | Guerilla Bob | 94760 | [94760-guerilla-bob.json](./94760-guerilla-bob.json) |
