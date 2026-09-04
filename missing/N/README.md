@@ -158,8 +158,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Street Vol. 2 | 4036 | [4036-nba-street-vol-2.json](./4036-nba-street-vol-2.json) |
 | NBA the Run | 309667 | [309667-nba-the-run.json](./309667-nba-the-run.json) |
 | NBA: King of the Court | 65509 | [65509-nba-king-of-the-court.json](./65509-nba-king-of-the-court.json) |
+| NCAA College Football 2K3 | 4039 | [4039-ncaa-college-football-2k3.json](./4039-ncaa-college-football-2k3.json) |
 | NCAA Football 09: All-Play | 137060 | [137060-ncaa-football-09-all-play.json](./137060-ncaa-football-09-all-play.json) |
 | NCAA Football 2002 | 44644 | [44644-ncaa-football-2002.json](./44644-ncaa-football-2002.json) |
+| NCAA Football 2003 | 5955 | [5955-ncaa-football-2003.json](./5955-ncaa-football-2003.json) |
+| NCAA March Madness 06 | 5958 | [5958-ncaa-march-madness-06.json](./5958-ncaa-march-madness-06.json) |
 | NE_01 | 109025 | [109025-ne-01.json](./109025-ne-01.json) |
 | Neanderthal Man | 13742 | [13742-neanderthal-man.json](./13742-neanderthal-man.json) |
 | Near Bird | 113700 | [113700-near-bird.json](./113700-near-bird.json) |
@@ -413,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 19: Ultimate Edition | 61636 | [61636-nhl-19-ultimate-edition.json](./61636-nhl-19-ultimate-edition.json) |
 | NHL 2000 | 813 | [813-nhl-2000.json](./813-nhl-2000.json) |
 | NHL 2001 | 814 | [814-nhl-2001.json](./814-nhl-2001.json) |
+| NHL 2K3 | 4045 | [4045-nhl-2k3.json](./4045-nhl-2k3.json) |
 | NHL All-Star Hockey '95 | 19559 | [19559-nhl-all-star-hockey-95.json](./19559-nhl-all-star-hockey-95.json) |
 | NHL Stanley Cup | 42655 | [42655-nhl-stanley-cup.json](./42655-nhl-stanley-cup.json) |
 | NHRA Championship Drag Racing: Speed for All - Deluxe Edition | 214728 | [214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json](./214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json) |
