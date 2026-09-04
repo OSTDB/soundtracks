@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riding Club Championships | 31882 | [31882-riding-club-championships.json](./31882-riding-club-championships.json) |
 | Riding to Bounce City | 215922 | [215922-riding-to-bounce-city.json](./215922-riding-to-bounce-city.json) |
 | Riffle Effect | 217511 | [217511-riffle-effect.json](./217511-riffle-effect.json) |
+| RiffTrax: The Game | 194462 | [194462-rifftrax-the-game.json](./194462-rifftrax-the-game.json) |
 | Rifle MarksMan | 119787 | [119787-rifle-marksman.json](./119787-rifle-marksman.json) |
 | Rift Breach | 232693 | [232693-rift-breach.json](./232693-rift-breach.json) |
 | Rift Rangers | 226949 | [226949-rift-rangers.json](./226949-rift-rangers.json) |
@@ -862,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Wars | 196316 | [196316-robo-wars.json](./196316-robo-wars.json) |
 | Robo-Worms | 157673 | [157673-robo-worms.json](./157673-robo-worms.json) |
 | RoboBall | 111681 | [111681-roboball.json](./111681-roboball.json) |
+| Robobeat | 192534 | [192534-robobeat.json](./192534-robobeat.json) |
 | RoboCo | 121739 | [121739-roboco.json](./121739-roboco.json) |
 | RoboCop | 242810 | [242810-robocop.json](./242810-robocop.json) |
 | RoboCop | 6013 | [6013-robocop.json](./6013-robocop.json) |
