@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recruit One | 157707 | [157707-recruit-one.json](./157707-recruit-one.json) |
 | Rectangle Guy | 215905 | [215905-rectangle-guy.json](./215905-rectangle-guy.json) |
 | Recur | 325277 | [325277-recur.json](./325277-recur.json) |
+| Recursed | 32191 | [32191-recursed.json](./32191-recursed.json) |
 | Recursive Riftfall | 310725 | [310725-recursive-riftfall.json](./310725-recursive-riftfall.json) |
 | Red 7 | 175986 | [175986-red-7.json](./175986-red-7.json) |
 | Red and Blue: Cycles of Existence | 109739 | [109739-red-and-blue-cycles-of-existence.json](./109739-red-and-blue-cycles-of-existence.json) |
@@ -432,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redout: Space Assault - Deluxe Edition | 154547 | [154547-redout-space-assault-deluxe-edition.json](./154547-redout-space-assault-deluxe-edition.json) |
 | Redout: Space Exploration Pack | 226973 | [226973-redout-space-exploration-pack.json](./226973-redout-space-exploration-pack.json) |
 | Redout: V.E.R.T.E.X. Pack | 226974 | [226974-redout-v-e-r-t-e-x-pack.json](./226974-redout-v-e-r-t-e-x-pack.json) |
+| Redswood VR | 32103 | [32103-redswood-vr.json](./32103-redswood-vr.json) |
 | ReEarth | 309689 | [309689-reearth.json](./309689-reearth.json) |
 | Reed 2 | 134012 | [134012-reed-2.json](./134012-reed-2.json) |
 | Reed Collection | 221993 | [221993-reed-collection.json](./221993-reed-collection.json) |
@@ -1291,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Psychiatric Pastoral | 248910 | [248910-russian-psychiatric-pastoral.json](./248910-russian-psychiatric-pastoral.json) |
 | Russian Roulette | 265941 | [265941-russian-roulette.json](./265941-russian-roulette.json) |
 | Russian Roulette II: The Next Worlds | 265942 | [265942-russian-roulette-ii-the-next-worlds.json](./265942-russian-roulette-ii-the-next-worlds.json) |
+| Russian VR Coasters | 32005 | [32005-russian-vr-coasters.json](./32005-russian-vr-coasters.json) |
 | Rust | 299432 | [299432-rust.json](./299432-rust.json) |
 | Rust 'n Dust | 165693 | [165693-rust-n-dust.json](./165693-rust-n-dust.json) |
 | Rust Racers 2D | 126026 | [126026-rust-racers-2d.json](./126026-rust-racers-2d.json) |
