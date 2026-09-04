@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Defender | 84903 | [84903-samurai-defender.json](./84903-samurai-defender.json) |
 | Samurai Fighter | 108475 | [108475-samurai-fighter.json](./108475-samurai-fighter.json) |
 | Samurai Forge | 51972 | [51972-samurai-forge.json](./51972-samurai-forge.json) |
+| Samurai Gunn | 16538 | [16538-samurai-gunn.json](./16538-samurai-gunn.json) |
 | Samurai Saga | 55910 | [55910-samurai-saga.json](./55910-samurai-saga.json) |
 | Samurai Shodown: Baiken | 167836 | [167836-samurai-shodown-baiken.json](./167836-samurai-shodown-baiken.json) |
 | Samurai Solitaire: Return of the Ronin | 204103 | [204103-samurai-solitaire-return-of-the-ronin.json](./204103-samurai-solitaire-return-of-the-ronin.json) |
@@ -213,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturnalia | 131564 | [131564-saturnalia.json](./131564-saturnalia.json) |
 | Sausage Legend: Arena | 303800 | [303800-sausage-legend-arena.json](./303800-sausage-legend-arena.json) |
 | Savage Bliss | 23919 | [23919-savage-bliss.json](./23919-savage-bliss.json) |
+| Savage Lands | 17548 | [17548-savage-lands.json](./17548-savage-lands.json) |
 | Savage Pond | 299436 | [299436-savage-pond.json](./299436-savage-pond.json) |
 | Savage Skies | 47314 | [47314-savage-skies.json](./47314-savage-skies.json) |
 | Savage Tower Defense | 158715 | [158715-savage-tower-defense.json](./158715-savage-tower-defense.json) |
@@ -427,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of the Dark: Temple of Night | 312914 | [312914-secrets-of-the-dark-temple-of-night.json](./312914-secrets-of-the-dark-temple-of-night.json) |
 | Secrets of the Middle Ages | 165660 | [165660-secrets-of-the-middle-ages.json](./165660-secrets-of-the-middle-ages.json) |
 | Secrets of Wynne | 244503 | [244503-secrets-of-wynne.json](./244503-secrets-of-wynne.json) |
+| Section-Z | 9755 | [9755-section-z.json](./9755-section-z.json) |
 | Sector 01 | 177577 | [177577-sector-01.json](./177577-sector-01.json) |
 | Sector a Training Facilitea | 253029 | [253029-sector-a-training-facilitea.json](./253029-sector-a-training-facilitea.json) |
 | Sector Strike | 145016 | [145016-sector-strike.json](./145016-sector-strike.json) |
@@ -935,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Sonic: The Crystal Islands | 302142 | [302142-silver-sonic-the-crystal-islands.json](./302142-silver-sonic-the-crystal-islands.json) |
 | Silver Star Japan Table Games | 144997 | [144997-silver-star-japan-table-games.json](./144997-silver-star-japan-table-games.json) |
 | SilverDollar | 101525 | [101525-silverdollar.json](./101525-silverdollar.json) |
+| Silverfall | 15718 | [15718-silverfall.json](./15718-silverfall.json) |
 | SilverStarChess | 147986 | [147986-silverstarchess.json](./147986-silverstarchess.json) |
 | Silversword | 101539 | [101539-silversword.json](./101539-silversword.json) |
 | Silverwood Bay: An Eleanor Grey Mystery | 291246 | [291246-silverwood-bay-an-eleanor-grey-mystery.json](./291246-silverwood-bay-an-eleanor-grey-mystery.json) |
@@ -2965,6 +2969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superhero Wrestling Battle Arena Ring Fighting | 100857 | [100857-superhero-wrestling-battle-arena-ring-fighting.json](./100857-superhero-wrestling-battle-arena-ring-fighting.json) |
 | Superheroes Fast Highway Racing Challenges | 100869 | [100869-superheroes-fast-highway-racing-challenges.json](./100869-superheroes-fast-highway-racing-challenges.json) |
 | Superheroes: Power of New Horizons Legacy | 324124 | [324124-superheroes-power-of-new-horizons-legacy.json](./324124-superheroes-power-of-new-horizons-legacy.json) |
+| Superhot Prototype | 18119 | [18119-superhot-prototype.json](./18119-superhot-prototype.json) |
 | Superkid | 123064 | [123064-superkid.json](./123064-superkid.json) |
 | SuperLandlady | 237657 | [237657-superlandlady.json](./237657-superlandlady.json) |
 | SuperLite 1500 Series: Qix 2000 | 97320 | [97320-superlite-1500-series-qix-2000.json](./97320-superlite-1500-series-qix-2000.json) |
