@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicka 2 Complete Collection | 321760 | [321760-magicka-2-complete-collection.json](./321760-magicka-2-complete-collection.json) |
 | Magicka 2 Upgrade Pack | 321759 | [321759-magicka-2-upgrade-pack.json](./321759-magicka-2-upgrade-pack.json) |
 | Magicka 2: Three Cardinals Robe Pack | 321758 | [321758-magicka-2-three-cardinals-robe-pack.json](./321758-magicka-2-three-cardinals-robe-pack.json) |
+| Magicland Dizzy | 12182 | [12182-magicland-dizzy.json](./12182-magicland-dizzy.json) |
 | MagiCraze | 151720 | [151720-magicraze.json](./151720-magicraze.json) |
 | Magiduel | 177019 | [177019-magiduel.json](./177019-magiduel.json) |
 | Magiopolis | 277048 | [277048-magiopolis.json](./277048-magiopolis.json) |
@@ -930,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindhack | 151735 | [151735-mindhack.json](./151735-mindhack.json) |
 | Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
 | MindScape: Verenna | 274760 | [274760-mindscape-verenna.json](./274760-mindscape-verenna.json) |
+| Mindshadow | 12185 | [12185-mindshadow.json](./12185-mindshadow.json) |
 | Mindshow | 75145 | [75145-mindshow.json](./75145-mindshow.json) |
 | Mindtrap | 91406 | [91406-mindtrap.json](./91406-mindtrap.json) |
 | Mindwheel | 25778 | [25778-mindwheel.json](./25778-mindwheel.json) |
@@ -1771,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Samurai | 136453 | [136453-mystical-samurai.json](./136453-mystical-samurai.json) |
 | Mystical Stones | 247172 | [247172-mystical-stones.json](./247172-mystical-stones.json) |
 | Mystik Belle: Enchanted Edition | 187501 | [187501-mystik-belle-enchanted-edition.json](./187501-mystik-belle-enchanted-edition.json) |
+| Myth | 12186 | [12186-myth.json](./12186-myth.json) |
 | Myth | 252374 | [252374-myth.json](./252374-myth.json) |
 | Myth & Mirage | 310727 | [310727-myth-and-mirage.json](./310727-myth-and-mirage.json) |
 | Myth of Empires: Musical Instruments Pack | 293413 | [293413-myth-of-empires-musical-instruments-pack.json](./293413-myth-of-empires-musical-instruments-pack.json) |
