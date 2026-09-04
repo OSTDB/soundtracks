@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.S. Mission | 40252 | [40252-s-s-mission.json](./40252-s-s-mission.json) |
 | S.T.A.L.K.E.R.: Clear Sky | 4840 | [4840-s-t-a-l-k-e-r-clear-sky.json](./4840-s-t-a-l-k-e-r-clear-sky.json) |
 | S.T.A.L.K.E.R.: Oblivion Lost Remake | 138257 | [138257-s-t-a-l-k-e-r-oblivion-lost-remake.json](./138257-s-t-a-l-k-e-r-oblivion-lost-remake.json) |
+| S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition | 343442 | [343442-s-t-a-l-k-e-r-shadow-of-chornobyl-enhanced-edition.json](./343442-s-t-a-l-k-e-r-shadow-of-chornobyl-enhanced-edition.json) |
 | S.T.A.L.K.E.R.: Wind of Time | 138799 | [138799-s-t-a-l-k-e-r-wind-of-time.json](./138799-s-t-a-l-k-e-r-wind-of-time.json) |
 | S.T.G: Strike Gunner | 39692 | [39692-s-t-g-strike-gunner.json](./39692-s-t-g-strike-gunner.json) |
 | S7 Mexico | 218728 | [218728-s7-mexico.json](./218728-s7-mexico.json) |
@@ -379,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea-Doo Hydrocross | 264853 | [264853-sea-doo-hydrocross.json](./264853-sea-doo-hydrocross.json) |
 | Seabed Frog | 211956 | [211956-seabed-frog.json](./211956-seabed-frog.json) |
 | SeaBlade | 47320 | [47320-seablade.json](./47320-seablade.json) |
+| SeaCret 1 | 352464 | [352464-seacret-1.json](./352464-seacret-1.json) |
 | Seafox | 22416 | [22416-seafox.json](./22416-seafox.json) |
 | Seal of Solitomb | 325860 | [325860-seal-of-solitomb.json](./325860-seal-of-solitomb.json) |
 | Sealed | 306661 | [306661-sealed.json](./306661-sealed.json) |
@@ -1284,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Quest | 261517 | [261517-snake-quest.json](./261517-snake-quest.json) |
 | Snake: The Elder Forest | 122415 | [122415-snake-the-elder-forest.json](./122415-snake-the-elder-forest.json) |
 | Snake's Revenge | 7848 | [7848-snakes-revenge.json](./7848-snakes-revenge.json) |
+| Snakebird Complete | 239519 | [239519-snakebird-complete.json](./239519-snakebird-complete.json) |
 | Snakebird GB | 324694 | [324694-snakebird-gb.json](./324694-snakebird-gb.json) |
 | SnakeBird NES | 228690 | [228690-snakebird-nes.json](./228690-snakebird-nes.json) |
 | SnakeByte | 193470 | [193470-snakebyte.json](./193470-snakebyte.json) |
@@ -1530,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Gallery | 330528 | [330528-sonic-gallery.json](./330528-sonic-gallery.json) |
 | Sonic Gear | 332255 | [332255-sonic-gear.json](./332255-sonic-gear.json) |
 | Sonic Generations | 264885 | [264885-sonic-generations.json](./264885-sonic-generations.json) |
+| Sonic Generations | 320894 | [320894-sonic-generations.json](./320894-sonic-generations.json) |
 | Sonic Genesis of the Azure Wind | 331714 | [331714-sonic-genesis-of-the-azure-wind.json](./331714-sonic-genesis-of-the-azure-wind.json) |
 | Sonic Headway | 331713 | [331713-sonic-headway.json](./331713-sonic-headway.json) |
 | Sonic In The Timeline Of Madness | 266512 | [266512-sonic-in-the-timeline-of-madness.json](./266512-sonic-in-the-timeline-of-madness.json) |
@@ -1591,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog: Legend of the Blue Blur 2 | 326950 | [326950-sonic-the-hedgehog-legend-of-the-blue-blur-2.json](./326950-sonic-the-hedgehog-legend-of-the-blue-blur-2.json) |
 | Sonic the Hedgehog: Lost Future | 330530 | [330530-sonic-the-hedgehog-lost-future.json](./330530-sonic-the-hedgehog-lost-future.json) |
 | Sonic the Hedgehog: Minigame Laptop | 294466 | [294466-sonic-the-hedgehog-minigame-laptop.json](./294466-sonic-the-hedgehog-minigame-laptop.json) |
+| Sonic the Hedgehog: Spinball | 237308 | [237308-sonic-the-hedgehog-spinball.json](./237308-sonic-the-hedgehog-spinball.json) |
 | Sonic Triple Link | 330522 | [330522-sonic-triple-link.json](./330522-sonic-triple-link.json) |
 | Sonic Turbo 2 | 331707 | [331707-sonic-turbo-2.json](./331707-sonic-turbo-2.json) |
 | Sonic Tweet | 63904 | [63904-sonic-tweet.json](./63904-sonic-tweet.json) |
@@ -2607,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Devils | 295549 | [295549-sunset-devils.json](./295549-sunset-devils.json) |
 | Sunset Giant | 114391 | [114391-sunset-giant.json](./114391-sunset-giant.json) |
 | Sunset Irreligion | 325252 | [325252-sunset-irreligion.json](./325252-sunset-irreligion.json) |
+| Sunset Riders | 321396 | [321396-sunset-riders.json](./321396-sunset-riders.json) |
 | Sunset Riders | 4370 | [4370-sunset-riders.json](./4370-sunset-riders.json) |
 | Sunset Studio | 145012 | [145012-sunset-studio.json](./145012-sunset-studio.json) |
 | Sunshine Acres | 25002 | [25002-sunshine-acres.json](./25002-sunshine-acres.json) |
