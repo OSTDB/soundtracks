@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abducted | 316440 | [316440-abducted.json](./316440-abducted.json) |
 | Abduction | 312919 | [312919-abduction.json](./312919-abduction.json) |
 | Abe VR | 33117 | [33117-abe-vr.json](./33117-abe-vr.json) |
+| Abermore | 191621 | [191621-abermore.json](./191621-abermore.json) |
 | Abha | 111036 | [111036-abha.json](./111036-abha.json) |
 | Abi and the soul | 153988 | [153988-abi-and-the-soul.json](./153988-abi-and-the-soul.json) |
 | Abigor | 210899 | [210899-abigor.json](./210899-abigor.json) |
@@ -932,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Cultures: Tikal's Realm | 216466 | [216466-ancient-cultures-tikals-realm.json](./216466-ancient-cultures-tikals-realm.json) |
 | Ancient Frontier: Quests & Events | 170510 | [170510-ancient-frontier-quests-and-events.json](./170510-ancient-frontier-quests-and-events.json) |
 | Ancient Frontier: The Crew | 170509 | [170509-ancient-frontier-the-crew.json](./170509-ancient-frontier-the-crew.json) |
+| Ancient Islands | 192031 | [192031-ancient-islands.json](./192031-ancient-islands.json) |
 | Ancient Rituals: Stonehenge | 216467 | [216467-ancient-rituals-stonehenge.json](./216467-ancient-rituals-stonehenge.json) |
 | Ancient Rus vs. Lizards | 277013 | [277013-ancient-rus-vs-lizards.json](./277013-ancient-rus-vs-lizards.json) |
 | Ancient Russian Life Simulator | 278177 | [278177-ancient-russian-life-simulator.json](./278177-ancient-russian-life-simulator.json) |
@@ -1465,10 +1467,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asdivine Collection | 172729 | [172729-asdivine-collection.json](./172729-asdivine-collection.json) |
 | Asesinato en 7º Grado (Por lo Menos) | 317029 | [317029-asesinato-en-7o-grado-por-lo-menos.json](./317029-asesinato-en-7o-grado-por-lo-menos.json) |
 | Asesinato en 7º Grado 2 (La Huida) | 317030 | [317030-asesinato-en-7o-grado-2-la-huida.json](./317030-asesinato-en-7o-grado-2-la-huida.json) |
+| Asfalia: The Cranky Volcano | 196425 | [196425-asfalia-the-cranky-volcano.json](./196425-asfalia-the-cranky-volcano.json) |
 | Asgard's Wrath | 115031 | [115031-asgards-wrath.json](./115031-asgards-wrath.json) |
 | Ash Arms | 180283 | [180283-ash-arms.json](./180283-ash-arms.json) |
 | Ash of Gods: Fan Edition | 257095 | [257095-ash-of-gods-fan-edition.json](./257095-ash-of-gods-fan-edition.json) |
 | Ash of Gods: Redemption | 28006 | [28006-ash-of-gods-redemption.json](./28006-ash-of-gods-redemption.json) |
+| Ash of Gods: The Way | 192439 | [192439-ash-of-gods-the-way.json](./192439-ash-of-gods-the-way.json) |
 | Ash of Gods: Universe Bundle | 257096 | [257096-ash-of-gods-universe-bundle.json](./257096-ash-of-gods-universe-bundle.json) |
 | Ash of War | 109684 | [109684-ash-of-war.json](./109684-ash-of-war.json) |
 | Ash. | 76669 | [76669-ash.json](./76669-ash.json) |
@@ -1781,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AWA 2024 | 278169 | [278169-awa-2024.json](./278169-awa-2024.json) |
 | AwakeMUD | 228698 | [228698-awakemud.json](./228698-awakemud.json) |
 | Awaken the Time | 132236 | [132236-awaken-the-time.json](./132236-awaken-the-time.json) |
+| Awaken: Astral Blade | 175679 | [175679-awaken-astral-blade.json](./175679-awaken-astral-blade.json) |
 | Awaken: Gunpowder Adventurer Daydream | 99010 | [99010-awaken-gunpowder-adventurer-daydream.json](./99010-awaken-gunpowder-adventurer-daydream.json) |
 | Awakening: The Redleaf Forest & Awakening: The Golden Age | 201814 | [201814-awakening-the-redleaf-forest-and-awakening-the-golden-age.json](./201814-awakening-the-redleaf-forest-and-awakening-the-golden-age.json) |
 | Awakening: The Skyward Castle | 63287 | [63287-awakening-the-skyward-castle.json](./63287-awakening-the-skyward-castle.json) |
