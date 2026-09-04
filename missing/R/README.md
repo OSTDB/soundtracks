@@ -978,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue | 183032 | [183032-rogue.json](./183032-rogue.json) |
 | Rogue Aces | 84848 | [84848-rogue-aces.json](./84848-rogue-aces.json) |
 | Rogue Ascent VR | 191914 | [191914-rogue-ascent-vr.json](./191914-rogue-ascent-vr.json) |
+| Rogue Bit | 110363 | [110363-rogue-bit.json](./110363-rogue-bit.json) |
 | Rogue Day | 253610 | [253610-rogue-day.json](./253610-rogue-day.json) |
 | Rogue Dice | 217027 | [217027-rogue-dice.json](./217027-rogue-dice.json) |
 | Rogue Drone | 107163 | [107163-rogue-drone.json](./107163-rogue-drone.json) |
@@ -1051,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms XIII: Zhuge Liang's Northern Campaign Event Set | 164502 | [164502-romance-of-the-three-kingdoms-xiii-zhuge-liangs-northern-campaign-event-set.json](./164502-romance-of-the-three-kingdoms-xiii-zhuge-liangs-northern-campaign-event-set.json) |
 | Romance of the Three Kingdoms XIV: Legend of the Galactic Heroes Collab - Reinhard & Yang | 164500 | [164500-romance-of-the-three-kingdoms-xiv-legend-of-the-galactic-heroes-collab-reinhard-and-yang.json](./164500-romance-of-the-three-kingdoms-xiv-legend-of-the-galactic-heroes-collab-reinhard-and-yang.json) |
 | Romancing SaGa | 11311 | [11311-romancing-saga.json](./11311-romancing-saga.json) |
+| Romancing SaGa 3 | 109592 | [109592-romancing-saga-3.json](./109592-romancing-saga-3.json) |
 | Romancing the Kingdom | 224775 | [224775-romancing-the-kingdom.json](./224775-romancing-the-kingdom.json) |
 | Romans From Mars | 62224 | [62224-romans-from-mars.json](./62224-romans-from-mars.json) |
 | Romantic Escapades | 297207 | [297207-romantic-escapades.json](./297207-romantic-escapades.json) |
@@ -1152,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Steampunk Stories | 337470 | [337470-roxy-raccoons-pinball-panic-steampunk-stories.json](./337470-roxy-raccoons-pinball-panic-steampunk-stories.json) |
 | Roxy Raccoon's Pinball Panic: Tropical Treats | 311789 | [311789-roxy-raccoons-pinball-panic-tropical-treats.json](./311789-roxy-raccoons-pinball-panic-tropical-treats.json) |
 | Roxy Raccoon's Pinball Panic: Wicked Warfare | 252980 | [252980-roxy-raccoons-pinball-panic-wicked-warfare.json](./252980-roxy-raccoons-pinball-panic-wicked-warfare.json) |
+| Royal Alchemist | 109734 | [109734-royal-alchemist.json](./109734-royal-alchemist.json) |
 | Royal Block | 269309 | [269309-royal-block.json](./269309-royal-block.json) |
 | Royal Booty Quest | 111692 | [111692-royal-booty-quest.json](./111692-royal-booty-quest.json) |
 | Royal Envoy 2: Collector's Edition | 201855 | [201855-royal-envoy-2-collectors-edition.json](./201855-royal-envoy-2-collectors-edition.json) |
@@ -1174,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Creator for iOS | 61099 | [61099-rpg-creator-for-ios.json](./61099-rpg-creator-for-ios.json) |
 | RPG Golf with Vampires | 263759 | [263759-rpg-golf-with-vampires.json](./263759-rpg-golf-with-vampires.json) |
 | RPG Maker With | 291538 | [291538-rpg-maker-with.json](./291538-rpg-maker-with.json) |
+| RPG Time: The Legend of Wright | 110395 | [110395-rpg-time-the-legend-of-wright.json](./110395-rpg-time-the-legend-of-wright.json) |
 | RPG Tsukuuru 2 Taiou: Organic Stone Honpen | 151167 | [151167-rpg-tsukuuru-2-taiou-organic-stone-honpen.json](./151167-rpg-tsukuuru-2-taiou-organic-stone-honpen.json) |
 | RPG Tsukuuru 2 Taiou: Ryouma de Yuku | 151168 | [151168-rpg-tsukuuru-2-taiou-ryouma-de-yuku.json](./151168-rpg-tsukuuru-2-taiou-ryouma-de-yuku.json) |
 | RPG Tycoon: Supply & Demand | 164507 | [164507-rpg-tycoon-supply-and-demand.json](./164507-rpg-tycoon-supply-and-demand.json) |
@@ -1206,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruler of the Earth | 185694 | [185694-ruler-of-the-earth.json](./185694-ruler-of-the-earth.json) |
 | Rules of the Game | 94237 | [94237-rules-of-the-game.json](./94237-rules-of-the-game.json) |
 | Ruma | 274210 | [274210-ruma.json](./274210-ruma.json) |
+| Rumblade | 109269 | [109269-rumblade.json](./109269-rumblade.json) |
 | Rumble Heroes | 242203 | [242203-rumble-heroes.json](./242203-rumble-heroes.json) |
 | Rumble League | 126042 | [126042-rumble-league.json](./126042-rumble-league.json) |
 | Rumia in the darkness | 121013 | [121013-rumia-in-the-darkness.json](./121013-rumia-in-the-darkness.json) |
