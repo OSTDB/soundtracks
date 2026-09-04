@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasight: Chlorophyll worms | 195793 | [195793-parasight-chlorophyll-worms.json](./195793-parasight-chlorophyll-worms.json) |
 | Parasite | 195754 | [195754-parasite.json](./195754-parasite.json) |
 | Parasite Black | 239305 | [239305-parasite-black.json](./239305-parasite-black.json) |
+| Parasite Eve | 7357 | [7357-parasite-eve.json](./7357-parasite-eve.json) |
 | Parasitus: Ninja Zero | 93628 | [93628-parasitus-ninja-zero.json](./93628-parasitus-ninja-zero.json) |
 | Parasol Fall | 231632 | [231632-parasol-fall.json](./231632-parasol-fall.json) |
 | Parasol Stars: Rainbow Islands 2 | 39027 | [39027-parasol-stars-rainbow-islands-2.json](./39027-parasol-stars-rainbow-islands-2.json) |
@@ -553,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikuniku: Collector's Edition | 154528 | [154528-pikuniku-collectors-edition.json](./154528-pikuniku-collectors-edition.json) |
 | Pilapa Boom | 186325 | [186325-pilapa-boom.json](./186325-pilapa-boom.json) |
 | Pilapila | 296109 | [296109-pilapila.json](./296109-pilapila.json) |
+| Pillars of Eternity II: Deadfire | 26951 | [26951-pillars-of-eternity-ii-deadfire.json](./26951-pillars-of-eternity-ii-deadfire.json) |
 | Pillars of Eternity II: Deadfire - Deck of Many Things | 124822 | [124822-pillars-of-eternity-ii-deadfire-deck-of-many-things.json](./124822-pillars-of-eternity-ii-deadfire-deck-of-many-things.json) |
 | Pillars of Garendall | 69873 | [69873-pillars-of-garendall.json](./69873-pillars-of-garendall.json) |
 | Pillow Bellow | 151173 | [151173-pillow-bellow.json](./151173-pillow-bellow.json) |
@@ -743,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Monsters | 49359 | [49359-planet-monsters.json](./49359-planet-monsters.json) |
 | Planet Nine | 113694 | [113694-planet-nine.json](./113694-planet-nine.json) |
 | Planet of Carrots | 311254 | [311254-planet-of-carrots.json](./311254-planet-of-carrots.json) |
+| Planet of Lana | 152071 | [152071-planet-of-lana.json](./152071-planet-of-lana.json) |
 | Planet Omnia | 197912 | [197912-planet-omnia.json](./197912-planet-omnia.json) |
 | Planet Quiz: Learn & Discover | 187494 | [187494-planet-quiz-learn-and-discover.json](./187494-planet-quiz-learn-and-discover.json) |
 | Planet Soccer | 57688 | [57688-planet-soccer.json](./57688-planet-soccer.json) |
@@ -1071,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerSimulator | 251808 | [251808-powersimulator.json](./251808-powersimulator.json) |
 | PowerSkate | 233238 | [233238-powerskate.json](./233238-powerskate.json) |
 | PowerSlave | 188071 | [188071-powerslave.json](./188071-powerslave.json) |
+| PowerWash Simulator | 138590 | [138590-powerwash-simulator.json](./138590-powerwash-simulator.json) |
 | PowerWash Simulator: The Muckingham Files 2 | 264337 | [264337-powerwash-simulator-the-muckingham-files-2.json](./264337-powerwash-simulator-the-muckingham-files-2.json) |
 | PowerWash Simulator: Warhammer 40,000 Content Pack | 251220 | [251220-powerwash-simulator-warhammer-40-000-content-pack.json](./251220-powerwash-simulator-warhammer-40-000-content-pack.json) |
 | PowerZ | 146317 | [146317-powerz.json](./146317-powerz.json) |
