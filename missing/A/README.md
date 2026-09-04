@@ -1043,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animorphs: Shattered Reality | 43927 | [43927-animorphs-shattered-reality.json](./43927-animorphs-shattered-reality.json) |
 | Anise Flowers | 185129 | [185129-anise-flowers.json](./185129-anise-flowers.json) |
 | Ankh 3: Battle of the Gods | 25466 | [25466-ankh-3-battle-of-the-gods.json](./25466-ankh-3-battle-of-the-gods.json) |
+| Ankora: Lost Days | 108867 | [108867-ankora-lost-days.json](./108867-ankora-lost-days.json) |
 | Anna: The Series Test | 156645 | [156645-anna-the-series-test.json](./156645-anna-the-series-test.json) |
 | Anna's Gram | 94252 | [94252-annas-gram.json](./94252-annas-gram.json) |
 | Anna's Quest | 11367 | [11367-annas-quest.json](./11367-annas-quest.json) |
@@ -1382,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armor Mayhem | 264330 | [264330-armor-mayhem.json](./264330-armor-mayhem.json) |
 | Armor of Heroes | 140015 | [140015-armor-of-heroes.json](./140015-armor-of-heroes.json) |
 | Armored | 151201 | [151201-armored.json](./151201-armored.json) |
+| Armored Brigade | 109035 | [109035-armored-brigade.json](./109035-armored-brigade.json) |
 | Armored Core 2 | 31719 | [31719-armored-core-2.json](./31719-armored-core-2.json) |
 | Armored Core 2: Another Age | 46029 | [46029-armored-core-2-another-age.json](./46029-armored-core-2-another-age.json) |
 | Armored Core 4 | 5491 | [5491-armored-core-4.json](./5491-armored-core-4.json) |
