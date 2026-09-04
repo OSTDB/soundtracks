@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krampus Quest | 76674 | [76674-krampus-quest.json](./76674-krampus-quest.json) |
 | Krashimals | 330558 | [330558-krashimals.json](./330558-krashimals.json) |
 | Kratoria | 187540 | [187540-kratoria.json](./187540-kratoria.json) |
+| Kreed | 95498 | [95498-kreed.json](./95498-kreed.json) |
 | Krell | 93032 | [93032-krell.json](./93032-krell.json) |
 | Kremling Krushin | 231605 | [231605-kremling-krushin.json](./231605-kremling-krushin.json) |
 | Krew Eats | 172718 | [172718-krew-eats.json](./172718-krew-eats.json) |
