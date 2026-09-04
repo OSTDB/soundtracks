@@ -103,6 +103,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodiarc | 331135 | [331135-zodiarc.json](./331135-zodiarc.json) |
 | Zodiarc Ring | 331146 | [331146-zodiarc-ring.json](./331146-zodiarc-ring.json) |
 | ZodiaX | 259849 | [259849-zodiax.json](./259849-zodiax.json) |
+| Zoey 101 | 18325 | [18325-zoey-101.json](./18325-zoey-101.json) |
+| Zoey 101: Field Trip Fiasco | 18326 | [18326-zoey-101-field-trip-fiasco.json](./18326-zoey-101-field-trip-fiasco.json) |
 | Zoids VS II | 50585 | [50585-zoids-vs-ii.json](./50585-zoids-vs-ii.json) |
 | Zoids: The Battle Begins | 75873 | [75873-zoids-the-battle-begins.json](./75873-zoids-the-battle-begins.json) |
 | Zoku Mikagura Shoujo Tanteidan: Kanketsuhen | 60574 | [60574-zoku-mikagura-shoujo-tanteidan-kanketsuhen.json](./60574-zoku-mikagura-shoujo-tanteidan-kanketsuhen.json) |
