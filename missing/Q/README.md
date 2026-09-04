@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Crown | 80571 | [80571-queens-crown.json](./80571-queens-crown.json) |
 | Queen's Quest 2: Stories of Forgotten Past | 30424 | [30424-queens-quest-2-stories-of-forgotten-past.json](./30424-queens-quest-2-stories-of-forgotten-past.json) |
 | Queen's Quest 4: Sacred Truce | 97109 | [97109-queens-quest-4-sacred-truce.json](./97109-queens-quest-4-sacred-truce.json) |
+| Queen's Wish: The Conqueror | 109539 | [109539-queens-wish-the-conqueror.json](./109539-queens-wish-the-conqueror.json) |
 | Queeny Army | 126565 | [126565-queeny-army.json](./126565-queeny-army.json) |
 | Quern: Undying Thoughts | 26223 | [26223-quern-undying-thoughts.json](./26223-quern-undying-thoughts.json) |
 | Quest 64 "French Vanilla" | 248305 | [248305-quest-64-french-vanilla.json](./248305-quest-64-french-vanilla.json) |
