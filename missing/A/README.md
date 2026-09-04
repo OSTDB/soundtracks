@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Timeless Carol | 112305 | [112305-a-timeless-carol.json](./112305-a-timeless-carol.json) |
 | A Tiny Eternity | 318177 | [318177-a-tiny-eternity.json](./318177-a-tiny-eternity.json) |
 | A Tofu Tail | 58803 | [58803-a-tofu-tail.json](./58803-a-tofu-tail.json) |
+| A Total War Saga: Troy | 122649 | [122649-a-total-war-saga-troy.json](./122649-a-total-war-saga-troy.json) |
 | A Turd's Life | 89975 | [89975-a-turds-life.json](./89975-a-turds-life.json) |
 | A Turnabout On Rails | 308541 | [308541-a-turnabout-on-rails.json](./308541-a-turnabout-on-rails.json) |
 | A Turnabout With Too Many Faces | 303250 | [303250-a-turnabout-with-too-many-faces.json](./303250-a-turnabout-with-too-many-faces.json) |
@@ -1318,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arsenal | 188635 | [188635-arsenal.json](./188635-arsenal.json) |
 | Arson | 223660 | [223660-arson.json](./223660-arson.json) |
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
+| Art of Fighting 2 | 6556 | [6556-art-of-fighting-2.json](./6556-art-of-fighting-2.json) |
 | Art of Guile | 26721 | [26721-art-of-guile.json](./26721-art-of-guile.json) |
 | Art Style: Zengage | 69293 | [69293-art-style-zengage.json](./69293-art-style-zengage.json) |
 | Artemis Lutea: District Defender | 318766 | [318766-artemis-lutea-district-defender.json](./318766-artemis-lutea-district-defender.json) |
