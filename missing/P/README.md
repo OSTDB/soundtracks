@@ -1633,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzrama | 152918 | [152918-puzzrama.json](./152918-puzzrama.json) |
 | Pwn! | 341318 | [341318-pwn.json](./341318-pwn.json) |
 | PxBeats | 256540 | [256540-pxbeats.json](./256540-pxbeats.json) |
+| Pyjamarama | 23060 | [23060-pyjamarama.json](./23060-pyjamarama.json) |
 | Pyl | 126013 | [126013-pyl.json](./126013-pyl.json) |
 | PyNori | 336921 | [336921-pynori.json](./336921-pynori.json) |
 | Pyramid Bloxx | 194657 | [194657-pyramid-bloxx.json](./194657-pyramid-bloxx.json) |
