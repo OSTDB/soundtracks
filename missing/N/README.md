@@ -30,6 +30,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Museum Essentials | 52608 | [52608-namco-museum-essentials.json](./52608-namco-museum-essentials.json) |
 | Name that Sonic Tune | 326960 | [326960-name-that-sonic-tune.json](./326960-name-that-sonic-tune.json) |
 | Nana-chan no Star Tanjou | 66131 | [66131-nana-chan-no-star-tanjou.json](./66131-nana-chan-no-star-tanjou.json) |
+| Nancy Drew: Secret of the Scarlet Hand | 7625 | [7625-nancy-drew-secret-of-the-scarlet-hand.json](./7625-nancy-drew-secret-of-the-scarlet-hand.json) |
+| Nancy Drew: Stay Tuned for Danger | 7622 | [7622-nancy-drew-stay-tuned-for-danger.json](./7622-nancy-drew-stay-tuned-for-danger.json) |
+| Nancy Drew: The Final Scene | 7624 | [7624-nancy-drew-the-final-scene.json](./7624-nancy-drew-the-final-scene.json) |
 | Nanda's Island | 48048 | [48048-nandas-island.json](./48048-nandas-island.json) |
 | Nandemo!? Taihoman | 264312 | [264312-nandemo-taihoman.json](./264312-nandemo-taihoman.json) |
 | Nangoku Shounen Papuwa-kun | 38389 | [38389-nangoku-shounen-papuwa-kun.json](./38389-nangoku-shounen-papuwa-kun.json) |
@@ -376,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 07 | 5964 | [5964-nhl-07.json](./5964-nhl-07.json) |
 | NHL 18 | 36847 | [36847-nhl-18.json](./36847-nhl-18.json) |
 | NHL 19: Ultimate Edition | 61636 | [61636-nhl-19-ultimate-edition.json](./61636-nhl-19-ultimate-edition.json) |
+| NHL 2000 | 813 | [813-nhl-2000.json](./813-nhl-2000.json) |
 | NHL All-Star Hockey '95 | 19559 | [19559-nhl-all-star-hockey-95.json](./19559-nhl-all-star-hockey-95.json) |
 | NHL Stanley Cup | 42655 | [42655-nhl-stanley-cup.json](./42655-nhl-stanley-cup.json) |
 | NHRA Championship Drag Racing: Speed for All - Deluxe Edition | 214728 | [214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json](./214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json) |
