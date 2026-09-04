@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Bumpin' | 2731 | [2731-big-bumpin.json](./2731-big-bumpin.json) |
 | Big Business | 14300 | [14300-big-business.json](./14300-big-business.json) |
 | Big Catch Bass Fishing | 197944 | [197944-big-catch-bass-fishing.json](./197944-big-catch-bass-fishing.json) |
+| Big Chief | 96342 | [96342-big-chief.json](./96342-big-chief.json) |
 | Big Drunk Satanic Massacre | 75067 | [75067-big-drunk-satanic-massacre.json](./75067-big-drunk-satanic-massacre.json) |
 | Big Fight: Big Trouble in the Atlantic Ocean | 40233 | [40233-big-fight-big-trouble-in-the-atlantic-ocean.json](./40233-big-fight-big-trouble-in-the-atlantic-ocean.json) |
 | Big Mountain Snowboarding | 88322 | [88322-big-mountain-snowboarding.json](./88322-big-mountain-snowboarding.json) |
@@ -1052,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockz VS Ballz | 111013 | [111013-blockz-vs-ballz.json](./111013-blockz-vs-ballz.json) |
 | Blokdoku | 315827 | [315827-blokdoku.json](./315827-blokdoku.json) |
 | Blomst | 181911 | [181911-blomst.json](./181911-blomst.json) |
+| Blonde Driver | 96435 | [96435-blonde-driver.json](./96435-blonde-driver.json) |
 | Blonde Justice | 37198 | [37198-blonde-justice.json](./37198-blonde-justice.json) |
 | Blonsters | 304877 | [304877-blonsters.json](./304877-blonsters.json) |
 | Blood & Bacon | 33720 | [33720-blood-and-bacon.json](./33720-blood-and-bacon.json) |
@@ -1752,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Busty Maid: Creampie Heaven | 127964 | [127964-busty-maid-creampie-heaven.json](./127964-busty-maid-creampie-heaven.json) |
 | Busy Scissors | 50594 | [50594-busy-scissors.json](./50594-busy-scissors.json) |
 | Butanooo! Simulator | 303805 | [303805-butanooo-simulator.json](./303805-butanooo-simulator.json) |
+| ButcherBoy | 95605 | [95605-butcherboy.json](./95605-butcherboy.json) |
 | Butt Naked & Big Guns | 158208 | [158208-butt-naked-and-big-guns.json](./158208-butt-naked-and-big-guns.json) |
 | Butter & Friends Babysitter Sim | 75148 | [75148-butter-and-friends-babysitter-sim.json](./75148-butter-and-friends-babysitter-sim.json) |
 | Butterflies: Episode 1 - Rudies | 134666 | [134666-butterflies-episode-1-rudies.json](./134666-butterflies-episode-1-rudies.json) |
