@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major League Baseball Featuring Ken Griffey Jr. | 3540 | [3540-major-league-baseball-featuring-ken-griffey-jr.json](./3540-major-league-baseball-featuring-ken-griffey-jr.json) |
 | Majorelle Mystery | 232705 | [232705-majorelle-mystery.json](./232705-majorelle-mystery.json) |
 | Majyo no Nebaneba Note | 336940 | [336940-majyo-no-nebaneba-note.json](./336940-majyo-no-nebaneba-note.json) |
+| Makaimura Gaiden: The Demon Darkness | 84640 | [84640-makaimura-gaiden-the-demon-darkness.json](./84640-makaimura-gaiden-the-demon-darkness.json) |
 | Makaimura Online | 63297 | [63297-makaimura-online.json](./63297-makaimura-online.json) |
 | Make a Friend | 201828 | [201828-make-a-friend.json](./201828-make-a-friend.json) |
 | Make a Scene: Dinosaurs | 96044 | [96044-make-a-scene-dinosaurs.json](./96044-make-a-scene-dinosaurs.json) |
@@ -1064,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MInecraft: Star Wars Prequel Skin Pack | 302666 | [302666-minecraft-star-wars-prequel-skin-pack.json](./302666-minecraft-star-wars-prequel-skin-pack.json) |
 | Minecraft: Story Mode - Episode 1: The Order of the Stone | 85612 | [85612-minecraft-story-mode-episode-1-the-order-of-the-stone.json](./85612-minecraft-story-mode-episode-1-the-order-of-the-stone.json) |
 | Minecraft: Story Mode - Episode 5: Order Up! | 91295 | [91295-minecraft-story-mode-episode-5-order-up.json](./91295-minecraft-story-mode-episode-5-order-up.json) |
+| Minecraft: Story Mode Season Two - Episode 1: Hero in Residence | 91298 | [91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json](./91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json) |
 | Minecraft: Teenage Mutant Ninja Turtles | 259850 | [259850-minecraft-teenage-mutant-ninja-turtles.json](./259850-minecraft-teenage-mutant-ninja-turtles.json) |
 | Minecraft: The Cake Is A Lie | 325863 | [325863-minecraft-the-cake-is-a-lie.json](./325863-minecraft-the-cake-is-a-lie.json) |
 | Minecraft: The Traveling Trader | 322955 | [322955-minecraft-the-traveling-trader.json](./322955-minecraft-the-traveling-trader.json) |
@@ -1605,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moves Away | 303794 | [303794-moves-away.json](./303794-moves-away.json) |
 | Movie Award Winners Trivia | 104637 | [104637-movie-award-winners-trivia.json](./104637-movie-award-winners-trivia.json) |
 | Movie Quest | 206339 | [206339-movie-quest.json](./206339-movie-quest.json) |
+| MovieStarPlanet | 94981 | [94981-moviestarplanet.json](./94981-moviestarplanet.json) |
 | Moving Out 2: Deluxe Edition | 271470 | [271470-moving-out-2-deluxe-edition.json](./271470-moving-out-2-deluxe-edition.json) |
 | Moving Out: Deluxe Edition | 224202 | [224202-moving-out-deluxe-edition.json](./224202-moving-out-deluxe-edition.json) |
 | Mówù Diàocházhě | 154027 | [154027-mowu-diaochazhe.json](./154027-mowu-diaochazhe.json) |
@@ -1934,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth: The Fallen Lords | 800 | [800-myth-the-fallen-lords.json](./800-myth-the-fallen-lords.json) |
 | Mythargia | 216993 | [216993-mythargia.json](./216993-mythargia.json) |
 | MythBusters: The First Experiment | 199095 | [199095-mythbusters-the-first-experiment.json](./199095-mythbusters-the-first-experiment.json) |
+| Mythic Ocean | 93804 | [93804-mythic-ocean.json](./93804-mythic-ocean.json) |
 | Mythic Writer | 165654 | [165654-mythic-writer.json](./165654-mythic-writer.json) |
 | Mythlands: Dragon Flight VR | 214178 | [214178-mythlands-dragon-flight-vr.json](./214178-mythlands-dragon-flight-vr.json) |
 | Mythlink | 28881 | [28881-mythlink.json](./28881-mythlink.json) |
