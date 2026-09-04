@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ningyou Tsukai | 41407 | [41407-ningyou-tsukai.json](./41407-ningyou-tsukai.json) |
 | Ninja Ball | 100192 | [100192-ninja-ball.json](./100192-ninja-ball.json) |
 | Ninja Break | 203559 | [203559-ninja-break.json](./203559-ninja-break.json) |
+| Ninja Bullets | 25755 | [25755-ninja-bullets.json](./25755-ninja-bullets.json) |
 | Ninja Chicken 2 | 233763 | [233763-ninja-chicken-2.json](./233763-ninja-chicken-2.json) |
 | Ninja Code | 110362 | [110362-ninja-code.json](./110362-ninja-code.json) |
 | Ninja Dash - Ronin Jump RPG | 104648 | [104648-ninja-dash-ronin-jump-rpg.json](./104648-ninja-dash-ronin-jump-rpg.json) |
@@ -451,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden: Dragon Scroll | 269875 | [269875-ninja-gaiden-dragon-scroll.json](./269875-ninja-gaiden-dragon-scroll.json) |
 | Ninja Gaiden: Master Collection - Version D | 222501 | [222501-ninja-gaiden-master-collection-version-d.json](./222501-ninja-gaiden-master-collection-version-d.json) |
 | Ninja Girls: Kunoichi Puzzle | 315840 | [315840-ninja-girls-kunoichi-puzzle.json](./315840-ninja-girls-kunoichi-puzzle.json) |
+| Ninja Instinct | 25765 | [25765-ninja-instinct.json](./25765-ninja-instinct.json) |
 | Ninja JaJaMaru-kun: Sakura-hime to Karyu no Himitsu | 62207 | [62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json](./62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json) |
 | Ninja Kato 3 | 297800 | [297800-ninja-kato-3.json](./297800-ninja-kato-3.json) |
 | Ninja Must Die | 143069 | [143069-ninja-must-die.json](./143069-ninja-must-die.json) |
@@ -458,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Ponk HD | 232184 | [232184-ninja-ponk-hd.json](./232184-ninja-ponk-hd.json) |
 | Ninja Power Slasher | 114371 | [114371-ninja-power-slasher.json](./114371-ninja-power-slasher.json) |
 | Ninja Prime: Tap Quest | 241632 | [241632-ninja-prime-tap-quest.json](./241632-ninja-prime-tap-quest.json) |
+| Ninja Pug | 25770 | [25770-ninja-pug.json](./25770-ninja-pug.json) |
 | Ninja Remix 16 | 59986 | [59986-ninja-remix-16.json](./59986-ninja-remix-16.json) |
 | Ninja Runner | 233234 | [233234-ninja-runner.json](./233234-ninja-runner.json) |
 | Ninja Sentai Hurricanger & Hyakujuu Sentai Gaoranger: Chou Sentai Super Battle | 62743 | [62743-ninja-sentai-hurricanger-and-hyakujuu-sentai-gaoranger-chou-sentai-super-battle.json](./62743-ninja-sentai-hurricanger-and-hyakujuu-sentai-gaoranger-chou-sentai-super-battle.json) |
