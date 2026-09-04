@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Tactician: The Civil War (1861-1865) | 106575 | [106575-grand-tactician-the-civil-war-1861-1865.json](./106575-grand-tactician-the-civil-war-1861-1865.json) |
 | Grand Theft Auto: Alien City | 231619 | [231619-grand-theft-auto-alien-city.json](./231619-grand-theft-auto-alien-city.json) |
 | Grand Theft Auto: Sindacco Chronicles | 256515 | [256515-grand-theft-auto-sindacco-chronicles.json](./256515-grand-theft-auto-sindacco-chronicles.json) |
+| Grand Theft Auto: Vice City Stories | 3262 | [3262-grand-theft-auto-vice-city-stories.json](./3262-grand-theft-auto-vice-city-stories.json) |
 | Grand War 2 | 247204 | [247204-grand-war-2.json](./247204-grand-war-2.json) |
 | Grande Fratello: Il Gioco | 300371 | [300371-grande-fratello-il-gioco.json](./300371-grande-fratello-il-gioco.json) |
 | Grandmaster's Revenge | 215355 | [215355-grandmasters-revenge.json](./215355-grandmasters-revenge.json) |
@@ -792,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Borough | 297238 | [297238-grim-borough.json](./297238-grim-borough.json) |
 | Grim Facade: Hidden Sins | 104659 | [104659-grim-facade-hidden-sins.json](./104659-grim-facade-hidden-sins.json) |
 | Grim Facade: The Artist and The Pretender - Collector's Edition | 110373 | [110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json](./110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json) |
+| Grim Fandango Remastered | 8682 | [8682-grim-fandango-remastered.json](./8682-grim-fandango-remastered.json) |
 | Grim Quest | 195269 | [195269-grim-quest.json](./195269-grim-quest.json) |
 | Grim Survivor | 213002 | [213002-grim-survivor.json](./213002-grim-survivor.json) |
 | Grim Tales: Dual Disposition - Collector's Edition | 247737 | [247737-grim-tales-dual-disposition-collectors-edition.json](./247737-grim-tales-dual-disposition-collectors-edition.json) |
