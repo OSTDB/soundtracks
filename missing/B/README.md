@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber | 83731 | [83731-beat-saber.json](./83731-beat-saber.json) |
 | Beat Saber: Queen Music Pack | 250646 | [250646-beat-saber-queen-music-pack.json](./250646-beat-saber-queen-music-pack.json) |
 | Beat Slug Hyperway | 208030 | [208030-beat-slug-hyperway.json](./208030-beat-slug-hyperway.json) |
+| Beat the Boss 2 | 86786 | [86786-beat-the-boss-2.json](./86786-beat-the-boss-2.json) |
 | Beat The Boss Game | 331699 | [331699-beat-the-boss-game.json](./331699-beat-the-boss-game.json) |
 | Beat Time | 91439 | [91439-beat-time.json](./91439-beat-time.json) |
 | Beatcraft Cyclon | 232683 | [232683-beatcraft-cyclon.json](./232683-beatcraft-cyclon.json) |
