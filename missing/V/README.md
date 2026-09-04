@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valzar | 34391 | [34391-valzar.json](./34391-valzar.json) |
 | Vampire Clans | 216493 | [216493-vampire-clans.json](./216493-vampire-clans.json) |
 | Vampire Crystals: Rebirth | 85471 | [85471-vampire-crystals-rebirth.json](./85471-vampire-crystals-rebirth.json) |
+| Vampire Killer | 1115 | [1115-vampire-killer.json](./1115-vampire-killer.json) |
 | Vampire Knight DS | 69290 | [69290-vampire-knight-ds.json](./69290-vampire-knight-ds.json) |
 | Vampire Legends: Power of Three | 18308 | [18308-vampire-legends-power-of-three.json](./18308-vampire-legends-power-of-three.json) |
 | Vampire Martina-Bloody Day 228 | 124222 | [124222-vampire-martina-bloody-day-228.json](./124222-vampire-martina-bloody-day-228.json) |
