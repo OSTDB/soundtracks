@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Heroes: Eternal Arena | 151200 | [151200-legend-of-heroes-eternal-arena.json](./151200-legend-of-heroes-eternal-arena.json) |
 | Legend of Labot: The Golden Pearl | 173280 | [173280-legend-of-labot-the-golden-pearl.json](./173280-legend-of-labot-the-golden-pearl.json) |
 | Legend of Maratha Warriors | 158702 | [158702-legend-of-maratha-warriors.json](./158702-legend-of-maratha-warriors.json) |
+| Legend of Mercy | 96280 | [96280-legend-of-mercy.json](./96280-legend-of-mercy.json) |
 | Legend of Mir | 62774 | [62774-legend-of-mir.json](./62774-legend-of-mir.json) |
 | Legend of Mysteria RPG | 53268 | [53268-legend-of-mysteria-rpg.json](./53268-legend-of-mysteria-rpg.json) |
 | Legend of Power Z | 106597 | [106597-legend-of-power-z.json](./106597-legend-of-power-z.json) |
