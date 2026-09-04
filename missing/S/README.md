@@ -105,6 +105,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salacot Jack: Deluxe | 316400 | [316400-salacot-jack-deluxe.json](./316400-salacot-jack-deluxe.json) |
 | Sally Acorn in Sonic the Hedgehog | 141883 | [141883-sally-acorn-in-sonic-the-hedgehog.json](./141883-sally-acorn-in-sonic-the-hedgehog.json) |
 | Sally Acorn in Sonic the Hedgehog 2 | 141884 | [141884-sally-acorn-in-sonic-the-hedgehog-2.json](./141884-sally-acorn-in-sonic-the-hedgehog-2.json) |
+| Sally's Spa | 67966 | [67966-sallys-spa.json](./67966-sallys-spa.json) |
+| Sally's Studio | 65321 | [65321-sallys-studio.json](./65321-sallys-studio.json) |
 | Sally's Studio HD | 107861 | [107861-sallys-studio-hd.json](./107861-sallys-studio-hd.json) |
 | Salt 2: Shores of Gold | 151169 | [151169-salt-2-shores-of-gold.json](./151169-salt-2-shores-of-gold.json) |
 | Salto | 149579 | [149579-salto.json](./149579-salto.json) |
@@ -1381,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneak In | 117071 | [117071-sneak-in.json](./117071-sneak-in.json) |
 | Sneak King | 2730 | [2730-sneak-king.json](./2730-sneak-king.json) |
 | Sneaky Bears | 69320 | [69320-sneaky-bears.json](./69320-sneaky-bears.json) |
+| Sneaky Bears VR | 68272 | [68272-sneaky-bears-vr.json](./68272-sneaky-bears-vr.json) |
 | Sneaky Kitten | 156650 | [156650-sneaky-kitten.json](./156650-sneaky-kitten.json) |
 | Sneaky Seekers | 253609 | [253609-sneaky-seekers.json](./253609-sneaky-seekers.json) |
 | SnekMP | 226442 | [226442-snekmp.json](./226442-snekmp.json) |
@@ -1906,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceruler | 227493 | [227493-spaceruler.json](./227493-spaceruler.json) |
 | SpaceSlog | 197908 | [197908-spaceslog.json](./197908-spaceslog.json) |
 | Spacesona | 323552 | [323552-spacesona.json](./323552-spacesona.json) |
+| SpaceVenture | 63497 | [63497-spaceventure.json](./63497-spaceventure.json) |
 | Spacewar | 181938 | [181938-spacewar.json](./181938-spacewar.json) |
 | Spaceward Ho! | 47296 | [47296-spaceward-ho.json](./47296-spaceward-ho.json) |
 | SpaceWrestler XL | 128610 | [128610-spacewrestler-xl.json](./128610-spacewrestler-xl.json) |
@@ -2096,6 +2100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot The Difference: Classic Finding Puzzle | 324123 | [324123-spot-the-difference-classic-finding-puzzle.json](./324123-spot-the-difference-classic-finding-puzzle.json) |
 | Spot the Differences: Party! | 84897 | [84897-spot-the-differences-party.json](./84897-spot-the-differences-party.json) |
 | Spot the Dot | 149563 | [149563-spot-the-dot.json](./149563-spot-the-dot.json) |
+| Spot: The Cool Adventure | 66020 | [66020-spot-the-cool-adventure.json](./66020-spot-the-cool-adventure.json) |
 | Spotlight | 277565 | [277565-spotlight.json](./277565-spotlight.json) |
 | Spotlight: Choose Your Romance | 298871 | [298871-spotlight-choose-your-romance.json](./298871-spotlight-choose-your-romance.json) |
 | Spotlight!!! | 299479 | [299479-spotlight.json](./299479-spotlight.json) |
@@ -2188,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stallions in America | 199117 | [199117-stallions-in-america.json](./199117-stallions-in-america.json) |
 | Stampede | 5704 | [5704-stampede.json](./5704-stampede.json) |
 | Stand My Heroes | 197377 | [197377-stand-my-heroes.json](./197377-stand-my-heroes.json) |
+| Stand O'Food | 66976 | [66976-stand-ofood.json](./66976-stand-ofood.json) |
 | Stand O'Food 3 | 87189 | [87189-stand-ofood-3.json](./87189-stand-ofood-3.json) |
 | Standard Legend | 116365 | [116365-standard-legend.json](./116365-standard-legend.json) |
 | Stanley: Wild for Sharks! | 70964 | [70964-stanley-wild-for-sharks.json](./70964-stanley-wild-for-sharks.json) |
