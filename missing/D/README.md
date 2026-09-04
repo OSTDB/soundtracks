@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decaying Flowers | 98459 | [98459-decaying-flowers.json](./98459-decaying-flowers.json) |
 | Decaying Wires | 335657 | [335657-decaying-wires.json](./335657-decaying-wires.json) |
 | Decimated | 206358 | [206358-decimated.json](./206358-decimated.json) |
+| Deck Hunter | 106418 | [106418-deck-hunter.json](./106418-deck-hunter.json) |
 | Deck of Souls | 252356 | [252356-deck-of-souls.json](./252356-deck-of-souls.json) |
 | Deck Remover | 295535 | [295535-deck-remover.json](./295535-deck-remover.json) |
 | DeckMake Fantasy | 208015 | [208015-deckmake-fantasy.json](./208015-deckmake-fantasy.json) |
