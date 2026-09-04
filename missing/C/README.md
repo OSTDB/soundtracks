@@ -1179,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corbid! A Colorful Adventure | 223157 | [223157-corbid-a-colorful-adventure.json](./223157-corbid-a-colorful-adventure.json) |
 | Core Defense | 127314 | [127314-core-defense.json](./127314-core-defense.json) |
 | Core Masters | 62771 | [62771-core-masters.json](./62771-core-masters.json) |
+| Corepunk | 127513 | [127513-corepunk.json](./127513-corepunk.json) |
 | CoreVR | 291214 | [291214-corevr.json](./291214-corevr.json) |
 | Cork the Volcano for Puzzlets | 96718 | [96718-cork-the-volcano-for-puzzlets.json](./96718-cork-the-volcano-for-puzzlets.json) |
 | Corn Mission | 183578 | [183578-corn-mission.json](./183578-corn-mission.json) |
