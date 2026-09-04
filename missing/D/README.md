@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Trading Card Game | 196879 | [196879-death-trading-card-game.json](./196879-death-trading-card-game.json) |
 | Death Valley | 291744 | [291744-death-valley.json](./291744-death-valley.json) |
 | Death Wore Endless Feathers | 168383 | [168383-death-wore-endless-feathers.json](./168383-death-wore-endless-feathers.json) |
+| Death's Life | 32030 | [32030-deaths-life.json](./32030-deaths-life.json) |
 | Death's Playground | 208603 | [208603-deaths-playground.json](./208603-deaths-playground.json) |
 | Deathbed Lullabye | 201328 | [201328-deathbed-lullabye.json](./201328-deathbed-lullabye.json) |
 | Deathmatch Classic | 9073 | [9073-deathmatch-classic.json](./9073-deathmatch-classic.json) |
@@ -629,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dere. Some Answers Before I... | 258696 | [258696-dere-some-answers-before-i.json](./258696-dere-some-answers-before-i.json) |
 | Derealized | 241630 | [241630-derealized.json](./241630-derealized.json) |
 | Derelict | 168384 | [168384-derelict.json](./168384-derelict.json) |
+| Derelict | 32423 | [32423-derelict.json](./32423-derelict.json) |
 | Derpy Dinos | 74433 | [74433-derpy-dinos.json](./74433-derpy-dinos.json) |
 | Deru | 258698 | [258698-deru.json](./258698-deru.json) |
 | Descend.gg | 232661 | [232661-descend-gg.json](./232661-descend-gg.json) |
@@ -905,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discounty | 239800 | [239800-discounty.json](./239800-discounty.json) |
 | Discover My Body | 153577 | [153577-discover-my-body.json](./153577-discover-my-body.json) |
 | Discovering Colors - Animals (Coloring Book) | 106572 | [106572-discovering-colors-animals-coloring-book.json](./106572-discovering-colors-animals-coloring-book.json) |
+| Discovering Space 2 | 32205 | [32205-discovering-space-2.json](./32205-discovering-space-2.json) |
 | Discovery Kids: Pony Paradise | 69273 | [69273-discovery-kids-pony-paradise.json](./69273-discovery-kids-pony-paradise.json) |
 | Discovery Kids: Spider Quest | 67308 | [67308-discovery-kids-spider-quest.json](./67308-discovery-kids-spider-quest.json) |
 | Discovery: A Seek and Find Adventure | 9386 | [9386-discovery-a-seek-and-find-adventure.json](./9386-discovery-a-seek-and-find-adventure.json) |
@@ -1342,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Is Dead | 289444 | [289444-dragon-is-dead.json](./289444-dragon-is-dead.json) |
 | Dragon Island Blue | 96061 | [96061-dragon-island-blue.json](./96061-dragon-island-blue.json) |
 | Dragon King: The Fighting Game | 184099 | [184099-dragon-king-the-fighting-game.json](./184099-dragon-king-the-fighting-game.json) |
+| Dragon Knight | 31918 | [31918-dragon-knight.json](./31918-dragon-knight.json) |
 | Dragon Knight | 39628 | [39628-dragon-knight.json](./39628-dragon-knight.json) |
 | Dragon Knight 4 | 45959 | [45959-dragon-knight-4.json](./45959-dragon-knight-4.json) |
 | Dragon Marked for Death: Advanced Attackers | 147998 | [147998-dragon-marked-for-death-advanced-attackers.json](./147998-dragon-marked-for-death-advanced-attackers.json) |
@@ -1361,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest VII Reimagined | 366884 | [366884-dragon-quest-vii-reimagined.json](./366884-dragon-quest-vii-reimagined.json) |
 | Dragon Quest X: Mezameshi Itsutsu no Shuzoku Online | 80597 | [80597-dragon-quest-x-mezameshi-itsutsu-no-shuzoku-online.json](./80597-dragon-quest-x-mezameshi-itsutsu-no-shuzoku-online.json) |
 | Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition | 110069 | [110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json](./110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json) |
+| Dragon Rage | 32159 | [32159-dragon-rage.json](./32159-dragon-rage.json) |
 | Dragon Roll | 184124 | [184124-dragon-roll.json](./184124-dragon-roll.json) |
 | Dragon Ruins II | 328277 | [328277-dragon-ruins-ii.json](./328277-dragon-ruins-ii.json) |
 | Dragon Song Tavern | 334471 | [334471-dragon-song-tavern.json](./334471-dragon-song-tavern.json) |
