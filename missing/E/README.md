@@ -471,6 +471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal of Swordsman | 194033 | [194033-eternal-of-swordsman.json](./194033-eternal-of-swordsman.json) |
 | Eternal Quest | 43353 | [43353-eternal-quest.json](./43353-eternal-quest.json) |
 | Eternal Return | 135842 | [135842-eternal-return.json](./135842-eternal-return.json) |
+| Eternal Ring | 10905 | [10905-eternal-ring.json](./10905-eternal-ring.json) |
 | Eternal Saga | 62762 | [62762-eternal-saga.json](./62762-eternal-saga.json) |
 | Eternal Seas | 236509 | [236509-eternal-seas.json](./236509-eternal-seas.json) |
 | Eternal Supreme | 210881 | [210881-eternal-supreme.json](./210881-eternal-supreme.json) |
@@ -483,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ethereal: Clash of Souls | 127325 | [127325-ethereal-clash-of-souls.json](./127325-ethereal-clash-of-souls.json) |
 | EthnoGuessr | 340230 | [340230-ethnoguessr.json](./340230-ethnoguessr.json) |
 | Eto-cetera In no Maki | 113729 | [113729-eto-cetera-in-no-maki.json](./113729-eto-cetera-in-no-maki.json) |
+| Etrian Mystery Dungeon | 8607 | [8607-etrian-mystery-dungeon.json](./8607-etrian-mystery-dungeon.json) |
 | Etrom: The Astral Essence | 72086 | [72086-etrom-the-astral-essence.json](./72086-etrom-the-astral-essence.json) |
 | Euchre by Webfoot | 88323 | [88323-euchre-by-webfoot.json](./88323-euchre-by-webfoot.json) |
 | Euplectella | 339100 | [339100-euplectella.json](./339100-euplectella.json) |
