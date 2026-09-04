@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcata | 125459 | [125459-falcata.json](./125459-falcata.json) |
 | Falcon | 12088 | [12088-falcon.json](./12088-falcon.json) |
 | Falcon 3.0: Hornet - Naval Strike Fighter | 78024 | [78024-falcon-3-0-hornet-naval-strike-fighter.json](./78024-falcon-3-0-hornet-naval-strike-fighter.json) |
+| Falcon 4.0 | 33853 | [33853-falcon-4-0.json](./33853-falcon-4-0.json) |
 | Falinere Fantasy | 215887 | [215887-falinere-fantasy.json](./215887-falinere-fantasy.json) |
 | Fall Ball Fall | 141852 | [141852-fall-ball-fall.json](./141852-fall-ball-fall.json) |
 | Fall Down | 40791 | [40791-fall-down.json](./40791-fall-down.json) |
@@ -744,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowers in Bloom | 146906 | [146906-flowers-in-bloom.json](./146906-flowers-in-bloom.json) |
 | Flowers of Asphodel | 300379 | [300379-flowers-of-asphodel.json](./300379-flowers-of-asphodel.json) |
 | Flowers of Starlight | 264345 | [264345-flowers-of-starlight.json](./264345-flowers-of-starlight.json) |
+| Flowers: Le Volume sur Printemps | 33272 | [33272-flowers-le-volume-sur-printemps.json](./33272-flowers-le-volume-sur-printemps.json) |
 | Flowery Vale | 177048 | [177048-flowery-vale.json](./177048-flowery-vale.json) |
 | Flown | 261524 | [261524-flown.json](./261524-flown.json) |
 | Floyd of the Jungle | 24987 | [24987-floyd-of-the-jungle.json](./24987-floyd-of-the-jungle.json) |
@@ -1015,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Solitaire | 340250 | [340250-free-solitaire.json](./340250-free-solitaire.json) |
 | Free Solitaire: Cats | 340251 | [340251-free-solitaire-cats.json](./340251-free-solitaire-cats.json) |
 | Free Stars: Children of Infinity | 306085 | [306085-free-stars-children-of-infinity.json](./306085-free-stars-children-of-infinity.json) |
+| Freebie | 32400 | [32400-freebie.json](./32400-freebie.json) |
 | FreeCell Solitaire Classic Card Game | 340247 | [340247-freecell-solitaire-classic-card-game.json](./340247-freecell-solitaire-classic-card-game.json) |
 | Freedom | 271995 | [271995-freedom.json](./271995-freedom.json) |
 | Freedom Bridge | 115034 | [115034-freedom-bridge.json](./115034-freedom-bridge.json) |
