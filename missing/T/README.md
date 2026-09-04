@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taravana | 132251 | [132251-taravana.json](./132251-taravana.json) |
 | Target | 190705 | [190705-target.json](./190705-target.json) |
 | Target Practice | 167303 | [167303-target-practice.json](./167303-target-practice.json) |
+| Tarisland | 254235 | [254235-tarisland.json](./254235-tarisland.json) |
 | Taro | 126637 | [126637-taro.json](./126637-taro.json) |
 | Tarot Mystery | 37793 | [37793-tarot-mystery.json](./37793-tarot-mystery.json) |
 | Tarzan | 25728 | [25728-tarzan.json](./25728-tarzan.json) |
@@ -1598,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Temple of No | 19699 | [19699-the-temple-of-no.json](./19699-the-temple-of-no.json) |
 | The Tempura Samurai | 64435 | [64435-the-tempura-samurai.json](./64435-the-tempura-samurai.json) |
 | The Tennis Academy | 298322 | [298322-the-tennis-academy.json](./298322-the-tennis-academy.json) |
+| The Terminator | 4372 | [4372-the-terminator.json](./4372-the-terminator.json) |
 | The Terminator | 7688 | [7688-the-terminator.json](./7688-the-terminator.json) |
 | The Testimony of Trixie Glimmer Smith | 123633 | [123633-the-testimony-of-trixie-glimmer-smith.json](./123633-the-testimony-of-trixie-glimmer-smith.json) |
 | The Texas Chain Saw Massacre: Danny Outfit Pack | 308572 | [308572-the-texas-chain-saw-massacre-danny-outfit-pack.json](./308572-the-texas-chain-saw-massacre-danny-outfit-pack.json) |
@@ -2675,6 +2677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Riddles: Mahjong | 106588 | [106588-travel-riddles-mahjong.json](./106588-travel-riddles-mahjong.json) |
 | Travel to GolemPark | 199100 | [199100-travel-to-golempark.json](./199100-travel-to-golempark.json) |
 | Traveler's Bastion | 234936 | [234936-travelers-bastion.json](./234936-travelers-bastion.json) |
+| Travellin Cats in Paris | 239812 | [239812-travellin-cats-in-paris.json](./239812-travellin-cats-in-paris.json) |
 | Traverse: Starlight & Prairie | 37782 | [37782-traverse-starlight-and-prairie.json](./37782-traverse-starlight-and-prairie.json) |
 | Travian: Kingdoms | 31910 | [31910-travian-kingdoms.json](./31910-travian-kingdoms.json) |
 | Travis Strikes Again: No More Heroes | 55195 | [55195-travis-strikes-again-no-more-heroes.json](./55195-travis-strikes-again-no-more-heroes.json) |
