@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Empire | 240484 | [240484-galactic-empire.json](./240484-galactic-empire.json) |
 | Galactic Field | 336906 | [336906-galactic-field.json](./336906-galactic-field.json) |
 | Galactic Gladiators | 186342 | [186342-galactic-gladiators.json](./186342-galactic-gladiators.json) |
+| Galactic Gladiators | 22488 | [22488-galactic-gladiators.json](./22488-galactic-gladiators.json) |
 | Galactic Harvester | 75905 | [75905-galactic-harvester.json](./75905-galactic-harvester.json) |
 | Galactic Invasion | 187502 | [187502-galactic-invasion.json](./187502-galactic-invasion.json) |
 | Galactic Lander | 109676 | [109676-galactic-lander.json](./109676-galactic-lander.json) |
@@ -609,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorble | 311272 | [311272-gorble.json](./311272-gorble.json) |
 | Gordian Tomb | 73850 | [73850-gordian-tomb.json](./73850-gordian-tomb.json) |
 | Gorescript Classic | 81424 | [81424-gorescript-classic.json](./81424-gorescript-classic.json) |
+| Gorgon | 22411 | [22411-gorgon.json](./22411-gorgon.json) |
 | Gorgonia: A Gorgon's Tragedy | 326975 | [326975-gorgonia-a-gorgons-tragedy.json](./326975-gorgonia-a-gorgons-tragedy.json) |
 | Gori: Cuddly Carnage - Special Edition | 315867 | [315867-gori-cuddly-carnage-special-edition.json](./315867-gori-cuddly-carnage-special-edition.json) |
 | Gorilla Smash City Attack Game | 274185 | [274185-gorilla-smash-city-attack-game.json](./274185-gorilla-smash-city-attack-game.json) |
