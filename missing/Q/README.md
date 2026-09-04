@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QAD: Quintessential Art of Destruction | 72102 | [72102-qad-quintessential-art-of-destruction.json](./72102-qad-quintessential-art-of-destruction.json) |
 | Qanga | 97909 | [97909-qanga.json](./97909-qanga.json) |
 | QB Planets | 150686 | [150686-qb-planets.json](./150686-qb-planets.json) |
+| Qbasic Gorillas | 11690 | [11690-qbasic-gorillas.json](./11690-qbasic-gorillas.json) |
 | Qiángjūn | 98982 | [98982-qiangjun.json](./98982-qiangjun.json) |
 | Qǐluó Sìshí Tán | 130935 | [130935-qiluo-sishi-tan.json](./130935-qiluo-sishi-tan.json) |
 | Qisah Tomang: Cycle Ends | 235989 | [235989-qisah-tomang-cycle-ends.json](./235989-qisah-tomang-cycle-ends.json) |
