@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payback 2 | 212494 | [212494-payback-2.json](./212494-payback-2.json) |
 | Payback Showdown | 174876 | [174876-payback-showdown.json](./174876-payback-showdown.json) |
 | Paycheck: City RPG | 130383 | [130383-paycheck-city-rpg.json](./130383-paycheck-city-rpg.json) |
+| Payday 2: The Biker Heist | 19613 | [19613-payday-2-the-biker-heist.json](./19613-payday-2-the-biker-heist.json) |
 | Payday 2: Ultimate Edition | 37149 | [37149-payday-2-ultimate-edition.json](./37149-payday-2-ultimate-edition.json) |
 | Paze Knight Ellen and the Dungeon Town Sodom | 244482 | [244482-paze-knight-ellen-and-the-dungeon-town-sodom.json](./244482-paze-knight-ellen-and-the-dungeon-town-sodom.json) |
 | PBJ: The Musical | 325280 | [325280-pbj-the-musical.json](./325280-pbj-the-musical.json) |
