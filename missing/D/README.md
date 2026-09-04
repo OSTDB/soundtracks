@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: F/A-18C Inherent Resolve Campaign by Looking Glass | 325248 | [325248-dcs-world-f-a-18c-inherent-resolve-campaign-by-looking-glass.json](./325248-dcs-world-f-a-18c-inherent-resolve-campaign-by-looking-glass.json) |
 | DCS World: Mosquito FB VI - V for Victory Campaign by Reflected Simulations | 325251 | [325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json](./325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json) |
 | DCS World: OH-58D Kiowa Warrior | 304372 | [304372-dcs-world-oh-58d-kiowa-warrior.json](./304372-dcs-world-oh-58d-kiowa-warrior.json) |
+| DCS: Normandy 1944 | 27782 | [27782-dcs-normandy-1944.json](./27782-dcs-normandy-1944.json) |
 | DDS Defenders Dark Side | 214726 | [214726-dds-defenders-dark-side.json](./214726-dds-defenders-dark-side.json) |
 | De Blob | 233776 | [233776-de-blob.json](./233776-de-blob.json) |
 | De-Exit: Eternal Matters | 172757 | [172757-de-exit-eternal-matters.json](./172757-de-exit-eternal-matters.json) |
@@ -258,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Dust | 89960 | [89960-dead-dust.json](./89960-dead-dust.json) |
 | Dead Earth Zombies | 188672 | [188672-dead-earth-zombies.json](./188672-dead-earth-zombies.json) |
 | Dead End Aegis | 186893 | [186893-dead-end-aegis.json](./186893-dead-end-aegis.json) |
+| Dead End Job | 27803 | [27803-dead-end-job.json](./27803-dead-end-job.json) |
 | Dead End Junction #2 Deadman's Bullet | 95411 | [95411-dead-end-junction-2-deadmans-bullet.json](./95411-dead-end-junction-2-deadmans-bullet.json) |
 | Dead End Mission | 260415 | [260415-dead-end-mission.json](./260415-dead-end-mission.json) |
 | Dead Event | 177035 | [177035-dead-event.json](./177035-dead-event.json) |
