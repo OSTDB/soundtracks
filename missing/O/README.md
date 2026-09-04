@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One S'More | 258706 | [258706-one-smore.json](./258706-one-smore.json) |
 | One Shot in the Dark, Now I'm Dead. | 159335 | [159335-one-shot-in-the-dark-now-im-dead.json](./159335-one-shot-in-the-dark-now-im-dead.json) |
 | One Shot Outlaw | 212461 | [212461-one-shot-outlaw.json](./212461-one-shot-outlaw.json) |
+| One Strike | 28695 | [28695-one-strike.json](./28695-one-strike.json) |
 | One Strike: Complete Edition | 238181 | [238181-one-strike-complete-edition.json](./238181-one-strike-complete-edition.json) |
 | One Strike: Rise of Dragons | 238180 | [238180-one-strike-rise-of-dragons.json](./238180-one-strike-rise-of-dragons.json) |
 | One Turkey, Two Turkeys | 332244 | [332244-one-turkey-two-turkeys.json](./332244-one-turkey-two-turkeys.json) |
