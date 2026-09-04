@@ -107,6 +107,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvador Dali painting match | 103529 | [103529-salvador-dali-painting-match.json](./103529-salvador-dali-painting-match.json) |
 | Salvagers | 329398 | [329398-salvagers.json](./329398-salvagers.json) |
 | Salvation in Corruption | 75183 | [75183-salvation-in-corruption.json](./75183-salvation-in-corruption.json) |
+| Sam & Max: Beyond Time and Space - Episode 3: Night of the Raving Dead | 27837 | [27837-sam-and-max-beyond-time-and-space-episode-3-night-of-the-raving-dead.json](./27837-sam-and-max-beyond-time-and-space-episode-3-night-of-the-raving-dead.json) |
+| Sam & Max: Beyond Time and Space - Episode 4: Chariots of the Dogs | 27838 | [27838-sam-and-max-beyond-time-and-space-episode-4-chariots-of-the-dogs.json](./27838-sam-and-max-beyond-time-and-space-episode-4-chariots-of-the-dogs.json) |
 | Sam & Max: Save the World | 140878 | [140878-sam-and-max-save-the-world.json](./140878-sam-and-max-save-the-world.json) |
 | Samael: The Legacy of Ophiuchus | 218718 | [218718-samael-the-legacy-of-ophiuchus.json](./218718-samael-the-legacy-of-ophiuchus.json) |
 | Same | 64423 | [64423-same.json](./64423-same.json) |
@@ -328,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble Slam! | 66694 | [66694-scrabble-slam.json](./66694-scrabble-slam.json) |
 | ScrabWordle | 228716 | [228716-scrabwordle.json](./228716-scrabwordle.json) |
 | Scram 20 | 79316 | [79316-scram-20.json](./79316-scram-20.json) |
+| Scrap Garden | 20340 | [20340-scrap-garden.json](./20340-scrap-garden.json) |
 | Scrap Garden: The Day Before | 31926 | [31926-scrap-garden-the-day-before.json](./31926-scrap-garden-the-day-before.json) |
 | Scrap Kings | 181898 | [181898-scrap-kings.json](./181898-scrap-kings.json) |
 | Scrapped | 243402 | [243402-scrapped.json](./243402-scrapped.json) |
@@ -978,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Tower Defense | 259287 | [259287-simple-tower-defense.json](./259287-simple-tower-defense.json) |
 | Simply Cubic | 253586 | [253586-simply-cubic.json](./253586-simply-cubic.json) |
 | Simply Puzzles: Codewords | 163424 | [163424-simply-puzzles-codewords.json](./163424-simply-puzzles-codewords.json) |
+| SimTown | 20194 | [20194-simtown.json](./20194-simtown.json) |
 | Simulassword | 226440 | [226440-simulassword.json](./226440-simulassword.json) |
 | Simulation Training Room: Massacre | 295545 | [295545-simulation-training-room-massacre.json](./295545-simulation-training-room-massacre.json) |
 | Simulator: Parking Lot | 323510 | [323510-simulator-parking-lot.json](./323510-simulator-parking-lot.json) |
@@ -1180,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Smasher EX | 213645 | [213645-slime-smasher-ex.json](./213645-slime-smasher-ex.json) |
 | Slime Survivors | 304878 | [304878-slime-survivors.json](./304878-slime-survivors.json) |
 | Slime Time! | 106591 | [106591-slime-time.json](./106591-slime-time.json) |
+| Slime-san | 28069 | [28069-slime-san.json](./28069-slime-san.json) |
 | Slimefrog | 167821 | [167821-slimefrog.json](./167821-slimefrog.json) |
 | Slimegeon | 254145 | [254145-slimegeon.json](./254145-slimegeon.json) |
 | Slimey Champions | 166770 | [166770-slimey-champions.json](./166770-slimey-champions.json) |
@@ -2463,6 +2468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strobophagia: Rave Horror | 139460 | [139460-strobophagia-rave-horror.json](./139460-strobophagia-rave-horror.json) |
 | Stroke the Fish | 220342 | [220342-stroke-the-fish.json](./220342-stroke-the-fish.json) |
 | Stroke the Tortoise | 220344 | [220344-stroke-the-tortoise.json](./220344-stroke-the-tortoise.json) |
+| Strong Bad's Cool Game for Attractive People Episode 1: Homestar Ruiner | 28984 | [28984-strong-bads-cool-game-for-attractive-people-episode-1-homestar-ruiner.json](./28984-strong-bads-cool-game-for-attractive-people-episode-1-homestar-ruiner.json) |
 | StrongBadZone | 135863 | [135863-strongbadzone.json](./135863-strongbadzone.json) |
 | Stronghold Crusader 2: Special Edition | 51936 | [51936-stronghold-crusader-2-special-edition.json](./51936-stronghold-crusader-2-special-edition.json) |
 | Stronghold Defender | 18321 | [18321-stronghold-defender.json](./18321-stronghold-defender.json) |
@@ -2626,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Big Bro Quest | 321775 | [321775-super-big-bro-quest.json](./321775-super-big-bro-quest.json) |
 | Super Black Onyx | 48704 | [48704-super-black-onyx.json](./48704-super-black-onyx.json) |
 | Super Blocmania 3D + 3D Brick Blaster | 91431 | [91431-super-blocmania-3d-3d-brick-blaster.json](./91431-super-blocmania-3d-3d-brick-blaster.json) |
+| Super Blood Hockey | 31160 | [31160-super-blood-hockey.json](./31160-super-blood-hockey.json) |
 | Super Bo Noise | 316988 | [316988-super-bo-noise.json](./316988-super-bo-noise.json) |
 | Super Boat Rescue | 25767 | [25767-super-boat-rescue.json](./25767-super-boat-rescue.json) |
 | Super Bomberman | 3450 | [3450-super-bomberman.json](./3450-super-bomberman.json) |
@@ -2641,6 +2648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cauldron | 39028 | [39028-super-cauldron.json](./39028-super-cauldron.json) |
 | Super Chuck Norris Bros | 294428 | [294428-super-chuck-norris-bros.json](./294428-super-chuck-norris-bros.json) |
 | Super Clash Crossover | 120413 | [120413-super-clash-crossover.json](./120413-super-clash-crossover.json) |
+| Super Cloudbuilt | 27396 | [27396-super-cloudbuilt.json](./27396-super-cloudbuilt.json) |
 | Super Clown 3: Revenge | 223179 | [223179-super-clown-3-revenge.json](./223179-super-clown-3-revenge.json) |
 | Super Code Strike | 145014 | [145014-super-code-strike.json](./145014-super-code-strike.json) |
 | Super Collapse! | 84244 | [84244-super-collapse.json](./84244-super-collapse.json) |
@@ -2978,6 +2986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superheroes Fast Highway Racing Challenges | 100869 | [100869-superheroes-fast-highway-racing-challenges.json](./100869-superheroes-fast-highway-racing-challenges.json) |
 | Superheroes: Power of New Horizons Legacy | 324124 | [324124-superheroes-power-of-new-horizons-legacy.json](./324124-superheroes-power-of-new-horizons-legacy.json) |
 | Superhot Prototype | 18119 | [18119-superhot-prototype.json](./18119-superhot-prototype.json) |
+| SuperHyperCube | 20332 | [20332-superhypercube.json](./20332-superhypercube.json) |
 | Superkid | 123064 | [123064-superkid.json](./123064-superkid.json) |
 | SuperLandlady | 237657 | [237657-superlandlady.json](./237657-superlandlady.json) |
 | SuperLite 1500 Series: Qix 2000 | 97320 | [97320-superlite-1500-series-qix-2000.json](./97320-superlite-1500-series-qix-2000.json) |
