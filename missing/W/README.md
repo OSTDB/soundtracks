@@ -659,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Explorer Challenge | 325266 | [325266-world-explorer-challenge.json](./325266-world-explorer-challenge.json) |
 | World Fantasista | 302701 | [302701-world-fantasista.json](./302701-world-fantasista.json) |
 | World Golf | 68674 | [68674-world-golf.json](./68674-world-golf.json) |
+| World Heroes Perfect | 46779 | [46779-world-heroes-perfect.json](./46779-world-heroes-perfect.json) |
 | World Leader Card Game | 119779 | [119779-world-leader-card-game.json](./119779-world-leader-card-game.json) |
 | World Mosaics | 135246 | [135246-world-mosaics.json](./135246-world-mosaics.json) |
 | World Mosaics 2 | 135247 | [135247-world-mosaics-2.json](./135247-world-mosaics-2.json) |
