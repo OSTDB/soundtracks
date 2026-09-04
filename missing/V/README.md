@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkeala Birds | 338577 | [338577-valkeala-birds.json](./338577-valkeala-birds.json) |
 | Valkie 64 | 224788 | [224788-valkie-64.json](./224788-valkie-64.json) |
 | Valkyria Chronicles 2: DLC Pack 2 | 138838 | [138838-valkyria-chronicles-2-dlc-pack-2.json](./138838-valkyria-chronicles-2-dlc-pack-2.json) |
+| Valkyria Chronicles 4 | 75848 | [75848-valkyria-chronicles-4.json](./75848-valkyria-chronicles-4.json) |
 | Valkyria Chronicles Bundle | 138811 | [138811-valkyria-chronicles-bundle.json](./138811-valkyria-chronicles-bundle.json) |
 | Valkyria Chronicles: Challenge of the Edy Detachment | 138837 | [138837-valkyria-chronicles-challenge-of-the-edy-detachment.json](./138837-valkyria-chronicles-challenge-of-the-edy-detachment.json) |
 | Valkyria Chronicles: Edy's Mission "Enter the Edy Detachment" | 138834 | [138834-valkyria-chronicles-edys-mission-enter-the-edy-detachment.json](./138834-valkyria-chronicles-edys-mission-enter-the-edy-detachment.json) |
@@ -85,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Survivors: Legacy of the Moonspell | 228721 | [228721-vampire-survivors-legacy-of-the-moonspell.json](./228721-vampire-survivors-legacy-of-the-moonspell.json) |
 | Vampire Survivors: The Coop | 339631 | [339631-vampire-survivors-the-coop.json](./339631-vampire-survivors-the-coop.json) |
 | Vampire vs. Devil | 145688 | [145688-vampire-vs-devil.json](./145688-vampire-vs-devil.json) |
+| Vampire: The Masquerade - Bloodhunt | 152087 | [152087-vampire-the-masquerade-bloodhunt.json](./152087-vampire-the-masquerade-bloodhunt.json) |
 | Vampire's Castle Adventure | 73314 | [73314-vampires-castle-adventure.json](./73314-vampires-castle-adventure.json) |
 | Vampires and Knights: Eclipse Survival & Magic Craft | 335073 | [335073-vampires-and-knights-eclipse-survival-and-magic-craft.json](./335073-vampires-and-knights-eclipse-survival-and-magic-craft.json) |
 | Vampires: Bloodlust | 68009 | [68009-vampires-bloodlust.json](./68009-vampires-bloodlust.json) |
