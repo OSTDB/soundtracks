@@ -781,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Stars Horse Racing: VR Edition | 314638 | [314638-rival-stars-horse-racing-vr-edition.json](./314638-rival-stars-horse-racing-vr-edition.json) |
 | Rivals Duel: Card Battler | 297203 | [297203-rivals-duel-card-battler.json](./297203-rivals-duel-card-battler.json) |
 | Rivals' Duel | 277611 | [277611-rivals-duel.json](./277611-rivals-duel.json) |
+| River City Girls 2 | 152321 | [152321-river-city-girls-2.json](./152321-river-city-girls-2.json) |
 | River City Saga: Three Kingdoms Next | 321749 | [321749-river-city-saga-three-kingdoms-next.json](./321749-river-city-saga-three-kingdoms-next.json) |
 | River Crossing IQ - Trivia Quiz | 117749 | [117749-river-crossing-iq-trivia-quiz.json](./117749-river-crossing-iq-trivia-quiz.json) |
 | River Raid 3D | 204070 | [204070-river-raid-3d.json](./204070-river-raid-3d.json) |
@@ -803,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Trip | 202425 | [202425-road-trip.json](./202425-road-trip.json) |
 | Road Trip Europe | 229944 | [229944-road-trip-europe.json](./229944-road-trip-europe.json) |
 | Road Wars | 265943 | [265943-road-wars.json](./265943-road-wars.json) |
+| RoadCraft | 314239 | [314239-roadcraft.json](./314239-roadcraft.json) |
 | Roadway Traffic Racer | 292327 | [292327-roadway-traffic-racer.json](./292327-roadway-traffic-racer.json) |
 | Roam | 63893 | [63893-roam.json](./63893-roam.json) |
 | Roaming through the Rivers | 214731 | [214731-roaming-through-the-rivers.json](./214731-roaming-through-the-rivers.json) |
@@ -927,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Glitch Ultra | 275900 | [275900-rogue-glitch-ultra.json](./275900-rogue-glitch-ultra.json) |
 | Rogue Hands! | 333352 | [333352-rogue-hands.json](./333352-rogue-hands.json) |
 | Rogue Heroes | 61120 | [61120-rogue-heroes.json](./61120-rogue-heroes.json) |
+| Rogue Heroes: Ruins of Tasos | 137985 | [137985-rogue-heroes-ruins-of-tasos.json](./137985-rogue-heroes-ruins-of-tasos.json) |
 | Rogue Jungle | 307949 | [307949-rogue-jungle.json](./307949-rogue-jungle.json) |
 | Rogue Kingdoms | 317594 | [317594-rogue-kingdoms.json](./317594-rogue-kingdoms.json) |
 | Rogue Lords: Day One Edition | 199631 | [199631-rogue-lords-day-one-edition.json](./199631-rogue-lords-day-one-edition.json) |
