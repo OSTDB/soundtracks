@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Jumper Jam | 326981 | [326981-christmas-jumper-jam.json](./326981-christmas-jumper-jam.json) |
 | Christmas Luge | 236521 | [236521-christmas-luge.json](./236521-christmas-luge.json) |
 | Christmas Mansion | 100190 | [100190-christmas-mansion.json](./100190-christmas-mansion.json) |
+| Christmas Massacre VR | 29952 | [29952-christmas-massacre-vr.json](./29952-christmas-massacre-vr.json) |
 | Christmas Puzzle 3 | 76672 | [76672-christmas-puzzle-3.json](./76672-christmas-puzzle-3.json) |
 | Christmas Race | 322983 | [322983-christmas-race.json](./322983-christmas-race.json) |
 | Christmas Rhythm | 158219 | [158219-christmas-rhythm.json](./158219-christmas-rhythm.json) |
@@ -960,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colossal Saga | 126663 | [126663-colossal-saga.json](./126663-colossal-saga.json) |
 | Colossus Down: Destroy'em Up Editon | 150145 | [150145-colossus-down-destroyem-up-editon.json](./150145-colossus-down-destroyem-up-editon.json) |
 | Colour Clash | 94228 | [94228-colour-clash.json](./94228-colour-clash.json) |
+| Colourise | 29897 | [29897-colourise.json](./29897-colourise.json) |
 | ColourS | 229381 | [229381-colours.json](./229381-colours.json) |
 | Coma: A Mind Adventure | 64976 | [64976-coma-a-mind-adventure.json](./64976-coma-a-mind-adventure.json) |
 | Comanche: Maximum Overkill - Mission Disk 1 | 94240 | [94240-comanche-maximum-overkill-mission-disk-1.json](./94240-comanche-maximum-overkill-mission-disk-1.json) |
@@ -1461,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeMator - Mine the MC World | 102203 | [102203-cubemator-mine-the-mc-world.json](./102203-cubemator-mine-the-mc-world.json) |
 | CubeRun | 89268 | [89268-cuberun.json](./89268-cuberun.json) |
 | CUBG: Car unknown battlegrounds | 120994 | [120994-cubg-car-unknown-battlegrounds.json](./120994-cubg-car-unknown-battlegrounds.json) |
+| Cubians VR | 29919 | [29919-cubians-vr.json](./29919-cubians-vr.json) |
 | Cubic Figures 2 | 249488 | [249488-cubic-figures-2.json](./249488-cubic-figures-2.json) |
 | Cubic Juice | 158221 | [158221-cubic-juice.json](./158221-cubic-juice.json) |
 | Cubic Survivor | 255962 | [255962-cubic-survivor.json](./255962-cubic-survivor.json) |
