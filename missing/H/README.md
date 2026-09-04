@@ -934,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo Gold | 265969 | [265969-hugo-gold.json](./265969-hugo-gold.json) |
 | Hugo: Bukkazoom | 165052 | [165052-hugo-bukkazoom.json](./165052-hugo-bukkazoom.json) |
 | Hugo: Magic in the Trollwoods | 48023 | [48023-hugo-magic-in-the-trollwoods.json](./48023-hugo-magic-in-the-trollwoods.json) |
+| Hugo: The Forces of Nature | 15538 | [15538-hugo-the-forces-of-nature.json](./15538-hugo-the-forces-of-nature.json) |
 | Huíwén Píngtái Tiàoyuè | 156136 | [156136-huiwen-pingtai-tiaoyue.json](./156136-huiwen-pingtai-tiaoyue.json) |
 | Hulu Has Live Sports '20: The Video Game | 125457 | [125457-hulu-has-live-sports-20-the-video-game.json](./125457-hulu-has-live-sports-20-the-video-game.json) |
 | Hululuup | 239907 | [239907-hululuup.json](./239907-hululuup.json) |
