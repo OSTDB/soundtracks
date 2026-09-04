@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bagitman | 79324 | [79324-bagitman.json](./79324-bagitman.json) |
 | Bagman Comes Back | 185164 | [185164-bagman-comes-back.json](./185164-bagman-comes-back.json) |
 | Bah, Humbug! | 97350 | [97350-bah-humbug.json](./97350-bah-humbug.json) |
+| Bahamut Lagoon | 15843 | [15843-bahamut-lagoon.json](./15843-bahamut-lagoon.json) |
 | Bahari | 201306 | [201306-bahari.json](./201306-bahari.json) |
 | Bái Xiǎo | 195266 | [195266-bai-xiao.json](./195266-bai-xiao.json) |
 | Baia | 334498 | [334498-baia.json](./334498-baia.json) |
@@ -338,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Knight - Crime Fighter Challenge Pack 3 | 15528 | [15528-batman-arkham-knight-crime-fighter-challenge-pack-3.json](./15528-batman-arkham-knight-crime-fighter-challenge-pack-3.json) |
 | Batman: Arkham Knight - Earth 2 Dark Knight Skin | 138216 | [138216-batman-arkham-knight-earth-2-dark-knight-skin.json](./138216-batman-arkham-knight-earth-2-dark-knight-skin.json) |
 | Batman: Arkham Knight - Original Arkham Batman Skin | 15525 | [15525-batman-arkham-knight-original-arkham-batman-skin.json](./15525-batman-arkham-knight-original-arkham-batman-skin.json) |
+| Batman: Arkham Knight - Season of Infamy: Most Wanted Expansion | 15531 | [15531-batman-arkham-knight-season-of-infamy-most-wanted-expansion.json](./15531-batman-arkham-knight-season-of-infamy-most-wanted-expansion.json) |
 | Batman: Return to Arkham | 19245 | [19245-batman-return-to-arkham.json](./19245-batman-return-to-arkham.json) |
 | Batman: Return to Arkham - Arkham City | 203435 | [203435-batman-return-to-arkham-arkham-city.json](./203435-batman-return-to-arkham-arkham-city.json) |
 | Batman: The Brave and the Bold | 245552 | [245552-batman-the-brave-and-the-bold.json](./245552-batman-the-brave-and-the-bold.json) |
@@ -1254,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Zombies | 311783 | [311783-box-zombies.json](./311783-box-zombies.json) |
 | Boxer | 13699 | [13699-boxer.json](./13699-boxer.json) |
 | Boxigon! | 109656 | [109656-boxigon.json](./109656-boxigon.json) |
+| Boxing | 55103 | [55103-boxing.json](./55103-boxing.json) |
 | Boxing Babes: Sexy Fight Hentai Anime Girls | 165016 | [165016-boxing-babes-sexy-fight-hentai-anime-girls.json](./165016-boxing-babes-sexy-fight-hentai-anime-girls.json) |
 | Boxing Club: Ultimate Fighting | 108469 | [108469-boxing-club-ultimate-fighting.json](./108469-boxing-club-ultimate-fighting.json) |
 | Boxing Gym Story | 174339 | [174339-boxing-gym-story.json](./174339-boxing-gym-story.json) |
@@ -1351,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout in Space | 70977 | [70977-breakout-in-space.json](./70977-breakout-in-space.json) |
 | Breakout: Boost | 64400 | [64400-breakout-boost.json](./64400-breakout-boost.json) |
 | BreakThru! | 7800 | [7800-breakthru.json](./7800-breakthru.json) |
+| Breath of Death VII | 16259 | [16259-breath-of-death-vii.json](./16259-breath-of-death-vii.json) |
 | Breath of Dragon II | 203551 | [203551-breath-of-dragon-ii.json](./203551-breath-of-dragon-ii.json) |
 | Breath of Ghosts | 203552 | [203552-breath-of-ghosts.json](./203552-breath-of-ghosts.json) |
 | Breathedge | 89326 | [89326-breathedge.json](./89326-breathedge.json) |
