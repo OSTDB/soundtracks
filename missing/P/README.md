@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pair Matching Puzzle Connect: Expansion Pack 7 | 163449 | [163449-pair-matching-puzzle-connect-expansion-pack-7.json](./163449-pair-matching-puzzle-connect-expansion-pack-7.json) |
 | Pair Matching Puzzle Connect: Expansion Pack 8 | 163441 | [163441-pair-matching-puzzle-connect-expansion-pack-8.json](./163441-pair-matching-puzzle-connect-expansion-pack-8.json) |
 | Paiteo: Yeongung-eul Gidalimyeo | 98430 | [98430-paiteo-yeongung-eul-gidalimyeo.json](./98430-paiteo-yeongung-eul-gidalimyeo.json) |
+| Pako | 9568 | [9568-pako.json](./9568-pako.json) |
 | Pako Highway | 212448 | [212448-pako-highway.json](./212448-pako-highway.json) |
 | Palace of Cards | 81384 | [81384-palace-of-cards.json](./81384-palace-of-cards.json) |
 | Palace of Woe | 134683 | [134683-palace-of-woe.json](./134683-palace-of-woe.json) |
@@ -488,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photogeist Albums: Case 1 | 307337 | [307337-photogeist-albums-case-1.json](./307337-photogeist-albums-case-1.json) |
 | Photon Cube | 104057 | [104057-photon-cube.json](./104057-photon-cube.json) |
 | Photon Flux | 68703 | [68703-photon-flux.json](./68703-photon-flux.json) |
+| Photopia | 9513 | [9513-photopia.json](./9513-photopia.json) |
 | Phraze Craze | 307911 | [307911-phraze-craze.json](./307911-phraze-craze.json) |
 | Phyrexia | 208055 | [208055-phyrexia.json](./208055-phyrexia.json) |
 | Physical Spheres | 305519 | [305519-physical-spheres.json](./305519-physical-spheres.json) |
