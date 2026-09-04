@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team: Evil Genius | 122409 | [122409-rescue-team-evil-genius.json](./122409-rescue-team-evil-genius.json) |
 | Rescue Team: Heist of the Century | 195206 | [195206-rescue-team-heist-of-the-century.json](./195206-rescue-team-heist-of-the-century.json) |
 | Research Station | 273140 | [273140-research-station.json](./273140-research-station.json) |
+| Reset | 23906 | [23906-reset.json](./23906-reset.json) |
 | Resident Evil 2: Collector's Edition | 105979 | [105979-resident-evil-2-collectors-edition.json](./105979-resident-evil-2-collectors-edition.json) |
 | Resident Evil 2: Collector's Edition | 221401 | [221401-resident-evil-2-collectors-edition.json](./221401-resident-evil-2-collectors-edition.json) |
 | Resident Evil 2: Pix' N Love Limited Edition | 221404 | [221404-resident-evil-2-pix-n-love-limited-edition.json](./221404-resident-evil-2-pix-n-love-limited-edition.json) |
@@ -746,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River City Saga: Three Kingdoms Next | 321749 | [321749-river-city-saga-three-kingdoms-next.json](./321749-river-city-saga-three-kingdoms-next.json) |
 | River Crossing IQ - Trivia Quiz | 117749 | [117749-river-crossing-iq-trivia-quiz.json](./117749-river-crossing-iq-trivia-quiz.json) |
 | River Raid 3D | 204070 | [204070-river-raid-3d.json](./204070-river-raid-3d.json) |
+| River Rescue | 23897 | [23897-river-rescue.json](./23897-river-rescue.json) |
 | Riverboat Casino | 209164 | [209164-riverboat-casino.json](./209164-riverboat-casino.json) |
 | RKR: Rush Kill Repeat | 217495 | [217495-rkr-rush-kill-repeat.json](./217495-rkr-rush-kill-repeat.json) |
 | Rktcr | 35863 | [35863-rktcr.json](./35863-rktcr.json) |
