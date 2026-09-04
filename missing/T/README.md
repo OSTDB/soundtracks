@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank-O-Box | 78682 | [78682-tank-o-box.json](./78682-tank-o-box.json) |
 | Tankomatron War Robots: Transform Tanks into Bots | 104634 | [104634-tankomatron-war-robots-transform-tanks-into-bots.json](./104634-tankomatron-war-robots-transform-tanks-into-bots.json) |
 | Tankron | 215883 | [215883-tankron.json](./215883-tankron.json) |
+| Tanks | 102253 | [102253-tanks.json](./102253-tanks.json) |
 | Tanks Boom Boom | 210872 | [210872-tanks-boom-boom.json](./210872-tanks-boom-boom.json) |
 | Tanks Endeavor | 117073 | [117073-tanks-endeavor.json](./117073-tanks-endeavor.json) |
 | Tanky Tanks | 120399 | [120399-tanky-tanks.json](./120399-tanky-tanks.json) |
@@ -750,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crooked Man | 46989 | [46989-the-crooked-man.json](./46989-the-crooked-man.json) |
 | The Crows | 326985 | [326985-the-crows.json](./326985-the-crows.json) |
 | The Crystal Rainforest | 151716 | [151716-the-crystal-rainforest.json](./151716-the-crystal-rainforest.json) |
+| The Culling II | 103367 | [103367-the-culling-ii.json](./103367-the-culling-ii.json) |
 | The Cult: Marduk's Longest Night | 121742 | [121742-the-cult-marduks-longest-night.json](./121742-the-cult-marduks-longest-night.json) |
 | The Curator | 137668 | [137668-the-curator.json](./137668-the-curator.json) |
 | The Cure | 184647 | [184647-the-cure.json](./184647-the-cure.json) |
@@ -1734,6 +1736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Treasure of Civilization | 153422 | [153422-the-treasure-of-civilization.json](./153422-the-treasure-of-civilization.json) |
 | The Treasure Seekers of Lady Luck | 83596 | [83596-the-treasure-seekers-of-lady-luck.json](./83596-the-treasure-seekers-of-lady-luck.json) |
 | The Treasures of Hotei | 96071 | [96071-the-treasures-of-hotei.json](./96071-the-treasures-of-hotei.json) |
+| The Treehouse Man | 102317 | [102317-the-treehouse-man.json](./102317-the-treehouse-man.json) |
 | The Trials | 172767 | [172767-the-trials.json](./172767-the-trials.json) |
 | The Trials 2 | 310760 | [310760-the-trials-2.json](./310760-the-trials-2.json) |
 | The Trials of Beadie | 204106 | [204106-the-trials-of-beadie.json](./204106-the-trials-of-beadie.json) |
@@ -2304,6 +2307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokoro's Mahjong Jr. | 126011 | [126011-tokoros-mahjong-jr.json](./126011-tokoros-mahjong-jr.json) |
 | Tokyo 42 | 18930 | [18930-tokyo-42.json](./18930-tokyo-42.json) |
 | Tokyo Alice | 135270 | [135270-tokyo-alice.json](./135270-tokyo-alice.json) |
+| Tokyo Chronos | 101059 | [101059-tokyo-chronos.json](./101059-tokyo-chronos.json) |
 | Tokyo Cooking: Complete + | 328822 | [328822-tokyo-cooking-complete.json](./328822-tokyo-cooking-complete.json) |
 | Tokyo Cooking: Definitive Edition | 328799 | [328799-tokyo-cooking-definitive-edition.json](./328799-tokyo-cooking-definitive-edition.json) |
 | Tokyo Cooking: Deluxe Edition | 328800 | [328800-tokyo-cooking-deluxe-edition.json](./328800-tokyo-cooking-deluxe-edition.json) |
@@ -2450,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toride | 37784 | [37784-toride.json](./37784-toride.json) |
 | Toril | 228700 | [228700-toril.json](./228700-toril.json) |
 | Torn | 253595 | [253595-torn.json](./253595-torn.json) |
+| Torn | 90106 | [90106-torn.json](./90106-torn.json) |
 | Torn Sails | 27909 | [27909-torn-sails.json](./27909-torn-sails.json) |
 | Tornado | 266469 | [266469-tornado.json](./266469-tornado.json) |
 | Tornado Baseball / Tennis / Handball / Hockey | 93564 | [93564-tornado-baseball-tennis-handball-hockey.json](./93564-tornado-baseball-tennis-handball-hockey.json) |
