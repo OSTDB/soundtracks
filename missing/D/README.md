@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Dash | 72688 | [72688-diamond-dash.json](./72688-diamond-dash.json) |
 | Diamond Girl: An Earnest Education in Love | 147996 | [147996-diamond-girl-an-earnest-education-in-love.json](./147996-diamond-girl-an-earnest-education-in-love.json) |
 | Diamond Giza | 157193 | [157193-diamond-giza.json](./157193-diamond-giza.json) |
+| Diamond Joyce and the Secrets of Crystal Cave | 31960 | [31960-diamond-joyce-and-the-secrets-of-crystal-cave.json](./31960-diamond-joyce-and-the-secrets-of-crystal-cave.json) |
 | Diamond Lady | 81359 | [81359-diamond-lady.json](./81359-diamond-lady.json) |
 | Diamond Mind Baseball 8.0 | 94249 | [94249-diamond-mind-baseball-8-0.json](./94249-diamond-mind-baseball-8-0.json) |
 | Diamond Painting ASMR: Cool & Festive | 309075 | [309075-diamond-painting-asmr-cool-and-festive.json](./309075-diamond-painting-asmr-cool-and-festive.json) |
@@ -916,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominating the Skies | 162412 | [162412-dominating-the-skies.json](./162412-dominating-the-skies.json) |
 | Dominay | 211962 | [211962-dominay.json](./211962-dominay.json) |
 | Dominique Pamplemousse | 134677 | [134677-dominique-pamplemousse.json](./134677-dominique-pamplemousse.json) |
+| Domino VR | 31894 | [31894-domino-vr.json](./31894-domino-vr.json) |
 | Dominus Rage | 199615 | [199615-dominus-rage.json](./199615-dominus-rage.json) |
 | DommeGer's Plane | 215373 | [215373-dommegers-plane.json](./215373-dommegers-plane.json) |
 | Domo Jump | 63307 | [63307-domo-jump.json](./63307-domo-jump.json) |
@@ -1069,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DracoFighter | 207527 | [207527-dracofighter.json](./207527-dracofighter.json) |
 | Draconic Echoes: The Ardent War | 126664 | [126664-draconic-echoes-the-ardent-war.json](./126664-draconic-echoes-the-ardent-war.json) |
 | Draconic Evolution | 232672 | [232672-draconic-evolution.json](./232672-draconic-evolution.json) |
+| Draconic Order VR | 31925 | [31925-draconic-order-vr.json](./31925-draconic-order-vr.json) |
 | Dracu-Riot! | 137087 | [137087-dracu-riot.json](./137087-dracu-riot.json) |
 | Dracula Hakushaku | 66111 | [66111-dracula-hakushaku.json](./66111-dracula-hakushaku.json) |
 | Dracula vs. The Ninja On the Moon | 144306 | [144306-dracula-vs-the-ninja-on-the-moon.json](./144306-dracula-vs-the-ninja-on-the-moon.json) |
