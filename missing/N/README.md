@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Heat | 119161 | [119161-need-for-speed-heat.json](./119161-need-for-speed-heat.json) |
 | Need for Speed: High Stakes | 93 | [93-need-for-speed-high-stakes.json](./93-need-for-speed-high-stakes.json) |
 | Need for Speed: Hot Pursuit | 264364 | [264364-need-for-speed-hot-pursuit.json](./264364-need-for-speed-hot-pursuit.json) |
+| Need for Speed: Most Wanted | 243048 | [243048-need-for-speed-most-wanted.json](./243048-need-for-speed-most-wanted.json) |
 | Need for Speed: Porsche Unleashed | 94 | [94-need-for-speed-porsche-unleashed.json](./94-need-for-speed-porsche-unleashed.json) |
 | Need for Speed: ProStreet | 240505 | [240505-need-for-speed-prostreet.json](./240505-need-for-speed-prostreet.json) |
 | Need for Speed: Unbound | 219442 | [219442-need-for-speed-unbound.json](./219442-need-for-speed-unbound.json) |
@@ -210,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Nectaris | 42009 | [42009-neo-nectaris.json](./42009-neo-nectaris.json) |
 | Neo Testament | 270969 | [270969-neo-testament.json](./270969-neo-testament.json) |
 | Neo-Now! | 31986 | [31986-neo-now.json](./31986-neo-now.json) |
+| NEO: The World Ends with You | 141192 | [141192-neo-the-world-ends-with-you.json](./141192-neo-the-world-ends-with-you.json) |
 | Neo's Land | 61632 | [61632-neos-land.json](./61632-neos-land.json) |
 | NeoBalls2 | 83560 | [83560-neoballs2.json](./83560-neoballs2.json) |
 | NeoFables | 330552 | [330552-neofables.json](./330552-neofables.json) |
@@ -364,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Quarterback 15 | 74417 | [74417-nfl-quarterback-15.json](./74417-nfl-quarterback-15.json) |
 | NFL Sports Talk Football '93 Starring Joe Montana | 72117 | [72117-nfl-sports-talk-football-93-starring-joe-montana.json](./72117-nfl-sports-talk-football-93-starring-joe-montana.json) |
 | Ngolf: Legendary Edition | 315858 | [315858-ngolf-legendary-edition.json](./315858-ngolf-legendary-edition.json) |
+| NHL 07 | 5964 | [5964-nhl-07.json](./5964-nhl-07.json) |
 | NHL 19: Ultimate Edition | 61636 | [61636-nhl-19-ultimate-edition.json](./61636-nhl-19-ultimate-edition.json) |
 | NHL All-Star Hockey '95 | 19559 | [19559-nhl-all-star-hockey-95.json](./19559-nhl-all-star-hockey-95.json) |
 | NHL Stanley Cup | 42655 | [42655-nhl-stanley-cup.json](./42655-nhl-stanley-cup.json) |
@@ -478,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Fight | 336374 | [336374-ninja-fight.json](./336374-ninja-fight.json) |
 | Ninja from Hell vs. Reptiloids | 105346 | [105346-ninja-from-hell-vs-reptiloids.json](./105346-ninja-from-hell-vs-reptiloids.json) |
 | Ninja Gaiden | 239925 | [239925-ninja-gaiden.json](./239925-ninja-gaiden.json) |
+| Ninja Gaiden 3: Razor's Edge | 5317 | [5317-ninja-gaiden-3-razors-edge.json](./5317-ninja-gaiden-3-razors-edge.json) |
 | Ninja Gaiden Sigma 2: Collector's Edition | 44657 | [44657-ninja-gaiden-sigma-2-collectors-edition.json](./44657-ninja-gaiden-sigma-2-collectors-edition.json) |
 | Ninja Gaiden: Dragon Scroll | 269875 | [269875-ninja-gaiden-dragon-scroll.json](./269875-ninja-gaiden-dragon-scroll.json) |
 | Ninja Gaiden: Master Collection - Version D | 222501 | [222501-ninja-gaiden-master-collection-version-d.json](./222501-ninja-gaiden-master-collection-version-d.json) |
