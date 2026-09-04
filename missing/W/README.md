@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wastelander | 178100 | [178100-wastelander.json](./178100-wastelander.json) |
 | Watashi no Kokoro! Kimi no Koto ga Suki desu. | 161902 | [161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json](./161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json) |
 | Watch | 310212 | [310212-watch.json](./310212-watch.json) |
+| Watch Dogs: Bad Blood | 17473 | [17473-watch-dogs-bad-blood.json](./17473-watch-dogs-bad-blood.json) |
 | Watchmen: The End Is Nigh Complete Experience | 44619 | [44619-watchmen-the-end-is-nigh-complete-experience.json](./44619-watchmen-the-end-is-nigh-complete-experience.json) |
 | Watchtower | 15568 | [15568-watchtower.json](./15568-watchtower.json) |
 | Water Balloon Mania | 147467 | [147467-water-balloon-mania.json](./147467-water-balloon-mania.json) |
@@ -442,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Angel Challenge | 195253 | [195253-wind-angel-challenge.json](./195253-wind-angel-challenge.json) |
 | Wind-Up Knight | 65528 | [65528-wind-up-knight.json](./65528-wind-up-knight.json) |
 | Windborn: Concrete Jungle | 340746 | [340746-windborn-concrete-jungle.json](./340746-windborn-concrete-jungle.json) |
+| Windjammers | 11222 | [11222-windjammers.json](./11222-windjammers.json) |
 | Windowframe | 70387 | [70387-windowframe.json](./70387-windowframe.json) |
 | Windrush Tales | 180269 | [180269-windrush-tales.json](./180269-windrush-tales.json) |
 | Winds of Destiny - Duels of the Magi | 39002 | [39002-winds-of-destiny-duels-of-the-magi.json](./39002-winds-of-destiny-duels-of-the-magi.json) |
@@ -557,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolverine: Adamantium Redux | 219275 | [219275-wolverine-adamantium-redux.json](./219275-wolverine-adamantium-redux.json) |
 | Wolves in Sheep's Clothing | 292317 | [292317-wolves-in-sheeps-clothing.json](./292317-wolves-in-sheeps-clothing.json) |
 | Women's Murder Club: Little Black Lies | 135250 | [135250-womens-murder-club-little-black-lies.json](./135250-womens-murder-club-little-black-lies.json) |
+| Wonder Boy | 5560 | [5560-wonder-boy.json](./5560-wonder-boy.json) |
 | Wonder Land | 216483 | [216483-wonder-land.json](./216483-wonder-land.json) |
 | Wonder Mu: Mu to Unmei no Monster | 220323 | [220323-wonder-mu-mu-to-unmei-no-monster.json](./220323-wonder-mu-mu-to-unmei-no-monster.json) |
 | Wonder Planet | 40245 | [40245-wonder-planet.json](./40245-wonder-planet.json) |
