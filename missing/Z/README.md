@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Anarchy | 57088 | [57088-zombie-anarchy.json](./57088-zombie-anarchy.json) |
 | Zombie Ants VR | 250003 | [250003-zombie-ants-vr.json](./250003-zombie-ants-vr.json) |
 | Zombie Apocalypse Survivor | 99616 | [99616-zombie-apocalypse-survivor.json](./99616-zombie-apocalypse-survivor.json) |
+| Zombie Apocalypse: Escape the Undead City | 32359 | [32359-zombie-apocalypse-escape-the-undead-city.json](./32359-zombie-apocalypse-escape-the-undead-city.json) |
 | Zombie Army 4: Dead War - Deluxe Edition | 129784 | [129784-zombie-army-4-dead-war-deluxe-edition.json](./129784-zombie-army-4-dead-war-deluxe-edition.json) |
 | Zombie Army 4: Dead War - Super Deluxe Edition | 129783 | [129783-zombie-army-4-dead-war-super-deluxe-edition.json](./129783-zombie-army-4-dead-war-super-deluxe-edition.json) |
 | Zombie Attack Pinball HD: Monster Challenge | 89275 | [89275-zombie-attack-pinball-hd-monster-challenge.json](./89275-zombie-attack-pinball-hd-monster-challenge.json) |
