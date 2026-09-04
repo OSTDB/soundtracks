@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang! Bang! Totally Accurate Redneck Simulator | 138808 | [138808-bang-bang-totally-accurate-redneck-simulator.json](./138808-bang-bang-totally-accurate-redneck-simulator.json) |
 | BangBang PewPew | 193484 | [193484-bangbang-pewpew.json](./193484-bangbang-pewpew.json) |
 | Banishers: Ghosts of New Eden - Wanderer Set DLC | 312879 | [312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json](./312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json) |
+| Banishing Racer | 7763 | [7763-banishing-racer.json](./7763-banishing-racer.json) |
 | Banjo X | 194643 | [194643-banjo-x.json](./194643-banjo-x.json) |
 | Banjo-Kazooie New Horizons | 135260 | [135260-banjo-kazooie-new-horizons.json](./135260-banjo-kazooie-new-horizons.json) |
 | Banjo-Kazooie Worlds Collide | 135259 | [135259-banjo-kazooie-worlds-collide.json](./135259-banjo-kazooie-worlds-collide.json) |
@@ -376,12 +377,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Decay: Survival | 217015 | [217015-battle-of-decay-survival.json](./217015-battle-of-decay-survival.json) |
 | Battle of Emperor Tian | 339114 | [339114-battle-of-emperor-tian.json](./339114-battle-of-emperor-tian.json) |
 | Battle of Finland: Winter War | 193483 | [193483-battle-of-finland-winter-war.json](./193483-battle-of-finland-winter-war.json) |
+| Battle of Giants: Dinosaurs Strike | 7907 | [7907-battle-of-giants-dinosaurs-strike.json](./7907-battle-of-giants-dinosaurs-strike.json) |
 | Battle of Heroes 3 | 196877 | [196877-battle-of-heroes-3.json](./196877-battle-of-heroes-3.json) |
+| Battle of Kingdom | 7772 | [7772-battle-of-kingdom.json](./7772-battle-of-kingdom.json) |
 | Battle of Kings | 101591 | [101591-battle-of-kings.json](./101591-battle-of-kings.json) |
 | Battle of Luzon 1945 | 103530 | [103530-battle-of-luzon-1945.json](./103530-battle-of-luzon-1945.json) |
 | Battle of Orion 10: First contact | 235474 | [235474-battle-of-orion-10-first-contact.json](./235474-battle-of-orion-10-first-contact.json) |
 | Battle of the Immortals | 51218 | [51218-battle-of-the-immortals.json](./51218-battle-of-the-immortals.json) |
 | Battle Pinball | 37205 | [37205-battle-pinball.json](./37205-battle-pinball.json) |
+| Battle Pingpong | 7774 | [7774-battle-pingpong.json](./7774-battle-pingpong.json) |
 | Battle Pixel's Survival | 76680 | [76680-battle-pixels-survival.json](./76680-battle-pixels-survival.json) |
 | Battle Plan: Jester's Knife | 247736 | [247736-battle-plan-jesters-knife.json](./247736-battle-plan-jesters-knife.json) |
 | Battle Rage: Mech Conflict | 78683 | [78683-battle-rage-mech-conflict.json](./78683-battle-rage-mech-conflict.json) |
@@ -1107,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonfire Kingdom | 260413 | [260413-bonfire-kingdom.json](./260413-bonfire-kingdom.json) |
 | Bonkers | 177539 | [177539-bonkers.json](./177539-bonkers.json) |
 | Bonza Word Puzzle | 90678 | [90678-bonza-word-puzzle.json](./90678-bonza-word-puzzle.json) |
+| Booby Kids | 7796 | [7796-booby-kids.json](./7796-booby-kids.json) |
 | Boofie's Birthday Adventure | 340246 | [340246-boofies-birthday-adventure.json](./340246-boofies-birthday-adventure.json) |
 | Boogaloopers | 62752 | [62752-boogaloopers.json](./62752-boogaloopers.json) |
 | Boogie | 210265 | [210265-boogie.json](./210265-boogie.json) |
@@ -1307,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout Defense 2 | 77368 | [77368-breakout-defense-2.json](./77368-breakout-defense-2.json) |
 | Breakout in Space | 70977 | [70977-breakout-in-space.json](./70977-breakout-in-space.json) |
 | Breakout: Boost | 64400 | [64400-breakout-boost.json](./64400-breakout-boost.json) |
+| BreakThru! | 7800 | [7800-breakthru.json](./7800-breakthru.json) |
 | Breath of Dragon II | 203551 | [203551-breath-of-dragon-ii.json](./203551-breath-of-dragon-ii.json) |
 | Breath of Ghosts | 203552 | [203552-breath-of-ghosts.json](./203552-breath-of-ghosts.json) |
 | BreathePeace.World | 111722 | [111722-breathepeace-world.json](./111722-breathepeace-world.json) |
@@ -1439,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Xmas | 57663 | [57663-bubble-xmas.json](./57663-bubble-xmas.json) |
 | BubbleTT: Oh! My Fart | 256528 | [256528-bubblett-oh-my-fart.json](./256528-bubblett-oh-my-fart.json) |
 | BubbleXRush | 61089 | [61089-bubblexrush.json](./61089-bubblexrush.json) |
+| Bubsy in Fractured Furry Tales | 7805 | [7805-bubsy-in-fractured-furry-tales.json](./7805-bubsy-in-fractured-furry-tales.json) |
 | Bubu Kong | 25007 | [25007-bubu-kong.json](./25007-bubu-kong.json) |
 | Buccaneer | 141845 | [141845-buccaneer.json](./141845-buccaneer.json) |
 | Buck Blastem | 322987 | [322987-buck-blastem.json](./322987-buck-blastem.json) |
