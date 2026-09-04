@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Girl: Kit - A Treehouse of My Own | 18247 | [18247-american-girl-kit-a-treehouse-of-my-own.json](./18247-american-girl-kit-a-treehouse-of-my-own.json) |
 | American Girl: Kit's Mystery Challenge | 18246 | [18246-american-girl-kits-mystery-challenge.json](./18246-american-girl-kits-mystery-challenge.json) |
 | American Girl: Mia Goes For Great | 18245 | [18245-american-girl-mia-goes-for-great.json](./18245-american-girl-mia-goes-for-great.json) |
+| American Gladiators | 4377 | [4377-american-gladiators.json](./4377-american-gladiators.json) |
 | American Isekai: Legends of Nipponia | 277012 | [277012-american-isekai-legends-of-nipponia.json](./277012-american-isekai-legends-of-nipponia.json) |
 | American Marksman | 239912 | [239912-american-marksman.json](./239912-american-marksman.json) |
 | American Patriots: The Swamp Fox | 111018 | [111018-american-patriots-the-swamp-fox.json](./111018-american-patriots-the-swamp-fox.json) |
@@ -896,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Wars: Medieval Crusades | 211401 | [211401-ancient-wars-medieval-crusades.json](./211401-ancient-wars-medieval-crusades.json) |
 | Ancient Wonders: Gardens of Babylon | 273656 | [273656-ancient-wonders-gardens-of-babylon.json](./273656-ancient-wonders-gardens-of-babylon.json) |
 | And I Made Sure to Hold Your Head Sideways | 138781 | [138781-and-i-made-sure-to-hold-your-head-sideways.json](./138781-and-i-made-sure-to-hold-your-head-sideways.json) |
+| And Roger | 324784 | [324784-and-roger.json](./324784-and-roger.json) |
 | Andalusian Roulette | 303789 | [303789-andalusian-roulette.json](./303789-andalusian-roulette.json) |
 | Andara: Rise for Rebellion | 255986 | [255986-andara-rise-for-rebellion.json](./255986-andara-rise-for-rebellion.json) |
 | Andrew Lloyd Webber Musicals: Sing and Dance | 63874 | [63874-andrew-lloyd-webber-musicals-sing-and-dance.json](./63874-andrew-lloyd-webber-musicals-sing-and-dance.json) |
