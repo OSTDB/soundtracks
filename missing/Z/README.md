@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z.O.M.B.I.E. | 163952 | [163952-z-o-m-b-i-e.json](./163952-z-o-m-b-i-e.json) |
 | Z69 | 51959 | [51959-z69.json](./51959-z69.json) |
 | ZaBaTa! | 235496 | [235496-zabata.json](./235496-zabata.json) |
+| Zaccaria Pinball | 33463 | [33463-zaccaria-pinball.json](./33463-zaccaria-pinball.json) |
 | Zaccaria Pinball: Postal 2 Table Pack | 215390 | [215390-zaccaria-pinball-postal-2-table-pack.json](./215390-zaccaria-pinball-postal-2-table-pack.json) |
 | Zach-Like | 119788 | [119788-zach-like.json](./119788-zach-like.json) |
 | Zack Y | 109724 | [109724-zack-y.json](./109724-zack-y.json) |
@@ -143,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Murder Hell Arrives | 89946 | [89946-zombie-murder-hell-arrives.json](./89946-zombie-murder-hell-arrives.json) |
 | Zombie Nightmare | 74448 | [74448-zombie-nightmare.json](./74448-zombie-nightmare.json) |
 | Zombie Ninja Confessional | 128652 | [128652-zombie-ninja-confessional.json](./128652-zombie-ninja-confessional.json) |
+| Zombie Panic! Source | 29119 | [29119-zombie-panic-source.json](./29119-zombie-panic-source.json) |
 | Zombie Race: Undead Smasher | 247179 | [247179-zombie-race-undead-smasher.json](./247179-zombie-race-undead-smasher.json) |
 | Zombie Raid: No One Survives | 195274 | [195274-zombie-raid-no-one-survives.json](./195274-zombie-raid-no-one-survives.json) |
 | Zombie Roguelite | 291209 | [291209-zombie-roguelite.json](./291209-zombie-roguelite.json) |
