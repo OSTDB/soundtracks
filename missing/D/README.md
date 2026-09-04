@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Inquisition | 278162 | [278162-dark-inquisition.json](./278162-dark-inquisition.json) |
 | Dark Island | 147961 | [147961-dark-island.json](./147961-dark-island.json) |
 | Dark Legacy | 314034 | [314034-dark-legacy.json](./314034-dark-legacy.json) |
+| Dark Messiah of Might and Magic | 2369 | [2369-dark-messiah-of-might-and-magic.json](./2369-dark-messiah-of-might-and-magic.json) |
 | Dark Mist - The Wizard Vanishes | 141213 | [141213-dark-mist-the-wizard-vanishes.json](./141213-dark-mist-the-wizard-vanishes.json) |
 | Dark Old Sun II: Unspace | 217005 | [217005-dark-old-sun-ii-unspace.json](./217005-dark-old-sun-ii-unspace.json) |
 | Dark Parables: Curse of Briar Rose | 63303 | [63303-dark-parables-curse-of-briar-rose.json](./63303-dark-parables-curse-of-briar-rose.json) |
@@ -322,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Survival | 277022 | [277022-deadly-survival.json](./277022-deadly-survival.json) |
 | Deadly Tecknology | 188655 | [188655-deadly-tecknology.json](./188655-deadly-tecknology.json) |
 | DeadOS | 158207 | [158207-deados.json](./158207-deados.json) |
+| Deadpool | 1919 | [1919-deadpool.json](./1919-deadpool.json) |
 | Deadside: Beehive Skin Set | 338015 | [338015-deadside-beehive-skin-set.json](./338015-deadside-beehive-skin-set.json) |
 | Deadside: Bushranger Skin Set | 338024 | [338024-deadside-bushranger-skin-set.json](./338024-deadside-bushranger-skin-set.json) |
 | Deadside: Dragonfly Skin Set | 338023 | [338023-deadside-dragonfly-skin-set.json](./338023-deadside-dragonfly-skin-set.json) |
@@ -794,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discrete Orange | 312348 | [312348-discrete-orange.json](./312348-discrete-orange.json) |
 | Disgaea 4 Complete+: A Promise of Sardines Edition | 205262 | [205262-disgaea-4-complete-a-promise-of-sardines-edition.json](./205262-disgaea-4-complete-a-promise-of-sardines-edition.json) |
 | Dishonored 2: Steelbook Edition | 308562 | [308562-dishonored-2-steelbook-edition.json](./308562-dishonored-2-steelbook-edition.json) |
+| Dishonored: Death of the Outsider | 37030 | [37030-dishonored-death-of-the-outsider.json](./37030-dishonored-death-of-the-outsider.json) |
 | Disillusion ST | 276494 | [276494-disillusion-st.json](./276494-disillusion-st.json) |
 | Disney Classic Games: Aladdin and The Lion King - The Jungle Book and More Aladdin Pack | 204668 | [204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json](./204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json) |
 | Disney Fairies: Tinker Bell | 78718 | [78718-disney-fairies-tinker-bell.json](./78718-disney-fairies-tinker-bell.json) |
@@ -991,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong | 270404 | [270404-donkey-kong.json](./270404-donkey-kong.json) |
 | Donkey Kong 3-e | 170016 | [170016-donkey-kong-3-e.json](./170016-donkey-kong-3-e.json) |
 | Donkey Kong 64 Lore Quiz | 231609 | [231609-donkey-kong-64-lore-quiz.json](./231609-donkey-kong-64-lore-quiz.json) |
+| Donkey Kong Country 3: Dixie Kong's Double Trouble! | 1094 | [1094-donkey-kong-country-3-dixie-kongs-double-trouble.json](./1094-donkey-kong-country-3-dixie-kongs-double-trouble.json) |
 | Donkey Kong Country: Barrel Maze | 231637 | [231637-donkey-kong-country-barrel-maze.json](./231637-donkey-kong-country-barrel-maze.json) |
 | Donkey Kong Craze | 191268 | [191268-donkey-kong-craze.json](./191268-donkey-kong-craze.json) |
 | Donkey Kong Jr. | 257639 | [257639-donkey-kong-jr.json](./257639-donkey-kong-jr.json) |
@@ -1136,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon & Elfs | 227507 | [227507-dragon-and-elfs.json](./227507-dragon-and-elfs.json) |
 | Dragon & Knights | 200747 | [200747-dragon-and-knights.json](./200747-dragon-and-knights.json) |
 | Dragon Ball 3: Goku-den | 48679 | [48679-dragon-ball-3-goku-den.json](./48679-dragon-ball-3-goku-den.json) |
+| Dragon Ball FighterZ | 36911 | [36911-dragon-ball-fighterz.json](./36911-dragon-ball-fighterz.json) |
 | Dragon Ball Xenoverse 2: Lite Version | 116372 | [116372-dragon-ball-xenoverse-2-lite-version.json](./116372-dragon-ball-xenoverse-2-lite-version.json) |
 | Dragon Ball Z II: Gekishin Frieza!! | 48682 | [48682-dragon-ball-z-ii-gekishin-frieza.json](./48682-dragon-ball-z-ii-gekishin-frieza.json) |
 | Dragon Ball Z III: Ressen Jinzou Ningen | 48680 | [48680-dragon-ball-z-iii-ressen-jinzou-ningen.json](./48680-dragon-ball-z-iii-ressen-jinzou-ningen.json) |
@@ -1277,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamworks' Universe of Legends | 82114 | [82114-dreamworks-universe-of-legends.json](./82114-dreamworks-universe-of-legends.json) |
 | DreamWorld | 145026 | [145026-dreamworld.json](./145026-dreamworld.json) |
 | Dredark | 152886 | [152886-dredark.json](./152886-dredark.json) |
+| Dredge | 164867 | [164867-dredge.json](./164867-dredge.json) |
 | Dresden Files Cooperative Card Game: Fan Favorites | 266499 | [266499-dresden-files-cooperative-card-game-fan-favorites.json](./266499-dresden-files-cooperative-card-game-fan-favorites.json) |
 | Dresden Files Cooperative Card Game: Mouse & Variants | 266505 | [266505-dresden-files-cooperative-card-game-mouse-and-variants.json](./266505-dresden-files-cooperative-card-game-mouse-and-variants.json) |
 | Dresden Files Cooperative Card Game: Winter Schemes | 266503 | [266503-dresden-files-cooperative-card-game-winter-schemes.json](./266503-dresden-files-cooperative-card-game-winter-schemes.json) |
@@ -1351,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Duck Swap | 218155 | [218155-duck-duck-swap.json](./218155-duck-duck-swap.json) |
 | Duck Dynasty: Battle of the Beards | 234327 | [234327-duck-dynasty-battle-of-the-beards.json](./234327-duck-dynasty-battle-of-the-beards.json) |
 | Duck Guardian One | 135883 | [135883-duck-guardian-one.json](./135883-duck-guardian-one.json) |
+| Duck Hunt | 2741 | [2741-duck-hunt.json](./2741-duck-hunt.json) |
 | Duck Hunt 2 | 127992 | [127992-duck-hunt-2.json](./127992-duck-hunt-2.json) |
 | Duck Hunter Pro 3D | 101553 | [101553-duck-hunter-pro-3d.json](./101553-duck-hunter-pro-3d.json) |
 | Duck Hunting | 28885 | [28885-duck-hunting.json](./28885-duck-hunting.json) |
@@ -1368,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dufe: Masquerade | 179749 | [179749-dufe-masquerade.json](./179749-dufe-masquerade.json) |
 | Dukai | 271984 | [271984-dukai.json](./271984-dukai.json) |
 | Duke Hard | 218118 | [218118-duke-hard.json](./218118-duke-hard.json) |
+| Duke Nukem Forever | 490 | [490-duke-nukem-forever.json](./490-duke-nukem-forever.json) |
 | Duke Nukem Forever 2013 | 153446 | [153446-duke-nukem-forever-2013.json](./153446-duke-nukem-forever-2013.json) |
 | Duke Nukem Forever Collection | 335681 | [335681-duke-nukem-forever-collection.json](./335681-duke-nukem-forever-collection.json) |
 | Duke Nukem Forever: Enhanced | 297232 | [297232-duke-nukem-forever-enhanced.json](./297232-duke-nukem-forever-enhanced.json) |
