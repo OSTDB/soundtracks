@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famicom Tantei Club: Kieta Koukeisha - Kouhen | 41381 | [41381-famicom-tantei-club-kieta-koukeisha-kouhen.json](./41381-famicom-tantei-club-kieta-koukeisha-kouhen.json) |
 | Famicom Tantei Club: Kieta Koukeisha - Zenpen | 41380 | [41380-famicom-tantei-club-kieta-koukeisha-zenpen.json](./41380-famicom-tantei-club-kieta-koukeisha-zenpen.json) |
 | Famicom Top Management | 48712 | [48712-famicom-top-management.json](./48712-famicom-top-management.json) |
+| Famicom Wars | 72131 | [72131-famicom-wars.json](./72131-famicom-wars.json) |
 | Familia | 125470 | [125470-familia.json](./125470-familia.json) |
 | Familiar Stranger | 319932 | [319932-familiar-stranger.json](./319932-familiar-stranger.json) |
 | Family | 171603 | [171603-family.json](./171603-family.json) |
