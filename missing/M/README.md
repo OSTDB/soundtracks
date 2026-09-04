@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Leaf Blower | 317024 | [317024-master-leaf-blower.json](./317024-master-leaf-blower.json) |
 | Master Levels For Doom II | 218171 | [218171-master-levels-for-doom-ii.json](./218171-master-levels-for-doom-ii.json) |
 | Master Minesweeper | 90698 | [90698-master-minesweeper.json](./90698-master-minesweeper.json) |
+| Master Ninja | 15539 | [15539-master-ninja.json](./15539-master-ninja.json) |
 | Master of Mutations | 109716 | [109716-master-of-mutations.json](./109716-master-of-mutations.json) |
 | Master of the Wind | 123642 | [123642-master-of-the-wind.json](./123642-master-of-the-wind.json) |
 | Master Sleuth Bundle | 209692 | [209692-master-sleuth-bundle.json](./209692-master-sleuth-bundle.json) |
