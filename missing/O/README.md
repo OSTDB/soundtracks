@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega no Shikai: Aki Kaketa Shiki no Ai: Zan | 260968 | [260968-omega-no-shikai-aki-kaketa-shiki-no-ai-zan.json](./260968-omega-no-shikai-aki-kaketa-shiki-no-ai-zan.json) |
 | Omega no Shikai: Miyo Owareru Shimai Towa(●nd) | 260969 | [260969-omega-no-shikai-miyo-owareru-shimai-towa-nd.json](./260969-omega-no-shikai-miyo-owareru-shimai-towa-nd.json) |
 | Omega No Sunshine 2 | 306708 | [306708-omega-no-sunshine-2.json](./306708-omega-no-sunshine-2.json) |
+| Omega One | 29866 | [29866-omega-one.json](./29866-omega-one.json) |
 | Omega Quintet: Limited Edition | 166239 | [166239-omega-quintet-limited-edition.json](./166239-omega-quintet-limited-edition.json) |
 | Omega Strikers: Season 2 - Summer Splash | 260971 | [260971-omega-strikers-season-2-summer-splash.json](./260971-omega-strikers-season-2-summer-splash.json) |
 | OmegaBot | 154001 | [154001-omegabot.json](./154001-omegabot.json) |
