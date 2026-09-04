@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV Online | 386 | [386-final-fantasy-xiv-online.json](./386-final-fantasy-xiv-online.json) |
 | Final Fantasy XIV: Endwalker | 143232 | [143232-final-fantasy-xiv-endwalker.json](./143232-final-fantasy-xiv-endwalker.json) |
 | Final Fantasy XIV: Endwalker - Collector's Edition | 152343 | [152343-final-fantasy-xiv-endwalker-collectors-edition.json](./152343-final-fantasy-xiv-endwalker-collectors-edition.json) |
+| Final Fantasy XV: Episode Prompto | 37193 | [37193-final-fantasy-xv-episode-prompto.json](./37193-final-fantasy-xv-episode-prompto.json) |
 | Final Fantasy XV: Special Edition | 205260 | [205260-final-fantasy-xv-special-edition.json](./205260-final-fantasy-xv-special-edition.json) |
 | Final Fantasy XVI: Deluxe Edition | 228738 | [228738-final-fantasy-xvi-deluxe-edition.json](./228738-final-fantasy-xvi-deluxe-edition.json) |
 | Final Goal | 253002 | [253002-final-goal.json](./253002-final-goal.json) |
@@ -1023,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fritz: Your Chess Coach | 262648 | [262648-fritz-your-chess-coach.json](./262648-fritz-your-chess-coach.json) |
 | Frog Fall Down | 192430 | [192430-frog-fall-down.json](./192430-frog-fall-down.json) |
 | Frog Feast | 270407 | [270407-frog-feast.json](./270407-frog-feast.json) |
+| Frog Fractions | 18723 | [18723-frog-fractions.json](./18723-frog-fractions.json) |
 | Frog on Ice | 100884 | [100884-frog-on-ice.json](./100884-frog-on-ice.json) |
 | Frog Space | 133468 | [133468-frog-space.json](./133468-frog-space.json) |
 | Frog Street A-Z | 100818 | [100818-frog-street-a-z.json](./100818-frog-street-a-z.json) |
