@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homesickened | 244991 | [244991-homesickened.json](./244991-homesickened.json) |
 | Homeward | 188126 | [188126-homeward.json](./188126-homeward.json) |
 | Homework Salesman | 181926 | [181926-homework-salesman.json](./181926-homework-salesman.json) |
+| Homicipher | 247905 | [247905-homicipher.json](./247905-homicipher.json) |
 | Homing Missiles! | 25786 | [25786-homing-missiles.json](./25786-homing-missiles.json) |
 | Homura | 43330 | [43330-homura.json](./43330-homura.json) |
 | Honekawa Marionette | 333370 | [333370-honekawa-marionette.json](./333370-honekawa-marionette.json) |
