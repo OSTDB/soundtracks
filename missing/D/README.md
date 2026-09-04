@@ -1125,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doofus | 39025 | [39025-doofus.json](./39025-doofus.json) |
 | Dookie Nukem 3D | 218115 | [218115-dookie-nukem-3d.json](./218115-dookie-nukem-3d.json) |
 | Doom | 170995 | [170995-doom.json](./170995-doom.json) |
+| Doom | 259944 | [259944-doom.json](./259944-doom.json) |
 | Doom 2 In City Only | 299447 | [299447-doom-2-in-city-only.json](./299447-doom-2-in-city-only.json) |
 | Doom Eternal: The Ancient Gods - Part Two | 144731 | [144731-doom-eternal-the-ancient-gods-part-two.json](./144731-doom-eternal-the-ancient-gods-part-two.json) |
 | Doom Eternal: Year One Pass | 293919 | [293919-doom-eternal-year-one-pass.json](./293919-doom-eternal-year-one-pass.json) |
@@ -1387,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Kombat | 229382 | [229382-dream-kombat.json](./229382-dream-kombat.json) |
 | Dream Labyrinth | 181934 | [181934-dream-labyrinth.json](./181934-dream-labyrinth.json) |
 | Dream Land | 305528 | [305528-dream-land.json](./305528-dream-land.json) |
+| Dream League Soccer | 249369 | [249369-dream-league-soccer.json](./249369-dream-league-soccer.json) |
 | Dream Management Company | 339127 | [339127-dream-management-company.json](./339127-dream-management-company.json) |
 | Dream of Light | 215903 | [215903-dream-of-light.json](./215903-dream-of-light.json) |
 | Dream Seed | 257069 | [257069-dream-seed.json](./257069-dream-seed.json) |
@@ -1536,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune Rider | 13710 | [13710-dune-rider.json](./13710-dune-rider.json) |
 | Dune Sea | 120414 | [120414-dune-sea.json](./120414-dune-sea.json) |
 | Dune Strider | 203547 | [203547-dune-strider.json](./203547-dune-strider.json) |
+| Dune: Imperium | 263201 | [263201-dune-imperium.json](./263201-dune-imperium.json) |
 | Dungen | 169436 | [169436-dungen.json](./169436-dungen.json) |
 | Dungeon | 86095 | [86095-dungeon.json](./86095-dungeon.json) |
 | Dungeon 3D: Eastern | 277583 | [277583-dungeon-3d-eastern.json](./277583-dungeon-3d-eastern.json) |
@@ -1571,16 +1574,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Rollers | 184623 | [184623-dungeon-rollers.json](./184623-dungeon-rollers.json) |
 | Dungeon Rummage: Tiqee's Escape | 195248 | [195248-dungeon-rummage-tiqees-escape.json](./195248-dungeon-rummage-tiqees-escape.json) |
 | Dungeon Slayer | 194008 | [194008-dungeon-slayer.json](./194008-dungeon-slayer.json) |
+| Dungeon Stalkers | 255912 | [255912-dungeon-stalkers.json](./255912-dungeon-stalkers.json) |
 | Dungeon Survivor II | 126007 | [126007-dungeon-survivor-ii.json](./126007-dungeon-survivor-ii.json) |
 | Dungeon Tales: RPG Card Game | 121732 | [121732-dungeon-tales-rpg-card-game.json](./121732-dungeon-tales-rpg-card-game.json) |
 | Dungeon Tiles | 58235 | [58235-dungeon-tiles.json](./58235-dungeon-tiles.json) |
 | Dungeon Town | 111719 | [111719-dungeon-town.json](./111719-dungeon-town.json) |
 | Dungeon Train | 333404 | [333404-dungeon-train.json](./333404-dungeon-train.json) |
+| Dungeon Tycoon | 250859 | [250859-dungeon-tycoon.json](./250859-dungeon-tycoon.json) |
 | Dungeon Universe | 185665 | [185665-dungeon-universe.json](./185665-dungeon-universe.json) |
 | Dungeon Walk: Ryuumeikyuu no Kanrisha | 236525 | [236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json](./236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json) |
 | Dungeon World | 304886 | [304886-dungeon-world.json](./304886-dungeon-world.json) |
 | Dungeon X Pixel Hero VIP | 107164 | [107164-dungeon-x-pixel-hero-vip.json](./107164-dungeon-x-pixel-hero-vip.json) |
 | Dungeon, Inc. | 247176 | [247176-dungeon-inc.json](./247176-dungeon-inc.json) |
+| Dungeonborne | 253880 | [253880-dungeonborne.json](./253880-dungeonborne.json) |
 | Dungeonlike | 183574 | [183574-dungeonlike.json](./183574-dungeonlike.json) |
 | Dungeons & Dragons Online: Forsaken Lands | 209174 | [209174-dungeons-and-dragons-online-forsaken-lands.json](./209174-dungeons-and-dragons-online-forsaken-lands.json) |
 | Dungeons & Dragons: Dark Alliance | 127348 | [127348-dungeons-and-dragons-dark-alliance.json](./127348-dungeons-and-dragons-dark-alliance.json) |
