@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Option Monster | 266488 | [266488-option-monster.json](./266488-option-monster.json) |
 | Optional Boss | 135887 | [135887-optional-boss.json](./135887-optional-boss.json) |
 | OptoLexem | 103528 | [103528-optolexem.json](./103528-optolexem.json) |
+| Opus Magnum | 74545 | [74545-opus-magnum.json](./74545-opus-magnum.json) |
 | Opus: Collector's Edition | 186904 | [186904-opus-collectors-edition.json](./186904-opus-collectors-edition.json) |
 | Oracle of Meles | 304382 | [304382-oracle-of-meles.json](./304382-oracle-of-meles.json) |
 | Oracle: Threads of Fate | 89260 | [89260-oracle-threads-of-fate.json](./89260-oracle-threads-of-fate.json) |
