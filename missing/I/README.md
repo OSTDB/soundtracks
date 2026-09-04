@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inversion | 7020 | [7020-inversion.json](./7020-inversion.json) |
 | Invert: Tile Flipping Puzzles | 82953 | [82953-invert-tile-flipping-puzzles.json](./82953-invert-tile-flipping-puzzles.json) |
 | Investation | 92527 | [92527-investation.json](./92527-investation.json) |
+| Investigator | 32526 | [32526-investigator.json](./32526-investigator.json) |
 | Invincible Fins | 157162 | [157162-invincible-fins.json](./157162-invincible-fins.json) |
 | Invincible: Guarding the Globe | 257102 | [257102-invincible-guarding-the-globe.json](./257102-invincible-guarding-the-globe.json) |
 | Invisible | 178671 | [178671-invisible.json](./178671-invisible.json) |
