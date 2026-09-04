@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T04:18:05.374Z",
-  "total_missing": 26355,
+  "generated_at": "2026-09-04T04:33:05.226Z",
+  "total_missing": 26405,
   "games": [
     {
       "igdb_id": 306086,
@@ -19378,6 +19378,21 @@
       "file": "missing/C/274771-cataclysm-upon-us.json"
     },
     {
+      "igdb_id": 11042,
+      "game_name": "Catacomb",
+      "file": "missing/C/11042-catacomb.json"
+    },
+    {
+      "igdb_id": 11044,
+      "game_name": "Catacomb Abyss 3D",
+      "file": "missing/C/11044-catacomb-abyss-3d.json"
+    },
+    {
+      "igdb_id": 11043,
+      "game_name": "Catacomb II",
+      "file": "missing/C/11043-catacomb-ii.json"
+    },
+    {
       "igdb_id": 224207,
       "game_name": "Catacomb Kitties",
       "file": "missing/C/224207-catacomb-kitties.json"
@@ -21568,6 +21583,11 @@
       "file": "missing/C/159876-clanrivals-vikings.json"
     },
     {
+      "igdb_id": 11047,
+      "game_name": "Clarc",
+      "file": "missing/C/11047-clarc.json"
+    },
+    {
       "igdb_id": 135271,
       "game_name": "Clarent Saga: Tactics",
       "file": "missing/C/135271-clarent-saga-tactics.json"
@@ -23636,6 +23656,11 @@
       "igdb_id": 271476,
       "game_name": "Corruption: Political Simulator Strategy",
       "file": "missing/C/271476-corruption-political-simulator-strategy.json"
+    },
+    {
+      "igdb_id": 11048,
+      "game_name": "Corsairs: The New Conquerors",
+      "file": "missing/C/11048-corsairs-the-new-conquerors.json"
     },
     {
       "igdb_id": 269852,
@@ -25948,6 +25973,11 @@
       "file": "missing/C/228696-cybersphere.json"
     },
     {
+      "igdb_id": 11028,
+      "game_name": "CyberStorm 2: Corporate Wars",
+      "file": "missing/C/11028-cyberstorm-2-corporate-wars.json"
+    },
+    {
       "igdb_id": 140602,
       "game_name": "CyberTaxi",
       "file": "missing/C/140602-cybertaxi.json"
@@ -27121,6 +27151,11 @@
       "igdb_id": 163439,
       "game_name": "Dawn of Dynasty",
       "file": "missing/D/163439-dawn-of-dynasty.json"
+    },
+    {
+      "igdb_id": 11025,
+      "game_name": "Dawn of Magic 2",
+      "file": "missing/D/11025-dawn-of-magic-2.json"
     },
     {
       "igdb_id": 237082,
@@ -37901,6 +37936,11 @@
       "igdb_id": 121003,
       "game_name": "Fateline",
       "file": "missing/F/121003-fateline.json"
+    },
+    {
+      "igdb_id": 10966,
+      "game_name": "Fathom",
+      "file": "missing/F/10966-fathom.json"
     },
     {
       "igdb_id": 244496,
@@ -61683,6 +61723,11 @@
       "file": "missing/L/118407-life-of-a-capitalist.json"
     },
     {
+      "igdb_id": 10959,
+      "game_name": "Life Simulator",
+      "file": "missing/L/10959-life-simulator.json"
+    },
+    {
       "igdb_id": 117093,
       "game_name": "Life source",
       "file": "missing/L/117093-life-source.json"
@@ -72033,6 +72078,11 @@
       "file": "missing/M/313488-my-first-date-rpg-oriana-story-two.json"
     },
     {
+      "igdb_id": 11019,
+      "game_name": "My First Trainz Set",
+      "file": "missing/M/11019-my-first-trainz-set.json"
+    },
+    {
       "igdb_id": 212492,
       "game_name": "My Fish Farm",
       "file": "missing/M/212492-my-fish-farm.json"
@@ -72641,6 +72691,11 @@
       "igdb_id": 67326,
       "game_name": "Mystic Ark: Maboroshi Gekijo",
       "file": "missing/M/67326-mystic-ark-maboroshi-gekijo.json"
+    },
+    {
+      "igdb_id": 10945,
+      "game_name": "Mystic Chronicles",
+      "file": "missing/M/10945-mystic-chronicles.json"
     },
     {
       "igdb_id": 226424,
@@ -77971,6 +78026,11 @@
       "igdb_id": 37125,
       "game_name": "Onside Soccer",
       "file": "missing/O/37125-onside-soccer.json"
+    },
+    {
+      "igdb_id": 10961,
+      "game_name": "Ooga Booga",
+      "file": "missing/O/10961-ooga-booga.json"
     },
     {
       "igdb_id": 47274,
@@ -84378,6 +84438,11 @@
       "file": "missing/P/42043-power-eleven.json"
     },
     {
+      "igdb_id": 11054,
+      "game_name": "Power Hour",
+      "file": "missing/P/11054-power-hour.json"
+    },
+    {
       "igdb_id": 292816,
       "game_name": "Power On: Energy Flow",
       "file": "missing/P/292816-power-on-energy-flow.json"
@@ -84941,6 +85006,11 @@
       "igdb_id": 77365,
       "game_name": "Private Detective Punch Drunk: PDPD",
       "file": "missing/P/77365-private-detective-punch-drunk-pdpd.json"
+    },
+    {
+      "igdb_id": 10999,
+      "game_name": "Private Eye",
+      "file": "missing/P/10999-private-eye.json"
     },
     {
       "igdb_id": 331099,
@@ -101183,6 +101253,11 @@
       "file": "missing/S/137082-soushuu-senshinkan-gakuen-bansenjin.json"
     },
     {
+      "igdb_id": 11003,
+      "game_name": "South Park: The Fractured but Whole - Collector's Edition",
+      "file": "missing/S/11003-south-park-the-fractured-but-whole-collectors-edition.json"
+    },
+    {
       "igdb_id": 298875,
       "game_name": "South Pole Bebop",
       "file": "missing/S/298875-south-pole-bebop.json"
@@ -107918,6 +107993,16 @@
       "file": "missing/S/148543-sword-of-the-necromancer-ultra-collectors-edition.json"
     },
     {
+      "igdb_id": 10936,
+      "game_name": "Sword of the Stars: Argos Naval Yard",
+      "file": "missing/S/10936-sword-of-the-stars-argos-naval-yard.json"
+    },
+    {
+      "igdb_id": 10950,
+      "game_name": "Sword of the Stars: The Pit - Mind Games",
+      "file": "missing/S/10950-sword-of-the-stars-the-pit-mind-games.json"
+    },
+    {
       "igdb_id": 178077,
       "game_name": "Sword of the Stars: The Pit 2",
       "file": "missing/S/178077-sword-of-the-stars-the-pit-2.json"
@@ -108431,6 +108516,11 @@
       "igdb_id": 177012,
       "game_name": "Tackle Tourney Turbo",
       "file": "missing/T/177012-tackle-tourney-turbo.json"
+    },
+    {
+      "igdb_id": 11008,
+      "game_name": "Taco Bell: Tasty Temple Challenge",
+      "file": "missing/T/11008-taco-bell-tasty-temple-challenge.json"
     },
     {
       "igdb_id": 187510,
@@ -110241,6 +110331,11 @@
       "igdb_id": 330547,
       "game_name": "Terror Mod Ultraultimatum HD",
       "file": "missing/T/330547-terror-mod-ultraultimatum-hd.json"
+    },
+    {
+      "igdb_id": 11046,
+      "game_name": "Terror of the Catacombs",
+      "file": "missing/T/11046-terror-of-the-catacombs.json"
     },
     {
       "igdb_id": 37178,
@@ -113068,6 +113163,21 @@
       "file": "missing/T/66712-the-impossible-test.json"
     },
     {
+      "igdb_id": 10969,
+      "game_name": "The Incredible Adventures of Van Helsing II: Ink Hunt",
+      "file": "missing/T/10969-the-incredible-adventures-of-van-helsing-ii-ink-hunt.json"
+    },
+    {
+      "igdb_id": 10970,
+      "game_name": "The Incredible Adventures of Van Helsing II: Pigasus",
+      "file": "missing/T/10970-the-incredible-adventures-of-van-helsing-ii-pigasus.json"
+    },
+    {
+      "igdb_id": 10968,
+      "game_name": "The Incredible Adventures of Van Helsing: Blue Blood",
+      "file": "missing/T/10968-the-incredible-adventures-of-van-helsing-blue-blood.json"
+    },
+    {
       "igdb_id": 18261,
       "game_name": "The Incredibles: When Danger Calls",
       "file": "missing/T/18261-the-incredibles-when-danger-calls.json"
@@ -113078,9 +113188,19 @@
       "file": "missing/T/25004-the-inlaws.json"
     },
     {
+      "igdb_id": 10971,
+      "game_name": "The Inner World: The Puzzle",
+      "file": "missing/T/10971-the-inner-world-the-puzzle.json"
+    },
+    {
       "igdb_id": 129197,
       "game_name": "The Innsmouth Case",
       "file": "missing/T/129197-the-innsmouth-case.json"
+    },
+    {
+      "igdb_id": 10972,
+      "game_name": "The Inquisitor: Book 2 - The Village",
+      "file": "missing/T/10972-the-inquisitor-book-2-the-village.json"
     },
     {
       "igdb_id": 202384,
@@ -113271,6 +113391,21 @@
       "igdb_id": 294421,
       "game_name": "The King's League: Emblems",
       "file": "missing/T/294421-the-kings-league-emblems.json"
+    },
+    {
+      "igdb_id": 10975,
+      "game_name": "The Kings Crusade: Arabian Nights",
+      "file": "missing/T/10975-the-kings-crusade-arabian-nights.json"
+    },
+    {
+      "igdb_id": 10976,
+      "game_name": "The Kings Crusade: New Allies",
+      "file": "missing/T/10976-the-kings-crusade-new-allies.json"
+    },
+    {
+      "igdb_id": 10977,
+      "game_name": "The Kings Crusade: Teutonic Knights",
+      "file": "missing/T/10977-the-kings-crusade-teutonic-knights.json"
     },
     {
       "igdb_id": 49398,
@@ -113863,6 +113998,16 @@
       "file": "missing/T/171588-the-lost-artifacts.json"
     },
     {
+      "igdb_id": 10978,
+      "game_name": "The Lost Cases of Sherlock Holmes",
+      "file": "missing/T/10978-the-lost-cases-of-sherlock-holmes.json"
+    },
+    {
+      "igdb_id": 10979,
+      "game_name": "The Lost Cases of Sherlock Holmes 2",
+      "file": "missing/T/10979-the-lost-cases-of-sherlock-holmes-2.json"
+    },
+    {
       "igdb_id": 179169,
       "game_name": "The Lost Caves",
       "file": "missing/T/179169-the-lost-caves.json"
@@ -114041,6 +114186,11 @@
       "igdb_id": 336387,
       "game_name": "The Marbians",
       "file": "missing/T/336387-the-marbians.json"
+    },
+    {
+      "igdb_id": 10956,
+      "game_name": "The Mark",
+      "file": "missing/T/10956-the-mark.json"
     },
     {
       "igdb_id": 170545,
@@ -115128,6 +115278,11 @@
       "file": "missing/T/171610-the-seven-years-war-1756-1763-pomeranian-war.json"
     },
     {
+      "igdb_id": 10939,
+      "game_name": "The Shadow in the Cathedral",
+      "file": "missing/T/10939-the-shadow-in-the-cathedral.json"
+    },
+    {
       "igdb_id": 108496,
       "game_name": "The Shadow Sun",
       "file": "missing/T/108496-the-shadow-sun.json"
@@ -115658,6 +115813,16 @@
       "file": "missing/T/137693-the-swine.json"
     },
     {
+      "igdb_id": 10946,
+      "game_name": "The Sword of Hope",
+      "file": "missing/T/10946-the-sword-of-hope.json"
+    },
+    {
+      "igdb_id": 10947,
+      "game_name": "The Sword of Hope II",
+      "file": "missing/T/10947-the-sword-of-hope-ii.json"
+    },
+    {
       "igdb_id": 152375,
       "game_name": "The Swordsmen X: Survival",
       "file": "missing/T/152375-the-swordsmen-x-survival.json"
@@ -116016,6 +116181,11 @@
       "igdb_id": 48706,
       "game_name": "The Trolls in Crazyland",
       "file": "missing/T/48706-the-trolls-in-crazyland.json"
+    },
+    {
+      "igdb_id": 10986,
+      "game_name": "The Tudors",
+      "file": "missing/T/10986-the-tudors.json"
     },
     {
       "igdb_id": 318786,
@@ -116503,6 +116673,16 @@
       "file": "missing/T/112992-the-thend-end.json"
     },
     {
+      "igdb_id": 10954,
+      "game_name": "Theatre of War 2: Africa 1943 - Centauro",
+      "file": "missing/T/10954-theatre-of-war-2-africa-1943-centauro.json"
+    },
+    {
+      "igdb_id": 10955,
+      "game_name": "Theatre of War 2: Battle for Caen",
+      "file": "missing/T/10955-theatre-of-war-2-battle-for-caen.json"
+    },
+    {
       "igdb_id": 196894,
       "game_name": "TheBestiary",
       "file": "missing/T/196894-thebestiary.json"
@@ -116531,6 +116711,11 @@
       "igdb_id": 216995,
       "game_name": "Them or Us",
       "file": "missing/T/216995-them-or-us.json"
+    },
+    {
+      "igdb_id": 10957,
+      "game_name": "Them: The Summoning",
+      "file": "missing/T/10957-them-the-summoning.json"
     },
     {
       "igdb_id": 116335,
@@ -118138,6 +118323,11 @@
       "file": "missing/T/91458-time-secret-2-time-tunnel.json"
     },
     {
+      "igdb_id": 10992,
+      "game_name": "Time Stand Still",
+      "file": "missing/T/10992-time-stand-still.json"
+    },
+    {
       "igdb_id": 143711,
       "game_name": "Time to Golf",
       "file": "missing/T/143711-time-to-golf.json"
@@ -118883,6 +119073,11 @@
       "file": "missing/T/90689-tom-clancys-splinter-cell.json"
     },
     {
+      "igdb_id": 11010,
+      "game_name": "Tom Clancy's Splinter Cell: Conviction - Insurgency Pack",
+      "file": "missing/T/11010-tom-clancys-splinter-cell-conviction-insurgency-pack.json"
+    },
+    {
       "igdb_id": 27866,
       "game_name": "Tom Clancy's Splinter Cell: Elite Echelon Edition",
       "file": "missing/T/27866-tom-clancys-splinter-cell-elite-echelon-edition.json"
@@ -119151,6 +119346,11 @@
       "igdb_id": 269839,
       "game_name": "Too Many Kittens",
       "file": "missing/T/269839-too-many-kittens.json"
+    },
+    {
+      "igdb_id": 11011,
+      "game_name": "Too Many Me",
+      "file": "missing/T/11011-too-many-me.json"
     },
     {
       "igdb_id": 329365,
@@ -120018,6 +120218,11 @@
       "file": "missing/T/184645-toybox.json"
     },
     {
+      "igdb_id": 10941,
+      "game_name": "Toymaker",
+      "file": "missing/T/10941-toymaker.json"
+    },
+    {
       "igdb_id": 221396,
       "game_name": "Toys: Crash Arena",
       "file": "missing/T/221396-toys-crash-arena.json"
@@ -120568,6 +120773,11 @@
       "file": "missing/T/306104-trainz-plus-protrain-ac4400cw-loco-bundle-1.json"
     },
     {
+      "igdb_id": 11015,
+      "game_name": "Trainz Railroad Simulator 2007",
+      "file": "missing/T/11015-trainz-railroad-simulator-2007.json"
+    },
+    {
       "igdb_id": 190717,
       "game_name": "Trainz Railroad Simulator 2019: Centrella Sub Division",
       "file": "missing/T/190717-trainz-railroad-simulator-2019-centrella-sub-division.json"
@@ -120631,6 +120841,21 @@
       "igdb_id": 27898,
       "game_name": "Trainz Simulator 2009: Settle and Carlisle",
       "file": "missing/T/27898-trainz-simulator-2009-settle-and-carlisle.json"
+    },
+    {
+      "igdb_id": 11016,
+      "game_name": "Trainz Simulator 2009: World Builder Edition",
+      "file": "missing/T/11016-trainz-simulator-2009-world-builder-edition.json"
+    },
+    {
+      "igdb_id": 11017,
+      "game_name": "Trainz Simulator 2010: Engineers Edition",
+      "file": "missing/T/11017-trainz-simulator-2010-engineers-edition.json"
+    },
+    {
+      "igdb_id": 11021,
+      "game_name": "Trainz Simulator: Classic Cabon City",
+      "file": "missing/T/11021-trainz-simulator-classic-cabon-city.json"
     },
     {
       "igdb_id": 156169,
@@ -124793,6 +125018,16 @@
       "file": "missing/V/53873-versailles-ii.json"
     },
     {
+      "igdb_id": 11033,
+      "game_name": "Versailles Mysteries 2: The Royal Spy",
+      "file": "missing/V/11033-versailles-mysteries-2-the-royal-spy.json"
+    },
+    {
+      "igdb_id": 11034,
+      "game_name": "Versailles Mysteries: Oscar and the Athanor",
+      "file": "missing/V/11034-versailles-mysteries-oscar-and-the-athanor.json"
+    },
+    {
       "igdb_id": 312910,
       "game_name": "Verse Hopper",
       "file": "missing/V/312910-verse-hopper.json"
@@ -124921,6 +125156,16 @@
       "igdb_id": 247786,
       "game_name": "Victoria 3: Voice of the People",
       "file": "missing/V/247786-victoria-3-voice-of-the-people.json"
+    },
+    {
+      "igdb_id": 11038,
+      "game_name": "Victoria II: A House Divided",
+      "file": "missing/V/11038-victoria-ii-a-house-divided.json"
+    },
+    {
+      "igdb_id": 11039,
+      "game_name": "Victoria II: Heart of Darkness",
+      "file": "missing/V/11039-victoria-ii-heart-of-darkness.json"
     },
     {
       "igdb_id": 72116,
@@ -126336,6 +126581,11 @@
       "igdb_id": 53884,
       "game_name": "War of the Human Tanks - Complete Collection",
       "file": "missing/W/53884-war-of-the-human-tanks-complete-collection.json"
+    },
+    {
+      "igdb_id": 11040,
+      "game_name": "War of the Roses: Kingmaker",
+      "file": "missing/W/11040-war-of-the-roses-kingmaker.json"
     },
     {
       "igdb_id": 117056,
