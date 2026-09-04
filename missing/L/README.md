@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life's Too Short: On Reflection | 329912 | [329912-lifes-too-short-on-reflection.json](./329912-lifes-too-short-on-reflection.json) |
 | LifeAfter | 115660 | [115660-lifeafter.json](./115660-lifeafter.json) |
 | Lifeless Planet: Premier Edition | 20950 | [20950-lifeless-planet-premier-edition.json](./20950-lifeless-planet-premier-edition.json) |
+| Lifeline | 19282 | [19282-lifeline.json](./19282-lifeline.json) |
 | Lifting Unlimited | 302109 | [302109-lifting-unlimited.json](./302109-lifting-unlimited.json) |
 | Light & Shadow | 226425 | [226425-light-and-shadow.json](./226425-light-and-shadow.json) |
 | Light Arrow is Missing | 262674 | [262674-light-arrow-is-missing.json](./262674-light-arrow-is-missing.json) |
