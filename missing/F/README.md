@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Gem VR | 30863 | [30863-fatal-gem-vr.json](./30863-fatal-gem-vr.json) |
 | Fatal Heritage | 75150 | [75150-fatal-heritage.json](./75150-fatal-heritage.json) |
 | Fatal Seduction | 63871 | [63871-fatal-seduction.json](./63871-fatal-seduction.json) |
+| Fatal Twelve | 28801 | [28801-fatal-twelve.json](./28801-fatal-twelve.json) |
 | Fatal Velocity: Physics Combat | 74439 | [74439-fatal-velocity-physics-combat.json](./74439-fatal-velocity-physics-combat.json) |
 | Fate Commander: Fighting | 273095 | [273095-fate-commander-fighting.json](./273095-fate-commander-fighting.json) |
 | Fate of the Elder Gods | 125454 | [125454-fate-of-the-elder-gods.json](./125454-fate-of-the-elder-gods.json) |
@@ -1151,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Contact Teams Racing | 241053 | [241053-full-contact-teams-racing.json](./241053-full-contact-teams-racing.json) |
 | Full Gear | 229922 | [229922-full-gear.json](./229922-full-gear.json) |
 | Full House Kiss | 97370 | [97370-full-house-kiss.json](./97370-full-house-kiss.json) |
+| Full Pipe | 28982 | [28982-full-pipe.json](./28982-full-pipe.json) |
 | Full Pitch | 115685 | [115685-full-pitch.json](./115685-full-pitch.json) |
 | Full Strength Strongman Competition | 62202 | [62202-full-strength-strongman-competition.json](./62202-full-strength-strongman-competition.json) |
 | Full Swing Golf | 299472 | [299472-full-swing-golf.json](./299472-full-swing-golf.json) |
