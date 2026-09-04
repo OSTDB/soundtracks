@@ -1916,6 +1916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's No Santa | 315296 | [315296-theres-no-santa.json](./315296-theres-no-santa.json) |
 | There's Poop In My Soup | 33315 | [33315-theres-poop-in-my-soup.json](./33315-theres-poop-in-my-soup.json) |
 | Therian Saga | 30951 | [30951-therian-saga.json](./30951-therian-saga.json) |
+| These Robotic Hearts of Mine | 22920 | [22920-these-robotic-hearts-of-mine.json](./22920-these-robotic-hearts-of-mine.json) |
 | Theurgy Architect | 333365 | [333365-theurgy-architect.json](./333365-theurgy-architect.json) |
 | TheWaveVR | 25014 | [25014-thewavevr.json](./25014-thewavevr.json) |
 | They | 80613 | [80613-they.json](./80613-they.json) |
@@ -2433,6 +2434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Anniversary - Collectors Edition | 202972 | [202972-tomb-raider-anniversary-collectors-edition.json](./202972-tomb-raider-anniversary-collectors-edition.json) |
 | Tomb Raider: Game of the Year Edition | 53818 | [53818-tomb-raider-game-of-the-year-edition.json](./53818-tomb-raider-game-of-the-year-edition.json) |
 | Tomb Raider: The Angel of Darkness 1.5 | 156178 | [156178-tomb-raider-the-angel-of-darkness-1-5.json](./156178-tomb-raider-the-angel-of-darkness-1-5.json) |
+| Tomb Raider: Underworld - Lara's Shadow | 23021 | [23021-tomb-raider-underworld-laras-shadow.json](./23021-tomb-raider-underworld-laras-shadow.json) |
 | Tomb Robber | 90655 | [90655-tomb-robber.json](./90655-tomb-robber.json) |
 | Tomb Rumble: Cursed Sorcerer | 170559 | [170559-tomb-rumble-cursed-sorcerer.json](./170559-tomb-rumble-cursed-sorcerer.json) |
 | Tomb Rumble: Cursed Vampire | 170558 | [170558-tomb-rumble-cursed-vampire.json](./170558-tomb-rumble-cursed-vampire.json) |
@@ -2480,6 +2482,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Down Battlegrounds | 292850 | [292850-top-down-battlegrounds.json](./292850-top-down-battlegrounds.json) |
 | Top Down Racer | 107883 | [107883-top-down-racer.json](./107883-top-down-racer.json) |
 | Top Gear | 27461 | [27461-top-gear.json](./27461-top-gear.json) |
+| Top Gun: Hard Lock | 22915 | [22915-top-gun-hard-lock.json](./22915-top-gun-hard-lock.json) |
+| Top Gun: Hornet's Nest | 22912 | [22912-top-gun-hornets-nest.json](./22912-top-gun-hornets-nest.json) |
 | Top Management II | 37785 | [37785-top-management-ii.json](./37785-top-management-ii.json) |
 | Top Street Soccer | 102209 | [102209-top-street-soccer.json](./102209-top-street-soccer.json) |
 | Top Troops! | 228123 | [228123-top-troops.json](./228123-top-troops.json) |
@@ -2505,6 +2509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torn Sails | 27909 | [27909-torn-sails.json](./27909-torn-sails.json) |
 | Tornado | 266469 | [266469-tornado.json](./266469-tornado.json) |
 | Tornado Baseball / Tennis / Handball / Hockey | 93564 | [93564-tornado-baseball-tennis-handball-hockey.json](./93564-tornado-baseball-tennis-handball-hockey.json) |
+| Tornado: Low Level | 23052 | [23052-tornado-low-level.json](./23052-tornado-low-level.json) |
 | Toro to Typing | 246071 | [246071-toro-to-typing.json](./246071-toro-to-typing.json) |
 | Toro's Story App: Heart Pounding Nya | 246074 | [246074-toros-story-app-heart-pounding-nya.json](./246074-toros-story-app-heart-pounding-nya.json) |
 | Torqued Up Legends | 141879 | [141879-torqued-up-legends.json](./141879-torqued-up-legends.json) |
@@ -2842,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash is Fun | 153997 | [153997-trash-is-fun.json](./153997-trash-is-fun.json) |
 | Trash Panda: The Adventures of Ricky and Boxman | 226433 | [226433-trash-panda-the-adventures-of-ricky-and-boxman.json](./226433-trash-panda-the-adventures-of-ricky-and-boxman.json) |
 | Trash Sailors | 122426 | [122426-trash-sailors.json](./122426-trash-sailors.json) |
+| Trashman | 23054 | [23054-trashman.json](./23054-trashman.json) |
 | Traulian: O Ultimo General | 293900 | [293900-traulian-o-ultimo-general.json](./293900-traulian-o-ultimo-general.json) |
 | Trauma | 301607 | [301607-trauma.json](./301607-trauma.json) |
 | TraumaCore Violence | 236518 | [236518-traumacore-violence.json](./236518-traumacore-violence.json) |
