@@ -402,6 +402,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Massacre Tower | 161359 | [161359-massacre-tower.json](./161359-massacre-tower.json) |
 | Massira | 116369 | [116369-massira.json](./116369-massira.json) |
 | Massive Air Combat: Puzzles | 163423 | [163423-massive-air-combat-puzzles.json](./163423-massive-air-combat-puzzles.json) |
+| Massive Assault | 9378 | [9378-massive-assault.json](./9378-massive-assault.json) |
+| Massive Assault Network | 9379 | [9379-massive-assault-network.json](./9379-massive-assault-network.json) |
+| Massive Assault Network 2 | 9381 | [9381-massive-assault-network-2.json](./9381-massive-assault-network-2.json) |
 | Master Break | 177553 | [177553-master-break.json](./177553-master-break.json) |
 | Master Chess Ultimate | 193459 | [193459-master-chess-ultimate.json](./193459-master-chess-ultimate.json) |
 | Master Cube | 120377 | [120377-master-cube.json](./120377-master-cube.json) |
