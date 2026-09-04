@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Wind | 209638 | [209638-green-wind.json](./209638-green-wind.json) |
 | Green Zone | 254768 | [254768-green-zone.json](./254768-green-zone.json) |
 | GreenChess | 87293 | [87293-greenchess.json](./87293-greenchess.json) |
+| Greendog: The Beached Surfer Dude! | 45792 | [45792-greendog-the-beached-surfer-dude.json](./45792-greendog-the-beached-surfer-dude.json) |
 | Greener Grass Awaits | 266490 | [266490-greener-grass-awaits.json](./266490-greener-grass-awaits.json) |
 | Greenfeet Haven | 291781 | [291781-greenfeet-haven.json](./291781-greenfeet-haven.json) |
 | GreenFlame | 76656 | [76656-greenflame.json](./76656-greenflame.json) |
