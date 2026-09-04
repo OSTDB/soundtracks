@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WitchSpring | 87260 | [87260-witchspring.json](./87260-witchspring.json) |
 | WitchSpring2 | 102813 | [102813-witchspring2.json](./102813-witchspring2.json) |
 | With All My Heart | 253038 | [253038-with-all-my-heart.json](./253038-with-all-my-heart.json) |
+| With Loneliness | 116932 | [116932-with-loneliness.json](./116932-with-loneliness.json) |
 | With Seven Cats | 184118 | [184118-with-seven-cats.json](./184118-with-seven-cats.json) |
 | With You | 188710 | [188710-with-you.json](./188710-with-you.json) |
 | Withering Flowers | 260421 | [260421-withering-flowers.json](./260421-withering-flowers.json) |
