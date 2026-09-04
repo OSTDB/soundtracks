@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Gaia | 63867 | [63867-heroes-of-gaia.json](./63867-heroes-of-gaia.json) |
 | Heroes of Magic: Card Battle | 108492 | [108492-heroes-of-magic-card-battle.json](./108492-heroes-of-magic-card-battle.json) |
 | Heroes of Might and Magic III: Complete | 51820 | [51820-heroes-of-might-and-magic-iii-complete.json](./51820-heroes-of-might-and-magic-iii-complete.json) |
+| Heroes of Might and Magic III: The Shadow of Death | 366 | [366-heroes-of-might-and-magic-iii-the-shadow-of-death.json](./366-heroes-of-might-and-magic-iii-the-shadow-of-death.json) |
 | Heroes of the Obelisk | 62761 | [62761-heroes-of-the-obelisk.json](./62761-heroes-of-the-obelisk.json) |
 | Heroes of War | 227471 | [227471-heroes-of-war.json](./227471-heroes-of-war.json) |
 | Heroes Phantasia | 65495 | [65495-heroes-phantasia.json](./65495-heroes-phantasia.json) |
