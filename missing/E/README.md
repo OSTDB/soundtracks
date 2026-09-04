@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defender | 112318 | [112318-earth-defender.json](./112318-earth-defender.json) |
 | Earth Defense Force | 46666 | [46666-earth-defense-force.json](./46666-earth-defense-force.json) |
 | Earth Defense Force 3 for Nintendo Switch | 172720 | [172720-earth-defense-force-3-for-nintendo-switch.json](./172720-earth-defense-force-3-for-nintendo-switch.json) |
+| Earth Defense Force 4.1: Wing Diver the Shooter | 57020 | [57020-earth-defense-force-4-1-wing-diver-the-shooter.json](./57020-earth-defense-force-4-1-wing-diver-the-shooter.json) |
 | Earth Defense Force 6: Additional Mission Pack 2 - Visions of Malice | 319369 | [319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json](./319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json) |
 | Earth Defense Force: World Brothers - Deluxe Edition | 222503 | [222503-earth-defense-force-world-brothers-deluxe-edition.json](./222503-earth-defense-force-world-brothers-deluxe-edition.json) |
 | Earth Invasion | 72085 | [72085-earth-invasion.json](./72085-earth-invasion.json) |
@@ -221,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfland Reloaded: Volume 2 | 303238 | [303238-elfland-reloaded-volume-2.json](./303238-elfland-reloaded-volume-2.json) |
 | Elfo: Rescue Craby | 322345 | [322345-elfo-rescue-craby.json](./322345-elfo-rescue-craby.json) |
 | Elimination Games | 220840 | [220840-elimination-games.json](./220840-elimination-games.json) |
+| Elisa: Seduce the Innkeeper | 63734 | [63734-elisa-seduce-the-innkeeper.json](./63734-elisa-seduce-the-innkeeper.json) |
 | Elise's Peepshow | 161377 | [161377-elises-peepshow.json](./161377-elises-peepshow.json) |
 | Elite Beat Zombygons | 184659 | [184659-elite-beat-zombygons.json](./184659-elite-beat-zombygons.json) |
 | Elite Force | 223659 | [223659-elite-force.json](./223659-elite-force.json) |
@@ -590,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Apples: Dirty as ____. | 86996 | [86996-evil-apples-dirty-as.json](./86996-evil-apples-dirty-as.json) |
 | Evil Castle & Princess | 258193 | [258193-evil-castle-and-princess.json](./258193-evil-castle-and-princess.json) |
 | Evil Crown | 45328 | [45328-evil-crown.json](./45328-evil-crown.json) |
+| Evil Dead: The Game | 66308 | [66308-evil-dead-the-game.json](./66308-evil-dead-the-game.json) |
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
 | Evil of Demons: Algailah | 243948 | [243948-evil-of-demons-algailah.json](./243948-evil-of-demons-algailah.json) |
 | Evil Resistance: Morning of the Dead | 55183 | [55183-evil-resistance-morning-of-the-dead.json](./55183-evil-resistance-morning-of-the-dead.json) |
