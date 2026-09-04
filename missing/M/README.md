@@ -79,9 +79,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Gambling | 89266 | [89266-mafia-gambling.json](./89266-mafia-gambling.json) |
 | Mafia III: Faster, Baby! | 39761 | [39761-mafia-iii-faster-baby.json](./39761-mafia-iii-faster-baby.json) |
 | Mafia: Sex Noir | 192435 | [192435-mafia-sex-noir.json](./192435-mafia-sex-noir.json) |
+| Mafioso | 348499 | [348499-mafioso.json](./348499-mafioso.json) |
 | Magatsu Barai | 172730 | [172730-magatsu-barai.json](./172730-magatsu-barai.json) |
 | Magatsu Wahrheit | 194004 | [194004-magatsu-wahrheit.json](./194004-magatsu-wahrheit.json) |
 | Mage and Monsters | 209682 | [209682-mage-and-monsters.json](./209682-mage-and-monsters.json) |
+| Mage Arena | 356787 | [356787-mage-arena.json](./356787-mage-arena.json) |
 | Mage Mania | 120408 | [120408-mage-mania.json](./120408-mage-mania.json) |
 | Mage March | 185155 | [185155-mage-march.json](./185155-mage-march.json) |
 | Maggotmania | 109041 | [109041-maggotmania.json](./109041-maggotmania.json) |
@@ -208,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majoneko | 252398 | [252398-majoneko.json](./252398-majoneko.json) |
 | Major League | 199645 | [199645-major-league.json](./199645-major-league.json) |
 | Major League Baseball 2K6 | 240488 | [240488-major-league-baseball-2k6.json](./240488-major-league-baseball-2k6.json) |
+| Major League Baseball Featuring Ken Griffey Jr. | 3540 | [3540-major-league-baseball-featuring-ken-griffey-jr.json](./3540-major-league-baseball-featuring-ken-griffey-jr.json) |
 | Majorelle Mystery | 232705 | [232705-majorelle-mystery.json](./232705-majorelle-mystery.json) |
 | Majyo no Nebaneba Note | 336940 | [336940-majyo-no-nebaneba-note.json](./336940-majyo-no-nebaneba-note.json) |
 | Makaimura Online | 63297 | [63297-makaimura-online.json](./63297-makaimura-online.json) |
@@ -863,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey Mouse | 78680 | [78680-mickey-mouse.json](./78680-mickey-mouse.json) |
 | Mickey Mouse IV: Mahou no Labyrinth | 153451 | [153451-mickey-mouse-iv-mahou-no-labyrinth.json](./153451-mickey-mouse-iv-mahou-no-labyrinth.json) |
 | Mickey to Ooki na Furudokei | 299463 | [299463-mickey-to-ooki-na-furudokei.json](./299463-mickey-to-ooki-na-furudokei.json) |
+| Mickey's Speedway USA | 3408 | [3408-mickeys-speedway-usa.json](./3408-mickeys-speedway-usa.json) |
 | Mickey's Speedway USA: Huey | 248304 | [248304-mickeys-speedway-usa-huey.json](./248304-mickeys-speedway-usa-huey.json) |
 | Micro Abyss | 166768 | [166768-micro-abyss.json](./166768-micro-abyss.json) |
 | Micro Machines 1 and 2: Twin Turbo | 93056 | [93056-micro-machines-1-and-2-twin-turbo.json](./93056-micro-machines-1-and-2-twin-turbo.json) |
@@ -1481,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: Brazil Pack | 304366 | [304366-mortal-kombat-x-brazil-pack.json](./304366-mortal-kombat-x-brazil-pack.json) |
 | Mortal Kombat X: Kold War Scorpion | 340201 | [340201-mortal-kombat-x-kold-war-scorpion.json](./340201-mortal-kombat-x-kold-war-scorpion.json) |
 | Mortal Kombat: Komplete Edition | 2977 | [2977-mortal-kombat-komplete-edition.json](./2977-mortal-kombat-komplete-edition.json) |
+| Mortal Kombat: Legacy Kollection | 347122 | [347122-mortal-kombat-legacy-kollection.json](./347122-mortal-kombat-legacy-kollection.json) |
 | Mortality Decomp. Killers | 337999 | [337999-mortality-decomp-killers.json](./337999-mortality-decomp-killers.json) |
 | Morterra | 177015 | [177015-morterra.json](./177015-morterra.json) |
 | Mortgage Nightmares | 341336 | [341336-mortgage-nightmares.json](./341336-mortgage-nightmares.json) |
@@ -1647,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munasawagi no Season | 246104 | [246104-munasawagi-no-season.json](./246104-munasawagi-no-season.json) |
 | Mundo SBT | 249459 | [249459-mundo-sbt.json](./249459-mundo-sbt.json) |
 | Munkiki's Castles | 111740 | [111740-munkikis-castles.json](./111740-munkikis-castles.json) |
+| Muppet RaceMania | 3259 | [3259-muppet-racemania.json](./3259-muppet-racemania.json) |
 | Muppet Treasure Island | 71543 | [71543-muppet-treasure-island.json](./71543-muppet-treasure-island.json) |
 | Muramasa Burden | 341344 | [341344-muramasa-burden.json](./341344-muramasa-burden.json) |
 | Muramasa Rebirth: Blessing of Amitabha Collector's Edition | 89921 | [89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json](./89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json) |
