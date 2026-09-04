@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeolis Tournament | 120419 | [120419-aeolis-tournament.json](./120419-aeolis-tournament.json) |
 | Aeolwyn's Legacy | 200707 | [200707-aeolwyns-legacy.json](./200707-aeolwyns-legacy.json) |
 | AereA: Collector's Edition | 166237 | [166237-aerea-collectors-edition.json](./166237-aerea-collectors-edition.json) |
+| Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
 | Aerial Austen | 232175 | [232175-aerial-austen.json](./232175-aerial-austen.json) |
 | Aerial Life | 147445 | [147445-aerial-life.json](./147445-aerial-life.json) |
 | Aero Attack: Retro Space Shooter | 115715 | [115715-aero-attack-retro-space-shooter.json](./115715-aero-attack-retro-space-shooter.json) |
@@ -756,6 +757,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Basketball: Guns & Balls | 234316 | [234316-american-basketball-guns-and-balls.json](./234316-american-basketball-guns-and-balls.json) |
 | American Conquest: Anthology | 324664 | [324664-american-conquest-anthology.json](./324664-american-conquest-anthology.json) |
 | American Diesel Trains | 96053 | [96053-american-diesel-trains.json](./96053-american-diesel-trains.json) |
+| American Girl: Dress Designer | 18244 | [18244-american-girl-dress-designer.json](./18244-american-girl-dress-designer.json) |
+| American Girl: Julie Finds a Way | 18241 | [18241-american-girl-julie-finds-a-way.json](./18241-american-girl-julie-finds-a-way.json) |
+| American Girl: Julie Saves the Eagles | 18242 | [18242-american-girl-julie-saves-the-eagles.json](./18242-american-girl-julie-saves-the-eagles.json) |
+| American Girl: Kit - A Treehouse of My Own | 18247 | [18247-american-girl-kit-a-treehouse-of-my-own.json](./18247-american-girl-kit-a-treehouse-of-my-own.json) |
+| American Girl: Kit's Mystery Challenge | 18246 | [18246-american-girl-kits-mystery-challenge.json](./18246-american-girl-kits-mystery-challenge.json) |
+| American Girl: Mia Goes For Great | 18245 | [18245-american-girl-mia-goes-for-great.json](./18245-american-girl-mia-goes-for-great.json) |
 | American Isekai: Legends of Nipponia | 277012 | [277012-american-isekai-legends-of-nipponia.json](./277012-american-isekai-legends-of-nipponia.json) |
 | American Marksman | 239912 | [239912-american-marksman.json](./239912-american-marksman.json) |
 | American Patriots: The Swamp Fox | 111018 | [111018-american-patriots-the-swamp-fox.json](./111018-american-patriots-the-swamp-fox.json) |
