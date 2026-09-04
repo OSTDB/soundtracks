@@ -918,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MindScape: Verenna | 274760 | [274760-mindscape-verenna.json](./274760-mindscape-verenna.json) |
 | Mindshow | 75145 | [75145-mindshow.json](./75145-mindshow.json) |
 | Mindtrap | 91406 | [91406-mindtrap.json](./91406-mindtrap.json) |
+| Mindwheel | 25778 | [25778-mindwheel.json](./25778-mindwheel.json) |
 | Mine Blast | 96758 | [96758-mine-blast.json](./96758-mine-blast.json) |
 | Mine Quest | 196868 | [196868-mine-quest.json](./196868-mine-quest.json) |
 | Mine Seeker | 89965 | [89965-mine-seeker.json](./89965-mine-seeker.json) |
