@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Your World (I Own) | 340761 | [340761-in-your-world-i-own.json](./340761-in-your-world-i-own.json) |
 | Inari | 277605 | [277605-inari.json](./277605-inari.json) |
 | Inazuma Eleven 1, 2, 3!! Endou Mamoru Densetsu | 86106 | [86106-inazuma-eleven-1-2-3-endou-mamoru-densetsu.json](./86106-inazuma-eleven-1-2-3-endou-mamoru-densetsu.json) |
+| Inazuma Eleven GO: Chrono Stones - Wildfire | 9693 | [9693-inazuma-eleven-go-chrono-stones-wildfire.json](./9693-inazuma-eleven-go-chrono-stones-wildfire.json) |
 | Inazuma Eleven Re | 317592 | [317592-inazuma-eleven-re.json](./317592-inazuma-eleven-re.json) |
 | Inbetween a Land of Grass | 181387 | [181387-inbetween-a-land-of-grass.json](./181387-inbetween-a-land-of-grass.json) |
 | Incandescent 2 | 113713 | [113713-incandescent-2.json](./113713-incandescent-2.json) |
