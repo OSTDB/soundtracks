@@ -735,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MemoryMaze | 319367 | [319367-memorymaze.json](./319367-memorymaze.json) |
 | Menace | 262664 | [262664-menace.json](./262664-menace.json) |
 | Menagerie I: Exoptable Money | 223664 | [223664-menagerie-i-exoptable-money.json](./223664-menagerie-i-exoptable-money.json) |
+| Mendel Palace | 48052 | [48052-mendel-palace.json](./48052-mendel-palace.json) |
 | MenheRafflesia | 131584 | [131584-menherafflesia.json](./131584-menherafflesia.json) |
 | Menherarium | 331675 | [331675-menherarium.json](./331675-menherarium.json) |
 | Menphis | 293929 | [293929-menphis.json](./293929-menphis.json) |
@@ -1197,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Model Oshare Audition Dream Girl | 222499 | [222499-model-oshare-audition-dream-girl.json](./222499-model-oshare-audition-dream-girl.json) |
 | Modern Campaigns: Quang Tri '72 | 229964 | [229964-modern-campaigns-quang-tri-72.json](./229964-modern-campaigns-quang-tri-72.json) |
 | Modern Combat | 166216 | [166216-modern-combat.json](./166216-modern-combat.json) |
+| Modern Combat Versus | 71910 | [71910-modern-combat-versus.json](./71910-modern-combat-versus.json) |
 | Modern Command | 227510 | [227510-modern-command.json](./227510-modern-command.json) |
 | Modern Museum | 305524 | [305524-modern-museum.json](./305524-modern-museum.json) |
 | Modern Naval Warfare | 186903 | [186903-modern-naval-warfare.json](./186903-modern-naval-warfare.json) |
@@ -1261,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole's World | 245050 | [245050-moles-world.json](./245050-moles-world.json) |
 | Moleshine Cooking Simulator | 237057 | [237057-moleshine-cooking-simulator.json](./237057-moleshine-cooking-simulator.json) |
 | Molly and the Gunmids | 185687 | [185687-molly-and-the-gunmids.json](./185687-molly-and-the-gunmids.json) |
+| Mom Hid My Game! | 78160 | [78160-mom-hid-my-game.json](./78160-mom-hid-my-game.json) |
 | Moments Out of Time | 60009 | [60009-moments-out-of-time.json](./60009-moments-out-of-time.json) |
 | Momibosu | 151726 | [151726-momibosu.json](./151726-momibosu.json) |
 | Momo's Conflict | 207526 | [207526-momos-conflict.json](./207526-momos-conflict.json) |
@@ -1512,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moss: Becoming Human | 337448 | [337448-moss-becoming-human.json](./337448-moss-becoming-human.json) |
 | Mostly Scared of Spiders | 115683 | [115683-mostly-scared-of-spiders.json](./115683-mostly-scared-of-spiders.json) |
 | Mothdude | 184126 | [184126-mothdude.json](./184126-mothdude.json) |
+| Mother 1+2 | 78585 | [78585-mother-1-2.json](./78585-mother-1-2.json) |
 | Mother Is Gone | 180843 | [180843-mother-is-gone.json](./180843-mother-is-gone.json) |
 | Mother of All Battles! | 338001 | [338001-mother-of-all-battles.json](./338001-mother-of-all-battles.json) |
 | Mother of Myth | 19643 | [19643-mother-of-myth.json](./19643-mother-of-myth.json) |
