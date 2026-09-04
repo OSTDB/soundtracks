@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Pen Color Book | 187488 | [187488-magic-pen-color-book.json](./187488-magic-pen-color-book.json) |
 | Magic Pixel Picross | 54449 | [54449-magic-pixel-picross.json](./54449-magic-pixel-picross.json) |
 | Magic Rune Stone | 333367 | [333367-magic-rune-stone.json](./333367-magic-rune-stone.json) |
+| Magic Shot | 18235 | [18235-magic-shot.json](./18235-magic-shot.json) |
 | Magic Snake II | 71517 | [71517-magic-snake-ii.json](./71517-magic-snake-ii.json) |
 | Magic Star | 306659 | [306659-magic-star.json](./306659-magic-star.json) |
 | Magic Streets | 335648 | [335648-magic-streets.json](./335648-magic-streets.json) |
@@ -1147,6 +1148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mohism | 152378 | [152378-mohism.json](./152378-mohism.json) |
 | Moi Mei: Hidden Objects | 199655 | [199655-moi-mei-hidden-objects.json](./199655-moi-mei-hidden-objects.json) |
 | Moira | 182523 | [182523-moira.json](./182523-moira.json) |
+| Möira | 18289 | [18289-moira.json](./18289-moira.json) |
 | Mojito the Cat: Animals Skins | 298336 | [298336-mojito-the-cat-animals-skins.json](./298336-mojito-the-cat-animals-skins.json) |
 | Mojito the Cat: Christmas Skins | 309642 | [309642-mojito-the-cat-christmas-skins.json](./309642-mojito-the-cat-christmas-skins.json) |
 | Mojito the Cat: Easter Edition | 246644 | [246644-mojito-the-cat-easter-edition.json](./246644-mojito-the-cat-easter-edition.json) |
@@ -1263,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Lair | 42019 | [42019-monster-lair.json](./42019-monster-lair.json) |
 | Monster Loves You Too! | 214153 | [214153-monster-loves-you-too.json](./214153-monster-loves-you-too.json) |
 | Monster Maker: Yami no Ryuukishi | 63878 | [63878-monster-maker-yami-no-ryuukishi.json](./63878-monster-maker-yami-no-ryuukishi.json) |
+| Monster Medic | 18236 | [18236-monster-medic.json](./18236-monster-medic.json) |
 | Monster Meltdown | 63284 | [63284-monster-meltdown.json](./63284-monster-meltdown.json) |
 | Monster Milktruck! | 145670 | [145670-monster-milktruck.json](./145670-monster-milktruck.json) |
 | Monster Mystery | 224789 | [224789-monster-mystery.json](./224789-monster-mystery.json) |
