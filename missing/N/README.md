@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nandemo!? Taihoman | 264312 | [264312-nandemo-taihoman.json](./264312-nandemo-taihoman.json) |
 | Nangoku Shounen Papuwa-kun | 38389 | [38389-nangoku-shounen-papuwa-kun.json](./38389-nangoku-shounen-papuwa-kun.json) |
 | Nankin no Adventure | 41401 | [41401-nankin-no-adventure.json](./41401-nankin-no-adventure.json) |
+| NanoApostle | 279485 | [279485-nanoapostle.json](./279485-nanoapostle.json) |
 | Nanocorp | 173281 | [173281-nanocorp.json](./173281-nanocorp.json) |
 | NanoHive | 216991 | [216991-nanohive.json](./216991-nanohive.json) |
 | Nanos World | 152927 | [152927-nanos-world.json](./152927-nanos-world.json) |
