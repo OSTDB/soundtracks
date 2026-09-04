@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Stage Unleashed 3 | 5806 | [5806-dancing-stage-unleashed-3.json](./5806-dancing-stage-unleashed-3.json) |
 | DancingReaper | 140580 | [140580-dancingreaper.json](./140580-dancingreaper.json) |
 | Dandara | 296666 | [296666-dandara.json](./296666-dandara.json) |
+| Dandara: Trials of Fear Edition | 129536 | [129536-dandara-trials-of-fear-edition.json](./129536-dandara-trials-of-fear-edition.json) |
 | Dandy: Or a Brief Glimpse Into the Life of the Candy Alchemist | 59985 | [59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json](./59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json) |
 | Daneta | 125456 | [125456-daneta.json](./125456-daneta.json) |
 | Daneta2 | 125455 | [125455-daneta2.json](./125455-daneta2.json) |
@@ -351,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadside: Supporter Pack | 338016 | [338016-deadside-supporter-pack.json](./338016-deadside-supporter-pack.json) |
 | Deadwar: Old Lies | 94730 | [94730-deadwar-old-lies.json](./94730-deadwar-old-lies.json) |
 | DeadWire | 332252 | [332252-deadwire.json](./332252-deadwire.json) |
+| Deadzone: Rogue | 316979 | [316979-deadzone-rogue.json](./316979-deadzone-rogue.json) |
 | Dear Diary | 297233 | [297233-dear-diary.json](./297233-dear-diary.json) |
 | Dear Drops Distortion | 59421 | [59421-dear-drops-distortion.json](./59421-dear-drops-distortion.json) |
 | Dear Genny | 177532 | [177532-dear-genny.json](./177532-dear-genny.json) |
@@ -516,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Tengen Uzui Character Pack | 209695 | [209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json](./209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json) |
 | Demon Strikes Back | 156647 | [156647-demon-strikes-back.json](./156647-demon-strikes-back.json) |
 | Demon Sword | 48065 | [48065-demon-sword.json](./48065-demon-sword.json) |
+| Demon Turf | 134564 | [134564-demon-turf.json](./134564-demon-turf.json) |
 | Demon Wolf Simulator | 102779 | [102779-demon-wolf-simulator.json](./102779-demon-wolf-simulator.json) |
 | Demon World Survival | 195201 | [195201-demon-world-survival.json](./195201-demon-world-survival.json) |
 | Demon's Island | 301576 | [301576-demons-island.json](./301576-demons-island.json) |
@@ -791,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur King | 48042 | [48042-dinosaur-king.json](./48042-dinosaur-king.json) |
 | Dinosaur Zookeeper | 318233 | [318233-dinosaur-zookeeper.json](./318233-dinosaur-zookeeper.json) |
 | Dinosaurs A Prehistoric Adventure | 57128 | [57128-dinosaurs-a-prehistoric-adventure.json](./57128-dinosaurs-a-prehistoric-adventure.json) |
+| DinoScape | 143335 | [143335-dinoscape.json](./143335-dinoscape.json) |
 | Dinotopia | 146885 | [146885-dinotopia.json](./146885-dinotopia.json) |
 | Dinovaporate | 256562 | [256562-dinovaporate.json](./256562-dinovaporate.json) |
 | Dio Simulator Remastered | 201841 | [201841-dio-simulator-remastered.json](./201841-dio-simulator-remastered.json) |
@@ -827,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discode Reverse | 97366 | [97366-discode-reverse.json](./97366-discode-reverse.json) |
 | Disconcerting Unease 1 | 275313 | [275313-disconcerting-unease-1.json](./275313-disconcerting-unease-1.json) |
 | Disconcerting Unease 2 | 275320 | [275320-disconcerting-unease-2.json](./275320-disconcerting-unease-2.json) |
+| Discover My Body | 153577 | [153577-discover-my-body.json](./153577-discover-my-body.json) |
 | Discovering Colors - Animals (Coloring Book) | 106572 | [106572-discovering-colors-animals-coloring-book.json](./106572-discovering-colors-animals-coloring-book.json) |
 | Discovery Kids: Pony Paradise | 69273 | [69273-discovery-kids-pony-paradise.json](./69273-discovery-kids-pony-paradise.json) |
 | Discovery Kids: Spider Quest | 67308 | [67308-discovery-kids-spider-quest.json](./67308-discovery-kids-spider-quest.json) |
