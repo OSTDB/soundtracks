@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Girl Army | 195205 | [195205-card-girl-army.json](./195205-card-girl-army.json) |
 | Card Hunter | 17231 | [17231-card-hunter.json](./17231-card-hunter.json) |
 | Card Lords | 251203 | [251203-card-lords.json](./251203-card-lords.json) |
+| Card Quest | 32328 | [32328-card-quest.json](./32328-card-quest.json) |
 | Card Shuffle Sort | 251237 | [251237-card-shuffle-sort.json](./251237-card-shuffle-sort.json) |
 | Card Thief | 28018 | [28018-card-thief.json](./28018-card-thief.json) |
 | Card Tower Defence | 153458 | [153458-card-tower-defence.json](./153458-card-tower-defence.json) |
@@ -403,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman Capers | 13702 | [13702-caveman-capers.json](./13702-caveman-capers.json) |
 | Caveman Games | 48100 | [48100-caveman-games.json](./48100-caveman-games.json) |
 | Caveman hits Giraffe in a Car | 333397 | [333397-caveman-hits-giraffe-in-a-car.json](./333397-caveman-hits-giraffe-in-a-car.json) |
+| Caveman Warriors | 29250 | [29250-caveman-warriors.json](./29250-caveman-warriors.json) |
 | Cavemen vs. Aliens | 91412 | [91412-cavemen-vs-aliens.json](./91412-cavemen-vs-aliens.json) |
 | Cavern Crusader | 73303 | [73303-cavern-crusader.json](./73303-cavern-crusader.json) |
 | Caverns of Callisto | 24990 | [24990-caverns-of-callisto.json](./24990-caverns-of-callisto.json) |
