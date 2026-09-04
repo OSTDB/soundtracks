@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airplane Tycoon: Evolution | 306640 | [306640-airplane-tycoon-evolution.json](./306640-airplane-tycoon-evolution.json) |
 | Airplane Tycoon: First Class | 306639 | [306639-airplane-tycoon-first-class.json](./306639-airplane-tycoon-first-class.json) |
 | Airport Boss | 297230 | [297230-airport-boss.json](./297230-airport-boss.json) |
+| Airport Firefighter Simulator 2013 | 87447 | [87447-airport-firefighter-simulator-2013.json](./87447-airport-firefighter-simulator-2013.json) |
 | Airport Flight Administrator Simulator & Air Traffic-Sky Airplane Sim Plane | 220873 | [220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json](./220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json) |
 | Airport Tycoon 2 | 78040 | [78040-airport-tycoon-2.json](./78040-airport-tycoon-2.json) |
 | Airstrip DLC and Can Touch This DLC Bundle | 305497 | [305497-airstrip-dlc-and-can-touch-this-dlc-bundle.json](./305497-airstrip-dlc-and-can-touch-this-dlc-bundle.json) |
@@ -1532,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Syndicate - Gold Edition | 52626 | [52626-assassins-creed-syndicate-gold-edition.json](./52626-assassins-creed-syndicate-gold-edition.json) |
 | Assassin's Creed: Syndicate - Rooks Edition | 230499 | [230499-assassins-creed-syndicate-rooks-edition.json](./230499-assassins-creed-syndicate-rooks-edition.json) |
 | Assassination Classroom VR Balloon Challenge Time | 44611 | [44611-assassination-classroom-vr-balloon-challenge-time.json](./44611-assassination-classroom-vr-balloon-challenge-time.json) |
+| Assault Gunners HD Edition | 87854 | [87854-assault-gunners-hd-edition.json](./87854-assault-gunners-hd-edition.json) |
 | Assault on Port Stanley | 12981 | [12981-assault-on-port-stanley.json](./12981-assault-on-port-stanley.json) |
 | Assault Rei Play | 109004 | [109004-assault-rei-play.json](./109004-assault-rei-play.json) |
 | Assault Spy | 86514 | [86514-assault-spy.json](./86514-assault-spy.json) |
