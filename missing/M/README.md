@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majin Tensei: Blind Thinker | 112319 | [112319-majin-tensei-blind-thinker.json](./112319-majin-tensei-blind-thinker.json) |
 | Majoneko | 252398 | [252398-majoneko.json](./252398-majoneko.json) |
 | Major League | 199645 | [199645-major-league.json](./199645-major-league.json) |
+| Major League Baseball 2K5 | 8907 | [8907-major-league-baseball-2k5.json](./8907-major-league-baseball-2k5.json) |
 | Major League Baseball 2K6 | 240488 | [240488-major-league-baseball-2k6.json](./240488-major-league-baseball-2k6.json) |
 | Major League Baseball Featuring Ken Griffey Jr. | 3540 | [3540-major-league-baseball-featuring-ken-griffey-jr.json](./3540-major-league-baseball-featuring-ken-griffey-jr.json) |
 | Majorelle Mystery | 232705 | [232705-majorelle-mystery.json](./232705-majorelle-mystery.json) |
@@ -1046,6 +1047,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milky Bear Rescue Rocket | 221971 | [221971-milky-bear-rescue-rocket.json](./221971-milky-bear-rescue-rocket.json) |
 | Milky Quest II | 232654 | [232654-milky-quest-ii.json](./232654-milky-quest-ii.json) |
 | Millefiori | 150155 | [150155-millefiori.json](./150155-millefiori.json) |
+| Millennium 2: Take Me Higher | 8179 | [8179-millennium-2-take-me-higher.json](./8179-millennium-2-take-me-higher.json) |
+| Millennium 3: Cry Wolf | 8180 | [8180-millennium-3-cry-wolf.json](./8180-millennium-3-cry-wolf.json) |
+| Millennium 5: The Battle of the Millennium | 8176 | [8176-millennium-5-the-battle-of-the-millennium.json](./8176-millennium-5-the-battle-of-the-millennium.json) |
 | Millennium Mission | 274731 | [274731-millennium-mission.json](./274731-millennium-mission.json) |
 | Millennium Racer: Y2K Fighters | 79897 | [79897-millennium-racer-y2k-fighters.json](./79897-millennium-racer-y2k-fighters.json) |
 | Millennium Winter Sports | 49962 | [49962-millennium-winter-sports.json](./49962-millennium-winter-sports.json) |
@@ -1506,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MookerzZ | 252377 | [252377-mookerzz.json](./252377-mookerzz.json) |
 | Moon | 242775 | [242775-moon.json](./242775-moon.json) |
 | Moon Ball Magic | 41402 | [41402-moon-ball-magic.json](./41402-moon-ball-magic.json) |
+| Moon Chronicles | 8606 | [8606-moon-chronicles.json](./8606-moon-chronicles.json) |
 | Moon Colonization Project | 32237 | [32237-moon-colonization-project.json](./32237-moon-colonization-project.json) |
 | Moon Fall | 122381 | [122381-moon-fall.json](./122381-moon-fall.json) |
 | Moon Minions | 243940 | [243940-moon-minions.json](./243940-moon-minions.json) |
@@ -1620,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mothlight | 54445 | [54445-mothlight.json](./54445-mothlight.json) |
 | Motion Soccer Pro | 320521 | [320521-motion-soccer-pro.json](./320521-motion-soccer-pro.json) |
 | Motioning Monument | 314679 | [314679-motioning-monument.json](./314679-motioning-monument.json) |
+| Moto GP: Ultimate racing technology | 8268 | [8268-moto-gp-ultimate-racing-technology.json](./8268-moto-gp-ultimate-racing-technology.json) |
 | Moto Mouse Stunt Mania | 193475 | [193475-moto-mouse-stunt-mania.json](./193475-moto-mouse-stunt-mania.json) |
 | Moto Racer 4: Deluxe Edition | 25019 | [25019-moto-racer-4-deluxe-edition.json](./25019-moto-racer-4-deluxe-edition.json) |
 | Moto Rider Go: Highway Traffic | 104640 | [104640-moto-rider-go-highway-traffic.json](./104640-moto-rider-go-highway-traffic.json) |
@@ -1738,6 +1744,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MTV Sports: Skateboarding Featuring Andy Macdonald | 49959 | [49959-mtv-sports-skateboarding-featuring-andy-macdonald.json](./49959-mtv-sports-skateboarding-featuring-andy-macdonald.json) |
 | MTV Sports: T.J. Lavin's Ultimate BMX | 49964 | [49964-mtv-sports-t-j-lavins-ultimate-bmx.json](./49964-mtv-sports-t-j-lavins-ultimate-bmx.json) |
 | MTV Total Request Live Trivia | 57667 | [57667-mtv-total-request-live-trivia.json](./57667-mtv-total-request-live-trivia.json) |
+| MTV's Beavis and Butt-head: Bunghole in One | 8459 | [8459-mtvs-beavis-and-butt-head-bunghole-in-one.json](./8459-mtvs-beavis-and-butt-head-bunghole-in-one.json) |
+| MTV's Beavis and Butt-Head: Do U. | 8458 | [8458-mtvs-beavis-and-butt-head-do-u.json](./8458-mtvs-beavis-and-butt-head-do-u.json) |
 | MTX Mototrax | 5935 | [5935-mtx-mototrax.json](./5935-mtx-mototrax.json) |
 | Mud and Blood | 153415 | [153415-mud-and-blood.json](./153415-mud-and-blood.json) |
 | Muddy Heights | 223678 | [223678-muddy-heights.json](./223678-muddy-heights.json) |
