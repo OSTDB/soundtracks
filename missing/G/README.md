@@ -592,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goman: Stuck in the Avici Hell | 214184 | [214184-goman-stuck-in-the-avici-hell.json](./214184-goman-stuck-in-the-avici-hell.json) |
 | Gombo | 277616 | [277616-gombo.json](./277616-gombo.json) |
 | Gomenne Angel: Yokohama Monogatari | 271463 | [271463-gomenne-angel-yokohama-monogatari.json](./271463-gomenne-angel-yokohama-monogatari.json) |
+| Gomo | 7552 | [7552-gomo.json](./7552-gomo.json) |
 | Gonner2: The Full Ikk Edition | 154552 | [154552-gonner2-the-full-ikk-edition.json](./154552-gonner2-the-full-ikk-edition.json) |
 | Goo Go | 304380 | [304380-goo-go.json](./304380-goo-go.json) |
 | Goo Saga | 57709 | [57709-goo-saga.json](./57709-goo-saga.json) |
@@ -895,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear Xrd: Revelator | 13620 | [13620-guilty-gear-xrd-revelator.json](./13620-guilty-gear-xrd-revelator.json) |
 | Guilty Gear Xrd: Revelator - Let's Rock! Edition | 89928 | [89928-guilty-gear-xrd-revelator-lets-rock-edition.json](./89928-guilty-gear-xrd-revelator-lets-rock-edition.json) |
 | Guilty Gear: Strive - Additional Character 6: Bridget | 213005 | [213005-guilty-gear-strive-additional-character-6-bridget.json](./213005-guilty-gear-strive-additional-character-6-bridget.json) |
+| Guitar Hero: Van Halen | 2675 | [2675-guitar-hero-van-halen.json](./2675-guitar-hero-van-halen.json) |
 | GuitarFreaks 4thMix & DrumMania 3rdMix | 188659 | [188659-guitarfreaks-4thmix-and-drummania-3rdmix.json](./188659-guitarfreaks-4thmix-and-drummania-3rdmix.json) |
 | GuitarFreaks V & DrumMania V | 78691 | [78691-guitarfreaks-v-and-drummania-v.json](./78691-guitarfreaks-v-and-drummania-v.json) |
 | Gulag | 268773 | [268773-gulag.json](./268773-gulag.json) |
