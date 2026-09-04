@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldr Force Exe | 44622 | [44622-baldr-force-exe.json](./44622-baldr-force-exe.json) |
 | Baldric's Quest | 52619 | [52619-baldrics-quest.json](./52619-baldrics-quest.json) |
 | Baldur's Gate Compilation | 141859 | [141859-baldurs-gate-compilation.json](./141859-baldurs-gate-compilation.json) |
+| Baldur's Gate II: Throne of Bhaal | 82 | [82-baldurs-gate-ii-throne-of-bhaal.json](./82-baldurs-gate-ii-throne-of-bhaal.json) |
 | Baldur's Gate: Siege of Dragonspear - Digital Deluxe Edition | 52617 | [52617-baldurs-gate-siege-of-dragonspear-digital-deluxe-edition.json](./52617-baldurs-gate-siege-of-dragonspear-digital-deluxe-edition.json) |
 | Baldur's Gate: The Complete Saga | 52616 | [52616-baldurs-gate-the-complete-saga.json](./52616-baldurs-gate-the-complete-saga.json) |
 | Baldwin's Bear | 195262 | [195262-baldwins-bear.json](./195262-baldwins-bear.json) |
