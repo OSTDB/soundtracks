@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizzie McGuire: On the Go! | 49394 | [49394-lizzie-mcguire-on-the-go.json](./49394-lizzie-mcguire-on-the-go.json) |
 | Llamas With Hats: Cruise Catastrophe | 63336 | [63336-llamas-with-hats-cruise-catastrophe.json](./63336-llamas-with-hats-cruise-catastrophe.json) |
 | Load Roll Die | 172734 | [172734-load-roll-die.json](./172734-load-roll-die.json) |
+| Loaded | 18682 | [18682-loaded.json](./18682-loaded.json) |
 | Loader Larry | 73809 | [73809-loader-larry.json](./73809-loader-larry.json) |
 | Loading Zone | 193469 | [193469-loading-zone.json](./193469-loading-zone.json) |
 | Lobby Cam by Bryn Oh | 235468 | [235468-lobby-cam-by-bryn-oh.json](./235468-lobby-cam-by-bryn-oh.json) |
@@ -827,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna Story II: Six Pieces of Tears | 141209 | [141209-luna-story-ii-six-pieces-of-tears.json](./141209-luna-story-ii-six-pieces-of-tears.json) |
 | Luna Story III: On Your Mark | 141211 | [141211-luna-story-iii-on-your-mark.json](./141211-luna-story-iii-on-your-mark.json) |
 | Luna-3X | 315838 | [315838-luna-3x.json](./315838-luna-3x.json) |
+| Luna: The Shadow Dust | 56463 | [56463-luna-the-shadow-dust.json](./56463-luna-the-shadow-dust.json) |
 | Lunacy: Saint Rhodes | 26710 | [26710-lunacy-saint-rhodes.json](./26710-lunacy-saint-rhodes.json) |
 | Lunar Catastrophe | 260960 | [260960-lunar-catastrophe.json](./260960-lunar-catastrophe.json) |
 | Lunar Descent | 333360 | [333360-lunar-descent.json](./333360-lunar-descent.json) |
@@ -845,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Bunker | 274753 | [274753-lust-bunker.json](./274753-lust-bunker.json) |
 | Lust Campus | 251229 | [251229-lust-campus.json](./251229-lust-campus.json) |
 | Lust for Darkness VR | 193508 | [193508-lust-for-darkness-vr.json](./193508-lust-for-darkness-vr.json) |
+| Lust from Beyond | 115903 | [115903-lust-from-beyond.json](./115903-lust-from-beyond.json) |
 | Lustful Apartment | 296687 | [296687-lustful-apartment.json](./296687-lustful-apartment.json) |
 | Lustful Assistant | 223176 | [223176-lustful-assistant.json](./223176-lustful-assistant.json) |
 | Lusty God | 238763 | [238763-lusty-god.json](./238763-lusty-god.json) |
