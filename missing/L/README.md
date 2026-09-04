@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lavapools | 25000 | [25000-lavapools.json](./25000-lavapools.json) |
 | Lawmage Academy | 125472 | [125472-lawmage-academy.json](./125472-lawmage-academy.json) |
 | Lawn & Order | 177021 | [177021-lawn-and-order.json](./177021-lawn-and-order.json) |
+| Lawn Mowing Simulator VR | 284830 | [284830-lawn-mowing-simulator-vr.json](./284830-lawn-mowing-simulator-vr.json) |
 | Lawnarchy | 195203 | [195203-lawnarchy.json](./195203-lawnarchy.json) |
 | LawnMower City | 186290 | [186290-lawnmower-city.json](./186290-lawnmower-city.json) |
 | LawnMower: Mortal Race | 219284 | [219284-lawnmower-mortal-race.json](./219284-lawnmower-mortal-race.json) |
