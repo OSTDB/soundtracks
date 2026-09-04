@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Sun | 180815 | [180815-after-sun.json](./180815-after-sun.json) |
 | After the Fall: Launch Edition | 196313 | [196313-after-the-fall-launch-edition.json](./196313-after-the-fall-launch-edition.json) |
 | After the Inferno | 211423 | [211423-after-the-inferno.json](./211423-after-the-inferno.json) |
+| After the War | 5713 | [5713-after-the-war.json](./5713-after-the-war.json) |
 | After War Town | 278173 | [278173-after-war-town.json](./278173-after-war-town.json) |
 | After You: Level Escape | 249478 | [249478-after-you-level-escape.json](./249478-after-you-level-escape.json) |
 | Afterimage Mobile | 297224 | [297224-afterimage-mobile.json](./297224-afterimage-mobile.json) |
@@ -519,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aircraft War: Extra Level Pack 2 | 263196 | [263196-aircraft-war-extra-level-pack-2.json](./263196-aircraft-war-extra-level-pack-2.json) |
 | AirFighter | 193485 | [193485-airfighter.json](./193485-airfighter.json) |
 | Airforce Delta | 47285 | [47285-airforce-delta.json](./47285-airforce-delta.json) |
+| AirForce Delta Storm | 5718 | [5718-airforce-delta-storm.json](./5718-airforce-delta-storm.json) |
 | Airlift | 15591 | [15591-airlift.json](./15591-airlift.json) |
 | Airline | 15592 | [15592-airline.json](./15592-airline.json) |
 | Airline Commander | 106592 | [106592-airline-commander.json](./106592-airline-commander.json) |
@@ -602,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ALF: The First Adventure | 12249 | [12249-alf-the-first-adventure.json](./12249-alf-the-first-adventure.json) |
 | ALF's Thinking Skills | 78720 | [78720-alfs-thinking-skills.json](./78720-alfs-thinking-skills.json) |
 | ALF's U.S. Geography | 94247 | [94247-alfs-u-s-geography.json](./94247-alfs-u-s-geography.json) |
+| Alfa Romeo Racing Italiano | 5721 | [5721-alfa-romeo-racing-italiano.json](./5721-alfa-romeo-racing-italiano.json) |
 | Alfred Chicken | 7749 | [7749-alfred-chicken.json](./7749-alfred-chicken.json) |
 | Algae | 106601 | [106601-algae.json](./106601-algae.json) |
 | Algebra Fish | 102760 | [102760-algebra-fish.json](./102760-algebra-fish.json) |
@@ -795,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Special Transport | 268771 | [268771-american-truck-simulator-special-transport.json](./268771-american-truck-simulator-special-transport.json) |
 | American Truck Simulator: Western Star 57X | 211406 | [211406-american-truck-simulator-western-star-57x.json](./211406-american-truck-simulator-western-star-57x.json) |
 | Americas Tower Simulator | 224756 | [224756-americas-tower-simulator.json](./224756-americas-tower-simulator.json) |
+| AMF Bowling 2004 | 5723 | [5723-amf-bowling-2004.json](./5723-amf-bowling-2004.json) |
 | Amida | 7755 | [7755-amida.json](./7755-amida.json) |
 | Amidst The Haze | 278677 | [278677-amidst-the-haze.json](./278677-amidst-the-haze.json) |
 | Amiga CD Football | 39037 | [39037-amiga-cd-football.json](./39037-amiga-cd-football.json) |
@@ -1202,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Breakout: Infinite – Season 1 | 324717 | [324717-arena-breakout-infinite-season-1.json](./324717-arena-breakout-infinite-season-1.json) |
 | Arena Brutal | 197913 | [197913-arena-brutal.json](./197913-arena-brutal.json) |
 | Arena Constellation | 295012 | [295012-arena-constellation.json](./295012-arena-constellation.json) |
+| Arena Football | 5731 | [5731-arena-football.json](./5731-arena-football.json) |
 | Arena of Trophies | 297789 | [297789-arena-of-trophies.json](./297789-arena-of-trophies.json) |
 | Arena Titans | 94789 | [94789-arena-titans.json](./94789-arena-titans.json) |
 | Arena: Maze of Death | 19694 | [19694-arena-maze-of-death.json](./19694-arena-maze-of-death.json) |
@@ -1273,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Defence | 256519 | [256519-army-defence.json](./256519-army-defence.json) |
 | Army Driver | 204087 | [204087-army-driver.json](./204087-army-driver.json) |
 | Army Men World War: Team Assault | 43947 | [43947-army-men-world-war-team-assault.json](./43947-army-men-world-war-team-assault.json) |
+| Army Men: Major Malfunction | 5732 | [5732-army-men-major-malfunction.json](./5732-army-men-major-malfunction.json) |
 | Army Men: World War - Final Front | 43948 | [43948-army-men-world-war-final-front.json](./43948-army-men-world-war-final-front.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim - Halloween | 172178 | [172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json](./172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim 2 - DLC 2 | 254147 | [254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json](./254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json) |
@@ -1666,3 +1672,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure | 150658 | [150658-azure.json](./150658-azure.json) |
 | Azure Be Gone | 322396 | [322396-azure-be-gone.json](./322396-azure-be-gone.json) |
 | Azure Influx | 322397 | [322397-azure-influx.json](./322397-azure-influx.json) |
+| Azurik: Rise of Perathia | 5733 | [5733-azurik-rise-of-perathia.json](./5733-azurik-rise-of-perathia.json) |
