@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z-Grav: Clash | 263222 | [263222-z-grav-clash.json](./263222-z-grav-clash.json) |
 | Z-MMO | 55919 | [55919-z-mmo.json](./55919-z-mmo.json) |
 | Z: Escape | 99647 | [99647-z-escape.json](./99647-z-escape.json) |
+| Z.A.T.O.: I Love the World and Everything In It | 376847 | [376847-z-a-t-o-i-love-the-world-and-everything-in-it.json](./376847-z-a-t-o-i-love-the-world-and-everything-in-it.json) |
 | Z.O.M.B.I.E. | 163952 | [163952-z-o-m-b-i-e.json](./163952-z-o-m-b-i-e.json) |
 | Z69 | 51959 | [51959-z69.json](./51959-z69.json) |
 | ZaBaTa! | 235496 | [235496-zabata.json](./235496-zabata.json) |
@@ -66,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero 5 | 40818 | [40818-zero-5.json](./40818-zero-5.json) |
 | Zero Core: Exile | 140579 | [140579-zero-core-exile.json](./140579-zero-core-exile.json) |
 | Zero Degrees | 258702 | [258702-zero-degrees.json](./258702-zero-degrees.json) |
+| Zero Escape: Nine Hours, Nine Persons, Nine Doors | 319754 | [319754-zero-escape-nine-hours-nine-persons-nine-doors.json](./319754-zero-escape-nine-hours-nine-persons-nine-doors.json) |
 | Zero Fire: Toaplan Arcade Garage | 246668 | [246668-zero-fire-toaplan-arcade-garage.json](./246668-zero-fire-toaplan-arcade-garage.json) |
 | Zero Hour | 151730 | [151730-zero-hour.json](./151730-zero-hour.json) |
 | Zero King | 293912 | [293912-zero-king.json](./293912-zero-king.json) |
