@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid 2000 | 30955 | [30955-raid-2000.json](./30955-raid-2000.json) |
 | Raid Gaza! | 318205 | [318205-raid-gaza.json](./318205-raid-gaza.json) |
 | Raidborn: Founder's Pack | 298337 | [298337-raidborn-founders-pack.json](./298337-raidborn-founders-pack.json) |
+| Raiden Trad | 46211 | [46211-raiden-trad.json](./46211-raiden-trad.json) |
 | Raiders Run | 125440 | [125440-raiders-run.json](./125440-raiders-run.json) |
 | Rail Route: The Story of Jozic | 199127 | [199127-rail-route-the-story-of-jozic.json](./199127-rail-route-the-story-of-jozic.json) |
 | Railbreak: 90s Throwback Collection | 335102 | [335102-railbreak-90s-throwback-collection.json](./335102-railbreak-90s-throwback-collection.json) |
@@ -167,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rap Quest | 295037 | [295037-rap-quest.json](./295037-rap-quest.json) |
 | Rapala's Fishing Frenzy | 50605 | [50605-rapalas-fishing-frenzy.json](./50605-rapalas-fishing-frenzy.json) |
 | RaphaelGer's Plane | 229973 | [229973-raphaelgers-plane.json](./229973-raphaelgers-plane.json) |
+| Rapid Reload | 45013 | [45013-rapid-reload.json](./45013-rapid-reload.json) |
 | Rapid Roll | 274733 | [274733-rapid-roll.json](./274733-rapid-roll.json) |
 | Rapid the Hedgehog | 330517 | [330517-rapid-the-hedgehog.json](./330517-rapid-the-hedgehog.json) |
 | Rapper Life Simulation | 158710 | [158710-rapper-life-simulation.json](./158710-rapper-life-simulation.json) |
@@ -1031,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rompe! | 171078 | [171078-rompe.json](./171078-rompe.json) |
 | RON 13:13 Retaliation | 71005 | [71005-ron-13-13-retaliation.json](./71005-ron-13-13-retaliation.json) |
 | Ron 13:13^2: The Thickening | 71003 | [71003-ron-13-13-2-the-thickening.json](./71003-ron-13-13-2-the-thickening.json) |
+| Ronaldo V-Football | 44836 | [44836-ronaldo-v-football.json](./44836-ronaldo-v-football.json) |
 | Ronde | 78016 | [78016-ronde.json](./78016-ronde.json) |
 | Ronin: Two Souls | 139474 | [139474-ronin-two-souls.json](./139474-ronin-two-souls.json) |
 | Ronnarium | 263758 | [263758-ronnarium.json](./263758-ronnarium.json) |
