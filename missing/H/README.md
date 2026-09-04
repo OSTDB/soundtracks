@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Housekeeping to Room 501 | 325267 | [325267-housekeeping-to-room-501.json](./325267-housekeeping-to-room-501.json) |
 | Houserot | 176484 | [176484-houserot.json](./176484-houserot.json) |
 | Houshin Engi | 125424 | [125424-houshin-engi.json](./125424-houshin-engi.json) |
+| Hover Force | 5675 | [5675-hover-force.json](./5675-hover-force.json) |
 | Hover Hazard | 30890 | [30890-hover-hazard.json](./30890-hover-hazard.json) |
 | Hover Strike | 40812 | [40812-hover-strike.json](./40812-hover-strike.json) |
 | Hovercars 3077: Underground racing | 192436 | [192436-hovercars-3077-underground-racing.json](./192436-hovercars-3077-underground-racing.json) |
