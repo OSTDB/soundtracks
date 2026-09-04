@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Hopeless | 255991 | [255991-last-hopeless.json](./255991-last-hopeless.json) |
 | Last Imperial Prince | 45956 | [45956-last-imperial-prince.json](./45956-last-imperial-prince.json) |
 | Last Knight | 53266 | [53266-last-knight.json](./53266-last-knight.json) |
+| Last Labyrinth | 109245 | [109245-last-labyrinth.json](./109245-last-labyrinth.json) |
 | Last Legion UX | 3534 | [3534-last-legion-ux.json](./3534-last-legion-ux.json) |
 | Last Look along Woodward Boulevard | 321171 | [321171-last-look-along-woodward-boulevard.json](./321171-last-look-along-woodward-boulevard.json) |
 | Last Meal | 125999 | [125999-last-meal.json](./125999-last-meal.json) |
@@ -535,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Duty 1 | 249444 | [249444-little-duty-1.json](./249444-little-duty-1.json) |
 | Little Fighter Online | 79905 | [79905-little-fighter-online.json](./79905-little-fighter-online.json) |
 | Little Fox: Bubble Spinner | 296074 | [296074-little-fox-bubble-spinner.json](./296074-little-fox-bubble-spinner.json) |
+| Little Friends: Dogs & Cats | 110337 | [110337-little-friends-dogs-and-cats.json](./110337-little-friends-dogs-and-cats.json) |
 | Little Galaxy Family | 175424 | [175424-little-galaxy-family.json](./175424-little-galaxy-family.json) |
 | Little Gods of the Abyss | 169434 | [169434-little-gods-of-the-abyss.json](./169434-little-gods-of-the-abyss.json) |
 | Little Harvest | 254783 | [254783-little-harvest.json](./254783-little-harvest.json) |
@@ -797,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love's Hella Punk | 239868 | [239868-loves-hella-punk.json](./239868-loves-hella-punk.json) |
 | Love+ | 80609 | [80609-love.json](./80609-love.json) |
 | LoveAndComplex | 311276 | [311276-loveandcomplex.json](./311276-loveandcomplex.json) |
+| Lovecraft Quest: A Comix Game | 110643 | [110643-lovecraft-quest-a-comix-game.json](./110643-lovecraft-quest-a-comix-game.json) |
 | Lovefield General: Back to Work | 105351 | [105351-lovefield-general-back-to-work.json](./105351-lovefield-general-back-to-work.json) |
 | Lovelink | 204709 | [204709-lovelink.json](./204709-lovelink.json) |
 | Lovelove Boin: High-handed Girl's Boobs | 97374 | [97374-lovelove-boin-high-handed-girls-boobs.json](./97374-lovelove-boin-high-handed-girls-boobs.json) |
