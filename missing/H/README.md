@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HackLab | 185142 | [185142-hacklab.json](./185142-hacklab.json) |
 | Hadarot | 291248 | [291248-hadarot.json](./291248-hadarot.json) |
 | Hadephobia | 260957 | [260957-hadephobia.json](./260957-hadephobia.json) |
+| Haeven | 31930 | [31930-haeven.json](./31930-haeven.json) |
 | Hai Byouin Tansaku | 261547 | [261547-hai-byouin-tansaku.json](./261547-hai-byouin-tansaku.json) |
 | Hai Shuuraku Tansaku | 261546 | [261546-hai-shuuraku-tansaku.json](./261546-hai-shuuraku-tansaku.json) |
 | Hailey | 109738 | [109738-hailey.json](./109738-hailey.json) |
