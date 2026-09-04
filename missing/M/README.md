@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magna Regna | 211926 | [211926-magna-regna.json](./211926-magna-regna.json) |
 | Magnavody | 277610 | [277610-magnavody.json](./277610-magnavody.json) |
 | Magnetic Billiards | 47276 | [47276-magnetic-billiards.json](./47276-magnetic-billiards.json) |
+| Magnetic By Nature | 17322 | [17322-magnetic-by-nature.json](./17322-magnetic-by-nature.json) |
 | Magnificent Alfie | 233752 | [233752-magnificent-alfie.json](./233752-magnificent-alfie.json) |
 | Magnir Saga Part 1 | 263227 | [263227-magnir-saga-part-1.json](./263227-magnir-saga-part-1.json) |
 | Magnus Imago | 188683 | [188683-magnus-imago.json](./188683-magnus-imago.json) |
@@ -744,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meme Barley-Break | 112351 | [112351-meme-barley-break.json](./112351-meme-barley-break.json) |
 | Memento | 33176 | [33176-memento.json](./33176-memento.json) |
 | Memento Mori | 28231 | [28231-memento-mori.json](./28231-memento-mori.json) |
+| Memento Mori 2 | 16529 | [16529-memento-mori-2.json](./16529-memento-mori-2.json) |
 | Memento Vivere | 161355 | [161355-memento-vivere.json](./161355-memento-vivere.json) |
 | MemGame | 128641 | [128641-memgame.json](./128641-memgame.json) |
 | Memo Blox | 304373 | [304373-memo-blox.json](./304373-memo-blox.json) |
@@ -751,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorial Series: Sunsoft vol. 1 | 79347 | [79347-memorial-series-sunsoft-vol-1.json](./79347-memorial-series-sunsoft-vol-1.json) |
 | Memories From Beyond a Coral Sea | 243382 | [243382-memories-from-beyond-a-coral-sea.json](./243382-memories-from-beyond-a-coral-sea.json) |
 | Memories in Late Summer | 109688 | [109688-memories-in-late-summer.json](./109688-memories-in-late-summer.json) |
+| Memories of a Vagabond | 17534 | [17534-memories-of-a-vagabond.json](./17534-memories-of-a-vagabond.json) |
 | Memories of Bust | 303796 | [303796-memories-of-bust.json](./303796-memories-of-bust.json) |
 | Memories of War: Undead Decimation | 169456 | [169456-memories-of-war-undead-decimation.json](./169456-memories-of-war-undead-decimation.json) |
 | Memories Off Pure | 43974 | [43974-memories-off-pure.json](./43974-memories-off-pure.json) |
@@ -1180,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirax Force | 55208 | [55208-mirax-force.json](./55208-mirax-force.json) |
 | Mirror Image | 322352 | [322352-mirror-image.json](./322352-mirror-image.json) |
 | Mirror Land | 91986 | [91986-mirror-land.json](./91986-mirror-land.json) |
+| Mirror Mysteries | 17204 | [17204-mirror-mysteries.json](./17204-mirror-mysteries.json) |
 | Mirror Shoot | 193478 | [193478-mirror-shoot.json](./193478-mirror-shoot.json) |
 | Mirror's Edge 2D | 77347 | [77347-mirrors-edge-2d.json](./77347-mirrors-edge-2d.json) |
 | Misadventure In Little Lon | 125425 | [125425-misadventure-in-little-lon.json](./125425-misadventure-in-little-lon.json) |
@@ -1477,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsterlands | 203531 | [203531-monsterlands.json](./203531-monsterlands.json) |
 | MonsterRoll | 97917 | [97917-monsterroll.json](./97917-monsterroll.json) |
 | Monsters | 13741 | [13741-monsters.json](./13741-monsters.json) |
+| Monsters Ate My Birthday Cake | 17344 | [17344-monsters-ate-my-birthday-cake.json](./17344-monsters-ate-my-birthday-cake.json) |
 | Monsters Idle RPG | 238721 | [238721-monsters-idle-rpg.json](./238721-monsters-idle-rpg.json) |
 | MonsterS in haha Island | 54464 | [54464-monsters-in-haha-island.json](./54464-monsters-in-haha-island.json) |
 | Monsters Love Candy | 63852 | [63852-monsters-love-candy.json](./63852-monsters-love-candy.json) |
