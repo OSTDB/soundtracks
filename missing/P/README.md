@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasitus: Ninja Zero | 93628 | [93628-parasitus-ninja-zero.json](./93628-parasitus-ninja-zero.json) |
 | Parasol Fall | 231632 | [231632-parasol-fall.json](./231632-parasol-fall.json) |
 | Parasol Stars: Rainbow Islands 2 | 39027 | [39027-parasol-stars-rainbow-islands-2.json](./39027-parasol-stars-rainbow-islands-2.json) |
+| Paratroopers | 24986 | [24986-paratroopers.json](./24986-paratroopers.json) |
 | Parchis Club | 204683 | [204683-parchis-club.json](./204683-parchis-club.json) |
 | Paris Belle Epoque | 303270 | [303270-paris-belle-epoque.json](./303270-paris-belle-epoque.json) |
 | Paris Transylvania | 258189 | [258189-paris-transylvania.json](./258189-paris-transylvania.json) |
@@ -881,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Nameless FireRed Project | 213034 | [213034-pokemon-nameless-firered-project.json](./213034-pokemon-nameless-firered-project.json) |
 | Pokémon Orange | 141203 | [141203-pokemon-orange.json](./141203-pokemon-orange.json) |
 | Pokémon Photonic Sun | 214739 | [214739-pokemon-photonic-sun.json](./214739-pokemon-photonic-sun.json) |
+| Pokémon Play It! Version 2 | 24959 | [24959-pokemon-play-it-version-2.json](./24959-pokemon-play-it-version-2.json) |
 | Pokémon Polished Crystal | 220866 | [220866-pokemon-polished-crystal.json](./220866-pokemon-polished-crystal.json) |
 | Pokémon Reborn | 127326 | [127326-pokemon-reborn.json](./127326-pokemon-reborn.json) |
 | Pokémon Red Full Color | 213036 | [213036-pokemon-red-full-color.json](./213036-pokemon-red-full-color.json) |
