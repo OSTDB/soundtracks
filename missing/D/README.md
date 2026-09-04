@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rising 4: Capcom Heroes | 202965 | [202965-dead-rising-4-capcom-heroes.json](./202965-dead-rising-4-capcom-heroes.json) |
 | Dead Rising mobile | 81391 | [81391-dead-rising-mobile.json](./81391-dead-rising-mobile.json) |
 | Dead Rising/Gears of War | 141217 | [141217-dead-rising-gears-of-war.json](./141217-dead-rising-gears-of-war.json) |
+| Dead Route | 87095 | [87095-dead-route.json](./87095-dead-route.json) |
 | Dead Shapes | 251815 | [251815-dead-shapes.json](./251815-dead-shapes.json) |
 | Dead Some Day | 33155 | [33155-dead-some-day.json](./33155-dead-some-day.json) |
 | Dead Space | 131931 | [131931-dead-space.json](./131931-dead-space.json) |
@@ -795,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Different Strokes | 213030 | [213030-different-strokes.json](./213030-different-strokes.json) |
 | Dig Mania | 129200 | [129200-dig-mania.json](./129200-dig-mania.json) |
 | Dig Odyssey: Cosmic Mining | 251205 | [251205-dig-odyssey-cosmic-mining.json](./251205-dig-odyssey-cosmic-mining.json) |
+| Dig Out! | 87330 | [87330-dig-out.json](./87330-dig-out.json) |
 | Digger | 172721 | [172721-digger.json](./172721-digger.json) |
 | Digger Man | 39631 | [39631-digger-man.json](./39631-digger-man.json) |
 | Diggerman | 101578 | [101578-diggerman.json](./101578-diggerman.json) |
@@ -1267,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Mario World Redrawn | 132854 | [132854-dr-mario-world-redrawn.json](./132854-dr-mario-world-redrawn.json) |
 | Dr. Mario: Vitamin Toss | 231636 | [231636-dr-mario-vitamin-toss.json](./231636-dr-mario-vitamin-toss.json) |
 | Dr. Neo Cortex: Inventor's Madness | 314661 | [314661-dr-neo-cortex-inventors-madness.json](./314661-dr-neo-cortex-inventors-madness.json) |
+| Dr. Panda's Restaurant | 87345 | [87345-dr-pandas-restaurant.json](./87345-dr-pandas-restaurant.json) |
 | Dr. Paolo no Totteoki Video | 307968 | [307968-dr-paolo-no-totteoki-video.json](./307968-dr-paolo-no-totteoki-video.json) |
 | Dr. Planet | 295530 | [295530-dr-planet.json](./295530-dr-planet.json) |
 | Dr. Rin ni Kiitemite! Koi no Rin Fuusui | 65535 | [65535-dr-rin-ni-kiitemite-koi-no-rin-fuusui.json](./65535-dr-rin-ni-kiitemite-koi-no-rin-fuusui.json) |
@@ -1565,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Hunter Pro 3D | 101553 | [101553-duck-hunter-pro-3d.json](./101553-duck-hunter-pro-3d.json) |
 | Duck Hunting | 28885 | [28885-duck-hunting.json](./28885-duck-hunting.json) |
 | Duck on the Run | 174349 | [174349-duck-on-the-run.json](./174349-duck-on-the-run.json) |
+| Duck Run | 87570 | [87570-duck-run.json](./87570-duck-run.json) |
 | Duckified: Cosmic Legends | 295571 | [295571-duckified-cosmic-legends.json](./295571-duckified-cosmic-legends.json) |
 | Dude Cops | 107195 | [107195-dude-cops.json](./107195-dude-cops.json) |
 | Dude Simulator 3 | 144297 | [144297-dude-simulator-3.json](./144297-dude-simulator-3.json) |
@@ -1667,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungless 2 | 164512 | [164512-dungless-2.json](./164512-dungless-2.json) |
 | Dunia: The North Wood | 254776 | [254776-dunia-the-north-wood.json](./254776-dunia-the-north-wood.json) |
 | Dunidle Idle RPG | 227477 | [227477-dunidle-idle-rpg.json](./227477-dunidle-idle-rpg.json) |
+| Dunk Hit | 87360 | [87360-dunk-hit.json](./87360-dunk-hit.json) |
 | Dunk Tower | 242801 | [242801-dunk-tower.json](./242801-dunk-tower.json) |
 | Dunnigan's Trail | 154009 | [154009-dunnigans-trail.json](./154009-dunnigans-trail.json) |
 | Duo Defenders | 172157 | [172157-duo-defenders.json](./172157-duo-defenders.json) |
