@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline Flight Attendant Simulator VR | 236016 | [236016-airline-flight-attendant-simulator-vr.json](./236016-airline-flight-attendant-simulator-vr.json) |
 | Airline Tycoon Deluxe | 11086 | [11086-airline-tycoon-deluxe.json](./11086-airline-tycoon-deluxe.json) |
 | AirMech | 1365 | [1365-airmech.json](./1365-airmech.json) |
+| Airplane Mode | 126434 | [126434-airplane-mode.json](./126434-airplane-mode.json) |
 | Airplane Parking Mania 3D | 239320 | [239320-airplane-parking-mania-3d.json](./239320-airplane-parking-mania-3d.json) |
 | Airplane Tycoon | 306638 | [306638-airplane-tycoon.json](./306638-airplane-tycoon.json) |
 | Airplane Tycoon: Evolution | 306640 | [306640-airplane-tycoon-evolution.json](./306640-airplane-tycoon-evolution.json) |
@@ -1245,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Soccer | 15599 | [15599-arcade-soccer.json](./15599-arcade-soccer.json) |
 | Arcade's Greatest Hits: The Atari Collection 2 | 43925 | [43925-arcades-greatest-hits-the-atari-collection-2.json](./43925-arcades-greatest-hits-the-atari-collection-2.json) |
 | Arcade's Greatest Hits: The Midway Collection 2 | 43924 | [43924-arcades-greatest-hits-the-midway-collection-2.json](./43924-arcades-greatest-hits-the-midway-collection-2.json) |
+| Arcadia Fallen | 126568 | [126568-arcadia-fallen.json](./126568-arcadia-fallen.json) |
 | Arcadium: Space Odyssey | 255971 | [255971-arcadium-space-odyssey.json](./255971-arcadium-space-odyssey.json) |
 | Arcadius | 156126 | [156126-arcadius.json](./156126-arcadius.json) |
 | Arcaea | 27997 | [27997-arcaea.json](./27997-arcaea.json) |
@@ -1644,6 +1646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Dusk Trilogy Deluxe Pack | 125186 | [125186-atelier-dusk-trilogy-deluxe-pack.json](./125186-atelier-dusk-trilogy-deluxe-pack.json) |
 | Atelier Elie: Puzzle Workshop | 338535 | [338535-atelier-elie-puzzle-workshop.json](./338535-atelier-elie-puzzle-workshop.json) |
 | Atelier Ellie: Puzzle Workshop | 329392 | [329392-atelier-ellie-puzzle-workshop.json](./329392-atelier-ellie-puzzle-workshop.json) |
+| Atelier Escha & Logy: Alchemists of the Dusk Sky DX | 122749 | [122749-atelier-escha-and-logy-alchemists-of-the-dusk-sky-dx.json](./122749-atelier-escha-and-logy-alchemists-of-the-dusk-sky-dx.json) |
 | Atelier Marie | 329384 | [329384-atelier-marie.json](./329384-atelier-marie.json) |
 | Atelier Marie & Elie: The Alchemist of Salburg | 329357 | [329357-atelier-marie-and-elie-the-alchemist-of-salburg.json](./329357-atelier-marie-and-elie-the-alchemist-of-salburg.json) |
 | Atelier Marie: Puzzle Workshop | 329391 | [329391-atelier-marie-puzzle-workshop.json](./329391-atelier-marie-puzzle-workshop.json) |
@@ -1651,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ryza 2: Lost Legends & The Secret Fairy - Premium Box | 139998 | [139998-atelier-ryza-2-lost-legends-and-the-secret-fairy-premium-box.json](./139998-atelier-ryza-2-lost-legends-and-the-secret-fairy-premium-box.json) |
 | Atelier Ryza 2: Lost Legends & The Secret Fairy - Special Collection Box | 140002 | [140002-atelier-ryza-2-lost-legends-and-the-secret-fairy-special-collection-box.json](./140002-atelier-ryza-2-lost-legends-and-the-secret-fairy-special-collection-box.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - Secret Solitary Island | 238227 | [238227-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json](./238227-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json) |
+| Atelier Shallie: Alchemists of the Dusk Sea DX | 122750 | [122750-atelier-shallie-alchemists-of-the-dusk-sea-dx.json](./122750-atelier-shallie-alchemists-of-the-dusk-sea-dx.json) |
 | Athena | 273078 | [273078-athena.json](./273078-athena.json) |
 | Athena: Full Throttle | 55894 | [55894-athena-full-throttle.json](./55894-athena-full-throttle.json) |
 | Athena's Circus | 334505 | [334505-athenas-circus.json](./334505-athenas-circus.json) |
