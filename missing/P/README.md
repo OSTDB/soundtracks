@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penumbra | 177550 | [177550-penumbra.json](./177550-penumbra.json) |
 | Penumbra Lane | 307332 | [307332-penumbra-lane.json](./307332-penumbra-lane.json) |
 | Peojeul Pooh | 61672 | [61672-peojeul-pooh.json](./61672-peojeul-pooh.json) |
+| People Eater | 28901 | [28901-people-eater.json](./28901-people-eater.json) |
 | People Manipulation Sim | 181369 | [181369-people-manipulation-sim.json](./181369-people-manipulation-sim.json) |
 | Pepo | 171047 | [171047-pepo.json](./171047-pepo.json) |
 | Peppa Pig: Laptop Infantil | 297771 | [297771-peppa-pig-laptop-infantil.json](./297771-peppa-pig-laptop-infantil.json) |
