@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Story | 233761 | [233761-paradise-story.json](./233761-paradise-story.json) |
 | Paradox of the Cryptomancers | 99622 | [99622-paradox-of-the-cryptomancers.json](./99622-paradox-of-the-cryptomancers.json) |
 | Paradox! | 329952 | [329952-paradox.json](./329952-paradox.json) |
+| Paragnosia | 320184 | [320184-paragnosia.json](./320184-paragnosia.json) |
 | Paragon Pioneers | 206351 | [206351-paragon-pioneers.json](./206351-paragon-pioneers.json) |
 | Parallax | 292841 | [292841-parallax.json](./292841-parallax.json) |
 | Parallel Olympus | 156132 | [156132-parallel-olympus.json](./156132-parallel-olympus.json) |
@@ -948,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Tower Defense 2 | 180292 | [180292-pokemon-tower-defense-2.json](./180292-pokemon-tower-defense-2.json) |
 | Pokémon Trading Card Game Pocket: Triumphant Light | 333937 | [333937-pokemon-trading-card-game-pocket-triumphant-light.json](./333937-pokemon-trading-card-game-pocket-triumphant-light.json) |
 | Pokémon Unbound | 141663 | [141663-pokemon-unbound.json](./141663-pokemon-unbound.json) |
+| Pokémon Violet: The Hidden Treasure of Area Zero - Part 2: The Indigo Disk | 239933 | [239933-pokemon-violet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json](./239933-pokemon-violet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json) |
 | Pokémon Volt White | 226415 | [226415-pokemon-volt-white.json](./226415-pokemon-volt-white.json) |
 | Pokémon Water Red | 221411 | [221411-pokemon-water-red.json](./221411-pokemon-water-red.json) |
 | Pokémon Weird Type Fun | 307908 | [307908-pokemon-weird-type-fun.json](./307908-pokemon-weird-type-fun.json) |
