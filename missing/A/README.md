@@ -968,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anise Flowers | 185129 | [185129-anise-flowers.json](./185129-anise-flowers.json) |
 | Anna: The Series Test | 156645 | [156645-anna-the-series-test.json](./156645-anna-the-series-test.json) |
 | Anna's Gram | 94252 | [94252-annas-gram.json](./94252-annas-gram.json) |
+| Anna's Quest | 11367 | [11367-annas-quest.json](./11367-annas-quest.json) |
 | Annabel Gray | 15596 | [15596-annabel-gray.json](./15596-annabel-gray.json) |
 | Annapurna Interactive Deluxe Limited Edition | 138780 | [138780-annapurna-interactive-deluxe-limited-edition.json](./138780-annapurna-interactive-deluxe-limited-edition.json) |
 | Annelids | 57118 | [57118-annelids.json](./57118-annelids.json) |
