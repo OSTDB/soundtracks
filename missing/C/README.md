@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsule Hotel Simulator | 159887 | [159887-capsule-hotel-simulator.json](./159887-capsule-hotel-simulator.json) |
 | Capsule Rush | 218710 | [218710-capsule-rush.json](./218710-capsule-rush.json) |
 | Captain Alexia | 181907 | [181907-captain-alexia.json](./181907-captain-alexia.json) |
+| Captain Blood | 73030 | [73030-captain-blood.json](./73030-captain-blood.json) |
 | Captain Comic: The Adventure | 48110 | [48110-captain-comic-the-adventure.json](./48110-captain-comic-the-adventure.json) |
 | Captain Contraband | 129201 | [129201-captain-contraband.json](./129201-captain-contraband.json) |
 | Captain DinoHater | 180848 | [180848-captain-dinohater.json](./180848-captain-dinohater.json) |
@@ -162,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Quazar | 39015 | [39015-captain-quazar.json](./39015-captain-quazar.json) |
 | Captain Tsubasa | 213601 | [213601-captain-tsubasa.json](./213601-captain-tsubasa.json) |
 | Captain Tsubasa III: Koutei no Chousen | 38340 | [38340-captain-tsubasa-iii-koutei-no-chousen.json](./38340-captain-tsubasa-iii-koutei-no-chousen.json) |
+| Captain Tsubasa: Dream Team | 76738 | [76738-captain-tsubasa-dream-team.json](./76738-captain-tsubasa-dream-team.json) |
 | Capture | 104672 | [104672-capture.json](./104672-capture.json) |
 | Capture Creatures | 195252 | [195252-capture-creatures.json](./195252-capture-creatures.json) |
 | Capture the Flag | 23901 | [23901-capture-the-flag.json](./23901-capture-the-flag.json) |
@@ -287,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Awa | 104089 | [104089-castle-of-awa.json](./104089-castle-of-awa.json) |
 | Castle of Deceit | 7779 | [7779-castle-of-deceit.json](./7779-castle-of-deceit.json) |
 | Castle of Doom | 215380 | [215380-castle-of-doom.json](./215380-castle-of-doom.json) |
+| Castle of Heart | 69014 | [69014-castle-of-heart.json](./69014-castle-of-heart.json) |
 | Castle of Horrors: The Awful Tortures | 276474 | [276474-castle-of-horrors-the-awful-tortures.json](./276474-castle-of-horrors-the-awful-tortures.json) |
 | Castle of Illusion Starring Mickey Mouse | 242816 | [242816-castle-of-illusion-starring-mickey-mouse.json](./242816-castle-of-illusion-starring-mickey-mouse.json) |
 | Castle Of Plague | 237090 | [237090-castle-of-plague.json](./237090-castle-of-plague.json) |
