@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dungeon of Naheulbeuk: The Amulet of Chaos - Chicken Edition: Splat Jaypak's Arenas | 199115 | [199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json](./199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json) |
 | The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Deluxe Edition | 154540 | [154540-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-deluxe-edition.json](./154540-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-deluxe-edition.json) |
 | The Dungeon Tower | 255996 | [255996-the-dungeon-tower.json](./255996-the-dungeon-tower.json) |
+| The Dungeons of Castle Madness | 22403 | [22403-the-dungeons-of-castle-madness.json](./22403-the-dungeons-of-castle-madness.json) |
 | The Durka: You will (not) die | 154010 | [154010-the-durka-you-will-not-die.json](./154010-the-durka-you-will-not-die.json) |
 | The Dusk Alliance | 250614 | [250614-the-dusk-alliance.json](./250614-the-dusk-alliance.json) |
 | The Earl Street Massacre | 302709 | [302709-the-earl-street-massacre.json](./302709-the-earl-street-massacre.json) |
@@ -2297,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Ardia | 169453 | [169453-tower-of-ardia.json](./169453-tower-of-ardia.json) |
 | Tower of Babel: No Mercy | 129190 | [129190-tower-of-babel-no-mercy.json](./129190-tower-of-babel-no-mercy.json) |
 | Tower of Evil | 25731 | [25731-tower-of-evil.json](./25731-tower-of-evil.json) |
+| Tower of Saviors | 22440 | [22440-tower-of-saviors.json](./22440-tower-of-saviors.json) |
 | Tower of Tears | 268212 | [268212-tower-of-tears.json](./268212-tower-of-tears.json) |
 | Tower of unlife | 180831 | [180831-tower-of-unlife.json](./180831-tower-of-unlife.json) |
 | Tower of Waifus 2 | 148565 | [148565-tower-of-waifus-2.json](./148565-tower-of-waifus-2.json) |
