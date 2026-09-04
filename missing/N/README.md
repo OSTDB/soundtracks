@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ned | 67288 | [67288-ned.json](./67288-ned.json) |
 | Ned Kelly: Armored Outlaw | 204101 | [204101-ned-kelly-armored-outlaw.json](./204101-ned-kelly-armored-outlaw.json) |
 | Need For Conquest | 157203 | [157203-need-for-conquest.json](./157203-need-for-conquest.json) |
+| Need for Speed II | 91 | [91-need-for-speed-ii.json](./91-need-for-speed-ii.json) |
 | Need for Speed Unbound: Palace Edition | 220860 | [220860-need-for-speed-unbound-palace-edition.json](./220860-need-for-speed-unbound-palace-edition.json) |
 | Need for Speed: Heat | 119161 | [119161-need-for-speed-heat.json](./119161-need-for-speed-heat.json) |
 | Need for Speed: Hot Pursuit | 264364 | [264364-need-for-speed-hot-pursuit.json](./264364-need-for-speed-hot-pursuit.json) |
@@ -276,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeuroReal VR | 100819 | [100819-neuroreal-vr.json](./100819-neuroreal-vr.json) |
 | Neurose Neurones | 310766 | [310766-neurose-neurones.json](./310766-neurose-neurones.json) |
 | Neutrois | 183580 | [183580-neutrois.json](./183580-neutrois.json) |
+| Never Alone: Kisima Ingitchuna | 7618 | [7618-never-alone-kisima-ingitchuna.json](./7618-never-alone-kisima-ingitchuna.json) |
 | Never Ending Night | 35919 | [35919-never-ending-night.json](./35919-never-ending-night.json) |
 | Never Experiment On Cats! | 332830 | [332830-never-experiment-on-cats.json](./332830-never-experiment-on-cats.json) |
 | Never out of Time | 193476 | [193476-never-out-of-time.json](./193476-never-out-of-time.json) |
@@ -308,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Kaizo Bros. | 214777 | [214777-new-super-kaizo-bros.json](./214777-new-super-kaizo-bros.json) |
 | New Super Mario Bros. Deluxe | 107234 | [107234-new-super-mario-bros-deluxe.json](./107234-new-super-mario-bros-deluxe.json) |
 | New Super Mario Bros. Mii | 175961 | [175961-new-super-mario-bros-mii.json](./175961-new-super-mario-bros-mii.json) |
+| New Super Mario Bros. U | 2171 | [2171-new-super-mario-bros-u.json](./2171-new-super-mario-bros-u.json) |
 | New Super Mario Bros. Versus: Cubby's Character Mod | 243978 | [243978-new-super-mario-bros-versus-cubbys-character-mod.json](./243978-new-super-mario-bros-versus-cubbys-character-mod.json) |
 | New Super Mario Bros. Versus: Steve's Map Pack | 243976 | [243976-new-super-mario-bros-versus-steves-map-pack.json](./243976-new-super-mario-bros-versus-steves-map-pack.json) |
 | New Super Mario Bros.: 1-Up Hunt! | 231648 | [231648-new-super-mario-bros-1-up-hunt.json](./231648-new-super-mario-bros-1-up-hunt.json) |
@@ -448,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nina Aquila: Legal Eagle | 134657 | [134657-nina-aquila-legal-eagle.json](./134657-nina-aquila-legal-eagle.json) |
 | Nina Aquila: Legal Eagle, Chapter II - Broken Wings | 134658 | [134658-nina-aquila-legal-eagle-chapter-ii-broken-wings.json](./134658-nina-aquila-legal-eagle-chapter-ii-broken-wings.json) |
 | Nina Aquila: Legal Eagle, Season One | 152936 | [152936-nina-aquila-legal-eagle-season-one.json](./152936-nina-aquila-legal-eagle-season-one.json) |
+| Nine Hours, Nine Persons, Nine Doors | 9543 | [9543-nine-hours-nine-persons-nine-doors.json](./9543-nine-hours-nine-persons-nine-doors.json) |
 | Nine in Flight | 310734 | [310734-nine-in-flight.json](./310734-nine-in-flight.json) |
 | Nine Realms: Revolt | 254770 | [254770-nine-realms-revolt.json](./254770-nine-realms-revolt.json) |
 | Nine Rounds Rapid | 238718 | [238718-nine-rounds-rapid.json](./238718-nine-rounds-rapid.json) |
