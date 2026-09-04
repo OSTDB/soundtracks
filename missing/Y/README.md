@@ -98,7 +98,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youyou Kengeki Musou | 137062 | [137062-youyou-kengeki-musou.json](./137062-youyou-kengeki-musou.json) |
 | YRek Lost In Portals | 166757 | [166757-yrek-lost-in-portals.json](./166757-yrek-lost-in-portals.json) |
 | Ys III: Wanderers from Ys | 201313 | [201313-ys-iii-wanderers-from-ys.json](./201313-ys-iii-wanderers-from-ys.json) |
+| Ys IX: Monstrum Nox | 113431 | [113431-ys-ix-monstrum-nox.json](./113431-ys-ix-monstrum-nox.json) |
 | Ys Ⅷ: Lacrimosa of Dana - Mobile | 196324 | [196324-ys-viii-lacrimosa-of-dana-mobile.json](./196324-ys-viii-lacrimosa-of-dana-mobile.json) |
+| Ys: Memories of Celceta | 15457 | [15457-ys-memories-of-celceta.json](./15457-ys-memories-of-celceta.json) |
 | Ys: Memories of Celceta - Silver Anniversary Edition | 42679 | [42679-ys-memories-of-celceta-silver-anniversary-edition.json](./42679-ys-memories-of-celceta-silver-anniversary-edition.json) |
 | Yu Hayami no American Kids: Eigo de Bikkuri | 293911 | [293911-yu-hayami-no-american-kids-eigo-de-bikkuri.json](./293911-yu-hayami-no-american-kids-eigo-de-bikkuri.json) |
 | Yu Hayami no American Kids: Eigo de Talk | 293913 | [293913-yu-hayami-no-american-kids-eigo-de-talk.json](./293913-yu-hayami-no-american-kids-eigo-de-talk.json) |
@@ -138,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yunak | 330541 | [330541-yunak.json](./330541-yunak.json) |
 | Yunyun Syndrome!?: Rhythm Psychosis | 302655 | [302655-yunyun-syndrome-rhythm-psychosis.json](./302655-yunyun-syndrome-rhythm-psychosis.json) |
 | Yupitergrad | 142438 | [142438-yupitergrad.json](./142438-yupitergrad.json) |
+| Yuppie Psycho | 26565 | [26565-yuppie-psycho.json](./26565-yuppie-psycho.json) |
 | Yurei Ninja | 242213 | [242213-yurei-ninja.json](./242213-yurei-ninja.json) |
 | Yurukill: The Calumniation Games - Deluxe Edition | 175976 | [175976-yurukill-the-calumniation-games-deluxe-edition.json](./175976-yurukill-the-calumniation-games-deluxe-edition.json) |
 | Yuuki Yuuna ha Yuusha de Aru: Hanayui no Kirameki - Vol. 5 | 292883 | [292883-yuuki-yuuna-ha-yuusha-de-aru-hanayui-no-kirameki-vol-5.json](./292883-yuuki-yuuna-ha-yuusha-de-aru-hanayui-no-kirameki-vol-5.json) |
