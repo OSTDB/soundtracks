@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn Colors Shapes Preschool Games for Kids Games | 232169 | [232169-learn-colors-shapes-preschool-games-for-kids-games.json](./232169-learn-colors-shapes-preschool-games-for-kids-games.json) |
 | Learning Ladder: Years 1 & 2 | 326983 | [326983-learning-ladder-years-1-and-2.json](./326983-learning-ladder-years-1-and-2.json) |
 | Leas: City of the Sun | 334477 | [334477-leas-city-of-the-sun.json](./334477-leas-city-of-the-sun.json) |
+| Leather Goddesses of Phobos | 12174 | [12174-leather-goddesses-of-phobos.json](./12174-leather-goddesses-of-phobos.json) |
 | Leaving L.A. | 273138 | [273138-leaving-l-a.json](./273138-leaving-l-a.json) |
 | Led It Rain VR | 120373 | [120373-led-it-rain-vr.json](./120373-led-it-rain-vr.json) |
 | LED Storm Rally 2011 | 312321 | [312321-led-storm-rally-2011.json](./312321-led-storm-rally-2011.json) |
@@ -217,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend - The Four Crystals of Trazere | 37131 | [37131-legend-the-four-crystals-of-trazere.json](./37131-legend-the-four-crystals-of-trazere.json) |
 | Legend of Aladdin | 70969 | [70969-legend-of-aladdin.json](./70969-legend-of-aladdin.json) |
 | Legend of Cozar | 334475 | [334475-legend-of-cozar.json](./334475-legend-of-cozar.json) |
+| Legend of Djel | 12176 | [12176-legend-of-djel.json](./12176-legend-of-djel.json) |
 | Legend of Dungeon: Masters | 34394 | [34394-legend-of-dungeon-masters.json](./34394-legend-of-dungeon-masters.json) |
 | Legend of Fairies | 73814 | [73814-legend-of-fairies.json](./73814-legend-of-fairies.json) |
 | Legend of Frog | 327576 | [327576-legend-of-frog.json](./327576-legend-of-frog.json) |
@@ -383,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lichenia | 138271 | [138271-lichenia.json](./138271-lichenia.json) |
 | Liebt Mich Nicht | 126021 | [126021-liebt-mich-nicht.json](./126021-liebt-mich-nicht.json) |
 | Liero Xtreme | 72080 | [72080-liero-xtreme.json](./72080-liero-xtreme.json) |
+| Life & Death | 12177 | [12177-life-and-death.json](./12177-life-and-death.json) |
 | Life And Death Are Predetermined by Heaven | 330555 | [330555-life-and-death-are-predetermined-by-heaven.json](./330555-life-and-death-are-predetermined-by-heaven.json) |
 | Life and Minimalism | 202962 | [202962-life-and-minimalism.json](./202962-life-and-minimalism.json) |
 | Life Goals | 102144 | [102144-life-goals.json](./102144-life-goals.json) |
@@ -446,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Bender | 275329 | [275329-line-bender.json](./275329-line-bender.json) |
 | Line Bubble 2 | 247207 | [247207-line-bubble-2.json](./247207-line-bubble-2.json) |
 | Line Crossing | 181386 | [181386-line-crossing.json](./181386-line-crossing.json) |
+| Line of Fire | 12178 | [12178-line-of-fire.json](./12178-line-of-fire.json) |
 | Lineage | 75854 | [75854-lineage.json](./75854-lineage.json) |
 | LinearShooter Remixed | 186327 | [186327-linearshooter-remixed.json](./186327-linearshooter-remixed.json) |
 | Linecook | 179198 | [179198-linecook.json](./179198-linecook.json) |
