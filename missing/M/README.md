@@ -1197,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMA Championship | 189178 | [189178-mma-championship.json](./189178-mma-championship.json) |
 | MMA Federation | 116394 | [116394-mma-federation.json](./116394-mma-federation.json) |
 | Mmm Fingers | 117752 | [117752-mmm-fingers.json](./117752-mmm-fingers.json) |
+| MMORPG Tycoon 2 | 125701 | [125701-mmorpg-tycoon-2.json](./125701-mmorpg-tycoon-2.json) |
 | Moai Alley | 332802 | [332802-moai-alley.json](./332802-moai-alley.json) |
 | MOAR: Appeteaser | 209718 | [209718-moar-appeteaser.json](./209718-moar-appeteaser.json) |
 | MOB the Robot | 330514 | [330514-mob-the-robot.json](./330514-mob-the-robot.json) |
@@ -1462,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Assault | 275314 | [275314-moonlight-assault.json](./275314-moonlight-assault.json) |
 | Moonlight Blade | 26716 | [26716-moonlight-blade.json](./26716-moonlight-blade.json) |
 | Moonlight maze | 121734 | [121734-moonlight-maze.json](./121734-moonlight-maze.json) |
+| Moonlighter: Between Dimensions | 119236 | [119236-moonlighter-between-dimensions.json](./119236-moonlighter-between-dimensions.json) |
 | Moons of True Magic | 263204 | [263204-moons-of-true-magic.json](./263204-moons-of-true-magic.json) |
 | Moonshine Inc. | 191849 | [191849-moonshine-inc.json](./191849-moonshine-inc.json) |
 | Moonsouls: Echoes of the Past | 234301 | [234301-moonsouls-echoes-of-the-past.json](./234301-moonsouls-echoes-of-the-past.json) |
@@ -1495,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortadelo y Filemón II: Safari Callejero | 98975 | [98975-mortadelo-y-filemon-ii-safari-callejero.json](./98975-mortadelo-y-filemon-ii-safari-callejero.json) |
 | Mortadelo y Filemón: El Escarabajo de Cleopatra | 78038 | [78038-mortadelo-y-filemon-el-escarabajo-de-cleopatra.json](./78038-mortadelo-y-filemon-el-escarabajo-de-cleopatra.json) |
 | Mortal Fighter | 251837 | [251837-mortal-fighter.json](./251837-mortal-fighter.json) |
+| Mortal Glory | 119763 | [119763-mortal-glory.json](./119763-mortal-glory.json) |
 | Mortal Hire | 295006 | [295006-mortal-hire.json](./295006-mortal-hire.json) |
 | Mortal Kombat | 242239 | [242239-mortal-kombat.json](./242239-mortal-kombat.json) |
 | Mortal Kombat 1: Conan the Barbarian | 312343 | [312343-mortal-kombat-1-conan-the-barbarian.json](./312343-mortal-kombat-1-conan-the-barbarian.json) |
