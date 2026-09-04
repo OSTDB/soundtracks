@@ -1127,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketchy 2 | 54460 | [54460-sketchy-2.json](./54460-sketchy-2.json) |
 | Ski Hunt | 40796 | [40796-ski-hunt.json](./40796-ski-hunt.json) |
 | Ski Rodeo | 52004 | [52004-ski-rodeo.json](./52004-ski-rodeo.json) |
+| Ski Sniper | 36528 | [36528-ski-sniper.json](./36528-ski-sniper.json) |
 | Skibidi Toilet Hero: Sex Mod | 312888 | [312888-skibidi-toilet-hero-sex-mod.json](./312888-skibidi-toilet-hero-sex-mod.json) |
 | Skid Island: Asphalt Mayhem | 291745 | [291745-skid-island-asphalt-mayhem.json](./291745-skid-island-asphalt-mayhem.json) |
 | Skidmarks | 65506 | [65506-skidmarks.json](./65506-skidmarks.json) |
@@ -1305,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Army | 185688 | [185688-small-army.json](./185688-small-army.json) |
 | Small Ball | 169461 | [169461-small-ball.json](./169461-small-ball.json) |
 | Small Soldiers | 71671 | [71671-small-soldiers.json](./71671-small-soldiers.json) |
+| Small Town Terrors: Pilgrim's Hook - Collector's Edition | 36314 | [36314-small-town-terrors-pilgrims-hook-collectors-edition.json](./36314-small-town-terrors-pilgrims-hook-collectors-edition.json) |
 | Smart As... | 92456 | [92456-smart-as.json](./92456-smart-as.json) |
 | Smart CyberFly | 69851 | [69851-smart-cyberfly.json](./69851-smart-cyberfly.json) |
 | Smarty | 130360 | [130360-smarty.json](./130360-smarty.json) |
@@ -2797,6 +2799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cat Tales | 96155 | [96155-super-cat-tales.json](./96155-super-cat-tales.json) |
 | Super Cats | 111058 | [111058-super-cats.json](./111058-super-cats.json) |
 | Super Cauldron | 39028 | [39028-super-cauldron.json](./39028-super-cauldron.json) |
+| Super Chibi Knight | 36438 | [36438-super-chibi-knight.json](./36438-super-chibi-knight.json) |
 | Super Chuck Norris Bros | 294428 | [294428-super-chuck-norris-bros.json](./294428-super-chuck-norris-bros.json) |
 | Super Clash Crossover | 120413 | [120413-super-clash-crossover.json](./120413-super-clash-crossover.json) |
 | Super Cloudbuilt | 27396 | [27396-super-cloudbuilt.json](./27396-super-cloudbuilt.json) |
@@ -3372,4 +3375,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syvalion | 40249 | [40249-syvalion.json](./40249-syvalion.json) |
 | Syzygy | 123068 | [123068-syzygy.json](./123068-syzygy.json) |
 | Szen | 114364 | [114364-szen.json](./114364-szen.json) |
+| sZone Online | 36250 | [36250-szone-online.json](./36250-szone-online.json) |
 | Szybowcowa '87 | 237050 | [237050-szybowcowa-87.json](./237050-szybowcowa-87.json) |
