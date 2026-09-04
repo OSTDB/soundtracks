@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardlight | 138829 | [138829-hardlight.json](./138829-hardlight.json) |
 | Hardline | 94221 | [94221-hardline.json](./94221-hardline.json) |
 | Hardwar | 19566 | [19566-hardwar.json](./19566-hardwar.json) |
+| Hardware Engineers | 32457 | [32457-hardware-engineers.json](./32457-hardware-engineers.json) |
 | Hardway Party | 102197 | [102197-hardway-party.json](./102197-hardway-party.json) |
 | Hare | 83584 | [83584-hare.json](./83584-hare.json) |
 | Hare Nochi Oosawagi! | 257668 | [257668-hare-nochi-oosawagi.json](./257668-hare-nochi-oosawagi.json) |
@@ -701,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hijack | 13005 | [13005-hijack.json](./13005-hijack.json) |
 | Hikari! Love Potion | 128006 | [128006-hikari-love-potion.json](./128006-hikari-love-potion.json) |
 | Hikeback | 176492 | [176492-hikeback.json](./176492-hikeback.json) |
+| Hikikomori No Chuunibyou | 32072 | [32072-hikikomori-no-chuunibyou.json](./32072-hikikomori-no-chuunibyou.json) |
 | Hillbilly Apocalypse | 111709 | [111709-hillbilly-apocalypse.json](./111709-hillbilly-apocalypse.json) |
 | Hills & Hollows | 141876 | [141876-hills-and-hollows.json](./141876-hills-and-hollows.json) |
 | Hilltop Hotrods | 233231 | [233231-hilltop-hotrods.json](./233231-hilltop-hotrods.json) |
