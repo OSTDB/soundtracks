@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Hot Pursuit | 264364 | [264364-need-for-speed-hot-pursuit.json](./264364-need-for-speed-hot-pursuit.json) |
 | Need for Speed: Most Wanted | 210161 | [210161-need-for-speed-most-wanted.json](./210161-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted | 243048 | [243048-need-for-speed-most-wanted.json](./243048-need-for-speed-most-wanted.json) |
+| Need for Speed: Most Wanted | 248206 | [248206-need-for-speed-most-wanted.json](./248206-need-for-speed-most-wanted.json) |
 | Need for Speed: Porsche Unleashed | 94 | [94-need-for-speed-porsche-unleashed.json](./94-need-for-speed-porsche-unleashed.json) |
 | Need for Speed: ProStreet | 240505 | [240505-need-for-speed-prostreet.json](./240505-need-for-speed-prostreet.json) |
 | Need for Speed: Unbound | 219442 | [219442-need-for-speed-unbound.json](./219442-need-for-speed-unbound.json) |
@@ -242,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Abyss | 116100 | [116100-neon-abyss.json](./116100-neon-abyss.json) |
 | Neon Abyss 2 | 325279 | [325279-neon-abyss-2.json](./325279-neon-abyss-2.json) |
 | Neon Baller 0.1 | 151706 | [151706-neon-baller-0-1.json](./151706-neon-baller-0-1.json) |
+| Neon Blood | 223443 | [223443-neon-blood.json](./223443-neon-blood.json) |
 | Neon Brood | 99599 | [99599-neon-brood.json](./99599-neon-brood.json) |
 | Neon Cyborg Cat Club | 148533 | [148533-neon-cyborg-cat-club.json](./148533-neon-cyborg-cat-club.json) |
 | Neon Defenders Premium Defense | 200156 | [200156-neon-defenders-premium-defense.json](./200156-neon-defenders-premium-defense.json) |
