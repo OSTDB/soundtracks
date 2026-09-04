@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Runner | 130961 | [130961-groove-runner.json](./130961-groove-runner.json) |
 | Grooverland | 230547 | [230547-grooverland.json](./230547-grooverland.json) |
 | Grordbattle | 116386 | [116386-grordbattle.json](./116386-grordbattle.json) |
+| Grotesque Tactics: Evil Heroes | 18914 | [18914-grotesque-tactics-evil-heroes.json](./18914-grotesque-tactics-evil-heroes.json) |
 | Ground Attack | 84255 | [84255-ground-attack.json](./84255-ground-attack.json) |
 | Ground Force Zero | 71550 | [71550-ground-force-zero.json](./71550-ground-force-zero.json) |
 | Ground Under | 112994 | [112994-ground-under.json](./112994-ground-under.json) |
