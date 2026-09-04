@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimhaven: The Lost Source | 253578 | [253578-dimhaven-the-lost-source.json](./253578-dimhaven-the-lost-source.json) |
 | Dimwarper | 215884 | [215884-dimwarper.json](./215884-dimwarper.json) |
 | Dine Together | 205238 | [205238-dine-together.json](./205238-dine-together.json) |
+| Diner Bros | 97040 | [97040-diner-bros.json](./97040-diner-bros.json) |
 | Diner Dash 2: Restaurant Rescue | 78690 | [78690-diner-dash-2-restaurant-rescue.json](./78690-diner-dash-2-restaurant-rescue.json) |
 | Diner Dash Mobile | 104663 | [104663-diner-dash-mobile.json](./104663-diner-dash-mobile.json) |
 | DingDingDing | 109719 | [109719-dingdingding.json](./109719-dingdingding.json) |
@@ -1171,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomworld Roulette: Session 2 | 312909 | [312909-doomworld-roulette-session-2.json](./312909-doomworld-roulette-session-2.json) |
 | Doon Snake | 87218 | [87218-doon-snake.json](./87218-doon-snake.json) |
 | Dooors VR | 29947 | [29947-dooors-vr.json](./29947-dooors-vr.json) |
+| Door | 103457 | [103457-door.json](./103457-door.json) |
 | Dooria | 158231 | [158231-dooria.json](./158231-dooria.json) |
 | Doors | 168388 | [168388-doors.json](./168388-doors.json) |
 | Doors and Doors | 244498 | [244498-doors-and-doors.json](./244498-doors-and-doors.json) |
