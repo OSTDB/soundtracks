@@ -431,7 +431,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esper Girls | 265925 | [265925-esper-girls.json](./265925-esper-girls.json) |
 | Espial | 23932 | [23932-espial.json](./23932-espial.json) |
 | Espire 1: Sydney Sneakabouts Mission Pack | 305520 | [305520-espire-1-sydney-sneakabouts-mission-pack.json](./305520-espire-1-sydney-sneakabouts-mission-pack.json) |
+| ESPN College Hoops | 5823 | [5823-espn-college-hoops.json](./5823-espn-college-hoops.json) |
+| ESPN College Hoops 2K5 | 5824 | [5824-espn-college-hoops-2k5.json](./5824-espn-college-hoops-2k5.json) |
 | ESPN NBA 2Night | 78678 | [78678-espn-nba-2night.json](./78678-espn-nba-2night.json) |
+| ESPN NHL 2K5 | 5826 | [5826-espn-nhl-2k5.json](./5826-espn-nhl-2k5.json) |
 | ESPNU College Town | 93571 | [93571-espnu-college-town.json](./93571-espnu-college-town.json) |
 | Esport Club Tycoon | 197370 | [197370-esport-club-tycoon.json](./197370-esport-club-tycoon.json) |
 | Essence Child | 260967 | [260967-essence-child.json](./260967-essence-child.json) |
