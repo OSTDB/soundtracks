@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven Keepers | 192941 | [192941-heaven-keepers.json](./192941-heaven-keepers.json) |
 | Heaven's Door | 231057 | [231057-heavens-door.json](./231057-heavens-door.json) |
 | Heavenly Hammer | 173820 | [173820-heavenly-hammer.json](./173820-heavenly-hammer.json) |
+| Heavenly Sword | 7318 | [7318-heavenly-sword.json](./7318-heavenly-sword.json) |
 | Heavy Fire: Black Arms | 65497 | [65497-heavy-fire-black-arms.json](./65497-heavy-fire-black-arms.json) |
 | Heavy Gear III | 100191 | [100191-heavy-gear-iii.json](./100191-heavy-gear-iii.json) |
 | Heavy Hearts | 219825 | [219825-heavy-hearts.json](./219825-heavy-hearts.json) |
