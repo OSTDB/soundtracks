@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deadlands | 257689 | [257689-the-deadlands.json](./257689-the-deadlands.json) |
 | The Deadly Cursed Enjmin Steamroller in: The Bloody Killing on Wheel in the Atrium | 227468 | [227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json](./227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json) |
 | The Death of Fo-gu | 321127 | [321127-the-death-of-fo-gu.json](./321127-the-death-of-fo-gu.json) |
+| The Deed II | 122623 | [122623-the-deed-ii.json](./122623-the-deed-ii.json) |
 | The Deep | 169464 | [169464-the-deep.json](./169464-the-deep.json) |
 | The Deep Deep | 123073 | [123073-the-deep-deep.json](./123073-the-deep-deep.json) |
 | The Deep Ones | 246118 | [246118-the-deep-ones.json](./246118-the-deep-ones.json) |
@@ -1425,6 +1426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Other Side | 178673 | [178673-the-other-side.json](./178673-the-other-side.json) |
 | The Other Side | 308545 | [308545-the-other-side.json](./308545-the-other-side.json) |
 | The other side: My own horror | 161402 | [161402-the-other-side-my-own-horror.json](./161402-the-other-side-my-own-horror.json) |
+| The Otterman Empire | 126964 | [126964-the-otterman-empire.json](./126964-the-otterman-empire.json) |
 | The Ourboros King | 215374 | [215374-the-ourboros-king.json](./215374-the-ourboros-king.json) |
 | The Outcast Lovers | 135899 | [135899-the-outcast-lovers.json](./135899-the-outcast-lovers.json) |
 | The Outer Darkness | 274200 | [274200-the-outer-darkness.json](./274200-the-outer-darkness.json) |
@@ -1531,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Saga of Nino's Transmigration | 120389 | [120389-the-saga-of-ninos-transmigration.json](./120389-the-saga-of-ninos-transmigration.json) |
 | The Salatroitsk Incident | 180807 | [180807-the-salatroitsk-incident.json](./180807-the-salatroitsk-incident.json) |
 | The Sandbox - Building & Craft | 90705 | [90705-the-sandbox-building-and-craft.json](./90705-the-sandbox-building-and-craft.json) |
+| The Sapling | 126479 | [126479-the-sapling.json](./126479-the-sapling.json) |
 | The Savior's Gang | 115049 | [115049-the-saviors-gang.json](./115049-the-saviors-gang.json) |
 | The Scoop | 73816 | [73816-the-scoop.json](./73816-the-scoop.json) |
 | The Scottish Open: Carnoustie Virtual Golf | 68706 | [68706-the-scottish-open-carnoustie-virtual-golf.json](./68706-the-scottish-open-carnoustie-virtual-golf.json) |
@@ -2552,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Gyakumyouran: Ephemeral Unnatural Balance | 246675 | [246675-touhou-gyakumyouran-ephemeral-unnatural-balance.json](./246675-touhou-gyakumyouran-ephemeral-unnatural-balance.json) |
 | Touhou Hakujinki: White Names Spoiled Past | 246674 | [246674-touhou-hakujinki-white-names-spoiled-past.json](./246674-touhou-hakujinki-white-names-spoiled-past.json) |
 | Touhou Haou III | 98454 | [98454-touhou-haou-iii.json](./98454-touhou-haou-iii.json) |
+| Touhou Ibunseki: Ayaria Dawn - ReCreation | 126924 | [126924-touhou-ibunseki-ayaria-dawn-recreation.json](./126924-touhou-ibunseki-ayaria-dawn-recreation.json) |
 | Touhou Jaseishou: The Last Comer | 246672 | [246672-touhou-jaseishou-the-last-comer.json](./246672-touhou-jaseishou-the-last-comer.json) |
 | Touhou Mahoujou: Book of Star Mythology | 246669 | [246669-touhou-mahoujou-book-of-star-mythology.json](./246669-touhou-mahoujou-book-of-star-mythology.json) |
 | Touhou Makuka Sai: Fantastic Danmaku Festival Part III | 331125 | [331125-touhou-makuka-sai-fantastic-danmaku-festival-part-iii.json](./331125-touhou-makuka-sai-fantastic-danmaku-festival-part-iii.json) |
@@ -3130,6 +3134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Mini Golf | 93033 | [93033-twisted-mini-golf.json](./93033-twisted-mini-golf.json) |
 | Twisted Tales: Night night Scarlett | 178653 | [178653-twisted-tales-night-night-scarlett.json](./178653-twisted-tales-night-night-scarlett.json) |
 | Twisted Tangle | 254744 | [254744-twisted-tangle.json](./254744-twisted-tangle.json) |
+| Twists of My Life | 122798 | [122798-twists-of-my-life.json](./122798-twists-of-my-life.json) |
 | Twisty Arrow! | 100880 | [100880-twisty-arrow.json](./100880-twisty-arrow.json) |
 | Twisty Planets Space Puzzle | 83577 | [83577-twisty-planets-space-puzzle.json](./83577-twisty-planets-space-puzzle.json) |
 | Twitchbox | 96052 | [96052-twitchbox.json](./96052-twitchbox.json) |
