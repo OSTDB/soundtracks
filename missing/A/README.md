@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wonder | 75164 | [75164-a-wonder.json](./75164-a-wonder.json) |
 | A-10 Tank Killer Version 1.5 | 15570 | [15570-a-10-tank-killer-version-1-5.json](./15570-a-10-tank-killer-version-1-5.json) |
 | A-Force: Armour Force | 62182 | [62182-a-force-armour-force.json](./62182-a-force-armour-force.json) |
+| A.I.M.2 Clan Wars | 18960 | [18960-a-i-m-2-clan-wars.json](./18960-a-i-m-2-clan-wars.json) |
 | A.R.M: Absolutely Reliable Machine | 132259 | [132259-a-r-m-absolutely-reliable-machine.json](./132259-a-r-m-absolutely-reliable-machine.json) |
 | A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
 | A.S.P.: Air Strike Patrol | 42662 | [42662-a-s-p-air-strike-patrol.json](./42662-a-s-p-air-strike-patrol.json) |
@@ -372,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Story | 265404 | [265404-adventure-story.json](./265404-adventure-story.json) |
 | Adventure Time: Finn and Jake Investigations | 11320 | [11320-adventure-time-finn-and-jake-investigations.json](./11320-adventure-time-finn-and-jake-investigations.json) |
 | Adventure Time: Legends of Ooo - Big Hollow Princess | 64970 | [64970-adventure-time-legends-of-ooo-big-hollow-princess.json](./64970-adventure-time-legends-of-ooo-big-hollow-princess.json) |
+| Adventure Time: Magic Man's Head Games | 19053 | [19053-adventure-time-magic-mans-head-games.json](./19053-adventure-time-magic-mans-head-games.json) |
 | Adventure Value Pack #3 | 78679 | [78679-adventure-value-pack-3.json](./78679-adventure-value-pack-3.json) |
 | Adventure Word: Around the World | 275890 | [275890-adventure-word-around-the-world.json](./275890-adventure-word-around-the-world.json) |
 | Adventure Workshop 4th-6th Grade 5th Edition | 72114 | [72114-adventure-workshop-4th-6th-grade-5th-edition.json](./72114-adventure-workshop-4th-6th-grade-5th-edition.json) |
@@ -872,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amidar | 11116 | [11116-amidar.json](./11116-amidar.json) |
 | Amidst The Haze | 278677 | [278677-amidst-the-haze.json](./278677-amidst-the-haze.json) |
 | Amiga CD Football | 39037 | [39037-amiga-cd-football.json](./39037-amiga-cd-football.json) |
+| Amigdala | 19043 | [19043-amigdala.json](./19043-amigdala.json) |
 | Amigo | 92505 | [92505-amigo.json](./92505-amigo.json) |
 | Amigo Pancho 2 | 331149 | [331149-amigo-pancho-2.json](./331149-amigo-pancho-2.json) |
 | Amina's Kitchen | 91980 | [91980-aminas-kitchen.json](./91980-aminas-kitchen.json) |
@@ -1377,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Core VI: Fires of Rubicon - Launch Edition | 248296 | [248296-armored-core-vi-fires-of-rubicon-launch-edition.json](./248296-armored-core-vi-fires-of-rubicon-launch-edition.json) |
 | Armored Core: For Answer | 5493 | [5493-armored-core-for-answer.json](./5493-armored-core-for-answer.json) |
 | Armored Core: Formula Front - Extreme Battle | 46022 | [46022-armored-core-formula-front-extreme-battle.json](./46022-armored-core-formula-front-extreme-battle.json) |
+| Armored Core: Last Raven | 19410 | [19410-armored-core-last-raven.json](./19410-armored-core-last-raven.json) |
 | Armored Heroes | 242204 | [242204-armored-heroes.json](./242204-armored-heroes.json) |
 | Armored Patrol | 55932 | [55932-armored-patrol.json](./55932-armored-patrol.json) |
 | Armored Squad | 83557 | [83557-armored-squad.json](./83557-armored-squad.json) |
@@ -1686,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atum | 128624 | [128624-atum.json](./128624-atum.json) |
 | ATV Madness | 88324 | [88324-atv-madness.json](./88324-atv-madness.json) |
 | ATV Thunder Ridge Riders | 49369 | [49369-atv-thunder-ridge-riders.json](./49369-atv-thunder-ridge-riders.json) |
+| Audioshield | 18981 | [18981-audioshield.json](./18981-audioshield.json) |
 | Audition Portable | 56520 | [56520-audition-portable.json](./56520-audition-portable.json) |
 | Audrey & Alexis | 100816 | [100816-audrey-and-alexis.json](./100816-audrey-and-alexis.json) |
 | Augmented Fourth | 60028 | [60028-augmented-fourth.json](./60028-augmented-fourth.json) |
