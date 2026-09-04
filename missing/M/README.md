@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Defence | 235997 | [235997-medieval-defence.json](./235997-medieval-defence.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Emperor Edition | 315870 | [315870-medieval-fantasy-jigsaw-puzzle-emperor-edition.json](./315870-medieval-fantasy-jigsaw-puzzle-emperor-edition.json) |
 | Medieval II: Total War | 440 | [440-medieval-ii-total-war.json](./440-medieval-ii-total-war.json) |
+| Medieval II: Total War - Gold Edition | 28983 | [28983-medieval-ii-total-war-gold-edition.json](./28983-medieval-ii-total-war-gold-edition.json) |
 | Medieval Kingdom Wars: Prologue | 266471 | [266471-medieval-kingdom-wars-prologue.json](./266471-medieval-kingdom-wars-prologue.json) |
 | Medieval Lords: Soldier Kings of Europe | 69876 | [69876-medieval-lords-soldier-kings-of-europe.json](./69876-medieval-lords-soldier-kings-of-europe.json) |
 | Medieval Masters Collection | 131581 | [131581-medieval-masters-collection.json](./131581-medieval-masters-collection.json) |
@@ -713,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melvor Idle: Atlas of Discovery | 259837 | [259837-melvor-idle-atlas-of-discovery.json](./259837-melvor-idle-atlas-of-discovery.json) |
 | Meme Barley-Break | 112351 | [112351-meme-barley-break.json](./112351-meme-barley-break.json) |
 | Memento | 33176 | [33176-memento.json](./33176-memento.json) |
+| Memento Mori | 28231 | [28231-memento-mori.json](./28231-memento-mori.json) |
 | Memento Vivere | 161355 | [161355-memento-vivere.json](./161355-memento-vivere.json) |
 | MemGame | 128641 | [128641-memgame.json](./128641-memgame.json) |
 | Memo Blox | 304373 | [304373-memo-blox.json](./304373-memo-blox.json) |
@@ -1040,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Sweeper | 252359 | [252359-mine-sweeper.json](./252359-mine-sweeper.json) |
 | Mine The Diamond | 245005 | [245005-mine-the-diamond.json](./245005-mine-the-diamond.json) |
 | Minecart Madness | 188687 | [188687-minecart-madness.json](./188687-minecart-madness.json) |
+| Minecraft Education | 28407 | [28407-minecraft-education.json](./28407-minecraft-education.json) |
 | Minecraft Triple Bundle | 334490 | [334490-minecraft-triple-bundle.json](./334490-minecraft-triple-bundle.json) |
 | Minecraft vs. Zombies 2 | 273112 | [273112-minecraft-vs-zombies-2.json](./273112-minecraft-vs-zombies-2.json) |
 | Minecraft: 10 Years Of Minecraft | 322956 | [322956-minecraft-10-years-of-minecraft.json](./322956-minecraft-10-years-of-minecraft.json) |
