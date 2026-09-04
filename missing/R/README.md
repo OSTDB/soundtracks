@@ -917,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockstar Alien Killers | 102796 | [102796-rockstar-alien-killers.json](./102796-rockstar-alien-killers.json) |
 | Rockstar! | 78693 | [78693-rockstar.json](./78693-rockstar.json) |
 | Rocky Climb | 96085 | [96085-rocky-climb.json](./96085-rocky-climb.json) |
+| Rocky Legends | 6016 | [6016-rocky-legends.json](./6016-rocky-legends.json) |
 | Rocky Mountain: Trophy Hunter | 49946 | [49946-rocky-mountain-trophy-hunter.json](./49946-rocky-mountain-trophy-hunter.json) |
 | Rocky Rodent | 42648 | [42648-rocky-rodent.json](./42648-rocky-rodent.json) |
 | Rocococo: Audiogame Fantastique | 258700 | [258700-rocococo-audiogame-fantastique.json](./258700-rocococo-audiogame-fantastique.json) |
@@ -1228,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryan's Pack | 131602 | [131602-ryans-pack.json](./131602-ryans-pack.json) |
 | Ryan's Rescue Squad | 185704 | [185704-ryans-rescue-squad.json](./185704-ryans-rescue-squad.json) |
 | Rygar | 6856 | [6856-rygar.json](./6856-rygar.json) |
+| Rygar: The Legendary Adventure | 5134 | [5134-rygar-the-legendary-adventure.json](./5134-rygar-the-legendary-adventure.json) |
 | Ryojyoku Damashii: Ero Kenkyaku Den | 97367 | [97367-ryojyoku-damashii-ero-kenkyaku-den.json](./97367-ryojyoku-damashii-ero-kenkyaku-den.json) |
 | Rysen Dawn | 174899 | [174899-rysen-dawn.json](./174899-rysen-dawn.json) |
 | Rystel | 151723 | [151723-rystel.json](./151723-rystel.json) |
