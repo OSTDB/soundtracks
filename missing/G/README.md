@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield's Escape | 63869 | [63869-garfields-escape.json](./63869-garfields-escape.json) |
 | Garfield's Gem | 63861 | [63861-garfields-gem.json](./63861-garfields-gem.json) |
 | Garin Game: Curse of Revival Ceremony | 214747 | [214747-garin-game-curse-of-revival-ceremony.json](./214747-garin-game-curse-of-revival-ceremony.json) |
+| Garn47 | 300792 | [300792-garn47.json](./300792-garn47.json) |
 | Garnet Cradle | 221412 | [221412-garnet-cradle.json](./221412-garnet-cradle.json) |
 | Gartic on Stream | 185152 | [185152-gartic-on-stream.json](./185152-gartic-on-stream.json) |
 | Garukilla | 92508 | [92508-garukilla.json](./92508-garukilla.json) |
@@ -687,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy: Relink - Character Expansion Set: Tweyen | 309641 | [309641-granblue-fantasy-relink-character-expansion-set-tweyen.json](./309641-granblue-fantasy-relink-character-expansion-set-tweyen.json) |
 | Granblue Fantasy: Relink - Color Pack 4 | 309640 | [309640-granblue-fantasy-relink-color-pack-4.json](./309640-granblue-fantasy-relink-color-pack-4.json) |
 | Grand Casino | 295032 | [295032-grand-casino.json](./295032-grand-casino.json) |
+| Grand Chase Classic | 166856 | [166856-grand-chase-classic.json](./166856-grand-chase-classic.json) |
 | Grand City Car Driving | 219808 | [219808-grand-city-car-driving.json](./219808-grand-city-car-driving.json) |
 | Grand Dad Overthrows Bowser | 238208 | [238208-grand-dad-overthrows-bowser.json](./238208-grand-dad-overthrows-bowser.json) |
 | Grand Gate | 208601 | [208601-grand-gate.json](./208601-grand-gate.json) |
@@ -852,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Big (or Go Home) | 141221 | [141221-grow-big-or-go-home.json](./141221-grow-big-or-go-home.json) |
 | Grow Up | 19552 | [19552-grow-up.json](./19552-grow-up.json) |
 | Grow Your Guarden | 263794 | [263794-grow-your-guarden.json](./263794-grow-your-guarden.json) |
+| Grow: Song of the Evertree | 151673 | [151673-grow-song-of-the-evertree.json](./151673-grow-song-of-the-evertree.json) |
 | Growbots: Battle Academy | 161386 | [161386-growbots-battle-academy.json](./161386-growbots-battle-academy.json) |
 | Grumpy Witch | 115015 | [115015-grumpy-witch.json](./115015-grumpy-witch.json) |
 | GrundHeim | 235969 | [235969-grundheim.json](./235969-grundheim.json) |
