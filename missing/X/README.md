@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenopathy | 183043 | [183043-xenopathy.json](./183043-xenopathy.json) |
 | Xenosaga II to III: A Missing Year | 240497 | [240497-xenosaga-ii-to-iii-a-missing-year.json](./240497-xenosaga-ii-to-iii-a-missing-year.json) |
 | Xenowar | 70390 | [70390-xenowar.json](./70390-xenowar.json) |
+| Xeodrifter | 8506 | [8506-xeodrifter.json](./8506-xeodrifter.json) |
 | Xerd no Densetsu | 298848 | [298848-xerd-no-densetsu.json](./298848-xerd-no-densetsu.json) |
 | Xerd no Densetsu 2: Xerd!! Gishin no Ryouiki | 298851 | [298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json](./298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json) |
 | Xevorel: The Way Of The Feather | 129215 | [129215-xevorel-the-way-of-the-feather.json](./129215-xevorel-the-way-of-the-feather.json) |
