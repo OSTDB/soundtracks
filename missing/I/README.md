@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasão | 299473 | [299473-invasao.json](./299473-invasao.json) |
 | Invasion Eternity | 258218 | [258218-invasion-eternity.json](./258218-invasion-eternity.json) |
 | Invasion Force | 85518 | [85518-invasion-force.json](./85518-invasion-force.json) |
+| Invector: Rhythm Galaxy - Latin Power Song Pack | 265249 | [265249-invector-rhythm-galaxy-latin-power-song-pack.json](./265249-invector-rhythm-galaxy-latin-power-song-pack.json) |
 | Invention 6 | 340759 | [340759-invention-6.json](./340759-invention-6.json) |
 | Invention 7 | 340760 | [340760-invention-7.json](./340760-invention-7.json) |
 | Inventor Labs | 94242 | [94242-inventor-labs.json](./94242-inventor-labs.json) |
