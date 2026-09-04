@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himei Dam | 324703 | [324703-himei-dam.json](./324703-himei-dam.json) |
 | Himemiya-san wa Kamaitai: Limited Edition | 205264 | [205264-himemiya-san-wa-kamaitai-limited-edition.json](./205264-himemiya-san-wa-kamaitai-limited-edition.json) |
 | Hinomaruko | 122404 | [122404-hinomaruko.json](./122404-hinomaruko.json) |
+| Hinterland: Orc Lords | 24996 | [24996-hinterland-orc-lords.json](./24996-hinterland-orc-lords.json) |
 | Hiouden | 38384 | [38384-hiouden.json](./38384-hiouden.json) |
 | Hippo Doctor: Hospital Laboratory | 105946 | [105946-hippo-doctor-hospital-laboratory.json](./105946-hippo-doctor-hospital-laboratory.json) |
 | Hippo Eating Banana | 220835 | [220835-hippo-eating-banana.json](./220835-hippo-eating-banana.json) |
@@ -820,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hose Hero | 314032 | [314032-hose-hero.json](./314032-hose-hero.json) |
 | Hoshi & Ishi | 76673 | [76673-hoshi-and-ishi.json](./76673-hoshi-and-ishi.json) |
 | Hoshi no Kakera no Monogatari. Shikake-ban | 220328 | [220328-hoshi-no-kakera-no-monogatari-shikake-ban.json](./220328-hoshi-no-kakera-no-monogatari-shikake-ban.json) |
+| Hoshi wo Miru Hito | 25016 | [25016-hoshi-wo-miru-hito.json](./25016-hoshi-wo-miru-hito.json) |
 | Hoshi wo Miru Hito: Bad Ebuna Patch 2 | 269869 | [269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json](./269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json) |
 | Hoshizora no Memoria: Wish Upon a Shooting Star HD | 312361 | [312361-hoshizora-no-memoria-wish-upon-a-shooting-star-hd.json](./312361-hoshizora-no-memoria-wish-upon-a-shooting-star-hd.json) |
 | Hospice | 55161 | [55161-hospice.json](./55161-hospice.json) |
