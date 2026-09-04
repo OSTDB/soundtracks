@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Quintet: Limited Edition | 166239 | [166239-omega-quintet-limited-edition.json](./166239-omega-quintet-limited-edition.json) |
 | Omega Strikers: Season 2 - Summer Splash | 260971 | [260971-omega-strikers-season-2-summer-splash.json](./260971-omega-strikers-season-2-summer-splash.json) |
 | OmegaBot | 154001 | [154001-omegabot.json](./154001-omegabot.json) |
+| Omegalodon | 16637 | [16637-omegalodon.json](./16637-omegalodon.json) |
 | Omen Fall | 251805 | [251805-omen-fall.json](./251805-omen-fall.json) |
 | OMG HD Zombies! | 52643 | [52643-omg-hd-zombies.json](./52643-omg-hd-zombies.json) |
 | Omi Oh My AI | 215393 | [215393-omi-oh-my-ai.json](./215393-omi-oh-my-ai.json) |
@@ -245,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onaji | 174335 | [174335-onaji.json](./174335-onaji.json) |
 | Onanigan | 181383 | [181383-onanigan.json](./181383-onanigan.json) |
 | Once a Porn a Time | 216980 | [216980-once-a-porn-a-time.json](./216980-once-a-porn-a-time.json) |
+| Once Chance | 16755 | [16755-once-chance.json](./16755-once-chance.json) |
 | Once in Flowerlake | 190188 | [190188-once-in-flowerlake.json](./190188-once-in-flowerlake.json) |
 | Once in my Head | 192966 | [192966-once-in-my-head.json](./192966-once-in-my-head.json) |
 | Once Inside | 181368 | [181368-once-inside.json](./181368-once-inside.json) |
@@ -379,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Pill | 199098 | [199098-operation-pill.json](./199098-operation-pill.json) |
 | Operation Remode | 333354 | [333354-operation-remode.json](./333354-operation-remode.json) |
 | Operation Steel | 151732 | [151732-operation-steel.json](./151732-operation-steel.json) |
+| Operation Wolf Returns: First Mission | 218213 | [218213-operation-wolf-returns-first-mission.json](./218213-operation-wolf-returns-first-mission.json) |
 | Operation: Hostage Rescue | 337987 | [337987-operation-hostage-rescue.json](./337987-operation-hostage-rescue.json) |
 | Operation: Ops | 184651 | [184651-operation-ops.json](./184651-operation-ops.json) |
 | Operation: Thunder | 91403 | [91403-operation-thunder.json](./91403-operation-thunder.json) |
