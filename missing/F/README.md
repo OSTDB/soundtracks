@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-Zero X Climax | 135258 | [135258-f-zero-x-climax.json](./135258-f-zero-x-climax.json) |
 | F/A-18 Hornet 2.0 | 47295 | [47295-f-a-18-hornet-2-0.json](./47295-f-a-18-hornet-2-0.json) |
 | F1 2019 | 116667 | [116667-f1-2019.json](./116667-f1-2019.json) |
+| F1 22 | 198200 | [198200-f1-22.json](./198200-f1-22.json) |
 | F1 Circus MD | 125458 | [125458-f1-circus-md.json](./125458-f1-circus-md.json) |
 | F1 Online: The Game | 92512 | [92512-f1-online-the-game.json](./92512-f1-online-the-game.json) |
 | F1 Pole Position 64 | 3494 | [3494-f1-pole-position-64.json](./3494-f1-pole-position-64.json) |
@@ -266,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Delivery | 323530 | [323530-fatal-delivery.json](./323530-fatal-delivery.json) |
 | Fatal Evidence: Cursed Island - Collector's Edition | 119038 | [119038-fatal-evidence-cursed-island-collectors-edition.json](./119038-fatal-evidence-cursed-island-collectors-edition.json) |
 | Fatal Frame | 321739 | [321739-fatal-frame.json](./321739-fatal-frame.json) |
+| Fatal Fury | 71128 | [71128-fatal-fury.json](./71128-fatal-fury.json) |
 | Fatal Gem VR | 30863 | [30863-fatal-gem-vr.json](./30863-fatal-gem-vr.json) |
 | Fatal Heritage | 75150 | [75150-fatal-heritage.json](./75150-fatal-heritage.json) |
 | Fatal Seduction | 63871 | [63871-fatal-seduction.json](./63871-fatal-seduction.json) |
