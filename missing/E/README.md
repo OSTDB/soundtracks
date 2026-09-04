@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Essence of Waluigi | 250044 | [250044-essence-of-waluigi.json](./250044-essence-of-waluigi.json) |
 | Esten | 186291 | [186291-esten.json](./186291-esten.json) |
 | Estigma | 142497 | [142497-estigma.json](./142497-estigma.json) |
+| Estra | 13711 | [13711-estra.json](./13711-estra.json) |
 | ET Superman: Wrath of Tyrannosaurus Rex | 195258 | [195258-et-superman-wrath-of-tyrannosaurus-rex.json](./195258-et-superman-wrath-of-tyrannosaurus-rex.json) |
 | eTabu | 23909 | [23909-etabu.json](./23909-etabu.json) |
 | Eternal Destiny | 251215 | [251215-eternal-destiny.json](./251215-eternal-destiny.json) |
