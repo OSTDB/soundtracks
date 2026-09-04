@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zorro | 81431 | [81431-zorro.json](./81431-zorro.json) |
 | ZorroMoro | 119796 | [119796-zorromoro.json](./119796-zorromoro.json) |
 | Zorse | 328256 | [328256-zorse.json](./328256-zorse.json) |
+| Zort | 309176 | [309176-zort.json](./309176-zort.json) |
 | Zort 9 | 274227 | [274227-zort-9.json](./274227-zort-9.json) |
 | Zotenhold | 236498 | [236498-zotenhold.json](./236498-zotenhold.json) |
 | Zotto suru Kowai Toshi Densetsu | 252406 | [252406-zotto-suru-kowai-toshi-densetsu.json](./252406-zotto-suru-kowai-toshi-densetsu.json) |
