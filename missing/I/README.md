@@ -312,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industry Giant 2 HD | 53229 | [53229-industry-giant-2-hd.json](./53229-industry-giant-2-hd.json) |
 | Indy Cat and Ball of Fate | 59449 | [59449-indy-cat-and-ball-of-fate.json](./59449-indy-cat-and-ball-of-fate.json) |
 | IndyCar Racing II | 71514 | [71514-indycar-racing-ii.json](./71514-indycar-racing-ii.json) |
+| IndyCar Series | 5866 | [5866-indycar-series.json](./5866-indycar-series.json) |
 | Infamous: First Light | 7328 | [7328-infamous-first-light.json](./7328-infamous-first-light.json) |
 | Infected run to Survive: Zombie Apocalypse Survival Story Shooter Dead Cry | 231078 | [231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json](./231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json) |
 | Infection | 142474 | [142474-infection.json](./142474-infection.json) |
@@ -469,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Soccer | 201305 | [201305-international-soccer.json](./201305-international-soccer.json) |
 | International Super Karts | 43332 | [43332-international-super-karts.json](./43332-international-super-karts.json) |
 | International Superstar Soccer 2000 | 220857 | [220857-international-superstar-soccer-2000.json](./220857-international-superstar-soccer-2000.json) |
+| International Superstar Soccer 3 | 3958 | [3958-international-superstar-soccer-3.json](./3958-international-superstar-soccer-3.json) |
 | International Track & Field 2000 | 3517 | [3517-international-track-and-field-2000.json](./3517-international-track-and-field-2000.json) |
 | International Volleyball 2004 | 204700 | [204700-international-volleyball-2004.json](./204700-international-volleyball-2004.json) |
 | Interphase | 129210 | [129210-interphase.json](./129210-interphase.json) |
