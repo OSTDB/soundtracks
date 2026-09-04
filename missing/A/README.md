@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether Singularity | 312381 | [312381-aether-singularity.json](./312381-aether-singularity.json) |
 | Aether: Wizard Life | 235487 | [235487-aether-wizard-life.json](./235487-aether-wizard-life.json) |
 | Aethyr | 142476 | [142476-aethyr.json](./142476-aethyr.json) |
+| AEW: Fight Forever | 145216 | [145216-aew-fight-forever.json](./145216-aew-fight-forever.json) |
 | Affectus | 146347 | [146347-affectus.json](./146347-affectus.json) |
 | AFK Heroes | 194034 | [194034-afk-heroes.json](./194034-afk-heroes.json) |
 | AFK Summoner | 179206 | [179206-afk-summoner.json](./179206-afk-summoner.json) |
@@ -853,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amy Adventure | 331108 | [331108-amy-adventure.json](./331108-amy-adventure.json) |
 | Amygdala: Prelude | 269284 | [269284-amygdala-prelude.json](./269284-amygdala-prelude.json) |
 | An Alien with a Magnet HD | 90682 | [90682-an-alien-with-a-magnet-hd.json](./90682-an-alien-with-a-magnet-hd.json) |
+| An Alt Girl for Skoof | 298835 | [298835-an-alt-girl-for-skoof.json](./298835-an-alt-girl-for-skoof.json) |
 | An Architect's Adventure | 211403 | [211403-an-architects-adventure.json](./211403-an-architects-adventure.json) |
 | An Elmwood Trail | 243410 | [243410-an-elmwood-trail.json](./243410-an-elmwood-trail.json) |
 | An Unnamed Jumping Game | 321750 | [321750-an-unnamed-jumping-game.json](./321750-an-unnamed-jumping-game.json) |
@@ -1573,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlus Collaboration Costume Set | 333387 | [333387-atlus-collaboration-costume-set.json](./333387-atlus-collaboration-costume-set.json) |
 | Atom Run | 61123 | [61123-atom-run.json](./61123-atom-run.json) |
 | Atomaders | 94264 | [94264-atomaders.json](./94264-atomaders.json) |
+| Atomic Heart: Enchantment Under the Sea | 325107 | [325107-atomic-heart-enchantment-under-the-sea.json](./325107-atomic-heart-enchantment-under-the-sea.json) |
 | Atomic Rock Paper Scissors | 180830 | [180830-atomic-rock-paper-scissors.json](./180830-atomic-rock-paper-scissors.json) |
 | Atomicrops: Deluxe Edition | 154542 | [154542-atomicrops-deluxe-edition.json](./154542-atomicrops-deluxe-edition.json) |
 | Atomix | 308566 | [308566-atomix.json](./308566-atomix.json) |
