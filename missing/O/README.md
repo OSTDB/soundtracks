@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Racer | 213045 | [213045-office-racer.json](./213045-office-racer.json) |
 | Office Rivals | 332266 | [332266-office-rivals.json](./332266-office-rivals.json) |
 | Office Simulator | 326392 | [326392-office-simulator.json](./326392-office-simulator.json) |
+| Officers | 21119 | [21119-officers.json](./21119-officers.json) |
 | Offline | 216977 | [216977-offline.json](./216977-offline.json) |
 | Offline Games | 336389 | [336389-offline-games.json](./336389-offline-games.json) |
 | Offroad Delivery Service | 216979 | [216979-offroad-delivery-service.json](./216979-offroad-delivery-service.json) |
@@ -154,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ollie Ollie Oxen Free | 60010 | [60010-ollie-ollie-oxen-free.json](./60010-ollie-ollie-oxen-free.json) |
 | OlliOlli: Epic Combo Edition | 46025 | [46025-olliolli-epic-combo-edition.json](./46025-olliolli-epic-combo-edition.json) |
 | Olobollo | 156138 | [156138-olobollo.json](./156138-olobollo.json) |
+| Olympia Rising | 17311 | [17311-olympia-rising.json](./17311-olympia-rising.json) |
 | Olympic Basketball | 147463 | [147463-olympic-basketball.json](./147463-olympic-basketball.json) |
 | Olympic Decathlon | 178060 | [178060-olympic-decathlon.json](./178060-olympic-decathlon.json) |
 | Om Nom Solitaire | 183608 | [183608-om-nom-solitaire.json](./183608-om-nom-solitaire.json) |
@@ -177,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omegalodon | 16637 | [16637-omegalodon.json](./16637-omegalodon.json) |
 | Omen Fall | 251805 | [251805-omen-fall.json](./251805-omen-fall.json) |
 | OMG HD Zombies! | 52643 | [52643-omg-hd-zombies.json](./52643-omg-hd-zombies.json) |
+| OMG-Z | 20633 | [20633-omg-z.json](./20633-omg-z.json) |
 | Omi Oh My AI | 215393 | [215393-omi-oh-my-ai.json](./215393-omi-oh-my-ai.json) |
 | Omikron: The Nomad Soul | 1982 | [1982-omikron-the-nomad-soul.json](./1982-omikron-the-nomad-soul.json) |
 | Ominous | 273126 | [273126-ominous.json](./273126-ominous.json) |
@@ -442,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oretachi ni Tsubasa wa Nai -Prelude- | 60572 | [60572-oretachi-ni-tsubasa-wa-nai-prelude.json](./60572-oretachi-ni-tsubasa-wa-nai-prelude.json) |
 | Organ Quarter Pre-Alpha Demo | 30909 | [30909-organ-quarter-pre-alpha-demo.json](./30909-organ-quarter-pre-alpha-demo.json) |
 | Organic Panic | 36418 | [36418-organic-panic.json](./36418-organic-panic.json) |
+| Orgarhythm | 21009 | [21009-orgarhythm.json](./21009-orgarhythm.json) |
 | Oriental Blue: Ao no Tengai | 49414 | [49414-oriental-blue-ao-no-tengai.json](./49414-oriental-blue-ao-no-tengai.json) |
 | Oriental Empires | 35526 | [35526-oriental-empires.json](./35526-oriental-empires.json) |
 | Oriental Empires: Three Kingdoms | 154558 | [154558-oriental-empires-three-kingdoms.json](./154558-oriental-empires-three-kingdoms.json) |
