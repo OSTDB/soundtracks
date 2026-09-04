@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Challenge | 49957 | [49957-nascar-challenge.json](./49957-nascar-challenge.json) |
 | NASCAR Heat | 49956 | [49956-nascar-heat.json](./49956-nascar-heat.json) |
 | Nascar Web Racing | 209153 | [209153-nascar-web-racing.json](./209153-nascar-web-racing.json) |
+| NASCAR: Dirt to Daytona | 2898 | [2898-nascar-dirt-to-daytona.json](./2898-nascar-dirt-to-daytona.json) |
 | Naser: Son of Man | 138240 | [138240-naser-son-of-man.json](./138240-naser-son-of-man.json) |
 | Nashijiru Action! Funassyi no Yukai na Ohanassyi | 222508 | [222508-nashijiru-action-funassyi-no-yukai-na-ohanassyi.json](./222508-nashijiru-action-funassyi-no-yukai-na-ohanassyi.json) |
 | NASL Soccer | 5688 | [5688-nasl-soccer.json](./5688-nasl-soccer.json) |
@@ -534,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Wars: Battle Simulator | 320526 | [320526-ninja-wars-battle-simulator.json](./320526-ninja-wars-battle-simulator.json) |
 | Ninja Warz | 314669 | [314669-ninja-warz.json](./314669-ninja-warz.json) |
 | Ninja's Creed | 227473 | [227473-ninjas-creed.json](./227473-ninjas-creed.json) |
+| Ninjatown | 2825 | [2825-ninjatown.json](./2825-ninjatown.json) |
 | NinJump Rush | 220828 | [220828-ninjump-rush.json](./220828-ninjump-rush.json) |
 | Ninku Dai-ni-Tama: Ninku Sensou-hen | 60537 | [60537-ninku-dai-ni-tama-ninku-sensou-hen.json](./60537-ninku-dai-ni-tama-ninku-sensou-hen.json) |
 | Ninpek | 317577 | [317577-ninpek.json](./317577-ninpek.json) |
@@ -673,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norman | 60590 | [60590-norman.json](./60590-norman.json) |
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
 | NoRoY | 193490 | [193490-noroy.json](./193490-noroy.json) |
+| Norse by Norse West: The Return of the Lost Vikings | 2615 | [2615-norse-by-norse-west-the-return-of-the-lost-vikings.json](./2615-norse-by-norse-west-the-return-of-the-lost-vikings.json) |
 | North American Hunting Extravaganza 2 | 50619 | [50619-north-american-hunting-extravaganza-2.json](./50619-north-american-hunting-extravaganza-2.json) |
 | North Stars | 102143 | [102143-north-stars.json](./102143-north-stars.json) |
 | Northbury Grove: Walls Closing In | 183062 | [183062-northbury-grove-walls-closing-in.json](./183062-northbury-grove-walls-closing-in.json) |
