@@ -1153,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Express: Gold Edition | 30235 | [30235-the-last-express-gold-edition.json](./30235-the-last-express-gold-edition.json) |
 | The Last Fighter | 209662 | [209662-the-last-fighter.json](./209662-the-last-fighter.json) |
 | The Last Flower | 146304 | [146304-the-last-flower.json](./146304-the-last-flower.json) |
+| The Last Hope | 25627 | [25627-the-last-hope.json](./25627-the-last-hope.json) |
 | The Last King | 258200 | [258200-the-last-king.json](./258200-the-last-king.json) |
 | The Last Light | 182556 | [182556-the-last-light.json](./182556-the-last-light.json) |
 | The Last Memory of a Burning Thought | 335655 | [335655-the-last-memory-of-a-burning-thought.json](./335655-the-last-memory-of-a-burning-thought.json) |
@@ -1770,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unclogging: An Unsanitary Saga | 51979 | [51979-the-unclogging-an-unsanitary-saga.json](./51979-the-unclogging-an-unsanitary-saga.json) |
 | The Unfettered | 223163 | [223163-the-unfettered.json](./223163-the-unfettered.json) |
 | The Unsettled | 199665 | [199665-the-unsettled.json](./199665-the-unsettled.json) |
+| The Unspoken | 25908 | [25908-the-unspoken.json](./25908-the-unspoken.json) |
 | The Untitled Tower | 334500 | [334500-the-untitled-tower.json](./334500-the-untitled-tower.json) |
 | The USB Stick Found in the Grass | 169467 | [169467-the-usb-stick-found-in-the-grass.json](./169467-the-usb-stick-found-in-the-grass.json) |
 | The Vault | 97331 | [97331-the-vault.json](./97331-the-vault.json) |
@@ -1825,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Winter Tower | 226439 | [226439-the-winter-tower.json](./226439-the-winter-tower.json) |
 | The Wire | 31955 | [31955-the-wire.json](./31955-the-wire.json) |
 | The Wish | 181937 | [181937-the-wish.json](./181937-the-wish.json) |
+| The Witch and the Hundred Knight 2 | 24909 | [24909-the-witch-and-the-hundred-knight-2.json](./24909-the-witch-and-the-hundred-knight-2.json) |
 | The Witch's Cauldron: Supporter Pack | 309647 | [309647-the-witchs-cauldron-supporter-pack.json](./309647-the-witchs-cauldron-supporter-pack.json) |
 | The Witch's Knight | 254745 | [254745-the-witchs-knight.json](./254745-the-witchs-knight.json) |
 | The Witch's Yarn | 9510 | [9510-the-witchs-yarn.json](./9510-the-witchs-yarn.json) |
@@ -2569,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toushin Toshi Girls Gift RPG | 175943 | [175943-toushin-toshi-girls-gift-rpg.json](./175943-toushin-toshi-girls-gift-rpg.json) |
 | Tover | 24994 | [24994-tover.json](./24994-tover.json) |
 | Tow Truck | 104635 | [104635-tow-truck.json](./104635-tow-truck.json) |
+| Towards the Pantheon | 25316 | [25316-towards-the-pantheon.json](./25316-towards-the-pantheon.json) |
 | Towards the Stars | 150689 | [150689-towards-the-stars.json](./150689-towards-the-stars.json) |
 | Towel Required! | 223667 | [223667-towel-required.json](./223667-towel-required.json) |
 | Towelket: One More Time 2 (Karaage Tanpopo) | 146883 | [146883-towelket-one-more-time-2-karaage-tanpopo.json](./146883-towelket-one-more-time-2-karaage-tanpopo.json) |
