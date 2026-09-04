@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeti Quest: Crazy Penguins | 294469 | [294469-yeti-quest-crazy-penguins.json](./294469-yeti-quest-crazy-penguins.json) |
 | Yeti's Parole Officer | 83598 | [83598-yetis-parole-officer.json](./83598-yetis-parole-officer.json) |
 | Yggdrasill | 251851 | [251851-yggdrasill.json](./251851-yggdrasill.json) |
+| Yie Ar Kung-Fu | 18170 | [18170-yie-ar-kung-fu.json](./18170-yie-ar-kung-fu.json) |
 | Yin-Yang Labyrinth | 301600 | [301600-yin-yang-labyrinth.json](./301600-yin-yang-labyrinth.json) |
 | Yo My Yo! | 112355 | [112355-yo-my-yo.json](./112355-yo-my-yo.json) |
 | Yo-Jin-Bo: The Bodyguards | 72679 | [72679-yo-jin-bo-the-bodyguards.json](./72679-yo-jin-bo-the-bodyguards.json) |
