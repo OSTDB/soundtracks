@@ -1317,6 +1317,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Toon Tanks | 132249 | [132249-project-toon-tanks.json](./132249-project-toon-tanks.json) |
 | Project Treasure | 94761 | [94761-project-treasure.json](./94761-project-treasure.json) |
 | Project Werewolf | 306099 | [306099-project-werewolf.json](./306099-project-werewolf.json) |
+| Project Wingman | 56859 | [56859-project-wingman.json](./56859-project-wingman.json) |
+| Project Winter | 111033 | [111033-project-winter.json](./111033-project-winter.json) |
 | Project X: Love Potion Disaster | 218729 | [218729-project-x-love-potion-disaster.json](./218729-project-x-love-potion-disaster.json) |
 | Project Xinatra | 31934 | [31934-project-xinatra.json](./31934-project-xinatra.json) |
 | Project XY | 178645 | [178645-project-xy.json](./178645-project-xy.json) |
