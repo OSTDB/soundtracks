@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Cause 2: Complete Edition | 186901 | [186901-just-cause-2-complete-edition.json](./186901-just-cause-2-complete-edition.json) |
 | Just Cause Collection | 53245 | [53245-just-cause-collection.json](./53245-just-cause-collection.json) |
 | Just Crow Things | 264321 | [264321-just-crow-things.json](./264321-just-crow-things.json) |
+| Just Dance 2018 | 37067 | [37067-just-dance-2018.json](./37067-just-dance-2018.json) |
 | Just Dance 2022: Ultimate Edition | 196292 | [196292-just-dance-2022-ultimate-edition.json](./196292-just-dance-2022-ultimate-edition.json) |
 | Just Dance Wii U | 15560 | [15560-just-dance-wii-u.json](./15560-just-dance-wii-u.json) |
 | Just Dash | 107912 | [107912-just-dash.json](./107912-just-dash.json) |
