@@ -21,11 +21,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's 4x4 Off-Road Adventure | 94238 | [94238-cabelas-4x4-off-road-adventure.json](./94238-cabelas-4x4-off-road-adventure.json) |
 | Cabela's 4x4 Off-Road Adventure 2 | 92531 | [92531-cabelas-4x4-off-road-adventure-2.json](./92531-cabelas-4x4-off-road-adventure-2.json) |
 | Cabela's 4X4 Off-Road Adventure 3 | 23702 | [23702-cabelas-4x4-off-road-adventure-3.json](./23702-cabelas-4x4-off-road-adventure-3.json) |
+| Cabela's Adventure Camp | 6648 | [6648-cabelas-adventure-camp.json](./6648-cabelas-adventure-camp.json) |
 | Cabela's Big Game Hunter: 2004 Season | 69861 | [69861-cabelas-big-game-hunter-2004-season.json](./69861-cabelas-big-game-hunter-2004-season.json) |
 | Cabela's Dangerous Hunts | 5763 | [5763-cabelas-dangerous-hunts.json](./5763-cabelas-dangerous-hunts.json) |
 | Cabela's Deer Hunt: 2004 Season | 5764 | [5764-cabelas-deer-hunt-2004-season.json](./5764-cabelas-deer-hunt-2004-season.json) |
 | Cabela's Deer Hunt: 2005 Season | 5765 | [5765-cabelas-deer-hunt-2005-season.json](./5765-cabelas-deer-hunt-2005-season.json) |
 | Cabela's Grand Slam Hunting: North American 29 | 78057 | [78057-cabelas-grand-slam-hunting-north-american-29.json](./78057-cabelas-grand-slam-hunting-north-american-29.json) |
+| Cabela's Survival: Shadows of Katmai | 6651 | [6651-cabelas-survival-shadows-of-katmai.json](./6651-cabelas-survival-shadows-of-katmai.json) |
 | Cabela's: The Hunt - Championship Edition | 110706 | [110706-cabelas-the-hunt-championship-edition.json](./110706-cabelas-the-hunt-championship-edition.json) |
 | Cactiverse | 314668 | [314668-cactiverse.json](./314668-cactiverse.json) |
 | Cactus Cowboy 3: Fully Loaded | 152901 | [152901-cactus-cowboy-3-fully-loaded.json](./152901-cactus-cowboy-3-fully-loaded.json) |
@@ -172,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Hannon: The Belanzano | 129759 | [129759-captain-hannon-the-belanzano.json](./129759-captain-hannon-the-belanzano.json) |
 | Captain Hardcore | 278686 | [278686-captain-hardcore.json](./278686-captain-hardcore.json) |
 | Captain Jackson | 190231 | [190231-captain-jackson.json](./190231-captain-jackson.json) |
+| Captain Morgane and the Golden Turtle | 6654 | [6654-captain-morgane-and-the-golden-turtle.json](./6654-captain-morgane-and-the-golden-turtle.json) |
 | Captain of Space | 320558 | [320558-captain-of-space.json](./320558-captain-of-space.json) |
 | Captain Quazar | 39015 | [39015-captain-quazar.json](./39015-captain-quazar.json) |
 | Captain Tsubasa | 213601 | [213601-captain-tsubasa.json](./213601-captain-tsubasa.json) |
@@ -997,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocoto Alien Brick Breaker | 63857 | [63857-cocoto-alien-brick-breaker.json](./63857-cocoto-alien-brick-breaker.json) |
 | Cocoto Fishing Master | 19677 | [19677-cocoto-fishing-master.json](./19677-cocoto-fishing-master.json) |
 | Code Adventure | 179182 | [179182-code-adventure.json](./179182-code-adventure.json) |
+| Code Lyoko: Get Ready to Virtualize | 8453 | [8453-code-lyoko-get-ready-to-virtualize.json](./8453-code-lyoko-get-ready-to-virtualize.json) |
 | Code Name Teacher | 292307 | [292307-code-name-teacher.json](./292307-code-name-teacher.json) |
 | Code of Ethics | 123042 | [123042-code-of-ethics.json](./123042-code-of-ethics.json) |
 | Code of Princess EX | 90104 | [90104-code-of-princess-ex.json](./90104-code-of-princess-ex.json) |
