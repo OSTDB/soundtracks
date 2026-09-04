@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Car Stunts | 102156 | [102156-x-car-stunts.json](./102156-x-car-stunts.json) |
 | X-Force Genesis | 165652 | [165652-x-force-genesis.json](./165652-x-force-genesis.json) |
 | X-Man | 79301 | [79301-x-man.json](./79301-x-man.json) |
+| X-Men Origins: Wolverine | 573 | [573-x-men-origins-wolverine.json](./573-x-men-origins-wolverine.json) |
 | X-Men: Battle of the Atom | 62782 | [62782-x-men-battle-of-the-atom.json](./62782-x-men-battle-of-the-atom.json) |
 | X-Mercs | 59982 | [59982-x-mercs.json](./59982-x-mercs.json) |
 | X-Moon | 112325 | [112325-x-moon.json](./112325-x-moon.json) |
@@ -42,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xeno Shooter | 146884 | [146884-xeno-shooter.json](./146884-xeno-shooter.json) |
 | Xenoblade Chronicles: Collector's Edition | 50591 | [50591-xenoblade-chronicles-collectors-edition.json](./50591-xenoblade-chronicles-collectors-edition.json) |
 | XenoFeud | 235488 | [235488-xenofeud.json](./235488-xenofeud.json) |
+| Xenogears | 1346 | [1346-xenogears.json](./1346-xenogears.json) |
 | Xenopathy | 183043 | [183043-xenopathy.json](./183043-xenopathy.json) |
 | Xenosaga II to III: A Missing Year | 240497 | [240497-xenosaga-ii-to-iii-a-missing-year.json](./240497-xenosaga-ii-to-iii-a-missing-year.json) |
 | Xenowar | 70390 | [70390-xenowar.json](./70390-xenowar.json) |
