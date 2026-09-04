@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refuted Wind | 319343 | [319343-refuted-wind.json](./319343-refuted-wind.json) |
 | Regalia: Of Men and Monarchs | 30205 | [30205-regalia-of-men-and-monarchs.json](./30205-regalia-of-men-and-monarchs.json) |
 | Regalia: Of Men and Monarchs - Paragons and Pajamas | 172162 | [172162-regalia-of-men-and-monarchs-paragons-and-pajamas.json](./172162-regalia-of-men-and-monarchs-paragons-and-pajamas.json) |
+| Regalia: Royal Edition | 78118 | [78118-regalia-royal-edition.json](./78118-regalia-royal-edition.json) |
 | Regency Solitaire II | 237089 | [237089-regency-solitaire-ii.json](./237089-regency-solitaire-ii.json) |
 | Reggie's Adventures: Part 1 - Escape From Paradise | 230502 | [230502-reggies-adventures-part-1-escape-from-paradise.json](./230502-reggies-adventures-part-1-escape-from-paradise.json) |
 | Regiments: Winds of Change | 270935 | [270935-regiments-winds-of-change.json](./270935-regiments-winds-of-change.json) |
@@ -1167,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumia in the darkness | 121013 | [121013-rumia-in-the-darkness.json](./121013-rumia-in-the-darkness.json) |
 | Rump! | 35772 | [35772-rump.json](./35772-rump.json) |
 | Rumpus | 30940 | [30940-rumpus.json](./30940-rumpus.json) |
+| Rumu | 74584 | [74584-rumu.json](./74584-rumu.json) |
 | Run & Jump Guy | 304363 | [304363-run-and-jump-guy.json](./304363-run-and-jump-guy.json) |
 | Run Away With Me, Empress! | 225270 | [225270-run-away-with-me-empress.json](./225270-run-away-with-me-empress.json) |
 | Run Buddy | 274211 | [274211-run-buddy.json](./274211-run-buddy.json) |
