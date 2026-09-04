@@ -223,9 +223,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WAyE | 105378 | [105378-waye.json](./105378-waye.json) |
 | Wayfarer | 310721 | [310721-wayfarer.json](./310721-wayfarer.json) |
 | Wayfarer Survival Mini-Game | 63288 | [63288-wayfarer-survival-mini-game.json](./63288-wayfarer-survival-mini-game.json) |
+| Wayne Gretzky's 3D Hockey | 3630 | [3630-wayne-gretzkys-3d-hockey.json](./3630-wayne-gretzkys-3d-hockey.json) |
 | Ways | 323521 | [323521-ways.json](./323521-ways.json) |
 | Waystones | 341864 | [341864-waystones.json](./341864-waystones.json) |
 | WBTR: Welcome Back to Reality | 130376 | [130376-wbtr-welcome-back-to-reality.json](./130376-wbtr-welcome-back-to-reality.json) |
+| WCW vs. nWo: World Tour | 3635 | [3635-wcw-vs-nwo-world-tour.json](./3635-wcw-vs-nwo-world-tour.json) |
 | WCW: World Championship Wrestling | 48095 | [48095-wcw-world-championship-wrestling.json](./48095-wcw-world-championship-wrestling.json) |
 | We Are All but Bones and Dust | 165049 | [165049-we-are-all-but-bones-and-dust.json](./165049-we-are-all-but-bones-and-dust.json) |
 | We Are Football: Bundesliga Edition | 152342 | [152342-we-are-football-bundesliga-edition.json](./152342-we-are-football-bundesliga-edition.json) |
@@ -255,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wedding Girl Makeover | 96072 | [96072-wedding-girl-makeover.json](./96072-wedding-girl-makeover.json) |
 | Wedding Peach: Doki-doki Oironaoshi | 64951 | [64951-wedding-peach-doki-doki-oironaoshi.json](./64951-wedding-peach-doki-doki-oironaoshi.json) |
 | Wedding Peach: Jamapii Panic | 64952 | [64952-wedding-peach-jamapii-panic.json](./64952-wedding-peach-jamapii-panic.json) |
+| Wednesdays | 333946 | [333946-wednesdays.json](./333946-wednesdays.json) |
 | Weed Farmer | 200201 | [200201-weed-farmer.json](./200201-weed-farmer.json) |
 | Weed Shop 4: Highland | 309645 | [309645-weed-shop-4-highland.json](./309645-weed-shop-4-highland.json) |
 | Weekend Drive | 109019 | [109019-weekend-drive.json](./109019-weekend-drive.json) |
@@ -331,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When you're gone | 37192 | [37192-when-youre-gone.json](./37192-when-youre-gone.json) |
 | Where Birds Sleep | 136451 | [136451-where-birds-sleep.json](./136451-where-birds-sleep.json) |
 | Where in Space is Carmen Sandiego?: Deluxe Edition | 73309 | [73309-where-in-space-is-carmen-sandiego-deluxe-edition.json](./73309-where-in-space-is-carmen-sandiego-deluxe-edition.json) |
+| Where in Time is Carmen Sandiego? | 4376 | [4376-where-in-time-is-carmen-sandiego.json](./4376-where-in-time-is-carmen-sandiego.json) |
 | Where is a Toilet!? | 228682 | [228682-where-is-a-toilet.json](./228682-where-is-a-toilet.json) |
 | Where is Mr. Cloud | 251809 | [251809-where-is-mr-cloud.json](./251809-where-is-mr-cloud.json) |
 | Where is Mrs Peregrine? | 318772 | [318772-where-is-mrs-peregrine.json](./318772-where-is-mrs-peregrine.json) |
