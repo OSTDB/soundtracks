@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vincemus: Air Combat | 195259 | [195259-vincemus-air-combat.json](./195259-vincemus-air-combat.json) |
 | Vincent | 242243 | [242243-vincent.json](./242243-vincent.json) |
 | Vincent | 310751 | [310751-vincent.json](./310751-vincent.json) |
+| Vindictive Drive | 31913 | [31913-vindictive-drive.json](./31913-vindictive-drive.json) |
 | Vine | 128625 | [128625-vine.json](./128625-vine.json) |
 | Vine Realms | 135907 | [135907-vine-realms.json](./135907-vine-realms.json) |
 | Vinecard | 272566 | [272566-vinecard.json](./272566-vinecard.json) |
