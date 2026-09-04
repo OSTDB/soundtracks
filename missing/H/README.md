@@ -606,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden SciFi City Top-Down 3D | 257110 | [257110-hidden-scifi-city-top-down-3d.json](./257110-hidden-scifi-city-top-down-3d.json) |
 | Hidden Series 1 | 258194 | [258194-hidden-series-1.json](./258194-hidden-series-1.json) |
 | Hidden Storehouse Top-Down 3D | 320548 | [320548-hidden-storehouse-top-down-3d.json](./320548-hidden-storehouse-top-down-3d.json) |
+| Hidden Through Time | 128909 | [128909-hidden-through-time.json](./128909-hidden-through-time.json) |
 | Hidden Words | 170534 | [170534-hidden-words.json](./170534-hidden-words.json) |
 | Hidden Words and Pictures Game | 108490 | [108490-hidden-words-and-pictures-game.json](./108490-hidden-words-and-pictures-game.json) |
 | Hidden World of Art 2 | 126667 | [126667-hidden-world-of-art-2.json](./126667-hidden-world-of-art-2.json) |
