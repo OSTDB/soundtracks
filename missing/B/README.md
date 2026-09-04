@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballblazer | 273081 | [273081-ballblazer.json](./273081-ballblazer.json) |
 | Ballet Parking | 314070 | [314070-ballet-parking.json](./314070-ballet-parking.json) |
 | Ballista Legend | 117038 | [117038-ballista-legend.json](./117038-ballista-legend.json) |
+| Ballistic Overkill | 17320 | [17320-ballistic-overkill.json](./17320-ballistic-overkill.json) |
 | BallisticNG | 32640 | [32640-ballisticng.json](./32640-ballisticng.json) |
 | BallisticNG: Outer Reaches | 167304 | [167304-ballisticng-outer-reaches.json](./167304-ballisticng-outer-reaches.json) |
 | Balloon Chess | 339097 | [339097-balloon-chess.json](./339097-balloon-chess.json) |
@@ -403,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Heat! | 45962 | [45962-battle-heat.json](./45962-battle-heat.json) |
 | Battle In Space | 212470 | [212470-battle-in-space.json](./212470-battle-in-space.json) |
 | Battle Insects | 52644 | [52644-battle-insects.json](./52644-battle-insects.json) |
+| Battle Islands | 17502 | [17502-battle-islands.json](./17502-battle-islands.json) |
 | Battle Kart 64 | 248308 | [248308-battle-kart-64.json](./248308-battle-kart-64.json) |
 | Battle of 2048: Fantasy Edition | 234350 | [234350-battle-of-2048-fantasy-edition.json](./234350-battle-of-2048-fantasy-edition.json) |
 | Battle of Angels | 137681 | [137681-battle-of-angels.json](./137681-battle-of-angels.json) |
@@ -951,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blink: The Last Night | 179722 | [179722-blink-the-last-night.json](./179722-blink-the-last-night.json) |
 | Blippo+ | 325283 | [325283-blippo.json](./325283-blippo.json) |
 | Blithe | 177528 | [177528-blithe.json](./177528-blithe.json) |
+| Blitz Breaker | 17457 | [17457-blitz-breaker.json](./17457-blitz-breaker.json) |
 | Blitz Guard | 267100 | [267100-blitz-guard.json](./267100-blitz-guard.json) |
 | Blitz: The League | 264860 | [264860-blitz-the-league.json](./264860-blitz-the-league.json) |
 | Blitzkrieg 3: Deluxe Edition | 52653 | [52653-blitzkrieg-3-deluxe-edition.json](./52653-blitzkrieg-3-deluxe-edition.json) |
@@ -1137,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boggy '84 | 40261 | [40261-boggy-84.json](./40261-boggy-84.json) |
 | Bogie's Super Pick: Value Pack 1 | 98965 | [98965-bogies-super-pick-value-pack-1.json](./98965-bogies-super-pick-value-pack-1.json) |
 | Bograts: The Puzzling Misadventure | 14330 | [14330-bograts-the-puzzling-misadventure.json](./14330-bograts-the-puzzling-misadventure.json) |
+| Boid | 17646 | [17646-boid.json](./17646-boid.json) |
 | Boinihi: The Ki Codex | 172188 | [172188-boinihi-the-ki-codex.json](./172188-boinihi-the-ki-codex.json) |
 | Boku ha Tomodachi ga Sukunai Portable | 56491 | [56491-boku-ha-tomodachi-ga-sukunai-portable.json](./56491-boku-ha-tomodachi-ga-sukunai-portable.json) |
 | Boku no Choro-Q | 59440 | [59440-boku-no-choro-q.json](./59440-boku-no-choro-q.json) |
