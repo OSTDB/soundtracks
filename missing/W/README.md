@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Thunder: Wyvern Pack | 336937 | [336937-war-thunder-wyvern-pack.json](./336937-war-thunder-wyvern-pack.json) |
 | War Times | 77376 | [77376-war-times.json](./77376-war-times.json) |
 | War Trains | 124239 | [124239-war-trains.json](./124239-war-trains.json) |
+| War Truck Simulator | 32438 | [32438-war-truck-simulator.json](./32438-war-truck-simulator.json) |
 | War Wind | 929 | [929-war-wind.json](./929-war-wind.json) |
 | War Yards | 139480 | [139480-war-yards.json](./139480-war-yards.json) |
 | Waratte Iitomo! Tamorinpic | 37768 | [37768-waratte-iitomo-tamorinpic.json](./37768-waratte-iitomo-tamorinpic.json) |
@@ -453,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Planet | 137049 | [137049-wild-planet.json](./137049-wild-planet.json) |
 | Wild Ride | 12973 | [12973-wild-ride.json](./12973-wild-ride.json) |
 | Wild Rides: WaterPark Factory | 205807 | [205807-wild-rides-waterpark-factory.json](./205807-wild-rides-waterpark-factory.json) |
+| Wild Romance | 32335 | [32335-wild-romance.json](./32335-wild-romance.json) |
 | Wild Script: Nature | 319348 | [319348-wild-script-nature.json](./319348-wild-script-nature.json) |
 | Wild Shape | 180311 | [180311-wild-shape.json](./180311-wild-shape.json) |
 | Wild Terra 2: New Lands | 126619 | [126619-wild-terra-2-new-lands.json](./126619-wild-terra-2-new-lands.json) |
