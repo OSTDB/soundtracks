@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Fold Tower | 311819 | [311819-five-fold-tower.json](./311819-five-fold-tower.json) |
 | Five Letter Words | 104115 | [104115-five-letter-words.json](./104115-five-letter-words.json) |
 | Five Nights At Bidens | 257665 | [257665-five-nights-at-bidens.json](./257665-five-nights-at-bidens.json) |
+| Five Nights at Candy's | 45983 | [45983-five-nights-at-candys.json](./45983-five-nights-at-candys.json) |
 | Five Nights at Ethans | 194614 | [194614-five-nights-at-ethans.json](./194614-five-nights-at-ethans.json) |
 | Five Nights at Freddy's 2 | 9195 | [9195-five-nights-at-freddys-2.json](./9195-five-nights-at-freddys-2.json) |
 | Five Nights at Freddy's 4: Halloween Edition | 226410 | [226410-five-nights-at-freddys-4-halloween-edition.json](./226410-five-nights-at-freddys-4-halloween-edition.json) |
