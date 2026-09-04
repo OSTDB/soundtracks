@@ -420,7 +420,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escoba Broom Cards Game | 331690 | [331690-escoba-broom-cards-game.json](./331690-escoba-broom-cards-game.json) |
 | Eslander | 120993 | [120993-eslander.json](./120993-eslander.json) |
 | Espalion | 266487 | [266487-espalion.json](./266487-espalion.json) |
+| Esper | 23893 | [23893-esper.json](./23893-esper.json) |
 | Esper Girls | 265925 | [265925-esper-girls.json](./265925-esper-girls.json) |
+| Espial | 23932 | [23932-espial.json](./23932-espial.json) |
 | Espire 1: Sydney Sneakabouts Mission Pack | 305520 | [305520-espire-1-sydney-sneakabouts-mission-pack.json](./305520-espire-1-sydney-sneakabouts-mission-pack.json) |
 | ESPN NBA 2Night | 78678 | [78678-espn-nba-2night.json](./78678-espn-nba-2night.json) |
 | ESPNU College Town | 93571 | [93571-espnu-college-town.json](./93571-espnu-college-town.json) |
@@ -430,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esten | 186291 | [186291-esten.json](./186291-esten.json) |
 | Estigma | 142497 | [142497-estigma.json](./142497-estigma.json) |
 | ET Superman: Wrath of Tyrannosaurus Rex | 195258 | [195258-et-superman-wrath-of-tyrannosaurus-rex.json](./195258-et-superman-wrath-of-tyrannosaurus-rex.json) |
+| eTabu | 23909 | [23909-etabu.json](./23909-etabu.json) |
 | Eternal Destiny | 251215 | [251215-eternal-destiny.json](./251215-eternal-destiny.json) |
 | Eternal Dreamers | 140609 | [140609-eternal-dreamers.json](./140609-eternal-dreamers.json) |
 | Eternal Dungeon | 140589 | [140589-eternal-dungeon.json](./140589-eternal-dungeon.json) |
@@ -505,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverRun | 90704 | [90704-everrun.json](./90704-everrun.json) |
 | Everseed | 294473 | [294473-everseed.json](./294473-everseed.json) |
 | Everslash | 122424 | [122424-everslash.json](./122424-everslash.json) |
+| Evertales | 23927 | [23927-evertales.json](./23927-evertales.json) |
 | Every Ending Is A New Beginning | 184131 | [184131-every-ending-is-a-new-beginning.json](./184131-every-ending-is-a-new-beginning.json) |
 | Every Year Banjir | 254765 | [254765-every-year-banjir.json](./254765-every-year-banjir.json) |
 | Everybody's Home Run Derby | 231056 | [231056-everybodys-home-run-derby.json](./231056-everybodys-home-run-derby.json) |
@@ -585,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorzine | 194651 | [194651-exorzine.json](./194651-exorzine.json) |
 | Expansion | 120397 | [120397-expansion.json](./120397-expansion.json) |
 | Expediente Ñ | 322368 | [322368-expediente-n.json](./322368-expediente-n.json) |
+| Expedition Amazon | 23898 | [23898-expedition-amazon.json](./23898-expedition-amazon.json) |
 | Expendable | 317640 | [317640-expendable.json](./317640-expendable.json) |
 | Experimental | 163972 | [163972-experimental.json](./163972-experimental.json) |
 | Experimental Game Pack 01 | 80612 | [80612-experimental-game-pack-01.json](./80612-experimental-game-pack-01.json) |
