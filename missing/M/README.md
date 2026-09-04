@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of the Universe: The Movie | 30904 | [30904-masters-of-the-universe-the-movie.json](./30904-masters-of-the-universe-the-movie.json) |
 | Masters of the Universe: The Power of He-Man | 5683 | [5683-masters-of-the-universe-the-power-of-he-man.json](./5683-masters-of-the-universe-the-power-of-he-man.json) |
 | Mat Hoffman's Pro BMX | 3994 | [3994-mat-hoffmans-pro-bmx.json](./3994-mat-hoffmans-pro-bmx.json) |
+| Mata Hari | 27853 | [27853-mata-hari.json](./27853-mata-hari.json) |
 | Mata Yume no Naka de | 205239 | [205239-mata-yume-no-naka-de.json](./205239-mata-yume-no-naka-de.json) |
 | Mata, Itsuka. | 201309 | [201309-mata-itsuka.json](./201309-mata-itsuka.json) |
 | Match | 119019 | [119019-match.json](./119019-match.json) |
@@ -951,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiG-29 Fulcrum | 229931 | [229931-mig-29-fulcrum.json](./229931-mig-29-fulcrum.json) |
 | Might and Magic: Book One - The Secret of the Inner Sanctum | 7733 | [7733-might-and-magic-book-one-the-secret-of-the-inner-sanctum.json](./7733-might-and-magic-book-one-the-secret-of-the-inner-sanctum.json) |
 | Might and Magic: World of Xeen | 7738 | [7738-might-and-magic-world-of-xeen.json](./7738-might-and-magic-world-of-xeen.json) |
+| Mighty Gunvolt | 28950 | [28950-mighty-gunvolt.json](./28950-mighty-gunvolt.json) |
 | Mighty Gunvolt Burst: Character Set - Rivals | 225906 | [225906-mighty-gunvolt-burst-character-set-rivals.json](./225906-mighty-gunvolt-burst-character-set-rivals.json) |
 | Mighty Heroes | 125995 | [125995-mighty-heroes.json](./125995-mighty-heroes.json) |
 | Mighty Jill Off | 72696 | [72696-mighty-jill-off.json](./72696-mighty-jill-off.json) |
@@ -1591,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Boom | 46621 | [46621-mr-boom.json](./46621-mr-boom.json) |
 | Mr. Cool | 23890 | [23890-mr-cool.json](./23890-mr-cool.json) |
 | Mr. Crab 2 | 57145 | [57145-mr-crab-2.json](./57145-mr-crab-2.json) |
+| Mr. Do!'s Castle | 24408 | [24408-mr-do-s-castle.json](./24408-mr-do-s-castle.json) |
 | Mr. Fishbones | 185118 | [185118-mr-fishbones.json](./185118-mr-fishbones.json) |
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
 | Mr. Luma's Cooking Adventure | 234335 | [234335-mr-lumas-cooking-adventure.json](./234335-mr-lumas-cooking-adventure.json) |
