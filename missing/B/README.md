@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Bears Pro | 61668 | [61668-battle-bears-pro.json](./61668-battle-bears-pro.json) |
 | Battle Bits | 333392 | [333392-battle-bits.json](./333392-battle-bits.json) |
 | Battle Blocks | 137660 | [137660-battle-blocks.json](./137660-battle-blocks.json) |
+| Battle Brothers | 14394 | [14394-battle-brothers.json](./14394-battle-brothers.json) |
 | Battle Capacity | 332815 | [332815-battle-capacity.json](./332815-battle-capacity.json) |
 | Battle Cars | 332256 | [332256-battle-cars.json](./332256-battle-cars.json) |
 | Battle Charge | 211426 | [211426-battle-charge.json](./211426-battle-charge.json) |
@@ -963,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood of Darkness | 153434 | [153434-blood-of-darkness.json](./153434-blood-of-darkness.json) |
 | Blood of Heroes | 146880 | [146880-blood-of-heroes.json](./146880-blood-of-heroes.json) |
 | Blood Omen: Legacy of Kain | 317629 | [317629-blood-omen-legacy-of-kain.json](./317629-blood-omen-legacy-of-kain.json) |
+| Blood Omen: Legacy of Kain | 7894 | [7894-blood-omen-legacy-of-kain.json](./7894-blood-omen-legacy-of-kain.json) |
 | Blood Pact | 239873 | [239873-blood-pact.json](./239873-blood-pact.json) |
 | Blood Pact: Premium Edition | 239876 | [239876-blood-pact-premium-edition.json](./239876-blood-pact-premium-edition.json) |
 | Blood Running: Prologue | 293388 | [293388-blood-running-prologue.json](./293388-blood-running-prologue.json) |
@@ -1555,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Ravager | 180816 | [180816-burning-ravager.json](./180816-burning-ravager.json) |
 | Burning Secrets: A Bara Visual Novel | 275891 | [275891-burning-secrets-a-bara-visual-novel.json](./275891-burning-secrets-a-bara-visual-novel.json) |
 | Burnout Drift | 116364 | [116364-burnout-drift.json](./116364-burnout-drift.json) |
+| Burnout Paradise: The Ultimate Box | 10067 | [10067-burnout-paradise-the-ultimate-box.json](./10067-burnout-paradise-the-ultimate-box.json) |
 | Burnt | 273137 | [273137-burnt.json](./273137-burnt.json) |
 | BurntOut Capital | 317602 | [317602-burntout-capital.json](./317602-burntout-capital.json) |
 | Burrow | 158717 | [158717-burrow.json](./158717-burrow.json) |
