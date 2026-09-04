@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ¡Shin Chan: Flipa en colores! | 93591 | [93591-shin-chan-flipa-en-colores.json](./93591-shin-chan-flipa-en-colores.json) |
 | .B.P. | 150158 | [150158-b-p.json](./150158-b-p.json) |
 | .Cat Nincat Dinogotchi | 231044 | [231044-cat-nincat-dinogotchi.json](./231044-cat-nincat-dinogotchi.json) |
+| .Hack//G.U. Last Recode | 37134 | [37134-hack-g-u-last-recode.json](./37134-hack-g-u-last-recode.json) |
 | 'The | 247183 | [247183-the.json](./247183-the.json) |
 | (A)woken | 307298 | [307298-a-woken.json](./307298-a-woken.json) |
 | (Dis)assemble | 192969 | [192969-dis-assemble.json](./192969-dis-assemble.json) |
@@ -369,4 +370,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9Shot | 301034 | [301034-9shot.json](./301034-9shot.json) |
 | Ānquán Jiàoyù | 102177 | [102177-anquan-jiaoyu.json](./102177-anquan-jiaoyu.json) |
 | Àrengard: Invasion | 228081 | [228081-arengard-invasion.json](./228081-arengard-invasion.json) |
+| Ōkamiden | 16618 | [16618-okamiden.json](./16618-okamiden.json) |
 | 一>◇ | 100203 | [100203-.json](./100203-.json) |
