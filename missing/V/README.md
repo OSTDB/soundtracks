@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigaro Runner 2: Return | 338569 | [338569-vigaro-runner-2-return.json](./338569-vigaro-runner-2-return.json) |
 | Vigilant Inquest | 309659 | [309659-vigilant-inquest.json](./309659-vigilant-inquest.json) |
 | Vigna's Stereo Switch | 296094 | [296094-vignas-stereo-switch.json](./296094-vignas-stereo-switch.json) |
+| Vignettes | 82952 | [82952-vignettes.json](./82952-vignettes.json) |
 | Vigor: Battle-Hardened Merc | 301570 | [301570-vigor-battle-hardened-merc.json](./301570-vigor-battle-hardened-merc.json) |
 | Vigor: The Last King Of DayZ | 301571 | [301571-vigor-the-last-king-of-dayz.json](./301571-vigor-the-last-king-of-dayz.json) |
 | Viki Spotter: Camping | 105366 | [105366-viki-spotter-camping.json](./105366-viki-spotter-camping.json) |
