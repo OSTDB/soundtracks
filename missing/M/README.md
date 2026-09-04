@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madou Gakuin R | 46613 | [46613-madou-gakuin-r.json](./46613-madou-gakuin-r.json) |
 | Madou Monogatari | 57675 | [57675-madou-monogatari.json](./57675-madou-monogatari.json) |
 | Madvent Calendar 3 Necrosis | 229375 | [229375-madvent-calendar-3-necrosis.json](./229375-madvent-calendar-3-necrosis.json) |
+| Maestro! Jump in Music | 22980 | [22980-maestro-jump-in-music.json](./22980-maestro-jump-in-music.json) |
 | Mafia 1x1 | 307327 | [307327-mafia-1x1.json](./307327-mafia-1x1.json) |
 | Mafia Alive | 68686 | [68686-mafia-alive.json](./68686-mafia-alive.json) |
 | Mafia Gambling | 89266 | [89266-mafia-gambling.json](./89266-mafia-gambling.json) |
@@ -967,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator: 40th Anniversary Edition | 293926 | [293926-microsoft-flight-simulator-40th-anniversary-edition.json](./293926-microsoft-flight-simulator-40th-anniversary-edition.json) |
 | Microsoft Flight Simulator: Deluxe 40th Anniversary Edition | 293928 | [293928-microsoft-flight-simulator-deluxe-40th-anniversary-edition.json](./293928-microsoft-flight-simulator-deluxe-40th-anniversary-edition.json) |
 | Microsoft Flight Simulator: Premium Deluxe 40th Anniversary Edition | 293927 | [293927-microsoft-flight-simulator-premium-deluxe-40th-anniversary-edition.json](./293927-microsoft-flight-simulator-premium-deluxe-40th-anniversary-edition.json) |
+| Microsoft Return of Arcade | 22620 | [22620-microsoft-return-of-arcade.json](./22620-microsoft-return-of-arcade.json) |
 | Microsoft Spider Solitaire | 8196 | [8196-microsoft-spider-solitaire.json](./8196-microsoft-spider-solitaire.json) |
 | Microsoft Train Simulator: German Railroads Volume Two - Fast Railcars on the Runway | 78055 | [78055-microsoft-train-simulator-german-railroads-volume-two-fast-railcars-on-the-runway.json](./78055-microsoft-train-simulator-german-railroads-volume-two-fast-railcars-on-the-runway.json) |
 | Microsoft: My Personal Tutor 1st & 2nd Grade | 144365 | [144365-microsoft-my-personal-tutor-1st-and-2nd-grade.json](./144365-microsoft-my-personal-tutor-1st-and-2nd-grade.json) |
@@ -1651,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Mind: Secrets of Pharaon | 73808 | [73808-mouse-mind-secrets-of-pharaon.json](./73808-mouse-mind-secrets-of-pharaon.json) |
 | Mouse Work | 339137 | [339137-mouse-work.json](./339137-mouse-work.json) |
 | Mousey | 231625 | [231625-mousey.json](./231625-mousey.json) |
+| Move Fitness | 22937 | [22937-move-fitness.json](./22937-move-fitness.json) |
 | Move or Die: Couch Party Edition | 209130 | [209130-move-or-die-couch-party-edition.json](./209130-move-or-die-couch-party-edition.json) |
 | MoveFort | 318189 | [318189-movefort.json](./318189-movefort.json) |
 | Moves Away | 303794 | [303794-moves-away.json](./303794-moves-away.json) |
