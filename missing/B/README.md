@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berusky | 135275 | [135275-berusky.json](./135275-berusky.json) |
 | Besotted | 297805 | [297805-besotted.json](./297805-besotted.json) |
 | Best Buds vs Bad Guys | 52631 | [52631-best-buds-vs-bad-guys.json](./52631-best-buds-vs-bad-guys.json) |
+| Best Life Simulator | 110562 | [110562-best-life-simulator.json](./110562-best-life-simulator.json) |
 | Best of Klei 2025 | 52630 | [52630-best-of-klei-2025.json](./52630-best-of-klei-2025.json) |
 | Best of Mahjong | 85509 | [85509-best-of-mahjong.json](./85509-best-of-mahjong.json) |
 | Best of Solitaire | 85508 | [85508-best-of-solitaire.json](./85508-best-of-solitaire.json) |
@@ -771,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billiards Dungeon | 149079 | [149079-billiards-dungeon.json](./149079-billiards-dungeon.json) |
 | Billiards II Simulator | 14305 | [14305-billiards-ii-simulator.json](./14305-billiards-ii-simulator.json) |
 | Billiards Simulator | 14304 | [14304-billiards-simulator.json](./14304-billiards-simulator.json) |
+| Billion Road | 109474 | [109474-billion-road.json](./109474-billion-road.json) |
 | Billionworlds : Kingdoms | 153437 | [153437-billionworlds-kingdoms.json](./153437-billionworlds-kingdoms.json) |
 | Billy 101 | 192964 | [192964-billy-101.json](./192964-billy-101.json) |
 | Billy Boy | 72130 | [72130-billy-boy.json](./72130-billy-boy.json) |
@@ -1103,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Walls: Hardcore x2 | 166223 | [166223-bloody-walls-hardcore-x2.json](./166223-bloody-walls-hardcore-x2.json) |
 | Bloody Walls: The Darkness | 166221 | [166221-bloody-walls-the-darkness.json](./166221-bloody-walls-the-darkness.json) |
 | Bloody Zombies | 100185 | [100185-bloody-zombies.json](./100185-bloody-zombies.json) |
+| Bloom | 110476 | [110476-bloom.json](./110476-bloom.json) |
 | Bloom | 60555 | [60555-bloom.json](./60555-bloom.json) |
 | Bloom Runner | 258175 | [258175-bloom-runner.json](./258175-bloom-runner.json) |
 | Bloomblebee | 175989 | [175989-bloomblebee.json](./175989-bloomblebee.json) |
