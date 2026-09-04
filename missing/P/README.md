@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Permanence TD | 195256 | [195256-permanence-td.json](./195256-permanence-td.json) |
 | Permanent Daylight | 62194 | [62194-permanent-daylight.json](./62194-permanent-daylight.json) |
 | Perpession | 334506 | [334506-perpession.json](./334506-perpession.json) |
+| Perpetuum | 16433 | [16433-perpetuum.json](./16433-perpetuum.json) |
 | PerPuzzle | 105911 | [105911-perpuzzle.json](./105911-perpuzzle.json) |
 | Perrengue de escritor | 341894 | [341894-perrengue-de-escritor.json](./341894-perrengue-de-escritor.json) |
 | Perry Rhodan: Operation Eastside | 72100 | [72100-perry-rhodan-operation-eastside.json](./72100-perry-rhodan-operation-eastside.json) |
