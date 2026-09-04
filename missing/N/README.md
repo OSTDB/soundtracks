@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Spaceboard | 99597 | [99597-neon-spaceboard.json](./99597-neon-spaceboard.json) |
 | Neon Struct: Carrion Carrier | 158211 | [158211-neon-struct-carrion-carrier.json](./158211-neon-struct-carrion-carrier.json) |
 | Neon Sword | 107169 | [107169-neon-sword.json](./107169-neon-sword.json) |
+| Neon Tail | 119431 | [119431-neon-tail.json](./119431-neon-tail.json) |
 | Neon Wars | 312925 | [312925-neon-wars.json](./312925-neon-wars.json) |
 | Neon White | 143612 | [143612-neon-white.json](./143612-neon-white.json) |
 | NeonHat | 187517 | [187517-neonhat.json](./187517-neonhat.json) |
@@ -737,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novus Orbis | 253583 | [253583-novus-orbis.json](./253583-novus-orbis.json) |
 | Now Games 2 | 98969 | [98969-now-games-2.json](./98969-now-games-2.json) |
 | Now You Are the Persecuted | 236520 | [236520-now-you-are-the-persecuted.json](./236520-now-you-are-the-persecuted.json) |
+| Now You See | 117439 | [117439-now-you-see.json](./117439-now-you-see.json) |
 | Now You've Made Me Crabby | 183058 | [183058-now-youve-made-me-crabby.json](./183058-now-youve-made-me-crabby.json) |
 | NoWaitHero | 132237 | [132237-nowaithero.json](./132237-nowaithero.json) |
 | Nowv | 320541 | [320541-nowv.json](./320541-nowv.json) |
