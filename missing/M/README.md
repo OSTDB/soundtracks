@@ -86,12 +86,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Alive | 68686 | [68686-mafia-alive.json](./68686-mafia-alive.json) |
 | Mafia Gambling | 89266 | [89266-mafia-gambling.json](./89266-mafia-gambling.json) |
 | Mafia III: Faster, Baby! | 39761 | [39761-mafia-iii-faster-baby.json](./39761-mafia-iii-faster-baby.json) |
+| Mafia Rush | 20727 | [20727-mafia-rush.json](./20727-mafia-rush.json) |
 | Mafia: Sex Noir | 192435 | [192435-mafia-sex-noir.json](./192435-mafia-sex-noir.json) |
 | Mafioso | 348499 | [348499-mafioso.json](./348499-mafioso.json) |
 | Magatsu Barai | 172730 | [172730-magatsu-barai.json](./172730-magatsu-barai.json) |
 | Magatsu Wahrheit | 194004 | [194004-magatsu-wahrheit.json](./194004-magatsu-wahrheit.json) |
 | Mage and Monsters | 209682 | [209682-mage-and-monsters.json](./209682-mage-and-monsters.json) |
 | Mage Arena | 356787 | [356787-mage-arena.json](./356787-mage-arena.json) |
+| Mage Knight: Destiny's Soldier | 20576 | [20576-mage-knight-destinys-soldier.json](./20576-mage-knight-destinys-soldier.json) |
 | Mage Mania | 120408 | [120408-mage-mania.json](./120408-mage-mania.json) |
 | Mage March | 185155 | [185155-mage-march.json](./185155-mage-march.json) |
 | Maggotmania | 109041 | [109041-maggotmania.json](./109041-maggotmania.json) |
@@ -318,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Mountain | 19028 | [19028-marble-mountain.json](./19028-marble-mountain.json) |
 | Marble Odyssey | 113699 | [113699-marble-odyssey.json](./113699-marble-odyssey.json) |
 | Marble Partner | 119756 | [119756-marble-partner.json](./119756-marble-partner.json) |
+| March of the Penguins | 20648 | [20648-march-of-the-penguins.json](./20648-march-of-the-penguins.json) |
 | Mardek RPG: Chapter 1 | 62756 | [62756-mardek-rpg-chapter-1.json](./62756-mardek-rpg-chapter-1.json) |
 | Mare Nostrvm | 137077 | [137077-mare-nostrvm.json](./137077-mare-nostrvm.json) |
 | Margonem | 58835 | [58835-margonem.json](./58835-margonem.json) |
@@ -339,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario 64 x Banjo Kazooie | 134018 | [134018-mario-64-x-banjo-kazooie.json](./134018-mario-64-x-banjo-kazooie.json) |
 | Mario 7-in-1 | 242230 | [242230-mario-7-in-1.json](./242230-mario-7-in-1.json) |
 | Mario and Donkey Kong: Minis on the Move + Mario vs. Donkey Kong: Minis March Again! | 60579 | [60579-mario-and-donkey-kong-minis-on-the-move-mario-vs-donkey-kong-minis-march-again.json](./60579-mario-and-donkey-kong-minis-on-the-move-mario-vs-donkey-kong-minis-march-again.json) |
+| Mario Andretti Racing | 20593 | [20593-mario-andretti-racing.json](./20593-mario-andretti-racing.json) |
 | Mario Artist: Game Maker | 175951 | [175951-mario-artist-game-maker.json](./175951-mario-artist-game-maker.json) |
 | Mario Artist: Graphical Message Maker | 175952 | [175952-mario-artist-graphical-message-maker.json](./175952-mario-artist-graphical-message-maker.json) |
 | Mario Artist: Sound Maker | 175953 | [175953-mario-artist-sound-maker.json](./175953-mario-artist-sound-maker.json) |
@@ -411,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshmallow Marvin: Templestone | 336928 | [336928-marshmallow-marvin-templestone.json](./336928-marshmallow-marvin-templestone.json) |
 | Marsport | 45327 | [45327-marsport.json](./45327-marsport.json) |
 | Marswar TD | 169465 | [169465-marswar-td.json](./169465-marswar-td.json) |
+| Mart Racer | 21060 | [21060-mart-racer.json](./21060-mart-racer.json) |
 | Martha | 144357 | [144357-martha.json](./144357-martha.json) |
 | Martian Wars | 137692 | [137692-martian-wars.json](./137692-martian-wars.json) |
 | Martin Mystery: Monster Invasion | 194613 | [194613-martin-mystery-monster-invasion.json](./194613-martin-mystery-monster-invasion.json) |
@@ -422,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel End Time Arena | 89254 | [89254-marvel-end-time-arena.json](./89254-marvel-end-time-arena.json) |
 | Marvel First Alliance | 300380 | [300380-marvel-first-alliance.json](./300380-marvel-first-alliance.json) |
 | Marvel Mystic Mayhem | 319970 | [319970-marvel-mystic-mayhem.json](./319970-marvel-mystic-mayhem.json) |
+| Marvel Pinball: Avengers Chronicles | 20821 | [20821-marvel-pinball-avengers-chronicles.json](./20821-marvel-pinball-avengers-chronicles.json) |
 | Marvel Super Hero Squad Online | 19663 | [19663-marvel-super-hero-squad-online.json](./19663-marvel-super-hero-squad-online.json) |
 | Marvel Ultimate Alliance 3: The Black Order - Curse of the Vampire | 122700 | [122700-marvel-ultimate-alliance-3-the-black-order-curse-of-the-vampire.json](./122700-marvel-ultimate-alliance-3-the-black-order-curse-of-the-vampire.json) |
 | Marvel Ultimate Alliance 3: The Black Order - Rise of the Phoenix | 122701 | [122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json](./122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json) |
@@ -1228,6 +1234,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mizu no Senritsu 2: Hi no Kioku | 67305 | [67305-mizu-no-senritsu-2-hi-no-kioku.json](./67305-mizu-no-senritsu-2-hi-no-kioku.json) |
 | Mizuki Shigeru no Yokai Shashinkan | 43963 | [43963-mizuki-shigeru-no-yokai-shashinkan.json](./43963-mizuki-shigeru-no-yokai-shashinkan.json) |
 | MJ | 130945 | [130945-mj.json](./130945-mj.json) |
+| MLB 2K10 DS | 21157 | [21157-mlb-2k10-ds.json](./21157-mlb-2k10-ds.json) |
+| MLB Bobblehead Pros | 20562 | [20562-mlb-bobblehead-pros.json](./20562-mlb-bobblehead-pros.json) |
 | MLB Home Run Derby 18 | 96055 | [96055-mlb-home-run-derby-18.json](./96055-mlb-home-run-derby-18.json) |
 | MLB Home Run Derby VR | 293378 | [293378-mlb-home-run-derby-vr.json](./293378-mlb-home-run-derby-vr.json) |
 | MLB Slugfest 2003 | 47334 | [47334-mlb-slugfest-2003.json](./47334-mlb-slugfest-2003.json) |
@@ -1399,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Adventures | 61088 | [61088-monster-adventures.json](./61088-monster-adventures.json) |
 | Monster Arena | 101572 | [101572-monster-arena.json](./101572-monster-arena.json) |
 | Monster Bang | 233764 | [233764-monster-bang.json](./233764-monster-bang.json) |
+| Monster Bomber | 20617 | [20617-monster-bomber.json](./20617-monster-bomber.json) |
 | Monster Box | 68717 | [68717-monster-box.json](./68717-monster-box.json) |
 | Monster Busters: Hexa Blast | 242793 | [242793-monster-busters-hexa-blast.json](./242793-monster-busters-hexa-blast.json) |
 | Monster Care Simulator | 326387 | [326387-monster-care-simulator.json](./326387-monster-care-simulator.json) |
@@ -1654,7 +1663,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Work | 339137 | [339137-mouse-work.json](./339137-mouse-work.json) |
 | Mousey | 231625 | [231625-mousey.json](./231625-mousey.json) |
 | Move Fitness | 22937 | [22937-move-fitness.json](./22937-move-fitness.json) |
+| Move Mind Benders | 20818 | [20818-move-mind-benders.json](./20818-move-mind-benders.json) |
 | Move or Die: Couch Party Edition | 209130 | [209130-move-or-die-couch-party-edition.json](./209130-move-or-die-couch-party-edition.json) |
+| Move Street Cricket | 20806 | [20806-move-street-cricket.json](./20806-move-street-cricket.json) |
 | MoveFort | 318189 | [318189-movefort.json](./318189-movefort.json) |
 | Moves Away | 303794 | [303794-moves-away.json](./303794-moves-away.json) |
 | Movie Award Winners Trivia | 104637 | [104637-movie-award-winners-trivia.json](./104637-movie-award-winners-trivia.json) |
@@ -1869,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lil' Donut | 31971 | [31971-my-lil-donut.json](./31971-my-lil-donut.json) |
 | My Little Fast Food Booth | 147457 | [147457-my-little-fast-food-booth.json](./147457-my-little-fast-food-booth.json) |
 | My Little Garden | 261528 | [261528-my-little-garden.json](./261528-my-little-garden.json) |
+| My Little Kitties | 20759 | [20759-my-little-kitties.json](./20759-my-little-kitties.json) |
 | My Little Kitty Cat | 99001 | [99001-my-little-kitty-cat.json](./99001-my-little-kitty-cat.json) |
 | My Little MILF | 341351 | [341351-my-little-milf.json](./341351-my-little-milf.json) |
 | My Little Pony Crystal Princess: The Runaway Rainbow | 49389 | [49389-my-little-pony-crystal-princess-the-runaway-rainbow.json](./49389-my-little-pony-crystal-princess-the-runaway-rainbow.json) |
