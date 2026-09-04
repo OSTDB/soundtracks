@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EarthBound 64 Experience | 238206 | [238206-earthbound-64-experience.json](./238206-earthbound-64-experience.json) |
 | EarthBound Dimensions | 311281 | [311281-earthbound-dimensions.json](./311281-earthbound-dimensions.json) |
 | Earthtia Saga: Larthur's Legend | 242223 | [242223-earthtia-saga-larthurs-legend.json](./242223-earthtia-saga-larthurs-legend.json) |
+| Earthworm Jim: Menace 2 the Galaxy | 3482 | [3482-earthworm-jim-menace-2-the-galaxy.json](./3482-earthworm-jim-menace-2-the-galaxy.json) |
 | East Defense | 305526 | [305526-east-defense.json](./305526-east-defense.json) |
 | East Front Campaign CD 1 | 78704 | [78704-east-front-campaign-cd-1.json](./78704-east-front-campaign-cd-1.json) |
 | East Front II | 84257 | [84257-east-front-ii.json](./84257-east-front-ii.json) |
@@ -135,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eigenstate | 176470 | [176470-eigenstate.json](./176470-eigenstate.json) |
 | Eight Ball | 93592 | [93592-eight-ball.json](./93592-eight-ball.json) |
 | Eighth Era | 329967 | [329967-eighth-era.json](./329967-eighth-era.json) |
+| Eikou no Saint Andrews | 3484 | [3484-eikou-no-saint-andrews.json](./3484-eikou-no-saint-andrews.json) |
 | Ein Fall für TKKG: Katjas Geheimnis | 127995 | [127995-ein-fall-fur-tkkg-katjas-geheimnis.json](./127995-ein-fall-fur-tkkg-katjas-geheimnis.json) |
 | Eizo Play: Megumi | 69857 | [69857-eizo-play-megumi.json](./69857-eizo-play-megumi.json) |
 | Eko | 223673 | [223673-eko.json](./223673-eko.json) |
