@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: Mosquito FB VI - V for Victory Campaign by Reflected Simulations | 325251 | [325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json](./325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json) |
 | DCS World: OH-58D Kiowa Warrior | 304372 | [304372-dcs-world-oh-58d-kiowa-warrior.json](./304372-dcs-world-oh-58d-kiowa-warrior.json) |
 | DCS: Normandy 1944 | 27782 | [27782-dcs-normandy-1944.json](./27782-dcs-normandy-1944.json) |
+| DDRMax2: Dance Dance Revolution | 44711 | [44711-ddrmax2-dance-dance-revolution.json](./44711-ddrmax2-dance-dance-revolution.json) |
 | DDS Defenders Dark Side | 214726 | [214726-dds-defenders-dark-side.json](./214726-dds-defenders-dark-side.json) |
 | de Blob | 2637 | [2637-de-blob.json](./2637-de-blob.json) |
 | De Blob | 233776 | [233776-de-blob.json](./233776-de-blob.json) |
@@ -434,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dark Forest | 151724 | [151724-deep-dark-forest.json](./151724-deep-dark-forest.json) |
 | Deep Despair 3 | 320554 | [320554-deep-despair-3.json](./320554-deep-despair-3.json) |
 | Deep Echo | 25762 | [25762-deep-echo.json](./25762-deep-echo.json) |
+| Deep Fear | 46057 | [46057-deep-fear.json](./46057-deep-fear.json) |
 | Deep Fishing | 188091 | [188091-deep-fishing.json](./188091-deep-fishing.json) |
 | Deep Fry Maker | 227520 | [227520-deep-fry-maker.json](./227520-deep-fry-maker.json) |
 | Deep Golf | 250658 | [250658-deep-golf.json](./250658-deep-golf.json) |
@@ -1623,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamic Chord feat. Liar-S | 142445 | [142445-dynamic-chord-feat-liar-s.json](./142445-dynamic-chord-feat-liar-s.json) |
 | Dynamite | 94260 | [94260-dynamite.json](./94260-dynamite.json) |
 | Dynamite Duke | 39651 | [39651-dynamite-duke.json](./39651-dynamite-duke.json) |
+| Dynasty Warriors 3: Xtreme Legends | 45014 | [45014-dynasty-warriors-3-xtreme-legends.json](./45014-dynasty-warriors-3-xtreme-legends.json) |
 | Dynasty Warriors 8 | 6976 | [6976-dynasty-warriors-8.json](./6976-dynasty-warriors-8.json) |
 | Dynasty Warriors 9: Complete Edition | 199637 | [199637-dynasty-warriors-9-complete-edition.json](./199637-dynasty-warriors-9-complete-edition.json) |
 | Dynasty Warriors 9: Guo Jia Additional Hypothetical Scenarios Set | 225913 | [225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json](./225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json) |
