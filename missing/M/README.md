@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Daedalus | 218160 | [218160-mad-daedalus.json](./218160-mad-daedalus.json) |
 | Mad Finger Marathon | 233209 | [233209-mad-finger-marathon.json](./233209-mad-finger-marathon.json) |
 | Mad Gun Range VR Simulator | 115689 | [115689-mad-gun-range-vr-simulator.json](./115689-mad-gun-range-vr-simulator.json) |
+| Mad Maestro! | 43634 | [43634-mad-maestro.json](./43634-mad-maestro.json) |
 | Mad Martha | 45367 | [45367-mad-martha.json](./45367-mad-martha.json) |
 | Mad Martha 2 | 45366 | [45366-mad-martha-2.json](./45366-mad-martha-2.json) |
 | Mad Max: Ripper Special Edition | 89930 | [89930-mad-max-ripper-special-edition.json](./89930-mad-max-ripper-special-edition.json) |
@@ -527,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mato Anomalies: Day One Edition | 228732 | [228732-mato-anomalies-day-one-edition.json](./228732-mato-anomalies-day-one-edition.json) |
 | Matricon: Monopoly | 230531 | [230531-matricon-monopoly.json](./230531-matricon-monopoly.json) |
 | Matsuro Palette | 245042 | [245042-matsuro-palette.json](./245042-matsuro-palette.json) |
+| Matt Hazard: Blood Bath and Beyond | 47430 | [47430-matt-hazard-blood-bath-and-beyond.json](./47430-matt-hazard-blood-bath-and-beyond.json) |
 | Matt Sandorf: Journey to Endless Entertainment | 258187 | [258187-matt-sandorf-journey-to-endless-entertainment.json](./258187-matt-sandorf-journey-to-endless-entertainment.json) |
 | Matter | 80601 | [80601-matter.json](./80601-matter.json) |
 | Matts Project Z Endless | 149581 | [149581-matts-project-z-endless.json](./149581-matts-project-z-endless.json) |
@@ -1015,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millennium Mission | 274731 | [274731-millennium-mission.json](./274731-millennium-mission.json) |
 | Millennium Racer: Y2K Fighters | 79897 | [79897-millennium-racer-y2k-fighters.json](./79897-millennium-racer-y2k-fighters.json) |
 | Millennium Winter Sports | 49962 | [49962-millennium-winter-sports.json](./49962-millennium-winter-sports.json) |
+| Million Arthur: Arcana Blood | 44529 | [44529-million-arthur-arcana-blood.json](./44529-million-arthur-arcana-blood.json) |
 | Millionaire Dancer | 117098 | [117098-millionaire-dancer.json](./117098-millionaire-dancer.json) |
 | Mills of Morris | 291763 | [291763-mills-of-morris.json](./291763-mills-of-morris.json) |
 | Milo | 187525 | [187525-milo.json](./187525-milo.json) |
@@ -1199,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MJ | 130945 | [130945-mj.json](./130945-mj.json) |
 | MLB Home Run Derby 18 | 96055 | [96055-mlb-home-run-derby-18.json](./96055-mlb-home-run-derby-18.json) |
 | MLB Home Run Derby VR | 293378 | [293378-mlb-home-run-derby-vr.json](./293378-mlb-home-run-derby-vr.json) |
+| MLB Slugfest 2003 | 47334 | [47334-mlb-slugfest-2003.json](./47334-mlb-slugfest-2003.json) |
 | MLB The Show 19: MVP Edition | 119070 | [119070-mlb-the-show-19-mvp-edition.json](./119070-mlb-the-show-19-mvp-edition.json) |
 | MMA Championship | 189178 | [189178-mma-championship.json](./189178-mma-championship.json) |
 | MMA Federation | 116394 | [116394-mma-federation.json](./116394-mma-federation.json) |
