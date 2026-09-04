@@ -442,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Midnight Suns: Blood Storm | 248352 | [248352-marvels-midnight-suns-blood-storm.json](./248352-marvels-midnight-suns-blood-storm.json) |
 | Marvel's Midnight Suns: The Good, The Bad, and The Undead | 232424 | [232424-marvels-midnight-suns-the-good-the-bad-and-the-undead.json](./232424-marvels-midnight-suns-the-good-the-bad-and-the-undead.json) |
 | Marvel's Moon Girl and Devil Dinosaur: Moon Girl Moxie! | 306670 | [306670-marvels-moon-girl-and-devil-dinosaur-moon-girl-moxie.json](./306670-marvels-moon-girl-and-devil-dinosaur-moon-girl-moxie.json) |
+| Marvellous Inc. | 96638 | [96638-marvellous-inc.json](./96638-marvellous-inc.json) |
 | Mary Had A Lost Lamb | 314072 | [314072-mary-had-a-lost-lamb.json](./314072-mary-had-a-lost-lamb.json) |
 | Mary Knots: Garden Wedding | 170554 | [170554-mary-knots-garden-wedding.json](./170554-mary-knots-garden-wedding.json) |
 | Mary Shelley's Frankenstein | 257663 | [257663-mary-shelleys-frankenstein.json](./257663-mary-shelleys-frankenstein.json) |
@@ -941,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Mayhem | 115040 | [115040-micro-mayhem.json](./115040-micro-mayhem.json) |
 | Micro Mouse Game | 91957 | [91957-micro-mouse-game.json](./91957-micro-mouse-game.json) |
 | Micro Ninja | 314647 | [314647-micro-ninja.json](./314647-micro-ninja.json) |
+| Micro Pico Racers | 96665 | [96665-micro-pico-racers.json](./96665-micro-pico-racers.json) |
 | Micro Plutonia | 312898 | [312898-micro-plutonia.json](./312898-micro-plutonia.json) |
 | MicroCity | 144375 | [144375-microcity.json](./144375-microcity.json) |
 | Microcosm | 13738 | [13738-microcosm.json](./13738-microcosm.json) |
@@ -1257,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Bobblehead Pros | 20562 | [20562-mlb-bobblehead-pros.json](./20562-mlb-bobblehead-pros.json) |
 | MLB Home Run Derby 18 | 96055 | [96055-mlb-home-run-derby-18.json](./96055-mlb-home-run-derby-18.json) |
 | MLB Home Run Derby VR | 293378 | [293378-mlb-home-run-derby-vr.json](./293378-mlb-home-run-derby-vr.json) |
+| MLB Manager 2018 | 96270 | [96270-mlb-manager-2018.json](./96270-mlb-manager-2018.json) |
 | MLB Slugfest 2003 | 47334 | [47334-mlb-slugfest-2003.json](./47334-mlb-slugfest-2003.json) |
 | MLB The Show 19: MVP Edition | 119070 | [119070-mlb-the-show-19-mvp-edition.json](./119070-mlb-the-show-19-mvp-edition.json) |
 | MLB The Show 22: MVP Edition | 196516 | [196516-mlb-the-show-22-mvp-edition.json](./196516-mlb-the-show-22-mvp-edition.json) |
@@ -1698,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MovieStarPlanet | 94981 | [94981-moviestarplanet.json](./94981-moviestarplanet.json) |
 | Moving Out 2: Deluxe Edition | 271470 | [271470-moving-out-2-deluxe-edition.json](./271470-moving-out-2-deluxe-edition.json) |
 | Moving Out: Deluxe Edition | 224202 | [224202-moving-out-deluxe-edition.json](./224202-moving-out-deluxe-edition.json) |
+| Mowin' & Throwin' | 96228 | [96228-mowin-and-throwin.json](./96228-mowin-and-throwin.json) |
 | Mówù Diàocházhě | 154027 | [154027-mowu-diaochazhe.json](./154027-mowu-diaochazhe.json) |
 | Moxie 2 | 174325 | [174325-moxie-2.json](./174325-moxie-2.json) |
 | Moyashibito DX | 233211 | [233211-moyashibito-dx.json](./233211-moyashibito-dx.json) |
@@ -1768,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mudkip Goes to Walmart then Dies | 140023 | [140023-mudkip-goes-to-walmart-then-dies.json](./140023-mudkip-goes-to-walmart-then-dies.json) |
 | Mudkip's Dating Simulator 1+2 | 140022 | [140022-mudkips-dating-simulator-1-2.json](./140022-mudkips-dating-simulator-1-2.json) |
 | Muffins on Stream | 239307 | [239307-muffins-on-stream.json](./239307-muffins-on-stream.json) |
+| Muffled Warfare | 96550 | [96550-muffled-warfare.json](./96550-muffled-warfare.json) |
 | Mugamuchuu | 150166 | [150166-mugamuchuu.json](./150166-mugamuchuu.json) |
 | Mugen no Shinzou II | 246656 | [246656-mugen-no-shinzou-ii.json](./246656-mugen-no-shinzou-ii.json) |
 | Mugen RPG | 301613 | [301613-mugen-rpg.json](./301613-mugen-rpg.json) |
@@ -1846,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MVP 06: NCAA Baseball | 5937 | [5937-mvp-06-ncaa-baseball.json](./5937-mvp-06-ncaa-baseball.json) |
 | MX vs. ATV: Legends - GASGAS Pack 2023 | 274741 | [274741-mx-vs-atv-legends-gasgas-pack-2023.json](./274741-mx-vs-atv-legends-gasgas-pack-2023.json) |
 | MXGP 2021 | 175971 | [175971-mxgp-2021.json](./175971-mxgp-2021.json) |
+| MXGP Pro | 96212 | [96212-mxgp-pro.json](./96212-mxgp-pro.json) |
 | My Anima Boy | 278731 | [278731-my-anima-boy.json](./278731-my-anima-boy.json) |
 | My Aquarium | 52598 | [52598-my-aquarium.json](./52598-my-aquarium.json) |
 | My Baby 3 & Friends | 48041 | [48041-my-baby-3-and-friends.json](./48041-my-baby-3-and-friends.json) |
@@ -1995,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Masters: Mysteries of the Heart | 201812 | [201812-mystery-masters-mysteries-of-the-heart.json](./201812-mystery-masters-mysteries-of-the-heart.json) |
 | Mystery Masters: Wicked Worlds Collection | 201860 | [201860-mystery-masters-wicked-worlds-collection.json](./201860-mystery-masters-wicked-worlds-collection.json) |
 | Mystery of Camp Enigma | 147447 | [147447-mystery-of-camp-enigma.json](./147447-mystery-of-camp-enigma.json) |
+| Mystery of Hidden Inheritance | 95581 | [95581-mystery-of-hidden-inheritance.json](./95581-mystery-of-hidden-inheritance.json) |
 | Mystery of Munroe Manor | 298865 | [298865-mystery-of-munroe-manor.json](./298865-mystery-of-munroe-manor.json) |
 | Mystery of the Ancients: Mudwater Creek | 74415 | [74415-mystery-of-the-ancients-mudwater-creek.json](./74415-mystery-of-the-ancients-mudwater-creek.json) |
 | Mystery of the Lost Temples | 61103 | [61103-mystery-of-the-lost-temples.json](./61103-mystery-of-the-lost-temples.json) |
