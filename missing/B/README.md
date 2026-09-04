@@ -1519,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugdas | 113721 | [113721-bugdas.json](./113721-bugdas.json) |
 | Bugger Off! | 278712 | [278712-bugger-off.json](./278712-bugger-off.json) |
 | Buggy Boogie | 66677 | [66677-buggy-boogie.json](./66677-buggy-boogie.json) |
+| Buggy Boy | 12728 | [12728-buggy-boy.json](./12728-buggy-boy.json) |
 | Bugs | 332238 | [332238-bugs.json](./332238-bugs.json) |
 | Bugs Bunny's Birthday Ball | 81361 | [81361-bugs-bunnys-birthday-ball.json](./81361-bugs-bunnys-birthday-ball.json) |
 | Bugz | 270400 | [270400-bugz.json](./270400-bugz.json) |
