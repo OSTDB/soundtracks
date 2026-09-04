@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Racer: Sky Traffic | 232156 | [232156-air-racer-sky-traffic.json](./232156-air-racer-sky-traffic.json) |
 | Air Racing VR | 192445 | [192445-air-racing-vr.json](./192445-air-racing-vr.json) |
 | Air Raid Over Britain | 89949 | [89949-air-raid-over-britain.json](./89949-air-raid-over-britain.json) |
+| Air Rescue | 45671 | [45671-air-rescue.json](./45671-air-rescue.json) |
 | Air Traffic Control | 15590 | [15590-air-traffic-control.json](./15590-air-traffic-control.json) |
 | Air Traffic Controller Airport Hero 3D New Chitose with JAL | 222522 | [222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json](./222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json) |
 | Air Traffic Disruptor | 51990 | [51990-air-traffic-disruptor.json](./51990-air-traffic-disruptor.json) |
