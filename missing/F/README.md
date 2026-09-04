@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F18 Pilot Simulator | 174355 | [174355-f18-pilot-simulator.json](./174355-f18-pilot-simulator.json) |
 | Fabby Golf | 239324 | [239324-fabby-golf.json](./239324-fabby-golf.json) |
 | Fable III: Limited Collector's Edition | 43958 | [43958-fable-iii-limited-collectors-edition.json](./43958-fable-iii-limited-collectors-edition.json) |
+| Fable III: Understone Quest Pack | 20558 | [20558-fable-iii-understone-quest-pack.json](./20558-fable-iii-understone-quest-pack.json) |
 | Fabled Lands | 133420 | [133420-fabled-lands.json](./133420-fabled-lands.json) |
 | Fabled Lands: The Serpent King's Domain | 296671 | [296671-fabled-lands-the-serpent-kings-domain.json](./296671-fabled-lands-the-serpent-kings-domain.json) |
 | Fables of Talumos | 119007 | [119007-fables-of-talumos.json](./119007-fables-of-talumos.json) |
@@ -404,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 22 | 240455 | [240455-fifa-22.json](./240455-fifa-22.json) |
 | FIFA 22: Legacy Edition | 155102 | [155102-fifa-22-legacy-edition.json](./155102-fifa-22-legacy-edition.json) |
 | FIFA 22: Ultimate Edition | 155101 | [155101-fifa-22-ultimate-edition.json](./155101-fifa-22-ultimate-edition.json) |
+| FIFA Manager 07 | 20676 | [20676-fifa-manager-07.json](./20676-fifa-manager-07.json) |
 | FIFA Manager 12 | 20684 | [20684-fifa-manager-12.json](./20684-fifa-manager-12.json) |
 | FIFA Soccer 07 | 696 | [696-fifa-soccer-07.json](./696-fifa-soccer-07.json) |
 | FIFA Soccer 11 | 503 | [503-fifa-soccer-11.json](./503-fifa-soccer-11.json) |
@@ -436,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Box | 68657 | [68657-fighting-box.json](./68657-fighting-box.json) |
 | Fighting Fantasy Classics | 102159 | [102159-fighting-fantasy-classics.json](./102159-fighting-fantasy-classics.json) |
 | Fighting Fantasy: Island of the Lizard King | 175407 | [175407-fighting-fantasy-island-of-the-lizard-king.json](./175407-fighting-fantasy-island-of-the-lizard-king.json) |
+| Fighting Fantasy: The Talisman of Death | 20571 | [20571-fighting-fantasy-the-talisman-of-death.json](./20571-fighting-fantasy-the-talisman-of-death.json) |
 | Fighting Force Collection | 306653 | [306653-fighting-force-collection.json](./306653-fighting-force-collection.json) |
 | Fighting Fury | 44627 | [44627-fighting-fury.json](./44627-fighting-fury.json) |
 | Fighting Simulator | 326423 | [326423-fighting-simulator.json](./326423-fighting-simulator.json) |
@@ -725,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipped | 190737 | [190737-flipped.json](./190737-flipped.json) |
 | Flipped in Love | 143744 | [143744-flipped-in-love.json](./143744-flipped-in-love.json) |
 | Flipper & Lopaka: The Secrets of the Deep | 62735 | [62735-flipper-and-lopaka-the-secrets-of-the-deep.json](./62735-flipper-and-lopaka-the-secrets-of-the-deep.json) |
+| Flipper Critters | 20693 | [20693-flipper-critters.json](./20693-flipper-critters.json) |
 | Flipping in the air | 278703 | [278703-flipping-in-the-air.json](./278703-flipping-in-the-air.json) |
 | FlipPix Jigsaw - Retro | 91997 | [91997-flippix-jigsaw-retro.json](./91997-flippix-jigsaw-retro.json) |
 | FlipPix Jigsaw - Spicy | 96047 | [96047-flippix-jigsaw-spicy.json](./96047-flippix-jigsaw-spicy.json) |
