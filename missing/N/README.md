@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: Stay Tuned for Danger | 7622 | [7622-nancy-drew-stay-tuned-for-danger.json](./7622-nancy-drew-stay-tuned-for-danger.json) |
 | Nancy Drew: The Final Scene | 7624 | [7624-nancy-drew-the-final-scene.json](./7624-nancy-drew-the-final-scene.json) |
 | Nancy Drew: The Haunted Carousel | 10586 | [10586-nancy-drew-the-haunted-carousel.json](./10586-nancy-drew-the-haunted-carousel.json) |
+| Nancy Drew: Tomb of the Lost Queen | 10587 | [10587-nancy-drew-tomb-of-the-lost-queen.json](./10587-nancy-drew-tomb-of-the-lost-queen.json) |
 | Nanda's Island | 48048 | [48048-nandas-island.json](./48048-nandas-island.json) |
 | Nandemo!? Taihoman | 264312 | [264312-nandemo-taihoman.json](./264312-nandemo-taihoman.json) |
 | Nangoku Shounen Papuwa-kun | 38389 | [38389-nangoku-shounen-papuwa-kun.json](./38389-nangoku-shounen-papuwa-kun.json) |
@@ -626,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Souzou - Tetorigawa Scenario | 150672 | [150672-nobunagas-ambition-souzou-tetorigawa-scenario.json](./150672-nobunagas-ambition-souzou-tetorigawa-scenario.json) |
 | Nobunaga's Ambition: Souzou with Power Up Kit - Gunshinkourinsu Scenario | 150671 | [150671-nobunagas-ambition-souzou-with-power-up-kit-gunshinkourinsu-scenario.json](./150671-nobunagas-ambition-souzou-with-power-up-kit-gunshinkourinsu-scenario.json) |
 | Nobunaga's Ambition: Souzou with Power Up Kit - Shokutokudoumei Scenario | 150666 | [150666-nobunagas-ambition-souzou-with-power-up-kit-shokutokudoumei-scenario.json](./150666-nobunagas-ambition-souzou-with-power-up-kit-shokutokudoumei-scenario.json) |
+| Nobunaga's Ambition: Sphere of Influence | 10996 | [10996-nobunagas-ambition-sphere-of-influence.json](./10996-nobunagas-ambition-sphere-of-influence.json) |
 | Nobunaga's Ambition: Taishi - Birth of Nobunaga Scenario | 150673 | [150673-nobunagas-ambition-taishi-birth-of-nobunaga-scenario.json](./150673-nobunagas-ambition-taishi-birth-of-nobunaga-scenario.json) |
 | Nobunaga's Ambition: Taishi - Mount Tennozan Scenario | 150670 | [150670-nobunagas-ambition-taishi-mount-tennozan-scenario.json](./150670-nobunagas-ambition-taishi-mount-tennozan-scenario.json) |
 | Nobunaga's Ambition: Taishi - The Battle of Nagashino Scenario | 150664 | [150664-nobunagas-ambition-taishi-the-battle-of-nagashino-scenario.json](./150664-nobunagas-ambition-taishi-the-battle-of-nagashino-scenario.json) |
