@@ -103,6 +103,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu Hayami no American Kids: Eigo de Tango | 293910 | [293910-yu-hayami-no-american-kids-eigo-de-tango.json](./293910-yu-hayami-no-american-kids-eigo-de-tango.json) |
 | Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005 | 68039 | [68039-yu-gi-oh-7-trials-to-glory-world-championship-tournament-2005.json](./68039-yu-gi-oh-7-trials-to-glory-world-championship-tournament-2005.json) |
 | Yu-Gi-Oh! Cross Duel | 174874 | [174874-yu-gi-oh-cross-duel.json](./174874-yu-gi-oh-cross-duel.json) |
+| Yu-Gi-Oh! Duel Links | 27093 | [27093-yu-gi-oh-duel-links.json](./27093-yu-gi-oh-duel-links.json) |
+| Yu-Gi-Oh! Forbidden Memories | 4108 | [4108-yu-gi-oh-forbidden-memories.json](./4108-yu-gi-oh-forbidden-memories.json) |
 | Yu-Gi-Oh! GX Card Almanac | 328252 | [328252-yu-gi-oh-gx-card-almanac.json](./328252-yu-gi-oh-gx-card-almanac.json) |
 | Yu-Gi-Oh! Online | 51279 | [51279-yu-gi-oh-online.json](./51279-yu-gi-oh-online.json) |
 | Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006 | 49377 | [49377-yu-gi-oh-ultimate-masters-world-championship-tournament-2006.json](./49377-yu-gi-oh-ultimate-masters-world-championship-tournament-2006.json) |
