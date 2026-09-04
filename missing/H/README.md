@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Wars: Limited Edition | 43956 | [43956-halo-wars-limited-edition.json](./43956-halo-wars-limited-edition.json) |
 | Halo: Combat Devolved | 243401 | [243401-halo-combat-devolved.json](./243401-halo-combat-devolved.json) |
 | Halo: Combat Evolved - E3 2000 Demo | 326970 | [326970-halo-combat-evolved-e3-2000-demo.json](./326970-halo-combat-evolved-e3-2000-demo.json) |
+| Halo: Combat Evolved Anniversary | 2640 | [2640-halo-combat-evolved-anniversary.json](./2640-halo-combat-evolved-anniversary.json) |
 | Halo: Reach - Legendary Edition | 43954 | [43954-halo-reach-legendary-edition.json](./43954-halo-reach-legendary-edition.json) |
 | Hamatora: Look at Smoking World | 60542 | [60542-hamatora-look-at-smoking-world.json](./60542-hamatora-look-at-smoking-world.json) |
 | Hamelin | 229364 | [229364-hamelin.json](./229364-hamelin.json) |
@@ -679,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HIT: Heroes of Incredible Tales | 79317 | [79317-hit-heroes-of-incredible-tales.json](./79317-hit-heroes-of-incredible-tales.json) |
 | Hitler My Friend | 277006 | [277006-hitler-my-friend.json](./277006-hitler-my-friend.json) |
 | Hitman 2 Christmas Game | 336886 | [336886-hitman-2-christmas-game.json](./336886-hitman-2-christmas-game.json) |
+| Hitman 3 | 134595 | [134595-hitman-3.json](./134595-hitman-3.json) |
 | Hitman 3: Trinity Pack | 224225 | [224225-hitman-3-trinity-pack.json](./224225-hitman-3-trinity-pack.json) |
 | Hitme | 178096 | [178096-hitme.json](./178096-hitme.json) |
 | Hitme 2 | 225273 | [225273-hitme-2.json](./225273-hitme-2.json) |
