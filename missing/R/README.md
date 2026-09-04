@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok Tactics | 243421 | [243421-ragnarok-tactics.json](./243421-ragnarok-tactics.json) |
 | Ragnarok: Labyrinth | 197375 | [197375-ragnarok-labyrinth.json](./197375-ragnarok-labyrinth.json) |
 | Ragozin on Moon | 156691 | [156691-ragozin-on-moon.json](./156691-ragozin-on-moon.json) |
+| Raid 2000 | 30955 | [30955-raid-2000.json](./30955-raid-2000.json) |
 | Raid Gaza! | 318205 | [318205-raid-gaza.json](./318205-raid-gaza.json) |
 | Raidborn: Founder's Pack | 298337 | [298337-raidborn-founders-pack.json](./298337-raidborn-founders-pack.json) |
 | Raiders Run | 125440 | [125440-raiders-run.json](./125440-raiders-run.json) |
@@ -363,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redeemart: A Convenient Apocalypse | 226448 | [226448-redeemart-a-convenient-apocalypse.json](./226448-redeemart-a-convenient-apocalypse.json) |
 | Redemption | 306063 | [306063-redemption.json](./306063-redemption.json) |
 | Redemption Cemetery: Bitter Frost | 61076 | [61076-redemption-cemetery-bitter-frost.json](./61076-redemption-cemetery-bitter-frost.json) |
+| Redemption Cemetery: Bitter Frost - Collector's Edition | 30858 | [30858-redemption-cemetery-bitter-frost-collectors-edition.json](./30858-redemption-cemetery-bitter-frost-collectors-edition.json) |
 | Redemption Cemetery: Children's Plight | 61079 | [61079-redemption-cemetery-childrens-plight.json](./61079-redemption-cemetery-childrens-plight.json) |
 | Redemption Cemetery: Clock of Fate - Collector's Edition | 83553 | [83553-redemption-cemetery-clock-of-fate-collectors-edition.json](./83553-redemption-cemetery-clock-of-fate-collectors-edition.json) |
 | Redemption Cemetery: Grave Testimony | 61078 | [61078-redemption-cemetery-grave-testimony.json](./61078-redemption-cemetery-grave-testimony.json) |
@@ -954,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roof Genocide | 193492 | [193492-roof-genocide.json](./193492-roof-genocide.json) |
 | Roof Jump Stunt Driver | 231054 | [231054-roof-jump-stunt-driver.json](./231054-roof-jump-stunt-driver.json) |
 | Roof Jumping: Stunt Driver Sim | 104087 | [104087-roof-jumping-stunt-driver-sim.json](./104087-roof-jumping-stunt-driver-sim.json) |
+| Roofbot | 30897 | [30897-roofbot.json](./30897-roofbot.json) |
 | Roofbot: Puzzler on the Roof | 96729 | [96729-roofbot-puzzler-on-the-roof.json](./96729-roofbot-puzzler-on-the-roof.json) |
 | Rookie Math Pro | 102205 | [102205-rookie-math-pro.json](./102205-rookie-math-pro.json) |
 | Rookie Tank | 116357 | [116357-rookie-tank.json](./116357-rookie-tank.json) |
@@ -1074,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruined King: A League of Legends Story - Deluxe Edition | 186888 | [186888-ruined-king-a-league-of-legends-story-deluxe-edition.json](./186888-ruined-king-a-league-of-legends-story-deluxe-edition.json) |
 | Ruins of Mitriom | 186320 | [186320-ruins-of-mitriom.json](./186320-ruins-of-mitriom.json) |
 | Ruins To Fortress | 273638 | [273638-ruins-to-fortress.json](./273638-ruins-to-fortress.json) |
+| RuinsCity_VR | 30930 | [30930-ruinscity-vr.json](./30930-ruinscity-vr.json) |
 | Ruler of the Earth | 185694 | [185694-ruler-of-the-earth.json](./185694-ruler-of-the-earth.json) |
 | Rules of the Game | 94237 | [94237-rules-of-the-game.json](./94237-rules-of-the-game.json) |
 | Ruma | 274210 | [274210-ruma.json](./274210-ruma.json) |
@@ -1081,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble League | 126042 | [126042-rumble-league.json](./126042-rumble-league.json) |
 | Rumia in the darkness | 121013 | [121013-rumia-in-the-darkness.json](./121013-rumia-in-the-darkness.json) |
 | Rump! | 35772 | [35772-rump.json](./35772-rump.json) |
+| Rumpus | 30940 | [30940-rumpus.json](./30940-rumpus.json) |
 | Run & Jump Guy | 304363 | [304363-run-and-jump-guy.json](./304363-run-and-jump-guy.json) |
 | Run Away With Me, Empress! | 225270 | [225270-run-away-with-me-empress.json](./225270-run-away-with-me-empress.json) |
 | Run Buddy | 274211 | [274211-run-buddy.json](./274211-run-buddy.json) |
