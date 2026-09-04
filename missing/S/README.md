@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seed of Pandora: Legend of the Gaia Tree | 237051 | [237051-seed-of-pandora-legend-of-the-gaia-tree.json](./237051-seed-of-pandora-legend-of-the-gaia-tree.json) |
 | Seed's End | 339088 | [339088-seeds-end.json](./339088-seeds-end.json) |
 | Seedbo And That Time The Sun Exploded | 325829 | [325829-seedbo-and-that-time-the-sun-exploded.json](./325829-seedbo-and-that-time-the-sun-exploded.json) |
+| Seeds Life | 25756 | [25756-seeds-life.json](./25756-seeds-life.json) |
 | Seek | 333917 | [333917-seek.json](./333917-seek.json) |
 | Seek & Dread Online | 292853 | [292853-seek-and-dread-online.json](./292853-seek-and-dread-online.json) |
 | Seek & Snipe | 267106 | [267106-seek-and-snipe.json](./267106-seek-and-snipe.json) |
@@ -572,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Spotter | 231653 | [231653-shadow-spotter.json](./231653-shadow-spotter.json) |
 | Shadow Stalker | 264319 | [264319-shadow-stalker.json](./264319-shadow-stalker.json) |
 | Shadow Warrior 2: Bounty Hunt Part 1 | 27876 | [27876-shadow-warrior-2-bounty-hunt-part-1.json](./27876-shadow-warrior-2-bounty-hunt-part-1.json) |
+| Shadow Warrior 2: Special Reserve Collector's Edition | 25772 | [25772-shadow-warrior-2-special-reserve-collectors-edition.json](./25772-shadow-warrior-2-special-reserve-collectors-edition.json) |
 | Shadow Wolf Mysteries: Cursed Wedding - Collector's Edition | 99620 | [99620-shadow-wolf-mysteries-cursed-wedding-collectors-edition.json](./99620-shadow-wolf-mysteries-cursed-wedding-collectors-edition.json) |
 | Shadow Wolf Mysteries: Cursed Wedding & Shadow Wolf Mysteries: Under the Crimson Moon | 201811 | [201811-shadow-wolf-mysteries-cursed-wedding-and-shadow-wolf-mysteries-under-the-crimson-moon.json](./201811-shadow-wolf-mysteries-cursed-wedding-and-shadow-wolf-mysteries-under-the-crimson-moon.json) |
 | Shadow's Bullet | 191871 | [191871-shadows-bullet.json](./191871-shadows-bullet.json) |
@@ -1580,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Agent Mission | 212486 | [212486-space-agent-mission.json](./212486-space-agent-mission.json) |
 | Space Badminton VR | 29853 | [29853-space-badminton-vr.json](./29853-space-badminton-vr.json) |
 | Space Baller | 133431 | [133431-space-baller.json](./133431-space-baller.json) |
+| Space Ballet | 25758 | [25758-space-ballet.json](./25758-space-ballet.json) |
 | Space Battle: Sea Battle | 264906 | [264906-space-battle-sea-battle.json](./264906-space-battle-sea-battle.json) |
 | Space Berserker | 82929 | [82929-space-berserker.json](./82929-space-berserker.json) |
 | Space Betrayers | 188068 | [188068-space-betrayers.json](./188068-space-betrayers.json) |
@@ -1630,6 +1633,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
 | Space Misfits | 123040 | [123040-space-misfits.json](./123040-space-misfits.json) |
 | Space Operation | 273661 | [273661-space-operation.json](./273661-space-operation.json) |
+| Space Pilot | 25722 | [25722-space-pilot.json](./25722-space-pilot.json) |
+| Space Pilot 2 | 25723 | [25723-space-pilot-2.json](./25723-space-pilot-2.json) |
 | Space Pinball | 50595 | [50595-space-pinball.json](./50595-space-pinball.json) |
 | Space Quiz | 74456 | [74456-space-quiz.json](./74456-space-quiz.json) |
 | Space Rage | 105947 | [105947-space-rage.json](./105947-space-rage.json) |
@@ -2426,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Black Onyx | 48704 | [48704-super-black-onyx.json](./48704-super-black-onyx.json) |
 | Super Blocmania 3D + 3D Brick Blaster | 91431 | [91431-super-blocmania-3d-3d-brick-blaster.json](./91431-super-blocmania-3d-3d-brick-blaster.json) |
 | Super Bo Noise | 316988 | [316988-super-bo-noise.json](./316988-super-bo-noise.json) |
+| Super Boat Rescue | 25767 | [25767-super-boat-rescue.json](./25767-super-boat-rescue.json) |
 | Super Bomberman R Online: Premium Pack | 150653 | [150653-super-bomberman-r-online-premium-pack.json](./150653-super-bomberman-r-online-premium-pack.json) |
 | Super Bowsette 64 | 240461 | [240461-super-bowsette-64.json](./240461-super-bowsette-64.json) |
 | Super Brain Eat 3 | 63854 | [63854-super-brain-eat-3.json](./63854-super-brain-eat-3.json) |
@@ -2696,6 +2702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Rugby | 48664 | [48664-super-rugby.json](./48664-super-rugby.json) |
 | Super Russian Roulette | 307936 | [307936-super-russian-roulette.json](./307936-super-russian-roulette.json) |
 | Super Samtong | 92509 | [92509-super-samtong.json](./92509-super-samtong.json) |
+| Super Screepy Underworld | 25740 | [25740-super-screepy-underworld.json](./25740-super-screepy-underworld.json) |
 | Super Seals Float | 149594 | [149594-super-seals-float.json](./149594-super-seals-float.json) |
 | Super Shape Cascade | 268225 | [268225-super-shape-cascade.json](./268225-super-shape-cascade.json) |
 | Super Sheffy Bros. 3 | 214772 | [214772-super-sheffy-bros-3.json](./214772-super-sheffy-bros-3.json) |
