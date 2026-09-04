@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages 2500 Vol. 23: Sega Memorial Selection | 69883 | [69883-sega-ages-2500-vol-23-sega-memorial-selection.json](./69883-sega-ages-2500-vol-23-sega-memorial-selection.json) |
 | Sega Ages 2500 Vol. 29: Monster World Complete Collection | 78047 | [78047-sega-ages-2500-vol-29-monster-world-complete-collection.json](./78047-sega-ages-2500-vol-29-monster-world-complete-collection.json) |
 | Sega Genesis Classic Collection: Gold Edition | 51261 | [51261-sega-genesis-classic-collection-gold-edition.json](./51261-sega-genesis-classic-collection-gold-edition.json) |
+| Sega Rally 2 | 1572 | [1572-sega-rally-2.json](./1572-sega-rally-2.json) |
 | Sega Superstars Tennis | 255326 | [255326-sega-superstars-tennis.json](./255326-sega-superstars-tennis.json) |
 | Sei Monmusu Festival!! Omatsuri da yo Zen'in Shuugou! | 77370 | [77370-sei-monmusu-festival-omatsuri-da-yo-zenin-shuugou.json](./77370-sei-monmusu-festival-omatsuri-da-yo-zenin-shuugou.json) |
 | Sei no Shoujo: Bishoujo Gakuen 3 | 194623 | [194623-sei-no-shoujo-bishoujo-gakuen-3.json](./194623-sei-no-shoujo-bishoujo-gakuen-3.json) |
@@ -1263,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Plissken's Escape | 67295 | [67295-snake-plisskens-escape.json](./67295-snake-plisskens-escape.json) |
 | Snake Quest | 261517 | [261517-snake-quest.json](./261517-snake-quest.json) |
 | Snake: The Elder Forest | 122415 | [122415-snake-the-elder-forest.json](./122415-snake-the-elder-forest.json) |
+| Snake's Revenge | 7848 | [7848-snakes-revenge.json](./7848-snakes-revenge.json) |
 | Snakebird GB | 324694 | [324694-snakebird-gb.json](./324694-snakebird-gb.json) |
 | SnakeBird NES | 228690 | [228690-snakebird-nes.json](./228690-snakebird-nes.json) |
 | SnakeByte | 193470 | [193470-snakebyte.json](./193470-snakebyte.json) |
@@ -1671,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Source Code | 340199 | [340199-source-code.json](./340199-source-code.json) |
 | Source Control | 62734 | [62734-source-control.json](./62734-source-control.json) |
 | Soushuu Senshinkan Gakuen Bansenjin | 137082 | [137082-soushuu-senshinkan-gakuen-bansenjin.json](./137082-soushuu-senshinkan-gakuen-bansenjin.json) |
+| South Park Rally | 1259 | [1259-south-park-rally.json](./1259-south-park-rally.json) |
 | South Park: Snow Day! | 261145 | [261145-south-park-snow-day.json](./261145-south-park-snow-day.json) |
 | South Park: The Fractured but Whole - Collector's Edition | 11003 | [11003-south-park-the-fractured-but-whole-collectors-edition.json](./11003-south-park-the-fractured-but-whole-collectors-edition.json) |
 | South Pole Bebop | 298875 | [298875-south-pole-bebop.json](./298875-south-pole-bebop.json) |
@@ -1997,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spykebots | 113706 | [113706-spykebots.json](./113706-spykebots.json) |
 | Spyrit Walker | 304872 | [304872-spyrit-walker.json](./304872-spyrit-walker.json) |
 | Spyro the Dragon | 290718 | [290718-spyro-the-dragon.json](./290718-spyro-the-dragon.json) |
+| Spyro: Season of Ice | 1587 | [1587-spyro-season-of-ice.json](./1587-spyro-season-of-ice.json) |
 | Squad | 9495 | [9495-squad.json](./9495-squad.json) |
 | Squad Battles: The Proud and the Few | 186303 | [186303-squad-battles-the-proud-and-the-few.json](./186303-squad-battles-the-proud-and-the-few.json) |
 | Squad Battles: Vietnam | 70966 | [70966-squad-battles-vietnam.json](./70966-squad-battles-vietnam.json) |
@@ -2318,6 +2322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Tales | 34386 | [34386-stone-tales.json](./34386-stone-tales.json) |
 | Stone Wars | 91938 | [91938-stone-wars.json](./91938-stone-wars.json) |
 | Stonehenge VR | 33137 | [33137-stonehenge-vr.json](./33137-stonehenge-vr.json) |
+| Stonekeep | 253 | [253-stonekeep.json](./253-stonekeep.json) |
 | StoneStory | 339662 | [339662-stonestory.json](./339662-stonestory.json) |
 | Stop and Go | 93567 | [93567-stop-and-go.json](./93567-stop-and-go.json) |
 | Stop Those Aliens! | 277567 | [277567-stop-those-aliens.json](./277567-stop-those-aliens.json) |
