@@ -1101,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Goddess of Wisdom | 275308 | [275308-the-legend-of-zelda-goddess-of-wisdom.json](./275308-the-legend-of-zelda-goddess-of-wisdom.json) |
 | The Legend of Zelda: Journey of a Day | 269848 | [269848-the-legend-of-zelda-journey-of-a-day.json](./269848-the-legend-of-zelda-journey-of-a-day.json) |
 | The Legend of Zelda: Just Beginning | 324079 | [324079-the-legend-of-zelda-just-beginning.json](./324079-the-legend-of-zelda-just-beginning.json) |
+| The Legend of Zelda: Link's Awakening | 1028 | [1028-the-legend-of-zelda-links-awakening.json](./1028-the-legend-of-zelda-links-awakening.json) |
 | The Legend of Zelda: Link's Shadow | 269867 | [269867-the-legend-of-zelda-links-shadow.json](./269867-the-legend-of-zelda-links-shadow.json) |
 | The Legend of Zelda: Mystery of Solarus XD | 46620 | [46620-the-legend-of-zelda-mystery-of-solarus-xd.json](./46620-the-legend-of-zelda-mystery-of-solarus-xd.json) |
 | The Legend of Zelda: Nightmare | 255387 | [255387-the-legend-of-zelda-nightmare.json](./255387-the-legend-of-zelda-nightmare.json) |
@@ -1121,6 +1122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lilows 2 | 239888 | [239888-the-lilows-2.json](./239888-the-lilows-2.json) |
 | The Lima Project | 271492 | [271492-the-lima-project.json](./271492-the-lima-project.json) |
 | The Line TD | 275335 | [275335-the-line-td.json](./275335-the-line-td.json) |
+| The Lion King | 3166 | [3166-the-lion-king.json](./3166-the-lion-king.json) |
 | The Lion's Song: Episode 2 - Anthology | 168343 | [168343-the-lions-song-episode-2-anthology.json](./168343-the-lions-song-episode-2-anthology.json) |
 | The Lion's Song: Episode 3 - Derivation | 168345 | [168345-the-lions-song-episode-3-derivation.json](./168345-the-lions-song-episode-3-derivation.json) |
 | The Lion's Song: Episode 4 - Closure | 168344 | [168344-the-lions-song-episode-4-closure.json](./168344-the-lions-song-episode-4-closure.json) |
@@ -1145,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: Adventure Card Game - Definitive Edition | 147962 | [147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json](./147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json) |
 | The Lord of the Rings: Return to Moria - Ent-craft Pack | 336898 | [336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json](./336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json) |
 | The Lord of the Rings: Rise to War | 174867 | [174867-the-lord-of-the-rings-rise-to-war.json](./174867-the-lord-of-the-rings-rise-to-war.json) |
+| The Lord of the Rings: The Battle for Middle-earth | 3154 | [3154-the-lord-of-the-rings-the-battle-for-middle-earth.json](./3154-the-lord-of-the-rings-the-battle-for-middle-earth.json) |
 | The Lord of War | 262064 | [262064-the-lord-of-war.json](./262064-the-lord-of-war.json) |
 | The Lords of Midnight | 25733 | [25733-the-lords-of-midnight.json](./25733-the-lords-of-midnight.json) |
 | The Lost | 120432 | [120432-the-lost.json](./120432-the-lost.json) |
@@ -1330,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Purgatory and the Stolen Souls | 239285 | [239285-the-purgatory-and-the-stolen-souls.json](./239285-the-purgatory-and-the-stolen-souls.json) |
 | The Puzzle of Blocks | 268214 | [268214-the-puzzle-of-blocks.json](./268214-the-puzzle-of-blocks.json) |
 | The Pyramid | 45362 | [45362-the-pyramid.json](./45362-the-pyramid.json) |
+| The Quarry | 194404 | [194404-the-quarry.json](./194404-the-quarry.json) |
 | The Quest for Achievements Remix | 121008 | [121008-the-quest-for-achievements-remix.json](./121008-the-quest-for-achievements-remix.json) |
 | The Quest for Moe's | 112977 | [112977-the-quest-for-moes.json](./112977-the-quest-for-moes.json) |
 | The Quest for One | 202970 | [202970-the-quest-for-one.json](./202970-the-quest-for-one.json) |
@@ -1360,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Right Turn | 183060 | [183060-the-right-turn.json](./183060-the-right-turn.json) |
 | The River Of Fire | 268730 | [268730-the-river-of-fire.json](./268730-the-river-of-fire.json) |
 | The Road Driver | 221387 | [221387-the-road-driver.json](./221387-the-road-driver.json) |
+| The Room | 11625 | [11625-the-room.json](./11625-the-room.json) |
 | The Room of Black & White | 34455 | [34455-the-room-of-black-and-white.json](./34455-the-room-of-black-and-white.json) |
 | The Room Syndrome | 124218 | [124218-the-room-syndrome.json](./124218-the-room-syndrome.json) |
 | The Rooms | 191855 | [191855-the-rooms.json](./191855-the-rooms.json) |
@@ -1661,6 +1666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch's Cauldron: Supporter Pack | 309647 | [309647-the-witchs-cauldron-supporter-pack.json](./309647-the-witchs-cauldron-supporter-pack.json) |
 | The Witch's Knight | 254745 | [254745-the-witchs-knight.json](./254745-the-witchs-knight.json) |
 | The Witch's Yarn | 9510 | [9510-the-witchs-yarn.json](./9510-the-witchs-yarn.json) |
+| The Witcher 2: Assassins of Kings - Enhanced Edition | 20740 | [20740-the-witcher-2-assassins-of-kings-enhanced-edition.json](./20740-the-witcher-2-assassins-of-kings-enhanced-edition.json) |
 | The Wizard Game | 149092 | [149092-the-wizard-game.json](./149092-the-wizard-game.json) |
 | The Wizard of Oz | 25781 | [25781-the-wizard-of-oz.json](./25781-the-wizard-of-oz.json) |
 | The Wizard Party | 277609 | [277609-the-wizard-party.json](./277609-the-wizard-party.json) |
@@ -2171,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Splinter Cell | 90689 | [90689-tom-clancys-splinter-cell.json](./90689-tom-clancys-splinter-cell.json) |
 | Tom Clancy's Splinter Cell: Conviction - Insurgency Pack | 11010 | [11010-tom-clancys-splinter-cell-conviction-insurgency-pack.json](./11010-tom-clancys-splinter-cell-conviction-insurgency-pack.json) |
 | Tom Clancy's Splinter Cell: Elite Echelon Edition | 27866 | [27866-tom-clancys-splinter-cell-elite-echelon-edition.json](./27866-tom-clancys-splinter-cell-elite-echelon-edition.json) |
+| Tom Clancy's Splinter Cell: Pandora Tomorrow | 874 | [874-tom-clancys-splinter-cell-pandora-tomorrow.json](./874-tom-clancys-splinter-cell-pandora-tomorrow.json) |
 | Tom Clancy's SSN | 57686 | [57686-tom-clancys-ssn.json](./57686-tom-clancys-ssn.json) |
 | Tom Clancy's The Division 2: Warlord of New York - Season 1: Shadow Tide | 217527 | [217527-tom-clancys-the-division-2-warlord-of-new-york-season-1-shadow-tide.json](./217527-tom-clancys-the-division-2-warlord-of-new-york-season-1-shadow-tide.json) |
 | Tom Clancy's The Division 2: Warlords of New York - Season 10: Price of Power | 217537 | [217537-tom-clancys-the-division-2-warlords-of-new-york-season-10-price-of-power.json](./217537-tom-clancys-the-division-2-warlords-of-new-york-season-10-price-of-power.json) |
@@ -2219,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonka: Dig'n Rigs | 226412 | [226412-tonka-dign-rigs.json](./226412-tonka-dign-rigs.json) |
 | Tony & Friends in Kellogg's Land | 58272 | [58272-tony-and-friends-in-kelloggs-land.json](./58272-tony-and-friends-in-kelloggs-land.json) |
 | Tony and Clyde | 172753 | [172753-tony-and-clyde.json](./172753-tony-and-clyde.json) |
+| Tony Hawk's Pro Skater | 6692 | [6692-tony-hawks-pro-skater.json](./6692-tony-hawks-pro-skater.json) |
 | Tony Hawk's Pro Skater 2 | 229927 | [229927-tony-hawks-pro-skater-2.json](./229927-tony-hawks-pro-skater-2.json) |
 | Tony La Russa Baseball 2 | 95465 | [95465-tony-la-russa-baseball-2.json](./95465-tony-la-russa-baseball-2.json) |
 | Tony Stewart's All-American Racing: Texas Motor Speedway Dirt Track | 167851 | [167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json](./167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json) |
