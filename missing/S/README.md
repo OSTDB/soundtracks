@@ -590,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowsense. | 207510 | [207510-shadowsense.json](./207510-shadowsense.json) |
 | Shadowvane | 254781 | [254781-shadowvane.json](./254781-shadowvane.json) |
 | Shadowveil: Legend of The Five Rings | 321163 | [321163-shadowveil-legend-of-the-five-rings.json](./321163-shadowveil-legend-of-the-five-rings.json) |
+| Shady Brook - A Dark Mystery Text Adventure | 30903 | [30903-shady-brook-a-dark-mystery-text-adventure.json](./30903-shady-brook-a-dark-mystery-text-adventure.json) |
 | Shady Business | 195198 | [195198-shady-business.json](./195198-shady-business.json) |
 | Shakes and Fidget Remastered | 112346 | [112346-shakes-and-fidget-remastered.json](./112346-shakes-and-fidget-remastered.json) |
 | Shakugan no Shana | 72686 | [72686-shakugan-no-shana.json](./72686-shakugan-no-shana.json) |
@@ -723,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiryou Sensen: War of the Dead | 42041 | [42041-shiryou-sensen-war-of-the-dead.json](./42041-shiryou-sensen-war-of-the-dead.json) |
 | Shitataru Ano Ko: Drenched Girls | 271505 | [271505-shitataru-ano-ko-drenched-girls.json](./271505-shitataru-ano-ko-drenched-girls.json) |
 | Shitataru Nikki | 257085 | [257085-shitataru-nikki.json](./257085-shitataru-nikki.json) |
+| Shiver: Poltergeist - Collector's Edition | 30895 | [30895-shiver-poltergeist-collectors-edition.json](./30895-shiver-poltergeist-collectors-edition.json) |
 | Shizue: Innocent Curse | 117086 | [117086-shizue-innocent-curse.json](./117086-shizue-innocent-curse.json) |
 | Shleep | 340225 | [340225-shleep.json](./340225-shleep.json) |
 | Shmucker Casino 2: Purple Boog's Revenge | 270371 | [270371-shmucker-casino-2-purple-boogs-revenge.json](./270371-shmucker-casino-2-purple-boogs-revenge.json) |
@@ -2006,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarRaver | 237072 | [237072-starraver.json](./237072-starraver.json) |
 | Starry Flowers | 145644 | [145644-starry-flowers.json](./145644-starry-flowers.json) |
 | Starry Moon Island: Mobile Stronghold MP09 | 190696 | [190696-starry-moon-island-mobile-stronghold-mp09.json](./190696-starry-moon-island-mobile-stronghold-mp09.json) |
+| Starry Nights: Helix | 30868 | [30868-starry-nights-helix.json](./30868-starry-nights-helix.json) |
 | Starry Sky: After Spring Portable | 201833 | [201833-starry-sky-after-spring-portable.json](./201833-starry-sky-after-spring-portable.json) |
 | Starry Sky: in Spring 3D | 201302 | [201302-starry-sky-in-spring-3d.json](./201302-starry-sky-in-spring-3d.json) |
 | Starry Sky: Spring Stories | 202374 | [202374-starry-sky-spring-stories.json](./202374-starry-sky-spring-stories.json) |
@@ -2272,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Stalker | 93053 | [93053-sub-stalker.json](./93053-sub-stalker.json) |
 | Sub Terra Draconis | 57099 | [57099-sub-terra-draconis.json](./57099-sub-terra-draconis.json) |
 | Sub0ptimal | 339653 | [339653-sub0ptimal.json](./339653-sub0ptimal.json) |
+| Subject 264 | 30959 | [30959-subject-264.json](./30959-subject-264.json) |
 | Subjectivation | 341910 | [341910-subjectivation.json](./341910-subjectivation.json) |
 | Submachine Extended Version | 259844 | [259844-submachine-extended-version.json](./259844-submachine-extended-version.json) |
 | Submarine War | 154007 | [154007-submarine-war.json](./154007-submarine-war.json) |
