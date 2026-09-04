@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Artist: Graphical Message Maker | 175952 | [175952-mario-artist-graphical-message-maker.json](./175952-mario-artist-graphical-message-maker.json) |
 | Mario Artist: Sound Maker | 175953 | [175953-mario-artist-sound-maker.json](./175953-mario-artist-sound-maker.json) |
 | Mario Artist: Video Jockey Maker | 175954 | [175954-mario-artist-video-jockey-maker.json](./175954-mario-artist-video-jockey-maker.json) |
+| Mario Bros. | 172201 | [172201-mario-bros.json](./172201-mario-bros.json) |
 | Mario Bros. | 257638 | [257638-mario-bros.json](./257638-mario-bros.json) |
 | Mario Bros.-e | 170013 | [170013-mario-bros-e.json](./170013-mario-bros-e.json) |
 | Mario Drinks A Glass of Milk | 250051 | [250051-mario-drinks-a-glass-of-milk.json](./250051-mario-drinks-a-glass-of-milk.json) |
@@ -619,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega-Bots | 214776 | [214776-mega-bots.json](./214776-mega-bots.json) |
 | Mega-Corp | 45345 | [45345-mega-corp.json](./45345-mega-corp.json) |
 | MegaAri | 205788 | [205788-megaari.json](./205788-megaari.json) |
+| Megabonk | 327405 | [327405-megabonk.json](./327405-megabonk.json) |
 | Megadimension Neptunia VII: Party Character - God Eater | 238177 | [238177-megadimension-neptunia-vii-party-character-god-eater.json](./238177-megadimension-neptunia-vii-party-character-god-eater.json) |
 | Megadimension Neptunia VII: Party Character - Nitroplus | 238178 | [238178-megadimension-neptunia-vii-party-character-nitroplus.json](./238178-megadimension-neptunia-vii-party-character-nitroplus.json) |
 | Megadimension Neptunia VII: Party Character - Umio & Nepgya | 238179 | [238179-megadimension-neptunia-vii-party-character-umio-and-nepgya.json](./238179-megadimension-neptunia-vii-party-character-umio-and-nepgya.json) |
@@ -1015,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Racer Car Shop Simulator | 326386 | [326386-mini-racer-car-shop-simulator.json](./326386-mini-racer-car-shop-simulator.json) |
 | Mini Racing: Mini Cars Curling | 233755 | [233755-mini-racing-mini-cars-curling.json](./233755-mini-racing-mini-cars-curling.json) |
 | Mini Rogue | 144376 | [144376-mini-rogue.json](./144376-mini-rogue.json) |
+| Mini Royale | 201020 | [201020-mini-royale.json](./201020-mini-royale.json) |
 | Mini Subway: Logic on the Metro Line | 209693 | [209693-mini-subway-logic-on-the-metro-line.json](./209693-mini-subway-logic-on-the-metro-line.json) |
 | Mini Tennis Club | 298308 | [298308-mini-tennis-club.json](./298308-mini-tennis-club.json) |
 | Mini Warriors: Three Kingdoms | 196305 | [196305-mini-warriors-three-kingdoms.json](./196305-mini-warriors-three-kingdoms.json) |
@@ -1288,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Grid | 341331 | [341331-monster-grid.json](./341331-monster-grid.json) |
 | Monster Heart | 229929 | [229929-monster-heart.json](./229929-monster-heart.json) |
 | Monster Hunter 4 Ultimate | 6440 | [6440-monster-hunter-4-ultimate.json](./6440-monster-hunter-4-ultimate.json) |
+| Monster Hunter Generations Ultimate | 25623 | [25623-monster-hunter-generations-ultimate.json](./25623-monster-hunter-generations-ultimate.json) |
 | Monster Hunter Rise + Sunbreak: Deluxe Edition | 208042 | [208042-monster-hunter-rise-sunbreak-deluxe-edition.json](./208042-monster-hunter-rise-sunbreak-deluxe-edition.json) |
 | Monster Hunter Rise: Bonus Update | 252384 | [252384-monster-hunter-rise-bonus-update.json](./252384-monster-hunter-rise-bonus-update.json) |
 | Monster Hunter Rise: Title Update 1 | 252379 | [252379-monster-hunter-rise-title-update-1.json](./252379-monster-hunter-rise-title-update-1.json) |
