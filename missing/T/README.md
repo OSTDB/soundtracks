@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cheetah Girls | 49367 | [49367-the-cheetah-girls.json](./49367-the-cheetah-girls.json) |
 | The Chick C | 191265 | [191265-the-chick-c.json](./191265-the-chick-c.json) |
 | The Chicken Bandit | 61117 | [61117-the-chicken-bandit.json](./61117-the-chicken-bandit.json) |
+| The Chinese Room | 26699 | [26699-the-chinese-room.json](./26699-the-chinese-room.json) |
 | The Christmas Spirit: Grimm Tales | 139430 | [139430-the-christmas-spirit-grimm-tales.json](./139430-the-christmas-spirit-grimm-tales.json) |
 | The Chronicles of Penghao: Ming | 292289 | [292289-the-chronicles-of-penghao-ming.json](./292289-the-chronicles-of-penghao-ming.json) |
 | The Chrono Jotter | 157173 | [157173-the-chrono-jotter.json](./157173-the-chrono-jotter.json) |
@@ -777,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End is Never the End | 269850 | [269850-the-end-is-never-the-end.json](./269850-the-end-is-never-the-end.json) |
 | The End of Us | 115033 | [115033-the-end-of-us.json](./115033-the-end-of-us.json) |
 | The Endless Adventure | 165686 | [165686-the-endless-adventure.json](./165686-the-endless-adventure.json) |
+| The Endless Express | 26669 | [26669-the-endless-express.json](./26669-the-endless-express.json) |
 | The Engraved Dispatch | 181366 | [181366-the-engraved-dispatch.json](./181366-the-engraved-dispatch.json) |
 | The Entertainment | 128622 | [128622-the-entertainment.json](./128622-the-entertainment.json) |
 | The Envolution of Wandaland | 254137 | [254137-the-envolution-of-wandaland.json](./254137-the-envolution-of-wandaland.json) |
@@ -902,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Stroke-Off! | 73311 | [73311-the-great-stroke-off.json](./73311-the-great-stroke-off.json) |
 | The Great Yokai of the Haunted Halls | 331118 | [331118-the-great-yokai-of-the-haunted-halls.json](./331118-the-great-yokai-of-the-haunted-halls.json) |
 | The Griffon Legend | 202975 | [202975-the-griffon-legend.json](./202975-the-griffon-legend.json) |
+| The Growth Project | 26614 | [26614-the-growth-project.json](./26614-the-growth-project.json) |
 | The Guardian and the Dreamer | 318801 | [318801-the-guardian-and-the-dreamer.json](./318801-the-guardian-and-the-dreamer.json) |
 | The Hamlet | 326991 | [326991-the-hamlet.json](./326991-the-hamlet.json) |
 | The Hand is Faster than the Eye | 318227 | [318227-the-hand-is-faster-than-the-eye.json](./318227-the-hand-is-faster-than-the-eye.json) |
@@ -1254,6 +1257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pet Squad | 332810 | [332810-the-pet-squad.json](./332810-the-pet-squad.json) |
 | The Pilgrim's Progress: The Video Game | 61109 | [61109-the-pilgrims-progress-the-video-game.json](./61109-the-pilgrims-progress-the-video-game.json) |
 | The Pillagers of Raillore | 137096 | [137096-the-pillagers-of-raillore.json](./137096-the-pillagers-of-raillore.json) |
+| The Plague | 26707 | [26707-the-plague.json](./26707-the-plague.json) |
 | The Play's the Thing | 154017 | [154017-the-plays-the-thing.json](./154017-the-plays-the-thing.json) |
 | The Plug | 175436 | [175436-the-plug.json](./175436-the-plug.json) |
 | The Plus Point | 89950 | [89950-the-plus-point.json](./89950-the-plus-point.json) |
@@ -1967,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Crate | 177568 | [177568-tiny-crate.json](./177568-tiny-crate.json) |
 | Tiny Dangerous Dungeons Remake | 333369 | [333369-tiny-dangerous-dungeons-remake.json](./333369-tiny-dangerous-dungeons-remake.json) |
 | Tiny Fat Hero | 232144 | [232144-tiny-fat-hero.json](./232144-tiny-fat-hero.json) |
+| Tiny Heist | 26670 | [26670-tiny-heist.json](./26670-tiny-heist.json) |
 | Tiny Hill | 192940 | [192940-tiny-hill.json](./192940-tiny-hill.json) |
 | Tiny Invaders | 92501 | [92501-tiny-invaders.json](./92501-tiny-invaders.json) |
 | Tiny Little Farm | 304332 | [304332-tiny-little-farm.json](./304332-tiny-little-farm.json) |
