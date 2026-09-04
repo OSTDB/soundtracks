@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman 10th Anniversary | 43339 | [43339-rayman-10th-anniversary.json](./43339-rayman-10th-anniversary.json) |
 | Rayman 2: The Great Escape | 193314 | [193314-rayman-2-the-great-escape.json](./193314-rayman-2-the-great-escape.json) |
 | Rayman 3: Hoodlum Havoc Print Studio | 61654 | [61654-rayman-3-hoodlum-havoc-print-studio.json](./61654-rayman-3-hoodlum-havoc-print-studio.json) |
+| Rayman 3D | 20585 | [20585-rayman-3d.json](./20585-rayman-3d.json) |
 | Rayman By His Fans | 61097 | [61097-rayman-by-his-fans.json](./61097-rayman-by-his-fans.json) |
 | Rayman Garden | 61095 | [61095-rayman-garden.json](./61095-rayman-garden.json) |
 | Rayman Gold | 61096 | [61096-rayman-gold.json](./61096-rayman-gold.json) |
