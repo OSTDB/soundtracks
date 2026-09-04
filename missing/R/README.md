@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | R-Shark | 40254 | [40254-r-shark.json](./40254-r-shark.json) |
 | R-Type | 263373 | [263373-r-type.json](./263373-r-type.json) |
+| R-Type Final 3 Evolved | 225779 | [225779-r-type-final-3-evolved.json](./225779-r-type-final-3-evolved.json) |
 | R-Type II | 276500 | [276500-r-type-ii.json](./276500-r-type-ii.json) |
 | R.B.I. Baseball 2 | 48090 | [48090-r-b-i-baseball-2.json](./48090-r-b-i-baseball-2.json) |
 | R.C. Bot Inc. | 33097 | [33097-r-c-bot-inc.json](./33097-r-c-bot-inc.json) |
@@ -101,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railworks 3: Train Simulator 2012 - Bristol to Avonmouth | 136479 | [136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json](./136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json) |
 | Rain | 128617 | [128617-rain.json](./128617-rain.json) |
 | Rain & Chamomile Tea | 260948 | [260948-rain-and-chamomile-tea.json](./260948-rain-and-chamomile-tea.json) |
+| Rain Blood Chronicles: Mirage | 16548 | [16548-rain-blood-chronicles-mirage.json](./16548-rain-blood-chronicles-mirage.json) |
 | Rain in the Abyss | 194611 | [194611-rain-in-the-abyss.json](./194611-rain-in-the-abyss.json) |
 | Rain, House, Eternity | 143082 | [143082-rain-house-eternity.json](./143082-rain-house-eternity.json) |
 | Rain's Love Memory | 117087 | [117087-rains-love-memory.json](./117087-rains-love-memory.json) |
@@ -192,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratchet & Clank Collection | 19994 | [19994-ratchet-and-clank-collection.json](./19994-ratchet-and-clank-collection.json) |
 | Ratchet & Clank: Going Mobile | 134656 | [134656-ratchet-and-clank-going-mobile.json](./134656-ratchet-and-clank-going-mobile.json) |
 | RatPark | 206355 | [206355-ratpark.json](./206355-ratpark.json) |
+| Ravenbound | 214852 | [214852-ravenbound.json](./214852-ravenbound.json) |
 | Ravengrave: Iron Bonds | 335113 | [335113-ravengrave-iron-bonds.json](./335113-ravengrave-iron-bonds.json) |
 | Ravenhaul | 249470 | [249470-ravenhaul.json](./249470-ravenhaul.json) |
 | RavenHeart Hospital: A Medical Visual Novel | 165009 | [165009-ravenheart-hospital-a-medical-visual-novel.json](./165009-ravenheart-hospital-a-medical-visual-novel.json) |
@@ -372,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Fox and the Four Seasons | 148529 | [148529-red-fox-and-the-four-seasons.json](./148529-red-fox-and-the-four-seasons.json) |
 | Red Fox and the Four Seasons: Design My Forest 2 | 215895 | [215895-red-fox-and-the-four-seasons-design-my-forest-2.json](./215895-red-fox-and-the-four-seasons-design-my-forest-2.json) |
 | Red Genie: An Eidola Tale | 258737 | [258737-red-genie-an-eidola-tale.json](./258737-red-genie-an-eidola-tale.json) |
+| Red Goddess: Inner World | 15912 | [15912-red-goddess-inner-world.json](./15912-red-goddess-inner-world.json) |
 | Red Haven | 218714 | [218714-red-haven.json](./218714-red-haven.json) |
 | Red Haze: Bruises Glimmer in Starlight | 325820 | [325820-red-haze-bruises-glimmer-in-starlight.json](./325820-red-haze-bruises-glimmer-in-starlight.json) |
 | Red Horizon | 128643 | [128643-red-horizon.json](./128643-red-horizon.json) |
@@ -556,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resonark X | 141900 | [141900-resonark-x.json](./141900-resonark-x.json) |
 | Rest House 2: The Wizard | 131593 | [131593-rest-house-2-the-wizard.json](./131593-rest-house-2-the-wizard.json) |
 | Rest to Landia | 292279 | [292279-rest-to-landia.json](./292279-rest-to-landia.json) |
+| Restaurant Empire II | 16015 | [16015-restaurant-empire-ii.json](./16015-restaurant-empire-ii.json) |
 | Restaurant Simulator | 204072 | [204072-restaurant-simulator.json](./204072-restaurant-simulator.json) |
 | Restaurant Tycoon | 75908 | [75908-restaurant-tycoon.json](./75908-restaurant-tycoon.json) |
 | Resthedex | 151175 | [151175-resthedex.json](./151175-resthedex.json) |
@@ -653,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RGB | 251216 | [251216-rgb.json](./251216-rgb.json) |
 | RGB Rush | 218173 | [218173-rgb-rush.json](./218173-rgb-rush.json) |
 | Rhapsody of Zephyr | 70961 | [70961-rhapsody-of-zephyr.json](./70961-rhapsody-of-zephyr.json) |
+| Rhapsody: Marl Kingdom Chronicles | 234121 | [234121-rhapsody-marl-kingdom-chronicles.json](./234121-rhapsody-marl-kingdom-chronicles.json) |
 | Rhino Puzzle | 263757 | [263757-rhino-puzzle.json](./263757-rhino-puzzle.json) |
 | Rhino Rumble | 49947 | [49947-rhino-rumble.json](./49947-rhino-rumble.json) |
 | Rhino Runner | 261557 | [261557-rhino-runner.json](./261557-rhino-runner.json) |
@@ -1210,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaway VR | 54446 | [54446-runaway-vr.json](./54446-runaway-vr.json) |
 | Rune Caster | 75149 | [75149-rune-caster.json](./75149-rune-caster.json) |
 | Rune Defender | 296676 | [296676-rune-defender.json](./296676-rune-defender.json) |
+| Rune Factory 3 Special | 217557 | [217557-rune-factory-3-special.json](./217557-rune-factory-3-special.json) |
 | Rune II | 55149 | [55149-rune-ii.json](./55149-rune-ii.json) |
 | Rune in the Three Kingdoms | 278674 | [278674-rune-in-the-three-kingdoms.json](./278674-rune-in-the-three-kingdoms.json) |
 | Rune Worth: Kokui no Kikoushi | 243950 | [243950-rune-worth-kokui-no-kikoushi.json](./243950-rune-worth-kokui-no-kikoushi.json) |
