@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Man | 79301 | [79301-x-man.json](./79301-x-man.json) |
 | X-Men Origins: Wolverine | 573 | [573-x-men-origins-wolverine.json](./573-x-men-origins-wolverine.json) |
 | X-Men: Battle of the Atom | 62782 | [62782-x-men-battle-of-the-atom.json](./62782-x-men-battle-of-the-atom.json) |
+| X-Men: The Official Game | 4578 | [4578-x-men-the-official-game.json](./4578-x-men-the-official-game.json) |
 | X-Mercs | 59982 | [59982-x-mercs.json](./59982-x-mercs.json) |
 | X-Moon | 112325 | [112325-x-moon.json](./112325-x-moon.json) |
 | X-Plane 10 | 79940 | [79940-x-plane-10.json](./79940-x-plane-10.json) |
