@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T05:33:13.661Z",
-  "total_missing": 26605,
+  "generated_at": "2026-09-04T05:46:07.966Z",
+  "total_missing": 26608,
   "games": [
     {
       "igdb_id": 306086,
@@ -50351,6 +50351,11 @@
       "igdb_id": 314641,
       "game_name": "Hidalgo",
       "file": "missing/H/314641-hidalgo.json"
+    },
+    {
+      "igdb_id": 108,
+      "game_name": "Hidden & Dangerous: Devil's Bridge",
+      "file": "missing/H/108-hidden-and-dangerous-devils-bridge.json"
     },
     {
       "igdb_id": 294435,
@@ -104211,6 +104216,16 @@
       "igdb_id": 197926,
       "game_name": "Star Wars: The Force Unleashed",
       "file": "missing/S/197926-star-wars-the-force-unleashed.json"
+    },
+    {
+      "igdb_id": 167,
+      "game_name": "Star Wars: TIE Fighter - Defender of the Empire",
+      "file": "missing/S/167-star-wars-tie-fighter-defender-of-the-empire.json"
+    },
+    {
+      "igdb_id": 171,
+      "game_name": "Star Wars: X-Wing Tour of Duty - B-Wing",
+      "file": "missing/S/171-star-wars-x-wing-tour-of-duty-b-wing.json"
     },
     {
       "igdb_id": 190224,
