@@ -139,4 +139,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuukyuu no Tierblade: Fragments of Memory | 136439 | [136439-yuukyuu-no-tierblade-fragments-of-memory.json](./136439-yuukyuu-no-tierblade-fragments-of-memory.json) |
 | Yuukyuu no Tierblade: Lost Chronicle | 136438 | [136438-yuukyuu-no-tierblade-lost-chronicle.json](./136438-yuukyuu-no-tierblade-lost-chronicle.json) |
 | Yuurei-kun | 141848 | [141848-yuurei-kun.json](./141848-yuurei-kun.json) |
+| Yuusha | 22480 | [22480-yuusha.json](./22480-yuusha.json) |
 | YuYu Hakusho Dai-yon-dan: Makai Touitsu-hen | 60559 | [60559-yuyu-hakusho-dai-yon-dan-makai-touitsu-hen.json](./60559-yuyu-hakusho-dai-yon-dan-makai-touitsu-hen.json) |
