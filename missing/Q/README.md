@@ -77,12 +77,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest for Yrolg | 57098 | [57098-quest-for-yrolg.json](./57098-quest-for-yrolg.json) |
 | Quest Hunter | 32396 | [32396-quest-hunter.json](./32396-quest-hunter.json) |
 | Quest Master's Realm | 235966 | [235966-quest-masters-realm.json](./235966-quest-masters-realm.json) |
+| Quest of Dungeons | 16932 | [16932-quest-of-dungeons.json](./16932-quest-of-dungeons.json) |
 | Quest: Fantasy Challenge | 49950 | [49950-quest-fantasy-challenge.json](./49950-quest-fantasy-challenge.json) |
 | QuestBall | 245019 | [245019-questball.json](./245019-questball.json) |
 | Questboard | 333914 | [333914-questboard.json](./333914-questboard.json) |
 | Quester | 197387 | [197387-quester.json](./197387-quester.json) |
 | QuestionBank | 341316 | [341316-questionbank.json](./341316-questionbank.json) |
 | Questions pour un Champion | 147473 | [147473-questions-pour-un-champion.json](./147473-questions-pour-un-champion.json) |
+| Questland: Swords & Spirits | 100896 | [100896-questland-swords-and-spirits.json](./100896-questland-swords-and-spirits.json) |
 | QuestMania | 79305 | [79305-questmania.json](./79305-questmania.json) |
 | Queue | 180255 | [180255-queue.json](./180255-queue.json) |
 | Queued | 256538 | [256538-queued.json](./256538-queued.json) |
