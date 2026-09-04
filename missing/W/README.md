@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Survivors | 338553 | [338553-waifu-survivors.json](./338553-waifu-survivors.json) |
 | Waifu Wars Splash | 183560 | [183560-waifu-wars-splash.json](./183560-waifu-wars-splash.json) |
 | Waifusitter | 338554 | [338554-waifusitter.json](./338554-waifusitter.json) |
+| Wailing Heights | 18969 | [18969-wailing-heights.json](./18969-wailing-heights.json) |
 | Wailing Heights: Deluxe Edition | 53881 | [53881-wailing-heights-deluxe-edition.json](./53881-wailing-heights-deluxe-edition.json) |
 | Waimanu: Grinding Block Adventure | 123628 | [123628-waimanu-grinding-block-adventure.json](./123628-waimanu-grinding-block-adventure.json) |
 | WaiWai Drive | 312353 | [312353-waiwai-drive.json](./312353-waiwai-drive.json) |
@@ -452,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildflower: From the Embers | 178095 | [178095-wildflower-from-the-embers.json](./178095-wildflower-from-the-embers.json) |
 | Wildkeepers Rising | 324076 | [324076-wildkeepers-rising.json](./324076-wildkeepers-rising.json) |
 | Wildlands Resurgence | 267095 | [267095-wildlands-resurgence.json](./267095-wildlands-resurgence.json) |
+| Wildlife Park | 17591 | [17591-wildlife-park.json](./17591-wildlife-park.json) |
 | Wildlife Park 3: Alaska | 156153 | [156153-wildlife-park-3-alaska.json](./156153-wildlife-park-3-alaska.json) |
 | Wildlife Park 3: Dino Invasion | 171071 | [171071-wildlife-park-3-dino-invasion.json](./171071-wildlife-park-3-dino-invasion.json) |
 | Wildlife Simulator: Crocodile | 96723 | [96723-wildlife-simulator-crocodile.json](./96723-wildlife-simulator-crocodile.json) |
