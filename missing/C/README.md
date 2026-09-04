@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | C-War 2 | 119010 | [119010-c-war-2.json](./119010-c-war-2.json) |
+| C: The Contra Adventure | 45010 | [45010-c-the-contra-adventure.json](./45010-c-the-contra-adventure.json) |
 | C.A.R.D.S. RPG: The Misty Battlefield | 273624 | [273624-c-a-r-d-s-rpg-the-misty-battlefield.json](./273624-c-a-r-d-s-rpg-the-misty-battlefield.json) |
 | C.A.T.: Cyber Attack Team | 5762 | [5762-c-a-t-cyber-attack-team.json](./5762-c-a-t-cyber-attack-team.json) |
 | C.H.A.O.S Tournament | 117726 | [117726-c-h-a-o-s-tournament.json](./117726-c-h-a-o-s-tournament.json) |
@@ -1084,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 2: Complete Collection | 145682 | [145682-company-of-heroes-2-complete-collection.json](./145682-company-of-heroes-2-complete-collection.json) |
 | Company of Heroes 3: Console Launch Edition | 247187 | [247187-company-of-heroes-3-console-launch-edition.json](./247187-company-of-heroes-3-console-launch-edition.json) |
 | Company of Heroes 3: Hammer & Shield | 277019 | [277019-company-of-heroes-3-hammer-and-shield.json](./277019-company-of-heroes-3-hammer-and-shield.json) |
+| Company of Heroes: Legacy Edition | 84532 | [84532-company-of-heroes-legacy-edition.json](./84532-company-of-heroes-legacy-edition.json) |
 | Competition Karate | 25780 | [25780-competition-karate.json](./25780-competition-karate.json) |
 | Compilation Assassin's Creed: Brotherhood + Revelations | 151207 | [151207-compilation-assassins-creed-brotherhood-revelations.json](./151207-compilation-assassins-creed-brotherhood-revelations.json) |
 | Completion LawnCare | 216454 | [216454-completion-lawncare.json](./216454-completion-lawncare.json) |
@@ -1171,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook-A-Geddon | 265433 | [265433-cook-a-geddon.json](./265433-cook-a-geddon.json) |
 | Cookie & Bibi 3 | 39643 | [39643-cookie-and-bibi-3.json](./39643-cookie-and-bibi-3.json) |
 | Cookie Run | 74416 | [74416-cookie-run.json](./74416-cookie-run.json) |
+| Cookie Run: OvenBreak | 78951 | [78951-cookie-run-ovenbreak.json](./78951-cookie-run-ovenbreak.json) |
 | Cookies Cookies Cookies | 205243 | [205243-cookies-cookies-cookies.json](./205243-cookies-cookies-cookies.json) |
 | Cookies Inc. | 243980 | [243980-cookies-inc.json](./243980-cookies-inc.json) |
 | Cooking Arena: 9 in 1 Edition | 275892 | [275892-cooking-arena-9-in-1-edition.json](./275892-cooking-arena-9-in-1-edition.json) |
@@ -1404,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrazyDriving | 107853 | [107853-crazydriving.json](./107853-crazydriving.json) |
 | CrazyHousePlanes | 99607 | [99607-crazyhouseplanes.json](./99607-crazyhouseplanes.json) |
 | CrazyKart | 117720 | [117720-crazykart.json](./117720-crazykart.json) |
+| Crazyracing Kartrider | 91272 | [91272-crazyracing-kartrider.json](./91272-crazyracing-kartrider.json) |
 | Crazzers | 89957 | [89957-crazzers.json](./89957-crazzers.json) |
 | CRE1M1: Greyvein River | 276475 | [276475-cre1m1-greyvein-river.json](./276475-cre1m1-greyvein-river.json) |
 | Creaks: Collector's Edition | 154553 | [154553-creaks-collectors-edition.json](./154553-creaks-collectors-edition.json) |
@@ -1732,3 +1736,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyrus II Chess | 12988 | [12988-cyrus-ii-chess.json](./12988-cyrus-ii-chess.json) |
 | Cytoplasm Madness | 180839 | [180839-cytoplasm-madness.json](./180839-cytoplasm-madness.json) |
 | Cytron Masters | 22489 | [22489-cytron-masters.json](./22489-cytron-masters.json) |
+| Cytus II | 89095 | [89095-cytus-ii.json](./89095-cytus-ii.json) |
