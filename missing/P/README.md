@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfection | 239906 | [239906-perfection.json](./239906-perfection.json) |
 | PerfectLover | 128000 | [128000-perfectlover.json](./128000-perfectlover.json) |
 | Peril | 177036 | [177036-peril.json](./177036-peril.json) |
+| Perils of Man | 17998 | [17998-perils-of-man.json](./17998-perils-of-man.json) |
 | Perish the Thoth | 271458 | [271458-perish-the-thoth.json](./271458-perish-the-thoth.json) |
 | Perky Little Things | 90825 | [90825-perky-little-things.json](./90825-perky-little-things.json) |
 | Permadeath | 337442 | [337442-permadeath.json](./337442-permadeath.json) |
@@ -499,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phar Lap: Horse Racing Challenge | 116374 | [116374-phar-lap-horse-racing-challenge.json](./116374-phar-lap-horse-racing-challenge.json) |
 | Pharaoh's Revenge | 55206 | [55206-pharaohs-revenge.json](./55206-pharaohs-revenge.json) |
 | Pharaoh's Tomb | 262092 | [262092-pharaohs-tomb.json](./262092-pharaohs-tomb.json) |
+| Pharaonic | 19068 | [19068-pharaonic.json](./19068-pharaonic.json) |
 | Pharmacy Simulator | 297809 | [297809-pharmacy-simulator.json](./297809-pharmacy-simulator.json) |
 | Phase | 72078 | [72078-phase.json](./72078-phase.json) |
 | Phase Runner | 92490 | [92490-phase-runner.json](./92490-phase-runner.json) |
@@ -1481,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Electric Love "Look at my eyes!" Moe Yamauchi | 105977 | [105977-pure-electric-love-look-at-my-eyes-moe-yamauchi.json](./105977-pure-electric-love-look-at-my-eyes-moe-yamauchi.json) |
 | Pure Electric Love "What do you want?" Eri Kitami | 105978 | [105978-pure-electric-love-what-do-you-want-eri-kitami.json](./105978-pure-electric-love-what-do-you-want-eri-kitami.json) |
 | Pure Evil: 2-pack | 145048 | [145048-pure-evil-2-pack.json](./145048-pure-evil-2-pack.json) |
+| Pure Hold'em | 17840 | [17840-pure-holdem.json](./17840-pure-holdem.json) |
 | Pure Mini Golf | 188100 | [188100-pure-mini-golf.json](./188100-pure-mini-golf.json) |
 | Pure Nastalgia | 277034 | [277034-pure-nastalgia.json](./277034-pure-nastalgia.json) |
 | PureSkate 2 | 175431 | [175431-pureskate-2.json](./175431-pureskate-2.json) |
