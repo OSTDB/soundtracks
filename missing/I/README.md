@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icon Tower Defense | 333384 | [333384-icon-tower-defense.json](./333384-icon-tower-defense.json) |
 | Iconic | 132253 | [132253-iconic.json](./132253-iconic.json) |
 | Icontrivia: Guess the Character | 233746 | [233746-icontrivia-guess-the-character.json](./233746-icontrivia-guess-the-character.json) |
+| Icy Tower | 18095 | [18095-icy-tower.json](./18095-icy-tower.json) |
 | Identifile | 319379 | [319379-identifile.json](./319379-identifile.json) |
 | Ideology in Friction: Deluxe Edition | 186899 | [186899-ideology-in-friction-deluxe-edition.json](./186899-ideology-in-friction-deluxe-edition.json) |
 | IDF-ASD | 195775 | [195775-idf-asd.json](./195775-idf-asd.json) |
@@ -126,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Bouncer | 61644 | [61644-idle-bouncer.json](./61644-idle-bouncer.json) |
 | Idle Business Tycoon: Build Simulator | 197933 | [197933-idle-business-tycoon-build-simulator.json](./197933-idle-business-tycoon-build-simulator.json) |
 | Idle Campaign | 210851 | [210851-idle-campaign.json](./210851-idle-campaign.json) |
+| Idle Champions of the Forgotten Realms | 43178 | [43178-idle-champions-of-the-forgotten-realms.json](./43178-idle-champions-of-the-forgotten-realms.json) |
 | Idle Champions: Ms. Squiggles the Octopus Familiar Pack | 306079 | [306079-idle-champions-ms-squiggles-the-octopus-familiar-pack.json](./306079-idle-champions-ms-squiggles-the-octopus-familiar-pack.json) |
 | Idle Champions: Mythic Freely Skin & Feat Pack | 255982 | [255982-idle-champions-mythic-freely-skin-and-feat-pack.json](./255982-idle-champions-mythic-freely-skin-and-feat-pack.json) |
 | Idle Champions: Solarya the Ki-rin Familiar Pack | 306075 | [306075-idle-champions-solarya-the-ki-rin-familiar-pack.json](./306075-idle-champions-solarya-the-ki-rin-familiar-pack.json) |
@@ -337,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinitum: The Backrooms Story | 258179 | [258179-infinitum-the-backrooms-story.json](./258179-infinitum-the-backrooms-story.json) |
 | Infinity | 13729 | [13729-infinity.json](./13729-infinity.json) |
 | Infinity Attackers | 120415 | [120415-infinity-attackers.json](./120415-infinity-attackers.json) |
+| Infinity Blade II | 20644 | [20644-infinity-blade-ii.json](./20644-infinity-blade-ii.json) |
 | Infinity Blocks | 301612 | [301612-infinity-blocks.json](./301612-infinity-blocks.json) |
 | Infinity Cure | 43965 | [43965-infinity-cure.json](./43965-infinity-cure.json) |
 | Infinity Dungeons | 203569 | [203569-infinity-dungeons.json](./203569-infinity-dungeons.json) |
