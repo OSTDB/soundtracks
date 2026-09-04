@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Formers | 154026 | [154026-castle-formers.json](./154026-castle-formers.json) |
 | Castle Hassle | 59452 | [59452-castle-hassle.json](./59452-castle-hassle.json) |
 | Castle of Awa | 104089 | [104089-castle-of-awa.json](./104089-castle-of-awa.json) |
+| Castle of Deceit | 7779 | [7779-castle-of-deceit.json](./7779-castle-of-deceit.json) |
 | Castle of Doom | 215380 | [215380-castle-of-doom.json](./215380-castle-of-doom.json) |
 | Castle of Horrors: The Awful Tortures | 276474 | [276474-castle-of-horrors-the-awful-tortures.json](./276474-castle-of-horrors-the-awful-tortures.json) |
 | Castle Of Plague | 237090 | [237090-castle-of-plague.json](./237090-castle-of-plague.json) |
@@ -361,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Crawler 2 | 318216 | [318216-cave-crawler-2.json](./318216-cave-crawler-2.json) |
 | Cave Digger: Riches | 107230 | [107230-cave-digger-riches.json](./107230-cave-digger-riches.json) |
 | Cave Explorer | 165675 | [165675-cave-explorer.json](./165675-cave-explorer.json) |
+| Cave Fighter | 7898 | [7898-cave-fighter.json](./7898-cave-fighter.json) |
 | Cave Flying | 27878 | [27878-cave-flying.json](./27878-cave-flying.json) |
 | Cave Hopper | 139468 | [139468-cave-hopper.json](./139468-cave-hopper.json) |
 | Cave Shooter | 167275 | [167275-cave-shooter.json](./167275-cave-shooter.json) |
@@ -423,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
 | Challengers of Khalea | 76622 | [76622-challengers-of-khalea.json](./76622-challengers-of-khalea.json) |
+| Chalvo 55: Super Puzzle Action | 7821 | [7821-chalvo-55-super-puzzle-action.json](./7821-chalvo-55-super-puzzle-action.json) |
 | Chameleon: To Dye For! | 72713 | [72713-chameleon-to-dye-for.json](./72713-chameleon-to-dye-for.json) |
 | Champ Invaders | 94248 | [94248-champ-invaders.json](./94248-champ-invaders.json) |
 | Champion Cup Goal 2 | 242220 | [242220-champion-cup-goal-2.json](./242220-champion-cup-goal-2.json) |
@@ -444,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Metaverse | 267658 | [267658-chaos-metaverse.json](./267658-chaos-metaverse.json) |
 | Chaos of Fallen City | 159864 | [159864-chaos-of-fallen-city.json](./159864-chaos-of-fallen-city.json) |
 | Chaos Road | 158229 | [158229-chaos-road.json](./158229-chaos-road.json) |
+| Chaos World | 7904 | [7904-chaos-world.json](./7904-chaos-world.json) |
 | Chaos;Child Love Chu Chu!! | 65530 | [65530-chaos-child-love-chu-chu.json](./65530-chaos-child-love-chu-chu.json) |
 | Chaotic Airport Construction Manager | 149608 | [149608-chaotic-airport-construction-manager.json](./149608-chaotic-airport-construction-manager.json) |
 | Chaotic Pursuit | 259857 | [259857-chaotic-pursuit.json](./259857-chaotic-pursuit.json) |
@@ -644,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrome Death | 259247 | [259247-chrome-death.json](./259247-chrome-death.json) |
 | Chronautical | 253598 | [253598-chronautical.json](./253598-chronautical.json) |
 | Chronicle of Ekan | 169980 | [169980-chronicle-of-ekan.json](./169980-chronicle-of-ekan.json) |
+| Chronicles of a Dark Lord: Episode 2 War of the Abyss | 7856 | [7856-chronicles-of-a-dark-lord-episode-2-war-of-the-abyss.json](./7856-chronicles-of-a-dark-lord-episode-2-war-of-the-abyss.json) |
 | Chronicles of Albian 2: The Wizbury School of Magic | 339644 | [339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json](./339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json) |
 | Chronicles Of Errodean | 247740 | [247740-chronicles-of-errodean.json](./247740-chronicles-of-errodean.json) |
 | Chronicles of the Great Wilderness | 339109 | [339109-chronicles-of-the-great-wilderness.json](./339109-chronicles-of-the-great-wilderness.json) |
@@ -1350,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Create Real Games | 89283 | [89283-create-real-games.json](./89283-create-real-games.json) |
 | CreateTech | 127359 | [127359-createtech.json](./127359-createtech.json) |
 | Creature Battle Simulator | 265388 | [265388-creature-battle-simulator.json](./265388-creature-battle-simulator.json) |
+| Creature Crunch | 7731 | [7731-creature-crunch.json](./7731-creature-crunch.json) |
 | Creature Hunter | 199659 | [199659-creature-hunter.json](./199659-creature-hunter.json) |
 | Creature Lab | 156674 | [156674-creature-lab.json](./156674-creature-lab.json) |
 | Creep | 133462 | [133462-creep.json](./133462-creep.json) |
@@ -1370,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cribbage With Grandpas | 94781 | [94781-cribbage-with-grandpas.json](./94781-cribbage-with-grandpas.json) |
 | Cricket Captain | 95430 | [95430-cricket-captain.json](./95430-cricket-captain.json) |
 | Cricket League | 242218 | [242218-cricket-league.json](./242218-cricket-league.json) |
+| Crime Cities | 7872 | [7872-crime-cities.json](./7872-crime-cities.json) |
 | Crime District | 165699 | [165699-crime-district.json](./165699-crime-district.json) |
 | Crime Moto Racer | 218695 | [218695-crime-moto-racer.json](./218695-crime-moto-racer.json) |
 | CrimeCraft Bleedout | 51265 | [51265-crimecraft-bleedout.json](./51265-crimecraft-bleedout.json) |
