@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Bravely | 29899 | [29899-final-bravely.json](./29899-final-bravely.json) |
 | Final Factory | 236524 | [236524-final-factory.json](./236524-final-factory.json) |
 | Final Failure | 93629 | [93629-final-failure.json](./93629-final-failure.json) |
+| Final Fantasy II | 387 | [387-final-fantasy-ii.json](./387-final-fantasy-ii.json) |
 | Final Fantasy IV: Ultima | 215388 | [215388-final-fantasy-iv-ultima.json](./215388-final-fantasy-iv-ultima.json) |
 | Final Fantasy IV: Unprecedented Crisis | 215385 | [215385-final-fantasy-iv-unprecedented-crisis.json](./215385-final-fantasy-iv-unprecedented-crisis.json) |
 | Final Fantasy IX Remake | 309656 | [309656-final-fantasy-ix-remake.json](./309656-final-fantasy-ix-remake.json) |
@@ -472,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Ant | 93077 | [93077-fire-ant.json](./93077-fire-ant.json) |
 | Fire Breathers | 243935 | [243935-fire-breathers.json](./243935-fire-breathers.json) |
 | Fire Emblem 8: Self-Randomizing | 259869 | [259869-fire-emblem-8-self-randomizing.json](./259869-fire-emblem-8-self-randomizing.json) |
+| Fire Emblem Heroes | 26841 | [26841-fire-emblem-heroes.json](./26841-fire-emblem-heroes.json) |
 | Fire Emblem: Host of the Dark | 296106 | [296106-fire-emblem-host-of-the-dark.json](./296106-fire-emblem-host-of-the-dark.json) |
 | Fire Emblem: Immortal Sword | 322378 | [322378-fire-emblem-immortal-sword.json](./322378-fire-emblem-immortal-sword.json) |
 | Fire Emblem: Path of Radiance | 1441 | [1441-fire-emblem-path-of-radiance.json](./1441-fire-emblem-path-of-radiance.json) |
