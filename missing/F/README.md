@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Force Reboot | 173302 | [173302-force-reboot.json](./173302-force-reboot.json) |
 | Forced Sacrifice: Hejled | 247771 | [247771-forced-sacrifice-hejled.json](./247771-forced-sacrifice-hejled.json) |
 | Ford Mustang: The Legend Lives | 43306 | [43306-ford-mustang-the-legend-lives.json](./43306-ford-mustang-the-legend-lives.json) |
+| Ford vs. Chevy | 5838 | [5838-ford-vs-chevy.json](./5838-ford-vs-chevy.json) |
 | Forebears | 211934 | [211934-forebears.json](./211934-forebears.json) |
 | Foreign Body | 236549 | [236549-foreign-body.json](./236549-foreign-body.json) |
 | Forest | 185166 | [185166-forest.json](./185166-forest.json) |
