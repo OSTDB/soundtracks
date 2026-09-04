@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports College Football 26 | 329146 | [329146-ea-sports-college-football-26.json](./329146-ea-sports-college-football-26.json) |
 | EA Sports FC 25 | 308698 | [308698-ea-sports-fc-25.json](./308698-ea-sports-fc-25.json) |
 | EA Sports FC Online | 93902 | [93902-ea-sports-fc-online.json](./93902-ea-sports-fc-online.json) |
+| Eagle Eye Golf | 20583 | [20583-eagle-eye-golf.json](./20583-eagle-eye-golf.json) |
 | Eagle Eye Mysteries | 70962 | [70962-eagle-eye-mysteries.json](./70962-eagle-eye-mysteries.json) |
 | Eagle Island | 28774 | [28774-eagle-island.json](./28774-eagle-island.json) |
 | Eagle Knight Paradox | 217549 | [217549-eagle-knight-paradox.json](./217549-eagle-knight-paradox.json) |
@@ -47,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth's Last Defense | 182535 | [182535-earths-last-defense.json](./182535-earths-last-defense.json) |
 | EarthBound 64 Experience | 238206 | [238206-earthbound-64-experience.json](./238206-earthbound-64-experience.json) |
 | EarthBound Dimensions | 311281 | [311281-earthbound-dimensions.json](./311281-earthbound-dimensions.json) |
+| Earthrise | 20554 | [20554-earthrise.json](./20554-earthrise.json) |
 | Earthtia Saga: Larthur's Legend | 242223 | [242223-earthtia-saga-larthurs-legend.json](./242223-earthtia-saga-larthurs-legend.json) |
 | Earthworm Jim: Menace 2 the Galaxy | 3482 | [3482-earthworm-jim-menace-2-the-galaxy.json](./3482-earthworm-jim-menace-2-the-galaxy.json) |
 | East Defense | 305526 | [305526-east-defense.json](./305526-east-defense.json) |
@@ -97,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse Isle | 125435 | [125435-eclipse-isle.json](./125435-eclipse-isle.json) |
 | Eclipse: Edge of Light | 27809 | [27809-eclipse-edge-of-light.json](./27809-eclipse-edge-of-light.json) |
 | Eco Mahjong | 177049 | [177049-eco-mahjong.json](./177049-eco-mahjong.json) |
+| Eco Shooter: Plant 530 | 20506 | [20506-eco-shooter-plant-530.json](./20506-eco-shooter-plant-530.json) |
 | EcoL tactics | 112312 | [112312-ecol-tactics.json](./112312-ecol-tactics.json) |
 | EcoQuest II: Lost Secret of the Rainforest | 7694 | [7694-ecoquest-ii-lost-secret-of-the-rainforest.json](./7694-ecoquest-ii-lost-secret-of-the-rainforest.json) |
 | eCrew Development Program | 141196 | [141196-ecrew-development-program.json](./141196-ecrew-development-program.json) |
@@ -231,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Plus | 100209 | [100209-elite-plus.json](./100209-elite-plus.json) |
 | Ellada Games RPG Bundle | 187500 | [187500-ellada-games-rpg-bundle.json](./187500-ellada-games-rpg-bundle.json) |
 | Ellie & Max | 175426 | [175426-ellie-and-max.json](./175426-ellie-and-max.json) |
+| Elminage Original | 21033 | [21033-elminage-original.json](./21033-elminage-original.json) |
 | Elmo's Deep Sea Adventure | 71511 | [71511-elmos-deep-sea-adventure.json](./71511-elmos-deep-sea-adventure.json) |
 | Elmo's Deep Sea Adventure | 71513 | [71513-elmos-deep-sea-adventure.json](./71513-elmos-deep-sea-adventure.json) |
 | Elon on Mars | 120997 | [120997-elon-on-mars.json](./120997-elon-on-mars.json) |
@@ -572,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverMatch | 237672 | [237672-evermatch.json](./237672-evermatch.json) |
 | EverQuest II: Chains of Eternity | 18318 | [18318-everquest-ii-chains-of-eternity.json](./18318-everquest-ii-chains-of-eternity.json) |
 | EverQuest II: The Bloodline Chronicles | 111024 | [111024-everquest-ii-the-bloodline-chronicles.json](./111024-everquest-ii-the-bloodline-chronicles.json) |
+| EverQuest II: The Fallen Dynasty | 20533 | [20533-everquest-ii-the-fallen-dynasty.json](./20533-everquest-ii-the-fallen-dynasty.json) |
 | EverQuest II: The Splitpaw Saga | 111025 | [111025-everquest-ii-the-splitpaw-saga.json](./111025-everquest-ii-the-splitpaw-saga.json) |
 | EverQuest Next | 18341 | [18341-everquest-next.json](./18341-everquest-next.json) |
 | EverQuest: Seeds of Destruction | 69284 | [69284-everquest-seeds-of-destruction.json](./69284-everquest-seeds-of-destruction.json) |
