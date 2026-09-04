@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayGuys | 320538 | [320538-playguys.json](./320538-playguys.json) |
 | Playing With Fire 2 | 202372 | [202372-playing-with-fire-2.json](./202372-playing-with-fire-2.json) |
 | Playne | 102937 | [102937-playne.json](./102937-playne.json) |
+| PlayStation Move Heroes | 19664 | [19664-playstation-move-heroes.json](./19664-playstation-move-heroes.json) |
 | Playtown Genesis | 319376 | [319376-playtown-genesis.json](./319376-playtown-genesis.json) |
 | Playtown Remake | 332807 | [332807-playtown-remake.json](./332807-playtown-remake.json) |
 | PlayTribes | 59443 | [59443-playtribes.json](./59443-playtribes.json) |
