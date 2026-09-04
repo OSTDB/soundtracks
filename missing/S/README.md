@@ -875,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silence-Dream | 310728 | [310728-silence-dream.json](./310728-silence-dream.json) |
 | Silent Castle | 212491 | [212491-silent-castle.json](./212491-silent-castle.json) |
 | Silent Hill 2: Deluxe Edition | 303813 | [303813-silent-hill-2-deluxe-edition.json](./303813-silent-hill-2-deluxe-edition.json) |
+| Silent Hunter Online | 3449 | [3449-silent-hunter-online.json](./3449-silent-hunter-online.json) |
 | Silent Infinity | 202366 | [202366-silent-infinity.json](./202366-silent-infinity.json) |
 | Silent Scope 3 | 44630 | [44630-silent-scope-3.json](./44630-silent-scope-3.json) |
 | Silent Seeker | 209159 | [209159-silent-seeker.json](./209159-silent-seeker.json) |
