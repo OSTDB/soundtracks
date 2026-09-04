@@ -1391,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Sweetie | 232173 | [232173-monster-sweetie.json](./232173-monster-sweetie.json) |
 | Monster Tamer | 190233 | [190233-monster-tamer.json](./190233-monster-tamer.json) |
 | Monster Truck Madness | 146887 | [146887-monster-truck-madness.json](./146887-monster-truck-madness.json) |
+| Monster Truck Madness 64 | 10615 | [10615-monster-truck-madness-64.json](./10615-monster-truck-madness-64.json) |
 | Monster Truck Montain Offroad | 228105 | [228105-monster-truck-montain-offroad.json](./228105-monster-truck-montain-offroad.json) |
 | Monster Universe | 237640 | [237640-monster-universe.json](./237640-monster-universe.json) |
 | Monster+Connect! | 181396 | [181396-monster-connect.json](./181396-monster-connect.json) |
@@ -1539,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 13:Red Bull Rookies Cup | 168356 | [168356-motogp-13-red-bull-rookies-cup.json](./168356-motogp-13-red-bull-rookies-cup.json) |
 | MotoGP 14: Donington Park British Grand Prix DLC | 168358 | [168358-motogp-14-donington-park-british-grand-prix-dlc.json](./168358-motogp-14-donington-park-british-grand-prix-dlc.json) |
 | MotoGP 14: Red Bull Rookies Cup DLC | 168357 | [168357-motogp-14-red-bull-rookies-cup-dlc.json](./168357-motogp-14-red-bull-rookies-cup-dlc.json) |
+| MotoGP 15 | 11275 | [11275-motogp-15.json](./11275-motogp-15.json) |
 | MotoGP 15: GP de Portugal Circuito Estoril | 168359 | [168359-motogp-15-gp-de-portugal-circuito-estoril.json](./168359-motogp-15-gp-de-portugal-circuito-estoril.json) |
 | MotoGP 19: Historical Pack | 168362 | [168362-motogp-19-historical-pack.json](./168362-motogp-19-historical-pack.json) |
 | MotoGP 20: Historic Pack | 168361 | [168361-motogp-20-historic-pack.json](./168361-motogp-20-historic-pack.json) |
