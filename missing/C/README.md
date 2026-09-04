@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Aces | 42632 | [42632-carrier-aces.json](./42632-carrier-aces.json) |
 | Carrier Battles 4 Guadalcanal | 242201 | [242201-carrier-battles-4-guadalcanal.json](./242201-carrier-battles-4-guadalcanal.json) |
 | Carrier Battles 4 Guadalcanal: Advanced Fog of War in the Pacific | 170520 | [170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json](./170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json) |
+| Carrier Command | 11992 | [11992-carrier-command.json](./11992-carrier-command.json) |
 | Carrion Fields | 228692 | [228692-carrion-fields.json](./228692-carrion-fields.json) |
 | Carrot Girl Adventures | 165678 | [165678-carrot-girl-adventures.json](./165678-carrot-girl-adventures.json) |
 | Carrot Paradise | 311243 | [311243-carrot-paradise.json](./311243-carrot-paradise.json) |
@@ -455,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
 | Challengers of Khalea | 76622 | [76622-challengers-of-khalea.json](./76622-challengers-of-khalea.json) |
 | Chalvo 55: Super Puzzle Action | 7821 | [7821-chalvo-55-super-puzzle-action.json](./7821-chalvo-55-super-puzzle-action.json) |
+| Chambers of Shaolin | 11997 | [11997-chambers-of-shaolin.json](./11997-chambers-of-shaolin.json) |
 | Chameleon: To Dye For! | 72713 | [72713-chameleon-to-dye-for.json](./72713-chameleon-to-dye-for.json) |
 | Champ Invaders | 94248 | [94248-champ-invaders.json](./94248-champ-invaders.json) |
 | Champion Cup Goal 2 | 242220 | [242220-champion-cup-goal-2.json](./242220-champion-cup-goal-2.json) |
@@ -597,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill Fishing | 337457 | [337457-chill-fishing.json](./337457-chill-fishing.json) |
 | Chill of Death's: Breath | 269280 | [269280-chill-of-deaths-breath.json](./269280-chill-of-deaths-breath.json) |
 | Chill Seekers | 267108 | [267108-chill-seekers.json](./267108-chill-seekers.json) |
+| Chiller | 11727 | [11727-chiller.json](./11727-chiller.json) |
 | ChilloutVR | 121700 | [121700-chilloutvr.json](./121700-chilloutvr.json) |
 | Chimera of Tactics 1 | 93593 | [93593-chimera-of-tactics-1.json](./93593-chimera-of-tactics-1.json) |
 | Chimera of Tactics 3: Gun and Soccer | 110353 | [110353-chimera-of-tactics-3-gun-and-soccer.json](./110353-chimera-of-tactics-3-gun-and-soccer.json) |
@@ -1448,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Hunter | 199659 | [199659-creature-hunter.json](./199659-creature-hunter.json) |
 | Creature Kitchen | 363954 | [363954-creature-kitchen.json](./363954-creature-kitchen.json) |
 | Creature Lab | 156674 | [156674-creature-lab.json](./156674-creature-lab.json) |
+| Creatures 2 | 11371 | [11371-creatures-2.json](./11371-creatures-2.json) |
 | Creep | 133462 | [133462-creep.json](./133462-creep.json) |
 | Creep Kick | 310197 | [310197-creep-kick.json](./310197-creep-kick.json) |
 | Creep Shock | 265429 | [265429-creep-shock.json](./265429-creep-shock.json) |
@@ -1575,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Squad | 236503 | [236503-crystal-squad.json](./236503-crystal-squad.json) |
 | Crystal Towers 2 XL | 46642 | [46642-crystal-towers-2-xl.json](./46642-crystal-towers-2-xl.json) |
 | Crystal Venture | 189194 | [189194-crystal-venture.json](./189194-crystal-venture.json) |
+| Crystal Warriors | 11648 | [11648-crystal-warriors.json](./11648-crystal-warriors.json) |
 | Crystal Wish: Candy Chase | 264888 | [264888-crystal-wish-candy-chase.json](./264888-crystal-wish-candy-chase.json) |
 | Crystalborne: Heroes of Fate | 123036 | [123036-crystalborne-heroes-of-fate.json](./123036-crystalborne-heroes-of-fate.json) |
 | Crystallo | 117037 | [117037-crystallo.json](./117037-crystallo.json) |
@@ -1731,6 +1736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber VR | 51938 | [51938-cyber-vr.json](./51938-cyber-vr.json) |
 | Cyber War: Cyberpunk Reborn | 174904 | [174904-cyber-war-cyberpunk-reborn.json](./174904-cyber-war-cyberpunk-reborn.json) |
 | Cyber-Assassin | 269272 | [269272-cyber-assassin.json](./269272-cyber-assassin.json) |
+| Cyberball | 12022 | [12022-cyberball.json](./12022-cyberball.json) |
 | CyberBrick | 226427 | [226427-cyberbrick.json](./226427-cyberbrick.json) |
 | Cyberchase: Mission Motherboard | 143086 | [143086-cyberchase-mission-motherboard.json](./143086-cyberchase-mission-motherboard.json) |
 | Cyberchase: The Quest 1 - Mission Motherboard | 140627 | [140627-cyberchase-the-quest-1-mission-motherboard.json](./140627-cyberchase-the-quest-1-mission-motherboard.json) |
@@ -1743,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybermercs: The Soldiers of the 22nd Century | 70386 | [70386-cybermercs-the-soldiers-of-the-22nd-century.json](./70386-cybermercs-the-soldiers-of-the-22nd-century.json) |
 | Cybernetic Fault | 161369 | [161369-cybernetic-fault.json](./161369-cybernetic-fault.json) |
 | Cybernetica: Final | 190738 | [190738-cybernetica-final.json](./190738-cybernetica-final.json) |
+| Cybernoid II: The Revenge | 12025 | [12025-cybernoid-ii-the-revenge.json](./12025-cybernoid-ii-the-revenge.json) |
 | Cyberpunk 3776 | 35896 | [35896-cyberpunk-3776.json](./35896-cyberpunk-3776.json) |
 | Cyberpunk Inquisitor | 306065 | [306065-cyberpunk-inquisitor.json](./306065-cyberpunk-inquisitor.json) |
 | CyberPunk Sex Tower | 171604 | [171604-cyberpunk-sex-tower.json](./171604-cyberpunk-sex-tower.json) |
