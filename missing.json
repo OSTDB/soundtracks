@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T03:18:18.518Z",
-  "total_missing": 26155,
+  "generated_at": "2026-09-04T03:32:54.867Z",
+  "total_missing": 26205,
   "games": [
     {
       "igdb_id": 306086,
@@ -10583,6 +10583,11 @@
       "file": "missing/B/116393-ball-panic.json"
     },
     {
+      "igdb_id": 14282,
+      "game_name": "Ball Raider II",
+      "file": "missing/B/14282-ball-raider-ii.json"
+    },
+    {
       "igdb_id": 108471,
       "game_name": "Ball Relay",
       "file": "missing/B/108471-ball-relay.json"
@@ -10701,6 +10706,11 @@
       "igdb_id": 297780,
       "game_name": "Baluno",
       "file": "missing/B/297780-baluno.json"
+    },
+    {
+      "igdb_id": 14283,
+      "game_name": "Bambinours Solves a Jig Saw Puzzle",
+      "file": "missing/B/14283-bambinours-solves-a-jig-saw-puzzle.json"
     },
     {
       "igdb_id": 161397,
@@ -11153,6 +11163,21 @@
       "file": "missing/B/119064-barnanza.json"
     },
     {
+      "igdb_id": 14284,
+      "game_name": "Barney Bear Goes Camping",
+      "file": "missing/B/14284-barney-bear-goes-camping.json"
+    },
+    {
+      "igdb_id": 14285,
+      "game_name": "Barney Bear Goes to the Farm",
+      "file": "missing/B/14285-barney-bear-goes-to-the-farm.json"
+    },
+    {
+      "igdb_id": 14286,
+      "game_name": "Barney Bear Meets Santa Claus",
+      "file": "missing/B/14286-barney-bear-meets-santa-claus.json"
+    },
+    {
       "igdb_id": 325816,
       "game_name": "Barney Shoot 'Em Up",
       "file": "missing/B/325816-barney-shoot-em-up.json"
@@ -11161,6 +11186,11 @@
       "igdb_id": 96737,
       "game_name": "Barnyard Games For Kids",
       "file": "missing/B/96737-barnyard-games-for-kids.json"
+    },
+    {
+      "igdb_id": 14287,
+      "game_name": "Baron Baldric: A Grave Adventure",
+      "file": "missing/B/14287-baron-baldric-a-grave-adventure.json"
     },
     {
       "igdb_id": 144356,
@@ -11671,6 +11701,11 @@
       "igdb_id": 87192,
       "game_name": "Battle For It All",
       "file": "missing/B/87192-battle-for-it-all.json"
+    },
+    {
+      "igdb_id": 14290,
+      "game_name": "Battle for the Ashes",
+      "file": "missing/B/14290-battle-for-the-ashes.json"
     },
     {
       "igdb_id": 98456,
@@ -12208,6 +12243,11 @@
       "file": "missing/B/255363-beam-invader.json"
     },
     {
+      "igdb_id": 14293,
+      "game_name": "Beambender",
+      "file": "missing/B/14293-beambender.json"
+    },
+    {
       "igdb_id": 339647,
       "game_name": "Bear Stormin'",
       "file": "missing/B/339647-bear-stormin.json"
@@ -12573,6 +12613,11 @@
       "file": "missing/B/195239-behind-the-horizon-the-desert.json"
     },
     {
+      "igdb_id": 14294,
+      "game_name": "Behind the Iron Gate",
+      "file": "missing/B/14294-behind-the-iron-gate.json"
+    },
+    {
       "igdb_id": 308578,
       "game_name": "Behind The Mask Bundle",
       "file": "missing/B/308578-behind-the-mask-bundle.json"
@@ -12596,6 +12641,11 @@
       "igdb_id": 121723,
       "game_name": "Bejeweled",
       "file": "missing/B/121723-bejeweled.json"
+    },
+    {
+      "igdb_id": 14295,
+      "game_name": "Belial",
+      "file": "missing/B/14295-belial.json"
     },
     {
       "igdb_id": 234351,
@@ -13108,6 +13158,11 @@
       "file": "missing/B/312355-big-bucks-trivia-quest.json"
     },
     {
+      "igdb_id": 14300,
+      "game_name": "Big Business",
+      "file": "missing/B/14300-big-business.json"
+    },
+    {
       "igdb_id": 197944,
       "game_name": "Big Catch Bass Fishing",
       "file": "missing/B/197944-big-catch-bass-fishing.json"
@@ -13136,6 +13191,11 @@
       "igdb_id": 197383,
       "game_name": "Big Screen Games: Pack 1",
       "file": "missing/B/197383-big-screen-games-pack-1.json"
+    },
+    {
+      "igdb_id": 14301,
+      "game_name": "Big Sea",
+      "file": "missing/B/14301-big-sea.json"
     },
     {
       "igdb_id": 42640,
@@ -13248,9 +13308,19 @@
       "file": "missing/B/152909-bilkins-folly.json"
     },
     {
+      "igdb_id": 14302,
+      "game_name": "Bill & Ted's Excellent Adventure",
+      "file": "missing/B/14302-bill-and-teds-excellent-adventure.json"
+    },
+    {
       "igdb_id": 231623,
       "game_name": "Bill Bounce",
       "file": "missing/B/231623-bill-bounce.json"
+    },
+    {
+      "igdb_id": 14306,
+      "game_name": "Bill's Tomato Game",
+      "file": "missing/B/14306-bills-tomato-game.json"
     },
     {
       "igdb_id": 91448,
@@ -13266,6 +13336,16 @@
       "igdb_id": 149079,
       "game_name": "Billiards Dungeon",
       "file": "missing/B/149079-billiards-dungeon.json"
+    },
+    {
+      "igdb_id": 14305,
+      "game_name": "Billiards II Simulator",
+      "file": "missing/B/14305-billiards-ii-simulator.json"
+    },
+    {
+      "igdb_id": 14304,
+      "game_name": "Billiards Simulator",
+      "file": "missing/B/14304-billiards-simulator.json"
     },
     {
       "igdb_id": 153437,
@@ -13476,6 +13556,11 @@
       "igdb_id": 41378,
       "game_name": "Bishoujo Shashinkan II: Moving School",
       "file": "missing/B/41378-bishoujo-shashinkan-ii-moving-school.json"
+    },
+    {
+      "igdb_id": 14308,
+      "game_name": "Bismarck: The North Sea Chase",
+      "file": "missing/B/14308-bismarck-the-north-sea-chase.json"
     },
     {
       "igdb_id": 278709,
@@ -13698,6 +13783,11 @@
       "file": "missing/B/85507-black-hole.json"
     },
     {
+      "igdb_id": 14309,
+      "game_name": "Black Hornet",
+      "file": "missing/B/14309-black-hornet.json"
+    },
+    {
       "igdb_id": 159894,
       "game_name": "Black Lotus Motel",
       "file": "missing/B/159894-black-lotus-motel.json"
@@ -13748,6 +13838,11 @@
       "file": "missing/B/52627-black-sand-drift-collectors-edition.json"
     },
     {
+      "igdb_id": 14310,
+      "game_name": "Black Shadow",
+      "file": "missing/B/14310-black-shadow.json"
+    },
+    {
       "igdb_id": 196315,
       "game_name": "Black Swan: Collector's Edition",
       "file": "missing/B/196315-black-swan-collectors-edition.json"
@@ -13756,6 +13851,11 @@
       "igdb_id": 58824,
       "game_name": "Black Tower",
       "file": "missing/B/58824-black-tower.json"
+    },
+    {
+      "igdb_id": 14311,
+      "game_name": "Black Viper",
+      "file": "missing/B/14311-black-viper.json"
     },
     {
       "igdb_id": 220874,
@@ -13863,6 +13963,11 @@
       "file": "missing/B/92540-blackwater-100.json"
     },
     {
+      "igdb_id": 14312,
+      "game_name": "Blade",
+      "file": "missing/B/14312-blade.json"
+    },
+    {
       "igdb_id": 121039,
       "game_name": "Blade Arcus from Shining",
       "file": "missing/B/121039-blade-arcus-from-shining.json"
@@ -13881,6 +13986,11 @@
       "igdb_id": 102787,
       "game_name": "Blade Reborn: Forge Your Destiny",
       "file": "missing/B/102787-blade-reborn-forge-your-destiny.json"
+    },
+    {
+      "igdb_id": 14313,
+      "game_name": "Blade Warrior",
+      "file": "missing/B/14313-blade-warrior.json"
     },
     {
       "igdb_id": 322358,
@@ -13976,6 +14086,11 @@
       "igdb_id": 231621,
       "game_name": "Blast Royale",
       "file": "missing/B/231621-blast-royale.json"
+    },
+    {
+      "igdb_id": 14317,
+      "game_name": "Blastar",
+      "file": "missing/B/14317-blastar.json"
     },
     {
       "igdb_id": 196842,
@@ -14158,6 +14273,11 @@
       "file": "missing/B/52653-blitzkrieg-3-deluxe-edition.json"
     },
     {
+      "igdb_id": 14318,
+      "game_name": "Blitzkrieg: Battle at the Ardennes",
+      "file": "missing/B/14318-blitzkrieg-battle-at-the-ardennes.json"
+    },
+    {
       "igdb_id": 52652,
       "game_name": "Blitzkrieg: Complete Collection",
       "file": "missing/B/52652-blitzkrieg-complete-collection.json"
@@ -14176,6 +14296,11 @@
       "igdb_id": 177563,
       "game_name": "Blizzard Blowout 64",
       "file": "missing/B/177563-blizzard-blowout-64.json"
+    },
+    {
+      "igdb_id": 14319,
+      "game_name": "Blob",
+      "file": "missing/B/14319-blob.json"
     },
     {
       "igdb_id": 294472,
@@ -14223,6 +14348,11 @@
       "file": "missing/B/219299-blobufo.json"
     },
     {
+      "igdb_id": 14320,
+      "game_name": "Blobz",
+      "file": "missing/B/14320-blobz.json"
+    },
+    {
       "igdb_id": 254166,
       "game_name": "Block and Save",
       "file": "missing/B/254166-block-and-save.json"
@@ -14266,6 +14396,11 @@
       "igdb_id": 227506,
       "game_name": "Block Puzzle 1010",
       "file": "missing/B/227506-block-puzzle-1010.json"
+    },
+    {
+      "igdb_id": 14321,
+      "game_name": "Block Shock: The Last Chance",
+      "file": "missing/B/14321-block-shock-the-last-chance.json"
     },
     {
       "igdb_id": 327592,
@@ -14331,6 +14466,16 @@
       "igdb_id": 194036,
       "game_name": "Blocker.io",
       "file": "missing/B/194036-blocker-io.json"
+    },
+    {
+      "igdb_id": 14323,
+      "game_name": "Blockhead",
+      "file": "missing/B/14323-blockhead.json"
+    },
+    {
+      "igdb_id": 14324,
+      "game_name": "Blockhead II",
+      "file": "missing/B/14324-blockhead-ii.json"
     },
     {
       "igdb_id": 225875,
@@ -14663,6 +14808,11 @@
       "file": "missing/B/151170-blosamao.json"
     },
     {
+      "igdb_id": 14325,
+      "game_name": "Blowout & Cosmic Alphabet",
+      "file": "missing/B/14325-blowout-and-cosmic-alphabet.json"
+    },
+    {
       "igdb_id": 233246,
       "game_name": "Blowup!!",
       "file": "missing/B/233246-blowup.json"
@@ -14853,6 +15003,11 @@
       "file": "missing/B/25771-bob-winner-2.json"
     },
     {
+      "igdb_id": 14329,
+      "game_name": "Bob's Bad Day",
+      "file": "missing/B/14329-bobs-bad-day.json"
+    },
+    {
       "igdb_id": 177569,
       "game_name": "Boba",
       "file": "missing/B/177569-boba.json"
@@ -14876,6 +15031,11 @@
       "igdb_id": 185156,
       "game_name": "Bobls",
       "file": "missing/B/185156-bobls.json"
+    },
+    {
+      "igdb_id": 14328,
+      "game_name": "BoBo",
+      "file": "missing/B/14328-bobo.json"
     },
     {
       "igdb_id": 332274,
@@ -14971,6 +15131,11 @@
       "igdb_id": 98965,
       "game_name": "Bogie's Super Pick: Value Pack 1",
       "file": "missing/B/98965-bogies-super-pick-value-pack-1.json"
+    },
+    {
+      "igdb_id": 14330,
+      "game_name": "Bograts: The Puzzling Misadventure",
+      "file": "missing/B/14330-bograts-the-puzzling-misadventure.json"
     },
     {
       "igdb_id": 172188,
@@ -15101,6 +15266,11 @@
       "igdb_id": 270399,
       "game_name": "Bomber",
       "file": "missing/B/270399-bomber.json"
+    },
+    {
+      "igdb_id": 14331,
+      "game_name": "Bomber Bob",
+      "file": "missing/B/14331-bomber-bob.json"
     },
     {
       "igdb_id": 332840,
@@ -15363,6 +15533,11 @@
       "file": "missing/B/191852-booze-master.json"
     },
     {
+      "igdb_id": 14333,
+      "game_name": "Boppin'",
+      "file": "missing/B/14333-boppin.json"
+    },
+    {
       "igdb_id": 171627,
       "game_name": "Border Force: Space Force",
       "file": "missing/B/171627-border-force-space-force.json"
@@ -15433,6 +15608,16 @@
       "file": "missing/B/164506-bornies-journey.json"
     },
     {
+      "igdb_id": 14334,
+      "game_name": "Borobodur: The Planet of Doom",
+      "file": "missing/B/14334-borobodur-the-planet-of-doom.json"
+    },
+    {
+      "igdb_id": 14335,
+      "game_name": "Borodino",
+      "file": "missing/B/14335-borodino.json"
+    },
+    {
       "igdb_id": 314071,
       "game_name": "Borrowed Book",
       "file": "missing/B/314071-borrowed-book.json"
@@ -15476,6 +15661,11 @@
       "igdb_id": 186881,
       "game_name": "Botanicula: Collector's Edition",
       "file": "missing/B/186881-botanicula-collectors-edition.json"
+    },
+    {
+      "igdb_id": 14336,
+      "game_name": "Botics",
+      "file": "missing/B/14336-botics.json"
     },
     {
       "igdb_id": 58817,
@@ -15693,6 +15883,11 @@
       "file": "missing/B/58257-bowling-party.json"
     },
     {
+      "igdb_id": 14337,
+      "game_name": "Bowls",
+      "file": "missing/B/14337-bowls.json"
+    },
+    {
       "igdb_id": 231642,
       "game_name": "Bowser's Lair Hockey",
       "file": "missing/B/231642-bowsers-lair-hockey.json"
@@ -15878,6 +16073,11 @@
       "file": "missing/B/197397-brainsss.json"
     },
     {
+      "igdb_id": 14338,
+      "game_name": "Brainstorm",
+      "file": "missing/B/14338-brainstorm.json"
+    },
+    {
       "igdb_id": 130389,
       "game_name": "Brainstorm Series: Treasure Chase",
       "file": "missing/B/130389-brainstorm-series-treasure-chase.json"
@@ -15891,6 +16091,16 @@
       "igdb_id": 304879,
       "game_name": "BrainZ Defender",
       "file": "missing/B/304879-brainz-defender.json"
+    },
+    {
+      "igdb_id": 14341,
+      "game_name": "Bram Stoker's Dracula",
+      "file": "missing/B/14341-bram-stokers-dracula.json"
+    },
+    {
+      "igdb_id": 14342,
+      "game_name": "Bram Stoker's Dracula",
+      "file": "missing/B/14342-bram-stokers-dracula.json"
     },
     {
       "igdb_id": 80614,
@@ -15921,6 +16131,11 @@
       "igdb_id": 134660,
       "game_name": "Brassica: A Marry Tale",
       "file": "missing/B/134660-brassica-a-marry-tale.json"
+    },
+    {
+      "igdb_id": 14343,
+      "game_name": "Brat",
+      "file": "missing/B/14343-brat.json"
     },
     {
       "igdb_id": 104061,
@@ -15998,6 +16213,11 @@
       "file": "missing/B/18250-bravo-air-race.json"
     },
     {
+      "igdb_id": 14344,
+      "game_name": "Bravo Romeo Delta",
+      "file": "missing/B/14344-bravo-romeo-delta.json"
+    },
+    {
       "igdb_id": 63290,
       "game_name": "Bravoman: Binja Bash!",
       "file": "missing/B/63290-bravoman-binja-bash.json"
@@ -16021,6 +16241,11 @@
       "igdb_id": 251831,
       "game_name": "Breach",
       "file": "missing/B/251831-breach.json"
+    },
+    {
+      "igdb_id": 14345,
+      "game_name": "Breach 2",
+      "file": "missing/B/14345-breach-2.json"
     },
     {
       "igdb_id": 89947,
@@ -16196,6 +16421,11 @@
       "igdb_id": 111722,
       "game_name": "BreathePeace.World",
       "file": "missing/B/111722-breathepeace-world.json"
+    },
+    {
+      "igdb_id": 14346,
+      "game_name": "Breathless",
+      "file": "missing/B/14346-breathless.json"
     },
     {
       "igdb_id": 193991,
@@ -26531,6 +26761,11 @@
       "igdb_id": 34374,
       "game_name": "Darthy",
       "file": "missing/D/34374-darthy.json"
+    },
+    {
+      "igdb_id": 14332,
+      "game_name": "Das Boot: German U-Boat Simulation",
+      "file": "missing/D/14332-das-boot-german-u-boat-simulation.json"
     },
     {
       "igdb_id": 81399,
@@ -51523,6 +51758,11 @@
       "file": "missing/H/113025-hyperborean-charter.json"
     },
     {
+      "igdb_id": 14316,
+      "game_name": "Hyperbowl",
+      "file": "missing/H/14316-hyperbowl.json"
+    },
+    {
       "igdb_id": 94780,
       "game_name": "Hyperburner",
       "file": "missing/H/94780-hyperburner.json"
@@ -63046,6 +63286,11 @@
       "igdb_id": 338546,
       "game_name": "Lumo 2",
       "file": "missing/L/338546-lumo-2.json"
+    },
+    {
+      "igdb_id": 14303,
+      "game_name": "Lumo's Cat",
+      "file": "missing/L/14303-lumos-cat.json"
     },
     {
       "igdb_id": 202971,
@@ -99406,6 +99651,11 @@
       "igdb_id": 38990,
       "game_name": "Song of Pan",
       "file": "missing/S/38990-song-of-pan.json"
+    },
+    {
+      "igdb_id": 14315,
+      "game_name": "Song of the Firefly",
+      "file": "missing/S/14315-song-of-the-firefly.json"
     },
     {
       "igdb_id": 130952,
