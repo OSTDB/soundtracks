@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Paper Mario Fangame | 266509 | [266509-untitled-paper-mario-fangame.json](./266509-untitled-paper-mario-fangame.json) |
 | Untitled Space Game | 153441 | [153441-untitled-space-game.json](./153441-untitled-space-game.json) |
 | Untitled: The flower game | 181899 | [181899-untitled-the-flower-game.json](./181899-untitled-the-flower-game.json) |
+| Untold Legends: The Warrior's Code | 23006 | [23006-untold-legends-the-warriors-code.json](./23006-untold-legends-the-warriors-code.json) |
 | Untouchable | 101594 | [101594-untouchable.json](./101594-untouchable.json) |
 | Untravelled Planet | 325270 | [325270-untravelled-planet.json](./325270-untravelled-planet.json) |
 | Unusual Times | 221393 | [221393-unusual-times.json](./221393-unusual-times.json) |
