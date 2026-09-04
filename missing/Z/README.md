@@ -71,7 +71,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero King | 293912 | [293912-zero-king.json](./293912-zero-king.json) |
 | Zero no Tsukaima: Ko-akuma to Harukaze no Concerto | 72685 | [72685-zero-no-tsukaima-ko-akuma-to-harukaze-no-concerto.json](./72685-zero-no-tsukaima-ko-akuma-to-harukaze-no-concerto.json) |
 | Zero Ops | 213626 | [213626-zero-ops.json](./213626-zero-ops.json) |
+| Zero Parades: For Dead Spies | 361880 | [361880-zero-parades-for-dead-spies.json](./361880-zero-parades-for-dead-spies.json) |
 | Zero Zero | 130361 | [130361-zero-zero.json](./130361-zero-zero.json) |
+| Zero-G MMO | 396231 | [396231-zero-g-mmo.json](./396231-zero-g-mmo.json) |
 | Zerone 2D | 161899 | [161899-zerone-2d.json](./161899-zerone-2d.json) |
 | ZeroSpace | 262659 | [262659-zerospace.json](./262659-zerospace.json) |
 | Zeroth Zone | 72133 | [72133-zeroth-zone.json](./72133-zeroth-zone.json) |
@@ -143,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Roguelite | 291209 | [291209-zombie-roguelite.json](./291209-zombie-roguelite.json) |
 | Zombie School | 110348 | [110348-zombie-school.json](./110348-zombie-school.json) |
 | Zombie Serial Killer Incident | 99594 | [99594-zombie-serial-killer-incident.json](./99594-zombie-serial-killer-incident.json) |
+| Zombie Shooter | 16017 | [16017-zombie-shooter.json](./16017-zombie-shooter.json) |
 | Zombie Shooting Star | 209713 | [209713-zombie-shooting-star.json](./209713-zombie-shooting-star.json) |
 | Zombie Sniper 2 | 103525 | [103525-zombie-sniper-2.json](./103525-zombie-sniper-2.json) |
 | Zombie Space Shooter II | 228119 | [228119-zombie-space-shooter-ii.json](./228119-zombie-space-shooter-ii.json) |
