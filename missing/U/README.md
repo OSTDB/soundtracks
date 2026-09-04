@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unit 4: Clash of Agents | 170561 | [170561-unit-4-clash-of-agents.json](./170561-unit-4-clash-of-agents.json) |
 | United Assault: Battle of the Bulge | 195231 | [195231-united-assault-battle-of-the-bulge.json](./195231-united-assault-battle-of-the-bulge.json) |
 | United States Capitals: Breakthrough Gaming Activity Center | 221976 | [221976-united-states-capitals-breakthrough-gaming-activity-center.json](./221976-united-states-capitals-breakthrough-gaming-activity-center.json) |
+| Unitied | 126373 | [126373-unitied.json](./126373-unitied.json) |
 | uniTower | 121693 | [121693-unitower.json](./121693-unitower.json) |
 | Unity of Command: Black Turn | 171631 | [171631-unity-of-command-black-turn.json](./171631-unity-of-command-black-turn.json) |
 | Unity-chan the SharpShooter! | 304899 | [304899-unity-chan-the-sharpshooter.json](./304899-unity-chan-the-sharpshooter.json) |
@@ -235,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlock Me | 338587 | [338587-unlock-me.json](./338587-unlock-me.json) |
 | Unlock the Block | 166756 | [166756-unlock-the-block.json](./166756-unlock-the-block.json) |
 | Unlock the Feelings | 199094 | [199094-unlock-the-feelings.json](./199094-unlock-the-feelings.json) |
+| Unlock the King | 126885 | [126885-unlock-the-king.json](./126885-unlock-the-king.json) |
 | Unmanned helicopter | 105365 | [105365-unmanned-helicopter.json](./105365-unmanned-helicopter.json) |
 | Unmatch | 58805 | [58805-unmatch.json](./58805-unmatch.json) |
 | Unmaze | 159363 | [159363-unmaze.json](./159363-unmaze.json) |
