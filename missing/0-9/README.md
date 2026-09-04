@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 11eyes: Resona Forma | 98425 | [98425-11eyes-resona-forma.json](./98425-11eyes-resona-forma.json) |
 | 11gatsu no Arcadia | 98426 | [98426-11gatsu-no-arcadia.json](./98426-11gatsu-no-arcadia.json) |
 | 11wol Sonyeon | 98427 | [98427-11wol-sonyeon.json](./98427-11wol-sonyeon.json) |
+| 12 Labours of Hercules II: The Cretan Bull | 35493 | [35493-12-labours-of-hercules-ii-the-cretan-bull.json](./35493-12-labours-of-hercules-ii-the-cretan-bull.json) |
 | 12 Locks: Plasticine Room | 308527 | [308527-12-locks-plasticine-room.json](./308527-12-locks-plasticine-room.json) |
 | 12-sai: Koi Suru Diary | 98417 | [98417-12-sai-koi-suru-diary.json](./98417-12-sai-koi-suru-diary.json) |
 | 12+ | 98424 | [98424-12.json](./98424-12.json) |
@@ -225,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 360 No Scope! | 107867 | [107867-360-no-scope.json](./107867-360-no-scope.json) |
 | 360: Three Sixty | 45318 | [45318-360-three-sixty.json](./45318-360-three-sixty.json) |
 | 365 Days | 29917 | [29917-365-days.json](./29917-365-days.json) |
+| 39 Days to Mars | 32125 | [32125-39-days-to-mars.json](./32125-39-days-to-mars.json) |
 | 3Buttons | 110352 | [110352-3buttons.json](./110352-3buttons.json) |
 | 3D Alien Syndrome | 202925 | [202925-3d-alien-syndrome.json](./202925-3d-alien-syndrome.json) |
 | 3D Bowling USA | 205830 | [205830-3d-bowling-usa.json](./205830-3d-bowling-usa.json) |
