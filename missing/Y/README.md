@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yooka-Laylee: Buddy Duo Pack | 154556 | [154556-yooka-laylee-buddy-duo-pack.json](./154556-yooka-laylee-buddy-duo-pack.json) |
 | Yorg | 121719 | [121719-yorg.json](./121719-yorg.json) |
 | Yoshi Racing | 175959 | [175959-yoshi-racing.json](./175959-yoshi-racing.json) |
+| Yoshi Touch & Go | 18329 | [18329-yoshi-touch-and-go.json](./18329-yoshi-touch-and-go.json) |
 | Yoshi's Mix-Up | 231652 | [231652-yoshis-mix-up.json](./231652-yoshis-mix-up.json) |
 | Yoshiwara Higanbana: Kuon no Chigiri | 110335 | [110335-yoshiwara-higanbana-kuon-no-chigiri.json](./110335-yoshiwara-higanbana-kuon-no-chigiri.json) |
 | You Are Peter Shorts | 248919 | [248919-you-are-peter-shorts.json](./248919-you-are-peter-shorts.json) |
@@ -104,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys Ⅷ: Lacrimosa of Dana - Mobile | 196324 | [196324-ys-viii-lacrimosa-of-dana-mobile.json](./196324-ys-viii-lacrimosa-of-dana-mobile.json) |
 | Ys: Memories of Celceta | 15457 | [15457-ys-memories-of-celceta.json](./15457-ys-memories-of-celceta.json) |
 | Ys: Memories of Celceta - Silver Anniversary Edition | 42679 | [42679-ys-memories-of-celceta-silver-anniversary-edition.json](./42679-ys-memories-of-celceta-silver-anniversary-edition.json) |
+| Ys: Wanderers from Ys | 15450 | [15450-ys-wanderers-from-ys.json](./15450-ys-wanderers-from-ys.json) |
 | Yu Hayami no American Kids: Eigo de Bikkuri | 293911 | [293911-yu-hayami-no-american-kids-eigo-de-bikkuri.json](./293911-yu-hayami-no-american-kids-eigo-de-bikkuri.json) |
 | Yu Hayami no American Kids: Eigo de Talk | 293913 | [293913-yu-hayami-no-american-kids-eigo-de-talk.json](./293913-yu-hayami-no-american-kids-eigo-de-talk.json) |
 | Yu Hayami no American Kids: Eigo de Tango | 293910 | [293910-yu-hayami-no-american-kids-eigo-de-tango.json](./293910-yu-hayami-no-american-kids-eigo-de-tango.json) |
