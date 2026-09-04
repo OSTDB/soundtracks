@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops Mobile | 135300 | [135300-call-of-duty-black-ops-mobile.json](./135300-call-of-duty-black-ops-mobile.json) |
 | Call of Duty: Ghosts - Digital Hardened Edition | 240504 | [240504-call-of-duty-ghosts-digital-hardened-edition.json](./240504-call-of-duty-ghosts-digital-hardened-edition.json) |
 | Call of Duty: Modern Warfare 2 - Force Recon | 135298 | [135298-call-of-duty-modern-warfare-2-force-recon.json](./135298-call-of-duty-modern-warfare-2-force-recon.json) |
+| Call of Duty: Modern Warfare 3 - Collection 1 | 194363 | [194363-call-of-duty-modern-warfare-3-collection-1.json](./194363-call-of-duty-modern-warfare-3-collection-1.json) |
 | Call of Duty: Modern Warfare 3 - Defiance | 134652 | [134652-call-of-duty-modern-warfare-3-defiance.json](./134652-call-of-duty-modern-warfare-3-defiance.json) |
 | Call of Duty: Modern Warfare II - Griffin: Pro Pack | 254759 | [254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json](./254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json) |
 | Call of Duty: The War Collection | 292856 | [292856-call-of-duty-the-war-collection.json](./292856-call-of-duty-the-war-collection.json) |
@@ -502,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Zero Nightmare | 350249 | [350249-chaos-zero-nightmare.json](./350249-chaos-zero-nightmare.json) |
 | Chaos;Child Love Chu Chu!! | 65530 | [65530-chaos-child-love-chu-chu.json](./65530-chaos-child-love-chu-chu.json) |
 | Chaos;Head Noah | 43953 | [43953-chaos-head-noah.json](./43953-chaos-head-noah.json) |
+| Chaos;Head Noah / Chaos;Child Double Pack | 194326 | [194326-chaos-head-noah-chaos-child-double-pack.json](./194326-chaos-head-noah-chaos-child-double-pack.json) |
 | Chaotic Airport Construction Manager | 149608 | [149608-chaotic-airport-construction-manager.json](./149608-chaotic-airport-construction-manager.json) |
 | Chaotic Pursuit | 259857 | [259857-chaotic-pursuit.json](./259857-chaotic-pursuit.json) |
 | Chapas GP | 270383 | [270383-chapas-gp.json](./270383-chapas-gp.json) |
@@ -716,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrome Death | 259247 | [259247-chrome-death.json](./259247-chrome-death.json) |
 | Chronautical | 253598 | [253598-chronautical.json](./253598-chronautical.json) |
 | Chronicle of Ekan | 169980 | [169980-chronicle-of-ekan.json](./169980-chronicle-of-ekan.json) |
+| Chronicles of 2 Heroes: Amaterasu's Wrath | 191850 | [191850-chronicles-of-2-heroes-amaterasus-wrath.json](./191850-chronicles-of-2-heroes-amaterasus-wrath.json) |
 | Chronicles of a Dark Lord: Episode 2 War of the Abyss | 7856 | [7856-chronicles-of-a-dark-lord-episode-2-war-of-the-abyss.json](./7856-chronicles-of-a-dark-lord-episode-2-war-of-the-abyss.json) |
 | Chronicles of Albian 2: The Wizbury School of Magic | 339644 | [339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json](./339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json) |
 | Chronicles Of Errodean | 247740 | [247740-chronicles-of-errodean.json](./247740-chronicles-of-errodean.json) |
@@ -1329,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmoblaster Exodia | 192939 | [192939-cosmoblaster-exodia.json](./192939-cosmoblaster-exodia.json) |
 | Cosmodread | 144994 | [144994-cosmodread.json](./144994-cosmodread.json) |
 | CosmoDrive:Zero | 111688 | [111688-cosmodrive-zero.json](./111688-cosmodrive-zero.json) |
+| Cosmonious High | 194955 | [194955-cosmonious-high.json](./194955-cosmonious-high.json) |
 | Cosmophage | 148552 | [148552-cosmophage.json](./148552-cosmophage.json) |
 | Cosmos | 76611 | [76611-cosmos.json](./76611-cosmos.json) |
 | Cosmos Kitten | 332843 | [332843-cosmos-kitten.json](./332843-cosmos-kitten.json) |
@@ -1580,6 +1584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crucified Dreams | 260959 | [260959-crucified-dreams.json](./260959-crucified-dreams.json) |
 | Cruellete | 335676 | [335676-cruellete.json](./335676-cruellete.json) |
 | Cruise Ships Manager | 218698 | [218698-cruise-ships-manager.json](./218698-cruise-ships-manager.json) |
+| Crumbling | 192499 | [192499-crumbling.json](./192499-crumbling.json) |
 | Crunch Bandicoot: Submarine Hunt | 314660 | [314660-crunch-bandicoot-submarine-hunt.json](./314660-crunch-bandicoot-submarine-hunt.json) |
 | Crunch Element | 119770 | [119770-crunch-element.json](./119770-crunch-element.json) |
 | Crunch Time! | 218161 | [218161-crunch-time.json](./218161-crunch-time.json) |
