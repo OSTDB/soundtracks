@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of a Turnabout: Franziska von Karma | 318768 | [318768-echoes-of-a-turnabout-franziska-von-karma.json](./318768-echoes-of-a-turnabout-franziska-von-karma.json) |
 | Echoes of Forgotten Dreams | 340234 | [340234-echoes-of-forgotten-dreams.json](./340234-echoes-of-forgotten-dreams.json) |
 | Echoes of Magic | 194024 | [194024-echoes-of-magic.json](./194024-echoes-of-magic.json) |
+| Echoes of the Fey: The Last Sacrament | 102346 | [102346-echoes-of-the-fey-the-last-sacrament.json](./102346-echoes-of-the-fey-the-last-sacrament.json) |
 | Echoes of the Past | 168391 | [168391-echoes-of-the-past.json](./168391-echoes-of-the-past.json) |
 | Echoes of Vision | 321776 | [321776-echoes-of-vision.json](./321776-echoes-of-vision.json) |
 | Echoes of You | 252365 | [252365-echoes-of-you.json](./252365-echoes-of-you.json) |
