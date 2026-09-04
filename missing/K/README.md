@@ -295,6 +295,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Run VR | 235469 | [235469-kingdom-run-vr.json](./235469-kingdom-run-vr.json) |
 | Kingdom Two Crowns: Jarl Edition | 186896 | [186896-kingdom-two-crowns-jarl-edition.json](./186896-kingdom-two-crowns-jarl-edition.json) |
 | Kingdom Warriors | 58240 | [58240-kingdom-warriors.json](./58240-kingdom-warriors.json) |
+| Kingdom: Classic | 13686 | [13686-kingdom-classic.json](./13686-kingdom-classic.json) |
+| Kingdom: New Lands | 24881 | [24881-kingdom-new-lands.json](./24881-kingdom-new-lands.json) |
 | Kingdom's Life | 189177 | [189177-kingdoms-life.json](./189177-kingdoms-life.json) |
 | Kingdoms of Marazia: Classic | 107199 | [107199-kingdoms-of-marazia-classic.json](./107199-kingdoms-of-marazia-classic.json) |
 | Kingdoms: The Crown | 100212 | [100212-kingdoms-the-crown.json](./100212-kingdoms-the-crown.json) |
@@ -326,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby in Sonic the Hedgehog | 198524 | [198524-kirby-in-sonic-the-hedgehog.json](./198524-kirby-in-sonic-the-hedgehog.json) |
 | Kirby in Sonic the Hedgehog 2 | 198531 | [198531-kirby-in-sonic-the-hedgehog-2.json](./198531-kirby-in-sonic-the-hedgehog-2.json) |
 | Kirby Puzzle | 84259 | [84259-kirby-puzzle.json](./84259-kirby-puzzle.json) |
+| Kirby Super Star Ultra | 2647 | [2647-kirby-super-star-ultra.json](./2647-kirby-super-star-ultra.json) |
 | Kirby the Dream Battle | 145015 | [145015-kirby-the-dream-battle.json](./145015-kirby-the-dream-battle.json) |
 | Kirby's Ballin' Adventure | 324102 | [324102-kirbys-ballin-adventure.json](./324102-kirbys-ballin-adventure.json) |
 | Kirby's Dream World | 243927 | [243927-kirbys-dream-world.json](./243927-kirbys-dream-world.json) |
