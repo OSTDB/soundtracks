@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel End Time Arena | 89254 | [89254-marvel-end-time-arena.json](./89254-marvel-end-time-arena.json) |
 | Marvel First Alliance | 300380 | [300380-marvel-first-alliance.json](./300380-marvel-first-alliance.json) |
 | Marvel Mystic Mayhem | 319970 | [319970-marvel-mystic-mayhem.json](./319970-marvel-mystic-mayhem.json) |
+| Marvel Super Hero Squad Online | 19663 | [19663-marvel-super-hero-squad-online.json](./19663-marvel-super-hero-squad-online.json) |
 | Marvel's Guardians of the Galaxy: Cloud Version | 152370 | [152370-marvels-guardians-of-the-galaxy-cloud-version.json](./152370-marvels-guardians-of-the-galaxy-cloud-version.json) |
 | Marvel's Moon Girl and Devil Dinosaur: Moon Girl Moxie! | 306670 | [306670-marvels-moon-girl-and-devil-dinosaur-moon-girl-moxie.json](./306670-marvels-moon-girl-and-devil-dinosaur-moon-girl-moxie.json) |
 | Mary Had A Lost Lamb | 314072 | [314072-mary-had-a-lost-lamb.json](./314072-mary-had-a-lost-lamb.json) |
@@ -586,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man: Speed Bomber | 269872 | [269872-mega-man-speed-bomber.json](./269872-mega-man-speed-bomber.json) |
 | Mega Man: The New Lands Remastered | 269873 | [269873-mega-man-the-new-lands-remastered.json](./269873-mega-man-the-new-lands-remastered.json) |
 | Mega Mario World 2: Awakened Power | 229347 | [229347-mega-mario-world-2-awakened-power.json](./229347-mega-mario-world-2-awakened-power.json) |
+| Mega Math | 19670 | [19670-mega-math.json](./19670-mega-math.json) |
 | Mega Meteor Madness | 122420 | [122420-mega-meteor-madness.json](./122420-mega-meteor-madness.json) |
 | Mega Minis: Volume 1 | 45998 | [45998-mega-minis-volume-1.json](./45998-mega-minis-volume-1.json) |
 | Mega Minis: Volume 2 | 45997 | [45997-mega-minis-volume-2.json](./45997-mega-minis-volume-2.json) |
@@ -601,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megadimension Neptunia VII: Party Character - Nitroplus | 238178 | [238178-megadimension-neptunia-vii-party-character-nitroplus.json](./238178-megadimension-neptunia-vii-party-character-nitroplus.json) |
 | Megadimension Neptunia VII: Party Character - Umio & Nepgya | 238179 | [238179-megadimension-neptunia-vii-party-character-umio-and-nepgya.json](./238179-megadimension-neptunia-vii-party-character-umio-and-nepgya.json) |
 | Megadungeon | 310752 | [310752-megadungeon.json](./310752-megadungeon.json) |
+| Megalit | 19558 | [19558-megalit.json](./19558-megalit.json) |
 | Megalothymia: Mokusei Zettai Bouei-ken - Heaven's Fall | 267657 | [267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json](./267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json) |
 | Megami Ibunroku Persona | 240506 | [240506-megami-ibunroku-persona.json](./240506-megami-ibunroku-persona.json) |
 | Megami Meguri | 222529 | [222529-megami-meguri.json](./222529-megami-meguri.json) |
@@ -759,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metric Racer | 133427 | [133427-metric-racer.json](./133427-metric-racer.json) |
 | Metro Blossom | 203519 | [203519-metro-blossom.json](./203519-metro-blossom.json) |
 | Metro Survival: Zombie Hunter | 174873 | [174873-metro-survival-zombie-hunter.json](./174873-metro-survival-zombie-hunter.json) |
+| Metro-Police | 19586 | [19586-metro-police.json](./19586-metro-police.json) |
 | Metrogether | 326385 | [326385-metrogether.json](./326385-metrogether.json) |
 | Metroid Ecliption | 324077 | [324077-metroid-ecliption.json](./324077-metroid-ecliption.json) |
 | Metroid Fool | 295024 | [295024-metroid-fool.json](./295024-metroid-fool.json) |
@@ -1390,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mothdude | 184126 | [184126-mothdude.json](./184126-mothdude.json) |
 | Mother Is Gone | 180843 | [180843-mother-is-gone.json](./180843-mother-is-gone.json) |
 | Mother of All Battles! | 338001 | [338001-mother-of-all-battles.json](./338001-mother-of-all-battles.json) |
+| Mother of Myth | 19643 | [19643-mother-of-myth.json](./19643-mother-of-myth.json) |
 | Mother: Encore | 259272 | [259272-mother-encore.json](./259272-mother-encore.json) |
 | Mother's Home | 320534 | [320534-mothers-home.json](./320534-mothers-home.json) |
 | Motherbird: The Dark One | 239922 | [239922-motherbird-the-dark-one.json](./239922-motherbird-the-dark-one.json) |
