@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back 2 School | 192417 | [192417-back-2-school.json](./192417-back-2-school.json) |
 | Back 4 Blood: Annual Pass | 293917 | [293917-back-4-blood-annual-pass.json](./293917-back-4-blood-annual-pass.json) |
 | Back 4 Blood: Ultimate Edition | 141889 | [141889-back-4-blood-ultimate-edition.json](./141889-back-4-blood-ultimate-edition.json) |
+| Back Again | 192507 | [192507-back-again.json](./192507-back-again.json) |
 | Back In 1995 64 | 85503 | [85503-back-in-1995-64.json](./85503-back-in-1995-64.json) |
 | Back Rooms: Ground Zero | 250641 | [250641-back-rooms-ground-zero.json](./250641-back-rooms-ground-zero.json) |
 | Back to Brother | 231047 | [231047-back-to-brother.json](./231047-back-to-brother.json) |
@@ -500,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BBQ Simulator: The Squad | 185674 | [185674-bbq-simulator-the-squad.json](./185674-bbq-simulator-the-squad.json) |
 | Be a Pirate | 143746 | [143746-be-a-pirate.json](./143746-be-a-pirate.json) |
 | Be Brave, Barb | 331143 | [331143-be-brave-barb.json](./331143-be-brave-barb.json) |
+| Be Funny Now! | 194440 | [194440-be-funny-now.json](./194440-be-funny-now.json) |
 | Be Honest | 305536 | [305536-be-honest.json](./305536-be-honest.json) |
 | Be Kind To Yourself | 328241 | [328241-be-kind-to-yourself.json](./328241-be-kind-to-yourself.json) |
 | Be King | 254142 | [254142-be-king.json](./254142-be-king.json) |
@@ -666,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bestie Walzer | 98435 | [98435-bestie-walzer.json](./98435-bestie-walzer.json) |
 | Betaman 2000: Special Edition | 330521 | [330521-betaman-2000-special-edition.json](./330521-betaman-2000-special-edition.json) |
 | BeTrapped! | 71522 | [71522-betrapped.json](./71522-betrapped.json) |
+| Betrayal At Club Low | 194803 | [194803-betrayal-at-club-low.json](./194803-betrayal-at-club-low.json) |
 | Betrayed Alliance: Book 2 | 239894 | [239894-betrayed-alliance-book-2.json](./239894-betrayed-alliance-book-2.json) |
 | Betrayer: Curse of the Spine | 168381 | [168381-betrayer-curse-of-the-spine.json](./168381-betrayer-curse-of-the-spine.json) |
 | Bets on Pets | 278170 | [278170-bets-on-pets.json](./278170-bets-on-pets.json) |
@@ -944,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazeSky | 131611 | [131611-blazesky.json](./131611-blazesky.json) |
 | Blazin' Aces | 61107 | [61107-blazin-aces.json](./61107-blazin-aces.json) |
 | Blazing Legion: Ignition | 78064 | [78064-blazing-legion-ignition.json](./78064-blazing-legion-ignition.json) |
+| Blazing Strike | 193531 | [193531-blazing-strike.json](./193531-blazing-strike.json) |
 | Bleach: Heat the Soul 4 | 46001 | [46001-bleach-heat-the-soul-4.json](./46001-bleach-heat-the-soul-4.json) |
 | Bleach: The Blade of Fate | 20530 | [20530-bleach-the-blade-of-fate.json](./20530-bleach-the-blade-of-fate.json) |
 | Bleak Frontier | 258707 | [258707-bleak-frontier.json](./258707-bleak-frontier.json) |
