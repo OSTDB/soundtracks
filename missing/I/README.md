@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus Online | 62770 | [62770-icarus-online.json](./62770-icarus-online.json) |
 | Icarus: Styx Map Pack | 204686 | [204686-icarus-styx-map-pack.json](./204686-icarus-styx-map-pack.json) |
 | Icarus.1 | 25947 | [25947-icarus-1.json](./25947-icarus-1.json) |
+| Ice and Fire | 22623 | [22623-ice-and-fire.json](./22623-ice-and-fire.json) |
 | Ice and Fire | 232712 | [232712-ice-and-fire.json](./232712-ice-and-fire.json) |
 | Ice Climber-e | 170012 | [170012-ice-climber-e.json](./170012-ice-climber-e.json) |
 | Ice Nosfe | 236499 | [236499-ice-nosfe.json](./236499-ice-nosfe.json) |
@@ -195,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Il Filo Conduttore | 134699 | [134699-il-filo-conduttore.json](./134699-il-filo-conduttore.json) |
 | Il Fiore di Moretti | 331141 | [331141-il-fiore-di-moretti.json](./331141-il-fiore-di-moretti.json) |
 | IL-2 Sturmovik: 1946 | 5563 | [5563-il-2-sturmovik-1946.json](./5563-il-2-sturmovik-1946.json) |
+| IL-2 Sturmovik: Complete Edition | 23004 | [23004-il-2-sturmovik-complete-edition.json](./23004-il-2-sturmovik-complete-edition.json) |
 | IL-2 Sturmovik: Hell Hawks Over the Bulge Campaign | 267661 | [267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json](./267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json) |
 | IL-2 Sturmovik: Lisunov Li-2 Collector Plane | 267662 | [267662-il-2-sturmovik-lisunov-li-2-collector-plane.json](./267662-il-2-sturmovik-lisunov-li-2-collector-plane.json) |
 | IL-2 Sturmovik: Ten Days of Autumn Campaign | 267663 | [267663-il-2-sturmovik-ten-days-of-autumn-campaign.json](./267663-il-2-sturmovik-ten-days-of-autumn-campaign.json) |
@@ -461,11 +463,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interlocked | 83578 | [83578-interlocked.json](./83578-interlocked.json) |
 | Internal Reaches 2 | 274192 | [274192-internal-reaches-2.json](./274192-internal-reaches-2.json) |
 | Internal Reaches 4 | 274193 | [274193-internal-reaches-4.json](./274193-internal-reaches-4.json) |
+| International Cricket 2010 | 22961 | [22961-international-cricket-2010.json](./22961-international-cricket-2010.json) |
 | International Cricket Captain 2 | 63317 | [63317-international-cricket-captain-2.json](./63317-international-cricket-captain-2.json) |
 | International Cricket Captain 2000 | 63318 | [63318-international-cricket-captain-2000.json](./63318-international-cricket-captain-2000.json) |
 | International Cricket Captain 2001 | 63321 | [63321-international-cricket-captain-2001.json](./63321-international-cricket-captain-2001.json) |
 | International Cricket Captain 2002 | 63319 | [63319-international-cricket-captain-2002.json](./63319-international-cricket-captain-2002.json) |
 | International Cricket Captain 2005: Ashes Edition | 63322 | [63322-international-cricket-captain-2005-ashes-edition.json](./63322-international-cricket-captain-2005-ashes-edition.json) |
+| International Cricket Captain 2006 | 23008 | [23008-international-cricket-captain-2006.json](./23008-international-cricket-captain-2006.json) |
 | International Cricket Captain 2006: Ashes Edition | 63323 | [63323-international-cricket-captain-2006-ashes-edition.json](./63323-international-cricket-captain-2006-ashes-edition.json) |
 | International Cricket Captain 2009 | 63324 | [63324-international-cricket-captain-2009.json](./63324-international-cricket-captain-2009.json) |
 | International Cricket Captain 2009: Ashes Edition | 63328 | [63328-international-cricket-captain-2009-ashes-edition.json](./63328-international-cricket-captain-2009-ashes-edition.json) |
@@ -614,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Tribe 4 | 76646 | [76646-island-tribe-4.json](./76646-island-tribe-4.json) |
 | Islanders: New Shores | 333961 | [333961-islanders-new-shores.json](./333961-islanders-new-shores.json) |
 | Islands of Insight | 212652 | [212652-islands-of-insight.json](./212652-islands-of-insight.json) |
+| Islands of Wakfu | 22947 | [22947-islands-of-wakfu.json](./22947-islands-of-wakfu.json) |
 | Isle Clash | 132265 | [132265-isle-clash.json](./132265-isle-clash.json) |
 | Isle of Arrows | 197945 | [197945-isle-of-arrows.json](./197945-isle-of-arrows.json) |
 | Isle of Jura | 167395 | [167395-isle-of-jura.json](./167395-isle-of-jura.json) |
