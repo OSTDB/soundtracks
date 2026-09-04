@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Knight: Sacred Maiden & Fallen Magic | 270955 | [270955-nightmare-knight-sacred-maiden-and-fallen-magic.json](./270955-nightmare-knight-sacred-maiden-and-fallen-magic.json) |
 | Nightmare Maze | 13743 | [13743-nightmare-maze.json](./13743-nightmare-maze.json) |
 | Nightmare Ned | 51225 | [51225-nightmare-ned.json](./51225-nightmare-ned.json) |
+| Nightmare of Decay | 195478 | [195478-nightmare-of-decay.json](./195478-nightmare-of-decay.json) |
 | Nightmare Shift | 179716 | [179716-nightmare-shift.json](./179716-nightmare-shift.json) |
 | Nightmare Shift | 321774 | [321774-nightmare-shift.json](./321774-nightmare-shift.json) |
 | NightmareBullet | 105364 | [105364-nightmarebullet.json](./105364-nightmarebullet.json) |
