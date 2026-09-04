@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Dungeons & Dragons: Dragons of Flame | 8602 | [8602-advanced-dungeons-and-dragons-dragons-of-flame.json](./8602-advanced-dungeons-and-dragons-dragons-of-flame.json) |
 | Advanced Dungeons & Dragons: Pool of Radiance | 8732 | [8732-advanced-dungeons-and-dragons-pool-of-radiance.json](./8732-advanced-dungeons-and-dragons-pool-of-radiance.json) |
 | Advanced Intelligence Surveillance Agency | 150651 | [150651-advanced-intelligence-surveillance-agency.json](./150651-advanced-intelligence-surveillance-agency.json) |
+| Advanced Tactics Gold | 36292 | [36292-advanced-tactics-gold.json](./36292-advanced-tactics-gold.json) |
 | Adventure | 12239 | [12239-adventure.json](./12239-adventure.json) |
 | Adventure A: Planet of Death | 45364 | [45364-adventure-a-planet-of-death.json](./45364-adventure-a-planet-of-death.json) |
 | Adventure B: Inca Curse | 45354 | [45354-adventure-b-inca-curse.json](./45354-adventure-b-inca-curse.json) |
@@ -819,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alucinod | 118422 | [118422-alucinod.json](./118422-alucinod.json) |
 | Alundra 2: A New Legend Begins | 1176 | [1176-alundra-2-a-new-legend-begins.json](./1176-alundra-2-a-new-legend-begins.json) |
 | Always 1-1 | 290688 | [290688-always-1-1.json](./290688-always-1-1.json) |
+| Always Remember Me | 36356 | [36356-always-remember-me.json](./36356-always-remember-me.json) |
 | Am I the baddie? | 173287 | [173287-am-i-the-baddie.json](./173287-am-i-the-baddie.json) |
 | AMA Superbike | 94233 | [94233-ama-superbike.json](./94233-ama-superbike.json) |
 | Amaemi: Longing for you | 206335 | [206335-amaemi-longing-for-you.json](./206335-amaemi-longing-for-you.json) |
@@ -831,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amarantus | 201324 | [201324-amarantus.json](./201324-amarantus.json) |
 | Amateur Surgeon 4: Re-Generations | 57116 | [57116-amateur-surgeon-4-re-generations.json](./57116-amateur-surgeon-4-re-generations.json) |
 | Amatsu Sora ni Saku | 309672 | [309672-amatsu-sora-ni-saku.json](./309672-amatsu-sora-ni-saku.json) |
+| Amaze 2 | 36472 | [36472-amaze-2.json](./36472-amaze-2.json) |
 | Amaze! | 246648 | [246648-amaze.json](./246648-amaze.json) |
 | AmazeBowl | 104070 | [104070-amazebowl.json](./104070-amazebowl.json) |
 | Amazeing Lemons | 75901 | [75901-amazeing-lemons.json](./75901-amazeing-lemons.json) |
@@ -1397,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Core: Formula Front - Extreme Battle | 46022 | [46022-armored-core-formula-front-extreme-battle.json](./46022-armored-core-formula-front-extreme-battle.json) |
 | Armored Core: Last Raven | 19410 | [19410-armored-core-last-raven.json](./19410-armored-core-last-raven.json) |
 | Armored Heroes | 242204 | [242204-armored-heroes.json](./242204-armored-heroes.json) |
+| Armored Hunter Gunhound EX | 36391 | [36391-armored-hunter-gunhound-ex.json](./36391-armored-hunter-gunhound-ex.json) |
 | Armored Kitten | 67904 | [67904-armored-kitten.json](./67904-armored-kitten.json) |
 | Armored Patrol | 55932 | [55932-armored-patrol.json](./55932-armored-patrol.json) |
 | Armored Squad | 83557 | [83557-armored-squad.json](./83557-armored-squad.json) |
@@ -1431,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArsDoom | 180260 | [180260-arsdoom.json](./180260-arsdoom.json) |
 | Arsenal | 188635 | [188635-arsenal.json](./188635-arsenal.json) |
 | Arson | 223660 | [223660-arson.json](./223660-arson.json) |
+| Arson & Plunder: Unleashed | 36323 | [36323-arson-and-plunder-unleashed.json](./36323-arson-and-plunder-unleashed.json) |
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
 | Art of Fighting 2 | 6556 | [6556-art-of-fighting-2.json](./6556-art-of-fighting-2.json) |
 | Art of Guile | 26721 | [26721-art-of-guile.json](./26721-art-of-guile.json) |
@@ -1544,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Rei Play | 109004 | [109004-assault-rei-play.json](./109004-assault-rei-play.json) |
 | Assault Spy | 86514 | [86514-assault-spy.json](./86514-assault-spy.json) |
 | Assault Spy: Elite Spy Edition | 124831 | [124831-assault-spy-elite-spy-edition.json](./124831-assault-spy-elite-spy-edition.json) |
+| Assault Squad 2: Men of War Origins | 36398 | [36398-assault-squad-2-men-of-war-origins.json](./36398-assault-squad-2-men-of-war-origins.json) |
 | AssaultCube | 9530 | [9530-assaultcube.json](./9530-assaultcube.json) |
 | Assembly Line 2: Mobile Version | 277015 | [277015-assembly-line-2-mobile-version.json](./277015-assembly-line-2-mobile-version.json) |
 | Assetto Corsa Competizione | 171274 | [171274-assetto-corsa-competizione.json](./171274-assetto-corsa-competizione.json) |
@@ -1783,6 +1789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avernum 2 | 19581 | [19581-avernum-2.json](./19581-avernum-2.json) |
 | Avernum 3 | 57680 | [57680-avernum-3.json](./57680-avernum-3.json) |
 | Avery Cardoza's Casino 2000 | 78694 | [78694-avery-cardozas-casino-2000.json](./78694-avery-cardozas-casino-2000.json) |
+| Aveyond 3-3: The Lost Orb | 36241 | [36241-aveyond-3-3-the-lost-orb.json](./36241-aveyond-3-3-the-lost-orb.json) |
 | Aviãozinho do tráfico 1: despacito 5 quem ler é arrombado 2 | 341879 | [341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json](./341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json) |
 | Aviãozinho do tráfico 2: 3D resenha de pasta base de cocaína com Sorrizo Ronaldo | 341880 | [341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json](./341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json) |
 | Aviary Attorney: Definitive Edition | 136443 | [136443-aviary-attorney-definitive-edition.json](./136443-aviary-attorney-definitive-edition.json) |
