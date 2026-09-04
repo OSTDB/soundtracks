@@ -2173,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars | 212479 | [212479-star-wars.json](./212479-star-wars.json) |
 | Star Wars Battlefront: Hoth Bundle | 115714 | [115714-star-wars-battlefront-hoth-bundle.json](./115714-star-wars-battlefront-hoth-bundle.json) |
 | Star Wars Challenge | 86087 | [86087-star-wars-challenge.json](./86087-star-wars-challenge.json) |
+| Star Wars Chess | 11289 | [11289-star-wars-chess.json](./11289-star-wars-chess.json) |
 | Star Wars Episode I: The Phantom Menace | 158 | [158-star-wars-episode-i-the-phantom-menace.json](./158-star-wars-episode-i-the-phantom-menace.json) |
 | Star Wars Outlaws: Cartel Ronin Bundle | 325857 | [325857-star-wars-outlaws-cartel-ronin-bundle.json](./325857-star-wars-outlaws-cartel-ronin-bundle.json) |
 | Star Wars Outlaws: Forest Commando Pack | 325856 | [325856-star-wars-outlaws-forest-commando-pack.json](./325856-star-wars-outlaws-forest-commando-pack.json) |
@@ -2946,6 +2947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pig | 120989 | [120989-super-pig.json](./120989-super-pig.json) |
 | Super Pole Position | 108506 | [108506-super-pole-position.json](./108506-super-pole-position.json) |
 | Super Punch | 147959 | [147959-super-punch.json](./147959-super-punch.json) |
+| Super Punch-Out!! | 9152 | [9152-super-punch-out.json](./9152-super-punch-out.json) |
 | Super Putty | 39039 | [39039-super-putty.json](./39039-super-putty.json) |
 | Super Puzzle Fighter II Turbo | 20803 | [20803-super-puzzle-fighter-ii-turbo.json](./20803-super-puzzle-fighter-ii-turbo.json) |
 | Super Puzzle Platformer | 223665 | [223665-super-puzzle-platformer.json](./223665-super-puzzle-platformer.json) |
