@@ -341,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Voyage | 269837 | [269837-ghost-voyage.json](./269837-ghost-voyage.json) |
 | Ghost Witch: Soulstice Sprint | 341892 | [341892-ghost-witch-soulstice-sprint.json](./341892-ghost-witch-soulstice-sprint.json) |
 | Ghost: Elisa Cameron | 146929 | [146929-ghost-elisa-cameron.json](./146929-ghost-elisa-cameron.json) |
+| Ghostbusters | 4534 | [4534-ghostbusters.json](./4534-ghostbusters.json) |
 | Ghostbusters: Dimension | 246631 | [246631-ghostbusters-dimension.json](./246631-ghostbusters-dimension.json) |
 | Ghostbusters: Slime City | 96751 | [96751-ghostbusters-slime-city.json](./96751-ghostbusters-slime-city.json) |
 | Ghostcon: Elementals | 247773 | [247773-ghostcon-elementals.json](./247773-ghostcon-elementals.json) |
@@ -518,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla Online | 72723 | [72723-godzilla-online.json](./72723-godzilla-online.json) |
 | Godzilla Voxel Wars | 264341 | [264341-godzilla-voxel-wars.json](./264341-godzilla-voxel-wars.json) |
 | Godzilla: Archipelago Shock | 75891 | [75891-godzilla-archipelago-shock.json](./75891-godzilla-archipelago-shock.json) |
+| Godzilla: Destroy All Monsters Melee | 3935 | [3935-godzilla-destroy-all-monsters-melee.json](./3935-godzilla-destroy-all-monsters-melee.json) |
 | Godzilla: Doki-doki Kaijuu-tou!! | 75890 | [75890-godzilla-doki-doki-kaijuu-tou.json](./75890-godzilla-doki-doki-kaijuu-tou.json) |
 | Godzilla: The Series | 75893 | [75893-godzilla-the-series.json](./75893-godzilla-the-series.json) |
 | Goemon: Mononoke Sugoroku | 3507 | [3507-goemon-mononoke-sugoroku.json](./3507-goemon-mononoke-sugoroku.json) |
@@ -664,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grabbers in the Woods | 294426 | [294426-grabbers-in-the-woods.json](./294426-grabbers-in-the-woods.json) |
 | Grabitoons | 231049 | [231049-grabitoons.json](./231049-grabitoons.json) |
 | Grace Online | 248302 | [248302-grace-online.json](./248302-grace-online.json) |
+| Gradius | 213191 | [213191-gradius.json](./213191-gradius.json) |
 | Gradius III and IV | 98976 | [98976-gradius-iii-and-iv.json](./98976-gradius-iii-and-iv.json) |
 | Graffiti Simulator | 326418 | [326418-graffiti-simulator.json](./326418-graffiti-simulator.json) |
 | GraFi 2 | 119013 | [119013-grafi-2.json](./119013-grafi-2.json) |
@@ -697,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto V: Premium Online Edition | 98077 | [98077-grand-theft-auto-v-premium-online-edition.json](./98077-grand-theft-auto-v-premium-online-edition.json) |
 | Grand Theft Auto: Alien City | 231619 | [231619-grand-theft-auto-alien-city.json](./231619-grand-theft-auto-alien-city.json) |
 | Grand Theft Auto: Chinatown Wars | 3270 | [3270-grand-theft-auto-chinatown-wars.json](./3270-grand-theft-auto-chinatown-wars.json) |
+| Grand Theft Auto: Liberty City Stories | 309110 | [309110-grand-theft-auto-liberty-city-stories.json](./309110-grand-theft-auto-liberty-city-stories.json) |
 | Grand Theft Auto: Sindacco Chronicles | 256515 | [256515-grand-theft-auto-sindacco-chronicles.json](./256515-grand-theft-auto-sindacco-chronicles.json) |
 | Grand Theft Auto: Vice City Stories | 3262 | [3262-grand-theft-auto-vice-city-stories.json](./3262-grand-theft-auto-vice-city-stories.json) |
 | Grand War 2 | 247204 | [247204-grand-war-2.json](./247204-grand-war-2.json) |
