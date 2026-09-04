@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima: Exodus | 48049 | [48049-ultima-exodus.json](./48049-ultima-exodus.json) |
 | Ultima: Quest of the Avatar | 48097 | [48097-ultima-quest-of-the-avatar.json](./48097-ultima-quest-of-the-avatar.json) |
 | Ultima: Warriors of Destiny | 48096 | [48096-ultima-warriors-of-destiny.json](./48096-ultima-warriors-of-destiny.json) |
+| Ultimagus | 29845 | [29845-ultimagus.json](./29845-ultimagus.json) |
 | Ultimate ADOM: Caverns of Chaos - Save the World Edition | 186876 | [186876-ultimate-adom-caverns-of-chaos-save-the-world-edition.json](./186876-ultimate-adom-caverns-of-chaos-save-the-world-edition.json) |
 | Ultimate Arena of Fate | 273090 | [273090-ultimate-arena-of-fate.json](./273090-ultimate-arena-of-fate.json) |
 | Ultimate Battle Royale PvP | 90675 | [90675-ultimate-battle-royale-pvp.json](./90675-ultimate-battle-royale-pvp.json) |
