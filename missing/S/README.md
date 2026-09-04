@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Ken to Mahou to Gakuen Mono. Toki no Gakuen | 63895 | [63895-shin-ken-to-mahou-to-gakuen-mono-toki-no-gakuen.json](./63895-shin-ken-to-mahou-to-gakuen-mono-toki-no-gakuen.json) |
 | Shin Koihime Musou: Kakumei - Ryuuki no Taimou | 127338 | [127338-shin-koihime-musou-kakumei-ryuuki-no-taimou.json](./127338-shin-koihime-musou-kakumei-ryuuki-no-taimou.json) |
 | Shin Mahjong Tenka Fubu | 188085 | [188085-shin-mahjong-tenka-fubu.json](./188085-shin-mahjong-tenka-fubu.json) |
+| Shin Megami Tensei Devil Summoner: Raidou Kuzunoha vs. The Soulless Army | 20640 | [20640-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army.json](./20640-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army.json) |
 | Shin Megami Tensei III: Nocturne | 336392 | [336392-shin-megami-tensei-iii-nocturne.json](./336392-shin-megami-tensei-iii-nocturne.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster | 135913 | [135913-shin-megami-tensei-iii-nocturne-hd-remaster.json](./135913-shin-megami-tensei-iii-nocturne-hd-remaster.json) |
 | Shin Megami Tensei Vertex | 142491 | [142491-shin-megami-tensei-vertex.json](./142491-shin-megami-tensei-vertex.json) |
@@ -1784,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark Five | 111683 | [111683-spark-five.json](./111683-spark-five.json) |
 | Spark in the Dark | 140616 | [140616-spark-in-the-dark.json](./140616-spark-in-the-dark.json) |
 | Sparkle | 88277 | [88277-sparkle.json](./88277-sparkle.json) |
+| Sparkle 2 | 20069 | [20069-sparkle-2.json](./20069-sparkle-2.json) |
 | Sparkle Snapshots | 67332 | [67332-sparkle-snapshots.json](./67332-sparkle-snapshots.json) |
 | Sparkling Feather | 46612 | [46612-sparkling-feather.json](./46612-sparkling-feather.json) |
 | Sparky Marky: Episode 3 | 258178 | [258178-sparky-marky-episode-3.json](./258178-sparky-marky-episode-3.json) |
@@ -2070,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Rage VR | 68697 | [68697-star-rage-vr.json](./68697-star-rage-vr.json) |
 | Star Rank Boxing | 57664 | [57664-star-rank-boxing.json](./57664-star-rank-boxing.json) |
 | Star Rank Boxing II | 69871 | [69871-star-rank-boxing-ii.json](./69871-star-rank-boxing-ii.json) |
+| Star Renegades | 94816 | [94816-star-renegades.json](./94816-star-renegades.json) |
 | Star Renegades: Total Lunarcy | 166215 | [166215-star-renegades-total-lunarcy.json](./166215-star-renegades-total-lunarcy.json) |
 | Star Revenge 1: Star Takeover | 132841 | [132841-star-revenge-1-star-takeover.json](./132841-star-revenge-1-star-takeover.json) |
 | Star Saga: Two - The Clathran Menace | 57662 | [57662-star-saga-two-the-clathran-menace.json](./57662-star-saga-two-the-clathran-menace.json) |
