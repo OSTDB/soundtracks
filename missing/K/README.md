@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby the Dream Battle | 145015 | [145015-kirby-the-dream-battle.json](./145015-kirby-the-dream-battle.json) |
 | Kirby: Squeak Squad | 3723 | [3723-kirby-squeak-squad.json](./3723-kirby-squeak-squad.json) |
 | Kirby's Ballin' Adventure | 324102 | [324102-kirbys-ballin-adventure.json](./324102-kirbys-ballin-adventure.json) |
+| Kirby's Dream Collection Special Edition | 84168 | [84168-kirbys-dream-collection-special-edition.json](./84168-kirbys-dream-collection-special-edition.json) |
 | Kirby's Dream World | 243927 | [243927-kirbys-dream-world.json](./243927-kirbys-dream-world.json) |
 | Kiritan Island Okawari! | 204731 | [204731-kiritan-island-okawari.json](./204731-kiritan-island-okawari.json) |
 | Kisaragi Gold Star: Nonstop Go Go!! | 272535 | [272535-kisaragi-gold-star-nonstop-go-go.json](./272535-kisaragi-gold-star-nonstop-go-go.json) |
