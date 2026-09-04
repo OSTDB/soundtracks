@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peerless Destiny | 294995 | [294995-peerless-destiny.json](./294995-peerless-destiny.json) |
 | Pegafuerte el Terrible | 249479 | [249479-pegafuerte-el-terrible.json](./249479-pegafuerte-el-terrible.json) |
 | Pegasis | 298866 | [298866-pegasis.json](./298866-pegasis.json) |
+| Peggle Deluxe | 28975 | [28975-peggle-deluxe.json](./28975-peggle-deluxe.json) |
 | Pegglo | 302689 | [302689-pegglo.json](./302689-pegglo.json) |
 | Peki Manor | 212464 | [212464-peki-manor.json](./212464-peki-manor.json) |
 | Pekin Express - La Route de l'Himalaya | 145698 | [145698-pekin-express-la-route-de-lhimalaya.json](./145698-pekin-express-la-route-de-lhimalaya.json) |
