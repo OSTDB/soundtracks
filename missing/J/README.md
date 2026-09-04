@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Blaster | 239905 | [239905-jet-blaster.json](./239905-jet-blaster.json) |
 | Jet Boat | 13731 | [13731-jet-boat.json](./13731-jet-boat.json) |
 | Jet Buster | 68698 | [68698-jet-buster.json](./68698-jet-buster.json) |
+| Jet Moto 2 | 45214 | [45214-jet-moto-2.json](./45214-jet-moto-2.json) |
 | Jet Pack | 84273 | [84273-jet-pack.json](./84273-jet-pack.json) |
 | Jet Set Luis | 45343 | [45343-jet-set-luis.json](./45343-jet-set-luis.json) |
 | JetBall Arena | 113697 | [113697-jetball-arena.json](./113697-jetball-arena.json) |
@@ -341,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Island Rescue and Escape | 294433 | [294433-jurassic-island-rescue-and-escape.json](./294433-jurassic-island-rescue-and-escape.json) |
 | Jurassic Survival Island: Evolve | 194026 | [194026-jurassic-survival-island-evolve.json](./194026-jurassic-survival-island-evolve.json) |
 | Jurassic Warfare: Dinosaur Combat Arena | 90695 | [90695-jurassic-warfare-dinosaur-combat-arena.json](./90695-jurassic-warfare-dinosaur-combat-arena.json) |
+| Jurassic World Alive | 90084 | [90084-jurassic-world-alive.json](./90084-jurassic-world-alive.json) |
 | Jurassic World: Primal Ops | 208018 | [208018-jurassic-world-primal-ops.json](./208018-jurassic-world-primal-ops.json) |
 | Jurassic World: The Game | 10530 | [10530-jurassic-world-the-game.json](./10530-jurassic-world-the-game.json) |
 | Jurig Escape | 117768 | [117768-jurig-escape.json](./117768-jurig-escape.json) |
