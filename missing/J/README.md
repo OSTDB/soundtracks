@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Keep Running | 248325 | [248325-just-keep-running.json](./248325-just-keep-running.json) |
 | Just Kiss Him Already! | 225310 | [225310-just-kiss-him-already.json](./225310-just-kiss-him-already.json) |
 | Just Random Squares | 120394 | [120394-just-random-squares.json](./120394-just-random-squares.json) |
+| Just Shapes & Beats | 31194 | [31194-just-shapes-and-beats.json](./31194-just-shapes-and-beats.json) |
 | Just Sing! Christmas Vol. 3 | 65489 | [65489-just-sing-christmas-vol-3.json](./65489-just-sing-christmas-vol-3.json) |
 | Just Skill Shooter: Catacombs | 340783 | [340783-just-skill-shooter-catacombs.json](./340783-just-skill-shooter-catacombs.json) |
 | Just Take Your Left | 148542 | [148542-just-take-your-left.json](./148542-just-take-your-left.json) |
