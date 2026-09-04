@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadside: Royal Flush Skin Set | 338018 | [338018-deadside-royal-flush-skin-set.json](./338018-deadside-royal-flush-skin-set.json) |
 | Deadside: Salamander Skin Set | 338017 | [338017-deadside-salamander-skin-set.json](./338017-deadside-salamander-skin-set.json) |
 | Deadside: Supporter Pack | 338016 | [338016-deadside-supporter-pack.json](./338016-deadside-supporter-pack.json) |
+| Deadsiege | 110557 | [110557-deadsiege.json](./110557-deadsiege.json) |
 | Deadwar: Old Lies | 94730 | [94730-deadwar-old-lies.json](./94730-deadwar-old-lies.json) |
 | DeadWire | 332252 | [332252-deadwire.json](./332252-deadwire.json) |
 | Deadzone: Rogue | 316979 | [316979-deadzone-rogue.json](./316979-deadzone-rogue.json) |
