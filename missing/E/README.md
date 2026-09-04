@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Firepower | 163460 | [163460-endless-firepower.json](./163460-endless-firepower.json) |
 | Endless Fucker | 292843 | [292843-endless-fucker.json](./292843-endless-fucker.json) |
 | Endless Heck | 149604 | [149604-endless-heck.json](./149604-endless-heck.json) |
+| Endless Knight | 126901 | [126901-endless-knight.json](./126901-endless-knight.json) |
 | Endless Legend: Tempest | 24933 | [24933-endless-legend-tempest.json](./24933-endless-legend-tempest.json) |
 | Endless Love | 152933 | [152933-endless-love.json](./152933-endless-love.json) |
 | Endless Martian Pit | 185692 | [185692-endless-martian-pit.json](./185692-endless-martian-pit.json) |
@@ -504,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ET Superman: Wrath of Tyrannosaurus Rex | 195258 | [195258-et-superman-wrath-of-tyrannosaurus-rex.json](./195258-et-superman-wrath-of-tyrannosaurus-rex.json) |
 | eTabu | 23909 | [23909-etabu.json](./23909-etabu.json) |
 | Eternal Destiny | 251215 | [251215-eternal-destiny.json](./251215-eternal-destiny.json) |
+| Eternal Dread 2 | 126955 | [126955-eternal-dread-2.json](./126955-eternal-dread-2.json) |
 | Eternal Dreamers | 140609 | [140609-eternal-dreamers.json](./140609-eternal-dreamers.json) |
 | Eternal Dungeon | 140589 | [140589-eternal-dungeon.json](./140589-eternal-dungeon.json) |
 | Eternal Fate: A Journey Begins | 298340 | [298340-eternal-fate-a-journey-begins.json](./298340-eternal-fate-a-journey-begins.json) |
@@ -596,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Year Banjir | 254765 | [254765-every-year-banjir.json](./254765-every-year-banjir.json) |
 | Everybody's Home Run Derby | 231056 | [231056-everybodys-home-run-derby.json](./231056-everybodys-home-run-derby.json) |
 | Everyday Jigsaw | 87088 | [87088-everyday-jigsaw.json](./87088-everyday-jigsaw.json) |
+| Everyone Dies | 127684 | [127684-everyone-dies.json](./127684-everyone-dies.json) |
 | Everything Else | 177575 | [177575-everything-else.json](./177575-everything-else.json) |
 | Everything I Do is Art, But Nothing I Do Makes Any Difference, Part II Or: How I Learned to Stop Worrying and Love the Gallery | 180254 | [180254-everything-i-do-is-art-but-nothing-i-do-makes-any-difference-part-ii-or-how-i-learned-to-stop-worrying-and-love-the-gallery.json](./180254-everything-i-do-is-art-but-nothing-i-do-makes-any-difference-part-ii-or-how-i-learned-to-stop-worrying-and-love-the-gallery.json) |
 | Everything is Fine | 180819 | [180819-everything-is-fine.json](./180819-everything-is-fine.json) |
