@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weekly Shonen Jump Ore Collection | 81415 | [81415-weekly-shonen-jump-ore-collection.json](./81415-weekly-shonen-jump-ore-collection.json) |
 | Weinende Rose | 140584 | [140584-weinende-rose.json](./140584-weinende-rose.json) |
 | Weird Al's Great Adventure | 55933 | [55933-weird-als-great-adventure.json](./55933-weird-als-great-adventure.json) |
+| Weird Dreams | 12232 | [12232-weird-dreams.json](./12232-weird-dreams.json) |
 | Welcome Back | 153992 | [153992-welcome-back.json](./153992-welcome-back.json) |
 | Welcome Home | 146327 | [146327-welcome-home.json](./146327-welcome-home.json) |
 | Welcome To Chichester OVN 3: The Mysterious Affair at the Violet Hotel | 132264 | [132264-welcome-to-chichester-ovn-3-the-mysterious-affair-at-the-violet-hotel.json](./132264-welcome-to-chichester-ovn-3-the-mysterious-affair-at-the-violet-hotel.json) |
@@ -388,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wi-Fi Taiou: Gensen Table Game Wii | 268206 | [268206-wi-fi-taiou-gensen-table-game-wii.json](./268206-wi-fi-taiou-gensen-table-game-wii.json) |
 | Wibarm | 84248 | [84248-wibarm.json](./84248-wibarm.json) |
 | Wiblits | 58269 | [58269-wiblits.json](./58269-wiblits.json) |
+| Wicked | 12233 | [12233-wicked.json](./12233-wicked.json) |
 | Wicked Monsters Blast! HD Plus | 85482 | [85482-wicked-monsters-blast-hd-plus.json](./85482-wicked-monsters-blast-hd-plus.json) |
 | Wicked Plague | 324691 | [324691-wicked-plague.json](./324691-wicked-plague.json) |
 | Wicked Willow | 137647 | [137647-wicked-willow.json](./137647-wicked-willow.json) |
@@ -409,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Ice | 166777 | [166777-wild-ice.json](./166777-wild-ice.json) |
 | Wild Marble Beats | 181351 | [181351-wild-marble-beats.json](./181351-wild-marble-beats.json) |
 | Wild Planet | 137049 | [137049-wild-planet.json](./137049-wild-planet.json) |
+| Wild Ride | 12973 | [12973-wild-ride.json](./12973-wild-ride.json) |
 | Wild Rides: WaterPark Factory | 205807 | [205807-wild-rides-waterpark-factory.json](./205807-wild-rides-waterpark-factory.json) |
 | Wild Script: Nature | 319348 | [319348-wild-script-nature.json](./319348-wild-script-nature.json) |
 | Wild Shape | 180311 | [180311-wild-shape.json](./180311-wild-shape.json) |
