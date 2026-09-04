@@ -842,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumber 3D | 336908 | [336908-plumber-3d.json](./336908-plumber-3d.json) |
 | Plumber No More | 184109 | [184109-plumber-no-more.json](./184109-plumber-no-more.json) |
 | Plumbers Creed | 178667 | [178667-plumbers-creed.json](./178667-plumbers-creed.json) |
+| Plumbers Don't Wear Ties | 4251 | [4251-plumbers-dont-wear-ties.json](./4251-plumbers-dont-wear-ties.json) |
 | Plumbers Don't Wear Ties: Definitive Edition - Collector's Edition | 267640 | [267640-plumbers-dont-wear-ties-definitive-edition-collectors-edition.json](./267640-plumbers-dont-wear-ties-definitive-edition-collectors-edition.json) |
 | Plummet | 84238 | [84238-plummet.json](./84238-plummet.json) |
 | Plummet Panic | 317618 | [317618-plummet-panic.json](./317618-plummet-panic.json) |
@@ -1475,7 +1476,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Put Your Stamp On | 226434 | [226434-put-your-stamp-on.json](./226434-put-your-stamp-on.json) |
 | Putt Nutz | 59458 | [59458-putt-nutz.json](./59458-putt-nutz.json) |
 | Putt Putt Golf 3D | 175419 | [175419-putt-putt-golf-3d.json](./175419-putt-putt-golf-3d.json) |
+| Putt-Putt Enters the Race | 3738 | [3738-putt-putt-enters-the-race.json](./3738-putt-putt-enters-the-race.json) |
 | Putt-Putt Saves the Zoo | 3736 | [3736-putt-putt-saves-the-zoo.json](./3736-putt-putt-saves-the-zoo.json) |
+| Putt-Putt Travels Through Time | 3737 | [3737-putt-putt-travels-through-time.json](./3737-putt-putt-travels-through-time.json) |
 | Puttball | 58220 | [58220-puttball.json](./58220-puttball.json) |
 | Putty | 39022 | [39022-putty.json](./39022-putty.json) |
 | Putty Squad | 39021 | [39021-putty-squad.json](./39021-putty-squad.json) |
