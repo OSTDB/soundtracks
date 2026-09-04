@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Sunshine | 215911 | [215911-sakura-sunshine.json](./215911-sakura-sunshine.json) |
 | Sakura Sweetheart | 135893 | [135893-sakura-sweetheart.json](./135893-sakura-sweetheart.json) |
 | Sakura Swim Club | 34461 | [34461-sakura-swim-club.json](./34461-sakura-swim-club.json) |
+| Sakura Taisen | 71399 | [71399-sakura-taisen.json](./71399-sakura-taisen.json) |
 | Sakura Tsuushin: Remaking Memories | 209624 | [209624-sakura-tsuushin-remaking-memories.json](./209624-sakura-tsuushin-remaking-memories.json) |
 | Sakura X Clash: Last Millennial Spring | 213603 | [213603-sakura-x-clash-last-millennial-spring.json](./213603-sakura-x-clash-last-millennial-spring.json) |
 | Sakura, Moyu.: As the Night's, Reincarnation | 137106 | [137106-sakura-moyu-as-the-nights-reincarnation.json](./137106-sakura-moyu-as-the-nights-reincarnation.json) |
@@ -524,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serendipity Hotel | 190218 | [190218-serendipity-hotel.json](./190218-serendipity-hotel.json) |
 | Serene Asylum | 172740 | [172740-serene-asylum.json](./172740-serene-asylum.json) |
 | Serial Cleaner | 19450 | [19450-serial-cleaner.json](./19450-serial-cleaner.json) |
+| Serial Experiments Lain | 76448 | [76448-serial-experiments-lain.json](./76448-serial-experiments-lain.json) |
 | Serial Experiments Lain Bootleg | 245007 | [245007-serial-experiments-lain-bootleg.json](./245007-serial-experiments-lain-bootleg.json) |
 | Series Makers Tycoon | 173806 | [173806-series-makers-tycoon.json](./173806-series-makers-tycoon.json) |
 | Serious Breakdown | 191223 | [191223-serious-breakdown.json](./191223-serious-breakdown.json) |
@@ -757,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: 20XX Devil's Colosseum | 137685 | [137685-shin-megami-tensei-20xx-devils-colosseum.json](./137685-shin-megami-tensei-20xx-devils-colosseum.json) |
 | Shin Megami Tensei: Digital Devil Saga | 18227 | [18227-shin-megami-tensei-digital-devil-saga.json](./18227-shin-megami-tensei-digital-devil-saga.json) |
 | Shin Megami Tensei: Digital Devil Saga 2 | 18229 | [18229-shin-megami-tensei-digital-devil-saga-2.json](./18229-shin-megami-tensei-digital-devil-saga-2.json) |
+| Shin Megami Tensei: Imagine | 72672 | [72672-shin-megami-tensei-imagine.json](./72672-shin-megami-tensei-imagine.json) |
 | Shin Megami Tensei: Strange Journey | 15467 | [15467-shin-megami-tensei-strange-journey.json](./15467-shin-megami-tensei-strange-journey.json) |
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
 | Shine's Adventures 2 (Zombie Attack) | 120372 | [120372-shines-adventures-2-zombie-attack.json](./120372-shines-adventures-2-zombie-attack.json) |
@@ -917,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sift Heads World: Act 3 - Alonzo's Reinforcement | 229949 | [229949-sift-heads-world-act-3-alonzos-reinforcement.json](./229949-sift-heads-world-act-3-alonzos-reinforcement.json) |
 | Sig | 231087 | [231087-sig.json](./231087-sig.json) |
 | Sightline | 202944 | [202944-sightline.json](./202944-sightline.json) |
+| Sigi: A Fart for Melusina | 75066 | [75066-sigi-a-fart-for-melusina.json](./75066-sigi-a-fart-for-melusina.json) |
 | Sigma Draconis | 133450 | [133450-sigma-draconis.json](./133450-sigma-draconis.json) |
 | Sigma Harmonics | 24946 | [24946-sigma-harmonics.json](./24946-sigma-harmonics.json) |
 | Sigma Theory: Global Cold War - Brazil | 155089 | [155089-sigma-theory-global-cold-war-brazil.json](./155089-sigma-theory-global-cold-war-brazil.json) |
@@ -932,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Castle | 212491 | [212491-silent-castle.json](./212491-silent-castle.json) |
 | Silent Hill 2: Deluxe Edition | 303813 | [303813-silent-hill-2-deluxe-edition.json](./303813-silent-hill-2-deluxe-edition.json) |
 | Silent Hill 3 | 222486 | [222486-silent-hill-3.json](./222486-silent-hill-3.json) |
+| Silent Hill: Play Novel | 77257 | [77257-silent-hill-play-novel.json](./77257-silent-hill-play-novel.json) |
 | Silent Hunter III | 870 | [870-silent-hunter-iii.json](./870-silent-hunter-iii.json) |
 | Silent Hunter Online | 3449 | [3449-silent-hunter-online.json](./3449-silent-hunter-online.json) |
 | Silent Infinity | 202366 | [202366-silent-infinity.json](./202366-silent-infinity.json) |
@@ -1240,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smackitball | 33036 | [33036-smackitball.json](./33036-smackitball.json) |
 | Small Army | 185688 | [185688-small-army.json](./185688-small-army.json) |
 | Small Ball | 169461 | [169461-small-ball.json](./169461-small-ball.json) |
+| Small Soldiers | 71671 | [71671-small-soldiers.json](./71671-small-soldiers.json) |
 | Smart CyberFly | 69851 | [69851-smart-cyberfly.json](./69851-smart-cyberfly.json) |
 | Smarty | 130360 | [130360-smarty.json](./130360-smarty.json) |
 | Smash Balls | 275898 | [275898-smash-balls.json](./275898-smash-balls.json) |
@@ -1863,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speechless | 166736 | [166736-speechless.json](./166736-speechless.json) |
 | Speed Bike Racing | 250657 | [250657-speed-bike-racing.json](./250657-speed-bike-racing.json) |
 | Speed Blazers | 38989 | [38989-speed-blazers.json](./38989-speed-blazers.json) |
+| Speed Dating for Ghosts | 75799 | [75799-speed-dating-for-ghosts.json](./75799-speed-dating-for-ghosts.json) |
 | Speed Demons 2 | 330564 | [330564-speed-demons-2.json](./330564-speed-demons-2.json) |
 | Speed Drifters | 193998 | [193998-speed-drifters.json](./193998-speed-drifters.json) |
 | Speed Journey: Nitro | 221407 | [221407-speed-journey-nitro.json](./221407-speed-journey-nitro.json) |
@@ -2959,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sonic in Sonic 3D | 198546 | [198546-super-sonic-in-sonic-3d.json](./198546-super-sonic-in-sonic-3d.json) |
 | Super Sonic in Sonic the Hedgehog | 198527 | [198527-super-sonic-in-sonic-the-hedgehog.json](./198527-super-sonic-in-sonic-the-hedgehog.json) |
 | Super Sonic Speed Course | 321115 | [321115-super-sonic-speed-course.json](./321115-super-sonic-speed-course.json) |
+| Super Spike V'Ball | 48073 | [48073-super-spike-vball.json](./48073-super-spike-vball.json) |
 | Super Spike V'Ball/Nintendo World Cup | 93582 | [93582-super-spike-vball-nintendo-world-cup.json](./93582-super-spike-vball-nintendo-world-cup.json) |
 | Super Spray n' Slay 3D | 184107 | [184107-super-spray-n-slay-3d.json](./184107-super-spray-n-slay-3d.json) |
 | Super Star Trek | 325825 | [325825-super-star-trek.json](./325825-super-star-trek.json) |
@@ -3141,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swoon! Earth Escape | 225894 | [225894-swoon-earth-escape.json](./225894-swoon-earth-escape.json) |
 | Sword & Dragon | 58234 | [58234-sword-and-dragon.json](./58234-sword-and-dragon.json) |
 | Sword and Fairy Inn | 78048 | [78048-sword-and-fairy-inn.json](./78048-sword-and-fairy-inn.json) |
+| Sword Art Online: Integral Factor | 68441 | [68441-sword-art-online-integral-factor.json](./68441-sword-art-online-integral-factor.json) |
 | Sword Art Online: Last Recollection - Digital Premium Edition | 271473 | [271473-sword-art-online-last-recollection-digital-premium-edition.json](./271473-sword-art-online-last-recollection-digital-premium-edition.json) |
 | Sword Coast Legends: Digital Deluxe Edition | 54422 | [54422-sword-coast-legends-digital-deluxe-edition.json](./54422-sword-coast-legends-digital-deluxe-edition.json) |
 | Sword of Fireheart - The Awakening Element | 31989 | [31989-sword-of-fireheart-the-awakening-element.json](./31989-sword-of-fireheart-the-awakening-element.json) |
@@ -3188,6 +3197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synchronizacja | 187539 | [187539-synchronizacja.json](./187539-synchronizacja.json) |
 | SynCo 2321 | 192979 | [192979-synco-2321.json](./192979-synco-2321.json) |
 | Syndicate of Souls | 267642 | [267642-syndicate-of-souls.json](./267642-syndicate-of-souls.json) |
+| Syndicate Plus | 77198 | [77198-syndicate-plus.json](./77198-syndicate-plus.json) |
 | Syndicate: American Revolt | 50 | [50-syndicate-american-revolt.json](./50-syndicate-american-revolt.json) |
 | Synth War Tactics | 151188 | [151188-synth-war-tactics.json](./151188-synth-war-tactics.json) |
 | Synthaar | 304880 | [304880-synthaar.json](./304880-synthaar.json) |
