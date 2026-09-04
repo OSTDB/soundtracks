@@ -696,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheriff Rage | 172199 | [172199-sheriff-rage.json](./172199-sheriff-rage.json) |
 | Sherlock Holmes: Chapter One - Beyond a Joke | 186894 | [186894-sherlock-holmes-chapter-one-beyond-a-joke.json](./186894-sherlock-holmes-chapter-one-beyond-a-joke.json) |
 | Sherlock Holmes: Crimes & Punishments | 5541 | [5541-sherlock-holmes-crimes-and-punishments.json](./5541-sherlock-holmes-crimes-and-punishments.json) |
+| Sherlock Holmes: The Awakened | 212664 | [212664-sherlock-holmes-the-awakened.json](./212664-sherlock-holmes-the-awakened.json) |
 | Sherlock Horse's Horror Academy | 125468 | [125468-sherlock-horses-horror-academy.json](./125468-sherlock-horses-horror-academy.json) |
 | Sherlock Purr: Extended Edition | 243369 | [243369-sherlock-purr-extended-edition.json](./243369-sherlock-purr-extended-edition.json) |
 | Sherman Commander | 155650 | [155650-sherman-commander.json](./155650-sherman-commander.json) |
@@ -721,6 +722,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei Vertex | 142491 | [142491-shin-megami-tensei-vertex.json](./142491-shin-megami-tensei-vertex.json) |
 | Shin Megami Tensei: 20XX Devil's Colosseum | 137685 | [137685-shin-megami-tensei-20xx-devils-colosseum.json](./137685-shin-megami-tensei-20xx-devils-colosseum.json) |
 | Shin Megami Tensei: Digital Devil Saga | 18227 | [18227-shin-megami-tensei-digital-devil-saga.json](./18227-shin-megami-tensei-digital-devil-saga.json) |
+| Shin Megami Tensei: Digital Devil Saga 2 | 18229 | [18229-shin-megami-tensei-digital-devil-saga-2.json](./18229-shin-megami-tensei-digital-devil-saga-2.json) |
+| Shin Megami Tensei: Strange Journey | 15467 | [15467-shin-megami-tensei-strange-journey.json](./15467-shin-megami-tensei-strange-journey.json) |
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
 | Shine's Adventures 2 (Zombie Attack) | 120372 | [120372-shines-adventures-2-zombie-attack.json](./120372-shines-adventures-2-zombie-attack.json) |
 | Shine's Adventures 5: World of Box | 127318 | [127318-shines-adventures-5-world-of-box.json](./127318-shines-adventures-5-world-of-box.json) |
@@ -948,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulator: Parking Lot | 323510 | [323510-simulator-parking-lot.json](./323510-simulator-parking-lot.json) |
 | Sin Breaker Rig | 238736 | [238736-sin-breaker-rig.json](./238736-sin-breaker-rig.json) |
 | Sin Chronicle | 172765 | [172765-sin-chronicle.json](./172765-sin-chronicle.json) |
+| SiN Episodes: Emergence | 14788 | [14788-sin-episodes-emergence.json](./14788-sin-episodes-emergence.json) |
 | Sin Slayers: Enhanced Edition | 148002 | [148002-sin-slayers-enhanced-edition.json](./148002-sin-slayers-enhanced-edition.json) |
 | Sin Slayers: Reign of The 8th | 291758 | [291758-sin-slayers-reign-of-the-8th.json](./291758-sin-slayers-reign-of-the-8th.json) |
 | Sinbad & the Golden Ship | 71509 | [71509-sinbad-and-the-golden-ship.json](./71509-sinbad-and-the-golden-ship.json) |
@@ -1073,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyland Defense | 109672 | [109672-skyland-defense.json](./109672-skyland-defense.json) |
 | Skylanders: Imaginators | 317016 | [317016-skylanders-imaginators.json](./317016-skylanders-imaginators.json) |
 | Skylanders: SuperChargers | 317015 | [317015-skylanders-superchargers.json](./317015-skylanders-superchargers.json) |
+| Skylanders: Trap Team | 8509 | [8509-skylanders-trap-team.json](./8509-skylanders-trap-team.json) |
 | Skylark 64 | 306066 | [306066-skylark-64.json](./306066-skylark-64.json) |
 | SkyLife: VoxelSurvival | 149050 | [149050-skylife-voxelsurvival.json](./149050-skylife-voxelsurvival.json) |
 | SkyOfSteel | 177017 | [177017-skyofsteel.json](./177017-skyofsteel.json) |
@@ -1474,6 +1479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Classic 2 | 175975 | [175975-sonic-classic-2.json](./175975-sonic-classic-2.json) |
 | Sonic Coconut Hunter | 330532 | [330532-sonic-coconut-hunter.json](./330532-sonic-coconut-hunter.json) |
 | Sonic Colors: Ultimate - 30th Anniversary Pack | 150157 | [150157-sonic-colors-ultimate-30th-anniversary-pack.json](./150157-sonic-colors-ultimate-30th-anniversary-pack.json) |
+| Sonic Dash | 19506 | [19506-sonic-dash.json](./19506-sonic-dash.json) |
 | Sonic Destiny | 331715 | [331715-sonic-destiny.json](./331715-sonic-destiny.json) |
 | Sonic Elementals | 333959 | [333959-sonic-elementals.json](./333959-sonic-elementals.json) |
 | Sonic ERaZor | 198564 | [198564-sonic-erazor.json](./198564-sonic-erazor.json) |
@@ -1547,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Turbo 2 | 331707 | [331707-sonic-turbo-2.json](./331707-sonic-turbo-2.json) |
 | Sonic Tweet | 63904 | [63904-sonic-tweet.json](./63904-sonic-tweet.json) |
 | Sonic Unite | 336359 | [336359-sonic-unite.json](./336359-sonic-unite.json) |
+| Sonic Unleashed | 133942 | [133942-sonic-unleashed.json](./133942-sonic-unleashed.json) |
 | Sonic Vex | 330520 | [330520-sonic-vex.json](./330520-sonic-vex.json) |
 | Sonic Wild | 317612 | [317612-sonic-wild.json](./317612-sonic-wild.json) |
 | Sonic Wings Limited | 39693 | [39693-sonic-wings-limited.json](./39693-sonic-wings-limited.json) |
@@ -1861,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinal Breakers | 39666 | [39666-spinal-breakers.json](./39666-spinal-breakers.json) |
 | SpinDrive Ping Pong | 43354 | [43354-spindrive-ping-pong.json](./43354-spindrive-ping-pong.json) |
 | Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
+| Spintires | 7347 | [7347-spintires.json](./7347-spintires.json) |
 | SpinZap | 133469 | [133469-spinzap.json](./133469-spinzap.json) |
 | Spinzer.io | 55164 | [55164-spinzer-io.json](./55164-spinzer-io.json) |
 | Spiral Wave | 42045 | [42045-spiral-wave.json](./42045-spiral-wave.json) |
@@ -1893,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Drive | 189197 | [189197-split-drive.json](./189197-split-drive.json) |
 | Split Personalities | 73323 | [73323-split-personalities.json](./73323-split-personalities.json) |
 | Split/Second | 2150 | [2150-split-second.json](./2150-split-second.json) |
+| Splosion Man | 8354 | [8354-splosion-man.json](./8354-splosion-man.json) |
 | SpongeBob SquarePants: Flip or Flop | 273123 | [273123-spongebob-squarepants-flip-or-flop.json](./273123-spongebob-squarepants-flip-or-flop.json) |
 | SpongeBob SquarePants: Nighty Nightmare | 18301 | [18301-spongebob-squarepants-nighty-nightmare.json](./18301-spongebob-squarepants-nighty-nightmare.json) |
 | SpongeBob's Atlantis Squarepantis | 43312 | [43312-spongebobs-atlantis-squarepantis.json](./43312-spongebobs-atlantis-squarepantis.json) |
@@ -2812,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pole Position | 108506 | [108506-super-pole-position.json](./108506-super-pole-position.json) |
 | Super Punch | 147959 | [147959-super-punch.json](./147959-super-punch.json) |
 | Super Putty | 39039 | [39039-super-putty.json](./39039-super-putty.json) |
+| Super Puzzle Fighter II Turbo | 20803 | [20803-super-puzzle-fighter-ii-turbo.json](./20803-super-puzzle-fighter-ii-turbo.json) |
 | Super Puzzle Platformer | 223665 | [223665-super-puzzle-platformer.json](./223665-super-puzzle-platformer.json) |
 | Super Puzzles Dream: Xmas | 147436 | [147436-super-puzzles-dream-xmas.json](./147436-super-puzzles-dream-xmas.json) |
 | Super Real Mahjong Special: Mika, Kasumi, Shouko no Omoide yori | 138826 | [138826-super-real-mahjong-special-mika-kasumi-shouko-no-omoide-yori.json](./138826-super-real-mahjong-special-mika-kasumi-shouko-no-omoide-yori.json) |
