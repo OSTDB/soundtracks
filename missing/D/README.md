@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Land 2 VR | 336368 | [336368-dead-land-2-vr.json](./336368-dead-land-2-vr.json) |
 | Dead Man Shooting | 183597 | [183597-dead-man-shooting.json](./183597-dead-man-shooting.json) |
 | Dead Man's Fault | 228082 | [228082-dead-mans-fault.json](./228082-dead-mans-fault.json) |
+| Dead Man's Hand | 5809 | [5809-dead-mans-hand.json](./5809-dead-mans-hand.json) |
 | Dead Matter | 102806 | [102806-dead-matter.json](./102806-dead-matter.json) |
 | Dead of the Brain | 42012 | [42012-dead-of-the-brain.json](./42012-dead-of-the-brain.json) |
 | Dead or Alive 1 Ultimate | 1391 | [1391-dead-or-alive-1-ultimate.json](./1391-dead-or-alive-1-ultimate.json) |
