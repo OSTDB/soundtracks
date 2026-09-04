@@ -687,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RideOp: New Heights - Expansion pack | 226950 | [226950-rideop-new-heights-expansion-pack.json](./226950-rideop-new-heights-expansion-pack.json) |
 | Riders 2491 | 158706 | [158706-riders-2491.json](./158706-riders-2491.json) |
 | Riders Republic: Year 1 Pass | 293916 | [293916-riders-republic-year-1-pass.json](./293916-riders-republic-year-1-pass.json) |
+| Ridge Racer Revolution | 18697 | [18697-ridge-racer-revolution.json](./18697-ridge-racer-revolution.json) |
 | Ridge Racer V: Arcade Battle | 315284 | [315284-ridge-racer-v-arcade-battle.json](./315284-ridge-racer-v-arcade-battle.json) |
 | Ridge Runner | 233250 | [233250-ridge-runner.json](./233250-ridge-runner.json) |
 | Riding Club Championships | 31882 | [31882-riding-club-championships.json](./31882-riding-club-championships.json) |
@@ -726,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripple | 198510 | [198510-ripple.json](./198510-ripple.json) |
 | Ripples | 239315 | [239315-ripples.json](./239315-ripples.json) |
 | Riptide | 291236 | [291236-riptide.json](./291236-riptide.json) |
+| Riptide GP2 | 16735 | [16735-riptide-gp2.json](./16735-riptide-gp2.json) |
 | Rise & Shine | 6732 | [6732-rise-and-shine.json](./6732-rise-and-shine.json) |
 | Rise Again | 248885 | [248885-rise-again.json](./248885-rise-again.json) |
 | Rise Of Anupet | 309644 | [309644-rise-of-anupet.json](./309644-rise-of-anupet.json) |
