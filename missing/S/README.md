@@ -2945,10 +2945,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweety Kitty 2 | 224774 | [224774-sweety-kitty-2.json](./224774-sweety-kitty-2.json) |
 | Swift Death | 138229 | [138229-swift-death.json](./138229-swift-death.json) |
 | Swim! Sacabambaspis | 276470 | [276470-swim-sacabambaspis.json](./276470-swim-sacabambaspis.json) |
+| Swing Copters | 7672 | [7672-swing-copters.json](./7672-swing-copters.json) |
 | Swing Into Zero-G | 296667 | [296667-swing-into-zero-g.json](./296667-swing-into-zero-g.json) |
 | Swing Striker | 133471 | [133471-swing-striker.json](./133471-swing-striker.json) |
 | Swipe Soccer | 92520 | [92520-swipe-soccer.json](./92520-swipe-soccer.json) |
 | Swipe: Maze solver | 242790 | [242790-swipe-maze-solver.json](./242790-swipe-maze-solver.json) |
+| Swiss Family Robinson | 7732 | [7732-swiss-family-robinson.json](./7732-swiss-family-robinson.json) |
 | Switch Dash Game | 262069 | [262069-switch-dash-game.json](./262069-switch-dash-game.json) |
 | Switch It | 152896 | [152896-switch-it.json](./152896-switch-it.json) |
 | Switch! | 92519 | [92519-switch.json](./92519-switch.json) |
