@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candelabra Estoscerro | 143077 | [143077-candelabra-estoscerro.json](./143077-candelabra-estoscerro.json) |
 | Candlelight | 276456 | [276456-candlelight.json](./276456-candlelight.json) |
 | Candles of the Damned | 271491 | [271491-candles-of-the-damned.json](./271491-candles-of-the-damned.json) |
+| Candy Bandit | 19697 | [19697-candy-bandit.json](./19697-candy-bandit.json) |
 | Candy Box 2 | 62779 | [62779-candy-box-2.json](./62779-candy-box-2.json) |
 | Candy Boy | 217021 | [217021-candy-boy.json](./217021-candy-boy.json) |
 | Candy Country: Sweet Wonder | 338003 | [338003-candy-country-sweet-wonder.json](./338003-candy-country-sweet-wonder.json) |
@@ -865,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coco Bandicoot: Tiger Ride | 314658 | [314658-coco-bandicoot-tiger-ride.json](./314658-coco-bandicoot-tiger-ride.json) |
 | Cocoron | 48644 | [48644-cocoron.json](./48644-cocoron.json) |
 | Cocoto Alien Brick Breaker | 63857 | [63857-cocoto-alien-brick-breaker.json](./63857-cocoto-alien-brick-breaker.json) |
+| Cocoto Fishing Master | 19677 | [19677-cocoto-fishing-master.json](./19677-cocoto-fishing-master.json) |
 | Code Adventure | 179182 | [179182-code-adventure.json](./179182-code-adventure.json) |
 | Code Name Teacher | 292307 | [292307-code-name-teacher.json](./292307-code-name-teacher.json) |
 | Code of Ethics | 123042 | [123042-code-of-ethics.json](./123042-code-of-ethics.json) |
@@ -931,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony Antares | 150682 | [150682-colony-antares.json](./150682-colony-antares.json) |
 | Colony Battle | 145686 | [145686-colony-battle.json](./145686-colony-battle.json) |
 | Colony Defense | 273627 | [273627-colony-defense.json](./273627-colony-defense.json) |
+| Colony Wars 2494 | 19585 | [19585-colony-wars-2494.json](./19585-colony-wars-2494.json) |
 | Colony: A Space RPG | 208025 | [208025-colony-a-space-rpg.json](./208025-colony-a-space-rpg.json) |
 | ColonyShip-4: Survivors | 110378 | [110378-colonyship-4-survivors.json](./110378-colonyship-4-survivors.json) |
 | Color Ball 2018 | 100890 | [100890-color-ball-2018.json](./100890-color-ball-2018.json) |
