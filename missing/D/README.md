@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Man | 310187 | [310187-data-man.json](./310187-data-man.json) |
 | Data mining | 106584 | [106584-data-mining.json](./106584-data-mining.json) |
 | Dataflow | 112353 | [112353-dataflow.json](./112353-dataflow.json) |
+| Date A Live: Rio Reincarnation | 87742 | [87742-date-a-live-rio-reincarnation.json](./87742-date-a-live-rio-reincarnation.json) |
 | Date A Live: Rio Reincarnation HD - Limited Edition | 96104 | [96104-date-a-live-rio-reincarnation-hd-limited-edition.json](./96104-date-a-live-rio-reincarnation-hd-limited-edition.json) |
 | Date Night Bowling | 137109 | [137109-date-night-bowling.json](./137109-date-night-bowling.json) |
 | Date or Die | 56508 | [56508-date-or-die.json](./56508-date-or-die.json) |
@@ -379,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death by Dark Shadows | 57665 | [57665-death-by-dark-shadows.json](./57665-death-by-dark-shadows.json) |
 | Death by Degrees | 1241 | [1241-death-by-degrees.json](./1241-death-by-degrees.json) |
 | Death By Hamster | 262666 | [262666-death-by-hamster.json](./262666-death-by-hamster.json) |
+| Death Crown | 90270 | [90270-death-crown.json](./90270-death-crown.json) |
 | Death Cube | 199096 | [199096-death-cube.json](./199096-death-cube.json) |
 | Death Dojo | 30913 | [30913-death-dojo.json](./30913-death-dojo.json) |
 | Death Dungeon | 193995 | [193995-death-dungeon.json](./193995-death-dungeon.json) |
