@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Castles | 319975 | [319975-age-of-castles.json](./319975-age-of-castles.json) |
 | Age of Dynasties: Shogun | 219260 | [219260-age-of-dynasties-shogun.json](./219260-age-of-dynasties-shogun.json) |
 | Age of Empires II Mobile | 144346 | [144346-age-of-empires-ii-mobile.json](./144346-age-of-empires-ii-mobile.json) |
+| Age of Empires II: Definitive Edition | 55056 | [55056-age-of-empires-ii-definitive-edition.json](./55056-age-of-empires-ii-definitive-edition.json) |
 | Age of Empires III Mobile | 144347 | [144347-age-of-empires-iii-mobile.json](./144347-age-of-empires-iii-mobile.json) |
 | Age of Empires III: Definitive Edition - Knights of the Mediterranean | 202424 | [202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json](./202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json) |
 | Age of Empires III: Definitive Edition - The Complete History | 205251 | [205251-age-of-empires-iii-definitive-edition-the-complete-history.json](./205251-age-of-empires-iii-definitive-edition-the-complete-history.json) |
@@ -1379,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asonde Poker ga Tsuyoku Naru! Texas Hold 'Em | 144998 | [144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json](./144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json) |
 | Aspectus: Rinascimento Chronicles | 35938 | [35938-aspectus-rinascimento-chronicles.json](./35938-aspectus-rinascimento-chronicles.json) |
 | Aspiel: Edge of Chaos | 334502 | [334502-aspiel-edge-of-chaos.json](./334502-aspiel-edge-of-chaos.json) |
+| Assassin's Creed III: Liberation | 3195 | [3195-assassins-creed-iii-liberation.json](./3195-assassins-creed-iii-liberation.json) |
 | Assassin's Creed Mirage & Assassin's Creed Valhalla Bundle | 271474 | [271474-assassins-creed-mirage-and-assassins-creed-valhalla-bundle.json](./271474-assassins-creed-mirage-and-assassins-creed-valhalla-bundle.json) |
 | Assassin’s Creed Mirage: Master Assassin Edition | 276451 | [276451-assassin-s-creed-mirage-master-assassin-edition.json](./276451-assassin-s-creed-mirage-master-assassin-edition.json) |
 | Assassin's Creed Revelations: Special Edition | 268735 | [268735-assassins-creed-revelations-special-edition.json](./268735-assassins-creed-revelations-special-edition.json) |
