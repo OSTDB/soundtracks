@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Vermintide 2 - Winds of Magic | 115671 | [115671-warhammer-vermintide-2-winds-of-magic.json](./115671-warhammer-vermintide-2-winds-of-magic.json) |
 | Wario Land: Shake It! | 1702 | [1702-wario-land-shake-it.json](./1702-wario-land-shake-it.json) |
 | Wario: Master of Disguise Trivia | 231649 | [231649-wario-master-of-disguise-trivia.json](./231649-wario-master-of-disguise-trivia.json) |
+| WarioWare D.I.Y. | 1708 | [1708-warioware-d-i-y.json](./1708-warioware-d-i-y.json) |
 | WarioWare Mouse Workz! | 250046 | [250046-warioware-mouse-workz.json](./250046-warioware-mouse-workz.json) |
 | Warkestra | 275336 | [275336-warkestra.json](./275336-warkestra.json) |
 | Warlock's Quest | 57697 | [57697-warlocks-quest.json](./57697-warlocks-quest.json) |
@@ -363,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whisperstring | 329970 | [329970-whisperstring.json](./329970-whisperstring.json) |
 | White Dandelion | 158698 | [158698-white-dandelion.json](./158698-white-dandelion.json) |
 | White Day 2: The Flower That Tells Lies - Ep.2 | 248335 | [248335-white-day-2-the-flower-that-tells-lies-ep-2.json](./248335-white-day-2-the-flower-that-tells-lies-ep-2.json) |
+| White Knight Chronicles | 7482 | [7482-white-knight-chronicles.json](./7482-white-knight-chronicles.json) |
 | White Knight Chronicles II | 314050 | [314050-white-knight-chronicles-ii.json](./314050-white-knight-chronicles-ii.json) |
 | White Knight Chronicles: International EX Edition | 268742 | [268742-white-knight-chronicles-international-ex-edition.json](./268742-white-knight-chronicles-international-ex-edition.json) |
 | White Mask | 136487 | [136487-white-mask.json](./136487-white-mask.json) |
