@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkSpar | 193467 | [193467-darkspar.json](./193467-darkspar.json) |
 | DarkStar One | 2125 | [2125-darkstar-one.json](./2125-darkstar-one.json) |
 | Darkwatch | 5808 | [5808-darkwatch.json](./5808-darkwatch.json) |
+| Darkwind: War on Wheels | 17305 | [17305-darkwind-war-on-wheels.json](./17305-darkwind-war-on-wheels.json) |
 | Darso Roads | 325815 | [325815-darso-roads.json](./325815-darso-roads.json) |
 | Dartford Street | 183593 | [183593-dartford-street.json](./183593-dartford-street.json) |
 | Darthy | 34374 | [34374-darthy.json](./34374-darthy.json) |
@@ -505,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders of Ekron: Definitive Edition | 106624 | [106624-defenders-of-ekron-definitive-edition.json](./106624-defenders-of-ekron-definitive-edition.json) |
 | Defenders of the Omniverse | 255385 | [255385-defenders-of-the-omniverse.json](./255385-defenders-of-the-omniverse.json) |
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
+| Defense Zone 2 | 17303 | [17303-defense-zone-2.json](./17303-defense-zone-2.json) |
 | Defensurvivor | 324715 | [324715-defensurvivor.json](./324715-defensurvivor.json) |
 | Deficiency | 278161 | [278161-deficiency.json](./278161-deficiency.json) |
 | Defiled | 213032 | [213032-defiled.json](./213032-defiled.json) |
@@ -638,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derelict | 168384 | [168384-derelict.json](./168384-derelict.json) |
 | Derelict | 32423 | [32423-derelict.json](./32423-derelict.json) |
 | Derpy Dinos | 74433 | [74433-derpy-dinos.json](./74433-derpy-dinos.json) |
+| Derrick the Deathfin | 17187 | [17187-derrick-the-deathfin.json](./17187-derrick-the-deathfin.json) |
 | Deru | 258698 | [258698-deru.json](./258698-deru.json) |
 | Descend.gg | 232661 | [232661-descend-gg.json](./232661-descend-gg.json) |
 | Descending: House of Nightmares | 171614 | [171614-descending-house-of-nightmares.json](./171614-descending-house-of-nightmares.json) |
