@@ -368,12 +368,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enterprise | 12993 | [12993-enterprise.json](./12993-enterprise.json) |
 | Entertainment Simulator | 151713 | [151713-entertainment-simulator.json](./151713-entertainment-simulator.json) |
 | Enthralled | 239882 | [239882-enthralled.json](./239882-enthralled.json) |
+| Enthusia: Professional Racing | 19818 | [19818-enthusia-professional-racing.json](./19818-enthusia-professional-racing.json) |
 | Entity | 171620 | [171620-entity.json](./171620-entity.json) |
 | Entropy | 188667 | [188667-entropy.json](./188667-entropy.json) |
 | Enyla X | 149598 | [149598-enyla-x.json](./149598-enyla-x.json) |
 | Epejsodion Dodgeball Defense | 166748 | [166748-epejsodion-dodgeball-defense.json](./166748-epejsodion-dodgeball-defense.json) |
 | Epic Battle Fantasy Collection | 199653 | [199653-epic-battle-fantasy-collection.json](./199653-epic-battle-fantasy-collection.json) |
 | Epic Battle Fantasy: Adventure Story | 143725 | [143725-epic-battle-fantasy-adventure-story.json](./143725-epic-battle-fantasy-adventure-story.json) |
+| Epic Dumpster Bear | 19615 | [19615-epic-dumpster-bear.json](./19615-epic-dumpster-bear.json) |
 | Epic Food Fight | 114402 | [114402-epic-food-fight.json](./114402-epic-food-fight.json) |
 | Epic Food Fight VR | 117075 | [117075-epic-food-fight-vr.json](./117075-epic-food-fight-vr.json) |
 | Epic Party Clicker | 314632 | [314632-epic-party-clicker.json](./314632-epic-party-clicker.json) |
@@ -618,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excitebike-e | 169997 | [169997-excitebike-e.json](./169997-excitebike-e.json) |
 | Exciting Golf | 91962 | [91962-exciting-golf.json](./91962-exciting-golf.json) |
 | Exclusive Memory | 319938 | [319938-exclusive-memory.json](./319938-exclusive-memory.json) |
+| Excubitor | 19332 | [19332-excubitor.json](./19332-excubitor.json) |
 | Excursus | 177025 | [177025-excursus.json](./177025-excursus.json) |
 | Execute Daddy: Papa ga Nandemo Shinu Game | 215889 | [215889-execute-daddy-papa-ga-nandemo-shinu-game.json](./215889-execute-daddy-papa-ga-nandemo-shinu-game.json) |
 | Exelio | 264350 | [264350-exelio.json](./264350-exelio.json) |
@@ -705,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyeboss | 181906 | [181906-eyeboss.json](./181906-eyeboss.json) |
 | Eyeless | 269310 | [269310-eyeless.json](./269310-eyeless.json) |
 | EyeToy Play Hero | 44638 | [44638-eyetoy-play-hero.json](./44638-eyetoy-play-hero.json) |
+| EyeToy: AntiGrav | 19253 | [19253-eyetoy-antigrav.json](./19253-eyetoy-antigrav.json) |
 | EZ-Talk Shokyuuhen 1-6 Kan Set | 93596 | [93596-ez-talk-shokyuuhen-1-6-kan-set.json](./93596-ez-talk-shokyuuhen-1-6-kan-set.json) |
 | EZ2Dancer | 92487 | [92487-ez2dancer.json](./92487-ez2dancer.json) |
 | EZ2on Reboot: R - Fortress Collaboration DLC | 256004 | [256004-ez2on-reboot-r-fortress-collaboration-dlc.json](./256004-ez2on-reboot-r-fortress-collaboration-dlc.json) |
