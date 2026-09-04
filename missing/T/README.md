@@ -1024,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Stand Legacy Collection | 158727 | [158727-the-last-stand-legacy-collection.json](./158727-the-last-stand-legacy-collection.json) |
 | The Last Taxi | 132822 | [132822-the-last-taxi.json](./132822-the-last-taxi.json) |
 | The Last Weekend | 31890 | [31890-the-last-weekend.json](./31890-the-last-weekend.json) |
+| The Last Wish | 27877 | [27877-the-last-wish.json](./27877-the-last-wish.json) |
 | The Last Wulin | 156148 | [156148-the-last-wulin.json](./156148-the-last-wulin.json) |
 | The Late D. Flate's Great Estate | 188090 | [188090-the-late-d-flates-great-estate.json](./188090-the-late-d-flates-great-estate.json) |
 | The Lattice Grimoire | 120396 | [120396-the-lattice-grimoire.json](./120396-the-lattice-grimoire.json) |
@@ -1340,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Senpai | 230521 | [230521-the-senpai.json](./230521-the-senpai.json) |
 | The Sensha | 59418 | [59418-the-sensha.json](./59418-the-sensha.json) |
 | The Settlers 7: Paths to a Kingdom - Conquest: The Empire Expansion | 225912 | [225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json](./225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json) |
+| The Settlers 7: Paths to a Kingdom - Gold Edition | 27863 | [27863-the-settlers-7-paths-to-a-kingdom-gold-edition.json](./27863-the-settlers-7-paths-to-a-kingdom-gold-edition.json) |
 | The Settlers 7: Paths to a Kingdom - The Two Kings | 225911 | [225911-the-settlers-7-paths-to-a-kingdom-the-two-kings.json](./225911-the-settlers-7-paths-to-a-kingdom-the-two-kings.json) |
 | The Settlers: History Edition | 107232 | [107232-the-settlers-history-edition.json](./107232-the-settlers-history-edition.json) |
 | The seven deadly seas | 122396 | [122396-the-seven-deadly-seas.json](./122396-the-seven-deadly-seas.json) |
@@ -1437,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stray Laboratory | 302668 | [302668-the-stray-laboratory.json](./302668-the-stray-laboratory.json) |
 | The Stroke of Midnight | 99611 | [99611-the-stroke-of-midnight.json](./99611-the-stroke-of-midnight.json) |
 | The Strongest Ancestor | 301614 | [301614-the-strongest-ancestor.json](./301614-the-strongest-ancestor.json) |
+| The Stronghold Collection | 27858 | [27858-the-stronghold-collection.json](./27858-the-stronghold-collection.json) |
 | The Studio 100: Play Island | 268210 | [268210-the-studio-100-play-island.json](./268210-the-studio-100-play-island.json) |
 | The Substance of Things | 174359 | [174359-the-substance-of-things.json](./174359-the-substance-of-things.json) |
 | The Sueño | 86088 | [86088-the-sueno.json](./86088-the-sueno.json) |
@@ -1932,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time | 130947 | [130947-time.json](./130947-time.json) |
 | Time Attack! RPG | 152382 | [152382-time-attack-rpg.json](./152382-time-attack-rpg.json) |
 | Time Flight | 60550 | [60550-time-flight.json](./60550-time-flight.json) |
+| Time Gentlemen, Please! and Ben There, Dan That! Special Edition Double Pack | 27846 | [27846-time-gentlemen-please-and-ben-there-dan-that-special-edition-double-pack.json](./27846-time-gentlemen-please-and-ben-there-dan-that-special-edition-double-pack.json) |
 | Time is Solid Here | 197960 | [197960-time-is-solid-here.json](./197960-time-is-solid-here.json) |
 | Time Loader: First Memories | 166211 | [166211-time-loader-first-memories.json](./166211-time-loader-first-memories.json) |
 | Time Ocean | 244467 | [244467-time-ocean.json](./244467-time-ocean.json) |
@@ -2084,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege: Operation Neon Dawn | 141194 | [141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json](./141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Vector Glare | 217521 | [217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json](./217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json) |
 | Tom Clancy's Splinter Cell | 90689 | [90689-tom-clancys-splinter-cell.json](./90689-tom-clancys-splinter-cell.json) |
+| Tom Clancy's Splinter Cell: Elite Echelon Edition | 27866 | [27866-tom-clancys-splinter-cell-elite-echelon-edition.json](./27866-tom-clancys-splinter-cell-elite-echelon-edition.json) |
 | Tom Clancy's SSN | 57686 | [57686-tom-clancys-ssn.json](./57686-tom-clancys-ssn.json) |
 | Tom Clancy's The Division 2: Warlord of New York - Season 1: Shadow Tide | 217527 | [217527-tom-clancys-the-division-2-warlord-of-new-york-season-1-shadow-tide.json](./217527-tom-clancys-the-division-2-warlord-of-new-york-season-1-shadow-tide.json) |
 | Tom Clancy's The Division 2: Warlords of New York - Season 10: Price of Power | 217537 | [217537-tom-clancys-the-division-2-warlords-of-new-york-season-10-price-of-power.json](./217537-tom-clancys-the-division-2-warlords-of-new-york-season-10-price-of-power.json) |
@@ -2163,6 +2168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toride | 37784 | [37784-toride.json](./37784-toride.json) |
 | Toril | 228700 | [228700-toril.json](./228700-toril.json) |
 | Torn | 253595 | [253595-torn.json](./253595-torn.json) |
+| Torn Sails | 27909 | [27909-torn-sails.json](./27909-torn-sails.json) |
 | Tornado | 266469 | [266469-tornado.json](./266469-tornado.json) |
 | Tornado Baseball / Tennis / Handball / Hockey | 93564 | [93564-tornado-baseball-tennis-handball-hockey.json](./93564-tornado-baseball-tennis-handball-hockey.json) |
 | Toro to Typing | 246071 | [246071-toro-to-typing.json](./246071-toro-to-typing.json) |
@@ -2426,7 +2432,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: Switch Model Railroad - TRS19 | 190715 | [190715-trainz-railroad-simulator-2019-switch-model-railroad-trs19.json](./190715-trainz-railroad-simulator-2019-switch-model-railroad-trs19.json) |
 | Trainz Railroad Simulator 2019: VR Healesville 1913-1920 TRS19 | 190707 | [190707-trainz-railroad-simulator-2019-vr-healesville-1913-1920-trs19.json](./190707-trainz-railroad-simulator-2019-vr-healesville-1913-1920-trs19.json) |
 | Trainz Railroad Simulator 2022 | 195792 | [195792-trainz-railroad-simulator-2022.json](./195792-trainz-railroad-simulator-2022.json) |
+| Trainz Simulator 2009: Settle and Carlisle | 27898 | [27898-trainz-simulator-2009-settle-and-carlisle.json](./27898-trainz-simulator-2009-settle-and-carlisle.json) |
 | Trainz: A New Era - Aerotrain | 156169 | [156169-trainz-a-new-era-aerotrain.json](./156169-trainz-a-new-era-aerotrain.json) |
+| Trainz: Classic Cabon City | 27895 | [27895-trainz-classic-cabon-city.json](./27895-trainz-classic-cabon-city.json) |
 | Trajectile | 91417 | [91417-trajectile.json](./91417-trajectile.json) |
 | Trajes Fatais: Suits of Fate | 124245 | [124245-trajes-fatais-suits-of-fate.json](./124245-trajes-fatais-suits-of-fate.json) |
 | Trakonius | 268220 | [268220-trakonius.json](./268220-trakonius.json) |
@@ -2765,6 +2773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type II | 124273 | [124273-type-ii.json](./124273-type-ii.json) |
 | Type the Entire of Ulysses. That's It. That's the Game. | 198526 | [198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json](./198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json) |
 | Type: Unstable Vampire | 180822 | [180822-type-unstable-vampire.json](./180822-type-unstable-vampire.json) |
+| Typeshift | 27884 | [27884-typeshift.json](./27884-typeshift.json) |
 | Typewriter Simulator | 177529 | [177529-typewriter-simulator.json](./177529-typewriter-simulator.json) |
 | Typing Hearts | 149091 | [149091-typing-hearts.json](./149091-typing-hearts.json) |
 | Typing Stars | 322387 | [322387-typing-stars.json](./322387-typing-stars.json) |
