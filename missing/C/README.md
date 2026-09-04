@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Crush Saga Ticket Model | 229352 | [229352-candy-crush-saga-ticket-model.json](./229352-candy-crush-saga-ticket-model.json) |
 | Candy Land / Chutes & Ladders / Original Memory Game | 91423 | [91423-candy-land-chutes-and-ladders-original-memory-game.json](./91423-candy-land-chutes-and-ladders-original-memory-game.json) |
 | Candy Maid | 224777 | [224777-candy-maid.json](./224777-candy-maid.json) |
+| Candy Mania Star | 87094 | [87094-candy-mania-star.json](./87094-candy-mania-star.json) |
 | Candy Snake Master | 83573 | [83573-candy-snake-master.json](./83573-candy-snake-master.json) |
 | Candy Tycoon | 236517 | [236517-candy-tycoon.json](./236517-candy-tycoon.json) |
 | Candypink | 176496 | [176496-candypink.json](./176496-candypink.json) |
@@ -349,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Jigsaw Puzzle Games: Expansion Pack 4 | 263211 | [263211-cat-jigsaw-puzzle-games-expansion-pack-4.json](./263211-cat-jigsaw-puzzle-games-expansion-pack-4.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 7 | 263214 | [263214-cat-jigsaw-puzzle-games-expansion-pack-7.json](./263214-cat-jigsaw-puzzle-games-expansion-pack-7.json) |
 | Cat Life | 230525 | [230525-cat-life.json](./230525-cat-life.json) |
+| Cat Simulator 2015 | 87780 | [87780-cat-simulator-2015.json](./87780-cat-simulator-2015.json) |
 | Cat Sokoban | 135868 | [135868-cat-sokoban.json](./135868-cat-sokoban.json) |
 | Cat vs. Corgis | 54448 | [54448-cat-vs-corgis.json](./54448-cat-vs-corgis.json) |
 | Cat-aclysm | 251948 | [251948-cat-aclysm.json](./251948-cat-aclysm.json) |
@@ -1206,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constantine | 236004 | [236004-constantine.json](./236004-constantine.json) |
 | Constellation Courier | 309127 | [309127-constellation-courier.json](./309127-constellation-courier.json) |
 | Construction Machine Simulator 2023: Hard Truck Work Job | 259233 | [259233-construction-machine-simulator-2023-hard-truck-work-job.json](./259233-construction-machine-simulator-2023-hard-truck-work-job.json) |
+| Construction Simulator 2 | 87338 | [87338-construction-simulator-2.json](./87338-construction-simulator-2.json) |
 | Construction Simulator 2015: Liebherr 150 EC-B | 168916 | [168916-construction-simulator-2015-liebherr-150-ec-b.json](./168916-construction-simulator-2015-liebherr-150-ec-b.json) |
 | Construction Simulator 2015: Liebherr A 918 | 168922 | [168922-construction-simulator-2015-liebherr-a-918.json](./168922-construction-simulator-2015-liebherr-a-918.json) |
 | Construction Simulator 2015: Liebherr HTM 1204 ZA | 168920 | [168920-construction-simulator-2015-liebherr-htm-1204-za.json](./168920-construction-simulator-2015-liebherr-htm-1204-za.json) |
@@ -1548,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Bullet: 7th Target | 72121 | [72121-critical-bullet-7th-target.json](./72121-critical-bullet-7th-target.json) |
 | Critical Point | 337490 | [337490-critical-point.json](./337490-critical-point.json) |
 | Critter Caboodle | 333910 | [333910-critter-caboodle.json](./333910-critter-caboodle.json) |
+| Croc's World | 87410 | [87410-crocs-world.json](./87410-crocs-world.json) |
 | Cronostase Electric Collection | 225899 | [225899-cronostase-electric-collection.json](./225899-cronostase-electric-collection.json) |
 | Cronous Online | 213028 | [213028-cronous-online.json](./213028-cronous-online.json) |
 | Crooked Time | 205787 | [205787-crooked-time.json](./205787-crooked-time.json) |
