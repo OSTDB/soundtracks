@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Story | 233761 | [233761-paradise-story.json](./233761-paradise-story.json) |
 | Paradox of the Cryptomancers | 99622 | [99622-paradox-of-the-cryptomancers.json](./99622-paradox-of-the-cryptomancers.json) |
 | Paradox Soul | 83933 | [83933-paradox-soul.json](./83933-paradox-soul.json) |
+| Paradox Vector | 116943 | [116943-paradox-vector.json](./116943-paradox-vector.json) |
 | Paradox! | 329952 | [329952-paradox.json](./329952-paradox.json) |
 | Paradroid | 22518 | [22518-paradroid.json](./22518-paradroid.json) |
 | Paragnosia | 320184 | [320184-paragnosia.json](./320184-paragnosia.json) |
@@ -317,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawsitive | 298873 | [298873-pawsitive.json](./298873-pawsitive.json) |
 | Pax | 274201 | [274201-pax.json](./274201-pax.json) |
 | Pax Imperia | 95439 | [95439-pax-imperia.json](./95439-pax-imperia.json) |
+| Pax Romana | 115512 | [115512-pax-romana.json](./115512-pax-romana.json) |
 | Pax Solis | 298291 | [298291-pax-solis.json](./298291-pax-solis.json) |
 | Pay Your Crimes | 339090 | [339090-pay-your-crimes.json](./339090-pay-your-crimes.json) |
 | Payback 2 | 212494 | [212494-payback-2.json](./212494-payback-2.json) |
