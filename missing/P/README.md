@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paskal's Path | 213646 | [213646-paskals-path.json](./213646-paskals-path.json) |
 | Paso Comic PuruPuru Paradise: Santa Claus Tokushuu | 62213 | [62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json](./62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json) |
 | Pass On | 183076 | [183076-pass-on.json](./183076-pass-on.json) |
+| Pass the Pigs | 18271 | [18271-pass-the-pigs.json](./18271-pass-the-pigs.json) |
 | Passage | 204687 | [204687-passage.json](./204687-passage.json) |
 | Passage | 209700 | [209700-passage.json](./209700-passage.json) |
 | Passengers of Execution | 143743 | [143743-passengers-of-execution.json](./143743-passengers-of-execution.json) |
@@ -272,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawn Shop Simulator | 208605 | [208605-pawn-shop-simulator.json](./208605-pawn-shop-simulator.json) |
 | Pawnholm | 292302 | [292302-pawnholm.json](./292302-pawnholm.json) |
 | Paws | 94253 | [94253-paws.json](./94253-paws.json) |
+| Paws & Claws: Pet Resort | 18272 | [18272-paws-and-claws-pet-resort.json](./18272-paws-and-claws-pet-resort.json) |
 | Paws for Adventure | 204108 | [204108-paws-for-adventure.json](./204108-paws-for-adventure.json) |
 | Pawsitive | 298873 | [298873-pawsitive.json](./298873-pawsitive.json) |
 | Pax | 274201 | [274201-pax.json](./274201-pax.json) |
@@ -1089,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Ninja Himekage | 220327 | [220327-pretty-ninja-himekage.json](./220327-pretty-ninja-himekage.json) |
 | Pretty Safe Airlines | 125480 | [125480-pretty-safe-airlines.json](./125480-pretty-safe-airlines.json) |
 | Prey with Gun | 91426 | [91426-prey-with-gun.json](./91426-prey-with-gun.json) |
+| Pride FC: Fighting Championships | 18276 | [18276-pride-fc-fighting-championships.json](./18276-pride-fc-fighting-championships.json) |
 | Pride Quiz | 272561 | [272561-pride-quiz.json](./272561-pride-quiz.json) |
 | Priest's Artifice: Raguna Series 2 | 98437 | [98437-priests-artifice-raguna-series-2.json](./98437-priests-artifice-raguna-series-2.json) |
 | Prima: First Rogues | 291233 | [291233-prima-first-rogues.json](./291233-prima-first-rogues.json) |
