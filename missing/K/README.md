@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep looking | 158185 | [158185-keep-looking.json](./158185-keep-looking.json) |
 | Keep Me Posted | 223169 | [223169-keep-me-posted.json](./223169-keep-me-posted.json) |
 | Keep Running | 104071 | [104071-keep-running.json](./104071-keep-running.json) |
+| Keep Talking and Nobody Explodes | 13226 | [13226-keep-talking-and-nobody-explodes.json](./13226-keep-talking-and-nobody-explodes.json) |
 | Keep Up | 277580 | [277580-keep-up.json](./277580-keep-up.json) |
 | Keepers 1477 | 306062 | [306062-keepers-1477.json](./306062-keepers-1477.json) |
 | Keepers of the Forest | 228085 | [228085-keepers-of-the-forest.json](./228085-keepers-of-the-forest.json) |
@@ -252,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Floor 2: Digital Deluxe Edition | 53241 | [53241-killing-floor-2-digital-deluxe-edition.json](./53241-killing-floor-2-digital-deluxe-edition.json) |
 | Killing Floor: Double Feature | 116387 | [116387-killing-floor-double-feature.json](./116387-killing-floor-double-feature.json) |
 | Killing Kiss | 191905 | [191905-killing-kiss.json](./191905-killing-kiss.json) |
+| Killzone | 1865 | [1865-killzone.json](./1865-killzone.json) |
 | Kiloblaster | 79333 | [79333-kiloblaster.json](./79333-kiloblaster.json) |
 | Kimero!! Hero Gakuen: Eiyuu ni Shinjutsu Nashi | 59439 | [59439-kimero-hero-gakuen-eiyuu-ni-shinjutsu-nashi.json](./59439-kimero-hero-gakuen-eiyuu-ni-shinjutsu-nashi.json) |
 | Kimi ga Mita Hikari 2 | 329968 | [329968-kimi-ga-mita-hikari-2.json](./329968-kimi-ga-mita-hikari-2.json) |
@@ -318,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirakira Slimes | 300408 | [300408-kirakira-slimes.json](./300408-kirakira-slimes.json) |
 | Kirarin Revolution: Atsumete Change! Qurukira Coord | 70417 | [70417-kirarin-revolution-atsumete-change-qurukira-coord.json](./70417-kirarin-revolution-atsumete-change-qurukira-coord.json) |
 | Kiratto Kaiketsu! 64 Tanteidan | 3532 | [3532-kiratto-kaiketsu-64-tanteidan.json](./3532-kiratto-kaiketsu-64-tanteidan.json) |
+| Kirby 64: The Crystal Shards | 2713 | [2713-kirby-64-the-crystal-shards.json](./2713-kirby-64-the-crystal-shards.json) |
 | Kirby Air Ride Hack Pack | 298856 | [298856-kirby-air-ride-hack-pack.json](./298856-kirby-air-ride-hack-pack.json) |
 | Kirby Bowl 64 | 298858 | [298858-kirby-bowl-64.json](./298858-kirby-bowl-64.json) |
 | Kirby in Sonic the Hedgehog | 198524 | [198524-kirby-in-sonic-the-hedgehog.json](./198524-kirby-in-sonic-the-hedgehog.json) |
