@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Ordinary Elevator | 76666 | [76666-no-ordinary-elevator.json](./76666-no-ordinary-elevator.json) |
 | No Rest | 302688 | [302688-no-rest.json](./302688-no-rest.json) |
 | No Son of Mine | 201314 | [201314-no-son-of-mine.json](./201314-no-son-of-mine.json) |
+| No Stick Shooter | 28910 | [28910-no-stick-shooter.json](./28910-no-stick-shooter.json) |
 | No Straight Roads: Collector's Edition | 166225 | [166225-no-straight-roads-collectors-edition.json](./166225-no-straight-roads-collectors-edition.json) |
 | No Straight Roads: Encore Edition | 178093 | [178093-no-straight-roads-encore-edition.json](./178093-no-straight-roads-encore-edition.json) |
 | No Sun To Worship | 236015 | [236015-no-sun-to-worship.json](./236015-no-sun-to-worship.json) |
