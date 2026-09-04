@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeadEye | 116340 | [116340-deadeye.json](./116340-deadeye.json) |
 | Deadeye Deepfake Simulacrum | 156161 | [156161-deadeye-deepfake-simulacrum.json](./156161-deadeye-deepfake-simulacrum.json) |
 | Deadfall Tropics | 99644 | [99644-deadfall-tropics.json](./99644-deadfall-tropics.json) |
+| Deadhunt | 33709 | [33709-deadhunt.json](./33709-deadhunt.json) |
 | Deadliest Demolition | 274747 | [274747-deadliest-demolition.json](./274747-deadliest-demolition.json) |
 | Deadlight: Director's Cut | 19454 | [19454-deadlight-directors-cut.json](./19454-deadlight-directors-cut.json) |
 | Deadly Duck | 22434 | [22434-deadly-duck.json](./22434-deadly-duck.json) |
@@ -1291,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Trails | 173289 | [173289-dragon-trails.json](./173289-dragon-trails.json) |
 | Dragon Tycoon Edge | 97321 | [97321-dragon-tycoon-edge.json](./97321-dragon-tycoon-edge.json) |
 | Dragon valley | 109744 | [109744-dragon-valley.json](./109744-dragon-valley.json) |
+| Dragon Valor | 27351 | [27351-dragon-valor.json](./27351-dragon-valor.json) |
 | Dragon Village Arena | 193988 | [193988-dragon-village-arena.json](./193988-dragon-village-arena.json) |
 | Dragon's Bane | 148541 | [148541-dragons-bane.json](./148541-dragons-bane.json) |
 | Dragon's Dogma II: Dragon's Dogma Music & Sound Collection - Custom Sounds | 308568 | [308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json](./308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json) |
@@ -1327,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakensang: The River of Time | 8769 | [8769-drakensang-the-river-of-time.json](./8769-drakensang-the-river-of-time.json) |
 | Drakkar Crew | 107886 | [107886-drakkar-crew.json](./107886-drakkar-crew.json) |
 | Dramaqueen | 158230 | [158230-dramaqueen.json](./158230-dramaqueen.json) |
+| Dramatical Murder Re:connect | 22493 | [22493-dramatical-murder-re-connect.json](./22493-dramatical-murder-re-connect.json) |
 | Draw and Lie | 147973 | [147973-draw-and-lie.json](./147973-draw-and-lie.json) |
 | Draw Mania | 200155 | [200155-draw-mania.json](./200155-draw-mania.json) |
 | Draw No More | 177523 | [177523-draw-no-more.json](./177523-draw-no-more.json) |
