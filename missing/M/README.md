@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medical Record Sheet | 253003 | [253003-medical-record-sheet.json](./253003-medical-record-sheet.json) |
 | Medical verdict | 107913 | [107913-medical-verdict.json](./107913-medical-verdict.json) |
 | Medicinal Herbs: Cannabis Grow Simulator | 172149 | [172149-medicinal-herbs-cannabis-grow-simulator.json](./172149-medicinal-herbs-cannabis-grow-simulator.json) |
+| Medieval Battlefields: Black Edition | 33081 | [33081-medieval-battlefields-black-edition.json](./33081-medieval-battlefields-black-edition.json) |
 | Medieval Battlegrounds | 188669 | [188669-medieval-battlegrounds.json](./188669-medieval-battlegrounds.json) |
 | Medieval Defence | 235997 | [235997-medieval-defence.json](./235997-medieval-defence.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Emperor Edition | 315870 | [315870-medieval-fantasy-jigsaw-puzzle-emperor-edition.json](./315870-medieval-fantasy-jigsaw-puzzle-emperor-edition.json) |
@@ -625,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melter Man | 34411 | [34411-melter-man.json](./34411-melter-man.json) |
 | Melvor Idle: Atlas of Discovery | 259837 | [259837-melvor-idle-atlas-of-discovery.json](./259837-melvor-idle-atlas-of-discovery.json) |
 | Meme Barley-Break | 112351 | [112351-meme-barley-break.json](./112351-meme-barley-break.json) |
+| Memento | 33176 | [33176-memento.json](./33176-memento.json) |
 | Memento Vivere | 161355 | [161355-memento-vivere.json](./161355-memento-vivere.json) |
 | MemGame | 128641 | [128641-memgame.json](./128641-memgame.json) |
 | Memo Blox | 304373 | [304373-memo-blox.json](./304373-memo-blox.json) |
@@ -844,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Train | 138255 | [138255-midnight-train.json](./138255-midnight-train.json) |
 | Midnight Train: Going Anywhere | 176489 | [176489-midnight-train-going-anywhere.json](./176489-midnight-train-going-anywhere.json) |
 | Midnight Wave | 109669 | [109669-midnight-wave.json](./109669-midnight-wave.json) |
+| Midnight's Blessing 2 | 33040 | [33040-midnights-blessing-2.json](./33040-midnights-blessing-2.json) |
 | Midnight's Curse | 154569 | [154569-midnights-curse.json](./154569-midnights-curse.json) |
 | Midori Budou-den | 339121 | [339121-midori-budou-den.json](./339121-midori-budou-den.json) |
 | Midsummer Leg's Dream | 303791 | [303791-midsummer-legs-dream.json](./303791-midsummer-legs-dream.json) |
@@ -960,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini-U: Mosaic | 175408 | [175408-mini-u-mosaic.json](./175408-mini-u-mosaic.json) |
 | Minifiend | 253034 | [253034-minifiend.json](./253034-minifiend.json) |
 | Minigame Party | 257648 | [257648-minigame-party.json](./257648-minigame-party.json) |
+| Minigame Party VR | 33146 | [33146-minigame-party-vr.json](./33146-minigame-party-vr.json) |
 | Minigore | 76624 | [76624-minigore.json](./76624-minigore.json) |
 | Minigunner | 207509 | [207509-minigunner.json](./207509-minigunner.json) |
 | Minimal Affect | 132831 | [132831-minimal-affect.json](./132831-minimal-affect.json) |
@@ -1553,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Monty | 66711 | [66711-mutant-monty.json](./66711-mutant-monty.json) |
 | Mutual Assured Destruction Simulator | 326389 | [326389-mutual-assured-destruction-simulator.json](./326389-mutual-assured-destruction-simulator.json) |
 | Muumit ja Taikalamppu | 178047 | [178047-muumit-ja-taikalamppu.json](./178047-muumit-ja-taikalamppu.json) |
+| Muv-Luv VR | 33162 | [33162-muv-luv-vr.json](./33162-muv-luv-vr.json) |
 | MX vs. ATV: Legends - GASGAS Pack 2023 | 274741 | [274741-mx-vs-atv-legends-gasgas-pack-2023.json](./274741-mx-vs-atv-legends-gasgas-pack-2023.json) |
 | MXGP 2021 | 175971 | [175971-mxgp-2021.json](./175971-mxgp-2021.json) |
 | My Anima Boy | 278731 | [278731-my-anima-boy.json](./278731-my-anima-boy.json) |
