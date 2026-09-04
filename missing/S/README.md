@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selini | 159885 | [159885-selini.json](./159885-selini.json) |
 | Selling Sunlight | 118412 | [118412-selling-sunlight.json](./118412-selling-sunlight.json) |
 | Semblance | 55173 | [55173-semblance.json](./55173-semblance.json) |
+| Semispheres | 17990 | [17990-semispheres.json](./17990-semispheres.json) |
 | Semmelweis | 238752 | [238752-semmelweis.json](./238752-semmelweis.json) |
 | Semper Fidelis: Marine Corps | 73830 | [73830-semper-fidelis-marine-corps.json](./73830-semper-fidelis-marine-corps.json) |
 | Sengoku 3 | 46784 | [46784-sengoku-3.json](./46784-sengoku-3.json) |
@@ -707,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Dreams | 313507 | [313507-shattered-dreams.json](./313507-shattered-dreams.json) |
 | Shattered Hourglass | 133422 | [133422-shattered-hourglass.json](./133422-shattered-hourglass.json) |
 | Shattered Palace | 312902 | [312902-shattered-palace.json](./312902-shattered-palace.json) |
+| Shattered Planet | 17510 | [17510-shattered-planet.json](./17510-shattered-planet.json) |
 | Shattered Sky | 244502 | [244502-shattered-sky.json](./244502-shattered-sky.json) |
 | Shattered Souls | 316428 | [316428-shattered-souls.json](./316428-shattered-souls.json) |
 | Shattered Worlds | 155654 | [155654-shattered-worlds.json](./155654-shattered-worlds.json) |
@@ -805,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship of Harkinian | 194694 | [194694-ship-of-harkinian.json](./194694-ship-of-harkinian.json) |
 | Ship of the Line | 73845 | [73845-ship-of-the-line.json](./73845-ship-of-the-line.json) |
 | Ship Simulator | 327584 | [327584-ship-simulator.json](./327584-ship-simulator.json) |
+| ShipLord | 19326 | [19326-shiplord.json](./19326-shiplord.json) |
 | Ships 3D | 321755 | [321755-ships-3d.json](./321755-ships-3d.json) |
 | Shirazu Yama | 196886 | [196886-shirazu-yama.json](./196886-shirazu-yama.json) |
 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island - Plus Pack | 323544 | [323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json](./323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json) |
@@ -1038,6 +1041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Polskie Hity 2 | 268753 | [268753-singstar-polskie-hity-2.json](./268753-singstar-polskie-hity-2.json) |
 | Singstar: Portugal Hits | 91953 | [91953-singstar-portugal-hits.json](./91953-singstar-portugal-hits.json) |
 | Sinister Adventures Bundle | 199624 | [199624-sinister-adventures-bundle.json](./199624-sinister-adventures-bundle.json) |
+| Sinister City | 17898 | [17898-sinister-city.json](./17898-sinister-city.json) |
 | Sinister Fate | 38992 | [38992-sinister-fate.json](./38992-sinister-fate.json) |
 | Sinister Mansion | 297798 | [297798-sinister-mansion.json](./297798-sinister-mansion.json) |
 | Sinistrous | 153423 | [153423-sinistrous.json](./153423-sinistrous.json) |
@@ -1780,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Drilling Station | 250028 | [250028-space-drilling-station.json](./250028-space-drilling-station.json) |
 | Space Ducks: The Great Escape | 199658 | [199658-space-ducks-the-great-escape.json](./199658-space-ducks-the-great-escape.json) |
 | Space electrician | 126668 | [126668-space-electrician.json](./126668-space-electrician.json) |
+| Space Empires IV Deluxe | 19350 | [19350-space-empires-iv-deluxe.json](./19350-space-empires-iv-deluxe.json) |
 | Space Engineers: Automatons | 247778 | [247778-space-engineers-automatons.json](./247778-space-engineers-automatons.json) |
 | Space Escape Obstacles | 202960 | [202960-space-escape-obstacles.json](./202960-space-escape-obstacles.json) |
 | Space Fantasy Zone | 42007 | [42007-space-fantasy-zone.json](./42007-space-fantasy-zone.json) |
@@ -1792,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Garbage | 277600 | [277600-space-garbage.json](./277600-space-garbage.json) |
 | Space Gray X | 304861 | [304861-space-gray-x.json](./304861-space-gray-x.json) |
 | Space Grunts 2 | 121004 | [121004-space-grunts-2.json](./121004-space-grunts-2.json) |
+| Space Hack | 17680 | [17680-space-hack.json](./17680-space-hack.json) |
 | Space Harrier | 263380 | [263380-space-harrier.json](./263380-space-harrier.json) |
 | Space Harrier | 341883 | [341883-space-harrier.json](./341883-space-harrier.json) |
 | Space Harvest II | 97916 | [97916-space-harvest-ii.json](./97916-space-harvest-ii.json) |
@@ -2230,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starborn Survivor | 306711 | [306711-starborn-survivor.json](./306711-starborn-survivor.json) |
 | Starborne: Frontiers | 242221 | [242221-starborne-frontiers.json](./242221-starborne-frontiers.json) |
 | Starbound | 3019 | [3019-starbound.json](./3019-starbound.json) |
+| StarBreak | 19174 | [19174-starbreak.json](./19174-starbreak.json) |
 | Starbust | 181378 | [181378-starbust.json](./181378-starbust.json) |
 | Starcaller | 142496 | [142496-starcaller.json](./142496-starcaller.json) |
 | Starcatcher | 228094 | [228094-starcatcher.json](./228094-starcatcher.json) |
