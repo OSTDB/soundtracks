@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backstage: Murdered Sleep | 297777 | [297777-backstage-murdered-sleep.json](./297777-backstage-murdered-sleep.json) |
 | Backward Poiesis | 297776 | [297776-backward-poiesis.json](./297776-backward-poiesis.json) |
 | Backwards | 179176 | [179176-backwards.json](./179176-backwards.json) |
+| Backyard Bounce | 20720 | [20720-backyard-bounce.json](./20720-backyard-bounce.json) |
 | Backyard Hockey 2005 | 46638 | [46638-backyard-hockey-2005.json](./46638-backyard-hockey-2005.json) |
 | Backyard Monsters | 159324 | [159324-backyard-monsters.json](./159324-backyard-monsters.json) |
 | Backyard Parking 3D | 83579 | [83579-backyard-parking-3d.json](./83579-backyard-parking-3d.json) |
@@ -219,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie Worlds Collide | 135259 | [135259-banjo-kazooie-worlds-collide.json](./135259-banjo-kazooie-worlds-collide.json) |
 | Banjo-Pilot | 6316 | [6316-banjo-pilot.json](./6316-banjo-pilot.json) |
 | Bankruptcy | 292283 | [292283-bankruptcy.json](./292283-bankruptcy.json) |
+| Bankshot Billiards 2 | 20523 | [20523-bankshot-billiards-2.json](./20523-bankshot-billiards-2.json) |
 | Banshiryuu | 123606 | [123606-banshiryuu.json](./123606-banshiryuu.json) |
 | Bansoko | 179193 | [179193-bansoko.json](./179193-bansoko.json) |
 | Banui Moheom: Idle RPG | 219781 | [219781-banui-moheom-idle-rpg.json](./219781-banui-moheom-idle-rpg.json) |
@@ -304,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball | 245560 | [245560-baseball.json](./245560-baseball.json) |
 | Baseball | 245561 | [245561-baseball.json](./245561-baseball.json) |
 | Baseball | 7580 | [7580-baseball.json](./7580-baseball.json) |
+| Baseball 3DS | 21150 | [21150-baseball-3ds.json](./21150-baseball-3ds.json) |
 | Baseball Boy! | 87059 | [87059-baseball-boy.json](./87059-baseball-boy.json) |
 | Baseball Kings VR | 89255 | [89255-baseball-kings-vr.json](./89255-baseball-kings-vr.json) |
 | Baseball Mogul 2000 | 72675 | [72675-baseball-mogul-2000.json](./72675-baseball-mogul-2000.json) |
@@ -1169,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bog Racer | 239893 | [239893-bog-racer.json](./239893-bog-racer.json) |
 | Bogart | 243947 | [243947-bogart.json](./243947-bogart.json) |
 | Bogart 2: Return of Bogart | 243949 | [243949-bogart-2-return-of-bogart.json](./243949-bogart-2-return-of-bogart.json) |
+| Bogey Dead 6 | 20590 | [20590-bogey-dead-6.json](./20590-bogey-dead-6.json) |
 | Boggy '84 | 40261 | [40261-boggy-84.json](./40261-boggy-84.json) |
 | Bogie's Super Pick: Value Pack 1 | 98965 | [98965-bogies-super-pick-value-pack-1.json](./98965-bogies-super-pick-value-pack-1.json) |
 | Bograts: The Puzzling Misadventure | 14330 | [14330-bograts-the-puzzling-misadventure.json](./14330-bograts-the-puzzling-misadventure.json) |
@@ -1371,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bozalleth's Curse | 267088 | [267088-bozalleths-curse.json](./267088-bozalleths-curse.json) |
 | Bpop Attack | 319953 | [319953-bpop-attack.json](./319953-bpop-attack.json) |
 | Bradley Trainer | 40272 | [40272-bradley-trainer.json](./40272-bradley-trainer.json) |
+| Brahma Force: The Assault on Beltlogger 9 | 20816 | [20816-brahma-force-the-assault-on-beltlogger-9.json](./20816-brahma-force-the-assault-on-beltlogger-9.json) |
 | Brain Baffler | 245546 | [245546-brain-baffler.json](./245546-brain-baffler.json) |
 | Brain Battle | 233766 | [233766-brain-battle.json](./233766-brain-battle.json) |
 | Brain Drain | 210267 | [210267-brain-drain.json](./210267-brain-drain.json) |
@@ -1416,6 +1421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravo Romeo Delta | 14344 | [14344-bravo-romeo-delta.json](./14344-bravo-romeo-delta.json) |
 | Bravoman: Binja Bash! | 63290 | [63290-bravoman-binja-bash.json](./63290-bravoman-binja-bash.json) |
 | Brawl Boys | 234354 | [234354-brawl-boys.json](./234354-brawl-boys.json) |
+| Brawl Busters | 20714 | [20714-brawl-busters.json](./20714-brawl-busters.json) |
 | Brawl Royale | 269326 | [269326-brawl-royale.json](./269326-brawl-royale.json) |
 | Brawlin' Sailor | 201288 | [201288-brawlin-sailor.json](./201288-brawlin-sailor.json) |
 | Breach | 251831 | [251831-breach.json](./251831-breach.json) |
@@ -1455,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout Defense 2 | 77368 | [77368-breakout-defense-2.json](./77368-breakout-defense-2.json) |
 | Breakout in Space | 70977 | [70977-breakout-in-space.json](./70977-breakout-in-space.json) |
 | Breakout: Boost | 64400 | [64400-breakout-boost.json](./64400-breakout-boost.json) |
+| BreakQuest | 20548 | [20548-breakquest.json](./20548-breakquest.json) |
 | BreakThru! | 7800 | [7800-breakthru.json](./7800-breakthru.json) |
 | Breath of Death VII | 16259 | [16259-breath-of-death-vii.json](./16259-breath-of-death-vii.json) |
 | Breath of Dragon II | 203551 | [203551-breath-of-dragon-ii.json](./203551-breath-of-dragon-ii.json) |
@@ -1605,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buck Blastem | 322987 | [322987-buck-blastem.json](./322987-buck-blastem.json) |
 | Buck Bumble | 3368 | [3368-buck-bumble.json](./3368-buck-bumble.json) |
 | Bud Redhead: The Time Chase | 71558 | [71558-bud-redhead-the-time-chase.json](./71558-bud-redhead-the-time-chase.json) |
+| Buffy the Vampire Slayer: Sacrifice | 21130 | [21130-buffy-the-vampire-slayer-sacrifice.json](./21130-buffy-the-vampire-slayer-sacrifice.json) |
 | Bug & Seek | 271464 | [271464-bug-and-seek.json](./271464-bug-and-seek.json) |
 | Bug & Seek: Weevils DLC | 298342 | [298342-bug-and-seek-weevils-dlc.json](./298342-bug-and-seek-weevils-dlc.json) |
 | Bug Dates | 206974 | [206974-bug-dates.json](./206974-bug-dates.json) |
@@ -1724,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust a Block | 319973 | [319973-bust-a-block.json](./319973-bust-a-block.json) |
 | Bust a date | 173829 | [173829-bust-a-date.json](./173829-bust-a-date.json) |
 | Bust Out | 174878 | [174878-bust-out.json](./174878-bust-out.json) |
+| Bust-A-Move Live! | 21102 | [21102-bust-a-move-live.json](./21102-bust-a-move-live.json) |
 | Bust-A-Move Pocket | 43977 | [43977-bust-a-move-pocket.json](./43977-bust-a-move-pocket.json) |
 | Buster Bros. | 6823 | [6823-buster-bros.json](./6823-buster-bros.json) |
 | Bustin-Out | 64946 | [64946-bustin-out.json](./64946-bustin-out.json) |
