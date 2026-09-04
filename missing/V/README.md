@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victoria 3: Voice of the People | 247786 | [247786-victoria-3-voice-of-the-people.json](./247786-victoria-3-voice-of-the-people.json) |
 | Victoria II: A House Divided | 11038 | [11038-victoria-ii-a-house-divided.json](./11038-victoria-ii-a-house-divided.json) |
 | Victoria II: Heart of Darkness | 11039 | [11039-victoria-ii-heart-of-darkness.json](./11039-victoria-ii-heart-of-darkness.json) |
+| Victorious Boxers: Revolution | 5256 | [5256-victorious-boxers-revolution.json](./5256-victorious-boxers-revolution.json) |
 | Victorious Nine II | 72116 | [72116-victorious-nine-ii.json](./72116-victorious-nine-ii.json) |
 | Victory | 95445 | [95445-victory.json](./95445-victory.json) |
 | Victory Heat Rally | 142489 | [142489-victory-heat-rally.json](./142489-victory-heat-rally.json) |
@@ -340,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volleyball Trainer: The Legend of Sports | 224211 | [224211-volleyball-trainer-the-legend-of-sports.json](./224211-volleyball-trainer-the-legend-of-sports.json) |
 | Volo Airsport | 17957 | [17957-volo-airsport.json](./17957-volo-airsport.json) |
 | Volos | 93070 | [93070-volos.json](./93070-volos.json) |
+| Voodoo Vince | 5466 | [5466-voodoo-vince.json](./5466-voodoo-vince.json) |
 | Voron: Raven's Story | 235968 | [235968-voron-ravens-story.json](./235968-voron-ravens-story.json) |
 | Vortex | 81436 | [81436-vortex.json](./81436-vortex.json) |
 | Vortex Attack EX | 124235 | [124235-vortex-attack-ex.json](./124235-vortex-attack-ex.json) |
