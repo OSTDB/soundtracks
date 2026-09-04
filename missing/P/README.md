@@ -790,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Escape: An Audiogame | 181380 | [181380-planetary-escape-an-audiogame.json](./181380-planetary-escape-an-audiogame.json) |
 | Planetes | 184628 | [184628-planetes.json](./184628-planetes.json) |
 | PlanetExplorerVR | 101566 | [101566-planetexplorervr.json](./101566-planetexplorervr.json) |
+| Planetfall | 12620 | [12620-planetfall.json](./12620-planetfall.json) |
 | Planetoids | 210873 | [210873-planetoids.json](./210873-planetoids.json) |
 | Planetoids | 45353 | [45353-planetoids.json](./45353-planetoids.json) |
 | PlanetSmith | 263777 | [263777-planetsmith.json](./263777-planetsmith.json) |
