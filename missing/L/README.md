@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laura's Happy Adventures | 66703 | [66703-lauras-happy-adventures.json](./66703-lauras-happy-adventures.json) |
 | Lauras Tierklinik | 163974 | [163974-lauras-tierklinik.json](./163974-lauras-tierklinik.json) |
 | Lava-Runners | 331680 | [331680-lava-runners.json](./331680-lava-runners.json) |
+| Lavapools | 25000 | [25000-lavapools.json](./25000-lavapools.json) |
 | Lawmage Academy | 125472 | [125472-lawmage-academy.json](./125472-lawmage-academy.json) |
 | Lawn & Order | 177021 | [177021-lawn-and-order.json](./177021-lawn-and-order.json) |
 | Lawnarchy | 195203 | [195203-lawnarchy.json](./195203-lawnarchy.json) |
@@ -667,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Egg 3: The Final | 229966 | [229966-lost-egg-3-the-final.json](./229966-lost-egg-3-the-final.json) |
 | Lost Epic | 150168 | [150168-lost-epic.json](./150168-lost-epic.json) |
 | Lost Girl In Mirror | 259820 | [259820-lost-girl-in-mirror.json](./259820-lost-girl-in-mirror.json) |
+| Lost God | 24939 | [24939-lost-god.json](./24939-lost-god.json) |
 | Lost Harem | 173823 | [173823-lost-harem.json](./173823-lost-harem.json) |
 | Lost Heroes | 64953 | [64953-lost-heroes.json](./64953-lost-heroes.json) |
 | Lost Horizon | 200193 | [200193-lost-horizon.json](./200193-lost-horizon.json) |
