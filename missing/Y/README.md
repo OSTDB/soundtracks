@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yooka-Laylee and the Impossible Lair: Digital Deluxe Edition | 154557 | [154557-yooka-laylee-and-the-impossible-lair-digital-deluxe-edition.json](./154557-yooka-laylee-and-the-impossible-lair-digital-deluxe-edition.json) |
 | Yooka-Laylee: Buddy Duo Pack | 154556 | [154556-yooka-laylee-buddy-duo-pack.json](./154556-yooka-laylee-buddy-duo-pack.json) |
 | Yorg | 121719 | [121719-yorg.json](./121719-yorg.json) |
+| Yoshi and the Mysterious Book | 366883 | [366883-yoshi-and-the-mysterious-book.json](./366883-yoshi-and-the-mysterious-book.json) |
 | Yoshi Racing | 175959 | [175959-yoshi-racing.json](./175959-yoshi-racing.json) |
 | Yoshi Touch & Go | 18329 | [18329-yoshi-touch-and-go.json](./18329-yoshi-touch-and-go.json) |
 | Yoshi's Mix-Up | 231652 | [231652-yoshis-mix-up.json](./231652-yoshis-mix-up.json) |
@@ -104,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys III: Wanderers from Ys | 201313 | [201313-ys-iii-wanderers-from-ys.json](./201313-ys-iii-wanderers-from-ys.json) |
 | Ys IX: Monstrum Nox | 113431 | [113431-ys-ix-monstrum-nox.json](./113431-ys-ix-monstrum-nox.json) |
 | Ys Ⅷ: Lacrimosa of Dana - Mobile | 196324 | [196324-ys-viii-lacrimosa-of-dana-mobile.json](./196324-ys-viii-lacrimosa-of-dana-mobile.json) |
+| Ys X: Nordics | 229176 | [229176-ys-x-nordics.json](./229176-ys-x-nordics.json) |
 | Ys: Memories of Celceta | 15457 | [15457-ys-memories-of-celceta.json](./15457-ys-memories-of-celceta.json) |
 | Ys: Memories of Celceta - Silver Anniversary Edition | 42679 | [42679-ys-memories-of-celceta-silver-anniversary-edition.json](./42679-ys-memories-of-celceta-silver-anniversary-edition.json) |
 | Ys: Wanderers from Ys | 15450 | [15450-ys-wanderers-from-ys.json](./15450-ys-wanderers-from-ys.json) |
