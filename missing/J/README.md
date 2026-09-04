@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jagged Alliance 2 Platinum | 53252 | [53252-jagged-alliance-2-platinum.json](./53252-jagged-alliance-2-platinum.json) |
 | Jagged Alliance 2: Wildfire | 10466 | [10466-jagged-alliance-2-wildfire.json](./10466-jagged-alliance-2-wildfire.json) |
 | Jagged Alliance DS | 53254 | [53254-jagged-alliance-ds.json](./53254-jagged-alliance-ds.json) |
+| Jagged Alliance: Back in Action | 1008 | [1008-jagged-alliance-back-in-action.json](./1008-jagged-alliance-back-in-action.json) |
 | Jaghund Armoured Organ Delivery Service | 329941 | [329941-jaghund-armoured-organ-delivery-service.json](./329941-jaghund-armoured-organ-delivery-service.json) |
 | Jaguar Suns | 333403 | [333403-jaguar-suns.json](./333403-jaguar-suns.json) |
 | Jahto: Savior of the Sky | 214152 | [214152-jahto-savior-of-the-sky.json](./214152-jahto-savior-of-the-sky.json) |
@@ -270,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JR EAST Train Simulator: Keiyo Line (Soga to Tokyo) E233-5000 Series | 254786 | [254786-jr-east-train-simulator-keiyo-line-soga-to-tokyo-e233-5000-series.json](./254786-jr-east-train-simulator-keiyo-line-soga-to-tokyo-e233-5000-series.json) |
 | JR's Christmas Adventure | 340776 | [340776-jrs-christmas-adventure.json](./340776-jrs-christmas-adventure.json) |
 | Jubilane | 165696 | [165696-jubilane.json](./165696-jubilane.json) |
+| Judge Dredd | 4387 | [4387-judge-dredd.json](./4387-judge-dredd.json) |
 | Judgement | 335650 | [335650-judgement.json](./335650-judgement.json) |
 | Judgment Day: Pacific Assault | 340777 | [340777-judgment-day-pacific-assault.json](./340777-judgment-day-pacific-assault.json) |
 | Juggle Struggle | 250659 | [250659-juggle-struggle.json](./250659-juggle-struggle.json) |
