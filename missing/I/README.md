@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I-Chu | 220879 | [220879-i-chu.json](./220879-i-chu.json) |
 | I-War | 40820 | [40820-i-war.json](./40820-i-war.json) |
 | I.C.O. | 178660 | [178660-i-c-o.json](./178660-i-c-o.json) |
+| I.G.I.-2: Covert Strike | 8559 | [8559-i-g-i-2-covert-strike.json](./8559-i-g-i-2-covert-strike.json) |
 | I.H.A.S | 224773 | [224773-i-h-a-s.json](./224773-i-h-a-s.json) |
 | I.M. Meen | 84281 | [84281-i-m-meen.json](./84281-i-m-meen.json) |
 | I.Q Intelligent Qube | 215363 | [215363-i-q-intelligent-qube.json](./215363-i-q-intelligent-qube.json) |
