@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescape | 235981 | [235981-rescape.json](./235981-rescape.json) |
 | Rescue Heroes: Fire Frenzy | 49948 | [49948-rescue-heroes-fire-frenzy.json](./49948-rescue-heroes-fire-frenzy.json) |
 | Rescue Heroes: Molten Menace | 209168 | [209168-rescue-heroes-molten-menace.json](./209168-rescue-heroes-molten-menace.json) |
+| Rescue Raiders | 25777 | [25777-rescue-raiders.json](./25777-rescue-raiders.json) |
 | Rescue Rover 2 | 72110 | [72110-rescue-rover-2.json](./72110-rescue-rover-2.json) |
 | Rescue Rover Collection | 150692 | [150692-rescue-rover-collection.json](./150692-rescue-rover-collection.json) |
 | Rescue Team: Evil Genius | 122409 | [122409-rescue-team-evil-genius.json](./122409-rescue-team-evil-genius.json) |
@@ -805,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robovenger | 192421 | [192421-robovenger.json](./192421-robovenger.json) |
 | RoboWarrior Arena | 266473 | [266473-robowarrior-arena.json](./266473-robowarrior-arena.json) |
 | Roburst | 199647 | [199647-roburst.json](./199647-roburst.json) |
+| Roc 'N Rope | 25727 | [25727-roc-n-rope.json](./25727-roc-n-rope.json) |
 | Rocco | 78015 | [78015-rocco.json](./78015-rocco.json) |
 | Rock 'N Roll | 90647 | [90647-rock-n-roll.json](./90647-rock-n-roll.json) |
 | Rock Band 3 | 206953 | [206953-rock-band-3.json](./206953-rock-band-3.json) |
@@ -1122,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runeomicon | 318184 | [318184-runeomicon.json](./318184-runeomicon.json) |
 | RuneStone Keeper & YourToy & Distrust Bundle | 301565 | [301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json](./301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json) |
 | Runic Survivor | 215909 | [215909-runic-survivor.json](./215909-runic-survivor.json) |
+| Runion | 25735 | [25735-runion.json](./25735-runion.json) |
 | Runner2: Good Friends Character Pack | 226929 | [226929-runner2-good-friends-character-pack.json](./226929-runner2-good-friends-character-pack.json) |
 | RunnerDot | 153986 | [153986-runnerdot.json](./153986-runnerdot.json) |
 | RunnerSky | 181395 | [181395-runnersky.json](./181395-runnersky.json) |
