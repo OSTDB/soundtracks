@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lay a Beauty to Rest: The Darkness Peach Blossom Spring | 229920 | [229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json](./229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json) |
 | Layers of Fear: Deluxe Edition | 254177 | [254177-layers-of-fear-deluxe-edition.json](./254177-layers-of-fear-deluxe-edition.json) |
 | Layers of Fear: Digital Deluxe | 186875 | [186875-layers-of-fear-digital-deluxe.json](./186875-layers-of-fear-digital-deluxe.json) |
+| Layers of Fear: Solitude | 125167 | [125167-layers-of-fear-solitude.json](./125167-layers-of-fear-solitude.json) |
 | Layers of the Machine | 119794 | [119794-layers-of-the-machine.json](./119794-layers-of-the-machine.json) |
 | Lazarian | 23917 | [23917-lazarian.json](./23917-lazarian.json) |
 | LazinAround | 246122 | [246122-lazinaround.json](./246122-lazinaround.json) |
@@ -739,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Egg 2: Be Together | 148559 | [148559-lost-egg-2-be-together.json](./148559-lost-egg-2-be-together.json) |
 | Lost Egg 3: The Final | 229966 | [229966-lost-egg-3-the-final.json](./229966-lost-egg-3-the-final.json) |
 | Lost Epic | 150168 | [150168-lost-epic.json](./150168-lost-epic.json) |
+| Lost Existence | 126912 | [126912-lost-existence.json](./126912-lost-existence.json) |
 | Lost Girl In Mirror | 259820 | [259820-lost-girl-in-mirror.json](./259820-lost-girl-in-mirror.json) |
 | Lost God | 24939 | [24939-lost-god.json](./24939-lost-god.json) |
 | Lost Grimoires 2: Shard of Mystery | 29961 | [29961-lost-grimoires-2-shard-of-mystery.json](./29961-lost-grimoires-2-shard-of-mystery.json) |
