@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Attorney: Athena Cykes - Wisdom at Law | 308533 | [308533-ace-attorney-athena-cykes-wisdom-at-law.json](./308533-ace-attorney-athena-cykes-wisdom-at-law.json) |
 | Ace Attorney: Beyond the Shadows | 308543 | [308543-ace-attorney-beyond-the-shadows.json](./308543-ace-attorney-beyond-the-shadows.json) |
 | Ace Baker | 182524 | [182524-ace-baker.json](./182524-ace-baker.json) |
+| Ace Banana | 25108 | [25108-ace-banana.json](./25108-ace-banana.json) |
 | Ace Combat 7: Skies Unknown - Original Aircraft Series | 138246 | [138246-ace-combat-7-skies-unknown-original-aircraft-series.json](./138246-ace-combat-7-skies-unknown-original-aircraft-series.json) |
 | Ace Combat 7: Skies Unknown - Top Gun: Maverick Edition | 204084 | [204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json](./204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json) |
 | Ace Combat 7: Skies Unknown - Top Gun: Maverick Ultimate Edition | 205250 | [205250-ace-combat-7-skies-unknown-top-gun-maverick-ultimate-edition.json](./205250-ace-combat-7-skies-unknown-top-gun-maverick-ultimate-edition.json) |
@@ -1033,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animetic Story Game 1: Cardcaptor Sakura | 132867 | [132867-animetic-story-game-1-cardcaptor-sakura.json](./132867-animetic-story-game-1-cardcaptor-sakura.json) |
 | Animorphs: Shattered Reality | 43927 | [43927-animorphs-shattered-reality.json](./43927-animorphs-shattered-reality.json) |
 | Anise Flowers | 185129 | [185129-anise-flowers.json](./185129-anise-flowers.json) |
+| Ankh 3: Battle of the Gods | 25466 | [25466-ankh-3-battle-of-the-gods.json](./25466-ankh-3-battle-of-the-gods.json) |
 | Anna: The Series Test | 156645 | [156645-anna-the-series-test.json](./156645-anna-the-series-test.json) |
 | Anna's Gram | 94252 | [94252-annas-gram.json](./94252-annas-gram.json) |
 | Anna's Quest | 11367 | [11367-annas-quest.json](./11367-annas-quest.json) |
