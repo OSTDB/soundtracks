@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Shape | 92488 | [92488-take-shape.json](./92488-take-shape.json) |
 | Take Yutaka G1 Memory | 37795 | [37795-take-yutaka-g1-memory.json](./37795-take-yutaka-g1-memory.json) |
 | Takeda 2 | 67323 | [67323-takeda-2.json](./67323-takeda-2.json) |
+| Takeda 3 | 24923 | [24923-takeda-3.json](./24923-takeda-3.json) |
 | Takeda Shingen | 81334 | [81334-takeda-shingen.json](./81334-takeda-shingen.json) |
 | Takemiya Masaki Kudan no Igo Taishou | 37794 | [37794-takemiya-masaki-kudan-no-igo-taishou.json](./37794-takemiya-masaki-kudan-no-igo-taishou.json) |
 | Taken Souls: Blood Ritual | 139427 | [139427-taken-souls-blood-ritual.json](./139427-taken-souls-blood-ritual.json) |
@@ -954,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Immortal Mayor | 152377 | [152377-the-immortal-mayor.json](./152377-the-immortal-mayor.json) |
 | The Immortal Mayor: Kingdom of Women | 262077 | [262077-the-immortal-mayor-kingdom-of-women.json](./262077-the-immortal-mayor-kingdom-of-women.json) |
 | The Impossible Test | 66712 | [66712-the-impossible-test.json](./66712-the-impossible-test.json) |
+| The Inlaws | 25004 | [25004-the-inlaws.json](./25004-the-inlaws.json) |
 | The Innsmouth Case | 129197 | [129197-the-innsmouth-case.json](./129197-the-innsmouth-case.json) |
 | The Instruction Manual | 202384 | [202384-the-instruction-manual.json](./202384-the-instruction-manual.json) |
 | The Interdiction Zone | 274191 | [274191-the-interdiction-zone.json](./274191-the-interdiction-zone.json) |
@@ -1650,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's No Santa | 315296 | [315296-theres-no-santa.json](./315296-theres-no-santa.json) |
 | Therian Saga | 30951 | [30951-therian-saga.json](./30951-therian-saga.json) |
 | Theurgy Architect | 333365 | [333365-theurgy-architect.json](./333365-theurgy-architect.json) |
+| TheWaveVR | 25014 | [25014-thewavevr.json](./25014-thewavevr.json) |
 | They | 80613 | [80613-they.json](./80613-they.json) |
 | They Are Beasts | 119753 | [119753-they-are-beasts.json](./119753-they-are-beasts.json) |
 | They Are Coming | 272574 | [272574-they-are-coming.json](./272574-they-are-coming.json) |
@@ -1733,6 +1736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderblade Saga | 277589 | [277589-thunderblade-saga.json](./277589-thunderblade-saga.json) |
 | Thunderchopper | 37161 | [37161-thunderchopper.json](./37161-thunderchopper.json) |
 | Thundercross | 55201 | [55201-thundercross.json](./55201-thundercross.json) |
+| Thunderstrike 2 | 24991 | [24991-thunderstrike-2.json](./24991-thunderstrike-2.json) |
 | Thunderwing | 74427 | [74427-thunderwing.json](./74427-thunderwing.json) |
 | Thundra - Alien Wackiness from the future | 132811 | [132811-thundra-alien-wackiness-from-the-future.json](./132811-thundra-alien-wackiness-from-the-future.json) |
 | Thurgood P. Marshall and the Quest for Ontological Theory Advancement | 128639 | [128639-thurgood-p-marshall-and-the-quest-for-ontological-theory-advancement.json](./128639-thurgood-p-marshall-and-the-quest-for-ontological-theory-advancement.json) |
@@ -2044,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Together Tree: Romance 911 | 244494 | [244494-together-tree-romance-911.json](./244494-together-tree-romance-911.json) |
 | Together: A Wish No One Remembers | 130967 | [130967-together-a-wish-no-one-remembers.json](./130967-together-a-wish-no-one-remembers.json) |
 | ToHeart | 303230 | [303230-toheart.json](./303230-toheart.json) |
+| Toilet in Wonderland | 25015 | [25015-toilet-in-wonderland.json](./25015-toilet-in-wonderland.json) |
 | Toilet Paper Simulator | 248890 | [248890-toilet-paper-simulator.json](./248890-toilet-paper-simulator.json) |
 | Tokimeki Memorial Girl's Side | 72670 | [72670-tokimeki-memorial-girls-side.json](./72670-tokimeki-memorial-girls-side.json) |
 | Tokimeki Memorial Girl's Side Triple Pack | 109045 | [109045-tokimeki-memorial-girls-side-triple-pack.json](./109045-tokimeki-memorial-girls-side-triple-pack.json) |
@@ -2278,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tournament of Tamers | 157168 | [157168-tournament-of-tamers.json](./157168-tournament-of-tamers.json) |
 | Tournament: Blood & Steel | 119051 | [119051-tournament-blood-and-steel.json](./119051-tournament-blood-and-steel.json) |
 | Toushin Toshi Girls Gift RPG | 175943 | [175943-toushin-toshi-girls-gift-rpg.json](./175943-toushin-toshi-girls-gift-rpg.json) |
+| Tover | 24994 | [24994-tover.json](./24994-tover.json) |
 | Tow Truck | 104635 | [104635-tow-truck.json](./104635-tow-truck.json) |
 | Towards the Stars | 150689 | [150689-towards-the-stars.json](./150689-towards-the-stars.json) |
 | Towel Required! | 223667 | [223667-towel-required.json](./223667-towel-required.json) |
@@ -2732,6 +2738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twelve Sky M | 221390 | [221390-twelve-sky-m.json](./221390-twelve-sky-m.json) |
 | Twelve Sky2 World | 325269 | [325269-twelve-sky2-world.json](./325269-twelve-sky2-world.json) |
 | Twenties Flappers vs. The Mummy | 269836 | [269836-twenties-flappers-vs-the-mummy.json](./269836-twenties-flappers-vs-the-mummy.json) |
+| Twerps | 24935 | [24935-twerps.json](./24935-twerps.json) |
 | Twilight Horizon | 314073 | [314073-twilight-horizon.json](./314073-twilight-horizon.json) |
 | Twilight Host Club | 298888 | [298888-twilight-host-club.json](./298888-twilight-host-club.json) |
 | Twilight Town: A Cyberpunk FPS | 260400 | [260400-twilight-town-a-cyberpunk-fps.json](./260400-twilight-town-a-cyberpunk-fps.json) |
