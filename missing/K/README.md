@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Kiss | 191905 | [191905-killing-kiss.json](./191905-killing-kiss.json) |
 | Killing Room | 25254 | [25254-killing-room.json](./25254-killing-room.json) |
 | Killing Time | 4334 | [4334-killing-time.json](./4334-killing-time.json) |
+| Killing Zone | 20596 | [20596-killing-zone.json](./20596-killing-zone.json) |
 | Killzone | 1865 | [1865-killzone.json](./1865-killzone.json) |
 | Kiloblaster | 79333 | [79333-kiloblaster.json](./79333-kiloblaster.json) |
 | Kim | 25225 | [25225-kim.json](./25225-kim.json) |
@@ -533,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krampus Quest | 76674 | [76674-krampus-quest.json](./76674-krampus-quest.json) |
 | Krashimals | 330558 | [330558-krashimals.json](./330558-krashimals.json) |
 | Kratoria | 187540 | [187540-kratoria.json](./187540-kratoria.json) |
+| Krazy Ivan | 20604 | [20604-krazy-ivan.json](./20604-krazy-ivan.json) |
 | Kreed | 95498 | [95498-kreed.json](./95498-kreed.json) |
 | Krell | 93032 | [93032-krell.json](./93032-krell.json) |
 | Kremling Krushin | 231605 | [231605-kremling-krushin.json](./231605-kremling-krushin.json) |
