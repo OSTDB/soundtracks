@@ -606,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny of an Emperor | 48064 | [48064-destiny-of-an-emperor.json](./48064-destiny-of-an-emperor.json) |
 | Destiny of Spirits | 42682 | [42682-destiny-of-spirits.json](./42682-destiny-of-spirits.json) |
 | Destiny of Thrones | 97322 | [97322-destiny-of-thrones.json](./97322-destiny-of-thrones.json) |
+| Destiny: The Dark Below | 19920 | [19920-destiny-the-dark-below.json](./19920-destiny-the-dark-below.json) |
 | Destiny's Sword | 117061 | [117061-destinys-sword.json](./117061-destinys-sword.json) |
 | Destroy Blocks | 296642 | [296642-destroy-blocks.json](./296642-destroy-blocks.json) |
 | Destroy the Cubes | 156133 | [156133-destroy-the-cubes.json](./156133-destroy-the-cubes.json) |
@@ -729,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Story: Lost Evolution | 67307 | [67307-digimon-story-lost-evolution.json](./67307-digimon-story-lost-evolution.json) |
 | Digimon Super Rumble | 202964 | [202964-digimon-super-rumble.json](./202964-digimon-super-rumble.json) |
 | Digimon World | 8614 | [8614-digimon-world.json](./8614-digimon-world.json) |
+| Digimon World DS | 20609 | [20609-digimon-world-ds.json](./20609-digimon-world-ds.json) |
 | Digital Audio Wasteland | 297818 | [297818-digital-audio-wasteland.json](./297818-digital-audio-wasteland.json) |
 | Digital Bird Playground | 124255 | [124255-digital-bird-playground.json](./124255-digital-bird-playground.json) |
 | Digital Circus Shooter | 276482 | [276482-digital-circus-shooter.json](./276482-digital-circus-shooter.json) |
@@ -750,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Dash 2: Restaurant Rescue | 78690 | [78690-diner-dash-2-restaurant-rescue.json](./78690-diner-dash-2-restaurant-rescue.json) |
 | Diner Dash Mobile | 104663 | [104663-diner-dash-mobile.json](./104663-diner-dash-mobile.json) |
 | DingDingDing | 109719 | [109719-dingdingding.json](./109719-dingdingding.json) |
+| Dinkum | 120322 | [120322-dinkum.json](./120322-dinkum.json) |
 | Dinky Guardians | 244516 | [244516-dinky-guardians.json](./244516-dinky-guardians.json) |
 | Dinky Rinky | 231610 | [231610-dinky-rinky.json](./231610-dinky-rinky.json) |
 | Dinner Bell | 60005 | [60005-dinner-bell.json](./60005-dinner-bell.json) |
@@ -1185,6 +1188,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Age: Origins - The Stone Prisoner | 17462 | [17462-dragon-age-origins-the-stone-prisoner.json](./17462-dragon-age-origins-the-stone-prisoner.json) |
 | Dragon Ball 3: Goku-den | 48679 | [48679-dragon-ball-3-goku-den.json](./48679-dragon-ball-3-goku-den.json) |
 | Dragon Ball FighterZ | 36911 | [36911-dragon-ball-fighterz.json](./36911-dragon-ball-fighterz.json) |
+| Dragon Ball Fusions | 19314 | [19314-dragon-ball-fusions.json](./19314-dragon-ball-fusions.json) |
+| Dragon Ball Legends | 95014 | [95014-dragon-ball-legends.json](./95014-dragon-ball-legends.json) |
 | Dragon Ball Xenoverse 2: Lite Version | 116372 | [116372-dragon-ball-xenoverse-2-lite-version.json](./116372-dragon-ball-xenoverse-2-lite-version.json) |
 | Dragon Ball Z II: Gekishin Frieza!! | 48682 | [48682-dragon-ball-z-ii-gekishin-frieza.json](./48682-dragon-ball-z-ii-gekishin-frieza.json) |
 | Dragon Ball Z III: Ressen Jinzou Ningen | 48680 | [48680-dragon-ball-z-iii-ressen-jinzou-ningen.json](./48680-dragon-ball-z-iii-ressen-jinzou-ningen.json) |
@@ -1328,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamscape Abyss | 258732 | [258732-dreamscape-abyss.json](./258732-dreamscape-abyss.json) |
 | Dreamscape Highschool | 337452 | [337452-dreamscape-highschool.json](./337452-dreamscape-highschool.json) |
 | Dreamscape Highschool: After Stories | 337451 | [337451-dreamscape-highschool-after-stories.json](./337451-dreamscape-highschool-after-stories.json) |
+| Dreamscaper | 116166 | [116166-dreamscaper.json](./116166-dreamscaper.json) |
 | Dreamspring | 333372 | [333372-dreamspring.json](./333372-dreamspring.json) |
 | Dreamtale | 178656 | [178656-dreamtale.json](./178656-dreamtale.json) |
 | Dreamwater | 252385 | [252385-dreamwater.json](./252385-dreamwater.json) |
@@ -1427,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dueling Dragons | 183566 | [183566-dueling-dragons.json](./183566-dueling-dragons.json) |
 | Duendes in New Year | 315252 | [315252-duendes-in-new-year.json](./315252-duendes-in-new-year.json) |
 | Duendes in New Year 2 | 315254 | [315254-duendes-in-new-year-2.json](./315254-duendes-in-new-year-2.json) |
+| Duet | 17219 | [17219-duet.json](./17219-duet.json) |
 | Dufe: Masquerade | 179749 | [179749-dufe-masquerade.json](./179749-dufe-masquerade.json) |
 | Dukai | 271984 | [271984-dukai.json](./271984-dukai.json) |
 | Duke Hard | 218118 | [218118-duke-hard.json](./218118-duke-hard.json) |
