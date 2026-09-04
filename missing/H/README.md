@@ -716,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 3 | 134595 | [134595-hitman-3.json](./134595-hitman-3.json) |
 | Hitman 3: Trinity Pack | 224225 | [224225-hitman-3-trinity-pack.json](./224225-hitman-3-trinity-pack.json) |
 | Hitman World of Assassination | 233571 | [233571-hitman-world-of-assassination.json](./233571-hitman-world-of-assassination.json) |
+| Hitman: Patient Zero | 76414 | [76414-hitman-patient-zero.json](./76414-hitman-patient-zero.json) |
 | Hitme | 178096 | [178096-hitme.json](./178096-hitme.json) |
 | Hitme 2 | 225273 | [225273-hitme-2.json](./225273-hitme-2.json) |
 | Hitori Kakurenbo | 150131 | [150131-hitori-kakurenbo.json](./150131-hitori-kakurenbo.json) |
@@ -822,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honor in Vengeance | 66108 | [66108-honor-in-vengeance.json](./66108-honor-in-vengeance.json) |
 | Honshougi: Naitou 9 Dan Shougi Hiden | 267667 | [267667-honshougi-naitou-9-dan-shougi-hiden.json](./267667-honshougi-naitou-9-dan-shougi-hiden.json) |
 | Honyarara Magic | 98446 | [98446-honyarara-magic.json](./98446-honyarara-magic.json) |
+| Hook | 78145 | [78145-hook.json](./78145-hook.json) |
 | Hook Line and Sniper | 319365 | [319365-hook-line-and-sniper.json](./319365-hook-line-and-sniper.json) |
 | Hook Worlds | 91941 | [91941-hook-worlds.json](./91941-hook-worlds.json) |
 | Hook, Line, and Spelunker | 214730 | [214730-hook-line-and-spelunker.json](./214730-hook-line-and-spelunker.json) |
