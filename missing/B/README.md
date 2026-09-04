@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Banger | 253039 | [253039-beat-banger.json](./253039-beat-banger.json) |
 | Beat Blitz | 217028 | [217028-beat-blitz.json](./217028-beat-blitz.json) |
 | Beat Bros | 52633 | [52633-beat-bros.json](./52633-beat-bros.json) |
+| Beat Cop | 18860 | [18860-beat-cop.json](./18860-beat-cop.json) |
 | Beat Hopper | 96049 | [96049-beat-hopper.json](./96049-beat-hopper.json) |
 | Beat or Die: The MiniGames | 127368 | [127368-beat-or-die-the-minigames.json](./127368-beat-or-die-the-minigames.json) |
 | Beat Refle | 209689 | [209689-beat-refle.json](./209689-beat-refle.json) |
@@ -868,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue Cross Tag Battle: Additional Color Set 2 | 332825 | [332825-blazblue-cross-tag-battle-additional-color-set-2.json](./332825-blazblue-cross-tag-battle-additional-color-set-2.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 3 | 332826 | [332826-blazblue-cross-tag-battle-additional-color-set-3.json](./332826-blazblue-cross-tag-battle-additional-color-set-3.json) |
 | BlazBlue: Calamity Trigger Portable | 46018 | [46018-blazblue-calamity-trigger-portable.json](./46018-blazblue-calamity-trigger-portable.json) |
+| BlazBlue: Cross Tag Battle | 51448 | [51448-blazblue-cross-tag-battle.json](./51448-blazblue-cross-tag-battle.json) |
 | BlazBlue: Cross Tag Battle - Additional Character Pack Vol.1 to Vol.7 | 238224 | [238224-blazblue-cross-tag-battle-additional-character-pack-vol-1-to-vol-7.json](./238224-blazblue-cross-tag-battle-additional-character-pack-vol-1-to-vol-7.json) |
 | BlazBlue: Cross Tag Battle - Ver 2.0 Expansion Pack | 167318 | [167318-blazblue-cross-tag-battle-ver-2-0-expansion-pack.json](./167318-blazblue-cross-tag-battle-ver-2-0-expansion-pack.json) |
 | Blaze and Blade: Eternal Quest | 18249 | [18249-blaze-and-blade-eternal-quest.json](./18249-blaze-and-blade-eternal-quest.json) |
