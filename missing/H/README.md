@@ -549,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hibernation Day | 247772 | [247772-hibernation-day.json](./247772-hibernation-day.json) |
 | Hibow | 158210 | [158210-hibow.json](./158210-hibow.json) |
 | Hidalgo | 314641 | [314641-hidalgo.json](./314641-hidalgo.json) |
+| Hidden & Dangerous: Devil's Bridge | 108 | [108-hidden-and-dangerous-devils-bridge.json](./108-hidden-and-dangerous-devils-bridge.json) |
 | Hidden Art: Twilight in The Museum | 294435 | [294435-hidden-art-twilight-in-the-museum.json](./294435-hidden-art-twilight-in-the-museum.json) |
 | Hidden Capybaras with Orange in the Whimsical Library | 321138 | [321138-hidden-capybaras-with-orange-in-the-whimsical-library.json](./321138-hidden-capybaras-with-orange-in-the-whimsical-library.json) |
 | Hidden Cats | 183564 | [183564-hidden-cats.json](./183564-hidden-cats.json) |
