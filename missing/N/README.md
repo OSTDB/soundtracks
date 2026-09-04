@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromancer's Gift | 173317 | [173317-necromancers-gift.json](./173317-necromancers-gift.json) |
 | Necropolis Nights | 332849 | [332849-necropolis-nights.json](./332849-necropolis-nights.json) |
 | Necropolis of the Angels | 214187 | [214187-necropolis-of-the-angels.json](./214187-necropolis-of-the-angels.json) |
+| Necropolis: Brutal Edition | 25337 | [25337-necropolis-brutal-edition.json](./25337-necropolis-brutal-edition.json) |
 | Nectar Wars | 260987 | [260987-nectar-wars.json](./260987-nectar-wars.json) |
 | Nectaris | 42030 | [42030-nectaris.json](./42030-nectaris.json) |
 | Ned | 67288 | [67288-ned.json](./67288-ned.json) |
@@ -227,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekopara Vol. 3 | 29271 | [29271-nekopara-vol-3.json](./29271-nekopara-vol-3.json) |
 | Nelda Nockbladder's Anatomy Lesson | 73284 | [73284-nelda-nockbladders-anatomy-lesson.json](./73284-nelda-nockbladders-anatomy-lesson.json) |
 | Nelly Cootalot: Spoonbeaks Ahoy! HD | 90001 | [90001-nelly-cootalot-spoonbeaks-ahoy-hd.json](./90001-nelly-cootalot-spoonbeaks-ahoy-hd.json) |
+| Nelo | 25534 | [25534-nelo.json](./25534-nelo.json) |
 | Nemac IV | 138259 | [138259-nemac-iv.json](./138259-nemac-iv.json) |
 | Nemesis | 210282 | [210282-nemesis.json](./210282-nemesis.json) |
 | Nemesis - RPG | 143084 | [143084-nemesis-rpg.json](./143084-nemesis-rpg.json) |
@@ -536,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ningen Maru | 178677 | [178677-ningen-maru.json](./178677-ningen-maru.json) |
 | Ningyou Tsukai | 41407 | [41407-ningyou-tsukai.json](./41407-ningyou-tsukai.json) |
 | Ninja Ball | 100192 | [100192-ninja-ball.json](./100192-ninja-ball.json) |
+| Ninja Battle Heroes | 24564 | [24564-ninja-battle-heroes.json](./24564-ninja-battle-heroes.json) |
 | Ninja Break | 203559 | [203559-ninja-break.json](./203559-ninja-break.json) |
 | Ninja Bullets | 25755 | [25755-ninja-bullets.json](./25755-ninja-bullets.json) |
 | Ninja Chicken 2 | 233763 | [233763-ninja-chicken-2.json](./233763-ninja-chicken-2.json) |
