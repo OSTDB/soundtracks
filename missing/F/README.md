@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-16 Renegade | 66706 | [66706-f-16-renegade.json](./66706-f-16-renegade.json) |
 | F-18 Thunder Strike | 49931 | [49931-f-18-thunder-strike.json](./49931-f-18-thunder-strike.json) |
 | F-Rank Hero Story | 186323 | [186323-f-rank-hero-story.json](./186323-f-rank-hero-story.json) |
+| F-Zero | 3490 | [3490-f-zero.json](./3490-f-zero.json) |
 | F-Zero X Climax | 135258 | [135258-f-zero-x-climax.json](./135258-f-zero-x-climax.json) |
 | F/A-18 Hornet 2.0 | 47295 | [47295-f-a-18-hornet-2-0.json](./47295-f-a-18-hornet-2-0.json) |
 | F1 Circus MD | 125458 | [125458-f1-circus-md.json](./125458-f1-circus-md.json) |
@@ -407,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy IV: Unprecedented Crisis | 215385 | [215385-final-fantasy-iv-unprecedented-crisis.json](./215385-final-fantasy-iv-unprecedented-crisis.json) |
 | Final Fantasy IX Remake | 309656 | [309656-final-fantasy-ix-remake.json](./309656-final-fantasy-ix-remake.json) |
 | Final Fantasy Redux | 219282 | [219282-final-fantasy-redux.json](./219282-final-fantasy-redux.json) |
+| Final Fantasy Tactics | 428 | [428-final-fantasy-tactics.json](./428-final-fantasy-tactics.json) |
 | Final Fantasy Tactics S | 63312 | [63312-final-fantasy-tactics-s.json](./63312-final-fantasy-tactics-s.json) |
 | Final Fantasy VI: A Soldier's Contingency | 312346 | [312346-final-fantasy-vi-a-soldiers-contingency.json](./312346-final-fantasy-vi-a-soldiers-contingency.json) |
 | Final Fantasy XIV Online | 386 | [386-final-fantasy-xiv-online.json](./386-final-fantasy-xiv-online.json) |
@@ -601,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashing Lights: Thunder Sport Sedan Pack (Police, Fire, EMS) | 277591 | [277591-flashing-lights-thunder-sport-sedan-pack-police-fire-ems.json](./277591-flashing-lights-thunder-sport-sedan-pack-police-fire-ems.json) |
 | Flat Zombies: Cleanup & Defense | 174890 | [174890-flat-zombies-cleanup-and-defense.json](./174890-flat-zombies-cleanup-and-defense.json) |
 | Flatland Vol.2 | 140612 | [140612-flatland-vol-2.json](./140612-flatland-vol-2.json) |
+| FlatOut | 2667 | [2667-flatout.json](./2667-flatout.json) |
 | Flavor Favor | 248905 | [248905-flavor-favor.json](./248905-flavor-favor.json) |
 | Flawless | 219790 | [219790-flawless.json](./219790-flawless.json) |
 | Flee or Be: Chapter One - Lurking Alone | 305535 | [305535-flee-or-be-chapter-one-lurking-alone.json](./305535-flee-or-be-chapter-one-lurking-alone.json) |
@@ -1075,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Pitch | 115685 | [115685-full-pitch.json](./115685-full-pitch.json) |
 | Full Strength Strongman Competition | 62202 | [62202-full-strength-strongman-competition.json](./62202-full-strength-strongman-competition.json) |
 | Full Swing Golf | 299472 | [299472-full-swing-golf.json](./299472-full-swing-golf.json) |
+| Full Throttle | 180 | [180-full-throttle.json](./180-full-throttle.json) |
 | Full Throttle: Hell on Wheels | 72722 | [72722-full-throttle-hell-on-wheels.json](./72722-full-throttle-hell-on-wheels.json) |
 | Full Voice Throttle | 181352 | [181352-full-voice-throttle.json](./181352-full-voice-throttle.json) |
 | Fullmetal Alchemist: To the Promised Day | 62757 | [62757-fullmetal-alchemist-to-the-promised-day.json](./62757-fullmetal-alchemist-to-the-promised-day.json) |
