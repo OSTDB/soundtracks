@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo 3: Legendary Edition | 43955 | [43955-halo-3-legendary-edition.json](./43955-halo-3-legendary-edition.json) |
 | Halo 4: King of the Hill Fueled by Mountain Dew | 77343 | [77343-halo-4-king-of-the-hill-fueled-by-mountain-dew.json](./77343-halo-4-king-of-the-hill-fueled-by-mountain-dew.json) |
 | Halo Roll | 108485 | [108485-halo-roll.json](./108485-halo-roll.json) |
+| Halo Wars 2: Ultimate Edition | 27765 | [27765-halo-wars-2-ultimate-edition.json](./27765-halo-wars-2-ultimate-edition.json) |
 | Halo Wars: Limited Edition | 43956 | [43956-halo-wars-limited-edition.json](./43956-halo-wars-limited-edition.json) |
 | Halo: Combat Devolved | 243401 | [243401-halo-combat-devolved.json](./243401-halo-combat-devolved.json) |
 | Halo: Combat Evolved - E3 2000 Demo | 326970 | [326970-halo-combat-evolved-e3-2000-demo.json](./326970-halo-combat-evolved-e3-2000-demo.json) |
@@ -302,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartreasure 2: Underground | 175946 | [175946-heartreasure-2-underground.json](./175946-heartreasure-2-underground.json) |
 | Heartrender | 258725 | [258725-heartrender.json](./258725-heartrender.json) |
 | Hearts & Hexes | 191906 | [191906-hearts-and-hexes.json](./191906-hearts-and-hexes.json) |
+| Hearts of Iron 2 Complete | 27833 | [27833-hearts-of-iron-2-complete.json](./27833-hearts-of-iron-2-complete.json) |
 | Hearts of Iron IV: Allied Armor Pack | 165012 | [165012-hearts-of-iron-iv-allied-armor-pack.json](./165012-hearts-of-iron-iv-allied-armor-pack.json) |
 | Hearts of Iron IV: By Blood Alone | 206963 | [206963-hearts-of-iron-iv-by-blood-alone.json](./206963-hearts-of-iron-iv-by-blood-alone.json) |
 | Hearts of Iron IV: Content Creator Pack - Soviet Union 2D Art | 316394 | [316394-hearts-of-iron-iv-content-creator-pack-soviet-union-2d-art.json](./316394-hearts-of-iron-iv-content-creator-pack-soviet-union-2d-art.json) |
