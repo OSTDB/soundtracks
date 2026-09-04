@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac Maze | 312907 | [312907-pac-maze.json](./312907-pac-maze.json) |
 | Pac-Boy & Mouse | 86097 | [86097-pac-boy-and-mouse.json](./86097-pac-boy-and-mouse.json) |
 | Pac-Man | 88904 | [88904-pac-man.json](./88904-pac-man.json) |
+| Pac-Man & Galaga Dimensions | 6861 | [6861-pac-man-and-galaga-dimensions.json](./6861-pac-man-and-galaga-dimensions.json) |
 | Pac-Man 256 | 14701 | [14701-pac-man-256.json](./14701-pac-man-256.json) |
 | Pac-Man and the Ghostly Adventures | 19940 | [19940-pac-man-and-the-ghostly-adventures.json](./19940-pac-man-and-the-ghostly-adventures.json) |
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
@@ -1061,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopSlinger vol. 2: Loveless | 319397 | [319397-popslinger-vol-2-loveless.json](./319397-popslinger-vol-2-loveless.json) |
 | Poptropica Worlds | 103523 | [103523-poptropica-worlds.json](./103523-poptropica-worlds.json) |
 | Populous & The Promised Lands | 137074 | [137074-populous-and-the-promised-lands.json](./137074-populous-and-the-promised-lands.json) |
+| Populous DS | 8898 | [8898-populous-ds.json](./8898-populous-ds.json) |
 | Porntris | 299467 | [299467-porntris.json](./299467-porntris.json) |
 | Porradaria Upgrade | 91973 | [91973-porradaria-upgrade.json](./91973-porradaria-upgrade.json) |
 | Porrasturvat: Stair Dismount | 93059 | [93059-porrasturvat-stair-dismount.json](./93059-porrasturvat-stair-dismount.json) |
@@ -1515,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzz Loop 2 | 39669 | [39669-puzz-loop-2.json](./39669-puzz-loop-2.json) |
 | Puzzl9 | 178650 | [178650-puzzl9.json](./178650-puzzl9.json) |
 | Puzzle & Action: Treasure Hunt | 123590 | [123590-puzzle-and-action-treasure-hunt.json](./123590-puzzle-and-action-treasure-hunt.json) |
+| Puzzle & Dragons | 8590 | [8590-puzzle-and-dragons.json](./8590-puzzle-and-dragons.json) |
 | Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition | 85357 | [85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json](./85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json) |
 | Puzzle Adventures | 251813 | [251813-puzzle-adventures.json](./251813-puzzle-adventures.json) |
 | Puzzle Arcade | 74420 | [74420-puzzle-arcade.json](./74420-puzzle-arcade.json) |
