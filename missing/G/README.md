@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometric Feel the Beats | 224206 | [224206-geometric-feel-the-beats.json](./224206-geometric-feel-the-beats.json) |
 | Geometric Sniper | 133424 | [133424-geometric-sniper.json](./133424-geometric-sniper.json) |
 | Geometric Sniper Z | 163944 | [163944-geometric-sniper-z.json](./163944-geometric-sniper-z.json) |
+| Geometry Rush | 102366 | [102366-geometry-rush.json](./102366-geometry-rush.json) |
 | Geon Cube | 50636 | [50636-geon-cube.json](./50636-geon-cube.json) |
 | Geopolitique 1990 | 24915 | [24915-geopolitique-1990.json](./24915-geopolitique-1990.json) |
 | George of the Jungle and the Search for the Secret | 259265 | [259265-george-of-the-jungle-and-the-search-for-the-secret.json](./259265-george-of-the-jungle-and-the-search-for-the-secret.json) |
@@ -478,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Light | 54471 | [54471-gnome-light.json](./54471-gnome-light.json) |
 | Gnome Nations | 106595 | [106595-gnome-nations.json](./106595-gnome-nations.json) |
 | Gnomes | 37182 | [37182-gnomes.json](./37182-gnomes.json) |
+| Gnomes Garden Lost King | 102882 | [102882-gnomes-garden-lost-king.json](./102882-gnomes-garden-lost-king.json) |
 | Gnomes Garden: Halloween | 110372 | [110372-gnomes-garden-halloween.json](./110372-gnomes-garden-halloween.json) |
 | Gnomonic | 219797 | [219797-gnomonic.json](./219797-gnomonic.json) |
 | Gnosis | 201292 | [201292-gnosis.json](./201292-gnosis.json) |
@@ -1012,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunless | 84262 | [84262-gunless.json](./84262-gunless.json) |
 | Gunlok | 25008 | [25008-gunlok.json](./25008-gunlok.json) |
 | Gunma's Ambition: You and me are Gunma | 146925 | [146925-gunmas-ambition-you-and-me-are-gunma.json](./146925-gunmas-ambition-you-and-me-are-gunma.json) |
+| Gunman Tales | 102450 | [102450-gunman-tales.json](./102450-gunman-tales.json) |
 | GunMaster | 266491 | [266491-gunmaster.json](./266491-gunmaster.json) |
 | Gunner 3 | 259821 | [259821-gunner-3.json](./259821-gunner-3.json) |
 | GunnRunner | 117063 | [117063-gunnrunner.json](./117063-gunnrunner.json) |
