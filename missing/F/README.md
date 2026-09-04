@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fastival | 302123 | [302123-fastival.json](./302123-fastival.json) |
 | Fastlane Bowling | 152932 | [152932-fastlane-bowling.json](./152932-fastlane-bowling.json) |
 | Fat Man Fights | 158720 | [158720-fat-man-fights.json](./158720-fat-man-fights.json) |
+| Fat Man Sam | 13712 | [13712-fat-man-sam.json](./13712-fat-man-sam.json) |
 | Fat Slice 2 | 185653 | [185653-fat-slice-2.json](./185653-fat-slice-2.json) |
 | Fata morgana no Yakata: Collected Edition | 86081 | [86081-fata-morgana-no-yakata-collected-edition.json](./86081-fata-morgana-no-yakata-collected-edition.json) |
 | Fatal Abyss | 78676 | [78676-fatal-abyss.json](./78676-fatal-abyss.json) |
@@ -306,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feel the Fear Around | 310737 | [310737-feel-the-fear-around.json](./310737-feel-the-fear-around.json) |
 | Feet Sweeper | 244495 | [244495-feet-sweeper.json](./244495-feet-sweeper.json) |
 | Fei Tian | 86105 | [86105-fei-tian.json](./86105-fei-tian.json) |
+| Felix in the Factory | 13713 | [13713-felix-in-the-factory.json](./13713-felix-in-the-factory.json) |
 | Felix Jumpman | 29878 | [29878-felix-jumpman.json](./29878-felix-jumpman.json) |
 | Feltopia | 325282 | [325282-feltopia.json](./325282-feltopia.json) |
 | Femboy Bangers 2 | 219295 | [219295-femboy-bangers-2.json](./219295-femboy-bangers-2.json) |
@@ -473,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Sale | 165694 | [165694-fire-sale.json](./165694-fire-sale.json) |
 | Fire Woman: Matoi Gumi | 45958 | [45958-fire-woman-matoi-gumi.json](./45958-fire-woman-matoi-gumi.json) |
 | Fireball Classic | 91446 | [91446-fireball-classic.json](./91446-fireball-classic.json) |
+| Firebug | 13714 | [13714-firebug.json](./13714-firebug.json) |
 | Firefight | 121746 | [121746-firefight.json](./121746-firefight.json) |
 | Firefighter Connor | 266524 | [266524-firefighter-connor.json](./266524-firefighter-connor.json) |
 | Firefly | 55209 | [55209-firefly.json](./55209-firefly.json) |
@@ -825,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Minty Legends Pack | 221948 | [221948-fortnite-minty-legends-pack.json](./221948-fortnite-minty-legends-pack.json) |
 | Fortnite: Storm-Wild Raven Starter Pack | 331701 | [331701-fortnite-storm-wild-raven-starter-pack.json](./331701-fortnite-storm-wild-raven-starter-pack.json) |
 | FortOfTheNight | 105341 | [105341-fortofthenight.json](./105341-fortofthenight.json) |
+| Fortress | 13715 | [13715-fortress.json](./13715-fortress.json) |
 | Fortress | 313492 | [313492-fortress.json](./313492-fortress.json) |
 | Fortress 2 Blue | 340237 | [340237-fortress-2-blue.json](./340237-fortress-2-blue.json) |
 | FortressCraft Evolved!: Frozen Factory | 167319 | [167319-fortresscraft-evolved-frozen-factory.json](./167319-fortresscraft-evolved-frozen-factory.json) |
@@ -910,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Bees | 224245 | [224245-free-bees.json](./224245-free-bees.json) |
 | Free Chess: Cheese Set | 305534 | [305534-free-chess-cheese-set.json](./305534-free-chess-cheese-set.json) |
 | Free Dunk | 339087 | [339087-free-dunk.json](./339087-free-dunk.json) |
+| Free Fall | 13716 | [13716-free-fall.json](./13716-free-fall.json) |
 | Free Fall | 321756 | [321756-free-fall.json](./321756-free-fall.json) |
 | Free for Fall | 192970 | [192970-free-for-fall.json](./192970-free-for-fall.json) |
 | Free Ninja | 317635 | [317635-free-ninja.json](./317635-free-ninja.json) |
@@ -934,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freewheelin | 253023 | [253023-freewheelin.json](./253023-freewheelin.json) |
 | Freeze: The Escape | 79902 | [79902-freeze-the-escape.json](./79902-freeze-the-escape.json) |
 | Frenzic: Overtime | 152926 | [152926-frenzic-overtime.json](./152926-frenzic-overtime.json) |
+| Frenzy | 13717 | [13717-frenzy.json](./13717-frenzy.json) |
 | Frequency Dissonance | 199120 | [199120-frequency-dissonance.json](./199120-frequency-dissonance.json) |
 | Freya's Potion Shop | 157702 | [157702-freyas-potion-shop.json](./157702-freyas-potion-shop.json) |
 | Freyr's Love | 165024 | [165024-freyrs-love.json](./165024-freyrs-love.json) |
@@ -1147,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Ludo | 174370 | [174370-future-ludo.json](./174370-future-ludo.json) |
 | Future Racer 2000 | 248909 | [248909-future-racer-2000.json](./248909-future-racer-2000.json) |
 | Future Sense | 242202 | [242202-future-sense.json](./242202-future-sense.json) |
+| Future Shock | 13718 | [13718-future-shock.json](./13718-future-shock.json) |
 | Future Tanks Area | 193507 | [193507-future-tanks-area.json](./193507-future-tanks-area.json) |
 | Future Theater | 251842 | [251842-future-theater.json](./251842-future-theater.json) |
 | Fuu3's Fuun Journey | 265927 | [265927-fuu3s-fuun-journey.json](./265927-fuu3s-fuun-journey.json) |
