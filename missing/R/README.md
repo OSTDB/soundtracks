@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type Final 3 Evolved | 225779 | [225779-r-type-final-3-evolved.json](./225779-r-type-final-3-evolved.json) |
 | R-Type II | 276500 | [276500-r-type-ii.json](./276500-r-type-ii.json) |
 | R.B.I. Baseball 2 | 48090 | [48090-r-b-i-baseball-2.json](./48090-r-b-i-baseball-2.json) |
+| R.B.I. Baseball 20 | 126188 | [126188-r-b-i-baseball-20.json](./126188-r-b-i-baseball-20.json) |
 | R.C. Bot Inc. | 33097 | [33097-r-c-bot-inc.json](./33097-r-c-bot-inc.json) |
 | R.I.C.A | 115013 | [115013-r-i-c-a.json](./115013-r-i-c-a.json) |
 | R.I.S.K. | 55184 | [55184-r-i-s-k.json](./55184-r-i-s-k.json) |
@@ -98,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroads Online: Pioneer DLC | 332799 | [332799-railroads-online-pioneer-dlc.json](./332799-railroads-online-pioneer-dlc.json) |
 | Railway Chai Wala | 341313 | [341313-railway-chai-wala.json](./341313-railway-chai-wala.json) |
 | Railway Empire: Great Britain & Ireland | 124808 | [124808-railway-empire-great-britain-and-ireland.json](./124808-railway-empire-great-britain-and-ireland.json) |
+| Railway Empire: Nintendo Switch Edition | 126484 | [126484-railway-empire-nintendo-switch-edition.json](./126484-railway-empire-nintendo-switch-edition.json) |
 | Railway Empire: The Great Lakes | 124834 | [124834-railway-empire-the-great-lakes.json](./124834-railway-empire-the-great-lakes.json) |
 | Railway Islands 2 | 270942 | [270942-railway-islands-2.json](./270942-railway-islands-2.json) |
 | Railworks 3: Train Simulator 2012 - Bristol to Avonmouth | 136479 | [136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json](./136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json) |
@@ -128,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainy attic room | 143090 | [143090-rainy-attic-room.json](./143090-rainy-attic-room.json) |
 | Rainy Butcher | 211937 | [211937-rainy-butcher.json](./211937-rainy-butcher.json) |
 | Rainy Day | 341312 | [341312-rainy-day.json](./341312-rainy-day.json) |
+| Raiohgar: Asuka and the King of Steel | 126816 | [126816-raiohgar-asuka-and-the-king-of-steel.json](./126816-raiohgar-asuka-and-the-king-of-steel.json) |
 | Raios Funde | 245012 | [245012-raios-funde.json](./245012-raios-funde.json) |
 | Raishi | 222500 | [222500-raishi.json](./222500-raishi.json) |
 | RaKoval~Nya: Escape Edition | 102164 | [102164-rakoval-nya-escape-edition.json](./102164-rakoval-nya-escape-edition.json) |
@@ -221,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Gold | 61096 | [61096-rayman-gold.json](./61096-rayman-gold.json) |
 | Rayman Golf | 61094 | [61094-rayman-golf.json](./61094-rayman-golf.json) |
 | Rayman Kart | 61091 | [61091-rayman-kart.json](./61091-rayman-kart.json) |
+| Rayman Mini | 122560 | [122560-rayman-mini.json](./122560-rayman-mini.json) |
 | Rayman Raving Rabbids | 254520 | [254520-rayman-raving-rabbids.json](./254520-rayman-raving-rabbids.json) |
 | Rayman Rush | 86216 | [86216-rayman-rush.json](./86216-rayman-rush.json) |
 | Rayman the Fan Series Adventure | 331695 | [331695-rayman-the-fan-series-adventure.json](./331695-rayman-the-fan-series-adventure.json) |
@@ -523,6 +527,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | reProgram | 128633 | [128633-reprogram.json](./128633-reprogram.json) |
 | Reptillian Rebellion | 123610 | [123610-reptillian-rebellion.json](./123610-reptillian-rebellion.json) |
 | Repton Mania | 94257 | [94257-repton-mania.json](./94257-repton-mania.json) |
+| République: Episode 1- Exordium | 127126 | [127126-republique-episode-1-exordium.json](./127126-republique-episode-1-exordium.json) |
+| République: Episode 3 - Ones and Zeroes | 127128 | [127128-republique-episode-3-ones-and-zeroes.json](./127128-republique-episode-3-ones-and-zeroes.json) |
 | Repulse: Galactic Rivals | 75166 | [75166-repulse-galactic-rivals.json](./75166-repulse-galactic-rivals.json) |
 | Requie-mu | 292859 | [292859-requie-mu.json](./292859-requie-mu.json) |
 | Requiem Hurts | 22404 | [22404-requiem-hurts.json](./22404-requiem-hurts.json) |
