@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fake Block | 96711 | [96711-fake-block.json](./96711-fake-block.json) |
 | Fake Ducks: Spooky Chronicles | 322398 | [322398-fake-ducks-spooky-chronicles.json](./322398-fake-ducks-spooky-chronicles.json) |
 | Fake Future | 249482 | [249482-fake-future.json](./249482-fake-future.json) |
+| Fake Happy End | 29922 | [29922-fake-happy-end.json](./29922-fake-happy-end.json) |
 | Falcão & a cornopopéia brasileira | 245041 | [245041-falcao-and-a-cornopopeia-brasileira.json](./245041-falcao-and-a-cornopopeia-brasileira.json) |
 | Falcata | 125459 | [125459-falcata.json](./125459-falcata.json) |
 | Falcon 3.0: Hornet - Naval Strike Fighter | 78024 | [78024-falcon-3-0-hornet-naval-strike-fighter.json](./78024-falcon-3-0-hornet-naval-strike-fighter.json) |
@@ -186,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farafalla | 225285 | [225285-farafalla.json](./225285-farafalla.json) |
 | Faraway | 325275 | [325275-faraway.json](./325275-faraway.json) |
 | Faraway 4: Ancient Escape | 115052 | [115052-faraway-4-ancient-escape.json](./115052-faraway-4-ancient-escape.json) |
+| Faraway Islands | 29885 | [29885-faraway-islands.json](./29885-faraway-islands.json) |
 | Fare Thee Well | 96730 | [96730-fare-thee-well.json](./96730-fare-thee-well.json) |
 | Farethere City | 75151 | [75151-farethere-city.json](./75151-farethere-city.json) |
 | Farewell | 252987 | [252987-farewell.json](./252987-farewell.json) |
@@ -301,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feel the Fear Around | 310737 | [310737-feel-the-fear-around.json](./310737-feel-the-fear-around.json) |
 | Feet Sweeper | 244495 | [244495-feet-sweeper.json](./244495-feet-sweeper.json) |
 | Fei Tian | 86105 | [86105-fei-tian.json](./86105-fei-tian.json) |
+| Felix Jumpman | 29878 | [29878-felix-jumpman.json](./29878-felix-jumpman.json) |
 | Feltopia | 325282 | [325282-feltopia.json](./325282-feltopia.json) |
 | Femboy Bangers 2 | 219295 | [219295-femboy-bangers-2.json](./219295-femboy-bangers-2.json) |
 | Femboys of the Phalanx | 171068 | [171068-femboys-of-the-phalanx.json](./171068-femboys-of-the-phalanx.json) |
@@ -387,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final 5: Survival! | 234332 | [234332-final-5-survival.json](./234332-final-5-survival.json) |
 | Final Armada | 43297 | [43297-final-armada.json](./43297-final-armada.json) |
 | Final Blockade | 203567 | [203567-final-blockade.json](./203567-final-blockade.json) |
+| Final Bravely | 29899 | [29899-final-bravely.json](./29899-final-bravely.json) |
 | Final Factory | 236524 | [236524-final-factory.json](./236524-final-factory.json) |
 | Final Failure | 93629 | [93629-final-failure.json](./93629-final-failure.json) |
 | Final Fantasy IV: Ultima | 215388 | [215388-final-fantasy-iv-ultima.json](./215388-final-fantasy-iv-ultima.json) |
@@ -406,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Sword: Definitive Edition | 147999 | [147999-final-sword-definitive-edition.json](./147999-final-sword-definitive-edition.json) |
 | Final Sword: Mobile Edition | 205824 | [205824-final-sword-mobile-edition.json](./205824-final-sword-mobile-edition.json) |
 | Final Tank | 316405 | [316405-final-tank.json](./316405-final-tank.json) |
+| Final Theosis | 29882 | [29882-final-theosis.json](./29882-final-theosis.json) |
 | Final Three Kingdoms 2 | 242236 | [242236-final-three-kingdoms-2.json](./242236-final-three-kingdoms-2.json) |
 | Final World | 90646 | [90646-final-world.json](./90646-final-world.json) |
 | Finch | 304902 | [304902-finch.json](./304902-finch.json) |
@@ -528,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Boxing Fist of the North Star | 217551 | [217551-fitness-boxing-fist-of-the-north-star.json](./217551-fitness-boxing-fist-of-the-north-star.json) |
 | Fittest | 100167 | [100167-fittest.json](./100167-fittest.json) |
 | Five Day Great Escape | 114399 | [114399-five-day-great-escape.json](./114399-five-day-great-escape.json) |
+| Five Elements | 29861 | [29861-five-elements.json](./29861-five-elements.json) |
 | Five Elements: Ghosts Delivery | 296645 | [296645-five-elements-ghosts-delivery.json](./296645-five-elements-ghosts-delivery.json) |
 | Five Fold Tower | 311819 | [311819-five-fold-tower.json](./311819-five-fold-tower.json) |
 | Five Letter Words | 104115 | [104115-five-letter-words.json](./104115-five-letter-words.json) |
@@ -727,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Penalty | 234315 | [234315-football-penalty.json](./234315-football-penalty.json) |
 | Football Pitch Simulator | 326428 | [326428-football-pitch-simulator.json](./326428-football-pitch-simulator.json) |
 | Football Superstar 2 | 317008 | [317008-football-superstar-2.json](./317008-football-superstar-2.json) |
+| FootRock 2 | 29902 | [29902-footrock-2.json](./29902-footrock-2.json) |
 | For All the People I Love | 336894 | [336894-for-all-the-people-i-love.json](./336894-for-all-the-people-i-love.json) |
 | For Elise | 257070 | [257070-for-elise.json](./257070-for-elise.json) |
 | For Honor: Season 22 - Curse of the Scarab | 217523 | [217523-for-honor-season-22-curse-of-the-scarab.json](./217523-for-honor-season-22-curse-of-the-scarab.json) |
@@ -838,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FourFourTwo Touchline Passion | 68711 | [68711-fourfourtwo-touchline-passion.json](./68711-fourfourtwo-touchline-passion.json) |
 | Fourspell Survivors Online | 224247 | [224247-fourspell-survivors-online.json](./224247-fourspell-survivors-online.json) |
 | Fourthy | 129199 | [129199-fourthy.json](./129199-fourthy.json) |
+| Fovos VR | 29907 | [29907-fovos-vr.json](./29907-fovos-vr.json) |
 | Fox and Bunny | 117780 | [117780-fox-and-bunny.json](./117780-fox-and-bunny.json) |
 | Fox and Shadow | 320556 | [320556-fox-and-shadow.json](./320556-fox-and-shadow.json) |
 | Fox Detective | 97912 | [97912-fox-detective.json](./97912-fox-detective.json) |
