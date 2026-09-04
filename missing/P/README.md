@@ -146,6 +146,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Shakespeare: Loves Labor(s) Lost | 102158 | [102158-paper-shakespeare-loves-labor-s-lost.json](./102158-paper-shakespeare-loves-labor-s-lost.json) |
 | Paper Trail | 142561 | [142561-paper-trail.json](./142561-paper-trail.json) |
 | Paper Wars: Cannon Fodder Devastated | 88328 | [88328-paper-wars-cannon-fodder-devastated.json](./88328-paper-wars-cannon-fodder-devastated.json) |
+| Paperboy | 256079 | [256079-paperboy.json](./256079-paperboy.json) |
+| Paperboy | 256082 | [256082-paperboy.json](./256082-paperboy.json) |
 | Papercut Art Gallery-Growth | 297802 | [297802-papercut-art-gallery-growth.json](./297802-papercut-art-gallery-growth.json) |
 | Papercut Art Gallery: Nature | 292854 | [292854-papercut-art-gallery-nature.json](./292854-papercut-art-gallery-nature.json) |
 | Paperly: Paper Plane Adventure | 194040 | [194040-paperly-paper-plane-adventure.json](./194040-paperly-paper-plane-adventure.json) |
@@ -264,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PatchCon! Defend the Library | 202948 | [202948-patchcon-defend-the-library.json](./202948-patchcon-defend-the-library.json) |
 | Patchworkz!: X-maz! | 185696 | [185696-patchworkz-x-maz.json](./185696-patchworkz-x-maz.json) |
 | Patchworld | 316399 | [316399-patchworld.json](./316399-patchworld.json) |
+| Path of Achra | 222738 | [222738-path-of-achra.json](./222738-path-of-achra.json) |
 | Path of Destruction | 195773 | [195773-path-of-destruction.json](./195773-path-of-destruction.json) |
 | Path of Heaven | 278142 | [278142-path-of-heaven.json](./278142-path-of-heaven.json) |
 | Path of Hero. Story of Dartes | 310216 | [310216-path-of-hero-story-of-dartes.json](./310216-path-of-hero-story-of-dartes.json) |
@@ -509,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Point: Corrupted Horizons | 171628 | [171628-phoenix-point-corrupted-horizons.json](./171628-phoenix-point-corrupted-horizons.json) |
 | Phoenix Point: Festering Skies | 149592 | [149592-phoenix-point-festering-skies.json](./149592-phoenix-point-festering-skies.json) |
 | Phoenix Point: Legacy of the Ancients | 149585 | [149585-phoenix-point-legacy-of-the-ancients.json](./149585-phoenix-point-legacy-of-the-ancients.json) |
+| Phoenix Wright: Ace Attorney - Dual Destinies | 253012 | [253012-phoenix-wright-ace-attorney-dual-destinies.json](./253012-phoenix-wright-ace-attorney-dual-destinies.json) |
 | Phoenix Wright: Ace Attorney - Justice for All | 1427 | [1427-phoenix-wright-ace-attorney-justice-for-all.json](./1427-phoenix-wright-ace-attorney-justice-for-all.json) |
 | Phoenix Wright: Ace Attorney - Justice For All | 221286 | [221286-phoenix-wright-ace-attorney-justice-for-all.json](./221286-phoenix-wright-ace-attorney-justice-for-all.json) |
 | Phoenix Wright: Ace Attorney - Spirit of Justice | 253014 | [253014-phoenix-wright-ace-attorney-spirit-of-justice.json](./253014-phoenix-wright-ace-attorney-spirit-of-justice.json) |
@@ -705,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series Ninja Sneaking vs: Battle on the Couch | 264904 | [264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json](./264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json) |
 | Pixel Game Maker Series: Angel's Blood | 224205 | [224205-pixel-game-maker-series-angels-blood.json](./224205-pixel-game-maker-series-angels-blood.json) |
 | Pixel Game Maker Series: Isekai Quartet Adventure - Action Game | 152891 | [152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json](./152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json) |
+| Pixel Gun 3D: PC Edition | 261628 | [261628-pixel-gun-3d-pc-edition.json](./261628-pixel-gun-3d-pc-edition.json) |
 | Pixel Mage Quest RPG | 145050 | [145050-pixel-mage-quest-rpg.json](./145050-pixel-mage-quest-rpg.json) |
 | Pixel of War | 294424 | [294424-pixel-of-war.json](./294424-pixel-of-war.json) |
 | Pixel Origin | 104654 | [104654-pixel-origin.json](./104654-pixel-origin.json) |
@@ -1102,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Ball 2022 | 211954 | [211954-power-ball-2022.json](./211954-power-ball-2022.json) |
 | Power Chess | 79900 | [79900-power-chess.json](./79900-power-chess.json) |
 | Power Eleven | 42043 | [42043-power-eleven.json](./42043-power-eleven.json) |
+| Power Fantasy | 258465 | [258465-power-fantasy.json](./258465-power-fantasy.json) |
 | Power Hour | 11054 | [11054-power-hour.json](./11054-power-hour.json) |
 | Power On: Energy Flow | 292816 | [292816-power-on-energy-flow.json](./292816-power-on-energy-flow.json) |
 | Power Pete | 47272 | [47272-power-pete.json](./47272-power-pete.json) |
@@ -1442,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pump It Up: Exceed | 43313 | [43313-pump-it-up-exceed.json](./43313-pump-it-up-exceed.json) |
 | Pumped BMX Flow | 174894 | [174894-pumped-bmx-flow.json](./174894-pumped-bmx-flow.json) |
 | Pumpkin Delivery | 242234 | [242234-pumpkin-delivery.json](./242234-pumpkin-delivery.json) |
+| Pumpkin Panic | 257329 | [257329-pumpkin-panic.json](./257329-pumpkin-panic.json) |
 | PumPum | 159883 | [159883-pumpum.json](./159883-pumpum.json) |
 | PumPum: +5 Girls Pack | 204065 | [204065-pumpum-5-girls-pack.json](./204065-pumpum-5-girls-pack.json) |
 | Punch Ball Mario Bros. | 91994 | [91994-punch-ball-mario-bros.json](./91994-punch-ball-mario-bros.json) |
