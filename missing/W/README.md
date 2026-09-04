@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasabi Game | 245044 | [245044-wasabi-game.json](./245044-wasabi-game.json) |
 | Wash Card | 223705 | [223705-wash-card.json](./223705-wash-card.json) |
 | Wash Simulator: Clean Garage, House, Cars Business Tycoons - Extended Edition | 328818 | [328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json](./328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json) |
+| Wasted | 17925 | [17925-wasted.json](./17925-wasted.json) |
 | Wasted Glory | 276479 | [276479-wasted-glory.json](./276479-wasted-glory.json) |
 | Wasteland Billionaire | 221391 | [221391-wasteland-billionaire.json](./221391-wasteland-billionaire.json) |
 | Wastelander | 178100 | [178100-wastelander.json](./178100-wastelander.json) |
@@ -712,8 +713,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm Dungeon | 135878 | [135878-worm-dungeon.json](./135878-worm-dungeon.json) |
 | Worm Odyssey | 275914 | [275914-worm-odyssey.json](./275914-worm-odyssey.json) |
 | Wormatozoa | 190722 | [190722-wormatozoa.json](./190722-wormatozoa.json) |
+| Worms Crazy Golf | 15070 | [15070-worms-crazy-golf.json](./15070-worms-crazy-golf.json) |
 | Worms Forts 3D | 218730 | [218730-worms-forts-3d.json](./218730-worms-forts-3d.json) |
 | Worms Reloaded: Puzzle Pack | 163430 | [163430-worms-reloaded-puzzle-pack.json](./163430-worms-reloaded-puzzle-pack.json) |
+| Worms: Open Warfare 2 | 18314 | [18314-worms-open-warfare-2.json](./18314-worms-open-warfare-2.json) |
 | Worms: Reinforcements | 24938 | [24938-worms-reinforcements.json](./24938-worms-reinforcements.json) |
 | Wormswarm | 275344 | [275344-wormswarm.json](./275344-wormswarm.json) |
 | Wormwood | 274728 | [274728-wormwood.json](./274728-wormwood.json) |
