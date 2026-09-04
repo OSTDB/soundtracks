@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario: Sticker Star | 3350 | [3350-paper-mario-sticker-star.json](./3350-paper-mario-sticker-star.json) |
 | Paper Pilgrim | 140629 | [140629-paper-pilgrim.json](./140629-paper-pilgrim.json) |
 | Paper Shakespeare: Loves Labor(s) Lost | 102158 | [102158-paper-shakespeare-loves-labor-s-lost.json](./102158-paper-shakespeare-loves-labor-s-lost.json) |
+| Paper Trail | 142561 | [142561-paper-trail.json](./142561-paper-trail.json) |
 | Paper Wars: Cannon Fodder Devastated | 88328 | [88328-paper-wars-cannon-fodder-devastated.json](./88328-paper-wars-cannon-fodder-devastated.json) |
 | Papercut Art Gallery-Growth | 297802 | [297802-papercut-art-gallery-growth.json](./297802-papercut-art-gallery-growth.json) |
 | Papercut Art Gallery: Nature | 292854 | [292854-papercut-art-gallery-nature.json](./292854-papercut-art-gallery-nature.json) |
@@ -275,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathstorm | 71512 | [71512-pathstorm.json](./71512-pathstorm.json) |
 | Patlabor: Come Back Mini-Pato | 75899 | [75899-patlabor-come-back-mini-pato.json](./75899-patlabor-come-back-mini-pato.json) |
 | Patlabor: The Mobile Police | 75896 | [75896-patlabor-the-mobile-police.json](./75896-patlabor-the-mobile-police.json) |
+| Patrician III | 287 | [287-patrician-iii.json](./287-patrician-iii.json) |
 | Patriotika RPG: Shadow World | 298343 | [298343-patriotika-rpg-shadow-world.json](./298343-patriotika-rpg-shadow-world.json) |
 | Patron | 152393 | [152393-patron.json](./152393-patron.json) |
 | Pavor | 116378 | [116378-pavor.json](./116378-pavor.json) |
