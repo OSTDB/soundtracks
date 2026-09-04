@@ -615,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rex Blade: The Battle Begins | 209165 | [209165-rex-blade-the-battle-begins.json](./209165-rex-blade-the-battle-begins.json) |
 | Rex Ronan: Experimental Surgeon | 42651 | [42651-rex-ronan-experimental-surgeon.json](./42651-rex-ronan-experimental-surgeon.json) |
 | Rex! Your Interactive Pet Dinosaur | 313491 | [313491-rex-your-interactive-pet-dinosaur.json](./313491-rex-your-interactive-pet-dinosaur.json) |
+| Rez Infinite | 19746 | [19746-rez-infinite.json](./19746-rez-infinite.json) |
 | Rezel Cross | 64955 | [64955-rezel-cross.json](./64955-rezel-cross.json) |
 | RGB | 251216 | [251216-rgb.json](./251216-rgb.json) |
 | RGB Rush | 218173 | [218173-rgb-rush.json](./218173-rgb-rush.json) |
@@ -715,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripple | 198510 | [198510-ripple.json](./198510-ripple.json) |
 | Ripples | 239315 | [239315-ripples.json](./239315-ripples.json) |
 | Riptide | 291236 | [291236-riptide.json](./291236-riptide.json) |
+| Rise & Shine | 6732 | [6732-rise-and-shine.json](./6732-rise-and-shine.json) |
 | Rise Again | 248885 | [248885-rise-again.json](./248885-rise-again.json) |
 | Rise Of Anupet | 309644 | [309644-rise-of-anupet.json](./309644-rise-of-anupet.json) |
 | Rise of Cyber | 237628 | [237628-rise-of-cyber.json](./237628-rise-of-cyber.json) |
@@ -804,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboBall | 111681 | [111681-roboball.json](./111681-roboball.json) |
 | RoboCo | 121739 | [121739-roboco.json](./121739-roboco.json) |
 | RoboCop | 242810 | [242810-robocop.json](./242810-robocop.json) |
+| RoboCop | 6013 | [6013-robocop.json](./6013-robocop.json) |
 | Robodash | 257093 | [257093-robodash.json](./257093-robodash.json) |
 | RoboJep | 165691 | [165691-robojep.json](./165691-robojep.json) |
 | RoboMaze III: The Dome | 78029 | [78029-robomaze-iii-the-dome.json](./78029-robomaze-iii-the-dome.json) |
@@ -1137,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Tom Hanks Run | 307294 | [307294-run-tom-hanks-run.json](./307294-run-tom-hanks-run.json) |
 | Run! Run! Don't Die! | 329942 | [329942-run-run-dont-die.json](./329942-run-run-dont-die.json) |
 | Runa & the Chaikurú Legacy | 238734 | [238734-runa-and-the-chaikuru-legacy.json](./238734-runa-and-the-chaikuru-legacy.json) |
+| Runaway 2: The Dream of the Turtle | 13227 | [13227-runaway-2-the-dream-of-the-turtle.json](./13227-runaway-2-the-dream-of-the-turtle.json) |
 | Runaway Train | 252368 | [252368-runaway-train.json](./252368-runaway-train.json) |
 | Runaway VR | 54446 | [54446-runaway-vr.json](./54446-runaway-vr.json) |
 | Rune Caster | 75149 | [75149-rune-caster.json](./75149-rune-caster.json) |
