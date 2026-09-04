@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Task III | 55150 | [55150-task-iii.json](./55150-task-iii.json) |
 | Tasogare | 313493 | [313493-tasogare.json](./313493-tasogare.json) |
 | Tasty Love | 192453 | [192453-tasty-love.json](./192453-tasty-love.json) |
+| Tasty Planet: Back for Seconds | 33469 | [33469-tasty-planet-back-for-seconds.json](./33469-tasty-planet-back-for-seconds.json) |
 | Tasty Ramen | 176503 | [176503-tasty-ramen.json](./176503-tasty-ramen.json) |
 | Tasty Words - Free Word Games | 105973 | [105973-tasty-words-free-word-games.json](./105973-tasty-words-free-word-games.json) |
 | Tatari: Curse Road | 293382 | [293382-tatari-curse-road.json](./293382-tatari-curse-road.json) |
@@ -311,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Force 2 | 203535 | [203535-team-force-2.json](./203535-team-force-2.json) |
 | Team Fortress 2: Gold Rush | 335705 | [335705-team-fortress-2-gold-rush.json](./335705-team-fortress-2-gold-rush.json) |
 | Team Hogus: GHAMEMFAIFTH OTHIYLTIM | 185659 | [185659-team-hogus-ghamemfaifth-othiyltim.json](./185659-team-hogus-ghamemfaifth-othiyltim.json) |
+| Team Kirby Clash Deluxe | 28126 | [28126-team-kirby-clash-deluxe.json](./28126-team-kirby-clash-deluxe.json) |
 | Team Of Robbers | 117773 | [117773-team-of-robbers.json](./117773-team-of-robbers.json) |
 | Team Rise | 258219 | [258219-team-rise.json](./258219-team-rise.json) |
 | Team Xtreme: Operation Weather Disaster | 70983 | [70983-team-xtreme-operation-weather-disaster.json](./70983-team-xtreme-operation-weather-disaster.json) |
@@ -2401,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toss the Turtle | 131613 | [131613-toss-the-turtle.json](./131613-toss-the-turtle.json) |
 | Total Apocalypse | 273128 | [273128-total-apocalypse.json](./273128-total-apocalypse.json) |
 | Total Esports Action Manager | 117036 | [117036-total-esports-action-manager.json](./117036-total-esports-action-manager.json) |
+| Total Extreme Wrestling 2016 | 27681 | [27681-total-extreme-wrestling-2016.json](./27681-total-extreme-wrestling-2016.json) |
 | Total Upheaval | 250640 | [250640-total-upheaval.json](./250640-total-upheaval.json) |
 | Total War: Attila | 8200 | [8200-total-war-attila.json](./8200-total-war-attila.json) |
 | Total War: Rome II - Hannibal at the Gates Campaign Pack | 167824 | [167824-total-war-rome-ii-hannibal-at-the-gates-campaign-pack.json](./167824-total-war-rome-ii-hannibal-at-the-gates-campaign-pack.json) |
