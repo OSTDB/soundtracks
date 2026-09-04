@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether: Wizard Life | 235487 | [235487-aether-wizard-life.json](./235487-aether-wizard-life.json) |
 | Aethyr | 142476 | [142476-aethyr.json](./142476-aethyr.json) |
 | AEW: Fight Forever | 145216 | [145216-aew-fight-forever.json](./145216-aew-fight-forever.json) |
+| Affairs of the Court: Choice of Romance | 32355 | [32355-affairs-of-the-court-choice-of-romance.json](./32355-affairs-of-the-court-choice-of-romance.json) |
 | Affectus | 146347 | [146347-affectus.json](./146347-affectus.json) |
 | AFK Heroes | 194034 | [194034-afk-heroes.json](./194034-afk-heroes.json) |
 | AFK Summoner | 179206 | [179206-afk-summoner.json](./179206-afk-summoner.json) |
@@ -466,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires III: Definitive Edition - Knights of the Mediterranean | 202424 | [202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json](./202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json) |
 | Age of Empires III: Definitive Edition - The Complete History | 205251 | [205251-age-of-empires-iii-definitive-edition-the-complete-history.json](./205251-age-of-empires-iii-definitive-edition-the-complete-history.json) |
 | Age of Empires IV: Anniversary Edition | 221950 | [221950-age-of-empires-iv-anniversary-edition.json](./221950-age-of-empires-iv-anniversary-edition.json) |
+| Age of Gladiators | 33545 | [33545-age-of-gladiators.json](./33545-age-of-gladiators.json) |
 | Age of Goblins | 265403 | [265403-age-of-goblins.json](./265403-age-of-goblins.json) |
 | Age of Grit | 61074 | [61074-age-of-grit.json](./61074-age-of-grit.json) |
 | Age of Mythology: Tale of the Dragon | 13186 | [13186-age-of-mythology-tale-of-the-dragon.json](./13186-age-of-mythology-tale-of-the-dragon.json) |
@@ -596,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aker Fern | 143726 | [143726-aker-fern.json](./143726-aker-fern.json) |
 | Akiba's Beat | 19465 | [19465-akibas-beat.json](./19465-akibas-beat.json) |
 | Akiba's Trip: Undead & Undressed | 7268 | [7268-akibas-trip-undead-and-undressed.json](./7268-akibas-trip-undead-and-undressed.json) |
+| Akin | 32403 | [32403-akin.json](./32403-akin.json) |
 | Akita: King Pig Thinks Pink | 178098 | [178098-akita-king-pig-thinks-pink.json](./178098-akita-king-pig-thinks-pink.json) |
 | Akte Europa | 19584 | [19584-akte-europa.json](./19584-akte-europa.json) |
 | Akuarium | 147471 | [147471-akuarium.json](./147471-akuarium.json) |
@@ -790,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altered Anomalies | 322994 | [322994-altered-anomalies.json](./322994-altered-anomalies.json) |
 | Altered Beast | 202941 | [202941-altered-beast.json](./202941-altered-beast.json) |
 | AlterEgo City | 306643 | [306643-alterego-city.json](./306643-alterego-city.json) |
+| Alteric | 32358 | [32358-alteric.json](./32358-alteric.json) |
 | Alternate Worlds | 62768 | [62768-alternate-worlds.json](./62768-alternate-worlds.json) |
 | AlterVerse: Disruption | 70394 | [70394-alterverse-disruption.json](./70394-alterverse-disruption.json) |
 | AltLife | 331148 | [331148-altlife.json](./331148-altlife.json) |
@@ -949,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Wings | 102168 | [102168-angel-wings.json](./102168-angel-wings.json) |
 | Angel's Feather | 72737 | [72737-angels-feather.json](./72737-angels-feather.json) |
 | Angel's Feather: Kohaku no Hitomi | 44649 | [44649-angels-feather-kohaku-no-hitomi.json](./44649-angels-feather-kohaku-no-hitomi.json) |
+| Angeldust | 32892 | [32892-angeldust.json](./32892-angeldust.json) |
 | Angelian Trigger | 312331 | [312331-angelian-trigger.json](./312331-angelian-trigger.json) |
 | Angelic Vale | 202376 | [202376-angelic-vale.json](./202376-angelic-vale.json) |
 | Angelique Etoile | 72680 | [72680-angelique-etoile.json](./72680-angelique-etoile.json) |
