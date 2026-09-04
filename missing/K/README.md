@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Drop | 245052 | [245052-king-of-drop.json](./245052-king-of-drop.json) |
 | King of Fighters 2002: 3rd Strike of the Orochi | 205791 | [205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json](./205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json) |
 | King of Karts | 88306 | [88306-king-of-karts.json](./88306-king-of-karts.json) |
+| King of Spin VR | 31980 | [31980-king-of-spin-vr.json](./31980-king-of-spin-vr.json) |
 | King of the Dwarves: Underground City Builder | 185700 | [185700-king-of-the-dwarves-underground-city-builder.json](./185700-king-of-the-dwarves-underground-city-builder.json) |
 | King of the Mountain: Premium | 174324 | [174324-king-of-the-mountain-premium.json](./174324-king-of-the-mountain-premium.json) |
 | King of Unblock | 101524 | [101524-king-of-unblock.json](./101524-king-of-unblock.json) |
