@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saira | 67328 | [67328-saira.json](./67328-saira.json) |
 | Sáivu | 293889 | [293889-saivu.json](./293889-saivu.json) |
 | Sáivu | 293893 | [293893-saivu.json](./293893-saivu.json) |
+| Saiyuuki World 2: Tenjoukai no Majin | 19669 | [19669-saiyuuki-world-2-tenjoukai-no-majin.json](./19669-saiyuuki-world-2-tenjoukai-no-majin.json) |
 | Sakata Goro Kudan no Renju Kyoushitsu | 97859 | [97859-sakata-goro-kudan-no-renju-kyoushitsu.json](./97859-sakata-goro-kudan-no-renju-kyoushitsu.json) |
 | Sakatsuku: Pro Soccer Club wo Tsukurou! | 63298 | [63298-sakatsuku-pro-soccer-club-wo-tsukurou.json](./63298-sakatsuku-pro-soccer-club-wo-tsukurou.json) |
 | Saki: Achiga-Hen Episode of Side-A Portable | 135902 | [135902-saki-achiga-hen-episode-of-side-a-portable.json](./135902-saki-achiga-hen-episode-of-side-a-portable.json) |
@@ -897,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon Tatham's Portable Puzzle Collection | 135292 | [135292-simon-tathams-portable-puzzle-collection.json](./135292-simon-tathams-portable-puzzle-collection.json) |
 | Simon's Cat in Purrfect Pitch | 233208 | [233208-simons-cat-in-purrfect-pitch.json](./233208-simons-cat-in-purrfect-pitch.json) |
 | Simon's Journey | 71002 | [71002-simons-journey.json](./71002-simons-journey.json) |
+| Simple 1500 Series Vol. 11: The Pinball 3D | 19671 | [19671-simple-1500-series-vol-11-the-pinball-3d.json](./19671-simple-1500-series-vol-11-the-pinball-3d.json) |
 | Simple 1500 Series Vol. 42: The Igo 2 | 82129 | [82129-simple-1500-series-vol-42-the-igo-2.json](./82129-simple-1500-series-vol-42-the-igo-2.json) |
 | Simple 1500 Series Vol. 56: The Sniper | 57130 | [57130-simple-1500-series-vol-56-the-sniper.json](./57130-simple-1500-series-vol-56-the-sniper.json) |
 | Simple 2000 Series 2-in-1 Vol. 4: The Bushido & The Sniper 2 | 57131 | [57131-simple-2000-series-2-in-1-vol-4-the-bushido-and-the-sniper-2.json](./57131-simple-2000-series-2-in-1-vol-4-the-bushido-and-the-sniper-2.json) |
@@ -1277,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboarder MP | 247189 | [247189-snowboarder-mp.json](./247189-snowboarder-mp.json) |
 | Snowboarder XS | 325285 | [325285-snowboarder-xs.json](./325285-snowboarder-xs.json) |
 | Snowboarding | 152929 | [152929-snowboarding.json](./152929-snowboarding.json) |
+| Snowboarding | 19688 | [19688-snowboarding.json](./19688-snowboarding.json) |
 | Snowbrawll | 235461 | [235461-snowbrawll.json](./235461-snowbrawll.json) |
 | Snowcrash | 135876 | [135876-snowcrash.json](./135876-snowcrash.json) |
 | Snowdome | 260961 | [260961-snowdome.json](./260961-snowdome.json) |
@@ -1323,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Softnauts the Game | 23908 | [23908-softnauts-the-game.json](./23908-softnauts-the-game.json) |
 | Software Tycoon: Der Spielemanager | 243953 | [243953-software-tycoon-der-spielemanager.json](./243953-software-tycoon-der-spielemanager.json) |
 | Sojourn Through the Decade | 314056 | [314056-sojourn-through-the-decade.json](./314056-sojourn-through-the-decade.json) |
+| Sokoban | 19573 | [19573-sokoban.json](./19573-sokoban.json) |
 | Sokoban (Boxman) Classic | 171619 | [171619-sokoban-boxman-classic.json](./171619-sokoban-boxman-classic.json) |
 | Sokoban World | 308565 | [308565-sokoban-world.json](./308565-sokoban-world.json) |
 | Sokocat - Islands | 147449 | [147449-sokocat-islands.json](./147449-sokocat-islands.json) |
@@ -1989,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek Alien Domain: Incursion | 123597 | [123597-star-trek-alien-domain-incursion.json](./123597-star-trek-alien-domain-incursion.json) |
 | Star Trek Trexels II | 108463 | [108463-star-trek-trexels-ii.json](./108463-star-trek-trexels-ii.json) |
 | Star Trek: En Territoire Alien | 110351 | [110351-star-trek-en-territoire-alien.json](./110351-star-trek-en-territoire-alien.json) |
+| Star Trek: Klingon Academy | 19627 | [19627-star-trek-klingon-academy.json](./19627-star-trek-klingon-academy.json) |
 | Star Vortex | 154021 | [154021-star-vortex.json](./154021-star-vortex.json) |
 | Star Warrior | 94241 | [94241-star-warrior.json](./94241-star-warrior.json) |
 | Star Wars | 212479 | [212479-star-wars.json](./212479-star-wars.json) |
@@ -2474,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Collapse! Puzzle Gallery 3 | 201282 | [201282-super-collapse-puzzle-gallery-3.json](./201282-super-collapse-puzzle-gallery-3.json) |
 | Super Collapse! Puzzle Gallery 4 | 201283 | [201283-super-collapse-puzzle-gallery-4.json](./201283-super-collapse-puzzle-gallery-4.json) |
 | Super Collapse! Puzzle Gallery 5 | 201284 | [201284-super-collapse-puzzle-gallery-5.json](./201284-super-collapse-puzzle-gallery-5.json) |
+| Super Columns | 19690 | [19690-super-columns.json](./19690-super-columns.json) |
 | Super Contra | 217546 | [217546-super-contra.json](./217546-super-contra.json) |
 | Super Corners | 100776 | [100776-super-corners.json](./100776-super-corners.json) |
 | Super Cosplay War Ultra | 66117 | [66117-super-cosplay-war-ultra.json](./66117-super-cosplay-war-ultra.json) |
@@ -2945,6 +2951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syberia 3: The Complete Journey | 124797 | [124797-syberia-3-the-complete-journey.json](./124797-syberia-3-the-complete-journey.json) |
 | Syke | 295522 | [295522-syke.json](./295522-syke.json) |
 | Sylvan Disappearance | 260974 | [260974-sylvan-disappearance.json](./260974-sylvan-disappearance.json) |
+| Sylvan Tale | 19691 | [19691-sylvan-tale.json](./19691-sylvan-tale.json) |
 | Sylvie Lime | 230501 | [230501-sylvie-lime.json](./230501-sylvie-lime.json) |
 | Sylvie RPG: 7 Elf Apocalypse | 292830 | [292830-sylvie-rpg-7-elf-apocalypse.json](./292830-sylvie-rpg-7-elf-apocalypse.json) |
 | Sylvio and the Mountains Giants | 236536 | [236536-sylvio-and-the-mountains-giants.json](./236536-sylvio-and-the-mountains-giants.json) |
