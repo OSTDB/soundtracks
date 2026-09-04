@@ -683,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circolour | 107239 | [107239-circolour.json](./107239-circolour.json) |
 | Circuit City | 188676 | [188676-circuit-city.json](./188676-circuit-city.json) |
 | Circuit Puzzle | 270402 | [270402-circuit-puzzle.json](./270402-circuit-puzzle.json) |
+| Circuit Racer | 26656 | [26656-circuit-racer.json](./26656-circuit-racer.json) |
 | Circuit: Demolition Derby 2 | 82147 | [82147-circuit-demolition-derby-2.json](./82147-circuit-demolition-derby-2.json) |
 | Circuitous | 90658 | [90658-circuitous.json](./90658-circuitous.json) |
 | Circular | 169466 | [169466-circular.json](./169466-circular.json) |
@@ -1284,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Pairs | 105945 | [105945-crayon-pairs.json](./105945-crayon-pairs.json) |
 | Crayon Shin-Chan: Ora to Wanpaku Gokko dazo | 63314 | [63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json](./63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json) |
 | Crayon Shin-chan: Puzzle Daimaou no Nazo | 172768 | [172768-crayon-shin-chan-puzzle-daimaou-no-nazo.json](./172768-crayon-shin-chan-puzzle-daimaou-no-nazo.json) |
+| Crazy 8s Revamped | 26649 | [26649-crazy-8s-revamped.json](./26649-crazy-8s-revamped.json) |
 | Crazy Adventure Bundle | 231064 | [231064-crazy-adventure-bundle.json](./231064-crazy-adventure-bundle.json) |
 | Crazy Archery | 113696 | [113696-crazy-archery.json](./113696-crazy-archery.json) |
 | Crazy Car | 94263 | [94263-crazy-car.json](./94263-crazy-car.json) |
@@ -1411,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryohazard | 297815 | [297815-cryohazard.json](./297815-cryohazard.json) |
 | CryoNation | 278166 | [278166-cryonation.json](./278166-cryonation.json) |
 | Crypt of Dracula | 102808 | [102808-crypt-of-dracula.json](./102808-crypt-of-dracula.json) |
+| Crypt of the Necrodancer: Amplified | 26613 | [26613-crypt-of-the-necrodancer-amplified.json](./26613-crypt-of-the-necrodancer-amplified.json) |
 | Cryptic | 122425 | [122425-cryptic.json](./122425-cryptic.json) |
 | Cryptic Caverns | 173810 | [173810-cryptic-caverns.json](./173810-cryptic-caverns.json) |
 | Cryptid | 253569 | [253569-cryptid.json](./253569-cryptid.json) |
