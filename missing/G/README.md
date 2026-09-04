@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garin Game: Curse of Revival Ceremony | 214747 | [214747-garin-game-curse-of-revival-ceremony.json](./214747-garin-game-curse-of-revival-ceremony.json) |
 | Garn47 | 300792 | [300792-garn47.json](./300792-garn47.json) |
 | Garnet Cradle | 221412 | [221412-garnet-cradle.json](./221412-garnet-cradle.json) |
+| Garshasp: The Monster Slayer | 3279 | [3279-garshasp-the-monster-slayer.json](./3279-garshasp-the-monster-slayer.json) |
 | Garten of Banban 0 | 320854 | [320854-garten-of-banban-0.json](./320854-garten-of-banban-0.json) |
 | Gartic on Stream | 185152 | [185152-gartic-on-stream.json](./185152-gartic-on-stream.json) |
 | Garukilla | 92508 | [92508-garukilla.json](./92508-garukilla.json) |
@@ -705,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Tactician: The Civil War (1861-1865) | 106575 | [106575-grand-tactician-the-civil-war-1861-1865.json](./106575-grand-tactician-the-civil-war-1861-1865.json) |
 | Grand Theft Auto Online | 134710 | [134710-grand-theft-auto-online.json](./134710-grand-theft-auto-online.json) |
 | Grand Theft Auto V | 134709 | [134709-grand-theft-auto-v.json](./134709-grand-theft-auto-v.json) |
+| Grand Theft Auto V Enhanced | 334254 | [334254-grand-theft-auto-v-enhanced.json](./334254-grand-theft-auto-v-enhanced.json) |
 | Grand Theft Auto V Enhanced | 334647 | [334647-grand-theft-auto-v-enhanced.json](./334647-grand-theft-auto-v-enhanced.json) |
 | Grand Theft Auto V: Premium Online Edition | 98077 | [98077-grand-theft-auto-v-premium-online-edition.json](./98077-grand-theft-auto-v-premium-online-edition.json) |
 | Grand Theft Auto: Alien City | 231619 | [231619-grand-theft-auto-alien-city.json](./231619-grand-theft-auto-alien-city.json) |
