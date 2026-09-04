@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1v1 Battle | 188080 | [188080-1v1-battle.json](./188080-1v1-battle.json) |
 | 1x1 | 262086 | [262086-1x1.json](./262086-1x1.json) |
 | 2 Cubes 1 Ball | 107206 | [107206-2-cubes-1-ball.json](./107206-2-cubes-1-ball.json) |
+| 2 Fast 4 Gnomz | 8618 | [8618-2-fast-4-gnomz.json](./8618-2-fast-4-gnomz.json) |
 | 2 Game Pack I Haunted Hotel 3: Lonely Dream & Haunted Hotel 4: Charles Dexter Ward | 201862 | [201862-2-game-pack-i-haunted-hotel-3-lonely-dream-and-haunted-hotel-4-charles-dexter-ward.json](./201862-2-game-pack-i-haunted-hotel-3-lonely-dream-and-haunted-hotel-4-charles-dexter-ward.json) |
 | 2 Game Pack I Haunted Hotel: Eclipse & Haunted Hotel: Ancient Bane | 201816 | [201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json](./201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json) |
 | 2 Games In 1 Double Pack: Finding Nemo + Monsters, Inc. | 78697 | [78697-2-games-in-1-double-pack-finding-nemo-monsters-inc.json](./78697-2-games-in-1-double-pack-finding-nemo-monsters-inc.json) |
