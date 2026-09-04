@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Dreams of Yuri | 339131 | [339131-wandering-dreams-of-yuri.json](./339131-wandering-dreams-of-yuri.json) |
 | Wanderland | 30901 | [30901-wanderland.json](./30901-wanderland.json) |
 | Wanderlust | 336914 | [336914-wanderlust.json](./336914-wanderlust.json) |
+| Wands | 56982 | [56982-wands.json](./56982-wands.json) |
 | Wangan Midnight | 268764 | [268764-wangan-midnight.json](./268764-wangan-midnight.json) |
 | Wangan Midnight Maximum Tune 3 | 68044 | [68044-wangan-midnight-maximum-tune-3.json](./68044-wangan-midnight-maximum-tune-3.json) |
 | Wangan Midnight Maximum Tune 3DX | 315268 | [315268-wangan-midnight-maximum-tune-3dx.json](./315268-wangan-midnight-maximum-tune-3dx.json) |
@@ -409,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Is The Killer: Episode IV | 304356 | [304356-who-is-the-killer-episode-iv.json](./304356-who-is-the-killer-episode-iv.json) |
 | Who is the New Maid? | 246076 | [246076-who-is-the-new-maid.json](./246076-who-is-the-new-maid.json) |
 | Who Stole Me? | 247168 | [247168-who-stole-me.json](./247168-who-stole-me.json) |
+| Who Wants to Be a Millionaire: 2012 Edition | 65596 | [65596-who-wants-to-be-a-millionaire-2012-edition.json](./65596-who-wants-to-be-a-millionaire-2012-edition.json) |
 | Who Wants to Be a Millionaire: Party Edition | 44631 | [44631-who-wants-to-be-a-millionaire-party-edition.json](./44631-who-wants-to-be-a-millionaire-party-edition.json) |
 | Who Wants to Be A Millionaire: The Smurfs DLC Pack | 293389 | [293389-who-wants-to-be-a-millionaire-the-smurfs-dlc-pack.json](./293389-who-wants-to-be-a-millionaire-the-smurfs-dlc-pack.json) |
 | Who Wants to Be a Millionaire: US Movies 70s DLC Pack | 293390 | [293390-who-wants-to-be-a-millionaire-us-movies-70s-dlc-pack.json](./293390-who-wants-to-be-a-millionaire-us-movies-70s-dlc-pack.json) |
