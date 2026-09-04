@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Defeat HD+ | 21016 | [21016-under-defeat-hd.json](./21016-under-defeat-hd.json) |
 | Under Night In-Birth II: Character - Uzuki | 309084 | [309084-under-night-in-birth-ii-character-uzuki.json](./309084-under-night-in-birth-ii-character-uzuki.json) |
 | Under Oath | 193989 | [193989-under-oath.json](./193989-under-oath.json) |
+| Under Party | 127021 | [127021-under-party.json](./127021-under-party.json) |
 | Under Princess: Pure Voice | 109005 | [109005-under-princess-pure-voice.json](./109005-under-princess-pure-voice.json) |
 | Under the bed | 179728 | [179728-under-the-bed.json](./179728-under-the-bed.json) |
 | Under the Bridge | 221982 | [221982-under-the-bridge.json](./221982-under-the-bridge.json) |
@@ -242,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlock the Block | 166756 | [166756-unlock-the-block.json](./166756-unlock-the-block.json) |
 | Unlock the Feelings | 199094 | [199094-unlock-the-feelings.json](./199094-unlock-the-feelings.json) |
 | Unlock the King | 126885 | [126885-unlock-the-king.json](./126885-unlock-the-king.json) |
+| Unlock the King 2 | 127418 | [127418-unlock-the-king-2.json](./127418-unlock-the-king-2.json) |
 | Unmanned helicopter | 105365 | [105365-unmanned-helicopter.json](./105365-unmanned-helicopter.json) |
 | Unmatch | 58805 | [58805-unmatch.json](./58805-unmatch.json) |
 | Unmaze | 159363 | [159363-unmaze.json](./159363-unmaze.json) |
