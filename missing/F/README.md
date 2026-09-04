@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fengse Huanxiang 5: Chi Yue Zhanzheng | 68690 | [68690-fengse-huanxiang-5-chi-yue-zhanzheng.json](./68690-fengse-huanxiang-5-chi-yue-zhanzheng.json) |
 | Fēngshén Yīngjié Zhuán | 93061 | [93061-fengshen-yingjie-zhuan.json](./93061-fengshen-yingjie-zhuan.json) |
 | Fenix | 298305 | [298305-fenix.json](./298305-fenix.json) |
+| Feria d'Arles | 126394 | [126394-feria-darles.json](./126394-feria-darles.json) |
 | Fernageddon | 258196 | [258196-fernageddon.json](./258196-fernageddon.json) |
 | Fernbus Simulator: Denmark | 254769 | [254769-fernbus-simulator-denmark.json](./254769-fernbus-simulator-denmark.json) |
 | Fernocity | 272014 | [272014-fernocity.json](./272014-fernocity.json) |
@@ -417,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Night 2004 | 5835 | [5835-fight-night-2004.json](./5835-fight-night-2004.json) |
 | Fight Night Round 2 | 3915 | [3915-fight-night-round-2.json](./3915-fight-night-round-2.json) |
 | Fight Night Round 3 | 5836 | [5836-fight-night-round-3.json](./5836-fight-night-round-3.json) |
+| Fight of Animals | 127088 | [127088-fight-of-animals.json](./127088-fight-of-animals.json) |
 | Fight Plane | 235471 | [235471-fight-plane.json](./235471-fight-plane.json) |
 | Fight Tennis | 321769 | [321769-fight-tennis.json](./321769-fight-tennis.json) |
 | Fight the Dracula! | 229357 | [229357-fight-the-dracula.json](./229357-fight-the-dracula.json) |
@@ -996,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fran Bow | 11821 | [11821-fran-bow.json](./11821-fran-bow.json) |
 | Fran Bow Chapter 4 | 91996 | [91996-fran-bow-chapter-4.json](./91996-fran-bow-chapter-4.json) |
 | Franchise Hockey Manager 3 | 25655 | [25655-franchise-hockey-manager-3.json](./25655-franchise-hockey-manager-3.json) |
+| Franchise Hockey Manager 6 | 122838 | [122838-franchise-hockey-manager-6.json](./122838-franchise-hockey-manager-6.json) |
 | Franchise Hockey Manager 9 | 220867 | [220867-franchise-hockey-manager-9.json](./220867-franchise-hockey-manager-9.json) |
 | Frank and Drake | 152923 | [152923-frank-and-drake.json](./152923-frank-and-drake.json) |
 | Frank Fux | 294422 | [294422-frank-fux.json](./294422-frank-fux.json) |
