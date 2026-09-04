@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 07 | 4983 | [4983-madden-nfl-07.json](./4983-madden-nfl-07.json) |
 | Madden NFL 20: Ultimate Superstar Edition | 119063 | [119063-madden-nfl-20-ultimate-superstar-edition.json](./119063-madden-nfl-20-ultimate-superstar-edition.json) |
 | Madden NFL 2000 | 3537 | [3537-madden-nfl-2000.json](./3537-madden-nfl-2000.json) |
+| Madden NFL 2004 | 777 | [777-madden-nfl-2004.json](./777-madden-nfl-2004.json) |
 | Madden NFL 21: Ultimate Team Starter Pack | 140010 | [140010-madden-nfl-21-ultimate-team-starter-pack.json](./140010-madden-nfl-21-ultimate-team-starter-pack.json) |
 | Madden NFL 22: Dynasty Edition | 155098 | [155098-madden-nfl-22-dynasty-edition.json](./155098-madden-nfl-22-dynasty-edition.json) |
 | Madden NFL 23: All Madden Edition | 204081 | [204081-madden-nfl-23-all-madden-edition.json](./204081-madden-nfl-23-all-madden-edition.json) |
@@ -124,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Tower Adventure | 173803 | [173803-magic-tower-adventure.json](./173803-magic-tower-adventure.json) |
 | Magic Twins | 132244 | [132244-magic-twins.json](./132244-magic-twins.json) |
 | Magic Wand | 311811 | [311811-magic-wand.json](./311811-magic-wand.json) |
+| Magic: The Gathering - Battlegrounds | 5907 | [5907-magic-the-gathering-battlegrounds.json](./5907-magic-the-gathering-battlegrounds.json) |
 | Magic: The Gathering - Duels of the Planeswalkers 2015 | 18218 | [18218-magic-the-gathering-duels-of-the-planeswalkers-2015.json](./18218-magic-the-gathering-duels-of-the-planeswalkers-2015.json) |
 | Magical Blaster | 151741 | [151741-magical-blaster.json](./151741-magical-blaster.json) |
 | Magical Boco | 313464 | [313464-magical-boco.json](./313464-magical-boco.json) |
@@ -354,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party 4 | 231603 | [231603-mario-party-4.json](./231603-mario-party-4.json) |
 | Mario Party 7 Bon Voyage | 231602 | [231602-mario-party-7-bon-voyage.json](./231602-mario-party-7-bon-voyage.json) |
 | Mario Party: Star Rush | 19599 | [19599-mario-party-star-rush.json](./19599-mario-party-star-rush.json) |
+| Mario Pinball Land | 6503 | [6503-mario-pinball-land.json](./6503-mario-pinball-land.json) |
 | Mario Royale Deluxe | 262665 | [262665-mario-royale-deluxe.json](./262665-mario-royale-deluxe.json) |
 | Mario Sports Complex: Barrel Blast | 231644 | [231644-mario-sports-complex-barrel-blast.json](./231644-mario-sports-complex-barrel-blast.json) |
 | Mario Sports Mix | 3989 | [3989-mario-sports-mix.json](./3989-mario-sports-mix.json) |
@@ -873,6 +876,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Combat Flight Simulator: WWII Europe Series | 243975 | [243975-microsoft-combat-flight-simulator-wwii-europe-series.json](./243975-microsoft-combat-flight-simulator-wwii-europe-series.json) |
 | Microsoft Entertainment Pack for Windows | 78025 | [78025-microsoft-entertainment-pack-for-windows.json](./78025-microsoft-entertainment-pack-for-windows.json) |
 | Microsoft Flight Simulator | 119295 | [119295-microsoft-flight-simulator.json](./119295-microsoft-flight-simulator.json) |
+| Microsoft Flight Simulator 2000 | 788 | [788-microsoft-flight-simulator-2000.json](./788-microsoft-flight-simulator-2000.json) |
+| Microsoft Flight Simulator 2004: A Century of Flight | 712 | [712-microsoft-flight-simulator-2004-a-century-of-flight.json](./712-microsoft-flight-simulator-2004-a-century-of-flight.json) |
 | Microsoft Flight Simulator 5.1: The Virtual Squadron | 141224 | [141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json](./141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json) |
 | Microsoft Flight Simulator X: Steam Edition - 3D Lights Redux | 161889 | [161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json](./161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json) |
 | Microsoft Flight Simulator X: Steam Edition - Around the World in 80 Flights | 161868 | [161868-microsoft-flight-simulator-x-steam-edition-around-the-world-in-80-flights.json](./161868-microsoft-flight-simulator-x-steam-edition-around-the-world-in-80-flights.json) |
@@ -1808,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myriad Mayhem | 258208 | [258208-myriad-mayhem.json](./258208-myriad-mayhem.json) |
 | Myrrh | 118375 | [118375-myrrh.json](./118375-myrrh.json) |
 | Myself;Yourself: Sorezore no Finale | 325278 | [325278-myself-yourself-sorezore-no-finale.json](./325278-myself-yourself-sorezore-no-finale.json) |
+| MySims Agents | 5035 | [5035-mysims-agents.json](./5035-mysims-agents.json) |
 | Myst | 272031 | [272031-myst.json](./272031-myst.json) |
 | Mystereet: Yasogami Kaoru no Chousen! | 326951 | [326951-mystereet-yasogami-kaoru-no-chousen.json](./326951-mystereet-yasogami-kaoru-no-chousen.json) |
 | Mysteries of Perception | 317583 | [317583-mysteries-of-perception.json](./317583-mysteries-of-perception.json) |
@@ -1868,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth of Empires: Musical Instruments Pack | 293413 | [293413-myth-of-empires-musical-instruments-pack.json](./293413-myth-of-empires-musical-instruments-pack.json) |
 | Myth of Mirka | 209670 | [209670-myth-of-mirka.json](./209670-myth-of-mirka.json) |
 | Myth: Make Your True Hero | 143702 | [143702-myth-make-your-true-hero.json](./143702-myth-make-your-true-hero.json) |
+| Myth: The Fallen Lords | 800 | [800-myth-the-fallen-lords.json](./800-myth-the-fallen-lords.json) |
 | Mythargia | 216993 | [216993-mythargia.json](./216993-mythargia.json) |
 | MythBusters: The First Experiment | 199095 | [199095-mythbusters-the-first-experiment.json](./199095-mythbusters-the-first-experiment.json) |
 | Mythic Writer | 165654 | [165654-mythic-writer.json](./165654-mythic-writer.json) |
