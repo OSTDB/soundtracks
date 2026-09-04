@@ -1766,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Theater | 218153 | [218153-cyber-theater.json](./218153-cyber-theater.json) |
 | Cyber Tiger | 3431 | [3431-cyber-tiger.json](./3431-cyber-tiger.json) |
 | Cyber Tower | 267098 | [267098-cyber-tower.json](./267098-cyber-tower.json) |
+| Cyber Utopia | 43508 | [43508-cyber-utopia.json](./43508-cyber-utopia.json) |
 | Cyber VR | 51938 | [51938-cyber-vr.json](./51938-cyber-vr.json) |
 | Cyber War: Cyberpunk Reborn | 174904 | [174904-cyber-war-cyberpunk-reborn.json](./174904-cyber-war-cyberpunk-reborn.json) |
 | Cyber-Assassin | 269272 | [269272-cyber-assassin.json](./269272-cyber-assassin.json) |
