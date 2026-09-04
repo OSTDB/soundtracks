@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Is Home | 224782 | [224782-ocean-is-home.json](./224782-ocean-is-home.json) |
 | Ocean Life: Aquarium Simulator | 309648 | [309648-ocean-life-aquarium-simulator.json](./309648-ocean-life-aquarium-simulator.json) |
 | Ocean of Battles | 124246 | [124246-ocean-of-battles.json](./124246-ocean-of-battles.json) |
+| Oceanhorn: Monster of Uncharted Seas | 18975 | [18975-oceanhorn-monster-of-uncharted-seas.json](./18975-oceanhorn-monster-of-uncharted-seas.json) |
 | Oceans Below | 37124 | [37124-oceans-below.json](./37124-oceans-below.json) |
 | Oceanside | 274198 | [274198-oceanside.json](./274198-oceanside.json) |
 | Oceanspirit Danish | 57102 | [57102-oceanspirit-danish.json](./57102-oceanspirit-danish.json) |
