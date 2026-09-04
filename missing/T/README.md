@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris | 215387 | [215387-tetris.json](./215387-tetris.json) |
 | Tetris | 221969 | [221969-tetris.json](./221969-tetris.json) |
 | Tetris | 270420 | [270420-tetris.json](./270420-tetris.json) |
+| Tetris 2 | 254512 | [254512-tetris-2.json](./254512-tetris-2.json) |
 | Tetris 2 + BomBliss | 78699 | [78699-tetris-2-bombliss.json](./78699-tetris-2-bombliss.json) |
 | Tetris Battle Gaiden | 38371 | [38371-tetris-battle-gaiden.json](./38371-tetris-battle-gaiden.json) |
 | Tetris Block Puzzle | 309098 | [309098-tetris-block-puzzle.json](./309098-tetris-block-puzzle.json) |
@@ -719,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Commander of Steel | 262063 | [262063-the-commander-of-steel.json](./262063-the-commander-of-steel.json) |
 | The Companion | 143121 | [143121-the-companion.json](./143121-the-companion.json) |
 | The Complex | 119178 | [119178-the-complex.json](./119178-the-complex.json) |
+| The Complex: Expedition | 223188 | [223188-the-complex-expedition.json](./223188-the-complex-expedition.json) |
 | The Contract | 177530 | [177530-the-contract.json](./177530-the-contract.json) |
 | The Cool Guys Are Level 100 | 316409 | [316409-the-cool-guys-are-level-100.json](./316409-the-cool-guys-are-level-100.json) |
 | The Copperfield Department | 326967 | [326967-the-copperfield-department.json](./326967-the-copperfield-department.json) |
@@ -1535,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silent Islands | 211939 | [211939-the-silent-islands.json](./211939-the-silent-islands.json) |
 | The Simpsons: Bug Squad! | 307953 | [307953-the-simpsons-bug-squad.json](./307953-the-simpsons-bug-squad.json) |
 | The Sims 2 | 192905 | [192905-the-sims-2.json](./192905-the-sims-2.json) |
+| The Sims 3 | 248568 | [248568-the-sims-3.json](./248568-the-sims-3.json) |
 | The Sims 4 Halloween Bundle | 272558 | [272558-the-sims-4-halloween-bundle.json](./272558-the-sims-4-halloween-bundle.json) |
 | The Sims 4: Artist Studio Kit | 317646 | [317646-the-sims-4-artist-studio-kit.json](./317646-the-sims-4-artist-studio-kit.json) |
 | The Sims 4: Back to School Bundle | 159331 | [159331-the-sims-4-back-to-school-bundle.json](./159331-the-sims-4-back-to-school-bundle.json) |
@@ -2385,6 +2388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's American Sk8land | 6643 | [6643-tony-hawks-american-sk8land.json](./6643-tony-hawks-american-sk8land.json) |
 | Tony Hawk's Pro Skater | 6692 | [6692-tony-hawks-pro-skater.json](./6692-tony-hawks-pro-skater.json) |
 | Tony Hawk's Pro Skater 2 | 229927 | [229927-tony-hawks-pro-skater-2.json](./229927-tony-hawks-pro-skater-2.json) |
+| Tony Hawk's Pro Skater 2 | 259743 | [259743-tony-hawks-pro-skater-2.json](./259743-tony-hawks-pro-skater-2.json) |
 | Tony Hawk's Pro Skater 3 | 194213 | [194213-tony-hawks-pro-skater-3.json](./194213-tony-hawks-pro-skater-3.json) |
 | Tony La Russa Baseball 2 | 95465 | [95465-tony-la-russa-baseball-2.json](./95465-tony-la-russa-baseball-2.json) |
 | Tony Stewart's All-American Racing: Texas Motor Speedway Dirt Track | 167851 | [167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json](./167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json) |
@@ -2934,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truth Loop 2 | 246120 | [246120-truth-loop-2.json](./246120-truth-loop-2.json) |
 | Truth: Disorder II | 98985 | [98985-truth-disorder-ii.json](./98985-truth-disorder-ii.json) |
 | Truxton II | 39662 | [39662-truxton-ii.json](./39662-truxton-ii.json) |
+| Try Again | 249388 | [249388-try-again.json](./249388-try-again.json) |
 | TS Marketplace: Marias Pass Scenario Pack 01 | 196896 | [196896-ts-marketplace-marias-pass-scenario-pack-01.json](./196896-ts-marketplace-marias-pass-scenario-pack-01.json) |
 | Tsugunohi: Supernatural Supermarket | 234297 | [234297-tsugunohi-supernatural-supermarket.json](./234297-tsugunohi-supernatural-supermarket.json) |
 | Tsuki no Shoujo: Bishoujo Gakuen 2 | 194622 | [194622-tsuki-no-shoujo-bishoujo-gakuen-2.json](./194622-tsuki-no-shoujo-bishoujo-gakuen-2.json) |
@@ -3013,6 +3018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turok 3: Shadow of Oblivion | 1328 | [1328-turok-3-shadow-of-oblivion.json](./1328-turok-3-shadow-of-oblivion.json) |
 | Turtle Bay | 79302 | [79302-turtle-bay.json](./79302-turtle-bay.json) |
 | Turtle Evolution | 239346 | [239346-turtle-evolution.json](./239346-turtle-evolution.json) |
+| Turtle WoW: Mysteries of Azeroth | 253071 | [253071-turtle-wow-mysteries-of-azeroth.json](./253071-turtle-wow-mysteries-of-azeroth.json) |
 | Tutorial | 231092 | [231092-tutorial.json](./231092-tutorial.json) |
 | Tux, of Math Command | 242812 | [242812-tux-of-math-command.json](./242812-tux-of-math-command.json) |
 | TV Thief | 190748 | [190748-tv-thief.json](./190748-tv-thief.json) |
