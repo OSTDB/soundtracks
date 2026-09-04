@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Women's Murder Club: Little Black Lies | 135250 | [135250-womens-murder-club-little-black-lies.json](./135250-womens-murder-club-little-black-lies.json) |
 | Wonder Boy | 5560 | [5560-wonder-boy.json](./5560-wonder-boy.json) |
 | Wonder Boy in Monster World | 212866 | [212866-wonder-boy-in-monster-world.json](./212866-wonder-boy-in-monster-world.json) |
+| Wonder Boy: Anniversary Collection | 233787 | [233787-wonder-boy-anniversary-collection.json](./233787-wonder-boy-anniversary-collection.json) |
 | Wonder Land | 216483 | [216483-wonder-land.json](./216483-wonder-land.json) |
 | Wonder Mu: Mu to Unmei no Monster | 220323 | [220323-wonder-mu-mu-to-unmei-no-monster.json](./220323-wonder-mu-mu-to-unmei-no-monster.json) |
 | Wonder Planet | 40245 | [40245-wonder-planet.json](./40245-wonder-planet.json) |
@@ -772,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreckfest: Steel & Wheels Pack | 223703 | [223703-wreckfest-steel-and-wheels-pack.json](./223703-wreckfest-steel-and-wheels-pack.json) |
 | Wreckfest: Vehicle Bundle 1 | 208051 | [208051-wreckfest-vehicle-bundle-1.json](./208051-wreckfest-vehicle-bundle-1.json) |
 | Wreckfest: Vehicle Bundle 2 | 208052 | [208052-wreckfest-vehicle-bundle-2.json](./208052-wreckfest-vehicle-bundle-2.json) |
+| Wreckreation | 213241 | [213241-wreckreation.json](./213241-wreckreation.json) |
 | Wrestle Story | 244509 | [244509-wrestle-story.json](./244509-wrestle-story.json) |
 | Wrestling Empire | 142449 | [142449-wrestling-empire.json](./142449-wrestling-empire.json) |
 | Wrestling Revolution Pro | 91987 | [91987-wrestling-revolution-pro.json](./91987-wrestling-revolution-pro.json) |
