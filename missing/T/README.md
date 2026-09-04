@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales From The Under-Realm: After Midnight | 301004 | [301004-tales-from-the-under-realm-after-midnight.json](./301004-tales-from-the-under-realm-after-midnight.json) |
 | Tales of a Turnabout | 318795 | [318795-tales-of-a-turnabout.json](./318795-tales-of-a-turnabout.json) |
 | Tales of Aravorn: Seasons Of The Wolf - Bad Blood | 171632 | [171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json](./171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json) |
+| Tales of Arise: Beyond the Dawn | 266719 | [266719-tales-of-arise-beyond-the-dawn.json](./266719-tales-of-arise-beyond-the-dawn.json) |
 | Tales of Arise: Beyond the Dawn - Attachment Pack | 293401 | [293401-tales-of-arise-beyond-the-dawn-attachment-pack.json](./293401-tales-of-arise-beyond-the-dawn-attachment-pack.json) |
 | Tales of Arise: Premium Edition | 146339 | [146339-tales-of-arise-premium-edition.json](./146339-tales-of-arise-premium-edition.json) |
 | Tales of Arise: SAO Collaboration Pack | 259813 | [259813-tales-of-arise-sao-collaboration-pack.json](./259813-tales-of-arise-sao-collaboration-pack.json) |
@@ -349,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken Tag Tournament 2: Prologue | 143749 | [143749-tekken-tag-tournament-2-prologue.json](./143749-tekken-tag-tournament-2-prologue.json) |
 | Tekken Tag Tournament HD | 143748 | [143748-tekken-tag-tournament-hd.json](./143748-tekken-tag-tournament-hd.json) |
 | Tele-Shibai Wii | 64427 | [64427-tele-shibai-wii.json](./64427-tele-shibai-wii.json) |
+| Teleforum | 226605 | [226605-teleforum.json](./226605-teleforum.json) |
 | Telepath RPG: Servants of God | 65532 | [65532-telepath-rpg-servants-of-god.json](./65532-telepath-rpg-servants-of-god.json) |
 | Teleportal Customer Service | 181374 | [181374-teleportal-customer-service.json](./181374-teleportal-customer-service.json) |
 | Telescape | 267059 | [267059-telescape.json](./267059-telescape.json) |
@@ -1011,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of Big people | 188677 | [188677-the-house-of-big-people.json](./188677-the-house-of-big-people.json) |
 | The House of Da Vinci | 39749 | [39749-the-house-of-da-vinci.json](./39749-the-house-of-da-vinci.json) |
 | The House of the Dead 2 | 13777 | [13777-the-house-of-the-dead-2.json](./13777-the-house-of-the-dead-2.json) |
+| The House of the Dead 2: Remake | 327808 | [327808-the-house-of-the-dead-2-remake.json](./327808-the-house-of-the-dead-2-remake.json) |
 | The House that Jack Built | 25725 | [25725-the-house-that-jack-built.json](./25725-the-house-that-jack-built.json) |
 | The Humans 2: Jurassic Levels | 39032 | [39032-the-humans-2-jurassic-levels.json](./39032-the-humans-2-jurassic-levels.json) |
 | The Hundred Line: Last Defense Academy - Digital Deluxe Edition | 338007 | [338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json](./338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json) |
@@ -1096,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lacerator | 240478 | [240478-the-lacerator.json](./240478-the-lacerator.json) |
 | The Ladle Fly | 179723 | [179723-the-ladle-fly.json](./179723-the-ladle-fly.json) |
 | The Lair of DOOMestic Animals | 271487 | [271487-the-lair-of-doomestic-animals.json](./271487-the-lair-of-doomestic-animals.json) |
+| The Lamplighters League | 240893 | [240893-the-lamplighters-league.json](./240893-the-lamplighters-league.json) |
 | The Land Before Time: Activity Center | 229378 | [229378-the-land-before-time-activity-center.json](./229378-the-land-before-time-activity-center.json) |
 | The Land of Dasthir | 30898 | [30898-the-land-of-dasthir.json](./30898-the-land-of-dasthir.json) |
 | The Lar | 118380 | [118380-the-lar.json](./118380-the-lar.json) |
@@ -1540,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Vintage Glamour Stuff | 121025 | [121025-the-sims-4-vintage-glamour-stuff.json](./121025-the-sims-4-vintage-glamour-stuff.json) |
 | The Sims Bustin' Out | 4151 | [4151-the-sims-bustin-out.json](./4151-the-sims-bustin-out.json) |
 | The Sims: Legacy Collection | 329954 | [329954-the-sims-legacy-collection.json](./329954-the-sims-legacy-collection.json) |
+| The Sinking City 2 | 289696 | [289696-the-sinking-city-2.json](./289696-the-sinking-city-2.json) |
 | The Sinking City: Investigator Pack | 308567 | [308567-the-sinking-city-investigator-pack.json](./308567-the-sinking-city-investigator-pack.json) |
 | The Sinking City: Whisper of Darkness Pass | 208047 | [208047-the-sinking-city-whisper-of-darkness-pass.json](./208047-the-sinking-city-whisper-of-darkness-pass.json) |
 | The Sinking of the Dream Chaser | 257685 | [257685-the-sinking-of-the-dream-chaser.json](./257685-the-sinking-of-the-dream-chaser.json) |
@@ -1735,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The War of the Worlds | 25730 | [25730-the-war-of-the-worlds.json](./25730-the-war-of-the-worlds.json) |
 | The War Zone Crisis | 339122 | [339122-the-war-zone-crisis.json](./339122-the-war-zone-crisis.json) |
 | The War: Black Stone | 221388 | [221388-the-war-black-stone.json](./221388-the-war-black-stone.json) |
+| The Warfstache Clicker | 239539 | [239539-the-warfstache-clicker.json](./239539-the-warfstache-clicker.json) |
 | The Warrior of Wisdom | 173784 | [173784-the-warrior-of-wisdom.json](./173784-the-warrior-of-wisdom.json) |
 | The Waterfront | 274226 | [274226-the-waterfront.json](./274226-the-waterfront.json) |
 | The Way | 251177 | [251177-the-way.json](./251177-the-way.json) |
@@ -2987,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Mind: Nobody's Here | 228076 | [228076-twin-mind-nobodys-here.json](./228076-twin-mind-nobodys-here.json) |
 | Twin Shot 2: Good & Evil | 180291 | [180291-twin-shot-2-good-and-evil.json](./180291-twin-shot-2-good-and-evil.json) |
 | Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
+| TwinBee | 282650 | [282650-twinbee.json](./282650-twinbee.json) |
 | Twinkle Crusaders GoGo! | 59417 | [59417-twinkle-crusaders-gogo.json](./59417-twinkle-crusaders-gogo.json) |
 | Twinkle Knights | 39016 | [39016-twinkle-knights.json](./39016-twinkle-knights.json) |
 | Twinora | 126636 | [126636-twinora.json](./126636-twinora.json) |
