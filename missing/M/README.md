@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maps 4TMD | 312911 | [312911-maps-4tmd.json](./312911-maps-4tmd.json) |
 | Marble Blast Platinum | 239883 | [239883-marble-blast-platinum.json](./239883-marble-blast-platinum.json) |
 | Marble Bloomers | 127962 | [127962-marble-bloomers.json](./127962-marble-bloomers.json) |
+| Marble Jetpack | 26720 | [26720-marble-jetpack.json](./26720-marble-jetpack.json) |
 | Marble Machine | 58221 | [58221-marble-machine.json](./58221-marble-machine.json) |
 | Marble Man: Marble Madness II | 125477 | [125477-marble-man-marble-madness-ii.json](./125477-marble-man-marble-madness-ii.json) |
 | Marble Meadows | 291222 | [291222-marble-meadows.json](./291222-marble-meadows.json) |
@@ -768,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Desolation | 255381 | [255381-metroid-desolation.json](./255381-metroid-desolation.json) |
 | Metroid: Takeover | 255384 | [255384-metroid-takeover.json](./255384-metroid-takeover.json) |
 | Metropocre | 169975 | [169975-metropocre.json](./169975-metropocre.json) |
+| Metropolismania | 26661 | [26661-metropolismania.json](./26661-metropolismania.json) |
 | MetroSim: The Subway Simulator | 277598 | [277598-metrosim-the-subway-simulator.json](./277598-metrosim-the-subway-simulator.json) |
 | Meu Primeiro Laptop da Xuxa | 255339 | [255339-meu-primeiro-laptop-da-xuxa.json](./255339-meu-primeiro-laptop-da-xuxa.json) |
 | Mew's Under The Truck | 276486 | [276486-mews-under-the-truck.json](./276486-mews-under-the-truck.json) |
@@ -1303,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moondusk Masquerade | 334499 | [334499-moondusk-masquerade.json](./334499-moondusk-masquerade.json) |
 | Moonlight | 261534 | [261534-moonlight.json](./261534-moonlight.json) |
 | Moonlight Assault | 275314 | [275314-moonlight-assault.json](./275314-moonlight-assault.json) |
+| Moonlight Blade | 26716 | [26716-moonlight-blade.json](./26716-moonlight-blade.json) |
 | Moonlight maze | 121734 | [121734-moonlight-maze.json](./121734-moonlight-maze.json) |
 | Moons of True Magic | 263204 | [263204-moons-of-true-magic.json](./263204-moons-of-true-magic.json) |
 | Moonshine Inc. | 191849 | [191849-moonshine-inc.json](./191849-moonshine-inc.json) |
