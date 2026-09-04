@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kickshot | 99641 | [99641-kickshot.json](./99641-kickshot.json) |
 | Kid 4 $29.99 | 141871 | [141871-kid-4-29-99.json](./141871-kid-4-29-99.json) |
 | Kid Chameleon | 16035 | [16035-kid-chameleon.json](./16035-kid-chameleon.json) |
+| Kid Dracula | 1125 | [1125-kid-dracula.json](./1125-kid-dracula.json) |
 | Kid Hallow | 179210 | [179210-kid-hallow.json](./179210-kid-hallow.json) |
 | Kid no Hore Hore Daisakusen | 40237 | [40237-kid-no-hore-hore-daisakusen.json](./40237-kid-no-hore-hore-daisakusen.json) |
 | Kid Paddle: Lost in the Game | 268186 | [268186-kid-paddle-lost-in-the-game.json](./268186-kid-paddle-lost-in-the-game.json) |
@@ -285,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Bounty: Ultimate Edition | 53258 | [53258-kings-bounty-ultimate-edition.json](./53258-kings-bounty-ultimate-edition.json) |
 | King's Choice | 186308 | [186308-kings-choice.json](./186308-kings-choice.json) |
 | King's Dungeon | 228691 | [228691-kings-dungeon.json](./228691-kings-dungeon.json) |
+| King's Field | 7423 | [7423-kings-field.json](./7423-kings-field.json) |
 | King's Knight | 307938 | [307938-kings-knight.json](./307938-kings-knight.json) |
 | King's Knight Special | 307937 | [307937-kings-knight-special.json](./307937-kings-knight-special.json) |
 | King's Quest IV: The Perils of Rosella Retold | 230506 | [230506-kings-quest-iv-the-perils-of-rosella-retold.json](./230506-kings-quest-iv-the-perils-of-rosella-retold.json) |
@@ -443,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kodama | 262067 | [262067-kodama.json](./262067-kodama.json) |
 | Kodoku no Yurikago | 260941 | [260941-kodoku-no-yurikago.json](./260941-kodoku-no-yurikago.json) |
 | Koffi Yellow Copter | 40797 | [40797-koffi-yellow-copter.json](./40797-koffi-yellow-copter.json) |
+| Kohan: Immortal Sovereigns | 767 | [767-kohan-immortal-sovereigns.json](./767-kohan-immortal-sovereigns.json) |
 | Koi Koi Mahjong | 43964 | [43964-koi-koi-mahjong.json](./43964-koi-koi-mahjong.json) |
 | Koi No Hotrock | 40230 | [40230-koi-no-hotrock.json](./40230-koi-no-hotrock.json) |
 | Koi-Koi Japan: Ukiyoe Deluxe Edition | 53261 | [53261-koi-koi-japan-ukiyoe-deluxe-edition.json](./53261-koi-koi-japan-ukiyoe-deluxe-edition.json) |
