@@ -867,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blake Turner: Ace Attorney | 308528 | [308528-blake-turner-ace-attorney.json](./308528-blake-turner-ace-attorney.json) |
 | Blaloon Blalympia | 187505 | [187505-blaloon-blalympia.json](./187505-blaloon-blalympia.json) |
 | Blamdown Udder Fury | 33063 | [33063-blamdown-udder-fury.json](./33063-blamdown-udder-fury.json) |
+| Blanc | 206812 | [206812-blanc.json](./206812-blanc.json) |
 | Blandia Plus | 41409 | [41409-blandia-plus.json](./41409-blandia-plus.json) |
 | Blank Page | 303266 | [303266-blank-page.json](./303266-blank-page.json) |
 | BlapRacer | 71507 | [71507-blapracer.json](./71507-blapracer.json) |
@@ -1012,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodRush: Undying Wish | 255389 | [255389-bloodrush-undying-wish.json](./255389-bloodrush-undying-wish.json) |
 | Bloodstroke | 62226 | [62226-bloodstroke.json](./62226-bloodstroke.json) |
 | BloodSworn | 267099 | [267099-bloodsworn.json](./267099-bloodsworn.json) |
+| Bloodwash | 170938 | [170938-bloodwash.json](./170938-bloodwash.json) |
 | Bloodwings: Pumpkinhead's Revenge | 67291 | [67291-bloodwings-pumpkinheads-revenge.json](./67291-bloodwings-pumpkinheads-revenge.json) |
 | Bloody Bunny: The Game | 144358 | [144358-bloody-bunny-the-game.json](./144358-bloody-bunny-the-game.json) |
 | Bloody Faerie | 89948 | [89948-bloody-faerie.json](./89948-bloody-faerie.json) |
@@ -1149,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoneTown | 145047 | [145047-bonetown.json](./145047-bonetown.json) |
 | BoneTown: The Second Coming Edition | 173828 | [173828-bonetown-the-second-coming-edition.json](./173828-bonetown-the-second-coming-edition.json) |
 | Bonfire Kingdom | 260413 | [260413-bonfire-kingdom.json](./260413-bonfire-kingdom.json) |
+| Bongo Cat | 334486 | [334486-bongo-cat.json](./334486-bongo-cat.json) |
 | Bonkers | 177539 | [177539-bonkers.json](./177539-bonkers.json) |
 | Bonza Word Puzzle | 90678 | [90678-bonza-word-puzzle.json](./90678-bonza-word-puzzle.json) |
 | Booby Kids | 7796 | [7796-booby-kids.json](./7796-booby-kids.json) |
@@ -1414,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Life | 265391 | [265391-broken-life.json](./265391-broken-life.json) |
 | Broken Metal | 111038 | [111038-broken-metal.json](./111038-broken-metal.json) |
 | Broken Note | 237041 | [237041-broken-note.json](./237041-broken-note.json) |
+| Broken Ranks | 162520 | [162520-broken-ranks.json](./162520-broken-ranks.json) |
 | Broken Shell | 304374 | [304374-broken-shell.json](./304374-broken-shell.json) |
 | Broken Spell | 122422 | [122422-broken-spell.json](./122422-broken-spell.json) |
 | Broken Sword: Parzival’s Stone | 262650 | [262650-broken-sword-parzival-s-stone.json](./262650-broken-sword-parzival-s-stone.json) |
