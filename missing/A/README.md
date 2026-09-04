@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abiko the Miko 2 | 161360 | [161360-abiko-the-miko-2.json](./161360-abiko-the-miko-2.json) |
 | Ability Draft | 109031 | [109031-ability-draft.json](./109031-ability-draft.json) |
 | Ablaze | 260403 | [260403-ablaze.json](./260403-ablaze.json) |
+| Ablepsia | 67912 | [67912-ablepsia.json](./67912-ablepsia.json) |
 | Abnormal 1999: The Compass and the Sand | 316441 | [316441-abnormal-1999-the-compass-and-the-sand.json](./316441-abnormal-1999-the-compass-and-the-sand.json) |
 | Abort | 291211 | [291211-abort.json](./291211-abort.json) |
 | About Cannons & Sparrows | 258181 | [258181-about-cannons-and-sparrows.json](./258181-about-cannons-and-sparrows.json) |
@@ -753,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Japan Super Bombliss Cup '95: Dai-2-kai | 179708 | [179708-all-japan-super-bombliss-cup-95-dai-2-kai.json](./179708-all-japan-super-bombliss-cup-95-dai-2-kai.json) |
 | All Japan Super Bombliss Cup '95: Dai-3-kai | 179709 | [179709-all-japan-super-bombliss-cup-95-dai-3-kai.json](./179709-all-japan-super-bombliss-cup-95-dai-3-kai.json) |
 | All Japan Super Bombliss Cup '95: Dai-4-kai | 179710 | [179710-all-japan-super-bombliss-cup-95-dai-4-kai.json](./179710-all-japan-super-bombliss-cup-95-dai-4-kai.json) |
+| All Kamen Rider: Rider Generation 2 | 64575 | [64575-all-kamen-rider-rider-generation-2.json](./64575-all-kamen-rider-rider-generation-2.json) |
 | All Kamen Rider: Rider Revolution | 81413 | [81413-all-kamen-rider-rider-revolution.json](./81413-all-kamen-rider-rider-revolution.json) |
 | All Men Are Pigs | 183041 | [183041-all-men-are-pigs.json](./183041-all-men-are-pigs.json) |
 | All Monsters Attack! | 202403 | [202403-all-monsters-attack.json](./202403-all-monsters-attack.json) |
@@ -795,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha vs. Zet | 130380 | [130380-alpha-vs-zet.json](./130380-alpha-vs-zet.json) |
 | Alphabet Memory Match | 108476 | [108476-alphabet-memory-match.json](./108476-alphabet-memory-match.json) |
 | Alphabet Solitaire Z: Russian | 101576 | [101576-alphabet-solitaire-z-russian.json](./101576-alphabet-solitaire-z-russian.json) |
+| AlphaBounce | 66781 | [66781-alphabounce.json](./66781-alphabounce.json) |
 | Alphadia Genesis | 17849 | [17849-alphadia-genesis.json](./17849-alphadia-genesis.json) |
 | Alpine Crawler World | 174342 | [174342-alpine-crawler-world.json](./174342-alpine-crawler-world.json) |
 | Alpine Train 3D | 90709 | [90709-alpine-train-3d.json](./90709-alpine-train-3d.json) |
@@ -1157,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: PlayStation Plus Play Pack | 325861 | [325861-apex-legends-playstation-plus-play-pack.json](./325861-apex-legends-playstation-plus-play-pack.json) |
 | Aphelion | 171599 | [171599-aphelion.json](./171599-aphelion.json) |
 | Aphelion | 348192 | [348192-aphelion.json](./348192-aphelion.json) |
+| Aphelion Episode One: Graves of Earth | 66398 | [66398-aphelion-episode-one-graves-of-earth.json](./66398-aphelion-episode-one-graves-of-earth.json) |
 | Apico 4.0: Hive of Industry | 330561 | [330561-apico-4-0-hive-of-industry.json](./330561-apico-4-0-hive-of-industry.json) |
 | Apidya | 11906 | [11906-apidya.json](./11906-apidya.json) |
 | APlaceDominatedByHoles | 260418 | [260418-aplacedominatedbyholes.json](./260418-aplacedominatedbyholes.json) |
@@ -1393,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Core: Formula Front - Extreme Battle | 46022 | [46022-armored-core-formula-front-extreme-battle.json](./46022-armored-core-formula-front-extreme-battle.json) |
 | Armored Core: Last Raven | 19410 | [19410-armored-core-last-raven.json](./19410-armored-core-last-raven.json) |
 | Armored Heroes | 242204 | [242204-armored-heroes.json](./242204-armored-heroes.json) |
+| Armored Kitten | 67904 | [67904-armored-kitten.json](./67904-armored-kitten.json) |
 | Armored Patrol | 55932 | [55932-armored-patrol.json](./55932-armored-patrol.json) |
 | Armored Squad | 83557 | [83557-armored-squad.json](./83557-armored-squad.json) |
 | Armored Us | 241619 | [241619-armored-us.json](./241619-armored-us.json) |
@@ -1403,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arms Race: TCWE - Industrialization | 172191 | [172191-arms-race-tcwe-industrialization.json](./172191-arms-race-tcwe-industrialization.json) |
 | Arms Trade Tycoon: Tanks | 190232 | [190232-arms-trade-tycoon-tanks.json](./190232-arms-trade-tycoon-tanks.json) |
 | Army Defence | 256519 | [256519-army-defence.json](./256519-army-defence.json) |
+| Army Defender | 66994 | [66994-army-defender.json](./66994-army-defender.json) |
 | Army Driver | 204087 | [204087-army-driver.json](./204087-army-driver.json) |
 | Army Men World War: Team Assault | 43947 | [43947-army-men-world-war-team-assault.json](./43947-army-men-world-war-team-assault.json) |
 | Army Men: Major Malfunction | 5732 | [5732-army-men-major-malfunction.json](./5732-army-men-major-malfunction.json) |
@@ -1711,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audition Portable | 56520 | [56520-audition-portable.json](./56520-audition-portable.json) |
 | Audrey & Alexis | 100816 | [100816-audrey-and-alexis.json](./100816-audrey-and-alexis.json) |
 | Augmented Fourth | 60028 | [60028-augmented-fourth.json](./60028-augmented-fourth.json) |
+| Aura Aura Climber | 66985 | [66985-aura-aura-climber.json](./66985-aura-aura-climber.json) |
 | Aura Kingdom | 8746 | [8746-aura-kingdom.json](./8746-aura-kingdom.json) |
 | Auraboros | 181358 | [181358-auraboros.json](./181358-auraboros.json) |
 | Aural to Hikari no Ryuu: Gathering Light | 327602 | [327602-aural-to-hikari-no-ryuu-gathering-light.json](./327602-aural-to-hikari-no-ryuu-gathering-light.json) |
