@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi Mini | 229970 | [229970-tamagotchi-mini.json](./229970-tamagotchi-mini.json) |
 | Tamagotchi Music Star | 229957 | [229957-tamagotchi-music-star.json](./229957-tamagotchi-music-star.json) |
 | Tamagotchi Town | 37792 | [37792-tamagotchi-town.json](./37792-tamagotchi-town.json) |
+| Tamarak Trail | 240982 | [240982-tamarak-trail.json](./240982-tamarak-trail.json) |
 | TamaTown Tama-Go | 229958 | [229958-tamatown-tama-go.json](./229958-tamatown-tama-go.json) |
 | Tame It Too! | 310745 | [310745-tame-it-too.json](./310745-tame-it-too.json) |
 | Tamer Saga | 56489 | [56489-tamer-saga.json](./56489-tamer-saga.json) |
@@ -382,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempo Nuts | 256542 | [256542-tempo-nuts.json](./256542-tempo-nuts.json) |
 | Tempoknight | 224204 | [224204-tempoknight.json](./224204-tempoknight.json) |
 | Temporal Cross | 310211 | [310211-temporal-cross.json](./310211-temporal-cross.json) |
+| Ten Dates | 217256 | [217256-ten-dates.json](./217256-ten-dates.json) |
 | Tenchi Muyo! Ryo-Ohki FX | 123079 | [123079-tenchi-muyo-ryo-ohki-fx.json](./123079-tenchi-muyo-ryo-ohki-fx.json) |
 | Tenchi wo Kurau: Sangokushi Gunyuuden | 37790 | [37790-tenchi-wo-kurau-sangokushi-gunyuuden.json](./37790-tenchi-wo-kurau-sangokushi-gunyuuden.json) |
 | Tender Frame Cocoon: //Rhapsody of Cross-Pollination | 306683 | [306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json](./306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json) |
@@ -677,6 +679,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Case of the Serialized Killer | 209720 | [209720-the-case-of-the-serialized-killer.json](./209720-the-case-of-the-serialized-killer.json) |
 | The Casino: Roulette, Video Poker, Slot Machines, Craps, Baccarat | 147952 | [147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json](./147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json) |
 | The Castle Disaster 2 | 105318 | [105318-the-castle-disaster-2.json](./105318-the-castle-disaster-2.json) |
+| The Castle Doctrine | 16651 | [16651-the-castle-doctrine.json](./16651-the-castle-doctrine.json) |
+| The Cat and the Coup | 16241 | [16241-the-cat-and-the-coup.json](./16241-the-cat-and-the-coup.json) |
 | The Cat in the Hijab | 55930 | [55930-the-cat-in-the-hijab.json](./55930-the-cat-in-the-hijab.json) |
 | The Cat Maze | 218709 | [218709-the-cat-maze.json](./218709-the-cat-maze.json) |
 | The Catch: Carp & Coarse - Collector's Edition | 141891 | [141891-the-catch-carp-and-coarse-collectors-edition.json](./141891-the-catch-carp-and-coarse-collectors-edition.json) |
@@ -823,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Drafting Table | 231645 | [231645-the-drafting-table.json](./231645-the-drafting-table.json) |
 | The Dragon and the Djinn | 189166 | [189166-the-dragon-and-the-djinn.json](./189166-the-dragon-and-the-djinn.json) |
 | The Dragon Apprentice | 196883 | [196883-the-dragon-apprentice.json](./196883-the-dragon-apprentice.json) |
+| The Dragoness: Command of the Flame | 211984 | [211984-the-dragoness-command-of-the-flame.json](./211984-the-dragoness-command-of-the-flame.json) |
 | The Dragonspire | 306087 | [306087-the-dragonspire.json](./306087-the-dragonspire.json) |
 | The Drawnjuring | 311807 | [311807-the-drawnjuring.json](./311807-the-drawnjuring.json) |
 | The Dream Libra Had | 158714 | [158714-the-dream-libra-had.json](./158714-the-dream-libra-had.json) |
@@ -997,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Menace | 154029 | [154029-the-great-menace.json](./154029-the-great-menace.json) |
 | The Great Song | 179170 | [179170-the-great-song.json](./179170-the-great-song.json) |
 | The Great Stroke-Off! | 73311 | [73311-the-great-stroke-off.json](./73311-the-great-stroke-off.json) |
+| The Great War: Western Front | 214505 | [214505-the-great-war-western-front.json](./214505-the-great-war-western-front.json) |
 | The Great Yokai of the Haunted Halls | 331118 | [331118-the-great-yokai-of-the-haunted-halls.json](./331118-the-great-yokai-of-the-haunted-halls.json) |
 | The Griffon Legend | 202975 | [202975-the-griffon-legend.json](./202975-the-griffon-legend.json) |
 | The Growth Project | 26614 | [26614-the-growth-project.json](./26614-the-growth-project.json) |
@@ -1266,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Legends of Redwall: The Scout - Act 3 | 171612 | [171612-the-lost-legends-of-redwall-the-scout-act-3.json](./171612-the-lost-legends-of-redwall-the-scout-act-3.json) |
 | The Lost Marble | 161390 | [161390-the-lost-marble.json](./161390-the-lost-marble.json) |
 | The Lost Mines | 199103 | [199103-the-lost-mines.json](./199103-the-lost-mines.json) |
+| The Lost Mythologies | 17022 | [17022-the-lost-mythologies.json](./17022-the-lost-mythologies.json) |
 | The Lost Ship | 61102 | [61102-the-lost-ship.json](./61102-the-lost-ship.json) |
 | The Lost Shrine: Escape Room | 149606 | [149606-the-lost-shrine-escape-room.json](./149606-the-lost-shrine-escape-room.json) |
 | The Lost Vikings | 214769 | [214769-the-lost-vikings.json](./214769-the-lost-vikings.json) |
@@ -2209,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tin Tandem | 152396 | [152396-tin-tandem.json](./152396-tin-tandem.json) |
 | Tinting Time | 216500 | [216500-tinting-time.json](./216500-tinting-time.json) |
 | Tiny Atolls | 230529 | [230529-tiny-atolls.json](./230529-tiny-atolls.json) |
+| Tiny Barbarian DX | 16693 | [16693-tiny-barbarian-dx.json](./16693-tiny-barbarian-dx.json) |
 | Tiny Bunny | 131653 | [131653-tiny-bunny.json](./131653-tiny-bunny.json) |
 | Tiny Combat Arena | 154015 | [154015-tiny-combat-arena.json](./154015-tiny-combat-arena.json) |
 | Tiny Crate | 177568 | [177568-tiny-crate.json](./177568-tiny-crate.json) |
@@ -2909,6 +2917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron Run/r: Deluxe Edition | 53853 | [53853-tron-run-r-deluxe-edition.json](./53853-tron-run-r-deluxe-edition.json) |
 | Tron Run/r: Ultimate Edition | 53852 | [53852-tron-run-r-ultimate-edition.json](./53852-tron-run-r-ultimate-edition.json) |
 | Tron: Deadly Discs | 5710 | [5710-tron-deadly-discs.json](./5710-tron-deadly-discs.json) |
+| Tron: Identity | 216277 | [216277-tron-identity.json](./216277-tron-identity.json) |
 | Tron: Solar Sailer | 5698 | [5698-tron-solar-sailer.json](./5698-tron-solar-sailer.json) |
 | Trophy | 143070 | [143070-trophy.json](./143070-trophy.json) |
 | Tropi | 209654 | [209654-tropi.json](./209654-tropi.json) |
