@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Daisenryaku: Deutsch Dengeki Sakusen | 65524 | [65524-advanced-daisenryaku-deutsch-dengeki-sakusen.json](./65524-advanced-daisenryaku-deutsch-dengeki-sakusen.json) |
 | Advanced Dungeons & Dragons Cartridge | 84251 | [84251-advanced-dungeons-and-dragons-cartridge.json](./84251-advanced-dungeons-and-dragons-cartridge.json) |
 | Advanced Intelligence Surveillance Agency | 150651 | [150651-advanced-intelligence-surveillance-agency.json](./150651-advanced-intelligence-surveillance-agency.json) |
+| Adventure | 12239 | [12239-adventure.json](./12239-adventure.json) |
 | Adventure A: Planet of Death | 45364 | [45364-adventure-a-planet-of-death.json](./45364-adventure-a-planet-of-death.json) |
 | Adventure B: Inca Curse | 45354 | [45354-adventure-b-inca-curse.json](./45354-adventure-b-inca-curse.json) |
 | Adventure Ball 3D Balancer | 249451 | [249451-adventure-ball-3d-balancer.json](./249451-adventure-ball-3d-balancer.json) |
@@ -454,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent of Chaos | 157170 | [157170-agent-of-chaos.json](./157170-agent-of-chaos.json) |
 | Agent Roy: Secure the Temple | 229331 | [229331-agent-roy-secure-the-temple.json](./229331-agent-roy-secure-the-temple.json) |
 | Agent Sorry | 208011 | [208011-agent-sorry.json](./208011-agent-sorry.json) |
+| Agent USA | 12247 | [12247-agent-usa.json](./12247-agent-usa.json) |
 | Agents of Mayhem: Day One Edition | 52015 | [52015-agents-of-mayhem-day-one-edition.json](./52015-agents-of-mayhem-day-one-edition.json) |
 | Agharta: The Hollow Earth | 73280 | [73280-agharta-the-hollow-earth.json](./73280-agharta-the-hollow-earth.json) |
 | Agi Gongnyong Dooly | 86107 | [86107-agi-gongnyong-dooly.json](./86107-agi-gongnyong-dooly.json) |
@@ -562,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alan Probe: Amateur Surgeon | 70415 | [70415-alan-probe-amateur-surgeon.json](./70415-alan-probe-amateur-surgeon.json) |
 | Alan Wake II: The Final Draft | 298842 | [298842-alan-wake-ii-the-final-draft.json](./298842-alan-wake-ii-the-final-draft.json) |
 | Albert Odyssey 2: Jashin no Taidou | 38346 | [38346-albert-odyssey-2-jashin-no-taidou.json](./38346-albert-odyssey-2-jashin-no-taidou.json) |
+| Alcazar: The Forgotten Fortress | 12248 | [12248-alcazar-the-forgotten-fortress.json](./12248-alcazar-the-forgotten-fortress.json) |
 | Alchemic Cutie | 107171 | [107171-alchemic-cutie.json](./107171-alchemic-cutie.json) |
 | Alchemist code | 75134 | [75134-alchemist-code.json](./75134-alchemist-code.json) |
 | Alchemist Tris's Desire | 211417 | [211417-alchemist-triss-desire.json](./211417-alchemist-triss-desire.json) |
@@ -590,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlexCity 1: Bank Heist | 272010 | [272010-alexcity-1-bank-heist.json](./272010-alexcity-1-bank-heist.json) |
 | Alexi Lalas International Soccer | 43933 | [43933-alexi-lalas-international-soccer.json](./43933-alexi-lalas-international-soccer.json) |
 | Alexios the Protector | 235463 | [235463-alexios-the-protector.json](./235463-alexios-the-protector.json) |
+| ALF: The First Adventure | 12249 | [12249-alf-the-first-adventure.json](./12249-alf-the-first-adventure.json) |
 | ALF's Thinking Skills | 78720 | [78720-alfs-thinking-skills.json](./78720-alfs-thinking-skills.json) |
 | ALF's U.S. Geography | 94247 | [94247-alfs-u-s-geography.json](./94247-alfs-u-s-geography.json) |
 | Algae | 106601 | [106601-algae.json](./106601-algae.json) |
@@ -629,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Paradise | 292312 | [292312-alien-paradise.json](./292312-alien-paradise.json) |
 | Alien Planet Bell | 302130 | [302130-alien-planet-bell.json](./302130-alien-planet-bell.json) |
 | Alien Prop Hunt | 190221 | [190221-alien-prop-hunt.json](./190221-alien-prop-hunt.json) |
+| Alien Rain | 12251 | [12251-alien-rain.json](./12251-alien-rain.json) |
 | Alien Rampage | 46630 | [46630-alien-rampage.json](./46630-alien-rampage.json) |
 | Alien Shepherd | 190200 | [190200-alien-shepherd.json](./190200-alien-shepherd.json) |
 | Alien Slayers | 233772 | [233772-alien-slayers.json](./233772-alien-slayers.json) |
@@ -1056,6 +1061,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apox: Legend | 167853 | [167853-apox-legend.json](./167853-apox-legend.json) |
 | App Co Tycoon | 211438 | [211438-app-co-tycoon.json](./211438-app-co-tycoon.json) |
 | Appetite for Detestation | 147482 | [147482-appetite-for-detestation.json](./147482-appetite-for-detestation.json) |
+| Apple Cider Spider | 12254 | [12254-apple-cider-spider.json](./12254-apple-cider-spider.json) |
+| Apple Panic | 12255 | [12255-apple-panic.json](./12255-apple-panic.json) |
 | Appleseed: Prometheus no Shintaku | 38370 | [38370-appleseed-prometheus-no-shintaku.json](./38370-appleseed-prometheus-no-shintaku.json) |
 | Approaching Cao Army | 254773 | [254773-approaching-cao-army.json](./254773-approaching-cao-army.json) |
 | April '86 | 251841 | [251841-april-86.json](./251841-april-86.json) |
@@ -1194,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arghh, There's a Killer Chasing Me! | 188114 | [188114-arghh-theres-a-killer-chasing-me.json](./188114-arghh-theres-a-killer-chasing-me.json) |
 | Argonauts Agency: Chair of Hephaestus | 188084 | [188084-argonauts-agency-chair-of-hephaestus.json](./188084-argonauts-agency-chair-of-hephaestus.json) |
 | Argonauts Agency: Pandora's Box | 117094 | [117094-argonauts-agency-pandoras-box.json](./117094-argonauts-agency-pandoras-box.json) |
+| Argos | 12256 | [12256-argos.json](./12256-argos.json) |
 | Arhaekon | 195204 | [195204-arhaekon.json](./195204-arhaekon.json) |
 | Aria | 192416 | [192416-aria.json](./192416-aria.json) |
 | Aria and The Ancient Artifacts | 314053 | [314053-aria-and-the-ancient-artifacts.json](./314053-aria-and-the-ancient-artifacts.json) |
@@ -1363,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Syndicate - Gold Edition | 52626 | [52626-assassins-creed-syndicate-gold-edition.json](./52626-assassins-creed-syndicate-gold-edition.json) |
 | Assassin's Creed: Syndicate - Rooks Edition | 230499 | [230499-assassins-creed-syndicate-rooks-edition.json](./230499-assassins-creed-syndicate-rooks-edition.json) |
 | Assassination Classroom VR Balloon Challenge Time | 44611 | [44611-assassination-classroom-vr-balloon-challenge-time.json](./44611-assassination-classroom-vr-balloon-challenge-time.json) |
+| Assault on Port Stanley | 12981 | [12981-assault-on-port-stanley.json](./12981-assault-on-port-stanley.json) |
 | Assault Rei Play | 109004 | [109004-assault-rei-play.json](./109004-assault-rei-play.json) |
 | Assault Spy: Elite Spy Edition | 124831 | [124831-assault-spy-elite-spy-edition.json](./124831-assault-spy-elite-spy-edition.json) |
 | Assembly Line 2: Mobile Version | 277015 | [277015-assembly-line-2-mobile-version.json](./277015-assembly-line-2-mobile-version.json) |
@@ -1385,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astæria | 134670 | [134670-ast-ria.json](./134670-ast-ria.json) |
 | Asterelis | 118404 | [118404-asterelis.json](./118404-asterelis.json) |
 | Asterism | 119741 | [119741-asterism.json](./119741-asterism.json) |
+| Asterix | 12242 | [12242-asterix.json](./12242-asterix.json) |
 | Asterix & Obelix XXL 3: The Crystal Menhir - Collector's Edition | 166231 | [166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json](./166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json) |
 | Asterix & Obelix: Cesar's Challenge | 262663 | [262663-asterix-and-obelix-cesars-challenge.json](./262663-asterix-and-obelix-cesars-challenge.json) |
 | Astero Inc. | 176506 | [176506-astero-inc.json](./176506-astero-inc.json) |
@@ -1461,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Flashback Portable | 245573 | [245573-atari-flashback-portable.json](./245573-atari-flashback-portable.json) |
 | Atari Hits 2006 | 70971 | [70971-atari-hits-2006.json](./70971-atari-hits-2006.json) |
 | Atari Karts | 40802 | [40802-atari-karts.json](./40802-atari-karts.json) |
+| Atari Video Cube | 12243 | [12243-atari-video-cube.json](./12243-atari-video-cube.json) |
 | Ataxia | 259841 | [259841-ataxia.json](./259841-ataxia.json) |
 | ATCpro | 69318 | [69318-atcpro.json](./69318-atcpro.json) |
 | Atelier Elie: Puzzle Workshop | 338535 | [338535-atelier-elie-puzzle-workshop.json](./338535-atelier-elie-puzzle-workshop.json) |
