@@ -16,6 +16,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F/A-18 Hornet 2.0 | 47295 | [47295-f-a-18-hornet-2-0.json](./47295-f-a-18-hornet-2-0.json) |
 | F1 Circus MD | 125458 | [125458-f1-circus-md.json](./125458-f1-circus-md.json) |
 | F1 Online: The Game | 92512 | [92512-f1-online-the-game.json](./92512-f1-online-the-game.json) |
+| F1 Pole Position 64 | 3494 | [3494-f1-pole-position-64.json](./3494-f1-pole-position-64.json) |
+| F1 Racing Championship | 3495 | [3495-f1-racing-championship.json](./3495-f1-racing-championship.json) |
 | F1 Racing Championship 2 | 137653 | [137653-f1-racing-championship-2.json](./137653-f1-racing-championship-2.json) |
 | F18 Pilot Simulator | 174355 | [174355-f18-pilot-simulator.json](./174355-f18-pilot-simulator.json) |
 | Fabby Golf | 239324 | [239324-fabby-golf.json](./239324-fabby-golf.json) |
@@ -874,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox and Shadow | 320556 | [320556-fox-and-shadow.json](./320556-fox-and-shadow.json) |
 | Fox Detective | 97912 | [97912-fox-detective.json](./97912-fox-detective.json) |
 | Fox Girl Taming | 239318 | [239318-fox-girl-taming.json](./239318-fox-girl-taming.json) |
+| Fox Sports College Hoops '99 | 3498 | [3498-fox-sports-college-hoops-99.json](./3498-fox-sports-college-hoops-99.json) |
 | Fox Stories | 154566 | [154566-fox-stories.json](./154566-fox-stories.json) |
 | Fox-Trot Over Run | 130970 | [130970-fox-trot-over-run.json](./130970-fox-trot-over-run.json) |
 | Fox's Peter Pan & The Pirates: The Revenge of Captain Hook | 72710 | [72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json](./72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json) |
