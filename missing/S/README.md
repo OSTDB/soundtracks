@@ -917,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showdown of Fate | 273092 | [273092-showdown-of-fate.json](./273092-showdown-of-fate.json) |
 | Showgunners: Security Breach | 257677 | [257677-showgunners-security-breach.json](./257677-showgunners-security-breach.json) |
 | ShowMeSpeed | 303768 | [303768-showmespeed.json](./303768-showmespeed.json) |
+| Shox: Rally Reinvented | 8265 | [8265-shox-rally-reinvented.json](./8265-shox-rally-reinvented.json) |
 | Shredz64 | 84268 | [84268-shredz64.json](./84268-shredz64.json) |
 | Shrek Playtime is Ogre | 302687 | [302687-shrek-playtime-is-ogre.json](./302687-shrek-playtime-is-ogre.json) |
 | Shrek Playtime is Ogre 2 | 302685 | [302685-shrek-playtime-is-ogre-2.json](./302685-shrek-playtime-is-ogre-2.json) |
@@ -1062,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SiN Episodes: Emergence | 14788 | [14788-sin-episodes-emergence.json](./14788-sin-episodes-emergence.json) |
 | Sin Slayers: Enhanced Edition | 148002 | [148002-sin-slayers-enhanced-edition.json](./148002-sin-slayers-enhanced-edition.json) |
 | Sin Slayers: Reign of The 8th | 291758 | [291758-sin-slayers-reign-of-the-8th.json](./291758-sin-slayers-reign-of-the-8th.json) |
+| SiN: Wages of Sin | 8717 | [8717-sin-wages-of-sin.json](./8717-sin-wages-of-sin.json) |
 | Sinbad & the Golden Ship | 71509 | [71509-sinbad-and-the-golden-ship.json](./71509-sinbad-and-the-golden-ship.json) |
 | Sincere Deceit | 328230 | [328230-sincere-deceit.json](./328230-sincere-deceit.json) |
 | SinClient | 82951 | [82951-sinclient.json](./82951-sinclient.json) |
@@ -1129,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelethrone: The Chronicles of Ericona - Complete Edition | 340744 | [340744-skelethrone-the-chronicles-of-ericona-complete-edition.json](./340744-skelethrone-the-chronicles-of-ericona-complete-edition.json) |
 | Skeleton King | 163962 | [163962-skeleton-king.json](./163962-skeleton-king.json) |
 | Skeleton vs zombies | 127363 | [127363-skeleton-vs-zombies.json](./127363-skeleton-vs-zombies.json) |
+| Skeleton Warriors | 8084 | [8084-skeleton-warriors.json](./8084-skeleton-warriors.json) |
 | Skeletris | 134701 | [134701-skeletris.json](./134701-skeletris.json) |
 | Skelets | 140620 | [140620-skelets.json](./140620-skelets.json) |
 | Skellington | 224758 | [224758-skellington.json](./224758-skellington.json) |
@@ -2088,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split/Second | 2150 | [2150-split-second.json](./2150-split-second.json) |
 | Splodey | 282965 | [282965-splodey.json](./282965-splodey.json) |
 | Splosion Man | 8354 | [8354-splosion-man.json](./8354-splosion-man.json) |
+| SpongeBob HeroPants | 8474 | [8474-spongebob-heropants.json](./8474-spongebob-heropants.json) |
 | SpongeBob SquarePants: Flip or Flop | 273123 | [273123-spongebob-squarepants-flip-or-flop.json](./273123-spongebob-squarepants-flip-or-flop.json) |
 | SpongeBob SquarePants: Nighty Nightmare | 18301 | [18301-spongebob-squarepants-nighty-nightmare.json](./18301-spongebob-squarepants-nighty-nightmare.json) |
 | SpongeBob SquarePants: Titans of the Tide | 358751 | [358751-spongebob-squarepants-titans-of-the-tide.json](./358751-spongebob-squarepants-titans-of-the-tide.json) |
@@ -2215,6 +2219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staircase55 | 253603 | [253603-staircase55.json](./253603-staircase55.json) |
 | Stairs of Basically | 259839 | [259839-stairs-of-basically.json](./259839-stairs-of-basically.json) |
 | Stakes Winner | 39626 | [39626-stakes-winner.json](./39626-stakes-winner.json) |
+| Stalin vs. Martians | 8543 | [8543-stalin-vs-martians.json](./8543-stalin-vs-martians.json) |
 | Stalin vs. Martians 4 | 117736 | [117736-stalin-vs-martians-4.json](./117736-stalin-vs-martians-4.json) |
 | Stalker Defender Bunker 3D | 89238 | [89238-stalker-defender-bunker-3d.json](./89238-stalker-defender-bunker-3d.json) |
 | Stallions in America | 199117 | [199117-stallions-in-america.json](./199117-stallions-in-america.json) |
