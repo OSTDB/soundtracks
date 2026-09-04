@@ -1094,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorSense | 182516 | [182516-colorsense.json](./182516-colorsense.json) |
 | Colossal Cave VR | 253587 | [253587-colossal-cave-vr.json](./253587-colossal-cave-vr.json) |
 | Colossal Saga | 126663 | [126663-colossal-saga.json](./126663-colossal-saga.json) |
+| Colossatron: Massive World Threat | 62546 | [62546-colossatron-massive-world-threat.json](./62546-colossatron-massive-world-threat.json) |
 | Colossus Down: Destroy'em Up Editon | 150145 | [150145-colossus-down-destroyem-up-editon.json](./150145-colossus-down-destroyem-up-editon.json) |
 | Colour Clash | 94228 | [94228-colour-clash.json](./94228-colour-clash.json) |
 | Colourise | 29897 | [29897-colourise.json](./29897-colourise.json) |
@@ -1835,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cymut x Mutrobo: The Last Cymut | 292326 | [292326-cymut-x-mutrobo-the-last-cymut.json](./292326-cymut-x-mutrobo-the-last-cymut.json) |
 | Cynoroid Gaiden | 150167 | [150167-cynoroid-gaiden.json](./150167-cynoroid-gaiden.json) |
 | Cypest Underground | 111734 | [111734-cypest-underground.json](./111734-cypest-underground.json) |
+| Cypher: Cyberpunk Text Adventure | 64616 | [64616-cypher-cyberpunk-text-adventure.json](./64616-cypher-cyberpunk-text-adventure.json) |
 | Cyrus II Chess | 12988 | [12988-cyrus-ii-chess.json](./12988-cyrus-ii-chess.json) |
 | Cytoplasm Madness | 180839 | [180839-cytoplasm-madness.json](./180839-cytoplasm-madness.json) |
 | Cytron Masters | 22489 | [22489-cytron-masters.json](./22489-cytron-masters.json) |
