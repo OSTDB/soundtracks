@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Dive: The Last Tropic | 277021 | [277021-dark-dive-the-last-tropic.json](./277021-dark-dive-the-last-tropic.json) |
 | Dark Fairy Fantasy | 122432 | [122432-dark-fairy-fantasy.json](./122432-dark-fairy-fantasy.json) |
 | Dark Farm | 322995 | [322995-dark-farm.json](./322995-dark-farm.json) |
+| Dark Horizon | 19639 | [19639-dark-horizon.json](./19639-dark-horizon.json) |
 | Dark Hours | 251843 | [251843-dark-hours.json](./251843-dark-hours.json) |
 | Dark Hunter | 311784 | [311784-dark-hunter.json](./311784-dark-hunter.json) |
 | Dark Inquisition | 278162 | [278162-dark-inquisition.json](./278162-dark-inquisition.json) |
@@ -474,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hunt Challenge | 78044 | [78044-deer-hunt-challenge.json](./78044-deer-hunt-challenge.json) |
 | Deer Hunter | 206345 | [206345-deer-hunter.json](./206345-deer-hunter.json) |
 | Deer Hunter Classic | 86940 | [86940-deer-hunter-classic.json](./86940-deer-hunter-classic.json) |
+| Deer Man | 19045 | [19045-deer-man.json](./19045-deer-man.json) |
 | Def Leppard: Let's Rock It! | 254164 | [254164-def-leppard-lets-rock-it.json](./254164-def-leppard-lets-rock-it.json) |
 | Defence Agent Gaya | 82906 | [82906-defence-agent-gaya.json](./82906-defence-agent-gaya.json) |
 | Defend Him, Not Me! | 318800 | [318800-defend-him-not-me.json](./318800-defend-him-not-me.json) |
@@ -645,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Despair | 268774 | [268774-despair.json](./268774-despair.json) |
 | Despair 3 | 57684 | [57684-despair-3.json](./57684-despair-3.json) |
 | Desperabis | 121707 | [121707-desperabis.json](./121707-desperabis.json) |
+| Despicable Me: The Game | 19652 | [19652-despicable-me-the-game.json](./19652-despicable-me-the-game.json) |
 | Desstroke | 207505 | [207505-desstroke.json](./207505-desstroke.json) |
 | Destination Bangkok | 214756 | [214756-destination-bangkok.json](./214756-destination-bangkok.json) |
 | Destination Dungeons: Catacombs of Dreams | 103482 | [103482-destination-dungeons-catacombs-of-dreams.json](./103482-destination-dungeons-catacombs-of-dreams.json) |
@@ -1511,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop & Smash | 227483 | [227483-drop-and-smash.json](./227483-drop-and-smash.json) |
 | Droplet | 176483 | [176483-droplet.json](./176483-droplet.json) |
 | Droplet | 314678 | [314678-droplet.json](./314678-droplet.json) |
+| DropZone | 19546 | [19546-dropzone.json](./19546-dropzone.json) |
 | Drowning Cross | 119750 | [119750-drowning-cross.json](./119750-drowning-cross.json) |
 | Drug Grower Simulator | 217508 | [217508-drug-grower-simulator.json](./217508-drug-grower-simulator.json) |
 | Drugs and Crime Idle | 153426 | [153426-drugs-and-crime-idle.json](./153426-drugs-and-crime-idle.json) |
@@ -1536,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Pack I Awakening: The Goblin Kingdom and Awakening: The Skyward Castle | 201857 | [201857-dual-pack-i-awakening-the-goblin-kingdom-and-awakening-the-skyward-castle.json](./201857-dual-pack-i-awakening-the-goblin-kingdom-and-awakening-the-skyward-castle.json) |
 | Dual Pack I Spirits of Mystery: Song of the Phoenix & Spirits of Mystery: The Dark Minotaur | 201853 | [201853-dual-pack-i-spirits-of-mystery-song-of-the-phoenix-and-spirits-of-mystery-the-dark-minotaur.json](./201853-dual-pack-i-spirits-of-mystery-song-of-the-phoenix-and-spirits-of-mystery-the-dark-minotaur.json) |
 | Dual! | 90676 | [90676-dual.json](./90676-dual.json) |
+| Ducati World Championship | 19353 | [19353-ducati-world-championship.json](./19353-ducati-world-championship.json) |
 | Duck 'n' Cover | 75869 | [75869-duck-n-cover.json](./75869-duck-n-cover.json) |
 | Duck Creator 2 | 306082 | [306082-duck-creator-2.json](./306082-duck-creator-2.json) |
 | Duck Detective: The Secret Salami | 279374 | [279374-duck-detective-the-secret-salami.json](./279374-duck-detective-the-secret-salami.json) |
