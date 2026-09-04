@@ -314,6 +314,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat's Request | 237043 | [237043-cats-request.json](./237043-cats-request.json) |
 | Cataclysm | 250651 | [250651-cataclysm.json](./250651-cataclysm.json) |
 | Cataclysm Upon Us | 274771 | [274771-cataclysm-upon-us.json](./274771-cataclysm-upon-us.json) |
+| Catacomb | 11042 | [11042-catacomb.json](./11042-catacomb.json) |
+| Catacomb Abyss 3D | 11044 | [11044-catacomb-abyss-3d.json](./11044-catacomb-abyss-3d.json) |
+| Catacomb II | 11043 | [11043-catacomb-ii.json](./11043-catacomb-ii.json) |
 | Catacomb Kitties | 224207 | [224207-catacomb-kitties.json](./224207-catacomb-kitties.json) |
 | Catacombs | 142466 | [142466-catacombs.json](./142466-catacombs.json) |
 | Catacombs | 169979 | [169979-catacombs.json](./169979-catacombs.json) |
@@ -752,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CJ Dreams | 263226 | [263226-cj-dreams.json](./263226-cj-dreams.json) |
 | Clan Wars | 188089 | [188089-clan-wars.json](./188089-clan-wars.json) |
 | ClanRivals: Vikings | 159876 | [159876-clanrivals-vikings.json](./159876-clanrivals-vikings.json) |
+| Clarc | 11047 | [11047-clarc.json](./11047-clarc.json) |
 | Clarent Saga: Tactics | 135271 | [135271-clarent-saga-tactics.json](./135271-clarent-saga-tactics.json) |
 | Clash of Champs | 56529 | [56529-clash-of-champs.json](./56529-clash-of-champs.json) |
 | Clash of Chess | 174898 | [174898-clash-of-chess.json](./174898-clash-of-chess.json) |
@@ -1166,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corruption | 101599 | [101599-corruption.json](./101599-corruption.json) |
 | Corruption Catharsis: Try To Act Normal | 271507 | [271507-corruption-catharsis-try-to-act-normal.json](./271507-corruption-catharsis-try-to-act-normal.json) |
 | Corruption: Political Simulator Strategy | 271476 | [271476-corruption-political-simulator-strategy.json](./271476-corruption-political-simulator-strategy.json) |
+| Corsairs: The New Conquerors | 11048 | [11048-corsairs-the-new-conquerors.json](./11048-corsairs-the-new-conquerors.json) |
 | Corvian Curse | 269852 | [269852-corvian-curse.json](./269852-corvian-curse.json) |
 | Cos-tte! Aki-san! vol.2 | 98460 | [98460-cos-tte-aki-san-vol-2.json](./98460-cos-tte-aki-san-vol-2.json) |
 | Cosmetic Paradise: Kirei no Mahou | 130393 | [130393-cosmetic-paradise-kirei-no-mahou.json](./130393-cosmetic-paradise-kirei-no-mahou.json) |
@@ -1628,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunkdreams | 140018 | [140018-cyberpunkdreams.json](./140018-cyberpunkdreams.json) |
 | CyberSeas | 324716 | [324716-cyberseas.json](./324716-cyberseas.json) |
 | Cybersphere | 228696 | [228696-cybersphere.json](./228696-cybersphere.json) |
+| CyberStorm 2: Corporate Wars | 11028 | [11028-cyberstorm-2-corporate-wars.json](./11028-cyberstorm-2-corporate-wars.json) |
 | CyberTaxi | 140602 | [140602-cybertaxi.json](./140602-cybertaxi.json) |
 | CyberWave Survivor | 254173 | [254173-cyberwave-survivor.json](./254173-cyberwave-survivor.json) |
 | Cyberwinter | 158194 | [158194-cyberwinter.json](./158194-cyberwinter.json) |
