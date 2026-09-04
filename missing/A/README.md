@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Story of a Company! | 200740 | [200740-a-story-of-a-company.json](./200740-a-story-of-a-company.json) |
 | A Story of Us: Ep. 1 - First Memories | 115043 | [115043-a-story-of-us-ep-1-first-memories.json](./115043-a-story-of-us-ep-1-first-memories.json) |
 | A Tale of Body Limbs | 331142 | [331142-a-tale-of-body-limbs.json](./331142-a-tale-of-body-limbs.json) |
+| A Tale of Paper | 102803 | [102803-a-tale-of-paper.json](./102803-a-tale-of-paper.json) |
 | A Tale of Survival | 61100 | [61100-a-tale-of-survival.json](./61100-a-tale-of-survival.json) |
 | A Tale of Synapse: The Chaos Theories - Collector's Edition | 152341 | [152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json](./152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json) |
 | A Terrible Place | 237062 | [237062-a-terrible-place.json](./237062-a-terrible-place.json) |
@@ -278,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Hunter: Begins | 307333 | [307333-achievement-hunter-begins.json](./307333-achievement-hunter-begins.json) |
 | Achilles: Legends Untold | 160293 | [160293-achilles-legends-untold.json](./160293-achilles-legends-untold.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
+| Acid Spy | 102877 | [102877-acid-spy.json](./102877-acid-spy.json) |
 | Ack-Ack Attack! | 79318 | [79318-ack-ack-attack.json](./79318-ack-ack-attack.json) |
 | ACL Pro Cornhole | 211391 | [211391-acl-pro-cornhole.json](./211391-acl-pro-cornhole.json) |
 | ACM 1918 | 129795 | [129795-acm-1918.json](./129795-acm-1918.json) |
@@ -1202,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc Style Solitaire | 62222 | [62222-arc-style-solitaire.json](./62222-arc-style-solitaire.json) |
 | ARCA Sim Racing 08' | 197936 | [197936-arca-sim-racing-08.json](./197936-arca-sim-racing-08.json) |
 | ARCA Sim Racing X | 197923 | [197923-arca-sim-racing-x.json](./197923-arca-sim-racing-x.json) |
+| Arca's Path | 103053 | [103053-arcas-path.json](./103053-arcas-path.json) |
 | Arcade Action | 93560 | [93560-arcade-action.json](./93560-arcade-action.json) |
 | Arcade Archives: Bells & Whistles | 129192 | [129192-arcade-archives-bells-and-whistles.json](./129192-arcade-archives-bells-and-whistles.json) |
 | Arcade Archives: Bosconian | 263187 | [263187-arcade-archives-bosconian.json](./263187-arcade-archives-bosconian.json) |
