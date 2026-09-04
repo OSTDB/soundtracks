@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon DS: Island of Happiness | 3387 | [3387-harvest-moon-ds-island-of-happiness.json](./3387-harvest-moon-ds-island-of-happiness.json) |
 | Harvest Moon: Back to Nature | 3380 | [3380-harvest-moon-back-to-nature.json](./3380-harvest-moon-back-to-nature.json) |
 | Harvest Moon: Hero of Leaf Valley | 42887 | [42887-harvest-moon-hero-of-leaf-valley.json](./42887-harvest-moon-hero-of-leaf-valley.json) |
+| Harvest Moon: Light of Hope | 28843 | [28843-harvest-moon-light-of-hope.json](./28843-harvest-moon-light-of-hope.json) |
 | Harvest Moon: One World Bundle | 173798 | [173798-harvest-moon-one-world-bundle.json](./173798-harvest-moon-one-world-bundle.json) |
 | Harvest Them | 239295 | [239295-harvest-them.json](./239295-harvest-them.json) |
 | Harvest Uranus | 244514 | [244514-harvest-uranus.json](./244514-harvest-uranus.json) |
