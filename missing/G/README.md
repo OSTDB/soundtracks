@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Wars: Space Launcher | 312874 | [312874-galaxy-wars-space-launcher.json](./312874-galaxy-wars-space-launcher.json) |
 | Galaxystrife | 177018 | [177018-galaxystrife.json](./177018-galaxystrife.json) |
 | Galer: Plague of Heroes | 31924 | [31924-galer-plague-of-heroes.json](./31924-galer-plague-of-heroes.json) |
+| Galletron | 13001 | [13001-galletron.json](./13001-galletron.json) |
 | Gallium | 314077 | [314077-gallium.json](./314077-gallium.json) |
 | Galvatia | 169474 | [169474-galvatia.json](./169474-galvatia.json) |
 | Gambler Jiko Chuushinha 2 | 267650 | [267650-gambler-jiko-chuushinha-2.json](./267650-gambler-jiko-chuushinha-2.json) |
@@ -399,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glasses and Girls | 248930 | [248930-glasses-and-girls.json](./248930-glasses-and-girls.json) |
 | Glassfall | 250017 | [250017-glassfall.json](./250017-glassfall.json) |
 | Gli Animotosi e la Macchina Motante | 213625 | [213625-gli-animotosi-e-la-macchina-motante.json](./213625-gli-animotosi-e-la-macchina-motante.json) |
+| Glider Rider | 13002 | [13002-glider-rider.json](./13002-glider-rider.json) |
 | Glider Simulator | 326413 | [326413-glider-simulator.json](./326413-glider-simulator.json) |
 | Glimpse | 235988 | [235988-glimpse.json](./235988-glimpse.json) |
 | Glimpse | 278129 | [278129-glimpse.json](./278129-glimpse.json) |
@@ -504,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godsworn | 213612 | [213612-godsworn.json](./213612-godsworn.json) |
 | Godzilla | 75888 | [75888-godzilla.json](./75888-godzilla.json) |
 | Godzilla | 75892 | [75892-godzilla.json](./75892-godzilla.json) |
+| Godzilla | 7744 | [7744-godzilla.json](./7744-godzilla.json) |
 | Godzilla Defense Force | 119058 | [119058-godzilla-defense-force.json](./119058-godzilla-defense-force.json) |
 | Godzilla Online | 72723 | [72723-godzilla-online.json](./72723-godzilla-online.json) |
 | Godzilla Voxel Wars | 264341 | [264341-godzilla-voxel-wars.json](./264341-godzilla-voxel-wars.json) |
@@ -862,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilds n Glory | 213001 | [213001-guilds-n-glory.json](./213001-guilds-n-glory.json) |
 | Guillermo Tell | 146307 | [146307-guillermo-tell.json](./146307-guillermo-tell.json) |
 | Guilty | 215389 | [215389-guilty.json](./215389-guilty.json) |
+| Guilty | 7839 | [7839-guilty.json](./7839-guilty.json) |
 | Guilty Crown: Lost Christmas | 80569 | [80569-guilty-crown-lost-christmas.json](./80569-guilty-crown-lost-christmas.json) |
 | Guilty Gear Xrd: Revelator - Let's Rock! Edition | 89928 | [89928-guilty-gear-xrd-revelator-lets-rock-edition.json](./89928-guilty-gear-xrd-revelator-lets-rock-edition.json) |
 | Guilty Gear: Strive - Additional Character 6: Bridget | 213005 | [213005-guilty-gear-strive-additional-character-6-bridget.json](./213005-guilty-gear-strive-additional-character-6-bridget.json) |
@@ -930,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunslinger Trainer | 33158 | [33158-gunslinger-trainer.json](./33158-gunslinger-trainer.json) |
 | GunSoul Girl 2 | 213000 | [213000-gunsoul-girl-2.json](./213000-gunsoul-girl-2.json) |
 | Gunstable | 180800 | [180800-gunstable.json](./180800-gunstable.json) |
+| Gunstar | 13003 | [13003-gunstar.json](./13003-gunstar.json) |
 | Guntastic | 113024 | [113024-guntastic.json](./113024-guntastic.json) |
 | Guntris | 311824 | [311824-guntris.json](./311824-guntris.json) |
 | GunWorld VR | 159853 | [159853-gunworld-vr.json](./159853-gunworld-vr.json) |
