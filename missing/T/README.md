@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hotel: Floor 13 | 272576 | [272576-the-hotel-floor-13.json](./272576-the-hotel-floor-13.json) |
 | The House in the Woods | 176505 | [176505-the-house-in-the-woods.json](./176505-the-house-in-the-woods.json) |
 | The House of Big people | 188677 | [188677-the-house-of-big-people.json](./188677-the-house-of-big-people.json) |
+| The House of Da Vinci | 39749 | [39749-the-house-of-da-vinci.json](./39749-the-house-of-da-vinci.json) |
 | The House of the Dead 2 | 13777 | [13777-the-house-of-the-dead-2.json](./13777-the-house-of-the-dead-2.json) |
 | The House that Jack Built | 25725 | [25725-the-house-that-jack-built.json](./25725-the-house-that-jack-built.json) |
 | The Humans 2: Jurassic Levels | 39032 | [39032-the-humans-2-jurassic-levels.json](./39032-the-humans-2-jurassic-levels.json) |
@@ -1018,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Isle | 25838 | [25838-the-isle.json](./25838-the-isle.json) |
 | The Isle Survival | 261507 | [261507-the-isle-survival.json](./261507-the-isle-survival.json) |
 | The Isolated Town | 253594 | [253594-the-isolated-town.json](./253594-the-isolated-town.json) |
+| The Jackbox Party Pack 7 | 138375 | [138375-the-jackbox-party-pack-7.json](./138375-the-jackbox-party-pack-7.json) |
 | The Jellyfish Girl's Absolute Abnormal Adventure | 194656 | [194656-the-jellyfish-girls-absolute-abnormal-adventure.json](./194656-the-jellyfish-girls-absolute-abnormal-adventure.json) |
 | The journey to the party | 179743 | [179743-the-journey-to-the-party.json](./179743-the-journey-to-the-party.json) |
 | The Journey VR | 30873 | [30873-the-journey-vr.json](./30873-the-journey-vr.json) |
@@ -1669,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Visitors | 130969 | [130969-the-visitors.json](./130969-the-visitors.json) |
 | The Voice of Germany: Das offizielle Videospiel! | 332829 | [332829-the-voice-of-germany-das-offizielle-videospiel.json](./332829-the-voice-of-germany-das-offizielle-videospiel.json) |
 | The Voices Games 2D Collection | 208590 | [208590-the-voices-games-2d-collection.json](./208590-the-voices-games-2d-collection.json) |
+| The Void | 3273 | [3273-the-void.json](./3273-the-void.json) |
 | The Volcano | 125463 | [125463-the-volcano.json](./125463-the-volcano.json) |
 | The Vomit | 323535 | [323535-the-vomit.json](./323535-the-vomit.json) |
 | The VR Canyon | 126660 | [126660-the-vr-canyon.json](./126660-the-vr-canyon.json) |
@@ -2255,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Rumble: Cursed Vampire | 170558 | [170558-tomb-rumble-cursed-vampire.json](./170558-tomb-rumble-cursed-vampire.json) |
 | Tomb Stalkers | 304371 | [304371-tomb-stalkers.json](./304371-tomb-stalkers.json) |
 | Tomb Towers | 99610 | [99610-tomb-towers.json](./99610-tomb-towers.json) |
+| Tomba! 2: The Evil Swine Return | 4100 | [4100-tomba-2-the-evil-swine-return.json](./4100-tomba-2-the-evil-swine-return.json) |
 | Tombed | 242820 | [242820-tombed.json](./242820-tombed.json) |
 | Tombo Survivor | 157167 | [157167-tombo-survivor.json](./157167-tombo-survivor.json) |
 | Tombstone Tally | 319361 | [319361-tombstone-tally.json](./319361-tombstone-tally.json) |
