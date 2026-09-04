@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabbage Patch Kids: The Patch Puppy Rescue | 49363 | [49363-cabbage-patch-kids-the-patch-puppy-rescue.json](./49363-cabbage-patch-kids-the-patch-puppy-rescue.json) |
 | Cabela's 4x4 Off-Road Adventure | 94238 | [94238-cabelas-4x4-off-road-adventure.json](./94238-cabelas-4x4-off-road-adventure.json) |
 | Cabela's 4x4 Off-Road Adventure 2 | 92531 | [92531-cabelas-4x4-off-road-adventure-2.json](./92531-cabelas-4x4-off-road-adventure-2.json) |
+| Cabela's 4X4 Off-Road Adventure 3 | 23702 | [23702-cabelas-4x4-off-road-adventure-3.json](./23702-cabelas-4x4-off-road-adventure-3.json) |
 | Cabela's Big Game Hunter: 2004 Season | 69861 | [69861-cabelas-big-game-hunter-2004-season.json](./69861-cabelas-big-game-hunter-2004-season.json) |
 | Cabela's Dangerous Hunts | 5763 | [5763-cabelas-dangerous-hunts.json](./5763-cabelas-dangerous-hunts.json) |
 | Cabela's Deer Hunt: 2004 Season | 5764 | [5764-cabelas-deer-hunt-2004-season.json](./5764-cabelas-deer-hunt-2004-season.json) |
@@ -95,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp Lazlo: Jumping Jelly Beans | 314031 | [314031-camp-lazlo-jumping-jelly-beans.json](./314031-camp-lazlo-jumping-jelly-beans.json) |
 | Camp Palut | 173827 | [173827-camp-palut.json](./173827-camp-palut.json) |
 | Camp Rock | 221995 | [221995-camp-rock.json](./221995-camp-rock.json) |
+| Camp Sunshine | 25605 | [25605-camp-sunshine.json](./25605-camp-sunshine.json) |
 | Camp W | 99025 | [99025-camp-w.json](./99025-camp-w.json) |
 | Campaign Ozark | 135885 | [135885-campaign-ozark.json](./135885-campaign-ozark.json) |
 | Campaign Series Vietnam | 150123 | [150123-campaign-series-vietnam.json](./150123-campaign-series-vietnam.json) |
@@ -561,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess: Secrets of the Grandmasters | 206967 | [206967-chess-secrets-of-the-grandmasters.json](./206967-chess-secrets-of-the-grandmasters.json) |
 | Chess.com | 121957 | [121957-chess-com.json](./121957-chess-com.json) |
 | ChesseR | 78700 | [78700-chesser.json](./78700-chesser.json) |
+| Chessmaster | 23714 | [23714-chessmaster.json](./23714-chessmaster.json) |
 | Chest Mate | 195240 | [195240-chest-mate.json](./195240-chest-mate.json) |
 | Chester Cheetah: Too Cool to Fool | 46255 | [46255-chester-cheetah-too-cool-to-fool.json](./46255-chester-cheetah-too-cool-to-fool.json) |
 | Chester Cheetah: Wild Wild Quest | 46283 | [46283-chester-cheetah-wild-wild-quest.json](./46283-chester-cheetah-wild-wild-quest.json) |
@@ -1186,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conqueror 940 AD | 144985 | [144985-conqueror-940-ad.json](./144985-conqueror-940-ad.json) |
 | Conqueror's Blade: Colosseum | 217526 | [217526-conquerors-blade-colosseum.json](./217526-conquerors-blade-colosseum.json) |
 | Conqueror's Blade: Helheim | 217525 | [217525-conquerors-blade-helheim.json](./217525-conquerors-blade-helheim.json) |
+| Conquest of Elysium 4 | 24605 | [24605-conquest-of-elysium-4.json](./24605-conquest-of-elysium-4.json) |
 | Conquest of Kings | 295566 | [295566-conquest-of-kings.json](./295566-conquest-of-kings.json) |
 | Conquest of the Crystal Palace | 48068 | [48068-conquest-of-the-crystal-palace.json](./48068-conquest-of-the-crystal-palace.json) |
 | Conquest of the World | 47293 | [47293-conquest-of-the-world.json](./47293-conquest-of-the-world.json) |
@@ -1513,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Pursuit Force | 110349 | [110349-criminal-pursuit-force.json](./110349-criminal-pursuit-force.json) |
 | Criminal Stories: CSI Episode | 215394 | [215394-criminal-stories-csi-episode.json](./215394-criminal-stories-csi-episode.json) |
 | Crimson III | 335119 | [335119-crimson-iii.json](./335119-crimson-iii.json) |
+| Crimson Room: Decade | 25809 | [25809-crimson-room-decade.json](./25809-crimson-room-decade.json) |
 | Crimson Skies | 15863 | [15863-crimson-skies.json](./15863-crimson-skies.json) |
 | Crimson Souls | 109696 | [109696-crimson-souls.json](./109696-crimson-souls.json) |
 | Crimson Thread of Fate | 318769 | [318769-crimson-thread-of-fate.json](./318769-crimson-thread-of-fate.json) |
@@ -1565,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CRSED: F.O.A.D. - Lone Wolf | 171061 | [171061-crsed-f-o-a-d-lone-wolf.json](./171061-crsed-f-o-a-d-lone-wolf.json) |
 | CRSED: F.O.A.D. - Metal Zombie | 171058 | [171058-crsed-f-o-a-d-metal-zombie.json](./171058-crsed-f-o-a-d-metal-zombie.json) |
 | CRSED: F.O.A.D. - Street Kid | 171060 | [171060-crsed-f-o-a-d-street-kid.json](./171060-crsed-f-o-a-d-street-kid.json) |
+| Crucible | 24653 | [24653-crucible.json](./24653-crucible.json) |
 | Crucified Dreams | 260959 | [260959-crucified-dreams.json](./260959-crucified-dreams.json) |
 | Cruellete | 335676 | [335676-cruellete.json](./335676-cruellete.json) |
 | Cruise Ships Manager | 218698 | [218698-cruise-ships-manager.json](./218698-cruise-ships-manager.json) |
