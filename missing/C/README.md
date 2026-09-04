@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Pool and Cyber Pool Bundle | 251804 | [251804-classic-pool-and-cyber-pool-bundle.json](./251804-classic-pool-and-cyber-pool-bundle.json) |
 | Classic Snake Adventures | 130395 | [130395-classic-snake-adventures.json](./130395-classic-snake-adventures.json) |
 | Classic Solitaire | 323511 | [323511-classic-solitaire.json](./323511-classic-solitaire.json) |
+| Classic Sudoku | 126741 | [126741-classic-sudoku.json](./126741-classic-sudoku.json) |
 | Classic Sudoku | 206973 | [206973-classic-sudoku.json](./206973-classic-sudoku.json) |
 | Classic Words Plus | 101589 | [101589-classic-words-plus.json](./101589-classic-words-plus.json) |
 | Classical Jukebox | 175933 | [175933-classical-jukebox.json](./175933-classical-jukebox.json) |
@@ -1489,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Battle Simulator | 265388 | [265388-creature-battle-simulator.json](./265388-creature-battle-simulator.json) |
 | Creature Crunch | 7731 | [7731-creature-crunch.json](./7731-creature-crunch.json) |
 | Creature Hunter | 199659 | [199659-creature-hunter.json](./199659-creature-hunter.json) |
+| Creature Keeper | 127563 | [127563-creature-keeper.json](./127563-creature-keeper.json) |
 | Creature Kitchen | 363954 | [363954-creature-kitchen.json](./363954-creature-kitchen.json) |
 | Creature Lab | 156674 | [156674-creature-lab.json](./156674-creature-lab.json) |
 | Creatures 2 | 11371 | [11371-creatures-2.json](./11371-creatures-2.json) |
@@ -1501,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Claus | 322373 | [322373-creepy-claus.json](./322373-creepy-claus.json) |
 | Creepy Corridors | 23902 | [23902-creepy-corridors.json](./23902-creepy-corridors.json) |
 | Creepy Tale 3: Ingrid Penance | 211024 | [211024-creepy-tale-3-ingrid-penance.json](./211024-creepy-tale-3-ingrid-penance.json) |
+| Creme de la Creme | 126884 | [126884-creme-de-la-creme.json](./126884-creme-de-la-creme.json) |
 | Crescendo Of Dreams + Surmounting Terror | 271490 | [271490-crescendo-of-dreams-surmounting-terror.json](./271490-crescendo-of-dreams-surmounting-terror.json) |
 | Crescent Loom | 134667 | [134667-crescent-loom.json](./134667-crescent-loom.json) |
 | Crescite | 262096 | [262096-crescite.json](./262096-crescite.json) |
@@ -1711,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curling on Line | 166769 | [166769-curling-on-line.json](./166769-curling-on-line.json) |
 | Curling World Cup | 98983 | [98983-curling-world-cup.json](./98983-curling-world-cup.json) |
 | CurryKitten FPV Simulator | 169443 | [169443-currykitten-fpv-simulator.json](./169443-currykitten-fpv-simulator.json) |
+| Curse of Anabelle | 122826 | [122826-curse-of-anabelle.json](./122826-curse-of-anabelle.json) |
 | Curse of Blood | 312893 | [312893-curse-of-blood.json](./312893-curse-of-blood.json) |
 | Curse of Issyos | 137101 | [137101-curse-of-issyos.json](./137101-curse-of-issyos.json) |
 | Curse of the Deadwood | 172152 | [172152-curse-of-the-deadwood.json](./172152-curse-of-the-deadwood.json) |
