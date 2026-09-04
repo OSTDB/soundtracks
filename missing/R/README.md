@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Island | 120393 | [120393-red-island.json](./120393-red-island.json) |
 | Red Letter Day 2 | 253043 | [253043-red-letter-day-2.json](./253043-red-letter-day-2.json) |
 | Red Machina Teaser: ThoughtJudger | 270939 | [270939-red-machina-teaser-thoughtjudger.json](./270939-red-machina-teaser-thoughtjudger.json) |
+| Red Matter 2 | 198227 | [198227-red-matter-2.json](./198227-red-matter-2.json) |
 | Red points | 111735 | [111735-red-points.json](./111735-red-points.json) |
 | Red Riding Hood | 225309 | [225309-red-riding-hood.json](./225309-red-riding-hood.json) |
 | Red Rope: Don't Fall Behind + | 147950 | [147950-red-rope-dont-fall-behind.json](./147950-red-rope-dont-fall-behind.json) |
@@ -720,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Righteous Kill | 209161 | [209161-righteous-kill.json](./209161-righteous-kill.json) |
 | Rights of Progression | 229921 | [229921-rights-of-progression.json](./229921-rights-of-progression.json) |
 | Riglord Saga 2 | 73838 | [73838-riglord-saga-2.json](./73838-riglord-saga-2.json) |
+| Riichi City | 187355 | [187355-riichi-city.json](./187355-riichi-city.json) |
 | Rika Suzuki | 97328 | [97328-rika-suzuki.json](./97328-rika-suzuki.json) |
 | Rilakkuma Nakayoshi Collection | 222506 | [222506-rilakkuma-nakayoshi-collection.json](./222506-rilakkuma-nakayoshi-collection.json) |
 | Rilu Rilu Fairilu Kirakira: Hajimete no Fairilu Magic | 222537 | [222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json](./222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json) |
@@ -805,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riverboat Casino | 209164 | [209164-riverboat-casino.json](./209164-riverboat-casino.json) |
 | RKR: Rush Kill Repeat | 217495 | [217495-rkr-rush-kill-repeat.json](./217495-rkr-rush-kill-repeat.json) |
 | Rktcr | 35863 | [35863-rktcr.json](./35863-rktcr.json) |
+| RLCraft | 203457 | [203457-rlcraft.json](./203457-rlcraft.json) |
 | Roach Royale | 275331 | [275331-roach-royale.json](./275331-roach-royale.json) |
 | Roach's Room ~Horror Experience Series~ | 107210 | [107210-roachs-room-horror-experience-series.json](./107210-roachs-room-horror-experience-series.json) |
 | Road 3 Pack | 147992 | [147992-road-3-pack.json](./147992-road-3-pack.json) |
