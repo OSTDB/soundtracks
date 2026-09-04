@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.O.N | 102781 | [102781-s-o-n.json](./102781-s-o-n.json) |
 | S.Q. Sound Qube | 230505 | [230505-s-q-sound-qube.json](./230505-s-q-sound-qube.json) |
 | S.S. Mission | 40252 | [40252-s-s-mission.json](./40252-s-s-mission.json) |
+| S.T.A.L.K.E.R.: Clear Sky | 4840 | [4840-s-t-a-l-k-e-r-clear-sky.json](./4840-s-t-a-l-k-e-r-clear-sky.json) |
 | S.T.A.L.K.E.R.: Oblivion Lost Remake | 138257 | [138257-s-t-a-l-k-e-r-oblivion-lost-remake.json](./138257-s-t-a-l-k-e-r-oblivion-lost-remake.json) |
 | S.T.A.L.K.E.R.: Wind of Time | 138799 | [138799-s-t-a-l-k-e-r-wind-of-time.json](./138799-s-t-a-l-k-e-r-wind-of-time.json) |
 | S.T.G: Strike Gunner | 39692 | [39692-s-t-g-strike-gunner.json](./39692-s-t-g-strike-gunner.json) |
@@ -1119,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Garden | 104661 | [104661-slime-garden.json](./104661-slime-garden.json) |
 | Slime Kingdom | 102192 | [102192-slime-kingdom.json](./102192-slime-kingdom.json) |
 | Slime Legion | 242238 | [242238-slime-legion.json](./242238-slime-legion.json) |
+| Slime Rancher | 16287 | [16287-slime-rancher.json](./16287-slime-rancher.json) |
 | Slime Road | 108509 | [108509-slime-road.json](./108509-slime-road.json) |
 | Slime Runner | 215886 | [215886-slime-runner.json](./215886-slime-runner.json) |
 | Slime Shoot | 312329 | [312329-slime-shoot.json](./312329-slime-shoot.json) |
@@ -1259,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite 5: Up Close and Personal Weapon & Skin Pack | 307282 | [307282-sniper-elite-5-up-close-and-personal-weapon-and-skin-pack.json](./307282-sniper-elite-5-up-close-and-personal-weapon-and-skin-pack.json) |
 | Sniper Elite 5: Valentine's Weapon Skin Pack | 307279 | [307279-sniper-elite-5-valentines-weapon-skin-pack.json](./307279-sniper-elite-5-valentines-weapon-skin-pack.json) |
 | Sniper Elite 5: Winter Weapons Skin Pack | 307281 | [307281-sniper-elite-5-winter-weapons-skin-pack.json](./307281-sniper-elite-5-winter-weapons-skin-pack.json) |
+| Sniper Elite V2 | 3078 | [3078-sniper-elite-v2.json](./3078-sniper-elite-v2.json) |
 | Sniper Elite V2: Game of the Year Edition | 44654 | [44654-sniper-elite-v2-game-of-the-year-edition.json](./44654-sniper-elite-v2-game-of-the-year-edition.json) |
 | Sniper Ghost Warrior Contracts 2: Butcher's Banquet | 159362 | [159362-sniper-ghost-warrior-contracts-2-butchers-banquet.json](./159362-sniper-ghost-warrior-contracts-2-butchers-banquet.json) |
 | Sniper Ghost Warrior Contracts: Full Arsenal Edition | 199639 | [199639-sniper-ghost-warrior-contracts-full-arsenal-edition.json](./199639-sniper-ghost-warrior-contracts-full-arsenal-edition.json) |
@@ -2041,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Puzzle Droids | 97355 | [97355-star-wars-puzzle-droids.json](./97355-star-wars-puzzle-droids.json) |
 | Star Wars: Starfighter - Special Edition | 242773 | [242773-star-wars-starfighter-special-edition.json](./242773-star-wars-starfighter-special-edition.json) |
 | Star Wars: The Force Unleashed | 197926 | [197926-star-wars-the-force-unleashed.json](./197926-star-wars-the-force-unleashed.json) |
+| Star Wars: The Old Republic | 114 | [114-star-wars-the-old-republic.json](./114-star-wars-the-old-republic.json) |
 | Star Wars: TIE Fighter - Defender of the Empire | 167 | [167-star-wars-tie-fighter-defender-of-the-empire.json](./167-star-wars-tie-fighter-defender-of-the-empire.json) |
 | Star Wars: X-Wing Tour of Duty - B-Wing | 171 | [171-star-wars-x-wing-tour-of-duty-b-wing.json](./171-star-wars-x-wing-tour-of-duty-b-wing.json) |
 | Star Witch | 190224 | [190224-star-witch.json](./190224-star-witch.json) |
@@ -2054,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starborn Space | 115027 | [115027-starborn-space.json](./115027-starborn-space.json) |
 | Starborn Survivor | 306711 | [306711-starborn-survivor.json](./306711-starborn-survivor.json) |
 | Starborne: Frontiers | 242221 | [242221-starborne-frontiers.json](./242221-starborne-frontiers.json) |
+| Starbound | 3019 | [3019-starbound.json](./3019-starbound.json) |
 | Starbust | 181378 | [181378-starbust.json](./181378-starbust.json) |
 | Starcaller | 142496 | [142496-starcaller.json](./142496-starcaller.json) |
 | Starcatcher | 228094 | [228094-starcatcher.json](./228094-starcatcher.json) |
@@ -2145,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamGear Mash | 91943 | [91943-steamgear-mash.json](./91943-steamgear-mash.json) |
 | SteamHammerVR - The Rogue Apprentice | 55903 | [55903-steamhammervr-the-rogue-apprentice.json](./55903-steamhammervr-the-rogue-apprentice.json) |
 | Steampunch | 335075 | [335075-steampunch.json](./335075-steampunch.json) |
+| SteamWorld Dig | 5772 | [5772-steamworld-dig.json](./5772-steamworld-dig.json) |
 | Steamworld Dig 2 + Steamworld Dig | 218691 | [218691-steamworld-dig-2-steamworld-dig.json](./218691-steamworld-dig-2-steamworld-dig.json) |
 | Steamy Sextet | 127997 | [127997-steamy-sextet.json](./127997-steamy-sextet.json) |
 | STED: Iseki Wakusei no Yabou | 48703 | [48703-sted-iseki-wakusei-no-yabou.json](./48703-sted-iseki-wakusei-no-yabou.json) |
@@ -2672,6 +2678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Advance 4: Super Mario Bros. 3-e - Series 2 | 241033 | [241033-super-mario-advance-4-super-mario-bros-3-e-series-2.json](./241033-super-mario-advance-4-super-mario-bros-3-e-series-2.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Treacherous Halls | 241027 | [241027-super-mario-advance-4-super-mario-bros-3-e-treacherous-halls.json](./241027-super-mario-advance-4-super-mario-bros-3-e-treacherous-halls.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Vexing Doors | 241017 | [241017-super-mario-advance-4-super-mario-bros-3-e-vexing-doors.json](./241017-super-mario-advance-4-super-mario-bros-3-e-vexing-doors.json) |
+| Super Mario All-Stars | 5199 | [5199-super-mario-all-stars.json](./5199-super-mario-all-stars.json) |
 | Super Mario Bros 3000 | 250057 | [250057-super-mario-bros-3000.json](./250057-super-mario-bros-3000.json) |
 | Super Mario Bros Galaxy DS | 146354 | [146354-super-mario-bros-galaxy-ds.json](./146354-super-mario-bros-galaxy-ds.json) |
 | Super Mario Bros: Chaos of the Ztar | 324091 | [324091-super-mario-bros-chaos-of-the-ztar.json](./324091-super-mario-bros-chaos-of-the-ztar.json) |
@@ -2695,6 +2702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Odyssey Safari | 250042 | [250042-super-mario-odyssey-safari.json](./250042-super-mario-odyssey-safari.json) |
 | Super Mario Odyssey: Bon-Bones Mountain | 246625 | [246625-super-mario-odyssey-bon-bones-mountain.json](./246625-super-mario-odyssey-bon-bones-mountain.json) |
 | Super Mario Outbreak | 198557 | [198557-super-mario-outbreak.json](./198557-super-mario-outbreak.json) |
+| Super Mario RPG: Legend of the Seven Stars | 5418 | [5418-super-mario-rpg-legend-of-the-seven-stars.json](./5418-super-mario-rpg-legend-of-the-seven-stars.json) |
 | Super Mario Spikers | 175958 | [175958-super-mario-spikers.json](./175958-super-mario-spikers.json) |
 | Super Mario Star Road Multiplayer | 159342 | [159342-super-mario-star-road-multiplayer.json](./159342-super-mario-star-road-multiplayer.json) |
 | Super Mario Star World | 185685 | [185685-super-mario-star-world.json](./185685-super-mario-star-world.json) |
