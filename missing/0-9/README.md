@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | [Speer] | 134672 | [134672-speer.json](./134672-speer.json) |
 | @ Home Mate | 22467 | [22467-home-mate.json](./22467-home-mate.json) |
 | *N Sync: Get to the Show | 94742 | [94742-n-sync-get-to-the-show.json](./94742-n-sync-get-to-the-show.json) |
+| #Blud | 117500 | [117500-blud.json](./117500-blud.json) |
 | #Halloween, Super Puzzles Dream | 147438 | [147438-halloween-super-puzzles-dream.json](./147438-halloween-super-puzzles-dream.json) |
 | #Have A Sticker | 99640 | [99640-have-a-sticker.json](./99640-have-a-sticker.json) |
 | #womenUp, Super Puzzles Dream | 147437 | [147437-womenup-super-puzzles-dream.json](./147437-womenup-super-puzzles-dream.json) |
@@ -231,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-D Ultra Radio Control Racers | 9116 | [9116-3-d-ultra-radio-control-racers.json](./9116-3-d-ultra-radio-control-racers.json) |
 | 30 Years of Nintendon't | 215379 | [215379-30-years-of-nintendont.json](./215379-30-years-of-nintendont.json) |
 | 300 Heroes | 75139 | [75139-300-heroes.json](./75139-300-heroes.json) |
+| 3000th Duel | 122027 | [122027-3000th-duel.json](./122027-3000th-duel.json) |
 | 31st Prototype | 149584 | [149584-31st-prototype.json](./149584-31st-prototype.json) |
 | 33 Seconds | 208056 | [208056-33-seconds.json](./208056-33-seconds.json) |
 | 360 No Scope! | 107867 | [107867-360-no-scope.json](./107867-360-no-scope.json) |
