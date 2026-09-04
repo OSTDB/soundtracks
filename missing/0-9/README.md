@@ -207,6 +207,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Little Pigs & Bad Wolf | 124267 | [124267-3-little-pigs-and-bad-wolf.json](./124267-3-little-pigs-and-bad-wolf.json) |
 | 3 Minute Walk | 182550 | [182550-3-minute-walk.json](./182550-3-minute-walk.json) |
 | 3-D Escape!: 1000 Mazes | 245577 | [245577-3-d-escape-1000-mazes.json](./245577-3-d-escape-1000-mazes.json) |
+| 3-D Maze | 15576 | [15576-3-d-maze.json](./15576-3-d-maze.json) |
+| 3-D Tank Zone | 15579 | [15579-3-d-tank-zone.json](./15579-3-d-tank-zone.json) |
 | 30 Years of Nintendon't | 215379 | [215379-30-years-of-nintendont.json](./215379-30-years-of-nintendont.json) |
 | 300 Heroes | 75139 | [75139-300-heroes.json](./75139-300-heroes.json) |
 | 31st Prototype | 149584 | [149584-31st-prototype.json](./149584-31st-prototype.json) |
@@ -222,12 +224,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Caveman Rocks & 3D Brick Bustin Madness | 205834 | [205834-3d-caveman-rocks-and-3d-brick-bustin-madness.json](./205834-3d-caveman-rocks-and-3d-brick-bustin-madness.json) |
 | 3D Columns | 202926 | [202926-3d-columns.json](./202926-3d-columns.json) |
 | 3D Columns | 205835 | [205835-3d-columns.json](./205835-3d-columns.json) |
+| 3D Convoy | 15575 | [15575-3d-convoy.json](./15575-3d-convoy.json) |
 | 3D Custom Lady Maker | 128010 | [128010-3d-custom-lady-maker.json](./128010-3d-custom-lady-maker.json) |
 | 3D Dragon Castle | 205837 | [205837-3d-dragon-castle.json](./205837-3d-dragon-castle.json) |
 | 3D Galaxy Fighters | 205839 | [205839-3d-galaxy-fighters.json](./205839-3d-galaxy-fighters.json) |
 | 3D Knife | 265428 | [265428-3d-knife.json](./265428-3d-knife.json) |
 | 3D Mahjong + Janpai Tori | 269319 | [269319-3d-mahjong-janpai-tori.json](./269319-3d-mahjong-janpai-tori.json) |
 | 3D Morris | 144318 | [144318-3d-morris.json](./144318-3d-morris.json) |
+| 3D Munchy | 15577 | [15577-3d-munchy.json](./15577-3d-munchy.json) |
 | 3D Pinball: Space Cadet NDS | 307323 | [307323-3d-pinball-space-cadet-nds.json](./307323-3d-pinball-space-cadet-nds.json) |
 | 3D Pool Game | 88273 | [88273-3d-pool-game.json](./88273-3d-pool-game.json) |
 | 3D Puyo Puyo 2: Tsuu | 87195 | [87195-3d-puyo-puyo-2-tsuu.json](./87195-3d-puyo-puyo-2-tsuu.json) |
@@ -237,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Snake . io | 100864 | [100864-3d-snake-io.json](./100864-3d-snake-io.json) |
 | 3D Sonic Action | 331719 | [331719-3d-sonic-action.json](./331719-3d-sonic-action.json) |
 | 3D Space Raider | 178048 | [178048-3d-space-raider.json](./178048-3d-space-raider.json) |
+| 3D Space Ranger | 15578 | [15578-3d-space-ranger.json](./15578-3d-space-ranger.json) |
 | 3D Starstrike II | 45341 | [45341-3d-starstrike-ii.json](./45341-3d-starstrike-ii.json) |
 | 3D Stock Car Championship | 73294 | [73294-3d-stock-car-championship.json](./73294-3d-stock-car-championship.json) |
 | 3D Super Chess | 96073 | [96073-3d-super-chess.json](./96073-3d-super-chess.json) |
@@ -302,6 +307,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Planets | 175396 | [175396-7-planets.json](./175396-7-planets.json) |
 | 7 Zwerge: Das Brettspiel | 84284 | [84284-7-zwerge-das-brettspiel.json](./84284-7-zwerge-das-brettspiel.json) |
 | 70 Seconds! Adventure | 121777 | [121777-70-seconds-adventure.json](./121777-70-seconds-adventure.json) |
+| 737 Flight Simulator | 15580 | [15580-737-flight-simulator.json](./15580-737-flight-simulator.json) |
+| 747 Flight Simulator | 15582 | [15582-747-flight-simulator.json](./15582-747-flight-simulator.json) |
+| 767 Advanced Flight Simulator | 15583 | [15583-767-advanced-flight-simulator.json](./15583-767-advanced-flight-simulator.json) |
 | 77p egg: Eggwife | 218143 | [218143-77p-egg-eggwife.json](./218143-77p-egg-eggwife.json) |
 | 77Survival Part I | 314064 | [314064-77survival-part-i.json](./314064-77survival-part-i.json) |
 | 78 Hour Rain | 179739 | [179739-78-hour-rain.json](./179739-78-hour-rain.json) |
@@ -328,6 +336,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8Floor Bundle 4 in 1 | 259835 | [259835-8floor-bundle-4-in-1.json](./259835-8floor-bundle-4-in-1.json) |
 | 8Floor Bundle 4 in 1 Part 7 | 338027 | [338027-8floor-bundle-4-in-1-part-7.json](./338027-8floor-bundle-4-in-1-part-7.json) |
 | 9 Black Boxes | 179163 | [179163-9-black-boxes.json](./179163-9-black-boxes.json) |
+| 9 Classic Card & Board Games: No. 1 | 15584 | [15584-9-classic-card-and-board-games-no-1.json](./15584-9-classic-card-and-board-games-no-1.json) |
+| 9 Classic Card & Board Games: No. 2 | 15585 | [15585-9-classic-card-and-board-games-no-2.json](./15585-9-classic-card-and-board-games-no-2.json) |
 | 9 Dystricts | 301036 | [301036-9-dystricts.json](./301036-9-dystricts.json) |
 | 9 R.I.P. Aroma Edition | 324696 | [324696-9-r-i-p-aroma-edition.json](./324696-9-r-i-p-aroma-edition.json) |
 | 9 R.I.P.: Day One Edition | 324697 | [324697-9-r-i-p-day-one-edition.json](./324697-9-r-i-p-day-one-edition.json) |
