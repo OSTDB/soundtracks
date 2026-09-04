@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1917: The Prologue | 151197 | [151197-1917-the-prologue.json](./151197-1917-the-prologue.json) |
 | 1939 | 265966 | [265966-1939.json](./265966-1939.json) |
 | 1942 Pacific Front | 109016 | [109016-1942-pacific-front.json](./109016-1942-pacific-front.json) |
+| 1979 Invasion Earth | 29876 | [29876-1979-invasion-earth.json](./29876-1979-invasion-earth.json) |
 | 1986 A Long Five Days | 301032 | [301032-1986-a-long-five-days.json](./301032-1986-a-long-five-days.json) |
 | 1989 QianShanMen | 259288 | [259288-1989-qianshanmen.json](./259288-1989-qianshanmen.json) |
 | 1B Spells | 248318 | [248318-1b-spells.json](./248318-1b-spells.json) |
@@ -210,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 33 Seconds | 208056 | [208056-33-seconds.json](./208056-33-seconds.json) |
 | 360 No Scope! | 107867 | [107867-360-no-scope.json](./107867-360-no-scope.json) |
 | 360: Three Sixty | 45318 | [45318-360-three-sixty.json](./45318-360-three-sixty.json) |
+| 365 Days | 29917 | [29917-365-days.json](./29917-365-days.json) |
 | 3Buttons | 110352 | [110352-3buttons.json](./110352-3buttons.json) |
 | 3D Alien Syndrome | 202925 | [202925-3d-alien-syndrome.json](./202925-3d-alien-syndrome.json) |
 | 3D Bowling USA | 205830 | [205830-3d-bowling-usa.json](./205830-3d-bowling-usa.json) |
