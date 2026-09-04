@@ -348,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL Stanley Cup | 42655 | [42655-nhl-stanley-cup.json](./42655-nhl-stanley-cup.json) |
 | NHRA Championship Drag Racing: Speed for All - Deluxe Edition | 214728 | [214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json](./214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json) |
 | NHRA Drag Racing 2 | 78037 | [78037-nhra-drag-racing-2.json](./78037-nhra-drag-racing-2.json) |
+| NHRA Drag Racing: Countdown to the Championship | 18270 | [18270-nhra-drag-racing-countdown-to-the-championship.json](./18270-nhra-drag-racing-countdown-to-the-championship.json) |
 | Ni Hao, Kai-lan: Beach Day | 109052 | [109052-ni-hao-kai-lan-beach-day.json](./109052-ni-hao-kai-lan-beach-day.json) |
 | Ni Hao, Kai-Lan: New Year's Celebration | 97371 | [97371-ni-hao-kai-lan-new-years-celebration.json](./97371-ni-hao-kai-lan-new-years-celebration.json) |
 | Niaki | 262065 | [262065-niaki.json](./262065-niaki.json) |
