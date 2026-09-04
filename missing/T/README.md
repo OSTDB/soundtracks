@@ -536,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The American Challenge: A Sailing Simulation | 12253 | [12253-the-american-challenge-a-sailing-simulation.json](./12253-the-american-challenge-a-sailing-simulation.json) |
 | The American Girls Premiere | 18243 | [18243-the-american-girls-premiere.json](./18243-the-american-girls-premiere.json) |
 | The Amulet of AmunRuuuuuN | 157188 | [157188-the-amulet-of-amunruuuuun.json](./157188-the-amulet-of-amunruuuuun.json) |
+| The Ancient Land of Ys | 2411 | [2411-the-ancient-land-of-ys.json](./2411-the-ancient-land-of-ys.json) |
 | The Angry 4 | 186866 | [186866-the-angry-4.json](./186866-the-angry-4.json) |
 | The Angry Turnabout | 308547 | [308547-the-angry-turnabout.json](./308547-the-angry-turnabout.json) |
 | The Anomaly Project | 312378 | [312378-the-anomaly-project.json](./312378-the-anomaly-project.json) |
@@ -635,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The BridgeMaster | 169445 | [169445-the-bridgemaster.json](./169445-the-bridgemaster.json) |
 | The Brutalist Volumes | 275316 | [275316-the-brutalist-volumes.json](./275316-the-brutalist-volumes.json) |
 | The Bugger! | 258222 | [258222-the-bugger.json](./258222-the-bugger.json) |
+| The Bugs Bunny Birthday Blowout | 2719 | [2719-the-bugs-bunny-birthday-blowout.json](./2719-the-bugs-bunny-birthday-blowout.json) |
 | The Bugs Bunny Crazy Castle | 153450 | [153450-the-bugs-bunny-crazy-castle.json](./153450-the-bugs-bunny-crazy-castle.json) |
 | The Building 71 Incident | 176513 | [176513-the-building-71-incident.json](./176513-the-building-71-incident.json) |
 | The BuildSphere: Rise of the Anomalbots | 193504 | [193504-the-buildsphere-rise-of-the-anomalbots.json](./193504-the-buildsphere-rise-of-the-anomalbots.json) |
@@ -1284,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mildew Children | 253605 | [253605-the-mildew-children.json](./253605-the-mildew-children.json) |
 | The Mine | 13739 | [13739-the-mine.json](./13739-the-mine.json) |
 | The Misadventures of Sir Randolph Doogleberry, British Explorer | 91429 | [91429-the-misadventures-of-sir-randolph-doogleberry-british-explorer.json](./91429-the-misadventures-of-sir-randolph-doogleberry-british-explorer.json) |
+| The Misadventures of Tron Bonne | 1753 | [1753-the-misadventures-of-tron-bonne.json](./1753-the-misadventures-of-tron-bonne.json) |
 | The Misfits Burger Joint | 255341 | [255341-the-misfits-burger-joint.json](./255341-the-misfits-burger-joint.json) |
 | The Misfortunes of a Nekomimi Catgirl Sorceress | 82914 | [82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json](./82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json) |
 | The Missing Sock | 302139 | [302139-the-missing-sock.json](./302139-the-missing-sock.json) |
@@ -2220,6 +2223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaplan Arcade Collection 3 | 325237 | [325237-toaplan-arcade-collection-3.json](./325237-toaplan-arcade-collection-3.json) |
 | Toaplan Arcade Collection 4 | 325236 | [325236-toaplan-arcade-collection-4.json](./325236-toaplan-arcade-collection-4.json) |
 | Toasted! | 188101 | [188101-toasted.json](./188101-toasted.json) |
+| Tobal 2 | 1662 | [1662-tobal-2.json](./1662-tobal-2.json) |
 | Tobe's Hookshot Escape | 248880 | [248880-tobes-hookshot-escape.json](./248880-tobes-hookshot-escape.json) |
 | Toca Life World | 126005 | [126005-toca-life-world.json](./126005-toca-life-world.json) |
 | Toca Pisadinha | 237621 | [237621-toca-pisadinha.json](./237621-toca-pisadinha.json) |
@@ -2236,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToHeart | 303230 | [303230-toheart.json](./303230-toheart.json) |
 | Toilet in Wonderland | 25015 | [25015-toilet-in-wonderland.json](./25015-toilet-in-wonderland.json) |
 | Toilet Paper Simulator | 248890 | [248890-toilet-paper-simulator.json](./248890-toilet-paper-simulator.json) |
+| Toki Tori 2 | 2351 | [2351-toki-tori-2.json](./2351-toki-tori-2.json) |
 | Tokimeki Memorial Girl's Side | 72670 | [72670-tokimeki-memorial-girls-side.json](./72670-tokimeki-memorial-girls-side.json) |
 | Tokimeki Memorial Girl's Side Triple Pack | 109045 | [109045-tokimeki-memorial-girls-side-triple-pack.json](./109045-tokimeki-memorial-girls-side-triple-pack.json) |
 | Tokimeki Taisen | 191861 | [191861-tokimeki-taisen.json](./191861-tokimeki-taisen.json) |
@@ -2286,6 +2291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon: Wildlands - Ultimate Edition | 119071 | [119071-tom-clancys-ghost-recon-wildlands-ultimate-edition.json](./119071-tom-clancys-ghost-recon-wildlands-ultimate-edition.json) |
 | Tom Clancy's H.A.W.X | 264874 | [264874-tom-clancys-h-a-w-x.json](./264874-tom-clancys-h-a-w-x.json) |
 | Tom Clancy's H.A.W.X 2 | 341328 | [341328-tom-clancys-h-a-w-x-2.json](./341328-tom-clancys-h-a-w-x-2.json) |
+| Tom Clancy's Rainbow Six 3: Athena Sword | 1848 | [1848-tom-clancys-rainbow-six-3-athena-sword.json](./1848-tom-clancys-rainbow-six-3-athena-sword.json) |
 | Tom Clancy's Rainbow Six Extraction | 119262 | [119262-tom-clancys-rainbow-six-extraction.json](./119262-tom-clancys-rainbow-six-extraction.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Blood Orchid | 55167 | [55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json](./55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Brutal Swarm | 217522 | [217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json](./217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json) |
@@ -2585,6 +2591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 4: RhB Arosa Aggregates Pack | 277587 | [277587-train-sim-world-4-rhb-arosa-aggregates-pack.json](./277587-train-sim-world-4-rhb-arosa-aggregates-pack.json) |
 | Train Sim World 4: S-Bahn Vorarlberg - Lindau - Bludenz Route | 269322 | [269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json](./269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json) |
 | Train Sim World 5: Dutch Regional Edition | 336939 | [336939-train-sim-world-5-dutch-regional-edition.json](./336939-train-sim-world-5-dutch-regional-edition.json) |
+| Train Sim World 6 | 363370 | [363370-train-sim-world-6.json](./363370-train-sim-world-6.json) |
 | Train Sim World: Great Western Express | 53837 | [53837-train-sim-world-great-western-express.json](./53837-train-sim-world-great-western-express.json) |
 | Train Simulator | 327582 | [327582-train-simulator.json](./327582-train-simulator.json) |
 | Train Simulator 2019 | 111023 | [111023-train-simulator-2019.json](./111023-train-simulator-2019.json) |
@@ -2777,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trespasser 2 | 204111 | [204111-trespasser-2.json](./204111-trespasser-2.json) |
 | Tresure Hunter | 278673 | [278673-tresure-hunter.json](./278673-tresure-hunter.json) |
 | Tri Focuser: Outside the Traditional World | 246673 | [246673-tri-focuser-outside-the-traditional-world.json](./246673-tri-focuser-outside-the-traditional-world.json) |
+| Tri: Of Friendship and Madness | 2998 | [2998-tri-of-friendship-and-madness.json](./2998-tri-of-friendship-and-madness.json) |
 | Tri.Defender | 30933 | [30933-tri-defender.json](./30933-tri-defender.json) |
 | Triad | 304367 | [304367-triad.json](./304367-triad.json) |
 | Trial Xtreme 3 | 117763 | [117763-trial-xtreme-3.json](./117763-trial-xtreme-3.json) |
