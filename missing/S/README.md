@@ -1491,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Hero! | 103526 | [103526-soccer-hero.json](./103526-soccer-hero.json) |
 | Soccer Moves | 241059 | [241059-soccer-moves.json](./241059-soccer-moves.json) |
 | Soccer Physics | 101579 | [101579-soccer-physics.json](./101579-soccer-physics.json) |
+| Soccer Player Simulator | 116473 | [116473-soccer-player-simulator.json](./116473-soccer-player-simulator.json) |
 | Soccer RPG: Become the coach for the national team! | 94259 | [94259-soccer-rpg-become-the-coach-for-the-national-team.json](./94259-soccer-rpg-become-the-coach-for-the-national-team.json) |
 | Soccer Showdown 3 | 233735 | [233735-soccer-showdown-3.json](./233735-soccer-showdown-3.json) |
 | Soccer Star Manager | 108467 | [108467-soccer-star-manager.json](./108467-soccer-star-manager.json) |
@@ -1908,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space shooter: Galaxy Attack | 256526 | [256526-space-shooter-galaxy-attack.json](./256526-space-shooter-galaxy-attack.json) |
 | Space Show Edition 17 | 290709 | [290709-space-show-edition-17.json](./290709-space-show-edition-17.json) |
 | Space Smack! | 171074 | [171074-space-smack.json](./171074-space-smack.json) |
+| Space Smash | 115618 | [115618-space-smash.json](./115618-space-smash.json) |
 | Space Spartans | 5700 | [5700-space-spartans.json](./5700-space-spartans.json) |
 | Space Station Loma: Operations | 29841 | [29841-space-station-loma-operations.json](./29841-space-station-loma-operations.json) |
 | Space Station Proto Speedmap Jam | 300420 | [300420-space-station-proto-speedmap-jam.json](./300420-space-station-proto-speedmap-jam.json) |
@@ -1967,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spearmint Goose | 195195 | [195195-spearmint-goose.json](./195195-spearmint-goose.json) |
 | Spebo | 259830 | [259830-spebo.json](./259830-spebo.json) |
 | Special Enquiry Detail: The Hand that Feeds | 87309 | [87309-special-enquiry-detail-the-hand-that-feeds.json](./87309-special-enquiry-detail-the-hand-that-feeds.json) |
+| Special Force VR: Infinity War | 116492 | [116492-special-force-vr-infinity-war.json](./116492-special-force-vr-infinity-war.json) |
 | Special Forces Group 3 | 245043 | [245043-special-forces-group-3.json](./245043-special-forces-group-3.json) |
 | Special Forces Pack | 100208 | [100208-special-forces-pack.json](./100208-special-forces-pack.json) |
 | Special Forces: Team X | 16403 | [16403-special-forces-team-x.json](./16403-special-forces-team-x.json) |
@@ -2369,6 +2372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarPicker | 149607 | [149607-starpicker.json](./149607-starpicker.json) |
 | Starpiercer | 181360 | [181360-starpiercer.json](./181360-starpiercer.json) |
 | Starpoint Gemini 2 Gold Pack | 308575 | [308575-starpoint-gemini-2-gold-pack.json](./308575-starpoint-gemini-2-gold-pack.json) |
+| Starpoint Gemini 3 | 115458 | [115458-starpoint-gemini-3.json](./115458-starpoint-gemini-3.json) |
 | Starpoint Gemini Warlords - Cycle of Warfare | 124829 | [124829-starpoint-gemini-warlords-cycle-of-warfare.json](./124829-starpoint-gemini-warlords-cycle-of-warfare.json) |
 | Starquake Academy | 113029 | [113029-starquake-academy.json](./113029-starquake-academy.json) |
 | StarRaver | 237072 | [237072-starraver.json](./237072-starraver.json) |
@@ -2703,6 +2707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Surfers Blast | 247170 | [247170-subway-surfers-blast.json](./247170-subway-surfers-blast.json) |
 | Subwaydle | 228717 | [228717-subwaydle.json](./228717-subwaydle.json) |
 | Subwords | 173801 | [173801-subwords.json](./173801-subwords.json) |
+| Successor of the Moon | 115578 | [115578-successor-of-the-moon.json](./115578-successor-of-the-moon.json) |
 | Succubus Challenge | 339651 | [339651-succubus-challenge.json](./339651-succubus-challenge.json) |
 | Succubus Farm | 151166 | [151166-succubus-farm.json](./151166-succubus-farm.json) |
 | Succubus Girl Story | 192443 | [192443-succubus-girl-story.json](./192443-succubus-girl-story.json) |
