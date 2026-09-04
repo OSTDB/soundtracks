@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Tower Adventure | 173803 | [173803-magic-tower-adventure.json](./173803-magic-tower-adventure.json) |
 | Magic Twins | 132244 | [132244-magic-twins.json](./132244-magic-twins.json) |
 | Magic Wand | 311811 | [311811-magic-wand.json](./311811-magic-wand.json) |
+| Magic: The Gathering - Duels of the Planeswalkers 2015 | 18218 | [18218-magic-the-gathering-duels-of-the-planeswalkers-2015.json](./18218-magic-the-gathering-duels-of-the-planeswalkers-2015.json) |
 | Magical Blaster | 151741 | [151741-magical-blaster.json](./151741-magical-blaster.json) |
 | Magical Boco | 313464 | [313464-magical-boco.json](./313464-magical-boco.json) |
 | Magical Circle Guru-Guru: Stardust Adventure | 302653 | [302653-magical-circle-guru-guru-stardust-adventure.json](./302653-magical-circle-guru-guru-stardust-adventure.json) |
@@ -194,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MainGuns | 56478 | [56478-mainguns.json](./56478-mainguns.json) |
 | Mainly at Rest | 165669 | [165669-mainly-at-rest.json](./165669-mainly-at-rest.json) |
 | Maison Kanraku: The Second Climax | 59992 | [59992-maison-kanraku-the-second-climax.json](./59992-maison-kanraku-the-second-climax.json) |
+| Maize | 19518 | [19518-maize.json](./19518-maize.json) |
 | Majestic Majolical vol. 1 | 240523 | [240523-majestic-majolical-vol-1.json](./240523-majestic-majolical-vol-1.json) |
 | Majin Tensei: Blind Thinker | 112319 | [112319-majin-tensei-blind-thinker.json](./112319-majin-tensei-blind-thinker.json) |
 | Majoneko | 252398 | [252398-majoneko.json](./252398-majoneko.json) |
@@ -609,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Arkanoid | 245035 | [245035-mega-man-arkanoid.json](./245035-mega-man-arkanoid.json) |
 | Mega Man in Super Mario Bros. | 269874 | [269874-mega-man-in-super-mario-bros.json](./269874-mega-man-in-super-mario-bros.json) |
 | Mega Man X Dive | 121045 | [121045-mega-man-x-dive.json](./121045-mega-man-x-dive.json) |
+| Mega Man X: Legacy Collection | 96252 | [96252-mega-man-x-legacy-collection.json](./96252-mega-man-x-legacy-collection.json) |
 | Mega Man X: Proto Edition | 201859 | [201859-mega-man-x-proto-edition.json](./201859-mega-man-x-proto-edition.json) |
 | Mega Man X8 | 1748 | [1748-mega-man-x8.json](./1748-mega-man-x8.json) |
 | Mega Man: Limbo Edition | 269871 | [269871-mega-man-limbo-edition.json](./269871-mega-man-limbo-edition.json) |
@@ -1448,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morth | 149587 | [149587-morth.json](./149587-morth.json) |
 | Mortimer: First Launch | 341337 | [341337-mortimer-first-launch.json](./341337-mortimer-first-launch.json) |
 | Morvyn Gutter | 341338 | [341338-morvyn-gutter.json](./341338-morvyn-gutter.json) |
+| Mosaic | 18929 | [18929-mosaic.json](./18929-mosaic.json) |
 | Mosaic Chronicles Deluxe: Complete + | 328837 | [328837-mosaic-chronicles-deluxe-complete.json](./328837-mosaic-chronicles-deluxe-complete.json) |
 | Mosaic Chronicles Deluxe: Ultimate Edition | 243366 | [243366-mosaic-chronicles-deluxe-ultimate-edition.json](./243366-mosaic-chronicles-deluxe-ultimate-edition.json) |
 | Mosaic Your Crush! | 161394 | [161394-mosaic-your-crush.json](./161394-mosaic-your-crush.json) |
@@ -1612,6 +1616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muramasa Rebirth: Blessing of Amitabha Collector's Edition | 89921 | [89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json](./89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json) |
 | Murder at Masquerade Manor | 223682 | [223682-murder-at-masquerade-manor.json](./223682-murder-at-masquerade-manor.json) |
 | Murder by Moonlight 2: Crimson Night | 193501 | [193501-murder-by-moonlight-2-crimson-night.json](./193501-murder-by-moonlight-2-crimson-night.json) |
+| Murder by Numbers | 123902 | [123902-murder-by-numbers.json](./123902-murder-by-numbers.json) |
 | Murder Is Game Over: The Blackinton Curse | 318208 | [318208-murder-is-game-over-the-blackinton-curse.json](./318208-murder-is-game-over-the-blackinton-curse.json) |
 | Murder Makes Strange Deadfellows | 73320 | [73320-murder-makes-strange-deadfellows.json](./73320-murder-makes-strange-deadfellows.json) |
 | Murder on the Spaceship Altair | 312330 | [312330-murder-on-the-spaceship-altair.json](./312330-murder-on-the-spaceship-altair.json) |
