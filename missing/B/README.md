@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Monsters | 159324 | [159324-backyard-monsters.json](./159324-backyard-monsters.json) |
 | Backyard Parking 3D | 83579 | [83579-backyard-parking-3d.json](./83579-backyard-parking-3d.json) |
 | Backyard Soccer 2004 | 72711 | [72711-backyard-soccer-2004.json](./72711-backyard-soccer-2004.json) |
+| Backyard Sports: Sandlot Sluggers | 47383 | [47383-backyard-sports-sandlot-sluggers.json](./47383-backyard-sports-sandlot-sluggers.json) |
 | Backyard Wrestling: Don't Try This at Home | 5734 | [5734-backyard-wrestling-dont-try-this-at-home.json](./5734-backyard-wrestling-dont-try-this-at-home.json) |
 | BAClash | 58271 | [58271-baclash.json](./58271-baclash.json) |
 | Bacon Tales: Between Pigs and Wolves | 31919 | [31919-bacon-tales-between-pigs-and-wolves.json](./31919-bacon-tales-between-pigs-and-wolves.json) |
@@ -1705,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Button VR Expeditions | 247762 | [247762-button-vr-expeditions.json](./247762-button-vr-expeditions.json) |
 | Buy Low Sell High | 109707 | [109707-buy-low-sell-high.json](./109707-buy-low-sell-high.json) |
 | Buy Me Some Soup | 188682 | [188682-buy-me-some-soup.json](./188682-buy-me-some-soup.json) |
+| Buzz! Junior: Robo Jam | 44710 | [44710-buzz-junior-robo-jam.json](./44710-buzz-junior-robo-jam.json) |
 | Buzz!: Quiz TV Special Edition | 268768 | [268768-buzz-quiz-tv-special-edition.json](./268768-buzz-quiz-tv-special-edition.json) |
 | BvB: Burglars vs. Brats | 275875 | [275875-bvb-burglars-vs-brats.json](./275875-bvb-burglars-vs-brats.json) |
 | Byflvgvr | 306686 | [306686-byflvgvr.json](./306686-byflvgvr.json) |
