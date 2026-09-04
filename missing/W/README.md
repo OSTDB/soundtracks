@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Freeblade | 34420 | [34420-warhammer-40-000-freeblade.json](./34420-warhammer-40-000-freeblade.json) |
 | Warhammer 40,000: Gladius - Relics of War: Adeptus Mechanicus | 186891 | [186891-warhammer-40-000-gladius-relics-of-war-adeptus-mechanicus.json](./186891-warhammer-40-000-gladius-relics-of-war-adeptus-mechanicus.json) |
 | Warhammer 40,000: Mechanicus | 88461 | [88461-warhammer-40-000-mechanicus.json](./88461-warhammer-40-000-mechanicus.json) |
+| Warhammer 40,000: Regicide | 11450 | [11450-warhammer-40-000-regicide.json](./11450-warhammer-40-000-regicide.json) |
 | Warhammer 40,000: Sanctus Reach - Sons of Cadia | 111744 | [111744-warhammer-40-000-sanctus-reach-sons-of-cadia.json](./111744-warhammer-40-000-sanctus-reach-sons-of-cadia.json) |
 | Warhammer 40,000: Space Marine - Death Guard Champion Chapter Pack DLC | 225870 | [225870-warhammer-40-000-space-marine-death-guard-champion-chapter-pack-dlc.json](./225870-warhammer-40-000-space-marine-death-guard-champion-chapter-pack-dlc.json) |
 | Warhammer 40,000: Space Marine - Emperor’s Elite Pack | 225872 | [225872-warhammer-40-000-space-marine-emperor-s-elite-pack.json](./225872-warhammer-40-000-space-marine-emperor-s-elite-pack.json) |
