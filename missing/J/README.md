@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jazzpunk: Flavour Nexus | 124832 | [124832-jazzpunk-flavour-nexus.json](./124832-jazzpunk-flavour-nexus.json) |
 | JB Hairboll in: Murder Flub | 59414 | [59414-jb-hairboll-in-murder-flub.json](./59414-jb-hairboll-in-murder-flub.json) |
 | JBomb | 340769 | [340769-jbomb.json](./340769-jbomb.json) |
+| JCB Digger | 13730 | [13730-jcb-digger.json](./13730-jcb-digger.json) |
 | Jected: Rivals | 206966 | [206966-jected-rivals.json](./206966-jected-rivals.json) |
 | Jeepney Frenzy | 176468 | [176468-jeepney-frenzy.json](./176468-jeepney-frenzy.json) |
 | Jeepney Simulator | 255994 | [255994-jeepney-simulator.json](./255994-jeepney-simulator.json) |
@@ -116,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jesucristo: El Robot del Futuro | 302125 | [302125-jesucristo-el-robot-del-futuro.json](./302125-jesucristo-el-robot-del-futuro.json) |
 | Jet Bike Simulator | 55211 | [55211-jet-bike-simulator.json](./55211-jet-bike-simulator.json) |
 | Jet Blaster | 239905 | [239905-jet-blaster.json](./239905-jet-blaster.json) |
+| Jet Boat | 13731 | [13731-jet-boat.json](./13731-jet-boat.json) |
 | Jet Buster | 68698 | [68698-jet-buster.json](./68698-jet-buster.json) |
 | Jet Pack | 84273 | [84273-jet-pack.json](./84273-jet-pack.json) |
 | Jet Set Luis | 45343 | [45343-jet-set-luis.json](./45343-jet-set-luis.json) |
