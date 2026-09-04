@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Monsters | 159324 | [159324-backyard-monsters.json](./159324-backyard-monsters.json) |
 | Backyard Parking 3D | 83579 | [83579-backyard-parking-3d.json](./83579-backyard-parking-3d.json) |
 | Backyard Soccer 2004 | 72711 | [72711-backyard-soccer-2004.json](./72711-backyard-soccer-2004.json) |
+| Backyard Wrestling: Don't Try This at Home | 5734 | [5734-backyard-wrestling-dont-try-this-at-home.json](./5734-backyard-wrestling-dont-try-this-at-home.json) |
 | BAClash | 58271 | [58271-baclash.json](./58271-baclash.json) |
 | Bacon Tales: Between Pigs and Wolves | 31919 | [31919-bacon-tales-between-pigs-and-wolves.json](./31919-bacon-tales-between-pigs-and-wolves.json) |
 | Bacteria Warfare | 309097 | [309097-bacteria-warfare.json](./309097-bacteria-warfare.json) |
@@ -295,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basilisk 2000 | 243390 | [243390-basilisk-2000.json](./243390-basilisk-2000.json) |
 | Basilisk! | 297782 | [297782-basilisk.json](./297782-basilisk.json) |
 | Basket Bowling + | 47309 | [47309-basket-bowling.json](./47309-basket-bowling.json) |
+| Basketball | 5689 | [5689-basketball.json](./5689-basketball.json) |
 | Basketball 2 | 245559 | [245559-basketball-2.json](./245559-basketball-2.json) |
 | Basketball Arcade Stars | 250660 | [250660-basketball-arcade-stars.json](./250660-basketball-arcade-stars.json) |
 | Basketball Battle | 89288 | [89288-basketball-battle.json](./89288-basketball-battle.json) |
@@ -307,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball: Dribble Away | 245558 | [245558-basketball-dribble-away.json](./245558-basketball-dribble-away.json) |
 | Basketball: Electronic Game | 245557 | [245557-basketball-electronic-game.json](./245557-basketball-electronic-game.json) |
 | Bass Fisherman | 298859 | [298859-bass-fisherman.json](./298859-bass-fisherman.json) |
+| Bass Pro Shops Trophy Hunter 2007 | 5737 | [5737-bass-pro-shops-trophy-hunter-2007.json](./5737-bass-pro-shops-trophy-hunter-2007.json) |
 | Bass Rush Dream | 67301 | [67301-bass-rush-dream.json](./67301-bass-rush-dream.json) |
 | Bassmaster Fishing 2022 | 169996 | [169996-bassmaster-fishing-2022.json](./169996-bassmaster-fishing-2022.json) |
 | Bastion of Beginnings | 297783 | [297783-bastion-of-beginnings.json](./297783-bastion-of-beginnings.json) |
@@ -644,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibi Bunny | 337459 | [337459-bibi-bunny.json](./337459-bibi-bunny.json) |
 | Bible Trivia | 278164 | [278164-bible-trivia.json](./278164-bible-trivia.json) |
 | Biblistry | 58797 | [58797-biblistry.json](./58797-biblistry.json) |
+| Bicycle Casino | 5747 | [5747-bicycle-casino.json](./5747-bicycle-casino.json) |
 | Big Ball Sports | 275876 | [275876-big-ball-sports.json](./275876-big-ball-sports.json) |
 | Big Bang Pro Wrestling | 43972 | [43972-big-bang-pro-wrestling.json](./43972-big-bang-pro-wrestling.json) |
 | Big Beach Sports 2 | 50639 | [50639-big-beach-sports-2.json](./50639-big-beach-sports-2.json) |
@@ -794,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Rose Valkyrie | 137079 | [137079-black-rose-valkyrie.json](./137079-black-rose-valkyrie.json) |
 | Black Sand Drift: Collector's Edition | 52627 | [52627-black-sand-drift-collectors-edition.json](./52627-black-sand-drift-collectors-edition.json) |
 | Black Shadow | 14310 | [14310-black-shadow.json](./14310-black-shadow.json) |
+| Black Stone: Magic & Steel | 5750 | [5750-black-stone-magic-and-steel.json](./5750-black-stone-magic-and-steel.json) |
 | Black Swan: Collector's Edition | 196315 | [196315-black-swan-collectors-edition.json](./196315-black-swan-collectors-edition.json) |
 | Black Tower | 58824 | [58824-black-tower.json](./58824-black-tower.json) |
 | Black Viper | 14311 | [14311-black-viper.json](./14311-black-viper.json) |
@@ -1290,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Into Zatwor | 27775 | [27775-break-into-zatwor.json](./27775-break-into-zatwor.json) |
 | Break Limit | 91945 | [91945-break-limit.json](./91945-break-limit.json) |
 | Break My Case | 333943 | [333943-break-my-case.json](./333943-break-my-case.json) |
+| Break Nine: World Billiards Tournament | 5755 | [5755-break-nine-world-billiards-tournament.json](./5755-break-nine-world-billiards-tournament.json) |
 | Break Street | 25783 | [25783-break-street.json](./25783-break-street.json) |
 | Break Tactics | 85516 | [85516-break-tactics.json](./85516-break-tactics.json) |
 | Break the Empire | 304870 | [304870-break-the-empire.json](./304870-break-the-empire.json) |
@@ -1379,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothers Conflict: Passion Pink | 45990 | [45990-brothers-conflict-passion-pink.json](./45990-brothers-conflict-passion-pink.json) |
 | Broventure: The Wild Co-op | 332270 | [332270-broventure-the-wild-co-op.json](./332270-broventure-the-wild-co-op.json) |
 | Brown Trouble | 295011 | [295011-brown-trouble.json](./295011-brown-trouble.json) |
+| Bruce Lee: Quest of the Dragon | 5758 | [5758-bruce-lee-quest-of-the-dragon.json](./5758-bruce-lee-quest-of-the-dragon.json) |
 | Brudal Baddle | 57677 | [57677-brudal-baddle.json](./57677-brudal-baddle.json) |
 | Brunswick Pro Billiards | 147954 | [147954-brunswick-pro-billiards.json](./147954-brunswick-pro-billiards.json) |
 | Brush Roller | 48658 | [48658-brush-roller.json](./48658-brush-roller.json) |
