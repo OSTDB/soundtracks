@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LIRE | 145018 | [145018-lire.json](./145018-lire.json) |
 | Lisa: The Pointless - Scholar of the Wilbur Sin Edition | 177033 | [177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json](./177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json) |
 | LIT: Bend the Light | 126621 | [126621-lit-bend-the-light.json](./126621-lit-bend-the-light.json) |
+| Lithium: Inmate 39 | 25876 | [25876-lithium-inmate-39.json](./25876-lithium-inmate-39.json) |
 | Little Acorns | 64956 | [64956-little-acorns.json](./64956-little-acorns.json) |
 | Little Adventure Tale | 325834 | [325834-little-adventure-tale.json](./325834-little-adventure-tale.json) |
 | Little Adventurer | 98464 | [98464-little-adventurer.json](./98464-little-adventurer.json) |
