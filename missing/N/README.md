@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Arena Next Generation | 188074 | [188074-naruto-arena-next-generation.json](./188074-naruto-arena-next-generation.json) |
 | Naruto Shinobi Breakdown | 243415 | [243415-naruto-shinobi-breakdown.json](./243415-naruto-shinobi-breakdown.json) |
 | Naruto Shippuden: Ultimate Ninja Blazing | 79298 | [79298-naruto-shippuden-ultimate-ninja-blazing.json](./79298-naruto-shippuden-ultimate-ninja-blazing.json) |
+| Naruto Shippuden: Ultimate Ninja Storm Generations | 7100 | [7100-naruto-shippuden-ultimate-ninja-storm-generations.json](./7100-naruto-shippuden-ultimate-ninja-storm-generations.json) |
 | Naruto To Boruto: Shinobi Stricker - Master Character Training Pack: Boruto Uzumaki (Karma Progression) | 275885 | [275885-naruto-to-boruto-shinobi-stricker-master-character-training-pack-boruto-uzumaki-karma-progression.json](./275885-naruto-to-boruto-shinobi-stricker-master-character-training-pack-boruto-uzumaki-karma-progression.json) |
 | Naruto to Boruto: Shinobi Striker - Special Ninjutsu: Wood Style - Wood Golem Jutsu | 294999 | [294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json](./294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json) |
 | Naruto: Ninja Council 2 - European Version | 79297 | [79297-naruto-ninja-council-2-european-version.json](./79297-naruto-ninja-council-2-european-version.json) |
@@ -121,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazoler Land Dai 3-gou | 41399 | [41399-nazoler-land-dai-3-gou.json](./41399-nazoler-land-dai-3-gou.json) |
 | Nazoler Land Soukan-gou | 41398 | [41398-nazoler-land-soukan-gou.json](./41398-nazoler-land-soukan-gou.json) |
 | Nazoler Land Special!! Quiz-Ou wo Ikuse | 41397 | [41397-nazoler-land-special-quiz-ou-wo-ikuse.json](./41397-nazoler-land-special-quiz-ou-wo-ikuse.json) |
+| NBA 2K11 | 5056 | [5056-nba-2k11.json](./5056-nba-2k11.json) |
 | NBA 2K19: The Prelude | 110326 | [110326-nba-2k19-the-prelude.json](./110326-nba-2k19-the-prelude.json) |
 | NBA 2K6 | 257114 | [257114-nba-2k6.json](./257114-nba-2k6.json) |
 | NBA Ballers: Rebound | 72721 | [72721-nba-ballers-rebound.json](./72721-nba-ballers-rebound.json) |
