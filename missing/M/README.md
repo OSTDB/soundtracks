@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart 64: Hooting Time | 248303 | [248303-mario-kart-64-hooting-time.json](./248303-mario-kart-64-hooting-time.json) |
 | Mario Kart 64: Stomper Mod | 248307 | [248307-mario-kart-64-stomper-mod.json](./248307-mario-kart-64-stomper-mod.json) |
 | Mario Kart 8 Deluxe + Booster Course Pass | 245049 | [245049-mario-kart-8-deluxe-booster-course-pass.json](./245049-mario-kart-8-deluxe-booster-course-pass.json) |
+| Mario Kart 8 Deluxe: Booster Course Pass | 191419 | [191419-mario-kart-8-deluxe-booster-course-pass.json](./191419-mario-kart-8-deluxe-booster-course-pass.json) |
 | Mario Kart Arcade GP VR | 48711 | [48711-mario-kart-arcade-gp-vr.json](./48711-mario-kart-arcade-gp-vr.json) |
 | Mario Kart RiiBalanced | 202370 | [202370-mario-kart-riibalanced.json](./202370-mario-kart-riibalanced.json) |
 | Mario Kart Tour: Ice Tour | 338539 | [338539-mario-kart-tour-ice-tour.json](./338539-mario-kart-tour-ice-tour.json) |
@@ -343,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party 3 StarStruck | 248306 | [248306-mario-party-3-starstruck.json](./248306-mario-party-3-starstruck.json) |
 | Mario Party 4 | 231603 | [231603-mario-party-4.json](./231603-mario-party-4.json) |
 | Mario Party 7 Bon Voyage | 231602 | [231602-mario-party-7-bon-voyage.json](./231602-mario-party-7-bon-voyage.json) |
+| Mario Party: Star Rush | 19599 | [19599-mario-party-star-rush.json](./19599-mario-party-star-rush.json) |
 | Mario Royale Deluxe | 262665 | [262665-mario-royale-deluxe.json](./262665-mario-royale-deluxe.json) |
 | Mario Sports Complex: Barrel Blast | 231644 | [231644-mario-sports-complex-barrel-blast.json](./231644-mario-sports-complex-barrel-blast.json) |
 | Mario Sports Mix | 3989 | [3989-mario-sports-mix.json](./3989-mario-sports-mix.json) |
@@ -663,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melody of the Light | 181909 | [181909-melody-of-the-light.json](./181909-melody-of-the-light.json) |
 | Melody's Escape 2 | 217497 | [217497-melodys-escape-2.json](./217497-melodys-escape-2.json) |
 | Melter Man | 34411 | [34411-melter-man.json](./34411-melter-man.json) |
+| Melty Blood Actress Again Current Code | 19943 | [19943-melty-blood-actress-again-current-code.json](./19943-melty-blood-actress-again-current-code.json) |
 | Melvor Idle: Atlas of Discovery | 259837 | [259837-melvor-idle-atlas-of-discovery.json](./259837-melvor-idle-atlas-of-discovery.json) |
 | Meme Barley-Break | 112351 | [112351-meme-barley-break.json](./112351-meme-barley-break.json) |
 | Memento | 33176 | [33176-memento.json](./33176-memento.json) |
