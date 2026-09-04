@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Eternal Crusade - Belial War Pack | 225868 | [225868-warhammer-40-000-eternal-crusade-belial-war-pack.json](./225868-warhammer-40-000-eternal-crusade-belial-war-pack.json) |
 | Warhammer 40,000: Freeblade | 34420 | [34420-warhammer-40-000-freeblade.json](./34420-warhammer-40-000-freeblade.json) |
 | Warhammer 40,000: Gladius - Relics of War: Adeptus Mechanicus | 186891 | [186891-warhammer-40-000-gladius-relics-of-war-adeptus-mechanicus.json](./186891-warhammer-40-000-gladius-relics-of-war-adeptus-mechanicus.json) |
+| Warhammer 40,000: Mechanicus | 88461 | [88461-warhammer-40-000-mechanicus.json](./88461-warhammer-40-000-mechanicus.json) |
 | Warhammer 40,000: Sanctus Reach - Sons of Cadia | 111744 | [111744-warhammer-40-000-sanctus-reach-sons-of-cadia.json](./111744-warhammer-40-000-sanctus-reach-sons-of-cadia.json) |
 | Warhammer 40,000: Space Marine - Death Guard Champion Chapter Pack DLC | 225870 | [225870-warhammer-40-000-space-marine-death-guard-champion-chapter-pack-dlc.json](./225870-warhammer-40-000-space-marine-death-guard-champion-chapter-pack-dlc.json) |
 | Warhammer 40,000: Space Marine - Emperor’s Elite Pack | 225872 | [225872-warhammer-40-000-space-marine-emperor-s-elite-pack.json](./225872-warhammer-40-000-space-marine-emperor-s-elite-pack.json) |
@@ -155,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Vermintide 2 - A Treacherous Adventure | 321734 | [321734-warhammer-vermintide-2-a-treacherous-adventure.json](./321734-warhammer-vermintide-2-a-treacherous-adventure.json) |
 | Warhammer: Vermintide 2 - Necromancer | 262658 | [262658-warhammer-vermintide-2-necromancer.json](./262658-warhammer-vermintide-2-necromancer.json) |
 | Warhammer: Vermintide 2 - Winds of Magic | 115671 | [115671-warhammer-vermintide-2-winds-of-magic.json](./115671-warhammer-vermintide-2-winds-of-magic.json) |
+| Wario Land: Shake It! | 1702 | [1702-wario-land-shake-it.json](./1702-wario-land-shake-it.json) |
 | Wario: Master of Disguise Trivia | 231649 | [231649-wario-master-of-disguise-trivia.json](./231649-wario-master-of-disguise-trivia.json) |
 | WarioWare Mouse Workz! | 250046 | [250046-warioware-mouse-workz.json](./250046-warioware-mouse-workz.json) |
 | Warkestra | 275336 | [275336-warkestra.json](./275336-warkestra.json) |
@@ -244,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Web Crawlies | 236523 | [236523-web-crawlies.json](./236523-web-crawlies.json) |
 | Web Runner | 178066 | [178066-web-runner.json](./178066-web-runner.json) |
 | Web Spice Purple World | 128020 | [128020-web-spice-purple-world.json](./128020-web-spice-purple-world.json) |
+| Webbed | 139458 | [139458-webbed.json](./139458-webbed.json) |
 | Wedding Girl Makeover | 96072 | [96072-wedding-girl-makeover.json](./96072-wedding-girl-makeover.json) |
 | Wedding Peach: Doki-doki Oironaoshi | 64951 | [64951-wedding-peach-doki-doki-oironaoshi.json](./64951-wedding-peach-doki-doki-oironaoshi.json) |
 | Wedding Peach: Jamapii Panic | 64952 | [64952-wedding-peach-jamapii-panic.json](./64952-wedding-peach-jamapii-panic.json) |
@@ -433,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildwood: Graveyard Defense | 217539 | [217539-wildwood-graveyard-defense.json](./217539-wildwood-graveyard-defense.json) |
 | Will it Crush? | 102785 | [102785-will-it-crush.json](./102785-will-it-crush.json) |
 | Willo | 179746 | [179746-willo.json](./179746-willo.json) |
+| Wilmot's Warehouse | 77494 | [77494-wilmots-warehouse.json](./77494-wilmots-warehouse.json) |
 | Wily & Right no Rock Board: That's Paradise | 295041 | [295041-wily-and-right-no-rock-board-thats-paradise.json](./295041-wily-and-right-no-rock-board-thats-paradise.json) |
 | Wimbledon '88 | 121720 | [121720-wimbledon-88.json](./121720-wimbledon-88.json) |
 | Win Big or Die | 30937 | [30937-win-big-or-die.json](./30937-win-big-or-die.json) |
