@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genso Manège | 306084 | [306084-genso-manege.json](./306084-genso-manege.json) |
 | Gensou Ningyou Embu Gaiden: Yuki-chan no Shugyou | 312327 | [312327-gensou-ningyou-embu-gaiden-yuki-chan-no-shugyou.json](./312327-gensou-ningyou-embu-gaiden-yuki-chan-no-shugyou.json) |
 | Gensou no Idea: Oratorio Phantasm Historia | 137081 | [137081-gensou-no-idea-oratorio-phantasm-historia.json](./137081-gensou-no-idea-oratorio-phantasm-historia.json) |
+| Gensou Skydrift | 125591 | [125591-gensou-skydrift.json](./125591-gensou-skydrift.json) |
 | Gensou Tairiku Aurelia | 79293 | [79293-gensou-tairiku-aurelia.json](./79293-gensou-tairiku-aurelia.json) |
 | Geo Mythica | 264315 | [264315-geo-mythica.json](./264315-geo-mythica.json) |
 | Geo-Political Simulator | 79943 | [79943-geo-political-simulator.json](./79943-geo-political-simulator.json) |
@@ -480,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal 94 | 78065 | [78065-goal-94.json](./78065-goal-94.json) |
 | Goal and Crossbones | 178649 | [178649-goal-and-crossbones.json](./178649-goal-and-crossbones.json) |
 | Goal Poacher VR: Football Header Simulator | 326415 | [326415-goal-poacher-vr-football-header-simulator.json](./326415-goal-poacher-vr-football-header-simulator.json) |
+| Goat of Duty | 118115 | [118115-goat-of-duty.json](./118115-goat-of-duty.json) |
 | Goat Runner | 84873 | [84873-goat-runner.json](./84873-goat-runner.json) |
 | Goat Simulator MMO Simulator | 88922 | [88922-goat-simulator-mmo-simulator.json](./88922-goat-simulator-mmo-simulator.json) |
 | Goat Simulator: Waste of Space Bundle | 234308 | [234308-goat-simulator-waste-of-space-bundle.json](./234308-goat-simulator-waste-of-space-bundle.json) |
