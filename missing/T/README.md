@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tearscape | 318752 | [318752-tearscape.json](./318752-tearscape.json) |
 | Tech Disorder | 291258 | [291258-tech-disorder.json](./291258-tech-disorder.json) |
 | Technician Ted | 84242 | [84242-technician-ted.json](./84242-technician-ted.json) |
+| Technosphere Reload | 116829 | [116829-technosphere-reload.json](./116829-technosphere-reload.json) |
 | Technuclear | 180812 | [180812-technuclear.json](./180812-technuclear.json) |
 | Tecmo Bowl: Kickoff | 264889 | [264889-tecmo-bowl-kickoff.json](./264889-tecmo-bowl-kickoff.json) |
 | Tecmo Stackers | 43939 | [43939-tecmo-stackers.json](./43939-tecmo-stackers.json) |
@@ -477,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Testimony of Help | 268228 | [268228-testimony-of-help.json](./268228-testimony-of-help.json) |
 | Testing Facility | 274181 | [274181-testing-facility.json](./274181-testing-facility.json) |
 | Tether | 186336 | [186336-tether.json](./186336-tether.json) |
+| TetraLogical | 115531 | [115531-tetralogical.json](./115531-tetralogical.json) |
 | Tetriller | 84247 | [84247-tetriller.json](./84247-tetriller.json) |
 | Tetris | 180279 | [180279-tetris.json](./180279-tetris.json) |
 | Tetris | 185669 | [185669-tetris.json](./185669-tetris.json) |
@@ -1202,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last One Month | 180307 | [180307-the-last-one-month.json](./180307-the-last-one-month.json) |
 | The Last Photon | 33050 | [33050-the-last-photon.json](./33050-the-last-photon.json) |
 | The Last Plast | 302126 | [302126-the-last-plast.json](./302126-the-last-plast.json) |
+| The Last Player | 115469 | [115469-the-last-player.json](./115469-the-last-player.json) |
 | The Last Quest | 185158 | [185158-the-last-quest.json](./185158-the-last-quest.json) |
 | The Last Refuge | 72109 | [72109-the-last-refuge.json](./72109-the-last-refuge.json) |
 | The Last Run: Dead Zombie Shooter | 209142 | [209142-the-last-run-dead-zombie-shooter.json](./209142-the-last-run-dead-zombie-shooter.json) |
@@ -2053,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic-Toc-Tower: Teslagrad | 171063 | [171063-tic-toc-tower-teslagrad.json](./171063-tic-toc-tower-teslagrad.json) |
 | TIC's Revenge | 332243 | [332243-tics-revenge.json](./332243-tics-revenge.json) |
 | Tidal Towns | 341863 | [341863-tidal-towns.json](./341863-tidal-towns.json) |
+| Tidal Tribe | 116582 | [116582-tidal-tribe.json](./116582-tidal-tribe.json) |
 | Tide of Thieves | 216501 | [216501-tide-of-thieves.json](./216501-tide-of-thieves.json) |
 | Tie Dye | 237634 | [237634-tie-dye.json](./237634-tie-dye.json) |
 | Tien Len: Killer 13 | 175422 | [175422-tien-len-killer-13.json](./175422-tien-len-killer-13.json) |
@@ -2369,6 +2373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToHeart | 303230 | [303230-toheart.json](./303230-toheart.json) |
 | Toilet in Wonderland | 25015 | [25015-toilet-in-wonderland.json](./25015-toilet-in-wonderland.json) |
 | Toilet Paper Simulator | 248890 | [248890-toilet-paper-simulator.json](./248890-toilet-paper-simulator.json) |
+| Tok 2 | 116338 | [116338-tok-2.json](./116338-tok-2.json) |
 | Toki Tori 2 | 2351 | [2351-toki-tori-2.json](./2351-toki-tori-2.json) |
 | Tokimeki Memorial Girl's Side | 72670 | [72670-tokimeki-memorial-girls-side.json](./72670-tokimeki-memorial-girls-side.json) |
 | Tokimeki Memorial Girl's Side Triple Pack | 109045 | [109045-tokimeki-memorial-girls-side-triple-pack.json](./109045-tokimeki-memorial-girls-side-triple-pack.json) |
@@ -2983,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trilogic | 91978 | [91978-trilogic.json](./91978-trilogic.json) |
 | Trimorta | 184086 | [184086-trimorta.json](./184086-trimorta.json) |
 | Trinity Trigger: Day 1 Edition | 221947 | [221947-trinity-trigger-day-1-edition.json](./221947-trinity-trigger-day-1-edition.json) |
+| Trinoline | 116366 | [116366-trinoline.json](./116366-trinoline.json) |
 | Trio the Punch | 292851 | [292851-trio-the-punch.json](./292851-trio-the-punch.json) |
 | Trios | 129220 | [129220-trios.json](./129220-trios.json) |
 | Trip's Voyage: Gem Rush | 309122 | [309122-trips-voyage-gem-rush.json](./309122-trips-voyage-gem-rush.json) |
@@ -3069,9 +3075,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truth Loop 2 | 246120 | [246120-truth-loop-2.json](./246120-truth-loop-2.json) |
 | Truth or Lies | 25217 | [25217-truth-or-lies.json](./25217-truth-or-lies.json) |
 | Truth: Disorder II | 98985 | [98985-truth-disorder-ii.json](./98985-truth-disorder-ii.json) |
+| Truth: Disorder III - Gemini | 116786 | [116786-truth-disorder-iii-gemini.json](./116786-truth-disorder-iii-gemini.json) |
 | Truxton Extreme | 287620 | [287620-truxton-extreme.json](./287620-truxton-extreme.json) |
 | Truxton II | 39662 | [39662-truxton-ii.json](./39662-truxton-ii.json) |
 | Try Again | 249388 | [249388-try-again.json](./249388-try-again.json) |
+| Try to Survive | 116552 | [116552-try-to-survive.json](./116552-try-to-survive.json) |
 | TS Marketplace: Marias Pass Scenario Pack 01 | 196896 | [196896-ts-marketplace-marias-pass-scenario-pack-01.json](./196896-ts-marketplace-marias-pass-scenario-pack-01.json) |
 | Tsugunohi: Supernatural Supermarket | 234297 | [234297-tsugunohi-supernatural-supermarket.json](./234297-tsugunohi-supernatural-supermarket.json) |
 | Tsuki no Shoujo: Bishoujo Gakuen 2 | 194622 | [194622-tsuki-no-shoujo-bishoujo-gakuen-2.json](./194622-tsuki-no-shoujo-bishoujo-gakuen-2.json) |
