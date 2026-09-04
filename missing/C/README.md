@@ -1108,8 +1108,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confederate Express | 62730 | [62730-confederate-express.json](./62730-confederate-express.json) |
 | Confession of the Golden Witch | 255386 | [255386-confession-of-the-golden-witch.json](./255386-confession-of-the-golden-witch.json) |
 | Confinement Community Project | 312891 | [312891-confinement-community-project.json](./312891-confinement-community-project.json) |
+| Conflict: Global Terror | 5785 | [5785-conflict-global-terror.json](./5785-conflict-global-terror.json) |
 | Conflict: Middle East | 69884 | [69884-conflict-middle-east.json](./69884-conflict-middle-east.json) |
 | Conflux | 320520 | [320520-conflux.json](./320520-conflux.json) |
+| Congo Bongo | 5669 | [5669-congo-bongo.json](./5669-congo-bongo.json) |
 | Connect | 314051 | [314051-connect.json](./314051-connect.json) |
 | Connect 4 | 79945 | [79945-connect-4.json](./79945-connect-4.json) |
 | Connect Four Cities | 73840 | [73840-connect-four-cities.json](./73840-connect-four-cities.json) |
