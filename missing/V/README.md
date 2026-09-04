@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valerie Porter and the Scarlet Scandal | 27881 | [27881-valerie-porter-and-the-scarlet-scandal.json](./27881-valerie-porter-and-the-scarlet-scandal.json) |
 | Valet Parking 1989 | 85472 | [85472-valet-parking-1989.json](./85472-valet-parking-1989.json) |
 | Valfaris: Digital Deluxe Edition | 154523 | [154523-valfaris-digital-deluxe-edition.json](./154523-valfaris-digital-deluxe-edition.json) |
+| Valfaris: Mecha Therion | 211760 | [211760-valfaris-mecha-therion.json](./211760-valfaris-mecha-therion.json) |
 | Valgrave: Immortal Plains | 122395 | [122395-valgrave-immortal-plains.json](./122395-valgrave-immortal-plains.json) |
 | Valhalla Hills: Sand of the Damned | 171639 | [171639-valhalla-hills-sand-of-the-damned.json](./171639-valhalla-hills-sand-of-the-damned.json) |
 | Valhalla: Awakening of Valkyrie | 214200 | [214200-valhalla-awakening-of-valkyrie.json](./214200-valhalla-awakening-of-valkyrie.json) |
@@ -202,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victory Heat Rally | 142489 | [142489-victory-heat-rally.json](./142489-victory-heat-rally.json) |
 | Victory is Justice! | 117092 | [117092-victory-is-justice.json](./117092-victory-is-justice.json) |
 | Victory of Seeker | 338570 | [338570-victory-of-seeker.json](./338570-victory-of-seeker.json) |
+| Victory: The Age of Racing | 16850 | [16850-victory-the-age-of-racing.json](./16850-victory-the-age-of-racing.json) |
 | Video Casino Games | 137099 | [137099-video-casino-games.json](./137099-video-casino-games.json) |
 | Video Game Feminization Hypnosis | 146905 | [146905-video-game-feminization-hypnosis.json](./146905-video-game-feminization-hypnosis.json) |
 | Video Pinball | 46877 | [46877-video-pinball.json](./46877-video-pinball.json) |
@@ -309,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vnm | 307292 | [307292-vnm.json](./307292-vnm.json) |
 | VocabVan | 338565 | [338565-vocabvan.json](./338565-vocabvan.json) |
 | Voice | 191246 | [191246-voice.json](./191246-voice.json) |
+| Voice of Cards: The Beasts of Burden | 215058 | [215058-voice-of-cards-the-beasts-of-burden.json](./215058-voice-of-cards-the-beasts-of-burden.json) |
 | Voice over | 224746 | [224746-voice-over.json](./224746-voice-over.json) |
 | Void | 252369 | [252369-void.json](./252369-void.json) |
 | Void Bastards | 111846 | [111846-void-bastards.json](./111846-void-bastards.json) |
@@ -318,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Encounter | 172185 | [172185-void-encounter.json](./172185-void-encounter.json) |
 | Void Martyrs | 335686 | [335686-void-martyrs.json](./335686-void-martyrs.json) |
 | Void of Space | 173295 | [173295-void-of-space.json](./173295-void-of-space.json) |
+| Void Sols | 223109 | [223109-void-sols.json](./223109-void-sols.json) |
 | Void/Breaker | 339626 | [339626-void-breaker.json](./339626-void-breaker.json) |
 | Voidborn | 211924 | [211924-voidborn.json](./211924-voidborn.json) |
 | VoidCraft Island Chronicles: Sky Survival | 322401 | [322401-voidcraft-island-chronicles-sky-survival.json](./322401-voidcraft-island-chronicles-sky-survival.json) |
