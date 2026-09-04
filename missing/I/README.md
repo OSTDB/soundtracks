@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Picked Up a Mysterious Smartphone That You Can Change Everything as You Like | 98462 | [98462-i-picked-up-a-mysterious-smartphone-that-you-can-change-everything-as-you-like.json](./98462-i-picked-up-a-mysterious-smartphone-that-you-can-change-everything-as-you-like.json) |
 | I R Teh More Amazzzzing! | 330515 | [330515-i-r-teh-more-amazzzzing.json](./330515-i-r-teh-more-amazzzzing.json) |
 | I Remember the Rain | 223669 | [223669-i-remember-the-rain.json](./223669-i-remember-the-rain.json) |
+| I Shall Remain | 17234 | [17234-i-shall-remain.json](./17234-i-shall-remain.json) |
 | I Slay Zombies: VR Shooter | 174343 | [174343-i-slay-zombies-vr-shooter.json](./174343-i-slay-zombies-vr-shooter.json) |
 | I Spy Mystery | 69891 | [69891-i-spy-mystery.json](./69891-i-spy-mystery.json) |
 | I Spy Treasure Hunt | 73852 | [73852-i-spy-treasure-hunt.json](./73852-i-spy-treasure-hunt.json) |
@@ -289,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In The Ruined Courtyard | 260420 | [260420-in-the-ruined-courtyard.json](./260420-in-the-ruined-courtyard.json) |
 | In the Space: Escape Room | 195800 | [195800-in-the-space-escape-room.json](./195800-in-the-space-escape-room.json) |
 | In the Village of Grandfather: Summer,Sun,Heat. | 106576 | [106576-in-the-village-of-grandfather-summer-sun-heat.json](./106576-in-the-village-of-grandfather-summer-sun-heat.json) |
+| In Verbis Virtus | 16560 | [16560-in-verbis-virtus.json](./16560-in-verbis-virtus.json) |
 | In Your World (I Own) | 340761 | [340761-in-your-world-i-own.json](./340761-in-your-world-i-own.json) |
 | Inari | 277605 | [277605-inari.json](./277605-inari.json) |
 | Inazuma Eleven 1, 2, 3!! Endou Mamoru Densetsu | 86106 | [86106-inazuma-eleven-1-2-3-endou-mamoru-densetsu.json](./86106-inazuma-eleven-1-2-3-endou-mamoru-densetsu.json) |
@@ -570,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Front: Liberation 1944 - Gold Edition | 53237 | [53237-iron-front-liberation-1944-gold-edition.json](./53237-iron-front-liberation-1944-gold-edition.json) |
 | Iron Front: Liberation 1944 D-Day | 53236 | [53236-iron-front-liberation-1944-d-day.json](./53236-iron-front-liberation-1944-d-day.json) |
 | Iron Frontier | 224787 | [224787-iron-frontier.json](./224787-iron-frontier.json) |
+| Iron Maiden: Legacy of the Beast | 16473 | [16473-iron-maiden-legacy-of-the-beast.json](./16473-iron-maiden-legacy-of-the-beast.json) |
 | Iron Master: The Legendary Blacksmith | 67991 | [67991-iron-master-the-legendary-blacksmith.json](./67991-iron-master-the-legendary-blacksmith.json) |
 | Iron Order 1919 | 196333 | [196333-iron-order-1919.json](./196333-iron-order-1919.json) |
 | Iron Reich | 157194 | [157194-iron-reich.json](./157194-iron-reich.json) |
