@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Survivors | 224785 | [224785-energy-survivors.json](./224785-energy-survivors.json) |
 | Energy Tail | 215924 | [215924-energy-tail.json](./215924-energy-tail.json) |
 | Energy Tanks | 269270 | [269270-energy-tanks.json](./269270-energy-tanks.json) |
+| Engare | 34110 | [34110-engare.json](./34110-engare.json) |
 | Engie Benjy: Time for Teamwork! | 325255 | [325255-engie-benjy-time-for-teamwork.json](./325255-engie-benjy-time-for-teamwork.json) |
 | Engine Room | 47266 | [47266-engine-room.json](./47266-engine-room.json) |
 | Engine Sentai Go-Onger: Mach de Oboeru! Aiueo!! | 123618 | [123618-engine-sentai-go-onger-mach-de-oboeru-aiueo.json](./123618-engine-sentai-go-onger-mach-de-oboeru-aiueo.json) |
