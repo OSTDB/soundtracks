@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Champs Returns | 58823 | [58823-tennis-champs-returns.json](./58823-tennis-champs-returns.json) |
 | Tennis Club Story | 134020 | [134020-tennis-club-story.json](./134020-tennis-club-story.json) |
 | Tennis Kings VR | 89257 | [89257-tennis-kings-vr.json](./89257-tennis-kings-vr.json) |
+| Tennis Masters Series | 18334 | [18334-tennis-masters-series.json](./18334-tennis-masters-series.json) |
 | Tennis Menace | 47262 | [47262-tennis-menace.json](./47262-tennis-menace.json) |
 | Tennis Pro Tournaments | 274737 | [274737-tennis-pro-tournaments.json](./274737-tennis-pro-tournaments.json) |
 | Tennis Tourney | 172783 | [172783-tennis-tourney.json](./172783-tennis-tourney.json) |
@@ -490,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Hyperman | 71556 | [71556-the-adventures-of-hyperman.json](./71556-the-adventures-of-hyperman.json) |
 | The Adventures of LinShanHai | 234311 | [234311-the-adventures-of-linshanhai.json](./234311-the-adventures-of-linshanhai.json) |
 | The Adventures of Little Red Riding Cap | 54433 | [54433-the-adventures-of-little-red-riding-cap.json](./54433-the-adventures-of-little-red-riding-cap.json) |
+| The Adventures of Square | 18284 | [18284-the-adventures-of-square.json](./18284-the-adventures-of-square.json) |
 | The Age of Gods Return | 173271 | [173271-the-age-of-gods-return.json](./173271-the-age-of-gods-return.json) |
 | The Agent Saga: Rover Rescue | 54434 | [54434-the-agent-saga-rover-rescue.json](./54434-the-agent-saga-rover-rescue.json) |
 | The Akuma Hunters: Exorsister | 45993 | [45993-the-akuma-hunters-exorsister.json](./45993-the-akuma-hunters-exorsister.json) |
@@ -498,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alpha 001 | 168369 | [168369-the-alpha-001.json](./168369-the-alpha-001.json) |
 | The Amazing Fantastics | 58228 | [58228-the-amazing-fantastics.json](./58228-the-amazing-fantastics.json) |
 | The Amazing Frog? | 63333 | [63333-the-amazing-frog.json](./63333-the-amazing-frog.json) |
+| The American Girls Premiere | 18243 | [18243-the-american-girls-premiere.json](./18243-the-american-girls-premiere.json) |
 | The Amulet of AmunRuuuuuN | 157188 | [157188-the-amulet-of-amunruuuuun.json](./157188-the-amulet-of-amunruuuuun.json) |
 | The Angry 4 | 186866 | [186866-the-angry-4.json](./186866-the-angry-4.json) |
 | The Angry Turnabout | 308547 | [308547-the-angry-turnabout.json](./308547-the-angry-turnabout.json) |
@@ -803,6 +806,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The F.A. Premier League Football Manager 2000 | 70974 | [70974-the-f-a-premier-league-football-manager-2000.json](./70974-the-f-a-premier-league-football-manager-2000.json) |
 | The Fabric of the Mind | 238748 | [238748-the-fabric-of-the-mind.json](./238748-the-fabric-of-the-mind.json) |
 | The Faceless City | 183590 | [183590-the-faceless-city.json](./183590-the-faceless-city.json) |
+| The Fairly OddParents: Clash With the Anti-World | 18256 | [18256-the-fairly-oddparents-clash-with-the-anti-world.json](./18256-the-fairly-oddparents-clash-with-the-anti-world.json) |
+| The Fairly OddParents: Enter the Cleft | 18257 | [18257-the-fairly-oddparents-enter-the-cleft.json](./18257-the-fairly-oddparents-enter-the-cleft.json) |
 | The Fairly OddParents: Shadow Showdown | 332836 | [332836-the-fairly-oddparents-shadow-showdown.json](./332836-the-fairly-oddparents-shadow-showdown.json) |
 | The Fall of Catzahstan. | 183565 | [183565-the-fall-of-catzahstan.json](./183565-the-fall-of-catzahstan.json) |
 | The Fall of Rallys Factory: Episode 2 - It's for Science | 186347 | [186347-the-fall-of-rallys-factory-episode-2-its-for-science.json](./186347-the-fall-of-rallys-factory-episode-2-its-for-science.json) |
@@ -960,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Immortal Mayor | 152377 | [152377-the-immortal-mayor.json](./152377-the-immortal-mayor.json) |
 | The Immortal Mayor: Kingdom of Women | 262077 | [262077-the-immortal-mayor-kingdom-of-women.json](./262077-the-immortal-mayor-kingdom-of-women.json) |
 | The Impossible Test | 66712 | [66712-the-impossible-test.json](./66712-the-impossible-test.json) |
+| The Incredibles: When Danger Calls | 18261 | [18261-the-incredibles-when-danger-calls.json](./18261-the-incredibles-when-danger-calls.json) |
 | The Inlaws | 25004 | [25004-the-inlaws.json](./25004-the-inlaws.json) |
 | The Innsmouth Case | 129197 | [129197-the-innsmouth-case.json](./129197-the-innsmouth-case.json) |
 | The Instruction Manual | 202384 | [202384-the-instruction-manual.json](./202384-the-instruction-manual.json) |
@@ -1021,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last King | 258200 | [258200-the-last-king.json](./258200-the-last-king.json) |
 | The Last Light | 182556 | [182556-the-last-light.json](./182556-the-last-light.json) |
 | The Last Memory of a Burning Thought | 335655 | [335655-the-last-memory-of-a-burning-thought.json](./335655-the-last-memory-of-a-burning-thought.json) |
+| The Last Night | 18285 | [18285-the-last-night.json](./18285-the-last-night.json) |
 | The Last of Us Complete | 340213 | [340213-the-last-of-us-complete.json](./340213-the-last-of-us-complete.json) |
 | The Last of Us Complete: Collector's Edition | 340226 | [340226-the-last-of-us-complete-collectors-edition.json](./340226-the-last-of-us-complete-collectors-edition.json) |
 | The Last of Us Remastered: Day 1 Edition | 89931 | [89931-the-last-of-us-remastered-day-1-edition.json](./89931-the-last-of-us-remastered-day-1-edition.json) |
