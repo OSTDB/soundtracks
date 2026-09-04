@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 07 | 4983 | [4983-madden-nfl-07.json](./4983-madden-nfl-07.json) |
 | Madden NFL 20: Ultimate Superstar Edition | 119063 | [119063-madden-nfl-20-ultimate-superstar-edition.json](./119063-madden-nfl-20-ultimate-superstar-edition.json) |
 | Madden NFL 2000 | 3537 | [3537-madden-nfl-2000.json](./3537-madden-nfl-2000.json) |
+| Madden NFL 2002 | 3539 | [3539-madden-nfl-2002.json](./3539-madden-nfl-2002.json) |
 | Madden NFL 2004 | 777 | [777-madden-nfl-2004.json](./777-madden-nfl-2004.json) |
 | Madden NFL 21: Ultimate Team Starter Pack | 140010 | [140010-madden-nfl-21-ultimate-team-starter-pack.json](./140010-madden-nfl-21-ultimate-team-starter-pack.json) |
 | Madden NFL 22: Dynasty Edition | 155098 | [155098-madden-nfl-22-dynasty-edition.json](./155098-madden-nfl-22-dynasty-edition.json) |
@@ -961,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Jill Off | 72696 | [72696-mighty-jill-off.json](./72696-mighty-jill-off.json) |
 | Mighty Knight Legacy | 275339 | [275339-mighty-knight-legacy.json](./275339-mighty-knight-legacy.json) |
 | Mighty Party | 29865 | [29865-mighty-party.json](./29865-mighty-party.json) |
+| Mighty Switch Force! Hyper Drive Edition | 2176 | [2176-mighty-switch-force-hyper-drive-edition.json](./2176-mighty-switch-force-hyper-drive-edition.json) |
 | MightyBowOfGreenHills | 96761 | [96761-mightybowofgreenhills.json](./96761-mightybowofgreenhills.json) |
 | Miguelshroom: First Day at School | 149593 | [149593-miguelshroom-first-day-at-school.json](./149593-miguelshroom-first-day-at-school.json) |
 | Mika Dozer Spin | 90693 | [90693-mika-dozer-spin.json](./90693-mika-dozer-spin.json) |
@@ -1468,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 1: Ghostface | 312337 | [312337-mortal-kombat-1-ghostface.json](./312337-mortal-kombat-1-ghostface.json) |
 | Mortal Kombat 1: Jean-Claude Van Damme Skin | 265947 | [265947-mortal-kombat-1-jean-claude-van-damme-skin.json](./265947-mortal-kombat-1-jean-claude-van-damme-skin.json) |
 | Mortal Kombat 1: Khaos Reigns Bundle | 312357 | [312357-mortal-kombat-1-khaos-reigns-bundle.json](./312357-mortal-kombat-1-khaos-reigns-bundle.json) |
+| Mortal Kombat 1: Khaos Reigns Story Expansion | 312356 | [312356-mortal-kombat-1-khaos-reigns-story-expansion.json](./312356-mortal-kombat-1-khaos-reigns-story-expansion.json) |
 | Mortal Kombat 1: Noob Saibot | 312334 | [312334-mortal-kombat-1-noob-saibot.json](./312334-mortal-kombat-1-noob-saibot.json) |
 | Mortal Kombat 1: Sektor | 312333 | [312333-mortal-kombat-1-sektor.json](./312333-mortal-kombat-1-sektor.json) |
 | Mortal Kombat 1: Shang Tsung | 265938 | [265938-mortal-kombat-1-shang-tsung.json](./265938-mortal-kombat-1-shang-tsung.json) |
@@ -1485,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat Gold | 45155 | [45155-mortal-kombat-gold.json](./45155-mortal-kombat-gold.json) |
 | Mortal Kombat HD Arcade Kollection | 44618 | [44618-mortal-kombat-hd-arcade-kollection.json](./44618-mortal-kombat-hd-arcade-kollection.json) |
 | Mortal Kombat II | 242249 | [242249-mortal-kombat-ii.json](./242249-mortal-kombat-ii.json) |
+| Mortal Kombat Mobile | 305553 | [305553-mortal-kombat-mobile.json](./305553-mortal-kombat-mobile.json) |
 | Mortal Kombat Trilogy | 4121 | [4121-mortal-kombat-trilogy.json](./4121-mortal-kombat-trilogy.json) |
 | Mortal Kombat X: Apocalypse Pack | 302667 | [302667-mortal-kombat-x-apocalypse-pack.json](./302667-mortal-kombat-x-apocalypse-pack.json) |
 | Mortal Kombat X: Blue Steel Sub-Zero | 304364 | [304364-mortal-kombat-x-blue-steel-sub-zero.json](./304364-mortal-kombat-x-blue-steel-sub-zero.json) |
