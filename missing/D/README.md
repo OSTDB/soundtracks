@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Place 5 | 272030 | [272030-dark-place-5.json](./272030-dark-place-5.json) |
 | Dark Prisms | 243972 | [243972-dark-prisms.json](./243972-dark-prisms.json) |
 | Dark Quest | 145651 | [145651-dark-quest.json](./145651-dark-quest.json) |
+| Dark Raider | 127398 | [127398-dark-raider.json](./127398-dark-raider.json) |
 | Dark Realm: Queen of Flames - Collector's Edition HD | 88309 | [88309-dark-realm-queen-of-flames-collectors-edition-hd.json](./88309-dark-realm-queen-of-flames-collectors-edition-hd.json) |
 | Dark Romance: The Swan Sonata - Collector's Edition | 110345 | [110345-dark-romance-the-swan-sonata-collectors-edition.json](./110345-dark-romance-the-swan-sonata-collectors-edition.json) |
 | Dark Romance: Vampire Origins - Collector's Edition | 209716 | [209716-dark-romance-vampire-origins-collectors-edition.json](./209716-dark-romance-vampire-origins-collectors-edition.json) |
@@ -1466,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Genie | 201294 | [201294-dream-genie.json](./201294-dream-genie.json) |
 | Dream Girls VR | 111725 | [111725-dream-girls-vr.json](./111725-dream-girls-vr.json) |
 | Dream Golf VR | 74441 | [74441-dream-golf-vr.json](./74441-dream-golf-vr.json) |
+| Dream Home | 127082 | [127082-dream-home.json](./127082-dream-home.json) |
 | Dream Invader | 220330 | [220330-dream-invader.json](./220330-dream-invader.json) |
 | Dream Knights: The Little Hero | 181372 | [181372-dream-knights-the-little-hero.json](./181372-dream-knights-the-little-hero.json) |
 | Dream Kombat | 229382 | [229382-dream-kombat.json](./229382-dream-kombat.json) |
