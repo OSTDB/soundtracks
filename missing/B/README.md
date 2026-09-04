@@ -373,6 +373,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Pixel's Survival | 76680 | [76680-battle-pixels-survival.json](./76680-battle-pixels-survival.json) |
 | Battle Plan: Jester's Knife | 247736 | [247736-battle-plan-jesters-knife.json](./247736-battle-plan-jesters-knife.json) |
 | Battle Rage: Mech Conflict | 78683 | [78683-battle-rage-mech-conflict.json](./78683-battle-rage-mech-conflict.json) |
+| Battle Raper | 22407 | [22407-battle-raper.json](./22407-battle-raper.json) |
+| Battle Raper II | 22418 | [22418-battle-raper-ii.json](./22418-battle-raper-ii.json) |
 | Battle Rift | 211428 | [211428-battle-rift.json](./211428-battle-rift.json) |
 | Battle Royale with Cheese | 295529 | [295529-battle-royale-with-cheese.json](./295529-battle-royale-with-cheese.json) |
 | Battle Runner | 75919 | [75919-battle-runner.json](./75919-battle-runner.json) |
@@ -673,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binary Domain Collection | 52629 | [52629-binary-domain-collection.json](./52629-binary-domain-collection.json) |
 | Bind: Brain teaser puzzle game | 88292 | [88292-bind-brain-teaser-puzzle-game.json](./88292-bind-brain-teaser-puzzle-game.json) |
 | Bingaboll | 259862 | [259862-bingaboll.json](./259862-bingaboll.json) |
+| Bingo 75 | 22429 | [22429-bingo-75.json](./22429-bingo-75.json) |
 | Bingo de NouTore: BinTore | 222526 | [222526-bingo-de-noutore-bintore.json](./222526-bingo-de-noutore-bintore.json) |
 | Bingo Infinity | 96082 | [96082-bingo-infinity.json](./96082-bingo-infinity.json) |
 | Binky's Trash Service | 142483 | [142483-binkys-trash-service.json](./142483-binkys-trash-service.json) |
@@ -1123,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Goal | 242219 | [242219-bouncy-goal.json](./242219-bouncy-goal.json) |
 | Bound Ball Animals | 314020 | [314020-bound-ball-animals.json](./314020-bound-ball-animals.json) |
 | Bound High | 50596 | [50596-bound-high.json](./50596-bound-high.json) |
+| Boundary | 22395 | [22395-boundary.json](./22395-boundary.json) |
 | Boundary Master | 311268 | [311268-boundary-master.json](./311268-boundary-master.json) |
 | Bounters | 199119 | [199119-bounters.json](./199119-bounters.json) |
 | Bounty Battle | 107873 | [107873-bounty-battle.json](./107873-bounty-battle.json) |
