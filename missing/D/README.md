@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of the Tiberium Age | 322388 | [322388-dawn-of-the-tiberium-age.json](./322388-dawn-of-the-tiberium-age.json) |
 | Dawn of Warriors | 30956 | [30956-dawn-of-warriors.json](./30956-dawn-of-warriors.json) |
 | Day at the Races | 242821 | [242821-day-at-the-races.json](./242821-day-at-the-races.json) |
+| Day of Defeat | 7551 | [7551-day-of-defeat.json](./7551-day-of-defeat.json) |
 | Day of Red Letter | 253031 | [253031-day-of-red-letter.json](./253031-day-of-red-letter.json) |
 | Day of the Dead: Solitaire Collection | 161362 | [161362-day-of-the-dead-solitaire-collection.json](./161362-day-of-the-dead-solitaire-collection.json) |
 | Day of the Dimetrodon | 168382 | [168382-day-of-the-dimetrodon.json](./168382-day-of-the-dimetrodon.json) |
@@ -629,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil In My House | 311781 | [311781-devil-in-my-house.json](./311781-devil-in-my-house.json) |
 | Devil Mail | 318758 | [318758-devil-mail.json](./318758-devil-mail.json) |
 | Devil May Cry | 302712 | [302712-devil-may-cry.json](./302712-devil-may-cry.json) |
+| Devil May Cry HD Collection | 20734 | [20734-devil-may-cry-hd-collection.json](./20734-devil-may-cry-hd-collection.json) |
 | Devil Stone | 110329 | [110329-devil-stone.json](./110329-devil-stone.json) |
 | Devil World | 55212 | [55212-devil-world.json](./55212-devil-world.json) |
 | Devil Zone | 300401 | [300401-devil-zone.json](./300401-devil-zone.json) |
@@ -680,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice: The Dice Game! | 229971 | [229971-dice-the-dice-game.json](./229971-dice-the-dice-game.json) |
 | Diceies | 79898 | [79898-diceies.json](./79898-diceies.json) |
 | Dicey Demons | 309130 | [309130-dicey-demons.json](./309130-dicey-demons.json) |
+| Dicey Dungeons | 102420 | [102420-dicey-dungeons.json](./102420-dicey-dungeons.json) |
 | Dickdown Duel | 197407 | [197407-dickdown-duel.json](./197407-dickdown-duel.json) |
 | Diddy Kong Racing | 2723 | [2723-diddy-kong-racing.json](./2723-diddy-kong-racing.json) |
 | Diddy Kong Racing DS: Timber's Balloon Pop | 231630 | [231630-diddy-kong-racing-ds-timbers-balloon-pop.json](./231630-diddy-kong-racing-ds-timbers-balloon-pop.json) |
