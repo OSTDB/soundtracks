@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Condition | 219255 | [219255-escape-condition.json](./219255-escape-condition.json) |
 | Escape Depths of Immanis | 322989 | [322989-escape-depths-of-immanis.json](./322989-escape-depths-of-immanis.json) |
 | Escape Evolution | 179180 | [179180-escape-evolution.json](./179180-escape-evolution.json) |
+| Escape First | 97243 | [97243-escape-first.json](./97243-escape-first.json) |
 | Escape from 1927 | 240498 | [240498-escape-from-1927.json](./240498-escape-from-1927.json) |
 | Escape From A Fairytale -Snow White- | 82158 | [82158-escape-from-a-fairytale-snow-white.json](./82158-escape-from-a-fairytale-snow-white.json) |
 | Escape from Aeon | 183559 | [183559-escape-from-aeon.json](./183559-escape-from-aeon.json) |
@@ -433,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Roswell | 225901 | [225901-escape-from-roswell.json](./225901-escape-from-roswell.json) |
 | Escape From School: F.E.L.I.K | 235472 | [235472-escape-from-school-f-e-l-i-k.json](./235472-escape-from-school-f-e-l-i-k.json) |
 | Escape From Sunveil Starport | 299430 | [299430-escape-from-sunveil-starport.json](./299430-escape-from-sunveil-starport.json) |
+| Escape from Tethys | 103256 | [103256-escape-from-tethys.json](./103256-escape-from-tethys.json) |
 | Escape from the Abandoned Outpost | 273669 | [273669-escape-from-the-abandoned-outpost.json](./273669-escape-from-the-abandoned-outpost.json) |
 | Escape From the Dragons | 111686 | [111686-escape-from-the-dragons.json](./111686-escape-from-the-dragons.json) |
 | Escape from the Planet of the Robot Monsters | 12067 | [12067-escape-from-the-planet-of-the-robot-monsters.json](./12067-escape-from-the-planet-of-the-robot-monsters.json) |
@@ -564,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverRun | 90704 | [90704-everrun.json](./90704-everrun.json) |
 | Everseed | 294473 | [294473-everseed.json](./294473-everseed.json) |
 | Everslash | 122424 | [122424-everslash.json](./122424-everslash.json) |
+| Everspace: Stellar Edition | 102126 | [102126-everspace-stellar-edition.json](./102126-everspace-stellar-edition.json) |
 | Evertales | 23927 | [23927-evertales.json](./23927-evertales.json) |
 | Every Ending Is A New Beginning | 184131 | [184131-every-ending-is-a-new-beginning.json](./184131-every-ending-is-a-new-beginning.json) |
 | Every Year Banjir | 254765 | [254765-every-year-banjir.json](./254765-every-year-banjir.json) |
