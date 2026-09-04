@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender | 228072 | [228072-defender.json](./228072-defender.json) |
 | Defender 2000 | 40817 | [40817-defender-2000.json](./40817-defender-2000.json) |
 | Defender of the Turrets: Warp Attack | 171593 | [171593-defender-of-the-turrets-warp-attack.json](./171593-defender-of-the-turrets-warp-attack.json) |
+| Defender's Quest 2: Mists of Ruin | 7889 | [7889-defenders-quest-2-mists-of-ruin.json](./7889-defenders-quest-2-mists-of-ruin.json) |
 | Defenders of Asteria | 207537 | [207537-defenders-of-asteria.json](./207537-defenders-of-asteria.json) |
 | Defenders of Dynatron City | 48066 | [48066-defenders-of-dynatron-city.json](./48066-defenders-of-dynatron-city.json) |
 | Defenders of Ekron: Definitive Edition | 106624 | [106624-defenders-of-ekron-definitive-edition.json](./106624-defenders-of-ekron-definitive-edition.json) |
