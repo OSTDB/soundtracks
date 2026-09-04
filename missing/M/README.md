@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Levels For Doom II | 218171 | [218171-master-levels-for-doom-ii.json](./218171-master-levels-for-doom-ii.json) |
 | Master Minesweeper | 90698 | [90698-master-minesweeper.json](./90698-master-minesweeper.json) |
 | Master Ninja | 15539 | [15539-master-ninja.json](./15539-master-ninja.json) |
+| Master of Dimensions | 7695 | [7695-master-of-dimensions.json](./7695-master-of-dimensions.json) |
 | Master of Mutations | 109716 | [109716-master-of-mutations.json](./109716-master-of-mutations.json) |
 | Master of the Wind | 123642 | [123642-master-of-the-wind.json](./123642-master-of-the-wind.json) |
 | Master Sleuth Bundle | 209692 | [209692-master-sleuth-bundle.json](./209692-master-sleuth-bundle.json) |
@@ -691,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowingtons Simulator | 326384 | [326384-meowingtons-simulator.json](./326384-meowingtons-simulator.json) |
 | Mer Wars | 264310 | [264310-mer-wars.json](./264310-mer-wars.json) |
 | Mercforce: 30X1 | 120380 | [120380-mercforce-30x1.json](./120380-mercforce-30x1.json) |
+| Merchant | 7714 | [7714-merchant.json](./7714-merchant.json) |
 | Mercs | 105329 | [105329-mercs.json](./105329-mercs.json) |
 | Mercury | 248333 | [248333-mercury.json](./248333-mercury.json) |
 | Mercury no Aoi Suna | 150125 | [150125-mercury-no-aoi-suna.json](./150125-mercury-no-aoi-suna.json) |
@@ -880,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midway: Sink the Japanese Aircraft Carriers | 196293 | [196293-midway-sink-the-japanese-aircraft-carriers.json](./196293-midway-sink-the-japanese-aircraft-carriers.json) |
 | Miffed | 180821 | [180821-miffed.json](./180821-miffed.json) |
 | MiG-29 Fulcrum | 229931 | [229931-mig-29-fulcrum.json](./229931-mig-29-fulcrum.json) |
+| Might and Magic: World of Xeen | 7738 | [7738-might-and-magic-world-of-xeen.json](./7738-might-and-magic-world-of-xeen.json) |
 | Mighty Gunvolt Burst: Character Set - Rivals | 225906 | [225906-mighty-gunvolt-burst-character-set-rivals.json](./225906-mighty-gunvolt-burst-character-set-rivals.json) |
 | Mighty Heroes | 125995 | [125995-mighty-heroes.json](./125995-mighty-heroes.json) |
 | Mighty Jill Off | 72696 | [72696-mighty-jill-off.json](./72696-mighty-jill-off.json) |
