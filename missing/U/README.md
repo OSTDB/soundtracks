@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unending | 260416 | [260416-unending.json](./260416-unending.json) |
 | Unending Dawn | 298846 | [298846-unending-dawn.json](./298846-unending-dawn.json) |
 | Unexpected Consequences | 268218 | [268218-unexpected-consequences.json](./268218-unexpected-consequences.json) |
+| Unfabulous | 18306 | [18306-unfabulous.json](./18306-unfabulous.json) |
 | Unfated | 267672 | [267672-unfated.json](./267672-unfated.json) |
 | Unfazed | 31948 | [31948-unfazed.json](./31948-unfazed.json) |
 | Unfinished 2 | 338589 | [338589-unfinished-2.json](./338589-unfinished-2.json) |
