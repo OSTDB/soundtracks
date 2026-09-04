@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 19: Ultimate Edition | 61636 | [61636-nhl-19-ultimate-edition.json](./61636-nhl-19-ultimate-edition.json) |
 | NHL 2000 | 813 | [813-nhl-2000.json](./813-nhl-2000.json) |
 | NHL 2001 | 814 | [814-nhl-2001.json](./814-nhl-2001.json) |
+| NHL 2K2 | 8840 | [8840-nhl-2k2.json](./8840-nhl-2k2.json) |
 | NHL 2K3 | 4045 | [4045-nhl-2k3.json](./4045-nhl-2k3.json) |
 | NHL All-Star Hockey '95 | 19559 | [19559-nhl-all-star-hockey-95.json](./19559-nhl-all-star-hockey-95.json) |
 | NHL Stanley Cup | 42655 | [42655-nhl-stanley-cup.json](./42655-nhl-stanley-cup.json) |
