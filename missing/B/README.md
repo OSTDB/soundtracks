@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman Begins: Fast Pursuit | 245554 | [245554-batman-begins-fast-pursuit.json](./245554-batman-begins-fast-pursuit.json) |
 | Batman Begins: Fear the Bat | 245553 | [245553-batman-begins-fear-the-bat.json](./245553-batman-begins-fear-the-bat.json) |
 | Batman Doom | 138788 | [138788-batman-doom.json](./138788-batman-doom.json) |
+| Batman Returns | 4379 | [4379-batman-returns.json](./4379-batman-returns.json) |
 | Batman: Arkham Asylum | 240487 | [240487-batman-arkham-asylum.json](./240487-batman-arkham-asylum.json) |
 | Batman: Arkham Knight - 2008 Tumbler Batmobile Pack | 15524 | [15524-batman-arkham-knight-2008-tumbler-batmobile-pack.json](./15524-batman-arkham-knight-2008-tumbler-batmobile-pack.json) |
 | Batman: Arkham Knight - Batman Classic TV Series Batmobile Pack | 15527 | [15527-batman-arkham-knight-batman-classic-tv-series-batmobile-pack.json](./15527-batman-arkham-knight-batman-classic-tv-series-batmobile-pack.json) |
@@ -964,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood of Calamity | 319375 | [319375-blood-of-calamity.json](./319375-blood-of-calamity.json) |
 | Blood of Darkness | 153434 | [153434-blood-of-darkness.json](./153434-blood-of-darkness.json) |
 | Blood of Heroes | 146880 | [146880-blood-of-heroes.json](./146880-blood-of-heroes.json) |
+| Blood Omen 2: Legacy of Kain | 3823 | [3823-blood-omen-2-legacy-of-kain.json](./3823-blood-omen-2-legacy-of-kain.json) |
 | Blood Omen: Legacy of Kain | 317629 | [317629-blood-omen-legacy-of-kain.json](./317629-blood-omen-legacy-of-kain.json) |
 | Blood Omen: Legacy of Kain | 7894 | [7894-blood-omen-legacy-of-kain.json](./7894-blood-omen-legacy-of-kain.json) |
 | Blood Pact | 239873 | [239873-blood-pact.json](./239873-blood-pact.json) |
@@ -1583,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust a date | 173829 | [173829-bust-a-date.json](./173829-bust-a-date.json) |
 | Bust Out | 174878 | [174878-bust-out.json](./174878-bust-out.json) |
 | Bust-A-Move Pocket | 43977 | [43977-bust-a-move-pocket.json](./43977-bust-a-move-pocket.json) |
+| Buster Bros. | 6823 | [6823-buster-bros.json](./6823-buster-bros.json) |
 | Bustin-Out | 64946 | [64946-bustin-out.json](./64946-bustin-out.json) |
 | Busty Maid: Creampie Heaven | 127964 | [127964-busty-maid-creampie-heaven.json](./127964-busty-maid-creampie-heaven.json) |
 | Busy Scissors | 50594 | [50594-busy-scissors.json](./50594-busy-scissors.json) |
