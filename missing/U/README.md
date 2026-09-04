@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underlab | 262667 | [262667-underlab.json](./262667-underlab.json) |
 | Underland: The Climb | 157713 | [157713-underland-the-climb.json](./157713-underland-the-climb.json) |
 | Underload | 25763 | [25763-underload.json](./25763-underload.json) |
+| Undernauts: Labyrinth of Yomi | 25672 | [25672-undernauts-labyrinth-of-yomi.json](./25672-undernauts-labyrinth-of-yomi.json) |
 | Undernauts: Labyrinth of Yomi & Mon-Yu | 304331 | [304331-undernauts-labyrinth-of-yomi-and-mon-yu.json](./304331-undernauts-labyrinth-of-yomi-and-mon-yu.json) |
 | Underneath | 177545 | [177545-underneath.json](./177545-underneath.json) |
 | Underponder | 151189 | [151189-underponder.json](./151189-underponder.json) |
