@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Connect | 306064 | [306064-re-connect.json](./306064-re-connect.json) |
 | Re:Kuroi | 151725 | [151725-re-kuroi.json](./151725-re-kuroi.json) |
 | Re:Monster | 241637 | [241637-re-monster.json](./241637-re-monster.json) |
+| Re:Zero - Starting Life in Another World: Death or Kiss | 26668 | [26668-re-zero-starting-life-in-another-world-death-or-kiss.json](./26668-re-zero-starting-life-in-another-world-death-or-kiss.json) |
 | Re:Zero Kara Hajimeru Isekai Seikatsu - Infinity | 220324 | [220324-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json](./220324-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json) |
 | Re:Zero Kara Hajimeru Isekai Seikatsu Infinity | 130366 | [130366-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json](./130366-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json) |
 | RE.CO.N. | 146353 | [146353-re-co-n.json](./146353-re-co-n.json) |
@@ -588,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reviver: The Real-Time Adventure | 63884 | [63884-reviver-the-real-time-adventure.json](./63884-reviver-the-real-time-adventure.json) |
 | Revolt Legion VR | 254138 | [254138-revolt-legion-vr.json](./254138-revolt-legion-vr.json) |
 | Revolution | 81387 | [81387-revolution.json](./81387-revolution.json) |
+| Revolve | 26722 | [26722-revolve.json](./26722-revolve.json) |
 | Revolver360 | 79926 | [79926-revolver360.json](./79926-revolver360.json) |
 | Rewilder | 303782 | [303782-rewilder.json](./303782-rewilder.json) |
 | Rex | 45348 | [45348-rex.json](./45348-rex.json) |
@@ -809,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band Sessions | 250663 | [250663-rock-band-sessions.json](./250663-rock-band-sessions.json) |
 | Rock Bottom | 141856 | [141856-rock-bottom.json](./141856-rock-bottom.json) |
 | Rock Bottom | 304339 | [304339-rock-bottom.json](./304339-rock-bottom.json) |
+| Rock Defender | 26650 | [26650-rock-defender.json](./26650-rock-defender.json) |
 | Rock Flipper | 332808 | [332808-rock-flipper.json](./332808-rock-flipper.json) |
 | Rock of Destruction! | 104114 | [104114-rock-of-destruction.json](./104114-rock-of-destruction.json) |
 | Rock Paper Clicker | 191856 | [191856-rock-paper-clicker.json](./191856-rock-paper-clicker.json) |
@@ -947,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romeo | 71527 | [71527-romeo.json](./71527-romeo.json) |
 | Romeo & Juliet | 145667 | [145667-romeo-and-juliet.json](./145667-romeo-and-juliet.json) |
 | Romeo vs. Juliet: All Series Pack | 59447 | [59447-romeo-vs-juliet-all-series-pack.json](./59447-romeo-vs-juliet-all-series-pack.json) |
+| Romero's Aftermath | 26714 | [26714-romeros-aftermath.json](./26714-romeros-aftermath.json) |
 | Romgadr | 259291 | [259291-romgadr.json](./259291-romgadr.json) |
 | Romino's Adventure | 209717 | [209717-rominos-adventure.json](./209717-rominos-adventure.json) |
 | Rompe! | 171078 | [171078-rompe.json](./171078-rompe.json) |
@@ -1172,5 +1176,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rytmik World Music | 84906 | [84906-rytmik-world-music.json](./84906-rytmik-world-music.json) |
 | Rytmik: Rock Edition | 84905 | [84905-rytmik-rock-edition.json](./84905-rytmik-rock-edition.json) |
 | Rytmos | 158197 | [158197-rytmos.json](./158197-rytmos.json) |
+| Ryu ga Gotoku 1&2 HD Edition | 26603 | [26603-ryu-ga-gotoku-1-and-2-hd-edition.json](./26603-ryu-ga-gotoku-1-and-2-hd-edition.json) |
 | Ryu Jin | 40253 | [40253-ryu-jin.json](./40253-ryu-jin.json) |
 | Ryuuko no Ken 2 | 38347 | [38347-ryuuko-no-ken-2.json](./38347-ryuuko-no-ken-2.json) |
