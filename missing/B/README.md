@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bizerta: Silent Evil | 60570 | [60570-bizerta-silent-evil.json](./60570-bizerta-silent-evil.json) |
 | Bizzarioware | 185148 | [185148-bizzarioware.json](./185148-bizzarioware.json) |
 | Black Astral | 201317 | [201317-black-astral.json](./201317-black-astral.json) |
+| Black Belt | 12257 | [12257-black-belt.json](./12257-black-belt.json) |
 | Black Box VR | 140619 | [140619-black-box-vr.json](./140619-black-box-vr.json) |
 | Black Cat Explores Minds | 151736 | [151736-black-cat-explores-minds.json](./151736-black-cat-explores-minds.json) |
 | Black Cauldron Remake | 319346 | [319346-black-cauldron-remake.json](./319346-black-cauldron-remake.json) |
@@ -777,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Hole | 85507 | [85507-black-hole.json](./85507-black-hole.json) |
 | Black Hornet | 14309 | [14309-black-hornet.json](./14309-black-hornet.json) |
 | Black Lotus Motel | 159894 | [159894-black-lotus-motel.json](./159894-black-lotus-motel.json) |
+| Black Magic | 12258 | [12258-black-magic.json](./12258-black-magic.json) |
 | Black Market of Bulletphilia: 100th Black Market | 210247 | [210247-black-market-of-bulletphilia-100th-black-market.json](./210247-black-market-of-bulletphilia-100th-black-market.json) |
 | Black Mesa Inbound | 253030 | [253030-black-mesa-inbound.json](./253030-black-mesa-inbound.json) |
 | Black Monday | 94217 | [94217-black-monday.json](./94217-black-monday.json) |
@@ -1144,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borobodur: The Planet of Doom | 14334 | [14334-borobodur-the-planet-of-doom.json](./14334-borobodur-the-planet-of-doom.json) |
 | Borodino | 14335 | [14335-borodino.json](./14335-borodino.json) |
 | Borrowed Book | 314071 | [314071-borrowed-book.json](./314071-borrowed-book.json) |
+| Borrowed Time | 12259 | [12259-borrowed-time.json](./12259-borrowed-time.json) |
 | Bosei Kanojo: Shikyuu Kikan-hen | 194638 | [194638-bosei-kanojo-shikyuu-kikan-hen.json](./194638-bosei-kanojo-shikyuu-kikan-hen.json) |
 | Boston Nursing Home | 157174 | [157174-boston-nursing-home.json](./157174-boston-nursing-home.json) |
 | Bot Crafter | 253584 | [253584-bot-crafter.json](./253584-bot-crafter.json) |
@@ -1334,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Creator 2015 | 35857 | [35857-bridge-creator-2015.json](./35857-bridge-creator-2015.json) |
 | Bridge hand Composer | 87317 | [87317-bridge-hand-composer.json](./87317-bridge-hand-composer.json) |
 | Bridge to Another World: Escape From Oz Collector's Edition | 104108 | [104108-bridge-to-another-world-escape-from-oz-collectors-edition.json](./104108-bridge-to-another-world-escape-from-oz-collectors-edition.json) |
+| Bridge-It | 12983 | [12983-bridge-it.json](./12983-bridge-it.json) |
 | BridgeFix 2=3-1 | 158731 | [158731-bridgefix-2-3-1.json](./158731-bridgefix-2-3-1.json) |
 | Brigandine | 143118 | [143118-brigandine.json](./143118-brigandine.json) |
 | Briganty: The Roots of Darkness | 73820 | [73820-briganty-the-roots-of-darkness.json](./73820-briganty-the-roots-of-darkness.json) |
