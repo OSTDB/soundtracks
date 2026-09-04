@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industry Giant 2 HD | 53229 | [53229-industry-giant-2-hd.json](./53229-industry-giant-2-hd.json) |
 | Indy Cat and Ball of Fate | 59449 | [59449-indy-cat-and-ball-of-fate.json](./59449-indy-cat-and-ball-of-fate.json) |
 | IndyCar Racing II | 71514 | [71514-indycar-racing-ii.json](./71514-indycar-racing-ii.json) |
+| Infamous: First Light | 7328 | [7328-infamous-first-light.json](./7328-infamous-first-light.json) |
 | Infected run to Survive: Zombie Apocalypse Survival Story Shooter Dead Cry | 231078 | [231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json](./231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json) |
 | Infection | 142474 | [142474-infection.json](./142474-infection.json) |
 | Infection X | 260417 | [260417-infection-x.json](./260417-infection-x.json) |
