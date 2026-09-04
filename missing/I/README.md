@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immediate | 322356 | [322356-immediate.json](./322356-immediate.json) |
 | Immeowtal Festival! | 234300 | [234300-immeowtal-festival.json](./234300-immeowtal-festival.json) |
 | Immersion | 191247 | [191247-immersion.json](./191247-immersion.json) |
+| Immersion Chess | 28875 | [28875-immersion-chess.json](./28875-immersion-chess.json) |
 | Immersive Engineering | 232715 | [232715-immersive-engineering.json](./232715-immersive-engineering.json) |
 | Immersive Horror Room: Hospital Escape Terror | 52003 | [52003-immersive-horror-room-hospital-escape-terror.json](./52003-immersive-horror-room-hospital-escape-terror.json) |
 | Immortal Desire | 245535 | [245535-immortal-desire.json](./245535-immortal-desire.json) |
