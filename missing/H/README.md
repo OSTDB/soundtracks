@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Water Jogger | 73812 | [73812-heavy-water-jogger.json](./73812-heavy-water-jogger.json) |
 | Heavyweight Champ | 39678 | [39678-heavyweight-champ.json](./39678-heavyweight-champ.json) |
 | Heavyweight Thunder | 69875 | [69875-heavyweight-thunder.json](./69875-heavyweight-thunder.json) |
+| Hector: Badge of Carnage! - Episode 1 | 119182 | [119182-hector-badge-of-carnage-episode-1.json](./119182-hector-badge-of-carnage-episode-1.json) |
 | Hector'39 | 328247 | [328247-hector39.json](./328247-hector39.json) |
 | Hedgehog Launch | 234939 | [234939-hedgehog-launch.json](./234939-hedgehog-launch.json) |
 | Hedgehog Launch 2 | 234940 | [234940-hedgehog-launch-2.json](./234940-hedgehog-launch-2.json) |
@@ -902,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Milf 9 | 224222 | [224222-hot-milf-9.json](./224222-hot-milf-9.json) |
 | Hot Pool | 74454 | [74454-hot-pool.json](./74454-hot-pool.json) |
 | Hot Runback: VR Runner | 68656 | [68656-hot-runback-vr-runner.json](./68656-hot-runback-vr-runner.json) |
+| Hot Shot Burn | 121036 | [121036-hot-shot-burn.json](./121036-hot-shot-burn.json) |
 | Hot Shots Soccer | 101570 | [101570-hot-shots-soccer.json](./101570-hot-shots-soccer.json) |
 | Hot Slide | 152920 | [152920-hot-slide.json](./152920-hot-slide.json) |
 | Hot Spring Hero | 171065 | [171065-hot-spring-hero.json](./171065-hot-spring-hero.json) |
