@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Trilogy | 37177 | [37177-samurai-trilogy.json](./37177-samurai-trilogy.json) |
 | Samurai Warriors 3 Z | 136468 | [136468-samurai-warriors-3-z.json](./136468-samurai-warriors-3-z.json) |
 | Samurai Warriors: Chronicles 2nd | 64991 | [64991-samurai-warriors-chronicles-2nd.json](./64991-samurai-warriors-chronicles-2nd.json) |
+| Samurai Warriors: Katana | 5137 | [5137-samurai-warriors-katana.json](./5137-samurai-warriors-katana.json) |
 | Samurai Warriors: Spirit of Sanada | 27272 | [27272-samurai-warriors-spirit-of-sanada.json](./27272-samurai-warriors-spirit-of-sanada.json) |
 | Samurai Wars | 196342 | [196342-samurai-wars.json](./196342-samurai-wars.json) |
 | Samurai Wish | 107890 | [107890-samurai-wish.json](./107890-samurai-wish.json) |
@@ -293,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scene It? Comedy Movies | 66154 | [66154-scene-it-comedy-movies.json](./66154-scene-it-comedy-movies.json) |
 | Scene It? Harry Potter | 66155 | [66155-scene-it-harry-potter.json](./66155-scene-it-harry-potter.json) |
 | Scene It? Movie Night: Mega Movies | 65511 | [65511-scene-it-movie-night-mega-movies.json](./65511-scene-it-movie-night-mega-movies.json) |
+| Scene It? Twilight | 5142 | [5142-scene-it-twilight.json](./5142-scene-it-twilight.json) |
 | Scenery Disk 4 | 78012 | [78012-scenery-disk-4.json](./78012-scenery-disk-4.json) |
 | Scenery Disk 5 | 98959 | [98959-scenery-disk-5.json](./98959-scenery-disk-5.json) |
 | Scenner | 119045 | [119045-scenner.json](./119045-scenner.json) |
@@ -1028,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Series for Nintendo 3DS Vol. 1: The Mahjong | 82133 | [82133-simple-series-for-nintendo-3ds-vol-1-the-mahjong.json](./82133-simple-series-for-nintendo-3ds-vol-1-the-mahjong.json) |
 | Simple Series Vol. 3: The Mahjong | 82132 | [82132-simple-series-vol-3-the-mahjong.json](./82132-simple-series-vol-3-the-mahjong.json) |
 | Simple Tower Defense | 259287 | [259287-simple-tower-defense.json](./259287-simple-tower-defense.json) |
+| Simply Chess | 17604 | [17604-simply-chess.json](./17604-simply-chess.json) |
 | Simply Cubic | 253586 | [253586-simply-cubic.json](./253586-simply-cubic.json) |
 | Simply Puzzles: Codewords | 163424 | [163424-simply-puzzles-codewords.json](./163424-simply-puzzles-codewords.json) |
 | SimTown | 20194 | [20194-simtown.json](./20194-simtown.json) |
@@ -1797,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cake | 61114 | [61114-space-cake.json](./61114-space-cake.json) |
 | Space Canyon | 40771 | [40771-space-canyon.json](./40771-space-canyon.json) |
 | Space Channel 5: Ulala's Cosmic Attack | 23716 | [23716-space-channel-5-ulalas-cosmic-attack.json](./23716-space-channel-5-ulalas-cosmic-attack.json) |
+| Space Chimps | 5172 | [5172-space-chimps.json](./5172-space-chimps.json) |
 | Space City: Build Your Empire | 199662 | [199662-space-city-build-your-empire.json](./199662-space-city-build-your-empire.json) |
 | Space Cobra RetPixMod | 178647 | [178647-space-cobra-retpixmod.json](./178647-space-cobra-retpixmod.json) |
 | Space Command Battleship | 262071 | [262071-space-command-battleship.json](./262071-space-command-battleship.json) |
@@ -2082,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spotted | 200720 | [200720-spotted.json](./200720-spotted.json) |
 | SPQR: The Empire's Darkest Hour | 73328 | [73328-spqr-the-empires-darkest-hour.json](./73328-spqr-the-empires-darkest-hour.json) |
 | Sprawl 96 | 314636 | [314636-sprawl-96.json](./314636-sprawl-96.json) |
+| Spray | 5192 | [5192-spray.json](./5192-spray.json) |
 | Spread Out! Hold Naar' Havok | 273632 | [273632-spread-out-hold-naar-havok.json](./273632-spread-out-hold-naar-havok.json) |
 | Spriggan Powered | 38358 | [38358-spriggan-powered.json](./38358-spriggan-powered.json) |
 | Sprill & Ritchie: Adventures in Time | 54420 | [54420-sprill-and-ritchie-adventures-in-time.json](./54420-sprill-and-ritchie-adventures-in-time.json) |
@@ -2685,6 +2690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumikkogurashi the Movie Block Puzzle Game | 213635 | [213635-sumikkogurashi-the-movie-block-puzzle-game.json](./213635-sumikkogurashi-the-movie-block-puzzle-game.json) |
 | Summer After Ten Years: Steam Edition | 263753 | [263753-summer-after-ten-years-steam-edition.json](./263753-summer-after-ten-years-steam-edition.json) |
 | Summer at Marisol Bay | 183035 | [183035-summer-at-marisol-bay.json](./183035-summer-at-marisol-bay.json) |
+| Summer Athletics | 5196 | [5196-summer-athletics.json](./5196-summer-athletics.json) |
 | Summer Beach Vacation Objects - Hidden Object Time | 102814 | [102814-summer-beach-vacation-objects-hidden-object-time.json](./102814-summer-beach-vacation-objects-hidden-object-time.json) |
 | Summer Camp | 167865 | [167865-summer-camp.json](./167865-summer-camp.json) |
 | Summer Meetings | 121692 | [121692-summer-meetings.json](./121692-summer-meetings.json) |
@@ -3073,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sunny World | 324695 | [324695-super-sunny-world.json](./324695-super-sunny-world.json) |
 | Super Surf Bros | 128609 | [128609-super-surf-bros.json](./128609-super-surf-bros.json) |
 | Super Swap! | 54414 | [54414-super-swap.json](./54414-super-swap.json) |
+| Super Swing Golf: Season 2 | 5203 | [5203-super-swing-golf-season-2.json](./5203-super-swing-golf-season-2.json) |
 | Super Swunsh World | 214775 | [214775-super-swunsh-world.json](./214775-super-swunsh-world.json) |
 | Super Taco Crew | 173845 | [173845-super-taco-crew.json](./173845-super-taco-crew.json) |
 | Super Tank Attack | 256556 | [256556-super-tank-attack.json](./256556-super-tank-attack.json) |
