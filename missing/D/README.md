@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkscrolls | 137648 | [137648-darkscrolls.json](./137648-darkscrolls.json) |
 | DarkSelf: Other Mind | 203568 | [203568-darkself-other-mind.json](./203568-darkself-other-mind.json) |
 | Darksiders III: Collector's Edition | 45985 | [45985-darksiders-iii-collectors-edition.json](./45985-darksiders-iii-collectors-edition.json) |
+| Darksiders: Warmastered Edition | 25081 | [25081-darksiders-warmastered-edition.json](./25081-darksiders-warmastered-edition.json) |
 | DarkSpar | 193467 | [193467-darkspar.json](./193467-darkspar.json) |
 | Darso Roads | 325815 | [325815-darso-roads.json](./325815-darso-roads.json) |
 | Dartford Street | 183593 | [183593-dartford-street.json](./183593-dartford-street.json) |
@@ -799,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 4 Complete+: A Promise of Sardines Edition | 205262 | [205262-disgaea-4-complete-a-promise-of-sardines-edition.json](./205262-disgaea-4-complete-a-promise-of-sardines-edition.json) |
 | Dishonored 2: Steelbook Edition | 308562 | [308562-dishonored-2-steelbook-edition.json](./308562-dishonored-2-steelbook-edition.json) |
 | Dishonored: Death of the Outsider | 37030 | [37030-dishonored-death-of-the-outsider.json](./37030-dishonored-death-of-the-outsider.json) |
+| Dishonored: Definitive Edition | 20863 | [20863-dishonored-definitive-edition.json](./20863-dishonored-definitive-edition.json) |
 | Disillusion ST | 276494 | [276494-disillusion-st.json](./276494-disillusion-st.json) |
 | Disney Classic Games: Aladdin and The Lion King - The Jungle Book and More Aladdin Pack | 204668 | [204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json](./204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json) |
 | Disney Fairies: Tinker Bell | 78718 | [78718-disney-fairies-tinker-bell.json](./78718-disney-fairies-tinker-bell.json) |
@@ -935,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Exit Music: Redux | 201845 | [201845-doki-doki-exit-music-redux.json](./201845-doki-doki-exit-music-redux.json) |
 | Doki Doki Fiendish | 332852 | [332852-doki-doki-fiendish.json](./332852-doki-doki-fiendish.json) |
 | Doki Doki Indian Man Time | 333919 | [333919-doki-doki-indian-man-time.json](./333919-doki-doki-indian-man-time.json) |
+| Doki Doki Literature Club Plus! | 152122 | [152122-doki-doki-literature-club-plus.json](./152122-doki-doki-literature-club-plus.json) |
 | Doki Doki Literature Club Plus!: Premium Edition | 166194 | [166194-doki-doki-literature-club-plus-premium-edition.json](./166194-doki-doki-literature-club-plus-premium-edition.json) |
 | Doki Doki Malignancy | 333923 | [333923-doki-doki-malignancy.json](./333923-doki-doki-malignancy.json) |
 | Doki Doki Nightmare | 333927 | [333927-doki-doki-nightmare.json](./333927-doki-doki-nightmare.json) |
