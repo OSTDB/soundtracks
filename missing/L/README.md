@@ -581,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Cycling Manager 2022 | 215920 | [215920-live-cycling-manager-2022.json](./215920-live-cycling-manager-2022.json) |
 | Live Maze | 210874 | [210874-live-maze.json](./210874-live-maze.json) |
 | LIve Pict | 278724 | [278724-live-pict.json](./278724-live-pict.json) |
+| Live Portrait Maker | 101497 | [101497-live-portrait-maker.json](./101497-live-portrait-maker.json) |
 | Lively Chair Simulator | 273118 | [273118-lively-chair-simulator.json](./273118-lively-chair-simulator.json) |
 | Livestream: Escape from Hotel Izanami | 146928 | [146928-livestream-escape-from-hotel-izanami.json](./146928-livestream-escape-from-hotel-izanami.json) |
 | Living Dark | 77355 | [77355-living-dark.json](./77355-living-dark.json) |
