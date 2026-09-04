@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic 1881 | 158202 | [158202-gothic-1881.json](./158202-gothic-1881.json) |
 | Gothic Classic Khorinis Saga | 300389 | [300389-gothic-classic-khorinis-saga.json](./300389-gothic-classic-khorinis-saga.json) |
 | Gothic II: Complete Classic | 270397 | [270397-gothic-ii-complete-classic.json](./270397-gothic-ii-complete-classic.json) |
+| Gothic II: The Night of the Raven | 2481 | [2481-gothic-ii-the-night-of-the-raven.json](./2481-gothic-ii-the-night-of-the-raven.json) |
 | Gothic: Playable Teaser | 333956 | [333956-gothic-playable-teaser.json](./333956-gothic-playable-teaser.json) |
 | GothicDM 2 | 229939 | [229939-gothicdm-2.json](./229939-gothicdm-2.json) |
 | Götzendiener | 19661 | [19661-gotzendiener.json](./19661-gotzendiener.json) |
