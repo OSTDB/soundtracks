@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarth | 239297 | [239297-quarth.json](./239297-quarth.json) |
 | Quarth | 239298 | [239298-quarth.json](./239298-quarth.json) |
 | Quarth | 239299 | [239299-quarth.json](./239299-quarth.json) |
+| Quarth | 41771 | [41771-quarth.json](./41771-quarth.json) |
 | Quartz's Quest | 245036 | [245036-quartzs-quest.json](./245036-quartzs-quest.json) |
 | Quattro Combat | 72124 | [72124-quattro-combat.json](./72124-quattro-combat.json) |
 | QubeTown | 114414 | [114414-qubetown.json](./114414-qubetown.json) |
