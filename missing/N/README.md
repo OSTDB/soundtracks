@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K | 8832 | [8832-nba-2k.json](./8832-nba-2k.json) |
 | NBA 2K1 | 28836 | [28836-nba-2k1.json](./28836-nba-2k1.json) |
 | NBA 2K11 | 5056 | [5056-nba-2k11.json](./5056-nba-2k11.json) |
+| NBA 2K17: The Prelude | 83763 | [83763-nba-2k17-the-prelude.json](./83763-nba-2k17-the-prelude.json) |
 | NBA 2K19: The Prelude | 110326 | [110326-nba-2k19-the-prelude.json](./110326-nba-2k19-the-prelude.json) |
 | NBA 2K2 | 4029 | [4029-nba-2k2.json](./4029-nba-2k2.json) |
 | NBA 2K26 | 353901 | [353901-nba-2k26.json](./353901-nba-2k26.json) |
@@ -671,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nono Islands | 57111 | [57111-nono-islands.json](./57111-nono-islands.json) |
 | Nonocular | 181384 | [181384-nonocular.json](./181384-nonocular.json) |
 | Nonogram | 112360 | [112360-nonogram.json](./112360-nonogram.json) |
+| Nonogram - The Greatest Painter | 87774 | [87774-nonogram-the-greatest-painter.json](./87774-nonogram-the-greatest-painter.json) |
 | Nonogram Minimal | 197918 | [197918-nonogram-minimal.json](./197918-nonogram-minimal.json) |
 | Nonogram Mon | 312367 | [312367-nonogram-mon.json](./312367-nonogram-mon.json) |
 | Nonogram: Girl's Sweets II | 228090 | [228090-nonogram-girls-sweets-ii.json](./228090-nonogram-girls-sweets-ii.json) |
