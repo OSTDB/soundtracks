@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | (A)woken | 307298 | [307298-a-woken.json](./307298-a-woken.json) |
 | (Dis)assemble | 192969 | [192969-dis-assemble.json](./192969-dis-assemble.json) |
 | [Speer] | 134672 | [134672-speer.json](./134672-speer.json) |
+| @ Home Mate | 22467 | [22467-home-mate.json](./22467-home-mate.json) |
 | *N Sync: Get to the Show | 94742 | [94742-n-sync-get-to-the-show.json](./94742-n-sync-get-to-the-show.json) |
 | #Halloween, Super Puzzles Dream | 147438 | [147438-halloween-super-puzzles-dream.json](./147438-halloween-super-puzzles-dream.json) |
 | #Have A Sticker | 99640 | [99640-have-a-sticker.json](./99640-have-a-sticker.json) |
@@ -138,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1979 Invasion Earth | 29876 | [29876-1979-invasion-earth.json](./29876-1979-invasion-earth.json) |
 | 1986 A Long Five Days | 301032 | [301032-1986-a-long-five-days.json](./301032-1986-a-long-five-days.json) |
 | 1989 QianShanMen | 259288 | [259288-1989-qianshanmen.json](./259288-1989-qianshanmen.json) |
+| 1991 Du Ma Racing | 22428 | [22428-1991-du-ma-racing.json](./22428-1991-du-ma-racing.json) |
 | 1B Spells | 248318 | [248318-1b-spells.json](./248318-1b-spells.json) |
 | 1Bit Castle: Remake | 296672 | [296672-1bit-castle-remake.json](./296672-1bit-castle-remake.json) |
 | 1D Game | 332265 | [332265-1d-game.json](./332265-1d-game.json) |
