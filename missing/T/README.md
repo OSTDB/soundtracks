@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Button Be: Fields | 217542 | [217542-the-button-be-fields.json](./217542-the-button-be-fields.json) |
 | The Button Be: Unexpected | 217543 | [217543-the-button-be-unexpected.json](./217543-the-button-be-unexpected.json) |
 | The Cabin Factory | 325273 | [325273-the-cabin-factory.json](./325273-the-cabin-factory.json) |
+| The Cabinets of Doctor Arcana | 95597 | [95597-the-cabinets-of-doctor-arcana.json](./95597-the-cabinets-of-doctor-arcana.json) |
 | The Cadet Files: Scene Unseen | 278685 | [278685-the-cadet-files-scene-unseen.json](./278685-the-cadet-files-scene-unseen.json) |
 | The California Raisins | 73306 | [73306-the-california-raisins.json](./73306-the-california-raisins.json) |
 | The California Raisins: The Grape Escape | 48702 | [48702-the-california-raisins-the-grape-escape.json](./48702-the-california-raisins-the-grape-escape.json) |
@@ -874,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Earth Defend | 46674 | [46674-the-earth-defend.json](./46674-the-earth-defend.json) |
 | The Eastern Edge | 341897 | [341897-the-eastern-edge.json](./341897-the-eastern-edge.json) |
 | The Eastern Sacrifice | 273659 | [273659-the-eastern-sacrifice.json](./273659-the-eastern-sacrifice.json) |
+| The Eerie Inn | 95595 | [95595-the-eerie-inn.json](./95595-the-eerie-inn.json) |
 | The Egg of Human Endeavors | 223133 | [223133-the-egg-of-human-endeavors.json](./223133-the-egg-of-human-endeavors.json) |
 | The Eidolon | 12950 | [12950-the-eidolon.json](./12950-the-eidolon.json) |
 | The Elder Reality | 271486 | [271486-the-elder-reality.json](./271486-the-elder-reality.json) |
@@ -1550,6 +1552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rise of the Golden Idol | 279614 | [279614-the-rise-of-the-golden-idol.json](./279614-the-rise-of-the-golden-idol.json) |
 | The River Of Fire | 268730 | [268730-the-river-of-fire.json](./268730-the-river-of-fire.json) |
 | The Road Driver | 221387 | [221387-the-road-driver.json](./221387-the-road-driver.json) |
+| The Road to Hades | 96354 | [96354-the-road-to-hades.json](./96354-the-road-to-hades.json) |
 | The Room | 11625 | [11625-the-room.json](./11625-the-room.json) |
 | The Room of Black & White | 34455 | [34455-the-room-of-black-and-white.json](./34455-the-room-of-black-and-white.json) |
 | The Room Syndrome | 124218 | [124218-the-room-syndrome.json](./124218-the-room-syndrome.json) |
@@ -2275,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Secret 2: Time Tunnel | 91458 | [91458-time-secret-2-time-tunnel.json](./91458-time-secret-2-time-tunnel.json) |
 | Time Splatter | 110360 | [110360-time-splatter.json](./110360-time-splatter.json) |
 | Time Stand Still | 10992 | [10992-time-stand-still.json](./10992-time-stand-still.json) |
+| Time Tenshi Paradox: Episode 2 | 96616 | [96616-time-tenshi-paradox-episode-2.json](./96616-time-tenshi-paradox-episode-2.json) |
 | Time to Golf | 143711 | [143711-time-to-golf.json](./143711-time-to-golf.json) |
 | Time to Play Pyramid | 96759 | [96759-time-to-play-pyramid.json](./96759-time-to-play-pyramid.json) |
 | Time Travel | 117091 | [117091-time-travel.json](./117091-time-travel.json) |
