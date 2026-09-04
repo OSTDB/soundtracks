@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac Maze | 312907 | [312907-pac-maze.json](./312907-pac-maze.json) |
 | Pac-Boy & Mouse | 86097 | [86097-pac-boy-and-mouse.json](./86097-pac-boy-and-mouse.json) |
 | Pac-Man 256 | 14701 | [14701-pac-man-256.json](./14701-pac-man-256.json) |
+| Pac-Man and the Ghostly Adventures | 19940 | [19940-pac-man-and-the-ghostly-adventures.json](./19940-pac-man-and-the-ghostly-adventures.json) |
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
 | Pac's Revenge | 337997 | [337997-pacs-revenge.json](./337997-pacs-revenge.json) |
 | Paca Paca Passion Special | 329386 | [329386-paca-paca-passion-special.json](./329386-paca-paca-passion-special.json) |
@@ -496,8 +497,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Point: Festering Skies | 149592 | [149592-phoenix-point-festering-skies.json](./149592-phoenix-point-festering-skies.json) |
 | Phoenix Point: Legacy of the Ancients | 149585 | [149585-phoenix-point-legacy-of-the-ancients.json](./149585-phoenix-point-legacy-of-the-ancients.json) |
 | Phoenix Wright: Ace Attorney - Justice for All | 1427 | [1427-phoenix-wright-ace-attorney-justice-for-all.json](./1427-phoenix-wright-ace-attorney-justice-for-all.json) |
+| Phoenix Wright: Ace Attorney - Justice For All | 221286 | [221286-phoenix-wright-ace-attorney-justice-for-all.json](./221286-phoenix-wright-ace-attorney-justice-for-all.json) |
 | Phoenix Wright: Ace Attorney - Spirit of Justice | 253014 | [253014-phoenix-wright-ace-attorney-spirit-of-justice.json](./253014-phoenix-wright-ace-attorney-spirit-of-justice.json) |
 | Phoenix Wright: Ace Attorney - Tails Abuse In Court | 303756 | [303756-phoenix-wright-ace-attorney-tails-abuse-in-court.json](./303756-phoenix-wright-ace-attorney-tails-abuse-in-court.json) |
+| Phoenix Wright: Ace Attorney - Trials and Tribulations | 221287 | [221287-phoenix-wright-ace-attorney-trials-and-tribulations.json](./221287-phoenix-wright-ace-attorney-trials-and-tribulations.json) |
 | Phoenix Wright: Ace Attorney - Truth and Consequences | 302651 | [302651-phoenix-wright-ace-attorney-truth-and-consequences.json](./302651-phoenix-wright-ace-attorney-truth-and-consequences.json) |
 | Phoenix Wright: Ace Attorney Trilogy - E-Capcom Limited Edition | 205266 | [205266-phoenix-wright-ace-attorney-trilogy-e-capcom-limited-edition.json](./205266-phoenix-wright-ace-attorney-trilogy-e-capcom-limited-edition.json) |
 | Phonequest | 134694 | [134694-phonequest.json](./134694-phonequest.json) |
@@ -570,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillars of Garendall | 69873 | [69873-pillars-of-garendall.json](./69873-pillars-of-garendall.json) |
 | Pillow Bellow | 151173 | [151173-pillow-bellow.json](./151173-pillow-bellow.json) |
 | Pillowheads: It's Party Time | 137644 | [137644-pillowheads-its-party-time.json](./137644-pillowheads-its-party-time.json) |
+| Pilot Brothers | 25513 | [25513-pilot-brothers.json](./25513-pilot-brothers.json) |
 | Pilot Rudder VR | 105340 | [105340-pilot-rudder-vr.json](./105340-pilot-rudder-vr.json) |
 | Pilot Rush | 243388 | [243388-pilot-rush.json](./243388-pilot-rush.json) |
 | Pilot Sophie | 96719 | [96719-pilot-sophie.json](./96719-pilot-sophie.json) |
