@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: ProStreet | 240505 | [240505-need-for-speed-prostreet.json](./240505-need-for-speed-prostreet.json) |
 | Need for Speed: Unbound | 219442 | [219442-need-for-speed-unbound.json](./219442-need-for-speed-unbound.json) |
 | Need More Troops | 165680 | [165680-need-more-troops.json](./165680-need-more-troops.json) |
+| Need to Know | 18234 | [18234-need-to-know.json](./18234-need-to-know.json) |
 | Nefarium | 192452 | [192452-nefarium.json](./192452-nefarium.json) |
 | Negaeba Kitto... | 202938 | [202938-negaeba-kitto.json](./202938-negaeba-kitto.json) |
 | Negative Atmosphere: Emergency Room | 232667 | [232667-negative-atmosphere-emergency-room.json](./232667-negative-atmosphere-emergency-room.json) |
@@ -461,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightbanes | 9518 | [9518-nightbanes.json](./9518-nightbanes.json) |
 | Nightbird Society | 196309 | [196309-nightbird-society.json](./196309-nightbird-society.json) |
 | Nightclub Manager Simulator | 326391 | [326391-nightclub-manager-simulator.json](./326391-nightclub-manager-simulator.json) |
+| NightCry | 19132 | [19132-nightcry.json](./19132-nightcry.json) |
 | Nightfall | 145678 | [145678-nightfall.json](./145678-nightfall.json) |
 | Nightfall | 60020 | [60020-nightfall.json](./60020-nightfall.json) |
 | Nightfall Conquest | 290725 | [290725-nightfall-conquest.json](./290725-nightfall-conquest.json) |
@@ -493,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niji-iro Canvas | 109003 | [109003-niji-iro-canvas.json](./109003-niji-iro-canvas.json) |
 | Nikka: Rise | 235486 | [235486-nikka-rise.json](./235486-nikka-rise.json) |
 | Niko Niko Pun | 42057 | [42057-niko-niko-pun.json](./42057-niko-niko-pun.json) |
+| Niko: Through the Dream | 17323 | [17323-niko-through-the-dream.json](./17323-niko-through-the-dream.json) |
 | Nilia | 146898 | [146898-nilia.json](./146898-nilia.json) |
 | Nim | 100217 | [100217-nim.json](./100217-nim.json) |
 | Nimbit Frontier | 258173 | [258173-nimbit-frontier.json](./258173-nimbit-frontier.json) |
