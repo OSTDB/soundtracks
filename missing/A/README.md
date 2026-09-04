@@ -1190,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade's Greatest Hits: The Midway Collection 2 | 43924 | [43924-arcades-greatest-hits-the-midway-collection-2.json](./43924-arcades-greatest-hits-the-midway-collection-2.json) |
 | Arcadium: Space Odyssey | 255971 | [255971-arcadium-space-odyssey.json](./255971-arcadium-space-odyssey.json) |
 | Arcadius | 156126 | [156126-arcadius.json](./156126-arcadius.json) |
+| Arcaea | 27997 | [27997-arcaea.json](./27997-arcaea.json) |
 | Arcana Ritter | 91422 | [91422-arcana-ritter.json](./91422-arcana-ritter.json) |
 | Arcana: Boundless Horizon | 220306 | [220306-arcana-boundless-horizon.json](./220306-arcana-boundless-horizon.json) |
 | Arcana: Heat and Cold - Season 2 | 191241 | [191241-arcana-heat-and-cold-season-2.json](./191241-arcana-heat-and-cold-season-2.json) |
@@ -1364,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur's Absolutely Fun Day! | 49917 | [49917-arthurs-absolutely-fun-day.json](./49917-arthurs-absolutely-fun-day.json) |
 | Artifacts of Eyru | 207507 | [207507-artifacts-of-eyru.json](./207507-artifacts-of-eyru.json) |
 | Artifice: War Tactics | 224748 | [224748-artifice-war-tactics.json](./224748-artifice-war-tactics.json) |
+| Artificial Academy | 22471 | [22471-artificial-academy.json](./22471-artificial-academy.json) |
 | Artificial Extinction 2 | 216470 | [216470-artificial-extinction-2.json](./216470-artificial-extinction-2.json) |
 | Artificial Girl 3 Plus | 22465 | [22465-artificial-girl-3-plus.json](./22465-artificial-girl-3-plus.json) |
 | Artificial Superintelligence | 174353 | [174353-artificial-superintelligence.json](./174353-artificial-superintelligence.json) |
@@ -1437,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asobu Rakugaki | 72690 | [72690-asobu-rakugaki.json](./72690-asobu-rakugaki.json) |
 | Asonde Poker ga Tsuyoku Naru! Texas Hold 'Em | 144998 | [144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json](./144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json) |
 | Aspectus: Rinascimento Chronicles | 35938 | [35938-aspectus-rinascimento-chronicles.json](./35938-aspectus-rinascimento-chronicles.json) |
+| Asphalt: Nitro | 23310 | [23310-asphalt-nitro.json](./23310-asphalt-nitro.json) |
 | Aspiel: Edge of Chaos | 334502 | [334502-aspiel-edge-of-chaos.json](./334502-aspiel-edge-of-chaos.json) |
 | Assassin's Creed Identity | 17028 | [17028-assassins-creed-identity.json](./17028-assassins-creed-identity.json) |
 | Assassin's Creed III: Liberation | 3195 | [3195-assassins-creed-iii-liberation.json](./3195-assassins-creed-iii-liberation.json) |
@@ -1751,4 +1754,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure Dreams | 6545 | [6545-azure-dreams.json](./6545-azure-dreams.json) |
 | Azure Influx | 322397 | [322397-azure-influx.json](./322397-azure-influx.json) |
 | Azure Striker Gunvolt 2 | 18197 | [18197-azure-striker-gunvolt-2.json](./18197-azure-striker-gunvolt-2.json) |
+| Azure Striker Gunvolt: Striker Pack | 29529 | [29529-azure-striker-gunvolt-striker-pack.json](./29529-azure-striker-gunvolt-striker-pack.json) |
 | Azurik: Rise of Perathia | 5733 | [5733-azurik-rise-of-perathia.json](./5733-azurik-rise-of-perathia.json) |
