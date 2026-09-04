@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sancticide | 291154 | [291154-sancticide.json](./291154-sancticide.json) |
 | Sanction | 203533 | [203533-sanction.json](./203533-sanction.json) |
 | Sanctuarium Online | 191858 | [191858-sanctuarium-online.json](./191858-sanctuarium-online.json) |
+| Sanctus Mortem | 102912 | [102912-sanctus-mortem.json](./102912-sanctus-mortem.json) |
 | Sand Castles | 161387 | [161387-sand-castles.json](./161387-sand-castles.json) |
 | Sand Legends | 335078 | [335078-sand-legends.json](./335078-sand-legends.json) |
 | Sand Storm | 81422 | [81422-sand-storm.json](./81422-sand-storm.json) |
@@ -290,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Goat 2017 | 89987 | [89987-scary-goat-2017.json](./89987-scary-goat-2017.json) |
 | Scary Hotel | 148531 | [148531-scary-hotel.json](./148531-scary-hotel.json) |
 | Scary Math Teacher Boss Pranks | 303260 | [303260-scary-math-teacher-boss-pranks.json](./303260-scary-math-teacher-boss-pranks.json) |
+| Scary Maze | 102955 | [102955-scary-maze.json](./102955-scary-maze.json) |
 | Scary Mine VR | 278695 | [278695-scary-mine-vr.json](./278695-scary-mine-vr.json) |
 | Scary Neighbor Survival | 100854 | [100854-scary-neighbor-survival.json](./100854-scary-neighbor-survival.json) |
 | Scary Robber: Home Clash | 227484 | [227484-scary-robber-home-clash.json](./227484-scary-robber-home-clash.json) |
@@ -381,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scritchy Scratchy | 371567 | [371567-scritchy-scratchy.json](./371567-scritchy-scratchy.json) |
 | Scroll Driver Lite | 232157 | [232157-scroll-driver-lite.json](./232157-scroll-driver-lite.json) |
 | Scuba Bear | 178678 | [178678-scuba-bear.json](./178678-scuba-bear.json) |
+| Scud Frenzy | 102395 | [102395-scud-frenzy.json](./102395-scud-frenzy.json) |
 | Sculpt | 263763 | [263763-sculpt.json](./263763-sculpt.json) |
 | Scumball | 45361 | [45361-scumball.json](./45361-scumball.json) |
 | Scurvy Dogs | 224761 | [224761-scurvy-dogs.json](./224761-scurvy-dogs.json) |
@@ -639,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Burglar | 191864 | [191864-shadow-burglar.json](./191864-shadow-burglar.json) |
 | Shadow Chronicles: Collector's Edition | 201858 | [201858-shadow-chronicles-collectors-edition.json](./201858-shadow-chronicles-collectors-edition.json) |
 | Shadow Code: Lucy | 297217 | [297217-shadow-code-lucy.json](./297217-shadow-code-lucy.json) |
+| Shadow Council: The Puppeteers | 102949 | [102949-shadow-council-the-puppeteers.json](./102949-shadow-council-the-puppeteers.json) |
 | Shadow Eclipse | 166766 | [166766-shadow-eclipse.json](./166766-shadow-eclipse.json) |
 | Shadow Falls | 311258 | [311258-shadow-falls.json](./311258-shadow-falls.json) |
 | Shadow Fate | 191264 | [191264-shadow-fate.json](./191264-shadow-fate.json) |
@@ -820,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Force EXA | 19254 | [19254-shining-force-exa.json](./19254-shining-force-exa.json) |
 | Shining Force Feather | 47720 | [47720-shining-force-feather.json](./47720-shining-force-feather.json) |
 | Shining Force: The Sword of Hajya | 46360 | [46360-shining-force-the-sword-of-hajya.json](./46360-shining-force-the-sword-of-hajya.json) |
+| Shining Hotel: Lost in Nowhere | 102364 | [102364-shining-hotel-lost-in-nowhere.json](./102364-shining-hotel-lost-in-nowhere.json) |
 | Shining Orb Prequel | 109704 | [109704-shining-orb-prequel.json](./109704-shining-orb-prequel.json) |
 | Shining Stars 2: Mirror Madness | 132860 | [132860-shining-stars-2-mirror-madness.json](./132860-shining-stars-2-mirror-madness.json) |
 | Shining Stars 3: Sanctuary of the Star Comet | 132861 | [132861-shining-stars-3-sanctuary-of-the-star-comet.json](./132861-shining-stars-3-sanctuary-of-the-star-comet.json) |
@@ -1058,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simply Chess | 17604 | [17604-simply-chess.json](./17604-simply-chess.json) |
 | Simply Cubic | 253586 | [253586-simply-cubic.json](./253586-simply-cubic.json) |
 | Simply Puzzles: Codewords | 163424 | [163424-simply-puzzles-codewords.json](./163424-simply-puzzles-codewords.json) |
+| Simstory: Live As You Wish | 101573 | [101573-simstory-live-as-you-wish.json](./101573-simstory-live-as-you-wish.json) |
 | SimTown | 20194 | [20194-simtown.json](./20194-simtown.json) |
 | Simulassword | 226440 | [226440-simulassword.json](./226440-simulassword.json) |
 | Simulation Training Room: Massacre | 295545 | [295545-simulation-training-room-massacre.json](./295545-simulation-training-room-massacre.json) |
@@ -2503,6 +2509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Up | 319949 | [319949-stick-up.json](./319949-stick-up.json) |
 | Stick War: Legacy | 239909 | [239909-stick-war-legacy.json](./239909-stick-war-legacy.json) |
 | Stick War: Saga | 233777 | [233777-stick-war-saga.json](./233777-stick-war-saga.json) |
+| Stickman Archers: Archery Rampage | 101575 | [101575-stickman-archers-archery-rampage.json](./101575-stickman-archers-archery-rampage.json) |
 | Stickman Downhill | 117758 | [117758-stickman-downhill.json](./117758-stickman-downhill.json) |
 | Stickman Downhill Monstertruck | 233228 | [233228-stickman-downhill-monstertruck.json](./233228-stickman-downhill-monstertruck.json) |
 | Stickman Football | 94775 | [94775-stickman-football.json](./94775-stickman-football.json) |
@@ -2900,6 +2907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fox 2 | 146920 | [146920-super-fox-2.json](./146920-super-fox-2.json) |
 | Super Friends Party | 117779 | [117779-super-friends-party.json](./117779-super-friends-party.json) |
 | Super gamebear with its three girlfriends | 112997 | [112997-super-gamebear-with-its-three-girlfriends.json](./112997-super-gamebear-with-its-three-girlfriends.json) |
+| Super Golf 2018 | 102972 | [102972-super-golf-2018.json](./102972-super-golf-2018.json) |
 | Super Granny Collection | 27855 | [27855-super-granny-collection.json](./27855-super-granny-collection.json) |
 | Super Gridder | 57144 | [57144-super-gridder.json](./57144-super-gridder.json) |
 | Super Gussun Oyoyo | 42641 | [42641-super-gussun-oyoyo.json](./42641-super-gussun-oyoyo.json) |
@@ -2920,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jeopardy! | 48698 | [48698-super-jeopardy.json](./48698-super-jeopardy.json) |
 | Super Jet Juck | 111685 | [111685-super-jet-juck.json](./111685-super-jet-juck.json) |
 | Super Jigsaw Puzzle | 86304 | [86304-super-jigsaw-puzzle.json](./86304-super-jigsaw-puzzle.json) |
+| Super Jigsaw Puzzle: Cities | 102368 | [102368-super-jigsaw-puzzle-cities.json](./102368-super-jigsaw-puzzle-cities.json) |
 | Super Jigsaw Puzzle: Generations - Abandoned Places 2 | 155625 | [155625-super-jigsaw-puzzle-generations-abandoned-places-2.json](./155625-super-jigsaw-puzzle-generations-abandoned-places-2.json) |
 | Super Jigsaw Puzzle: Generations - Abandoned Places Puzzles | 155643 | [155643-super-jigsaw-puzzle-generations-abandoned-places-puzzles.json](./155643-super-jigsaw-puzzle-generations-abandoned-places-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Airplanes Puzzles | 155629 | [155629-super-jigsaw-puzzle-generations-airplanes-puzzles.json](./155629-super-jigsaw-puzzle-generations-airplanes-puzzles.json) |
@@ -3281,6 +3290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival: Revelation | 124225 | [124225-survival-revelation.json](./124225-survival-revelation.json) |
 | Survival: The Ultimate Challenge | 51243 | [51243-survival-the-ultimate-challenge.json](./51243-survival-the-ultimate-challenge.json) |
 | Survivalcraft | 87025 | [87025-survivalcraft.json](./87025-survivalcraft.json) |
+| SurvivalZ Battlegrounds | 103009 | [103009-survivalz-battlegrounds.json](./103009-survivalz-battlegrounds.json) |
 | Survive 10 Minutes Please | 201323 | [201323-survive-10-minutes-please.json](./201323-survive-10-minutes-please.json) |
 | Survive Avalon | 158709 | [158709-survive-avalon.json](./158709-survive-avalon.json) |
 | Survive Ten Days | 306094 | [306094-survive-ten-days.json](./306094-survive-ten-days.json) |
