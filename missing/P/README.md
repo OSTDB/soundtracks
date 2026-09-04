@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandoland | 306675 | [306675-pandoland.json](./306675-pandoland.json) |
 | Panel Rabbit | 253611 | [253611-panel-rabbit.json](./253611-panel-rabbit.json) |
 | Paneltia Story: Karen no Daibouken | 97339 | [97339-paneltia-story-karen-no-daibouken.json](./97339-paneltia-story-karen-no-daibouken.json) |
+| Pang: Magical Michael | 66524 | [66524-pang-magical-michael.json](./66524-pang-magical-michael.json) |
 | Pango Hide and seek | 90706 | [90706-pango-hide-and-seek.json](./90706-pango-hide-and-seek.json) |
 | Panic 64 | 130373 | [130373-panic-64.json](./130373-panic-64.json) |
 | Panic Ball! | 315841 | [315841-panic-ball.json](./315841-panic-ball.json) |
@@ -149,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Pilgrim | 140629 | [140629-paper-pilgrim.json](./140629-paper-pilgrim.json) |
 | Paper Shakespeare: Loves Labor(s) Lost | 102158 | [102158-paper-shakespeare-loves-labor-s-lost.json](./102158-paper-shakespeare-loves-labor-s-lost.json) |
 | Paper Trail | 142561 | [142561-paper-trail.json](./142561-paper-trail.json) |
+| Paper Train | 63251 | [63251-paper-train.json](./63251-paper-train.json) |
 | Paper Wars: Cannon Fodder Devastated | 88328 | [88328-paper-wars-cannon-fodder-devastated.json](./88328-paper-wars-cannon-fodder-devastated.json) |
 | Paperboy | 256079 | [256079-paperboy.json](./256079-paperboy.json) |
 | Paperboy | 256082 | [256082-paperboy.json](./256082-paperboy.json) |
@@ -351,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pekka Kana 2 | 94449 | [94449-pekka-kana-2.json](./94449-pekka-kana-2.json) |
 | Pellet Packer: Cookie Crunch | 270965 | [270965-pellet-packer-cookie-crunch.json](./270965-pellet-packer-cookie-crunch.json) |
 | Pellet Packer: Micro Munch | 270956 | [270956-pellet-packer-micro-munch.json](./270956-pellet-packer-micro-munch.json) |
+| Pembrey | 63729 | [63729-pembrey.json](./63729-pembrey.json) |
 | Pen Fight | 233760 | [233760-pen-fight.json](./233760-pen-fight.json) |
 | Pen Pals | 145020 | [145020-pen-pals.json](./145020-pen-pals.json) |
 | Penalty Shooters Footy | 241061 | [241061-penalty-shooters-footy.json](./241061-penalty-shooters-footy.json) |
@@ -570,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picokaiju | 202393 | [202393-picokaiju.json](./202393-picokaiju.json) |
 | PicoMix By NuSan | 328259 | [328259-picomix-by-nusan.json](./328259-picomix-by-nusan.json) |
 | Picowars | 184630 | [184630-picowars.json](./184630-picowars.json) |
+| Picross e3 | 62913 | [62913-picross-e3.json](./62913-picross-e3.json) |
 | Picross S Namco Legendary Edition | 302101 | [302101-picross-s-namco-legendary-edition.json](./302101-picross-s-namco-legendary-edition.json) |
 | Picross S3 | 117501 | [117501-picross-s3.json](./117501-picross-s3.json) |
 | Picross S4 | 132828 | [132828-picross-s4.json](./132828-picross-s4.json) |
@@ -1251,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PriPara: Awaken! The Goddess' Dress Design! | 177574 | [177574-pripara-awaken-the-goddess-dress-design.json](./177574-pripara-awaken-the-goddess-dress-design.json) |
 | Prism Break | 102171 | [102171-prism-break.json](./102171-prism-break.json) |
 | Prisma & the Masquerade Menace | 30907 | [30907-prisma-and-the-masquerade-menace.json](./30907-prisma-and-the-masquerade-menace.json) |
+| Prismatic Solid | 66305 | [66305-prismatic-solid.json](./66305-prismatic-solid.json) |
 | Prismatic: Nox's Gate | 337481 | [337481-prismatic-noxs-gate.json](./337481-prismatic-noxs-gate.json) |
 | Prison Architect: Cleared for Transfer | 148528 | [148528-prison-architect-cleared-for-transfer.json](./148528-prison-architect-cleared-for-transfer.json) |
 | Prison Architect: Going Green | 148530 | [148530-prison-architect-going-green.json](./148530-prison-architect-going-green.json) |
