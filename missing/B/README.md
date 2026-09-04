@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnyard Games For Kids | 96737 | [96737-barnyard-games-for-kids.json](./96737-barnyard-games-for-kids.json) |
 | Baron Baldric: A Grave Adventure | 14287 | [14287-baron-baldric-a-grave-adventure.json](./14287-baron-baldric-a-grave-adventure.json) |
 | Barrage Fantasia | 144356 | [144356-barrage-fantasia.json](./144356-barrage-fantasia.json) |
+| Barrage Musical: Basic Danmaku Tutorial | 127463 | [127463-barrage-musical-basic-danmaku-tutorial.json](./127463-barrage-musical-basic-danmaku-tutorial.json) |
 | Barrel Blast | 172186 | [172186-barrel-blast.json](./172186-barrel-blast.json) |
 | Barrel-Blastapalooza | 231643 | [231643-barrel-blastapalooza.json](./231643-barrel-blastapalooza.json) |
 | Barrels Up | 75181 | [75181-barrels-up.json](./75181-barrels-up.json) |
@@ -674,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best of Klei 2025 | 52630 | [52630-best-of-klei-2025.json](./52630-best-of-klei-2025.json) |
 | Best of Mahjong | 85509 | [85509-best-of-mahjong.json](./85509-best-of-mahjong.json) |
 | Best of Solitaire | 85508 | [85508-best-of-solitaire.json](./85508-best-of-solitaire.json) |
+| Best Plumber | 125397 | [125397-best-plumber.json](./125397-best-plumber.json) |
 | Bestiary Bundle | 199625 | [199625-bestiary-bundle.json](./199625-bestiary-bundle.json) |
 | Bestiary Survivors | 290713 | [290713-bestiary-survivors.json](./290713-bestiary-survivors.json) |
 | Bestie Walzer | 98435 | [98435-bestie-walzer.json](./98435-bestie-walzer.json) |
@@ -735,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Mountain Snowboarding | 88322 | [88322-big-mountain-snowboarding.json](./88322-big-mountain-snowboarding.json) |
 | Big Names Bonanza | 19683 | [19683-big-names-bonanza.json](./19683-big-names-bonanza.json) |
 | Big Nose Freaks Out | 48105 | [48105-big-nose-freaks-out.json](./48105-big-nose-freaks-out.json) |
+| Big Red Hood: Halloween | 126894 | [126894-big-red-hood-halloween.json](./126894-big-red-hood-halloween.json) |
 | Big Screen Games: Pack 1 | 197383 | [197383-big-screen-games-pack-1.json](./197383-big-screen-games-pack-1.json) |
 | Big Sea | 14301 | [14301-big-sea.json](./14301-big-sea.json) |
 | Big Sky Trooper | 42640 | [42640-big-sky-trooper.json](./42640-big-sky-trooper.json) |
@@ -806,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Mania 3D | 65254 | [65254-bird-mania-3d.json](./65254-bird-mania-3d.json) |
 | Bird Mania 3D Christmas | 62258 | [62258-bird-mania-3d-christmas.json](./62258-bird-mania-3d-christmas.json) |
 | Bird Shooter | 229974 | [229974-bird-shooter.json](./229974-bird-shooter.json) |
+| Bird Simulator | 127330 | [127330-bird-simulator.json](./127330-bird-simulator.json) |
 | Bird Strike for Android | 137098 | [137098-bird-strike-for-android.json](./137098-bird-strike-for-android.json) |
 | Birdcage (Oda al Pájaro) | 325262 | [325262-birdcage-oda-al-pajaro.json](./325262-birdcage-oda-al-pajaro.json) |
 | Birdie Barrage | 13696 | [13696-birdie-barrage.json](./13696-birdie-barrage.json) |
