@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Man: Marble Madness II | 125477 | [125477-marble-man-marble-madness-ii.json](./125477-marble-man-marble-madness-ii.json) |
 | Marble Meadows | 291222 | [291222-marble-meadows.json](./291222-marble-meadows.json) |
 | Marble Monster | 253025 | [253025-marble-monster.json](./253025-marble-monster.json) |
+| Marble Mountain | 19028 | [19028-marble-mountain.json](./19028-marble-mountain.json) |
 | Marble Odyssey | 113699 | [113699-marble-odyssey.json](./113699-marble-odyssey.json) |
 | Marble Partner | 119756 | [119756-marble-partner.json](./119756-marble-partner.json) |
 | Mardek RPG: Chapter 1 | 62756 | [62756-mardek-rpg-chapter-1.json](./62756-mardek-rpg-chapter-1.json) |
@@ -806,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaball: Kung Fu Pack | 293417 | [293417-metaball-kung-fu-pack.json](./293417-metaball-kung-fu-pack.json) |
 | Metaball: Red Astro Pack | 293418 | [293418-metaball-red-astro-pack.json](./293418-metaball-red-astro-pack.json) |
 | MetaCity M | 220334 | [220334-metacity-m.json](./220334-metacity-m.json) |
+| Metagal | 19321 | [19321-metagal.json](./19321-metagal.json) |
 | Metal Angel 3 | 91961 | [91961-metal-angel-3.json](./91961-metal-angel-3.json) |
 | Metal Dragon | 325243 | [325243-metal-dragon.json](./325243-metal-dragon.json) |
 | Metal Dragon/Life on Mars | 325244 | [325244-metal-dragon-life-on-mars.json](./325244-metal-dragon-life-on-mars.json) |
@@ -977,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midori Budou-den | 339121 | [339121-midori-budou-den.json](./339121-midori-budou-den.json) |
 | Midsummer Leg's Dream | 303791 | [303791-midsummer-legs-dream.json](./303791-midsummer-legs-dream.json) |
 | Midtown Madness | 2348 | [2348-midtown-madness.json](./2348-midtown-madness.json) |
+| Midvinter | 19281 | [19281-midvinter.json](./19281-midvinter.json) |
 | Midway: Sink the Japanese Aircraft Carriers | 196293 | [196293-midway-sink-the-japanese-aircraft-carriers.json](./196293-midway-sink-the-japanese-aircraft-carriers.json) |
 | Miffed | 180821 | [180821-miffed.json](./180821-miffed.json) |
 | MiG-29 Fulcrum | 229931 | [229931-mig-29-fulcrum.json](./229931-mig-29-fulcrum.json) |
@@ -1961,3 +1964,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythos Interactive Game Collection | 341355 | [341355-mythos-interactive-game-collection.json](./341355-mythos-interactive-game-collection.json) |
 | Myths of Moonrise | 214170 | [214170-myths-of-moonrise.json](./214170-myths-of-moonrise.json) |
 | Myths of the World: Spirit Wolf - Collector's Edition | 83555 | [83555-myths-of-the-world-spirit-wolf-collectors-edition.json](./83555-myths-of-the-world-spirit-wolf-collectors-edition.json) |
+| Mytran Wars | 19202 | [19202-mytran-wars.json](./19202-mytran-wars.json) |
