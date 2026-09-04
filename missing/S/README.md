@@ -1165,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smileys War | 234901 | [234901-smileys-war.json](./234901-smileys-war.json) |
 | Smilinguido: Desafio na Floresta | 183610 | [183610-smilinguido-desafio-na-floresta.json](./183610-smilinguido-desafio-na-floresta.json) |
 | Smily Angry | 318754 | [318754-smily-angry.json](./318754-smily-angry.json) |
+| Smite Rivals | 26693 | [26693-smite-rivals.json](./26693-smite-rivals.json) |
 | Smithy Shop | 236538 | [236538-smithy-shop.json](./236538-smithy-shop.json) |
 | Smoking Guns: Shooting Gallery! | 77382 | [77382-smoking-guns-shooting-gallery.json](./77382-smoking-guns-shooting-gallery.json) |
 | Smoking Simulator | 201285 | [201285-smoking-simulator.json](./201285-smoking-simulator.json) |
@@ -1185,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake 2 DX: Reawakening | 171624 | [171624-snake-2-dx-reawakening.json](./171624-snake-2-dx-reawakening.json) |
 | Snake Bricks-Bounce Balls | 106569 | [106569-snake-bricks-bounce-balls.json](./106569-snake-bricks-bounce-balls.json) |
 | Snake Den | 84876 | [84876-snake-den.json](./84876-snake-den.json) |
+| Snake Infinity Lite | 26680 | [26680-snake-infinity-lite.json](./26680-snake-infinity-lite.json) |
 | Snake Neon Online | 209685 | [209685-snake-neon-online.json](./209685-snake-neon-online.json) |
 | Snake Party | 29906 | [29906-snake-party.json](./29906-snake-party.json) |
 | Snake Plissken's Escape | 67295 | [67295-snake-plisskens-escape.json](./67295-snake-plisskens-escape.json) |
@@ -1312,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokos | 33053 | [33053-sokos.json](./33053-sokos.json) |
 | Sokotale | 141851 | [141851-sokotale.json](./141851-sokotale.json) |
 | Sol Frontiers | 317033 | [317033-sol-frontiers.json](./317033-sol-frontiers.json) |
+| Sol Source Online | 26718 | [26718-sol-source-online.json](./26718-sol-source-online.json) |
 | Sol-Rui: After Mini | 331104 | [331104-sol-rui-after-mini.json](./331104-sol-rui-after-mini.json) |
 | Sol705 | 89939 | [89939-sol705.json](./89939-sol705.json) |
 | Sola Rola: The Gravity Maze | 269855 | [269855-sola-rola-the-gravity-maze.json](./269855-sola-rola-the-gravity-maze.json) |
@@ -2340,6 +2343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Uno | 87305 | [87305-sudoku-uno.json](./87305-sudoku-uno.json) |
 | Sudoku XP | 278700 | [278700-sudoku-xp.json](./278700-sudoku-xp.json) |
 | Sugar Bunnies DS: Yume no Sweets Koubou | 68038 | [68038-sugar-bunnies-ds-yume-no-sweets-koubou.json](./68038-sugar-bunnies-ds-yume-no-sweets-koubou.json) |
+| Sugar Fever | 26629 | [26629-sugar-fever.json](./26629-sugar-fever.json) |
 | Sugar High | 233226 | [233226-sugar-high.json](./233226-sugar-high.json) |
 | Sugar Mess: Let's Play Jolly Battle | 263752 | [263752-sugar-mess-lets-play-jolly-battle.json](./263752-sugar-mess-lets-play-jolly-battle.json) |
 | Sugar Style: Complete Edition | 141892 | [141892-sugar-style-complete-edition.json](./141892-sugar-style-complete-edition.json) |
@@ -2779,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surabaya Inferno | 150676 | [150676-surabaya-inferno.json](./150676-surabaya-inferno.json) |
 | Surf 'n Safari | 93574 | [93574-surf-n-safari.json](./93574-surf-n-safari.json) |
 | Surf & Turf Bundle | 308581 | [308581-surf-and-turf-bundle.json](./308581-surf-and-turf-bundle.json) |
+| Surface: Alone in the Mist | 26712 | [26712-surface-alone-in-the-mist.json](./26712-surface-alone-in-the-mist.json) |
 | Surface: Alone in the Mist - Collector's Edition | 89943 | [89943-surface-alone-in-the-mist-collectors-edition.json](./89943-surface-alone-in-the-mist-collectors-edition.json) |
 | Surface: Project Dawn | 102812 | [102812-surface-project-dawn.json](./102812-surface-project-dawn.json) |
 | Surfacer+ | 85529 | [85529-surfacer.json](./85529-surfacer.json) |
