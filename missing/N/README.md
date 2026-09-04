@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Courtside 2 Featuring Kobe Bryant | 3549 | [3549-nba-courtside-2-featuring-kobe-bryant.json](./3549-nba-courtside-2-featuring-kobe-bryant.json) |
 | NBA Elite 11 | 52625 | [52625-nba-elite-11.json](./52625-nba-elite-11.json) |
 | NBA Jam: Legends On Fire Edition | 242257 | [242257-nba-jam-legends-on-fire-edition.json](./242257-nba-jam-legends-on-fire-edition.json) |
+| NBA Live 09 All-Play | 67745 | [67745-nba-live-09-all-play.json](./67745-nba-live-09-all-play.json) |
 | NBA Live 13 | 52624 | [52624-nba-live-13.json](./52624-nba-live-13.json) |
 | NBA Live 2000 | 264855 | [264855-nba-live-2000.json](./264855-nba-live-2000.json) |
 | NBA Now | 303807 | [303807-nba-now.json](./303807-nba-now.json) |
