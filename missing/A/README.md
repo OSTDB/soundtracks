@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game of Dwarves: Pets | 156166 | [156166-a-game-of-dwarves-pets.json](./156166-a-game-of-dwarves-pets.json) |
 | A Game of Turnabouts | 308544 | [308544-a-game-of-turnabouts.json](./308544-a-game-of-turnabouts.json) |
 | A Game's Tale | 298889 | [298889-a-games-tale.json](./298889-a-games-tale.json) |
+| A Girls Fabric Face | 29266 | [29266-a-girls-fabric-face.json](./29266-a-girls-fabric-face.json) |
 | A Glass Room | 144367 | [144367-a-glass-room.json](./144367-a-glass-room.json) |
 | A Good Gardener | 59423 | [59423-a-good-gardener.json](./59423-a-good-gardener.json) |
 | A Good Librarian Like a Good Shepherd | 106621 | [106621-a-good-librarian-like-a-good-shepherd.json](./106621-a-good-librarian-like-a-good-shepherd.json) |
@@ -75,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Landlord's Dream | 138215 | [138215-a-landlords-dream.json](./138215-a-landlords-dream.json) |
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
 | A List of People Who Went Missing in the Scheleirland National Forest | 193468 | [193468-a-list-of-people-who-went-missing-in-the-scheleirland-national-forest.json](./193468-a-list-of-people-who-went-missing-in-the-scheleirland-national-forest.json) |
+| A Little Lily Princess | 33333 | [33333-a-little-lily-princess.json](./33333-a-little-lily-princess.json) |
 | A Little to the Left: Deep Clean | 264334 | [264334-a-little-to-the-left-deep-clean.json](./264334-a-little-to-the-left-deep-clean.json) |
 | A Little to the Left: Trick or Tidy | 321177 | [321177-a-little-to-the-left-trick-or-tidy.json](./321177-a-little-to-the-left-trick-or-tidy.json) |
 | A Lone Piece | 235979 | [235979-a-lone-piece.json](./235979-a-lone-piece.json) |
@@ -259,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Force | 121736 | [121736-ace-force.json](./121736-ace-force.json) |
 | Ace Invaders | 147460 | [147460-ace-invaders.json](./147460-ace-invaders.json) |
 | Ace of Aces | 11863 | [11863-ace-of-aces.json](./11863-ace-of-aces.json) |
+| Ace of Seafood | 33309 | [33309-ace-of-seafood.json](./33309-ace-of-seafood.json) |
 | Ace Racer | 174905 | [174905-ace-racer.json](./174905-ace-racer.json) |
 | Ace Ventura: Pet Detective - The Case of the Serial Shaver | 61643 | [61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json](./61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json) |
 | Acedior | 70432 | [70432-acedior.json](./70432-acedior.json) |
@@ -445,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agapan | 35878 | [35878-agapan.json](./35878-agapan.json) |
 | Agapito's Crazy Adventure | 332833 | [332833-agapitos-crazy-adventure.json](./332833-agapitos-crazy-adventure.json) |
 | Agatha Christie: 4:50 from Paddington | 135245 | [135245-agatha-christie-4-50-from-paddington.json](./135245-agatha-christie-4-50-from-paddington.json) |
+| Agatha Knife | 28312 | [28312-agatha-knife.json](./28312-agatha-knife.json) |
 | Age of Aincrad | 223686 | [223686-age-of-aincrad.json](./223686-age-of-aincrad.json) |
 | Age of Barbarians Chronicles | 207506 | [207506-age-of-barbarians-chronicles.json](./207506-age-of-barbarians-chronicles.json) |
 | Age of Castles | 319975 | [319975-age-of-castles.json](./319975-age-of-castles.json) |
@@ -748,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allan Poe's Nightmare | 112315 | [112315-allan-poes-nightmare.json](./112315-allan-poes-nightmare.json) |
 | Allegro Molto wo Hakobu Game | 339094 | [339094-allegro-molto-wo-hakobu-game.json](./339094-allegro-molto-wo-hakobu-game.json) |
 | Alley Master | 40243 | [40243-alley-master.json](./40243-alley-master.json) |
+| Alleykat | 28850 | [28850-alleykat.json](./28850-alleykat.json) |
 | AllFive Classic | 307277 | [307277-allfive-classic.json](./307277-allfive-classic.json) |
 | AllFive XP | 307280 | [307280-allfive-xp.json](./307280-allfive-xp.json) |
 | Alliance at War | 193992 | [193992-alliance-at-war.json](./193992-alliance-at-war.json) |
@@ -1122,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | APlaceDominatedByHoles | 260418 | [260418-aplacedominatedbyholes.json](./260418-aplacedominatedbyholes.json) |
 | Aplestia: Retold | 189175 | [189175-aplestia-retold.json](./189175-aplestia-retold.json) |
 | AploVVare Collection | 263219 | [263219-aplovvare-collection.json](./263219-aplovvare-collection.json) |
+| Apocalipsis | 28319 | [28319-apocalipsis.json](./28319-apocalipsis.json) |
 | Apocalypse | 15598 | [15598-apocalypse.json](./15598-apocalypse.json) |
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - Museum of Horror! | 171089 | [171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json](./171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json) |
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - The Thin Blue Line! | 171088 | [171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json](./171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json) |
