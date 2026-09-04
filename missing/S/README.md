@@ -1943,6 +1943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Car Challenge 2 | 233243 | [233243-sports-car-challenge-2.json](./233243-sports-car-challenge-2.json) |
 | Sports Car Driver | 187493 | [187493-sports-car-driver.json](./187493-sports-car-driver.json) |
 | Sports Car Driving Simulator 2018 | 100867 | [100867-sports-car-driving-simulator-2018.json](./100867-sports-car-driving-simulator-2018.json) |
+| Sports Champions | 18237 | [18237-sports-champions.json](./18237-sports-champions.json) |
 | Sports Champions / Medieval Moves: Deadmund's Quest Combo Pack | 268744 | [268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json](./268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json) |
 | Sports Hero | 311265 | [311265-sports-hero.json](./311265-sports-hero.json) |
 | Spot The Difference: Classic Finding Puzzle | 324123 | [324123-spot-the-difference-classic-finding-puzzle.json](./324123-spot-the-difference-classic-finding-puzzle.json) |
@@ -2041,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Chef 2: Cooking Game | 153999 | [153999-star-chef-2-cooking-game.json](./153999-star-chef-2-cooking-game.json) |
 | Star Chindy | 175420 | [175420-star-chindy.json](./175420-star-chindy.json) |
 | Star Connect | 233737 | [233737-star-connect.json](./233737-star-connect.json) |
+| Star Control: Origins | 25311 | [25311-star-control-origins.json](./25311-star-control-origins.json) |
 | Star Control: Origins - Multiverse | 124805 | [124805-star-control-origins-multiverse.json](./124805-star-control-origins-multiverse.json) |
 | Star Crew | 329938 | [329938-star-crew.json](./329938-star-crew.json) |
 | Star Cruiser | 265968 | [265968-star-cruiser.json](./265968-star-cruiser.json) |
