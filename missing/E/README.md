@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equinox | 197403 | [197403-equinox.json](./197403-equinox.json) |
 | Equiverse | 303801 | [303801-equiverse.json](./303801-equiverse.json) |
 | Eradicator | 8340 | [8340-eradicator.json](./8340-eradicator.json) |
+| Erannorth Reborn | 116711 | [116711-erannorth-reborn.json](./116711-erannorth-reborn.json) |
 | Erannorth Reborn: Blood Coven Rise | 168914 | [168914-erannorth-reborn-blood-coven-rise.json](./168914-erannorth-reborn-blood-coven-rise.json) |
 | Erannorth Reborn: Canticum Noctem | 168913 | [168913-erannorth-reborn-canticum-noctem.json](./168913-erannorth-reborn-canticum-noctem.json) |
 | Ereban: Shadow Legacy | 204624 | [204624-ereban-shadow-legacy.json](./204624-ereban-shadow-legacy.json) |
