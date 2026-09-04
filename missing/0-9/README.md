@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10:16 | 267102 | [267102-10-16.json](./267102-10-16.json) |
 | 100 Aliens Cats | 288726 | [288726-100-aliens-cats.json](./288726-100-aliens-cats.json) |
 | 100 China Cats | 315289 | [315289-100-china-cats.json](./315289-100-china-cats.json) |
+| 100 Classic Book Collection | 47939 | [47939-100-classic-book-collection.json](./47939-100-classic-book-collection.json) |
 | 100 Crime Cats | 301028 | [301028-100-crime-cats.json](./301028-100-crime-cats.json) |
 | 100 Degrees | 184119 | [184119-100-degrees.json](./184119-100-degrees.json) |
 | 100 doors of artifact: Room Escape Challenge | 145001 | [145001-100-doors-of-artifact-room-escape-challenge.json](./145001-100-doors-of-artifact-room-escape-challenge.json) |
@@ -274,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Space Ranger | 15578 | [15578-3d-space-ranger.json](./15578-3d-space-ranger.json) |
 | 3D Starstrike II | 45341 | [45341-3d-starstrike-ii.json](./45341-3d-starstrike-ii.json) |
 | 3D Stock Car Championship | 73294 | [73294-3d-stock-car-championship.json](./73294-3d-stock-car-championship.json) |
+| 3D Streets of Rage | 47643 | [47643-3d-streets-of-rage.json](./47643-3d-streets-of-rage.json) |
 | 3D Super Chess | 96073 | [96073-3d-super-chess.json](./96073-3d-super-chess.json) |
 | 3D Thunder Force III | 202924 | [202924-3d-thunder-force-iii.json](./202924-3d-thunder-force-iii.json) |
 | 3D Turbo OutRun | 202923 | [202923-3d-turbo-outrun.json](./202923-3d-turbo-outrun.json) |
