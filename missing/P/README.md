@@ -1065,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PongBall | 255993 | [255993-pongball.json](./255993-pongball.json) |
 | Pongeon | 184641 | [184641-pongeon.json](./184641-pongeon.json) |
 | Pongis Jump | 126000 | [126000-pongis-jump.json](./126000-pongis-jump.json) |
+| Pongu | 24565 | [24565-pongu.json](./24565-pongu.json) |
 | Pony Card Match HD | 96740 | [96740-pony-card-match-hd.json](./96740-pony-card-match-hd.json) |
 | Pony Sisters Pet Hospital | 101584 | [101584-pony-sisters-pet-hospital.json](./101584-pony-sisters-pet-hospital.json) |
 | Poo Pusher | 309690 | [309690-poo-pusher.json](./309690-poo-pusher.json) |
@@ -1162,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Racing Bundle 3 | 152353 | [152353-power-racing-bundle-3.json](./152353-power-racing-bundle-3.json) |
 | Power Rangers All-Stars | 109037 | [109037-power-rangers-all-stars.json](./109037-power-rangers-all-stars.json) |
 | Power Rangers Legends | 63856 | [63856-power-rangers-legends.json](./63856-power-rangers-legends.json) |
+| Power Rangers Super Samurai | 25162 | [25162-power-rangers-super-samurai.json](./25162-power-rangers-super-samurai.json) |
 | Power Rangers: Battle for the Grid - Collector's Edition | 119069 | [119069-power-rangers-battle-for-the-grid-collectors-edition.json](./119069-power-rangers-battle-for-the-grid-collectors-edition.json) |
 | Power Rangers: Battle for the Grid - Digital Collector's Edition | 205276 | [205276-power-rangers-battle-for-the-grid-digital-collectors-edition.json](./205276-power-rangers-battle-for-the-grid-digital-collectors-edition.json) |
 | Power Slave | 45972 | [45972-power-slave.json](./45972-power-slave.json) |
