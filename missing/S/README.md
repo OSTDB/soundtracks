@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailor's Stories Solitaire | 196881 | [196881-sailors-stories-solitaire.json](./196881-sailors-stories-solitaire.json) |
 | Saimazoom | 45326 | [45326-saimazoom.json](./45326-saimazoom.json) |
 | Saint | 94739 | [94739-saint.json](./94739-saint.json) |
+| Saint Dragon | 12207 | [12207-saint-dragon.json](./12207-saint-dragon.json) |
 | Saint Kotar: Digital Deluxe Edition | 246621 | [246621-saint-kotar-digital-deluxe-edition.json](./246621-saint-kotar-digital-deluxe-edition.json) |
 | Saint Seiya: Legends of Justice | 209634 | [209634-saint-seiya-legends-of-justice.json](./209634-saint-seiya-legends-of-justice.json) |
 | Saint Seiya: Ougon Densetsu | 48655 | [48655-saint-seiya-ougon-densetsu.json](./48655-saint-seiya-ougon-densetsu.json) |
@@ -237,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaling the Sky | 128618 | [128618-scaling-the-sky.json](./128618-scaling-the-sky.json) |
 | Scan Hunter: Sen-nen Kaigyo wo Oe! | 56528 | [56528-scan-hunter-sen-nen-kaigyo-wo-oe.json](./56528-scan-hunter-sen-nen-kaigyo-wo-oe.json) |
 | Scanline | 180810 | [180810-scanline.json](./180810-scanline.json) |
+| Scapeghost | 12208 | [12208-scapeghost.json](./12208-scapeghost.json) |
 | Scares on Halloween | 123601 | [123601-scares-on-halloween.json](./123601-scares-on-halloween.json) |
 | Scarlet Deer Inn | 143710 | [143710-scarlet-deer-inn.json](./143710-scarlet-deer-inn.json) |
 | Scarlet Girls | 328211 | [328211-scarlet-girls.json](./328211-scarlet-girls.json) |
@@ -576,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Chaos | 324701 | [324701-shadow-of-chaos.json](./324701-shadow-of-chaos.json) |
 | Shadow of Death: Dark Knight | 100823 | [100823-shadow-of-death-dark-knight.json](./100823-shadow-of-death-dark-knight.json) |
 | Shadow of Ganymede | 43337 | [43337-shadow-of-ganymede.json](./43337-shadow-of-ganymede.json) |
+| Shadow of the Beast III | 12221 | [12221-shadow-of-the-beast-iii.json](./12221-shadow-of-the-beast-iii.json) |
 | Shadow of the Tomb Raider: The Path Home | 117711 | [117711-shadow-of-the-tomb-raider-the-path-home.json](./117711-shadow-of-the-tomb-raider-the-path-home.json) |
 | Shadow Over Normoth | 183057 | [183057-shadow-over-normoth.json](./183057-shadow-over-normoth.json) |
 | Shadow Quest | 188095 | [188095-shadow-quest.json](./188095-shadow-quest.json) |
@@ -1526,6 +1529,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic.Exe 2: The Game | 341904 | [341904-sonic-exe-2-the-game.json](./341904-sonic-exe-2-the-game.json) |
 | Sonic's Edusoft | 63901 | [63901-sonics-edusoft.json](./63901-sonics-edusoft.json) |
 | Sonic's Vacation | 330531 | [330531-sonics-vacation.json](./330531-sonics-vacation.json) |
+| Sono Hanabira ni Kuchizuke o: Amakute Hoshikute Torokeru Chuu | 12218 | [12218-sono-hanabira-ni-kuchizuke-o-amakute-hoshikute-torokeru-chuu.json](./12218-sono-hanabira-ni-kuchizuke-o-amakute-hoshikute-torokeru-chuu.json) |
+| Sono Hanabira ni Kuchizuke o: Kuchibiru to Kiss de Tsubuyaite | 12217 | [12217-sono-hanabira-ni-kuchizuke-o-kuchibiru-to-kiss-de-tsubuyaite.json](./12217-sono-hanabira-ni-kuchizuke-o-kuchibiru-to-kiss-de-tsubuyaite.json) |
+| Sono Hanabira ni Kuchizuke o: Tenshi-tachi no Yakusoku | 12274 | [12274-sono-hanabira-ni-kuchizuke-o-tenshi-tachi-no-yakusoku.json](./12274-sono-hanabira-ni-kuchizuke-o-tenshi-tachi-no-yakusoku.json) |
+| Sono Hanabira ni Kuchizuke wo | 12200 | [12200-sono-hanabira-ni-kuchizuke-wo.json](./12200-sono-hanabira-ni-kuchizuke-wo.json) |
+| Sono Hanabira ni Kuchizuke wo: Amakute Otona no Torokeru Chuu | 12220 | [12220-sono-hanabira-ni-kuchizuke-wo-amakute-otona-no-torokeru-chuu.json](./12220-sono-hanabira-ni-kuchizuke-wo-amakute-otona-no-torokeru-chuu.json) |
+| Sono Hanabira ni Kuchizuke wo: Anata ni Chikau Ai | 12275 | [12275-sono-hanabira-ni-kuchizuke-wo-anata-ni-chikau-ai.json](./12275-sono-hanabira-ni-kuchizuke-wo-anata-ni-chikau-ai.json) |
+| Sono Hanabira ni Kuchizuke wo: Atelier no Koibito-tachi | 12264 | [12264-sono-hanabira-ni-kuchizuke-wo-atelier-no-koibito-tachi.json](./12264-sono-hanabira-ni-kuchizuke-wo-atelier-no-koibito-tachi.json) |
+| Sono Hanabira ni Kuchizuke wo: Deatta Koro no Omoide ni | 12276 | [12276-sono-hanabira-ni-kuchizuke-wo-deatta-koro-no-omoide-ni.json](./12276-sono-hanabira-ni-kuchizuke-wo-deatta-koro-no-omoide-ni.json) |
+| Sono Hanabira ni Kuchizuke wo: Lily Platinum | 12223 | [12223-sono-hanabira-ni-kuchizuke-wo-lily-platinum.json](./12223-sono-hanabira-ni-kuchizuke-wo-lily-platinum.json) |
+| Sono Hanabira ni Kuchizuke wo: Michael no Otome-tachi | 12263 | [12263-sono-hanabira-ni-kuchizuke-wo-michael-no-otome-tachi.json](./12263-sono-hanabira-ni-kuchizuke-wo-michael-no-otome-tachi.json) |
+| Sono Hanabira ni Kuchizuke wo: Shirayuki no Kishi | 12273 | [12273-sono-hanabira-ni-kuchizuke-wo-shirayuki-no-kishi.json](./12273-sono-hanabira-ni-kuchizuke-wo-shirayuki-no-kishi.json) |
+| Sono Hanabira ni Kuchizuke wo: Tenshi no Hanabira Zome | 12219 | [12219-sono-hanabira-ni-kuchizuke-wo-tenshi-no-hanabira-zome.json](./12219-sono-hanabira-ni-kuchizuke-wo-tenshi-no-hanabira-zome.json) |
+| Sono Hanabira ni Kuchizuke wo: Tenshi-tachi no Harukoi | 12272 | [12272-sono-hanabira-ni-kuchizuke-wo-tenshi-tachi-no-harukoi.json](./12272-sono-hanabira-ni-kuchizuke-wo-tenshi-tachi-no-harukoi.json) |
 | Sons of Saturn | 256546 | [256546-sons-of-saturn.json](./256546-sons-of-saturn.json) |
 | Sons Of The Dream Forest | 315283 | [315283-sons-of-the-dream-forest.json](./315283-sons-of-the-dream-forest.json) |
 | Soot | 231085 | [231085-soot.json](./231085-soot.json) |
@@ -1578,6 +1594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulJah Kingdom Rise | 243372 | [243372-souljah-kingdom-rise.json](./243372-souljah-kingdom-rise.json) |
 | Soulless | 195790 | [195790-soulless.json](./195790-soulless.json) |
 | Soulrise | 295544 | [295544-soulrise.json](./295544-soulrise.json) |
+| Souls of Darkon | 12966 | [12966-souls-of-darkon.json](./12966-souls-of-darkon.json) |
 | Souls of Shadow | 320557 | [320557-souls-of-shadow.json](./320557-souls-of-shadow.json) |
 | SoulSide | 190703 | [190703-soulside.json](./190703-soulside.json) |
 | Soultia | 130939 | [130939-soultia.json](./130939-soultia.json) |
