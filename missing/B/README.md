@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Impressions | 211424 | [211424-bad-impressions.json](./211424-bad-impressions.json) |
 | Bad Lands | 39655 | [39655-bad-lands.json](./39655-bad-lands.json) |
 | Bad Mojo | 604 | [604-bad-mojo.json](./604-bad-mojo.json) |
+| Bad Mojo: Redux | 10020 | [10020-bad-mojo-redux.json](./10020-bad-mojo-redux.json) |
 | Bad Way | 189204 | [189204-bad-way.json](./189204-bad-way.json) |
 | Bad Weekend | 273135 | [273135-bad-weekend.json](./273135-bad-weekend.json) |
 | Bada Space Station | 146355 | [146355-bada-space-station.json](./146355-bada-space-station.json) |
@@ -193,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandido | 264322 | [264322-bandido.json](./264322-bandido.json) |
 | Bandit Accountancy | 336923 | [336923-bandit-accountancy.json](./336923-bandit-accountancy.json) |
 | Bandit Kings of Ancient China | 273085 | [273085-bandit-kings-of-ancient-china.json](./273085-bandit-kings-of-ancient-china.json) |
+| Bandit Kings of Ancient China | 9496 | [9496-bandit-kings-of-ancient-china.json](./9496-bandit-kings-of-ancient-china.json) |
 | Bandit Skies | 96720 | [96720-bandit-skies.json](./96720-bandit-skies.json) |
 | Bandits | 228079 | [228079-bandits.json](./228079-bandits.json) |
 | Bandle | 294451 | [294451-bandle.json](./294451-bandle.json) |
@@ -597,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belial Wars | 234351 | [234351-belial-wars.json](./234351-belial-wars.json) |
 | Bella | 260939 | [260939-bella.json](./260939-bella.json) |
 | Bella II | 260938 | [260938-bella-ii.json](./260938-bella-ii.json) |
+| Belladonna | 9246 | [9246-belladonna.json](./9246-belladonna.json) |
 | Belladonna's Flight | 255344 | [255344-belladonnas-flight.json](./255344-belladonnas-flight.json) |
 | Belle Boomerang | 150127 | [150127-belle-boomerang.json](./150127-belle-boomerang.json) |
 | Belle-de-Nuit: Point-du-Jour | 230559 | [230559-belle-de-nuit-point-du-jour.json](./230559-belle-de-nuit-point-du-jour.json) |
@@ -762,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biohazard Village: Z Version - Winters' Expansion | 241065 | [241065-biohazard-village-z-version-winters-expansion.json](./241065-biohazard-village-z-version-winters-expansion.json) |
 | Biohazard: 5th Anniversary Special Package | 145009 | [145009-biohazard-5th-anniversary-special-package.json](./145009-biohazard-5th-anniversary-special-package.json) |
 | Biomeinoes | 275877 | [275877-biomeinoes.json](./275877-biomeinoes.json) |
+| Bionic Dues | 9221 | [9221-bionic-dues.json](./9221-bionic-dues.json) |
 | Bionicle: City of Legends | 175995 | [175995-bionicle-city-of-legends.json](./175995-bionicle-city-of-legends.json) |
 | Bionicle: Masks of Power | 141873 | [141873-bionicle-masks-of-power.json](./141873-bionicle-masks-of-power.json) |
 | Bionicle: The Game | 3811 | [3811-bionicle-the-game.json](./3811-bionicle-the-game.json) |
