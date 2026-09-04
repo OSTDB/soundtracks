@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teravit | 167863 | [167863-teravit.json](./167863-teravit.json) |
 | Terebron | 165681 | [165681-terebron.json](./165681-terebron.json) |
 | Terminal | 177556 | [177556-terminal.json](./177556-terminal.json) |
+| Terminal Hacker | 30854 | [30854-terminal-hacker.json](./30854-terminal-hacker.json) |
 | Terminal Hacker - Into the Deep | 35935 | [35935-terminal-hacker-into-the-deep.json](./35935-terminal-hacker-into-the-deep.json) |
 | Terminal Machine | 54427 | [54427-terminal-machine.json](./54427-terminal-machine.json) |
 | Terminal Singularity | 158701 | [158701-terminal-singularity.json](./158701-terminal-singularity.json) |
@@ -413,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terry's Treasure Trouble! | 265934 | [265934-terrys-treasure-trouble.json](./265934-terrys-treasure-trouble.json) |
 | Tesla Asteroids | 178643 | [178643-tesla-asteroids.json](./178643-tesla-asteroids.json) |
 | Tesla: The Weather Man | 54431 | [54431-tesla-the-weather-man.json](./54431-tesla-the-weather-man.json) |
+| Tesla's Best Friend | 30861 | [30861-teslas-best-friend.json](./30861-teslas-best-friend.json) |
 | Tesla's Tower: The Wardenclyffe Mystery | 31954 | [31954-teslas-tower-the-wardenclyffe-mystery.json](./31954-teslas-tower-the-wardenclyffe-mystery.json) |
 | Tessa's Fate | 140583 | [140583-tessas-fate.json](./140583-tessas-fate.json) |
 | Tesseract VR | 99602 | [99602-tesseract-vr.json](./99602-tesseract-vr.json) |
@@ -845,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fourth Generation | 72693 | [72693-the-fourth-generation.json](./72693-the-fourth-generation.json) |
 | The Fox Awaits Me: Limited Edition | 188644 | [188644-the-fox-awaits-me-limited-edition.json](./188644-the-fox-awaits-me-limited-edition.json) |
 | The Frog Game Amazing Simulator | 100861 | [100861-the-frog-game-amazing-simulator.json](./100861-the-frog-game-amazing-simulator.json) |
+| The Frontier | 30929 | [30929-the-frontier.json](./30929-the-frontier.json) |
 | The Fruit, Labyrinth, and Eden of Grisaia Full Package | 117746 | [117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json](./117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json) |
 | The Funny Boneyard | 112335 | [112335-the-funny-boneyard.json](./112335-the-funny-boneyard.json) |
 | The Future Devil Must Work! Debt Repayment Arc | 82916 | [82916-the-future-devil-must-work-debt-repayment-arc.json](./82916-the-future-devil-must-work-debt-repayment-arc.json) |
@@ -955,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Isolated Town | 253594 | [253594-the-isolated-town.json](./253594-the-isolated-town.json) |
 | The Jellyfish Girl's Absolute Abnormal Adventure | 194656 | [194656-the-jellyfish-girls-absolute-abnormal-adventure.json](./194656-the-jellyfish-girls-absolute-abnormal-adventure.json) |
 | The journey to the party | 179743 | [179743-the-journey-to-the-party.json](./179743-the-journey-to-the-party.json) |
+| The Journey VR | 30873 | [30873-the-journey-vr.json](./30873-the-journey-vr.json) |
 | The Journeyman Project: Turbo! | 79931 | [79931-the-journeyman-project-turbo.json](./79931-the-journeyman-project-turbo.json) |
 | The Joy of Creation: Ignited Collection | 216456 | [216456-the-joy-of-creation-ignited-collection.json](./216456-the-joy-of-creation-ignited-collection.json) |
 | The Joy of Creation: Story Mode | 45984 | [45984-the-joy-of-creation-story-mode.json](./45984-the-joy-of-creation-story-mode.json) |
@@ -988,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ladle Fly | 179723 | [179723-the-ladle-fly.json](./179723-the-ladle-fly.json) |
 | The Lair of DOOMestic Animals | 271487 | [271487-the-lair-of-doomestic-animals.json](./271487-the-lair-of-doomestic-animals.json) |
 | The Land Before Time: Activity Center | 229378 | [229378-the-land-before-time-activity-center.json](./229378-the-land-before-time-activity-center.json) |
+| The Land of Dasthir | 30898 | [30898-the-land-of-dasthir.json](./30898-the-land-of-dasthir.json) |
 | The Lar | 118380 | [118380-the-lar.json](./118380-the-lar.json) |
 | The Last Catalyst | 277613 | [277613-the-last-catalyst.json](./277613-the-last-catalyst.json) |
 | The Last Chronomancer | 146352 | [146352-the-last-chronomancer.json](./146352-the-last-chronomancer.json) |
@@ -1258,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prototype | 94771 | [94771-the-prototype.json](./94771-the-prototype.json) |
 | The Psychologist | 319934 | [319934-the-psychologist.json](./319934-the-psychologist.json) |
 | The Pub Simulator | 238727 | [238727-the-pub-simulator.json](./238727-the-pub-simulator.json) |
+| The Puppet Master | 30910 | [30910-the-puppet-master.json](./30910-the-puppet-master.json) |
 | The Purgatory and the Stolen Souls | 239285 | [239285-the-purgatory-and-the-stolen-souls.json](./239285-the-purgatory-and-the-stolen-souls.json) |
 | The Puzzle of Blocks | 268214 | [268214-the-puzzle-of-blocks.json](./268214-the-puzzle-of-blocks.json) |
 | The Pyramid | 45362 | [45362-the-pyramid.json](./45362-the-pyramid.json) |
@@ -1622,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's an Only One Way Exit. | 314065 | [314065-theres-an-only-one-way-exit.json](./314065-theres-an-only-one-way-exit.json) |
 | There's No Easter Eggs | 273630 | [273630-theres-no-easter-eggs.json](./273630-theres-no-easter-eggs.json) |
 | There's No Santa | 315296 | [315296-theres-no-santa.json](./315296-theres-no-santa.json) |
+| Therian Saga | 30951 | [30951-therian-saga.json](./30951-therian-saga.json) |
 | Theurgy Architect | 333365 | [333365-theurgy-architect.json](./333365-theurgy-architect.json) |
 | They | 80613 | [80613-they.json](./80613-they.json) |
 | They Are Beasts | 119753 | [119753-they-are-beasts.json](./119753-they-are-beasts.json) |
@@ -2498,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trespasser 2 | 204111 | [204111-trespasser-2.json](./204111-trespasser-2.json) |
 | Tresure Hunter | 278673 | [278673-tresure-hunter.json](./278673-tresure-hunter.json) |
 | Tri Focuser: Outside the Traditional World | 246673 | [246673-tri-focuser-outside-the-traditional-world.json](./246673-tri-focuser-outside-the-traditional-world.json) |
+| Tri.Defender | 30933 | [30933-tri-defender.json](./30933-tri-defender.json) |
 | Triad | 304367 | [304367-triad.json](./304367-triad.json) |
 | Trial Xtreme 3 | 117763 | [117763-trial-xtreme-3.json](./117763-trial-xtreme-3.json) |
 | Trial Xtreme 4 Remastered | 208035 | [208035-trial-xtreme-4-remastered.json](./208035-trial-xtreme-4-remastered.json) |
@@ -2750,3 +2758,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrannical Chickens | 278726 | [278726-tyrannical-chickens.json](./278726-tyrannical-chickens.json) |
 | Tyranny: Gold Edition | 154526 | [154526-tyranny-gold-edition.json](./154526-tyranny-gold-edition.json) |
 | Tyrant Quest: Gold Edition | 197406 | [197406-tyrant-quest-gold-edition.json](./197406-tyrant-quest-gold-edition.json) |
+| Tzompantli | 30941 | [30941-tzompantli.json](./30941-tzompantli.json) |
