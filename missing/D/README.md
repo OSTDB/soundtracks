@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Dreamer | 148566 | [148566-dancing-dreamer.json](./148566-dancing-dreamer.json) |
 | Dancing Hair: Music Race 3D | 212455 | [212455-dancing-hair-music-race-3d.json](./212455-dancing-hair-music-race-3d.json) |
 | Dancing Hut | 26632 | [26632-dancing-hut.json](./26632-dancing-hut.json) |
+| Dancing Line | 87048 | [87048-dancing-line.json](./87048-dancing-line.json) |
 | Dancing Stage Unleashed | 5803 | [5803-dancing-stage-unleashed.json](./5803-dancing-stage-unleashed.json) |
 | Dancing Stage Unleashed 2 | 5804 | [5804-dancing-stage-unleashed-2.json](./5804-dancing-stage-unleashed-2.json) |
 | Dancing Stage Unleashed 3 | 5806 | [5806-dancing-stage-unleashed-3.json](./5806-dancing-stage-unleashed-3.json) |
@@ -463,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Avenger | 73851 | [73851-deer-avenger.json](./73851-deer-avenger.json) |
 | Deer Hunt Challenge | 78044 | [78044-deer-hunt-challenge.json](./78044-deer-hunt-challenge.json) |
 | Deer Hunter | 206345 | [206345-deer-hunter.json](./206345-deer-hunter.json) |
+| Deer Hunter Classic | 86940 | [86940-deer-hunter-classic.json](./86940-deer-hunter-classic.json) |
 | Def Leppard: Let's Rock It! | 254164 | [254164-def-leppard-lets-rock-it.json](./254164-def-leppard-lets-rock-it.json) |
 | Defence Agent Gaya | 82906 | [82906-defence-agent-gaya.json](./82906-defence-agent-gaya.json) |
 | Defend Him, Not Me! | 318800 | [318800-defend-him-not-me.json](./318800-defend-him-not-me.json) |
@@ -789,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Virus | 236008 | [236008-digital-virus.json](./236008-digital-virus.json) |
 | Dilarara!! | 82876 | [82876-dilarara.json](./82876-dilarara.json) |
 | Dillo Guy | 293890 | [293890-dillo-guy.json](./293890-dillo-guy.json) |
+| Dillon's Dead-Heat Breakers | 90687 | [90687-dillons-dead-heat-breakers.json](./90687-dillons-dead-heat-breakers.json) |
 | Diluvian Ultra: Awakening | 316989 | [316989-diluvian-ultra-awakening.json](./316989-diluvian-ultra-awakening.json) |
 | Dim Glow | 158193 | [158193-dim-glow.json](./158193-dim-glow.json) |
 | Dima Rescues Ira | 75157 | [75157-dima-rescues-ira.json](./75157-dima-rescues-ira.json) |
@@ -888,8 +891,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishonored: Definitive Edition | 20863 | [20863-dishonored-definitive-edition.json](./20863-dishonored-definitive-edition.json) |
 | Disillusion ST | 276494 | [276494-disillusion-st.json](./276494-disillusion-st.json) |
 | Disney Classic Games: Aladdin and The Lion King - The Jungle Book and More Aladdin Pack | 204668 | [204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json](./204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json) |
+| Disney Emoji Blitz | 89817 | [89817-disney-emoji-blitz.json](./89817-disney-emoji-blitz.json) |
 | Disney Fairies: Tinker Bell | 78718 | [78718-disney-fairies-tinker-bell.json](./78718-disney-fairies-tinker-bell.json) |
 | Disney Fairies: Tinker Bell and the Great Fairy Rescue | 230553 | [230553-disney-fairies-tinker-bell-and-the-great-fairy-rescue.json](./230553-disney-fairies-tinker-bell-and-the-great-fairy-rescue.json) |
+| Disney Magic Kingdoms | 86813 | [86813-disney-magic-kingdoms.json](./86813-disney-magic-kingdoms.json) |
 | Disney Magical Dice | 55158 | [55158-disney-magical-dice.json](./55158-disney-magical-dice.json) |
 | Disney Mickey's Typing Adventure | 35796 | [35796-disney-mickeys-typing-adventure.json](./35796-disney-mickeys-typing-adventure.json) |
 | Disney Princess | 230556 | [230556-disney-princess.json](./230556-disney-princess.json) |
@@ -1106,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Jr. | 257639 | [257639-donkey-kong-jr.json](./257639-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 257640 | [257640-donkey-kong-jr.json](./257640-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 257641 | [257641-donkey-kong-jr.json](./257641-donkey-kong-jr.json) |
+| Donkey Kong Jr. | 84555 | [84555-donkey-kong-jr.json](./84555-donkey-kong-jr.json) |
 | Donkey Kong Jr.-e | 170008 | [170008-donkey-kong-jr-e.json](./170008-donkey-kong-jr-e.json) |
 | Donkey Kong Land III | 1095 | [1095-donkey-kong-land-iii.json](./1095-donkey-kong-land-iii.json) |
 | Donkey Kong-e | 170011 | [170011-donkey-kong-e.json](./170011-donkey-kong-e.json) |
