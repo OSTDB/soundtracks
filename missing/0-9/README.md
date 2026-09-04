@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Thailand Cats | 315293 | [315293-100-thailand-cats.json](./315293-100-thailand-cats.json) |
 | 100 Wars | 316430 | [316430-100-wars.json](./316430-100-wars.json) |
 | 100 Years: Life Simulator | 212457 | [212457-100-years-life-simulator.json](./212457-100-years-life-simulator.json) |
+| 100% Orange Juice | 11426 | [11426-100-orange-juice.json](./11426-100-orange-juice.json) |
 | 100% Orange Juice: Acceleration Pack | 164483 | [164483-100-orange-juice-acceleration-pack.json](./164483-100-orange-juice-acceleration-pack.json) |
 | 100% Orange Juice: Alicianrone & Teotoratta | 164469 | [164469-100-orange-juice-alicianrone-and-teotoratta.json](./164469-100-orange-juice-alicianrone-and-teotoratta.json) |
 | 100% Orange Juice: Alte & Kyoko | 164468 | [164468-100-orange-juice-alte-and-kyoko.json](./164468-100-orange-juice-alte-and-kyoko.json) |
@@ -137,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1917: The Prologue | 151197 | [151197-1917-the-prologue.json](./151197-1917-the-prologue.json) |
 | 1939 | 265966 | [265966-1939.json](./265966-1939.json) |
 | 1942 Pacific Front | 109016 | [109016-1942-pacific-front.json](./109016-1942-pacific-front.json) |
+| 1943: The Battle of Midway | 6076 | [6076-1943-the-battle-of-midway.json](./6076-1943-the-battle-of-midway.json) |
 | 1979 Invasion Earth | 29876 | [29876-1979-invasion-earth.json](./29876-1979-invasion-earth.json) |
 | 1986 A Long Five Days | 301032 | [301032-1986-a-long-five-days.json](./301032-1986-a-long-five-days.json) |
 | 1989 QianShanMen | 259288 | [259288-1989-qianshanmen.json](./259288-1989-qianshanmen.json) |
