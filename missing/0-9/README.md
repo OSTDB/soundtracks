@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1939 | 265966 | [265966-1939.json](./265966-1939.json) |
 | 1942 Pacific Front | 109016 | [109016-1942-pacific-front.json](./109016-1942-pacific-front.json) |
 | 1943: The Battle of Midway | 6076 | [6076-1943-the-battle-of-midway.json](./6076-1943-the-battle-of-midway.json) |
+| 1953: KGB Unleashed | 9771 | [9771-1953-kgb-unleashed.json](./9771-1953-kgb-unleashed.json) |
 | 1954 Alcatraz | 7169 | [7169-1954-alcatraz.json](./7169-1954-alcatraz.json) |
 | 1979 Invasion Earth | 29876 | [29876-1979-invasion-earth.json](./29876-1979-invasion-earth.json) |
 | 1986 A Long Five Days | 301032 | [301032-1986-a-long-five-days.json](./301032-1986-a-long-five-days.json) |
@@ -226,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-D Escape!: 1000 Mazes | 245577 | [245577-3-d-escape-1000-mazes.json](./245577-3-d-escape-1000-mazes.json) |
 | 3-D Maze | 15576 | [15576-3-d-maze.json](./15576-3-d-maze.json) |
 | 3-D Tank Zone | 15579 | [15579-3-d-tank-zone.json](./15579-3-d-tank-zone.json) |
+| 3-D Ultra Radio Control Racers | 9116 | [9116-3-d-ultra-radio-control-racers.json](./9116-3-d-ultra-radio-control-racers.json) |
 | 30 Years of Nintendon't | 215379 | [215379-30-years-of-nintendont.json](./215379-30-years-of-nintendont.json) |
 | 300 Heroes | 75139 | [75139-300-heroes.json](./75139-300-heroes.json) |
 | 31st Prototype | 149584 | [149584-31st-prototype.json](./149584-31st-prototype.json) |
