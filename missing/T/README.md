@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Abyssal Zone | 12246 | [12246-the-abyssal-zone.json](./12246-the-abyssal-zone.json) |
 | The Act | 64990 | [64990-the-act.json](./64990-the-act.json) |
 | The Adjudicator | 145697 | [145697-the-adjudicator.json](./145697-the-adjudicator.json) |
+| The Adventure Pals | 22359 | [22359-the-adventure-pals.json](./22359-the-adventure-pals.json) |
 | The Adventure Story of Yixiu | 293385 | [293385-the-adventure-story-of-yixiu.json](./293385-the-adventure-story-of-yixiu.json) |
 | The Adventurer | 159365 | [159365-the-adventurer.json](./159365-the-adventurer.json) |
 | The Adventures of Alvis | 28925 | [28925-the-adventures-of-alvis.json](./28925-the-adventures-of-alvis.json) |
@@ -1336,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outer Darkness | 274200 | [274200-the-outer-darkness.json](./274200-the-outer-darkness.json) |
 | The Outer Rim: Survivor | 97344 | [97344-the-outer-rim-survivor.json](./97344-the-outer-rim-survivor.json) |
 | The Outer Space Bugs | 224751 | [224751-the-outer-space-bugs.json](./224751-the-outer-space-bugs.json) |
+| The Outer Worlds: Spacer's Choice Edition | 239999 | [239999-the-outer-worlds-spacers-choice-edition.json](./239999-the-outer-worlds-spacers-choice-edition.json) |
 | The Outer Zone: Survival Tactics | 264856 | [264856-the-outer-zone-survival-tactics.json](./264856-the-outer-zone-survival-tactics.json) |
 | The Outlaw and the Newcomer | 216998 | [216998-the-outlaw-and-the-newcomer.json](./216998-the-outlaw-and-the-newcomer.json) |
 | The Owlman of Mawnan Smith | 61084 | [61084-the-owlman-of-mawnan-smith.json](./61084-the-owlman-of-mawnan-smith.json) |
@@ -1373,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prince is Dead | 239877 | [239877-the-prince-is-dead.json](./239877-the-prince-is-dead.json) |
 | The Princess in the Mirror | 298885 | [298885-the-princess-in-the-mirror.json](./298885-the-princess-in-the-mirror.json) |
 | The Prison | 117089 | [117089-the-prison.json](./117089-the-prison.json) |
+| The Procession to Calvary | 106985 | [106985-the-procession-to-calvary.json](./106985-the-procession-to-calvary.json) |
 | The Professor Presents: Got Handles? | 28937 | [28937-the-professor-presents-got-handles.json](./28937-the-professor-presents-got-handles.json) |
 | The Prototype | 94771 | [94771-the-prototype.json](./94771-the-prototype.json) |
 | The Psychologist | 319934 | [319934-the-psychologist.json](./319934-the-psychologist.json) |
@@ -1489,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Bundle Pack 3 | 159327 | [159327-the-sims-4-bundle-pack-3.json](./159327-the-sims-4-bundle-pack-3.json) |
 | The Sims 4: Bundle Pack 4 | 159328 | [159328-the-sims-4-bundle-pack-4.json](./159328-the-sims-4-bundle-pack-4.json) |
 | The Sims 4: Bundle Pack 6 | 159329 | [159329-the-sims-4-bundle-pack-6.json](./159329-the-sims-4-bundle-pack-6.json) |
+| The Sims 4: City Living | 25321 | [25321-the-sims-4-city-living.json](./25321-the-sims-4-city-living.json) |
 | The Sims 4: Everyday Stuff Bundle | 159341 | [159341-the-sims-4-everyday-stuff-bundle.json](./159341-the-sims-4-everyday-stuff-bundle.json) |
 | The Sims 4: Extreme Violence | 259250 | [259250-the-sims-4-extreme-violence.json](./259250-the-sims-4-extreme-violence.json) |
 | The Sims 4: Kids Room Stuff | 121023 | [121023-the-sims-4-kids-room-stuff.json](./121023-the-sims-4-kids-room-stuff.json) |
@@ -2299,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony and Clyde | 172753 | [172753-tony-and-clyde.json](./172753-tony-and-clyde.json) |
 | Tony Hawk's Pro Skater | 6692 | [6692-tony-hawks-pro-skater.json](./6692-tony-hawks-pro-skater.json) |
 | Tony Hawk's Pro Skater 2 | 229927 | [229927-tony-hawks-pro-skater-2.json](./229927-tony-hawks-pro-skater-2.json) |
+| Tony Hawk's Pro Skater 3 | 194213 | [194213-tony-hawks-pro-skater-3.json](./194213-tony-hawks-pro-skater-3.json) |
 | Tony La Russa Baseball 2 | 95465 | [95465-tony-la-russa-baseball-2.json](./95465-tony-la-russa-baseball-2.json) |
 | Tony Stewart's All-American Racing: Texas Motor Speedway Dirt Track | 167851 | [167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json](./167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json) |
 | Too Far Too Late | 295550 | [295550-too-far-too-late.json](./295550-too-far-too-late.json) |
@@ -2328,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torbaci Oyunu | 274769 | [274769-torbaci-oyunu.json](./274769-torbaci-oyunu.json) |
 | Torchbear | 341898 | [341898-torchbear.json](./341898-torchbear.json) |
 | Torches of Fate | 133458 | [133458-torches-of-fate.json](./133458-torches-of-fate.json) |
+| Toree 3D | 144687 | [144687-toree-3d.json](./144687-toree-3d.json) |
 | Toree's Panic Pack | 308530 | [308530-torees-panic-pack.json](./308530-torees-panic-pack.json) |
 | Toride | 37784 | [37784-toride.json](./37784-toride.json) |
 | Toril | 228700 | [228700-toril.json](./228700-toril.json) |
@@ -2489,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track & Field | 239296 | [239296-track-and-field.json](./239296-track-and-field.json) |
 | Track Attack: Changes Everything | 251202 | [251202-track-attack-changes-everything.json](./251202-track-attack-changes-everything.json) |
 | TrackMania Nations | 9909 | [9909-trackmania-nations.json](./9909-trackmania-nations.json) |
+| TrackMania Sunrise | 22294 | [22294-trackmania-sunrise.json](./22294-trackmania-sunrise.json) |
 | TrackMania Turbo | 11172 | [11172-trackmania-turbo.json](./11172-trackmania-turbo.json) |
 | Tracks of Triumph: Good Old Times | 29886 | [29886-tracks-of-triumph-good-old-times.json](./29886-tracks-of-triumph-good-old-times.json) |
 | Tracky Train | 58241 | [58241-tracky-train.json](./58241-tracky-train.json) |
