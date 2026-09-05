@@ -1076,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Shield | 115653 | [115653-pokemon-shield.json](./115653-pokemon-shield.json) |
 | Pokémon Sigma Platinum | 197927 | [197927-pokemon-sigma-platinum.json](./197927-pokemon-sigma-platinum.json) |
 | Pokémon Snap 3DS | 401507 | [401507-pokemon-snap-3ds.json](./401507-pokemon-snap-3ds.json) |
+| Pokémon Solar Eclipse | 399594 | [399594-pokemon-solar-eclipse.json](./399594-pokemon-solar-eclipse.json) |
 | Pokémon Sword and Shield | 294432 | [294432-pokemon-sword-and-shield.json](./294432-pokemon-sword-and-shield.json) |
 | Pokémon TCG Pocket: Everyday Wonders | 410895 | [410895-pokemon-tcg-pocket-everyday-wonders.json](./410895-pokemon-tcg-pocket-everyday-wonders.json) |
 | Pokémon TCG Pocket: Paradox Drive | 406716 | [406716-pokemon-tcg-pocket-paradox-drive.json](./406716-pokemon-tcg-pocket-paradox-drive.json) |
@@ -1359,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess.Loot.Pixel.Again x2 | 79101 | [79101-princess-loot-pixel-again-x2.json](./79101-princess-loot-pixel-again-x2.json) |
 | Prinny Presents: NIS Classics Vol 1 - Deluxe Edition | 148545 | [148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json](./148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json) |
 | Prinny Presents: NIS Classics Vol 3 | 194961 | [194961-prinny-presents-nis-classics-vol-3.json](./194961-prinny-presents-nis-classics-vol-3.json) |
+| Print Gallery of an Artist | 399606 | [399606-print-gallery-of-an-artist.json](./399606-print-gallery-of-an-artist.json) |
 | Priority Realignment | 234900 | [234900-priority-realignment.json](./234900-priority-realignment.json) |
 | PriPara & Pretty Rhythm: PriPara de Tsukaeru Oshare Item 1450! | 177578 | [177578-pripara-and-pretty-rhythm-pripara-de-tsukaeru-oshare-item-1450.json](./177578-pripara-and-pretty-rhythm-pripara-de-tsukaeru-oshare-item-1450.json) |
 | PriPara Aim! Idol Grand Prix No.1! | 177573 | [177573-pripara-aim-idol-grand-prix-no-1.json](./177573-pripara-aim-idol-grand-prix-no-1.json) |
@@ -1594,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psyvariar 2: Ultimate Final | 43346 | [43346-psyvariar-2-ultimate-final.json](./43346-psyvariar-2-ultimate-final.json) |
 | Psyvariar: Complete Edition | 43351 | [43351-psyvariar-complete-edition.json](./43351-psyvariar-complete-edition.json) |
 | Pteroglider | 93590 | [93590-pteroglider.json](./93590-pteroglider.json) |
+| Pub Games | 399605 | [399605-pub-games.json](./399605-pub-games.json) |
 | Pub Mania | 325247 | [325247-pub-mania.json](./325247-pub-mania.json) |
 | Pub Sim | 311277 | [311277-pub-sim.json](./311277-pub-sim.json) |
 | PUBG Lite | 124036 | [124036-pubg-lite.json](./124036-pubg-lite.json) |
