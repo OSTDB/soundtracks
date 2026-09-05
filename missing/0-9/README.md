@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: Myths of Ancient Greece | 130923 | [130923-1001-jigsaw-myths-of-ancient-greece.json](./130923-1001-jigsaw-myths-of-ancient-greece.json) |
 | 1001-Kai-me no Aoi Tsuki | 98429 | [98429-1001-kai-me-no-aoi-tsuki.json](./98429-1001-kai-me-no-aoi-tsuki.json) |
 | 100th Anniversary of the Crossword Puzzle | 233780 | [233780-100th-anniversary-of-the-crossword-puzzle.json](./233780-100th-anniversary-of-the-crossword-puzzle.json) |
+| 101 Dogs Hidden in Rome | 408801 | [408801-101-dogs-hidden-in-rome.json](./408801-101-dogs-hidden-in-rome.json) |
 | 101 Ways to Die | 16745 | [16745-101-ways-to-die.json](./16745-101-ways-to-die.json) |
 | 1010: Block | 58253 | [58253-1010-block.json](./58253-1010-block.json) |
 | 10K & The Kriminal World: Sammy's Attack | 195765 | [195765-10k-and-the-kriminal-world-sammys-attack.json](./195765-10k-and-the-kriminal-world-sammys-attack.json) |
@@ -414,5 +415,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9Shot | 301034 | [301034-9shot.json](./301034-9shot.json) |
 | Ānquán Jiàoyù | 102177 | [102177-anquan-jiaoyu.json](./102177-anquan-jiaoyu.json) |
 | Àrengard: Invasion | 228081 | [228081-arengard-invasion.json](./228081-arengard-invasion.json) |
+| Āsh | 408828 | [408828-ash.json](./408828-ash.json) |
 | Ōkamiden | 16618 | [16618-okamiden.json](./16618-okamiden.json) |
 | 一>◇ | 100203 | [100203-.json](./100203-.json) |
