@@ -495,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Switch Simulator | 317591 | [317591-light-switch-simulator.json](./317591-light-switch-simulator.json) |
 | Light the Way | 248286 | [248286-light-the-way.json](./248286-light-the-way.json) |
 | Light Up the Room | 161371 | [161371-light-up-the-room.json](./161371-light-up-the-room.json) |
+| Light: Path of the Archmage | 392136 | [392136-light-path-of-the-archmage.json](./392136-light-path-of-the-archmage.json) |
 | Light: Rebirth-The falsehood | 53274 | [53274-light-rebirth-the-falsehood.json](./53274-light-rebirth-the-falsehood.json) |
 | Lightening Force: Quest for the Darkstar | 46273 | [46273-lightening-force-quest-for-the-darkstar.json](./46273-lightening-force-quest-for-the-darkstar.json) |
 | Lighter | 114394 | [114394-lighter.json](./114394-lighter.json) |
@@ -671,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Load Roll Die | 172734 | [172734-load-roll-die.json](./172734-load-roll-die.json) |
 | Loaded | 18682 | [18682-loaded.json](./18682-loaded.json) |
 | Loader Larry | 73809 | [73809-loader-larry.json](./73809-loader-larry.json) |
+| Loaders, Inc. | 392148 | [392148-loaders-inc.json](./392148-loaders-inc.json) |
 | Loading Zone | 193469 | [193469-loading-zone.json](./193469-loading-zone.json) |
 | Lobby Cam by Bryn Oh | 235468 | [235468-lobby-cam-by-bryn-oh.json](./235468-lobby-cam-by-bryn-oh.json) |
 | Lobo | 86130 | [86130-lobo.json](./86130-lobo.json) |
