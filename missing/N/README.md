@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Contact | 302114 | [302114-no-contact.json](./302114-no-contact.json) |
 | No Cure 2 | 158195 | [158195-no-cure-2.json](./158195-no-cure-2.json) |
 | No Fair Play | 172755 | [172755-no-fair-play.json](./172755-no-fair-play.json) |
+| No Gods, Only Ducks | 415902 | [415902-no-gods-only-ducks.json](./415902-no-gods-only-ducks.json) |
 | No Light | 150684 | [150684-no-light.json](./150684-no-light.json) |
 | No Limits 2 | 80606 | [80606-no-limits-2.json](./80606-no-limits-2.json) |
 | No Love | 115048 | [115048-no-love.json](./115048-no-love.json) |
