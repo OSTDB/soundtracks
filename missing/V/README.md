@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valor Time | 107911 | [107911-valor-time.json](./107911-valor-time.json) |
 | Valyria Tear | 60586 | [60586-valyria-tear.json](./60586-valyria-tear.json) |
 | Valzar | 34391 | [34391-valzar.json](./34391-valzar.json) |
+| Vampire Awakening: Elven Sword Chronicles Survival | 373020 | [373020-vampire-awakening-elven-sword-chronicles-survival.json](./373020-vampire-awakening-elven-sword-chronicles-survival.json) |
 | Vampire Clans | 216493 | [216493-vampire-clans.json](./216493-vampire-clans.json) |
 | Vampire Crystals: Rebirth | 85471 | [85471-vampire-crystals-rebirth.json](./85471-vampire-crystals-rebirth.json) |
 | Vampire Killer | 1115 | [1115-vampire-killer.json](./1115-vampire-killer.json) |
