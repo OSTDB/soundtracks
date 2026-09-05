@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regular Show: Battle of the Behemoths | 185661 | [185661-regular-show-battle-of-the-behemoths.json](./185661-regular-show-battle-of-the-behemoths.json) |
 | Regular Show: Fist Punch | 185663 | [185663-regular-show-fist-punch.json](./185663-regular-show-fist-punch.json) |
 | Regular Show: Paint War | 185662 | [185662-regular-show-paint-war.json](./185662-regular-show-paint-war.json) |
+| Rehaunted | 410924 | [410924-rehaunted.json](./410924-rehaunted.json) |
 | Reign of Amira: The Lost Kingdom | 38996 | [38996-reign-of-amira-the-lost-kingdom.json](./38996-reign-of-amira-the-lost-kingdom.json) |
 | Reign of Darkness | 126974 | [126974-reign-of-darkness.json](./126974-reign-of-darkness.json) |
 | Reign of Guilds | 112329 | [112329-reign-of-guilds.json](./112329-reign-of-guilds.json) |
@@ -1157,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rookie Math Pro | 102205 | [102205-rookie-math-pro.json](./102205-rookie-math-pro.json) |
 | Rookie Tank | 116357 | [116357-rookie-tank.json](./116357-rookie-tank.json) |
 | Room 404 | 55191 | [55191-room-404.json](./55191-room-404.json) |
+| Room by Room | 410932 | [410932-room-by-room.json](./410932-room-by-room.json) |
 | Room Containing Candle x4 | 142502 | [142502-room-containing-candle-x4.json](./142502-room-containing-candle-x4.json) |
 | Room Escape '1053' | 127376 | [127376-room-escape-1053.json](./127376-room-escape-1053.json) |
 | Room Explorer 2010 | 198511 | [198511-room-explorer-2010.json](./198511-room-explorer-2010.json) |
