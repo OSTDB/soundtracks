@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Convoy | 15575 | [15575-3d-convoy.json](./15575-3d-convoy.json) |
 | 3D Custom Lady Maker | 128010 | [128010-3d-custom-lady-maker.json](./128010-3d-custom-lady-maker.json) |
 | 3D Dragon Castle | 205837 | [205837-3d-dragon-castle.json](./205837-3d-dragon-castle.json) |
+| 3d Engineers | 35889 | [35889-3d-engineers.json](./35889-3d-engineers.json) |
 | 3D Galaxy Fighters | 205839 | [205839-3d-galaxy-fighters.json](./205839-3d-galaxy-fighters.json) |
 | 3D Knife | 265428 | [265428-3d-knife.json](./265428-3d-knife.json) |
 | 3D Mahjong + Janpai Tori | 269319 | [269319-3d-mahjong-janpai-tori.json](./269319-3d-mahjong-janpai-tori.json) |
