@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Mega Dungeon 64 | 397662 | [397662-ultra-mega-dungeon-64.json](./397662-ultra-mega-dungeon-64.json) |
 | Ultra Ninja Soul | 151755 | [151755-ultra-ninja-soul.json](./151755-ultra-ninja-soul.json) |
 | Ultra Vortek | 40822 | [40822-ultra-vortek.json](./40822-ultra-vortek.json) |
+| Ultra0 | 391033 | [391033-ultra0.json](./391033-ultra0.json) |
 | Ultracore | 107188 | [107188-ultracore.json](./107188-ultracore.json) |
 | Ultraflow 2 | 129790 | [129790-ultraflow-2.json](./129790-ultraflow-2.json) |
 | Ultrakanoid | 310179 | [310179-ultrakanoid.json](./310179-ultrakanoid.json) |
