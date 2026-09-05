@@ -1137,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Heartbreak Royale Pack | 275355 | [275355-fortnite-heartbreak-royale-pack.json](./275355-fortnite-heartbreak-royale-pack.json) |
 | Fortnite: May 2024 Fortnite Crew Pack | 303239 | [303239-fortnite-may-2024-fortnite-crew-pack.json](./303239-fortnite-may-2024-fortnite-crew-pack.json) |
 | Fortnite: Minty Legends Pack | 221948 | [221948-fortnite-minty-legends-pack.json](./221948-fortnite-minty-legends-pack.json) |
+| Fortnite: Rogue Scout Pack | 369598 | [369598-fortnite-rogue-scout-pack.json](./369598-fortnite-rogue-scout-pack.json) |
 | Fortnite: Storm-Wild Raven Starter Pack | 331701 | [331701-fortnite-storm-wild-raven-starter-pack.json](./331701-fortnite-storm-wild-raven-starter-pack.json) |
 | FortOfTheNight | 105341 | [105341-fortofthenight.json](./105341-fortofthenight.json) |
 | Fortress | 13715 | [13715-fortress.json](./13715-fortress.json) |
@@ -1485,6 +1486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furries & Scalies & Bears OH MY!: Charity Pack - Echoes of the Fire | 171043 | [171043-furries-and-scalies-and-bears-oh-my-charity-pack-echoes-of-the-fire.json](./171043-furries-and-scalies-and-bears-oh-my-charity-pack-echoes-of-the-fire.json) |
 | Furries & Scalies & Bears OH MY!: Halloween Harvest Festival | 171042 | [171042-furries-and-scalies-and-bears-oh-my-halloween-harvest-festival.json](./171042-furries-and-scalies-and-bears-oh-my-halloween-harvest-festival.json) |
 | Furries & Scalies & Bears OH MY!: The Bear | 171041 | [171041-furries-and-scalies-and-bears-oh-my-the-bear.json](./171041-furries-and-scalies-and-bears-oh-my-the-bear.json) |
+| Furrifighters: Prequel I | 369553 | [369553-furrifighters-prequel-i.json](./369553-furrifighters-prequel-i.json) |
 | Furry Animals Bombing | 109745 | [109745-furry-animals-bombing.json](./109745-furry-animals-bombing.json) |
 | Furry Backrooms | 291775 | [291775-furry-backrooms.json](./291775-furry-backrooms.json) |
 | Furry Boss | 215891 | [215891-furry-boss.json](./215891-furry-boss.json) |
