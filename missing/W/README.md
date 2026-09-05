@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispering Dream | 314059 | [314059-whispering-dream.json](./314059-whispering-dream.json) |
 | Whispering Hills | 322952 | [322952-whispering-hills.json](./322952-whispering-hills.json) |
 | Whispers in the Shadows | 295555 | [295555-whispers-in-the-shadows.json](./295555-whispers-in-the-shadows.json) |
+| Whispers of the Tallgrass | 398959 | [398959-whispers-of-the-tallgrass.json](./398959-whispers-of-the-tallgrass.json) |
 | Whispers of West Grove | 237045 | [237045-whispers-of-west-grove.json](./237045-whispers-of-west-grove.json) |
 | Whispers: Last Hope | 29720 | [29720-whispers-last-hope.json](./29720-whispers-last-hope.json) |
 | Whisperstring | 329970 | [329970-whisperstring.json](./329970-whisperstring.json) |
