@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Stunt Simulator | 278156 | [278156-flying-stunt-simulator.json](./278156-flying-stunt-simulator.json) |
 | Flying Sushi | 337991 | [337991-flying-sushi.json](./337991-flying-sushi.json) |
 | Flying Unicorn | 256532 | [256532-flying-unicorn.json](./256532-flying-unicorn.json) |
+| Flying Wizards | 412968 | [412968-flying-wizards.json](./412968-flying-wizards.json) |
 | Flyland Wars: 2 Not Yours Mine | 173785 | [173785-flyland-wars-2-not-yours-mine.json](./173785-flyland-wars-2-not-yours-mine.json) |
 | Flynguin Station | 121006 | [121006-flynguin-station.json](./121006-flynguin-station.json) |
 | Flyto | 244480 | [244480-flyto.json](./244480-flyto.json) |
@@ -1277,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funtagy of Doskebe | 82907 | [82907-funtagy-of-doskebe.json](./82907-funtagy-of-doskebe.json) |
 | Funtoon's World | 51964 | [51964-funtoons-world.json](./51964-funtoons-world.json) |
 | FunWar | 195757 | [195757-funwar.json](./195757-funwar.json) |
+| Fur and Fangs | 412994 | [412994-fur-and-fangs.json](./412994-fur-and-fangs.json) |
 | Fur Squadron | 226405 | [226405-fur-squadron.json](./226405-fur-squadron.json) |
 | Fura-fura Puzzrumia! | 204670 | [204670-fura-fura-puzzrumia.json](./204670-fura-fura-puzzrumia.json) |
 | Furikake Spacey | 216461 | [216461-furikake-spacey.json](./216461-furikake-spacey.json) |
