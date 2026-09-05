@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black plane | 291736 | [291736-black-plane.json](./291736-black-plane.json) |
 | Black Powder | 101590 | [101590-black-powder.json](./101590-black-powder.json) |
 | Black Queen | 13697 | [13697-black-queen.json](./13697-black-queen.json) |
+| Black River | 29661 | [29661-black-river.json](./29661-black-river.json) |
 | Black Robinia | 59420 | [59420-black-robinia.json](./59420-black-robinia.json) |
 | Black Rose | 33253 | [33253-black-rose.json](./33253-black-rose.json) |
 | Black Rose Valkyrie | 137079 | [137079-black-rose-valkyrie.json](./137079-black-rose-valkyrie.json) |
@@ -1719,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bun Wars: Best of fun for Boys Girls and Kids | 101533 | [101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json](./101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json) |
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
 | Bungmyeong | 145640 | [145640-bungmyeong.json](./145640-bungmyeong.json) |
+| Bunker 58 | 29638 | [29638-bunker-58.json](./29638-bunker-58.json) |
 | Bunker Builder Simulator | 217503 | [217503-bunker-builder-simulator.json](./217503-bunker-builder-simulator.json) |
 | Bunker Life | 220870 | [220870-bunker-life.json](./220870-bunker-life.json) |
 | Bunker of Barzai | 271460 | [271460-bunker-of-barzai.json](./271460-bunker-of-barzai.json) |
