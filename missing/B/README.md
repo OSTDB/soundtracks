@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backpack | 297779 | [297779-backpack.json](./297779-backpack.json) |
 | Backpacker | 28352 | [28352-backpacker.json](./28352-backpacker.json) |
 | Backpacker 3: Mediterraneo | 129782 | [129782-backpacker-3-mediterraneo.json](./129782-backpacker-3-mediterraneo.json) |
+| Backrooms (2026) | 410930 | [410930-backrooms-2026.json](./410930-backrooms-2026.json) |
 | Backrooms Cycle | 235470 | [235470-backrooms-cycle.json](./235470-backrooms-cycle.json) |
 | Backrooms Hide and Seek | 220349 | [220349-backrooms-hide-and-seek.json](./220349-backrooms-hide-and-seek.json) |
 | Backrooms: Meg Archives | 292297 | [292297-backrooms-meg-archives.json](./292297-backrooms-meg-archives.json) |
@@ -816,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo de NouTore: BinTore | 222526 | [222526-bingo-de-noutore-bintore.json](./222526-bingo-de-noutore-bintore.json) |
 | Bingo Infinity | 96082 | [96082-bingo-infinity.json](./96082-bingo-infinity.json) |
 | Binky's Trash Service | 142483 | [142483-binkys-trash-service.json](./142483-binkys-trash-service.json) |
+| Bio Fail | 410910 | [410910-bio-fail.json](./410910-bio-fail.json) |
 | Bio Senshi Dan: Increaser to no Tatakai | 48647 | [48647-bio-senshi-dan-increaser-to-no-tatakai.json](./48647-bio-senshi-dan-increaser-to-no-tatakai.json) |
 | Bio-Hazard Battle | 4517 | [4517-bio-hazard-battle.json](./4517-bio-hazard-battle.json) |
 | BiochRL | 61110 | [61110-biochrl.json](./61110-biochrl.json) |
@@ -906,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Gold Online | 63338 | [63338-black-gold-online.json](./63338-black-gold-online.json) |
 | Black Hole | 85507 | [85507-black-hole.json](./85507-black-hole.json) |
 | Black Hornet | 14309 | [14309-black-hornet.json](./14309-black-hornet.json) |
+| Black Lake | 410926 | [410926-black-lake.json](./410926-black-lake.json) |
 | Black Lotus Motel | 159894 | [159894-black-lotus-motel.json](./159894-black-lotus-motel.json) |
 | Black Magic | 12258 | [12258-black-magic.json](./12258-black-magic.json) |
 | Black Market of Bulletphilia: 100th Black Market | 210247 | [210247-black-market-of-bulletphilia-100th-black-market.json](./210247-black-market-of-bulletphilia-100th-black-market.json) |
@@ -1528,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breath of Death VII | 16259 | [16259-breath-of-death-vii.json](./16259-breath-of-death-vii.json) |
 | Breath of Dragon II | 203551 | [203551-breath-of-dragon-ii.json](./203551-breath-of-dragon-ii.json) |
 | Breath of Ghosts | 203552 | [203552-breath-of-ghosts.json](./203552-breath-of-ghosts.json) |
+| Breath of the Waters: The Angler | 410937 | [410937-breath-of-the-waters-the-angler.json](./410937-breath-of-the-waters-the-angler.json) |
 | Breathedge | 89326 | [89326-breathedge.json](./89326-breathedge.json) |
 | BreathePeace.World | 111722 | [111722-breathepeace-world.json](./111722-breathepeace-world.json) |
 | Breathless | 14346 | [14346-breathless.json](./14346-breathless.json) |
@@ -1595,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Sword: The Shadow of the Templars | 206503 | [206503-broken-sword-the-shadow-of-the-templars.json](./206503-broken-sword-the-shadow-of-the-templars.json) |
 | Broken System | 236007 | [236007-broken-system.json](./236007-broken-system.json) |
 | Broken War | 309136 | [309136-broken-war.json](./309136-broken-war.json) |
+| BROMS: Battle Royale Management Simulator | 410877 | [410877-broms-battle-royale-management-simulator.json](./410877-broms-battle-royale-management-simulator.json) |
 | Bronkie the Bronchiasaurus | 42624 | [42624-bronkie-the-bronchiasaurus.json](./42624-bronkie-the-bronchiasaurus.json) |
 | Brood | 116514 | [116514-brood.json](./116514-brood.json) |
 | Brother Wings | 29912 | [29912-brother-wings.json](./29912-brother-wings.json) |
