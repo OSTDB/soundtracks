@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need More Troops | 165680 | [165680-need-more-troops.json](./165680-need-more-troops.json) |
 | Need to Know | 18234 | [18234-need-to-know.json](./18234-need-to-know.json) |
 | Nefarium | 192452 | [192452-nefarium.json](./192452-nefarium.json) |
+| Neffy: Moonlight Labyrinth X | 369061 | [369061-neffy-moonlight-labyrinth-x.json](./369061-neffy-moonlight-labyrinth-x.json) |
 | Negaeba Kitto... | 202938 | [202938-negaeba-kitto.json](./202938-negaeba-kitto.json) |
 | Negative Atmosphere: Emergency Room | 232667 | [232667-negative-atmosphere-emergency-room.json](./232667-negative-atmosphere-emergency-room.json) |
 | Negative Nancy | 125474 | [125474-negative-nancy.json](./125474-negative-nancy.json) |
@@ -382,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Experiment On Cats! | 332830 | [332830-never-experiment-on-cats.json](./332830-never-experiment-on-cats.json) |
 | Never out of Time | 193476 | [193476-never-out-of-time.json](./193476-never-out-of-time.json) |
 | Never Wither | 386675 | [386675-never-wither.json](./386675-never-wither.json) |
+| NeverAwake Flashback | 369062 | [369062-neverawake-flashback.json](./369062-neverawake-flashback.json) |
 | Neverball | 51247 | [51247-neverball.json](./51247-neverball.json) |
 | NeverEnd | 29873 | [29873-neverend.json](./29873-neverend.json) |
 | Neverending Check-in: The Hotel Stories | 253566 | [253566-neverending-check-in-the-hotel-stories.json](./253566-neverending-check-in-the-hotel-stories.json) |
@@ -405,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Hyu Stone | 60549 | [60549-new-hyu-stone.json](./60549-new-hyu-stone.json) |
 | New Journey to the West | 320543 | [320543-new-journey-to-the-west.json](./320543-new-journey-to-the-west.json) |
 | New Lands 1 | 252390 | [252390-new-lands-1.json](./252390-new-lands-1.json) |
+| New Lands: Legends of Tenkai - Collector's Edition | 369014 | [369014-new-lands-legends-of-tenkai-collectors-edition.json](./369014-new-lands-legends-of-tenkai-collectors-edition.json) |
 | New Life | 311796 | [311796-new-life.json](./311796-new-life.json) |
 | New Path 1: Adventure or Normality? | 124237 | [124237-new-path-1-adventure-or-normality.json](./124237-new-path-1-adventure-or-normality.json) |
 | New Roanoke | 270968 | [270968-new-roanoke.json](./270968-new-roanoke.json) |
