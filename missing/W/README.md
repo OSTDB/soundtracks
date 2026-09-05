@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wankuru | 242769 | [242769-wankuru.json](./242769-wankuru.json) |
 | Wanna Run Again | 116368 | [116368-wanna-run-again.json](./116368-wanna-run-again.json) |
 | Wanna Wake Up? | 405466 | [405466-wanna-wake-up.json](./405466-wanna-wake-up.json) |
+| Wannabe Galgame God!!! | 389964 | [389964-wannabe-galgame-god.json](./389964-wannabe-galgame-god.json) |
 | Wanted Shadows | 267679 | [267679-wanted-shadows.json](./267679-wanted-shadows.json) |
 | Wanted: Dead - Collector's Edition | 228736 | [228736-wanted-dead-collectors-edition.json](./228736-wanted-dead-collectors-edition.json) |
 | Wanting Wings | 278705 | [278705-wanting-wings.json](./278705-wanting-wings.json) |
@@ -383,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When I was a boycow | 178675 | [178675-when-i-was-a-boycow.json](./178675-when-i-was-a-boycow.json) |
 | When Rivers Were Trails | 130405 | [130405-when-rivers-were-trails.json](./130405-when-rivers-were-trails.json) |
 | When Silence Fell | 114428 | [114428-when-silence-fell.json](./114428-when-silence-fell.json) |
+| When the Barn Sleeps | 389998 | [389998-when-the-barn-sleeps.json](./389998-when-the-barn-sleeps.json) |
 | When the Lying Petals Scatter Into the Wind | 155104 | [155104-when-the-lying-petals-scatter-into-the-wind.json](./155104-when-the-lying-petals-scatter-into-the-wind.json) |
 | When the Shutter Stops | 109713 | [109713-when-the-shutter-stops.json](./109713-when-the-shutter-stops.json) |
 | When you're gone | 37192 | [37192-when-youre-gone.json](./37192-when-youre-gone.json) |
