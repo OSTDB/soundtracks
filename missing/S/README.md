@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safecracker | 24002 | [24002-safecracker.json](./24002-safecracker.json) |
 | Safecracker | 326988 | [326988-safecracker.json](./326988-safecracker.json) |
 | Safety First! | 32189 | [32189-safety-first.json](./32189-safety-first.json) |
+| Safety Instructions | 414290 | [414290-safety-instructions.json](./414290-safety-instructions.json) |
 | SaGa: Scarlet Grace - Ambitions | 119373 | [119373-saga-scarlet-grace-ambitions.json](./119373-saga-scarlet-grace-ambitions.json) |
 | SaGa: Scarlet Grace - Hiiro no Yabou | 97908 | [97908-saga-scarlet-grace-hiiro-no-yabou.json](./97908-saga-scarlet-grace-hiiro-no-yabou.json) |
 | Sagashimono ha, Natsu desuka. | 263237 | [263237-sagashimono-ha-natsu-desuka.json](./263237-sagashimono-ha-natsu-desuka.json) |
@@ -190,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandcastles | 134693 | [134693-sandcastles.json](./134693-sandcastles.json) |
 | Sandmason | 17278 | [17278-sandmason.json](./17278-sandmason.json) |
 | SandRipper | 270930 | [270930-sandripper.json](./270930-sandripper.json) |
+| Sands of Fate | 414293 | [414293-sands-of-fate.json](./414293-sands-of-fate.json) |
 | Sands of Osiris | 60541 | [60541-sands-of-osiris.json](./60541-sands-of-osiris.json) |
 | Sands of Salzaar | 128004 | [128004-sands-of-salzaar.json](./128004-sands-of-salzaar.json) |
 | Sands of Slumber: The RPG | 225864 | [225864-sands-of-slumber-the-rpg.json](./225864-sands-of-slumber-the-rpg.json) |
@@ -1436,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakes and Ladders | 106570 | [106570-snakes-and-ladders.json](./106570-snakes-and-ladders.json) |
 | Snakes LTD | 265921 | [265921-snakes-ltd.json](./265921-snakes-ltd.json) |
 | Snaky Snake | 70996 | [70996-snaky-snake.json](./70996-snaky-snake.json) |
+| Snap Glide: Rhythm Dash | 414342 | [414342-snap-glide-rhythm-dash.json](./414342-snap-glide-rhythm-dash.json) |
 | Snap the Sentinel | 141867 | [141867-snap-the-sentinel.json](./141867-snap-the-sentinel.json) |
 | SnaPaul | 332828 | [332828-snapaul.json](./332828-snapaul.json) |
 | Snapdots | 62193 | [62193-snapdots.json](./62193-snapdots.json) |
@@ -1808,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soreike! Anpanman o-Mise ga Ippai! TV de o-Ryouri Tsukucchao | 327610 | [327610-soreike-anpanman-o-mise-ga-ippai-tv-de-o-ryouri-tsukucchao.json](./327610-soreike-anpanman-o-mise-ga-ippai-tv-de-o-ryouri-tsukucchao.json) |
 | Soreike! Anpanman Waku-waku Eigo Game! | 327611 | [327611-soreike-anpanman-waku-waku-eigo-game.json](./327611-soreike-anpanman-waku-waku-eigo-game.json) |
 | Sorrowself | 143731 | [143731-sorrowself.json](./143731-sorrowself.json) |
+| Sorry About The Mess | 414322 | [414322-sorry-about-the-mess.json](./414322-sorry-about-the-mess.json) |
 | Sorry, We're Open | 200176 | [200176-sorry-were-open.json](./200176-sorry-were-open.json) |
 | Sorry, Wrong Door | 215931 | [215931-sorry-wrong-door.json](./215931-sorry-wrong-door.json) |
 | SortPuz | 196340 | [196340-sortpuz.json](./196340-sortpuz.json) |
@@ -2819,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku HD | 97911 | [97911-sudoku-hd.json](./97911-sudoku-hd.json) |
 | Sudoku Jigsaw | 103418 | [103418-sudoku-jigsaw.json](./103418-sudoku-jigsaw.json) |
 | Sudoku Man - Number Puzzle | 102769 | [102769-sudoku-man-number-puzzle.json](./102769-sudoku-man-number-puzzle.json) |
+| Sudoku Mansion | 414326 | [414326-sudoku-mansion.json](./414326-sudoku-mansion.json) |
 | Sudoku Master | 147968 | [147968-sudoku-master.json](./147968-sudoku-master.json) |
 | Sudoku Master | 84914 | [84914-sudoku-master.json](./84914-sudoku-master.json) |
 | Sudoku Office Style | 58254 | [58254-sudoku-office-style.json](./58254-sudoku-office-style.json) |
@@ -3202,6 +3207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nichibutsu Mahjong 2: Zenkoku Seiha-hen | 37803 | [37803-super-nichibutsu-mahjong-2-zenkoku-seiha-hen.json](./37803-super-nichibutsu-mahjong-2-zenkoku-seiha-hen.json) |
 | Super Nichibutsu Mahjong 3: Yoshimoto Gekijou-hen | 37802 | [37802-super-nichibutsu-mahjong-3-yoshimoto-gekijou-hen.json](./37802-super-nichibutsu-mahjong-3-yoshimoto-gekijou-hen.json) |
 | Super Ninja Square Attack | 87695 | [87695-super-ninja-square-attack.json](./87695-super-ninja-square-attack.json) |
+| Super Nova | 414296 | [414296-super-nova.json](./414296-super-nova.json) |
 | Super Nova Stadium | 165687 | [165687-super-nova-stadium.json](./165687-super-nova-stadium.json) |
 | Super Nudge 2000 | 72698 | [72698-super-nudge-2000.json](./72698-super-nudge-2000.json) |
 | Super Pachinko | 46663 | [46663-super-pachinko.json](./46663-super-pachinko.json) |
