@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Mosaics: Blooming Garden | 294460 | [294460-rainbow-mosaics-blooming-garden.json](./294460-rainbow-mosaics-blooming-garden.json) |
 | Rainbow Mosaics: Christmas Lights | 294459 | [294459-rainbow-mosaics-christmas-lights.json](./294459-rainbow-mosaics-christmas-lights.json) |
 | Rainbow Rockets! | 259243 | [259243-rainbow-rockets.json](./259243-rainbow-rockets.json) |
+| Rainbow Runner | 384529 | [384529-rainbow-runner.json](./384529-rainbow-runner.json) |
 | Rainbow Skies: Limited Edition | 166232 | [166232-rainbow-skies-limited-edition.json](./166232-rainbow-skies-limited-edition.json) |
 | Rainbow Slide | 233235 | [233235-rainbow-slide.json](./233235-rainbow-slide.json) |
 | Rainbow Splash | 242792 | [242792-rainbow-splash.json](./242792-rainbow-splash.json) |
@@ -881,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise & Shine | 6732 | [6732-rise-and-shine.json](./6732-rise-and-shine.json) |
 | Rise Again | 248885 | [248885-rise-again.json](./248885-rise-again.json) |
 | Rise Of Anupet | 309644 | [309644-rise-of-anupet.json](./309644-rise-of-anupet.json) |
+| Rise of Chi | 384506 | [384506-rise-of-chi.json](./384506-rise-of-chi.json) |
 | Rise of Cyber | 237628 | [237628-rise-of-cyber.json](./237628-rise-of-cyber.json) |
 | Rise of Dragonian Era | 19638 | [19638-rise-of-dragonian-era.json](./19638-rise-of-dragonian-era.json) |
 | Rise of Empire: King's Landing | 100853 | [100853-rise-of-empire-kings-landing.json](./100853-rise-of-empire-kings-landing.json) |
@@ -943,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River King: A Wonderful Journey | 20518 | [20518-river-king-a-wonderful-journey.json](./20518-river-king-a-wonderful-journey.json) |
 | River Raid 3D | 204070 | [204070-river-raid-3d.json](./204070-river-raid-3d.json) |
 | River Rescue | 23897 | [23897-river-rescue.json](./23897-river-rescue.json) |
+| River Runners | 384510 | [384510-river-runners.json](./384510-river-runners.json) |
 | Riverboat Casino | 209164 | [209164-riverboat-casino.json](./209164-riverboat-casino.json) |
 | RKR: Rush Kill Repeat | 217495 | [217495-rkr-rush-kill-repeat.json](./217495-rkr-rush-kill-repeat.json) |
 | Rktcr | 35863 | [35863-rktcr.json](./35863-rktcr.json) |
