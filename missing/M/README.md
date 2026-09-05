@@ -1598,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morning Brew: Coffee Shop Management Simulator | 326388 | [326388-morning-brew-coffee-shop-management-simulator.json](./326388-morning-brew-coffee-shop-management-simulator.json) |
 | Morning Coffee | 128615 | [128615-morning-coffee.json](./128615-morning-coffee.json) |
 | Morning Kiss | 214174 | [214174-morning-kiss.json](./214174-morning-kiss.json) |
+| Morningstar | 415929 | [415929-morningstar.json](./415929-morningstar.json) |
 | Moroi | 137050 | [137050-moroi.json](./137050-moroi.json) |
 | Morphcat Games Collection 1 | 191899 | [191899-morphcat-games-collection-1.json](./191899-morphcat-games-collection-1.json) |
 | Morphies Law | 25633 | [25633-morphies-law.json](./25633-morphies-law.json) |
