@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Story of Us: Ep. 1 - First Memories | 115043 | [115043-a-story-of-us-ep-1-first-memories.json](./115043-a-story-of-us-ep-1-first-memories.json) |
 | A Tale of Body Limbs | 331142 | [331142-a-tale-of-body-limbs.json](./331142-a-tale-of-body-limbs.json) |
 | A Tale of Caos: Overture | 32116 | [32116-a-tale-of-caos-overture.json](./32116-a-tale-of-caos-overture.json) |
+| A Tale of Fortunate Lust | 401531 | [401531-a-tale-of-fortunate-lust.json](./401531-a-tale-of-fortunate-lust.json) |
 | A Tale of Paper | 102803 | [102803-a-tale-of-paper.json](./102803-a-tale-of-paper.json) |
 | A Tale of Survival | 61100 | [61100-a-tale-of-survival.json](./61100-a-tale-of-survival.json) |
 | A Tale of Synapse: The Chaos Theories - Collector's Edition | 152341 | [152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json](./152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json) |
@@ -1036,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Wings | 102168 | [102168-angel-wings.json](./102168-angel-wings.json) |
 | Angel's Feather | 72737 | [72737-angels-feather.json](./72737-angels-feather.json) |
 | Angel's Feather: Kohaku no Hitomi | 44649 | [44649-angels-feather-kohaku-no-hitomi.json](./44649-angels-feather-kohaku-no-hitomi.json) |
+| Angel's Return | 401524 | [401524-angels-return.json](./401524-angels-return.json) |
 | Angeldust | 32892 | [32892-angeldust.json](./32892-angeldust.json) |
 | Angelian Trigger | 312331 | [312331-angelian-trigger.json](./312331-angelian-trigger.json) |
 | Angelic Vale | 202376 | [202376-angelic-vale.json](./202376-angelic-vale.json) |
@@ -1107,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Parody: Tentacle Slayer | 319978 | [319978-anime-parody-tentacle-slayer.json](./319978-anime-parody-tentacle-slayer.json) |
 | Anime Story Otome Game: Comino | 298878 | [298878-anime-story-otome-game-comino.json](./298878-anime-story-otome-game-comino.json) |
 | Anime Thighs: 18+ Content | 297774 | [297774-anime-thighs-18-content.json](./297774-anime-thighs-18-content.json) |
+| Anime Uni 3D: Hot Vacay | 401560 | [401560-anime-uni-3d-hot-vacay.json](./401560-anime-uni-3d-hot-vacay.json) |
 | Anime Vampire Slayer | 118421 | [118421-anime-vampire-slayer.json](./118421-anime-vampire-slayer.json) |
 | Anime Wave Simulator | 156668 | [156668-anime-wave-simulator.json](./156668-anime-wave-simulator.json) |
 | Animetic Story Game 1: Cardcaptor Sakura | 132867 | [132867-animetic-story-game-1-cardcaptor-sakura.json](./132867-animetic-story-game-1-cardcaptor-sakura.json) |
