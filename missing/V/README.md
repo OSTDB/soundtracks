@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Destroyer 2: Ashes | 168377 | [168377-void-destroyer-2-ashes.json](./168377-void-destroyer-2-ashes.json) |
 | Void Destroyer 2: Big Red | 168376 | [168376-void-destroyer-2-big-red.json](./168376-void-destroyer-2-big-red.json) |
 | Void Encounter | 172185 | [172185-void-encounter.json](./172185-void-encounter.json) |
+| Void Light | 387363 | [387363-void-light.json](./387363-void-light.json) |
 | Void Martyrs | 335686 | [335686-void-martyrs.json](./335686-void-martyrs.json) |
 | Void of Space | 173295 | [173295-void-of-space.json](./173295-void-of-space.json) |
 | Void Sols | 223109 | [223109-void-sols.json](./223109-void-sols.json) |
@@ -394,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volos | 93070 | [93070-volos.json](./93070-volos.json) |
 | Volt | 36350 | [36350-volt.json](./36350-volt.json) |
 | Voodoo Vince | 5466 | [5466-voodoo-vince.json](./5466-voodoo-vince.json) |
+| Voraxis | 387350 | [387350-voraxis.json](./387350-voraxis.json) |
 | Voron: Raven's Story | 235968 | [235968-voron-ravens-story.json](./235968-voron-ravens-story.json) |
 | Vortex | 81436 | [81436-vortex.json](./81436-vortex.json) |
 | Vortex Attack EX | 124235 | [124235-vortex-attack-ex.json](./124235-vortex-attack-ex.json) |
