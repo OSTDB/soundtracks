@@ -678,8 +678,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex House: Orgy Party | 273658 | [273658-sex-house-orgy-party.json](./273658-sex-house-orgy-party.json) |
 | Sex Instructor Yoga | 173830 | [173830-sex-instructor-yoga.json](./173830-sex-instructor-yoga.json) |
 | Sex Play: BDSM | 263760 | [263760-sex-play-bdsm.json](./263760-sex-play-bdsm.json) |
+| Sex Shop Simulator: X-RAY Desire | 385047 | [385047-sex-shop-simulator-x-ray-desire.json](./385047-sex-shop-simulator-x-ray-desire.json) |
+| Sex Simulator: BDSM | 385042 | [385042-sex-simulator-bdsm.json](./385042-sex-simulator-bdsm.json) |
 | Sex Simulator: CamGirl Audition 2 | 263761 | [263761-sex-simulator-camgirl-audition-2.json](./263761-sex-simulator-camgirl-audition-2.json) |
+| Sex Simulator: Dirty Doctor | 385044 | [385044-sex-simulator-dirty-doctor.json](./385044-sex-simulator-dirty-doctor.json) |
+| Sex Simulator: Gym Girls | 385041 | [385041-sex-simulator-gym-girls.json](./385041-sex-simulator-gym-girls.json) |
+| Sex Simulator: Love Room | 385046 | [385046-sex-simulator-love-room.json](./385046-sex-simulator-love-room.json) |
+| Sex Simulator: Office Affairs | 385043 | [385043-sex-simulator-office-affairs.json](./385043-sex-simulator-office-affairs.json) |
 | Sex Simulator: Office Promotion | 266493 | [266493-sex-simulator-office-promotion.json](./266493-sex-simulator-office-promotion.json) |
+| Sex Simulator: Pool Party | 385045 | [385045-sex-simulator-pool-party.json](./385045-sex-simulator-pool-party.json) |
 | Sex Story: Cuckold Life - Episode 4 | 263762 | [263762-sex-story-cuckold-life-episode-4.json](./263762-sex-story-cuckold-life-episode-4.json) |
 | Sex Story: Ruby and Hunter - Episode 4 | 256527 | [256527-sex-story-ruby-and-hunter-episode-4.json](./256527-sex-story-ruby-and-hunter-episode-4.json) |
 | Sex With Toys | 267686 | [267686-sex-with-toys.json](./267686-sex-with-toys.json) |
@@ -2361,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot the Differences: Party! | 84897 | [84897-spot-the-differences-party.json](./84897-spot-the-differences-party.json) |
 | Spot the Dot | 149563 | [149563-spot-the-dot.json](./149563-spot-the-dot.json) |
 | Spot: The Cool Adventure | 66020 | [66020-spot-the-cool-adventure.json](./66020-spot-the-cool-adventure.json) |
+| SpotCat vs. The Cheddar Mafia In The Americas | 385079 | [385079-spotcat-vs-the-cheddar-mafia-in-the-americas.json](./385079-spotcat-vs-the-cheddar-mafia-in-the-americas.json) |
 | Spotlight | 277565 | [277565-spotlight.json](./277565-spotlight.json) |
 | Spotlight: Choose Your Romance | 298871 | [298871-spotlight-choose-your-romance.json](./298871-spotlight-choose-your-romance.json) |
 | Spotlight!!! | 299479 | [299479-spotlight.json](./299479-spotlight.json) |
@@ -2855,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry | 339658 | [339658-strawberry.json](./339658-strawberry.json) |
 | Strawberry Shortcake: Sweet Dreams | 49366 | [49366-strawberry-shortcake-sweet-dreams.json](./49366-strawberry-shortcake-sweet-dreams.json) |
 | Stray Kitten | 150691 | [150691-stray-kitten.json](./150691-stray-kitten.json) |
+| Stray of Lostcat | 385078 | [385078-stray-of-lostcat.json](./385078-stray-of-lostcat.json) |
 | Stray Shot | 290715 | [290715-stray-shot.json](./290715-stray-shot.json) |
 | Stray Sketch | 339657 | [339657-stray-sketch.json](./339657-stray-sketch.json) |
 | Stray Souls: Stolen Memories | 87224 | [87224-stray-souls-stolen-memories.json](./87224-stray-souls-stolen-memories.json) |
@@ -3017,6 +3026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Mansion | 414326 | [414326-sudoku-mansion.json](./414326-sudoku-mansion.json) |
 | Sudoku Master | 147968 | [147968-sudoku-master.json](./147968-sudoku-master.json) |
 | Sudoku Master | 84914 | [84914-sudoku-master.json](./84914-sudoku-master.json) |
+| Sudoku Masters Club | 385077 | [385077-sudoku-masters-club.json](./385077-sudoku-masters-club.json) |
 | Sudoku Office Style | 58254 | [58254-sudoku-office-style.json](./58254-sudoku-office-style.json) |
 | Sudoku Party | 84915 | [84915-sudoku-party.json](./84915-sudoku-party.json) |
 | Sudoku Scapes | 105969 | [105969-sudoku-scapes.json](./105969-sudoku-scapes.json) |
@@ -3083,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summum | 181402 | [181402-summum.json](./181402-summum.json) |
 | Sumy Shelltris: Iceblocks 1 | 197388 | [197388-sumy-shelltris-iceblocks-1.json](./197388-sumy-shelltris-iceblocks-1.json) |
 | Sun City | 310176 | [310176-sun-city.json](./310176-sun-city.json) |
+| Sun Meadow | 385076 | [385076-sun-meadow.json](./385076-sun-meadow.json) |
 | Sun Rush | 244517 | [244517-sun-rush.json](./244517-sun-rush.json) |
 | Sun Temple Shootout | 87697 | [87697-sun-temple-shootout.json](./87697-sun-temple-shootout.json) |
 | Sunder | 135865 | [135865-sunder.json](./135865-sunder.json) |
