@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knife Rush | 104093 | [104093-knife-rush.json](./104093-knife-rush.json) |
 | Knife Sisters | 110158 | [110158-knife-sisters.json](./110158-knife-sisters.json) |
 | KnifeBoy: Rebooted | 225880 | [225880-knifeboy-rebooted.json](./225880-knifeboy-rebooted.json) |
+| Knight Adventure | 34315 | [34315-knight-adventure.json](./34315-knight-adventure.json) |
 | Knight and Princess | 170551 | [170551-knight-and-princess.json](./170551-knight-and-princess.json) |
 | Knight Driver | 133443 | [133443-knight-driver.json](./133443-knight-driver.json) |
 | Knight Girl: Match 3 Puzzle | 254155 | [254155-knight-girl-match-3-puzzle.json](./254155-knight-girl-match-3-puzzle.json) |
