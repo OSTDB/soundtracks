@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeti Legend: Mystery of the Forest | 294470 | [294470-yeti-legend-mystery-of-the-forest.json](./294470-yeti-legend-mystery-of-the-forest.json) |
 | Yeti Quest: Crazy Penguins | 294469 | [294469-yeti-quest-crazy-penguins.json](./294469-yeti-quest-crazy-penguins.json) |
 | Yeti's Parole Officer | 83598 | [83598-yetis-parole-officer.json](./83598-yetis-parole-officer.json) |
+| Yggdra Kingdom | 395590 | [395590-yggdra-kingdom.json](./395590-yggdra-kingdom.json) |
 | Yggdra Unison: Seiken Buyuuden | 67852 | [67852-yggdra-unison-seiken-buyuuden.json](./67852-yggdra-unison-seiken-buyuuden.json) |
 | Yggdrasill | 251851 | [251851-yggdrasill.json](./251851-yggdrasill.json) |
 | Yie Ar Kung-Fu | 18170 | [18170-yie-ar-kung-fu.json](./18170-yie-ar-kung-fu.json) |
