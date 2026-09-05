@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibi Bunny | 337459 | [337459-bibi-bunny.json](./337459-bibi-bunny.json) |
 | Bible Trivia | 278164 | [278164-bible-trivia.json](./278164-bible-trivia.json) |
 | Biblistry | 58797 | [58797-biblistry.json](./58797-biblistry.json) |
+| Bibou | 32916 | [32916-bibou.json](./32916-bibou.json) |
 | Bicycle Casino | 5747 | [5747-bicycle-casino.json](./5747-bicycle-casino.json) |
 | Big Ball Sports | 275876 | [275876-big-ball-sports.json](./275876-big-ball-sports.json) |
 | Big Bang Pro Wrestling | 43972 | [43972-big-bang-pro-wrestling.json](./43972-big-bang-pro-wrestling.json) |
