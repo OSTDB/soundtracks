@@ -632,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of the Mini-taur | 185126 | [185126-maze-of-the-mini-taur.json](./185126-maze-of-the-mini-taur.json) |
 | Maze Runner | 72108 | [72108-maze-runner.json](./72108-maze-runner.json) |
 | MazeBrew | 242771 | [242771-mazebrew.json](./242771-mazebrew.json) |
+| Mazemerizzz II | 389997 | [389997-mazemerizzz-ii.json](./389997-mazemerizzz-ii.json) |
 | MazeQuest 2 | 109641 | [109641-mazequest-2.json](./109641-mazequest-2.json) |
 | Mazer Laser | 319341 | [319341-mazer-laser.json](./319341-mazer-laser.json) |
 | Mazes and Mages 2 | 121778 | [121778-mazes-and-mages-2.json](./121778-mazes-and-mages-2.json) |
@@ -801,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mello Haunted House | 207497 | [207497-mello-haunted-house.json](./207497-mello-haunted-house.json) |
 | Melodive | 125465 | [125465-melodive.json](./125465-melodive.json) |
 | Melody | 414285 | [414285-melody.json](./414285-melody.json) |
+| Melody Friends | 389980 | [389980-melody-friends.json](./389980-melody-friends.json) |
 | Melody Mania | 247782 | [247782-melody-mania.json](./247782-melody-mania.json) |
 | Melody of the Light | 181909 | [181909-melody-of-the-light.json](./181909-melody-of-the-light.json) |
 | Melody's Escape 2 | 217497 | [217497-melodys-escape-2.json](./217497-melodys-escape-2.json) |
@@ -1190,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindwheel | 25778 | [25778-mindwheel.json](./25778-mindwheel.json) |
 | Mine Blast | 96758 | [96758-mine-blast.json](./96758-mine-blast.json) |
 | Mine Defense | 412313 | [412313-mine-defense.json](./412313-mine-defense.json) |
+| Mine of My Mind | 389970 | [389970-mine-of-my-mind.json](./389970-mine-of-my-mind.json) |
 | Mine Quest | 196868 | [196868-mine-quest.json](./196868-mine-quest.json) |
 | Mine Seeker | 89965 | [89965-mine-seeker.json](./89965-mine-seeker.json) |
 | Mine Sweeper | 252359 | [252359-mine-sweeper.json](./252359-mine-sweeper.json) |
@@ -1315,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miscrits: Volcano Island | 98465 | [98465-miscrits-volcano-island.json](./98465-miscrits-volcano-island.json) |
 | Mishap: An Accidental Haunting | 16162 | [16162-mishap-an-accidental-haunting.json](./16162-mishap-an-accidental-haunting.json) |
 | Misk Schools Quest | 187516 | [187516-misk-schools-quest.json](./187516-misk-schools-quest.json) |
+| Miskatonic | 389973 | [389973-miskatonic.json](./389973-miskatonic.json) |
 | Miss | 242777 | [242777-miss.json](./242777-miss.json) |
 | Miss Mantis | 307288 | [307288-miss-mantis.json](./307288-miss-mantis.json) |
 | Missile Base | 13740 | [13740-missile-base.json](./13740-missile-base.json) |
