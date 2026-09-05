@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You're Grounded! | 322355 | [322355-youre-grounded.json](./322355-youre-grounded.json) |
 | You're Mine! | 303275 | [303275-youre-mine.json](./303275-youre-mine.json) |
 | You're My Hero | 55934 | [55934-youre-my-hero.json](./55934-youre-my-hero.json) |
+| You're the Boss | 415950 | [415950-youre-the-boss.json](./415950-youre-the-boss.json) |
 | Young Detective | 196304 | [196304-young-detective.json](./196304-young-detective.json) |
 | Young Justice Shadow Mission | 80565 | [80565-young-justice-shadow-mission.json](./80565-young-justice-shadow-mission.json) |
 | Young Street | 251240 | [251240-young-street.json](./251240-young-street.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yukkuri Labo: Touhou Yukkuri no Ragdoll Simulator Game | 220302 | [220302-yukkuri-labo-touhou-yukkuri-no-ragdoll-simulator-game.json](./220302-yukkuri-labo-touhou-yukkuri-no-ragdoll-simulator-game.json) |
 | Yukti | 174360 | [174360-yukti.json](./174360-yukti.json) |
 | Yuldigard's Fate | 133463 | [133463-yuldigards-fate.json](./133463-yuldigards-fate.json) |
+| Yuletide Legends: Frozen Hearts | 415949 | [415949-yuletide-legends-frozen-hearts.json](./415949-yuletide-legends-frozen-hearts.json) |
 | Yum Yummy Superlicious | 96736 | [96736-yum-yummy-superlicious.json](./96736-yum-yummy-superlicious.json) |
 | YuMayhem | 292861 | [292861-yumayhem.json](./292861-yumayhem.json) |
 | Yume 3 | 258176 | [258176-yume-3.json](./258176-yume-3.json) |
