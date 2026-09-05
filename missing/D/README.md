@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Dive: The Last Tropic | 277021 | [277021-dark-dive-the-last-tropic.json](./277021-dark-dive-the-last-tropic.json) |
 | Dark Fairy Fantasy | 122432 | [122432-dark-fairy-fantasy.json](./122432-dark-fairy-fantasy.json) |
 | Dark Farm | 322995 | [322995-dark-farm.json](./322995-dark-farm.json) |
+| Dark Forester | 35760 | [35760-dark-forester.json](./35760-dark-forester.json) |
 | Dark Horizon | 19639 | [19639-dark-horizon.json](./19639-dark-horizon.json) |
 | Dark Hours | 251843 | [251843-dark-hours.json](./251843-dark-hours.json) |
 | Dark Hunter | 311784 | [311784-dark-hunter.json](./311784-dark-hunter.json) |
@@ -530,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Déjà Vu I | 310192 | [310192-deja-vu-i.json](./310192-deja-vu-i.json) |
 | Déjà Vu II | 310193 | [310193-deja-vu-ii.json](./310193-deja-vu-ii.json) |
 | Deja Vu II: MacVenture Series | 35914 | [35914-deja-vu-ii-macventure-series.json](./35914-deja-vu-ii-macventure-series.json) |
+| Deja Vu: MacVenture Series | 35913 | [35913-deja-vu-macventure-series.json](./35913-deja-vu-macventure-series.json) |
 | Dekisugi Tingle Pack | 100169 | [100169-dekisugi-tingle-pack.json](./100169-dekisugi-tingle-pack.json) |
 | Dekoboko Densetsu: Hashiru Wagamanma | 145674 | [145674-dekoboko-densetsu-hashiru-wagamanma.json](./145674-dekoboko-densetsu-hashiru-wagamanma.json) |
 | Delaware St. John: Volume 1 - The Curse of Midnight Manor / Volume 2: The Town with No Name | 93050 | [93050-delaware-st-john-volume-1-the-curse-of-midnight-manor-volume-2-the-town-with-no-name.json](./93050-delaware-st-john-volume-1-the-curse-of-midnight-manor-volume-2-the-town-with-no-name.json) |
