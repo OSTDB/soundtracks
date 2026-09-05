@@ -1151,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poo Pusher | 309690 | [309690-poo-pusher.json](./309690-poo-pusher.json) |
 | Poogers | 223131 | [223131-poogers.json](./223131-poogers.json) |
 | Pool Adventure | 191221 | [191221-pool-adventure.json](./191221-pool-adventure.json) |
+| Pool Fiction | 402910 | [402910-pool-fiction.json](./402910-pool-fiction.json) |
 | Pool Glow | 413629 | [413629-pool-glow.json](./413629-pool-glow.json) |
 | Pool Paradise: International Edition | 43295 | [43295-pool-paradise-international-edition.json](./43295-pool-paradise-international-edition.json) |
 | Pool Together Bundle | 315842 | [315842-pool-together-bundle.json](./315842-pool-together-bundle.json) |
