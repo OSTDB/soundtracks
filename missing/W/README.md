@@ -349,6 +349,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Sweety | 127019 | [127019-west-sweety.json](./127019-west-sweety.json) |
 | Western Bank VR | 76678 | [76678-western-bank-vr.json](./76678-western-bank-vr.json) |
 | WestHalla | 257681 | [257681-westhalla.json](./257681-westhalla.json) |
+| Westland Survival: Albino Alligator | 383360 | [383360-westland-survival-albino-alligator.json](./383360-westland-survival-albino-alligator.json) |
+| Westland Survival: Uncle Gab’s Signet | 383362 | [383362-westland-survival-uncle-gab-s-signet.json](./383362-westland-survival-uncle-gab-s-signet.json) |
+| Westland Survival: Wind Spirit | 383361 | [383361-westland-survival-wind-spirit.json](./383361-westland-survival-wind-spirit.json) |
 | Westward III: Gold Rush | 59436 | [59436-westward-iii-gold-rush.json](./59436-westward-iii-gold-rush.json) |
 | Westward Journey Online | 62181 | [62181-westward-journey-online.json](./62181-westward-journey-online.json) |
 | Wet Waifu | 161367 | [161367-wet-waifu.json](./161367-wet-waifu.json) |
@@ -399,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When the Barn Sleeps | 389998 | [389998-when-the-barn-sleeps.json](./389998-when-the-barn-sleeps.json) |
 | When the Lying Petals Scatter Into the Wind | 155104 | [155104-when-the-lying-petals-scatter-into-the-wind.json](./155104-when-the-lying-petals-scatter-into-the-wind.json) |
 | When the Shutter Stops | 109713 | [109713-when-the-shutter-stops.json](./109713-when-the-shutter-stops.json) |
+| When The Snow is Gone | 383352 | [383352-when-the-snow-is-gone.json](./383352-when-the-snow-is-gone.json) |
 | When you're gone | 37192 | [37192-when-youre-gone.json](./37192-when-youre-gone.json) |
 | Where Birds Sleep | 136451 | [136451-where-birds-sleep.json](./136451-where-birds-sleep.json) |
 | Where in Space is Carmen Sandiego?: Deluxe Edition | 73309 | [73309-where-in-space-is-carmen-sandiego-deluxe-edition.json](./73309-where-in-space-is-carmen-sandiego-deluxe-edition.json) |
