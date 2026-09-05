@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Hunter | 192954 | [192954-banana-hunter.json](./192954-banana-hunter.json) |
 | Banana Kong | 63881 | [63881-banana-kong.json](./63881-banana-kong.json) |
 | Banana Kong 2 | 209711 | [209711-banana-kong-2.json](./209711-banana-kong-2.json) |
+| Banana Kong Blast | 375828 | [375828-banana-kong-blast.json](./375828-banana-kong-blast.json) |
 | Banana Party | 390008 | [390008-banana-party.json](./390008-banana-party.json) |
 | Banana Ranch | 303267 | [303267-banana-ranch.json](./303267-banana-ranch.json) |
 | Bananarun | 157698 | [157698-bananarun.json](./157698-bananarun.json) |
