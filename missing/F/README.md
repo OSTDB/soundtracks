@@ -739,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flicky | 275907 | [275907-flicky.json](./275907-flicky.json) |
 | Flicky | 275909 | [275909-flicky.json](./275909-flicky.json) |
 | Flicky | 275910 | [275910-flicky.json](./275910-flicky.json) |
+| Flies. | 412280 | [412280-flies.json](./412280-flies.json) |
 | Flight Commander 2 | 73854 | [73854-flight-commander-2.json](./73854-flight-commander-2.json) |
 | Flight of a Dragon | 270406 | [270406-flight-of-a-dragon.json](./270406-flight-of-a-dragon.json) |
 | Flight of the Amazon Queen | 8789 | [8789-flight-of-the-amazon-queen.json](./8789-flight-of-the-amazon-queen.json) |
