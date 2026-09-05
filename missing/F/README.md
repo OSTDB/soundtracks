@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fateful Destiny | 323504 | [323504-fateful-destiny.json](./323504-fateful-destiny.json) |
 | Fateline | 121003 | [121003-fateline.json](./121003-fateline.json) |
 | Father and Son | 97361 | [97361-father-and-son.json](./97361-father-and-son.json) |
+| Father's Island | 33072 | [33072-fathers-island.json](./33072-fathers-island.json) |
 | Fathom | 10966 | [10966-fathom.json](./10966-fathom.json) |
 | Fatrifice | 244496 | [244496-fatrifice.json](./244496-fatrifice.json) |
 | FatSheep Crisis | 247763 | [247763-fatsheep-crisis.json](./247763-fatsheep-crisis.json) |
@@ -464,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Armada | 43297 | [43297-final-armada.json](./43297-final-armada.json) |
 | Final Blockade | 203567 | [203567-final-blockade.json](./203567-final-blockade.json) |
 | Final Bravely | 29899 | [29899-final-bravely.json](./29899-final-bravely.json) |
+| Final Days | 33101 | [33101-final-days.json](./33101-final-days.json) |
 | Final Doom | 8191 | [8191-final-doom.json](./8191-final-doom.json) |
 | Final Factory | 236524 | [236524-final-factory.json](./236524-final-factory.json) |
 | Final Failure | 93629 | [93629-final-failure.json](./93629-final-failure.json) |
