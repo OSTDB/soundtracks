@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JNZ: Nightmare Girls | 340773 | [340773-jnz-nightmare-girls.json](./340773-jnz-nightmare-girls.json) |
 | Jo's Dream: Organic Coffee | 123638 | [123638-jos-dream-organic-coffee.json](./123638-jos-dream-organic-coffee.json) |
 | Joan Jade and the Gates of Xibalba | 53248 | [53248-joan-jade-and-the-gates-of-xibalba.json](./53248-joan-jade-and-the-gates-of-xibalba.json) |
+| Job Fit For a Devil | 369044 | [369044-job-fit-for-a-devil.json](./369044-job-fit-for-a-devil.json) |
 | Job Hunter 202X | 375822 | [375822-job-hunter-202x.json](./375822-job-hunter-202x.json) |
 | Jobifai | 340774 | [340774-jobifai.json](./340774-jobifai.json) |
 | Jockey's Road | 62228 | [62228-jockeys-road.json](./62228-jockeys-road.json) |
