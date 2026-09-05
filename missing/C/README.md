@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CEdges | 68678 | [68678-cedges.json](./68678-cedges.json) |
 | Cedric & Odious | 328270 | [328270-cedric-and-odious.json](./328270-cedric-and-odious.json) |
 | Cel Damage 2 | 143110 | [143110-cel-damage-2.json](./143110-cel-damage-2.json) |
+| Celebrating Lotería! | 375816 | [375816-celebrating-loteria.json](./375816-celebrating-loteria.json) |
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
 | Celestial Fragments | 396219 | [396219-celestial-fragments.json](./396219-celestial-fragments.json) |
 | Celestial Heights | 180820 | [180820-celestial-heights.json](./180820-celestial-heights.json) |
@@ -990,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClanRivals: Vikings | 159876 | [159876-clanrivals-vikings.json](./159876-clanrivals-vikings.json) |
 | Clans | 17121 | [17121-clans.json](./17121-clans.json) |
 | Clappy Cheeks: Lust and Magic | 379351 | [379351-clappy-cheeks-lust-and-magic.json](./379351-clappy-cheeks-lust-and-magic.json) |
+| Clara Rockmore’s 105th Birthday | 375819 | [375819-clara-rockmore-s-105th-birthday.json](./375819-clara-rockmore-s-105th-birthday.json) |
 | Clarc | 11047 | [11047-clarc.json](./11047-clarc.json) |
 | Clarent Saga: Tactics | 135271 | [135271-clarent-saga-tactics.json](./135271-clarent-saga-tactics.json) |
 | Clash of Champs | 56529 | [56529-clash-of-champs.json](./56529-clash-of-champs.json) |
@@ -1502,6 +1504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupt | 67916 | [67916-corrupt.json](./67916-corrupt.json) |
 | Corrupt Life | 98457 | [98457-corrupt-life.json](./98457-corrupt-life.json) |
 | Corrupt Political | 219302 | [219302-corrupt-political.json](./219302-corrupt-political.json) |
+| Corrupted Basement | 375810 | [375810-corrupted-basement.json](./375810-corrupted-basement.json) |
 | Corrupted Dice | 405520 | [405520-corrupted-dice.json](./405520-corrupted-dice.json) |
 | Corrupted Universe Cries Quietly | 269282 | [269282-corrupted-universe-cries-quietly.json](./269282-corrupted-universe-cries-quietly.json) |
 | Corruption | 101599 | [101599-corruption.json](./101599-corruption.json) |
@@ -2026,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Deflection | 404204 | [404204-curse-of-deflection.json](./404204-curse-of-deflection.json) |
 | Curse of Issyos | 137101 | [137101-curse-of-issyos.json](./137101-curse-of-issyos.json) |
 | Curse of the Deadwood | 172152 | [172152-curse-of-the-deadwood.json](./172152-curse-of-the-deadwood.json) |
+| Curse of The Lineage | 375835 | [375835-curse-of-the-lineage.json](./375835-curse-of-the-lineage.json) |
 | Curse of the Sea Rats | 121712 | [121712-curse-of-the-sea-rats.json](./121712-curse-of-the-sea-rats.json) |
 | Curse of the Shadow | 390519 | [390519-curse-of-the-shadow.json](./390519-curse-of-the-shadow.json) |
 | Curse of the Shadow Samurai | 254761 | [254761-curse-of-the-shadow-samurai.json](./254761-curse-of-the-shadow-samurai.json) |
