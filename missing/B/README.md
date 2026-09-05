@@ -284,6 +284,31 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Sonic (Game Ichizoku) | 329351 | [329351-barcode-battler-ii-shogaku-ninensei-special-barcode-card-sonic-game-ichizoku.json](./329351-barcode-battler-ii-shogaku-ninensei-special-barcode-card-sonic-game-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Ultraman (Hero Ichizoku) | 329359 | [329359-barcode-battler-ii-shogaku-ninensei-special-barcode-card-ultraman-hero-ichizoku.json](./329359-barcode-battler-ii-shogaku-ninensei-special-barcode-card-ultraman-hero-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Yossy (Game Ichizoku) | 329348 | [329348-barcode-battler-ii-shogaku-ninensei-special-barcode-card-yossy-game-ichizoku.json](./329348-barcode-battler-ii-shogaku-ninensei-special-barcode-card-yossy-game-ichizoku.json) |
+| Barcode Battler II: Street Fighter II - 14. Joudanshuu | 387996 | [387996-barcode-battler-ii-street-fighter-ii-14-joudanshuu.json](./387996-barcode-battler-ii-street-fighter-ii-14-joudanshuu.json) |
+| Barcode Battler II: Street Fighter II - 15. Moto Den Ansatsuke | 387997 | [387997-barcode-battler-ii-street-fighter-ii-15-moto-den-ansatsuke.json](./387997-barcode-battler-ii-street-fighter-ii-15-moto-den-ansatsuke.json) |
+| Barcode Battler II: Street Fighter II - 16. Hishou Ashi | 387998 | [387998-barcode-battler-ii-street-fighter-ii-16-hishou-ashi.json](./387998-barcode-battler-ii-street-fighter-ii-16-hishou-ashi.json) |
+| Barcode Battler II: Street Fighter II - 17. Sonic Boom | 388014 | [388014-barcode-battler-ii-street-fighter-ii-17-sonic-boom.json](./388014-barcode-battler-ii-street-fighter-ii-17-sonic-boom.json) |
+| Barcode Battler II: Street Fighter II - 18. Somersault Kick | 388015 | [388015-barcode-battler-ii-street-fighter-ii-18-somersault-kick.json](./388015-barcode-battler-ii-street-fighter-ii-18-somersault-kick.json) |
+| Barcode Battler II: Street Fighter II - 19. Dragon Suplex | 388016 | [388016-barcode-battler-ii-street-fighter-ii-19-dragon-suplex.json](./388016-barcode-battler-ii-street-fighter-ii-19-dragon-suplex.json) |
+| Barcode Battler II: Street Fighter II - 20. Flying Buster Drop | 388017 | [388017-barcode-battler-ii-street-fighter-ii-20-flying-buster-drop.json](./388017-barcode-battler-ii-street-fighter-ii-20-flying-buster-drop.json) |
+| Barcode Battler II: Street Fighter II - 21. Flying Mare | 388019 | [388019-barcode-battler-ii-street-fighter-ii-21-flying-mare.json](./388019-barcode-battler-ii-street-fighter-ii-21-flying-mare.json) |
+| Barcode Battler II: Street Fighter II - 22. Jump Punch | 388020 | [388020-barcode-battler-ii-street-fighter-ii-22-jump-punch.json](./388020-barcode-battler-ii-street-fighter-ii-22-jump-punch.json) |
+| Barcode Battler II: Street Fighter II - 23. Jumping Heel Kick | 388021 | [388021-barcode-battler-ii-street-fighter-ii-23-jumping-heel-kick.json](./388021-barcode-battler-ii-street-fighter-ii-23-jumping-heel-kick.json) |
+| Barcode Battler II: Street Fighter II - 24. Guile Kick | 388022 | [388022-barcode-battler-ii-street-fighter-ii-24-guile-kick.json](./388022-barcode-battler-ii-street-fighter-ii-24-guile-kick.json) |
+| Barcode Battler II: Street Fighter II - 25. Yoga Fire | 388023 | [388023-barcode-battler-ii-street-fighter-ii-25-yoga-fire.json](./388023-barcode-battler-ii-street-fighter-ii-25-yoga-fire.json) |
+| Barcode Battler II: Street Fighter II - 26. Yoga Flame | 388024 | [388024-barcode-battler-ii-street-fighter-ii-26-yoga-flame.json](./388024-barcode-battler-ii-street-fighter-ii-26-yoga-flame.json) |
+| Barcode Battler II: Street Fighter II - 27. Yoga Throw | 388025 | [388025-barcode-battler-ii-street-fighter-ii-27-yoga-throw.json](./388025-barcode-battler-ii-street-fighter-ii-27-yoga-throw.json) |
+| Barcode Battler II: Street Fighter II - 28. Drill Zudzuki | 388027 | [388027-barcode-battler-ii-street-fighter-ii-28-drill-zudzuki.json](./388027-barcode-battler-ii-street-fighter-ii-28-drill-zudzuki.json) |
+| Barcode Battler II: Street Fighter II - 29. Drill Kick | 388028 | [388028-barcode-battler-ii-street-fighter-ii-29-drill-kick.json](./388028-barcode-battler-ii-street-fighter-ii-29-drill-kick.json) |
+| Barcode Battler II: Street Fighter II - 30. Jump Zoom Punch | 388029 | [388029-barcode-battler-ii-street-fighter-ii-30-jump-zoom-punch.json](./388029-barcode-battler-ii-street-fighter-ii-30-jump-zoom-punch.json) |
+| Barcode Battler II: Street Fighter II - 31. Sliding | 388030 | [388030-barcode-battler-ii-street-fighter-ii-31-sliding.json](./388030-barcode-battler-ii-street-fighter-ii-31-sliding.json) |
+| Barcode Battler II: Street Fighter II - 32. Rolling Attack | 388031 | [388031-barcode-battler-ii-street-fighter-ii-32-rolling-attack.json](./388031-barcode-battler-ii-street-fighter-ii-32-rolling-attack.json) |
+| Barcode Battler II: Street Fighter II - 33. Thunder Spark | 388032 | [388032-barcode-battler-ii-street-fighter-ii-33-thunder-spark.json](./388032-barcode-battler-ii-street-fighter-ii-33-thunder-spark.json) |
+| Barcode Battler II: Street Fighter II - 34. Wild Fang | 388033 | [388033-barcode-battler-ii-street-fighter-ii-34-wild-fang.json](./388033-barcode-battler-ii-street-fighter-ii-34-wild-fang.json) |
+| Barcode Battler II: Street Fighter II - 35. Rock Crush | 388034 | [388034-barcode-battler-ii-street-fighter-ii-35-rock-crush.json](./388034-barcode-battler-ii-street-fighter-ii-35-rock-crush.json) |
+| Barcode Battler II: Street Fighter II - 36. Bear Claw | 388035 | [388035-barcode-battler-ii-street-fighter-ii-36-bear-claw.json](./388035-barcode-battler-ii-street-fighter-ii-36-bear-claw.json) |
+| Barcode Battler II: Street Fighter II - 37. Double Knee Bomber | 388036 | [388036-barcode-battler-ii-street-fighter-ii-37-double-knee-bomber.json](./388036-barcode-battler-ii-street-fighter-ii-37-double-knee-bomber.json) |
+| Barcode Battler II: Street Fighter II - 38. Rolling Nail | 388037 | [388037-barcode-battler-ii-street-fighter-ii-38-rolling-nail.json](./388037-barcode-battler-ii-street-fighter-ii-38-rolling-nail.json) |
 | Barcode Knight | 173808 | [173808-barcode-knight.json](./173808-barcode-knight.json) |
 | Bardarts | 141222 | [141222-bardarts.json](./141222-bardarts.json) |
 | Bardo | 109727 | [109727-bardo.json](./109727-bardo.json) |
