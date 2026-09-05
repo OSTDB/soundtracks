@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retention: A Love Story | 149597 | [149597-retention-a-love-story.json](./149597-retention-a-love-story.json) |
 | Retired Men's Nude Beach Volleyball League | 163452 | [163452-retired-mens-nude-beach-volleyball-league.json](./163452-retired-mens-nude-beach-volleyball-league.json) |
 | Retooled | 204071 | [204071-retooled.json](./204071-retooled.json) |
+| Retr0Mine | 386704 | [386704-retr0mine.json](./386704-retr0mine.json) |
 | Retrieving the Past: Steam Edition | 195241 | [195241-retrieving-the-past-steam-edition.json](./195241-retrieving-the-past-steam-edition.json) |
 | Retro Asylum | 409559 | [409559-retro-asylum.json](./409559-retro-asylum.json) |
 | Retro Clicker | 149603 | [149603-retro-clicker.json](./149603-retro-clicker.json) |
@@ -1014,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Vacuum Simulator X | 130370 | [130370-robot-vacuum-simulator-x.json](./130370-robot-vacuum-simulator-x.json) |
 | Robot-X | 192440 | [192440-robot-x.json](./192440-robot-x.json) |
 | Robotek | 87699 | [87699-robotek.json](./87699-robotek.json) |
+| Robotic Arm Simulator | 386697 | [386697-robotic-arm-simulator.json](./386697-robotic-arm-simulator.json) |
 | Robotron: 2084 | 3592 | [3592-robotron-2084.json](./3592-robotron-2084.json) |
 | Robots 2 Unknown World | 105369 | [105369-robots-2-unknown-world.json](./105369-robots-2-unknown-world.json) |
 | Robovenger | 192421 | [192421-robovenger.json](./192421-robovenger.json) |
@@ -1125,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogueline | 209659 | [209659-rogueline.json](./209659-rogueline.json) |
 | RogueLive | 291769 | [291769-roguelive.json](./291769-roguelive.json) |
 | Roguesphere | 297227 | [297227-roguesphere.json](./297227-roguesphere.json) |
+| Rogum: A Cat Match Puzzle | 386691 | [386691-rogum-a-cat-match-puzzle.json](./386691-rogum-a-cat-match-puzzle.json) |
 | Rogun Arena | 165046 | [165046-rogun-arena.json](./165046-rogun-arena.json) |
 | Rogunky | 333376 | [333376-rogunky.json](./333376-rogunky.json) |
 | Rohga: Armor Force | 40260 | [40260-rohga-armor-force.json](./40260-rohga-armor-force.json) |
@@ -1250,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roped In | 300412 | [300412-roped-in.json](./300412-roped-in.json) |
 | Ropes and Dragons VR | 29901 | [29901-ropes-and-dragons-vr.json](./29901-ropes-and-dragons-vr.json) |
 | Roppongi Sadistic Night | 395566 | [395566-roppongi-sadistic-night.json](./395566-roppongi-sadistic-night.json) |
+| Ropuka | 386712 | [386712-ropuka.json](./386712-ropuka.json) |
 | Rorke's Drift | 72107 | [72107-rorkes-drift.json](./72107-rorkes-drift.json) |
 | Rorry's Race | 335110 | [335110-rorrys-race.json](./335110-rorrys-race.json) |
 | Rosa Musou | 214765 | [214765-rosa-musou.json](./214765-rosa-musou.json) |
