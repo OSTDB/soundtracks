@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XCOM 2: Shen's Last Gift | 19859 | [19859-xcom-2-shens-last-gift.json](./19859-xcom-2-shens-last-gift.json) |
 | xDasher | 132261 | [132261-xdasher.json](./132261-xdasher.json) |
 | XDefiant | 159029 | [159029-xdefiant.json](./159029-xdefiant.json) |
+| XeGrader Plus | 388057 | [388057-xegrader-plus.json](./388057-xegrader-plus.json) |
 | Xel: Breaking Time | 246632 | [246632-xel-breaking-time.json](./246632-xel-breaking-time.json) |
 | Xel: Complete Edition | 246633 | [246633-xel-complete-edition.json](./246633-xel-complete-edition.json) |
 | Xemo: Robot Sim | 30939 | [30939-xemo-robot-sim.json](./30939-xemo-robot-sim.json) |
