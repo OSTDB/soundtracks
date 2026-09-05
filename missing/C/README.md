@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos of Fallen City | 159864 | [159864-chaos-of-fallen-city.json](./159864-chaos-of-fallen-city.json) |
 | Chaos Road | 158229 | [158229-chaos-road.json](./158229-chaos-road.json) |
 | Chaos Starter | 116876 | [116876-chaos-starter.json](./116876-chaos-starter.json) |
+| Chaos Warrior | 415933 | [415933-chaos-warrior.json](./415933-chaos-warrior.json) |
 | Chaos Wars | 21051 | [21051-chaos-wars.json](./21051-chaos-wars.json) |
 | Chaos World | 7904 | [7904-chaos-world.json](./7904-chaos-world.json) |
 | Chaos Zero Nightmare | 350249 | [350249-chaos-zero-nightmare.json](./350249-chaos-zero-nightmare.json) |
@@ -1566,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CreateTech | 127359 | [127359-createtech.json](./127359-createtech.json) |
 | Creativerse | 17112 | [17112-creativerse.json](./17112-creativerse.json) |
 | Creature Battle Simulator | 265388 | [265388-creature-battle-simulator.json](./265388-creature-battle-simulator.json) |
+| Creature Crawl | 415903 | [415903-creature-crawl.json](./415903-creature-crawl.json) |
 | Creature Crunch | 7731 | [7731-creature-crunch.json](./7731-creature-crunch.json) |
 | Creature Hunt | 116472 | [116472-creature-hunt.json](./116472-creature-hunt.json) |
 | Creature Hunter | 199659 | [199659-creature-hunter.json](./199659-creature-hunter.json) |
