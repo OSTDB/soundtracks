@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flempire | 224248 | [224248-flempire.json](./224248-flempire.json) |
 | Flesh & Spirit | 383365 | [383365-flesh-and-spirit.json](./383365-flesh-and-spirit.json) |
 | Flesh Eating Geriatric Internet Predator | 144308 | [144308-flesh-eating-geriatric-internet-predator.json](./144308-flesh-eating-geriatric-internet-predator.json) |
+| Flesh Made Fear: Summer in Rotwood | 375804 | [375804-flesh-made-fear-summer-in-rotwood.json](./375804-flesh-made-fear-summer-in-rotwood.json) |
 | Fleshgrinder | 415905 | [415905-fleshgrinder.json](./415905-fleshgrinder.json) |
 | Flexibility and Girls | 147979 | [147979-flexibility-and-girls.json](./147979-flexibility-and-girls.json) |
 | Flexible Survival | 60023 | [60023-flexible-survival.json](./60023-flexible-survival.json) |
