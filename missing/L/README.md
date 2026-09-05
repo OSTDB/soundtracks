@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laundry Simulator | 326396 | [326396-laundry-simulator.json](./326396-laundry-simulator.json) |
 | Laura's Happy Adventures | 66703 | [66703-lauras-happy-adventures.json](./66703-lauras-happy-adventures.json) |
 | Lauras Tierklinik | 163974 | [163974-lauras-tierklinik.json](./163974-lauras-tierklinik.json) |
+| Laurel's Day | 393486 | [393486-laurels-day.json](./393486-laurels-day.json) |
 | Lava-Runners | 331680 | [331680-lava-runners.json](./331680-lava-runners.json) |
 | Lavalads | 402268 | [402268-lavalads.json](./402268-lavalads.json) |
 | Lavapools | 25000 | [25000-lavapools.json](./25000-lavapools.json) |
