@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Encounter | 172185 | [172185-void-encounter.json](./172185-void-encounter.json) |
 | Void Light | 387363 | [387363-void-light.json](./387363-void-light.json) |
 | Void Martyrs | 335686 | [335686-void-martyrs.json](./335686-void-martyrs.json) |
+| Void Miner | 385580 | [385580-void-miner.json](./385580-void-miner.json) |
 | Void of Space | 173295 | [173295-void-of-space.json](./173295-void-of-space.json) |
 | Void Sols | 223109 | [223109-void-sols.json](./223109-void-sols.json) |
 | Void/Breaker | 339626 | [339626-void-breaker.json](./339626-void-breaker.json) |
