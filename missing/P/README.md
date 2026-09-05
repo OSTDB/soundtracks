@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PapiFlap | 87249 | [87249-papiflap.json](./87249-papiflap.json) |
 | PapiJump | 72701 | [72701-papijump.json](./72701-papijump.json) |
 | PapiMountain | 87234 | [87234-papimountain.json](./87234-papimountain.json) |
+| PapiTap | 87528 | [87528-papitap.json](./87528-papitap.json) |
 | Papo & Yo | 7388 | [7388-papo-and-yo.json](./7388-papo-and-yo.json) |
 | Par 1 Golf 10 | 200181 | [200181-par-1-golf-10.json](./200181-par-1-golf-10.json) |
 | Para-sol | 309651 | [309651-para-sol.json](./309651-para-sol.json) |
@@ -404,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Grind | 200746 | [200746-perfect-grind.json](./200746-perfect-grind.json) |
 | Perfect Heist 2: Historic Characters DLC | 274740 | [274740-perfect-heist-2-historic-characters-dlc.json](./274740-perfect-heist-2-historic-characters-dlc.json) |
 | Perfect Split | 173804 | [173804-perfect-split.json](./173804-perfect-split.json) |
+| Perfect Tower | 87670 | [87670-perfect-tower.json](./87670-perfect-tower.json) |
 | Perfect Universe | 15842 | [15842-perfect-universe.json](./15842-perfect-universe.json) |
 | Perfect World | 8747 | [8747-perfect-world.json](./8747-perfect-world.json) |
 | Perfection | 239906 | [239906-perfection.json](./239906-perfection.json) |
@@ -1635,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Vacations: Italy | 322976 | [322976-puzzle-vacations-italy.json](./322976-puzzle-vacations-italy.json) |
 | Puzzle Wars | 337984 | [337984-puzzle-wars.json](./337984-puzzle-wars.json) |
 | Puzzle World: Cute Monsters | 203525 | [203525-puzzle-world-cute-monsters.json](./203525-puzzle-world-cute-monsters.json) |
+| Puzzle XL | 87705 | [87705-puzzle-xl.json](./87705-puzzle-xl.json) |
 | Puzzle: Birds | 114363 | [114363-puzzle-birds.json](./114363-puzzle-birds.json) |
 | Puzzle: Birds - Puzzle Pack: 10 Birds | 163462 | [163462-puzzle-birds-puzzle-pack-10-birds.json](./163462-puzzle-birds-puzzle-pack-10-birds.json) |
 | Puzzle: Cats & Dogs - Puzzle Pack: Summer Dogs | 163463 | [163463-puzzle-cats-and-dogs-puzzle-pack-summer-dogs.json](./163463-puzzle-cats-and-dogs-puzzle-pack-summer-dogs.json) |
