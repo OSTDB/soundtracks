@@ -631,6 +631,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Wars | 324081 | [324081-nintendo-wars.json](./324081-nintendo-wars.json) |
 | Nintendogs + Cats: French Bulldog & New Friends | 85600 | [85600-nintendogs-cats-french-bulldog-and-new-friends.json](./85600-nintendogs-cats-french-bulldog-and-new-friends.json) |
 | Nintendogs: Best Friends | 47727 | [47727-nintendogs-best-friends.json](./47727-nintendogs-best-friends.json) |
+| Nioh 3: Bloody Insurrection | 411562 | [411562-nioh-3-bloody-insurrection.json](./411562-nioh-3-bloody-insurrection.json) |
+| Nioh 3: Hell Rising | 411561 | [411561-nioh-3-hell-rising.json](./411561-nioh-3-hell-rising.json) |
 | Nios | 189161 | [189161-nios.json](./189161-nios.json) |
 | Nira | 126207 | [126207-nira.json](./126207-nira.json) |
 | NIRA Intense Import Drag Racing | 62225 | [62225-nira-intense-import-drag-racing.json](./62225-nira-intense-import-drag-racing.json) |
