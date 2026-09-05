@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cages: Hidden Worlds | 406114 | [406114-cages-hidden-worlds.json](./406114-cages-hidden-worlds.json) |
 | Cahors Sunset | 35956 | [35956-cahors-sunset.json](./35956-cahors-sunset.json) |
 | Cairn | 178665 | [178665-cairn.json](./178665-cairn.json) |
+| Cairn | 394894 | [394894-cairn.json](./394894-cairn.json) |
 | Caïssa Board | 152893 | [152893-caissa-board.json](./152893-caissa-board.json) |
 | Cake Bites Make & Bake: Cooking Dessert Kids Game | 109012 | [109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json](./109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json) |
 | Cake Shop | 109015 | [109015-cake-shop.json](./109015-cake-shop.json) |
@@ -370,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Maria of Sorrow | 248309 | [248309-castlevania-maria-of-sorrow.json](./248309-castlevania-maria-of-sorrow.json) |
 | Castlevania: Order of Ecclesia | 1141 | [1141-castlevania-order-of-ecclesia.json](./1141-castlevania-order-of-ecclesia.json) |
 | Castlevania: Portrait of Ruin | 1138 | [1138-castlevania-portrait-of-ruin.json](./1138-castlevania-portrait-of-ruin.json) |
+| Castlevania: Rondo of the Night | 394858 | [394858-castlevania-rondo-of-the-night.json](./394858-castlevania-rondo-of-the-night.json) |
 | Castlevania: Symphony of the Night Randomizer | 218152 | [218152-castlevania-symphony-of-the-night-randomizer.json](./218152-castlevania-symphony-of-the-night-randomizer.json) |
 | Castlevania: The Adventure ReBirth | 1146 | [1146-castlevania-the-adventure-rebirth.json](./1146-castlevania-the-adventure-rebirth.json) |
 | Castlevania: The Seal Of The Curse X | 317630 | [317630-castlevania-the-seal-of-the-curse-x.json](./317630-castlevania-the-seal-of-the-curse-x.json) |
@@ -1730,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critter Caboodle | 333910 | [333910-critter-caboodle.json](./333910-critter-caboodle.json) |
 | Critter Crush - Hunting Game | 89282 | [89282-critter-crush-hunting-game.json](./89282-critter-crush-hunting-game.json) |
 | Critter Loop | 412267 | [412267-critter-loop.json](./412267-critter-loop.json) |
+| Critter Switcher | 394880 | [394880-critter-switcher.json](./394880-critter-switcher.json) |
 | Croc's World | 87410 | [87410-crocs-world.json](./87410-crocs-world.json) |
 | Crocro Adventure | 96341 | [96341-crocro-adventure.json](./96341-crocro-adventure.json) |
 | Crone | 408087 | [408087-crone.json](./408087-crone.json) |
@@ -1824,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Confines | 69319 | [69319-crystal-confines.json](./69319-crystal-confines.json) |
 | Crystal Defenders R1 | 21126 | [21126-crystal-defenders-r1.json](./21126-crystal-defenders-r1.json) |
 | Crystal Defenders R2 | 21133 | [21133-crystal-defenders-r2.json](./21133-crystal-defenders-r2.json) |
+| Crystal Edge: Retribution | 394898 | [394898-crystal-edge-retribution.json](./394898-crystal-edge-retribution.json) |
 | Crystal Fantasy | 68033 | [68033-crystal-fantasy.json](./68033-crystal-fantasy.json) |
 | Crystal Gal Mahjong | 123070 | [123070-crystal-gal-mahjong.json](./123070-crystal-gal-mahjong.json) |
 | Crystal Gal Mahjong II | 123071 | [123071-crystal-gal-mahjong-ii.json](./123071-crystal-gal-mahjong-ii.json) |
