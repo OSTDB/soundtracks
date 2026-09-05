@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoJo's Bizarre RPG: Battle Tendency | 172764 | [172764-jojos-bizarre-rpg-battle-tendency.json](./172764-jojos-bizarre-rpg-battle-tendency.json) |
 | JoJo's Bizarre RPG: Phantom Blood | 172763 | [172763-jojos-bizarre-rpg-phantom-blood.json](./172763-jojos-bizarre-rpg-phantom-blood.json) |
 | JoJo's Diner | 225295 | [225295-jojos-diner.json](./225295-jojos-diner.json) |
+| Joker & Teacher | 369556 | [369556-joker-and-teacher.json](./369556-joker-and-teacher.json) |
 | Jolly Putt: Mini Golf & Arcade | 258705 | [258705-jolly-putt-mini-golf-and-arcade.json](./258705-jolly-putt-mini-golf-and-arcade.json) |
 | Jolly's Hardcore Mod | 269866 | [269866-jollys-hardcore-mod.json](./269866-jollys-hardcore-mod.json) |
 | JollyWorld | 162408 | [162408-jollyworld.json](./162408-jollyworld.json) |
@@ -291,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jouka no Monshou | 274223 | [274223-jouka-no-monshou.json](./274223-jouka-no-monshou.json) |
 | Journalist | 186906 | [186906-journalist.json](./186906-journalist.json) |
 | Journey Escape | 22415 | [22415-journey-escape.json](./22415-journey-escape.json) |
+| Journey of Carrying Light | 369575 | [369575-journey-of-carrying-light.json](./369575-journey-of-carrying-light.json) |
 | Journey of Greed | 116510 | [116510-journey-of-greed.json](./116510-journey-of-greed.json) |
 | Journey of Haha | 39008 | [39008-journey-of-haha.json](./39008-journey-of-haha.json) |
 | Journey On | 154023 | [154023-journey-on.json](./154023-journey-on.json) |
