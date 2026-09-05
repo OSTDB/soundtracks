@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C-Rush | 16833 | [16833-c-rush.json](./16833-c-rush.json) |
 | C-War 2 | 119010 | [119010-c-war-2.json](./119010-c-war-2.json) |
 | C: The Contra Adventure | 45010 | [45010-c-the-contra-adventure.json](./45010-c-the-contra-adventure.json) |
+| C.A.G.E. | 414376 | [414376-c-a-g-e.json](./414376-c-a-g-e.json) |
 | C.A.R.D.S. RPG: The Misty Battlefield | 273624 | [273624-c-a-r-d-s-rpg-the-misty-battlefield.json](./273624-c-a-r-d-s-rpg-the-misty-battlefield.json) |
 | C.A.T.: Cyber Attack Team | 5762 | [5762-c-a-t-cyber-attack-team.json](./5762-c-a-t-cyber-attack-team.json) |
 | C.H.A.O.S Tournament | 117726 | [117726-c-h-a-o-s-tournament.json](./117726-c-h-a-o-s-tournament.json) |
@@ -41,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Café Bouvardie | 225269 | [225269-cafe-bouvardie.json](./225269-cafe-bouvardie.json) |
 | Cafe Cuillere | 141888 | [141888-cafe-cuillere.json](./141888-cafe-cuillere.json) |
 | Café Enchanté: Limited Edition | 254787 | [254787-cafe-enchante-limited-edition.json](./254787-cafe-enchante-limited-edition.json) |
+| Café Machina | 414295 | [414295-cafe-machina.json](./414295-cafe-machina.json) |
 | Cafe Owner Simulator | 191851 | [191851-cafe-owner-simulator.json](./191851-cafe-owner-simulator.json) |
 | Cafe Panic | 296075 | [296075-cafe-panic.json](./296075-cafe-panic.json) |
 | Café Stella and the Reaper's Butterflies | 195774 | [195774-cafe-stella-and-the-reapers-butterflies.json](./195774-cafe-stella-and-the-reapers-butterflies.json) |
@@ -540,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos;Head Noah / Chaos;Child Double Pack | 194326 | [194326-chaos-head-noah-chaos-child-double-pack.json](./194326-chaos-head-noah-chaos-child-double-pack.json) |
 | Chaotic Airport Construction Manager | 149608 | [149608-chaotic-airport-construction-manager.json](./149608-chaotic-airport-construction-manager.json) |
 | Chaotic Pursuit | 259857 | [259857-chaotic-pursuit.json](./259857-chaotic-pursuit.json) |
+| Chaotic World | 414343 | [414343-chaotic-world.json](./414343-chaotic-world.json) |
 | Chapas GP | 270383 | [270383-chapas-gp.json](./270383-chapas-gp.json) |
 | Chara Chenko | 130385 | [130385-chara-chenko.json](./130385-chara-chenko.json) |
 | Charade Maniacs: Limited Edition | 265936 | [265936-charade-maniacs-limited-edition.json](./265936-charade-maniacs-limited-edition.json) |
@@ -886,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civil Warfare: Another Bullet in the War | 79136 | [79136-civil-warfare-another-bullet-in-the-war.json](./79136-civil-warfare-another-bullet-in-the-war.json) |
 | Civilization Simulator | 267069 | [267069-civilization-simulator.json](./267069-civilization-simulator.json) |
 | CJ Dreams | 263226 | [263226-cj-dreams.json](./263226-cj-dreams.json) |
+| Claims & Caverns | 414284 | [414284-claims-and-caverns.json](./414284-claims-and-caverns.json) |
 | Clair Obscur: Expedition 33 – Deluxe Edition | 333209 | [333209-clair-obscur-expedition-33-deluxe-edition.json](./333209-clair-obscur-expedition-33-deluxe-edition.json) |
 | Claire | 10082 | [10082-claire.json](./10082-claire.json) |
 | Clan Wars | 188089 | [188089-clan-wars.json](./188089-clan-wars.json) |
@@ -1082,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold War: Frontline | 339101 | [339101-cold-war-frontline.json](./339101-cold-war-frontline.json) |
 | Cold Wires | 127315 | [127315-cold-wires.json](./127315-cold-wires.json) |
 | Coldfall | 113005 | [113005-coldfall.json](./113005-coldfall.json) |
+| ColdTrace | 414316 | [414316-coldtrace.json](./414316-coldtrace.json) |
 | Collage | 177037 | [177037-collage.json](./177037-collage.json) |
 | Collapse Machine | 310765 | [310765-collapse-machine.json](./310765-collapse-machine.json) |
 | Collapse! Crunch | 73327 | [73327-collapse-crunch.json](./73327-collapse-crunch.json) |
@@ -1602,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cribbage: Classic Card Game | 87704 | [87704-cribbage-classic-card-game.json](./87704-cribbage-classic-card-game.json) |
 | Cricket Captain | 95430 | [95430-cricket-captain.json](./95430-cricket-captain.json) |
 | Cricket League | 242218 | [242218-cricket-league.json](./242218-cricket-league.json) |
+| Cricket Manager 27 | 414308 | [414308-cricket-manager-27.json](./414308-cricket-manager-27.json) |
 | Crime Cities | 7872 | [7872-crime-cities.json](./7872-crime-cities.json) |
 | Crime Coast - Mob versus Mafia | 87665 | [87665-crime-coast-mob-versus-mafia.json](./87665-crime-coast-mob-versus-mafia.json) |
 | Crime District | 165699 | [165699-crime-district.json](./165699-crime-district.json) |
