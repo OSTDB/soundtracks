@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Aincrad: Special Edition | 409589 | [409589-echoes-of-aincrad-special-edition.json](./409589-echoes-of-aincrad-special-edition.json) |
 | Echoes of Forgotten Dreams | 340234 | [340234-echoes-of-forgotten-dreams.json](./340234-echoes-of-forgotten-dreams.json) |
 | Echoes of Magic | 194024 | [194024-echoes-of-magic.json](./194024-echoes-of-magic.json) |
+| Echoes of Sin: Confusion | 400239 | [400239-echoes-of-sin-confusion.json](./400239-echoes-of-sin-confusion.json) |
 | Echoes of the Fey: The Last Sacrament | 102346 | [102346-echoes-of-the-fey-the-last-sacrament.json](./102346-echoes-of-the-fey-the-last-sacrament.json) |
 | Echoes of the Past | 168391 | [168391-echoes-of-the-past.json](./168391-echoes-of-the-past.json) |
 | Echoes of Vision | 321776 | [321776-echoes-of-vision.json](./321776-echoes-of-vision.json) |
