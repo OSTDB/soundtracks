@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Chthonicle | 57103 | [57103-daily-chthonicle.json](./57103-daily-chthonicle.json) |
 | Daily Driven Racer | 334474 | [334474-daily-driven-racer.json](./334474-daily-driven-racer.json) |
 | Daily Quizz | 78701 | [78701-daily-quizz.json](./78701-daily-quizz.json) |
+| Daily Vrai | 413610 | [413610-daily-vrai.json](./413610-daily-vrai.json) |
 | Daimaou no Bijutsukan to Kaitoudan | 140003 | [140003-daimaou-no-bijutsukan-to-kaitoudan.json](./140003-daimaou-no-bijutsukan-to-kaitoudan.json) |
 | Dairantou Kanoair Smash 2002 | 196867 | [196867-dairantou-kanoair-smash-2002.json](./196867-dairantou-kanoair-smash-2002.json) |
 | Daisy Chain | 298311 | [298311-daisy-chain.json](./298311-daisy-chain.json) |
@@ -1002,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissidia Duodecim Prologus: Final Fantasy | 41848 | [41848-dissidia-duodecim-prologus-final-fantasy.json](./41848-dissidia-duodecim-prologus-final-fantasy.json) |
 | Distant | 329390 | [329390-distant.json](./329390-distant.json) |
 | Distant Transmission | 159886 | [159886-distant-transmission.json](./159886-distant-transmission.json) |
+| Distorted Signal | 413667 | [413667-distorted-signal.json](./413667-distorted-signal.json) |
 | Distraint Collection | 186910 | [186910-distraint-collection.json](./186910-distraint-collection.json) |
 | Distress Signal | 178640 | [178640-distress-signal.json](./178640-distress-signal.json) |
 | District Steel | 28912 | [28912-district-steel.json](./28912-district-steel.json) |
@@ -1039,6 +1041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DK: King of Swing - Hurling for Distance | 231633 | [231633-dk-king-of-swing-hurling-for-distance.json](./231633-dk-king-of-swing-hurling-for-distance.json) |
 | Dkls | 173276 | [173276-dkls.json](./173276-dkls.json) |
 | DLC Quest | 3004 | [3004-dlc-quest.json](./3004-dlc-quest.json) |
+| DM with Me | 413691 | [413691-dm-with-me.json](./413691-dm-with-me.json) |
 | DMBX 2: Mountain Bike and BMX | 232159 | [232159-dmbx-2-mountain-bike-and-bmx.json](./232159-dmbx-2-mountain-bike-and-bmx.json) |
 | DMBX 2.5: Mountain Bike and BMX | 174338 | [174338-dmbx-2-5-mountain-bike-and-bmx.json](./174338-dmbx-2-5-mountain-bike-and-bmx.json) |
 | Dmod | 275917 | [275917-dmod.json](./275917-dmod.json) |
@@ -1626,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DS Pico Series: Sanrio Puroland - Waku-waku Okaimono - Suteki na Oheya Otsukurimasho | 255352 | [255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json](./255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json) |
 | DT: Lords of Genomes | 65523 | [65523-dt-lords-of-genomes.json](./65523-dt-lords-of-genomes.json) |
 | DTXPlayer | 130948 | [130948-dtxplayer.json](./130948-dtxplayer.json) |
+| Dual Force | 413669 | [413669-dual-force.json](./413669-dual-force.json) |
 | Dual Heroes | 3477 | [3477-dual-heroes.json](./3477-dual-heroes.json) |
 | Dual Pack I Awakening: The Goblin Kingdom and Awakening: The Skyward Castle | 201857 | [201857-dual-pack-i-awakening-the-goblin-kingdom-and-awakening-the-skyward-castle.json](./201857-dual-pack-i-awakening-the-goblin-kingdom-and-awakening-the-skyward-castle.json) |
 | Dual Pack I Spirits of Mystery: Song of the Phoenix & Spirits of Mystery: The Dark Minotaur | 201853 | [201853-dual-pack-i-spirits-of-mystery-song-of-the-phoenix-and-spirits-of-mystery-the-dark-minotaur.json](./201853-dual-pack-i-spirits-of-mystery-song-of-the-phoenix-and-spirits-of-mystery-the-dark-minotaur.json) |
@@ -1657,6 +1661,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duendes in New Year | 315252 | [315252-duendes-in-new-year.json](./315252-duendes-in-new-year.json) |
 | Duendes in New Year 2 | 315254 | [315254-duendes-in-new-year-2.json](./315254-duendes-in-new-year-2.json) |
 | Duet | 17219 | [17219-duet.json](./17219-duet.json) |
+| Duet Night Abyss: Paradise Prelude | 413601 | [413601-duet-night-abyss-paradise-prelude.json](./413601-duet-night-abyss-paradise-prelude.json) |
+| Duet Night Abyss: Silver Torrent, Rising Star | 413599 | [413599-duet-night-abyss-silver-torrent-rising-star.json](./413599-duet-night-abyss-silver-torrent-rising-star.json) |
 | Dufe: Masquerade | 179749 | [179749-dufe-masquerade.json](./179749-dufe-masquerade.json) |
 | Dukai | 271984 | [271984-dukai.json](./271984-dukai.json) |
 | Duke Dashington Remastered | 96565 | [96565-duke-dashington-remastered.json](./96565-duke-dashington-remastered.json) |
