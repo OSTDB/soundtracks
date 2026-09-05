@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain Blood Chronicles: Mirage | 16548 | [16548-rain-blood-chronicles-mirage.json](./16548-rain-blood-chronicles-mirage.json) |
 | Rain in the Abyss | 194611 | [194611-rain-in-the-abyss.json](./194611-rain-in-the-abyss.json) |
 | Rain, House, Eternity | 143082 | [143082-rain-house-eternity.json](./143082-rain-house-eternity.json) |
+| Rain's Golf | 414384 | [414384-rains-golf.json](./414384-rains-golf.json) |
 | Rain's Love Memory | 117087 | [117087-rains-love-memory.json](./117087-rains-love-memory.json) |
 | Rainbow Despair | 337444 | [337444-rainbow-despair.json](./337444-rainbow-despair.json) |
 | Rainbow Dreams | 115016 | [115016-rainbow-dreams.json](./115016-rainbow-dreams.json) |
@@ -451,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redout: Space Assault - Deluxe Edition | 154547 | [154547-redout-space-assault-deluxe-edition.json](./154547-redout-space-assault-deluxe-edition.json) |
 | Redout: Space Exploration Pack | 226973 | [226973-redout-space-exploration-pack.json](./226973-redout-space-exploration-pack.json) |
 | Redout: V.E.R.T.E.X. Pack | 226974 | [226974-redout-v-e-r-t-e-x-pack.json](./226974-redout-v-e-r-t-e-x-pack.json) |
+| ReDraft: The Fantasy Football Simulator | 414361 | [414361-redraft-the-fantasy-football-simulator.json](./414361-redraft-the-fantasy-football-simulator.json) |
 | Redswood VR | 32103 | [32103-redswood-vr.json](./32103-redswood-vr.json) |
 | ReEarth | 309689 | [309689-reearth.json](./309689-reearth.json) |
 | Reed 2 | 134012 | [134012-reed-2.json](./134012-reed-2.json) |
@@ -774,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rider | 87651 | [87651-rider.json](./87651-rider.json) |
 | Riders 2491 | 158706 | [158706-riders-2491.json](./158706-riders-2491.json) |
 | Riders Republic: Year 1 Pass | 293916 | [293916-riders-republic-year-1-pass.json](./293916-riders-republic-year-1-pass.json) |
+| Ridge Hold | 414325 | [414325-ridge-hold.json](./414325-ridge-hold.json) |
 | Ridge Racer Revolution | 18697 | [18697-ridge-racer-revolution.json](./18697-ridge-racer-revolution.json) |
 | Ridge Racer V: Arcade Battle | 315284 | [315284-ridge-racer-v-arcade-battle.json](./315284-ridge-racer-v-arcade-battle.json) |
 | Ridge Runner | 233250 | [233250-ridge-runner.json](./233250-ridge-runner.json) |
@@ -1050,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Survivalist | 277592 | [277592-rogue-survivalist.json](./277592-rogue-survivalist.json) |
 | Rogue Survivor | 80557 | [80557-rogue-survivor.json](./80557-rogue-survivor.json) |
 | Rogue Trooper Redux: Collector's Edition | 154524 | [154524-rogue-trooper-redux-collectors-edition.json](./154524-rogue-trooper-redux-collectors-edition.json) |
+| Rogue Waves | 414345 | [414345-rogue-waves.json](./414345-rogue-waves.json) |
 | RogueCraft Squadron | 56507 | [56507-roguecraft-squadron.json](./56507-roguecraft-squadron.json) |
 | Roguelike Hero | 107898 | [107898-roguelike-hero.json](./107898-roguelike-hero.json) |
 | Rogueline | 209659 | [209659-rogueline.json](./209659-rogueline.json) |
@@ -1193,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rothdam! | 196865 | [196865-rothdam.json](./196865-rothdam.json) |
 | Rotieer | 35909 | [35909-rotieer.json](./35909-rotieer.json) |
 | Roto Force | 191870 | [191870-roto-force.json](./191870-roto-force.json) |
+| RotoCore | 414291 | [414291-rotocore.json](./414291-rotocore.json) |
 | RotoDefendo | 137055 | [137055-rotodefendo.json](./137055-rotodefendo.json) |
 | Rotolla | 21021 | [21021-rotolla.json](./21021-rotolla.json) |
 | Rotten Escape | 101542 | [101542-rotten-escape.json](./101542-rotten-escape.json) |
