@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Saga | 55910 | [55910-samurai-saga.json](./55910-samurai-saga.json) |
 | Samurai Shodown: Baiken | 167836 | [167836-samurai-shodown-baiken.json](./167836-samurai-shodown-baiken.json) |
 | Samurai Solitaire: Return of the Ronin | 204103 | [204103-samurai-solitaire-return-of-the-ronin.json](./204103-samurai-solitaire-return-of-the-ronin.json) |
+| Samurai Stratagem | 379342 | [379342-samurai-stratagem.json](./379342-samurai-stratagem.json) |
 | Samurai Trilogy | 37177 | [37177-samurai-trilogy.json](./37177-samurai-trilogy.json) |
 | Samurai Warriors 3 Z | 136468 | [136468-samurai-warriors-3-z.json](./136468-samurai-warriors-3-z.json) |
 | Samurai Warriors: Chronicles 2nd | 64991 | [64991-samurai-warriors-chronicles-2nd.json](./64991-samurai-warriors-chronicles-2nd.json) |
@@ -481,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seals From the Frosty Bay | 402302 | [402302-seals-from-the-frosty-bay.json](./402302-seals-from-the-frosty-bay.json) |
 | Seaquest DSV | 45591 | [45591-seaquest-dsv.json](./45591-seaquest-dsv.json) |
 | SeaQuest DSV | 138802 | [138802-seaquest-dsv.json](./138802-seaquest-dsv.json) |
+| SeaQuest Dungeon | 379346 | [379346-seaquest-dungeon.json](./379346-seaquest-dungeon.json) |
 | Search | 233771 | [233771-search.json](./233771-search.json) |
 | Search & Destroy | 43347 | [43347-search-and-destroy.json](./43347-search-and-destroy.json) |
 | Search All: Bones | 387338 | [387338-search-all-bones.json](./387338-search-all-bones.json) |
@@ -1308,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkillGrid | 392785 | [392785-skillgrid.json](./392785-skillgrid.json) |
 | Skinny & Franko: Fists of Violence | 215900 | [215900-skinny-and-franko-fists-of-violence.json](./215900-skinny-and-franko-fists-of-violence.json) |
 | Skins Game | 91433 | [91433-skins-game.json](./91433-skins-game.json) |
+| Skinwalkers Valley | 379339 | [379339-skinwalkers-valley.json](./379339-skinwalkers-valley.json) |
 | Skiplit | 27799 | [27799-skiplit.json](./27799-skiplit.json) |
 | Skuiggle | 202945 | [202945-skuiggle.json](./202945-skuiggle.json) |
 | SkulJagger: Revolt of the Westicans | 42664 | [42664-skuljagger-revolt-of-the-westicans.json](./42664-skuljagger-revolt-of-the-westicans.json) |
@@ -2118,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Imperia 4X | 391570 | [391570-space-imperia-4x.json](./391570-space-imperia-4x.json) |
 | Space Invaders Anniversary | 69888 | [69888-space-invaders-anniversary.json](./69888-space-invaders-anniversary.json) |
 | Space is Key Christmas | 408824 | [408824-space-is-key-christmas.json](./408824-space-is-key-christmas.json) |
+| Space Is Red | 379341 | [379341-space-is-red.json](./379341-space-is-red.json) |
 | Space KaBaam: Neon | 335076 | [335076-space-kabaam-neon.json](./335076-space-kabaam-neon.json) |
 | Space Kadet | 123598 | [123598-space-kadet.json](./123598-space-kadet.json) |
 | Space Lift Danger Panic! | 147982 | [147982-space-lift-danger-panic.json](./147982-space-lift-danger-panic.json) |
@@ -2749,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Horizon | 20691 | [20691-steel-horizon.json](./20691-steel-horizon.json) |
 | Steel Hunters | 301568 | [301568-steel-hunters.json](./301568-steel-hunters.json) |
 | Steel Manticore | 295016 | [295016-steel-manticore.json](./295016-steel-manticore.json) |
+| Steel Skirmish: Reloaded | 379347 | [379347-steel-skirmish-reloaded.json](./379347-steel-skirmish-reloaded.json) |
 | Steel Storm: Burning Retribution | 16243 | [16243-steel-storm-burning-retribution.json](./16243-steel-storm-burning-retribution.json) |
 | Steel Strider | 34403 | [34403-steel-strider.json](./34403-steel-strider.json) |
 | Steel Thunder | 244476 | [244476-steel-thunder.json](./244476-steel-thunder.json) |
@@ -3099,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suggoi! Arcana Heart 2 | 243419 | [243419-suggoi-arcana-heart-2.json](./243419-suggoi-arcana-heart-2.json) |
 | Sugoi Girls: Sassy Heroine | 315843 | [315843-sugoi-girls-sassy-heroine.json](./315843-sugoi-girls-sassy-heroine.json) |
 | Sugoro Quest++ Dicenics | 37807 | [37807-sugoro-quest-dicenics.json](./37807-sugoro-quest-dicenics.json) |
+| Sugoroku New Year's Party | 379373 | [379373-sugoroku-new-years-party.json](./379373-sugoroku-new-years-party.json) |
 | Suho Defense | 339650 | [339650-suho-defense.json](./339650-suho-defense.json) |
 | SuiCats | 272583 | [272583-suicats.json](./272583-suicats.json) |
 | Suicide Adventures | 61613 | [61613-suicide-adventures.json](./61613-suicide-adventures.json) |
