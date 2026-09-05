@@ -923,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wurdweb | 165047 | [165047-wurdweb.json](./165047-wurdweb.json) |
 | Wurmus | 181389 | [181389-wurmus.json](./181389-wurmus.json) |
 | Wurst and Glory | 415115 | [415115-wurst-and-glory.json](./415115-wurst-and-glory.json) |
+| Wuthering Waves: Resolution to Illuminate the Shadows | 394857 | [394857-wuthering-waves-resolution-to-illuminate-the-shadows.json](./394857-wuthering-waves-resolution-to-illuminate-the-shadows.json) |
 | Wuxia Master | 109703 | [109703-wuxia-master.json](./109703-wuxia-master.json) |
 | Wwaves | 181900 | [181900-wwaves.json](./181900-wwaves.json) |
 | WWC: World Wrestling Championship | 46028 | [46028-wwc-world-wrestling-championship.json](./46028-wwc-world-wrestling-championship.json) |
