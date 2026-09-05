@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Graces | 1211 | [1211-tales-of-graces.json](./1211-tales-of-graces.json) |
 | Tales of Innocence R | 42673 | [42673-tales-of-innocence-r.json](./42673-tales-of-innocence-r.json) |
 | Tales of Lagoona: Orphans of the Ocean | 54424 | [54424-tales-of-lagoona-orphans-of-the-ocean.json](./54424-tales-of-lagoona-orphans-of-the-ocean.json) |
+| Tales of Medieval Duelists | 389982 | [389982-tales-of-medieval-duelists.json](./389982-tales-of-medieval-duelists.json) |
 | Tales of Monkey Island: Chapter 3 - Lair of the Leviathan | 81269 | [81269-tales-of-monkey-island-chapter-3-lair-of-the-leviathan.json](./81269-tales-of-monkey-island-chapter-3-lair-of-the-leviathan.json) |
 | Tales of Nebezem: Elemental Link | 86749 | [86749-tales-of-nebezem-elemental-link.json](./86749-tales-of-nebezem-elemental-link.json) |
 | Tales of Terror: House on the Hill | 139428 | [139428-tales-of-terror-house-on-the-hill.json](./139428-tales-of-terror-house-on-the-hill.json) |
@@ -620,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Arcane Tower | 166744 | [166744-the-arcane-tower.json](./166744-the-arcane-tower.json) |
 | The Archer | 311814 | [311814-the-archer.json](./311814-the-archer.json) |
 | The Architects of the Universe: The Orbital Wars | 402294 | [402294-the-architects-of-the-universe-the-orbital-wars.json](./402294-the-architects-of-the-universe-the-orbital-wars.json) |
+| The Ark | 390005 | [390005-the-ark.json](./390005-the-ark.json) |
 | The Armardisp | 260376 | [260376-the-armardisp.json](./260376-the-armardisp.json) |
 | The Arrogant Kaiju Princess and The Detective Servant | 267060 | [267060-the-arrogant-kaiju-princess-and-the-detective-servant.json](./267060-the-arrogant-kaiju-princess-and-the-detective-servant.json) |
 | The Arson Betrayal | 239312 | [239312-the-arson-betrayal.json](./239312-the-arson-betrayal.json) |
@@ -1161,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hikyou Tankentai: Choutoko Special | 124270 | [124270-the-hikyou-tankentai-choutoko-special.json](./124270-the-hikyou-tankentai-choutoko-special.json) |
 | The History Channel: Civil War - Secret Missions | 47404 | [47404-the-history-channel-civil-war-secret-missions.json](./47404-the-history-channel-civil-war-secret-missions.json) |
 | The Hive | 242803 | [242803-the-hive.json](./242803-the-hive.json) |
+| The Hopeless Few | 389974 | [389974-the-hopeless-few.json](./389974-the-hopeless-few.json) |
 | The Horrible Inside | 297817 | [297817-the-horrible-inside.json](./297817-the-horrible-inside.json) |
 | The Horrorscope: Fatal Awakening | 166773 | [166773-the-horrorscope-fatal-awakening.json](./166773-the-horrorscope-fatal-awakening.json) |
 | The Horse Lord | 13727 | [13727-the-horse-lord.json](./13727-the-horse-lord.json) |
@@ -1318,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Taxi | 132822 | [132822-the-last-taxi.json](./132822-the-last-taxi.json) |
 | The Last Weekend | 31890 | [31890-the-last-weekend.json](./31890-the-last-weekend.json) |
 | The Last Wish | 27877 | [27877-the-last-wish.json](./27877-the-last-wish.json) |
+| The Last Wizard: A Goblin Detective Mystery | 389956 | [389956-the-last-wizard-a-goblin-detective-mystery.json](./389956-the-last-wizard-a-goblin-detective-mystery.json) |
 | The Last Wulin | 156148 | [156148-the-last-wulin.json](./156148-the-last-wulin.json) |
 | The Late D. Flate's Great Estate | 188090 | [188090-the-late-d-flates-great-estate.json](./188090-the-late-d-flates-great-estate.json) |
 | The Lattice Grimoire | 120396 | [120396-the-lattice-grimoire.json](./120396-the-lattice-grimoire.json) |
@@ -2506,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tina's Wonderlands: Next Level Edition | 170024 | [170024-tiny-tinas-wonderlands-next-level-edition.json](./170024-tiny-tinas-wonderlands-next-level-edition.json) |
 | Tiny Touchdown | 241058 | [241058-tiny-touchdown.json](./241058-tiny-touchdown.json) |
 | Tiny Toy Tanks | 159849 | [159849-tiny-toy-tanks.json](./159849-tiny-toy-tanks.json) |
+| Tiny Transit | 389957 | [389957-tiny-transit.json](./389957-tiny-transit.json) |
 | Tiny Troopers Joint Ops: Zombie Edition | 201818 | [201818-tiny-troopers-joint-ops-zombie-edition.json](./201818-tiny-troopers-joint-ops-zombie-edition.json) |
 | Tiny Whaley | 267670 | [267670-tiny-whaley.json](./267670-tiny-whaley.json) |
 | TinyRogue | 311288 | [311288-tinyrogue.json](./311288-tinyrogue.json) |
