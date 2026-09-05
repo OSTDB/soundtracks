@@ -603,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexChess 360 | 92506 | [92506-hexchess-360.json](./92506-hexchess-360.json) |
 | Hexcite: The Shapes of Victory | 49925 | [49925-hexcite-the-shapes-of-victory.json](./49925-hexcite-the-shapes-of-victory.json) |
 | Hexcodle | 313472 | [313472-hexcodle.json](./313472-hexcodle.json) |
+| Hexcrawl | 413606 | [413606-hexcrawl.json](./413606-hexcrawl.json) |
 | Hexgarden | 415118 | [415118-hexgarden.json](./415118-hexgarden.json) |
 | Hexion | 96216 | [96216-hexion.json](./96216-hexion.json) |
 | Hexos CCG Missions | 55947 | [55947-hexos-ccg-missions.json](./55947-hexos-ccg-missions.json) |
@@ -1157,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Hentai Devil Hell | 247781 | [247781-hyper-hentai-devil-hell.json](./247781-hyper-hentai-devil-hell.json) |
 | Hyper Mari World 6 | 200711 | [200711-hyper-mari-world-6.json](./200711-hyper-mari-world-6.json) |
 | Hyper Panda | 332832 | [332832-hyper-panda.json](./332832-hyper-panda.json) |
+| Hyper Pixel Man | 413684 | [413684-hyper-pixel-man.json](./413684-hyper-pixel-man.json) |
 | Hyper Reverthion | 97327 | [97327-hyper-reverthion.json](./97327-hyper-reverthion.json) |
 | Hyper Rider | 319972 | [319972-hyper-rider.json](./319972-hyper-rider.json) |
 | Hyper Sports | 6115 | [6115-hyper-sports.json](./6115-hyper-sports.json) |
