@@ -1263,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mister Universe | 153428 | [153428-mister-universe.json](./153428-mister-universe.json) |
 | Mister Versatile: A Gay Superhero Visual Novel | 180251 | [180251-mister-versatile-a-gay-superhero-visual-novel.json](./180251-mister-versatile-a-gay-superhero-visual-novel.json) |
 | Mistful Crimson Morning | 341911 | [341911-mistful-crimson-morning.json](./341911-mistful-crimson-morning.json) |
+| Mistwood Heroes | 29936 | [29936-mistwood-heroes.json](./29936-mistwood-heroes.json) |
 | MistWorld the after2 | 215367 | [215367-mistworld-the-after2.json](./215367-mistworld-the-after2.json) |
 | Miszou | 224752 | [224752-miszou.json](./224752-miszou.json) |
 | Mithraeum | 213622 | [213622-mithraeum.json](./213622-mithraeum.json) |
