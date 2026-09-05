@@ -655,12 +655,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Heroes: Red Zone Edition | 116373 | [116373-no-more-heroes-red-zone-edition.json](./116373-no-more-heroes-red-zone-edition.json) |
 | No Ordinary Elevator | 76666 | [76666-no-ordinary-elevator.json](./76666-no-ordinary-elevator.json) |
 | No Rest | 302688 | [302688-no-rest.json](./302688-no-rest.json) |
+| No Signal Escape Room | 413624 | [413624-no-signal-escape-room.json](./413624-no-signal-escape-room.json) |
 | No Son of Mine | 201314 | [201314-no-son-of-mine.json](./201314-no-son-of-mine.json) |
 | No Stick Shooter | 28910 | [28910-no-stick-shooter.json](./28910-no-stick-shooter.json) |
 | No Straight Roads | 114783 | [114783-no-straight-roads.json](./114783-no-straight-roads.json) |
 | No Straight Roads: Collector's Edition | 166225 | [166225-no-straight-roads-collectors-edition.json](./166225-no-straight-roads-collectors-edition.json) |
 | No Straight Roads: Encore Edition | 178093 | [178093-no-straight-roads-encore-edition.json](./178093-no-straight-roads-encore-edition.json) |
 | No Sun To Worship | 236015 | [236015-no-sun-to-worship.json](./236015-no-sun-to-worship.json) |
+| No Thoughts Just Dodge | 413689 | [413689-no-thoughts-just-dodge.json](./413689-no-thoughts-just-dodge.json) |
 | No Time Left | 104111 | [104111-no-time-left.json](./104111-no-time-left.json) |
 | No Time to Build | 337484 | [337484-no-time-to-build.json](./337484-no-time-to-build.json) |
 | No Transmission | 183070 | [183070-no-transmission.json](./183070-no-transmission.json) |
