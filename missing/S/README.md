@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savior | 121034 | [121034-savior.json](./121034-savior.json) |
 | Saviors | 36264 | [36264-saviors.json](./36264-saviors.json) |
 | Saviors of Sapphire Wings | 117732 | [117732-saviors-of-sapphire-wings.json](./117732-saviors-of-sapphire-wings.json) |
+| Savvy | 410904 | [410904-savvy.json](./410904-savvy.json) |
 | Saw Lab | 290692 | [290692-saw-lab.json](./290692-saw-lab.json) |
 | Sawdust | 314039 | [314039-sawdust.json](./314039-sawdust.json) |
 | Sawmill | 312894 | [312894-sawmill.json](./312894-sawmill.json) |
@@ -1644,6 +1645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Assembly Required | 293380 | [293380-some-assembly-required.json](./293380-some-assembly-required.json) |
 | Some Synergy | 210883 | [210883-some-synergy.json](./210883-some-synergy.json) |
 | Someday You'll Return: Director's Cut | 241044 | [241044-someday-youll-return-directors-cut.json](./241044-someday-youll-return-directors-cut.json) |
+| Someone's Here | 410921 | [410921-someones-here.json](./410921-someones-here.json) |
 | Sometimes: Success Requires Sacrifice | 35712 | [35712-sometimes-success-requires-sacrifice.json](./35712-sometimes-success-requires-sacrifice.json) |
 | Somewhere in Space... | 178644 | [178644-somewhere-in-space.json](./178644-somewhere-in-space.json) |
 | Somewhere inside | 125085 | [125085-somewhere-inside.json](./125085-somewhere-inside.json) |
@@ -2780,6 +2782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold: Warlords - Rise of the Shogun Campaign | 186877 | [186877-stronghold-warlords-rise-of-the-shogun-campaign.json](./186877-stronghold-warlords-rise-of-the-shogun-campaign.json) |
 | Stronghold: Warlords - The Mongol Empire Campaign | 186879 | [186879-stronghold-warlords-the-mongol-empire-campaign.json](./186879-stronghold-warlords-the-mongol-empire-campaign.json) |
 | Strongloween: The Escape | 192424 | [192424-strongloween-the-escape.json](./192424-strongloween-the-escape.json) |
+| Struggle Weapon Girl | 410899 | [410899-struggle-weapon-girl.json](./410899-struggle-weapon-girl.json) |
 | Stuck at Home | 71004 | [71004-stuck-at-home.json](./71004-stuck-at-home.json) |
 | Stuck! | 177537 | [177537-stuck.json](./177537-stuck.json) |
 | Student Transfer | 191892 | [191892-student-transfer.json](./191892-student-transfer.json) |
@@ -3297,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tank Rumble | 185695 | [185695-super-tank-rumble.json](./185695-super-tank-rumble.json) |
 | Super Tennis | 147960 | [147960-super-tennis.json](./147960-super-tennis.json) |
 | Super Tits Rush | 86752 | [86752-super-tits-rush.json](./86752-super-tits-rush.json) |
+| Super Toboggan 3D | 410883 | [410883-super-toboggan-3d.json](./410883-super-toboggan-3d.json) |
 | Super Toss the Turtle | 57104 | [57104-super-toss-the-turtle.json](./57104-super-toss-the-turtle.json) |
 | Super Toy Cars 1 & 2 Bundle | 208579 | [208579-super-toy-cars-1-and-2-bundle.json](./208579-super-toy-cars-1-and-2-bundle.json) |
 | Super Toy Cars Collection | 204083 | [204083-super-toy-cars-collection.json](./204083-super-toy-cars-collection.json) |
@@ -3472,6 +3476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swervle | 413686 | [413686-swervle.json](./413686-swervle.json) |
 | Swift Death | 138229 | [138229-swift-death.json](./138229-swift-death.json) |
 | Swim! Sacabambaspis | 276470 | [276470-swim-sacabambaspis.json](./276470-swim-sacabambaspis.json) |
+| Swimcraft | 410911 | [410911-swimcraft.json](./410911-swimcraft.json) |
 | Swing Copters | 7672 | [7672-swing-copters.json](./7672-swing-copters.json) |
 | Swing Into Zero-G | 296667 | [296667-swing-into-zero-g.json](./296667-swing-into-zero-g.json) |
 | Swing Striker | 133471 | [133471-swing-striker.json](./133471-swing-striker.json) |
