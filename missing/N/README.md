@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K19: The Prelude | 110326 | [110326-nba-2k19-the-prelude.json](./110326-nba-2k19-the-prelude.json) |
 | NBA 2K2 | 4029 | [4029-nba-2k2.json](./4029-nba-2k2.json) |
 | NBA 2K26 | 353901 | [353901-nba-2k26.json](./353901-nba-2k26.json) |
+| NBA 2K27 | 408823 | [408823-nba-2k27.json](./408823-nba-2k27.json) |
 | NBA 2K27: Deluxe Edition | 410900 | [410900-nba-2k27-deluxe-edition.json](./410900-nba-2k27-deluxe-edition.json) |
 | NBA 2K27: Ultra Edition | 410901 | [410901-nba-2k27-ultra-edition.json](./410901-nba-2k27-ultra-edition.json) |
 | NBA 2K6 | 257114 | [257114-nba-2k6.json](./257114-nba-2k6.json) |
@@ -443,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 19: Ultimate Edition | 61636 | [61636-nhl-19-ultimate-edition.json](./61636-nhl-19-ultimate-edition.json) |
 | NHL 2000 | 813 | [813-nhl-2000.json](./813-nhl-2000.json) |
 | NHL 2001 | 814 | [814-nhl-2001.json](./814-nhl-2001.json) |
+| NHL 27 | 408771 | [408771-nhl-27.json](./408771-nhl-27.json) |
 | NHL 2K2 | 8840 | [8840-nhl-2k2.json](./8840-nhl-2k2.json) |
 | NHL 2K3 | 4045 | [4045-nhl-2k3.json](./4045-nhl-2k3.json) |
 | NHL All-Star Hockey '95 | 19559 | [19559-nhl-all-star-hockey-95.json](./19559-nhl-all-star-hockey-95.json) |
