@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratcore | 412270 | [412270-ratcore.json](./412270-ratcore.json) |
 | RatPark | 206355 | [206355-ratpark.json](./206355-ratpark.json) |
 | Ravenbound | 214852 | [214852-ravenbound.json](./214852-ravenbound.json) |
+| Ravenclaw Common Room VR | 406721 | [406721-ravenclaw-common-room-vr.json](./406721-ravenclaw-common-room-vr.json) |
 | Ravengrave: Iron Bonds | 335113 | [335113-ravengrave-iron-bonds.json](./335113-ravengrave-iron-bonds.json) |
 | Ravenhaul | 249470 | [249470-ravenhaul.json](./249470-ravenhaul.json) |
 | RavenHeart Hospital: A Medical Visual Novel | 165009 | [165009-ravenheart-hospital-a-medical-visual-novel.json](./165009-ravenheart-hospital-a-medical-visual-novel.json) |
@@ -627,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restless Voronezh | 267058 | [267058-restless-voronezh.json](./267058-restless-voronezh.json) |
 | Restock | 316414 | [316414-restock.json](./316414-restock.json) |
 | Restoring Falmay | 326979 | [326979-restoring-falmay.json](./326979-restoring-falmay.json) |
+| Resurface | 406681 | [406681-resurface.json](./406681-resurface.json) |
 | Resurgent | 177565 | [177565-resurgent.json](./177565-resurgent.json) |
 | Resurrector | 126624 | [126624-resurrector.json](./126624-resurrector.json) |
 | Retention: A Love Story | 149597 | [149597-retention-a-love-story.json](./149597-retention-a-love-story.json) |
@@ -960,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Planet | 232663 | [232663-robot-planet.json](./232663-robot-planet.json) |
 | Robot Ponkottsu: Moon Version | 243919 | [243919-robot-ponkottsu-moon-version.json](./243919-robot-ponkottsu-moon-version.json) |
 | Robot Programmer | 235976 | [235976-robot-programmer.json](./235976-robot-programmer.json) |
+| Robot Reckoning | 406695 | [406695-robot-reckoning.json](./406695-robot-reckoning.json) |
 | Robot Squad Simulator 2017 | 34389 | [34389-robot-squad-simulator-2017.json](./34389-robot-squad-simulator-2017.json) |
 | Robot Squad Simulator X | 134013 | [134013-robot-squad-simulator-x.json](./134013-robot-squad-simulator-x.json) |
 | Robot Start: Puzzle Game | 149605 | [149605-robot-start-puzzle-game.json](./149605-robot-start-puzzle-game.json) |
