@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Shippuden: Ultimate Ninja Storm Generations | 7100 | [7100-naruto-shippuden-ultimate-ninja-storm-generations.json](./7100-naruto-shippuden-ultimate-ninja-storm-generations.json) |
 | Naruto To Boruto: Shinobi Stricker - Master Character Training Pack: Boruto Uzumaki (Karma Progression) | 275885 | [275885-naruto-to-boruto-shinobi-stricker-master-character-training-pack-boruto-uzumaki-karma-progression.json](./275885-naruto-to-boruto-shinobi-stricker-master-character-training-pack-boruto-uzumaki-karma-progression.json) |
 | Naruto to Boruto: Shinobi Striker - Special Ninjutsu: Wood Style - Wood Golem Jutsu | 294999 | [294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json](./294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json) |
+| Naruto: Ninja Cards | 388751 | [388751-naruto-ninja-cards.json](./388751-naruto-ninja-cards.json) |
 | Naruto: Ninja Council 2 - European Version | 79297 | [79297-naruto-ninja-council-2-european-version.json](./79297-naruto-ninja-council-2-european-version.json) |
 | Naruto: Ultimate Ninja Storm - Limited Edition | 44661 | [44661-naruto-ultimate-ninja-storm-limited-edition.json](./44661-naruto-ultimate-ninja-storm-limited-edition.json) |
 | NASCAR 26 | 412990 | [412990-nascar-26.json](./412990-nascar-26.json) |
