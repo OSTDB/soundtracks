@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Forest 3: Underground | 251231 | [251231-zombie-forest-3-underground.json](./251231-zombie-forest-3-underground.json) |
 | Zombie Freaks | 163963 | [163963-zombie-freaks.json](./163963-zombie-freaks.json) |
 | Zombie frenzy | 191255 | [191255-zombie-frenzy.json](./191255-zombie-frenzy.json) |
+| Zombie Gorge: Survival Defense | 385064 | [385064-zombie-gorge-survival-defense.json](./385064-zombie-gorge-survival-defense.json) |
 | Zombie Gunship Revenant AR | 87281 | [87281-zombie-gunship-revenant-ar.json](./87281-zombie-gunship-revenant-ar.json) |
 | Zombie Hazard | 166776 | [166776-zombie-hazard.json](./166776-zombie-hazard.json) |
 | Zombie Highway | 201839 | [201839-zombie-highway.json](./201839-zombie-highway.json) |
