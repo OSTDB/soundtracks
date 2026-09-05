@@ -831,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew: Motorfest - Drift Pack | 408788 | [408788-the-crew-motorfest-drift-pack.json](./408788-the-crew-motorfest-drift-pack.json) |
 | The Crew: Motorfest - Year 2 Pass | 335098 | [335098-the-crew-motorfest-year-2-pass.json](./335098-the-crew-motorfest-year-2-pass.json) |
 | The Crew: Wild Run Edition | 166227 | [166227-the-crew-wild-run-edition.json](./166227-the-crew-wild-run-edition.json) |
+| The Criminal | 383398 | [383398-the-criminal.json](./383398-the-criminal.json) |
 | The Crimson Crown | 15532 | [15532-the-crimson-crown.json](./15532-the-crimson-crown.json) |
 | The Crisis Zone | 257117 | [257117-the-crisis-zone.json](./257117-the-crisis-zone.json) |
 | The Croaker: The Ice | 306058 | [306058-the-croaker-the-ice.json](./306058-the-croaker-the-ice.json) |
@@ -1055,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Floor Is Really Cheap Lava | 115042 | [115042-the-floor-is-really-cheap-lava.json](./115042-the-floor-is-really-cheap-lava.json) |
 | The Flying Feathers | 247768 | [247768-the-flying-feathers.json](./247768-the-flying-feathers.json) |
 | The Fog | 391047 | [391047-the-fog.json](./391047-the-fog.json) |
+| The Fog Fall | 383351 | [383351-the-fog-fall.json](./383351-the-fog-fall.json) |
 | The Fool | 302676 | [302676-the-fool.json](./302676-the-fool.json) |
 | The Forage | 102802 | [102802-the-forage.json](./102802-the-forage.json) |
 | The Forest Prison | 203537 | [203537-the-forest-prison.json](./203537-the-forest-prison.json) |
@@ -1719,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sandbox - Building & Craft | 90705 | [90705-the-sandbox-building-and-craft.json](./90705-the-sandbox-building-and-craft.json) |
 | The Sapling | 126479 | [126479-the-sapling.json](./126479-the-sapling.json) |
 | The Savior's Gang | 115049 | [115049-the-saviors-gang.json](./115049-the-saviors-gang.json) |
+| The Scene Of the Crime | 383374 | [383374-the-scene-of-the-crime.json](./383374-the-scene-of-the-crime.json) |
 | The Scoop | 73816 | [73816-the-scoop.json](./73816-the-scoop.json) |
 | The Scottish Open: Carnoustie Virtual Golf | 68706 | [68706-the-scottish-open-carnoustie-virtual-golf.json](./68706-the-scottish-open-carnoustie-virtual-golf.json) |
 | The Scourge | 267072 | [267072-the-scourge.json](./267072-the-scourge.json) |
@@ -2804,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torqued Up Legends | 141879 | [141879-torqued-up-legends.json](./141879-torqued-up-legends.json) |
 | Torres | 94251 | [94251-torres.json](./94251-torres.json) |
 | Torshtra Minkan Setsuwashuu yori: Kokuou no Musume | 386111 | [386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json](./386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json) |
+| Tortuga Escape | 383371 | [383371-tortuga-escape.json](./383371-tortuga-escape.json) |
 | Torture | 276458 | [276458-torture.json](./276458-torture.json) |
 | Torus | 214725 | [214725-torus.json](./214725-torus.json) |
 | Toshinden Card Quest | 43946 | [43946-toshinden-card-quest.json](./43946-toshinden-card-quest.json) |
