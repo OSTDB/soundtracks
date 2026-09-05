@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemstones | 231616 | [231616-gemstones.json](./231616-gemstones.json) |
 | Gemsweeper | 135284 | [135284-gemsweeper.json](./135284-gemsweeper.json) |
 | Gemwielders | 325245 | [325245-gemwielders.json](./325245-gemwielders.json) |
+| Genderman | 391600 | [391600-genderman.json](./391600-genderman.json) |
 | Gene | 35898 | [35898-gene.json](./35898-gene.json) |
 | Gene Crawl: Dungeon Descent | 406136 | [406136-gene-crawl-dungeon-descent.json](./406136-gene-crawl-dungeon-descent.json) |
 | Gene Rain Ultimate & Your Toy Bundle | 301575 | [301575-gene-rain-ultimate-and-your-toy-bundle.json](./301575-gene-rain-ultimate-and-your-toy-bundle.json) |
@@ -968,7 +969,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimlight | 200727 | [200727-grimlight.json](./200727-grimlight.json) |
 | Grimm & Tonic | 109751 | [109751-grimm-and-tonic.json](./109751-grimm-and-tonic.json) |
 | Grimm: Dark Legacy | 25823 | [25823-grimm-dark-legacy.json](./25823-grimm-dark-legacy.json) |
+| Grimoria | 391573 | [391573-grimoria.json](./391573-grimoria.json) |
 | Grimshade | 102199 | [102199-grimshade.json](./102199-grimshade.json) |
+| Grimslair | 391587 | [391587-grimslair.json](./391587-grimslair.json) |
 | Grimstorm | 191881 | [191881-grimstorm.json](./191881-grimstorm.json) |
 | Grimville: The Gift of Darkness | 96760 | [96760-grimville-the-gift-of-darkness.json](./96760-grimville-the-gift-of-darkness.json) |
 | Grin Bandana | 54475 | [54475-grin-bandana.json](./54475-grin-bandana.json) |
