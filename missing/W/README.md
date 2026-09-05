@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterbed | 178668 | [178668-waterbed.json](./178668-waterbed.json) |
 | Waterfall | 251196 | [251196-waterfall.json](./251196-waterfall.json) |
 | Waterfall Canyon | 223683 | [223683-waterfall-canyon.json](./223683-waterfall-canyon.json) |
+| Waterful | 404861 | [404861-waterful.json](./404861-waterful.json) |
 | Watermelon Game: Fruits Puzzle | 293904 | [293904-watermelon-game-fruits-puzzle.json](./293904-watermelon-game-fruits-puzzle.json) |
 | Watermelon Merge: Strategy Game | 303236 | [303236-watermelon-merge-strategy-game.json](./303236-watermelon-merge-strategy-game.json) |
 | Waterpark Simulator | 348648 | [348648-waterpark-simulator.json](./348648-waterpark-simulator.json) |
@@ -457,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiblits | 58269 | [58269-wiblits.json](./58269-wiblits.json) |
 | Wicce | 32928 | [32928-wicce.json](./32928-wicce.json) |
 | Wicked | 12233 | [12233-wicked.json](./12233-wicked.json) |
+| Wicked Delights | 404822 | [404822-wicked-delights.json](./404822-wicked-delights.json) |
 | Wicked Monsters Blast! HD Plus | 85482 | [85482-wicked-monsters-blast-hd-plus.json](./85482-wicked-monsters-blast-hd-plus.json) |
 | Wicked Plague | 324691 | [324691-wicked-plague.json](./324691-wicked-plague.json) |
 | Wicked Willow | 137647 | [137647-wicked-willow.json](./137647-wicked-willow.json) |
