@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choo Choo Minder | 252988 | [252988-choo-choo-minder.json](./252988-choo-choo-minder.json) |
 | Choose an Enemy | 93051 | [93051-choose-an-enemy.json](./93051-choose-an-enemy.json) |
 | Chop | 183081 | [183081-chop.json](./183081-chop.json) |
+| Chop Chop Inc. | 398967 | [398967-chop-chop-inc.json](./398967-chop-chop-inc.json) |
 | Chop Suey | 47297 | [47297-chop-suey.json](./47297-chop-suey.json) |
 | Chop Sushi | 18252 | [18252-chop-sushi.json](./18252-chop-sushi.json) |
 | Chopper Attack | 3428 | [3428-chopper-attack.json](./3428-chopper-attack.json) |
@@ -1662,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Claus | 322373 | [322373-creepy-claus.json](./322373-creepy-claus.json) |
 | Creepy Corridors | 23902 | [23902-creepy-corridors.json](./23902-creepy-corridors.json) |
 | Creepy Tale 3: Ingrid Penance | 211024 | [211024-creepy-tale-3-ingrid-penance.json](./211024-creepy-tale-3-ingrid-penance.json) |
+| Creepytape Rewind: Not From Here | 399002 | [399002-creepytape-rewind-not-from-here.json](./399002-creepytape-rewind-not-from-here.json) |
 | Creme de la Creme | 126884 | [126884-creme-de-la-creme.json](./126884-creme-de-la-creme.json) |
 | Crescendo Of Dreams + Surmounting Terror | 271490 | [271490-crescendo-of-dreams-surmounting-terror.json](./271490-crescendo-of-dreams-surmounting-terror.json) |
 | Crescent Loom | 134667 | [134667-crescent-loom.json](./134667-crescent-loom.json) |
@@ -1977,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuter Kaizo World | 312344 | [312344-cuter-kaizo-world.json](./312344-cuter-kaizo-world.json) |
 | Cuthbert and the Golden Chalice | 123067 | [123067-cuthbert-and-the-golden-chalice.json](./123067-cuthbert-and-the-golden-chalice.json) |
 | Cuthbert Enters the Tombs of Doom | 123061 | [123061-cuthbert-enters-the-tombs-of-doom.json](./123061-cuthbert-enters-the-tombs-of-doom.json) |
+| Cutie Smile: Kimi to Issho ni | 398994 | [398994-cutie-smile-kimi-to-issho-ni.json](./398994-cutie-smile-kimi-to-issho-ni.json) |
 | Cutie Tutti Frutti | 207534 | [207534-cutie-tutti-frutti.json](./207534-cutie-tutti-frutti.json) |
 | Cuties Hacked: Dakota Photo Pack | 325851 | [325851-cuties-hacked-dakota-photo-pack.json](./325851-cuties-hacked-dakota-photo-pack.json) |
 | CutNRun | 93579 | [93579-cutnrun.json](./93579-cutnrun.json) |
