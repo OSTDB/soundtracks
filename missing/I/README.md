@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immure: Part Two | 167302 | [167302-immure-part-two.json](./167302-immure-part-two.json) |
 | Imogen | 13728 | [13728-imogen.json](./13728-imogen.json) |
 | Imouto Paradise! 2 | 407358 | [407358-imouto-paradise-2.json](./407358-imouto-paradise-2.json) |
+| Imouto Paradise! 3 | 404219 | [404219-imouto-paradise-3.json](./404219-imouto-paradise-3.json) |
 | iMP: Surf the Music | 100197 | [100197-imp-surf-the-music.json](./100197-imp-surf-the-music.json) |
 | Impact Trial: Simulation | 164508 | [164508-impact-trial-simulation.json](./164508-impact-trial-simulation.json) |
 | Impaler Gold | 196078 | [196078-impaler-gold.json](./196078-impaler-gold.json) |
