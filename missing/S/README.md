@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sānguó Qúnyīng Lù | 407319 | [407319-sanguo-qunying-lu.json](./407319-sanguo-qunying-lu.json) |
 | Sānguó Yóuxiá Zhì | 83569 | [83569-sanguo-youxia-zhi.json](./83569-sanguo-youxia-zhi.json) |
 | Sānguó: 223 | 257678 | [257678-sanguo-223.json](./257678-sanguo-223.json) |
+| Sanity Break | 369013 | [369013-sanity-break.json](./369013-sanity-break.json) |
 | Sanity of Morris | 137638 | [137638-sanity-of-morris.json](./137638-sanity-of-morris.json) |
 | Sankhara | 156130 | [156130-sankhara.json](./156130-sankhara.json) |
 | Sankokushi Blast: Shounen Heroes | 220322 | [220322-sankokushi-blast-shounen-heroes.json](./220322-sankokushi-blast-shounen-heroes.json) |
@@ -2054,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul of Mask | 75179 | [75179-soul-of-mask.json](./75179-soul-of-mask.json) |
 | Soul Passage | 236542 | [236542-soul-passage.json](./236542-soul-passage.json) |
 | Soul Recursion | 172183 | [172183-soul-recursion.json](./172183-soul-recursion.json) |
+| Soul Redemption | 369065 | [369065-soul-redemption.json](./369065-soul-redemption.json) |
 | Soul Ride | 70976 | [70976-soul-ride.json](./70976-soul-ride.json) |
 | Soul Rush | 340200 | [340200-soul-rush.json](./340200-soul-rush.json) |
 | Soul Slayers | 145650 | [145650-soul-slayers.json](./145650-soul-slayers.json) |
@@ -2855,6 +2857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Overload | 25570 | [25570-stellar-overload.json](./25570-stellar-overload.json) |
 | Stellar Poetry | 333954 | [333954-stellar-poetry.json](./333954-stellar-poetry.json) |
 | Stellar Return | 311275 | [311275-stellar-return.json](./311275-stellar-return.json) |
+| Stellar Scrapm'n | 369009 | [369009-stellar-scrapmn.json](./369009-stellar-scrapmn.json) |
 | Stellar Shipyard | 388717 | [388717-stellar-shipyard.json](./388717-stellar-shipyard.json) |
 | Stellar Terminus | 318178 | [318178-stellar-terminus.json](./318178-stellar-terminus.json) |
 | Stellar Warfare | 143701 | [143701-stellar-warfare.json](./143701-stellar-warfare.json) |
@@ -2867,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Toxoids | 218170 | [218170-stellaris-toxoids.json](./218170-stellaris-toxoids.json) |
 | Stellifier | 317018 | [317018-stellifier.json](./317018-stellifier.json) |
 | Stem | 24944 | [24944-stem.json](./24944-stem.json) |
+| Step Away | 369037 | [369037-step-away.json](./369037-step-away.json) |
 | Step Jun: Koi no Dai Pinch | 385575 | [385575-step-jun-koi-no-dai-pinch.json](./385575-step-jun-koi-no-dai-pinch.json) |
 | Step Up! | 84902 | [84902-step-up.json](./84902-step-up.json) |
 | StepByStep | 371906 | [371906-stepbystep.json](./371906-stepbystep.json) |
