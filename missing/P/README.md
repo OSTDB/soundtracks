@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ph0b0s | 207521 | [207521-ph0b0s.json](./207521-ph0b0s.json) |
 | Phá Kén: Khúc Điêu Linh | 318783 | [318783-pha-ken-khuc-ieu-linh.json](./318783-pha-ken-khuc-ieu-linh.json) |
 | Phantaruk | 20788 | [20788-phantaruk.json](./20788-phantaruk.json) |
+| Phantasma Hotel | 407340 | [407340-phantasma-hotel.json](./407340-phantasma-hotel.json) |
 | Phantasmagoria | 221 | [221-phantasmagoria.json](./221-phantasmagoria.json) |
 | Phantasmat: The Dread of Oakville | 101551 | [101551-phantasmat-the-dread-of-oakville.json](./101551-phantasmat-the-dread-of-oakville.json) |
 | Phantasy Star Nova | 42674 | [42674-phantasy-star-nova.json](./42674-phantasy-star-nova.json) |
@@ -593,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pianista: The Legendary Virtuoso | 111040 | [111040-pianista-the-legendary-virtuoso.json](./111040-pianista-the-legendary-virtuoso.json) |
 | Piano: Learn and Play - Complete + | 328827 | [328827-piano-learn-and-play-complete.json](./328827-piano-learn-and-play-complete.json) |
 | Piano: Learn and Play - Ultra Director's Cut | 328828 | [328828-piano-learn-and-play-ultra-directors-cut.json](./328828-piano-learn-and-play-ultra-directors-cut.json) |
+| Piāomiǎo Xī Yóu | 407318 | [407318-piaomiao-xi-you.json](./407318-piaomiao-xi-you.json) |
 | Piccadilly's Puzzle Museum | 126015 | [126015-piccadillys-puzzle-museum.json](./126015-piccadillys-puzzle-museum.json) |
 | Pick & Match | 87223 | [87223-pick-and-match.json](./87223-pick-and-match.json) |
 | Pick Me Pick Me | 321125 | [321125-pick-me-pick-me.json](./321125-pick-me-pick-me.json) |
