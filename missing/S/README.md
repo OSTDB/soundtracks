@@ -1732,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokorun: One Box | 209673 | [209673-sokorun-one-box.json](./209673-sokorun-one-box.json) |
 | Sokos | 33053 | [33053-sokos.json](./33053-sokos.json) |
 | Sokotale | 141851 | [141851-sokotale.json](./141851-sokotale.json) |
+| Sol and the Endless Orbit | 375825 | [375825-sol-and-the-endless-orbit.json](./375825-sol-and-the-endless-orbit.json) |
 | Sol Frontiers | 317033 | [317033-sol-frontiers.json](./317033-sol-frontiers.json) |
 | Sol Source Online | 26718 | [26718-sol-source-online.json](./26718-sol-source-online.json) |
 | Sol-Rui: After Mini | 331104 | [331104-sol-rui-after-mini.json](./331104-sol-rui-after-mini.json) |
@@ -2229,6 +2230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spawn: Armageddon | 4160 | [4160-spawn-armageddon.json](./4160-spawn-armageddon.json) |
 | Spawn: In the Demon's Hand | 4358 | [4358-spawn-in-the-demons-hand.json](./4358-spawn-in-the-demons-hand.json) |
 | Speak Lies | 127360 | [127360-speak-lies.json](./127360-speak-lies.json) |
+| Speakeasy Simulator | 375821 | [375821-speakeasy-simulator.json](./375821-speakeasy-simulator.json) |
 | Spear of Destiny | 6633 | [6633-spear-of-destiny.json](./6633-spear-of-destiny.json) |
 | Spear of Destiny: The Final Journey | 177043 | [177043-spear-of-destiny-the-final-journey.json](./177043-spear-of-destiny-the-final-journey.json) |
 | Spear of Destiny: The Kaiseki - Director's Cut | 228098 | [228098-spear-of-destiny-the-kaiseki-directors-cut.json](./228098-spear-of-destiny-the-kaiseki-directors-cut.json) |
@@ -2363,6 +2365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits of Mystery: Family Lies | 102790 | [102790-spirits-of-mystery-family-lies.json](./102790-spirits-of-mystery-family-lies.json) |
 | Spirits of the Silicium Forest | 237049 | [237049-spirits-of-the-silicium-forest.json](./237049-spirits-of-the-silicium-forest.json) |
 | Spirits' Forest | 383366 | [383366-spirits-forest.json](./383366-spirits-forest.json) |
+| Spiritually Unemployed | 375832 | [375832-spiritually-unemployed.json](./375832-spiritually-unemployed.json) |
 | Spirulena Interceptor | 291231 | [291231-spirulena-interceptor.json](./291231-spirulena-interceptor.json) |
 | Spiteful Lovers in a Perfect World | 308539 | [308539-spiteful-lovers-in-a-perfect-world.json](./308539-spiteful-lovers-in-a-perfect-world.json) |
 | Spitfire: Moonpies Mission | 307950 | [307950-spitfire-moonpies-mission.json](./307950-spitfire-moonpies-mission.json) |
@@ -2655,6 +2658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarDrone Extreme | 20815 | [20815-stardrone-extreme.json](./20815-stardrone-extreme.json) |
 | Stardust | 318797 | [318797-stardust.json](./318797-stardust.json) |
 | StarDust: Endless | 105948 | [105948-stardust-endless.json](./105948-stardust-endless.json) |
+| Stares Back | 375854 | [375854-stares-back.json](./375854-stares-back.json) |
 | Starexcess | 124248 | [124248-starexcess.json](./124248-starexcess.json) |
 | Starfall Online | 131612 | [131612-starfall-online.json](./131612-starfall-online.json) |
 | Starfield Digipick-Locking Minigame Simulator | 269304 | [269304-starfield-digipick-locking-minigame-simulator.json](./269304-starfield-digipick-locking-minigame-simulator.json) |
@@ -2724,6 +2728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | States, Firms, and Households | 33122 | [33122-states-firms-and-households.json](./33122-states-firms-and-households.json) |
 | Static Cling | 182519 | [182519-static-cling.json](./182519-static-cling.json) |
 | Static Hour | 415918 | [415918-static-hour.json](./415918-static-hour.json) |
+| Static Signal | 375824 | [375824-static-signal.json](./375824-static-signal.json) |
 | Station 21 - Space Station Simulator | 28883 | [28883-station-21-space-station-simulator.json](./28883-station-21-space-station-simulator.json) |
 | Station 37 | 277027 | [277027-station-37.json](./277027-station-37.json) |
 | Station 5 | 307931 | [307931-station-5.json](./307931-station-5.json) |
