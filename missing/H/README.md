@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heathrow International Air Traffic Control | 133440 | [133440-heathrow-international-air-traffic-control.json](./133440-heathrow-international-air-traffic-control.json) |
 | Heatseeker | 37152 | [37152-heatseeker.json](./37152-heatseeker.json) |
 | HeatStroke | 194629 | [194629-heatstroke.json](./194629-heatstroke.json) |
+| Heave Ho + Heave Ho 2 Bundle | 412952 | [412952-heave-ho-heave-ho-2-bundle.json](./412952-heave-ho-heave-ho-2-bundle.json) |
 | Heaven & Hell | 113031 | [113031-heaven-and-hell.json](./113031-heaven-and-hell.json) |
 | Heaven & Hell 2 | 114375 | [114375-heaven-and-hell-2.json](./114375-heaven-and-hell-2.json) |
 | Heaven And Hell: The Last War | 111713 | [111713-heaven-and-hell-the-last-war.json](./111713-heaven-and-hell-the-last-war.json) |
