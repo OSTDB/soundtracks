@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reason: Casual Puzzle | 148000 | [148000-reason-casual-puzzle.json](./148000-reason-casual-puzzle.json) |
 | Reassembly | 11691 | [11691-reassembly.json](./11691-reassembly.json) |
 | Rebel Moon | 262644 | [262644-rebel-moon.json](./262644-rebel-moon.json) |
+| Rebel Pirates | 371238 | [371238-rebel-pirates.json](./371238-rebel-pirates.json) |
 | Rebel Roar | 408736 | [408736-rebel-roar.json](./408736-rebel-roar.json) |
 | Rebels & Redcoats | 122394 | [122394-rebels-and-redcoats.json](./122394-rebels-and-redcoats.json) |
 | Rebirth | 78571 | [78571-rebirth.json](./78571-rebirth.json) |
@@ -1304,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roswell's 66th Anniversary | 225900 | [225900-roswells-66th-anniversary.json](./225900-roswells-66th-anniversary.json) |
 | Rosy Rubicunda | 299433 | [299433-rosy-rubicunda.json](./299433-rosy-rubicunda.json) |
 | rOt 3D | 119783 | [119783-rot-3d.json](./119783-rot-3d.json) |
+| Rot Forever | 371260 | [371260-rot-forever.json](./371260-rot-forever.json) |
 | RotaDim | 93031 | [93031-rotadim.json](./93031-rotadim.json) |
 | Rotate the Rings | 259234 | [259234-rotate-the-rings.json](./259234-rotate-the-rings.json) |
 | Rotato | 377595 | [377595-rotato.json](./377595-rotato.json) |
