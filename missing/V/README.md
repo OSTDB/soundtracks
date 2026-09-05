@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Martyrs | 335686 | [335686-void-martyrs.json](./335686-void-martyrs.json) |
 | Void Miner | 385580 | [385580-void-miner.json](./385580-void-miner.json) |
 | Void of Space | 173295 | [173295-void-of-space.json](./173295-void-of-space.json) |
+| Void Scavengers | 381001 | [381001-void-scavengers.json](./381001-void-scavengers.json) |
 | Void Sols | 223109 | [223109-void-sols.json](./223109-void-sols.json) |
 | Void/Breaker | 339626 | [339626-void-breaker.json](./339626-void-breaker.json) |
 | Voidbloom | 410248 | [410248-voidbloom.json](./410248-voidbloom.json) |
