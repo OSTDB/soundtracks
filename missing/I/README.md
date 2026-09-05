@@ -595,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invention 6 | 340759 | [340759-invention-6.json](./340759-invention-6.json) |
 | Invention 7 | 340760 | [340760-invention-7.json](./340760-invention-7.json) |
 | Inventor Labs | 94242 | [94242-inventor-labs.json](./94242-inventor-labs.json) |
+| Inventor’s Cabin | 381622 | [381622-inventor-s-cabin.json](./381622-inventor-s-cabin.json) |
 | Inverness Nights | 134676 | [134676-inverness-nights.json](./134676-inverness-nights.json) |
 | Inverse Ninjas vs. The Public Domain | 277593 | [277593-inverse-ninjas-vs-the-public-domain.json](./277593-inverse-ninjas-vs-the-public-domain.json) |
 | Inversion | 7020 | [7020-inversion.json](./7020-inversion.json) |
