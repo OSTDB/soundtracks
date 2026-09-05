@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panel Rabbit | 253611 | [253611-panel-rabbit.json](./253611-panel-rabbit.json) |
 | Paneltia Story: Karen no Daibouken | 97339 | [97339-paneltia-story-karen-no-daibouken.json](./97339-paneltia-story-karen-no-daibouken.json) |
 | Pang: Magical Michael | 66524 | [66524-pang-magical-michael.json](./66524-pang-magical-michael.json) |
+| Pango Build City | 89761 | [89761-pango-build-city.json](./89761-pango-build-city.json) |
 | Pango Hide and seek | 90706 | [90706-pango-hide-and-seek.json](./90706-pango-hide-and-seek.json) |
 | Panic 64 | 130373 | [130373-panic-64.json](./130373-panic-64.json) |
 | Panic Ball! | 315841 | [315841-panic-ball.json](./315841-panic-ball.json) |
@@ -236,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Annovation: Unreal Edition | 243952 | [243952-parkour-annovation-unreal-edition.json](./243952-parkour-annovation-unreal-edition.json) |
 | Parkour Game 2 | 270957 | [270957-parkour-game-2.json](./270957-parkour-game-2.json) |
 | Parkour Master | 145024 | [145024-parkour-master.json](./145024-parkour-master.json) |
+| Parkour Simulator | 89265 | [89265-parkour-simulator.json](./89265-parkour-simulator.json) |
 | Parkour Tag | 163991 | [163991-parkour-tag.json](./163991-parkour-tag.json) |
 | ParkourMan | 105335 | [105335-parkourman.json](./105335-parkourman.json) |
 | Parodius | 174910 | [174910-parodius.json](./174910-parodius.json) |
@@ -1071,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyblicy | 145019 | [145019-polyblicy.json](./145019-polyblicy.json) |
 | Polyfield WW2 | 102148 | [102148-polyfield-ww2.json](./102148-polyfield-ww2.json) |
 | Polygon Base | 274207 | [274207-polygon-base.json](./274207-polygon-base.json) |
+| Polygon Flight | 89572 | [89572-polygon-flight.json](./89572-polygon-flight.json) |
 | Polygonauts | 25785 | [25785-polygonauts.json](./25785-polygonauts.json) |
 | Polyhop: The Skybound Islands | 278743 | [278743-polyhop-the-skybound-islands.json](./278743-polyhop-the-skybound-islands.json) |
 | Polystars | 70998 | [70998-polystars.json](./70998-polystars.json) |
@@ -1307,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Detective Punch Drunk: PDPD | 77365 | [77365-private-detective-punch-drunk-pdpd.json](./77365-private-detective-punch-drunk-pdpd.json) |
 | Private Eye | 10999 | [10999-private-eye.json](./10999-private-eye.json) |
 | Private Garden | 331099 | [331099-private-garden.json](./331099-private-garden.json) |
+| Private School Days | 89760 | [89760-private-school-days.json](./89760-private-school-days.json) |
 | Prizefighters | 239914 | [239914-prizefighters.json](./239914-prizefighters.json) |
 | Pro Cycling 2009 | 68004 | [68004-pro-cycling-2009.json](./68004-pro-cycling-2009.json) |
 | Pro Cycling Manager 2010 | 67311 | [67311-pro-cycling-manager-2010.json](./67311-pro-cycling-manager-2010.json) |
@@ -1627,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Snake | 206382 | [206382-puzzle-snake.json](./206382-puzzle-snake.json) |
 | Puzzle Stampede | 26605 | [26605-puzzle-stampede.json](./26605-puzzle-stampede.json) |
 | Puzzle Star Sweep | 44744 | [44744-puzzle-star-sweep.json](./44744-puzzle-star-sweep.json) |
+| Puzzle Trains | 89276 | [89276-puzzle-trains.json](./89276-puzzle-trains.json) |
 | Puzzle Vacations: Italy | 322976 | [322976-puzzle-vacations-italy.json](./322976-puzzle-vacations-italy.json) |
 | Puzzle Wars | 337984 | [337984-puzzle-wars.json](./337984-puzzle-wars.json) |
 | Puzzle World: Cute Monsters | 203525 | [203525-puzzle-world-cute-monsters.json](./203525-puzzle-world-cute-monsters.json) |
