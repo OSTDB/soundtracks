@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice Try! | 129229 | [129229-nice-try.json](./129229-nice-try.json) |
 | Nick | 29921 | [29921-nick.json](./29921-nick.json) |
 | Nick Faldo Championship Golf | 295038 | [295038-nick-faldo-championship-golf.json](./295038-nick-faldo-championship-golf.json) |
+| Nick Logic for Kids | 387331 | [387331-nick-logic-for-kids.json](./387331-nick-logic-for-kids.json) |
 | Nick Sports | 87199 | [87199-nick-sports.json](./87199-nick-sports.json) |
 | Nick's Night Out | 123052 | [123052-nicks-night-out.json](./123052-nicks-night-out.json) |
 | Nickelodeon Kart Racers 3: Slime Speedway Turbo Pack | 263234 | [263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json](./263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json) |
