@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scoot Hard DX: Daytime Drama Zero | 230508 | [230508-scoot-hard-dx-daytime-drama-zero.json](./230508-scoot-hard-dx-daytime-drama-zero.json) |
 | Scopic | 132865 | [132865-scopic.json](./132865-scopic.json) |
 | Scorched 3D | 51249 | [51249-scorched-3d.json](./51249-scorched-3d.json) |
+| Scorchy Sky Trials | 402905 | [402905-scorchy-sky-trials.json](./402905-scorchy-sky-trials.json) |
 | Score a goal (Physical football) | 29951 | [29951-score-a-goal-physical-football.json](./29951-score-a-goal-physical-football.json) |
 | Scorn | 262084 | [262084-scorn.json](./262084-scorn.json) |
 | Scorpion Overdrive | 193464 | [193464-scorpion-overdrive.json](./193464-scorpion-overdrive.json) |
@@ -1056,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hunter III | 870 | [870-silent-hunter-iii.json](./870-silent-hunter-iii.json) |
 | Silent Hunter Online | 3449 | [3449-silent-hunter-online.json](./3449-silent-hunter-online.json) |
 | Silent Infinity | 202366 | [202366-silent-infinity.json](./202366-silent-infinity.json) |
+| Silent Paradise Anthology | 402901 | [402901-silent-paradise-anthology.json](./402901-silent-paradise-anthology.json) |
 | Silent Scope 3 | 44630 | [44630-silent-scope-3.json](./44630-silent-scope-3.json) |
 | Silent Seeker | 209159 | [209159-silent-seeker.json](./209159-silent-seeker.json) |
 | Silent Steel | 73827 | [73827-silent-steel.json](./73827-silent-steel.json) |
@@ -1415,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Halloween Pumpkins: The Challenge | 103485 | [103485-smash-halloween-pumpkins-the-challenge.json](./103485-smash-halloween-pumpkins-the-challenge.json) |
 | Smash Hit | 39239 | [39239-smash-hit.json](./39239-smash-hit.json) |
 | Smash Pixel Racing | 33154 | [33154-smash-pixel-racing.json](./33154-smash-pixel-racing.json) |
+| Smash Realm | 402941 | [402941-smash-realm.json](./402941-smash-realm.json) |
 | Smash Reversi | 167287 | [167287-smash-reversi.json](./167287-smash-reversi.json) |
 | Smash Table Tennis | 84880 | [84880-smash-table-tennis.json](./84880-smash-table-tennis.json) |
 | Smash Up: Pretty Pretty | 172147 | [172147-smash-up-pretty-pretty.json](./172147-smash-up-pretty-pretty.json) |
@@ -3487,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sven Bømwøllen | 93079 | [93079-sven-b-mw-llen.json](./93079-sven-b-mw-llen.json) |
 | Swagman | 20810 | [20810-swagman.json](./20810-swagman.json) |
 | Swallowtail Butterfly Princess of Sexual Techniques | 82887 | [82887-swallowtail-butterfly-princess-of-sexual-techniques.json](./82887-swallowtail-butterfly-princess-of-sexual-techniques.json) |
+| Swallowtail: Ano Hi, Ao wo Koete | 402897 | [402897-swallowtail-ano-hi-ao-wo-koete.json](./402897-swallowtail-ano-hi-ao-wo-koete.json) |
 | Swamp Attack 2 | 194039 | [194039-swamp-attack-2.json](./194039-swamp-attack-2.json) |
 | Swamp Castle | 276461 | [276461-swamp-castle.json](./276461-swamp-castle.json) |
 | Swamp Gas Visits the United States of America | 65517 | [65517-swamp-gas-visits-the-united-states-of-america.json](./65517-swamp-gas-visits-the-united-states-of-america.json) |
@@ -3532,6 +3536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swipe: Maze solver | 242790 | [242790-swipe-maze-solver.json](./242790-swipe-maze-solver.json) |
 | Swiss Family Robinson | 7732 | [7732-swiss-family-robinson.json](./7732-swiss-family-robinson.json) |
 | Switch 'N' Shoot | 32171 | [32171-switch-n-shoot.json](./32171-switch-n-shoot.json) |
+| Switch Blasters | 402902 | [402902-switch-blasters.json](./402902-switch-blasters.json) |
 | Switch Dash Game | 262069 | [262069-switch-dash-game.json](./262069-switch-dash-game.json) |
 | Switch It | 152896 | [152896-switch-it.json](./152896-switch-it.json) |
 | Switch! | 92519 | [92519-switch.json](./92519-switch.json) |
