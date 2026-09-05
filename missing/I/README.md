@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Spy Mystery | 69891 | [69891-i-spy-mystery.json](./69891-i-spy-mystery.json) |
 | I Spy Treasure Hunt | 73852 | [73852-i-spy-treasure-hunt.json](./73852-i-spy-treasure-hunt.json) |
 | I Wanna Be the Cat | 76580 | [76580-i-wanna-be-the-cat.json](./76580-i-wanna-be-the-cat.json) |
+| I Wanna Be the King! | 367960 | [367960-i-wanna-be-the-king.json](./367960-i-wanna-be-the-king.json) |
 | I Wanna Eat the Lemon | 191263 | [191263-i-wanna-eat-the-lemon.json](./191263-i-wanna-eat-the-lemon.json) |
 | I Wanna Touch | 389984 | [389984-i-wanna-touch.json](./389984-i-wanna-touch.json) |
 | I Want My Mommy | 40789 | [40789-i-want-my-mommy.json](./40789-i-want-my-mommy.json) |
