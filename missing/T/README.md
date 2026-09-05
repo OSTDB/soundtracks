@@ -1417,6 +1417,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings Online: Corsairs of Umbar | 275928 | [275928-the-lord-of-the-rings-online-corsairs-of-umbar.json](./275928-the-lord-of-the-rings-online-corsairs-of-umbar.json) |
 | The Lord of the Rings Online: Fate of Gundabad | 275926 | [275926-the-lord-of-the-rings-online-fate-of-gundabad.json](./275926-the-lord-of-the-rings-online-fate-of-gundabad.json) |
 | The Lord of the Rings Online: Minas Morgul | 275924 | [275924-the-lord-of-the-rings-online-minas-morgul.json](./275924-the-lord-of-the-rings-online-minas-morgul.json) |
+| The Lord of the Rings Online: Quest Pack: Legacy of the Necromancer | 384536 | [384536-the-lord-of-the-rings-online-quest-pack-legacy-of-the-necromancer.json](./384536-the-lord-of-the-rings-online-quest-pack-legacy-of-the-necromancer.json) |
+| The Lord of the Rings Online: Quest Pack: The Vales of Anduin | 384540 | [384540-the-lord-of-the-rings-online-quest-pack-the-vales-of-anduin.json](./384540-the-lord-of-the-rings-online-quest-pack-the-vales-of-anduin.json) |
+| The Lord of the Rings Online: Quest Pack: Where Dragons Dwell | 384539 | [384539-the-lord-of-the-rings-online-quest-pack-where-dragons-dwell.json](./384539-the-lord-of-the-rings-online-quest-pack-where-dragons-dwell.json) |
 | The Lord of the Rings Online: Siege of Mirkwood | 21155 | [21155-the-lord-of-the-rings-online-siege-of-mirkwood.json](./21155-the-lord-of-the-rings-online-siege-of-mirkwood.json) |
 | The Lord of the Rings Online: War of Three Peaks | 275925 | [275925-the-lord-of-the-rings-online-war-of-three-peaks.json](./275925-the-lord-of-the-rings-online-war-of-three-peaks.json) |
 | The Lord of the Rings: Adventure Card Game - Definitive Edition | 147962 | [147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json](./147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json) |
@@ -2960,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Tactics | 204089 | [204089-toy-tactics.json](./204089-toy-tactics.json) |
 | Toy Wars Invasion | 9449 | [9449-toy-wars-invasion.json](./9449-toy-wars-invasion.json) |
 | Toybox | 184645 | [184645-toybox.json](./184645-toybox.json) |
+| ToyCamp | 384507 | [384507-toycamp.json](./384507-toycamp.json) |
 | Toymaker | 10941 | [10941-toymaker.json](./10941-toymaker.json) |
 | Toypunk | 403575 | [403575-toypunk.json](./403575-toypunk.json) |
 | Toys: Crash Arena | 221396 | [221396-toys-crash-arena.json](./221396-toys-crash-arena.json) |
@@ -3359,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trumpets | 179164 | [179164-trumpets.json](./179164-trumpets.json) |
 | Trundle | 93599 | [93599-trundle.json](./93599-trundle.json) |
 | Trust & Safety: Armed Conflict | 401484 | [401484-trust-and-safety-armed-conflict.json](./401484-trust-and-safety-armed-conflict.json) |
+| Trust Me Bro, I Trade | 384515 | [384515-trust-me-bro-i-trade.json](./384515-trust-me-bro-i-trade.json) |
 | Truth Loop | 218735 | [218735-truth-loop.json](./218735-truth-loop.json) |
 | Truth Loop 2 | 246120 | [246120-truth-loop-2.json](./246120-truth-loop-2.json) |
 | Truth or Lies | 25217 | [25217-truth-or-lies.json](./25217-truth-or-lies.json) |
