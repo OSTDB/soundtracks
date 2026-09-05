@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawn Shop Simulator | 208605 | [208605-pawn-shop-simulator.json](./208605-pawn-shop-simulator.json) |
 | Pawnholm | 292302 | [292302-pawnholm.json](./292302-pawnholm.json) |
 | Paws | 94253 | [94253-paws.json](./94253-paws.json) |
+| Paws & Circuits: Reboot Earth | 412961 | [412961-paws-and-circuits-reboot-earth.json](./412961-paws-and-circuits-reboot-earth.json) |
 | Paws & Claws: Pet Resort | 18272 | [18272-paws-and-claws-pet-resort.json](./18272-paws-and-claws-pet-resort.json) |
 | Paws for Adventure | 204108 | [204108-paws-for-adventure.json](./204108-paws-for-adventure.json) |
 | Paws: A Shelter 2 Game | 17007 | [17007-paws-a-shelter-2-game.json](./17007-paws-a-shelter-2-game.json) |
@@ -389,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness - Episode Two | 14917 | [14917-penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-two.json](./14917-penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-two.json) |
 | Penny RPG: Shadows of the Lost - A Blood City Tale | 149611 | [149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json](./149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json) |
 | Penrose | 262681 | [262681-penrose.json](./262681-penrose.json) |
+| Pent's Wacky, Zany Road Trip to Adulthood | 412953 | [412953-pents-wacky-zany-road-trip-to-adulthood.json](./412953-pents-wacky-zany-road-trip-to-adulthood.json) |
 | PentaZorg | 278143 | [278143-pentazorg.json](./278143-pentazorg.json) |
 | Penthos | 178070 | [178070-penthos.json](./178070-penthos.json) |
 | Pentomino | 202422 | [202422-pentomino.json](./202422-pentomino.json) |
