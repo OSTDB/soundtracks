@@ -661,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillow Bellow | 151173 | [151173-pillow-bellow.json](./151173-pillow-bellow.json) |
 | Pillowheads: It's Party Time | 137644 | [137644-pillowheads-its-party-time.json](./137644-pillowheads-its-party-time.json) |
 | Pilot Brothers | 25513 | [25513-pilot-brothers.json](./25513-pilot-brothers.json) |
+| Pilot Brothers 3D: The Case of the garden pests | 403598 | [403598-pilot-brothers-3d-the-case-of-the-garden-pests.json](./403598-pilot-brothers-3d-the-case-of-the-garden-pests.json) |
 | Pilot Rudder VR | 105340 | [105340-pilot-rudder-vr.json](./105340-pilot-rudder-vr.json) |
 | Pilot Rush | 243388 | [243388-pilot-rush.json](./243388-pilot-rush.json) |
 | Pilot Sophie | 96719 | [96719-pilot-sophie.json](./96719-pilot-sophie.json) |
@@ -1458,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project DeepWeb | 120422 | [120422-project-deepweb.json](./120422-project-deepweb.json) |
 | Project Discovery: Daidai Daisuki! | 59409 | [59409-project-discovery-daidai-daisuki.json](./59409-project-discovery-daidai-daisuki.json) |
 | Project DT | 143098 | [143098-project-dt.json](./143098-project-dt.json) |
+| Project Eclipse | 403580 | [403580-project-eclipse.json](./403580-project-eclipse.json) |
 | Project Epic | 324096 | [324096-project-epic.json](./324096-project-epic.json) |
 | Project Evolve | 306067 | [306067-project-evolve.json](./306067-project-evolve.json) |
 | Project Genesis | 114409 | [114409-project-genesis.json](./114409-project-genesis.json) |
