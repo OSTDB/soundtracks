@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camper Jumper Simulator | 31541 | [31541-camper-jumper-simulator.json](./31541-camper-jumper-simulator.json) |
 | Campfire Harmony | 402251 | [402251-campfire-harmony.json](./402251-campfire-harmony.json) |
 | Campfire Stories : Episode 1 | 265400 | [265400-campfire-stories-episode-1.json](./265400-campfire-stories-episode-1.json) |
+| Campire of Oasis: The Story | 397659 | [397659-campire-of-oasis-the-story.json](./397659-campire-of-oasis-the-story.json) |
 | Campus | 24998 | [24998-campus.json](./24998-campus.json) |
 | Can Bullet | 296646 | [296646-can-bullet.json](./296646-can-bullet.json) |
 | Can Knockdown 3 | 96722 | [96722-can-knockdown-3.json](./96722-can-knockdown-3.json) |
