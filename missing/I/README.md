@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can Destroy Everything!!! | 274739 | [274739-i-can-destroy-everything.json](./274739-i-can-destroy-everything.json) |
 | I Can't Be Human | 332813 | [332813-i-cant-be-human.json](./332813-i-cant-be-human.json) |
 | I Can't Escape: Darkness | 35861 | [35861-i-cant-escape-darkness.json](./35861-i-cant-escape-darkness.json) |
+| I Can't Reid | 386100 | [386100-i-cant-reid.json](./386100-i-cant-reid.json) |
 | I Can't Remember a Time I Didn't Need You | 188627 | [188627-i-cant-remember-a-time-i-didnt-need-you.json](./188627-i-cant-remember-a-time-i-didnt-need-you.json) |
 | I Commissioned Some Bees 10 | 224776 | [224776-i-commissioned-some-bees-10.json](./224776-i-commissioned-some-bees-10.json) |
 | I Commissioned Some Bees 2 | 205245 | [205245-i-commissioned-some-bees-2.json](./205245-i-commissioned-some-bees-2.json) |
