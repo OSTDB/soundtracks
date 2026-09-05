@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impostor Hide Online | 179727 | [179727-impostor-hide-online.json](./179727-impostor-hide-online.json) |
 | Impractical Spells | 295525 | [295525-impractical-spells.json](./295525-impractical-spells.json) |
 | Impresja | 47992 | [47992-impresja.json](./47992-impresja.json) |
+| Imprint | 397650 | [397650-imprint.json](./397650-imprint.json) |
 | Improbable Soccer | 141236 | [141236-improbable-soccer.json](./141236-improbable-soccer.json) |
 | Impulse!: Brick breaker | 253016 | [253016-impulse-brick-breaker.json](./253016-impulse-brick-breaker.json) |
 | Imvi: Echoes of Harmony | 340748 | [340748-imvi-echoes-of-harmony.json](./340748-imvi-echoes-of-harmony.json) |
@@ -337,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie Bungle 2: Breakout Indies | 414340 | [414340-indie-bungle-2-breakout-indies.json](./414340-indie-bungle-2-breakout-indies.json) |
 | Indie Gems Bundle: JRPG Edition | 129805 | [129805-indie-gems-bundle-jrpg-edition.json](./129805-indie-gems-bundle-jrpg-edition.json) |
 | Indiepocalypse #75 | 402283 | [402283-indiepocalypse-75.json](./402283-indiepocalypse-75.json) |
+| Indignum | 397664 | [397664-indignum.json](./397664-indignum.json) |
 | Indigo Prophecy | 410247 | [410247-indigo-prophecy.json](./410247-indigo-prophecy.json) |
 | Indoor Baseball | 330562 | [330562-indoor-baseball.json](./330562-indoor-baseball.json) |
 | Induction | 18194 | [18194-induction.json](./18194-induction.json) |
