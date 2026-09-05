@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiwi Farm | 246101 | [246101-kiwi-farm.json](./246101-kiwi-farm.json) |
 | Kiwi Game | 306689 | [306689-kiwi-game.json](./306689-kiwi-game.json) |
 | Kiwi: Airborne | 306690 | [306690-kiwi-airborne.json](./306690-kiwi-airborne.json) |
+| Kiwi's Adventure | 367946 | [367946-kiwis-adventure.json](./367946-kiwis-adventure.json) |
 | KiwiFlight | 306707 | [306707-kiwiflight.json](./306707-kiwiflight.json) |
 | Kiwis Can't Fly | 306691 | [306691-kiwis-cant-fly.json](./306691-kiwis-cant-fly.json) |
 | KKuTuDotNet | 143754 | [143754-kkutudotnet.json](./143754-kkutudotnet.json) |
@@ -603,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KosmoSquad | 154561 | [154561-kosmosquad.json](./154561-kosmosquad.json) |
 | Kosodate Quiz My Angel | 40224 | [40224-kosodate-quiz-my-angel.json](./40224-kosodate-quiz-my-angel.json) |
 | Kosodate Quiz My Angel 2 | 40223 | [40223-kosodate-quiz-my-angel-2.json](./40223-kosodate-quiz-my-angel-2.json) |
+| Kot-rybolov | 367945 | [367945-kot-rybolov.json](./367945-kot-rybolov.json) |
 | Kotoko's a Little Weird | 290687 | [290687-kotokos-a-little-weird.json](./290687-kotokos-a-little-weird.json) |
 | Kotomasho: I Can't Believe This Neet Guy Turned Into a Magical Girl! | 203532 | [203532-kotomasho-i-cant-believe-this-neet-guy-turned-into-a-magical-girl.json](./203532-kotomasho-i-cant-believe-this-neet-guy-turned-into-a-magical-girl.json) |
 | Kotori no Tsubasa | 405511 | [405511-kotori-no-tsubasa.json](./405511-kotori-no-tsubasa.json) |
