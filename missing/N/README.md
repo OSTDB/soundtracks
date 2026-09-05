@@ -183,6 +183,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NE_01 | 109025 | [109025-ne-01.json](./109025-ne-01.json) |
 | Neanderthal Man | 13742 | [13742-neanderthal-man.json](./13742-neanderthal-man.json) |
 | Near Bird | 113700 | [113700-near-bird.json](./113700-near-bird.json) |
+| Near-Mage + Gibbous: The Kittehverse | 403584 | [403584-near-mage-gibbous-the-kittehverse.json](./403584-near-mage-gibbous-the-kittehverse.json) |
+| Near-Mage: Clothes & Hair Pack | 403585 | [403585-near-mage-clothes-and-hair-pack.json](./403585-near-mage-clothes-and-hair-pack.json) |
 | NearEscape | 109685 | [109685-nearescape.json](./109685-nearescape.json) |
 | Nebuchadnezzar | 126806 | [126806-nebuchadnezzar.json](./126806-nebuchadnezzar.json) |
 | Nebula | 197412 | [197412-nebula.json](./197412-nebula.json) |
