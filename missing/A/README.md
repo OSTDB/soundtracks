@@ -2050,6 +2050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avolteha | 208022 | [208022-avolteha.json](./208022-avolteha.json) |
 | Avorion | 27114 | [27114-avorion.json](./27114-avorion.json) |
 | Avorion: Into the Rift | 210867 | [210867-avorion-into-the-rift.json](./210867-avorion-into-the-rift.json) |
+| Avril | 373011 | [373011-avril.json](./373011-avril.json) |
 | Avy, Fables of the Night | 269288 | [269288-avy-fables-of-the-night.json](./269288-avy-fables-of-the-night.json) |
 | AWA 2024 | 278169 | [278169-awa-2024.json](./278169-awa-2024.json) |
 | AwakeMUD | 228698 | [228698-awakemud.json](./228698-awakemud.json) |
