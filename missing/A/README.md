@@ -482,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the Fall | 119330 | [119330-after-the-fall.json](./119330-after-the-fall.json) |
 | After the Fall: Launch Edition | 196313 | [196313-after-the-fall-launch-edition.json](./196313-after-the-fall-launch-edition.json) |
 | After the Inferno | 211423 | [211423-after-the-inferno.json](./211423-after-the-inferno.json) |
+| After the Wane | 387356 | [387356-after-the-wane.json](./387356-after-the-wane.json) |
 | After the War | 5713 | [5713-after-the-war.json](./5713-after-the-war.json) |
 | After War Town | 278173 | [278173-after-war-town.json](./278173-after-war-town.json) |
 | After You: Level Escape | 249478 | [249478-after-you-level-escape.json](./249478-after-you-level-escape.json) |
@@ -1064,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anemoiapolis | 141855 | [141855-anemoiapolis.json](./141855-anemoiapolis.json) |
 | Anesthesia | 216468 | [216468-anesthesia.json](./216468-anesthesia.json) |
 | Angel Beats! 1st Beat | 11414 | [11414-angel-beats-1st-beat.json](./11414-angel-beats-1st-beat.json) |
+| Angel Engine | 387370 | [387370-angel-engine.json](./387370-angel-engine.json) |
 | Angel Gate | 242241 | [242241-angel-gate.json](./242241-angel-gate.json) |
 | Angel in Inferno | 402316 | [402316-angel-in-inferno.json](./402316-angel-in-inferno.json) |
 | Angel Legion: Oriental - Purple | 254160 | [254160-angel-legion-oriental-purple.json](./254160-angel-legion-oriental-purple.json) |
@@ -1152,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Uni 3D: Hot Vacay | 401560 | [401560-anime-uni-3d-hot-vacay.json](./401560-anime-uni-3d-hot-vacay.json) |
 | Anime Vampire Slayer | 118421 | [118421-anime-vampire-slayer.json](./118421-anime-vampire-slayer.json) |
 | Anime Wave Simulator | 156668 | [156668-anime-wave-simulator.json](./156668-anime-wave-simulator.json) |
+| Animentals | 387361 | [387361-animentals.json](./387361-animentals.json) |
 | Animetic Story Game 1: Cardcaptor Sakura | 132867 | [132867-animetic-story-game-1-cardcaptor-sakura.json](./132867-animetic-story-game-1-cardcaptor-sakura.json) |
 | Animorphs: Shattered Reality | 43927 | [43927-animorphs-shattered-reality.json](./43927-animorphs-shattered-reality.json) |
 | Anise Flowers | 185129 | [185129-anise-flowers.json](./185129-anise-flowers.json) |
@@ -2012,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayakashibito: Genyou Ibunroku | 56521 | [56521-ayakashibito-genyou-ibunroku.json](./56521-ayakashibito-genyou-ibunroku.json) |
 | Ayda | 317604 | [317604-ayda.json](./317604-ayda.json) |
 | Aye Fair Lady | 126019 | [126019-aye-fair-lady.json](./126019-aye-fair-lady.json) |
+| Aye Leon | 387342 | [387342-aye-leon.json](./387342-aye-leon.json) |
 | Ayni Fairyland | 107896 | [107896-ayni-fairyland.json](./107896-ayni-fairyland.json) |
 | Ayu: The Dream Soul | 149098 | [149098-ayu-the-dream-soul.json](./149098-ayu-the-dream-soul.json) |
 | Ayumi-chan Monogatari | 41410 | [41410-ayumi-chan-monogatari.json](./41410-ayumi-chan-monogatari.json) |
