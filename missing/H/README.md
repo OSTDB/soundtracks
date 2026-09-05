@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted? | 265980 | [265980-haunted.json](./265980-haunted.json) |
 | Haunting Ground | 14605 | [14605-haunting-ground.json](./14605-haunting-ground.json) |
 | Hauntworks | 410264 | [410264-hauntworks.json](./410264-hauntworks.json) |
+| Haus | 377074 | [377074-haus.json](./377074-haus.json) |
 | Haustoria | 130922 | [130922-haustoria.json](./130922-haustoria.json) |
 | Have You Herd? | 235970 | [235970-have-you-herd.json](./235970-have-you-herd.json) |
 | Haven & Hearth | 328235 | [328235-haven-and-hearth.json](./328235-haven-and-hearth.json) |
