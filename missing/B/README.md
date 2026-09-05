@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bacteria Wars | 165701 | [165701-bacteria-wars.json](./165701-bacteria-wars.json) |
 | Bacteria: Collector's Edition | 52620 | [52620-bacteria-collectors-edition.json](./52620-bacteria-collectors-edition.json) |
 | Bacteriophage | 197948 | [197948-bacteriophage.json](./197948-bacteriophage.json) |
+| Bactory | 413612 | [413612-bactory.json](./413612-bactory.json) |
 | Baculus | 140599 | [140599-baculus.json](./140599-baculus.json) |
 | Bad 2 Bad: Apocalypse | 239913 | [239913-bad-2-bad-apocalypse.json](./239913-bad-2-bad-apocalypse.json) |
 | Bad Bad | 195235 | [195235-bad-bad.json](./195235-bad-bad.json) |
@@ -228,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Pilot | 6316 | [6316-banjo-pilot.json](./6316-banjo-pilot.json) |
 | Bankruptcy | 292283 | [292283-bankruptcy.json](./292283-bankruptcy.json) |
 | Bankshot Billiards 2 | 20523 | [20523-bankshot-billiards-2.json](./20523-bankshot-billiards-2.json) |
+| Bannerlands | 413683 | [413683-bannerlands.json](./413683-bannerlands.json) |
 | Banshiryuu | 123606 | [123606-banshiryuu.json](./123606-banshiryuu.json) |
 | Bansoko | 179193 | [179193-bansoko.json](./179193-bansoko.json) |
 | Banui Moheom: Idle RPG | 219781 | [219781-banui-moheom-idle-rpg.json](./219781-banui-moheom-idle-rpg.json) |
@@ -1014,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blight Dream | 121029 | [121029-blight-dream.json](./121029-blight-dream.json) |
 | Blightseeker | 236510 | [236510-blightseeker.json](./236510-blightseeker.json) |
 | Bliink: Staring Contest | 143089 | [143089-bliink-staring-contest.json](./143089-bliink-staring-contest.json) |
+| Blik Ball | 413660 | [413660-blik-ball.json](./413660-blik-ball.json) |
 | Blind Shot | 145003 | [145003-blind-shot.json](./145003-blind-shot.json) |
 | Blinding Oversight | 253592 | [253592-blinding-oversight.json](./253592-blinding-oversight.json) |
 | Blindscape | 26644 | [26644-blindscape.json](./26644-blindscape.json) |
@@ -1324,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BorderStrain | 115037 | [115037-borderstrain.json](./115037-borderstrain.json) |
 | Boreal Tenebrae: Deluxe Ultimate Edition | 247753 | [247753-boreal-tenebrae-deluxe-ultimate-edition.json](./247753-boreal-tenebrae-deluxe-ultimate-edition.json) |
 | Boredom Survivor | 301611 | [301611-boredom-survivor.json](./301611-boredom-survivor.json) |
+| BOREWORKS | 413654 | [413654-boreworks.json](./413654-boreworks.json) |
 | Boring Game | 166741 | [166741-boring-game.json](./166741-boring-game.json) |
 | Boring in paradise | 156657 | [156657-boring-in-paradise.json](./156657-boring-in-paradise.json) |
 | Born in Blood | 224784 | [224784-born-in-blood.json](./224784-born-in-blood.json) |
