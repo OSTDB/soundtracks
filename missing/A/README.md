@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cat Cafe Story | 183047 | [183047-a-cat-cafe-story.json](./183047-a-cat-cafe-story.json) |
 | A Cat in Dungeons | 149573 | [149573-a-cat-in-dungeons.json](./149573-a-cat-in-dungeons.json) |
 | A Certain Erotic Daily Scenes | 82930 | [82930-a-certain-erotic-daily-scenes.json](./82930-a-certain-erotic-daily-scenes.json) |
+| A Certain Incremental Exoplanet | 389999 | [389999-a-certain-incremental-exoplanet.json](./389999-a-certain-incremental-exoplanet.json) |
 | A Chat with Charon | 138254 | [138254-a-chat-with-charon.json](./138254-a-chat-with-charon.json) |
 | A Christmas Gift: Timmy's Final Gift | 312366 | [312366-a-christmas-gift-timmys-final-gift.json](./312366-a-christmas-gift-timmys-final-gift.json) |
 | A Christmas Story From Hell VR | 189163 | [189163-a-christmas-story-from-hell-vr.json](./189163-a-christmas-story-from-hell-vr.json) |
@@ -82,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Line Held Tight | 404819 | [404819-a-line-held-tight.json](./404819-a-line-held-tight.json) |
 | A List of People Who Went Missing in the Scheleirland National Forest | 193468 | [193468-a-list-of-people-who-went-missing-in-the-scheleirland-national-forest.json](./193468-a-list-of-people-who-went-missing-in-the-scheleirland-national-forest.json) |
 | A Little Lily Princess | 33333 | [33333-a-little-lily-princess.json](./33333-a-little-lily-princess.json) |
+| A Little Physics Roguelike | 389960 | [389960-a-little-physics-roguelike.json](./389960-a-little-physics-roguelike.json) |
 | A Little to the Left: Deep Clean | 264334 | [264334-a-little-to-the-left-deep-clean.json](./264334-a-little-to-the-left-deep-clean.json) |
 | A Little to the Left: Trick or Tidy | 321177 | [321177-a-little-to-the-left-trick-or-tidy.json](./321177-a-little-to-the-left-trick-or-tidy.json) |
 | A Lone Piece | 235979 | [235979-a-lone-piece.json](./235979-a-lone-piece.json) |
@@ -496,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against All Odds | 228719 | [228719-against-all-odds.json](./228719-against-all-odds.json) |
 | Against Ether | 173293 | [173293-against-ether.json](./173293-against-ether.json) |
 | Against the Light | 412992 | [412992-against-the-light.json](./412992-against-the-light.json) |
+| Against Wokou Frontline | 389992 | [389992-against-wokou-frontline.json](./389992-against-wokou-frontline.json) |
 | Agapan | 35878 | [35878-agapan.json](./35878-agapan.json) |
 | Agapito's Crazy Adventure | 332833 | [332833-agapitos-crazy-adventure.json](./332833-agapitos-crazy-adventure.json) |
 | Agatha Christie: 4:50 from Paddington | 135245 | [135245-agatha-christie-4-50-from-paddington.json](./135245-agatha-christie-4-50-from-paddington.json) |
@@ -646,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aiyana | 211415 | [211415-aiyana.json](./211415-aiyana.json) |
 | AJAX Club Football 2005 | 47305 | [47305-ajax-club-football-2005.json](./47305-ajax-club-football-2005.json) |
 | Ajisai Shiyou ka! | 394134 | [394134-ajisai-shiyou-ka.json](./394134-ajisai-shiyou-ka.json) |
+| Ajnabee: The Unknown | 389975 | [389975-ajnabee-the-unknown.json](./389975-ajnabee-the-unknown.json) |
 | Aka Manto | 121558 | [121558-aka-manto.json](./121558-aka-manto.json) |
 | Akane | 103484 | [103484-akane.json](./103484-akane.json) |
 | Akane Chan-bara | 204685 | [204685-akane-chan-bara.json](./204685-akane-chan-bara.json) |
@@ -680,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akuma | 201835 | [201835-akuma.json](./201835-akuma.json) |
 | Akuma no Shinpan | 307961 | [307961-akuma-no-shinpan.json](./307961-akuma-no-shinpan.json) |
 | Akumon Summoner | 393458 | [393458-akumon-summoner.json](./393458-akumon-summoner.json) |
+| Akunin-Akka | 389995 | [389995-akunin-akka.json](./389995-akunin-akka.json) |
 | Akuya | 30891 | [30891-akuya.json](./30891-akuya.json) |
 | Akyrikon VR | 158204 | [158204-akyrikon-vr.json](./158204-akyrikon-vr.json) |
 | Al Unser Jr.'s Road to the Top | 42631 | [42631-al-unser-jr-s-road-to-the-top.json](./42631-al-unser-jr-s-road-to-the-top.json) |
@@ -752,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Warped Wonderland | 145633 | [145633-alices-warped-wonderland.json](./145633-alices-warped-wonderland.json) |
 | Alice's Wonderland: Cast in Shadow | 296067 | [296067-alices-wonderland-cast-in-shadow.json](./296067-alices-wonderland-cast-in-shadow.json) |
 | Alien 3 | 8908 | [8908-alien-3.json](./8908-alien-3.json) |
+| Alien Apocalypse | 390010 | [390010-alien-apocalypse.json](./390010-alien-apocalypse.json) |
 | Alien Attack | 313465 | [313465-alien-attack.json](./313465-alien-attack.json) |
 | Alien Colosseum | 211407 | [211407-alien-colosseum.json](./211407-alien-colosseum.json) |
 | Alien Cube | 254779 | [254779-alien-cube.json](./254779-alien-cube.json) |
