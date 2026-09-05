@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village Tanuki | 185138 | [185138-village-tanuki.json](./185138-village-tanuki.json) |
 | Villager comes alive | 192451 | [192451-villager-comes-alive.json](./192451-villager-comes-alive.json) |
 | Villainous | 319976 | [319976-villainous.json](./319976-villainous.json) |
+| Vilmonic | 33104 | [33104-vilmonic.json](./33104-vilmonic.json) |
 | Vincemus: Air Combat | 195259 | [195259-vincemus-air-combat.json](./195259-vincemus-air-combat.json) |
 | Vincent | 242243 | [242243-vincent.json](./242243-vincent.json) |
 | Vincent | 310751 | [310751-vincent.json](./310751-vincent.json) |
@@ -312,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visit Once | 147469 | [147469-visit-once.json](./147469-visit-once.json) |
 | Visitor | 177557 | [177557-visitor.json](./177557-visitor.json) |
 | VISK | 248914 | [248914-visk.json](./248914-visk.json) |
+| Vistascapes VR | 32891 | [32891-vistascapes-vr.json](./32891-vistascapes-vr.json) |
 | Visualizer | 80590 | [80590-visualizer.json](./80590-visualizer.json) |
 | Vital Force | 62188 | [62188-vital-force.json](./62188-vital-force.json) |
 | Vitality | 213040 | [213040-vitality.json](./213040-vitality.json) |
@@ -384,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyna | 224781 | [224781-voyna.json](./224781-voyna.json) |
 | VR AirHockey | 195221 | [195221-vr-airhockey.json](./195221-vr-airhockey.json) |
 | VR Angry Cow Farm Simulator | 109021 | [109021-vr-angry-cow-farm-simulator.json](./109021-vr-angry-cow-farm-simulator.json) |
+| VR Baseball - Home Run Competition | 33105 | [33105-vr-baseball-home-run-competition.json](./33105-vr-baseball-home-run-competition.json) |
 | VR Baseball '97 | 20819 | [20819-vr-baseball-97.json](./20819-vr-baseball-97.json) |
 | VR Boyfriend | 196337 | [196337-vr-boyfriend.json](./196337-vr-boyfriend.json) |
 | VR Cops | 253019 | [253019-vr-cops.json](./253019-vr-cops.json) |
@@ -418,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vritra: Complete Edition | 107917 | [107917-vritra-complete-edition.json](./107917-vritra-complete-edition.json) |
 | VRLab Academy: Anatomy VR | 115011 | [115011-vrlab-academy-anatomy-vr.json](./115011-vrlab-academy-anatomy-vr.json) |
 | Vroom Vroom !!! | 87527 | [87527-vroom-vroom.json](./87527-vroom-vroom.json) |
+| Vroomist | 32915 | [32915-vroomist.json](./32915-vroomist.json) |
 | Vrsus Dead | 306080 | [306080-vrsus-dead.json](./306080-vrsus-dead.json) |
 | VS Sonic: Dash & Spin | 223136 | [223136-vs-sonic-dash-and-spin.json](./223136-vs-sonic-dash-and-spin.json) |
 | Vs. | 18307 | [18307-vs.json](./18307-vs.json) |
