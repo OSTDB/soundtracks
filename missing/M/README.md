@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girl Noble Rose | 173817 | [173817-magical-girl-noble-rose.json](./173817-magical-girl-noble-rose.json) |
 | Magical Girl Yusya-chan and the Labyrinth of Lust | 406694 | [406694-magical-girl-yusya-chan-and-the-labyrinth-of-lust.json](./406694-magical-girl-yusya-chan-and-the-labyrinth-of-lust.json) |
 | Magical girl's labyrinth | 105332 | [105332-magical-girls-labyrinth.json](./105332-magical-girls-labyrinth.json) |
+| Magical Girls | 378775 | [378775-magical-girls.json](./378775-magical-girls.json) |
 | Magical Girls vs. Cat Aliens | 325847 | [325847-magical-girls-vs-cat-aliens.json](./325847-magical-girls-vs-cat-aliens.json) |
 | Magical Jewelry | 48670 | [48670-magical-jewelry.json](./48670-magical-jewelry.json) |
 | Magical Paradise Train | 252990 | [252990-magical-paradise-train.json](./252990-magical-paradise-train.json) |
@@ -822,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melody Mania | 247782 | [247782-melody-mania.json](./247782-melody-mania.json) |
 | Melody of the Light | 181909 | [181909-melody-of-the-light.json](./181909-melody-of-the-light.json) |
 | Melody's Escape 2 | 217497 | [217497-melodys-escape-2.json](./217497-melodys-escape-2.json) |
+| Melon Parker: We are Whatever Club! | 378816 | [378816-melon-parker-we-are-whatever-club.json](./378816-melon-parker-we-are-whatever-club.json) |
 | Melon's Sokoban Walk | 386103 | [386103-melons-sokoban-walk.json](./386103-melons-sokoban-walk.json) |
 | Melter Man | 34411 | [34411-melter-man.json](./34411-melter-man.json) |
 | Melting Hearts: Our Love Will Grow 2 | 33080 | [33080-melting-hearts-our-love-will-grow-2.json](./33080-melting-hearts-our-love-will-grow-2.json) |
@@ -1036,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miazma or the Devil's Stone | 99012 | [99012-miazma-or-the-devils-stone.json](./99012-miazma-or-the-devils-stone.json) |
 | Michael Jackson's Moonwalker | 262508 | [262508-michael-jacksons-moonwalker.json](./262508-michael-jacksons-moonwalker.json) |
 | Michael Owen's WLS 2000 | 3407 | [3407-michael-owens-wls-2000.json](./3407-michael-owens-wls-2000.json) |
+| Michael's Dream Adventure | 378815 | [378815-michaels-dream-adventure.json](./378815-michaels-dream-adventure.json) |
 | Michel Futbol Master + Super Skills | 93076 | [93076-michel-futbol-master-super-skills.json](./93076-michel-futbol-master-super-skills.json) |
 | Mickey Mouse | 153449 | [153449-mickey-mouse.json](./153449-mickey-mouse.json) |
 | Mickey Mouse | 78680 | [78680-mickey-mouse.json](./78680-mickey-mouse.json) |
@@ -1814,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaic | 18929 | [18929-mosaic.json](./18929-mosaic.json) |
 | Mosaic Chronicles Deluxe: Complete + | 328837 | [328837-mosaic-chronicles-deluxe-complete.json](./328837-mosaic-chronicles-deluxe-complete.json) |
 | Mosaic Chronicles Deluxe: Ultimate Edition | 243366 | [243366-mosaic-chronicles-deluxe-ultimate-edition.json](./243366-mosaic-chronicles-deluxe-ultimate-edition.json) |
+| Mosaic Quiz | 378814 | [378814-mosaic-quiz.json](./378814-mosaic-quiz.json) |
 | Mosaic Your Crush! | 161394 | [161394-mosaic-your-crush.json](./161394-mosaic-your-crush.json) |
 | Mosaique Neko Waifus 2 | 167808 | [167808-mosaique-neko-waifus-2.json](./167808-mosaique-neko-waifus-2.json) |
 | Mosaique Neko Waifus 4 | 167809 | [167809-mosaique-neko-waifus-4.json](./167809-mosaique-neko-waifus-4.json) |
