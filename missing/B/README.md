@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banzai Pecan: The Last Hope For the Young Century | 35947 | [35947-banzai-pecan-the-last-hope-for-the-young-century.json](./35947-banzai-pecan-the-last-hope-for-the-young-century.json) |
 | Baoxiao Chuji | 306642 | [306642-baoxiao-chuji.json](./306642-baoxiao-chuji.json) |
 | Baoxiao Duobiqiu | 97353 | [97353-baoxiao-duobiqiu.json](./97353-baoxiao-duobiqiu.json) |
+| Bar Keeper | 411559 | [411559-bar-keeper.json](./411559-bar-keeper.json) |
 | Bara Boarders | 183046 | [183046-bara-boarders.json](./183046-bara-boarders.json) |
 | Bara no Ki ni: Bara no Hanasaku | 56522 | [56522-bara-no-ki-ni-bara-no-hanasaku.json](./56522-bara-no-ki-ni-bara-no-hanasaku.json) |
 | Baraduke | 39856 | [39856-baraduke.json](./39856-baraduke.json) |
@@ -525,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bazzle | 231080 | [231080-bazzle.json](./231080-bazzle.json) |
 | BBlocks | 109737 | [109737-bblocks.json](./109737-bblocks.json) |
 | BBQ Simulator: The Squad | 185674 | [185674-bbq-simulator-the-squad.json](./185674-bbq-simulator-the-squad.json) |
+| Bckspce | 411576 | [411576-bckspce.json](./411576-bckspce.json) |
 | Be a Pirate | 143746 | [143746-be-a-pirate.json](./143746-be-a-pirate.json) |
 | Be Brave, Barb | 331143 | [331143-be-brave-barb.json](./331143-be-brave-barb.json) |
 | Be Funny Now! | 194440 | [194440-be-funny-now.json](./194440-be-funny-now.json) |
@@ -799,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billiards II Simulator | 14305 | [14305-billiards-ii-simulator.json](./14305-billiards-ii-simulator.json) |
 | Billiards Simulator | 14304 | [14304-billiards-simulator.json](./14304-billiards-simulator.json) |
 | Billion Road | 109474 | [109474-billion-road.json](./109474-billion-road.json) |
+| Billionaire Life Simulator | 411583 | [411583-billionaire-life-simulator.json](./411583-billionaire-life-simulator.json) |
 | Billionworlds : Kingdoms | 153437 | [153437-billionworlds-kingdoms.json](./153437-billionworlds-kingdoms.json) |
 | Billy 101 | 192964 | [192964-billy-101.json](./192964-billy-101.json) |
 | Billy Boy | 72130 | [72130-billy-boy.json](./72130-billy-boy.json) |
@@ -978,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasphemous Experiments | 268723 | [268723-blasphemous-experiments.json](./268723-blasphemous-experiments.json) |
 | Blasphemous II: Mea Culpa | 317595 | [317595-blasphemous-ii-mea-culpa.json](./317595-blasphemous-ii-mea-culpa.json) |
 | Blast Bots | 194022 | [194022-blast-bots.json](./194022-blast-bots.json) |
+| Blast Dash | 411571 | [411571-blast-dash.json](./411571-blast-dash.json) |
 | Blast Force | 123616 | [123616-blast-force.json](./123616-blast-force.json) |
 | Blast It | 245549 | [245549-blast-it.json](./245549-blast-it.json) |
 | Blast Royale | 231621 | [231621-blast-royale.json](./231621-blast-royale.json) |
