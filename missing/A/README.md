@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akudaikan Manyuuki: Seigi no Yaiba | 56513 | [56513-akudaikan-manyuuki-seigi-no-yaiba.json](./56513-akudaikan-manyuuki-seigi-no-yaiba.json) |
 | Akuma | 201835 | [201835-akuma.json](./201835-akuma.json) |
 | Akuma no Shinpan | 307961 | [307961-akuma-no-shinpan.json](./307961-akuma-no-shinpan.json) |
+| Akumon Summoner | 393458 | [393458-akumon-summoner.json](./393458-akumon-summoner.json) |
 | Akuya | 30891 | [30891-akuya.json](./30891-akuya.json) |
 | Akyrikon VR | 158204 | [158204-akyrikon-vr.json](./158204-akyrikon-vr.json) |
 | Al Unser Jr.'s Road to the Top | 42631 | [42631-al-unser-jr-s-road-to-the-top.json](./42631-al-unser-jr-s-road-to-the-top.json) |
@@ -827,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Star Racing 2 | 43930 | [43930-all-star-racing-2.json](./43930-all-star-racing-2.json) |
 | All Star Soccer | 81432 | [81432-all-star-soccer.json](./81432-all-star-soccer.json) |
 | All the Mods 9: No Frills | 291253 | [291253-all-the-mods-9-no-frills.json](./291253-all-the-mods-9-no-frills.json) |
+| All The Places You'll Go (Women As Place) | 393497 | [393497-all-the-places-youll-go-women-as-place.json](./393497-all-the-places-youll-go-women-as-place.json) |
 | All Things Equal I Would Prefer It If We Were Safe & Lonely Instead of Together & Afraid But I Cannot Deny That It Is Hard; or: A Solitary Spacecraft. | 133997 | [133997-all-things-equal-i-would-prefer-it-if-we-were-safe-and-lonely-instead-of-together-and-afraid-but-i-cannot-deny-that-it-is-hard-or-a-solitary-spacecraft.json](./133997-all-things-equal-i-would-prefer-it-if-we-were-safe-and-lonely-instead-of-together-and-afraid-but-i-cannot-deny-that-it-is-hard-or-a-solitary-spacecraft.json) |
 | All Under Control | 335069 | [335069-all-under-control.json](./335069-all-under-control.json) |
 | All We Need | 263212 | [263212-all-we-need.json](./263212-all-we-need.json) |
