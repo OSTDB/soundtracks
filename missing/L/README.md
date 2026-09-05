@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lauras Tierklinik | 163974 | [163974-lauras-tierklinik.json](./163974-lauras-tierklinik.json) |
 | Lava-Runners | 331680 | [331680-lava-runners.json](./331680-lava-runners.json) |
 | Lavapools | 25000 | [25000-lavapools.json](./25000-lavapools.json) |
+| Lavender Station | 404205 | [404205-lavender-station.json](./404205-lavender-station.json) |
 | Lawmage Academy | 125472 | [125472-lawmage-academy.json](./125472-lawmage-academy.json) |
 | Lawn & Order | 177021 | [177021-lawn-and-order.json](./177021-lawn-and-order.json) |
 | Lawn Mowing Simulator VR | 284830 | [284830-lawn-mowing-simulator-vr.json](./284830-lawn-mowing-simulator-vr.json) |
@@ -327,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leisure Suit Larry: Wet Dreams Don't Dry | 102087 | [102087-leisure-suit-larry-wet-dreams-dont-dry.json](./102087-leisure-suit-larry-wet-dreams-dont-dry.json) |
 | Leisure Suit Larry: Wet Dreams Saga Bundle | 173791 | [173791-leisure-suit-larry-wet-dreams-saga-bundle.json](./173791-leisure-suit-larry-wet-dreams-saga-bundle.json) |
 | Leisurely Brick | 267656 | [267656-leisurely-brick.json](./267656-leisurely-brick.json) |
+| Lek gjemsel med Mummitrollet | 404209 | [404209-lek-gjemsel-med-mummitrollet.json](./404209-lek-gjemsel-med-mummitrollet.json) |
 | Lemmings | 239310 | [239310-lemmings.json](./239310-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 242242 | [242242-lemmings-and-oh-no-more-lemmings.json](./242242-lemmings-and-oh-no-more-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 243377 | [243377-lemmings-and-oh-no-more-lemmings.json](./243377-lemmings-and-oh-no-more-lemmings.json) |
@@ -830,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Affairs | 303785 | [303785-love-affairs.json](./303785-love-affairs.json) |
 | Love and Formaldehyde | 225266 | [225266-love-and-formaldehyde.json](./225266-love-and-formaldehyde.json) |
 | Love Bakudan | 152390 | [152390-love-bakudan.json](./152390-love-bakudan.json) |
+| Love Collection 4-in-1 | 404259 | [404259-love-collection-4-in-1.json](./404259-love-collection-4-in-1.json) |
 | Love Colors: Everyday Pixels | 195230 | [195230-love-colors-everyday-pixels.json](./195230-love-colors-everyday-pixels.json) |
 | Love Colors: Pixel Seasons | 195229 | [195229-love-colors-pixel-seasons.json](./195229-love-colors-pixel-seasons.json) |
 | Love Connection! | 242789 | [242789-love-connection.json](./242789-love-connection.json) |
