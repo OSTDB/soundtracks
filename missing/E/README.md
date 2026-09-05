@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Mugen no Shinzou III PC-8801mkIISR | 390490 | [390490-eggconsole-mugen-no-shinzou-iii-pc-8801mkiisr.json](./390490-eggconsole-mugen-no-shinzou-iii-pc-8801mkiisr.json) |
 | Eggconsole Onryou Senki PC-8801mkIISR | 412951 | [412951-eggconsole-onryou-senki-pc-8801mkiisr.json](./412951-eggconsole-onryou-senki-pc-8801mkiisr.json) |
 | Eggconsole Xak PC-8801mkIISR | 292867 | [292867-eggconsole-xak-pc-8801mkiisr.json](./292867-eggconsole-xak-pc-8801mkiisr.json) |
+| Eggconsole: Arugisu no Tsubasa | 385060 | [385060-eggconsole-arugisu-no-tsubasa.json](./385060-eggconsole-arugisu-no-tsubasa.json) |
 | Egghead Gumpty | 210852 | [210852-egghead-gumpty.json](./210852-egghead-gumpty.json) |
 | Eggies | 233770 | [233770-eggies.json](./233770-eggies.json) |
 | Eggman | 309664 | [309664-eggman.json](./309664-eggman.json) |
