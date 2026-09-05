@@ -581,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Stars - Deluxe | 53235 | [53235-into-the-stars-deluxe.json](./53235-into-the-stars-deluxe.json) |
 | Into the Timeverse | 172180 | [172180-into-the-timeverse.json](./172180-into-the-timeverse.json) |
 | Into the War | 35825 | [35825-into-the-war.json](./35825-into-the-war.json) |
+| Into The Wild | 377583 | [377583-into-the-wild.json](./377583-into-the-wild.json) |
 | Intrana | 310207 | [310207-intrana.json](./310207-intrana.json) |
 | Intrepid | 112999 | [112999-intrepid.json](./112999-intrepid.json) |
 | Introspectus | 398353 | [398353-introspectus.json](./398353-introspectus.json) |
