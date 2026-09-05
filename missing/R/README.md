@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolve | 26722 | [26722-revolve.json](./26722-revolve.json) |
 | Revolver360 | 79926 | [79926-revolver360.json](./79926-revolver360.json) |
 | Rewilder | 303782 | [303782-rewilder.json](./303782-rewilder.json) |
+| Rewindead | 382756 | [382756-rewindead.json](./382756-rewindead.json) |
 | Rex | 45348 | [45348-rex.json](./45348-rex.json) |
 | Rex Blade: The Battle Begins | 209165 | [209165-rex-blade-the-battle-begins.json](./209165-rex-blade-the-battle-begins.json) |
 | Rex Ronan: Experimental Surgeon | 42651 | [42651-rex-ronan-experimental-surgeon.json](./42651-rex-ronan-experimental-surgeon.json) |
@@ -778,10 +779,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Hell | 257080 | [257080-rhythm-hell.json](./257080-rhythm-hell.json) |
 | Rhythm Racer | 406108 | [406108-rhythm-racer.json](./406108-rhythm-racer.json) |
 | Rhythm Stars Climbing | 157196 | [157196-rhythm-stars-climbing.json](./157196-rhythm-stars-climbing.json) |
+| Rhythm Typer | 382798 | [382798-rhythm-typer.json](./382798-rhythm-typer.json) |
 | Rhythm Zone | 51283 | [51283-rhythm-zone.json](./51283-rhythm-zone.json) |
 | Rhythmscapes | 317017 | [317017-rhythmscapes.json](./317017-rhythmscapes.json) |
 | RhythmSlinger | 154000 | [154000-rhythmslinger.json](./154000-rhythmslinger.json) |
 | RhythmStar | 230522 | [230522-rhythmstar.json](./230522-rhythmstar.json) |
+| Ribbeat | 382771 | [382771-ribbeat.json](./382771-ribbeat.json) |
 | Ribbits | 341867 | [341867-ribbits.json](./341867-ribbits.json) |
 | Ribby Rocket | 149599 | [149599-ribby-rocket.json](./149599-ribby-rocket.json) |
 | Rich Diamond | 209167 | [209167-rich-diamond.json](./209167-rich-diamond.json) |
@@ -1119,6 +1122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Kingdoms | 317594 | [317594-rogue-kingdoms.json](./317594-rogue-kingdoms.json) |
 | Rogue Lords: Day One Edition | 199631 | [199631-rogue-lords-day-one-edition.json](./199631-rogue-lords-day-one-edition.json) |
 | Rogue Nova | 270926 | [270926-rogue-nova.json](./270926-rogue-nova.json) |
+| Rogue Patterns | 382767 | [382767-rogue-patterns.json](./382767-rogue-patterns.json) |
 | Rogue Racing: PinkSlip | 234322 | [234322-rogue-racing-pinkslip.json](./234322-rogue-racing-pinkslip.json) |
 | Rogue Randy | 166778 | [166778-rogue-randy.json](./166778-rogue-randy.json) |
 | Rogue Run | 407304 | [407304-rogue-run.json](./407304-rogue-run.json) |
@@ -1128,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Survivor | 80557 | [80557-rogue-survivor.json](./80557-rogue-survivor.json) |
 | Rogue Trooper Redux: Collector's Edition | 154524 | [154524-rogue-trooper-redux-collectors-edition.json](./154524-rogue-trooper-redux-collectors-edition.json) |
 | Rogue Waves | 414345 | [414345-rogue-waves.json](./414345-rogue-waves.json) |
+| Rogueblock | 382770 | [382770-rogueblock.json](./382770-rogueblock.json) |
 | RogueCraft Squadron | 56507 | [56507-roguecraft-squadron.json](./56507-roguecraft-squadron.json) |
 | Roguelike Hero | 107898 | [107898-roguelike-hero.json](./107898-roguelike-hero.json) |
 | Rogueline | 209659 | [209659-rogueline.json](./209659-rogueline.json) |
