@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canada Break | 208582 | [208582-canada-break.json](./208582-canada-break.json) |
 | Canada Break: Head to Head | 209618 | [209618-canada-break-head-to-head.json](./209618-canada-break-head-to-head.json) |
 | Candelabra Estoscerro | 143077 | [143077-candelabra-estoscerro.json](./143077-candelabra-estoscerro.json) |
+| Candivity: Snow & Sand Edition | 400197 | [400197-candivity-snow-and-sand-edition.json](./400197-candivity-snow-and-sand-edition.json) |
 | Candlelight | 276456 | [276456-candlelight.json](./276456-candlelight.json) |
 | Candles of the Damned | 271491 | [271491-candles-of-the-damned.json](./271491-candles-of-the-damned.json) |
 | Candy Bandit | 19697 | [19697-candy-bandit.json](./19697-candy-bandit.json) |
@@ -574,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie's Delivery | 219821 | [219821-charlies-delivery.json](./219821-charlies-delivery.json) |
 | Charm | 232657 | [232657-charm.json](./232657-charm.json) |
 | Charm Studies | 243409 | [243409-charm-studies.json](./243409-charm-studies.json) |
+| Charm Studies | 400215 | [400215-charm-studies.json](./400215-charm-studies.json) |
 | Charmy Maze | 332220 | [332220-charmy-maze.json](./332220-charmy-maze.json) |
 | Chase Chase Jokers | 269298 | [269298-chase-chase-jokers.json](./269298-chase-chase-jokers.json) |
 | Chase Survivors | 244512 | [244512-chase-survivors.json](./244512-chase-survivors.json) |
@@ -1040,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Penguin Brasil | 194619 | [194619-club-penguin-brasil.json](./194619-club-penguin-brasil.json) |
 | Club Penguin Dimensions | 319377 | [319377-club-penguin-dimensions.json](./319377-club-penguin-dimensions.json) |
 | Club Soccer Director 2018 | 55160 | [55160-club-soccer-director-2018.json](./55160-club-soccer-director-2018.json) |
+| Club Sports Collection: Definitive Edition | 400198 | [400198-club-sports-collection-definitive-edition.json](./400198-club-sports-collection-definitive-edition.json) |
 | Club Vanentine | 228689 | [228689-club-vanentine.json](./228689-club-vanentine.json) |
 | Clubhouse Games Express: Card Classics | 70418 | [70418-clubhouse-games-express-card-classics.json](./70418-clubhouse-games-express-card-classics.json) |
 | Clue | 206977 | [206977-clue.json](./206977-clue.json) |
@@ -1238,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commando Raid | 11153 | [11153-commando-raid.json](./11153-commando-raid.json) |
 | Commando vs Zombies | 99002 | [99002-commando-vs-zombies.json](./99002-commando-vs-zombies.json) |
 | Commissar's Contrapasso | 126018 | [126018-commissars-contrapasso.json](./126018-commissars-contrapasso.json) |
+| Common Loot | 400254 | [400254-common-loot.json](./400254-common-loot.json) |
 | Commonwealth Games | 13705 | [13705-commonwealth-games.json](./13705-commonwealth-games.json) |
 | Communication Game | 312918 | [312918-communication-game.json](./312918-communication-game.json) |
 | Communion | 290724 | [290724-communion.json](./290724-communion.json) |
