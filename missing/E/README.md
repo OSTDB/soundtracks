@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escapee GO! | 67059 | [67059-escapee-go.json](./67059-escapee-go.json) |
 | Escapers | 210853 | [210853-escapers.json](./210853-escapers.json) |
 | Escaping Darkness | 320531 | [320531-escaping-darkness.json](./320531-escaping-darkness.json) |
+| Escatpade | 374083 | [374083-escatpade.json](./374083-escatpade.json) |
 | Eschalism | 385574 | [385574-eschalism.json](./385574-eschalism.json) |
 | Escoba Broom Cards Game | 331690 | [331690-escoba-broom-cards-game.json](./331690-escoba-broom-cards-game.json) |
 | Eslander | 120993 | [120993-eslander.json](./120993-eslander.json) |
