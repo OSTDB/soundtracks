@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Space 3: Limited Edition | 44604 | [44604-dead-space-3-limited-edition.json](./44604-dead-space-3-limited-edition.json) |
 | Dead Space: Collector's Edition | 229975 | [229975-dead-space-collectors-edition.json](./229975-dead-space-collectors-edition.json) |
 | Dead Spawn | 121710 | [121710-dead-spawn.json](./121710-dead-spawn.json) |
+| Dead Spell | 400250 | [400250-dead-spell.json](./400250-dead-spell.json) |
 | Dead Spin | 404215 | [404215-dead-spin.json](./404215-dead-spin.json) |
 | Dead Spreading: Survival | 239911 | [239911-dead-spreading-survival.json](./239911-dead-spreading-survival.json) |
 | Dead Station | 225883 | [225883-dead-station.json](./225883-dead-station.json) |
@@ -1352,6 +1353,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down Under | 252397 | [252397-down-under.json](./252397-down-under.json) |
 | Downbreak | 95578 | [95578-downbreak.json](./95578-downbreak.json) |
 | Downfall to the Turnabout | 303757 | [303757-downfall-to-the-turnabout.json](./303757-downfall-to-the-turnabout.json) |
+| Download RAM Idle | 400222 | [400222-download-ram-idle.json](./400222-download-ram-idle.json) |
+| Download RAM Idle 2 | 400221 | [400221-download-ram-idle-2.json](./400221-download-ram-idle-2.json) |
 | Downtown Mafia: Gang Wars | 105348 | [105348-downtown-mafia-gang-wars.json](./105348-downtown-mafia-gang-wars.json) |
 | Downtown Nekketsu Jidaigeki | 60562 | [60562-downtown-nekketsu-jidaigeki.json](./60562-downtown-nekketsu-jidaigeki.json) |
 | Downtown Run | 242783 | [242783-downtown-run.json](./242783-downtown-run.json) |
