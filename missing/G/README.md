@@ -405,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giants | 158196 | [158196-giants.json](./158196-giants.json) |
 | Giants War | 103492 | [103492-giants-war.json](./103492-giants-war.json) |
 | Gibbous: A Cthulhu Adventure | 18841 | [18841-gibbous-a-cthulhu-adventure.json](./18841-gibbous-a-cthulhu-adventure.json) |
+| Gido Gido: Kaiju Battle Party | 404214 | [404214-gido-gido-kaiju-battle-party.json](./404214-gido-gido-kaiju-battle-party.json) |
 | Gift | 95440 | [95440-gift.json](./95440-gift.json) |
 | Gift for You | 290702 | [290702-gift-for-you.json](./290702-gift-for-you.json) |
 | Gift Shop Factory | 159360 | [159360-gift-shop-factory.json](./159360-gift-shop-factory.json) |
@@ -684,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Boy | 229329 | [229329-good-boy.json](./229329-good-boy.json) |
 | Good Boy 2 | 229330 | [229330-good-boy-2.json](./229330-good-boy-2.json) |
 | Good Boy! | 99629 | [99629-good-boy.json](./99629-good-boy.json) |
+| Good Children Say Grace | 404251 | [404251-good-children-say-grace.json](./404251-good-children-say-grace.json) |
 | Good Doggo | 99627 | [99627-good-doggo.json](./99627-good-doggo.json) |
 | Good Game | 215358 | [215358-good-game.json](./215358-good-game.json) |
 | Good Girl | 107880 | [107880-good-girl.json](./107880-good-girl.json) |
