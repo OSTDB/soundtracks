@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I.Q Intelligent Qube | 215363 | [215363-i-q-intelligent-qube.json](./215363-i-q-intelligent-qube.json) |
 | I'd Kill You as a Worm | 331682 | [331682-id-kill-you-as-a-worm.json](./331682-id-kill-you-as-a-worm.json) |
 | I'm a Grown Up!! Dreamy Sweetie The Devil Slayer | 301585 | [301585-im-a-grown-up-dreamy-sweetie-the-devil-slayer.json](./301585-im-a-grown-up-dreamy-sweetie-the-devil-slayer.json) |
+| I’m a Wizard, But I Dig | 384526 | [384526-i-m-a-wizard-but-i-dig.json](./384526-i-m-a-wizard-but-i-dig.json) |
 | I'm in Love With Your Dead Grandmother Presents: Noah Smalljohnson's Puzzle Game - Digital Deluxe Mega Chad Edition | 332816 | [332816-im-in-love-with-your-dead-grandmother-presents-noah-smalljohnsons-puzzle-game-digital-deluxe-mega-chad-edition.json](./332816-im-in-love-with-your-dead-grandmother-presents-noah-smalljohnsons-puzzle-game-digital-deluxe-mega-chad-edition.json) |
 | I'm Just a Slime | 260424 | [260424-im-just-a-slime.json](./260424-im-just-a-slime.json) |
 | I'm Late | 223173 | [223173-im-late.json](./223173-im-late.json) |
@@ -387,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InfiniPicross 3 | 251807 | [251807-infinipicross-3.json](./251807-infinipicross-3.json) |
 | Infinita Strada | 61682 | [61682-infinita-strada.json](./61682-infinita-strada.json) |
 | Infinite Backrooms | 405531 | [405531-infinite-backrooms.json](./405531-infinite-backrooms.json) |
+| Infinite Ball Well | 384513 | [384513-infinite-ball-well.json](./384513-infinite-ball-well.json) |
 | Infinite Chef | 300411 | [300411-infinite-chef.json](./300411-infinite-chef.json) |
 | Infinite Construction | 192442 | [192442-infinite-construction.json](./192442-infinite-construction.json) |
 | Infinite Dash | 173800 | [173800-infinite-dash.json](./173800-infinite-dash.json) |
