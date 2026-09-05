@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MapGame | 341893 | [341893-mapgame.json](./341893-mapgame.json) |
 | Maple Tale | 319374 | [319374-maple-tale.json](./319374-maple-tale.json) |
 | MapleStory | 9804 | [9804-maplestory.json](./9804-maplestory.json) |
+| MapleStory Classic | 411557 | [411557-maplestory-classic.json](./411557-maplestory-classic.json) |
 | MapleStory DS | 79942 | [79942-maplestory-ds.json](./79942-maplestory-ds.json) |
 | MapleStory: Unmei no Shoujo | 130368 | [130368-maplestory-unmei-no-shoujo.json](./130368-maplestory-unmei-no-shoujo.json) |
 | Maps 4Matt | 312897 | [312897-maps-4matt.json](./312897-maps-4matt.json) |
@@ -616,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me and the Key 3 | 225281 | [225281-me-and-the-key-3.json](./225281-me-and-the-key-3.json) |
 | Me and the Zombies | 200714 | [200714-me-and-the-zombies.json](./200714-me-and-the-zombies.json) |
 | Me vs. You | 172177 | [172177-me-vs-you.json](./172177-me-vs-you.json) |
+| Mea’s Saifu Collection Party | 411618 | [411618-mea-s-saifu-collection-party.json](./411618-mea-s-saifu-collection-party.json) |
 | Meal: Mystery Escape Room | 311828 | [311828-meal-mystery-escape-room.json](./311828-meal-mystery-escape-room.json) |
 | Meaning | 82891 | [82891-meaning.json](./82891-meaning.json) |
 | Measurement Problem | 166740 | [166740-measurement-problem.json](./166740-measurement-problem.json) |
@@ -1733,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motteke Tamago | 42015 | [42015-motteke-tamago.json](./42015-motteke-tamago.json) |
 | Motteke Tamago Ganbare Kamonohashi | 62206 | [62206-motteke-tamago-ganbare-kamonohashi.json](./62206-motteke-tamago-ganbare-kamonohashi.json) |
 | Mottia: The Gem Hunters | 215914 | [215914-mottia-the-gem-hunters.json](./215914-mottia-the-gem-hunters.json) |
+| Motto Immortal | 411564 | [411564-motto-immortal.json](./411564-motto-immortal.json) |
 | Motto Shiritai Kodai Egypt | 276471 | [276471-motto-shiritai-kodai-egypt.json](./276471-motto-shiritai-kodai-egypt.json) |
 | Motto! SoniComi | 93600 | [93600-motto-sonicomi.json](./93600-motto-sonicomi.json) |
 | Motto!? Fushigi no Gensoukyou Plus: The Dungeon of Dreams and Magic | 206938 | [206938-motto-fushigi-no-gensoukyou-plus-the-dungeon-of-dreams-and-magic.json](./206938-motto-fushigi-no-gensoukyou-plus-the-dungeon-of-dreams-and-magic.json) |
