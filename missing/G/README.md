@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls VR | 109708 | [109708-girls-vr.json](./109708-girls-vr.json) |
 | Girls X Battle: GXB Global | 104098 | [104098-girls-x-battle-gxb-global.json](./104098-girls-x-battle-gxb-global.json) |
 | Girls! Girls! Girls!? | 219796 | [219796-girls-girls-girls.json](./219796-girls-girls-girls.json) |
+| Girls' Day Out | 407327 | [407327-girls-day-out.json](./407327-girls-day-out.json) |
 | Girls' Film Club! | 410245 | [410245-girls-film-club.json](./410245-girls-film-club.json) |
 | GiseiHero | 149096 | [149096-giseihero.json](./149096-giseihero.json) |
 | Give My Regards to Broad Street | 66710 | [66710-give-my-regards-to-broad-street.json](./66710-give-my-regards-to-broad-street.json) |
@@ -811,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Defender | 121772 | [121772-graveyard-defender.json](./121772-graveyard-defender.json) |
 | Graveyard Dude | 340203 | [340203-graveyard-dude.json](./340203-graveyard-dude.json) |
 | Graveyard Ghoul! | 133999 | [133999-graveyard-ghoul.json](./133999-graveyard-ghoul.json) |
+| Graveyard Orbit | 407329 | [407329-graveyard-orbit.json](./407329-graveyard-orbit.json) |
 | GraviSound | 109701 | [109701-gravisound.json](./109701-gravisound.json) |
 | Gravitas | 134000 | [134000-gravitas.json](./134000-gravitas.json) |
 | Gravitational | 150150 | [150150-gravitational.json](./150150-gravitational.json) |
@@ -857,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Time Trio Remake | 306684 | [306684-great-time-trio-remake.json](./306684-great-time-trio-remake.json) |
 | Great Toy Showdown | 251838 | [251838-great-toy-showdown.json](./251838-great-toy-showdown.json) |
 | Greatest Dungeon | 295546 | [295546-greatest-dungeon.json](./295546-greatest-dungeon.json) |
+| Greebly Gambit | 407336 | [407336-greebly-gambit.json](./407336-greebly-gambit.json) |
 | Greed 3: Old Enemies Returning | 115702 | [115702-greed-3-old-enemies-returning.json](./115702-greed-3-old-enemies-returning.json) |
 | Greed City | 341900 | [341900-greed-city.json](./341900-greed-city.json) |
 | Greed School Test | 231606 | [231606-greed-school-test.json](./231606-greed-school-test.json) |
@@ -1017,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gǔlóng Fēngyún Lù | 413005 | [413005-gulong-fengyun-lu.json](./413005-gulong-fengyun-lu.json) |
 | Gulu: A Tail's Journey | 215354 | [215354-gulu-a-tails-journey.json](./215354-gulu-a-tails-journey.json) |
 | Gum Droppers | 140608 | [140608-gum-droppers.json](./140608-gum-droppers.json) |
+| Gumball Hero | 407353 | [407353-gumball-hero.json](./407353-gumball-hero.json) |
 | Gumchu Girl | 137682 | [137682-gumchu-girl.json](./137682-gumchu-girl.json) |
 | Gummy Bears: Magical Medallion | 50628 | [50628-gummy-bears-magical-medallion.json](./50628-gummy-bears-magical-medallion.json) |
 | Gummy Slide | 251236 | [251236-gummy-slide.json](./251236-gummy-slide.json) |
@@ -1079,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunship Recon: Character Puzzles | 163418 | [163418-gunship-recon-character-puzzles.json](./163418-gunship-recon-character-puzzles.json) |
 | Gunship Recon: Purchase Privilege | 156168 | [156168-gunship-recon-purchase-privilege.json](./156168-gunship-recon-purchase-privilege.json) |
 | Gunshoot | 76614 | [76614-gunshoot.json](./76614-gunshoot.json) |
+| Gunshot Arcade | 407339 | [407339-gunshot-arcade.json](./407339-gunshot-arcade.json) |
 | GunShy | 229376 | [229376-gunshy.json](./229376-gunshy.json) |
 | Gunslinger | 81337 | [81337-gunslinger.json](./81337-gunslinger.json) |
 | Gunslinger Girl Volume III | 252375 | [252375-gunslinger-girl-volume-iii.json](./252375-gunslinger-girl-volume-iii.json) |
