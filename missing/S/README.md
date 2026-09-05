@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seafox | 22416 | [22416-seafox.json](./22416-seafox.json) |
 | Seal of Shadows | 410237 | [410237-seal-of-shadows.json](./410237-seal-of-shadows.json) |
 | Seal of Solitomb | 325860 | [325860-seal-of-solitomb.json](./325860-seal-of-solitomb.json) |
+| Sealbreakers | 387360 | [387360-sealbreakers.json](./387360-sealbreakers.json) |
 | Sealed | 306661 | [306661-sealed.json](./306661-sealed.json) |
 | Sealed Bite: Extended | 291228 | [291228-sealed-bite-extended.json](./291228-sealed-bite-extended.json) |
 | Seals From the Frosty Bay | 402302 | [402302-seals-from-the-frosty-bay.json](./402302-seals-from-the-frosty-bay.json) |
@@ -472,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeaQuest DSV | 138802 | [138802-seaquest-dsv.json](./138802-seaquest-dsv.json) |
 | Search | 233771 | [233771-search.json](./233771-search.json) |
 | Search & Destroy | 43347 | [43347-search-and-destroy.json](./43347-search-and-destroy.json) |
+| Search All: Bones | 387338 | [387338-search-all-bones.json](./387338-search-all-bones.json) |
 | Search for the Secret Keys | 69885 | [69885-search-for-the-secret-keys.json](./69885-search-for-the-secret-keys.json) |
 | Search for the Titanic | 69849 | [69849-search-for-the-titanic.json](./69849-search-for-the-titanic.json) |
 | Seashell Thief | 302111 | [302111-seashell-thief.json](./302111-seashell-thief.json) |
@@ -1104,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Scope 3 | 44630 | [44630-silent-scope-3.json](./44630-silent-scope-3.json) |
 | Silent Seeker | 209159 | [209159-silent-seeker.json](./209159-silent-seeker.json) |
 | Silent Steel | 73827 | [73827-silent-steel.json](./73827-silent-steel.json) |
+| Silent Still III | 387378 | [387378-silent-still-iii.json](./387378-silent-still-iii.json) |
 | Silent Storm: Sentinels | 10845 | [10845-silent-storm-sentinels.json](./10845-silent-storm-sentinels.json) |
 | Silent Threat | 311259 | [311259-silent-threat.json](./311259-silent-threat.json) |
 | Silentium 2D | 106578 | [106578-silentium-2d.json](./106578-silentium-2d.json) |
@@ -3026,6 +3029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suicide Guy: Sleepin' Deeply | 102917 | [102917-suicide-guy-sleepin-deeply.json](./102917-suicide-guy-sleepin-deeply.json) |
 | Suidou Kozou | 91949 | [91949-suidou-kozou.json](./91949-suidou-kozou.json) |
 | Suika Jelly Game | 310174 | [310174-suika-jelly-game.json](./310174-suika-jelly-game.json) |
+| Suika Monsters | 387352 | [387352-suika-monsters.json](./387352-suika-monsters.json) |
 | Suiren | 131578 | [131578-suiren.json](./131578-suiren.json) |
 | Suite PreCure: Happy Oshare Harmony | 327601 | [327601-suite-precure-happy-oshare-harmony.json](./327601-suite-precure-happy-oshare-harmony.json) |
 | Sukeban Deka III | 48684 | [48684-sukeban-deka-iii.json](./48684-sukeban-deka-iii.json) |
@@ -3059,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summon Night Ex-These: Yoake no Tsubasa | 69844 | [69844-summon-night-ex-these-yoake-no-tsubasa.json](./69844-summon-night-ex-these-yoake-no-tsubasa.json) |
 | Summon Night: Swordcraft Story 2 | 6616 | [6616-summon-night-swordcraft-story-2.json](./6616-summon-night-swordcraft-story-2.json) |
 | Summoner's Sky | 295562 | [295562-summoners-sky.json](./295562-summoners-sky.json) |
+| Summoning: Ouija Best Practices | 387358 | [387358-summoning-ouija-best-practices.json](./387358-summoning-ouija-best-practices.json) |
 | Summum | 181402 | [181402-summum.json](./181402-summum.json) |
 | Sumy Shelltris: Iceblocks 1 | 197388 | [197388-sumy-shelltris-iceblocks-1.json](./197388-sumy-shelltris-iceblocks-1.json) |
 | Sun City | 310176 | [310176-sun-city.json](./310176-sun-city.json) |
@@ -3549,6 +3554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surprise Cat | 213593 | [213593-surprise-cat.json](./213593-surprise-cat.json) |
 | Surreal Farm | 316418 | [316418-surreal-farm.json](./316418-surreal-farm.json) |
 | Surreality | 71008 | [71008-surreality.json](./71008-surreality.json) |
+| Surreality Check | 387376 | [387376-surreality-check.json](./387376-surreality-check.json) |
 | Surv | 51986 | [51986-surv.json](./51986-surv.json) |
 | Survarium: Vepr 'Molot' | 171054 | [171054-survarium-vepr-molot.json](./171054-survarium-vepr-molot.json) |
 | Surveillance | 267684 | [267684-surveillance.json](./267684-surveillance.json) |
