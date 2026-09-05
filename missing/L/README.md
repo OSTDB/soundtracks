@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Larry the Dinosaur 2: Something in the Cola | 217509 | [217509-larry-the-dinosaur-2-something-in-the-cola.json](./217509-larry-the-dinosaur-2-something-in-the-cola.json) |
 | Larry: Wet Dreams Dry Twice | 200194 | [200194-larry-wet-dreams-dry-twice.json](./200194-larry-wet-dreams-dry-twice.json) |
 | Lars the Wanderer | 145652 | [145652-lars-the-wanderer.json](./145652-lars-the-wanderer.json) |
+| Laruaville 17 | 377062 | [377062-laruaville-17.json](./377062-laruaville-17.json) |
 | Las Vegas | 41423 | [41423-las-vegas.json](./41423-las-vegas.json) |
 | Las Vegas Gambling | 47291 | [47291-las-vegas-gambling.json](./47291-las-vegas-gambling.json) |
 | Las Vegas Roulette | 47278 | [47278-las-vegas-roulette.json](./47278-las-vegas-roulette.json) |
@@ -140,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Bloody Snack | 256553 | [256553-last-bloody-snack.json](./256553-last-bloody-snack.json) |
 | Last Bus Home | 208617 | [208617-last-bus-home.json](./208617-last-bus-home.json) |
 | Last Call BBS | 205064 | [205064-last-call-bbs.json](./205064-last-call-bbs.json) |
+| Last Case | 377058 | [377058-last-case.json](./377058-last-case.json) |
 | Last Chaos | 90316 | [90316-last-chaos.json](./90316-last-chaos.json) |
 | Last Contingency | 152902 | [152902-last-contingency.json](./152902-last-contingency.json) |
 | Last Days of Future | 226446 | [226446-last-days-of-future.json](./226446-last-days-of-future.json) |
@@ -171,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Ride | 377575 | [377575-last-ride.json](./377575-last-ride.json) |
 | Last Salvo | 76651 | [76651-last-salvo.json](./76651-last-salvo.json) |
 | Last Sapiens | 216471 | [216471-last-sapiens.json](./216471-last-sapiens.json) |
+| Last Shinobi | 377055 | [377055-last-shinobi.json](./377055-last-shinobi.json) |
 | Last Striker | 40270 | [40270-last-striker.json](./40270-last-striker.json) |
 | Last Survivor | 74411 | [74411-last-survivor.json](./74411-last-survivor.json) |
 | Last Survivor | 81430 | [81430-last-survivor.json](./81430-last-survivor.json) |
@@ -987,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludo Online | 89583 | [89583-ludo-online.json](./89583-ludo-online.json) |
 | Luduvo | 412303 | [412303-luduvo.json](./412303-luduvo.json) |
 | Lufia: The Legend Returns | 1179 | [1179-lufia-the-legend-returns.json](./1179-lufia-the-legend-returns.json) |
+| Luft Gears | 377060 | [377060-luft-gears.json](./377060-luft-gears.json) |
 | Luge Crush 2018 | 87201 | [87201-luge-crush-2018.json](./87201-luge-crush-2018.json) |
 | Luigi and the Quest for Nothing: Enhanced | 322380 | [322380-luigi-and-the-quest-for-nothing-enhanced.json](./322380-luigi-and-the-quest-for-nothing-enhanced.json) |
 | Luigi Doesn't Drink A Glass of Milk | 250050 | [250050-luigi-doesnt-drink-a-glass-of-milk.json](./250050-luigi-doesnt-drink-a-glass-of-milk.json) |
