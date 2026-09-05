@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverending Check-in: The Hotel Stories | 253566 | [253566-neverending-check-in-the-hotel-stories.json](./253566-neverending-check-in-the-hotel-stories.json) |
 | NeverGone | 39003 | [39003-nevergone.json](./39003-nevergone.json) |
 | Neverland | 216990 | [216990-neverland.json](./216990-neverland.json) |
+| Neverless Academy | 371259 | [371259-neverless-academy.json](./371259-neverless-academy.json) |
 | Neverputt | 51246 | [51246-neverputt.json](./51246-neverputt.json) |
 | Neversong | 133261 | [133261-neversong.json](./133261-neversong.json) |
 | NeverSynth | 225878 | [225878-neversynth.json](./225878-neversynth.json) |
