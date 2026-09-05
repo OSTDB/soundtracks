@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major League Baseball 2K6 | 240488 | [240488-major-league-baseball-2k6.json](./240488-major-league-baseball-2k6.json) |
 | Major League Baseball Featuring Ken Griffey Jr. | 3540 | [3540-major-league-baseball-featuring-ken-griffey-jr.json](./3540-major-league-baseball-featuring-ken-griffey-jr.json) |
 | Majorelle Mystery | 232705 | [232705-majorelle-mystery.json](./232705-majorelle-mystery.json) |
+| Majulah | 367965 | [367965-majulah.json](./367965-majulah.json) |
 | Majyo no Nebaneba Note | 336940 | [336940-majyo-no-nebaneba-note.json](./336940-majyo-no-nebaneba-note.json) |
 | Makaimura Gaiden: The Demon Darkness | 84640 | [84640-makaimura-gaiden-the-demon-darkness.json](./84640-makaimura-gaiden-the-demon-darkness.json) |
 | Makaimura Online | 63297 | [63297-makaimura-online.json](./63297-makaimura-online.json) |
@@ -943,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Tail | 302132 | [302132-mermaid-tail.json](./302132-mermaid-tail.json) |
 | Merriam-Webster Spell Jam | 69287 | [69287-merriam-webster-spell-jam.json](./69287-merriam-webster-spell-jam.json) |
 | Merry Christmas: Snowball Bubble | 187495 | [187495-merry-christmas-snowball-bubble.json](./187495-merry-christmas-snowball-bubble.json) |
+| Merry Cook | 367934 | [367934-merry-cook.json](./367934-merry-cook.json) |
 | Mesa | 233214 | [233214-mesa.json](./233214-mesa.json) |
 | Mesh Replica | 296684 | [296684-mesh-replica.json](./296684-mesh-replica.json) |
 | Meso | 319350 | [319350-meso.json](./319350-meso.json) |
@@ -2108,6 +2110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MXGP 2021 | 175971 | [175971-mxgp-2021.json](./175971-mxgp-2021.json) |
 | MXGP Pro | 96212 | [96212-mxgp-pro.json](./96212-mxgp-pro.json) |
 | My Anima Boy | 278731 | [278731-my-anima-boy.json](./278731-my-anima-boy.json) |
+| My Aquarium | 367972 | [367972-my-aquarium.json](./367972-my-aquarium.json) |
 | My Aquarium | 52598 | [52598-my-aquarium.json](./52598-my-aquarium.json) |
 | My Baby 3 & Friends | 48041 | [48041-my-baby-3-and-friends.json](./48041-my-baby-3-and-friends.json) |
 | My Bakery Empire | 87373 | [87373-my-bakery-empire.json](./87373-my-bakery-empire.json) |
