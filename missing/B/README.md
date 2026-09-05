@@ -822,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo 75 | 22429 | [22429-bingo-75.json](./22429-bingo-75.json) |
 | Bingo de NouTore: BinTore | 222526 | [222526-bingo-de-noutore-bintore.json](./222526-bingo-de-noutore-bintore.json) |
 | Bingo Infinity | 96082 | [96082-bingo-infinity.json](./96082-bingo-infinity.json) |
+| Bingo Roulette | 404213 | [404213-bingo-roulette.json](./404213-bingo-roulette.json) |
 | Binky's Trash Service | 142483 | [142483-binkys-trash-service.json](./142483-binkys-trash-service.json) |
 | Bio Fail | 410910 | [410910-bio-fail.json](./410910-bio-fail.json) |
 | Bio Senshi Dan: Increaser to no Tatakai | 48647 | [48647-bio-senshi-dan-increaser-to-no-tatakai.json](./48647-bio-senshi-dan-increaser-to-no-tatakai.json) |
@@ -855,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdie Barrage | 13696 | [13696-birdie-barrage.json](./13696-birdie-barrage.json) |
 | BirdLingo: A birdsong learning game | 311260 | [311260-birdlingo-a-birdsong-learning-game.json](./311260-birdlingo-a-birdsong-learning-game.json) |
 | Birds Birds Birds | 107209 | [107209-birds-birds-birds.json](./107209-birds-birds-birds.json) |
+| Birds of Ascent | 404222 | [404222-birds-of-ascent.json](./404222-birds-of-ascent.json) |
 | Birds'n'Blocks 2 | 87694 | [87694-birdsnblocks-2.json](./87694-birdsnblocks-2.json) |
 | Birth of Shadows | 34490 | [34490-birth-of-shadows.json](./34490-birth-of-shadows.json) |
 | Birthdays the Beginning: Digital Limited Edition | 52628 | [52628-birthdays-the-beginning-digital-limited-edition.json](./52628-birthdays-the-beginning-digital-limited-edition.json) |
