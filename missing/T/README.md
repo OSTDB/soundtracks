@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Citizen Kane of Video Games | 225271 | [225271-the-citizen-kane-of-video-games.json](./225271-the-citizen-kane-of-video-games.json) |
 | The City of the Damned | 141239 | [141239-the-city-of-the-damned.json](./141239-the-city-of-the-damned.json) |
 | The City of the Damned: Apocalypse | 141240 | [141240-the-city-of-the-damned-apocalypse.json](./141240-the-city-of-the-damned-apocalypse.json) |
+| The Clans - Saga of the Twins | 35943 | [35943-the-clans-saga-of-the-twins.json](./35943-the-clans-saga-of-the-twins.json) |
 | The Classic Lotus Trilogy | 39041 | [39041-the-classic-lotus-trilogy.json](./39041-the-classic-lotus-trilogy.json) |
 | The Climbest | 182538 | [182538-the-climbest.json](./182538-the-climbest.json) |
 | The Clown | 260975 | [260975-the-clown.json](./260975-the-clown.json) |
@@ -1549,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quintessential Quintuplets: The Quintuplets Can't Divide the Puzzle Into Five Equal Parts | 194029 | [194029-the-quintessential-quintuplets-the-quintuplets-cant-divide-the-puzzle-into-five-equal-parts.json](./194029-the-quintessential-quintuplets-the-quintuplets-cant-divide-the-puzzle-into-five-equal-parts.json) |
 | The Rabbit's Scroll | 204114 | [204114-the-rabbits-scroll.json](./204114-the-rabbits-scroll.json) |
 | The Rainbowers | 254156 | [254156-the-rainbowers.json](./254156-the-rainbowers.json) |
+| The Rainy Port Keelung | 35758 | [35758-the-rainy-port-keelung.json](./35758-the-rainy-port-keelung.json) |
 | The Ranchers | 142498 | [142498-the-ranchers.json](./142498-the-ranchers.json) |
 | The Rats in the Walls | 271489 | [271489-the-rats-in-the-walls.json](./271489-the-rats-in-the-walls.json) |
 | The Reaper Survivors | 224760 | [224760-the-reaper-survivors.json](./224760-the-reaper-survivors.json) |
@@ -1848,6 +1850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unachievable Game | 205232 | [205232-the-unachievable-game.json](./205232-the-unachievable-game.json) |
 | The Uncanny X-Men | 48050 | [48050-the-uncanny-x-men.json](./48050-the-uncanny-x-men.json) |
 | The Unclogging: An Unsanitary Saga | 51979 | [51979-the-unclogging-an-unsanitary-saga.json](./51979-the-unclogging-an-unsanitary-saga.json) |
+| The Undying Plague | 35759 | [35759-the-undying-plague.json](./35759-the-undying-plague.json) |
 | The Unfettered | 223163 | [223163-the-unfettered.json](./223163-the-unfettered.json) |
 | The Unsettled | 199665 | [199665-the-unsettled.json](./199665-the-unsettled.json) |
 | The Unspoken | 25908 | [25908-the-unspoken.json](./25908-the-unspoken.json) |
@@ -2041,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrillville: Off the Rails | 322364 | [322364-thrillville-off-the-rails.json](./322364-thrillville-off-the-rails.json) |
 | Thrive | 142499 | [142499-thrive.json](./142499-thrive.json) |
 | Throb of Lovegirl: A Ero Waifu TD | 175983 | [175983-throb-of-lovegirl-a-ero-waifu-td.json](./175983-throb-of-lovegirl-a-ero-waifu-td.json) |
+| Throbax TD | 35952 | [35952-throbax-td.json](./35952-throbax-td.json) |
 | Throne and Liberty | 117294 | [117294-throne-and-liberty.json](./117294-throne-and-liberty.json) |
 | Throne of Magic | 108502 | [108502-throne-of-magic.json](./108502-throne-of-magic.json) |
 | Thronebreaker: The Witcher Tales | 107300 | [107300-thronebreaker-the-witcher-tales.json](./107300-thronebreaker-the-witcher-tales.json) |
@@ -2075,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thundra - Alien Wackiness from the future | 132811 | [132811-thundra-alien-wackiness-from-the-future.json](./132811-thundra-alien-wackiness-from-the-future.json) |
 | Thurgood P. Marshall and the Quest for Ontological Theory Advancement | 128639 | [128639-thurgood-p-marshall-and-the-quest-for-ontological-theory-advancement.json](./128639-thurgood-p-marshall-and-the-quest-for-ontological-theory-advancement.json) |
 | Thy Knights of Climbalot | 109675 | [109675-thy-knights-of-climbalot.json](./109675-thy-knights-of-climbalot.json) |
+| Tiamat X | 35900 | [35900-tiamat-x.json](./35900-tiamat-x.json) |
 | Tiānqì | 167820 | [167820-tianqi.json](./167820-tianqi.json) |
 | Tiāntiān Tuōlājī | 96041 | [96041-tiantian-tuolaji.json](./96041-tiantian-tuolaji.json) |
 | Tiānxiān Biàn | 156131 | [156131-tianxian-bian.json](./156131-tianxian-bian.json) |
@@ -2773,6 +2778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trails of Sunder | 241077 | [241077-trails-of-sunder.json](./241077-trails-of-sunder.json) |
 | Train Merger | 108472 | [108472-train-merger.json](./108472-train-merger.json) |
 | Train No. 7 | 163960 | [163960-train-no-7.json](./163960-train-no-7.json) |
+| Train of Afterlife | 35939 | [35939-train-of-afterlife.json](./35939-train-of-afterlife.json) |
 | Train Sim World 2: DB BR 182 Loco Add-On | 167301 | [167301-train-sim-world-2-db-br-182-loco-add-on.json](./167301-train-sim-world-2-db-br-182-loco-add-on.json) |
 | Train Sim World 2: Harlem Line - Grand Central Terminal: North White Plains Route | 195778 | [195778-train-sim-world-2-harlem-line-grand-central-terminal-north-white-plains-route.json](./195778-train-sim-world-2-harlem-line-grand-central-terminal-north-white-plains-route.json) |
 | Train Sim World 2: Hauptstrecke Hamburg - Lübeck Route Add-On | 147456 | [147456-train-sim-world-2-hauptstrecke-hamburg-lubeck-route-add-on.json](./147456-train-sim-world-2-hauptstrecke-hamburg-lubeck-route-add-on.json) |
