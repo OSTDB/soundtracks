@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | D or D | 250004 | [250004-d-or-d.json](./250004-d-or-d.json) |
+| D-Day | 14768 | [14768-d-day.json](./14768-d-day.json) |
 | D-Pad Hero 2 | 48649 | [48649-d-pad-hero-2.json](./48649-d-pad-hero-2.json) |
 | D-Virus: Devilnitive Edition | 259847 | [259847-d-virus-devilnitive-edition.json](./259847-d-virus-devilnitive-edition.json) |
 | D-Virus: Evil Menance | 259846 | [259846-d-virus-evil-menance.json](./259846-d-virus-evil-menance.json) |
@@ -853,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensional Slaughter | 209696 | [209696-dimensional-slaughter.json](./209696-dimensional-slaughter.json) |
 | DimensionalDoors | 232666 | [232666-dimensionaldoors.json](./232666-dimensionaldoors.json) |
 | Dimensions | 249474 | [249474-dimensions.json](./249474-dimensions.json) |
+| Dimensity | 16152 | [16152-dimensity.json](./16152-dimensity.json) |
 | Dimhaven: The Lost Source | 253578 | [253578-dimhaven-the-lost-source.json](./253578-dimhaven-the-lost-source.json) |
 | Dimwarper | 215884 | [215884-dimwarper.json](./215884-dimwarper.json) |
 | Din's Curse | 8820 | [8820-dins-curse.json](./8820-dins-curse.json) |
@@ -860,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Bros | 97040 | [97040-diner-bros.json](./97040-diner-bros.json) |
 | Diner Dash 2: Restaurant Rescue | 78690 | [78690-diner-dash-2-restaurant-rescue.json](./78690-diner-dash-2-restaurant-rescue.json) |
 | Diner Dash Mobile | 104663 | [104663-diner-dash-mobile.json](./104663-diner-dash-mobile.json) |
+| Diner Dash: Hometown Hero | 16070 | [16070-diner-dash-hometown-hero.json](./16070-diner-dash-hometown-hero.json) |
 | DingDingDing | 109719 | [109719-dingdingding.json](./109719-dingdingding.json) |
 | Dinkum | 120322 | [120322-dinkum.json](./120322-dinkum.json) |
 | Dinky Guardians | 244516 | [244516-dinky-guardians.json](./244516-dinky-guardians.json) |
@@ -989,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Treasure Planet: Treasure Racer | 213025 | [213025-disneys-treasure-planet-treasure-racer.json](./213025-disneys-treasure-planet-treasure-racer.json) |
 | Disonante | 118432 | [118432-disonante.json](./118432-disonante.json) |
 | Displaced | 28939 | [28939-displaced.json](./28939-displaced.json) |
+| Disposable Heroes | 14037 | [14037-disposable-heroes.json](./14037-disposable-heroes.json) |
 | Disquiet Fields | 157676 | [157676-disquiet-fields.json](./157676-disquiet-fields.json) |
 | Disrtust and Goliath Premium Survival Bundle | 301566 | [301566-disrtust-and-goliath-premium-survival-bundle.json](./301566-disrtust-and-goliath-premium-survival-bundle.json) |
 | Dissidia Duodecim Prologus: Final Fantasy | 41848 | [41848-dissidia-duodecim-prologus-final-fantasy.json](./41848-dissidia-duodecim-prologus-final-fantasy.json) |
@@ -1001,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ditch Whit #1: Shield Night | 202922 | [202922-ditch-whit-1-shield-night.json](./202922-ditch-whit-1-shield-night.json) |
 | Dithered | 122411 | [122411-dithered.json](./122411-dithered.json) |
 | Divadlo | 271988 | [271988-divadlo.json](./271988-divadlo.json) |
+| Dive to the Titanic | 16206 | [16206-dive-to-the-titanic.json](./16206-dive-to-the-titanic.json) |
 | Diver's Dream | 180281 | [180281-divers-dream.json](./180281-divers-dream.json) |
 | Diversant | 180294 | [180294-diversant.json](./180294-diversant.json) |
 | Divided | 94762 | [94762-divided.json](./94762-divided.json) |
@@ -1222,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Eternal: Year One Pass | 293919 | [293919-doom-eternal-year-one-pass.json](./293919-doom-eternal-year-one-pass.json) |
 | Doom II + Final Doom | 132823 | [132823-doom-ii-final-doom.json](./132823-doom-ii-final-doom.json) |
 | Doom II: Japanese Community Project | 140048 | [140048-doom-ii-japanese-community-project.json](./140048-doom-ii-japanese-community-project.json) |
+| Doom Rails | 16116 | [16116-doom-rails.json](./16116-doom-rails.json) |
 | Doom Troopers: Mutant Chronicles | 4544 | [4544-doom-troopers-mutant-chronicles.json](./4544-doom-troopers-mutant-chronicles.json) |
 | Doom: Hell Followed | 25571 | [25571-doom-hell-followed.json](./25571-doom-hell-followed.json) |
 | Doom: The Dark Ages - Revelations | 405075 | [405075-doom-the-dark-ages-revelations.json](./405075-doom-the-dark-ages-revelations.json) |
