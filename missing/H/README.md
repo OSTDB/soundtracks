@@ -842,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home | 121014 | [121014-home.json](./121014-home.json) |
 | Home A Drone | 122421 | [122421-home-a-drone.json](./122421-home-a-drone.json) |
 | Home Game 3 | 243397 | [243397-home-game-3.json](./243397-home-game-3.json) |
+| Home Improvisation: Furniture Sandbox | 16301 | [16301-home-improvisation-furniture-sandbox.json](./16301-home-improvisation-furniture-sandbox.json) |
 | Home Run High | 109008 | [109008-home-run-high.json](./109008-home-run-high.json) |
 | Home Run King | 242809 | [242809-home-run-king.json](./242809-home-run-king.json) |
 | Home Safety Hotline | 244303 | [244303-home-safety-hotline.json](./244303-home-safety-hotline.json) |
@@ -991,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotdog Storm | 39679 | [39679-hotdog-storm.json](./39679-hotdog-storm.json) |
 | Hotel Alien | 229368 | [229368-hotel-alien.json](./229368-hotel-alien.json) |
 | Hotel Dash Deluxe | 96724 | [96724-hotel-dash-deluxe.json](./96724-hotel-dash-deluxe.json) |
+| Hotel Dash Suite Success | 16171 | [16171-hotel-dash-suite-success.json](./16171-hotel-dash-suite-success.json) |
 | Hotel Insanity | 324675 | [324675-hotel-insanity.json](./324675-hotel-insanity.json) |
 | Hotel Island: Paradise Story! | 88318 | [88318-hotel-island-paradise-story.json](./88318-hotel-island-paradise-story.json) |
 | Hotel Mario | 8535 | [8535-hotel-mario.json](./8535-hotel-mario.json) |
