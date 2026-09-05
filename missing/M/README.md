@@ -1128,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindtrap | 91406 | [91406-mindtrap.json](./91406-mindtrap.json) |
 | Mindwheel | 25778 | [25778-mindwheel.json](./25778-mindwheel.json) |
 | Mine Blast | 96758 | [96758-mine-blast.json](./96758-mine-blast.json) |
+| Mine Defense | 412313 | [412313-mine-defense.json](./412313-mine-defense.json) |
 | Mine Quest | 196868 | [196868-mine-quest.json](./196868-mine-quest.json) |
 | Mine Seeker | 89965 | [89965-mine-seeker.json](./89965-mine-seeker.json) |
 | Mine Sweeper | 252359 | [252359-mine-sweeper.json](./252359-mine-sweeper.json) |
@@ -1485,6 +1486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Fishing 2018 | 102766 | [102766-monster-fishing-2018.json](./102766-monster-fishing-2018.json) |
 | Monster Force | 49390 | [49390-monster-force.json](./49390-monster-force.json) |
 | Monster Galaxy | 197943 | [197943-monster-galaxy.json](./197943-monster-galaxy.json) |
+| Monster Girl Clinic | 412305 | [412305-monster-girl-clinic.json](./412305-monster-girl-clinic.json) |
 | Monster Girl Dreams | 138832 | [138832-monster-girl-dreams.json](./138832-monster-girl-dreams.json) |
 | Monster Girl Dungeon | 166214 | [166214-monster-girl-dungeon.json](./166214-monster-girl-dungeon.json) |
 | Monster Girl Fantasy | 116339 | [116339-monster-girl-fantasy.json](./116339-monster-girl-fantasy.json) |
@@ -1503,6 +1505,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Rise: Title Update 4 | 252382 | [252382-monster-hunter-rise-title-update-4.json](./252382-monster-hunter-rise-title-update-4.json) |
 | Monster Hunter Rise: Title Update 5 | 252383 | [252383-monster-hunter-rise-title-update-5.json](./252383-monster-hunter-rise-title-update-5.json) |
 | Monster Hunter Stories 2: Wings of Ruin | 138951 | [138951-monster-hunter-stories-2-wings-of-ruin.json](./138951-monster-hunter-stories-2-wings-of-ruin.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Accessory: Crystalline Ornament | 412286 | [412286-monster-hunter-stories-3-twisted-reflection-accessory-crystalline-ornament.json](./412286-monster-hunter-stories-3-twisted-reflection-accessory-crystalline-ornament.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Accessory: Fang Talisman | 412284 | [412284-monster-hunter-stories-3-twisted-reflection-accessory-fang-talisman.json](./412284-monster-hunter-stories-3-twisted-reflection-accessory-fang-talisman.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Accessory: Ornament of Bonds | 412282 | [412282-monster-hunter-stories-3-twisted-reflection-accessory-ornament-of-bonds.json](./412282-monster-hunter-stories-3-twisted-reflection-accessory-ornament-of-bonds.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Accessory: Pearl Earrings | 412287 | [412287-monster-hunter-stories-3-twisted-reflection-accessory-pearl-earrings.json](./412287-monster-hunter-stories-3-twisted-reflection-accessory-pearl-earrings.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Accessory: Protective Band | 412285 | [412285-monster-hunter-stories-3-twisted-reflection-accessory-protective-band.json](./412285-monster-hunter-stories-3-twisted-reflection-accessory-protective-band.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Accessory: Royal Monocle | 412283 | [412283-monster-hunter-stories-3-twisted-reflection-accessory-royal-monocle.json](./412283-monster-hunter-stories-3-twisted-reflection-accessory-royal-monocle.json) |
+| Monster Hunter Wilds: Alma Outfit - Autumn Witch | 412290 | [412290-monster-hunter-wilds-alma-outfit-autumn-witch.json](./412290-monster-hunter-wilds-alma-outfit-autumn-witch.json) |
+| Monster Hunter Wilds: Alma Outfit - Featherskirt Seikret Dress | 412288 | [412288-monster-hunter-wilds-alma-outfit-featherskirt-seikret-dress.json](./412288-monster-hunter-wilds-alma-outfit-featherskirt-seikret-dress.json) |
+| Monster Hunter Wilds: Erik Outfit - Autumn Therian | 412291 | [412291-monster-hunter-wilds-erik-outfit-autumn-therian.json](./412291-monster-hunter-wilds-erik-outfit-autumn-therian.json) |
+| Monster Hunter Wilds: Erik Outfit - Crestcollar Seikret Suit | 412289 | [412289-monster-hunter-wilds-erik-outfit-crestcollar-seikret-suit.json](./412289-monster-hunter-wilds-erik-outfit-crestcollar-seikret-suit.json) |
 | Monster Hunter: Poogie Race | 313482 | [313482-monster-hunter-poogie-race.json](./313482-monster-hunter-poogie-race.json) |
 | Monster Hunter: World - Digital Deluxe Edition | 81354 | [81354-monster-hunter-world-digital-deluxe-edition.json](./81354-monster-hunter-world-digital-deluxe-edition.json) |
 | Monster Hunter: World - Steelbook Edition | 81355 | [81355-monster-hunter-world-steelbook-edition.json](./81355-monster-hunter-world-steelbook-edition.json) |
@@ -1532,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Rancher | 4104 | [4104-monster-rancher.json](./4104-monster-rancher.json) |
 | Monster Rescue | 188104 | [188104-monster-rescue.json](./188104-monster-rescue.json) |
 | Monster Shooter | 290700 | [290700-monster-shooter.json](./290700-monster-shooter.json) |
+| Monster Smoosh | 412307 | [412307-monster-smoosh.json](./412307-monster-smoosh.json) |
 | Monster Survivors | 246626 | [246626-monster-survivors.json](./246626-monster-survivors.json) |
 | Monster Sweetie | 232173 | [232173-monster-sweetie.json](./232173-monster-sweetie.json) |
 | Monster Tamer | 190233 | [190233-monster-tamer.json](./190233-monster-tamer.json) |
@@ -2000,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Service Area | 212476 | [212476-my-service-area.json](./212476-my-service-area.json) |
 | My Sexual Hospitalization | 215890 | [215890-my-sexual-hospitalization.json](./215890-my-sexual-hospitalization.json) |
 | My Silly Life | 158222 | [158222-my-silly-life.json](./158222-my-silly-life.json) |
+| My Singing Monsters Karaoke | 412306 | [412306-my-singing-monsters-karaoke.json](./412306-my-singing-monsters-karaoke.json) |
 | My Singing Monsters: Dawn of Fire | 89694 | [89694-my-singing-monsters-dawn-of-fire.json](./89694-my-singing-monsters-dawn-of-fire.json) |
 | My Slow Life with the Princess Knight and Her Devoted Handmaiden | 270974 | [270974-my-slow-life-with-the-princess-knight-and-her-devoted-handmaiden.json](./270974-my-slow-life-with-the-princess-knight-and-her-devoted-handmaiden.json) |
 | My Soul Trapped in a WIN98 PC | 274196 | [274196-my-soul-trapped-in-a-win98-pc.json](./274196-my-soul-trapped-in-a-win98-pc.json) |
