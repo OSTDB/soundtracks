@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Cube: Tower Stack | 242211 | [242211-pet-cube-tower-stack.json](./242211-pet-cube-tower-stack.json) |
 | Pet Dog | 178682 | [178682-pet-dog.json](./178682-pet-dog.json) |
 | Pet Monsters | 55936 | [55936-pet-monsters.json](./55936-pet-monsters.json) |
+| Pet Oddities: Desktop Shelter | 372461 | [372461-pet-oddities-desktop-shelter.json](./372461-pet-oddities-desktop-shelter.json) |
 | Pet Pad | 243423 | [243423-pet-pad.json](./243423-pet-pad.json) |
 | Pet Paradise Story | 232171 | [232171-pet-paradise-story.json](./232171-pet-paradise-story.json) |
 | Pet Peaves Monsters | 232168 | [232168-pet-peaves-monsters.json](./232168-pet-peaves-monsters.json) |
@@ -1494,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Tycoon: Under New Management | 152405 | [152405-prison-tycoon-under-new-management.json](./152405-prison-tycoon-under-new-management.json) |
 | Prison Tycoon: Under New Management - Maximum Security | 196298 | [196298-prison-tycoon-under-new-management-maximum-security.json](./196298-prison-tycoon-under-new-management-maximum-security.json) |
 | Prisonela | 218697 | [218697-prisonela.json](./218697-prisonela.json) |
+| Prisoner Breaker | 372485 | [372485-prisoner-breaker.json](./372485-prisoner-breaker.json) |
 | Prisoners of Ulag'Bol | 333358 | [333358-prisoners-of-ulagbol.json](./333358-prisoners-of-ulagbol.json) |
 | Priton | 91948 | [91948-priton.json](./91948-priton.json) |
 | Private Detective Punch Drunk: PDPD | 77365 | [77365-private-detective-punch-drunk-pdpd.json](./77365-private-detective-punch-drunk-pdpd.json) |
