@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpJumpJump! | 335086 | [335086-jumpjumpjump.json](./335086-jumpjumpjump.json) |
 | Jumplight Odyssey | 229965 | [229965-jumplight-odyssey.json](./229965-jumplight-odyssey.json) |
 | Jumpman Lives! | 69868 | [69868-jumpman-lives.json](./69868-jumpman-lives.json) |
+| JumpoCalypse | 406124 | [406124-jumpocalypse.json](./406124-jumpocalypse.json) |
 | JumpOut | 300987 | [300987-jumpout.json](./300987-jumpout.json) |
 | JumpSky | 74472 | [74472-jumpsky.json](./74472-jumpsky.json) |
 | JumpStart 3D Virtual World: Trouble in Town | 200191 | [200191-jumpstart-3d-virtual-world-trouble-in-town.json](./200191-jumpstart-3d-virtual-world-trouble-in-town.json) |
