@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RebirthM | 174879 | [174879-rebirthm.json](./174879-rebirthm.json) |
 | Reboot | 171611 | [171611-reboot.json](./171611-reboot.json) |
 | ReBoot | 51953 | [51953-reboot.json](./51953-reboot.json) |
+| Rebungered!! That Time I Got Reincarnated As A Bunger! | 405474 | [405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json](./405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json) |
 | Rec: Beyond The Lens | 255957 | [255957-rec-beyond-the-lens.json](./255957-rec-beyond-the-lens.json) |
 | Recharge Complete | 75171 | [75171-recharge-complete.json](./75171-recharge-complete.json) |
 | ReCharge RC | 233758 | [233758-recharge-rc.json](./233758-recharge-rc.json) |
@@ -836,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripcord | 95419 | [95419-ripcord.json](./95419-ripcord.json) |
 | Ripgraze | 415096 | [415096-ripgraze.json](./415096-ripgraze.json) |
 | Ripple | 198510 | [198510-ripple.json](./198510-ripple.json) |
+| Ripple Park | 405513 | [405513-ripple-park.json](./405513-ripple-park.json) |
 | Ripples | 239315 | [239315-ripples.json](./239315-ripples.json) |
 | Riptide | 291236 | [291236-riptide.json](./291236-riptide.json) |
 | Riptide GP2 | 16735 | [16735-riptide-gp2.json](./16735-riptide-gp2.json) |
