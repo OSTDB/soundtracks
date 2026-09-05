@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HB Arcade Cards | 80583 | [80583-hb-arcade-cards.json](./80583-hb-arcade-cards.json) |
 | He Followed Me | 399004 | [399004-he-followed-me.json](./399004-he-followed-me.json) |
 | He Watches Me | 264342 | [264342-he-watches-me.json](./264342-he-watches-me.json) |
+| He's Just My Buddy | 393503 | [393503-hes-just-my-buddy.json](./393503-hes-just-my-buddy.json) |
 | He@rtstrings | 248285 | [248285-he-rtstrings.json](./248285-he-rtstrings.json) |
 | Head 2 Head | 150139 | [150139-head-2-head.json](./150139-head-2-head.json) |
 | Head AS Code Original Version | 143720 | [143720-head-as-code-original-version.json](./143720-head-as-code-original-version.json) |
@@ -534,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her Heart's Desire: A Landlord Epic | 224235 | [224235-her-hearts-desire-a-landlord-epic.json](./224235-her-hearts-desire-a-landlord-epic.json) |
 | Her Little Sylvietower | 316996 | [316996-her-little-sylvietower.json](./316996-her-little-sylvietower.json) |
 | Her New Memory: BDSM | 217541 | [217541-her-new-memory-bdsm.json](./217541-her-new-memory-bdsm.json) |
+| Her3 : The Light of Paradise Regained | 393461 | [393461-her3-the-light-of-paradise-regained.json](./393461-her3-the-light-of-paradise-regained.json) |
 | Herald: The Interactive Period Drama - Complete Edition | 226443 | [226443-herald-the-interactive-period-drama-complete-edition.json](./226443-herald-the-interactive-period-drama-complete-edition.json) |
 | Heralds of the Avirentes: Ch. 1 - Wings of Change | 244474 | [244474-heralds-of-the-avirentes-ch-1-wings-of-change.json](./244474-heralds-of-the-avirentes-ch-1-wings-of-change.json) |
 | Heralds of The Order | 108466 | [108466-heralds-of-the-order.json](./108466-heralds-of-the-order.json) |
@@ -612,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex & Agon | 144351 | [144351-hex-and-agon.json](./144351-hex-and-agon.json) |
 | Hexa | 114390 | [114390-hexa.json](./114390-hexa.json) |
 | Hexa Puzzle Saga | 248330 | [248330-hexa-puzzle-saga.json](./248330-hexa-puzzle-saga.json) |
+| Hexa's Gone | 393499 | [393499-hexas-gone.json](./393499-hexas-gone.json) |
 | Hexagon Heroes | 132272 | [132272-hexagon-heroes.json](./132272-hexagon-heroes.json) |
 | Hexagonal Explods | 238729 | [238729-hexagonal-explods.json](./238729-hexagonal-explods.json) |
 | Hexanome | 110601 | [110601-hexanome.json](./110601-hexanome.json) |
@@ -1142,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human: Profit | 405532 | [405532-human-profit.json](./405532-human-profit.json) |
 | Human's Red Destiny | 410266 | [410266-humans-red-destiny.json](./410266-humans-red-destiny.json) |
 | Humanoid | 263788 | [263788-humanoid.json](./263788-humanoid.json) |
+| Humanoid | 393495 | [393495-humanoid.json](./393495-humanoid.json) |
 | Humans 3: Evolution - Lost in Time | 39031 | [39031-humans-3-evolution-lost-in-time.json](./39031-humans-3-evolution-lost-in-time.json) |
 | Humorpractor | 180845 | [180845-humorpractor.json](./180845-humorpractor.json) |
 | Hundred | 267068 | [267068-hundred.json](./267068-hundred.json) |
