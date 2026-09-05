@@ -638,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beetlenaut | 62197 | [62197-beetlenaut.json](./62197-beetlenaut.json) |
 | Before Fate | 205248 | [205248-before-fate.json](./205248-before-fate.json) |
 | Before the Needle Lifts | 303754 | [303754-before-the-needle-lifts.json](./303754-before-the-needle-lifts.json) |
+| Before Times | 398359 | [398359-before-times.json](./398359-before-times.json) |
 | Before We Leave | 120878 | [120878-before-we-leave.json](./120878-before-we-leave.json) |
 | BeGone | 109038 | [109038-begone.json](./109038-begone.json) |
 | Behind Closed Doors (Revenge of the Ants) | 58847 | [58847-behind-closed-doors-revenge-of-the-ants.json](./58847-behind-closed-doors-revenge-of-the-ants.json) |
@@ -1702,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Breeze Pop | 76633 | [76633-bubble-breeze-pop.json](./76633-bubble-breeze-pop.json) |
 | Bubble Bubbling | 246114 | [246114-bubble-bubbling.json](./246114-bubble-bubbling.json) |
 | Bubble Bust Extreme | 239341 | [239341-bubble-bust-extreme.json](./239341-bubble-bust-extreme.json) |
+| Bubble Cadence | 398360 | [398360-bubble-cadence.json](./398360-bubble-cadence.json) |
 | Bubble Cloud: Spinning Bubbles | 86774 | [86774-bubble-cloud-spinning-bubbles.json](./86774-bubble-cloud-spinning-bubbles.json) |
 | Bubble Crackle | 87321 | [87321-bubble-crackle.json](./87321-bubble-crackle.json) |
 | Bubble Explosion Adventure | 87691 | [87691-bubble-explosion-adventure.json](./87691-bubble-explosion-adventure.json) |
