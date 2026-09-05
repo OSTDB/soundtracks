@@ -683,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Three Kingdoms: Special edition | 195251 | [195251-retro-three-kingdoms-special-edition.json](./195251-retro-three-kingdoms-special-edition.json) |
 | Retro Vaders: Reloaded - Classified Projects | 171629 | [171629-retro-vaders-reloaded-classified-projects.json](./171629-retro-vaders-reloaded-classified-projects.json) |
 | Retro Wing Prime | 113034 | [113034-retro-wing-prime.json](./113034-retro-wing-prime.json) |
+| Retrocade | 385593 | [385593-retrocade.json](./385593-retrocade.json) |
 | RetroCube | 175404 | [175404-retrocube.json](./175404-retrocube.json) |
 | Retrofit: Overload | 66676 | [66676-retrofit-overload.json](./66676-retrofit-overload.json) |
 | RetroFuel | 184108 | [184108-retrofuel.json](./184108-retrofuel.json) |
@@ -968,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadway Traffic Racer | 292327 | [292327-roadway-traffic-racer.json](./292327-roadway-traffic-racer.json) |
 | Roam | 63893 | [63893-roam.json](./63893-roam.json) |
 | Roaming through the Rivers | 214731 | [214731-roaming-through-the-rivers.json](./214731-roaming-through-the-rivers.json) |
+| Robber | 385579 | [385579-robber.json](./385579-robber.json) |
 | Robber Knight | 204068 | [204068-robber-knight.json](./204068-robber-knight.json) |
 | Robbery Madness: Thief Games | 219782 | [219782-robbery-madness-thief-games.json](./219782-robbery-madness-thief-games.json) |
 | Robert D. Anderson & the Legacy of Cthulhu | 20772 | [20772-robert-d-anderson-and-the-legacy-of-cthulhu.json](./20772-robert-d-anderson-and-the-legacy-of-cthulhu.json) |
