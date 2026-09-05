@@ -820,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Colors: Everyday Pixels | 195230 | [195230-love-colors-everyday-pixels.json](./195230-love-colors-everyday-pixels.json) |
 | Love Colors: Pixel Seasons | 195229 | [195229-love-colors-pixel-seasons.json](./195229-love-colors-pixel-seasons.json) |
 | Love Connection! | 242789 | [242789-love-connection.json](./242789-love-connection.json) |
+| Love D3ath Love | 412296 | [412296-love-d3ath-love.json](./412296-love-d3ath-love.json) |
 | Love Death | 259259 | [259259-love-death.json](./259259-love-death.json) |
 | Love Elysium: Secret of the Goddess - Extended Edition | 315872 | [315872-love-elysium-secret-of-the-goddess-extended-edition.json](./315872-love-elysium-secret-of-the-goddess-extended-edition.json) |
 | Love Engine | 29956 | [29956-love-engine.json](./29956-love-engine.json) |
@@ -840,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love on Paper | 158220 | [158220-love-on-paper.json](./158220-love-on-paper.json) |
 | Love or Loved | 83592 | [83592-love-or-loved.json](./83592-love-or-loved.json) |
 | Love Rhythm | 126420 | [126420-love-rhythm.json](./126420-love-rhythm.json) |
+| Love Stitch | 412297 | [412297-love-stitch.json](./412297-love-stitch.json) |
 | Love Stories: Sex and the Furry Titty | 165031 | [165031-love-stories-sex-and-the-furry-titty.json](./165031-love-stories-sex-and-the-furry-titty.json) |
 | Love Story: The Way Home | 102187 | [102187-love-story-the-way-home.json](./102187-love-story-the-way-home.json) |
 | Love Tavern | 165028 | [165028-love-tavern.json](./165028-love-tavern.json) |
@@ -898,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludicrium | 312924 | [312924-ludicrium.json](./312924-ludicrium.json) |
 | Ludicrous Speed | 102162 | [102162-ludicrous-speed.json](./102162-ludicrous-speed.json) |
 | Ludo Online | 89583 | [89583-ludo-online.json](./89583-ludo-online.json) |
+| Luduvo | 412303 | [412303-luduvo.json](./412303-luduvo.json) |
 | Lufia: The Legend Returns | 1179 | [1179-lufia-the-legend-returns.json](./1179-lufia-the-legend-returns.json) |
 | Luge Crush 2018 | 87201 | [87201-luge-crush-2018.json](./87201-luge-crush-2018.json) |
 | Luigi and the Quest for Nothing: Enhanced | 322380 | [322380-luigi-and-the-quest-for-nothing-enhanced.json](./322380-luigi-and-the-quest-for-nothing-enhanced.json) |
@@ -921,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminosity | 35836 | [35836-luminosity.json](./35836-luminosity.json) |
 | Luminous Arc 3 | 25100 | [25100-luminous-arc-3.json](./25100-luminous-arc-3.json) |
 | Luminous Skies: A Short Adventure | 255956 | [255956-luminous-skies-a-short-adventure.json](./255956-luminous-skies-a-short-adventure.json) |
+| Lumiric Stage | 412264 | [412264-lumiric-stage.json](./412264-lumiric-stage.json) |
 | Lumo 2 | 338546 | [338546-lumo-2.json](./338546-lumo-2.json) |
 | Lumo's Cat | 14303 | [14303-lumos-cat.json](./14303-lumos-cat.json) |
 | Luna Child no Saishuu Bouei Line 3 | 202971 | [202971-luna-child-no-saishuu-bouei-line-3.json](./202971-luna-child-no-saishuu-bouei-line-3.json) |
