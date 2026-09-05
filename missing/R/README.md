@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReturnHome | 170555 | [170555-returnhome.json](./170555-returnhome.json) |
 | Reunion | 135873 | [135873-reunion.json](./135873-reunion.json) |
 | Revelation of Decay | 301606 | [301606-revelation-of-decay.json](./301606-revelation-of-decay.json) |
+| Revelations 2012 | 16279 | [16279-revelations-2012.json](./16279-revelations-2012.json) |
 | Revenant Hill | 250625 | [250625-revenant-hill.json](./250625-revenant-hill.json) |
 | Revenant: In Memory Of The Day | 334494 | [334494-revenant-in-memory-of-the-day.json](./334494-revenant-in-memory-of-the-day.json) |
 | Revenge of Marjorie the Chicken | 137694 | [137694-revenge-of-marjorie-the-chicken.json](./137694-revenge-of-marjorie-the-chicken.json) |
@@ -1066,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll For Confidence | 171091 | [171091-roll-for-confidence.json](./171091-roll-for-confidence.json) |
 | Roll the Dark Heart | 251850 | [251850-roll-the-dark-heart.json](./251850-roll-the-dark-heart.json) |
 | Roll Turtle | 208577 | [208577-roll-turtle.json](./208577-roll-turtle.json) |
+| Roller Coaster Rampage | 16359 | [16359-roller-coaster-rampage.json](./16359-roller-coaster-rampage.json) |
 | Rollerball | 298843 | [298843-rollerball.json](./298843-rollerball.json) |
 | RollerCoaster Legends II: Thor's Hammer | 102340 | [102340-rollercoaster-legends-ii-thors-hammer.json](./102340-rollercoaster-legends-ii-thors-hammer.json) |
 | RollerCoaster Tycoon Joyride | 99460 | [99460-rollercoaster-tycoon-joyride.json](./99460-rollercoaster-tycoon-joyride.json) |
@@ -1292,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Hunter Run | 96086 | [96086-run-hunter-run.json](./96086-run-hunter-run.json) |
 | Run Like Hell! | 61642 | [61642-run-like-hell.json](./61642-run-like-hell.json) |
 | Run or Boom | 215927 | [215927-run-or-boom.json](./215927-run-or-boom.json) |
+| Run or Die | 14721 | [14721-run-or-die.json](./14721-run-or-die.json) |
 | Run Sausage Run: Coins, Bugs and Chicken | 247754 | [247754-run-sausage-run-coins-bugs-and-chicken.json](./247754-run-sausage-run-coins-bugs-and-chicken.json) |
 | Run TavernQuest | 132835 | [132835-run-tavernquest.json](./132835-run-tavernquest.json) |
 | Run the Rings | 323520 | [323520-run-the-rings.json](./323520-run-the-rings.json) |
