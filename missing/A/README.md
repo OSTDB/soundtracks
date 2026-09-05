@@ -243,11 +243,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AC/DC Live: Rock Band - Track Pack | 6467 | [6467-ac-dc-live-rock-band-track-pack.json](./6467-ac-dc-live-rock-band-track-pack.json) |
 | ACA Neo Geo: Burning Fight | 85538 | [85538-aca-neo-geo-burning-fight.json](./85538-aca-neo-geo-burning-fight.json) |
 | ACA Neo Geo: Puzzle Bobble 2 | 115050 | [115050-aca-neo-geo-puzzle-bobble-2.json](./115050-aca-neo-geo-puzzle-bobble-2.json) |
+| ACA Neo Geo: Real Bout Fatal Fury Special | 78127 | [78127-aca-neo-geo-real-bout-fatal-fury-special.json](./78127-aca-neo-geo-real-bout-fatal-fury-special.json) |
 | ACA Neo Geo: Sengoku | 85478 | [85478-aca-neo-geo-sengoku.json](./85478-aca-neo-geo-sengoku.json) |
 | ACA Neo Geo: Sengoku 2 | 89982 | [89982-aca-neo-geo-sengoku-2.json](./89982-aca-neo-geo-sengoku-2.json) |
 | ACA Neo Geo: Strikers 1945 Plus | 111065 | [111065-aca-neo-geo-strikers-1945-plus.json](./111065-aca-neo-geo-strikers-1945-plus.json) |
 | ACA Neo Geo: The King of Fighters '97 | 83769 | [83769-aca-neo-geo-the-king-of-fighters-97.json](./83769-aca-neo-geo-the-king-of-fighters-97.json) |
 | ACA Neo Geo: The Ultimate 11 - SNK Football Championship | 115665 | [115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json](./115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json) |
+| ACA Neo Geo: World Heroes 2 Jet | 76576 | [76576-aca-neo-geo-world-heroes-2-jet.json](./76576-aca-neo-geo-world-heroes-2-jet.json) |
 | Acassia | 209660 | [209660-acassia.json](./209660-acassia.json) |
 | Acatalepsy | 150169 | [150169-acatalepsy.json](./150169-acatalepsy.json) |
 | Accel Magician Mimi | 148554 | [148554-accel-magician-mimi.json](./148554-accel-magician-mimi.json) |
@@ -1472,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arsenal | 188635 | [188635-arsenal.json](./188635-arsenal.json) |
 | Arson | 223660 | [223660-arson.json](./223660-arson.json) |
 | Arson & Plunder: Unleashed | 36323 | [36323-arson-and-plunder-unleashed.json](./36323-arson-and-plunder-unleashed.json) |
+| Art Academy: First Semester | 79260 | [79260-art-academy-first-semester.json](./79260-art-academy-first-semester.json) |
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
 | Art of Fighting 2 | 6556 | [6556-art-of-fighting-2.json](./6556-art-of-fighting-2.json) |
 | Art of Guile | 26721 | [26721-art-of-guile.json](./26721-art-of-guile.json) |
