@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Business | 215902 | [215902-garden-business.json](./215902-garden-business.json) |
 | Garden of Coloured Lights | 107235 | [107235-garden-of-coloured-lights.json](./107235-garden-of-coloured-lights.json) |
 | Garden's Bane: DG's Quest | 208610 | [208610-gardens-bane-dgs-quest.json](./208610-gardens-bane-dgs-quest.json) |
+| Gardenia: Prologue | 402924 | [402924-gardenia-prologue.json](./402924-gardenia-prologue.json) |
 | Gardens Inc.: From Rakes to Riches | 36409 | [36409-gardens-inc-from-rakes-to-riches.json](./36409-gardens-inc-from-rakes-to-riches.json) |
 | Gardia | 39684 | [39684-gardia.json](./39684-gardia.json) |
 | Garenburg Woods | 75915 | [75915-garenburg-woods.json](./75915-garenburg-woods.json) |
@@ -819,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GravBlocks | 34436 | [34436-gravblocks.json](./34436-gravblocks.json) |
 | GravBlocks+ | 147964 | [147964-gravblocks.json](./147964-gravblocks.json) |
 | Grave-Queen | 219806 | [219806-grave-queen.json](./219806-grave-queen.json) |
+| Gravebound Dash | 402903 | [402903-gravebound-dash.json](./402903-gravebound-dash.json) |
 | Gravels of Endless War | 149565 | [149565-gravels-of-endless-war.json](./149565-gravels-of-endless-war.json) |
 | Graveyard Defender | 121772 | [121772-graveyard-defender.json](./121772-graveyard-defender.json) |
 | Graveyard Dude | 340203 | [340203-graveyard-dude.json](./340203-graveyard-dude.json) |
