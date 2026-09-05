@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega One | 29866 | [29866-omega-one.json](./29866-omega-one.json) |
 | Omega Orb | 13744 | [13744-omega-orb.json](./13744-omega-orb.json) |
 | Omega Pattern | 28908 | [28908-omega-pattern.json](./28908-omega-pattern.json) |
+| Omega Protocol | 374633 | [374633-omega-protocol.json](./374633-omega-protocol.json) |
 | Omega Quintet: Limited Edition | 166239 | [166239-omega-quintet-limited-edition.json](./166239-omega-quintet-limited-edition.json) |
 | Omega Strikers: Season 2 - Summer Splash | 260971 | [260971-omega-strikers-season-2-summer-splash.json](./260971-omega-strikers-season-2-summer-splash.json) |
 | OmegaBot | 154001 | [154001-omegabot.json](./154001-omegabot.json) |
