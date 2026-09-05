@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T08:33:20.295Z",
-  "total_missing": 31579,
+  "generated_at": "2026-09-05T08:48:16.523Z",
+  "total_missing": 31629,
   "games": [
     {
       "igdb_id": 306086,
@@ -456,6 +456,11 @@
       "igdb_id": 293938,
       "game_name": "1000 Light-Years Away",
       "file": "missing/0-9/293938-1000-light-years-away.json"
+    },
+    {
+      "igdb_id": 404260,
+      "game_name": "1000 Questions to Be Chosen by the Cat Lord",
+      "file": "missing/0-9/404260-1000-questions-to-be-chosen-by-the-cat-lord.json"
     },
     {
       "igdb_id": 301027,
@@ -8206,6 +8211,11 @@
       "igdb_id": 66398,
       "game_name": "Aphelion Episode One: Graves of Earth",
       "file": "missing/A/66398-aphelion-episode-one-graves-of-earth.json"
+    },
+    {
+      "igdb_id": 404261,
+      "game_name": "Aphrodite Evolve Weapons Survivor: Greek Gods Versus Heaven",
+      "file": "missing/A/404261-aphrodite-evolve-weapons-survivor-greek-gods-versus-heaven.json"
     },
     {
       "igdb_id": 330561,
@@ -15968,6 +15978,11 @@
       "file": "missing/B/96082-bingo-infinity.json"
     },
     {
+      "igdb_id": 404213,
+      "game_name": "Bingo Roulette",
+      "file": "missing/B/404213-bingo-roulette.json"
+    },
+    {
       "igdb_id": 142483,
       "game_name": "Binky's Trash Service",
       "file": "missing/B/142483-binkys-trash-service.json"
@@ -16131,6 +16146,11 @@
       "igdb_id": 107209,
       "game_name": "Birds Birds Birds",
       "file": "missing/B/107209-birds-birds-birds.json"
+    },
+    {
+      "igdb_id": 404222,
+      "game_name": "Birds of Ascent",
+      "file": "missing/B/404222-birds-of-ascent.json"
     },
     {
       "igdb_id": 87694,
@@ -21573,6 +21593,11 @@
       "file": "missing/C/275357-call-of-toys-tower-defense.json"
     },
     {
+      "igdb_id": 404257,
+      "game_name": "Call of Warfront",
+      "file": "missing/C/404257-call-of-warfront.json"
+    },
+    {
       "igdb_id": 252400,
       "game_name": "Call of Zombie",
       "file": "missing/C/252400-call-of-zombie.json"
@@ -22438,6 +22463,11 @@
       "file": "missing/C/13700-carousel.json"
     },
     {
+      "igdb_id": 404216,
+      "game_name": "Carpark Hero",
+      "file": "missing/C/404216-carpark-hero.json"
+    },
+    {
       "igdb_id": 315263,
       "game_name": "Carpathian Survival",
       "file": "missing/C/315263-carpathian-survival.json"
@@ -22931,6 +22961,11 @@
       "igdb_id": 306097,
       "game_name": "Casual Trucking",
       "file": "missing/C/306097-casual-trucking.json"
+    },
+    {
+      "igdb_id": 404262,
+      "game_name": "Cat & Rabbit Magic Farming",
+      "file": "missing/C/404262-cat-and-rabbit-magic-farming.json"
     },
     {
       "igdb_id": 237061,
@@ -30518,6 +30553,11 @@
       "file": "missing/C/312893-curse-of-blood.json"
     },
     {
+      "igdb_id": 404204,
+      "game_name": "Curse of Deflection",
+      "file": "missing/C/404204-curse-of-deflection.json"
+    },
+    {
       "igdb_id": 137101,
       "game_name": "Curse of Issyos",
       "file": "missing/C/137101-curse-of-issyos.json"
@@ -32908,6 +32948,11 @@
       "file": "missing/D/141217-dead-rising-gears-of-war.json"
     },
     {
+      "igdb_id": 404237,
+      "game_name": "Dead Rose",
+      "file": "missing/D/404237-dead-rose.json"
+    },
+    {
       "igdb_id": 87095,
       "game_name": "Dead Route",
       "file": "missing/D/87095-dead-route.json"
@@ -32956,6 +33001,11 @@
       "igdb_id": 121710,
       "game_name": "Dead Spawn",
       "file": "missing/D/121710-dead-spawn.json"
+    },
+    {
+      "igdb_id": 404215,
+      "game_name": "Dead Spin",
+      "file": "missing/D/404215-dead-spin.json"
     },
     {
       "igdb_id": 239911,
@@ -48923,6 +48973,11 @@
       "file": "missing/F/213010-for-what-will-come.json"
     },
     {
+      "igdb_id": 404206,
+      "game_name": "Forbidden Compass",
+      "file": "missing/F/404206-forbidden-compass.json"
+    },
+    {
       "igdb_id": 81414,
       "game_name": "Forbidden Planet",
       "file": "missing/F/81414-forbidden-planet.json"
@@ -49576,6 +49631,11 @@
       "igdb_id": 72710,
       "game_name": "Fox's Peter Pan & The Pirates: The Revenge of Captain Hook",
       "file": "missing/F/72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json"
+    },
+    {
+      "igdb_id": 404247,
+      "game_name": "Foxfire",
+      "file": "missing/F/404247-foxfire.json"
     },
     {
       "igdb_id": 115719,
@@ -53218,6 +53278,11 @@
       "file": "missing/G/18841-gibbous-a-cthulhu-adventure.json"
     },
     {
+      "igdb_id": 404214,
+      "game_name": "Gido Gido: Kaiju Battle Party",
+      "file": "missing/G/404214-gido-gido-kaiju-battle-party.json"
+    },
+    {
       "igdb_id": 95440,
       "game_name": "Gift",
       "file": "missing/G/95440-gift.json"
@@ -54611,6 +54676,11 @@
       "igdb_id": 99629,
       "game_name": "Good Boy!",
       "file": "missing/G/99629-good-boy.json"
+    },
+    {
+      "igdb_id": 404251,
+      "game_name": "Good Children Say Grace",
+      "file": "missing/G/404251-good-children-say-grace.json"
     },
     {
       "igdb_id": 99627,
@@ -64128,6 +64198,11 @@
       "file": "missing/I/407358-imouto-paradise-2.json"
     },
     {
+      "igdb_id": 404219,
+      "game_name": "Imouto Paradise! 3",
+      "file": "missing/I/404219-imouto-paradise-3.json"
+    },
+    {
       "igdb_id": 100197,
       "game_name": "iMP: Surf the Music",
       "file": "missing/I/100197-imp-surf-the-music.json"
@@ -67248,6 +67323,11 @@
       "file": "missing/J/295036-jibaku-kun-zero-no-ki-no-kajitsu.json"
     },
     {
+      "igdb_id": 404203,
+      "game_name": "Jigdoku",
+      "file": "missing/J/404203-jigdoku.json"
+    },
+    {
       "igdb_id": 314069,
       "game_name": "Jigoku Train",
       "file": "missing/J/314069-jigoku-train.json"
@@ -69653,6 +69733,11 @@
       "file": "missing/K/179210-kid-hallow.json"
     },
     {
+      "igdb_id": 404256,
+      "game_name": "Kid Icarus Enlightenment",
+      "file": "missing/K/404256-kid-icarus-enlightenment.json"
+    },
+    {
       "igdb_id": 6349,
       "game_name": "Kid Klown in Crazy Chase",
       "file": "missing/K/6349-kid-klown-in-crazy-chase.json"
@@ -71066,6 +71151,11 @@
       "igdb_id": 165051,
       "game_name": "Komako",
       "file": "missing/K/165051-komako.json"
+    },
+    {
+      "igdb_id": 404250,
+      "game_name": "Komayama Kiri ha Zenbu Yari ni Iku",
+      "file": "missing/K/404250-komayama-kiri-ha-zenbu-yari-ni-iku.json"
     },
     {
       "igdb_id": 261555,
@@ -72563,6 +72653,11 @@
       "file": "missing/L/25000-lavapools.json"
     },
     {
+      "igdb_id": 404205,
+      "game_name": "Lavender Station",
+      "file": "missing/L/404205-lavender-station.json"
+    },
+    {
       "igdb_id": 125472,
       "game_name": "Lawmage Academy",
       "file": "missing/L/125472-lawmage-academy.json"
@@ -73291,6 +73386,11 @@
       "igdb_id": 267656,
       "game_name": "Leisurely Brick",
       "file": "missing/L/267656-leisurely-brick.json"
+    },
+    {
+      "igdb_id": 404209,
+      "game_name": "Lek gjemsel med Mummitrollet",
+      "file": "missing/L/404209-lek-gjemsel-med-mummitrollet.json"
     },
     {
       "igdb_id": 239310,
@@ -75808,6 +75908,11 @@
       "file": "missing/L/152390-love-bakudan.json"
     },
     {
+      "igdb_id": 404259,
+      "game_name": "Love Collection 4-in-1",
+      "file": "missing/L/404259-love-collection-4-in-1.json"
+    },
+    {
       "igdb_id": 195230,
       "game_name": "Love Colors: Everyday Pixels",
       "file": "missing/L/195230-love-colors-everyday-pixels.json"
@@ -78133,6 +78238,11 @@
       "file": "missing/M/337486-mansion-of-the-dead.json"
     },
     {
+      "igdb_id": 404246,
+      "game_name": "MansionDungeon",
+      "file": "missing/M/404246-mansiondungeon.json"
+    },
+    {
       "igdb_id": 265956,
       "game_name": "Manufactur'inc.",
       "file": "missing/M/265956-manufacturinc.json"
@@ -79983,6 +80093,11 @@
       "file": "missing/M/200174-meekanoid.json"
     },
     {
+      "igdb_id": 404252,
+      "game_name": "Meeple Incremental",
+      "file": "missing/M/404252-meeple-incremental.json"
+    },
+    {
       "igdb_id": 327596,
       "game_name": "Meet Bub: Bub to Eigo Tanken",
       "file": "missing/M/327596-meet-bub-bub-to-eigo-tanken.json"
@@ -81408,6 +81523,11 @@
       "file": "missing/M/329375-mh17-strikes-back.json"
     },
     {
+      "igdb_id": 404202,
+      "game_name": "MIA: Memory Fragments",
+      "file": "missing/M/404202-mia-memory-fragments.json"
+    },
+    {
       "igdb_id": 144378,
       "game_name": "Mia's Math Adventure: Just in Time!",
       "file": "missing/M/144378-mias-math-adventure-just-in-time.json"
@@ -82631,6 +82751,11 @@
       "igdb_id": 298308,
       "game_name": "Mini Tennis Club",
       "file": "missing/M/298308-mini-tennis-club.json"
+    },
+    {
+      "igdb_id": 404217,
+      "game_name": "Mini Warrior Defense",
+      "file": "missing/M/404217-mini-warrior-defense.json"
     },
     {
       "igdb_id": 196305,
@@ -102568,6 +102693,11 @@
       "file": "missing/P/297793-project-tachyon.json"
     },
     {
+      "igdb_id": 404201,
+      "game_name": "Project Threshold",
+      "file": "missing/P/404201-project-threshold.json"
+    },
+    {
       "igdb_id": 204063,
       "game_name": "Project Timi: Sasha's Curse",
       "file": "missing/P/204063-project-timi-sashas-curse.json"
@@ -105183,6 +105313,11 @@
       "file": "missing/R/245012-raios-funde.json"
     },
     {
+      "igdb_id": 404255,
+      "game_name": "Raise-a-Wish",
+      "file": "missing/R/404255-raise-a-wish.json"
+    },
+    {
       "igdb_id": 222500,
       "game_name": "Raishi",
       "file": "missing/R/222500-raishi.json"
@@ -107306,6 +107441,11 @@
       "igdb_id": 157200,
       "game_name": "Replay: A Puzzle Game",
       "file": "missing/R/157200-replay-a-puzzle-game.json"
+    },
+    {
+      "igdb_id": 404249,
+      "game_name": "Replica Club Route D",
+      "file": "missing/R/404249-replica-club-route-d.json"
     },
     {
       "igdb_id": 41390,
@@ -113103,6 +113243,11 @@
       "file": "missing/S/169438-scars-of-summer.json"
     },
     {
+      "igdb_id": 404207,
+      "game_name": "Scary 8 Bits",
+      "file": "missing/S/404207-scary-8-bits.json"
+    },
+    {
       "igdb_id": 319950,
       "game_name": "Scary Bucketman",
       "file": "missing/S/319950-scary-bucketman.json"
@@ -113513,6 +113658,11 @@
       "file": "missing/S/89750-scratch-game-halloween-night.json"
     },
     {
+      "igdb_id": 404220,
+      "game_name": "Scratch the Ticket",
+      "file": "missing/S/404220-scratch-the-ticket.json"
+    },
+    {
       "igdb_id": 74450,
       "game_name": "Scream Collector",
       "file": "missing/S/74450-scream-collector.json"
@@ -113721,6 +113871,11 @@
       "igdb_id": 217518,
       "game_name": "Sea Power: Naval Combat in the Missile Age",
       "file": "missing/S/217518-sea-power-naval-combat-in-the-missile-age.json"
+    },
+    {
+      "igdb_id": 404240,
+      "game_name": "Sea Salt City",
+      "file": "missing/S/404240-sea-salt-city.json"
     },
     {
       "igdb_id": 49386,
@@ -124763,6 +124918,11 @@
       "file": "missing/S/233777-stick-war-saga.json"
     },
     {
+      "igdb_id": 404210,
+      "game_name": "Stickman 3D Tennis: Deluxe",
+      "file": "missing/S/404210-stickman-3d-tennis-deluxe.json"
+    },
+    {
       "igdb_id": 406699,
       "game_name": "Stickman 3D Wingsuit: Deluxe",
       "file": "missing/S/406699-stickman-3d-wingsuit-deluxe.json"
@@ -128488,6 +128648,11 @@
       "file": "missing/S/73324-superman-the-mysterious-mr-mist.json"
     },
     {
+      "igdb_id": 404258,
+      "game_name": "Supermarket & Clothing Store Simulator",
+      "file": "missing/S/404258-supermarket-and-clothing-store-simulator.json"
+    },
+    {
       "igdb_id": 218686,
       "game_name": "Supermarket Manager",
       "file": "missing/S/218686-supermarket-manager.json"
@@ -128816,6 +128981,11 @@
       "igdb_id": 306094,
       "game_name": "Survive Ten Days",
       "file": "missing/S/306094-survive-ten-days.json"
+    },
+    {
+      "igdb_id": 404208,
+      "game_name": "Survive the Apocalypse",
+      "file": "missing/S/404208-survive-the-apocalypse.json"
     },
     {
       "igdb_id": 192961,
@@ -137663,6 +137833,11 @@
       "file": "missing/T/31386-the-race-for-the-white-house-2016.json"
     },
     {
+      "igdb_id": 404243,
+      "game_name": "The Race to Goo Lagoon",
+      "file": "missing/T/404243-the-race-to-goo-lagoon.json"
+    },
+    {
       "igdb_id": 254156,
       "game_name": "The Rainbowers",
       "file": "missing/T/254156-the-rainbowers.json"
@@ -138178,6 +138353,16 @@
       "file": "missing/T/246619-the-sims-4-basement-treasures-kit.json"
     },
     {
+      "igdb_id": 404227,
+      "game_name": "The Sims 4: Bikini Bottom Bundle - Conch Street Aquarium and The Flying Dutchman's Jungle Gym",
+      "file": "missing/T/404227-the-sims-4-bikini-bottom-bundle-conch-street-aquarium-and-the-flying-dutchmans-jungle-gym.json"
+    },
+    {
+      "igdb_id": 404226,
+      "game_name": "The Sims 4: Bikini Bottom Bundle - Goofy Goober Guitar",
+      "file": "missing/T/404226-the-sims-4-bikini-bottom-bundle-goofy-goober-guitar.json"
+    },
+    {
       "igdb_id": 121026,
       "game_name": "The Sims 4: Bowling Night Stuff",
       "file": "missing/T/121026-the-sims-4-bowling-night-stuff.json"
@@ -138238,6 +138423,16 @@
       "file": "missing/T/121023-the-sims-4-kids-room-stuff.json"
     },
     {
+      "igdb_id": 404233,
+      "game_name": "The Sims 4: Lady Bridgerton's Masquerade Ball Fashion Kit",
+      "file": "missing/T/404233-the-sims-4-lady-bridgertons-masquerade-ball-fashion-kit.json"
+    },
+    {
+      "igdb_id": 404232,
+      "game_name": "The Sims 4: Lady Bridgerton’s Masquerade Ballroom Kit",
+      "file": "missing/T/404232-the-sims-4-lady-bridgerton-s-masquerade-ballroom-kit.json"
+    },
+    {
       "igdb_id": 82118,
       "game_name": "The Sims 4: Laundry Day Stuff",
       "file": "missing/T/82118-the-sims-4-laundry-day-stuff.json"
@@ -138268,6 +138463,11 @@
       "file": "missing/T/159339-the-sims-4-outdoor-bundle.json"
     },
     {
+      "igdb_id": 404225,
+      "game_name": "The Sims 4: Prairie Dreams",
+      "file": "missing/T/404225-the-sims-4-prairie-dreams.json"
+    },
+    {
       "igdb_id": 121022,
       "game_name": "The Sims 4: Romantic Garden Stuff",
       "file": "missing/T/121022-the-sims-4-romantic-garden-stuff.json"
@@ -138278,6 +138478,11 @@
       "file": "missing/T/159332-the-sims-4-seasons-jungle-adventure-spooky-stuff.json"
     },
     {
+      "igdb_id": 404223,
+      "game_name": "The Sims 4: Silver Screen Style Kit",
+      "file": "missing/T/404223-the-sims-4-silver-screen-style-kit.json"
+    },
+    {
       "igdb_id": 159337,
       "game_name": "The Sims 4: Sims' Night Out Bundle",
       "file": "missing/T/159337-the-sims-4-sims-night-out-bundle.json"
@@ -138286,6 +138491,16 @@
       "igdb_id": 13146,
       "game_name": "The Sims 4: Spa Day",
       "file": "missing/T/13146-the-sims-4-spa-day.json"
+    },
+    {
+      "igdb_id": 404229,
+      "game_name": "The Sims 4: SpongeBob Kid’s Room Kit",
+      "file": "missing/T/404229-the-sims-4-spongebob-kid-s-room-kit.json"
+    },
+    {
+      "igdb_id": 404228,
+      "game_name": "The Sims 4: SpongeBob’s House Kit",
+      "file": "missing/T/404228-the-sims-4-spongebob-s-house-kit.json"
     },
     {
       "igdb_id": 159338,
@@ -138303,6 +138518,11 @@
       "file": "missing/T/159340-the-sims-4-stuff-bundle.json"
     },
     {
+      "igdb_id": 404224,
+      "game_name": "The Sims 4: Tea Time Solarium Kit",
+      "file": "missing/T/404224-the-sims-4-tea-time-solarium-kit.json"
+    },
+    {
       "igdb_id": 249484,
       "game_name": "The Sims 4: The Daring Lifestyle Bundle",
       "file": "missing/T/249484-the-sims-4-the-daring-lifestyle-bundle.json"
@@ -138311,6 +138531,16 @@
       "igdb_id": 121025,
       "game_name": "The Sims 4: Vintage Glamour Stuff",
       "file": "missing/T/121025-the-sims-4-vintage-glamour-stuff.json"
+    },
+    {
+      "igdb_id": 404231,
+      "game_name": "The Sims 4: Wonderland Playroom Kit",
+      "file": "missing/T/404231-the-sims-4-wonderland-playroom-kit.json"
+    },
+    {
+      "igdb_id": 404230,
+      "game_name": "The Sims 4: Yard Charm Kit",
+      "file": "missing/T/404230-the-sims-4-yard-charm-kit.json"
     },
     {
       "igdb_id": 4151,
@@ -145178,6 +145408,11 @@
       "file": "missing/T/251191-trick-or-alice.json"
     },
     {
+      "igdb_id": 404236,
+      "game_name": "Trick or Beat",
+      "file": "missing/T/404236-trick-or-beat.json"
+    },
+    {
       "igdb_id": 197386,
       "game_name": "Trick or Treat",
       "file": "missing/T/197386-trick-or-treat.json"
@@ -150793,6 +151028,11 @@
       "file": "missing/W/123628-waimanu-grinding-block-adventure.json"
     },
     {
+      "igdb_id": 404253,
+      "game_name": "Waiting for an Egg",
+      "file": "missing/W/404253-waiting-for-an-egg.json"
+    },
+    {
       "igdb_id": 312353,
       "game_name": "WaiWai Drive",
       "file": "missing/W/312353-waiwai-drive.json"
@@ -151798,6 +152038,11 @@
       "file": "missing/W/178668-waterbed.json"
     },
     {
+      "igdb_id": 404254,
+      "game_name": "Watercolors Sink Beneath the Surface",
+      "file": "missing/W/404254-watercolors-sink-beneath-the-surface.json"
+    },
+    {
       "igdb_id": 251196,
       "game_name": "Waterfall",
       "file": "missing/W/251196-waterfall.json"
@@ -152241,6 +152486,11 @@
       "igdb_id": 267680,
       "game_name": "Welly Wang VR",
       "file": "missing/W/267680-welly-wang-vr.json"
+    },
+    {
+      "igdb_id": 404234,
+      "game_name": "Welme",
+      "file": "missing/W/404234-welme.json"
     },
     {
       "igdb_id": 105930,
