@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz.com | 221386 | [221386-quiz-com.json](./221386-quiz-com.json) |
 | Quizl | 225272 | [225272-quizl.json](./225272-quizl.json) |
 | QuizWitz | 57119 | [57119-quizwitz.json](./57119-quizwitz.json) |
+| Quod Init Exit IIo | 403558 | [403558-quod-init-exit-iio.json](./403558-quod-init-exit-iio.json) |
 | Quoth The Raven | 268727 | [268727-quoth-the-raven.json](./268727-quoth-the-raven.json) |
 | QuoVadis 2: Wakusei Kyoushuu Ovan Rei | 123631 | [123631-quovadis-2-wakusei-kyoushuu-ovan-rei.json](./123631-quovadis-2-wakusei-kyoushuu-ovan-rei.json) |
 | Qurare: Magic Library | 19605 | [19605-qurare-magic-library.json](./19605-qurare-magic-library.json) |
