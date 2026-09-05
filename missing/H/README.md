@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiirun | 257112 | [257112-hiirun.json](./257112-hiirun.json) |
 | Hijack | 13005 | [13005-hijack.json](./13005-hijack.json) |
 | Hijinks High | 415088 | [415088-hijinks-high.json](./415088-hijinks-high.json) |
+| Hikari no Valusia | 378203 | [378203-hikari-no-valusia.json](./378203-hikari-no-valusia.json) |
 | Hikari! Love Potion | 128006 | [128006-hikari-love-potion.json](./128006-hikari-love-potion.json) |
 | Hikeback | 176492 | [176492-hikeback.json](./176492-hikeback.json) |
 | Hikikomori No Chuunibyou | 32072 | [32072-hikikomori-no-chuunibyou.json](./32072-hikikomori-no-chuunibyou.json) |
@@ -887,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Halls | 29905 | [29905-hollow-halls.json](./29905-hollow-halls.json) |
 | Hollow Hills National Park | 402287 | [402287-hollow-hills-national-park.json](./402287-hollow-hills-national-park.json) |
 | Hollow Stem | 297792 | [297792-hollow-stem.json](./297792-hollow-stem.json) |
+| Hollow Treats | 378207 | [378207-hollow-treats.json](./378207-hollow-treats.json) |
 | Hollow World: Dark Knight | 231055 | [231055-hollow-world-dark-knight.json](./231055-hollow-world-dark-knight.json) |
 | HollowPath | 221429 | [221429-hollowpath.json](./221429-hollowpath.json) |
 | Holly: A Christmas Tale | 177046 | [177046-holly-a-christmas-tale.json](./177046-holly-a-christmas-tale.json) |
@@ -1108,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Fear: Cursed Souls | 228686 | [228686-house-of-fear-cursed-souls.json](./228686-house-of-fear-cursed-souls.json) |
 | House of Plague 0 | 107907 | [107907-house-of-plague-0.json](./107907-house-of-plague-0.json) |
 | House of Slender-Man | 64425 | [64425-house-of-slender-man.json](./64425-house-of-slender-man.json) |
+| House of the Golden Mask | 378175 | [378175-house-of-the-golden-mask.json](./378175-house-of-the-golden-mask.json) |
 | House of Usher | 25721 | [25721-house-of-usher.json](./25721-house-of-usher.json) |
 | House with Puzzles | 274762 | [274762-house-with-puzzles.json](./274762-house-with-puzzles.json) |
 | Housekeeping to Room 501 | 325267 | [325267-housekeeping-to-room-501.json](./325267-housekeeping-to-room-501.json) |
