@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakegurui Cheating Allowed | 220311 | [220311-kakegurui-cheating-allowed.json](./220311-kakegurui-cheating-allowed.json) |
 | Kakurenbo no Oto: Hidden Notes | 172741 | [172741-kakurenbo-no-oto-hidden-notes.json](./172741-kakurenbo-no-oto-hidden-notes.json) |
 | Kakyuusei 2 | 330548 | [330548-kakyuusei-2.json](./330548-kakyuusei-2.json) |
+| Kal | 391591 | [391591-kal.json](./391591-kal.json) |
 | Kalah | 121727 | [121727-kalah.json](./121727-kalah.json) |
 | Kaleido Stella | 113745 | [113745-kaleido-stella.json](./113745-kaleido-stella.json) |
 | Kaleidoscope Chateau | 238722 | [238722-kaleidoscope-chateau.json](./238722-kaleidoscope-chateau.json) |
