@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exist | 212488 | [212488-exist.json](./212488-exist.json) |
 | Existential | 193503 | [193503-existential.json](./193503-existential.json) |
 | Exit 13 Gallery Escape | 291243 | [291243-exit-13-gallery-escape.json](./291243-exit-13-gallery-escape.json) |
+| Exit Control | 368486 | [368486-exit-control.json](./368486-exit-control.json) |
 | Exit Lab 15 Rooms | 390525 | [390525-exit-lab-15-rooms.json](./390525-exit-lab-15-rooms.json) |
 | Exit Lab Beginner Level | 390494 | [390494-exit-lab-beginner-level.json](./390494-exit-lab-beginner-level.json) |
 | Exit Lab Expert Level | 390493 | [390493-exit-lab-expert-level.json](./390493-exit-lab-expert-level.json) |
