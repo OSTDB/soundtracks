@@ -787,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Soccer | 35814 | [35814-pixel-soccer.json](./35814-pixel-soccer.json) |
 | Pixel Storm | 182547 | [182547-pixel-storm.json](./182547-pixel-storm.json) |
 | Pixel Survival Game 2 | 241636 | [241636-pixel-survival-game-2.json](./241636-pixel-survival-game-2.json) |
+| Pixel Survivors | 35921 | [35921-pixel-survivors.json](./35921-pixel-survivors.json) |
 | Pixel Sweepers | 259244 | [259244-pixel-sweepers.json](./259244-pixel-sweepers.json) |
 | Pixel Washer | 263778 | [263778-pixel-washer.json](./263778-pixel-washer.json) |
 | PixelBot Extreme! | 96229 | [96229-pixelbot-extreme.json](./96229-pixelbot-extreme.json) |
@@ -1226,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predatory Islands | 251832 | [251832-predatory-islands.json](./251832-predatory-islands.json) |
 | Predefined | 253585 | [253585-predefined.json](./253585-predefined.json) |
 | Predictile | 304890 | [304890-predictile.json](./304890-predictile.json) |
+| Pregnancy | 35722 | [35722-pregnancy.json](./35722-pregnancy.json) |
 | Pregnant Talking Cat Emma | 250018 | [250018-pregnant-talking-cat-emma.json](./250018-pregnant-talking-cat-emma.json) |
 | Premier Manager 2002-03 | 95428 | [95428-premier-manager-2002-03.json](./95428-premier-manager-2002-03.json) |
 | Premium Bowling | 109304 | [109304-premium-bowling.json](./109304-premium-bowling.json) |
