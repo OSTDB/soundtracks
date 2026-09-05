@@ -1361,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby 20 | 122704 | [122704-rugby-20.json](./122704-rugby-20.json) |
 | Rugby Challenge 3 | 17275 | [17275-rugby-challenge-3.json](./17275-rugby-challenge-3.json) |
 | Rugby Hero | 233237 | [233237-rugby-hero.json](./233237-rugby-hero.json) |
+| Rugby League Raw | 385080 | [385080-rugby-league-raw.json](./385080-rugby-league-raw.json) |
 | Rugrats: Scavenger Hunt | 2786 | [2786-rugrats-scavenger-hunt.json](./2786-rugrats-scavenger-hunt.json) |
 | Ruined King: A League of Legends Story - Deluxe Edition | 186888 | [186888-ruined-king-a-league-of-legends-story-deluxe-edition.json](./186888-ruined-king-a-league-of-legends-story-deluxe-edition.json) |
 | Ruins of Mitriom | 186320 | [186320-ruins-of-mitriom.json](./186320-ruins-of-mitriom.json) |
