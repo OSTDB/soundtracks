@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Fables 4: Shadow Within | 122827 | [122827-endless-fables-4-shadow-within.json](./122827-endless-fables-4-shadow-within.json) |
 | Endless Fables: The Minotaur's Curse | 32003 | [32003-endless-fables-the-minotaurs-curse.json](./32003-endless-fables-the-minotaurs-curse.json) |
 | Endless Firepower | 163460 | [163460-endless-firepower.json](./163460-endless-firepower.json) |
+| Endless Forest | 386683 | [386683-endless-forest.json](./386683-endless-forest.json) |
 | Endless Fucker | 292843 | [292843-endless-fucker.json](./292843-endless-fucker.json) |
 | Endless Greed | 413670 | [413670-endless-greed.json](./413670-endless-greed.json) |
 | Endless Heck | 149604 | [149604-endless-heck.json](./149604-endless-heck.json) |
