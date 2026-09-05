@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Knight: Destiny's Soldier | 20576 | [20576-mage-knight-destinys-soldier.json](./20576-mage-knight-destinys-soldier.json) |
 | Mage Mania | 120408 | [120408-mage-mania.json](./120408-mage-mania.json) |
 | Mage March | 185155 | [185155-mage-march.json](./185155-mage-march.json) |
+| Mage Recall | 402284 | [402284-mage-recall.json](./402284-mage-recall.json) |
 | Maggie's Apartment | 50504 | [50504-maggies-apartment.json](./50504-maggies-apartment.json) |
 | Maggotmania | 109041 | [109041-maggotmania.json](./109041-maggotmania.json) |
 | Magi: Mind Game | 197917 | [197917-magi-mind-game.json](./197917-magi-mind-game.json) |
@@ -1111,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milfy City | 239289 | [239289-milfy-city.json](./239289-milfy-city.json) |
 | Milita Aventuro | 218711 | [218711-milita-aventuro.json](./218711-milita-aventuro.json) |
 | Military Base War | 169447 | [169447-military-base-war.json](./169447-military-base-war.json) |
+| Military Merge | 402307 | [402307-military-merge.json](./402307-military-merge.json) |
 | Milk and Cookies | 132233 | [132233-milk-and-cookies.json](./132233-milk-and-cookies.json) |
 | Milk Race | 46660 | [46660-milk-race.json](./46660-milk-race.json) |
 | Milkblood | 241031 | [241031-milkblood.json](./241031-milkblood.json) |
