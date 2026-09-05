@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 2: Collector's Edition | 105979 | [105979-resident-evil-2-collectors-edition.json](./105979-resident-evil-2-collectors-edition.json) |
 | Resident Evil 2: Collector's Edition | 221401 | [221401-resident-evil-2-collectors-edition.json](./221401-resident-evil-2-collectors-edition.json) |
 | Resident Evil 2: Pix' N Love Limited Edition | 221404 | [221404-resident-evil-2-pix-n-love-limited-edition.json](./221404-resident-evil-2-pix-n-love-limited-edition.json) |
+| Resident Evil 4: Collector's Edition | 24211 | [24211-resident-evil-4-collectors-edition.json](./24211-resident-evil-4-collectors-edition.json) |
 | Resident Evil 4: Limited Edition | 145054 | [145054-resident-evil-4-limited-edition.json](./145054-resident-evil-4-limited-edition.json) |
 | Resident Evil 4: Ultimate HD Edition | 24223 | [24223-resident-evil-4-ultimate-hd-edition.json](./24223-resident-evil-4-ultimate-hd-edition.json) |
 | Resident Evil 4: VR Mode | 250644 | [250644-resident-evil-4-vr-mode.json](./250644-resident-evil-4-vr-mode.json) |
@@ -667,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of Noxi | 254148 | [254148-revenge-of-noxi.json](./254148-revenge-of-noxi.json) |
 | Revenge of the Apes | 40772 | [40772-revenge-of-the-apes.json](./40772-revenge-of-the-apes.json) |
 | Revenge of the Fallen | 123600 | [123600-revenge-of-the-fallen.json](./123600-revenge-of-the-fallen.json) |
+| Revenge of the Wounded Dragons | 21770 | [21770-revenge-of-the-wounded-dragons.json](./21770-revenge-of-the-wounded-dragons.json) |
 | Revenge on Bad Guy | 220316 | [220316-revenge-on-bad-guy.json](./220316-revenge-on-bad-guy.json) |
 | Revenge Request | 295533 | [295533-revenge-request.json](./295533-revenge-request.json) |
 | Revenger: Age of Morons | 89980 | [89980-revenger-age-of-morons.json](./89980-revenger-age-of-morons.json) |
@@ -1083,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance Club: Stories I Play | 270927 | [270927-romance-club-stories-i-play.json](./270927-romance-club-stories-i-play.json) |
 | Romance in the Cityscape | 297208 | [297208-romance-in-the-cityscape.json](./297208-romance-in-the-cityscape.json) |
 | Romance is Dead | 273098 | [273098-romance-is-dead.json](./273098-romance-is-dead.json) |
+| Romance of the Three Kingdom Touch | 21956 | [21956-romance-of-the-three-kingdom-touch.json](./21956-romance-of-the-three-kingdom-touch.json) |
 | Romance of the Three Kingdoms XIII EP: Scenario for War Chronicles Mode - 1st Wave: Liu Bei Enters Shu | 164485 | [164485-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-1st-wave-liu-bei-enters-shu.json](./164485-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-1st-wave-liu-bei-enters-shu.json) |
 | Romance of the Three Kingdoms XIII EP: Scenario for War Chronicles Mode - 2nd Wave: Clash of the Warmongers | 164487 | [164487-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-2nd-wave-clash-of-the-warmongers.json](./164487-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-2nd-wave-clash-of-the-warmongers.json) |
 | Romance of the Three Kingdoms XIII EP: Scenario for War Chronicles Mode - 3rd Wave: The Battle for Hebei | 164488 | [164488-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-3rd-wave-the-battle-for-hebei.json](./164488-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-3rd-wave-the-battle-for-hebei.json) |
@@ -1175,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose & Camellia 4 | 317598 | [317598-rose-and-camellia-4.json](./317598-rose-and-camellia-4.json) |
 | Rose Guns Days: Season 1 | 274213 | [274213-rose-guns-days-season-1.json](./274213-rose-guns-days-season-1.json) |
 | Roses and Gems | 34359 | [34359-roses-and-gems.json](./34359-roses-and-gems.json) |
+| Roswell Fighter | 21774 | [21774-roswell-fighter.json](./21774-roswell-fighter.json) |
 | Roswell's 66th Anniversary | 225900 | [225900-roswells-66th-anniversary.json](./225900-roswells-66th-anniversary.json) |
 | Rosy Rubicunda | 299433 | [299433-rosy-rubicunda.json](./299433-rosy-rubicunda.json) |
 | rOt 3D | 119783 | [119783-rot-3d.json](./119783-rot-3d.json) |
