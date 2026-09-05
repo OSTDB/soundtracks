@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galak-Z: The Void - Deluxe Edition | 115666 | [115666-galak-z-the-void-deluxe-edition.json](./115666-galak-z-the-void-deluxe-edition.json) |
 | Galak-Z: The Void / Skulls of the Shogun: Bone-A-Fide Edition - Platinum Pack | 173777 | [173777-galak-z-the-void-skulls-of-the-shogun-bone-a-fide-edition-platinum-pack.json](./173777-galak-z-the-void-skulls-of-the-shogun-bone-a-fide-edition-platinum-pack.json) |
 | Galak-Z: The Void & Skulls of the Shogun: Bonafide Edition - Platinum Pack | 138264 | [138264-galak-z-the-void-and-skulls-of-the-shogun-bonafide-edition-platinum-pack.json](./138264-galak-z-the-void-and-skulls-of-the-shogun-bonafide-edition-platinum-pack.json) |
+| Galax | 382229 | [382229-galax.json](./382229-galax.json) |
 | GalaX | 259836 | [259836-galax.json](./259836-galax.json) |
 | Galax-i-Birds | 55187 | [55187-galax-i-birds.json](./55187-galax-i-birds.json) |
 | Galaxicus | 119022 | [119022-galaxicus.json](./119022-galaxicus.json) |
