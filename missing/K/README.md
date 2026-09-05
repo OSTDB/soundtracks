@@ -233,6 +233,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid no Hore Hore Daisakusen | 40237 | [40237-kid-no-hore-hore-daisakusen.json](./40237-kid-no-hore-hore-daisakusen.json) |
 | Kid Paddle: Lost in the Game | 268186 | [268186-kid-paddle-lost-in-the-game.json](./268186-kid-paddle-lost-in-the-game.json) |
 | Kid Speedy | 135867 | [135867-kid-speedy.json](./135867-kid-speedy.json) |
+| Kid's Activity Center | 87688 | [87688-kids-activity-center.json](./87688-kids-activity-center.json) |
+| Kid's Preschool Game Box | 87692 | [87692-kids-preschool-game-box.json](./87692-kids-preschool-game-box.json) |
 | Kiddies Party Pack | 100174 | [100174-kiddies-party-pack.json](./100174-kiddies-party-pack.json) |
 | Kidnappers | 301610 | [301610-kidnappers.json](./301610-kidnappers.json) |
 | Kido Keisatstsu Patlabor: Griffon-hen | 75897 | [75897-kido-keisatstsu-patlabor-griffon-hen.json](./75897-kido-keisatstsu-patlabor-griffon-hen.json) |
