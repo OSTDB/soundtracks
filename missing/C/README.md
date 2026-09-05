@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choose an Enemy | 93051 | [93051-choose-an-enemy.json](./93051-choose-an-enemy.json) |
 | Choose Your Own Alternative | 389395 | [389395-choose-your-own-alternative.json](./389395-choose-your-own-alternative.json) |
 | Chop | 183081 | [183081-chop.json](./183081-chop.json) |
+| Chop Chains | 386731 | [386731-chop-chains.json](./386731-chop-chains.json) |
 | Chop Chop Inc. | 398967 | [398967-chop-chop-inc.json](./398967-chop-chop-inc.json) |
 | Chop Chop Together | 392147 | [392147-chop-chop-together.json](./392147-chop-chop-together.json) |
 | Chop Signal | 389455 | [389455-chop-signal.json](./389455-chop-signal.json) |
@@ -1219,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Swiper | 319956 | [319956-color-swiper.json](./319956-color-swiper.json) |
 | Color Teaser | 261527 | [261527-color-teaser.json](./261527-color-teaser.json) |
 | Colorful Critter | 218144 | [218144-colorful-critter.json](./218144-colorful-critter.json) |
+| Colorful Tower of Hanoi | 386701 | [386701-colorful-tower-of-hanoi.json](./386701-colorful-tower-of-hanoi.json) |
 | Colorful3D II | 131623 | [131623-colorful3d-ii.json](./131623-colorful3d-ii.json) |
 | Colorim | 261525 | [261525-colorim.json](./261525-colorim.json) |
 | Coloring Animal Zoo Touch to Color Activity Coloring Book for Kids and Family Preschool Ultimate Edition | 232167 | [232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json](./232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json) |
@@ -1610,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cranky Cat | 16514 | [16514-cranky-cat.json](./16514-cranky-cat.json) |
 | Crapette | 332253 | [332253-crapette.json](./332253-crapette.json) |
 | Crapman | 70424 | [70424-crapman.json](./70424-crapman.json) |
+| Craps | 386682 | [386682-craps.json](./386682-craps.json) |
 | Crash 'n Burn | 95438 | [95438-crash-n-burn.json](./95438-crash-n-burn.json) |
 | Crash 'N' Burn | 5789 | [5789-crash-n-burn.json](./5789-crash-n-burn.json) |
 | Crash & Spyro Superpack I Crash Bandicoot: The Huge Adventure / Spyro: Season of Ice | 210236 | [210236-crash-and-spyro-superpack-i-crash-bandicoot-the-huge-adventure-spyro-season-of-ice.json](./210236-crash-and-spyro-superpack-i-crash-bandicoot-the-huge-adventure-spyro-season-of-ice.json) |
