@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanerutchi | 229961 | [229961-hanerutchi.json](./229961-hanerutchi.json) |
 | Hanerutchi 2 | 229962 | [229962-hanerutchi-2.json](./229962-hanerutchi-2.json) |
 | Hang-On & Astro Warrior | 86098 | [86098-hang-on-and-astro-warrior.json](./86098-hang-on-and-astro-warrior.json) |
+| Hangler | 388728 | [388728-hangler.json](./388728-hangler.json) |
 | Hangman II | 248920 | [248920-hangman-ii.json](./248920-hangman-ii.json) |
 | Hangman: Fun Word Game | 89236 | [89236-hangman-fun-word-game.json](./89236-hangman-fun-word-game.json) |
 | HangOutGame | 166755 | [166755-hangoutgame.json](./166755-hangoutgame.json) |
@@ -171,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Words | 117051 | [117051-happy-words.json](./117051-happy-words.json) |
 | HappyFamily - Cut Knife | 100866 | [100866-happyfamily-cut-knife.json](./100866-happyfamily-cut-knife.json) |
 | HappySnowMan | 236540 | [236540-happysnowman.json](./236540-happysnowman.json) |
+| Haramimura: When a Wife Becomes a Villager | 388721 | [388721-haramimura-when-a-wife-becomes-a-villager.json](./388721-haramimura-when-a-wife-becomes-a-villager.json) |
 | Harbinger | 51230 | [51230-harbinger.json](./51230-harbinger.json) |
 | Harbinger's Horse GT | 183586 | [183586-harbingers-horse-gt.json](./183586-harbingers-horse-gt.json) |
 | Harborland de Tsukamaete | 317009 | [317009-harborland-de-tsukamaete.json](./317009-harborland-de-tsukamaete.json) |
@@ -1136,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hueor | 127365 | [127365-hueor.json](./127365-hueor.json) |
 | Huge Breast Princess Knight Anne | 158212 | [158212-huge-breast-princess-knight-anne.json](./158212-huge-breast-princess-knight-anne.json) |
 | Huge Enemy - Worldbreakers | 107855 | [107855-huge-enemy-worldbreakers.json](./107855-huge-enemy-worldbreakers.json) |
+| Huglings | 388756 | [388756-huglings.json](./388756-huglings.json) |
 | Hugo Gold | 265969 | [265969-hugo-gold.json](./265969-hugo-gold.json) |
 | Hugo III, Jungle of Doom! | 8883 | [8883-hugo-iii-jungle-of-doom.json](./8883-hugo-iii-jungle-of-doom.json) |
 | Hugo: Bukkazoom | 165052 | [165052-hugo-bukkazoom.json](./165052-hugo-bukkazoom.json) |
