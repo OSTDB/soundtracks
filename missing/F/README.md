@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Sale | 328269 | [328269-for-sale.json](./328269-for-sale.json) |
 | For the Hive | 190704 | [190704-for-the-hive.json](./190704-for-the-hive.json) |
 | For What Will Come | 213010 | [213010-for-what-will-come.json](./213010-for-what-will-come.json) |
+| Forbidden Compass | 404206 | [404206-forbidden-compass.json](./404206-forbidden-compass.json) |
 | Forbidden Planet | 81414 | [81414-forbidden-planet.json](./81414-forbidden-planet.json) |
 | Forbidden World | 219794 | [219794-forbidden-world.json](./219794-forbidden-world.json) |
 | Force of Nature 2: Ghost Keeper | 150124 | [150124-force-of-nature-2-ghost-keeper.json](./150124-force-of-nature-2-ghost-keeper.json) |
@@ -1063,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Stories | 154566 | [154566-fox-stories.json](./154566-fox-stories.json) |
 | Fox-Trot Over Run | 130970 | [130970-fox-trot-over-run.json](./130970-fox-trot-over-run.json) |
 | Fox's Peter Pan & The Pirates: The Revenge of Captain Hook | 72710 | [72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json](./72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json) |
+| Foxfire | 404247 | [404247-foxfire.json](./404247-foxfire.json) |
 | FoxHunt | 115719 | [115719-foxhunt.json](./115719-foxhunt.json) |
 | FoxRun | 340241 | [340241-foxrun.json](./340241-foxrun.json) |
 | Foxy Furry Lady of the Forest | 82919 | [82919-foxy-furry-lady-of-the-forest.json](./82919-foxy-furry-lady-of-the-forest.json) |
