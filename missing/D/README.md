@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Research | 271493 | [271493-deep-research.json](./271493-deep-research.json) |
 | Deep Sea Marble Pop | 146901 | [146901-deep-sea-marble-pop.json](./146901-deep-sea-marble-pop.json) |
 | Deep Sleep | 185125 | [185125-deep-sleep.json](./185125-deep-sleep.json) |
+| Deep Soup | 406707 | [406707-deep-soup.json](./406707-deep-soup.json) |
 | Deep Space | 272554 | [272554-deep-space.json](./272554-deep-space.json) |
 | Deep Space Bellhop | 339652 | [339652-deep-space-bellhop.json](./339652-deep-space-bellhop.json) |
 | Deep Space Shooter | 111731 | [111731-deep-space-shooter.json](./111731-deep-space-shooter.json) |
