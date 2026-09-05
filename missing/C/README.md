@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Callbreak League | 237635 | [237635-callbreak-league.json](./237635-callbreak-league.json) |
 | Callus | 387375 | [387375-callus.json](./387375-callus.json) |
 | Calm Forest | 185135 | [185135-calm-forest.json](./185135-calm-forest.json) |
+| Calvin's Gallery | 377043 | [377043-calvins-gallery.json](./377043-calvins-gallery.json) |
 | Calvino Noir | 17713 | [17713-calvino-noir.json](./17713-calvino-noir.json) |
 | Calx | 203520 | [203520-calx.json](./203520-calx.json) |
 | Calypso | 140021 | [140021-calypso.json](./140021-calypso.json) |
@@ -704,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Coop Invaders | 388753 | [388753-chicken-coop-invaders.json](./388753-chicken-coop-invaders.json) |
 | Chicken Defense | 181398 | [181398-chicken-defense.json](./181398-chicken-defense.json) |
 | Chicken Freeze! | 206968 | [206968-chicken-freeze.json](./206968-chicken-freeze.json) |
+| Chicken Fries | 377072 | [377072-chicken-fries.json](./377072-chicken-fries.json) |
 | Chicken Gun | 413002 | [413002-chicken-gun.json](./413002-chicken-gun.json) |
 | Chicken in the Darkness | 110341 | [110341-chicken-in-the-darkness.json](./110341-chicken-in-the-darkness.json) |
 | Chicken Invaders 3 Xmas | 89285 | [89285-chicken-invaders-3-xmas.json](./89285-chicken-invaders-3-xmas.json) |
@@ -1494,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corridor Geodesic | 319387 | [319387-corridor-geodesic.json](./319387-corridor-geodesic.json) |
 | Corridor Maze: Home Cleanup | 291251 | [291251-corridor-maze-home-cleanup.json](./291251-corridor-maze-home-cleanup.json) |
 | Corridors of Their Memories | 149093 | [149093-corridors-of-their-memories.json](./149093-corridors-of-their-memories.json) |
+| Corrosion Protocol | 377073 | [377073-corrosion-protocol.json](./377073-corrosion-protocol.json) |
 | Corrosion: Cold Winter Waiting | 126027 | [126027-corrosion-cold-winter-waiting.json](./126027-corrosion-cold-winter-waiting.json) |
 | Corru.Observer | 241239 | [241239-corru-observer.json](./241239-corru-observer.json) |
 | Corrupt | 67916 | [67916-corrupt.json](./67916-corrupt.json) |
@@ -1831,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrossLust | 235491 | [235491-crosslust.json](./235491-crosslust.json) |
 | Crossover Collab | 379890 | [379890-crossover-collab.json](./379890-crossover-collab.json) |
 | Crossroads | 377570 | [377570-crossroads.json](./377570-crossroads.json) |
+| Crossroads Farming Co. | 377056 | [377056-crossroads-farming-co.json](./377056-crossroads-farming-co.json) |
 | Crossroads Inn: Anniversary Edition | 154549 | [154549-crossroads-inn-anniversary-edition.json](./154549-crossroads-inn-anniversary-edition.json) |
 | Crossword | 402255 | [402255-crossword.json](./402255-crossword.json) |
 | Crossword Champ | 58273 | [58273-crossword-champ.json](./58273-crossword-champ.json) |
