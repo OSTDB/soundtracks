@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenshi-tachi no Gogo II: Minako | 247182 | [247182-tenshi-tachi-no-gogo-ii-minako.json](./247182-tenshi-tachi-no-gogo-ii-minako.json) |
 | Tensou Sentai Goseiger Super Battle Daishuugou! | 327603 | [327603-tensou-sentai-goseiger-super-battle-daishuugou.json](./327603-tensou-sentai-goseiger-super-battle-daishuugou.json) |
 | Tentacle Prawn: (Actually) A Cthulhu Dating Sim - The Myth & Legend of Marauder Shields | 267065 | [267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json](./267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json) |
+| Tentacult! | 32872 | [32872-tentacult.json](./32872-tentacult.json) |
 | Teocalli | 134698 | [134698-teocalli.json](./134698-teocalli.json) |
 | TEOM | 236013 | [236013-teom.json](./236013-teom.json) |
 | Teppen Banchou Take 1: Saikou no Yankee Ikusei Game | 220305 | [220305-teppen-banchou-take-1-saikou-no-yankee-ikusei-game.json](./220305-teppen-banchou-take-1-saikou-no-yankee-ikusei-game.json) |
@@ -595,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Assistant's Turnabout | 303261 | [303261-the-assistants-turnabout.json](./303261-the-assistants-turnabout.json) |
 | The Astronomy Game | 156144 | [156144-the-astronomy-game.json](./156144-the-astronomy-game.json) |
 | The Asylum: Psychiatric Clinic for Abused Cuddly Toys | 66153 | [66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json](./66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json) |
+| The Atomy | 33124 | [33124-the-atomy.json](./33124-the-atomy.json) |
 | The Auto Sort Is Broken | 329363 | [329363-the-auto-sort-is-broken.json](./329363-the-auto-sort-is-broken.json) |
 | The Avengers | 86108 | [86108-the-avengers.json](./86108-the-avengers.json) |
 | The Awakened Fate: Ultimatum | 19119 | [19119-the-awakened-fate-ultimatum.json](./19119-the-awakened-fate-ultimatum.json) |
@@ -1118,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Immortal Mayor | 152377 | [152377-the-immortal-mayor.json](./152377-the-immortal-mayor.json) |
 | The Immortal Mayor: Kingdom of Women | 262077 | [262077-the-immortal-mayor-kingdom-of-women.json](./262077-the-immortal-mayor-kingdom-of-women.json) |
 | The Impossible Test | 66712 | [66712-the-impossible-test.json](./66712-the-impossible-test.json) |
+| The Impossible Travel Agency | 33075 | [33075-the-impossible-travel-agency.json](./33075-the-impossible-travel-agency.json) |
 | The Incredible Adventures of Van Helsing II: Ink Hunt | 10969 | [10969-the-incredible-adventures-of-van-helsing-ii-ink-hunt.json](./10969-the-incredible-adventures-of-van-helsing-ii-ink-hunt.json) |
 | The Incredible Adventures of Van Helsing II: Pigasus | 10970 | [10970-the-incredible-adventures-of-van-helsing-ii-pigasus.json](./10970-the-incredible-adventures-of-van-helsing-ii-pigasus.json) |
 | The Incredible Adventures of Van Helsing: Blue Blood | 10968 | [10968-the-incredible-adventures-of-van-helsing-blue-blood.json](./10968-the-incredible-adventures-of-van-helsing-blue-blood.json) |
@@ -1213,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Haven | 127615 | [127615-the-last-haven.json](./127615-the-last-haven.json) |
 | The Last Hope | 25627 | [25627-the-last-hope.json](./25627-the-last-hope.json) |
 | The Last King | 258200 | [258200-the-last-king.json](./258200-the-last-king.json) |
+| The Last Leviathan | 32873 | [32873-the-last-leviathan.json](./32873-the-last-leviathan.json) |
 | The Last Light | 182556 | [182556-the-last-light.json](./182556-the-last-light.json) |
 | The Last Memory of a Burning Thought | 335655 | [335655-the-last-memory-of-a-burning-thought.json](./335655-the-last-memory-of-a-burning-thought.json) |
 | The Last Night | 18285 | [18285-the-last-night.json](./18285-the-last-night.json) |
@@ -3056,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivial Pursuit: NASCAR | 100170 | [100170-trivial-pursuit-nascar.json](./100170-trivial-pursuit-nascar.json) |
 | Trivial Pursuit: The CD32 Edition | 39040 | [39040-trivial-pursuit-the-cd32-edition.json](./39040-trivial-pursuit-the-cd32-edition.json) |
 | Trizeal | 93063 | [93063-trizeal.json](./93063-trizeal.json) |
+| Trizeal Remix | 32927 | [32927-trizeal-remix.json](./32927-trizeal-remix.json) |
 | TRL: The Rail Loaders | 266485 | [266485-trl-the-rail-loaders.json](./266485-trl-the-rail-loaders.json) |
 | Troddlers | 39029 | [39029-troddlers.json](./39029-troddlers.json) |
 | Trog Smash Island | 296081 | [296081-trog-smash-island.json](./296081-trog-smash-island.json) |
