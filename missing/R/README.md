@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain & Chamomile Tea | 260948 | [260948-rain-and-chamomile-tea.json](./260948-rain-and-chamomile-tea.json) |
 | Rain Blood Chronicles: Mirage | 16548 | [16548-rain-blood-chronicles-mirage.json](./16548-rain-blood-chronicles-mirage.json) |
 | Rain in the Abyss | 194611 | [194611-rain-in-the-abyss.json](./194611-rain-in-the-abyss.json) |
+| Rain World: Slugcat's Lifecycle Edition | 370699 | [370699-rain-world-slugcats-lifecycle-edition.json](./370699-rain-world-slugcats-lifecycle-edition.json) |
 | Rain, House, Eternity | 143082 | [143082-rain-house-eternity.json](./143082-rain-house-eternity.json) |
 | Rain's Golf | 414384 | [414384-rains-golf.json](./414384-rains-golf.json) |
 | Rain's Love Memory | 117087 | [117087-rains-love-memory.json](./117087-rains-love-memory.json) |
@@ -285,6 +286,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Aegis | 291753 | [291753-re-aegis.json](./291753-re-aegis.json) |
 | Re:Aktor | 383382 | [383382-re-aktor.json](./383382-re-aktor.json) |
 | Re:Connect | 306064 | [306064-re-connect.json](./306064-re-connect.json) |
+| Re:D Cherish! SS: Desperado's One Operation | 370696 | [370696-re-d-cherish-ss-desperados-one-operation.json](./370696-re-d-cherish-ss-desperados-one-operation.json) |
+| Re:D Cherish! SS: Rouge's One Operation | 370697 | [370697-re-d-cherish-ss-rouges-one-operation.json](./370697-re-d-cherish-ss-rouges-one-operation.json) |
+| Re:D Cherish!: Eternity Blood | 370695 | [370695-re-d-cherish-eternity-blood.json](./370695-re-d-cherish-eternity-blood.json) |
 | Re:Kuroi | 151725 | [151725-re-kuroi.json](./151725-re-kuroi.json) |
 | Re:Monster | 241637 | [241637-re-monster.json](./241637-re-monster.json) |
 | Re:Zero - Starting Life in Another World: Death or Kiss | 26668 | [26668-re-zero-starting-life-in-another-world-death-or-kiss.json](./26668-re-zero-starting-life-in-another-world-death-or-kiss.json) |
@@ -292,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Zero Kara Hajimeru Isekai Seikatsu Infinity | 130366 | [130366-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json](./130366-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json) |
 | RE.CO.N. | 146353 | [146353-re-co-n.json](./146353-re-co-n.json) |
 | Re.wired | 270937 | [270937-re-wired.json](./270937-re-wired.json) |
+| RE0: VTuber Life | 370680 | [370680-re0-vtuber-life.json](./370680-re0-vtuber-life.json) |
 | Reach Your Destiny | 297797 | [297797-reach-your-destiny.json](./297797-reach-your-destiny.json) |
 | Reaction | 152347 | [152347-reaction.json](./152347-reaction.json) |
 | Reactor 09 | 123596 | [123596-reactor-09.json](./123596-reactor-09.json) |
@@ -824,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rick and Morty: Virtual Rick-ality | 20459 | [20459-rick-and-morty-virtual-rick-ality.json](./20459-rick-and-morty-virtual-rick-ality.json) |
 | Ricochet | 209166 | [209166-ricochet.json](./209166-ricochet.json) |
 | Ricochet Blur | 226453 | [226453-ricochet-blur.json](./226453-ricochet-blur.json) |
+| Ricochet Raven | 370668 | [370668-ricochet-raven.json](./370668-ricochet-raven.json) |
 | Ricochet Xtreme | 70421 | [70421-ricochet-xtreme.json](./70421-ricochet-xtreme.json) |
 | Riddledale | 223174 | [223174-riddledale.json](./223174-riddledale.json) |
 | Riddles of the Owls Kingdom | 105370 | [105370-riddles-of-the-owls-kingdom.json](./105370-riddles-of-the-owls-kingdom.json) |
@@ -1130,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roda a Roda | 254788 | [254788-roda-a-roda.json](./254788-roda-a-roda.json) |
 | Rodea Eternal | 317613 | [317613-rodea-eternal.json](./317613-rodea-eternal.json) |
 | Rodea the Sky Soldier | 138792 | [138792-rodea-the-sky-soldier.json](./138792-rodea-the-sky-soldier.json) |
+| Rododendron | 370721 | [370721-rododendron.json](./370721-rododendron.json) |
 | Roger Rabbit | 153448 | [153448-roger-rabbit.json](./153448-roger-rabbit.json) |
 | Rogue | 183032 | [183032-rogue.json](./183032-rogue.json) |
 | Rogue Aces | 84848 | [84848-rogue-aces.json](./84848-rogue-aces.json) |
@@ -1255,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftop Rascal: The Claus Cat | 328386 | [328386-rooftop-rascal-the-claus-cat.json](./328386-rooftop-rascal-the-claus-cat.json) |
 | Rooftop Rascal: The Glitch Cat | 324996 | [324996-rooftop-rascal-the-glitch-cat.json](./324996-rooftop-rascal-the-glitch-cat.json) |
 | Rooftop Rascal: The Spooky Cat | 320373 | [320373-rooftop-rascal-the-spooky-cat.json](./320373-rooftop-rascal-the-spooky-cat.json) |
+| Rooftop Story | 370717 | [370717-rooftop-story.json](./370717-rooftop-story.json) |
 | Rooftops & Alleys: The Parkour Game | 279900 | [279900-rooftops-and-alleys-the-parkour-game.json](./279900-rooftops-and-alleys-the-parkour-game.json) |
 | Rookie Math Pro | 102205 | [102205-rookie-math-pro.json](./102205-rookie-math-pro.json) |
 | Rookie Tank | 116357 | [116357-rookie-tank.json](./116357-rookie-tank.json) |
@@ -1264,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Escape '1053' | 127376 | [127376-room-escape-1053.json](./127376-room-escape-1053.json) |
 | Room Explorer 2010 | 198511 | [198511-room-explorer-2010.json](./198511-room-explorer-2010.json) |
 | Room Explorer 2010: Deluxe Lover's Paque | 198512 | [198512-room-explorer-2010-deluxe-lovers-paque.json](./198512-room-explorer-2010-deluxe-lovers-paque.json) |
+| Room Football: Ranch | 370713 | [370713-room-football-ranch.json](./370713-room-football-ranch.json) |
 | Room231 | 297206 | [297206-room231.json](./297206-room231.json) |
 | Roomba Out! | 302143 | [302143-roomba-out.json](./302143-roomba-out.json) |
 | Roomba Rail Rider | 302144 | [302144-roomba-rail-rider.json](./302144-roomba-rail-rider.json) |
@@ -1500,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust Rails | 267063 | [267063-rust-rails.json](./267063-rust-rails.json) |
 | Rustler | 99302 | [99302-rustler.json](./99302-rustler.json) |
 | Rusty | 45975 | [45975-rusty.json](./45975-rusty.json) |
+| Rusty Winter | 370688 | [370688-rusty-winter.json](./370688-rusty-winter.json) |
 | Rusty's Real Deal Baseball: Bat & Switch | 258715 | [258715-rustys-real-deal-baseball-bat-and-switch.json](./258715-rustys-real-deal-baseball-bat-and-switch.json) |
 | Rusty's Real Deal Baseball: Cage Match | 258739 | [258739-rustys-real-deal-baseball-cage-match.json](./258739-rustys-real-deal-baseball-cage-match.json) |
 | Rusty's Real Deal Baseball: Gear Games | 258730 | [258730-rustys-real-deal-baseball-gear-games.json](./258730-rustys-real-deal-baseball-gear-games.json) |
