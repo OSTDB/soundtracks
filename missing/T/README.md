@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tape To Tape | 190280 | [190280-tape-to-tape.json](./190280-tape-to-tape.json) |
 | Tapgym | 261515 | [261515-tapgym.json](./261515-tapgym.json) |
 | Tapioka Panic | 259829 | [259829-tapioka-panic.json](./259829-tapioka-panic.json) |
+| Tapper's Fiefdom | 393491 | [393491-tappers-fiefdom.json](./393491-tappers-fiefdom.json) |
 | Tappy Dig: Virtual Pet Fox Game | 265423 | [265423-tappy-dig-virtual-pet-fox-game.json](./265423-tappy-dig-virtual-pet-fox-game.json) |
 | Tappy Golf | 264905 | [264905-tappy-golf.json](./264905-tappy-golf.json) |
 | Tappy Shots | 87362 | [87362-tappy-shots.json](./87362-tappy-shots.json) |
@@ -1072,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life 2: Sandy Shores World | 171592 | [171592-the-game-of-life-2-sandy-shores-world.json](./171592-the-game-of-life-2-sandy-shores-world.json) |
 | The Game That Takes Place on a Cruise Ship | 408818 | [408818-the-game-that-takes-place-on-a-cruise-ship.json](./408818-the-game-that-takes-place-on-a-cruise-ship.json) |
 | The Game That Was Stolen From Me at Indiecade2019 | 396233 | [396233-the-game-that-was-stolen-from-me-at-indiecade2019.json](./396233-the-game-that-was-stolen-from-me-at-indiecade2019.json) |
+| The Game: The Game | 393488 | [393488-the-game-the-game.json](./393488-the-game-the-game.json) |
 | The Gannet | 202968 | [202968-the-gannet.json](./202968-the-gannet.json) |
 | The Gene Machine | 19672 | [19672-the-gene-machine.json](./19672-the-gene-machine.json) |
 | The General | 174369 | [174369-the-general.json](./174369-the-general.json) |
@@ -2405,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Woods PGA Tour 09 | 5222 | [5222-tiger-woods-pga-tour-09.json](./5222-tiger-woods-pga-tour-09.json) |
 | Tiger Woods PGA Tour 2004 | 905 | [905-tiger-woods-pga-tour-2004.json](./905-tiger-woods-pga-tour-2004.json) |
 | Tiger Woods PGA Tour 2008 | 51234 | [51234-tiger-woods-pga-tour-2008.json](./51234-tiger-woods-pga-tour-2008.json) |
+| Tight Man | 393457 | [393457-tight-man.json](./393457-tight-man.json) |
 | Tightrope Walking | 178076 | [178076-tightrope-walking.json](./178076-tightrope-walking.json) |
 | Tik Tak Caro | 239328 | [239328-tik-tak-caro.json](./239328-tik-tak-caro.json) |
 | Tik Werlen | 396194 | [396194-tik-werlen.json](./396194-tik-werlen.json) |
@@ -2524,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Dust | 259824 | [259824-to-dust.json](./259824-to-dust.json) |
 | To Hell in a Hamper | 60019 | [60019-to-hell-in-a-hamper.json](./60019-to-hell-in-a-hamper.json) |
 | To Light: Ex Umbra | 102370 | [102370-to-light-ex-umbra.json](./102370-to-light-ex-umbra.json) |
+| To My Darling | 393512 | [393512-to-my-darling.json](./393512-to-my-darling.json) |
 | To the Capital | 24476 | [24476-to-the-capital.json](./24476-to-the-capital.json) |
 | To the City of the Clouds | 83597 | [83597-to-the-city-of-the-clouds.json](./83597-to-the-city-of-the-clouds.json) |
 | To the Crown | 182530 | [182530-to-the-crown.json](./182530-to-the-crown.json) |
@@ -3283,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True or False 2 | 29717 | [29717-true-or-false-2.json](./29717-true-or-false-2.json) |
 | True Visions | 162413 | [162413-true-visions.json](./162413-true-visions.json) |
 | Truefish | 120412 | [120412-truefish.json](./120412-truefish.json) |
+| Trump and Virus | 393451 | [393451-trump-and-virus.json](./393451-trump-and-virus.json) |
 | Trump Collection 2: Bottom Up Teki Sekai Isshuu no Tabi | 82136 | [82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json](./82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json) |
 | Trump Collection GB | 82137 | [82137-trump-collection-gb.json](./82137-trump-collection-gb.json) |
 | Trumpets | 179164 | [179164-trumpets.json](./179164-trumpets.json) |
