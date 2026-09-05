@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gary the Gull | 33169 | [33169-gary-the-gull.json](./33169-gary-the-gull.json) |
 | Gas Station: Highway Services | 148001 | [148001-gas-station-highway-services.json](./148001-gas-station-highway-services.json) |
 | Gaslamp Cases 5: The Dreadful City | 248917 | [248917-gaslamp-cases-5-the-dreadful-city.json](./248917-gaslamp-cases-5-the-dreadful-city.json) |
+| Gaslift: A Chair Horror | 414311 | [414311-gaslift-a-chair-horror.json](./414311-gaslift-a-chair-horror.json) |
 | Gastova: The Witches of Arkana | 130955 | [130955-gastova-the-witches-of-arkana.json](./130955-gastova-the-witches-of-arkana.json) |
 | Gastronomie | 220319 | [220319-gastronomie.json](./220319-gastronomie.json) |
 | Gatari: Sand on Teeth | 78584 | [78584-gatari-sand-on-teeth.json](./78584-gatari-sand-on-teeth.json) |
@@ -339,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get the Bunny | 209597 | [209597-get-the-bunny.json](./209597-get-the-bunny.json) |
 | Get to the Top 2: Breakthrough Gaming Arcade | 200726 | [200726-get-to-the-top-2-breakthrough-gaming-arcade.json](./200726-get-to-the-top-2-breakthrough-gaming-arcade.json) |
 | Getaway Entertainment 6 Pack | 201851 | [201851-getaway-entertainment-6-pack.json](./201851-getaway-entertainment-6-pack.json) |
+| Getaway Golf | 414298 | [414298-getaway-golf.json](./414298-getaway-golf.json) |
 | GetClose | 61658 | [61658-getclose.json](./61658-getclose.json) |
 | Getsuei no Kusari: Kyouran Moratoriamu | 136449 | [136449-getsuei-no-kusari-kyouran-moratoriamu.json](./136449-getsuei-no-kusari-kyouran-moratoriamu.json) |
 | Getsuei no Kusari: Sakuran Paranoia | 136448 | [136448-getsuei-no-kusari-sakuran-paranoia.json](./136448-getsuei-no-kusari-sakuran-paranoia.json) |
@@ -456,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gli Animotosi e la Macchina Motante | 213625 | [213625-gli-animotosi-e-la-macchina-motante.json](./213625-gli-animotosi-e-la-macchina-motante.json) |
 | Glider Rider | 13002 | [13002-glider-rider.json](./13002-glider-rider.json) |
 | Glider Simulator | 326413 | [326413-glider-simulator.json](./326413-glider-simulator.json) |
+| Glimpo | 414380 | [414380-glimpo.json](./414380-glimpo.json) |
 | Glimpse | 235988 | [235988-glimpse.json](./235988-glimpse.json) |
 | Glimpse | 278129 | [278129-glimpse.json](./278129-glimpse.json) |
 | Glingdom | 317022 | [317022-glingdom.json](./317022-glingdom.json) |
@@ -522,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Go! Advance Drive: Muttsu no Machine ni Chousen Da! | 327588 | [327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json](./327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json) |
 | Go! Go! PogoGirl | 188125 | [188125-go-go-pogogirl.json](./188125-go-go-pogogirl.json) |
 | Go! Princess PreCure: Sugar Oukoku to 6-nin no Princess! | 222540 | [222540-go-princess-precure-sugar-oukoku-to-6-nin-no-princess.json](./222540-go-princess-precure-sugar-oukoku-to-6-nin-no-princess.json) |
+| Go! Super Awesome Monkey! | 414329 | [414329-go-super-awesome-monkey.json](./414329-go-super-awesome-monkey.json) |
 | Goal 94 | 78065 | [78065-goal-94.json](./78065-goal-94.json) |
 | Goal and Crossbones | 178649 | [178649-goal-and-crossbones.json](./178649-goal-and-crossbones.json) |
 | Goal Poacher VR: Football Header Simulator | 326415 | [326415-goal-poacher-vr-football-header-simulator.json](./326415-goal-poacher-vr-football-header-simulator.json) |
@@ -602,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golazo! | 122408 | [122408-golazo.json](./122408-golazo.json) |
 | Gold | 315301 | [315301-gold.json](./315301-gold.json) |
 | Gold and Glory: The Road to El Dorado | 209636 | [209636-gold-and-glory-the-road-to-el-dorado.json](./209636-gold-and-glory-the-road-to-el-dorado.json) |
+| Gold Coast Gambits: Boca Raton & Palm Beach | 414353 | [414353-gold-coast-gambits-boca-raton-and-palm-beach.json](./414353-gold-coast-gambits-boca-raton-and-palm-beach.json) |
 | Gold Digger | 13723 | [13723-gold-digger.json](./13723-gold-digger.json) |
 | Gold Digger | 147994 | [147994-gold-digger.json](./147994-gold-digger.json) |
 | Gold Digger Maze | 105380 | [105380-gold-digger-maze.json](./105380-gold-digger-maze.json) |
@@ -1023,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunbird: Special Edition | 44643 | [44643-gunbird-special-edition.json](./44643-gunbird-special-edition.json) |
 | Gunboat: River Combat Simulation | 12127 | [12127-gunboat-river-combat-simulation.json](./12127-gunboat-river-combat-simulation.json) |
 | GunBound | 26189 | [26189-gunbound.json](./26189-gunbound.json) |
+| GunCrank | 414292 | [414292-guncrank.json](./414292-guncrank.json) |
 | Gundam Battle Online | 107166 | [107166-gundam-battle-online.json](./107166-gundam-battle-online.json) |
 | Gundam Breaker 3 | 19858 | [19858-gundam-breaker-3.json](./19858-gundam-breaker-3.json) |
 | Gundam Fights for Human Rights | 183567 | [183567-gundam-fights-for-human-rights.json](./183567-gundam-fights-for-human-rights.json) |
