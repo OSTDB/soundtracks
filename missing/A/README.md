@@ -212,11 +212,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abigor | 210899 | [210899-abigor.json](./210899-abigor.json) |
 | Abiko the Miko 2 | 161360 | [161360-abiko-the-miko-2.json](./161360-abiko-the-miko-2.json) |
 | Ability Draft | 109031 | [109031-ability-draft.json](./109031-ability-draft.json) |
+| Abismo | 380389 | [380389-abismo.json](./380389-abismo.json) |
 | Ablaze | 260403 | [260403-ablaze.json](./260403-ablaze.json) |
 | Ablepsia | 67912 | [67912-ablepsia.json](./67912-ablepsia.json) |
 | Abnormal 1999: The Compass and the Sand | 316441 | [316441-abnormal-1999-the-compass-and-the-sand.json](./316441-abnormal-1999-the-compass-and-the-sand.json) |
 | Abort | 291211 | [291211-abort.json](./291211-abort.json) |
 | About Cannons & Sparrows | 258181 | [258181-about-cannons-and-sparrows.json](./258181-about-cannons-and-sparrows.json) |
+| About Fishing | 380410 | [380410-about-fishing.json](./380410-about-fishing.json) |
 | About Gretel | 156672 | [156672-about-gretel.json](./156672-about-gretel.json) |
 | About Love and Hate 2 | 173805 | [173805-about-love-and-hate-2.json](./173805-about-love-and-hate-2.json) |
 | Above Below | 216462 | [216462-above-below.json](./216462-above-below.json) |
@@ -1157,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animated Puzzles: Spooky Pack | 163420 | [163420-animated-puzzles-spooky-pack.json](./163420-animated-puzzles-spooky-pack.json) |
 | Anime Bowling Babes | 24997 | [24997-anime-bowling-babes.json](./24997-anime-bowling-babes.json) |
 | Anime Catgirl Runner | 224759 | [224759-anime-catgirl-runner.json](./224759-anime-catgirl-runner.json) |
+| Anime Christmas Uni | 380395 | [380395-anime-christmas-uni.json](./380395-anime-christmas-uni.json) |
 | Anime Fart Simulator | 397648 | [397648-anime-fart-simulator.json](./397648-anime-fart-simulator.json) |
 | Anime Freak FX Vol. 1 | 79350 | [79350-anime-freak-fx-vol-1.json](./79350-anime-freak-fx-vol-1.json) |
 | Anime Gacha! | 307275 | [307275-anime-gacha.json](./307275-anime-gacha.json) |
@@ -1164,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girl Puzzles: Wakana | 297773 | [297773-anime-girl-puzzles-wakana.json](./297773-anime-girl-puzzles-wakana.json) |
 | Anime Girl Puzzles: Yui | 297772 | [297772-anime-girl-puzzles-yui.json](./297772-anime-girl-puzzles-yui.json) |
 | Anime Girls: Tactical Assault | 402306 | [402306-anime-girls-tactical-assault.json](./402306-anime-girls-tactical-assault.json) |
+| Anime Love Chat Girls | 380394 | [380394-anime-love-chat-girls.json](./380394-anime-love-chat-girls.json) |
 | Anime Parody: Tentacle Slayer | 319978 | [319978-anime-parody-tentacle-slayer.json](./319978-anime-parody-tentacle-slayer.json) |
 | Anime Story Otome Game: Comino | 298878 | [298878-anime-story-otome-game-comino.json](./298878-anime-story-otome-game-comino.json) |
 | Anime Thighs: 18+ Content | 297774 | [297774-anime-thighs-18-content.json](./297774-anime-thighs-18-content.json) |
@@ -1778,6 +1782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Domine | 33078 | [33078-astral-domine.json](./33078-astral-domine.json) |
 | Astral Sever | 414337 | [414337-astral-sever.json](./414337-astral-sever.json) |
 | Astral Traveler | 51973 | [51973-astral-traveler.json](./51973-astral-traveler.json) |
+| Astral Zone | 380451 | [380451-astral-zone.json](./380451-astral-zone.json) |
 | AstralAir no Shiroki Towa Finale: Shiroki Hoshi no Yume | 137105 | [137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json](./137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json) |
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
 | Astrela Starlight | 107914 | [107914-astrela-starlight.json](./107914-astrela-starlight.json) |
