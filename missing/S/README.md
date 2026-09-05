@@ -740,6 +740,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai Double Pack | 128644 | [128644-shanghai-double-pack.json](./128644-shanghai-double-pack.json) |
 | Shanghai DS | 84855 | [84855-shanghai-ds.json](./84855-shanghai-ds.json) |
 | Shanghai Gold | 297216 | [297216-shanghai-gold.json](./297216-shanghai-gold.json) |
+| Shanghai II: Dragon's Eye | 406086 | [406086-shanghai-ii-dragons-eye.json](./406086-shanghai-ii-dragons-eye.json) |
+| Shanghai II: Dragon's Eye | 406087 | [406087-shanghai-ii-dragons-eye.json](./406087-shanghai-ii-dragons-eye.json) |
 | Shanghai Wii | 84853 | [84853-shanghai-wii.json](./84853-shanghai-wii.json) |
 | Shanghai: Great Moments | 73316 | [73316-shanghai-great-moments.json](./73316-shanghai-great-moments.json) |
 | Shanghai1920 | 169452 | [169452-shanghai1920.json](./169452-shanghai1920.json) |
@@ -780,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Sky | 244502 | [244502-shattered-sky.json](./244502-shattered-sky.json) |
 | Shattered Souls | 316428 | [316428-shattered-souls.json](./316428-shattered-souls.json) |
 | Shattered Worlds | 155654 | [155654-shattered-worlds.json](./155654-shattered-worlds.json) |
+| Shatterhold | 406135 | [406135-shatterhold.json](./406135-shatterhold.json) |
 | Shatterspace | 197395 | [197395-shatterspace.json](./197395-shatterspace.json) |
 | Shaun White Skateboarding | 5151 | [5151-shaun-white-skateboarding.json](./5151-shaun-white-skateboarding.json) |
 | Shawl | 56527 | [56527-shawl.json](./56527-shawl.json) |
@@ -1177,6 +1180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skat Stammtisch | 99613 | [99613-skat-stammtisch.json](./99613-skat-stammtisch.json) |
 | Skate Hooligans | 182546 | [182546-skate-hooligans.json](./182546-skate-hooligans.json) |
 | Skate Jam | 251207 | [251207-skate-jam.json](./251207-skate-jam.json) |
+| Skate Mates | 406098 | [406098-skate-mates.json](./406098-skate-mates.json) |
 | Skate Space | 178086 | [178086-skate-space.json](./178086-skate-space.json) |
 | Skate Tribe | 303232 | [303232-skate-tribe.json](./303232-skate-tribe.json) |
 | Skateball | 45329 | [45329-skateball.json](./45329-skateball.json) |
@@ -1476,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneak King | 2730 | [2730-sneak-king.json](./2730-sneak-king.json) |
 | Sneaky Bears | 69320 | [69320-sneaky-bears.json](./69320-sneaky-bears.json) |
 | Sneaky Bears VR | 68272 | [68272-sneaky-bears-vr.json](./68272-sneaky-bears-vr.json) |
+| Sneaky Bimbuls | 406134 | [406134-sneaky-bimbuls.json](./406134-sneaky-bimbuls.json) |
 | Sneaky Kitten | 156650 | [156650-sneaky-kitten.json](./156650-sneaky-kitten.json) |
 | Sneaky Seekers | 253609 | [253609-sneaky-seekers.json](./253609-sneaky-seekers.json) |
 | Sneezies HD | 21748 | [21748-sneezies-hd.json](./21748-sneezies-hd.json) |
@@ -1636,6 +1641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire City | 76589 | [76589-solitaire-city.json](./76589-solitaire-city.json) |
 | Solitaire Classic | 277564 | [277564-solitaire-classic.json](./277564-solitaire-classic.json) |
 | Solitaire de Kenshou | 220325 | [220325-solitaire-de-kenshou.json](./220325-solitaire-de-kenshou.json) |
+| Solitaire Deck | 406122 | [406122-solitaire-deck.json](./406122-solitaire-deck.json) |
 | Solitaire Dozen Gold | 146916 | [146916-solitaire-dozen-gold.json](./146916-solitaire-dozen-gold.json) |
 | Solitaire Klondike Pro. | 101601 | [101601-solitaire-klondike-pro.json](./101601-solitaire-klondike-pro.json) |
 | Solitaire MegaPack | 102764 | [102764-solitaire-megapack.json](./102764-solitaire-megapack.json) |
@@ -1656,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solous | 133466 | [133466-solous.json](./133466-solous.json) |
 | Solve This! Emoji Puzzle | 213596 | [213596-solve-this-emoji-puzzle.json](./213596-solve-this-emoji-puzzle.json) |
 | Somari the Adventurer | 198522 | [198522-somari-the-adventurer.json](./198522-somari-the-adventurer.json) |
+| Sombras: Negative Frames | 406115 | [406115-sombras-negative-frames.json](./406115-sombras-negative-frames.json) |
 | Sombrero: Spaghetti Western Mayhem | 20758 | [20758-sombrero-spaghetti-western-mayhem.json](./20758-sombrero-spaghetti-western-mayhem.json) |
 | Some Assembly Required | 293380 | [293380-some-assembly-required.json](./293380-some-assembly-required.json) |
 | Some Synergy | 210883 | [210883-some-synergy.json](./210883-some-synergy.json) |
@@ -2649,6 +2656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Light | 339663 | [339663-still-light.json](./339663-still-light.json) |
 | Still Rooms | 415924 | [415924-still-rooms.json](./415924-still-rooms.json) |
 | Sting | 230541 | [230541-sting.json](./230541-sting.json) |
+| Stinker Golf | 406107 | [406107-stinker-golf.json](./406107-stinker-golf.json) |
 | Stix: Combat Devolved | 190699 | [190699-stix-combat-devolved.json](./190699-stix-combat-devolved.json) |
 | Stock: Retail investors | 295542 | [295542-stock-retail-investors.json](./295542-stock-retail-investors.json) |
 | Stoked: Big Air Edition | 21107 | [21107-stoked-big-air-edition.json](./21107-stoked-big-air-edition.json) |
@@ -3287,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Screepy Underworld | 25740 | [25740-super-screepy-underworld.json](./25740-super-screepy-underworld.json) |
 | Super Seals Float | 149594 | [149594-super-seals-float.json](./149594-super-seals-float.json) |
 | Super Serpent Snake 3D | 412292 | [412292-super-serpent-snake-3d.json](./412292-super-serpent-snake-3d.json) |
+| Super Shanghai: Dragon's Eye | 406085 | [406085-super-shanghai-dragons-eye.json](./406085-super-shanghai-dragons-eye.json) |
 | Super Shape Cascade | 268225 | [268225-super-shape-cascade.json](./268225-super-shape-cascade.json) |
 | Super Sheffy Bros. 3 | 214772 | [214772-super-sheffy-bros-3.json](./214772-super-sheffy-bros-3.json) |
 | Super Sheffy World 2: The Quest for 5 Shells | 214773 | [214773-super-sheffy-world-2-the-quest-for-5-shells.json](./214773-super-sheffy-world-2-the-quest-for-5-shells.json) |
