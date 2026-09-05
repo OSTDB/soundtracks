@@ -304,6 +304,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taravana | 132251 | [132251-taravana.json](./132251-taravana.json) |
 | Target | 190705 | [190705-target.json](./190705-target.json) |
 | Target Practice | 167303 | [167303-target-practice.json](./167303-target-practice.json) |
+| Target: Renegade | 381638 | [381638-target-renegade.json](./381638-target-renegade.json) |
+| Target: Renegade | 381642 | [381642-target-renegade.json](./381642-target-renegade.json) |
+| Target: Renegade | 381643 | [381643-target-renegade.json](./381643-target-renegade.json) |
 | Tarisland | 254235 | [254235-tarisland.json](./254235-tarisland.json) |
 | Taro | 126637 | [126637-taro.json](./126637-taro.json) |
 | Taro Is Back | 415094 | [415094-taro-is-back.json](./415094-taro-is-back.json) |
@@ -713,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Body Monstrous | 176502 | [176502-the-body-monstrous.json](./176502-the-body-monstrous.json) |
 | The Boggy Region | 260940 | [260940-the-boggy-region.json](./260940-the-boggy-region.json) |
 | The Bombing Islands | 3457 | [3457-the-bombing-islands.json](./3457-the-bombing-islands.json) |
+| The Boo Croo | 381619 | [381619-the-boo-croo.json](./381619-the-boo-croo.json) |
 | The Boohbah Zone | 299478 | [299478-the-boohbah-zone.json](./299478-the-boohbah-zone.json) |
 | The Book of Blood | 392172 | [392172-the-book-of-blood.json](./392172-the-book-of-blood.json) |
 | The Book of Death for Dummies | 273643 | [273643-the-book-of-death-for-dummies.json](./273643-the-book-of-death-for-dummies.json) |
@@ -1149,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guardian and the Dreamer | 318801 | [318801-the-guardian-and-the-dreamer.json](./318801-the-guardian-and-the-dreamer.json) |
 | The Guest: Home Alone | 394171 | [394171-the-guest-home-alone.json](./394171-the-guest-home-alone.json) |
 | The Guild 2: Renaissance | 11620 | [11620-the-guild-2-renaissance.json](./11620-the-guild-2-renaissance.json) |
+| The Gurgling | 381594 | [381594-the-gurgling.json](./381594-the-gurgling.json) |
 | The Hacker | 13724 | [13724-the-hacker.json](./13724-the-hacker.json) |
 | The Hamlet | 326991 | [326991-the-hamlet.json](./326991-the-hamlet.json) |
 | The Hand is Faster than the Eye | 318227 | [318227-the-hand-is-faster-than-the-eye.json](./318227-the-hand-is-faster-than-the-eye.json) |
@@ -2841,6 +2846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer III - Update 3.1 | 251222 | [251222-total-war-warhammer-iii-update-3-1.json](./251222-total-war-warhammer-iii-update-3-1.json) |
 | Totally Baseball | 127163 | [127163-totally-baseball.json](./127163-totally-baseball.json) |
 | Totally Realistic Unicorn Buffalo Simulator | 142463 | [142463-totally-realistic-unicorn-buffalo-simulator.json](./142463-totally-realistic-unicorn-buffalo-simulator.json) |
+| Totally Reliable Delivery Service: Atari Attire | 381600 | [381600-totally-reliable-delivery-service-atari-attire.json](./381600-totally-reliable-delivery-service-atari-attire.json) |
 | Totally Reliable Delivery Service: Dress Code | 308576 | [308576-totally-reliable-delivery-service-dress-code.json](./308576-totally-reliable-delivery-service-dress-code.json) |
 | Totally Spies! The Mobile Game | 317003 | [317003-totally-spies-the-mobile-game.json](./317003-totally-spies-the-mobile-game.json) |
 | Totally Unbalanced | 32402 | [32402-totally-unbalanced.json](./32402-totally-unbalanced.json) |
@@ -2951,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TowerFall Ascension | 9567 | [9567-towerfall-ascension.json](./9567-towerfall-ascension.json) |
 | Towerful Defense: A Rogue TD - The First Expansion | 385554 | [385554-towerful-defense-a-rogue-td-the-first-expansion.json](./385554-towerful-defense-a-rogue-td-the-first-expansion.json) |
 | Towering Rescue | 47263 | [47263-towering-rescue.json](./47263-towering-rescue.json) |
+| Towers of Scale | 381624 | [381624-towers-of-scale.json](./381624-towers-of-scale.json) |
 | Towers of Twilight | 53835 | [53835-towers-of-twilight.json](./53835-towers-of-twilight.json) |
 | Towers That Don't Like Each Other | 51997 | [51997-towers-that-dont-like-each-other.json](./51997-towers-that-dont-like-each-other.json) |
 | Towing Simulator | 9451 | [9451-towing-simulator.json](./9451-towing-simulator.json) |
