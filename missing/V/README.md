@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vagrus: The Riven Realms - Praetor Edition | 338031 | [338031-vagrus-the-riven-realms-praetor-edition.json](./338031-vagrus-the-riven-realms-praetor-edition.json) |
 | Valakas Story | 122824 | [122824-valakas-story.json](./122824-valakas-story.json) |
 | Valehona Tap! | 406679 | [406679-valehona-tap.json](./406679-valehona-tap.json) |
+| Valentine's Day Bikini Femdom | 400903 | [400903-valentines-day-bikini-femdom.json](./400903-valentines-day-bikini-femdom.json) |
 | Valentines Desire: Steam Edition | 130956 | [130956-valentines-desire-steam-edition.json](./130956-valentines-desire-steam-edition.json) |
 | Valentino Rossi: The Game - MotoGP Legendary Bikes | 167849 | [167849-valentino-rossi-the-game-motogp-legendary-bikes.json](./167849-valentino-rossi-the-game-motogp-legendary-bikes.json) |
 | Valentino Rossi: The Game - Real Events: 2015 MotoGP Season | 168360 | [168360-valentino-rossi-the-game-real-events-2015-motogp-season.json](./168360-valentino-rossi-the-game-real-events-2015-motogp-season.json) |
@@ -174,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veredilia: The Sacred Forest | 265932 | [265932-veredilia-the-sacred-forest.json](./265932-veredilia-the-sacred-forest.json) |
 | Verfall | 338572 | [338572-verfall.json](./338572-verfall.json) |
 | Verho: Curse of Faces | 318767 | [318767-verho-curse-of-faces.json](./318767-verho-curse-of-faces.json) |
+| Veriventure | 400851 | [400851-veriventure.json](./400851-veriventure.json) |
 | Vermeer | 46659 | [46659-vermeer.json](./46659-vermeer.json) |
 | Vermilion Desert | 69316 | [69316-vermilion-desert.json](./69316-vermilion-desert.json) |
 | Vermillion Descent | 209137 | [209137-vermillion-descent.json](./209137-vermillion-descent.json) |
@@ -185,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Versailles Mysteries 2: The Royal Spy | 11033 | [11033-versailles-mysteries-2-the-royal-spy.json](./11033-versailles-mysteries-2-the-royal-spy.json) |
 | Versailles Mysteries: Oscar and the Athanor | 11034 | [11034-versailles-mysteries-oscar-and-the-athanor.json](./11034-versailles-mysteries-oscar-and-the-athanor.json) |
 | Verse Hopper | 312910 | [312910-verse-hopper.json](./312910-verse-hopper.json) |
+| VertalStrike | 400892 | [400892-vertalstrike.json](./400892-vertalstrike.json) |
 | Vertiball | 86123 | [86123-vertiball.json](./86123-vertiball.json) |
 | Vertical Dash | 59438 | [59438-vertical-dash.json](./59438-vertical-dash.json) |
 | Vertical Ramp Impossible 3D | 100894 | [100894-vertical-ramp-impossible-3d.json](./100894-vertical-ramp-impossible-3d.json) |
