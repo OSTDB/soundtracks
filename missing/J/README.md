@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Hotshot | 21006 | [21006-johnny-hotshot.json](./21006-johnny-hotshot.json) |
 | Johnny Impossible | 21013 | [21013-johnny-impossible.json](./21013-johnny-impossible.json) |
 | Johnny Test | 126035 | [126035-johnny-test.json](./126035-johnny-test.json) |
+| Joint Venture | 410221 | [410221-joint-venture.json](./410221-joint-venture.json) |
 | JoJo Siwa: Worldwide Party | 218722 | [218722-jojo-siwa-worldwide-party.json](./218722-jojo-siwa-worldwide-party.json) |
 | Jojo's Bizarre Adventure: The 7th Stand User | 128606 | [128606-jojos-bizarre-adventure-the-7th-stand-user.json](./128606-jojos-bizarre-adventure-the-7th-stand-user.json) |
 | JoJo's Bizarre RPG: Battle Tendency | 172764 | [172764-jojos-bizarre-rpg-battle-tendency.json](./172764-jojos-bizarre-rpg-battle-tendency.json) |
