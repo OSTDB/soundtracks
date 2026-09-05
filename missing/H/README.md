@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello World | 392767 | [392767-hello-world.json](./392767-hello-world.json) |
 | Hello, Fucking World! | 219827 | [219827-hello-fucking-world.json](./219827-hello-fucking-world.json) |
 | Hello, Goodbye, Summer Girl | 151721 | [151721-hello-goodbye-summer-girl.json](./151721-hello-goodbye-summer-girl.json) |
+| Hello, Kami-sama Worker | 379354 | [379354-hello-kami-sama-worker.json](./379354-hello-kami-sama-worker.json) |
 | Hello: A Talking Simulator | 179173 | [179173-hello-a-talking-simulator.json](./179173-hello-a-talking-simulator.json) |
 | Hello! Lady Lynn: Yume no wo Heya ni Youkoso! | 293909 | [293909-hello-lady-lynn-yume-no-wo-heya-ni-youkoso.json](./293909-hello-lady-lynn-yume-no-wo-heya-ni-youkoso.json) |
 | Hellpoint: Ultimate Edition | 209688 | [209688-hellpoint-ultimate-edition.json](./209688-hellpoint-ultimate-edition.json) |
@@ -519,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Abigail | 259833 | [259833-hentai-abigail.json](./259833-hentai-abigail.json) |
 | Hentai Academy: Ultimate Edition | 315863 | [315863-hentai-academy-ultimate-edition.json](./315863-hentai-academy-ultimate-edition.json) |
 | Hentai Aim Practice | 219832 | [219832-hentai-aim-practice.json](./219832-hentai-aim-practice.json) |
+| Hentai Ariya | 379336 | [379336-hentai-ariya.json](./379336-hentai-ariya.json) |
 | Hentai Balls 3D: Sexy Girls | 390497 | [390497-hentai-balls-3d-sexy-girls.json](./390497-hentai-balls-3d-sexy-girls.json) |
 | Hentai Dating Stories: Brazil - Special Edition | 315862 | [315862-hentai-dating-stories-brazil-special-edition.json](./315862-hentai-dating-stories-brazil-special-edition.json) |
 | Hentai Demon's Lullaby | 390500 | [390500-hentai-demons-lullaby.json](./390500-hentai-demons-lullaby.json) |
