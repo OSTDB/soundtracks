@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsu Ecchi 2: Futago to Inaka no Natsuyasumi | 109001 | [109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json](./109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json) |
 | Natsu no Sagashimono: What We Found That Summer | 331121 | [331121-natsu-no-sagashimono-what-we-found-that-summer.json](./331121-natsu-no-sagashimono-what-we-found-that-summer.json) |
 | Natsuiro High School: Seishun Hakusho | 52602 | [52602-natsuiro-high-school-seishun-hakusho.json](./52602-natsuiro-high-school-seishun-hakusho.json) |
+| Natsuyume Yawa | 408093 | [408093-natsuyume-yawa.json](./408093-natsuyume-yawa.json) |
 | Natural Born Soldier | 82123 | [82123-natural-born-soldier.json](./82123-natural-born-soldier.json) |
 | Natural Craft | 277570 | [277570-natural-craft.json](./277570-natural-craft.json) |
 | Natural: Beyond Nature | 30887 | [30887-natural-beyond-nature.json](./30887-natural-beyond-nature.json) |
@@ -426,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NextRev: Kihonjouhou Gijutsusha Shiken | 64942 | [64942-nextrev-kihonjouhou-gijutsusha-shiken.json](./64942-nextrev-kihonjouhou-gijutsusha-shiken.json) |
 | NextRev: Ouyou Jouhougijutsusha Shiken | 64943 | [64943-nextrev-ouyou-jouhougijutsusha-shiken.json](./64943-nextrev-ouyou-jouhougijutsusha-shiken.json) |
 | Nexus 2 | 92499 | [92499-nexus-2.json](./92499-nexus-2.json) |
+| Nexus Legacy | 408038 | [408038-nexus-legacy.json](./408038-nexus-legacy.json) |
 | Nexus Rumble: The Ultimate Showdown | 304869 | [304869-nexus-rumble-the-ultimate-showdown.json](./304869-nexus-rumble-the-ultimate-showdown.json) |
 | Nexus: The Kingdom of the Winds | 80550 | [80550-nexus-the-kingdom-of-the-winds.json](./80550-nexus-the-kingdom-of-the-winds.json) |
 | Nexzr | 42016 | [42016-nexzr.json](./42016-nexzr.json) |
@@ -651,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Back | 216985 | [216985-nitro-back.json](./216985-nitro-back.json) |
 | Nitro Nation World Tour | 261519 | [261519-nitro-nation-world-tour.json](./261519-nitro-nation-world-tour.json) |
 | Nitro Nation: Drag Racing | 233762 | [233762-nitro-nation-drag-racing.json](./233762-nitro-nation-drag-racing.json) |
+| Nitro Thrash | 408082 | [408082-nitro-thrash.json](./408082-nitro-thrash.json) |
 | Nixie | 267690 | [267690-nixie.json](./267690-nixie.json) |
 | Nixxsz Maids Blazing | 292303 | [292303-nixxsz-maids-blazing.json](./292303-nixxsz-maids-blazing.json) |
 | NLL Lacrosse 2010 | 66705 | [66705-nll-lacrosse-2010.json](./66705-nll-lacrosse-2010.json) |
