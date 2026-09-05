@@ -338,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manly Men Fighting | 58796 | [58796-manly-men-fighting.json](./58796-manly-men-fighting.json) |
 | Mannequin Academy | 183037 | [183037-mannequin-academy.json](./183037-mannequin-academy.json) |
 | Manny's | 260528 | [260528-mannys.json](./260528-mannys.json) |
+| Manny's Murderous Movie Theater: The Snackbar Simulator | 370718 | [370718-mannys-murderous-movie-theater-the-snackbar-simulator.json](./370718-mannys-murderous-movie-theater-the-snackbar-simulator.json) |
 | Mansion | 269861 | [269861-mansion.json](./269861-mansion.json) |
 | Mansion 2 | 269863 | [269863-mansion-2.json](./269863-mansion-2.json) |
 | Mansion of the Dead | 337486 | [337486-mansion-of-the-dead.json](./337486-mansion-of-the-dead.json) |
@@ -908,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Tower: Nonogram | 221399 | [221399-meow-tower-nonogram.json](./221399-meow-tower-nonogram.json) |
 | Meowingtons Simulator | 326384 | [326384-meowingtons-simulator.json](./326384-meowingtons-simulator.json) |
 | Meowniverse | 391584 | [391584-meowniverse.json](./391584-meowniverse.json) |
+| MER Adventure Climbing | 370687 | [370687-mer-adventure-climbing.json](./370687-mer-adventure-climbing.json) |
 | Mer Wars | 264310 | [264310-mer-wars.json](./264310-mer-wars.json) |
 | Mercenaries Saga 2 | 77691 | [77691-mercenaries-saga-2.json](./77691-mercenaries-saga-2.json) |
 | Mercforce: 30X1 | 120380 | [120380-mercforce-30x1.json](./120380-mercforce-30x1.json) |
@@ -1330,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MinMe | 241050 | [241050-minme.json](./241050-minme.json) |
 | Minna de Nanpure | 55939 | [55939-minna-de-nanpure.json](./55939-minna-de-nanpure.json) |
 | Minna no Doubutsuen | 69270 | [69270-minna-no-doubutsuen.json](./69270-minna-no-doubutsuen.json) |
+| Minos | 370704 | [370704-minos.json](./370704-minos.json) |
 | Minos Starfighter VR | 104639 | [104639-minos-starfighter-vr.json](./104639-minos-starfighter-vr.json) |
 | Minos Trials | 392173 | [392173-minos-trials.json](./392173-minos-trials.json) |
 | Minotaur Rescue | 94757 | [94757-minotaur-rescue.json](./94757-minotaur-rescue.json) |
@@ -1396,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistake | 189188 | [189188-mistake.json](./189188-mistake.json) |
 | Mistake Souls | 75193 | [75193-mistake-souls.json](./75193-mistake-souls.json) |
 | Mistaken | 335647 | [335647-mistaken.json](./335647-mistaken.json) |
+| Mistbound | 370667 | [370667-mistbound.json](./370667-mistbound.json) |
 | Mister Fruit Joy | 137676 | [137676-mister-fruit-joy.json](./137676-mister-fruit-joy.json) |
 | Mister Universe | 153428 | [153428-mister-universe.json](./153428-mister-universe.json) |
 | Mister Versatile: A Gay Superhero Visual Novel | 180251 | [180251-mister-versatile-a-gay-superhero-visual-novel.json](./180251-mister-versatile-a-gay-superhero-visual-novel.json) |
@@ -1440,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MOB the Robot | 330514 | [330514-mob-the-robot.json](./330514-mob-the-robot.json) |
 | Mobil 1 Rally Championship | 793 | [793-mobil-1-rally-championship.json](./793-mobil-1-rally-championship.json) |
 | Mobile Dinosaur: Action Edition | 108501 | [108501-mobile-dinosaur-action-edition.json](./108501-mobile-dinosaur-action-edition.json) |
+| Mobile Murder Mystery | 370691 | [370691-mobile-murder-mystery.json](./370691-mobile-murder-mystery.json) |
 | Mobile Suit Gundam Extreme Versus 2 Cross Boost | 265951 | [265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json](./265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json) |
 | Mobile Suit Gundam Federation vs. Zeon | 43311 | [43311-mobile-suit-gundam-federation-vs-zeon.json](./43311-mobile-suit-gundam-federation-vs-zeon.json) |
 | Mobile Suit Gundam: Area Wars | 196338 | [196338-mobile-suit-gundam-area-wars.json](./196338-mobile-suit-gundam-area-wars.json) |
@@ -1668,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Medic | 18236 | [18236-monster-medic.json](./18236-monster-medic.json) |
 | Monster Meltdown | 63284 | [63284-monster-meltdown.json](./63284-monster-meltdown.json) |
 | Monster Menu: The Scavenger's Cookbook | 216579 | [216579-monster-menu-the-scavengers-cookbook.json](./216579-monster-menu-the-scavengers-cookbook.json) |
+| Monster Merchant | 370669 | [370669-monster-merchant.json](./370669-monster-merchant.json) |
 | Monster Milktruck! | 145670 | [145670-monster-milktruck.json](./145670-monster-milktruck.json) |
 | Monster Mystery | 224789 | [224789-monster-mystery.json](./224789-monster-mystery.json) |
 | Monster Never Cry | 297253 | [297253-monster-never-cry.json](./297253-monster-never-cry.json) |
@@ -1826,6 +1832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morterra | 177015 | [177015-morterra.json](./177015-morterra.json) |
 | Mortgage Nightmares | 341336 | [341336-mortgage-nightmares.json](./341336-mortgage-nightmares.json) |
 | Morth | 149587 | [149587-morth.json](./149587-morth.json) |
+| Mortie College | 370714 | [370714-mortie-college.json](./370714-mortie-college.json) |
 | Mortimer: First Launch | 341337 | [341337-mortimer-first-launch.json](./341337-mortimer-first-launch.json) |
 | Morvyn Gutter | 341338 | [341338-morvyn-gutter.json](./341338-morvyn-gutter.json) |
 | Mosaic | 18929 | [18929-mosaic.json](./18929-mosaic.json) |
