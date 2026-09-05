@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sawmill | 312894 | [312894-sawmill.json](./312894-sawmill.json) |
 | Sayaka | 29858 | [29858-sayaka.json](./29858-sayaka.json) |
 | Sayonara | 252989 | [252989-sayonara.json](./252989-sayonara.json) |
+| Sayonara Mr. Stealer | 388004 | [388004-sayonara-mr-stealer.json](./388004-sayonara-mr-stealer.json) |
 | Sayonara NightCap | 260397 | [260397-sayonara-nightcap.json](./260397-sayonara-nightcap.json) |
 | Sayonara Sigil Sentry | 331679 | [331679-sayonara-sigil-sentry.json](./331679-sayonara-sigil-sentry.json) |
 | Sayonara Umihara Kawase Smart | 247199 | [247199-sayonara-umihara-kawase-smart.json](./247199-sayonara-umihara-kawase-smart.json) |
@@ -619,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seoirye | 257680 | [257680-seoirye.json](./257680-seoirye.json) |
 | Sequence Palladium | 246654 | [246654-sequence-palladium.json](./246654-sequence-palladium.json) |
 | Seraphic Destroyer: Puzzles | 163419 | [163419-seraphic-destroyer-puzzles.json](./163419-seraphic-destroyer-puzzles.json) |
+| Seraphine's Skyward Journey | 388054 | [388054-seraphines-skyward-journey.json](./388054-seraphines-skyward-journey.json) |
 | Seraphixial | 392164 | [392164-seraphixial.json](./392164-seraphixial.json) |
 | Serendipity Hotel | 190218 | [190218-serendipity-hotel.json](./190218-serendipity-hotel.json) |
 | Serene Asylum | 172740 | [172740-serene-asylum.json](./172740-serene-asylum.json) |
@@ -994,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopkins: Cutie Cars | 109007 | [109007-shopkins-cutie-cars.json](./109007-shopkins-cutie-cars.json) |
 | Shopkins: Top Trumps | 82140 | [82140-shopkins-top-trumps.json](./82140-shopkins-top-trumps.json) |
 | Shopper's Paradise | 70404 | [70404-shoppers-paradise.json](./70404-shoppers-paradise.json) |
+| Shopping Cart Hero 2 | 388042 | [388042-shopping-cart-hero-2.json](./388042-shopping-cart-hero-2.json) |
 | Shopping Clutter 12: Halloween at the Walkers | 341872 | [341872-shopping-clutter-12-halloween-at-the-walkers.json](./341872-shopping-clutter-12-halloween-at-the-walkers.json) |
 | Shopping Clutter 14: Winter Garden | 341874 | [341874-shopping-clutter-14-winter-garden.json](./341874-shopping-clutter-14-winter-garden.json) |
 | Shopping Clutter 15: Around the Campfire | 341870 | [341870-shopping-clutter-15-around-the-campfire.json](./341870-shopping-clutter-15-around-the-campfire.json) |
@@ -1124,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SilverDollar | 101525 | [101525-silverdollar.json](./101525-silverdollar.json) |
 | Silverfall | 15718 | [15718-silverfall.json](./15718-silverfall.json) |
 | SilverStarChess | 147986 | [147986-silverstarchess.json](./147986-silverstarchess.json) |
+| Silverstone | 388049 | [388049-silverstone.json](./388049-silverstone.json) |
 | Silversword | 101539 | [101539-silversword.json](./101539-silversword.json) |
 | Silverwood Bay: An Eleanor Grey Mystery | 291246 | [291246-silverwood-bay-an-eleanor-grey-mystery.json](./291246-silverwood-bay-an-eleanor-grey-mystery.json) |
 | Sim Theme Park | 12484 | [12484-sim-theme-park.json](./12484-sim-theme-park.json) |
@@ -1202,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinkr 3 | 169430 | [169430-sinkr-3.json](./169430-sinkr-3.json) |
 | Sinner | 291249 | [291249-sinner.json](./291249-sinner.json) |
 | Sins | 183078 | [183078-sins.json](./183078-sins.json) |
+| Sintropia Fruits Together | 388053 | [388053-sintropia-fruits-together.json](./388053-sintropia-fruits-together.json) |
 | Siphonogore | 291237 | [291237-siphonogore.json](./291237-siphonogore.json) |
 | Sir Ababol: Remastered Edition | 194641 | [194641-sir-ababol-remastered-edition.json](./194641-sir-ababol-remastered-edition.json) |
 | Sira | 61626 | [61626-sira.json](./61626-sira.json) |
@@ -1694,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solaright | 28934 | [28934-solaright.json](./28934-solaright.json) |
 | Solaris: Off World Combat | 146332 | [146332-solaris-off-world-combat.json](./146332-solaris-off-world-combat.json) |
 | Solarland | 212459 | [212459-solarland.json](./212459-solarland.json) |
+| Solarmax | 388044 | [388044-solarmax.json](./388044-solarmax.json) |
 | Solarpunk | 194950 | [194950-solarpunk.json](./194950-solarpunk.json) |
 | Solasta: Crown of the Magister - Primal Calling | 186870 | [186870-solasta-crown-of-the-magister-primal-calling.json](./186870-solasta-crown-of-the-magister-primal-calling.json) |
 | Solasta: Lightbringers Edition | 251208 | [251208-solasta-lightbringers-edition.json](./251208-solasta-lightbringers-edition.json) |
@@ -1726,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire: Classic Klondike Card Game | 88289 | [88289-solitaire-classic-klondike-card-game.json](./88289-solitaire-classic-klondike-card-game.json) |
 | Solitaire: Royal Mansion | 199627 | [199627-solitaire-royal-mansion.json](./199627-solitaire-royal-mansion.json) |
 | Solitaire: Ultimate Collection | 66691 | [66691-solitaire-ultimate-collection.json](./66691-solitaire-ultimate-collection.json) |
+| SolitaireX | 388039 | [388039-solitairex.json](./388039-solitairex.json) |
 | Solitar: Retro Picks | 305516 | [305516-solitar-retro-picks.json](./305516-solitar-retro-picks.json) |
 | Solitomb | 325859 | [325859-solitomb.json](./325859-solitomb.json) |
 | Solitons | 204096 | [204096-solitons.json](./204096-solitons.json) |
@@ -2254,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpinDrive Ping Pong | 43354 | [43354-spindrive-ping-pong.json](./43354-spindrive-ping-pong.json) |
 | Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
 | Spintires | 7347 | [7347-spintires.json](./7347-spintires.json) |
+| Spinwave Survivors | 388002 | [388002-spinwave-survivors.json](./388002-spinwave-survivors.json) |
 | SpinZap | 133469 | [133469-spinzap.json](./133469-spinzap.json) |
 | Spinzer.io | 55164 | [55164-spinzer-io.json](./55164-spinzer-io.json) |
 | Spiral Wave | 42045 | [42045-spiral-wave.json](./42045-spiral-wave.json) |
@@ -2420,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stability | 43171 | [43171-stability.json](./43171-stability.json) |
 | Stable Masters | 206975 | [206975-stable-masters.json](./206975-stable-masters.json) |
 | Stack Jump | 87657 | [87657-stack-jump.json](./87657-stack-jump.json) |
+| Stack Order | 388009 | [388009-stack-order.json](./388009-stack-order.json) |
 | Stack Pro | 96068 | [96068-stack-pro.json](./96068-stack-pro.json) |
 | Stack the Countries | 174326 | [174326-stack-the-countries.json](./174326-stack-the-countries.json) |
 | Stack Tower͏ | 219264 | [219264-stack-tower.json](./219264-stack-tower.json) |
