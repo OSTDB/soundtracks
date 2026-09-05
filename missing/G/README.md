@@ -998,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear Xrd: Revelator - Let's Rock! Edition | 89928 | [89928-guilty-gear-xrd-revelator-lets-rock-edition.json](./89928-guilty-gear-xrd-revelator-lets-rock-edition.json) |
 | Guilty Gear XX Accent Core | 9145 | [9145-guilty-gear-xx-accent-core.json](./9145-guilty-gear-xx-accent-core.json) |
 | Guilty Gear: Strive - Additional Character 6: Bridget | 213005 | [213005-guilty-gear-strive-additional-character-6-bridget.json](./213005-guilty-gear-strive-additional-character-6-bridget.json) |
+| Guinea Pig Gunner | 411580 | [411580-guinea-pig-gunner.json](./411580-guinea-pig-gunner.json) |
 | Guinness World Records 2010: Gamer's Edition | 21746 | [21746-guinness-world-records-2010-gamers-edition.json](./21746-guinness-world-records-2010-gamers-edition.json) |
 | Guitar Hero: Van Halen | 2675 | [2675-guitar-hero-van-halen.json](./2675-guitar-hero-van-halen.json) |
 | GuitarFreaks 4thMix & DrumMania 3rdMix | 188659 | [188659-guitarfreaks-4thmix-and-drummania-3rdmix.json](./188659-guitarfreaks-4thmix-and-drummania-3rdmix.json) |
@@ -1089,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guru Meditation | 178091 | [178091-guru-meditation.json](./178091-guru-meditation.json) |
 | Guts and Syringes | 94766 | [94766-guts-and-syringes.json](./94766-guts-and-syringes.json) |
 | Gutter: The Reject | 257691 | [257691-gutter-the-reject.json](./257691-gutter-the-reject.json) |
+| Gyaku Katei Kyoushi: Kanojo wa Boku no Sensei ni Shite Dorei | 411593 | [411593-gyaku-katei-kyoushi-kanojo-wa-boku-no-sensei-ni-shite-dorei.json](./411593-gyaku-katei-kyoushi-kanojo-wa-boku-no-sensei-ni-shite-dorei.json) |
 | Gyakuten Othellonia | 220312 | [220312-gyakuten-othellonia.json](./220312-gyakuten-othellonia.json) |
 | Gym Class: Basketball VR | 223143 | [223143-gym-class-basketball-vr.json](./223143-gym-class-basketball-vr.json) |
 | Gym Simulator 24 | 263793 | [263793-gym-simulator-24.json](./263793-gym-simulator-24.json) |
