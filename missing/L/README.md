@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lapse | 111699 | [111699-lapse.json](./111699-lapse.json) |
 | Lapso | 126618 | [126618-lapso.json](./126618-lapso.json) |
 | Lara Croft and the Guardian of Light | 769 | [769-lara-croft-and-the-guardian-of-light.json](./769-lara-croft-and-the-guardian-of-light.json) |
+| Laranja! | 391059 | [391059-laranja.json](./391059-laranja.json) |
 | Largo | 292285 | [292285-largo.json](./292285-largo.json) |
 | Larry Lotter and the Test of Time | 57096 | [57096-larry-lotter-and-the-test-of-time.json](./57096-larry-lotter-and-the-test-of-time.json) |
 | Larry the Dinosaur 2: Something in the Cola | 217509 | [217509-larry-the-dinosaur-2-something-in-the-cola.json](./217509-larry-the-dinosaur-2-something-in-the-cola.json) |
@@ -546,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lineoff | 181913 | [181913-lineoff.json](./181913-lineoff.json) |
 | Lines Frenzy | 221994 | [221994-lines-frenzy.json](./221994-lines-frenzy.json) |
 | LineWay | 307291 | [307291-lineway.json](./307291-lineway.json) |
+| Ling and the Corrupted Hollow | 391073 | [391073-ling-and-the-corrupted-hollow.json](./391073-ling-and-the-corrupted-hollow.json) |
 | Lingo | 189169 | [189169-lingo.json](./189169-lingo.json) |
 | Lingotopia | 102359 | [102359-lingotopia.json](./102359-lingotopia.json) |
 | Língxià Jìyì | 130924 | [130924-lingxia-jiyi.json](./130924-lingxia-jiyi.json) |
