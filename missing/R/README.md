@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rectangle Guy | 215905 | [215905-rectangle-guy.json](./215905-rectangle-guy.json) |
 | Recur | 325277 | [325277-recur.json](./325277-recur.json) |
 | Recursed | 32191 | [32191-recursed.json](./32191-recursed.json) |
+| Recursion | 379376 | [379376-recursion.json](./379376-recursion.json) |
 | Recursive Riftfall | 310725 | [310725-recursive-riftfall.json](./310725-recursive-riftfall.json) |
 | Red | 29948 | [29948-red.json](./29948-red.json) |
 | Red 7 | 175986 | [175986-red-7.json](./175986-red-7.json) |
@@ -447,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Rose Rising | 102202 | [102202-red-rose-rising.json](./102202-red-rose-rising.json) |
 | Red Sea Crossing | 40773 | [40773-red-sea-crossing.json](./40773-red-sea-crossing.json) |
 | Red Season | 381614 | [381614-red-season.json](./381614-red-season.json) |
+| Red Soil | 379372 | [379372-red-soil.json](./379372-red-soil.json) |
 | Red Sparrow | 38998 | [38998-red-sparrow.json](./38998-red-sparrow.json) |
 | Red Tape | 226968 | [226968-red-tape.json](./226968-red-tape.json) |
 | Red, Blue, and Green | 135253 | [135253-red-blue-and-green.json](./135253-red-blue-and-green.json) |
@@ -646,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Revelations - Unveiled Edition (Limited Edition) | 89927 | [89927-resident-evil-revelations-unveiled-edition-limited-edition.json](./89927-resident-evil-revelations-unveiled-edition-limited-edition.json) |
 | Resident Evil: Revelations - Unveiled Edition BSAA Watch Set | 89925 | [89925-resident-evil-revelations-unveiled-edition-bsaa-watch-set.json](./89925-resident-evil-revelations-unveiled-edition-bsaa-watch-set.json) |
 | Resident Evil: Revelations 2 | 7725 | [7725-resident-evil-revelations-2.json](./7725-resident-evil-revelations-2.json) |
+| Residual Christmas | 379366 | [379366-residual-christmas.json](./379366-residual-christmas.json) |
 | Resistance | 172166 | [172166-resistance.json](./172166-resistance.json) |
 | Resistance and Liberation | 46657 | [46657-resistance-and-liberation.json](./46657-resistance-and-liberation.json) |
 | Resistance Forces | 235445 | [235445-resistance-forces.json](./235445-resistance-forces.json) |
