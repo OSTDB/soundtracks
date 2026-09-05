@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords and Tactics | 247759 | [247759-lords-and-tactics.json](./247759-lords-and-tactics.json) |
 | Lords of Ravage | 204714 | [204714-lords-of-ravage.json](./204714-lords-of-ravage.json) |
 | Lords of Time | 23050 | [23050-lords-of-time.json](./23050-lords-of-time.json) |
+| Lore Restore | 368477 | [368477-lore-restore.json](./368477-lore-restore.json) |
 | Lore: Aftermath | 69274 | [69274-lore-aftermath.json](./69274-lore-aftermath.json) |
 | Loree 3D | 412950 | [412950-loree-3d.json](./412950-loree-3d.json) |
 | Loren the Amazon Princess: The Castle Of N'Mar | 171634 | [171634-loren-the-amazon-princess-the-castle-of-nmar.json](./171634-loren-the-amazon-princess-the-castle-of-nmar.json) |
