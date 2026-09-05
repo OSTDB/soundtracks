@@ -894,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WorldCraft: mini sandbox world | 89247 | [89247-worldcraft-mini-sandbox-world.json](./89247-worldcraft-mini-sandbox-world.json) |
 | WorldNeverland: Black Modern Wedding Outfit Set | 301018 | [301018-worldneverland-black-modern-wedding-outfit-set.json](./301018-worldneverland-black-modern-wedding-outfit-set.json) |
 | WorldQuest | 101609 | [101609-worldquest.json](./101609-worldquest.json) |
+| Worlds | 381007 | [381007-worlds.json](./381007-worlds.json) |
 | Worlds at War: Monitors Only | 117095 | [117095-worlds-at-war-monitors-only.json](./117095-worlds-at-war-monitors-only.json) |
 | Worlds Explorers | 398332 | [398332-worlds-explorers.json](./398332-worlds-explorers.json) |
 | Worlds of Aria | 211944 | [211944-worlds-of-aria.json](./211944-worlds-of-aria.json) |
