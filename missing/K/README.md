@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kena: Scars of Kosmora | 389419 | [389419-kena-scars-of-kosmora.json](./389419-kena-scars-of-kosmora.json) |
 | Kenchana: Oath of a Magical Spear | 238756 | [238756-kenchana-oath-of-a-magical-spear.json](./238756-kenchana-oath-of-a-magical-spear.json) |
 | Kengohazard 2 | 118418 | [118418-kengohazard-2.json](./118418-kengohazard-2.json) |
+| Kenja no Ishi | 373029 | [373029-kenja-no-ishi.json](./373029-kenja-no-ishi.json) |
 | KenKen: Train Your Brain | 68022 | [68022-kenken-train-your-brain.json](./68022-kenken-train-your-brain.json) |
 | Kenny's Adventure | 268204 | [268204-kennys-adventure.json](./268204-kennys-adventure.json) |
 | Kenophobia | 267103 | [267103-kenophobia.json](./267103-kenophobia.json) |
@@ -319,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Kiss | 191905 | [191905-killing-kiss.json](./191905-killing-kiss.json) |
 | Killing Room | 25254 | [25254-killing-room.json](./25254-killing-room.json) |
 | Killing Time | 4334 | [4334-killing-time.json](./4334-killing-time.json) |
+| Killing Tragedy Samsara | 372999 | [372999-killing-tragedy-samsara.json](./372999-killing-tragedy-samsara.json) |
 | Killing Zone | 20596 | [20596-killing-zone.json](./20596-killing-zone.json) |
 | Killzone | 1865 | [1865-killzone.json](./1865-killzone.json) |
 | Kiloblaster | 79333 | [79333-kiloblaster.json](./79333-kiloblaster.json) |
