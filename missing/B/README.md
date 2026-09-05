@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Yourself | 318234 | [318234-be-yourself.json](./318234-be-yourself.json) |
 | Beach Bowling 3D | 66120 | [66120-beach-bowling-3d.json](./66120-beach-bowling-3d.json) |
 | Beach Festival World Championship 1997 | 255362 | [255362-beach-festival-world-championship-1997.json](./255362-beach-festival-world-championship-1997.json) |
+| Beach Friends | 376465 | [376465-beach-friends.json](./376465-beach-friends.json) |
 | Beach Invasion 1945: Pacific | 247785 | [247785-beach-invasion-1945-pacific.json](./247785-beach-invasion-1945-pacific.json) |
 | Beach Landing | 307933 | [307933-beach-landing.json](./307933-beach-landing.json) |
 | Beach Life | 11822 | [11822-beach-life.json](./11822-beach-life.json) |
@@ -1720,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brobot | 159866 | [159866-brobot.json](./159866-brobot.json) |
 | Brødrene Mortensens Jul | 129815 | [129815-br-drene-mortensens-jul.json](./129815-br-drene-mortensens-jul.json) |
 | Broke Girl | 118423 | [118423-broke-girl.json](./118423-broke-girl.json) |
+| Broken Leash: Night Shift | 376478 | [376478-broken-leash-night-shift.json](./376478-broken-leash-night-shift.json) |
 | Broken Life | 265391 | [265391-broken-life.json](./265391-broken-life.json) |
 | Broken Metal | 111038 | [111038-broken-metal.json](./111038-broken-metal.json) |
 | Broken Note | 237041 | [237041-broken-note.json](./237041-broken-note.json) |
@@ -1899,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker of Barzai | 271460 | [271460-bunker-of-barzai.json](./271460-bunker-of-barzai.json) |
 | Bunker16 | 223684 | [223684-bunker16.json](./223684-bunker16.json) |
 | Bunmei Kaika: Aoiza Ibunroku | 221966 | [221966-bunmei-kaika-aoiza-ibunroku.json](./221966-bunmei-kaika-aoiza-ibunroku.json) |
+| Bunnies & Ballgames! | 376462 | [376462-bunnies-and-ballgames.json](./376462-bunnies-and-ballgames.json) |
 | Bunninjutsu | 378179 | [378179-bunninjutsu.json](./378179-bunninjutsu.json) |
 | Bunny Bond | 265395 | [265395-bunny-bond.json](./265395-bunny-bond.json) |
 | Bunny Girl Story | 201844 | [201844-bunny-girl-story.json](./201844-bunny-girl-story.json) |
