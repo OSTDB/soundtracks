@@ -1149,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skaphander: Der Auftrag | 98972 | [98972-skaphander-der-auftrag.json](./98972-skaphander-der-auftrag.json) |
 | Skapon Tanken-tai: The Enchanted Hunters | 66127 | [66127-skapon-tanken-tai-the-enchanted-hunters.json](./66127-skapon-tanken-tai-the-enchanted-hunters.json) |
 | Skapp | 140596 | [140596-skapp.json](./140596-skapp.json) |
+| Skara: The Blade Remains | 14379 | [14379-skara-the-blade-remains.json](./14379-skara-the-blade-remains.json) |
 | Skaramazuzu | 217029 | [217029-skaramazuzu.json](./217029-skaramazuzu.json) |
 | Skat Stammtisch | 99613 | [99613-skat-stammtisch.json](./99613-skat-stammtisch.json) |
 | Skate Hooligans | 182546 | [182546-skate-hooligans.json](./182546-skate-hooligans.json) |
