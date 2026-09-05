@@ -1005,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please | 134675 | [134675-please.json](./134675-please.json) |
 | Please (Don't) Touch the Art | 276478 | [276478-please-dont-touch-the-art.json](./276478-please-dont-touch-the-art.json) |
 | Please Answer Carefully | 176488 | [176488-please-answer-carefully.json](./176488-please-answer-carefully.json) |
+| Please Do Not Climb on the Dinosaurs | 383970 | [383970-please-do-not-climb-on-the-dinosaurs.json](./383970-please-do-not-climb-on-the-dinosaurs.json) |
 | Please Don't Understand Me | 394861 | [394861-please-dont-understand-me.json](./394861-please-dont-understand-me.json) |
 | Please Follow | 134681 | [134681-please-follow.json](./134681-please-follow.json) |
 | Please Ignore The Anomalies | 412277 | [412277-please-ignore-the-anomalies.json](./412277-please-ignore-the-anomalies.json) |
