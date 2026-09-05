@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Replay 2 | 209176 | [209176-ea-replay-2.json](./209176-ea-replay-2.json) |
 | EA Sports College Football 26 | 329146 | [329146-ea-sports-college-football-26.json](./329146-ea-sports-college-football-26.json) |
 | EA Sports FC 25 | 308698 | [308698-ea-sports-fc-25.json](./308698-ea-sports-fc-25.json) |
+| EA Sports FC 27: Ultimate Edition | 410902 | [410902-ea-sports-fc-27-ultimate-edition.json](./410902-ea-sports-fc-27-ultimate-edition.json) |
 | EA Sports FC Online | 93902 | [93902-ea-sports-fc-online.json](./93902-ea-sports-fc-online.json) |
 | Eagle Eye Golf | 20583 | [20583-eagle-eye-golf.json](./20583-eagle-eye-golf.json) |
 | Eagle Eye Mysteries | 70962 | [70962-eagle-eye-mysteries.json](./70962-eagle-eye-mysteries.json) |
@@ -82,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Memories | 315829 | [315829-ecchi-memories.json](./315829-ecchi-memories.json) |
 | Ecco 2: Sentinels of the Universe | 19682 | [19682-ecco-2-sentinels-of-the-universe.json](./19682-ecco-2-sentinels-of-the-universe.json) |
 | Echo | 177546 | [177546-echo.json](./177546-echo.json) |
+| Echo 9 | 410936 | [410936-echo-9.json](./410936-echo-9.json) |
 | Echo Chess | 316998 | [316998-echo-chess.json](./316998-echo-chess.json) |
 | Echo Night: The First Voyage | 213604 | [213604-echo-night-the-first-voyage.json](./213604-echo-night-the-first-voyage.json) |
 | Echo Point Nova | 243932 | [243932-echo-point-nova.json](./243932-echo-point-nova.json) |
