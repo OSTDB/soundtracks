@@ -461,6 +461,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Clock | 324256 | [324256-hell-clock.json](./324256-hell-clock.json) |
 | Hell Corp | 154568 | [154568-hell-corp.json](./154568-hell-corp.json) |
 | Hell Grocery | 219826 | [219826-hell-grocery.json](./219826-hell-grocery.json) |
+| Hell Let Loose: Battle Scarred | 371226 | [371226-hell-let-loose-battle-scarred.json](./371226-hell-let-loose-battle-scarred.json) |
+| Hell Let Loose: Red Marshall | 371222 | [371222-hell-let-loose-red-marshall.json](./371222-hell-let-loose-red-marshall.json) |
+| Hell Let Loose: Silver Vanguard | 371225 | [371225-hell-let-loose-silver-vanguard.json](./371225-hell-let-loose-silver-vanguard.json) |
+| Hell Let Loose: Skull Bucket | 371227 | [371227-hell-let-loose-skull-bucket.json](./371227-hell-let-loose-skull-bucket.json) |
 | Hell Madness | 209677 | [209677-hell-madness.json](./209677-hell-madness.json) |
 | Hell Marys | 59979 | [59979-hell-marys.json](./59979-hell-marys.json) |
 | Hell Miners | 310169 | [310169-hell-miners.json](./310169-hell-miners.json) |
@@ -544,12 +548,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Golf: Happy Edition | 315861 | [315861-hentai-golf-happy-edition.json](./315861-hentai-golf-happy-edition.json) |
 | Hentai Hack-Her | 147452 | [147452-hentai-hack-her.json](./147452-hentai-hack-her.json) |
 | Hentai Homewrecker | 297799 | [297799-hentai-homewrecker.json](./297799-hentai-homewrecker.json) |
+| Hentai Jigsaw Puzzle Collection: Autumn | 371234 | [371234-hentai-jigsaw-puzzle-collection-autumn.json](./371234-hentai-jigsaw-puzzle-collection-autumn.json) |
 | Hentai Jigsaw Puzzle Collection: Christmas Edition | 235476 | [235476-hentai-jigsaw-puzzle-collection-christmas-edition.json](./235476-hentai-jigsaw-puzzle-collection-christmas-edition.json) |
 | Hentai Jigsaw Puzzle Collection: Spring Edition | 263218 | [263218-hentai-jigsaw-puzzle-collection-spring-edition.json](./263218-hentai-jigsaw-puzzle-collection-spring-edition.json) |
 | Hentai Misuzu | 296670 | [296670-hentai-misuzu.json](./296670-hentai-misuzu.json) |
 | Hentai Mosaique Fix-IT Shoppe | 139429 | [139429-hentai-mosaique-fix-it-shoppe.json](./139429-hentai-mosaique-fix-it-shoppe.json) |
 | Hentai Mosaique Neko Waifus | 167807 | [167807-hentai-mosaique-neko-waifus.json](./167807-hentai-mosaique-neko-waifus.json) |
 | Hentai no Hero | 110358 | [110358-hentai-no-hero.json](./110358-hentai-no-hero.json) |
+| Hentai Party: Secret Garden | 371251 | [371251-hentai-party-secret-garden.json](./371251-hentai-party-secret-garden.json) |
+| Hentai Party: Summer Paradise | 371249 | [371249-hentai-party-summer-paradise.json](./371249-hentai-party-summer-paradise.json) |
 | Hentai Project 67 | 409529 | [409529-hentai-project-67.json](./409529-hentai-project-67.json) |
 | Hentai Pussy 4 | 214188 | [214188-hentai-pussy-4.json](./214188-hentai-pussy-4.json) |
 | Hentai Puzzle Logic Game | 110379 | [110379-hentai-puzzle-logic-game.json](./110379-hentai-puzzle-logic-game.json) |
@@ -680,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hibernation | 339638 | [339638-hibernation.json](./339638-hibernation.json) |
 | Hibernation Day | 247772 | [247772-hibernation-day.json](./247772-hibernation-day.json) |
 | Hibow | 158210 | [158210-hibow.json](./158210-hibow.json) |
+| Hibridya | 371274 | [371274-hibridya.json](./371274-hibridya.json) |
 | Hidalgo | 314641 | [314641-hidalgo.json](./314641-hidalgo.json) |
 | Hidden & Dangerous 2 | 107 | [107-hidden-and-dangerous-2.json](./107-hidden-and-dangerous-2.json) |
 | Hidden & Dangerous: Action Pack | 77208 | [77208-hidden-and-dangerous-action-pack.json](./77208-hidden-and-dangerous-action-pack.json) |
