@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipped in Love | 143744 | [143744-flipped-in-love.json](./143744-flipped-in-love.json) |
 | Flipper & Lopaka: The Secrets of the Deep | 62735 | [62735-flipper-and-lopaka-the-secrets-of-the-deep.json](./62735-flipper-and-lopaka-the-secrets-of-the-deep.json) |
 | Flipper Critters | 20693 | [20693-flipper-critters.json](./20693-flipper-critters.json) |
+| Flipping Frogs 64 | 369060 | [369060-flipping-frogs-64.json](./369060-flipping-frogs-64.json) |
 | Flipping in the air | 278703 | [278703-flipping-in-the-air.json](./278703-flipping-in-the-air.json) |
 | FlipPix Jigsaw - Retro | 91997 | [91997-flippix-jigsaw-retro.json](./91997-flippix-jigsaw-retro.json) |
 | FlipPix Jigsaw - Spicy | 96047 | [96047-flippix-jigsaw-spicy.json](./96047-flippix-jigsaw-spicy.json) |
@@ -898,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flour Hour | 183033 | [183033-flour-hour.json](./183033-flour-hour.json) |
 | Flow Dot | 105328 | [105328-flow-dot.json](./105328-flow-dot.json) |
 | Flow Fox | 307907 | [307907-flow-fox.json](./307907-flow-fox.json) |
+| Flow Skate | 369048 | [369048-flow-skate.json](./369048-flow-skate.json) |
 | Flower | 1354 | [1354-flower.json](./1354-flower.json) |
 | Flower Design II | 384522 | [384522-flower-design-ii.json](./384522-flower-design-ii.json) |
 | Flower Lines | 69880 | [69880-flower-lines.json](./69880-flower-lines.json) |
@@ -1099,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Trails | 406697 | [406697-forgotten-trails.json](./406697-forgotten-trails.json) |
 | Fork Knights | 119757 | [119757-fork-knights.json](./119757-fork-knights.json) |
 | Fork of Damocles | 177028 | [177028-fork-of-damocles.json](./177028-fork-of-damocles.json) |
+| Fork of the Crimson Soul | 369051 | [369051-fork-of-the-crimson-soul.json](./369051-fork-of-the-crimson-soul.json) |
 | Forklift Extreme: Ultra DLC Pack | 252405 | [252405-forklift-extreme-ultra-dlc-pack.json](./252405-forklift-extreme-ultra-dlc-pack.json) |
 | Forklift Extreme: Ultra Edition | 252404 | [252404-forklift-extreme-ultra-edition.json](./252404-forklift-extreme-ultra-edition.json) |
 | Forklift Simulator | 326425 | [326425-forklift-simulator.json](./326425-forklift-simulator.json) |
