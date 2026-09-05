@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Crossing | 181386 | [181386-line-crossing.json](./181386-line-crossing.json) |
 | Line of Fire | 12178 | [12178-line-of-fire.json](./12178-line-of-fire.json) |
 | Line Rider | 28810 | [28810-line-rider.json](./28810-line-rider.json) |
+| Lineage | 388008 | [388008-lineage.json](./388008-lineage.json) |
 | Lineage | 75854 | [75854-lineage.json](./75854-lineage.json) |
 | LinearShooter Remixed | 186327 | [186327-linearshooter-remixed.json](./186327-linearshooter-remixed.json) |
 | Linecook | 179198 | [179198-linecook.json](./179198-linecook.json) |
