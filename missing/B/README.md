@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BadMan | 240524 | [240524-badman.json](./240524-badman.json) |
 | Badminton Kings VR | 89258 | [89258-badminton-kings-vr.json](./89258-badminton-kings-vr.json) |
 | Baff 4 | 234348 | [234348-baff-4.json](./234348-baff-4.json) |
+| Bag Fight | 402299 | [402299-bag-fight.json](./402299-bag-fight.json) |
 | Baggio's Magical Kicks | 64973 | [64973-baggios-magical-kicks.json](./64973-baggios-magical-kicks.json) |
 | Bagitman | 79324 | [79324-bagitman.json](./79324-bagitman.json) |
 | Bagman Comes Back | 185164 | [185164-bagman-comes-back.json](./185164-bagman-comes-back.json) |
@@ -160,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Panic! | 116393 | [116393-ball-panic.json](./116393-ball-panic.json) |
 | Ball Raider II | 14282 | [14282-ball-raider-ii.json](./14282-ball-raider-ii.json) |
 | Ball Relay | 108471 | [108471-ball-relay.json](./108471-ball-relay.json) |
+| Ball Rush 3 | 402296 | [402296-ball-rush-3.json](./402296-ball-rush-3.json) |
 | Ball Torture | 205242 | [205242-ball-torture.json](./205242-ball-torture.json) |
 | Ballad of Antara | 303809 | [303809-ballad-of-antara.json](./303809-ballad-of-antara.json) |
 | Ballad of Ba'al | 189181 | [189181-ballad-of-baal.json](./189181-ballad-of-baal.json) |
@@ -1707,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BubbleXRush | 61089 | [61089-bubblexrush.json](./61089-bubblexrush.json) |
 | Bubsy II | 7803 | [7803-bubsy-ii.json](./7803-bubsy-ii.json) |
 | Bubsy in Fractured Furry Tales | 7805 | [7805-bubsy-in-fractured-furry-tales.json](./7805-bubsy-in-fractured-furry-tales.json) |
+| Bubu Battle Royale | 402300 | [402300-bubu-battle-royale.json](./402300-bubu-battle-royale.json) |
 | Bubu Kong | 25007 | [25007-bubu-kong.json](./25007-bubu-kong.json) |
 | Buccaneer | 141845 | [141845-buccaneer.json](./141845-buccaneer.json) |
 | Buck Blastem | 322987 | [322987-buck-blastem.json](./322987-buck-blastem.json) |
