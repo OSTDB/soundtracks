@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Thog | 408732 | [408732-perfect-thog.json](./408732-perfect-thog.json) |
 | Perfect Tower | 87670 | [87670-perfect-tower.json](./87670-perfect-tower.json) |
 | Perfect Universe | 15842 | [15842-perfect-universe.json](./15842-perfect-universe.json) |
+| Perfect Wedding Solitaire | 386126 | [386126-perfect-wedding-solitaire.json](./386126-perfect-wedding-solitaire.json) |
 | Perfect World | 8747 | [8747-perfect-world.json](./8747-perfect-world.json) |
 | Perfection | 239906 | [239906-perfection.json](./239906-perfection.json) |
 | PerfectLover | 128000 | [128000-perfectlover.json](./128000-perfectlover.json) |
