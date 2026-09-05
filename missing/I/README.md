@@ -648,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isabelle 64 | 135266 | [135266-isabelle-64.json](./135266-isabelle-64.json) |
 | Isadora's Edge | 329969 | [329969-isadoras-edge.json](./329969-isadoras-edge.json) |
 | Isane Insects: The Inception | 53255 | [53255-isane-insects-the-inception.json](./53255-isane-insects-the-inception.json) |
+| Iscoot | 392153 | [392153-iscoot.json](./392153-iscoot.json) |
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Fia Edition | 219277 | [219277-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-fia-edition.json](./219277-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-fia-edition.json) |
 | Isekai Slowlife | 402894 | [402894-isekai-slowlife.json](./402894-isekai-slowlife.json) |
 | Isekaing: From Zero to Zero | 323548 | [323548-isekaing-from-zero-to-zero.json](./323548-isekaing-from-zero-to-zero.json) |
