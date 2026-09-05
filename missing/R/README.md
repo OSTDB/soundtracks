@@ -1367,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Merge! | 296078 | [296078-royal-merge.json](./296078-royal-merge.json) |
 | Royal Pit | 409557 | [409557-royal-pit.json](./409557-royal-pit.json) |
 | Royal Pro Wrestling: Jikkyou Live!! | 37203 | [37203-royal-pro-wrestling-jikkyou-live.json](./37203-royal-pro-wrestling-jikkyou-live.json) |
+| Royal Rampage | 370127 | [370127-royal-rampage.json](./370127-royal-rampage.json) |
 | Royal Roads 2: The Magic Box | 161401 | [161401-royal-roads-2-the-magic-box.json](./161401-royal-roads-2-the-magic-box.json) |
 | Royal Romances: Battle of the Woods | 226930 | [226930-royal-romances-battle-of-the-woods.json](./226930-royal-romances-battle-of-the-woods.json) |
 | Royal Romances: Battle of the Woods - Collector's Edition | 224741 | [224741-royal-romances-battle-of-the-woods-collectors-edition.json](./224741-royal-romances-battle-of-the-woods-collectors-edition.json) |
@@ -1479,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Strike | 247174 | [247174-running-strike.json](./247174-running-strike.json) |
 | Running Tadpoles | 113013 | [113013-running-tadpoles.json](./113013-running-tadpoles.json) |
 | Running Through The Beat | 270931 | [270931-running-through-the-beat.json](./270931-running-through-the-beat.json) |
+| Running VoltGun | 370115 | [370115-running-voltgun.json](./370115-running-voltgun.json) |
 | Running Water | 173297 | [173297-running-water.json](./173297-running-water.json) |
 | Running With Dinosaurs | 103470 | [103470-running-with-dinosaurs.json](./103470-running-with-dinosaurs.json) |
 | Runombie | 292287 | [292287-runombie.json](./292287-runombie.json) |
