@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution Ultramix 3 | 5801 | [5801-dance-dance-revolution-ultramix-3.json](./5801-dance-dance-revolution-ultramix-3.json) |
 | Dance Dance Revolution Ultramix 4 | 5802 | [5802-dance-dance-revolution-ultramix-4.json](./5802-dance-dance-revolution-ultramix-4.json) |
 | Dance Dance Revolution: Dear Daniel | 329929 | [329929-dance-dance-revolution-dear-daniel.json](./329929-dance-dance-revolution-dear-daniel.json) |
+| Dance Dance Revolution: Hottest Party 4 | 50733 | [50733-dance-dance-revolution-hottest-party-4.json](./50733-dance-dance-revolution-hottest-party-4.json) |
 | Dance Factory | 20560 | [20560-dance-factory.json](./20560-dance-factory.json) |
 | Dance Fever HD | 232150 | [232150-dance-fever-hd.json](./232150-dance-fever-hd.json) |
 | Dance of Cubes | 170552 | [170552-dance-of-cubes.json](./170552-dance-of-cubes.json) |
@@ -1325,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula vs. The Ninja On the Moon | 144306 | [144306-dracula-vs-the-ninja-on-the-moon.json](./144306-dracula-vs-the-ninja-on-the-moon.json) |
 | Dracula: Crazy Vampire | 49941 | [49941-dracula-crazy-vampire.json](./49941-dracula-crazy-vampire.json) |
 | Dracula: Origin 2 | 95433 | [95433-dracula-origin-2.json](./95433-dracula-origin-2.json) |
+| Dracula: Vampires vs. Zombies | 43169 | [43169-dracula-vampires-vs-zombies.json](./43169-dracula-vampires-vs-zombies.json) |
 | Draculator II: Byte of the Draculator | 168389 | [168389-draculator-ii-byte-of-the-draculator.json](./168389-draculator-ii-byte-of-the-draculator.json) |
 | Draft Day Sports: College Basketball 2018 | 89637 | [89637-draft-day-sports-college-basketball-2018.json](./89637-draft-day-sports-college-basketball-2018.json) |
 | Draft Day Sports: College Basketball 2022 | 191891 | [191891-draft-day-sports-college-basketball-2022.json](./191891-draft-day-sports-college-basketball-2022.json) |
@@ -1457,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw No More | 177523 | [177523-draw-no-more.json](./177523-draw-no-more.json) |
 | Draw Puzzle | 46479 | [46479-draw-puzzle.json](./46479-draw-puzzle.json) |
 | Draw Rider Plus | 175394 | [175394-draw-rider-plus.json](./175394-draw-rider-plus.json) |
+| Draw_Love | 43513 | [43513-draw-love.json](./43513-draw-love.json) |
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
 | Drawize | 131579 | [131579-drawize.json](./131579-drawize.json) |
 | Dread Nautical | 122514 | [122514-dread-nautical.json](./122514-dread-nautical.json) |
