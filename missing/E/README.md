@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldritchvania | 223680 | [223680-eldritchvania.json](./223680-eldritchvania.json) |
 | Ele Blaze | 68662 | [68662-ele-blaze.json](./68662-ele-blaze.json) |
 | Ele-Mental | 149082 | [149082-ele-mental.json](./149082-ele-mental.json) |
+| Elecade | 400907 | [400907-elecade.json](./400907-elecade.json) |
 | Elect | 331720 | [331720-elect.json](./331720-elect.json) |
 | Electric Sheep | 406705 | [406705-electric-sheep.json](./406705-electric-sheep.json) |
 | Electric Tortoise | 128613 | [128613-electric-tortoise.json](./128613-electric-tortoise.json) |
@@ -653,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everyone Dies | 127684 | [127684-everyone-dies.json](./127684-everyone-dies.json) |
 | Everything Else | 177575 | [177575-everything-else.json](./177575-everything-else.json) |
 | Everything I Do is Art, But Nothing I Do Makes Any Difference, Part II Or: How I Learned to Stop Worrying and Love the Gallery | 180254 | [180254-everything-i-do-is-art-but-nothing-i-do-makes-any-difference-part-ii-or-how-i-learned-to-stop-worrying-and-love-the-gallery.json](./180254-everything-i-do-is-art-but-nothing-i-do-makes-any-difference-part-ii-or-how-i-learned-to-stop-worrying-and-love-the-gallery.json) |
+| Everything is Crab: Supporter Pack | 400873 | [400873-everything-is-crab-supporter-pack.json](./400873-everything-is-crab-supporter-pack.json) |
 | Everything is Fine | 180819 | [180819-everything-is-fine.json](./180819-everything-is-fine.json) |
 | Everything: All in 1 | 291761 | [291761-everything-all-in-1.json](./291761-everything-all-in-1.json) |
 | Everywhere | 130365 | [130365-everywhere.json](./130365-everywhere.json) |
@@ -715,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exile III: Ruined World | 19578 | [19578-exile-iii-ruined-world.json](./19578-exile-iii-ruined-world.json) |
 | Exile: Escape from the Pit | 7765 | [7765-exile-escape-from-the-pit.json](./7765-exile-escape-from-the-pit.json) |
 | Exilio | 218712 | [218712-exilio.json](./218712-exilio.json) |
+| Exipath | 400900 | [400900-exipath.json](./400900-exipath.json) |
 | Exist | 212488 | [212488-exist.json](./212488-exist.json) |
 | Existential | 193503 | [193503-existential.json](./193503-existential.json) |
 | Exit 13 Gallery Escape | 291243 | [291243-exit-13-gallery-escape.json](./291243-exit-13-gallery-escape.json) |
