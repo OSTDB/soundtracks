@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakery Shop Simulator | 145637 | [145637-bakery-shop-simulator.json](./145637-bakery-shop-simulator.json) |
 | Baki Hanma: Blood Arena | 337462 | [337462-baki-hanma-blood-arena.json](./337462-baki-hanma-blood-arena.json) |
 | Bakkaniya | 249498 | [249498-bakkaniya.json](./249498-bakkaniya.json) |
+| Baku Maru | 369039 | [369039-baku-maru.json](./369039-baku-maru.json) |
 | Bakugan: Rise of the Resistance | 26690 | [26690-bakugan-rise-of-the-resistance.json](./26690-bakugan-rise-of-the-resistance.json) |
 | Bakumatsu Roman: Gekka no Kenshi 1+2 | 84253 | [84253-bakumatsu-roman-gekka-no-kenshi-1-2.json](./84253-bakumatsu-roman-gekka-no-kenshi-1-2.json) |
 | Bakuretsu Breaker | 40269 | [40269-bakuretsu-breaker.json](./40269-bakuretsu-breaker.json) |
@@ -1142,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitz Brigade | 63292 | [63292-blitz-brigade.json](./63292-blitz-brigade.json) |
 | Blitz Guard | 267100 | [267100-blitz-guard.json](./267100-blitz-guard.json) |
 | Blitz of Battle | 412275 | [412275-blitz-of-battle.json](./412275-blitz-of-battle.json) |
+| Blitz Smash Ultimate | 369023 | [369023-blitz-smash-ultimate.json](./369023-blitz-smash-ultimate.json) |
 | Blitz Society | 386109 | [386109-blitz-society.json](./386109-blitz-society.json) |
 | Blitz: The League | 264860 | [264860-blitz-the-league.json](./264860-blitz-the-league.json) |
 | Blitzkrieg 2 Anthology | 36260 | [36260-blitzkrieg-2-anthology.json](./36260-blitzkrieg-2-anthology.json) |
@@ -1171,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Gun | 255332 | [255332-block-gun.json](./255332-block-gun.json) |
 | Block Man Adventures | 295557 | [295557-block-man-adventures.json](./295557-block-man-adventures.json) |
 | Block Puzzle 1010 | 227506 | [227506-block-puzzle-1010.json](./227506-block-puzzle-1010.json) |
+| Block Rush 3 | 369015 | [369015-block-rush-3.json](./369015-block-rush-3.json) |
 | Block Shock: The Last Chance | 14321 | [14321-block-shock-the-last-chance.json](./14321-block-shock-the-last-chance.json) |
 | Block Slender-Man 3D: Lucky Survivor - Worldwide Multiplayer Edition | 327592 | [327592-block-slender-man-3d-lucky-survivor-worldwide-multiplayer-edition.json](./327592-block-slender-man-3d-lucky-survivor-worldwide-multiplayer-edition.json) |
 | Block Smash | 58834 | [58834-block-smash.json](./58834-block-smash.json) |
