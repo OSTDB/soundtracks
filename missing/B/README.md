@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bara Boarders | 183046 | [183046-bara-boarders.json](./183046-bara-boarders.json) |
 | Bara no Ki ni: Bara no Hanasaku | 56522 | [56522-bara-no-ki-ni-bara-no-hanasaku.json](./56522-bara-no-ki-ni-bara-no-hanasaku.json) |
 | Baraduke | 39856 | [39856-baraduke.json](./39856-baraduke.json) |
+| Baratin: The Video Game | 374085 | [374085-baratin-the-video-game.json](./374085-baratin-the-video-game.json) |
 | Barbarian Simulator | 157718 | [157718-barbarian-simulator.json](./157718-barbarian-simulator.json) |
 | Barbarous 2: Tavern Wars | 192944 | [192944-barbarous-2-tavern-wars.json](./192944-barbarous-2-tavern-wars.json) |
 | BarBarQ | 82149 | [82149-barbarq.json](./82149-barbarq.json) |
@@ -570,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleWords | 121043 | [121043-battlewords.json](./121043-battlewords.json) |
 | Battlezone 98 Redux: The Red Odyssey | 124824 | [124824-battlezone-98-redux-the-red-odyssey.json](./124824-battlezone-98-redux-the-red-odyssey.json) |
 | Battlezone: Rise of the Black Dogs | 3423 | [3423-battlezone-rise-of-the-black-dogs.json](./3423-battlezone-rise-of-the-black-dogs.json) |
+| Batty Shadowless Adventures | 374065 | [374065-batty-shadowless-adventures.json](./374065-batty-shadowless-adventures.json) |
 | Batya | 126638 | [126638-batya.json](./126638-batya.json) |
 | Bazooka Blitzkrieg | 42627 | [42627-bazooka-blitzkrieg.json](./42627-bazooka-blitzkrieg.json) |
 | Bazooka Boy | 227498 | [227498-bazooka-boy.json](./227498-bazooka-boy.json) |
@@ -814,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibi & Tina: Mikoschs großer Auftritt | 151206 | [151206-bibi-and-tina-mikoschs-gro-er-auftritt.json](./151206-bibi-and-tina-mikoschs-gro-er-auftritt.json) |
 | Bibi Bunny | 337459 | [337459-bibi-bunny.json](./337459-bibi-bunny.json) |
 | Bible Trivia | 278164 | [278164-bible-trivia.json](./278164-bible-trivia.json) |
+| Biblically Inaccurate | 374043 | [374043-biblically-inaccurate.json](./374043-biblically-inaccurate.json) |
 | Biblistry | 58797 | [58797-biblistry.json](./58797-biblistry.json) |
 | Bibou | 32916 | [32916-bibou.json](./32916-bibou.json) |
 | Bicycle Casino | 5747 | [5747-bicycle-casino.json](./5747-bicycle-casino.json) |
