@@ -1594,6 +1594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier of Fortune II: Double Helix - Gold Edition | 154525 | [154525-soldier-of-fortune-ii-double-helix-gold-edition.json](./154525-soldier-of-fortune-ii-double-helix-gold-edition.json) |
 | Soldier of Fortune: Gold Edition | 44642 | [44642-soldier-of-fortune-gold-edition.json](./44642-soldier-of-fortune-gold-edition.json) |
 | Sole Saga | 211940 | [211940-sole-saga.json](./211940-sole-saga.json) |
+| Sole Salvation | 415920 | [415920-sole-salvation.json](./415920-sole-salvation.json) |
 | Solebon Solitaire | 87541 | [87541-solebon-solitaire.json](./87541-solebon-solitaire.json) |
 | Soletrando: Nova Ortografia | 181940 | [181940-soletrando-nova-ortografia.json](./181940-soletrando-nova-ortografia.json) |
 | SolForge | 16487 | [16487-solforge.json](./16487-solforge.json) |
@@ -2169,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpookWave | 183065 | [183065-spookwave.json](./183065-spookwave.json) |
 | Spooky Chase | 136485 | [136485-spooky-chase.json](./136485-spooky-chase.json) |
 | Spooky House | 179715 | [179715-spooky-house.json](./179715-spooky-house.json) |
+| Spooky Land Defenders | 415946 | [415946-spooky-land-defenders.json](./415946-spooky-land-defenders.json) |
 | Spooky Milk Life | 208631 | [208631-spooky-milk-life.json](./208631-spooky-milk-life.json) |
 | Spooky Shelter | 242228 | [242228-spooky-shelter.json](./242228-spooky-shelter.json) |
 | Spooky Town | 272565 | [272565-spooky-town.json](./272565-spooky-town.json) |
@@ -2210,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprill: The Mystery of the Bermuda Triangle | 54419 | [54419-sprill-the-mystery-of-the-bermuda-triangle.json](./54419-sprill-the-mystery-of-the-bermuda-triangle.json) |
 | Spring Catastrophe | 246652 | [246652-spring-catastrophe.json](./246652-spring-catastrophe.json) |
 | Spring Cleaning | 179733 | [179733-spring-cleaning.json](./179733-spring-cleaning.json) |
+| Spring Mosaics | 415910 | [415910-spring-mosaics.json](./415910-spring-mosaics.json) |
 | Spring of Decadence | 103478 | [103478-spring-of-decadence.json](./103478-spring-of-decadence.json) |
 | Spring: 1944 | 142500 | [142500-spring-1944.json](./142500-spring-1944.json) |
 | Springer | 98967 | [98967-springer.json](./98967-springer.json) |
@@ -2426,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starion | 23056 | [23056-starion.json](./23056-starion.json) |
 | Stark Penitentiary | 161892 | [161892-stark-penitentiary.json](./161892-stark-penitentiary.json) |
 | Starlab | 258721 | [258721-starlab.json](./258721-starlab.json) |
+| Starleaf | 415960 | [415960-starleaf.json](./415960-starleaf.json) |
 | Starless | 204092 | [204092-starless.json](./204092-starless.json) |
 | Starlight Attack | 198520 | [198520-starlight-attack.json](./198520-starlight-attack.json) |
 | Starlight Explorers | 179204 | [179204-starlight-explorers.json](./179204-starlight-explorers.json) |
@@ -2475,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of War 2: Arcon | 64986 | [64986-state-of-war-2-arcon.json](./64986-state-of-war-2-arcon.json) |
 | States, Firms, and Households | 33122 | [33122-states-firms-and-households.json](./33122-states-firms-and-households.json) |
 | Static Cling | 182519 | [182519-static-cling.json](./182519-static-cling.json) |
+| Static Hour | 415918 | [415918-static-hour.json](./415918-static-hour.json) |
 | Station 21 - Space Station Simulator | 28883 | [28883-station-21-space-station-simulator.json](./28883-station-21-space-station-simulator.json) |
 | Station 37 | 277027 | [277027-station-37.json](./277027-station-37.json) |
 | Station 5 | 307931 | [307931-station-5.json](./307931-station-5.json) |
@@ -2592,6 +2597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Heroes | 197963 | [197963-still-heroes.json](./197963-still-heroes.json) |
 | Still Joking | 221425 | [221425-still-joking.json](./221425-still-joking.json) |
 | Still Light | 339663 | [339663-still-light.json](./339663-still-light.json) |
+| Still Rooms | 415924 | [415924-still-rooms.json](./415924-still-rooms.json) |
 | Sting | 230541 | [230541-sting.json](./230541-sting.json) |
 | Stix: Combat Devolved | 190699 | [190699-stix-combat-devolved.json](./190699-stix-combat-devolved.json) |
 | Stock: Retail investors | 295542 | [295542-stock-retail-investors.json](./295542-stock-retail-investors.json) |
