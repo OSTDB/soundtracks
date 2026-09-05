@@ -908,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Meoww | 265415 | [265415-meow-meoww.json](./265415-meow-meoww.json) |
 | Meow Tower: Nonogram | 221399 | [221399-meow-tower-nonogram.json](./221399-meow-tower-nonogram.json) |
 | Meowingtons Simulator | 326384 | [326384-meowingtons-simulator.json](./326384-meowingtons-simulator.json) |
+| Meowmewbug | 370151 | [370151-meowmewbug.json](./370151-meowmewbug.json) |
 | Meowniverse | 391584 | [391584-meowniverse.json](./391584-meowniverse.json) |
 | MER Adventure Climbing | 370687 | [370687-mer-adventure-climbing.json](./370687-mer-adventure-climbing.json) |
 | Mer Wars | 264310 | [264310-mer-wars.json](./264310-mer-wars.json) |
@@ -1080,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator | 119295 | [119295-microsoft-flight-simulator.json](./119295-microsoft-flight-simulator.json) |
 | Microsoft Flight Simulator 2000 | 788 | [788-microsoft-flight-simulator-2000.json](./788-microsoft-flight-simulator-2000.json) |
 | Microsoft Flight Simulator 2004: A Century of Flight | 712 | [712-microsoft-flight-simulator-2004-a-century-of-flight.json](./712-microsoft-flight-simulator-2004-a-century-of-flight.json) |
+| Microsoft Flight Simulator 2024: World Update 20 - Japan | 370133 | [370133-microsoft-flight-simulator-2024-world-update-20-japan.json](./370133-microsoft-flight-simulator-2024-world-update-20-japan.json) |
 | Microsoft Flight Simulator 5.1: The Virtual Squadron | 141224 | [141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json](./141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json) |
 | Microsoft Flight Simulator X: Steam Edition - 3D Lights Redux | 161889 | [161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json](./161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json) |
 | Microsoft Flight Simulator X: Steam Edition - Around the World in 80 Flights | 161868 | [161868-microsoft-flight-simulator-x-steam-edition-around-the-world-in-80-flights.json](./161868-microsoft-flight-simulator-x-steam-edition-around-the-world-in-80-flights.json) |
@@ -1121,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsurgeon | 5684 | [5684-microsurgeon.json](./5684-microsurgeon.json) |
 | Midio! | 336919 | [336919-midio.json](./336919-midio.json) |
 | Midline '85 | 247738 | [247738-midline-85.json](./247738-midline-85.json) |
+| Midnight at Blackwood Manor | 370150 | [370150-midnight-at-blackwood-manor.json](./370150-midnight-at-blackwood-manor.json) |
 | Midnight Blues | 173305 | [173305-midnight-blues.json](./173305-midnight-blues.json) |
 | Midnight Calling: Jeronimo | 102792 | [102792-midnight-calling-jeronimo.json](./102792-midnight-calling-jeronimo.json) |
 | Midnight Castle | 294462 | [294462-midnight-castle.json](./294462-midnight-castle.json) |
@@ -1786,6 +1789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morning Kiss | 214174 | [214174-morning-kiss.json](./214174-morning-kiss.json) |
 | Morningstar | 415929 | [415929-morningstar.json](./415929-morningstar.json) |
 | Moroi | 137050 | [137050-moroi.json](./137050-moroi.json) |
+| Morph Space | 370153 | [370153-morph-space.json](./370153-morph-space.json) |
 | Morphcat Games Collection 1 | 191899 | [191899-morphcat-games-collection-1.json](./191899-morphcat-games-collection-1.json) |
 | Morphies Law | 25633 | [25633-morphies-law.json](./25633-morphies-law.json) |
 | Morrow | 220844 | [220844-morrow.json](./220844-morrow.json) |
@@ -1913,6 +1917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Madness: Super Pro Skiing | 5685 | [5685-mountain-madness-super-pro-skiing.json](./5685-mountain-madness-super-pro-skiing.json) |
 | Mountain Maniac | 66104 | [66104-mountain-maniac.json](./66104-mountain-maniac.json) |
 | Mountain Taxi Driver | 119745 | [119745-mountain-taxi-driver.json](./119745-mountain-taxi-driver.json) |
+| Mourningwood Lodge | 370104 | [370104-mourningwood-lodge.json](./370104-mourningwood-lodge.json) |
 | Mouse Dream | 166772 | [166772-mouse-dream.json](./166772-mouse-dream.json) |
 | Mouse Dreams | 27805 | [27805-mouse-dreams.json](./27805-mouse-dreams.json) |
 | Mouse Hero | 157716 | [157716-mouse-hero.json](./157716-mouse-hero.json) |
