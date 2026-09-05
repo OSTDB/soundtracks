@@ -632,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Class Rescue | 407312 | [407312-first-class-rescue.json](./407312-first-class-rescue.json) |
 | First Date: Late to Date | 210233 | [210233-first-date-late-to-date.json](./210233-first-date-late-to-date.json) |
 | First Frog | 136457 | [136457-first-frog.json](./136457-first-frog.json) |
+| First Made Break Rock | 395542 | [395542-first-made-break-rock.json](./395542-first-made-break-rock.json) |
 | First Odium | 236010 | [236010-first-odium.json](./236010-first-odium.json) |
 | First Queen | 302697 | [302697-first-queen.json](./302697-first-queen.json) |
 | First Queen II | 302698 | [302698-first-queen-ii.json](./302698-first-queen-ii.json) |
@@ -1401,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi Yuugi Suzaku Ibun | 62178 | [62178-fushigi-yuugi-suzaku-ibun.json](./62178-fushigi-yuugi-suzaku-ibun.json) |
 | Fusing Noracam | 267090 | [267090-fusing-noracam.json](./267090-fusing-noracam.json) |
 | Fusion | 158712 | [158712-fusion.json](./158712-fusion.json) |
+| Fusion Galaxy | 395572 | [395572-fusion-galaxy.json](./395572-fusion-galaxy.json) |
 | Fusion Nexus: Alchemic Evolution | 291776 | [291776-fusion-nexus-alchemic-evolution.json](./291776-fusion-nexus-alchemic-evolution.json) |
 | Fusion Shift | 132260 | [132260-fusion-shift.json](./132260-fusion-shift.json) |
 | Fusion Wars | 19571 | [19571-fusion-wars.json](./19571-fusion-wars.json) |
