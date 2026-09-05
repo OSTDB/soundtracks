@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiddenverse: Divided Kingdom | 223140 | [223140-hiddenverse-divided-kingdom.json](./223140-hiddenverse-divided-kingdom.json) |
 | Hiddenverse: Ominous Opus | 156677 | [156677-hiddenverse-ominous-opus.json](./156677-hiddenverse-ominous-opus.json) |
 | Hiddenverse: The Iron Tower | 209652 | [209652-hiddenverse-the-iron-tower.json](./209652-hiddenverse-the-iron-tower.json) |
+| Hide and Secret Treasure of the Ages | 32874 | [32874-hide-and-secret-treasure-of-the-ages.json](./32874-hide-and-secret-treasure-of-the-ages.json) |
 | Hide and Secret: Pharaoh's Quest | 88264 | [88264-hide-and-secret-pharaohs-quest.json](./88264-hide-and-secret-pharaohs-quest.json) |
 | Hide and Seek | 275354 | [275354-hide-and-seek.json](./275354-hide-and-seek.json) |
 | Hide Time: Chapter 2 | 248911 | [248911-hide-time-chapter-2.json](./248911-hide-time-chapter-2.json) |
@@ -1025,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houserot | 176484 | [176484-houserot.json](./176484-houserot.json) |
 | Houshin Engi | 125424 | [125424-houshin-engi.json](./125424-houshin-engi.json) |
 | Hoven the Sages Spinel | 34529 | [34529-hoven-the-sages-spinel.json](./34529-hoven-the-sages-spinel.json) |
+| Hover 2030 | 32897 | [32897-hover-2030.json](./32897-hover-2030.json) |
 | Hover Force | 5675 | [5675-hover-force.json](./5675-hover-force.json) |
 | Hover Hazard | 30890 | [30890-hover-hazard.json](./30890-hover-hazard.json) |
 | Hover Junkers | 18903 | [18903-hover-junkers.json](./18903-hover-junkers.json) |
