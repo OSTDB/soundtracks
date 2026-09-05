@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Did it Mum! Picture Book | 48040 | [48040-i-did-it-mum-picture-book.json](./48040-i-did-it-mum-picture-book.json) |
 | I Didn't Cheat | 324683 | [324683-i-didnt-cheat.json](./324683-i-didnt-cheat.json) |
 | I Expect You to Die: Home Sweet Home | 223146 | [223146-i-expect-you-to-die-home-sweet-home.json](./223146-i-expect-you-to-die-home-sweet-home.json) |
+| I Fell in Love with the Mentally Unstable Depressed Goth on Campus | 410903 | [410903-i-fell-in-love-with-the-mentally-unstable-depressed-goth-on-campus.json](./410903-i-fell-in-love-with-the-mentally-unstable-depressed-goth-on-campus.json) |
 | I got a cat maid | 128013 | [128013-i-got-a-cat-maid.json](./128013-i-got-a-cat-maid.json) |
 | I Got a Millenary Cat | 197401 | [197401-i-got-a-millenary-cat.json](./197401-i-got-a-millenary-cat.json) |
 | I H8 Ur Face | 197910 | [197910-i-h8-ur-face.json](./197910-i-h8-ur-face.json) |
