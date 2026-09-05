@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Walking Simulator | 150688 | [150688-vr-walking-simulator.json](./150688-vr-walking-simulator.json) |
 | VR War Lab | 216488 | [216488-vr-war-lab.json](./216488-vr-war-lab.json) |
 | VR: Killing Town | 94767 | [94767-vr-killing-town.json](./94767-vr-killing-town.json) |
+| VR: The Puzzle Room | 29909 | [29909-vr-the-puzzle-room.json](./29909-vr-the-puzzle-room.json) |
 | VR: Vacate the Room | 32281 | [32281-vr-vacate-the-room.json](./32281-vr-vacate-the-room.json) |
 | VR0GU3 | 33151 | [33151-vr0gu3.json](./33151-vr0gu3.json) |
 | VReakout | 33150 | [33150-vreakout.json](./33150-vreakout.json) |
