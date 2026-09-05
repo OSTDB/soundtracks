@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inoue Takehiko: Buzzer Beater - Zenpen | 209724 | [209724-inoue-takehiko-buzzer-beater-zenpen.json](./209724-inoue-takehiko-buzzer-beater-zenpen.json) |
 | Input Chaos | 215926 | [215926-input-chaos.json](./215926-input-chaos.json) |
 | Inquisitor | 9100 | [9100-inquisitor.json](./9100-inquisitor.json) |
+| Inquisitor Simulator | 398365 | [398365-inquisitor-simulator.json](./398365-inquisitor-simulator.json) |
 | Inquisitor: Shade of Swords | 123604 | [123604-inquisitor-shade-of-swords.json](./123604-inquisitor-shade-of-swords.json) |
 | InRun | 256554 | [256554-inrun.json](./256554-inrun.json) |
 | Insanity's Edge | 274186 | [274186-insanitys-edge.json](./274186-insanitys-edge.json) |
@@ -552,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the War | 35825 | [35825-into-the-war.json](./35825-into-the-war.json) |
 | Intrana | 310207 | [310207-intrana.json](./310207-intrana.json) |
 | Intrepid | 112999 | [112999-intrepid.json](./112999-intrepid.json) |
+| Introspectus | 398353 | [398353-introspectus.json](./398353-introspectus.json) |
 | Intruder | 313504 | [313504-intruder.json](./313504-intruder.json) |
 | Intruder -Sakura Yashiki no Tansaku- | 138224 | [138224-intruder-sakura-yashiki-no-tansaku.json](./138224-intruder-sakura-yashiki-no-tansaku.json) |
 | Intruder Alert: Ixian Operations | 33126 | [33126-intruder-alert-ixian-operations.json](./33126-intruder-alert-ixian-operations.json) |
