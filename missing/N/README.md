@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Blood | 223443 | [223443-neon-blood.json](./223443-neon-blood.json) |
 | Neon Brood | 99599 | [99599-neon-brood.json](./99599-neon-brood.json) |
 | Neon Cyborg Cat Club | 148533 | [148533-neon-cyborg-cat-club.json](./148533-neon-cyborg-cat-club.json) |
+| Neon Dash | 391613 | [391613-neon-dash.json](./391613-neon-dash.json) |
 | Neon Defenders Premium Defense | 200156 | [200156-neon-defenders-premium-defense.json](./200156-neon-defenders-premium-defense.json) |
 | Neon Drift Ultra | 412997 | [412997-neon-drift-ultra.json](./412997-neon-drift-ultra.json) |
 | Neon Drive | 31180 | [31180-neon-drive.json](./31180-neon-drive.json) |
@@ -331,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nephilim | 270973 | [270973-nephilim.json](./270973-nephilim.json) |
 | NeptuneGL | 83563 | [83563-neptunegl.json](./83563-neptunegl.json) |
 | Neptunia: Virtual Stars - VIP Edition | 186890 | [186890-neptunia-virtual-stars-vip-edition.json](./186890-neptunia-virtual-stars-vip-edition.json) |
+| Nerds & Ammo | 391585 | [391585-nerds-and-ammo.json](./391585-nerds-and-ammo.json) |
 | Nessie | 64442 | [64442-nessie.json](./64442-nessie.json) |
 | Nessy the... Robot | 237044 | [237044-nessy-the-robot.json](./237044-nessy-the-robot.json) |
 | Nestables | 134029 | [134029-nestables.json](./134029-nestables.json) |
@@ -427,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next 4 | 102440 | [102440-next-4.json](./102440-next-4.json) |
 | Next Earth: The Journey Trilogy | 149568 | [149568-next-earth-the-journey-trilogy.json](./149568-next-earth-the-journey-trilogy.json) |
 | Next Power | 242772 | [242772-next-power.json](./242772-next-power.json) |
+| Next Quintillionaire | 391611 | [391611-next-quintillionaire.json](./391611-next-quintillionaire.json) |
 | Next Room | 292280 | [292280-next-room.json](./292280-next-room.json) |
 | Next Step | 178655 | [178655-next-step.json](./178655-next-step.json) |
 | Next Stop | 87314 | [87314-next-stop.json](./87314-next-stop.json) |
