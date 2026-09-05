@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabletopia: Wizard Kittens + Magical Monsters Expansion | 162883 | [162883-tabletopia-wizard-kittens-magical-monsters-expansion.json](./162883-tabletopia-wizard-kittens-magical-monsters-expansion.json) |
 | Tabletopia: Zoom In Barcelona | 162898 | [162898-tabletopia-zoom-in-barcelona.json](./162898-tabletopia-zoom-in-barcelona.json) |
 | Taboo Trial: Deluxe Edition | 315850 | [315850-taboo-trial-deluxe-edition.json](./315850-taboo-trial-deluxe-edition.json) |
+| Taboo Village: Romance Card Game | 415953 | [415953-taboo-village-romance-card-game.json](./415953-taboo-village-romance-card-game.json) |
 | Tabu Oyunu XL - Pro | 105950 | [105950-tabu-oyunu-xl-pro.json](./105950-tabu-oyunu-xl-pro.json) |
 | Tabulo | 337994 | [337994-tabulo.json](./337994-tabulo.json) |
 | Tachanka Simulator | 312906 | [312906-tachanka-simulator.json](./312906-tachanka-simulator.json) |
@@ -946,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fall of the Dungeon Guardians: Enhanced Edition | 269289 | [269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json](./269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json) |
 | The Fancy Pants Adventures: World 1 Remaster | 144384 | [144384-the-fancy-pants-adventures-world-1-remaster.json](./144384-the-fancy-pants-adventures-world-1-remaster.json) |
 | The Fantastic Game | 230520 | [230520-the-fantastic-game.json](./230520-the-fantastic-game.json) |
+| The Far Kingdoms: Garden Mosaics | 415906 | [415906-the-far-kingdoms-garden-mosaics.json](./415906-the-far-kingdoms-garden-mosaics.json) |
 | The Farside of Titan | 274182 | [274182-the-farside-of-titan.json](./274182-the-farside-of-titan.json) |
 | The Fate of the Pharaoh | 100188 | [100188-the-fate-of-the-pharaoh.json](./100188-the-fate-of-the-pharaoh.json) |
 | The Fear 2: Creepy Scream House | 96745 | [96745-the-fear-2-creepy-scream-house.json](./96745-the-fear-2-creepy-scream-house.json) |
@@ -1414,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monastery | 304889 | [304889-the-monastery.json](./304889-the-monastery.json) |
 | The Monkey King: The Legend Begins | 50608 | [50608-the-monkey-king-the-legend-begins.json](./50608-the-monkey-king-the-legend-begins.json) |
 | The Monkey P | 223148 | [223148-the-monkey-p.json](./223148-the-monkey-p.json) |
+| The Monkey's Paw | 415911 | [415911-the-monkeys-paw.json](./415911-the-monkeys-paw.json) |
 | The Monster | 111019 | [111019-the-monster.json](./111019-the-monster.json) |
 | The Monster Within | 174346 | [174346-the-monster-within.json](./174346-the-monster-within.json) |
 | The Moon 2050 | 156686 | [156686-the-moon-2050.json](./156686-the-moon-2050.json) |
@@ -1892,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Volcano | 125463 | [125463-the-volcano.json](./125463-the-volcano.json) |
 | The Vomit | 323535 | [323535-the-vomit.json](./323535-the-vomit.json) |
 | The VR Canyon | 126660 | [126660-the-vr-canyon.json](./126660-the-vr-canyon.json) |
+| The Wake of the Wyrm | 415904 | [415904-the-wake-of-the-wyrm.json](./415904-the-wake-of-the-wyrm.json) |
 | The Walking Dead: Last Mile | 209152 | [209152-the-walking-dead-last-mile.json](./209152-the-walking-dead-last-mile.json) |
 | The Walking Dead: Our World | 55177 | [55177-the-walking-dead-our-world.json](./55177-the-walking-dead-our-world.json) |
 | The Walking Dead: The Complete First Season | 41623 | [41623-the-walking-dead-the-complete-first-season.json](./41623-the-walking-dead-the-complete-first-season.json) |
