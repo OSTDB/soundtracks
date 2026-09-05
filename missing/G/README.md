@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Tactician: The Civil War (1861-1865) | 106575 | [106575-grand-tactician-the-civil-war-1861-1865.json](./106575-grand-tactician-the-civil-war-1861-1865.json) |
 | Grand Theft Auto III: 10 Year Anniversary Edition | 22930 | [22930-grand-theft-auto-iii-10-year-anniversary-edition.json](./22930-grand-theft-auto-iii-10-year-anniversary-edition.json) |
 | Grand Theft Auto Online | 134710 | [134710-grand-theft-auto-online.json](./134710-grand-theft-auto-online.json) |
+| Grand Theft Auto Online: The Diamond Casino Heist | 398950 | [398950-grand-theft-auto-online-the-diamond-casino-heist.json](./398950-grand-theft-auto-online-the-diamond-casino-heist.json) |
 | Grand Theft Auto V | 134709 | [134709-grand-theft-auto-v.json](./134709-grand-theft-auto-v.json) |
 | Grand Theft Auto V Enhanced | 334254 | [334254-grand-theft-auto-v-enhanced.json](./334254-grand-theft-auto-v-enhanced.json) |
 | Grand Theft Auto V Enhanced | 334647 | [334647-grand-theft-auto-v-enhanced.json](./334647-grand-theft-auto-v-enhanced.json) |
@@ -1059,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Frontier | 39681 | [39681-gun-frontier.json](./39681-gun-frontier.json) |
 | Gun Godz | 31439 | [31439-gun-godz.json](./31439-gun-godz.json) |
 | Gun Party | 158227 | [158227-gun-party.json](./158227-gun-party.json) |
+| Gun Predict | 399015 | [399015-gun-predict.json](./399015-gun-predict.json) |
 | Gun Priest | 116354 | [116354-gun-priest.json](./116354-gun-priest.json) |
 | Gun Raiders | 145040 | [145040-gun-raiders.json](./145040-gun-raiders.json) |
 | Gun Soul Girl 2 | 169455 | [169455-gun-soul-girl-2.json](./169455-gun-soul-girl-2.json) |
