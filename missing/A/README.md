@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Above Below | 216462 | [216462-above-below.json](./216462-above-below.json) |
 | Above the Stars | 148555 | [148555-above-the-stars.json](./148555-above-the-stars.json) |
 | Above Top Secret | 51996 | [51996-above-top-secret.json](./51996-above-top-secret.json) |
+| Abrams Tank | 31567 | [31567-abrams-tank.json](./31567-abrams-tank.json) |
 | AbraTabia Kingdom | 301593 | [301593-abratabia-kingdom.json](./301593-abratabia-kingdom.json) |
 | Abribus | 25751 | [25751-abribus.json](./25751-abribus.json) |
 | Abrix 2: Diamond Version | 307324 | [307324-abrix-2-diamond-version.json](./307324-abrix-2-diamond-version.json) |
@@ -543,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ahegal | 110446 | [110446-ahegal.json](./110446-ahegal.json) |
 | Ahegao Academy | 123609 | [123609-ahegao-academy.json](./123609-ahegao-academy.json) |
 | Ahri and Bear | 166760 | [166760-ahri-and-bear.json](./166760-ahri-and-bear.json) |
+| Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
 | AI Escort | 96421 | [96421-ai-escort.json](./96421-ai-escort.json) |
 | AI ha Sabaku no Bara no Yume o Miru | 82936 | [82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json](./82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json) |
 | AI Igo 2003 | 269325 | [269325-ai-igo-2003.json](./269325-ai-igo-2003.json) |
