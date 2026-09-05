@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re: Danganronpa Refresh Retreat | 304349 | [304349-re-danganronpa-refresh-retreat.json](./304349-re-danganronpa-refresh-retreat.json) |
 | RE: Prince of Nigeria | 126001 | [126001-re-prince-of-nigeria.json](./126001-re-prince-of-nigeria.json) |
 | Re:Aegis | 291753 | [291753-re-aegis.json](./291753-re-aegis.json) |
+| Re:Aktor | 383382 | [383382-re-aktor.json](./383382-re-aktor.json) |
 | Re:Connect | 306064 | [306064-re-connect.json](./306064-re-connect.json) |
 | Re:Kuroi | 151725 | [151725-re-kuroi.json](./151725-re-kuroi.json) |
 | Re:Monster | 241637 | [241637-re-monster.json](./241637-re-monster.json) |
