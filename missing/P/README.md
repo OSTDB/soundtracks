@@ -513,8 +513,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petrol Blood | 156134 | [156134-petrol-blood.json](./156134-petrol-blood.json) |
 | Petrol Station Sim | 263780 | [263780-petrol-station-sim.json](./263780-petrol-station-sim.json) |
 | Petroleum Explore: Drill & Sell | 227504 | [227504-petroleum-explore-drill-and-sell.json](./227504-petroleum-explore-drill-and-sell.json) |
+| Pets and Friends Easter Bundle | 396924 | [396924-pets-and-friends-easter-bundle.json](./396924-pets-and-friends-easter-bundle.json) |
 | Pets and Friends: Cuties Bundle | 400207 | [400207-pets-and-friends-cuties-bundle.json](./400207-pets-and-friends-cuties-bundle.json) |
 | Pets and Friends: Cuties Pack | 400208 | [400208-pets-and-friends-cuties-pack.json](./400208-pets-and-friends-cuties-pack.json) |
+| Pets and Friends: Easter Pack | 396910 | [396910-pets-and-friends-easter-pack.json](./396910-pets-and-friends-easter-pack.json) |
 | PetShop | 235494 | [235494-petshop.json](./235494-petshop.json) |
 | PetVille | 309123 | [309123-petville.json](./309123-petville.json) |
 | PetWorld: Animal Shelter | 97334 | [97334-petworld-animal-shelter.json](./97334-petworld-animal-shelter.json) |
@@ -785,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Battle Royale | 113686 | [113686-pixel-battle-royale.json](./113686-pixel-battle-royale.json) |
 | Pixel Blocked! | 92491 | [92491-pixel-blocked.json](./92491-pixel-blocked.json) |
 | Pixel Boy | 62783 | [62783-pixel-boy.json](./62783-pixel-boy.json) |
+| Pixel Brave | 396944 | [396944-pixel-brave.json](./396944-pixel-brave.json) |
 | Pixel Builder | 105962 | [105962-pixel-builder.json](./105962-pixel-builder.json) |
 | Pixel Cafe: Definitive Edition | 400200 | [400200-pixel-cafe-definitive-edition.json](./400200-pixel-cafe-definitive-edition.json) |
 | Pixel Caveman | 118435 | [118435-pixel-caveman.json](./118435-pixel-caveman.json) |
@@ -1167,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poogers | 223131 | [223131-poogers.json](./223131-poogers.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Definitive Edition | 400201 | [400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json](./400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json) |
 | Pool Adventure | 191221 | [191221-pool-adventure.json](./191221-pool-adventure.json) |
+| Pool Fever: Superior Edition | 396925 | [396925-pool-fever-superior-edition.json](./396925-pool-fever-superior-edition.json) |
 | Pool Fiction | 402910 | [402910-pool-fiction.json](./402910-pool-fiction.json) |
 | Pool Glow | 413629 | [413629-pool-glow.json](./413629-pool-glow.json) |
 | Pool Paradise: International Edition | 43295 | [43295-pool-paradise-international-edition.json](./43295-pool-paradise-international-edition.json) |
@@ -1194,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopIdle | 294461 | [294461-popidle.json](./294461-popidle.json) |
 | Popil | 264314 | [264314-popil.json](./264314-popil.json) |
 | PoPoRoGue | 79937 | [79937-poporogue.json](./79937-poporogue.json) |
+| Poppy Sanctum | 396891 | [396891-poppy-sanctum.json](./396891-poppy-sanctum.json) |
 | Popscene (Backstage Pass) | 91988 | [91988-popscene-backstage-pass.json](./91988-popscene-backstage-pass.json) |
 | PopSlinger vol. 2: Loveless | 319397 | [319397-popslinger-vol-2-loveless.json](./319397-popslinger-vol-2-loveless.json) |
 | Poptropica Worlds | 103523 | [103523-poptropica-worlds.json](./103523-poptropica-worlds.json) |
