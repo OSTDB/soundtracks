@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Angel | 278141 | [278141-paradise-angel.json](./278141-paradise-angel.json) |
 | Paradise Cleaning!: Married Woman Cosplay Life | 235479 | [235479-paradise-cleaning-married-woman-cosplay-life.json](./235479-paradise-cleaning-married-woman-cosplay-life.json) |
 | Paradise Corner | 413668 | [413668-paradise-corner.json](./413668-paradise-corner.json) |
+| Paradise Island | 377593 | [377593-paradise-island.json](./377593-paradise-island.json) |
 | Paradise Lofts | 156652 | [156652-paradise-lofts.json](./156652-paradise-lofts.json) |
 | Paradise Lost | 137092 | [137092-paradise-lost.json](./137092-paradise-lost.json) |
 | Paradise Shooting 2!! | 311808 | [311808-paradise-shooting-2.json](./311808-paradise-shooting-2.json) |
@@ -261,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Master | 145024 | [145024-parkour-master.json](./145024-parkour-master.json) |
 | Parkour Obby: Ice Escape | 415064 | [415064-parkour-obby-ice-escape.json](./415064-parkour-obby-ice-escape.json) |
 | Parkour Obby: Toxic Escape | 402301 | [402301-parkour-obby-toxic-escape.json](./402301-parkour-obby-toxic-escape.json) |
+| Parkour Simulator | 377589 | [377589-parkour-simulator.json](./377589-parkour-simulator.json) |
 | Parkour Simulator | 89265 | [89265-parkour-simulator.json](./89265-parkour-simulator.json) |
 | Parkour Tag | 163991 | [163991-parkour-tag.json](./163991-parkour-tag.json) |
 | ParkourMan | 105335 | [105335-parkourman.json](./105335-parkourman.json) |
@@ -831,6 +833,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Caveman | 118435 | [118435-pixel-caveman.json](./118435-pixel-caveman.json) |
 | Pixel Combat | 149088 | [149088-pixel-combat.json](./149088-pixel-combat.json) |
 | Pixel Cross Stitch Color by Number: Miniatures | 409552 | [409552-pixel-cross-stitch-color-by-number-miniatures.json](./409552-pixel-cross-stitch-color-by-number-miniatures.json) |
+| Pixel Cross Stitch: Color by Number - Autumn Miniatures Pack | 377602 | [377602-pixel-cross-stitch-color-by-number-autumn-miniatures-pack.json](./377602-pixel-cross-stitch-color-by-number-autumn-miniatures-pack.json) |
+| Pixel Cross Stitch: Color by Number - Autumn Pack 3 | 377606 | [377606-pixel-cross-stitch-color-by-number-autumn-pack-3.json](./377606-pixel-cross-stitch-color-by-number-autumn-pack-3.json) |
+| Pixel Cross Stitch: Color by Number - Christmas Baubles Pack 3 | 377604 | [377604-pixel-cross-stitch-color-by-number-christmas-baubles-pack-3.json](./377604-pixel-cross-stitch-color-by-number-christmas-baubles-pack-3.json) |
+| Pixel Cross Stitch: Color by Number - Christmas Pack 3 | 377605 | [377605-pixel-cross-stitch-color-by-number-christmas-pack-3.json](./377605-pixel-cross-stitch-color-by-number-christmas-pack-3.json) |
+| Pixel Cross Stitch: Color by Number - Enchanted Worlds Pack 3 | 377607 | [377607-pixel-cross-stitch-color-by-number-enchanted-worlds-pack-3.json](./377607-pixel-cross-stitch-color-by-number-enchanted-worlds-pack-3.json) |
+| Pixel Cross Stitch: Color by Number - Halloween Minis Pack | 377609 | [377609-pixel-cross-stitch-color-by-number-halloween-minis-pack.json](./377609-pixel-cross-stitch-color-by-number-halloween-minis-pack.json) |
+| Pixel Cross Stitch: Color by Number - Halloween Pack 2 | 377608 | [377608-pixel-cross-stitch-color-by-number-halloween-pack-2.json](./377608-pixel-cross-stitch-color-by-number-halloween-pack-2.json) |
+| Pixel Cross Stitch: Color by Number - Tiny Vehicles Pack 2 | 377603 | [377603-pixel-cross-stitch-color-by-number-tiny-vehicles-pack-2.json](./377603-pixel-cross-stitch-color-by-number-tiny-vehicles-pack-2.json) |
 | Pixel Cup Soccer 16 | 39001 | [39001-pixel-cup-soccer-16.json](./39001-pixel-cup-soccer-16.json) |
 | Pixel Drifters | 234320 | [234320-pixel-drifters.json](./234320-pixel-drifters.json) |
 | Pixel Driver | 185656 | [185656-pixel-driver.json](./185656-pixel-driver.json) |
@@ -1614,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Windless | 389432 | [389432-project-windless.json](./389432-project-windless.json) |
 | Project Wingman | 56859 | [56859-project-wingman.json](./56859-project-wingman.json) |
 | Project Winter | 111033 | [111033-project-winter.json](./111033-project-winter.json) |
+| Project X | 377577 | [377577-project-x.json](./377577-project-x.json) |
 | Project X: Love Potion Disaster | 218729 | [218729-project-x-love-potion-disaster.json](./218729-project-x-love-potion-disaster.json) |
 | Project Xinatra | 31934 | [31934-project-xinatra.json](./31934-project-xinatra.json) |
 | Project XY | 178645 | [178645-project-xy.json](./178645-project-xy.json) |
@@ -1640,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prologue | 127345 | [127345-prologue.json](./127345-prologue.json) |
 | Prometheus Wept | 133459 | [133459-prometheus-wept.json](./133459-prometheus-wept.json) |
 | Promises to Keep | 309092 | [309092-promises-to-keep.json](./309092-promises-to-keep.json) |
+| Promotion | 377610 | [377610-promotion.json](./377610-promotion.json) |
 | Pronty | 143125 | [143125-pronty.json](./143125-pronty.json) |
 | Proof of Existence | 405467 | [405467-proof-of-existence.json](./405467-proof-of-existence.json) |
 | Prop Game | 256000 | [256000-prop-game.json](./256000-prop-game.json) |
@@ -1702,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puckit! | 380448 | [380448-puckit.json](./380448-puckit.json) |
 | Puckman | 47280 | [47280-puckman.json](./47280-puckman.json) |
 | Puda + The Kid | 263198 | [263198-puda-the-kid.json](./263198-puda-the-kid.json) |
+| Puddle | 377567 | [377567-puddle.json](./377567-puddle.json) |
 | Puffins: Island Adventure | 68030 | [68030-puffins-island-adventure.json](./68030-puffins-island-adventure.json) |
 | Puffins: Let's Roll | 66695 | [66695-puffins-lets-roll.json](./66695-puffins-lets-roll.json) |
 | Pug'llector | 311252 | [311252-pugllector.json](./311252-pugllector.json) |
