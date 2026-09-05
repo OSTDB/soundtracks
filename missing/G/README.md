@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat of Duty | 118115 | [118115-goat-of-duty.json](./118115-goat-of-duty.json) |
 | Goat Runner | 84873 | [84873-goat-runner.json](./84873-goat-runner.json) |
 | Goat Simulator MMO Simulator | 88922 | [88922-goat-simulator-mmo-simulator.json](./88922-goat-simulator-mmo-simulator.json) |
+| Goat Simulator Waste of Space | 369590 | [369590-goat-simulator-waste-of-space.json](./369590-goat-simulator-waste-of-space.json) |
 | Goat Simulator: Waste of Space Bundle | 234308 | [234308-goat-simulator-waste-of-space-bundle.json](./234308-goat-simulator-waste-of-space-bundle.json) |
 | GoBangTetris | 192437 | [192437-gobangtetris.json](./192437-gobangtetris.json) |
 | Gobblemen | 152346 | [152346-gobblemen.json](./152346-gobblemen.json) |
@@ -1104,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess The Movie | 273111 | [273111-guess-the-movie.json](./273111-guess-the-movie.json) |
 | Guess the Movie :- Funnier One | 23903 | [23903-guess-the-movie-funnier-one.json](./23903-guess-the-movie-funnier-one.json) |
 | Guessed It! | 408027 | [408027-guessed-it.json](./408027-guessed-it.json) |
+| Gui Chu Da Mao Xian | 369566 | [369566-gui-chu-da-mao-xian.json](./369566-gui-chu-da-mao-xian.json) |
 | Guide To Apocalypse | 334492 | [334492-guide-to-apocalypse.json](./334492-guide-to-apocalypse.json) |
 | Guided Meditation VR | 34577 | [34577-guided-meditation-vr.json](./34577-guided-meditation-vr.json) |
 | Guild of Hunters | 372993 | [372993-guild-of-hunters.json](./372993-guild-of-hunters.json) |
