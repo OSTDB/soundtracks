@@ -911,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Angel 3 | 91961 | [91961-metal-angel-3.json](./91961-metal-angel-3.json) |
 | Metal Dragon | 325243 | [325243-metal-dragon.json](./325243-metal-dragon.json) |
 | Metal Dragon/Life on Mars | 325244 | [325244-metal-dragon-life-on-mars.json](./325244-metal-dragon-life-on-mars.json) |
+| Metal Fight Beyblade: Bakushin Susanow Attacks! | 394193 | [394193-metal-fight-beyblade-bakushin-susanow-attacks.json](./394193-metal-fight-beyblade-bakushin-susanow-attacks.json) |
 | Metal Freezer | 267644 | [267644-metal-freezer.json](./267644-metal-freezer.json) |
 | Metal Gear Noah | 107207 | [107207-metal-gear-noah.json](./107207-metal-gear-noah.json) |
 | Metal Gear Solid 3: Snake Eater - HD Edition | 99821 | [99821-metal-gear-solid-3-snake-eater-hd-edition.json](./99821-metal-gear-solid-3-snake-eater-hd-edition.json) |
@@ -1219,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Puzzle Bomb | 104113 | [104113-minesweeper-puzzle-bomb.json](./104113-minesweeper-puzzle-bomb.json) |
 | Minesweeper Ultimate | 167815 | [167815-minesweeper-ultimate.json](./167815-minesweeper-ultimate.json) |
 | MineSweeper VR | 31617 | [31617-minesweeper-vr.json](./31617-minesweeper-vr.json) |
+| Mìngyùn de Yǐndǎozhě: Chuánshuō Bǎoshí | 394195 | [394195-mingyun-de-yindaozhe-chuanshuo-baoshi.json](./394195-mingyun-de-yindaozhe-chuanshuo-baoshi.json) |
 | Mini AirHockey | 405473 | [405473-mini-airhockey.json](./405473-mini-airhockey.json) |
 | Mini Basketball | 194630 | [194630-mini-basketball.json](./194630-mini-basketball.json) |
 | Mini City: Mayhem | 319363 | [319363-mini-city-mayhem.json](./319363-mini-city-mayhem.json) |
@@ -1645,6 +1647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moomin Midsummer Madness | 404859 | [404859-moomin-midsummer-madness.json](./404859-moomin-midsummer-madness.json) |
 | Moon | 242775 | [242775-moon.json](./242775-moon.json) |
 | Moon Ball Magic | 41402 | [41402-moon-ball-magic.json](./41402-moon-ball-magic.json) |
+| Moon Blue Legend Remake | 394175 | [394175-moon-blue-legend-remake.json](./394175-moon-blue-legend-remake.json) |
 | Moon Chronicles | 8606 | [8606-moon-chronicles.json](./8606-moon-chronicles.json) |
 | Moon Colonization Project | 32237 | [32237-moon-colonization-project.json](./32237-moon-colonization-project.json) |
 | Moon Fall | 122381 | [122381-moon-fall.json](./122381-moon-fall.json) |
