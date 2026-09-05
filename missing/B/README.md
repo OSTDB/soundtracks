@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Bad | 195235 | [195235-bad-bad.json](./195235-bad-bad.json) |
 | Bad Bitch Blasters | 337996 | [337996-bad-bitch-blasters.json](./337996-bad-bitch-blasters.json) |
 | Bad Bots Rises | 27758 | [27758-bad-bots-rises.json](./27758-bad-bots-rises.json) |
+| Bad Delivery: Pizza Your Heart | 381617 | [381617-bad-delivery-pizza-your-heart.json](./381617-bad-delivery-pizza-your-heart.json) |
 | Bad Dudes vs. Dragon Ninja | 18831 | [18831-bad-dudes-vs-dragon-ninja.json](./18831-bad-dudes-vs-dragon-ninja.json) |
 | Bad Guy: Neighborhood | 193494 | [193494-bad-guy-neighborhood.json](./193494-bad-guy-neighborhood.json) |
 | Bad Impressions | 211424 | [211424-bad-impressions.json](./211424-bad-impressions.json) |
@@ -888,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biohazard Code: Veronica - Limited Edition | 407337 | [407337-biohazard-code-veronica-limited-edition.json](./407337-biohazard-code-veronica-limited-edition.json) |
 | Biohazard Village: Z Version - Winters' Expansion | 241065 | [241065-biohazard-village-z-version-winters-expansion.json](./241065-biohazard-village-z-version-winters-expansion.json) |
 | Biohazard: 5th Anniversary Special Package | 145009 | [145009-biohazard-5th-anniversary-special-package.json](./145009-biohazard-5th-anniversary-special-package.json) |
+| Biolune | 381612 | [381612-biolune.json](./381612-biolune.json) |
 | Biomeinoes | 275877 | [275877-biomeinoes.json](./275877-biomeinoes.json) |
 | Biomorph | 213287 | [213287-biomorph.json](./213287-biomorph.json) |
 | Bionic Dues | 9221 | [9221-bionic-dues.json](./9221-bionic-dues.json) |
