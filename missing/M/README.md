@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Hunter | 235462 | [235462-maid-hunter.json](./235462-maid-hunter.json) |
 | Maid in Witch Life!: Yakata de Hajimaru H na Miryou Seikatsu | 194633 | [194633-maid-in-witch-life-yakata-de-hajimaru-h-na-miryou-seikatsu.json](./194633-maid-in-witch-life-yakata-de-hajimaru-h-na-miryou-seikatsu.json) |
 | Maid Knight Alicia | 199089 | [199089-maid-knight-alicia.json](./199089-maid-knight-alicia.json) |
+| Maid Moving Boxes | 376447 | [376447-maid-moving-boxes.json](./376447-maid-moving-boxes.json) |
 | Maid-Sama Cafe: Anime Girls Services in Cute Outfits | 396913 | [396913-maid-sama-cafe-anime-girls-services-in-cute-outfits.json](./396913-maid-sama-cafe-anime-girls-services-in-cute-outfits.json) |
 | Maid-san wo Migi ni Mi | 111051 | [111051-maid-san-wo-migi-ni-mi.json](./111051-maid-san-wo-migi-ni-mi.json) |
 | Maigo no Koneko-chan | 276472 | [276472-maigo-no-koneko-chan.json](./276472-maigo-no-koneko-chan.json) |
@@ -665,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me and the Zombies | 200714 | [200714-me-and-the-zombies.json](./200714-me-and-the-zombies.json) |
 | Me vs. You | 172177 | [172177-me-vs-you.json](./172177-me-vs-you.json) |
 | Mea’s Saifu Collection Party | 411618 | [411618-mea-s-saifu-collection-party.json](./411618-mea-s-saifu-collection-party.json) |
+| Meal Quest | 376460 | [376460-meal-quest.json](./376460-meal-quest.json) |
 | Meal: Mystery Escape Room | 311828 | [311828-meal-mystery-escape-room.json](./311828-meal-mystery-escape-room.json) |
 | Meaning | 82891 | [82891-meaning.json](./82891-meaning.json) |
 | Measurement Problem | 166740 | [166740-measurement-problem.json](./166740-measurement-problem.json) |
@@ -759,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X: Command Mission | 1751 | [1751-mega-man-x-command-mission.json](./1751-mega-man-x-command-mission.json) |
 | Mega Man X: Legacy Collection | 96252 | [96252-mega-man-x-legacy-collection.json](./96252-mega-man-x-legacy-collection.json) |
 | Mega Man X: Legacy Collection 1+2 | 96248 | [96248-mega-man-x-legacy-collection-1-2.json](./96248-mega-man-x-legacy-collection-1-2.json) |
+| Mega Man X: Project Zero | 376479 | [376479-mega-man-x-project-zero.json](./376479-mega-man-x-project-zero.json) |
 | Mega Man X: Proto Edition | 201859 | [201859-mega-man-x-proto-edition.json](./201859-mega-man-x-proto-edition.json) |
 | Mega Man X8 | 1748 | [1748-mega-man-x8.json](./1748-mega-man-x8.json) |
 | Mega Man: Limbo Edition | 269871 | [269871-mega-man-limbo-edition.json](./269871-mega-man-limbo-edition.json) |
@@ -780,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega-Corp | 45345 | [45345-mega-corp.json](./45345-mega-corp.json) |
 | MegaAri | 205788 | [205788-megaari.json](./205788-megaari.json) |
 | Megabonk | 327405 | [327405-megabonk.json](./327405-megabonk.json) |
+| Megabonk Smash | 376471 | [376471-megabonk-smash.json](./376471-megabonk-smash.json) |
 | Megadimension Neptunia VII: Party Character - God Eater | 238177 | [238177-megadimension-neptunia-vii-party-character-god-eater.json](./238177-megadimension-neptunia-vii-party-character-god-eater.json) |
 | Megadimension Neptunia VII: Party Character - Nitroplus | 238178 | [238178-megadimension-neptunia-vii-party-character-nitroplus.json](./238178-megadimension-neptunia-vii-party-character-nitroplus.json) |
 | Megadimension Neptunia VII: Party Character - Umio & Nepgya | 238179 | [238179-megadimension-neptunia-vii-party-character-umio-and-nepgya.json](./238179-megadimension-neptunia-vii-party-character-umio-and-nepgya.json) |
@@ -1823,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaic Chronicles Deluxe: Ultimate Edition | 243366 | [243366-mosaic-chronicles-deluxe-ultimate-edition.json](./243366-mosaic-chronicles-deluxe-ultimate-edition.json) |
 | Mosaic Quiz | 378814 | [378814-mosaic-quiz.json](./378814-mosaic-quiz.json) |
 | Mosaic Your Crush! | 161394 | [161394-mosaic-your-crush.json](./161394-mosaic-your-crush.json) |
+| Mosaics Wall Deco | 376473 | [376473-mosaics-wall-deco.json](./376473-mosaics-wall-deco.json) |
 | Mosaique Neko Waifus 2 | 167808 | [167808-mosaique-neko-waifus-2.json](./167808-mosaique-neko-waifus-2.json) |
 | Mosaique Neko Waifus 4 | 167809 | [167809-mosaique-neko-waifus-4.json](./167809-mosaique-neko-waifus-4.json) |
 | Mosh Pit Simulator | 109545 | [109545-mosh-pit-simulator.json](./109545-mosh-pit-simulator.json) |
@@ -1831,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moss: Becoming Human | 337448 | [337448-moss-becoming-human.json](./337448-moss-becoming-human.json) |
 | Mostly Scared of Spiders | 115683 | [115683-mostly-scared-of-spiders.json](./115683-mostly-scared-of-spiders.json) |
 | Motarium | 393480 | [393480-motarium.json](./393480-motarium.json) |
+| Moth Terra | 376457 | [376457-moth-terra.json](./376457-moth-terra.json) |
 | Mothdude | 184126 | [184126-mothdude.json](./184126-mothdude.json) |
 | Mother 1+2 | 78585 | [78585-mother-1-2.json](./78585-mother-1-2.json) |
 | Mother Christmas | 394818 | [394818-mother-christmas.json](./394818-mother-christmas.json) |
