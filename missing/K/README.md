@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kappa Nittori-chan | 205790 | [205790-kappa-nittori-chan.json](./205790-kappa-nittori-chan.json) |
 | Kappa-kun to Asobou: Kappa-kun to Ota no Shimikai | 64439 | [64439-kappa-kun-to-asobou-kappa-kun-to-ota-no-shimikai.json](./64439-kappa-kun-to-asobou-kappa-kun-to-ota-no-shimikai.json) |
 | Käpt'n Blaubär: Die Verrückte Schatzsuche | 86070 | [86070-kaptn-blaubar-die-verruckte-schatzsuche.json](./86070-kaptn-blaubar-die-verruckte-schatzsuche.json) |
+| Kara no Oukoku | 380433 | [380433-kara-no-oukoku.json](./380433-kara-no-oukoku.json) |
 | Kara's Darkness Chapter 1 | 102154 | [102154-karas-darkness-chapter-1.json](./102154-karas-darkness-chapter-1.json) |
 | Karao | 392176 | [392176-karao.json](./392176-karao.json) |
 | Karaoke Joysound for Nintendo Switch | 146313 | [146313-karaoke-joysound-for-nintendo-switch.json](./146313-karaoke-joysound-for-nintendo-switch.json) |
@@ -306,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Bites | 59412 | [59412-killing-bites.json](./59412-killing-bites.json) |
 | Killing Floor 2: Deluxe Edition | 53242 | [53242-killing-floor-2-deluxe-edition.json](./53242-killing-floor-2-deluxe-edition.json) |
 | Killing Floor 2: Digital Deluxe Edition | 53241 | [53241-killing-floor-2-digital-deluxe-edition.json](./53241-killing-floor-2-digital-deluxe-edition.json) |
+| Killing Floor III: Operation Breakout | 380411 | [380411-killing-floor-iii-operation-breakout.json](./380411-killing-floor-iii-operation-breakout.json) |
 | Killing Floor: Double Feature | 116387 | [116387-killing-floor-double-feature.json](./116387-killing-floor-double-feature.json) |
 | Killing Kiss | 191905 | [191905-killing-kiss.json](./191905-killing-kiss.json) |
 | Killing Room | 25254 | [25254-killing-room.json](./25254-killing-room.json) |
