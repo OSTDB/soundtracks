@@ -1218,6 +1218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Heroines: Deluxe Edition | 315876 | [315876-apex-heroines-deluxe-edition.json](./315876-apex-heroines-deluxe-edition.json) |
 | Apex Legends: Defiance | 188649 | [188649-apex-legends-defiance.json](./188649-apex-legends-defiance.json) |
 | Apex Legends: Legacy | 146328 | [146328-apex-legends-legacy.json](./146328-apex-legends-legacy.json) |
+| Apex Legends: Marked | 412314 | [412314-apex-legends-marked.json](./412314-apex-legends-marked.json) |
 | Apex Legends: PlayStation Plus Play Pack | 325861 | [325861-apex-legends-playstation-plus-play-pack.json](./325861-apex-legends-playstation-plus-play-pack.json) |
 | Aphelion | 171599 | [171599-aphelion.json](./171599-aphelion.json) |
 | Aphelion | 348192 | [348192-aphelion.json](./348192-aphelion.json) |
@@ -1403,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arghh, There's a Killer Chasing Me! | 188114 | [188114-arghh-theres-a-killer-chasing-me.json](./188114-arghh-theres-a-killer-chasing-me.json) |
 | Argonauts Agency: Chair of Hephaestus | 188084 | [188084-argonauts-agency-chair-of-hephaestus.json](./188084-argonauts-agency-chair-of-hephaestus.json) |
 | Argonauts Agency: Pandora's Box | 117094 | [117094-argonauts-agency-pandoras-box.json](./117094-argonauts-agency-pandoras-box.json) |
+| Argonauts Agency: When Spring Withered | 412260 | [412260-argonauts-agency-when-spring-withered.json](./412260-argonauts-agency-when-spring-withered.json) |
 | Argos | 12256 | [12256-argos.json](./12256-argos.json) |
 | Arhaekon | 195204 | [195204-arhaekon.json](./195204-arhaekon.json) |
 | Aria | 192416 | [192416-aria.json](./192416-aria.json) |
