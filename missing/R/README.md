@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relapse | 208585 | [208585-relapse.json](./208585-relapse.json) |
 | Relativity | 31637 | [31637-relativity.json](./31637-relativity.json) |
 | Relativity Wars - A Science Space RTS | 35953 | [35953-relativity-wars-a-science-space-rts.json](./35953-relativity-wars-a-science-space-rts.json) |
+| Relax & Learn World Heritage | 409561 | [409561-relax-and-learn-world-heritage.json](./409561-relax-and-learn-world-heritage.json) |
 | Relax Bird | 89696 | [89696-relax-bird.json](./89696-relax-bird.json) |
 | Relaxing Art Bundle | 231052 | [231052-relaxing-art-bundle.json](./231052-relaxing-art-bundle.json) |
 | Relaxing Kite | 148571 | [148571-relaxing-kite.json](./148571-relaxing-kite.json) |
@@ -612,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resolutiion | 121996 | [121996-resolutiion.json](./121996-resolutiion.json) |
 | Resonant Tale | 266481 | [266481-resonant-tale.json](./266481-resonant-tale.json) |
 | Resonark X | 141900 | [141900-resonark-x.json](./141900-resonark-x.json) |
+| Resort Beauties: Hentai Photo Puzzle | 409560 | [409560-resort-beauties-hentai-photo-puzzle.json](./409560-resort-beauties-hentai-photo-puzzle.json) |
 | Rest House 2: The Wizard | 131593 | [131593-rest-house-2-the-wizard.json](./131593-rest-house-2-the-wizard.json) |
 | Rest to Landia | 292279 | [292279-rest-to-landia.json](./292279-rest-to-landia.json) |
 | Restaurant Empire II | 16015 | [16015-restaurant-empire-ii.json](./16015-restaurant-empire-ii.json) |
@@ -627,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retired Men's Nude Beach Volleyball League | 163452 | [163452-retired-mens-nude-beach-volleyball-league.json](./163452-retired-mens-nude-beach-volleyball-league.json) |
 | Retooled | 204071 | [204071-retooled.json](./204071-retooled.json) |
 | Retrieving the Past: Steam Edition | 195241 | [195241-retrieving-the-past-steam-edition.json](./195241-retrieving-the-past-steam-edition.json) |
+| Retro Asylum | 409559 | [409559-retro-asylum.json](./409559-retro-asylum.json) |
 | Retro Clicker | 149603 | [149603-retro-clicker.json](./149603-retro-clicker.json) |
 | Retro Commander | 165060 | [165060-retro-commander.json](./165060-retro-commander.json) |
 | Retro First Friday Collection #3 | 186295 | [186295-retro-first-friday-collection-3.json](./186295-retro-first-friday-collection-3.json) |
@@ -1169,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomba Out! | 302143 | [302143-roomba-out.json](./302143-roomba-out.json) |
 | Roomba Rail Rider | 302144 | [302144-roomba-rail-rider.json](./302144-roomba-rail-rider.json) |
 | Roommates | 297205 | [297205-roommates.json](./297205-roommates.json) |
+| Rooster: Princess Rescue | 409558 | [409558-rooster-princess-rescue.json](./409558-rooster-princess-rescue.json) |
 | Root After and Another | 72720 | [72720-root-after-and-another.json](./72720-root-after-and-another.json) |
 | Root Double: Before Crime * After Days | 79295 | [79295-root-double-before-crime-after-days.json](./79295-root-double-before-crime-after-days.json) |
 | Root Infinity Rexx | 61660 | [61660-root-infinity-rexx.json](./61660-root-infinity-rexx.json) |
@@ -1248,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Mahjong | 64443 | [64443-royal-mahjong.json](./64443-royal-mahjong.json) |
 | Royal Mahjong King's Journey | 195763 | [195763-royal-mahjong-kings-journey.json](./195763-royal-mahjong-kings-journey.json) |
 | Royal Merge! | 296078 | [296078-royal-merge.json](./296078-royal-merge.json) |
+| Royal Pit | 409557 | [409557-royal-pit.json](./409557-royal-pit.json) |
 | Royal Pro Wrestling: Jikkyou Live!! | 37203 | [37203-royal-pro-wrestling-jikkyou-live.json](./37203-royal-pro-wrestling-jikkyou-live.json) |
 | Royal Roads 2: The Magic Box | 161401 | [161401-royal-roads-2-the-magic-box.json](./161401-royal-roads-2-the-magic-box.json) |
 | Royal Romances: Battle of the Woods | 226930 | [226930-royal-romances-battle-of-the-woods.json](./226930-royal-romances-battle-of-the-woods.json) |
