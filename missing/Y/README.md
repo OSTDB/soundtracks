@@ -153,6 +153,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Power of Chaos: Joey the Passion | 50833 | [50833-yu-gi-oh-power-of-chaos-joey-the-passion.json](./50833-yu-gi-oh-power-of-chaos-joey-the-passion.json) |
 | Yu-Gi-Oh! Power of Chaos: Yugi the Destiny | 50834 | [50834-yu-gi-oh-power-of-chaos-yugi-the-destiny.json](./50834-yu-gi-oh-power-of-chaos-yugi-the-destiny.json) |
 | Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006 | 49377 | [49377-yu-gi-oh-ultimate-masters-world-championship-tournament-2006.json](./49377-yu-gi-oh-ultimate-masters-world-championship-tournament-2006.json) |
+| Yubisaki Connection Mini Fandisk Vol. 01: Yuzuki & Mikoto Hen | 382236 | [382236-yubisaki-connection-mini-fandisk-vol-01-yuzuki-and-mikoto-hen.json](./382236-yubisaki-connection-mini-fandisk-vol-01-yuzuki-and-mikoto-hen.json) |
+| Yubisaki Connection Mini Fandisk Vol. 02: Natsuho & Iori Hen | 382237 | [382237-yubisaki-connection-mini-fandisk-vol-02-natsuho-and-iori-hen.json](./382237-yubisaki-connection-mini-fandisk-vol-02-natsuho-and-iori-hen.json) |
 | Yucan | 141866 | [141866-yucan.json](./141866-yucan.json) |
 | Yuè Lán Chuánqí II: Zhòu Yìn Zú Chuánshuō | 394177 | [394177-yue-lan-chuanqi-ii-zhou-yin-zu-chuanshuo.json](./394177-yue-lan-chuanqi-ii-zhou-yin-zu-chuanshuo.json) |
 | Yuè Lán Chuánqí: Yì Jiè de Fǎngkè | 394179 | [394179-yue-lan-chuanqi-yi-jie-de-fangke.json](./394179-yue-lan-chuanqi-yi-jie-de-fangke.json) |
