@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laura's Happy Adventures | 66703 | [66703-lauras-happy-adventures.json](./66703-lauras-happy-adventures.json) |
 | Lauras Tierklinik | 163974 | [163974-lauras-tierklinik.json](./163974-lauras-tierklinik.json) |
 | Laurel's Day | 393486 | [393486-laurels-day.json](./393486-laurels-day.json) |
+| Laureli: Blood-Dipped Manor | 382183 | [382183-laureli-blood-dipped-manor.json](./382183-laureli-blood-dipped-manor.json) |
 | Lava-Runners | 331680 | [331680-lava-runners.json](./331680-lava-runners.json) |
 | Lavalads | 402268 | [402268-lavalads.json](./402268-lavalads.json) |
 | Lavapools | 25000 | [25000-lavapools.json](./25000-lavapools.json) |
@@ -995,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumiere | 415100 | [415100-lumiere.json](./415100-lumiere.json) |
 | Luminex Quartet | 384502 | [384502-luminex-quartet.json](./384502-luminex-quartet.json) |
 | Luminosity | 35836 | [35836-luminosity.json](./35836-luminosity.json) |
+| Luminous | 382191 | [382191-luminous.json](./382191-luminous.json) |
 | Luminous Arc 3 | 25100 | [25100-luminous-arc-3.json](./25100-luminous-arc-3.json) |
 | Luminous Skies: A Short Adventure | 255956 | [255956-luminous-skies-a-short-adventure.json](./255956-luminous-skies-a-short-adventure.json) |
 | Lumiric Stage | 412264 | [412264-lumiric-stage.json](./412264-lumiric-stage.json) |
