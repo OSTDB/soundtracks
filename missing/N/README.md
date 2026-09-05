@@ -581,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Runner | 233234 | [233234-ninja-runner.json](./233234-ninja-runner.json) |
 | Ninja Sentai Hurricanger & Hyakujuu Sentai Gaoranger: Chou Sentai Super Battle | 62743 | [62743-ninja-sentai-hurricanger-and-hyakujuu-sentai-gaoranger-chou-sentai-super-battle.json](./62743-ninja-sentai-hurricanger-and-hyakujuu-sentai-gaoranger-chou-sentai-super-battle.json) |
 | Ninja Sentai Kakuranger | 310198 | [310198-ninja-sentai-kakuranger.json](./310198-ninja-sentai-kakuranger.json) |
+| Ninja Stealth 2 | 29639 | [29639-ninja-stealth-2.json](./29639-ninja-stealth-2.json) |
 | Ninja Tag | 59996 | [59996-ninja-tag.json](./59996-ninja-tag.json) |
 | Ninja TD | 200189 | [200189-ninja-td.json](./200189-ninja-td.json) |
 | Ninja Throw HD | 20647 | [20647-ninja-throw-hd.json](./20647-ninja-throw-hd.json) |
@@ -828,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Slide Puzzle | 228106 | [228106-number-slide-puzzle.json](./228106-number-slide-puzzle.json) |
 | Number Wars | 193474 | [193474-number-wars.json](./193474-number-wars.json) |
 | Numberic Puzzle Ocean | 107168 | [107168-numberic-puzzle-ocean.json](./107168-numberic-puzzle-ocean.json) |
+| Numberline | 29724 | [29724-numberline.json](./29724-numberline.json) |
 | Numberline 3 | 106580 | [106580-numberline-3.json](./106580-numberline-3.json) |
 | Numeral Lord | 221426 | [221426-numeral-lord.json](./221426-numeral-lord.json) |
 | Numina | 141250 | [141250-numina.json](./141250-numina.json) |
