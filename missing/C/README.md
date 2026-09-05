@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caïssa Board | 152893 | [152893-caissa-board.json](./152893-caissa-board.json) |
 | Cake Bites Make & Bake: Cooking Dessert Kids Game | 109012 | [109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json](./109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json) |
 | Cake Shop | 109015 | [109015-cake-shop.json](./109015-cake-shop.json) |
+| Cake Shop 3 | 410232 | [410232-cake-shop-3.json](./410232-cake-shop-3.json) |
 | Cake5 | 233247 | [233247-cake5.json](./233247-cake5.json) |
 | Cal | 123082 | [123082-cal.json](./123082-cal.json) |
 | Calamity Annie | 72689 | [72689-calamity-annie.json](./72689-calamity-annie.json) |
@@ -195,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capture the Flag | 23901 | [23901-capture-the-flag.json](./23901-capture-the-flag.json) |
 | Captures | 165670 | [165670-captures.json](./165670-captures.json) |
 | Captures II | 170550 | [170550-captures-ii.json](./170550-captures-ii.json) |
+| Car Challenge | 410240 | [410240-car-challenge.json](./410240-car-challenge.json) |
 | Car Cops | 247218 | [247218-car-cops.json](./247218-car-cops.json) |
 | Car Crash Couch Party | 83586 | [83586-car-crash-couch-party.json](./83586-car-crash-couch-party.json) |
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
@@ -374,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Jigsaw Puzzle Games: Expansion Pack 7 | 263214 | [263214-cat-jigsaw-puzzle-games-expansion-pack-7.json](./263214-cat-jigsaw-puzzle-games-expansion-pack-7.json) |
 | Cat Life | 230525 | [230525-cat-life.json](./230525-cat-life.json) |
 | Cat Meat | 32911 | [32911-cat-meat.json](./32911-cat-meat.json) |
+| Cat Screen | 410234 | [410234-cat-screen.json](./410234-cat-screen.json) |
 | Cat Simulator 2015 | 87780 | [87780-cat-simulator-2015.json](./87780-cat-simulator-2015.json) |
 | Cat Sokoban | 135868 | [135868-cat-sokoban.json](./135868-cat-sokoban.json) |
 | Cat vs. Corgis | 54448 | [54448-cat-vs-corgis.json](./54448-cat-vs-corgis.json) |
@@ -402,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Me If You Can | 143716 | [143716-catch-me-if-you-can.json](./143716-catch-me-if-you-can.json) |
 | Catch Pokémon | 341322 | [341322-catch-pokemon.json](./341322-catch-pokemon.json) |
 | Catch the Sperm | 319974 | [319974-catch-the-sperm.json](./319974-catch-the-sperm.json) |
+| Catch the Turtle | 410230 | [410230-catch-the-turtle.json](./410230-catch-the-turtle.json) |
 | Catch Them If You Can | 215368 | [215368-catch-them-if-you-can.json](./215368-catch-them-if-you-can.json) |
 | Catch'em | 302138 | [302138-catchem.json](./302138-catchem.json) |
 | Catcha Catcha Aliens! | 61630 | [61630-catcha-catcha-aliens.json](./61630-catcha-catcha-aliens.json) |
@@ -1689,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Claimer | 187528 | [187528-crown-claimer.json](./187528-crown-claimer.json) |
 | Crown of Arthain | 129812 | [129812-crown-of-arthain.json](./129812-crown-of-arthain.json) |
 | Crown Solitaire: Card Game | 96714 | [96714-crown-solitaire-card-game.json](./96714-crown-solitaire-card-game.json) |
+| Crownrats | 410243 | [410243-crownrats.json](./410243-crownrats.json) |
 | Crowntakers | 10070 | [10070-crowntakers.json](./10070-crowntakers.json) |
 | Crows Coming | 245018 | [245018-crows-coming.json](./245018-crows-coming.json) |
 | CRSED: F.O.A.D. - Age of Nagual | 171062 | [171062-crsed-f-o-a-d-age-of-nagual.json](./171062-crsed-f-o-a-d-age-of-nagual.json) |
