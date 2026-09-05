@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O.J.'s All-American Race to Acquittal | 298307 | [298307-o-j-s-all-american-race-to-acquittal.json](./298307-o-j-s-all-american-race-to-acquittal.json) |
 | O2Jam | 200163 | [200163-o2jam.json](./200163-o2jam.json) |
 | O2Jam | 72126 | [72126-o2jam.json](./72126-o2jam.json) |
+| O2Jam: The Beginning | 390546 | [390546-o2jam-the-beginning.json](./390546-o2jam-the-beginning.json) |
 | Oak Adventure the Maze | 235473 | [235473-oak-adventure-the-maze.json](./235473-oak-adventure-the-maze.json) |
 | OASE: Other Age Second Encounter | 34478 | [34478-oase-other-age-second-encounter.json](./34478-oase-other-age-second-encounter.json) |
 | Oasis of Lilies | 412276 | [412276-oasis-of-lilies.json](./412276-oasis-of-lilies.json) |
@@ -351,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Strike: Complete Edition | 238181 | [238181-one-strike-complete-edition.json](./238181-one-strike-complete-edition.json) |
 | One Strike: Rise of Dragons | 238180 | [238180-one-strike-rise-of-dragons.json](./238180-one-strike-rise-of-dragons.json) |
 | One Tank to Rule Them All | 86333 | [86333-one-tank-to-rule-them-all.json](./86333-one-tank-to-rule-them-all.json) |
+| One Tower Defense | 390517 | [390517-one-tower-defense.json](./390517-one-tower-defense.json) |
 | One Turkey, Two Turkeys | 332244 | [332244-one-turkey-two-turkeys.json](./332244-one-turkey-two-turkeys.json) |
 | One Way Heroics Plus | 147990 | [147990-one-way-heroics-plus.json](./147990-one-way-heroics-plus.json) |
 | One Way Home | 244491 | [244491-one-way-home.json](./244491-one-way-home.json) |
