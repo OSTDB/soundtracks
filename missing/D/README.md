@@ -1215,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Sayori Date! | 332855 | [332855-doki-doki-sayori-date.json](./332855-doki-doki-sayori-date.json) |
 | Doki Doki Tri-Line Quest | 191218 | [191218-doki-doki-tri-line-quest.json](./191218-doki-doki-tri-line-quest.json) |
 | Doki Doki Your Bully: Natsuki | 332853 | [332853-doki-doki-your-bully-natsuki.json](./332853-doki-doki-your-bully-natsuki.json) |
+| Doki Monsters: Quest | 378792 | [378792-doki-monsters-quest.json](./378792-doki-monsters-quest.json) |
 | Doki-Doki Pretty League: Nekketsu Otome Seishunki | 306674 | [306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json](./306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json) |
 | Doki! Doki! Yuuenchi: Crazy Land Daisakusen | 48663 | [48663-doki-doki-yuuenchi-crazy-land-daisakusen.json](./48663-doki-doki-yuuenchi-crazy-land-daisakusen.json) |
 | Doko Demo Issho: Toro's Story App | 246073 | [246073-doko-demo-issho-toros-story-app.json](./246073-doko-demo-issho-toros-story-app.json) |
