@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case Files: The Death of Paulette Williams | 213024 | [213024-case-files-the-death-of-paulette-williams.json](./213024-case-files-the-death-of-paulette-williams.json) |
 | Case Solved: The London Files | 392811 | [392811-case-solved-the-london-files.json](./392811-case-solved-the-london-files.json) |
 | Casey Powell Lacrosse 18 | 96477 | [96477-casey-powell-lacrosse-18.json](./96477-casey-powell-lacrosse-18.json) |
+| Cash Dash | 384544 | [384544-cash-dash.json](./384544-cash-dash.json) |
 | Cashier of Grocery Shop: Profession | 102772 | [102772-cashier-of-grocery-shop-profession.json](./102772-cashier-of-grocery-shop-profession.json) |
 | Casino Boss Simulator | 278701 | [278701-casino-boss-simulator.json](./278701-casino-boss-simulator.json) |
 | Casino Challenge | 44640 | [44640-casino-challenge.json](./44640-casino-challenge.json) |
@@ -1188,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Bound: Episode 4 | 207504 | [207504-college-bound-episode-4.json](./207504-college-bound-episode-4.json) |
 | College Craze | 210863 | [210863-college-craze.json](./210863-college-craze.json) |
 | College Hoops 2K6 | 5782 | [5782-college-hoops-2k6.json](./5782-college-hoops-2k6.json) |
+| College Wrestling Manager 2026 | 384514 | [384514-college-wrestling-manager-2026.json](./384514-college-wrestling-manager-2026.json) |
 | Colliderscope | 109673 | [109673-colliderscope.json](./109673-colliderscope.json) |
 | Collision | 331107 | [331107-collision.json](./331107-collision.json) |
 | Colloc | 120424 | [120424-colloc.json](./120424-colloc.json) |
@@ -1521,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CosmoDrive:Zero | 111688 | [111688-cosmodrive-zero.json](./111688-cosmodrive-zero.json) |
 | Cosmonious High | 194955 | [194955-cosmonious-high.json](./194955-cosmonious-high.json) |
 | Cosmophage | 148552 | [148552-cosmophage.json](./148552-cosmophage.json) |
+| Cosmorbit | 384537 | [384537-cosmorbit.json](./384537-cosmorbit.json) |
 | Cosmos | 76611 | [76611-cosmos.json](./76611-cosmos.json) |
 | Cosmos Kitten | 332843 | [332843-cosmos-kitten.json](./332843-cosmos-kitten.json) |
 | Cosmoscope | 158200 | [158200-cosmoscope.json](./158200-cosmoscope.json) |
@@ -1606,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft Tower | 224213 | [224213-craft-tower.json](./224213-craft-tower.json) |
 | Crafting in Berxley | 412982 | [412982-crafting-in-berxley.json](./412982-crafting-in-berxley.json) |
 | Crafting Town | 199660 | [199660-crafting-town.json](./199660-crafting-town.json) |
+| Craftsman Story | 384524 | [384524-craftsman-story.json](./384524-craftsman-story.json) |
 | Crafty | 157157 | [157157-crafty.json](./157157-crafty.json) |
 | Crafty Lands | 249462 | [249462-crafty-lands.json](./249462-crafty-lands.json) |
 | Craggenrock | 207498 | [207498-craggenrock.json](./207498-craggenrock.json) |
