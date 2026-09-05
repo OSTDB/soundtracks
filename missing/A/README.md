@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Display Cabinet | 258207 | [258207-achievement-display-cabinet.json](./258207-achievement-display-cabinet.json) |
 | Achievement Hunter: Begins | 307333 | [307333-achievement-hunter-begins.json](./307333-achievement-hunter-begins.json) |
 | Achilles: Legends Untold | 160293 | [160293-achilles-legends-untold.json](./160293-achilles-legends-untold.json) |
+| Acid Bunny 2 | 394888 | [394888-acid-bunny-2.json](./394888-acid-bunny-2.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
 | Acid Spy | 102877 | [102877-acid-spy.json](./102877-acid-spy.json) |
 | Ack-Ack Attack! | 79318 | [79318-ack-ack-attack.json](./79318-ack-ack-attack.json) |
@@ -953,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Western Star 57X | 211406 | [211406-american-truck-simulator-western-star-57x.json](./211406-american-truck-simulator-western-star-57x.json) |
 | Americas Tower Simulator | 224756 | [224756-americas-tower-simulator.json](./224756-americas-tower-simulator.json) |
 | AMF Bowling 2004 | 5723 | [5723-amf-bowling-2004.json](./5723-amf-bowling-2004.json) |
+| Amid the Grid | 394824 | [394824-amid-the-grid.json](./394824-amid-the-grid.json) |
 | Amida | 7755 | [7755-amida.json](./7755-amida.json) |
 | Amidar | 11116 | [11116-amidar.json](./11116-amidar.json) |
 | Amidst The Haze | 278677 | [278677-amidst-the-haze.json](./278677-amidst-the-haze.json) |
@@ -1233,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AnyWay! | 102412 | [102412-anyway.json](./102412-anyway.json) |
 | AO Tennis | 76726 | [76726-ao-tennis.json](./76726-ao-tennis.json) |
 | AOD | 297785 | [297785-aod.json](./297785-aod.json) |
+| Aoi Tori: L'Oiseau Bleu | 394867 | [394867-aoi-tori-loiseau-bleu.json](./394867-aoi-tori-loiseau-bleu.json) |
 | Aoki Ookami to Shiroki Mejika | 30922 | [30922-aoki-ookami-to-shiroki-mejika.json](./30922-aoki-ookami-to-shiroki-mejika.json) |
 | Aonar | 259292 | [259292-aonar.json](./259292-aonar.json) |
 | Aooni: The Horror of Blueberry Onsen | 341884 | [341884-aooni-the-horror-of-blueberry-onsen.json](./341884-aooni-the-horror-of-blueberry-onsen.json) |
@@ -1881,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autobahn Raser IV | 210278 | [210278-autobahn-raser-iv.json](./210278-autobahn-raser-iv.json) |
 | Autobahn Raser: Das Spiel zum Film | 144385 | [144385-autobahn-raser-das-spiel-zum-film.json](./144385-autobahn-raser-das-spiel-zum-film.json) |
 | Autobahn Tokio | 37206 | [37206-autobahn-tokio.json](./37206-autobahn-tokio.json) |
+| Autoball | 394887 | [394887-autoball.json](./394887-autoball.json) |
 | Autocracy | 84243 | [84243-autocracy.json](./84243-autocracy.json) |
 | Autocross Madness | 96274 | [96274-autocross-madness.json](./96274-autocross-madness.json) |
 | Autocrusher: Bumper Cars | 213608 | [213608-autocrusher-bumper-cars.json](./213608-autocrusher-bumper-cars.json) |
