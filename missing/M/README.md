@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Escape | 194660 | [194660-magical-escape.json](./194660-magical-escape.json) |
 | Magical Girl Leaky Sara | 58810 | [58810-magical-girl-leaky-sara.json](./58810-magical-girl-leaky-sara.json) |
 | Magical Girl Noble Rose | 173817 | [173817-magical-girl-noble-rose.json](./173817-magical-girl-noble-rose.json) |
+| Magical Girl Yusya-chan and the Labyrinth of Lust | 406694 | [406694-magical-girl-yusya-chan-and-the-labyrinth-of-lust.json](./406694-magical-girl-yusya-chan-and-the-labyrinth-of-lust.json) |
 | Magical girl's labyrinth | 105332 | [105332-magical-girls-labyrinth.json](./105332-magical-girls-labyrinth.json) |
 | Magical Girls vs. Cat Aliens | 325847 | [325847-magical-girls-vs-cat-aliens.json](./325847-magical-girls-vs-cat-aliens.json) |
 | Magical Jewelry | 48670 | [48670-magical-jewelry.json](./48670-magical-jewelry.json) |
@@ -667,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot Parts Collection | 92533 | [92533-medarot-parts-collection.json](./92533-medarot-parts-collection.json) |
 | Medarot Parts Collection 2 | 92534 | [92534-medarot-parts-collection-2.json](./92534-medarot-parts-collection-2.json) |
 | Medarot R Parts Collection | 92537 | [92537-medarot-r-parts-collection.json](./92537-medarot-r-parts-collection.json) |
+| Medic Mayhem | 406680 | [406680-medic-mayhem.json](./406680-medic-mayhem.json) |
 | Medical Record Sheet | 253003 | [253003-medical-record-sheet.json](./253003-medical-record-sheet.json) |
 | Medical verdict | 107913 | [107913-medical-verdict.json](./107913-medical-verdict.json) |
 | Medicinal Herbs: Cannabis Grow Simulator | 172149 | [172149-medicinal-herbs-cannabis-grow-simulator.json](./172149-medicinal-herbs-cannabis-grow-simulator.json) |
@@ -778,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melter Man | 34411 | [34411-melter-man.json](./34411-melter-man.json) |
 | Melting Hearts: Our Love Will Grow 2 | 33080 | [33080-melting-hearts-our-love-will-grow-2.json](./33080-melting-hearts-our-love-will-grow-2.json) |
 | Melty Blood Actress Again Current Code | 19943 | [19943-melty-blood-actress-again-current-code.json](./19943-melty-blood-actress-again-current-code.json) |
+| MeltyFlow: A Cozy Desktop Lava Lamp | 406676 | [406676-meltyflow-a-cozy-desktop-lava-lamp.json](./406676-meltyflow-a-cozy-desktop-lava-lamp.json) |
 | MeltyMoment Mini Fandisc: Aoi & Kagami Version | 413642 | [413642-meltymoment-mini-fandisc-aoi-and-kagami-version.json](./413642-meltymoment-mini-fandisc-aoi-and-kagami-version.json) |
 | MeltyMoment Mini Fandisc: Sumire & Chiemi Version | 413645 | [413645-meltymoment-mini-fandisc-sumire-and-chiemi-version.json](./413645-meltymoment-mini-fandisc-sumire-and-chiemi-version.json) |
 | Melvor Idle | 141130 | [141130-melvor-idle.json](./141130-melvor-idle.json) |
@@ -1084,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mika Dozer Spin | 90693 | [90693-mika-dozer-spin.json](./90693-mika-dozer-spin.json) |
 | Mikagami Sumika No Seifuku Katsudou | 147446 | [147446-mikagami-sumika-no-seifuku-katsudou.json](./147446-mikagami-sumika-no-seifuku-katsudou.json) |
 | Mikagura Shoujo Tanteidan | 60575 | [60575-mikagura-shoujo-tanteidan.json](./60575-mikagura-shoujo-tanteidan.json) |
+| Mikane's Hand | 406686 | [406686-mikanes-hand.json](./406686-mikanes-hand.json) |
 | Mike Piazza's Strike Zone | 3410 | [3410-mike-piazzas-strike-zone.json](./3410-mike-piazzas-strike-zone.json) |
 | Mike V: Skateboard Party HD | 87709 | [87709-mike-v-skateboard-party-hd.json](./87709-mike-v-skateboard-party-hd.json) |
 | Mike's Paper Mario Adventure | 324110 | [324110-mikes-paper-mario-adventure.json](./324110-mikes-paper-mario-adventure.json) |
@@ -1457,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monet - The Mystery of the Orangery | 129764 | [129764-monet-the-mystery-of-the-orangery.json](./129764-monet-the-mystery-of-the-orangery.json) |
 | Money Parasite: Usotsuki na Onna | 225885 | [225885-money-parasite-usotsuki-na-onna.json](./225885-money-parasite-usotsuki-na-onna.json) |
 | Money Town | 47294 | [47294-money-town.json](./47294-money-town.json) |
+| Money Trails | 406675 | [406675-money-trails.json](./406675-money-trails.json) |
 | Mônica no Castelo do Dragão | 9557 | [9557-monica-no-castelo-do-dragao.json](./9557-monica-no-castelo-do-dragao.json) |
 | Monishiri Quiz Taiko no Kyouryuu | 276466 | [276466-monishiri-quiz-taiko-no-kyouryuu.json](./276466-monishiri-quiz-taiko-no-kyouryuu.json) |
 | Monitor Puzzle Kineko: Kinetic Connection Vol. II | 41403 | [41403-monitor-puzzle-kineko-kinetic-connection-vol-ii.json](./41403-monitor-puzzle-kineko-kinetic-connection-vol-ii.json) |
