@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultire: Balls Out | 124259 | [124259-ultire-balls-out.json](./124259-ultire-balls-out.json) |
 | Ultra Age: Rebirth Project | 224203 | [224203-ultra-age-rebirth-project.json](./224203-ultra-age-rebirth-project.json) |
 | Ultra Baseball Jitsumei-ban 3 | 37775 | [37775-ultra-baseball-jitsumei-ban-3.json](./37775-ultra-baseball-jitsumei-ban-3.json) |
+| Ultra Bonk Survivors | 378181 | [378181-ultra-bonk-survivors.json](./378181-ultra-bonk-survivors.json) |
 | Ultra Bust-A-Move | 47317 | [47317-ultra-bust-a-move.json](./47317-ultra-bust-a-move.json) |
 | Ultra Fighters | 95454 | [95454-ultra-fighters.json](./95454-ultra-fighters.json) |
 | Ultra Hyperball | 51950 | [51950-ultra-hyperball.json](./51950-ultra-hyperball.json) |
@@ -390,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UsoNatsu: The Summer Romance Bloomed From a Lie | 234340 | [234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json](./234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json) |
 | Usurper of Fire | 408035 | [408035-usurper-of-fire.json](./408035-usurper-of-fire.json) |
 | Uta Kumi 575 | 42670 | [42670-uta-kumi-575.json](./42670-uta-kumi-575.json) |
+| Utopia no Soubou | 378191 | [378191-utopia-no-soubou.json](./378191-utopia-no-soubou.json) |
 | Utopia: The Creation of a Nation | 12231 | [12231-utopia-the-creation-of-a-nation.json](./12231-utopia-the-creation-of-a-nation.json) |
 | Utsuho's Great Hunger Battle | 262101 | [262101-utsuhos-great-hunger-battle.json](./262101-utsuhos-great-hunger-battle.json) |
 | Utsurobi no Serentia | 301608 | [301608-utsurobi-no-serentia.json](./301608-utsurobi-no-serentia.json) |
