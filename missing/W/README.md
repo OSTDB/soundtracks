@@ -311,7 +311,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wedding Peach: Doki-doki Oironaoshi | 64951 | [64951-wedding-peach-doki-doki-oironaoshi.json](./64951-wedding-peach-doki-doki-oironaoshi.json) |
 | Wedding Peach: Jamapii Panic | 64952 | [64952-wedding-peach-jamapii-panic.json](./64952-wedding-peach-jamapii-panic.json) |
 | Wednesdays | 333946 | [333946-wednesdays.json](./333946-wednesdays.json) |
+| Weed Bakery | 374631 | [374631-weed-bakery.json](./374631-weed-bakery.json) |
 | Weed Farmer | 200201 | [200201-weed-farmer.json](./200201-weed-farmer.json) |
+| Weed Garden Online | 374623 | [374623-weed-garden-online.json](./374623-weed-garden-online.json) |
+| Weed Shop | 374627 | [374627-weed-shop.json](./374627-weed-shop.json) |
 | Weed Shop 4: Highland | 309645 | [309645-weed-shop-4-highland.json](./309645-weed-shop-4-highland.json) |
 | Weekend Drive | 109019 | [109019-weekend-drive.json](./109019-weekend-drive.json) |
 | Weekend Solitaire: Railway | 386124 | [386124-weekend-solitaire-railway.json](./386124-weekend-solitaire-railway.json) |
@@ -588,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windsquire: Race From Dragon Castle | 241054 | [241054-windsquire-race-from-dragon-castle.json](./241054-windsquire-race-from-dragon-castle.json) |
 | WindStop Strategy | 385567 | [385567-windstop-strategy.json](./385567-windstop-strategy.json) |
 | WindWord | 104641 | [104641-windword.json](./104641-windword.json) |
+| Windwoven | 374606 | [374606-windwoven.json](./374606-windwoven.json) |
 | WinFish 3 - Fly Fishing | 129767 | [129767-winfish-3-fly-fishing.json](./129767-winfish-3-fly-fishing.json) |
 | Wing Breakers | 180305 | [180305-wing-breakers.json](./180305-wing-breakers.json) |
 | Wing Commander: Armada | 8824 | [8824-wing-commander-armada.json](./8824-wing-commander-armada.json) |
@@ -917,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm Dungeon | 135878 | [135878-worm-dungeon.json](./135878-worm-dungeon.json) |
 | Worm Odyssey | 275914 | [275914-worm-odyssey.json](./275914-worm-odyssey.json) |
 | Wormatozoa | 190722 | [190722-wormatozoa.json](./190722-wormatozoa.json) |
+| Wormhole | 374611 | [374611-wormhole.json](./374611-wormhole.json) |
 | Worms Crazy Golf | 15070 | [15070-worms-crazy-golf.json](./15070-worms-crazy-golf.json) |
 | Worms Forts 3D | 218730 | [218730-worms-forts-3d.json](./218730-worms-forts-3d.json) |
 | Worms Reloaded: Puzzle Pack | 163430 | [163430-worms-reloaded-puzzle-pack.json](./163430-worms-reloaded-puzzle-pack.json) |
