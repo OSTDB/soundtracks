@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Tycoon | 18538 | [18538-zoo-tycoon.json](./18538-zoo-tycoon.json) |
 | Zoo Tycoon DS | 18598 | [18598-zoo-tycoon-ds.json](./18598-zoo-tycoon-ds.json) |
 | Zoo Vet | 79929 | [79929-zoo-vet.json](./79929-zoo-vet.json) |
+| Zoo-pocalypse | 396899 | [396899-zoo-pocalypse.json](./396899-zoo-pocalypse.json) |
 | Zookeeper DX Touch Edition | 104109 | [104109-zookeeper-dx-touch-edition.json](./104109-zookeeper-dx-touch-edition.json) |
 | ZooKeeper Simulator | 127218 | [127218-zookeeper-simulator.json](./127218-zookeeper-simulator.json) |
 | Zookeeper World | 170542 | [170542-zookeeper-world.json](./170542-zookeeper-world.json) |
