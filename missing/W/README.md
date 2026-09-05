@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Lure | 298863 | [298863-winning-lure.json](./298863-winning-lure.json) |
 | Winning Post 2 | 37767 | [37767-winning-post-2.json](./37767-winning-post-2.json) |
 | Winning Post 7 2010 | 194007 | [194007-winning-post-7-2010.json](./194007-winning-post-7-2010.json) |
+| Winning Tactics | 368492 | [368492-winning-tactics.json](./368492-winning-tactics.json) |
 | Winter Cometh | 122400 | [122400-winter-cometh.json](./122400-winter-cometh.json) |
 | Winter Mosaics | 415908 | [415908-winter-mosaics.json](./415908-winter-mosaics.json) |
 | Winter Sports: The Ultimate Challenge | 5284 | [5284-winter-sports-the-ultimate-challenge.json](./5284-winter-sports-the-ultimate-challenge.json) |
