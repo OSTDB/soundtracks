@@ -1054,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Ranger Services: Episode 1 | 340232 | [340232-forest-ranger-services-episode-1.json](./340232-forest-ranger-services-episode-1.json) |
 | Forest Simulator 2025 | 326427 | [326427-forest-simulator-2025.json](./326427-forest-simulator-2025.json) |
 | Forest Survival | 381032 | [381032-forest-survival.json](./381032-forest-survival.json) |
+| Forest Time | 373517 | [373517-forest-time.json](./373517-forest-time.json) |
 | Forest Whiskers | 383948 | [383948-forest-whiskers.json](./383948-forest-whiskers.json) |
 | Forestry | 29950 | [29950-forestry.json](./29950-forestry.json) |
 | Foretales: Deluxe Edition | 218690 | [218690-foretales-deluxe-edition.json](./218690-foretales-deluxe-edition.json) |
