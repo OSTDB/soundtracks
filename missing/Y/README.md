@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yami no Koe | 275312 | [275312-yami-no-koe.json](./275312-yami-no-koe.json) |
 | Yandere-Chan | 125998 | [125998-yandere-chan.json](./125998-yandere-chan.json) |
 | Yang2020: Path to Presidency | 127468 | [127468-yang2020-path-to-presidency.json](./127468-yang2020-path-to-presidency.json) |
+| Yankai's Peak. | 43515 | [43515-yankais-peak.json](./43515-yankais-peak.json) |
 | Yard of the Dead | 268765 | [268765-yard-of-the-dead.json](./268765-yard-of-the-dead.json) |
 | Yarudora Series Vol. 1: Double Cast | 79353 | [79353-yarudora-series-vol-1-double-cast.json](./79353-yarudora-series-vol-1-double-cast.json) |
 | Yarudora Series Vol. 3: Sampaguita | 79349 | [79349-yarudora-series-vol-3-sampaguita.json](./79349-yarudora-series-vol-3-sampaguita.json) |
@@ -50,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yie Ar Kung-Fu | 18170 | [18170-yie-ar-kung-fu.json](./18170-yie-ar-kung-fu.json) |
 | Yin-Yang Labyrinth | 301600 | [301600-yin-yang-labyrinth.json](./301600-yin-yang-labyrinth.json) |
 | Ylands | 36297 | [36297-ylands.json](./36297-ylands.json) |
+| Ymir | 50092 | [50092-ymir.json](./50092-ymir.json) |
 | Yo My Yo! | 112355 | [112355-yo-my-yo.json](./112355-yo-my-yo.json) |
 | Yo-Jin-Bo: The Bodyguards | 72679 | [72679-yo-jin-bo-the-bodyguards.json](./72679-yo-jin-bo-the-bodyguards.json) |
 | Yo-kai Sangokushi: Kunitori Wars | 77356 | [77356-yo-kai-sangokushi-kunitori-wars.json](./77356-yo-kai-sangokushi-kunitori-wars.json) |
