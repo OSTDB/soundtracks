@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Factory | 312885 | [312885-coin-factory.json](./312885-coin-factory.json) |
 | Coin Hunter | 331678 | [331678-coin-hunter.json](./331678-coin-hunter.json) |
 | Coin Jar | 291742 | [291742-coin-jar.json](./291742-coin-jar.json) |
+| Coin$ Pusher Ltd | 408089 | [408089-coin-pusher-ltd.json](./408089-coin-pusher-ltd.json) |
 | Coins Collector Sport Car | 213027 | [213027-coins-collector-sport-car.json](./213027-coins-collector-sport-car.json) |
 | Coiny Block | 98441 | [98441-coiny-block.json](./98441-coiny-block.json) |
 | Coke Bugs | 265398 | [265398-coke-bugs.json](./265398-coke-bugs.json) |
@@ -1668,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critter Loop | 412267 | [412267-critter-loop.json](./412267-critter-loop.json) |
 | Croc's World | 87410 | [87410-crocs-world.json](./87410-crocs-world.json) |
 | Crocro Adventure | 96341 | [96341-crocro-adventure.json](./96341-crocro-adventure.json) |
+| Crone | 408087 | [408087-crone.json](./408087-crone.json) |
 | Cronostase Electric Collection | 225899 | [225899-cronostase-electric-collection.json](./225899-cronostase-electric-collection.json) |
 | Cronous Online | 213028 | [213028-cronous-online.json](./213028-cronous-online.json) |
 | Crooked Time | 205787 | [205787-crooked-time.json](./205787-crooked-time.json) |
@@ -1929,6 +1931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Battle 69 | 131608 | [131608-cyber-battle-69.json](./131608-cyber-battle-69.json) |
 | Cyber City | 117077 | [117077-cyber-city.json](./117077-cyber-city.json) |
 | Cyber Dodge | 42054 | [42054-cyber-dodge.json](./42054-cyber-dodge.json) |
+| Cyber Paranoia | 408058 | [408058-cyber-paranoia.json](./408058-cyber-paranoia.json) |
 | Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
 | Cyber Sled | 20626 | [20626-cyber-sled.json](./20626-cyber-sled.json) |
 | Cyber Strike | 194001 | [194001-cyber-strike.json](./194001-cyber-strike.json) |
@@ -1983,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cypher: Cyberpunk Text Adventure | 64616 | [64616-cypher-cyberpunk-text-adventure.json](./64616-cypher-cyberpunk-text-adventure.json) |
 | Cyrus II Chess | 12988 | [12988-cyrus-ii-chess.json](./12988-cyrus-ii-chess.json) |
 | Cyto | 17431 | [17431-cyto.json](./17431-cyto.json) |
+| Cytokine Storm | 408088 | [408088-cytokine-storm.json](./408088-cytokine-storm.json) |
 | Cytoplasm Madness | 180839 | [180839-cytoplasm-madness.json](./180839-cytoplasm-madness.json) |
 | Cytron Masters | 22489 | [22489-cytron-masters.json](./22489-cytron-masters.json) |
 | Cytus II | 89095 | [89095-cytus-ii.json](./89095-cytus-ii.json) |
