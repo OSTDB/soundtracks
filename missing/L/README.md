@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of Zangetsu: Akiba's Trip Collaboration - Additional Characters Pack | 246641 | [246641-labyrinth-of-zangetsu-akibas-trip-collaboration-additional-characters-pack.json](./246641-labyrinth-of-zangetsu-akibas-trip-collaboration-additional-characters-pack.json) |
 | Labyrinth of Zangetsu: Mind=.0 Collaboration - Additional Characters Pack | 246640 | [246640-labyrinth-of-zangetsu-mind-0-collaboration-additional-characters-pack.json](./246640-labyrinth-of-zangetsu-mind-0-collaboration-additional-characters-pack.json) |
 | Labyrinth Runner | 40218 | [40218-labyrinth-runner.json](./40218-labyrinth-runner.json) |
+| Labyrinth Trailblazer | 370666 | [370666-labyrinth-trailblazer.json](./370666-labyrinth-trailblazer.json) |
 | Labyrinth: Classic Pinball Puzzle | 225884 | [225884-labyrinth-classic-pinball-puzzle.json](./225884-labyrinth-classic-pinball-puzzle.json) |
 | Labyrinthe | 242259 | [242259-labyrinthe.json](./242259-labyrinthe.json) |
 | Labyrinthos: The Depths Want You | 408764 | [408764-labyrinthos-the-depths-want-you.json](./408764-labyrinthos-the-depths-want-you.json) |
