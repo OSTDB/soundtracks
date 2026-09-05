@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe Gunn | 77385 | [77385-joe-gunn.json](./77385-joe-gunn.json) |
 | Joe vs. The Wall | 264308 | [264308-joe-vs-the-wall.json](./264308-joe-vs-the-wall.json) |
 | Joey's Shisha Simulator | 326412 | [326412-joeys-shisha-simulator.json](./326412-joeys-shisha-simulator.json) |
+| Johan | 403561 | [403561-johan.json](./403561-johan.json) |
 | John Madden Football | 295034 | [295034-john-madden-football.json](./295034-john-madden-football.json) |
 | John Madden Football | 295035 | [295035-john-madden-football.json](./295035-john-madden-football.json) |
 | John Wick | 143750 | [143750-john-wick.json](./143750-john-wick.json) |
@@ -263,6 +264,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Josephine and Friends | 204726 | [204726-josephine-and-friends.json](./204726-josephine-and-friends.json) |
 | Joshi Daisei Private | 112341 | [112341-joshi-daisei-private.json](./112341-joshi-daisei-private.json) |
 | Jotun: Valhalla Edition | 14147 | [14147-jotun-valhalla-edition.json](./14147-jotun-valhalla-edition.json) |
+| Jötunnslayer: Hordes of Hel - Conan Edition | 403600 | [403600-jotunnslayer-hordes-of-hel-conan-edition.json](./403600-jotunnslayer-hordes-of-hel-conan-edition.json) |
+| Jötunnslayer: Hordes of Hel - Founders Edition | 403588 | [403588-jotunnslayer-hordes-of-hel-founders-edition.json](./403588-jotunnslayer-hordes-of-hel-founders-edition.json) |
+| Jötunnslayer: Hordes of Hel - Freyr's Gilded Armor Pack | 403596 | [403596-jotunnslayer-hordes-of-hel-freyrs-gilded-armor-pack.json](./403596-jotunnslayer-hordes-of-hel-freyrs-gilded-armor-pack.json) |
+| Jötunnslayer: Hordes of Hel - Heimdal's Bifrost Armor Pack | 403599 | [403599-jotunnslayer-hordes-of-hel-heimdals-bifrost-armor-pack.json](./403599-jotunnslayer-hordes-of-hel-heimdals-bifrost-armor-pack.json) |
+| Jötunnslayer: Hordes of Hel - Odin's Legendary Armor Pack | 403594 | [403594-jotunnslayer-hordes-of-hel-odins-legendary-armor-pack.json](./403594-jotunnslayer-hordes-of-hel-odins-legendary-armor-pack.json) |
+| Jötunnslayer: Hordes of Hel - Tyr's Mythical Armor Pack | 403595 | [403595-jotunnslayer-hordes-of-hel-tyrs-mythical-armor-pack.json](./403595-jotunnslayer-hordes-of-hel-tyrs-mythical-armor-pack.json) |
 | Jouka no Monshou | 274223 | [274223-jouka-no-monshou.json](./274223-jouka-no-monshou.json) |
 | Journalist | 186906 | [186906-journalist.json](./186906-journalist.json) |
 | Journey Escape | 22415 | [22415-journey-escape.json](./22415-journey-escape.json) |
