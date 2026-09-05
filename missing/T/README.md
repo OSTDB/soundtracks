@@ -155,6 +155,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Tempest | 19096 | [19096-tales-of-the-tempest.json](./19096-tales-of-the-tempest.json) |
 | Tales of the Traveling Swordsman | 60026 | [60026-tales-of-the-traveling-swordsman.json](./60026-tales-of-the-traveling-swordsman.json) |
 | Tales of the Underworld: Legends of Primordial Sea | 186337 | [186337-tales-of-the-underworld-legends-of-primordial-sea.json](./186337-tales-of-the-underworld-legends-of-primordial-sea.json) |
+| Tales of the Unknown: Volume I - The Bard's Tale | 394228 | [394228-tales-of-the-unknown-volume-i-the-bards-tale.json](./394228-tales-of-the-unknown-volume-i-the-bards-tale.json) |
+| Tales of the Unknown: Volume I - The Bard's Tale | 394230 | [394230-tales-of-the-unknown-volume-i-the-bards-tale.json](./394230-tales-of-the-unknown-volume-i-the-bards-tale.json) |
+| Tales of the Unknown: Volume I - The Bard's Tale | 394234 | [394234-tales-of-the-unknown-volume-i-the-bards-tale.json](./394234-tales-of-the-unknown-volume-i-the-bards-tale.json) |
 | Tales of The White Knight | 320546 | [320546-tales-of-the-white-knight.json](./320546-tales-of-the-white-knight.json) |
 | Tales of Three Kingdoms: The Mortal World | 277579 | [277579-tales-of-three-kingdoms-the-mortal-world.json](./277579-tales-of-three-kingdoms-the-mortal-world.json) |
 | Tales Of Wedding Rings VR | 110075 | [110075-tales-of-wedding-rings-vr.json](./110075-tales-of-wedding-rings-vr.json) |
@@ -454,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teppen Banchou Take 1: Saikou no Yankee Ikusei Game | 220305 | [220305-teppen-banchou-take-1-saikou-no-yankee-ikusei-game.json](./220305-teppen-banchou-take-1-saikou-no-yankee-ikusei-game.json) |
 | Teppoman | 242819 | [242819-teppoman.json](./242819-teppoman.json) |
 | Tequila & Boom Boom | 77398 | [77398-tequila-and-boom-boom.json](./77398-tequila-and-boom-boom.json) |
+| Teraburst | 394174 | [394174-teraburst.json](./394174-teraburst.json) |
 | Terasene The Light of Her Life | 273102 | [273102-terasene-the-light-of-her-life.json](./273102-terasene-the-light-of-her-life.json) |
 | Terato Tamer | 228713 | [228713-terato-tamer.json](./228713-terato-tamer.json) |
 | Teravit | 167863 | [167863-teravit.json](./167863-teravit.json) |
@@ -649,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bard's Tale IV: Barrows Deep - Ultimate Edition | 102801 | [102801-the-bards-tale-iv-barrows-deep-ultimate-edition.json](./102801-the-bards-tale-iv-barrows-deep-ultimate-edition.json) |
 | The Bard's Tale IV: Director's Cut | 120645 | [120645-the-bards-tale-iv-directors-cut.json](./120645-the-bards-tale-iv-directors-cut.json) |
 | The Bard's Tale IV: Director's Cut - Deluxe Edition | 124816 | [124816-the-bards-tale-iv-directors-cut-deluxe-edition.json](./124816-the-bards-tale-iv-directors-cut-deluxe-edition.json) |
+| The Bard's Tale: Tales of the Unknown | 394232 | [394232-the-bards-tale-tales-of-the-unknown.json](./394232-the-bards-tale-tales-of-the-unknown.json) |
 | The Barkeeper | 332847 | [332847-the-barkeeper.json](./332847-the-barkeeper.json) |
 | The Baseball 2003 | 61401 | [61401-the-baseball-2003.json](./61401-the-baseball-2003.json) |
 | The Bastonnes | 204102 | [204102-the-bastonnes.json](./204102-the-bastonnes.json) |
@@ -1119,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Griffon Legend | 202975 | [202975-the-griffon-legend.json](./202975-the-griffon-legend.json) |
 | The Growth Project | 26614 | [26614-the-growth-project.json](./26614-the-growth-project.json) |
 | The Guardian and the Dreamer | 318801 | [318801-the-guardian-and-the-dreamer.json](./318801-the-guardian-and-the-dreamer.json) |
+| The Guest: Home Alone | 394171 | [394171-the-guest-home-alone.json](./394171-the-guest-home-alone.json) |
 | The Guild 2: Renaissance | 11620 | [11620-the-guild-2-renaissance.json](./11620-the-guild-2-renaissance.json) |
 | The Hacker | 13724 | [13724-the-hacker.json](./13724-the-hacker.json) |
 | The Hamlet | 326991 | [326991-the-hamlet.json](./326991-the-hamlet.json) |
@@ -1820,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spectrum Retreat | 96065 | [96065-the-spectrum-retreat.json](./96065-the-spectrum-retreat.json) |
 | The Speris Legacy | 15565 | [15565-the-speris-legacy.json](./15565-the-speris-legacy.json) |
 | The Spirit's Turnabout | 308532 | [308532-the-spirits-turnabout.json](./308532-the-spirits-turnabout.json) |
+| The Spooky Island | 394167 | [394167-the-spooky-island.json](./394167-the-spooky-island.json) |
 | The Sporting News Baseball | 55154 | [55154-the-sporting-news-baseball.json](./55154-the-sporting-news-baseball.json) |
 | The Sports Daishuugou | 123043 | [123043-the-sports-daishuugou.json](./123043-the-sports-daishuugou.json) |
 | The Square Game | 130377 | [130377-the-square-game.json](./130377-the-square-game.json) |
@@ -2207,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiamat X | 35900 | [35900-tiamat-x.json](./35900-tiamat-x.json) |
 | Tiān Yuán Chuánshuō | 407320 | [407320-tian-yuan-chuanshuo.json](./407320-tian-yuan-chuanshuo.json) |
 | Tiānqì | 167820 | [167820-tianqi.json](./167820-tianqi.json) |
+| Tiānrén zhī Xuè: Ancient Relic | 394213 | [394213-tianren-zhi-xue-ancient-relic.json](./394213-tianren-zhi-xue-ancient-relic.json) |
 | Tiāntiān Tuōlājī | 96041 | [96041-tiantian-tuolaji.json](./96041-tiantian-tuolaji.json) |
 | Tiānxiān Biàn | 156131 | [156131-tianxian-bian.json](./156131-tianxian-bian.json) |
 | Tiara Concerto | 86102 | [86102-tiara-concerto.json](./86102-tiara-concerto.json) |
@@ -3296,6 +3304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukihime: Fool's Errand | 254127 | [254127-tsukihime-fools-errand.json](./254127-tsukihime-fools-errand.json) |
 | Tsukikage no Simulacre: Kaihou no Hane | 120995 | [120995-tsukikage-no-simulacre-kaihou-no-hane.json](./120995-tsukikage-no-simulacre-kaihou-no-hane.json) |
 | Tsukikomori | 37781 | [37781-tsukikomori.json](./37781-tsukikomori.json) |
+| Tsukumo Reiko's Summer Holidays | 394163 | [394163-tsukumo-reikos-summer-holidays.json](./394163-tsukumo-reikos-summer-holidays.json) |
 | Tsukumonogatari | 66115 | [66115-tsukumonogatari.json](./66115-tsukumonogatari.json) |
 | Tsumobaka Nisshi | 299440 | [299440-tsumobaka-nisshi.json](./299440-tsumobaka-nisshi.json) |
 | Tsunagaru Voiro Shooters vs. Space Kedamaki | 204732 | [204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json](./204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json) |
