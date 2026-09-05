@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takamori Puzzle | 264328 | [264328-takamori-puzzle.json](./264328-takamori-puzzle.json) |
 | Take a Little | 238737 | [238737-take-a-little.json](./238737-take-a-little.json) |
 | Take a Seat! | 202961 | [202961-take-a-seat.json](./202961-take-a-seat.json) |
+| Take Care Of The Dog | 402917 | [402917-take-care-of-the-dog.json](./402917-take-care-of-the-dog.json) |
 | Take Care VR | 236507 | [236507-take-care-vr.json](./236507-take-care-vr.json) |
 | Take on Helicopters: Hinds | 166219 | [166219-take-on-helicopters-hinds.json](./166219-take-on-helicopters-hinds.json) |
 | Take Shape | 92488 | [92488-take-shape.json](./92488-take-shape.json) |
@@ -1426,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mask of Zorro | 49965 | [49965-the-mask-of-zorro.json](./49965-the-mask-of-zorro.json) |
 | The Mask: Mayhem | 255333 | [255333-the-mask-mayhem.json](./255333-the-mask-mayhem.json) |
 | The Masked Prisoner | 217000 | [217000-the-masked-prisoner.json](./217000-the-masked-prisoner.json) |
+| The Match Golf | 402918 | [402918-the-match-golf.json](./402918-the-match-golf.json) |
 | The Mating Season | 218141 | [218141-the-mating-season.json](./218141-the-mating-season.json) |
 | The Matriarch | 188686 | [188686-the-matriarch.json](./188686-the-matriarch.json) |
 | The Maze Escaper | 150700 | [150700-the-maze-escaper.json](./150700-the-maze-escaper.json) |
@@ -2431,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Hill | 192940 | [192940-tiny-hill.json](./192940-tiny-hill.json) |
 | Tiny Invaders | 92501 | [92501-tiny-invaders.json](./92501-tiny-invaders.json) |
 | Tiny Little Farm | 304332 | [304332-tiny-little-farm.json](./304332-tiny-little-farm.json) |
+| Tiny Mage in Puzzle Land | 402928 | [402928-tiny-mage-in-puzzle-land.json](./402928-tiny-mage-in-puzzle-land.json) |
 | Tiny Metal: Will of the Shogun | 165045 | [165045-tiny-metal-will-of-the-shogun.json](./165045-tiny-metal-will-of-the-shogun.json) |
 | Tiny Robots Recharged | 167830 | [167830-tiny-robots-recharged.json](./167830-tiny-robots-recharged.json) |
 | Tiny Robots: Portal Escape | 297201 | [297201-tiny-robots-portal-escape.json](./297201-tiny-robots-portal-escape.json) |
@@ -2675,6 +2678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toree's Panic Pack | 308530 | [308530-torees-panic-pack.json](./308530-torees-panic-pack.json) |
 | Toride | 37784 | [37784-toride.json](./37784-toride.json) |
 | Toril | 228700 | [228700-toril.json](./228700-toril.json) |
+| Torima Headbang | 402920 | [402920-torima-headbang.json](./402920-torima-headbang.json) |
 | Torn | 253595 | [253595-torn.json](./253595-torn.json) |
 | Torn | 90106 | [90106-torn.json](./90106-torn.json) |
 | Torn Sails | 27909 | [27909-torn-sails.json](./27909-torn-sails.json) |
