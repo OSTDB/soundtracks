@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food | 18287 | [18287-fast-food.json](./18287-fast-food.json) |
 | Fast Food Crisis | 266523 | [266523-fast-food-crisis.json](./266523-fast-food-crisis.json) |
 | Fast Food Panic | 50631 | [50631-fast-food-panic.json](./50631-fast-food-panic.json) |
+| Fast Food Rage | 386700 | [386700-fast-food-rage.json](./386700-fast-food-rage.json) |
 | Fast Travel: Loot Delivery Service | 117050 | [117050-fast-travel-loot-delivery-service.json](./117050-fast-travel-loot-delivery-service.json) |
 | Faster Harder More Challenging Q*bert | 39671 | [39671-faster-harder-more-challenging-q-bert.json](./39671-faster-harder-more-challenging-q-bert.json) |
 | Fastival | 302123 | [302123-fastival.json](./302123-fastival.json) |
@@ -554,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find All 5: Vikings | 317026 | [317026-find-all-5-vikings.json](./317026-find-all-5-vikings.json) |
 | Find All: Valentine's Day | 388766 | [388766-find-all-valentines-day.json](./388766-find-all-valentines-day.json) |
 | Find HQ: Police Station | 331123 | [331123-find-hq-police-station.json](./331123-find-hq-police-station.json) |
+| Find Kittens 9: Aliens | 386690 | [386690-find-kittens-9-aliens.json](./386690-find-kittens-9-aliens.json) |
 | Find Me A Good One | 128635 | [128635-find-me-a-good-one.json](./128635-find-me-a-good-one.json) |
 | Find Me in the Maze | 214733 | [214733-find-me-in-the-maze.json](./214733-find-me-in-the-maze.json) |
 | Find My Weiner | 292292 | [292292-find-my-weiner.json](./292292-find-my-weiner.json) |
@@ -1082,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport: Porsche 963 Combo | 316395 | [316395-forza-motorsport-porsche-963-combo.json](./316395-forza-motorsport-porsche-963-combo.json) |
 | Forza Motorsport: Premium Add-Ons Bundle | 271472 | [271472-forza-motorsport-premium-add-ons-bundle.json](./271472-forza-motorsport-premium-add-ons-bundle.json) |
 | Fossil Fighters: Frontier | 8609 | [8609-fossil-fighters-frontier.json](./8609-fossil-fighters-frontier.json) |
+| Fossil Quest | 386729 | [386729-fossil-quest.json](./386729-fossil-quest.json) |
 | Fossil Skater | 318214 | [318214-fossil-skater.json](./318214-fossil-skater.json) |
 | Fostering Apocalypse | 153991 | [153991-fostering-apocalypse.json](./153991-fostering-apocalypse.json) |
 | Foto Face: The Face Stealer Strikes | 67286 | [67286-foto-face-the-face-stealer-strikes.json](./67286-foto-face-the-face-stealer-strikes.json) |
