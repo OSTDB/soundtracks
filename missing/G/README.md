@@ -1082,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Wars 2: Heart of Thorns | 13183 | [13183-guild-wars-2-heart-of-thorns.json](./13183-guild-wars-2-heart-of-thorns.json) |
 | Guild Wars 2: Janthir Wilds | 304360 | [304360-guild-wars-2-janthir-wilds.json](./304360-guild-wars-2-janthir-wilds.json) |
 | Guild Wars: Game of the Year Edition | 27842 | [27842-guild-wars-game-of-the-year-edition.json](./27842-guild-wars-game-of-the-year-edition.json) |
+| Guild Wars: Reforged | 380421 | [380421-guild-wars-reforged.json](./380421-guild-wars-reforged.json) |
 | GuildBound | 119791 | [119791-guildbound.json](./119791-guildbound.json) |
 | Guilds n Glory | 213001 | [213001-guilds-n-glory.json](./213001-guilds-n-glory.json) |
 | Guilds of Mountgate | 405523 | [405523-guilds-of-mountgate.json](./405523-guilds-of-mountgate.json) |
