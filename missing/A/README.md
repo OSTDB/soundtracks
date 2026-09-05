@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlienXcape | 322359 | [322359-alienxcape.json](./322359-alienxcape.json) |
 | Aline | 127978 | [127978-aline.json](./127978-aline.json) |
 | Alipache in Wonderworld | 204708 | [204708-alipache-in-wonderworld.json](./204708-alipache-in-wonderworld.json) |
+| Alisha's Sexual Fear | 373529 | [373529-alishas-sexual-fear.json](./373529-alishas-sexual-fear.json) |
 | Alive 4-ever Returns | 94758 | [94758-alive-4-ever-returns.json](./94758-alive-4-ever-returns.json) |
 | Aliya | 278728 | [278728-aliya.json](./278728-aliya.json) |
 | Aliya's Awakening: Dooge 2042 | 341887 | [341887-aliyas-awakening-dooge-2042.json](./341887-aliyas-awakening-dooge-2042.json) |
@@ -1449,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Domains | 114380 | [114380-arcane-domains.json](./114380-arcane-domains.json) |
 | Arcane Path | 339643 | [339643-arcane-path.json](./339643-arcane-path.json) |
 | Arcane Pets: Plushie Empire | 256545 | [256545-arcane-pets-plushie-empire.json](./256545-arcane-pets-plushie-empire.json) |
+| Arcane Plunder | 373538 | [373538-arcane-plunder.json](./373538-arcane-plunder.json) |
 | Arcane Saga Online | 63304 | [63304-arcane-saga-online.json](./63304-arcane-saga-online.json) |
 | Arcane Sorcery | 34548 | [34548-arcane-sorcery.json](./34548-arcane-sorcery.json) |
 | Arcane TD | 307297 | [307297-arcane-td.json](./307297-arcane-td.json) |
@@ -1536,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arizona Rose and the Pharaohs' Riddles | 29870 | [29870-arizona-rose-and-the-pharaohs-riddles.json](./29870-arizona-rose-and-the-pharaohs-riddles.json) |
 | Ark Odyssey | 319366 | [319366-ark-odyssey.json](./319366-ark-odyssey.json) |
 | Ark of Artemis | 148564 | [148564-ark-of-artemis.json](./148564-ark-of-artemis.json) |
+| Ark of Isolation | 373550 | [373550-ark-of-isolation.json](./373550-ark-of-isolation.json) |
 | Ark: Extinction | 103515 | [103515-ark-extinction.json](./103515-ark-extinction.json) |
 | Ark: Fantastic Tames - Pyromane | 304377 | [304377-ark-fantastic-tames-pyromane.json](./304377-ark-fantastic-tames-pyromane.json) |
 | Ark: Scorched Earth | 103514 | [103514-ark-scorched-earth.json](./103514-ark-scorched-earth.json) |
