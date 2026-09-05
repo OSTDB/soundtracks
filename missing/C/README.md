@@ -562,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase: Hollywood Stunt Driver | 5774 | [5774-chase-hollywood-stunt-driver.json](./5774-chase-hollywood-stunt-driver.json) |
 | Chased Around the World | 211963 | [211963-chased-around-the-world.json](./211963-chased-around-the-world.json) |
 | Chasing the wind | 150697 | [150697-chasing-the-wind.json](./150697-chasing-the-wind.json) |
+| Château Pluie: The New Cellar Keeper | 412309 | [412309-chateau-pluie-the-new-cellar-keeper.json](./412309-chateau-pluie-the-new-cellar-keeper.json) |
 | ChatTDT: Tower Defense Twitch | 306678 | [306678-chattdt-tower-defense-twitch.json](./306678-chattdt-tower-defense-twitch.json) |
 | Cheap Game 3 | 153984 | [153984-cheap-game-3.json](./153984-cheap-game-3.json) |
 | Check it Out! | 196918 | [196918-check-it-out.json](./196918-check-it-out.json) |
@@ -1393,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Consensus | 68045 | [68045-cosmic-consensus.json](./68045-cosmic-consensus.json) |
 | Cosmic Cruiser | 210871 | [210871-cosmic-cruiser.json](./210871-cosmic-cruiser.json) |
 | Cosmic Cruncher | 59448 | [59448-cosmic-cruncher.json](./59448-cosmic-cruncher.json) |
+| Cosmic Distortion | 412281 | [412281-cosmic-distortion.json](./412281-cosmic-distortion.json) |
 | Cosmic DJ | 14400 | [14400-cosmic-dj.json](./14400-cosmic-dj.json) |
 | Cosmic Epsilon | 48689 | [48689-cosmic-epsilon.json](./48689-cosmic-epsilon.json) |
 | Cosmic Express | 27328 | [27328-cosmic-express.json](./27328-cosmic-express.json) |
@@ -1654,6 +1656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Point | 337490 | [337490-critical-point.json](./337490-critical-point.json) |
 | Critter Caboodle | 333910 | [333910-critter-caboodle.json](./333910-critter-caboodle.json) |
 | Critter Crush - Hunting Game | 89282 | [89282-critter-crush-hunting-game.json](./89282-critter-crush-hunting-game.json) |
+| Critter Loop | 412267 | [412267-critter-loop.json](./412267-critter-loop.json) |
 | Croc's World | 87410 | [87410-crocs-world.json](./87410-crocs-world.json) |
 | Crocro Adventure | 96341 | [96341-crocro-adventure.json](./96341-crocro-adventure.json) |
 | Cronostase Electric Collection | 225899 | [225899-cronostase-electric-collection.json](./225899-cronostase-electric-collection.json) |
@@ -1682,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossword Dungeon | 208017 | [208017-crossword-dungeon.json](./208017-crossword-dungeon.json) |
 | Crowd Medieval City War | 236522 | [236522-crowd-medieval-city-war.json](./236522-crowd-medieval-city-war.json) |
 | Crown Champion: Legends of the Arena | 31349 | [31349-crown-champion-legends-of-the-arena.json](./31349-crown-champion-legends-of-the-arena.json) |
+| Crown Chase | 412268 | [412268-crown-chase.json](./412268-crown-chase.json) |
 | Crown Claimer | 187528 | [187528-crown-claimer.json](./187528-crown-claimer.json) |
 | Crown of Arthain | 129812 | [129812-crown-of-arthain.json](./129812-crown-of-arthain.json) |
 | Crown Solitaire: Card Game | 96714 | [96714-crown-solitaire-card-game.json](./96714-crown-solitaire-card-game.json) |
@@ -1785,6 +1789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Rush | 112340 | [112340-cube-rush.json](./112340-cube-rush.json) |
 | Cube Way | 75902 | [75902-cube-way.json](./75902-cube-way.json) |
 | Cube World | 195215 | [195215-cube-world.json](./195215-cube-world.json) |
+| CubeCaust | 412300 | [412300-cubecaust.json](./412300-cubecaust.json) |
 | Cubed | 120996 | [120996-cubed.json](./120996-cubed.json) |
 | CubeDood in the Memory Snatcher | 239336 | [239336-cubedood-in-the-memory-snatcher.json](./239336-cubedood-in-the-memory-snatcher.json) |
 | Cubeism 2: Baroque Edition | 218149 | [218149-cubeism-2-baroque-edition.json](./218149-cubeism-2-baroque-edition.json) |
