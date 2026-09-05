@@ -1632,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers 7: Paths to a Kingdom - Gold Edition | 27863 | [27863-the-settlers-7-paths-to-a-kingdom-gold-edition.json](./27863-the-settlers-7-paths-to-a-kingdom-gold-edition.json) |
 | The Settlers 7: Paths to a Kingdom - The Two Kings | 225911 | [225911-the-settlers-7-paths-to-a-kingdom-the-two-kings.json](./225911-the-settlers-7-paths-to-a-kingdom-the-two-kings.json) |
 | The Settlers III: Quest of the Amazons | 11334 | [11334-the-settlers-iii-quest-of-the-amazons.json](./11334-the-settlers-iii-quest-of-the-amazons.json) |
+| The Settlers IV: The Trojans and the Elixir of Power | 21858 | [21858-the-settlers-iv-the-trojans-and-the-elixir-of-power.json](./21858-the-settlers-iv-the-trojans-and-the-elixir-of-power.json) |
 | The Settlers: History Edition | 107232 | [107232-the-settlers-history-edition.json](./107232-the-settlers-history-edition.json) |
 | The Seven Cities of Gold | 8994 | [8994-the-seven-cities-of-gold.json](./8994-the-seven-cities-of-gold.json) |
 | The seven deadly seas | 122396 | [122396-the-seven-deadly-seas.json](./122396-the-seven-deadly-seas.json) |
@@ -2397,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Dust | 259824 | [259824-to-dust.json](./259824-to-dust.json) |
 | To Hell in a Hamper | 60019 | [60019-to-hell-in-a-hamper.json](./60019-to-hell-in-a-hamper.json) |
 | To Light: Ex Umbra | 102370 | [102370-to-light-ex-umbra.json](./102370-to-light-ex-umbra.json) |
+| To the Capital | 24476 | [24476-to-the-capital.json](./24476-to-the-capital.json) |
 | To the City of the Clouds | 83597 | [83597-to-the-city-of-the-clouds.json](./83597-to-the-city-of-the-clouds.json) |
 | To the Crown | 182530 | [182530-to-the-crown.json](./182530-to-the-crown.json) |
 | To The Dark Tower | 119006 | [119006-to-the-dark-tower.json](./119006-to-the-dark-tower.json) |
@@ -3077,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trolley Folly | 248327 | [248327-trolley-folly.json](./248327-trolley-folly.json) |
 | Trollface Launch | 234908 | [234908-trollface-launch.json](./234908-trollface-launch.json) |
 | Trolls Remix Rescue | 261537 | [261537-trolls-remix-rescue.json](./261537-trolls-remix-rescue.json) |
+| Trollskog | 24834 | [24834-trollskog.json](./24834-trollskog.json) |
 | Trollz: Hair Affair! | 49375 | [49375-trollz-hair-affair.json](./49375-trollz-hair-affair.json) |
 | Trombone Champ | 149821 | [149821-trombone-champ.json](./149821-trombone-champ.json) |
 | Tron | 89933 | [89933-tron.json](./89933-tron.json) |
