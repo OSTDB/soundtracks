@@ -716,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destruction of Planets | 193498 | [193498-destruction-of-planets.json](./193498-destruction-of-planets.json) |
 | Detail Hunter | 322982 | [322982-detail-hunter.json](./322982-detail-hunter.json) |
 | Detect Occult | 183064 | [183064-detect-occult.json](./183064-detect-occult.json) |
+| Detective Boto: Belle Memoir | 410934 | [410934-detective-boto-belle-memoir.json](./410934-detective-boto-belle-memoir.json) |
 | Detective Conan Skateboard Run: Kaitou Kid to Shinpi no Hihou | 115712 | [115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json](./115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json) |
 | Detective Conan: Kigantou Hihou Densetsu | 50561 | [50561-detective-conan-kigantou-hihou-densetsu.json](./50561-detective-conan-kigantou-hihou-densetsu.json) |
 | Detective Corgi and the Mysterious Mansion | 179753 | [179753-detective-corgi-and-the-mysterious-mansion.json](./179753-detective-corgi-and-the-mysterious-mansion.json) |
@@ -1147,6 +1148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolls: The Hunt | 310205 | [310205-dolls-the-hunt.json](./310205-dolls-the-hunt.json) |
 | Dolmenjord | 217519 | [217519-dolmenjord.json](./217519-dolmenjord.json) |
 | Dolphin Hustle | 200172 | [200172-dolphin-hustle.json](./200172-dolphin-hustle.json) |
+| Domefender | 410927 | [410927-domefender.json](./410927-domefender.json) |
 | DomiCard | 107904 | [107904-domicard.json](./107904-domicard.json) |
 | Dominance | 116371 | [116371-dominance.json](./116371-dominance.json) |
 | Dominate: Board Game | 147971 | [147971-dominate-board-game.json](./147971-dominate-board-game.json) |
@@ -1714,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Arena: Class Gnome | 167847 | [167847-dungeon-arena-class-gnome.json](./167847-dungeon-arena-class-gnome.json) |
 | Dungeon Arena: Class Ninja | 167845 | [167845-dungeon-arena-class-ninja.json](./167845-dungeon-arena-class-ninja.json) |
 | Dungeon Avenger | 180272 | [180272-dungeon-avenger.json](./180272-dungeon-avenger.json) |
+| Dungeon Betwixt | 410933 | [410933-dungeon-betwixt.json](./410933-dungeon-betwixt.json) |
 | Dungeon Blocks | 192429 | [192429-dungeon-blocks.json](./192429-dungeon-blocks.json) |
 | Dungeon Board | 311800 | [311800-dungeon-board.json](./311800-dungeon-board.json) |
 | Dungeon Color | 190226 | [190226-dungeon-color.json](./190226-dungeon-color.json) |
