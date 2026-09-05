@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterlife: Rickard's Quest | 306641 | [306641-afterlife-rickards-quest.json](./306641-afterlife-rickards-quest.json) |
 | Aftermath | 183600 | [183600-aftermath.json](./183600-aftermath.json) |
 | Aftermoon | 63880 | [63880-aftermoon.json](./63880-aftermoon.json) |
+| Afternoon Frontline | 414319 | [414319-afternoon-frontline.json](./414319-afternoon-frontline.json) |
 | Afterslave | 210857 | [210857-afterslave.json](./210857-afterslave.json) |
 | Aftertime | 211420 | [211420-aftertime.json](./211420-aftertime.json) |
 | AfterZoom | 84884 | [84884-afterzoom.json](./84884-afterzoom.json) |
@@ -1663,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra Protocol 2: Audio Pack | 309660 | [309660-astra-protocol-2-audio-pack.json](./309660-astra-protocol-2-audio-pack.json) |
 | Astra: Fading Stars | 143124 | [143124-astra-fading-stars.json](./143124-astra-fading-stars.json) |
 | Astral Domine | 33078 | [33078-astral-domine.json](./33078-astral-domine.json) |
+| Astral Sever | 414337 | [414337-astral-sever.json](./414337-astral-sever.json) |
 | Astral Traveler | 51973 | [51973-astral-traveler.json](./51973-astral-traveler.json) |
 | AstralAir no Shiroki Towa Finale: Shiroki Hoshi no Yume | 137105 | [137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json](./137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json) |
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
