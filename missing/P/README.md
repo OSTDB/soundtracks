@@ -963,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague Masters | 154012 | [154012-plague-masters.json](./154012-plague-masters.json) |
 | Plagueworld: Expansion Pack | 167316 | [167316-plagueworld-expansion-pack.json](./167316-plagueworld-expansion-pack.json) |
 | Plain Sight | 8585 | [8585-plain-sight.json](./8585-plain-sight.json) |
+| Plain Song | 368501 | [368501-plain-song.json](./368501-plain-song.json) |
 | Plain Tic Tac Toe | 89281 | [89281-plain-tic-tac-toe.json](./89281-plain-tic-tac-toe.json) |
 | Planarity | 246117 | [246117-planarity.json](./246117-planarity.json) |
 | Plane and Simple | 143108 | [143108-plane-and-simple.json](./143108-plane-and-simple.json) |
