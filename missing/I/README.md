@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Outpost | 302674 | [302674-idle-outpost.json](./302674-idle-outpost.json) |
 | Idle Portal Guardian | 118372 | [118372-idle-portal-guardian.json](./118372-idle-portal-guardian.json) |
 | Idle Quest Giver | 247210 | [247210-idle-quest-giver.json](./247210-idle-quest-giver.json) |
+| Idle Regenerator | 408041 | [408041-idle-regenerator.json](./408041-idle-regenerator.json) |
 | Idle Roboto | 152888 | [152888-idle-roboto.json](./152888-idle-roboto.json) |
 | Idle Saga | 318215 | [318215-idle-saga.json](./318215-idle-saga.json) |
 | Idle Slayer | 139040 | [139040-idle-slayer.json](./139040-idle-slayer.json) |
