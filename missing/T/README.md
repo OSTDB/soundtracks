@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Three Kingdoms: The Mortal World | 277579 | [277579-tales-of-three-kingdoms-the-mortal-world.json](./277579-tales-of-three-kingdoms-the-mortal-world.json) |
 | Tales Of Wedding Rings VR | 110075 | [110075-tales-of-wedding-rings-vr.json](./110075-tales-of-wedding-rings-vr.json) |
 | Tales of Wild | 152376 | [152376-tales-of-wild.json](./152376-tales-of-wild.json) |
+| Tales of Xillia Remastered: Super Growth Support Herb Set | 375173 | [375173-tales-of-xillia-remastered-super-growth-support-herb-set.json](./375173-tales-of-xillia-remastered-super-growth-support-herb-set.json) |
 | TaleSpire: Guest Edition | 316393 | [316393-talespire-guest-edition.json](./316393-talespire-guest-edition.json) |
 | Talesshop Puzzle: Jugeobeorin Byeorui Neokduri Deussi | 167859 | [167859-talesshop-puzzle-jugeobeorin-byeorui-neokduri-deussi.json](./167859-talesshop-puzzle-jugeobeorin-byeorui-neokduri-deussi.json) |
 | Talesshop Puzzle: Jugeobeorin Byeorui Neokduri Dummy | 167858 | [167858-talesshop-puzzle-jugeobeorin-byeorui-neokduri-dummy.json](./167858-talesshop-puzzle-jugeobeorin-byeorui-neokduri-dummy.json) |
@@ -2315,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic-Tac-Tanks | 195214 | [195214-tic-tac-tanks.json](./195214-tic-tac-tanks.json) |
 | Tic-Toc-Tower: Teslagrad | 171063 | [171063-tic-toc-tower-teslagrad.json](./171063-tic-toc-tower-teslagrad.json) |
 | TIC's Revenge | 332243 | [332243-tics-revenge.json](./332243-tics-revenge.json) |
+| Ticket to Ride: Winter | 375176 | [375176-ticket-to-ride-winter.json](./375176-ticket-to-ride-winter.json) |
 | Tidal Towns | 341863 | [341863-tidal-towns.json](./341863-tidal-towns.json) |
 | Tidal Tribe | 116582 | [116582-tidal-tribe.json](./116582-tidal-tribe.json) |
 | Tide of Thieves | 216501 | [216501-tide-of-thieves.json](./216501-tide-of-thieves.json) |
@@ -3582,6 +3584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Peas in a pod | 183055 | [183055-two-peas-in-a-pod.json](./183055-two-peas-in-a-pod.json) |
 | Two Point Campus: Enrollment Edition | 188643 | [188643-two-point-campus-enrollment-edition.json](./188643-two-point-campus-enrollment-edition.json) |
 | Two Point Hospital and Two Point Campus Double Pack | 223155 | [223155-two-point-hospital-and-two-point-campus-double-pack.json](./223155-two-point-hospital-and-two-point-campus-double-pack.json) |
+| Two Point Museum: Sonic Pre-order Pack | 375175 | [375175-two-point-museum-sonic-pre-order-pack.json](./375175-two-point-museum-sonic-pre-order-pack.json) |
 | Two Worlds | 177549 | [177549-two-worlds.json](./177549-two-worlds.json) |
 | Two Worlds Connected | 181359 | [181359-two-worlds-connected.json](./181359-two-worlds-connected.json) |
 | Two Worlds II Castle Defense | 28986 | [28986-two-worlds-ii-castle-defense.json](./28986-two-worlds-ii-castle-defense.json) |
