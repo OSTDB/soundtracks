@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zgr3d | 241657 | [241657-zgr3d.json](./241657-zgr3d.json) |
 | Zhèngzōng Taiwan Shíliù Zhāng Mahjong | 149591 | [149591-zhengzong-taiwan-shiliu-zhang-mahjong.json](./149591-zhengzong-taiwan-shiliu-zhang-mahjong.json) |
 | Zhi Huan Wang: Shou Bu Qu | 321765 | [321765-zhi-huan-wang-shou-bu-qu.json](./321765-zhi-huan-wang-shou-bu-qu.json) |
+| Zhījiāng Xiǎozhèn | 369570 | [369570-zhijiang-xiaozhen.json](./369570-zhijiang-xiaozhen.json) |
 | Zhmyshenko Valery Albertovich | 99018 | [99018-zhmyshenko-valery-albertovich.json](./99018-zhmyshenko-valery-albertovich.json) |
 | Zhombre, the Undead Hombre | 23878 | [23878-zhombre-the-undead-hombre.json](./23878-zhombre-the-undead-hombre.json) |
 | Zhōnghuá Fùjiǎ Sānguó | 161903 | [161903-zhonghua-fujia-sanguo.json](./161903-zhonghua-fujia-sanguo.json) |
@@ -245,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZRoll | 33118 | [33118-zroll.json](./33118-zroll.json) |
 | Zueirama | 110641 | [110641-zueirama.json](./110641-zueirama.json) |
 | Zug in Sicht | 383972 | [383972-zug-in-sicht.json](./383972-zug-in-sicht.json) |
+| Zuma Girls | 369564 | [369564-zuma-girls.json](./369564-zuma-girls.json) |
 | Zumba Fitness 2 | 5306 | [5306-zumba-fitness-2.json](./5306-zumba-fitness-2.json) |
 | Zumba Kids | 5309 | [5309-zumba-kids.json](./5309-zumba-kids.json) |
 | Zumble Ocean | 415938 | [415938-zumble-ocean.json](./415938-zumble-ocean.json) |
