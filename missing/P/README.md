@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pallas of Vines | 129762 | [129762-pallas-of-vines.json](./129762-pallas-of-vines.json) |
 | Palm Reading Premium | 111056 | [111056-palm-reading-premium.json](./111056-palm-reading-premium.json) |
 | Palm Tetris | 250599 | [250599-palm-tetris.json](./250599-palm-tetris.json) |
+| Palmon: Survival | 369018 | [369018-palmon-survival.json](./369018-palmon-survival.json) |
 | Palmyra Orphanage | 120719 | [120719-palmyra-orphanage.json](./120719-palmyra-orphanage.json) |
 | PalWar | 371275 | [371275-palwar.json](./371275-palwar.json) |
 | Pam's HarvestCraft | 232682 | [232682-pams-harvestcraft.json](./232682-pams-harvestcraft.json) |
@@ -639,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photon Flux | 68703 | [68703-photon-flux.json](./68703-photon-flux.json) |
 | Photopia | 9513 | [9513-photopia.json](./9513-photopia.json) |
 | Phraze Craze | 307911 | [307911-phraze-craze.json](./307911-phraze-craze.json) |
+| Phucker in the Ashes | 369019 | [369019-phucker-in-the-ashes.json](./369019-phucker-in-the-ashes.json) |
 | Phy Lab | 410210 | [410210-phy-lab.json](./410210-phy-lab.json) |
 | Phyrexia | 208055 | [208055-phyrexia.json](./208055-phyrexia.json) |
 | Physical Spheres | 305519 | [305519-physical-spheres.json](./305519-physical-spheres.json) |
@@ -1831,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push the Sheep | 193463 | [193463-push-the-sheep.json](./193463-push-the-sheep.json) |
 | Push the square | 375846 | [375846-push-the-square.json](./375846-push-the-square.json) |
 | Push The Squares | 262076 | [262076-push-the-squares.json](./262076-push-the-squares.json) |
+| Pushed a 'Bot! | 369026 | [369026-pushed-a-bot.json](./369026-pushed-a-bot.json) |
 | Pussies Wrestling Dicks | 211928 | [211928-pussies-wrestling-dicks.json](./211928-pussies-wrestling-dicks.json) |
 | Puszka Pandory | 93586 | [93586-puszka-pandory.json](./93586-puszka-pandory.json) |
 | Put the Fries in the Bag | 335692 | [335692-put-the-fries-in-the-bag.json](./335692-put-the-fries-in-the-bag.json) |
