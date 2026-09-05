@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana Khemia: Alchemists of Al-Revis - Premium Edition | 43308 | [43308-mana-khemia-alchemists-of-al-revis-premium-edition.json](./43308-mana-khemia-alchemists-of-al-revis-premium-edition.json) |
 | Mana Spark: Forgotten Crypts | 238187 | [238187-mana-spark-forgotten-crypts.json](./238187-mana-spark-forgotten-crypts.json) |
 | Mana's Manual | 248884 | [248884-manas-manual.json](./248884-manas-manual.json) |
+| Management in Space | 400849 | [400849-management-in-space.json](./400849-management-in-space.json) |
 | Manatee | 311249 | [311249-manatee.json](./311249-manatee.json) |
 | Manchester United Club Football | 52013 | [52013-manchester-united-club-football.json](./52013-manchester-united-club-football.json) |
 | Mandela Effect Brain Test | 306694 | [306694-mandela-effect-brain-test.json](./306694-mandela-effect-brain-test.json) |
@@ -888,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Messticulous | 319935 | [319935-messticulous.json](./319935-messticulous.json) |
 | Messy Desktop 98 | 184614 | [184614-messy-desktop-98.json](./184614-messy-desktop-98.json) |
 | Messy Up | 263771 | [263771-messy-up.json](./263771-messy-up.json) |
+| Mesudoku | 400866 | [400866-mesudoku.json](./400866-mesudoku.json) |
 | Meta Fox | 39689 | [39689-meta-fox.json](./39689-meta-fox.json) |
 | Metaball: Guitar Man Pack | 293416 | [293416-metaball-guitar-man-pack.json](./293416-metaball-guitar-man-pack.json) |
 | Metaball: Kung Fu Pack | 293417 | [293417-metaball-kung-fu-pack.json](./293417-metaball-kung-fu-pack.json) |
