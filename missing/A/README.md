@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acre Crisis | 301594 | [301594-acre-crisis.json](./301594-acre-crisis.json) |
 | Acron: Attack of the Squirrels! | 119335 | [119335-acron-attack-of-the-squirrels.json](./119335-acron-attack-of-the-squirrels.json) |
 | Acrophile | 221403 | [221403-acrophile.json](./221403-acrophile.json) |
+| Across Crime | 413637 | [413637-across-crime.json](./413637-across-crime.json) |
 | Across the River | 334487 | [334487-across-the-river.json](./334487-across-the-river.json) |
 | Across the Valley | 230504 | [230504-across-the-valley.json](./230504-across-the-valley.json) |
 | Across the Wilds | 238739 | [238739-across-the-wilds.json](./238739-across-the-wilds.json) |
@@ -1133,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Agent | 249084 | [249084-anomaly-agent.json](./249084-anomaly-agent.json) |
 | Anomaly Exit | 290720 | [290720-anomaly-exit.json](./290720-anomaly-exit.json) |
 | Anomaly Patroller | 325240 | [325240-anomaly-patroller.json](./325240-anomaly-patroller.json) |
+| Anomaly Tunnel | 413595 | [413595-anomaly-tunnel.json](./413595-anomaly-tunnel.json) |
 | Anomaly: Warzone Earth | 8758 | [8758-anomaly-warzone-earth.json](./8758-anomaly-warzone-earth.json) |
 | Anonono. Kimi to Sugoshita Ano Hi Ano Toki Ano Mirai | 314654 | [314654-anonono-kimi-to-sugoshita-ano-hi-ano-toki-ano-mirai.json](./314654-anonono-kimi-to-sugoshita-ano-hi-ano-toki-ano-mirai.json) |
 | Anonymous ME | 68670 | [68670-anonymous-me.json](./68670-anonymous-me.json) |
