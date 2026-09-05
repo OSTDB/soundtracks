@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
 | Galactic Attack | 81439 | [81439-galactic-attack.json](./81439-galactic-attack.json) |
 | Galactic Blasters D2: Brilliant Supernova | 265931 | [265931-galactic-blasters-d2-brilliant-supernova.json](./265931-galactic-blasters-d2-brilliant-supernova.json) |
+| Galactic Bounty | 406684 | [406684-galactic-bounty.json](./406684-galactic-bounty.json) |
 | Galactic Center VR | 131610 | [131610-galactic-center-vr.json](./131610-galactic-center-vr.json) |
 | Galactic Civilizations III: Rise of the Terrans | 19610 | [19610-galactic-civilizations-iii-rise-of-the-terrans.json](./19610-galactic-civilizations-iii-rise-of-the-terrans.json) |
 | Galactic Civilizations IV: Tales of Centauron | 277000 | [277000-galactic-civilizations-iv-tales-of-centauron.json](./277000-galactic-civilizations-iv-tales-of-centauron.json) |
@@ -563,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of War Trilogy | 44653 | [44653-god-of-war-trilogy.json](./44653-god-of-war-trilogy.json) |
 | God of War: Ascension - Special Edition | 44664 | [44664-god-of-war-ascension-special-edition.json](./44664-god-of-war-ascension-special-edition.json) |
 | God Pill | 217515 | [217515-god-pill.json](./217515-god-pill.json) |
+| God, Save the Queens! | 406682 | [406682-god-save-the-queens.json](./406682-god-save-the-queens.json) |
 | God: The Game | 264872 | [264872-god-the-game.json](./264872-god-the-game.json) |
 | God's Trigger: O.M.G. Edition | 154548 | [154548-gods-trigger-o-m-g-edition.json](./154548-gods-trigger-o-m-g-edition.json) |
 | Godbeast Mk.II | 191219 | [191219-godbeast-mk-ii.json](./191219-godbeast-mk-ii.json) |
@@ -661,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goliath | 410260 | [410260-goliath.json](./410260-goliath.json) |
 | Goliath: Playing With Reality | 219802 | [219802-goliath-playing-with-reality.json](./219802-goliath-playing-with-reality.json) |
 | Golly! Ghosts! Goal! | 242776 | [242776-golly-ghosts-goal.json](./242776-golly-ghosts-goal.json) |
+| Golod | 406677 | [406677-golod.json](./406677-golod.json) |
 | Goman: Stuck in the Avici Hell | 214184 | [214184-goman-stuck-in-the-avici-hell.json](./214184-goman-stuck-in-the-avici-hell.json) |
 | Gombo | 277616 | [277616-gombo.json](./277616-gombo.json) |
 | Gomenne Angel: Yokohama Monogatari | 271463 | [271463-gomenne-angel-yokohama-monogatari.json](./271463-gomenne-angel-yokohama-monogatari.json) |
