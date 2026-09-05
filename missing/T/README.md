@@ -790,6 +790,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crazed Chicken | 71000 | [71000-the-crazed-chicken.json](./71000-the-crazed-chicken.json) |
 | The Creature Zone VR: Nightfall | 259834 | [259834-the-creature-zone-vr-nightfall.json](./259834-the-creature-zone-vr-nightfall.json) |
 | The Creature: Escape Room | 207538 | [207538-the-creature-escape-room.json](./207538-the-creature-escape-room.json) |
+| The Crew: Motorfest - Dodge Pack | 408787 | [408787-the-crew-motorfest-dodge-pack.json](./408787-the-crew-motorfest-dodge-pack.json) |
+| The Crew: Motorfest - Drift Pack | 408788 | [408788-the-crew-motorfest-drift-pack.json](./408788-the-crew-motorfest-drift-pack.json) |
 | The Crew: Motorfest - Year 2 Pass | 335098 | [335098-the-crew-motorfest-year-2-pass.json](./335098-the-crew-motorfest-year-2-pass.json) |
 | The Crew: Wild Run Edition | 166227 | [166227-the-crew-wild-run-edition.json](./166227-the-crew-wild-run-edition.json) |
 | The Crimson Crown | 15532 | [15532-the-crimson-crown.json](./15532-the-crimson-crown.json) |
@@ -970,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fidelio Incident | 36707 | [36707-the-fidelio-incident.json](./36707-the-fidelio-incident.json) |
 | The Fiend's Tavern | 104077 | [104077-the-fiends-tavern.json](./104077-the-fiends-tavern.json) |
 | The Fifth Paradox | 232710 | [232710-the-fifth-paradox.json](./232710-the-fifth-paradox.json) |
+| The Final Ascent | 408826 | [408826-the-final-ascent.json](./408826-the-final-ascent.json) |
 | The Final Earth 2 | 126651 | [126651-the-final-earth-2.json](./126651-the-final-earth-2.json) |
 | The Final Heist | 184640 | [184640-the-final-heist.json](./184640-the-final-heist.json) |
 | The Final Station | 16136 | [16136-the-final-station.json](./16136-the-final-station.json) |
@@ -980,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fire Rises | 321742 | [321742-the-fire-rises.json](./321742-the-fire-rises.json) |
 | The First Berserker: Khazan - Deluxe Edition | 338028 | [338028-the-first-berserker-khazan-deluxe-edition.json](./338028-the-first-berserker-khazan-deluxe-edition.json) |
 | The First Berserker: Khazan - Deluxe Edition Upgrade | 338029 | [338029-the-first-berserker-khazan-deluxe-edition-upgrade.json](./338029-the-first-berserker-khazan-deluxe-edition-upgrade.json) |
+| The First Descendant: Season 4 | 408829 | [408829-the-first-descendant-season-4.json](./408829-the-first-descendant-season-4.json) |
 | The First Funky Fighter | 63295 | [63295-the-first-funky-fighter.json](./63295-the-first-funky-fighter.json) |
 | The First Present | 278675 | [278675-the-first-present.json](./278675-the-first-present.json) |
 | The First Templar: Special Edition | 154539 | [154539-the-first-templar-special-edition.json](./154539-the-first-templar-special-edition.json) |
@@ -1027,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life 2: El Dorado | 256002 | [256002-the-game-of-life-2-el-dorado.json](./256002-the-game-of-life-2-el-dorado.json) |
 | The Game of Life 2: Fairytale Kingdom World | 171608 | [171608-the-game-of-life-2-fairytale-kingdom-world.json](./171608-the-game-of-life-2-fairytale-kingdom-world.json) |
 | The Game of Life 2: Sandy Shores World | 171592 | [171592-the-game-of-life-2-sandy-shores-world.json](./171592-the-game-of-life-2-sandy-shores-world.json) |
+| The Game That Takes Place on a Cruise Ship | 408818 | [408818-the-game-that-takes-place-on-a-cruise-ship.json](./408818-the-game-that-takes-place-on-a-cruise-ship.json) |
 | The Gannet | 202968 | [202968-the-gannet.json](./202968-the-gannet.json) |
 | The Gene Machine | 19672 | [19672-the-gene-machine.json](./19672-the-gene-machine.json) |
 | The General | 174369 | [174369-the-general.json](./174369-the-general.json) |
@@ -1595,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Forest | 267674 | [267674-the-red-forest.json](./267674-the-red-forest.json) |
 | The Red Hood | 193482 | [193482-the-red-hood.json](./193482-the-red-hood.json) |
 | The Red Moon | 105320 | [105320-the-red-moon.json](./105320-the-red-moon.json) |
+| The Red One: Occultation | 408734 | [408734-the-red-one-occultation.json](./408734-the-red-one-occultation.json) |
 | The Red Sun | 252396 | [252396-the-red-sun.json](./252396-the-red-sun.json) |
 | The Red Sun Sets Over the Fields of Grain | 237618 | [237618-the-red-sun-sets-over-the-fields-of-grain.json](./237618-the-red-sun-sets-over-the-fields-of-grain.json) |
 | The Reggae Operation | 188119 | [188119-the-reggae-operation.json](./188119-the-reggae-operation.json) |
@@ -1765,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sticky Plan | 183577 | [183577-the-sticky-plan.json](./183577-the-sticky-plan.json) |
 | The Sting! | 11851 | [11851-the-sting.json](./11851-the-sting.json) |
 | The Stone of God | 165659 | [165659-the-stone-of-god.json](./165659-the-stone-of-god.json) |
+| The Stone Ship | 408790 | [408790-the-stone-ship.json](./408790-the-stone-ship.json) |
 | The Stories of Scheherazade | 112327 | [112327-the-stories-of-scheherazade.json](./112327-the-stories-of-scheherazade.json) |
 | The Story of King Aress | 125464 | [125464-the-story-of-king-aress.json](./125464-the-story-of-king-aress.json) |
 | The StoryTeller | 324670 | [324670-the-storyteller.json](./324670-the-storyteller.json) |
@@ -2471,6 +2478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Paper Simulator | 248890 | [248890-toilet-paper-simulator.json](./248890-toilet-paper-simulator.json) |
 | Toilet Run | 110488 | [110488-toilet-run.json](./110488-toilet-run.json) |
 | Tok 2 | 116338 | [116338-tok-2.json](./116338-tok-2.json) |
+| Toki no Ihoujin | 408767 | [408767-toki-no-ihoujin.json](./408767-toki-no-ihoujin.json) |
 | Toki Tori 2 | 2351 | [2351-toki-tori-2.json](./2351-toki-tori-2.json) |
 | Tokimeki Memorial Girl's Side | 72670 | [72670-tokimeki-memorial-girls-side.json](./72670-tokimeki-memorial-girls-side.json) |
 | Tokimeki Memorial Girl's Side Triple Pack | 109045 | [109045-tokimeki-memorial-girls-side-triple-pack.json](./109045-tokimeki-memorial-girls-side-triple-pack.json) |
