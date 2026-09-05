@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoed Realms | 295000 | [295000-echoed-realms.json](./295000-echoed-realms.json) |
 | Echoes from the Abyss | 309135 | [309135-echoes-from-the-abyss.json](./309135-echoes-from-the-abyss.json) |
 | Echoes of a Turnabout: Franziska von Karma | 318768 | [318768-echoes-of-a-turnabout-franziska-von-karma.json](./318768-echoes-of-a-turnabout-franziska-von-karma.json) |
+| Echoes of Aincrad: Special Edition | 409589 | [409589-echoes-of-aincrad-special-edition.json](./409589-echoes-of-aincrad-special-edition.json) |
 | Echoes of Forgotten Dreams | 340234 | [340234-echoes-of-forgotten-dreams.json](./340234-echoes-of-forgotten-dreams.json) |
 | Echoes of Magic | 194024 | [194024-echoes-of-magic.json](./194024-echoes-of-magic.json) |
 | Echoes of the Fey: The Last Sacrament | 102346 | [102346-echoes-of-the-fey-the-last-sacrament.json](./102346-echoes-of-the-fey-the-last-sacrament.json) |
