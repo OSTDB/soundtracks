@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapper: Defuse the Bomb Simulator | 118439 | [118439-sapper-defuse-the-bomb-simulator.json](./118439-sapper-defuse-the-bomb-simulator.json) |
 | Saraab | 386723 | [386723-saraab.json](./386723-saraab.json) |
 | Sarah's Adventure: Time Travel | 304862 | [304862-sarahs-adventure-time-travel.json](./304862-sarahs-adventure-time-travel.json) |
+| Sarah's Great Adventure | 371898 | [371898-sarahs-great-adventure.json](./371898-sarahs-great-adventure.json) |
 | Sargasso | 261544 | [261544-sargasso.json](./261544-sargasso.json) |
 | SAS: Anti-Terror Force | 43294 | [43294-sas-anti-terror-force.json](./43294-sas-anti-terror-force.json) |
 | Satan's Pepper | 274183 | [274183-satans-pepper.json](./274183-satans-pepper.json) |
@@ -323,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scanline | 180810 | [180810-scanline.json](./180810-scanline.json) |
 | Scanner Force | 402269 | [402269-scanner-force.json](./402269-scanner-force.json) |
 | Scapeghost | 12208 | [12208-scapeghost.json](./12208-scapeghost.json) |
+| Scared of Zombies | 371860 | [371860-scared-of-zombies.json](./371860-scared-of-zombies.json) |
 | Scares on Halloween | 123601 | [123601-scares-on-halloween.json](./123601-scares-on-halloween.json) |
 | Scarface: The World Is Yours | 5139 | [5139-scarface-the-world-is-yours.json](./5139-scarface-the-world-is-yours.json) |
 | Scarlet Deer Inn | 143710 | [143710-scarlet-deer-inn.json](./143710-scarlet-deer-inn.json) |
@@ -366,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scholastic Brain Play: Preschool - 1st Grade | 167276 | [167276-scholastic-brain-play-preschool-1st-grade.json](./167276-scholastic-brain-play-preschool-1st-grade.json) |
 | School Bus Simulator: Blocky World | 104633 | [104633-school-bus-simulator-blocky-world.json](./104633-school-bus-simulator-blocky-world.json) |
 | School Crisis | 391605 | [391605-school-crisis.json](./391605-school-crisis.json) |
+| School Days | 371896 | [371896-school-days.json](./371896-school-days.json) |
 | School Days LxH | 178079 | [178079-school-days-lxh.json](./178079-school-days-lxh.json) |
 | School of Talent: Suzu-Route | 29932 | [29932-school-of-talent-suzu-route.json](./29932-school-of-talent-suzu-route.json) |
 | School Race GP | 219281 | [219281-school-race-gp.json](./219281-school-race-gp.json) |
@@ -412,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Josie | 260410 | [260410-scp-josie.json](./260410-scp-josie.json) |
 | SCP: Secret Facility | 336353 | [336353-scp-secret-facility.json](./336353-scp-secret-facility.json) |
 | SCP: Site-19 | 242246 | [242246-scp-site-19.json](./242246-scp-site-19.json) |
+| Scrabble | 371873 | [371873-scrabble.json](./371873-scrabble.json) |
 | Scrabble Slam! | 66694 | [66694-scrabble-slam.json](./66694-scrabble-slam.json) |
 | ScrabWordle | 228716 | [228716-scrabwordle.json](./228716-scrabwordle.json) |
 | Scram 20 | 79316 | [79316-scram-20.json](./79316-scram-20.json) |
@@ -419,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Garden: The Day Before | 31926 | [31926-scrap-garden-the-day-before.json](./31926-scrap-garden-the-day-before.json) |
 | Scrap Kings | 181898 | [181898-scrap-kings.json](./181898-scrap-kings.json) |
 | Scrap Squadrons | 393459 | [393459-scrap-squadrons.json](./393459-scrap-squadrons.json) |
+| Scrapbox | 371878 | [371878-scrapbox.json](./371878-scrapbox.json) |
 | Scrapped | 243402 | [243402-scrapped.json](./243402-scrapped.json) |
 | Scrappy Stinks! | 307954 | [307954-scrappy-stinks.json](./307954-scrappy-stinks.json) |
 | Scraps and Patches | 111726 | [111726-scraps-and-patches.json](./111726-scraps-and-patches.json) |
@@ -690,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Deadly Sins | 269851 | [269851-seven-deadly-sins.json](./269851-seven-deadly-sins.json) |
 | Seven Doorways | 209632 | [209632-seven-doorways.json](./209632-seven-doorways.json) |
 | Seven Knights: Time Wanderer - Special Edition | 238229 | [238229-seven-knights-time-wanderer-special-edition.json](./238229-seven-knights-time-wanderer-special-edition.json) |
+| Seven Lovers in the House | 371912 | [371912-seven-lovers-in-the-house.json](./371912-seven-lovers-in-the-house.json) |
 | Seven Nexus | 381639 | [381639-seven-nexus.json](./381639-seven-nexus.json) |
 | Seven: Enhanced - Collector's Edition | 154529 | [154529-seven-enhanced-collectors-edition.json](./154529-seven-enhanced-collectors-edition.json) |
 | Seven: The Days Long Gone | 18908 | [18908-seven-the-days-long-gone.json](./18908-seven-the-days-long-gone.json) |
@@ -1136,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sift Heads Reborn | 191898 | [191898-sift-heads-reborn.json](./191898-sift-heads-reborn.json) |
 | Sift Heads World: Act 1 - Deadly Newcomer | 191902 | [191902-sift-heads-world-act-1-deadly-newcomer.json](./191902-sift-heads-world-act-1-deadly-newcomer.json) |
 | Sift Heads World: Act 3 - Alonzo's Reinforcement | 229949 | [229949-sift-heads-world-act-3-alonzos-reinforcement.json](./229949-sift-heads-world-act-3-alonzos-reinforcement.json) |
+| Sifu's Quest | 371901 | [371901-sifus-quest.json](./371901-sifus-quest.json) |
 | Sig | 231087 | [231087-sig.json](./231087-sig.json) |
 | Sightline | 202944 | [202944-sightline.json](./202944-sightline.json) |
 | Sigi: A Fart for Melusina | 75066 | [75066-sigi-a-fart-for-melusina.json](./75066-sigi-a-fart-for-melusina.json) |
@@ -2850,6 +2857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stem | 24944 | [24944-stem.json](./24944-stem.json) |
 | Step Jun: Koi no Dai Pinch | 385575 | [385575-step-jun-koi-no-dai-pinch.json](./385575-step-jun-koi-no-dai-pinch.json) |
 | Step Up! | 84902 | [84902-step-up.json](./84902-step-up.json) |
+| StepByStep | 371906 | [371906-stepbystep.json](./371906-stepbystep.json) |
 | Stephen King's F13 | 74412 | [74412-stephen-kings-f13.json](./74412-stephen-kings-f13.json) |
 | StepX | 67915 | [67915-stepx.json](./67915-stepx.json) |
 | StereoPaint | 192425 | [192425-stereopaint.json](./192425-stereopaint.json) |
@@ -3063,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StrongBadZone | 135863 | [135863-strongbadzone.json](./135863-strongbadzone.json) |
 | Stronghold Collection | 21771 | [21771-stronghold-collection.json](./21771-stronghold-collection.json) |
 | Stronghold Crusader 2: Special Edition | 51936 | [51936-stronghold-crusader-2-special-edition.json](./51936-stronghold-crusader-2-special-edition.json) |
+| Stronghold Crusader: Definitive Edition - The Canary & The Trader | 371879 | [371879-stronghold-crusader-definitive-edition-the-canary-and-the-trader.json](./371879-stronghold-crusader-definitive-edition-the-canary-and-the-trader.json) |
 | Stronghold Defender | 18321 | [18321-stronghold-defender.json](./18321-stronghold-defender.json) |
 | Stronghold Deluxe | 98961 | [98961-stronghold-deluxe.json](./98961-stronghold-deluxe.json) |
 | Stronghold: Caverns of Sorcery | 339654 | [339654-stronghold-caverns-of-sorcery.json](./339654-stronghold-caverns-of-sorcery.json) |
