@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Bird Fake Bird | 325241 | [325241-real-bird-fake-bird.json](./325241-real-bird-fake-bird.json) |
 | Real Boxing 2: Remastered | 324127 | [324127-real-boxing-2-remastered.json](./324127-real-boxing-2-remastered.json) |
 | Real Car Drift Racing | 311794 | [311794-real-car-drift-racing.json](./311794-real-car-drift-racing.json) |
+| Real Car Market Simulator Together | 407348 | [407348-real-car-market-simulator-together.json](./407348-real-car-market-simulator-together.json) |
 | Real Drags | 24992 | [24992-real-drags.json](./24992-real-drags.json) |
 | Real Drift Multiplayer | 256564 | [256564-real-drift-multiplayer.json](./256564-real-drift-multiplayer.json) |
 | Real Erogame Situation! Triple H | 194627 | [194627-real-erogame-situation-triple-h.json](./194627-real-erogame-situation-triple-h.json) |
@@ -581,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reroll | 104065 | [104065-reroll.json](./104065-reroll.json) |
 | ReRoll | 19700 | [19700-reroll.json](./19700-reroll.json) |
 | Rescape | 235981 | [235981-rescape.json](./235981-rescape.json) |
+| Rescue Guys: Firefighters Simulator | 407347 | [407347-rescue-guys-firefighters-simulator.json](./407347-rescue-guys-firefighters-simulator.json) |
 | Rescue Heroes: Fire Frenzy | 49948 | [49948-rescue-heroes-fire-frenzy.json](./49948-rescue-heroes-fire-frenzy.json) |
 | Rescue Heroes: Molten Menace | 209168 | [209168-rescue-heroes-molten-menace.json](./209168-rescue-heroes-molten-menace.json) |
 | Rescue Raiders | 25777 | [25777-rescue-raiders.json](./25777-rescue-raiders.json) |
@@ -1065,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Nova | 270926 | [270926-rogue-nova.json](./270926-rogue-nova.json) |
 | Rogue Racing: PinkSlip | 234322 | [234322-rogue-racing-pinkslip.json](./234322-rogue-racing-pinkslip.json) |
 | Rogue Randy | 166778 | [166778-rogue-randy.json](./166778-rogue-randy.json) |
+| Rogue Run | 407304 | [407304-rogue-run.json](./407304-rogue-run.json) |
 | Rogue Survivalist | 277592 | [277592-rogue-survivalist.json](./277592-rogue-survivalist.json) |
 | Rogue Survivor | 80557 | [80557-rogue-survivor.json](./80557-rogue-survivor.json) |
 | Rogue Trooper Redux: Collector's Edition | 154524 | [154524-rogue-trooper-redux-collectors-edition.json](./154524-rogue-trooper-redux-collectors-edition.json) |
@@ -1340,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Factory 3 Special | 217557 | [217557-rune-factory-3-special.json](./217557-rune-factory-3-special.json) |
 | Rune II | 55149 | [55149-rune-ii.json](./55149-rune-ii.json) |
 | Rune in the Three Kingdoms | 278674 | [278674-rune-in-the-three-kingdoms.json](./278674-rune-in-the-three-kingdoms.json) |
+| Rune Tavern | 407341 | [407341-rune-tavern.json](./407341-rune-tavern.json) |
 | Rune Worth: Kokui no Kikoushi | 243950 | [243950-rune-worth-kokui-no-kikoushi.json](./243950-rune-worth-kokui-no-kikoushi.json) |
 | Rune: Gold | 300409 | [300409-rune-gold.json](./300409-rune-gold.json) |
 | Runemon | 296685 | [296685-runemon.json](./296685-runemon.json) |
