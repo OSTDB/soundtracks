@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Master and Prince: Snow Bride | 136452 | [136452-beast-master-and-prince-snow-bride.json](./136452-beast-master-and-prince-snow-bride.json) |
 | Beast Mode: Night of the Werewolf Silver Bullet Edition | 273113 | [273113-beast-mode-night-of-the-werewolf-silver-bullet-edition.json](./273113-beast-mode-night-of-the-werewolf-silver-bullet-edition.json) |
 | Beasties of Greenhollow | 299465 | [299465-beasties-of-greenhollow.json](./299465-beasties-of-greenhollow.json) |
+| BeastLink | 400902 | [400902-beastlink.json](./400902-beastlink.json) |
 | Beastmaster and Princes | 121737 | [121737-beastmaster-and-princes.json](./121737-beastmaster-and-princes.json) |
 | Beastrun | 151205 | [151205-beastrun.json](./151205-beastrun.json) |
 | Beasts of Horror | 265940 | [265940-beasts-of-horror.json](./265940-beasts-of-horror.json) |
@@ -619,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Becut | 309665 | [309665-becut.json](./309665-becut.json) |
 | Bed Survival | 145648 | [145648-bed-survival.json](./145648-bed-survival.json) |
 | Bedlamball | 51985 | [51985-bedlamball.json](./51985-bedlamball.json) |
+| Bee my Bloom | 400884 | [400884-bee-my-bloom.json](./400884-bee-my-bloom.json) |
 | BeeBop II | 336888 | [336888-beebop-ii.json](./336888-beebop-ii.json) |
 | BeeFender | 89267 | [89267-beefender.json](./89267-beefender.json) |
 | Beeftown Beatdown | 238769 | [238769-beeftown-beatdown.json](./238769-beeftown-beatdown.json) |
@@ -1316,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoneTown | 145047 | [145047-bonetown.json](./145047-bonetown.json) |
 | BoneTown: The Second Coming Edition | 173828 | [173828-bonetown-the-second-coming-edition.json](./173828-bonetown-the-second-coming-edition.json) |
 | Bonfire Kingdom | 260413 | [260413-bonfire-kingdom.json](./260413-bonfire-kingdom.json) |
+| BongBongCapy | 400862 | [400862-bongbongcapy.json](./400862-bongbongcapy.json) |
 | Bongo Cat | 334486 | [334486-bongo-cat.json](./334486-bongo-cat.json) |
 | Bonk Voyage | 415112 | [415112-bonk-voyage.json](./415112-bonk-voyage.json) |
 | Bonkers | 177539 | [177539-bonkers.json](./177539-bonkers.json) |
@@ -1795,6 +1798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Minesweeper | 106579 | [106579-bunny-minesweeper.json](./106579-bunny-minesweeper.json) |
 | Bunny Prison Break | 250010 | [250010-bunny-prison-break.json](./250010-bunny-prison-break.json) |
 | Bunny Sword Master | 109043 | [109043-bunny-sword-master.json](./109043-bunny-sword-master.json) |
+| Bunny's Lie | 400863 | [400863-bunnys-lie.json](./400863-bunnys-lie.json) |
 | Bunny's Pizza Tycoon | 265394 | [265394-bunnys-pizza-tycoon.json](./265394-bunnys-pizza-tycoon.json) |
 | Bunnysitting | 246658 | [246658-bunnysitting.json](./246658-bunnysitting.json) |
 | Bunt Girl | 178669 | [178669-bunt-girl.json](./178669-bunt-girl.json) |
@@ -1838,6 +1842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Tycoon ND | 24995 | [24995-bus-tycoon-nd.json](./24995-bus-tycoon-nd.json) |
 | Bus-Simulator 2012 | 16700 | [16700-bus-simulator-2012.json](./16700-bus-simulator-2012.json) |
 | Bushido Saga: Nightmare of the Samurai | 260375 | [260375-bushido-saga-nightmare-of-the-samurai.json](./260375-bushido-saga-nightmare-of-the-samurai.json) |
+| Business Management | 400853 | [400853-business-management.json](./400853-business-management.json) |
 | Business Ryoku Kentei DS | 70410 | [70410-business-ryoku-kentei-ds.json](./70410-business-ryoku-kentei-ds.json) |
 | Businessman Simulator | 402891 | [402891-businessman-simulator.json](./402891-businessman-simulator.json) |
 | Busou Shinki: Battle Masters Mk. 2 | 56498 | [56498-busou-shinki-battle-masters-mk-2.json](./56498-busou-shinki-battle-masters-mk-2.json) |
