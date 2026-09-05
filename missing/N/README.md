@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Wererat | 216986 | [216986-night-of-the-wererat.json](./216986-night-of-the-wererat.json) |
 | Night of the Wordsmith | 64985 | [64985-night-of-the-wordsmith.json](./64985-night-of-the-wordsmith.json) |
 | Night Run | 236526 | [236526-night-run.json](./236526-night-run.json) |
+| Night School | 406088 | [406088-night-school.json](./406088-night-school.json) |
 | Night Shift: Laundry | 328253 | [328253-night-shift-laundry.json](./328253-night-shift-laundry.json) |
 | Night Signal | 119740 | [119740-night-signal.json](./119740-night-signal.json) |
 | Night Sing | 119758 | [119758-night-sing.json](./119758-night-sing.json) |
