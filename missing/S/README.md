@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saki: Achiga-Hen Episode of Side-A Portable | 135902 | [135902-saki-achiga-hen-episode-of-side-a-portable.json](./135902-saki-achiga-hen-episode-of-side-a-portable.json) |
 | Sakigake!! Otokojuku: Shippuu Ichi Gou Sei | 48674 | [48674-sakigake-otokojuku-shippuu-ichi-gou-sei.json](./48674-sakigake-otokojuku-shippuu-ichi-gou-sei.json) |
 | Saku the Covert Agent | 310181 | [310181-saku-the-covert-agent.json](./310181-saku-the-covert-agent.json) |
+| Sakumon | 412956 | [412956-sakumon.json](./412956-sakumon.json) |
 | Sakura Day 2 Mahjong | 100216 | [100216-sakura-day-2-mahjong.json](./100216-sakura-day-2-mahjong.json) |
 | Sakura Gamer 2 | 127212 | [127212-sakura-gamer-2.json](./127212-sakura-gamer-2.json) |
 | Sakura Halloween | 135891 | [135891-sakura-halloween.json](./135891-sakura-halloween.json) |
@@ -533,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekai to Sekai no Mannaka de | 187532 | [187532-sekai-to-sekai-no-mannaka-de.json](./187532-sekai-to-sekai-no-mannaka-de.json) |
 | Selatria | 166217 | [166217-selatria.json](./166217-selatria.json) |
 | Select Oblige | 321778 | [321778-select-oblige.json](./321778-select-oblige.json) |
+| Self Deleted | 412985 | [412985-self-deleted.json](./412985-self-deleted.json) |
 | Self-knowledge VR | 114373 | [114373-self-knowledge-vr.json](./114373-self-knowledge-vr.json) |
 | Selfie : Sisters of the Amniotic Lens | 17176 | [17176-selfie-sisters-of-the-amniotic-lens.json](./17176-selfie-sisters-of-the-amniotic-lens.json) |
 | Selfmade Devil | 170546 | [170546-selfmade-devil.json](./170546-selfmade-devil.json) |
@@ -812,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiba Mekuri | 158726 | [158726-shiba-mekuri.json](./158726-shiba-mekuri.json) |
 | Shibainu: VR Katana Simulator | 197408 | [197408-shibainu-vr-katana-simulator.json](./197408-shibainu-vr-katana-simulator.json) |
 | Shibui Coliseum | 120985 | [120985-shibui-coliseum.json](./120985-shibui-coliseum.json) |
+| Shield Arena | 412958 | [412958-shield-arena.json](./412958-shield-arena.json) |
 | Shields Up! VR | 102196 | [102196-shields-up-vr.json](./102196-shields-up-vr.json) |
 | Shift | 181920 | [181920-shift.json](./181920-shift.json) |
 | Shift Em Mania | 27906 | [27906-shift-em-mania.json](./27906-shift-em-mania.json) |
@@ -1000,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidelined Futures | 308540 | [308540-sidelined-futures.json](./308540-sidelined-futures.json) |
 | Sidewinder Max | 322940 | [322940-sidewinder-max.json](./322940-sidewinder-max.json) |
 | Siege of Avalon | 9382 | [9382-siege-of-avalon.json](./9382-siege-of-avalon.json) |
+| Siege of Syracuse | 413001 | [413001-siege-of-syracuse.json](./413001-siege-of-syracuse.json) |
 | Siegius | 319986 | [319986-siegius.json](./319986-siegius.json) |
 | Sienna | 51221 | [51221-sienna.json](./51221-sienna.json) |
 | Sierra's 3-D Helicopter Simulator | 72087 | [72087-sierras-3-d-helicopter-simulator.json](./72087-sierras-3-d-helicopter-simulator.json) |
@@ -1316,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Road | 108509 | [108509-slime-road.json](./108509-slime-road.json) |
 | Slime Runner | 215886 | [215886-slime-runner.json](./215886-slime-runner.json) |
 | Slime Shoot | 312329 | [312329-slime-shoot.json](./312329-slime-shoot.json) |
+| Slime Slayer: Endless Loot | 412954 | [412954-slime-slayer-endless-loot.json](./412954-slime-slayer-endless-loot.json) |
 | Slime Smasher EX | 213645 | [213645-slime-smasher-ex.json](./213645-slime-smasher-ex.json) |
 | Slime Survivors | 304878 | [304878-slime-survivors.json](./304878-slime-survivors.json) |
 | Slime Time! | 106591 | [106591-slime-time.json](./106591-slime-time.json) |
@@ -1596,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solasta: Lightbringers Edition | 251208 | [251208-solasta-lightbringers-edition.json](./251208-solasta-lightbringers-edition.json) |
 | Solcialists | 272581 | [272581-solcialists.json](./272581-solcialists.json) |
 | Soldier Blade Special: Caravan Stage | 42024 | [42024-soldier-blade-special-caravan-stage.json](./42024-soldier-blade-special-caravan-stage.json) |
+| Soldier Blaster | 412972 | [412972-soldier-blaster.json](./412972-soldier-blaster.json) |
 | Soldier Front 2 | 63308 | [63308-soldier-front-2.json](./63308-soldier-front-2.json) |
 | Soldier of Fortune II: Double Helix - Gold Edition | 154525 | [154525-soldier-of-fortune-ii-double-helix-gold-edition.json](./154525-soldier-of-fortune-ii-double-helix-gold-edition.json) |
 | Soldier of Fortune: Gold Edition | 44642 | [44642-soldier-of-fortune-gold-edition.json](./44642-soldier-of-fortune-gold-edition.json) |
@@ -1948,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Marauder | 49968 | [49968-space-marauder.json](./49968-space-marauder.json) |
 | Space Marshals 3 | 205223 | [205223-space-marshals-3.json](./205223-space-marshals-3.json) |
 | Space Mechanic Simulator | 90650 | [90650-space-mechanic-simulator.json](./90650-space-mechanic-simulator.json) |
+| Space Memory TDG | 412970 | [412970-space-memory-tdg.json](./412970-space-memory-tdg.json) |
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
 | Space Misfits | 123040 | [123040-space-misfits.json](./123040-space-misfits.json) |
 | Space Operation | 273661 | [273661-space-operation.json](./273661-space-operation.json) |
@@ -2958,6 +2965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Clash Crossover | 120413 | [120413-super-clash-crossover.json](./120413-super-clash-crossover.json) |
 | Super Cloudbuilt | 27396 | [27396-super-cloudbuilt.json](./27396-super-cloudbuilt.json) |
 | Super Clown 3: Revenge | 223179 | [223179-super-clown-3-revenge.json](./223179-super-clown-3-revenge.json) |
+| Super Clown Puzzles | 412996 | [412996-super-clown-puzzles.json](./412996-super-clown-puzzles.json) |
 | Super Code Strike | 145014 | [145014-super-code-strike.json](./145014-super-code-strike.json) |
 | Super Collapse! | 84244 | [84244-super-collapse.json](./84244-super-collapse.json) |
 | Super Collapse! Puzzle Gallery 2 | 201281 | [201281-super-collapse-puzzle-gallery-2.json](./201281-super-collapse-puzzle-gallery-2.json) |
