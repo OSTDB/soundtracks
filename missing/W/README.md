@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With You | 188710 | [188710-with-you.json](./188710-with-you.json) |
 | Withering Flowers | 260421 | [260421-withering-flowers.json](./260421-withering-flowers.json) |
 | Withering Realms | 329964 | [329964-withering-realms.json](./329964-withering-realms.json) |
+| Within the Range | 391045 | [391045-within-the-range.json](./391045-within-the-range.json) |
 | Within Whispers: The Fall | 61652 | [61652-within-whispers-the-fall.json](./61652-within-whispers-the-fall.json) |
 | Without Escape | 270394 | [270394-without-escape.json](./270394-without-escape.json) |
 | Without Within | 35853 | [35853-without-within.json](./35853-without-within.json) |
@@ -773,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordscapes Search | 272562 | [272562-wordscapes-search.json](./272562-wordscapes-search.json) |
 | Wordslop | 402911 | [402911-wordslop.json](./402911-wordslop.json) |
 | Work from Home | 218717 | [218717-work-from-home.json](./218717-work-from-home.json) |
+| Work Till Die | 391060 | [391060-work-till-die.json](./391060-work-till-die.json) |
 | Worker Riot | 203554 | [203554-worker-riot.json](./203554-worker-riot.json) |
 | Working Days | 408762 | [408762-working-days.json](./408762-working-days.json) |
 | Workshop Blooming in the Field & the Dark Dragon | 82901 | [82901-workshop-blooming-in-the-field-and-the-dark-dragon.json](./82901-workshop-blooming-in-the-field-and-the-dark-dragon.json) |
