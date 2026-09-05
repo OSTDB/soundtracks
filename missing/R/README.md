@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Survival Simulator | 401540 | [401540-raccoon-survival-simulator.json](./401540-raccoon-survival-simulator.json) |
 | Race Ace | 315274 | [315274-race-ace.json](./315274-race-ace.json) |
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
+| Race Max Pro | 392152 | [392152-race-max-pro.json](./392152-race-max-pro.json) |
 | Race or Crash: Secret Racer League | 341314 | [341314-race-or-crash-secret-racer-league.json](./341314-race-or-crash-secret-racer-league.json) |
 | Race Race Racer | 126996 | [126996-race-race-racer.json](./126996-race-race-racer.json) |
 | Race Time! | 245015 | [245015-race-time.json](./245015-race-time.json) |
@@ -473,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redout: Space Exploration Pack | 226973 | [226973-redout-space-exploration-pack.json](./226973-redout-space-exploration-pack.json) |
 | Redout: V.E.R.T.E.X. Pack | 226974 | [226974-redout-v-e-r-t-e-x-pack.json](./226974-redout-v-e-r-t-e-x-pack.json) |
 | ReDraft: The Fantasy Football Simulator | 414361 | [414361-redraft-the-fantasy-football-simulator.json](./414361-redraft-the-fantasy-football-simulator.json) |
+| Redstream | 392134 | [392134-redstream.json](./392134-redstream.json) |
 | Redswood VR | 32103 | [32103-redswood-vr.json](./32103-redswood-vr.json) |
 | ReEarth | 309689 | [309689-reearth.json](./309689-reearth.json) |
 | Reed 2 | 134012 | [134012-reed-2.json](./134012-reed-2.json) |
@@ -1242,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose & Camellia 3 | 317597 | [317597-rose-and-camellia-3.json](./317597-rose-and-camellia-3.json) |
 | Rose & Camellia 4 | 317598 | [317598-rose-and-camellia-4.json](./317598-rose-and-camellia-4.json) |
 | Rose Guns Days: Season 1 | 274213 | [274213-rose-guns-days-season-1.json](./274213-rose-guns-days-season-1.json) |
+| Rose of Meat | 392161 | [392161-rose-of-meat.json](./392161-rose-of-meat.json) |
 | Roses and Gems | 34359 | [34359-roses-and-gems.json](./34359-roses-and-gems.json) |
 | Roswell Fighter | 21774 | [21774-roswell-fighter.json](./21774-roswell-fighter.json) |
 | Roswell's 66th Anniversary | 225900 | [225900-roswells-66th-anniversary.json](./225900-roswells-66th-anniversary.json) |
@@ -1345,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RuinsCity_VR | 30930 | [30930-ruinscity-vr.json](./30930-ruinscity-vr.json) |
 | Ruler of the Earth | 185694 | [185694-ruler-of-the-earth.json](./185694-ruler-of-the-earth.json) |
 | Rules of the Game | 94237 | [94237-rules-of-the-game.json](./94237-rules-of-the-game.json) |
+| Rules: Motel Horizon | 392128 | [392128-rules-motel-horizon.json](./392128-rules-motel-horizon.json) |
 | Ruma | 274210 | [274210-ruma.json](./274210-ruma.json) |
 | Rumblade | 109269 | [109269-rumblade.json](./109269-rumblade.json) |
 | Rumble Avenue | 408757 | [408757-rumble-avenue.json](./408757-rumble-avenue.json) |
