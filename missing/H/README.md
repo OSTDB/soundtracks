@@ -1121,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House 2 | 267094 | [267094-house-2.json](./267094-house-2.json) |
 | House Cleaner Flipper Game | 105916 | [105916-house-cleaner-flipper-game.json](./105916-house-cleaner-flipper-game.json) |
 | House Designer | 171625 | [171625-house-designer.json](./171625-house-designer.json) |
+| House Flipper 2: Pets | 370700 | [370700-house-flipper-2-pets.json](./370700-house-flipper-2-pets.json) |
 | House Flipper VR | 129209 | [129209-house-flipper-vr.json](./129209-house-flipper-vr.json) |
 | House Flipper: Cyberpunk | 171638 | [171638-house-flipper-cyberpunk.json](./171638-house-flipper-cyberpunk.json) |
 | House Flipper: Farm | 200725 | [200725-house-flipper-farm.json](./200725-house-flipper-farm.json) |
