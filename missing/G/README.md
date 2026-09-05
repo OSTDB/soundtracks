@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gabenwood: 99 Hidden Bucks | 224239 | [224239-gabenwood-99-hidden-bucks.json](./224239-gabenwood-99-hidden-bucks.json) |
 | Gabriel Knight 3: Blood of the Sacred, Blood of the Damned | 1252 | [1252-gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned.json](./1252-gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned.json) |
 | Gabriel's Worlds: The Adventure | 163954 | [163954-gabriels-worlds-the-adventure.json](./163954-gabriels-worlds-the-adventure.json) |
+| Gabriel’s Worlds: The Sokoban Adventure | 378192 | [378192-gabriel-s-worlds-the-sokoban-adventure.json](./378192-gabriel-s-worlds-the-sokoban-adventure.json) |
 | Gabrielle | 221967 | [221967-gabrielle.json](./221967-gabrielle.json) |
 | Gacha Capsule Shop Simulator: Akihabara | 386674 | [386674-gacha-capsule-shop-simulator-akihabara.json](./386674-gacha-capsule-shop-simulator-akihabara.json) |
 | Gachi Heroes 2: Flexboll | 127191 | [127191-gachi-heroes-2-flexboll.json](./127191-gachi-heroes-2-flexboll.json) |
@@ -457,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigolo | 40777 | [40777-gigolo.json](./40777-gigolo.json) |
 | Gilbert and the chemystical island | 319364 | [319364-gilbert-and-the-chemystical-island.json](./319364-gilbert-and-the-chemystical-island.json) |
 | Gilded Destiny | 236528 | [236528-gilded-destiny.json](./236528-gilded-destiny.json) |
+| Gilt | 378214 | [378214-gilt.json](./378214-gilt.json) |
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen | 267651 | [267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json](./267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json) |
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen 2 | 267652 | [267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json](./267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json) |
 | Ginga Ojousama Densetsu Collection | 62731 | [62731-ginga-ojousama-densetsu-collection.json](./62731-ginga-ojousama-densetsu-collection.json) |
@@ -654,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goi: Let's Play Together | 235995 | [235995-goi-lets-play-together.json](./235995-goi-lets-play-together.json) |
 | Goime 500 | 56535 | [56535-goime-500.json](./56535-goime-500.json) |
 | Goin Up | 245033 | [245033-goin-up.json](./245033-goin-up.json) |
+| Going Balls | 378161 | [378161-going-balls.json](./378161-going-balls.json) |
 | Going Deeper! | 196301 | [196301-going-deeper.json](./196301-going-deeper.json) |
 | Going Down | 138786 | [138786-going-down.json](./138786-going-down.json) |
 | Going Nuts | 70405 | [70405-going-nuts.json](./70405-going-nuts.json) |
