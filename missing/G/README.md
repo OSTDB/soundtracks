@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives 08: Pucchin Puzzle | 137678 | [137678-g-mode-archives-08-pucchin-puzzle.json](./137678-g-mode-archives-08-pucchin-puzzle.json) |
 | G-Mode Archives 44: Dragon x Dragon | 241041 | [241041-g-mode-archives-44-dragon-x-dragon.json](./241041-g-mode-archives-44-dragon-x-dragon.json) |
 | G-Mode Archives+: Saiko Mystery Series Vol.5 - Cold Rain | 276453 | [276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json](./276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json) |
+| G-Mode Archives+: Stella Deus - The Spirit of Darkness | 374605 | [374605-g-mode-archives-stella-deus-the-spirit-of-darkness.json](./374605-g-mode-archives-stella-deus-the-spirit-of-darkness.json) |
 | G-ump | 260398 | [260398-g-ump.json](./260398-g-ump.json) |
 | G.H.O.S.T. Chronicles: Phantom of the Faire | 209598 | [209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json](./209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json) |
 | G.O.P.O.T.A 2 | 291756 | [291756-g-o-p-o-t-a-2.json](./291756-g-o-p-o-t-a-2.json) |
@@ -1145,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun to Colonists | 189173 | [189173-gun-to-colonists.json](./189173-gun-to-colonists.json) |
 | Gun Trails | 259277 | [259277-gun-trails.json](./259277-gun-trails.json) |
 | Gunbird: Special Edition | 44643 | [44643-gunbird-special-edition.json](./44643-gunbird-special-edition.json) |
+| Gunblade Ranger | 374589 | [374589-gunblade-ranger.json](./374589-gunblade-ranger.json) |
 | Gunboat: River Combat Simulation | 12127 | [12127-gunboat-river-combat-simulation.json](./12127-gunboat-river-combat-simulation.json) |
 | GunBound | 26189 | [26189-gunbound.json](./26189-gunbound.json) |
 | GunBoxing | 392798 | [392798-gunboxing.json](./392798-gunboxing.json) |
