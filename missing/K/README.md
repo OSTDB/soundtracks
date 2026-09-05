@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemo Kare! Oretachi no BL Byoutou | 240515 | [240515-kemo-kare-oretachi-no-bl-byoutou.json](./240515-kemo-kare-oretachi-no-bl-byoutou.json) |
 | Kemono Friends Pavilion | 214738 | [214738-kemono-friends-pavilion.json](./214738-kemono-friends-pavilion.json) |
 | Kemono Friends: Opening Day | 247776 | [247776-kemono-friends-opening-day.json](./247776-kemono-friends-opening-day.json) |
+| Ken Griffey Jr.'s Horrible Tower | 382786 | [382786-ken-griffey-jr-s-horrible-tower.json](./382786-ken-griffey-jr-s-horrible-tower.json) |
 | Ken Griffey Jr.'s Slugfest | 3531 | [3531-ken-griffey-jr-s-slugfest.json](./3531-ken-griffey-jr-s-slugfest.json) |
 | Ken to Mahou to Gakuen Mono. Final: Shinnyusei wa Ohimesama! | 63896 | [63896-ken-to-mahou-to-gakuen-mono-final-shinnyusei-wa-ohimesama.json](./63896-ken-to-mahou-to-gakuen-mono-final-shinnyusei-wa-ohimesama.json) |
 | Ken's Labyrinth II | 309654 | [309654-kens-labyrinth-ii.json](./309654-kens-labyrinth-ii.json) |
@@ -338,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of the Mountain: Premium | 174324 | [174324-king-of-the-mountain-premium.json](./174324-king-of-the-mountain-premium.json) |
 | King of Unblock | 101524 | [101524-king-of-unblock.json](./101524-king-of-unblock.json) |
 | King of Wildlings | 27810 | [27810-king-of-wildlings.json](./27810-king-of-wildlings.json) |
+| King Scribble | 382775 | [382775-king-scribble.json](./382775-king-scribble.json) |
 | King Tongue | 87873 | [87873-king-tongue.json](./87873-king-tongue.json) |
 | King Valley | 121729 | [121729-king-valley.json](./121729-king-valley.json) |
 | King's Bounty II: Day One Edition | 146330 | [146330-kings-bounty-ii-day-one-edition.json](./146330-kings-bounty-ii-day-one-edition.json) |
@@ -581,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kotoko's a Little Weird | 290687 | [290687-kotokos-a-little-weird.json](./290687-kotokos-a-little-weird.json) |
 | Kotomasho: I Can't Believe This Neet Guy Turned Into a Magical Girl! | 203532 | [203532-kotomasho-i-cant-believe-this-neet-guy-turned-into-a-magical-girl.json](./203532-kotomasho-i-cant-believe-this-neet-guy-turned-into-a-magical-girl.json) |
 | Kotori no Tsubasa | 405511 | [405511-kotori-no-tsubasa.json](./405511-kotori-no-tsubasa.json) |
+| Kotowari: Kimi no Kokoro no Koboreta Kakera | 382785 | [382785-kotowari-kimi-no-kokoro-no-koboreta-kakera.json](./382785-kotowari-kimi-no-kokoro-no-koboreta-kakera.json) |
 | Kouchuu Ouja Mushiking: Mori no Tami no Densetsu - Minna de Tanken! Kouchuu no Mori | 123621 | [123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json](./123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json) |
 | Kouei no Tou | 206373 | [206373-kouei-no-tou.json](./206373-kouei-no-tou.json) |
 | Koutetsu Yousai Strahl | 40221 | [40221-koutetsu-yousai-strahl.json](./40221-koutetsu-yousai-strahl.json) |
