@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Per Aspera: Deluxe Edition | 154545 | [154545-per-aspera-deluxe-edition.json](./154545-per-aspera-deluxe-edition.json) |
 | Perception | 271498 | [271498-perception.json](./271498-perception.json) |
 | Perch | 29944 | [29944-perch.json](./29944-perch.json) |
+| Perchang World | 400242 | [400242-perchang-world.json](./400242-perchang-world.json) |
 | Percipio | 339634 | [339634-percipio.json](./339634-percipio.json) |
 | Percy's Last Stand | 118403 | [118403-percys-last-stand.json](./118403-percys-last-stand.json) |
 | Perestroika | 180293 | [180293-perestroika.json](./180293-perestroika.json) |
@@ -510,6 +511,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petrol Blood | 156134 | [156134-petrol-blood.json](./156134-petrol-blood.json) |
 | Petrol Station Sim | 263780 | [263780-petrol-station-sim.json](./263780-petrol-station-sim.json) |
 | Petroleum Explore: Drill & Sell | 227504 | [227504-petroleum-explore-drill-and-sell.json](./227504-petroleum-explore-drill-and-sell.json) |
+| Pets and Friends: Cuties Bundle | 400207 | [400207-pets-and-friends-cuties-bundle.json](./400207-pets-and-friends-cuties-bundle.json) |
+| Pets and Friends: Cuties Pack | 400208 | [400208-pets-and-friends-cuties-pack.json](./400208-pets-and-friends-cuties-pack.json) |
 | PetShop | 235494 | [235494-petshop.json](./235494-petshop.json) |
 | PetVille | 309123 | [309123-petville.json](./309123-petville.json) |
 | PetWorld: Animal Shelter | 97334 | [97334-petworld-animal-shelter.json](./97334-petworld-animal-shelter.json) |
@@ -781,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Blocked! | 92491 | [92491-pixel-blocked.json](./92491-pixel-blocked.json) |
 | Pixel Boy | 62783 | [62783-pixel-boy.json](./62783-pixel-boy.json) |
 | Pixel Builder | 105962 | [105962-pixel-builder.json](./105962-pixel-builder.json) |
+| Pixel Cafe: Definitive Edition | 400200 | [400200-pixel-cafe-definitive-edition.json](./400200-pixel-cafe-definitive-edition.json) |
 | Pixel Caveman | 118435 | [118435-pixel-caveman.json](./118435-pixel-caveman.json) |
 | Pixel Combat | 149088 | [149088-pixel-combat.json](./149088-pixel-combat.json) |
 | Pixel Cross Stitch Color by Number: Miniatures | 409552 | [409552-pixel-cross-stitch-color-by-number-miniatures.json](./409552-pixel-cross-stitch-color-by-number-miniatures.json) |
@@ -1156,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony Sisters Pet Hospital | 101584 | [101584-pony-sisters-pet-hospital.json](./101584-pony-sisters-pet-hospital.json) |
 | Poo Pusher | 309690 | [309690-poo-pusher.json](./309690-poo-pusher.json) |
 | Poogers | 223131 | [223131-poogers.json](./223131-poogers.json) |
+| Pool & Snooker Fever: 2 in 1 Bundle - Definitive Edition | 400201 | [400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json](./400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json) |
 | Pool Adventure | 191221 | [191221-pool-adventure.json](./191221-pool-adventure.json) |
 | Pool Fiction | 402910 | [402910-pool-fiction.json](./402910-pool-fiction.json) |
 | Pool Glow | 413629 | [413629-pool-glow.json](./413629-pool-glow.json) |
@@ -1272,6 +1277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerSkate | 233238 | [233238-powerskate.json](./233238-powerskate.json) |
 | PowerSlave | 188071 | [188071-powerslave.json](./188071-powerslave.json) |
 | PowerWash Simulator | 138590 | [138590-powerwash-simulator.json](./138590-powerwash-simulator.json) |
+| PowerWash Simulator | 400248 | [400248-powerwash-simulator.json](./400248-powerwash-simulator.json) |
 | PowerWash Simulator: Santa's Workshop - Winter 2023 | 280540 | [280540-powerwash-simulator-santas-workshop-winter-2023.json](./280540-powerwash-simulator-santas-workshop-winter-2023.json) |
 | PowerWash Simulator: The Muckingham Files 2 | 264337 | [264337-powerwash-simulator-the-muckingham-files-2.json](./264337-powerwash-simulator-the-muckingham-files-2.json) |
 | PowerWash Simulator: Warhammer 40,000 Content Pack | 251220 | [251220-powerwash-simulator-warhammer-40-000-content-pack.json](./251220-powerwash-simulator-warhammer-40-000-content-pack.json) |
