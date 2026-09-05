@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnir Saga Part 1 | 263227 | [263227-magnir-saga-part-1.json](./263227-magnir-saga-part-1.json) |
 | Magnus Imago | 188683 | [188683-magnus-imago.json](./188683-magnus-imago.json) |
 | Magus in Mystic Geometries. | 123591 | [123591-magus-in-mystic-geometries.json](./123591-magus-in-mystic-geometries.json) |
+| Mah Jong Solitaire 2 | 86699 | [86699-mah-jong-solitaire-2.json](./86699-mah-jong-solitaire-2.json) |
 | Mah-jongg Puzzle Pai-Sen | 124787 | [124787-mah-jongg-puzzle-pai-sen.json](./124787-mah-jongg-puzzle-pai-sen.json) |
 | Mahjong | 90692 | [90692-mahjong.json](./90692-mahjong.json) |
 | Mahjong Elements HD | 174371 | [174371-mahjong-elements-hd.json](./174371-mahjong-elements-hd.json) |
@@ -1101,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Seeker | 89965 | [89965-mine-seeker.json](./89965-mine-seeker.json) |
 | Mine Sweeper | 252359 | [252359-mine-sweeper.json](./252359-mine-sweeper.json) |
 | Mine The Diamond | 245005 | [245005-mine-the-diamond.json](./245005-mine-the-diamond.json) |
+| MineCart - 3D Mine Cart Game for MineCraft | 86692 | [86692-minecart-3d-mine-cart-game-for-minecraft.json](./86692-minecart-3d-mine-cart-game-for-minecraft.json) |
 | Minecart Madness | 188687 | [188687-minecart-madness.json](./188687-minecart-madness.json) |
 | Minecraft Education | 28407 | [28407-minecraft-education.json](./28407-minecraft-education.json) |
 | Minecraft Triple Bundle | 334490 | [334490-minecraft-triple-bundle.json](./334490-minecraft-triple-bundle.json) |
@@ -1876,6 +1878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Day Challenge | 341348 | [341348-my-day-challenge.json](./341348-my-day-challenge.json) |
 | My Dear Delirium | 341349 | [341349-my-dear-delirium.json](./341349-my-dear-delirium.json) |
 | My Demonic Romance | 243960 | [243960-my-demonic-romance.json](./243960-my-demonic-romance.json) |
+| My Dolphin Show | 86773 | [86773-my-dolphin-show.json](./86773-my-dolphin-show.json) |
 | My Donut Days | 87717 | [87717-my-donut-days.json](./87717-my-donut-days.json) |
 | My Dream Girl | 173841 | [173841-my-dream-girl.json](./173841-my-dream-girl.json) |
 | My Dream Girls | 173836 | [173836-my-dream-girls.json](./173836-my-dream-girls.json) |
