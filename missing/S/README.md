@@ -2178,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiral Wave | 42045 | [42045-spiral-wave.json](./42045-spiral-wave.json) |
 | Spire Horizon | 257687 | [257687-spire-horizon.json](./257687-spire-horizon.json) |
 | Spire Horizon Online | 304871 | [304871-spire-horizon-online.json](./304871-spire-horizon-online.json) |
+| Spiriki: Tiny Island | 404860 | [404860-spiriki-tiny-island.json](./404860-spiriki-tiny-island.json) |
 | Spirit Cleaning | 151717 | [151717-spirit-cleaning.json](./151717-spirit-cleaning.json) |
 | Spirit Hunters Inc. Shadow/Light | 84895 | [84895-spirit-hunters-inc-shadow-light.json](./84895-spirit-hunters-inc-shadow-light.json) |
 | Spirit Level | 322997 | [322997-spirit-level.json](./322997-spirit-level.json) |
