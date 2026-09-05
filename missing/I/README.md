@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Bear Island | 174859 | [174859-idle-bear-island.json](./174859-idle-bear-island.json) |
 | Idle Beast Hunter | 297222 | [297222-idle-beast-hunter.json](./297222-idle-beast-hunter.json) |
 | Idle Bouncer | 61644 | [61644-idle-bouncer.json](./61644-idle-bouncer.json) |
+| Idle Breakanoid | 383952 | [383952-idle-breakanoid.json](./383952-idle-breakanoid.json) |
 | Idle Business Tycoon: Build Simulator | 197933 | [197933-idle-business-tycoon-build-simulator.json](./197933-idle-business-tycoon-build-simulator.json) |
 | Idle Campaign | 210851 | [210851-idle-campaign.json](./210851-idle-campaign.json) |
 | Idle Champions of the Forgotten Realms | 43178 | [43178-idle-champions-of-the-forgotten-realms.json](./43178-idle-champions-of-the-forgotten-realms.json) |
@@ -417,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Girl | 191217 | [191217-infinity-girl.json](./191217-infinity-girl.json) |
 | Infinity Kingdom | 143085 | [143085-infinity-kingdom.json](./143085-infinity-kingdom.json) |
 | Infinity Nikki: Golden Dust | 410212 | [410212-infinity-nikki-golden-dust.json](./410212-infinity-nikki-golden-dust.json) |
+| Infinity Nikki: Life as a Poem | 383945 | [383945-infinity-nikki-life-as-a-poem.json](./383945-infinity-nikki-life-as-a-poem.json) |
 | Infinity R | 340752 | [340752-infinity-r.json](./340752-infinity-r.json) |
 | Infinity Slime Dungeon | 321754 | [321754-infinity-slime-dungeon.json](./321754-infinity-slime-dungeon.json) |
 | Infinity war | 167816 | [167816-infinity-war.json](./167816-infinity-war.json) |
@@ -446,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inline: Out of Time | 290706 | [290706-inline-out-of-time.json](./290706-inline-out-of-time.json) |
 | Inn Hand | 325865 | [325865-inn-hand.json](./325865-inn-hand.json) |
 | Inn The Dark | 255985 | [255985-inn-the-dark.json](./255985-inn-the-dark.json) |
+| Innadreem | 383938 | [383938-innadreem.json](./383938-innadreem.json) |
 | Innchanted | 138239 | [138239-innchanted.json](./138239-innchanted.json) |
 | Inner Ashes | 217007 | [217007-inner-ashes.json](./217007-inner-ashes.json) |
 | Inner Fire | 97341 | [97341-inner-fire.json](./97341-inner-fire.json) |
