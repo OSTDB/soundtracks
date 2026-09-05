@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Van Helsing sniper Zx100 | 85470 | [85470-van-helsing-sniper-zx100.json](./85470-van-helsing-sniper-zx100.json) |
 | Van Van Up! | 188067 | [188067-van-van-up.json](./188067-van-van-up.json) |
 | Vanguard Princess | 9433 | [9433-vanguard-princess.json](./9433-vanguard-princess.json) |
+| Vanguard Valiants | 394826 | [394826-vanguard-valiants.json](./394826-vanguard-valiants.json) |
 | Vanguard: Normandy 1944 | 110298 | [110298-vanguard-normandy-1944.json](./110298-vanguard-normandy-1944.json) |
 | Vanilla Click | 157177 | [157177-vanilla-click.json](./157177-vanilla-click.json) |
 | Vanilla Inspector | 154019 | [154019-vanilla-inspector.json](./154019-vanilla-inspector.json) |
