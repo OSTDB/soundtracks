@@ -1574,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Watts: Memory Match | 50760 | [50760-professor-watts-memory-match.json](./50760-professor-watts-memory-match.json) |
 | Professora Abelha Aprendendo Figuras Geométricas | 294437 | [294437-professora-abelha-aprendendo-figuras-geometricas.json](./294437-professora-abelha-aprendendo-figuras-geometricas.json) |
 | Profound | 277594 | [277594-profound.json](./277594-profound.json) |
+| Progress Bar Deluxe | 371861 | [371861-progress-bar-deluxe.json](./371861-progress-bar-deluxe.json) |
 | Progressbar Popup Fighter | 250015 | [250015-progressbar-popup-fighter.json](./250015-progressbar-popup-fighter.json) |
 | Project 2/3 | 322933 | [322933-project-2-3.json](./322933-project-2-3.json) |
 | Project Aftershock | 94753 | [94753-project-aftershock.json](./94753-project-aftershock.json) |
@@ -1743,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puda + The Kid | 263198 | [263198-puda-the-kid.json](./263198-puda-the-kid.json) |
 | Pudding: Lyre Knight | 375851 | [375851-pudding-lyre-knight.json](./375851-pudding-lyre-knight.json) |
 | Puddle | 377567 | [377567-puddle.json](./377567-puddle.json) |
+| Puff Love Story | 371903 | [371903-puff-love-story.json](./371903-puff-love-story.json) |
 | Puffins: Island Adventure | 68030 | [68030-puffins-island-adventure.json](./68030-puffins-island-adventure.json) |
 | Puffins: Let's Roll | 66695 | [66695-puffins-lets-roll.json](./66695-puffins-lets-roll.json) |
 | Pug'llector | 311252 | [311252-pugllector.json](./311252-pugllector.json) |
