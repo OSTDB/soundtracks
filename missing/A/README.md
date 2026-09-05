@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace of Aces | 11863 | [11863-ace-of-aces.json](./11863-ace-of-aces.json) |
 | Ace of Seafood | 33309 | [33309-ace-of-seafood.json](./33309-ace-of-seafood.json) |
 | Ace Racer | 174905 | [174905-ace-racer.json](./174905-ace-racer.json) |
+| Ace Thunder: Aircraft Wingman Simulator | 399610 | [399610-ace-thunder-aircraft-wingman-simulator.json](./399610-ace-thunder-aircraft-wingman-simulator.json) |
 | Ace Ventura: Pet Detective - The Case of the Serial Shaver | 61643 | [61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json](./61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json) |
 | Acedior | 70432 | [70432-acedior.json](./70432-acedior.json) |
 | AceForce 2 | 311282 | [311282-aceforce-2.json](./311282-aceforce-2.json) |
@@ -551,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aguri Suzuki F-1 Super Driving | 7747 | [7747-aguri-suzuki-f-1-super-driving.json](./7747-aguri-suzuki-f-1-super-driving.json) |
 | AH-3: ThunderStrike | 156159 | [156159-ah-3-thunderstrike.json](./156159-ah-3-thunderstrike.json) |
 | Ah, Love! | 109720 | [109720-ah-love.json](./109720-ah-love.json) |
+| Aha! More Photo Spot-the-Difference | 399609 | [399609-aha-more-photo-spot-the-difference.json](./399609-aha-more-photo-spot-the-difference.json) |
 | Ahegal | 110446 | [110446-ahegal.json](./110446-ahegal.json) |
 | Ahegao Academy | 123609 | [123609-ahegao-academy.json](./123609-ahegao-academy.json) |
 | Ahri and Bear | 166760 | [166760-ahri-and-bear.json](./166760-ahri-and-bear.json) |
@@ -655,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akiba's Trip: Undead & Undressed | 7268 | [7268-akibas-trip-undead-and-undressed.json](./7268-akibas-trip-undead-and-undressed.json) |
 | Akin | 32403 | [32403-akin.json](./32403-akin.json) |
 | Akita: King Pig Thinks Pink | 178098 | [178098-akita-king-pig-thinks-pink.json](./178098-akita-king-pig-thinks-pink.json) |
+| Akita: Legends Squad | 399611 | [399611-akita-legends-squad.json](./399611-akita-legends-squad.json) |
 | Akka Arrh | 225592 | [225592-akka-arrh.json](./225592-akka-arrh.json) |
 | Akte Europa | 19584 | [19584-akte-europa.json](./19584-akte-europa.json) |
 | Akuarium | 147471 | [147471-akuarium.json](./147471-akuarium.json) |
@@ -896,7 +899,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Crime Rope Stickman | 296072 | [296072-amazing-crime-rope-stickman.json](./296072-amazing-crime-rope-stickman.json) |
 | Amazing Drones | 76619 | [76619-amazing-drones.json](./76619-amazing-drones.json) |
 | Amazing Escape | 87714 | [87714-amazing-escape.json](./87714-amazing-escape.json) |
+| Amazing Facts World Culture True or False Quiz | 399608 | [399608-amazing-facts-world-culture-true-or-false-quiz.json](./399608-amazing-facts-world-culture-true-or-false-quiz.json) |
 | Amazing Frog: In the City | 96058 | [96058-amazing-frog-in-the-city.json](./96058-amazing-frog-in-the-city.json) |
+| Amazing Lab! Science Experiments Quiz | 399607 | [399607-amazing-lab-science-experiments-quiz.json](./399607-amazing-lab-science-experiments-quiz.json) |
 | Amazing Space | 258210 | [258210-amazing-space.json](./258210-amazing-space.json) |
 | Amazing Superhero Squad | 159862 | [159862-amazing-superhero-squad.json](./159862-amazing-superhero-squad.json) |
 | Amazing World | 17235 | [17235-amazing-world.json](./17235-amazing-world.json) |
@@ -1065,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Bulls | 209706 | [209706-angry-bulls.json](./209706-angry-bulls.json) |
 | Angry Bunnies | 62200 | [62200-angry-bunnies.json](./62200-angry-bunnies.json) |
 | Angry Bunnies: Colossal Carrot Crusade - Heroes | 238190 | [238190-angry-bunnies-colossal-carrot-crusade-heroes.json](./238190-angry-bunnies-colossal-carrot-crusade-heroes.json) |
+| Angry Dog | 399631 | [399631-angry-dog.json](./399631-angry-dog.json) |
 | Angry Fugu | 144993 | [144993-angry-fugu.json](./144993-angry-fugu.json) |
 | Anicca | 208058 | [208058-anicca.json](./208058-anicca.json) |
 | Anicon: Animal Complex - Sheep's Path | 106607 | [106607-anicon-animal-complex-sheeps-path.json](./106607-anicon-animal-complex-sheeps-path.json) |
@@ -1202,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AntiMatcher | 403582 | [403582-antimatcher.json](./403582-antimatcher.json) |
 | Antimatter Elevator | 166759 | [166759-antimatter-elevator.json](./166759-antimatter-elevator.json) |
 | Antiphona no Seikahime: Tenshi no Score Op.A | 56523 | [56523-antiphona-no-seikahime-tenshi-no-score-op-a.json](./56523-antiphona-no-seikahime-tenshi-no-score-op-a.json) |
+| Antique Backgammon | 399621 | [399621-antique-backgammon.json](./399621-antique-backgammon.json) |
 | Antiquia Lost | 39009 | [39009-antiquia-lost.json](./39009-antiquia-lost.json) |
 | Antiriad | 45331 | [45331-antiriad.json](./45331-antiriad.json) |
 | Antisphere | 32876 | [32876-antisphere.json](./32876-antisphere.json) |
@@ -1329,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Bowling | 67310 | [67310-arcade-bowling.json](./67310-arcade-bowling.json) |
 | Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
 | Arcade Game Series: Pac-Man | 68344 | [68344-arcade-game-series-pac-man.json](./68344-arcade-game-series-pac-man.json) |
+| Arcade Pack | 399614 | [399614-arcade-pack.json](./399614-arcade-pack.json) |
 | Arcade Paradise VR | 279379 | [279379-arcade-paradise-vr.json](./279379-arcade-paradise-vr.json) |
 | Arcade Party | 241076 | [241076-arcade-party.json](./241076-arcade-party.json) |
 | Arcade Pinball | 86706 | [86706-arcade-pinball.json](./86706-arcade-pinball.json) |
@@ -1694,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astonia 3 | 57661 | [57661-astonia-3.json](./57661-astonia-3.json) |
 | Astonishing Baseball 20 | 133470 | [133470-astonishing-baseball-20.json](./133470-astonishing-baseball-20.json) |
 | Astonishing Baseball 22 | 262081 | [262081-astonishing-baseball-22.json](./262081-astonishing-baseball-22.json) |
+| Astra GalaxyX | 399615 | [399615-astra-galaxyx.json](./399615-astra-galaxyx.json) |
 | Astra Protocol 2: Audio Pack | 309660 | [309660-astra-protocol-2-audio-pack.json](./309660-astra-protocol-2-audio-pack.json) |
 | Astra: Fading Stars | 143124 | [143124-astra-fading-stars.json](./143124-astra-fading-stars.json) |
 | Astral Domine | 33078 | [33078-astral-domine.json](./33078-astral-domine.json) |
