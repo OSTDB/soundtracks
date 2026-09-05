@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | P-Robots | 93029 | [93029-p-robots.json](./93029-p-robots.json) |
+| P.I.S. | 382221 | [382221-p-i-s.json](./382221-p-i-s.json) |
 | P.R.O.T.O.C.O.O.L.: Silver Pack | 267078 | [267078-p-r-o-t-o-c-o-o-l-silver-pack.json](./267078-p-r-o-t-o-c-o-o-l-silver-pack.json) |
 | P.T. Bone-um's: Fabulous Tightrope of Terror | 180798 | [180798-p-t-bone-ums-fabulous-tightrope-of-terror.json](./180798-p-t-bone-ums-fabulous-tightrope-of-terror.json) |
 | På Ekspedition i Bibelen | 129775 | [129775-pa-ekspedition-i-bibelen.json](./129775-pa-ekspedition-i-bibelen.json) |
@@ -1711,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumped BMX Flow | 174894 | [174894-pumped-bmx-flow.json](./174894-pumped-bmx-flow.json) |
 | Pumpkin Delivery | 242234 | [242234-pumpkin-delivery.json](./242234-pumpkin-delivery.json) |
 | Pumpkin Panic | 257329 | [257329-pumpkin-panic.json](./257329-pumpkin-panic.json) |
+| Pumpkinban | 382214 | [382214-pumpkinban.json](./382214-pumpkinban.json) |
 | PumPum | 159883 | [159883-pumpum.json](./159883-pumpum.json) |
 | PumPum: +5 Girls Pack | 204065 | [204065-pumpum-5-girls-pack.json](./204065-pumpum-5-girls-pack.json) |
 | Punch Ball Mario Bros. | 91994 | [91994-punch-ball-mario-bros.json](./91994-punch-ball-mario-bros.json) |
