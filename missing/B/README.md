@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bistro Recipe | 66674 | [66674-bistro-recipe.json](./66674-bistro-recipe.json) |
 | Bit Addiction | 277573 | [277573-bit-addiction.json](./277573-bit-addiction.json) |
 | Bit Boy!! Arcade | 62852 | [62852-bit-boy-arcade.json](./62852-bit-boy-arcade.json) |
+| Bit Buddy | 379871 | [379871-bit-buddy.json](./379871-bit-buddy.json) |
 | Bit Generations: Dialhex | 251173 | [251173-bit-generations-dialhex.json](./251173-bit-generations-dialhex.json) |
 | Bit Orchard: Animal Valley - Ultimate Edition | 208618 | [208618-bit-orchard-animal-valley-ultimate-edition.json](./208618-bit-orchard-animal-valley-ultimate-edition.json) |
 | Bit Orchard: Animal Valley - Ultra Ultimate | 271500 | [271500-bit-orchard-animal-valley-ultra-ultimate.json](./271500-bit-orchard-animal-valley-ultra-ultimate.json) |
@@ -1309,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BobSP Series | 272000 | [272000-bobsp-series.json](./272000-bobsp-series.json) |
 | Bocce VR | 119786 | [119786-bocce-vr.json](./119786-bocce-vr.json) |
 | Bochi Collection | 391029 | [391029-bochi-collection.json](./391029-bochi-collection.json) |
+| Bodi Pripravljen: Be Prepared | 379887 | [379887-bodi-pripravljen-be-prepared.json](./379887-bodi-pripravljen-be-prepared.json) |
 | Bodian's Bay Wash | 405519 | [405519-bodians-bay-wash.json](./405519-bodians-bay-wash.json) |
 | Body and Brain Connection | 25189 | [25189-body-and-brain-connection.json](./25189-body-and-brain-connection.json) |
 | Body Language | 68034 | [68034-body-language.json](./68034-body-language.json) |
@@ -1725,6 +1727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broventure: The Wild Co-op | 332270 | [332270-broventure-the-wild-co-op.json](./332270-broventure-the-wild-co-op.json) |
 | Brown Trouble | 295011 | [295011-brown-trouble.json](./295011-brown-trouble.json) |
 | Bruce Lee: Quest of the Dragon | 5758 | [5758-bruce-lee-quest-of-the-dragon.json](./5758-bruce-lee-quest-of-the-dragon.json) |
+| Bruce Quest: The Secrets of the Outback | 379888 | [379888-bruce-quest-the-secrets-of-the-outback.json](./379888-bruce-quest-the-secrets-of-the-outback.json) |
 | Brudal Baddle | 57677 | [57677-brudal-baddle.json](./57677-brudal-baddle.json) |
 | Brunswick Pro Billiards | 147954 | [147954-brunswick-pro-billiards.json](./147954-brunswick-pro-billiards.json) |
 | Brush Roller | 48658 | [48658-brush-roller.json](./48658-brush-roller.json) |
