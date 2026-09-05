@@ -359,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jupiter | 313468 | [313468-jupiter.json](./313468-jupiter.json) |
 | Juqueision | 186301 | [186301-juqueision.json](./186301-juqueision.json) |
 | Jurard Run | 337441 | [337441-jurard-run.json](./337441-jurard-run.json) |
+| Jurassic Genesis: We Are Aliens | 411586 | [411586-jurassic-genesis-we-are-aliens.json](./411586-jurassic-genesis-we-are-aliens.json) |
 | Jurassic Island Rescue and Escape | 294433 | [294433-jurassic-island-rescue-and-escape.json](./294433-jurassic-island-rescue-and-escape.json) |
 | Jurassic Island: The Dinosaur Zoo | 14745 | [14745-jurassic-island-the-dinosaur-zoo.json](./14745-jurassic-island-the-dinosaur-zoo.json) |
 | Jurassic Survival Island: Evolve | 194026 | [194026-jurassic-survival-island-evolve.json](./194026-jurassic-survival-island-evolve.json) |
