@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Pact | 339129 | [339129-abyss-pact.json](./339129-abyss-pact.json) |
 | Abyss Survivors | 311261 | [311261-abyss-survivors.json](./311261-abyss-survivors.json) |
 | Abyss: The Wraiths of Eden | 17136 | [17136-abyss-the-wraiths-of-eden.json](./17136-abyss-the-wraiths-of-eden.json) |
+| Abyssal | 385571 | [385571-abyssal.json](./385571-abyssal.json) |
 | Abysus Arena | 303751 | [303751-abysus-arena.json](./303751-abysus-arena.json) |
 | AC/DC Live: Rock Band - Track Pack | 6467 | [6467-ac-dc-live-rock-band-track-pack.json](./6467-ac-dc-live-rock-band-track-pack.json) |
 | ACA Neo Geo: Burning Fight | 85538 | [85538-aca-neo-geo-burning-fight.json](./85538-aca-neo-geo-burning-fight.json) |
