@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seashell Thief | 302111 | [302111-seashell-thief.json](./302111-seashell-thief.json) |
 | Seashells | 197922 | [197922-seashells.json](./197922-seashells.json) |
 | Seashine | 143091 | [143091-seashine.json](./143091-seashine.json) |
+| Season 31 | 370675 | [370675-season-31.json](./370675-season-31.json) |
 | Seasons Turning | 374617 | [374617-seasons-turning.json](./374617-seasons-turning.json) |
 | Seaway | 181901 | [181901-seaway.json](./181901-seaway.json) |
 | Seawolf + Missile | 139470 | [139470-seawolf-missile.json](./139470-seawolf-missile.json) |
@@ -2068,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulgrave | 412294 | [412294-soulgrave.json](./412294-soulgrave.json) |
 | SoulJah Kingdom Rise | 243372 | [243372-souljah-kingdom-rise.json](./243372-souljah-kingdom-rise.json) |
 | Soulless | 195790 | [195790-soulless.json](./195790-soulless.json) |
+| Soulmask: Shifting Sands | 370724 | [370724-soulmask-shifting-sands.json](./370724-soulmask-shifting-sands.json) |
 | Soulrise | 295544 | [295544-soulrise.json](./295544-soulrise.json) |
 | Souls Divided | 410228 | [410228-souls-divided.json](./410228-souls-divided.json) |
 | Souls of Darkon | 12966 | [12966-souls-of-darkon.json](./12966-souls-of-darkon.json) |
