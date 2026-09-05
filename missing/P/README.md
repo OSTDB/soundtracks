@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Heroes: Wipeout HD Fury | 52655 | [52655-pinball-heroes-wipeout-hd-fury.json](./52655-pinball-heroes-wipeout-hd-fury.json) |
 | Pinball Lockdown | 133432 | [133432-pinball-lockdown.json](./133432-pinball-lockdown.json) |
 | Pinball Prelude | 15564 | [15564-pinball-prelude.json](./15564-pinball-prelude.json) |
+| Pinball Pulse: The Ancients Beckon | 67355 | [67355-pinball-pulse-the-ancients-beckon.json](./67355-pinball-pulse-the-ancients-beckon.json) |
 | Pinball Quest | 48026 | [48026-pinball-quest.json](./48026-pinball-quest.json) |
 | Pinball Shuffle | 88315 | [88315-pinball-shuffle.json](./88315-pinball-shuffle.json) |
 | Pinball Wicked | 43121 | [43121-pinball-wicked.json](./43121-pinball-wicked.json) |
@@ -1109,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poolcore | 238742 | [238742-poolcore.json](./238742-poolcore.json) |
 | Poop Fiction | 302129 | [302129-poop-fiction.json](./302129-poop-fiction.json) |
 | Poor Lucas and the Evil Duke | 190206 | [190206-poor-lucas-and-the-evil-duke.json](./190206-poor-lucas-and-the-evil-duke.json) |
+| Pop Island | 68124 | [68124-pop-island.json](./68124-pop-island.json) |
 | Pop Moto | 249446 | [249446-pop-moto.json](./249446-pop-moto.json) |
 | Pop Star Debut | 324684 | [324684-pop-star-debut.json](./324684-pop-star-debut.json) |
 | Pop Star Dress Up - Music Idol Girl | 101571 | [101571-pop-star-dress-up-music-idol-girl.json](./101571-pop-star-dress-up-music-idol-girl.json) |
