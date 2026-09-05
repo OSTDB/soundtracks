@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tears of Adria | 268226 | [268226-tears-of-adria.json](./268226-tears-of-adria.json) |
 | Tears to Tiara Gaiden: Avalon no Nazo | 76907 | [76907-tears-to-tiara-gaiden-avalon-no-nazo.json](./76907-tears-to-tiara-gaiden-avalon-no-nazo.json) |
 | Tearscape | 318752 | [318752-tearscape.json](./318752-tearscape.json) |
+| Tech Blast | 368482 | [368482-tech-blast.json](./368482-tech-blast.json) |
 | Tech Disorder | 291258 | [291258-tech-disorder.json](./291258-tech-disorder.json) |
 | Technician Ted | 84242 | [84242-technician-ted.json](./84242-technician-ted.json) |
 | Technosphere Reload | 116829 | [116829-technosphere-reload.json](./116829-technosphere-reload.json) |
@@ -2174,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Marius | 369581 | [369581-the-world-of-marius.json](./369581-the-world-of-marius.json) |
 | The World's Hardest Game: On Steam | 262689 | [262689-the-worlds-hardest-game-on-steam.json](./262689-the-worlds-hardest-game-on-steam.json) |
 | The Worm | 34419 | [34419-the-worm.json](./34419-the-worm.json) |
+| The Wrestling Game | 368474 | [368474-the-wrestling-game.json](./368474-the-wrestling-game.json) |
 | The Wrong Floor | 391069 | [391069-the-wrong-floor.json](./391069-the-wrong-floor.json) |
 | The Wylde | 23875 | [23875-the-wylde.json](./23875-the-wylde.json) |
 | The X Factor Sing | 84261 | [84261-the-x-factor-sing.json](./84261-the-x-factor-sing.json) |
