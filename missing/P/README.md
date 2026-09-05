@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pants Quest | 190217 | [190217-pants-quest.json](./190217-pants-quest.json) |
 | Panzer Campaigns: Rumyantsev '43 | 226408 | [226408-panzer-campaigns-rumyantsev-43.json](./226408-panzer-campaigns-rumyantsev-43.json) |
 | Panzer Corps 2: Axis Operations - 1945 | 248896 | [248896-panzer-corps-2-axis-operations-1945.json](./248896-panzer-corps-2-axis-operations-1945.json) |
+| Panzer Corps 2: Elite - Ghost Division | 370129 | [370129-panzer-corps-2-elite-ghost-division.json](./370129-panzer-corps-2-elite-ghost-division.json) |
 | Panzer Corps: Allied Corps | 124793 | [124793-panzer-corps-allied-corps.json](./124793-panzer-corps-allied-corps.json) |
 | Panzer Corps: Soviet Corps | 124838 | [124838-panzer-corps-soviet-corps.json](./124838-panzer-corps-soviet-corps.json) |
 | Panzer Corps: US Corps | 124806 | [124806-panzer-corps-us-corps.json](./124806-panzer-corps-us-corps.json) |
@@ -548,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter Shilton's Handball Maradona! | 73836 | [73836-peter-shiltons-handball-maradona.json](./73836-peter-shiltons-handball-maradona.json) |
 | Peter's Journey | 306096 | [306096-peters-journey.json](./306096-peters-journey.json) |
 | PetHotel | 101581 | [101581-pethotel.json](./101581-pethotel.json) |
+| Petit Planet | 370095 | [370095-petit-planet.json](./370095-petit-planet.json) |
 | Petite Wife Devotes Herself to You | 98438 | [98438-petite-wife-devotes-herself-to-you.json](./98438-petite-wife-devotes-herself-to-you.json) |
 | Petrichor | 60540 | [60540-petrichor.json](./60540-petrichor.json) |
 | Petrol Blood | 156134 | [156134-petrol-blood.json](./156134-petrol-blood.json) |
