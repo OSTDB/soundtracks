@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GemaBoy: Zero Origins | 208041 | [208041-gemaboy-zero-origins.json](./208041-gemaboy-zero-origins.json) |
 | GemCore | 214157 | [214157-gemcore.json](./214157-gemcore.json) |
 | Gemini | 86115 | [86115-gemini.json](./86115-gemini.json) |
+| Gemini Lost | 16080 | [16080-gemini-lost.json](./16080-gemini-lost.json) |
 | Gemporium | 330563 | [330563-gemporium.json](./330563-gemporium.json) |
 | Gems of Fate: the Charmed King | 133426 | [133426-gems-of-fate-the-charmed-king.json](./133426-gems-of-fate-the-charmed-king.json) |
 | Gems of Magic: Lost Family | 116367 | [116367-gems-of-magic-lost-family.json](./116367-gems-of-magic-lost-family.json) |
@@ -788,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grasshoping | 257670 | [257670-grasshoping.json](./257670-grasshoping.json) |
 | Grasshopper Farm | 134026 | [134026-grasshopper-farm.json](./134026-grasshopper-farm.json) |
 | Gratuitous Animal Massacre | 119748 | [119748-gratuitous-animal-massacre.json](./119748-gratuitous-animal-massacre.json) |
+| Gratuitous Tank Battles | 16334 | [16334-gratuitous-tank-battles.json](./16334-gratuitous-tank-battles.json) |
 | GravBlocks | 34436 | [34436-gravblocks.json](./34436-gravblocks.json) |
 | GravBlocks+ | 147964 | [147964-gravblocks.json](./147964-gravblocks.json) |
 | Grave-Queen | 219806 | [219806-grave-queen.json](./219806-grave-queen.json) |
@@ -1025,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam VR: Daiba Assault | 52001 | [52001-gundam-vr-daiba-assault.json](./52001-gundam-vr-daiba-assault.json) |
 | Gundam: The 3D Battle | 66113 | [66113-gundam-the-3d-battle.json](./66113-gundam-the-3d-battle.json) |
 | Gundan: The Crowd Shooting | 205241 | [205241-gundan-the-crowd-shooting.json](./205241-gundan-the-crowd-shooting.json) |
+| GundeadliGne | 16233 | [16233-gundeadligne.json](./16233-gundeadligne.json) |
 | Gundertale | 336351 | [336351-gundertale.json](./336351-gundertale.json) |
 | GunDress | 213042 | [213042-gundress.json](./213042-gundress.json) |
 | Gunducky Industries | 54455 | [54455-gunducky-industries.json](./54455-gunducky-industries.json) |
