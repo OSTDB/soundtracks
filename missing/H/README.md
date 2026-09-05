@@ -820,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiza no Ue no Partner: Kitty on Your Lap | 65494 | [65494-hiza-no-ue-no-partner-kitty-on-your-lap.json](./65494-hiza-no-ue-no-partner-kitty-on-your-lap.json) |
 | Hjarta | 169985 | [169985-hjarta.json](./169985-hjarta.json) |
 | Hlina | 244996 | [244996-hlina.json](./244996-hlina.json) |
+| Ho'omana'o Mau: A Somber Daydream | 400216 | [400216-hoomanao-mau-a-somber-daydream.json](./400216-hoomanao-mau-a-somber-daydream.json) |
 | Hoard: Dynamite Roll! | 171075 | [171075-hoard-dynamite-roll.json](./171075-hoard-dynamite-roll.json) |
 | Hoard: Flame-Broiled Sandwich | 171076 | [171076-hoard-flame-broiled-sandwich.json](./171076-hoard-flame-broiled-sandwich.json) |
 | Hoards of Glory | 156688 | [156688-hoards-of-glory.json](./156688-hoards-of-glory.json) |
