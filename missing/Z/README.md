@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenforms: Protectors | 96043 | [96043-zenforms-protectors.json](./96043-zenforms-protectors.json) |
 | Zenful Journey | 249489 | [249489-zenful-journey.json](./249489-zenful-journey.json) |
 | Zenonia 5 | 75155 | [75155-zenonia-5.json](./75155-zenonia-5.json) |
+| Zenteni: Create Creatures | 387326 | [387326-zenteni-create-creatures.json](./387326-zenteni-create-creatures.json) |
 | Zeppelin | 23871 | [23871-zeppelin.json](./23871-zeppelin.json) |
 | Zero 5 | 40818 | [40818-zero-5.json](./40818-zero-5.json) |
 | Zero Core: Exile | 140579 | [140579-zero-core-exile.json](./140579-zero-core-exile.json) |
