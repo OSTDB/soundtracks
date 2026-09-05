@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raios Funde | 245012 | [245012-raios-funde.json](./245012-raios-funde.json) |
 | Raise-a-Wish | 404255 | [404255-raise-a-wish.json](./404255-raise-a-wish.json) |
 | Raishi | 222500 | [222500-raishi.json](./222500-raishi.json) |
+| Raisin Wordsearch | 394211 | [394211-raisin-wordsearch.json](./394211-raisin-wordsearch.json) |
 | RaKoval~Nya: Escape Edition | 102164 | [102164-rakoval-nya-escape-edition.json](./102164-rakoval-nya-escape-edition.json) |
 | Rakuen | 28544 | [28544-rakuen.json](./28544-rakuen.json) |
 | Rally | 197381 | [197381-rally.json](./197381-rally.json) |
