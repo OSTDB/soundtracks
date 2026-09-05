@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yaga: Roots of Evil | 186902 | [186902-yaga-roots-of-evil.json](./186902-yaga-roots-of-evil.json) |
 | YAGS: Falling For You | 228069 | [228069-yags-falling-for-you.json](./228069-yags-falling-for-you.json) |
 | Yahtzee Party | 205809 | [205809-yahtzee-party.json](./205809-yahtzee-party.json) |
+| Yakimochi Stream | 373023 | [373023-yakimochi-stream.json](./373023-yakimochi-stream.json) |
 | Yakoh: Shinobi Ops | 389431 | [389431-yakoh-shinobi-ops.json](./389431-yakoh-shinobi-ops.json) |
 | Yaku Slap | 329976 | [329976-yaku-slap.json](./329976-yaku-slap.json) |
 | Yakuman | 67330 | [67330-yakuman.json](./67330-yakuman.json) |
@@ -169,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yugowave | 250009 | [250009-yugowave.json](./250009-yugowave.json) |
 | Yuji Naka's NES Game | 257650 | [257650-yuji-nakas-nes-game.json](./257650-yuji-nakas-nes-game.json) |
 | Yukiguni no Shoujo | 164514 | [164514-yukiguni-no-shoujo.json](./164514-yukiguni-no-shoujo.json) |
+| Yukkuri Diary | 373010 | [373010-yukkuri-diary.json](./373010-yukkuri-diary.json) |
 | Yukkuri Labo: Touhou Yukkuri no Ragdoll Simulator Game | 220302 | [220302-yukkuri-labo-touhou-yukkuri-no-ragdoll-simulator-game.json](./220302-yukkuri-labo-touhou-yukkuri-no-ragdoll-simulator-game.json) |
 | Yukti | 174360 | [174360-yukti.json](./174360-yukti.json) |
 | Yuldigard's Fate | 133463 | [133463-yuldigards-fate.json](./133463-yuldigards-fate.json) |
