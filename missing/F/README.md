@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floodland | 214497 | [214497-floodland.json](./214497-floodland.json) |
 | Floodrush | 251217 | [251217-floodrush.json](./251217-floodrush.json) |
 | Floor | 26645 | [26645-floor.json](./26645-floor.json) |
+| Floor 12 | 408074 | [408074-floor-12.json](./408074-floor-12.json) |
 | Floor Drop | 413655 | [413655-floor-drop.json](./413655-floor-drop.json) |
 | Floor is Lava | 207520 | [207520-floor-is-lava.json](./207520-floor-is-lava.json) |
 | Floor44 | 213011 | [213011-floor44.json](./213011-floor44.json) |
