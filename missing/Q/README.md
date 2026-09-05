@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuestBall | 245019 | [245019-questball.json](./245019-questball.json) |
 | Questboard | 333914 | [333914-questboard.json](./333914-questboard.json) |
 | Quester | 197387 | [197387-quester.json](./197387-quester.json) |
+| Questinarium | 393467 | [393467-questinarium.json](./393467-questinarium.json) |
 | QuestionBank | 341316 | [341316-questionbank.json](./341316-questionbank.json) |
 | Questions pour un Champion | 147473 | [147473-questions-pour-un-champion.json](./147473-questions-pour-un-champion.json) |
 | Questland: Swords & Spirits | 100896 | [100896-questland-swords-and-spirits.json](./100896-questland-swords-and-spirits.json) |
