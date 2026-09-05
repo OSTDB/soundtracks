@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiet Christmas | 58236 | [58236-quiet-christmas.json](./58236-quiet-christmas.json) |
 | Quiet Dan | 379335 | [379335-quiet-dan.json](./379335-quiet-dan.json) |
 | Quiet House Massacre | 317023 | [317023-quiet-house-massacre.json](./317023-quiet-house-massacre.json) |
+| Quietus Euphony | 374046 | [374046-quietus-euphony.json](./374046-quietus-euphony.json) |
 | Quinterra | 145023 | [145023-quinterra.json](./145023-quinterra.json) |
 | Quip Anomaly | 31938 | [31938-quip-anomaly.json](./31938-quip-anomaly.json) |
 | Quit the Game to Win | 179167 | [179167-quit-the-game-to-win.json](./179167-quit-the-game-to-win.json) |
