@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Trail | 142561 | [142561-paper-trail.json](./142561-paper-trail.json) |
 | Paper Train | 63251 | [63251-paper-train.json](./63251-paper-train.json) |
 | Paper Wars: Cannon Fodder Devastated | 88328 | [88328-paper-wars-cannon-fodder-devastated.json](./88328-paper-wars-cannon-fodder-devastated.json) |
+| Paper-io | 79219 | [79219-paper-io.json](./79219-paper-io.json) |
 | Paperboy | 256079 | [256079-paperboy.json](./256079-paperboy.json) |
 | Paperboy | 256082 | [256082-paperboy.json](./256082-paperboy.json) |
 | Papercut Art Gallery-Growth | 297802 | [297802-papercut-art-gallery-growth.json](./297802-papercut-art-gallery-growth.json) |
@@ -925,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plummet | 84238 | [84238-plummet.json](./84238-plummet.json) |
 | Plummet Panic | 317618 | [317618-plummet-panic.json](./317618-plummet-panic.json) |
 | Plunder | 113748 | [113748-plunder.json](./113748-plunder.json) |
+| Plunge | 78780 | [78780-plunge.json](./78780-plunge.json) |
 | Plunger Simulator | 165653 | [165653-plunger-simulator.json](./165653-plunger-simulator.json) |
 | Plus Plum 2 | 62227 | [62227-plus-plum-2.json](./62227-plus-plum-2.json) |
 | Plush | 24629 | [24629-plush.json](./24629-plush.json) |
@@ -1283,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Princess: Himetachi no Abunai Houkago | 72671 | [72671-princess-princess-himetachi-no-abunai-houkago.json](./72671-princess-princess-himetachi-no-abunai-houkago.json) |
 | Princess Quest Part 1 | 250055 | [250055-princess-quest-part-1.json](./250055-princess-quest-part-1.json) |
 | Princess War | 39000 | [39000-princess-war.json](./39000-princess-war.json) |
+| Princess.Loot.Pixel.Again x2 | 79101 | [79101-princess-loot-pixel-again-x2.json](./79101-princess-loot-pixel-again-x2.json) |
 | Prinny Presents: NIS Classics Vol 1 - Deluxe Edition | 148545 | [148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json](./148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json) |
 | Prinny Presents: NIS Classics Vol 3 | 194961 | [194961-prinny-presents-nis-classics-vol-3.json](./194961-prinny-presents-nis-classics-vol-3.json) |
 | Priority Realignment | 234900 | [234900-priority-realignment.json](./234900-priority-realignment.json) |
@@ -1485,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proton Bus Simulator Road | 219822 | [219822-proton-bus-simulator-road.json](./219822-proton-bus-simulator-road.json) |
 | Proton Pulse + | 56526 | [56526-proton-pulse.json](./56526-proton-pulse.json) |
 | Prototype Blocks | 191244 | [191244-prototype-blocks.json](./191244-prototype-blocks.json) |
+| Prototype Mansion - Used No Cover | 77443 | [77443-prototype-mansion-used-no-cover.json](./77443-prototype-mansion-used-no-cover.json) |
 | Prototype TD 2 | 195796 | [195796-prototype-td-2.json](./195796-prototype-td-2.json) |
 | Proun | 80558 | [80558-proun.json](./80558-proun.json) |
 | Provide Relief | 272008 | [272008-provide-relief.json](./272008-provide-relief.json) |
