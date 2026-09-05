@@ -753,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GothicDM 2 | 229939 | [229939-gothicdm-2.json](./229939-gothicdm-2.json) |
 | Gotta Protectors: Cart of Darkness | 196318 | [196318-gotta-protectors-cart-of-darkness.json](./196318-gotta-protectors-cart-of-darkness.json) |
 | Götzendiener | 19661 | [19661-gotzendiener.json](./19661-gotzendiener.json) |
+| Gourgarion Incubus | 398348 | [398348-gourgarion-incubus.json](./398348-gourgarion-incubus.json) |
 | Gourmet Chef | 67336 | [67336-gourmet-chef.json](./67336-gourmet-chef.json) |
 | GoVenture Typing | 117708 | [117708-goventure-typing.json](./117708-goventure-typing.json) |
 | Government X | 244481 | [244481-government-x.json](./244481-government-x.json) |
