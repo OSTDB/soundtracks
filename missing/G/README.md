@@ -402,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Hospital | 111741 | [111741-ghost-hospital.json](./111741-ghost-hospital.json) |
 | Ghost House | 179731 | [179731-ghost-house.json](./179731-ghost-house.json) |
 | Ghost House | 384503 | [384503-ghost-house.json](./384503-ghost-house.json) |
+| Ghost HQ | 369011 | [369011-ghost-hq.json](./369011-ghost-hq.json) |
 | Ghost Hunters Academy | 66688 | [66688-ghost-hunters-academy.json](./66688-ghost-hunters-academy.json) |
 | Ghost in the Brain | 263224 | [263224-ghost-in-the-brain.json](./263224-ghost-in-the-brain.json) |
 | Ghost in the Shell: Arise - Stealth Hounds | 52005 | [52005-ghost-in-the-shell-arise-stealth-hounds.json](./52005-ghost-in-the-shell-arise-stealth-hounds.json) |
@@ -762,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Girls: Angels With Dirty Intentions | 399638 | [399638-good-girls-angels-with-dirty-intentions.json](./399638-good-girls-angels-with-dirty-intentions.json) |
 | Good God! | 400882 | [400882-good-god.json](./400882-good-god.json) |
 | Good Hell | 215356 | [215356-good-hell.json](./215356-good-hell.json) |
+| Good Knight's Sleep | 369021 | [369021-good-knights-sleep.json](./369021-good-knights-sleep.json) |
 | Good Mahjong | 88276 | [88276-good-mahjong.json](./88276-good-mahjong.json) |
 | Good Mourning | 148556 | [148556-good-mourning.json](./148556-good-mourning.json) |
 | Good Pizza, Great Pizza: Summer Slices Set - Summer 2023 | 255980 | [255980-good-pizza-great-pizza-summer-slices-set-summer-2023.json](./255980-good-pizza-great-pizza-summer-slices-set-summer-2023.json) |
