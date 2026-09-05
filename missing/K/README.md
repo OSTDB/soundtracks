@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kentucky Route Zero: Act V | 144981 | [144981-kentucky-route-zero-act-v.json](./144981-kentucky-route-zero-act-v.json) |
 | Keplerth | 95587 | [95587-keplerth.json](./95587-keplerth.json) |
 | Kerbal Space Program 2 | 121759 | [121759-kerbal-space-program-2.json](./121759-kerbal-space-program-2.json) |
+| Kerf: Sawmill Tycoon | 413677 | [413677-kerf-sawmill-tycoon.json](./413677-kerf-sawmill-tycoon.json) |
 | Keri-hime Sweets | 212454 | [212454-keri-hime-sweets.json](./212454-keri-hime-sweets.json) |
 | Keridwen | 161404 | [161404-keridwen.json](./161404-keridwen.json) |
 | Kero Kero Keroppi no Issho ni Asobou | 40239 | [40239-kero-kero-keroppi-no-issho-ni-asobou.json](./40239-kero-kero-keroppi-no-issho-ni-asobou.json) |
@@ -489,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knuckles the Echidna in Sonic the Hedgehog | 129185 | [129185-knuckles-the-echidna-in-sonic-the-hedgehog.json](./129185-knuckles-the-echidna-in-sonic-the-hedgehog.json) |
 | Knuckles Treasure Hunt | 325852 | [325852-knuckles-treasure-hunt.json](./325852-knuckles-treasure-hunt.json) |
 | Knuckles' Emerald Hunt | 129184 | [129184-knuckles-emerald-hunt.json](./129184-knuckles-emerald-hunt.json) |
+| Knytt Classic | 412975 | [412975-knytt-classic.json](./412975-knytt-classic.json) |
 | Kobito-zukan: Kobito no Fushigi Jikken Set | 329947 | [329947-kobito-zukan-kobito-no-fushigi-jikken-set.json](./329947-kobito-zukan-kobito-no-fushigi-jikken-set.json) |
 | Kobold Slayer | 111690 | [111690-kobold-slayer.json](./111690-kobold-slayer.json) |
 | Kochira, Haha Naru Hoshi Yori | 152912 | [152912-kochira-haha-naru-hoshi-yori.json](./152912-kochira-haha-naru-hoshi-yori.json) |
@@ -502,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KoiGig: Devil x Angel | 202373 | [202373-koigig-devil-x-angel.json](./202373-koigig-devil-x-angel.json) |
 | Koihime Enbu RyoRaiRai: Jokou and Kakuka | 159307 | [159307-koihime-enbu-ryorairai-jokou-and-kakuka.json](./159307-koihime-enbu-ryorairai-jokou-and-kakuka.json) |
 | Koinori | 415117 | [415117-koinori.json](./415117-koinori.json) |
+| Koinu de Kururin | 412988 | [412988-koinu-de-kururin.json](./412988-koinu-de-kururin.json) |
 | Koishi's Lumo | 132280 | [132280-koishis-lumo.json](./132280-koishis-lumo.json) |
 | Kokohore! Pukka: Dig-a-Dig Pukka | 138825 | [138825-kokohore-pukka-dig-a-dig-pukka.json](./138825-kokohore-pukka-dig-a-dig-pukka.json) |
 | Kokontouzai Eto Monogatari | 40229 | [40229-kokontouzai-eto-monogatari.json](./40229-kokontouzai-eto-monogatari.json) |
@@ -613,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuru-kuru Action Kuru Pachi 6 | 220845 | [220845-kuru-kuru-action-kuru-pachi-6.json](./220845-kuru-kuru-action-kuru-pachi-6.json) |
 | Kuru-kuru Puzzle Sekai-shi B | 276465 | [276465-kuru-kuru-puzzle-sekai-shi-b.json](./276465-kuru-kuru-puzzle-sekai-shi-b.json) |
 | Kuruma de DS | 302675 | [302675-kuruma-de-ds.json](./302675-kuruma-de-ds.json) |
+| Kururuga | 412967 | [412967-kururuga.json](./412967-kururuga.json) |
 | Kurushi Final: Mental Blocks | 272549 | [272549-kurushi-final-mental-blocks.json](./272549-kurushi-final-mental-blocks.json) |
 | Kusarihime: Euthanasia | 138804 | [138804-kusarihime-euthanasia.json](./138804-kusarihime-euthanasia.json) |
 | Kusarihime: Jamais Vu | 331686 | [331686-kusarihime-jamais-vu.json](./331686-kusarihime-jamais-vu.json) |
