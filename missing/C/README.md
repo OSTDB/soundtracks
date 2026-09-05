@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Tsuku: Is the order a Heart? | 204711 | [204711-cafe-tsuku-is-the-order-a-heart.json](./204711-cafe-tsuku-is-the-order-a-heart.json) |
 | Cafeworld | 177027 | [177027-cafeworld.json](./177027-cafeworld.json) |
 | Cagebreak | 60568 | [60568-cagebreak.json](./60568-cagebreak.json) |
+| Cahors Sunset | 35956 | [35956-cahors-sunset.json](./35956-cahors-sunset.json) |
 | Cairn | 178665 | [178665-cairn.json](./178665-cairn.json) |
 | Caïssa Board | 152893 | [152893-caissa-board.json](./152893-caissa-board.json) |
 | Cake Bites Make & Bake: Cooking Dessert Kids Game | 109012 | [109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json](./109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json) |
@@ -378,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacombs | 142466 | [142466-catacombs.json](./142466-catacombs.json) |
 | Catacombs | 169979 | [169979-catacombs.json](./169979-catacombs.json) |
 | Catacombs 1: Demon War | 43505 | [43505-catacombs-1-demon-war.json](./43505-catacombs-1-demon-war.json) |
+| Cataegis : The White Wind | 35920 | [35920-cataegis-the-white-wind.json](./35920-cataegis-the-white-wind.json) |
 | Cataline | 209710 | [209710-cataline.json](./209710-cataline.json) |
 | Catan: Cities & Knights | 238213 | [238213-catan-cities-and-knights.json](./238213-catan-cities-and-knights.json) |
 | Catan: Console Edition - Complete Collection | 303803 | [303803-catan-console-edition-complete-collection.json](./303803-catan-console-edition-complete-collection.json) |
@@ -750,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicle of Ekan | 169980 | [169980-chronicle-of-ekan.json](./169980-chronicle-of-ekan.json) |
 | Chronicles of 2 Heroes: Amaterasu's Wrath | 191850 | [191850-chronicles-of-2-heroes-amaterasus-wrath.json](./191850-chronicles-of-2-heroes-amaterasus-wrath.json) |
 | Chronicles of a Dark Lord: Episode 2 War of the Abyss | 7856 | [7856-chronicles-of-a-dark-lord-episode-2-war-of-the-abyss.json](./7856-chronicles-of-a-dark-lord-episode-2-war-of-the-abyss.json) |
+| Chronicles of a Dark Lord: Episode II War of The Abyss | 35962 | [35962-chronicles-of-a-dark-lord-episode-ii-war-of-the-abyss.json](./35962-chronicles-of-a-dark-lord-episode-ii-war-of-the-abyss.json) |
 | Chronicles of Albian 2: The Wizbury School of Magic | 339644 | [339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json](./339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json) |
 | Chronicles Of Errodean | 247740 | [247740-chronicles-of-errodean.json](./247740-chronicles-of-errodean.json) |
 | Chronicles of the Great Wilderness | 339109 | [339109-chronicles-of-the-great-wilderness.json](./339109-chronicles-of-the-great-wilderness.json) |
@@ -1325,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corner Driver | 225888 | [225888-corner-driver.json](./225888-corner-driver.json) |
 | Cornucopia | 237054 | [237054-cornucopia.json](./237054-cornucopia.json) |
 | Corona Blossom Vol.1 Gift From the Galaxy | 32228 | [32228-corona-blossom-vol-1-gift-from-the-galaxy.json](./32228-corona-blossom-vol-1-gift-from-the-galaxy.json) |
+| Corona MotorSport | 35926 | [35926-corona-motorsport.json](./35926-corona-motorsport.json) |
 | Corona Simulator: Savior Edition | 165004 | [165004-corona-simulator-savior-edition.json](./165004-corona-simulator-savior-edition.json) |
 | Coropata | 80582 | [80582-coropata.json](./80582-coropata.json) |
 | Corpo/Ghost | 291785 | [291785-corpo-ghost.json](./291785-corpo-ghost.json) |
@@ -1408,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter-Strike Techno: Zombies | 332267 | [332267-counter-strike-techno-zombies.json](./332267-counter-strike-techno-zombies.json) |
 | Countess in Crimson | 169458 | [169458-countess-in-crimson.json](./169458-countess-in-crimson.json) |
 | Counting on Frank | 71523 | [71523-counting-on-frank.json](./71523-counting-on-frank.json) |
+| Countless Rooms of Death | 35945 | [35945-countless-rooms-of-death.json](./35945-countless-rooms-of-death.json) |
 | Country House | 169983 | [169983-country-house.json](./169983-country-house.json) |
 | Country Star | 292826 | [292826-country-star.json](./292826-country-star.json) |
 | Countryballs At War | 300427 | [300427-countryballs-at-war.json](./300427-countryballs-at-war.json) |
@@ -1504,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crates n' Mohawks | 186339 | [186339-crates-n-mohawks.json](./186339-crates-n-mohawks.json) |
 | Crawlspace | 179208 | [179208-crawlspace.json](./179208-crawlspace.json) |
 | Crawlyard | 166753 | [166753-crawlyard.json](./166753-crawlyard.json) |
+| Crayon Chronicles | 35950 | [35950-crayon-chronicles.json](./35950-crayon-chronicles.json) |
 | Crayon Pairs | 105945 | [105945-crayon-pairs.json](./105945-crayon-pairs.json) |
 | Crayon Shin-Chan: Ora to Wanpaku Gokko dazo | 63314 | [63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json](./63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json) |
 | Crayon Shin-chan: Puzzle Daimaou no Nazo | 172768 | [172768-crayon-shin-chan-puzzle-daimaou-no-nazo.json](./172768-crayon-shin-chan-puzzle-daimaou-no-nazo.json) |
@@ -1748,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Juice | 158221 | [158221-cubic-juice.json](./158221-cubic-juice.json) |
 | Cubic Odyssey | 329371 | [329371-cubic-odyssey.json](./329371-cubic-odyssey.json) |
 | Cubic Survivor | 255962 | [255962-cubic-survivor.json](./255962-cubic-survivor.json) |
+| Cubicle Quest | 35762 | [35762-cubicle-quest.json](./35762-cubicle-quest.json) |
 | CubicPanic | 98980 | [98980-cubicpanic.json](./98980-cubicpanic.json) |
 | Cubio | 321152 | [321152-cubio.json](./321152-cubio.json) |
 | Cubis Creatures | 253017 | [253017-cubis-creatures.json](./253017-cubis-creatures.json) |
