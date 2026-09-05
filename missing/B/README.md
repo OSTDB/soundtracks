@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BabushCats | 297778 | [297778-babushcats.json](./297778-babushcats.json) |
 | Baby Blimp | 177054 | [177054-baby-blimp.json](./177054-baby-blimp.json) |
 | Baby Boomer | 48107 | [48107-baby-boomer.json](./48107-baby-boomer.json) |
+| Baby Escape | 400220 | [400220-baby-escape.json](./400220-baby-escape.json) |
 | Baby Killer | 117733 | [117733-baby-killer.json](./117733-baby-killer.json) |
 | Baby Lite A Line | 100171 | [100171-baby-lite-a-line.json](./100171-baby-lite-a-line.json) |
 | Baby Panda's Airport | 105968 | [105968-baby-pandas-airport.json](./105968-baby-pandas-airport.json) |
@@ -1346,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom! Tanks | 62778 | [62778-boom-tanks.json](./62778-boom-tanks.json) |
 | Boomblastica | 65520 | [65520-boomblastica.json](./65520-boomblastica.json) |
 | Boomerang RPG | 297248 | [297248-boomerang-rpg.json](./297248-boomerang-rpg.json) |
+| BoomScroll | 400236 | [400236-boomscroll.json](./400236-boomscroll.json) |
 | Booox | 410222 | [410222-booox.json](./410222-booox.json) |
 | Boopie Island | 406732 | [406732-boopie-island.json](./406732-boopie-island.json) |
 | Boosted Survivors | 314666 | [314666-boosted-survivors.json](./314666-boosted-survivors.json) |
@@ -1731,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugger Off! | 278712 | [278712-bugger-off.json](./278712-bugger-off.json) |
 | Buggy Boogie | 66677 | [66677-buggy-boogie.json](./66677-buggy-boogie.json) |
 | Buggy Boy | 12728 | [12728-buggy-boy.json](./12728-buggy-boy.json) |
+| Buggy Off-Road Racing: Ultra Edition | 400196 | [400196-buggy-off-road-racing-ultra-edition.json](./400196-buggy-off-road-racing-ultra-edition.json) |
 | Bugs | 332238 | [332238-bugs.json](./332238-bugs.json) |
 | Bugs Bunny's Birthday Ball | 81361 | [81361-bugs-bunnys-birthday-ball.json](./81361-bugs-bunnys-birthday-ball.json) |
 | Bugz | 270400 | [270400-bugz.json](./270400-bugz.json) |
