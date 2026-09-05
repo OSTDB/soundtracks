@@ -257,6 +257,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardboard Football Club | 233206 | [233206-cardboard-football-club.json](./233206-cardboard-football-club.json) |
 | Cardfight!! Vanguard EX | 115018 | [115018-cardfight-vanguard-ex.json](./115018-cardfight-vanguard-ex.json) |
 | Cardfight!! Vanguard: Dear Days - Additional Special Set | 301017 | [301017-cardfight-vanguard-dear-days-additional-special-set.json](./301017-cardfight-vanguard-dear-days-additional-special-set.json) |
+| Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.6 | 375180 | [375180-cardfight-vanguard-dear-days-2-card-unlock-vol-6.json](./375180-cardfight-vanguard-dear-days-2-card-unlock-vol-6.json) |
+| Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.7 | 375179 | [375179-cardfight-vanguard-dear-days-2-card-unlock-vol-7.json](./375179-cardfight-vanguard-dear-days-2-card-unlock-vol-7.json) |
+| Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.8 | 375178 | [375178-cardfight-vanguard-dear-days-2-card-unlock-vol-8.json](./375178-cardfight-vanguard-dear-days-2-card-unlock-vol-8.json) |
 | Cardfight!!: Additional Card Set Vol.6 [D-BT09] - Dragontree Invasion | 267666 | [267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json](./267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json) |
 | Cardinal Land: Jigsaw & Tangram Puzzle Blend | 87213 | [87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json](./87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json) |
 | Cardnarok: Raid with Gods | 132232 | [132232-cardnarok-raid-with-gods.json](./132232-cardnarok-raid-with-gods.json) |
@@ -718,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChickenPop! | 103519 | [103519-chickenpop.json](./103519-chickenpop.json) |
 | Chickens in Choppers | 270401 | [270401-chickens-in-choppers.json](./270401-chickens-in-choppers.json) |
 | Chickens on the Road | 143072 | [143072-chickens-on-the-road.json](./143072-chickens-on-the-road.json) |
+| Chicktionary | 375202 | [375202-chicktionary.json](./375202-chicktionary.json) |
 | Chicku | 181397 | [181397-chicku.json](./181397-chicku.json) |
 | Chicky Woggy | 41421 | [41421-chicky-woggy.json](./41421-chicky-woggy.json) |
 | Chief's Quest | 111703 | [111703-chiefs-quest.json](./111703-chiefs-quest.json) |
