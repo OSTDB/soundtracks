@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Project | 133419 | [133419-green-project.json](./133419-green-project.json) |
 | Green Run | 107197 | [107197-green-run.json](./107197-green-run.json) |
 | Green Steel | 161361 | [161361-green-steel.json](./161361-green-steel.json) |
+| Green Suits | 408735 | [408735-green-suits.json](./408735-green-suits.json) |
 | Green Wind | 209638 | [209638-green-wind.json](./209638-green-wind.json) |
 | Green Zone | 254768 | [254768-green-zone.json](./254768-green-zone.json) |
 | GreenChess | 87293 | [87293-greenchess.json](./87293-greenchess.json) |
