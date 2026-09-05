@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Brothers 2 | 53872 | [53872-viking-brothers-2.json](./53872-viking-brothers-2.json) |
 | Viking Colony Builder Valhalla | 322979 | [322979-viking-colony-builder-valhalla.json](./322979-viking-colony-builder-valhalla.json) |
 | Viking Dodge | 7837 | [7837-viking-dodge.json](./7837-viking-dodge.json) |
+| Viking Farm | 396909 | [396909-viking-farm.json](./396909-viking-farm.json) |
 | Viking Idle | 172167 | [172167-viking-idle.json](./172167-viking-idle.json) |
 | Viking Invasion | 67331 | [67331-viking-invasion.json](./67331-viking-invasion.json) |
 | Viking Invasion 2 - Tower Defense | 85476 | [85476-viking-invasion-2-tower-defense.json](./85476-viking-invasion-2-tower-defense.json) |
