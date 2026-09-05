@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.B.I. Baseball 20 | 126188 | [126188-r-b-i-baseball-20.json](./126188-r-b-i-baseball-20.json) |
 | R.C. Bot Inc. | 33097 | [33097-r-c-bot-inc.json](./33097-r-c-bot-inc.json) |
 | R.I.C.A | 115013 | [115013-r-i-c-a.json](./115013-r-i-c-a.json) |
+| R.I.P. | 381005 | [381005-r-i-p.json](./381005-r-i-p.json) |
 | R.I.S.K. | 55184 | [55184-r-i-s-k.json](./55184-r-i-s-k.json) |
 | R.P.G | 234326 | [234326-r-p-g.json](./234326-r-p-g.json) |
 | R/C Sports: Copter Challenge | 202927 | [202927-r-c-sports-copter-challenge.json](./202927-r-c-sports-copter-challenge.json) |
@@ -408,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ball Super Run | 228711 | [228711-red-ball-super-run.json](./228711-red-ball-super-run.json) |
 | Red Baron History | 9411 | [9411-red-baron-history.json](./9411-red-baron-history.json) |
 | Red Bash | 187537 | [187537-red-bash.json](./187537-red-bash.json) |
+| Red Bow: Strange Dream | 380998 | [380998-red-bow-strange-dream.json](./380998-red-bow-strange-dream.json) |
 | Red Bull Air Race 2 | 100165 | [100165-red-bull-air-race-2.json](./100165-red-bull-air-race-2.json) |
 | Red Bull X-Fighters | 20629 | [20629-red-bull-x-fighters.json](./20629-red-bull-x-fighters.json) |
 | Red Bull: Soapbox Racers | 336920 | [336920-red-bull-soapbox-racers.json](./336920-red-bull-soapbox-racers.json) |
