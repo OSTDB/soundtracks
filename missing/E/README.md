@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edens Zero Deluxe Edition | 336887 | [336887-edens-zero-deluxe-edition.json](./336887-edens-zero-deluxe-edition.json) |
 | Edens Zero: Pocket Galaxy | 174888 | [174888-edens-zero-pocket-galaxy.json](./174888-edens-zero-pocket-galaxy.json) |
 | Edge of Atlantis | 28946 | [28946-edge-of-atlantis.json](./28946-edge-of-atlantis.json) |
+| Edge Of Dread | 388723 | [388723-edge-of-dread.json](./388723-edge-of-dread.json) |
 | Edge of Galaxy | 115681 | [115681-edge-of-galaxy.json](./115681-edge-of-galaxy.json) |
 | Edge of Grief | 254760 | [254760-edge-of-grief.json](./254760-edge-of-grief.json) |
 | Edge of Nowhere | 11159 | [11159-edge-of-nowhere.json](./11159-edge-of-nowhere.json) |
@@ -460,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epsilon | 17391 | [17391-epsilon.json](./17391-epsilon.json) |
 | Epsilon wars | 167296 | [167296-epsilon-wars.json](./167296-epsilon-wars.json) |
 | Equilibrium Ocean | 107161 | [107161-equilibrium-ocean.json](./107161-equilibrium-ocean.json) |
+| Equilibrium Point | 388742 | [388742-equilibrium-point.json](./388742-equilibrium-point.json) |
 | Equilibrium VR | 29941 | [29941-equilibrium-vr.json](./29941-equilibrium-vr.json) |
 | Equinox | 100180 | [100180-equinox.json](./100180-equinox.json) |
 | Equinox | 197403 | [197403-equinox.json](./197403-equinox.json) |
@@ -524,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From The Tutorial | 301599 | [301599-escape-from-the-tutorial.json](./301599-escape-from-the-tutorial.json) |
 | Escape from Vacov | 412993 | [412993-escape-from-vacov.json](./412993-escape-from-vacov.json) |
 | Escape from Voyna | 96738 | [96738-escape-from-voyna.json](./96738-escape-from-voyna.json) |
+| Escape From Yandere | 388741 | [388741-escape-from-yandere.json](./388741-escape-from-yandere.json) |
 | Escape from Zeta Aurigae | 291240 | [291240-escape-from-zeta-aurigae.json](./291240-escape-from-zeta-aurigae.json) |
 | Escape Gaia: Departure | 311797 | [311797-escape-gaia-departure.json](./311797-escape-gaia-departure.json) |
 | Escape game R00m 10 | 390491 | [390491-escape-game-r00m-10.json](./390491-escape-game-r00m-10.json) |
