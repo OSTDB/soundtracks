@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Gem Ponies | 183573 | [183573-battle-gem-ponies.json](./183573-battle-gem-ponies.json) |
 | Battle Grand Prix | 42628 | [42628-battle-grand-prix.json](./42628-battle-grand-prix.json) |
 | Battle Grounds III | 117066 | [117066-battle-grounds-iii.json](./117066-battle-grounds-iii.json) |
+| Battle Hanafuda | 377059 | [377059-battle-hanafuda.json](./377059-battle-hanafuda.json) |
 | Battle Heat! | 45962 | [45962-battle-heat.json](./45962-battle-heat.json) |
 | Battle In Space | 212470 | [212470-battle-in-space.json](./212470-battle-in-space.json) |
 | Battle Insects | 52644 | [52644-battle-insects.json](./52644-battle-insects.json) |
@@ -880,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bind: Brain teaser puzzle game | 88292 | [88292-bind-brain-teaser-puzzle-game.json](./88292-bind-brain-teaser-puzzle-game.json) |
 | Bingaboll | 259862 | [259862-bingaboll.json](./259862-bingaboll.json) |
 | Bingo 75 | 22429 | [22429-bingo-75.json](./22429-bingo-75.json) |
+| Bingo Betty | 377081 | [377081-bingo-betty.json](./377081-bingo-betty.json) |
 | Bingo de NouTore: BinTore | 222526 | [222526-bingo-de-noutore-bintore.json](./222526-bingo-de-noutore-bintore.json) |
 | Bingo Infinity | 96082 | [96082-bingo-infinity.json](./96082-bingo-infinity.json) |
 | Bingo Roulette | 404213 | [404213-bingo-roulette.json](./404213-bingo-roulette.json) |
@@ -1249,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloomblebee | 175989 | [175989-bloomblebee.json](./175989-bloomblebee.json) |
 | Bloomies | 175427 | [175427-bloomies.json](./175427-bloomies.json) |
 | Bloomies | 388722 | [388722-bloomies.json](./388722-bloomies.json) |
+| Blooming Cards | 377054 | [377054-blooming-cards.json](./377054-blooming-cards.json) |
 | Bloomyth & Strong Moon Bundle | 262055 | [262055-bloomyth-and-strong-moon-bundle.json](./262055-bloomyth-and-strong-moon-bundle.json) |
 | Bloons | 93561 | [93561-bloons.json](./93561-bloons.json) |
 | Bloons But You're the Bloon | 246094 | [246094-bloons-but-youre-the-bloon.json](./246094-bloons-but-youre-the-bloon.json) |
@@ -1324,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Body Pay | 296665 | [296665-body-pay.json](./296665-body-pay.json) |
 | Body Sushi | 393471 | [393471-body-sushi.json](./393471-body-sushi.json) |
 | BodyCam GangZone | 335092 | [335092-bodycam-gangzone.json](./335092-bodycam-gangzone.json) |
+| Bodycam Recorded | 377079 | [377079-bodycam-recorded.json](./377079-bodycam-recorded.json) |
 | Bodyguard Task Force | 291252 | [291252-bodyguard-task-force.json](./291252-bodyguard-task-force.json) |
 | Boeckham's Football Manager | 337456 | [337456-boeckhams-football-manager.json](./337456-boeckhams-football-manager.json) |
 | BOFH: Servers Under Siege | 51277 | [51277-bofh-servers-under-siege.json](./51277-bofh-servers-under-siege.json) |
@@ -1580,6 +1584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bram Stoker's Dracula | 14342 | [14342-bram-stokers-dracula.json](./14342-bram-stokers-dracula.json) |
 | Bram Stoker's Dracula | 5366 | [5366-bram-stokers-dracula.json](./5366-bram-stokers-dracula.json) |
 | Braminar | 80614 | [80614-braminar.json](./80614-braminar.json) |
+| Branchbound: Launch of the Logs | 377064 | [377064-branchbound-launch-of-the-logs.json](./377064-branchbound-launch-of-the-logs.json) |
 | Brandins Buttons | 151176 | [151176-brandins-buttons.json](./151176-brandins-buttons.json) |
 | Branmarker 2 | 64977 | [64977-branmarker-2.json](./64977-branmarker-2.json) |
 | BrasFoot 2003 | 249466 | [249466-brasfoot-2003.json](./249466-brasfoot-2003.json) |
@@ -1897,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunninjutsu | 378179 | [378179-bunninjutsu.json](./378179-bunninjutsu.json) |
 | Bunny Bond | 265395 | [265395-bunny-bond.json](./265395-bunny-bond.json) |
 | Bunny Girl Story | 201844 | [201844-bunny-girl-story.json](./201844-bunny-girl-story.json) |
+| Bunny Hopper | 377049 | [377049-bunny-hopper.json](./377049-bunny-hopper.json) |
 | Bunny Madness Anarchy | 38995 | [38995-bunny-madness-anarchy.json](./38995-bunny-madness-anarchy.json) |
 | Bunny Minesweeper | 106579 | [106579-bunny-minesweeper.json](./106579-bunny-minesweeper.json) |
 | Bunny Prison Break | 250010 | [250010-bunny-prison-break.json](./250010-bunny-prison-break.json) |
@@ -1926,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Mountain and Sea | 150681 | [150681-burning-mountain-and-sea.json](./150681-burning-mountain-and-sea.json) |
 | Burning Ravager | 180816 | [180816-burning-ravager.json](./180816-burning-ravager.json) |
 | Burning Secrets: A Bara Visual Novel | 275891 | [275891-burning-secrets-a-bara-visual-novel.json](./275891-burning-secrets-a-bara-visual-novel.json) |
+| Burnogue | 377090 | [377090-burnogue.json](./377090-burnogue.json) |
 | Burnout | 14355 | [14355-burnout.json](./14355-burnout.json) |
 | Burnout Dominator | 6203 | [6203-burnout-dominator.json](./6203-burnout-dominator.json) |
 | Burnout Drift | 116364 | [116364-burnout-drift.json](./116364-burnout-drift.json) |
