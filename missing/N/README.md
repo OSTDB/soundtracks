@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nihongo School | 257106 | [257106-nihongo-school.json](./257106-nihongo-school.json) |
 | Niizuma wa Sailor Fuku | 72717 | [72717-niizuma-wa-sailor-fuku.json](./72717-niizuma-wa-sailor-fuku.json) |
 | Niji-iro Canvas | 109003 | [109003-niji-iro-canvas.json](./109003-niji-iro-canvas.json) |
+| Nijiiro Twinkle: Guru-guru Daisakusen | 378171 | [378171-nijiiro-twinkle-guru-guru-daisakusen.json](./378171-nijiiro-twinkle-guru-guru-daisakusen.json) |
 | Nike+ Kinect Training | 21010 | [21010-nike-kinect-training.json](./21010-nike-kinect-training.json) |
 | Nikka: Rise | 235486 | [235486-nikka-rise.json](./235486-nikka-rise.json) |
 | Niko Niko Pun | 42057 | [42057-niko-niko-pun.json](./42057-niko-niko-pun.json) |
@@ -755,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturne in Yellow | 141870 | [141870-nocturne-in-yellow.json](./141870-nocturne-in-yellow.json) |
 | Nocturne of Steel | 107893 | [107893-nocturne-of-steel.json](./107893-nocturne-of-steel.json) |
 | Nod3s | 23857 | [23857-nod3s.json](./23857-nod3s.json) |
+| NodalBastion | 378196 | [378196-nodalbastion.json](./378196-nodalbastion.json) |
 | Noddy: A Day in Toyland | 49388 | [49388-noddy-a-day-in-toyland.json](./49388-noddy-a-day-in-toyland.json) |
 | Nodes of Yesod | 23059 | [23059-nodes-of-yesod.json](./23059-nodes-of-yesod.json) |
 | Noel the Mortal Fate S1-7 | 102484 | [102484-noel-the-mortal-fate-s1-7.json](./102484-noel-the-mortal-fate-s1-7.json) |
