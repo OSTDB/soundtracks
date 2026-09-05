@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taurus War | 290701 | [290701-taurus-war.json](./290701-taurus-war.json) |
 | Tavenier | 81420 | [81420-tavenier.json](./81420-tavenier.json) |
 | Tavern Rumble: Roguelike Card | 256517 | [256517-tavern-rumble-roguelike-card.json](./256517-tavern-rumble-roguelike-card.json) |
+| Tavernier | 31587 | [31587-tavernier.json](./31587-tavernier.json) |
 | Taxi By Night | 184653 | [184653-taxi-by-night.json](./184653-taxi-by-night.json) |
 | Taxi in the Rain | 150177 | [150177-taxi-in-the-rain.json](./150177-taxi-in-the-rain.json) |
 | Taxi Life: A City Driving Simulator | 215898 | [215898-taxi-life-a-city-driving-simulator.json](./215898-taxi-life-a-city-driving-simulator.json) |
@@ -1072,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hardy Boys: Treasure on the Tracks | 21105 | [21105-the-hardy-boys-treasure-on-the-tracks.json](./21105-the-hardy-boys-treasure-on-the-tracks.json) |
 | The Harlem Shake vs. Gangnam Dance Game | 264355 | [264355-the-harlem-shake-vs-gangnam-dance-game.json](./264355-the-harlem-shake-vs-gangnam-dance-game.json) |
 | The Harmony of Buku | 55921 | [55921-the-harmony-of-buku.json](./55921-the-harmony-of-buku.json) |
+| The Hateful Dead | 31367 | [31367-the-hateful-dead.json](./31367-the-hateful-dead.json) |
 | The Haunted Dolls | 157181 | [157181-the-haunted-dolls.json](./157181-the-haunted-dolls.json) |
 | The Haunted Graveyard | 110343 | [110343-the-haunted-graveyard.json](./110343-the-haunted-graveyard.json) |
 | The Haunted Hospice | 259285 | [259285-the-haunted-hospice.json](./259285-the-haunted-hospice.json) |
@@ -1092,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Horrible Inside | 297817 | [297817-the-horrible-inside.json](./297817-the-horrible-inside.json) |
 | The Horrorscope: Fatal Awakening | 166773 | [166773-the-horrorscope-fatal-awakening.json](./166773-the-horrorscope-fatal-awakening.json) |
 | The Horse Lord | 13727 | [13727-the-horse-lord.json](./13727-the-horse-lord.json) |
+| The Horus Heresy: Battle of Tallarn | 31633 | [31633-the-horus-heresy-battle-of-tallarn.json](./31633-the-horus-heresy-battle-of-tallarn.json) |
 | The Hot Dog would Explode | 109750 | [109750-the-hot-dog-would-explode.json](./109750-the-hot-dog-would-explode.json) |
 | The Hotel 2 | 118436 | [118436-the-hotel-2.json](./118436-the-hotel-2.json) |
 | The Hotel: Floor 13 | 272576 | [272576-the-hotel-floor-13.json](./272576-the-hotel-floor-13.json) |
@@ -1287,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Twilight Princess HD | 18017 | [18017-the-legend-of-zelda-twilight-princess-hd.json](./18017-the-legend-of-zelda-twilight-princess-hd.json) |
 | The Legend of Zelda: Whomp's Fortress | 299484 | [299484-the-legend-of-zelda-whomps-fortress.json](./299484-the-legend-of-zelda-whomps-fortress.json) |
 | The Legendary Starfy | 20280 | [20280-the-legendary-starfy.json](./20280-the-legendary-starfy.json) |
+| The Legions of Rome | 31353 | [31353-the-legions-of-rome.json](./31353-the-legions-of-rome.json) |
 | The LEGO Movie Videogame | 4845 | [4845-the-lego-movie-videogame.json](./4845-the-lego-movie-videogame.json) |
 | The Lesser Evil | 176507 | [176507-the-lesser-evil.json](./176507-the-lesser-evil.json) |
 | The Liar's Tavern | 322981 | [322981-the-liars-tavern.json](./322981-the-liars-tavern.json) |
@@ -1555,6 +1559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quintessential Quintuplets: Gotopazu Story 2nd | 299466 | [299466-the-quintessential-quintuplets-gotopazu-story-2nd.json](./299466-the-quintessential-quintuplets-gotopazu-story-2nd.json) |
 | The Quintessential Quintuplets: The Quintuplets Can't Divide the Puzzle Into Five Equal Parts | 194029 | [194029-the-quintessential-quintuplets-the-quintuplets-cant-divide-the-puzzle-into-five-equal-parts.json](./194029-the-quintessential-quintuplets-the-quintuplets-cant-divide-the-puzzle-into-five-equal-parts.json) |
 | The Rabbit's Scroll | 204114 | [204114-the-rabbits-scroll.json](./204114-the-rabbits-scroll.json) |
+| The Race for the White House 2016 | 31386 | [31386-the-race-for-the-white-house-2016.json](./31386-the-race-for-the-white-house-2016.json) |
 | The Rainbowers | 254156 | [254156-the-rainbowers.json](./254156-the-rainbowers.json) |
 | The Rainy Port Keelung | 35758 | [35758-the-rainy-port-keelung.json](./35758-the-rainy-port-keelung.json) |
 | The Ranchers | 142498 | [142498-the-ranchers.json](./142498-the-ranchers.json) |
@@ -1762,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The T.O.T.E.: Tales of the Elements | 258214 | [258214-the-t-o-t-e-tales-of-the-elements.json](./258214-the-t-o-t-e-tales-of-the-elements.json) |
 | The Tabung | 196310 | [196310-the-tabung.json](./196310-the-tabung.json) |
 | The Tail of the Serpent | 178681 | [178681-the-tail-of-the-serpent.json](./178681-the-tail-of-the-serpent.json) |
+| The Tale of Doris and the Dragon - Episode 1 | 31613 | [31613-the-tale-of-doris-and-the-dragon-episode-1.json](./31613-the-tale-of-doris-and-the-dragon-episode-1.json) |
 | The Tale of Knightess Milia | 82922 | [82922-the-tale-of-knightess-milia.json](./82922-the-tale-of-knightess-milia.json) |
 | The Tale of Onogoro | 196312 | [196312-the-tale-of-onogoro.json](./196312-the-tale-of-onogoro.json) |
 | The Tale of Relm | 333396 | [333396-the-tale-of-relm.json](./333396-the-tale-of-relm.json) |
@@ -1987,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Are Coming! | 173283 | [173283-they-are-coming.json](./173283-they-are-coming.json) |
 | They That Feast | 113036 | [113036-they-that-feast.json](./113036-they-that-feast.json) |
 | They Watch From the Walls | 181930 | [181930-they-watch-from-the-walls.json](./181930-they-watch-from-the-walls.json) |
+| Thick Air | 31392 | [31392-thick-air.json](./31392-thick-air.json) |
 | Thief City | 221424 | [221424-thief-city.json](./221424-thief-city.json) |
 | Thief of Thieves: Season One | 95116 | [95116-thief-of-thieves-season-one.json](./95116-thief-of-thieves-season-one.json) |
 | Thief Puzzle: Complete Edition | 315849 | [315849-thief-puzzle-complete-edition.json](./315849-thief-puzzle-complete-edition.json) |
@@ -2048,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threshold | 288609 | [288609-threshold.json](./288609-threshold.json) |
 | Threshold of Awakening | 272575 | [272575-threshold-of-awakening.json](./272575-threshold-of-awakening.json) |
 | Threshold of Pain | 274219 | [274219-threshold-of-pain.json](./274219-threshold-of-pain.json) |
+| Thrills & Chills - Roller Coasters | 31538 | [31538-thrills-and-chills-roller-coasters.json](./31538-thrills-and-chills-roller-coasters.json) |
 | Thrillville: Off the Rails | 322364 | [322364-thrillville-off-the-rails.json](./322364-thrillville-off-the-rails.json) |
 | Thrive | 142499 | [142499-thrive.json](./142499-thrive.json) |
 | Throb of Lovegirl: A Ero Waifu TD | 175983 | [175983-throb-of-lovegirl-a-ero-waifu-td.json](./175983-throb-of-lovegirl-a-ero-waifu-td.json) |
