@@ -657,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firewind | 73322 | [73322-firewind.json](./73322-firewind.json) |
 | Firework | 399603 | [399603-firework.json](./399603-firework.json) |
 | Firework Syndrome | 310756 | [310756-firework-syndrome.json](./310756-firework-syndrome.json) |
+| First | 377569 | [377569-first.json](./377569-first.json) |
 | First Blood | 312895 | [312895-first-blood.json](./312895-first-blood.json) |
 | First Christmas | 248907 | [248907-first-christmas.json](./248907-first-christmas.json) |
 | First Class Rescue | 407312 | [407312-first-class-rescue.json](./407312-first-class-rescue.json) |
@@ -875,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floodrush | 251217 | [251217-floodrush.json](./251217-floodrush.json) |
 | Floor | 26645 | [26645-floor.json](./26645-floor.json) |
 | Floor 12 | 408074 | [408074-floor-12.json](./408074-floor-12.json) |
+| Floor 13 | 377578 | [377578-floor-13.json](./377578-floor-13.json) |
 | Floor Drop | 413655 | [413655-floor-drop.json](./413655-floor-drop.json) |
 | Floor is Lava | 207520 | [207520-floor-is-lava.json](./207520-floor-is-lava.json) |
 | Floor44 | 213011 | [213011-floor44.json](./213011-floor44.json) |
