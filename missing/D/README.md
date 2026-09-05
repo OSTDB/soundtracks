@@ -822,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dialogue: A Writer's Story | 26706 | [26706-dialogue-a-writers-story.json](./26706-dialogue-a-writers-story.json) |
 | Diamond | 35826 | [35826-diamond.json](./35826-diamond.json) |
 | Diamond Dash | 72688 | [72688-diamond-dash.json](./72688-diamond-dash.json) |
+| Diamond Digger Saga | 391081 | [391081-diamond-digger-saga.json](./391081-diamond-digger-saga.json) |
 | Diamond Girl: An Earnest Education in Love | 147996 | [147996-diamond-girl-an-earnest-education-in-love.json](./147996-diamond-girl-an-earnest-education-in-love.json) |
 | Diamond Giza | 157193 | [157193-diamond-giza.json](./157193-diamond-giza.json) |
 | Diamond Joyce and the Secrets of Crystal Cave | 31960 | [31960-diamond-joyce-and-the-secrets-of-crystal-cave.json](./31960-diamond-joyce-and-the-secrets-of-crystal-cave.json) |
@@ -1067,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ditch Whit #1: Shield Night | 202922 | [202922-ditch-whit-1-shield-night.json](./202922-ditch-whit-1-shield-night.json) |
 | Dithered | 122411 | [122411-dithered.json](./122411-dithered.json) |
 | Divadlo | 271988 | [271988-divadlo.json](./271988-divadlo.json) |
+| Dive or Die: Children of Rain | 391055 | [391055-dive-or-die-children-of-rain.json](./391055-dive-or-die-children-of-rain.json) |
 | Dive to the Titanic | 16206 | [16206-dive-to-the-titanic.json](./16206-dive-to-the-titanic.json) |
 | Diver's Dream | 180281 | [180281-divers-dream.json](./180281-divers-dream.json) |
 | Diversant | 180294 | [180294-diversant.json](./180294-diversant.json) |
@@ -1393,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downfall to the Turnabout | 303757 | [303757-downfall-to-the-turnabout.json](./303757-downfall-to-the-turnabout.json) |
 | Download RAM Idle | 400222 | [400222-download-ram-idle.json](./400222-download-ram-idle.json) |
 | Download RAM Idle 2 | 400221 | [400221-download-ram-idle-2.json](./400221-download-ram-idle-2.json) |
+| DownSouth | 391048 | [391048-downsouth.json](./391048-downsouth.json) |
 | Downtown Mafia: Gang Wars | 105348 | [105348-downtown-mafia-gang-wars.json](./105348-downtown-mafia-gang-wars.json) |
 | Downtown Nekketsu Jidaigeki | 60562 | [60562-downtown-nekketsu-jidaigeki.json](./60562-downtown-nekketsu-jidaigeki.json) |
 | Downtown Run | 242783 | [242783-downtown-run.json](./242783-downtown-run.json) |
