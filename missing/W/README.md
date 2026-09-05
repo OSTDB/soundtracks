@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Dream Standing Up | 228097 | [228097-we-dream-standing-up.json](./228097-we-dream-standing-up.json) |
 | We Grew Up in War | 318776 | [318776-we-grew-up-in-war.json](./318776-we-grew-up-in-war.json) |
 | We Heist Too | 304885 | [304885-we-heist-too.json](./304885-we-heist-too.json) |
+| We Love Fish Tanks | 387332 | [387332-we-love-fish-tanks.json](./387332-we-love-fish-tanks.json) |
 | We Love Katamari Reroll + Royal Reverie - Katamari Damacy Series Music Bundle | 272559 | [272559-we-love-katamari-reroll-royal-reverie-katamari-damacy-series-music-bundle.json](./272559-we-love-katamari-reroll-royal-reverie-katamari-damacy-series-music-bundle.json) |
 | We Rock: Drum King | 5127 | [5127-we-rock-drum-king.json](./5127-we-rock-drum-king.json) |
 | We Sing Deutsche Hits 2 | 268208 | [268208-we-sing-deutsche-hits-2.json](./268208-we-sing-deutsche-hits-2.json) |
@@ -899,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wraith VR | 187515 | [187515-wraith-vr.json](./187515-wraith-vr.json) |
 | Wrap The Zap | 392786 | [392786-wrap-the-zap.json](./392786-wrap-the-zap.json) |
 | Wrath of Denethenor | 37155 | [37155-wrath-of-denethenor.json](./37155-wrath-of-denethenor.json) |
+| Wrath of the Arcane Realms | 387377 | [387377-wrath-of-the-arcane-realms.json](./387377-wrath-of-the-arcane-realms.json) |
 | WRC 2: FIA World Rally Championship 2011 | 51296 | [51296-wrc-2-fia-world-rally-championship-2011.json](./51296-wrc-2-fia-world-rally-championship-2011.json) |
 | Wrecked: A Psychedelic Adventure | 265952 | [265952-wrecked-a-psychedelic-adventure.json](./265952-wrecked-a-psychedelic-adventure.json) |
 | Wreckfest: American All-Stars Car Pack | 223692 | [223692-wreckfest-american-all-stars-car-pack.json](./223692-wreckfest-american-all-stars-car-pack.json) |
@@ -931,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WTA Tour Tennis | 66701 | [66701-wta-tour-tennis.json](./66701-wta-tour-tennis.json) |
 | WTC: Recruitment Day | 192462 | [192462-wtc-recruitment-day.json](./192462-wtc-recruitment-day.json) |
 | Wufo | 228074 | [228074-wufo.json](./228074-wufo.json) |
+| Wukong Survivors: Begin | 387379 | [387379-wukong-survivors-begin.json](./387379-wukong-survivors-begin.json) |
 | Wǔlín Zhēngbà zhī Yīngxióng Tiē | 93585 | [93585-wulin-zhengba-zhi-yingxiong-tie.json](./93585-wulin-zhengba-zhi-yingxiong-tie.json) |
 | Wunderhaven | 166763 | [166763-wunderhaven.json](./166763-wunderhaven.json) |
 | Wurd Torn | 58230 | [58230-wurd-torn.json](./58230-wurd-torn.json) |
