@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remi | 388700 | [388700-remi.json](./388700-remi.json) |
 | Reminisce | 306685 | [306685-reminisce.json](./306685-reminisce.json) |
 | ReMix: Encore | 311815 | [311815-remix-encore.json](./311815-remix-encore.json) |
+| Remnant Frontier: Survival | 373001 | [373001-remnant-frontier-survival.json](./373001-remnant-frontier-survival.json) |
 | Remnant Protocol | 236496 | [236496-remnant-protocol.json](./236496-remnant-protocol.json) |
 | Remnants of Naezith | 29520 | [29520-remnants-of-naezith.json](./29520-remnants-of-naezith.json) |
 | Remote Planets | 224766 | [224766-remote-planets.json](./224766-remote-planets.json) |
@@ -662,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resonark X | 141900 | [141900-resonark-x.json](./141900-resonark-x.json) |
 | Resort Beauties: Hentai Photo Puzzle | 409560 | [409560-resort-beauties-hentai-photo-puzzle.json](./409560-resort-beauties-hentai-photo-puzzle.json) |
 | Ressolve Steps | 375841 | [375841-ressolve-steps.json](./375841-ressolve-steps.json) |
+| Rest Area Simulator | 373009 | [373009-rest-area-simulator.json](./373009-rest-area-simulator.json) |
 | Rest House 2: The Wizard | 131593 | [131593-rest-house-2-the-wizard.json](./131593-rest-house-2-the-wizard.json) |
 | Rest to Landia | 292279 | [292279-rest-to-landia.json](./292279-rest-to-landia.json) |
 | Restarting Systems: Smoke's Bizarre Adventure | 378799 | [378799-restarting-systems-smokes-bizarre-adventure.json](./378799-restarting-systems-smokes-bizarre-adventure.json) |
@@ -924,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Teenage Mutant Ninja Turtles: City Showdown | 146288 | [146288-rise-of-the-teenage-mutant-ninja-turtles-city-showdown.json](./146288-rise-of-the-teenage-mutant-ninja-turtles-city-showdown.json) |
 | Rise of the Teenage Mutant Ninja Turtles: Epic Mutant Missions | 146290 | [146290-rise-of-the-teenage-mutant-ninja-turtles-epic-mutant-missions.json](./146290-rise-of-the-teenage-mutant-ninja-turtles-epic-mutant-missions.json) |
 | Rise of the Teenage Mutant Ninja Turtles: Road Riot | 146291 | [146291-rise-of-the-teenage-mutant-ninja-turtles-road-riot.json](./146291-rise-of-the-teenage-mutant-ninja-turtles-road-riot.json) |
+| Rise Out | 373027 | [373027-rise-out.json](./373027-rise-out.json) |
 | Rise up - Keeper challenge | 96743 | [96743-rise-up-keeper-challenge.json](./96743-rise-up-keeper-challenge.json) |
 | Risen 3: Titan Lords | 6142 | [6142-risen-3-titan-lords.json](./6142-risen-3-titan-lords.json) |
 | Rising Heat | 319372 | [319372-rising-heat.json](./319372-rising-heat.json) |
