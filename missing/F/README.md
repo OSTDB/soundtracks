@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Sim World: Pro Tour - Tournament Bass Pack | 156156 | [156156-fishing-sim-world-pro-tour-tournament-bass-pack.json](./156156-fishing-sim-world-pro-tour-tournament-bass-pack.json) |
 | Fishing Universe Simulator | 114416 | [114416-fishing-universe-simulator.json](./114416-fishing-universe-simulator.json) |
 | FishOmatic | 407332 | [407332-fishomatic.json](./407332-fishomatic.json) |
+| Fisht Fight | 367937 | [367937-fisht-fight.json](./367937-fisht-fight.json) |
 | Fishton: A Town to Remember | 219785 | [219785-fishton-a-town-to-remember.json](./219785-fishton-a-town-to-remember.json) |
 | Fishy Dish | 383960 | [383960-fishy-dish.json](./383960-fishy-dish.json) |
 | Fission | 381021 | [381021-fission.json](./381021-fission.json) |
@@ -1358,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Below | 415065 | [415065-from-below.json](./415065-from-below.json) |
 | From Flames | 127977 | [127977-from-flames.json](./127977-from-flames.json) |
 | From Four Sides | 296090 | [296090-from-four-sides.json](./296090-from-four-sides.json) |
+| From Hel to Asgard | 367983 | [367983-from-hel-to-asgard.json](./367983-from-hel-to-asgard.json) |
 | From Hell | 320524 | [320524-from-hell.json](./320524-from-hell.json) |
 | From Light | 59999 | [59999-from-light.json](./59999-from-light.json) |
 | From Madness with Love | 215934 | [215934-from-madness-with-love.json](./215934-from-madness-with-love.json) |
