@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexagonal Explods | 238729 | [238729-hexagonal-explods.json](./238729-hexagonal-explods.json) |
 | Hexanome | 110601 | [110601-hexanome.json](./110601-hexanome.json) |
 | HexaTerra | 320564 | [320564-hexaterra.json](./320564-hexaterra.json) |
+| Hexaword | 386725 | [386725-hexaword.json](./386725-hexaword.json) |
 | Hexceed: Cogitare Pack | 224231 | [224231-hexceed-cogitare-pack.json](./224231-hexceed-cogitare-pack.json) |
 | Hexceed: Exsupero Pack | 224229 | [224229-hexceed-exsupero-pack.json](./224229-hexceed-exsupero-pack.json) |
 | Hexceed: Incipiam | 224228 | [224228-hexceed-incipiam.json](./224228-hexceed-incipiam.json) |
@@ -866,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Holocaust | 273139 | [273139-holiday-holocaust.json](./273139-holiday-holocaust.json) |
 | Holiday Mania | 157183 | [157183-holiday-mania.json](./157183-holiday-mania.json) |
 | Holiday Racer | 144386 | [144386-holiday-racer.json](./144386-holiday-racer.json) |
+| Hollow Bequest | 386714 | [386714-hollow-bequest.json](./386714-hollow-bequest.json) |
 | Hollow Halls | 29905 | [29905-hollow-halls.json](./29905-hollow-halls.json) |
 | Hollow Hills National Park | 402287 | [402287-hollow-hills-national-park.json](./402287-hollow-hills-national-park.json) |
 | Hollow Stem | 297792 | [297792-hollow-stem.json](./297792-hollow-stem.json) |
@@ -1019,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Host Master Deux: Quest for Identity | 62185 | [62185-host-master-deux-quest-for-identity.json](./62185-host-master-deux-quest-for-identity.json) |
 | Hostyle | 397700 | [397700-hostyle.json](./397700-hostyle.json) |
 | Hot Air | 152908 | [152908-hot-air.json](./152908-hot-air.json) |
+| Hot and Cold | 386727 | [386727-hot-and-cold.json](./386727-hot-and-cold.json) |
 | Hot and Lovely 4 | 170556 | [170556-hot-and-lovely-4.json](./170556-hot-and-lovely-4.json) |
 | Hot Cocoa Magic! | 249469 | [249469-hot-cocoa-magic.json](./249469-hot-cocoa-magic.json) |
 | Hot Dodge! | 158721 | [158721-hot-dodge.json](./158721-hot-dodge.json) |
@@ -1173,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundredth | 208036 | [208036-hundredth.json](./208036-hundredth.json) |
 | Hunger Crunch | 233210 | [233210-hunger-crunch.json](./233210-hunger-crunch.json) |
 | Hunger of The Elder Slime | 180846 | [180846-hunger-of-the-elder-slime.json](./180846-hunger-of-the-elder-slime.json) |
+| Hungrities | 386695 | [386695-hungrities.json](./386695-hungrities.json) |
 | Hungry Chicks: Battle Farm | 402265 | [402265-hungry-chicks-battle-farm.json](./402265-hungry-chicks-battle-farm.json) |
 | Hungry Fox | 181393 | [181393-hungry-fox.json](./181393-hungry-fox.json) |
 | Hungry Giraffe | 20808 | [20808-hungry-giraffe.json](./20808-hungry-giraffe.json) |
