@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Highrise: London Life | 124801 | [124801-project-highrise-london-life.json](./124801-project-highrise-london-life.json) |
 | Project Highrise: Tokyo Towers | 124798 | [124798-project-highrise-tokyo-towers.json](./124798-project-highrise-tokyo-towers.json) |
 | Project Hive | 317034 | [317034-project-hive.json](./317034-project-hive.json) |
+| Project II: Final Fantasy IV | 379344 | [379344-project-ii-final-fantasy-iv.json](./379344-project-ii-final-fantasy-iv.json) |
 | Project Kizuna | 321764 | [321764-project-kizuna.json](./321764-project-kizuna.json) |
 | Project Labyrinth | 236515 | [236515-project-labyrinth.json](./236515-project-labyrinth.json) |
 | Project Landsword | 331140 | [331140-project-landsword.json](./331140-project-landsword.json) |
@@ -1579,6 +1580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Nincolas | 324093 | [324093-project-nincolas.json](./324093-project-nincolas.json) |
 | Project Omega | 70397 | [70397-project-omega.json](./70397-project-omega.json) |
 | Project Overkill | 20804 | [20804-project-overkill.json](./20804-project-overkill.json) |
+| Project P.I.T.T. | 379356 | [379356-project-p-i-t-t.json](./379356-project-p-i-t-t.json) |
 | Project Paradise 2 | 326978 | [326978-project-paradise-2.json](./326978-project-paradise-2.json) |
 | Project Parasite | 255379 | [255379-project-parasite.json](./255379-project-parasite.json) |
 | Project Possession | 211950 | [211950-project-possession.json](./211950-project-possession.json) |
