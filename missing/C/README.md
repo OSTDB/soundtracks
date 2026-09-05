@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.U.B.E | 412998 | [412998-c-u-b-e.json](./412998-c-u-b-e.json) |
 | C15: Horror | 121001 | [121001-c15-horror.json](./121001-c15-horror.json) |
 | C64 & Amiga Classix Remakes Sixpack | 94773 | [94773-c64-and-amiga-classix-remakes-sixpack.json](./94773-c64-and-amiga-classix-remakes-sixpack.json) |
+| C64 & AMIGA Classix Remakes Sixpack 4 | 377574 | [377574-c64-and-amiga-classix-remakes-sixpack-4.json](./377574-c64-and-amiga-classix-remakes-sixpack-4.json) |
 | Cabals: Magic & Battle Cards | 33107 | [33107-cabals-magic-and-battle-cards.json](./33107-cabals-magic-and-battle-cards.json) |
 | Cabbage Patch Kids: The Patch Puppy Rescue | 49363 | [49363-cabbage-patch-kids-the-patch-puppy-rescue.json](./49363-cabbage-patch-kids-the-patch-puppy-rescue.json) |
 | Cabela's 4x4 Off-Road Adventure | 94238 | [94238-cabelas-4x4-off-road-adventure.json](./94238-cabelas-4x4-off-road-adventure.json) |
@@ -1829,6 +1830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosslogic Ultimate | 66716 | [66716-crosslogic-ultimate.json](./66716-crosslogic-ultimate.json) |
 | CrossLust | 235491 | [235491-crosslust.json](./235491-crosslust.json) |
 | Crossover Collab | 379890 | [379890-crossover-collab.json](./379890-crossover-collab.json) |
+| Crossroads | 377570 | [377570-crossroads.json](./377570-crossroads.json) |
 | Crossroads Inn: Anniversary Edition | 154549 | [154549-crossroads-inn-anniversary-edition.json](./154549-crossroads-inn-anniversary-edition.json) |
 | Crossword | 402255 | [402255-crossword.json](./402255-crossword.json) |
 | Crossword Champ | 58273 | [58273-crossword-champ.json](./58273-crossword-champ.json) |
