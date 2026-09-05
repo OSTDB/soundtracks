@@ -1174,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police: Chase Down | 82131 | [82131-police-chase-down.json](./82131-police-chase-down.json) |
 | Political Arena | 180303 | [180303-political-arena.json](./180303-political-arena.json) |
 | Politics The Game | 304903 | [304903-politics-the-game.json](./304903-politics-the-game.json) |
+| Pollinate or Die | 381615 | [381615-pollinate-or-die.json](./381615-pollinate-or-die.json) |
 | Pollution | 316416 | [316416-pollution.json](./316416-pollution.json) |
 | Pollux | 40255 | [40255-pollux.json](./40255-pollux.json) |
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
