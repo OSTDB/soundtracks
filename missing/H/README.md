@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Monogatari 64 | 3509 | [3509-hamster-monogatari-64.json](./3509-hamster-monogatari-64.json) |
 | Hamster Panic | 151743 | [151743-hamster-panic.json](./151743-hamster-panic.json) |
 | Hamster Scramble | 125655 | [125655-hamster-scramble.json](./125655-hamster-scramble.json) |
+| Hana | 369565 | [369565-hana.json](./369565-hana.json) |
 | Hana Oboro: Sengoku-den Ranki | 136480 | [136480-hana-oboro-sengoku-den-ranki.json](./136480-hana-oboro-sengoku-den-ranki.json) |
 | Hanafuda Yuukyou-den: Nagarebana Oryuu | 267655 | [267655-hanafuda-yuukyou-den-nagarebana-oryuu.json](./267655-hanafuda-yuukyou-den-nagarebana-oryuu.json) |
 | Hanagumi Taisen Columns | 69307 | [69307-hanagumi-taisen-columns.json](./69307-hanagumi-taisen-columns.json) |
@@ -510,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello, Kami-sama Worker | 379354 | [379354-hello-kami-sama-worker.json](./379354-hello-kami-sama-worker.json) |
 | Hello: A Talking Simulator | 179173 | [179173-hello-a-talking-simulator.json](./179173-hello-a-talking-simulator.json) |
 | Hello! Lady Lynn: Yume no wo Heya ni Youkoso! | 293909 | [293909-hello-lady-lynn-yume-no-wo-heya-ni-youkoso.json](./293909-hello-lady-lynn-yume-no-wo-heya-ni-youkoso.json) |
+| HelloWorld: Escape | 369582 | [369582-helloworld-escape.json](./369582-helloworld-escape.json) |
 | Hellpoint: Ultimate Edition | 209688 | [209688-hellpoint-ultimate-edition.json](./209688-hellpoint-ultimate-edition.json) |
 | Hellrider | 143083 | [143083-hellrider.json](./143083-hellrider.json) |
 | Hellstuck: Rage With Your Friends | 200712 | [200712-hellstuck-rage-with-your-friends.json](./200712-hellstuck-rage-with-your-friends.json) |
