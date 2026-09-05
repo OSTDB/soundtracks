@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chainsaw Juice King | 321143 | [321143-chainsaw-juice-king.json](./321143-chainsaw-juice-king.json) |
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
+| Challenge Shot | 385555 | [385555-challenge-shot.json](./385555-challenge-shot.json) |
 | Challenge Together! Elementary School Quiz | 399620 | [399620-challenge-together-elementary-school-quiz.json](./399620-challenge-together-elementary-school-quiz.json) |
 | Challengers of Khalea | 76622 | [76622-challengers-of-khalea.json](./76622-challengers-of-khalea.json) |
 | Chalvo 55: Super Puzzle Action | 7821 | [7821-chalvo-55-super-puzzle-action.json](./7821-chalvo-55-super-puzzle-action.json) |
@@ -1548,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Couple-Cultivation Saves the World | 324669 | [324669-couple-cultivation-saves-the-world.json](./324669-couple-cultivation-saves-the-world.json) |
 | Courage | 207519 | [207519-courage.json](./207519-courage.json) |
 | Courage | 25768 | [25768-courage.json](./25768-courage.json) |
+| Courage Saw Game | 385598 | [385598-courage-saw-game.json](./385598-courage-saw-game.json) |
 | Courage: The Videogame | 170005 | [170005-courage-the-videogame.json](./170005-courage-the-videogame.json) |
 | Courageous Reasoning Nori 7 New World | 309077 | [309077-courageous-reasoning-nori-7-new-world.json](./309077-courageous-reasoning-nori-7-new-world.json) |
 | Courier Beware | 399597 | [399597-courier-beware.json](./399597-courier-beware.json) |
@@ -1896,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuban Missile Crisis: Ice Crusade | 24721 | [24721-cuban-missile-crisis-ice-crusade.json](./24721-cuban-missile-crisis-ice-crusade.json) |
 | CubbetyCuby | 388735 | [388735-cubbetycuby.json](./388735-cubbetycuby.json) |
 | Cube | 272548 | [272548-cube.json](./272548-cube.json) |
+| Cube | 385600 | [385600-cube.json](./385600-cube.json) |
 | Cube | 396933 | [396933-cube.json](./396933-cube.json) |
 | Cube 332 | 109729 | [109729-cube-332.json](./109729-cube-332.json) |
 | Cube Arena | 304900 | [304900-cube-arena.json](./304900-cube-arena.json) |
