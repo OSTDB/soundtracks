@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Garden Word Scramble | 233748 | [233748-hidden-garden-word-scramble.json](./233748-hidden-garden-word-scramble.json) |
 | Hidden Gems, Hidden Secrets | 240499 | [240499-hidden-gems-hidden-secrets.json](./240499-hidden-gems-hidden-secrets.json) |
 | Hidden Harbor Top-Down 3D | 195247 | [195247-hidden-harbor-top-down-3d.json](./195247-hidden-harbor-top-down-3d.json) |
+| Hidden Horror Photo Exhibition | 399643 | [399643-hidden-horror-photo-exhibition.json](./399643-hidden-horror-photo-exhibition.json) |
 | Hidden in my Paradise | 291242 | [291242-hidden-in-my-paradise.json](./291242-hidden-in-my-paradise.json) |
 | Hidden in the Dark | 210884 | [210884-hidden-in-the-dark.json](./210884-hidden-in-the-dark.json) |
 | Hidden Investigation 2: Homicide | 177055 | [177055-hidden-investigation-2-homicide.json](./177055-hidden-investigation-2-homicide.json) |
@@ -837,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hokko Spaces | 404866 | [404866-hokko-spaces.json](./404866-hokko-spaces.json) |
 | Hokuto no Ken 7: Seiken Retsuden Denshousha he no Michi | 38337 | [38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json](./38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json) |
 | Hold The Noise | 292286 | [292286-hold-the-noise.json](./292286-hold-the-noise.json) |
+| Hole ASMR | 399641 | [399641-hole-asmr.json](./399641-hole-asmr.json) |
 | Hole in One Golf | 49924 | [49924-hole-in-one-golf.json](./49924-hole-in-one-golf.json) |
 | Hole io & Helix Jump | 315836 | [315836-hole-io-and-helix-jump.json](./315836-hole-io-and-helix-jump.json) |
 | Hole io: Ancient DLC | 309081 | [309081-hole-io-ancient-dlc.json](./309081-hole-io-ancient-dlc.json) |
@@ -874,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home A Drone | 122421 | [122421-home-a-drone.json](./122421-home-a-drone.json) |
 | Home Game 3 | 243397 | [243397-home-game-3.json](./243397-home-game-3.json) |
 | Home Improvisation: Furniture Sandbox | 16301 | [16301-home-improvisation-furniture-sandbox.json](./16301-home-improvisation-furniture-sandbox.json) |
+| Home Rescue Clean And Restore Collector's Edition | 399642 | [399642-home-rescue-clean-and-restore-collectors-edition.json](./399642-home-rescue-clean-and-restore-collectors-edition.json) |
 | Home Run High | 109008 | [109008-home-run-high.json](./109008-home-run-high.json) |
 | Home Run King | 242809 | [242809-home-run-king.json](./242809-home-run-king.json) |
 | Home Safety Hotline | 244303 | [244303-home-safety-hotline.json](./244303-home-safety-hotline.json) |
