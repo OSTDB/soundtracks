@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KetnetKick | 94236 | [94236-ketnetkick.json](./94236-ketnetkick.json) |
 | Ketris | 182540 | [182540-ketris.json](./182540-ketris.json) |
 | Ketsui: Kizuna Jigoku-tachi | 214717 | [214717-ketsui-kizuna-jigoku-tachi.json](./214717-ketsui-kizuna-jigoku-tachi.json) |
+| Kevin's Playing In Berlin | 383397 | [383397-kevins-playing-in-berlin.json](./383397-kevins-playing-in-berlin.json) |
 | Kevtris | 68719 | [68719-kevtris.json](./68719-kevtris.json) |
 | Kewter’s Showroom | 340787 | [340787-kewter-s-showroom.json](./340787-kewter-s-showroom.json) |
 | Kewtia: Crystallite Hunt | 75859 | [75859-kewtia-crystallite-hunt.json](./75859-kewtia-crystallite-hunt.json) |
@@ -620,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kubo 3 | 159353 | [159353-kubo-3.json](./159353-kubo-3.json) |
 | Kubus | 80580 | [80580-kubus.json](./80580-kubus.json) |
 | Kuchisake Onna | 110496 | [110496-kuchisake-onna.json](./110496-kuchisake-onna.json) |
+| Kuentame | 383377 | [383377-kuentame.json](./383377-kuentame.json) |
 | Kuizu! Batounea! | 411565 | [411565-kuizu-batounea.json](./411565-kuizu-batounea.json) |
 | Kukoo Kitchen | 112349 | [112349-kukoo-kitchen.json](./112349-kukoo-kitchen.json) |
 | Kukui 2 | 140011 | [140011-kukui-2.json](./140011-kukui-2.json) |
