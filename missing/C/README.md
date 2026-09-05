@@ -1393,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connectify | 190196 | [190196-connectify.json](./190196-connectify.json) |
 | Connection | 100859 | [100859-connection.json](./100859-connection.json) |
 | Connor | 218145 | [218145-connor.json](./218145-connor.json) |
+| Conquer Lands | 372464 | [372464-conquer-lands.json](./372464-conquer-lands.json) |
 | Conquer the Dungeon | 190720 | [190720-conquer-the-dungeon.json](./190720-conquer-the-dungeon.json) |
 | Conquer the World | 71532 | [71532-conquer-the-world.json](./71532-conquer-the-world.json) |
 | Conquer: Napoleonic Wars | 235447 | [235447-conquer-napoleonic-wars.json](./235447-conquer-napoleonic-wars.json) |
