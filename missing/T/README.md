@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telly the TV | 314643 | [314643-telly-the-tv.json](./314643-telly-the-tv.json) |
 | Telmari | 265615 | [265615-telmari.json](./265615-telmari.json) |
 | Temple Knight Saga: Oath of the Knight's Sword | 267682 | [267682-temple-knight-saga-oath-of-the-knights-sword.json](./267682-temple-knight-saga-oath-of-the-knights-sword.json) |
+| Temple Maker 64 | 400852 | [400852-temple-maker-64.json](./400852-temple-maker-64.json) |
 | Temple of Aluxes | 61621 | [61621-temple-of-aluxes.json](./61621-temple-of-aluxes.json) |
 | Temple of Boonil | 198562 | [198562-temple-of-boonil.json](./198562-temple-of-boonil.json) |
 | Temple of Lily | 304873 | [304873-temple-of-lily.json](./304873-temple-of-lily.json) |
@@ -721,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The California Raisins | 73306 | [73306-the-california-raisins.json](./73306-the-california-raisins.json) |
 | The California Raisins: The Grape Escape | 48702 | [48702-the-california-raisins-the-grape-escape.json](./48702-the-california-raisins-the-grape-escape.json) |
 | The Caligula Effect: Overdose | 75990 | [75990-the-caligula-effect-overdose.json](./75990-the-caligula-effect-overdose.json) |
+| The Call Button | 400871 | [400871-the-call-button.json](./400871-the-call-button.json) |
 | The Callisto Protocol: Riot Bundle | 272560 | [272560-the-callisto-protocol-riot-bundle.json](./272560-the-callisto-protocol-riot-bundle.json) |
 | The Candle | 331669 | [331669-the-candle.json](./331669-the-candle.json) |
 | The Cannon Fighters | 253597 | [253597-the-cannon-fighters.json](./253597-the-cannon-fighters.json) |
@@ -810,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crooked Man | 46989 | [46989-the-crooked-man.json](./46989-the-crooked-man.json) |
 | The Crossroads | 411592 | [411592-the-crossroads.json](./411592-the-crossroads.json) |
 | The Crows | 326985 | [326985-the-crows.json](./326985-the-crows.json) |
+| The Crust: Supporter Pack | 400874 | [400874-the-crust-supporter-pack.json](./400874-the-crust-supporter-pack.json) |
 | The Crystal Rainforest | 151716 | [151716-the-crystal-rainforest.json](./151716-the-crystal-rainforest.json) |
 | The Culling II | 103367 | [103367-the-culling-ii.json](./103367-the-culling-ii.json) |
 | The Cult: Marduk's Longest Night | 121742 | [121742-the-cult-marduks-longest-night.json](./121742-the-cult-marduks-longest-night.json) |
@@ -863,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deep Deep | 123073 | [123073-the-deep-deep.json](./123073-the-deep-deep.json) |
 | The Deep Ones | 246118 | [246118-the-deep-ones.json](./246118-the-deep-ones.json) |
 | The Deep: Ushinawareta Shinkai | 410223 | [410223-the-deep-ushinawareta-shinkai.json](./410223-the-deep-ushinawareta-shinkai.json) |
+| The Deepest Castle | 400872 | [400872-the-deepest-castle.json](./400872-the-deepest-castle.json) |
 | The Demon Lord’s Daughter and the Tower of Seals | 329366 | [329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json](./329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json) |
 | The Den of Worms | 159851 | [159851-the-den-of-worms.json](./159851-the-den-of-worms.json) |
 | The Derailed | 333377 | [333377-the-derailed.json](./333377-the-derailed.json) |
@@ -899,8 +903,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dragonspire | 306087 | [306087-the-dragonspire.json](./306087-the-dragonspire.json) |
 | The Drawnjuring | 311807 | [311807-the-drawnjuring.json](./311807-the-drawnjuring.json) |
 | The Dream Libra Had | 158714 | [158714-the-dream-libra-had.json](./158714-the-dream-libra-had.json) |
+| The Dream Machine: The Definitive Edition | 400858 | [400858-the-dream-machine-the-definitive-edition.json](./400858-the-dream-machine-the-definitive-edition.json) |
 | The Dream Team | 196872 | [196872-the-dream-team.json](./196872-the-dream-team.json) |
 | The Dreamers Foresight | 313479 | [313479-the-dreamers-foresight.json](./313479-the-dreamers-foresight.json) |
+| The Dreams in the Peacock House | 400888 | [400888-the-dreams-in-the-peacock-house.json](./400888-the-dreams-in-the-peacock-house.json) |
 | The Duck Pond | 310220 | [310220-the-duck-pond.json](./310220-the-duck-pond.json) |
 | The Ducksuckers | 195245 | [195245-the-ducksuckers.json](./195245-the-ducksuckers.json) |
 | The Dukes of Hazzard: Return of the General Lee | 5818 | [5818-the-dukes-of-hazzard-return-of-the-general-lee.json](./5818-the-dukes-of-hazzard-return-of-the-general-lee.json) |
