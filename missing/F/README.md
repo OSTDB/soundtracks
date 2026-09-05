@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fengse Huanxiang 5: Chi Yue Zhanzheng | 68690 | [68690-fengse-huanxiang-5-chi-yue-zhanzheng.json](./68690-fengse-huanxiang-5-chi-yue-zhanzheng.json) |
 | Fēngshén Yīngjié Zhuán | 93061 | [93061-fengshen-yingjie-zhuan.json](./93061-fengshen-yingjie-zhuan.json) |
 | Fenix | 298305 | [298305-fenix.json](./298305-fenix.json) |
+| Fergus the Fly | 29641 | [29641-fergus-the-fly.json](./29641-fergus-the-fly.json) |
 | Feria d'Arles | 126394 | [126394-feria-darles.json](./126394-feria-darles.json) |
 | Fernageddon | 258196 | [258196-fernageddon.json](./258196-fernageddon.json) |
 | Fernbus Simulator: Denmark | 254769 | [254769-fernbus-simulator-denmark.json](./254769-fernbus-simulator-denmark.json) |
@@ -433,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Night Round 2 | 3915 | [3915-fight-night-round-2.json](./3915-fight-night-round-2.json) |
 | Fight Night Round 3 | 5836 | [5836-fight-night-round-3.json](./5836-fight-night-round-3.json) |
 | Fight of Animals | 127088 | [127088-fight-of-animals.json](./127088-fight-of-animals.json) |
+| Fight or Die | 29974 | [29974-fight-or-die.json](./29974-fight-or-die.json) |
 | Fight Plane | 235471 | [235471-fight-plane.json](./235471-fight-plane.json) |
 | Fight Tennis | 321769 | [321769-fight-tennis.json](./321769-fight-tennis.json) |
 | Fight the Dracula! | 229357 | [229357-fight-the-dracula.json](./229357-fight-the-dracula.json) |
@@ -680,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flag Defense | 213012 | [213012-flag-defense.json](./213012-flag-defense.json) |
 | Flag N Frag | 33157 | [33157-flag-n-frag.json](./33157-flag-n-frag.json) |
 | Flain: Tao force & Cubes | 153433 | [153433-flain-tao-force-and-cubes.json](./153433-flain-tao-force-and-cubes.json) |
+| Flairtender | 29635 | [29635-flairtender.json](./29635-flairtender.json) |
 | Flame of Recca | 49412 | [49412-flame-of-recca.json](./49412-flame-of-recca.json) |
 | Flan's Mod | 232680 | [232680-flans-mod.json](./232680-flans-mod.json) |
 | Flappy 2: The Resurrection of Blue Star | 62199 | [62199-flappy-2-the-resurrection-of-blue-star.json](./62199-flappy-2-the-resurrection-of-blue-star.json) |
@@ -908,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Pop | 218724 | [218724-forest-pop.json](./218724-forest-pop.json) |
 | Forest Ranger Services: Episode 1 | 340232 | [340232-forest-ranger-services-episode-1.json](./340232-forest-ranger-services-episode-1.json) |
 | Forest Simulator 2025 | 326427 | [326427-forest-simulator-2025.json](./326427-forest-simulator-2025.json) |
+| Forestry | 29950 | [29950-forestry.json](./29950-forestry.json) |
 | Foretales: Deluxe Edition | 218690 | [218690-foretales-deluxe-edition.json](./218690-foretales-deluxe-edition.json) |
 | Forever Quester | 243957 | [243957-forever-quester.json](./243957-forever-quester.json) |
 | Forever War | 119011 | [119011-forever-war.json](./119011-forever-war.json) |
