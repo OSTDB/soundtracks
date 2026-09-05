@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capture the Flag | 23901 | [23901-capture-the-flag.json](./23901-capture-the-flag.json) |
 | Captures | 165670 | [165670-captures.json](./165670-captures.json) |
 | Captures II | 170550 | [170550-captures-ii.json](./170550-captures-ii.json) |
+| Capybara Journey Go | 378782 | [378782-capybara-journey-go.json](./378782-capybara-journey-go.json) |
 | Car Challenge | 410240 | [410240-car-challenge.json](./410240-car-challenge.json) |
 | Car Cops | 247218 | [247218-car-cops.json](./247218-car-cops.json) |
 | Car Crash Couch Party | 83586 | [83586-car-crash-couch-party.json](./83586-car-crash-couch-party.json) |
@@ -1679,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crawlspace | 179208 | [179208-crawlspace.json](./179208-crawlspace.json) |
 | Crawlyard | 166753 | [166753-crawlyard.json](./166753-crawlyard.json) |
 | Crayon Chronicles | 35950 | [35950-crayon-chronicles.json](./35950-crayon-chronicles.json) |
+| Crayon Food | 378793 | [378793-crayon-food.json](./378793-crayon-food.json) |
 | Crayon Pairs | 105945 | [105945-crayon-pairs.json](./105945-crayon-pairs.json) |
 | Crayon Sea Friends | 399629 | [399629-crayon-sea-friends.json](./399629-crayon-sea-friends.json) |
 | Crayon Shin-Chan: Ora to Wanpaku Gokko dazo | 63314 | [63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json](./63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json) |
