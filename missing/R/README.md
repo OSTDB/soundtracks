@@ -661,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resonant Tale | 266481 | [266481-resonant-tale.json](./266481-resonant-tale.json) |
 | Resonark X | 141900 | [141900-resonark-x.json](./141900-resonark-x.json) |
 | Resort Beauties: Hentai Photo Puzzle | 409560 | [409560-resort-beauties-hentai-photo-puzzle.json](./409560-resort-beauties-hentai-photo-puzzle.json) |
+| Ressolve Steps | 375841 | [375841-ressolve-steps.json](./375841-ressolve-steps.json) |
 | Rest House 2: The Wizard | 131593 | [131593-rest-house-2-the-wizard.json](./131593-rest-house-2-the-wizard.json) |
 | Rest to Landia | 292279 | [292279-rest-to-landia.json](./292279-rest-to-landia.json) |
 | Restarting Systems: Smoke's Bizarre Adventure | 378799 | [378799-restarting-systems-smokes-bizarre-adventure.json](./378799-restarting-systems-smokes-bizarre-adventure.json) |
@@ -889,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RIP | 392756 | [392756-rip.json](./392756-rip.json) |
 | RIP 2: Strike Back | 28922 | [28922-rip-2-strike-back.json](./28922-rip-2-strike-back.json) |
 | RIP 3: The Last Hero | 28923 | [28923-rip-3-the-last-hero.json](./28923-rip-3-the-last-hero.json) |
+| RIP Party | 375806 | [375806-rip-party.json](./375806-rip-party.json) |
 | Rip Van Bubsy | 269835 | [269835-rip-van-bubsy.json](./269835-rip-van-bubsy.json) |
 | Ripcord | 95419 | [95419-ripcord.json](./95419-ripcord.json) |
 | Ripgraze | 415096 | [415096-ripgraze.json](./415096-ripgraze.json) |
@@ -1324,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roving in the Dark | 106602 | [106602-roving-in-the-dark.json](./106602-roving-in-the-dark.json) |
 | Rovonaut Comrade | 128656 | [128656-rovonaut-comrade.json](./128656-rovonaut-comrade.json) |
 | Rowan's Battle of Britain | 73818 | [73818-rowans-battle-of-britain.json](./73818-rowans-battle-of-britain.json) |
+| Roxy Raccoon 3: Troubles in Time | 375845 | [375845-roxy-raccoon-3-troubles-in-time.json](./375845-roxy-raccoon-3-troubles-in-time.json) |
 | Roxy Raccoon's Pinball Panic: American Anniversary | 311788 | [311788-roxy-raccoons-pinball-panic-american-anniversary.json](./311788-roxy-raccoons-pinball-panic-american-anniversary.json) |
 | Roxy Raccoon's Pinball Panic: Club Crazy | 267689 | [267689-roxy-raccoons-pinball-panic-club-crazy.json](./267689-roxy-raccoons-pinball-panic-club-crazy.json) |
 | Roxy Raccoon's Pinball Panic: Joyous Japan | 226931 | [226931-roxy-raccoons-pinball-panic-joyous-japan.json](./226931-roxy-raccoons-pinball-panic-joyous-japan.json) |
