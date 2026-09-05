@@ -442,5 +442,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ảo Mộng Tru Tiên | 380388 | [380388-ao-mong-tru-tien.json](./380388-ao-mong-tru-tien.json) |
 | Àrengard: Invasion | 228081 | [228081-arengard-invasion.json](./228081-arengard-invasion.json) |
 | Āsh | 408828 | [408828-ash.json](./408828-ash.json) |
+| Ñamto | 379383 | [379383-namto.json](./379383-namto.json) |
 | Ōkamiden | 16618 | [16618-okamiden.json](./16618-okamiden.json) |
 | 一>◇ | 100203 | [100203-.json](./100203-.json) |
