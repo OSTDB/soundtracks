@@ -1821,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Hill Climb | 237658 | [237658-auto-hill-climb.json](./237658-auto-hill-climb.json) |
 | Auto Race | 245572 | [245572-auto-race.json](./245572-auto-race.json) |
 | Auto Tow Truck Simulator | 278710 | [278710-auto-tow-truck-simulator.json](./278710-auto-tow-truck-simulator.json) |
+| Auto Tuktuk Mafia | 411587 | [411587-auto-tuktuk-mafia.json](./411587-auto-tuktuk-mafia.json) |
 | Auto-Upturn | 48692 | [48692-auto-upturn.json](./48692-auto-upturn.json) |
 | Autobahn Raser | 210275 | [210275-autobahn-raser.json](./210275-autobahn-raser.json) |
 | Autobahn Raser II | 210276 | [210276-autobahn-raser-ii.json](./210276-autobahn-raser-ii.json) |
