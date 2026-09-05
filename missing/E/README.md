@@ -359,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empty | 229384 | [229384-empty.json](./229384-empty.json) |
 | Empyre: Dukes of the Far Frontier | 198555 | [198555-empyre-dukes-of-the-far-frontier.json](./198555-empyre-dukes-of-the-far-frontier.json) |
 | Empyrean Swarm | 273649 | [273649-empyrean-swarm.json](./273649-empyrean-swarm.json) |
+| Empyrion - Galactic Survival: Complete Edition | 371228 | [371228-empyrion-galactic-survival-complete-edition.json](./371228-empyrion-galactic-survival-complete-edition.json) |
 | En-Fem-E No. 9: Reborn | 195780 | [195780-en-fem-e-no-9-reborn.json](./195780-en-fem-e-no-9-reborn.json) |
 | EnbornX | 61108 | [61108-enbornx.json](./61108-enbornx.json) |
 | Enchanted Fairy Friends: Secret of the Fairy Queen | 68031 | [68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json](./68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json) |
