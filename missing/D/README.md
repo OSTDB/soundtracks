@@ -1138,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog's Walts | 408060 | [408060-dogs-walts.json](./408060-dogs-walts.json) |
 | Doge Dimensions | 187527 | [187527-doge-dimensions.json](./187527-doge-dimensions.json) |
 | Dogforce: Seasons | 179161 | [179161-dogforce-seasons.json](./179161-dogforce-seasons.json) |
+| DoggoPromenade | 398349 | [398349-doggopromenade.json](./398349-doggopromenade.json) |
 | DogHotel | 101582 | [101582-doghotel.json](./101582-doghotel.json) |
 | Dogistry | 58799 | [58799-dogistry.json](./58799-dogistry.json) |
 | Dogma | 74466 | [74466-dogma.json](./74466-dogma.json) |
@@ -1229,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't! Heroes: Encore! | 181929 | [181929-dont-heroes-encore.json](./181929-dont-heroes-encore.json) |
 | Donald Dowell and the Ghost of Barker Manor | 168386 | [168386-donald-dowell-and-the-ghost-of-barker-manor.json](./168386-donald-dowell-and-the-ghost-of-barker-manor.json) |
 | Donald Jump | 412966 | [412966-donald-jump.json](./412966-donald-jump.json) |
+| Donkey BoM | 398315 | [398315-donkey-bom.json](./398315-donkey-bom.json) |
 | Donkey King Arcade Game | 96713 | [96713-donkey-king-arcade-game.json](./96713-donkey-king-arcade-game.json) |
 | Donkey Kong | 257637 | [257637-donkey-kong.json](./257637-donkey-kong.json) |
 | Donkey Kong | 270404 | [270404-donkey-kong.json](./270404-donkey-kong.json) |
@@ -1698,6 +1700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducati World Championship | 19353 | [19353-ducati-world-championship.json](./19353-ducati-world-championship.json) |
 | Duck 'n' Cover | 75869 | [75869-duck-n-cover.json](./75869-duck-n-cover.json) |
 | Duck Creator 2 | 306082 | [306082-duck-creator-2.json](./306082-duck-creator-2.json) |
+| Duck Dash Delivery | 398320 | [398320-duck-dash-delivery.json](./398320-duck-dash-delivery.json) |
 | Duck Detective: The Secret Salami | 279374 | [279374-duck-detective-the-secret-salami.json](./279374-duck-detective-the-secret-salami.json) |
 | Duck Duck Swap | 218155 | [218155-duck-duck-swap.json](./218155-duck-duck-swap.json) |
 | Duck Dynasty: Battle of the Beards | 234327 | [234327-duck-dynasty-battle-of-the-beards.json](./234327-duck-dynasty-battle-of-the-beards.json) |
@@ -1847,6 +1850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DVD Screensaver Simulator Rebirth Reimagined Definitive Reloaded Special Intergrade Ultimate HD Legacy Collection Remastered (2027 Edition) | 408785 | [408785-dvd-screensaver-simulator-rebirth-reimagined-definitive-reloaded-special-intergrade-ultimate-hd-legacy-collection-remastered-2027-edition.json](./408785-dvd-screensaver-simulator-rebirth-reimagined-definitive-reloaded-special-intergrade-ultimate-hd-legacy-collection-remastered-2027-edition.json) |
 | Dwarf Tower | 24563 | [24563-dwarf-tower.json](./24563-dwarf-tower.json) |
 | Dwarrows | 25229 | [25229-dwarrows.json](./25229-dwarrows.json) |
+| Dwarven Forge | 398335 | [398335-dwarven-forge.json](./398335-dwarven-forge.json) |
 | Dwarven Skykeep | 119769 | [119769-dwarven-skykeep.json](./119769-dwarven-skykeep.json) |
 | Dyg | 208581 | [208581-dyg.json](./208581-dyg.json) |
 | Dyger | 39673 | [39673-dyger.json](./39673-dyger.json) |
