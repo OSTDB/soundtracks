@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papercut Art Gallery-Growth | 297802 | [297802-papercut-art-gallery-growth.json](./297802-papercut-art-gallery-growth.json) |
 | Papercut Art Gallery: Nature | 292854 | [292854-papercut-art-gallery-nature.json](./292854-papercut-art-gallery-nature.json) |
 | Paperly: Paper Plane Adventure | 194040 | [194040-paperly-paper-plane-adventure.json](./194040-paperly-paper-plane-adventure.json) |
+| Paperman | 385577 | [385577-paperman.json](./385577-paperman.json) |
 | PaperPlanets | 106612 | [106612-paperplanets.json](./106612-paperplanets.json) |
 | Paperquarium | 249458 | [249458-paperquarium.json](./249458-paperquarium.json) |
 | PapiCatch | 87241 | [87241-papicatch.json](./87241-papicatch.json) |
@@ -1291,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Prodigy | 175939 | [175939-potion-prodigy.json](./175939-potion-prodigy.json) |
 | Potion Punch | 247220 | [247220-potion-punch.json](./247220-potion-punch.json) |
 | Potion Punch 2: Cooking Quest | 247219 | [247219-potion-punch-2-cooking-quest.json](./247219-potion-punch-2-cooking-quest.json) |
+| Potion Punch 2+ | 385569 | [385569-potion-punch-2.json](./385569-potion-punch-2.json) |
 | Potions, Frankly | 183598 | [183598-potions-frankly.json](./183598-potions-frankly.json) |
 | Pots and Potions | 170540 | [170540-pots-and-potions.json](./170540-pots-and-potions.json) |
 | Potshot Pirates | 117750 | [117750-potshot-pirates.json](./117750-potshot-pirates.json) |
@@ -1599,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project-X Special Edition & F17 Challenge | 71537 | [71537-project-x-special-edition-and-f17-challenge.json](./71537-project-x-special-edition-and-f17-challenge.json) |
 | Project: Catalepsy | 395571 | [395571-project-catalepsy.json](./395571-project-catalepsy.json) |
 | Project: G-216 | 313480 | [313480-project-g-216.json](./313480-project-g-216.json) |
+| Project: Jurit | 385581 | [385581-project-jurit.json](./385581-project-jurit.json) |
 | Project: R.E.B.O.O.T 2 | 29868 | [29868-project-r-e-b-o-o-t-2.json](./29868-project-r-e-b-o-o-t-2.json) |
 | Project: Run | 393466 | [393466-project-run.json](./393466-project-run.json) |
 | Project: Summer Ice - Bowling: Online | 221975 | [221975-project-summer-ice-bowling-online.json](./221975-project-summer-ice-bowling-online.json) |
