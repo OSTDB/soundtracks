@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | San Francisco Rush 2049 | 3596 | [3596-san-francisco-rush-2049.json](./3596-san-francisco-rush-2049.json) |
 | San Francisco Rush: Extreme Racing | 264854 | [264854-san-francisco-rush-extreme-racing.json](./264854-san-francisco-rush-extreme-racing.json) |
 | Sanabi | 144569 | [144569-sanabi.json](./144569-sanabi.json) |
+| Sanabi: A Haunted Day - Signal Redux Edition | 396192 | [396192-sanabi-a-haunted-day-signal-redux-edition.json](./396192-sanabi-a-haunted-day-signal-redux-edition.json) |
 | Sanae no Chou Tokkyuu: TheExpressTrial | 206929 | [206929-sanae-no-chou-tokkyuu-theexpresstrial.json](./206929-sanae-no-chou-tokkyuu-theexpresstrial.json) |
 | Sanae's Sylphid Breeze | 300377 | [300377-sanaes-sylphid-breeze.json](./300377-sanaes-sylphid-breeze.json) |
 | Sanalika | 180296 | [180296-sanalika.json](./180296-sanalika.json) |
@@ -905,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinsetsu Mahou Shoujo | 131589 | [131589-shinsetsu-mahou-shoujo.json](./131589-shinsetsu-mahou-shoujo.json) |
 | Shinshuku Taisen: It's a Noni! | 123622 | [123622-shinshuku-taisen-its-a-noni.json](./123622-shinshuku-taisen-its-a-noni.json) |
 | Shinya Ichizoku: The Battle for Hokkaido's Delicious Foods | 186908 | [186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json](./186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json) |
+| Shinyaku Boushi Sekai | 396208 | [396208-shinyaku-boushi-sekai.json](./396208-shinyaku-boushi-sekai.json) |
 | Ship Adventure | 179185 | [179185-ship-adventure.json](./179185-ship-adventure.json) |
 | Ship Graveyard Simulator: Submarines | 197405 | [197405-ship-graveyard-simulator-submarines.json](./197405-ship-graveyard-simulator-submarines.json) |
 | Ship of Harkinian | 194694 | [194694-ship-of-harkinian.json](./194694-ship-of-harkinian.json) |
@@ -1095,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Millennium | 40251 | [40251-silver-millennium.json](./40251-silver-millennium.json) |
 | Silver Sonic: The Crystal Islands | 302142 | [302142-silver-sonic-the-crystal-islands.json](./302142-silver-sonic-the-crystal-islands.json) |
 | Silver Star Japan Table Games | 144997 | [144997-silver-star-japan-table-games.json](./144997-silver-star-japan-table-games.json) |
+| Silver State | 396245 | [396245-silver-state.json](./396245-silver-state.json) |
 | SilverDollar | 101525 | [101525-silverdollar.json](./101525-silverdollar.json) |
 | Silverfall | 15718 | [15718-silverfall.json](./15718-silverfall.json) |
 | SilverStarChess | 147986 | [147986-silverstarchess.json](./147986-silverstarchess.json) |
@@ -1492,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakenoid Deluxe | 84874 | [84874-snakenoid-deluxe.json](./84874-snakenoid-deluxe.json) |
 | Snakes & Ladders | 147984 | [147984-snakes-and-ladders.json](./147984-snakes-and-ladders.json) |
 | Snakes and Ladders | 106570 | [106570-snakes-and-ladders.json](./106570-snakes-and-ladders.json) |
+| Snakes in Hibernation | 396205 | [396205-snakes-in-hibernation.json](./396205-snakes-in-hibernation.json) |
 | Snakes LTD | 265921 | [265921-snakes-ltd.json](./265921-snakes-ltd.json) |
 | Snaky Snake | 70996 | [70996-snaky-snake.json](./70996-snaky-snake.json) |
 | Snap Game | 397705 | [397705-snap-game.json](./397705-snap-game.json) |
@@ -2401,6 +2405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stapel | 192987 | [192987-stapel.json](./192987-stapel.json) |
 | Star Archer | 337982 | [337982-star-archer.json](./337982-star-archer.json) |
 | Star Arthur Densetsu I: Wakusei Mephius | 65513 | [65513-star-arthur-densetsu-i-wakusei-mephius.json](./65513-star-arthur-densetsu-i-wakusei-mephius.json) |
+| Star Cadre: Combat Class | 396216 | [396216-star-cadre-combat-class.json](./396216-star-cadre-combat-class.json) |
 | Star Castle PC | 95420 | [95420-star-castle-pc.json](./95420-star-castle-pc.json) |
 | Star Chef 2: Cooking Game | 153999 | [153999-star-chef-2-cooking-game.json](./153999-star-chef-2-cooking-game.json) |
 | Star Chindy | 175420 | [175420-star-chindy.json](./175420-star-chindy.json) |
@@ -2613,6 +2618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steamworld Dig 2 + Steamworld Dig | 218691 | [218691-steamworld-dig-2-steamworld-dig.json](./218691-steamworld-dig-2-steamworld-dig.json) |
 | SteamWorld Heist II | 298315 | [298315-steamworld-heist-ii.json](./298315-steamworld-heist-ii.json) |
 | SteamWorld Heist: Ultimate Edition | 77648 | [77648-steamworld-heist-ultimate-edition.json](./77648-steamworld-heist-ultimate-edition.json) |
+| Steamy Livestreams with My Girlfriend | 396198 | [396198-steamy-livestreams-with-my-girlfriend.json](./396198-steamy-livestreams-with-my-girlfriend.json) |
 | Steamy Sextet | 127997 | [127997-steamy-sextet.json](./127997-steamy-sextet.json) |
 | STED: Iseki Wakusei no Yabou | 48703 | [48703-sted-iseki-wakusei-no-yabou.json](./48703-sted-iseki-wakusei-no-yabou.json) |
 | Steel | 329915 | [329915-steel.json](./329915-steel.json) |
@@ -2678,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Up | 319949 | [319949-stick-up.json](./319949-stick-up.json) |
 | Stick War: Legacy | 239909 | [239909-stick-war-legacy.json](./239909-stick-war-legacy.json) |
 | Stick War: Saga | 233777 | [233777-stick-war-saga.json](./233777-stick-war-saga.json) |
+| Stickerino | 396195 | [396195-stickerino.json](./396195-stickerino.json) |
 | Stickman 3D Tennis: Deluxe | 404210 | [404210-stickman-3d-tennis-deluxe.json](./404210-stickman-3d-tennis-deluxe.json) |
 | Stickman 3D Wingsuit: Deluxe | 406699 | [406699-stickman-3d-wingsuit-deluxe.json](./406699-stickman-3d-wingsuit-deluxe.json) |
 | Stickman Archers: Archery Rampage | 101575 | [101575-stickman-archers-archery-rampage.json](./101575-stickman-archers-archery-rampage.json) |
@@ -2883,6 +2890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Stalker | 93053 | [93053-sub-stalker.json](./93053-sub-stalker.json) |
 | Sub Terra Draconis | 57099 | [57099-sub-terra-draconis.json](./57099-sub-terra-draconis.json) |
 | Sub0ptimal | 339653 | [339653-sub0ptimal.json](./339653-sub0ptimal.json) |
+| Subconsciousism | 396225 | [396225-subconsciousism.json](./396225-subconsciousism.json) |
 | Subject 264 | 30959 | [30959-subject-264.json](./30959-subject-264.json) |
 | Subjectivation | 341910 | [341910-subjectivation.json](./341910-subjectivation.json) |
 | Submachine Extended Version | 259844 | [259844-submachine-extended-version.json](./259844-submachine-extended-version.json) |
@@ -2942,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku XP | 278700 | [278700-sudoku-xp.json](./278700-sudoku-xp.json) |
 | Suffer | 110650 | [110650-suffer.json](./110650-suffer.json) |
 | Sugar Bunnies DS: Yume no Sweets Koubou | 68038 | [68038-sugar-bunnies-ds-yume-no-sweets-koubou.json](./68038-sugar-bunnies-ds-yume-no-sweets-koubou.json) |
+| Sugar Cookie | 396209 | [396209-sugar-cookie.json](./396209-sugar-cookie.json) |
 | Sugar Fever | 26629 | [26629-sugar-fever.json](./26629-sugar-fever.json) |
 | Sugar High | 233226 | [233226-sugar-high.json](./233226-sugar-high.json) |
 | Sugar Mess: Let's Play Jolly Battle | 263752 | [263752-sugar-mess-lets-play-jolly-battle.json](./263752-sugar-mess-lets-play-jolly-battle.json) |
@@ -3168,6 +3177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Streets Puzzles | 155646 | [155646-super-jigsaw-puzzle-generations-streets-puzzles.json](./155646-super-jigsaw-puzzle-generations-streets-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Sunsets Puzzles | 155630 | [155630-super-jigsaw-puzzle-generations-sunsets-puzzles.json](./155630-super-jigsaw-puzzle-generations-sunsets-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - USA Puzzles | 155634 | [155634-super-jigsaw-puzzle-generations-usa-puzzles.json](./155634-super-jigsaw-puzzle-generations-usa-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Vegetables 2 | 396204 | [396204-super-jigsaw-puzzle-generations-vegetables-2.json](./396204-super-jigsaw-puzzle-generations-vegetables-2.json) |
 | Super Jigsaw Puzzle: Generations - Winter 2023 | 273631 | [273631-super-jigsaw-puzzle-generations-winter-2023.json](./273631-super-jigsaw-puzzle-generations-winter-2023.json) |
 | Super Jump Guys | 267683 | [267683-super-jump-guys.json](./267683-super-jump-guys.json) |
 | Super Karts | 50614 | [50614-super-karts.json](./50614-super-karts.json) |
