@@ -1432,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FunPack: Mums | 177052 | [177052-funpack-mums.json](./177052-funpack-mums.json) |
 | Funtagy of Doskebe | 82907 | [82907-funtagy-of-doskebe.json](./82907-funtagy-of-doskebe.json) |
 | Funtoon's World | 51964 | [51964-funtoons-world.json](./51964-funtoons-world.json) |
+| Funus: The Climb | 379895 | [379895-funus-the-climb.json](./379895-funus-the-climb.json) |
 | FunWar | 195757 | [195757-funwar.json](./195757-funwar.json) |
 | Fur and Fangs | 412994 | [412994-fur-and-fangs.json](./412994-fur-and-fangs.json) |
 | Fur Squadron | 226405 | [226405-fur-squadron.json](./226405-fur-squadron.json) |
