@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obey the Law | 163983 | [163983-obey-the-law.json](./163983-obey-the-law.json) |
 | Object "Cleaning" | 83568 | [83568-object-cleaning.json](./83568-object-cleaning.json) |
 | Oblitus Mortis | 336918 | [336918-oblitus-mortis.json](./336918-oblitus-mortis.json) |
+| Oblivion | 77199 | [77199-oblivion.json](./77199-oblivion.json) |
 | Oblivion Congee | 183579 | [183579-oblivion-congee.json](./183579-oblivion-congee.json) |
 | Obocchama Kun | 42040 | [42040-obocchama-kun.json](./42040-obocchama-kun.json) |
 | ObsCure | 5941 | [5941-obscure.json](./5941-obscure.json) |
@@ -432,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbo | 292822 | [292822-orbo.json](./292822-orbo.json) |
 | Orc Hunt | 186277 | [186277-orc-hunt.json](./186277-orc-hunt.json) |
 | Orc Invasion Tower | 219266 | [219266-orc-invasion-tower.json](./219266-orc-invasion-tower.json) |
+| Orch Star | 76615 | [76615-orch-star.json](./76615-orch-star.json) |
 | Orchard | 92511 | [92511-orchard.json](./92511-orchard.json) |
 | Orchard Odyssey: Pumpkin Party | 375440 | [375440-orchard-odyssey-pumpkin-party.json](./375440-orchard-odyssey-pumpkin-party.json) |
 | Orchids to Dusk | 135906 | [135906-orchids-to-dusk.json](./135906-orchids-to-dusk.json) |
@@ -609,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overheat: Kitchen Chaos | 324134 | [324134-overheat-kitchen-chaos.json](./324134-overheat-kitchen-chaos.json) |
 | Overhours | 253599 | [253599-overhours.json](./253599-overhours.json) |
 | Overkill | 272013 | [272013-overkill.json](./272013-overkill.json) |
+| Overlook: Local multiplayer game up to 16 players | 78112 | [78112-overlook-local-multiplayer-game-up-to-16-players.json](./78112-overlook-local-multiplayer-game-up-to-16-players.json) |
 | OverNight | 207512 | [207512-overnight.json](./207512-overnight.json) |
 | Overpass 2: Deluxe Edition | 269331 | [269331-overpass-2-deluxe-edition.json](./269331-overpass-2-deluxe-edition.json) |
 | Overrun | 184083 | [184083-overrun.json](./184083-overrun.json) |
