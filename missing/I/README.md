@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Human Machine | 195222 | [195222-i-human-machine.json](./195222-i-human-machine.json) |
 | I Know This Place..? | 244472 | [244472-i-know-this-place.json](./244472-i-know-this-place.json) |
 | I Know This Place..?: Chapter II | 291780 | [291780-i-know-this-place-chapter-ii.json](./291780-i-know-this-place-chapter-ii.json) |
+| I Lost My Eggs: Easter | 387329 | [387329-i-lost-my-eggs-easter.json](./387329-i-lost-my-eggs-easter.json) |
 | I Lost My Luggage | 155653 | [155653-i-lost-my-luggage.json](./155653-i-lost-my-luggage.json) |
 | I Love Finding Birds | 236500 | [236500-i-love-finding-birds.json](./236500-i-love-finding-birds.json) |
 | I Love Finding Furbabies: Collector's Edition | 277576 | [277576-i-love-finding-furbabies-collectors-edition.json](./277576-i-love-finding-furbabies-collectors-edition.json) |
@@ -160,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Luca | 193999 | [193999-idle-luca.json](./193999-idle-luca.json) |
 | Idle Mining Empire | 218700 | [218700-idle-mining-empire.json](./218700-idle-mining-empire.json) |
 | Idle Monster: Tower Defense | 138787 | [138787-idle-monster-tower-defense.json](./138787-idle-monster-tower-defense.json) |
+| Idle Mythical Beasts | 387327 | [387327-idle-mythical-beasts.json](./387327-idle-mythical-beasts.json) |
 | Idle Ocean Cleaner Eco Tycoon | 247211 | [247211-idle-ocean-cleaner-eco-tycoon.json](./247211-idle-ocean-cleaner-eco-tycoon.json) |
 | Idle Outpost | 302674 | [302674-idle-outpost.json](./302674-idle-outpost.json) |
 | Idle Portal Guardian | 118372 | [118372-idle-portal-guardian.json](./118372-idle-portal-guardian.json) |
@@ -392,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Knights | 256523 | [256523-infinite-knights.json](./256523-infinite-knights.json) |
 | Infinite Library | 318186 | [318186-infinite-library.json](./318186-infinite-library.json) |
 | Infinite Links | 194185 | [194185-infinite-links.json](./194185-infinite-links.json) |
+| Infinite Monkey Clicker | 387328 | [387328-infinite-monkey-clicker.json](./387328-infinite-monkey-clicker.json) |
 | Infinite Monkeys | 57095 | [57095-infinite-monkeys.json](./57095-infinite-monkeys.json) |
 | Infinite Red: The Day the Earth Stood Still | 294446 | [294446-infinite-red-the-day-the-earth-stood-still.json](./294446-infinite-red-the-day-the-earth-stood-still.json) |
 | Infinite Shooter | 33103 | [33103-infinite-shooter.json](./33103-infinite-shooter.json) |
