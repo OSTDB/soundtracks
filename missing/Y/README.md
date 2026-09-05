@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your God Is False | 336903 | [336903-your-god-is-false.json](./336903-your-god-is-false.json) |
 | Your House | 274758 | [274758-your-house.json](./274758-your-house.json) |
 | Your Majesty's Arrival | 339132 | [339132-your-majestys-arrival.json](./339132-your-majestys-arrival.json) |
+| Your Mom | 385608 | [385608-your-mom.json](./385608-your-mom.json) |
 | Your Sister's Drown'd, Laertes | 135302 | [135302-your-sisters-drownd-laertes.json](./135302-your-sisters-drownd-laertes.json) |
 | Your Time Is Mine | 82945 | [82945-your-time-is-mine.json](./82945-your-time-is-mine.json) |
 | Your Train 2 | 267085 | [267085-your-train-2.json](./267085-your-train-2.json) |
@@ -155,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuè Lán Chuánqí II: Zhòu Yìn Zú Chuánshuō | 394177 | [394177-yue-lan-chuanqi-ii-zhou-yin-zu-chuanshuo.json](./394177-yue-lan-chuanqi-ii-zhou-yin-zu-chuanshuo.json) |
 | Yuè Lán Chuánqí: Yì Jiè de Fǎngkè | 394179 | [394179-yue-lan-chuanqi-yi-jie-de-fangke.json](./394179-yue-lan-chuanqi-yi-jie-de-fangke.json) |
 | Yugekitai Kakuto-hen: Saikyoushin Fukkatsu no Maki | 264326 | [264326-yugekitai-kakuto-hen-saikyoushin-fukkatsu-no-maki.json](./264326-yugekitai-kakuto-hen-saikyoushin-fukkatsu-no-maki.json) |
+| Yugen Jikkou Sisters Chouchoutrian: Kanzenchouaku Chouchoutrian | 385556 | [385556-yugen-jikkou-sisters-chouchoutrian-kanzenchouaku-chouchoutrian.json](./385556-yugen-jikkou-sisters-chouchoutrian-kanzenchouaku-chouchoutrian.json) |
 | Yugowave | 250009 | [250009-yugowave.json](./250009-yugowave.json) |
 | Yuji Naka's NES Game | 257650 | [257650-yuji-nakas-nes-game.json](./257650-yuji-nakas-nes-game.json) |
 | Yukiguni no Shoujo | 164514 | [164514-yukiguni-no-shoujo.json](./164514-yukiguni-no-shoujo.json) |
