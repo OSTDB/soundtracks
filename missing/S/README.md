@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scholastic Brain Play: Preschool - 1st Grade | 167276 | [167276-scholastic-brain-play-preschool-1st-grade.json](./167276-scholastic-brain-play-preschool-1st-grade.json) |
 | School Bus Simulator: Blocky World | 104633 | [104633-school-bus-simulator-blocky-world.json](./104633-school-bus-simulator-blocky-world.json) |
 | School Days LxH | 178079 | [178079-school-days-lxh.json](./178079-school-days-lxh.json) |
+| School of Talent: Suzu-Route | 29932 | [29932-school-of-talent-suzu-route.json](./29932-school-of-talent-suzu-route.json) |
 | School Race GP | 219281 | [219281-school-race-gp.json](./219281-school-race-gp.json) |
 | School Romance: Love or Lose | 250639 | [250639-school-romance-love-or-lose.json](./250639-school-romance-love-or-lose.json) |
 | School: The Hardest RPG in Your Life | 263765 | [263765-school-the-hardest-rpg-in-your-life.json](./263765-school-the-hardest-rpg-in-your-life.json) |
@@ -346,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scoot Hard DX: Daytime Drama Zero | 230508 | [230508-scoot-hard-dx-daytime-drama-zero.json](./230508-scoot-hard-dx-daytime-drama-zero.json) |
 | Scopic | 132865 | [132865-scopic.json](./132865-scopic.json) |
 | Scorched 3D | 51249 | [51249-scorched-3d.json](./51249-scorched-3d.json) |
+| Score a goal (Physical football) | 29951 | [29951-score-a-goal-physical-football.json](./29951-score-a-goal-physical-football.json) |
 | Scorn | 262084 | [262084-scorn.json](./262084-scorn.json) |
 | Scorpion Overdrive | 193464 | [193464-scorpion-overdrive.json](./193464-scorpion-overdrive.json) |
 | Scott Pilgrim vs. the World: The Game | 7448 | [7448-scott-pilgrim-vs-the-world-the-game.json](./7448-scott-pilgrim-vs-the-world-the-game.json) |
@@ -1903,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Filler | 338013 | [338013-space-filler.json](./338013-space-filler.json) |
 | Space Firebird | 22432 | [22432-space-firebird.json](./22432-space-firebird.json) |
 | Space Fishermen | 64948 | [64948-space-fishermen.json](./64948-space-fishermen.json) |
+| Space Fist | 29681 | [29681-space-fist.json](./29681-space-fist.json) |
 | Space Food Truck | 34588 | [34588-space-food-truck.json](./34588-space-food-truck.json) |
 | Space Force | 336915 | [336915-space-force.json](./336915-space-force.json) |
 | Space Fox Kimi and the Interstellar Fortress | 171589 | [171589-space-fox-kimi-and-the-interstellar-fortress.json](./171589-space-fox-kimi-and-the-interstellar-fortress.json) |
@@ -2113,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Cleaning | 151717 | [151717-spirit-cleaning.json](./151717-spirit-cleaning.json) |
 | Spirit Hunters Inc. Shadow/Light | 84895 | [84895-spirit-hunters-inc-shadow-light.json](./84895-spirit-hunters-inc-shadow-light.json) |
 | Spirit Level | 322997 | [322997-spirit-level.json](./322997-spirit-level.json) |
+| Spirit of Maya | 29903 | [29903-spirit-of-maya.json](./29903-spirit-of-maya.json) |
 | Spirit of the Island | 152373 | [152373-spirit-of-the-island.json](./152373-spirit-of-the-island.json) |
 | Spirit Parade | 56500 | [56500-spirit-parade.json](./56500-spirit-parade.json) |
 | Spirit Rover | 107208 | [107208-spirit-rover.json](./107208-spirit-rover.json) |
@@ -2490,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamHammerVR | 31589 | [31589-steamhammervr.json](./31589-steamhammervr.json) |
 | SteamHammerVR - The Rogue Apprentice | 55903 | [55903-steamhammervr-the-rogue-apprentice.json](./55903-steamhammervr-the-rogue-apprentice.json) |
 | Steampunch | 335075 | [335075-steampunch.json](./335075-steampunch.json) |
+| Steampunk Syndicate | 29666 | [29666-steampunk-syndicate.json](./29666-steampunk-syndicate.json) |
 | SteamWorld Dig | 5772 | [5772-steamworld-dig.json](./5772-steamworld-dig.json) |
 | Steamworld Dig 2 + Steamworld Dig | 218691 | [218691-steamworld-dig-2-steamworld-dig.json](./218691-steamworld-dig-2-steamworld-dig.json) |
 | SteamWorld Heist II | 298315 | [298315-steamworld-heist-ii.json](./298315-steamworld-heist-ii.json) |
