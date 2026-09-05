@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Mystery Bonus | 43979 | [43979-neo-mystery-bonus.json](./43979-neo-mystery-bonus.json) |
 | Neo Nectaris | 42009 | [42009-neo-nectaris.json](./42009-neo-nectaris.json) |
 | Neo Testament | 270969 | [270969-neo-testament.json](./270969-neo-testament.json) |
+| Neo Turf Masters Scotland | 400237 | [400237-neo-turf-masters-scotland.json](./400237-neo-turf-masters-scotland.json) |
 | Neo-Now! | 31986 | [31986-neo-now.json](./31986-neo-now.json) |
 | NEO: The World Ends with You | 141192 | [141192-neo-the-world-ends-with-you.json](./141192-neo-the-world-ends-with-you.json) |
 | Neo's Land | 61632 | [61632-neos-land.json](./61632-neos-land.json) |
