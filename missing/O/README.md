@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMG HD Zombies! | 52643 | [52643-omg-hd-zombies.json](./52643-omg-hd-zombies.json) |
 | OMG-Z | 20633 | [20633-omg-z.json](./20633-omg-z.json) |
 | Omi Oh My AI | 215393 | [215393-omi-oh-my-ai.json](./215393-omi-oh-my-ai.json) |
+| Omicron: Coronavirus Battlegrounds | 393453 | [393453-omicron-coronavirus-battlegrounds.json](./393453-omicron-coronavirus-battlegrounds.json) |
 | Omikron: The Nomad Soul | 1982 | [1982-omikron-the-nomad-soul.json](./1982-omikron-the-nomad-soul.json) |
 | Ominous | 273126 | [273126-ominous.json](./273126-ominous.json) |
 | Ominous Horizons: A Paladin's Calling | 69877 | [69877-ominous-horizons-a-paladins-calling.json](./69877-ominous-horizons-a-paladins-calling.json) |
@@ -268,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On the Trail of the Whitetail | 127993 | [127993-on-the-trail-of-the-whitetail.json](./127993-on-the-trail-of-the-whitetail.json) |
 | On the Western Front | 102411 | [102411-on-the-western-front.json](./102411-on-the-western-front.json) |
 | On the Wind | 233220 | [233220-on-the-wind.json](./233220-on-the-wind.json) |
+| On Thy Knees | 393483 | [393483-on-thy-knees.json](./393483-on-thy-knees.json) |
 | On-looker | 129203 | [129203-on-looker.json](./129203-on-looker.json) |
 | Onaji | 174335 | [174335-onaji.json](./174335-onaji.json) |
 | Onanigan | 181383 | [181383-onanigan.json](./181383-onanigan.json) |
