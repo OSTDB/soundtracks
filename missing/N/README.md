@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Neko Nihonshi: Rekishi Hakken Puzzle! | 222536 | [222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json](./222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json) |
 | Neko Rescue Tale | 241040 | [241040-neko-rescue-tale.json](./241040-neko-rescue-tale.json) |
 | Neko Samurai | 212468 | [212468-neko-samurai.json](./212468-neko-samurai.json) |
+| Neko Tissue | 370105 | [370105-neko-tissue.json](./370105-neko-tissue.json) |
 | Neko-Nin ExHeart 3 | 126911 | [126911-neko-nin-exheart-3.json](./126911-neko-nin-exheart-3.json) |
 | Neko's Rage | 251840 | [251840-nekos-rage.json](./251840-nekos-rage.json) |
 | Nekopara Vol. 3 | 29271 | [29271-nekopara-vol-3.json](./29271-nekopara-vol-3.json) |
@@ -762,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nock: Hidden Arrow | 31389 | [31389-nock-hidden-arrow.json](./31389-nock-hidden-arrow.json) |
 | Noctuary | 221395 | [221395-noctuary.json](./221395-noctuary.json) |
 | Nocturnal | 234740 | [234740-nocturnal.json](./234740-nocturnal.json) |
+| Nocturnal Visitors: Book One | 370152 | [370152-nocturnal-visitors-book-one.json](./370152-nocturnal-visitors-book-one.json) |
 | Nocturne in Yellow | 141870 | [141870-nocturne-in-yellow.json](./141870-nocturne-in-yellow.json) |
 | Nocturne Maze: Shadows in the Hedge | 374079 | [374079-nocturne-maze-shadows-in-the-hedge.json](./374079-nocturne-maze-shadows-in-the-hedge.json) |
 | Nocturne of Steel | 107893 | [107893-nocturne-of-steel.json](./107893-nocturne-of-steel.json) |
