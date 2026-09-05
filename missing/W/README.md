@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of West Grove | 237045 | [237045-whispers-of-west-grove.json](./237045-whispers-of-west-grove.json) |
 | Whispers: Last Hope | 29720 | [29720-whispers-last-hope.json](./29720-whispers-last-hope.json) |
 | Whisperstring | 329970 | [329970-whisperstring.json](./329970-whisperstring.json) |
+| White City Dating Sim | 394164 | [394164-white-city-dating-sim.json](./394164-white-city-dating-sim.json) |
 | White Dandelion | 158698 | [158698-white-dandelion.json](./158698-white-dandelion.json) |
 | White Day 2: The Flower That Tells Lies - Ep.2 | 248335 | [248335-white-day-2-the-flower-that-tells-lies-ep-2.json](./248335-white-day-2-the-flower-that-tells-lies-ep-2.json) |
 | White Knight Chronicles | 7482 | [7482-white-knight-chronicles.json](./7482-white-knight-chronicles.json) |
@@ -486,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wife Quest: Limited Edition | 205258 | [205258-wife-quest-limited-edition.json](./205258-wife-quest-limited-edition.json) |
 | Wiffel Ball | 205806 | [205806-wiffel-ball.json](./205806-wiffel-ball.json) |
 | Wii Chess | 5280 | [5280-wii-chess.json](./5280-wii-chess.json) |
+| Wikipedia Gacha | 394176 | [394176-wikipedia-gacha.json](./394176-wikipedia-gacha.json) |
 | Wild Adventure | 208032 | [208032-wild-adventure.json](./208032-wild-adventure.json) |
 | Wild Adventures: Ultimate Deer Hunt 3D | 85491 | [85491-wild-adventures-ultimate-deer-hunt-3d.json](./85491-wild-adventures-ultimate-deer-hunt-3d.json) |
 | Wild Arms 3 | 1679 | [1679-wild-arms-3.json](./1679-wild-arms-3.json) |
