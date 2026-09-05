@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition: The Eternal Emperor | 140035 | [140035-hidden-expedition-the-eternal-emperor.json](./140035-hidden-expedition-the-eternal-emperor.json) |
 | Hidden Expedition: The Pearl of Discord | 140037 | [140037-hidden-expedition-the-pearl-of-discord.json](./140037-hidden-expedition-the-pearl-of-discord.json) |
 | Hidden Farm 2 Top-Down 3D | 208593 | [208593-hidden-farm-2-top-down-3d.json](./208593-hidden-farm-2-top-down-3d.json) |
+| Hidden Folks 2 | 404849 | [404849-hidden-folks-2.json](./404849-hidden-folks-2.json) |
 | Hidden Garden | 63885 | [63885-hidden-garden.json](./63885-hidden-garden.json) |
 | Hidden Garden Fairies | 100883 | [100883-hidden-garden-fairies.json](./100883-hidden-garden-fairies.json) |
 | Hidden Garden Fairy Tale | 95580 | [95580-hidden-garden-fairy-tale.json](./95580-hidden-garden-fairy-tale.json) |
@@ -826,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoglands | 231651 | [231651-hoglands.json](./231651-hoglands.json) |
 | Hohokum | 10088 | [10088-hohokum.json](./10088-hohokum.json) |
 | Hoist Sail for the Heliopause and Home | 7847 | [7847-hoist-sail-for-the-heliopause-and-home.json](./7847-hoist-sail-for-the-heliopause-and-home.json) |
+| Hokko Spaces | 404866 | [404866-hokko-spaces.json](./404866-hokko-spaces.json) |
 | Hokuto no Ken 7: Seiken Retsuden Denshousha he no Michi | 38337 | [38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json](./38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json) |
 | Hold The Noise | 292286 | [292286-hold-the-noise.json](./292286-hold-the-noise.json) |
 | Hole in One Golf | 49924 | [49924-hole-in-one-golf.json](./49924-hole-in-one-golf.json) |
