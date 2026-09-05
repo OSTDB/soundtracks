@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godbeast Mk.II | 191219 | [191219-godbeast-mk-ii.json](./191219-godbeast-mk-ii.json) |
 | Goddess Connect | 310203 | [310203-goddess-connect.json](./310203-goddess-connect.json) |
 | Goddess Of Swing | 329353 | [329353-goddess-of-swing.json](./329353-goddess-of-swing.json) |
+| Goddess Scroll: Brave Star | 396211 | [396211-goddess-scroll-brave-star.json](./396211-goddess-scroll-brave-star.json) |
 | Godfall: Primal Update | 312371 | [312371-godfall-primal-update.json](./312371-godfall-primal-update.json) |
 | Godfall: Ultimate Edition | 195237 | [195237-godfall-ultimate-edition.json](./195237-godfall-ultimate-edition.json) |
 | GodFinger | 66697 | [66697-godfinger.json](./66697-godfinger.json) |
@@ -591,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godrop | 292290 | [292290-godrop.json](./292290-godrop.json) |
 | Gods | 142458 | [142458-gods.json](./142458-gods.json) |
 | Gods and Nemesis: of Ghosts from Dragons | 31884 | [31884-gods-and-nemesis-of-ghosts-from-dragons.json](./31884-gods-and-nemesis-of-ghosts-from-dragons.json) |
+| Gods of Angling | 396215 | [396215-gods-of-angling.json](./396215-gods-of-angling.json) |
 | Gods of Defense | 219798 | [219798-gods-of-defense.json](./219798-gods-of-defense.json) |
 | Gods Wars Ex: Vampire | 194011 | [194011-gods-wars-ex-vampire.json](./194011-gods-wars-ex-vampire.json) |
 | Gods' Margarita | 197368 | [197368-gods-margarita.json](./197368-gods-margarita.json) |
