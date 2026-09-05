@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterimage Mobile | 297224 | [297224-afterimage-mobile.json](./297224-afterimage-mobile.json) |
 | Afterlife | 175 | [175-afterlife.json](./175-afterlife.json) |
 | Afterlife: Rickard's Quest | 306641 | [306641-afterlife-rickards-quest.json](./306641-afterlife-rickards-quest.json) |
+| Afterlight | 396206 | [396206-afterlight.json](./396206-afterlight.json) |
 | Aftermath | 183600 | [183600-aftermath.json](./183600-aftermath.json) |
 | Aftermoon | 63880 | [63880-aftermoon.json](./63880-aftermoon.json) |
 | Afternoon Frontline | 414319 | [414319-afternoon-frontline.json](./414319-afternoon-frontline.json) |
@@ -854,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Guns | 137675 | [137675-alpha-guns.json](./137675-alpha-guns.json) |
 | Alpha Sea | 147448 | [147448-alpha-sea.json](./147448-alpha-sea.json) |
 | Alpha vs. Zet | 130380 | [130380-alpha-vs-zet.json](./130380-alpha-vs-zet.json) |
+| Alphabear Hustle | 396230 | [396230-alphabear-hustle.json](./396230-alphabear-hustle.json) |
 | Alphabet Memory Match | 108476 | [108476-alphabet-memory-match.json](./108476-alphabet-memory-match.json) |
 | Alphabet Solitaire Z: Russian | 101576 | [101576-alphabet-solitaire-z-russian.json](./101576-alphabet-solitaire-z-russian.json) |
 | AlphaBounce | 66781 | [66781-alphabounce.json](./66781-alphabounce.json) |
@@ -1065,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AngerOfStick | 175433 | [175433-angerofstick.json](./175433-angerofstick.json) |
 | Angkor: Beginnings | 209699 | [209699-angkor-beginnings.json](./209699-angkor-beginnings.json) |
 | Angkot d Game | 214753 | [214753-angkot-d-game.json](./214753-angkot-d-game.json) |
+| Angle | 396218 | [396218-angle.json](./396218-angle.json) |
 | Angler Quest | 290711 | [290711-angler-quest.json](./290711-angler-quest.json) |
 | Angler's World | 217019 | [217019-anglers-world.json](./217019-anglers-world.json) |
 | Angry Barry | 67987 | [67987-angry-barry.json](./67987-angry-barry.json) |
@@ -1741,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroGenesis: Boss Rush | 121041 | [121041-astrogenesis-boss-rush.json](./121041-astrogenesis-boss-rush.json) |
 | Astrologer | 130963 | [130963-astrologer.json](./130963-astrologer.json) |
 | Astroman | 91944 | [91944-astroman.json](./91944-astroman.json) |
+| Astronaut Simulator | 396223 | [396223-astronaut-simulator.json](./396223-astronaut-simulator.json) |
 | Astronaut Spacewalk | 174354 | [174354-astronaut-spacewalk.json](./174354-astronaut-spacewalk.json) |
 | AstroNest | 19527 | [19527-astronest.json](./19527-astronest.json) |
 | Astronomica: The Quest for the Edge of the Universe | 71538 | [71538-astronomica-the-quest-for-the-edge-of-the-universe.json](./71538-astronomica-the-quest-for-the-edge-of-the-universe.json) |
