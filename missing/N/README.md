@@ -509,9 +509,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nigepico 1.2 | 256514 | [256514-nigepico-1-2.json](./256514-nigepico-1-2.json) |
 | Night and Day | 70378 | [70378-night-and-day.json](./70378-night-and-day.json) |
 | Night at the Hospital | 170530 | [170530-night-at-the-hospital.json](./170530-night-at-the-hospital.json) |
+| Night At The Motel | 376485 | [376485-night-at-the-motel.json](./376485-night-at-the-motel.json) |
 | Night Bars | 233204 | [233204-night-bars.json](./233204-night-bars.json) |
 | Night Call: Deluxe Edition | 124794 | [124794-night-call-deluxe-edition.json](./124794-night-call-deluxe-edition.json) |
 | Night Castle | 216988 | [216988-night-castle.json](./216988-night-castle.json) |
+| Night Clerk | 376476 | [376476-night-clerk.json](./376476-night-clerk.json) |
 | Night Drive | 323531 | [323531-night-drive.json](./323531-night-drive.json) |
 | Night Gal Summer | 229340 | [229340-night-gal-summer.json](./229340-night-gal-summer.json) |
 | Night Guard: The Last Shift | 177533 | [177533-night-guard-the-last-shift.json](./177533-night-guard-the-last-shift.json) |
@@ -696,6 +698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Fair Play | 172755 | [172755-no-fair-play.json](./172755-no-fair-play.json) |
 | No Final Night: Protect the Sponk Can | 410918 | [410918-no-final-night-protect-the-sponk-can.json](./410918-no-final-night-protect-the-sponk-can.json) |
 | No Gods, Only Ducks | 415902 | [415902-no-gods-only-ducks.json](./415902-no-gods-only-ducks.json) |
+| No Kings Tiny Defenders | 376455 | [376455-no-kings-tiny-defenders.json](./376455-no-kings-tiny-defenders.json) |
 | No Light | 150684 | [150684-no-light.json](./150684-no-light.json) |
 | No Limits 2 | 80606 | [80606-no-limits-2.json](./80606-no-limits-2.json) |
 | No Love | 115048 | [115048-no-love.json](./115048-no-love.json) |
