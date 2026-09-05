@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zooma: Chapter 2 - "Cave" | 168375 | [168375-zooma-chapter-2-cave.json](./168375-zooma-chapter-2-cave.json) |
 | Zooma:Chapter 3 - "Shadow Valley" | 168374 | [168374-zooma-chapter-3-shadow-valley.json](./168374-zooma-chapter-3-shadow-valley.json) |
 | Zooma:Chapter 4 - "Temple of the Damned" | 168373 | [168373-zooma-chapter-4-temple-of-the-damned.json](./168373-zooma-chapter-4-temple-of-the-damned.json) |
+| Zoomalia | 376443 | [376443-zoomalia.json](./376443-zoomalia.json) |
 | Zoomerang | 64949 | [64949-zoomerang.json](./64949-zoomerang.json) |
 | ZoomnBoom | 107876 | [107876-zoomnboom.json](./107876-zoomnboom.json) |
 | ZooZooGo! | 64396 | [64396-zoozoogo.json](./64396-zoozoogo.json) |
