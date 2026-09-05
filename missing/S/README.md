@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Cats: Zoo | 315300 | [315300-secret-cats-zoo.json](./315300-secret-cats-zoo.json) |
 | Secret City: Chalk of Fate - Collector's Edition | 129214 | [129214-secret-city-chalk-of-fate-collectors-edition.json](./129214-secret-city-chalk-of-fate-collectors-edition.json) |
 | Secret Empires of the Ancient World | 84857 | [84857-secret-empires-of-the-ancient-world.json](./84857-secret-empires-of-the-ancient-world.json) |
+| Secret in Flower | 395578 | [395578-secret-in-flower.json](./395578-secret-in-flower.json) |
 | Secret Journeys: Cities of the World | 84901 | [84901-secret-journeys-cities-of-the-world.json](./84901-secret-journeys-cities-of-the-world.json) |
 | Secret Maryo Chronicles | 134076 | [134076-secret-maryo-chronicles.json](./134076-secret-maryo-chronicles.json) |
 | Secret Mysteries in London | 84900 | [84900-secret-mysteries-in-london.json](./84900-secret-mysteries-in-london.json) |
@@ -526,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seed's End | 339088 | [339088-seeds-end.json](./339088-seeds-end.json) |
 | Seedbo And That Time The Sun Exploded | 325829 | [325829-seedbo-and-that-time-the-sun-exploded.json](./325829-seedbo-and-that-time-the-sun-exploded.json) |
 | Seeds Life | 25756 | [25756-seeds-life.json](./25756-seeds-life.json) |
+| Seeing Red | 395587 | [395587-seeing-red.json](./395587-seeing-red.json) |
 | Seek | 333917 | [333917-seek.json](./333917-seek.json) |
 | Seek & Dread Online | 292853 | [292853-seek-and-dread-online.json](./292853-seek-and-dread-online.json) |
 | Seek & Snipe | 267106 | [267106-seek-and-snipe.json](./267106-seek-and-snipe.json) |
@@ -1506,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapper | 312320 | [312320-snapper.json](./312320-snapper.json) |
 | Snappy Elf | 261516 | [261516-snappy-elf.json](./261516-snappy-elf.json) |
 | Snares of Ruin Zero | 112352 | [112352-snares-of-ruin-zero.json](./112352-snares-of-ruin-zero.json) |
+| Snatched | 395585 | [395585-snatched.json](./395585-snatched.json) |
 | Snatcher | 197937 | [197937-snatcher.json](./197937-snatcher.json) |
 | Sneak In | 117071 | [117071-sneak-in.json](./117071-sneak-in.json) |
 | Sneak King | 2730 | [2730-sneak-king.json](./2730-sneak-king.json) |
@@ -3473,6 +3476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surf 'n Safari | 93574 | [93574-surf-n-safari.json](./93574-surf-n-safari.json) |
 | Surf & Turf Bundle | 308581 | [308581-surf-and-turf-bundle.json](./308581-surf-and-turf-bundle.json) |
 | Surf's Up | 4191 | [4191-surfs-up.json](./4191-surfs-up.json) |
+| Surface | 395545 | [395545-surface.json](./395545-surface.json) |
 | Surface: Alone in the Mist | 26712 | [26712-surface-alone-in-the-mist.json](./26712-surface-alone-in-the-mist.json) |
 | Surface: Alone in the Mist - Collector's Edition | 89943 | [89943-surface-alone-in-the-mist-collectors-edition.json](./89943-surface-alone-in-the-mist-collectors-edition.json) |
 | Surface: Project Dawn | 102812 | [102812-surface-project-dawn.json](./102812-surface-project-dawn.json) |
