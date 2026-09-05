@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Dessert Tycoon | 299452 | [299452-idle-dessert-tycoon.json](./299452-idle-dessert-tycoon.json) |
 | Idle Dragon Clicker: Expansion Pack 1 | 263188 | [263188-idle-dragon-clicker-expansion-pack-1.json](./263188-idle-dragon-clicker-expansion-pack-1.json) |
 | Idle Dungeons | 103476 | [103476-idle-dungeons.json](./103476-idle-dungeons.json) |
+| Idle Flipper | 87666 | [87666-idle-flipper.json](./87666-idle-flipper.json) |
 | Idle Food Empire Tycoon | 219268 | [219268-idle-food-empire-tycoon.json](./219268-idle-food-empire-tycoon.json) |
 | Idle Hamburgers Save the World | 224215 | [224215-idle-hamburgers-save-the-world.json](./224215-idle-hamburgers-save-the-world.json) |
 | Idle Inventor: Factory Tycoon | 167288 | [167288-idle-inventor-factory-tycoon.json](./167288-idle-inventor-factory-tycoon.json) |
@@ -363,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Shooter | 33103 | [33103-infinite-shooter.json](./33103-infinite-shooter.json) |
 | Infinite Sunshine Dust | 96731 | [96731-infinite-sunshine-dust.json](./96731-infinite-sunshine-dust.json) |
 | Infinite Versus | 143697 | [143697-infinite-versus.json](./143697-infinite-versus.json) |
+| Infinite Word Search Puzzles | 87658 | [87658-infinite-word-search-puzzles.json](./87658-infinite-word-search-puzzles.json) |
 | Infinite World | 102936 | [102936-infinite-world.json](./102936-infinite-world.json) |
 | Infinitroid | 70380 | [70380-infinitroid.json](./70380-infinitroid.json) |
 | Infinitum: Deluxe Edition | 53232 | [53232-infinitum-deluxe-edition.json](./53232-infinitum-deluxe-edition.json) |
@@ -633,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Arrows | 197945 | [197945-isle-of-arrows.json](./197945-isle-of-arrows.json) |
 | Isle of Jura | 167395 | [167395-isle-of-jura.json](./167395-isle-of-jura.json) |
 | Isles of Silence | 309684 | [309684-isles-of-silence.json](./309684-isles-of-silence.json) |
+| iSnake | 87703 | [87703-isnake.json](./87703-isnake.json) |
 | Isoland: The Amusement Park | 141258 | [141258-isoland-the-amusement-park.json](./141258-isoland-the-amusement-park.json) |
 | Isolani | 22394 | [22394-isolani.json](./22394-isolani.json) |
 | Isolated | 86116 | [86116-isolated.json](./86116-isolated.json) |
