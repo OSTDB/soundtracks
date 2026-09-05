@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeuroReal VR | 100819 | [100819-neuroreal-vr.json](./100819-neuroreal-vr.json) |
 | Neurose Neurones | 310766 | [310766-neurose-neurones.json](./310766-neurose-neurones.json) |
 | Neuroslop | 409579 | [409579-neuroslop.json](./409579-neuroslop.json) |
+| Neuter Master | 372463 | [372463-neuter-master.json](./372463-neuter-master.json) |
 | Neutrois | 183580 | [183580-neutrois.json](./183580-neutrois.json) |
 | Never / Together | 402908 | [402908-never-together.json](./402908-never-together.json) |
 | Never Alone: Arctic Collection | 46702 | [46702-never-alone-arctic-collection.json](./46702-never-alone-arctic-collection.json) |
@@ -448,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Power | 242772 | [242772-next-power.json](./242772-next-power.json) |
 | Next Quintillionaire | 391611 | [391611-next-quintillionaire.json](./391611-next-quintillionaire.json) |
 | Next Room | 292280 | [292280-next-room.json](./292280-next-room.json) |
+| Next Run | 372468 | [372468-next-run.json](./372468-next-run.json) |
 | Next Step | 178655 | [178655-next-step.json](./178655-next-step.json) |
 | Next Stop | 87314 | [87314-next-stop.json](./87314-next-stop.json) |
 | NextRev: Eibunpou Tettei Tokkun | 64944 | [64944-nextrev-eibunpou-tettei-tokkun.json](./64944-nextrev-eibunpou-tettei-tokkun.json) |
