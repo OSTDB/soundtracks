@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chucky: The Road To Heaven | 235449 | [235449-chucky-the-road-to-heaven.json](./235449-chucky-the-road-to-heaven.json) |
 | Chuggington: Babysitter Brewster | 230548 | [230548-chuggington-babysitter-brewster.json](./230548-chuggington-babysitter-brewster.json) |
 | Chuhou Joutai | 133460 | [133460-chuhou-joutai.json](./133460-chuhou-joutai.json) |
+| Chukcha v Bolshom Gorode | 403576 | [403576-chukcha-v-bolshom-gorode.json](./403576-chukcha-v-bolshom-gorode.json) |
 | Chulip | 20657 | [20657-chulip.json](./20657-chulip.json) |
 | Chungus Rampage in Big Forest | 143068 | [143068-chungus-rampage-in-big-forest.json](./143068-chungus-rampage-in-big-forest.json) |
 | Chunithm Sun Plus | 269300 | [269300-chunithm-sun-plus.json](./269300-chunithm-sun-plus.json) |
@@ -1326,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contingent️ | 275352 | [275352-contingent.json](./275352-contingent.json) |
 | Continuum 01 | 265417 | [265417-continuum-01.json](./265417-continuum-01.json) |
 | Contra Force | 24978 | [24978-contra-force.json](./24978-contra-force.json) |
+| Contract Cooks | 403578 | [403578-contract-cooks.json](./403578-contract-cooks.json) |
 | Contract Marriage | 303264 | [303264-contract-marriage.json](./303264-contract-marriage.json) |
 | Contractor | 235980 | [235980-contractor.json](./235980-contractor.json) |
 | Contractors | 123603 | [123603-contractors.json](./123603-contractors.json) |
