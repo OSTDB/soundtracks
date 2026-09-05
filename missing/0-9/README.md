@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2-taku de Real-juu Metsubou Game | 220299 | [220299-2-taku-de-real-juu-metsubou-game.json](./220299-2-taku-de-real-juu-metsubou-game.json) |
 | 20 Floors | 405472 | [405472-20-floors.json](./405472-20-floors.json) |
 | 20 Minute Metropolis | 124263 | [124263-20-minute-metropolis.json](./124263-20-minute-metropolis.json) |
+| 20 More, Somehow Even Smaller, Mazes | 393460 | [393460-20-more-somehow-even-smaller-mazes.json](./393460-20-more-somehow-even-smaller-mazes.json) |
 | 20 Useless Apps | 243962 | [243962-20-useless-apps.json](./243962-20-useless-apps.json) |
 | 2000s Rock Legends: Music Pack | 325822 | [325822-2000s-rock-legends-music-pack.json](./325822-2000s-rock-legends-music-pack.json) |
 | 2003 AtariAge Holiday Cart | 70419 | [70419-2003-atariage-holiday-cart.json](./70419-2003-atariage-holiday-cart.json) |
