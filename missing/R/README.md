@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabisco+ | 147464 | [147464-rabisco.json](./147464-rabisco.json) |
 | Raccoin: Coin Pusher Roguelike | 360748 | [360748-raccoin-coin-pusher-roguelike.json](./360748-raccoin-coin-pusher-roguelike.json) |
 | Raccoon Hero: The Sunrise | 51961 | [51961-raccoon-hero-the-sunrise.json](./51961-raccoon-hero-the-sunrise.json) |
+| Raccoon Survival Simulator | 401540 | [401540-raccoon-survival-simulator.json](./401540-raccoon-survival-simulator.json) |
 | Race Ace | 315274 | [315274-race-ace.json](./315274-race-ace.json) |
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
 | Race or Crash: Secret Racer League | 341314 | [341314-race-or-crash-secret-racer-league.json](./341314-race-or-crash-secret-racer-league.json) |
@@ -532,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relive | 34413 | [34413-relive.json](./34413-relive.json) |
 | Relms | 125992 | [125992-relms.json](./125992-relms.json) |
 | Reload 2 Remember | 227470 | [227470-reload-2-remember.json](./227470-reload-2-remember.json) |
+| Remain At Your Desk | 401513 | [401513-remain-at-your-desk.json](./401513-remain-at-your-desk.json) |
 | Remaster Textures | 271488 | [271488-remaster-textures.json](./271488-remaster-textures.json) |
 | Rematch | 60008 | [60008-rematch.json](./60008-rematch.json) |
 | Remember Saint Patrick | 335079 | [335079-remember-saint-patrick.json](./335079-remember-saint-patrick.json) |
@@ -1207,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rootless | 183036 | [183036-rootless.json](./183036-rootless.json) |
 | Rootman: Bodycam Horror Footage | 238197 | [238197-rootman-bodycam-horror-footage.json](./238197-rootman-bodycam-horror-footage.json) |
 | Roots | 249440 | [249440-roots.json](./249440-roots.json) |
+| Roots And Sprouts | 401539 | [401539-roots-and-sprouts.json](./401539-roots-and-sprouts.json) |
 | Roots of Harmony | 320561 | [320561-roots-of-harmony.json](./320561-roots-of-harmony.json) |
 | Rope | 138809 | [138809-rope.json](./138809-rope.json) |
 | Rope & Ball | 262639 | [262639-rope-and-ball.json](./262639-rope-and-ball.json) |
