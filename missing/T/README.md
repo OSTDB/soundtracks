@@ -668,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms Simulator | 121032 | [121032-the-backrooms-simulator.json](./121032-the-backrooms-simulator.json) |
 | The Backrooms World | 204671 | [204671-the-backrooms-world.json](./204671-the-backrooms-world.json) |
 | The Backrooms: Lost Tape | 197312 | [197312-the-backrooms-lost-tape.json](./197312-the-backrooms-lost-tape.json) |
+| The Backrooms: Lost to the Dark | 370141 | [370141-the-backrooms-lost-to-the-dark.json](./370141-the-backrooms-lost-to-the-dark.json) |
 | The Backrooms: Mass Extinction | 203558 | [203558-the-backrooms-mass-extinction.json](./203558-the-backrooms-mass-extinction.json) |
 | The Backrooms: Survival | 192975 | [192975-the-backrooms-survival.json](./192975-the-backrooms-survival.json) |
 | The Bad Gravedigger | 104073 | [104073-the-bad-gravedigger.json](./104073-the-bad-gravedigger.json) |
@@ -1132,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gannet | 202968 | [202968-the-gannet.json](./202968-the-gannet.json) |
 | The Gardener | 389404 | [389404-the-gardener.json](./389404-the-gardener.json) |
 | The Gas Station: Graveyard Shift | 379883 | [379883-the-gas-station-graveyard-shift.json](./379883-the-gas-station-graveyard-shift.json) |
+| The Gate Must Stand | 370107 | [370107-the-gate-must-stand.json](./370107-the-gate-must-stand.json) |
 | The Gene Machine | 19672 | [19672-the-gene-machine.json](./19672-the-gene-machine.json) |
 | The General | 174369 | [174369-the-general.json](./174369-the-general.json) |
 | The Genesis Project | 109057 | [109057-the-genesis-project.json](./109057-the-genesis-project.json) |
@@ -1351,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Drop | 318194 | [318194-the-last-drop.json](./318194-the-last-drop.json) |
 | The Last Earth Fighter | 371239 | [371239-the-last-earth-fighter.json](./371239-the-last-earth-fighter.json) |
 | The Last Errant | 396934 | [396934-the-last-errant.json](./396934-the-last-errant.json) |
+| The Last Experiment: A Memetric Story | 370118 | [370118-the-last-experiment-a-memetric-story.json](./370118-the-last-experiment-a-memetric-story.json) |
 | The Last Express: Gold Edition | 30235 | [30235-the-last-express-gold-edition.json](./30235-the-last-express-gold-edition.json) |
 | The Last Fighter | 209662 | [209662-the-last-fighter.json](./209662-the-last-fighter.json) |
 | The Last Flower | 146304 | [146304-the-last-flower.json](./146304-the-last-flower.json) |
@@ -2069,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Underdog | 373013 | [373013-the-underdog.json](./373013-the-underdog.json) |
 | The Undying Plague | 35759 | [35759-the-undying-plague.json](./35759-the-undying-plague.json) |
 | The Unfettered | 223163 | [223163-the-unfettered.json](./223163-the-unfettered.json) |
+| The Uninvited 2: Let Nothing You Dismay | 370106 | [370106-the-uninvited-2-let-nothing-you-dismay.json](./370106-the-uninvited-2-let-nothing-you-dismay.json) |
 | The Unseen Fears: Body Thief - Collector's Edition | 377077 | [377077-the-unseen-fears-body-thief-collectors-edition.json](./377077-the-unseen-fears-body-thief-collectors-edition.json) |
 | The Unsettled | 199665 | [199665-the-unsettled.json](./199665-the-unsettled.json) |
 | The Unspoken | 25908 | [25908-the-unspoken.json](./25908-the-unspoken.json) |
@@ -2260,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This War of Mine: Stories - Season Pass | 75872 | [75872-this-war-of-mine-stories-season-pass.json](./75872-this-war-of-mine-stories-season-pass.json) |
 | Thistledown: Marrowroot | 216502 | [216502-thistledown-marrowroot.json](./216502-thistledown-marrowroot.json) |
 | THO Simulator | 188086 | [188086-tho-simulator.json](./188086-tho-simulator.json) |
+| Thomas & Friends: Let's Roll | 370116 | [370116-thomas-and-friends-lets-roll.json](./370116-thomas-and-friends-lets-roll.json) |
 | Thomas to Asonde Oboeru Kotoba to Kazu to ABC | 222516 | [222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json](./222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json) |
 | Thomas Was Alone | 2291 | [2291-thomas-was-alone.json](./2291-thomas-was-alone.json) |
 | Thor | 95414 | [95414-thor.json](./95414-thor.json) |
