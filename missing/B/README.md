@@ -698,6 +698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bestiary Bundle | 199625 | [199625-bestiary-bundle.json](./199625-bestiary-bundle.json) |
 | Bestiary Survivors | 290713 | [290713-bestiary-survivors.json](./290713-bestiary-survivors.json) |
 | Bestie Walzer | 98435 | [98435-bestie-walzer.json](./98435-bestie-walzer.json) |
+| Bet on Beta | 415119 | [415119-bet-on-beta.json](./415119-bet-on-beta.json) |
 | Betaman 2000: Special Edition | 330521 | [330521-betaman-2000-special-edition.json](./330521-betaman-2000-special-edition.json) |
 | BeTrapped! | 71522 | [71522-betrapped.json](./71522-betrapped.json) |
 | Betrayal At Club Low | 194803 | [194803-betrayal-at-club-low.json](./194803-betrayal-at-club-low.json) |
@@ -997,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaze and Blade: Eternal Quest | 18249 | [18249-blaze-and-blade-eternal-quest.json](./18249-blaze-and-blade-eternal-quest.json) |
 | Blaze and the Monster Machines | 101564 | [101564-blaze-and-the-monster-machines.json](./101564-blaze-and-the-monster-machines.json) |
 | Blaze and the Monster Machines: Axle City Racers | 148547 | [148547-blaze-and-the-monster-machines-axle-city-racers.json](./148547-blaze-and-the-monster-machines-axle-city-racers.json) |
+| BlazePunk | 415092 | [415092-blazepunk.json](./415092-blazepunk.json) |
 | BlazeSky | 131611 | [131611-blazesky.json](./131611-blazesky.json) |
 | Blazin' Aces | 61107 | [61107-blazin-aces.json](./61107-blazin-aces.json) |
 | Blazing Legion: Ignition | 78064 | [78064-blazing-legion-ignition.json](./78064-blazing-legion-ignition.json) |
@@ -1281,6 +1283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoneTown: The Second Coming Edition | 173828 | [173828-bonetown-the-second-coming-edition.json](./173828-bonetown-the-second-coming-edition.json) |
 | Bonfire Kingdom | 260413 | [260413-bonfire-kingdom.json](./260413-bonfire-kingdom.json) |
 | Bongo Cat | 334486 | [334486-bongo-cat.json](./334486-bongo-cat.json) |
+| Bonk Voyage | 415112 | [415112-bonk-voyage.json](./415112-bonk-voyage.json) |
 | Bonkers | 177539 | [177539-bonkers.json](./177539-bonkers.json) |
 | Bonkers | 78677 | [78677-bonkers.json](./78677-bonkers.json) |
 | Bonza Word Puzzle | 90678 | [90678-bonza-word-puzzle.json](./90678-bonza-word-puzzle.json) |
