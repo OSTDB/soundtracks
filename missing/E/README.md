@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigmarella | 190223 | [190223-enigmarella.json](./190223-enigmarella.json) |
 | Enigmatis: The Ghosts of Maple Creek | 17137 | [17137-enigmatis-the-ghosts-of-maple-creek.json](./17137-enigmatis-the-ghosts-of-maple-creek.json) |
 | EnigmOn | 174328 | [174328-enigmon.json](./174328-enigmon.json) |
+| Enjoy Amoy & Sisters | 404874 | [404874-enjoy-amoy-and-sisters.json](./404874-enjoy-amoy-and-sisters.json) |
 | Enkan no Memo-ria: Kakera Tomoshi | 135858 | [135858-enkan-no-memo-ria-kakera-tomoshi.json](./135858-enkan-no-memo-ria-kakera-tomoshi.json) |
 | Enpitsu de Oku no Hosomichi DS | 269830 | [269830-enpitsu-de-oku-no-hosomichi-ds.json](./269830-enpitsu-de-oku-no-hosomichi-ds.json) |
 | Enraged | 189159 | [189159-enraged.json](./189159-enraged.json) |
@@ -634,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest: Torment of Velious | 125475 | [125475-everquest-torment-of-velious.json](./125475-everquest-torment-of-velious.json) |
 | EverRun | 90704 | [90704-everrun.json](./90704-everrun.json) |
 | Everseed | 294473 | [294473-everseed.json](./294473-everseed.json) |
+| Evershard: Heroes of Gallan's Landing | 404828 | [404828-evershard-heroes-of-gallans-landing.json](./404828-evershard-heroes-of-gallans-landing.json) |
 | Everslash | 122424 | [122424-everslash.json](./122424-everslash.json) |
 | Everspace: Stellar Edition | 102126 | [102126-everspace-stellar-edition.json](./102126-everspace-stellar-edition.json) |
 | Evertales | 23927 | [23927-evertales.json](./23927-evertales.json) |
