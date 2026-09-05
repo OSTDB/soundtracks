@@ -1345,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana: Boundless Horizon | 220306 | [220306-arcana-boundless-horizon.json](./220306-arcana-boundless-horizon.json) |
 | Arcana: Heat and Cold - Season 2 | 191241 | [191241-arcana-heat-and-cold-season-2.json](./191241-arcana-heat-and-cold-season-2.json) |
 | Arcana: Seal of Rimsala | 312351 | [312351-arcana-seal-of-rimsala.json](./312351-arcana-seal-of-rimsala.json) |
+| Arcane Angler | 400238 | [400238-arcane-angler.json](./400238-arcane-angler.json) |
 | Arcane Assembly | 244492 | [244492-arcane-assembly.json](./244492-arcane-assembly.json) |
 | Arcane Audit | 248888 | [248888-arcane-audit.json](./248888-arcane-audit.json) |
 | Arcane Board | 333362 | [333362-arcane-board.json](./333362-arcane-board.json) |
