@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save City R | 260399 | [260399-save-city-r.json](./260399-save-city-r.json) |
 | Save Da Frogs | 237047 | [237047-save-da-frogs.json](./237047-save-da-frogs.json) |
 | Save HomeWorld | 110370 | [110370-save-homeworld.json](./110370-save-homeworld.json) |
+| Save Humanity.exe | 405534 | [405534-save-humanity-exe.json](./405534-save-humanity-exe.json) |
 | Save My Pet | 89278 | [89278-save-my-pet.json](./89278-save-my-pet.json) |
 | Save My Sister | 257679 | [257679-save-my-sister.json](./257679-save-my-sister.json) |
 | Save Snegurochka | 99021 | [99021-save-snegurochka.json](./99021-save-snegurochka.json) |
@@ -270,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Pirate: Sea Story | 166764 | [166764-save-the-pirate-sea-story.json](./166764-save-the-pirate-sea-story.json) |
 | Save the Pixels | 112306 | [112306-save-the-pixels.json](./112306-save-the-pixels.json) |
 | Save the Planet | 153425 | [153425-save-the-planet.json](./153425-save-the-planet.json) |
+| Save the Princess? Save a Fart! | 405464 | [405464-save-the-princess-save-a-fart.json](./405464-save-the-princess-save-a-fart.json) |
 | Save the Puppy: Pet Dog Rescue | 221384 | [221384-save-the-puppy-pet-dog-rescue.json](./221384-save-the-puppy-pet-dog-rescue.json) |
 | Save: Teaser - Before the Dawn | 313463 | [313463-save-teaser-before-the-dawn.json](./313463-save-teaser-before-the-dawn.json) |
 | Saving Clicklandia | 295017 | [295017-saving-clicklandia.json](./295017-saving-clicklandia.json) |
@@ -545,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selfmade Devil | 170546 | [170546-selfmade-devil.json](./170546-selfmade-devil.json) |
 | Selini | 159885 | [159885-selini.json](./159885-selini.json) |
 | Selling Sunlight | 118412 | [118412-selling-sunlight.json](./118412-selling-sunlight.json) |
+| Sellsword | 405535 | [405535-sellsword.json](./405535-sellsword.json) |
 | Semblance | 55173 | [55173-semblance.json](./55173-semblance.json) |
 | Semispheres | 17990 | [17990-semispheres.json](./17990-semispheres.json) |
 | Semmelweis | 238752 | [238752-semmelweis.json](./238752-semmelweis.json) |
@@ -2680,6 +2683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storage Anomaly | 325821 | [325821-storage-anomaly.json](./325821-storage-anomaly.json) |
 | Storage Master | 212483 | [212483-storage-master.json](./212483-storage-master.json) |
 | Storage Warfare | 303220 | [303220-storage-warfare.json](./303220-storage-warfare.json) |
+| Store Simulator 2018 | 405476 | [405476-store-simulator-2018.json](./405476-store-simulator-2018.json) |
 | Storebound | 331151 | [331151-storebound.json](./331151-storebound.json) |
 | Storia Stories | 257115 | [257115-storia-stories.json](./257115-storia-stories.json) |
 | Stories to Tell: Downhill Cemetery | 295534 | [295534-stories-to-tell-downhill-cemetery.json](./295534-stories-to-tell-downhill-cemetery.json) |
