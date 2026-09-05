@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise | 20527 | [20527-paradise.json](./20527-paradise.json) |
 | Paradise Angel | 278141 | [278141-paradise-angel.json](./278141-paradise-angel.json) |
 | Paradise Cleaning!: Married Woman Cosplay Life | 235479 | [235479-paradise-cleaning-married-woman-cosplay-life.json](./235479-paradise-cleaning-married-woman-cosplay-life.json) |
+| Paradise Corner | 413668 | [413668-paradise-corner.json](./413668-paradise-corner.json) |
 | Paradise Lofts | 156652 | [156652-paradise-lofts.json](./156652-paradise-lofts.json) |
 | Paradise Lost | 137092 | [137092-paradise-lost.json](./137092-paradise-lost.json) |
 | Paradise Shooting 2!! | 311808 | [311808-paradise-shooting-2.json](./311808-paradise-shooting-2.json) |
@@ -563,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Wright: Ace Attorney - Trials and Tribulations | 221287 | [221287-phoenix-wright-ace-attorney-trials-and-tribulations.json](./221287-phoenix-wright-ace-attorney-trials-and-tribulations.json) |
 | Phoenix Wright: Ace Attorney - Truth and Consequences | 302651 | [302651-phoenix-wright-ace-attorney-truth-and-consequences.json](./302651-phoenix-wright-ace-attorney-truth-and-consequences.json) |
 | Phoenix Wright: Ace Attorney Trilogy - E-Capcom Limited Edition | 205266 | [205266-phoenix-wright-ace-attorney-trilogy-e-capcom-limited-edition.json](./205266-phoenix-wright-ace-attorney-trilogy-e-capcom-limited-edition.json) |
+| Phoenix Wrong | 413602 | [413602-phoenix-wrong.json](./413602-phoenix-wrong.json) |
 | Phonequest | 134694 | [134694-phonequest.json](./134694-phonequest.json) |
 | Phonics Fun with Biff, Chip & Kipper Vol. 1 | 61657 | [61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json](./61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json) |
 | Photogeist Albums: Case 1 | 307337 | [307337-photogeist-albums-case-1.json](./307337-photogeist-albums-case-1.json) |
@@ -786,6 +788,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles World War II Jigsaws | 263779 | [263779-pixel-puzzles-world-war-ii-jigsaws.json](./263779-pixel-puzzles-world-war-ii-jigsaws.json) |
 | Pixel Puzzles World War II Jigsaws: Battle of Hürtgen Forest | 267064 | [267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json](./267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json) |
 | Pixel Quest | 246099 | [246099-pixel-quest.json](./246099-pixel-quest.json) |
+| Pixel Quest: The Lost Gifts | 413681 | [413681-pixel-quest-the-lost-gifts.json](./413681-pixel-quest-the-lost-gifts.json) |
+| Pixel Quest: The Lost Idols | 413680 | [413680-pixel-quest-the-lost-idols.json](./413680-pixel-quest-the-lost-idols.json) |
 | Pixel Ripped 1978 | 242384 | [242384-pixel-ripped-1978.json](./242384-pixel-ripped-1978.json) |
 | Pixel Robot Return | 186319 | [186319-pixel-robot-return.json](./186319-pixel-robot-return.json) |
 | Pixel Sangokushi | 200730 | [200730-pixel-sangokushi.json](./200730-pixel-sangokushi.json) |
@@ -881,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies 2: Into the Storm | 272546 | [272546-plants-vs-zombies-2-into-the-storm.json](./272546-plants-vs-zombies-2-into-the-storm.json) |
 | Plants vs. Zombies: Replanted | 358529 | [358529-plants-vs-zombies-replanted.json](./358529-plants-vs-zombies-replanted.json) |
 | Plaqueman | 229928 | [229928-plaqueman.json](./229928-plaqueman.json) |
+| Plasmaborne | 413592 | [413592-plasmaborne.json](./413592-plasmaborne.json) |
 | Plasmaworm | 93052 | [93052-plasmaworm.json](./93052-plasmaworm.json) |
 | Plastic Invasion: A Super Magical Mermaid Adventure | 302128 | [302128-plastic-invasion-a-super-magical-mermaid-adventure.json](./302128-plastic-invasion-a-super-magical-mermaid-adventure.json) |
 | Plastic Playground | 33116 | [33116-plastic-playground.json](./33116-plastic-playground.json) |
@@ -1022,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Lazarus | 337439 | [337439-pokemon-lazarus.json](./337439-pokemon-lazarus.json) |
 | Pokémon Luminescent Platinum | 199621 | [199621-pokemon-luminescent-platinum.json](./199621-pokemon-luminescent-platinum.json) |
 | Pokémon Mega Evolution Aquamarine | 300428 | [300428-pokemon-mega-evolution-aquamarine.json](./300428-pokemon-mega-evolution-aquamarine.json) |
+| Pokémon Monomyth | 413611 | [413611-pokemon-monomyth.json](./413611-pokemon-monomyth.json) |
 | Pokémon Nameless FireRed Project | 213034 | [213034-pokemon-nameless-firered-project.json](./213034-pokemon-nameless-firered-project.json) |
 | Pokémon Orange | 141203 | [141203-pokemon-orange.json](./141203-pokemon-orange.json) |
 | Pokémon Photonic Sun | 214739 | [214739-pokemon-photonic-sun.json](./214739-pokemon-photonic-sun.json) |
@@ -1119,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poo Pusher | 309690 | [309690-poo-pusher.json](./309690-poo-pusher.json) |
 | Poogers | 223131 | [223131-poogers.json](./223131-poogers.json) |
 | Pool Adventure | 191221 | [191221-pool-adventure.json](./191221-pool-adventure.json) |
+| Pool Glow | 413629 | [413629-pool-glow.json](./413629-pool-glow.json) |
 | Pool Paradise: International Edition | 43295 | [43295-pool-paradise-international-edition.json](./43295-pool-paradise-international-edition.json) |
 | Pool Together Bundle | 315842 | [315842-pool-together-bundle.json](./315842-pool-together-bundle.json) |
 | Pool! | 88287 | [88287-pool.json](./88287-pool.json) |
