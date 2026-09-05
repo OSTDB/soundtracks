@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Kingdom | 253005 | [253005-loop-kingdom.json](./253005-loop-kingdom.json) |
 | Looper Looper | 255997 | [255997-looper-looper.json](./255997-looper-looper.json) |
 | Loopers | 140632 | [140632-loopers.json](./140632-loopers.json) |
+| Loopquarium | 410915 | [410915-loopquarium.json](./410915-loopquarium.json) |
 | Loopy Ball | 239290 | [239290-loopy-ball.json](./239290-loopy-ball.json) |
 | Loopy Blocks | 254151 | [254151-loopy-blocks.json](./254151-loopy-blocks.json) |
 | Loose Lips(Side:foggy) | 151709 | [151709-loose-lips-side-foggy.json](./151709-loose-lips-side-foggy.json) |
@@ -828,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Girl | 22474 | [22474-love-girl.json](./22474-love-girl.json) |
 | Love Hentai: Sexy Body | 109714 | [109714-love-hentai-sexy-body.json](./109714-love-hentai-sexy-body.json) |
 | Love Hina Advance ~Shukufuku no Kane wa Naru kana~ | 49416 | [49416-love-hina-advance-shukufuku-no-kane-wa-naru-kana.json](./49416-love-hina-advance-shukufuku-no-kane-wa-naru-kana.json) |
+| Love Hotel Simulator | 410920 | [410920-love-hotel-simulator.json](./410920-love-hotel-simulator.json) |
 | Love Hues! | 134674 | [134674-love-hues.json](./134674-love-hues.json) |
 | Love in the Glen | 33083 | [33083-love-in-the-glen.json](./33083-love-in-the-glen.json) |
 | Love Is All Around: Love In The Room | 294998 | [294998-love-is-all-around-love-in-the-room.json](./294998-love-is-all-around-love-in-the-room.json) |
