@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Tower Adventure | 173803 | [173803-magic-tower-adventure.json](./173803-magic-tower-adventure.json) |
 | Magic Twins | 132244 | [132244-magic-twins.json](./132244-magic-twins.json) |
 | Magic Wand | 311811 | [311811-magic-wand.json](./311811-magic-wand.json) |
+| Magic War Legends | 410880 | [410880-magic-war-legends.json](./410880-magic-war-legends.json) |
 | Magic: The Gathering - Battlegrounds | 5907 | [5907-magic-the-gathering-battlegrounds.json](./5907-magic-the-gathering-battlegrounds.json) |
 | Magic: The Gathering - Duels of the Planeswalkers 2015 | 18218 | [18218-magic-the-gathering-duels-of-the-planeswalkers-2015.json](./18218-magic-the-gathering-duels-of-the-planeswalkers-2015.json) |
 | Magical Blaster | 151741 | [151741-magical-blaster.json](./151741-magical-blaster.json) |
@@ -1212,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimal Escape | 290694 | [290694-minimal-escape.json](./290694-minimal-escape.json) |
 | Minimal Move | 115677 | [115677-minimal-move.json](./115677-minimal-move.json) |
 | MiniMap Kingdom | 166743 | [166743-minimap-kingdom.json](./166743-minimap-kingdom.json) |
+| Minimate | 410917 | [410917-minimate.json](./410917-minimate.json) |
 | Minimum Nanonic | 70401 | [70401-minimum-nanonic.json](./70401-minimum-nanonic.json) |
 | MinMe | 241050 | [241050-minme.json](./241050-minme.json) |
 | Minna de Nanpure | 55939 | [55939-minna-de-nanpure.json](./55939-minna-de-nanpure.json) |
@@ -1400,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole's World | 245050 | [245050-moles-world.json](./245050-moles-world.json) |
 | Moleshine Cooking Simulator | 237057 | [237057-moleshine-cooking-simulator.json](./237057-moleshine-cooking-simulator.json) |
 | Molly and the Gunmids | 185687 | [185687-molly-and-the-gunmids.json](./185687-molly-and-the-gunmids.json) |
+| Moloch Kombinat | 410886 | [410886-moloch-kombinat.json](./410886-moloch-kombinat.json) |
 | Mom Hid My Game! | 78160 | [78160-mom-hid-my-game.json](./78160-mom-hid-my-game.json) |
 | Moments Out of Time | 60009 | [60009-moments-out-of-time.json](./60009-moments-out-of-time.json) |
 | Momibosu | 151726 | [151726-momibosu.json](./151726-momibosu.json) |
