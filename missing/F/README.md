@@ -659,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Time In Paris: Collector's Edition | 209143 | [209143-first-time-in-paris-collectors-edition.json](./209143-first-time-in-paris-collectors-edition.json) |
 | First Winter | 97027 | [97027-first-winter.json](./97027-first-winter.json) |
 | Fiscal Jesters | 176509 | [176509-fiscal-jesters.json](./176509-fiscal-jesters.json) |
+| Fish | 382202 | [382202-fish.json](./382202-fish.json) |
 | Fish Catcher | 105374 | [105374-fish-catcher.json](./105374-fish-catcher.json) |
 | Fish Duel | 109686 | [109686-fish-duel.json](./109686-fish-duel.json) |
 | Fish Eyes | 383959 | [383959-fish-eyes.json](./383959-fish-eyes.json) |
@@ -700,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fista 3-in-1 Retro Pack | 254762 | [254762-fista-3-in-1-retro-pack.json](./254762-fista-3-in-1-retro-pack.json) |
 | Fists of Stone | 219786 | [219786-fists-of-stone.json](./219786-fists-of-stone.json) |
 | Fit & Fun | 50604 | [50604-fit-and-fun.json](./50604-fit-and-fun.json) |
+| Fit Cats | 382188 | [382188-fit-cats.json](./382188-fit-cats.json) |
 | Fit For A King | 121200 | [121200-fit-for-a-king.json](./121200-fit-for-a-king.json) |
 | Fit My Zoo: Complete + | 328820 | [328820-fit-my-zoo-complete.json](./328820-fit-my-zoo-complete.json) |
 | Fit Puzzle Blocks: Expansion Pack | 263197 | [263197-fit-puzzle-blocks-expansion-pack.json](./263197-fit-puzzle-blocks-expansion-pack.json) |
