@@ -338,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bases Loaded | 7764 | [7764-bases-loaded.json](./7764-bases-loaded.json) |
 | Bases Loaded for Game Boy | 273096 | [273096-bases-loaded-for-game-boy.json](./273096-bases-loaded-for-game-boy.json) |
 | Bashtronaut | 263203 | [263203-bashtronaut.json](./263203-bashtronaut.json) |
+| BASIC Computer Games | 408061 | [408061-basic-computer-games.json](./408061-basic-computer-games.json) |
 | Basilisk 2000 | 243390 | [243390-basilisk-2000.json](./243390-basilisk-2000.json) |
 | Basilisk! | 297782 | [297782-basilisk.json](./297782-basilisk.json) |
 | Basket Bowling + | 47309 | [47309-basket-bowling.json](./47309-basket-bowling.json) |
@@ -510,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship | 95434 | [95434-battleship.json](./95434-battleship.json) |
 | Battleships and Carriers: WW2 Battleship Game | 111706 | [111706-battleships-and-carriers-ww2-battleship-game.json](./111706-battleships-and-carriers-ww2-battleship-game.json) |
 | BattleSound | 151739 | [151739-battlesound.json](./151739-battlesound.json) |
+| Battlespace Command | 408067 | [408067-battlespace-command.json](./408067-battlespace-command.json) |
 | BattleSphere Gold | 40813 | [40813-battlesphere-gold.json](./40813-battlesphere-gold.json) |
 | Battlestar Galactica Deadlock: Sin and Sacrifice | 115672 | [115672-battlestar-galactica-deadlock-sin-and-sacrifice.json](./115672-battlestar-galactica-deadlock-sin-and-sacrifice.json) |
 | BattleStar Mazay | 104068 | [104068-battlestar-mazay.json](./104068-battlestar-mazay.json) |
@@ -910,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Hole | 85507 | [85507-black-hole.json](./85507-black-hole.json) |
 | Black Hornet | 14309 | [14309-black-hornet.json](./14309-black-hornet.json) |
 | Black Lake | 410926 | [410926-black-lake.json](./410926-black-lake.json) |
+| Black Lily Inmortal | 408083 | [408083-black-lily-inmortal.json](./408083-black-lily-inmortal.json) |
 | Black Lotus Motel | 159894 | [159894-black-lotus-motel.json](./159894-black-lotus-motel.json) |
 | Black Magic | 12258 | [12258-black-magic.json](./12258-black-magic.json) |
 | Black Market of Bulletphilia: 100th Black Market | 210247 | [210247-black-market-of-bulletphilia-100th-black-market.json](./210247-black-market-of-bulletphilia-100th-black-market.json) |
@@ -1117,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood of Darkness | 153434 | [153434-blood-of-darkness.json](./153434-blood-of-darkness.json) |
 | Blood of Heroes | 146880 | [146880-blood-of-heroes.json](./146880-blood-of-heroes.json) |
 | Blood of Patriots | 86318 | [86318-blood-of-patriots.json](./86318-blood-of-patriots.json) |
+| Blood of Rations | 408031 | [408031-blood-of-rations.json](./408031-blood-of-rations.json) |
 | Blood Omen 2: Legacy of Kain | 3823 | [3823-blood-omen-2-legacy-of-kain.json](./3823-blood-omen-2-legacy-of-kain.json) |
 | Blood Omen: Legacy of Kain | 317629 | [317629-blood-omen-legacy-of-kain.json](./317629-blood-omen-legacy-of-kain.json) |
 | Blood Omen: Legacy of Kain | 7894 | [7894-blood-omen-legacy-of-kain.json](./7894-blood-omen-legacy-of-kain.json) |
@@ -1745,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bully Ball Soccer | 296653 | [296653-bully-ball-soccer.json](./296653-bully-ball-soccer.json) |
 | BullyBall | 161894 | [161894-bullyball.json](./161894-bullyball.json) |
 | Bulwark Evolution: Falconeer Chronicles | 214486 | [214486-bulwark-evolution-falconeer-chronicles.json](./214486-bulwark-evolution-falconeer-chronicles.json) |
+| Bulwark: Falconeer Chronicles - Medieval Houses | 408049 | [408049-bulwark-falconeer-chronicles-medieval-houses.json](./408049-bulwark-falconeer-chronicles-medieval-houses.json) |
 | Bumbledore | 16348 | [16348-bumbledore.json](./16348-bumbledore.json) |
 | Bumblepig | 94735 | [94735-bumblepig.json](./94735-bumblepig.json) |
 | Bump and Run Racing | 265396 | [265396-bump-and-run-racing.json](./265396-bump-and-run-racing.json) |
