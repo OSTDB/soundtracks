@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Jornada | 299469 | [299469-a-jornada.json](./299469-a-jornada.json) |
 | A Journey Through Valhalla | 165677 | [165677-a-journey-through-valhalla.json](./165677-a-journey-through-valhalla.json) |
 | A Juggler's Tale: Collector's Edition | 186874 | [186874-a-jugglers-tale-collectors-edition.json](./186874-a-jugglers-tale-collectors-edition.json) |
+| A Kappa's Trail | 66681 | [66681-a-kappas-trail.json](./66681-a-kappas-trail.json) |
 | A Kishoutenketsu in the Countryside | 134688 | [134688-a-kishoutenketsu-in-the-countryside.json](./134688-a-kishoutenketsu-in-the-countryside.json) |
 | A Land Goo's Crazy | 238733 | [238733-a-land-goos-crazy.json](./238733-a-land-goos-crazy.json) |
 | A Landlord's Dream | 138215 | [138215-a-landlords-dream.json](./138215-a-landlords-dream.json) |
@@ -584,7 +585,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Traffic Controller Airport Hero 3D New Chitose with JAL | 222522 | [222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json](./222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json) |
 | Air Traffic Disruptor | 51990 | [51990-air-traffic-disruptor.json](./51990-air-traffic-disruptor.json) |
 | AiRace Speed | 8629 | [8629-airace-speed.json](./8629-airace-speed.json) |
+| AiRace: Tunnel | 67055 | [67055-airace-tunnel.json](./67055-airace-tunnel.json) |
 | Airborne! | 95457 | [95457-airborne.json](./95457-airborne.json) |
+| Aircoaster | 66731 | [66731-aircoaster.json](./66731-aircoaster.json) |
 | Aircraft War: Extra Level Pack 2 | 263196 | [263196-aircraft-war-extra-level-pack-2.json](./263196-aircraft-war-extra-level-pack-2.json) |
 | AirFighter | 193485 | [193485-airfighter.json](./193485-airfighter.json) |
 | Airforce Delta | 47285 | [47285-airforce-delta.json](./47285-airforce-delta.json) |
@@ -1695,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Flashback 8 Deluxe | 277050 | [277050-atari-flashback-8-deluxe.json](./277050-atari-flashback-8-deluxe.json) |
 | Atari Flashback 8 Gold | 277051 | [277051-atari-flashback-8-gold.json](./277051-atari-flashback-8-gold.json) |
 | Atari Flashback Portable | 245573 | [245573-atari-flashback-portable.json](./245573-atari-flashback-portable.json) |
+| Atari Greatest Hits: Volume 2 | 61729 | [61729-atari-greatest-hits-volume-2.json](./61729-atari-greatest-hits-volume-2.json) |
 | Atari Hits 2006 | 70971 | [70971-atari-hits-2006.json](./70971-atari-hits-2006.json) |
 | Atari Karts | 40802 | [40802-atari-karts.json](./40802-atari-karts.json) |
 | Atari Video Cube | 12243 | [12243-atari-video-cube.json](./12243-atari-video-cube.json) |
