@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ni Hao, Kai-lan: Beach Day | 109052 | [109052-ni-hao-kai-lan-beach-day.json](./109052-ni-hao-kai-lan-beach-day.json) |
 | Ni Hao, Kai-Lan: New Year's Celebration | 97371 | [97371-ni-hao-kai-lan-new-years-celebration.json](./97371-ni-hao-kai-lan-new-years-celebration.json) |
 | Niaki | 262065 | [262065-niaki.json](./262065-niaki.json) |
+| Nibble Quest | 410235 | [410235-nibble-quest.json](./410235-nibble-quest.json) |
 | Nice Shot Golf | 123629 | [123629-nice-shot-golf.json](./123629-nice-shot-golf.json) |
 | Nice Try! | 129229 | [129229-nice-try.json](./129229-nice-try.json) |
 | Nick | 29921 | [29921-nick.json](./29921-nick.json) |
