@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Doll Toy: Tamashii o Kudasai | 209622 | [209622-girl-doll-toy-tamashii-o-kudasai.json](./209622-girl-doll-toy-tamashii-o-kudasai.json) |
 | Girl in the B.L | 303787 | [303787-girl-in-the-b-l.json](./303787-girl-in-the-b-l.json) |
 | Girl Nail Art | 87708 | [87708-girl-nail-art.json](./87708-girl-nail-art.json) |
+| Girl Terminal | 410241 | [410241-girl-terminal.json](./410241-girl-terminal.json) |
 | Girl Who Cried Wolf | 298891 | [298891-girl-who-cried-wolf.json](./298891-girl-who-cried-wolf.json) |
 | Girl with a Big Sword | 110174 | [110174-girl-with-a-big-sword.json](./110174-girl-with-a-big-sword.json) |
 | Girl!Panic!!! | 415108 | [415108-girl-panic.json](./415108-girl-panic.json) |
@@ -441,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls VR | 109708 | [109708-girls-vr.json](./109708-girls-vr.json) |
 | Girls X Battle: GXB Global | 104098 | [104098-girls-x-battle-gxb-global.json](./104098-girls-x-battle-gxb-global.json) |
 | Girls! Girls! Girls!? | 219796 | [219796-girls-girls-girls.json](./219796-girls-girls-girls.json) |
+| Girls' Film Club! | 410245 | [410245-girls-film-club.json](./410245-girls-film-club.json) |
 | GiseiHero | 149096 | [149096-giseihero.json](./149096-giseihero.json) |
 | Give My Regards to Broad Street | 66710 | [66710-give-my-regards-to-broad-street.json](./66710-give-my-regards-to-broad-street.json) |
 | Givling | 18319 | [18319-givling.json](./18319-givling.json) |
@@ -653,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf: The Ultimate Collection | 314665 | [314665-golf-the-ultimate-collection.json](./314665-golf-the-ultimate-collection.json) |
 | Golfing Over It with Alva Majo | 93727 | [93727-golfing-over-it-with-alva-majo.json](./93727-golfing-over-it-with-alva-majo.json) |
 | Golfinite | 219801 | [219801-golfinite.json](./219801-golfinite.json) |
+| Goliath | 410260 | [410260-goliath.json](./410260-goliath.json) |
 | Goliath: Playing With Reality | 219802 | [219802-goliath-playing-with-reality.json](./219802-goliath-playing-with-reality.json) |
 | Golly! Ghosts! Goal! | 242776 | [242776-golly-ghosts-goal.json](./242776-golly-ghosts-goal.json) |
 | Goman: Stuck in the Avici Hell | 214184 | [214184-goman-stuck-in-the-avici-hell.json](./214184-goman-stuck-in-the-avici-hell.json) |
