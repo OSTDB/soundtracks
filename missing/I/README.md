@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspector Gadget: Mad Time Party | 247190 | [247190-inspector-gadget-mad-time-party.json](./247190-inspector-gadget-mad-time-party.json) |
 | Inspector Waffles: Purrluxe Edition | 154522 | [154522-inspector-waffles-purrluxe-edition.json](./154522-inspector-waffles-purrluxe-edition.json) |
 | InSpheration | 53234 | [53234-inspheration.json](./53234-inspheration.json) |
+| Inspiral: Echoes of Gravity | 372462 | [372462-inspiral-echoes-of-gravity.json](./372462-inspiral-echoes-of-gravity.json) |
 | Inspire | 298302 | [298302-inspire.json](./298302-inspire.json) |
 | Instant Sports Summer + Winter | 269299 | [269299-instant-sports-summer-winter.json](./269299-instant-sports-summer-winter.json) |
 | Instarion | 260972 | [260972-instarion.json](./260972-instarion.json) |
@@ -562,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interpoint | 115674 | [115674-interpoint.json](./115674-interpoint.json) |
 | InterSpace | 258209 | [258209-interspace.json](./258209-interspace.json) |
 | Interstate Cowboys | 292322 | [292322-interstate-cowboys.json](./292322-interstate-cowboys.json) |
+| Interstellar Espionage Inc. | 372453 | [372453-interstellar-espionage-inc.json](./372453-interstellar-espionage-inc.json) |
 | Interstellar Invaders | 68715 | [68715-interstellar-invaders.json](./68715-interstellar-invaders.json) |
 | Interstellar Space: Genesis | 110011 | [110011-interstellar-space-genesis.json](./110011-interstellar-space-genesis.json) |
 | Interweaver | 296682 | [296682-interweaver.json](./296682-interweaver.json) |
