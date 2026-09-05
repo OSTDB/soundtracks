@@ -901,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dead Mountaineer's Hotel | 54438 | [54438-the-dead-mountaineers-hotel.json](./54438-the-dead-mountaineers-hotel.json) |
 | The Dead We Knew: Open World Survival | 412960 | [412960-the-dead-we-knew-open-world-survival.json](./412960-the-dead-we-knew-open-world-survival.json) |
 | The Deadlands | 257689 | [257689-the-deadlands.json](./257689-the-deadlands.json) |
+| The DeadLine | 377590 | [377590-the-deadline.json](./377590-the-deadline.json) |
 | The Deadly Cursed Enjmin Steamroller in: The Bloody Killing on Wheel in the Atrium | 227468 | [227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json](./227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json) |
 | The Death of Fo-gu | 321127 | [321127-the-death-of-fo-gu.json](./321127-the-death-of-fo-gu.json) |
 | The Decline of Grandidier | 395592 | [395592-the-decline-of-grandidier.json](./395592-the-decline-of-grandidier.json) |
@@ -3269,6 +3270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trespasser 2 | 204111 | [204111-trespasser-2.json](./204111-trespasser-2.json) |
 | Tresure Hunter | 278673 | [278673-tresure-hunter.json](./278673-tresure-hunter.json) |
 | Tri Focuser: Outside the Traditional World | 246673 | [246673-tri-focuser-outside-the-traditional-world.json](./246673-tri-focuser-outside-the-traditional-world.json) |
+| Tri-Ger | 377580 | [377580-tri-ger.json](./377580-tri-ger.json) |
 | Tri: Of Friendship and Madness | 2998 | [2998-tri-of-friendship-and-madness.json](./2998-tri-of-friendship-and-madness.json) |
 | Tri.Defender | 30933 | [30933-tri-defender.json](./30933-tri-defender.json) |
 | Triad | 304367 | [304367-triad.json](./304367-triad.json) |
