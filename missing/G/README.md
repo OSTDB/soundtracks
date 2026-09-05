@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Home Safe | 229327 | [229327-get-home-safe.json](./229327-get-home-safe.json) |
 | Get in the Car, Loser!: The Fate of Another World | 226411 | [226411-get-in-the-car-loser-the-fate-of-another-world.json](./226411-get-in-the-car-loser-the-fate-of-another-world.json) |
 | Get it Hard | 215935 | [215935-get-it-hard.json](./215935-get-it-hard.json) |
+| Get Out | 395537 | [395537-get-out.json](./395537-get-out.json) |
 | Get Out Joey! | 248892 | [248892-get-out-joey.json](./248892-get-out-joey.json) |
 | Get Out of this Dungeon | 133995 | [133995-get-out-of-this-dungeon.json](./133995-get-out-of-this-dungeon.json) |
 | Get Out School | 333368 | [333368-get-out-school.json](./333368-get-out-school.json) |
