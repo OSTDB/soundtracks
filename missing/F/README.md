@@ -302,6 +302,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate of the Elder Gods | 125454 | [125454-fate-of-the-elder-gods.json](./125454-fate-of-the-elder-gods.json) |
 | Fate/Extella Link: Digital Deluxe Edition | 119067 | [119067-fate-extella-link-digital-deluxe-edition.json](./119067-fate-extella-link-digital-deluxe-edition.json) |
 | Fate/Extella: Celebration Box | 140007 | [140007-fate-extella-celebration-box.json](./140007-fate-extella-celebration-box.json) |
+| Fate/Grand Order Lostbelt No. 1: Anastasia | 414302 | [414302-fate-grand-order-lostbelt-no-1-anastasia.json](./414302-fate-grand-order-lostbelt-no-1-anastasia.json) |
+| Fate/Grand Order Lostbelt No. 3: SIN | 414304 | [414304-fate-grand-order-lostbelt-no-3-sin.json](./414304-fate-grand-order-lostbelt-no-3-sin.json) |
+| Fate/Grand Order Lostbelt No. 5: Atlantis | 414306 | [414306-fate-grand-order-lostbelt-no-5-atlantis.json](./414306-fate-grand-order-lostbelt-no-5-atlantis.json) |
+| Fate/Grand Order Lostbelt No. 5: Olympus | 414357 | [414357-fate-grand-order-lostbelt-no-5-olympus.json](./414357-fate-grand-order-lostbelt-no-5-olympus.json) |
+| Fate/Grand Order: Epic of Remnant EX - SE.RA.PH | 414365 | [414365-fate-grand-order-epic-of-remnant-ex-se-ra-ph.json](./414365-fate-grand-order-epic-of-remnant-ex-se-ra-ph.json) |
+| Fate/Grand Order: Epic of Remnant I - Shinjuku | 414364 | [414364-fate-grand-order-epic-of-remnant-i-shinjuku.json](./414364-fate-grand-order-epic-of-remnant-i-shinjuku.json) |
+| Fate/Grand Order: Epic of Remnant III - Shimousa | 414363 | [414363-fate-grand-order-epic-of-remnant-iii-shimousa.json](./414363-fate-grand-order-epic-of-remnant-iii-shimousa.json) |
+| Fate/Grand Order: Epic of Remnant IV - Salem | 414362 | [414362-fate-grand-order-epic-of-remnant-iv-salem.json](./414362-fate-grand-order-epic-of-remnant-iv-salem.json) |
+| Fate/Grand Order: Ordeal Call I - Paper Moon | 414359 | [414359-fate-grand-order-ordeal-call-i-paper-moon.json](./414359-fate-grand-order-ordeal-call-i-paper-moon.json) |
 | Fate/Stay Night | 12328 | [12328-fate-stay-night.json](./12328-fate-stay-night.json) |
 | Fate/Stay Night: First Press Limited Edition | 307303 | [307303-fate-stay-night-first-press-limited-edition.json](./307303-fate-stay-night-first-press-limited-edition.json) |
 | Fatec's Out | 132274 | [132274-fatecs-out.json](./132274-fatecs-out.json) |
