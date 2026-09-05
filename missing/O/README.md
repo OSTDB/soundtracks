@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night 2: The Beyond | 111009 | [111009-one-night-2-the-beyond.json](./111009-one-night-2-the-beyond.json) |
 | One Night as Freddy | 257673 | [257673-one-night-as-freddy.json](./257673-one-night-as-freddy.json) |
 | One Night on Halloween | 153418 | [153418-one-night-on-halloween.json](./153418-one-night-on-halloween.json) |
+| One Night You're Crazy | 61645 | [61645-one-night-youre-crazy.json](./61645-one-night-youre-crazy.json) |
 | One Night: Burlesque - Magnificent Edition | 315857 | [315857-one-night-burlesque-magnificent-edition.json](./315857-one-night-burlesque-magnificent-edition.json) |
 | One of Them | 306088 | [306088-one-of-them.json](./306088-one-of-them.json) |
 | One Piece Odyssey | 194837 | [194837-one-piece-odyssey.json](./194837-one-piece-odyssey.json) |
