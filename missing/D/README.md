@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dentures and Demons 2 | 145008 | [145008-dentures-and-demons-2.json](./145008-dentures-and-demons-2.json) |
 | Deosurge | 183080 | [183080-deosurge.json](./183080-deosurge.json) |
 | Departure!! Shipping Freighter | 299483 | [299483-departure-shipping-freighter.json](./299483-departure-shipping-freighter.json) |
+| Dependium | 411617 | [411617-dependium.json](./411617-dependium.json) |
 | Depict the City | 212462 | [212462-depict-the-city.json](./212462-depict-the-city.json) |
 | Depixtion: Halloween Edition | 336909 | [336909-depixtion-halloween-edition.json](./336909-depixtion-halloween-edition.json) |
 | Deponia: The Complete Journey | 17224 | [17224-deponia-the-complete-journey.json](./17224-deponia-the-complete-journey.json) |
@@ -666,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descend.gg | 232661 | [232661-descend-gg.json](./232661-descend-gg.json) |
 | Descending: House of Nightmares | 171614 | [171614-descending-house-of-nightmares.json](./171614-descending-house-of-nightmares.json) |
 | Descent 3 | 667 | [667-descent-3.json](./667-descent-3.json) |
+| Descent Down Infinity | 411612 | [411612-descent-down-infinity.json](./411612-descent-down-infinity.json) |
 | Descent into Hades | 272017 | [272017-descent-into-hades.json](./272017-descent-into-hades.json) |
 | Descent Vector: Space Runner | 153431 | [153431-descent-vector-space-runner.json](./153431-descent-vector-space-runner.json) |
 | Descent: Levels of the World | 68718 | [68718-descent-levels-of-the-world.json](./68718-descent-levels-of-the-world.json) |
@@ -1282,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dormant | 313496 | [313496-dormant.json](./313496-dormant.json) |
 | Dormitabis | 230514 | [230514-dormitabis.json](./230514-dormitabis.json) |
 | Dosukoi Slime | 322998 | [322998-dosukoi-slime.json](./322998-dosukoi-slime.json) |
+| Dot Clicker | 411575 | [411575-dot-clicker.json](./411575-dot-clicker.json) |
 | Dot Ninja | 179183 | [179183-dot-ninja.json](./179183-dot-ninja.json) |
 | DotAge | 111045 | [111045-dotage.json](./111045-dotage.json) |
 | Dots | 76631 | [76631-dots.json](./76631-dots.json) |
@@ -1355,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula vs. The Ninja On the Moon | 144306 | [144306-dracula-vs-the-ninja-on-the-moon.json](./144306-dracula-vs-the-ninja-on-the-moon.json) |
 | Dracula: Crazy Vampire | 49941 | [49941-dracula-crazy-vampire.json](./49941-dracula-crazy-vampire.json) |
 | Dracula: Origin 2 | 95433 | [95433-dracula-origin-2.json](./95433-dracula-origin-2.json) |
+| Dracula: Restless Legs Syndrome | 411611 | [411611-dracula-restless-legs-syndrome.json](./411611-dracula-restless-legs-syndrome.json) |
 | Dracula: Vampires vs. Zombies | 43169 | [43169-dracula-vampires-vs-zombies.json](./43169-dracula-vampires-vs-zombies.json) |
 | Draculator II: Byte of the Draculator | 168389 | [168389-draculator-ii-byte-of-the-draculator.json](./168389-draculator-ii-byte-of-the-draculator.json) |
 | Draft Day Sports: College Basketball 2018 | 89637 | [89637-draft-day-sports-college-basketball-2018.json](./89637-draft-day-sports-college-basketball-2018.json) |
@@ -1656,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck on the Run | 174349 | [174349-duck-on-the-run.json](./174349-duck-on-the-run.json) |
 | Duck Run | 87570 | [87570-duck-run.json](./87570-duck-run.json) |
 | Duckified: Cosmic Legends | 295571 | [295571-duckified-cosmic-legends.json](./295571-duckified-cosmic-legends.json) |
+| Ducks in Disguise | 411621 | [411621-ducks-in-disguise.json](./411621-ducks-in-disguise.json) |
 | Dude Cops | 107195 | [107195-dude-cops.json](./107195-dude-cops.json) |
 | Dude Simulator 3 | 144297 | [144297-dude-simulator-3.json](./144297-dude-simulator-3.json) |
 | Dudes with Attitude | 48063 | [48063-dudes-with-attitude.json](./48063-dudes-with-attitude.json) |
