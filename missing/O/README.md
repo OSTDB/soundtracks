@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orange Cast: Prologue | 151198 | [151198-orange-cast-prologue.json](./151198-orange-cast-prologue.json) |
 | Orange is True Love | 274199 | [274199-orange-is-true-love.json](./274199-orange-is-true-love.json) |
 | Orange Season | 34231 | [34231-orange-season.json](./34231-orange-season.json) |
+| Orava | 377071 | [377071-orava.json](./377071-orava.json) |
 | Orbia | 88028 | [88028-orbia.json](./88028-orbia.json) |
 | Orbifall | 379875 | [379875-orbifall.json](./379875-orbifall.json) |
 | Orbit Quest | 107201 | [107201-orbit-quest.json](./107201-orbit-quest.json) |
@@ -602,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Control | 40775 | [40775-out-of-control.json](./40775-out-of-control.json) |
 | Out of Frame | 141886 | [141886-out-of-frame.json](./141886-out-of-frame.json) |
 | Out of Order | 195783 | [195783-out-of-order.json](./195783-out-of-order.json) |
+| Out of Order Zero | 377068 | [377068-out-of-order-zero.json](./377068-out-of-order-zero.json) |
 | Out of Print | 294425 | [294425-out-of-print.json](./294425-out-of-print.json) |
 | Out of Sight | 199126 | [199126-out-of-sight.json](./199126-out-of-sight.json) |
 | Out the Window: a car trip sim | 134691 | [134691-out-the-window-a-car-trip-sim.json](./134691-out-the-window-a-car-trip-sim.json) |
