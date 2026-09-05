@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Witch Tale | 52007 | [52007-jewel-witch-tale.json](./52007-jewel-witch-tale.json) |
 | Jewels Deluxe | 108478 | [108478-jewels-deluxe.json](./108478-jewels-deluxe.json) |
 | Jewels of the Mysterious Woodland: Fairies Magical Jewel Match Quest | 171596 | [171596-jewels-of-the-mysterious-woodland-fairies-magical-jewel-match-quest.json](./171596-jewels-of-the-mysterious-woodland-fairies-magical-jewel-match-quest.json) |
+| Jezzball Classic Deluxe Edition | 371891 | [371891-jezzball-classic-deluxe-edition.json](./371891-jezzball-classic-deluxe-edition.json) |
 | JFCBP1 | 273114 | [273114-jfcbp1.json](./273114-jfcbp1.json) |
 | JFCBP2 | 273115 | [273115-jfcbp2.json](./273115-jfcbp2.json) |
 | Jiangshi x Daoshi | 135880 | [135880-jiangshi-x-daoshi.json](./135880-jiangshi-x-daoshi.json) |
