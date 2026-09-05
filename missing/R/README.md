@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remember, Remember | 36495 | [36495-remember-remember.json](./36495-remember-remember.json) |
 | Remembering Which Buttons Take However Long to Press | 57713 | [57713-remembering-which-buttons-take-however-long-to-press.json](./57713-remembering-which-buttons-take-however-long-to-press.json) |
 | Remembrance | 82917 | [82917-remembrance.json](./82917-remembrance.json) |
+| Remi | 388700 | [388700-remi.json](./388700-remi.json) |
 | Reminisce | 306685 | [306685-reminisce.json](./306685-reminisce.json) |
 | ReMix: Encore | 311815 | [311815-remix-encore.json](./311815-remix-encore.json) |
 | Remnant Protocol | 236496 | [236496-remnant-protocol.json](./236496-remnant-protocol.json) |
@@ -707,7 +708,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Returner Zhero | 107202 | [107202-returner-zhero.json](./107202-returner-zhero.json) |
 | ReturnHome | 170555 | [170555-returnhome.json](./170555-returnhome.json) |
 | Reunion | 135873 | [135873-reunion.json](./135873-reunion.json) |
+| Reunion | 388703 | [388703-reunion.json](./388703-reunion.json) |
 | Rev. Noir | 389436 | [389436-rev-noir.json](./389436-rev-noir.json) |
+| Revealed | 388705 | [388705-revealed.json](./388705-revealed.json) |
 | Revelation of Decay | 301606 | [301606-revelation-of-decay.json](./301606-revelation-of-decay.json) |
 | Revelations 2012 | 16279 | [16279-revelations-2012.json](./16279-revelations-2012.json) |
 | Revenant Hill | 250625 | [250625-revenant-hill.json](./250625-revenant-hill.json) |
@@ -971,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RobinBobin | 138220 | [138220-robinbobin.json](./138220-robinbobin.json) |
 | RobinWords | 303237 | [303237-robinwords.json](./303237-robinwords.json) |
 | Robo Boop | 89970 | [89970-robo-boop.json](./89970-robo-boop.json) |
+| Robo Rangers | 388744 | [388744-robo-rangers.json](./388744-robo-rangers.json) |
 | Robo Wars | 196316 | [196316-robo-wars.json](./196316-robo-wars.json) |
 | Robo-Worms | 157673 | [157673-robo-worms.json](./157673-robo-worms.json) |
 | RoboBall | 111681 | [111681-roboball.json](./111681-roboball.json) |
