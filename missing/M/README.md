@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana Khemia: Alchemists of Al-Revis - Premium Edition | 43308 | [43308-mana-khemia-alchemists-of-al-revis-premium-edition.json](./43308-mana-khemia-alchemists-of-al-revis-premium-edition.json) |
 | Mana Spark: Forgotten Crypts | 238187 | [238187-mana-spark-forgotten-crypts.json](./238187-mana-spark-forgotten-crypts.json) |
 | Mana's Manual | 248884 | [248884-manas-manual.json](./248884-manas-manual.json) |
+| Managate | 392150 | [392150-managate.json](./392150-managate.json) |
 | Management in Space | 400849 | [400849-management-in-space.json](./400849-management-in-space.json) |
 | Manatee | 311249 | [311249-manatee.json](./311249-manatee.json) |
 | Manchester United Club Football | 52013 | [52013-manchester-united-club-football.json](./52013-manchester-united-club-football.json) |
@@ -715,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet the Vowels | 102773 | [102773-meet-the-vowels.json](./102773-meet-the-vowels.json) |
 | Meeting Myself | 275919 | [275919-meeting-myself.json](./275919-meeting-myself.json) |
 | Mega Bundle: Cats | 208046 | [208046-mega-bundle-cats.json](./208046-mega-bundle-cats.json) |
+| Mega Carrier Simulator | 392170 | [392170-mega-carrier-simulator.json](./392170-mega-carrier-simulator.json) |
 | Mega Collection: 8 Amazing Games - Volume 2 | 409542 | [409542-mega-collection-8-amazing-games-volume-2.json](./409542-mega-collection-8-amazing-games-volume-2.json) |
 | Mega Drive Mini | 215392 | [215392-mega-drive-mini.json](./215392-mega-drive-mini.json) |
 | Mega Force | 22433 | [22433-mega-force.json](./22433-mega-force.json) |
@@ -834,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Data Memory | 331131 | [331131-memory-data-memory.json](./331131-memory-data-memory.json) |
 | Memory Eater | 123595 | [123595-memory-eater.json](./123595-memory-eater.json) |
 | Memory Grove | 189195 | [189195-memory-grove.json](./189195-memory-grove.json) |
+| Memory Holders: The Colors II | 392171 | [392171-memory-holders-the-colors-ii.json](./392171-memory-holders-the-colors-ii.json) |
 | Memory Illusions | 157199 | [157199-memory-illusions.json](./157199-memory-illusions.json) |
 | Memory Match Saga: Expansion Pack 1 | 167320 | [167320-memory-match-saga-expansion-pack-1.json](./167320-memory-match-saga-expansion-pack-1.json) |
 | Memory Match Saga: Expansion Pack 10 | 167329 | [167329-memory-match-saga-expansion-pack-10.json](./167329-memory-match-saga-expansion-pack-10.json) |
@@ -1081,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Horror School | 292834 | [292834-midnight-horror-school.json](./292834-midnight-horror-school.json) |
 | Midnight Idle | 409565 | [409565-midnight-idle.json](./409565-midnight-idle.json) |
 | Midnight is Lost | 156689 | [156689-midnight-is-lost.json](./156689-midnight-is-lost.json) |
+| Midnight Looters | 392121 | [392121-midnight-looters.json](./392121-midnight-looters.json) |
 | Midnight Memories: Sonata of the Soul | 311278 | [311278-midnight-memories-sonata-of-the-soul.json](./311278-midnight-memories-sonata-of-the-soul.json) |
 | Midnight Scenes Ep.2: The Goodbye Note - Special Edition | 176481 | [176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json](./176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json) |
 | Midnight Stranger | 143102 | [143102-midnight-stranger.json](./143102-midnight-stranger.json) |
@@ -1272,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna de Nanpure | 55939 | [55939-minna-de-nanpure.json](./55939-minna-de-nanpure.json) |
 | Minna no Doubutsuen | 69270 | [69270-minna-no-doubutsuen.json](./69270-minna-no-doubutsuen.json) |
 | Minos Starfighter VR | 104639 | [104639-minos-starfighter-vr.json](./104639-minos-starfighter-vr.json) |
+| Minos Trials | 392173 | [392173-minos-trials.json](./392173-minos-trials.json) |
 | Minotaur Rescue | 94757 | [94757-minotaur-rescue.json](./94757-minotaur-rescue.json) |
 | MinQ | 322348 | [322348-minq.json](./322348-minq.json) |
 | Minubeat | 199083 | [199083-minubeat.json](./199083-minubeat.json) |
