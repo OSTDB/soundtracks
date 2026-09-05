@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qianli: The Vastscape Scroll | 399598 | [399598-qianli-the-vastscape-scroll.json](./399598-qianli-the-vastscape-scroll.json) |
 | Qǐluó Sìshí Tán | 130935 | [130935-qiluo-sishi-tan.json](./130935-qiluo-sishi-tan.json) |
 | Qisah Tomang: Cycle Ends | 235989 | [235989-qisah-tomang-cycle-ends.json](./235989-qisah-tomang-cycle-ends.json) |
+| QiuQiu Town | 374612 | [374612-qiuqiu-town.json](./374612-qiuqiu-town.json) |
 | Qlanet | 206376 | [206376-qlanet.json](./206376-qlanet.json) |
 | Qliphah in Providence's Shadow | 408068 | [408068-qliphah-in-providences-shadow.json](./408068-qliphah-in-providences-shadow.json) |
 | Qomp | 142475 | [142475-qomp.json](./142475-qomp.json) |
