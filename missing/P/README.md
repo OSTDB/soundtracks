@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pam's HarvestCraft | 232682 | [232682-pams-harvestcraft.json](./232682-pams-harvestcraft.json) |
 | Pamali: Indonesian Folklore Horror - The Tied Corpse | 117737 | [117737-pamali-indonesian-folklore-horror-the-tied-corpse.json](./117737-pamali-indonesian-folklore-horror-the-tied-corpse.json) |
 | Pamali: The Vengeful Mother | 274761 | [274761-pamali-the-vengeful-mother.json](./274761-pamali-the-vengeful-mother.json) |
+| PamPam Kana Students | 390547 | [390547-pampam-kana-students.json](./390547-pampam-kana-students.json) |
 | Pan'orama | 211935 | [211935-panorama.json](./211935-panorama.json) |
 | Panama Canal | 156143 | [156143-panama-canal.json](./156143-panama-canal.json) |
 | Pancho's Mission | 278140 | [278140-panchos-mission.json](./278140-panchos-mission.json) |
@@ -262,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parsec Lost in Space | 255972 | [255972-parsec-lost-in-space.json](./255972-parsec-lost-in-space.json) |
 | Particle Fleet: Emergence | 24821 | [24821-particle-fleet-emergence.json](./24821-particle-fleet-emergence.json) |
 | Particles | 262696 | [262696-particles.json](./262696-particles.json) |
+| Particulitix | 390515 | [390515-particulitix.json](./390515-particulitix.json) |
 | Partition Sector | 144383 | [144383-partition-sector.json](./144383-partition-sector.json) |
 | Partivity! | 115655 | [115655-partivity.json](./115655-partivity.json) |
 | Partner In TV!!! O-Uchi ni Wan-chan ga Yattekita | 327623 | [327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json](./327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json) |
@@ -368,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC_001 | 170535 | [170535-pc-001.json](./170535-pc-001.json) |
 | Peace Maker VR | 200717 | [200717-peace-maker-vr.json](./200717-peace-maker-vr.json) |
 | Peace of Evil | 118395 | [118395-peace-of-evil.json](./118395-peace-of-evil.json) |
+| Peaceful Fishing Story | 390502 | [390502-peaceful-fishing-story.json](./390502-peaceful-fishing-story.json) |
 | Peachleaf Valley: Seeds of Love | 152935 | [152935-peachleaf-valley-seeds-of-love.json](./152935-peachleaf-valley-seeds-of-love.json) |
 | Peachy Adventure | 173818 | [173818-peachy-adventure.json](./173818-peachy-adventure.json) |
 | Peachy Boy | 231053 | [231053-peachy-boy.json](./231053-peachy-boy.json) |
@@ -634,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picokaiju | 202393 | [202393-picokaiju.json](./202393-picokaiju.json) |
 | PicoMix By NuSan | 328259 | [328259-picomix-by-nusan.json](./328259-picomix-by-nusan.json) |
 | Picowars | 184630 | [184630-picowars.json](./184630-picowars.json) |
+| Picronix 2 | 390503 | [390503-picronix-2.json](./390503-picronix-2.json) |
 | Picross e3 | 62913 | [62913-picross-e3.json](./62913-picross-e3.json) |
 | Picross Fairytale | 102879 | [102879-picross-fairytale.json](./102879-picross-fairytale.json) |
 | Picross S Konami Antiques Edition | 395594 | [395594-picross-s-konami-antiques-edition.json](./395594-picross-s-konami-antiques-edition.json) |
