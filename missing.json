@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T17:48:21.072Z",
-  "total_missing": 33429,
+  "generated_at": "2026-09-05T18:03:05.317Z",
+  "total_missing": 33479,
   "games": [
     {
       "igdb_id": 306086,
@@ -6701,6 +6701,11 @@
       "igdb_id": 206335,
       "game_name": "Amaemi: Longing for you",
       "file": "missing/A/206335-amaemi-longing-for-you.json"
+    },
+    {
+      "igdb_id": 381003,
+      "game_name": "Amairo Chocolate 3",
+      "file": "missing/A/381003-amairo-chocolate-3.json"
     },
     {
       "igdb_id": 121724,
@@ -16958,6 +16963,11 @@
       "file": "missing/B/37150-bird-fall.json"
     },
     {
+      "igdb_id": 381008,
+      "game_name": "Bird Game III",
+      "file": "missing/B/381008-bird-game-iii.json"
+    },
+    {
       "igdb_id": 65254,
       "game_name": "Bird Mania 3D",
       "file": "missing/B/65254-bird-mania-3d.json"
@@ -19136,6 +19146,11 @@
       "igdb_id": 94224,
       "game_name": "Bolo Ball",
       "file": "missing/B/94224-bolo-ball.json"
+    },
+    {
+      "igdb_id": 380996,
+      "game_name": "Bolt Action",
+      "file": "missing/B/380996-bolt-action.json"
     },
     {
       "igdb_id": 248900,
@@ -39268,6 +39283,11 @@
       "file": "missing/D/225291-dont-touch-the-spikes.json"
     },
     {
+      "igdb_id": 381009,
+      "game_name": "Don't wake up",
+      "file": "missing/D/381009-dont-wake-up.json"
+    },
+    {
       "igdb_id": 181932,
       "game_name": "Don't! Heroes",
       "file": "missing/D/181932-dont-heroes.json"
@@ -47293,6 +47313,11 @@
       "file": "missing/F/215887-falinere-fantasy.json"
     },
     {
+      "igdb_id": 381010,
+      "game_name": "Fall Asleep",
+      "file": "missing/F/381010-fall-asleep.json"
+    },
+    {
       "igdb_id": 141852,
       "game_name": "Fall Ball Fall",
       "file": "missing/F/141852-fall-ball-fall.json"
@@ -48088,6 +48113,11 @@
       "file": "missing/F/247216-farm-jam-animal-parking-game.json"
     },
     {
+      "igdb_id": 381011,
+      "game_name": "Farm Life",
+      "file": "missing/F/381011-farm-life.json"
+    },
+    {
       "igdb_id": 139459,
       "game_name": "Farm Manager 2021",
       "file": "missing/F/139459-farm-manager-2021.json"
@@ -48101,6 +48131,11 @@
       "igdb_id": 193460,
       "game_name": "Farm Manager 2022",
       "file": "missing/F/193460-farm-manager-2022.json"
+    },
+    {
+      "igdb_id": 381014,
+      "game_name": "Farm Racing",
+      "file": "missing/F/381014-farm-racing.json"
     },
     {
       "igdb_id": 241628,
@@ -48341,6 +48376,11 @@
       "igdb_id": 39671,
       "game_name": "Faster Harder More Challenging Q*bert",
       "file": "missing/F/39671-faster-harder-more-challenging-q-bert.json"
+    },
+    {
+      "igdb_id": 381013,
+      "game_name": "Fastidious",
+      "file": "missing/F/381013-fastidious.json"
     },
     {
       "igdb_id": 302123,
@@ -48713,6 +48753,11 @@
       "file": "missing/F/278719-feed-it-souls.json"
     },
     {
+      "igdb_id": 381015,
+      "game_name": "Feed Me",
+      "file": "missing/F/381015-feed-me.json"
+    },
+    {
       "igdb_id": 410907,
       "game_name": "Feed Me More Brains",
       "file": "missing/F/410907-feed-me-more-brains.json"
@@ -48746,6 +48791,11 @@
       "igdb_id": 334473,
       "game_name": "Feed your cat",
       "file": "missing/F/334473-feed-your-cat.json"
+    },
+    {
+      "igdb_id": 381012,
+      "game_name": "FeedBack",
+      "file": "missing/F/381012-feedback.json"
     },
     {
       "igdb_id": 8321,
@@ -48921,6 +48971,11 @@
       "igdb_id": 5343,
       "game_name": "Fester's Quest",
       "file": "missing/F/5343-festers-quest.json"
+    },
+    {
+      "igdb_id": 381016,
+      "game_name": "Fetch",
+      "file": "missing/F/381016-fetch.json"
     },
     {
       "igdb_id": 298320,
@@ -49898,6 +49953,11 @@
       "file": "missing/F/277588-fire-fly.json"
     },
     {
+      "igdb_id": 381019,
+      "game_name": "Fire in the Hole",
+      "file": "missing/F/381019-fire-in-the-hole.json"
+    },
+    {
       "igdb_id": 165694,
       "game_name": "Fire Sale",
       "file": "missing/F/165694-fire-sale.json"
@@ -49921,6 +49981,11 @@
       "igdb_id": 110519,
       "game_name": "Firebase Defence",
       "file": "missing/F/110519-firebase-defence.json"
+    },
+    {
+      "igdb_id": 381017,
+      "game_name": "Firebird: Tale of the Stolen Light",
+      "file": "missing/F/381017-firebird-tale-of-the-stolen-light.json"
     },
     {
       "igdb_id": 88769,
@@ -49956,6 +50021,11 @@
       "igdb_id": 55209,
       "game_name": "Firefly",
       "file": "missing/F/55209-firefly.json"
+    },
+    {
+      "igdb_id": 381018,
+      "game_name": "FireFly",
+      "file": "missing/F/381018-firefly.json"
     },
     {
       "igdb_id": 35908,
@@ -50168,6 +50238,11 @@
       "file": "missing/F/134685-fish-fly-fever.json"
     },
     {
+      "igdb_id": 381020,
+      "game_name": "Fish Game",
+      "file": "missing/F/381020-fish-game.json"
+    },
+    {
       "igdb_id": 184088,
       "game_name": "Fish Kiss",
       "file": "missing/F/184088-fish-kiss.json"
@@ -50326,6 +50401,11 @@
       "igdb_id": 383960,
       "game_name": "Fishy Dish",
       "file": "missing/F/383960-fishy-dish.json"
+    },
+    {
+      "igdb_id": 381021,
+      "game_name": "Fission",
+      "file": "missing/F/381021-fission.json"
     },
     {
       "igdb_id": 17501,
@@ -50658,6 +50738,11 @@
       "file": "missing/F/226423-flappy-wings.json"
     },
     {
+      "igdb_id": 381022,
+      "game_name": "Flappy Wings",
+      "file": "missing/F/381022-flappy-wings.json"
+    },
+    {
       "igdb_id": 210244,
       "game_name": "Flare Nuinui Quest",
       "file": "missing/F/210244-flare-nuinui-quest.json"
@@ -50676,6 +50761,11 @@
       "igdb_id": 49378,
       "game_name": "Flashback Legend",
       "file": "missing/F/49378-flashback-legend.json"
+    },
+    {
+      "igdb_id": 381023,
+      "game_name": "Flashbound",
+      "file": "missing/F/381023-flashbound.json"
     },
     {
       "igdb_id": 25734,
@@ -50803,6 +50893,11 @@
       "file": "missing/F/117727-flick-shoot.json"
     },
     {
+      "igdb_id": 381024,
+      "game_name": "Flicker",
+      "file": "missing/F/381024-flicker.json"
+    },
+    {
       "igdb_id": 383393,
       "game_name": "Flickle",
       "file": "missing/F/383393-flickle.json"
@@ -50886,6 +50981,11 @@
       "igdb_id": 196839,
       "game_name": "Flintstones' Bedrock Boblseddin' Blowout",
       "file": "missing/F/196839-flintstones-bedrock-boblseddin-blowout.json"
+    },
+    {
+      "igdb_id": 381025,
+      "game_name": "Flip",
+      "file": "missing/F/381025-flip.json"
     },
     {
       "igdb_id": 185119,
@@ -51228,6 +51328,11 @@
       "file": "missing/F/219791-fluffy-smash.json"
     },
     {
+      "igdb_id": 381026,
+      "game_name": "Fluffy's Adventure",
+      "file": "missing/F/381026-fluffys-adventure.json"
+    },
+    {
       "igdb_id": 94223,
       "game_name": "Fluid",
       "file": "missing/F/94223-fluid.json"
@@ -51286,6 +51391,11 @@
       "igdb_id": 230512,
       "game_name": "Fly Guy",
       "file": "missing/F/230512-fly-guy.json"
+    },
+    {
+      "igdb_id": 381027,
+      "game_name": "Fly Hard",
+      "file": "missing/F/381027-fly-hard.json"
     },
     {
       "igdb_id": 391575,
@@ -51473,6 +51583,11 @@
       "file": "missing/F/223677-foc-us.json"
     },
     {
+      "igdb_id": 381028,
+      "game_name": "Focus",
+      "file": "missing/F/381028-focus.json"
+    },
+    {
       "igdb_id": 187499,
       "game_name": "Focus indies Bundle: Curse of the Dead Gods + Shady Part of Me + Aeon Must Die!",
       "file": "missing/F/187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json"
@@ -51571,6 +51686,11 @@
       "igdb_id": 291221,
       "game_name": "Fool's Frontier",
       "file": "missing/F/291221-fools-frontier.json"
+    },
+    {
+      "igdb_id": 381029,
+      "game_name": "Fool's Gold",
+      "file": "missing/F/381029-fools-gold.json"
     },
     {
       "igdb_id": 325264,
@@ -51753,6 +51873,11 @@
       "file": "missing/F/404206-forbidden-compass.json"
     },
     {
+      "igdb_id": 381031,
+      "game_name": "Forbidden Island",
+      "file": "missing/F/381031-forbidden-island.json"
+    },
+    {
       "igdb_id": 81414,
       "game_name": "Forbidden Planet",
       "file": "missing/F/81414-forbidden-planet.json"
@@ -51888,6 +52013,11 @@
       "file": "missing/F/326427-forest-simulator-2025.json"
     },
     {
+      "igdb_id": 381032,
+      "game_name": "Forest Survival",
+      "file": "missing/F/381032-forest-survival.json"
+    },
+    {
       "igdb_id": 383948,
       "game_name": "Forest Whiskers",
       "file": "missing/F/383948-forest-whiskers.json"
@@ -51911,6 +52041,11 @@
       "igdb_id": 119011,
       "game_name": "Forever War",
       "file": "missing/F/119011-forever-war.json"
+    },
+    {
+      "igdb_id": 381033,
+      "game_name": "Forever With You",
+      "file": "missing/F/381033-forever-with-you.json"
     },
     {
       "igdb_id": 142484,
@@ -51966,6 +52101,11 @@
       "igdb_id": 26702,
       "game_name": "Forgotten",
       "file": "missing/F/26702-forgotten.json"
+    },
+    {
+      "igdb_id": 381034,
+      "game_name": "Forgotten Depths",
+      "file": "missing/F/381034-forgotten-depths.json"
     },
     {
       "igdb_id": 340233,
@@ -52558,6 +52698,11 @@
       "file": "missing/F/126025-fr-legends.json"
     },
     {
+      "igdb_id": 381036,
+      "game_name": "Fractal",
+      "file": "missing/F/381036-fractal.json"
+    },
+    {
       "igdb_id": 121775,
       "game_name": "Fractalis",
       "file": "missing/F/121775-fractalis.json"
@@ -52591,6 +52736,11 @@
       "igdb_id": 169477,
       "game_name": "Fragmented Mind",
       "file": "missing/F/169477-fragmented-mind.json"
+    },
+    {
+      "igdb_id": 381037,
+      "game_name": "Fragments",
+      "file": "missing/F/381037-fragments.json"
     },
     {
       "igdb_id": 406703,
@@ -52716,6 +52866,11 @@
       "igdb_id": 305518,
       "game_name": "Fray",
       "file": "missing/F/305518-fray.json"
+    },
+    {
+      "igdb_id": 381038,
+      "game_name": "Fray",
+      "file": "missing/F/381038-fray.json"
     },
     {
       "igdb_id": 16364,
@@ -53448,6 +53603,11 @@
       "file": "missing/F/64440-frost-wars-the-rise-of-fatty-sparkles.json"
     },
     {
+      "igdb_id": 381039,
+      "game_name": "FrostBite",
+      "file": "missing/F/381039-frostbite.json"
+    },
+    {
       "igdb_id": 105360,
       "game_name": "Frostbite: Deadly Climate",
       "file": "missing/F/105360-frostbite-deadly-climate.json"
@@ -53456,6 +53616,11 @@
       "igdb_id": 199101,
       "game_name": "Frostbitten",
       "file": "missing/F/199101-frostbitten.json"
+    },
+    {
+      "igdb_id": 381040,
+      "game_name": "Frostborn",
+      "file": "missing/F/381040-frostborn.json"
     },
     {
       "igdb_id": 141199,
@@ -54033,6 +54198,11 @@
       "file": "missing/F/234910-furyfury.json"
     },
     {
+      "igdb_id": 381030,
+      "game_name": "Fuse",
+      "file": "missing/F/381030-fuse.json"
+    },
+    {
       "igdb_id": 59442,
       "game_name": "Fushigi Deka",
       "file": "missing/F/59442-fushigi-deka.json"
@@ -54528,6 +54698,11 @@
       "file": "missing/G/240484-galactic-empire.json"
     },
     {
+      "igdb_id": 381041,
+      "game_name": "Galactic Express",
+      "file": "missing/G/381041-galactic-express.json"
+    },
+    {
       "igdb_id": 336906,
       "game_name": "Galactic Field",
       "file": "missing/G/336906-galactic-field.json"
@@ -54613,6 +54788,11 @@
       "file": "missing/G/232681-galacticraft.json"
     },
     {
+      "igdb_id": 381042,
+      "game_name": "Galactix",
+      "file": "missing/G/381042-galactix.json"
+    },
+    {
       "igdb_id": 109047,
       "game_name": "Galactose: Pastries in Space",
       "file": "missing/G/109047-galactose-pastries-in-space.json"
@@ -54676,6 +54856,11 @@
       "igdb_id": 304895,
       "game_name": "GalaxIverse II",
       "file": "missing/G/304895-galaxiverse-ii.json"
+    },
+    {
+      "igdb_id": 381043,
+      "game_name": "Galaxy",
+      "file": "missing/G/381043-galaxy.json"
     },
     {
       "igdb_id": 70414,
@@ -54951,6 +55136,11 @@
       "igdb_id": 328212,
       "game_name": "Game Room",
       "file": "missing/G/328212-game-room.json"
+    },
+    {
+      "igdb_id": 381044,
+      "game_name": "Game Shop Simulator",
+      "file": "missing/G/381044-game-shop-simulator.json"
     },
     {
       "igdb_id": 143097,
@@ -55373,6 +55563,11 @@
       "file": "missing/G/341327-gauley.json"
     },
     {
+      "igdb_id": 381045,
+      "game_name": "Gauntlet",
+      "file": "missing/G/381045-gauntlet.json"
+    },
+    {
       "igdb_id": 3503,
       "game_name": "Gauntlet II",
       "file": "missing/G/3503-gauntlet-ii.json"
@@ -55681,6 +55876,16 @@
       "igdb_id": 264894,
       "game_name": "Generic Brazilian Favela Game with Generic Enemies 2003",
       "file": "missing/G/264894-generic-brazilian-favela-game-with-generic-enemies-2003.json"
+    },
+    {
+      "igdb_id": 381046,
+      "game_name": "Genesis",
+      "file": "missing/G/381046-genesis.json"
+    },
+    {
+      "igdb_id": 381047,
+      "game_name": "Genesis",
+      "file": "missing/G/381047-genesis.json"
     },
     {
       "igdb_id": 154543,
@@ -56086,6 +56291,11 @@
       "igdb_id": 3504,
       "game_name": "Getter Love!!: Chou Renai Party Game Tanjou",
       "file": "missing/G/3504-getter-love-chou-renai-party-game-tanjou.json"
+    },
+    {
+      "igdb_id": 381035,
+      "game_name": "Getting Over It with Your Body",
+      "file": "missing/G/381035-getting-over-it-with-your-body.json"
     },
     {
       "igdb_id": 3505,
@@ -62811,6 +63021,11 @@
       "igdb_id": 296686,
       "game_name": "Hentai Elf",
       "file": "missing/H/296686-hentai-elf.json"
+    },
+    {
+      "igdb_id": 381004,
+      "game_name": "Hentai Gallery: Lovely Angels",
+      "file": "missing/H/381004-hentai-gallery-lovely-angels.json"
     },
     {
       "igdb_id": 311810,
@@ -80726,6 +80941,11 @@
       "igdb_id": 87295,
       "game_name": "Lucky Pyramid Solitaire",
       "file": "missing/L/87295-lucky-pyramid-solitaire.json"
+    },
+    {
+      "igdb_id": 380997,
+      "game_name": "Lucky Rabbit Club",
+      "file": "missing/L/380997-lucky-rabbit-club.json"
     },
     {
       "igdb_id": 402293,
@@ -110688,6 +110908,11 @@
       "file": "missing/R/115013-r-i-c-a.json"
     },
     {
+      "igdb_id": 381005,
+      "game_name": "R.I.P.",
+      "file": "missing/R/381005-r-i-p.json"
+    },
+    {
       "igdb_id": 55184,
       "game_name": "R.I.S.K.",
       "file": "missing/R/55184-r-i-s-k.json"
@@ -112656,6 +112881,11 @@
       "igdb_id": 187537,
       "game_name": "Red Bash",
       "file": "missing/R/187537-red-bash.json"
+    },
+    {
+      "igdb_id": 380998,
+      "game_name": "Red Bow: Strange Dream",
+      "file": "missing/R/380998-red-bow-strange-dream.json"
     },
     {
       "igdb_id": 100165,
@@ -139573,6 +139803,11 @@
       "file": "missing/T/253574-terminate-study-x.json"
     },
     {
+      "igdb_id": 380994,
+      "game_name": "Terminator: Dark Fate - Defiance: Evolution",
+      "file": "missing/T/380994-terminator-dark-fate-defiance-evolution.json"
+    },
+    {
       "igdb_id": 185151,
       "game_name": "Terminull",
       "file": "missing/T/185151-terminull.json"
@@ -141496,6 +141731,11 @@
       "igdb_id": 140576,
       "game_name": "The Dark",
       "file": "missing/T/140576-the-dark.json"
+    },
+    {
+      "igdb_id": 381002,
+      "game_name": "The Dark Curiosity",
+      "file": "missing/T/381002-the-dark-curiosity.json"
     },
     {
       "igdb_id": 199092,
@@ -158908,6 +159148,11 @@
       "file": "missing/V/173295-void-of-space.json"
     },
     {
+      "igdb_id": 381001,
+      "game_name": "Void Scavengers",
+      "file": "missing/V/381001-void-scavengers.json"
+    },
+    {
       "igdb_id": 223109,
       "game_name": "Void Sols",
       "file": "missing/V/223109-void-sols.json"
@@ -163866,6 +164111,11 @@
       "igdb_id": 101609,
       "game_name": "WorldQuest",
       "file": "missing/W/101609-worldquest.json"
+    },
+    {
+      "igdb_id": 381007,
+      "game_name": "Worlds",
+      "file": "missing/W/381007-worlds.json"
     },
     {
       "igdb_id": 117095,
