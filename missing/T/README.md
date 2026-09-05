@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Radiation | 66156 | [66156-tap-tap-radiation.json](./66156-tap-tap-radiation.json) |
 | Tap the Blocks | 214195 | [214195-tap-the-blocks.json](./214195-tap-the-blocks.json) |
 | Tap Titans | 91424 | [91424-tap-titans.json](./91424-tap-titans.json) |
+| TapColors | 89712 | [89712-tapcolors.json](./89712-tapcolors.json) |
 | Tape To Tape | 190280 | [190280-tape-to-tape.json](./190280-tape-to-tape.json) |
 | Tapgym | 261515 | [261515-tapgym.json](./261515-tapgym.json) |
 | Tapioka Panic | 259829 | [259829-tapioka-panic.json](./259829-tapioka-panic.json) |
@@ -1126,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island | 274188 | [274188-the-island.json](./274188-the-island.json) |
 | The Island - Ethereal | 58833 | [58833-the-island-ethereal.json](./58833-the-island-ethereal.json) |
 | The Island 2 | 274189 | [274189-the-island-2.json](./274189-the-island-2.json) |
+| The Island Castaway 2 | 89547 | [89547-the-island-castaway-2.json](./89547-the-island-castaway-2.json) |
 | The Island Rescue | 236005 | [236005-the-island-rescue.json](./236005-the-island-rescue.json) |
 | The Isle | 25838 | [25838-the-isle.json](./25838-the-isle.json) |
 | The Isle Survival | 261507 | [261507-the-isle-survival.json](./261507-the-isle-survival.json) |
@@ -1417,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery Files of Detective Inaba No. 1 | 131575 | [131575-the-mystery-files-of-detective-inaba-no-1.json](./131575-the-mystery-files-of-detective-inaba-no-1.json) |
 | The Mystery Files of Detective Inaba No. 2 | 131576 | [131576-the-mystery-files-of-detective-inaba-no-2.json](./131576-the-mystery-files-of-detective-inaba-no-2.json) |
 | The Mystery Files of Detective Inaba No. 3 | 131577 | [131577-the-mystery-files-of-detective-inaba-no-3.json](./131577-the-mystery-files-of-detective-inaba-no-3.json) |
+| The Mystery of Haunted Hollow | 89746 | [89746-the-mystery-of-haunted-hollow.json](./89746-the-mystery-of-haunted-hollow.json) |
 | The Mystery of the Art School | 321162 | [321162-the-mystery-of-the-art-school.json](./321162-the-mystery-of-the-art-school.json) |
 | The Mystery of the Crystal Portal: Beyond the Horizon | 140614 | [140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json](./140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json) |
 | The Mystery of the Village's Sacred Tree | 273662 | [273662-the-mystery-of-the-villages-sacred-tree.json](./273662-the-mystery-of-the-villages-sacred-tree.json) |
@@ -1487,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perfect Garden | 211923 | [211923-the-perfect-garden.json](./211923-the-perfect-garden.json) |
 | The Perfect Shape | 158713 | [158713-the-perfect-shape.json](./158713-the-perfect-shape.json) |
 | The Perfect Tower II | 149572 | [149572-the-perfect-tower-ii.json](./149572-the-perfect-tower-ii.json) |
+| The Perfect Tree | 89697 | [89697-the-perfect-tree.json](./89697-the-perfect-tree.json) |
 | The Perils of Willy | 62218 | [62218-the-perils-of-willy.json](./62218-the-perils-of-willy.json) |
 | The Permanent Residence: Souls Kept | 324671 | [324671-the-permanent-residence-souls-kept.json](./324671-the-permanent-residence-souls-kept.json) |
 | The Perplexing Orb 2 | 148560 | [148560-the-perplexing-orb-2.json](./148560-the-perplexing-orb-2.json) |
@@ -1973,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThinkTanks | 84240 | [84240-thinktanks.json](./84240-thinktanks.json) |
 | Third | 233784 | [233784-third.json](./233784-third.json) |
 | Third Crisis | 187542 | [187542-third-crisis.json](./187542-third-crisis.json) |
+| Third Front | 89656 | [89656-third-front.json](./89656-third-front.json) |
 | Third Iteration | 322394 | [322394-third-iteration.json](./322394-third-iteration.json) |
 | Third Wild | 208600 | [208600-third-wild.json](./208600-third-wild.json) |
 | Thirteen Souls | 129770 | [129770-thirteen-souls.json](./129770-thirteen-souls.json) |
