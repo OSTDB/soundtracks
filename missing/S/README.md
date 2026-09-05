@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage Pond | 299436 | [299436-savage-pond.json](./299436-savage-pond.json) |
 | Savage Skies | 47314 | [47314-savage-skies.json](./47314-savage-skies.json) |
 | Savage Tower Defense | 158715 | [158715-savage-tower-defense.json](./158715-savage-tower-defense.json) |
+| Savage: The Shard of Gosen | 34332 | [34332-savage-the-shard-of-gosen.json](./34332-savage-the-shard-of-gosen.json) |
 | Savage: The Ultimate Quest for Survival | 69890 | [69890-savage-the-ultimate-quest-for-survival.json](./69890-savage-the-ultimate-quest-for-survival.json) |
 | Save City R | 260399 | [260399-save-city-r.json](./260399-save-city-r.json) |
 | Save Da Frogs | 237047 | [237047-save-da-frogs.json](./237047-save-da-frogs.json) |
@@ -535,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Semper Fidelis: Marine Corps | 73830 | [73830-semper-fidelis-marine-corps.json](./73830-semper-fidelis-marine-corps.json) |
 | Sengoku 3 | 46784 | [46784-sengoku-3.json](./46784-sengoku-3.json) |
 | Sengoku Block Bashi | 151711 | [151711-sengoku-block-bashi.json](./151711-sengoku-block-bashi.json) |
+| Sengoku Jidai: Shadow of the Shogun | 34582 | [34582-sengoku-jidai-shadow-of-the-shogun.json](./34582-sengoku-jidai-shadow-of-the-shogun.json) |
 | Sengoku Koihime + Sengoku Koihime X Set | 339636 | [339636-sengoku-koihime-sengoku-koihime-x-set.json](./339636-sengoku-koihime-sengoku-koihime-x-set.json) |
 | Sengoku Koihime X: Otome Kenran Sengoku Emaki Koujou-ke Souran-hen | 339635 | [339635-sengoku-koihime-x-otome-kenran-sengoku-emaki-koujou-ke-souran-hen.json](./339635-sengoku-koihime-x-otome-kenran-sengoku-emaki-koujou-ke-souran-hen.json) |
 | Sengoku Koihime: Otome Kenran Sengoku Emaki | 144381 | [144381-sengoku-koihime-otome-kenran-sengoku-emaki.json](./144381-sengoku-koihime-otome-kenran-sengoku-emaki.json) |
@@ -733,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Theory | 244486 | [244486-shape-theory.json](./244486-shape-theory.json) |
 | Shapefall | 295554 | [295554-shapefall.json](./295554-shapefall.json) |
 | Shapefighter | 333401 | [333401-shapefighter.json](./333401-shapefighter.json) |
+| Shapes of Gray | 34559 | [34559-shapes-of-gray.json](./34559-shapes-of-gray.json) |
 | Shapes on the Run | 108479 | [108479-shapes-on-the-run.json](./108479-shapes-on-the-run.json) |
 | Shapes3 | 54477 | [54477-shapes3.json](./54477-shapes3.json) |
 | Shapo | 84898 | [84898-shapo.json](./84898-shapo.json) |
@@ -876,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiver: Poltergeist - Collector's Edition | 30895 | [30895-shiver-poltergeist-collectors-edition.json](./30895-shiver-poltergeist-collectors-edition.json) |
 | Shizue: Innocent Curse | 117086 | [117086-shizue-innocent-curse.json](./117086-shizue-innocent-curse.json) |
 | Shleep | 340225 | [340225-shleep.json](./340225-shleep.json) |
+| Shmadow | 34594 | [34594-shmadow.json](./34594-shmadow.json) |
 | Shmucker Casino 2: Purple Boog's Revenge | 270371 | [270371-shmucker-casino-2-purple-boogs-revenge.json](./270371-shmucker-casino-2-purple-boogs-revenge.json) |
 | Shnipers | 56484 | [56484-shnipers.json](./56484-shnipers.json) |
 | Shockwave | 48084 | [48084-shockwave.json](./48084-shockwave.json) |
@@ -1895,6 +1899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Filler | 338013 | [338013-space-filler.json](./338013-space-filler.json) |
 | Space Firebird | 22432 | [22432-space-firebird.json](./22432-space-firebird.json) |
 | Space Fishermen | 64948 | [64948-space-fishermen.json](./64948-space-fishermen.json) |
+| Space Food Truck | 34588 | [34588-space-food-truck.json](./34588-space-food-truck.json) |
 | Space Force | 336915 | [336915-space-force.json](./336915-space-force.json) |
 | Space Fox Kimi and the Interstellar Fortress | 171589 | [171589-space-fox-kimi-and-the-interstellar-fortress.json](./171589-space-fox-kimi-and-the-interstellar-fortress.json) |
 | Space Garbage | 277600 | [277600-space-garbage.json](./277600-space-garbage.json) |
@@ -2071,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere: Flying Cities - Save the World Edition | 186905 | [186905-sphere-flying-cities-save-the-world-edition.json](./186905-sphere-flying-cities-save-the-world-edition.json) |
 | Spherecraft | 118387 | [118387-spherecraft.json](./118387-spherecraft.json) |
 | SphereZor | 84890 | [84890-spherezor.json](./84890-spherezor.json) |
+| Spheroid | 34535 | [34535-spheroid.json](./34535-spheroid.json) |
 | Spider Bounce | 263745 | [263745-spider-bounce.json](./263745-spider-bounce.json) |
 | Spider Lander | 111723 | [111723-spider-lander.json](./111723-spider-lander.json) |
 | Spider Shooting Bee | 119793 | [119793-spider-shooting-bee.json](./119793-spider-shooting-bee.json) |
@@ -2584,6 +2590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonekeep | 253 | [253-stonekeep.json](./253-stonekeep.json) |
 | StoneStory | 339662 | [339662-stonestory.json](./339662-stonestory.json) |
 | Stop and Go | 93567 | [93567-stop-and-go.json](./93567-stop-and-go.json) |
+| Stop Online: Battle of Words | 34353 | [34353-stop-online-battle-of-words.json](./34353-stop-online-battle-of-words.json) |
 | Stop Those Aliens! | 277567 | [277567-stop-those-aliens.json](./277567-stop-those-aliens.json) |
 | Storage Anomaly | 325821 | [325821-storage-anomaly.json](./325821-storage-anomaly.json) |
 | Storage Master | 212483 | [212483-storage-master.json](./212483-storage-master.json) |
@@ -2626,6 +2633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger of Sword City: Limited Edition | 42681 | [42681-stranger-of-sword-city-limited-edition.json](./42681-stranger-of-sword-city-limited-edition.json) |
 | Strangers In The Land Of Turnabouts | 303247 | [303247-strangers-in-the-land-of-turnabouts.json](./303247-strangers-in-the-land-of-turnabouts.json) |
 | Strangest.io's My Megamix '21 | 195798 | [195798-strangest-ios-my-megamix-21.json](./195798-strangest-ios-my-megamix-21.json) |
+| Strania: The Stella Machina | 34342 | [34342-strania-the-stella-machina.json](./34342-strania-the-stella-machina.json) |
 | Strategie Spiele | 81396 | [81396-strategie-spiele.json](./81396-strategie-spiele.json) |
 | Strato | 35955 | [35955-strato.json](./35955-strato.json) |
 | Strawberry | 339658 | [339658-strawberry.json](./339658-strawberry.json) |
@@ -3379,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwapStar | 252394 | [252394-swapstar.json](./252394-swapstar.json) |
 | Swarm 2 | 280060 | [280060-swarm-2.json](./280060-swarm-2.json) |
 | Swarm the City | 152391 | [152391-swarm-the-city.json](./152391-swarm-the-city.json) |
+| Swarm Universe | 34334 | [34334-swarm-universe.json](./34334-swarm-universe.json) |
 | Swarmlake | 86468 | [86468-swarmlake.json](./86468-swarmlake.json) |
 | Swarmrider Omega | 67901 | [67901-swarmrider-omega.json](./67901-swarmrider-omega.json) |
 | Swarmsign | 304904 | [304904-swarmsign.json](./304904-swarmsign.json) |
@@ -3447,6 +3456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Soldiers | 210262 | [210262-swords-and-soldiers.json](./210262-swords-and-soldiers.json) |
 | Swords and Sandals Classic Collection | 117173 | [117173-swords-and-sandals-classic-collection.json](./117173-swords-and-sandals-classic-collection.json) |
 | Swords and Sandals Spartacus | 130387 | [130387-swords-and-sandals-spartacus.json](./130387-swords-and-sandals-spartacus.json) |
+| Swords and Sorcery Underworld: Definitive Edition | 34318 | [34318-swords-and-sorcery-underworld-definitive-edition.json](./34318-swords-and-sorcery-underworld-definitive-edition.json) |
 | Swords Fantasy: Battlefield | 192450 | [192450-swords-fantasy-battlefield.json](./192450-swords-fantasy-battlefield.json) |
 | Swords of Destiny | 23007 | [23007-swords-of-destiny.json](./23007-swords-of-destiny.json) |
 | Swords of Legends 3 | 107205 | [107205-swords-of-legends-3.json](./107205-swords-of-legends-3.json) |
