@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowlands | 37128 | [37128-shadowlands.json](./37128-shadowlands.json) |
 | Shadownest | 158199 | [158199-shadownest.json](./158199-shadownest.json) |
 | Shadoworld: The Impossible Escape Game | 204082 | [204082-shadoworld-the-impossible-escape-game.json](./204082-shadoworld-the-impossible-escape-game.json) |
+| Shadowpiercer | 383964 | [383964-shadowpiercer.json](./383964-shadowpiercer.json) |
 | Shadowrun | 7643 | [7643-shadowrun.json](./7643-shadowrun.json) |
 | Shadows | 318203 | [318203-shadows.json](./318203-shadows.json) |
 | Shadows 2: Perfidia | 29178 | [29178-shadows-2-perfidia.json](./29178-shadows-2-perfidia.json) |
@@ -1058,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shutter Stroll | 134671 | [134671-shutter-stroll.json](./134671-shutter-stroll.json) |
 | Shuuchaku Gakuen | 335668 | [335668-shuuchaku-gakuen.json](./335668-shuuchaku-gakuen.json) |
 | Shuusou Gyoku | 123608 | [123608-shuusou-gyoku.json](./123608-shuusou-gyoku.json) |
+| Shuwa Shuwa Guin! | 383940 | [383940-shuwa-shuwa-guin.json](./383940-shuwa-shuwa-guin.json) |
 | Shy Cats Hidden Orchestra 2 | 409556 | [409556-shy-cats-hidden-orchestra-2.json](./409556-shy-cats-hidden-orchestra-2.json) |
 | Shy Dogs Hidden Orchestra | 258215 | [258215-shy-dogs-hidden-orchestra.json](./258215-shy-dogs-hidden-orchestra.json) |
 | Shyftrs | 205793 | [205793-shyftrs.json](./205793-shyftrs.json) |
@@ -1065,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sicier's Zweck | 117076 | [117076-siciers-zweck.json](./117076-siciers-zweck.json) |
 | Sick | 277612 | [277612-sick.json](./277612-sick.json) |
 | Sick Bricks | 23925 | [23925-sick-bricks.json](./23925-sick-bricks.json) |
+| Sick Generation: The Ghost of the Crane Catcher | 383974 | [383974-sick-generation-the-ghost-of-the-crane-catcher.json](./383974-sick-generation-the-ghost-of-the-crane-catcher.json) |
 | Sid Meier's Civilization II: Conflicts in Civilization | 115032 | [115032-sid-meiers-civilization-ii-conflicts-in-civilization.json](./115032-sid-meiers-civilization-ii-conflicts-in-civilization.json) |
 | Sid Meier's Civilization Revolution | 264864 | [264864-sid-meiers-civilization-revolution.json](./264864-sid-meiers-civilization-revolution.json) |
 | Sid Meier's Civilization Revolution | 264865 | [264865-sid-meiers-civilization-revolution.json](./264865-sid-meiers-civilization-revolution.json) |
@@ -2716,6 +2719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Thunder | 244476 | [244476-steel-thunder.json](./244476-steel-thunder.json) |
 | Steel Tower Swordmaster | 211943 | [211943-steel-tower-swordmaster.json](./211943-steel-tower-swordmaster.json) |
 | Steel Worker | 299481 | [299481-steel-worker.json](./299481-steel-worker.json) |
+| Steeplejack | 383968 | [383968-steeplejack.json](./383968-steeplejack.json) |
 | Steins;Gate Double Pack | 141877 | [141877-steins-gate-double-pack.json](./141877-steins-gate-double-pack.json) |
 | Steins;Gate: Limited Edition | 42680 | [42680-steins-gate-limited-edition.json](./42680-steins-gate-limited-edition.json) |
 | Stele | 339664 | [339664-stele.json](./339664-stele.json) |
@@ -2989,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submersa | 386144 | [386144-submersa.json](./386144-submersa.json) |
 | Suborbital | 260386 | [260386-suborbital.json](./260386-suborbital.json) |
 | Subpar Commander | 27808 | [27808-subpar-commander.json](./27808-subpar-commander.json) |
+| Subpoena Magus | 383933 | [383933-subpoena-magus.json](./383933-subpoena-magus.json) |
 | Subsuelo | 272035 | [272035-subsuelo.json](./272035-subsuelo.json) |
 | Subsurface Circular | 54780 | [54780-subsurface-circular.json](./54780-subsurface-circular.json) |
 | Subterranea | 55205 | [55205-subterranea.json](./55205-subterranea.json) |
@@ -3575,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surf & Turf Bundle | 308581 | [308581-surf-and-turf-bundle.json](./308581-surf-and-turf-bundle.json) |
 | Surf's Up | 4191 | [4191-surfs-up.json](./4191-surfs-up.json) |
 | Surface | 395545 | [395545-surface.json](./395545-surface.json) |
+| Surface Breaker | 383954 | [383954-surface-breaker.json](./383954-surface-breaker.json) |
 | Surface: Alone in the Mist | 26712 | [26712-surface-alone-in-the-mist.json](./26712-surface-alone-in-the-mist.json) |
 | Surface: Alone in the Mist - Collector's Edition | 89943 | [89943-surface-alone-in-the-mist-collectors-edition.json](./89943-surface-alone-in-the-mist-collectors-edition.json) |
 | Surface: Project Dawn | 102812 | [102812-surface-project-dawn.json](./102812-surface-project-dawn.json) |
