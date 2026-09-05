@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty and the Beast | 211430 | [211430-beauty-and-the-beast.json](./211430-beauty-and-the-beast.json) |
 | Beauty Showdown: Awakening | 273088 | [273088-beauty-showdown-awakening.json](./273088-beauty-showdown-awakening.json) |
 | Beboop to the Rescue! | 211431 | [211431-beboop-to-the-rescue.json](./211431-beboop-to-the-rescue.json) |
+| Because It's a Dream, It Must Be Romance: Connecting Hearts Across Realities | 399613 | [399613-because-its-a-dream-it-must-be-romance-connecting-hearts-across-realities.json](./399613-because-its-a-dream-it-must-be-romance-connecting-hearts-across-realities.json) |
 | Beckoned | 159847 | [159847-beckoned.json](./159847-beckoned.json) |
 | Become a pig | 205244 | [205244-become-a-pig.json](./205244-become-a-pig.json) |
 | Becut | 309665 | [309665-becut.json](./309665-becut.json) |
@@ -870,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds of Ascent | 404222 | [404222-birds-of-ascent.json](./404222-birds-of-ascent.json) |
 | Birds'n'Blocks 2 | 87694 | [87694-birdsnblocks-2.json](./87694-birdsnblocks-2.json) |
 | Birth of Shadows | 34490 | [34490-birth-of-shadows.json](./34490-birth-of-shadows.json) |
+| Birthday Boy | 399612 | [399612-birthday-boy.json](./399612-birthday-boy.json) |
 | Birthdays the Beginning: Digital Limited Edition | 52628 | [52628-birthdays-the-beginning-digital-limited-edition.json](./52628-birthdays-the-beginning-digital-limited-edition.json) |
 | Birthright Cataclysm: Overture | 171595 | [171595-birthright-cataclysm-overture.json](./171595-birthright-cataclysm-overture.json) |
 | Bishi Bashi Special | 45047 | [45047-bishi-bashi-special.json](./45047-bishi-bashi-special.json) |
@@ -1008,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Dash | 411571 | [411571-blast-dash.json](./411571-blast-dash.json) |
 | Blast Force | 123616 | [123616-blast-force.json](./123616-blast-force.json) |
 | Blast It | 245549 | [245549-blast-it.json](./245549-blast-it.json) |
+| Blast Linkers | 399616 | [399616-blast-linkers.json](./399616-blast-linkers.json) |
 | Blast Royale | 231621 | [231621-blast-royale.json](./231621-blast-royale.json) |
 | Blastar | 14317 | [14317-blastar.json](./14317-blastar.json) |
 | Blastarock! | 196842 | [196842-blastarock.json](./196842-blastarock.json) |
