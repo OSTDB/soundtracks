@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vektron Revenge | 33100 | [33100-vektron-revenge.json](./33100-vektron-revenge.json) |
 | Velato | 398989 | [398989-velato.json](./398989-velato.json) |
 | Velldeselba Senki: Tsubasa no Kunshou | 140026 | [140026-velldeselba-senki-tsubasa-no-kunshou.json](./140026-velldeselba-senki-tsubasa-no-kunshou.json) |
+| Velocide Overdrive | 393501 | [393501-velocide-overdrive.json](./393501-velocide-overdrive.json) |
 | Velocidevorium | 96765 | [96765-velocidevorium.json](./96765-velocidevorium.json) |
 | Velocity Classics: Volume 1 | 84252 | [84252-velocity-classics-volume-1.json](./84252-velocity-classics-volume-1.json) |
 | Velocity Rush | 338574 | [338574-velocity-rush.json](./338574-velocity-rush.json) |
@@ -204,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Bad Dreams | 269860 | [269860-very-bad-dreams.json](./269860-very-bad-dreams.json) |
 | Very Iconic Pixels - 80s Quiz | 233738 | [233738-very-iconic-pixels-80s-quiz.json](./233738-very-iconic-pixels-80s-quiz.json) |
 | Very Little Nightmares | 117295 | [117295-very-little-nightmares.json](./117295-very-little-nightmares.json) |
+| Very Very Cat | 393511 | [393511-very-very-cat.json](./393511-very-very-cat.json) |
 | Vespera_Hotel | 296105 | [296105-vespera-hotel.json](./296105-vespera-hotel.json) |
 | Vesperia Bononia | 332268 | [332268-vesperia-bononia.json](./332268-vesperia-bononia.json) |
 | Vessel Damage Control Trainer | 243417 | [243417-vessel-damage-control-trainer.json](./243417-vessel-damage-control-trainer.json) |
