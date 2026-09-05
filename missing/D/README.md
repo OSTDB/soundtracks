@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck Hunter | 106418 | [106418-deck-hunter.json](./106418-deck-hunter.json) |
 | Deck of Souls | 252356 | [252356-deck-of-souls.json](./252356-deck-of-souls.json) |
 | Deck Remover | 295535 | [295535-deck-remover.json](./295535-deck-remover.json) |
+| DeckEleven's Railroads | 87687 | [87687-deckelevens-railroads.json](./87687-deckelevens-railroads.json) |
 | DeckMake Fantasy | 208015 | [208015-deckmake-fantasy.json](./208015-deckmake-fantasy.json) |
 | Decks & Dungeons | 149574 | [149574-decks-and-dungeons.json](./149574-decks-and-dungeons.json) |
 | Decurse: A New Magic Farming Game | 254159 | [254159-decurse-a-new-magic-farming-game.json](./254159-decurse-a-new-magic-farming-game.json) |
@@ -881,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Hunter | 98984 | [98984-dinosaur-hunter.json](./98984-dinosaur-hunter.json) |
 | Dinosaur Island | 266484 | [266484-dinosaur-island.json](./266484-dinosaur-island.json) |
 | Dinosaur King | 48042 | [48042-dinosaur-king.json](./48042-dinosaur-king.json) |
+| Dinosaur Rampage - Trex | 87716 | [87716-dinosaur-rampage-trex.json](./87716-dinosaur-rampage-trex.json) |
 | Dinosaur Zookeeper | 318233 | [318233-dinosaur-zookeeper.json](./318233-dinosaur-zookeeper.json) |
 | Dinosaurs A Prehistoric Adventure | 57128 | [57128-dinosaurs-a-prehistoric-adventure.json](./57128-dinosaurs-a-prehistoric-adventure.json) |
 | DinoScape | 143335 | [143335-dinoscape.json](./143335-dinoscape.json) |
