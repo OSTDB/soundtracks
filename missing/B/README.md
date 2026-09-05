@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Kart 64 | 248308 | [248308-battle-kart-64.json](./248308-battle-kart-64.json) |
 | Battle Mages | 17427 | [17427-battle-mages.json](./17427-battle-mages.json) |
 | Battle Magi | 402899 | [402899-battle-magi.json](./402899-battle-magi.json) |
+| Battle Mutants | 383957 | [383957-battle-mutants.json](./383957-battle-mutants.json) |
 | Battle of 2048: Fantasy Edition | 234350 | [234350-battle-of-2048-fantasy-edition.json](./234350-battle-of-2048-fantasy-edition.json) |
 | Battle of Angels | 137681 | [137681-battle-of-angels.json](./137681-battle-of-angels.json) |
 | Battle of Arrow | 82146 | [82146-battle-of-arrow.json](./82146-battle-of-arrow.json) |
@@ -1093,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bliink: Staring Contest | 143089 | [143089-bliink-staring-contest.json](./143089-bliink-staring-contest.json) |
 | Blik Ball | 413660 | [413660-blik-ball.json](./413660-blik-ball.json) |
 | Blind Shot | 145003 | [145003-blind-shot.json](./145003-blind-shot.json) |
+| Blind zum Bus | 383973 | [383973-blind-zum-bus.json](./383973-blind-zum-bus.json) |
 | Blinding Oversight | 253592 | [253592-blinding-oversight.json](./253592-blinding-oversight.json) |
 | Blindscape | 26644 | [26644-blindscape.json](./26644-blindscape.json) |
 | Blindsight: War of the Wardens | 248889 | [248889-blindsight-war-of-the-wardens.json](./248889-blindsight-war-of-the-wardens.json) |
@@ -1619,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking earth | 165688 | [165688-breaking-earth.json](./165688-breaking-earth.json) |
 | Breaking Enigma | 213630 | [213630-breaking-enigma.json](./213630-breaking-enigma.json) |
 | Breaking Wheel | 30857 | [30857-breaking-wheel.json](./30857-breaking-wheel.json) |
+| BreakLoop | 383953 | [383953-breakloop.json](./383953-breakloop.json) |
 | Breakout 2000 | 40816 | [40816-breakout-2000.json](./40816-breakout-2000.json) |
 | Breakout 3000 | 73293 | [73293-breakout-3000.json](./73293-breakout-3000.json) |
 | Breakout Birdie Escape | 278658 | [278658-breakout-birdie-escape.json](./278658-breakout-birdie-escape.json) |
