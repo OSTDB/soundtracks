@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T15:33:18.897Z",
-  "total_missing": 32979,
+  "generated_at": "2026-09-05T15:48:15.057Z",
+  "total_missing": 33029,
   "games": [
     {
       "igdb_id": 306086,
@@ -4901,6 +4901,11 @@
       "igdb_id": 252389,
       "game_name": "Agriculture",
       "file": "missing/A/252389-agriculture.json"
+    },
+    {
+      "igdb_id": 386117,
+      "game_name": "Agrivore",
+      "file": "missing/A/386117-agrivore.json"
     },
     {
       "igdb_id": 133456,
@@ -10178,6 +10183,11 @@
       "file": "missing/A/228694-arx-after-the-reckoning.json"
     },
     {
+      "igdb_id": 386114,
+      "game_name": "Arx: End of Sun",
+      "file": "missing/A/386114-arx-end-of-sun.json"
+    },
+    {
       "igdb_id": 93062,
       "game_name": "Arxon",
       "file": "missing/A/93062-arxon.json"
@@ -10356,6 +10366,11 @@
       "igdb_id": 52607,
       "game_name": "Ashes of Immortality Trilogy",
       "file": "missing/A/52607-ashes-of-immortality-trilogy.json"
+    },
+    {
+      "igdb_id": 386145,
+      "game_name": "Ashes of Kardoria",
+      "file": "missing/A/386145-ashes-of-kardoria.json"
     },
     {
       "igdb_id": 275883,
@@ -16453,6 +16468,11 @@
       "file": "missing/B/50625-big-time-rush-dance-party.json"
     },
     {
+      "igdb_id": 386134,
+      "game_name": "Big Top Solitaire",
+      "file": "missing/B/386134-big-top-solitaire.json"
+    },
+    {
       "igdb_id": 329400,
       "game_name": "Big's Fishing Quest",
       "file": "missing/B/329400-bigs-fishing-quest.json"
@@ -17818,6 +17838,11 @@
       "file": "missing/B/412275-blitz-of-battle.json"
     },
     {
+      "igdb_id": 386109,
+      "game_name": "Blitz Society",
+      "file": "missing/B/386109-blitz-society.json"
+    },
+    {
       "igdb_id": 264860,
       "game_name": "Blitz: The League",
       "file": "missing/B/264860-blitz-the-league.json"
@@ -19101,6 +19126,11 @@
       "igdb_id": 228712,
       "game_name": "Bombing Wonderful",
       "file": "missing/B/228712-bombing-wonderful.json"
+    },
+    {
+      "igdb_id": 386102,
+      "game_name": "Bomboban",
+      "file": "missing/B/386102-bomboban.json"
     },
     {
       "igdb_id": 241612,
@@ -24561,6 +24591,11 @@
       "igdb_id": 264863,
       "game_name": "CCTV",
       "file": "missing/C/264863-cctv.json"
+    },
+    {
+      "igdb_id": 386115,
+      "game_name": "CDL for a UFO",
+      "file": "missing/C/386115-cdl-for-a-ufo.json"
     },
     {
       "igdb_id": 253613,
@@ -33573,6 +33608,11 @@
       "file": "missing/D/296689-dark-skies-2-keepers-of-nemansk.json"
     },
     {
+      "igdb_id": 386139,
+      "game_name": "Dark Solitaire: Search for a Cure",
+      "file": "missing/D/386139-dark-solitaire-search-for-a-cure.json"
+    },
+    {
       "igdb_id": 22502,
       "game_name": "Dark Souls II: Crown of the Old Iron King",
       "file": "missing/D/22502-dark-souls-ii-crown-of-the-old-iron-king.json"
@@ -37893,6 +37933,11 @@
       "file": "missing/D/41848-dissidia-duodecim-prologus-final-fantasy.json"
     },
     {
+      "igdb_id": 386116,
+      "game_name": "DistanceGuessr",
+      "file": "missing/D/386116-distanceguessr.json"
+    },
+    {
       "igdb_id": 329390,
       "game_name": "Distant",
       "file": "missing/D/329390-distant.json"
@@ -39786,6 +39831,11 @@
       "igdb_id": 66111,
       "game_name": "Dracula Hakushaku",
       "file": "missing/D/66111-dracula-hakushaku.json"
+    },
+    {
+      "igdb_id": 386152,
+      "game_name": "Dracula Solitaire",
+      "file": "missing/D/386152-dracula-solitaire.json"
     },
     {
       "igdb_id": 19594,
@@ -43933,6 +43983,21 @@
       "file": "missing/E/238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json"
     },
     {
+      "igdb_id": 386148,
+      "game_name": "Enchanted Memories",
+      "file": "missing/E/386148-enchanted-memories.json"
+    },
+    {
+      "igdb_id": 386133,
+      "game_name": "Enchanted Solitaire",
+      "file": "missing/E/386133-enchanted-solitaire.json"
+    },
+    {
+      "igdb_id": 386123,
+      "game_name": "Enchanted Solitaire 2",
+      "file": "missing/E/386123-enchanted-solitaire-2.json"
+    },
+    {
       "igdb_id": 319977,
       "game_name": "Encircled",
       "file": "missing/E/319977-encircled.json"
@@ -44676,6 +44741,11 @@
       "igdb_id": 222336,
       "game_name": "Escape Academy: Escape From Anti-Escape Island",
       "file": "missing/E/222336-escape-academy-escape-from-anti-escape-island.json"
+    },
+    {
+      "igdb_id": 386136,
+      "game_name": "Escape Artist",
+      "file": "missing/E/386136-escape-artist.json"
     },
     {
       "igdb_id": 402311,
@@ -47311,6 +47381,11 @@
       "igdb_id": 209132,
       "game_name": "Fantasy Fighters: Historic Fighters",
       "file": "missing/F/209132-fantasy-fighters-historic-fighters.json"
+    },
+    {
+      "igdb_id": 386128,
+      "game_name": "Fantasy Forest Solitaire",
+      "file": "missing/F/386128-fantasy-forest-solitaire.json"
     },
     {
       "igdb_id": 124833,
@@ -56123,6 +56198,11 @@
       "file": "missing/G/311251-glitch-world.json"
     },
     {
+      "igdb_id": 386143,
+      "game_name": "Glitchery",
+      "file": "missing/G/386143-glitchery.json"
+    },
+    {
       "igdb_id": 186873,
       "game_name": "Glitchhikers: The Spaces Between",
       "file": "missing/G/186873-glitchhikers-the-spaces-between.json"
@@ -59708,6 +59788,16 @@
       "file": "missing/H/31930-haeven.json"
     },
     {
+      "igdb_id": 386105,
+      "game_name": "Hahakigami Sweep",
+      "file": "missing/H/386105-hahakigami-sweep.json"
+    },
+    {
+      "igdb_id": 386106,
+      "game_name": "Hahakigami Sweep",
+      "file": "missing/H/386106-hahakigami-sweep.json"
+    },
+    {
       "igdb_id": 261547,
       "game_name": "Hai Byouin Tansaku",
       "file": "missing/H/261547-hai-byouin-tansaku.json"
@@ -61001,6 +61091,11 @@
       "igdb_id": 251806,
       "game_name": "Hawaii Detective: Killing of a Krypto King",
       "file": "missing/H/251806-hawaii-detective-killing-of-a-krypto-king.json"
+    },
+    {
+      "igdb_id": 386142,
+      "game_name": "Hawaiian Solitaire",
+      "file": "missing/H/386142-hawaiian-solitaire.json"
     },
     {
       "igdb_id": 321782,
@@ -65961,6 +66056,11 @@
       "igdb_id": 35861,
       "game_name": "I Can't Escape: Darkness",
       "file": "missing/I/35861-i-cant-escape-darkness.json"
+    },
+    {
+      "igdb_id": 386100,
+      "game_name": "I Can't Reid",
+      "file": "missing/I/386100-i-cant-reid.json"
     },
     {
       "igdb_id": 188627,
@@ -73061,6 +73161,11 @@
       "igdb_id": 96734,
       "game_name": "Kiitsu",
       "file": "missing/K/96734-kiitsu.json"
+    },
+    {
+      "igdb_id": 386112,
+      "game_name": "Kikaijikake no Merceneria",
+      "file": "missing/K/386112-kikaijikake-no-merceneria.json"
     },
     {
       "igdb_id": 125462,
@@ -84193,6 +84298,11 @@
       "file": "missing/M/217497-melodys-escape-2.json"
     },
     {
+      "igdb_id": 386103,
+      "game_name": "Melon's Sokoban Walk",
+      "file": "missing/M/386103-melons-sokoban-walk.json"
+    },
+    {
       "igdb_id": 34411,
       "game_name": "Melter Man",
       "file": "missing/M/34411-melter-man.json"
@@ -88621,6 +88731,11 @@
       "igdb_id": 119236,
       "game_name": "Moonlighter: Between Dimensions",
       "file": "missing/M/119236-moonlighter-between-dimensions.json"
+    },
+    {
+      "igdb_id": 386146,
+      "game_name": "Moonlit Nights",
+      "file": "missing/M/386146-moonlit-nights.json"
     },
     {
       "igdb_id": 387344,
@@ -101611,6 +101726,11 @@
       "igdb_id": 15842,
       "game_name": "Perfect Universe",
       "file": "missing/P/15842-perfect-universe.json"
+    },
+    {
+      "igdb_id": 386126,
+      "game_name": "Perfect Wedding Solitaire",
+      "file": "missing/P/386126-perfect-wedding-solitaire.json"
     },
     {
       "igdb_id": 8747,
@@ -123613,6 +123733,11 @@
       "file": "missing/S/409583-slice-to-meet-you.json"
     },
     {
+      "igdb_id": 386101,
+      "game_name": "Slick Tricks: Potion Persuasion!",
+      "file": "missing/S/386101-slick-tricks-potion-persuasion.json"
+    },
+    {
       "igdb_id": 322977,
       "game_name": "Slicy Flips",
       "file": "missing/S/322977-slicy-flips.json"
@@ -125263,6 +125388,11 @@
       "file": "missing/S/246627-solitaire.json"
     },
     {
+      "igdb_id": 386147,
+      "game_name": "Solitaire After Hours",
+      "file": "missing/S/386147-solitaire-after-hours.json"
+    },
+    {
       "igdb_id": 76589,
       "game_name": "Solitaire City",
       "file": "missing/S/76589-solitaire-city.json"
@@ -125271,6 +125401,11 @@
       "igdb_id": 277564,
       "game_name": "Solitaire Classic",
       "file": "missing/S/277564-solitaire-classic.json"
+    },
+    {
+      "igdb_id": 386141,
+      "game_name": "Solitaire Crime Stories",
+      "file": "missing/S/386141-solitaire-crime-stories.json"
     },
     {
       "igdb_id": 390506,
@@ -125291,6 +125426,11 @@
       "igdb_id": 146916,
       "game_name": "Solitaire Dozen Gold",
       "file": "missing/S/146916-solitaire-dozen-gold.json"
+    },
+    {
+      "igdb_id": 386151,
+      "game_name": "Solitaire Holiday Season",
+      "file": "missing/S/386151-solitaire-holiday-season.json"
     },
     {
       "igdb_id": 101601,
@@ -128286,6 +128426,11 @@
       "igdb_id": 242228,
       "game_name": "Spooky Shelter",
       "file": "missing/S/242228-spooky-shelter.json"
+    },
+    {
+      "igdb_id": 386149,
+      "game_name": "Spooky Solitaire: Halloween",
+      "file": "missing/S/386149-spooky-solitaire-halloween.json"
     },
     {
       "igdb_id": 272565,
@@ -131448,6 +131593,11 @@
       "file": "missing/S/392156-submerged-lights.json"
     },
     {
+      "igdb_id": 386144,
+      "game_name": "Submersa",
+      "file": "missing/S/386144-submersa.json"
+    },
+    {
       "igdb_id": 260386,
       "game_name": "Suborbital",
       "file": "missing/S/260386-suborbital.json"
@@ -134213,6 +134363,11 @@
       "file": "missing/S/97323-superlite-1500-crazy-balloon-2000.json"
     },
     {
+      "igdb_id": 386127,
+      "game_name": "SuperLite 2000: Oekaki Puzzle",
+      "file": "missing/S/386127-superlite-2000-oekaki-puzzle.json"
+    },
+    {
       "igdb_id": 264862,
       "game_name": "Superman: Man of Steel",
       "file": "missing/S/264862-superman-man-of-steel.json"
@@ -134896,6 +135051,11 @@
       "igdb_id": 126645,
       "game_name": "Sweet Thomas",
       "file": "missing/S/126645-sweet-thomas.json"
+    },
+    {
+      "igdb_id": 386150,
+      "game_name": "Sweet Treat Solitaire",
+      "file": "missing/S/386150-sweet-treat-solitaire.json"
     },
     {
       "igdb_id": 398322,
@@ -140473,6 +140633,11 @@
       "file": "missing/T/415906-the-far-kingdoms-garden-mosaics.json"
     },
     {
+      "igdb_id": 386131,
+      "game_name": "The Far Kingdoms: Winter Solitaire",
+      "file": "missing/T/386131-the-far-kingdoms-winter-solitaire.json"
+    },
+    {
       "igdb_id": 274182,
       "game_name": "The Farside of Titan",
       "file": "missing/T/274182-the-farside-of-titan.json"
@@ -142633,6 +142798,11 @@
       "file": "missing/T/17022-the-lost-mythologies.json"
     },
     {
+      "igdb_id": 386120,
+      "game_name": "The Lost Painter",
+      "file": "missing/T/386120-the-lost-painter.json"
+    },
+    {
       "igdb_id": 61102,
       "game_name": "The Lost Ship",
       "file": "missing/T/61102-the-lost-ship.json"
@@ -143901,6 +144071,11 @@
       "igdb_id": 69308,
       "game_name": "The Rose Princess",
       "file": "missing/T/69308-the-rose-princess.json"
+    },
+    {
+      "igdb_id": 386157,
+      "game_name": "The Round-about Orchard",
+      "file": "missing/T/386157-the-round-about-orchard.json"
     },
     {
       "igdb_id": 182520,
@@ -146758,6 +146933,11 @@
       "file": "missing/T/237634-tie-dye.json"
     },
     {
+      "igdb_id": 386153,
+      "game_name": "Tied By Numbers",
+      "file": "missing/T/386153-tied-by-numbers.json"
+    },
+    {
       "igdb_id": 391039,
       "game_name": "Tied to the Beat",
       "file": "missing/T/391039-tied-to-the-beat.json"
@@ -149348,6 +149528,11 @@
       "file": "missing/T/94251-torres.json"
     },
     {
+      "igdb_id": 386111,
+      "game_name": "Torshtra Minkan Setsuwashuu yori: Kokuou no Musume",
+      "file": "missing/T/386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json"
+    },
+    {
       "igdb_id": 276458,
       "game_name": "Torture",
       "file": "missing/T/276458-torture.json"
@@ -149736,6 +149921,11 @@
       "igdb_id": 202936,
       "game_name": "Touhou Rock Maiden FC",
       "file": "missing/T/202936-touhou-rock-maiden-fc.json"
+    },
+    {
+      "igdb_id": 386119,
+      "game_name": "Touhou Rock Maiden FC 3: Little Native Goddess's Revival",
+      "file": "missing/T/386119-touhou-rock-maiden-fc-3-little-native-goddesss-revival.json"
     },
     {
       "igdb_id": 246678,
@@ -151581,6 +151771,11 @@
       "igdb_id": 197386,
       "game_name": "Trick or Treat",
       "file": "missing/T/197386-trick-or-treat.json"
+    },
+    {
+      "igdb_id": 386125,
+      "game_name": "Trick or Treat Halloween Solitaire",
+      "file": "missing/T/386125-trick-or-treat-halloween-solitaire.json"
     },
     {
       "igdb_id": 386689,
@@ -155698,6 +155893,11 @@
       "file": "missing/V/126673-ved.json"
     },
     {
+      "igdb_id": 386121,
+      "game_name": "Vedal's Secret",
+      "file": "missing/V/386121-vedals-secret.json"
+    },
+    {
       "igdb_id": 34384,
       "game_name": "Veer",
       "file": "missing/V/34384-veer.json"
@@ -158463,6 +158663,11 @@
       "file": "missing/W/33129-watch-this.json"
     },
     {
+      "igdb_id": 386135,
+      "game_name": "Watchmaker's World Solitaire",
+      "file": "missing/W/386135-watchmakers-world-solitaire.json"
+    },
+    {
       "igdb_id": 44619,
       "game_name": "Watchmen: The End Is Nigh Complete Experience",
       "file": "missing/W/44619-watchmen-the-end-is-nigh-complete-experience.json"
@@ -158636,6 +158841,11 @@
       "igdb_id": 165049,
       "game_name": "We Are All but Bones and Dust",
       "file": "missing/W/165049-we-are-all-but-bones-and-dust.json"
+    },
+    {
+      "igdb_id": 386108,
+      "game_name": "We Are Counting",
+      "file": "missing/W/386108-we-are-counting.json"
     },
     {
       "igdb_id": 152342,
@@ -158841,6 +159051,16 @@
       "igdb_id": 109019,
       "game_name": "Weekend Drive",
       "file": "missing/W/109019-weekend-drive.json"
+    },
+    {
+      "igdb_id": 386124,
+      "game_name": "Weekend Solitaire: Railway",
+      "file": "missing/W/386124-weekend-solitaire-railway.json"
+    },
+    {
+      "igdb_id": 386140,
+      "game_name": "Weekend Solitaire: Voyage",
+      "file": "missing/W/386140-weekend-solitaire-voyage.json"
     },
     {
       "igdb_id": 109051,
@@ -160293,6 +160513,16 @@
       "file": "missing/W/63866-winters-tail-how-one-little-dolphin-learned-to-swim-again.json"
     },
     {
+      "igdb_id": 386137,
+      "game_name": "Winterland Solitaire",
+      "file": "missing/W/386137-winterland-solitaire.json"
+    },
+    {
+      "igdb_id": 386132,
+      "game_name": "Winterland Solitaire 2",
+      "file": "missing/W/386132-winterland-solitaire-2.json"
+    },
+    {
       "igdb_id": 183591,
       "game_name": "Wintersdawn in the Deep",
       "file": "missing/W/183591-wintersdawn-in-the-deep.json"
@@ -160366,6 +160596,11 @@
       "igdb_id": 107892,
       "game_name": "Wishes In Pen: Chrysanthemums in August - Otome Visual Novel",
       "file": "missing/W/107892-wishes-in-pen-chrysanthemums-in-august-otome-visual-novel.json"
+    },
+    {
+      "igdb_id": 386107,
+      "game_name": "Wishing Well Hotel",
+      "file": "missing/W/386107-wishing-well-hotel.json"
     },
     {
       "igdb_id": 415089,
@@ -162848,6 +163083,11 @@
       "file": "missing/Y/191868-yatsu-hakamura.json"
     },
     {
+      "igdb_id": 386156,
+      "game_name": "Yattsu no Hiseki 2X",
+      "file": "missing/Y/386156-yattsu-no-hiseki-2x.json"
+    },
+    {
       "igdb_id": 315847,
       "game_name": "Yedesna Shoots 2",
       "file": "missing/Y/315847-yedesna-shoots-2.json"
@@ -163596,6 +163836,16 @@
       "igdb_id": 69279,
       "game_name": "Yummy Yummy Cooking Jam",
       "file": "missing/Y/69279-yummy-yummy-cooking-jam.json"
+    },
+    {
+      "igdb_id": 386122,
+      "game_name": "Yummyland Solitaire",
+      "file": "missing/Y/386122-yummyland-solitaire.json"
+    },
+    {
+      "igdb_id": 386130,
+      "game_name": "Yummyland Solitaire 2",
+      "file": "missing/Y/386130-yummyland-solitaire-2.json"
     },
     {
       "igdb_id": 146306,
