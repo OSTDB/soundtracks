@@ -684,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiddenverse: Divided Kingdom | 223140 | [223140-hiddenverse-divided-kingdom.json](./223140-hiddenverse-divided-kingdom.json) |
 | Hiddenverse: Ominous Opus | 156677 | [156677-hiddenverse-ominous-opus.json](./156677-hiddenverse-ominous-opus.json) |
 | Hiddenverse: The Iron Tower | 209652 | [209652-hiddenverse-the-iron-tower.json](./209652-hiddenverse-the-iron-tower.json) |
+| Hide and Moo! | 414286 | [414286-hide-and-moo.json](./414286-hide-and-moo.json) |
 | Hide and Secret Treasure of the Ages | 32874 | [32874-hide-and-secret-treasure-of-the-ages.json](./32874-hide-and-secret-treasure-of-the-ages.json) |
 | Hide and Secret: Pharaoh's Quest | 88264 | [88264-hide-and-secret-pharaohs-quest.json](./88264-hide-and-secret-pharaohs-quest.json) |
 | Hide and Seek | 275354 | [275354-hide-and-seek.json](./275354-hide-and-seek.json) |
