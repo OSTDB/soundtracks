@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Blaster | 126617 | [126617-dangerous-blaster.json](./126617-dangerous-blaster.json) |
 | Dangerous Coins | 278706 | [278706-dangerous-coins.json](./278706-dangerous-coins.json) |
 | Dangerous Village Tradition | 273660 | [273660-dangerous-village-tradition.json](./273660-dangerous-village-tradition.json) |
+| Danju | 410238 | [410238-danju.json](./410238-danju.json) |
 | DanLab's Golf | 315825 | [315825-danlabs-golf.json](./315825-danlabs-golf.json) |
 | Danmakai: Red Forbidden Fruit | 140040 | [140040-danmakai-red-forbidden-fruit.json](./140040-danmakai-red-forbidden-fruit.json) |
 | Danmaku Juuenka: Danmaku Card Battle | 215365 | [215365-danmaku-juuenka-danmaku-card-battle.json](./215365-danmaku-juuenka-danmaku-card-battle.json) |
@@ -1285,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoReMi Fantasy: Milon's DokiDoki Adventure | 15908 | [15908-doremi-fantasy-milons-dokidoki-adventure.json](./15908-doremi-fantasy-milons-dokidoki-adventure.json) |
 | Dormant | 313496 | [313496-dormant.json](./313496-dormant.json) |
 | Dormitabis | 230514 | [230514-dormitabis.json](./230514-dormitabis.json) |
+| Dorothy's Magical Journey in Oz | 410213 | [410213-dorothys-magical-journey-in-oz.json](./410213-dorothys-magical-journey-in-oz.json) |
 | Dosukoi Slime | 322998 | [322998-dosukoi-slime.json](./322998-dosukoi-slime.json) |
 | Dot Clicker | 411575 | [411575-dot-clicker.json](./411575-dot-clicker.json) |
 | Dot Ninja | 179183 | [179183-dot-ninja.json](./179183-dot-ninja.json) |
@@ -1618,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop & Smash | 227483 | [227483-drop-and-smash.json](./227483-drop-and-smash.json) |
 | Droplet | 176483 | [176483-droplet.json](./176483-droplet.json) |
 | Droplet | 314678 | [314678-droplet.json](./314678-droplet.json) |
+| Dropoff | 410269 | [410269-dropoff.json](./410269-dropoff.json) |
 | DropZone | 19546 | [19546-dropzone.json](./19546-dropzone.json) |
 | Drowning Cross | 119750 | [119750-drowning-cross.json](./119750-drowning-cross.json) |
 | Drug Grower Simulator | 217508 | [217508-drug-grower-simulator.json](./217508-drug-grower-simulator.json) |
