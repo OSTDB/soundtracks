@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harborland de Tsukamaete | 317009 | [317009-harborland-de-tsukamaete.json](./317009-harborland-de-tsukamaete.json) |
 | Hard Ball Wikie | 196890 | [196890-hard-ball-wikie.json](./196890-hard-ball-wikie.json) |
 | Hard Days | 267087 | [267087-hard-days.json](./267087-hard-days.json) |
+| Hard Drive | 381627 | [381627-hard-drive.json](./381627-hard-drive.json) |
 | Hard Glide | 189186 | [189186-hard-glide.json](./189186-hard-glide.json) |
 | Hard Helmets | 99596 | [99596-hard-helmets.json](./99596-hard-helmets.json) |
 | Hard Knock High | 43350 | [43350-hard-knock-high.json](./43350-hard-knock-high.json) |
@@ -759,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highrise | 292832 | [292832-highrise.json](./292832-highrise.json) |
 | Highrise City | 147440 | [147440-highrise-city.json](./147440-highrise-city.json) |
 | Highscore Processing Unit | 99645 | [99645-highscore-processing-unit.json](./99645-highscore-processing-unit.json) |
+| Highway Noir | 381605 | [381605-highway-noir.json](./381605-highway-noir.json) |
 | Highway of death | 112998 | [112998-highway-of-death.json](./112998-highway-of-death.json) |
 | Highway Rider | 86999 | [86999-highway-rider.json](./86999-highway-rider.json) |
 | Highway Roads Racer | 390499 | [390499-highway-roads-racer.json](./390499-highway-roads-racer.json) |
