@@ -986,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shutter Stroll | 134671 | [134671-shutter-stroll.json](./134671-shutter-stroll.json) |
 | Shuuchaku Gakuen | 335668 | [335668-shuuchaku-gakuen.json](./335668-shuuchaku-gakuen.json) |
 | Shuusou Gyoku | 123608 | [123608-shuusou-gyoku.json](./123608-shuusou-gyoku.json) |
+| Shy Cats Hidden Orchestra 2 | 409556 | [409556-shy-cats-hidden-orchestra-2.json](./409556-shy-cats-hidden-orchestra-2.json) |
 | Shy Dogs Hidden Orchestra | 258215 | [258215-shy-dogs-hidden-orchestra.json](./258215-shy-dogs-hidden-orchestra.json) |
 | Shyftrs | 205793 | [205793-shyftrs.json](./205793-shyftrs.json) |
 | Siam Twinstick | 111714 | [111714-siam-twinstick.json](./111714-siam-twinstick.json) |
@@ -1311,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice 'Em Up! | 185130 | [185130-slice-em-up.json](./185130-slice-em-up.json) |
 | Slice It! | 147957 | [147957-slice-it.json](./147957-slice-it.json) |
 | Slice N' Hook | 67335 | [67335-slice-n-hook.json](./67335-slice-n-hook.json) |
+| Slice To Meet You | 409583 | [409583-slice-to-meet-you.json](./409583-slice-to-meet-you.json) |
 | Slicy Flips | 322977 | [322977-slicy-flips.json](./322977-slicy-flips.json) |
 | SlideNSlip | 166774 | [166774-slidenslip.json](./166774-slidenslip.json) |
 | Sliding Puzzle 2018 | 104645 | [104645-sliding-puzzle-2018.json](./104645-sliding-puzzle-2018.json) |
@@ -1356,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slobbish Dragon Princess 3 | 240480 | [240480-slobbish-dragon-princess-3.json](./240480-slobbish-dragon-princess-3.json) |
 | Slobbish Dragon Princess Love + Plus | 153460 | [153460-slobbish-dragon-princess-love-plus.json](./153460-slobbish-dragon-princess-love-plus.json) |
 | Slope | 264867 | [264867-slope.json](./264867-slope.json) |
+| Slot & Learn Hangul | 409555 | [409555-slot-and-learn-hangul.json](./409555-slot-and-learn-hangul.json) |
 | Slot Car HTR+ : 3D Simulation | 239896 | [239896-slot-car-htr-3d-simulation.json](./239896-slot-car-htr-3d-simulation.json) |
 | Slot Waste | 306706 | [306706-slot-waste.json](./306706-slot-waste.json) |
 | Slots of Poker at Aces Casino | 147974 | [147974-slots-of-poker-at-aces-casino.json](./147974-slots-of-poker-at-aces-casino.json) |
@@ -1620,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soletrando: Nova Ortografia | 181940 | [181940-soletrando-nova-ortografia.json](./181940-soletrando-nova-ortografia.json) |
 | SolForge | 16487 | [16487-solforge.json](./16487-solforge.json) |
 | Solidarność | 318229 | [318229-solidarnosc.json](./318229-solidarnosc.json) |
+| Solipsistic | 409582 | [409582-solipsistic.json](./409582-solipsistic.json) |
 | Solitaire | 246627 | [246627-solitaire.json](./246627-solitaire.json) |
 | Solitaire City | 76589 | [76589-solitaire-city.json](./76589-solitaire-city.json) |
 | Solitaire Classic | 277564 | [277564-solitaire-classic.json](./277564-solitaire-classic.json) |
