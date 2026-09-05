@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kari Gurashi Ren'ai | 97347 | [97347-kari-gurashi-renai.json](./97347-kari-gurashi-renai.json) |
 | Karoshi Mario | 275323 | [275323-karoshi-mario.json](./275323-karoshi-mario.json) |
 | Karpar | 214750 | [214750-karpar.json](./214750-karpar.json) |
+| Kart Chaser: The Boost VR | 29686 | [29686-kart-chaser-the-boost-vr.json](./29686-kart-chaser-the-boost-vr.json) |
 | Kart Racing 3D - Top Car Racer Chaser Action Rally | 101568 | [101568-kart-racing-3d-top-car-racer-chaser-action-rally.json](./101568-kart-racing-3d-top-car-racer-chaser-action-rally.json) |
 | KartKraft | 34354 | [34354-kartkraft.json](./34354-kartkraft.json) |
 | KartRider: Drift | 125626 | [125626-kartrider-drift.json](./125626-kartrider-drift.json) |
