@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plant Game | 405518 | [405518-plant-game.json](./405518-plant-game.json) |
 | Plant Therapy: Plush and Pots Pack | 316403 | [316403-plant-therapy-plush-and-pots-pack.json](./316403-plant-therapy-plush-and-pots-pack.json) |
 | Plantan | 110330 | [110330-plantan.json](./110330-plantan.json) |
+| Planted! | 398336 | [398336-planted.json](./398336-planted.json) |
 | Planth Care | 181356 | [181356-planth-care.json](./181356-planth-care.json) |
 | Plants vs. Zombies 2: Into the Storm | 272546 | [272546-plants-vs-zombies-2-into-the-storm.json](./272546-plants-vs-zombies-2-into-the-storm.json) |
 | Plants vs. Zombies: Replanted | 358529 | [358529-plants-vs-zombies-replanted.json](./358529-plants-vs-zombies-replanted.json) |
