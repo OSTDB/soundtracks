@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead TrailZ | 35753 | [35753-dead-trailz.json](./35753-dead-trailz.json) |
 | Dead Witch in Night Sky | 394161 | [394161-dead-witch-in-night-sky.json](./394161-dead-witch-in-night-sky.json) |
 | Dead Years | 19582 | [19582-dead-years.json](./19582-dead-years.json) |
+| Dead Zed | 388038 | [388038-dead-zed.json](./388038-dead-zed.json) |
 | Dead Zone | 203555 | [203555-dead-zone.json](./203555-dead-zone.json) |
 | Dead Zone Defense | 304897 | [304897-dead-zone-defense.json](./304897-dead-zone-defense.json) |
 | Deadbait | 161381 | [161381-deadbait.json](./161381-deadbait.json) |
