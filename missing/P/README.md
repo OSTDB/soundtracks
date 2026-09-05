@@ -1164,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polegli | 57115 | [57115-polegli.json](./57115-polegli.json) |
 | Police Car SUV Simulator | 256563 | [256563-police-car-suv-simulator.json](./256563-police-car-suv-simulator.json) |
 | Police on Duty | 209656 | [209656-police-on-duty.json](./209656-police-on-duty.json) |
+| Police Patrol SImulator | 383394 | [383394-police-patrol-simulator.json](./383394-police-patrol-simulator.json) |
 | Police Quest Collection | 32278 | [32278-police-quest-collection.json](./32278-police-quest-collection.json) |
 | Police Simulator: Patrol Officers - Gold Edition | 293933 | [293933-police-simulator-patrol-officers-gold-edition.json](./293933-police-simulator-patrol-officers-gold-edition.json) |
 | Police Station Cop Inc: Tycoon | 174884 | [174884-police-station-cop-inc-tycoon.json](./174884-police-station-cop-inc-tycoon.json) |
@@ -1673,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psyvariar 2: Ultimate Final | 43346 | [43346-psyvariar-2-ultimate-final.json](./43346-psyvariar-2-ultimate-final.json) |
 | Psyvariar: Complete Edition | 43351 | [43351-psyvariar-complete-edition.json](./43351-psyvariar-complete-edition.json) |
 | Pteroglider | 93590 | [93590-pteroglider.json](./93590-pteroglider.json) |
+| PTS: Coach | 383395 | [383395-pts-coach.json](./383395-pts-coach.json) |
 | Pub Games | 399605 | [399605-pub-games.json](./399605-pub-games.json) |
 | Pub Mania | 325247 | [325247-pub-mania.json](./325247-pub-mania.json) |
 | Pub Sim | 311277 | [311277-pub-sim.json](./311277-pub-sim.json) |
