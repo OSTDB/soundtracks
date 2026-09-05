@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neurokino Retrograde | 321120 | [321120-neurokino-retrograde.json](./321120-neurokino-retrograde.json) |
 | NeuroReal VR | 100819 | [100819-neuroreal-vr.json](./100819-neuroreal-vr.json) |
 | Neurose Neurones | 310766 | [310766-neurose-neurones.json](./310766-neurose-neurones.json) |
+| Neuroslop | 409579 | [409579-neuroslop.json](./409579-neuroslop.json) |
 | Neutrois | 183580 | [183580-neutrois.json](./183580-neutrois.json) |
 | Never Alone: Arctic Collection | 46702 | [46702-never-alone-arctic-collection.json](./46702-never-alone-arctic-collection.json) |
 | Never Alone: Kisima Ingitchuna | 7618 | [7618-never-alone-kisima-ingitchuna.json](./7618-never-alone-kisima-ingitchuna.json) |
