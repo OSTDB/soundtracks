@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Building Simulator: IT Expansion | 250032 | [250032-pc-building-simulator-it-expansion.json](./250032-pc-building-simulator-it-expansion.json) |
 | PC Creator: PC Building Simulator | 186329 | [186329-pc-creator-pc-building-simulator.json](./186329-pc-creator-pc-building-simulator.json) |
 | PC Fútbol 2000 | 78034 | [78034-pc-futbol-2000.json](./78034-pc-futbol-2000.json) |
+| PC Versus | 391571 | [391571-pc-versus.json](./391571-pc-versus.json) |
 | PC_001 | 170535 | [170535-pc-001.json](./170535-pc-001.json) |
 | Peace Maker VR | 200717 | [200717-peace-maker-vr.json](./200717-peace-maker-vr.json) |
 | Peace of Evil | 118395 | [118395-peace-of-evil.json](./118395-peace-of-evil.json) |
@@ -1175,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pomo Post | 319389 | [319389-pomo-post.json](./319389-pomo-post.json) |
 | Pompeii | 40774 | [40774-pompeii.json](./40774-pompeii.json) |
 | Pompom | 173842 | [173842-pompom.json](./173842-pompom.json) |
+| Ponchorado | 391593 | [391593-ponchorado.json](./391593-ponchorado.json) |
 | Pong - Old School | 86705 | [86705-pong-old-school.json](./86705-pong-old-school.json) |
 | Pong Champion VR | 31944 | [31944-pong-champion-vr.json](./31944-pong-champion-vr.json) |
 | Pong Kombat | 73326 | [73326-pong-kombat.json](./73326-pong-kombat.json) |
@@ -1188,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony Card Match HD | 96740 | [96740-pony-card-match-hd.json](./96740-pony-card-match-hd.json) |
 | Pony Sisters Pet Hospital | 101584 | [101584-pony-sisters-pet-hospital.json](./101584-pony-sisters-pet-hospital.json) |
 | Poo Pusher | 309690 | [309690-poo-pusher.json](./309690-poo-pusher.json) |
+| Poodle Kick | 391608 | [391608-poodle-kick.json](./391608-poodle-kick.json) |
 | Poogers | 223131 | [223131-poogers.json](./223131-poogers.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Definitive Edition | 400201 | [400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json](./400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json) |
 | Pool Adventure | 191221 | [191221-pool-adventure.json](./191221-pool-adventure.json) |
