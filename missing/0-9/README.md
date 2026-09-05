@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Ball Pool | 39185 | [39185-8-ball-pool.json](./39185-8-ball-pool.json) |
 | 8 Bit Armies: Limited Edition | 185707 | [185707-8-bit-armies-limited-edition.json](./185707-8-bit-armies-limited-edition.json) |
 | 8 Queens | 112358 | [112358-8-queens.json](./112358-8-queens.json) |
+| 8-Hour Workday | 399003 | [399003-8-hour-workday.json](./399003-8-hour-workday.json) |
 | 80.08 | 54444 | [54444-80-08.json](./54444-80-08.json) |
 | 80S escape | 132231 | [132231-80s-escape.json](./132231-80s-escape.json) |
 | 81diver | 269321 | [269321-81diver.json](./269321-81diver.json) |
