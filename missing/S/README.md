@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanguine | 260425 | [260425-sanguine.json](./260425-sanguine.json) |
 | Sanguine Holy Land | 299431 | [299431-sanguine-holy-land.json](./299431-sanguine-holy-land.json) |
 | Sanguo | 113003 | [113003-sanguo.json](./113003-sanguo.json) |
+| Sānguó Qúnyīng Lù | 407319 | [407319-sanguo-qunying-lu.json](./407319-sanguo-qunying-lu.json) |
 | Sānguó Yóuxiá Zhì | 83569 | [83569-sanguo-youxia-zhi.json](./83569-sanguo-youxia-zhi.json) |
 | Sānguó: 223 | 257678 | [257678-sanguo-223.json](./257678-sanguo-223.json) |
 | Sanity of Morris | 137638 | [137638-sanity-of-morris.json](./137638-sanity-of-morris.json) |
@@ -1959,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fox Kimi and the Interstellar Fortress | 171589 | [171589-space-fox-kimi-and-the-interstellar-fortress.json](./171589-space-fox-kimi-and-the-interstellar-fortress.json) |
 | Space Fuss | 31387 | [31387-space-fuss.json](./31387-space-fuss.json) |
 | Space Garbage | 277600 | [277600-space-garbage.json](./277600-space-garbage.json) |
+| Space Gnomes | 407315 | [407315-space-gnomes.json](./407315-space-gnomes.json) |
 | Space Gray X | 304861 | [304861-space-gray-x.json](./304861-space-gray-x.json) |
 | Space Griffon | 20661 | [20661-space-griffon.json](./20661-space-griffon.json) |
 | Space Grunts 2 | 121004 | [121004-space-grunts-2.json](./121004-space-grunts-2.json) |
@@ -2353,6 +2355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Connect | 233737 | [233737-star-connect.json](./233737-star-connect.json) |
 | Star Control: Origins | 25311 | [25311-star-control-origins.json](./25311-star-control-origins.json) |
 | Star Control: Origins - Multiverse | 124805 | [124805-star-control-origins-multiverse.json](./124805-star-control-origins-multiverse.json) |
+| Star Cosmic | 407309 | [407309-star-cosmic.json](./407309-star-cosmic.json) |
 | Star Crew | 329938 | [329938-star-crew.json](./329938-star-crew.json) |
 | Star Cruiser | 265968 | [265968-star-cruiser.json](./265968-star-cruiser.json) |
 | Star Crusade CCG | 16469 | [16469-star-crusade-ccg.json](./16469-star-crusade-ccg.json) |
