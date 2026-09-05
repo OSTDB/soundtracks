@@ -364,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Jigsaw Puzzle Games: Expansion Pack 4 | 263211 | [263211-cat-jigsaw-puzzle-games-expansion-pack-4.json](./263211-cat-jigsaw-puzzle-games-expansion-pack-4.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 7 | 263214 | [263214-cat-jigsaw-puzzle-games-expansion-pack-7.json](./263214-cat-jigsaw-puzzle-games-expansion-pack-7.json) |
 | Cat Life | 230525 | [230525-cat-life.json](./230525-cat-life.json) |
+| Cat Meat | 32911 | [32911-cat-meat.json](./32911-cat-meat.json) |
 | Cat Simulator 2015 | 87780 | [87780-cat-simulator-2015.json](./87780-cat-simulator-2015.json) |
 | Cat Sokoban | 135868 | [135868-cat-sokoban.json](./135868-cat-sokoban.json) |
 | Cat vs. Corgis | 54448 | [54448-cat-vs-corgis.json](./54448-cat-vs-corgis.json) |
@@ -387,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | catAnod | 96429 | [96429-catanod.json](./96429-catanod.json) |
 | Catapult Battle Simulator! | 122399 | [122399-catapult-battle-simulator.json](./122399-catapult-battle-simulator.json) |
 | Catass | 254758 | [254758-catass.json](./254758-catass.json) |
+| Catch Canvas | 33095 | [33095-catch-canvas.json](./33095-catch-canvas.json) |
 | Catch Idle: Dimension Warp Story | 208038 | [208038-catch-idle-dimension-warp-story.json](./208038-catch-idle-dimension-warp-story.json) |
 | Catch Me If You Can | 143716 | [143716-catch-me-if-you-can.json](./143716-catch-me-if-you-can.json) |
 | Catch Pokémon | 341322 | [341322-catch-pokemon.json](./341322-catch-pokemon.json) |
@@ -574,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernobyl | 228687 | [228687-chernobyl.json](./228687-chernobyl.json) |
 | Chernobyl: Road of Death | 122380 | [122380-chernobyl-road-of-death.json](./122380-chernobyl-road-of-death.json) |
 | Cherry Blossom Portable | 56471 | [56471-cherry-blossom-portable.json](./56471-cherry-blossom-portable.json) |
+| Cherry Tree High Girls' Fight | 33094 | [33094-cherry-tree-high-girls-fight.json](./33094-cherry-tree-high-girls-fight.json) |
 | Cherry VX | 161380 | [161380-cherry-vx.json](./161380-cherry-vx.json) |
 | Cherrywitched! | 246070 | [246070-cherrywitched.json](./246070-cherrywitched.json) |
 | Chesh | 15551 | [15551-chesh.json](./15551-chesh.json) |
@@ -794,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Church Simulator | 312878 | [312878-church-simulator.json](./312878-church-simulator.json) |
 | Churip | 316993 | [316993-churip.json](./316993-churip.json) |
 | Chushpan Simulator 2 | 309682 | [309682-chushpan-simulator-2.json](./309682-chushpan-simulator-2.json) |
+| ChuSingura46+1 S | 32917 | [32917-chusingura46-1-s.json](./32917-chusingura46-1-s.json) |
 | Chuzzle Deluxe | 27748 | [27748-chuzzle-deluxe.json](./27748-chuzzle-deluxe.json) |
 | Chuzzo | 316413 | [316413-chuzzo.json](./316413-chuzzo.json) |
 | Ciconia When They Cry: Phase 2 | 273097 | [273097-ciconia-when-they-cry-phase-2.json](./273097-ciconia-when-they-cry-phase-2.json) |
@@ -1825,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Travels: Sunken City | 202421 | [202421-cursed-travels-sunken-city.json](./202421-cursed-travels-sunken-city.json) |
 | Cursed Travels: The Shattered Labyrinth | 179718 | [179718-cursed-travels-the-shattered-labyrinth.json](./179718-cursed-travels-the-shattered-labyrinth.json) |
 | Cursed Treasure: Don't Touch My Gems! | 141844 | [141844-cursed-treasure-dont-touch-my-gems.json](./141844-cursed-treasure-dont-touch-my-gems.json) |
+| Cursor Challenge | 33120 | [33120-cursor-challenge.json](./33120-cursor-challenge.json) |
 | Custer's Revenge | 8529 | [8529-custers-revenge.json](./8529-custers-revenge.json) |
 | Custer's Revenge in Gensoukyou | 98448 | [98448-custers-revenge-in-gensoukyou.json](./98448-custers-revenge-in-gensoukyou.json) |
 | Custodial | 179742 | [179742-custodial.json](./179742-custodial.json) |
