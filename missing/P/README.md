@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Par 1 Golf 10 | 200181 | [200181-par-1-golf-10.json](./200181-par-1-golf-10.json) |
 | Para-sol | 309651 | [309651-para-sol.json](./309651-para-sol.json) |
 | Parachute Ninja | 232671 | [232671-parachute-ninja.json](./232671-parachute-ninja.json) |
+| Paracom | 384535 | [384535-paracom.json](./384535-paracom.json) |
 | Paradigm Overhaul | 291762 | [291762-paradigm-overhaul.json](./291762-paradigm-overhaul.json) |
 | Paradigmfetish | 223137 | [223137-paradigmfetish.json](./223137-paradigmfetish.json) |
 | Paradise | 20527 | [20527-paradise.json](./20527-paradise.json) |
@@ -232,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasol Stars: Rainbow Islands 2 | 39027 | [39027-parasol-stars-rainbow-islands-2.json](./39027-parasol-stars-rainbow-islands-2.json) |
 | Paratroopers | 24986 | [24986-paratroopers.json](./24986-paratroopers.json) |
 | Parchis Club | 204683 | [204683-parchis-club.json](./204683-parchis-club.json) |
+| Pari Delicto | 384531 | [384531-pari-delicto.json](./384531-pari-delicto.json) |
 | Paris Belle Epoque | 303270 | [303270-paris-belle-epoque.json](./303270-paris-belle-epoque.json) |
 | Paris Transylvania | 258189 | [258189-paris-transylvania.json](./258189-paris-transylvania.json) |
 | Paris: Jigsaw Puzzles | 104078 | [104078-paris-jigsaw-puzzles.json](./104078-paris-jigsaw-puzzles.json) |
@@ -626,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piano: Learn and Play - Ultra Director's Cut | 328828 | [328828-piano-learn-and-play-ultra-directors-cut.json](./328828-piano-learn-and-play-ultra-directors-cut.json) |
 | Piāomiǎo Xī Yóu | 407318 | [407318-piaomiao-xi-you.json](./407318-piaomiao-xi-you.json) |
 | Piccadilly's Puzzle Museum | 126015 | [126015-piccadillys-puzzle-museum.json](./126015-piccadillys-puzzle-museum.json) |
+| Pichenette | 384530 | [384530-pichenette.json](./384530-pichenette.json) |
 | Pick & Match | 87223 | [87223-pick-and-match.json](./87223-pick-and-match.json) |
 | Pick & Place | 402298 | [402298-pick-and-place.json](./402298-pick-and-place.json) |
 | Pick a Boo | 406116 | [406116-pick-a-boo.json](./406116-pick-a-boo.json) |
@@ -1198,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pompeii | 40774 | [40774-pompeii.json](./40774-pompeii.json) |
 | Pompom | 173842 | [173842-pompom.json](./173842-pompom.json) |
 | Ponchorado | 391593 | [391593-ponchorado.json](./391593-ponchorado.json) |
+| Pondlife | 384543 | [384543-pondlife.json](./384543-pondlife.json) |
 | Pong - Old School | 86705 | [86705-pong-old-school.json](./86705-pong-old-school.json) |
 | Pong Champion VR | 31944 | [31944-pong-champion-vr.json](./31944-pong-champion-vr.json) |
 | Pong Kombat | 73326 | [73326-pong-kombat.json](./73326-pong-kombat.json) |
@@ -1361,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Preschool & Kindergarten Games | 88268 | [88268-preschool-and-kindergarten-games.json](./88268-preschool-and-kindergarten-games.json) |
 | Presence | 124269 | [124269-presence.json](./124269-presence.json) |
 | Present Panic!: A Princess Adventure | 269877 | [269877-present-panic-a-princess-adventure.json](./269877-present-panic-a-princess-adventure.json) |
+| Presentfall: Santa Defense | 384521 | [384521-presentfall-santa-defense.json](./384521-presentfall-santa-defense.json) |
 | Presentiment of Death | 241650 | [241650-presentiment-of-death.json](./241650-presentiment-of-death.json) |
 | President | 93038 | [93038-president.json](./93038-president.json) |
 | Press Any Button | 143596 | [143596-press-any-button.json](./143596-press-any-button.json) |
@@ -1773,6 +1778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition | 85357 | [85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json](./85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json) |
 | Puzzle Adventures | 251813 | [251813-puzzle-adventures.json](./251813-puzzle-adventures.json) |
 | Puzzle Arcade | 74420 | [74420-puzzle-arcade.json](./74420-puzzle-arcade.json) |
+| Puzzle Ball Z | 384509 | [384509-puzzle-ball-z.json](./384509-puzzle-ball-z.json) |
 | Puzzle Bear | 121019 | [121019-puzzle-bear.json](./121019-puzzle-bear.json) |
 | Puzzle Block Blast | 221382 | [221382-puzzle-block-blast.json](./221382-puzzle-block-blast.json) |
 | Puzzle Boys | 41393 | [41393-puzzle-boys.json](./41393-puzzle-boys.json) |
