@@ -19,6 +19,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 2016 | 19405 | [19405-f1-2016.json](./19405-f1-2016.json) |
 | F1 2019 | 116667 | [116667-f1-2019.json](./116667-f1-2019.json) |
 | F1 22 | 198200 | [198200-f1-22.json](./198200-f1-22.json) |
+| F1 25: 2026 Season Edition | 408775 | [408775-f1-25-2026-season-edition.json](./408775-f1-25-2026-season-edition.json) |
+| F1 25: 2026 Season Pack | 408774 | [408774-f1-25-2026-season-pack.json](./408774-f1-25-2026-season-pack.json) |
 | F1 Championship Season 2000 | 690 | [690-f1-championship-season-2000.json](./690-f1-championship-season-2000.json) |
 | F1 Circus MD | 125458 | [125458-f1-circus-md.json](./125458-f1-circus-md.json) |
 | F1 Manager 2023 | 247383 | [247383-f1-manager-2023.json](./247383-f1-manager-2023.json) |
