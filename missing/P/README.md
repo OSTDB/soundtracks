@@ -650,8 +650,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picronix 2 | 390503 | [390503-picronix-2.json](./390503-picronix-2.json) |
 | Picross e3 | 62913 | [62913-picross-e3.json](./62913-picross-e3.json) |
 | Picross Fairytale | 102879 | [102879-picross-fairytale.json](./102879-picross-fairytale.json) |
+| Picross S Capcom Classics Edition | 378164 | [378164-picross-s-capcom-classics-edition.json](./378164-picross-s-capcom-classics-edition.json) |
 | Picross S Konami Antiques Edition | 395594 | [395594-picross-s-konami-antiques-edition.json](./395594-picross-s-konami-antiques-edition.json) |
 | Picross S Namco Legendary Edition | 302101 | [302101-picross-s-namco-legendary-edition.json](./302101-picross-s-namco-legendary-edition.json) |
+| Picross S SNK Classics & Neo Geo Edition | 378165 | [378165-picross-s-snk-classics-and-neo-geo-edition.json](./378165-picross-s-snk-classics-and-neo-geo-edition.json) |
 | Picross S3 | 117501 | [117501-picross-s3.json](./117501-picross-s3.json) |
 | Picross S4 | 132828 | [132828-picross-s4.json](./132828-picross-s4.json) |
 | Picross: Lord of the Nazarick | 120899 | [120899-picross-lord-of-the-nazarick.json](./120899-picross-lord-of-the-nazarick.json) |
@@ -1468,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Lesson with My Lover Teacher 2 | 382782 | [382782-private-lesson-with-my-lover-teacher-2.json](./382782-private-lesson-with-my-lover-teacher-2.json) |
 | Private School Days | 89760 | [89760-private-school-days.json](./89760-private-school-days.json) |
 | Prizefighters | 239914 | [239914-prizefighters.json](./239914-prizefighters.json) |
+| Prizma Puzzle Classic | 378184 | [378184-prizma-puzzle-classic.json](./378184-prizma-puzzle-classic.json) |
 | Pro Cycling 2009 | 68004 | [68004-pro-cycling-2009.json](./68004-pro-cycling-2009.json) |
 | Pro Cycling Manager 2010 | 67311 | [67311-pro-cycling-manager-2010.json](./67311-pro-cycling-manager-2010.json) |
 | Pro Darts | 49953 | [49953-pro-darts.json](./49953-pro-darts.json) |
