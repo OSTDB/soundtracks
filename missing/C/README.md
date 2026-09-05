@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cedric & Odious | 328270 | [328270-cedric-and-odious.json](./328270-cedric-and-odious.json) |
 | Cel Damage 2 | 143110 | [143110-cel-damage-2.json](./143110-cel-damage-2.json) |
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
+| Celestial Fragments | 396219 | [396219-celestial-fragments.json](./396219-celestial-fragments.json) |
 | Celestial Heights | 180820 | [180820-celestial-heights.json](./180820-celestial-heights.json) |
 | Celestial Temple | 402888 | [402888-celestial-temple.json](./402888-celestial-temple.json) |
 | Celestial Trails | 322975 | [322975-celestial-trails.json](./322975-celestial-trails.json) |
@@ -1543,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CozyTyper | 209678 | [209678-cozytyper.json](./209678-cozytyper.json) |
 | CPU Invaders: Aim Hero | 413665 | [413665-cpu-invaders-aim-hero.json](./413665-cpu-invaders-aim-hero.json) |
 | CPU Invaders: Micro Spheres | 413658 | [413658-cpu-invaders-micro-spheres.json](./413658-cpu-invaders-micro-spheres.json) |
+| CPU Invaders: Movie Attack | 396210 | [396210-cpu-invaders-movie-attack.json](./396210-cpu-invaders-movie-attack.json) |
 | CR Godzilla 3S-T Battle | 75894 | [75894-cr-godzilla-3s-t-battle.json](./75894-cr-godzilla-3s-t-battle.json) |
 | CR Shinseiki Evangelion: Shito, Futatabi | 78729 | [78729-cr-shinseiki-evangelion-shito-futatabi.json](./78729-cr-shinseiki-evangelion-shito-futatabi.json) |
 | Cr1me Fr0g | 218147 | [218147-cr1me-fr0g.json](./218147-cr1me-fr0g.json) |
