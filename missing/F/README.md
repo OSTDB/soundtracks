@@ -1064,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Survival | 381032 | [381032-forest-survival.json](./381032-forest-survival.json) |
 | Forest Time | 373517 | [373517-forest-time.json](./373517-forest-time.json) |
 | Forest Whiskers | 383948 | [383948-forest-whiskers.json](./383948-forest-whiskers.json) |
+| Forest: The Call For Help | 370702 | [370702-forest-the-call-for-help.json](./370702-forest-the-call-for-help.json) |
 | Forestry | 29950 | [29950-forestry.json](./29950-forestry.json) |
 | Foretales: Deluxe Edition | 218690 | [218690-foretales-deluxe-edition.json](./218690-foretales-deluxe-edition.json) |
 | Forever Quester | 243957 | [243957-forever-quester.json](./243957-forever-quester.json) |
