@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Zone | 78032 | [78032-tetris-zone.json](./78032-tetris-zone.json) |
 | Tetrogue | 413659 | [413659-tetrogue.json](./413659-tetrogue.json) |
 | Tetromino X | 190227 | [190227-tetromino-x.json](./190227-tetromino-x.json) |
+| TetroMosaic, Unicorn | 378785 | [378785-tetromosaic-unicorn.json](./378785-tetromosaic-unicorn.json) |
 | Tetron | 153411 | [153411-tetron.json](./153411-tetron.json) |
 | Tetsu-pipe de Suika-wari | 220315 | [220315-tetsu-pipe-de-suika-wari.json](./220315-tetsu-pipe-de-suika-wari.json) |
 | Tetsudou Nippon! Rosen Tabi: Aizu Tetsudou‑hen | 221946 | [221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json](./221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json) |
@@ -684,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beardless Wizard | 54437 | [54437-the-beardless-wizard.json](./54437-the-beardless-wizard.json) |
 | The Beast | 100210 | [100210-the-beast.json](./100210-the-beast.json) |
 | The Beast of the Rosewood | 302134 | [302134-the-beast-of-the-rosewood.json](./302134-the-beast-of-the-rosewood.json) |
+| The Bee Hive | 378786 | [378786-the-bee-hive.json](./378786-the-bee-hive.json) |
 | The Beginning of the End | 58853 | [58853-the-beginning-of-the-end.json](./58853-the-beginning-of-the-end.json) |
 | The Bend | 172719 | [172719-the-bend.json](./172719-the-bend.json) |
 | The Berenstain Bears: Learning At Home, Volume One | 71548 | [71548-the-berenstain-bears-learning-at-home-volume-one.json](./71548-the-berenstain-bears-learning-at-home-volume-one.json) |
@@ -1356,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Wulin | 156148 | [156148-the-last-wulin.json](./156148-the-last-wulin.json) |
 | The Late D. Flate's Great Estate | 188090 | [188090-the-late-d-flates-great-estate.json](./188090-the-late-d-flates-great-estate.json) |
 | The Lattice Grimoire | 120396 | [120396-the-lattice-grimoire.json](./120396-the-lattice-grimoire.json) |
+| The Legacy | 378776 | [378776-the-legacy.json](./378776-the-legacy.json) |
 | The Legacy of Lunatic Omsk | 321748 | [321748-the-legacy-of-lunatic-omsk.json](./321748-the-legacy-of-lunatic-omsk.json) |
 | The Legend of Arcadieu | 126635 | [126635-the-legend-of-arcadieu.json](./126635-the-legend-of-arcadieu.json) |
 | The Legend of Azarias Rebirth | 294994 | [294994-the-legend-of-azarias-rebirth.json](./294994-the-legend-of-azarias-rebirth.json) |
