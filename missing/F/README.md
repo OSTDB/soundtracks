@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 22: Pumps n' Hoses Pack | 210271 | [210271-farming-simulator-22-pumps-n-hoses-pack.json](./210271-farming-simulator-22-pumps-n-hoses-pack.json) |
 | Farming Simulator 22: Vermeer Pack | 210269 | [210269-farming-simulator-22-vermeer-pack.json](./210269-farming-simulator-22-vermeer-pack.json) |
 | Farming World: Jam Factory | 238724 | [238724-farming-world-jam-factory.json](./238724-farming-world-jam-factory.json) |
+| Farmnana Defence | 404863 | [404863-farmnana-defence.json](./404863-farmnana-defence.json) |
 | FarmVille: Tropic Escape | 87574 | [87574-farmville-tropic-escape.json](./87574-farmville-tropic-escape.json) |
 | Farrealm: The Prince of Winds | 120427 | [120427-farrealm-the-prince-of-winds.json](./120427-farrealm-the-prince-of-winds.json) |
 | Fart Hotel | 243967 | [243967-fart-hotel.json](./243967-fart-hotel.json) |
@@ -462,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight of Animals | 127088 | [127088-fight-of-animals.json](./127088-fight-of-animals.json) |
 | Fight or Die | 29974 | [29974-fight-or-die.json](./29974-fight-or-die.json) |
 | Fight Plane | 235471 | [235471-fight-plane.json](./235471-fight-plane.json) |
+| Fight Poker | 404832 | [404832-fight-poker.json](./404832-fight-poker.json) |
 | Fight Tennis | 321769 | [321769-fight-tennis.json](./321769-fight-tennis.json) |
 | Fight the Dracula! | 229357 | [229357-fight-the-dracula.json](./229357-fight-the-dracula.json) |
 | Fight the Landlord | 165017 | [165017-fight-the-landlord.json](./165017-fight-the-landlord.json) |
@@ -601,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefighters: The Simulation | 32042 | [32042-firefighters-the-simulation.json](./32042-firefighters-the-simulation.json) |
 | Firefly | 55209 | [55209-firefly.json](./55209-firefly.json) |
 | Firefly Online Cortex | 35908 | [35908-firefly-online-cortex.json](./35908-firefly-online-cortex.json) |
+| Firefly Shelter | 404865 | [404865-firefly-shelter.json](./404865-firefly-shelter.json) |
 | FireFly Studios' Stronghold Warchest | 78021 | [78021-firefly-studios-stronghold-warchest.json](./78021-firefly-studios-stronghold-warchest.json) |
 | Firefly Witch | 275345 | [275345-firefly-witch.json](./275345-firefly-witch.json) |
 | FireJumpers Inferno: Full Version Unlock | 220864 | [220864-firejumpers-inferno-full-version-unlock.json](./220864-firejumpers-inferno-full-version-unlock.json) |
