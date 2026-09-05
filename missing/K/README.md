@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kao the Kangaroo | 134528 | [134528-kao-the-kangaroo.json](./134528-kao-the-kangaroo.json) |
 | Kao the Kangaroo | 142453 | [142453-kao-the-kangaroo.json](./142453-kao-the-kangaroo.json) |
 | Kaos | 118397 | [118397-kaos.json](./118397-kaos.json) |
+| Kaperfahrt | 414347 | [414347-kaperfahrt.json](./414347-kaperfahrt.json) |
 | Kapih | 332262 | [332262-kapih.json](./332262-kapih.json) |
 | Kappa Nittori-chan | 205790 | [205790-kappa-nittori-chan.json](./205790-kappa-nittori-chan.json) |
 | Kappa-kun to Asobou: Kappa-kun to Ota no Shimikai | 64439 | [64439-kappa-kun-to-asobou-kappa-kun-to-ota-no-shimikai.json](./64439-kappa-kun-to-asobou-kappa-kun-to-ota-no-shimikai.json) |
@@ -154,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kebab Chefs!: Restaurant Simulator | 156653 | [156653-kebab-chefs-restaurant-simulator.json](./156653-kebab-chefs-restaurant-simulator.json) |
 | Kebab Simulator: Taste Revolution | 336372 | [336372-kebab-simulator-taste-revolution.json](./336372-kebab-simulator-taste-revolution.json) |
 | Keep Defending | 31350 | [31350-keep-defending.json](./31350-keep-defending.json) |
+| Keep Her Safe | 414300 | [414300-keep-her-safe.json](./414300-keep-her-safe.json) |
 | Keep it Live | 194666 | [194666-keep-it-live.json](./194666-keep-it-live.json) |
 | Keep looking | 158185 | [158185-keep-looking.json](./158185-keep-looking.json) |
 | Keep Me Posted | 223169 | [223169-keep-me-posted.json](./223169-keep-me-posted.json) |
