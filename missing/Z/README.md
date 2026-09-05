@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda 64: Recompiled | 300982 | [300982-zelda-64-recompiled.json](./300982-zelda-64-recompiled.json) |
 | Zelda no Densetsu: 4-tsu no Tsurugi + | 298870 | [298870-zelda-no-densetsu-4-tsu-no-tsurugi.json](./298870-zelda-no-densetsu-4-tsu-no-tsurugi.json) |
 | Zelda: Meadow of Shadows | 248290 | [248290-zelda-meadow-of-shadows.json](./248290-zelda-meadow-of-shadows.json) |
+| Zelene Lux: Spirit Notes - Collector's Edition | 415959 | [415959-zelene-lux-spirit-notes-collectors-edition.json](./415959-zelene-lux-spirit-notes-collectors-edition.json) |
 | Zelter | 138243 | [138243-zelter.json](./138243-zelter.json) |
 | Zeltoid X1 | 216477 | [216477-zeltoid-x1.json](./216477-zeltoid-x1.json) |
 | Zeminator | 120428 | [120428-zeminator.json](./120428-zeminator.json) |
@@ -149,7 +150,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Incident | 41714 | [41714-zombie-incident.json](./41714-zombie-incident.json) |
 | Zombie Killing Simulator | 103184 | [103184-zombie-killing-simulator.json](./103184-zombie-killing-simulator.json) |
 | Zombie Lane | 143126 | [143126-zombie-lane.json](./143126-zombie-lane.json) |
+| Zombie Lines | 415928 | [415928-zombie-lines.json](./415928-zombie-lines.json) |
 | Zombie Mansion | 218713 | [218713-zombie-mansion.json](./218713-zombie-mansion.json) |
+| Zombie Massacre | 415927 | [415927-zombie-massacre.json](./415927-zombie-massacre.json) |
 | Zombie Mess | 70987 | [70987-zombie-mess.json](./70987-zombie-mess.json) |
 | Zombie Misfits | 65533 | [65533-zombie-misfits.json](./65533-zombie-misfits.json) |
 | Zombie Murder Hell Arrives | 89946 | [89946-zombie-murder-hell-arrives.json](./89946-zombie-murder-hell-arrives.json) |
@@ -228,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zueirama | 110641 | [110641-zueirama.json](./110641-zueirama.json) |
 | Zumba Fitness 2 | 5306 | [5306-zumba-fitness-2.json](./5306-zumba-fitness-2.json) |
 | Zumba Kids | 5309 | [5309-zumba-kids.json](./5309-zumba-kids.json) |
+| Zumble Ocean | 415938 | [415938-zumble-ocean.json](./415938-zumble-ocean.json) |
 | ZunderFury | 270411 | [270411-zunderfury.json](./270411-zunderfury.json) |
 | Zunius | 121740 | [121740-zunius.json](./121740-zunius.json) |
 | Zurarararush!!! | 293386 | [293386-zurarararush.json](./293386-zurarararush.json) |
