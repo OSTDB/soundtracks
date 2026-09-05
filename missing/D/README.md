@@ -785,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo IV: Lord of Hatred | 381239 | [381239-diablo-iv-lord-of-hatred.json](./381239-diablo-iv-lord-of-hatred.json) |
 | Diablo IV: Vessel of Hatred | 275171 | [275171-diablo-iv-vessel-of-hatred.json](./275171-diablo-iv-vessel-of-hatred.json) |
 | Diablo IV: Vessel of Hatred - Expansion Bundle | 305496 | [305496-diablo-iv-vessel-of-hatred-expansion-bundle.json](./305496-diablo-iv-vessel-of-hatred-expansion-bundle.json) |
+| Diadem of Manstraut | 407349 | [407349-diadem-of-manstraut.json](./407349-diadem-of-manstraut.json) |
 | Dialogue: A Writer's Story | 26706 | [26706-dialogue-a-writers-story.json](./26706-dialogue-a-writers-story.json) |
 | Diamond | 35826 | [35826-diamond.json](./35826-diamond.json) |
 | Diamond Dash | 72688 | [72688-diamond-dash.json](./72688-diamond-dash.json) |
@@ -1073,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Docking Doom | 271991 | [271991-docking-doom.json](./271991-docking-doom.json) |
 | Doctor Fizzwizzle's Animal Rescue | 50634 | [50634-doctor-fizzwizzles-animal-rescue.json](./50634-doctor-fizzwizzles-animal-rescue.json) |
 | Doctor Nanobot | 207530 | [207530-doctor-nanobot.json](./207530-doctor-nanobot.json) |
+| Doctor Pigeon Simulator | 407360 | [407360-doctor-pigeon-simulator.json](./407360-doctor-pigeon-simulator.json) |
 | Doctor Tsunami | 111708 | [111708-doctor-tsunami.json](./111708-doctor-tsunami.json) |
 | Doctor Who and the Warlord | 66675 | [66675-doctor-who-and-the-warlord.json](./66675-doctor-who-and-the-warlord.json) |
 | Doctor Who Game Maker | 59457 | [59457-doctor-who-game-maker.json](./59457-doctor-who-game-maker.json) |
@@ -1652,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Heroes | 3477 | [3477-dual-heroes.json](./3477-dual-heroes.json) |
 | Dual Pack I Awakening: The Goblin Kingdom and Awakening: The Skyward Castle | 201857 | [201857-dual-pack-i-awakening-the-goblin-kingdom-and-awakening-the-skyward-castle.json](./201857-dual-pack-i-awakening-the-goblin-kingdom-and-awakening-the-skyward-castle.json) |
 | Dual Pack I Spirits of Mystery: Song of the Phoenix & Spirits of Mystery: The Dark Minotaur | 201853 | [201853-dual-pack-i-spirits-of-mystery-song-of-the-phoenix-and-spirits-of-mystery-the-dark-minotaur.json](./201853-dual-pack-i-spirits-of-mystery-song-of-the-phoenix-and-spirits-of-mystery-the-dark-minotaur.json) |
+| Dual Protocol: The Case of Eva & Miles | 407324 | [407324-dual-protocol-the-case-of-eva-and-miles.json](./407324-dual-protocol-the-case-of-eva-and-miles.json) |
 | Dual! | 90676 | [90676-dual.json](./90676-dual.json) |
 | Duat: Beyond Light & Shadow | 415919 | [415919-duat-beyond-light-and-shadow.json](./415919-duat-beyond-light-and-shadow.json) |
 | Dubstep Abasralsa | 102407 | [102407-dubstep-abasralsa.json](./102407-dubstep-abasralsa.json) |
