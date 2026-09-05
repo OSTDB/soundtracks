@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jim Henson's The Muppets | 49958 | [49958-jim-hensons-the-muppets.json](./49958-jim-hensons-the-muppets.json) |
 | Jim is Moving Out! | 120433 | [120433-jim-is-moving-out.json](./120433-jim-is-moving-out.json) |
 | Jim's Gym | 241056 | [241056-jims-gym.json](./241056-jims-gym.json) |
+| Jimmy Neutron: Boy Genius | 49291 | [49291-jimmy-neutron-boy-genius.json](./49291-jimmy-neutron-boy-genius.json) |
 | Jimmy's Soccer Manager | 77377 | [77377-jimmys-soccer-manager.json](./77377-jimmys-soccer-manager.json) |
 | Jin & Jan | 318182 | [318182-jin-and-jan.json](./318182-jin-and-jan.json) |
 | Jinchou | 337480 | [337480-jinchou.json](./337480-jinchou.json) |
