@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One more game | 152931 | [152931-one-more-game.json](./152931-one-more-game.json) |
 | One More Gate : A Wakfu Legend | 204689 | [204689-one-more-gate-a-wakfu-legend.json](./204689-one-more-gate-a-wakfu-legend.json) |
 | One More Night | 292296 | [292296-one-more-night.json](./292296-one-more-night.json) |
+| One More Spin | 384495 | [384495-one-more-spin.json](./384495-one-more-spin.json) |
 | One more time... From the Top! | 178661 | [178661-one-more-time-from-the-top.json](./178661-one-more-time-from-the-top.json) |
 | One More Trail | 400855 | [400855-one-more-trail.json](./400855-one-more-trail.json) |
 | One Night 2: The Beyond | 111009 | [111009-one-night-2-the-beyond.json](./111009-one-night-2-the-beyond.json) |
