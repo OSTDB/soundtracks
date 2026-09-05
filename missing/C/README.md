@@ -2060,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed House | 186326 | [186326-cursed-house.json](./186326-cursed-house.json) |
 | Cursed House 11 | 214181 | [214181-cursed-house-11.json](./214181-cursed-house-11.json) |
 | Cursed Land | 297237 | [297237-cursed-land.json](./297237-cursed-land.json) |
+| Cursed Legacy | 370707 | [370707-cursed-legacy.json](./370707-cursed-legacy.json) |
 | Cursed Letters | 156673 | [156673-cursed-letters.json](./156673-cursed-letters.json) |
 | Cursed Loot | 324114 | [324114-cursed-loot.json](./324114-cursed-loot.json) |
 | Cursed Mummies | 169470 | [169470-cursed-mummies.json](./169470-cursed-mummies.json) |
