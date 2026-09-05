@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meine Tiersprechstunde | 179202 | [179202-meine-tiersprechstunde.json](./179202-meine-tiersprechstunde.json) |
 | MEIOU and Taxes | 294450 | [294450-meiou-and-taxes.json](./294450-meiou-and-taxes.json) |
 | MeiQi 2022 | 190735 | [190735-meiqi-2022.json](./190735-meiqi-2022.json) |
+| MeisterPower | 383980 | [383980-meisterpower.json](./383980-meisterpower.json) |
 | Meitantei Conan: Tantei-ryoku Trainer | 78712 | [78712-meitantei-conan-tantei-ryoku-trainer.json](./78712-meitantei-conan-tantei-ryoku-trainer.json) |
 | Mekabolt+ | 192300 | [192300-mekabolt.json](./192300-mekabolt.json) |
 | MekaFighters | 146350 | [146350-mekafighters.json](./146350-mekafighters.json) |
@@ -847,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorize the Evidence: 1-Minute Memory Mystery | 409540 | [409540-memorize-the-evidence-1-minute-memory-mystery.json](./409540-memorize-the-evidence-1-minute-memory-mystery.json) |
 | Memorrha | 109573 | [109573-memorrha.json](./109573-memorrha.json) |
 | Memory | 219288 | [219288-memory.json](./219288-memory.json) |
+| Memory | 383929 | [383929-memory.json](./383929-memory.json) |
 | Memory Data Memory | 331131 | [331131-memory-data-memory.json](./331131-memory-data-memory.json) |
 | Memory Eater | 123595 | [123595-memory-eater.json](./123595-memory-eater.json) |
 | Memory Grove | 189195 | [189195-memory-grove.json](./189195-memory-grove.json) |
@@ -1550,6 +1552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey King vs Transformers | 156160 | [156160-monkey-king-vs-transformers.json](./156160-monkey-king-vs-transformers.json) |
 | Monkey Magic | 45220 | [45220-monkey-magic.json](./45220-monkey-magic.json) |
 | Monkey Split | 142450 | [142450-monkey-split.json](./142450-monkey-split.json) |
+| Monkey Wave | 383963 | [383963-monkey-wave.json](./383963-monkey-wave.json) |
 | Monkeys to the Moon | 57097 | [57097-monkeys-to-the-moon.json](./57097-monkeys-to-the-moon.json) |
 | Monmusu Gladiator | 151749 | [151749-monmusu-gladiator.json](./151749-monmusu-gladiator.json) |
 | Mono Trail | 127317 | [127317-mono-trail.json](./127317-mono-trail.json) |
@@ -1586,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Fair | 218156 | [218156-monster-fair.json](./218156-monster-fair.json) |
 | Monster Fishing 2018 | 102766 | [102766-monster-fishing-2018.json](./102766-monster-fishing-2018.json) |
 | Monster Force | 49390 | [49390-monster-force.json](./49390-monster-force.json) |
+| Monster Forest | 383949 | [383949-monster-forest.json](./383949-monster-forest.json) |
 | Monster Galaxy | 197943 | [197943-monster-galaxy.json](./197943-monster-galaxy.json) |
 | Monster Girl Clinic | 412305 | [412305-monster-girl-clinic.json](./412305-monster-girl-clinic.json) |
 | Monster Girl Dreams | 138832 | [138832-monster-girl-dreams.json](./138832-monster-girl-dreams.json) |
@@ -2151,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Soul Trapped in a WIN98 PC | 274196 | [274196-my-soul-trapped-in-a-win98-pc.json](./274196-my-soul-trapped-in-a-win98-pc.json) |
 | My Spa Resort | 296077 | [296077-my-spa-resort.json](./296077-my-spa-resort.json) |
 | My Spelling Words | 93073 | [93073-my-spelling-words.json](./93073-my-spelling-words.json) |
+| My Sticker Room | 383969 | [383969-my-sticker-room.json](./383969-my-sticker-room.json) |
 | My Strange Girlfriends | 248926 | [248926-my-strange-girlfriends.json](./248926-my-strange-girlfriends.json) |
 | My Summer Love | 391596 | [391596-my-summer-love.json](./391596-my-summer-love.json) |
 | My Sunny Resort | 98981 | [98981-my-sunny-resort.json](./98981-my-sunny-resort.json) |
