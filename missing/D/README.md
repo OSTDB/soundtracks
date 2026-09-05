@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decay: The Mare - Episode 2 | 79949 | [79949-decay-the-mare-episode-2.json](./79949-decay-the-mare-episode-2.json) |
 | Decaying Flowers | 98459 | [98459-decaying-flowers.json](./98459-decaying-flowers.json) |
 | Decaying Wires | 335657 | [335657-decaying-wires.json](./335657-decaying-wires.json) |
+| December 3rd | 392758 | [392758-december-3rd.json](./392758-december-3rd.json) |
 | Decimated | 206358 | [206358-decimated.json](./206358-decimated.json) |
 | Deck Collector | 404827 | [404827-deck-collector.json](./404827-deck-collector.json) |
 | Deck Hunter | 106418 | [106418-deck-hunter.json](./106418-deck-hunter.json) |
@@ -1057,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distraint Collection | 186910 | [186910-distraint-collection.json](./186910-distraint-collection.json) |
 | Distress Signal | 178640 | [178640-distress-signal.json](./178640-distress-signal.json) |
 | District Steel | 28912 | [28912-district-steel.json](./28912-district-steel.json) |
+| DistroCards | 392807 | [392807-distrocards.json](./392807-distrocards.json) |
 | Disturbed 2 | 28904 | [28904-disturbed-2.json](./28904-disturbed-2.json) |
 | Ditch Whit #1: Shield Night | 202922 | [202922-ditch-whit-1-shield-night.json](./202922-ditch-whit-1-shield-night.json) |
 | Dithered | 122411 | [122411-dithered.json](./122411-dithered.json) |
