@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Me A Good One | 128635 | [128635-find-me-a-good-one.json](./128635-find-me-a-good-one.json) |
 | Find Me in the Maze | 214733 | [214733-find-me-in-the-maze.json](./214733-find-me-in-the-maze.json) |
 | Find My Weiner | 292292 | [292292-find-my-weiner.json](./292292-find-my-weiner.json) |
+| Find the Cat: Nightmare | 391604 | [391604-find-the-cat-nightmare.json](./391604-find-the-cat-nightmare.json) |
 | Find the Differences Detective | 232174 | [232174-find-the-differences-detective.json](./232174-find-the-differences-detective.json) |
 | Find the light | 216473 | [216473-find-the-light.json](./216473-find-the-light.json) |
 | Find the Murderer 2 | 192454 | [192454-find-the-murderer-2.json](./192454-find-the-murderer-2.json) |
@@ -865,9 +866,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Cat | 199107 | [199107-fly-cat.json](./199107-fly-cat.json) |
 | Fly Catbug Fly! | 175434 | [175434-fly-catbug-fly.json](./175434-fly-catbug-fly.json) |
 | Fly Guy | 230512 | [230512-fly-guy.json](./230512-fly-guy.json) |
+| Fly High Runners | 391575 | [391575-fly-high-runners.json](./391575-fly-high-runners.json) |
 | Fly Spy | 12997 | [12997-fly-spy.json](./12997-fly-spy.json) |
 | Fly! | 69847 | [69847-fly.json](./69847-fly.json) |
 | Fly! 2K | 93065 | [93065-fly-2k.json](./93065-fly-2k.json) |
+| Fly2k | 391578 | [391578-fly2k.json](./391578-fly2k.json) |
 | Fly8 | 141223 | [141223-fly8.json](./141223-fly8.json) |
 | Flyer Fox | 46661 | [46661-flyer-fox.json](./46661-flyer-fox.json) |
 | Flyghts | 236512 | [236512-flyghts.json](./236512-flyghts.json) |
@@ -906,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fog | 201837 | [201837-fog.json](./201837-fog.json) |
 | Folk Song | 317010 | [317010-folk-song.json](./317010-folk-song.json) |
 | Follow My Voice | 179194 | [179194-follow-my-voice.json](./179194-follow-my-voice.json) |
+| Follow Nightmare | 391589 | [391589-follow-nightmare.json](./391589-follow-nightmare.json) |
 | Follow The Cat | 170544 | [170544-follow-the-cat.json](./170544-follow-the-cat.json) |
 | Follow You | 218129 | [218129-follow-you.json](./218129-follow-you.json) |
 | Follower:Sacrifice | 99006 | [99006-follower-sacrifice.json](./99006-follower-sacrifice.json) |
@@ -1165,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom | 271995 | [271995-freedom.json](./271995-freedom.json) |
 | Freedom Bridge | 115034 | [115034-freedom-bridge.json](./115034-freedom-bridge.json) |
 | Freedom Fighters | 719 | [719-freedom-fighters.json](./719-freedom-fighters.json) |
+| FreedomBot | 391577 | [391577-freedombot.json](./391577-freedombot.json) |
 | Freeflow | 340248 | [340248-freeflow.json](./340248-freeflow.json) |
 | Freeforce Airplanes | 340249 | [340249-freeforce-airplanes.json](./340249-freeforce-airplanes.json) |
 | Freegglers | 185159 | [185159-freegglers.json](./185159-freegglers.json) |
@@ -1211,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FriendShip | 30936 | [30936-friendship.json](./30936-friendship.json) |
 | Friendship Bracelets Simulator | 303229 | [303229-friendship-bracelets-simulator.json](./303229-friendship-bracelets-simulator.json) |
 | Friendship vs The World | 402942 | [402942-friendship-vs-the-world.json](./402942-friendship-vs-the-world.json) |
+| Friendsmob | 391590 | [391590-friendsmob.json](./391590-friendsmob.json) |
 | Fright Cops | 216459 | [216459-fright-cops.json](./216459-fright-cops.json) |
 | Fright House | 329352 | [329352-fright-house.json](./329352-fright-house.json) |
 | Fright Light | 31539 | [31539-fright-light.json](./31539-fright-light.json) |
