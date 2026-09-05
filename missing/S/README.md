@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Lies: Burning Coast | 98434 | [98434-sea-of-lies-burning-coast.json](./98434-sea-of-lies-burning-coast.json) |
 | Sea of Lies: Burning Coast - Collector's Edition | 83554 | [83554-sea-of-lies-burning-coast-collectors-edition.json](./83554-sea-of-lies-burning-coast-collectors-edition.json) |
 | Sea of ​Mutation | 309688 | [309688-sea-of-mutation.json](./309688-sea-of-mutation.json) |
+| Sea of Pirates | 408791 | [408791-sea-of-pirates.json](./408791-sea-of-pirates.json) |
 | Sea of Radiation: Ready | 304860 | [304860-sea-of-radiation-ready.json](./304860-sea-of-radiation-ready.json) |
 | Sea of Thieves: 2024 Edition | 335072 | [335072-sea-of-thieves-2024-edition.json](./335072-sea-of-thieves-2024-edition.json) |
 | Sea Power: Naval Combat in the Missile Age | 217518 | [217518-sea-power-naval-combat-in-the-missile-age.json](./217518-sea-power-naval-combat-in-the-missile-age.json) |
@@ -898,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shleep | 340225 | [340225-shleep.json](./340225-shleep.json) |
 | Shmadow | 34594 | [34594-shmadow.json](./34594-shmadow.json) |
 | Shmucker Casino 2: Purple Boog's Revenge | 270371 | [270371-shmucker-casino-2-purple-boogs-revenge.json](./270371-shmucker-casino-2-purple-boogs-revenge.json) |
+| Shmup! | 408773 | [408773-shmup.json](./408773-shmup.json) |
 | Shnipers | 56484 | [56484-shnipers.json](./56484-shnipers.json) |
 | Shockwave | 48084 | [48084-shockwave.json](./48084-shockwave.json) |
 | Shodan Morita Shogi | 38372 | [38372-shodan-morita-shogi.json](./38372-shodan-morita-shogi.json) |
@@ -1107,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simstory: Live As You Wish | 101573 | [101573-simstory-live-as-you-wish.json](./101573-simstory-live-as-you-wish.json) |
 | SimTown | 20194 | [20194-simtown.json](./20194-simtown.json) |
 | Simulassword | 226440 | [226440-simulassword.json](./226440-simulassword.json) |
+| Simulation 9 | 408733 | [408733-simulation-9.json](./408733-simulation-9.json) |
 | Simulation Training Room: Massacre | 295545 | [295545-simulation-training-room-massacre.json](./295545-simulation-training-room-massacre.json) |
 | Simulator: Parking Lot | 323510 | [323510-simulator-parking-lot.json](./323510-simulator-parking-lot.json) |
 | Sin Breaker Rig | 238736 | [238736-sin-breaker-rig.json](./238736-sin-breaker-rig.json) |
@@ -1210,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Dash | 272553 | [272553-skull-dash.json](./272553-skull-dash.json) |
 | Skull Island: Rise of Kong - Colossal Pack | 272584 | [272584-skull-island-rise-of-kong-colossal-pack.json](./272584-skull-island-rise-of-kong-colossal-pack.json) |
 | Skull Maze: Tiny Roguelike | 200709 | [200709-skull-maze-tiny-roguelike.json](./200709-skull-maze-tiny-roguelike.json) |
+| Skullchef | 408786 | [408786-skullchef.json](./408786-skullchef.json) |
 | SkullSP | 329973 | [329973-skullsp.json](./329973-skullsp.json) |
 | Skunny: Lost in Space | 68705 | [68705-skunny-lost-in-space.json](./68705-skunny-lost-in-space.json) |
 | Skunny: Save Our Pizzas! | 73839 | [73839-skunny-save-our-pizzas.json](./73839-skunny-save-our-pizzas.json) |
@@ -1738,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Powered Up | 333939 | [333939-sonic-powered-up.json](./333939-sonic-powered-up.json) |
 | Sonic QWERTY | 266511 | [266511-sonic-qwerty.json](./266511-sonic-qwerty.json) |
 | Sonic Racers | 333936 | [333936-sonic-racers.json](./333936-sonic-racers.json) |
+| Sonic Racing: CrossWorlds - Werehog Pack | 408746 | [408746-sonic-racing-crossworlds-werehog-pack.json](./408746-sonic-racing-crossworlds-werehog-pack.json) |
 | Sonic Realmz | 326996 | [326996-sonic-realmz.json](./326996-sonic-realmz.json) |
 | Sonic Relighted | 333938 | [333938-sonic-relighted.json](./333938-sonic-relighted.json) |
 | Sonic Remade | 333934 | [333934-sonic-remade.json](./333934-sonic-remade.json) |
@@ -1963,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hole 2020 | 156675 | [156675-space-hole-2020.json](./156675-space-hole-2020.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
 | Space Invaders Anniversary | 69888 | [69888-space-invaders-anniversary.json](./69888-space-invaders-anniversary.json) |
+| Space is Key Christmas | 408824 | [408824-space-is-key-christmas.json](./408824-space-is-key-christmas.json) |
 | Space KaBaam: Neon | 335076 | [335076-space-kabaam-neon.json](./335076-space-kabaam-neon.json) |
 | Space Kadet | 123598 | [123598-space-kadet.json](./123598-space-kadet.json) |
 | Space Lift Danger Panic! | 147982 | [147982-space-lift-danger-panic.json](./147982-space-lift-danger-panic.json) |
@@ -2129,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spheroid | 34535 | [34535-spheroid.json](./34535-spheroid.json) |
 | Spider Bounce | 263745 | [263745-spider-bounce.json](./263745-spider-bounce.json) |
 | Spider Lander | 111723 | [111723-spider-lander.json](./111723-spider-lander.json) |
+| Spider Matrix | 408780 | [408780-spider-matrix.json](./408780-spider-matrix.json) |
 | Spider Shooting Bee | 119793 | [119793-spider-shooting-bee.json](./119793-spider-shooting-bee.json) |
 | Spider-Guy: Trapped in the Cheese Place | 291773 | [291773-spider-guy-trapped-in-the-cheese-place.json](./291773-spider-guy-trapped-in-the-cheese-place.json) |
 | Spider-Man | 248203 | [248203-spider-man.json](./248203-spider-man.json) |
@@ -3279,6 +3286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sketchy Party | 167294 | [167294-super-sketchy-party.json](./167294-super-sketchy-party.json) |
 | Super Skyland | 175406 | [175406-super-skyland.json](./175406-super-skyland.json) |
 | Super Slinger | 192958 | [192958-super-slinger.json](./192958-super-slinger.json) |
+| Super Smash Bros. Crusade Remix | 408816 | [408816-super-smash-bros-crusade-remix.json](./408816-super-smash-bros-crusade-remix.json) |
 | Super Smash Bros. Ultimate: Goku Mod | 242815 | [242815-super-smash-bros-ultimate-goku-mod.json](./242815-super-smash-bros-ultimate-goku-mod.json) |
 | Super Smash Flash 2 | 14247 | [14247-super-smash-flash-2.json](./14247-super-smash-flash-2.json) |
 | Super Smash Kart | 269293 | [269293-super-smash-kart.json](./269293-super-smash-kart.json) |
