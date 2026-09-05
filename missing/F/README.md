@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fido 2: Puppy Power | 315278 | [315278-fido-2-puppy-power.json](./315278-fido-2-puppy-power.json) |
 | Field & Stream: Total Outdoorsman Challenge | 67081 | [67081-field-and-stream-total-outdoorsman-challenge.json](./67081-field-and-stream-total-outdoorsman-challenge.json) |
 | Field and Stream Fishing | 99003 | [99003-field-and-stream-fishing.json](./99003-field-and-stream-fishing.json) |
+| Field of Enemies | 374058 | [374058-field-of-enemies.json](./374058-field-of-enemies.json) |
 | Field of Fate | 184622 | [184622-field-of-fate.json](./184622-field-of-fate.json) |
 | Field of Glory II | 65835 | [65835-field-of-glory-ii.json](./65835-field-of-glory-ii.json) |
 | Field of Glory II: Age of Belisarius | 124785 | [124785-field-of-glory-ii-age-of-belisarius.json](./124785-field-of-glory-ii-age-of-belisarius.json) |
@@ -507,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fignermukcre | 128627 | [128627-fignermukcre.json](./128627-fignermukcre.json) |
 | Figure of Eight | 402927 | [402927-figure-of-eight.json](./402927-figure-of-eight.json) |
 | Figureheads | 24931 | [24931-figureheads.json](./24931-figureheads.json) |
+| Figures of Shadows | 374068 | [374068-figures-of-shadows.json](./374068-figures-of-shadows.json) |
 | File://maniac | 118374 | [118374-file-maniac.json](./118374-file-maniac.json) |
 | Fill & Cross: Pirate Riddles 2 | 101556 | [101556-fill-and-cross-pirate-riddles-2.json](./101556-fill-and-cross-pirate-riddles-2.json) |
 | Fill & Cross: Pirate Riddles 3 | 213014 | [213014-fill-and-cross-pirate-riddles-3.json](./213014-fill-and-cross-pirate-riddles-3.json) |
@@ -620,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Shadow Dragon and the Blade of Light - 30th Anniversary Edition | 140611 | [140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json](./140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json) |
 | Fire Emblem: Storge | 312345 | [312345-fire-emblem-storge.json](./312345-fire-emblem-storge.json) |
 | Fire Emblem: Vision Quest | 141237 | [141237-fire-emblem-vision-quest.json](./141237-fire-emblem-vision-quest.json) |
+| Fire Entrance | 374086 | [374086-fire-entrance.json](./374086-fire-entrance.json) |
 | Fire Farm VR | 31964 | [31964-fire-farm-vr.json](./31964-fire-farm-vr.json) |
 | Fire Flight | 76661 | [76661-fire-flight.json](./76661-fire-flight.json) |
 | Fire Flush | 107220 | [107220-fire-flush.json](./107220-fire-flush.json) |
@@ -1061,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forevolution | 209709 | [209709-forevolution.json](./209709-forevolution.json) |
 | Forge of Freedom: The American Civil War 1861-1865 | 230545 | [230545-forge-of-freedom-the-american-civil-war-1861-1865.json](./230545-forge-of-freedom-the-american-civil-war-1861-1865.json) |
 | Forgebeast | 244506 | [244506-forgebeast.json](./244506-forgebeast.json) |
+| ForgeRun | 374047 | [374047-forgerun.json](./374047-forgerun.json) |
 | Forget Westbury Falls: Disc One | 192960 | [192960-forget-westbury-falls-disc-one.json](./192960-forget-westbury-falls-disc-one.json) |
 | Forget-Me-Not | 178672 | [178672-forget-me-not.json](./178672-forget-me-not.json) |
 | Forget-Me-Not | 47269 | [47269-forget-me-not.json](./47269-forget-me-not.json) |
@@ -1470,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Animals Bombing | 109745 | [109745-furry-animals-bombing.json](./109745-furry-animals-bombing.json) |
 | Furry Backrooms | 291775 | [291775-furry-backrooms.json](./291775-furry-backrooms.json) |
 | Furry Boss | 215891 | [215891-furry-boss.json](./215891-furry-boss.json) |
+| Furry Came-a-Lot | 374050 | [374050-furry-came-a-lot.json](./374050-furry-came-a-lot.json) |
 | Furry Futa | 239340 | [239340-furry-futa.json](./239340-furry-futa.json) |
 | Furry Hentai Quest | 192460 | [192460-furry-hentai-quest.json](./192460-furry-hentai-quest.json) |
 | Furry Love 2 | 165026 | [165026-furry-love-2.json](./165026-furry-love-2.json) |
