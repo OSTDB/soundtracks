@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo's Land | 61632 | [61632-neos-land.json](./61632-neos-land.json) |
 | NeoBalls2 | 83560 | [83560-neoballs2.json](./83560-neoballs2.json) |
 | NeoFables | 330552 | [330552-neofables.json](./330552-neofables.json) |
+| Neofeud 2 | 397714 | [397714-neofeud-2.json](./397714-neofeud-2.json) |
 | Neogen BeatZ | 256539 | [256539-neogen-beatz.json](./256539-neogen-beatz.json) |
 | Neogen Space Monkeys | 221979 | [221979-neogen-space-monkeys.json](./221979-neogen-space-monkeys.json) |
 | Neogeo Pocket Color Selection Vol.2 | 225497 | [225497-neogeo-pocket-color-selection-vol-2.json](./225497-neogeo-pocket-color-selection-vol-2.json) |
@@ -677,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Love | 115048 | [115048-no-love.json](./115048-no-love.json) |
 | No Luca No | 92496 | [92496-no-luca-no.json](./92496-no-luca-no.json) |
 | No Man's Sky: Nintendo Switch Edition | 191418 | [191418-no-mans-sky-nintendo-switch-edition.json](./191418-no-mans-sky-nintendo-switch-edition.json) |
+| No Man's Sky: Xeno Arena | 397678 | [397678-no-mans-sky-xeno-arena.json](./397678-no-mans-sky-xeno-arena.json) |
 | No More Heroes: Red Zone Edition | 116373 | [116373-no-more-heroes-red-zone-edition.json](./116373-no-more-heroes-red-zone-edition.json) |
 | No Ordinary Elevator | 76666 | [76666-no-ordinary-elevator.json](./76666-no-ordinary-elevator.json) |
 | No Rest | 302688 | [302688-no-rest.json](./302688-no-rest.json) |
