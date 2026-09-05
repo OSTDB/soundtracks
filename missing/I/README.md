@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am An Air Traffic Controller: Airport Hero Narita | 56474 | [56474-i-am-an-air-traffic-controller-airport-hero-narita.json](./56474-i-am-an-air-traffic-controller-airport-hero-narita.json) |
 | I Am an Air Traffic Controller: Airport Hero Osaka-KIX | 55940 | [55940-i-am-an-air-traffic-controller-airport-hero-osaka-kix.json](./55940-i-am-an-air-traffic-controller-airport-hero-osaka-kix.json) |
 | I Am An Air Traffic Controller: Airport Hero Shinchitose | 56476 | [56476-i-am-an-air-traffic-controller-airport-hero-shinchitose.json](./56476-i-am-an-air-traffic-controller-airport-hero-shinchitose.json) |
+| I Am Coin | 388739 | [388739-i-am-coin.json](./388739-i-am-coin.json) |
 | I am Dog(s) | 182512 | [182512-i-am-dog-s.json](./182512-i-am-dog-s.json) |
 | I Am Fish V | 237654 | [237654-i-am-fish-v.json](./237654-i-am-fish-v.json) |
 | I am Jesus | 57681 | [57681-i-am-jesus.json](./57681-i-am-jesus.json) |
@@ -342,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie Gems Bundle: JRPG Edition | 129805 | [129805-indie-gems-bundle-jrpg-edition.json](./129805-indie-gems-bundle-jrpg-edition.json) |
 | Indiepocalypse #75 | 402283 | [402283-indiepocalypse-75.json](./402283-indiepocalypse-75.json) |
 | Indignum | 397664 | [397664-indignum.json](./397664-indignum.json) |
+| Indigo | 388713 | [388713-indigo.json](./388713-indigo.json) |
 | Indigo Prophecy | 410247 | [410247-indigo-prophecy.json](./410247-indigo-prophecy.json) |
 | Indoor Baseball | 330562 | [330562-indoor-baseball.json](./330562-indoor-baseball.json) |
 | Induction | 18194 | [18194-induction.json](./18194-induction.json) |
@@ -653,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isadora's Edge | 329969 | [329969-isadoras-edge.json](./329969-isadoras-edge.json) |
 | Isane Insects: The Inception | 53255 | [53255-isane-insects-the-inception.json](./53255-isane-insects-the-inception.json) |
 | Iscoot | 392153 | [392153-iscoot.json](./392153-iscoot.json) |
+| Isekai HKV | 388726 | [388726-isekai-hkv.json](./388726-isekai-hkv.json) |
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Fia Edition | 219277 | [219277-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-fia-edition.json](./219277-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-fia-edition.json) |
 | Isekai Slowlife | 402894 | [402894-isekai-slowlife.json](./402894-isekai-slowlife.json) |
 | Isekaing: From Zero to Zero | 323548 | [323548-isekaing-from-zero-to-zero.json](./323548-isekaing-from-zero-to-zero.json) |
