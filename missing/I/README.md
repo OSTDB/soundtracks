@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InCell VR | 34595 | [34595-incell-vr.json](./34595-incell-vr.json) |
 | Incognito | 35782 | [35782-incognito.json](./35782-incognito.json) |
 | Incredible Dracula 4: Games of Gods | 119746 | [119746-incredible-dracula-4-games-of-gods.json](./119746-incredible-dracula-4-games-of-gods.json) |
+| Incredible Dracula II: The Last Call - Collector's Edition | 29924 | [29924-incredible-dracula-ii-the-last-call-collectors-edition.json](./29924-incredible-dracula-ii-the-last-call-collectors-edition.json) |
 | Incredible Dracula: Academy of Shadows | 340749 | [340749-incredible-dracula-academy-of-shadows.json](./340749-incredible-dracula-academy-of-shadows.json) |
 | Incredible Dracula: Chasing Love | 53226 | [53226-incredible-dracula-chasing-love.json](./53226-incredible-dracula-chasing-love.json) |
 | Incredible Dracula: The Last Call Collector's Edition | 53227 | [53227-incredible-dracula-the-last-call-collectors-edition.json](./53227-incredible-dracula-the-last-call-collectors-edition.json) |
@@ -575,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irochi Mikke! | 276464 | [276464-irochi-mikke.json](./276464-irochi-mikke.json) |
 | Iron & Blood: Warriors of Ravenloft | 20608 | [20608-iron-and-blood-warriors-of-ravenloft.json](./20608-iron-and-blood-warriors-of-ravenloft.json) |
 | Iron Age | 192943 | [192943-iron-age.json](./192943-iron-age.json) |
+| Iron Armada | 29711 | [29711-iron-armada.json](./29711-iron-armada.json) |
 | Iron Cauldron: Guess the Colorblock | 340762 | [340762-iron-cauldron-guess-the-colorblock.json](./340762-iron-cauldron-guess-the-colorblock.json) |
 | Iron Cross | 80581 | [80581-iron-cross.json](./80581-iron-cross.json) |
 | Iron Crown | 318183 | [318183-iron-crown.json](./318183-iron-crown.json) |
@@ -683,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itch! | 143745 | [143745-itch.json](./143745-itch.json) |
 | Iteriba: Olokun's Wrath | 255355 | [255355-iteriba-olokuns-wrath.json](./255355-iteriba-olokuns-wrath.json) |
 | Iterria Zone | 171609 | [171609-iterria-zone.json](./171609-iterria-zone.json) |
+| Itineris | 29675 | [29675-itineris.json](./29675-itineris.json) |
 | Itoi Shigesato no Bass Tsuri No. 1 | 3518 | [3518-itoi-shigesato-no-bass-tsuri-no-1.json](./3518-itoi-shigesato-no-bass-tsuri-no-1.json) |
 | iTownGamePlay UNIVERSE | 90652 | [90652-itowngameplay-universe.json](./90652-itowngameplay-universe.json) |
 | Its Been a While Since I Went for a Walk | 151708 | [151708-its-been-a-while-since-i-went-for-a-walk.json](./151708-its-been-a-while-since-i-went-for-a-walk.json) |
