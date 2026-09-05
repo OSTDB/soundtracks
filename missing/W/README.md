@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Which Naruto Character Are You? | 230540 | [230540-which-naruto-character-are-you.json](./230540-which-naruto-character-are-you.json) |
 | Which Way Out | 104088 | [104088-which-way-out.json](./104088-which-way-out.json) |
 | Whip Dummy Crash | 174902 | [174902-whip-dummy-crash.json](./174902-whip-dummy-crash.json) |
+| Whiplash | 411608 | [411608-whiplash.json](./411608-whiplash.json) |
 | Whipplu Special | 266486 | [266486-whipplu-special.json](./266486-whipplu-special.json) |
 | Whirled | 123640 | [123640-whirled.json](./123640-whirled.json) |
 | Whirlwind of Vietnam | 72714 | [72714-whirlwind-of-vietnam.json](./72714-whirlwind-of-vietnam.json) |
@@ -724,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordban | 319358 | [319358-wordban.json](./319358-wordban.json) |
 | WordCrasher | 87702 | [87702-wordcrasher.json](./87702-wordcrasher.json) |
 | Wordfright | 334479 | [334479-wordfright.json](./334479-wordfright.json) |
+| WordHive | 411569 | [411569-wordhive.json](./411569-wordhive.json) |
 | Wordify | 147461 | [147461-wordify.json](./147461-wordify.json) |
 | WordJong Arcade | 65492 | [65492-wordjong-arcade.json](./65492-wordjong-arcade.json) |
 | WordLeap | 292300 | [292300-wordleap.json](./292300-wordleap.json) |
