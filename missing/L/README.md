@@ -807,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lore: Aftermath | 69274 | [69274-lore-aftermath.json](./69274-lore-aftermath.json) |
 | Loree 3D | 412950 | [412950-loree-3d.json](./412950-loree-3d.json) |
 | Loren the Amazon Princess: The Castle Of N'Mar | 171634 | [171634-loren-the-amazon-princess-the-castle-of-nmar.json](./171634-loren-the-amazon-princess-the-castle-of-nmar.json) |
+| Lorerim | 383387 | [383387-lorerim.json](./383387-lorerim.json) |
 | Los Pilarcitos | 398368 | [398368-los-pilarcitos.json](./398368-los-pilarcitos.json) |
 | Lost Abroad Café | 235450 | [235450-lost-abroad-cafe.json](./235450-lost-abroad-cafe.json) |
 | Lost Alone EP.1: Little Sister | 185649 | [185649-lost-alone-ep-1-little-sister.json](./185649-lost-alone-ep-1-little-sister.json) |
@@ -998,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumo 2 | 338546 | [338546-lumo-2.json](./338546-lumo-2.json) |
 | Lumo's Cat | 14303 | [14303-lumos-cat.json](./14303-lumos-cat.json) |
 | Luna Child no Saishuu Bouei Line 3 | 202971 | [202971-luna-child-no-saishuu-bouei-line-3.json](./202971-luna-child-no-saishuu-bouei-line-3.json) |
+| Luna de Selene | 383349 | [383349-luna-de-selene.json](./383349-luna-de-selene.json) |
 | Luna Sonata | 243424 | [243424-luna-sonata.json](./243424-luna-sonata.json) |
 | Luna Story II: Six Pieces of Tears | 141209 | [141209-luna-story-ii-six-pieces-of-tears.json](./141209-luna-story-ii-six-pieces-of-tears.json) |
 | Luna Story III: On Your Mark | 141211 | [141211-luna-story-iii-on-your-mark.json](./141211-luna-story-iii-on-your-mark.json) |
