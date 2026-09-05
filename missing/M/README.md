@@ -583,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Munchers Deluxe | 57659 | [57659-math-munchers-deluxe.json](./57659-math-munchers-deluxe.json) |
 | Math Path | 391042 | [391042-math-path.json](./391042-math-path.json) |
 | Math Problem Challenge | 101616 | [101616-math-problem-challenge.json](./101616-math-problem-challenge.json) |
+| Math Puzzle Alpha Challenge | 384523 | [384523-math-puzzle-alpha-challenge.json](./384523-math-puzzle-alpha-challenge.json) |
 | Math puzzle PRO 2018 | 105941 | [105941-math-puzzle-pro-2018.json](./105941-math-puzzle-pro-2018.json) |
 | Math Puzzles PRO | 105958 | [105958-math-puzzles-pro.json](./105958-math-puzzles-pro.json) |
 | Math Speed Challenge | 101617 | [101617-math-speed-challenge.json](./101617-math-speed-challenge.json) |
@@ -675,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechanixMind: IQ Puzzle Adventure | 275889 | [275889-mechanixmind-iq-puzzle-adventure.json](./275889-mechanixmind-iq-puzzle-adventure.json) |
 | Mechanode | 238757 | [238757-mechanode.json](./238757-mechanode.json) |
 | MechAssault 2: Lone Wolf Limited Edition | 47315 | [47315-mechassault-2-lone-wolf-limited-edition.json](./47315-mechassault-2-lone-wolf-limited-edition.json) |
+| Mechastrike: Red War | 384505 | [384505-mechastrike-red-war.json](./384505-mechastrike-red-war.json) |
 | Mechatronika | 166737 | [166737-mechatronika.json](./166737-mechatronika.json) |
 | MechCom | 101549 | [101549-mechcom.json](./101549-mechcom.json) |
 | MechCorp | 102886 | [102886-mechcorp.json](./102886-mechcorp.json) |
@@ -1099,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Horror School | 292834 | [292834-midnight-horror-school.json](./292834-midnight-horror-school.json) |
 | Midnight Idle | 409565 | [409565-midnight-idle.json](./409565-midnight-idle.json) |
 | Midnight is Lost | 156689 | [156689-midnight-is-lost.json](./156689-midnight-is-lost.json) |
+| Midnight Kebab | 384504 | [384504-midnight-kebab.json](./384504-midnight-kebab.json) |
 | Midnight Looters | 392121 | [392121-midnight-looters.json](./392121-midnight-looters.json) |
 | Midnight Memories: Sonata of the Soul | 311278 | [311278-midnight-memories-sonata-of-the-soul.json](./311278-midnight-memories-sonata-of-the-soul.json) |
 | Midnight Scenes Ep.2: The Goodbye Note - Special Edition | 176481 | [176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json](./176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json) |
