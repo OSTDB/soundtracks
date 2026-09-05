@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderers.io | 178085 | [178085-wanderers-io.json](./178085-wanderers-io.json) |
 | Wanderfar | 158716 | [158716-wanderfar.json](./158716-wanderfar.json) |
 | Wandering Dreams of Yuri | 339131 | [339131-wandering-dreams-of-yuri.json](./339131-wandering-dreams-of-yuri.json) |
+| Wandering Willows | 16073 | [16073-wandering-willows.json](./16073-wandering-willows.json) |
 | Wanderland | 30901 | [30901-wanderland.json](./30901-wanderland.json) |
 | Wanderlust | 336914 | [336914-wanderlust.json](./336914-wanderlust.json) |
 | Wands | 56982 | [56982-wands.json](./56982-wands.json) |
@@ -197,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors of Thalyrion | 310749 | [310749-warriors-of-thalyrion.json](./310749-warriors-of-thalyrion.json) |
 | Warriors of Vilvatikta | 31628 | [31628-warriors-of-vilvatikta.json](./31628-warriors-of-vilvatikta.json) |
 | Wars of Napoleon | 33092 | [33092-wars-of-napoleon.json](./33092-wars-of-napoleon.json) |
+| Warshift | 14075 | [14075-warshift.json](./14075-warshift.json) |
 | Warside | 230528 | [230528-warside.json](./230528-warside.json) |
 | WarUniverse | 123614 | [123614-waruniverse.json](./123614-waruniverse.json) |
 | WarWest | 112336 | [112336-warwest.json](./112336-warwest.json) |
@@ -277,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Web Runner | 178066 | [178066-web-runner.json](./178066-web-runner.json) |
 | Web Spice Purple World | 128020 | [128020-web-spice-purple-world.json](./128020-web-spice-purple-world.json) |
 | Webbed | 139458 | [139458-webbed.json](./139458-webbed.json) |
+| Wedding Dash 2: Rings Around the World | 16074 | [16074-wedding-dash-2-rings-around-the-world.json](./16074-wedding-dash-2-rings-around-the-world.json) |
 | Wedding Girl Makeover | 96072 | [96072-wedding-girl-makeover.json](./96072-wedding-girl-makeover.json) |
 | Wedding Peach: Doki-doki Oironaoshi | 64951 | [64951-wedding-peach-doki-doki-oironaoshi.json](./64951-wedding-peach-doki-doki-oironaoshi.json) |
 | Wedding Peach: Jamapii Panic | 64952 | [64952-wedding-peach-jamapii-panic.json](./64952-wedding-peach-jamapii-panic.json) |
@@ -544,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Sports: The Ultimate Challenge | 5284 | [5284-winter-sports-the-ultimate-challenge.json](./5284-winter-sports-the-ultimate-challenge.json) |
 | Winter Stealth | 247765 | [247765-winter-stealth.json](./247765-winter-stealth.json) |
 | Winter Survival Simulator | 309661 | [309661-winter-survival-simulator.json](./309661-winter-survival-simulator.json) |
+| Winter Voices | 16220 | [16220-winter-voices.json](./16220-winter-voices.json) |
 | Winter Walk | 63882 | [63882-winter-walk.json](./63882-winter-walk.json) |
 | Winter With You | 188108 | [188108-winter-with-you.json](./188108-winter-with-you.json) |
 | Winter X-Games Snowboarding 2002 | 47303 | [47303-winter-x-games-snowboarding-2002.json](./47303-winter-x-games-snowboarding-2002.json) |
