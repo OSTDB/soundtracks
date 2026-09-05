@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentry: Obelisk of Dawn | 152898 | [152898-sentry-obelisk-of-dawn.json](./152898-sentry-obelisk-of-dawn.json) |
 | Seoirye | 257680 | [257680-seoirye.json](./257680-seoirye.json) |
 | Sequence Palladium | 246654 | [246654-sequence-palladium.json](./246654-sequence-palladium.json) |
+| Ser BubbleHelm | 385564 | [385564-ser-bubblehelm.json](./385564-ser-bubblehelm.json) |
 | Seraphic Destroyer: Puzzles | 163419 | [163419-seraphic-destroyer-puzzles.json](./163419-seraphic-destroyer-puzzles.json) |
 | Seraphine's Skyward Journey | 388054 | [388054-seraphines-skyward-journey.json](./388054-seraphines-skyward-journey.json) |
 | Seraphixial | 392164 | [392164-seraphixial.json](./392164-seraphixial.json) |
@@ -728,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Chaos | 324701 | [324701-shadow-of-chaos.json](./324701-shadow-of-chaos.json) |
 | Shadow of Death: Dark Knight | 100823 | [100823-shadow-of-death-dark-knight.json](./100823-shadow-of-death-dark-knight.json) |
 | Shadow of Ganymede | 43337 | [43337-shadow-of-ganymede.json](./43337-shadow-of-ganymede.json) |
+| Shadow of Paris | 385563 | [385563-shadow-of-paris.json](./385563-shadow-of-paris.json) |
 | Shadow of the Beast | 5434 | [5434-shadow-of-the-beast.json](./5434-shadow-of-the-beast.json) |
 | Shadow of the Beast III | 12221 | [12221-shadow-of-the-beast-iii.json](./12221-shadow-of-the-beast-iii.json) |
 | Shadow of the Tomb Raider: The Path Home | 117711 | [117711-shadow-of-the-tomb-raider-the-path-home.json](./117711-shadow-of-the-tomb-raider-the-path-home.json) |
@@ -830,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatterhold | 406135 | [406135-shatterhold.json](./406135-shatterhold.json) |
 | Shatterspace | 197395 | [197395-shatterspace.json](./197395-shatterspace.json) |
 | Shaun White Skateboarding | 5151 | [5151-shaun-white-skateboarding.json](./5151-shaun-white-skateboarding.json) |
+| Shawarma Wars | 385562 | [385562-shawarma-wars.json](./385562-shawarma-wars.json) |
 | Shawl | 56527 | [56527-shawl.json](./56527-shawl.json) |
 | Shazabi and the Cantina Catacombs | 230542 | [230542-shazabi-and-the-cantina-catacombs.json](./230542-shazabi-and-the-cantina-catacombs.json) |
 | She Danced in the Wind Like a Holographic Dream Before the World Died | 390004 | [390004-she-danced-in-the-wind-like-a-holographic-dream-before-the-world-died.json](./390004-she-danced-in-the-wind-like-a-holographic-dream-before-the-world-died.json) |
@@ -1385,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender Hentai Edition | 173814 | [173814-slender-hentai-edition.json](./173814-slender-hentai-edition.json) |
 | Slenderman History: WWII Faceless Horror | 321165 | [321165-slenderman-history-wwii-faceless-horror.json](./321165-slenderman-history-wwii-faceless-horror.json) |
 | Slenderman Must Die: Survivors | 321122 | [321122-slenderman-must-die-survivors.json](./321122-slenderman-must-die-survivors.json) |
+| Slenderman Saw Game | 385596 | [385596-slenderman-saw-game.json](./385596-slenderman-saw-game.json) |
 | Slendrina | 233774 | [233774-slendrina.json](./233774-slendrina.json) |
 | Slendrina X | 233773 | [233773-slendrina-x.json](./233773-slendrina-x.json) |
 | Slendytubbies Ø | 332814 | [332814-slendytubbies.json](./332814-slendytubbies.json) |
@@ -2620,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarryMonogatari: Student's Terminal | 302103 | [302103-starrymonogatari-students-terminal.json](./302103-starrymonogatari-students-terminal.json) |
 | Stars Collapse | 302672 | [302672-stars-collapse.json](./302672-stars-collapse.json) |
 | Stars of the Screen | 232677 | [232677-stars-of-the-screen.json](./232677-stars-of-the-screen.json) |
+| Starseed Harmonies | 385553 | [385553-starseed-harmonies.json](./385553-starseed-harmonies.json) |
 | Starshifter | 211942 | [211942-starshifter.json](./211942-starshifter.json) |
 | Starship Escape | 57113 | [57113-starship-escape.json](./57113-starship-escape.json) |
 | Starship Home | 293377 | [293377-starship-home.json](./293377-starship-home.json) |
@@ -2726,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Toxoids | 218170 | [218170-stellaris-toxoids.json](./218170-stellaris-toxoids.json) |
 | Stellifier | 317018 | [317018-stellifier.json](./317018-stellifier.json) |
 | Stem | 24944 | [24944-stem.json](./24944-stem.json) |
+| Step Jun: Koi no Dai Pinch | 385575 | [385575-step-jun-koi-no-dai-pinch.json](./385575-step-jun-koi-no-dai-pinch.json) |
 | Step Up! | 84902 | [84902-step-up.json](./84902-step-up.json) |
 | Stephen King's F13 | 74412 | [74412-stephen-kings-f13.json](./74412-stephen-kings-f13.json) |
 | StepX | 67915 | [67915-stepx.json](./67915-stepx.json) |
