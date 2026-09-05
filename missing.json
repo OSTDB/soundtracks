@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T20:18:20.839Z",
-  "total_missing": 33929,
+  "generated_at": "2026-09-05T20:33:04.996Z",
+  "total_missing": 33979,
   "games": [
     {
       "igdb_id": 306086,
@@ -11576,6 +11576,26 @@
       "igdb_id": 329391,
       "game_name": "Atelier Marie: Puzzle Workshop",
       "file": "missing/A/329391-atelier-marie-puzzle-workshop.json"
+    },
+    {
+      "igdb_id": 375157,
+      "game_name": "Atelier Resleriana: The Red Alchemist & The White Guardian - Additional Characters: Resna and Valeria",
+      "file": "missing/A/375157-atelier-resleriana-the-red-alchemist-and-the-white-guardian-additional-characters-resna-and-valeria.json"
+    },
+    {
+      "igdb_id": 375158,
+      "game_name": "Atelier Resleriana: The Red Alchemist & The White Guardian - Beginning of Summer Days Costume Set",
+      "file": "missing/A/375158-atelier-resleriana-the-red-alchemist-and-the-white-guardian-beginning-of-summer-days-costume-set.json"
+    },
+    {
+      "igdb_id": 375159,
+      "game_name": "Atelier Resleriana: The Red Alchemist & The White Guardian - High-Difficulty Dungeon \"Backwards-Ticking Clock Workshop\"",
+      "file": "missing/A/375159-atelier-resleriana-the-red-alchemist-and-the-white-guardian-high-difficulty-dungeon-backwards-ticking-clock-workshop.json"
+    },
+    {
+      "igdb_id": 375161,
+      "game_name": "Atelier Resleriana: The Red Alchemist & The White Guardian - Recipe Expansion Pack \"The Essence of Alchemy\"",
+      "file": "missing/A/375161-atelier-resleriana-the-red-alchemist-and-the-white-guardian-recipe-expansion-pack-the-essence-of-alchemy.json"
     },
     {
       "igdb_id": 44600,
@@ -23858,6 +23878,21 @@
       "file": "missing/C/301017-cardfight-vanguard-dear-days-additional-special-set.json"
     },
     {
+      "igdb_id": 375180,
+      "game_name": "Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.6",
+      "file": "missing/C/375180-cardfight-vanguard-dear-days-2-card-unlock-vol-6.json"
+    },
+    {
+      "igdb_id": 375179,
+      "game_name": "Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.7",
+      "file": "missing/C/375179-cardfight-vanguard-dear-days-2-card-unlock-vol-7.json"
+    },
+    {
+      "igdb_id": 375178,
+      "game_name": "Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.8",
+      "file": "missing/C/375178-cardfight-vanguard-dear-days-2-card-unlock-vol-8.json"
+    },
+    {
       "igdb_id": 267666,
       "game_name": "Cardfight!!: Additional Card Set Vol.6 [D-BT09] - Dragontree Invasion",
       "file": "missing/C/267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json"
@@ -26161,6 +26196,11 @@
       "igdb_id": 143072,
       "game_name": "Chickens on the Road",
       "file": "missing/C/143072-chickens-on-the-road.json"
+    },
+    {
+      "igdb_id": 375202,
+      "game_name": "Chicktionary",
+      "file": "missing/C/375202-chicktionary.json"
     },
     {
       "igdb_id": 181397,
@@ -33498,6 +33538,11 @@
       "file": "missing/D/44628-daemon-summoner.json"
     },
     {
+      "igdb_id": 375177,
+      "game_name": "Daemon x Machina: Titanic Scion - Into the Abyss",
+      "file": "missing/D/375177-daemon-x-machina-titanic-scion-into-the-abyss.json"
+    },
+    {
       "igdb_id": 96233,
       "game_name": "Daemonical",
       "file": "missing/D/96233-daemonical.json"
@@ -40383,6 +40428,11 @@
       "file": "missing/D/46277-double-dragon-3-the-arcade-game.json"
     },
     {
+      "igdb_id": 375155,
+      "game_name": "Double Dragon Revive: Additional Character Color",
+      "file": "missing/D/375155-double-dragon-revive-additional-character-color.json"
+    },
+    {
       "igdb_id": 206965,
       "game_name": "Double Dungeons",
       "file": "missing/D/206965-double-dungeons.json"
@@ -40898,6 +40948,16 @@
       "file": "missing/D/319398-dragon-ball-sparking-zero-deluxe-edition.json"
     },
     {
+      "igdb_id": 375181,
+      "game_name": "Dragon Ball: Sparking! Zero - Season Pass Bonus",
+      "file": "missing/D/375181-dragon-ball-sparking-zero-season-pass-bonus.json"
+    },
+    {
+      "igdb_id": 375182,
+      "game_name": "Dragon Ball: Sparking! Zero - Super Limit-Breaking NEO",
+      "file": "missing/D/375182-dragon-ball-sparking-zero-super-limit-breaking-neo.json"
+    },
+    {
       "igdb_id": 174895,
       "game_name": "Dragon Ball: Strongest Warrior",
       "file": "missing/D/174895-dragon-ball-strongest-warrior.json"
@@ -41091,6 +41151,26 @@
       "igdb_id": 366884,
       "game_name": "Dragon Quest VII Reimagined",
       "file": "missing/D/366884-dragon-quest-vii-reimagined.json"
+    },
+    {
+      "igdb_id": 375183,
+      "game_name": "Dragon Quest VII Reimagined: Jam-Packed Swag Bag",
+      "file": "missing/D/375183-dragon-quest-vii-reimagined-jam-packed-swag-bag.json"
+    },
+    {
+      "igdb_id": 375189,
+      "game_name": "Dragon Quest VII Reimagined: Luminary's Livery",
+      "file": "missing/D/375189-dragon-quest-vii-reimagined-luminarys-livery.json"
+    },
+    {
+      "igdb_id": 375190,
+      "game_name": "Dragon Quest VII Reimagined: The Road of Regal Wretches",
+      "file": "missing/D/375190-dragon-quest-vii-reimagined-the-road-of-regal-wretches.json"
+    },
+    {
+      "igdb_id": 375191,
+      "game_name": "Dragon Quest VII Reimagined: White Wolf Costume",
+      "file": "missing/D/375191-dragon-quest-vii-reimagined-white-wolf-costume.json"
     },
     {
       "igdb_id": 80597,
@@ -42161,6 +42241,11 @@
       "igdb_id": 124272,
       "game_name": "Drunken Fist Totally Accurate Beat 'em up",
       "file": "missing/D/124272-drunken-fist-totally-accurate-beat-em-up.json"
+    },
+    {
+      "igdb_id": 375201,
+      "game_name": "Drunkonauts",
+      "file": "missing/D/375201-drunkonauts.json"
     },
     {
       "igdb_id": 177013,
@@ -67348,6 +67433,21 @@
       "file": "missing/H/281740-hunter-x-hunter-nen-x-impact.json"
     },
     {
+      "igdb_id": 375152,
+      "game_name": "Hunter x Hunter: Nen x Impact - Additional Character 2 Phinks",
+      "file": "missing/H/375152-hunter-x-hunter-nen-x-impact-additional-character-2-phinks.json"
+    },
+    {
+      "igdb_id": 375153,
+      "game_name": "Hunter x Hunter: Nen x Impact - Additional Character 3 Shizuku",
+      "file": "missing/H/375153-hunter-x-hunter-nen-x-impact-additional-character-3-shizuku.json"
+    },
+    {
+      "igdb_id": 375154,
+      "game_name": "Hunter x Hunter: Nen x Impact - Additional Character 4 Zeno",
+      "file": "missing/H/375154-hunter-x-hunter-nen-x-impact-additional-character-4-zeno.json"
+    },
+    {
       "igdb_id": 171067,
       "game_name": "Hunter X: Begin",
       "file": "missing/H/171067-hunter-x-begin.json"
@@ -78083,6 +78183,11 @@
       "file": "missing/L/19819-last-year.json"
     },
     {
+      "igdb_id": 375192,
+      "game_name": "Last Z: Survival Shooter",
+      "file": "missing/L/375192-last-z-survival-shooter.json"
+    },
+    {
       "igdb_id": 19250,
       "game_name": "Lastfight",
       "file": "missing/L/19250-lastfight.json"
@@ -79288,6 +79393,11 @@
       "file": "missing/L/175978-lets-sing-2022-french-version.json"
     },
     {
+      "igdb_id": 375184,
+      "game_name": "Let's Sing 2026: International Hits",
+      "file": "missing/L/375184-lets-sing-2026-international-hits.json"
+    },
+    {
       "igdb_id": 268196,
       "game_name": "Let's Sing 5: Version Espanola",
       "file": "missing/L/268196-lets-sing-5-version-espanola.json"
@@ -80401,6 +80511,26 @@
       "igdb_id": 213609,
       "game_name": "Little Nemo the Clown",
       "file": "missing/L/213609-little-nemo-the-clown.json"
+    },
+    {
+      "igdb_id": 375186,
+      "game_name": "Little Nightmares III: Klonoa Costumes Set",
+      "file": "missing/L/375186-little-nightmares-iii-klonoa-costumes-set.json"
+    },
+    {
+      "igdb_id": 375187,
+      "game_name": "Little Nightmares III: Nomes Costumes Set",
+      "file": "missing/L/375187-little-nightmares-iii-nomes-costumes-set.json"
+    },
+    {
+      "igdb_id": 375188,
+      "game_name": "Little Nightmares III: Second Additional Chapter",
+      "file": "missing/L/375188-little-nightmares-iii-second-additional-chapter.json"
+    },
+    {
+      "igdb_id": 375185,
+      "game_name": "Little Nightmares III: The Backstage",
+      "file": "missing/L/375185-little-nightmares-iii-the-backstage.json"
     },
     {
       "igdb_id": 350903,
@@ -100378,6 +100508,16 @@
       "file": "missing/O/171052-one-piece-pirate-warriors-3-dlc-pack-2.json"
     },
     {
+      "igdb_id": 375163,
+      "game_name": "One Piece: Pirate Warriors 4 - Character Pack 7",
+      "file": "missing/O/375163-one-piece-pirate-warriors-4-character-pack-7.json"
+    },
+    {
+      "igdb_id": 375164,
+      "game_name": "One Piece: Pirate Warriors 4 - Character Pack 8 Special Selection",
+      "file": "missing/O/375164-one-piece-pirate-warriors-4-character-pack-8-special-selection.json"
+    },
+    {
       "igdb_id": 294429,
       "game_name": "One Piece: Pirate Warriors 4 - Path to the King of the Pirates & Soul Map 3",
       "file": "missing/O/294429-one-piece-pirate-warriors-4-path-to-the-king-of-the-pirates-and-soul-map-3.json"
@@ -120303,6 +120443,11 @@
       "file": "missing/S/143740-sail-simulator-4.json"
     },
     {
+      "igdb_id": 375160,
+      "game_name": "Sailing the Winds & New Tanks",
+      "file": "missing/S/375160-sailing-the-winds-and-new-tanks.json"
+    },
+    {
       "igdb_id": 41389,
       "game_name": "Sailor Fuku Bishoujo Zukan Vol. 1",
       "file": "missing/S/41389-sailor-fuku-bishoujo-zukan-vol-1.json"
@@ -124741,6 +124886,11 @@
       "igdb_id": 279630,
       "game_name": "Shinobi: Art of Vengeance",
       "file": "missing/S/279630-shinobi-art-of-vengeance.json"
+    },
+    {
+      "igdb_id": 375165,
+      "game_name": "Shinobi: Art of Vengeance - Sega Villains Stage",
+      "file": "missing/S/375165-shinobi-art-of-vengeance-sega-villains-stage.json"
     },
     {
       "igdb_id": 194016,
@@ -129443,6 +129593,26 @@
       "file": "missing/S/333936-sonic-racers.json"
     },
     {
+      "igdb_id": 375167,
+      "game_name": "Sonic Racing: CrossWorlds - Avatar Legends Pack",
+      "file": "missing/S/375167-sonic-racing-crossworlds-avatar-legends-pack.json"
+    },
+    {
+      "igdb_id": 375170,
+      "game_name": "Sonic Racing: CrossWorlds - Pac-Man Pack",
+      "file": "missing/S/375170-sonic-racing-crossworlds-pac-man-pack.json"
+    },
+    {
+      "igdb_id": 375166,
+      "game_name": "Sonic Racing: CrossWorlds - SpongeBob SquarePants Pack",
+      "file": "missing/S/375166-sonic-racing-crossworlds-spongebob-squarepants-pack.json"
+    },
+    {
+      "igdb_id": 375168,
+      "game_name": "Sonic Racing: CrossWorlds - Teenage Mutant Ninja Turtles Mutant Mayhem Pack",
+      "file": "missing/S/375168-sonic-racing-crossworlds-teenage-mutant-ninja-turtles-mutant-mayhem-pack.json"
+    },
+    {
       "igdb_id": 408746,
       "game_name": "Sonic Racing: CrossWorlds - Werehog Pack",
       "file": "missing/S/408746-sonic-racing-crossworlds-werehog-pack.json"
@@ -132258,6 +132428,11 @@
       "file": "missing/S/43327-spy-fiction.json"
     },
     {
+      "igdb_id": 375162,
+      "game_name": "Spy Guy American Dream",
+      "file": "missing/S/375162-spy-guy-american-dream.json"
+    },
+    {
       "igdb_id": 400194,
       "game_name": "Spy Guy Hidden Objects Poland",
       "file": "missing/S/400194-spy-guy-hidden-objects-poland.json"
@@ -134773,6 +134948,16 @@
       "file": "missing/S/191692-street-fighter-6.json"
     },
     {
+      "igdb_id": 375149,
+      "game_name": "Street Fighter 6: Additional Character - Alex & Outfit 2",
+      "file": "missing/S/375149-street-fighter-6-additional-character-alex-and-outfit-2.json"
+    },
+    {
+      "igdb_id": 375151,
+      "game_name": "Street Fighter 6: Additional Character - Ingrid & Outfit 2 & Outfit 3 (Sagat, C. Viper, Alex, Ingrid)",
+      "file": "missing/S/375151-street-fighter-6-additional-character-ingrid-and-outfit-2-and-outfit-3-sagat-c-viper-alex-ingrid.json"
+    },
+    {
       "igdb_id": 228737,
       "game_name": "Street Fighter 6: Deluxe Edition",
       "file": "missing/S/228737-street-fighter-6-deluxe-edition.json"
@@ -136031,6 +136216,16 @@
       "igdb_id": 204698,
       "game_name": "Super Animal Royale: Season 0.5",
       "file": "missing/S/204698-super-animal-royale-season-0-5.json"
+    },
+    {
+      "igdb_id": 375198,
+      "game_name": "Super Animal Royale: Starter Pack Bundle - Seasons 0-4",
+      "file": "missing/S/375198-super-animal-royale-starter-pack-bundle-seasons-0-4.json"
+    },
+    {
+      "igdb_id": 375199,
+      "game_name": "Super Animal Royale: Starter Pack Bundle - Seasons 5-9",
+      "file": "missing/S/375199-super-animal-royale-starter-pack-bundle-seasons-5-9.json"
     },
     {
       "igdb_id": 391603,
@@ -137626,6 +137821,16 @@
       "igdb_id": 87796,
       "game_name": "Super Robot Wars X",
       "file": "missing/S/87796-super-robot-wars-x.json"
+    },
+    {
+      "igdb_id": 375171,
+      "game_name": "Super Robot Wars Y: DLC 1 - Contract from the Darkness",
+      "file": "missing/S/375171-super-robot-wars-y-dlc-1-contract-from-the-darkness.json"
+    },
+    {
+      "igdb_id": 375172,
+      "game_name": "Super Robot Wars Y: DLC 2 - Awakening of a Soul",
+      "file": "missing/S/375172-super-robot-wars-y-dlc-2-awakening-of-a-soul.json"
     },
     {
       "igdb_id": 31959,
@@ -140171,6 +140376,11 @@
       "igdb_id": 152376,
       "game_name": "Tales of Wild",
       "file": "missing/T/152376-tales-of-wild.json"
+    },
+    {
+      "igdb_id": 375173,
+      "game_name": "Tales of Xillia Remastered: Super Growth Support Herb Set",
+      "file": "missing/T/375173-tales-of-xillia-remastered-super-growth-support-herb-set.json"
     },
     {
       "igdb_id": 316393,
@@ -150918,6 +151128,11 @@
       "file": "missing/T/332243-tics-revenge.json"
     },
     {
+      "igdb_id": 375176,
+      "game_name": "Ticket to Ride: Winter",
+      "file": "missing/T/375176-ticket-to-ride-winter.json"
+    },
+    {
       "igdb_id": 341863,
       "game_name": "Tidal Towns",
       "file": "missing/T/341863-tidal-towns.json"
@@ -157253,6 +157468,11 @@
       "file": "missing/T/223155-two-point-hospital-and-two-point-campus-double-pack.json"
     },
     {
+      "igdb_id": 375175,
+      "game_name": "Two Point Museum: Sonic Pre-order Pack",
+      "file": "missing/T/375175-two-point-museum-sonic-pre-order-pack.json"
+    },
+    {
       "igdb_id": 177549,
       "game_name": "Two Worlds",
       "file": "missing/T/177549-two-worlds.json"
@@ -159561,6 +159781,11 @@
       "igdb_id": 28938,
       "game_name": "Vagrant Hearts Zero",
       "file": "missing/V/28938-vagrant-hearts-zero.json"
+    },
+    {
+      "igdb_id": 375174,
+      "game_name": "Vagrus: The Riven Realms - At the Heart of Ruin",
+      "file": "missing/V/375174-vagrus-the-riven-realms-at-the-heart-of-ruin.json"
     },
     {
       "igdb_id": 186892,
@@ -167456,6 +167681,31 @@
       "igdb_id": 103017,
       "game_name": "Yakuza 5 Remastered",
       "file": "missing/Y/103017-yakuza-5-remastered.json"
+    },
+    {
+      "igdb_id": 375193,
+      "game_name": "Yakuza Kiwami 3 & Dark Ties: Flip Phone Customization Pack",
+      "file": "missing/Y/375193-yakuza-kiwami-3-and-dark-ties-flip-phone-customization-pack.json"
+    },
+    {
+      "igdb_id": 375194,
+      "game_name": "Yakuza Kiwami 3 & Dark Ties: Legendary BGM CD Pack",
+      "file": "missing/Y/375194-yakuza-kiwami-3-and-dark-ties-legendary-bgm-cd-pack.json"
+    },
+    {
+      "igdb_id": 375195,
+      "game_name": "Yakuza Kiwami 3 & Dark Ties: Legendary Lads & Gals Set",
+      "file": "missing/Y/375195-yakuza-kiwami-3-and-dark-ties-legendary-lads-and-gals-set.json"
+    },
+    {
+      "igdb_id": 375196,
+      "game_name": "Yakuza Kiwami 3 & Dark Ties: Legendary Outfit Pack",
+      "file": "missing/Y/375196-yakuza-kiwami-3-and-dark-ties-legendary-outfit-pack.json"
+    },
+    {
+      "igdb_id": 375197,
+      "game_name": "Yakuza Kiwami 3 & Dark Ties: Ryukyu Gal Gang Customization Pack",
+      "file": "missing/Y/375197-yakuza-kiwami-3-and-dark-ties-ryukyu-gal-gang-customization-pack.json"
     },
     {
       "igdb_id": 322399,
