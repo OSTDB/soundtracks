@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bái Xiǎo | 195266 | [195266-bai-xiao.json](./195266-bai-xiao.json) |
 | Baia | 334498 | [334498-baia.json](./334498-baia.json) |
 | Baja or Bust | 259245 | [259245-baja-or-bust.json](./259245-baja-or-bust.json) |
+| Bake it! Pizza Master | 378781 | [378781-bake-it-pizza-master.json](./378781-bake-it-pizza-master.json) |
 | Bake Jack | 382216 | [382216-bake-jack.json](./382216-bake-jack.json) |
 | Bakemono | 128018 | [128018-bakemono.json](./128018-bakemono.json) |
 | Baker Business 3 | 235967 | [235967-baker-business-3.json](./235967-baker-business-3.json) |
@@ -1725,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bronkie the Bronchiasaurus | 42624 | [42624-bronkie-the-bronchiasaurus.json](./42624-bronkie-the-bronchiasaurus.json) |
 | Brood | 116514 | [116514-brood.json](./116514-brood.json) |
 | Broom Racer | 405525 | [405525-broom-racer.json](./405525-broom-racer.json) |
+| Brotato: Nintendo Switch 2 Edition | 378791 | [378791-brotato-nintendo-switch-2-edition.json](./378791-brotato-nintendo-switch-2-edition.json) |
 | Brother Wings | 29912 | [29912-brother-wings.json](./29912-brother-wings.json) |
 | Brothers Conflict: Brilliant Blue | 45991 | [45991-brothers-conflict-brilliant-blue.json](./45991-brothers-conflict-brilliant-blue.json) |
 | Brothers Conflict: Passion Pink | 45990 | [45990-brothers-conflict-passion-pink.json](./45990-brothers-conflict-passion-pink.json) |
