@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landfall | 56511 | [56511-landfall.json](./56511-landfall.json) |
 | Landing Hero: Haneda x 787 | 199108 | [199108-landing-hero-haneda-x-787.json](./199108-landing-hero-haneda-x-787.json) |
 | Landlady Seduction Simulator | 326394 | [326394-landlady-seduction-simulator.json](./326394-landlady-seduction-simulator.json) |
+| Landlord | 385584 | [385584-landlord.json](./385584-landlord.json) |
 | Landlord Tycoon | 127984 | [127984-landlord-tycoon.json](./127984-landlord-tycoon.json) |
 | Landmaster | 400859 | [400859-landmaster.json](./400859-landmaster.json) |
 | Landnav | 197380 | [197380-landnav.json](./197380-landnav.json) |
@@ -103,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lanescape | 203570 | [203570-lanescape.json](./203570-lanescape.json) |
 | Langrisser I & II | 62775 | [62775-langrisser-i-and-ii.json](./62775-langrisser-i-and-ii.json) |
 | Langrisser: Hikari no Matsuei | 42010 | [42010-langrisser-hikari-no-matsuei.json](./42010-langrisser-hikari-no-matsuei.json) |
+| Lantern Fish | 385561 | [385561-lantern-fish.json](./385561-lantern-fish.json) |
 | Lantern Forge | 36263 | [36263-lantern-forge.json](./36263-lantern-forge.json) |
 | Lanterns | 89967 | [89967-lanterns.json](./89967-lanterns.json) |
 | Laplace | 109651 | [109651-laplace.json](./109651-laplace.json) |
@@ -551,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lineoff | 181913 | [181913-lineoff.json](./181913-lineoff.json) |
 | Lines Frenzy | 221994 | [221994-lines-frenzy.json](./221994-lines-frenzy.json) |
 | LineWay | 307291 | [307291-lineway.json](./307291-lineway.json) |
+| Linework | 385590 | [385590-linework.json](./385590-linework.json) |
 | Ling and the Corrupted Hollow | 391073 | [391073-ling-and-the-corrupted-hollow.json](./391073-ling-and-the-corrupted-hollow.json) |
 | Lingo | 189169 | [189169-lingo.json](./189169-lingo.json) |
 | Lingotopia | 102359 | [102359-lingotopia.json](./102359-lingotopia.json) |
