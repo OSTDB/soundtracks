@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save City R | 260399 | [260399-save-city-r.json](./260399-save-city-r.json) |
 | Save Da Frogs | 237047 | [237047-save-da-frogs.json](./237047-save-da-frogs.json) |
 | Save HomeWorld | 110370 | [110370-save-homeworld.json](./110370-save-homeworld.json) |
+| Save My Pet | 89278 | [89278-save-my-pet.json](./89278-save-my-pet.json) |
 | Save My Sister | 257679 | [257679-save-my-sister.json](./257679-save-my-sister.json) |
 | Save Snegurochka | 99021 | [99021-save-snegurochka.json](./99021-save-snegurochka.json) |
 | Save the Fish! | 152919 | [152919-save-the-fish.json](./152919-save-the-fish.json) |
@@ -364,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrappy Stinks! | 307954 | [307954-scrappy-stinks.json](./307954-scrappy-stinks.json) |
 | Scraps and Patches | 111726 | [111726-scraps-and-patches.json](./111726-scraps-and-patches.json) |
 | Scrapyard Robot Rampage | 115010 | [115010-scrapyard-robot-rampage.json](./115010-scrapyard-robot-rampage.json) |
+| Scratch Game - Halloween Night | 89750 | [89750-scratch-game-halloween-night.json](./89750-scratch-game-halloween-night.json) |
 | Scream Collector | 74450 | [74450-scream-collector.json](./74450-scream-collector.json) |
 | Scream Hero | 194000 | [194000-scream-hero.json](./194000-scream-hero.json) |
 | Scream of the Viking 3 | 117074 | [117074-scream-of-the-viking-3.json](./117074-scream-of-the-viking-3.json) |
@@ -718,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaolin | 18299 | [18299-shaolin.json](./18299-shaolin.json) |
 | Shaolin Master | 123063 | [123063-shaolin-master.json](./123063-shaolin-master.json) |
 | Shaolin Master Plus | 123062 | [123062-shaolin-master-plus.json](./123062-shaolin-master-plus.json) |
+| Shape Escape | 89752 | [89752-shape-escape.json](./89752-shape-escape.json) |
 | Shape Shifter | 323525 | [323525-shape-shifter.json](./323525-shape-shifter.json) |
 | Shape Shuffle: A Shape Saga | 262066 | [262066-shape-shuffle-a-shape-saga.json](./262066-shape-shuffle-a-shape-saga.json) |
 | Shape Theory | 244486 | [244486-shape-theory.json](./244486-shape-theory.json) |
@@ -1382,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Bob 3: Egypt Journey | 213638 | [213638-snail-bob-3-egypt-journey.json](./213638-snail-bob-3-egypt-journey.json) |
 | Snail Mail | 84877 | [84877-snail-mail.json](./84877-snail-mail.json) |
 | Snail Story: Love Edition | 193500 | [193500-snail-story-love-edition.json](./193500-snail-story-love-edition.json) |
+| Snail Trek: Chapter 4 - The Final Fondue | 89664 | [89664-snail-trek-chapter-4-the-final-fondue.json](./89664-snail-trek-chapter-4-the-final-fondue.json) |
 | Snail's Knock Out! | 301021 | [301021-snails-knock-out.json](./301021-snails-knock-out.json) |
 | Snake | 100202 | [100202-snake.json](./100202-snake.json) |
 | Snake 2 DX: Reawakening | 171624 | [171624-snake-2-dx-reawakening.json](./171624-snake-2-dx-reawakening.json) |
@@ -2501,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steve Magal: Fists of Brutal Truth | 341888 | [341888-steve-magal-fists-of-brutal-truth.json](./341888-steve-magal-fists-of-brutal-truth.json) |
 | Steve Reich’s Clapping Music | 312322 | [312322-steve-reich-s-clapping-music.json](./312322-steve-reich-s-clapping-music.json) |
 | Steve: Operation Nuts | 295010 | [295010-steve-operation-nuts.json](./295010-steve-operation-nuts.json) |
+| Stick 'Em Up 2: Paper Adventures - Starter Edition | 89634 | [89634-stick-em-up-2-paper-adventures-starter-edition.json](./89634-stick-em-up-2-paper-adventures-starter-edition.json) |
 | Stick Arena Ballistick | 69277 | [69277-stick-arena-ballistick.json](./69277-stick-arena-ballistick.json) |
 | Stick City Run 2 By Lettu Games | 232160 | [232160-stick-city-run-2-by-lettu-games.json](./232160-stick-city-run-2-by-lettu-games.json) |
 | Stick Fight: The Game | 65832 | [65832-stick-fight-the-game.json](./65832-stick-fight-the-game.json) |
