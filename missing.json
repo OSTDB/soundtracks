@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T14:48:21.338Z",
-  "total_missing": 32829,
+  "generated_at": "2026-09-05T15:03:17.381Z",
+  "total_missing": 32879,
   "games": [
     {
       "igdb_id": 306086,
@@ -3181,6 +3181,11 @@
       "igdb_id": 51996,
       "game_name": "Above Top Secret",
       "file": "missing/A/51996-above-top-secret.json"
+    },
+    {
+      "igdb_id": 388001,
+      "game_name": "Above: Colonies of the Mist",
+      "file": "missing/A/388001-above-colonies-of-the-mist.json"
     },
     {
       "igdb_id": 415113,
@@ -13673,6 +13678,131 @@
       "file": "missing/B/329348-barcode-battler-ii-shogaku-ninensei-special-barcode-card-yossy-game-ichizoku.json"
     },
     {
+      "igdb_id": 387996,
+      "game_name": "Barcode Battler II: Street Fighter II - 14. Joudanshuu",
+      "file": "missing/B/387996-barcode-battler-ii-street-fighter-ii-14-joudanshuu.json"
+    },
+    {
+      "igdb_id": 387997,
+      "game_name": "Barcode Battler II: Street Fighter II - 15. Moto Den Ansatsuke",
+      "file": "missing/B/387997-barcode-battler-ii-street-fighter-ii-15-moto-den-ansatsuke.json"
+    },
+    {
+      "igdb_id": 387998,
+      "game_name": "Barcode Battler II: Street Fighter II - 16. Hishou Ashi",
+      "file": "missing/B/387998-barcode-battler-ii-street-fighter-ii-16-hishou-ashi.json"
+    },
+    {
+      "igdb_id": 388014,
+      "game_name": "Barcode Battler II: Street Fighter II - 17. Sonic Boom",
+      "file": "missing/B/388014-barcode-battler-ii-street-fighter-ii-17-sonic-boom.json"
+    },
+    {
+      "igdb_id": 388015,
+      "game_name": "Barcode Battler II: Street Fighter II - 18. Somersault Kick",
+      "file": "missing/B/388015-barcode-battler-ii-street-fighter-ii-18-somersault-kick.json"
+    },
+    {
+      "igdb_id": 388016,
+      "game_name": "Barcode Battler II: Street Fighter II - 19. Dragon Suplex",
+      "file": "missing/B/388016-barcode-battler-ii-street-fighter-ii-19-dragon-suplex.json"
+    },
+    {
+      "igdb_id": 388017,
+      "game_name": "Barcode Battler II: Street Fighter II - 20. Flying Buster Drop",
+      "file": "missing/B/388017-barcode-battler-ii-street-fighter-ii-20-flying-buster-drop.json"
+    },
+    {
+      "igdb_id": 388019,
+      "game_name": "Barcode Battler II: Street Fighter II - 21. Flying Mare",
+      "file": "missing/B/388019-barcode-battler-ii-street-fighter-ii-21-flying-mare.json"
+    },
+    {
+      "igdb_id": 388020,
+      "game_name": "Barcode Battler II: Street Fighter II - 22. Jump Punch",
+      "file": "missing/B/388020-barcode-battler-ii-street-fighter-ii-22-jump-punch.json"
+    },
+    {
+      "igdb_id": 388021,
+      "game_name": "Barcode Battler II: Street Fighter II - 23. Jumping Heel Kick",
+      "file": "missing/B/388021-barcode-battler-ii-street-fighter-ii-23-jumping-heel-kick.json"
+    },
+    {
+      "igdb_id": 388022,
+      "game_name": "Barcode Battler II: Street Fighter II - 24. Guile Kick",
+      "file": "missing/B/388022-barcode-battler-ii-street-fighter-ii-24-guile-kick.json"
+    },
+    {
+      "igdb_id": 388023,
+      "game_name": "Barcode Battler II: Street Fighter II - 25. Yoga Fire",
+      "file": "missing/B/388023-barcode-battler-ii-street-fighter-ii-25-yoga-fire.json"
+    },
+    {
+      "igdb_id": 388024,
+      "game_name": "Barcode Battler II: Street Fighter II - 26. Yoga Flame",
+      "file": "missing/B/388024-barcode-battler-ii-street-fighter-ii-26-yoga-flame.json"
+    },
+    {
+      "igdb_id": 388025,
+      "game_name": "Barcode Battler II: Street Fighter II - 27. Yoga Throw",
+      "file": "missing/B/388025-barcode-battler-ii-street-fighter-ii-27-yoga-throw.json"
+    },
+    {
+      "igdb_id": 388027,
+      "game_name": "Barcode Battler II: Street Fighter II - 28. Drill Zudzuki",
+      "file": "missing/B/388027-barcode-battler-ii-street-fighter-ii-28-drill-zudzuki.json"
+    },
+    {
+      "igdb_id": 388028,
+      "game_name": "Barcode Battler II: Street Fighter II - 29. Drill Kick",
+      "file": "missing/B/388028-barcode-battler-ii-street-fighter-ii-29-drill-kick.json"
+    },
+    {
+      "igdb_id": 388029,
+      "game_name": "Barcode Battler II: Street Fighter II - 30. Jump Zoom Punch",
+      "file": "missing/B/388029-barcode-battler-ii-street-fighter-ii-30-jump-zoom-punch.json"
+    },
+    {
+      "igdb_id": 388030,
+      "game_name": "Barcode Battler II: Street Fighter II - 31. Sliding",
+      "file": "missing/B/388030-barcode-battler-ii-street-fighter-ii-31-sliding.json"
+    },
+    {
+      "igdb_id": 388031,
+      "game_name": "Barcode Battler II: Street Fighter II - 32. Rolling Attack",
+      "file": "missing/B/388031-barcode-battler-ii-street-fighter-ii-32-rolling-attack.json"
+    },
+    {
+      "igdb_id": 388032,
+      "game_name": "Barcode Battler II: Street Fighter II - 33. Thunder Spark",
+      "file": "missing/B/388032-barcode-battler-ii-street-fighter-ii-33-thunder-spark.json"
+    },
+    {
+      "igdb_id": 388033,
+      "game_name": "Barcode Battler II: Street Fighter II - 34. Wild Fang",
+      "file": "missing/B/388033-barcode-battler-ii-street-fighter-ii-34-wild-fang.json"
+    },
+    {
+      "igdb_id": 388034,
+      "game_name": "Barcode Battler II: Street Fighter II - 35. Rock Crush",
+      "file": "missing/B/388034-barcode-battler-ii-street-fighter-ii-35-rock-crush.json"
+    },
+    {
+      "igdb_id": 388035,
+      "game_name": "Barcode Battler II: Street Fighter II - 36. Bear Claw",
+      "file": "missing/B/388035-barcode-battler-ii-street-fighter-ii-36-bear-claw.json"
+    },
+    {
+      "igdb_id": 388036,
+      "game_name": "Barcode Battler II: Street Fighter II - 37. Double Knee Bomber",
+      "file": "missing/B/388036-barcode-battler-ii-street-fighter-ii-37-double-knee-bomber.json"
+    },
+    {
+      "igdb_id": 388037,
+      "game_name": "Barcode Battler II: Street Fighter II - 38. Rolling Nail",
+      "file": "missing/B/388037-barcode-battler-ii-street-fighter-ii-38-rolling-nail.json"
+    },
+    {
       "igdb_id": 173808,
       "game_name": "Barcode Knight",
       "file": "missing/B/173808-barcode-knight.json"
@@ -23381,6 +23511,11 @@
       "igdb_id": 184637,
       "game_name": "Cart Crawlers",
       "file": "missing/C/184637-cart-crawlers.json"
+    },
+    {
+      "igdb_id": 388046,
+      "game_name": "Cartagra: First Press Limited Edition",
+      "file": "missing/C/388046-cartagra-first-press-limited-edition.json"
     },
     {
       "igdb_id": 412957,
@@ -34281,6 +34416,11 @@
       "igdb_id": 19582,
       "game_name": "Dead Years",
       "file": "missing/D/19582-dead-years.json"
+    },
+    {
+      "igdb_id": 388038,
+      "game_name": "Dead Zed",
+      "file": "missing/D/388038-dead-zed.json"
     },
     {
       "igdb_id": 203555,
@@ -52833,6 +52973,11 @@
       "file": "missing/F/180-full-throttle.json"
     },
     {
+      "igdb_id": 388010,
+      "game_name": "Full Throttle Parking",
+      "file": "missing/F/388010-full-throttle-parking.json"
+    },
+    {
       "igdb_id": 72722,
       "game_name": "Full Throttle: Hell on Wheels",
       "file": "missing/F/72722-full-throttle-hell-on-wheels.json"
@@ -60301,6 +60446,11 @@
       "igdb_id": 141244,
       "game_name": "Harry Potter RPG",
       "file": "missing/H/141244-harry-potter-rpg.json"
+    },
+    {
+      "igdb_id": 388003,
+      "game_name": "Haru he to Tsuzuku Oka",
+      "file": "missing/H/388003-haru-he-to-tsuzuku-oka.json"
     },
     {
       "igdb_id": 209708,
@@ -73528,6 +73678,11 @@
       "file": "missing/K/145044-kitty-letter.json"
     },
     {
+      "igdb_id": 388047,
+      "game_name": "Kitty Powers' Matchmaker Makeover",
+      "file": "missing/K/388047-kitty-powers-matchmaker-makeover.json"
+    },
+    {
       "igdb_id": 136466,
       "game_name": "Kitty Rainbow",
       "file": "missing/K/136466-kitty-rainbow.json"
@@ -77381,6 +77536,11 @@
       "igdb_id": 28810,
       "game_name": "Line Rider",
       "file": "missing/L/28810-line-rider.json"
+    },
+    {
+      "igdb_id": 388008,
+      "game_name": "Lineage",
+      "file": "missing/L/388008-lineage.json"
     },
     {
       "igdb_id": 75854,
@@ -84161,6 +84321,11 @@
       "igdb_id": 105329,
       "game_name": "Mercs",
       "file": "missing/M/105329-mercs.json"
+    },
+    {
+      "igdb_id": 388000,
+      "game_name": "Mercurius Blue: ReCollection",
+      "file": "missing/M/388000-mercurius-blue-recollection.json"
     },
     {
       "igdb_id": 248333,
@@ -95608,6 +95773,11 @@
       "file": "missing/O/120388-obversion.json"
     },
     {
+      "igdb_id": 388012,
+      "game_name": "Occidental Heroes",
+      "file": "missing/O/388012-occidental-heroes.json"
+    },
+    {
       "igdb_id": 192948,
       "game_name": "Occulto",
       "file": "missing/O/192948-occulto.json"
@@ -102981,6 +103151,11 @@
       "igdb_id": 335083,
       "game_name": "Pix Arts Masters Tennis",
       "file": "missing/P/335083-pix-arts-masters-tennis.json"
+    },
+    {
+      "igdb_id": 388011,
+      "game_name": "Pixapple Adventure",
+      "file": "missing/P/388011-pixapple-adventure.json"
     },
     {
       "igdb_id": 132864,
@@ -114363,6 +114538,11 @@
       "file": "missing/R/395553-rogue-shell.json"
     },
     {
+      "igdb_id": 388018,
+      "game_name": "Rogue Slime",
+      "file": "missing/R/388018-rogue-slime.json"
+    },
+    {
       "igdb_id": 277592,
       "game_name": "Rogue Survivalist",
       "file": "missing/R/277592-rogue-survivalist.json"
@@ -117608,6 +117788,11 @@
       "file": "missing/S/252989-sayonara.json"
     },
     {
+      "igdb_id": 388004,
+      "game_name": "Sayonara Mr. Stealer",
+      "file": "missing/S/388004-sayonara-mr-stealer.json"
+    },
+    {
       "igdb_id": 260397,
       "game_name": "Sayonara NightCap",
       "file": "missing/S/260397-sayonara-nightcap.json"
@@ -119221,6 +119406,11 @@
       "igdb_id": 163419,
       "game_name": "Seraphic Destroyer: Puzzles",
       "file": "missing/S/163419-seraphic-destroyer-puzzles.json"
+    },
+    {
+      "igdb_id": 388054,
+      "game_name": "Seraphine's Skyward Journey",
+      "file": "missing/S/388054-seraphines-skyward-journey.json"
     },
     {
       "igdb_id": 392164,
@@ -121098,6 +121288,11 @@
       "file": "missing/S/70404-shoppers-paradise.json"
     },
     {
+      "igdb_id": 388042,
+      "game_name": "Shopping Cart Hero 2",
+      "file": "missing/S/388042-shopping-cart-hero-2.json"
+    },
+    {
       "igdb_id": 341872,
       "game_name": "Shopping Clutter 12: Halloween at the Walkers",
       "file": "missing/S/341872-shopping-clutter-12-halloween-at-the-walkers.json"
@@ -121748,6 +121943,11 @@
       "file": "missing/S/147986-silverstarchess.json"
     },
     {
+      "igdb_id": 388049,
+      "game_name": "Silverstone",
+      "file": "missing/S/388049-silverstone.json"
+    },
+    {
       "igdb_id": 101539,
       "game_name": "Silversword",
       "file": "missing/S/101539-silversword.json"
@@ -122136,6 +122336,11 @@
       "igdb_id": 183078,
       "game_name": "Sins",
       "file": "missing/S/183078-sins.json"
+    },
+    {
+      "igdb_id": 388053,
+      "game_name": "Sintropia Fruits Together",
+      "file": "missing/S/388053-sintropia-fruits-together.json"
     },
     {
       "igdb_id": 291237,
@@ -124598,6 +124803,11 @@
       "file": "missing/S/212459-solarland.json"
     },
     {
+      "igdb_id": 388044,
+      "game_name": "Solarmax",
+      "file": "missing/S/388044-solarmax.json"
+    },
+    {
       "igdb_id": 194950,
       "game_name": "Solarpunk",
       "file": "missing/S/194950-solarpunk.json"
@@ -124756,6 +124966,11 @@
       "igdb_id": 66691,
       "game_name": "Solitaire: Ultimate Collection",
       "file": "missing/S/66691-solitaire-ultimate-collection.json"
+    },
+    {
+      "igdb_id": 388039,
+      "game_name": "SolitaireX",
+      "file": "missing/S/388039-solitairex.json"
     },
     {
       "igdb_id": 305516,
@@ -127398,6 +127613,11 @@
       "file": "missing/S/7347-spintires.json"
     },
     {
+      "igdb_id": 388002,
+      "game_name": "Spinwave Survivors",
+      "file": "missing/S/388002-spinwave-survivors.json"
+    },
+    {
       "igdb_id": 133469,
       "game_name": "SpinZap",
       "file": "missing/S/133469-spinzap.json"
@@ -128226,6 +128446,11 @@
       "igdb_id": 87657,
       "game_name": "Stack Jump",
       "file": "missing/S/87657-stack-jump.json"
+    },
+    {
+      "igdb_id": 388009,
+      "game_name": "Stack Order",
+      "file": "missing/S/388009-stack-order.json"
     },
     {
       "igdb_id": 96068,
@@ -139608,6 +139833,11 @@
       "file": "missing/T/227490-the-eminence-in-shadow-master-of-garden.json"
     },
     {
+      "igdb_id": 387999,
+      "game_name": "The Empathy Algorithm",
+      "file": "missing/T/387999-the-empathy-algorithm.json"
+    },
+    {
       "igdb_id": 204673,
       "game_name": "The Employment Collection",
       "file": "missing/T/204673-the-employment-collection.json"
@@ -144146,6 +144376,11 @@
       "igdb_id": 102763,
       "game_name": "The Sun: Origin",
       "file": "missing/T/102763-the-sun-origin.json"
+    },
+    {
+      "igdb_id": 388058,
+      "game_name": "The Super Adventure of John",
+      "file": "missing/T/388058-the-super-adventure-of-john.json"
     },
     {
       "igdb_id": 270380,
@@ -149276,6 +149511,11 @@
       "igdb_id": 268212,
       "game_name": "Tower of Tears",
       "file": "missing/T/268212-tower-of-tears.json"
+    },
+    {
+      "igdb_id": 388026,
+      "game_name": "Tower of the Deep",
+      "file": "missing/T/388026-tower-of-the-deep.json"
     },
     {
       "igdb_id": 180831,
@@ -158418,6 +158658,11 @@
       "file": "missing/W/153457-whats-different.json"
     },
     {
+      "igdb_id": 388013,
+      "game_name": "What's Different?",
+      "file": "missing/W/388013-whats-different.json"
+    },
+    {
       "igdb_id": 140593,
       "game_name": "What's in the Attic?",
       "file": "missing/W/140593-whats-in-the-attic.json"
@@ -161606,6 +161851,11 @@
       "igdb_id": 159029,
       "game_name": "XDefiant",
       "file": "missing/X/159029-xdefiant.json"
+    },
+    {
+      "igdb_id": 388057,
+      "game_name": "XeGrader Plus",
+      "file": "missing/X/388057-xegrader-plus.json"
     },
     {
       "igdb_id": 246632,
