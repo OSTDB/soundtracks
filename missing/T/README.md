@@ -2141,6 +2141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thieves Guild Master | 413662 | [413662-thieves-guild-master.json](./413662-thieves-guild-master.json) |
 | Thing-Thing Arena 3 | 234938 | [234938-thing-thing-arena-3.json](./234938-thing-thing-arena-3.json) |
 | Things on Wheels | 72727 | [72727-things-on-wheels.json](./72727-things-on-wheels.json) |
+| Think in Two | 388758 | [388758-think-in-two.json](./388758-think-in-two.json) |
 | Think Logic! Sudoku: Binary - Suguru | 231081 | [231081-think-logic-sudoku-binary-suguru.json](./231081-think-logic-sudoku-binary-suguru.json) |
 | Think Tap Turn | 100815 | [100815-think-tap-turn.json](./100815-think-tap-turn.json) |
 | Thinkin' Science: Zap! | 243422 | [243422-thinkin-science-zap.json](./243422-thinkin-science-zap.json) |
@@ -2431,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Woods PGA Tour 2004 | 905 | [905-tiger-woods-pga-tour-2004.json](./905-tiger-woods-pga-tour-2004.json) |
 | Tiger Woods PGA Tour 2008 | 51234 | [51234-tiger-woods-pga-tour-2008.json](./51234-tiger-woods-pga-tour-2008.json) |
 | Tight Man | 393457 | [393457-tight-man.json](./393457-tight-man.json) |
+| Tightrope | 388706 | [388706-tightrope.json](./388706-tightrope.json) |
 | Tightrope Walking | 178076 | [178076-tightrope-walking.json](./178076-tightrope-walking.json) |
 | Tik Tak Caro | 239328 | [239328-tik-tak-caro.json](./239328-tik-tak-caro.json) |
 | Tik Werlen | 396194 | [396194-tik-werlen.json](./396194-tik-werlen.json) |
@@ -3261,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troll Face Quest: Game of Trolls | 306703 | [306703-troll-face-quest-game-of-trolls.json](./306703-troll-face-quest-game-of-trolls.json) |
 | Trolley Folly | 248327 | [248327-trolley-folly.json](./248327-trolley-folly.json) |
 | Trollface Launch | 234908 | [234908-trollface-launch.json](./234908-trollface-launch.json) |
+| Trolls de Troy: La Cité de la mort rose | 388737 | [388737-trolls-de-troy-la-cite-de-la-mort-rose.json](./388737-trolls-de-troy-la-cite-de-la-mort-rose.json) |
 | Trolls Remix Rescue | 261537 | [261537-trolls-remix-rescue.json](./261537-trolls-remix-rescue.json) |
 | Trollskog | 24834 | [24834-trollskog.json](./24834-trollskog.json) |
 | Trollz: Hair Affair! | 49375 | [49375-trollz-hair-affair.json](./49375-trollz-hair-affair.json) |
@@ -3480,6 +3483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Worlds II HD | 53865 | [53865-two-worlds-ii-hd.json](./53865-two-worlds-ii-hd.json) |
 | Two Worlds II: Pirates of the Flying Fortress | 11032 | [11032-two-worlds-ii-pirates-of-the-flying-fortress.json](./11032-two-worlds-ii-pirates-of-the-flying-fortress.json) |
 | Two Worlds: The Game of the Year Edition | 53866 | [53866-two-worlds-the-game-of-the-year-edition.json](./53866-two-worlds-the-game-of-the-year-edition.json) |
+| Twofer Goofer | 388748 | [388748-twofer-goofer.json](./388748-twofer-goofer.json) |
 | Twofold Inc. | 80559 | [80559-twofold-inc.json](./80559-twofold-inc.json) |
 | Twofold: The Perfect Circle Collection | 410214 | [410214-twofold-the-perfect-circle-collection.json](./410214-twofold-the-perfect-circle-collection.json) |
 | TwoPlay Mahjong | 115020 | [115020-twoplay-mahjong.json](./115020-twoplay-mahjong.json) |
