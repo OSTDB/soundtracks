@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viva Piñata | 7236 | [7236-viva-pinata.json](./7236-viva-pinata.json) |
 | Viva Piñata: Trouble in Paradise | 7238 | [7238-viva-pinata-trouble-in-paradise.json](./7238-viva-pinata-trouble-in-paradise.json) |
 | Vivat Slovakia | 216496 | [216496-vivat-slovakia.json](./216496-vivat-slovakia.json) |
+| Vivecraft | 370146 | [370146-vivecraft.json](./370146-vivecraft.json) |
 | Vivid | 415091 | [415091-vivid.json](./415091-vivid.json) |
 | Viz: The Soft Floppy One | 67993 | [67993-viz-the-soft-floppy-one.json](./67993-viz-the-soft-floppy-one.json) |
 | Vlad Circus: Curse of Asmodeus | 337993 | [337993-vlad-circus-curse-of-asmodeus.json](./337993-vlad-circus-curse-of-asmodeus.json) |
