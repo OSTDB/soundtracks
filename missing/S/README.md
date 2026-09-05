@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Storm: Sentinels | 10845 | [10845-silent-storm-sentinels.json](./10845-silent-storm-sentinels.json) |
 | Silent Threat | 311259 | [311259-silent-threat.json](./311259-silent-threat.json) |
 | Silentium 2D | 106578 | [106578-silentium-2d.json](./106578-silentium-2d.json) |
+| Silhouette | 31378 | [31378-silhouette.json](./31378-silhouette.json) |
 | Silhouette Mirage | 1356 | [1356-silhouette-mirage.json](./1356-silhouette-mirage.json) |
 | Silhouette Stories | 198550 | [198550-silhouette-stories.json](./198550-silhouette-stories.json) |
 | SilhouetteGirl Zan | 233219 | [233219-silhouettegirl-zan.json](./233219-silhouettegirl-zan.json) |
@@ -1252,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slashboy | 333393 | [333393-slashboy.json](./333393-slashboy.json) |
 | Slashvival | 115001 | [115001-slashvival.json](./115001-slashvival.json) |
 | Slashy Chords: Guitar Warriors | 256541 | [256541-slashy-chords-guitar-warriors.json](./256541-slashy-chords-guitar-warriors.json) |
+| Slashy Hero | 31357 | [31357-slashy-hero.json](./31357-slashy-hero.json) |
 | Slashy Knight | 105925 | [105925-slashy-knight.json](./105925-slashy-knight.json) |
 | Slaughter Until Death | 274217 | [274217-slaughter-until-death.json](./274217-slaughter-until-death.json) |
 | Slaughterhouse | 149596 | [149596-slaughterhouse.json](./149596-slaughterhouse.json) |
@@ -1842,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Horizons | 304882 | [304882-sound-horizons.json](./304882-sound-horizons.json) |
 | Sound Slide | 114378 | [114378-sound-slide.json](./114378-sound-slide.json) |
 | Sound Voltex: Vivid Wave | 126031 | [126031-sound-voltex-vivid-wave.json](./126031-sound-voltex-vivid-wave.json) |
+| Soundboxing | 31625 | [31625-soundboxing.json](./31625-soundboxing.json) |
 | Soundsaber | 184660 | [184660-soundsaber.json](./184660-soundsaber.json) |
 | Soundscape VR | 28879 | [28879-soundscape-vr.json](./28879-soundscape-vr.json) |
 | SoundSelf | 61869 | [61869-soundself.json](./61869-soundself.json) |
@@ -1903,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Food Truck | 34588 | [34588-space-food-truck.json](./34588-space-food-truck.json) |
 | Space Force | 336915 | [336915-space-force.json](./336915-space-force.json) |
 | Space Fox Kimi and the Interstellar Fortress | 171589 | [171589-space-fox-kimi-and-the-interstellar-fortress.json](./171589-space-fox-kimi-and-the-interstellar-fortress.json) |
+| Space Fuss | 31387 | [31387-space-fuss.json](./31387-space-fuss.json) |
 | Space Garbage | 277600 | [277600-space-garbage.json](./277600-space-garbage.json) |
 | Space Gray X | 304861 | [304861-space-gray-x.json](./304861-space-gray-x.json) |
 | Space Griffon | 20661 | [20661-space-griffon.json](./20661-space-griffon.json) |
@@ -2235,6 +2239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Route | 98997 | [98997-square-route.json](./98997-square-route.json) |
 | Square Shooter | 108482 | [108482-square-shooter.json](./108482-square-shooter.json) |
 | Squared Adventure | 311262 | [311262-squared-adventure.json](./311262-squared-adventure.json) |
+| Squareface | 31585 | [31585-squareface.json](./31585-squareface.json) |
 | Squares | 101610 | [101610-squares.json](./101610-squares.json) |
 | Squeen's Adventure 3: Across The Cosmos | 242255 | [242255-squeens-adventure-3-across-the-cosmos.json](./242255-squeens-adventure-3-across-the-cosmos.json) |
 | Squewe Run | 312884 | [312884-squewe-run.json](./312884-squewe-run.json) |
@@ -2482,6 +2487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamDolls: Order of Chaos | 124261 | [124261-steamdolls-order-of-chaos.json](./124261-steamdolls-order-of-chaos.json) |
 | SteamForge | 339666 | [339666-steamforge.json](./339666-steamforge.json) |
 | SteamGear Mash | 91943 | [91943-steamgear-mash.json](./91943-steamgear-mash.json) |
+| SteamHammerVR | 31589 | [31589-steamhammervr.json](./31589-steamhammervr.json) |
 | SteamHammerVR - The Rogue Apprentice | 55903 | [55903-steamhammervr-the-rogue-apprentice.json](./55903-steamhammervr-the-rogue-apprentice.json) |
 | Steampunch | 335075 | [335075-steampunch.json](./335075-steampunch.json) |
 | SteamWorld Dig | 5772 | [5772-steamworld-dig.json](./5772-steamworld-dig.json) |
@@ -2619,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storyseeker | 135252 | [135252-storyseeker.json](./135252-storyseeker.json) |
 | Storyshift Asriel Battle! | 306665 | [306665-storyshift-asriel-battle.json](./306665-storyshift-asriel-battle.json) |
 | Stowizm | 184103 | [184103-stowizm.json](./184103-stowizm.json) |
+| Straimium Immortaly | 31627 | [31627-straimium-immortaly.json](./31627-straimium-immortaly.json) |
 | Strainge | 151703 | [151703-strainge.json](./151703-strainge.json) |
 | Stranded Near Nowhere | 102804 | [102804-stranded-near-nowhere.json](./102804-stranded-near-nowhere.json) |
 | Strandzha Adventures 3D | 311825 | [311825-strandzha-adventures-3d.json](./311825-strandzha-adventures-3d.json) |
