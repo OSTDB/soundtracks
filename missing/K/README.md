@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kosodate Quiz My Angel 2 | 40223 | [40223-kosodate-quiz-my-angel-2.json](./40223-kosodate-quiz-my-angel-2.json) |
 | Kotoko's a Little Weird | 290687 | [290687-kotokos-a-little-weird.json](./290687-kotokos-a-little-weird.json) |
 | Kotomasho: I Can't Believe This Neet Guy Turned Into a Magical Girl! | 203532 | [203532-kotomasho-i-cant-believe-this-neet-guy-turned-into-a-magical-girl.json](./203532-kotomasho-i-cant-believe-this-neet-guy-turned-into-a-magical-girl.json) |
+| Kotori no Tsubasa | 405511 | [405511-kotori-no-tsubasa.json](./405511-kotori-no-tsubasa.json) |
 | Kouchuu Ouja Mushiking: Mori no Tami no Densetsu - Minna de Tanken! Kouchuu no Mori | 123621 | [123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json](./123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json) |
 | Kouei no Tou | 206373 | [206373-kouei-no-tou.json](./206373-kouei-no-tou.json) |
 | Koutetsu Yousai Strahl | 40221 | [40221-koutetsu-yousai-strahl.json](./40221-koutetsu-yousai-strahl.json) |
