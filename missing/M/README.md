@@ -1007,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Plutonia | 312898 | [312898-micro-plutonia.json](./312898-micro-plutonia.json) |
 | MicroCity | 144375 | [144375-microcity.json](./144375-microcity.json) |
 | Microcosm | 13738 | [13738-microcosm.json](./13738-microcosm.json) |
+| MicroFab | 397661 | [397661-microfab.json](./397661-microfab.json) |
 | Microjob | 149564 | [149564-microjob.json](./149564-microjob.json) |
 | MicroLeague Football 2 | 94265 | [94265-microleague-football-2.json](./94265-microleague-football-2.json) |
 | Micropolis | 46622 | [46622-micropolis.json](./46622-micropolis.json) |
