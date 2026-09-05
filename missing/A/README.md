@@ -1988,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azangara | 77375 | [77375-azangara.json](./77375-azangara.json) |
 | Azazel | 170020 | [170020-azazel.json](./170020-azazel.json) |
 | Azera Online | 76612 | [76612-azera-online.json](./76612-azera-online.json) |
+| Azimuth | 395550 | [395550-azimuth.json](./395550-azimuth.json) |
 | Aznana | 151729 | [151729-aznana.json](./151729-aznana.json) |
 | Azrael | 192457 | [192457-azrael.json](./192457-azrael.json) |
 | Azrael | 209697 | [209697-azrael.json](./209697-azrael.json) |
