@@ -993,6 +993,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formino | 175411 | [175411-formino.json](./175411-formino.json) |
 | Formula 1 Simulator | 12998 | [12998-formula-1-simulator.json](./12998-formula-1-simulator.json) |
 | Formula 11 Mini Racing | 411563 | [411563-formula-11-mini-racing.json](./411563-formula-11-mini-racing.json) |
+| Formula Legends: Early 2010’s Season Pack | 403569 | [403569-formula-legends-early-2010-s-season-pack.json](./403569-formula-legends-early-2010-s-season-pack.json) |
+| Formula Legends: Formula E - Electric Evolution | 403568 | [403568-formula-legends-formula-e-electric-evolution.json](./403568-formula-legends-formula-e-electric-evolution.json) |
+| Formula Legends: Iconic Tracks | 403567 | [403567-formula-legends-iconic-tracks.json](./403567-formula-legends-iconic-tracks.json) |
+| Formula Legends: Late 2020’s Season Pack | 403570 | [403570-formula-legends-late-2020-s-season-pack.json](./403570-formula-legends-late-2020-s-season-pack.json) |
+| Formula Legends: Pioneer Pack | 403565 | [403565-formula-legends-pioneer-pack.json](./403565-formula-legends-pioneer-pack.json) |
+| Formula Legends: Raw Power Pack | 403563 | [403563-formula-legends-raw-power-pack.json](./403563-formula-legends-raw-power-pack.json) |
+| Formula Legends: Season Early 2010 + Turbo Pack | 403583 | [403583-formula-legends-season-early-2010-turbo-pack.json](./403583-formula-legends-season-early-2010-turbo-pack.json) |
+| Formula Legends: Tech Power Pack | 403564 | [403564-formula-legends-tech-power-pack.json](./403564-formula-legends-tech-power-pack.json) |
+| Formula Legends: Turbo Power Pack | 403566 | [403566-formula-legends-turbo-power-pack.json](./403566-formula-legends-turbo-power-pack.json) |
 | Formula One 2002 | 8300 | [8300-formula-one-2002.json](./8300-formula-one-2002.json) |
 | Formula One 2003 | 8301 | [8301-formula-one-2003.json](./8301-formula-one-2003.json) |
 | Formula Top | 199646 | [199646-formula-top.json](./199646-formula-top.json) |
@@ -1083,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragport | 260956 | [260956-fragport.json](./260956-fragport.json) |
 | Fragrant Story and Papaya's Path | 315832 | [315832-fragrant-story-and-papayas-path.json](./315832-fragrant-story-and-papayas-path.json) |
 | Frame Breaker | 304333 | [304333-frame-breaker.json](./304333-frame-breaker.json) |
+| Frame of Suffering | 403555 | [403555-frame-of-suffering.json](./403555-frame-of-suffering.json) |
 | Fran Bow | 11821 | [11821-fran-bow.json](./11821-fran-bow.json) |
 | Fran Bow Chapter 4 | 91996 | [91996-fran-bow-chapter-4.json](./91996-fran-bow-chapter-4.json) |
 | Franchise Hockey Manager 2014 | 8913 | [8913-franchise-hockey-manager-2014.json](./8913-franchise-hockey-manager-2014.json) |
