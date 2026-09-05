@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Scavengers | 381001 | [381001-void-scavengers.json](./381001-void-scavengers.json) |
 | Void Sols | 223109 | [223109-void-sols.json](./223109-void-sols.json) |
 | Void/Breaker | 339626 | [339626-void-breaker.json](./339626-void-breaker.json) |
+| Voidblade Shadows of The Realm | 374064 | [374064-voidblade-shadows-of-the-realm.json](./374064-voidblade-shadows-of-the-realm.json) |
 | Voidbloom | 410248 | [410248-voidbloom.json](./410248-voidbloom.json) |
 | Voidborn | 211924 | [211924-voidborn.json](./211924-voidborn.json) |
 | VoidCraft Island Chronicles: Sky Survival | 322401 | [322401-voidcraft-island-chronicles-sky-survival.json](./322401-voidcraft-island-chronicles-sky-survival.json) |
