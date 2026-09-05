@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universal Slot Street | 220297 | [220297-universal-slot-street.json](./220297-universal-slot-street.json) |
 | Universe 25: The Loop | 171072 | [171072-universe-25-the-loop.json](./171072-universe-25-the-loop.json) |
 | Universe of Trials | 318789 | [318789-universe-of-trials.json](./318789-universe-of-trials.json) |
+| University Life Visual Novel | 371921 | [371921-university-life-visual-novel.json](./371921-university-life-visual-novel.json) |
 | Unknown | 210888 | [210888-unknown.json](./210888-unknown.json) |
 | Unknown at This Address | 415922 | [415922-unknown-at-this-address.json](./415922-unknown-at-this-address.json) |
 | Unknown Fluffy Object | 380450 | [380450-unknown-fluffy-object.json](./380450-unknown-fluffy-object.json) |
@@ -373,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Platinum Edition | 238741 | [238741-urban-flow-platinum-edition.json](./238741-urban-flow-platinum-edition.json) |
 | Urban Flow: X-Mas Edition | 275893 | [275893-urban-flow-x-mas-edition.json](./275893-urban-flow-x-mas-edition.json) |
 | Urban Mercenary | 146297 | [146297-urban-mercenary.json](./146297-urban-mercenary.json) |
+| Urban Shadows Racing Tokyo | 371905 | [371905-urban-shadows-racing-tokyo.json](./371905-urban-shadows-racing-tokyo.json) |
 | Urban Street Fighting | 147476 | [147476-urban-street-fighting.json](./147476-urban-street-fighting.json) |
 | Urban Trial Freestyle | 196841 | [196841-urban-trial-freestyle.json](./196841-urban-trial-freestyle.json) |
 | Urban Trial Pocket | 213642 | [213642-urban-trial-pocket.json](./213642-urban-trial-pocket.json) |
@@ -385,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | US Coin | 86702 | [86702-us-coin.json](./86702-us-coin.json) |
 | USA Nature's Trails Jigsaw Edition | 338580 | [338580-usa-natures-trails-jigsaw-edition.json](./338580-usa-natures-trails-jigsaw-edition.json) |
 | Usagi Sekai: Bunny Shaman | 338581 | [338581-usagi-sekai-bunny-shaman.json](./338581-usagi-sekai-bunny-shaman.json) |
+| USD Clicker | 371916 | [371916-usd-clicker.json](./371916-usd-clicker.json) |
 | Use Holy Water! | 243961 | [243961-use-holy-water.json](./243961-use-holy-water.json) |
 | Useless Box: The Game | 126615 | [126615-useless-box-the-game.json](./126615-useless-box-the-game.json) |
 | Useless Demon Lord | 264351 | [264351-useless-demon-lord.json](./264351-useless-demon-lord.json) |
