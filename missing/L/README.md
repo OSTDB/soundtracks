@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landlord Tycoon | 127984 | [127984-landlord-tycoon.json](./127984-landlord-tycoon.json) |
 | Landmaster | 400859 | [400859-landmaster.json](./400859-landmaster.json) |
 | Landnav | 197380 | [197380-landnav.json](./197380-landnav.json) |
+| Landomayzer | 370122 | [370122-landomayzer.json](./370122-landomayzer.json) |
 | Lands of Hope Redemption | 34439 | [34439-lands-of-hope-redemption.json](./34439-lands-of-hope-redemption.json) |
 | Landscaper Simulator | 406691 | [406691-landscaper-simulator.json](./406691-landscaper-simulator.json) |
 | Landshay: Event Night | 186348 | [186348-landshay-event-night.json](./186348-landshay-event-night.json) |
@@ -145,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Bloody Snack | 256553 | [256553-last-bloody-snack.json](./256553-last-bloody-snack.json) |
 | Last Bus Home | 208617 | [208617-last-bus-home.json](./208617-last-bus-home.json) |
 | Last Call BBS | 205064 | [205064-last-call-bbs.json](./205064-last-call-bbs.json) |
+| Last Card Dungeon | 370139 | [370139-last-card-dungeon.json](./370139-last-card-dungeon.json) |
 | Last Case | 377058 | [377058-last-case.json](./377058-last-case.json) |
 | Last Chaos | 90316 | [90316-last-chaos.json](./90316-last-chaos.json) |
 | Last Contingency | 152902 | [152902-last-contingency.json](./152902-last-contingency.json) |
@@ -833,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Scoot | 386702 | [386702-loot-scoot.json](./386702-loot-scoot.json) |
 | Lootale Slash | 398330 | [398330-lootale-slash.json](./398330-lootale-slash.json) |
 | Lootbag Tactics | 409527 | [409527-lootbag-tactics.json](./409527-lootbag-tactics.json) |
+| Lootbane | 370125 | [370125-lootbane.json](./370125-lootbane.json) |
 | Lootbox Gungeon | 179162 | [179162-lootbox-gungeon.json](./179162-lootbox-gungeon.json) |
 | Lootbox Lyfe+ | 238185 | [238185-lootbox-lyfe.json](./238185-lootbox-lyfe.json) |
 | LootSlime | 397710 | [397710-lootslime.json](./397710-lootslime.json) |
