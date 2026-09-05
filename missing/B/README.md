@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitz Breaker | 17457 | [17457-blitz-breaker.json](./17457-blitz-breaker.json) |
 | Blitz Brigade | 63292 | [63292-blitz-brigade.json](./63292-blitz-brigade.json) |
 | Blitz Guard | 267100 | [267100-blitz-guard.json](./267100-blitz-guard.json) |
+| Blitz of Battle | 412275 | [412275-blitz-of-battle.json](./412275-blitz-of-battle.json) |
 | Blitz: The League | 264860 | [264860-blitz-the-league.json](./264860-blitz-the-league.json) |
 | Blitzkrieg 2 Anthology | 36260 | [36260-blitzkrieg-2-anthology.json](./36260-blitzkrieg-2-anthology.json) |
 | Blitzkrieg 3: Deluxe Edition | 52653 | [52653-blitzkrieg-3-deluxe-edition.json](./52653-blitzkrieg-3-deluxe-edition.json) |
