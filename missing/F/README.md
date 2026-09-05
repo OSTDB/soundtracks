@@ -310,6 +310,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Father and Son | 97361 | [97361-father-and-son.json](./97361-father-and-son.json) |
 | Father's Island | 33072 | [33072-fathers-island.json](./33072-fathers-island.json) |
 | Fathom | 10966 | [10966-fathom.json](./10966-fathom.json) |
+| Fathomless | 415095 | [415095-fathomless.json](./415095-fathomless.json) |
+| Fathoms | 415121 | [415121-fathoms.json](./415121-fathoms.json) |
 | Fatrifice | 244496 | [244496-fatrifice.json](./244496-fatrifice.json) |
 | FatSheep Crisis | 247763 | [247763-fatsheep-crisis.json](./247763-fatsheep-crisis.json) |
 | Fatty Fight | 256544 | [256544-fatty-fight.json](./256544-fatty-fight.json) |
@@ -1158,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogstool | 337479 | [337479-frogstool.json](./337479-frogstool.json) |
 | Frogurai | 226454 | [226454-frogurai.json](./226454-frogurai.json) |
 | Frogvival | 235482 | [235482-frogvival.json](./235482-frogvival.json) |
+| From Below | 415065 | [415065-from-below.json](./415065-from-below.json) |
 | From Flames | 127977 | [127977-from-flames.json](./127977-from-flames.json) |
 | From Four Sides | 296090 | [296090-from-four-sides.json](./296090-from-four-sides.json) |
 | From Hell | 320524 | [320524-from-hell.json](./320524-from-hell.json) |
@@ -1335,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Theater | 251842 | [251842-future-theater.json](./251842-future-theater.json) |
 | Future War: Reborn | 78061 | [78061-future-war-reborn.json](./78061-future-war-reborn.json) |
 | Fuu3's Fuun Journey | 265927 | [265927-fuu3s-fuun-journey.json](./265927-fuu3s-fuun-journey.json) |
+| Fuwa! Fuwa! Omurice Simulator Roguelite | 415083 | [415083-fuwa-fuwa-omurice-simulator-roguelite.json](./415083-fuwa-fuwa-omurice-simulator-roguelite.json) |
 | Fuyu no Rondo | 69310 | [69310-fuyu-no-rondo.json](./69310-fuyu-no-rondo.json) |
 | Fuzzy Critters | 104644 | [104644-fuzzy-critters.json](./104644-fuzzy-critters.json) |
 | Fuzzy World Cup Qatar 2022 | 312349 | [312349-fuzzy-world-cup-qatar-2022.json](./312349-fuzzy-world-cup-qatar-2022.json) |
