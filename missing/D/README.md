@@ -663,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Rigs | 134060 | [134060-desert-rigs.json](./134060-desert-rigs.json) |
 | Desert Rush | 265430 | [265430-desert-rush.json](./265430-desert-rush.json) |
 | Deserted Island | 138823 | [138823-deserted-island.json](./138823-deserted-island.json) |
+| DesertLand 2115 | 34350 | [34350-desertland-2115.json](./34350-desertland-2115.json) |
 | Designed for Danger | 321771 | [321771-designed-for-danger.json](./321771-designed-for-danger.json) |
 | Desire Remaster Version | 57087 | [57087-desire-remaster-version.json](./57087-desire-remaster-version.json) |
 | Desired Mistake | 82127 | [82127-desired-mistake.json](./82127-desired-mistake.json) |
@@ -1427,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Lair | 272020 | [272020-dragons-lair.json](./272020-dragons-lair.json) |
 | Dragon's Lair | 272021 | [272021-dragons-lair.json](./272021-dragons-lair.json) |
 | Dragon's Lair Trilogy | 50593 | [50593-dragons-lair-trilogy.json](./50593-dragons-lair-trilogy.json) |
+| Dragon's Wake | 34533 | [34533-dragons-wake.json](./34533-dragons-wake.json) |
 | Dragon's Wandering Tavern | 153985 | [153985-dragons-wandering-tavern.json](./153985-dragons-wandering-tavern.json) |
 | Dragonbolt Vanguard | 55893 | [55893-dragonbolt-vanguard.json](./55893-dragonbolt-vanguard.json) |
 | Dragonborne | 140594 | [140594-dragonborne.json](./140594-dragonborne.json) |
