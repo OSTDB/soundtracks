@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganz Schön Clever | 105957 | [105957-ganz-schon-clever.json](./105957-ganz-schon-clever.json) |
 | Gapper | 57674 | [57674-gapper.json](./57674-gapper.json) |
 | Garage: Bad Dream Adventure | 24947 | [24947-garage-bad-dream-adventure.json](./24947-garage-bad-dream-adventure.json) |
+| Garbage Collector | 376437 | [376437-garbage-collector.json](./376437-garbage-collector.json) |
 | Garbage Truck Driving Simulator | 256561 | [256561-garbage-truck-driving-simulator.json](./256561-garbage-truck-driving-simulator.json) |
 | Garbage Truck: Brushy Pick Up | 87273 | [87273-garbage-truck-brushy-pick-up.json](./87273-garbage-truck-brushy-pick-up.json) |
 | Garden | 185675 | [185675-garden.json](./185675-garden.json) |
@@ -461,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigolo | 40777 | [40777-gigolo.json](./40777-gigolo.json) |
 | Gilbert and the chemystical island | 319364 | [319364-gilbert-and-the-chemystical-island.json](./319364-gilbert-and-the-chemystical-island.json) |
 | Gilded Destiny | 236528 | [236528-gilded-destiny.json](./236528-gilded-destiny.json) |
+| Gilroy's Grove | 376456 | [376456-gilroys-grove.json](./376456-gilroys-grove.json) |
 | Gilt | 378214 | [378214-gilt.json](./378214-gilt.json) |
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen | 267651 | [267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json](./267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json) |
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen 2 | 267652 | [267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json](./267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json) |
@@ -519,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch Daddy | 277009 | [277009-glitch-daddy.json](./277009-glitch-daddy.json) |
 | Glitch Party | 235455 | [235455-glitch-party.json](./235455-glitch-party.json) |
 | Glitch Racer | 383936 | [383936-glitch-racer.json](./383936-glitch-racer.json) |
+| Glitch Tower | 376453 | [376453-glitch-tower.json](./376453-glitch-tower.json) |
 | Glitch World | 311251 | [311251-glitch-world.json](./311251-glitch-world.json) |
 | Glitchery | 386143 | [386143-glitchery.json](./386143-glitchery.json) |
 | Glitchhikers: The Spaces Between | 186873 | [186873-glitchhikers-the-spaces-between.json](./186873-glitchhikers-the-spaces-between.json) |
@@ -563,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnosis | 201292 | [201292-gnosis.json](./201292-gnosis.json) |
 | Gnosis | 292284 | [292284-gnosis.json](./292284-gnosis.json) |
 | Go | 13722 | [13722-go.json](./13722-go.json) |
+| Go Ape Ship! | 376467 | [376467-go-ape-ship.json](./376467-go-ape-ship.json) |
 | Go Big | 394220 | [394220-go-big.json](./394220-go-big.json) |
 | Go Fight Fantastic! | 127364 | [127364-go-fight-fantastic.json](./127364-go-fight-fantastic.json) |
 | Go Go Muffin | 212451 | [212451-go-go-muffin.json](./212451-go-go-muffin.json) |
@@ -608,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoBlock's Impossible Medley | 28884 | [28884-goblocks-impossible-medley.json](./28884-goblocks-impossible-medley.json) |
 | Goblr: Goblin Date Night Simulator | 238719 | [238719-goblr-goblin-date-night-simulator.json](./238719-goblr-goblin-date-night-simulator.json) |
 | Gobot | 153987 | [153987-gobot.json](./153987-gobot.json) |
+| Gobotix: Duo | 376435 | [376435-gobotix-duo.json](./376435-gobotix-duo.json) |
 | Gobs of Games | 49928 | [49928-gobs-of-games.json](./49928-gobs-of-games.json) |
 | God Eater 2 | 11853 | [11853-god-eater-2.json](./11853-god-eater-2.json) |
 | God is in the Radio | 269314 | [269314-god-is-in-the-radio.json](./269314-god-is-in-the-radio.json) |
