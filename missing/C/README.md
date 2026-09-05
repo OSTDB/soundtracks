@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climber | 269843 | [269843-climber.json](./269843-climber.json) |
 | Climbing Simplified | 392812 | [392812-climbing-simplified.json](./392812-climbing-simplified.json) |
 | Clinton vs. Trump: Head Soccer Challenge | 261526 | [261526-clinton-vs-trump-head-soccer-challenge.json](./261526-clinton-vs-trump-head-soccer-challenge.json) |
+| Clione's Bomb-Bomb Sweeper | 369050 | [369050-cliones-bomb-bomb-sweeper.json](./369050-cliones-bomb-bomb-sweeper.json) |
 | Clive vs. Hives 2 | 188685 | [188685-clive-vs-hives-2.json](./188685-clive-vs-hives-2.json) |
 | Clock of Atonement | 240491 | [240491-clock-of-atonement.json](./240491-clock-of-atonement.json) |
 | Clock Out | 312922 | [312922-clock-out.json](./312922-clock-out.json) |
@@ -1312,6 +1313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come Home: Premium Edition | 238762 | [238762-come-home-premium-edition.json](./238762-come-home-premium-edition.json) |
 | Come to Jesus | 179726 | [179726-come-to-jesus.json](./179726-come-to-jesus.json) |
 | Comer | 94225 | [94225-comer.json](./94225-comer.json) |
+| Comet Tail: Polygon Panic | 369010 | [369010-comet-tail-polygon-panic.json](./369010-comet-tail-polygon-panic.json) |
 | Coming Out Simulator 2014 | 60030 | [60030-coming-out-simulator-2014.json](./60030-coming-out-simulator-2014.json) |
 | Command & Conquer: Generals | 649 | [649-command-and-conquer-generals.json](./649-command-and-conquer-generals.json) |
 | Command & Conquer: Red Alert - Retaliation | 18785 | [18785-command-and-conquer-red-alert-retaliation.json](./18785-command-and-conquer-red-alert-retaliation.json) |
@@ -1488,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corbid! A Colorful Adventure | 223157 | [223157-corbid-a-colorful-adventure.json](./223157-corbid-a-colorful-adventure.json) |
 | Core | 400887 | [400887-core.json](./400887-core.json) |
 | Core Defense | 127314 | [127314-core-defense.json](./127314-core-defense.json) |
+| Core Hustlers | 369034 | [369034-core-hustlers.json](./369034-core-hustlers.json) |
 | Core Masters | 62771 | [62771-core-masters.json](./62771-core-masters.json) |
 | Corepunk | 127513 | [127513-corepunk.json](./127513-corepunk.json) |
 | CoreVR | 291214 | [291214-corevr.json](./291214-corevr.json) |
@@ -2054,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Shadow | 390519 | [390519-curse-of-the-shadow.json](./390519-curse-of-the-shadow.json) |
 | Curse of the Shadow Samurai | 254761 | [254761-curse-of-the-shadow-samurai.json](./254761-curse-of-the-shadow-samurai.json) |
 | Curse Removal Service | 218150 | [218150-curse-removal-service.json](./218150-curse-removal-service.json) |
+| Curse the Cursor | 369028 | [369028-curse-the-cursor.json](./369028-curse-the-cursor.json) |
 | Cursed Baby | 325831 | [325831-cursed-baby.json](./325831-cursed-baby.json) |
 | Cursed Bet | 253590 | [253590-cursed-bet.json](./253590-cursed-bet.json) |
 | Cursed Crew | 217018 | [217018-cursed-crew.json](./217018-cursed-crew.json) |
