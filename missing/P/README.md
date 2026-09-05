@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint By Numbers: 8-Bit World Ep. 7 | 305512 | [305512-paint-by-numbers-8-bit-world-ep-7.json](./305512-paint-by-numbers-8-bit-world-ep-7.json) |
 | Paint By Numbers: 8-Bit World Ep. 8 | 305504 | [305504-paint-by-numbers-8-bit-world-ep-8.json](./305504-paint-by-numbers-8-bit-world-ep-8.json) |
 | Paint By Numbers: 8-Bit World Ep. 9 | 305509 | [305509-paint-by-numbers-8-bit-world-ep-9.json](./305509-paint-by-numbers-8-bit-world-ep-9.json) |
+| Paint by Words | 374600 | [374600-paint-by-words.json](./374600-paint-by-words.json) |
 | Paint Chase | 317578 | [317578-paint-chase.json](./317578-paint-chase.json) |
 | Paint Hit | 102784 | [102784-paint-hit.json](./102784-paint-hit.json) |
 | Paint My Cat - Color and Play | 96045 | [96045-paint-my-cat-color-and-play.json](./96045-paint-my-cat-color-and-play.json) |
@@ -183,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperman | 385577 | [385577-paperman.json](./385577-paperman.json) |
 | PaperPlanets | 106612 | [106612-paperplanets.json](./106612-paperplanets.json) |
 | Paperquarium | 249458 | [249458-paperquarium.json](./249458-paperquarium.json) |
+| Paperwork | 374620 | [374620-paperwork.json](./374620-paperwork.json) |
 | PapiCatch | 87241 | [87241-papicatch.json](./87241-papicatch.json) |
 | PapiFlap | 87249 | [87249-papiflap.json](./87249-papiflap.json) |
 | PapiJump | 72701 | [72701-papijump.json](./72701-papijump.json) |
@@ -256,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking 3D - Car Parking | 102206 | [102206-parking-3d-car-parking.json](./102206-parking-3d-car-parking.json) |
 | Parking Attendant | 151186 | [151186-parking-attendant.json](./151186-parking-attendant.json) |
 | Parking Attendant Simulator | 326379 | [326379-parking-attendant-simulator.json](./326379-parking-attendant-simulator.json) |
+| Parking Garage Simulator | 374602 | [374602-parking-garage-simulator.json](./374602-parking-garage-simulator.json) |
 | Parking Jam: Complete Edition | 315855 | [315855-parking-jam-complete-edition.json](./315855-parking-jam-complete-edition.json) |
 | Parking Mania | 62763 | [62763-parking-mania.json](./62763-parking-mania.json) |
 | Parking Masters: Bus Driver | 313513 | [313513-parking-masters-bus-driver.json](./313513-parking-masters-bus-driver.json) |
@@ -298,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paso Comic PuruPuru Paradise: Santa Claus Tokushuu | 62213 | [62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json](./62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json) |
 | Pass On | 183076 | [183076-pass-on.json](./183076-pass-on.json) |
 | Pass the Pigs | 18271 | [18271-pass-the-pigs.json](./18271-pass-the-pigs.json) |
+| Pass Tiger Cage | 374599 | [374599-pass-tiger-cage.json](./374599-pass-tiger-cage.json) |
 | Passage | 204687 | [204687-passage.json](./204687-passage.json) |
 | Passage | 209700 | [209700-passage.json](./209700-passage.json) |
 | Passengers of Execution | 143743 | [143743-passengers-of-execution.json](./143743-passengers-of-execution.json) |
@@ -625,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phy Lab | 410210 | [410210-phy-lab.json](./410210-phy-lab.json) |
 | Phyrexia | 208055 | [208055-phyrexia.json](./208055-phyrexia.json) |
 | Physical Spheres | 305519 | [305519-physical-spheres.json](./305519-physical-spheres.json) |
+| Physical Train: Chamland National Railway | 374625 | [374625-physical-train-chamland-national-railway.json](./374625-physical-train-chamland-national-railway.json) |
 | Physics! Fun | 297236 | [297236-physics-fun.json](./297236-physics-fun.json) |
 | Pi.exe | 192463 | [192463-pi-exe.json](./192463-pi-exe.json) |
 | Pia Carrot e Youkoso!! 2.2 | 62747 | [62747-pia-carrot-e-youkoso-2-2.json](./62747-pia-carrot-e-youkoso-2-2.json) |
@@ -890,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Storm | 182547 | [182547-pixel-storm.json](./182547-pixel-storm.json) |
 | Pixel Survival Game 2 | 241636 | [241636-pixel-survival-game-2.json](./241636-pixel-survival-game-2.json) |
 | Pixel Survivors | 35921 | [35921-pixel-survivors.json](./35921-pixel-survivors.json) |
+| Pixel Survivors: Defense | 374632 | [374632-pixel-survivors-defense.json](./374632-pixel-survivors-defense.json) |
 | Pixel Sweepers | 259244 | [259244-pixel-sweepers.json](./259244-pixel-sweepers.json) |
 | Pixel Washer | 263778 | [263778-pixel-washer.json](./263778-pixel-washer.json) |
 | PixelBot Extreme! | 96229 | [96229-pixelbot-extreme.json](./96229-pixelbot-extreme.json) |
@@ -924,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Time Explosion | 125445 | [125445-pizza-time-explosion.json](./125445-pizza-time-explosion.json) |
 | Pizza Western | 318191 | [318191-pizza-western.json](./318191-pizza-western.json) |
 | PizzaBoy | 319955 | [319955-pizzaboy.json](./319955-pizzaboy.json) |
+| Pizzaïolo-Ninja | 374603 | [374603-pizzaiolo-ninja.json](./374603-pizzaiolo-ninja.json) |
 | PJ Masks Power Heroes: Mighty Alliance | 282048 | [282048-pj-masks-power-heroes-mighty-alliance.json](./282048-pj-masks-power-heroes-mighty-alliance.json) |
 | Pj Masks: Heroes of the Night | 148527 | [148527-pj-masks-heroes-of-the-night.json](./148527-pj-masks-heroes-of-the-night.json) |
 | PJ Masks: Heroes of the Night - Complete Edition | 214727 | [214727-pj-masks-heroes-of-the-night-complete-edition.json](./214727-pj-masks-heroes-of-the-night-complete-edition.json) |
@@ -1004,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plato | 86967 | [86967-plato.json](./86967-plato.json) |
 | Platzkart Simulator | 158201 | [158201-platzkart-simulator.json](./158201-platzkart-simulator.json) |
 | Plausible Deniability: Cover Your Tracks | 410258 | [410258-plausible-deniability-cover-your-tracks.json](./410258-plausible-deniability-cover-your-tracks.json) |
+| Play Abalone | 374615 | [374615-play-abalone.json](./374615-play-abalone.json) |
 | Play Club | 22478 | [22478-play-club.json](./22478-play-club.json) |
 | Play Dead! #2 | 183073 | [183073-play-dead-2.json](./183073-play-dead-2.json) |
 | Play Fire: Battle Royale | 221381 | [221381-play-fire-battle-royale.json](./221381-play-fire-battle-royale.json) |
@@ -1181,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokkén Tournament: Update Ver.N01 | 300364 | [300364-pokken-tournament-update-ver-n01.json](./300364-pokken-tournament-update-ver-n01.json) |
 | Polar Bowler 1st Frame | 294452 | [294452-polar-bowler-1st-frame.json](./294452-polar-bowler-1st-frame.json) |
 | Polar Panic | 21768 | [21768-polar-panic.json](./21768-polar-panic.json) |
+| Polaria | 374601 | [374601-polaria.json](./374601-polaria.json) |
 | Polary | 163953 | [163953-polary.json](./163953-polary.json) |
 | Polda 7 | 205730 | [205730-polda-7.json](./205730-polda-7.json) |
 | Pole Position | 5691 | [5691-pole-position.json](./5691-pole-position.json) |
@@ -1613,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Re-Rainbow | 321785 | [321785-project-re-rainbow.json](./321785-project-re-rainbow.json) |
 | Project Root | 17145 | [17145-project-root.json](./17145-project-root.json) |
 | Project S.A.M | 270952 | [270952-project-s-a-m.json](./270952-project-s-a-m.json) |
+| Project Sara | 374591 | [374591-project-sara.json](./374591-project-sara.json) |
 | Project Scav | 173279 | [173279-project-scav.json](./173279-project-scav.json) |
 | Project Sekuter | 317606 | [317606-project-sekuter.json](./317606-project-sekuter.json) |
 | Project Shiver Wing | 212452 | [212452-project-shiver-wing.json](./212452-project-shiver-wing.json) |
@@ -1783,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purple Chicken Spaceman | 117777 | [117777-purple-chicken-spaceman.json](./117777-purple-chicken-spaceman.json) |
 | Purple Fantasy | 213610 | [213610-purple-fantasy.json](./213610-purple-fantasy.json) |
 | Purple War | 198541 | [198541-purple-war.json](./198541-purple-war.json) |
+| Purplearc | 374598 | [374598-purplearc.json](./374598-purplearc.json) |
 | Purrdy's Race | 335111 | [335111-purrdys-race.json](./335111-purrdys-race.json) |
 | Purrfect Tanks: The Yarnpocalypse | 391064 | [391064-purrfect-tanks-the-yarnpocalypse.json](./391064-purrfect-tanks-the-yarnpocalypse.json) |
 | Purrrfect Love | 204066 | [204066-purrrfect-love.json](./204066-purrrfect-love.json) |
