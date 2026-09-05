@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aikatsu! 365 Idol Days | 177559 | [177559-aikatsu-365-idol-days.json](./177559-aikatsu-365-idol-days.json) |
 | Aikatsu! Futari no My Princess | 222496 | [222496-aikatsu-futari-no-my-princess.json](./222496-aikatsu-futari-no-my-princess.json) |
 | Aikiss 2: Complete Edition | 141893 | [141893-aikiss-2-complete-edition.json](./141893-aikiss-2-complete-edition.json) |
+| Ailse of Shadows | 410227 | [410227-ailse-of-shadows.json](./410227-ailse-of-shadows.json) |
 | Ailuri | 189192 | [189192-ailuri.json](./189192-ailuri.json) |
 | Aimee's Cafe | 266520 | [266520-aimees-cafe.json](./266520-aimees-cafe.json) |
 | AionGuard | 94732 | [94732-aionguard.json](./94732-aionguard.json) |
@@ -1792,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Altair | 69848 | [69848-attack-on-altair.json](./69848-attack-on-altair.json) |
 | Attack on Reality | 231612 | [231612-attack-on-reality.json](./231612-attack-on-reality.json) |
 | Attack on Titan | 14879 | [14879-attack-on-titan.json](./14879-attack-on-titan.json) |
+| Attack Only | 410224 | [410224-attack-only.json](./410224-attack-only.json) |
 | Attack: Helicopter Simulator 2020 | 171077 | [171077-attack-helicopter-simulator-2020.json](./171077-attack-helicopter-simulator-2020.json) |
 | Attorney of the Arcane | 241048 | [241048-attorney-of-the-arcane.json](./241048-attorney-of-the-arcane.json) |
 | Attract Fragments 5 | 119747 | [119747-attract-fragments-5.json](./119747-attract-fragments-5.json) |
