@@ -1063,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life 2: Fairytale Kingdom World | 171608 | [171608-the-game-of-life-2-fairytale-kingdom-world.json](./171608-the-game-of-life-2-fairytale-kingdom-world.json) |
 | The Game of Life 2: Sandy Shores World | 171592 | [171592-the-game-of-life-2-sandy-shores-world.json](./171592-the-game-of-life-2-sandy-shores-world.json) |
 | The Game That Takes Place on a Cruise Ship | 408818 | [408818-the-game-that-takes-place-on-a-cruise-ship.json](./408818-the-game-that-takes-place-on-a-cruise-ship.json) |
+| The Game That Was Stolen From Me at Indiecade2019 | 396233 | [396233-the-game-that-was-stolen-from-me-at-indiecade2019.json](./396233-the-game-that-was-stolen-from-me-at-indiecade2019.json) |
 | The Gannet | 202968 | [202968-the-gannet.json](./202968-the-gannet.json) |
 | The Gene Machine | 19672 | [19672-the-gene-machine.json](./19672-the-gene-machine.json) |
 | The General | 174369 | [174369-the-general.json](./174369-the-general.json) |
@@ -1493,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mummy: Demastered | 36856 | [36856-the-mummy-demastered.json](./36856-the-mummy-demastered.json) |
 | The Murder Hotel | 247770 | [247770-the-murder-hotel.json](./247770-the-murder-hotel.json) |
 | The Murder of Sonic the Hedgehog | 243385 | [243385-the-murder-of-sonic-the-hedgehog.json](./243385-the-murder-of-sonic-the-hedgehog.json) |
+| The Mushrooms' Happy New Year | 396193 | [396193-the-mushrooms-happy-new-year.json](./396193-the-mushrooms-happy-new-year.json) |
 | The Mutineer | 139463 | [139463-the-mutineer.json](./139463-the-mutineer.json) |
 | The Mutton Horn: Jump Jump! | 105379 | [105379-the-mutton-horn-jump-jump.json](./105379-the-mutton-horn-jump-jump.json) |
 | The Mysteries of Baroque | 110159 | [110159-the-mysteries-of-baroque.json](./110159-the-mysteries-of-baroque.json) |
@@ -1694,6 +1696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of Grisly Manor | 61104 | [61104-the-secret-of-grisly-manor.json](./61104-the-secret-of-grisly-manor.json) |
 | The Secret of Rooms | 207518 | [207518-the-secret-of-rooms.json](./207518-the-secret-of-rooms.json) |
 | The Secret of St. Brides | 12965 | [12965-the-secret-of-st-brides.json](./12965-the-secret-of-st-brides.json) |
+| The Secret Story 1996 | 396191 | [396191-the-secret-story-1996.json](./396191-the-secret-story-1996.json) |
 | The Secrets | 178686 | [178686-the-secrets.json](./178686-the-secrets.json) |
 | The Secrets of Atlantis: The Sacred Legacy | 19458 | [19458-the-secrets-of-atlantis-the-sacred-legacy.json](./19458-the-secrets-of-atlantis-the-sacred-legacy.json) |
 | The Secrets of Hope | 236533 | [236533-the-secrets-of-hope.json](./236533-the-secrets-of-hope.json) |
@@ -2070,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There a no Armadillos in this game | 129212 | [129212-there-a-no-armadillos-in-this-game.json](./129212-there-a-no-armadillos-in-this-game.json) |
 | There Can Be Only One | 181893 | [181893-there-can-be-only-one.json](./181893-there-can-be-only-one.json) |
 | There Exists Nobody | 322970 | [322970-there-exists-nobody.json](./322970-there-exists-nobody.json) |
+| There Is No Escape | 396213 | [396213-there-is-no-escape.json](./396213-there-is-no-escape.json) |
 | There Is No Light | 138213 | [138213-there-is-no-light.json](./138213-there-is-no-light.json) |
 | There Is No Turning Back! | 111004 | [111004-there-is-no-turning-back.json](./111004-there-is-no-turning-back.json) |
 | There Is Nothing Here | 179174 | [179174-there-is-nothing-here.json](./179174-there-is-nothing-here.json) |
@@ -2140,6 +2144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Damn Aliens VR | 29937 | [29937-those-damn-aliens-vr.json](./29937-those-damn-aliens-vr.json) |
 | Those Nights at Ring's 2 | 336360 | [336360-those-nights-at-rings-2.json](./336360-those-nights-at-rings-2.json) |
 | Thrasher | 279618 | [279618-thrasher.json](./279618-thrasher.json) |
+| Threadline | 396214 | [396214-threadline.json](./396214-threadline.json) |
 | Threads of War | 296691 | [296691-threads-of-war.json](./296691-threads-of-war.json) |
 | Three Bosses | 174323 | [174323-three-bosses.json](./174323-three-bosses.json) |
 | Three Dimension | 189183 | [189183-three-dimension.json](./189183-three-dimension.json) |
@@ -2388,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Woods PGA Tour 2008 | 51234 | [51234-tiger-woods-pga-tour-2008.json](./51234-tiger-woods-pga-tour-2008.json) |
 | Tightrope Walking | 178076 | [178076-tightrope-walking.json](./178076-tightrope-walking.json) |
 | Tik Tak Caro | 239328 | [239328-tik-tak-caro.json](./239328-tik-tak-caro.json) |
+| Tik Werlen | 396194 | [396194-tik-werlen.json](./396194-tik-werlen.json) |
 | Tikal & Chaos | 331716 | [331716-tikal-and-chaos.json](./331716-tikal-and-chaos.json) |
 | Tiki Ombo | 105914 | [105914-tiki-ombo.json](./105914-tiki-ombo.json) |
 | Tiki Taka Soccer | 58219 | [58219-tiki-taka-soccer.json](./58219-tiki-taka-soccer.json) |
@@ -2512,6 +2518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Rescue! 3 | 96038 | [96038-to-the-rescue-3.json](./96038-to-the-rescue-3.json) |
 | To the Rescue! 5 | 87221 | [87221-to-the-rescue-5.json](./87221-to-the-rescue-5.json) |
 | To the Stars | 336917 | [336917-to-the-stars.json](./336917-to-the-stars.json) |
+| To the Stars Idle | 396212 | [396212-to-the-stars-idle.json](./396212-to-the-stars-idle.json) |
 | Toad on Fire | 139482 | [139482-toad-on-fire.json](./139482-toad-on-fire.json) |
 | Toad Strikes Back | 134068 | [134068-toad-strikes-back.json](./134068-toad-strikes-back.json) |
 | Toad Tales | 272578 | [272578-toad-tales.json](./272578-toad-tales.json) |
@@ -3164,6 +3171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trickster VR: Horde Attack! | 119759 | [119759-trickster-vr-horde-attack.json](./119759-trickster-vr-horde-attack.json) |
 | Tricky Doors | 203573 | [203573-tricky-doors.json](./203573-tricky-doors.json) |
 | Tricky Machines | 157160 | [157160-tricky-machines.json](./157160-tricky-machines.json) |
+| Tricky Monkey Zoo | 396228 | [396228-tricky-monkey-zoo.json](./396228-tricky-monkey-zoo.json) |
 | Tricky Quicky | 78066 | [78066-tricky-quicky.json](./78066-tricky-quicky.json) |
 | Tricky Tracks | 229335 | [229335-tricky-tracks.json](./229335-tricky-tracks.json) |
 | Tridle | 228715 | [228715-tridle.json](./228715-tridle.json) |
@@ -3194,6 +3202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Toy Trivia | 101614 | [101614-trivia-vault-toy-trivia.json](./101614-trivia-vault-toy-trivia.json) |
 | Trivial Pursuit: NASCAR | 100170 | [100170-trivial-pursuit-nascar.json](./100170-trivial-pursuit-nascar.json) |
 | Trivial Pursuit: The CD32 Edition | 39040 | [39040-trivial-pursuit-the-cd32-edition.json](./39040-trivial-pursuit-the-cd32-edition.json) |
+| Trivial PurTwitch | 396241 | [396241-trivial-purtwitch.json](./396241-trivial-purtwitch.json) |
 | Trizeal | 93063 | [93063-trizeal.json](./93063-trizeal.json) |
 | Trizeal Remix | 32927 | [32927-trizeal-remix.json](./32927-trizeal-remix.json) |
 | TRL: The Rail Loaders | 266485 | [266485-trl-the-rail-loaders.json](./266485-trl-the-rail-loaders.json) |
