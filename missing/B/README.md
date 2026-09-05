@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biphase | 148549 | [148549-biphase.json](./148549-biphase.json) |
 | Bird Alone | 135897 | [135897-bird-alone.json](./135897-bird-alone.json) |
 | Bird Fall | 37150 | [37150-bird-fall.json](./37150-bird-fall.json) |
+| Bird Game III | 381008 | [381008-bird-game-iii.json](./381008-bird-game-iii.json) |
 | Bird Mania 3D | 65254 | [65254-bird-mania-3d.json](./65254-bird-mania-3d.json) |
 | Bird Mania 3D Christmas | 62258 | [62258-bird-mania-3d-christmas.json](./62258-bird-mania-3d-christmas.json) |
 | Bird Shooter | 229974 | [229974-bird-shooter.json](./229974-bird-shooter.json) |
@@ -1340,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolix | 300382 | [300382-bolix.json](./300382-bolix.json) |
 | Boll Deluxe | 134084 | [134084-boll-deluxe.json](./134084-boll-deluxe.json) |
 | Bolo Ball | 94224 | [94224-bolo-ball.json](./94224-bolo-ball.json) |
+| Bolt Action | 380996 | [380996-bolt-action.json](./380996-bolt-action.json) |
 | Bomb Bomb Bomb | 248900 | [248900-bomb-bomb-bomb.json](./248900-bomb-bomb-bomb.json) |
 | Bomb Bowling | 307307 | [307307-bomb-bowling.json](./307307-bomb-bowling.json) |
 | Bomb Craft Tnt | 88319 | [88319-bomb-craft-tnt.json](./88319-bomb-craft-tnt.json) |
