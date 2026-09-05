@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seishin Hakai | 260976 | [260976-seishin-hakai.json](./260976-seishin-hakai.json) |
 | Seka II | 292323 | [292323-seka-ii.json](./292323-seka-ii.json) |
 | Sekai to Sekai no Mannaka de | 187532 | [187532-sekai-to-sekai-no-mannaka-de.json](./187532-sekai-to-sekai-no-mannaka-de.json) |
+| Sekien no Inganock ~What a Beautiful People~ Fullvoice ReBORN | 378204 | [378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json](./378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json) |
 | Selatria | 166217 | [166217-selatria.json](./166217-selatria.json) |
 | Select Oblige | 321778 | [321778-select-oblige.json](./321778-select-oblige.json) |
 | Self Deleted | 412985 | [412985-self-deleted.json](./412985-self-deleted.json) |
@@ -876,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelldom | 330101 | [330101-shelldom.json](./330101-shelldom.json) |
 | Shelled Flame | 182528 | [182528-shelled-flame.json](./182528-shelled-flame.json) |
 | Shelley Duvall's It's a Bird's Life | 79294 | [79294-shelley-duvalls-its-a-birds-life.json](./79294-shelley-duvalls-its-a-birds-life.json) |
+| Shellie's Secret | 378169 | [378169-shellies-secret.json](./378169-shellies-secret.json) |
 | Shellshock | 20635 | [20635-shellshock.json](./20635-shellshock.json) |
 | Sheltered Double Pack | 186885 | [186885-sheltered-double-pack.json](./186885-sheltered-double-pack.json) |
 | Shelves and Sorcery: Tidy Up the Enchanted Shop | 411566 | [411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json](./411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json) |
@@ -1379,6 +1381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyward | 117099 | [117099-skyward.json](./117099-skyward.json) |
 | Skyweaver | 123039 | [123039-skyweaver.json](./123039-skyweaver.json) |
 | Slag | 70398 | [70398-slag.json](./70398-slag.json) |
+| Slalom | 378177 | [378177-slalom.json](./378177-slalom.json) |
 | Slam 'N Jam | 20708 | [20708-slam-n-jam.json](./20708-slam-n-jam.json) |
 | Slam 'n Jam 95 | 39017 | [39017-slam-n-jam-95.json](./39017-slam-n-jam-95.json) |
 | Slam Dunk - The best basketball game 2018 | 106631 | [106631-slam-dunk-the-best-basketball-game-2018.json](./106631-slam-dunk-the-best-basketball-game-2018.json) |
@@ -2245,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Drifters | 193998 | [193998-speed-drifters.json](./193998-speed-drifters.json) |
 | Speed Factor | 378777 | [378777-speed-factor.json](./378777-speed-factor.json) |
 | Speed Journey: Nitro | 221407 | [221407-speed-journey-nitro.json](./221407-speed-journey-nitro.json) |
+| Speed Legacy: Ultimate Drive | 378186 | [378186-speed-legacy-ultimate-drive.json](./378186-speed-legacy-ultimate-drive.json) |
 | Speed Legends | 234330 | [234330-speed-legends.json](./234330-speed-legends.json) |
 | Speed Liner | 379878 | [379878-speed-liner.json](./379878-speed-liner.json) |
 | Speed Masters ASD | 130971 | [130971-speed-masters-asd.json](./130971-speed-masters-asd.json) |
@@ -2628,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starborne: Frontiers | 242221 | [242221-starborne-frontiers.json](./242221-starborne-frontiers.json) |
 | Starbound | 3019 | [3019-starbound.json](./3019-starbound.json) |
 | StarBreak | 19174 | [19174-starbreak.json](./19174-starbreak.json) |
+| Starbucks | 378167 | [378167-starbucks.json](./378167-starbucks.json) |
 | Starbust | 181378 | [181378-starbust.json](./181378-starbust.json) |
 | Starcaller | 142496 | [142496-starcaller.json](./142496-starcaller.json) |
 | Starcatcher | 228094 | [228094-starcatcher.json](./228094-starcatcher.json) |
