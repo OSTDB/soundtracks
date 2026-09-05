@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Il Dule | 396201 | [396201-il-dule.json](./396201-il-dule.json) |
 | Il Filo Conduttore | 134699 | [134699-il-filo-conduttore.json](./134699-il-filo-conduttore.json) |
 | Il Fiore di Moretti | 331141 | [331141-il-fiore-di-moretti.json](./331141-il-fiore-di-moretti.json) |
+| Il Sole e la Luna 2 | 393456 | [393456-il-sole-e-la-luna-2.json](./393456-il-sole-e-la-luna-2.json) |
 | IL-2 Sturmovik: 1946 | 5563 | [5563-il-2-sturmovik-1946.json](./5563-il-2-sturmovik-1946.json) |
 | IL-2 Sturmovik: Complete Edition | 23004 | [23004-il-2-sturmovik-complete-edition.json](./23004-il-2-sturmovik-complete-edition.json) |
 | IL-2 Sturmovik: Hell Hawks Over the Bulge Campaign | 267661 | [267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json](./267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json) |
