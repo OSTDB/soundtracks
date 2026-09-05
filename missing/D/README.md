@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damnation City of Death | 35837 | [35837-damnation-city-of-death.json](./35837-damnation-city-of-death.json) |
 | Damned Hand: Arcade Mode | 171069 | [171069-damned-hand-arcade-mode.json](./171069-damned-hand-arcade-mode.json) |
 | Dan Dare: Pilot of the Future | 12989 | [12989-dan-dare-pilot-of-the-future.json](./12989-dan-dare-pilot-of-the-future.json) |
+| Dan Marino's Powerplay Football | 408059 | [408059-dan-marinos-powerplay-football.json](./408059-dan-marinos-powerplay-football.json) |
 | Dan Vs. This Game | 63879 | [63879-dan-vs-this-game.json](./63879-dan-vs-this-game.json) |
 | Danball Senki W Chou Custom | 59406 | [59406-danball-senki-w-chou-custom.json](./59406-danball-senki-w-chou-custom.json) |
 | Dance Around | 210279 | [210279-dance-around.json](./210279-dance-around.json) |
@@ -1012,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissidia Duodecim Prologus: Final Fantasy | 41848 | [41848-dissidia-duodecim-prologus-final-fantasy.json](./41848-dissidia-duodecim-prologus-final-fantasy.json) |
 | Distant | 329390 | [329390-distant.json](./329390-distant.json) |
 | Distant Transmission | 159886 | [159886-distant-transmission.json](./159886-distant-transmission.json) |
+| Distantia | 408029 | [408029-distantia.json](./408029-distantia.json) |
 | Distorted Signal | 413667 | [413667-distorted-signal.json](./413667-distorted-signal.json) |
 | Distraint Collection | 186910 | [186910-distraint-collection.json](./186910-distraint-collection.json) |
 | Distress Signal | 178640 | [178640-distress-signal.json](./178640-distress-signal.json) |
@@ -1102,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Galore | 181927 | [181927-dog-galore.json](./181927-dog-galore.json) |
 | Dog Game! | 229354 | [229354-dog-game.json](./229354-dog-game.json) |
 | Dog Life Simulator | 214166 | [214166-dog-life-simulator.json](./214166-dog-life-simulator.json) |
+| Dog's Walts | 408060 | [408060-dogs-walts.json](./408060-dogs-walts.json) |
 | Doge Dimensions | 187527 | [187527-doge-dimensions.json](./187527-doge-dimensions.json) |
 | Dogforce: Seasons | 179161 | [179161-dogforce-seasons.json](./179161-dogforce-seasons.json) |
 | DogHotel | 101582 | [101582-doghotel.json](./101582-doghotel.json) |
@@ -1720,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Arena: Class Dancer | 167846 | [167846-dungeon-arena-class-dancer.json](./167846-dungeon-arena-class-dancer.json) |
 | Dungeon Arena: Class Gnome | 167847 | [167847-dungeon-arena-class-gnome.json](./167847-dungeon-arena-class-gnome.json) |
 | Dungeon Arena: Class Ninja | 167845 | [167845-dungeon-arena-class-ninja.json](./167845-dungeon-arena-class-ninja.json) |
+| Dungeon Armory | 408097 | [408097-dungeon-armory.json](./408097-dungeon-armory.json) |
 | Dungeon Avenger | 180272 | [180272-dungeon-avenger.json](./180272-dungeon-avenger.json) |
 | Dungeon Betwixt | 410933 | [410933-dungeon-betwixt.json](./410933-dungeon-betwixt.json) |
 | Dungeon Blocks | 192429 | [192429-dungeon-blocks.json](./192429-dungeon-blocks.json) |
