@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A 2ª Jornada | 299470 | [299470-a-2a-jornada.json](./299470-a-2a-jornada.json) |
 | A 3ª Jornada | 299477 | [299477-a-3a-jornada.json](./299477-a-3a-jornada.json) |
 | A Army Base | 277571 | [277571-a-army-base.json](./277571-a-army-base.json) |
+| A Bandit | 386720 | [386720-a-bandit.json](./386720-a-bandit.json) |
 | A Bark in the Dark | 225289 | [225289-a-bark-in-the-dark.json](./225289-a-bark-in-the-dark.json) |
 | A Bewitching Revolution | 124258 | [124258-a-bewitching-revolution.json](./124258-a-bewitching-revolution.json) |
 | A Bonte Escape | 225283 | [225283-a-bonte-escape.json](./225283-a-bonte-escape.json) |
@@ -654,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ajisai Shiyou ka! | 394134 | [394134-ajisai-shiyou-ka.json](./394134-ajisai-shiyou-ka.json) |
 | Ajnabee: The Unknown | 389975 | [389975-ajnabee-the-unknown.json](./389975-ajnabee-the-unknown.json) |
 | Aka Manto | 121558 | [121558-aka-manto.json](./121558-aka-manto.json) |
+| Akairu: A Day Adventure! | 386709 | [386709-akairu-a-day-adventure.json](./386709-akairu-a-day-adventure.json) |
 | Akane | 103484 | [103484-akane.json](./103484-akane.json) |
 | Akane Chan-bara | 204685 | [204685-akane-chan-bara.json](./204685-akane-chan-bara.json) |
 | Akaneiro ni Somaru Saka Portable | 56532 | [56532-akaneiro-ni-somaru-saka-portable.json](./56532-akaneiro-ni-somaru-saka-portable.json) |
@@ -1092,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angkor: Beginnings | 209699 | [209699-angkor-beginnings.json](./209699-angkor-beginnings.json) |
 | Angkot d Game | 214753 | [214753-angkot-d-game.json](./214753-angkot-d-game.json) |
 | Angle | 396218 | [396218-angle.json](./396218-angle.json) |
+| Angler Dangler | 386681 | [386681-angler-dangler.json](./386681-angler-dangler.json) |
 | Angler Quest | 290711 | [290711-angler-quest.json](./290711-angler-quest.json) |
 | Angler's World | 217019 | [217019-anglers-world.json](./217019-anglers-world.json) |
 | Angry Barry | 67987 | [67987-angry-barry.json](./67987-angry-barry.json) |
@@ -1947,6 +1950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalanche Snowboarding | 214763 | [214763-avalanche-snowboarding.json](./214763-avalanche-snowboarding.json) |
 | Avalanche! | 255354 | [255354-avalanche.json](./255354-avalanche.json) |
 | Avalon | 23068 | [23068-avalon.json](./23068-avalon.json) |
+| Avalon Crew | 386705 | [386705-avalon-crew.json](./386705-avalon-crew.json) |
 | Avalon Heroes | 63886 | [63886-avalon-heroes.json](./63886-avalon-heroes.json) |
 | Avalon: The Druids | 274229 | [274229-avalon-the-druids.json](./274229-avalon-the-druids.json) |
 | Avaria: Iron Rule | 399009 | [399009-avaria-iron-rule.json](./399009-avaria-iron-rule.json) |
