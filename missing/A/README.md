@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Word: Around the World | 275890 | [275890-adventure-word-around-the-world.json](./275890-adventure-word-around-the-world.json) |
 | Adventure Workshop 4th-6th Grade 5th Edition | 72114 | [72114-adventure-workshop-4th-6th-grade-5th-edition.json](./72114-adventure-workshop-4th-6th-grade-5th-edition.json) |
 | AdventureQuest Worlds: Infinity | 211394 | [211394-adventurequest-worlds-infinity.json](./211394-adventurequest-worlds-infinity.json) |
+| Adventurer | 391046 | [391046-adventurer.json](./391046-adventurer.json) |
 | Adventurers.io | 197371 | [197371-adventurers-io.json](./197371-adventurers-io.json) |
 | Adventures of a Cat in Space | 322357 | [322357-adventures-of-a-cat-in-space.json](./322357-adventures-of-a-cat-in-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
@@ -513,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires III: Definitive Edition - Knights of the Mediterranean | 202424 | [202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json](./202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json) |
 | Age of Empires III: Definitive Edition - The Complete History | 205251 | [205251-age-of-empires-iii-definitive-edition-the-complete-history.json](./205251-age-of-empires-iii-definitive-edition-the-complete-history.json) |
 | Age of Empires IV: Anniversary Edition | 221950 | [221950-age-of-empires-iv-anniversary-edition.json](./221950-age-of-empires-iv-anniversary-edition.json) |
+| Age of Expansion | 391049 | [391049-age-of-expansion.json](./391049-age-of-expansion.json) |
 | Age of Gladiators | 33545 | [33545-age-of-gladiators.json](./33545-age-of-gladiators.json) |
 | Age of Goblins | 265403 | [265403-age-of-goblins.json](./265403-age-of-goblins.json) |
 | Age of Grit | 61074 | [61074-age-of-grit.json](./61074-age-of-grit.json) |
@@ -662,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akayashiki | 297794 | [297794-akayashiki.json](./297794-akayashiki.json) |
 | Akazukin Cha Cha Cha | 265971 | [265971-akazukin-cha-cha-cha.json](./265971-akazukin-cha-cha-cha.json) |
 | Akazukin Dark Side | 150154 | [150154-akazukin-dark-side.json](./150154-akazukin-dark-side.json) |
+| Akcionář II | 391053 | [391053-akcionar-ii.json](./391053-akcionar-ii.json) |
 | Aker Fern | 143726 | [143726-aker-fern.json](./143726-aker-fern.json) |
 | Akiba's Beat | 19465 | [19465-akibas-beat.json](./19465-akibas-beat.json) |
 | Akiba's Trip: Undead & Undressed | 7268 | [7268-akibas-trip-undead-and-undressed.json](./7268-akibas-trip-undead-and-undressed.json) |
@@ -669,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akita: King Pig Thinks Pink | 178098 | [178098-akita-king-pig-thinks-pink.json](./178098-akita-king-pig-thinks-pink.json) |
 | Akita: Legends Squad | 399611 | [399611-akita-legends-squad.json](./399611-akita-legends-squad.json) |
 | Akka Arrh | 225592 | [225592-akka-arrh.json](./225592-akka-arrh.json) |
+| Aknadach | 391056 | [391056-aknadach.json](./391056-aknadach.json) |
 | Akte Europa | 19584 | [19584-akte-europa.json](./19584-akte-europa.json) |
 | Akuarium | 147471 | [147471-akuarium.json](./147471-akuarium.json) |
 | Akudaikan Manyuuki | 56517 | [56517-akudaikan-manyuuki.json](./56517-akudaikan-manyuuki.json) |
@@ -1440,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are You Smarter Than Mario? | 231629 | [231629-are-you-smarter-than-mario.json](./231629-are-you-smarter-than-mario.json) |
 | Are you yet Living? | 271478 | [271478-are-you-yet-living.json](./271478-are-you-yet-living.json) |
 | Area 51 | 316990 | [316990-area-51.json](./316990-area-51.json) |
+| Area 51: Defence | 391044 | [391044-area-51-defence.json](./391044-area-51-defence.json) |
 | Area 51: Running Ninja Raid | 184087 | [184087-area-51-running-ninja-raid.json](./184087-area-51-running-ninja-raid.json) |
 | Area Radar Controller | 15600 | [15600-area-radar-controller.json](./15600-area-radar-controller.json) |
 | Area-X | 35734 | [35734-area-x.json](./35734-area-x.json) |
