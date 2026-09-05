@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Knight | 39006 | [39006-machine-knight.json](./39006-machine-knight.json) |
 | Machine Love 2069 | 247739 | [247739-machine-love-2069.json](./247739-machine-love-2069.json) |
 | Machine Men | 299448 | [299448-machine-men.json](./299448-machine-men.json) |
+| Machine of Madness | 409547 | [409547-machine-of-madness.json](./409547-machine-of-madness.json) |
 | Machine With a Big Gun | 103479 | [103479-machine-with-a-big-gun.json](./103479-machine-with-a-big-gun.json) |
 | Machinicide | 196962 | [196962-machinicide.json](./196962-machinicide.json) |
 | Machizzle | 139478 | [139478-machizzle.json](./139478-machizzle.json) |
@@ -241,8 +242,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makaimura Online | 63297 | [63297-makaimura-online.json](./63297-makaimura-online.json) |
 | Make a Friend | 201828 | [201828-make-a-friend.json](./201828-make-a-friend.json) |
 | Make a Scene: Dinosaurs | 96044 | [96044-make-a-scene-dinosaurs.json](./96044-make-a-scene-dinosaurs.json) |
+| Make It Cozy! | 409546 | [409546-make-it-cozy.json](./409546-make-it-cozy.json) |
 | Make It In Time | 214164 | [214164-make-it-in-time.json](./214164-make-it-in-time.json) |
 | Make it! Crepe | 315839 | [315839-make-it-crepe.json](./315839-make-it-crepe.json) |
+| Make it! Shaved Ice | 409545 | [409545-make-it-shaved-ice.json](./409545-make-it-shaved-ice.json) |
 | Make My Life Worse | 318788 | [318788-make-my-life-worse.json](./318788-make-my-life-worse.json) |
 | Make Route | 109658 | [109658-make-route.json](./109658-make-route.json) |
 | Make Sure It's Closed | 176491 | [176491-make-sure-its-closed.json](./176491-make-sure-its-closed.json) |
@@ -298,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maneuver Warfare: Mission Pack South | 293422 | [293422-maneuver-warfare-mission-pack-south.json](./293422-maneuver-warfare-mission-pack-south.json) |
 | Maneuver Warfare: Mission Pack West 38-40 | 293420 | [293420-maneuver-warfare-mission-pack-west-38-40.json](./293420-maneuver-warfare-mission-pack-west-38-40.json) |
 | Maneuver Warfare: Mission Pack West 44-45 | 293421 | [293421-maneuver-warfare-mission-pack-west-44-45.json](./293421-maneuver-warfare-mission-pack-west-44-45.json) |
+| Manga English Native Phrase Quiz | 409544 | [409544-manga-english-native-phrase-quiz.json](./409544-manga-english-native-phrase-quiz.json) |
 | Manga Solitaire | 73844 | [73844-manga-solitaire.json](./73844-manga-solitaire.json) |
 | Mangan Shisen-sho | 206357 | [206357-mangan-shisen-sho.json](./206357-mangan-shisen-sho.json) |
 | Manhunt | 1971 | [1971-manhunt.json](./1971-manhunt.json) |
@@ -574,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mawaskes | 45999 | [45999-mawaskes.json](./45999-mawaskes.json) |
 | Max Cross | 413621 | [413621-max-cross.json](./413621-max-cross.json) |
 | Max Mix Game | 46669 | [46669-max-mix-game.json](./46669-max-mix-game.json) |
+| Max Speed | 409543 | [409543-max-speed.json](./409543-max-speed.json) |
 | Max Steel: Laptop Bilíngue Power | 294463 | [294463-max-steel-laptop-bilingue-power.json](./294463-max-steel-laptop-bilingue-power.json) |
 | Max Steel: Max Technical | 294464 | [294464-max-steel-max-technical.json](./294464-max-steel-max-technical.json) |
 | Max Steel: Turbo Tablet | 294465 | [294465-max-steel-turbo-tablet.json](./294465-max-steel-turbo-tablet.json) |
@@ -687,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet the Vowels | 102773 | [102773-meet-the-vowels.json](./102773-meet-the-vowels.json) |
 | Meeting Myself | 275919 | [275919-meeting-myself.json](./275919-meeting-myself.json) |
 | Mega Bundle: Cats | 208046 | [208046-mega-bundle-cats.json](./208046-mega-bundle-cats.json) |
+| Mega Collection: 8 Amazing Games - Volume 2 | 409542 | [409542-mega-collection-8-amazing-games-volume-2.json](./409542-mega-collection-8-amazing-games-volume-2.json) |
 | Mega Drive Mini | 215392 | [215392-mega-drive-mini.json](./215392-mega-drive-mini.json) |
 | Mega Force | 22433 | [22433-mega-force.json](./22433-mega-force.json) |
 | Mega Man 2: The Power Fighters | 1725 | [1725-mega-man-2-the-power-fighters.json](./1725-mega-man-2-the-power-fighters.json) |
@@ -695,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 7 | 1720 | [1720-mega-man-7.json](./1720-mega-man-7.json) |
 | Mega Man Arkanoid | 245035 | [245035-mega-man-arkanoid.json](./245035-mega-man-arkanoid.json) |
 | Mega Man Battle Network Legacy Collection | 206810 | [206810-mega-man-battle-network-legacy-collection.json](./206810-mega-man-battle-network-legacy-collection.json) |
+| Mega Man Cyber Wave Pack | 409541 | [409541-mega-man-cyber-wave-pack.json](./409541-mega-man-cyber-wave-pack.json) |
 | Mega Man in Super Mario Bros. | 269874 | [269874-mega-man-in-super-mario-bros.json](./269874-mega-man-in-super-mario-bros.json) |
 | Mega Man Star Force 2: Zerker x Ninja | 1785 | [1785-mega-man-star-force-2-zerker-x-ninja.json](./1785-mega-man-star-force-2-zerker-x-ninja.json) |
 | Mega Man Star Force: Dragon | 1783 | [1783-mega-man-star-force-dragon.json](./1783-mega-man-star-force-dragon.json) |
@@ -795,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories Off: Yubikiri no Kioku - Limited Edition | 413661 | [413661-memories-off-yubikiri-no-kioku-limited-edition.json](./413661-memories-off-yubikiri-no-kioku-limited-edition.json) |
 | Memories Off: Yubikiri no Kioku + Sweets Pack - Limited Edition | 413666 | [413666-memories-off-yubikiri-no-kioku-sweets-pack-limited-edition.json](./413666-memories-off-yubikiri-no-kioku-sweets-pack-limited-edition.json) |
 | Memories: Millennium Girl | 263206 | [263206-memories-millennium-girl.json](./263206-memories-millennium-girl.json) |
+| Memorize the Evidence: 1-Minute Memory Mystery | 409540 | [409540-memorize-the-evidence-1-minute-memory-mystery.json](./409540-memorize-the-evidence-1-minute-memory-mystery.json) |
 | Memorrha | 109573 | [109573-memorrha.json](./109573-memorrha.json) |
 | Memory | 219288 | [219288-memory.json](./219288-memory.json) |
 | Memory Data Memory | 331131 | [331131-memory-data-memory.json](./331131-memory-data-memory.json) |
@@ -1039,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Dungeon | 179719 | [179719-midnight-dungeon.json](./179719-midnight-dungeon.json) |
 | Midnight Fishing | 302684 | [302684-midnight-fishing.json](./302684-midnight-fishing.json) |
 | Midnight Horror School | 292834 | [292834-midnight-horror-school.json](./292834-midnight-horror-school.json) |
+| Midnight Idle | 409565 | [409565-midnight-idle.json](./409565-midnight-idle.json) |
 | Midnight is Lost | 156689 | [156689-midnight-is-lost.json](./156689-midnight-is-lost.json) |
 | Midnight Memories: Sonata of the Soul | 311278 | [311278-midnight-memories-sonata-of-the-soul.json](./311278-midnight-memories-sonata-of-the-soul.json) |
 | Midnight Scenes Ep.2: The Goodbye Note - Special Edition | 176481 | [176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json](./176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json) |
@@ -1116,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minami no Shima ni Buta Ga Ita | 267647 | [267647-minami-no-shima-ni-buta-ga-ita.json](./267647-minami-no-shima-ni-buta-ga-ita.json) |
 | Minarai Majo to Mokomoko Friends | 222497 | [222497-minarai-majo-to-mokomoko-friends.json](./222497-minarai-majo-to-mokomoko-friends.json) |
 | Minato | 415080 | [415080-minato.json](./415080-minato.json) |
+| Mind Detective Psychology Test | 409539 | [409539-mind-detective-psychology-test.json](./409539-mind-detective-psychology-test.json) |
 | Mind Diver | 236519 | [236519-mind-diver.json](./236519-mind-diver.json) |
 | Mind Games | 81416 | [81416-mind-games.json](./81416-mind-games.json) |
 | Mind Her Manor | 312325 | [312325-mind-her-manor.json](./312325-mind-her-manor.json) |
