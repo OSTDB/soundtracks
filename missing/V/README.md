@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VPetlings | 395580 | [395580-vpetlings.json](./395580-vpetlings.json) |
 | VR AirHockey | 195221 | [195221-vr-airhockey.json](./195221-vr-airhockey.json) |
 | VR Angry Cow Farm Simulator | 109021 | [109021-vr-angry-cow-farm-simulator.json](./109021-vr-angry-cow-farm-simulator.json) |
+| VR Animal Kids Rumble | 371902 | [371902-vr-animal-kids-rumble.json](./371902-vr-animal-kids-rumble.json) |
 | VR Baseball - Home Run Competition | 33105 | [33105-vr-baseball-home-run-competition.json](./33105-vr-baseball-home-run-competition.json) |
 | VR Baseball '97 | 20819 | [20819-vr-baseball-97.json](./20819-vr-baseball-97.json) |
 | VR Basketball Sweetie | 384516 | [384516-vr-basketball-sweetie.json](./384516-vr-basketball-sweetie.json) |
