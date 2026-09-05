@@ -735,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Child of Light: Limited Edition | 166238 | [166238-child-of-light-limited-edition.json](./166238-child-of-light-limited-edition.json) |
 | Child of Ruin | 298876 | [298876-child-of-ruin.json](./298876-child-of-ruin.json) |
 | Child's Play | 60007 | [60007-childs-play.json](./60007-childs-play.json) |
+| Childish Life Prologue | 374609 | [374609-childish-life-prologue.json](./374609-childish-life-prologue.json) |
 | Children of a Dead Earth | 25221 | [25221-children-of-a-dead-earth.json](./25221-children-of-a-dead-earth.json) |
 | Children of Orc | 30920 | [30920-children-of-orc.json](./30920-children-of-orc.json) |
 | Children of the Sun | 284925 | [284925-children-of-the-sun.json](./284925-children-of-the-sun.json) |
@@ -1036,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleaner | 119761 | [119761-cleaner.json](./119761-cleaner.json) |
 | Cleaner Boy | 331133 | [331133-cleaner-boy.json](./331133-cleaner-boy.json) |
 | Cleaning Girls | 258174 | [258174-cleaning-girls.json](./258174-cleaning-girls.json) |
+| Cleaning Simulator | 374584 | [374584-cleaning-simulator.json](./374584-cleaning-simulator.json) |
 | Cleaning Simulator: Ultimate Mess | 407359 | [407359-cleaning-simulator-ultimate-mess.json](./407359-cleaning-simulator-ultimate-mess.json) |
 | Cleimos | 260945 | [260945-cleimos.json](./260945-cleimos.json) |
 | Cleimos II | 260946 | [260946-cleimos-ii.json](./260946-cleimos-ii.json) |
@@ -1402,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: T.R.A.G. - Tactical Rescue Assault Group: Mission of Mercy | 408738 | [408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json](./408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json) |
 | Console Colour: Disney's Planes | 407308 | [407308-console-colour-disneys-planes.json](./407308-console-colour-disneys-planes.json) |
 | Console War Giant | 407313 | [407313-console-war-giant.json](./407313-console-war-giant.json) |
+| Consonance | 374596 | [374596-consonance.json](./374596-consonance.json) |
 | ConsTance | 323524 | [323524-constance.json](./323524-constance.json) |
 | Constantine | 236004 | [236004-constantine.json](./236004-constantine.json) |
 | Constellation Courier | 309127 | [309127-constellation-courier.json](./309127-constellation-courier.json) |
@@ -1790,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Stories: CSI Episode | 215394 | [215394-criminal-stories-csi-episode.json](./215394-criminal-stories-csi-episode.json) |
 | Crimson Faith | 376477 | [376477-crimson-faith.json](./376477-crimson-faith.json) |
 | Crimson Furnace | 381626 | [381626-crimson-furnace.json](./381626-crimson-furnace.json) |
+| Crimson Horror | 374624 | [374624-crimson-horror.json](./374624-crimson-horror.json) |
 | Crimson III | 335119 | [335119-crimson-iii.json](./335119-crimson-iii.json) |
 | Crimson Moon | 389428 | [389428-crimson-moon.json](./389428-crimson-moon.json) |
 | Crimson Realms: Relics of the Forgotten World | 389959 | [389959-crimson-realms-relics-of-the-forgotten-world.json](./389959-crimson-realms-relics-of-the-forgotten-world.json) |
