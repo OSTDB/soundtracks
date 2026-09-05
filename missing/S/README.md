@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Over Normoth | 183057 | [183057-shadow-over-normoth.json](./183057-shadow-over-normoth.json) |
 | Shadow Quest | 188095 | [188095-shadow-quest.json](./188095-shadow-quest.json) |
 | Shadow Quest | 326959 | [326959-shadow-quest.json](./326959-shadow-quest.json) |
+| Shadow Saw Us | 408072 | [408072-shadow-saw-us.json](./408072-shadow-saw-us.json) |
 | Shadow Seeker | 150140 | [150140-shadow-seeker.json](./150140-shadow-seeker.json) |
 | Shadow Skimmer | 37186 | [37186-shadow-skimmer.json](./37186-shadow-skimmer.json) |
 | Shadow Spotter | 231653 | [231653-shadow-spotter.json](./231653-shadow-spotter.json) |
@@ -725,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowveil: Legend of The Five Rings | 321163 | [321163-shadowveil-legend-of-the-five-rings.json](./321163-shadowveil-legend-of-the-five-rings.json) |
 | Shady Brook - A Dark Mystery Text Adventure | 30903 | [30903-shady-brook-a-dark-mystery-text-adventure.json](./30903-shady-brook-a-dark-mystery-text-adventure.json) |
 | Shady Business | 195198 | [195198-shady-business.json](./195198-shady-business.json) |
+| Shady Business | 408028 | [408028-shady-business.json](./408028-shady-business.json) |
 | Shakes and Fidget Remastered | 112346 | [112346-shakes-and-fidget-remastered.json](./112346-shakes-and-fidget-remastered.json) |
 | Shakugan no Shana | 72686 | [72686-shakugan-no-shana.json](./72686-shakugan-no-shana.json) |
 | Shaky Structures | 180811 | [180811-shaky-structures.json](./180811-shaky-structures.json) |
@@ -1243,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skycliffs | 190727 | [190727-skycliffs.json](./190727-skycliffs.json) |
 | SkyDive Racer | 233756 | [233756-skydive-racer.json](./233756-skydive-racer.json) |
 | Skydivers Paradise | 319941 | [319941-skydivers-paradise.json](./319941-skydivers-paradise.json) |
+| Skye | 408039 | [408039-skye.json](./408039-skye.json) |
 | Skye Revival | 329399 | [329399-skye-revival.json](./329399-skye-revival.json) |
 | Skye: The Misty Isle | 163459 | [163459-skye-the-misty-isle.json](./163459-skye-the-misty-isle.json) |
 | Skyewood | 274218 | [274218-skyewood.json](./274218-skyewood.json) |
