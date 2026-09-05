@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelie | 23069 | [23069-wheelie.json](./23069-wheelie.json) |
 | Wheelie 2 | 239892 | [239892-wheelie-2.json](./239892-wheelie-2.json) |
 | Wheelie King 3D | 104656 | [104656-wheelie-king-3d.json](./104656-wheelie-king-3d.json) |
+| Wheelie Life Simulator | 396226 | [396226-wheelie-life-simulator.json](./396226-wheelie-life-simulator.json) |
 | Wheels of Destruction | 20735 | [20735-wheels-of-destruction.json](./20735-wheels-of-destruction.json) |
 | Wheels on Fire | 78030 | [78030-wheels-on-fire.json](./78030-wheels-on-fire.json) |
 | Wheels on Impossible Ramp | 174887 | [174887-wheels-on-impossible-ramp.json](./174887-wheels-on-impossible-ramp.json) |
@@ -740,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Swipe | 101529 | [101529-word-swipe.json](./101529-word-swipe.json) |
 | Word Town: New Crossword Games | 101541 | [101541-word-town-new-crossword-games.json](./101541-word-town-new-crossword-games.json) |
 | Word Training Camp | 130929 | [130929-word-training-camp.json](./130929-word-training-camp.json) |
+| Word Warp: Animal Edition | 396222 | [396222-word-warp-animal-edition.json](./396222-word-warp-animal-edition.json) |
 | Word Warrior: Zombie Typocalypse | 278727 | [278727-word-warrior-zombie-typocalypse.json](./278727-word-warrior-zombie-typocalypse.json) |
 | Word Weasel | 200157 | [200157-word-weasel.json](./200157-word-weasel.json) |
 | Word Whammer | 328210 | [328210-word-whammer.json](./328210-word-whammer.json) |
