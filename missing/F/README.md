@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fart King | 338558 | [338558-fart-king.json](./338558-fart-king.json) |
 | Fart Up | 299455 | [299455-fart-up.json](./299455-fart-up.json) |
 | Farting Simulator | 315285 | [315285-farting-simulator.json](./315285-farting-simulator.json) |
+| Fasaria World Online | 34530 | [34530-fasaria-world-online.json](./34530-fasaria-world-online.json) |
 | Fashion Dream | 188115 | [188115-fashion-dream.json](./188115-fashion-dream.json) |
 | Fashion Friends: Silver Edition | 315866 | [315866-fashion-friends-silver-edition.json](./315866-fashion-friends-silver-edition.json) |
 | Fashion Friends: Super Version | 313512 | [313512-fashion-friends-super-version.json](./313512-fashion-friends-super-version.json) |
