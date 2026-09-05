@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JFCBP1 | 273114 | [273114-jfcbp1.json](./273114-jfcbp1.json) |
 | JFCBP2 | 273115 | [273115-jfcbp2.json](./273115-jfcbp2.json) |
 | Jiangshi x Daoshi | 135880 | [135880-jiangshi-x-daoshi.json](./135880-jiangshi-x-daoshi.json) |
+| Jiànxí Sǐshén | 374622 | [374622-jianxi-sishen.json](./374622-jianxi-sishen.json) |
 | Jiànxiá Tú | 157674 | [157674-jianxia-tu.json](./157674-jianxia-tu.json) |
 | Jibaku-kun: Zero no Ki no Kajitsu | 295036 | [295036-jibaku-kun-zero-no-ki-no-kajitsu.json](./295036-jibaku-kun-zero-no-ki-no-kajitsu.json) |
 | Jigdoku | 404203 | [404203-jigdoku.json](./404203-jigdoku.json) |
@@ -230,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jissen Pachi-Slot Hisshouhou! Twin | 42645 | [42645-jissen-pachi-slot-hisshouhou-twin.json](./42645-jissen-pachi-slot-hisshouhou-twin.json) |
 | Jissen Pachinko Hisshouhou! 2 | 42646 | [42646-jissen-pachinko-hisshouhou-2.json](./42646-jissen-pachinko-hisshouhou-2.json) |
 | Jiǔlóng Mófǎzhèn | 394200 | [394200-jiulong-mofazhen.json](./394200-jiulong-mofazhen.json) |
+| Jiǔměizǐ zhī Sǐ: Zhāohé Shàonǚ Xuèsè Gàobái | 374628 | [374628-jiumeizi-zhi-si-zhaohe-shaonu-xuese-gaobai.json](./374628-jiumeizi-zhi-si-zhaohe-shaonu-xuese-gaobai.json) |
 | JK Assassins | 178648 | [178648-jk-assassins.json](./178648-jk-assassins.json) |
 | JNKBombers | 80605 | [80605-jnkbombers.json](./80605-jnkbombers.json) |
 | JNZ: Nightmare Girls | 340773 | [340773-jnz-nightmare-girls.json](./340773-jnz-nightmare-girls.json) |
@@ -243,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe Biden: Escape From MAGA | 263790 | [263790-joe-biden-escape-from-maga.json](./263790-joe-biden-escape-from-maga.json) |
 | Joe Gunn | 77385 | [77385-joe-gunn.json](./77385-joe-gunn.json) |
 | Joe vs. The Wall | 264308 | [264308-joe-vs-the-wall.json](./264308-joe-vs-the-wall.json) |
+| Joel's Bizarre Pokéventure | 374586 | [374586-joels-bizarre-pokeventure.json](./374586-joels-bizarre-pokeventure.json) |
 | Joexian's Basics In Bowling And Video Making | 389993 | [389993-joexians-basics-in-bowling-and-video-making.json](./389993-joexians-basics-in-bowling-and-video-making.json) |
 | Joey's Shisha Simulator | 326412 | [326412-joeys-shisha-simulator.json](./326412-joeys-shisha-simulator.json) |
 | Johan | 403561 | [403561-johan.json](./403561-johan.json) |
