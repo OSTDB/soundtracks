@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Gore | 150156 | [150156-fluffy-gore.json](./150156-fluffy-gore.json) |
 | Fluffy Run | 292818 | [292818-fluffy-run.json](./292818-fluffy-run.json) |
 | Fluffy Smash | 219791 | [219791-fluffy-smash.json](./219791-fluffy-smash.json) |
+| Fluffy's Adventure | 380419 | [380419-fluffys-adventure.json](./380419-fluffys-adventure.json) |
 | Fluffy's Adventure | 381026 | [381026-fluffys-adventure.json](./381026-fluffys-adventure.json) |
 | Fluid | 94223 | [94223-fluid.json](./94223-fluid.json) |
 | Flunky Farm | 224250 | [224250-flunky-farm.json](./224250-flunky-farm.json) |
@@ -905,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly & Poop | 200182 | [200182-fly-and-poop.json](./200182-fly-and-poop.json) |
 | Fly Cat | 199107 | [199107-fly-cat.json](./199107-fly-cat.json) |
 | Fly Catbug Fly! | 175434 | [175434-fly-catbug-fly.json](./175434-fly-catbug-fly.json) |
+| Fly for Fly | 380403 | [380403-fly-for-fly.json](./380403-fly-for-fly.json) |
 | Fly Guy | 230512 | [230512-fly-guy.json](./230512-fly-guy.json) |
 | Fly Hard | 381027 | [381027-fly-hard.json](./381027-fly-hard.json) |
 | Fly High Runners | 391575 | [391575-fly-high-runners.json](./391575-fly-high-runners.json) |
