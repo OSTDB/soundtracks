@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.O.N | 102781 | [102781-s-o-n.json](./102781-s-o-n.json) |
 | S.Q. Sound Qube | 230505 | [230505-s-q-sound-qube.json](./230505-s-q-sound-qube.json) |
 | S.S. Mission | 40252 | [40252-s-s-mission.json](./40252-s-s-mission.json) |
+| S.T.A.L.K.E.R. H.A.C.R. | 377614 | [377614-s-t-a-l-k-e-r-h-a-c-r.json](./377614-s-t-a-l-k-e-r-h-a-c-r.json) |
 | S.T.A.L.K.E.R.: Clear Sky | 4840 | [4840-s-t-a-l-k-e-r-clear-sky.json](./4840-s-t-a-l-k-e-r-clear-sky.json) |
 | S.T.A.L.K.E.R.: Oblivion Lost Remake | 138257 | [138257-s-t-a-l-k-e-r-oblivion-lost-remake.json](./138257-s-t-a-l-k-e-r-oblivion-lost-remake.json) |
 | S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition | 343442 | [343442-s-t-a-l-k-e-r-shadow-of-chornobyl-enhanced-edition.json](./343442-s-t-a-l-k-e-r-shadow-of-chornobyl-enhanced-edition.json) |
@@ -2033,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souls Divided | 410228 | [410228-souls-divided.json](./410228-souls-divided.json) |
 | Souls of Darkon | 12966 | [12966-souls-of-darkon.json](./12966-souls-of-darkon.json) |
 | Souls of Shadow | 320557 | [320557-souls-of-shadow.json](./320557-souls-of-shadow.json) |
+| Soulscape | 377565 | [377565-soulscape.json](./377565-soulscape.json) |
 | SoulSide | 190703 | [190703-soulside.json](./190703-soulside.json) |
 | Soulslayer | 46461 | [46461-soulslayer.json](./46461-soulslayer.json) |
 | Soulstone Survivors | 210585 | [210585-soulstone-survivors.json](./210585-soulstone-survivors.json) |
@@ -2170,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Theory | 203544 | [203544-space-theory.json](./203544-space-theory.json) |
 | Space Thinger | 34471 | [34471-space-thinger.json](./34471-space-thinger.json) |
 | Space to Investigate | 179702 | [179702-space-to-investigate.json](./179702-space-to-investigate.json) |
+| Space Tower Defense | 377585 | [377585-space-tower-defense.json](./377585-space-tower-defense.json) |
 | Space Trader | 9469 | [9469-space-trader.json](./9469-space-trader.json) |
 | Space Trail Fireworks | 304858 | [304858-space-trail-fireworks.json](./304858-space-trail-fireworks.json) |
 | Space Valet | 177005 | [177005-space-valet.json](./177005-space-valet.json) |
@@ -2296,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spermula 1 | 131598 | [131598-spermula-1.json](./131598-spermula-1.json) |
 | Sphere | 264887 | [264887-sphere.json](./264887-sphere.json) |
 | Sphere Arena | 166762 | [166762-sphere-arena.json](./166762-sphere-arena.json) |
+| Sphere Game | 377582 | [377582-sphere-game.json](./377582-sphere-game.json) |
 | Sphere TD | 400231 | [400231-sphere-td.json](./400231-sphere-td.json) |
 | Sphere: Flying Cities - Save the World Edition | 186905 | [186905-sphere-flying-cities-save-the-world-edition.json](./186905-sphere-flying-cities-save-the-world-edition.json) |
 | Spherecraft | 118387 | [118387-spherecraft.json](./118387-spherecraft.json) |
@@ -2866,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonehenge VR | 33137 | [33137-stonehenge-vr.json](./33137-stonehenge-vr.json) |
 | Stonekeep | 253 | [253-stonekeep.json](./253-stonekeep.json) |
 | StoneStory | 339662 | [339662-stonestory.json](./339662-stonestory.json) |
+| Stoneveil | 377591 | [377591-stoneveil.json](./377591-stoneveil.json) |
 | Stop and Go | 93567 | [93567-stop-and-go.json](./93567-stop-and-go.json) |
 | Stop Online: Battle of Words | 34353 | [34353-stop-online-battle-of-words.json](./34353-stop-online-battle-of-words.json) |
 | Stop the Press! | 381631 | [381631-stop-the-press.json](./381631-stop-the-press.json) |
@@ -3122,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suika Jelly Game | 310174 | [310174-suika-jelly-game.json](./310174-suika-jelly-game.json) |
 | Suika Monsters | 387352 | [387352-suika-monsters.json](./387352-suika-monsters.json) |
 | Suiren | 131578 | [131578-suiren.json](./131578-suiren.json) |
+| Suiren | 377581 | [377581-suiren.json](./377581-suiren.json) |
 | Suite PreCure: Happy Oshare Harmony | 327601 | [327601-suite-precure-happy-oshare-harmony.json](./327601-suite-precure-happy-oshare-harmony.json) |
 | Sukeban Deka III | 48684 | [48684-sukeban-deka-iii.json](./48684-sukeban-deka-iii.json) |
 | Sukutte: Save Me... | 130358 | [130358-sukutte-save-me.json](./130358-sukutte-save-me.json) |
@@ -3190,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supaplex: Second Chance | 145010 | [145010-supaplex-second-chance.json](./145010-supaplex-second-chance.json) |
 | Super | 51970 | [51970-super.json](./51970-super.json) |
 | Super "Mario" World | 297240 | [297240-super-mario-world.json](./297240-super-mario-world.json) |
+| Super Alabama Beach Mouse | 377600 | [377600-super-alabama-beach-mouse.json](./377600-super-alabama-beach-mouse.json) |
 | Super Alien | 146294 | [146294-super-alien.json](./146294-super-alien.json) |
 | Super Among Us 64 DS | 270379 | [270379-super-among-us-64-ds.json](./270379-super-among-us-64-ds.json) |
 | Super Angling | 126629 | [126629-super-angling.json](./126629-super-angling.json) |
