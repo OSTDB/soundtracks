@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Way to Die | 159854 | [159854-a-way-to-die.json](./159854-a-way-to-die.json) |
 | A Way Up | 303234 | [303234-a-way-up.json](./303234-a-way-up.json) |
 | A Werewolf Opportunity, Obviously | 225265 | [225265-a-werewolf-opportunity-obviously.json](./225265-a-werewolf-opportunity-obviously.json) |
+| A Wild Last Boss Appeared!: Black-Winged Survivor | 371248 | [371248-a-wild-last-boss-appeared-black-winged-survivor.json](./371248-a-wild-last-boss-appeared-black-winged-survivor.json) |
 | A Winding Path | 157709 | [157709-a-winding-path.json](./157709-a-winding-path.json) |
 | A woman goes to a private games industry party | 135282 | [135282-a-woman-goes-to-a-private-games-industry-party.json](./135282-a-woman-goes-to-a-private-games-industry-party.json) |
 | A Wonder | 75164 | [75164-a-wonder.json](./75164-a-wonder.json) |
@@ -1185,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Catgirl Runner | 224759 | [224759-anime-catgirl-runner.json](./224759-anime-catgirl-runner.json) |
 | Anime Christmas Uni | 380395 | [380395-anime-christmas-uni.json](./380395-anime-christmas-uni.json) |
 | Anime Fart Simulator | 397648 | [397648-anime-fart-simulator.json](./397648-anime-fart-simulator.json) |
+| Anime Feet Aim Trainer | 371231 | [371231-anime-feet-aim-trainer.json](./371231-anime-feet-aim-trainer.json) |
 | Anime Freak FX Vol. 1 | 79350 | [79350-anime-freak-fx-vol-1.json](./79350-anime-freak-fx-vol-1.json) |
 | Anime Gacha! | 307275 | [307275-anime-gacha.json](./307275-anime-gacha.json) |
 | Anime Girl Puzzles: Akari | 297770 | [297770-anime-girl-puzzles-akari.json](./297770-anime-girl-puzzles-akari.json) |
@@ -1301,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antonball Deluxe Lite | 153463 | [153463-antonball-deluxe-lite.json](./153463-antonball-deluxe-lite.json) |
 | Antonblast | 201752 | [201752-antonblast.json](./201752-antonblast.json) |
 | Ants With Guns | 211436 | [211436-ants-with-guns.json](./211436-ants-with-guns.json) |
+| Antz: Panic in the Anthill! | 371232 | [371232-antz-panic-in-the-anthill.json](./371232-antz-panic-in-the-anthill.json) |
 | Anubis Clicker | 236535 | [236535-anubis-clicker.json](./236535-anubis-clicker.json) |
 | Anxieties | 335699 | [335699-anxieties.json](./335699-anxieties.json) |
 | Anytime Pool | 65488 | [65488-anytime-pool.json](./65488-anytime-pool.json) |
