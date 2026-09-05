@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Wolf Returns: First Mission | 218213 | [218213-operation-wolf-returns-first-mission.json](./218213-operation-wolf-returns-first-mission.json) |
 | Operation: Hostage Rescue | 337987 | [337987-operation-hostage-rescue.json](./337987-operation-hostage-rescue.json) |
 | Operation: Ops | 184651 | [184651-operation-ops.json](./184651-operation-ops.json) |
+| Operation: Outbreak Idle | 405539 | [405539-operation-outbreak-idle.json](./405539-operation-outbreak-idle.json) |
 | Operation: Thunder | 91403 | [91403-operation-thunder.json](./91403-operation-thunder.json) |
 | Operator Ace's Simple Infinite Survival | 278734 | [278734-operator-aces-simple-infinite-survival.json](./278734-operator-aces-simple-infinite-survival.json) |
 | Operencia: The Stolen Sun - Explorer's Edition | 154541 | [154541-operencia-the-stolen-sun-explorers-edition.json](./154541-operencia-the-stolen-sun-explorers-edition.json) |
@@ -472,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oretachi ni Tsubasa wa Nai -Prelude- | 60572 | [60572-oretachi-ni-tsubasa-wa-nai-prelude.json](./60572-oretachi-ni-tsubasa-wa-nai-prelude.json) |
 | Organ Quarter Pre-Alpha Demo | 30909 | [30909-organ-quarter-pre-alpha-demo.json](./30909-organ-quarter-pre-alpha-demo.json) |
 | Organic Panic | 36418 | [36418-organic-panic.json](./36418-organic-panic.json) |
+| Organize My Shop | 405541 | [405541-organize-my-shop.json](./405541-organize-my-shop.json) |
 | Orgarhythm | 21009 | [21009-orgarhythm.json](./21009-orgarhythm.json) |
 | Oriental Blue: Ao no Tengai | 49414 | [49414-oriental-blue-ao-no-tengai.json](./49414-oriental-blue-ao-no-tengai.json) |
 | Oriental Empires | 35526 | [35526-oriental-empires.json](./35526-oriental-empires.json) |
@@ -580,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outfoxed | 179165 | [179165-outfoxed.json](./179165-outfoxed.json) |
 | Outland Odyssey | 214172 | [214172-outland-odyssey.json](./214172-outland-odyssey.json) |
 | Outland Rapture | 169475 | [169475-outland-rapture.json](./169475-outland-rapture.json) |
+| Outlands Safehouse | 405475 | [405475-outlands-safehouse.json](./405475-outlands-safehouse.json) |
 | Outlast: Journey of a Gladiator | 157186 | [157186-outlast-journey-of-a-gladiator.json](./157186-outlast-journey-of-a-gladiator.json) |
 | Outlaw | 123065 | [123065-outlaw.json](./123065-outlaw.json) |
 | Outlaw Chopper | 68018 | [68018-outlaw-chopper.json](./68018-outlaw-chopper.json) |
