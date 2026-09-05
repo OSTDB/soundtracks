@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Rodent | 57093 | [57093-indiana-rodent.json](./57093-indiana-rodent.json) |
 | Indie Bungle 2: Breakout Indies | 414340 | [414340-indie-bungle-2-breakout-indies.json](./414340-indie-bungle-2-breakout-indies.json) |
 | Indie Gems Bundle: JRPG Edition | 129805 | [129805-indie-gems-bundle-jrpg-edition.json](./129805-indie-gems-bundle-jrpg-edition.json) |
+| Indigo Prophecy | 410247 | [410247-indigo-prophecy.json](./410247-indigo-prophecy.json) |
 | Indoor Baseball | 330562 | [330562-indoor-baseball.json](./330562-indoor-baseball.json) |
 | Induction | 18194 | [18194-induction.json](./18194-induction.json) |
 | Indulge | 414312 | [414312-indulge.json](./414312-indulge.json) |
@@ -389,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Dungeons | 203569 | [203569-infinity-dungeons.json](./203569-infinity-dungeons.json) |
 | Infinity Girl | 191217 | [191217-infinity-girl.json](./191217-infinity-girl.json) |
 | Infinity Kingdom | 143085 | [143085-infinity-kingdom.json](./143085-infinity-kingdom.json) |
+| Infinity Nikki: Golden Dust | 410212 | [410212-infinity-nikki-golden-dust.json](./410212-infinity-nikki-golden-dust.json) |
 | Infinity R | 340752 | [340752-infinity-r.json](./340752-infinity-r.json) |
 | Infinity Slime Dungeon | 321754 | [321754-infinity-slime-dungeon.json](./321754-infinity-slime-dungeon.json) |
 | Infinity war | 167816 | [167816-infinity-war.json](./167816-infinity-war.json) |
