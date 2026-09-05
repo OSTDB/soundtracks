@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Warfare | 17598 | [17598-wild-warfare.json](./17598-wild-warfare.json) |
 | Wild West Races | 175395 | [175395-wild-west-races.json](./175395-wild-west-races.json) |
 | Wild West VR | 104075 | [104075-wild-west-vr.json](./104075-wild-west-vr.json) |
+| Wild Wizard War | 391607 | [391607-wild-wizard-war.json](./391607-wild-wizard-war.json) |
 | WildCraft | 241635 | [241635-wildcraft.json](./241635-wildcraft.json) |
 | Wildermyth | 83504 | [83504-wildermyth.json](./83504-wildermyth.json) |
 | Wilderness Mosaic 3: Photo Safari | 415907 | [415907-wilderness-mosaic-3-photo-safari.json](./415907-wilderness-mosaic-3-photo-safari.json) |
