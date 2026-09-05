@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch Boy | 25757 | [25757-glitch-boy.json](./25757-glitch-boy.json) |
 | Glitch Daddy | 277009 | [277009-glitch-daddy.json](./277009-glitch-daddy.json) |
 | Glitch Party | 235455 | [235455-glitch-party.json](./235455-glitch-party.json) |
+| Glitch Racer | 383936 | [383936-glitch-racer.json](./383936-glitch-racer.json) |
 | Glitch World | 311251 | [311251-glitch-world.json](./311251-glitch-world.json) |
 | Glitchery | 386143 | [386143-glitchery.json](./386143-glitchery.json) |
 | Glitchhikers: The Spaces Between | 186873 | [186873-glitchhikers-the-spaces-between.json](./186873-glitchhikers-the-spaces-between.json) |
@@ -1008,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grog 'n Glory | 291739 | [291739-grog-n-glory.json](./291739-grog-n-glory.json) |
 | Gronk Want Rock | 249502 | [249502-gronk-want-rock.json](./249502-gronk-want-rock.json) |
 | Groomer | 115695 | [115695-groomer.json](./115695-groomer.json) |
+| Groove Coaster 4EX Infinity Highway | 383978 | [383978-groove-coaster-4ex-infinity-highway.json](./383978-groove-coaster-4ex-infinity-highway.json) |
 | Groove Runner | 130961 | [130961-groove-runner.json](./130961-groove-runner.json) |
 | Grooverland | 230547 | [230547-grooverland.json](./230547-grooverland.json) |
 | Grordbattle | 116386 | [116386-grordbattle.json](./116386-grordbattle.json) |
