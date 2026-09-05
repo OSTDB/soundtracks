@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orch Star | 76615 | [76615-orch-star.json](./76615-orch-star.json) |
 | Orchard | 92511 | [92511-orchard.json](./92511-orchard.json) |
 | Orchard Odyssey: Pumpkin Party | 375440 | [375440-orchard-odyssey-pumpkin-party.json](./375440-orchard-odyssey-pumpkin-party.json) |
+| Orchard Outbreak: Slime Time | 383955 | [383955-orchard-outbreak-slime-time.json](./383955-orchard-outbreak-slime-time.json) |
 | Orchids to Dusk | 135906 | [135906-orchids-to-dusk.json](./135906-orchids-to-dusk.json) |
 | Order 13 VR | 402889 | [402889-order-13-vr.json](./402889-order-13-vr.json) |
 | Order of Battle: Allies Defiant | 154565 | [154565-order-of-battle-allies-defiant.json](./154565-order-of-battle-allies-defiant.json) |
