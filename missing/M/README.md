@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MeltyMoment Mini Fandisc: Sumire & Chiemi Version | 413645 | [413645-meltymoment-mini-fandisc-sumire-and-chiemi-version.json](./413645-meltymoment-mini-fandisc-sumire-and-chiemi-version.json) |
 | Melvor Idle | 141130 | [141130-melvor-idle.json](./141130-melvor-idle.json) |
 | Melvor Idle: Atlas of Discovery | 259837 | [259837-melvor-idle-atlas-of-discovery.json](./259837-melvor-idle-atlas-of-discovery.json) |
+| Memasiki po Classice | 404875 | [404875-memasiki-po-classice.json](./404875-memasiki-po-classice.json) |
 | Meme Barley-Break | 112351 | [112351-meme-barley-break.json](./112351-meme-barley-break.json) |
 | Memento | 33176 | [33176-memento.json](./33176-memento.json) |
 | Memento Mori | 28231 | [28231-memento-mori.json](./28231-memento-mori.json) |
@@ -1350,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Climax U.C. | 68012 | [68012-mobile-suit-gundam-climax-u-c.json](./68012-mobile-suit-gundam-climax-u-c.json) |
 | Mobile Suit Gundam: Senjo No Kazuna | 69294 | [69294-mobile-suit-gundam-senjo-no-kazuna.json](./69294-mobile-suit-gundam-senjo-no-kazuna.json) |
 | Mobius | 104646 | [104646-mobius.json](./104646-mobius.json) |
+| Mobu | 404826 | [404826-mobu.json](./404826-mobu.json) |
 | Mobula | 311790 | [311790-mobula.json](./311790-mobula.json) |
 | Mocap Boxing | 61667 | [61667-mocap-boxing.json](./61667-mocap-boxing.json) |
 | Mochi Word Puzzles | 100881 | [100881-mochi-word-puzzles.json](./100881-mochi-word-puzzles.json) |
@@ -1612,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moo at the Moon | 71542 | [71542-moo-at-the-moon.json](./71542-moo-at-the-moon.json) |
 | Moo Who | 415097 | [415097-moo-who.json](./415097-moo-who.json) |
 | MookerzZ | 252377 | [252377-mookerzz.json](./252377-mookerzz.json) |
+| Moomin Midsummer Madness | 404859 | [404859-moomin-midsummer-madness.json](./404859-moomin-midsummer-madness.json) |
 | Moon | 242775 | [242775-moon.json](./242775-moon.json) |
 | Moon Ball Magic | 41402 | [41402-moon-ball-magic.json](./41402-moon-ball-magic.json) |
 | Moon Chronicles | 8606 | [8606-moon-chronicles.json](./8606-moon-chronicles.json) |
