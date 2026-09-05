@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onsen Nozokimi Daisakusen | 306679 | [306679-onsen-nozokimi-daisakusen.json](./306679-onsen-nozokimi-daisakusen.json) |
 | Onside Soccer | 37125 | [37125-onside-soccer.json](./37125-onside-soccer.json) |
 | Ooga Booga | 10961 | [10961-ooga-booga.json](./10961-ooga-booga.json) |
+| Ookibloks | 34516 | [34516-ookibloks.json](./34516-ookibloks.json) |
 | Oolite | 47274 | [47274-oolite.json](./47274-oolite.json) |
 | Ooo | 181897 | [181897-ooo.json](./181897-ooo.json) |
 | Ooohh, Big Stretch!!! | 341882 | [341882-ooohh-big-stretch.json](./341882-ooohh-big-stretch.json) |
