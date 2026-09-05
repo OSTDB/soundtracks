@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EnigmOn | 174328 | [174328-enigmon.json](./174328-enigmon.json) |
 | Enjoy Amoy & Sisters | 404874 | [404874-enjoy-amoy-and-sisters.json](./404874-enjoy-amoy-and-sisters.json) |
 | Enkan no Memo-ria: Kakera Tomoshi | 135858 | [135858-enkan-no-memo-ria-kakera-tomoshi.json](./135858-enkan-no-memo-ria-kakera-tomoshi.json) |
+| Ennuigi: A Time for Monsters | 396200 | [396200-ennuigi-a-time-for-monsters.json](./396200-ennuigi-a-time-for-monsters.json) |
 | Enpitsu de Oku no Hosomichi DS | 269830 | [269830-enpitsu-de-oku-no-hosomichi-ds.json](./269830-enpitsu-de-oku-no-hosomichi-ds.json) |
 | Enraged | 189159 | [189159-enraged.json](./189159-enraged.json) |
 | Enslaved Odyssey: To The West - Collector's Edition | 44658 | [44658-enslaved-odyssey-to-the-west-collectors-edition.json](./44658-enslaved-odyssey-to-the-west-collectors-edition.json) |
