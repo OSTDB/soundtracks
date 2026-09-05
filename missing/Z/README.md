@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zipper Amusement Ride | 104668 | [104668-zipper-amusement-ride.json](./104668-zipper-amusement-ride.json) |
 | Zipple World 2: The Sweet Chaos | 33052 | [33052-zipple-world-2-the-sweet-chaos.json](./33052-zipple-world-2-the-sweet-chaos.json) |
 | Zippy Zombi | 73813 | [73813-zippy-zombi.json](./73813-zippy-zombi.json) |
+| Zjawa: Bloodstained Soul | 374587 | [374587-zjawa-bloodstained-soul.json](./374587-zjawa-bloodstained-soul.json) |
 | Zodiac Online | 93558 | [93558-zodiac-online.json](./93558-zodiac-online.json) |
 | Zodiakalik | 161363 | [161363-zodiakalik.json](./161363-zodiakalik.json) |
 | Zodiarc | 331135 | [331135-zodiarc.json](./331135-zodiarc.json) |
