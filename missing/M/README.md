@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madou Gakuin R | 46613 | [46613-madou-gakuin-r.json](./46613-madou-gakuin-r.json) |
 | Madou Monogatari | 57675 | [57675-madou-monogatari.json](./57675-madou-monogatari.json) |
 | Madvent Calendar 3 Necrosis | 229375 | [229375-madvent-calendar-3-necrosis.json](./229375-madvent-calendar-3-necrosis.json) |
+| Maelslime | 379864 | [379864-maelslime.json](./379864-maelslime.json) |
 | Maelstrom: The Battle for Earth Begins Enhanced | 385595 | [385595-maelstrom-the-battle-for-earth-begins-enhanced.json](./385595-maelstrom-the-battle-for-earth-begins-enhanced.json) |
 | Maestro! Jump in Music | 22980 | [22980-maestro-jump-in-music.json](./22980-maestro-jump-in-music.json) |
 | Mafia 1x1 | 307327 | [307327-mafia-1x1.json](./307327-mafia-1x1.json) |
@@ -985,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Genocide | 153994 | [153994-meteor-genocide.json](./153994-meteor-genocide.json) |
 | Meteor Mission | 13736 | [13736-meteor-mission.json](./13736-meteor-mission.json) |
 | Meteor Shower | 306668 | [306668-meteor-shower.json](./306668-meteor-shower.json) |
+| Meteor Storm | 379900 | [379900-meteor-storm.json](./379900-meteor-storm.json) |
 | Meteorfall: Krumit's Tale | 98379 | [98379-meteorfall-krumits-tale.json](./98379-meteorfall-krumits-tale.json) |
 | Meteorfall: Krumit's Tale - Varfa the Ranger | 172169 | [172169-meteorfall-krumits-tale-varfa-the-ranger.json](./172169-meteorfall-krumits-tale-varfa-the-ranger.json) |
 | Meteorite's Journey | 55146 | [55146-meteorites-journey.json](./55146-meteorites-journey.json) |
@@ -1308,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimate | 410917 | [410917-minimate.json](./410917-minimate.json) |
 | Minimo | 401502 | [401502-minimo.json](./401502-minimo.json) |
 | Minimum Nanonic | 70401 | [70401-minimum-nanonic.json](./70401-minimum-nanonic.json) |
+| Mining Wizards | 379861 | [379861-mining-wizards.json](./379861-mining-wizards.json) |
 | MinMe | 241050 | [241050-minme.json](./241050-minme.json) |
 | Minna de Nanpure | 55939 | [55939-minna-de-nanpure.json](./55939-minna-de-nanpure.json) |
 | Minna no Doubutsuen | 69270 | [69270-minna-no-doubutsuen.json](./69270-minna-no-doubutsuen.json) |
@@ -2147,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Name is Sarah | 129221 | [129221-my-name-is-sarah.json](./129221-my-name-is-sarah.json) |
 | My Naughty Shotgun | 197400 | [197400-my-naughty-shotgun.json](./197400-my-naughty-shotgun.json) |
 | My Neighbor is a Yandere?! | 143062 | [143062-my-neighbor-is-a-yandere.json](./143062-my-neighbor-is-a-yandere.json) |
+| My Neighbor's Lonely Wife 2 | 379889 | [379889-my-neighbors-lonely-wife-2.json](./379889-my-neighbors-lonely-wife-2.json) |
 | My Newspaper | 217499 | [217499-my-newspaper.json](./217499-my-newspaper.json) |
 | My Next Life as a Bird | 274756 | [274756-my-next-life-as-a-bird.json](./274756-my-next-life-as-a-bird.json) |
 | My Oil Empire | 212480 | [212480-my-oil-empire.json](./212480-my-oil-empire.json) |
