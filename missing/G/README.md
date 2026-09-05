@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxystrife | 177018 | [177018-galaxystrife.json](./177018-galaxystrife.json) |
 | Galer: Plague of Heroes | 31924 | [31924-galer-plague-of-heroes.json](./31924-galer-plague-of-heroes.json) |
 | Galleon | 5843 | [5843-galleon.json](./5843-galleon.json) |
+| Gallerie | 392169 | [392169-gallerie.json](./392169-gallerie.json) |
 | Galletron | 13001 | [13001-galletron.json](./13001-galletron.json) |
 | Gallium | 314077 | [314077-gallium.json](./314077-gallium.json) |
 | Galvatia | 169474 | [169474-galvatia.json](./169474-galvatia.json) |
