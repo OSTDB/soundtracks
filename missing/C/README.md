@@ -944,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claustrophobia 1024 | 260947 | [260947-claustrophobia-1024.json](./260947-claustrophobia-1024.json) |
 | Claustrophobia 1024 2: The Mystery of Too Many Maps | 260949 | [260949-claustrophobia-1024-2-the-mystery-of-too-many-maps.json](./260949-claustrophobia-1024-2-the-mystery-of-too-many-maps.json) |
 | Claw Express | 270384 | [270384-claw-express.json](./270384-claw-express.json) |
+| Clawless Coin | 405526 | [405526-clawless-coin.json](./405526-clawless-coin.json) |
 | Clay Beats | 334504 | [334504-clay-beats.json](./334504-clay-beats.json) |
 | Clay God | 303753 | [303753-clay-god.json](./303753-clay-god.json) |
 | Clay Shooter | 192981 | [192981-clay-shooter.json](./192981-clay-shooter.json) |
@@ -1398,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupt | 67916 | [67916-corrupt.json](./67916-corrupt.json) |
 | Corrupt Life | 98457 | [98457-corrupt-life.json](./98457-corrupt-life.json) |
 | Corrupt Political | 219302 | [219302-corrupt-political.json](./219302-corrupt-political.json) |
+| Corrupted Dice | 405520 | [405520-corrupted-dice.json](./405520-corrupted-dice.json) |
 | Corrupted Universe Cries Quietly | 269282 | [269282-corrupted-universe-cries-quietly.json](./269282-corrupted-universe-cries-quietly.json) |
 | Corruption | 101599 | [101599-corruption.json](./101599-corruption.json) |
 | Corruption Catharsis: Try To Act Normal | 271507 | [271507-corruption-catharsis-try-to-act-normal.json](./271507-corruption-catharsis-try-to-act-normal.json) |
@@ -1713,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Claimer | 187528 | [187528-crown-claimer.json](./187528-crown-claimer.json) |
 | Crown of Arthain | 129812 | [129812-crown-of-arthain.json](./129812-crown-of-arthain.json) |
 | Crown Solitaire: Card Game | 96714 | [96714-crown-solitaire-card-game.json](./96714-crown-solitaire-card-game.json) |
+| Crownborne | 405528 | [405528-crownborne.json](./405528-crownborne.json) |
 | Crownrats | 410243 | [410243-crownrats.json](./410243-crownrats.json) |
 | Crowntakers | 10070 | [10070-crowntakers.json](./10070-crowntakers.json) |
 | Crows Coming | 245018 | [245018-crows-coming.json](./245018-crows-coming.json) |
