@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18 Wheels of Steel: Extreme Trucker 2 | 11429 | [11429-18-wheels-of-steel-extreme-trucker-2.json](./11429-18-wheels-of-steel-extreme-trucker-2.json) |
 | 18 Wheels of Steel: Haulin' | 31697 | [31697-18-wheels-of-steel-haulin.json](./31697-18-wheels-of-steel-haulin.json) |
 | 180 Darts | 45322 | [45322-180-darts.json](./45322-180-darts.json) |
+| 180° Connect | 386733 | [386733-180-connect.json](./386733-180-connect.json) |
 | 18th Airborne | 299485 | [299485-18th-airborne.json](./299485-18th-airborne.json) |
 | 1912 Titanic Mystery | 120395 | [120395-1912-titanic-mystery.json](./120395-1912-titanic-mystery.json) |
 | 1912 Titanic w/ Neptunia | 205802 | [205802-1912-titanic-w-neptunia.json](./205802-1912-titanic-w-neptunia.json) |
