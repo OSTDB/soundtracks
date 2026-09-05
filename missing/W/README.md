@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's Wally? Travel Pack 2 | 85485 | [85485-wheres-wally-travel-pack-2.json](./85485-wheres-wally-travel-pack-2.json) |
 | Where's Wally? Travel Pack 3 | 85484 | [85484-wheres-wally-travel-pack-3.json](./85484-wheres-wally-travel-pack-3.json) |
 | Wherever You Get Your Podcasts | 397652 | [397652-wherever-you-get-your-podcasts.json](./397652-wherever-you-get-your-podcasts.json) |
+| Which hand? | 379866 | [379866-which-hand.json](./379866-which-hand.json) |
 | Which Naruto Character Are You? | 230540 | [230540-which-naruto-character-are-you.json](./230540-which-naruto-character-are-you.json) |
 | Which Way Out | 104088 | [104088-which-way-out.json](./104088-which-way-out.json) |
 | Whip Dummy Crash | 174902 | [174902-whip-dummy-crash.json](./174902-whip-dummy-crash.json) |
@@ -655,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchmore | 241653 | [241653-witchmore.json](./241653-witchmore.json) |
 | WitchSpring | 87260 | [87260-witchspring.json](./87260-witchspring.json) |
 | WitchSpring2 | 102813 | [102813-witchspring2.json](./102813-witchspring2.json) |
+| Witchy Woo | 379902 | [379902-witchy-woo.json](./379902-witchy-woo.json) |
 | With All My Heart | 253038 | [253038-with-all-my-heart.json](./253038-with-all-my-heart.json) |
 | With Eyes Closed: Season 2 | 414314 | [414314-with-eyes-closed-season-2.json](./414314-with-eyes-closed-season-2.json) |
 | With Loneliness | 116932 | [116932-with-loneliness.json](./116932-with-loneliness.json) |
@@ -662,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With You | 188710 | [188710-with-you.json](./188710-with-you.json) |
 | Withering Flowers | 260421 | [260421-withering-flowers.json](./260421-withering-flowers.json) |
 | Withering Realms | 329964 | [329964-withering-realms.json](./329964-withering-realms.json) |
+| Within His View | 379868 | [379868-within-his-view.json](./379868-within-his-view.json) |
 | Within the Range | 391045 | [391045-within-the-range.json](./391045-within-the-range.json) |
 | Within Whispers: The Fall | 61652 | [61652-within-whispers-the-fall.json](./61652-within-whispers-the-fall.json) |
 | Without Escape | 270394 | [270394-without-escape.json](./270394-without-escape.json) |
