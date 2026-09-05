@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | Y-Tiles | 58248 | [58248-y-tiles.json](./58248-y-tiles.json) |
+| Yabai Girls: Valentine Babe | 390508 | [390508-yabai-girls-valentine-babe.json](./390508-yabai-girls-valentine-babe.json) |
 | Yaga: Roots of Evil | 186902 | [186902-yaga-roots-of-evil.json](./186902-yaga-roots-of-evil.json) |
 | YAGS: Falling For You | 228069 | [228069-yags-falling-for-you.json](./228069-yags-falling-for-you.json) |
 | Yahtzee Party | 205809 | [205809-yahtzee-party.json](./205809-yahtzee-party.json) |
@@ -72,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yomawari: Night Alone / htol#NiQ: The Firefly Diary - Limited Edition | 297245 | [297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json](./297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json) |
 | Yomawari: The Long Night Collection | 103052 | [103052-yomawari-the-long-night-collection.json](./103052-yomawari-the-long-night-collection.json) |
 | Yongbi M | 208061 | [208061-yongbi-m.json](./208061-yongbi-m.json) |
+| Yooca: Your Life | 390516 | [390516-yooca-your-life.json](./390516-yooca-your-life.json) |
 | Yooka-Laylee and the Impossible Lair: Digital Deluxe Edition | 154557 | [154557-yooka-laylee-and-the-impossible-lair-digital-deluxe-edition.json](./154557-yooka-laylee-and-the-impossible-lair-digital-deluxe-edition.json) |
 | Yooka-Laylee: Buddy Duo Pack | 154556 | [154556-yooka-laylee-buddy-duo-pack.json](./154556-yooka-laylee-buddy-duo-pack.json) |
 | Yore VR | 26140 | [26140-yore-vr.json](./26140-yore-vr.json) |
