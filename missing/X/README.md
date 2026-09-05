@@ -113,4 +113,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XXZ: XXL - Squad | 170508 | [170508-xxz-xxl-squad.json](./170508-xxz-xxl-squad.json) |
 | XXZ: XXL - Squad Trial | 170507 | [170507-xxz-xxl-squad-trial.json](./170507-xxz-xxl-squad-trial.json) |
 | Xyanide Resurrection | 43342 | [43342-xyanide-resurrection.json](./43342-xyanide-resurrection.json) |
+| Xyphoe's Nightmare | 402885 | [402885-xyphoes-nightmare.json](./402885-xyphoes-nightmare.json) |
 | X遊戲 | 163986 | [163986-x.json](./163986-x.json) |
