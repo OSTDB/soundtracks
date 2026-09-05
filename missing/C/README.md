@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cividle | 224744 | [224744-cividle.json](./224744-cividle.json) |
 | Civil War | 95459 | [95459-civil-war.json](./95459-civil-war.json) |
 | Civil War II | 17527 | [17527-civil-war-ii.json](./17527-civil-war-ii.json) |
+| Civil Warfare: Another Bullet in the War | 79136 | [79136-civil-warfare-another-bullet-in-the-war.json](./79136-civil-warfare-another-bullet-in-the-war.json) |
 | Civilization Simulator | 267069 | [267069-civilization-simulator.json](./267069-civilization-simulator.json) |
 | CJ Dreams | 263226 | [263226-cj-dreams.json](./263226-cj-dreams.json) |
 | Clair Obscur: Expedition 33 – Deluxe Edition | 333209 | [333209-clair-obscur-expedition-33-deluxe-edition.json](./333209-clair-obscur-expedition-33-deluxe-edition.json) |
@@ -925,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click the Business | 111007 | [111007-click-the-business.json](./111007-click-the-business.json) |
 | Click to Sail | 218703 | [218703-click-to-sail.json](./218703-click-to-sail.json) |
 | Click! | 94731 | [94731-click.json](./94731-click.json) |
+| ClickBit | 76644 | [76644-clickbit.json](./76644-clickbit.json) |
 | ClickCells: Summer | 173834 | [173834-clickcells-summer.json](./173834-clickcells-summer.json) |
 | Clickenzee | 84270 | [84270-clickenzee.json](./84270-clickenzee.json) |
 | Clicker Heroes | 15563 | [15563-clicker-heroes.json](./15563-clicker-heroes.json) |
@@ -1068,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collection of Most Awful Things that Could Ever Happen on St. Valentine's Day | 319985 | [319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json](./319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json) |
 | Collector | 130936 | [130936-collector.json](./130936-collector.json) |
 | Collector's Edition: 101 Incredible Games! | 205799 | [205799-collectors-edition-101-incredible-games.json](./205799-collectors-edition-101-incredible-games.json) |
+| College Bball Coach | 78544 | [78544-college-bball-coach.json](./78544-college-bball-coach.json) |
 | College Bound: Episode 4 | 207504 | [207504-college-bound-episode-4.json](./207504-college-bound-episode-4.json) |
 | College Craze | 210863 | [210863-college-craze.json](./210863-college-craze.json) |
 | College Hoops 2K6 | 5782 | [5782-college-hoops-2k6.json](./5782-college-hoops-2k6.json) |
