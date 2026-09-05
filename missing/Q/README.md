@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Tripper: Math | 267084 | [267084-quantum-tripper-math.json](./267084-quantum-tripper-math.json) |
 | Quartal | 370145 | [370145-quartal.json](./370145-quartal.json) |
 | Quarter Monkey | 233759 | [233759-quarter-monkey.json](./233759-quarter-monkey.json) |
+| Quartermaster | 368478 | [368478-quartermaster.json](./368478-quartermaster.json) |
 | Quarterstaff: The Tomb of Setmoth | 47300 | [47300-quarterstaff-the-tomb-of-setmoth.json](./47300-quarterstaff-the-tomb-of-setmoth.json) |
 | Quartet | 314674 | [314674-quartet.json](./314674-quartet.json) |
 | Quarth | 239297 | [239297-quarth.json](./239297-quarth.json) |
