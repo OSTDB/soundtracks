@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 2 1 Quiz Game | 45321 | [45321-3-2-1-quiz-game.json](./45321-3-2-1-quiz-game.json) |
 | 3 Cushion Masters | 153462 | [153462-3-cushion-masters.json](./153462-3-cushion-masters.json) |
 | 3 Day Eventing: The Ultimate Riding Adventure | 205829 | [205829-3-day-eventing-the-ultimate-riding-adventure.json](./205829-3-day-eventing-the-ultimate-riding-adventure.json) |
+| 3 Days to Live | 379898 | [379898-3-days-to-live.json](./379898-3-days-to-live.json) |
 | 3 in 1: Logical Bundle | 208043 | [208043-3-in-1-logical-bundle.json](./208043-3-in-1-logical-bundle.json) |
 | 3 Little Pigs & Bad Wolf | 124267 | [124267-3-little-pigs-and-bad-wolf.json](./124267-3-little-pigs-and-bad-wolf.json) |
 | 3 Minute Walk | 182550 | [182550-3-minute-walk.json](./182550-3-minute-walk.json) |
