@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Hentai Girls 2 | 203553 | [203553-kawaii-hentai-girls-2.json](./203553-kawaii-hentai-girls-2.json) |
 | Kawaii Koneko DS 2 | 68005 | [68005-kawaii-koneko-ds-2.json](./68005-kawaii-koneko-ds-2.json) |
 | Kawaii Solitaire 3 in 1 | 220872 | [220872-kawaii-solitaire-3-in-1.json](./220872-kawaii-solitaire-3-in-1.json) |
+| Kayak Photography Sim | 415109 | [415109-kayak-photography-sim.json](./415109-kayak-photography-sim.json) |
 | Kazekao | 340786 | [340786-kazekao.json](./340786-kazekao.json) |
 | Kazoku Minna no Nouryoku Trainer | 327595 | [327595-kazoku-minna-no-nouryoku-trainer.json](./327595-kazoku-minna-no-nouryoku-trainer.json) |
 | KDice | 56512 | [56512-kdice.json](./56512-kdice.json) |
@@ -498,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi-Koi Japan: Ukiyoe Deluxe Edition | 53261 | [53261-koi-koi-japan-ukiyoe-deluxe-edition.json](./53261-koi-koi-japan-ukiyoe-deluxe-edition.json) |
 | KoiGig: Devil x Angel | 202373 | [202373-koigig-devil-x-angel.json](./202373-koigig-devil-x-angel.json) |
 | Koihime Enbu RyoRaiRai: Jokou and Kakuka | 159307 | [159307-koihime-enbu-ryorairai-jokou-and-kakuka.json](./159307-koihime-enbu-ryorairai-jokou-and-kakuka.json) |
+| Koinori | 415117 | [415117-koinori.json](./415117-koinori.json) |
 | Koishi's Lumo | 132280 | [132280-koishis-lumo.json](./132280-koishis-lumo.json) |
 | Kokohore! Pukka: Dig-a-Dig Pukka | 138825 | [138825-kokohore-pukka-dig-a-dig-pukka.json](./138825-kokohore-pukka-dig-a-dig-pukka.json) |
 | Kokontouzai Eto Monogatari | 40229 | [40229-kokontouzai-eto-monogatari.json](./40229-kokontouzai-eto-monogatari.json) |
