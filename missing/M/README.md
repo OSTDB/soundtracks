@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man of Steel | 63305 | [63305-man-of-steel.json](./63305-man-of-steel.json) |
 | Man of Sterling Quality | 192432 | [192432-man-of-sterling-quality.json](./192432-man-of-sterling-quality.json) |
 | Man of War II: Chains of Command | 73835 | [73835-man-of-war-ii-chains-of-command.json](./73835-man-of-war-ii-chains-of-command.json) |
+| Man Without Clothes Runner | 368469 | [368469-man-without-clothes-runner.json](./368469-man-without-clothes-runner.json) |
 | Mana Go Round | 167814 | [167814-mana-go-round.json](./167814-mana-go-round.json) |
 | Mana Khemia: Alchemists of Al-Revis - Premium Edition | 43308 | [43308-mana-khemia-alchemists-of-al-revis-premium-edition.json](./43308-mana-khemia-alchemists-of-al-revis-premium-edition.json) |
 | Mana Land | 369063 | [369063-mana-land.json](./369063-mana-land.json) |
@@ -1799,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morrow | 220844 | [220844-morrow.json](./220844-morrow.json) |
 | Mortadelo y Filemón II: Safari Callejero | 98975 | [98975-mortadelo-y-filemon-ii-safari-callejero.json](./98975-mortadelo-y-filemon-ii-safari-callejero.json) |
 | Mortadelo y Filemón: El Escarabajo de Cleopatra | 78038 | [78038-mortadelo-y-filemon-el-escarabajo-de-cleopatra.json](./78038-mortadelo-y-filemon-el-escarabajo-de-cleopatra.json) |
+| Mortal Cultivation Biography | 368504 | [368504-mortal-cultivation-biography.json](./368504-mortal-cultivation-biography.json) |
 | Mortal Fighter | 251837 | [251837-mortal-fighter.json](./251837-mortal-fighter.json) |
 | Mortal Glory | 119763 | [119763-mortal-glory.json](./119763-mortal-glory.json) |
 | Mortal Hire | 295006 | [295006-mortal-hire.json](./295006-mortal-hire.json) |
