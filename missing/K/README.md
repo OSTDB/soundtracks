@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knytt Classic | 412975 | [412975-knytt-classic.json](./412975-knytt-classic.json) |
 | Kobito-zukan: Kobito no Fushigi Jikken Set | 329947 | [329947-kobito-zukan-kobito-no-fushigi-jikken-set.json](./329947-kobito-zukan-kobito-no-fushigi-jikken-set.json) |
 | Kobold Slayer | 111690 | [111690-kobold-slayer.json](./111690-kobold-slayer.json) |
+| KochiKame: Ryo-san's Billion-yen Beat | 402892 | [402892-kochikame-ryo-sans-billion-yen-beat.json](./402892-kochikame-ryo-sans-billion-yen-beat.json) |
 | Kochira, Haha Naru Hoshi Yori | 152912 | [152912-kochira-haha-naru-hoshi-yori.json](./152912-kochira-haha-naru-hoshi-yori.json) |
 | Kodama | 262067 | [262067-kodama.json](./262067-kodama.json) |
 | Kodoku no Yurikago | 260941 | [260941-kodoku-no-yurikago.json](./260941-kodoku-no-yurikago.json) |
@@ -600,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kukoo Kitchen | 112349 | [112349-kukoo-kitchen.json](./112349-kukoo-kitchen.json) |
 | Kukui 2 | 140011 | [140011-kukui-2.json](./140011-kukui-2.json) |
 | Kuma Sushi Bar | 200745 | [200745-kuma-sushi-bar.json](./200745-kuma-sushi-bar.json) |
+| Kumari Samsara: The Living Goddess | 402909 | [402909-kumari-samsara-the-living-goddess.json](./402909-kumari-samsara-the-living-goddess.json) |
 | Kumitate Battle: Kuttu Ketto | 70995 | [70995-kumitate-battle-kuttu-ketto.json](./70995-kumitate-battle-kuttu-ketto.json) |
 | Kumoon: Ballistic Physics Puzzle | 19029 | [19029-kumoon-ballistic-physics-puzzle.json](./19029-kumoon-ballistic-physics-puzzle.json) |
 | Kunai Strike | 203557 | [203557-kunai-strike.json](./203557-kunai-strike.json) |
