@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Cells: Everyone is Here! | 221962 | [221962-dead-cells-everyone-is-here.json](./221962-dead-cells-everyone-is-here.json) |
 | Dead Cells: Netflix Edition | 274723 | [274723-dead-cells-netflix-edition.json](./274723-dead-cells-netflix-edition.json) |
 | Dead Cells: The Queen and the Sea | 183128 | [183128-dead-cells-the-queen-and-the-sea.json](./183128-dead-cells-the-queen-and-the-sea.json) |
+| Dead Dozen | 79141 | [79141-dead-dozen.json](./79141-dead-dozen.json) |
 | Dead Dust | 89960 | [89960-dead-dust.json](./89960-dead-dust.json) |
 | Dead Earth Zombies | 188672 | [188672-dead-earth-zombies.json](./188672-dead-earth-zombies.json) |
 | Dead End Aegis | 186893 | [186893-dead-end-aegis.json](./186893-dead-end-aegis.json) |
@@ -1252,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dosukoi Slime | 322998 | [322998-dosukoi-slime.json](./322998-dosukoi-slime.json) |
 | Dot Ninja | 179183 | [179183-dot-ninja.json](./179183-dot-ninja.json) |
 | DotAge | 111045 | [111045-dotage.json](./111045-dotage.json) |
+| Dots | 76631 | [76631-dots.json](./76631-dots.json) |
 | Dots and Dashes | 188674 | [188674-dots-and-dashes.json](./188674-dots-and-dashes.json) |
 | Dots in line | 223180 | [223180-dots-in-line.json](./223180-dots-in-line.json) |
 | Dots of War | 241051 | [241051-dots-of-war.json](./241051-dots-of-war.json) |
@@ -1397,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Roll | 184124 | [184124-dragon-roll.json](./184124-dragon-roll.json) |
 | Dragon Ruins II | 328277 | [328277-dragon-ruins-ii.json](./328277-dragon-ruins-ii.json) |
 | Dragon Song Tavern | 334471 | [334471-dragon-song-tavern.json](./334471-dragon-song-tavern.json) |
+| Dragon Spear | 77588 | [77588-dragon-spear.json](./77588-dragon-spear.json) |
 | Dragon Star Varnir: Complete Deluxe Edition | 186884 | [186884-dragon-star-varnir-complete-deluxe-edition.json](./186884-dragon-star-varnir-complete-deluxe-edition.json) |
 | Dragon Swarm | 87240 | [87240-dragon-swarm.json](./87240-dragon-swarm.json) |
 | Dragon Tales: Dragon Wings | 49939 | [49939-dragon-tales-dragon-wings.json](./49939-dragon-tales-dragon-wings.json) |
@@ -1533,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Apocalypse | 296091 | [296091-drift-apocalypse.json](./296091-drift-apocalypse.json) |
 | Drift Out | 39674 | [39674-drift-out.json](./39674-drift-out.json) |
 | Drift Streets Japan | 34167 | [34167-drift-streets-japan.json](./34167-drift-streets-japan.json) |
+| Drift Zone | 76535 | [76535-drift-zone.json](./76535-drift-zone.json) |
 | DriftHub | 256007 | [256007-drifthub.json](./256007-drifthub.json) |
 | Driftin.io | 126024 | [126024-driftin-io.json](./126024-driftin-io.json) |
 | Driftwatch VR | 30919 | [30919-driftwatch-vr.json](./30919-driftwatch-vr.json) |
