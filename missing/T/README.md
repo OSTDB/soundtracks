@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Innocence R | 42673 | [42673-tales-of-innocence-r.json](./42673-tales-of-innocence-r.json) |
 | Tales of Lagoona: Orphans of the Ocean | 54424 | [54424-tales-of-lagoona-orphans-of-the-ocean.json](./54424-tales-of-lagoona-orphans-of-the-ocean.json) |
 | Tales of Monkey Island: Chapter 3 - Lair of the Leviathan | 81269 | [81269-tales-of-monkey-island-chapter-3-lair-of-the-leviathan.json](./81269-tales-of-monkey-island-chapter-3-lair-of-the-leviathan.json) |
+| Tales of Nebezem: Elemental Link | 86749 | [86749-tales-of-nebezem-elemental-link.json](./86749-tales-of-nebezem-elemental-link.json) |
 | Tales of Terror: House on the Hill | 139428 | [139428-tales-of-terror-house-on-the-hill.json](./139428-tales-of-terror-house-on-the-hill.json) |
 | Tales of the Black Death | 178068 | [178068-tales-of-the-black-death.json](./178068-tales-of-the-black-death.json) |
 | Tales of the Death | 204112 | [204112-tales-of-the-death.json](./204112-tales-of-the-death.json) |
@@ -1041,6 +1042,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Menace | 154029 | [154029-the-great-menace.json](./154029-the-great-menace.json) |
 | The Great Song | 179170 | [179170-the-great-song.json](./179170-the-great-song.json) |
 | The Great Stroke-Off! | 73311 | [73311-the-great-stroke-off.json](./73311-the-great-stroke-off.json) |
+| The Great Tournament | 86758 | [86758-the-great-tournament.json](./86758-the-great-tournament.json) |
+| The Great Tournament 2 | 86759 | [86759-the-great-tournament-2.json](./86759-the-great-tournament-2.json) |
 | The Great War: Western Front | 214505 | [214505-the-great-war-western-front.json](./214505-the-great-war-western-front.json) |
 | The Great Yokai of the Haunted Halls | 331118 | [331118-the-great-yokai-of-the-haunted-halls.json](./331118-the-great-yokai-of-the-haunted-halls.json) |
 | The Griffon Legend | 202975 | [202975-the-griffon-legend.json](./202975-the-griffon-legend.json) |
@@ -2286,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Stand Still | 10992 | [10992-time-stand-still.json](./10992-time-stand-still.json) |
 | Time Tenshi Paradox: Episode 2 | 96616 | [96616-time-tenshi-paradox-episode-2.json](./96616-time-tenshi-paradox-episode-2.json) |
 | Time to Golf | 143711 | [143711-time-to-golf.json](./143711-time-to-golf.json) |
+| Time to Play Hearts | 86709 | [86709-time-to-play-hearts.json](./86709-time-to-play-hearts.json) |
 | Time to Play Pyramid | 96759 | [96759-time-to-play-pyramid.json](./96759-time-to-play-pyramid.json) |
 | Time Travel | 117091 | [117091-time-travel.json](./117091-time-travel.json) |
 | Time Traveler | 201849 | [201849-time-traveler.json](./201849-time-traveler.json) |
@@ -2731,6 +2735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracks of Triumph: Good Old Times | 29886 | [29886-tracks-of-triumph-good-old-times.json](./29886-tracks-of-triumph-good-old-times.json) |
 | Tracky Train | 58241 | [58241-tracky-train.json](./58241-tracky-train.json) |
 | Tractage aux Portes 2: Mob a la Cafeteria | 120979 | [120979-tractage-aux-portes-2-mob-a-la-cafeteria.json](./120979-tractage-aux-portes-2-mob-a-la-cafeteria.json) |
+| Tractor Farmer | 86710 | [86710-tractor-farmer.json](./86710-tractor-farmer.json) |
 | Tractor Journey | 223154 | [223154-tractor-journey.json](./223154-tractor-journey.json) |
 | Trade City | 257683 | [257683-trade-city.json](./257683-trade-city.json) |
 | Trade Sails | 200718 | [200718-trade-sails.json](./200718-trade-sails.json) |
