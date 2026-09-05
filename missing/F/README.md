@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fengse Huanxiang 5: Chi Yue Zhanzheng | 68690 | [68690-fengse-huanxiang-5-chi-yue-zhanzheng.json](./68690-fengse-huanxiang-5-chi-yue-zhanzheng.json) |
 | Fēngshén Yīngjié Zhuán | 93061 | [93061-fengshen-yingjie-zhuan.json](./93061-fengshen-yingjie-zhuan.json) |
 | Fenix | 298305 | [298305-fenix.json](./298305-fenix.json) |
+| Feodika | 382777 | [382777-feodika.json](./382777-feodika.json) |
 | Fergus the Fly | 29641 | [29641-fergus-the-fly.json](./29641-fergus-the-fly.json) |
 | Feria 3000 | 391057 | [391057-feria-3000.json](./391057-feria-3000.json) |
 | Feria d'Arles | 126394 | [126394-feria-darles.json](./126394-feria-darles.json) |
@@ -986,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ford Mustang: The Legend Lives | 43306 | [43306-ford-mustang-the-legend-lives.json](./43306-ford-mustang-the-legend-lives.json) |
 | Ford vs. Chevy | 5838 | [5838-ford-vs-chevy.json](./5838-ford-vs-chevy.json) |
 | Forebears | 211934 | [211934-forebears.json](./211934-forebears.json) |
+| Forecast Death | 382758 | [382758-forecast-death.json](./382758-forecast-death.json) |
 | Foreign Body | 236549 | [236549-foreign-body.json](./236549-foreign-body.json) |
 | Forensic Science Mystery | 399633 | [399633-forensic-science-mystery.json](./399633-forensic-science-mystery.json) |
 | Forensics: Crime Scene Detective | 406712 | [406712-forensics-crime-scene-detective.json](./406712-forensics-crime-scene-detective.json) |
