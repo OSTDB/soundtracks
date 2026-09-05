@@ -1066,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancestors Legacy: Special Edition | 124820 | [124820-ancestors-legacy-special-edition.json](./124820-ancestors-legacy-special-edition.json) |
 | Anchor-13 | 408047 | [408047-anchor-13.json](./408047-anchor-13.json) |
 | Anchors: Blockade Zone | 239900 | [239900-anchors-blockade-zone.json](./239900-anchors-blockade-zone.json) |
+| Ancient | 371889 | [371889-ancient.json](./371889-ancient.json) |
 | Ancient Adventures | 205841 | [205841-ancient-adventures.json](./205841-ancient-adventures.json) |
 | Ancient Aliens: The Game | 211402 | [211402-ancient-aliens-the-game.json](./211402-ancient-aliens-the-game.json) |
 | Ancient Beast | 132866 | [132866-ancient-beast.json](./132866-ancient-beast.json) |
@@ -1283,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti-Jump-Man | 130374 | [130374-anti-jump-man.json](./130374-anti-jump-man.json) |
 | Anti-Nightmare Master Plan | 211435 | [211435-anti-nightmare-master-plan.json](./211435-anti-nightmare-master-plan.json) |
 | Anti-Opoly | 35916 | [35916-anti-opoly.json](./35916-anti-opoly.json) |
+| Anti-TuringTest | 371914 | [371914-anti-turingtest.json](./371914-anti-turingtest.json) |
 | Antiban | 302664 | [302664-antiban.json](./302664-antiban.json) |
 | Antichromatic | 112323 | [112323-antichromatic.json](./112323-antichromatic.json) |
 | Antigrav Racing Championship | 248329 | [248329-antigrav-racing-championship.json](./248329-antigrav-racing-championship.json) |
@@ -1760,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Syndicate - Gold Edition | 52626 | [52626-assassins-creed-syndicate-gold-edition.json](./52626-assassins-creed-syndicate-gold-edition.json) |
 | Assassin's Creed: Syndicate - Rooks Edition | 230499 | [230499-assassins-creed-syndicate-rooks-edition.json](./230499-assassins-creed-syndicate-rooks-edition.json) |
 | Assassination Classroom VR Balloon Challenge Time | 44611 | [44611-assassination-classroom-vr-balloon-challenge-time.json](./44611-assassination-classroom-vr-balloon-challenge-time.json) |
+| Assault Commander Rearmed | 371888 | [371888-assault-commander-rearmed.json](./371888-assault-commander-rearmed.json) |
 | Assault Gunners HD Edition | 87854 | [87854-assault-gunners-hd-edition.json](./87854-assault-gunners-hd-edition.json) |
 | Assault on Port Stanley | 12981 | [12981-assault-on-port-stanley.json](./12981-assault-on-port-stanley.json) |
 | Assault Rei Play | 109004 | [109004-assault-rei-play.json](./109004-assault-rei-play.json) |
