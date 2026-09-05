@@ -436,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Glory II: Medieval - Storm of Arrows | 186898 | [186898-field-of-glory-ii-medieval-storm-of-arrows.json](./186898-field-of-glory-ii-medieval-storm-of-arrows.json) |
 | Field of Glory II: Medieval - Swords and Scimitars | 171617 | [171617-field-of-glory-ii-medieval-swords-and-scimitars.json](./171617-field-of-glory-ii-medieval-swords-and-scimitars.json) |
 | Field of Glory II: Rise of Persia | 124818 | [124818-field-of-glory-ii-rise-of-persia.json](./124818-field-of-glory-ii-rise-of-persia.json) |
+| Field of Polarity | 392145 | [392145-field-of-polarity.json](./392145-field-of-polarity.json) |
 | Fieldrunners | 9839 | [9839-fieldrunners.json](./9839-fieldrunners.json) |
 | Fiend Hunter | 55897 | [55897-fiend-hunter.json](./55897-fiend-hunter.json) |
 | Fierce Allies | 237667 | [237667-fierce-allies.json](./237667-fierce-allies.json) |
