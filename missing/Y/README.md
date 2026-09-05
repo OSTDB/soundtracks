@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yore VR | 26140 | [26140-yore-vr.json](./26140-yore-vr.json) |
 | Yorg | 121719 | [121719-yorg.json](./121719-yorg.json) |
 | Yorg.io | 101699 | [101699-yorg-io.json](./101699-yorg-io.json) |
+| Yorvik's Game | 374610 | [374610-yorviks-game.json](./374610-yorviks-game.json) |
 | Yoshi and the Mysterious Book | 366883 | [366883-yoshi-and-the-mysterious-book.json](./366883-yoshi-and-the-mysterious-book.json) |
 | Yoshi Racing | 175959 | [175959-yoshi-racing.json](./175959-yoshi-racing.json) |
 | Yoshi Touch & Go | 18329 | [18329-yoshi-touch-and-go.json](./18329-yoshi-touch-and-go.json) |
