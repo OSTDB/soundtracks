@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangy TD | 236534 | [236534-tangy-td.json](./236534-tangy-td.json) |
 | Tanigawa Kouji no Shogi Shinan II: Meijin he no Michi | 41382 | [41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json](./41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json) |
 | Tank Battle Heroes: Iron Warfare | 120430 | [120430-tank-battle-heroes-iron-warfare.json](./120430-tank-battle-heroes-iron-warfare.json) |
+| Tank Battle: 1944 | 34600 | [34600-tank-battle-1944.json](./34600-tank-battle-1944.json) |
 | Tank Combat | 54425 | [54425-tank-combat.json](./54425-tank-combat.json) |
 | Tank Elite | 82130 | [82130-tank-elite.json](./82130-tank-elite.json) |
 | Tank Game | 69315 | [69315-tank-game.json](./69315-tank-game.json) |
@@ -1432,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery Files of Detective Inaba No. 1 | 131575 | [131575-the-mystery-files-of-detective-inaba-no-1.json](./131575-the-mystery-files-of-detective-inaba-no-1.json) |
 | The Mystery Files of Detective Inaba No. 2 | 131576 | [131576-the-mystery-files-of-detective-inaba-no-2.json](./131576-the-mystery-files-of-detective-inaba-no-2.json) |
 | The Mystery Files of Detective Inaba No. 3 | 131577 | [131577-the-mystery-files-of-detective-inaba-no-3.json](./131577-the-mystery-files-of-detective-inaba-no-3.json) |
+| The Mystery of a Lost Planet | 34522 | [34522-the-mystery-of-a-lost-planet.json](./34522-the-mystery-of-a-lost-planet.json) |
 | The Mystery of Haunted Hollow | 89746 | [89746-the-mystery-of-haunted-hollow.json](./89746-the-mystery-of-haunted-hollow.json) |
 | The Mystery of the Art School | 321162 | [321162-the-mystery-of-the-art-school.json](./321162-the-mystery-of-the-art-school.json) |
 | The Mystery of the Crystal Portal: Beyond the Horizon | 140614 | [140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json](./140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json) |
@@ -1965,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Is No Light | 138213 | [138213-there-is-no-light.json](./138213-there-is-no-light.json) |
 | There Is No Turning Back! | 111004 | [111004-there-is-no-turning-back.json](./111004-there-is-no-turning-back.json) |
 | There Is Nothing Here | 179174 | [179174-there-is-nothing-here.json](./179174-there-is-nothing-here.json) |
+| There Was a Caveman | 34339 | [34339-there-was-a-caveman.json](./34339-there-was-a-caveman.json) |
 | There's an Only One Way Exit. | 314065 | [314065-theres-an-only-one-way-exit.json](./314065-theres-an-only-one-way-exit.json) |
 | There's No Easter Eggs | 273630 | [273630-theres-no-easter-eggs.json](./273630-theres-no-easter-eggs.json) |
 | There's No Santa | 315296 | [315296-theres-no-santa.json](./315296-theres-no-santa.json) |
@@ -2325,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timo's Adventures | 143708 | [143708-timos-adventures.json](./143708-timos-adventures.json) |
 | Timothy | 64992 | [64992-timothy.json](./64992-timothy.json) |
 | Tin Tandem | 152396 | [152396-tin-tandem.json](./152396-tin-tandem.json) |
+| Tinboy | 34507 | [34507-tinboy.json](./34507-tinboy.json) |
 | Tingus Goose | 285342 | [285342-tingus-goose.json](./285342-tingus-goose.json) |
 | Tinting Time | 216500 | [216500-tinting-time.json](./216500-tinting-time.json) |
 | Tiny Atolls | 230529 | [230529-tiny-atolls.json](./230529-tiny-atolls.json) |
