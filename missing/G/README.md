@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Traffic Control | 325839 | [325839-galactic-traffic-control.json](./325839-galactic-traffic-control.json) |
 | Galactic Vibes | 336890 | [336890-galactic-vibes.json](./336890-galactic-vibes.json) |
 | Galactic Wars | 133996 | [133996-galactic-wars.json](./133996-galactic-wars.json) |
+| Galactic-A-Tactic: The Most Diplomatic Solution | 367975 | [367975-galactic-a-tactic-the-most-diplomatic-solution.json](./367975-galactic-a-tactic-the-most-diplomatic-solution.json) |
 | Galactica: Batalha Espacial | 123033 | [123033-galactica-batalha-espacial.json](./123033-galactica-batalha-espacial.json) |
 | Galacticraft | 232681 | [232681-galacticraft.json](./232681-galacticraft.json) |
 | Galactix | 381042 | [381042-galactix.json](./381042-galactix.json) |
