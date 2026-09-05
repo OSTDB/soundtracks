@@ -349,6 +349,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Fairy Friends: Secret of the Fairy Queen | 68031 | [68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json](./68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json) |
 | Enchanted Hearts | 298901 | [298901-enchanted-hearts.json](./298901-enchanted-hearts.json) |
 | Enchanted in the Moonlight: Kiryu, Chikage & Yukinojo DLC Pack | 238188 | [238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json](./238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json) |
+| Enchanted Memories | 386148 | [386148-enchanted-memories.json](./386148-enchanted-memories.json) |
+| Enchanted Solitaire | 386133 | [386133-enchanted-solitaire.json](./386133-enchanted-solitaire.json) |
+| Enchanted Solitaire 2 | 386123 | [386123-enchanted-solitaire-2.json](./386123-enchanted-solitaire-2.json) |
 | Encircled | 319977 | [319977-encircled.json](./319977-encircled.json) |
 | Enclosure 3-D | 215929 | [215929-enclosure-3-d.json](./215929-enclosure-3-d.json) |
 | Encode | 159861 | [159861-encode.json](./159861-encode.json) |
@@ -498,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape | 98433 | [98433-escape.json](./98433-escape.json) |
 | Escape Academy: Deluxe Edition | 209686 | [209686-escape-academy-deluxe-edition.json](./209686-escape-academy-deluxe-edition.json) |
 | Escape Academy: Escape From Anti-Escape Island | 222336 | [222336-escape-academy-escape-from-anti-escape-island.json](./222336-escape-academy-escape-from-anti-escape-island.json) |
+| Escape Artist | 386136 | [386136-escape-artist.json](./386136-escape-artist.json) |
 | Escape Block King | 402311 | [402311-escape-block-king.json](./402311-escape-block-king.json) |
 | Escape Chase Monster | 219254 | [219254-escape-chase-monster.json](./219254-escape-chase-monster.json) |
 | Escape Condition | 219255 | [219255-escape-condition.json](./219255-escape-condition.json) |
