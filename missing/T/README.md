@@ -916,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dog Run | 114410 | [114410-the-dog-run.json](./114410-the-dog-run.json) |
 | The Doll Beneath | 192428 | [192428-the-doll-beneath.json](./192428-the-doll-beneath.json) |
 | The Doll Shop | 123627 | [123627-the-doll-shop.json](./123627-the-doll-shop.json) |
+| The Donut Gallery | 386735 | [386735-the-donut-gallery.json](./386735-the-donut-gallery.json) |
 | The Doom Beneath | 175429 | [175429-the-doom-beneath.json](./175429-the-doom-beneath.json) |
 | The Door | 246123 | [246123-the-door.json](./246123-the-door.json) |
 | The Door at the End of the Hall | 398321 | [398321-the-door-at-the-end-of-the-hall.json](./398321-the-door-at-the-end-of-the-hall.json) |
@@ -1240,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Joy of Creation: Ignited Collection | 216456 | [216456-the-joy-of-creation-ignited-collection.json](./216456-the-joy-of-creation-ignited-collection.json) |
 | The Joy of Creation: Story Mode | 45984 | [45984-the-joy-of-creation-story-mode.json](./45984-the-joy-of-creation-story-mode.json) |
 | The Joy of Kaizo with Bob Ross | 268195 | [268195-the-joy-of-kaizo-with-bob-ross.json](./268195-the-joy-of-kaizo-with-bob-ross.json) |
+| The Joy of Putting | 386699 | [386699-the-joy-of-putting.json](./386699-the-joy-of-putting.json) |
 | The Judgement of Q | 173272 | [173272-the-judgement-of-q.json](./173272-the-judgement-of-q.json) |
 | The Jumping Bagel | 223150 | [223150-the-jumping-bagel.json](./223150-the-jumping-bagel.json) |
 | The Jumping Bagel: Turbo | 223152 | [223152-the-jumping-bagel-turbo.json](./223152-the-jumping-bagel-turbo.json) |
@@ -1308,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Ninja | 8400 | [8400-the-last-ninja.json](./8400-the-last-ninja.json) |
 | The Last of Us Complete | 340213 | [340213-the-last-of-us-complete.json](./340213-the-last-of-us-complete.json) |
 | The Last of Us Complete: Collector's Edition | 340226 | [340226-the-last-of-us-complete-collectors-edition.json](./340226-the-last-of-us-complete-collectors-edition.json) |
+| The Last of Us Online | 386719 | [386719-the-last-of-us-online.json](./386719-the-last-of-us-online.json) |
 | The Last of Us Remastered: Day 1 Edition | 89931 | [89931-the-last-of-us-remastered-day-1-edition.json](./89931-the-last-of-us-remastered-day-1-edition.json) |
 | The Last One and Then Another | 318206 | [318206-the-last-one-and-then-another.json](./318206-the-last-one-and-then-another.json) |
 | The Last One Month | 180307 | [180307-the-last-one-month.json](./180307-the-last-one-month.json) |
@@ -1849,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Square Game | 130377 | [130377-the-square-game.json](./130377-the-square-game.json) |
 | The Stadium Project | 62177 | [62177-the-stadium-project.json](./62177-the-stadium-project.json) |
 | The Stanley Parable | 18453 | [18453-the-stanley-parable.json](./18453-the-stanley-parable.json) |
+| The Star Bowling DX | 386680 | [386680-the-star-bowling-dx.json](./386680-the-star-bowling-dx.json) |
 | The Starfire Soccer Challenge | 70383 | [70383-the-starfire-soccer-challenge.json](./70383-the-starfire-soccer-challenge.json) |
 | The Sticky Plan | 183577 | [183577-the-sticky-plan.json](./183577-the-sticky-plan.json) |
 | The Sting! | 11851 | [11851-the-sting.json](./11851-the-sting.json) |
@@ -3226,6 +3230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick or Alice | 251191 | [251191-trick-or-alice.json](./251191-trick-or-alice.json) |
 | Trick or Beat | 404236 | [404236-trick-or-beat.json](./404236-trick-or-beat.json) |
 | Trick or Treat | 197386 | [197386-trick-or-treat.json](./197386-trick-or-treat.json) |
+| Trick x Trick | 386689 | [386689-trick-x-trick.json](./386689-trick-x-trick.json) |
 | TrickShot VR | 133457 | [133457-trickshot-vr.json](./133457-trickshot-vr.json) |
 | Trickster Trove | 314642 | [314642-trickster-trove.json](./314642-trickster-trove.json) |
 | Trickster VR: Horde Attack! | 119759 | [119759-trickster-vr-horde-attack.json](./119759-trickster-vr-horde-attack.json) |
@@ -3377,6 +3382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumble Tundra | 259279 | [259279-tumble-tundra.json](./259279-tumble-tundra.json) |
 | Tumblebugs 2 | 53858 | [53858-tumblebugs-2.json](./53858-tumblebugs-2.json) |
 | TumbleSeed | 27051 | [27051-tumbleseed.json](./27051-tumbleseed.json) |
+| Tumor Necrosis Factor: Amen | 386716 | [386716-tumor-necrosis-factor-amen.json](./386716-tumor-necrosis-factor-amen.json) |
 | Tun Shi Tian Di III | 330523 | [330523-tun-shi-tian-di-iii.json](./330523-tun-shi-tian-di-iii.json) |
 | Tuna Roll | 325826 | [325826-tuna-roll.json](./325826-tuna-roll.json) |
 | Tundralia: The Frigid Frontier | 324714 | [324714-tundralia-the-frigid-frontier.json](./324714-tundralia-the-frigid-frontier.json) |
