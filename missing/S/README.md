@@ -1118,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Polskie Hity | 268752 | [268752-singstar-polskie-hity.json](./268752-singstar-polskie-hity.json) |
 | SingStar: Polskie Hity 2 | 268753 | [268753-singstar-polskie-hity-2.json](./268753-singstar-polskie-hity-2.json) |
 | Singstar: Portugal Hits | 91953 | [91953-singstar-portugal-hits.json](./91953-singstar-portugal-hits.json) |
+| Singulier | 413634 | [413634-singulier.json](./413634-singulier.json) |
 | Sinister Adventures Bundle | 199624 | [199624-sinister-adventures-bundle.json](./199624-sinister-adventures-bundle.json) |
 | Sinister City | 17898 | [17898-sinister-city.json](./17898-sinister-city.json) |
 | Sinister Fate | 38992 | [38992-sinister-fate.json](./38992-sinister-fate.json) |
@@ -1257,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slap City | 87935 | [87935-slap-city.json](./87935-slap-city.json) |
 | Slap That | 311263 | [311263-slap-that.json](./311263-slap-that.json) |
 | Slap-Shot! Hockey | 95424 | [95424-slap-shot-hockey.json](./95424-slap-shot-hockey.json) |
+| SlapGains | 413671 | [413671-slapgains.json](./413671-slapgains.json) |
 | Slash & Roll | 186299 | [186299-slash-and-roll.json](./186299-slash-and-roll.json) |
 | Slash and Fuck | 82893 | [82893-slash-and-fuck.json](./82893-slash-and-fuck.json) |
 | Slash Arena: Online | 51943 | [51943-slash-arena-online.json](./51943-slash-arena-online.json) |
@@ -2546,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Echoes: Maze Shooter | 263748 | [263748-stellar-echoes-maze-shooter.json](./263748-stellar-echoes-maze-shooter.json) |
 | Stellar Echoes: Ultimate Challenge | 263749 | [263749-stellar-echoes-ultimate-challenge.json](./263749-stellar-echoes-ultimate-challenge.json) |
 | Stellar Mercenaries | 62773 | [62773-stellar-mercenaries.json](./62773-stellar-mercenaries.json) |
+| Stellar Nursery | 413597 | [413597-stellar-nursery.json](./413597-stellar-nursery.json) |
 | Stellar Outpost Commander | 292325 | [292325-stellar-outpost-commander.json](./292325-stellar-outpost-commander.json) |
 | Stellar Overload | 25570 | [25570-stellar-overload.json](./25570-stellar-overload.json) |
 | Stellar Poetry | 333954 | [333954-stellar-poetry.json](./333954-stellar-poetry.json) |
@@ -2911,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunshine Island | 237647 | [237647-sunshine-island.json](./237647-sunshine-island.json) |
 | Sunshine Secret Book 64 | 132838 | [132838-sunshine-secret-book-64.json](./132838-sunshine-secret-book-64.json) |
 | Sunya | 253006 | [253006-sunya.json](./253006-sunya.json) |
+| Supaplex | 413616 | [413616-supaplex.json](./413616-supaplex.json) |
 | Supaplex: Second Chance | 145010 | [145010-supaplex-second-chance.json](./145010-supaplex-second-chance.json) |
 | Super | 51970 | [51970-super.json](./51970-super.json) |
 | Super "Mario" World | 297240 | [297240-super-mario-world.json](./297240-super-mario-world.json) |
@@ -3446,6 +3450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Surge | 195196 | [195196-sweet-surge.json](./195196-sweet-surge.json) |
 | Sweet Thomas | 126645 | [126645-sweet-thomas.json](./126645-sweet-thomas.json) |
 | Sweety Kitty 2 | 224774 | [224774-sweety-kitty-2.json](./224774-sweety-kitty-2.json) |
+| Swervle | 413686 | [413686-swervle.json](./413686-swervle.json) |
 | Swift Death | 138229 | [138229-swift-death.json](./138229-swift-death.json) |
 | Swim! Sacabambaspis | 276470 | [276470-swim-sacabambaspis.json](./276470-swim-sacabambaspis.json) |
 | Swing Copters | 7672 | [7672-swing-copters.json](./7672-swing-copters.json) |
