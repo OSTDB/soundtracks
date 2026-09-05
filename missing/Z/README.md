@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodiakalik | 161363 | [161363-zodiakalik.json](./161363-zodiakalik.json) |
 | Zodiarc | 331135 | [331135-zodiarc.json](./331135-zodiarc.json) |
 | Zodiarc Ring | 331146 | [331146-zodiarc-ring.json](./331146-zodiarc-ring.json) |
+| Zodiax | 383378 | [383378-zodiax.json](./383378-zodiax.json) |
 | ZodiaX | 259849 | [259849-zodiax.json](./259849-zodiax.json) |
 | Zoe and the Cursed Dreamer | 402282 | [402282-zoe-and-the-cursed-dreamer.json](./402282-zoe-and-the-cursed-dreamer.json) |
 | Zoey 101 | 18325 | [18325-zoey-101.json](./18325-zoey-101.json) |
@@ -232,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zorse | 328256 | [328256-zorse.json](./328256-zorse.json) |
 | Zort | 309176 | [309176-zort.json](./309176-zort.json) |
 | Zort 9 | 274227 | [274227-zort-9.json](./274227-zort-9.json) |
+| Zory | 383381 | [383381-zory.json](./383381-zory.json) |
 | Zotenhold | 236498 | [236498-zotenhold.json](./236498-zotenhold.json) |
 | Zotto suru Kowai Toshi Densetsu | 252406 | [252406-zotto-suru-kowai-toshi-densetsu.json](./252406-zotto-suru-kowai-toshi-densetsu.json) |
 | ZP2KX: Zombies and Pterodactyls 20XX | 79927 | [79927-zp2kx-zombies-and-pterodactyls-20xx.json](./79927-zp2kx-zombies-and-pterodactyls-20xx.json) |
