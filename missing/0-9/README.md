@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Questions to Be Chosen by the Cat Lord | 404260 | [404260-1000-questions-to-be-chosen-by-the-cat-lord.json](./404260-1000-questions-to-be-chosen-by-the-cat-lord.json) |
 | 1000 Score: 2D Platformer | 389990 | [389990-1000-score-2d-platformer.json](./389990-1000-score-2d-platformer.json) |
 | 1000 Seconds | 301027 | [301027-1000-seconds.json](./301027-1000-seconds.json) |
+| 1000000 shrimp | 383975 | [383975-1000000-shrimp.json](./383975-1000000-shrimp.json) |
 | 1000xResist | 218282 | [218282-1000xresist.json](./218282-1000xresist.json) |
 | 1001 Jigsaw: Cute Cats 4 | 242231 | [242231-1001-jigsaw-cute-cats-4.json](./242231-1001-jigsaw-cute-cats-4.json) |
 | 1001 Jigsaw: Earth Chronicles 4 | 87252 | [87252-1001-jigsaw-earth-chronicles-4.json](./87252-1001-jigsaw-earth-chronicles-4.json) |
