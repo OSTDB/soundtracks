@@ -39,6 +39,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yesterday | 7647 | [7647-yesterday.json](./7647-yesterday.json) |
 | Yesterday's Nightmare | 274225 | [274225-yesterdays-nightmare.json](./274225-yesterdays-nightmare.json) |
 | YesterMorrow | 120533 | [120533-yestermorrow.json](./120533-yestermorrow.json) |
+| Yet Another Avoider | 412978 | [412978-yet-another-avoider.json](./412978-yet-another-avoider.json) |
+| Yet Another Incremental Game (But This Time About Coding) | 412965 | [412965-yet-another-incremental-game-but-this-time-about-coding.json](./412965-yet-another-incremental-game-but-this-time-about-coding.json) |
 | Yet Another Pixel Dungeon | 129772 | [129772-yet-another-pixel-dungeon.json](./129772-yet-another-pixel-dungeon.json) |
 | Yet Another Solitaire Game | 316981 | [316981-yet-another-solitaire-game.json](./316981-yet-another-solitaire-game.json) |
 | Yet another tower defence | 110367 | [110367-yet-another-tower-defence.json](./110367-yet-another-tower-defence.json) |
