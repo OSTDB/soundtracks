@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ki(n)ds | 27902 | [27902-ki-n-ds.json](./27902-ki-n-ds.json) |
 | Kiaidan 00 | 42011 | [42011-kiaidan-00.json](./42011-kiaidan-00.json) |
 | Kiara and My Ara Ara Adventure | 156149 | [156149-kiara-and-my-ara-ara-adventure.json](./156149-kiara-and-my-ara-ara-adventure.json) |
+| Kibble Cats | 410233 | [410233-kibble-cats.json](./410233-kibble-cats.json) |
 | Kiborg | 249998 | [249998-kiborg.json](./249998-kiborg.json) |
 | Kichiku Megane | 142451 | [142451-kichiku-megane.json](./142451-kichiku-megane.json) |
 | Kick Ball | 42051 | [42051-kick-ball.json](./42051-kick-ball.json) |
