@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untouchable | 101594 | [101594-untouchable.json](./101594-untouchable.json) |
 | Untravelled Planet | 325270 | [325270-untravelled-planet.json](./325270-untravelled-planet.json) |
 | Unusual Times | 221393 | [221393-unusual-times.json](./221393-unusual-times.json) |
+| Unwavering Love | 405465 | [405465-unwavering-love.json](./405465-unwavering-love.json) |
 | Unwelcome Guest | 337453 | [337453-unwelcome-guest.json](./337453-unwelcome-guest.json) |
 | Uoris DX | 147475 | [147475-uoris-dx.json](./147475-uoris-dx.json) |
 | Up | 210281 | [210281-up.json](./210281-up.json) |
