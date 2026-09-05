@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole in One Golf | 49924 | [49924-hole-in-one-golf.json](./49924-hole-in-one-golf.json) |
 | Hole io & Helix Jump | 315836 | [315836-hole-io-and-helix-jump.json](./315836-hole-io-and-helix-jump.json) |
 | Hole io: Ancient DLC | 309081 | [309081-hole-io-ancient-dlc.json](./309081-hole-io-ancient-dlc.json) |
+| Hole io: Construction DLC | 380392 | [380392-hole-io-construction-dlc.json](./380392-hole-io-construction-dlc.json) |
 | Hole-In-One Miniature Golf | 70979 | [70979-hole-in-one-miniature-golf.json](./70979-hole-in-one-miniature-golf.json) |
 | Holey Moley | 270409 | [270409-holey-moley.json](./270409-holey-moley.json) |
 | Holiday Bonus Gold | 29929 | [29929-holiday-bonus-gold.json](./29929-holiday-bonus-gold.json) |
@@ -1122,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How I learned to Skate | 175972 | [175972-how-i-learned-to-skate.json](./175972-how-i-learned-to-skate.json) |
 | How it was to live Guadalindie 2026 | 410255 | [410255-how-it-was-to-live-guadalindie-2026.json](./410255-how-it-was-to-live-guadalindie-2026.json) |
 | How long can human beings exist | 109657 | [109657-how-long-can-human-beings-exist.json](./109657-how-long-can-human-beings-exist.json) |
+| How Many Bugs in a Box | 380444 | [380444-how-many-bugs-in-a-box.json](./380444-how-many-bugs-in-a-box.json) |
 | How They Found Silence | 169987 | [169987-how-they-found-silence.json](./169987-how-they-found-silence.json) |
 | How to Build a Flying City | 321746 | [321746-how-to-build-a-flying-city.json](./321746-how-to-build-a-flying-city.json) |
 | How to Chicken 101 | 181399 | [181399-how-to-chicken-101.json](./181399-how-to-chicken-101.json) |
