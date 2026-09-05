@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CannonBall | 195227 | [195227-cannonball.json](./195227-cannonball.json) |
 | Cannot Contain | 278711 | [278711-cannot-contain.json](./278711-cannot-contain.json) |
 | Cantrip Cafe | 113692 | [113692-cantrip-cafe.json](./113692-cantrip-cafe.json) |
+| Canvas of Thoughts | 399590 | [399590-canvas-of-thoughts.json](./399590-canvas-of-thoughts.json) |
 | CanvasCraft | 332241 | [332241-canvascraft.json](./332241-canvascraft.json) |
 | Capcom Arcade Stadium: Battle Circuit | 234302 | [234302-capcom-arcade-stadium-battle-circuit.json](./234302-capcom-arcade-stadium-battle-circuit.json) |
 | Capcom Arcade Stadium: Dynasty Wars | 150654 | [150654-capcom-arcade-stadium-dynasty-wars.json](./150654-capcom-arcade-stadium-dynasty-wars.json) |
@@ -235,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Town | 333966 | [333966-card-town.json](./333966-card-town.json) |
 | Card Trainer | 400869 | [400869-card-trainer.json](./400869-card-trainer.json) |
 | Card-en-Ciel | 292835 | [292835-card-en-ciel.json](./292835-card-en-ciel.json) |
+| Card&Casino | 399617 | [399617-card-and-casino.json](./399617-card-and-casino.json) |
 | Cardboard Football Club | 233206 | [233206-cardboard-football-club.json](./233206-cardboard-football-club.json) |
 | Cardfight!! Vanguard EX | 115018 | [115018-cardfight-vanguard-ex.json](./115018-cardfight-vanguard-ex.json) |
 | Cardfight!! Vanguard: Dear Days - Additional Special Set | 301017 | [301017-cardfight-vanguard-dear-days-additional-special-set.json](./301017-cardfight-vanguard-dear-days-additional-special-set.json) |
@@ -529,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chainsaw Juice King | 321143 | [321143-chainsaw-juice-king.json](./321143-chainsaw-juice-king.json) |
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
+| Challenge Together! Elementary School Quiz | 399620 | [399620-challenge-together-elementary-school-quiz.json](./399620-challenge-together-elementary-school-quiz.json) |
 | Challengers of Khalea | 76622 | [76622-challengers-of-khalea.json](./76622-challengers-of-khalea.json) |
 | Chalvo 55: Super Puzzle Action | 7821 | [7821-chalvo-55-super-puzzle-action.json](./7821-chalvo-55-super-puzzle-action.json) |
 | Chambers of Shaolin | 11997 | [11997-chambers-of-shaolin.json](./11997-chambers-of-shaolin.json) |
@@ -612,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernobyl | 228687 | [228687-chernobyl.json](./228687-chernobyl.json) |
 | Chernobyl: Road of Death | 122380 | [122380-chernobyl-road-of-death.json](./122380-chernobyl-road-of-death.json) |
 | Cherry Blossom Portable | 56471 | [56471-cherry-blossom-portable.json](./56471-cherry-blossom-portable.json) |
+| Cherry Girls vs. Zombie Carnage: Brutal Anime Kawaii | 399619 | [399619-cherry-girls-vs-zombie-carnage-brutal-anime-kawaii.json](./399619-cherry-girls-vs-zombie-carnage-brutal-anime-kawaii.json) |
 | Cherry Tree High Girls' Fight | 33094 | [33094-cherry-tree-high-girls-fight.json](./33094-cherry-tree-high-girls-fight.json) |
 | Cherry VX | 161380 | [161380-cherry-vx.json](./161380-cherry-vx.json) |
 | Cherrywitched! | 246070 | [246070-cherrywitched.json](./246070-cherrywitched.json) |
@@ -923,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civil Warfare: Another Bullet in the War | 79136 | [79136-civil-warfare-another-bullet-in-the-war.json](./79136-civil-warfare-another-bullet-in-the-war.json) |
 | Civilization Simulator | 267069 | [267069-civilization-simulator.json](./267069-civilization-simulator.json) |
 | CJ Dreams | 263226 | [263226-cj-dreams.json](./263226-cj-dreams.json) |
+| Claim the Forest: Settling Peace | 399618 | [399618-claim-the-forest-settling-peace.json](./399618-claim-the-forest-settling-peace.json) |
 | Claims & Caverns | 414284 | [414284-claims-and-caverns.json](./414284-claims-and-caverns.json) |
 | Clair Obscur: Expedition 33 – Deluxe Edition | 333209 | [333209-clair-obscur-expedition-33-deluxe-edition.json](./333209-clair-obscur-expedition-33-deluxe-edition.json) |
 | Claire | 10082 | [10082-claire.json](./10082-claire.json) |
@@ -1499,7 +1504,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courage | 25768 | [25768-courage.json](./25768-courage.json) |
 | Courage: The Videogame | 170005 | [170005-courage-the-videogame.json](./170005-courage-the-videogame.json) |
 | Courageous Reasoning Nori 7 New World | 309077 | [309077-courageous-reasoning-nori-7-new-world.json](./309077-courageous-reasoning-nori-7-new-world.json) |
+| Courier Beware | 399597 | [399597-courier-beware.json](./399597-courier-beware.json) |
 | Courier Chief Tycoon | 237086 | [237086-courier-chief-tycoon.json](./237086-courier-chief-tycoon.json) |
+| Court of Darkness: Captivation's Kiss | 399622 | [399622-court-of-darkness-captivations-kiss.json](./399622-court-of-darkness-captivations-kiss.json) |
 | Courting Death | 318791 | [318791-courting-death.json](./318791-courting-death.json) |
 | CoverQuest | 294456 | [294456-coverquest.json](./294456-coverquest.json) |
 | Covert Command | 65507 | [65507-covert-command.json](./65507-covert-command.json) |
@@ -1515,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowpocalypse | 274776 | [274776-cowpocalypse.json](./274776-cowpocalypse.json) |
 | Cozy | 179745 | [179745-cozy.json](./179745-cozy.json) |
 | Cozy Cards | 209616 | [209616-cozy-cards.json](./209616-cozy-cards.json) |
+| Cozy Cat Cafe | 399630 | [399630-cozy-cat-cafe.json](./399630-cozy-cat-cafe.json) |
 | Cozy Christmas Home Jigsaw Puzzles | 228114 | [228114-cozy-christmas-home-jigsaw-puzzles.json](./228114-cozy-christmas-home-jigsaw-puzzles.json) |
 | Cozy Days | 209604 | [209604-cozy-days.json](./209604-cozy-days.json) |
 | Cozy Grove + New Neighbears Bundle | 199635 | [199635-cozy-grove-new-neighbears-bundle.json](./199635-cozy-grove-new-neighbears-bundle.json) |
@@ -1595,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crawlyard | 166753 | [166753-crawlyard.json](./166753-crawlyard.json) |
 | Crayon Chronicles | 35950 | [35950-crayon-chronicles.json](./35950-crayon-chronicles.json) |
 | Crayon Pairs | 105945 | [105945-crayon-pairs.json](./105945-crayon-pairs.json) |
+| Crayon Sea Friends | 399629 | [399629-crayon-sea-friends.json](./399629-crayon-sea-friends.json) |
 | Crayon Shin-Chan: Ora to Wanpaku Gokko dazo | 63314 | [63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json](./63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json) |
 | Crayon Shin-chan: Puzzle Daimaou no Nazo | 172768 | [172768-crayon-shin-chan-puzzle-daimaou-no-nazo.json](./172768-crayon-shin-chan-puzzle-daimaou-no-nazo.json) |
 | Crazy 8s Revamped | 26649 | [26649-crazy-8s-revamped.json](./26649-crazy-8s-revamped.json) |
@@ -1778,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruzcredo: Become a Legend! | 332272 | [332272-cruzcredo-become-a-legend.json](./332272-cruzcredo-become-a-legend.json) |
 | Cryohazard | 297815 | [297815-cryohazard.json](./297815-cryohazard.json) |
 | CryoNation | 278166 | [278166-cryonation.json](./278166-cryonation.json) |
+| Crypt Carnage | 399628 | [399628-crypt-carnage.json](./399628-crypt-carnage.json) |
 | Crypt Killer | 20737 | [20737-crypt-killer.json](./20737-crypt-killer.json) |
 | Crypt of Dracula | 102808 | [102808-crypt-of-dracula.json](./102808-crypt-of-dracula.json) |
 | Crypt of the Necrodancer: Amplified | 26613 | [26613-crypt-of-the-necrodancer-amplified.json](./26613-crypt-of-the-necrodancer-amplified.json) |
