@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laid-Back Camp: Virtual - Lake Motosu | 143719 | [143719-laid-back-camp-virtual-lake-motosu.json](./143719-laid-back-camp-virtual-lake-motosu.json) |
 | Lair Land Story: Remake Edition | 119030 | [119030-lair-land-story-remake-edition.json](./119030-lair-land-story-remake-edition.json) |
 | Lair Of The Leviathan | 291220 | [291220-lair-of-the-leviathan.json](./291220-lair-of-the-leviathan.json) |
+| Lake Hero | 412959 | [412959-lake-hero.json](./412959-lake-hero.json) |
 | Lake Masters | 67302 | [67302-lake-masters.json](./67302-lake-masters.json) |
 | Lake Masters 2 | 67298 | [67298-lake-masters-2.json](./67298-lake-masters-2.json) |
 | Lake Masters Pro | 67300 | [67300-lake-masters-pro.json](./67300-lake-masters-pro.json) |
@@ -753,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Ravage | 204714 | [204714-lords-of-ravage.json](./204714-lords-of-ravage.json) |
 | Lords of Time | 23050 | [23050-lords-of-time.json](./23050-lords-of-time.json) |
 | Lore: Aftermath | 69274 | [69274-lore-aftermath.json](./69274-lore-aftermath.json) |
+| Loree 3D | 412950 | [412950-loree-3d.json](./412950-loree-3d.json) |
 | Loren the Amazon Princess: The Castle Of N'Mar | 171634 | [171634-loren-the-amazon-princess-the-castle-of-nmar.json](./171634-loren-the-amazon-princess-the-castle-of-nmar.json) |
 | Lost Abroad Café | 235450 | [235450-lost-abroad-cafe.json](./235450-lost-abroad-cafe.json) |
 | Lost Alone EP.1: Little Sister | 185649 | [185649-lost-alone-ep-1-little-sister.json](./185649-lost-alone-ep-1-little-sister.json) |
@@ -842,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Story: The Way Home | 102187 | [102187-love-story-the-way-home.json](./102187-love-story-the-way-home.json) |
 | Love Tavern | 165028 | [165028-love-tavern.json](./165028-love-tavern.json) |
 | Love Verne | 183585 | [183585-love-verne.json](./183585-love-verne.json) |
+| Love-Colored Memories | 412974 | [412974-love-colored-memories.json](./412974-love-colored-memories.json) |
 | Love, Hate and the Mysterious Ocean Tower | 300381 | [300381-love-hate-and-the-mysterious-ocean-tower.json](./300381-love-hate-and-the-mysterious-ocean-tower.json) |
 | Love, Sam | 118986 | [118986-love-sam.json](./118986-love-sam.json) |
 | Love's Eternal Wishes | 298898 | [298898-loves-eternal-wishes.json](./298898-loves-eternal-wishes.json) |
