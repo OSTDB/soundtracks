@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape | 98433 | [98433-escape.json](./98433-escape.json) |
 | Escape Academy: Deluxe Edition | 209686 | [209686-escape-academy-deluxe-edition.json](./209686-escape-academy-deluxe-edition.json) |
 | Escape Academy: Escape From Anti-Escape Island | 222336 | [222336-escape-academy-escape-from-anti-escape-island.json](./222336-escape-academy-escape-from-anti-escape-island.json) |
+| Escape Block King | 402311 | [402311-escape-block-king.json](./402311-escape-block-king.json) |
 | Escape Chase Monster | 219254 | [219254-escape-chase-monster.json](./219254-escape-chase-monster.json) |
 | Escape Condition | 219255 | [219255-escape-condition.json](./219255-escape-condition.json) |
 | Escape Depths of Immanis | 322989 | [322989-escape-depths-of-immanis.json](./322989-escape-depths-of-immanis.json) |
