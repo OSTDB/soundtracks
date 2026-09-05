@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikyou Todai Shogi | 203548 | [203548-saikyou-todai-shogi.json](./203548-saikyou-todai-shogi.json) |
 | Saikyou Todai Shogi 2 | 203549 | [203549-saikyou-todai-shogi-2.json](./203549-saikyou-todai-shogi-2.json) |
 | Sail Simulator 4 | 143740 | [143740-sail-simulator-4.json](./143740-sail-simulator-4.json) |
+| Sailing the Winds & New Tanks | 375160 | [375160-sailing-the-winds-and-new-tanks.json](./375160-sailing-the-winds-and-new-tanks.json) |
 | Sailor Fuku Bishoujo Zukan Vol. 1 | 41389 | [41389-sailor-fuku-bishoujo-zukan-vol-1.json](./41389-sailor-fuku-bishoujo-zukan-vol-1.json) |
 | Sailor Fuku Bishoujo Zukan Vol. 2 | 41388 | [41388-sailor-fuku-bishoujo-zukan-vol-2.json](./41388-sailor-fuku-bishoujo-zukan-vol-2.json) |
 | Sailor Fuku Bishoujo Zukan Vol. 3 | 41387 | [41387-sailor-fuku-bishoujo-zukan-vol-3.json](./41387-sailor-fuku-bishoujo-zukan-vol-3.json) |
@@ -959,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi, Koi Utsutsu | 61665 | [61665-shinobi-koi-utsutsu.json](./61665-shinobi-koi-utsutsu.json) |
 | Shinobi, Koi Utsutsu: Banka Aya Emaki - Limited Edition | 205269 | [205269-shinobi-koi-utsutsu-banka-aya-emaki-limited-edition.json](./205269-shinobi-koi-utsutsu-banka-aya-emaki-limited-edition.json) |
 | Shinobi: Art of Vengeance | 279630 | [279630-shinobi-art-of-vengeance.json](./279630-shinobi-art-of-vengeance.json) |
+| Shinobi: Art of Vengeance - Sega Villains Stage | 375165 | [375165-shinobi-art-of-vengeance-sega-villains-stage.json](./375165-shinobi-art-of-vengeance-sega-villains-stage.json) |
 | Shinobi.io | 194016 | [194016-shinobi-io.json](./194016-shinobi-io.json) |
 | Shinorubi | 173320 | [173320-shinorubi.json](./173320-shinorubi.json) |
 | Shinrai: Broken Beyond Despair | 32105 | [32105-shinrai-broken-beyond-despair.json](./32105-shinrai-broken-beyond-despair.json) |
@@ -1899,6 +1901,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Powered Up | 333939 | [333939-sonic-powered-up.json](./333939-sonic-powered-up.json) |
 | Sonic QWERTY | 266511 | [266511-sonic-qwerty.json](./266511-sonic-qwerty.json) |
 | Sonic Racers | 333936 | [333936-sonic-racers.json](./333936-sonic-racers.json) |
+| Sonic Racing: CrossWorlds - Avatar Legends Pack | 375167 | [375167-sonic-racing-crossworlds-avatar-legends-pack.json](./375167-sonic-racing-crossworlds-avatar-legends-pack.json) |
+| Sonic Racing: CrossWorlds - Pac-Man Pack | 375170 | [375170-sonic-racing-crossworlds-pac-man-pack.json](./375170-sonic-racing-crossworlds-pac-man-pack.json) |
+| Sonic Racing: CrossWorlds - SpongeBob SquarePants Pack | 375166 | [375166-sonic-racing-crossworlds-spongebob-squarepants-pack.json](./375166-sonic-racing-crossworlds-spongebob-squarepants-pack.json) |
+| Sonic Racing: CrossWorlds - Teenage Mutant Ninja Turtles Mutant Mayhem Pack | 375168 | [375168-sonic-racing-crossworlds-teenage-mutant-ninja-turtles-mutant-mayhem-pack.json](./375168-sonic-racing-crossworlds-teenage-mutant-ninja-turtles-mutant-mayhem-pack.json) |
 | Sonic Racing: CrossWorlds - Werehog Pack | 408746 | [408746-sonic-racing-crossworlds-werehog-pack.json](./408746-sonic-racing-crossworlds-werehog-pack.json) |
 | Sonic Realmz | 326996 | [326996-sonic-realmz.json](./326996-sonic-realmz.json) |
 | Sonic Relighted | 333938 | [333938-sonic-relighted.json](./333938-sonic-relighted.json) |
@@ -2462,6 +2468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Alarm | 148572 | [148572-spy-alarm.json](./148572-spy-alarm.json) |
 | Spy Chameleon | 15462 | [15462-spy-chameleon.json](./15462-spy-chameleon.json) |
 | Spy Fiction | 43327 | [43327-spy-fiction.json](./43327-spy-fiction.json) |
+| Spy Guy American Dream | 375162 | [375162-spy-guy-american-dream.json](./375162-spy-guy-american-dream.json) |
 | Spy Guy Hidden Objects Poland | 400194 | [400194-spy-guy-hidden-objects-poland.json](./400194-spy-guy-hidden-objects-poland.json) |
 | Spy Guy Memory Abstraction Bundle | 400204 | [400204-spy-guy-memory-abstraction-bundle.json](./400204-spy-guy-memory-abstraction-bundle.json) |
 | Spy Hunter | 21042 | [21042-spy-hunter.json](./21042-spy-hunter.json) |
@@ -2965,6 +2972,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Dunk | 264320 | [264320-street-dunk.json](./264320-street-dunk.json) |
 | Street Fighter 2010: The Final Fight | 45196 | [45196-street-fighter-2010-the-final-fight.json](./45196-street-fighter-2010-the-final-fight.json) |
 | Street Fighter 6 | 191692 | [191692-street-fighter-6.json](./191692-street-fighter-6.json) |
+| Street Fighter 6: Additional Character - Alex & Outfit 2 | 375149 | [375149-street-fighter-6-additional-character-alex-and-outfit-2.json](./375149-street-fighter-6-additional-character-alex-and-outfit-2.json) |
+| Street Fighter 6: Additional Character - Ingrid & Outfit 2 & Outfit 3 (Sagat, C. Viper, Alex, Ingrid) | 375151 | [375151-street-fighter-6-additional-character-ingrid-and-outfit-2-and-outfit-3-sagat-c-viper-alex-ingrid.json](./375151-street-fighter-6-additional-character-ingrid-and-outfit-2-and-outfit-3-sagat-c-viper-alex-ingrid.json) |
 | Street Fighter 6: Deluxe Edition | 228737 | [228737-street-fighter-6-deluxe-edition.json](./228737-street-fighter-6-deluxe-edition.json) |
 | Street Fighter 6: Year 2 Ultimate Pass | 305529 | [305529-street-fighter-6-year-2-ultimate-pass.json](./305529-street-fighter-6-year-2-ultimate-pass.json) |
 | Street Fighter Alpha 3: Xiang Long | 213628 | [213628-street-fighter-alpha-3-xiang-long.json](./213628-street-fighter-alpha-3-xiang-long.json) |
@@ -3217,6 +3226,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Angling | 126629 | [126629-super-angling.json](./126629-super-angling.json) |
 | Super Animal Royale: Season 0 | 204696 | [204696-super-animal-royale-season-0.json](./204696-super-animal-royale-season-0.json) |
 | Super Animal Royale: Season 0.5 | 204698 | [204698-super-animal-royale-season-0-5.json](./204698-super-animal-royale-season-0-5.json) |
+| Super Animal Royale: Starter Pack Bundle - Seasons 0-4 | 375198 | [375198-super-animal-royale-starter-pack-bundle-seasons-0-4.json](./375198-super-animal-royale-starter-pack-bundle-seasons-0-4.json) |
+| Super Animal Royale: Starter Pack Bundle - Seasons 5-9 | 375199 | [375199-super-animal-royale-starter-pack-bundle-seasons-5-9.json](./375199-super-animal-royale-starter-pack-bundle-seasons-5-9.json) |
 | Super Ant Art Tycoon | 391603 | [391603-super-ant-art-tycoon.json](./391603-super-ant-art-tycoon.json) |
 | Super Arabian | 48665 | [48665-super-arabian.json](./48665-super-arabian.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - Isle of the Cat Girls | 225902 | [225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json](./225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json) |
@@ -3536,6 +3547,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Wars 30: Limited Edition | 155096 | [155096-super-robot-wars-30-limited-edition.json](./155096-super-robot-wars-30-limited-edition.json) |
 | Super Robot Wars BX | 79337 | [79337-super-robot-wars-bx.json](./79337-super-robot-wars-bx.json) |
 | Super Robot Wars X | 87796 | [87796-super-robot-wars-x.json](./87796-super-robot-wars-x.json) |
+| Super Robot Wars Y: DLC 1 - Contract from the Darkness | 375171 | [375171-super-robot-wars-y-dlc-1-contract-from-the-darkness.json](./375171-super-robot-wars-y-dlc-1-contract-from-the-darkness.json) |
+| Super Robot Wars Y: DLC 2 - Awakening of a Soul | 375172 | [375172-super-robot-wars-y-dlc-2-awakening-of-a-soul.json](./375172-super-robot-wars-y-dlc-2-awakening-of-a-soul.json) |
 | Super Rock Blasters! | 31959 | [31959-super-rock-blasters.json](./31959-super-rock-blasters.json) |
 | Super Rugby | 48664 | [48664-super-rugby.json](./48664-super-rugby.json) |
 | Super Rugby League 2 | 23009 | [23009-super-rugby-league-2.json](./23009-super-rugby-league-2.json) |
