@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlets Rush | 297247 | [297247-outlets-rush.json](./297247-outlets-rush.json) |
 | Outliver: Tribulation | 129234 | [129234-outliver-tribulation.json](./129234-outliver-tribulation.json) |
 | Outnumbered | 239904 | [239904-outnumbered.json](./239904-outnumbered.json) |
+| Outpost 13 | 35744 | [35744-outpost-13.json](./35744-outpost-13.json) |
 | Outpost Delta | 123030 | [123030-outpost-delta.json](./123030-outpost-delta.json) |
 | Outpost Luna | 174363 | [174363-outpost-luna.json](./174363-outpost-luna.json) |
 | OutRage: Fight Fest | 262662 | [262662-outrage-fight-fest.json](./262662-outrage-fight-fest.json) |
