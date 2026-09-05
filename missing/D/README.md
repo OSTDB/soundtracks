@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dartford Street | 183593 | [183593-dartford-street.json](./183593-dartford-street.json) |
 | Darthy | 34374 | [34374-darthy.json](./34374-darthy.json) |
 | Darts and Friends | 96627 | [96627-darts-and-friends.json](./96627-darts-and-friends.json) |
+| Darwins Trash | 370149 | [370149-darwins-trash.json](./370149-darwins-trash.json) |
 | Das Boot: German U-Boat Simulation | 14332 | [14332-das-boot-german-u-boat-simulation.json](./14332-das-boot-german-u-boat-simulation.json) |
 | Das Rätsel in Ägypten | 81399 | [81399-das-ratsel-in-agypten.json](./81399-das-ratsel-in-agypten.json) |
 | Dash.io | 256521 | [256521-dash-io.json](./256521-dash-io.json) |
@@ -647,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Hunter 2: New Chapter | 32774 | [32774-demon-hunter-2-new-chapter.json](./32774-demon-hunter-2-new-chapter.json) |
 | Demon Hunter: Chronicles from Beyond | 17987 | [17987-demon-hunter-chronicles-from-beyond.json](./17987-demon-hunter-chronicles-from-beyond.json) |
 | Demon Huntress | 399625 | [399625-demon-huntress.json](./399625-demon-huntress.json) |
+| Demon Itself | 370124 | [370124-demon-itself.json](./370124-demon-itself.json) |
 | Demon Keeper 2+ | 167305 | [167305-demon-keeper-2.json](./167305-demon-keeper-2.json) |
 | Demon Kill Demon: Yomi 1984 | 394158 | [394158-demon-kill-demon-yomi-1984.json](./394158-demon-kill-demon-yomi-1984.json) |
 | Demon Path: Tower of Armagor | 215904 | [215904-demon-path-tower-of-armagor.json](./215904-demon-path-tower-of-armagor.json) |
