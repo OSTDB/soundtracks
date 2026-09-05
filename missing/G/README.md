@@ -412,6 +412,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gift Wrapped | 272556 | [272556-gift-wrapped.json](./272556-gift-wrapped.json) |
 | Giftpia | 3931 | [3931-giftpia.json](./3931-giftpia.json) |
 | Gifts from Arthur | 202365 | [202365-gifts-from-arthur.json](./202365-gifts-from-arthur.json) |
+| GigaBash: Final Ascension DLC | 404835 | [404835-gigabash-final-ascension-dlc.json](./404835-gigabash-final-ascension-dlc.json) |
+| GigaBash: GAMERA -Rebirth- DLC | 404834 | [404834-gigabash-gamera-rebirth-dlc.json](./404834-gigabash-gamera-rebirth-dlc.json) |
+| GigaBash: Ultraman - Rising DLC | 404829 | [404829-gigabash-ultraman-rising-dlc.json](./404829-gigabash-ultraman-rising-dlc.json) |
+| GigaBash: Ultraman Zero | 404820 | [404820-gigabash-ultraman-zero.json](./404820-gigabash-ultraman-zero.json) |
 | Gigachess: Brilliant Blitz Level Pack | 166224 | [166224-gigachess-brilliant-blitz-level-pack.json](./166224-gigachess-brilliant-blitz-level-pack.json) |
 | Gigantosaurus Dino Kart | 219436 | [219436-gigantosaurus-dino-kart.json](./219436-gigantosaurus-dino-kart.json) |
 | Gigolo | 40777 | [40777-gigolo.json](./40777-gigolo.json) |
@@ -962,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Your Guarden | 263794 | [263794-grow-your-guarden.json](./263794-grow-your-guarden.json) |
 | Grow: Song of the Evertree | 151673 | [151673-grow-song-of-the-evertree.json](./151673-grow-song-of-the-evertree.json) |
 | Growbots: Battle Academy | 161386 | [161386-growbots-battle-academy.json](./161386-growbots-battle-academy.json) |
+| Growing My Manhole | 404809 | [404809-growing-my-manhole.json](./404809-growing-my-manhole.json) |
 | Grumpy Witch | 115015 | [115015-grumpy-witch.json](./115015-grumpy-witch.json) |
 | GrundHeim | 235969 | [235969-grundheim.json](./235969-grundheim.json) |
 | Grunn | 281353 | [281353-grunn.json](./281353-grunn.json) |
