@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 6 Remastered | 41858 | [41858-resident-evil-6-remastered.json](./41858-resident-evil-6-remastered.json) |
 | Resident Evil 7 Teaser: Beginning Hour | 90566 | [90566-resident-evil-7-teaser-beginning-hour.json](./90566-resident-evil-7-teaser-beginning-hour.json) |
 | Resident Evil 7: Biohazard - Not A Hero | 27395 | [27395-resident-evil-7-biohazard-not-a-hero.json](./27395-resident-evil-7-biohazard-not-a-hero.json) |
+| Resident Evil Requiem: Leon Must Die Forever | 400876 | [400876-resident-evil-requiem-leon-must-die-forever.json](./400876-resident-evil-requiem-leon-must-die-forever.json) |
 | Resident Evil Revelations 2: Season Pass | 254130 | [254130-resident-evil-revelations-2-season-pass.json](./254130-resident-evil-revelations-2-season-pass.json) |
 | Resident Evil: Chronicles HD Collection | 21068 | [21068-resident-evil-chronicles-hd-collection.json](./21068-resident-evil-chronicles-hd-collection.json) |
 | Resident Evil: Deadly Silence | 20456 | [20456-resident-evil-deadly-silence.json](./20456-resident-evil-deadly-silence.json) |
@@ -1358,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runa & the Chaikurú Legacy | 238734 | [238734-runa-and-the-chaikuru-legacy.json](./238734-runa-and-the-chaikuru-legacy.json) |
 | Runaway 2: The Dream of the Turtle | 13227 | [13227-runaway-2-the-dream-of-the-turtle.json](./13227-runaway-2-the-dream-of-the-turtle.json) |
 | Runaway Train | 252368 | [252368-runaway-train.json](./252368-runaway-train.json) |
+| Runaway Train 2D | 400908 | [400908-runaway-train-2d.json](./400908-runaway-train-2d.json) |
 | Runaway VR | 54446 | [54446-runaway-vr.json](./54446-runaway-vr.json) |
 | Rune Caster | 75149 | [75149-rune-caster.json](./75149-rune-caster.json) |
 | Rune Defender | 296676 | [296676-rune-defender.json](./296676-rune-defender.json) |
