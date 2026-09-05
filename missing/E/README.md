@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elderfeast | 408071 | [408071-elderfeast.json](./408071-elderfeast.json) |
 | Eldevin | 17350 | [17350-eldevin.json](./17350-eldevin.json) |
 | Eldoria: The Cursed Crown | 310758 | [310758-eldoria-the-cursed-crown.json](./310758-eldoria-the-cursed-crown.json) |
+| Eldramoor: Haven in the Mist | 397671 | [397671-eldramoor-haven-in-the-mist.json](./397671-eldramoor-haven-in-the-mist.json) |
 | Eldritch Cards: The Lovecraftian Dungeon Crawler Game | 413600 | [413600-eldritch-cards-the-lovecraftian-dungeon-crawler-game.json](./413600-eldritch-cards-the-lovecraftian-dungeon-crawler-game.json) |
 | Eldritchvania | 223680 | [223680-eldritchvania.json](./223680-eldritchvania.json) |
 | Ele Blaze | 68662 | [68662-ele-blaze.json](./68662-ele-blaze.json) |
@@ -316,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji Battlefield: Summer Vacation | 399636 | [399636-emoji-battlefield-summer-vacation.json](./399636-emoji-battlefield-summer-vacation.json) |
 | Emoji Bomb | 398978 | [398978-emoji-bomb.json](./398978-emoji-bomb.json) |
 | Emoji Craft ! | 103503 | [103503-emoji-craft.json](./103503-emoji-craft.json) |
+| Emoji Wars | 397649 | [397649-emoji-wars.json](./397649-emoji-wars.json) |
 | EmoteGuesser | 232687 | [232687-emoteguesser.json](./232687-emoteguesser.json) |
 | Emperium | 155661 | [155661-emperium.json](./155661-emperium.json) |
 | Empire Chronicles | 163985 | [163985-empire-chronicles.json](./163985-empire-chronicles.json) |
@@ -638,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everlasting Tower | 335661 | [335661-everlasting-tower.json](./335661-everlasting-tower.json) |
 | Everlasting: Per Aspera Ad Terra | 112313 | [112313-everlasting-per-aspera-ad-terra.json](./112313-everlasting-per-aspera-ad-terra.json) |
 | Everlong Swansong | 257086 | [257086-everlong-swansong.json](./257086-everlong-swansong.json) |
+| Everlost | 397695 | [397695-everlost.json](./397695-everlost.json) |
 | EverMatch | 237672 | [237672-evermatch.json](./237672-evermatch.json) |
 | EverQuest II: Chains of Eternity | 18318 | [18318-everquest-ii-chains-of-eternity.json](./18318-everquest-ii-chains-of-eternity.json) |
 | EverQuest II: The Bloodline Chronicles | 111024 | [111024-everquest-ii-the-bloodline-chronicles.json](./111024-everquest-ii-the-bloodline-chronicles.json) |
@@ -754,6 +757,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expansion | 120397 | [120397-expansion.json](./120397-expansion.json) |
 | Expediente Ñ | 322368 | [322368-expediente-n.json](./322368-expediente-n.json) |
 | Expedition Amazon | 23898 | [23898-expedition-amazon.json](./23898-expedition-amazon.json) |
+| Expeditions: A MudRunner Game - Season 1: Cave Odyssey | 397701 | [397701-expeditions-a-mudrunner-game-season-1-cave-odyssey.json](./397701-expeditions-a-mudrunner-game-season-1-cave-odyssey.json) |
+| Expeditions: A MudRunner Game - Season 2: White Dawn | 397703 | [397703-expeditions-a-mudrunner-game-season-2-white-dawn.json](./397703-expeditions-a-mudrunner-game-season-2-white-dawn.json) |
+| Expeditions: A MudRunner Game - Season 3: Icy Shores | 397702 | [397702-expeditions-a-mudrunner-game-season-3-icy-shores.json](./397702-expeditions-a-mudrunner-game-season-3-icy-shores.json) |
 | Expeditions: Conquistador | 16523 | [16523-expeditions-conquistador.json](./16523-expeditions-conquistador.json) |
 | Expendable | 317640 | [317640-expendable.json](./317640-expendable.json) |
 | Experimental | 163972 | [163972-experimental.json](./163972-experimental.json) |
