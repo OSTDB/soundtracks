@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Ball Jump! | 310767 | [310767-jump-ball-jump.json](./310767-jump-ball-jump.json) |
 | Jump Ball-Bounce on Tower Tile | 105909 | [105909-jump-ball-bounce-on-tower-tile.json](./105909-jump-ball-bounce-on-tower-tile.json) |
 | Jump Barrel | 239334 | [239334-jump-barrel.json](./239334-jump-barrel.json) |
+| Jump Duck | 407306 | [407306-jump-duck.json](./407306-jump-duck.json) |
 | Jump Heroes | 290726 | [290726-jump-heroes.json](./290726-jump-heroes.json) |
 | Jump Kid | 217022 | [217022-jump-kid.json](./217022-jump-kid.json) |
 | Jump Like An Egyptian | 192978 | [192978-jump-like-an-egyptian.json](./192978-jump-like-an-egyptian.json) |
@@ -318,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump: Assemble | 268747 | [268747-jump-assemble.json](./268747-jump-assemble.json) |
 | Jumpah | 254755 | [254755-jumpah.json](./254755-jumpah.json) |
 | JumpBeard | 199642 | [199642-jumpbeard.json](./199642-jumpbeard.json) |
+| Jumpcut Jigsaws | 407311 | [407311-jumpcut-jigsaws.json](./407311-jumpcut-jigsaws.json) |
 | Jumper Three | 79910 | [79910-jumper-three.json](./79910-jumper-three.json) |
 | Jumpers League | 329960 | [329960-jumpers-league.json](./329960-jumpers-league.json) |
 | Jumphobia | 55946 | [55946-jumphobia.json](./55946-jumphobia.json) |
@@ -356,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkyard Apocalypse | 243943 | [243943-junkyard-apocalypse.json](./243943-junkyard-apocalypse.json) |
 | Junkyard Builder Simulator | 174883 | [174883-junkyard-builder-simulator.json](./174883-junkyard-builder-simulator.json) |
 | Junkyard Jumble | 112308 | [112308-junkyard-jumble.json](./112308-junkyard-jumble.json) |
+| Juno and Hope Destroy Capitalism | 407357 | [407357-juno-and-hope-destroy-capitalism.json](./407357-juno-and-hope-destroy-capitalism.json) |
 | Juno Nemesis Remix | 73279 | [73279-juno-nemesis-remix.json](./73279-juno-nemesis-remix.json) |
 | Jupiter | 313468 | [313468-jupiter.json](./313468-jupiter.json) |
 | Juqueision | 186301 | [186301-juqueision.json](./186301-juqueision.json) |
