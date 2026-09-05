@@ -599,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kremling Krushin | 231605 | [231605-kremling-krushin.json](./231605-kremling-krushin.json) |
 | Krew Eats | 172718 | [172718-krew-eats.json](./172718-krew-eats.json) |
 | Kriegspiel | 84274 | [84274-kriegspiel.json](./84274-kriegspiel.json) |
+| Kriegsspiel: 7 Years' War | 388760 | [388760-kriegsspiel-7-years-war.json](./388760-kriegsspiel-7-years-war.json) |
 | Krila | 260943 | [260943-krila.json](./260943-krila.json) |
 | KrissX | 67327 | [67327-krissx.json](./67327-krissx.json) |
 | Kritika Global | 211930 | [211930-kritika-global.json](./211930-kritika-global.json) |
