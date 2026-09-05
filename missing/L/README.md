@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Miroir d'Ozivior | 413609 | [413609-le-miroir-dozivior.json](./413609-le-miroir-dozivior.json) |
 | Le Parcours | 89734 | [89734-le-parcours.json](./89734-le-parcours.json) |
 | Leading Company | 46004 | [46004-leading-company.json](./46004-leading-company.json) |
+| Leaf Me Alone | 408086 | [408086-leaf-me-alone.json](./408086-leaf-me-alone.json) |
 | Leaf on Wind | 149087 | [149087-leaf-on-wind.json](./149087-leaf-on-wind.json) |
 | League of Champions Soccer | 152350 | [152350-league-of-champions-soccer.json](./152350-league-of-champions-soccer.json) |
 | League of Enthusiastic Losers: Definitive Edition | 246645 | [246645-league-of-enthusiastic-losers-definitive-edition.json](./246645-league-of-enthusiastic-losers-definitive-edition.json) |
@@ -798,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the Amazon | 296057 | [296057-lost-in-the-amazon.json](./296057-lost-in-the-amazon.json) |
 | Lost in the Dungeon | 77774 | [77774-lost-in-the-dungeon.json](./77774-lost-in-the-dungeon.json) |
 | Lost in the Open | 208609 | [208609-lost-in-the-open.json](./208609-lost-in-the-open.json) |
+| Lost In The Store | 408064 | [408064-lost-in-the-store.json](./408064-lost-in-the-store.json) |
 | Lost in the tomb | 74473 | [74473-lost-in-the-tomb.json](./74473-lost-in-the-tomb.json) |
 | Lost In Time | 171602 | [171602-lost-in-time.json](./171602-lost-in-time.json) |
 | Lost In Winter | 258172 | [258172-lost-in-winter.json](./258172-lost-in-winter.json) |
