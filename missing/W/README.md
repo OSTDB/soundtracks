@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Clicker | 227492 | [227492-warrior-clicker.json](./227492-warrior-clicker.json) |
 | Warrior Heart | 200204 | [200204-warrior-heart.json](./200204-warrior-heart.json) |
 | Warrior Maiden | 210861 | [210861-warrior-maiden.json](./210861-warrior-maiden.json) |
+| Warrior's Reward | 370710 | [370710-warriors-reward.json](./370710-warriors-reward.json) |
 | Warriors & Mages | 173270 | [173270-warriors-and-mages.json](./173270-warriors-and-mages.json) |
 | Warriors of Thalyrion | 310749 | [310749-warriors-of-thalyrion.json](./310749-warriors-of-thalyrion.json) |
 | Warriors of Vilvatikta | 31628 | [31628-warriors-of-vilvatikta.json](./31628-warriors-of-vilvatikta.json) |
