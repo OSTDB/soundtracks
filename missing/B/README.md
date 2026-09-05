@@ -1755,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Attack | 193993 | [193993-bubble-attack.json](./193993-bubble-attack.json) |
 | Bubble Bath Babes | 48677 | [48677-bubble-bath-babes.json](./48677-bubble-bath-babes.json) |
 | Bubble Battle | 333378 | [333378-bubble-battle.json](./333378-bubble-battle.json) |
+| Bubble Blobb | 386703 | [386703-bubble-blobb.json](./386703-bubble-blobb.json) |
 | Bubble Bobble | 332218 | [332218-bubble-bobble.json](./332218-bubble-bobble.json) |
 | Bubble Bobble | 332221 | [332221-bubble-bobble.json](./332221-bubble-bobble.json) |
 | Bubble Bobble | 332233 | [332233-bubble-bobble.json](./332233-bubble-bobble.json) |
