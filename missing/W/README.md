@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warno: Nemesis #3 - Homefront | 403589 | [403589-warno-nemesis-3-homefront.json](./403589-warno-nemesis-3-homefront.json) |
 | WarOFuture | 301615 | [301615-warofuture.json](./301615-warofuture.json) |
 | Warp 7 | 231062 | [231062-warp-7.json](./231062-warp-7.json) |
+| Warp Mania | 382761 | [382761-warp-mania.json](./382761-warp-mania.json) |
 | Warp Rush | 413007 | [413007-warp-rush.json](./413007-warp-rush.json) |
 | Warp Soldier | 216486 | [216486-warp-soldier.json](./216486-warp-soldier.json) |
 | Warp-1 | 57125 | [57125-warp-1.json](./57125-warp-1.json) |
