@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernae | 267082 | [267082-infernae.json](./267082-infernae.json) |
 | Infernal Chess | 333398 | [333398-infernal-chess.json](./333398-infernal-chess.json) |
 | Infernal Dream Collection | 53230 | [53230-infernal-dream-collection.json](./53230-infernal-dream-collection.json) |
+| Infernal West | 415107 | [415107-infernal-west.json](./415107-infernal-west.json) |
 | Infernax | 122386 | [122386-infernax.json](./122386-infernax.json) |
 | Infernium | 86337 | [86337-infernium.json](./86337-infernium.json) |
 | Inferno | 274190 | [274190-inferno.json](./274190-inferno.json) |
@@ -433,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insanity's Edge | 274186 | [274186-insanitys-edge.json](./274186-insanitys-edge.json) |
 | Insanus Express | 114368 | [114368-insanus-express.json](./114368-insanus-express.json) |
 | Inscryption: Kaycee's Mod | 186306 | [186306-inscryption-kaycees-mod.json](./186306-inscryption-kaycees-mod.json) |
+| Inseco | 415084 | [415084-inseco.json](./415084-inseco.json) |
 | Insectipede | 119764 | [119764-insectipede.json](./119764-insectipede.json) |
 | Insectoid | 25010 | [25010-insectoid.json](./25010-insectoid.json) |
 | Insectoid Descent | 205231 | [205231-insectoid-descent.json](./205231-insectoid-descent.json) |
@@ -566,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inzo | 99609 | [99609-inzo.json](./99609-inzo.json) |
 | IonballEX | 92515 | [92515-ionballex.json](./92515-ionballex.json) |
 | Ippan Mario | 268193 | [268193-ippan-mario.json](./268193-ippan-mario.json) |
+| IQ Logic Codes: Number & Letter Puzzles | 415062 | [415062-iq-logic-codes-number-and-letter-puzzles.json](./415062-iq-logic-codes-number-and-letter-puzzles.json) |
 | iRagdoll | 90672 | [90672-iragdoll.json](./90672-iragdoll.json) |
 | Iragon | 115664 | [115664-iragon.json](./115664-iragon.json) |
 | Iraroji VOW | 191867 | [191867-iraroji-vow.json](./191867-iraroji-vow.json) |
