@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bereaved: Soldiers of Fate | 332850 | [332850-bereaved-soldiers-of-fate.json](./332850-bereaved-soldiers-of-fate.json) |
 | Berenstain Bears in Big Paw's Cave | 273082 | [273082-berenstain-bears-in-big-paws-cave.json](./273082-berenstain-bears-in-big-paws-cave.json) |
 | Bergen Bridge Beginner 1 | 86721 | [86721-bergen-bridge-beginner-1.json](./86721-bergen-bridge-beginner-1.json) |
+| Bermuda: Lost Survival | 43365 | [43365-bermuda-lost-survival.json](./43365-bermuda-lost-survival.json) |
 | Berry Brother | 257662 | [257662-berry-brother.json](./257662-berry-brother.json) |
 | Berry Hunt Survivors | 247779 | [247779-berry-hunt-survivors.json](./247779-berry-hunt-survivors.json) |
 | Bertie the Stableboy | 265410 | [265410-bertie-the-stableboy.json](./265410-bertie-the-stableboy.json) |
@@ -1282,6 +1283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Faster | 157198 | [157198-boom-faster.json](./157198-boom-faster.json) |
 | Boom Karts: Multiplayer Kart Racing | 144982 | [144982-boom-karts-multiplayer-kart-racing.json](./144982-boom-karts-multiplayer-kart-racing.json) |
 | Boom Zoo | 297226 | [297226-boom-zoo.json](./297226-boom-zoo.json) |
+| Boom-Bahh | 43537 | [43537-boom-bahh.json](./43537-boom-bahh.json) |
 | Boom! Boom! | 115691 | [115691-boom-boom.json](./115691-boom-boom.json) |
 | Boom! Tanks | 62778 | [62778-boom-tanks.json](./62778-boom-tanks.json) |
 | Boomblastica | 65520 | [65520-boomblastica.json](./65520-boomblastica.json) |
