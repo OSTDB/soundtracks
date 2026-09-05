@@ -1747,6 +1747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sofia | 218734 | [218734-sofia.json](./218734-sofia.json) |
 | Sofiya and the Ancient Clan | 209648 | [209648-sofiya-and-the-ancient-clan.json](./209648-sofiya-and-the-ancient-clan.json) |
 | Soft Drizzle | 177527 | [177527-soft-drizzle.json](./177527-soft-drizzle.json) |
+| Soft(A)ware | 370123 | [370123-soft-a-ware.json](./370123-soft-a-ware.json) |
 | Softball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 213633 | [213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
 | Softnauts the Game | 23908 | [23908-softnauts-the-game.json](./23908-softnauts-the-game.json) |
 | Software Tycoon: Der Spielemanager | 243953 | [243953-software-tycoon-der-spielemanager.json](./243953-software-tycoon-der-spielemanager.json) |
@@ -1833,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solomon's Keep | 132812 | [132812-solomons-keep.json](./132812-solomons-keep.json) |
 | Solous | 133466 | [133466-solous.json](./133466-solous.json) |
 | Solve This! Emoji Puzzle | 213596 | [213596-solve-this-emoji-puzzle.json](./213596-solve-this-emoji-puzzle.json) |
+| Solvimus | 370138 | [370138-solvimus.json](./370138-solvimus.json) |
 | Soma Spirits | 400893 | [400893-soma-spirits.json](./400893-soma-spirits.json) |
 | Somari the Adventurer | 198522 | [198522-somari-the-adventurer.json](./198522-somari-the-adventurer.json) |
 | Sombras: Negative Frames | 406115 | [406115-sombras-negative-frames.json](./406115-sombras-negative-frames.json) |
@@ -1921,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Neo Genesis | 325849 | [325849-sonic-neo-genesis.json](./325849-sonic-neo-genesis.json) |
 | Sonic Omega | 331710 | [331710-sonic-omega.json](./331710-sonic-omega.json) |
 | Sonic One-Shot | 324700 | [324700-sonic-one-shot.json](./324700-sonic-one-shot.json) |
+| Sonic Origins 2 | 370120 | [370120-sonic-origins-2.json](./370120-sonic-origins-2.json) |
 | Sonic Origins Pocket Edition | 336373 | [336373-sonic-origins-pocket-edition.json](./336373-sonic-origins-pocket-edition.json) |
 | Sonic Outbound | 266515 | [266515-sonic-outbound.json](./266515-sonic-outbound.json) |
 | Sonic Overdrive | 266513 | [266513-sonic-overdrive.json](./266513-sonic-overdrive.json) |
@@ -3219,6 +3222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Nightmare | 29895 | [29895-summer-nightmare.json](./29895-summer-nightmare.json) |
 | Summer Paws | 122378 | [122378-summer-paws.json](./122378-summer-paws.json) |
 | Summer Pleasure | 210876 | [210876-summer-pleasure.json](./210876-summer-pleasure.json) |
+| Summer Reunion | 370102 | [370102-summer-reunion.json](./370102-summer-reunion.json) |
 | Summer Sisters | 402291 | [402291-summer-sisters.json](./402291-summer-sisters.json) |
 | Summer Sled | 55943 | [55943-summer-sled.json](./55943-summer-sled.json) |
 | Summer Vacation | 221405 | [221405-summer-vacation.json](./221405-summer-vacation.json) |
