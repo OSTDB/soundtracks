@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Caos: Overture | 32116 | [32116-a-tale-of-caos-overture.json](./32116-a-tale-of-caos-overture.json) |
 | A Tale of Fortunate Lust | 401531 | [401531-a-tale-of-fortunate-lust.json](./401531-a-tale-of-fortunate-lust.json) |
 | A Tale of Paper | 102803 | [102803-a-tale-of-paper.json](./102803-a-tale-of-paper.json) |
+| A Tale of Shadows Fragments | 374066 | [374066-a-tale-of-shadows-fragments.json](./374066-a-tale-of-shadows-fragments.json) |
 | A Tale of Survival | 61100 | [61100-a-tale-of-survival.json](./61100-a-tale-of-survival.json) |
 | A Tale of Synapse: The Chaos Theories - Collector's Edition | 152341 | [152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json](./152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json) |
 | A Terrible Place | 237062 | [237062-a-terrible-place.json](./237062-a-terrible-place.json) |
@@ -560,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Intercept | 122635 | [122635-agent-intercept.json](./122635-agent-intercept.json) |
 | Agent Karen: Undercover Investigation of an Evil Organization | 82884 | [82884-agent-karen-undercover-investigation-of-an-evil-organization.json](./82884-agent-karen-undercover-investigation-of-an-evil-organization.json) |
 | Agent of Chaos | 157170 | [157170-agent-of-chaos.json](./157170-agent-of-chaos.json) |
+| Agent Pigeon 7 | 374042 | [374042-agent-pigeon-7.json](./374042-agent-pigeon-7.json) |
 | Agent Roy: Secure the Temple | 229331 | [229331-agent-roy-secure-the-temple.json](./229331-agent-roy-secure-the-temple.json) |
 | Agent Sorry | 208011 | [208011-agent-sorry.json](./208011-agent-sorry.json) |
 | Agent USA | 12247 | [12247-agent-usa.json](./12247-agent-usa.json) |
@@ -1256,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Time Another Leaf: Kagami no Naka no Tantei | 69283 | [69283-another-time-another-leaf-kagami-no-naka-no-tantei.json](./69283-another-time-another-leaf-kagami-no-naka-no-tantei.json) |
 | Another Try | 127097 | [127097-another-try.json](./127097-another-try.json) |
 | Another Warfare | 156662 | [156662-another-warfare.json](./156662-another-warfare.json) |
+| Another's Memories | 374049 | [374049-anothers-memories.json](./374049-anothers-memories.json) |
 | Anpanman no Waku-waku Game Oekaki | 123617 | [123617-anpanman-no-waku-waku-game-oekaki.json](./123617-anpanman-no-waku-waku-game-oekaki.json) |
 | Anpanman to Asobo: ABC Kyoushitsu | 67283 | [67283-anpanman-to-asobo-abc-kyoushitsu.json](./67283-anpanman-to-asobo-abc-kyoushitsu.json) |
 | Anpanman to Asobo: AIUEO Kyoushitsu DX | 67285 | [67285-anpanman-to-asobo-aiueo-kyoushitsu-dx.json](./67285-anpanman-to-asobo-aiueo-kyoushitsu-dx.json) |
