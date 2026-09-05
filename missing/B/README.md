@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefleet Gothic: Armada - Tau Empire | 52636 | [52636-battlefleet-gothic-armada-tau-empire.json](./52636-battlefleet-gothic-armada-tau-empire.json) |
 | Battlefleet Gothic: Armada 2 - Deluxe Edition | 186340 | [186340-battlefleet-gothic-armada-2-deluxe-edition.json](./186340-battlefleet-gothic-armada-2-deluxe-edition.json) |
 | Battlefleet Gothic: Leviathan | 34371 | [34371-battlefleet-gothic-leviathan.json](./34371-battlefleet-gothic-leviathan.json) |
+| Battlegrounds | 403592 | [403592-battlegrounds.json](./403592-battlegrounds.json) |
 | BattleGuild | 251816 | [251816-battleguild.json](./251816-battleguild.json) |
 | Battlejack: Blackjack RPG | 91992 | [91992-battlejack-blackjack-rpg.json](./91992-battlejack-blackjack-rpg.json) |
 | Battlemals | 26695 | [26695-battlemals.json](./26695-battlemals.json) |
@@ -1421,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bow-Bots | 208599 | [208599-bow-bots.json](./208599-bow-bots.json) |
 | Bowerwhelm | 202423 | [202423-bowerwhelm.json](./202423-bowerwhelm.json) |
 | Bowl-O-Rama | 40271 | [40271-bowl-o-rama.json](./40271-bowl-o-rama.json) |
+| Bowled | 403557 | [403557-bowled.json](./403557-bowled.json) |
 | Bowling | 300414 | [300414-bowling.json](./300414-bowling.json) |
 | Bowling | 317634 | [317634-bowling.json](./317634-bowling.json) |
 | Bowling Party | 58257 | [58257-bowling-party.json](./58257-bowling-party.json) |
