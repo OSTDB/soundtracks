@@ -2060,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vikings | 37188 | [37188-the-vikings.json](./37188-the-vikings.json) |
 | The Village of Archensheen | 268725 | [268725-the-village-of-archensheen.json](./268725-the-village-of-archensheen.json) |
 | The Villainess Just Wants to Eat!! | 264327 | [264327-the-villainess-just-wants-to-eat.json](./264327-the-villainess-just-wants-to-eat.json) |
+| The Virus Game | 375853 | [375853-the-virus-game.json](./375853-the-virus-game.json) |
 | The Visit | 128660 | [128660-the-visit.json](./128660-the-visit.json) |
 | The Visit | 201289 | [201289-the-visit.json](./201289-the-visit.json) |
 | The Visitor | 151752 | [151752-the-visitor.json](./151752-the-visitor.json) |
@@ -2805,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Stewart's All-American Racing: Texas Motor Speedway Dirt Track | 167851 | [167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json](./167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json) |
 | Too Far Too Late | 295550 | [295550-too-far-too-late.json](./295550-too-far-too-late.json) |
 | Too Hot to Be True | 406715 | [406715-too-hot-to-be-true.json](./406715-too-hot-to-be-true.json) |
+| Too Many Cooks | 375838 | [375838-too-many-cooks.json](./375838-too-many-cooks.json) |
 | Too Many Kittens | 269839 | [269839-too-many-kittens.json](./269839-too-many-kittens.json) |
 | Too Many Me | 11011 | [11011-too-many-me.json](./11011-too-many-me.json) |
 | Took: The Immortal Hero | 329365 | [329365-took-the-immortal-hero.json](./329365-took-the-immortal-hero.json) |
@@ -3354,6 +3356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TRL: The Rail Loaders | 266485 | [266485-trl-the-rail-loaders.json](./266485-trl-the-rail-loaders.json) |
 | Troddlers | 39029 | [39029-troddlers.json](./39029-troddlers.json) |
 | Trog Smash Island | 296081 | [296081-trog-smash-island.json](./296081-trog-smash-island.json) |
+| Troll | 375849 | [375849-troll.json](./375849-troll.json) |
 | Troll Face Quest: Game of Trolls | 306703 | [306703-troll-face-quest-game-of-trolls.json](./306703-troll-face-quest-game-of-trolls.json) |
 | Trolley Folly | 248327 | [248327-trolley-folly.json](./248327-trolley-folly.json) |
 | Trollface Launch | 234908 | [234908-trollface-launch.json](./234908-trollface-launch.json) |
