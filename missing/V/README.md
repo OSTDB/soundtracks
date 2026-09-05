@@ -364,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice | 191246 | [191246-voice.json](./191246-voice.json) |
 | Voice of Cards: The Beasts of Burden | 215058 | [215058-voice-of-cards-the-beasts-of-burden.json](./215058-voice-of-cards-the-beasts-of-burden.json) |
 | Voice of Cards: The Forsaken Maiden | 191259 | [191259-voice-of-cards-the-forsaken-maiden.json](./191259-voice-of-cards-the-forsaken-maiden.json) |
+| Voice of Nature | 386708 | [386708-voice-of-nature.json](./386708-voice-of-nature.json) |
 | Voice over | 224746 | [224746-voice-over.json](./224746-voice-over.json) |
 | Void | 252369 | [252369-void.json](./252369-void.json) |
 | Void Bastards | 111846 | [111846-void-bastards.json](./111846-void-bastards.json) |
