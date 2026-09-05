@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2021: Hits Français et Internationaux Solo | 137084 | [137084-lets-sing-2021-hits-francais-et-internationaux-solo.json](./137084-lets-sing-2021-hits-francais-et-internationaux-solo.json) |
 | Let's Sing 2022: Chinese Version | 215361 | [215361-lets-sing-2022-chinese-version.json](./215361-lets-sing-2022-chinese-version.json) |
 | Let's Sing 2022: French Version | 175978 | [175978-lets-sing-2022-french-version.json](./175978-lets-sing-2022-french-version.json) |
+| Let's Sing 2026 | 371252 | [371252-lets-sing-2026.json](./371252-lets-sing-2026.json) |
 | Let's Sing 2026: International Hits | 375184 | [375184-lets-sing-2026-international-hits.json](./375184-lets-sing-2026-international-hits.json) |
 | Let's Sing 5: Version Espanola | 268196 | [268196-lets-sing-5-version-espanola.json](./268196-lets-sing-5-version-espanola.json) |
 | Let's Sing 6: Version Espanola | 268197 | [268197-lets-sing-6-version-espanola.json](./268197-lets-sing-6-version-espanola.json) |
@@ -558,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limbot | 380436 | [380436-limbot.json](./380436-limbot.json) |
 | Limbs | 238751 | [238751-limbs.json](./238751-limbs.json) |
 | Limbus Company | 194106 | [194106-limbus-company.json](./194106-limbus-company.json) |
+| LimeLight Lemonade Jam | 371255 | [371255-limelight-lemonade-jam.json](./371255-limelight-lemonade-jam.json) |
 | Limerick: Cadence Mansion | 224743 | [224743-limerick-cadence-mansion.json](./224743-limerick-cadence-mansion.json) |
 | Limes 235 | 415103 | [415103-limes-235.json](./415103-limes-235.json) |
 | Liminal Gallery | 274214 | [274214-liminal-gallery.json](./274214-liminal-gallery.json) |
@@ -987,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luc Bernard's Reaper | 93601 | [93601-luc-bernards-reaper.json](./93601-luc-bernards-reaper.json) |
 | Lucas's Problem | 72095 | [72095-lucass-problem.json](./72095-lucass-problem.json) |
 | LucasArts Adventure Pack | 27848 | [27848-lucasarts-adventure-pack.json](./27848-lucasarts-adventure-pack.json) |
+| Luce Spenta | 371240 | [371240-luce-spenta.json](./371240-luce-spenta.json) |
 | Lucha Libre AAA: Héroes del Ring | 264875 | [264875-lucha-libre-aaa-heroes-del-ring.json](./264875-lucha-libre-aaa-heroes-del-ring.json) |
 | Luci RPG | 228678 | [228678-luci-rpg.json](./228678-luci-rpg.json) |
 | Lucian Bee's: Resurrection Supernova | 59424 | [59424-lucian-bees-resurrection-supernova.json](./59424-lucian-bees-resurrection-supernova.json) |
