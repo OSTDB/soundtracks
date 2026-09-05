@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Loss | 134684 | [134684-data-loss.json](./134684-data-loss.json) |
 | Data Man | 310187 | [310187-data-man.json](./310187-data-man.json) |
 | Data mining | 106584 | [106584-data-mining.json](./106584-data-mining.json) |
+| DataFall | 393464 | [393464-datafall.json](./393464-datafall.json) |
 | Dataflow | 112353 | [112353-dataflow.json](./112353-dataflow.json) |
 | Date A Live: Rio Reincarnation | 87742 | [87742-date-a-live-rio-reincarnation.json](./87742-date-a-live-rio-reincarnation.json) |
 | Date A Live: Rio Reincarnation HD - Limited Edition | 96104 | [96104-date-a-live-rio-reincarnation-hd-limited-edition.json](./96104-date-a-live-rio-reincarnation-hd-limited-edition.json) |
@@ -743,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destruction of Planets | 193498 | [193498-destruction-of-planets.json](./193498-destruction-of-planets.json) |
 | Detail Hunter | 322982 | [322982-detail-hunter.json](./322982-detail-hunter.json) |
 | Detect Occult | 183064 | [183064-detect-occult.json](./183064-detect-occult.json) |
+| Detective Boiled-Hard / Case File - Death of the Space Dino Hunter | 393455 | [393455-detective-boiled-hard-case-file-death-of-the-space-dino-hunter.json](./393455-detective-boiled-hard-case-file-death-of-the-space-dino-hunter.json) |
 | Detective Boto: Belle Memoir | 410934 | [410934-detective-boto-belle-memoir.json](./410934-detective-boto-belle-memoir.json) |
 | Detective Conan Skateboard Run: Kaitou Kid to Shinpi no Hihou | 115712 | [115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json](./115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json) |
 | Detective Conan: Kigantou Hihou Densetsu | 50561 | [50561-detective-conan-kigantou-hihou-densetsu.json](./50561-detective-conan-kigantou-hihou-densetsu.json) |
@@ -1103,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do I Pass? | 179738 | [179738-do-i-pass.json](./179738-do-i-pass.json) |
 | Do No Harm | 324687 | [324687-do-no-harm.json](./324687-do-no-harm.json) |
 | Do Not Crash | 252391 | [252391-do-not-crash.json](./252391-do-not-crash.json) |
+| Do Not Enter | 393492 | [393492-do-not-enter.json](./393492-do-not-enter.json) |
 | Do Not Kill Me Jacob!! JAM Ver. | 176482 | [176482-do-not-kill-me-jacob-jam-ver.json](./176482-do-not-kill-me-jacob-jam-ver.json) |
 | Do Not Touch | 266518 | [266518-do-not-touch.json](./266518-do-not-touch.json) |
 | Do or Die: Hunt to Survive | 235975 | [235975-do-or-die-hunt-to-survive.json](./235975-do-or-die-hunt-to-survive.json) |
@@ -1629,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dredge | 164867 | [164867-dredge.json](./164867-dredge.json) |
 | Dredge: The Iron Rig | 305098 | [305098-dredge-the-iron-rig.json](./305098-dredge-the-iron-rig.json) |
 | Dredge: The Pale Reach | 270502 | [270502-dredge-the-pale-reach.json](./270502-dredge-the-pale-reach.json) |
+| Dreem Ascension | 393506 | [393506-dreem-ascension.json](./393506-dreem-ascension.json) |
 | Dresden Files Cooperative Card Game: Fan Favorites | 266499 | [266499-dresden-files-cooperative-card-game-fan-favorites.json](./266499-dresden-files-cooperative-card-game-fan-favorites.json) |
 | Dresden Files Cooperative Card Game: Mouse & Variants | 266505 | [266505-dresden-files-cooperative-card-game-mouse-and-variants.json](./266505-dresden-files-cooperative-card-game-mouse-and-variants.json) |
 | Dresden Files Cooperative Card Game: Winter Schemes | 266503 | [266503-dresden-files-cooperative-card-game-winter-schemes.json](./266503-dresden-files-cooperative-card-game-winter-schemes.json) |
