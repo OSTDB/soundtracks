@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally's Studio | 65321 | [65321-sallys-studio.json](./65321-sallys-studio.json) |
 | Sally's Studio HD | 107861 | [107861-sallys-studio-hd.json](./107861-sallys-studio-hd.json) |
 | Salt 2: Shores of Gold | 151169 | [151169-salt-2-shores-of-gold.json](./151169-salt-2-shores-of-gold.json) |
+| SALT: Super Awesome Laser Tag | 379869 | [379869-salt-super-awesome-laser-tag.json](./379869-salt-super-awesome-laser-tag.json) |
 | Salto | 149579 | [149579-salto.json](./149579-salto.json) |
 | Salto Mortadella | 297212 | [297212-salto-mortadella.json](./297212-salto-mortadella.json) |
 | Saltwater | 384517 | [384517-saltwater.json](./384517-saltwater.json) |
@@ -180,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Warriors: Spirit of Sanada | 27272 | [27272-samurai-warriors-spirit-of-sanada.json](./27272-samurai-warriors-spirit-of-sanada.json) |
 | Samurai Wars | 196342 | [196342-samurai-wars.json](./196342-samurai-wars.json) |
 | Samurai Wish | 107890 | [107890-samurai-wish.json](./107890-samurai-wish.json) |
+| Samurai's Path | 379884 | [379884-samurais-path.json](./379884-samurais-path.json) |
 | SamuraiRising | 170019 | [170019-samurairising.json](./170019-samurairising.json) |
 | Samus Goes to the Fridge to Get a Glass of Milk | 226402 | [226402-samus-goes-to-the-fridge-to-get-a-glass-of-milk.json](./226402-samus-goes-to-the-fridge-to-get-a-glass-of-milk.json) |
 | Samus Goes to the Fridge to Get a Glass of Milk II | 226403 | [226403-samus-goes-to-the-fridge-to-get-a-glass-of-milk-ii.json](./226403-samus-goes-to-the-fridge-to-get-a-glass-of-milk-ii.json) |
@@ -631,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seoirye | 257680 | [257680-seoirye.json](./257680-seoirye.json) |
 | Sequence Palladium | 246654 | [246654-sequence-palladium.json](./246654-sequence-palladium.json) |
 | Ser BubbleHelm | 385564 | [385564-ser-bubblehelm.json](./385564-ser-bubblehelm.json) |
+| Ser Jorryn | 379867 | [379867-ser-jorryn.json](./379867-ser-jorryn.json) |
 | Seraphic Destroyer: Puzzles | 163419 | [163419-seraphic-destroyer-puzzles.json](./163419-seraphic-destroyer-puzzles.json) |
 | Seraphine's Skyward Journey | 388054 | [388054-seraphines-skyward-journey.json](./388054-seraphines-skyward-journey.json) |
 | Seraphixial | 392164 | [392164-seraphixial.json](./392164-seraphixial.json) |
@@ -967,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island - Plus Pack | 323544 | [323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json](./323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json) |
 | Shiren The Wanderer: The Tower of Fortune and the Dice of Fate - Eternal Wanderer Edition | 42676 | [42676-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate-eternal-wanderer-edition.json](./42676-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate-eternal-wanderer-edition.json) |
 | Shiro | 220333 | [220333-shiro.json](./220333-shiro.json) |
+| Shiro Enkai | 379873 | [379873-shiro-enkai.json](./379873-shiro-enkai.json) |
 | Shiro to Kuro no Alice: Twilight Line | 136471 | [136471-shiro-to-kuro-no-alice-twilight-line.json](./136471-shiro-to-kuro-no-alice-twilight-line.json) |
 | Shiro: Midori | 208578 | [208578-shiro-midori.json](./208578-shiro-midori.json) |
 | Shirushi | 202364 | [202364-shirushi.json](./202364-shirushi.json) |
@@ -1015,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooty Ballz | 184656 | [184656-shooty-ballz.json](./184656-shooty-ballz.json) |
 | Shooty Skies Overdrive | 137654 | [137654-shooty-skies-overdrive.json](./137654-shooty-skies-overdrive.json) |
 | Shop Is Done | 260388 | [260388-shop-is-done.json](./260388-shop-is-done.json) |
+| Shop Mistress NTR | 379891 | [379891-shop-mistress-ntr.json](./379891-shop-mistress-ntr.json) |
 | Shop of Forgotten Memories | 298883 | [298883-shop-of-forgotten-memories.json](./298883-shop-of-forgotten-memories.json) |
 | Shop Town Dooter | 310182 | [310182-shop-town-dooter.json](./310182-shop-town-dooter.json) |
 | Shop-Like: The Rogue-Like Item Shop Experience | 250649 | [250649-shop-like-the-rogue-like-item-shop-experience.json](./250649-shop-like-the-rogue-like-item-shop-experience.json) |
@@ -1145,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silkroad 8 | 394157 | [394157-silkroad-8.json](./394157-silkroad-8.json) |
 | Sillouhettes of Phobos | 274212 | [274212-sillouhettes-of-phobos.json](./274212-sillouhettes-of-phobos.json) |
 | Silly Royale: Devil Amongst Us | 242233 | [242233-silly-royale-devil-amongst-us.json](./242233-silly-royale-devil-amongst-us.json) |
+| Silly Sync | 379894 | [379894-silly-sync.json](./379894-silly-sync.json) |
 | Silva Saga | 48708 | [48708-silva-saga.json](./48708-silva-saga.json) |
 | SilvaGunner: Rebooted | 326957 | [326957-silvagunner-rebooted.json](./326957-silvagunner-rebooted.json) |
 | Silver Blade of Gods' End | 301602 | [301602-silver-blade-of-gods-end.json](./301602-silver-blade-of-gods-end.json) |
@@ -2232,6 +2238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Drifters | 193998 | [193998-speed-drifters.json](./193998-speed-drifters.json) |
 | Speed Journey: Nitro | 221407 | [221407-speed-journey-nitro.json](./221407-speed-journey-nitro.json) |
 | Speed Legends | 234330 | [234330-speed-legends.json](./234330-speed-legends.json) |
+| Speed Liner | 379878 | [379878-speed-liner.json](./379878-speed-liner.json) |
 | Speed Masters ASD | 130971 | [130971-speed-masters-asd.json](./130971-speed-masters-asd.json) |
 | Speed Night | 278689 | [278689-speed-night.json](./278689-speed-night.json) |
 | Speed Rider Racing | 100166 | [100166-speed-rider-racing.json](./100166-speed-rider-racing.json) |
@@ -2634,6 +2641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarForce: 2193 | 34475 | [34475-starforce-2193.json](./34475-starforce-2193.json) |
 | StarFringe: Adversus | 33148 | [33148-starfringe-adversus.json](./33148-starfringe-adversus.json) |
 | Starfront: Collision | 87701 | [87701-starfront-collision.json](./87701-starfront-collision.json) |
+| Stargate Bullet | 379896 | [379896-stargate-bullet.json](./379896-stargate-bullet.json) |
 | Stargaze | 139479 | [139479-stargaze.json](./139479-stargaze.json) |
 | Stargoose Warrior | 51285 | [51285-stargoose-warrior.json](./51285-stargoose-warrior.json) |
 | Starion | 23056 | [23056-starion.json](./23056-starion.json) |
