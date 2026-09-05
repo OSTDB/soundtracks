@@ -498,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seawolf + Missile | 139470 | [139470-seawolf-missile.json](./139470-seawolf-missile.json) |
 | SeaWorld Adventure Park: Shamu's Deep Sea Adventures | 50565 | [50565-seaworld-adventure-park-shamus-deep-sea-adventures.json](./50565-seaworld-adventure-park-shamus-deep-sea-adventures.json) |
 | SeaWorld Adventure Parks Tycoon | 73288 | [73288-seaworld-adventure-parks-tycoon.json](./73288-seaworld-adventure-parks-tycoon.json) |
+| Sebevrah | 377067 | [377067-sebevrah.json](./377067-sebevrah.json) |
 | Second Final | 120381 | [120381-second-final.json](./120381-second-final.json) |
 | Second Novel: Kanojo no Natsu, 15fun no Kioku | 138805 | [138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json](./138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json) |
 | Second Soul | 202407 | [202407-second-soul.json](./202407-second-soul.json) |
@@ -747,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Harvest: Phantom Ops | 16236 | [16236-shadow-harvest-phantom-ops.json](./16236-shadow-harvest-phantom-ops.json) |
 | Shadow Island | 239335 | [239335-shadow-island.json](./239335-shadow-island.json) |
 | Shadow Knight | 227519 | [227519-shadow-knight.json](./227519-shadow-knight.json) |
+| Shadow Mantis | 377086 | [377086-shadow-mantis.json](./377086-shadow-mantis.json) |
 | Shadow Mist | 28905 | [28905-shadow-mist.json](./28905-shadow-mist.json) |
 | Shadow of Asha | 203542 | [203542-shadow-of-asha.json](./203542-shadow-of-asha.json) |
 | Shadow of Atlantis | 298294 | [298294-shadow-of-atlantis.json](./298294-shadow-of-atlantis.json) |
@@ -816,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai Wii | 84853 | [84853-shanghai-wii.json](./84853-shanghai-wii.json) |
 | Shanghai: Great Moments | 73316 | [73316-shanghai-great-moments.json](./73316-shanghai-great-moments.json) |
 | Shanghai1920 | 169452 | [169452-shanghai1920.json](./169452-shanghai1920.json) |
+| Shankala | 377045 | [377045-shankala.json](./377045-shankala.json) |
 | Shantae and the Seven Sirens Part 1 | 122493 | [122493-shantae-and-the-seven-sirens-part-1.json](./122493-shantae-and-the-seven-sirens-part-1.json) |
 | Shaolin | 18299 | [18299-shaolin.json](./18299-shaolin.json) |
 | Shaolin Master | 123063 | [123063-shaolin-master.json](./123063-shaolin-master.json) |
@@ -1061,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek Playtime is Ogre 2 | 302685 | [302685-shrek-playtime-is-ogre-2.json](./302685-shrek-playtime-is-ogre-2.json) |
 | Shrek Sugar Fever | 97357 | [97357-shrek-sugar-fever.json](./97357-shrek-sugar-fever.json) |
 | Shrine | 132241 | [132241-shrine.json](./132241-shrine.json) |
+| Shrine Raider | 377052 | [377052-shrine-raider.json](./377052-shrine-raider.json) |
 | Shrine: Circus Tycoon | 206970 | [206970-shrine-circus-tycoon.json](./206970-shrine-circus-tycoon.json) |
 | Shrines of Power | 278682 | [278682-shrines-of-power.json](./278682-shrines-of-power.json) |
 | Shrinking Pains | 99624 | [99624-shrinking-pains.json](./99624-shrinking-pains.json) |
@@ -3043,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subconsciousism | 396225 | [396225-subconsciousism.json](./396225-subconsciousism.json) |
 | Subject 264 | 30959 | [30959-subject-264.json](./30959-subject-264.json) |
 | Subjectivation | 341910 | [341910-subjectivation.json](./341910-subjectivation.json) |
+| Sublight | 377057 | [377057-sublight.json](./377057-sublight.json) |
 | Submachine Extended Version | 259844 | [259844-submachine-extended-version.json](./259844-submachine-extended-version.json) |
 | Submarine War | 154007 | [154007-submarine-war.json](./154007-submarine-war.json) |
 | Submerged Lights | 392156 | [392156-submerged-lights.json](./392156-submerged-lights.json) |
@@ -3236,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Chibi Knight | 36438 | [36438-super-chibi-knight.json](./36438-super-chibi-knight.json) |
 | Super Chuck Norris Bros | 294428 | [294428-super-chuck-norris-bros.json](./294428-super-chuck-norris-bros.json) |
 | Super Clash Crossover | 120413 | [120413-super-clash-crossover.json](./120413-super-clash-crossover.json) |
+| Super Climb Up!! | 377053 | [377053-super-climb-up.json](./377053-super-climb-up.json) |
 | Super Cloudbuilt | 27396 | [27396-super-cloudbuilt.json](./27396-super-cloudbuilt.json) |
 | Super Clown 3: Revenge | 223179 | [223179-super-clown-3-revenge.json](./223179-super-clown-3-revenge.json) |
 | Super Clown Puzzles | 412996 | [412996-super-clown-puzzles.json](./412996-super-clown-puzzles.json) |
@@ -3700,6 +3706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor: Day One | 62737 | [62737-survivor-day-one.json](./62737-survivor-day-one.json) |
 | Survivor's Dawn | 319940 | [319940-survivors-dawn.json](./319940-survivors-dawn.json) |
 | Sus Virus Amogus | 304864 | [304864-sus-virus-amogus.json](./304864-sus-virus-amogus.json) |
+| Sus! | 377065 | [377065-sus.json](./377065-sus.json) |
 | Sushi Bar | 298874 | [298874-sushi-bar.json](./298874-sushi-bar.json) |
 | Sushi Bar Express | 54416 | [54416-sushi-bar-express.json](./54416-sushi-bar-express.json) |
 | Sushi Battle Rambunctiously | 267685 | [267685-sushi-battle-rambunctiously.json](./267685-sushi-battle-rambunctiously.json) |
@@ -3744,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SweatShop | 32204 | [32204-sweatshop.json](./32204-sweatshop.json) |
 | Sweep | 163964 | [163964-sweep.json](./163964-sweep.json) |
 | Sweeper Zero | 107870 | [107870-sweeper-zero.json](./107870-sweeper-zero.json) |
+| Sweepminer | 377044 | [377044-sweepminer.json](./377044-sweepminer.json) |
 | Sweet Baby Girl Christmas 2 | 227474 | [227474-sweet-baby-girl-christmas-2.json](./227474-sweet-baby-girl-christmas-2.json) |
 | Sweet Bakery Tycoon: Super Edition | 315851 | [315851-sweet-bakery-tycoon-super-edition.json](./315851-sweet-bakery-tycoon-super-edition.json) |
 | Sweet Cafe | 239881 | [239881-sweet-cafe.json](./239881-sweet-cafe.json) |
