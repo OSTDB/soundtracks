@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nautikin Adventures | 329372 | [329372-nautikin-adventures.json](./329372-nautikin-adventures.json) |
 | Nautilus | 24937 | [24937-nautilus.json](./24937-nautilus.json) |
 | Nautilus Epoch | 166780 | [166780-nautilus-epoch.json](./166780-nautilus-epoch.json) |
+| Nautus | 414355 | [414355-nautus.json](./414355-nautus.json) |
 | Nav's Endless Nightmare | 182537 | [182537-navs-endless-nightmare.json](./182537-navs-endless-nightmare.json) |
 | Naval Campaigns Kriegsmarine | 202918 | [202918-naval-campaigns-kriegsmarine.json](./202918-naval-campaigns-kriegsmarine.json) |
 | Naval Creed: Warships | 239921 | [239921-naval-creed-warships.json](./239921-naval-creed-warships.json) |
@@ -768,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Just An Ordinary Ballerina | 60018 | [60018-not-just-an-ordinary-ballerina.json](./60018-not-just-an-ordinary-ballerina.json) |
 | Not Match | 232147 | [232147-not-match.json](./232147-not-match.json) |
 | Not Our Home 2 | 156649 | [156649-not-our-home-2.json](./156649-not-our-home-2.json) |
+| Not Quite Dead | 414336 | [414336-not-quite-dead.json](./414336-not-quite-dead.json) |
 | Not Sonic Flash | 330525 | [330525-not-sonic-flash.json](./330525-not-sonic-flash.json) |
 | Not Tonight | 96088 | [96088-not-tonight.json](./96088-not-tonight.json) |
 | Not Tonight: One Love | 154560 | [154560-not-tonight-one-love.json](./154560-not-tonight-one-love.json) |
@@ -782,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Antarctica | 213605 | [213605-nova-antarctica.json](./213605-nova-antarctica.json) |
 | Nova Dash | 256530 | [256530-nova-dash.json](./256530-nova-dash.json) |
 | Nova Force | 60583 | [60583-nova-force.json](./60583-nova-force.json) |
+| Nova Jumper | 414388 | [414388-nova-jumper.json](./414388-nova-jumper.json) |
 | Nova: The Birth | 138830 | [138830-nova-the-birth.json](./138830-nova-the-birth.json) |
 | Nova's Adventure | 316397 | [316397-novas-adventure.json](./316397-novas-adventure.json) |
 | Novastrike | 52614 | [52614-novastrike.json](./52614-novastrike.json) |
@@ -807,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Cheetah | 265958 | [265958-nuclear-cheetah.json](./265958-nuclear-cheetah.json) |
 | Nuclear Contingency | 30963 | [30963-nuclear-contingency.json](./30963-nuclear-contingency.json) |
 | Nuclear Corps | 187519 | [187519-nuclear-corps.json](./187519-nuclear-corps.json) |
+| Nuclear Engineer Tycoon | 414331 | [414331-nuclear-engineer-tycoon.json](./414331-nuclear-engineer-tycoon.json) |
 | Nuclear Inc 2 | 100862 | [100862-nuclear-inc-2.json](./100862-nuclear-inc-2.json) |
 | Nuclear Rush | 202404 | [202404-nuclear-rush.json](./202404-nuclear-rush.json) |
 | Nuclear Titbit 2 | 250593 | [250593-nuclear-titbit-2.json](./250593-nuclear-titbit-2.json) |
