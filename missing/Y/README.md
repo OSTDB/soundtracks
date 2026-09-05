@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuldigard's Fate | 133463 | [133463-yuldigards-fate.json](./133463-yuldigards-fate.json) |
 | Yuletide Legends: Frozen Hearts | 415949 | [415949-yuletide-legends-frozen-hearts.json](./415949-yuletide-legends-frozen-hearts.json) |
 | Yum Yummy Superlicious | 96736 | [96736-yum-yummy-superlicious.json](./96736-yum-yummy-superlicious.json) |
+| Yum's Farm | 375857 | [375857-yums-farm.json](./375857-yums-farm.json) |
 | YuMayhem | 292861 | [292861-yumayhem.json](./292861-yumayhem.json) |
 | Yume 3 | 258176 | [258176-yume-3.json](./258176-yume-3.json) |
 | Yume 5: Spring Festival of Lust | 400245 | [400245-yume-5-spring-festival-of-lust.json](./400245-yume-5-spring-festival-of-lust.json) |
