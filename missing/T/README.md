@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talon One: Bounty Hunter | 305521 | [305521-talon-one-bounty-hunter.json](./305521-talon-one-bounty-hunter.json) |
 | Talos VR | 102170 | [102170-talos-vr.json](./102170-talos-vr.json) |
 | Tamadog | 227503 | [227503-tamadog.json](./227503-tamadog.json) |
+| Tamago | 369056 | [369056-tamago.json](./369056-tamago.json) |
 | Tamagotchi Connection | 229942 | [229942-tamagotchi-connection.json](./229942-tamagotchi-connection.json) |
 | Tamagotchi Connection V2 | 229943 | [229943-tamagotchi-connection-v2.json](./229943-tamagotchi-connection-v2.json) |
 | Tamagotchi Connection V3 | 229945 | [229945-tamagotchi-connection-v3.json](./229945-tamagotchi-connection-v3.json) |
@@ -231,6 +232,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tame It Too! | 310745 | [310745-tame-it-too.json](./310745-tame-it-too.json) |
 | Tamer Saga | 56489 | [56489-tamer-saga.json](./56489-tamer-saga.json) |
 | Taming the Heart of a Beast | 228067 | [228067-taming-the-heart-of-a-beast.json](./228067-taming-the-heart-of-a-beast.json) |
+| Tamori no Picross 5/3 | 369029 | [369029-tamori-no-picross-5-3.json](./369029-tamori-no-picross-5-3.json) |
+| Tamori no Picross 7/14 | 369033 | [369033-tamori-no-picross-7-14.json](./369033-tamori-no-picross-7-14.json) |
 | Tampon Trawl | 184123 | [184123-tampon-trawl.json](./184123-tampon-trawl.json) |
 | Tampopo | 317004 | [317004-tampopo.json](./317004-tampopo.json) |
 | Tang Dynasty Architecture | 275341 | [275341-tang-dynasty-architecture.json](./275341-tang-dynasty-architecture.json) |
@@ -3318,6 +3321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trembling Dots | 128620 | [128620-trembling-dots.json](./128620-trembling-dots.json) |
 | Tremen | 166218 | [166218-tremen.json](./166218-tremen.json) |
 | Tremors: The Game | 127959 | [127959-tremors-the-game.json](./127959-tremors-the-game.json) |
+| Trench Lord: Eastern Front | 369049 | [369049-trench-lord-eastern-front.json](./369049-trench-lord-eastern-front.json) |
 | Trench Runner! | 260984 | [260984-trench-runner.json](./260984-trench-runner.json) |
 | Trench Warfare WW1: RTS Battle | 303792 | [303792-trench-warfare-ww1-rts-battle.json](./303792-trench-warfare-ww1-rts-battle.json) |
 | Trenches 2 | 23926 | [23926-trenches-2.json](./23926-trenches-2.json) |
