@@ -595,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Asmodian Princesses and the Witch in the Forest | 199088 | [199088-the-asmodian-princesses-and-the-witch-in-the-forest.json](./199088-the-asmodian-princesses-and-the-witch-in-the-forest.json) |
 | The Assassins: PD Games Volume 01 | 267643 | [267643-the-assassins-pd-games-volume-01.json](./267643-the-assassins-pd-games-volume-01.json) |
 | The Assistant's Turnabout | 303261 | [303261-the-assistants-turnabout.json](./303261-the-assistants-turnabout.json) |
+| The Astonishing Game | 29687 | [29687-the-astonishing-game.json](./29687-the-astonishing-game.json) |
 | The Astronomy Game | 156144 | [156144-the-astronomy-game.json](./156144-the-astronomy-game.json) |
 | The Asylum: Psychiatric Clinic for Abused Cuddly Toys | 66153 | [66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json](./66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json) |
 | The Atomy | 33124 | [33124-the-atomy.json](./33124-the-atomy.json) |
@@ -3127,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truco! | 259840 | [259840-truco.json](./259840-truco.json) |
 | Truco!: Chapter 1 | 259842 | [259842-truco-chapter-1.json](./259842-truco-chapter-1.json) |
 | Trudy's Time and Place House | 265978 | [265978-trudys-time-and-place-house.json](./265978-trudys-time-and-place-house.json) |
+| True or False 2 | 29717 | [29717-true-or-false-2.json](./29717-true-or-false-2.json) |
 | True Visions | 162413 | [162413-true-visions.json](./162413-true-visions.json) |
 | Truefish | 120412 | [120412-truefish.json](./120412-truefish.json) |
 | Trump Collection 2: Bottom Up Teki Sekai Isshuu no Tabi | 82136 | [82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json](./82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json) |
