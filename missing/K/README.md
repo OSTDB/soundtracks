@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kevtris | 68719 | [68719-kevtris.json](./68719-kevtris.json) |
 | Kewter’s Showroom | 340787 | [340787-kewter-s-showroom.json](./340787-kewter-s-showroom.json) |
 | Kewtia: Crystallite Hunt | 75859 | [75859-kewtia-crystallite-hunt.json](./75859-kewtia-crystallite-hunt.json) |
+| Key 2 | 369579 | [369579-key-2.json](./369579-key-2.json) |
 | Keyboard Soldier | 340788 | [340788-keyboard-soldier.json](./340788-keyboard-soldier.json) |
 | Keyboard Warrior: Dreamstate | 209714 | [209714-keyboard-warrior-dreamstate.json](./209714-keyboard-warrior-dreamstate.json) |
 | Keyhole Spy: Fantasy Passion | 110382 | [110382-keyhole-spy-fantasy-passion.json](./110382-keyhole-spy-fantasy-passion.json) |
@@ -672,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunio no Nekketsu School Fighters | 296061 | [296061-kunio-no-nekketsu-school-fighters.json](./296061-kunio-no-nekketsu-school-fighters.json) |
 | Kunio-kun's Nekketsu Soccer League | 16603 | [16603-kunio-kuns-nekketsu-soccer-league.json](./16603-kunio-kuns-nekketsu-soccer-league.json) |
 | Kunitori Zunou Battle: Nobunaga no Yabou | 69286 | [69286-kunitori-zunou-battle-nobunaga-no-yabou.json](./69286-kunitori-zunou-battle-nobunaga-no-yabou.json) |
+| Kunoichi Beat | 369589 | [369589-kunoichi-beat.json](./369589-kunoichi-beat.json) |
 | Kupechestvo | 190211 | [190211-kupechestvo.json](./190211-kupechestvo.json) |
 | Kurai Nichiyoubi: Sombre Dimanche | 260982 | [260982-kurai-nichiyoubi-sombre-dimanche.json](./260982-kurai-nichiyoubi-sombre-dimanche.json) |
 | Kurayami | 94763 | [94763-kurayami.json](./94763-kurayami.json) |
