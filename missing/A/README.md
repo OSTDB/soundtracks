@@ -1108,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Rivals: Nintendo Switch Edition | 105904 | [105904-animal-rivals-nintendo-switch-edition.json](./105904-animal-rivals-nintendo-switch-edition.json) |
 | Animal Shelter Simulator: Puppies & Kittens | 209661 | [209661-animal-shelter-simulator-puppies-and-kittens.json](./209661-animal-shelter-simulator-puppies-and-kittens.json) |
 | Animal Soccer World | 43355 | [43355-animal-soccer-world.json](./43355-animal-soccer-world.json) |
+| Animal Style | 391594 | [391594-animal-style.json](./391594-animal-style.json) |
 | Animal Unite | 212472 | [212472-animal-unite.json](./212472-animal-unite.json) |
 | Animal Up! | 121703 | [121703-animal-up.json](./121703-animal-up.json) |
 | Animal Village Rescue | 232170 | [232170-animal-village-rescue.json](./232170-animal-village-rescue.json) |
