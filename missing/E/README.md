@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encounter of Galaxies | 28931 | [28931-encounter-of-galaxies.json](./28931-encounter-of-galaxies.json) |
 | Encroacher: Snakes | 413004 | [413004-encroacher-snakes.json](./413004-encroacher-snakes.json) |
 | End of Days | 151183 | [151183-end-of-days.json](./151183-end-of-days.json) |
+| End of Garbage | 382774 | [382774-end-of-garbage.json](./382774-end-of-garbage.json) |
 | End of Twilight | 70973 | [70973-end-of-twilight.json](./70973-end-of-twilight.json) |
 | End of War 1945 | 127377 | [127377-end-of-war-1945.json](./127377-end-of-war-1945.json) |
 | Endeavor | 228677 | [228677-endeavor.json](./228677-endeavor.json) |
@@ -581,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ET Superman: Wrath of Tyrannosaurus Rex | 195258 | [195258-et-superman-wrath-of-tyrannosaurus-rex.json](./195258-et-superman-wrath-of-tyrannosaurus-rex.json) |
 | ETA: Unknown | 389437 | [389437-eta-unknown.json](./389437-eta-unknown.json) |
 | eTabu | 23909 | [23909-etabu.json](./23909-etabu.json) |
+| Etched Memories | 382765 | [382765-etched-memories.json](./382765-etched-memories.json) |
 | Eternal Chrysalis Dream | 395569 | [395569-eternal-chrysalis-dream.json](./395569-eternal-chrysalis-dream.json) |
 | Eternal Destiny | 251215 | [251215-eternal-destiny.json](./251215-eternal-destiny.json) |
 | Eternal Dread | 86340 | [86340-eternal-dread.json](./86340-eternal-dread.json) |
@@ -632,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evade 2 | 227469 | [227469-evade-2.json](./227469-evade-2.json) |
 | Evader | 290693 | [290693-evader.json](./290693-evader.json) |
 | Evangeline's Defense | 203556 | [203556-evangelines-defense.json](./203556-evangelines-defense.json) |
+| Evangelion: Breaking Dawn | 382795 | [382795-evangelion-breaking-dawn.json](./382795-evangelion-breaking-dawn.json) |
 | Evasion from Cluster 42 | 259283 | [259283-evasion-from-cluster-42.json](./259283-evasion-from-cluster-42.json) |
 | EVE Jan | 59432 | [59432-eve-jan.json](./59432-eve-jan.json) |
 | Eve Online: Ascension | 329910 | [329910-eve-online-ascension.json](./329910-eve-online-ascension.json) |
