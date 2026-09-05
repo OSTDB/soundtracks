@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack not Found 404 | 313477 | [313477-pack-not-found-404.json](./313477-pack-not-found-404.json) |
 | Pacman Cube | 230500 | [230500-pacman-cube.json](./230500-pacman-cube.json) |
 | Paddle Battle | 172781 | [172781-paddle-battle.json](./172781-paddle-battle.json) |
+| Paddle Cats | 411573 | [411573-paddle-cats.json](./411573-paddle-cats.json) |
 | Paimordle | 243974 | [243974-paimordle.json](./243974-paimordle.json) |
 | Pain | 7387 | [7387-pain.json](./7387-pain.json) |
 | Pain Train | 29911 | [29911-pain-train.json](./29911-pain-train.json) |
@@ -281,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Password | 135304 | [135304-password.json](./135304-password.json) |
 | Past Fate | 123029 | [123029-past-fate.json](./123029-past-fate.json) |
 | Pastel Friends | 338542 | [338542-pastel-friends.json](./338542-pastel-friends.json) |
+| Pastor | 411604 | [411604-pastor.json](./411604-pastor.json) |
 | Pastoral | 228688 | [228688-pastoral.json](./228688-pastoral.json) |
 | Pat Sajak's Trivia Gems | 98966 | [98966-pat-sajaks-trivia-gems.json](./98966-pat-sajaks-trivia-gems.json) |
 | Patapon | 7812 | [7812-patapon.json](./7812-patapon.json) |
@@ -1591,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punishment Darkness Online: Centre Ville | 171080 | [171080-punishment-darkness-online-centre-ville.json](./171080-punishment-darkness-online-centre-ville.json) |
 | Punishment Darkness Online: Grand Moun | 171079 | [171079-punishment-darkness-online-grand-moun.json](./171079-punishment-darkness-online-grand-moun.json) |
 | Punji VR | 192962 | [192962-punji-vr.json](./192962-punji-vr.json) |
+| Punk Racer | 411619 | [411619-punk-racer.json](./411619-punk-racer.json) |
 | PunPics | 233217 | [233217-punpics.json](./233217-punpics.json) |
 | Pupa | 310221 | [310221-pupa.json](./310221-pupa.json) |
 | Puppet Master RPG | 94786 | [94786-puppet-master-rpg.json](./94786-puppet-master-rpg.json) |
