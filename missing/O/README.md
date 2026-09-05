@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off-Road Farming | 188679 | [188679-off-road-farming.json](./188679-off-road-farming.json) |
 | Off-Road Kings | 98993 | [98993-off-road-kings.json](./98993-off-road-kings.json) |
 | OffiAtrix: Rise of the Team Leader | 332841 | [332841-offiatrix-rise-of-the-team-leader.json](./332841-offiatrix-rise-of-the-team-leader.json) |
+| Office Anomaly | 413596 | [413596-office-anomaly.json](./413596-office-anomaly.json) |
 | Office Cat | 300398 | [300398-office-cat.json](./300398-office-cat.json) |
 | Office Fight | 270963 | [270963-office-fight.json](./270963-office-fight.json) |
 | Office Jigsaw Puzzle - Work Environment | 89284 | [89284-office-jigsaw-puzzle-work-environment.json](./89284-office-jigsaw-puzzle-work-environment.json) |
@@ -356,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Ban! | 258699 | [258699-only-ban.json](./258699-only-ban.json) |
 | Only Climber 2 | 315279 | [315279-only-climber-2.json](./315279-only-climber-2.json) |
 | Only Cum! | 259282 | [259282-only-cum.json](./259282-only-cum.json) |
+| Only Jump | 413644 | [413644-only-jump.json](./413644-only-jump.json) |
 | Only One Mosquito | 181354 | [181354-only-one-mosquito.json](./181354-only-one-mosquito.json) |
 | Only Shadows Left Behind | 109730 | [109730-only-shadows-left-behind.json](./109730-only-shadows-left-behind.json) |
 | Only the Rich May Die | 270940 | [270940-only-the-rich-may-die.json](./270940-only-the-rich-may-die.json) |
