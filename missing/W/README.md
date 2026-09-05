@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wally wo Sagase! Ehon no Kuni no Daibouken! | 37769 | [37769-wally-wo-sagase-ehon-no-kuni-no-daibouken.json](./37769-wally-wo-sagase-ehon-no-kuni-no-daibouken.json) |
 | Walpurgis Quintet | 205253 | [205253-walpurgis-quintet.json](./205253-walpurgis-quintet.json) |
 | Walpurgis: Enkan no Meikyuu | 205252 | [205252-walpurgis-enkan-no-meikyuu.json](./205252-walpurgis-enkan-no-meikyuu.json) |
+| Walrus Fly | 406690 | [406690-walrus-fly.json](./406690-walrus-fly.json) |
 | Walt Disney's The Jungle Book | 123599 | [123599-walt-disneys-the-jungle-book.json](./123599-walt-disneys-the-jungle-book.json) |
 | Walt Disney's The Jungle Book: Mowgli's Wild Adventure | 49922 | [49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json](./49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json) |
 | Wampee Helicopters | 117714 | [117714-wampee-helicopters.json](./117714-wampee-helicopters.json) |
@@ -66,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanaka Farm | 172770 | [172770-wanaka-farm.json](./172770-wanaka-farm.json) |
 | Wanderer's Shade | 310183 | [310183-wanderers-shade.json](./310183-wanderers-shade.json) |
 | Wanderers.io | 178085 | [178085-wanderers-io.json](./178085-wanderers-io.json) |
+| Wanderers' Outpost | 406687 | [406687-wanderers-outpost.json](./406687-wanderers-outpost.json) |
 | Wanderfar | 158716 | [158716-wanderfar.json](./158716-wanderfar.json) |
 | Wandering Dreams of Yuri | 339131 | [339131-wandering-dreams-of-yuri.json](./339131-wandering-dreams-of-yuri.json) |
 | Wandering Willows | 16073 | [16073-wandering-willows.json](./16073-wandering-willows.json) |
