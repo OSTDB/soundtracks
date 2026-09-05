@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raze: Dungeon Arena | 52010 | [52010-raze-dungeon-arena.json](./52010-raze-dungeon-arena.json) |
 | Razed Earth | 192423 | [192423-razed-earth.json](./192423-razed-earth.json) |
 | RC Airplane Challenge | 158711 | [158711-rc-airplane-challenge.json](./158711-rc-airplane-challenge.json) |
+| RC SIM 2022 | 369554 | [369554-rc-sim-2022.json](./369554-rc-sim-2022.json) |
 | RC Toy Machines | 100173 | [100173-rc-toy-machines.json](./100173-rc-toy-machines.json) |
 | RDS: The Official Drift Videogame - Premium Cars Pack #1 | 226977 | [226977-rds-the-official-drift-videogame-premium-cars-pack-1.json](./226977-rds-the-official-drift-videogame-premium-cars-pack-1.json) |
 | RDS: The Official Drift Videogame - Premium Cars Pack #2 | 226978 | [226978-rds-the-official-drift-videogame-premium-cars-pack-2.json](./226978-rds-the-official-drift-videogame-premium-cars-pack-2.json) |
@@ -574,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remembering Which Buttons Take However Long to Press | 57713 | [57713-remembering-which-buttons-take-however-long-to-press.json](./57713-remembering-which-buttons-take-however-long-to-press.json) |
 | Remembrance | 82917 | [82917-remembrance.json](./82917-remembrance.json) |
 | Remi | 388700 | [388700-remi.json](./388700-remi.json) |
+| Remilia's Challenge | 369571 | [369571-remilias-challenge.json](./369571-remilias-challenge.json) |
 | Reminisce | 306685 | [306685-reminisce.json](./306685-reminisce.json) |
 | ReMix: Encore | 311815 | [311815-remix-encore.json](./311815-remix-encore.json) |
 | Remnant Frontier: Survival | 373001 | [373001-remnant-frontier-survival.json](./373001-remnant-frontier-survival.json) |
@@ -1393,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTL Alarm für Cobra 11: Teil II | 144348 | [144348-rtl-alarm-fur-cobra-11-teil-ii.json](./144348-rtl-alarm-fur-cobra-11-teil-ii.json) |
 | RTL Ski Alpin 2006 | 69865 | [69865-rtl-ski-alpin-2006.json](./69865-rtl-ski-alpin-2006.json) |
 | RTL Skispringen 2003 | 94245 | [94245-rtl-skispringen-2003.json](./94245-rtl-skispringen-2003.json) |
+| Ruarua.ru | 369558 | [369558-ruarua-ru.json](./369558-ruarua-ru.json) |
 | Rubbadubbers | 335108 | [335108-rubbadubbers.json](./335108-rubbadubbers.json) |
 | Rubber Bird | 404862 | [404862-rubber-bird.json](./404862-rubber-bird.json) |
 | Rubber Duck Survival | 411556 | [411556-rubber-duck-survival.json](./411556-rubber-duck-survival.json) |
