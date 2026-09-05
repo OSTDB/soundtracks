@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkchaser: Battletide | 296660 | [296660-darkchaser-battletide.json](./296660-darkchaser-battletide.json) |
 | Darkend | 331684 | [331684-darkend.json](./331684-darkend.json) |
 | Darkenstein 3D | 235996 | [235996-darkenstein-3d.json](./235996-darkenstein-3d.json) |
+| Darkest Corners | 404867 | [404867-darkest-corners.json](./404867-darkest-corners.json) |
 | Darkest Days | 332225 | [332225-darkest-days.json](./332225-darkest-days.json) |
 | Darkest Dungeon II: Oblivion Edition | 298850 | [298850-darkest-dungeon-ii-oblivion-edition.json](./298850-darkest-dungeon-ii-oblivion-edition.json) |
 | Darkfate | 242817 | [242817-darkfate.json](./242817-darkfate.json) |
@@ -464,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decaying Flowers | 98459 | [98459-decaying-flowers.json](./98459-decaying-flowers.json) |
 | Decaying Wires | 335657 | [335657-decaying-wires.json](./335657-decaying-wires.json) |
 | Decimated | 206358 | [206358-decimated.json](./206358-decimated.json) |
+| Deck Collector | 404827 | [404827-deck-collector.json](./404827-deck-collector.json) |
 | Deck Hunter | 106418 | [106418-deck-hunter.json](./106418-deck-hunter.json) |
 | Deck of Souls | 252356 | [252356-deck-of-souls.json](./252356-deck-of-souls.json) |
 | Deck Remover | 295535 | [295535-deck-remover.json](./295535-deck-remover.json) |
@@ -733,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective of the Dead | 318179 | [318179-detective-of-the-dead.json](./318179-detective-of-the-dead.json) |
 | Detective Olivia: The Cult of Whisperers | 294448 | [294448-detective-olivia-the-cult-of-whisperers.json](./294448-detective-olivia-the-cult-of-whisperers.json) |
 | Detective Story | 148553 | [148553-detective-story.json](./148553-detective-story.json) |
+| Detective Turner: If Looks Could Kill | 404825 | [404825-detective-turner-if-looks-could-kill.json](./404825-detective-turner-if-looks-could-kill.json) |
 | Detective: Minerva Case | 275334 | [275334-detective-minerva-case.json](./275334-detective-minerva-case.json) |
 | Detectives United: Origins - Collector's Edition | 248337 | [248337-detectives-united-origins-collectors-edition.json](./248337-detectives-united-origins-collectors-edition.json) |
 | Detectivez | 113683 | [113683-detectivez.json](./113683-detectivez.json) |
@@ -956,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disconcerting Unease 1 | 275313 | [275313-disconcerting-unease-1.json](./275313-disconcerting-unease-1.json) |
 | Disconcerting Unease 2 | 275320 | [275320-disconcerting-unease-2.json](./275320-disconcerting-unease-2.json) |
 | Discounty | 239800 | [239800-discounty.json](./239800-discounty.json) |
+| Discounty: People or Profit? | 404848 | [404848-discounty-people-or-profit.json](./404848-discounty-people-or-profit.json) |
 | Discover My Body | 153577 | [153577-discover-my-body.json](./153577-discover-my-body.json) |
 | Discovering Colors - Animals (Coloring Book) | 106572 | [106572-discovering-colors-animals-coloring-book.json](./106572-discovering-colors-animals-coloring-book.json) |
 | Discovering Space 2 | 32205 | [32205-discovering-space-2.json](./32205-discovering-space-2.json) |
@@ -1743,6 +1747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Dominator | 408778 | [408778-dungeon-dominator.json](./408778-dungeon-dominator.json) |
 | Dungeon Explorer II | 42022 | [42022-dungeon-explorer-ii.json](./42022-dungeon-explorer-ii.json) |
 | Dungeon Golf | 244507 | [244507-dungeon-golf.json](./244507-dungeon-golf.json) |
+| Dungeon Hotpot | 404814 | [404814-dungeon-hotpot.json](./404814-dungeon-hotpot.json) |
 | Dungeon Keeper | 20093 | [20093-dungeon-keeper.json](./20093-dungeon-keeper.json) |
 | Dungeon Legends 2 | 200179 | [200179-dungeon-legends-2.json](./200179-dungeon-legends-2.json) |
 | Dungeon Master | 220842 | [220842-dungeon-master.json](./220842-dungeon-master.json) |
