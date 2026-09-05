@@ -710,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Dungeon | 177562 | [177562-pinball-dungeon.json](./177562-pinball-dungeon.json) |
 | Pinball Freedom | 196317 | [196317-pinball-freedom.json](./196317-pinball-freedom.json) |
 | Pinball FX 2: Marvel Pinball - Vengeance and Virtue | 20822 | [20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json](./20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json) |
+| Pinball FX: Bethesda Pinball | 386718 | [386718-pinball-fx-bethesda-pinball.json](./386718-pinball-fx-bethesda-pinball.json) |
 | Pinball FX: Buccaneer | 395544 | [395544-pinball-fx-buccaneer.json](./395544-pinball-fx-buccaneer.json) |
 | Pinball FX: Charity Pack | 308577 | [308577-pinball-fx-charity-pack.json](./308577-pinball-fx-charity-pack.json) |
 | Pinball FX: Earth Defense | 395548 | [395548-pinball-fx-earth-defense.json](./395548-pinball-fx-earth-defense.json) |
@@ -724,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball HD | 88282 | [88282-pinball-hd.json](./88282-pinball-hd.json) |
 | Pinball Heroes: Wipeout HD Fury | 52655 | [52655-pinball-heroes-wipeout-hd-fury.json](./52655-pinball-heroes-wipeout-hd-fury.json) |
 | Pinball Lockdown | 133432 | [133432-pinball-lockdown.json](./133432-pinball-lockdown.json) |
+| Pinball M: Bethesda Pinball | 386717 | [386717-pinball-m-bethesda-pinball.json](./386717-pinball-m-bethesda-pinball.json) |
 | Pinball Prelude | 15564 | [15564-pinball-prelude.json](./15564-pinball-prelude.json) |
 | Pinball Pulse: The Ancients Beckon | 67355 | [67355-pinball-pulse-the-ancients-beckon.json](./67355-pinball-pulse-the-ancients-beckon.json) |
 | Pinball Quest | 48026 | [48026-pinball-quest.json](./48026-pinball-quest.json) |
@@ -1771,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli S Sudoku | 219293 | [219293-puzzle-by-nikoli-s-sudoku.json](./219293-puzzle-by-nikoli-s-sudoku.json) |
 | Puzzle by Nikoli S: Nurikabe | 231075 | [231075-puzzle-by-nikoli-s-nurikabe.json](./231075-puzzle-by-nikoli-s-nurikabe.json) |
 | Puzzle by Nikoli W Kakuro | 262657 | [262657-puzzle-by-nikoli-w-kakuro.json](./262657-puzzle-by-nikoli-w-kakuro.json) |
+| Puzzle Cozy | 386692 | [386692-puzzle-cozy.json](./386692-puzzle-cozy.json) |
 | Puzzle Craft | 47286 | [47286-puzzle-craft.json](./47286-puzzle-craft.json) |
 | Puzzle da Moro! | 259828 | [259828-puzzle-da-moro.json](./259828-puzzle-da-moro.json) |
 | Puzzle Dungeon | 62776 | [62776-puzzle-dungeon.json](./62776-puzzle-dungeon.json) |
