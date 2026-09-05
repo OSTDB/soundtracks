@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginga Ojousama Densetsu Collection | 62731 | [62731-ginga-ojousama-densetsu-collection.json](./62731-ginga-ojousama-densetsu-collection.json) |
 | Ginger Shroom Journey | 307914 | [307914-ginger-shroom-journey.json](./307914-ginger-shroom-journey.json) |
 | Ginger: The Tooth Fairy | 209134 | [209134-ginger-the-tooth-fairy.json](./209134-ginger-the-tooth-fairy.json) |
+| Gingerbread Holiday | 373006 | [373006-gingerbread-holiday.json](./373006-gingerbread-holiday.json) |
 | Ginnung | 224238 | [224238-ginnung.json](./224238-ginnung.json) |
 | Ginseng King | 116356 | [116356-ginseng-king.json](./116356-ginseng-king.json) |
 | Gipsy King | 175423 | [175423-gipsy-king.json](./175423-gipsy-king.json) |
@@ -1098,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guessed It! | 408027 | [408027-guessed-it.json](./408027-guessed-it.json) |
 | Guide To Apocalypse | 334492 | [334492-guide-to-apocalypse.json](./334492-guide-to-apocalypse.json) |
 | Guided Meditation VR | 34577 | [34577-guided-meditation-vr.json](./34577-guided-meditation-vr.json) |
+| Guild of Hunters | 372993 | [372993-guild-of-hunters.json](./372993-guild-of-hunters.json) |
 | Guild Receptionist: Good Luck | 339103 | [339103-guild-receptionist-good-luck.json](./339103-guild-receptionist-good-luck.json) |
 | Guild Wars 2: Elder Dragon Saga - Complete Collection | 293924 | [293924-guild-wars-2-elder-dragon-saga-complete-collection.json](./293924-guild-wars-2-elder-dragon-saga-complete-collection.json) |
 | Guild Wars 2: End of Dragons | 159254 | [159254-guild-wars-2-end-of-dragons.json](./159254-guild-wars-2-end-of-dragons.json) |
@@ -1166,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundertale | 336351 | [336351-gundertale.json](./336351-gundertale.json) |
 | GunDress | 213042 | [213042-gundress.json](./213042-gundress.json) |
 | Gunducky Industries | 54455 | [54455-gunducky-industries.json](./54455-gunducky-industries.json) |
+| Gunfight Arena | 373003 | [373003-gunfight-arena.json](./373003-gunfight-arena.json) |
 | Gunfighter | 95448 | [95448-gunfighter.json](./95448-gunfighter.json) |
 | Gungrave VR: Loaded Coffin Edition | 166230 | [166230-gungrave-vr-loaded-coffin-edition.json](./166230-gungrave-vr-loaded-coffin-edition.json) |
 | Gunheart | 36615 | [36615-gunheart.json](./36615-gunheart.json) |
