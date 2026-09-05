@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Magic | 194024 | [194024-echoes-of-magic.json](./194024-echoes-of-magic.json) |
 | Echoes of Sin: Confusion | 400239 | [400239-echoes-of-sin-confusion.json](./400239-echoes-of-sin-confusion.json) |
 | Echoes of the Fey: The Last Sacrament | 102346 | [102346-echoes-of-the-fey-the-last-sacrament.json](./102346-echoes-of-the-fey-the-last-sacrament.json) |
+| Echoes of the Hive | 373523 | [373523-echoes-of-the-hive.json](./373523-echoes-of-the-hive.json) |
 | Echoes of the Past | 168391 | [168391-echoes-of-the-past.json](./168391-echoes-of-the-past.json) |
 | Echoes of the Scourge | 398979 | [398979-echoes-of-the-scourge.json](./398979-echoes-of-the-scourge.json) |
 | Echoes of Vision | 321776 | [321776-echoes-of-vision.json](./321776-echoes-of-vision.json) |
@@ -727,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Defenders | 25093 | [25093-evil-defenders.json](./25093-evil-defenders.json) |
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
 | Evil of Demons: Algailah | 243948 | [243948-evil-of-demons-algailah.json](./243948-evil-of-demons-algailah.json) |
+| Evil of Fate | 373549 | [373549-evil-of-fate.json](./373549-evil-of-fate.json) |
 | Evil Resistance: Morning of the Dead | 55183 | [55183-evil-resistance-morning-of-the-dead.json](./55183-evil-resistance-morning-of-the-dead.json) |
 | Evil Robot Traffic Jam HD | 34407 | [34407-evil-robot-traffic-jam-hd.json](./34407-evil-robot-traffic-jam-hd.json) |
 | Evil Spirits | 55182 | [55182-evil-spirits.json](./55182-evil-spirits.json) |
@@ -752,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution Soccer | 137690 | [137690-evolution-soccer.json](./137690-evolution-soccer.json) |
 | Evolution: Dino Dudes | 40801 | [40801-evolution-dino-dudes.json](./40801-evolution-dino-dudes.json) |
 | Evolve Incremental | 255342 | [255342-evolve-incremental.json](./255342-evolve-incremental.json) |
+| Evolve or Die | 373526 | [373526-evolve-or-die.json](./373526-evolve-or-die.json) |
 | Evolve: Mecha Squad | 309691 | [309691-evolve-mecha-squad.json](./309691-evolve-mecha-squad.json) |
 | EvoWars.io | 241633 | [241633-evowars-io.json](./241633-evowars-io.json) |
 | EVR Race | 100172 | [100172-evr-race.json](./100172-evr-race.json) |
