@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defence Agent Gaya | 82906 | [82906-defence-agent-gaya.json](./82906-defence-agent-gaya.json) |
 | Defend Him, Not Me! | 318800 | [318800-defend-him-not-me.json](./318800-defend-him-not-me.json) |
 | Defend or Die | 12991 | [12991-defend-or-die.json](./12991-defend-or-die.json) |
+| Defend Your Crypt | 33130 | [33130-defend-your-crypt.json](./33130-defend-your-crypt.json) |
 | Defenda | 45350 | [45350-defenda.json](./45350-defenda.json) |
 | Defender | 228072 | [228072-defender.json](./228072-defender.json) |
 | Defender 2000 | 40817 | [40817-defender-2000.json](./40817-defender-2000.json) |
@@ -1132,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominay | 211962 | [211962-dominay.json](./211962-dominay.json) |
 | Dominions 3: The Awakening | 16641 | [16641-dominions-3-the-awakening.json](./16641-dominions-3-the-awakening.json) |
 | Dominique Pamplemousse | 134677 | [134677-dominique-pamplemousse.json](./134677-dominique-pamplemousse.json) |
+| Domino Sky | 33131 | [33131-domino-sky.json](./33131-domino-sky.json) |
 | Domino VR | 31894 | [31894-domino-vr.json](./31894-domino-vr.json) |
 | Dominos Pro | 86694 | [86694-dominos-pro.json](./86694-dominos-pro.json) |
 | Dominus Rage | 199615 | [199615-dominus-rage.json](./199615-dominus-rage.json) |
@@ -1477,6 +1479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream "ID" Journey | 292860 | [292860-dream-id-journey.json](./292860-dream-id-journey.json) |
 | Dream 64 | 244999 | [244999-dream-64.json](./244999-dream-64.json) |
 | Dream Bubblez | 103491 | [103491-dream-bubblez.json](./103491-dream-bubblez.json) |
+| Dream Car Racing 3D | 32896 | [32896-dream-car-racing-3d.json](./32896-dream-car-racing-3d.json) |
 | Dream Chaser | 257074 | [257074-dream-chaser.json](./257074-dream-chaser.json) |
 | Dream Daddy: Dadrector's Cut | 111064 | [111064-dream-daddy-dadrectors-cut.json](./111064-dream-daddy-dadrectors-cut.json) |
 | Dream Dance & Cheer | 50632 | [50632-dream-dance-and-cheer.json](./50632-dream-dance-and-cheer.json) |
