@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Château | 244484 | [244484-le-chateau.json](./244484-le-chateau.json) |
 | Le Gars Qui A Fait Doom | 299442 | [299442-le-gars-qui-a-fait-doom.json](./299442-le-gars-qui-a-fait-doom.json) |
 | Le Manoir de L'Étrange | 25752 | [25752-le-manoir-de-letrange.json](./25752-le-manoir-de-letrange.json) |
+| Le Miroir d'Ozivior | 413609 | [413609-le-miroir-dozivior.json](./413609-le-miroir-dozivior.json) |
 | Le Parcours | 89734 | [89734-le-parcours.json](./89734-le-parcours.json) |
 | Leading Company | 46004 | [46004-leading-company.json](./46004-leading-company.json) |
 | Leaf on Wind | 149087 | [149087-leaf-on-wind.json](./149087-leaf-on-wind.json) |
@@ -275,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Racing | 232163 | [232163-legendary-racing.json](./232163-legendary-racing.json) |
 | Legendary Tales | 157175 | [157175-legendary-tales.json](./157175-legendary-tales.json) |
 | Legendary Tales: Cataclysm | 186322 | [186322-legendary-tales-cataclysm.json](./186322-legendary-tales-cataclysm.json) |
+| Legendary Tales: Dawn of History | 413598 | [413598-legendary-tales-dawn-of-history.json](./413598-legendary-tales-dawn-of-history.json) |
 | Legendo's the Three Musketeers | 71533 | [71533-legendos-the-three-musketeers.json](./71533-legendos-the-three-musketeers.json) |
 | Legends Aligned | 335085 | [335085-legends-aligned.json](./335085-legends-aligned.json) |
 | Legends of Atlantis: Exodus Premium | 174337 | [174337-legends-of-atlantis-exodus-premium.json](./174337-legends-of-atlantis-exodus-premium.json) |
@@ -315,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lego Worlds Showcase Collection #1 | 255377 | [255377-lego-worlds-showcase-collection-1.json](./255377-lego-worlds-showcase-collection-1.json) |
 | LEGO: City Builder | 318792 | [318792-lego-city-builder.json](./318792-lego-city-builder.json) |
 | LeHweng LeHweng | 156683 | [156683-lehweng-lehweng.json](./156683-lehweng-lehweng.json) |
+| Leikkaus | 413620 | [413620-leikkaus.json](./413620-leikkaus.json) |
 | Leisure Suit Larry: Magna Cum Laude | 2913 | [2913-leisure-suit-larry-magna-cum-laude.json](./2913-leisure-suit-larry-magna-cum-laude.json) |
 | Leisure Suit Larry: Wet Dreams Don't Dry | 102087 | [102087-leisure-suit-larry-wet-dreams-dont-dry.json](./102087-leisure-suit-larry-wet-dreams-dont-dry.json) |
 | Leisure Suit Larry: Wet Dreams Saga Bundle | 173791 | [173791-leisure-suit-larry-wet-dreams-saga-bundle.json](./173791-leisure-suit-larry-wet-dreams-saga-bundle.json) |
@@ -502,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Gallery | 274214 | [274214-liminal-gallery.json](./274214-liminal-gallery.json) |
 | Liminal Point | 330566 | [330566-liminal-point.json](./330566-liminal-point.json) |
 | Liminality Online | 176476 | [176476-liminality-online.json](./176476-liminality-online.json) |
+| Liminoid | 413643 | [413643-liminoid.json](./413643-liminoid.json) |
 | Limit Choice | 253601 | [253601-limit-choice.json](./253601-limit-choice.json) |
 | Lincoln Green | 231086 | [231086-lincoln-green.json](./231086-lincoln-green.json) |
 | Lindsi Luna Blast | 62215 | [62215-lindsi-luna-blast.json](./62215-lindsi-luna-blast.json) |
@@ -759,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Bubbles: Sweet Mates | 185666 | [185666-lost-bubbles-sweet-mates.json](./185666-lost-bubbles-sweet-mates.json) |
 | Lost Case: Monster Girl Takeover | 140578 | [140578-lost-case-monster-girl-takeover.json](./140578-lost-case-monster-girl-takeover.json) |
 | Lost Castle 2 | 263225 | [263225-lost-castle-2.json](./263225-lost-castle-2.json) |
+| Lost Chronology | 413638 | [413638-lost-chronology.json](./413638-lost-chronology.json) |
 | Lost Crypts | 94759 | [94759-lost-crypts.json](./94759-lost-crypts.json) |
 | Lost Dream | 169473 | [169473-lost-dream.json](./169473-lost-dream.json) |
 | Lost Egg 2: Be Together | 148559 | [148559-lost-egg-2-be-together.json](./148559-lost-egg-2-be-together.json) |
@@ -823,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love in the Glen | 33083 | [33083-love-in-the-glen.json](./33083-love-in-the-glen.json) |
 | Love Is All Around: Love In The Room | 294998 | [294998-love-is-all-around-love-in-the-room.json](./294998-love-is-all-around-love-in-the-room.json) |
 | Love is in Bloom | 225300 | [225300-love-is-in-bloom.json](./225300-love-is-in-bloom.json) |
+| Love Island: The Game - Season 10 | 413632 | [413632-love-island-the-game-season-10.json](./413632-love-island-the-game-season-10.json) |
 | Love Language Japanese | 110424 | [110424-love-language-japanese.json](./110424-love-language-japanese.json) |
 | Love Live! School Idol Festival: After School Activity - Wai-Wai! Home Meeting!! | 141248 | [141248-love-live-school-idol-festival-after-school-activity-wai-wai-home-meeting.json](./141248-love-live-school-idol-festival-after-school-activity-wai-wai-home-meeting.json) |
 | Love Live! School Idol Paradise | 81340 | [81340-love-live-school-idol-paradise.json](./81340-love-live-school-idol-paradise.json) |
