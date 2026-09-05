@@ -1572,6 +1572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countess in Crimson | 169458 | [169458-countess-in-crimson.json](./169458-countess-in-crimson.json) |
 | Counting on Frank | 71523 | [71523-counting-on-frank.json](./71523-counting-on-frank.json) |
 | Countless Rooms of Death | 35945 | [35945-countless-rooms-of-death.json](./35945-countless-rooms-of-death.json) |
+| Country Architect | 376445 | [376445-country-architect.json](./376445-country-architect.json) |
 | Country House | 169983 | [169983-country-house.json](./169983-country-house.json) |
 | Country Star | 292826 | [292826-country-star.json](./292826-country-star.json) |
 | Countryballs At War | 300427 | [300427-countryballs-at-war.json](./300427-countryballs-at-war.json) |
@@ -1604,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Christmas Home Jigsaw Puzzles | 228114 | [228114-cozy-christmas-home-jigsaw-puzzles.json](./228114-cozy-christmas-home-jigsaw-puzzles.json) |
 | Cozy Days | 209604 | [209604-cozy-days.json](./209604-cozy-days.json) |
 | Cozy Grove + New Neighbears Bundle | 199635 | [199635-cozy-grove-new-neighbears-bundle.json](./199635-cozy-grove-new-neighbears-bundle.json) |
+| Cozy Harvest | 376458 | [376458-cozy-harvest.json](./376458-cozy-harvest.json) |
 | Cozy Holes | 338547 | [338547-cozy-holes.json](./338547-cozy-holes.json) |
 | Cozy Hunt | 338004 | [338004-cozy-hunt.json](./338004-cozy-hunt.json) |
 | Cozy Liora | 400883 | [400883-cozy-liora.json](./400883-cozy-liora.json) |
@@ -1779,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Attraction | 296673 | [296673-criminal-attraction.json](./296673-criminal-attraction.json) |
 | Criminal Pursuit Force | 110349 | [110349-criminal-pursuit-force.json](./110349-criminal-pursuit-force.json) |
 | Criminal Stories: CSI Episode | 215394 | [215394-criminal-stories-csi-episode.json](./215394-criminal-stories-csi-episode.json) |
+| Crimson Faith | 376477 | [376477-crimson-faith.json](./376477-crimson-faith.json) |
 | Crimson Furnace | 381626 | [381626-crimson-furnace.json](./381626-crimson-furnace.json) |
 | Crimson III | 335119 | [335119-crimson-iii.json](./335119-crimson-iii.json) |
 | Crimson Moon | 389428 | [389428-crimson-moon.json](./389428-crimson-moon.json) |
@@ -1879,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush the Industry | 158700 | [158700-crush-the-industry.json](./158700-crush-the-industry.json) |
 | CrushBorgs | 199626 | [199626-crushborgs.json](./199626-crushborgs.json) |
 | Crushiator | 339676 | [339676-crushiator.json](./339676-crushiator.json) |
+| Crushing on the Clock | 376461 | [376461-crushing-on-the-clock.json](./376461-crushing-on-the-clock.json) |
 | Crux: The Great Outdoors | 200161 | [200161-crux-the-great-outdoors.json](./200161-crux-the-great-outdoors.json) |
 | Cruzcredo: Become a Legend! | 332272 | [332272-cruzcredo-become-a-legend.json](./332272-cruzcredo-become-a-legend.json) |
 | Cryohazard | 297815 | [297815-cryohazard.json](./297815-cryohazard.json) |
