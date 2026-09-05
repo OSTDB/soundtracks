@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oblivion | 77199 | [77199-oblivion.json](./77199-oblivion.json) |
 | Oblivion Congee | 183579 | [183579-oblivion-congee.json](./183579-oblivion-congee.json) |
 | Obocchama Kun | 42040 | [42040-obocchama-kun.json](./42040-obocchama-kun.json) |
+| Obrum | 406129 | [406129-obrum.json](./406129-obrum.json) |
 | ObsCure | 5941 | [5941-obscure.json](./5941-obscure.json) |
 | Obscure Doubt | 117068 | [117068-obscure-doubt.json](./117068-obscure-doubt.json) |
 | Observer: System Redux - Deluxe Edition | 154532 | [154532-observer-system-redux-deluxe-edition.json](./154532-observer-system-redux-deluxe-edition.json) |
@@ -147,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Love: Story | 129768 | [129768-old-love-story.json](./129768-old-love-story.json) |
 | Old Man's Guilt | 96081 | [96081-old-mans-guilt.json](./96081-old-mans-guilt.json) |
 | Old Market Simulator | 291232 | [291232-old-market-simulator.json](./291232-old-market-simulator.json) |
+| Old Mate Dave | 406105 | [406105-old-mate-dave.json](./406105-old-mate-dave.json) |
 | Old Retro Shooter | 209668 | [209668-old-retro-shooter.json](./209668-old-retro-shooter.json) |
 | Old Salt | 165056 | [165056-old-salt.json](./165056-old-salt.json) |
 | Old Skool Classics | 93569 | [93569-old-skool-classics.json](./93569-old-skool-classics.json) |
@@ -354,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneTale | 335690 | [335690-onetale.json](./335690-onetale.json) |
 | Ongaku Tsukuuru: Kanadeeru - Convert Data | 234892 | [234892-ongaku-tsukuuru-kanadeeru-convert-data.json](./234892-ongaku-tsukuuru-kanadeeru-convert-data.json) |
 | Oni Ama: Watashi ni Amaete, Onii-chan | 145052 | [145052-oni-ama-watashi-ni-amaete-onii-chan.json](./145052-oni-ama-watashi-ni-amaete-onii-chan.json) |
+| Onigashima: Awakening | 406103 | [406103-onigashima-awakening.json](./406103-onigashima-awakening.json) |
 | Onimusha 2: Samurai's Destiny | 11757 | [11757-onimusha-2-samurais-destiny.json](./11757-onimusha-2-samurais-destiny.json) |
 | Onimusha 2: Samurai's Destiny | 330283 | [330283-onimusha-2-samurais-destiny.json](./330283-onimusha-2-samurais-destiny.json) |
 | Oniriam | 322984 | [322984-oniriam.json](./322984-oniriam.json) |
@@ -615,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outwars | 57676 | [57676-outwars.json](./57676-outwars.json) |
 | Outwitters | 167852 | [167852-outwitters.json](./167852-outwitters.json) |
 | Outworld Battlegrounds | 111037 | [111037-outworld-battlegrounds.json](./111037-outworld-battlegrounds.json) |
+| Over Engineered | 406076 | [406076-over-engineered.json](./406076-over-engineered.json) |
 | Over Hazed | 193997 | [193997-over-hazed.json](./193997-over-hazed.json) |
 | Over Many Waters | 270964 | [270964-over-many-waters.json](./270964-over-many-waters.json) |
 | Over The Top: WWI | 291749 | [291749-over-the-top-wwi.json](./291749-over-the-top-wwi.json) |
