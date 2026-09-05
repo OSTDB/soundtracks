@@ -427,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Angry Cow Farm Simulator | 109021 | [109021-vr-angry-cow-farm-simulator.json](./109021-vr-angry-cow-farm-simulator.json) |
 | VR Baseball - Home Run Competition | 33105 | [33105-vr-baseball-home-run-competition.json](./33105-vr-baseball-home-run-competition.json) |
 | VR Baseball '97 | 20819 | [20819-vr-baseball-97.json](./20819-vr-baseball-97.json) |
+| VR Basketball Sweetie | 384516 | [384516-vr-basketball-sweetie.json](./384516-vr-basketball-sweetie.json) |
 | VR Boyfriend | 196337 | [196337-vr-boyfriend.json](./196337-vr-boyfriend.json) |
 | VR Cops | 253019 | [253019-vr-cops.json](./253019-vr-cops.json) |
 | VR Cops: Pack 1 | 253020 | [253020-vr-cops-pack-1.json](./253020-vr-cops-pack-1.json) |
@@ -440,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Kart 360 | 309681 | [309681-vr-kart-360.json](./309681-vr-kart-360.json) |
 | VR Laser Puzzle | 96685 | [96685-vr-laser-puzzle.json](./96685-vr-laser-puzzle.json) |
 | VR Ninja Dojo | 316410 | [316410-vr-ninja-dojo.json](./316410-vr-ninja-dojo.json) |
+| VR PingPong Sweetie | 384518 | [384518-vr-pingpong-sweetie.json](./384518-vr-pingpong-sweetie.json) |
 | VR Plane Crash | 156676 | [156676-vr-plane-crash.json](./156676-vr-plane-crash.json) |
 | VR Roller Coaster at Global Wonders | 166195 | [166195-vr-roller-coaster-at-global-wonders.json](./166195-vr-roller-coaster-at-global-wonders.json) |
 | VR Sailing | 338561 | [338561-vr-sailing.json](./338561-vr-sailing.json) |
