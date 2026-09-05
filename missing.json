@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T05:33:19.606Z",
-  "total_missing": 30979,
+  "generated_at": "2026-09-05T05:48:13.565Z",
+  "total_missing": 31029,
   "games": [
     {
       "igdb_id": 306086,
@@ -1586,6 +1586,11 @@
       "igdb_id": 174911,
       "game_name": "50 Loops",
       "file": "missing/0-9/174911-50-loops.json"
+    },
+    {
+      "igdb_id": 412311,
+      "game_name": "500 Finger Fillet",
+      "file": "missing/0-9/412311-500-finger-fillet.json"
     },
     {
       "igdb_id": 135864,
@@ -8073,6 +8078,11 @@
       "file": "missing/A/146328-apex-legends-legacy.json"
     },
     {
+      "igdb_id": 412314,
+      "game_name": "Apex Legends: Marked",
+      "file": "missing/A/412314-apex-legends-marked.json"
+    },
+    {
       "igdb_id": 325861,
       "game_name": "Apex Legends: PlayStation Plus Play Pack",
       "file": "missing/A/325861-apex-legends-playstation-plus-play-pack.json"
@@ -9001,6 +9011,11 @@
       "igdb_id": 117094,
       "game_name": "Argonauts Agency: Pandora's Box",
       "file": "missing/A/117094-argonauts-agency-pandoras-box.json"
+    },
+    {
+      "igdb_id": 412260,
+      "game_name": "Argonauts Agency: When Spring Withered",
+      "file": "missing/A/412260-argonauts-agency-when-spring-withered.json"
     },
     {
       "igdb_id": 12256,
@@ -16838,6 +16853,11 @@
       "file": "missing/B/267100-blitz-guard.json"
     },
     {
+      "igdb_id": 412275,
+      "game_name": "Blitz of Battle",
+      "file": "missing/B/412275-blitz-of-battle.json"
+    },
+    {
       "igdb_id": 264860,
       "game_name": "Blitz: The League",
       "file": "missing/B/264860-blitz-the-league.json"
@@ -23588,6 +23608,11 @@
       "file": "missing/C/150697-chasing-the-wind.json"
     },
     {
+      "igdb_id": 412309,
+      "game_name": "Château Pluie: The New Cellar Keeper",
+      "file": "missing/C/412309-chateau-pluie-the-new-cellar-keeper.json"
+    },
+    {
       "igdb_id": 306678,
       "game_name": "ChatTDT: Tower Defense Twitch",
       "file": "missing/C/306678-chattdt-tower-defense-twitch.json"
@@ -27743,6 +27768,11 @@
       "file": "missing/C/59448-cosmic-cruncher.json"
     },
     {
+      "igdb_id": 412281,
+      "game_name": "Cosmic Distortion",
+      "file": "missing/C/412281-cosmic-distortion.json"
+    },
+    {
       "igdb_id": 14400,
       "game_name": "Cosmic DJ",
       "file": "missing/C/14400-cosmic-dj.json"
@@ -29048,6 +29078,11 @@
       "file": "missing/C/89282-critter-crush-hunting-game.json"
     },
     {
+      "igdb_id": 412267,
+      "game_name": "Critter Loop",
+      "file": "missing/C/412267-critter-loop.json"
+    },
+    {
       "igdb_id": 87410,
       "game_name": "Croc's World",
       "file": "missing/C/87410-crocs-world.json"
@@ -29186,6 +29221,11 @@
       "igdb_id": 31349,
       "game_name": "Crown Champion: Legends of the Arena",
       "file": "missing/C/31349-crown-champion-legends-of-the-arena.json"
+    },
+    {
+      "igdb_id": 412268,
+      "game_name": "Crown Chase",
+      "file": "missing/C/412268-crown-chase.json"
     },
     {
       "igdb_id": 187528,
@@ -29701,6 +29741,11 @@
       "igdb_id": 195215,
       "game_name": "Cube World",
       "file": "missing/C/195215-cube-world.json"
+    },
+    {
+      "igdb_id": 412300,
+      "game_name": "CubeCaust",
+      "file": "missing/C/412300-cubecaust.json"
     },
     {
       "igdb_id": 120996,
@@ -30988,6 +31033,11 @@
       "file": "missing/D/170552-dance-of-cubes.json"
     },
     {
+      "igdb_id": 412278,
+      "game_name": "Dance of the Butterflies",
+      "file": "missing/D/412278-dance-of-the-butterflies.json"
+    },
+    {
       "igdb_id": 127319,
       "game_name": "Dance With Zombies",
       "file": "missing/D/127319-dance-with-zombies.json"
@@ -31601,6 +31651,11 @@
       "igdb_id": 99011,
       "game_name": "Dark Wish",
       "file": "missing/D/99011-dark-wish.json"
+    },
+    {
+      "igdb_id": 412293,
+      "game_name": "Dark Wonderland",
+      "file": "missing/D/412293-dark-wonderland.json"
     },
     {
       "igdb_id": 125439,
@@ -33366,6 +33421,11 @@
       "igdb_id": 213621,
       "game_name": "Delta Dash",
       "file": "missing/D/213621-delta-dash.json"
+    },
+    {
+      "igdb_id": 412266,
+      "game_name": "Delta Directive",
+      "file": "missing/D/412266-delta-directive.json"
     },
     {
       "igdb_id": 1273,
@@ -40318,6 +40378,11 @@
       "file": "missing/E/110375-egg-hunt.json"
     },
     {
+      "igdb_id": 412312,
+      "game_name": "Egg Hunt 2026: The Grand Eggspress",
+      "file": "missing/E/412312-egg-hunt-2026-the-grand-eggspress.json"
+    },
+    {
       "igdb_id": 315833,
       "game_name": "Eggconsole Hydlide MSX",
       "file": "missing/E/315833-eggconsole-hydlide-msx.json"
@@ -47161,6 +47226,11 @@
       "igdb_id": 275910,
       "game_name": "Flicky",
       "file": "missing/F/275910-flicky.json"
+    },
+    {
+      "igdb_id": 412280,
+      "game_name": "Flies.",
+      "file": "missing/F/412280-flies.json"
     },
     {
       "igdb_id": 73854,
@@ -56703,6 +56773,11 @@
       "file": "missing/H/253570-harpoon-reef-hunter.json"
     },
     {
+      "igdb_id": 412265,
+      "game_name": "Harpy",
+      "file": "missing/H/412265-harpy.json"
+    },
+    {
       "igdb_id": 13004,
       "game_name": "Harrier Attack!",
       "file": "missing/H/13004-harrier-attack.json"
@@ -58841,6 +58916,11 @@
       "igdb_id": 263791,
       "game_name": "Hidden Cats In Amusement Park",
       "file": "missing/H/263791-hidden-cats-in-amusement-park.json"
+    },
+    {
+      "igdb_id": 412261,
+      "game_name": "Hidden Cats: Castle",
+      "file": "missing/H/412261-hidden-cats-castle.json"
     },
     {
       "igdb_id": 86714,
@@ -63291,6 +63371,11 @@
       "igdb_id": 231078,
       "game_name": "Infected run to Survive: Zombie Apocalypse Survival Story Shooter Dead Cry",
       "file": "missing/I/231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json"
+    },
+    {
+      "igdb_id": 412279,
+      "game_name": "Infected World",
+      "file": "missing/I/412279-infected-world.json"
     },
     {
       "igdb_id": 142474,
@@ -74368,6 +74453,11 @@
       "file": "missing/L/242789-love-connection.json"
     },
     {
+      "igdb_id": 412296,
+      "game_name": "Love D3ath Love",
+      "file": "missing/L/412296-love-d3ath-love.json"
+    },
+    {
       "igdb_id": 259259,
       "game_name": "Love Death",
       "file": "missing/L/259259-love-death.json"
@@ -74466,6 +74556,11 @@
       "igdb_id": 126420,
       "game_name": "Love Rhythm",
       "file": "missing/L/126420-love-rhythm.json"
+    },
+    {
+      "igdb_id": 412297,
+      "game_name": "Love Stitch",
+      "file": "missing/L/412297-love-stitch.json"
     },
     {
       "igdb_id": 165031,
@@ -74758,6 +74853,11 @@
       "file": "missing/L/89583-ludo-online.json"
     },
     {
+      "igdb_id": 412303,
+      "game_name": "Luduvo",
+      "file": "missing/L/412303-luduvo.json"
+    },
+    {
       "igdb_id": 1179,
       "game_name": "Lufia: The Legend Returns",
       "file": "missing/L/1179-lufia-the-legend-returns.json"
@@ -74871,6 +74971,11 @@
       "igdb_id": 255956,
       "game_name": "Luminous Skies: A Short Adventure",
       "file": "missing/L/255956-luminous-skies-a-short-adventure.json"
+    },
+    {
+      "igdb_id": 412264,
+      "game_name": "Lumiric Stage",
+      "file": "missing/L/412264-lumiric-stage.json"
     },
     {
       "igdb_id": 338546,
@@ -80683,6 +80788,11 @@
       "file": "missing/M/96758-mine-blast.json"
     },
     {
+      "igdb_id": 412313,
+      "game_name": "Mine Defense",
+      "file": "missing/M/412313-mine-defense.json"
+    },
+    {
       "igdb_id": 196868,
       "game_name": "Mine Quest",
       "file": "missing/M/196868-mine-quest.json"
@@ -82468,6 +82578,11 @@
       "file": "missing/M/197943-monster-galaxy.json"
     },
     {
+      "igdb_id": 412305,
+      "game_name": "Monster Girl Clinic",
+      "file": "missing/M/412305-monster-girl-clinic.json"
+    },
+    {
       "igdb_id": 138832,
       "game_name": "Monster Girl Dreams",
       "file": "missing/M/138832-monster-girl-dreams.json"
@@ -82556,6 +82671,56 @@
       "igdb_id": 138951,
       "game_name": "Monster Hunter Stories 2: Wings of Ruin",
       "file": "missing/M/138951-monster-hunter-stories-2-wings-of-ruin.json"
+    },
+    {
+      "igdb_id": 412286,
+      "game_name": "Monster Hunter Stories 3: Twisted Reflection - Accessory: Crystalline Ornament",
+      "file": "missing/M/412286-monster-hunter-stories-3-twisted-reflection-accessory-crystalline-ornament.json"
+    },
+    {
+      "igdb_id": 412284,
+      "game_name": "Monster Hunter Stories 3: Twisted Reflection - Accessory: Fang Talisman",
+      "file": "missing/M/412284-monster-hunter-stories-3-twisted-reflection-accessory-fang-talisman.json"
+    },
+    {
+      "igdb_id": 412282,
+      "game_name": "Monster Hunter Stories 3: Twisted Reflection - Accessory: Ornament of Bonds",
+      "file": "missing/M/412282-monster-hunter-stories-3-twisted-reflection-accessory-ornament-of-bonds.json"
+    },
+    {
+      "igdb_id": 412287,
+      "game_name": "Monster Hunter Stories 3: Twisted Reflection - Accessory: Pearl Earrings",
+      "file": "missing/M/412287-monster-hunter-stories-3-twisted-reflection-accessory-pearl-earrings.json"
+    },
+    {
+      "igdb_id": 412285,
+      "game_name": "Monster Hunter Stories 3: Twisted Reflection - Accessory: Protective Band",
+      "file": "missing/M/412285-monster-hunter-stories-3-twisted-reflection-accessory-protective-band.json"
+    },
+    {
+      "igdb_id": 412283,
+      "game_name": "Monster Hunter Stories 3: Twisted Reflection - Accessory: Royal Monocle",
+      "file": "missing/M/412283-monster-hunter-stories-3-twisted-reflection-accessory-royal-monocle.json"
+    },
+    {
+      "igdb_id": 412290,
+      "game_name": "Monster Hunter Wilds: Alma Outfit - Autumn Witch",
+      "file": "missing/M/412290-monster-hunter-wilds-alma-outfit-autumn-witch.json"
+    },
+    {
+      "igdb_id": 412288,
+      "game_name": "Monster Hunter Wilds: Alma Outfit - Featherskirt Seikret Dress",
+      "file": "missing/M/412288-monster-hunter-wilds-alma-outfit-featherskirt-seikret-dress.json"
+    },
+    {
+      "igdb_id": 412291,
+      "game_name": "Monster Hunter Wilds: Erik Outfit - Autumn Therian",
+      "file": "missing/M/412291-monster-hunter-wilds-erik-outfit-autumn-therian.json"
+    },
+    {
+      "igdb_id": 412289,
+      "game_name": "Monster Hunter Wilds: Erik Outfit - Crestcollar Seikret Suit",
+      "file": "missing/M/412289-monster-hunter-wilds-erik-outfit-crestcollar-seikret-suit.json"
     },
     {
       "igdb_id": 313482,
@@ -82701,6 +82866,11 @@
       "igdb_id": 290700,
       "game_name": "Monster Shooter",
       "file": "missing/M/290700-monster-shooter.json"
+    },
+    {
+      "igdb_id": 412307,
+      "game_name": "Monster Smoosh",
+      "file": "missing/M/412307-monster-smoosh.json"
     },
     {
       "igdb_id": 246626,
@@ -85041,6 +85211,11 @@
       "igdb_id": 158222,
       "game_name": "My Silly Life",
       "file": "missing/M/158222-my-silly-life.json"
+    },
+    {
+      "igdb_id": 412306,
+      "game_name": "My Singing Monsters Karaoke",
+      "file": "missing/M/412306-my-singing-monsters-karaoke.json"
     },
     {
       "igdb_id": 89694,
@@ -89933,6 +90108,11 @@
       "file": "missing/O/34478-oase-other-age-second-encounter.json"
     },
     {
+      "igdb_id": 412276,
+      "game_name": "Oasis of Lilies",
+      "file": "missing/O/412276-oasis-of-lilies.json"
+    },
+    {
       "igdb_id": 293908,
       "game_name": "Obake no Q-Taro: Oba Q Channel",
       "file": "missing/O/293908-obake-no-q-taro-oba-q-channel.json"
@@ -91883,6 +92063,11 @@
       "file": "missing/O/25593-operation-babel-new-tokyo-legacy.json"
     },
     {
+      "igdb_id": 412272,
+      "game_name": "Operation Crimson",
+      "file": "missing/O/412272-operation-crimson.json"
+    },
+    {
       "igdb_id": 94755,
       "game_name": "Operation CrossCounter",
       "file": "missing/O/94755-operation-crosscounter.json"
@@ -92226,6 +92411,11 @@
       "igdb_id": 126648,
       "game_name": "Origin",
       "file": "missing/O/126648-origin.json"
+    },
+    {
+      "igdb_id": 412262,
+      "game_name": "Origins TCG",
+      "file": "missing/O/412262-origins-tcg.json"
     },
     {
       "igdb_id": 291774,
@@ -94561,6 +94751,11 @@
       "igdb_id": 194027,
       "game_name": "Path of Immortals",
       "file": "missing/P/194027-path-of-immortals.json"
+    },
+    {
+      "igdb_id": 412274,
+      "game_name": "Path of Survival",
+      "file": "missing/P/412274-path-of-survival.json"
     },
     {
       "igdb_id": 127351,
@@ -97723,6 +97918,11 @@
       "file": "missing/P/134681-please-follow.json"
     },
     {
+      "igdb_id": 412277,
+      "game_name": "Please Ignore The Anomalies",
+      "file": "missing/P/412277-please-ignore-the-anomalies.json"
+    },
+    {
       "igdb_id": 291230,
       "game_name": "Please Stop Crying",
       "file": "missing/P/291230-please-stop-crying.json"
@@ -99101,6 +99301,11 @@
       "igdb_id": 89264,
       "game_name": "Pottery Maker",
       "file": "missing/P/89264-pottery-maker.json"
+    },
+    {
+      "igdb_id": 412271,
+      "game_name": "Pouring Pints",
+      "file": "missing/P/412271-pouring-pints.json"
     },
     {
       "igdb_id": 106610,
@@ -103398,6 +103603,11 @@
       "file": "missing/R/134656-ratchet-and-clank-going-mobile.json"
     },
     {
+      "igdb_id": 412270,
+      "game_name": "Ratcore",
+      "file": "missing/R/412270-ratcore.json"
+    },
+    {
       "igdb_id": 206355,
       "game_name": "RatPark",
       "file": "missing/R/206355-ratpark.json"
@@ -105726,6 +105936,11 @@
       "igdb_id": 89980,
       "game_name": "Revenger: Age of Morons",
       "file": "missing/R/89980-revenger-age-of-morons.json"
+    },
+    {
+      "igdb_id": 412308,
+      "game_name": "Revenggie",
+      "file": "missing/R/412308-revenggie.json"
     },
     {
       "igdb_id": 116336,
@@ -118273,6 +118488,11 @@
       "file": "missing/S/12272-sono-hanabira-ni-kuchizuke-wo-tenshi-tachi-no-harukoi.json"
     },
     {
+      "igdb_id": 412315,
+      "game_name": "Sono Kaori de Mitasaretai: #7b5544 no Koi wo Shita Watashi no Hajimete wo Master ni Agetai",
+      "file": "missing/S/412315-sono-kaori-de-mitasaretai-7b5544-no-koi-wo-shita-watashi-no-hajimete-wo-master-ni-agetai.json"
+    },
+    {
       "igdb_id": 256546,
       "game_name": "Sons of Saturn",
       "file": "missing/S/256546-sons-of-saturn.json"
@@ -118551,6 +118771,11 @@
       "igdb_id": 90653,
       "game_name": "SoulFrost",
       "file": "missing/S/90653-soulfrost.json"
+    },
+    {
+      "igdb_id": 412294,
+      "game_name": "Soulgrave",
+      "file": "missing/S/412294-soulgrave.json"
     },
     {
       "igdb_id": 243372,
@@ -125526,6 +125751,11 @@
       "igdb_id": 149594,
       "game_name": "Super Seals Float",
       "file": "missing/S/149594-super-seals-float.json"
+    },
+    {
+      "igdb_id": 412292,
+      "game_name": "Super Serpent Snake 3D",
+      "file": "missing/S/412292-super-serpent-snake-3d.json"
     },
     {
       "igdb_id": 268225,
@@ -134818,6 +135048,11 @@
       "file": "missing/T/239877-the-prince-is-dead.json"
     },
     {
+      "igdb_id": 412310,
+      "game_name": "The Prince's Keeper",
+      "file": "missing/T/412310-the-princes-keeper.json"
+    },
+    {
       "igdb_id": 298885,
       "game_name": "The Princess in the Mirror",
       "file": "missing/T/298885-the-princess-in-the-mirror.json"
@@ -137726,6 +137961,11 @@
       "igdb_id": 216501,
       "game_name": "Tide of Thieves",
       "file": "missing/T/216501-tide-of-thieves.json"
+    },
+    {
+      "igdb_id": 412273,
+      "game_name": "Tidewatch",
+      "file": "missing/T/412273-tidewatch.json"
     },
     {
       "igdb_id": 413673,
@@ -143703,6 +143943,11 @@
       "file": "missing/T/108664-typical.json"
     },
     {
+      "igdb_id": 412263,
+      "game_name": "Typical NPC",
+      "file": "missing/T/412263-typical-npc.json"
+    },
+    {
       "igdb_id": 149091,
       "game_name": "Typing Hearts",
       "file": "missing/T/149091-typing-hearts.json"
@@ -144096,6 +144341,11 @@
       "igdb_id": 270393,
       "game_name": "Ultimate Sliding Puzzle: Sci-Fi Pack",
       "file": "missing/U/270393-ultimate-sliding-puzzle-sci-fi-pack.json"
+    },
+    {
+      "igdb_id": 412269,
+      "game_name": "Ultimate Snake",
+      "file": "missing/U/412269-ultimate-snake.json"
     },
     {
       "igdb_id": 35963,
