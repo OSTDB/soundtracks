@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gipsy King | 175423 | [175423-gipsy-king.json](./175423-gipsy-king.json) |
 | Girbal | 219795 | [219795-girbal.json](./219795-girbal.json) |
 | Girl Doll Toy: Tamashii o Kudasai | 209622 | [209622-girl-doll-toy-tamashii-o-kudasai.json](./209622-girl-doll-toy-tamashii-o-kudasai.json) |
+| Girl in Darkness | 394126 | [394126-girl-in-darkness.json](./394126-girl-in-darkness.json) |
 | Girl in the B.L | 303787 | [303787-girl-in-the-b-l.json](./303787-girl-in-the-b-l.json) |
 | Girl Nail Art | 87708 | [87708-girl-nail-art.json](./87708-girl-nail-art.json) |
 | Girl Terminal | 410241 | [410241-girl-terminal.json](./410241-girl-terminal.json) |
@@ -528,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnosis | 201292 | [201292-gnosis.json](./201292-gnosis.json) |
 | Gnosis | 292284 | [292284-gnosis.json](./292284-gnosis.json) |
 | Go | 13722 | [13722-go.json](./13722-go.json) |
+| Go Big | 394220 | [394220-go-big.json](./394220-go-big.json) |
 | Go Fight Fantastic! | 127364 | [127364-go-fight-fantastic.json](./127364-go-fight-fantastic.json) |
 | Go Go Muffin | 212451 | [212451-go-go-muffin.json](./212451-go-go-muffin.json) |
 | Go Go Poncho! | 89958 | [89958-go-go-poncho.json](./89958-go-go-poncho.json) |
@@ -1119,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns'n'Glory Zombies | 296073 | [296073-gunsnglory-zombies.json](./296073-gunsnglory-zombies.json) |
 | Gunscape | 17010 | [17010-gunscape.json](./17010-gunscape.json) |
 | Gunship Battle | 174901 | [174901-gunship-battle.json](./174901-gunship-battle.json) |
+| Gunship Origins | 394127 | [394127-gunship-origins.json](./394127-gunship-origins.json) |
 | Gunship Recon: Character Puzzles | 163418 | [163418-gunship-recon-character-puzzles.json](./163418-gunship-recon-character-puzzles.json) |
 | Gunship Recon: Purchase Privilege | 156168 | [156168-gunship-recon-purchase-privilege.json](./156168-gunship-recon-purchase-privilege.json) |
 | Gunshoot | 76614 | [76614-gunshoot.json](./76614-gunshoot.json) |
