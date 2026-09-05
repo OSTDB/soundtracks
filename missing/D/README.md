@@ -1192,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogwalk | 348639 | [348639-dogwalk.json](./348639-dogwalk.json) |
 | DogWorld Premium | 87265 | [87265-dogworld-premium.json](./87265-dogworld-premium.json) |
 | Dogz: Fashion | 49403 | [49403-dogz-fashion.json](./49403-dogz-fashion.json) |
+| Dohyo Dreams: Rise to Yokozuna | 381604 | [381604-dohyo-dreams-rise-to-yokozuna.json](./381604-dohyo-dreams-rise-to-yokozuna.json) |
 | Doka 2: Guts Out Ninja | 114386 | [114386-doka-2-guts-out-ninja.json](./114386-doka-2-guts-out-ninja.json) |
 | Dokapon! Ikari no Tetsuken | 81411 | [81411-dokapon-ikari-no-tetsuken.json](./81411-dokapon-ikari-no-tetsuken.json) |
 | Doki Doki A Slice Of Life | 333928 | [333928-doki-doki-a-slice-of-life.json](./333928-doki-doki-a-slice-of-life.json) |
