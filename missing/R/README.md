@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relicfall | 415078 | [415078-relicfall.json](./415078-relicfall.json) |
 | Relics 2: The Crusader's Tomb | 195236 | [195236-relics-2-the-crusaders-tomb.json](./195236-relics-2-the-crusaders-tomb.json) |
 | Relics: Dark Hours | 92494 | [92494-relics-dark-hours.json](./92494-relics-dark-hours.json) |
+| Relief | 404831 | [404831-relief.json](./404831-relief.json) |
 | Reliquary | 213627 | [213627-reliquary.json](./213627-reliquary.json) |
 | Relive | 34413 | [34413-relive.json](./34413-relive.json) |
 | Relms | 125992 | [125992-relms.json](./125992-relms.json) |
@@ -1146,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romancing SaGa 3 | 109592 | [109592-romancing-saga-3.json](./109592-romancing-saga-3.json) |
 | Romancing the Kingdom | 224775 | [224775-romancing-the-kingdom.json](./224775-romancing-the-kingdom.json) |
 | Romans From Mars | 62224 | [62224-romans-from-mars.json](./62224-romans-from-mars.json) |
+| Romantic Emperor | 404858 | [404858-romantic-emperor.json](./404858-romantic-emperor.json) |
 | Romantic Escapades | 297207 | [297207-romantic-escapades.json](./297207-romantic-escapades.json) |
 | Romby | 50508 | [50508-romby.json](./50508-romby.json) |
 | Rome 2077: Tactics | 187526 | [187526-rome-2077-tactics.json](./187526-rome-2077-tactics.json) |
@@ -1294,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTL Ski Alpin 2006 | 69865 | [69865-rtl-ski-alpin-2006.json](./69865-rtl-ski-alpin-2006.json) |
 | RTL Skispringen 2003 | 94245 | [94245-rtl-skispringen-2003.json](./94245-rtl-skispringen-2003.json) |
 | Rubbadubbers | 335108 | [335108-rubbadubbers.json](./335108-rubbadubbers.json) |
+| Rubber Bird | 404862 | [404862-rubber-bird.json](./404862-rubber-bird.json) |
 | Rubber Duck Survival | 411556 | [411556-rubber-duck-survival.json](./411556-rubber-duck-survival.json) |
 | Rubber Man | 185131 | [185131-rubber-man.json](./185131-rubber-man.json) |
 | Rubber Ninjas | 75143 | [75143-rubber-ninjas.json](./75143-rubber-ninjas.json) |
