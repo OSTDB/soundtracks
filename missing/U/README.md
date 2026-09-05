@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until I Have You | 24977 | [24977-until-i-have-you.json](./24977-until-i-have-you.json) |
 | Until Last Breath | 148539 | [148539-until-last-breath.json](./148539-until-last-breath.json) |
 | Untitled Game | 180257 | [180257-untitled-game.json](./180257-untitled-game.json) |
+| Untitled God of War Live-Service Game | 386715 | [386715-untitled-god-of-war-live-service-game.json](./386715-untitled-god-of-war-live-service-game.json) |
 | Untitled John Wick Game | 389438 | [389438-untitled-john-wick-game.json](./389438-untitled-john-wick-game.json) |
 | Untitled Kirby Game | 245009 | [245009-untitled-kirby-game.json](./245009-untitled-kirby-game.json) |
 | Untitled Kirby Game | 245010 | [245010-untitled-kirby-game.json](./245010-untitled-kirby-game.json) |
