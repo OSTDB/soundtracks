@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | W.A.R. Hangry | 302104 | [302104-w-a-r-hangry.json](./302104-w-a-r-hangry.json) |
+| W2000_CHAN_>W<.exe | 383932 | [383932-w2000-chan-w-exe.json](./383932-w2000-chan-w-exe.json) |
 | W4RR-i/o-RS | 75910 | [75910-w4rr-i-o-rs.json](./75910-w4rr-i-o-rs.json) |
 | Wabash Cannonball | 175415 | [175415-wabash-cannonball.json](./175415-wabash-cannonball.json) |
 | Wacky Chariots | 196887 | [196887-wacky-chariots.json](./196887-wacky-chariots.json) |
@@ -286,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weak Soul | 247741 | [247741-weak-soul.json](./247741-weak-soul.json) |
 | Weak Warrior | 61115 | [61115-weak-warrior.json](./61115-weak-warrior.json) |
 | Weakest Demon King: Escape! You Cannot Defeat the Female Heroines! | 82874 | [82874-weakest-demon-king-escape-you-cannot-defeat-the-female-heroines.json](./82874-weakest-demon-king-escape-you-cannot-defeat-the-female-heroines.json) |
+| Weapon Ball Fight | 383930 | [383930-weapon-ball-fight.json](./383930-weapon-ball-fight.json) |
 | WeaponGo | 104095 | [104095-weapongo.json](./104095-weapongo.json) |
 | WeaponizedChess | 34481 | [34481-weaponizedchess.json](./34481-weaponizedchess.json) |
 | Weaponry Dealer VR | 110464 | [110464-weaponry-dealer-vr.json](./110464-weaponry-dealer-vr.json) |
