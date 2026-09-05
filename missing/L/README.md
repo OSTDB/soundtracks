@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lantern Fish | 385561 | [385561-lantern-fish.json](./385561-lantern-fish.json) |
 | Lantern Forge | 36263 | [36263-lantern-forge.json](./36263-lantern-forge.json) |
 | Lanterns | 89967 | [89967-lanterns.json](./89967-lanterns.json) |
+| Lanternwood | 375827 | [375827-lanternwood.json](./375827-lanternwood.json) |
 | Laplace | 109651 | [109651-laplace.json](./109651-laplace.json) |
 | Laplace M | 126047 | [126047-laplace-m.json](./126047-laplace-m.json) |
 | Lapse | 111699 | [111699-lapse.json](./111699-lapse.json) |
@@ -553,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limes 235 | 415103 | [415103-limes-235.json](./415103-limes-235.json) |
 | Liminal Gallery | 274214 | [274214-liminal-gallery.json](./274214-liminal-gallery.json) |
 | Liminal Point | 330566 | [330566-liminal-point.json](./330566-liminal-point.json) |
+| Liminal: The Forgotten Maze | 375803 | [375803-liminal-the-forgotten-maze.json](./375803-liminal-the-forgotten-maze.json) |
 | Liminality Online | 176476 | [176476-liminality-online.json](./176476-liminality-online.json) |
 | Liminoid | 413643 | [413643-liminoid.json](./413643-liminoid.json) |
 | Limit Choice | 253601 | [253601-limit-choice.json](./253601-limit-choice.json) |
@@ -783,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Nardy | 264362 | [264362-long-nardy.json](./264362-long-nardy.json) |
 | Long Star | 131618 | [131618-long-star.json](./131618-long-star.json) |
 | Longboard Stunts and Tricks | 99618 | [99618-longboard-stunts-and-tricks.json](./99618-longboard-stunts-and-tricks.json) |
+| Longevity Yin and Yang | 375865 | [375865-longevity-yin-and-yang.json](./375865-longevity-yin-and-yang.json) |
 | Lonley, Lustful, Arrogant, Hateful | 172726 | [172726-lonley-lustful-arrogant-hateful.json](./172726-lonley-lustful-arrogant-hateful.json) |
 | LonQ! Highland in DS: Puu Puu Seijin Arawaru!! Shukketsu Dai-service! Onara no Saiten SP | 269826 | [269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json](./269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json) |
 | Look Closer! | 300405 | [300405-look-closer.json](./300405-look-closer.json) |
@@ -864,11 +867,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Reefs: Antarctic | 30934 | [30934-lost-in-reefs-antarctic.json](./30934-lost-in-reefs-antarctic.json) |
 | Lost in Space | 167812 | [167812-lost-in-space.json](./167812-lost-in-space.json) |
 | Lost in the Amazon | 296057 | [296057-lost-in-the-amazon.json](./296057-lost-in-the-amazon.json) |
+| Lost in the Backrooms: Day 100 | 375805 | [375805-lost-in-the-backrooms-day-100.json](./375805-lost-in-the-backrooms-day-100.json) |
 | Lost in the Dungeon | 77774 | [77774-lost-in-the-dungeon.json](./77774-lost-in-the-dungeon.json) |
 | Lost in the Open | 208609 | [208609-lost-in-the-open.json](./208609-lost-in-the-open.json) |
 | Lost In The Store | 408064 | [408064-lost-in-the-store.json](./408064-lost-in-the-store.json) |
 | Lost in the tomb | 74473 | [74473-lost-in-the-tomb.json](./74473-lost-in-the-tomb.json) |
 | Lost In Time | 171602 | [171602-lost-in-time.json](./171602-lost-in-time.json) |
+| Lost In Transit | 375867 | [375867-lost-in-transit.json](./375867-lost-in-transit.json) |
 | Lost In Winter | 258172 | [258172-lost-in-winter.json](./258172-lost-in-winter.json) |
 | Lost Inside: Act 1 | 291751 | [291751-lost-inside-act-1.json](./291751-lost-inside-act-1.json) |
 | Lost Isle | 269320 | [269320-lost-isle.json](./269320-lost-isle.json) |
