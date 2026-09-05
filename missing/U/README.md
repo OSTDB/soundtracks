@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Sliding Puzzle: Arcade Pack | 270391 | [270391-ultimate-sliding-puzzle-arcade-pack.json](./270391-ultimate-sliding-puzzle-arcade-pack.json) |
 | Ultimate Sliding Puzzle: Ecchi Pack | 270392 | [270392-ultimate-sliding-puzzle-ecchi-pack.json](./270392-ultimate-sliding-puzzle-ecchi-pack.json) |
 | Ultimate Sliding Puzzle: Sci-Fi Pack | 270393 | [270393-ultimate-sliding-puzzle-sci-fi-pack.json](./270393-ultimate-sliding-puzzle-sci-fi-pack.json) |
+| Ultimate Space Commando | 35963 | [35963-ultimate-space-commando.json](./35963-ultimate-space-commando.json) |
 | Ultimate Summer Boat | 51982 | [51982-ultimate-summer-boat.json](./51982-ultimate-summer-boat.json) |
 | Ultimate Tower Defense | 272570 | [272570-ultimate-tower-defense.json](./272570-ultimate-tower-defense.json) |
 | Ultimate Trial | 304358 | [304358-ultimate-trial.json](./304358-ultimate-trial.json) |
@@ -151,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Carnival Carnage | 180314 | [180314-undead-carnival-carnage.json](./180314-undead-carnival-carnage.json) |
 | Undead Mayhem | 277614 | [277614-undead-mayhem.json](./277614-undead-mayhem.json) |
 | Undeadworld | 223663 | [223663-undeadworld.json](./223663-undeadworld.json) |
+| Undeadz! | 35886 | [35886-undeadz.json](./35886-undeadz.json) |
 | Undefined | 111026 | [111026-undefined.json](./111026-undefined.json) |
 | Under Defeat | 21015 | [21015-under-defeat.json](./21015-under-defeat.json) |
 | Under Defeat HD | 43951 | [43951-under-defeat-hd.json](./43951-under-defeat-hd.json) |
@@ -217,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicorn | 223672 | [223672-unicorn.json](./223672-unicorn.json) |
 | Unicorn Coloring Book | 96076 | [96076-unicorn-coloring-book.json](./96076-unicorn-coloring-book.json) |
 | Unicorn Wars | 338588 | [338588-unicorn-wars.json](./338588-unicorn-wars.json) |
+| Uninvited: MacVenture Series | 35912 | [35912-uninvited-macventure-series.json](./35912-uninvited-macventure-series.json) |
 | Union of Gnomes | 213004 | [213004-union-of-gnomes.json](./213004-union-of-gnomes.json) |
 | Union of Koi Musubi | 53879 | [53879-union-of-koi-musubi.json](./53879-union-of-koi-musubi.json) |
 | UniqKiller: Urban Shooter | 323514 | [323514-uniqkiller-urban-shooter.json](./323514-uniqkiller-urban-shooter.json) |
