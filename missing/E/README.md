@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elminage Original | 21033 | [21033-elminage-original.json](./21033-elminage-original.json) |
 | Elmo's Deep Sea Adventure | 71511 | [71511-elmos-deep-sea-adventure.json](./71511-elmos-deep-sea-adventure.json) |
 | Elmo's Deep Sea Adventure | 71513 | [71513-elmos-deep-sea-adventure.json](./71513-elmos-deep-sea-adventure.json) |
+| Elmo's Monster Maker HD | 89732 | [89732-elmos-monster-maker-hd.json](./89732-elmos-monster-maker-hd.json) |
 | Elon on Mars | 120997 | [120997-elon-on-mars.json](./120997-elon-on-mars.json) |
 | Elon vs AI | 258709 | [258709-elon-vs-ai.json](./258709-elon-vs-ai.json) |
 | Elona Mobile | 194018 | [194018-elona-mobile.json](./194018-elona-mobile.json) |
@@ -434,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erth | 134673 | [134673-erth.json](./134673-erth.json) |
 | Ertugrul | 274772 | [274772-ertugrul.json](./274772-ertugrul.json) |
 | Erwartung | 295014 | [295014-erwartung.json](./295014-erwartung.json) |
+| eSail | 89648 | [89648-esail.json](./89648-esail.json) |
 | Esc-8-bit | 114369 | [114369-esc-8-bit.json](./114369-esc-8-bit.json) |
 | Escape | 98433 | [98433-escape.json](./98433-escape.json) |
 | Escape Academy: Deluxe Edition | 209686 | [209686-escape-academy-deluxe-edition.json](./209686-escape-academy-deluxe-edition.json) |
