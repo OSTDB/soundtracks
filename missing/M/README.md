@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Saga | 70980 | [70980-mars-saga.json](./70980-mars-saga.json) |
 | Mars Underground | 110490 | [110490-mars-underground.json](./110490-mars-underground.json) |
 | Mars: Chaos Menace | 111712 | [111712-mars-chaos-menace.json](./111712-mars-chaos-menace.json) |
+| Marsh Into the New Dimension | 396227 | [396227-marsh-into-the-new-dimension.json](./396227-marsh-into-the-new-dimension.json) |
 | Marshals of War: Orcblood | 408044 | [408044-marshals-of-war-orcblood.json](./408044-marshals-of-war-orcblood.json) |
 | Marshin | 121770 | [121770-marshin.json](./121770-marshin.json) |
 | Marshmallow | 197396 | [197396-marshmallow.json](./197396-marshmallow.json) |
@@ -456,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martin Wort's Special Report | 112310 | [112310-martin-worts-special-report.json](./112310-martin-worts-special-report.json) |
 | Marty McFart | 183589 | [183589-marty-mcfart.json](./183589-marty-mcfart.json) |
 | Maru and her make-believe world | 166747 | [166747-maru-and-her-make-believe-world.json](./166747-maru-and-her-make-believe-world.json) |
+| Maruchi Akindo | 396190 | [396190-maruchi-akindo.json](./396190-maruchi-akindo.json) |
 | Marvel Disk Wars: Avengers - Ultimate Heroes | 61656 | [61656-marvel-disk-wars-avengers-ultimate-heroes.json](./61656-marvel-disk-wars-avengers-ultimate-heroes.json) |
 | Marvel End Time Arena | 89254 | [89254-marvel-end-time-arena.json](./89254-marvel-end-time-arena.json) |
 | Marvel First Alliance | 300380 | [300380-marvel-first-alliance.json](./300380-marvel-first-alliance.json) |
@@ -1304,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Kitty | 258724 | [258724-missing-kitty.json](./258724-missing-kitty.json) |
 | Missing Memories | 257088 | [257088-missing-memories.json](./257088-missing-memories.json) |
 | Missing Mildred | 189190 | [189190-missing-mildred.json](./189190-missing-mildred.json) |
+| Missing Texture | 396242 | [396242-missing-texture.json](./396242-missing-texture.json) |
 | Missing: Itsuka Kitto | 257653 | [257653-missing-itsuka-kitto.json](./257653-missing-itsuka-kitto.json) |
 | Missing: Since January | 68204 | [68204-missing-since-january.json](./68204-missing-since-january.json) |
 | Mission Angel Angelic Pink | 82908 | [82908-mission-angel-angelic-pink.json](./82908-mission-angel-angelic-pink.json) |
