@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasol Fall | 231632 | [231632-parasol-fall.json](./231632-parasol-fall.json) |
 | Parasol Stars: Rainbow Islands 2 | 39027 | [39027-parasol-stars-rainbow-islands-2.json](./39027-parasol-stars-rainbow-islands-2.json) |
 | Paratroopers | 24986 | [24986-paratroopers.json](./24986-paratroopers.json) |
+| Parcel Delivery Simulator | 377066 | [377066-parcel-delivery-simulator.json](./377066-parcel-delivery-simulator.json) |
 | Parchis Club | 204683 | [204683-parchis-club.json](./204683-parchis-club.json) |
 | Pari Delicto | 384531 | [384531-pari-delicto.json](./384531-pari-delicto.json) |
 | Paris Belle Epoque | 303270 | [303270-paris-belle-epoque.json](./303270-paris-belle-epoque.json) |
@@ -679,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piggy Only Up | 408835 | [408835-piggy-only-up.json](./408835-piggy-only-up.json) |
 | Piggy: Chapter 1 | 246093 | [246093-piggy-chapter-1.json](./246093-piggy-chapter-1.json) |
 | Piglet's Big Game | 314629 | [314629-piglets-big-game.json](./314629-piglets-big-game.json) |
+| Pigment | 377050 | [377050-pigment.json](./377050-pigment.json) |
 | Pigromance | 141202 | [141202-pigromance.json](./141202-pigromance.json) |
 | Pigskin Punter! | 234336 | [234336-pigskin-punter.json](./234336-pigskin-punter.json) |
 | Pik's Epic Kirby Sprite Comics: Teh Game 2 | 246666 | [246666-piks-epic-kirby-sprite-comics-teh-game-2.json](./246666-piks-epic-kirby-sprite-comics-teh-game-2.json) |
