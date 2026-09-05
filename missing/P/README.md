@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palette Swap | 163993 | [163993-palette-swap.json](./163993-palette-swap.json) |
 | Palia | 151467 | [151467-palia.json](./151467-palia.json) |
 | Palikat | 251194 | [251194-palikat.json](./251194-palikat.json) |
+| Palinurus | 33121 | [33121-palinurus.json](./33121-palinurus.json) |
 | Palladise Island: Legendary Space | 228089 | [228089-palladise-island-legendary-space.json](./228089-palladise-island-legendary-space.json) |
 | Pallas of Vines | 129762 | [129762-pallas-of-vines.json](./129762-pallas-of-vines.json) |
 | Palm Reading Premium | 111056 | [111056-palm-reading-premium.json](./111056-palm-reading-premium.json) |
@@ -900,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayBound | 126662 | [126662-playbound.json](./126662-playbound.json) |
 | Playboy: The Mansion - Private Party | 68037 | [68037-playboy-the-mansion-private-party.json](./68037-playboy-the-mansion-private-party.json) |
 | Player's Eleven | 129230 | [129230-players-eleven.json](./129230-players-eleven.json) |
+| PlayFortress | 33102 | [33102-playfortress.json](./33102-playfortress.json) |
 | PlayGuys | 320538 | [320538-playguys.json](./320538-playguys.json) |
 | Playing With Fire 2 | 202372 | [202372-playing-with-fire-2.json](./202372-playing-with-fire-2.json) |
 | Playne | 102937 | [102937-playne.json](./102937-playne.json) |
@@ -1629,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle da Moro! | 259828 | [259828-puzzle-da-moro.json](./259828-puzzle-da-moro.json) |
 | Puzzle Dungeon | 62776 | [62776-puzzle-dungeon.json](./62776-puzzle-dungeon.json) |
 | Puzzle For Peppa Pig | 100825 | [100825-puzzle-for-peppa-pig.json](./100825-puzzle-for-peppa-pig.json) |
+| Puzzle Galaxies | 32936 | [32936-puzzle-galaxies.json](./32936-puzzle-galaxies.json) |
 | Puzzle Game | 263775 | [263775-puzzle-game.json](./263775-puzzle-game.json) |
 | Puzzle Islands: Ancient & Modern - Bundle | 340743 | [340743-puzzle-islands-ancient-and-modern-bundle.json](./340743-puzzle-islands-ancient-and-modern-bundle.json) |
 | Puzzle Kana? | 312354 | [312354-puzzle-kana.json](./312354-puzzle-kana.json) |
