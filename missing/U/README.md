@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlock the Feelings | 199094 | [199094-unlock-the-feelings.json](./199094-unlock-the-feelings.json) |
 | Unlock the King | 126885 | [126885-unlock-the-king.json](./126885-unlock-the-king.json) |
 | Unlock the King 2 | 127418 | [127418-unlock-the-king-2.json](./127418-unlock-the-king-2.json) |
+| Unlog | 370705 | [370705-unlog.json](./370705-unlog.json) |
 | Unmanned helicopter | 105365 | [105365-unmanned-helicopter.json](./105365-unmanned-helicopter.json) |
 | Unmatch | 58805 | [58805-unmatch.json](./58805-unmatch.json) |
 | Unmaze | 159363 | [159363-unmaze.json](./159363-unmaze.json) |
