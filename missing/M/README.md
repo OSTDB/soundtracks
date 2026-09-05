@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marmalade Boy | 38339 | [38339-marmalade-boy.json](./38339-marmalade-boy.json) |
 | Marriage or Pervert: The Small Penis Warrior & The Perverted Magician | 82909 | [82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json](./82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json) |
 | Mars for the Rich | 202382 | [202382-mars-for-the-rich.json](./202382-mars-for-the-rich.json) |
+| Mars Odyssey | 32929 | [32929-mars-odyssey.json](./32929-mars-odyssey.json) |
 | Mars Saga | 70980 | [70980-mars-saga.json](./70980-mars-saga.json) |
 | Mars Underground | 110490 | [110490-mars-underground.json](./110490-mars-underground.json) |
 | Mars: Chaos Menace | 111712 | [111712-mars-chaos-menace.json](./111712-mars-chaos-menace.json) |
@@ -760,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melody of the Light | 181909 | [181909-melody-of-the-light.json](./181909-melody-of-the-light.json) |
 | Melody's Escape 2 | 217497 | [217497-melodys-escape-2.json](./217497-melodys-escape-2.json) |
 | Melter Man | 34411 | [34411-melter-man.json](./34411-melter-man.json) |
+| Melting Hearts: Our Love Will Grow 2 | 33080 | [33080-melting-hearts-our-love-will-grow-2.json](./33080-melting-hearts-our-love-will-grow-2.json) |
 | Melty Blood Actress Again Current Code | 19943 | [19943-melty-blood-actress-again-current-code.json](./19943-melty-blood-actress-again-current-code.json) |
 | Melvor Idle | 141130 | [141130-melvor-idle.json](./141130-melvor-idle.json) |
 | Melvor Idle: Atlas of Discovery | 259837 | [259837-melvor-idle-atlas-of-discovery.json](./259837-melvor-idle-atlas-of-discovery.json) |
@@ -1713,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Mind: Secrets of Pharaon | 73808 | [73808-mouse-mind-secrets-of-pharaon.json](./73808-mouse-mind-secrets-of-pharaon.json) |
 | Mouse Work | 339137 | [339137-mouse-work.json](./339137-mouse-work.json) |
 | Mousey | 231625 | [231625-mousey.json](./231625-mousey.json) |
+| Moustache Mountain | 33133 | [33133-moustache-mountain.json](./33133-moustache-mountain.json) |
 | Move Fitness | 22937 | [22937-move-fitness.json](./22937-move-fitness.json) |
 | Move Mind Benders | 20818 | [20818-move-mind-benders.json](./20818-move-mind-benders.json) |
 | Move or Die: Couch Party Edition | 209130 | [209130-move-or-die-couch-party-edition.json](./209130-move-or-die-couch-party-edition.json) |
@@ -1934,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Journey | 339105 | [339105-my-journey.json](./339105-my-journey.json) |
 | My Kingdom for the Princess II | 259831 | [259831-my-kingdom-for-the-princess-ii.json](./259831-my-kingdom-for-the-princess-ii.json) |
 | My Klutzy Cupid | 248894 | [248894-my-klutzy-cupid.json](./248894-my-klutzy-cupid.json) |
+| My Lady | 33134 | [33134-my-lady.json](./33134-my-lady.json) |
 | My Lewd Adventure | 341350 | [341350-my-lewd-adventure.json](./341350-my-lewd-adventure.json) |
 | My Life: Pet Vet | 220875 | [220875-my-life-pet-vet.json](./220875-my-life-pet-vet.json) |
 | My Lil' Donut | 31971 | [31971-my-lil-donut.json](./31971-my-lil-donut.json) |
