@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy puzzle: Landscape | 248928 | [248928-easy-puzzle-landscape.json](./248928-easy-puzzle-landscape.json) |
 | Easy-Peasy Tic Tac Toe | 88317 | [88317-easy-peasy-tic-tac-toe.json](./88317-easy-peasy-tic-tac-toe.json) |
 | EasyAim Trainer | 339648 | [339648-easyaim-trainer.json](./339648-easyaim-trainer.json) |
+| Eat It | 414313 | [414313-eat-it.json](./414313-eat-it.json) |
 | Eat More Vegetables! | 157206 | [157206-eat-more-vegetables.json](./157206-eat-more-vegetables.json) |
 | Eat the Fish 2016 | 90680 | [90680-eat-the-fish-2016.json](./90680-eat-the-fish-2016.json) |
 | Eat This | 299468 | [299468-eat-this.json](./299468-eat-this.json) |
@@ -138,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Effugium | 255954 | [255954-effugium.json](./255954-effugium.json) |
 | Efi | 176508 | [176508-efi.json](./176508-efi.json) |
 | EFO: Escape From Outerworld | 165674 | [165674-efo-escape-from-outerworld.json](./165674-efo-escape-from-outerworld.json) |
+| Egg Drop Soup | 414301 | [414301-egg-drop-soup.json](./414301-egg-drop-soup.json) |
 | Egg Hunt | 110375 | [110375-egg-hunt.json](./110375-egg-hunt.json) |
 | Eggconsole Hydlide MSX | 315833 | [315833-eggconsole-hydlide-msx.json](./315833-eggconsole-hydlide-msx.json) |
 | Eggconsole Xak PC-8801mkIISR | 292867 | [292867-eggconsole-xak-pc-8801mkiisr.json](./292867-eggconsole-xak-pc-8801mkiisr.json) |
@@ -170,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Internado Laguna Negra | 144305 | [144305-el-internado-laguna-negra.json](./144305-el-internado-laguna-negra.json) |
 | El Ladrón del Tiempo | 321134 | [321134-el-ladron-del-tiempo.json](./321134-el-ladron-del-tiempo.json) |
 | El Narco | 321170 | [321170-el-narco.json](./321170-el-narco.json) |
+| El Notas | 414382 | [414382-el-notas.json](./414382-el-notas.json) |
 | El Paso, Nightmare | 223134 | [223134-el-paso-nightmare.json](./223134-el-paso-nightmare.json) |
 | El Rock de tu Vida | 126004 | [126004-el-rock-de-tu-vida.json](./126004-el-rock-de-tu-vida.json) |
 | El Shaddai: Ascension of the Metatron | 6987 | [6987-el-shaddai-ascension-of-the-metatron.json](./6987-el-shaddai-ascension-of-the-metatron.json) |
@@ -407,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Food Fight VR | 117075 | [117075-epic-food-fight-vr.json](./117075-epic-food-fight-vr.json) |
 | Epic Party Clicker | 314632 | [314632-epic-party-clicker.json](./314632-epic-party-clicker.json) |
 | Epic Prose: Special Edition | 52020 | [52020-epic-prose-special-edition.json](./52020-epic-prose-special-edition.json) |
+| Epic Sax Game | 414339 | [414339-epic-sax-game.json](./414339-epic-sax-game.json) |
 | Epic Showdown | 34365 | [34365-epic-showdown.json](./34365-epic-showdown.json) |
 | Epic Skater | 70999 | [70999-epic-skater.json](./70999-epic-skater.json) |
 | Epic Snails | 68696 | [68696-epic-snails.json](./68696-epic-snails.json) |
@@ -737,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Car Parking! | 310196 | [310196-extreme-car-parking.json](./310196-extreme-car-parking.json) |
 | Extreme flight | 118411 | [118411-extreme-flight.json](./118411-extreme-flight.json) |
 | Extreme Formula Championship | 101592 | [101592-extreme-formula-championship.json](./101592-extreme-formula-championship.json) |
+| Extreme Hill Driver | 414387 | [414387-extreme-hill-driver.json](./414387-extreme-hill-driver.json) |
 | Extreme Landings | 88296 | [88296-extreme-landings.json](./88296-extreme-landings.json) |
 | Extreme Makeover: Home Edition | 262061 | [262061-extreme-makeover-home-edition.json](./262061-extreme-makeover-home-edition.json) |
 | Extreme Offroad Racing | 320540 | [320540-extreme-offroad-racing.json](./320540-extreme-offroad-racing.json) |
