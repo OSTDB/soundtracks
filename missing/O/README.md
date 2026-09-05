@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obrum | 406129 | [406129-obrum.json](./406129-obrum.json) |
 | ObsCure | 5941 | [5941-obscure.json](./5941-obscure.json) |
 | Obscure Doubt | 117068 | [117068-obscure-doubt.json](./117068-obscure-doubt.json) |
+| Observation Daruma Log | 400262 | [400262-observation-daruma-log.json](./400262-observation-daruma-log.json) |
 | Observer: System Redux - Deluxe Edition | 154532 | [154532-observer-system-redux-deluxe-edition.json](./154532-observer-system-redux-deluxe-edition.json) |
 | Obsidienne | 185120 | [185120-obsidienne.json](./185120-obsidienne.json) |
 | Obversion | 120388 | [120388-obversion.json](./120388-obversion.json) |
