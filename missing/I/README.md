@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insectipede | 119764 | [119764-insectipede.json](./119764-insectipede.json) |
 | Insectoid | 25010 | [25010-insectoid.json](./25010-insectoid.json) |
 | Insectoid Descent | 205231 | [205231-insectoid-descent.json](./205231-insectoid-descent.json) |
+| Insert Coin | 401482 | [401482-insert-coin.json](./401482-insert-coin.json) |
 | Insertion | 274187 | [274187-insertion.json](./274187-insertion.json) |
 | Inside Lacrosse's CL2010 | 91420 | [91420-inside-lacrosses-cl2010.json](./91420-inside-lacrosses-cl2010.json) |
 | Inside My Mind | 149090 | [149090-inside-my-mind.json](./149090-inside-my-mind.json) |
