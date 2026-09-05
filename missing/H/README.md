@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hive Defender | 190193 | [190193-hive-defender.json](./190193-hive-defender.json) |
 | Hive In Space | 290716 | [290716-hive-in-space.json](./290716-hive-in-space.json) |
 | Hive Time | 124254 | [124254-hive-time.json](./124254-hive-time.json) |
+| Hivefront TD | 379857 | [379857-hivefront-td.json](./379857-hivefront-td.json) |
 | Hiveswap Friendsim | 97012 | [97012-hiveswap-friendsim.json](./97012-hiveswap-friendsim.json) |
 | Hiza no Ue no Partner: Kitty on Your Lap | 65494 | [65494-hiza-no-ue-no-partner-kitty-on-your-lap.json](./65494-hiza-no-ue-no-partner-kitty-on-your-lap.json) |
 | Hjarta | 169985 | [169985-hjarta.json](./169985-hjarta.json) |
