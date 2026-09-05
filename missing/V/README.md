@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void of Space | 173295 | [173295-void-of-space.json](./173295-void-of-space.json) |
 | Void Sols | 223109 | [223109-void-sols.json](./223109-void-sols.json) |
 | Void/Breaker | 339626 | [339626-void-breaker.json](./339626-void-breaker.json) |
+| Voidbloom | 410248 | [410248-voidbloom.json](./410248-voidbloom.json) |
 | Voidborn | 211924 | [211924-voidborn.json](./211924-voidborn.json) |
 | VoidCraft Island Chronicles: Sky Survival | 322401 | [322401-voidcraft-island-chronicles-sky-survival.json](./322401-voidcraft-island-chronicles-sky-survival.json) |
 | Voidcrisis | 210889 | [210889-voidcrisis.json](./210889-voidcrisis.json) |
