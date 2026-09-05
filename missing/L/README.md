@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Libros de Chilam Balam | 188075 | [188075-libros-de-chilam-balam.json](./188075-libros-de-chilam-balam.json) |
 | Licca-chan ni Naritai! | 58848 | [58848-licca-chan-ni-naritai.json](./58848-licca-chan-ni-naritai.json) |
 | Lichenia | 138271 | [138271-lichenia.json](./138271-lichenia.json) |
+| Lichtung | 415105 | [415105-lichtung.json](./415105-lichtung.json) |
 | Liebt Mich Nicht | 126021 | [126021-liebt-mich-nicht.json](./126021-liebt-mich-nicht.json) |
 | Liero Xtreme | 72080 | [72080-liero-xtreme.json](./72080-liero-xtreme.json) |
 | Life & Death | 12177 | [12177-life-and-death.json](./12177-life-and-death.json) |
@@ -495,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limbs | 238751 | [238751-limbs.json](./238751-limbs.json) |
 | Limbus Company | 194106 | [194106-limbus-company.json](./194106-limbus-company.json) |
 | Limerick: Cadence Mansion | 224743 | [224743-limerick-cadence-mansion.json](./224743-limerick-cadence-mansion.json) |
+| Limes 235 | 415103 | [415103-limes-235.json](./415103-limes-235.json) |
 | Liminal Gallery | 274214 | [274214-liminal-gallery.json](./274214-liminal-gallery.json) |
 | Liminal Point | 330566 | [330566-liminal-point.json](./330566-liminal-point.json) |
 | Liminality Online | 176476 | [176476-liminality-online.json](./176476-liminality-online.json) |
@@ -903,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumbermill | 122427 | [122427-lumbermill.json](./122427-lumbermill.json) |
 | LumberQwaxes | 154013 | [154013-lumberqwaxes.json](./154013-lumberqwaxes.json) |
 | Lumencraft | 186294 | [186294-lumencraft.json](./186294-lumencraft.json) |
+| Lumiere | 415100 | [415100-lumiere.json](./415100-lumiere.json) |
 | Luminosity | 35836 | [35836-luminosity.json](./35836-luminosity.json) |
 | Luminous Arc 3 | 25100 | [25100-luminous-arc-3.json](./25100-luminous-arc-3.json) |
 | Luminous Skies: A Short Adventure | 255956 | [255956-luminous-skies-a-short-adventure.json](./255956-luminous-skies-a-short-adventure.json) |
