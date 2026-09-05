@@ -1186,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Dancers: They Magically Fly! | 49401 | [49401-sky-dancers-they-magically-fly.json](./49401-sky-dancers-they-magically-fly.json) |
 | Sky DarkCrow | 190195 | [190195-sky-darkcrow.json](./190195-sky-darkcrow.json) |
 | Sky Fortress: Odyssey | 277033 | [277033-sky-fortress-odyssey.json](./277033-sky-fortress-odyssey.json) |
+| Sky Gamblers - Infinite Jets | 86688 | [86688-sky-gamblers-infinite-jets.json](./86688-sky-gamblers-infinite-jets.json) |
 | Sky Hunter | 75165 | [75165-sky-hunter.json](./75165-sky-hunter.json) |
 | Sky Jaguar 2 | 138250 | [138250-sky-jaguar-2.json](./138250-sky-jaguar-2.json) |
 | Sky Journey: Cozy Mornings | 290710 | [290710-sky-journey-cozy-mornings.json](./290710-sky-journey-cozy-mornings.json) |
@@ -1449,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Ghost Warrior Contracts: Full Arsenal Edition | 199639 | [199639-sniper-ghost-warrior-contracts-full-arsenal-edition.json](./199639-sniper-ghost-warrior-contracts-full-arsenal-edition.json) |
 | Sniper Master: City Hunter | 227482 | [227482-sniper-master-city-hunter.json](./227482-sniper-master-city-hunter.json) |
 | Sniper Ops 3D | 88297 | [88297-sniper-ops-3d.json](./88297-sniper-ops-3d.json) |
+| Sniper Shooter 3D: SWAT Missions Pro | 86719 | [86719-sniper-shooter-3d-swat-missions-pro.json](./86719-sniper-shooter-3d-swat-missions-pro.json) |
 | Sniper Zombies | 227491 | [227491-sniper-zombies.json](./227491-sniper-zombies.json) |
 | Sniper: Ghost Warrior 3 | 10964 | [10964-sniper-ghost-warrior-3.json](./10964-sniper-ghost-warrior-3.json) |
 | Snipers vs Thieves: FPS Clash | 87513 | [87513-snipers-vs-thieves-fps-clash.json](./87513-snipers-vs-thieves-fps-clash.json) |
@@ -1963,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacewar | 181938 | [181938-spacewar.json](./181938-spacewar.json) |
 | Spaceward Ho! | 47296 | [47296-spaceward-ho.json](./47296-spaceward-ho.json) |
 | SpaceWrestler XL | 128610 | [128610-spacewrestler-xl.json](./128610-spacewrestler-xl.json) |
+| Spades Pro | 86691 | [86691-spades-pro.json](./86691-spades-pro.json) |
 | Spam Text | 214196 | [214196-spam-text.json](./214196-spam-text.json) |
 | Spanish for Everyone! | 25018 | [25018-spanish-for-everyone.json](./25018-spanish-for-everyone.json) |
 | Spare Change | 23869 | [23869-spare-change.json](./23869-spare-change.json) |
@@ -2751,6 +2754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku and Permudoku | 84913 | [84913-sudoku-and-permudoku.json](./84913-sudoku-and-permudoku.json) |
 | Sudoku Casual Puzzle | 219280 | [219280-sudoku-casual-puzzle.json](./219280-sudoku-casual-puzzle.json) |
 | Sudoku Constellation | 292281 | [292281-sudoku-constellation.json](./292281-sudoku-constellation.json) |
+| Sudoku Deluxe | 86733 | [86733-sudoku-deluxe.json](./86733-sudoku-deluxe.json) |
 | Sudoku Gridmaster | 20538 | [20538-sudoku-gridmaster.json](./20538-sudoku-gridmaster.json) |
 | Sudoku HD | 97911 | [97911-sudoku-hd.json](./97911-sudoku-hd.json) |
 | Sudoku Jigsaw | 103418 | [103418-sudoku-jigsaw.json](./103418-sudoku-jigsaw.json) |
@@ -3201,6 +3205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tank Attack | 256556 | [256556-super-tank-attack.json](./256556-super-tank-attack.json) |
 | Super Tank Rumble | 185695 | [185695-super-tank-rumble.json](./185695-super-tank-rumble.json) |
 | Super Tennis | 147960 | [147960-super-tennis.json](./147960-super-tennis.json) |
+| Super Tits Rush | 86752 | [86752-super-tits-rush.json](./86752-super-tits-rush.json) |
 | Super Toss the Turtle | 57104 | [57104-super-toss-the-turtle.json](./57104-super-toss-the-turtle.json) |
 | Super Toy Cars 1 & 2 Bundle | 208579 | [208579-super-toy-cars-1-and-2-bundle.json](./208579-super-toy-cars-1-and-2-bundle.json) |
 | Super Toy Cars Collection | 204083 | [204083-super-toy-cars-collection.json](./204083-super-toy-cars-collection.json) |
