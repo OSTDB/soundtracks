@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matches Puzzle Game | 117754 | [117754-matches-puzzle-game.json](./117754-matches-puzzle-game.json) |
 | Matching | 106573 | [106573-matching.json](./106573-matching.json) |
 | Matchmaker: Dungeon Heart | 263783 | [263783-matchmaker-dungeon-heart.json](./263783-matchmaker-dungeon-heart.json) |
+| Matchmaking for Ghosts | 398988 | [398988-matchmaking-for-ghosts.json](./398988-matchmaking-for-ghosts.json) |
 | Matchmension: House of Mist | 197915 | [197915-matchmension-house-of-mist.json](./197915-matchmension-house-of-mist.json) |
 | MatchOolu | 320525 | [320525-matchoolu.json](./320525-matchoolu.json) |
 | Matchpoint: Tennis Championships - Legends Edition | 199628 | [199628-matchpoint-tennis-championships-legends-edition.json](./199628-matchpoint-tennis-championships-legends-edition.json) |
@@ -637,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Measurement Problem | 166740 | [166740-measurement-problem.json](./166740-measurement-problem.json) |
 | Meat & Greed | 203546 | [203546-meat-and-greed.json](./203546-meat-and-greed.json) |
 | Meat Shift | 181895 | [181895-meat-shift.json](./181895-meat-shift.json) |
+| Meatlock | 399012 | [399012-meatlock.json](./399012-meatlock.json) |
 | Meatly's Storage World | 233751 | [233751-meatlys-storage-world.json](./233751-meatlys-storage-world.json) |
 | Mech Ace Combat Trainer | 31880 | [31880-mech-ace-combat-trainer.json](./31880-mech-ace-combat-trainer.json) |
 | Mech Bros | 302678 | [302678-mech-bros.json](./302678-mech-bros.json) |
@@ -1223,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Motor Racing X | 126194 | [126194-mini-motor-racing-x.json](./126194-mini-motor-racing-x.json) |
 | Mini Racer Car Shop Simulator | 326386 | [326386-mini-racer-car-shop-simulator.json](./326386-mini-racer-car-shop-simulator.json) |
 | Mini Racing: Mini Cars Curling | 233755 | [233755-mini-racing-mini-cars-curling.json](./233755-mini-racing-mini-cars-curling.json) |
+| Mini Raid Leader | 398999 | [398999-mini-raid-leader.json](./398999-mini-raid-leader.json) |
 | Mini Rogue | 144376 | [144376-mini-rogue.json](./144376-mini-rogue.json) |
 | Mini Royale | 201020 | [201020-mini-royale.json](./201020-mini-royale.json) |
 | Mini Subway: Logic on the Metro Line | 209693 | [209693-mini-subway-logic-on-the-metro-line.json](./209693-mini-subway-logic-on-the-metro-line.json) |
@@ -1721,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: Kold War Scorpion | 340201 | [340201-mortal-kombat-x-kold-war-scorpion.json](./340201-mortal-kombat-x-kold-war-scorpion.json) |
 | Mortal Kombat: Komplete Edition | 2977 | [2977-mortal-kombat-komplete-edition.json](./2977-mortal-kombat-komplete-edition.json) |
 | Mortal Kombat: Legacy Kollection | 347122 | [347122-mortal-kombat-legacy-kollection.json](./347122-mortal-kombat-legacy-kollection.json) |
+| Mortal Kombat: Legacy Kollection - Deluxe Edition | 398998 | [398998-mortal-kombat-legacy-kollection-deluxe-edition.json](./398998-mortal-kombat-legacy-kollection-deluxe-edition.json) |
 | Mortality Decomp. Killers | 337999 | [337999-mortality-decomp-killers.json](./337999-mortality-decomp-killers.json) |
 | Morterra | 177015 | [177015-morterra.json](./177015-morterra.json) |
 | Mortgage Nightmares | 341336 | [341336-mortgage-nightmares.json](./341336-mortgage-nightmares.json) |
@@ -1921,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder on the Spaceship Altair | 312330 | [312330-murder-on-the-spaceship-altair.json](./312330-murder-on-the-spaceship-altair.json) |
 | Murder on the Zinderneuf | 23929 | [23929-murder-on-the-zinderneuf.json](./23929-murder-on-the-zinderneuf.json) |
 | Murder Reservation | 129205 | [129205-murder-reservation.json](./129205-murder-reservation.json) |
+| Murder Strip | 399011 | [399011-murder-strip.json](./399011-murder-strip.json) |
 | MurderHobo: Aggravation Quest | 63289 | [63289-murderhobo-aggravation-quest.json](./63289-murderhobo-aggravation-quest.json) |
 | Murderwave: Digital Slaughter | 121011 | [121011-murderwave-digital-slaughter.json](./121011-murderwave-digital-slaughter.json) |
 | Murdoku | 401511 | [401511-murdoku.json](./401511-murdoku.json) |
