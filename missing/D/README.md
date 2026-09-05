@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders of Asteria | 207537 | [207537-defenders-of-asteria.json](./207537-defenders-of-asteria.json) |
 | Defenders of Dynatron City | 48066 | [48066-defenders-of-dynatron-city.json](./48066-defenders-of-dynatron-city.json) |
 | Defenders of Ekron: Definitive Edition | 106624 | [106624-defenders-of-ekron-definitive-edition.json](./106624-defenders-of-ekron-definitive-edition.json) |
+| Defenders of Oasis GG2SMS | 369595 | [369595-defenders-of-oasis-gg2sms.json](./369595-defenders-of-oasis-gg2sms.json) |
 | Defenders of the Omniverse | 255385 | [255385-defenders-of-the-omniverse.json](./255385-defenders-of-the-omniverse.json) |
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
 | Defense Zone 2 | 17303 | [17303-defense-zone-2.json](./17303-defense-zone-2.json) |
@@ -1308,10 +1309,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Touch the Snail | 394829 | [394829-dont-touch-the-snail.json](./394829-dont-touch-the-snail.json) |
 | Don't Touch the Spikes | 225291 | [225291-dont-touch-the-spikes.json](./225291-dont-touch-the-spikes.json) |
 | Don't wake up | 381009 | [381009-dont-wake-up.json](./381009-dont-wake-up.json) |
+| Don't Wake Up My Dream | 369588 | [369588-dont-wake-up-my-dream.json](./369588-dont-wake-up-my-dream.json) |
 | Don't! Heroes | 181932 | [181932-dont-heroes.json](./181932-dont-heroes.json) |
 | Don't! Heroes: Encore! | 181929 | [181929-dont-heroes-encore.json](./181929-dont-heroes-encore.json) |
 | Donald Dowell and the Ghost of Barker Manor | 168386 | [168386-donald-dowell-and-the-ghost-of-barker-manor.json](./168386-donald-dowell-and-the-ghost-of-barker-manor.json) |
 | Donald Jump | 412966 | [412966-donald-jump.json](./412966-donald-jump.json) |
+| Donald no Magical World GG2SMS | 369596 | [369596-donald-no-magical-world-gg2sms.json](./369596-donald-no-magical-world-gg2sms.json) |
 | Donkey BoM | 398315 | [398315-donkey-bom.json](./398315-donkey-bom.json) |
 | Donkey King Arcade Game | 96713 | [96713-donkey-king-arcade-game.json](./96713-donkey-king-arcade-game.json) |
 | Donkey Kong | 257637 | [257637-donkey-kong.json](./257637-donkey-kong.json) |
@@ -1463,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Calgory's Lab: a 3D steampunk puzzle adventure game | 88312 | [88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json](./88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json) |
 | Dr. Chaos: Shadows of Mars | 268760 | [268760-dr-chaos-shadows-of-mars.json](./268760-dr-chaos-shadows-of-mars.json) |
 | Dr. Dino -Doctor & Dentist games for boys girls | 232181 | [232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json](./232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json) |
+| Dr. Franken | 369599 | [369599-dr-franken.json](./369599-dr-franken.json) |
 | Dr. Jekyll and Mr. Hyde | 7961 | [7961-dr-jekyll-and-mr-hyde.json](./7961-dr-jekyll-and-mr-hyde.json) |
 | Dr. Mario 64 | 3475 | [3475-dr-mario-64.json](./3475-dr-mario-64.json) |
 | Dr. Mario World Redrawn | 132854 | [132854-dr-mario-world-redrawn.json](./132854-dr-mario-world-redrawn.json) |
@@ -1766,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droid Wars | 302100 | [302100-droid-wars.json](./302100-droid-wars.json) |
 | Droids | 84276 | [84276-droids.json](./84276-droids.json) |
 | Drömmar | 314631 | [314631-drommar.json](./314631-drommar.json) |
+| Drone Academy | 369576 | [369576-drone-academy.json](./369576-drone-academy.json) |
 | Drone Attack Spy Drone Games | 303263 | [303263-drone-attack-spy-drone-games.json](./303263-drone-attack-spy-drone-games.json) |
 | Drone Lander | 23859 | [23859-drone-lander.json](./23859-drone-lander.json) |
 | Drone Race Simulator Pilot Flight School Airplane Games Jet 2023 | 227515 | [227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json](./227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json) |
