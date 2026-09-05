@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss of Fire | 239301 | [239301-abyss-of-fire.json](./239301-abyss-of-fire.json) |
 | Abyss Pact | 339129 | [339129-abyss-pact.json](./339129-abyss-pact.json) |
 | Abyss Survivors | 311261 | [311261-abyss-survivors.json](./311261-abyss-survivors.json) |
+| Abyss: Backrooms Pools Horror VR | 376472 | [376472-abyss-backrooms-pools-horror-vr.json](./376472-abyss-backrooms-pools-horror-vr.json) |
 | Abyss: The Wraiths of Eden | 17136 | [17136-abyss-the-wraiths-of-eden.json](./17136-abyss-the-wraiths-of-eden.json) |
 | Abyssal | 385571 | [385571-abyssal.json](./385571-abyssal.json) |
 | Abysus Arena | 303751 | [303751-abysus-arena.json](./303751-abysus-arena.json) |
@@ -270,6 +271,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: The King of Fighters '97 | 83769 | [83769-aca-neo-geo-the-king-of-fighters-97.json](./83769-aca-neo-geo-the-king-of-fighters-97.json) |
 | ACA Neo Geo: The Ultimate 11 - SNK Football Championship | 115665 | [115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json](./115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json) |
 | ACA Neo Geo: World Heroes 2 Jet | 76576 | [76576-aca-neo-geo-world-heroes-2-jet.json](./76576-aca-neo-geo-world-heroes-2-jet.json) |
+| ACA NeoGeo Selection Vol. 10 | 376475 | [376475-aca-neogeo-selection-vol-10.json](./376475-aca-neogeo-selection-vol-10.json) |
+| ACA NeoGeo Selection Vol. 9 | 376474 | [376474-aca-neogeo-selection-vol-9.json](./376474-aca-neogeo-selection-vol-9.json) |
 | Acassia | 209660 | [209660-acassia.json](./209660-acassia.json) |
 | Acatalepsy | 150169 | [150169-acatalepsy.json](./150169-acatalepsy.json) |
 | Accel Magician Mimi | 148554 | [148554-accel-magician-mimi.json](./148554-accel-magician-mimi.json) |
@@ -742,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aleste Collection | 139997 | [139997-aleste-collection.json](./139997-aleste-collection.json) |
 | Aletta | 200170 | [200170-aletta.json](./200170-aletta.json) |
 | Alex Hunter: Lord of the Mind HD | 105936 | [105936-alex-hunter-lord-of-the-mind-hd.json](./105936-alex-hunter-lord-of-the-mind-hd.json) |
+| Alex Kidd and the Miracle Gems | 376442 | [376442-alex-kidd-and-the-miracle-gems.json](./376442-alex-kidd-and-the-miracle-gems.json) |
 | Alex Kidd: High-Tech World | 46112 | [46112-alex-kidd-high-tech-world.json](./46112-alex-kidd-high-tech-world.json) |
 | Alex Kidd: Radaxian In Turmoil | 326963 | [326963-alex-kidd-radaxian-in-turmoil.json](./326963-alex-kidd-radaxian-in-turmoil.json) |
 | Alexandra Fortune: Mystery of the Lunar Archipelago | 177047 | [177047-alexandra-fortune-mystery-of-the-lunar-archipelago.json](./177047-alexandra-fortune-mystery-of-the-lunar-archipelago.json) |
@@ -1356,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaHero | 237665 | [237665-aquahero.json](./237665-aquahero.json) |
 | Aquanaut's Holiday | 20589 | [20589-aquanauts-holiday.json](./20589-aquanauts-holiday.json) |
 | Aquanoid | 46629 | [46629-aquanoid.json](./46629-aquanoid.json) |
+| Aquanore | 376451 | [376451-aquanore.json](./376451-aquanore.json) |
 | Aquapark Tycoon | 296651 | [296651-aquapark-tycoon.json](./296651-aquapark-tycoon.json) |
 | Aquaphobia | 46655 | [46655-aquaphobia.json](./46655-aquaphobia.json) |
 | Aquaris | 109044 | [109044-aquaris.json](./109044-aquaris.json) |
