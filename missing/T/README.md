@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsudou Nippon! Rosen Tabi: Aizu Tetsudou‑hen | 221946 | [221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json](./221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json) |
 | Tex Murphy: Mean Streets + Martian Memorandum | 83575 | [83575-tex-murphy-mean-streets-martian-memorandum.json](./83575-tex-murphy-mean-streets-martian-memorandum.json) |
 | Texas Hold'em | 137058 | [137058-texas-holdem.json](./137058-texas-holdem.json) |
+| Texplore | 383946 | [383946-texplore.json](./383946-texplore.json) |
 | Text | 110635 | [110635-text.json](./110635-text.json) |
 | TextTwist 2 | 92504 | [92504-texttwist-2.json](./92504-texttwist-2.json) |
 | Textures Not Found | 405524 | [405524-textures-not-found.json](./405524-textures-not-found.json) |
@@ -1057,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fool | 302676 | [302676-the-fool.json](./302676-the-fool.json) |
 | The Forage | 102802 | [102802-the-forage.json](./102802-the-forage.json) |
 | The Forest Prison | 203537 | [203537-the-forest-prison.json](./203537-the-forest-prison.json) |
+| The Forest Watches | 383947 | [383947-the-forest-watches.json](./383947-the-forest-watches.json) |
 | The Foretold: Exordium | 267675 | [267675-the-foretold-exordium.json](./267675-the-foretold-exordium.json) |
 | The Forever Moon | 165023 | [165023-the-forever-moon.json](./165023-the-forever-moon.json) |
 | The Forgotten Ones | 17656 | [17656-the-forgotten-ones.json](./17656-the-forgotten-ones.json) |
@@ -2546,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Touchdown | 241058 | [241058-tiny-touchdown.json](./241058-tiny-touchdown.json) |
 | Tiny Toy Tanks | 159849 | [159849-tiny-toy-tanks.json](./159849-tiny-toy-tanks.json) |
 | Tiny Transit | 389957 | [389957-tiny-transit.json](./389957-tiny-transit.json) |
+| Tiny Tree Talk | 383977 | [383977-tiny-tree-talk.json](./383977-tiny-tree-talk.json) |
 | Tiny Troopers Joint Ops: Zombie Edition | 201818 | [201818-tiny-troopers-joint-ops-zombie-edition.json](./201818-tiny-troopers-joint-ops-zombie-edition.json) |
 | Tiny Whaley | 267670 | [267670-tiny-whaley.json](./267670-tiny-whaley.json) |
 | TinyRogue | 311288 | [311288-tinyrogue.json](./311288-tinyrogue.json) |
@@ -3385,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsumobaka Nisshi | 299440 | [299440-tsumobaka-nisshi.json](./299440-tsumobaka-nisshi.json) |
 | Tsunagaru Voiro Shooters vs. Space Kedamaki | 204732 | [204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json](./204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json) |
 | Tsunami Cruiser | 184655 | [184655-tsunami-cruiser.json](./184655-tsunami-cruiser.json) |
+| Tsunami Rider | 383939 | [383939-tsunami-rider.json](./383939-tsunami-rider.json) |
 | Tsundere Simulator 2 | 221389 | [221389-tsundere-simulator-2.json](./221389-tsundere-simulator-2.json) |
 | Tsuneko Apple | 318235 | [318235-tsuneko-apple.json](./318235-tsuneko-apple.json) |
 | Tsuppari Oozumou: Risshin Shusse-hen | 37780 | [37780-tsuppari-oozumou-risshin-shusse-hen.json](./37780-tsuppari-oozumou-risshin-shusse-hen.json) |
