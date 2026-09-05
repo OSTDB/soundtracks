@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Sky: Invasion - Ultimate Edition | 53256 | [53256-iron-sky-invasion-ultimate-edition.json](./53256-iron-sky-invasion-ultimate-edition.json) |
 | Iron Skys | 340763 | [340763-iron-skys.json](./340763-iron-skys.json) |
 | Iron Soldier | 22460 | [22460-iron-soldier.json](./22460-iron-soldier.json) |
+| Iron Works | 383350 | [383350-iron-works.json](./383350-iron-works.json) |
 | Ironborne | 391038 | [391038-ironborne.json](./391038-ironborne.json) |
 | Ironclads 2: Caroline Islands War 1885 | 51941 | [51941-ironclads-2-caroline-islands-war-1885.json](./51941-ironclads-2-caroline-islands-war-1885.json) |
 | IronFall: Invasion | 8610 | [8610-ironfall-invasion.json](./8610-ironfall-invasion.json) |
