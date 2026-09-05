@@ -1359,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Run 3 | 57120 | [57120-fun-run-3.json](./57120-fun-run-3.json) |
 | Fun! Fun! Pingu | 61678 | [61678-fun-fun-pingu.json](./61678-fun-fun-pingu.json) |
 | Funbag Fantasy: Sideboob Story | 127949 | [127949-funbag-fantasy-sideboob-story.json](./127949-funbag-fantasy-sideboob-story.json) |
+| Funeral for the Sun | 385063 | [385063-funeral-for-the-sun.json](./385063-funeral-for-the-sun.json) |
 | Funfair Billionaire | 334493 | [334493-funfair-billionaire.json](./334493-funfair-billionaire.json) |
 | Fungal Colony Simulator | 257690 | [257690-fungal-colony-simulator.json](./257690-fungal-colony-simulator.json) |
 | FungEye | 291235 | [291235-fungeye.json](./291235-fungeye.json) |
