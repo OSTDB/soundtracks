@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Weichensteller: Odyssey Live | 309108 | [309108-der-weichensteller-odyssey-live.json](./309108-der-weichensteller-odyssey-live.json) |
 | Derby Life: Ranch & Race | 415104 | [415104-derby-life-ranch-and-race.json](./415104-derby-life-ranch-and-race.json) |
 | Derby Stallion 04 | 123048 | [123048-derby-stallion-04.json](./123048-derby-stallion-04.json) |
+| Derby Stallion 2 | 405468 | [405468-derby-stallion-2.json](./405468-derby-stallion-2.json) |
 | Derby Stallion 96 Taiou: Shuboba Data | 234888 | [234888-derby-stallion-96-taiou-shuboba-data.json](./234888-derby-stallion-96-taiou-shuboba-data.json) |
 | Derby Stallion 96: 97 Nendo-ban | 234889 | [234889-derby-stallion-96-97-nendo-ban.json](./234889-derby-stallion-96-97-nendo-ban.json) |
 | Derby Stallion 99 | 123047 | [123047-derby-stallion-99.json](./123047-derby-stallion-99.json) |
@@ -965,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discrete Orange | 312348 | [312348-discrete-orange.json](./312348-discrete-orange.json) |
 | Discworld | 8291 | [8291-discworld.json](./8291-discworld.json) |
 | Discworld II: Mortality Bytes! | 8292 | [8292-discworld-ii-mortality-bytes.json](./8292-discworld-ii-mortality-bytes.json) |
+| disfact Game Pack 1 | 405533 | [405533-disfact-game-pack-1.json](./405533-disfact-game-pack-1.json) |
 | Disgaea 4 Complete+: A Promise of Sardines Edition | 205262 | [205262-disgaea-4-complete-a-promise-of-sardines-edition.json](./205262-disgaea-4-complete-a-promise-of-sardines-edition.json) |
 | Disgaea 6 Complete | 191497 | [191497-disgaea-6-complete.json](./191497-disgaea-6-complete.json) |
 | Disgaea 7: Vows of the Virtueless | 214530 | [214530-disgaea-7-vows-of-the-virtueless.json](./214530-disgaea-7-vows-of-the-virtueless.json) |
