@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damn Love | 402274 | [402274-damn-love.json](./402274-damn-love.json) |
 | Damnation City of Death | 35837 | [35837-damnation-city-of-death.json](./35837-damnation-city-of-death.json) |
 | Damned Hand: Arcade Mode | 171069 | [171069-damned-hand-arcade-mode.json](./171069-damned-hand-arcade-mode.json) |
+| Damon and Baby: Deluxe Edition | 390527 | [390527-damon-and-baby-deluxe-edition.json](./390527-damon-and-baby-deluxe-edition.json) |
 | Dan Dare: Pilot of the Future | 12989 | [12989-dan-dare-pilot-of-the-future.json](./12989-dan-dare-pilot-of-the-future.json) |
 | Dan Marino's Powerplay Football | 408059 | [408059-dan-marinos-powerplay-football.json](./408059-dan-marinos-powerplay-football.json) |
 | Dan Vs. This Game | 63879 | [63879-dan-vs-this-game.json](./63879-dan-vs-this-game.json) |
@@ -884,6 +885,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Fortune | 56488 | [56488-digimon-fortune.json](./56488-digimon-fortune.json) |
 | Digimon Masters Online | 25791 | [25791-digimon-masters-online.json](./25791-digimon-masters-online.json) |
 | Digimon Story Cyber Sleuth: Complete Edition | 120551 | [120551-digimon-story-cyber-sleuth-complete-edition.json](./120551-digimon-story-cyber-sleuth-complete-edition.json) |
+| Digimon Story Time Stranger: Deluxe Edition | 390528 | [390528-digimon-story-time-stranger-deluxe-edition.json](./390528-digimon-story-time-stranger-deluxe-edition.json) |
+| Digimon Story Time Stranger: Ultimate Edition | 390529 | [390529-digimon-story-time-stranger-ultimate-edition.json](./390529-digimon-story-time-stranger-ultimate-edition.json) |
 | Digimon Story: Lost Evolution | 67307 | [67307-digimon-story-lost-evolution.json](./67307-digimon-story-lost-evolution.json) |
 | Digimon Super Rumble | 202964 | [202964-digimon-super-rumble.json](./202964-digimon-super-rumble.json) |
 | Digimon Up | 395561 | [395561-digimon-up.json](./395561-digimon-up.json) |
@@ -1280,6 +1283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Konga 1+2 Pack | 329370 | [329370-donkey-konga-1-2-pack.json](./329370-donkey-konga-1-2-pack.json) |
 | Donkey Konga Beat | 231646 | [231646-donkey-konga-beat.json](./231646-donkey-konga-beat.json) |
 | Donkey Konk | 231608 | [231608-donkey-konk.json](./231608-donkey-konk.json) |
+| Donnie's Delicious Nuclear Funeral | 390521 | [390521-donnies-delicious-nuclear-funeral.json](./390521-donnies-delicious-nuclear-funeral.json) |
 | Dontbegrey | 51965 | [51965-dontbegrey.json](./51965-dontbegrey.json) |
 | Donut Drop by ABCya | 96075 | [96075-donut-drop-by-abcya.json](./96075-donut-drop-by-abcya.json) |
 | Donut Maker | 232179 | [232179-donut-maker.json](./232179-donut-maker.json) |
