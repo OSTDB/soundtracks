@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Lands | 39655 | [39655-bad-lands.json](./39655-bad-lands.json) |
 | Bad Mojo | 604 | [604-bad-mojo.json](./604-bad-mojo.json) |
 | Bad Mojo: Redux | 10020 | [10020-bad-mojo-redux.json](./10020-bad-mojo-redux.json) |
+| Bad Pad | 31579 | [31579-bad-pad.json](./31579-bad-pad.json) |
 | Bad Way | 189204 | [189204-bad-way.json](./189204-bad-way.json) |
 | Bad Weekend | 273135 | [273135-bad-weekend.json](./273135-bad-weekend.json) |
 | Bada Space Station | 146355 | [146355-bada-space-station.json](./146355-bada-space-station.json) |
@@ -178,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballpoint Universe: Infinite | 16770 | [16770-ballpoint-universe-infinite.json](./16770-ballpoint-universe-infinite.json) |
 | BallRoll | 189184 | [189184-ballroll.json](./189184-ballroll.json) |
 | Balls Rolling-Plumber, Slither, Line, Fill & Fun! | 108486 | [108486-balls-rolling-plumber-slither-line-fill-and-fun.json](./108486-balls-rolling-plumber-slither-line-fill-and-fun.json) |
+| Balls! Virtual Reality Cricket | 31580 | [31580-balls-virtual-reality-cricket.json](./31580-balls-virtual-reality-cricket.json) |
 | Bally Hoo | 91436 | [91436-bally-hoo.json](./91436-bally-hoo.json) |
 | Baloo and the Big Blue | 296066 | [296066-baloo-and-the-big-blue.json](./296066-baloo-and-the-big-blue.json) |
 | Balrog | 166781 | [166781-balrog.json](./166781-balrog.json) |
@@ -1397,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Club: Ultimate Fighting | 108469 | [108469-boxing-club-ultimate-fighting.json](./108469-boxing-club-ultimate-fighting.json) |
 | Boxing Gym Story | 174339 | [174339-boxing-gym-story.json](./174339-boxing-gym-story.json) |
 | Boxing Legends of the Ring | 38366 | [38366-boxing-legends-of-the-ring.json](./38366-boxing-legends-of-the-ring.json) |
+| Boxing Saga | 31364 | [31364-boxing-saga.json](./31364-boxing-saga.json) |
 | Boxing School | 110119 | [110119-boxing-school.json](./110119-boxing-school.json) |
 | BoxLoop | 207542 | [207542-boxloop.json](./207542-boxloop.json) |
 | BoxRunner | 107901 | [107901-boxrunner.json](./107901-boxrunner.json) |
@@ -1701,6 +1704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulletnico | 334497 | [334497-bulletnico.json](./334497-bulletnico.json) |
 | Bulletrooms | 309692 | [309692-bulletrooms.json](./309692-bulletrooms.json) |
 | Bullets & Brains | 261552 | [261552-bullets-and-brains.json](./261552-bullets-and-brains.json) |
+| Bullets and More VR: BAM VR | 31401 | [31401-bullets-and-more-vr-bam-vr.json](./31401-bullets-and-more-vr-bam-vr.json) |
 | Bullets in the Space | 106626 | [106626-bullets-in-the-space.json](./106626-bullets-in-the-space.json) |
 | Bulletstorm: Limited Edition | 46640 | [46640-bulletstorm-limited-edition.json](./46640-bulletstorm-limited-edition.json) |
 | Bullfight Ring no Hasha | 59428 | [59428-bullfight-ring-no-hasha.json](./59428-bullfight-ring-no-hasha.json) |
