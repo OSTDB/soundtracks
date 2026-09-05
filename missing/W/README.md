@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Space Marine - Iron Hands Chapter Pack | 225871 | [225871-warhammer-40-000-space-marine-iron-hands-chapter-pack.json](./225871-warhammer-40-000-space-marine-iron-hands-chapter-pack.json) |
 | Warhammer 40,000: Space Marine - Master Crafted Edition | 344681 | [344681-warhammer-40-000-space-marine-master-crafted-edition.json](./344681-warhammer-40-000-space-marine-master-crafted-edition.json) |
 | Warhammer 40,000: Space Marine - Traitor Legions Pack | 225869 | [225869-warhammer-40-000-space-marine-traitor-legions-pack.json](./225869-warhammer-40-000-space-marine-traitor-legions-pack.json) |
+| Warhammer 40,000: Space Marine II - Space Wolves Chapter Pack | 370094 | [370094-warhammer-40-000-space-marine-ii-space-wolves-chapter-pack.json](./370094-warhammer-40-000-space-marine-ii-space-wolves-chapter-pack.json) |
 | Warhammer 40,000: Space Wolf - Sentry Gun Pack | 156170 | [156170-warhammer-40-000-space-wolf-sentry-gun-pack.json](./156170-warhammer-40-000-space-wolf-sentry-gun-pack.json) |
 | Warhammer Quest: Silver Tower | 151194 | [151194-warhammer-quest-silver-tower.json](./151194-warhammer-quest-silver-tower.json) |
 | Warhammer: Battle for Atluma | 28882 | [28882-warhammer-battle-for-atluma.json](./28882-warhammer-battle-for-atluma.json) |
@@ -458,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whisker Waters | 266497 | [266497-whisker-waters.json](./266497-whisker-waters.json) |
 | Whiskered Away | 196888 | [196888-whiskered-away.json](./196888-whiskered-away.json) |
 | Whiskers in the Dark | 309131 | [309131-whiskers-in-the-dark.json](./309131-whiskers-in-the-dark.json) |
+| Whiskers on Time's Corner | 370098 | [370098-whiskers-on-times-corner.json](./370098-whiskers-on-times-corner.json) |
 | Whiskers Warehouse | 385068 | [385068-whiskers-warehouse.json](./385068-whiskers-warehouse.json) |
 | Whiskers Wonderland | 306092 | [306092-whiskers-wonderland.json](./306092-whiskers-wonderland.json) |
 | Whiskey Bravo | 189174 | [189174-whiskey-bravo.json](./189174-whiskey-bravo.json) |
