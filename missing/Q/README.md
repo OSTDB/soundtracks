@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadremor | 235977 | [235977-quadremor.json](./235977-quadremor.json) |
 | Quadrivium: Paths of History | 341317 | [341317-quadrivium-paths-of-history.json](./341317-quadrivium-paths-of-history.json) |
 | Quadruzzle | 270944 | [270944-quadruzzle.json](./270944-quadruzzle.json) |
+| Quadulo | 371266 | [371266-quadulo.json](./371266-quadulo.json) |
 | Quake | 332258 | [332258-quake.json](./332258-quake.json) |
 | Quake 1.5 | 117771 | [117771-quake-1-5.json](./117771-quake-1-5.json) |
 | Quake 4 | 356 | [356-quake-4.json](./356-quake-4.json) |
