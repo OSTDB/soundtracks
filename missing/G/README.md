@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomonic | 219797 | [219797-gnomonic.json](./219797-gnomonic.json) |
 | Gnosis | 201292 | [201292-gnosis.json](./201292-gnosis.json) |
 | Gnosis | 292284 | [292284-gnosis.json](./292284-gnosis.json) |
+| Gnubbl | 370720 | [370720-gnubbl.json](./370720-gnubbl.json) |
 | Go | 13722 | [13722-go.json](./13722-go.json) |
 | Go Ape Ship! | 376467 | [376467-go-ape-ship.json](./376467-go-ape-ship.json) |
 | Go Big | 394220 | [394220-go-big.json](./394220-go-big.json) |
@@ -976,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gregory's Epic Adventure | 229362 | [229362-gregorys-epic-adventure.json](./229362-gregorys-epic-adventure.json) |
 | Gremlins Gizmo | 50623 | [50623-gremlins-gizmo.json](./50623-gremlins-gizmo.json) |
 | Grems | 386710 | [386710-grems.json](./386710-grems.json) |
+| Grendel's Revenge | 370678 | [370678-grendels-revenge.json](./370678-grendels-revenge.json) |
 | Grenouilles 3D | 401550 | [401550-grenouilles-3d.json](./401550-grenouilles-3d.json) |
 | Gretel: The Lost Tale | 323501 | [323501-gretel-the-lost-tale.json](./323501-gretel-the-lost-tale.json) |
 | Grey Bones | 164505 | [164505-grey-bones.json](./164505-grey-bones.json) |
