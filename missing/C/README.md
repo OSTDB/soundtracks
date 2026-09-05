@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cantrip Cafe | 113692 | [113692-cantrip-cafe.json](./113692-cantrip-cafe.json) |
 | Canvas of Thoughts | 399590 | [399590-canvas-of-thoughts.json](./399590-canvas-of-thoughts.json) |
 | CanvasCraft | 332241 | [332241-canvascraft.json](./332241-canvascraft.json) |
+| Caparace | 383966 | [383966-caparace.json](./383966-caparace.json) |
 | Capcom Arcade Stadium: Battle Circuit | 234302 | [234302-capcom-arcade-stadium-battle-circuit.json](./234302-capcom-arcade-stadium-battle-circuit.json) |
 | Capcom Arcade Stadium: Dynasty Wars | 150654 | [150654-capcom-arcade-stadium-dynasty-wars.json](./150654-capcom-arcade-stadium-dynasty-wars.json) |
 | Capcom Arcade Stadium: Ghosts 'n Goblins | 173796 | [173796-capcom-arcade-stadium-ghosts-n-goblins.json](./173796-capcom-arcade-stadium-ghosts-n-goblins.json) |
@@ -516,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Trails | 322975 | [322975-celestial-trails.json](./322975-celestial-trails.json) |
 | Cell Command | 323507 | [323507-cell-command.json](./323507-cell-command.json) |
 | Cell of Empireo | 175966 | [175966-cell-of-empireo.json](./175966-cell-of-empireo.json) |
+| Cellbreak | 383956 | [383956-cellbreak.json](./383956-cellbreak.json) |
 | Celldom Classic | 404823 | [404823-celldom-classic.json](./404823-celldom-classic.json) |
 | Cellings | 190202 | [190202-cellings.json](./190202-cellings.json) |
 | Celted | 176478 | [176478-celted.json](./176478-celted.json) |
@@ -1616,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crane Game Simulator | 224747 | [224747-crane-game-simulator.json](./224747-crane-game-simulator.json) |
 | Cranes | 99642 | [99642-cranes.json](./99642-cranes.json) |
 | Crank | 331113 | [331113-crank.json](./331113-crank.json) |
+| Crank Sudoku | 383965 | [383965-crank-sudoku.json](./383965-crank-sudoku.json) |
 | Cranks Playdate Baseball | 273673 | [273673-cranks-playdate-baseball.json](./273673-cranks-playdate-baseball.json) |
 | Cranky Cat | 16514 | [16514-cranky-cat.json](./16514-cranky-cat.json) |
 | Crapette | 332253 | [332253-crapette.json](./332253-crapette.json) |
@@ -2013,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Travels: The Shattered Labyrinth | 179718 | [179718-cursed-travels-the-shattered-labyrinth.json](./179718-cursed-travels-the-shattered-labyrinth.json) |
 | Cursed Treasure: Don't Touch My Gems! | 141844 | [141844-cursed-treasure-dont-touch-my-gems.json](./141844-cursed-treasure-dont-touch-my-gems.json) |
 | Cursor Challenge | 33120 | [33120-cursor-challenge.json](./33120-cursor-challenge.json) |
+| Cururu: Whispers of the Forest | 383951 | [383951-cururu-whispers-of-the-forest.json](./383951-cururu-whispers-of-the-forest.json) |
 | Custer's Revenge | 8529 | [8529-custers-revenge.json](./8529-custers-revenge.json) |
 | Custer's Revenge in Gensoukyou | 98448 | [98448-custers-revenge-in-gensoukyou.json](./98448-custers-revenge-in-gensoukyou.json) |
 | Custodial | 179742 | [179742-custodial.json](./179742-custodial.json) |
