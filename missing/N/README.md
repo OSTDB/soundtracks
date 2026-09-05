@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neath | 380409 | [380409-neath.json](./380409-neath.json) |
 | Nebuchadnezzar | 126806 | [126806-nebuchadnezzar.json](./126806-nebuchadnezzar.json) |
 | Nebula | 197412 | [197412-nebula.json](./197412-nebula.json) |
+| Nebula Cleanup Crew | 373520 | [373520-nebula-cleanup-crew.json](./373520-nebula-cleanup-crew.json) |
 | NebuLeet | 304884 | [304884-nebuleet.json](./304884-nebuleet.json) |
 | Nebuli | 157720 | [157720-nebuli.json](./157720-nebuli.json) |
 | Necessary Bimbos | 185699 | [185699-necessary-bimbos.json](./185699-necessary-bimbos.json) |
@@ -344,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeptuneGL | 83563 | [83563-neptunegl.json](./83563-neptunegl.json) |
 | Neptunia: Virtual Stars - VIP Edition | 186890 | [186890-neptunia-virtual-stars-vip-edition.json](./186890-neptunia-virtual-stars-vip-edition.json) |
 | Nerds & Ammo | 391585 | [391585-nerds-and-ammo.json](./391585-nerds-and-ammo.json) |
+| Nerds Rope: Follow the Leader Game | 373535 | [373535-nerds-rope-follow-the-leader-game.json](./373535-nerds-rope-follow-the-leader-game.json) |
 | Nessie | 64442 | [64442-nessie.json](./64442-nessie.json) |
 | Nessy the... Robot | 237044 | [237044-nessy-the-robot.json](./237044-nessy-the-robot.json) |
 | Nestables | 134029 | [134029-nestables.json](./134029-nestables.json) |
