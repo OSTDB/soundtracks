@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout: New Vegas - Lonesome Road | 10307 | [10307-fallout-new-vegas-lonesome-road.json](./10307-fallout-new-vegas-lonesome-road.json) |
 | Falnarion Tactics: Oathbreaker | 158730 | [158730-falnarion-tactics-oathbreaker.json](./158730-falnarion-tactics-oathbreaker.json) |
 | Falseflash | 401497 | [401497-falseflash.json](./401497-falseflash.json) |
+| Fame or Folly | 394181 | [394181-fame-or-folly.json](./394181-fame-or-folly.json) |
 | Famicom Mukashibanashi: Shin Onigashima - Kouhen | 41418 | [41418-famicom-mukashibanashi-shin-onigashima-kouhen.json](./41418-famicom-mukashibanashi-shin-onigashima-kouhen.json) |
 | Famicom Mukashibanashi: Shin Onigashima - Zenpen | 41417 | [41417-famicom-mukashibanashi-shin-onigashima-zenpen.json](./41417-famicom-mukashibanashi-shin-onigashima-zenpen.json) |
 | Famicom Shogi: Ryuu-Ou-Sen | 48713 | [48713-famicom-shogi-ryuu-ou-sen.json](./48713-famicom-shogi-ryuu-ou-sen.json) |
@@ -1329,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fullmetal Alchemist: To the Promised Day | 62757 | [62757-fullmetal-alchemist-to-the-promised-day.json](./62757-fullmetal-alchemist-to-the-promised-day.json) |
 | Fúlóng: Tiānyuán Jìnglèi | 124214 | [124214-fulong-tianyuan-jinglei.json](./124214-fulong-tianyuan-jinglei.json) |
 | Fuman Ghoul | 399007 | [399007-fuman-ghoul.json](./399007-fuman-ghoul.json) |
+| Fun Park Simulator | 394165 | [394165-fun-park-simulator.json](./394165-fun-park-simulator.json) |
 | Fun Run 3 | 57120 | [57120-fun-run-3.json](./57120-fun-run-3.json) |
 | Fun! Fun! Pingu | 61678 | [61678-fun-fun-pingu.json](./61678-fun-fun-pingu.json) |
 | Funbag Fantasy: Sideboob Story | 127949 | [127949-funbag-fantasy-sideboob-story.json](./127949-funbag-fantasy-sideboob-story.json) |
