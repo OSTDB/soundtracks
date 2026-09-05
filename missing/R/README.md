@@ -639,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resthedex | 151175 | [151175-resthedex.json](./151175-resthedex.json) |
 | Restless Voronezh | 267058 | [267058-restless-voronezh.json](./267058-restless-voronezh.json) |
 | Restock | 316414 | [316414-restock.json](./316414-restock.json) |
+| Restore | 397658 | [397658-restore.json](./397658-restore.json) |
 | Restoring Falmay | 326979 | [326979-restoring-falmay.json](./326979-restoring-falmay.json) |
 | Resurface | 406681 | [406681-resurface.json](./406681-resurface.json) |
 | Resurgent | 177565 | [177565-resurgent.json](./177565-resurgent.json) |
@@ -902,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rittai-ban: Yuugeki-oh | 333952 | [333952-rittai-ban-yuugeki-oh.json](./333952-rittai-ban-yuugeki-oh.json) |
 | Ritual | 302707 | [302707-ritual.json](./302707-ritual.json) |
 | Ritual of Raven | 281390 | [281390-ritual-of-raven.json](./281390-ritual-of-raven.json) |
+| Ritual Static | 397655 | [397655-ritual-static.json](./397655-ritual-static.json) |
 | Ritualistic Madness | 117719 | [117719-ritualistic-madness.json](./117719-ritualistic-madness.json) |
 | Rival Fury | 188648 | [188648-rival-fury.json](./188648-rival-fury.json) |
 | Rival Kingdoms | 126044 | [126044-rival-kingdoms.json](./126044-rival-kingdoms.json) |
