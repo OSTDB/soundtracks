@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Absence of Miriam Lane | 219792 | [219792-the-absence-of-miriam-lane.json](./219792-the-absence-of-miriam-lane.json) |
 | The Abyss Has Walls | 195760 | [195760-the-abyss-has-walls.json](./195760-the-abyss-has-walls.json) |
 | The Abyssal Zone | 12246 | [12246-the-abyssal-zone.json](./12246-the-abyssal-zone.json) |
+| The Acorn Protocol | 408036 | [408036-the-acorn-protocol.json](./408036-the-acorn-protocol.json) |
 | The Act | 64990 | [64990-the-act.json](./64990-the-act.json) |
 | The Adjudicator | 145697 | [145697-the-adjudicator.json](./145697-the-adjudicator.json) |
 | The Adventure Pals | 22359 | [22359-the-adventure-pals.json](./22359-the-adventure-pals.json) |
@@ -1899,6 +1900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unachievable Game | 205232 | [205232-the-unachievable-game.json](./205232-the-unachievable-game.json) |
 | The Uncanny X-Men | 48050 | [48050-the-uncanny-x-men.json](./48050-the-uncanny-x-men.json) |
 | The Unclogging: An Unsanitary Saga | 51979 | [51979-the-unclogging-an-unsanitary-saga.json](./51979-the-unclogging-an-unsanitary-saga.json) |
+| The UNDA Legacy | 408073 | [408073-the-unda-legacy.json](./408073-the-unda-legacy.json) |
 | The Undying Plague | 35759 | [35759-the-undying-plague.json](./35759-the-undying-plague.json) |
 | The Unfettered | 223163 | [223163-the-unfettered.json](./223163-the-unfettered.json) |
 | The Unsettled | 199665 | [199665-the-unsettled.json](./199665-the-unsettled.json) |
@@ -2942,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Simulator 2009: Settle and Carlisle | 27898 | [27898-trainz-simulator-2009-settle-and-carlisle.json](./27898-trainz-simulator-2009-settle-and-carlisle.json) |
 | Trainz Simulator 2009: World Builder Edition | 11016 | [11016-trainz-simulator-2009-world-builder-edition.json](./11016-trainz-simulator-2009-world-builder-edition.json) |
 | Trainz Simulator 2010: Engineers Edition | 11017 | [11017-trainz-simulator-2010-engineers-edition.json](./11017-trainz-simulator-2010-engineers-edition.json) |
+| Trainz Simulator World Tour | 408040 | [408040-trainz-simulator-world-tour.json](./408040-trainz-simulator-world-tour.json) |
 | Trainz Simulator: Classic Cabon City | 11021 | [11021-trainz-simulator-classic-cabon-city.json](./11021-trainz-simulator-classic-cabon-city.json) |
 | Trainz: A New Era - Aerotrain | 156169 | [156169-trainz-a-new-era-aerotrain.json](./156169-trainz-a-new-era-aerotrain.json) |
 | Trainz: Classic Cabon City | 27895 | [27895-trainz-classic-cabon-city.json](./27895-trainz-classic-cabon-city.json) |
