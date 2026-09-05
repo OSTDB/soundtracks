@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Trainer | 400869 | [400869-card-trainer.json](./400869-card-trainer.json) |
 | Card-en-Ciel | 292835 | [292835-card-en-ciel.json](./292835-card-en-ciel.json) |
 | Card&Casino | 399617 | [399617-card-and-casino.json](./399617-card-and-casino.json) |
+| Cardboard Cowboy | 398367 | [398367-cardboard-cowboy.json](./398367-cardboard-cowboy.json) |
 | Cardboard Football Club | 233206 | [233206-cardboard-football-club.json](./233206-cardboard-football-club.json) |
 | Cardfight!! Vanguard EX | 115018 | [115018-cardfight-vanguard-ex.json](./115018-cardfight-vanguard-ex.json) |
 | Cardfight!! Vanguard: Dear Days - Additional Special Set | 301017 | [301017-cardfight-vanguard-dear-days-additional-special-set.json](./301017-cardfight-vanguard-dear-days-additional-special-set.json) |
@@ -528,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Champs | 177011 | [177011-chain-champs.json](./177011-chain-champs.json) |
 | Chain Shot | 64438 | [64438-chain-shot.json](./64438-chain-shot.json) |
 | Chain Strike | 96546 | [96546-chain-strike.json](./96546-chain-strike.json) |
+| Chain-Chillas | 398343 | [398343-chain-chillas.json](./398343-chain-chillas.json) |
 | Chainsaw Juice King | 321143 | [321143-chainsaw-juice-king.json](./321143-chainsaw-juice-king.json) |
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
@@ -795,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromatic Fantasia EX | 98442 | [98442-chromatic-fantasia-ex.json](./98442-chromatic-fantasia-ex.json) |
 | Chromatic Souls | 200734 | [200734-chromatic-souls.json](./200734-chromatic-souls.json) |
 | Chromb | 316398 | [316398-chromb.json](./316398-chromb.json) |
+| Chrome Carnage | 398345 | [398345-chrome-carnage.json](./398345-chrome-carnage.json) |
 | Chrome Death | 259247 | [259247-chrome-death.json](./259247-chrome-death.json) |
 | Chronautical | 253598 | [253598-chronautical.json](./253598-chronautical.json) |
 | Chronicle of Ekan | 169980 | [169980-chronicle-of-ekan.json](./169980-chronicle-of-ekan.json) |
@@ -1387,6 +1390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Forts Prevail | 176472 | [176472-cool-forts-prevail.json](./176472-cool-forts-prevail.json) |
 | Cool Game Pack | 409563 | [409563-cool-game-pack.json](./409563-cool-game-pack.json) |
 | Cool Spot | 2621 | [2621-cool-spot.json](./2621-cool-spot.json) |
+| Cool Thief Guy | 398316 | [398316-cool-thief-guy.json](./398316-cool-thief-guy.json) |
 | Coop Catacombs | 293895 | [293895-coop-catacombs.json](./293895-coop-catacombs.json) |
 | Coop Tank War | 111008 | [111008-coop-tank-war.json](./111008-coop-tank-war.json) |
 | Cop Duty Police Car Simulator | 102761 | [102761-cop-duty-police-car-simulator.json](./102761-cop-duty-police-car-simulator.json) |
@@ -1435,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corruption: Political Simulator Strategy | 271476 | [271476-corruption-political-simulator-strategy.json](./271476-corruption-political-simulator-strategy.json) |
 | Corsairs: Conquest at Sea | 10107 | [10107-corsairs-conquest-at-sea.json](./10107-corsairs-conquest-at-sea.json) |
 | Corsairs: The New Conquerors | 11048 | [11048-corsairs-the-new-conquerors.json](./11048-corsairs-the-new-conquerors.json) |
+| Corvax | 398314 | [398314-corvax.json](./398314-corvax.json) |
 | Corvian Curse | 269852 | [269852-corvian-curse.json](./269852-corvian-curse.json) |
 | Cos-tte! Aki-san! vol.2 | 98460 | [98460-cos-tte-aki-san-vol-2.json](./98460-cos-tte-aki-san-vol-2.json) |
 | Cosmetic Paradise: Kirei no Mahou | 130393 | [130393-cosmetic-paradise-kirei-no-mahou.json](./130393-cosmetic-paradise-kirei-no-mahou.json) |
@@ -1544,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrabMania | 267665 | [267665-crabmania.json](./267665-crabmania.json) |
 | Crack a Bottle | 87220 | [87220-crack-a-bottle.json](./87220-crack-a-bottle.json) |
 | Crack it! | 278708 | [278708-crack-it.json](./278708-crack-it.json) |
+| Crack Mountain | 398319 | [398319-crack-mountain.json](./398319-crack-mountain.json) |
 | Crackdown 2 | 2897 | [2897-crackdown-2.json](./2897-crackdown-2.json) |
 | Cracked | 265432 | [265432-cracked.json](./265432-cracked.json) |
 | Cracking the Cryptic | 211958 | [211958-cracking-the-cryptic.json](./211958-cracking-the-cryptic.json) |
