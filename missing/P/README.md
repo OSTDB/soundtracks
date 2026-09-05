@@ -128,6 +128,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pang: Magical Michael | 66524 | [66524-pang-magical-michael.json](./66524-pang-magical-michael.json) |
 | Pango Build City | 89761 | [89761-pango-build-city.json](./89761-pango-build-city.json) |
 | Pango Hide and seek | 90706 | [90706-pango-hide-and-seek.json](./90706-pango-hide-and-seek.json) |
+| Pangolin Love: Day 1 - Ghana | 375812 | [375812-pangolin-love-day-1-ghana.json](./375812-pangolin-love-day-1-ghana.json) |
+| Pangolin Love: Day 2 - India | 375813 | [375813-pangolin-love-day-2-india.json](./375813-pangolin-love-day-2-india.json) |
+| Pangolin Love: Day 3 - China | 375814 | [375814-pangolin-love-day-3-china.json](./375814-pangolin-love-day-3-china.json) |
+| Pangolin Love: Day 4 - The Philippines | 375815 | [375815-pangolin-love-day-4-the-philippines.json](./375815-pangolin-love-day-4-the-philippines.json) |
 | Panic 64 | 130373 | [130373-panic-64.json](./130373-panic-64.json) |
 | Panic Ball! | 315841 | [315841-panic-ball.json](./315841-panic-ball.json) |
 | Panic Crisis Mage Attack | 128636 | [128636-panic-crisis-mage-attack.json](./128636-panic-crisis-mage-attack.json) |
@@ -759,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pineford: Part I | 302120 | [302120-pineford-part-i.json](./302120-pineford-part-i.json) |
 | Ping | 90641 | [90641-ping.json](./90641-ping.json) |
 | Ping & Pong | 400909 | [400909-ping-and-pong.json](./400909-ping-and-pong.json) |
+| Ping Of Death: Odyssey Live | 375862 | [375862-ping-of-death-odyssey-live.json](./375862-ping-of-death-odyssey-live.json) |
 | Ping Pong Space | 130965 | [130965-ping-pong-space.json](./130965-ping-pong-space.json) |
 | Ping Pong Trick Shot Evolution | 115059 | [115059-ping-pong-trick-shot-evolution.json](./115059-ping-pong-trick-shot-evolution.json) |
 | Ping Redux | 119797 | [119797-ping-redux.json](./119797-ping-redux.json) |
@@ -1268,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopIdle | 294461 | [294461-popidle.json](./294461-popidle.json) |
 | Popil | 264314 | [264314-popil.json](./264314-popil.json) |
 | PoPoRoGue | 79937 | [79937-poporogue.json](./79937-poporogue.json) |
+| Poppy Playtime Toybox Bundle 1 | 375863 | [375863-poppy-playtime-toybox-bundle-1.json](./375863-poppy-playtime-toybox-bundle-1.json) |
 | Poppy Sanctum | 396891 | [396891-poppy-sanctum.json](./396891-poppy-sanctum.json) |
 | Popscene (Backstage Pass) | 91988 | [91988-popscene-backstage-pass.json](./91988-popscene-backstage-pass.json) |
 | PopSlinger vol. 2: Loveless | 319397 | [319397-popslinger-vol-2-loveless.json](./319397-popslinger-vol-2-loveless.json) |
@@ -1716,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puckit! | 380448 | [380448-puckit.json](./380448-puckit.json) |
 | Puckman | 47280 | [47280-puckman.json](./47280-puckman.json) |
 | Puda + The Kid | 263198 | [263198-puda-the-kid.json](./263198-puda-the-kid.json) |
+| Pudding: Lyre Knight | 375851 | [375851-pudding-lyre-knight.json](./375851-pudding-lyre-knight.json) |
 | Puddle | 377567 | [377567-puddle.json](./377567-puddle.json) |
 | Puffins: Island Adventure | 68030 | [68030-puffins-island-adventure.json](./68030-puffins-island-adventure.json) |
 | Puffins: Let's Roll | 66695 | [66695-puffins-lets-roll.json](./66695-puffins-lets-roll.json) |
@@ -1789,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push the Circles Extreme | 96036 | [96036-push-the-circles-extreme.json](./96036-push-the-circles-extreme.json) |
 | Push the Crate | 147991 | [147991-push-the-crate.json](./147991-push-the-crate.json) |
 | Push the Sheep | 193463 | [193463-push-the-sheep.json](./193463-push-the-sheep.json) |
+| Push the square | 375846 | [375846-push-the-square.json](./375846-push-the-square.json) |
 | Push The Squares | 262076 | [262076-push-the-squares.json](./262076-push-the-squares.json) |
 | Pussies Wrestling Dicks | 211928 | [211928-pussies-wrestling-dicks.json](./211928-pussies-wrestling-dicks.json) |
 | Puszka Pandory | 93586 | [93586-puszka-pandory.json](./93586-puszka-pandory.json) |
