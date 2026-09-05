@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feudalism II | 234915 | [234915-feudalism-ii.json](./234915-feudalism-ii.json) |
 | Fey: Distant Daydream | 189201 | [189201-fey-distant-daydream.json](./189201-fey-distant-daydream.json) |
 | Fez II | 63291 | [63291-fez-ii.json](./63291-fez-ii.json) |
+| Fez Pocket Edition | 78543 | [78543-fez-pocket-edition.json](./78543-fez-pocket-edition.json) |
 | FF Link | 311806 | [311806-ff-link.json](./311806-ff-link.json) |
 | FF56! | 93054 | [93054-ff56.json](./93054-ff56.json) |
 | FFF | 219303 | [219303-fff.json](./219303-fff.json) |
@@ -1317,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Shock | 13718 | [13718-future-shock.json](./13718-future-shock.json) |
 | Future Tanks Area | 193507 | [193507-future-tanks-area.json](./193507-future-tanks-area.json) |
 | Future Theater | 251842 | [251842-future-theater.json](./251842-future-theater.json) |
+| Future War: Reborn | 78061 | [78061-future-war-reborn.json](./78061-future-war-reborn.json) |
 | Fuu3's Fuun Journey | 265927 | [265927-fuu3s-fuun-journey.json](./265927-fuu3s-fuun-journey.json) |
 | Fuyu no Rondo | 69310 | [69310-fuyu-no-rondo.json](./69310-fuyu-no-rondo.json) |
 | Fuzzy Critters | 104644 | [104644-fuzzy-critters.json](./104644-fuzzy-critters.json) |
