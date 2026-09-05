@@ -1341,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Strength Strongman Competition | 62202 | [62202-full-strength-strongman-competition.json](./62202-full-strength-strongman-competition.json) |
 | Full Swing Golf | 299472 | [299472-full-swing-golf.json](./299472-full-swing-golf.json) |
 | Full Throttle | 180 | [180-full-throttle.json](./180-full-throttle.json) |
+| Full Throttle Parking | 388010 | [388010-full-throttle-parking.json](./388010-full-throttle-parking.json) |
 | Full Throttle: Hell on Wheels | 72722 | [72722-full-throttle-hell-on-wheels.json](./72722-full-throttle-hell-on-wheels.json) |
 | Full Voice Throttle | 181352 | [181352-full-voice-throttle.json](./181352-full-voice-throttle.json) |
 | Fullmetal Alchemist: To the Promised Day | 62757 | [62757-fullmetal-alchemist-to-the-promised-day.json](./62757-fullmetal-alchemist-to-the-promised-day.json) |
