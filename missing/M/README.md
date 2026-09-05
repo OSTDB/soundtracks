@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaxControl | 31928 | [31928-maxcontrol.json](./31928-maxcontrol.json) |
 | Maximal Mahjongg | 94235 | [94235-maximal-mahjongg.json](./94235-maximal-mahjongg.json) |
 | Maximo vs. Army of Zin | 43642 | [43642-maximo-vs-army-of-zin.json](./43642-maximo-vs-army-of-zin.json) |
+| Maximum Fighterz: Direct Offensive Action | 369580 | [369580-maximum-fighterz-direct-offensive-action.json](./369580-maximum-fighterz-direct-offensive-action.json) |
 | Maximum Football | 304344 | [304344-maximum-football.json](./304344-maximum-football.json) |
 | Maximum Football | 66690 | [66690-maximum-football.json](./66690-maximum-football.json) |
 | Maximum Racing: Super Truck Racer | 50603 | [50603-maximum-racing-super-truck-racer.json](./50603-maximum-racing-super-truck-racer.json) |
@@ -1245,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Seeker | 89965 | [89965-mine-seeker.json](./89965-mine-seeker.json) |
 | Mine Sweeper | 252359 | [252359-mine-sweeper.json](./252359-mine-sweeper.json) |
 | Mine The Diamond | 245005 | [245005-mine-the-diamond.json](./245005-mine-the-diamond.json) |
+| Mine Upgrade | 369585 | [369585-mine-upgrade.json](./369585-mine-upgrade.json) |
 | MineCart - 3D Mine Cart Game for MineCraft | 86692 | [86692-minecart-3d-mine-cart-game-for-minecraft.json](./86692-minecart-3d-mine-cart-game-for-minecraft.json) |
 | Minecart Madness | 188687 | [188687-minecart-madness.json](./188687-minecart-madness.json) |
 | Minecraft Education | 28407 | [28407-minecraft-education.json](./28407-minecraft-education.json) |
@@ -1335,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MinMe | 241050 | [241050-minme.json](./241050-minme.json) |
 | Minna de Nanpure | 55939 | [55939-minna-de-nanpure.json](./55939-minna-de-nanpure.json) |
 | Minna no Doubutsuen | 69270 | [69270-minna-no-doubutsuen.json](./69270-minna-no-doubutsuen.json) |
+| Minnano Gensokyo Single | 369561 | [369561-minnano-gensokyo-single.json](./369561-minnano-gensokyo-single.json) |
 | Minos | 370704 | [370704-minos.json](./370704-minos.json) |
 | Minos Starfighter VR | 104639 | [104639-minos-starfighter-vr.json](./104639-minos-starfighter-vr.json) |
 | Minos Trials | 392173 | [392173-minos-trials.json](./392173-minos-trials.json) |
