@@ -1165,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milk Me Darling | 385061 | [385061-milk-me-darling.json](./385061-milk-me-darling.json) |
 | Milk Race | 46660 | [46660-milk-race.json](./46660-milk-race.json) |
 | Milkblood | 241031 | [241031-milkblood.json](./241031-milkblood.json) |
+| Milkraid | 382749 | [382749-milkraid.json](./382749-milkraid.json) |
 | Milky Bear Rescue Rocket | 221971 | [221971-milky-bear-rescue-rocket.json](./221971-milky-bear-rescue-rocket.json) |
 | Milky Quest II | 232654 | [232654-milky-quest-ii.json](./232654-milky-quest-ii.json) |
 | Millefiori | 150155 | [150155-millefiori.json](./150155-millefiori.json) |
@@ -1656,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Survivors | 246626 | [246626-monster-survivors.json](./246626-monster-survivors.json) |
 | Monster Sweetie | 232173 | [232173-monster-sweetie.json](./232173-monster-sweetie.json) |
 | Monster Tamer | 190233 | [190233-monster-tamer.json](./190233-monster-tamer.json) |
+| Monster Tavern | 382776 | [382776-monster-tavern.json](./382776-monster-tavern.json) |
 | Monster Truck Madness | 146887 | [146887-monster-truck-madness.json](./146887-monster-truck-madness.json) |
 | Monster Truck Madness 64 | 10615 | [10615-monster-truck-madness-64.json](./10615-monster-truck-madness-64.json) |
 | Monster Truck Montain Offroad | 228105 | [228105-monster-truck-montain-offroad.json](./228105-monster-truck-montain-offroad.json) |
@@ -1672,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters: The Hunter of Darkness | 214198 | [214198-monsters-the-hunter-of-darkness.json](./214198-monsters-the-hunter-of-darkness.json) |
 | MonsterSoft | 138803 | [138803-monstersoft.json](./138803-monstersoft.json) |
 | Monsterthon | 39005 | [39005-monsterthon.json](./39005-monsterthon.json) |
+| Monstro Maestro | 382763 | [382763-monstro-maestro.json](./382763-monstro-maestro.json) |
 | Monstrous Lovers | 148562 | [148562-monstrous-lovers.json](./148562-monstrous-lovers.json) |
 | Monstrum | 10554 | [10554-monstrum.json](./10554-monstrum.json) |
 | Monsty Corp | 164509 | [164509-monsty-corp.json](./164509-monsty-corp.json) |
