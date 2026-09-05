@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 'The | 247183 | [247183-the.json](./247183-the.json) |
 | (A)woken | 307298 | [307298-a-woken.json](./307298-a-woken.json) |
 | (Dis)assemble | 192969 | [192969-dis-assemble.json](./192969-dis-assemble.json) |
+| [Redacted] the Safehouse | 398337 | [398337-redacted-the-safehouse.json](./398337-redacted-the-safehouse.json) |
 | [Speer] | 134672 | [134672-speer.json](./134672-speer.json) |
 | [Stories to Tell]: The Stoneville Incident | 410259 | [410259-stories-to-tell-the-stoneville-incident.json](./410259-stories-to-tell-the-stoneville-incident.json) |
 | @ Home Mate | 22467 | [22467-home-mate.json](./22467-home-mate.json) |
