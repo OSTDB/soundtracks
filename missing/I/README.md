@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Grave Wood | 183599 | [183599-in-the-grave-wood.json](./183599-in-the-grave-wood.json) |
 | In the Intrigue of the Ratings | 145694 | [145694-in-the-intrigue-of-the-ratings.json](./145694-in-the-intrigue-of-the-ratings.json) |
 | In the Line of Fire | 89244 | [89244-in-the-line-of-fire.json](./89244-in-the-line-of-fire.json) |
+| In the Midst of a Neverending Season | 369052 | [369052-in-the-midst-of-a-neverending-season.json](./369052-in-the-midst-of-a-neverending-season.json) |
 | In the Mood | 196848 | [196848-in-the-mood.json](./196848-in-the-mood.json) |
 | In The Night You Had Bad Dreams | 340758 | [340758-in-the-night-you-had-bad-dreams.json](./340758-in-the-night-you-had-bad-dreams.json) |
 | In the Pines | 341875 | [341875-in-the-pines.json](./341875-in-the-pines.json) |
@@ -636,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inzo | 99609 | [99609-inzo.json](./99609-inzo.json) |
 | IonballEX | 92515 | [92515-ionballex.json](./92515-ionballex.json) |
 | Ippan Mario | 268193 | [268193-ippan-mario.json](./268193-ippan-mario.json) |
+| IPS 13: All Signals Lost | 369012 | [369012-ips-13-all-signals-lost.json](./369012-ips-13-all-signals-lost.json) |
 | IQ Logic Codes: Number & Letter Puzzles | 415062 | [415062-iq-logic-codes-number-and-letter-puzzles.json](./415062-iq-logic-codes-number-and-letter-puzzles.json) |
 | iRagdoll | 90672 | [90672-iragdoll.json](./90672-iragdoll.json) |
 | Iragon | 115664 | [115664-iragon.json](./115664-iragon.json) |
