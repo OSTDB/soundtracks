@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoomerang | 64949 | [64949-zoomerang.json](./64949-zoomerang.json) |
 | ZoomnBoom | 107876 | [107876-zoomnboom.json](./107876-zoomnboom.json) |
 | ZooZooGo! | 64396 | [64396-zoozoogo.json](./64396-zoozoogo.json) |
+| Zoria: Age of Shattering - Ancestors' Weapon Pack | 402944 | [402944-zoria-age-of-shattering-ancestors-weapon-pack.json](./402944-zoria-age-of-shattering-ancestors-weapon-pack.json) |
 | Zorro | 81431 | [81431-zorro.json](./81431-zorro.json) |
 | ZorroMoro | 119796 | [119796-zorromoro.json](./119796-zorromoro.json) |
 | Zorse | 328256 | [328256-zorse.json](./328256-zorse.json) |
