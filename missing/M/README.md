@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Lemon Angel | 42004 | [42004-mahjong-lemon-angel.json](./42004-mahjong-lemon-angel.json) |
 | Mahjong Party Pack | 268203 | [268203-mahjong-party-pack.json](./268203-mahjong-party-pack.json) |
 | Mahjong Trap | 115717 | [115717-mahjong-trap.json](./115717-mahjong-trap.json) |
+| Mahjong Venice Mystery Puzzle | 87715 | [87715-mahjong-venice-mystery-puzzle.json](./87715-mahjong-venice-mystery-puzzle.json) |
 | Mahjong: Wolf's Stories | 177045 | [177045-mahjong-wolfs-stories.json](./177045-mahjong-wolfs-stories.json) |
 | Mahjongg Platinum Evolution Edition | 96762 | [96762-mahjongg-platinum-evolution-edition.json](./96762-mahjongg-platinum-evolution-edition.json) |
 | MahjongSchool | 158226 | [158226-mahjongschool.json](./158226-mahjongschool.json) |
@@ -1875,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Day Challenge | 341348 | [341348-my-day-challenge.json](./341348-my-day-challenge.json) |
 | My Dear Delirium | 341349 | [341349-my-dear-delirium.json](./341349-my-dear-delirium.json) |
 | My Demonic Romance | 243960 | [243960-my-demonic-romance.json](./243960-my-demonic-romance.json) |
+| My Donut Days | 87717 | [87717-my-donut-days.json](./87717-my-donut-days.json) |
 | My Dream Girl | 173841 | [173841-my-dream-girl.json](./173841-my-dream-girl.json) |
 | My Dream Girls | 173836 | [173836-my-dream-girls.json](./173836-my-dream-girls.json) |
 | My Dream Job: How I Survived Job Hunting in Animation | 178684 | [178684-my-dream-job-how-i-survived-job-hunting-in-animation.json](./178684-my-dream-job-how-i-survived-job-hunting-in-animation.json) |
