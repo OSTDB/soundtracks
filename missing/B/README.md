@@ -994,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of Steel | 7788 | [7788-blades-of-steel.json](./7788-blades-of-steel.json) |
 | Blades of Time | 6918 | [6918-blades-of-time.json](./6918-blades-of-time.json) |
 | Blades of Time: Limited Edition | 52656 | [52656-blades-of-time-limited-edition.json](./52656-blades-of-time-limited-edition.json) |
+| Blades of Vharan | 396224 | [396224-blades-of-vharan.json](./396224-blades-of-vharan.json) |
 | Blades, Bows & Magic | 329403 | [329403-blades-bows-and-magic.json](./329403-blades-bows-and-magic.json) |
 | Blair Witch | 119298 | [119298-blair-witch.json](./119298-blair-witch.json) |
 | Blake Strongflank | 182515 | [182515-blake-strongflank.json](./182515-blake-strongflank.json) |
@@ -1207,6 +1208,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Moon | 221990 | [221990-blue-moon.json](./221990-blue-moon.json) |
 | Blue Mushrooms | 277036 | [277036-blue-mushrooms.json](./277036-blue-mushrooms.json) |
 | Blue rabbit a world of shapes and lost colors | 195263 | [195263-blue-rabbit-a-world-of-shapes-and-lost-colors.json](./195263-blue-rabbit-a-world-of-shapes-and-lost-colors.json) |
+| Blue Reflection | 396236 | [396236-blue-reflection.json](./396236-blue-reflection.json) |
+| Blue Reflection Quartet | 396199 | [396199-blue-reflection-quartet.json](./396199-blue-reflection-quartet.json) |
+| Blue Reflection Ray | 396234 | [396234-blue-reflection-ray.json](./396234-blue-reflection-ray.json) |
+| Blue Reflection Sun | 396235 | [396235-blue-reflection-sun.json](./396235-blue-reflection-sun.json) |
+| Blue Reflection: Second Light | 396237 | [396237-blue-reflection-second-light.json](./396237-blue-reflection-second-light.json) |
 | Blue Revolver | 24928 | [24928-blue-revolver.json](./24928-blue-revolver.json) |
 | Blue Ridge Hunting | 265390 | [265390-blue-ridge-hunting.json](./265390-blue-ridge-hunting.json) |
 | Blue Skies | 63858 | [63858-blue-skies.json](./63858-blue-skies.json) |
