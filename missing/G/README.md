@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghouls 'n Ghosts Remix: Queen Edition | 191271 | [191271-ghouls-n-ghosts-remix-queen-edition.json](./191271-ghouls-n-ghosts-remix-queen-edition.json) |
 | Giagachan | 218132 | [218132-giagachan.json](./218132-giagachan.json) |
 | Giant Machines 2017 | 24684 | [24684-giant-machines-2017.json](./24684-giant-machines-2017.json) |
+| Giant Snake Girl Wants the Burger! | 383379 | [383379-giant-snake-girl-wants-the-burger.json](./383379-giant-snake-girl-wants-the-burger.json) |
 | Giant's Revenge | 25726 | [25726-giants-revenge.json](./25726-giants-revenge.json) |
 | Giants | 158196 | [158196-giants.json](./158196-giants.json) |
 | Giants War | 103492 | [103492-giants-war.json](./103492-giants-war.json) |
@@ -836,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto V Enhanced | 334647 | [334647-grand-theft-auto-v-enhanced.json](./334647-grand-theft-auto-v-enhanced.json) |
 | Grand Theft Auto V: Premium Online Edition | 98077 | [98077-grand-theft-auto-v-premium-online-edition.json](./98077-grand-theft-auto-v-premium-online-edition.json) |
 | Grand Theft Auto: Alien City | 231619 | [231619-grand-theft-auto-alien-city.json](./231619-grand-theft-auto-alien-city.json) |
+| Grand Theft Auto: Carcer City | 383392 | [383392-grand-theft-auto-carcer-city.json](./383392-grand-theft-auto-carcer-city.json) |
 | Grand Theft Auto: Chinatown Wars | 3270 | [3270-grand-theft-auto-chinatown-wars.json](./3270-grand-theft-auto-chinatown-wars.json) |
 | Grand Theft Auto: Liberty City Stories | 309110 | [309110-grand-theft-auto-liberty-city-stories.json](./309110-grand-theft-auto-liberty-city-stories.json) |
 | Grand Theft Auto: Sindacco Chronicles | 256515 | [256515-grand-theft-auto-sindacco-chronicles.json](./256515-grand-theft-auto-sindacco-chronicles.json) |
