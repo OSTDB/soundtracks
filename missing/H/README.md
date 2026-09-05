@@ -1211,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Sports | 6115 | [6115-hyper-sports.json](./6115-hyper-sports.json) |
 | Hyper Strike | 151179 | [151179-hyper-strike.json](./151179-hyper-strike.json) |
 | Hyper Thruster | 409534 | [409534-hyper-thruster.json](./409534-hyper-thruster.json) |
+| Hyper Thunder Run 198X | 395575 | [395575-hyper-thunder-run-198x.json](./395575-hyper-thunder-run-198x.json) |
 | Hyper Train Corporation | 102194 | [102194-hyper-train-corporation.json](./102194-hyper-train-corporation.json) |
 | Hyper Wars: The Mega Firestorm | 109046 | [109046-hyper-wars-the-mega-firestorm.json](./109046-hyper-wars-the-mega-firestorm.json) |
 | Hyperbolica | 161510 | [161510-hyperbolica.json](./161510-hyperbolica.json) |
