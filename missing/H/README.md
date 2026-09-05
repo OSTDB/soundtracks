@@ -1150,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Knight! | 128651 | [128651-hungry-knight.json](./128651-hungry-knight.json) |
 | Hungry Tea Party | 129756 | [129756-hungry-tea-party.json](./129756-hungry-tea-party.json) |
 | HunieCam Studio | 19847 | [19847-huniecam-studio.json](./19847-huniecam-studio.json) |
+| Hunk Empire | 398363 | [398363-hunk-empire.json](./398363-hunk-empire.json) |
 | Hunt | 95447 | [95447-hunt.json](./95447-hunt.json) |
 | Hunt and Fight | 291223 | [291223-hunt-and-fight.json](./291223-hunt-and-fight.json) |
 | Hunt Asylum Together | 406702 | [406702-hunt-asylum-together.json](./406702-hunt-asylum-together.json) |
