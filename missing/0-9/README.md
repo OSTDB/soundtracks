@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .B.P. | 150158 | [150158-b-p.json](./150158-b-p.json) |
 | .Cat Nincat Dinogotchi | 231044 | [231044-cat-nincat-dinogotchi.json](./231044-cat-nincat-dinogotchi.json) |
 | .Hack//G.U. Last Recode | 37134 | [37134-hack-g-u-last-recode.json](./37134-hack-g-u-last-recode.json) |
+| .hack//Gift+Vol.1~4 | 382790 | [382790-hack-gift-vol-1-4.json](./382790-hack-gift-vol-1-4.json) |
 | .Hack//Z.E.R.O. | 390544 | [390544-hack-z-e-r-o.json](./390544-hack-z-e-r-o.json) |
 | 'In You We Trust, Not Algorithms': Newbie Matsumoto's Manual Elevator Operation with Sticky Notes | 410891 | [410891-in-you-we-trust-not-algorithms-newbie-matsumotos-manual-elevator-operation-with-sticky-notes.json](./410891-in-you-we-trust-not-algorithms-newbie-matsumotos-manual-elevator-operation-with-sticky-notes.json) |
 | 'Round the Valley | 413604 | [413604-round-the-valley.json](./413604-round-the-valley.json) |
