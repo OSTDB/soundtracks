@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpack Soccer | 241055 | [241055-jetpack-soccer.json](./241055-jetpack-soccer.json) |
 | Jetrats Defense | 233750 | [233750-jetrats-defense.json](./233750-jetrats-defense.json) |
 | Jets'n'Guns Gold | 30372 | [30372-jetsnguns-gold.json](./30372-jetsnguns-gold.json) |
+| Jett Rider Mini H.E.R.O. | 398965 | [398965-jett-rider-mini-h-e-r-o.json](./398965-jett-rider-mini-h-e-r-o.json) |
 | Jettatura | 207502 | [207502-jettatura.json](./207502-jettatura.json) |
 | Jewel Diamonds | 215396 | [215396-jewel-diamonds.json](./215396-jewel-diamonds.json) |
 | Jewel Match | 53251 | [53251-jewel-match.json](./53251-jewel-match.json) |
@@ -249,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joint Venture | 410221 | [410221-joint-venture.json](./410221-joint-venture.json) |
 | JoJo Siwa: Worldwide Party | 218722 | [218722-jojo-siwa-worldwide-party.json](./218722-jojo-siwa-worldwide-party.json) |
 | Jojo's Bizarre Adventure: The 7th Stand User | 128606 | [128606-jojos-bizarre-adventure-the-7th-stand-user.json](./128606-jojos-bizarre-adventure-the-7th-stand-user.json) |
+| JoJo's Bizarre Hyperdodge Hell!! | 399014 | [399014-jojos-bizarre-hyperdodge-hell.json](./399014-jojos-bizarre-hyperdodge-hell.json) |
 | JoJo's Bizarre RPG: Battle Tendency | 172764 | [172764-jojos-bizarre-rpg-battle-tendency.json](./172764-jojos-bizarre-rpg-battle-tendency.json) |
 | JoJo's Bizarre RPG: Phantom Blood | 172763 | [172763-jojos-bizarre-rpg-phantom-blood.json](./172763-jojos-bizarre-rpg-phantom-blood.json) |
 | JoJo's Diner | 225295 | [225295-jojos-diner.json](./225295-jojos-diner.json) |
@@ -417,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JustBox | 340782 | [340782-justbox.json](./340782-justbox.json) |
 | JustHammers | 341865 | [341865-justhammers.json](./341865-justhammers.json) |
 | Justice Fighting Force | 206948 | [206948-justice-fighting-force.json](./206948-justice-fighting-force.json) |
+| Justice Project | 398968 | [398968-justice-project.json](./398968-justice-project.json) |
 | Justice Xwar Online 2 | 117712 | [117712-justice-xwar-online-2.json](./117712-justice-xwar-online-2.json) |
 | Justice.exe | 132238 | [132238-justice-exe.json](./132238-justice-exe.json) |
 | Juuken Sentai Gekiranger: Niki-niki! Kazu Katachi ni Challenge! | 327594 | [327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json](./327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json) |
