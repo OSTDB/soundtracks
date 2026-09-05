@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taro Is Back | 415094 | [415094-taro-is-back.json](./415094-taro-is-back.json) |
 | Tarot Mystery | 37793 | [37793-tarot-mystery.json](./37793-tarot-mystery.json) |
 | Tartarus | 29147 | [29147-tartarus.json](./29147-tartarus.json) |
+| Tarutobi | 371917 | [371917-tarutobi.json](./371917-tarutobi.json) |
 | Tarzan | 25728 | [25728-tarzan.json](./25728-tarzan.json) |
 | Tashio Tempo | 403579 | [403579-tashio-tempo.json](./403579-tashio-tempo.json) |
 | Task Force 88: Hostile Contact | 179209 | [179209-task-force-88-hostile-contact.json](./179209-task-force-88-hostile-contact.json) |
@@ -353,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TC!Underfell | 306682 | [306682-tc-underfell.json](./306682-tc-underfell.json) |
 | TCG Card Shop Simulator | 309862 | [309862-tcg-card-shop-simulator.json](./309862-tcg-card-shop-simulator.json) |
 | TD Strategy of Three Kingdoms | 130927 | [130927-td-strategy-of-three-kingdoms.json](./130927-td-strategy-of-three-kingdoms.json) |
+| TD3D | 371907 | [371907-td3d.json](./371907-td3d.json) |
 | TDS: War Games | 203541 | [203541-tds-war-games.json](./203541-tds-war-games.json) |
 | Team Batista no Eikou Shinjitsu wo Tsumugu 4 tsu no Chart | 70412 | [70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json](./70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json) |
 | Team Force 2 | 203535 | [203535-team-force-2.json](./203535-team-force-2.json) |
@@ -713,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bird Museum | 182545 | [182545-the-bird-museum.json](./182545-the-bird-museum.json) |
 | The Bitmap Brothers Collection 2 | 325242 | [325242-the-bitmap-brothers-collection-2.json](./325242-the-bitmap-brothers-collection-2.json) |
 | The Black Bahr | 374588 | [374588-the-black-bahr.json](./374588-the-black-bahr.json) |
+| The Black Knight | 371875 | [371875-the-black-knight.json](./371875-the-black-knight.json) |
 | The Black Lamb | 329937 | [329937-the-black-lamb.json](./329937-the-black-lamb.json) |
 | The Black Pepper Crew | 184629 | [184629-the-black-pepper-crew.json](./184629-the-black-pepper-crew.json) |
 | The Black Pool | 226447 | [226447-the-black-pool.json](./226447-the-black-pool.json) |
@@ -3630,6 +3633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing Stars | 322387 | [322387-typing-stars.json](./322387-typing-stars.json) |
 | Typing Tales | 373004 | [373004-typing-tales.json](./373004-typing-tales.json) |
 | Typo | 145677 | [145677-typo.json](./145677-typo.json) |
+| Tyr | 371867 | [371867-tyr.json](./371867-tyr.json) |
 | Tyr: Chains of Valhalla | 96750 | [96750-tyr-chains-of-valhalla.json](./96750-tyr-chains-of-valhalla.json) |
 | Tyrannical Chickens | 278726 | [278726-tyrannical-chickens.json](./278726-tyrannical-chickens.json) |
 | Tyranny: Gold Edition | 154526 | [154526-tyranny-gold-edition.json](./154526-tyranny-gold-edition.json) |
