@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Future: The Game - Episode 1: It's About Time | 78249 | [78249-back-to-the-future-the-game-episode-1-its-about-time.json](./78249-back-to-the-future-the-game-episode-1-its-about-time.json) |
 | Back to the Rooms | 320563 | [320563-back-to-the-rooms.json](./320563-back-to-the-rooms.json) |
 | Backbreaker Vengeance | 22942 | [22942-backbreaker-vengeance.json](./22942-backbreaker-vengeance.json) |
+| Backfire Brigade | 370137 | [370137-backfire-brigade.json](./370137-backfire-brigade.json) |
 | Backfire! | 37139 | [37139-backfire.json](./37139-backfire.json) |
 | Backgammon | 152338 | [152338-backgammon.json](./152338-backgammon.json) |
 | Backgammon 3D | 146896 | [146896-backgammon-3d.json](./146896-backgammon-3d.json) |
@@ -557,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattlePets | 300983 | [300983-battlepets.json](./300983-battlepets.json) |
 | Battlepillars: Gold Edition | 36411 | [36411-battlepillars-gold-edition.json](./36411-battlepillars-gold-edition.json) |
 | Battlerite Royale: All Champions Pack | 168365 | [168365-battlerite-royale-all-champions-pack.json](./168365-battlerite-royale-all-champions-pack.json) |
+| Battles Game | 370135 | [370135-battles-game.json](./370135-battles-game.json) |
 | Battleship | 317631 | [317631-battleship.json](./317631-battleship.json) |
 | Battleship | 95434 | [95434-battleship.json](./95434-battleship.json) |
 | Battleships and Carriers: WW2 Battleship Game | 111706 | [111706-battleships-and-carriers-ww2-battleship-game.json](./111706-battleships-and-carriers-ww2-battleship-game.json) |
@@ -1049,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade | 14312 | [14312-blade.json](./14312-blade.json) |
 | Blade & Sorcery | 111474 | [111474-blade-and-sorcery.json](./111474-blade-and-sorcery.json) |
 | Blade Arcus from Shining | 121039 | [121039-blade-arcus-from-shining.json](./121039-blade-arcus-from-shining.json) |
+| Blade Blazer | 370154 | [370154-blade-blazer.json](./370154-blade-blazer.json) |
 | Blade Crusade | 190210 | [190210-blade-crusade.json](./190210-blade-crusade.json) |
 | Blade of Dawn | 322361 | [322361-blade-of-dawn.json](./322361-blade-of-dawn.json) |
 | Blade Reborn: Forge Your Destiny | 102787 | [102787-blade-reborn-forge-your-destiny.json](./102787-blade-reborn-forge-your-destiny.json) |
@@ -1187,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockhead II | 14324 | [14324-blockhead-ii.json](./14324-blockhead-ii.json) |
 | Blockpost Mobile | 225875 | [225875-blockpost-mobile.json](./225875-blockpost-mobile.json) |
 | Blocks | 208625 | [208625-blocks.json](./208625-blocks.json) |
+| Blocks | 370143 | [370143-blocks.json](./370143-blocks.json) |
 | Blocks! | 295521 | [295521-blocks.json](./295521-blocks.json) |
 | BlockStarPlanet | 55168 | [55168-blockstarplanet.json](./55168-blockstarplanet.json) |
 | Blocksworld | 68685 | [68685-blocksworld.json](./68685-blocksworld.json) |
@@ -1433,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book Nook | 404843 | [404843-book-nook.json](./404843-book-nook.json) |
 | Book of Mario | 159321 | [159321-book-of-mario.json](./159321-book-of-mario.json) |
 | Book of Mario: Thousands of Doors | 159323 | [159323-book-of-mario-thousands-of-doors.json](./159323-book-of-mario-thousands-of-doors.json) |
+| Bookbound | 370103 | [370103-bookbound.json](./370103-bookbound.json) |
 | Bookbound Brigade | 121218 | [121218-bookbound-brigade.json](./121218-bookbound-brigade.json) |
 | Bookers: Underground Chapter | 104085 | [104085-bookers-underground-chapter.json](./104085-bookers-underground-chapter.json) |
 | Bookey Manor | 333915 | [333915-bookey-manor.json](./333915-bookey-manor.json) |
@@ -1883,6 +1888,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Angel | 143101 | [143101-bullet-angel.json](./143101-bullet-angel.json) |
 | Bullet Art | 156680 | [156680-bullet-art.json](./156680-bullet-art.json) |
 | Bullet Bash | 205246 | [205246-bullet-bash.json](./205246-bullet-bash.json) |
+| Bullet Bill 2 | 370096 | [370096-bullet-bill-2.json](./370096-bullet-bill-2.json) |
+| Bullet Bill 3 | 370097 | [370097-bullet-bill-3.json](./370097-bullet-bill-3.json) |
 | Bullet Blaze | 243373 | [243373-bullet-blaze.json](./243373-bullet-blaze.json) |
 | Bullet Fractals | 181894 | [181894-bullet-fractals.json](./181894-bullet-fractals.json) |
 | Bullet Hell Monday | 57089 | [57089-bullet-hell-monday.json](./57089-bullet-hell-monday.json) |
