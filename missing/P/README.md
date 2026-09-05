@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Angle | 69321 | [69321-perfect-angle.json](./69321-perfect-angle.json) |
 | Perfect Grind | 200746 | [200746-perfect-grind.json](./200746-perfect-grind.json) |
 | Perfect Heist 2: Historic Characters DLC | 274740 | [274740-perfect-heist-2-historic-characters-dlc.json](./274740-perfect-heist-2-historic-characters-dlc.json) |
+| Perfect Liar | 373536 | [373536-perfect-liar.json](./373536-perfect-liar.json) |
 | Perfect Loop: Soleris | 388711 | [388711-perfect-loop-soleris.json](./388711-perfect-loop-soleris.json) |
 | Perfect Split | 173804 | [173804-perfect-split.json](./173804-perfect-split.json) |
 | Perfect Thog | 408732 | [408732-perfect-thog.json](./408732-perfect-thog.json) |
@@ -914,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixEvo: The Fountain | 191901 | [191901-pixevo-the-fountain.json](./191901-pixevo-the-fountain.json) |
 | Pixicharm: Acornflare | 389416 | [389416-pixicharm-acornflare.json](./389416-pixicharm-acornflare.json) |
 | Pixicharm: Celestibun | 378768 | [378768-pixicharm-celestibun.json](./378768-pixicharm-celestibun.json) |
+| Pixicharm: Goo Patrol | 373564 | [373564-pixicharm-goo-patrol.json](./373564-pixicharm-goo-patrol.json) |
 | Pixicharm: Hallowkinz | 378767 | [378767-pixicharm-hallowkinz.json](./378767-pixicharm-hallowkinz.json) |
 | Pixicharm: Mariana Gold | 335081 | [335081-pixicharm-mariana-gold.json](./335081-pixicharm-mariana-gold.json) |
 | Pixicharm: Meowbolt | 337986 | [337986-pixicharm-meowbolt.json](./337986-pixicharm-meowbolt.json) |
@@ -1686,6 +1688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protector | 95461 | [95461-protector.json](./95461-protector.json) |
 | Protector: Special Edition | 40809 | [40809-protector-special-edition.json](./40809-protector-special-edition.json) |
 | Protektor | 176516 | [176516-protektor.json](./176516-protektor.json) |
+| Protocol Paradox | 373512 | [373512-protocol-paradox.json](./373512-protocol-paradox.json) |
 | Protocol Xeno | 211967 | [211967-protocol-xeno.json](./211967-protocol-xeno.json) |
 | Protocore | 109674 | [109674-protocore.json](./109674-protocore.json) |
 | Proton Bus Simulator Road | 219822 | [219822-proton-bus-simulator-road.json](./219822-proton-bus-simulator-road.json) |
