@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI.VI | 303258 | [303258-ai-vi.json](./303258-ai-vi.json) |
 | AI2U: With You 'Til The End | 293905 | [293905-ai2u-with-you-til-the-end.json](./293905-ai2u-with-you-til-the-end.json) |
 | AiCaterine | 259248 | [259248-aicaterine.json](./259248-aicaterine.json) |
+| Aidsmoji: The Forbidden Fruit | 86307 | [86307-aidsmoji-the-forbidden-fruit.json](./86307-aidsmoji-the-forbidden-fruit.json) |
 | Aigiina no Yogen: From the Legend of Balubalouk | 73806 | [73806-aigiina-no-yogen-from-the-legend-of-balubalouk.json](./73806-aigiina-no-yogen-from-the-legend-of-balubalouk.json) |
 | Aikagi 2: Limited Edition | 166226 | [166226-aikagi-2-limited-edition.json](./166226-aikagi-2-limited-edition.json) |
 | Aikagi 3 | 220346 | [220346-aikagi-3.json](./220346-aikagi-3.json) |
@@ -648,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alaloth: Champions of the Four Kingdoms | 27406 | [27406-alaloth-champions-of-the-four-kingdoms.json](./27406-alaloth-champions-of-the-four-kingdoms.json) |
 | Alan Probe: Amateur Surgeon | 70415 | [70415-alan-probe-amateur-surgeon.json](./70415-alan-probe-amateur-surgeon.json) |
 | Alan Wake II: The Final Draft | 298842 | [298842-alan-wake-ii-the-final-draft.json](./298842-alan-wake-ii-the-final-draft.json) |
+| Alaska | 86767 | [86767-alaska.json](./86767-alaska.json) |
 | Alba: A Wildlife Adventure | 135919 | [135919-alba-a-wildlife-adventure.json](./135919-alba-a-wildlife-adventure.json) |
 | Albert Odyssey 2: Jashin no Taidou | 38346 | [38346-albert-odyssey-2-jashin-no-taidou.json](./38346-albert-odyssey-2-jashin-no-taidou.json) |
 | Alcazar: The Forgotten Fortress | 12248 | [12248-alcazar-the-forgotten-fortress.json](./12248-alcazar-the-forgotten-fortress.json) |
@@ -902,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Marksman | 239912 | [239912-american-marksman.json](./239912-american-marksman.json) |
 | American Patriots: The Swamp Fox | 111018 | [111018-american-patriots-the-swamp-fox.json](./111018-american-patriots-the-swamp-fox.json) |
 | American Pool | 43928 | [43928-american-pool.json](./43928-american-pool.json) |
+| American Truck Simulator 2018 | 86722 | [86722-american-truck-simulator-2018.json](./86722-american-truck-simulator-2018.json) |
 | American Truck Simulator: Goodyear Tires Pack | 223687 | [223687-american-truck-simulator-goodyear-tires-pack.json](./223687-american-truck-simulator-goodyear-tires-pack.json) |
 | American Truck Simulator: Lode King & Prestige Trailers Pack | 223688 | [223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json](./223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json) |
 | American Truck Simulator: Special Transport | 268771 | [268771-american-truck-simulator-special-transport.json](./268771-american-truck-simulator-special-transport.json) |
@@ -1282,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Game Series: Pac-Man | 68344 | [68344-arcade-game-series-pac-man.json](./68344-arcade-game-series-pac-man.json) |
 | Arcade Paradise VR | 279379 | [279379-arcade-paradise-vr.json](./279379-arcade-paradise-vr.json) |
 | Arcade Party | 241076 | [241076-arcade-party.json](./241076-arcade-party.json) |
+| Arcade Pinball | 86706 | [86706-arcade-pinball.json](./86706-arcade-pinball.json) |
 | Arcade Shooting Gallery | 50626 | [50626-arcade-shooting-gallery.json](./50626-arcade-shooting-gallery.json) |
 | Arcade Soccer | 15599 | [15599-arcade-soccer.json](./15599-arcade-soccer.json) |
 | Arcade's Greatest Hits: The Atari Collection 2 | 43925 | [43925-arcades-greatest-hits-the-atari-collection-2.json](./43925-arcades-greatest-hits-the-atari-collection-2.json) |
