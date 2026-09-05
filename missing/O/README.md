@@ -205,7 +205,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Strikers: Season 2 - Summer Splash | 260971 | [260971-omega-strikers-season-2-summer-splash.json](./260971-omega-strikers-season-2-summer-splash.json) |
 | OmegaBot | 154001 | [154001-omegabot.json](./154001-omegabot.json) |
 | Omegalodon | 16637 | [16637-omegalodon.json](./16637-omegalodon.json) |
+| Omelet's Quest | 373522 | [373522-omelets-quest.json](./373522-omelets-quest.json) |
 | Omen Fall | 251805 | [251805-omen-fall.json](./251805-omen-fall.json) |
+| Omertà: Mafia Novel | 373539 | [373539-omerta-mafia-novel.json](./373539-omerta-mafia-novel.json) |
 | OMG HD Zombies! | 52643 | [52643-omg-hd-zombies.json](./52643-omg-hd-zombies.json) |
 | OMG-Z | 20633 | [20633-omg-z.json](./20633-omg-z.json) |
 | Omi Oh My AI | 215393 | [215393-omi-oh-my-ai.json](./215393-omi-oh-my-ai.json) |
@@ -425,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooga Booga | 10961 | [10961-ooga-booga.json](./10961-ooga-booga.json) |
 | Ookibloks | 34516 | [34516-ookibloks.json](./34516-ookibloks.json) |
 | Oolite | 47274 | [47274-oolite.json](./47274-oolite.json) |
+| Oompas Outrageous Rush | 373556 | [373556-oompas-outrageous-rush.json](./373556-oompas-outrageous-rush.json) |
 | Ooo | 181897 | [181897-ooo.json](./181897-ooo.json) |
 | Ooohh, Big Stretch!!! | 341882 | [341882-ooohh-big-stretch.json](./341882-ooohh-big-stretch.json) |
 | Oops, I said Yes?! | 239870 | [239870-oops-i-said-yes.json](./239870-oops-i-said-yes.json) |
@@ -682,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over The Top: WWI | 291749 | [291749-over-the-top-wwi.json](./291749-over-the-top-wwi.json) |
 | Overbeast | 247169 | [247169-overbeast.json](./247169-overbeast.json) |
 | Overboard | 122430 | [122430-overboard.json](./122430-overboard.json) |
+| Overcat | 373530 | [373530-overcat.json](./373530-overcat.json) |
 | Overcrowded | 185147 | [185147-overcrowded.json](./185147-overcrowded.json) |
 | Overcrowded: Tycoon | 200743 | [200743-overcrowded-tycoon.json](./200743-overcrowded-tycoon.json) |
 | Overcursed | 176494 | [176494-overcursed.json](./176494-overcursed.json) |
