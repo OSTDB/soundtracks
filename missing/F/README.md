@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: Wild Appalachia | 115713 | [115713-fallout-76-wild-appalachia.json](./115713-fallout-76-wild-appalachia.json) |
 | Fallout: New Vegas - Lonesome Road | 10307 | [10307-fallout-new-vegas-lonesome-road.json](./10307-fallout-new-vegas-lonesome-road.json) |
 | Falnarion Tactics: Oathbreaker | 158730 | [158730-falnarion-tactics-oathbreaker.json](./158730-falnarion-tactics-oathbreaker.json) |
+| Falseflash | 401497 | [401497-falseflash.json](./401497-falseflash.json) |
 | Famicom Mukashibanashi: Shin Onigashima - Kouhen | 41418 | [41418-famicom-mukashibanashi-shin-onigashima-kouhen.json](./41418-famicom-mukashibanashi-shin-onigashima-kouhen.json) |
 | Famicom Mukashibanashi: Shin Onigashima - Zenpen | 41417 | [41417-famicom-mukashibanashi-shin-onigashima-zenpen.json](./41417-famicom-mukashibanashi-shin-onigashima-zenpen.json) |
 | Famicom Shogi: Ryuu-Ou-Sen | 48713 | [48713-famicom-shogi-ryuu-ou-sen.json](./48713-famicom-shogi-ryuu-ou-sen.json) |
