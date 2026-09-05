@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garnet Cradle | 221412 | [221412-garnet-cradle.json](./221412-garnet-cradle.json) |
 | Garshasp: The Monster Slayer | 3279 | [3279-garshasp-the-monster-slayer.json](./3279-garshasp-the-monster-slayer.json) |
 | Garten of Banban 0 | 320854 | [320854-garten-of-banban-0.json](./320854-garten-of-banban-0.json) |
+| Garten of Banban Bundle: 0 + 1 + 2 + 3 + 4 + 6 + 7 + 8 | 379359 | [379359-garten-of-banban-bundle-0-1-2-3-4-6-7-8.json](./379359-garten-of-banban-bundle-0-1-2-3-4-6-7-8.json) |
 | Gartic on Stream | 185152 | [185152-gartic-on-stream.json](./185152-gartic-on-stream.json) |
 | Garukilla | 92508 | [92508-garukilla.json](./92508-garukilla.json) |
 | Gary Grigsby's Pacific War | 72106 | [72106-gary-grigsbys-pacific-war.json](./72106-gary-grigsbys-pacific-war.json) |
@@ -245,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gearguns: Tank Offensive | 31375 | [31375-gearguns-tank-offensive.json](./31375-gearguns-tank-offensive.json) |
 | Gears of War 3: Fenix Rising | 20656 | [20656-gears-of-war-3-fenix-rising.json](./20656-gears-of-war-3-fenix-rising.json) |
 | Geas | 228695 | [228695-geas.json](./228695-geas.json) |
+| Geckos & Deckos | 379367 | [379367-geckos-and-deckos.json](./379367-geckos-and-deckos.json) |
 | Gedda Cake | 180286 | [180286-gedda-cake.json](./180286-gedda-cake.json) |
 | Geflect | 181908 | [181908-geflect.json](./181908-geflect.json) |
 | Geg 2: Nazad v Budushchee | 303242 | [303242-geg-2-nazad-v-budushchee.json](./303242-geg-2-nazad-v-budushchee.json) |
