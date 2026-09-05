@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Planet | 300397 | [300397-little-planet.json](./300397-little-planet.json) |
 | Little Postman | 247758 | [247758-little-postman.json](./247758-little-postman.json) |
 | Little Rats' Big Top | 180804 | [180804-little-rats-big-top.json](./180804-little-rats-big-top.json) |
+| Little Re-collector | 369059 | [369059-little-re-collector.json](./369059-little-re-collector.json) |
 | Little Red Riding Hood A | 225313 | [225313-little-red-riding-hood-a.json](./225313-little-red-riding-hood-a.json) |
 | Little Red Riding Hood B | 225312 | [225312-little-red-riding-hood-b.json](./225312-little-red-riding-hood-b.json) |
 | Little Red Rocket Ship | 190199 | [190199-little-red-rocket-ship.json](./190199-little-red-rocket-ship.json) |
@@ -724,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizzie McGuire 3: Homecoming Havoc | 49392 | [49392-lizzie-mcguire-3-homecoming-havoc.json](./49392-lizzie-mcguire-3-homecoming-havoc.json) |
 | Lizzie McGuire: On the Go! | 49394 | [49394-lizzie-mcguire-on-the-go.json](./49394-lizzie-mcguire-on-the-go.json) |
 | Llamas With Hats: Cruise Catastrophe | 63336 | [63336-llamas-with-hats-cruise-catastrophe.json](./63336-llamas-with-hats-cruise-catastrophe.json) |
+| LLM x Quiz | 369055 | [369055-llm-x-quiz.json](./369055-llm-x-quiz.json) |
 | LMA Manager 2007 | 20561 | [20561-lma-manager-2007.json](./20561-lma-manager-2007.json) |
 | Lo and Behold | 371874 | [371874-lo-and-behold.json](./371874-lo-and-behold.json) |
 | Load Roll Die | 172734 | [172734-load-roll-die.json](./172734-load-roll-die.json) |
@@ -731,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loader Larry | 73809 | [73809-loader-larry.json](./73809-loader-larry.json) |
 | Loaders, Inc. | 392148 | [392148-loaders-inc.json](./392148-loaders-inc.json) |
 | Loading Zone | 193469 | [193469-loading-zone.json](./193469-loading-zone.json) |
+| Loafing Town | 369064 | [369064-loafing-town.json](./369064-loafing-town.json) |
 | Lobby Cam by Bryn Oh | 235468 | [235468-lobby-cam-by-bryn-oh.json](./235468-lobby-cam-by-bryn-oh.json) |
 | Lobo | 86130 | [86130-lobo.json](./86130-lobo.json) |
 | Lobotrypo | 332254 | [332254-lobotrypo.json](./332254-lobotrypo.json) |
