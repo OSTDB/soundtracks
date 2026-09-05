@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Days | 332225 | [332225-darkest-days.json](./332225-darkest-days.json) |
 | Darkest Dungeon II: Oblivion Edition | 298850 | [298850-darkest-dungeon-ii-oblivion-edition.json](./298850-darkest-dungeon-ii-oblivion-edition.json) |
 | Darkfate | 242817 | [242817-darkfate.json](./242817-darkfate.json) |
+| DarkHouse | 371887 | [371887-darkhouse.json](./371887-darkhouse.json) |
 | Darklin Wars | 129769 | [129769-darklin-wars.json](./129769-darklin-wars.json) |
 | Darkman | 12037 | [12037-darkman.json](./12037-darkman.json) |
 | DarkMaus | 18335 | [18335-darkmaus.json](./18335-darkmaus.json) |
@@ -1128,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dizzy: Prince of the Yolkfolk | 12049 | [12049-dizzy-prince-of-the-yolkfolk.json](./12049-dizzy-prince-of-the-yolkfolk.json) |
 | DizzyRoids | 233222 | [233222-dizzyroids.json](./233222-dizzyroids.json) |
 | DJ Mix Tour | 68028 | [68028-dj-mix-tour.json](./68028-dj-mix-tour.json) |
+| DJLand | 371909 | [371909-djland.json](./371909-djland.json) |
 | DJMax Portable: Clazziquai Edition | 79327 | [79327-djmax-portable-clazziquai-edition.json](./79327-djmax-portable-clazziquai-edition.json) |
 | DJMax Respect | 28192 | [28192-djmax-respect.json](./28192-djmax-respect.json) |
 | DJMax Respect V: Ez2on Pack | 239342 | [239342-djmax-respect-v-ez2on-pack.json](./239342-djmax-respect-v-ez2on-pack.json) |
@@ -1719,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Out | 39674 | [39674-drift-out.json](./39674-drift-out.json) |
 | Drift Streets Japan | 34167 | [34167-drift-streets-japan.json](./34167-drift-streets-japan.json) |
 | Drift Zone | 76535 | [76535-drift-zone.json](./76535-drift-zone.json) |
+| Drifter Star: Evolution | 371872 | [371872-drifter-star-evolution.json](./371872-drifter-star-evolution.json) |
 | DriftHub | 256007 | [256007-drifthub.json](./256007-drifthub.json) |
 | Driftin.io | 126024 | [126024-driftin-io.json](./126024-driftin-io.json) |
 | Driftwatch VR | 30919 | [30919-driftwatch-vr.json](./30919-driftwatch-vr.json) |
