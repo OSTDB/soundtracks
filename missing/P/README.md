@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharmacy Simulator | 297809 | [297809-pharmacy-simulator.json](./297809-pharmacy-simulator.json) |
 | Phase | 72078 | [72078-phase.json](./72078-phase.json) |
 | Phase Runner | 92490 | [92490-phase-runner.json](./92490-phase-runner.json) |
+| Phase Shift | 50165 | [50165-phase-shift.json](./50165-phase-shift.json) |
 | Phase Zero | 335684 | [335684-phase-zero.json](./335684-phase-zero.json) |
 | Phaser Fire | 172725 | [172725-phaser-fire.json](./172725-phaser-fire.json) |
 | Phasmonauts | 310730 | [310730-phasmonauts.json](./310730-phasmonauts.json) |
@@ -1384,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Watts Memory Match: Cute Animals | 106603 | [106603-professor-watts-memory-match-cute-animals.json](./106603-professor-watts-memory-match-cute-animals.json) |
 | Professor Watts Word Search: Pirates Life | 103467 | [103467-professor-watts-word-search-pirates-life.json](./103467-professor-watts-word-search-pirates-life.json) |
 | Professor Watts Word Search: Yummy Foods | 103468 | [103468-professor-watts-word-search-yummy-foods.json](./103468-professor-watts-word-search-yummy-foods.json) |
+| Professor Watts: Memory Match | 50760 | [50760-professor-watts-memory-match.json](./50760-professor-watts-memory-match.json) |
 | Professora Abelha Aprendendo Figuras Geométricas | 294437 | [294437-professora-abelha-aprendendo-figuras-geometricas.json](./294437-professora-abelha-aprendendo-figuras-geometricas.json) |
 | Profound | 277594 | [277594-profound.json](./277594-profound.json) |
 | Progressbar Popup Fighter | 250015 | [250015-progressbar-popup-fighter.json](./250015-progressbar-popup-fighter.json) |
