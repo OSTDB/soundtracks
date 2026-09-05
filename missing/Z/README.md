@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZpellCatz | 206340 | [206340-zpellcatz.json](./206340-zpellcatz.json) |
 | ZRoll | 33118 | [33118-zroll.json](./33118-zroll.json) |
 | Zueirama | 110641 | [110641-zueirama.json](./110641-zueirama.json) |
+| Zug in Sicht | 383972 | [383972-zug-in-sicht.json](./383972-zug-in-sicht.json) |
 | Zumba Fitness 2 | 5306 | [5306-zumba-fitness-2.json](./5306-zumba-fitness-2.json) |
 | Zumba Kids | 5309 | [5309-zumba-kids.json](./5309-zumba-kids.json) |
 | Zumble Ocean | 415938 | [415938-zumble-ocean.json](./415938-zumble-ocean.json) |
