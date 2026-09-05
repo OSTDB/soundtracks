@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Sliding Puzzle: Sci-Fi Pack | 270393 | [270393-ultimate-sliding-puzzle-sci-fi-pack.json](./270393-ultimate-sliding-puzzle-sci-fi-pack.json) |
 | Ultimate Space Commando | 35963 | [35963-ultimate-space-commando.json](./35963-ultimate-space-commando.json) |
 | Ultimate Summer Boat | 51982 | [51982-ultimate-summer-boat.json](./51982-ultimate-summer-boat.json) |
+| Ultimate Super Bean | 414299 | [414299-ultimate-super-bean.json](./414299-ultimate-super-bean.json) |
 | Ultimate Tower Defense | 272570 | [272570-ultimate-tower-defense.json](./272570-ultimate-tower-defense.json) |
 | Ultimate Trial | 304358 | [304358-ultimate-trial.json](./304358-ultimate-trial.json) |
 | Ultimate Under Water | 155658 | [155658-ultimate-under-water.json](./155658-ultimate-under-water.json) |
