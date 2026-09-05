@@ -886,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrack: Exoverse | 87560 | [87560-wrack-exoverse.json](./87560-wrack-exoverse.json) |
 | Wraith | 125994 | [125994-wraith.json](./125994-wraith.json) |
 | Wraith VR | 187515 | [187515-wraith-vr.json](./187515-wraith-vr.json) |
+| Wrap The Zap | 392786 | [392786-wrap-the-zap.json](./392786-wrap-the-zap.json) |
 | Wrath of Denethenor | 37155 | [37155-wrath-of-denethenor.json](./37155-wrath-of-denethenor.json) |
 | WRC 2: FIA World Rally Championship 2011 | 51296 | [51296-wrc-2-fia-world-rally-championship-2011.json](./51296-wrc-2-fia-world-rally-championship-2011.json) |
 | Wrecked: A Psychedelic Adventure | 265952 | [265952-wrecked-a-psychedelic-adventure.json](./265952-wrecked-a-psychedelic-adventure.json) |
