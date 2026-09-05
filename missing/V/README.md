@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectris | 273099 | [273099-vectris.json](./273099-vectris.json) |
 | VectroMirror | 140006 | [140006-vectromirror.json](./140006-vectromirror.json) |
 | Ved | 126673 | [126673-ved.json](./126673-ved.json) |
+| Vedal's Secret | 386121 | [386121-vedals-secret.json](./386121-vedals-secret.json) |
 | Veer | 34384 | [34384-veer.json](./34384-veer.json) |
 | Vegas Games 2000 | 46639 | [46639-vegas-games-2000.json](./46639-vegas-games-2000.json) |
 | Vegas Stakes | 85469 | [85469-vegas-stakes.json](./85469-vegas-stakes.json) |
