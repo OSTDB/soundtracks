@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leftovers | 221977 | [221977-leftovers.json](./221977-leftovers.json) |
 | Legacy | 213049 | [213049-legacy.json](./213049-legacy.json) |
 | Legacy | 23896 | [23896-legacy.json](./23896-legacy.json) |
+| Legacy | 401477 | [401477-legacy.json](./401477-legacy.json) |
 | Legacy Battle heart 2 | 108505 | [108505-legacy-battle-heart-2.json](./108505-legacy-battle-heart-2.json) |
 | Legacy of Aeroja | 193480 | [193480-legacy-of-aeroja.json](./193480-legacy-of-aeroja.json) |
 | Legacy of Epstein: Bad Omen | 244478 | [244478-legacy-of-epstein-bad-omen.json](./244478-legacy-of-epstein-bad-omen.json) |
