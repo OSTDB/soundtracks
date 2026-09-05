@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Soil | 379372 | [379372-red-soil.json](./379372-red-soil.json) |
 | Red Sparrow | 38998 | [38998-red-sparrow.json](./38998-red-sparrow.json) |
 | Red Tape | 226968 | [226968-red-tape.json](./226968-red-tape.json) |
+| Red Wolf | 378200 | [378200-red-wolf.json](./378200-red-wolf.json) |
 | Red, Blue, and Green | 135253 | [135253-red-blue-and-green.json](./135253-red-blue-and-green.json) |
 | RED: The Lucid Nightmare | 109677 | [109677-red-the-lucid-nightmare.json](./109677-red-the-lucid-nightmare.json) |
 | Redacted by the Sadistic Princess from Another World?! | 402250 | [402250-redacted-by-the-sadistic-princess-from-another-world.json](./402250-redacted-by-the-sadistic-princess-from-another-world.json) |
