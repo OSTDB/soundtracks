@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .B.P. | 150158 | [150158-b-p.json](./150158-b-p.json) |
 | .Cat Nincat Dinogotchi | 231044 | [231044-cat-nincat-dinogotchi.json](./231044-cat-nincat-dinogotchi.json) |
 | .Hack//G.U. Last Recode | 37134 | [37134-hack-g-u-last-recode.json](./37134-hack-g-u-last-recode.json) |
+| 'In You We Trust, Not Algorithms': Newbie Matsumoto's Manual Elevator Operation with Sticky Notes | 410891 | [410891-in-you-we-trust-not-algorithms-newbie-matsumotos-manual-elevator-operation-with-sticky-notes.json](./410891-in-you-we-trust-not-algorithms-newbie-matsumotos-manual-elevator-operation-with-sticky-notes.json) |
 | 'Round the Valley | 413604 | [413604-round-the-valley.json](./413604-round-the-valley.json) |
 | 'The | 247183 | [247183-the.json](./247183-the.json) |
 | (A)woken | 307298 | [307298-a-woken.json](./307298-a-woken.json) |
@@ -333,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 64 Oozumou 2 | 3434 | [3434-64-oozumou-2.json](./3434-64-oozumou-2.json) |
 | 64 Trump Collection: Alice no Waku-waku Trump World | 3435 | [3435-64-trump-collection-alice-no-waku-waku-trump-world.json](./3435-64-trump-collection-alice-no-waku-waku-trump-world.json) |
 | 66 Balls | 232139 | [232139-66-balls.json](./232139-66-balls.json) |
+| 6600: The Park | 410914 | [410914-6600-the-park.json](./410914-6600-the-park.json) |
 | 69 Andariel Hot | 208630 | [208630-69-andariel-hot.json](./208630-69-andariel-hot.json) |
 | 69 Estera Hot | 192449 | [192449-69-estera-hot.json](./192449-69-estera-hot.json) |
 | 69 Hitomi Love | 173837 | [173837-69-hitomi-love.json](./173837-69-hitomi-love.json) |
