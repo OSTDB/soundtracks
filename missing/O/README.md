@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offworld Trading Company: The Patron and the Patriot | 124817 | [124817-offworld-trading-company-the-patron-and-the-patriot.json](./124817-offworld-trading-company-the-patron-and-the-patriot.json) |
 | Oftalmogarden | 189176 | [189176-oftalmogarden.json](./189176-oftalmogarden.json) |
 | Ofuxë the Guardian of Nature | 291216 | [291216-ofuxe-the-guardian-of-nature.json](./291216-ofuxe-the-guardian-of-nature.json) |
+| OG Fun Monke Horror | 382754 | [382754-og-fun-monke-horror.json](./382754-og-fun-monke-horror.json) |
 | OG Puzzlers: Kira Maus | 277582 | [277582-og-puzzlers-kira-maus.json](./277582-og-puzzlers-kira-maus.json) |
 | OG Puzzlers: Synthwave Dinosaurs | 291234 | [291234-og-puzzlers-synthwave-dinosaurs.json](./291234-og-puzzlers-synthwave-dinosaurs.json) |
 | OGame | 17257 | [17257-ogame.json](./17257-ogame.json) |
