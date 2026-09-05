@@ -942,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Pristine Realm | 276504 | [276504-honkai-impact-3rd-pristine-realm.json](./276504-honkai-impact-3rd-pristine-realm.json) |
 | Honkai Impact 3rd: Re: Promise to Luna | 276505 | [276505-honkai-impact-3rd-re-promise-to-luna.json](./276505-honkai-impact-3rd-re-promise-to-luna.json) |
 | Honkai Impact 3rd: Silverwing: Beyond | 276498 | [276498-honkai-impact-3rd-silverwing-beyond.json](./276498-honkai-impact-3rd-silverwing-beyond.json) |
+| Honkai Impact 3rd: The Banquet Operative | 383390 | [383390-honkai-impact-3rd-the-banquet-operative.json](./383390-honkai-impact-3rd-the-banquet-operative.json) |
 | Honkai: Star Rail - Unraveled for Daybreak | 394848 | [394848-honkai-star-rail-unraveled-for-daybreak.json](./394848-honkai-star-rail-unraveled-for-daybreak.json) |
 | Honkaku AI Tousai Daifugo | 144999 | [144999-honkaku-ai-tousai-daifugo.json](./144999-honkaku-ai-tousai-daifugo.json) |
 | Honkaku AI Tousai Ginsei Mahjong | 145000 | [145000-honkaku-ai-tousai-ginsei-mahjong.json](./145000-honkaku-ai-tousai-ginsei-mahjong.json) |
