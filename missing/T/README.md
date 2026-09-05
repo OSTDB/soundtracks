@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's So Raven | 49407 | [49407-thats-so-raven.json](./49407-thats-so-raven.json) |
 | That's So Raven 2: Supernatural Style | 49406 | [49406-thats-so-raven-2-supernatural-style.json](./49406-thats-so-raven-2-supernatural-style.json) |
 | The 13th Floor | 298323 | [298323-the-13th-floor.json](./298323-the-13th-floor.json) |
+| The 2048 | 48015 | [48015-the-2048.json](./48015-the-2048.json) |
 | The 39 Steps | 10985 | [10985-the-39-steps.json](./10985-the-39-steps.json) |
 | The 3rd Birthday | 7359 | [7359-the-3rd-birthday.json](./7359-the-3rd-birthday.json) |
 | The 4th Unit | 78724 | [78724-the-4th-unit.json](./78724-the-4th-unit.json) |
@@ -1012,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gentleman | 341319 | [341319-the-gentleman.json](./341319-the-gentleman.json) |
 | The Geography | 198523 | [198523-the-geography.json](./198523-the-geography.json) |
 | The Geometric Golfer | 244994 | [244994-the-geometric-golfer.json](./244994-the-geometric-golfer.json) |
+| The Getaway: High Speed II | 48998 | [48998-the-getaway-high-speed-ii.json](./48998-the-getaway-high-speed-ii.json) |
 | The Ghost | 174885 | [174885-the-ghost.json](./174885-the-ghost.json) |
 | The Ghost Cage | 173273 | [173273-the-ghost-cage.json](./173273-the-ghost-cage.json) |
 | The Ghosts Race | 214186 | [214186-the-ghosts-race.json](./214186-the-ghosts-race.json) |
@@ -3155,6 +3157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tundralia: The Frigid Frontier | 324714 | [324714-tundralia-the-frigid-frontier.json](./324714-tundralia-the-frigid-frontier.json) |
 | Tuned Heart | 45971 | [45971-tuned-heart.json](./45971-tuned-heart.json) |
 | Tuneria | 140025 | [140025-tuneria.json](./140025-tuneria.json) |
+| Tungulus | 47986 | [47986-tungulus.json](./47986-tungulus.json) |
 | Tunguska: The Visitation - Complete Edition | 338030 | [338030-tunguska-the-visitation-complete-edition.json](./338030-tunguska-the-visitation-complete-edition.json) |
 | Tuning Champions | 215912 | [215912-tuning-champions.json](./215912-tuning-champions.json) |
 | Tunnel Run | 87226 | [87226-tunnel-run.json](./87226-tunnel-run.json) |
