@@ -1134,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluster Buster | 292831 | [292831-cluster-buster.json](./292831-cluster-buster.json) |
 | Cluster Dust | 89653 | [89653-cluster-dust.json](./89653-cluster-dust.json) |
 | Clusterduck | 194667 | [194667-clusterduck.json](./194667-clusterduck.json) |
+| Clutter 18: Joe's Ultimate Challenge - Collector's Edition | 369562 | [369562-clutter-18-joes-ultimate-challenge-collectors-edition.json](./369562-clutter-18-joes-ultimate-challenge-collectors-edition.json) |
 | Clutter III : Who Is The Void? | 318199 | [318199-clutter-iii-who-is-the-void.json](./318199-clutter-iii-who-is-the-void.json) |
 | Co Operation: MultiTurn | 217500 | [217500-co-operation-multiturn.json](./217500-co-operation-multiturn.json) |
 | Coagula Mappack #3 | 271482 | [271482-coagula-mappack-3.json](./271482-coagula-mappack-3.json) |
@@ -2116,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutie Tutti Frutti | 207534 | [207534-cutie-tutti-frutti.json](./207534-cutie-tutti-frutti.json) |
 | Cuties Hacked: Dakota Photo Pack | 325851 | [325851-cuties-hacked-dakota-photo-pack.json](./325851-cuties-hacked-dakota-photo-pack.json) |
 | CutNRun | 93579 | [93579-cutnrun.json](./93579-cutnrun.json) |
+| Cutthroat Island GG2SMS | 369594 | [369594-cutthroat-island-gg2sms.json](./369594-cutthroat-island-gg2sms.json) |
 | Cutthroats | 12260 | [12260-cutthroats.json](./12260-cutthroats.json) |
 | Cuub | 278163 | [278163-cuub.json](./278163-cuub.json) |
 | Cy: Cyberpunk Survivors | 248908 | [248908-cy-cyberpunk-survivors.json](./248908-cy-cyberpunk-survivors.json) |
