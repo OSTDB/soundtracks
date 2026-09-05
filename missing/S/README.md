@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salt 2: Shores of Gold | 151169 | [151169-salt-2-shores-of-gold.json](./151169-salt-2-shores-of-gold.json) |
 | Salto | 149579 | [149579-salto.json](./149579-salto.json) |
 | Salto Mortadella | 297212 | [297212-salto-mortadella.json](./297212-salto-mortadella.json) |
+| Saltwater | 384517 | [384517-saltwater.json](./384517-saltwater.json) |
 | Saltwater Shells | 250642 | [250642-saltwater-shells.json](./250642-saltwater-shells.json) |
 | Salty Dogs | 401476 | [401476-salty-dogs.json](./401476-salty-dogs.json) |
 | Salvador | 241645 | [241645-salvador.json](./241645-salvador.json) |
@@ -1236,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Floors Under | 296659 | [296659-six-floors-under.json](./296659-six-floors-under.json) |
 | Six Match | 82156 | [82156-six-match.json](./82156-six-match.json) |
 | Six Orders | 277615 | [277615-six-orders.json](./277615-six-orders.json) |
+| Six Seals | 384533 | [384533-six-seals.json](./384533-six-seals.json) |
 | Six Sides of the World Enhanced | 147980 | [147980-six-sides-of-the-world-enhanced.json](./147980-six-sides-of-the-world-enhanced.json) |
 | Six Textures #3 | 321123 | [321123-six-textures-3.json](./321123-six-textures-3.json) |
 | Six-Guns: Gang Showdown | 38991 | [38991-six-guns-gang-showdown.json](./38991-six-guns-gang-showdown.json) |
@@ -1376,6 +1378,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slave Zero X: Digital Deluxe Edition | 277028 | [277028-slave-zero-x-digital-deluxe-edition.json](./277028-slave-zero-x-digital-deluxe-edition.json) |
 | Slaveblade | 121774 | [121774-slaveblade.json](./121774-slaveblade.json) |
 | Slavic Gods Rodnoverie | 298304 | [298304-slavic-gods-rodnoverie.json](./298304-slavic-gods-rodnoverie.json) |
+| Slay and Spray Exterminators | 384512 | [384512-slay-and-spray-exterminators.json](./384512-slay-and-spray-exterminators.json) |
+| Slay the Berserker | 384494 | [384494-slay-the-berserker.json](./384494-slay-the-berserker.json) |
 | Slay the Wak | 231097 | [231097-slay-the-wak.json](./231097-slay-the-wak.json) |
 | Slayblade | 394830 | [394830-slayblade.json](./394830-slayblade.json) |
 | Slayer Shock | 24646 | [24646-slayer-shock.json](./24646-slayer-shock.json) |
@@ -2302,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirited Soul | 61124 | [61124-spirited-soul.json](./61124-spirited-soul.json) |
 | Spiritfall | 188946 | [188946-spiritfall.json](./188946-spiritfall.json) |
 | Spiritle | 151731 | [151731-spiritle.json](./151731-spiritle.json) |
+| Spirits and Secrets | 384500 | [384500-spirits-and-secrets.json](./384500-spirits-and-secrets.json) |
 | Spirits of Mystery: Chains of Promise - Collector's Edition | 110346 | [110346-spirits-of-mystery-chains-of-promise-collectors-edition.json](./110346-spirits-of-mystery-chains-of-promise-collectors-edition.json) |
 | Spirits of Mystery: Family Lies | 102790 | [102790-spirits-of-mystery-family-lies.json](./102790-spirits-of-mystery-family-lies.json) |
 | Spirits of the Silicium Forest | 237049 | [237049-spirits-of-the-silicium-forest.json](./237049-spirits-of-the-silicium-forest.json) |
@@ -2846,6 +2851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strandzha Adventures 3D | 311825 | [311825-strandzha-adventures-3d.json](./311825-strandzha-adventures-3d.json) |
 | Strange Adventure | 394833 | [394833-strange-adventure.json](./394833-strange-adventure.json) |
 | Strange Hill | 263750 | [263750-strange-hill.json](./263750-strange-hill.json) |
+| Strange Horizons | 384499 | [384499-strange-horizons.json](./384499-strange-horizons.json) |
 | Strange Memo | 201842 | [201842-strange-memo.json](./201842-strange-memo.json) |
 | Strange New Tides | 339660 | [339660-strange-new-tides.json](./339660-strange-new-tides.json) |
 | Strange Night | 32248 | [32248-strange-night.json](./32248-strange-night.json) |
@@ -2941,6 +2947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strong Bad's Cool Game for Attractive People | 9463 | [9463-strong-bads-cool-game-for-attractive-people.json](./9463-strong-bads-cool-game-for-attractive-people.json) |
 | Strong Bad's Cool Game for Attractive People Episode 1: Homestar Ruiner | 28984 | [28984-strong-bads-cool-game-for-attractive-people-episode-1-homestar-ruiner.json](./28984-strong-bads-cool-game-for-attractive-people-episode-1-homestar-ruiner.json) |
 | Strong Bad's Cool Game for Attractive People Episode 3: Baddest of the Bands | 50175 | [50175-strong-bads-cool-game-for-attractive-people-episode-3-baddest-of-the-bands.json](./50175-strong-bads-cool-game-for-attractive-people-episode-3-baddest-of-the-bands.json) |
+| Strong Crab | 384541 | [384541-strong-crab.json](./384541-strong-crab.json) |
 | StrongBadZone | 135863 | [135863-strongbadzone.json](./135863-strongbadzone.json) |
 | Stronghold Collection | 21771 | [21771-stronghold-collection.json](./21771-stronghold-collection.json) |
 | Stronghold Crusader 2: Special Edition | 51936 | [51936-stronghold-crusader-2-special-edition.json](./51936-stronghold-crusader-2-special-edition.json) |
@@ -3101,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sundown | 86071 | [86071-sundown.json](./86071-sundown.json) |
 | Sundowner | 154022 | [154022-sundowner.json](./154022-sundowner.json) |
 | Sune och Hans Värld: Pussjakten | 129781 | [129781-sune-och-hans-varld-pussjakten.json](./129781-sune-och-hans-varld-pussjakten.json) |
+| Sunflower Stronghold | 384519 | [384519-sunflower-stronghold.json](./384519-sunflower-stronghold.json) |
 | Sunforge Solar Survival | 322980 | [322980-sunforge-solar-survival.json](./322980-sunforge-solar-survival.json) |
 | Sunken Brawl | 75147 | [75147-sunken-brawl.json](./75147-sunken-brawl.json) |
 | Sunken Heads | 138821 | [138821-sunken-heads.json](./138821-sunken-heads.json) |
@@ -3614,6 +3622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive The Unknown | 246623 | [246623-survive-the-unknown.json](./246623-survive-the-unknown.json) |
 | Survive Till 100 Years Old | 339117 | [339117-survive-till-100-years-old.json](./339117-survive-till-100-years-old.json) |
 | Surviving Hunter | 257108 | [257108-surviving-hunter.json](./257108-surviving-hunter.json) |
+| Surviving Isolation | 384528 | [384528-surviving-isolation.json](./384528-surviving-isolation.json) |
 | Surviving Mars: In-Dome Buildings Pack | 215400 | [215400-surviving-mars-in-dome-buildings-pack.json](./215400-surviving-mars-in-dome-buildings-pack.json) |
 | Surviving Medieval | 118402 | [118402-surviving-medieval.json](./118402-surviving-medieval.json) |
 | Surviving West | 92524 | [92524-surviving-west.json](./92524-surviving-west.json) |
