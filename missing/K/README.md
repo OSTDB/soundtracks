@@ -519,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kodoku no Yurikago | 260941 | [260941-kodoku-no-yurikago.json](./260941-kodoku-no-yurikago.json) |
 | Koffi Yellow Copter | 40797 | [40797-koffi-yellow-copter.json](./40797-koffi-yellow-copter.json) |
 | Kohan: Immortal Sovereigns | 767 | [767-kohan-immortal-sovereigns.json](./767-kohan-immortal-sovereigns.json) |
+| Kohinata Yuzuki to Shoya Shitai!: Kemomimi Kamisama to Yukemuri Koimoyou | 396942 | [396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json](./396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json) |
 | Koi Koi Mahjong | 43964 | [43964-koi-koi-mahjong.json](./43964-koi-koi-mahjong.json) |
 | Koi No Hotrock | 40230 | [40230-koi-no-hotrock.json](./40230-koi-no-hotrock.json) |
 | Koi-Koi Japan: Ukiyoe Deluxe Edition | 53261 | [53261-koi-koi-japan-ukiyoe-deluxe-edition.json](./53261-koi-koi-japan-ukiyoe-deluxe-edition.json) |
@@ -638,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurai Nichiyoubi: Sombre Dimanche | 260982 | [260982-kurai-nichiyoubi-sombre-dimanche.json](./260982-kurai-nichiyoubi-sombre-dimanche.json) |
 | Kurayami | 94763 | [94763-kurayami.json](./94763-kurayami.json) |
 | Kurenai no Homura Sanada Ninpouchou | 136472 | [136472-kurenai-no-homura-sanada-ninpouchou.json](./136472-kurenai-no-homura-sanada-ninpouchou.json) |
+| Kuro Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Sanpaku Yokka no Tabi | 396941 | [396941-kuro-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json](./396941-kuro-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json) |
 | Kuroba: Oghuz | 409581 | [409581-kuroba-oghuz.json](./409581-kuroba-oghuz.json) |
 | Kurohi | 397677 | [397677-kurohi.json](./397677-kurohi.json) |
 | Kurohyou: Ryuu ga Gotoku Shinshou | 66611 | [66611-kurohyou-ryuu-ga-gotoku-shinshou.json](./66611-kurohyou-ryuu-ga-gotoku-shinshou.json) |
