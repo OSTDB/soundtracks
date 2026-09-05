@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choose an Enemy | 93051 | [93051-choose-an-enemy.json](./93051-choose-an-enemy.json) |
 | Chop | 183081 | [183081-chop.json](./183081-chop.json) |
 | Chop Chop Inc. | 398967 | [398967-chop-chop-inc.json](./398967-chop-chop-inc.json) |
+| Chop Chop Together | 392147 | [392147-chop-chop-together.json](./392147-chop-chop-together.json) |
 | Chop Suey | 47297 | [47297-chop-suey.json](./47297-chop-suey.json) |
 | Chop Sushi | 18252 | [18252-chop-sushi.json](./18252-chop-sushi.json) |
 | Chopper Attack | 3428 | [3428-chopper-attack.json](./3428-chopper-attack.json) |
@@ -838,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chubby Cherub | 48031 | [48031-chubby-cherub.json](./48031-chubby-cherub.json) |
 | Chubby Hurdles | 243968 | [243968-chubby-hurdles.json](./243968-chubby-hurdles.json) |
 | Chuck Ball Idol | 178652 | [178652-chuck-ball-idol.json](./178652-chuck-ball-idol.json) |
+| Chuck Bonesteel & the Alien Apocalypse | 392143 | [392143-chuck-bonesteel-and-the-alien-apocalypse.json](./392143-chuck-bonesteel-and-the-alien-apocalypse.json) |
 | Chuck E. Cheese's Gameroom | 55902 | [55902-chuck-e-cheeses-gameroom.json](./55902-chuck-e-cheeses-gameroom.json) |
 | Chuck E. Cheese's Playhouse | 55904 | [55904-chuck-e-cheeses-playhouse.json](./55904-chuck-e-cheeses-playhouse.json) |
 | Chuck E. Cheese's Racing World | 103522 | [103522-chuck-e-cheeses-racing-world.json](./103522-chuck-e-cheeses-racing-world.json) |
@@ -884,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuit City | 188676 | [188676-circuit-city.json](./188676-circuit-city.json) |
 | Circuit Puzzle | 270402 | [270402-circuit-puzzle.json](./270402-circuit-puzzle.json) |
 | Circuit Racer | 26656 | [26656-circuit-racer.json](./26656-circuit-racer.json) |
+| Circuit Stance | 392123 | [392123-circuit-stance.json](./392123-circuit-stance.json) |
 | Circuit: Demolition Derby 2 | 82147 | [82147-circuit-demolition-derby-2.json](./82147-circuit-demolition-derby-2.json) |
 | Circuitous | 90658 | [90658-circuitous.json](./90658-circuitous.json) |
 | Circular | 169466 | [169466-circular.json](./169466-circular.json) |
@@ -1053,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudsea | 196871 | [196871-cloudsea.json](./196871-cloudsea.json) |
 | Cloudy & Stormy: Pawtastic Adventure | 333911 | [333911-cloudy-and-stormy-pawtastic-adventure.json](./333911-cloudy-and-stormy-pawtastic-adventure.json) |
 | Clover Heart's: Looking for Happiness | 69282 | [69282-clover-hearts-looking-for-happiness.json](./69282-clover-hearts-looking-for-happiness.json) |
+| Clover's Quadrants | 392120 | [392120-clovers-quadrants.json](./392120-clovers-quadrants.json) |
 | Cloverheart | 140019 | [140019-cloverheart.json](./140019-cloverheart.json) |
 | Clowns and Balloons | 40781 | [40781-clowns-and-balloons.json](./40781-clowns-and-balloons.json) |
 | CLS: Signal Person | 119778 | [119778-cls-signal-person.json](./119778-cls-signal-person.json) |
@@ -1850,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Wish: Candy Chase | 264888 | [264888-crystal-wish-candy-chase.json](./264888-crystal-wish-candy-chase.json) |
 | Crystalborne: Heroes of Fate | 123036 | [123036-crystalborne-heroes-of-fate.json](./123036-crystalborne-heroes-of-fate.json) |
 | Crystallo | 117037 | [117037-crystallo.json](./117037-crystallo.json) |
+| Crystant | 392154 | [392154-crystant.json](./392154-crystant.json) |
 | Cryste: the Faith of Fire Vol.1 | 28870 | [28870-cryste-the-faith-of-fire-vol-1.json](./28870-cryste-the-faith-of-fire-vol-1.json) |
 | CSI: Slots | 79913 | [79913-csi-slots.json](./79913-csi-slots.json) |
 | CSR Classics | 58238 | [58238-csr-classics.json](./58238-csr-classics.json) |
