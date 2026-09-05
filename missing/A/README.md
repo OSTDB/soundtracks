@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Gruta de Maquiné | 293930 | [293930-a-gruta-de-maquine.json](./293930-a-gruta-de-maquine.json) |
 | A Guidebook of Babel | 149085 | [149085-a-guidebook-of-babel.json](./149085-a-guidebook-of-babel.json) |
 | A Haunting: Witching Hour | 23883 | [23883-a-haunting-witching-hour.json](./23883-a-haunting-witching-hour.json) |
+| A Heart Of Iron | 397692 | [397692-a-heart-of-iron.json](./397692-a-heart-of-iron.json) |
 | A Hero and a Garden | 137072 | [137072-a-hero-and-a-garden.json](./137072-a-hero-and-a-garden.json) |
 | A Hero's Rest: An RPG Town Simulator | 206356 | [206356-a-heros-rest-an-rpg-town-simulator.json](./206356-a-heros-rest-an-rpg-town-simulator.json) |
 | A Hollow Doorway | 94785 | [94785-a-hollow-doorway.json](./94785-a-hollow-doorway.json) |
@@ -435,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerofly FS 4 Flight Simulator: Scenery - Europe Part 1 | 207539 | [207539-aerofly-fs-4-flight-simulator-scenery-europe-part-1.json](./207539-aerofly-fs-4-flight-simulator-scenery-europe-part-1.json) |
 | Aerofoil | 177006 | [177006-aerofoil.json](./177006-aerofoil.json) |
 | Aeroplanes | 249483 | [249483-aeroplanes.json](./249483-aeroplanes.json) |
+| AeroWave OS | 397713 | [397713-aerowave-os.json](./397713-aerowave-os.json) |
 | Aertan | 415931 | [415931-aertan.json](./415931-aertan.json) |
 | Aery Series Bundle | 173794 | [173794-aery-series-bundle.json](./173794-aery-series-bundle.json) |
 | Aery: Sky Castle | 145645 | [145645-aery-sky-castle.json](./145645-aery-sky-castle.json) |
@@ -627,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Firefighter Simulator 2013 | 87447 | [87447-airport-firefighter-simulator-2013.json](./87447-airport-firefighter-simulator-2013.json) |
 | Airport Flight Administrator Simulator & Air Traffic-Sky Airplane Sim Plane | 220873 | [220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json](./220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json) |
 | Airport Master | 29649 | [29649-airport-master.json](./29649-airport-master.json) |
+| Airport Security Sucks! | 397694 | [397694-airport-security-sucks.json](./397694-airport-security-sucks.json) |
 | Airport Tycoon 2 | 78040 | [78040-airport-tycoon-2.json](./78040-airport-tycoon-2.json) |
 | Airstrip DLC and Can Touch This DLC Bundle | 305497 | [305497-airstrip-dlc-and-can-touch-this-dlc-bundle.json](./305497-airstrip-dlc-and-can-touch-this-dlc-bundle.json) |
 | AirTycoon 3 | 101538 | [101538-airtycoon-3.json](./101538-airtycoon-3.json) |
@@ -1109,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animated Puzzles: Spooky Pack | 163420 | [163420-animated-puzzles-spooky-pack.json](./163420-animated-puzzles-spooky-pack.json) |
 | Anime Bowling Babes | 24997 | [24997-anime-bowling-babes.json](./24997-anime-bowling-babes.json) |
 | Anime Catgirl Runner | 224759 | [224759-anime-catgirl-runner.json](./224759-anime-catgirl-runner.json) |
+| Anime Fart Simulator | 397648 | [397648-anime-fart-simulator.json](./397648-anime-fart-simulator.json) |
 | Anime Freak FX Vol. 1 | 79350 | [79350-anime-freak-fx-vol-1.json](./79350-anime-freak-fx-vol-1.json) |
 | Anime Gacha! | 307275 | [307275-anime-gacha.json](./307275-anime-gacha.json) |
 | Anime Girl Puzzles: Akari | 297770 | [297770-anime-girl-puzzles-akari.json](./297770-anime-girl-puzzles-akari.json) |
