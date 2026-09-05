@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ongaku Tsukuuru: Kanadeeru - Convert Data | 234892 | [234892-ongaku-tsukuuru-kanadeeru-convert-data.json](./234892-ongaku-tsukuuru-kanadeeru-convert-data.json) |
 | Oni Ama: Watashi ni Amaete, Onii-chan | 145052 | [145052-oni-ama-watashi-ni-amaete-onii-chan.json](./145052-oni-ama-watashi-ni-amaete-onii-chan.json) |
 | Onigashima: Awakening | 406103 | [406103-onigashima-awakening.json](./406103-onigashima-awakening.json) |
+| Onii-chan Continue!: Secret Love With Yuri | 396239 | [396239-onii-chan-continue-secret-love-with-yuri.json](./396239-onii-chan-continue-secret-love-with-yuri.json) |
 | Onimusha 2: Samurai's Destiny | 11757 | [11757-onimusha-2-samurais-destiny.json](./11757-onimusha-2-samurais-destiny.json) |
 | Onimusha 2: Samurai's Destiny | 330283 | [330283-onimusha-2-samurais-destiny.json](./330283-onimusha-2-samurais-destiny.json) |
 | Oniriam | 322984 | [322984-oniriam.json](./322984-oniriam.json) |
