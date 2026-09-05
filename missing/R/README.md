@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reassembly | 11691 | [11691-reassembly.json](./11691-reassembly.json) |
 | Rebel Moon | 262644 | [262644-rebel-moon.json](./262644-rebel-moon.json) |
 | Rebels & Redcoats | 122394 | [122394-rebels-and-redcoats.json](./122394-rebels-and-redcoats.json) |
+| Rebirth | 78571 | [78571-rebirth.json](./78571-rebirth.json) |
 | Rebirth of Fortune | 174322 | [174322-rebirth-of-fortune.json](./174322-rebirth-of-fortune.json) |
 | RebirthM | 174879 | [174879-rebirthm.json](./174879-rebirthm.json) |
 | Reboot | 171611 | [171611-reboot.json](./171611-reboot.json) |
@@ -699,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhino Puzzle | 263757 | [263757-rhino-puzzle.json](./263757-rhino-puzzle.json) |
 | Rhino Rumble | 49947 | [49947-rhino-rumble.json](./49947-rhino-rumble.json) |
 | Rhino Runner | 261557 | [261557-rhino-runner.json](./261557-rhino-runner.json) |
+| Rhythm 'n Notes: Improve Your Music Skills | 79176 | [79176-rhythm-n-notes-improve-your-music-skills.json](./79176-rhythm-n-notes-improve-your-music-skills.json) |
 | Rhythm & Beats | 292282 | [292282-rhythm-and-beats.json](./292282-rhythm-and-beats.json) |
 | Rhythm Cat Pro | 86707 | [86707-rhythm-cat-pro.json](./86707-rhythm-cat-pro.json) |
 | Rhythm Heaven Groove | 337031 | [337031-rhythm-heaven-groove.json](./337031-rhythm-heaven-groove.json) |
@@ -883,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Trip | 182553 | [182553-road-trip.json](./182553-road-trip.json) |
 | Road Trip | 202425 | [202425-road-trip.json](./202425-road-trip.json) |
 | Road Trip Europe | 229944 | [229944-road-trip-europe.json](./229944-road-trip-europe.json) |
+| Road Trip: Arcade Edition | 78292 | [78292-road-trip-arcade-edition.json](./78292-road-trip-arcade-edition.json) |
 | Road Wars | 265943 | [265943-road-wars.json](./265943-road-wars.json) |
 | RoadCraft | 314239 | [314239-roadcraft.json](./314239-roadcraft.json) |
 | Roadway Traffic Racer | 292327 | [292327-roadway-traffic-racer.json](./292327-roadway-traffic-racer.json) |
@@ -1115,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roof Genocide | 193492 | [193492-roof-genocide.json](./193492-roof-genocide.json) |
 | Roof Jump Stunt Driver | 231054 | [231054-roof-jump-stunt-driver.json](./231054-roof-jump-stunt-driver.json) |
 | Roof Jumping: Stunt Driver Sim | 104087 | [104087-roof-jumping-stunt-driver-sim.json](./104087-roof-jumping-stunt-driver-sim.json) |
+| Roof Rage | 77775 | [77775-roof-rage.json](./77775-roof-rage.json) |
 | Roofbot | 30897 | [30897-roofbot.json](./30897-roofbot.json) |
 | Roofbot: Puzzler on the Roof | 96729 | [96729-roofbot-puzzler-on-the-roof.json](./96729-roofbot-puzzler-on-the-roof.json) |
 | Rooftop Rascal: The Claus Cat | 328386 | [328386-rooftop-rascal-the-claus-cat.json](./328386-rooftop-rascal-the-claus-cat.json) |
