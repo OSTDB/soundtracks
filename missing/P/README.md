@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Game 2 | 270957 | [270957-parkour-game-2.json](./270957-parkour-game-2.json) |
 | Parkour Master | 145024 | [145024-parkour-master.json](./145024-parkour-master.json) |
 | Parkour Obby: Ice Escape | 415064 | [415064-parkour-obby-ice-escape.json](./415064-parkour-obby-ice-escape.json) |
+| Parkour Obby: Toxic Escape | 402301 | [402301-parkour-obby-toxic-escape.json](./402301-parkour-obby-toxic-escape.json) |
 | Parkour Simulator | 89265 | [89265-parkour-simulator.json](./89265-parkour-simulator.json) |
 | Parkour Tag | 163991 | [163991-parkour-tag.json](./163991-parkour-tag.json) |
 | ParkourMan | 105335 | [105335-parkourman.json](./105335-parkourman.json) |
@@ -600,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piāomiǎo Xī Yóu | 407318 | [407318-piaomiao-xi-you.json](./407318-piaomiao-xi-you.json) |
 | Piccadilly's Puzzle Museum | 126015 | [126015-piccadillys-puzzle-museum.json](./126015-piccadillys-puzzle-museum.json) |
 | Pick & Match | 87223 | [87223-pick-and-match.json](./87223-pick-and-match.json) |
+| Pick & Place | 402298 | [402298-pick-and-place.json](./402298-pick-and-place.json) |
 | Pick a Boo | 406116 | [406116-pick-a-boo.json](./406116-pick-a-boo.json) |
 | Pick Me Pick Me | 321125 | [321125-pick-me-pick-me.json](./321125-pick-me-pick-me.json) |
 | Pick My Heart Chapter 1 | 324132 | [324132-pick-my-heart-chapter-1.json](./324132-pick-my-heart-chapter-1.json) |
