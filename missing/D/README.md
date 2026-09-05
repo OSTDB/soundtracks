@@ -1512,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Hunter : Sniper Choice | 90664 | [90664-dragon-hunter-sniper-choice.json](./90664-dragon-hunter-sniper-choice.json) |
 | Dragon Is Dead | 289444 | [289444-dragon-is-dead.json](./289444-dragon-is-dead.json) |
 | Dragon Island Blue | 96061 | [96061-dragon-island-blue.json](./96061-dragon-island-blue.json) |
+| Dragon Jumpers | 382228 | [382228-dragon-jumpers.json](./382228-dragon-jumpers.json) |
 | Dragon King: The Fighting Game | 184099 | [184099-dragon-king-the-fighting-game.json](./184099-dragon-king-the-fighting-game.json) |
 | Dragon Knight | 31918 | [31918-dragon-knight.json](./31918-dragon-knight.json) |
 | Dragon Knight | 39628 | [39628-dragon-knight.json](./39628-dragon-knight.json) |
@@ -1686,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driftin.io | 126024 | [126024-driftin-io.json](./126024-driftin-io.json) |
 | Driftwatch VR | 30919 | [30919-driftwatch-vr.json](./30919-driftwatch-vr.json) |
 | Drifty | 251200 | [251200-drifty.json](./251200-drifty.json) |
+| Drill and Delve | 382231 | [382231-drill-and-delve.json](./382231-drill-and-delve.json) |
 | Drill Core: The Machine World | 399016 | [399016-drill-core-the-machine-world.json](./399016-drill-core-the-machine-world.json) |
 | Drink Beer, Neglect Family | 185673 | [185673-drink-beer-neglect-family.json](./185673-drink-beer-neglect-family.json) |
 | Drive Ahead! Carcade | 321142 | [321142-drive-ahead-carcade.json](./321142-drive-ahead-carcade.json) |
