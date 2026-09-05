@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bed Survival | 145648 | [145648-bed-survival.json](./145648-bed-survival.json) |
 | Bedlamball | 51985 | [51985-bedlamball.json](./51985-bedlamball.json) |
 | Bee my Bloom | 400884 | [400884-bee-my-bloom.json](./400884-bee-my-bloom.json) |
+| Bee Streamer Idler | 392773 | [392773-bee-streamer-idler.json](./392773-bee-streamer-idler.json) |
 | BeeBop II | 336888 | [336888-beebop-ii.json](./336888-beebop-ii.json) |
 | BeeFender | 89267 | [89267-beefender.json](./89267-beefender.json) |
 | Beeftown Beatdown | 238769 | [238769-beeftown-beatdown.json](./238769-beeftown-beatdown.json) |
@@ -1175,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodroot | 296107 | [296107-bloodroot.json](./296107-bloodroot.json) |
 | BloodRush: Undying Wish | 255389 | [255389-bloodrush-undying-wish.json](./255389-bloodrush-undying-wish.json) |
 | Bloodshot | 398969 | [398969-bloodshot.json](./398969-bloodshot.json) |
+| BloodSpiller | 392805 | [392805-bloodspiller.json](./392805-bloodspiller.json) |
 | Bloodstroke | 62226 | [62226-bloodstroke.json](./62226-bloodstroke.json) |
 | BloodSworn | 267099 | [267099-bloodsworn.json](./267099-bloodsworn.json) |
 | Bloodwash | 170938 | [170938-bloodwash.json](./170938-bloodwash.json) |
@@ -1188,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Zombies | 100185 | [100185-bloody-zombies.json](./100185-bloody-zombies.json) |
 | Bloom | 110476 | [110476-bloom.json](./110476-bloom.json) |
 | Bloom | 60555 | [60555-bloom.json](./60555-bloom.json) |
+| Bloom Blast | 392809 | [392809-bloom-blast.json](./392809-bloom-blast.json) |
 | Bloom Runner | 258175 | [258175-bloom-runner.json](./258175-bloom-runner.json) |
 | Bloomblebee | 175989 | [175989-bloomblebee.json](./175989-bloomblebee.json) |
 | Bloomies | 175427 | [175427-bloomies.json](./175427-bloomies.json) |
@@ -1885,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Busy Scissors | 50594 | [50594-busy-scissors.json](./50594-busy-scissors.json) |
 | Butanooo! Simulator | 303805 | [303805-butanooo-simulator.json](./303805-butanooo-simulator.json) |
 | ButcherBoy | 95605 | [95605-butcherboy.json](./95605-butcherboy.json) |
+| Butt Gunners | 392806 | [392806-butt-gunners.json](./392806-butt-gunners.json) |
 | Butt Naked & Big Guns | 158208 | [158208-butt-naked-and-big-guns.json](./158208-butt-naked-and-big-guns.json) |
 | Butter & Friends Babysitter Sim | 75148 | [75148-butter-and-friends-babysitter-sim.json](./75148-butter-and-friends-babysitter-sim.json) |
 | Butterflies: Episode 1 - Rudies | 134666 | [134666-butterflies-episode-1-rudies.json](./134666-butterflies-episode-1-rudies.json) |
