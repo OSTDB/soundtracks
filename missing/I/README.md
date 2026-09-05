@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernal Battles | 402938 | [402938-infernal-battles.json](./402938-infernal-battles.json) |
 | Infernal Chess | 333398 | [333398-infernal-chess.json](./333398-infernal-chess.json) |
 | Infernal Dream Collection | 53230 | [53230-infernal-dream-collection.json](./53230-infernal-dream-collection.json) |
+| Infernal Eclipse of Ragnarok | 379350 | [379350-infernal-eclipse-of-ragnarok.json](./379350-infernal-eclipse-of-ragnarok.json) |
 | Infernal West | 415107 | [415107-infernal-west.json](./415107-infernal-west.json) |
 | Infernax | 122386 | [122386-infernax.json](./122386-infernax.json) |
 | Infernium | 86337 | [86337-infernium.json](./86337-infernium.json) |
