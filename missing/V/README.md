@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Iconic Pixels - 80s Quiz | 233738 | [233738-very-iconic-pixels-80s-quiz.json](./233738-very-iconic-pixels-80s-quiz.json) |
 | Very Little Nightmares | 117295 | [117295-very-little-nightmares.json](./117295-very-little-nightmares.json) |
 | Very Very Cat | 393511 | [393511-very-very-cat.json](./393511-very-very-cat.json) |
+| Vesper Hotel | 391067 | [391067-vesper-hotel.json](./391067-vesper-hotel.json) |
 | Vespera_Hotel | 296105 | [296105-vespera-hotel.json](./296105-vespera-hotel.json) |
 | Vesperia Bononia | 332268 | [332268-vesperia-bononia.json](./332268-vesperia-bononia.json) |
 | Vessel Damage Control Trainer | 243417 | [243417-vessel-damage-control-trainer.json](./243417-vessel-damage-control-trainer.json) |
