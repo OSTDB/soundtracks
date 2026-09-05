@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paintball 3: Candy Match Factory | 270960 | [270960-paintball-3-candy-match-factory.json](./270960-paintball-3-candy-match-factory.json) |
 | Paintboss - Car Painting VR | 75909 | [75909-paintboss-car-painting-vr.json](./75909-paintboss-car-painting-vr.json) |
 | Paintbrush Warrior | 339130 | [339130-paintbrush-warrior.json](./339130-paintbrush-warrior.json) |
+| Painted Kingdoms | 392796 | [392796-painted-kingdoms.json](./392796-painted-kingdoms.json) |
 | Painted Legend | 31896 | [31896-painted-legend.json](./31896-painted-legend.json) |
 | Painter | 262091 | [262091-painter.json](./262091-painter.json) |
 | Painting VR: Cozy Cabin | 305541 | [305541-painting-vr-cozy-cabin.json](./305541-painting-vr-cozy-cabin.json) |
@@ -319,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PathPix Edge | 108498 | [108498-pathpix-edge.json](./108498-pathpix-edge.json) |
 | Paths Taken | 119039 | [119039-paths-taken.json](./119039-paths-taken.json) |
 | Pathstorm | 71512 | [71512-pathstorm.json](./71512-pathstorm.json) |
+| Patience Balls | 392789 | [392789-patience-balls.json](./392789-patience-balls.json) |
 | Patlabor: Come Back Mini-Pato | 75899 | [75899-patlabor-come-back-mini-pato.json](./75899-patlabor-come-back-mini-pato.json) |
 | Patlabor: The Mobile Police | 75896 | [75896-patlabor-the-mobile-police.json](./75896-patlabor-the-mobile-police.json) |
 | Patrician III | 287 | [287-patrician-iii.json](./287-patrician-iii.json) |
@@ -1070,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Crystal 251 | 312377 | [312377-pokemon-crystal-251.json](./312377-pokemon-crystal-251.json) |
 | Pokémon Cyan | 129814 | [129814-pokemon-cyan.json](./129814-pokemon-cyan.json) |
 | Pokémon Deluge | 172745 | [172745-pokemon-deluge.json](./172745-pokemon-deluge.json) |
+| Pokémon Echo | 392776 | [392776-pokemon-echo.json](./392776-pokemon-echo.json) |
 | Pokémon Eclesia | 306671 | [306671-pokemon-eclesia.json](./306671-pokemon-eclesia.json) |
 | Pokémon Edición Reloaded | 250629 | [250629-pokemon-edicion-reloaded.json](./250629-pokemon-edicion-reloaded.json) |
 | Pokémon Emerald Kaizo | 172744 | [172744-pokemon-emerald-kaizo.json](./172744-pokemon-emerald-kaizo.json) |
