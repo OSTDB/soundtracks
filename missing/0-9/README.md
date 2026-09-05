@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2112TD: Tower Defense Survival | 135256 | [135256-2112td-tower-defense-survival.json](./135256-2112td-tower-defense-survival.json) |
 | 2184 | 316433 | [316433-2184.json](./316433-2184.json) |
 | 22 Racing Series | 97343 | [97343-22-racing-series.json](./97343-22-racing-series.json) |
+| 24 Jingles to Bell | 394832 | [394832-24-jingles-to-bell.json](./394832-24-jingles-to-bell.json) |
 | 25th Anniversary Super Mario Bros. | 202413 | [202413-25th-anniversary-super-mario-bros.json](./202413-25th-anniversary-super-mario-bros.json) |
 | 25th Century Duke | 273131 | [273131-25th-century-duke.json](./273131-25th-century-duke.json) |
 | 27 Solitaire Games | 91976 | [91976-27-solitaire-games.json](./91976-27-solitaire-games.json) |
