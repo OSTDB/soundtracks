@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Light | 47277 | [47277-league-of-light.json](./47277-league-of-light.json) |
 | League of Light: Dark Omens & League of Light: Wicked Harvest | 201815 | [201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json](./201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json) |
 | League Star | 100870 | [100870-league-star.json](./100870-league-star.json) |
+| Leaks In Space | 369563 | [369563-leaks-in-space.json](./369563-leaks-in-space.json) |
 | Leap to the Top+ | 267077 | [267077-leap-to-the-top.json](./267077-leap-to-the-top.json) |
 | Leap: A Dragon's Adventure | 392788 | [392788-leap-a-dragons-adventure.json](./392788-leap-a-dragons-adventure.json) |
 | Learn Basic Mandarin!! | 396220 | [396220-learn-basic-mandarin.json](./396220-learn-basic-mandarin.json) |
@@ -905,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Love Island | 278148 | [278148-lost-love-island.json](./278148-lost-love-island.json) |
 | Lost Maria: Namonaki Hana | 394168 | [394168-lost-maria-namonaki-hana.json](./394168-lost-maria-namonaki-hana.json) |
 | Lost Memories | 224779 | [224779-lost-memories.json](./224779-lost-memories.json) |
+| Lost Memories 3 Side Stories | 369569 | [369569-lost-memories-3-side-stories.json](./369569-lost-memories-3-side-stories.json) |
 | Lost Memories: Romance You Choose | 299456 | [299456-lost-memories-romance-you-choose.json](./299456-lost-memories-romance-you-choose.json) |
 | Lost Planet 3 | 1916 | [1916-lost-planet-3.json](./1916-lost-planet-3.json) |
 | Lost Planet: Extreme Condition | 1913 | [1913-lost-planet-extreme-condition.json](./1913-lost-planet-extreme-condition.json) |
