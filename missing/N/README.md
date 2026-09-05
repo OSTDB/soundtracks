@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nursery Rhyme | 69306 | [69306-nursery-rhyme.json](./69306-nursery-rhyme.json) |
 | Nushi Tsuri Adventure: Kite no Bouken | 50560 | [50560-nushi-tsuri-adventure-kite-no-bouken.json](./50560-nushi-tsuri-adventure-kite-no-bouken.json) |
 | Nutjitsu: Reforged | 52645 | [52645-nutjitsu-reforged.json](./52645-nutjitsu-reforged.json) |
+| Nǚwáng | 407321 | [407321-nuwang.json](./407321-nuwang.json) |
 | Nuwe: First seeds | 199099 | [199099-nuwe-first-seeds.json](./199099-nuwe-first-seeds.json) |
 | NY City Bank Manager 2018 | 96725 | [96725-ny-city-bank-manager-2018.json](./96725-ny-city-bank-manager-2018.json) |
 | Nyako: Restaurant Tycoon | 157178 | [157178-nyako-restaurant-tycoon.json](./157178-nyako-restaurant-tycoon.json) |
