@@ -324,9 +324,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Jones and the Temple of the Spheres | 322929 | [322929-indiana-jones-and-the-temple-of-the-spheres.json](./322929-indiana-jones-and-the-temple-of-the-spheres.json) |
 | Indiana Jones y la estatua sagrada | 322931 | [322931-indiana-jones-y-la-estatua-sagrada.json](./322931-indiana-jones-y-la-estatua-sagrada.json) |
 | Indiana Rodent | 57093 | [57093-indiana-rodent.json](./57093-indiana-rodent.json) |
+| Indie Bungle 2: Breakout Indies | 414340 | [414340-indie-bungle-2-breakout-indies.json](./414340-indie-bungle-2-breakout-indies.json) |
 | Indie Gems Bundle: JRPG Edition | 129805 | [129805-indie-gems-bundle-jrpg-edition.json](./129805-indie-gems-bundle-jrpg-edition.json) |
 | Indoor Baseball | 330562 | [330562-indoor-baseball.json](./330562-indoor-baseball.json) |
 | Induction | 18194 | [18194-induction.json](./18194-induction.json) |
+| Indulge | 414312 | [414312-indulge.json](./414312-indulge.json) |
 | Industria II | 292878 | [292878-industria-ii.json](./292878-industria-ii.json) |
 | Industry Giant 2 - Gold 2012 | 53228 | [53228-industry-giant-2-gold-2012.json](./53228-industry-giant-2-gold-2012.json) |
 | Industry Giant 2 HD | 53229 | [53229-industry-giant-2-hd.json](./53229-industry-giant-2-hd.json) |
