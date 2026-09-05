@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Enforcer X | 181905 | [181905-omega-enforcer-x.json](./181905-omega-enforcer-x.json) |
 | Omega Fighter | 40256 | [40256-omega-fighter.json](./40256-omega-fighter.json) |
 | Omega Knockout: Punch Boxing | 302115 | [302115-omega-knockout-punch-boxing.json](./302115-omega-knockout-punch-boxing.json) |
+| Omega Luma: The First Battle | 367941 | [367941-omega-luma-the-first-battle.json](./367941-omega-luma-the-first-battle.json) |
 | Omega Mouse Zero | 296677 | [296677-omega-mouse-zero.json](./296677-omega-mouse-zero.json) |
 | Omega no Shikai 1. Shiki no Hajimari | 260965 | [260965-omega-no-shikai-1-shiki-no-hajimari.json](./260965-omega-no-shikai-1-shiki-no-hajimari.json) |
 | Omega no Shikai: Aki Kaketa Shiki no Ai | 260966 | [260966-omega-no-shikai-aki-kaketa-shiki-no-ai.json](./260966-omega-no-shikai-aki-kaketa-shiki-no-ai.json) |
@@ -379,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One-armed Cook: Ships and Oceans | 247784 | [247784-one-armed-cook-ships-and-oceans.json](./247784-one-armed-cook-ships-and-oceans.json) |
 | One-Eyed Lee and the Dinner Party | 127382 | [127382-one-eyed-lee-and-the-dinner-party.json](./127382-one-eyed-lee-and-the-dinner-party.json) |
 | One-Eyed Likho | 250955 | [250955-one-eyed-likho.json](./250955-one-eyed-likho.json) |
+| One-Hit Slayer! Swordog | 367963 | [367963-one-hit-slayer-swordog.json](./367963-one-hit-slayer-swordog.json) |
 | One-inch Tactics | 301574 | [301574-one-inch-tactics.json](./301574-one-inch-tactics.json) |
 | One-Thousand Cuts | 250001 | [250001-one-thousand-cuts.json](./250001-one-thousand-cuts.json) |
 | One: Kagayaku Kisetsu he | 72705 | [72705-one-kagayaku-kisetsu-he.json](./72705-one-kagayaku-kisetsu-he.json) |
@@ -462,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Dartness | 378187 | [378187-operation-dartness.json](./378187-operation-dartness.json) |
 | Operation Eventide | 337477 | [337477-operation-eventide.json](./337477-operation-eventide.json) |
 | Operation H.O.P.E. | 392784 | [392784-operation-h-o-p-e.json](./392784-operation-h-o-p-e.json) |
+| Operation HuntingHawk : Breakthrough | 367938 | [367938-operation-huntinghawk-breakthrough.json](./367938-operation-huntinghawk-breakthrough.json) |
 | Operation Market Garden: Drive on Arnhem, September 1944 | 25779 | [25779-operation-market-garden-drive-on-arnhem-september-1944.json](./25779-operation-market-garden-drive-on-arnhem-september-1944.json) |
 | Operation Pill | 199098 | [199098-operation-pill.json](./199098-operation-pill.json) |
 | Operation Remode | 333354 | [333354-operation-remode.json](./333354-operation-remode.json) |
