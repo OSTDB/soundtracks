@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of the Mysterious World: The Lost of the Hearts | 394187 | [394187-adventures-of-the-mysterious-world-the-lost-of-the-hearts.json](./394187-adventures-of-the-mysterious-world-the-lost-of-the-hearts.json) |
 | Adventures of the Old Testament: The Bible Video Game | 211395 | [211395-adventures-of-the-old-testament-the-bible-video-game.json](./211395-adventures-of-the-old-testament-the-bible-video-game.json) |
 | Adventures to Go! | 46016 | [46016-adventures-to-go.json](./46016-adventures-to-go.json) |
+| Adventures with Alan Parkour 3D | 369557 | [369557-adventures-with-alan-parkour-3d.json](./369557-adventures-with-alan-parkour-3d.json) |
 | Adversator | 180289 | [180289-adversator.json](./180289-adversator.json) |
 | Adverse | 132254 | [132254-adverse.json](./132254-adverse.json) |
 | Advise the King | 229941 | [229941-advise-the-king.json](./229941-advise-the-king.json) |
@@ -1090,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | And Roger | 324784 | [324784-and-roger.json](./324784-and-roger.json) |
 | Andalusian Roulette | 303789 | [303789-andalusian-roulette.json](./303789-andalusian-roulette.json) |
 | Andara: Rise for Rebellion | 255986 | [255986-andara-rise-for-rebellion.json](./255986-andara-rise-for-rebellion.json) |
+| Andou: Pulse of Cup | 369572 | [369572-andou-pulse-of-cup.json](./369572-andou-pulse-of-cup.json) |
 | Andrew Lloyd Webber Musicals: Sing and Dance | 63874 | [63874-andrew-lloyd-webber-musicals-sing-and-dance.json](./63874-andrew-lloyd-webber-musicals-sing-and-dance.json) |
 | Android Amazones | 120987 | [120987-android-amazones.json](./120987-android-amazones.json) |
 | Android Runner | 100820 | [100820-android-runner.json](./100820-android-runner.json) |
@@ -1172,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Way | 295552 | [295552-animal-way.json](./295552-animal-way.json) |
 | Animal Well | 191435 | [191435-animal-well.json](./191435-animal-well.json) |
 | Animal Wine Factory | 212497 | [212497-animal-wine-factory.json](./212497-animal-wine-factory.json) |
+| Animal Workforce: Idle Tycoon Clicker | 369583 | [369583-animal-workforce-idle-tycoon-clicker.json](./369583-animal-workforce-idle-tycoon-clicker.json) |
 | Animal Zodiac | 298880 | [298880-animal-zodiac.json](./298880-animal-zodiac.json) |
 | Animalia Survival | 167832 | [167832-animalia-survival.json](./167832-animalia-survival.json) |
 | Animallica | 43361 | [43361-animallica.json](./43361-animallica.json) |
