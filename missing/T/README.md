@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarot Mystery | 37793 | [37793-tarot-mystery.json](./37793-tarot-mystery.json) |
 | Tartarus | 29147 | [29147-tartarus.json](./29147-tartarus.json) |
 | Tarzan | 25728 | [25728-tarzan.json](./25728-tarzan.json) |
+| Tashio Tempo | 403579 | [403579-tashio-tempo.json](./403579-tashio-tempo.json) |
 | Task Force 88: Hostile Contact | 179209 | [179209-task-force-88-hostile-contact.json](./179209-task-force-88-hostile-contact.json) |
 | Task Force Harrier | 40248 | [40248-task-force-harrier.json](./40248-task-force-harrier.json) |
 | Task III | 55150 | [55150-task-iii.json](./55150-task-iii.json) |
@@ -2842,6 +2843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Wars Invasion | 9449 | [9449-toy-wars-invasion.json](./9449-toy-wars-invasion.json) |
 | Toybox | 184645 | [184645-toybox.json](./184645-toybox.json) |
 | Toymaker | 10941 | [10941-toymaker.json](./10941-toymaker.json) |
+| Toypunk | 403575 | [403575-toypunk.json](./403575-toypunk.json) |
 | Toys: Crash Arena | 221396 | [221396-toys-crash-arena.json](./221396-toys-crash-arena.json) |
 | ToyShot VR | 112982 | [112982-toyshot-vr.json](./112982-toyshot-vr.json) |
 | Tracery of Fate VR | 207496 | [207496-tracery-of-fate-vr.json](./207496-tracery-of-fate-vr.json) |
