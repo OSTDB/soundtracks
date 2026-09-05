@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intrepid | 112999 | [112999-intrepid.json](./112999-intrepid.json) |
 | Introspectus | 398353 | [398353-introspectus.json](./398353-introspectus.json) |
 | Intruder | 313504 | [313504-intruder.json](./313504-intruder.json) |
+| Intruder | 378208 | [378208-intruder.json](./378208-intruder.json) |
 | Intruder -Sakura Yashiki no Tansaku- | 138224 | [138224-intruder-sakura-yashiki-no-tansaku.json](./138224-intruder-sakura-yashiki-no-tansaku.json) |
 | Intruder Alert: Ixian Operations | 33126 | [33126-intruder-alert-ixian-operations.json](./33126-intruder-alert-ixian-operations.json) |
 | Intruder on the Bridge | 173839 | [173839-intruder-on-the-bridge.json](./173839-intruder-on-the-bridge.json) |
