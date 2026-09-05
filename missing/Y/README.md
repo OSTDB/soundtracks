@@ -16,6 +16,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yaku Slap | 329976 | [329976-yaku-slap.json](./329976-yaku-slap.json) |
 | Yakuman | 67330 | [67330-yakuman.json](./67330-yakuman.json) |
 | Yakuza 5 Remastered | 103017 | [103017-yakuza-5-remastered.json](./103017-yakuza-5-remastered.json) |
+| Yakuza Kiwami 3 & Dark Ties: Flip Phone Customization Pack | 375193 | [375193-yakuza-kiwami-3-and-dark-ties-flip-phone-customization-pack.json](./375193-yakuza-kiwami-3-and-dark-ties-flip-phone-customization-pack.json) |
+| Yakuza Kiwami 3 & Dark Ties: Legendary BGM CD Pack | 375194 | [375194-yakuza-kiwami-3-and-dark-ties-legendary-bgm-cd-pack.json](./375194-yakuza-kiwami-3-and-dark-ties-legendary-bgm-cd-pack.json) |
+| Yakuza Kiwami 3 & Dark Ties: Legendary Lads & Gals Set | 375195 | [375195-yakuza-kiwami-3-and-dark-ties-legendary-lads-and-gals-set.json](./375195-yakuza-kiwami-3-and-dark-ties-legendary-lads-and-gals-set.json) |
+| Yakuza Kiwami 3 & Dark Ties: Legendary Outfit Pack | 375196 | [375196-yakuza-kiwami-3-and-dark-ties-legendary-outfit-pack.json](./375196-yakuza-kiwami-3-and-dark-ties-legendary-outfit-pack.json) |
+| Yakuza Kiwami 3 & Dark Ties: Ryukyu Gal Gang Customization Pack | 375197 | [375197-yakuza-kiwami-3-and-dark-ties-ryukyu-gal-gang-customization-pack.json](./375197-yakuza-kiwami-3-and-dark-ties-ryukyu-gal-gang-customization-pack.json) |
 | Yakuza Shadows of New York | 322399 | [322399-yakuza-shadows-of-new-york.json](./322399-yakuza-shadows-of-new-york.json) |
 | Yakuza: Dead Souls | 7489 | [7489-yakuza-dead-souls.json](./7489-yakuza-dead-souls.json) |
 | Yakuza: Like a Dragon | 36550 | [36550-yakuza-like-a-dragon.json](./36550-yakuza-like-a-dragon.json) |
