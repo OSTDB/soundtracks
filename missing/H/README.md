@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hai Byouin Tansaku | 261547 | [261547-hai-byouin-tansaku.json](./261547-hai-byouin-tansaku.json) |
 | Hai Shuuraku Tansaku | 261546 | [261546-hai-shuuraku-tansaku.json](./261546-hai-shuuraku-tansaku.json) |
 | Hailey | 109738 | [109738-hailey.json](./109738-hailey.json) |
+| Hailstorm | 68171 | [68171-hailstorm.json](./68171-hailstorm.json) |
 | Hair Bows | 156125 | [156125-hair-bows.json](./156125-hair-bows.json) |
 | Hair Dash | 123038 | [123038-hair-dash.json](./123038-hair-dash.json) |
 | Hair Mower 3D | 137052 | [137052-hair-mower-3d.json](./137052-hair-mower-3d.json) |
