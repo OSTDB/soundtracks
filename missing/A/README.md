@@ -633,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airborne! | 95457 | [95457-airborne.json](./95457-airborne.json) |
 | Aircoaster | 66731 | [66731-aircoaster.json](./66731-aircoaster.json) |
 | Aircraft War: Extra Level Pack 2 | 263196 | [263196-aircraft-war-extra-level-pack-2.json](./263196-aircraft-war-extra-level-pack-2.json) |
+| Aircrafter | 379858 | [379858-aircrafter.json](./379858-aircrafter.json) |
 | AirFighter | 193485 | [193485-airfighter.json](./193485-airfighter.json) |
 | Airforce Delta | 47285 | [47285-airforce-delta.json](./47285-airforce-delta.json) |
 | AirForce Delta Storm | 5718 | [5718-airforce-delta-storm.json](./5718-airforce-delta-storm.json) |
@@ -1121,6 +1122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Bulls | 209706 | [209706-angry-bulls.json](./209706-angry-bulls.json) |
 | Angry Bunnies | 62200 | [62200-angry-bunnies.json](./62200-angry-bunnies.json) |
 | Angry Bunnies: Colossal Carrot Crusade - Heroes | 238190 | [238190-angry-bunnies-colossal-carrot-crusade-heroes.json](./238190-angry-bunnies-colossal-carrot-crusade-heroes.json) |
+| Angry Cat | 379906 | [379906-angry-cat.json](./379906-angry-cat.json) |
 | Angry Dog | 399631 | [399631-angry-dog.json](./399631-angry-dog.json) |
 | Angry Fugu | 144993 | [144993-angry-fugu.json](./144993-angry-fugu.json) |
 | Anicca | 208058 | [208058-anicca.json](./208058-anicca.json) |
@@ -1641,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arxon | 93062 | [93062-arxon.json](./93062-arxon.json) |
 | As Aventuras de Kiwi | 306710 | [306710-as-aventuras-de-kiwi.json](./306710-as-aventuras-de-kiwi.json) |
 | As simple as it could get | 211411 | [211411-as-simple-as-it-could-get.json](./211411-as-simple-as-it-could-get.json) |
+| As Sweetberry Falls | 379882 | [379882-as-sweetberry-falls.json](./379882-as-sweetberry-falls.json) |
 | Asaki, Yumemishi | 56524 | [56524-asaki-yumemishi.json](./56524-asaki-yumemishi.json) |
 | Ascend to Zero | 316425 | [316425-ascend-to-zero.json](./316425-ascend-to-zero.json) |
 | Ascendants: Power Rising | 52610 | [52610-ascendants-power-rising.json](./52610-ascendants-power-rising.json) |
