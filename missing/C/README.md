@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: The Adventure ReBirth | 1146 | [1146-castlevania-the-adventure-rebirth.json](./1146-castlevania-the-adventure-rebirth.json) |
 | Castlevania: The Seal Of The Curse X | 317630 | [317630-castlevania-the-seal-of-the-curse-x.json](./317630-castlevania-the-seal-of-the-curse-x.json) |
 | Casual Commando | 157714 | [157714-casual-commando.json](./157714-casual-commando.json) |
+| Casual Sport Series: Racket Sports Bundle | 396915 | [396915-casual-sport-series-racket-sports-bundle.json](./396915-casual-sport-series-racket-sports-bundle.json) |
 | Casual Trucking | 306097 | [306097-casual-trucking.json](./306097-casual-trucking.json) |
 | Cat & Rabbit Magic Farming | 404262 | [404262-cat-and-rabbit-magic-farming.json](./404262-cat-and-rabbit-magic-farming.json) |
 | Cat + Dog | 237061 | [237061-cat-dog.json](./237061-cat-dog.json) |
@@ -381,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Box Paradox | 185679 | [185679-cat-box-paradox.json](./185679-cat-box-paradox.json) |
 | Cat Capacity | 173304 | [173304-cat-capacity.json](./173304-cat-capacity.json) |
 | Cat Chases Mouse | 406722 | [406722-cat-chases-mouse.json](./406722-cat-chases-mouse.json) |
+| Cat Doctor: For Loyal Servants | 396880 | [396880-cat-doctor-for-loyal-servants.json](./396880-cat-doctor-for-loyal-servants.json) |
 | Cat Dungeon | 210880 | [210880-cat-dungeon.json](./210880-cat-dungeon.json) |
 | Cat Escape! Infinity！ | 247205 | [247205-cat-escape-infinity.json](./247205-cat-escape-infinity.json) |
 | Cat Forest: Healing Camp | 239918 | [239918-cat-forest-healing-camp.json](./239918-cat-forest-healing-camp.json) |
@@ -1383,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Trip: Back on the Road | 120385 | [120385-cooking-trip-back-on-the-road.json](./120385-cooking-trip-back-on-the-road.json) |
 | Cooking Truck | 227475 | [227475-cooking-truck.json](./227475-cooking-truck.json) |
 | Cooking Tycoons 3: 3 in 1 Bundle | 231045 | [231045-cooking-tycoons-3-3-in-1-bundle.json](./231045-cooking-tycoons-3-3-in-1-bundle.json) |
+| Cooking Tycoons: 3 in 1 Bundle - Premium Edition | 396916 | [396916-cooking-tycoons-3-in-1-bundle-premium-edition.json](./396916-cooking-tycoons-3-in-1-bundle-premium-edition.json) |
 | Cooking with Bebo | 105931 | [105931-cooking-with-bebo.json](./105931-cooking-with-bebo.json) |
 | Cooking with Cat | 180310 | [180310-cooking-with-cat.json](./180310-cooking-with-cat.json) |
 | Cool Cats | 174909 | [174909-cool-cats.json](./174909-cool-cats.json) |
@@ -1846,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cub Gym | 150701 | [150701-cub-gym.json](./150701-cub-gym.json) |
 | Cuban Missile Crisis: Ice Crusade | 24721 | [24721-cuban-missile-crisis-ice-crusade.json](./24721-cuban-missile-crisis-ice-crusade.json) |
 | Cube | 272548 | [272548-cube.json](./272548-cube.json) |
+| Cube | 396933 | [396933-cube.json](./396933-cube.json) |
 | Cube 332 | 109729 | [109729-cube-332.json](./109729-cube-332.json) |
 | Cube Arena | 304900 | [304900-cube-arena.json](./304900-cube-arena.json) |
 | Cube Battlefield: 2048 | 267071 | [267071-cube-battlefield-2048.json](./267071-cube-battlefield-2048.json) |
@@ -1936,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Bet | 253590 | [253590-cursed-bet.json](./253590-cursed-bet.json) |
 | Cursed Crew | 217018 | [217018-cursed-crew.json](./217018-cursed-crew.json) |
 | Cursed Fables: A Voice to Die For - Collector's Edition | 260422 | [260422-cursed-fables-a-voice-to-die-for-collectors-edition.json](./260422-cursed-fables-a-voice-to-die-for-collectors-edition.json) |
+| Cursed Gun | 396895 | [396895-cursed-gun.json](./396895-cursed-gun.json) |
 | Cursed House | 186326 | [186326-cursed-house.json](./186326-cursed-house.json) |
 | Cursed House 11 | 214181 | [214181-cursed-house-11.json](./214181-cursed-house-11.json) |
 | Cursed Land | 297237 | [297237-cursed-land.json](./297237-cursed-land.json) |
