@@ -639,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers Saga | 58275 | [58275-checkers-saga.json](./58275-checkers-saga.json) |
 | Checkers' Village | 382190 | [382190-checkers-village.json](./382190-checkers-village.json) |
 | Checkmate Heroines | 391068 | [391068-checkmate-heroines.json](./391068-checkmate-heroines.json) |
+| Checkmate in the Wild West: Chess Adventure | 373534 | [373534-checkmate-in-the-wild-west-chess-adventure.json](./373534-checkmate-in-the-wild-west-chess-adventure.json) |
 | Cheddly and Cloud's Crazy Adventure | 332222 | [332222-cheddly-and-clouds-crazy-adventure.json](./332222-cheddly-and-clouds-crazy-adventure.json) |
 | Cheddly and Cloud's Crazy Adventure 2 | 332261 | [332261-cheddly-and-clouds-crazy-adventure-2.json](./332261-cheddly-and-clouds-crazy-adventure-2.json) |
 | Chee-Chai Alien | 79920 | [79920-chee-chai-alien.json](./79920-chee-chai-alien.json) |
@@ -1204,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Case Files | 57683 | [57683-cold-case-files.json](./57683-cold-case-files.json) |
 | Cold Depth | 157202 | [157202-cold-depth.json](./157202-cold-depth.json) |
 | Cold Steel | 314630 | [314630-cold-steel.json](./314630-cold-steel.json) |
+| Cold Steel | 373518 | [373518-cold-steel.json](./373518-cold-steel.json) |
 | Cold Sweat | 323508 | [323508-cold-sweat.json](./323508-cold-sweat.json) |
 | Cold War Warfare | 73805 | [73805-cold-war-warfare.json](./73805-cold-war-warfare.json) |
 | Cold War: Frontline | 339101 | [339101-cold-war-frontline.json](./339101-cold-war-frontline.json) |
