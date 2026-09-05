@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Sing Superstar Quiz | 63900 | [63900-we-sing-superstar-quiz.json](./63900-we-sing-superstar-quiz.json) |
 | We Surround You | 150687 | [150687-we-surround-you.json](./150687-we-surround-you.json) |
 | We Were Here Too | 54486 | [54486-we-were-here-too.json](./54486-we-were-here-too.json) |
+| We're Here, Papa | 410922 | [410922-were-here-papa.json](./410922-were-here-papa.json) |
 | Weak Soul | 247741 | [247741-weak-soul.json](./247741-weak-soul.json) |
 | Weak Warrior | 61115 | [61115-weak-warrior.json](./61115-weak-warrior.json) |
 | Weakest Demon King: Escape! You Cannot Defeat the Female Heroines! | 82874 | [82874-weakest-demon-king-escape-you-cannot-defeat-the-female-heroines.json](./82874-weakest-demon-king-escape-you-cannot-defeat-the-female-heroines.json) |
@@ -326,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wet Warfare | 109679 | [109679-wet-warfare.json](./109679-wet-warfare.json) |
 | WFD | 272567 | [272567-wfd.json](./272567-wfd.json) |
 | Whack-A-Friend | 85486 | [85486-whack-a-friend.json](./85486-whack-a-friend.json) |
+| Whack-A-Monster | 410919 | [410919-whack-a-monster.json](./410919-whack-a-monster.json) |
 | Wham the Music Box | 45314 | [45314-wham-the-music-box.json](./45314-wham-the-music-box.json) |
 | What A Legend | 239306 | [239306-what-a-legend.json](./239306-what-a-legend.json) |
 | What Cat? | 253033 | [253033-what-cat.json](./253033-what-cat.json) |
