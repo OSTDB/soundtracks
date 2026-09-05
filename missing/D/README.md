@@ -891,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diesel Brothers: Truck Building Simulator Editor | 152910 | [152910-diesel-brothers-truck-building-simulator-editor.json](./152910-diesel-brothers-truck-building-simulator-editor.json) |
 | Diet Family | 267649 | [267649-diet-family.json](./267649-diet-family.json) |
 | Different Strokes | 213030 | [213030-different-strokes.json](./213030-different-strokes.json) |
+| Dig Baby Dig Company | 376450 | [376450-dig-baby-dig-company.json](./376450-dig-baby-dig-company.json) |
 | Dig Mania | 129200 | [129200-dig-mania.json](./129200-dig-mania.json) |
 | Dig Odyssey: Cosmic Mining | 251205 | [251205-dig-odyssey-cosmic-mining.json](./251205-dig-odyssey-cosmic-mining.json) |
 | Dig Out! | 87330 | [87330-dig-out.json](./87330-dig-out.json) |
@@ -1741,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DropZone | 19546 | [19546-dropzone.json](./19546-dropzone.json) |
 | Drowning Cross | 119750 | [119750-drowning-cross.json](./119750-drowning-cross.json) |
 | Drudge | 388738 | [388738-drudge.json](./388738-drudge.json) |
+| Drug Empire | 376459 | [376459-drug-empire.json](./376459-drug-empire.json) |
 | Drug Grower Simulator | 217508 | [217508-drug-grower-simulator.json](./217508-drug-grower-simulator.json) |
 | Drugs and Crime Idle | 153426 | [153426-drugs-and-crime-idle.json](./153426-drugs-and-crime-idle.json) |
 | Druid's Tale: Crystal Cave | 61653 | [61653-druids-tale-crystal-cave.json](./61653-druids-tale-crystal-cave.json) |
@@ -1949,6 +1951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamic Chord feat. Kyohso | 142446 | [142446-dynamic-chord-feat-kyohso.json](./142446-dynamic-chord-feat-kyohso.json) |
 | Dynamic Chord feat. Liar-S | 142445 | [142445-dynamic-chord-feat-liar-s.json](./142445-dynamic-chord-feat-liar-s.json) |
 | Dynamite | 94260 | [94260-dynamite.json](./94260-dynamite.json) |
+| Dynamite Dashers | 376464 | [376464-dynamite-dashers.json](./376464-dynamite-dashers.json) |
 | Dynamite Day | 415916 | [415916-dynamite-day.json](./415916-dynamite-day.json) |
 | Dynamite Duke | 39651 | [39651-dynamite-duke.json](./39651-dynamite-duke.json) |
 | Dynasty Warriors 3: Xtreme Legends | 45014 | [45014-dynasty-warriors-3-xtreme-legends.json](./45014-dynasty-warriors-3-xtreme-legends.json) |
