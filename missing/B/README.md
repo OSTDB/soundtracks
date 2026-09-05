@@ -965,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Astral | 201317 | [201317-black-astral.json](./201317-black-astral.json) |
 | Black Belt | 12257 | [12257-black-belt.json](./12257-black-belt.json) |
 | Black Belt | 29134 | [29134-black-belt.json](./29134-black-belt.json) |
+| Black Blood | 379357 | [379357-black-blood.json](./379357-black-blood.json) |
 | Black Box VR | 140619 | [140619-black-box-vr.json](./140619-black-box-vr.json) |
 | Black Cat Explores Minds | 151736 | [151736-black-cat-explores-minds.json](./151736-black-cat-explores-minds.json) |
 | Black Cauldron Remake | 319346 | [319346-black-cauldron-remake.json](./319346-black-cauldron-remake.json) |
@@ -1100,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blightseeker | 236510 | [236510-blightseeker.json](./236510-blightseeker.json) |
 | Bliink: Staring Contest | 143089 | [143089-bliink-staring-contest.json](./143089-bliink-staring-contest.json) |
 | Blik Ball | 413660 | [413660-blik-ball.json](./413660-blik-ball.json) |
+| Blind Box | 379348 | [379348-blind-box.json](./379348-blind-box.json) |
 | Blind Shot | 145003 | [145003-blind-shot.json](./145003-blind-shot.json) |
 | Blind zum Bus | 383973 | [383973-blind-zum-bus.json](./383973-blind-zum-bus.json) |
 | Blinding Oversight | 253592 | [253592-blinding-oversight.json](./253592-blinding-oversight.json) |
@@ -1485,9 +1487,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Zone | 84241 | [84241-bounce-zone.json](./84241-bounce-zone.json) |
 | Bounceables | 217548 | [217548-bounceables.json](./217548-bounceables.json) |
 | Bounced | 295027 | [295027-bounced.json](./295027-bounced.json) |
+| Bouncemasters: Aiming Assist | 379378 | [379378-bouncemasters-aiming-assist.json](./379378-bouncemasters-aiming-assist.json) |
 | Bouncer | 13698 | [13698-bouncer.json](./13698-bouncer.json) |
 | Bouncing Babies | 46652 | [46652-bouncing-babies.json](./46652-bouncing-babies.json) |
 | Bouncing Over It with friends | 106406 | [106406-bouncing-over-it-with-friends.json](./106406-bouncing-over-it-with-friends.json) |
+| Bouncy Butt Castle | 379345 | [379345-bouncy-butt-castle.json](./379345-bouncy-butt-castle.json) |
 | Bouncy Goal | 242219 | [242219-bouncy-goal.json](./242219-bouncy-goal.json) |
 | Bound Ball Animals | 314020 | [314020-bound-ball-animals.json](./314020-bound-ball-animals.json) |
 | Bound High | 50596 | [50596-bound-high.json](./50596-bound-high.json) |
