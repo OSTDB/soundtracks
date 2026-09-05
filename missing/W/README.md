@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarMen Tactics | 85496 | [85496-warmen-tactics.json](./85496-warmen-tactics.json) |
 | WarOFuture | 301615 | [301615-warofuture.json](./301615-warofuture.json) |
 | Warp 7 | 231062 | [231062-warp-7.json](./231062-warp-7.json) |
+| Warp Rush | 413007 | [413007-warp-rush.json](./413007-warp-rush.json) |
 | Warp Soldier | 216486 | [216486-warp-soldier.json](./216486-warp-soldier.json) |
 | Warp-1 | 57125 | [57125-warp-1.json](./57125-warp-1.json) |
 | Warpaws | 219259 | [219259-warpaws.json](./219259-warpaws.json) |
