@@ -1919,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzznic | 307912 | [307912-puzznic.json](./307912-puzznic.json) |
 | Puzzrama | 152918 | [152918-puzzrama.json](./152918-puzzrama.json) |
 | Pwn! | 341318 | [341318-pwn.json](./341318-pwn.json) |
+| Px Art | 369573 | [369573-px-art.json](./369573-px-art.json) |
 | PxBeats | 256540 | [256540-pxbeats.json](./256540-pxbeats.json) |
 | Pyjamarama | 23060 | [23060-pyjamarama.json](./23060-pyjamarama.json) |
 | Pyl | 126013 | [126013-pyl.json](./126013-pyl.json) |
