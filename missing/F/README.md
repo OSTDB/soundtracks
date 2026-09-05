@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flicky | 275907 | [275907-flicky.json](./275907-flicky.json) |
 | Flicky | 275909 | [275909-flicky.json](./275909-flicky.json) |
 | Flicky | 275910 | [275910-flicky.json](./275910-flicky.json) |
+| Flict | 393479 | [393479-flict.json](./393479-flict.json) |
 | Flies. | 412280 | [412280-flies.json](./412280-flies.json) |
 | Flight Commander 2 | 73854 | [73854-flight-commander-2.json](./73854-flight-commander-2.json) |
 | Flight of a Dragon | 270406 | [270406-flight-of-a-dragon.json](./270406-flight-of-a-dragon.json) |
@@ -1425,6 +1426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Tanks Area | 193507 | [193507-future-tanks-area.json](./193507-future-tanks-area.json) |
 | Future Theater | 251842 | [251842-future-theater.json](./251842-future-theater.json) |
 | Future War: Reborn | 78061 | [78061-future-war-reborn.json](./78061-future-war-reborn.json) |
+| Fuu | 393493 | [393493-fuu.json](./393493-fuu.json) |
 | Fuu3's Fuun Journey | 265927 | [265927-fuu3s-fuun-journey.json](./265927-fuu3s-fuun-journey.json) |
 | Fuwa! Fuwa! Omurice Simulator Roguelite | 415083 | [415083-fuwa-fuwa-omurice-simulator-roguelite.json](./415083-fuwa-fuwa-omurice-simulator-roguelite.json) |
 | Fuyu no Rondo | 69310 | [69310-fuyu-no-rondo.json](./69310-fuyu-no-rondo.json) |
