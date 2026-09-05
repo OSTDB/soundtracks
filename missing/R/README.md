@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbids Big Bang | 61635 | [61635-rabbids-big-bang.json](./61635-rabbids-big-bang.json) |
 | Rabbids Lab | 50699 | [50699-rabbids-lab.json](./50699-rabbids-lab.json) |
 | Rabbit Burn | 203566 | [203566-rabbit-burn.json](./203566-rabbit-burn.json) |
+| Rabbit Detective | 389983 | [389983-rabbit-detective.json](./389983-rabbit-detective.json) |
 | Rabbit in Dungeon | 316411 | [316411-rabbit-in-dungeon.json](./316411-rabbit-in-dungeon.json) |
 | Rabbit Jump | 60004 | [60004-rabbit-jump.json](./60004-rabbit-jump.json) |
 | Rabbit Run Away | 212466 | [212466-rabbit-run-away.json](./212466-rabbit-run-away.json) |
@@ -50,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Empires | 245016 | [245016-racing-empires.json](./245016-racing-empires.json) |
 | Racing Karts | 186913 | [186913-racing-karts.json](./186913-racing-karts.json) |
 | Racing Manager 2014 | 9419 | [9419-racing-manager-2014.json](./9419-racing-manager-2014.json) |
+| Racing Royale | 390012 | [390012-racing-royale.json](./390012-racing-royale.json) |
 | Racing: Breakthrough Gaming Arcade | 145668 | [145668-racing-breakthrough-gaming-arcade.json](./145668-racing-breakthrough-gaming-arcade.json) |
 | Rack 'Em Up | 66717 | [66717-rack-em-up.json](./66717-rack-em-up.json) |
 | RackJacker | 163981 | [163981-rackjacker.json](./163981-rackjacker.json) |
@@ -171,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramen in the 90's | 141190 | [141190-ramen-in-the-90s.json](./141190-ramen-in-the-90s.json) |
 | Ramenbashi | 92513 | [92513-ramenbashi.json](./92513-ramenbashi.json) |
 | Ramhart | 341311 | [341311-ramhart.json](./341311-ramhart.json) |
+| Ramming Turtleship: 1592 - The Imjin War | 390000 | [390000-ramming-turtleship-1592-the-imjin-war.json](./390000-ramming-turtleship-1592-the-imjin-war.json) |
 | Rampage of the Dead | 105355 | [105355-rampage-of-the-dead.json](./105355-rampage-of-the-dead.json) |
 | Rampage Rowing | 316415 | [316415-rampage-rowing.json](./316415-rampage-rowing.json) |
 | RampageRunner | 341310 | [341310-rampagerunner.json](./341310-rampagerunner.json) |
