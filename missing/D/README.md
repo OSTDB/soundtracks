@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Riddle | 96039 | [96039-delta-riddle.json](./96039-delta-riddle.json) |
 | Delta Time | 171622 | [171622-delta-time.json](./171622-delta-time.json) |
 | Delta Warp | 43978 | [43978-delta-warp.json](./43978-delta-warp.json) |
+| Delta's Discs | 412989 | [412989-deltas-discs.json](./412989-deltas-discs.json) |
 | Deltagun | 336347 | [336347-deltagun.json](./336347-deltagun.json) |
 | Deltagun Deluxe | 336349 | [336349-deltagun-deluxe.json](./336349-deltagun-deluxe.json) |
 | Deltarune Wandering Makers: Pantheon of the Discarded | 330549 | [330549-deltarune-wandering-makers-pantheon-of-the-discarded.json](./330549-deltarune-wandering-makers-pantheon-of-the-discarded.json) |
@@ -1183,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't! Heroes | 181932 | [181932-dont-heroes.json](./181932-dont-heroes.json) |
 | Don't! Heroes: Encore! | 181929 | [181929-dont-heroes-encore.json](./181929-dont-heroes-encore.json) |
 | Donald Dowell and the Ghost of Barker Manor | 168386 | [168386-donald-dowell-and-the-ghost-of-barker-manor.json](./168386-donald-dowell-and-the-ghost-of-barker-manor.json) |
+| Donald Jump | 412966 | [412966-donald-jump.json](./412966-donald-jump.json) |
 | Donkey King Arcade Game | 96713 | [96713-donkey-king-arcade-game.json](./96713-donkey-king-arcade-game.json) |
 | Donkey Kong | 257637 | [257637-donkey-kong.json](./257637-donkey-kong.json) |
 | Donkey Kong | 270404 | [270404-donkey-kong.json](./270404-donkey-kong.json) |
