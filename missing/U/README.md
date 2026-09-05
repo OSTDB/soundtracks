@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uprising: Humanum | 248903 | [248903-uprising-humanum.json](./248903-uprising-humanum.json) |
 | Uprising: Join or Die | 32768 | [32768-uprising-join-or-die.json](./32768-uprising-join-or-die.json) |
 | Uprk.cz | 161891 | [161891-uprk-cz.json](./161891-uprk-cz.json) |
+| Upscale Studio: Logic Bundle: 5 in 1 | 379360 | [379360-upscale-studio-logic-bundle-5-in-1.json](./379360-upscale-studio-logic-bundle-5-in-1.json) |
 | Upside the Backrooms | 258740 | [258740-upside-the-backrooms.json](./258740-upside-the-backrooms.json) |
 | Upside-Down Dimensions | 52009 | [52009-upside-down-dimensions.json](./52009-upside-down-dimensions.json) |
 | Upsilon Circuit | 12977 | [12977-upsilon-circuit.json](./12977-upsilon-circuit.json) |
