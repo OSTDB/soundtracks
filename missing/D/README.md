@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danmaku Juuenka: Danmaku Card Battle | 215365 | [215365-danmaku-juuenka-danmaku-card-battle.json](./215365-danmaku-juuenka-danmaku-card-battle.json) |
 | Danmaku Kentei Shiken: DaiOuJou-hen | 296056 | [296056-danmaku-kentei-shiken-daioujou-hen.json](./296056-danmaku-kentei-shiken-daioujou-hen.json) |
 | Danmaku Unlimited 2 | 17107 | [17107-danmaku-unlimited-2.json](./17107-danmaku-unlimited-2.json) |
+| Danny Phantom: Ghost Sweep | 313686 | [313686-danny-phantom-ghost-sweep.json](./313686-danny-phantom-ghost-sweep.json) |
 | Danse Macabre: Crimson Cabaret HD | 101580 | [101580-danse-macabre-crimson-cabaret-hd.json](./101580-danse-macabre-crimson-cabaret-hd.json) |
 | Danse Macabre: Deadly Deception | 108461 | [108461-danse-macabre-deadly-deception.json](./108461-danse-macabre-deadly-deception.json) |
 | Dānshēngǒu de Zuìhòu Jīhuì | 130962 | [130962-danshengou-de-zuihou-jihui.json](./130962-danshengou-de-zuihou-jihui.json) |
@@ -828,6 +829,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DesertLand 2115 | 34350 | [34350-desertland-2115.json](./34350-desertland-2115.json) |
 | Deserved | 391598 | [391598-deserved.json](./391598-deserved.json) |
 | Designed for Danger | 321771 | [321771-designed-for-danger.json](./321771-designed-for-danger.json) |
+| Desire & Decorum: Book 1 | 313713 | [313713-desire-and-decorum-book-1.json](./313713-desire-and-decorum-book-1.json) |
+| Desire & Decorum: Book 2 | 313714 | [313714-desire-and-decorum-book-2.json](./313714-desire-and-decorum-book-2.json) |
+| Desire & Decorum: Book 3 | 313715 | [313715-desire-and-decorum-book-3.json](./313715-desire-and-decorum-book-3.json) |
+| Desire & Decorum: First Winter | 313716 | [313716-desire-and-decorum-first-winter.json](./313716-desire-and-decorum-first-winter.json) |
 | Desire Remaster Version | 57087 | [57087-desire-remaster-version.json](./57087-desire-remaster-version.json) |
 | Desired Mistake | 82127 | [82127-desired-mistake.json](./82127-desired-mistake.json) |
 | Desires of a Dragon Prince | 298893 | [298893-desires-of-a-dragon-prince.json](./298893-desires-of-a-dragon-prince.json) |
