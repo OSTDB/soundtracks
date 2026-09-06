@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Target | 156158 | [156158-impossible-target.json](./156158-impossible-target.json) |
 | Impossible Twisty Dots | 88288 | [88288-impossible-twisty-dots.json](./88288-impossible-twisty-dots.json) |
 | Impostor Hide Online | 179727 | [179727-impostor-hide-online.json](./179727-impostor-hide-online.json) |
+| Impping! | 350400 | [350400-impping.json](./350400-impping.json) |
 | Impractical Spells | 295525 | [295525-impractical-spells.json](./295525-impractical-spells.json) |
 | Impresja | 47992 | [47992-impresja.json](./47992-impresja.json) |
 | Imprint | 397650 | [397650-imprint.json](./397650-imprint.json) |
@@ -463,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inglorious Waifu VS Nazi Zombies | 156163 | [156163-inglorious-waifu-vs-nazi-zombies.json](./156163-inglorious-waifu-vs-nazi-zombies.json) |
 | Inherent Evil - The Haunted Hotel | 114408 | [114408-inherent-evil-the-haunted-hotel.json](./114408-inherent-evil-the-haunted-hotel.json) |
 | Inherit the Earth: Quest for the Orb | 16726 | [16726-inherit-the-earth-quest-for-the-orb.json](./16726-inherit-the-earth-quest-for-the-orb.json) |
+| Inhuman | 350421 | [350421-inhuman.json](./350421-inhuman.json) |
 | Initial D: Street Stage | 45992 | [45992-initial-d-street-stage.json](./45992-initial-d-street-stage.json) |
 | Initial Drift Online | 148573 | [148573-initial-drift-online.json](./148573-initial-drift-online.json) |
 | Initium Legenda | 192972 | [192972-initium-legenda.json](./192972-initium-legenda.json) |
