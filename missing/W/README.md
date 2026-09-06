@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wannabe Galgame God!!! | 389964 | [389964-wannabe-galgame-god.json](./389964-wannabe-galgame-god.json) |
 | Wanted Shadows | 267679 | [267679-wanted-shadows.json](./267679-wanted-shadows.json) |
 | Wanted: Dead - Collector's Edition | 228736 | [228736-wanted-dead-collectors-edition.json](./228736-wanted-dead-collectors-edition.json) |
+| Wanting Shock | 361675 | [361675-wanting-shock.json](./361675-wanting-shock.json) |
 | Wanting Wings | 278705 | [278705-wanting-wings.json](./278705-wanting-wings.json) |
 | War | 255331 | [255331-war.json](./255331-war.json) |
 | War 2: Victory | 254168 | [254168-war-2-victory.json](./254168-war-2-victory.json) |
@@ -842,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Whisper | 254163 | [254163-word-whisper.json](./254163-word-whisper.json) |
 | Word Wise | 157723 | [157723-word-wise.json](./157723-word-wise.json) |
 | Word Worm | 229344 | [229344-word-worm.json](./229344-word-worm.json) |
+| Word Worm | 361732 | [361732-word-worm.json](./361732-word-worm.json) |
 | Word Wow Around the World | 87298 | [87298-word-wow-around-the-world.json](./87298-word-wow-around-the-world.json) |
 | Word Zip - Free Word Games | 105972 | [105972-word-zip-free-word-games.json](./105972-word-zip-free-word-games.json) |
 | Wordatro! | 331665 | [331665-wordatro.json](./331665-wordatro.json) |
