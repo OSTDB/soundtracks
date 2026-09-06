@@ -523,7 +523,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5 Dancing in Starlight: Picaresque Mouse Set | 324706 | [324706-persona-5-dancing-in-starlight-picaresque-mouse-set.json](./324706-persona-5-dancing-in-starlight-picaresque-mouse-set.json) |
 | Persona 5 Royal: 1 More Edition | 261539 | [261539-persona-5-royal-1-more-edition.json](./261539-persona-5-royal-1-more-edition.json) |
 | Persona 5 Strikers | 117731 | [117731-persona-5-strikers.json](./117731-persona-5-strikers.json) |
+| Persona 5: Dancing in Starlight - Atlus Selection Set | 362255 | [362255-persona-5-dancing-in-starlight-atlus-selection-set.json](./362255-persona-5-dancing-in-starlight-atlus-selection-set.json) |
+| Persona 5: Dancing in Starlight - Catherine Set | 362253 | [362253-persona-5-dancing-in-starlight-catherine-set.json](./362253-persona-5-dancing-in-starlight-catherine-set.json) |
+| Persona 5: Dancing in Starlight - Costume Season Pass | 362256 | [362256-persona-5-dancing-in-starlight-costume-season-pass.json](./362256-persona-5-dancing-in-starlight-costume-season-pass.json) |
 | Persona 5: Dancing in starlight - Dance! (OP ver.) | 324704 | [324704-persona-5-dancing-in-starlight-dance-op-ver.json](./324704-persona-5-dancing-in-starlight-dance-op-ver.json) |
+| Persona 5: Dancing in Starlight - Futaba's Shujin Academy Uniform & Loungewear Set | 362254 | [362254-persona-5-dancing-in-starlight-futabas-shujin-academy-uniform-and-loungewear-set.json](./362254-persona-5-dancing-in-starlight-futabas-shujin-academy-uniform-and-loungewear-set.json) |
 | Persona 5: Dancing in Starlight - Groovy | 324705 | [324705-persona-5-dancing-in-starlight-groovy.json](./324705-persona-5-dancing-in-starlight-groovy.json) |
 | Persona 5: Dancing in Starlight - Race Queen Set | 324709 | [324709-persona-5-dancing-in-starlight-race-queen-set.json](./324709-persona-5-dancing-in-starlight-race-queen-set.json) |
 | Persona 5: Dancing in Starlight - Tanaka's Amazing Commodities (Atlus Kozuka Remix) | 324707 | [324707-persona-5-dancing-in-starlight-tanakas-amazing-commodities-atlus-kozuka-remix.json](./324707-persona-5-dancing-in-starlight-tanakas-amazing-commodities-atlus-kozuka-remix.json) |
@@ -990,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Crossword | 220841 | [220841-planet-crossword.json](./220841-planet-crossword.json) |
 | Planet Delta | 80552 | [80552-planet-delta.json](./80552-planet-delta.json) |
 | Planet Fights | 239323 | [239323-planet-fights.json](./239323-planet-fights.json) |
+| Planet Finder | 362299 | [362299-planet-finder.json](./362299-planet-finder.json) |
 | Planet Flipper | 394893 | [394893-planet-flipper.json](./394893-planet-flipper.json) |
 | Planet Joker | 91954 | [91954-planet-joker.json](./91954-planet-joker.json) |
 | Planet Monsters | 49359 | [49359-planet-monsters.json](./49359-planet-monsters.json) |
