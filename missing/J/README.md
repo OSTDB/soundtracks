@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumanji: The Curse Returns - Welcome to the Jungle | 210870 | [210870-jumanji-the-curse-returns-welcome-to-the-jungle.json](./210870-jumanji-the-curse-returns-welcome-to-the-jungle.json) |
 | Jumara | 393498 | [393498-jumara.json](./393498-jumara.json) |
 | Jumbline 2 | 86729 | [86729-jumbline-2.json](./86729-jumbline-2.json) |
+| Jumbo Pumbo | 341471 | [341471-jumbo-pumbo.json](./341471-jumbo-pumbo.json) |
 | Jumfrog | 318762 | [318762-jumfrog.json](./318762-jumfrog.json) |
 | Jump Ball | 317027 | [317027-jump-ball.json](./317027-jump-ball.json) |
 | Jump Ball Jump! | 310767 | [310767-jump-ball-jump.json](./310767-jump-ball-jump.json) |
