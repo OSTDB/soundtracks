@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai's Odyssey | 372991 | [372991-samurais-odyssey.json](./372991-samurais-odyssey.json) |
 | Samurai's Path | 379884 | [379884-samurais-path.json](./379884-samurais-path.json) |
 | SamuraiRising | 170019 | [170019-samurairising.json](./170019-samurairising.json) |
+| Samurise | 330741 | [330741-samurise.json](./330741-samurise.json) |
 | Samus Goes to the Fridge to Get a Glass of Milk | 226402 | [226402-samus-goes-to-the-fridge-to-get-a-glass-of-milk.json](./226402-samus-goes-to-the-fridge-to-get-a-glass-of-milk.json) |
 | Samus Goes to the Fridge to Get a Glass of Milk II | 226403 | [226403-samus-goes-to-the-fridge-to-get-a-glass-of-milk-ii.json](./226403-samus-goes-to-the-fridge-to-get-a-glass-of-milk-ii.json) |
 | San Andreas Multiplayer | 199038 | [199038-san-andreas-multiplayer.json](./199038-san-andreas-multiplayer.json) |
@@ -2058,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somewhere Strange | 184091 | [184091-somewhere-strange.json](./184091-somewhere-strange.json) |
 | Sommad | 51957 | [51957-sommad.json](./51957-sommad.json) |
 | Somni | 172738 | [172738-somni.json](./172738-somni.json) |
+| Somnifuge | 330702 | [330702-somnifuge.json](./330702-somnifuge.json) |
 | Somniphobia | 340940 | [340940-somniphobia.json](./340940-somniphobia.json) |
 | Somnis: Rumble Rush | 332441 | [332441-somnis-rumble-rush.json](./332441-somnis-rumble-rush.json) |
 | Somnium | 201329 | [201329-somnium.json](./201329-somnium.json) |
@@ -2097,6 +2099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Adventure Reloaded | 316978 | [316978-sonic-adventure-reloaded.json](./316978-sonic-adventure-reloaded.json) |
 | Sonic Adventure SX | 316977 | [316977-sonic-adventure-sx.json](./316977-sonic-adventure-sx.json) |
 | Sonic Adventure: Renegade | 331302 | [331302-sonic-adventure-renegade.json](./331302-sonic-adventure-renegade.json) |
+| Sonic and Mario | 330722 | [330722-sonic-and-mario.json](./330722-sonic-and-mario.json) |
 | Sonic and the Black Knight HD | 336365 | [336365-sonic-and-the-black-knight-hd.json](./336365-sonic-and-the-black-knight-hd.json) |
 | Sonic and the Dragon's Path | 334684 | [334684-sonic-and-the-dragons-path.json](./334684-sonic-and-the-dragons-path.json) |
 | Sonic Arena | 331867 | [331867-sonic-arena.json](./331867-sonic-arena.json) |
@@ -2112,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic CD++ | 198545 | [198545-sonic-cd.json](./198545-sonic-cd.json) |
 | Sonic Celerity | 336344 | [336344-sonic-celerity.json](./336344-sonic-celerity.json) |
 | Sonic Champions | 330527 | [330527-sonic-champions.json](./330527-sonic-champions.json) |
+| Sonic Chaos Planet | 330711 | [330711-sonic-chaos-planet.json](./330711-sonic-chaos-planet.json) |
 | Sonic Chaos Revolution | 329946 | [329946-sonic-chaos-revolution.json](./329946-sonic-chaos-revolution.json) |
 | Sonic Classic | 175974 | [175974-sonic-classic.json](./175974-sonic-classic.json) |
 | Sonic Classic 2 | 175975 | [175975-sonic-classic-2.json](./175975-sonic-classic-2.json) |
@@ -2134,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic In The Timeline Of Madness | 266512 | [266512-sonic-in-the-timeline-of-madness.json](./266512-sonic-in-the-timeline-of-madness.json) |
 | Sonic Incursion | 326998 | [326998-sonic-incursion.json](./326998-sonic-incursion.json) |
 | Sonic Journey | 317609 | [317609-sonic-journey.json](./317609-sonic-journey.json) |
+| Sonic Liola: Begins | 330704 | [330704-sonic-liola-begins.json](./330704-sonic-liola-begins.json) |
 | Sonic Madness | 331101 | [331101-sonic-madness.json](./331101-sonic-madness.json) |
 | Sonic Madventure | 352168 | [352168-sonic-madventure.json](./352168-sonic-madventure.json) |
 | Sonic Mania Fangame | 326995 | [326995-sonic-mania-fangame.json](./326995-sonic-mania-fangame.json) |
@@ -2148,6 +2153,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Outbound | 266515 | [266515-sonic-outbound.json](./266515-sonic-outbound.json) |
 | Sonic Overdrive | 266513 | [266513-sonic-overdrive.json](./266513-sonic-overdrive.json) |
 | Sonic Paradigm | 333935 | [333935-sonic-paradigm.json](./333935-sonic-paradigm.json) |
+| Sonic Pong 2 | 330696 | [330696-sonic-pong-2.json](./330696-sonic-pong-2.json) |
+| Sonic Powerdrift | 330710 | [330710-sonic-powerdrift.json](./330710-sonic-powerdrift.json) |
 | Sonic Powered Up | 333939 | [333939-sonic-powered-up.json](./333939-sonic-powered-up.json) |
 | Sonic QWERTY | 266511 | [266511-sonic-qwerty.json](./266511-sonic-qwerty.json) |
 | Sonic Racers | 333936 | [333936-sonic-racers.json](./333936-sonic-racers.json) |
@@ -2174,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Small World | 332453 | [332453-sonic-small-world.json](./332453-sonic-small-world.json) |
 | Sonic Spectacle | 336358 | [336358-sonic-spectacle.json](./336358-sonic-spectacle.json) |
 | Sonic Speed | 336356 | [336356-sonic-speed.json](./336356-sonic-speed.json) |
+| Sonic Speed Blast | 330708 | [330708-sonic-speed-blast.json](./330708-sonic-speed-blast.json) |
 | Sonic Spinball: Life Savers | 274722 | [274722-sonic-spinball-life-savers.json](./274722-sonic-spinball-life-savers.json) |
 | Sonic Stars | 331865 | [331865-sonic-stars.json](./331865-sonic-stars.json) |
 | Sonic StrikerZ | 316424 | [316424-sonic-strikerz.json](./316424-sonic-strikerz.json) |
@@ -2203,10 +2211,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog: Character Pak | 198542 | [198542-sonic-the-hedgehog-character-pak.json](./198542-sonic-the-hedgehog-character-pak.json) |
 | Sonic the Hedgehog: Egg on Toast Edition | 129183 | [129183-sonic-the-hedgehog-egg-on-toast-edition.json](./129183-sonic-the-hedgehog-egg-on-toast-edition.json) |
 | Sonic the Hedgehog: Emerald Chaos | 331702 | [331702-sonic-the-hedgehog-emerald-chaos.json](./331702-sonic-the-hedgehog-emerald-chaos.json) |
+| Sonic the Hedgehog: Hands of Time | 330707 | [330707-sonic-the-hedgehog-hands-of-time.json](./330707-sonic-the-hedgehog-hands-of-time.json) |
 | Sonic the Hedgehog: Legend of the Blue Blur 2 | 326950 | [326950-sonic-the-hedgehog-legend-of-the-blue-blur-2.json](./326950-sonic-the-hedgehog-legend-of-the-blue-blur-2.json) |
 | Sonic the Hedgehog: Lost Future | 330530 | [330530-sonic-the-hedgehog-lost-future.json](./330530-sonic-the-hedgehog-lost-future.json) |
 | Sonic the Hedgehog: Minigame Laptop | 294466 | [294466-sonic-the-hedgehog-minigame-laptop.json](./294466-sonic-the-hedgehog-minigame-laptop.json) |
 | Sonic the Hedgehog: Spinball | 237308 | [237308-sonic-the-hedgehog-spinball.json](./237308-sonic-the-hedgehog-spinball.json) |
+| Sonic the Hedgehog: The Freedom Fighters | 330700 | [330700-sonic-the-hedgehog-the-freedom-fighters.json](./330700-sonic-the-hedgehog-the-freedom-fighters.json) |
 | Sonic Triple Link | 330522 | [330522-sonic-triple-link.json](./330522-sonic-triple-link.json) |
 | Sonic Turbo 2 | 331707 | [331707-sonic-turbo-2.json](./331707-sonic-turbo-2.json) |
 | Sonic Tweet | 63904 | [63904-sonic-tweet.json](./63904-sonic-tweet.json) |
@@ -2221,13 +2231,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic XN | 331666 | [331666-sonic-xn.json](./331666-sonic-xn.json) |
 | Sonic: Before the Sequel - Redux | 266508 | [266508-sonic-before-the-sequel-redux.json](./266508-sonic-before-the-sequel-redux.json) |
 | Sonic: Death Days | 331711 | [331711-sonic-death-days.json](./331711-sonic-death-days.json) |
+| Sonic: Eternal Flare | 330698 | [330698-sonic-eternal-flare.json](./330698-sonic-eternal-flare.json) |
 | Sonic: Maniac Adventure | 334141 | [334141-sonic-maniac-adventure.json](./334141-sonic-maniac-adventure.json) |
+| Sonic: Power Rings | 330699 | [330699-sonic-power-rings.json](./330699-sonic-power-rings.json) |
 | Sonic: Project Survival | 246089 | [246089-sonic-project-survival.json](./246089-sonic-project-survival.json) |
 | Sonic: RTFI | 330513 | [330513-sonic-rtfi.json](./330513-sonic-rtfi.json) |
 | Sonic: Scorched Quest | 198565 | [198565-sonic-scorched-quest.json](./198565-sonic-scorched-quest.json) |
+| Sonic: The Chaos Effect | 330712 | [330712-sonic-the-chaos-effect.json](./330712-sonic-the-chaos-effect.json) |
 | Sonic.Exe 2: The Game | 341904 | [341904-sonic-exe-2-the-game.json](./341904-sonic-exe-2-the-game.json) |
 | Sonic's Edusoft | 63901 | [63901-sonics-edusoft.json](./63901-sonics-edusoft.json) |
 | Sonic's Vacation | 330531 | [330531-sonics-vacation.json](./330531-sonics-vacation.json) |
+| SonicE | 330709 | [330709-sonice.json](./330709-sonice.json) |
 | Sono Hanabira ni Kuchizuke o: Amakute Hoshikute Torokeru Chuu | 12218 | [12218-sono-hanabira-ni-kuchizuke-o-amakute-hoshikute-torokeru-chuu.json](./12218-sono-hanabira-ni-kuchizuke-o-amakute-hoshikute-torokeru-chuu.json) |
 | Sono Hanabira ni Kuchizuke o: Kuchibiru to Kiss de Tsubuyaite | 12217 | [12217-sono-hanabira-ni-kuchizuke-o-kuchibiru-to-kiss-de-tsubuyaite.json](./12217-sono-hanabira-ni-kuchizuke-o-kuchibiru-to-kiss-de-tsubuyaite.json) |
 | Sono Hanabira ni Kuchizuke o: Tenshi-tachi no Yakusoku | 12274 | [12274-sono-hanabira-ni-kuchizuke-o-tenshi-tachi-no-yakusoku.json](./12274-sono-hanabira-ni-kuchizuke-o-tenshi-tachi-no-yakusoku.json) |
