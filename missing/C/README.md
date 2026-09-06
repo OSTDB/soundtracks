@@ -1234,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clue | 206977 | [206977-clue.json](./206977-clue.json) |
 | Clue/Cluedo | 262646 | [262646-clue-cluedo.json](./262646-clue-cluedo.json) |
 | Clue/Cluedo: Black Adder Resort Bundle | 262647 | [262647-clue-cluedo-black-adder-resort-bundle.json](./262647-clue-cluedo-black-adder-resort-bundle.json) |
+| Clue/Cluedo: Halloween Records | 328997 | [328997-clue-cluedo-halloween-records.json](./328997-clue-cluedo-halloween-records.json) |
 | Clueless: The CD-ROM | 69852 | [69852-clueless-the-cd-rom.json](./69852-clueless-the-cd-rom.json) |
 | Clumsy Cat | 259242 | [259242-clumsy-cat.json](./259242-clumsy-cat.json) |
 | Clumsy Rush: Ultimate Guys - Superb Edition | 271504 | [271504-clumsy-rush-ultimate-guys-superb-edition.json](./271504-clumsy-rush-ultimate-guys-superb-edition.json) |
