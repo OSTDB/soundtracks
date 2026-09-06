@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barry Has a Secret | 102173 | [102173-barry-has-a-secret.json](./102173-barry-has-a-secret.json) |
 | Barry Mcguigan Championship Boxing | 45336 | [45336-barry-mcguigan-championship-boxing.json](./45336-barry-mcguigan-championship-boxing.json) |
 | Barry the Bunny | 151187 | [151187-barry-the-bunny.json](./151187-barry-the-bunny.json) |
+| Bart Bash | 350404 | [350404-bart-bash.json](./350404-bart-bash.json) |
 | Bart's Nightmare Redux | 219272 | [219272-barts-nightmare-redux.json](./219272-barts-nightmare-redux.json) |
 | Bartolomeu Odyssey | 248891 | [248891-bartolomeu-odyssey.json](./248891-bartolomeu-odyssey.json) |
 | Barton Lynch Pro Surfing 2022 | 196295 | [196295-barton-lynch-pro-surfing-2022.json](./196295-barton-lynch-pro-surfing-2022.json) |
@@ -1177,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach: Heat the Soul 4 | 46001 | [46001-bleach-heat-the-soul-4.json](./46001-bleach-heat-the-soul-4.json) |
 | Bleach: The Blade of Fate | 20530 | [20530-bleach-the-blade-of-fate.json](./20530-bleach-the-blade-of-fate.json) |
 | Bleak Frontier | 258707 | [258707-bleak-frontier.json](./258707-bleak-frontier.json) |
+| Bleak Haven | 350435 | [350435-bleak-haven.json](./350435-bleak-haven.json) |
 | Bleak Sword DX | 235203 | [235203-bleak-sword-dx.json](./235203-bleak-sword-dx.json) |
 | Bleaklight Falls | 362270 | [362270-bleaklight-falls.json](./362270-bleaklight-falls.json) |
 | Bleeding Kansas | 51939 | [51939-bleeding-kansas.json](./51939-bleeding-kansas.json) |
@@ -1514,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book Nook | 404843 | [404843-book-nook.json](./404843-book-nook.json) |
 | Book of Mario | 159321 | [159321-book-of-mario.json](./159321-book-of-mario.json) |
 | Book of Mario: Thousands of Doors | 159323 | [159323-book-of-mario-thousands-of-doors.json](./159323-book-of-mario-thousands-of-doors.json) |
+| Book of Myko | 350455 | [350455-book-of-myko.json](./350455-book-of-myko.json) |
 | Book Travelers II: A Royal Story - Collector's Edition | 362845 | [362845-book-travelers-ii-a-royal-story-collectors-edition.json](./362845-book-travelers-ii-a-royal-story-collectors-edition.json) |
 | Book Travelers III: A Gothic Story - Collector's Edition | 364516 | [364516-book-travelers-iii-a-gothic-story-collectors-edition.json](./364516-book-travelers-iii-a-gothic-story-collectors-edition.json) |
 | Bookbound | 370103 | [370103-bookbound.json](./370103-bookbound.json) |
@@ -1794,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brewtopia | 319384 | [319384-brewtopia.json](./319384-brewtopia.json) |
 | Brian Lara Cricket | 94848 | [94848-brian-lara-cricket.json](./94848-brian-lara-cricket.json) |
 | Brian: The Novice Barbarian | 58825 | [58825-brian-the-novice-barbarian.json](./58825-brian-the-novice-barbarian.json) |
+| Brian's Redemption | 350450 | [350450-brians-redemption.json](./350450-brians-redemption.json) |
 | Brick | 356655 | [356655-brick.json](./356655-brick.json) |
 | Brick Breaker | 195751 | [195751-brick-breaker.json](./195751-brick-breaker.json) |
 | Brick Breaker Premium | 104081 | [104081-brick-breaker-premium.json](./104081-brick-breaker-premium.json) |
