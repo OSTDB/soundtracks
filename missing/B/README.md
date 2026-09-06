@@ -728,14 +728,34 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Below the Ocean | 173312 | [173312-below-the-ocean.json](./173312-below-the-ocean.json) |
 | Beluflin: Beautiful Luminous Flying Insects | 325268 | [325268-beluflin-beautiful-luminous-flying-insects.json](./325268-beluflin-beautiful-luminous-flying-insects.json) |
 | Bemuzed | 135908 | [135908-bemuzed.json](./135908-bemuzed.json) |
+| Ben 10 | 363904 | [363904-ben-10.json](./363904-ben-10.json) |
 | Ben 10 Bundle | 146329 | [146329-ben-10-bundle.json](./146329-ben-10-bundle.json) |
 | Ben 10 Game Generator | 130941 | [130941-ben-10-game-generator.json](./130941-ben-10-game-generator.json) |
 | Ben 10 Triple Pack | 86074 | [86074-ben-10-triple-pack.json](./86074-ben-10-triple-pack.json) |
+| Ben 10: 028 - Power Mod: High Jump | 363890 | [363890-ben-10-028-power-mod-high-jump.json](./363890-ben-10-028-power-mod-high-jump.json) |
+| Ben 10: 065 - Villain Defense: Smoke and Mirrors | 363869 | [363869-ben-10-065-villain-defense-smoke-and-mirrors.json](./363869-ben-10-065-villain-defense-smoke-and-mirrors.json) |
+| Ben 10: 066 - Villain Defense: Short Circuit | 363870 | [363870-ben-10-066-villain-defense-short-circuit.json](./363870-ben-10-066-villain-defense-short-circuit.json) |
+| Ben 10: 067 - Villain Defense: Groundswell | 363871 | [363871-ben-10-067-villain-defense-groundswell.json](./363871-ben-10-067-villain-defense-groundswell.json) |
+| Ben 10: 068 - Villain Defense: Shell Shock | 363872 | [363872-ben-10-068-villain-defense-shell-shock.json](./363872-ben-10-068-villain-defense-shell-shock.json) |
+| Ben 10: 069 - Villain Defense: Out Claw | 363875 | [363875-ben-10-069-villain-defense-out-claw.json](./363875-ben-10-069-villain-defense-out-claw.json) |
+| Ben 10: 070 - Villain Defense: Gravity Pull | 363876 | [363876-ben-10-070-villain-defense-gravity-pull.json](./363876-ben-10-070-villain-defense-gravity-pull.json) |
+| Ben 10: 071 - Villain Defense: Astro-Nought | 363877 | [363877-ben-10-071-villain-defense-astro-nought.json](./363877-ben-10-071-villain-defense-astro-nought.json) |
+| Ben 10: 072 - Help: Grandpa Max | 363878 | [363878-ben-10-072-help-grandpa-max.json](./363878-ben-10-072-help-grandpa-max.json) |
+| Ben 10: 073 - Help: Gwen | 363879 | [363879-ben-10-073-help-gwen.json](./363879-ben-10-073-help-gwen.json) |
+| Ben 10: 074 - Ultimate: Fourarms | 363880 | [363880-ben-10-074-ultimate-fourarms.json](./363880-ben-10-074-ultimate-fourarms.json) |
+| Ben 10: 075 - Ultimate: Stinkfly | 363882 | [363882-ben-10-075-ultimate-stinkfly.json](./363882-ben-10-075-ultimate-stinkfly.json) |
+| Ben 10: 076 - Ultimate: Ripjaws | 363883 | [363883-ben-10-076-ultimate-ripjaws.json](./363883-ben-10-076-ultimate-ripjaws.json) |
+| Ben 10: 077 - Ultimate: XLR8 | 363884 | [363884-ben-10-077-ultimate-xlr8.json](./363884-ben-10-077-ultimate-xlr8.json) |
+| Ben 10: 078 - Ultimate: Heatblast | 363885 | [363885-ben-10-078-ultimate-heatblast.json](./363885-ben-10-078-ultimate-heatblast.json) |
+| Ben 10: 079 - Ultimate: Wildmutt | 363886 | [363886-ben-10-079-ultimate-wildmutt.json](./363886-ben-10-079-ultimate-wildmutt.json) |
+| Ben 10: 080 - Ultimate: Diamondhead | 363888 | [363888-ben-10-080-ultimate-diamondhead.json](./363888-ben-10-080-ultimate-diamondhead.json) |
 | Ben 10: Alien Experience | 196339 | [196339-ben-10-alien-experience.json](./196339-ben-10-alien-experience.json) |
 | Ben 10: Alien Force | 210256 | [210256-ben-10-alien-force.json](./210256-ben-10-alien-force.json) |
+| Ben 10: Backpack | 363891 | [363891-ben-10-backpack.json](./363891-ben-10-backpack.json) |
 | Ben 10: Galactic Racing | 210257 | [210257-ben-10-galactic-racing.json](./210257-ben-10-galactic-racing.json) |
 | Ben 10: Galactic Racing | 210259 | [210259-ben-10-galactic-racing.json](./210259-ben-10-galactic-racing.json) |
 | Ben 10: Galactic Racing | 210260 | [210260-ben-10-galactic-racing.json](./210260-ben-10-galactic-racing.json) |
+| Ben 10: Omni-Charge | 363892 | [363892-ben-10-omni-charge.json](./363892-ben-10-omni-charge.json) |
 | Ben 10: Omniverse 2 | 5310 | [5310-ben-10-omniverse-2.json](./5310-ben-10-omniverse-2.json) |
 | Ben 10: Protector of Earth | 210263 | [210263-ben-10-protector-of-earth.json](./210263-ben-10-protector-of-earth.json) |
 | Ben and Holly: Big Star Fun | 109009 | [109009-ben-and-holly-big-star-fun.json](./109009-ben-and-holly-big-star-fun.json) |
