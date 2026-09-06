@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Escape | 194660 | [194660-magical-escape.json](./194660-magical-escape.json) |
 | Magical Girl Leaky Sara | 58810 | [58810-magical-girl-leaky-sara.json](./58810-magical-girl-leaky-sara.json) |
 | Magical Girl Noble Rose | 173817 | [173817-magical-girl-noble-rose.json](./173817-magical-girl-noble-rose.json) |
+| Magical Girl Opal | 354444 | [354444-magical-girl-opal.json](./354444-magical-girl-opal.json) |
 | Magical Girl Yusya-chan and the Labyrinth of Lust | 406694 | [406694-magical-girl-yusya-chan-and-the-labyrinth-of-lust.json](./406694-magical-girl-yusya-chan-and-the-labyrinth-of-lust.json) |
 | Magical girl's labyrinth | 105332 | [105332-magical-girls-labyrinth.json](./105332-magical-girls-labyrinth.json) |
 | Magical Girls | 378775 | [378775-magical-girls.json](./378775-magical-girls.json) |
@@ -1681,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Forward | 295553 | [295553-monkey-forward.json](./295553-monkey-forward.json) |
 | Monkey Island 2 Special Edition: LeChuck's Revenge | 66 | [66-monkey-island-2-special-edition-lechucks-revenge.json](./66-monkey-island-2-special-edition-lechucks-revenge.json) |
 | Monkey King vs Transformers | 156160 | [156160-monkey-king-vs-transformers.json](./156160-monkey-king-vs-transformers.json) |
+| Monkey Knife Fight | 354407 | [354407-monkey-knife-fight.json](./354407-monkey-knife-fight.json) |
 | Monkey Lost | 367452 | [367452-monkey-lost.json](./367452-monkey-lost.json) |
 | Monkey Magic | 45220 | [45220-monkey-magic.json](./45220-monkey-magic.json) |
 | Monkey Split | 142450 | [142450-monkey-split.json](./142450-monkey-split.json) |
