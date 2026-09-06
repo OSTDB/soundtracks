@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachicom | 41396 | [41396-pachicom.json](./41396-pachicom.json) |
 | Pachillinko | 188665 | [188665-pachillinko.json](./188665-pachillinko.json) |
 | Pachinko GP | 41395 | [41395-pachinko-gp.json](./41395-pachinko-gp.json) |
+| Pachinko Party | 329016 | [329016-pachinko-party.json](./329016-pachinko-party.json) |
 | Pachinko With Nick | 184121 | [184121-pachinko-with-nick.json](./184121-pachinko-with-nick.json) |
 | Pachio-kun Game Gallery | 86125 | [86125-pachio-kun-game-gallery.json](./86125-pachio-kun-game-gallery.json) |
 | Pacific Warships | 254748 | [254748-pacific-warships.json](./254748-pacific-warships.json) |
@@ -87,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painter Man!! | 342623 | [342623-painter-man.json](./342623-painter-man.json) |
 | Painting VR: Cozy Cabin | 305541 | [305541-painting-vr-cozy-cabin.json](./305541-painting-vr-cozy-cabin.json) |
 | Paintings Restoration | 329576 | [329576-paintings-restoration.json](./329576-paintings-restoration.json) |
+| Pair Horror + Haunted Pack Set | 328990 | [328990-pair-horror-haunted-pack-set.json](./328990-pair-horror-haunted-pack-set.json) |
 | Pair Matching Puzzle Connect | 163440 | [163440-pair-matching-puzzle-connect.json](./163440-pair-matching-puzzle-connect.json) |
 | Pair Matching Puzzle Connect: Expansion Pack 1 | 163450 | [163450-pair-matching-puzzle-connect-expansion-pack-1.json](./163450-pair-matching-puzzle-connect-expansion-pack-1.json) |
 | Pair Matching Puzzle Connect: Expansion Pack 11 | 163443 | [163443-pair-matching-puzzle-connect-expansion-pack-11.json](./163443-pair-matching-puzzle-connect-expansion-pack-11.json) |
@@ -330,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Poppers | 113684 | [113684-party-poppers.json](./113684-party-poppers.json) |
 | Party Saboteurs: After Party | 130364 | [130364-party-saboteurs-after-party.json](./130364-party-saboteurs-after-party.json) |
 | Party Words | 207543 | [207543-party-words.json](./207543-party-words.json) |
+| Partygoer! | 329035 | [329035-partygoer.json](./329035-partygoer.json) |
 | Pasajeros | 192426 | [192426-pasajeros.json](./192426-pasajeros.json) |
 | Pashah to Henshin: Beauty Academy | 327622 | [327622-pashah-to-henshin-beauty-academy.json](./327622-pashah-to-henshin-beauty-academy.json) |
 | Pashtet | 113705 | [113705-pashtet.json](./113705-pashtet.json) |
@@ -733,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picnic Wars | 20805 | [20805-picnic-wars.json](./20805-picnic-wars.json) |
 | Pico Monsters | 181931 | [181931-pico-monsters.json](./181931-pico-monsters.json) |
 | Pico Park 2 | 314933 | [314933-pico-park-2.json](./314933-pico-park-2.json) |
+| Pico Pico Dungeon! | 329006 | [329006-pico-pico-dungeon.json](./329006-pico-pico-dungeon.json) |
 | Pico Tanks: Multiplayer Mayhem | 130379 | [130379-pico-tanks-multiplayer-mayhem.json](./130379-pico-tanks-multiplayer-mayhem.json) |
 | Pico vs. Bear | 331683 | [331683-pico-vs-bear.json](./331683-pico-vs-bear.json) |
 | Picokaiju | 202393 | [202393-picokaiju.json](./202393-picokaiju.json) |
@@ -1469,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porter's Cafe | 359411 | [359411-porters-cafe.json](./359411-porters-cafe.json) |
 | Porterminus | 265954 | [265954-porterminus.json](./265954-porterminus.json) |
 | Portile | 322360 | [322360-portile.json](./322360-portile.json) |
+| Portrait | 329036 | [329036-portrait.json](./329036-portrait.json) |
 | Portrait Painter | 406709 | [406709-portrait-painter.json](./406709-portrait-painter.json) |
 | Porzellanhaus | 367407 | [367407-porzellanhaus.json](./367407-porzellanhaus.json) |
 | Posh Boutique 2 | 294454 | [294454-posh-boutique-2.json](./294454-posh-boutique-2.json) |
