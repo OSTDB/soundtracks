@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ablaze | 260403 | [260403-ablaze.json](./260403-ablaze.json) |
 | Ablepsia | 67912 | [67912-ablepsia.json](./67912-ablepsia.json) |
 | Abnormal 1999: The Compass and the Sand | 316441 | [316441-abnormal-1999-the-compass-and-the-sand.json](./316441-abnormal-1999-the-compass-and-the-sand.json) |
+| Abodtion | 344375 | [344375-abodtion.json](./344375-abodtion.json) |
 | Abomination Ops | 355575 | [355575-abomination-ops.json](./355575-abomination-ops.json) |
 | Abort | 291211 | [291211-abort.json](./291211-abort.json) |
 | About Cannons & Sparrows | 258181 | [258181-about-cannons-and-sparrows.json](./258181-about-cannons-and-sparrows.json) |
@@ -637,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent X | 23067 | [23067-agent-x.json](./23067-agent-x.json) |
 | Agents of Mayhem: Day One Edition | 52015 | [52015-agents-of-mayhem-day-one-edition.json](./52015-agents-of-mayhem-day-one-edition.json) |
 | Agents of Shadow | 357803 | [357803-agents-of-shadow.json](./357803-agents-of-shadow.json) |
+| Aggi's Tiny Friends | 344343 | [344343-aggis-tiny-friends.json](./344343-aggis-tiny-friends.json) |
 | Agharta: The Hollow Earth | 73280 | [73280-agharta-the-hollow-earth.json](./73280-agharta-the-hollow-earth.json) |
 | Agi Gongnyong Dooly | 86107 | [86107-agi-gongnyong-dooly.json](./86107-agi-gongnyong-dooly.json) |
 | Agile Warrior F-111X | 43936 | [43936-agile-warrior-f-111x.json](./43936-agile-warrior-f-111x.json) |
@@ -1052,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Escape | 87714 | [87714-amazing-escape.json](./87714-amazing-escape.json) |
 | Amazing Facts World Culture True or False Quiz | 399608 | [399608-amazing-facts-world-culture-true-or-false-quiz.json](./399608-amazing-facts-world-culture-true-or-false-quiz.json) |
 | Amazing Frog: In the City | 96058 | [96058-amazing-frog-in-the-city.json](./96058-amazing-frog-in-the-city.json) |
+| Amazing Gardens | 344366 | [344366-amazing-gardens.json](./344366-amazing-gardens.json) |
 | Amazing Lab! Science Experiments Quiz | 399607 | [399607-amazing-lab-science-experiments-quiz.json](./399607-amazing-lab-science-experiments-quiz.json) |
 | Amazing Space | 258210 | [258210-amazing-space.json](./258210-amazing-space.json) |
 | Amazing Superhero Squad | 159862 | [159862-amazing-superhero-squad.json](./159862-amazing-superhero-squad.json) |
@@ -2011,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Ishtar's Gate | 142493 | [142493-at-ishtars-gate.json](./142493-at-ishtars-gate.json) |
 | At the Gates of Midian | 271496 | [271496-at-the-gates-of-midian.json](./271496-at-the-gates-of-midian.json) |
 | At the Heart of the Forest | 201303 | [201303-at-the-heart-of-the-forest.json](./201303-at-the-heart-of-the-forest.json) |
+| Atama Ikuto | 344367 | [344367-atama-ikuto.json](./344367-atama-ikuto.json) |
 | Atari Classics: Evolved | 46023 | [46023-atari-classics-evolved.json](./46023-atari-classics-evolved.json) |
 | Atari Climber | 40769 | [40769-atari-climber.json](./40769-atari-climber.json) |
 | Atari Flashback 2+ | 277035 | [277035-atari-flashback-2.json](./277035-atari-flashback-2.json) |
