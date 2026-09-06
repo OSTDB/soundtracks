@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damned Hand: Arcade Mode | 171069 | [171069-damned-hand-arcade-mode.json](./171069-damned-hand-arcade-mode.json) |
 | Damon and Baby: Deluxe Edition | 390527 | [390527-damon-and-baby-deluxe-edition.json](./390527-damon-and-baby-deluxe-edition.json) |
 | Dan Dare: Pilot of the Future | 12989 | [12989-dan-dare-pilot-of-the-future.json](./12989-dan-dare-pilot-of-the-future.json) |
+| Dan Laser | 334676 | [334676-dan-laser.json](./334676-dan-laser.json) |
 | Dan Marino's Powerplay Football | 408059 | [408059-dan-marinos-powerplay-football.json](./408059-dan-marinos-powerplay-football.json) |
 | Dan Vs. This Game | 63879 | [63879-dan-vs-this-game.json](./63879-dan-vs-this-game.json) |
 | Danball Senki W Chou Custom | 59406 | [59406-danball-senki-w-chou-custom.json](./59406-danball-senki-w-chou-custom.json) |
@@ -158,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Arcana: The Carnival | 10137 | [10137-dark-arcana-the-carnival.json](./10137-dark-arcana-the-carnival.json) |
 | Dark Canvas Collection | 146305 | [146305-dark-canvas-collection.json](./146305-dark-canvas-collection.json) |
 | Dark Castle | 12034 | [12034-dark-castle.json](./12034-dark-castle.json) |
+| Dark Castle | 334682 | [334682-dark-castle.json](./334682-dark-castle.json) |
 | Dark Cavern | 278723 | [278723-dark-cavern.json](./278723-dark-cavern.json) |
 | Dark Chaser | 109034 | [109034-dark-chaser.json](./109034-dark-chaser.json) |
 | Dark City: Barcelona Collector's Edition | 362832 | [362832-dark-city-barcelona-collectors-edition.json](./362832-dark-city-barcelona-collectors-edition.json) |
@@ -1315,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Nightmare | 333927 | [333927-doki-doki-nightmare.json](./333927-doki-doki-nightmare.json) |
 | Doki Doki Salvation Remake! | 342072 | [342072-doki-doki-salvation-remake.json](./342072-doki-doki-salvation-remake.json) |
 | Doki Doki Sayori Date! | 332855 | [332855-doki-doki-sayori-date.json](./332855-doki-doki-sayori-date.json) |
+| Doki Doki Silver & Emerald | 334693 | [334693-doki-doki-silver-and-emerald.json](./334693-doki-doki-silver-and-emerald.json) |
 | Doki Doki Tri-Line Quest | 191218 | [191218-doki-doki-tri-line-quest.json](./191218-doki-doki-tri-line-quest.json) |
 | Doki Doki Your Bully: Natsuki | 332853 | [332853-doki-doki-your-bully-natsuki.json](./332853-doki-doki-your-bully-natsuki.json) |
 | Doki Monsters: Quest | 378792 | [378792-doki-monsters-quest.json](./378792-doki-monsters-quest.json) |
@@ -1438,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle God Bundle | 119072 | [119072-doodle-god-bundle.json](./119072-doodle-god-bundle.json) |
 | Doodle God: Fantasy World of Magic | 186346 | [186346-doodle-god-fantasy-world-of-magic.json](./186346-doodle-god-fantasy-world-of-magic.json) |
 | Doodle God: Genesis Secrets | 99617 | [99617-doodle-god-genesis-secrets.json](./99617-doodle-god-genesis-secrets.json) |
+| Doodle God: Merge Evolution | 334699 | [334699-doodle-god-merge-evolution.json](./334699-doodle-god-merge-evolution.json) |
 | Doodle Jump HD: Insanely Good! | 104106 | [104106-doodle-jump-hd-insanely-good.json](./104106-doodle-jump-hd-insanely-good.json) |
 | Doodle Kingdom | 27243 | [27243-doodle-kingdom.json](./27243-doodle-kingdom.json) |
 | DoodleBob and the Magic Pencil | 341323 | [341323-doodlebob-and-the-magic-pencil.json](./341323-doodlebob-and-the-magic-pencil.json) |
