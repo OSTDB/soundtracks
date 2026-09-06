@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Treats | 378207 | [378207-hollow-treats.json](./378207-hollow-treats.json) |
 | Hollow World: Dark Knight | 231055 | [231055-hollow-world-dark-knight.json](./231055-hollow-world-dark-knight.json) |
 | HollowPath | 221429 | [221429-hollowpath.json](./221429-hollowpath.json) |
+| Hollowroot | 344356 | [344356-hollowroot.json](./344356-hollowroot.json) |
 | Holly: A Christmas Tale | 177046 | [177046-holly-a-christmas-tale.json](./177046-holly-a-christmas-tale.json) |
 | Hollybound | 262653 | [262653-hollybound.json](./262653-hollybound.json) |
 | Hollywood Monsters | 71516 | [71516-hollywood-monsters.json](./71516-hollywood-monsters.json) |
@@ -995,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homepage | 347702 | [347702-homepage.json](./347702-homepage.json) |
 | Homerun King - Pro Baseball | 39011 | [39011-homerun-king-pro-baseball.json](./39011-homerun-king-pro-baseball.json) |
 | Homesickened | 244991 | [244991-homesickened.json](./244991-homesickened.json) |
+| Homesickness | 344341 | [344341-homesickness.json](./344341-homesickness.json) |
 | Homeward | 188126 | [188126-homeward.json](./188126-homeward.json) |
 | Homework Salesman | 181926 | [181926-homework-salesman.json](./181926-homework-salesman.json) |
 | Homicipher | 247905 | [247905-homicipher.json](./247905-homicipher.json) |
