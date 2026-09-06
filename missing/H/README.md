@@ -985,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Tech VR | 29891 | [29891-home-tech-vr.json](./29891-home-tech-vr.json) |
 | Home trip | 262103 | [262103-home-trip.json](./262103-home-trip.json) |
 | Home Wars | 43334 | [43334-home-wars.json](./43334-home-wars.json) |
+| Home: Boov Pop! | 344931 | [344931-home-boov-pop.json](./344931-home-boov-pop.json) |
 | Homebound Mariana | 302124 | [302124-homebound-mariana.json](./302124-homebound-mariana.json) |
 | Homefront: The Rock Map Pack | 224224 | [224224-homefront-the-rock-map-pack.json](./224224-homefront-the-rock-map-pack.json) |
 | Homehead | 346023 | [346023-homehead.json](./346023-homehead.json) |
