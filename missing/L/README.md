@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Kingdom | 253005 | [253005-loop-kingdom.json](./253005-loop-kingdom.json) |
 | Loop My Crank | 374629 | [374629-loop-my-crank.json](./374629-loop-my-crank.json) |
 | Loopbreaker | 395586 | [395586-loopbreaker.json](./395586-loopbreaker.json) |
+| LoopBreaker | 335241 | [335241-loopbreaker.json](./335241-loopbreaker.json) |
 | Looper Looper | 255997 | [255997-looper-looper.json](./255997-looper-looper.json) |
 | Loopers | 140632 | [140632-loopers.json](./140632-loopers.json) |
 | Loophole | 350443 | [350443-loophole.json](./350443-loophole.json) |
