@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T22:33:13.700Z",
-  "total_missing": 39179,
+  "generated_at": "2026-09-06T22:48:08.254Z",
+  "total_missing": 39229,
   "games": [
     {
       "igdb_id": 306086,
@@ -28173,6 +28173,11 @@
       "file": "missing/C/404818-castle-in-the-sands.json"
     },
     {
+      "igdb_id": 315503,
+      "game_name": "Castle of Asleep",
+      "file": "missing/C/315503-castle-of-asleep.json"
+    },
+    {
       "igdb_id": 104089,
       "game_name": "Castle of Awa",
       "file": "missing/C/104089-castle-of-awa.json"
@@ -34098,6 +34103,11 @@
       "file": "missing/C/309127-constellation-courier.json"
     },
     {
+      "igdb_id": 315484,
+      "game_name": "Constriction: 1024",
+      "file": "missing/C/315484-constriction-1024.json"
+    },
+    {
       "igdb_id": 259233,
       "game_name": "Construction Machine Simulator 2023: Hard Truck Work Job",
       "file": "missing/C/259233-construction-machine-simulator-2023-hard-truck-work-job.json"
@@ -34541,6 +34551,11 @@
       "igdb_id": 330124,
       "game_name": "Cornucopia of Kaizo",
       "file": "missing/C/330124-cornucopia-of-kaizo.json"
+    },
+    {
+      "igdb_id": 315506,
+      "game_name": "Coromon: Rogue Planet",
+      "file": "missing/C/315506-coromon-rogue-planet.json"
     },
     {
       "igdb_id": 32228,
@@ -36188,6 +36203,16 @@
       "file": "missing/C/414308-cricket-manager-27.json"
     },
     {
+      "igdb_id": 315500,
+      "game_name": "Crime Boss: Rockay City - Cagnali's Order",
+      "file": "missing/C/315500-crime-boss-rockay-city-cagnalis-order.json"
+    },
+    {
+      "igdb_id": 315501,
+      "game_name": "Crime Boss: Rockay City - Tactical Weapon Pack",
+      "file": "missing/C/315501-crime-boss-rockay-city-tactical-weapon-pack.json"
+    },
+    {
       "igdb_id": 7872,
       "game_name": "Crime Cities",
       "file": "missing/C/7872-crime-cities.json"
@@ -37776,6 +37801,11 @@
       "igdb_id": 195250,
       "game_name": "Cursed Spire",
       "file": "missing/C/195250-cursed-spire.json"
+    },
+    {
+      "igdb_id": 315470,
+      "game_name": "Cursed Swamp Escape 3",
+      "file": "missing/C/315470-cursed-swamp-escape-3.json"
     },
     {
       "igdb_id": 202421,
@@ -41488,6 +41518,11 @@
       "file": "missing/D/33130-defend-your-crypt.json"
     },
     {
+      "igdb_id": 315522,
+      "game_name": "Defend Your Nuts",
+      "file": "missing/D/315522-defend-your-nuts.json"
+    },
+    {
       "igdb_id": 45350,
       "game_name": "Defenda",
       "file": "missing/D/45350-defenda.json"
@@ -41591,6 +41626,11 @@
       "igdb_id": 93563,
       "game_name": "Deflector",
       "file": "missing/D/93563-deflector.json"
+    },
+    {
+      "igdb_id": 315510,
+      "game_name": "Deflex V",
+      "file": "missing/D/315510-deflex-v.json"
     },
     {
       "igdb_id": 16242,
@@ -49398,6 +49438,11 @@
       "file": "missing/D/138831-dust-to-dusk.json"
     },
     {
+      "igdb_id": 315518,
+      "game_name": "Dustborn: The Vision Tour Bundle",
+      "file": "missing/D/315518-dustborn-the-vision-tour-bundle.json"
+    },
+    {
       "igdb_id": 322598,
       "game_name": "Dustbunny: Emotions to Plants",
       "file": "missing/D/322598-dustbunny-emotions-to-plants.json"
@@ -50966,6 +51011,11 @@
       "igdb_id": 349311,
       "game_name": "Elegant Sleuth: Mystic Family",
       "file": "missing/E/349311-elegant-sleuth-mystic-family.json"
+    },
+    {
+      "igdb_id": 315490,
+      "game_name": "Elegy for Them Vigil",
+      "file": "missing/E/315490-elegy-for-them-vigil.json"
     },
     {
       "igdb_id": 207525,
@@ -59773,6 +59823,11 @@
       "file": "missing/F/183033-flour-hour.json"
     },
     {
+      "igdb_id": 315530,
+      "game_name": "Flow",
+      "file": "missing/F/315530-flow.json"
+    },
+    {
       "igdb_id": 105328,
       "game_name": "Flow Dot",
       "file": "missing/F/105328-flow-dot.json"
@@ -62416,6 +62471,11 @@
       "igdb_id": 14081,
       "game_name": "Frontiers",
       "file": "missing/F/14081-frontiers.json"
+    },
+    {
+      "igdb_id": 315519,
+      "game_name": "Frontiers of the Mind",
+      "file": "missing/F/315519-frontiers-of-the-mind.json"
     },
     {
       "igdb_id": 167309,
@@ -69696,6 +69756,11 @@
       "igdb_id": 89928,
       "game_name": "Guilty Gear Xrd: Revelator - Let's Rock! Edition",
       "file": "missing/G/89928-guilty-gear-xrd-revelator-lets-rock-edition.json"
+    },
+    {
+      "igdb_id": 315513,
+      "game_name": "Guilty Gear Xrd: Sign - Character Colors Christmas Set",
+      "file": "missing/G/315513-guilty-gear-xrd-sign-character-colors-christmas-set.json"
     },
     {
       "igdb_id": 9145,
@@ -84363,6 +84428,11 @@
       "file": "missing/J/300415-jumpstart-math-for-kindergarteners.json"
     },
     {
+      "igdb_id": 315521,
+      "game_name": "JumpStart Preschool",
+      "file": "missing/J/315521-jumpstart-preschool.json"
+    },
+    {
       "igdb_id": 49923,
       "game_name": "JumpStart: Dino Adventure Field Trip",
       "file": "missing/J/49923-jumpstart-dino-adventure-field-trip.json"
@@ -87171,6 +87241,11 @@
       "igdb_id": 3723,
       "game_name": "Kirby: Squeak Squad",
       "file": "missing/K/3723-kirby-squeak-squad.json"
+    },
+    {
+      "igdb_id": 315520,
+      "game_name": "Kirby: Wacky Episode",
+      "file": "missing/K/315520-kirby-wacky-episode.json"
     },
     {
       "igdb_id": 324102,
@@ -95638,6 +95713,11 @@
       "file": "missing/M/317579-magic-garden.json"
     },
     {
+      "igdb_id": 315471,
+      "game_name": "Magic Garden Escape",
+      "file": "missing/M/315471-magic-garden-escape.json"
+    },
+    {
       "igdb_id": 377601,
       "game_name": "Magic Gear",
       "file": "missing/M/377601-magic-gear.json"
@@ -95661,6 +95741,51 @@
       "igdb_id": 114996,
       "game_name": "Magic Heart",
       "file": "missing/M/114996-magic-heart.json"
+    },
+    {
+      "igdb_id": 315472,
+      "game_name": "Magic Island Escape",
+      "file": "missing/M/315472-magic-island-escape.json"
+    },
+    {
+      "igdb_id": 315473,
+      "game_name": "Magic Island Escape 2",
+      "file": "missing/M/315473-magic-island-escape-2.json"
+    },
+    {
+      "igdb_id": 315474,
+      "game_name": "Magic Island Escape 3",
+      "file": "missing/M/315474-magic-island-escape-3.json"
+    },
+    {
+      "igdb_id": 315477,
+      "game_name": "Magic Island Escape 4",
+      "file": "missing/M/315477-magic-island-escape-4.json"
+    },
+    {
+      "igdb_id": 315478,
+      "game_name": "Magic Island Escape 5",
+      "file": "missing/M/315478-magic-island-escape-5.json"
+    },
+    {
+      "igdb_id": 315524,
+      "game_name": "Magic Island Escape 6",
+      "file": "missing/M/315524-magic-island-escape-6.json"
+    },
+    {
+      "igdb_id": 315525,
+      "game_name": "Magic Island Escape 7",
+      "file": "missing/M/315525-magic-island-escape-7.json"
+    },
+    {
+      "igdb_id": 315527,
+      "game_name": "Magic Island Escape 8",
+      "file": "missing/M/315527-magic-island-escape-8.json"
+    },
+    {
+      "igdb_id": 315529,
+      "game_name": "Magic Island Escape 9",
+      "file": "missing/M/315529-magic-island-escape-9.json"
     },
     {
       "igdb_id": 359394,
@@ -98891,6 +99016,11 @@
       "igdb_id": 300988,
       "game_name": "Mbembe Radio",
       "file": "missing/M/300988-mbembe-radio.json"
+    },
+    {
+      "igdb_id": 315509,
+      "game_name": "MBOS",
+      "file": "missing/M/315509-mbos.json"
     },
     {
       "igdb_id": 350988,
@@ -102398,6 +102528,11 @@
       "file": "missing/M/255328-minecraft-minecon-2016-skin-pack.json"
     },
     {
+      "igdb_id": 315515,
+      "game_name": "Minecraft: Minecon Live - Rush Race!",
+      "file": "missing/M/315515-minecraft-minecon-live-rush-race.json"
+    },
+    {
       "igdb_id": 333584,
       "game_name": "Minecraft: Mob Weapons",
       "file": "missing/M/333584-minecraft-mob-weapons.json"
@@ -102431,6 +102566,11 @@
       "igdb_id": 255347,
       "game_name": "Minecraft: Plastic Texture Pack",
       "file": "missing/M/255347-minecraft-plastic-texture-pack.json"
+    },
+    {
+      "igdb_id": 315516,
+      "game_name": "Minecraft: Power Grid Hero",
+      "file": "missing/M/315516-minecraft-power-grid-hero.json"
     },
     {
       "igdb_id": 333582,
@@ -112793,6 +112933,11 @@
       "file": "missing/N/76666-no-ordinary-elevator.json"
     },
     {
+      "igdb_id": 315486,
+      "game_name": "No Recollection: Swimsuit DLC!",
+      "file": "missing/N/315486-no-recollection-swimsuit-dlc.json"
+    },
+    {
       "igdb_id": 302688,
       "game_name": "No Rest",
       "file": "missing/N/302688-no-rest.json"
@@ -113201,6 +113346,11 @@
       "igdb_id": 404808,
       "game_name": "Nol",
       "file": "missing/N/404808-nol.json"
+    },
+    {
+      "igdb_id": 315485,
+      "game_name": "NoLimits 2: Roller Coaster Simulation - Professional License",
+      "file": "missing/N/315485-nolimits-2-roller-coaster-simulation-professional-license.json"
     },
     {
       "igdb_id": 209650,
@@ -114446,6 +114596,11 @@
       "igdb_id": 257071,
       "game_name": "Oddy's Lost and Found",
       "file": "missing/O/257071-oddys-lost-and-found.json"
+    },
+    {
+      "igdb_id": 315489,
+      "game_name": "Ode of Resurrection",
+      "file": "missing/O/315489-ode-of-resurrection.json"
     },
     {
       "igdb_id": 111059,
@@ -118298,6 +118453,11 @@
       "file": "missing/P/86125-pachio-kun-game-gallery.json"
     },
     {
+      "igdb_id": 315523,
+      "game_name": "Pachislot Akumajou Dracula",
+      "file": "missing/P/315523-pachislot-akumajou-dracula.json"
+    },
+    {
       "igdb_id": 254748,
       "game_name": "Pacific Warships",
       "file": "missing/P/254748-pacific-warships.json"
@@ -118891,6 +119051,11 @@
       "igdb_id": 128636,
       "game_name": "Panic Crisis Mage Attack",
       "file": "missing/P/128636-panic-crisis-mage-attack.json"
+    },
+    {
+      "igdb_id": 315508,
+      "game_name": "Panic in the Woods",
+      "file": "missing/P/315508-panic-in-the-woods.json"
     },
     {
       "igdb_id": 247767,
@@ -125286,6 +125451,11 @@
       "igdb_id": 40774,
       "game_name": "Pompeii",
       "file": "missing/P/40774-pompeii.json"
+    },
+    {
+      "igdb_id": 315511,
+      "game_name": "Pompeii: The Legacy",
+      "file": "missing/P/315511-pompeii-the-legacy.json"
     },
     {
       "igdb_id": 173842,
@@ -137413,6 +137583,11 @@
       "file": "missing/R/73818-rowans-battle-of-britain.json"
     },
     {
+      "igdb_id": 315507,
+      "game_name": "Rox II",
+      "file": "missing/R/315507-rox-ii.json"
+    },
+    {
       "igdb_id": 375845,
       "game_name": "Roxy Raccoon 3: Troubles in Time",
       "file": "missing/R/375845-roxy-raccoon-3-troubles-in-time.json"
@@ -143883,6 +144058,21 @@
       "file": "missing/S/336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json"
     },
     {
+      "igdb_id": 315481,
+      "game_name": "Shin Megami Tensei V: Vengeance - Mitama Dance of EXP",
+      "file": "missing/S/315481-shin-megami-tensei-v-vengeance-mitama-dance-of-exp.json"
+    },
+    {
+      "igdb_id": 315483,
+      "game_name": "Shin Megami Tensei V: Vengeance - Mitama Dance of Miracles",
+      "file": "missing/S/315483-shin-megami-tensei-v-vengeance-mitama-dance-of-miracles.json"
+    },
+    {
+      "igdb_id": 315482,
+      "game_name": "Shin Megami Tensei V: Vengeance - Mitama Dance of Wealth",
+      "file": "missing/S/315482-shin-megami-tensei-v-vengeance-mitama-dance-of-wealth.json"
+    },
+    {
       "igdb_id": 142491,
       "game_name": "Shin Megami Tensei Vertex",
       "file": "missing/S/142491-shin-megami-tensei-vertex.json"
@@ -149056,6 +149246,11 @@
       "igdb_id": 353871,
       "game_name": "Something Dark Beyond The Light",
       "file": "missing/S/353871-something-dark-beyond-the-light.json"
+    },
+    {
+      "igdb_id": 315488,
+      "game_name": "Something Is Wrong With My World Map",
+      "file": "missing/S/315488-something-is-wrong-with-my-world-map.json"
     },
     {
       "igdb_id": 381613,
@@ -154546,6 +154741,11 @@
       "igdb_id": 372498,
       "game_name": "Starvania: Tales Of The Past",
       "file": "missing/S/372498-starvania-tales-of-the-past.json"
+    },
+    {
+      "igdb_id": 315487,
+      "game_name": "Starway Ateez",
+      "file": "missing/S/315487-starway-ateez.json"
     },
     {
       "igdb_id": 119041,
@@ -164278,6 +164478,11 @@
       "file": "missing/T/344352-terrors-to-unveil-intrusion.json"
     },
     {
+      "igdb_id": 315502,
+      "game_name": "Terry The Turtle's Big Adventure",
+      "file": "missing/T/315502-terry-the-turtles-big-adventure.json"
+    },
+    {
       "igdb_id": 327820,
       "game_name": "Terry's Other Games",
       "file": "missing/T/327820-terrys-other-games.json"
@@ -166681,6 +166886,11 @@
       "igdb_id": 314049,
       "game_name": "The Devil Within",
       "file": "missing/T/314049-the-devil-within.json"
+    },
+    {
+      "igdb_id": 315512,
+      "game_name": "The Devilz Work",
+      "file": "missing/T/315512-the-devilz-work.json"
     },
     {
       "igdb_id": 240474,
@@ -172178,6 +172388,11 @@
       "file": "missing/T/123043-the-sports-daishuugou.json"
     },
     {
+      "igdb_id": 315504,
+      "game_name": "The Springlock: Aftermath",
+      "file": "missing/T/315504-the-springlock-aftermath.json"
+    },
+    {
       "igdb_id": 130377,
       "game_name": "The Square Game",
       "file": "missing/T/130377-the-square-game.json"
@@ -177376,6 +177591,11 @@
       "igdb_id": 11011,
       "game_name": "Too Many Me",
       "file": "missing/T/11011-too-many-me.json"
+    },
+    {
+      "igdb_id": 315475,
+      "game_name": "Too Many Nights",
+      "file": "missing/T/315475-too-many-nights.json"
     },
     {
       "igdb_id": 329365,
@@ -193706,6 +193926,36 @@
       "igdb_id": 301020,
       "game_name": "Yohane the Parhelion: Additional Character Pack vol.1 \"Dia & Hanamaru & Kanan\"",
       "file": "missing/Y/301020-yohane-the-parhelion-additional-character-pack-vol-1-dia-and-hanamaru-and-kanan.json"
+    },
+    {
+      "igdb_id": 315494,
+      "game_name": "Yohane the Parhelion: Additional character pack vol.3 \"Riko & Mari + Yohane\"",
+      "file": "missing/Y/315494-yohane-the-parhelion-additional-character-pack-vol-3-riko-and-mari-yohane.json"
+    },
+    {
+      "igdb_id": 315499,
+      "game_name": "Yohane the Parhelion: Numazu in the Mirage - \"Yohane the Parhelion\" song set",
+      "file": "missing/Y/315499-yohane-the-parhelion-numazu-in-the-mirage-yohane-the-parhelion-song-set.json"
+    },
+    {
+      "igdb_id": 315497,
+      "game_name": "Yohane the Parhelion: Numazu in the Mirage - Costume \"Far far away\"",
+      "file": "missing/Y/315497-yohane-the-parhelion-numazu-in-the-mirage-costume-far-far-away.json"
+    },
+    {
+      "igdb_id": 315495,
+      "game_name": "Yohane the Parhelion: Numazu in the Mirage - Costume \"Fledgling\"",
+      "file": "missing/Y/315495-yohane-the-parhelion-numazu-in-the-mirage-costume-fledgling.json"
+    },
+    {
+      "igdb_id": 315496,
+      "game_name": "Yohane the Parhelion: Numazu in the Mirage - Costume \"Lucky Outfit\"",
+      "file": "missing/Y/315496-yohane-the-parhelion-numazu-in-the-mirage-costume-lucky-outfit.json"
+    },
+    {
+      "igdb_id": 315498,
+      "game_name": "Yohane the Parhelion: Numazu in the Mirage - Costume \"Trendy Schoolgirl\"",
+      "file": "missing/Y/315498-yohane-the-parhelion-numazu-in-the-mirage-costume-trendy-schoolgirl.json"
     },
     {
       "igdb_id": 307308,
