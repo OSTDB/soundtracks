@@ -700,7 +700,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle Cats | 59746 | [59746-the-battle-cats.json](./59746-the-battle-cats.json) |
 | The Battle of Aurinoxia | 304368 | [304368-the-battle-of-aurinoxia.json](./304368-the-battle-of-aurinoxia.json) |
 | The Battle of Polytopia | 57153 | [57153-the-battle-of-polytopia.json](./57153-the-battle-of-polytopia.json) |
+| The Battle of Polytopia: Anzala | 366863 | [366863-the-battle-of-polytopia-anzala.json](./366863-the-battle-of-polytopia-anzala.json) |
+| The Battle of Polytopia: Baergøff | 366861 | [366861-the-battle-of-polytopia-baerg-ff.json](./366861-the-battle-of-polytopia-baerg-ff.json) |
+| The Battle of Polytopia: Hoodrick | 366857 | [366857-the-battle-of-polytopia-hoodrick.json](./366857-the-battle-of-polytopia-hoodrick.json) |
+| The Battle of Polytopia: Kickoo | 366858 | [366858-the-battle-of-polytopia-kickoo.json](./366858-the-battle-of-polytopia-kickoo.json) |
+| The Battle of Polytopia: Lirepacci | 366860 | [366860-the-battle-of-polytopia-lirepacci.json](./366860-the-battle-of-polytopia-lirepacci.json) |
 | The Battle of Polytopia: Midŋighţ Skin - Elyrioŋ Tribe | 305532 | [305532-the-battle-of-polytopia-mid-ight-skin-elyrio-tribe.json](./305532-the-battle-of-polytopia-mid-ight-skin-elyrio-tribe.json) |
+| The Battle of Polytopia: Ragoo | 366856 | [366856-the-battle-of-polytopia-ragoo.json](./366856-the-battle-of-polytopia-ragoo.json) |
+| The Battle of Polytopia: Sha-po | 366862 | [366862-the-battle-of-polytopia-sha-po.json](./366862-the-battle-of-polytopia-sha-po.json) |
+| The Battle of Polytopia: Yorthwober | 366859 | [366859-the-battle-of-polytopia-yorthwober.json](./366859-the-battle-of-polytopia-yorthwober.json) |
 | The Battles for Abunka | 210900 | [210900-the-battles-for-abunka.json](./210900-the-battles-for-abunka.json) |
 | The Battles of Napoleon | 54436 | [54436-the-battles-of-napoleon.json](./54436-the-battles-of-napoleon.json) |
 | The Baumman Box | 372452 | [372452-the-baumman-box.json](./372452-the-baumman-box.json) |
@@ -1668,6 +1676,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outer Space Bugs | 224751 | [224751-the-outer-space-bugs.json](./224751-the-outer-space-bugs.json) |
 | The Outer Worlds: Spacer's Choice Edition | 239999 | [239999-the-outer-worlds-spacers-choice-edition.json](./239999-the-outer-worlds-spacers-choice-edition.json) |
 | The Outer Zone: Survival Tactics | 264856 | [264856-the-outer-zone-survival-tactics.json](./264856-the-outer-zone-survival-tactics.json) |
+| The Outlast Trials: Porcelain Observer Pack | 366838 | [366838-the-outlast-trials-porcelain-observer-pack.json](./366838-the-outlast-trials-porcelain-observer-pack.json) |
+| The Outlast Trials: Spelunking For Your Life Pack | 366837 | [366837-the-outlast-trials-spelunking-for-your-life-pack.json](./366837-the-outlast-trials-spelunking-for-your-life-pack.json) |
+| The Outlast Trials: Terrified Toddler Pack | 366835 | [366835-the-outlast-trials-terrified-toddler-pack.json](./366835-the-outlast-trials-terrified-toddler-pack.json) |
+| The Outlast Trials: World of Heavyweights Pack | 366839 | [366839-the-outlast-trials-world-of-heavyweights-pack.json](./366839-the-outlast-trials-world-of-heavyweights-pack.json) |
 | The Outlaw and the Newcomer | 216998 | [216998-the-outlaw-and-the-newcomer.json](./216998-the-outlaw-and-the-newcomer.json) |
 | The Owlman of Mawnan Smith | 61084 | [61084-the-owlman-of-mawnan-smith.json](./61084-the-owlman-of-mawnan-smith.json) |
 | The Palace on the Hill | 153430 | [153430-the-palace-on-the-hill.json](./153430-the-palace-on-the-hill.json) |
@@ -3109,6 +3121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailmakers: Rescue Pack | 293396 | [293396-trailmakers-rescue-pack.json](./293396-trailmakers-rescue-pack.json) |
 | Trailmarks | 391079 | [391079-trailmarks.json](./391079-trailmarks.json) |
 | Trailpa | 256518 | [256518-trailpa.json](./256518-trailpa.json) |
+| TrailRail | 366850 | [366850-trailrail.json](./366850-trailrail.json) |
 | Trails of Illusion | 197951 | [197951-trails-of-illusion.json](./197951-trails-of-illusion.json) |
 | Trails of Sunder | 241077 | [241077-trails-of-sunder.json](./241077-trails-of-sunder.json) |
 | Train Journey | 382209 | [382209-train-journey.json](./382209-train-journey.json) |
@@ -3124,7 +3137,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 4: Nahverkehr Dresden - Riesa Route Add-On | 307970 | [307970-train-sim-world-4-nahverkehr-dresden-riesa-route-add-on.json](./307970-train-sim-world-4-nahverkehr-dresden-riesa-route-add-on.json) |
 | Train Sim World 4: RhB Arosa Aggregates Pack | 277587 | [277587-train-sim-world-4-rhb-arosa-aggregates-pack.json](./277587-train-sim-world-4-rhb-arosa-aggregates-pack.json) |
 | Train Sim World 4: S-Bahn Vorarlberg - Lindau - Bludenz Route | 269322 | [269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json](./269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json) |
+| Train Sim World 5: BR Class 86/2 & Mk2f Coaches | 366834 | [366834-train-sim-world-5-br-class-86-2-and-mk2f-coaches.json](./366834-train-sim-world-5-br-class-86-2-and-mk2f-coaches.json) |
 | Train Sim World 5: Dutch Regional Edition | 336939 | [336939-train-sim-world-5-dutch-regional-edition.json](./336939-train-sim-world-5-dutch-regional-edition.json) |
+| Train Sim World 5: Manchester Airport Commuter: Manchester - Alderley Edge | 366842 | [366842-train-sim-world-5-manchester-airport-commuter-manchester-alderley-edge.json](./366842-train-sim-world-5-manchester-airport-commuter-manchester-alderley-edge.json) |
+| Train Sim World 5: MBTA Providence/Stoughton Line HSP46 Pack | 366841 | [366841-train-sim-world-5-mbta-providence-stoughton-line-hsp46-pack.json](./366841-train-sim-world-5-mbta-providence-stoughton-line-hsp46-pack.json) |
 | Train Sim World 6 | 363370 | [363370-train-sim-world-6.json](./363370-train-sim-world-6.json) |
 | Train Sim World: Great Western Express | 53837 | [53837-train-sim-world-great-western-express.json](./53837-train-sim-world-great-western-express.json) |
 | Train Simulator | 327582 | [327582-train-simulator.json](./327582-train-simulator.json) |
@@ -3291,6 +3307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Chest Corps: Fight Demons to Restore the Barrier | 118392 | [118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json](./118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json) |
 | Treasure Gear | 130357 | [130357-treasure-gear.json](./130357-treasure-gear.json) |
 | Treasure Hunt | 12969 | [12969-treasure-hunt.json](./12969-treasure-hunt.json) |
+| Treasure Hunt | 366840 | [366840-treasure-hunt.json](./366840-treasure-hunt.json) |
 | Treasure Hunter | 242235 | [242235-treasure-hunter.json](./242235-treasure-hunter.json) |
 | Treasure Hunter | 327577 | [327577-treasure-hunter.json](./327577-treasure-hunter.json) |
 | Treasure Hunter | 76627 | [76627-treasure-hunter.json](./76627-treasure-hunter.json) |
