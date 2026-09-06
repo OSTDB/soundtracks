@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yggdra Kingdom | 395590 | [395590-yggdra-kingdom.json](./395590-yggdra-kingdom.json) |
 | Yggdra Unison: Seiken Buyuuden | 67852 | [67852-yggdra-unison-seiken-buyuuden.json](./67852-yggdra-unison-seiken-buyuuden.json) |
 | Yggdrasill | 251851 | [251851-yggdrasill.json](./251851-yggdrasill.json) |
+| Yì Shìjiè Wúlítóu Shēnghuó 2 | 367429 | [367429-yi-shijie-wulitou-shenghuo-2.json](./367429-yi-shijie-wulitou-shenghuo-2.json) |
 | Yie Ar Kung-Fu | 18170 | [18170-yie-ar-kung-fu.json](./18170-yie-ar-kung-fu.json) |
 | Yin-Yang Labyrinth | 301600 | [301600-yin-yang-labyrinth.json](./301600-yin-yang-labyrinth.json) |
 | Ylands | 36297 | [36297-ylands.json](./36297-ylands.json) |
