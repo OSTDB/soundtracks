@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Notas | 414382 | [414382-el-notas.json](./414382-el-notas.json) |
 | El Paso, Nightmare | 223134 | [223134-el-paso-nightmare.json](./223134-el-paso-nightmare.json) |
 | El Rock de tu Vida | 126004 | [126004-el-rock-de-tu-vida.json](./126004-el-rock-de-tu-vida.json) |
+| El Salar | 332451 | [332451-el-salar.json](./332451-el-salar.json) |
 | El Shaddai: Ascension of the Metatron | 6987 | [6987-el-shaddai-ascension-of-the-metatron.json](./6987-el-shaddai-ascension-of-the-metatron.json) |
 | El Stompo | 333925 | [333925-el-stompo.json](./333925-el-stompo.json) |
 | El Tigre: The Adventures of Manny Rivera | 264869 | [264869-el-tigre-the-adventures-of-manny-rivera.json](./264869-el-tigre-the-adventures-of-manny-rivera.json) |
@@ -397,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empress of the Deep: The Darkest Secret | 17368 | [17368-empress-of-the-deep-the-darkest-secret.json](./17368-empress-of-the-deep-the-darkest-secret.json) |
 | Empress's Choice | 245047 | [245047-empresss-choice.json](./245047-empresss-choice.json) |
 | Empronix Game | 369027 | [369027-empronix-game.json](./369027-empronix-game.json) |
+| Emptiness Sire | 332426 | [332426-emptiness-sire.json](./332426-emptiness-sire.json) |
 | Empty | 229384 | [229384-empty.json](./229384-empty.json) |
 | Empyre: Dukes of the Far Frontier | 198555 | [198555-empyre-dukes-of-the-far-frontier.json](./198555-empyre-dukes-of-the-far-frontier.json) |
 | Empyrean Swarm | 273649 | [273649-empyrean-swarm.json](./273649-empyrean-swarm.json) |
