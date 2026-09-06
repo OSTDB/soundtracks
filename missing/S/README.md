@@ -253,6 +253,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanou Kaihatsu Series 6 Ouyou Mondai | 303766 | [303766-sanou-kaihatsu-series-6-ouyou-mondai.json](./303766-sanou-kaihatsu-series-6-ouyou-mondai.json) |
 | Sanrio Timenet World | 302682 | [302682-sanrio-timenet-world.json](./302682-sanrio-timenet-world.json) |
 | Sans & Papyrus: Salsa Lesson | 367395 | [367395-sans-and-papyrus-salsa-lesson.json](./367395-sans-and-papyrus-salsa-lesson.json) |
+| Sansara Naga 1 | 341472 | [341472-sansara-naga-1.json](./341472-sansara-naga-1.json) |
+| Sansara Naga 2 | 341473 | [341473-sansara-naga-2.json](./341473-sansara-naga-2.json) |
 | Santa Challenge | 130959 | [130959-santa-challenge.json](./130959-santa-challenge.json) |
 | Santa Claus is Comin' to Town | 50622 | [50622-santa-claus-is-comin-to-town.json](./50622-santa-claus-is-comin-to-town.json) |
 | Santa Claus Jigsaw Puzzles | 228108 | [228108-santa-claus-jigsaw-puzzles.json](./228108-santa-claus-jigsaw-puzzles.json) |
@@ -1161,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shut Up, Rabbit! | 263744 | [263744-shut-up-rabbit.json](./263744-shut-up-rabbit.json) |
 | Shutter Chance Love | 72699 | [72699-shutter-chance-love.json](./72699-shutter-chance-love.json) |
 | Shutter Stroll | 134671 | [134671-shutter-stroll.json](./134671-shutter-stroll.json) |
+| Shutterbuds | 341475 | [341475-shutterbuds.json](./341475-shutterbuds.json) |
 | Shuuchaku Gakuen | 335668 | [335668-shuuchaku-gakuen.json](./335668-shuuchaku-gakuen.json) |
 | Shuusou Gyoku | 123608 | [123608-shuusou-gyoku.json](./123608-shuusou-gyoku.json) |
 | Shuwa Shuwa Guin! | 383940 | [383940-shuwa-shuwa-guin.json](./383940-shuwa-shuwa-guin.json) |
@@ -1775,6 +1778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoopy's Silly Sports Spectacular! | 48077 | [48077-snoopys-silly-sports-spectacular.json](./48077-snoopys-silly-sports-spectacular.json) |
 | Snops Attack! Zombie Defense | 240495 | [240495-snops-attack-zombie-defense.json](./240495-snops-attack-zombie-defense.json) |
 | Snow Ash Land | 112347 | [112347-snow-ash-land.json](./112347-snow-ash-land.json) |
+| Snow Cone | 341474 | [341474-snow-cone.json](./341474-snow-cone.json) |
 | Snow Jewels Puzzle | 87134 | [87134-snow-jewels-puzzle.json](./87134-snow-jewels-puzzle.json) |
 | Snow Kids | 135888 | [135888-snow-kids.json](./135888-snow-kids.json) |
 | Snow Madness | 224201 | [224201-snow-madness.json](./224201-snow-madness.json) |
