@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goof Ball | 78033 | [78033-goof-ball.json](./78033-goof-ball.json) |
 | Goof Troop ST: Space Treasure | 215378 | [215378-goof-troop-st-space-treasure.json](./215378-goof-troop-st-space-treasure.json) |
 | Goofy Insanity | 259240 | [259240-goofy-insanity.json](./259240-goofy-insanity.json) |
+| Goofy Lil Guys | 335250 | [335250-goofy-lil-guys.json](./335250-goofy-lil-guys.json) |
 | Googass | 165667 | [165667-googass.json](./165667-googass.json) |
 | Google Santa Tracker | 229336 | [229336-google-santa-tracker.json](./229336-google-santa-tracker.json) |
 | Goomanuvr | 189164 | [189164-goomanuvr.json](./189164-goomanuvr.json) |
@@ -927,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Vegas Casino | 401559 | [401559-grand-vegas-casino.json](./401559-grand-vegas-casino.json) |
 | Grand War 2 | 247204 | [247204-grand-war-2.json](./247204-grand-war-2.json) |
 | Grande Fratello: Il Gioco | 300371 | [300371-grande-fratello-il-gioco.json](./300371-grande-fratello-il-gioco.json) |
+| Grandma With A Gun | 335276 | [335276-grandma-with-a-gun.json](./335276-grandma-with-a-gun.json) |
 | Grandma's Guide to the Grand Outside | 415110 | [415110-grandmas-guide-to-the-grand-outside.json](./415110-grandmas-guide-to-the-grand-outside.json) |
 | Grandmaster's Revenge | 215355 | [215355-grandmasters-revenge.json](./215355-grandmasters-revenge.json) |
 | Grandslam: The Tennis Tournament | 81410 | [81410-grandslam-the-tennis-tournament.json](./81410-grandslam-the-tennis-tournament.json) |
