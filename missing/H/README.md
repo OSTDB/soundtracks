@@ -928,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit | 208059 | [208059-hit.json](./208059-hit.json) |
 | Hit | 358300 | [358300-hit.json](./358300-hit.json) |
 | Hit Him | 195254 | [195254-hit-him.json](./195254-hit-him.json) |
+| Hit Hit Alaska | 326607 | [326607-hit-hit-alaska.json](./326607-hit-hit-alaska.json) |
 | Hit Tank PRO | 57129 | [57129-hit-tank-pro.json](./57129-hit-tank-pro.json) |
 | Hit the Ice | 295042 | [295042-hit-the-ice.json](./295042-hit-the-ice.json) |
 | HIT: Heroes of Incredible Tales | 79317 | [79317-hit-heroes-of-incredible-tales.json](./79317-hit-heroes-of-incredible-tales.json) |
@@ -1081,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Re: Promise to Luna | 276505 | [276505-honkai-impact-3rd-re-promise-to-luna.json](./276505-honkai-impact-3rd-re-promise-to-luna.json) |
 | Honkai Impact 3rd: Silverwing: Beyond | 276498 | [276498-honkai-impact-3rd-silverwing-beyond.json](./276498-honkai-impact-3rd-silverwing-beyond.json) |
 | Honkai Impact 3rd: The Banquet Operative | 383390 | [383390-honkai-impact-3rd-the-banquet-operative.json](./383390-honkai-impact-3rd-the-banquet-operative.json) |
+| Honkai: Star Rail - Paean of Era Nova | 326609 | [326609-honkai-star-rail-paean-of-era-nova.json](./326609-honkai-star-rail-paean-of-era-nova.json) |
 | Honkai: Star Rail - Unraveled for Daybreak | 394848 | [394848-honkai-star-rail-unraveled-for-daybreak.json](./394848-honkai-star-rail-unraveled-for-daybreak.json) |
 | Honkaku AI Tousai Daifugo | 144999 | [144999-honkaku-ai-tousai-daifugo.json](./144999-honkaku-ai-tousai-daifugo.json) |
 | Honkaku AI Tousai Ginsei Mahjong | 145000 | [145000-honkaku-ai-tousai-ginsei-mahjong.json](./145000-honkaku-ai-tousai-ginsei-mahjong.json) |
