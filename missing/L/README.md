@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth | 78506 | [78506-labyrinth.json](./78506-labyrinth.json) |
 | Labyrinth 3 | 171066 | [171066-labyrinth-3.json](./171066-labyrinth-3.json) |
 | Labyrinth Master | 356672 | [356672-labyrinth-master.json](./356672-labyrinth-master.json) |
+| Labyrinth of Eclipse | 314301 | [314301-labyrinth-of-eclipse.json](./314301-labyrinth-of-eclipse.json) |
 | Labyrinth of the Witch DX | 217538 | [217538-labyrinth-of-the-witch-dx.json](./217538-labyrinth-of-the-witch-dx.json) |
 | Labyrinth of Touhou | 63855 | [63855-labyrinth-of-touhou.json](./63855-labyrinth-of-touhou.json) |
 | Labyrinth of Zangetsu: Adventure Academia - The Fractured Continent Collab: Additional Characters Pack | 246643 | [246643-labyrinth-of-zangetsu-adventure-academia-the-fractured-continent-collab-additional-characters-pack.json](./246643-labyrinth-of-zangetsu-adventure-academia-the-fractured-continent-collab-additional-characters-pack.json) |
@@ -61,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyronia RPG 2 | 34593 | [34593-labyronia-rpg-2.json](./34593-labyronia-rpg-2.json) |
 | Lacerta | 323542 | [323542-lacerta.json](./323542-lacerta.json) |
 | Lacey's Flash Games | 334698 | [334698-laceys-flash-games.json](./334698-laceys-flash-games.json) |
+| Lackgirl II: De Docta Ignorantia | 314282 | [314282-lackgirl-ii-de-docta-ignorantia.json](./314282-lackgirl-ii-de-docta-ignorantia.json) |
 | Lacus Opportunitas | 347149 | [347149-lacus-opportunitas.json](./347149-lacus-opportunitas.json) |
 | Ladders by Powgi | 146927 | [146927-ladders-by-powgi.json](./146927-ladders-by-powgi.json) |
 | Ladderway | 255990 | [255990-ladderway.json](./255990-ladderway.json) |
@@ -524,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letterally | 400861 | [400861-letterally.json](./400861-letterally.json) |
 | LetterBound | 151185 | [151185-letterbound.json](./151185-letterbound.json) |
 | LetterMeister | 173802 | [173802-lettermeister.json](./173802-lettermeister.json) |
+| Letters | 314307 | [314307-letters.json](./314307-letters.json) |
 | Letters & Legends | 292319 | [292319-letters-and-legends.json](./292319-letters-and-legends.json) |
 | Letters from the War | 340916 | [340916-letters-from-the-war.json](./340916-letters-from-the-war.json) |
 | Letters of Bernard Thorne | 337466 | [337466-letters-of-bernard-thorne.json](./337466-letters-of-bernard-thorne.json) |
@@ -569,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liero Xtreme | 72080 | [72080-liero-xtreme.json](./72080-liero-xtreme.json) |
 | Life & Death | 12177 | [12177-life-and-death.json](./12177-life-and-death.json) |
 | Life And Death Are Predetermined by Heaven | 330555 | [330555-life-and-death-are-predetermined-by-heaven.json](./330555-life-and-death-are-predetermined-by-heaven.json) |
+| Life and Death: A Journey of Star-Crossed Lovers | 314296 | [314296-life-and-death-a-journey-of-star-crossed-lovers.json](./314296-life-and-death-a-journey-of-star-crossed-lovers.json) |
 | Life and Minimalism | 202962 | [202962-life-and-minimalism.json](./202962-life-and-minimalism.json) |
 | Life Force | 174945 | [174945-life-force.json](./174945-life-force.json) |
 | Life Goals | 102144 | [102144-life-goals.json](./102144-life-goals.json) |
