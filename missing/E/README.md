@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elmo's Deep Sea Adventure | 71511 | [71511-elmos-deep-sea-adventure.json](./71511-elmos-deep-sea-adventure.json) |
 | Elmo's Deep Sea Adventure | 71513 | [71513-elmos-deep-sea-adventure.json](./71513-elmos-deep-sea-adventure.json) |
 | Elmo's Monster Maker HD | 89732 | [89732-elmos-monster-maker-hd.json](./89732-elmos-monster-maker-hd.json) |
+| Elon and the Divine Proof | 326066 | [326066-elon-and-the-divine-proof.json](./326066-elon-and-the-divine-proof.json) |
 | Elon on Mars | 120997 | [120997-elon-on-mars.json](./120997-elon-on-mars.json) |
 | Elon vs AI | 258709 | [258709-elon-vs-ai.json](./258709-elon-vs-ai.json) |
 | Elona Mobile | 194018 | [194018-elona-mobile.json](./194018-elona-mobile.json) |
