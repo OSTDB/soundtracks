@@ -734,9 +734,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwhelm | 103324 | [103324-overwhelm.json](./103324-overwhelm.json) |
 | Ovum City | 221428 | [221428-ovum-city.json](./221428-ovum-city.json) |
 | Owarinaki Natsu, Towa Naru Shirabe | 202383 | [202383-owarinaki-natsu-towa-naru-shirabe.json](./202383-owarinaki-natsu-towa-naru-shirabe.json) |
+| Owl Glider Adventure | 359432 | [359432-owl-glider-adventure.json](./359432-owl-glider-adventure.json) |
 | Owl Observatory | 278717 | [278717-owl-observatory.json](./278717-owl-observatory.json) |
 | Owlboy: Limited Edition | 68672 | [68672-owlboy-limited-edition.json](./68672-owlboy-limited-edition.json) |
 | Owlen and the Spirits of the Past | 385084 | [385084-owlen-and-the-spirits-of-the-past.json](./385084-owlen-and-the-spirits-of-the-past.json) |
+| Owlette in the Sky | 359434 | [359434-owlette-in-the-sky.json](./359434-owlette-in-the-sky.json) |
+| Owlette's Playground Cleanup | 359435 | [359435-owlettes-playground-cleanup.json](./359435-owlettes-playground-cleanup.json) |
 | Owner | 295528 | [295528-owner.json](./295528-owner.json) |
 | OwnRulesRPG | 259845 | [259845-ownrulesrpg.json](./259845-ownrulesrpg.json) |
 | Owyn's Adventure | 116482 | [116482-owyns-adventure.json](./116482-owyns-adventure.json) |
