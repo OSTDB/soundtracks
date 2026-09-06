@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xander the Monster Morpher: Universe Breaker | 120983 | [120983-xander-the-monster-morpher-universe-breaker.json](./120983-xander-the-monster-morpher-universe-breaker.json) |
 | Xango Tango | 205820 | [205820-xango-tango.json](./205820-xango-tango.json) |
 | XBlaze Lost: Memories | 11637 | [11637-xblaze-lost-memories.json](./11637-xblaze-lost-memories.json) |
+| Xbox Party Mansion | 339813 | [339813-xbox-party-mansion.json](./339813-xbox-party-mansion.json) |
 | XCOM 2: Shen's Last Gift | 19859 | [19859-xcom-2-shens-last-gift.json](./19859-xcom-2-shens-last-gift.json) |
 | Xd Clicker | 364511 | [364511-xd-clicker.json](./364511-xd-clicker.json) |
 | xDasher | 132261 | [132261-xdasher.json](./132261-xdasher.json) |
