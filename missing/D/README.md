@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densha de D: Rising Stage | 55924 | [55924-densha-de-d-rising-stage.json](./55924-densha-de-d-rising-stage.json) |
 | Densha de GO! | 146907 | [146907-densha-de-go.json](./146907-densha-de-go.json) |
 | Densha de GO! 64 | 3469 | [3469-densha-de-go-64.json](./3469-densha-de-go-64.json) |
+| Denshi Life 2 | 331876 | [331876-denshi-life-2.json](./331876-denshi-life-2.json) |
 | Dental Madness: Cavity Mania | 166758 | [166758-dental-madness-cavity-mania.json](./166758-dental-madness-cavity-mania.json) |
 | Dental Strike | 290699 | [290699-dental-strike.json](./290699-dental-strike.json) |
 | Dentist Hour: Escape Room | 357797 | [357797-dentist-hour-escape-room.json](./357797-dentist-hour-escape-room.json) |
