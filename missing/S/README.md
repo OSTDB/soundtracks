@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satan's Dungeon | 329593 | [329593-satans-dungeon.json](./329593-satans-dungeon.json) |
 | Satan's Pepper | 274183 | [274183-satans-pepper.json](./274183-satans-pepper.json) |
 | Satan's Zombies | 233230 | [233230-satans-zombies.json](./233230-satans-zombies.json) |
+| Satanic | 320733 | [320733-satanic.json](./320733-satanic.json) |
 | Satanislas | 250027 | [250027-satanislas.json](./250027-satanislas.json) |
 | SatelliTV | 386678 | [386678-satellitv.json](./386678-satellitv.json) |
 | Satisdom | 337095 | [337095-satisdom.json](./337095-satisdom.json) |
@@ -312,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturn | 313467 | [313467-saturn.json](./313467-saturn.json) |
 | Saturnalia | 131564 | [131564-saturnalia.json](./131564-saturnalia.json) |
 | Sauk Mind | 326600 | [326600-sauk-mind.json](./326600-sauk-mind.json) |
+| Sausage Cat | 320774 | [320774-sausage-cat.json](./320774-sausage-cat.json) |
 | Sausage Legend: Arena | 303800 | [303800-sausage-legend-arena.json](./303800-sausage-legend-arena.json) |
 | Savage Bliss | 23919 | [23919-savage-bliss.json](./23919-savage-bliss.json) |
 | Savage Lands | 17548 | [17548-savage-lands.json](./17548-savage-lands.json) |
@@ -1057,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shifted Heart | 235987 | [235987-shifted-heart.json](./235987-shifted-heart.json) |
 | Shiftlings | 9215 | [9215-shiftlings.json](./9215-shiftlings.json) |
 | Shigatsu Boujitsu, Hana Kudaru Yoru | 398357 | [398357-shigatsu-boujitsu-hana-kudaru-yoru.json](./398357-shigatsu-boujitsu-hana-kudaru-yoru.json) |
+| Shiina Taki's Decameron | 320725 | [320725-shiina-takis-decameron.json](./320725-shiina-takis-decameron.json) |
 | Shijie Xiuxian | 295003 | [295003-shijie-xiuxian.json](./295003-shijie-xiuxian.json) |
 | Shiki-Tei | 93616 | [93616-shiki-tei.json](./93616-shiki-tei.json) |
 | Shimajiro no Eigo Activity Ehon: ABC Park de Asobou! | 327617 | [327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json](./327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json) |
@@ -1182,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Is Done | 260388 | [260388-shop-is-done.json](./260388-shop-is-done.json) |
 | Shop Mistress NTR | 379891 | [379891-shop-mistress-ntr.json](./379891-shop-mistress-ntr.json) |
 | Shop of Forgotten Memories | 298883 | [298883-shop-of-forgotten-memories.json](./298883-shop-of-forgotten-memories.json) |
+| Shop Simulator: Supermarket | 320721 | [320721-shop-simulator-supermarket.json](./320721-shop-simulator-supermarket.json) |
 | Shop Town Dooter | 310182 | [310182-shop-town-dooter.json](./310182-shop-town-dooter.json) |
 | Shop-Like: The Rogue-Like Item Shop Experience | 250649 | [250649-shop-like-the-rogue-like-item-shop-experience.json](./250649-shop-like-the-rogue-like-item-shop-experience.json) |
 | Shopkins: Cutie Cars | 109007 | [109007-shopkins-cutie-cars.json](./109007-shopkins-cutie-cars.json) |
@@ -3026,6 +3030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Renegades | 94816 | [94816-star-renegades.json](./94816-star-renegades.json) |
 | Star Renegades: Total Lunarcy | 166215 | [166215-star-renegades-total-lunarcy.json](./166215-star-renegades-total-lunarcy.json) |
 | Star Revenge 1: Star Takeover | 132841 | [132841-star-revenge-1-star-takeover.json](./132841-star-revenge-1-star-takeover.json) |
+| Star Ronin | 320744 | [320744-star-ronin.json](./320744-star-ronin.json) |
 | Star Ruler 2 | 19170 | [19170-star-ruler-2.json](./19170-star-ruler-2.json) |
 | Star Saga: Two - The Clathran Menace | 57662 | [57662-star-saga-two-the-clathran-menace.json](./57662-star-saga-two-the-clathran-menace.json) |
 | Star Scandal | 298894 | [298894-star-scandal.json](./298894-star-scandal.json) |
@@ -3422,6 +3427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Straif | 360577 | [360577-straif.json](./360577-straif.json) |
 | Straimium Immortaly | 31627 | [31627-straimium-immortaly.json](./31627-straimium-immortaly.json) |
 | Strainge | 151703 | [151703-strainge.json](./151703-strainge.json) |
+| Strand | 320715 | [320715-strand.json](./320715-strand.json) |
 | Stranded Near Nowhere | 102804 | [102804-stranded-near-nowhere.json](./102804-stranded-near-nowhere.json) |
 | Stranded Survivors | 381620 | [381620-stranded-survivors.json](./381620-stranded-survivors.json) |
 | Stranded With You | 389969 | [389969-stranded-with-you.json](./389969-stranded-with-you.json) |
@@ -4319,6 +4325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Bar Express | 54416 | [54416-sushi-bar-express.json](./54416-sushi-bar-express.json) |
 | Sushi Battle Rambunctiously | 267685 | [267685-sushi-battle-rambunctiously.json](./267685-sushi-battle-rambunctiously.json) |
 | Sushi Cat | 87214 | [87214-sushi-cat.json](./87214-sushi-cat.json) |
+| Sushi Catapult | 320746 | [320746-sushi-catapult.json](./320746-sushi-catapult.json) |
 | SushiCup Legend | 342618 | [342618-sushicup-legend.json](./342618-sushicup-legend.json) |
 | SushiParty2 | 124238 | [124238-sushiparty2.json](./124238-sushiparty2.json) |
 | Suspense: Madman's Dreams | 329393 | [329393-suspense-madmans-dreams.json](./329393-suspense-madmans-dreams.json) |
