@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamefest Puzzle Classic | 209592 | [209592-gamefest-puzzle-classic.json](./209592-gamefest-puzzle-classic.json) |
 | GameGuru | 59978 | [59978-gameguru.json](./59978-gameguru.json) |
 | Gamehunt | 119768 | [119768-gamehunt.json](./119768-gamehunt.json) |
+| GameOn! | 348239 | [348239-gameon.json](./348239-gameon.json) |
 | Gamer Girls: Futanari | 210858 | [210858-gamer-girls-futanari.json](./210858-gamer-girls-futanari.json) |
 | Gamer Quest | 319951 | [319951-gamer-quest.json](./319951-gamer-quest.json) |
 | Gamers Choice | 86083 | [86083-gamers-choice.json](./86083-gamers-choice.json) |
@@ -611,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal 94 | 78065 | [78065-goal-94.json](./78065-goal-94.json) |
 | Goal and Crossbones | 178649 | [178649-goal-and-crossbones.json](./178649-goal-and-crossbones.json) |
 | Goal Poacher VR: Football Header Simulator | 326415 | [326415-goal-poacher-vr-football-header-simulator.json](./326415-goal-poacher-vr-football-header-simulator.json) |
+| Goal! | 348225 | [348225-goal.json](./348225-goal.json) |
 | GoalkeepVr | 29946 | [29946-goalkeepvr.json](./29946-goalkeepvr.json) |
 | Goat of Duty | 118115 | [118115-goat-of-duty.json](./118115-goat-of-duty.json) |
 | Goat Runner | 84873 | [84873-goat-runner.json](./84873-goat-runner.json) |
@@ -1195,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Factory Simulator | 326421 | [326421-gun-factory-simulator.json](./326421-gun-factory-simulator.json) |
 | Gun Frontier | 39681 | [39681-gun-frontier.json](./39681-gun-frontier.json) |
 | Gun Godz | 31439 | [31439-gun-godz.json](./31439-gun-godz.json) |
+| Gun Paradise | 348260 | [348260-gun-paradise.json](./348260-gun-paradise.json) |
 | Gun Party | 158227 | [158227-gun-party.json](./158227-gun-party.json) |
 | Gun Predict | 399015 | [399015-gun-predict.json](./399015-gun-predict.json) |
 | Gun Priest | 116354 | [116354-gun-priest.json](./116354-gun-priest.json) |
