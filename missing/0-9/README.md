@@ -35,6 +35,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | > Terminal | 383380 | [383380-terminal.json](./383380-terminal.json) |
 | >Connect | 124224 | [124224-connect.json](./124224-connect.json) |
 | 001 Earth | 191250 | [191250-001-earth.json](./191250-001-earth.json) |
+| 0101: Classic Bonus Levels 3 | 325453 | [325453-0101-classic-bonus-levels-3.json](./325453-0101-classic-bonus-levels-3.json) |
+| 0101: Counter Bonus Levels 3 | 325454 | [325454-0101-counter-bonus-levels-3.json](./325454-0101-counter-bonus-levels-3.json) |
+| 0101: Pusher Bonus Levels 3 | 325455 | [325455-0101-pusher-bonus-levels-3.json](./325455-0101-pusher-bonus-levels-3.json) |
 | 0927 | 316429 | [316429-0927.json](./316429-0927.json) |
 | 1 Ball 1 Cup | 59435 | [59435-1-ball-1-cup.json](./59435-1-ball-1-cup.json) |
 | 1 Hop | 171045 | [171045-1-hop.json](./171045-1-hop.json) |
