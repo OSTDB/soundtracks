@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homura | 43330 | [43330-homura.json](./43330-homura.json) |
 | Homura: The Crimson Warriors - Deluxe Edition | 390530 | [390530-homura-the-crimson-warriors-deluxe-edition.json](./390530-homura-the-crimson-warriors-deluxe-edition.json) |
 | Honekawa Marionette | 333370 | [333370-honekawa-marionette.json](./333370-honekawa-marionette.json) |
+| Honest Helper | 349324 | [349324-honest-helper.json](./349324-honest-helper.json) |
 | Honey Kingdom | 328248 | [328248-honey-kingdom.json](./328248-honey-kingdom.json) |
 | Honey Toast | 207508 | [207508-honey-toast.json](./207508-honey-toast.json) |
 | Honey Trap Amnesia | 371915 | [371915-honey-trap-amnesia.json](./371915-honey-trap-amnesia.json) |
