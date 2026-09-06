@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear for Sale: Endless Voyage HD | 102204 | [102204-fear-for-sale-endless-voyage-hd.json](./102204-fear-for-sale-endless-voyage-hd.json) |
 | Fear Is in the Mind | 179168 | [179168-fear-is-in-the-mind.json](./179168-fear-is-in-the-mind.json) |
 | Fear Less! | 60552 | [60552-fear-less.json](./60552-fear-less.json) |
+| Fear Me: The Silent | 331355 | [331355-fear-me-the-silent.json](./331355-fear-me-the-silent.json) |
 | Fear of Hot Water Ghost | 335685 | [335685-fear-of-hot-water-ghost.json](./335685-fear-of-hot-water-ghost.json) |
 | Fear the Dark Unknown: Chloe | 132250 | [132250-fear-the-dark-unknown-chloe.json](./132250-fear-the-dark-unknown-chloe.json) |
 | Fear the Flossom | 138814 | [138814-fear-the-flossom.json](./138814-fear-the-flossom.json) |
