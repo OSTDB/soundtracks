@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken Tag Tournament 2: Prologue | 143749 | [143749-tekken-tag-tournament-2-prologue.json](./143749-tekken-tag-tournament-2-prologue.json) |
 | Tekken Tag Tournament HD | 143748 | [143748-tekken-tag-tournament-hd.json](./143748-tekken-tag-tournament-hd.json) |
 | Tekken: Dark Resurrection | 389439 | [389439-tekken-dark-resurrection.json](./389439-tekken-dark-resurrection.json) |
+| TeknoKinetica | 316625 | [316625-teknokinetica.json](./316625-teknokinetica.json) |
 | Tele-Shibai Wii | 64427 | [64427-tele-shibai-wii.json](./64427-tele-shibai-wii.json) |
 | Teleforum | 226605 | [226605-teleforum.json](./226605-teleforum.json) |
 | Telepath RPG: Servants of God | 65532 | [65532-telepath-rpg-servants-of-god.json](./65532-telepath-rpg-servants-of-god.json) |
@@ -2905,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Loader: First Memories | 166211 | [166211-time-loader-first-memories.json](./166211-time-loader-first-memories.json) |
 | Time Machine VR | 19048 | [19048-time-machine-vr.json](./19048-time-machine-vr.json) |
 | Time Ocean | 244467 | [244467-time-ocean.json](./244467-time-ocean.json) |
+| Time of Sorrow | 316606 | [316606-time-of-sorrow.json](./316606-time-of-sorrow.json) |
 | Time on Frog Island: Prologue | 209641 | [209641-time-on-frog-island-prologue.json](./209641-time-on-frog-island-prologue.json) |
 | Time Pilot Demake | 303780 | [303780-time-pilot-demake.json](./303780-time-pilot-demake.json) |
 | Time Secret | 91457 | [91457-time-secret.json](./91457-time-secret.json) |
@@ -3635,6 +3637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transit | 365113 | [365113-transit.json](./365113-transit.json) |
 | TransMemory | 318802 | [318802-transmemory.json](./318802-transmemory.json) |
 | Transparent Black: Wish | 337100 | [337100-transparent-black-wish.json](./337100-transparent-black-wish.json) |
+| Transparent Her and Real Me | 316638 | [316638-transparent-her-and-real-me.json](./316638-transparent-her-and-real-me.json) |
 | Transport Fever 2 | 117820 | [117820-transport-fever-2.json](./117820-transport-fever-2.json) |
 | Transport Giant: Down Under | 9445 | [9445-transport-giant-down-under.json](./9445-transport-giant-down-under.json) |
 | Transport Giant: Gold Edition 2012 | 53856 | [53856-transport-giant-gold-edition-2012.json](./53856-transport-giant-gold-edition-2012.json) |
@@ -3786,6 +3789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrickShot VR | 133457 | [133457-trickshot-vr.json](./133457-trickshot-vr.json) |
 | Trickster Trove | 314642 | [314642-trickster-trove.json](./314642-trickster-trove.json) |
 | Trickster VR: Horde Attack! | 119759 | [119759-trickster-vr-horde-attack.json](./119759-trickster-vr-horde-attack.json) |
+| Tricky and the Dream Caster | 316626 | [316626-tricky-and-the-dream-caster.json](./316626-tricky-and-the-dream-caster.json) |
 | Tricky Doors | 203573 | [203573-tricky-doors.json](./203573-tricky-doors.json) |
 | Tricky Machines | 157160 | [157160-tricky-machines.json](./157160-tricky-machines.json) |
 | Tricky Monkey Zoo | 396228 | [396228-tricky-monkey-zoo.json](./396228-tricky-monkey-zoo.json) |
@@ -3798,6 +3802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger Witch | 119365 | [119365-trigger-witch.json](./119365-trigger-witch.json) |
 | TriggerHeart Exelica Enhanced | 326579 | [326579-triggerheart-exelica-enhanced.json](./326579-triggerheart-exelica-enhanced.json) |
 | Trigonal | 188097 | [188097-trigonal.json](./188097-trigonal.json) |
+| Triku | 316628 | [316628-triku.json](./316628-triku.json) |
 | Trilogic | 91978 | [91978-trilogic.json](./91978-trilogic.json) |
 | Trilogy of the Moon | 339795 | [339795-trilogy-of-the-moon.json](./339795-trilogy-of-the-moon.json) |
 | Trimorta | 184086 | [184086-trimorta.json](./184086-trimorta.json) |
