@@ -424,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Bros. | 257638 | [257638-mario-bros.json](./257638-mario-bros.json) |
 | Mario Bros.-e | 170013 | [170013-mario-bros-e.json](./170013-mario-bros-e.json) |
 | Mario Drinks A Glass of Milk | 250051 | [250051-mario-drinks-a-glass-of-milk.json](./250051-mario-drinks-a-glass-of-milk.json) |
+| Mario for the Masses | 330716 | [330716-mario-for-the-masses.json](./330716-mario-for-the-masses.json) |
 | Mario Forever Galaxy | 139452 | [139452-mario-forever-galaxy.json](./139452-mario-forever-galaxy.json) |
 | Mario Golf: Super Rush | 143609 | [143609-mario-golf-super-rush.json](./143609-mario-golf-super-rush.json) |
 | Mario Golf: World Tour - Flower Pack | 309117 | [309117-mario-golf-world-tour-flower-pack.json](./309117-mario-golf-world-tour-flower-pack.json) |
@@ -1528,6 +1529,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimum Nanonic | 70401 | [70401-minimum-nanonic.json](./70401-minimum-nanonic.json) |
 | Mining Merchant | 364518 | [364518-mining-merchant.json](./364518-mining-merchant.json) |
 | Mining Wizards | 379861 | [379861-mining-wizards.json](./379861-mining-wizards.json) |
+| Minion Masters: Best Plan No Plan! | 330727 | [330727-minion-masters-best-plan-no-plan.json](./330727-minion-masters-best-plan-no-plan.json) |
+| Minion Masters: Charging Into Darkness | 330730 | [330730-minion-masters-charging-into-darkness.json](./330730-minion-masters-charging-into-darkness.json) |
+| Minion Masters: Crystal Conquest | 330738 | [330738-minion-masters-crystal-conquest.json](./330738-minion-masters-crystal-conquest.json) |
+| Minion Masters: Furry Fury | 330732 | [330732-minion-masters-furry-fury.json](./330732-minion-masters-furry-fury.json) |
+| Minion Masters: Kaboom Kingdom | 330726 | [330726-minion-masters-kaboom-kingdom.json](./330726-minion-masters-kaboom-kingdom.json) |
+| Minion Masters: Might of the Slither Lords | 330739 | [330739-minion-masters-might-of-the-slither-lords.json](./330739-minion-masters-might-of-the-slither-lords.json) |
+| Minion Masters: Mordar’s Malediction | 330723 | [330723-minion-masters-mordar-s-malediction.json](./330723-minion-masters-mordar-s-malediction.json) |
+| Minion Masters: Outlandish Operations | 330735 | [330735-minion-masters-outlandish-operations.json](./330735-minion-masters-outlandish-operations.json) |
+| Minion Masters: Uprising | 330737 | [330737-minion-masters-uprising.json](./330737-minion-masters-uprising.json) |
+| Minion Masters: Vanguard | 330733 | [330733-minion-masters-vanguard.json](./330733-minion-masters-vanguard.json) |
+| Minion Masters: Voidborne Onslaught | 330736 | [330736-minion-masters-voidborne-onslaught.json](./330736-minion-masters-voidborne-onslaught.json) |
+| Minion Masters: Zealous Inferno | 330729 | [330729-minion-masters-zealous-inferno.json](./330729-minion-masters-zealous-inferno.json) |
 | MinMe | 241050 | [241050-minme.json](./241050-minme.json) |
 | Minna de Nanpure | 55939 | [55939-minna-de-nanpure.json](./55939-minna-de-nanpure.json) |
 | Minna no Doubutsuen | 69270 | [69270-minna-no-doubutsuen.json](./69270-minna-no-doubutsuen.json) |
@@ -1600,6 +1613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Ring Possible | 141901 | [141901-mission-ring-possible.json](./141901-mission-ring-possible.json) |
 | Mission Supernova | 93040 | [93040-mission-supernova.json](./93040-mission-supernova.json) |
 | Mission to Neptune | 383370 | [383370-mission-to-neptune.json](./383370-mission-to-neptune.json) |
+| Mission: Chao | 330713 | [330713-mission-chao.json](./330713-mission-chao.json) |
 | Mission: Driver | 210855 | [210855-mission-driver.json](./210855-mission-driver.json) |
 | Mission: Humanity | 73325 | [73325-mission-humanity.json](./73325-mission-humanity.json) |
 | Mission: Invasion Force | 70403 | [70403-mission-invasion-force.json](./70403-mission-invasion-force.json) |
