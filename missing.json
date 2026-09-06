@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T23:48:25.465Z",
-  "total_missing": 34629,
+  "generated_at": "2026-09-06T00:03:17.376Z",
+  "total_missing": 34679,
   "games": [
     {
       "igdb_id": 306086,
@@ -1376,6 +1376,11 @@
       "igdb_id": 32125,
       "game_name": "39 Days to Mars",
       "file": "missing/0-9/32125-39-days-to-mars.json"
+    },
+    {
+      "igdb_id": 367447,
+      "game_name": "3AM on Fish Island",
+      "file": "missing/0-9/367447-3am-on-fish-island.json"
     },
     {
       "igdb_id": 110352,
@@ -6023,6 +6028,56 @@
       "file": "missing/A/14857-alias-carnival-sacrament.json"
     },
     {
+      "igdb_id": 367409,
+      "game_name": "Alias Underground Episode 1: SD-6 Agent Training",
+      "file": "missing/A/367409-alias-underground-episode-1-sd-6-agent-training.json"
+    },
+    {
+      "igdb_id": 367419,
+      "game_name": "Alias Underground Episode 10: Endgame",
+      "file": "missing/A/367419-alias-underground-episode-10-endgame.json"
+    },
+    {
+      "igdb_id": 367410,
+      "game_name": "Alias Underground Episode 2: Mission - Turkish Embassy",
+      "file": "missing/A/367410-alias-underground-episode-2-mission-turkish-embassy.json"
+    },
+    {
+      "igdb_id": 367411,
+      "game_name": "Alias Underground Episode 3: Mission - Raid On SD-6",
+      "file": "missing/A/367411-alias-underground-episode-3-mission-raid-on-sd-6.json"
+    },
+    {
+      "igdb_id": 367412,
+      "game_name": "Alias Underground Episode 4: The Circumference",
+      "file": "missing/A/367412-alias-underground-episode-4-the-circumference.json"
+    },
+    {
+      "igdb_id": 367413,
+      "game_name": "Alias Underground Episode 5: Turkish Embassy — CIA Countermission",
+      "file": "missing/A/367413-alias-underground-episode-5-turkish-embassy-cia-countermission.json"
+    },
+    {
+      "igdb_id": 367414,
+      "game_name": "Alias Underground Episode 6: CIA Mission – Return To SD-6",
+      "file": "missing/A/367414-alias-underground-episode-6-cia-mission-return-to-sd-6.json"
+    },
+    {
+      "igdb_id": 367415,
+      "game_name": "Alias Underground Episode 7: Phase One",
+      "file": "missing/A/367415-alias-underground-episode-7-phase-one.json"
+    },
+    {
+      "igdb_id": 367416,
+      "game_name": "Alias Underground Episode 8: Breakout",
+      "file": "missing/A/367416-alias-underground-episode-8-breakout.json"
+    },
+    {
+      "igdb_id": 367418,
+      "game_name": "Alias Underground Episode 9: Countdown",
+      "file": "missing/A/367418-alias-underground-episode-9-countdown.json"
+    },
+    {
       "igdb_id": 270382,
       "game_name": "Alice & Marisa",
       "file": "missing/A/270382-alice-and-marisa.json"
@@ -9946,6 +10001,11 @@
       "igdb_id": 373550,
       "game_name": "Ark of Isolation",
       "file": "missing/A/373550-ark-of-isolation.json"
+    },
+    {
+      "igdb_id": 367393,
+      "game_name": "Ark Re:Code",
+      "file": "missing/A/367393-ark-re-code.json"
     },
     {
       "igdb_id": 103515,
@@ -32538,6 +32598,11 @@
       "file": "missing/C/332272-cruzcredo-become-a-legend.json"
     },
     {
+      "igdb_id": 367403,
+      "game_name": "Cry of Monster",
+      "file": "missing/C/367403-cry-of-monster.json"
+    },
+    {
       "igdb_id": 297815,
       "game_name": "Cryohazard",
       "file": "missing/C/297815-cryohazard.json"
@@ -37258,6 +37323,11 @@
       "file": "missing/D/39634-demons-world.json"
     },
     {
+      "igdb_id": 367391,
+      "game_name": "Demonborg Mining Co",
+      "file": "missing/D/367391-demonborg-mining-co.json"
+    },
+    {
       "igdb_id": 172150,
       "game_name": "DemonCrawl: Arena Plus",
       "file": "missing/D/172150-demoncrawl-arena-plus.json"
@@ -41503,9 +41573,49 @@
       "file": "missing/D/200747-dragon-and-knights.json"
     },
     {
+      "igdb_id": 367423,
+      "game_name": "Dragon Age II: All-Class Item Pack",
+      "file": "missing/D/367423-dragon-age-ii-all-class-item-pack.json"
+    },
+    {
+      "igdb_id": 367424,
+      "game_name": "Dragon Age II: All-Class Item Pack II",
+      "file": "missing/D/367424-dragon-age-ii-all-class-item-pack-ii.json"
+    },
+    {
+      "igdb_id": 367421,
+      "game_name": "Dragon Age II: The Black Emporium",
+      "file": "missing/D/367421-dragon-age-ii-the-black-emporium.json"
+    },
+    {
       "igdb_id": 306726,
       "game_name": "Dragon Age II: Ultimate Edition",
       "file": "missing/D/306726-dragon-age-ii-ultimate-edition.json"
+    },
+    {
+      "igdb_id": 367437,
+      "game_name": "Dragon Age: Inquisition - Spoils of the Avvar",
+      "file": "missing/D/367437-dragon-age-inquisition-spoils-of-the-avvar.json"
+    },
+    {
+      "igdb_id": 367438,
+      "game_name": "Dragon Age: Inquisition - Spoils of the Qunari",
+      "file": "missing/D/367438-dragon-age-inquisition-spoils-of-the-qunari.json"
+    },
+    {
+      "igdb_id": 367431,
+      "game_name": "Dragon Age: Inquisition - The Black Emporium",
+      "file": "missing/D/367431-dragon-age-inquisition-the-black-emporium.json"
+    },
+    {
+      "igdb_id": 367441,
+      "game_name": "Dragon Age: Origins - Feastday Gifts",
+      "file": "missing/D/367441-dragon-age-origins-feastday-gifts.json"
+    },
+    {
+      "igdb_id": 367442,
+      "game_name": "Dragon Age: Origins - Feastday Pranks",
+      "file": "missing/D/367442-dragon-age-origins-feastday-pranks.json"
     },
     {
       "igdb_id": 17465,
@@ -43291,6 +43401,11 @@
       "igdb_id": 415120,
       "game_name": "Dumpster Gang",
       "file": "missing/D/415120-dumpster-gang.json"
+    },
+    {
+      "igdb_id": 367443,
+      "game_name": "Dùn",
+      "file": "missing/D/367443-dun.json"
     },
     {
       "igdb_id": 69298,
@@ -62868,6 +62983,11 @@
       "file": "missing/H/77343-halo-4-king-of-the-hill-fueled-by-mountain-dew.json"
     },
     {
+      "igdb_id": 367399,
+      "game_name": "Halo Infinite: Operation - Warpath",
+      "file": "missing/H/367399-halo-infinite-operation-warpath.json"
+    },
+    {
       "igdb_id": 108485,
       "game_name": "Halo Roll",
       "file": "missing/H/108485-halo-roll.json"
@@ -64916,6 +65036,11 @@
       "igdb_id": 335658,
       "game_name": "Hello Sunshine",
       "file": "missing/H/335658-hello-sunshine.json"
+    },
+    {
+      "igdb_id": 367420,
+      "game_name": "Hello World",
+      "file": "missing/H/367420-hello-world.json"
     },
     {
       "igdb_id": 392767,
@@ -68273,6 +68398,11 @@
       "file": "missing/H/268728-how-to-disappear-completely.json"
     },
     {
+      "igdb_id": 367450,
+      "game_name": "How to Escape a Kidnapper",
+      "file": "missing/H/367450-how-to-escape-a-kidnapper.json"
+    },
+    {
       "igdb_id": 405537,
       "game_name": "How to Fly a Cannon",
       "file": "missing/H/405537-how-to-fly-a-cannon.json"
@@ -68546,6 +68676,11 @@
       "igdb_id": 208036,
       "game_name": "Hundredth",
       "file": "missing/H/208036-hundredth.json"
+    },
+    {
+      "igdb_id": 367428,
+      "game_name": "Hùndùn Zhàn Yù",
+      "file": "missing/H/367428-hundun-zhan-yu.json"
     },
     {
       "igdb_id": 233210,
@@ -72543,6 +72678,11 @@
       "file": "missing/I/402894-isekai-slowlife.json"
     },
     {
+      "igdb_id": 367445,
+      "game_name": "Isekai x Isekai: Tsugi ha Dono Sakuhin wo",
+      "file": "missing/I/367445-isekai-x-isekai-tsugi-ha-dono-sakuhin-wo.json"
+    },
+    {
       "igdb_id": 323548,
       "game_name": "Isekaing: From Zero to Zero",
       "file": "missing/I/323548-isekaing-from-zero-to-zero.json"
@@ -74126,6 +74266,11 @@
       "igdb_id": 374628,
       "game_name": "Jiǔměizǐ zhī Sǐ: Zhāohé Shàonǚ Xuèsè Gàobái",
       "file": "missing/J/374628-jiumeizi-zhi-si-zhaohe-shaonu-xuese-gaobai.json"
+    },
+    {
+      "igdb_id": 367405,
+      "game_name": "Jiǔzhōu Jiàn Gē",
+      "file": "missing/J/367405-jiuzhou-jian-ge.json"
     },
     {
       "igdb_id": 178648,
@@ -81118,9 +81263,19 @@
       "file": "missing/L/236545-lhama-clicker.json"
     },
     {
+      "igdb_id": 367402,
+      "game_name": "Lǐ Shì Qírén Yì Wén Lù",
+      "file": "missing/L/367402-li-shi-qiren-yi-wen-lu.json"
+    },
+    {
       "igdb_id": 278746,
       "game_name": "Liam FitzRoy Kills Everyone: The Game Part Zero",
       "file": "missing/L/278746-liam-fitzroy-kills-everyone-the-game-part-zero.json"
+    },
+    {
+      "igdb_id": 367448,
+      "game_name": "Liàn yǔ wèi xiē zhī yǔ",
+      "file": "missing/L/367448-lian-yu-wei-xie-zhi-yu.json"
     },
     {
       "igdb_id": 303246,
@@ -86633,6 +86788,11 @@
       "file": "missing/M/20821-marvel-pinball-avengers-chronicles.json"
     },
     {
+      "igdb_id": 367417,
+      "game_name": "Marvel Rivals: Season 4 - Heart of the Dragon",
+      "file": "missing/M/367417-marvel-rivals-season-4-heart-of-the-dragon.json"
+    },
+    {
       "igdb_id": 19663,
       "game_name": "Marvel Super Hero Squad Online",
       "file": "missing/M/19663-marvel-super-hero-squad-online.json"
@@ -88373,6 +88533,11 @@
       "file": "missing/M/414285-melody.json"
     },
     {
+      "igdb_id": 367404,
+      "game_name": "Melody before the Dawn",
+      "file": "missing/M/367404-melody-before-the-dawn.json"
+    },
+    {
       "igdb_id": 389980,
       "game_name": "Melody Friends",
       "file": "missing/M/389980-melody-friends.json"
@@ -88711,6 +88876,11 @@
       "igdb_id": 48052,
       "game_name": "Mendel Palace",
       "file": "missing/M/48052-mendel-palace.json"
+    },
+    {
+      "igdb_id": 367432,
+      "game_name": "Méng Chǒng Xīyóu",
+      "file": "missing/M/367432-meng-chong-xiyou.json"
     },
     {
       "igdb_id": 131584,
@@ -92193,6 +92363,11 @@
       "file": "missing/M/156160-monkey-king-vs-transformers.json"
     },
     {
+      "igdb_id": 367452,
+      "game_name": "Monkey Lost",
+      "file": "missing/M/367452-monkey-lost.json"
+    },
+    {
       "igdb_id": 45220,
       "game_name": "Monkey Magic",
       "file": "missing/M/45220-monkey-magic.json"
@@ -93206,6 +93381,11 @@
       "igdb_id": 220844,
       "game_name": "Morrow",
       "file": "missing/M/220844-morrow.json"
+    },
+    {
+      "igdb_id": 367396,
+      "game_name": "Morse Shingou de Ai wo Tsutae yo.",
+      "file": "missing/M/367396-morse-shingou-de-ai-wo-tsutae-yo.json"
     },
     {
       "igdb_id": 98975,
@@ -106138,6 +106318,11 @@
       "file": "missing/P/37149-payday-2-ultimate-edition.json"
     },
     {
+      "igdb_id": 367398,
+      "game_name": "Payday 3: Jacket Character Pack",
+      "file": "missing/P/367398-payday-3-jacket-character-pack.json"
+    },
+    {
       "igdb_id": 98080,
       "game_name": "Payday: Crime War",
       "file": "missing/P/98080-payday-crime-war.json"
@@ -106326,6 +106511,11 @@
       "igdb_id": 241061,
       "game_name": "Penalty Shooters Footy",
       "file": "missing/P/241061-penalty-shooters-footy.json"
+    },
+    {
+      "igdb_id": 367401,
+      "game_name": "Penance",
+      "file": "missing/P/367401-penance.json"
     },
     {
       "igdb_id": 370685,
@@ -110883,6 +111073,11 @@
       "file": "missing/P/406709-portrait-painter.json"
     },
     {
+      "igdb_id": 367407,
+      "game_name": "Porzellanhaus",
+      "file": "missing/P/367407-porzellanhaus.json"
+    },
+    {
       "igdb_id": 294454,
       "game_name": "Posh Boutique 2",
       "file": "missing/P/294454-posh-boutique-2.json"
@@ -112371,6 +112566,11 @@
       "igdb_id": 165698,
       "game_name": "Project Martians",
       "file": "missing/P/165698-project-martians.json"
+    },
+    {
+      "igdb_id": 367390,
+      "game_name": "Project Mercenaria",
+      "file": "missing/P/367390-project-mercenaria.json"
     },
     {
       "igdb_id": 370706,
@@ -114373,6 +114573,11 @@
       "file": "missing/Q/133444-quest-adventure.json"
     },
     {
+      "igdb_id": 367446,
+      "game_name": "Quest for Cathay Kingdom Mah Jong",
+      "file": "missing/Q/367446-quest-for-cathay-kingdom-mah-jong.json"
+    },
+    {
       "igdb_id": 307898,
       "game_name": "Quest for Jesus",
       "file": "missing/Q/307898-quest-for-jesus.json"
@@ -114926,6 +115131,11 @@
       "igdb_id": 233229,
       "game_name": "Racers Islands",
       "file": "missing/R/233229-racers-islands.json"
+    },
+    {
+      "igdb_id": 367394,
+      "game_name": "RaceXXL Space",
+      "file": "missing/R/367394-racexxl-space.json"
     },
     {
       "igdb_id": 129204,
@@ -119668,6 +119878,11 @@
       "file": "missing/R/275337-road-to-exotics.json"
     },
     {
+      "igdb_id": 367408,
+      "game_name": "Road to Fame",
+      "file": "missing/R/367408-road-to-fame.json"
+    },
+    {
       "igdb_id": 413009,
       "game_name": "Road to Mechalopolis",
       "file": "missing/R/413009-road-to-mechalopolis.json"
@@ -122588,6 +122803,11 @@
       "file": "missing/S/194655-sad-ghouls.json"
     },
     {
+      "igdb_id": 367389,
+      "game_name": "Sad Virus Foodland",
+      "file": "missing/S/367389-sad-virus-foodland.json"
+    },
+    {
       "igdb_id": 398324,
       "game_name": "Sad Virus Military",
       "file": "missing/S/398324-sad-virus-military.json"
@@ -123566,6 +123786,11 @@
       "igdb_id": 302682,
       "game_name": "Sanrio Timenet World",
       "file": "missing/S/302682-sanrio-timenet-world.json"
+    },
+    {
+      "igdb_id": 367395,
+      "game_name": "Sans & Papyrus: Salsa Lesson",
+      "file": "missing/S/367395-sans-and-papyrus-salsa-lesson.json"
     },
     {
       "igdb_id": 130959,
@@ -130166,6 +130391,11 @@
       "igdb_id": 39239,
       "game_name": "Smash Hit",
       "file": "missing/S/39239-smash-hit.json"
+    },
+    {
+      "igdb_id": 367455,
+      "game_name": "Smash N' Crash",
+      "file": "missing/S/367455-smash-n-crash.json"
     },
     {
       "igdb_id": 33154,
@@ -160998,6 +161228,11 @@
       "file": "missing/U/414299-ultimate-super-bean.json"
     },
     {
+      "igdb_id": 367400,
+      "game_name": "Ultimate Theater Simulator",
+      "file": "missing/U/367400-ultimate-theater-simulator.json"
+    },
+    {
       "igdb_id": 272570,
       "game_name": "Ultimate Tower Defense",
       "file": "missing/U/272570-ultimate-tower-defense.json"
@@ -161721,6 +161956,11 @@
       "igdb_id": 18306,
       "game_name": "Unfabulous",
       "file": "missing/U/18306-unfabulous.json"
+    },
+    {
+      "igdb_id": 367451,
+      "game_name": "Unfair Flips",
+      "file": "missing/U/367451-unfair-flips.json"
     },
     {
       "igdb_id": 267672,
@@ -170093,6 +170333,11 @@
       "file": "missing/W/93585-wulin-zhengba-zhi-yingxiong-tie.json"
     },
     {
+      "igdb_id": 367434,
+      "game_name": "Wǔlín Zhìzūn Zhuàn",
+      "file": "missing/W/367434-wulin-zhizun-zhuan.json"
+    },
+    {
       "igdb_id": 166763,
       "game_name": "Wunderhaven",
       "file": "missing/W/166763-wunderhaven.json"
@@ -171111,6 +171356,11 @@
       "igdb_id": 251851,
       "game_name": "Yggdrasill",
       "file": "missing/Y/251851-yggdrasill.json"
+    },
+    {
+      "igdb_id": 367429,
+      "game_name": "Yì Shìjiè Wúlítóu Shēnghuó 2",
+      "file": "missing/Y/367429-yi-shijie-wulitou-shenghuo-2.json"
     },
     {
       "igdb_id": 18170,
