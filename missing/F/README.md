@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Crab | 90231 | [90231-fight-crab.json](./90231-fight-crab.json) |
 | Fight for Life | 40800 | [40800-fight-for-life.json](./40800-fight-for-life.json) |
 | Fight For Love | 345523 | [345523-fight-for-love.json](./345523-fight-for-love.json) |
+| Fight Legends | 316068 | [316068-fight-legends.json](./316068-fight-legends.json) |
 | Fight Life: Vanguard | 318193 | [318193-fight-life-vanguard.json](./318193-fight-life-vanguard.json) |
 | Fight List - Categories Game | 87038 | [87038-fight-list-categories-game.json](./87038-fight-list-categories-game.json) |
 | Fight Night 2004 | 5835 | [5835-fight-night-2004.json](./5835-fight-night-2004.json) |
@@ -899,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Bird Ultra | 368522 | [368522-flappy-bird-ultra.json](./368522-flappy-bird-ultra.json) |
 | Flappy Cube | 179195 | [179195-flappy-cube.json](./179195-flappy-cube.json) |
 | Flappy Doge | 62183 | [62183-flappy-doge.json](./62183-flappy-doge.json) |
+| Flappy Dragon | 316049 | [316049-flappy-dragon.json](./316049-flappy-dragon.json) |
 | Flappy Dunk | 87053 | [87053-flappy-dunk.json](./87053-flappy-dunk.json) |
 | Flappy Golf 2 | 88291 | [88291-flappy-golf-2.json](./88291-flappy-golf-2.json) |
 | Flappy Navalny | 137665 | [137665-flappy-navalny.json](./137665-flappy-navalny.json) |
@@ -1439,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeJack | 51276 | [51276-freejack.json](./51276-freejack.json) |
 | Freelance Simulator: Game Developer Edition | 100874 | [100874-freelance-simulator-game-developer-edition.json](./100874-freelance-simulator-game-developer-edition.json) |
 | Freelancer Simulator 2 | 135308 | [135308-freelancer-simulator-2.json](./135308-freelancer-simulator-2.json) |
+| Freeland | 316098 | [316098-freeland.json](./316098-freeland.json) |
 | Freeman | 253604 | [253604-freeman.json](./253604-freeman.json) |
 | Freestyle Baseball 2 | 239890 | [239890-freestyle-baseball-2.json](./239890-freestyle-baseball-2.json) |
 | Freestyle Football R | 213008 | [213008-freestyle-football-r.json](./213008-freestyle-football-r.json) |
