@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Circus MD | 125458 | [125458-f1-circus-md.json](./125458-f1-circus-md.json) |
 | F1 Manager 2023 | 247383 | [247383-f1-manager-2023.json](./247383-f1-manager-2023.json) |
 | F1 Manager 2024: Abstract Livery Pack | 339292 | [339292-f1-manager-2024-abstract-livery-pack.json](./339292-f1-manager-2024-abstract-livery-pack.json) |
+| F1 Manager 2024: Deluxe Upgrade Pack | 328996 | [328996-f1-manager-2024-deluxe-upgrade-pack.json](./328996-f1-manager-2024-deluxe-upgrade-pack.json) |
 | F1 Manager 2024: Historical Livery Pack | 339293 | [339293-f1-manager-2024-historical-livery-pack.json](./339293-f1-manager-2024-historical-livery-pack.json) |
 | F1 Online: The Game | 92512 | [92512-f1-online-the-game.json](./92512-f1-online-the-game.json) |
 | F1 Pole Position 64 | 3494 | [3494-f1-pole-position-64.json](./3494-f1-pole-position-64.json) |
@@ -495,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fibble | 228714 | [228714-fibble.json](./228714-fibble.json) |
 | Fiddlebert's Folly | 313476 | [313476-fiddleberts-folly.json](./313476-fiddleberts-folly.json) |
 | Fidelity | 116549 | [116549-fidelity.json](./116549-fidelity.json) |
+| Fideos | 329024 | [329024-fideos.json](./329024-fideos.json) |
 | Fidget Spinner | 100888 | [100888-fidget-spinner.json](./100888-fidget-spinner.json) |
 | Fido | 315275 | [315275-fido.json](./315275-fido.json) |
 | Fido 2: Puppy Power | 315278 | [315278-fido-2-puppy-power.json](./315278-fido-2-puppy-power.json) |
@@ -829,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's 2 | 9195 | [9195-five-nights-at-freddys-2.json](./9195-five-nights-at-freddys-2.json) |
 | Five Nights at Freddy's 4: Halloween Edition | 226410 | [226410-five-nights-at-freddys-4-halloween-edition.json](./226410-five-nights-at-freddys-4-halloween-edition.json) |
 | Five Nights at Freddy's Soulless Look | 383375 | [383375-five-nights-at-freddys-soulless-look.json](./383375-five-nights-at-freddys-soulless-look.json) |
+| Five Nights at Freddy's: Backlogged | 329023 | [329023-five-nights-at-freddys-backlogged.json](./329023-five-nights-at-freddys-backlogged.json) |
 | Five Nights at Freddy's: Help Wanted 2 | 250627 | [250627-five-nights-at-freddys-help-wanted-2.json](./250627-five-nights-at-freddys-help-wanted-2.json) |
 | Five Nights at Freddy's: Help Wanted Plus | 261510 | [261510-five-nights-at-freddys-help-wanted-plus.json](./261510-five-nights-at-freddys-help-wanted-plus.json) |
 | Five Nights at Freddy's: Into the Pit | 283679 | [283679-five-nights-at-freddys-into-the-pit.json](./283679-five-nights-at-freddys-into-the-pit.json) |
@@ -863,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flain: Tao force & Cubes | 153433 | [153433-flain-tao-force-and-cubes.json](./153433-flain-tao-force-and-cubes.json) |
 | Flairtender | 29635 | [29635-flairtender.json](./29635-flairtender.json) |
 | Flame of Recca | 49412 | [49412-flame-of-recca.json](./49412-flame-of-recca.json) |
+| Flame of Valhalla | 329022 | [329022-flame-of-valhalla.json](./329022-flame-of-valhalla.json) |
 | Flan's BN | 346613 | [346613-flans-bn.json](./346613-flans-bn.json) |
 | Flan's Mod | 232680 | [232680-flans-mod.json](./232680-flans-mod.json) |
 | Flappy 2: The Resurrection of Blue Star | 62199 | [62199-flappy-2-the-resurrection-of-blue-star.json](./62199-flappy-2-the-resurrection-of-blue-star.json) |
