@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Rise 2: Lords of Chaos | 104107 | [104107-demons-rise-2-lords-of-chaos.json](./104107-demons-rise-2-lords-of-chaos.json) |
 | Demon's Tier+ | 134015 | [134015-demons-tier.json](./134015-demons-tier.json) |
 | Demon's World | 39634 | [39634-demons-world.json](./39634-demons-world.json) |
+| Demonborg Mining Co | 367391 | [367391-demonborg-mining-co.json](./367391-demonborg-mining-co.json) |
 | DemonCrawl: Arena Plus | 172150 | [172150-demoncrawl-arena-plus.json](./172150-demoncrawl-arena-plus.json) |
 | Demonic Crusade | 298896 | [298896-demonic-crusade.json](./298896-demonic-crusade.json) |
 | Demonic Labyrinth | 237074 | [237074-demonic-labyrinth.json](./237074-demonic-labyrinth.json) |
@@ -1516,7 +1517,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragluttony | 190230 | [190230-dragluttony.json](./190230-dragluttony.json) |
 | Dragon & Elfs | 227507 | [227507-dragon-and-elfs.json](./227507-dragon-and-elfs.json) |
 | Dragon & Knights | 200747 | [200747-dragon-and-knights.json](./200747-dragon-and-knights.json) |
+| Dragon Age II: All-Class Item Pack | 367423 | [367423-dragon-age-ii-all-class-item-pack.json](./367423-dragon-age-ii-all-class-item-pack.json) |
+| Dragon Age II: All-Class Item Pack II | 367424 | [367424-dragon-age-ii-all-class-item-pack-ii.json](./367424-dragon-age-ii-all-class-item-pack-ii.json) |
+| Dragon Age II: The Black Emporium | 367421 | [367421-dragon-age-ii-the-black-emporium.json](./367421-dragon-age-ii-the-black-emporium.json) |
 | Dragon Age II: Ultimate Edition | 306726 | [306726-dragon-age-ii-ultimate-edition.json](./306726-dragon-age-ii-ultimate-edition.json) |
+| Dragon Age: Inquisition - Spoils of the Avvar | 367437 | [367437-dragon-age-inquisition-spoils-of-the-avvar.json](./367437-dragon-age-inquisition-spoils-of-the-avvar.json) |
+| Dragon Age: Inquisition - Spoils of the Qunari | 367438 | [367438-dragon-age-inquisition-spoils-of-the-qunari.json](./367438-dragon-age-inquisition-spoils-of-the-qunari.json) |
+| Dragon Age: Inquisition - The Black Emporium | 367431 | [367431-dragon-age-inquisition-the-black-emporium.json](./367431-dragon-age-inquisition-the-black-emporium.json) |
+| Dragon Age: Origins - Feastday Gifts | 367441 | [367441-dragon-age-origins-feastday-gifts.json](./367441-dragon-age-origins-feastday-gifts.json) |
+| Dragon Age: Origins - Feastday Pranks | 367442 | [367442-dragon-age-origins-feastday-pranks.json](./367442-dragon-age-origins-feastday-pranks.json) |
 | Dragon Age: Origins - Leliana's Song | 17465 | [17465-dragon-age-origins-lelianas-song.json](./17465-dragon-age-origins-lelianas-song.json) |
 | Dragon Age: Origins - The Stone Prisoner | 17462 | [17462-dragon-age-origins-the-stone-prisoner.json](./17462-dragon-age-origins-the-stone-prisoner.json) |
 | Dragon Age: Origins Collector's Edition | 21765 | [21765-dragon-age-origins-collectors-edition.json](./21765-dragon-age-origins-collectors-edition.json) |
@@ -1874,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dump Truck Offroad Driver 3D | 104638 | [104638-dump-truck-offroad-driver-3d.json](./104638-dump-truck-offroad-driver-3d.json) |
 | Dumpling Together | 339108 | [339108-dumpling-together.json](./339108-dumpling-together.json) |
 | Dumpster Gang | 415120 | [415120-dumpster-gang.json](./415120-dumpster-gang.json) |
+| Dùn | 367443 | [367443-dun.json](./367443-dun.json) |
 | Dun Dam: Dungeons & Dam | 69298 | [69298-dun-dam-dungeons-and-dam.json](./69298-dun-dam-dungeons-and-dam.json) |
 | Duncan and Katy | 61112 | [61112-duncan-and-katy.json](./61112-duncan-and-katy.json) |
 | Dunchess | 269267 | [269267-dunchess.json](./269267-dunchess.json) |
