@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good puzzle | 155651 | [155651-good-puzzle.json](./155651-good-puzzle.json) |
 | Good puzzle: Castles | 161364 | [161364-good-puzzle-castles.json](./161364-good-puzzle-castles.json) |
 | Goodbye, Doggy | 135905 | [135905-goodbye-doggy.json](./135905-goodbye-doggy.json) |
+| Goodbye.Monster | 323716 | [323716-goodbye-monster.json](./323716-goodbye-monster.json) |
 | Goodfolks | 61704 | [61704-goodfolks.json](./61704-goodfolks.json) |
 | Goodness Rakes | 231607 | [231607-goodness-rakes.json](./231607-goodness-rakes.json) |
 | Goodwill Scrolls | 338012 | [338012-goodwill-scrolls.json](./338012-goodwill-scrolls.json) |
@@ -857,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorble | 311272 | [311272-gorble.json](./311272-gorble.json) |
 | Gordian Tomb | 73850 | [73850-gordian-tomb.json](./73850-gordian-tomb.json) |
 | Gordon and the Light Within | 334691 | [334691-gordon-and-the-light-within.json](./334691-gordon-and-the-light-within.json) |
+| Gore Crush | 323728 | [323728-gore-crush.json](./323728-gore-crush.json) |
 | Gorescript Classic | 81424 | [81424-gorescript-classic.json](./81424-gorescript-classic.json) |
 | Gorgon | 22411 | [22411-gorgon.json](./22411-gorgon.json) |
 | Gorgonia: A Gorgon's Tragedy | 326975 | [326975-gorgonia-a-gorgons-tragedy.json](./326975-gorgonia-a-gorgons-tragedy.json) |
