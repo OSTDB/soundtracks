@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| I Am a Dorm Resident (but Cat) | 353841 | [353841-i-am-a-dorm-resident-but-cat.json](./353841-i-am-a-dorm-resident-but-cat.json) |
 | I Am a Teacher: Teami no Kiso | 41374 | [41374-i-am-a-teacher-teami-no-kiso.json](./41374-i-am-a-teacher-teami-no-kiso.json) |
 | I Am An Air Traffic Controller: Airport Hero Naha | 56475 | [56475-i-am-an-air-traffic-controller-airport-hero-naha.json](./56475-i-am-an-air-traffic-controller-airport-hero-naha.json) |
 | I Am An Air Traffic Controller: Airport Hero Narita | 56474 | [56474-i-am-an-air-traffic-controller-airport-hero-narita.json](./56474-i-am-an-air-traffic-controller-airport-hero-narita.json) |
@@ -325,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the alley: Our hometown | 221415 | [221415-in-the-alley-our-hometown.json](./221415-in-the-alley-our-hometown.json) |
 | In the Box | 237655 | [237655-in-the-box.json](./237655-in-the-box.json) |
 | In the Bush | 173843 | [173843-in-the-bush.json](./173843-in-the-bush.json) |
+| In The Dark | 353904 | [353904-in-the-dark.json](./353904-in-the-dark.json) |
 | In the Dead of Night | 73287 | [73287-in-the-dead-of-night.json](./73287-in-the-dead-of-night.json) |
 | In the Drift | 404847 | [404847-in-the-drift.json](./404847-in-the-drift.json) |
 | In the Grave Wood | 183599 | [183599-in-the-grave-wood.json](./183599-in-the-grave-wood.json) |
