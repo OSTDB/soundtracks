@@ -300,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elements | 186872 | [186872-elements.json](./186872-elements.json) |
 | Elements | 271485 | [271485-elements.json](./271485-elements.json) |
 | Elements | 336927 | [336927-elements.json](./336927-elements.json) |
+| ElePass: Only Elephants Can Unlock the Passcode | 317855 | [317855-elepass-only-elephants-can-unlock-the-passcode.json](./317855-elepass-only-elephants-can-unlock-the-passcode.json) |
 | Elestrals Clash! | 356622 | [356622-elestrals-clash.json](./356622-elestrals-clash.json) |
 | Eletar Hero | 188673 | [188673-eletar-hero.json](./188673-eletar-hero.json) |
 | Elette Fragments | 126657 | [126657-elette-fragments.json](./126657-elette-fragments.json) |
@@ -780,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve Online: Onslaught | 329913 | [329913-eve-online-onslaught.json](./329913-eve-online-onslaught.json) |
 | Eve Online: Reign | 329925 | [329925-eve-online-reign.json](./329925-eve-online-reign.json) |
 | Eve Online: Zenith - Quadrant 3 | 329917 | [329917-eve-online-zenith-quadrant-3.json](./329917-eve-online-zenith-quadrant-3.json) |
+| Eve: Galaxy Conquest | 317843 | [317843-eve-galaxy-conquest.json](./317843-eve-galaxy-conquest.json) |
 | Even Lovers Drown | 408772 | [408772-even-lovers-drown.json](./408772-even-lovers-drown.json) |
 | Evening Vibes | 217020 | [217020-evening-vibes.json](./217020-evening-vibes.json) |
 | Event World VR | 295523 | [295523-event-world-vr.json](./295523-event-world-vr.json) |
