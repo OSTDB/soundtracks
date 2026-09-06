@@ -424,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encrypted_Nightmares | 340946 | [340946-encrypted-nightmares.json](./340946-encrypted-nightmares.json) |
 | End of Days | 151183 | [151183-end-of-days.json](./151183-end-of-days.json) |
 | End of Garbage | 382774 | [382774-end-of-garbage.json](./382774-end-of-garbage.json) |
+| End of Line | 330158 | [330158-end-of-line.json](./330158-end-of-line.json) |
 | End of Twilight | 70973 | [70973-end-of-twilight.json](./70973-end-of-twilight.json) |
 | End of War 1945 | 127377 | [127377-end-of-war-1945.json](./127377-end-of-war-1945.json) |
 | End the Endless | 338716 | [338716-end-the-endless.json](./338716-end-the-endless.json) |
@@ -606,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Island | 313502 | [313502-escape-from-island.json](./313502-escape-from-island.json) |
 | Escape from Khoshima | 12994 | [12994-escape-from-khoshima.json](./12994-escape-from-khoshima.json) |
 | Escape From Lavender Island | 235991 | [235991-escape-from-lavender-island.json](./235991-escape-from-lavender-island.json) |
+| Escape from Moonbase Alpha | 330177 | [330177-escape-from-moonbase-alpha.json](./330177-escape-from-moonbase-alpha.json) |
 | Escape from Puzzlegate | 34373 | [34373-escape-from-puzzlegate.json](./34373-escape-from-puzzlegate.json) |
 | Escape From Roswell | 225901 | [225901-escape-from-roswell.json](./225901-escape-from-roswell.json) |
 | Escape From School: F.E.L.I.K | 235472 | [235472-escape-from-school-f-e-l-i-k.json](./235472-escape-from-school-f-e-l-i-k.json) |
@@ -941,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extravaganza Rising | 32078 | [32078-extravaganza-rising.json](./32078-extravaganza-rising.json) |
 | Extreme Basketball | 86104 | [86104-extreme-basketball.json](./86104-extreme-basketball.json) |
 | Extreme Car Parking! | 310196 | [310196-extreme-car-parking.json](./310196-extreme-car-parking.json) |
+| Extreme Cycling | 330189 | [330189-extreme-cycling.json](./330189-extreme-cycling.json) |
 | Extreme flight | 118411 | [118411-extreme-flight.json](./118411-extreme-flight.json) |
 | Extreme Formula Championship | 101592 | [101592-extreme-formula-championship.json](./101592-extreme-formula-championship.json) |
 | Extreme Hill Driver | 414387 | [414387-extreme-hill-driver.json](./414387-extreme-hill-driver.json) |
