@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incremental Epic Breakers | 163968 | [163968-incremental-epic-breakers.json](./163968-incremental-epic-breakers.json) |
 | Incremental Epic Hero 2 | 197398 | [197398-incremental-epic-hero-2.json](./197398-incremental-epic-hero-2.json) |
 | Indecision. | 83969 | [83969-indecision.json](./83969-indecision.json) |
+| Independence Day Resurgence: Battle Heroes | 354411 | [354411-independence-day-resurgence-battle-heroes.json](./354411-independence-day-resurgence-battle-heroes.json) |
 | Indian Street Food Simulator | 407345 | [407345-indian-street-food-simulator.json](./407345-indian-street-food-simulator.json) |
 | Indiana Jones and the Last Crusade: The Action Game | 185 | [185-indiana-jones-and-the-last-crusade-the-action-game.json](./185-indiana-jones-and-the-last-crusade-the-action-game.json) |
 | Indiana Jones and the Temple of the Spheres | 322929 | [322929-indiana-jones-and-the-temple-of-the-spheres.json](./322929-indiana-jones-and-the-temple-of-the-spheres.json) |
