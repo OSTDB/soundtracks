@@ -133,11 +133,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Clouds | 117057 | [117057-magic-clouds.json](./117057-magic-clouds.json) |
 | Magic Factory | 115047 | [115047-magic-factory.json](./115047-magic-factory.json) |
 | Magic Garden | 317579 | [317579-magic-garden.json](./317579-magic-garden.json) |
+| Magic Garden Escape | 315471 | [315471-magic-garden-escape.json](./315471-magic-garden-escape.json) |
 | Magic Gear | 377601 | [377601-magic-gear.json](./377601-magic-gear.json) |
 | Magic gravity | 76636 | [76636-magic-gravity.json](./76636-magic-gravity.json) |
 | Magic Griddlers | 156671 | [156671-magic-griddlers.json](./156671-magic-griddlers.json) |
 | Magic Griddlers 2 | 101555 | [101555-magic-griddlers-2.json](./101555-magic-griddlers-2.json) |
 | Magic Heart | 114996 | [114996-magic-heart.json](./114996-magic-heart.json) |
+| Magic Island Escape | 315472 | [315472-magic-island-escape.json](./315472-magic-island-escape.json) |
+| Magic Island Escape 2 | 315473 | [315473-magic-island-escape-2.json](./315473-magic-island-escape-2.json) |
+| Magic Island Escape 3 | 315474 | [315474-magic-island-escape-3.json](./315474-magic-island-escape-3.json) |
+| Magic Island Escape 4 | 315477 | [315477-magic-island-escape-4.json](./315477-magic-island-escape-4.json) |
+| Magic Island Escape 5 | 315478 | [315478-magic-island-escape-5.json](./315478-magic-island-escape-5.json) |
+| Magic Island Escape 6 | 315524 | [315524-magic-island-escape-6.json](./315524-magic-island-escape-6.json) |
+| Magic Island Escape 7 | 315525 | [315525-magic-island-escape-7.json](./315525-magic-island-escape-7.json) |
+| Magic Island Escape 8 | 315527 | [315527-magic-island-escape-8.json](./315527-magic-island-escape-8.json) |
+| Magic Island Escape 9 | 315529 | [315529-magic-island-escape-9.json](./315529-magic-island-escape-9.json) |
 | Magic Jewel | 359394 | [359394-magic-jewel.json](./359394-magic-jewel.json) |
 | Magic Kingdom | 213591 | [213591-magic-kingdom.json](./213591-magic-kingdom.json) |
 | Magic Knight Rayearth | 38375 | [38375-magic-knight-rayearth.json](./38375-magic-knight-rayearth.json) |
@@ -784,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazy | 385576 | [385576-mazy.json](./385576-mazy.json) |
 | Mazzle Christmas | 329040 | [329040-mazzle-christmas.json](./329040-mazzle-christmas.json) |
 | Mbembe Radio | 300988 | [300988-mbembe-radio.json](./300988-mbembe-radio.json) |
+| MBOS | 315509 | [315509-mbos.json](./315509-mbos.json) |
 | MC Eternal 2 | 350988 | [350988-mc-eternal-2.json](./350988-mc-eternal-2.json) |
 | MC Groovz Dance Craze | 50581 | [50581-mc-groovz-dance-craze.json](./50581-mc-groovz-dance-craze.json) |
 | MC Lars 2: Brotherhood | 75188 | [75188-mc-lars-2-brotherhood.json](./75188-mc-lars-2-brotherhood.json) |
@@ -1485,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Hermicraft Season 8 Map | 366814 | [366814-minecraft-hermicraft-season-8-map.json](./366814-minecraft-hermicraft-season-8-map.json) |
 | Minecraft: James Web Space Telescope | 322959 | [322959-minecraft-james-web-space-telescope.json](./322959-minecraft-james-web-space-telescope.json) |
 | Minecraft: Minecon 2016 Skin Pack | 255328 | [255328-minecraft-minecon-2016-skin-pack.json](./255328-minecraft-minecon-2016-skin-pack.json) |
+| Minecraft: Minecon Live - Rush Race! | 315515 | [315515-minecraft-minecon-live-rush-race.json](./315515-minecraft-minecon-live-rush-race.json) |
 | Minecraft: Mob Weapons | 333584 | [333584-minecraft-mob-weapons.json](./333584-minecraft-mob-weapons.json) |
 | Minecraft: Nintendo Switch Edition | 85614 | [85614-minecraft-nintendo-switch-edition.json](./85614-minecraft-nintendo-switch-edition.json) |
 | Minecraft: Norse Mythology Bonus Skins | 322957 | [322957-minecraft-norse-mythology-bonus-skins.json](./322957-minecraft-norse-mythology-bonus-skins.json) |
@@ -1492,6 +1504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Operation Aorta | 324882 | [324882-minecraft-operation-aorta.json](./324882-minecraft-operation-aorta.json) |
 | Minecraft: Phantom Frames | 324890 | [324890-minecraft-phantom-frames.json](./324890-minecraft-phantom-frames.json) |
 | Minecraft: Plastic Texture Pack | 255347 | [255347-minecraft-plastic-texture-pack.json](./255347-minecraft-plastic-texture-pack.json) |
+| Minecraft: Power Grid Hero | 315516 | [315516-minecraft-power-grid-hero.json](./315516-minecraft-power-grid-hero.json) |
 | Minecraft: Quantum Realm | 333582 | [333582-minecraft-quantum-realm.json](./333582-minecraft-quantum-realm.json) |
 | Minecraft: Sonic Texture Pack | 254791 | [254791-minecraft-sonic-texture-pack.json](./254791-minecraft-sonic-texture-pack.json) |
 | MInecraft: Star Wars Prequel Skin Pack | 302666 | [302666-minecraft-star-wars-prequel-skin-pack.json](./302666-minecraft-star-wars-prequel-skin-pack.json) |
