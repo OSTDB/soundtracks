@@ -1006,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelMogul | 251209 | [251209-pixelmogul.json](./251209-pixelmogul.json) |
 | Pixelplace.io | 137666 | [137666-pixelplace-io.json](./137666-pixelplace-io.json) |
 | Pixels Defense | 60003 | [60003-pixels-defense.json](./60003-pixels-defense.json) |
+| Pixelvader | 335923 | [335923-pixelvader.json](./335923-pixelvader.json) |
 | PixEvo: The Fountain | 191901 | [191901-pixevo-the-fountain.json](./191901-pixevo-the-fountain.json) |
 | Pixgun | 348234 | [348234-pixgun.json](./348234-pixgun.json) |
 | Pixicharm: Acornflare | 389416 | [389416-pixicharm-acornflare.json](./389416-pixicharm-acornflare.json) |
@@ -1015,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Mariana Gold | 335081 | [335081-pixicharm-mariana-gold.json](./335081-pixicharm-mariana-gold.json) |
 | Pixicharm: Meowbolt | 337986 | [337986-pixicharm-meowbolt.json](./337986-pixicharm-meowbolt.json) |
 | Pixicharm: Spartunex | 361698 | [361698-pixicharm-spartunex.json](./361698-pixicharm-spartunex.json) |
+| Pixicharm: Speedy Squire | 335964 | [335964-pixicharm-speedy-squire.json](./335964-pixicharm-speedy-squire.json) |
 | PixPaint - Color By Number | 105970 | [105970-pixpaint-color-by-number.json](./105970-pixpaint-color-by-number.json) |
 | Piyo Blocks 2 | 175413 | [175413-piyo-blocks-2.json](./175413-piyo-blocks-2.json) |
 | Pizza Death | 207541 | [207541-pizza-death.json](./207541-pizza-death.json) |
