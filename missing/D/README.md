@@ -1936,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Despair | 193990 | [193990-dungeon-of-despair.json](./193990-dungeon-of-despair.json) |
 | Dungeon of Erotic Master Reboot | 374614 | [374614-dungeon-of-erotic-master-reboot.json](./374614-dungeon-of-erotic-master-reboot.json) |
 | Dungeon Peplum | 379880 | [379880-dungeon-peplum.json](./379880-dungeon-peplum.json) |
+| Dungeon Pizza | 365096 | [365096-dungeon-pizza.json](./365096-dungeon-pizza.json) |
 | Dungeon Quest | 101600 | [101600-dungeon-quest.json](./101600-dungeon-quest.json) |
 | Dungeon Raid | 22459 | [22459-dungeon-raid.json](./22459-dungeon-raid.json) |
 | Dungeon Raze | 327593 | [327593-dungeon-raze.json](./327593-dungeon-raze.json) |
