@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daydream Heartbeat Cure | 394853 | [394853-daydream-heartbeat-cure.json](./394853-daydream-heartbeat-cure.json) |
 | DayDream Mosaics 2: Juliette's Tale | 193506 | [193506-daydream-mosaics-2-juliettes-tale.json](./193506-daydream-mosaics-2-juliettes-tale.json) |
 | Daylife in Japan: Pixel Art Jigsaw Puzzle | 147966 | [147966-daylife-in-japan-pixel-art-jigsaw-puzzle.json](./147966-daylife-in-japan-pixel-art-jigsaw-puzzle.json) |
+| Daylight Dread | 317214 | [317214-daylight-dread.json](./317214-daylight-dread.json) |
 | Daymare Cat: 10-year Anniversary | 257659 | [257659-daymare-cat-10-year-anniversary.json](./257659-daymare-cat-10-year-anniversary.json) |
 | Daymare Town 2 | 257642 | [257642-daymare-town-2.json](./257642-daymare-town-2.json) |
 | Daymare Town 2 | 257643 | [257643-daymare-town-2.json](./257643-daymare-town-2.json) |
@@ -822,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desired Mistake | 82127 | [82127-desired-mistake.json](./82127-desired-mistake.json) |
 | Desires of a Dragon Prince | 298893 | [298893-desires-of-a-dragon-prince.json](./298893-desires-of-a-dragon-prince.json) |
 | Desires of a Vampire | 298892 | [298892-desires-of-a-vampire.json](./298892-desires-of-a-vampire.json) |
+| Desktop Dodgeball 2 | 317224 | [317224-desktop-dodgeball-2.json](./317224-desktop-dodgeball-2.json) |
 | Desktop Mark | 253589 | [253589-desktop-mark.json](./253589-desktop-mark.json) |
 | Desktop Pals | 306687 | [306687-desktop-pals.json](./306687-desktop-pals.json) |
 | Desktop Raid | 392137 | [392137-desktop-raid.json](./392137-desktop-raid.json) |
@@ -958,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Lady | 81359 | [81359-diamond-lady.json](./81359-diamond-lady.json) |
 | Diamond Mind Baseball 8.0 | 94249 | [94249-diamond-mind-baseball-8-0.json](./94249-diamond-mind-baseball-8-0.json) |
 | Diamond Painting ASMR: Cool & Festive | 309075 | [309075-diamond-painting-asmr-cool-and-festive.json](./309075-diamond-painting-asmr-cool-and-festive.json) |
+| Diamond Painting ASMR: Cute Edition | 317260 | [317260-diamond-painting-asmr-cute-edition.json](./317260-diamond-painting-asmr-cute-edition.json) |
 | Diamond Painting ASMR: Fun & Cute | 309076 | [309076-diamond-painting-asmr-fun-and-cute.json](./309076-diamond-painting-asmr-fun-and-cute.json) |
 | Diamond Skee-Ball | 209611 | [209611-diamond-skee-ball.json](./209611-diamond-skee-ball.json) |
 | Diapause | 374597 | [374597-diapause.json](./374597-diapause.json) |
@@ -1883,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamians: Card Battle | 304891 | [304891-dreamians-card-battle.json](./304891-dreamians-card-battle.json) |
 | Dreaming About You | 371230 | [371230-dreaming-about-you.json](./371230-dreaming-about-you.json) |
 | Dreaming Seal Simulator | 325288 | [325288-dreaming-seal-simulator.json](./325288-dreaming-seal-simulator.json) |
+| Dreamland Farm | 317223 | [317223-dreamland-farm.json](./317223-dreamland-farm.json) |
 | Dreamless | 320135 | [320135-dreamless.json](./320135-dreamless.json) |
 | Dreamless Girl: Deluxe Edtion Plus | 335097 | [335097-dreamless-girl-deluxe-edtion-plus.json](./335097-dreamless-girl-deluxe-edtion-plus.json) |
 | Dreampainters | 360005 | [360005-dreampainters.json](./360005-dreampainters.json) |
