@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice and Fire | 22623 | [22623-ice-and-fire.json](./22623-ice-and-fire.json) |
 | Ice and Fire | 232712 | [232712-ice-and-fire.json](./232712-ice-and-fire.json) |
 | Ice Climber-e | 170012 | [170012-ice-climber-e.json](./170012-ice-climber-e.json) |
+| Ice King in Secret Santa | 339824 | [339824-ice-king-in-secret-santa.json](./339824-ice-king-in-secret-santa.json) |
 | Ice Nosfe | 236499 | [236499-ice-nosfe.json](./236499-ice-nosfe.json) |
 | Iceblox | 94254 | [94254-iceblox.json](./94254-iceblox.json) |
 | Icebound Secrets: The Frostwood Bane | 378812 | [378812-icebound-secrets-the-frostwood-bane.json](./378812-icebound-secrets-the-frostwood-bane.json) |
@@ -520,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insanus Express | 114368 | [114368-insanus-express.json](./114368-insanus-express.json) |
 | Inscryption: Kaycee's Mod | 186306 | [186306-inscryption-kaycees-mod.json](./186306-inscryption-kaycees-mod.json) |
 | Inseco | 415084 | [415084-inseco.json](./415084-inseco.json) |
+| Insectile | 339819 | [339819-insectile.json](./339819-insectile.json) |
 | Insectipede | 119764 | [119764-insectipede.json](./119764-insectipede.json) |
 | Insectoid | 25010 | [25010-insectoid.json](./25010-insectoid.json) |
 | Insectoid Descent | 205231 | [205231-insectoid-descent.json](./205231-insectoid-descent.json) |
