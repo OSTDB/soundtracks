@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densha de GO! 64 | 3469 | [3469-densha-de-go-64.json](./3469-densha-de-go-64.json) |
 | Dental Madness: Cavity Mania | 166758 | [166758-dental-madness-cavity-mania.json](./166758-dental-madness-cavity-mania.json) |
 | Dental Strike | 290699 | [290699-dental-strike.json](./290699-dental-strike.json) |
+| Dentist Hour: Escape Room | 357797 | [357797-dentist-hour-escape-room.json](./357797-dentist-hour-escape-room.json) |
 | Dentures and Demons 2 | 145008 | [145008-dentures-and-demons-2.json](./145008-dentures-and-demons-2.json) |
 | Deosurge | 183080 | [183080-deosurge.json](./183080-deosurge.json) |
 | Departure!! Shipping Freighter | 299483 | [299483-departure-shipping-freighter.json](./299483-departure-shipping-freighter.json) |
