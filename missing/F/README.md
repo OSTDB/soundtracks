@@ -1083,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 26 | 365487 | [365487-football-manager-26.json](./365487-football-manager-26.json) |
 | Football Penalty | 234315 | [234315-football-penalty.json](./234315-football-penalty.json) |
 | Football Pitch Simulator | 326428 | [326428-football-pitch-simulator.json](./326428-football-pitch-simulator.json) |
+| Football Quiz | 340926 | [340926-football-quiz.json](./340926-football-quiz.json) |
 | Football Russian 20!8 | 86306 | [86306-football-russian-20-8.json](./86306-football-russian-20-8.json) |
 | Football Superstar 2 | 317008 | [317008-football-superstar-2.json](./317008-football-superstar-2.json) |
 | FootRock 2 | 29902 | [29902-footrock-2.json](./29902-footrock-2.json) |
@@ -1293,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragrant Story and Papaya's Path | 315832 | [315832-fragrant-story-and-papayas-path.json](./315832-fragrant-story-and-papayas-path.json) |
 | Frame Breaker | 304333 | [304333-frame-breaker.json](./304333-frame-breaker.json) |
 | Frame of Suffering | 403555 | [403555-frame-of-suffering.json](./403555-frame-of-suffering.json) |
+| Framed Fear | 340953 | [340953-framed-fear.json](./340953-framed-fear.json) |
 | Fran Bow | 11821 | [11821-fran-bow.json](./11821-fran-bow.json) |
 | Fran Bow Chapter 4 | 91996 | [91996-fran-bow-chapter-4.json](./91996-fran-bow-chapter-4.json) |
 | Franchise Hockey Manager 2014 | 8913 | [8913-franchise-hockey-manager-2014.json](./8913-franchise-hockey-manager-2014.json) |
