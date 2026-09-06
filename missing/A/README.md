@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.S.P.: Air Strike Patrol | 42662 | [42662-a-s-p-air-strike-patrol.json](./42662-a-s-p-air-strike-patrol.json) |
 | Aa Yakyuu Jinsei Icchokusen | 48669 | [48669-aa-yakyuu-jinsei-icchokusen.json](./48669-aa-yakyuu-jinsei-icchokusen.json) |
 | Aaahh!!! Real Monsters | 5339 | [5339-aaahh-real-monsters.json](./5339-aaahh-real-monsters.json) |
+| Aaero 2: Black Razor Edition | 366211 | [366211-aaero-2-black-razor-edition.json](./366211-aaero-2-black-razor-edition.json) |
 | Aahh! Spot the Difference | 84864 | [84864-aahh-spot-the-difference.json](./84864-aahh-spot-the-difference.json) |
 | Aard and Wyzz: The rise of minions | 309102 | [309102-aard-and-wyzz-the-rise-of-minions.json](./309102-aard-and-wyzz-the-rise-of-minions.json) |
 | Aardwolf MUD | 228684 | [228684-aardwolf-mud.json](./228684-aardwolf-mud.json) |
@@ -485,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFL Live 2003 | 47307 | [47307-afl-live-2003.json](./47307-afl-live-2003.json) |
 | AFL Live 2004 | 47306 | [47306-afl-live-2004.json](./47306-afl-live-2004.json) |
 | AFL Premiership 2005 | 73847 | [73847-afl-premiership-2005.json](./73847-afl-premiership-2005.json) |
+| African Adventure: In Search of Dr. Livingston | 366265 | [366265-african-adventure-in-search-of-dr-livingston.json](./366265-african-adventure-in-search-of-dr-livingston.json) |
 | Afrikan Tähti | 174367 | [174367-afrikan-tahti.json](./174367-afrikan-tahti.json) |
 | Afrodite The Game | 246670 | [246670-afrodite-the-game.json](./246670-afrodite-the-game.json) |
 | After a Long Journey | 188632 | [188632-after-a-long-journey.json](./188632-after-a-long-journey.json) |
@@ -1560,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arid Arnold | 318202 | [318202-arid-arnold.json](./318202-arid-arnold.json) |
 | Arifureta: From Commonplace to World's Strongest - Rebellion Soul | 390534 | [390534-arifureta-from-commonplace-to-worlds-strongest-rebellion-soul.json](./390534-arifureta-from-commonplace-to-worlds-strongest-rebellion-soul.json) |
 | Arisen Force: Life Devotee of Wukong | 322972 | [322972-arisen-force-life-devotee-of-wukong.json](./322972-arisen-force-life-devotee-of-wukong.json) |
+| Arisen Force: LifeDevotee | 366210 | [366210-arisen-force-lifedevotee.json](./366210-arisen-force-lifedevotee.json) |
 | Arizona Rose and the Pharaohs' Riddles | 29870 | [29870-arizona-rose-and-the-pharaohs-riddles.json](./29870-arizona-rose-and-the-pharaohs-riddles.json) |
 | Ark Odyssey | 319366 | [319366-ark-odyssey.json](./319366-ark-odyssey.json) |
 | Ark of Artemis | 148564 | [148564-ark-of-artemis.json](./148564-ark-of-artemis.json) |
