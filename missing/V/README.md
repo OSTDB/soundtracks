@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valley Peaks | 177031 | [177031-valley-peaks.json](./177031-valley-peaks.json) |
 | Valor | 173314 | [173314-valor.json](./173314-valor.json) |
 | Valor & Victory: Kursk | 260381 | [260381-valor-and-victory-kursk.json](./260381-valor-and-victory-kursk.json) |
+| Valor of Man | 326576 | [326576-valor-of-man.json](./326576-valor-of-man.json) |
 | Valor Time | 107911 | [107911-valor-time.json](./107911-valor-time.json) |
 | Valyria Tear | 60586 | [60586-valyria-tear.json](./60586-valyria-tear.json) |
 | Valzar | 34391 | [34391-valzar.json](./34391-valzar.json) |
