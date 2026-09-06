@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden Cats: Ninja | 334123 | [334123-100-hidden-cats-ninja.json](./334123-100-hidden-cats-ninja.json) |
 | 100 Hidden Cats: Pirates | 315295 | [315295-100-hidden-cats-pirates.json](./315295-100-hidden-cats-pirates.json) |
 | 100 Hidden Cats: Playground | 330560 | [330560-100-hidden-cats-playground.json](./330560-100-hidden-cats-playground.json) |
+| 100 Hiddensaurs: Greece | 318394 | [318394-100-hiddensaurs-greece.json](./318394-100-hiddensaurs-greece.json) |
 | 100 in 1 Game Collection | 324693 | [324693-100-in-1-game-collection.json](./324693-100-in-1-game-collection.json) |
 | 100 India Cats | 334124 | [334124-100-india-cats.json](./334124-100-india-cats.json) |
 | 100 Indonesia Cats | 315294 | [315294-100-indonesia-cats.json](./315294-100-indonesia-cats.json) |
