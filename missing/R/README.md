@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:D Cherish! SS: Rouge's One Operation | 370697 | [370697-re-d-cherish-ss-rouges-one-operation.json](./370697-re-d-cherish-ss-rouges-one-operation.json) |
 | Re:D Cherish!: Eternity Blood | 370695 | [370695-re-d-cherish-eternity-blood.json](./370695-re-d-cherish-eternity-blood.json) |
 | Re:Kuroi | 151725 | [151725-re-kuroi.json](./151725-re-kuroi.json) |
+| Re:leap-future City and Futureless | 346572 | [346572-re-leap-future-city-and-futureless.json](./346572-re-leap-future-city-and-futureless.json) |
 | Re:Monster | 241637 | [241637-re-monster.json](./241637-re-monster.json) |
 | Re:Zero - Starting Life in Another World: Death or Kiss | 26668 | [26668-re-zero-starting-life-in-another-world-death-or-kiss.json](./26668-re-zero-starting-life-in-another-world-death-or-kiss.json) |
 | Re:Zero Kara Hajimeru Isekai Seikatsu - Infinity | 220324 | [220324-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json](./220324-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json) |
@@ -658,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Guys: Firefighters Simulator | 407347 | [407347-rescue-guys-firefighters-simulator.json](./407347-rescue-guys-firefighters-simulator.json) |
 | Rescue Heroes: Fire Frenzy | 49948 | [49948-rescue-heroes-fire-frenzy.json](./49948-rescue-heroes-fire-frenzy.json) |
 | Rescue Heroes: Molten Menace | 209168 | [209168-rescue-heroes-molten-menace.json](./209168-rescue-heroes-molten-menace.json) |
+| Rescue Quest | 346597 | [346597-rescue-quest.json](./346597-rescue-quest.json) |
 | Rescue Raiders | 25777 | [25777-rescue-raiders.json](./25777-rescue-raiders.json) |
 | Rescue Rover 2 | 72110 | [72110-rescue-rover-2.json](./72110-rescue-rover-2.json) |
 | Rescue Rover Collection | 150692 | [150692-rescue-rover-collection.json](./150692-rescue-rover-collection.json) |
@@ -813,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolver360 | 79926 | [79926-revolver360.json](./79926-revolver360.json) |
 | Rewilder | 303782 | [303782-rewilder.json](./303782-rewilder.json) |
 | Rewindead | 382756 | [382756-rewindead.json](./382756-rewindead.json) |
+| Rewrite the Romance: The Golden Lotus | 346567 | [346567-rewrite-the-romance-the-golden-lotus.json](./346567-rewrite-the-romance-the-golden-lotus.json) |
 | Rex | 45348 | [45348-rex.json](./45348-rex.json) |
 | Rex Blade: The Battle Begins | 209165 | [209165-rex-blade-the-battle-begins.json](./209165-rex-blade-the-battle-begins.json) |
 | Rex Ronan: Experimental Surgeon | 42651 | [42651-rex-ronan-experimental-surgeon.json](./42651-rex-ronan-experimental-surgeon.json) |
@@ -844,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribbeat | 382771 | [382771-ribbeat.json](./382771-ribbeat.json) |
 | Ribbits | 341867 | [341867-ribbits.json](./341867-ribbits.json) |
 | Ribby Rocket | 149599 | [149599-ribby-rocket.json](./149599-ribby-rocket.json) |
+| Rice & Rest | 346581 | [346581-rice-and-rest.json](./346581-rice-and-rest.json) |
 | Rich Diamond | 209167 | [209167-rich-diamond.json](./209167-rich-diamond.json) |
 | Rich Lady's Slave Role Play | 199616 | [199616-rich-ladys-slave-role-play.json](./199616-rich-ladys-slave-role-play.json) |
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
