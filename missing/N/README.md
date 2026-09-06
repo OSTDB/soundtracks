@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare at the lighthouse | 54454 | [54454-nightmare-at-the-lighthouse.json](./54454-nightmare-at-the-lighthouse.json) |
 | Nightmare Creatures II | 45860 | [45860-nightmare-creatures-ii.json](./45860-nightmare-creatures-ii.json) |
 | Nightmare Game | 120416 | [120416-nightmare-game.json](./120416-nightmare-game.json) |
+| Nightmare Invasion | 352749 | [352749-nightmare-invasion.json](./352749-nightmare-invasion.json) |
 | Nightmare Kitchen | 334501 | [334501-nightmare-kitchen.json](./334501-nightmare-kitchen.json) |
 | Nightmare Knight: Sacred Maiden & Fallen Magic | 270955 | [270955-nightmare-knight-sacred-maiden-and-fallen-magic.json](./270955-nightmare-knight-sacred-maiden-and-fallen-magic.json) |
 | Nightmare Maze | 13743 | [13743-nightmare-maze.json](./13743-nightmare-maze.json) |
