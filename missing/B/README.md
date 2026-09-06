@@ -2025,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Super Mario Collection: Dai-2-shuu | 179730 | [179730-bs-super-mario-collection-dai-2-shuu.json](./179730-bs-super-mario-collection-dai-2-shuu.json) |
 | BS Super Mario Collection: Dai-3-shuu | 179736 | [179736-bs-super-mario-collection-dai-3-shuu.json](./179736-bs-super-mario-collection-dai-3-shuu.json) |
 | BS Super Mario Collection: Dai-4-shuu | 179744 | [179744-bs-super-mario-collection-dai-4-shuu.json](./179744-bs-super-mario-collection-dai-4-shuu.json) |
+| BS The Legend of Zelda: Ancient Stone Tablets | 322560 | [322560-bs-the-legend-of-zelda-ancient-stone-tablets.json](./322560-bs-the-legend-of-zelda-ancient-stone-tablets.json) |
 | BS Zelda no Densetsu Map 2: Dai-1-wa | 178054 | [178054-bs-zelda-no-densetsu-map-2-dai-1-wa.json](./178054-bs-zelda-no-densetsu-map-2-dai-1-wa.json) |
 | BS Zelda no Densetsu Map 2: Dai-2-wa | 178056 | [178056-bs-zelda-no-densetsu-map-2-dai-2-wa.json](./178056-bs-zelda-no-densetsu-map-2-dai-2-wa.json) |
 | BS Zelda no Densetsu Map 2: Dai-3-wa | 178058 | [178058-bs-zelda-no-densetsu-map-2-dai-3-wa.json](./178058-bs-zelda-no-densetsu-map-2-dai-3-wa.json) |
@@ -2037,6 +2038,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Zelda no Densetsu: Inishie no Sekiban - Dai-2-wa | 178062 | [178062-bs-zelda-no-densetsu-inishie-no-sekiban-dai-2-wa.json](./178062-bs-zelda-no-densetsu-inishie-no-sekiban-dai-2-wa.json) |
 | BS Zelda no Densetsu: Inishie no Sekiban - Dai-3-wa | 178063 | [178063-bs-zelda-no-densetsu-inishie-no-sekiban-dai-3-wa.json](./178063-bs-zelda-no-densetsu-inishie-no-sekiban-dai-3-wa.json) |
 | BS Zelda no Densetsu: Inishie no Sekiban - Dai-4-wa | 178064 | [178064-bs-zelda-no-densetsu-inishie-no-sekiban-dai-4-wa.json](./178064-bs-zelda-no-densetsu-inishie-no-sekiban-dai-4-wa.json) |
+| BS Zelda Restoration Map 1 | 322562 | [322562-bs-zelda-restoration-map-1.json](./322562-bs-zelda-restoration-map-1.json) |
+| BS Zelda Restoration Map 2 | 322561 | [322561-bs-zelda-restoration-map-2.json](./322561-bs-zelda-restoration-map-2.json) |
 | BS2 | 329932 | [329932-bs2.json](./329932-bs2.json) |
 | BSL Winter Games Challenge | 88283 | [88283-bsl-winter-games-challenge.json](./88283-bsl-winter-games-challenge.json) |
 | BSMP | 394877 | [394877-bsmp.json](./394877-bsmp.json) |
