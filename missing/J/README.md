@@ -499,4 +499,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juuken Sentai Gekiranger: Niki-niki! Kazu Katachi ni Challenge! | 327594 | [327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json](./327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json) |
 | Juuryoku Shisen-shou | 206352 | [206352-juuryoku-shisen-shou.json](./206352-juuryoku-shisen-shou.json) |
 | Juuzaengi: Engetsu Sangoku Den 1 & 2 | 135859 | [135859-juuzaengi-engetsu-sangoku-den-1-and-2.json](./135859-juuzaengi-engetsu-sangoku-den-1-and-2.json) |
+| Juxtastat | 320740 | [320740-juxtastat.json](./320740-juxtastat.json) |
 | Jyangokushi - Haoh No Saihai | 40217 | [40217-jyangokushi-haoh-no-saihai.json](./40217-jyangokushi-haoh-no-saihai.json) |
