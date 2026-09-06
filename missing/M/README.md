@@ -1100,6 +1100,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Revolution | 114398 | [114398-metal-revolution.json](./114398-metal-revolution.json) |
 | Metal Saga: The Ark of Wastes | 75851 | [75851-metal-saga-the-ark-of-wastes.json](./75851-metal-saga-the-ark-of-wastes.json) |
 | Metal Slug 1st & 2nd Mission Double Pack | 173779 | [173779-metal-slug-1st-and-2nd-mission-double-pack.json](./173779-metal-slug-1st-and-2nd-mission-double-pack.json) |
+| Metal Slug 3 | 347159 | [347159-metal-slug-3.json](./347159-metal-slug-3.json) |
+| Metal Slug 3 | 347162 | [347162-metal-slug-3.json](./347162-metal-slug-3.json) |
+| Metal Slug 3: ACA Neo Geo | 347163 | [347163-metal-slug-3-aca-neo-geo.json](./347163-metal-slug-3-aca-neo-geo.json) |
+| Metal Slug 3: Classic Edition | 347164 | [347164-metal-slug-3-classic-edition.json](./347164-metal-slug-3-classic-edition.json) |
 | Metal Slug Collection | 51223 | [51223-metal-slug-collection.json](./51223-metal-slug-collection.json) |
 | Metal Slug Revolution | 98432 | [98432-metal-slug-revolution.json](./98432-metal-slug-revolution.json) |
 | Metal Sonic in Sonic 3 & Knuckles | 129187 | [129187-metal-sonic-in-sonic-3-and-knuckles.json](./129187-metal-sonic-in-sonic-3-and-knuckles.json) |
@@ -2398,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Therapy | 207540 | [207540-my-therapy.json](./207540-my-therapy.json) |
 | My Time at Portia | 43165 | [43165-my-time-at-portia.json](./43165-my-time-at-portia.json) |
 | My Time at Sandrock: Super Furniture Pack | 275899 | [275899-my-time-at-sandrock-super-furniture-pack.json](./275899-my-time-at-sandrock-super-furniture-pack.json) |
+| My Time With Dee Dee volume 0 | 347135 | [347135-my-time-with-dee-dee-volume-0.json](./347135-my-time-with-dee-dee-volume-0.json) |
 | My Town : Police | 105920 | [105920-my-town-police.json](./105920-my-town-police.json) |
 | My Train World | 156663 | [156663-my-train-world.json](./156663-my-train-world.json) |
 | My Universe: My Baby - New Edition | 170028 | [170028-my-universe-my-baby-new-edition.json](./170028-my-universe-my-baby-new-edition.json) |
@@ -2423,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myself;Yourself: Sorezore no Finale | 325278 | [325278-myself-yourself-sorezore-no-finale.json](./325278-myself-yourself-sorezore-no-finale.json) |
 | MySims Agents | 5035 | [5035-mysims-agents.json](./5035-mysims-agents.json) |
 | Myst | 272031 | [272031-myst.json](./272031-myst.json) |
+| Myst | 347130 | [347130-myst.json](./347130-myst.json) |
 | Mystereet: Yasogami Kaoru no Chousen! | 326951 | [326951-mystereet-yasogami-kaoru-no-chousen.json](./326951-mystereet-yasogami-kaoru-no-chousen.json) |
 | Mysteria ~Occult Shadows~ | 108626 | [108626-mysteria-occult-shadows.json](./108626-mysteria-occult-shadows.json) |
 | Mysteries of Perception | 317583 | [317583-mysteries-of-perception.json](./317583-mysteries-of-perception.json) |
