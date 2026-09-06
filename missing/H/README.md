@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hajwala Desert | 332819 | [332819-hajwala-desert.json](./332819-hajwala-desert.json) |
 | Hajwala Of Riyadh | 366215 | [366215-hajwala-of-riyadh.json](./366215-hajwala-of-riyadh.json) |
 | Hakarena Heart: Dare ga Tame ni Kimi ha Aru | 69292 | [69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json](./69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json) |
+| Hakkenden | 327200 | [327200-hakkenden.json](./327200-hakkenden.json) |
 | Hako | 22468 | [22468-hako.json](./22468-hako.json) |
 | HakoBoy! Hakozume Box | 81428 | [81428-hakoboy-hakozume-box.json](./81428-hakoboy-hakozume-box.json) |
 | Hakoniwa Explorer Plus | 101606 | [101606-hakoniwa-explorer-plus.json](./101606-hakoniwa-explorer-plus.json) |
@@ -166,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanerutchi 2 | 229962 | [229962-hanerutchi-2.json](./229962-hanerutchi-2.json) |
 | Hang-On & Astro Warrior | 86098 | [86098-hang-on-and-astro-warrior.json](./86098-hang-on-and-astro-warrior.json) |
 | Hangler | 388728 | [388728-hangler.json](./388728-hangler.json) |
+| Hangman | 327217 | [327217-hangman.json](./327217-hangman.json) |
 | Hangman II | 248920 | [248920-hangman-ii.json](./248920-hangman-ii.json) |
 | Hangman: Fun Word Game | 89236 | [89236-hangman-fun-word-game.json](./89236-hangman-fun-word-game.json) |
 | HangOutGame | 166755 | [166755-hangoutgame.json](./166755-hangoutgame.json) |
@@ -386,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headbängers in Holiday Hell | 141232 | [141232-headbangers-in-holiday-hell.json](./141232-headbangers-in-holiday-hell.json) |
 | Headrooms | 334472 | [334472-headrooms.json](./334472-headrooms.json) |
 | Heads Run | 82128 | [82128-heads-run.json](./82128-heads-run.json) |
+| Heads Will Roll: Reforged - Threads of Destiny | 327860 | [327860-heads-will-roll-reforged-threads-of-destiny.json](./327860-heads-will-roll-reforged-threads-of-destiny.json) |
 | Heads-Up | 231634 | [231634-heads-up.json](./231634-heads-up.json) |
 | Headspun: Dazed Edition | 134664 | [134664-headspun-dazed-edition.json](./134664-headspun-dazed-edition.json) |
 | Heal Plz | 121741 | [121741-heal-plz.json](./121741-heal-plz.json) |
@@ -518,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Let Loose: Silver Vanguard | 371225 | [371225-hell-let-loose-silver-vanguard.json](./371225-hell-let-loose-silver-vanguard.json) |
 | Hell Let Loose: Skull Bucket | 371227 | [371227-hell-let-loose-skull-bucket.json](./371227-hell-let-loose-skull-bucket.json) |
 | Hell Madness | 209677 | [209677-hell-madness.json](./209677-hell-madness.json) |
+| Hell Maiden | 327817 | [327817-hell-maiden.json](./327817-hell-maiden.json) |
 | Hell Marys | 59979 | [59979-hell-marys.json](./59979-hell-marys.json) |
 | Hell Miners | 310169 | [310169-hell-miners.json](./310169-hell-miners.json) |
 | Hell of Sins: Soul | 209144 | [209144-hell-of-sins-soul.json](./209144-hell-of-sins-soul.json) |
@@ -699,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Phantasia | 65495 | [65495-heroes-phantasia.json](./65495-heroes-phantasia.json) |
 | Heroes Sky Legends | 336371 | [336371-heroes-sky-legends.json](./336371-heroes-sky-legends.json) |
 | Heroes Stand Tall: M.E.T.A | 302116 | [302116-heroes-stand-tall-m-e-t-a.json](./302116-heroes-stand-tall-m-e-t-a.json) |
+| Heroes United | 327209 | [327209-heroes-united.json](./327209-heroes-united.json) |
 | Heroes War | 200722 | [200722-heroes-war.json](./200722-heroes-war.json) |
 | HeroField: Game Craft | 368514 | [368514-herofield-game-craft.json](./368514-herofield-game-craft.json) |
 | Herogrinder: Tactical Combat Arenas | 122397 | [122397-herogrinder-tactical-combat-arenas.json](./122397-herogrinder-tactical-combat-arenas.json) |
