@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Lies Between | 199118 | [199118-what-lies-between.json](./199118-what-lies-between.json) |
 | What Must Be Done | 309132 | [309132-what-must-be-done.json](./309132-what-must-be-done.json) |
 | What the Car? x Goat Simulator+ | 400246 | [400246-what-the-car-x-goat-simulator.json](./400246-what-the-car-x-goat-simulator.json) |
+| What the Clash? | 339825 | [339825-what-the-clash.json](./339825-what-the-clash.json) |
 | What the Golf? A Hole New World | 264343 | [264343-what-the-golf-a-hole-new-world.json](./264343-what-the-golf-a-hole-new-world.json) |
 | What the Golf? It's Snowtime | 264344 | [264344-what-the-golf-its-snowtime.json](./264344-what-the-golf-its-snowtime.json) |
 | What Would You Do? | 31396 | [31396-what-would-you-do.json](./31396-what-would-you-do.json) |
@@ -761,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With All My Heart | 253038 | [253038-with-all-my-heart.json](./253038-with-all-my-heart.json) |
 | With Eyes Closed: Season 2 | 414314 | [414314-with-eyes-closed-season-2.json](./414314-with-eyes-closed-season-2.json) |
 | With Loneliness | 116932 | [116932-with-loneliness.json](./116932-with-loneliness.json) |
+| With My Buddy | 339826 | [339826-with-my-buddy.json](./339826-with-my-buddy.json) |
 | With Seven Cats | 184118 | [184118-with-seven-cats.json](./184118-with-seven-cats.json) |
 | With You | 188710 | [188710-with-you.json](./188710-with-you.json) |
 | Withering Flowers | 260421 | [260421-withering-flowers.json](./260421-withering-flowers.json) |
