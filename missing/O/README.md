@@ -719,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaw City: Dark Past | 324685 | [324685-outlaw-city-dark-past.json](./324685-outlaw-city-dark-past.json) |
 | Outlaw Golf: 9 More Holes of X-Mas | 47311 | [47311-outlaw-golf-9-more-holes-of-x-mas.json](./47311-outlaw-golf-9-more-holes-of-x-mas.json) |
 | Outlaw Golf: Holiday Golf | 78687 | [78687-outlaw-golf-holiday-golf.json](./78687-outlaw-golf-holiday-golf.json) |
+| Outlawed | 331339 | [331339-outlawed.json](./331339-outlawed.json) |
 | Outlaws of the Old West | 115549 | [115549-outlaws-of-the-old-west.json](./115549-outlaws-of-the-old-west.json) |
 | Outlets Rush | 297247 | [297247-outlets-rush.json](./297247-outlets-rush.json) |
 | Outliver: Tribulation | 129234 | [129234-outliver-tribulation.json](./129234-outliver-tribulation.json) |
