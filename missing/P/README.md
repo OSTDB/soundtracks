@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack not Found 404 | 313477 | [313477-pack-not-found-404.json](./313477-pack-not-found-404.json) |
 | Packed Lair | 350440 | [350440-packed-lair.json](./350440-packed-lair.json) |
 | Packmates | 366231 | [366231-packmates.json](./366231-packmates.json) |
+| Packri Monster | 347688 | [347688-packri-monster.json](./347688-packri-monster.json) |
 | Pacman Cube | 230500 | [230500-pacman-cube.json](./230500-pacman-cube.json) |
 | Paddle Battle | 172781 | [172781-paddle-battle.json](./172781-paddle-battle.json) |
 | Paddle Cats | 411573 | [411573-paddle-cats.json](./411573-paddle-cats.json) |
@@ -486,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perchang World | 400242 | [400242-perchang-world.json](./400242-perchang-world.json) |
 | Percipio | 339634 | [339634-percipio.json](./339634-percipio.json) |
 | Percy's Last Stand | 118403 | [118403-percys-last-stand.json](./118403-percys-last-stand.json) |
+| Pereelous | 347710 | [347710-pereelous.json](./347710-pereelous.json) |
 | Perestroika | 180293 | [180293-perestroika.json](./180293-perestroika.json) |
 | Perfect Angle | 69321 | [69321-perfect-angle.json](./69321-perfect-angle.json) |
 | Perfect Grind | 200746 | [200746-perfect-grind.json](./200746-perfect-grind.json) |
@@ -996,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixPaint - Color By Number | 105970 | [105970-pixpaint-color-by-number.json](./105970-pixpaint-color-by-number.json) |
 | Piyo Blocks 2 | 175413 | [175413-piyo-blocks-2.json](./175413-piyo-blocks-2.json) |
 | Pizza Death | 207541 | [207541-pizza-death.json](./207541-pizza-death.json) |
+| Pizza Deathlivery | 347717 | [347717-pizza-deathlivery.json](./347717-pizza-deathlivery.json) |
 | Pizza Delivery Bagel | 209676 | [209676-pizza-delivery-bagel.json](./209676-pizza-delivery-bagel.json) |
 | Pizza Hub | 311253 | [311253-pizza-hub.json](./311253-pizza-hub.json) |
 | Pizza Morgana | 70427 | [70427-pizza-morgana.json](./70427-pizza-morgana.json) |
@@ -1156,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Arcade Story DX | 208033 | [208033-pocket-arcade-story-dx.json](./208033-pocket-arcade-story-dx.json) |
 | Pocket Bite d20 | 184616 | [184616-pocket-bite-d20.json](./184616-pocket-bite-d20.json) |
 | Pocket Bomberman | 2980 | [2980-pocket-bomberman.json](./2980-pocket-bomberman.json) |
+| Pocket Boss | 347684 | [347684-pocket-boss.json](./347684-pocket-boss.json) |
 | Pocket Car: VR Ground | 113749 | [113749-pocket-car-vr-ground.json](./113749-pocket-car-vr-ground.json) |
 | Pocket Card Jockey: Ride On! | 230543 | [230543-pocket-card-jockey-ride-on.json](./230543-pocket-card-jockey-ride-on.json) |
 | Pocket Cowboy | 175437 | [175437-pocket-cowboy.json](./175437-pocket-cowboy.json) |
@@ -1313,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Racing | 173290 | [173290-poly-racing.json](./173290-poly-racing.json) |
 | Poly Squad | 149076 | [149076-poly-squad.json](./149076-poly-squad.json) |
 | Poly Survivor | 270946 | [270946-poly-survivor.json](./270946-poly-survivor.json) |
+| Poly Tower | 347712 | [347712-poly-tower.json](./347712-poly-tower.json) |
 | Polybius | 24868 | [24868-polybius.json](./24868-polybius.json) |
 | Polybius Invaders | 173786 | [173786-polybius-invaders.json](./173786-polybius-invaders.json) |
 | Polybius Invaders 2 | 270948 | [270948-polybius-invaders-2.json](./270948-polybius-invaders-2.json) |
@@ -1488,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PP: Pathetic Predator | 364479 | [364479-pp-pathetic-predator.json](./364479-pp-pathetic-predator.json) |
 | PQ: Practical Intelligence Quotient | 46019 | [46019-pq-practical-intelligence-quotient.json](./46019-pq-practical-intelligence-quotient.json) |
 | PQ: The Party Quiz Game | 94250 | [94250-pq-the-party-quiz-game.json](./94250-pq-the-party-quiz-game.json) |
+| Pragma Twice | 347714 | [347714-pragma-twice.json](./347714-pragma-twice.json) |
 | Pray Game | 167306 | [167306-pray-game.json](./167306-pray-game.json) |
 | Pre-RON MI5 Bob | 71007 | [71007-pre-ron-mi5-bob.json](./71007-pre-ron-mi5-bob.json) |
 | Precision Point VR | 270949 | [270949-precision-point-vr.json](./270949-precision-point-vr.json) |
