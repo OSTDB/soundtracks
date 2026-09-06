@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T05:33:27.688Z",
-  "total_missing": 35779,
+  "generated_at": "2026-09-06T05:48:11.812Z",
+  "total_missing": 35829,
   "games": [
     {
       "igdb_id": 306086,
@@ -1341,6 +1341,11 @@
       "igdb_id": 399632,
       "game_name": "3-in-1 Animated Jigsaws Bundle",
       "file": "missing/0-9/399632-3-in-1-animated-jigsaws-bundle.json"
+    },
+    {
+      "igdb_id": 354403,
+      "game_name": "3-Legged Race B",
+      "file": "missing/0-9/354403-3-legged-race-b.json"
     },
     {
       "igdb_id": 97110,
@@ -8338,6 +8343,16 @@
       "file": "missing/A/177567-animal-crackers.json"
     },
     {
+      "igdb_id": 354415,
+      "game_name": "Animal Crossing-e: Animal Crossing",
+      "file": "missing/A/354415-animal-crossing-e-animal-crossing.json"
+    },
+    {
+      "igdb_id": 354416,
+      "game_name": "Animal Crossing-e: PR - Design Card: NES Link",
+      "file": "missing/A/354416-animal-crossing-e-pr-design-card-nes-link.json"
+    },
+    {
       "igdb_id": 341895,
       "game_name": "Animal Crossing: City Folk Deluxe",
       "file": "missing/A/341895-animal-crossing-city-folk-deluxe.json"
@@ -10881,6 +10896,11 @@
       "igdb_id": 26721,
       "game_name": "Art of Guile",
       "file": "missing/A/26721-art-of-guile.json"
+    },
+    {
+      "igdb_id": 354421,
+      "game_name": "Art Puzzle",
+      "file": "missing/A/354421-art-puzzle.json"
     },
     {
       "igdb_id": 407346,
@@ -20798,6 +20818,11 @@
       "file": "missing/B/78677-bonkers.json"
     },
     {
+      "igdb_id": 354445,
+      "game_name": "Bonza Planet",
+      "file": "missing/B/354445-bonza-planet.json"
+    },
+    {
       "igdb_id": 90678,
       "game_name": "Bonza Word Puzzle",
       "file": "missing/B/90678-bonza-word-puzzle.json"
@@ -25323,6 +25348,11 @@
       "file": "missing/C/220341-cario.json"
     },
     {
+      "igdb_id": 354450,
+      "game_name": "Carious Weltling",
+      "file": "missing/C/354450-carious-weltling.json"
+    },
+    {
       "igdb_id": 229345,
       "game_name": "Carl Currency, Expert Exchanger",
       "file": "missing/C/229345-carl-currency-expert-exchanger.json"
@@ -27581,6 +27611,11 @@
       "igdb_id": 181398,
       "game_name": "Chicken Defense",
       "file": "missing/C/181398-chicken-defense.json"
+    },
+    {
+      "igdb_id": 354426,
+      "game_name": "Chicken Flight",
+      "file": "missing/C/354426-chicken-flight.json"
     },
     {
       "igdb_id": 206968,
@@ -33481,6 +33516,11 @@
       "igdb_id": 182508,
       "game_name": "Crosshollow Foundations",
       "file": "missing/C/182508-crosshollow-foundations.json"
+    },
+    {
+      "igdb_id": 354427,
+      "game_name": "Crossing Acheron",
+      "file": "missing/C/354427-crossing-acheron.json"
     },
     {
       "igdb_id": 66716,
@@ -40386,6 +40426,11 @@
       "igdb_id": 166749,
       "game_name": "Disaster Crisis",
       "file": "missing/D/166749-disaster-crisis.json"
+    },
+    {
+      "igdb_id": 354417,
+      "game_name": "Disbelief",
+      "file": "missing/D/354417-disbelief.json"
     },
     {
       "igdb_id": 365671,
@@ -48016,6 +48061,11 @@
       "igdb_id": 117075,
       "game_name": "Epic Food Fight VR",
       "file": "missing/E/117075-epic-food-fight-vr.json"
+    },
+    {
+      "igdb_id": 354404,
+      "game_name": "Epic Landscapes Jigsaw",
+      "file": "missing/E/354404-epic-landscapes-jigsaw.json"
     },
     {
       "igdb_id": 314632,
@@ -65403,6 +65453,11 @@
       "file": "missing/H/98443-happy-seasons.json"
     },
     {
+      "igdb_id": 354442,
+      "game_name": "Happy Sisters Life",
+      "file": "missing/H/354442-happy-sisters-life.json"
+    },
+    {
       "igdb_id": 362282,
       "game_name": "Happy Time",
       "file": "missing/H/362282-happy-time.json"
@@ -73146,6 +73201,11 @@
       "igdb_id": 83969,
       "game_name": "Indecision.",
       "file": "missing/I/83969-indecision.json"
+    },
+    {
+      "igdb_id": 354411,
+      "game_name": "Independence Day Resurgence: Battle Heroes",
+      "file": "missing/I/354411-independence-day-resurgence-battle-heroes.json"
     },
     {
       "igdb_id": 407345,
@@ -80903,6 +80963,11 @@
       "file": "missing/K/40226-koro-koro-quest.json"
     },
     {
+      "igdb_id": 354414,
+      "game_name": "Koro-san's Home Wan! Derby",
+      "file": "missing/K/354414-koro-sans-home-wan-derby.json"
+    },
+    {
       "igdb_id": 309105,
       "game_name": "Korobo",
       "file": "missing/K/309105-korobo.json"
@@ -86533,6 +86598,11 @@
       "file": "missing/L/159873-loving-you-fully.json"
     },
     {
+      "igdb_id": 354408,
+      "game_name": "Low Battery",
+      "file": "missing/L/354408-low-battery.json"
+    },
+    {
       "igdb_id": 48028,
       "game_name": "Low G Man: The Low Gravity Man",
       "file": "missing/L/48028-low-g-man-the-low-gravity-man.json"
@@ -87926,6 +87996,11 @@
       "igdb_id": 173817,
       "game_name": "Magical Girl Noble Rose",
       "file": "missing/M/173817-magical-girl-noble-rose.json"
+    },
+    {
+      "igdb_id": 354444,
+      "game_name": "Magical Girl Opal",
+      "file": "missing/M/354444-magical-girl-opal.json"
     },
     {
       "igdb_id": 406694,
@@ -95476,6 +95551,11 @@
       "igdb_id": 156160,
       "game_name": "Monkey King vs Transformers",
       "file": "missing/M/156160-monkey-king-vs-transformers.json"
+    },
+    {
+      "igdb_id": 354407,
+      "game_name": "Monkey Knife Fight",
+      "file": "missing/M/354407-monkey-knife-fight.json"
     },
     {
       "igdb_id": 367452,
@@ -103878,6 +103958,11 @@
       "file": "missing/N/270962-nude-and-afraid-11-day-challenge.json"
     },
     {
+      "igdb_id": 354410,
+      "game_name": "Nui Goes to Town!",
+      "file": "missing/N/354410-nui-goes-to-town.json"
+    },
+    {
       "igdb_id": 251242,
       "game_name": "Nuign Specter",
       "file": "missing/N/251242-nuign-specter.json"
@@ -110033,6 +110118,11 @@
       "file": "missing/P/270415-pengo.json"
     },
     {
+      "igdb_id": 354409,
+      "game_name": "Penguin Colony",
+      "file": "missing/P/354409-penguin-colony.json"
+    },
+    {
       "igdb_id": 302112,
       "game_name": "Penguin Helper",
       "file": "missing/P/302112-penguin-helper.json"
@@ -111693,6 +111783,11 @@
       "file": "missing/P/141861-pinball-arcade-season-2.json"
     },
     {
+      "igdb_id": 354432,
+      "game_name": "Pinball Breeze",
+      "file": "missing/P/354432-pinball-breeze.json"
+    },
+    {
       "igdb_id": 49361,
       "game_name": "Pinball Challenge Deluxe",
       "file": "missing/P/49361-pinball-challenge-deluxe.json"
@@ -111761,6 +111856,21 @@
       "igdb_id": 20544,
       "game_name": "Pinball FX2: Mars Table",
       "file": "missing/P/20544-pinball-fx2-mars-table.json"
+    },
+    {
+      "igdb_id": 354447,
+      "game_name": "Pinball FX2: Nightmare Mansion",
+      "file": "missing/P/354447-pinball-fx2-nightmare-mansion.json"
+    },
+    {
+      "igdb_id": 354446,
+      "game_name": "Pinball FX2: Pinball FX Classics",
+      "file": "missing/P/354446-pinball-fx2-pinball-fx-classics.json"
+    },
+    {
+      "igdb_id": 354448,
+      "game_name": "Pinball FX2: Rocky and Bullwinkle",
+      "file": "missing/P/354448-pinball-fx2-rocky-and-bullwinkle.json"
     },
     {
       "igdb_id": 325864,
@@ -139933,6 +140043,91 @@
       "file": "missing/S/175420-star-chindy.json"
     },
     {
+      "igdb_id": 354419,
+      "game_name": "Star Conflict: Custodian",
+      "file": "missing/S/354419-star-conflict-custodian.json"
+    },
+    {
+      "igdb_id": 354423,
+      "game_name": "Star Conflict: Empire Destroyer Vigilant",
+      "file": "missing/S/354423-star-conflict-empire-destroyer-vigilant.json"
+    },
+    {
+      "igdb_id": 354430,
+      "game_name": "Star Conflict: Federation Destroyer Sirius",
+      "file": "missing/S/354430-star-conflict-federation-destroyer-sirius.json"
+    },
+    {
+      "igdb_id": 354425,
+      "game_name": "Star Conflict: Fleet Strength - Razor",
+      "file": "missing/S/354425-star-conflict-fleet-strength-razor.json"
+    },
+    {
+      "igdb_id": 354418,
+      "game_name": "Star Conflict: Gungnir",
+      "file": "missing/S/354418-star-conflict-gungnir.json"
+    },
+    {
+      "igdb_id": 354435,
+      "game_name": "Star Conflict: Jericho destroyer Tyrant",
+      "file": "missing/S/354435-star-conflict-jericho-destroyer-tyrant.json"
+    },
+    {
+      "igdb_id": 354441,
+      "game_name": "Star Conflict: Mercenary Pack - Galaxy Explorer",
+      "file": "missing/S/354441-star-conflict-mercenary-pack-galaxy-explorer.json"
+    },
+    {
+      "igdb_id": 354429,
+      "game_name": "Star Conflict: Mercenary Pack - Soldier of Fortune",
+      "file": "missing/S/354429-star-conflict-mercenary-pack-soldier-of-fortune.json"
+    },
+    {
+      "igdb_id": 354433,
+      "game_name": "Star Conflict: Mole",
+      "file": "missing/S/354433-star-conflict-mole.json"
+    },
+    {
+      "igdb_id": 354434,
+      "game_name": "Star Conflict: Mole - Deluxe Edition",
+      "file": "missing/S/354434-star-conflict-mole-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 354438,
+      "game_name": "Star Conflict: Pilgrim",
+      "file": "missing/S/354438-star-conflict-pilgrim.json"
+    },
+    {
+      "igdb_id": 354440,
+      "game_name": "Star Conflict: Pirate Pack - Jolly Roger",
+      "file": "missing/S/354440-star-conflict-pirate-pack-jolly-roger.json"
+    },
+    {
+      "igdb_id": 354436,
+      "game_name": "Star Conflict: Pirate Weapons Pack",
+      "file": "missing/S/354436-star-conflict-pirate-weapons-pack.json"
+    },
+    {
+      "igdb_id": 354431,
+      "game_name": "Star Conflict: Raven",
+      "file": "missing/S/354431-star-conflict-raven.json"
+    },
+    {
+      "igdb_id": 354424,
+      "game_name": "Star Conflict: Starter Pack. Pterosaur",
+      "file": "missing/S/354424-star-conflict-starter-pack-pterosaur.json"
+    },
+    {
+      "igdb_id": 354422,
+      "game_name": "Star Conflict: Tornado",
+      "file": "missing/S/354422-star-conflict-tornado.json"
+    },
+    {
+      "igdb_id": 354439,
+      "game_name": "Star Conflict: Ze'Ta. - Deluxe Version",
+      "file": "missing/S/354439-star-conflict-zeta-deluxe-version.json"
+    },
+    {
       "igdb_id": 233737,
       "game_name": "Star Connect",
       "file": "missing/S/233737-star-connect.json"
@@ -140821,6 +141016,11 @@
       "igdb_id": 69889,
       "game_name": "Starship: Invasion",
       "file": "missing/S/69889-starship-invasion.json"
+    },
+    {
+      "igdb_id": 354428,
+      "game_name": "Starship: Turret Mode",
+      "file": "missing/S/354428-starship-turret-mode.json"
     },
     {
       "igdb_id": 72128,
@@ -169938,6 +170138,11 @@
       "file": "missing/V/415091-vivid.json"
     },
     {
+      "igdb_id": 354449,
+      "game_name": "Viviparous Dumpling",
+      "file": "missing/V/354449-viviparous-dumpling.json"
+    },
+    {
       "igdb_id": 67993,
       "game_name": "Viz: The Soft Floppy One",
       "file": "missing/V/67993-viz-the-soft-floppy-one.json"
@@ -173571,6 +173776,51 @@
       "igdb_id": 20713,
       "game_name": "Williams Arcade's Greatest Hits",
       "file": "missing/W/20713-williams-arcades-greatest-hits.json"
+    },
+    {
+      "igdb_id": 354452,
+      "game_name": "Williams Pinball: Attack from Mars",
+      "file": "missing/W/354452-williams-pinball-attack-from-mars.json"
+    },
+    {
+      "igdb_id": 354456,
+      "game_name": "Williams Pinball: Black Rose",
+      "file": "missing/W/354456-williams-pinball-black-rose.json"
+    },
+    {
+      "igdb_id": 354451,
+      "game_name": "Williams Pinball: Fish Tales",
+      "file": "missing/W/354451-williams-pinball-fish-tales.json"
+    },
+    {
+      "igdb_id": 354454,
+      "game_name": "Williams Pinball: Junk Yard Table",
+      "file": "missing/W/354454-williams-pinball-junk-yard-table.json"
+    },
+    {
+      "igdb_id": 354455,
+      "game_name": "Williams Pinball: Medieval Madness",
+      "file": "missing/W/354455-williams-pinball-medieval-madness.json"
+    },
+    {
+      "igdb_id": 354457,
+      "game_name": "Williams Pinball: Party Zone",
+      "file": "missing/W/354457-williams-pinball-party-zone.json"
+    },
+    {
+      "igdb_id": 354459,
+      "game_name": "Williams Pinball: The Champion Pub",
+      "file": "missing/W/354459-williams-pinball-the-champion-pub.json"
+    },
+    {
+      "igdb_id": 354453,
+      "game_name": "Williams Pinball: The Getaway - High Speed II",
+      "file": "missing/W/354453-williams-pinball-the-getaway-high-speed-ii.json"
+    },
+    {
+      "igdb_id": 354458,
+      "game_name": "Williams Pinball: Theatre of Magic",
+      "file": "missing/W/354458-williams-pinball-theatre-of-magic.json"
     },
     {
       "igdb_id": 179746,
