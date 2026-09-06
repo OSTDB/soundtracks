@@ -1054,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes: Crimes & Punishments | 5541 | [5541-sherlock-holmes-crimes-and-punishments.json](./5541-sherlock-holmes-crimes-and-punishments.json) |
 | Sherlock Holmes: The Awakened | 212664 | [212664-sherlock-holmes-the-awakened.json](./212664-sherlock-holmes-the-awakened.json) |
 | Sherlock Horse's Horror Academy | 125468 | [125468-sherlock-horses-horror-academy.json](./125468-sherlock-horses-horror-academy.json) |
+| Sherlock Purr 2: Deluxe Edition | 314890 | [314890-sherlock-purr-2-deluxe-edition.json](./314890-sherlock-purr-2-deluxe-edition.json) |
 | Sherlock Purr: Extended Edition | 243369 | [243369-sherlock-purr-extended-edition.json](./243369-sherlock-purr-extended-edition.json) |
 | Sherman Commander | 155650 | [155650-sherman-commander.json](./155650-sherman-commander.json) |
 | Sherwood Forest | 24936 | [24936-sherwood-forest.json](./24936-sherwood-forest.json) |
@@ -2259,6 +2260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Sky Chase Zone | 339670 | [339670-sonic-sky-chase-zone.json](./339670-sonic-sky-chase-zone.json) |
 | Sonic Skywind: Episode II | 327000 | [327000-sonic-skywind-episode-ii.json](./327000-sonic-skywind-episode-ii.json) |
 | Sonic Small World | 332453 | [332453-sonic-small-world.json](./332453-sonic-small-world.json) |
+| Sonic Souls | 314901 | [314901-sonic-souls.json](./314901-sonic-souls.json) |
 | Sonic Spectacle | 336358 | [336358-sonic-spectacle.json](./336358-sonic-spectacle.json) |
 | Sonic Speed | 336356 | [336356-sonic-speed.json](./336356-sonic-speed.json) |
 | Sonic Speed Blast | 330708 | [330708-sonic-speed-blast.json](./330708-sonic-speed-blast.json) |
@@ -2276,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic The Hedgehog 2: Archives | 332835 | [332835-sonic-the-hedgehog-2-archives.json](./332835-sonic-the-hedgehog-2-archives.json) |
 | Sonic the Hedgehog 2: Gear Shift | 321394 | [321394-sonic-the-hedgehog-2-gear-shift.json](./321394-sonic-the-hedgehog-2-gear-shift.json) |
 | Sonic the Hedgehog 2: Pink Edition | 43319 | [43319-sonic-the-hedgehog-2-pink-edition.json](./43319-sonic-the-hedgehog-2-pink-edition.json) |
+| Sonic The Hedgehog 2D | 314902 | [314902-sonic-the-hedgehog-2d.json](./314902-sonic-the-hedgehog-2d.json) |
 | Sonic the Hedgehog DVD | 334139 | [334139-sonic-the-hedgehog-dvd.json](./334139-sonic-the-hedgehog-dvd.json) |
 | Sonic the Hedgehog Extreme Boarding | 198563 | [198563-sonic-the-hedgehog-extreme-boarding.json](./198563-sonic-the-hedgehog-extreme-boarding.json) |
 | Sonic the Hedgehog Golf | 197369 | [197369-sonic-the-hedgehog-golf.json](./197369-sonic-the-hedgehog-golf.json) |
@@ -4269,6 +4272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket CEO Simulator | 335949 | [335949-supermarket-ceo-simulator.json](./335949-supermarket-ceo-simulator.json) |
 | Supermarket CEO Simulator VR | 335950 | [335950-supermarket-ceo-simulator-vr.json](./335950-supermarket-ceo-simulator-vr.json) |
 | Supermarket Manager | 218686 | [218686-supermarket-manager.json](./218686-supermarket-manager.json) |
+| Supermarket Manager Simulator | 314863 | [314863-supermarket-manager-simulator.json](./314863-supermarket-manager-simulator.json) |
 | Supermarket Simulator 2026 | 378772 | [378772-supermarket-simulator-2026.json](./378772-supermarket-simulator-2026.json) |
 | Supermarket Simulator 2026 | 399602 | [399602-supermarket-simulator-2026.json](./399602-supermarket-simulator-2026.json) |
 | Supermarket Together | 311540 | [311540-supermarket-together.json](./311540-supermarket-together.json) |
