@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamori no Picross 7/14 | 369033 | [369033-tamori-no-picross-7-14.json](./369033-tamori-no-picross-7-14.json) |
 | Tampon Trawl | 184123 | [184123-tampon-trawl.json](./184123-tampon-trawl.json) |
 | Tampopo | 317004 | [317004-tampopo.json](./317004-tampopo.json) |
+| Tanat Online | 366226 | [366226-tanat-online.json](./366226-tanat-online.json) |
 | Tang Dynasty Architecture | 275341 | [275341-tang-dynasty-architecture.json](./275341-tang-dynasty-architecture.json) |
 | Tángdì zhī Huá | 394820 | [394820-tangdi-zhi-hua.json](./394820-tangdi-zhi-hua.json) |
 | Tangerine Clicker | 247212 | [247212-tangerine-clicker.json](./247212-tangerine-clicker.json) |
@@ -330,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Task Force Harrier | 40248 | [40248-task-force-harrier.json](./40248-task-force-harrier.json) |
 | Task III | 55150 | [55150-task-iii.json](./55150-task-iii.json) |
 | Tasogare | 313493 | [313493-tasogare.json](./313493-tasogare.json) |
+| Taste of the Wind | 366249 | [366249-taste-of-the-wind.json](./366249-taste-of-the-wind.json) |
 | Tasty Love | 192453 | [192453-tasty-love.json](./192453-tasty-love.json) |
 | Tasty Planet: Back for Seconds | 33469 | [33469-tasty-planet-back-for-seconds.json](./33469-tasty-planet-back-for-seconds.json) |
 | Tasty Ramen | 176503 | [176503-tasty-ramen.json](./176503-tasty-ramen.json) |
@@ -342,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Rumble: Roguelike Card | 256517 | [256517-tavern-rumble-roguelike-card.json](./256517-tavern-rumble-roguelike-card.json) |
 | Tavernier | 31587 | [31587-tavernier.json](./31587-tavernier.json) |
 | Taxi By Night | 184653 | [184653-taxi-by-night.json](./184653-taxi-by-night.json) |
+| Taxi Driver Simulator | 366222 | [366222-taxi-driver-simulator.json](./366222-taxi-driver-simulator.json) |
 | Taxi in the Rain | 150177 | [150177-taxi-in-the-rain.json](./150177-taxi-in-the-rain.json) |
 | Taxi Life: A City Driving Simulator | 215898 | [215898-taxi-life-a-city-driving-simulator.json](./215898-taxi-life-a-city-driving-simulator.json) |
 | Taxi Life: Supporter Pack | 293400 | [293400-taxi-life-supporter-pack.json](./293400-taxi-life-supporter-pack.json) |
@@ -1109,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Floor is Breathing | 229356 | [229356-the-floor-is-breathing.json](./229356-the-floor-is-breathing.json) |
 | The Floor Is Really Cheap Lava | 115042 | [115042-the-floor-is-really-cheap-lava.json](./115042-the-floor-is-really-cheap-lava.json) |
 | The Flying Feathers | 247768 | [247768-the-flying-feathers.json](./247768-the-flying-feathers.json) |
+| The Flying Jet | 366223 | [366223-the-flying-jet.json](./366223-the-flying-jet.json) |
 | The Fog | 391047 | [391047-the-fog.json](./391047-the-fog.json) |
 | The Fog Fall | 383351 | [383351-the-fog-fall.json](./383351-the-fog-fall.json) |
 | The Fool | 302676 | [302676-the-fool.json](./302676-the-fool.json) |
@@ -1323,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Orange 3 | 373563 | [373563-the-jumping-orange-3.json](./373563-the-jumping-orange-3.json) |
 | The Jumping Taco | 205240 | [205240-the-jumping-taco.json](./205240-the-jumping-taco.json) |
 | The Kaiju Offensive | 117097 | [117097-the-kaiju-offensive.json](./117097-the-kaiju-offensive.json) |
+| The Kangaroo Conspiracy DX | 366224 | [366224-the-kangaroo-conspiracy-dx.json](./366224-the-kangaroo-conspiracy-dx.json) |
 | The Keep | 146340 | [146340-the-keep.json](./146340-the-keep.json) |
 | The Kindeman Remedy | 244499 | [244499-the-kindeman-remedy.json](./244499-the-kindeman-remedy.json) |
 | The King in the Shades | 259852 | [259852-the-king-in-the-shades.json](./259852-the-king-in-the-shades.json) |
@@ -2815,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Steal the Meal | 228100 | [228100-tom-steal-the-meal.json](./228100-tom-steal-the-meal.json) |
 | Tomato Jones | 32370 | [32370-tomato-jones.json](./32370-tomato-jones.json) |
 | Tomato Jones - Episode 3 | 83542 | [83542-tomato-jones-episode-3.json](./83542-tomato-jones-episode-3.json) |
+| Tomb Boom | 366232 | [366232-tomb-boom.json](./366232-tomb-boom.json) |
 | Tomb Guard VR | 28874 | [28874-tomb-guard-vr.json](./28874-tomb-guard-vr.json) |
 | Tomb Joe | 29874 | [29874-tomb-joe.json](./29874-tomb-joe.json) |
 | Tomb of Friends | 249468 | [249468-tomb-of-friends.json](./249468-tomb-of-friends.json) |
@@ -3406,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinoline | 116366 | [116366-trinoline.json](./116366-trinoline.json) |
 | Trio the Punch | 292851 | [292851-trio-the-punch.json](./292851-trio-the-punch.json) |
 | Trios | 129220 | [129220-trios.json](./129220-trios.json) |
+| Trip Movie /Mosaic: Shounen Alice Satsujin Jiken | 366243 | [366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json](./366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json) |
 | Trip's Voyage: Gem Rush | 309122 | [309122-trips-voyage-gem-rush.json](./309122-trips-voyage-gem-rush.json) |
 | Triple Action | 5709 | [5709-triple-action.json](./5709-triple-action.json) |
 | Triple Agent! | 75144 | [75144-triple-agent.json](./75144-triple-agent.json) |
