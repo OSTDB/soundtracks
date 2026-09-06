@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawapuro Stadium | 63285 | [63285-pawapuro-stadium.json](./63285-pawapuro-stadium.json) |
 | Pawapuro-kun Pocket 12 | 229923 | [229923-pawapuro-kun-pocket-12.json](./229923-pawapuro-kun-pocket-12.json) |
 | Pawapuro-kun Pocket R | 152368 | [152368-pawapuro-kun-pocket-r.json](./152368-pawapuro-kun-pocket-r.json) |
+| Pawfect Cat Mansion | 314862 | [314862-pawfect-cat-mansion.json](./314862-pawfect-cat-mansion.json) |
 | Pawn of the Dead | 107909 | [107909-pawn-of-the-dead.json](./107909-pawn-of-the-dead.json) |
 | Pawn Shop Simulator | 208605 | [208605-pawn-shop-simulator.json](./208605-pawn-shop-simulator.json) |
 | Pawnholm | 292302 | [292302-pawnholm.json](./292302-pawnholm.json) |
@@ -1590,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Solenoid | 251845 | [251845-power-solenoid.json](./251845-power-solenoid.json) |
 | Powerama | 60582 | [60582-powerama.json](./60582-powerama.json) |
 | Powercity 9000 | 26634 | [26634-powercity-9000.json](./26634-powercity-9000.json) |
+| Powered Platformer Bundle | 314861 | [314861-powered-platformer-bundle.json](./314861-powered-platformer-bundle.json) |
 | Powerful Wind, Slicked-back Hair, But It’s a Game | 393484 | [393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json](./393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json) |
 | PowerHits: BattleTech | 69864 | [69864-powerhits-battletech.json](./69864-powerhits-battletech.json) |
 | Powerline.io | 191257 | [191257-powerline-io.json](./191257-powerline-io.json) |
