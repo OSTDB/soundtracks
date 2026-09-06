@@ -895,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Pong Trick Shot Evolution | 115059 | [115059-ping-pong-trick-shot-evolution.json](./115059-ping-pong-trick-shot-evolution.json) |
 | Ping Redux | 119797 | [119797-ping-redux.json](./119797-ping-redux.json) |
 | Ping! | 79906 | [79906-ping.json](./79906-ping.json) |
+| Pingcheng Chronicles | 316650 | [316650-pingcheng-chronicles.json](./316650-pingcheng-chronicles.json) |
 | Pinging | 255976 | [255976-pinging.json](./255976-pinging.json) |
 | PingPong Kings VR | 89256 | [89256-pingpong-kings-vr.json](./89256-pingpong-kings-vr.json) |
 | Pingwinek Kelvin | 142495 | [142495-pingwinek-kelvin.json](./142495-pingwinek-kelvin.json) |
@@ -1317,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Fuso's Meteor | 359983 | [359983-pokemon-fusos-meteor.json](./359983-pokemon-fusos-meteor.json) |
 | Pokémon Gadir | 232692 | [232692-pokemon-gadir.json](./232692-pokemon-gadir.json) |
 | Pokémon Go: Dual Destiny | 323177 | [323177-pokemon-go-dual-destiny.json](./323177-pokemon-go-dual-destiny.json) |
+| Pokémon Go: Max Out | 316620 | [316620-pokemon-go-max-out.json](./316620-pokemon-go-max-out.json) |
 | Pokémon Go: Might and Mastery | 333565 | [333565-pokemon-go-might-and-mastery.json](./333565-pokemon-go-might-and-mastery.json) |
 | Pokemon HG/SS Golden Edition | 334655 | [334655-pokemon-hg-ss-golden-edition.json](./334655-pokemon-hg-ss-golden-edition.json) |
 | Pokémon Island | 202405 | [202405-pokemon-island.json](./202405-pokemon-island.json) |
@@ -1974,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim | 338006 | [338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json](./338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json) |
 | Psycho Simulator | 389465 | [389465-psycho-simulator.json](./389465-psycho-simulator.json) |
 | Psycho-Nics Oscar | 55193 | [55193-psycho-nics-oscar.json](./55193-psycho-nics-oscar.json) |
+| PsychoCudgel | 316641 | [316641-psychocudgel.json](./316641-psychocudgel.json) |
 | Psycholytic | 348235 | [348235-psycholytic.json](./348235-psycholytic.json) |
 | Psychomachia | 291218 | [291218-psychomachia.json](./291218-psychomachia.json) |
 | Psychosomnium | 84249 | [84249-psychosomnium.json](./84249-psychosomnium.json) |
