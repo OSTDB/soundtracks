@@ -783,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Time In Paris: Collector's Edition | 209143 | [209143-first-time-in-paris-collectors-edition.json](./209143-first-time-in-paris-collectors-edition.json) |
 | First Winter | 97027 | [97027-first-winter.json](./97027-first-winter.json) |
 | Fiscal Jesters | 176509 | [176509-fiscal-jesters.json](./176509-fiscal-jesters.json) |
+| Fish | 314298 | [314298-fish.json](./314298-fish.json) |
 | Fish | 382202 | [382202-fish.json](./382202-fish.json) |
 | Fish Catcher | 105374 | [105374-fish-catcher.json](./105374-fish-catcher.json) |
 | Fish Duel | 109686 | [109686-fish-duel.json](./109686-fish-duel.json) |
@@ -999,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flixy Cats | 165034 | [165034-flixy-cats.json](./165034-flixy-cats.json) |
 | Floating Cloud God: Anniversary Edition | 225881 | [225881-floating-cloud-god-anniversary-edition.json](./225881-floating-cloud-god-anniversary-edition.json) |
 | Floating with Spirits | 383368 | [383368-floating-with-spirits.json](./383368-floating-with-spirits.json) |
+| Floatopia | 314274 | [314274-floatopia.json](./314274-floatopia.json) |
 | Floaty Fighters | 123041 | [123041-floaty-fighters.json](./123041-floaty-fighters.json) |
 | Flood | 320187 | [320187-flood.json](./320187-flood.json) |
 | Flood Descendance | 355024 | [355024-flood-descendance.json](./355024-flood-descendance.json) |
