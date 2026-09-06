@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Slime Dungeon | 321754 | [321754-infinity-slime-dungeon.json](./321754-infinity-slime-dungeon.json) |
 | Infinity war | 167816 | [167816-infinity-war.json](./167816-infinity-war.json) |
 | Infinity Wars: Animated Trading Card Game | 16732 | [16732-infinity-wars-animated-trading-card-game.json](./16732-infinity-wars-animated-trading-card-game.json) |
+| Infinos Exa | 316072 | [316072-infinos-exa.json](./316072-infinos-exa.json) |
 | Informe Zenteno | 322947 | [322947-informe-zenteno.json](./322947-informe-zenteno.json) |
 | Infra: Underground | 255360 | [255360-infra-underground.json](./255360-infra-underground.json) |
 | Inglorious Waifu VS Nazi Zombies | 156163 | [156163-inglorious-waifu-vs-nazi-zombies.json](./156163-inglorious-waifu-vs-nazi-zombies.json) |
@@ -859,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itadaki Street 2: Neon Sign ha Bara Iro ni | 38345 | [38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json](./38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json) |
 | Italy 1990 | 85520 | [85520-italy-1990.json](./85520-italy-1990.json) |
 | Itch! | 143745 | [143745-itch.json](./143745-itch.json) |
+| Iter-8 | 316071 | [316071-iter-8.json](./316071-iter-8.json) |
 | IterativeCollapse | 365098 | [365098-iterativecollapse.json](./365098-iterativecollapse.json) |
 | Iteriba: Olokun's Wrath | 255355 | [255355-iteriba-olokuns-wrath.json](./255355-iteriba-olokuns-wrath.json) |
 | Iterria Zone | 171609 | [171609-iterria-zone.json](./171609-iterria-zone.json) |
