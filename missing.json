@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T04:48:14.132Z",
-  "total_missing": 35629,
+  "generated_at": "2026-09-06T05:03:17.134Z",
+  "total_missing": 35679,
   "games": [
     {
       "igdb_id": 306086,
@@ -3558,6 +3558,11 @@
       "file": "missing/A/376472-abyss-backrooms-pools-horror-vr.json"
     },
     {
+      "igdb_id": 356070,
+      "game_name": "Abyss: House",
+      "file": "missing/A/356070-abyss-house.json"
+    },
+    {
       "igdb_id": 17136,
       "game_name": "Abyss: The Wraiths of Eden",
       "file": "missing/A/17136-abyss-the-wraiths-of-eden.json"
@@ -4348,6 +4353,11 @@
       "file": "missing/A/84867-adventure-labyrinth-story.json"
     },
     {
+      "igdb_id": 356071,
+      "game_name": "Adventure Learning Inside Humans",
+      "file": "missing/A/356071-adventure-learning-inside-humans.json"
+    },
+    {
       "igdb_id": 301597,
       "game_name": "Adventure Of Baldero I and II",
       "file": "missing/A/301597-adventure-of-baldero-i-and-ii.json"
@@ -4621,6 +4631,11 @@
       "igdb_id": 173794,
       "game_name": "Aery Series Bundle",
       "file": "missing/A/173794-aery-series-bundle.json"
+    },
+    {
+      "igdb_id": 356072,
+      "game_name": "Aery VR: Little Bird Adventure",
+      "file": "missing/A/356072-aery-vr-little-bird-adventure.json"
     },
     {
       "igdb_id": 145645,
@@ -25683,6 +25698,11 @@
       "file": "missing/C/46645-castle-adventure.json"
     },
     {
+      "igdb_id": 356074,
+      "game_name": "Castle Cat 3",
+      "file": "missing/C/356074-castle-cat-3.json"
+    },
+    {
       "igdb_id": 105908,
       "game_name": "Castle Creeps Battle",
       "file": "missing/C/105908-castle-creeps-battle.json"
@@ -26881,6 +26901,11 @@
       "igdb_id": 152903,
       "game_name": "Changes",
       "file": "missing/C/152903-changes.json"
+    },
+    {
+      "igdb_id": 356111,
+      "game_name": "Channel Surfing",
+      "file": "missing/C/356111-channel-surfing.json"
     },
     {
       "igdb_id": 12525,
@@ -30071,6 +30096,11 @@
       "igdb_id": 113005,
       "game_name": "Coldfall",
       "file": "missing/C/113005-coldfall.json"
+    },
+    {
+      "igdb_id": 356110,
+      "game_name": "Coldplay Canoodlers",
+      "file": "missing/C/356110-coldplay-canoodlers.json"
     },
     {
       "igdb_id": 414316,
@@ -33446,6 +33476,11 @@
       "igdb_id": 129812,
       "game_name": "Crown of Arthain",
       "file": "missing/C/129812-crown-of-arthain.json"
+    },
+    {
+      "igdb_id": 356113,
+      "game_name": "Crown of the Empire: Timeloop - Collector's Edition",
+      "file": "missing/C/356113-crown-of-the-empire-timeloop-collectors-edition.json"
     },
     {
       "igdb_id": 96714,
@@ -38766,6 +38801,11 @@
       "igdb_id": 74433,
       "game_name": "Derpy Dinos",
       "file": "missing/D/74433-derpy-dinos.json"
+    },
+    {
+      "igdb_id": 356078,
+      "game_name": "Derpy Fish",
+      "file": "missing/D/356078-derpy-fish.json"
     },
     {
       "igdb_id": 17187,
@@ -46853,6 +46893,31 @@
       "file": "missing/E/175426-ellie-and-max.json"
     },
     {
+      "igdb_id": 356106,
+      "game_name": "Ellie's Farm 2: African Adventures - Collector's Edition",
+      "file": "missing/E/356106-ellies-farm-2-african-adventures-collectors-edition.json"
+    },
+    {
+      "igdb_id": 356103,
+      "game_name": "Ellie's Farm 3: Flood Proofing - Collector's Edition",
+      "file": "missing/E/356103-ellies-farm-3-flood-proofing-collectors-edition.json"
+    },
+    {
+      "igdb_id": 356104,
+      "game_name": "Ellie's Farm 4: Guardians of the Wild - Collector's Edition",
+      "file": "missing/E/356104-ellies-farm-4-guardians-of-the-wild-collectors-edition.json"
+    },
+    {
+      "igdb_id": 356102,
+      "game_name": "Ellie's Farm 5: Long Journey - Collector's Edition",
+      "file": "missing/E/356102-ellies-farm-5-long-journey-collectors-edition.json"
+    },
+    {
+      "igdb_id": 356105,
+      "game_name": "Ellie's Farm: Forest Fires - Collector's Edition",
+      "file": "missing/E/356105-ellies-farm-forest-fires-collectors-edition.json"
+    },
+    {
       "igdb_id": 21033,
       "game_name": "Elminage Original",
       "file": "missing/E/21033-elminage-original.json"
@@ -50196,6 +50261,11 @@
       "igdb_id": 196314,
       "game_name": "Fail Factory!",
       "file": "missing/F/196314-fail-factory.json"
+    },
+    {
+      "igdb_id": 356064,
+      "game_name": "Fail World",
+      "file": "missing/F/356064-fail-world.json"
     },
     {
       "igdb_id": 101534,
@@ -53598,6 +53668,11 @@
       "file": "missing/F/364504-fishing-time.json"
     },
     {
+      "igdb_id": 356076,
+      "game_name": "Fishing Tycoon Simulator",
+      "file": "missing/F/356076-fishing-tycoon-simulator.json"
+    },
+    {
       "igdb_id": 114416,
       "game_name": "Fishing Universe Simulator",
       "file": "missing/F/114416-fishing-universe-simulator.json"
@@ -56976,6 +57051,11 @@
       "igdb_id": 319390,
       "game_name": "Frontier Legends",
       "file": "missing/F/319390-frontier-legends.json"
+    },
+    {
+      "igdb_id": 356075,
+      "game_name": "Frontier Mech: Ash Walkers",
+      "file": "missing/F/356075-frontier-mech-ash-walkers.json"
     },
     {
       "igdb_id": 2953,
@@ -67703,6 +67783,11 @@
       "file": "missing/H/413606-hexcrawl.json"
     },
     {
+      "igdb_id": 356115,
+      "game_name": "Hexed Time",
+      "file": "missing/H/356115-hexed-time.json"
+    },
+    {
       "igdb_id": 415118,
       "game_name": "Hexgarden",
       "file": "missing/H/415118-hexgarden.json"
@@ -72516,6 +72601,11 @@
       "igdb_id": 339091,
       "game_name": "Impartial",
       "file": "missing/I/339091-impartial.json"
+    },
+    {
+      "igdb_id": 356069,
+      "game_name": "Imperator: Invictus",
+      "file": "missing/I/356069-imperator-invictus.json"
     },
     {
       "igdb_id": 358297,
@@ -80118,6 +80208,11 @@
       "file": "missing/K/330519-knight-hero-2-revenge-idle-rpg.json"
     },
     {
+      "igdb_id": 356114,
+      "game_name": "Knight in Time",
+      "file": "missing/K/356114-knight-in-time.json"
+    },
+    {
       "igdb_id": 191885,
       "game_name": "Knight of the Living Dead",
       "file": "missing/K/191885-knight-of-the-living-dead.json"
@@ -86791,6 +86886,11 @@
       "igdb_id": 247198,
       "game_name": "M Hold'em",
       "file": "missing/M/247198-m-holdem.json"
+    },
+    {
+      "igdb_id": 356108,
+      "game_name": "M. Stain",
+      "file": "missing/M/356108-m-stain.json"
     },
     {
       "igdb_id": 90645,
@@ -98768,6 +98868,11 @@
       "file": "missing/M/32216-mystic-diary-lost-brother.json"
     },
     {
+      "igdb_id": 356077,
+      "game_name": "Mystic Fishing: A Fantasy Fishing RPG",
+      "file": "missing/M/356077-mystic-fishing-a-fantasy-fishing-rpg.json"
+    },
+    {
       "igdb_id": 226424,
       "game_name": "Mystic Forest",
       "file": "missing/M/226424-mystic-forest.json"
@@ -99991,6 +100096,16 @@
       "igdb_id": 42030,
       "game_name": "Nectaris",
       "file": "missing/N/42030-nectaris.json"
+    },
+    {
+      "igdb_id": 356109,
+      "game_name": "Nectaris Cellular",
+      "file": "missing/N/356109-nectaris-cellular.json"
+    },
+    {
+      "igdb_id": 356101,
+      "game_name": "Nectaris: Military Madness",
+      "file": "missing/N/356101-nectaris-military-madness.json"
     },
     {
       "igdb_id": 67288,
@@ -108563,6 +108678,11 @@
       "file": "missing/P/206351-paragon-pioneers.json"
     },
     {
+      "igdb_id": 356065,
+      "game_name": "Paragon Sex A Doll",
+      "file": "missing/P/356065-paragon-sex-a-doll.json"
+    },
+    {
       "igdb_id": 292841,
       "game_name": "Parallax",
       "file": "missing/P/292841-parallax.json"
@@ -111646,6 +111766,11 @@
       "igdb_id": 192980,
       "game_name": "Pipeline RTX",
       "file": "missing/P/192980-pipeline-rtx.json"
+    },
+    {
+      "igdb_id": 356068,
+      "game_name": "Piper",
+      "file": "missing/P/356068-piper.json"
     },
     {
       "igdb_id": 57701,
@@ -146328,14 +146453,54 @@
       "file": "missing/S/372492-synth-riders.json"
     },
     {
+      "igdb_id": 356085,
+      "game_name": "Synth Riders: Bad Religion - \"21st Century (Digital Boy)\"",
+      "file": "missing/S/356085-synth-riders-bad-religion-21st-century-digital-boy.json"
+    },
+    {
+      "igdb_id": 356079,
+      "game_name": "Synth Riders: Bruno Mars - \"Runaway Baby\"",
+      "file": "missing/S/356079-synth-riders-bruno-mars-runaway-baby.json"
+    },
+    {
+      "igdb_id": 356082,
+      "game_name": "Synth Riders: Lindsey Stirling - \"Mirage\"",
+      "file": "missing/S/356082-synth-riders-lindsey-stirling-mirage.json"
+    },
+    {
       "igdb_id": 382180,
       "game_name": "Synth Riders: Monstercat Music Pack",
       "file": "missing/S/382180-synth-riders-monstercat-music-pack.json"
     },
     {
+      "igdb_id": 356083,
+      "game_name": "Synth Riders: Muse - \"Pressure\"",
+      "file": "missing/S/356083-synth-riders-muse-pressure.json"
+    },
+    {
+      "igdb_id": 356116,
+      "game_name": "Synth Riders: Silk Sonic - \"Skate\"",
+      "file": "missing/S/356116-synth-riders-silk-sonic-skate.json"
+    },
+    {
+      "igdb_id": 356080,
+      "game_name": "Synth Riders: Starcadian - \"New Cydonia\"",
+      "file": "missing/S/356080-synth-riders-starcadian-new-cydonia.json"
+    },
+    {
+      "igdb_id": 356084,
+      "game_name": "Synth Riders: Swingrowers - \"Butterfly\"",
+      "file": "missing/S/356084-synth-riders-swingrowers-butterfly.json"
+    },
+    {
       "igdb_id": 382181,
       "game_name": "Synth Riders: Synthwave Essentials 3 Music Pack",
       "file": "missing/S/382181-synth-riders-synthwave-essentials-3-music-pack.json"
+    },
+    {
+      "igdb_id": 356081,
+      "game_name": "Synth Riders: The Midnight - \"Sunset\"",
+      "file": "missing/S/356081-synth-riders-the-midnight-sunset.json"
     },
     {
       "igdb_id": 151188,
@@ -146813,14 +146978,74 @@
       "file": "missing/T/123620-taiko-no-tatsujin-ongaku-lesson.json"
     },
     {
+      "igdb_id": 356089,
+      "game_name": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 1",
+      "file": "missing/T/356089-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-1.json"
+    },
+    {
+      "igdb_id": 356090,
+      "game_name": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 2",
+      "file": "missing/T/356090-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-2.json"
+    },
+    {
+      "igdb_id": 356091,
+      "game_name": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 3",
+      "file": "missing/T/356091-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-3.json"
+    },
+    {
+      "igdb_id": 356097,
+      "game_name": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 4",
+      "file": "missing/T/356097-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-4.json"
+    },
+    {
+      "igdb_id": 356098,
+      "game_name": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 5",
+      "file": "missing/T/356098-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-5.json"
+    },
+    {
       "igdb_id": 376440,
       "game_name": "Taiko no Tatsujin: Rhythm Festival - Classical Pack",
       "file": "missing/T/376440-taiko-no-tatsujin-rhythm-festival-classical-pack.json"
     },
     {
+      "igdb_id": 356092,
+      "game_name": "Taiko no Tatsujin: Rhythm Festival - Hatsune Miku Pack Vol. 1",
+      "file": "missing/T/356092-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-1.json"
+    },
+    {
+      "igdb_id": 356093,
+      "game_name": "Taiko no Tatsujin: Rhythm Festival - Hatsune Miku Pack Vol. 2",
+      "file": "missing/T/356093-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-2.json"
+    },
+    {
+      "igdb_id": 356094,
+      "game_name": "Taiko no Tatsujin: Rhythm Festival - Hatsune Miku Pack Vol. 3",
+      "file": "missing/T/356094-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-3.json"
+    },
+    {
+      "igdb_id": 356095,
+      "game_name": "Taiko no Tatsujin: Rhythm Festival - Hatsune Miku Pack Vol. 4",
+      "file": "missing/T/356095-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-4.json"
+    },
+    {
+      "igdb_id": 356096,
+      "game_name": "Taiko no Tatsujin: Rhythm Festival - Hatsune Miku Pack Vol. 5",
+      "file": "missing/T/356096-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-5.json"
+    },
+    {
       "igdb_id": 376441,
       "game_name": "Taiko no Tatsujin: Rhythm Festival - Kawaii Pop Idol Pack",
       "file": "missing/T/376441-taiko-no-tatsujin-rhythm-festival-kawaii-pop-idol-pack.json"
+    },
+    {
+      "igdb_id": 356086,
+      "game_name": "Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 1",
+      "file": "missing/T/356086-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-1.json"
+    },
+    {
+      "igdb_id": 356087,
+      "game_name": "Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 2",
+      "file": "missing/T/356087-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-2.json"
     },
     {
       "igdb_id": 188551,
@@ -147846,6 +148071,11 @@
       "igdb_id": 150118,
       "game_name": "Tantei Toki to Yukiyama Kaishi Densetsu Satsujin Jiken",
       "file": "missing/T/150118-tantei-toki-to-yukiyama-kaishi-densetsu-satsujin-jiken.json"
+    },
+    {
+      "igdb_id": 356073,
+      "game_name": "Tanteidan X",
+      "file": "missing/T/356073-tanteidan-x.json"
     },
     {
       "igdb_id": 274220,
@@ -161798,6 +162028,11 @@
       "file": "missing/T/380424-touhou-witchs-night-market.json"
     },
     {
+      "igdb_id": 356088,
+      "game_name": "Touhou: Fearless Frogslayer",
+      "file": "missing/T/356088-touhou-fearless-frogslayer.json"
+    },
+    {
       "igdb_id": 209140,
       "game_name": "Touhou: Heart of the Tiger",
       "file": "missing/T/209140-touhou-heart-of-the-tiger.json"
@@ -164911,6 +165146,11 @@
       "igdb_id": 180291,
       "game_name": "Twin Shot 2: Good & Evil",
       "file": "missing/T/180291-twin-shot-2-good-and-evil.json"
+    },
+    {
+      "igdb_id": 356067,
+      "game_name": "Twin Soul",
+      "file": "missing/T/356067-twin-soul.json"
     },
     {
       "igdb_id": 141875,
@@ -169178,6 +169418,11 @@
       "file": "missing/V/80590-visualizer.json"
     },
     {
+      "igdb_id": 356112,
+      "game_name": "Vita: The Ember Oracle",
+      "file": "missing/V/356112-vita-the-ember-oracle.json"
+    },
+    {
       "igdb_id": 62188,
       "game_name": "Vital Force",
       "file": "missing/V/62188-vital-force.json"
@@ -170466,6 +170711,11 @@
       "igdb_id": 53884,
       "game_name": "War of the Human Tanks - Complete Collection",
       "file": "missing/W/53884-war-of-the-human-tanks-complete-collection.json"
+    },
+    {
+      "igdb_id": 356066,
+      "game_name": "War of the Ring",
+      "file": "missing/W/356066-war-of-the-ring.json"
     },
     {
       "igdb_id": 11040,
