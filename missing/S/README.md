@@ -1213,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SilhouetteGirl Zan | 233219 | [233219-silhouettegirl-zan.json](./233219-silhouettegirl-zan.json) |
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
 | Silkroad 8 | 394157 | [394157-silkroad-8.json](./394157-silkroad-8.json) |
+| Silky Road | 355565 | [355565-silky-road.json](./355565-silky-road.json) |
 | Sillouhettes of Phobos | 274212 | [274212-sillouhettes-of-phobos.json](./274212-sillouhettes-of-phobos.json) |
 | Silly Royale: Devil Amongst Us | 242233 | [242233-silly-royale-devil-amongst-us.json](./242233-silly-royale-devil-amongst-us.json) |
 | Silly Sync | 379894 | [379894-silly-sync.json](./379894-silly-sync.json) |
@@ -3816,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernatural Visual Novel: The Fourteenth Guzai Vol. 1 & 2 | 373524 | [373524-supernatural-visual-novel-the-fourteenth-guzai-vol-1-and-2.json](./373524-supernatural-visual-novel-the-fourteenth-guzai-vol-1-and-2.json) |
 | Supernormal | 278716 | [278716-supernormal.json](./278716-supernormal.json) |
 | Superola and the Lost Burgers | 87475 | [87475-superola-and-the-lost-burgers.json](./87475-superola-and-the-lost-burgers.json) |
+| Supersonic Highway Defenders | 355559 | [355559-supersonic-highway-defenders.json](./355559-supersonic-highway-defenders.json) |
 | SuperSpec Rallycross | 291740 | [291740-superspec-rallycross.json](./291740-superspec-rallycross.json) |
 | Superstar Chefs | 57666 | [57666-superstar-chefs.json](./57666-superstar-chefs.json) |
 | SuperStar Ebidan | 373026 | [373026-superstar-ebidan.json](./373026-superstar-ebidan.json) |
@@ -3832,6 +3834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Snowboarding | 9277 | [9277-supreme-snowboarding.json](./9277-supreme-snowboarding.json) |
 | Supreme Summoner | 257101 | [257101-supreme-summoner.json](./257101-supreme-summoner.json) |
 | Surabaya Inferno | 150676 | [150676-surabaya-inferno.json](./150676-surabaya-inferno.json) |
+| Sure Shot | 355543 | [355543-sure-shot.json](./355543-sure-shot.json) |
 | Surf 'n Safari | 93574 | [93574-surf-n-safari.json](./93574-surf-n-safari.json) |
 | Surf & Turf Bundle | 308581 | [308581-surf-and-turf-bundle.json](./308581-surf-and-turf-bundle.json) |
 | Surf's Up | 4191 | [4191-surfs-up.json](./4191-surfs-up.json) |
