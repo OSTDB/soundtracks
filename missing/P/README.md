@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paragon Pioneers | 206351 | [206351-paragon-pioneers.json](./206351-paragon-pioneers.json) |
 | Paragon Sex A Doll | 356065 | [356065-paragon-sex-a-doll.json](./356065-paragon-sex-a-doll.json) |
 | Parallax | 292841 | [292841-parallax.json](./292841-parallax.json) |
+| Parallel | 342083 | [342083-parallel.json](./342083-parallel.json) |
 | Parallel Olympus | 156132 | [156132-parallel-olympus.json](./156132-parallel-olympus.json) |
 | Parallel World | 113026 | [113026-parallel-world.json](./113026-parallel-world.json) |
 | Parallel Worlds | 181373 | [181373-parallel-worlds.json](./181373-parallel-worlds.json) |
@@ -1086,6 +1087,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plantan | 110330 | [110330-plantan.json](./110330-plantan.json) |
 | Planted! | 398336 | [398336-planted.json](./398336-planted.json) |
 | Planth Care | 181356 | [181356-planth-care.json](./181356-planth-care.json) |
+| Plants vs. Zombies | 342043 | [342043-plants-vs-zombies.json](./342043-plants-vs-zombies.json) |
+| Plants vs. Zombies | 342044 | [342044-plants-vs-zombies.json](./342044-plants-vs-zombies.json) |
 | Plants vs. Zombies 2: Into the Storm | 272546 | [272546-plants-vs-zombies-2-into-the-storm.json](./272546-plants-vs-zombies-2-into-the-storm.json) |
 | Plants vs. Zombies: Replanted | 358529 | [358529-plants-vs-zombies-replanted.json](./358529-plants-vs-zombies-replanted.json) |
 | Plaqueman | 229928 | [229928-plaqueman.json](./229928-plaqueman.json) |
