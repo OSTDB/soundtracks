@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 3: Mothership Zeta | 10300 | [10300-fallout-3-mothership-zeta.json](./10300-fallout-3-mothership-zeta.json) |
 | Fallout 3: Point Lookout | 10302 | [10302-fallout-3-point-lookout.json](./10302-fallout-3-point-lookout.json) |
 | Fallout 4: Far Harbor | 18031 | [18031-fallout-4-far-harbor.json](./18031-fallout-4-far-harbor.json) |
+| Fallout 76: Camp Pets | 317825 | [317825-fallout-76-camp-pets.json](./317825-fallout-76-camp-pets.json) |
 | Fallout 76: Ghoul Within | 341476 | [341476-fallout-76-ghoul-within.json](./341476-fallout-76-ghoul-within.json) |
 | Fallout 76: Gone Fission | 347166 | [347166-fallout-76-gone-fission.json](./347166-fallout-76-gone-fission.json) |
 | Fallout 76: Platinum Edition | 111060 | [111060-fallout-76-platinum-edition.json](./111060-fallout-76-platinum-edition.json) |
@@ -374,6 +375,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Evidence: Cursed Island - Collector's Edition | 119038 | [119038-fatal-evidence-cursed-island-collectors-edition.json](./119038-fatal-evidence-cursed-island-collectors-edition.json) |
 | Fatal Frame | 321739 | [321739-fatal-frame.json](./321739-fatal-frame.json) |
 | Fatal Fury | 71128 | [71128-fatal-fury.json](./71128-fatal-fury.json) |
+| Fatal Fury: City of the Wolves - Chun-Li | 317832 | [317832-fatal-fury-city-of-the-wolves-chun-li.json](./317832-fatal-fury-city-of-the-wolves-chun-li.json) |
+| Fatal Fury: City of the Wolves - Ken | 317831 | [317831-fatal-fury-city-of-the-wolves-ken.json](./317831-fatal-fury-city-of-the-wolves-ken.json) |
+| Fatal Fury: City of the Wolves - Season Pass 1 | 317833 | [317833-fatal-fury-city-of-the-wolves-season-pass-1.json](./317833-fatal-fury-city-of-the-wolves-season-pass-1.json) |
 | Fatal Gem VR | 30863 | [30863-fatal-gem-vr.json](./30863-fatal-gem-vr.json) |
 | Fatal Heritage | 75150 | [75150-fatal-heritage.json](./75150-fatal-heritage.json) |
 | Fatal Seduction | 63871 | [63871-fatal-seduction.json](./63871-fatal-seduction.json) |
