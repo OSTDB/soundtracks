@@ -1752,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brisk Square | 151178 | [151178-brisk-square.json](./151178-brisk-square.json) |
 | Bristles | 23863 | [23863-bristles.json](./23863-bristles.json) |
 | Britebot | 178651 | [178651-britebot.json](./178651-britebot.json) |
+| British Voter Quiz | 366245 | [366245-british-voter-quiz.json](./366245-british-voter-quiz.json) |
 | Brittle | 278684 | [278684-brittle.json](./278684-brittle.json) |
 | Brittle Buildings | 180841 | [180841-brittle-buildings.json](./180841-brittle-buildings.json) |
 | Broadside | 34450 | [34450-broadside.json](./34450-broadside.json) |
