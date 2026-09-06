@@ -1100,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amnesia Crowd | 62754 | [62754-amnesia-crowd.json](./62754-amnesia-crowd.json) |
 | Amnesia Later | 62753 | [62753-amnesia-later.json](./62753-amnesia-later.json) |
 | Amnesia World | 62755 | [62755-amnesia-world.json](./62755-amnesia-world.json) |
+| Amnesia: A Coward's Debt | 352198 | [352198-amnesia-a-cowards-debt.json](./352198-amnesia-a-cowards-debt.json) |
 | Amoeboid | 233213 | [233213-amoeboid.json](./233213-amoeboid.json) |
 | Amogus TD 2: Defense of the Sus | 254757 | [254757-amogus-td-2-defense-of-the-sus.json](./254757-amogus-td-2-defense-of-the-sus.json) |
 | Among School Girls | 165006 | [165006-among-school-girls.json](./165006-among-school-girls.json) |
@@ -1366,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Empire | 109705 | [109705-ant-empire.json](./109705-ant-empire.json) |
 | Ant Nation | 210250 | [210250-ant-nation.json](./210250-ant-nation.json) |
 | Ant Simulator | 171046 | [171046-ant-simulator.json](./171046-ant-simulator.json) |
+| Ant Smasher Christmas | 352174 | [352174-ant-smasher-christmas.json](./352174-ant-smasher-christmas.json) |
 | Antharion | 64446 | [64446-antharion.json](./64446-antharion.json) |
 | AntharioN | 17227 | [17227-antharion.json](./17227-antharion.json) |
 | Anthology of the Killer | 268731 | [268731-anthology-of-the-killer.json](./268731-anthology-of-the-killer.json) |
@@ -1551,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Path | 339643 | [339643-arcane-path.json](./339643-arcane-path.json) |
 | Arcane Pets: Plushie Empire | 256545 | [256545-arcane-pets-plushie-empire.json](./256545-arcane-pets-plushie-empire.json) |
 | Arcane Plunder | 373538 | [373538-arcane-plunder.json](./373538-arcane-plunder.json) |
+| Arcane Rings | 352167 | [352167-arcane-rings.json](./352167-arcane-rings.json) |
 | Arcane Saga Online | 63304 | [63304-arcane-saga-online.json](./63304-arcane-saga-online.json) |
 | Arcane Sorcery | 34548 | [34548-arcane-sorcery.json](./34548-arcane-sorcery.json) |
 | Arcane TD | 307297 | [307297-arcane-td.json](./307297-arcane-td.json) |
