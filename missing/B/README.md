@@ -991,6 +991,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Red Hood: Halloween | 126894 | [126894-big-red-hood-halloween.json](./126894-big-red-hood-halloween.json) |
 | Big Screen Games: Pack 1 | 197383 | [197383-big-screen-games-pack-1.json](./197383-big-screen-games-pack-1.json) |
 | Big Sea | 14301 | [14301-big-sea.json](./14301-big-sea.json) |
+| Big Sky Country: Book 1 | 313717 | [313717-big-sky-country-book-1.json](./313717-big-sky-country-book-1.json) |
+| Big Sky Country: Book 2 | 313718 | [313718-big-sky-country-book-2.json](./313718-big-sky-country-book-2.json) |
 | Big Sky Trooper | 42640 | [42640-big-sky-trooper.json](./42640-big-sky-trooper.json) |
 | Big Story Little Heroes | 62741 | [62741-big-story-little-heroes.json](./62741-big-story-little-heroes.json) |
 | Big Thanks Super Keirin | 55898 | [55898-big-thanks-super-keirin.json](./55898-big-thanks-super-keirin.json) |
