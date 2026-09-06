@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4-Lung Boy | 185651 | [185651-4-lung-boy.json](./185651-4-lung-boy.json) |
 | 4.1.60Co | 295543 | [295543-4-1-60co.json](./295543-4-1-60co.json) |
 | 4096 | 157721 | [157721-4096.json](./157721-4096.json) |
+| 44 Hidden Naomis | 353323 | [353323-44-hidden-naomis.json](./353323-44-hidden-naomis.json) |
 | 46 Okunen Monogatari: The Shinka Ron | 26675 | [26675-46-okunen-monogatari-the-shinka-ron.json](./26675-46-okunen-monogatari-the-shinka-ron.json) |
 | 48 Pieces | 109036 | [109036-48-pieces.json](./109036-48-pieces.json) |
 | 4D Sports Tennis | 73308 | [73308-4d-sports-tennis.json](./73308-4d-sports-tennis.json) |
@@ -382,6 +383,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Days Devil | 373016 | [373016-7-days-devil.json](./373016-7-days-devil.json) |
 | 7 Days of Rose | 223158 | [223158-7-days-of-rose.json](./223158-7-days-of-rose.json) |
 | 7 Days of Summer: Lost Alpha | 335653 | [335653-7-days-of-summer-lost-alpha.json](./335653-7-days-of-summer-lost-alpha.json) |
+| 7 Days to Die: The Desert Armor Set | 353298 | [353298-7-days-to-die-the-desert-armor-set.json](./353298-7-days-to-die-the-desert-armor-set.json) |
+| 7 Days to Die: The Hoarder Armor Set | 353300 | [353300-7-days-to-die-the-hoarder-armor-set.json](./353300-7-days-to-die-the-hoarder-armor-set.json) |
+| 7 Days to Die: The Marauder Armor Set | 353299 | [353299-7-days-to-die-the-marauder-armor-set.json](./353299-7-days-to-die-the-marauder-armor-set.json) |
 | 7 Days to End with You | 189888 | [189888-7-days-to-end-with-you.json](./189888-7-days-to-end-with-you.json) |
 | 7 Hills of Rome: Mahjong | 293940 | [293940-7-hills-of-rome-mahjong.json](./293940-7-hills-of-rome-mahjong.json) |
 | 7 Horizons | 210898 | [210898-7-horizons.json](./210898-7-horizons.json) |
@@ -442,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 94% | 27784 | [27784-94.json](./27784-94.json) |
 | 96 Mill | 25810 | [25810-96-mill.json](./25810-96-mill.json) |
 | 99 Moves | 221991 | [221991-99-moves.json](./221991-99-moves.json) |
+| 99 Problems | 353316 | [353316-99-problems.json](./353316-99-problems.json) |
 | 99 Seconds | 221992 | [221992-99-seconds.json](./221992-99-seconds.json) |
 | 99.99% 3D: Fill the Ball | 232146 | [232146-99-99-3d-fill-the-ball.json](./232146-99-99-3d-fill-the-ball.json) |
 | 999 | 104675 | [104675-999.json](./104675-999.json) |
