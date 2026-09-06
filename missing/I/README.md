@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Induction | 18194 | [18194-induction.json](./18194-induction.json) |
 | Indulge | 414312 | [414312-indulge.json](./414312-indulge.json) |
 | Industria II | 292878 | [292878-industria-ii.json](./292878-industria-ii.json) |
+| Industrial Annihilation | 324902 | [324902-industrial-annihilation.json](./324902-industrial-annihilation.json) |
 | Industry Giant 2 - Gold 2012 | 53228 | [53228-industry-giant-2-gold-2012.json](./53228-industry-giant-2-gold-2012.json) |
 | Industry Giant 2 HD | 53229 | [53229-industry-giant-2-hd.json](./53229-industry-giant-2-hd.json) |
 | Indy Cat and Ball of Fate | 59449 | [59449-indy-cat-and-ball-of-fate.json](./59449-indy-cat-and-ball-of-fate.json) |
