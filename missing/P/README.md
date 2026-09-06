@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patrolling the Highway | 359409 | [359409-patrolling-the-highway.json](./359409-patrolling-the-highway.json) |
 | Patron | 152393 | [152393-patron.json](./152393-patron.json) |
 | Patterns | 8441 | [8441-patterns.json](./8441-patterns.json) |
+| Patterns of the Oak | 358850 | [358850-patterns-of-the-oak.json](./358850-patterns-of-the-oak.json) |
 | Pavor | 116378 | [116378-pavor.json](./116378-pavor.json) |
 | Paw Alliance | 401515 | [401515-paw-alliance.json](./401515-paw-alliance.json) |
 | Paw Patrol | 298309 | [298309-paw-patrol.json](./298309-paw-patrol.json) |
@@ -1689,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Raze: Fall of Terra | 379859 | [379859-project-raze-fall-of-terra.json](./379859-project-raze-fall-of-terra.json) |
 | Project Re-Rainbow | 321785 | [321785-project-re-rainbow.json](./321785-project-re-rainbow.json) |
 | Project Root | 17145 | [17145-project-root.json](./17145-project-root.json) |
+| Project S | 358891 | [358891-project-s.json](./358891-project-s.json) |
 | Project S.A.M | 270952 | [270952-project-s-a-m.json](./270952-project-s-a-m.json) |
 | Project Sara | 374591 | [374591-project-sara.json](./374591-project-sara.json) |
 | Project Scav | 173279 | [173279-project-scav.json](./173279-project-scav.json) |
