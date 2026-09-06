@@ -440,6 +440,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed the Ducks | 177541 | [177541-feed-the-ducks.json](./177541-feed-the-ducks.json) |
 | Feed the Feed | 396888 | [396888-feed-the-feed.json](./396888-feed-the-feed.json) |
 | Feed the Pets | 109717 | [109717-feed-the-pets.json](./109717-feed-the-pets.json) |
+| Feed Us 4 | 327185 | [327185-feed-us-4.json](./327185-feed-us-4.json) |
+| Feed Us V | 327190 | [327190-feed-us-v.json](./327190-feed-us-v.json) |
 | Feed your cat | 334473 | [334473-feed-your-cat.json](./334473-feed-your-cat.json) |
 | FeedBack | 381012 | [381012-feedback.json](./381012-feedback.json) |
 | Feeding Frenzy 2: Shipwreck Showdown | 8321 | [8321-feeding-frenzy-2-shipwreck-showdown.json](./8321-feeding-frenzy-2-shipwreck-showdown.json) |
@@ -1290,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fossil Fighters: Frontier | 8609 | [8609-fossil-fighters-frontier.json](./8609-fossil-fighters-frontier.json) |
 | Fossil Quest | 386729 | [386729-fossil-quest.json](./386729-fossil-quest.json) |
 | Fossil Skater | 318214 | [318214-fossil-skater.json](./318214-fossil-skater.json) |
+| Fossilpunk | 327189 | [327189-fossilpunk.json](./327189-fossilpunk.json) |
 | Fostering Apocalypse | 153991 | [153991-fostering-apocalypse.json](./153991-fostering-apocalypse.json) |
 | Foto Face: The Face Stealer Strikes | 67286 | [67286-foto-face-the-face-stealer-strikes.json](./67286-foto-face-the-face-stealer-strikes.json) |
 | Foul Play | 5895 | [5895-foul-play.json](./5895-foul-play.json) |
@@ -1396,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom | 271995 | [271995-freedom.json](./271995-freedom.json) |
 | Freedom Bridge | 115034 | [115034-freedom-bridge.json](./115034-freedom-bridge.json) |
 | Freedom Fighters | 719 | [719-freedom-fighters.json](./719-freedom-fighters.json) |
+| Freedom Maker | 327825 | [327825-freedom-maker.json](./327825-freedom-maker.json) |
 | FreedomBot | 391577 | [391577-freedombot.json](./391577-freedombot.json) |
 | Freeflow | 340248 | [340248-freeflow.json](./340248-freeflow.json) |
 | Freeforce Airplanes | 340249 | [340249-freeforce-airplanes.json](./340249-freeforce-airplanes.json) |
@@ -1587,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Strength Strongman Competition | 62202 | [62202-full-strength-strongman-competition.json](./62202-full-strength-strongman-competition.json) |
 | Full Swing Golf | 299472 | [299472-full-swing-golf.json](./299472-full-swing-golf.json) |
 | Full Throttle | 180 | [180-full-throttle.json](./180-full-throttle.json) |
+| Full Throttle 2 | 327805 | [327805-full-throttle-2.json](./327805-full-throttle-2.json) |
 | Full Throttle Parking | 388010 | [388010-full-throttle-parking.json](./388010-full-throttle-parking.json) |
 | Full Throttle: Hell on Wheels | 72722 | [72722-full-throttle-hell-on-wheels.json](./72722-full-throttle-hell-on-wheels.json) |
 | Full Voice Throttle | 181352 | [181352-full-voice-throttle.json](./181352-full-voice-throttle.json) |
