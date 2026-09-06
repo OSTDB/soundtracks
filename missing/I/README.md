@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity | 13729 | [13729-infinity.json](./13729-infinity.json) |
 | Infinity Attackers | 120415 | [120415-infinity-attackers.json](./120415-infinity-attackers.json) |
 | Infinity Blade II | 20644 | [20644-infinity-blade-ii.json](./20644-infinity-blade-ii.json) |
+| Infinity Blade PC | 342045 | [342045-infinity-blade-pc.json](./342045-infinity-blade-pc.json) |
 | Infinity Blocks | 301612 | [301612-infinity-blocks.json](./301612-infinity-blocks.json) |
 | Infinity Cure | 43965 | [43965-infinity-cure.json](./43965-infinity-cure.json) |
 | Infinity Dungeons | 203569 | [203569-infinity-dungeons.json](./203569-infinity-dungeons.json) |
@@ -558,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interceptor | 192153 | [192153-interceptor.json](./192153-interceptor.json) |
 | Intercity Truck Simulator | 100814 | [100814-intercity-truck-simulator.json](./100814-intercity-truck-simulator.json) |
 | Intercolonies | 319352 | [319352-intercolonies.json](./319352-intercolonies.json) |
+| Interdictor Pilot | 342035 | [342035-interdictor-pilot.json](./342035-interdictor-pilot.json) |
 | Intergalactic Defenders | 340757 | [340757-intergalactic-defenders.json](./340757-intergalactic-defenders.json) |
 | Intergalactic Galactic Dinosaur Banana | 85537 | [85537-intergalactic-galactic-dinosaur-banana.json](./85537-intergalactic-galactic-dinosaur-banana.json) |
 | Intergalactic Space Rescue | 85517 | [85517-intergalactic-space-rescue.json](./85517-intergalactic-space-rescue.json) |
