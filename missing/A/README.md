@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mermaid's Paradoxical Tale | 273664 | [273664-a-mermaids-paradoxical-tale.json](./273664-a-mermaids-paradoxical-tale.json) |
 | A Mirror Puzzle | 209705 | [209705-a-mirror-puzzle.json](./209705-a-mirror-puzzle.json) |
 | A Mirror, Darkly | 340948 | [340948-a-mirror-darkly.json](./340948-a-mirror-darkly.json) |
+| A Moderately Uncomfortable Night with Tux | 338711 | [338711-a-moderately-uncomfortable-night-with-tux.json](./338711-a-moderately-uncomfortable-night-with-tux.json) |
 | A Morons Challenge | 67990 | [67990-a-morons-challenge.json](./67990-a-morons-challenge.json) |
 | A Murmur in the Trees | 148561 | [148561-a-murmur-in-the-trees.json](./148561-a-murmur-in-the-trees.json) |
 | A New World Of Turnabouts | 303770 | [303770-a-new-world-of-turnabouts.json](./303770-a-new-world-of-turnabouts.json) |
@@ -180,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A todas mis memorias futuras | 352758 | [352758-a-todas-mis-memorias-futuras.json](./352758-a-todas-mis-memorias-futuras.json) |
 | A Tofu Tail | 58803 | [58803-a-tofu-tail.json](./58803-a-tofu-tail.json) |
 | A Total War Saga: Troy | 122649 | [122649-a-total-war-saga-troy.json](./122649-a-total-war-saga-troy.json) |
+| A Tower | 338718 | [338718-a-tower.json](./338718-a-tower.json) |
 | A Turd's Life | 89975 | [89975-a-turds-life.json](./89975-a-turds-life.json) |
 | A Turnabout On Rails | 308541 | [308541-a-turnabout-on-rails.json](./308541-a-turnabout-on-rails.json) |
 | A Turnabout With Too Many Faces | 303250 | [303250-a-turnabout-with-too-many-faces.json](./303250-a-turnabout-with-too-many-faces.json) |
@@ -450,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Island II | 6471 | [6471-adventure-island-ii.json](./6471-adventure-island-ii.json) |
 | Adventure Labyrinth Story | 84867 | [84867-adventure-labyrinth-story.json](./84867-adventure-labyrinth-story.json) |
 | Adventure Learning Inside Humans | 356071 | [356071-adventure-learning-inside-humans.json](./356071-adventure-learning-inside-humans.json) |
+| Adventure Mosaics: Brazilian Carnival | 338700 | [338700-adventure-mosaics-brazilian-carnival.json](./338700-adventure-mosaics-brazilian-carnival.json) |
 | Adventure Of Baldero I and II | 301597 | [301597-adventure-of-baldero-i-and-ii.json](./301597-adventure-of-baldero-i-and-ii.json) |
 | Adventure Party: Cats and Caverns | 84866 | [84866-adventure-party-cats-and-caverns.json](./84866-adventure-party-cats-and-caverns.json) |
 | Adventure Player | 56531 | [56531-adventure-player.json](./56531-adventure-player.json) |
@@ -2286,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azera Online | 76612 | [76612-azera-online.json](./76612-azera-online.json) |
 | Azimuth | 395550 | [395550-azimuth.json](./395550-azimuth.json) |
 | Aznana | 151729 | [151729-aznana.json](./151729-aznana.json) |
+| Azoth | 338723 | [338723-azoth.json](./338723-azoth.json) |
 | Azrael | 192457 | [192457-azrael.json](./192457-azrael.json) |
 | Azrael | 209697 | [209697-azrael.json](./209697-azrael.json) |
 | Aztlan Uncovered | 201308 | [201308-aztlan-uncovered.json](./201308-aztlan-uncovered.json) |
