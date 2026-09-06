@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U-Boat | 347698 | [347698-u-boat.json](./347698-u-boat.json) |
 | U-Boot - submarine game | 87713 | [87713-u-boot-submarine-game.json](./87713-u-boot-submarine-game.json) |
 | U-Sing | 50600 | [50600-u-sing.json](./50600-u-sing.json) |
+| U.A.S | 323196 | [323196-u-a-s.json](./323196-u-a-s.json) |
 | U.F.O: Unfortunately Fortunate Organisms | 29630 | [29630-u-f-o-unfortunately-fortunate-organisms.json](./29630-u-f-o-unfortunately-fortunate-organisms.json) |
 | U.F.O. K.O. Tower Defense | 152907 | [152907-u-f-o-k-o-tower-defense.json](./152907-u-f-o-k-o-tower-defense.json) |
 | U.F.O.M.O. | 184084 | [184084-u-f-o-m-o.json](./184084-u-f-o-m-o.json) |
@@ -180,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Blackout | 34425 | [34425-undead-blackout.json](./34425-undead-blackout.json) |
 | Undead Carnival Carnage | 180314 | [180314-undead-carnival-carnage.json](./180314-undead-carnival-carnage.json) |
 | Undead Mayhem | 277614 | [277614-undead-mayhem.json](./277614-undead-mayhem.json) |
+| Undead Realm: Ego | 327836 | [327836-undead-realm-ego.json](./327836-undead-realm-ego.json) |
 | Undeadworld | 223663 | [223663-undeadworld.json](./223663-undeadworld.json) |
 | Undeadz! | 35886 | [35886-undeadz.json](./35886-undeadz.json) |
 | Undefined | 111026 | [111026-undefined.json](./111026-undefined.json) |
