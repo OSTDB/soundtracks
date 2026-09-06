@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrel-Blastapalooza | 231643 | [231643-barrel-blastapalooza.json](./231643-barrel-blastapalooza.json) |
 | Barrels Up | 75181 | [75181-barrels-up.json](./75181-barrels-up.json) |
 | Barren Roads | 35954 | [35954-barren-roads.json](./35954-barren-roads.json) |
+| Barrier | 346049 | [346049-barrier.json](./346049-barrier.json) |
 | Barro 2020 | 123866 | [123866-barro-2020.json](./123866-barro-2020.json) |
 | Barro GT: Pack #1 | 298338 | [298338-barro-gt-pack-1.json](./298338-barro-gt-pack-1.json) |
 | Barro Racing | 156139 | [156139-barro-racing.json](./156139-barro-racing.json) |
@@ -2020,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Bill 2 | 370096 | [370096-bullet-bill-2.json](./370096-bullet-bill-2.json) |
 | Bullet Bill 3 | 370097 | [370097-bullet-bill-3.json](./370097-bullet-bill-3.json) |
 | Bullet Blaze | 243373 | [243373-bullet-blaze.json](./243373-bullet-blaze.json) |
+| Bullet Break | 346017 | [346017-bullet-break.json](./346017-bullet-break.json) |
 | Bullet Fractals | 181894 | [181894-bullet-fractals.json](./181894-bullet-fractals.json) |
 | Bullet Hell Monday | 57089 | [57089-bullet-hell-monday.json](./57089-bullet-hell-monday.json) |
 | Bullet Inferno | 368494 | [368494-bullet-inferno.json](./368494-bullet-inferno.json) |
