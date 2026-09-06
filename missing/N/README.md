@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Navy Seals | 25150 | [25150-navy-seals.json](./25150-navy-seals.json) |
 | Navy War | 207517 | [207517-navy-war.json](./207517-navy-war.json) |
 | Naxat Cup Satellaview Bass Tournament "Big Fight" | 150171 | [150171-naxat-cup-satellaview-bass-tournament-big-fight.json](./150171-naxat-cup-satellaview-bass-tournament-big-fight.json) |
+| Nazar | 319003 | [319003-nazar.json](./319003-nazar.json) |
 | Nazo no Mini Game: Choigae | 222525 | [222525-nazo-no-mini-game-choigae.json](./222525-nazo-no-mini-game-choigae.json) |
 | Nazo no Minigame | 63902 | [63902-nazo-no-minigame.json](./63902-nazo-no-minigame.json) |
 | Nazo to Kioku no Labyrinth: Somewhere, elsewhere | 172743 | [172743-nazo-to-kioku-no-labyrinth-somewhere-elsewhere.json](./172743-nazo-to-kioku-no-labyrinth-somewhere-elsewhere.json) |
@@ -498,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexus 2 | 92499 | [92499-nexus-2.json](./92499-nexus-2.json) |
 | Nexus Legacy | 408038 | [408038-nexus-legacy.json](./408038-nexus-legacy.json) |
 | Nexus Rumble: The Ultimate Showdown | 304869 | [304869-nexus-rumble-the-ultimate-showdown.json](./304869-nexus-rumble-the-ultimate-showdown.json) |
+| Nexus Station | 318997 | [318997-nexus-station.json](./318997-nexus-station.json) |
 | Nexus: The Kingdom of the Winds | 80550 | [80550-nexus-the-kingdom-of-the-winds.json](./80550-nexus-the-kingdom-of-the-winds.json) |
 | Nexzr | 42016 | [42016-nexzr.json](./42016-nexzr.json) |
 | Neyyah | 133474 | [133474-neyyah.json](./133474-neyyah.json) |
