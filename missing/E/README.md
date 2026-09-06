@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggy | 152921 | [152921-eggy.json](./152921-eggy.json) |
 | Eggy | 91413 | [91413-eggy.json](./91413-eggy.json) |
 | Eggy Car | 335654 | [335654-eggy-car.json](./335654-eggy-car.json) |
+| Eggz: Collectible Eggs Clicker | 314253 | [314253-eggz-collectible-eggs-clicker.json](./314253-eggz-collectible-eggs-clicker.json) |
 | Eggсellence: Eggs Bounce | 233223 | [233223-egg-ellence-eggs-bounce.json](./233223-egg-ellence-eggs-bounce.json) |
 | Egnima | 349320 | [349320-egnima.json](./349320-egnima.json) |
 | Ego Holic | 225297 | [225297-ego-holic.json](./225297-ego-holic.json) |
