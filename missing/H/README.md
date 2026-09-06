@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harley Davidson: Race Across America | 49926 | [49926-harley-davidson-race-across-america.json](./49926-harley-davidson-race-across-america.json) |
 | Harley Pasternak's Hollywood Workout | 50963 | [50963-harley-pasternaks-hollywood-workout.json](./50963-harley-pasternaks-hollywood-workout.json) |
 | HarmoKnight | 18156 | [18156-harmoknight.json](./18156-harmoknight.json) |
+| Harpoon Classic '97 | 365063 | [365063-harpoon-classic-97.json](./365063-harpoon-classic-97.json) |
 | Harpoon Reef Hunter | 253570 | [253570-harpoon-reef-hunter.json](./253570-harpoon-reef-hunter.json) |
 | Harpy | 412265 | [412265-harpy.json](./412265-harpy.json) |
 | Harrier Attack! | 13004 | [13004-harrier-attack.json](./13004-harrier-attack.json) |
@@ -944,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home | 121014 | [121014-home.json](./121014-home.json) |
 | Home | 372448 | [372448-home.json](./372448-home.json) |
 | Home A Drone | 122421 | [122421-home-a-drone.json](./122421-home-a-drone.json) |
+| Home Alone Survival | 365062 | [365062-home-alone-survival.json](./365062-home-alone-survival.json) |
 | Home Game 3 | 243397 | [243397-home-game-3.json](./243397-home-game-3.json) |
 | Home Improvisation: Furniture Sandbox | 16301 | [16301-home-improvisation-furniture-sandbox.json](./16301-home-improvisation-furniture-sandbox.json) |
 | Home Rescue Clean And Restore Collector's Edition | 399642 | [399642-home-rescue-clean-and-restore-collectors-edition.json](./399642-home-rescue-clean-and-restore-collectors-edition.json) |
