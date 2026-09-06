@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West VR | 104075 | [104075-wild-west-vr.json](./104075-wild-west-vr.json) |
 | Wild Wizard War | 391607 | [391607-wild-wizard-war.json](./391607-wild-wizard-war.json) |
 | WildCraft | 241635 | [241635-wildcraft.json](./241635-wildcraft.json) |
+| Wildekin | 362280 | [362280-wildekin.json](./362280-wildekin.json) |
 | WilderLands | 382219 | [382219-wilderlands.json](./382219-wilderlands.json) |
 | Wildermyth | 83504 | [83504-wildermyth.json](./83504-wildermyth.json) |
 | Wilderness Mosaic 3: Photo Safari | 415907 | [415907-wilderness-mosaic-3-photo-safari.json](./415907-wilderness-mosaic-3-photo-safari.json) |
