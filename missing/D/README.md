@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De Blob | 233776 | [233776-de-blob.json](./233776-de-blob.json) |
 | De-Exit: Eternal Matters | 172757 | [172757-de-exit-eternal-matters.json](./172757-de-exit-eternal-matters.json) |
 | De:Fanastasis | 297812 | [297812-de-fanastasis.json](./297812-de-fanastasis.json) |
+| Dead Abyss | 321336 | [321336-dead-abyss.json](./321336-dead-abyss.json) |
 | Dead Blood: Survival FPS | 251234 | [251234-dead-blood-survival-fps.json](./251234-dead-blood-survival-fps.json) |
 | Dead Blue Rose | 304881 | [304881-dead-blue-rose.json](./304881-dead-blue-rose.json) |
 | Dead by Daylight: Hellraiser Chapter | 167819 | [167819-dead-by-daylight-hellraiser-chapter.json](./167819-dead-by-daylight-hellraiser-chapter.json) |
