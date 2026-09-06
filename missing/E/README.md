@@ -288,6 +288,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Plus | 100209 | [100209-elite-plus.json](./100209-elite-plus.json) |
 | Ellada Games RPG Bundle | 187500 | [187500-ellada-games-rpg-bundle.json](./187500-ellada-games-rpg-bundle.json) |
 | Ellie & Max | 175426 | [175426-ellie-and-max.json](./175426-ellie-and-max.json) |
+| Ellie's Farm 2: African Adventures - Collector's Edition | 356106 | [356106-ellies-farm-2-african-adventures-collectors-edition.json](./356106-ellies-farm-2-african-adventures-collectors-edition.json) |
+| Ellie's Farm 3: Flood Proofing - Collector's Edition | 356103 | [356103-ellies-farm-3-flood-proofing-collectors-edition.json](./356103-ellies-farm-3-flood-proofing-collectors-edition.json) |
+| Ellie's Farm 4: Guardians of the Wild - Collector's Edition | 356104 | [356104-ellies-farm-4-guardians-of-the-wild-collectors-edition.json](./356104-ellies-farm-4-guardians-of-the-wild-collectors-edition.json) |
+| Ellie's Farm 5: Long Journey - Collector's Edition | 356102 | [356102-ellies-farm-5-long-journey-collectors-edition.json](./356102-ellies-farm-5-long-journey-collectors-edition.json) |
+| Ellie's Farm: Forest Fires - Collector's Edition | 356105 | [356105-ellies-farm-forest-fires-collectors-edition.json](./356105-ellies-farm-forest-fires-collectors-edition.json) |
 | Elminage Original | 21033 | [21033-elminage-original.json](./21033-elminage-original.json) |
 | Elmo's Deep Sea Adventure | 71511 | [71511-elmos-deep-sea-adventure.json](./71511-elmos-deep-sea-adventure.json) |
 | Elmo's Deep Sea Adventure | 71513 | [71513-elmos-deep-sea-adventure.json](./71513-elmos-deep-sea-adventure.json) |
