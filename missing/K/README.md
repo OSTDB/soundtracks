@@ -316,12 +316,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Brickman | 362260 | [362260-kill-the-brickman.json](./362260-kill-the-brickman.json) |
 | Kill the Dragon | 184635 | [184635-kill-the-dragon.json](./184635-kill-the-dragon.json) |
 | Kill The Emoji: The Remake | 127094 | [127094-kill-the-emoji-the-remake.json](./127094-kill-the-emoji-the-remake.json) |
+| Kill The Lights! | 337636 | [337636-kill-the-lights.json](./337636-kill-the-lights.json) |
 | Kill The Monk | 269865 | [269865-kill-the-monk.json](./269865-kill-the-monk.json) |
 | Kill the Monster | 105362 | [105362-kill-the-monster.json](./105362-kill-the-monster.json) |
 | Kill The Monster Z | 189165 | [189165-kill-the-monster-z.json](./189165-kill-the-monster-z.json) |
 | Kill The Music | 321169 | [321169-kill-the-music.json](./321169-kill-the-music.json) |
 | Kill The Nova | 406092 | [406092-kill-the-nova.json](./406092-kill-the-nova.json) |
 | Kill your Darlings | 352718 | [352718-kill-your-darlings.json](./352718-kill-your-darlings.json) |
+| Kill Your Heart | 337624 | [337624-kill-your-heart.json](./337624-kill-your-heart.json) |
 | Killer Aces Volleyball | 352226 | [352226-killer-aces-volleyball.json](./352226-killer-aces-volleyball.json) |
 | Killer and Strawberry Plus | 172750 | [172750-killer-and-strawberry-plus.json](./172750-killer-and-strawberry-plus.json) |
 | Killer Bean Unleashed | 262652 | [262652-killer-bean-unleashed.json](./262652-killer-bean-unleashed.json) |
