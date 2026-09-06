@@ -1184,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gorge | 322392 | [322392-the-gorge.json](./322392-the-gorge.json) |
 | The Grand Prismatic | 411613 | [411613-the-grand-prismatic.json](./411613-the-grand-prismatic.json) |
 | The Grass | 163955 | [163955-the-grass.json](./163955-the-grass.json) |
+| The Grass Reaper | 363897 | [363897-the-grass-reaper.json](./363897-the-grass-reaper.json) |
 | The Grave Digger | 35847 | [35847-the-grave-digger.json](./35847-the-grave-digger.json) |
 | The Gravedigger | 311267 | [311267-the-gravedigger.json](./311267-the-gravedigger.json) |
 | The Gray Wolf and The Little Lamb | 245003 | [245003-the-gray-wolf-and-the-little-lamb.json](./245003-the-gray-wolf-and-the-little-lamb.json) |
@@ -1580,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mighty Eighth VR | 224786 | [224786-the-mighty-eighth-vr.json](./224786-the-mighty-eighth-vr.json) |
 | The Migrant | 199080 | [199080-the-migrant.json](./199080-the-migrant.json) |
 | The Mildew Children | 253605 | [253605-the-mildew-children.json](./253605-the-mildew-children.json) |
+| The Mind Snare | 363881 | [363881-the-mind-snare.json](./363881-the-mind-snare.json) |
 | The Mind's Eclipse | 76579 | [76579-the-minds-eclipse.json](./76579-the-minds-eclipse.json) |
 | The Mine | 13739 | [13739-the-mine.json](./13739-the-mine.json) |
 | The Mirror Circle | 382746 | [382746-the-mirror-circle.json](./382746-the-mirror-circle.json) |
@@ -3635,6 +3637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Peaks VR | 110584 | [110584-twin-peaks-vr.json](./110584-twin-peaks-vr.json) |
 | Twin Shot 2: Good & Evil | 180291 | [180291-twin-shot-2-good-and-evil.json](./180291-twin-shot-2-good-and-evil.json) |
 | Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
+| Twin Tornado | 363889 | [363889-twin-tornado.json](./363889-twin-tornado.json) |
 | TwinBee | 282650 | [282650-twinbee.json](./282650-twinbee.json) |
 | Twinkle Crusaders GoGo! | 59417 | [59417-twinkle-crusaders-gogo.json](./59417-twinkle-crusaders-gogo.json) |
 | Twinkle Knights | 39016 | [39016-twinkle-knights.json](./39016-twinkle-knights.json) |
