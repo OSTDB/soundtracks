@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Islands | 17502 | [17502-battle-islands.json](./17502-battle-islands.json) |
 | Battle Islands: Commanders | 33479 | [33479-battle-islands-commanders.json](./33479-battle-islands-commanders.json) |
 | Battle Kart 64 | 248308 | [248308-battle-kart-64.json](./248308-battle-kart-64.json) |
+| Battle Line the Rise of War | 358285 | [358285-battle-line-the-rise-of-war.json](./358285-battle-line-the-rise-of-war.json) |
 | Battle Mages | 17427 | [17427-battle-mages.json](./17427-battle-mages.json) |
 | Battle Magi | 402899 | [402899-battle-magi.json](./402899-battle-magi.json) |
 | Battle Mutants | 383957 | [383957-battle-mutants.json](./383957-battle-mutants.json) |
@@ -1304,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloom | 110476 | [110476-bloom.json](./110476-bloom.json) |
 | Bloom | 60555 | [60555-bloom.json](./60555-bloom.json) |
 | Bloom Blast | 392809 | [392809-bloom-blast.json](./392809-bloom-blast.json) |
+| Bloom for Me | 358327 | [358327-bloom-for-me.json](./358327-bloom-for-me.json) |
 | Bloom Runner | 258175 | [258175-bloom-runner.json](./258175-bloom-runner.json) |
 | Bloomblebee | 175989 | [175989-bloomblebee.json](./175989-bloomblebee.json) |
 | Bloomies | 175427 | [175427-bloomies.json](./175427-bloomies.json) |
@@ -1615,6 +1617,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box To The Beat VR: Shadow Dreams Pack | 263202 | [263202-box-to-the-beat-vr-shadow-dreams-pack.json](./263202-box-to-the-beat-vr-shadow-dreams-pack.json) |
 | Box Zombies | 311783 | [311783-box-zombies.json](./311783-box-zombies.json) |
 | Boxer | 13699 | [13699-boxer.json](./13699-boxer.json) |
+| Boxguy Adventure | 358322 | [358322-boxguy-adventure.json](./358322-boxguy-adventure.json) |
+| Boxguy Adventure 2 | 358292 | [358292-boxguy-adventure-2.json](./358292-boxguy-adventure-2.json) |
 | Boxigon! | 109656 | [109656-boxigon.json](./109656-boxigon.json) |
 | Boxing | 55103 | [55103-boxing.json](./55103-boxing.json) |
 | Boxing Babes: Sexy Fight Hentai Anime Girls | 165016 | [165016-boxing-babes-sexy-fight-hentai-anime-girls.json](./165016-boxing-babes-sexy-fight-hentai-anime-girls.json) |
