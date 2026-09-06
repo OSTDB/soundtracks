@@ -620,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend Him, Not Me! | 318800 | [318800-defend-him-not-me.json](./318800-defend-him-not-me.json) |
 | Defend or Die | 12991 | [12991-defend-or-die.json](./12991-defend-or-die.json) |
 | Defend Your Crypt | 33130 | [33130-defend-your-crypt.json](./33130-defend-your-crypt.json) |
+| Defend Your Nuts | 315522 | [315522-defend-your-nuts.json](./315522-defend-your-nuts.json) |
 | Defenda | 45350 | [45350-defenda.json](./45350-defenda.json) |
 | Defender | 228072 | [228072-defender.json](./228072-defender.json) |
 | Defender 2000 | 40817 | [40817-defender-2000.json](./40817-defender-2000.json) |
@@ -641,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Definitely Real Football | 177014 | [177014-definitely-real-football.json](./177014-definitely-real-football.json) |
 | Deflector | 179190 | [179190-deflector.json](./179190-deflector.json) |
 | Deflector | 93563 | [93563-deflector.json](./93563-deflector.json) |
+| Deflex V | 315510 | [315510-deflex-v.json](./315510-deflex-v.json) |
 | Defy Gravity Extended | 16242 | [16242-defy-gravity-extended.json](./16242-defy-gravity-extended.json) |
 | Defying Fate | 205233 | [205233-defying-fate.json](./205233-defying-fate.json) |
 | Defying Heaven's Will | 183050 | [183050-defying-heavens-will.json](./183050-defying-heavens-will.json) |
@@ -2202,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust Dasher | 135280 | [135280-dust-dasher.json](./135280-dust-dasher.json) |
 | Dust Fleet | 133464 | [133464-dust-fleet.json](./133464-dust-fleet.json) |
 | Dust to Dusk | 138831 | [138831-dust-to-dusk.json](./138831-dust-to-dusk.json) |
+| Dustborn: The Vision Tour Bundle | 315518 | [315518-dustborn-the-vision-tour-bundle.json](./315518-dustborn-the-vision-tour-bundle.json) |
 | Dustbunny: Emotions to Plants | 322598 | [322598-dustbunny-emotions-to-plants.json](./322598-dustbunny-emotions-to-plants.json) |
 | Dustland | 260393 | [260393-dustland.json](./260393-dustland.json) |
 | Dustwun | 83561 | [83561-dustwun.json](./83561-dustwun.json) |
