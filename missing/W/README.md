@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderer's Shade | 310183 | [310183-wanderers-shade.json](./310183-wanderers-shade.json) |
 | Wanderers.io | 178085 | [178085-wanderers-io.json](./178085-wanderers-io.json) |
 | Wanderers' Outpost | 406687 | [406687-wanderers-outpost.json](./406687-wanderers-outpost.json) |
+| WanderersTip | 352219 | [352219-wandererstip.json](./352219-wandererstip.json) |
 | Wanderfar | 158716 | [158716-wanderfar.json](./158716-wanderfar.json) |
 | Wandering Dreams of Yuri | 339131 | [339131-wandering-dreams-of-yuri.json](./339131-wandering-dreams-of-yuri.json) |
 | Wandering Willows | 16073 | [16073-wandering-willows.json](./16073-wandering-willows.json) |
@@ -511,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Mask | 136487 | [136487-white-mask.json](./136487-white-mask.json) |
 | White Men Can't Jump | 40821 | [40821-white-men-cant-jump.json](./40821-white-men-cant-jump.json) |
 | White Mirror | 214734 | [214734-white-mirror.json](./214734-white-mirror.json) |
+| White Night | 352190 | [352190-white-night.json](./352190-white-night.json) |
 | White Pearl | 76663 | [76663-white-pearl.json](./76663-white-pearl.json) |
 | White Rabbit | 161356 | [161356-white-rabbit.json](./161356-white-rabbit.json) |
 | White Silence | 388720 | [388720-white-silence.json](./388720-white-silence.json) |
@@ -682,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Walk | 63882 | [63882-winter-walk.json](./63882-winter-walk.json) |
 | Winter With You | 188108 | [188108-winter-with-you.json](./188108-winter-with-you.json) |
 | Winter X-Games Snowboarding 2002 | 47303 | [47303-winter-x-games-snowboarding-2002.json](./47303-winter-x-games-snowboarding-2002.json) |
+| Winter-Over | 352163 | [352163-winter-over.json](./352163-winter-over.json) |
 | Winter's Tail: How One Little Dolphin Learned to Swim Again | 63866 | [63866-winters-tail-how-one-little-dolphin-learned-to-swim-again.json](./63866-winters-tail-how-one-little-dolphin-learned-to-swim-again.json) |
 | Winterland Solitaire | 386137 | [386137-winterland-solitaire.json](./386137-winterland-solitaire.json) |
 | Winterland Solitaire 2 | 386132 | [386132-winterland-solitaire-2.json](./386132-winterland-solitaire-2.json) |
