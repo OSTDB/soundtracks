@@ -1722,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Rescue | 188104 | [188104-monster-rescue.json](./188104-monster-rescue.json) |
 | Monster Retsuden Oreca Battle | 365701 | [365701-monster-retsuden-oreca-battle.json](./365701-monster-retsuden-oreca-battle.json) |
 | Monster Shooter | 290700 | [290700-monster-shooter.json](./290700-monster-shooter.json) |
+| Monster Slayer: Motion Edition | 363413 | [363413-monster-slayer-motion-edition.json](./363413-monster-slayer-motion-edition.json) |
 | Monster Smoosh | 412307 | [412307-monster-smoosh.json](./412307-monster-smoosh.json) |
 | Monster Survivors | 246626 | [246626-monster-survivors.json](./246626-monster-survivors.json) |
 | Monster Sweetie | 232173 | [232173-monster-sweetie.json](./232173-monster-sweetie.json) |
