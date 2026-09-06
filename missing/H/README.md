@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HackLab | 185142 | [185142-hacklab.json](./185142-hacklab.json) |
 | Hadarot | 291248 | [291248-hadarot.json](./291248-hadarot.json) |
 | Hadephobia | 260957 | [260957-hadephobia.json](./260957-hadephobia.json) |
+| Hadur | 342638 | [342638-hadur.json](./342638-hadur.json) |
 | Haegemonia: The Solon Heritage | 17299 | [17299-haegemonia-the-solon-heritage.json](./17299-haegemonia-the-solon-heritage.json) |
 | Haeven | 31930 | [31930-haeven.json](./31930-haeven.json) |
 | Hahakigami Sweep | 386105 | [386105-hahakigami-sweep.json](./386105-hahakigami-sweep.json) |
@@ -132,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana | 369565 | [369565-hana.json](./369565-hana.json) |
 | Hana Oboro: Sengoku-den Ranki | 136480 | [136480-hana-oboro-sengoku-den-ranki.json](./136480-hana-oboro-sengoku-den-ranki.json) |
 | Hanafuda Yuukyou-den: Nagarebana Oryuu | 267655 | [267655-hanafuda-yuukyou-den-nagarebana-oryuu.json](./267655-hanafuda-yuukyou-den-nagarebana-oryuu.json) |
+| Hanage Nuki! Nuki! - Nose Hair Master | 342652 | [342652-hanage-nuki-nuki-nose-hair-master.json](./342652-hanage-nuki-nuki-nose-hair-master.json) |
 | Hanagumi Taisen Columns | 69307 | [69307-hanagumi-taisen-columns.json](./69307-hanagumi-taisen-columns.json) |
 | Hananezumi | 200742 | [200742-hananezumi.json](./200742-hananezumi.json) |
 | Hanata-Kadaka!? | 59993 | [59993-hanata-kadaka.json](./59993-hanata-kadaka.json) |
@@ -373,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Fragment | 131599 | [131599-heart-fragment.json](./131599-heart-fragment.json) |
 | Heart Fragment: Book One - Fantasy Fragments | 245032 | [245032-heart-fragment-book-one-fantasy-fragments.json](./245032-heart-fragment-book-one-fantasy-fragments.json) |
 | Heart is Muscle | 181933 | [181933-heart-is-muscle.json](./181933-heart-is-muscle.json) |
+| Heart Keeper | 342634 | [342634-heart-keeper.json](./342634-heart-keeper.json) |
 | Heart of China | 12139 | [12139-heart-of-china.json](./12139-heart-of-china.json) |
 | Heart of Fire | 268729 | [268729-heart-of-fire.json](./268729-heart-of-fire.json) |
 | Heart of Gold | 402263 | [402263-heart-of-gold.json](./402263-heart-of-gold.json) |
@@ -1340,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyde and Zeke | 166782 | [166782-hyde-and-zeke.json](./166782-hyde-and-zeke.json) |
 | Hydefos | 292848 | [292848-hydefos.json](./292848-hydefos.json) |
 | Hydra Hide Land | 337467 | [337467-hydra-hide-land.json](./337467-hydra-hide-land.json) |
+| Hydra: Poseidon's Сonspiracy | 342645 | [342645-hydra-poseidons-onspiracy.json](./342645-hydra-poseidons-onspiracy.json) |
 | Hydrofoil Generation | 190237 | [190237-hydrofoil-generation.json](./190237-hydrofoil-generation.json) |
 | Hydropawnics | 371893 | [371893-hydropawnics.json](./371893-hydropawnics.json) |
 | Hymeno Striker: Akashicverse Minigame | 171597 | [171597-hymeno-striker-akashicverse-minigame.json](./171597-hymeno-striker-akashicverse-minigame.json) |
@@ -1366,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Thunder Run 198X | 395575 | [395575-hyper-thunder-run-198x.json](./395575-hyper-thunder-run-198x.json) |
 | Hyper Train Corporation | 102194 | [102194-hyper-train-corporation.json](./102194-hyper-train-corporation.json) |
 | Hyper Wars: The Mega Firestorm | 109046 | [109046-hyper-wars-the-mega-firestorm.json](./109046-hyper-wars-the-mega-firestorm.json) |
+| Hyperblast! | 342612 | [342612-hyperblast.json](./342612-hyperblast.json) |
 | Hyperbolica | 161510 | [161510-hyperbolica.json](./161510-hyperbolica.json) |
 | Hyperborean Charter | 113025 | [113025-hyperborean-charter.json](./113025-hyperborean-charter.json) |
 | Hyperbowl | 14316 | [14316-hyperbowl.json](./14316-hyperbowl.json) |
