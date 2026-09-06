@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Time | 4334 | [4334-killing-time.json](./4334-killing-time.json) |
 | Killing Tragedy Samsara | 372999 | [372999-killing-tragedy-samsara.json](./372999-killing-tragedy-samsara.json) |
 | Killing Zone | 20596 | [20596-killing-zone.json](./20596-killing-zone.json) |
+| Killpaku! | 321380 | [321380-killpaku.json](./321380-killpaku.json) |
 | Killzone | 1865 | [1865-killzone.json](./1865-killzone.json) |
 | Kiloblaster | 79333 | [79333-kiloblaster.json](./79333-kiloblaster.json) |
 | Kim | 25225 | [25225-kim.json](./25225-kim.json) |
