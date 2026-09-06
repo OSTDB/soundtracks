@@ -773,6 +773,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Algebra Ridge | 150695 | [150695-algebra-ridge.json](./150695-algebra-ridge.json) |
 | Algodoo | 140601 | [140601-algodoo.json](./140601-algodoo.json) |
 | Alia's Carnival! Sacrament | 14857 | [14857-alias-carnival-sacrament.json](./14857-alias-carnival-sacrament.json) |
+| Alias Underground Episode 1: SD-6 Agent Training | 367409 | [367409-alias-underground-episode-1-sd-6-agent-training.json](./367409-alias-underground-episode-1-sd-6-agent-training.json) |
+| Alias Underground Episode 10: Endgame | 367419 | [367419-alias-underground-episode-10-endgame.json](./367419-alias-underground-episode-10-endgame.json) |
+| Alias Underground Episode 2: Mission - Turkish Embassy | 367410 | [367410-alias-underground-episode-2-mission-turkish-embassy.json](./367410-alias-underground-episode-2-mission-turkish-embassy.json) |
+| Alias Underground Episode 3: Mission - Raid On SD-6 | 367411 | [367411-alias-underground-episode-3-mission-raid-on-sd-6.json](./367411-alias-underground-episode-3-mission-raid-on-sd-6.json) |
+| Alias Underground Episode 4: The Circumference | 367412 | [367412-alias-underground-episode-4-the-circumference.json](./367412-alias-underground-episode-4-the-circumference.json) |
+| Alias Underground Episode 5: Turkish Embassy — CIA Countermission | 367413 | [367413-alias-underground-episode-5-turkish-embassy-cia-countermission.json](./367413-alias-underground-episode-5-turkish-embassy-cia-countermission.json) |
+| Alias Underground Episode 6: CIA Mission – Return To SD-6 | 367414 | [367414-alias-underground-episode-6-cia-mission-return-to-sd-6.json](./367414-alias-underground-episode-6-cia-mission-return-to-sd-6.json) |
+| Alias Underground Episode 7: Phase One | 367415 | [367415-alias-underground-episode-7-phase-one.json](./367415-alias-underground-episode-7-phase-one.json) |
+| Alias Underground Episode 8: Breakout | 367416 | [367416-alias-underground-episode-8-breakout.json](./367416-alias-underground-episode-8-breakout.json) |
+| Alias Underground Episode 9: Countdown | 367418 | [367418-alias-underground-episode-9-countdown.json](./367418-alias-underground-episode-9-countdown.json) |
 | Alice & Marisa | 270382 | [270382-alice-and-marisa.json](./270382-alice-and-marisa.json) |
 | Alice in the Nightmare Land | 267097 | [267097-alice-in-the-nightmare-land.json](./267097-alice-in-the-nightmare-land.json) |
 | Alice in Windowland | 218120 | [218120-alice-in-windowland.json](./218120-alice-in-windowland.json) |
@@ -1554,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark Odyssey | 319366 | [319366-ark-odyssey.json](./319366-ark-odyssey.json) |
 | Ark of Artemis | 148564 | [148564-ark-of-artemis.json](./148564-ark-of-artemis.json) |
 | Ark of Isolation | 373550 | [373550-ark-of-isolation.json](./373550-ark-of-isolation.json) |
+| Ark Re:Code | 367393 | [367393-ark-re-code.json](./367393-ark-re-code.json) |
 | Ark: Extinction | 103515 | [103515-ark-extinction.json](./103515-ark-extinction.json) |
 | Ark: Fantastic Tames - Pyromane | 304377 | [304377-ark-fantastic-tames-pyromane.json](./304377-ark-fantastic-tames-pyromane.json) |
 | Ark: Scorched Earth | 103514 | [103514-ark-scorched-earth.json](./103514-ark-scorched-earth.json) |
