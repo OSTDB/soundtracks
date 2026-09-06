@@ -498,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHRA Drag Racing: Countdown to the Championship | 18270 | [18270-nhra-drag-racing-countdown-to-the-championship.json](./18270-nhra-drag-racing-countdown-to-the-championship.json) |
 | Ni Hao, Kai-lan: Beach Day | 109052 | [109052-ni-hao-kai-lan-beach-day.json](./109052-ni-hao-kai-lan-beach-day.json) |
 | Ni Hao, Kai-Lan: New Year's Celebration | 97371 | [97371-ni-hao-kai-lan-new-years-celebration.json](./97371-ni-hao-kai-lan-new-years-celebration.json) |
+| Nia: Jewel Hunter | 358299 | [358299-nia-jewel-hunter.json](./358299-nia-jewel-hunter.json) |
 | Niaki | 262065 | [262065-niaki.json](./262065-niaki.json) |
 | Nibble Quest | 410235 | [410235-nibble-quest.json](./410235-nibble-quest.json) |
 | Nice Shot Golf | 123629 | [123629-nice-shot-golf.json](./123629-nice-shot-golf.json) |
@@ -928,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Num One: Revised Edition | 187504 | [187504-num-one-revised-edition.json](./187504-num-one-revised-edition.json) |
 | Number Chain - Logic Puzzle | 96048 | [96048-number-chain-logic-puzzle.json](./96048-number-chain-logic-puzzle.json) |
 | Number Guesser | 97905 | [97905-number-guesser.json](./97905-number-guesser.json) |
+| Number Merge Mania | 358289 | [358289-number-merge-mania.json](./358289-number-merge-mania.json) |
 | Number Munchers | 128661 | [128661-number-munchers.json](./128661-number-munchers.json) |
 | Number Munchers | 50339 | [50339-number-munchers.json](./50339-number-munchers.json) |
 | Number One Rich | 158198 | [158198-number-one-rich.json](./158198-number-one-rich.json) |
