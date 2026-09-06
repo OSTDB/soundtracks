@@ -633,7 +633,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobot | 153987 | [153987-gobot.json](./153987-gobot.json) |
 | Gobotix: Duo | 376435 | [376435-gobotix-duo.json](./376435-gobotix-duo.json) |
 | Gobs of Games | 49928 | [49928-gobs-of-games.json](./49928-gobs-of-games.json) |
+| Gobsmacked! | 358864 | [358864-gobsmacked.json](./358864-gobsmacked.json) |
 | God Eater 2 | 11853 | [11853-god-eater-2.json](./11853-god-eater-2.json) |
+| God Fishing | 358872 | [358872-god-fishing.json](./358872-god-fishing.json) |
 | God is in the Radio | 269314 | [269314-god-is-in-the-radio.json](./269314-god-is-in-the-radio.json) |
 | God is Watching | 336922 | [336922-god-is-watching.json](./336922-god-is-watching.json) |
 | God of Stocks | 412963 | [412963-god-of-stocks.json](./412963-god-of-stocks.json) |
