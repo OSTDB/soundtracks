@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadria Item Shop | 107894 | [107894-cadria-item-shop.json](./107894-cadria-item-shop.json) |
 | Caduca | 412969 | [412969-caduca.json](./412969-caduca.json) |
 | Caesar's Travels | 73307 | [73307-caesars-travels.json](./73307-caesars-travels.json) |
+| Caesars Palace | 365687 | [365687-caesars-palace.json](./365687-caesars-palace.json) |
 | Café Bouvardie | 225269 | [225269-cafe-bouvardie.json](./225269-cafe-bouvardie.json) |
 | Cafe Cuillere | 141888 | [141888-cafe-cuillere.json](./141888-cafe-cuillere.json) |
 | Café Enchanté: Limited Edition | 254787 | [254787-cafe-enchante-limited-edition.json](./254787-cafe-enchante-limited-edition.json) |
@@ -236,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caramella Girls | 174357 | [174357-caramella-girls.json](./174357-caramella-girls.json) |
 | Caravan Stories: Academy of Magic | 194037 | [194037-caravan-stories-academy-of-magic.json](./194037-caravan-stories-academy-of-magic.json) |
 | Carbon Battle Royale | 143717 | [143717-carbon-battle-royale.json](./143717-carbon-battle-royale.json) |
+| Card & Puzzle Collection Ginga | 365679 | [365679-card-and-puzzle-collection-ginga.json](./365679-card-and-puzzle-collection-ginga.json) |
 | Card Colony | 383343 | [383343-card-colony.json](./383343-card-colony.json) |
 | Card Crawl 2 | 404815 | [404815-card-crawl-2.json](./404815-card-crawl-2.json) |
 | Card Crunch | 105954 | [105954-card-crunch.json](./105954-card-crunch.json) |
@@ -1034,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claustrophobia | 268184 | [268184-claustrophobia.json](./268184-claustrophobia.json) |
 | Claustrophobia 1024 | 260947 | [260947-claustrophobia-1024.json](./260947-claustrophobia-1024.json) |
 | Claustrophobia 1024 2: The Mystery of Too Many Maps | 260949 | [260949-claustrophobia-1024-2-the-mystery-of-too-many-maps.json](./260949-claustrophobia-1024-2-the-mystery-of-too-many-maps.json) |
+| Claw Dropper | 365720 | [365720-claw-dropper.json](./365720-claw-dropper.json) |
 | Claw Express | 270384 | [270384-claw-express.json](./270384-claw-express.json) |
 | Clawless Coin | 405526 | [405526-clawless-coin.json](./405526-clawless-coin.json) |
 | Clay Beats | 334504 | [334504-clay-beats.json](./334504-clay-beats.json) |
@@ -1057,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Deity | 246660 | [246660-click-deity.json](./246660-click-deity.json) |
 | Click For Cash: Cashed Out | 265944 | [265944-click-for-cash-cashed-out.json](./265944-click-for-cash-cashed-out.json) |
 | Click on their Heads | 158189 | [158189-click-on-their-heads.json](./158189-click-on-their-heads.json) |
+| Click the Ball! | 365716 | [365716-click-the-ball.json](./365716-click-the-ball.json) |
 | Click the Business | 111007 | [111007-click-the-business.json](./111007-click-the-business.json) |
 | Click to Sail | 218703 | [218703-click-to-sail.json](./218703-click-to-sail.json) |
 | Click! | 94731 | [94731-click.json](./94731-click.json) |
@@ -1232,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Bound: Episode 4 | 207504 | [207504-college-bound-episode-4.json](./207504-college-bound-episode-4.json) |
 | College Craze | 210863 | [210863-college-craze.json](./210863-college-craze.json) |
 | College Hoops 2K6 | 5782 | [5782-college-hoops-2k6.json](./5782-college-hoops-2k6.json) |
+| College Slam | 365698 | [365698-college-slam.json](./365698-college-slam.json) |
 | College Wrestling Manager 2026 | 384514 | [384514-college-wrestling-manager-2026.json](./384514-college-wrestling-manager-2026.json) |
 | Colliderscope | 109673 | [109673-colliderscope.json](./109673-colliderscope.json) |
 | Collision | 331107 | [331107-collision.json](./331107-collision.json) |
@@ -1398,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect Lyrical Spectacle Forest | 258711 | [258711-connect-lyrical-spectacle-forest.json](./258711-connect-lyrical-spectacle-forest.json) |
 | Connect Master | 228115 | [228115-connect-master.json](./228115-connect-master.json) |
 | Connect/Words | 87696 | [87696-connect-words.json](./87696-connect-words.json) |
+| Connected Hearts: Hour of the Witch - Collector's Edition | 365708 | [365708-connected-hearts-hour-of-the-witch-collectors-edition.json](./365708-connected-hearts-hour-of-the-witch-collectors-edition.json) |
 | Connectify | 190196 | [190196-connectify.json](./190196-connectify.json) |
 | Connection | 100859 | [100859-connection.json](./100859-connection.json) |
 | Connor | 218145 | [218145-connor.json](./218145-connor.json) |
