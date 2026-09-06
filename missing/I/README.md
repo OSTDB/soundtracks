@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Make Saints | 206926 | [206926-i-make-saints.json](./206926-i-make-saints.json) |
 | I Mother | 339629 | [339629-i-mother.json](./339629-i-mother.json) |
 | I Need a Name | 192971 | [192971-i-need-a-name.json](./192971-i-need-a-name.json) |
+| I Offered You the Crown | 355016 | [355016-i-offered-you-the-crown.json](./355016-i-offered-you-the-crown.json) |
 | I Picked Up a Mysterious Smartphone That You Can Change Everything as You Like | 98462 | [98462-i-picked-up-a-mysterious-smartphone-that-you-can-change-everything-as-you-like.json](./98462-i-picked-up-a-mysterious-smartphone-that-you-can-change-everything-as-you-like.json) |
 | I R Teh More Amazzzzing! | 330515 | [330515-i-r-teh-more-amazzzzing.json](./330515-i-r-teh-more-amazzzzing.json) |
 | I Remember the Rain | 223669 | [223669-i-remember-the-rain.json](./223669-i-remember-the-rain.json) |
