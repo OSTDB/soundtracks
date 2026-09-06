@@ -753,6 +753,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pif Paf | 105323 | [105323-pif-paf.json](./105323-pif-paf.json) |
 | Pig Bros Adventure | 214729 | [214729-pig-bros-adventure.json](./214729-pig-bros-adventure.json) |
 | Pig vs. Box | 366219 | [366219-pig-vs-box.json](./366219-pig-vs-box.json) |
+| Pigeon West: Call of Gun. Isekai | 340394 | [340394-pigeon-west-call-of-gun-isekai.json](./340394-pigeon-west-call-of-gun-isekai.json) |
+| Pigeon West: El Diablo | 340393 | [340393-pigeon-west-el-diablo.json](./340393-pigeon-west-el-diablo.json) |
 | Piggy Go | 212489 | [212489-piggy-go.json](./212489-piggy-go.json) |
 | Piggy Only Up | 408835 | [408835-piggy-only-up.json](./408835-piggy-only-up.json) |
 | Piggy: Chapter 1 | 246093 | [246093-piggy-chapter-1.json](./246093-piggy-chapter-1.json) |
