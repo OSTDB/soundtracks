@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overcursed | 176494 | [176494-overcursed.json](./176494-overcursed.json) |
 | OverDrift Festival: Exclusive Cars Pack #2 | 293403 | [293403-overdrift-festival-exclusive-cars-pack-2.json](./293403-overdrift-festival-exclusive-cars-pack-2.json) |
 | Overdrive | 203565 | [203565-overdrive.json](./203565-overdrive.json) |
+| Overdrive II: Shadow Battle | 323169 | [323169-overdrive-ii-shadow-battle.json](./323169-overdrive-ii-shadow-battle.json) |
 | Overencumbered In Another World | 333382 | [333382-overencumbered-in-another-world.json](./333382-overencumbered-in-another-world.json) |
 | Overhead | 402256 | [402256-overhead.json](./402256-overhead.json) |
 | Overhead Kick | 248319 | [248319-overhead-kick.json](./248319-overhead-kick.json) |
