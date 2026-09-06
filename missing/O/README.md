@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Last Game | 143742 | [143742-one-last-game.json](./143742-one-last-game.json) |
 | One Last Journey | 350452 | [350452-one-last-journey.json](./350452-one-last-journey.json) |
 | One Last Memory: Reimagined | 196844 | [196844-one-last-memory-reimagined.json](./196844-one-last-memory-reimagined.json) |
+| One Last Star Trip | 342073 | [342073-one-last-star-trip.json](./342073-one-last-star-trip.json) |
 | One Life: Parkour Project | 318781 | [318781-one-life-parkour-project.json](./318781-one-life-parkour-project.json) |
 | One Line - One Touch Drawing | 101547 | [101547-one-line-one-touch-drawing.json](./101547-one-line-one-touch-drawing.json) |
 | One Line : Single Stroke Drawing | 106628 | [106628-one-line-single-stroke-drawing.json](./106628-one-line-single-stroke-drawing.json) |
@@ -672,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer Empires | 67317 | [67317-outer-empires.json](./67317-outer-empires.json) |
 | Outer Outage | 265964 | [265964-outer-outage.json](./265964-outer-outage.json) |
 | Outfoxed | 179165 | [179165-outfoxed.json](./179165-outfoxed.json) |
+| Outhouse | 342063 | [342063-outhouse.json](./342063-outhouse.json) |
 | Outland Odyssey | 214172 | [214172-outland-odyssey.json](./214172-outland-odyssey.json) |
 | Outland Rapture | 169475 | [169475-outland-rapture.json](./169475-outland-rapture.json) |
 | Outlands Safehouse | 405475 | [405475-outlands-safehouse.json](./405475-outlands-safehouse.json) |
