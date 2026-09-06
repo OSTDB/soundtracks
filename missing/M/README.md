@@ -2027,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortie College | 370714 | [370714-mortie-college.json](./370714-mortie-college.json) |
 | Mortimer: First Launch | 341337 | [341337-mortimer-first-launch.json](./341337-mortimer-first-launch.json) |
 | Morvyn Gutter | 341338 | [341338-morvyn-gutter.json](./341338-morvyn-gutter.json) |
+| Morwen Estate | 342068 | [342068-morwen-estate.json](./342068-morwen-estate.json) |
 | Mosaic | 18929 | [18929-mosaic.json](./18929-mosaic.json) |
 | Mosaic Chronicles Deluxe: Complete + | 328837 | [328837-mosaic-chronicles-deluxe-complete.json](./328837-mosaic-chronicles-deluxe-complete.json) |
 | Mosaic Chronicles Deluxe: Ultimate Edition | 243366 | [243366-mosaic-chronicles-deluxe-ultimate-edition.json](./243366-mosaic-chronicles-deluxe-ultimate-edition.json) |
@@ -2541,4 +2542,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythos Interactive Game Collection | 341355 | [341355-mythos-interactive-game-collection.json](./341355-mythos-interactive-game-collection.json) |
 | Myths of Moonrise | 214170 | [214170-myths-of-moonrise.json](./214170-myths-of-moonrise.json) |
 | Myths of the World: Spirit Wolf - Collector's Edition | 83555 | [83555-myths-of-the-world-spirit-wolf-collectors-edition.json](./83555-myths-of-the-world-spirit-wolf-collectors-edition.json) |
+| Mythscroll | 342041 | [342041-mythscroll.json](./342041-mythscroll.json) |
 | Mytran Wars | 19202 | [19202-mytran-wars.json](./19202-mytran-wars.json) |
