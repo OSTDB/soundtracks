@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartache | 57687 | [57687-heartache.json](./57687-heartache.json) |
 | Heartbeat at Midnight | 407310 | [407310-heartbeat-at-midnight.json](./407310-heartbeat-at-midnight.json) |
 | Heartbeat Scramble | 209621 | [209621-heartbeat-scramble.json](./209621-heartbeat-scramble.json) |
+| Heartbeats | 338206 | [338206-heartbeats.json](./338206-heartbeats.json) |
 | HeartBound | 377566 | [377566-heartbound.json](./377566-heartbound.json) |
 | Hearthstone: Forged in the Barrens | 143738 | [143738-hearthstone-forged-in-the-barrens.json](./143738-hearthstone-forged-in-the-barrens.json) |
 | Hearthstone: Fractured in Alterac Valley | 387383 | [387383-hearthstone-fractured-in-alterac-valley.json](./387383-hearthstone-fractured-in-alterac-valley.json) |
@@ -982,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holonglide | 106611 | [106611-holonglide.json](./106611-holonglide.json) |
 | Holotyping | 210245 | [210245-holotyping.json](./210245-holotyping.json) |
 | Holy Avenger | 30916 | [30916-holy-avenger.json](./30916-holy-avenger.json) |
+| Holy Beast Online | 338213 | [338213-holy-beast-online.json](./338213-holy-beast-online.json) |
 | Holy Cow! Milking Simulator | 118390 | [118390-holy-cow-milking-simulator.json](./118390-holy-cow-milking-simulator.json) |
 | Holy Horror Mansion | 317593 | [317593-holy-horror-mansion.json](./317593-holy-horror-mansion.json) |
 | Holy Knight Bitch | 82902 | [82902-holy-knight-bitch.json](./82902-holy-knight-bitch.json) |
