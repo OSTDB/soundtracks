@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Baller 0.1 | 151706 | [151706-neon-baller-0-1.json](./151706-neon-baller-0-1.json) |
 | Neon Blood | 223443 | [223443-neon-blood.json](./223443-neon-blood.json) |
 | Neon Brood | 99599 | [99599-neon-brood.json](./99599-neon-brood.json) |
+| Neon City Hacker | 322610 | [322610-neon-city-hacker.json](./322610-neon-city-hacker.json) |
 | Neon Cyborg Cat Club | 148533 | [148533-neon-cyborg-cat-club.json](./148533-neon-cyborg-cat-club.json) |
 | Neon Dash | 391613 | [391613-neon-dash.json](./391613-neon-dash.json) |
 | Neon Defenders Premium Defense | 200156 | [200156-neon-defenders-premium-defense.json](./200156-neon-defenders-premium-defense.json) |
@@ -670,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden Sigma 2: Collector's Edition | 44657 | [44657-ninja-gaiden-sigma-2-collectors-edition.json](./44657-ninja-gaiden-sigma-2-collectors-edition.json) |
 | Ninja Gaiden: Dragon Scroll | 269875 | [269875-ninja-gaiden-dragon-scroll.json](./269875-ninja-gaiden-dragon-scroll.json) |
 | Ninja Gaiden: Master Collection - Version D | 222501 | [222501-ninja-gaiden-master-collection-version-d.json](./222501-ninja-gaiden-master-collection-version-d.json) |
+| Ninja Gear | 322583 | [322583-ninja-gear.json](./322583-ninja-gear.json) |
 | Ninja Girls: Kunoichi Puzzle | 315840 | [315840-ninja-girls-kunoichi-puzzle.json](./315840-ninja-girls-kunoichi-puzzle.json) |
 | Ninja Hattori-kun | 346042 | [346042-ninja-hattori-kun.json](./346042-ninja-hattori-kun.json) |
 | Ninja Instinct | 25765 | [25765-ninja-instinct.json](./25765-ninja-instinct.json) |
