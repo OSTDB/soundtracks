@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barney Bear Meets Santa Claus | 14286 | [14286-barney-bear-meets-santa-claus.json](./14286-barney-bear-meets-santa-claus.json) |
 | Barney Shoot 'Em Up | 325816 | [325816-barney-shoot-em-up.json](./325816-barney-shoot-em-up.json) |
 | Barney's Hide & Seek Game | 46286 | [46286-barneys-hide-and-seek-game.json](./46286-barneys-hide-and-seek-game.json) |
+| Barnicle | 344380 | [344380-barnicle.json](./344380-barnicle.json) |
 | Barnyard Games For Kids | 96737 | [96737-barnyard-games-for-kids.json](./96737-barnyard-games-for-kids.json) |
 | Baron Baldric: A Grave Adventure | 14287 | [14287-baron-baldric-a-grave-adventure.json](./14287-baron-baldric-a-grave-adventure.json) |
 | Barrage Fantasia | 144356 | [144356-barrage-fantasia.json](./144356-barrage-fantasia.json) |
@@ -458,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batterneers | 158215 | [158215-batterneers.json](./158215-batterneers.json) |
 | Batteryman Recharges the World! | 184638 | [184638-batteryman-recharges-the-world.json](./184638-batteryman-recharges-the-world.json) |
 | Battington Manor | 393481 | [393481-battington-manor.json](./393481-battington-manor.json) |
+| Battle | 344392 | [344392-battle.json](./344392-battle.json) |
 | Battle Academy | 200206 | [200206-battle-academy.json](./200206-battle-academy.json) |
 | Battle Alchemy: Autobattler | 275879 | [275879-battle-alchemy-autobattler.json](./275879-battle-alchemy-autobattler.json) |
 | Battle Arena Toshinden | 225275 | [225275-battle-arena-toshinden.json](./225275-battle-arena-toshinden.json) |
@@ -826,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beraboh Man | 40264 | [40264-beraboh-man.json](./40264-beraboh-man.json) |
 | Beraltors | 117078 | [117078-beraltors.json](./117078-beraltors.json) |
 | Bereaved: Soldiers of Fate | 332850 | [332850-bereaved-soldiers-of-fate.json](./332850-bereaved-soldiers-of-fate.json) |
+| Berenice: Videogame | 344346 | [344346-berenice-videogame.json](./344346-berenice-videogame.json) |
 | Berenstain Bears in Big Paw's Cave | 273082 | [273082-berenstain-bears-in-big-paws-cave.json](./273082-berenstain-bears-in-big-paws-cave.json) |
 | Bergen Bridge Beginner 1 | 86721 | [86721-bergen-bridge-beginner-1.json](./86721-bergen-bridge-beginner-1.json) |
 | Bermuda: Lost Survival | 43365 | [43365-bermuda-lost-survival.json](./43365-bermuda-lost-survival.json) |
@@ -833,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berry Brother | 257662 | [257662-berry-brother.json](./257662-berry-brother.json) |
 | Berry Hunt Survivors | 247779 | [247779-berry-hunt-survivors.json](./247779-berry-hunt-survivors.json) |
 | Bertie the Stableboy | 265410 | [265410-bertie-the-stableboy.json](./265410-bertie-the-stableboy.json) |
+| Berty the Giraffe | 344391 | [344391-berty-the-giraffe.json](./344391-berty-the-giraffe.json) |
 | Berusky | 135275 | [135275-berusky.json](./135275-berusky.json) |
 | Besotted | 297805 | [297805-besotted.json](./297805-besotted.json) |
 | Best Buds vs Bad Guys | 52631 | [52631-best-buds-vs-bad-guys.json](./52631-best-buds-vs-bad-guys.json) |
@@ -1235,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blizzard Blowout 64 | 177563 | [177563-blizzard-blowout-64.json](./177563-blizzard-blowout-64.json) |
 | Blob | 14319 | [14319-blob.json](./14319-blob.json) |
 | Blob Wars | 294472 | [294472-blob-wars.json](./294472-blob-wars.json) |
+| Blob's Adventure | 344389 | [344389-blobs-adventure.json](./344389-blobs-adventure.json) |
 | Bloba's Adventure | 251849 | [251849-blobas-adventure.json](./251849-blobas-adventure.json) |
 | Blobber | 269277 | [269277-blobber.json](./269277-blobber.json) |
 | Blobbins | 151745 | [151745-blobbins.json](./151745-blobbins.json) |
