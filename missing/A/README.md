@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aefen Fall | 141252 | [141252-aefen-fall.json](./141252-aefen-fall.json) |
 | Aegis Force: The Scorian War | 328227 | [328227-aegis-force-the-scorian-war.json](./328227-aegis-force-the-scorian-war.json) |
 | Aegis Kingdoms | 216463 | [216463-aegis-kingdoms.json](./216463-aegis-kingdoms.json) |
+| Aeoliada | 353882 | [353882-aeoliada.json](./353882-aeoliada.json) |
 | Aeolis Tournament | 120419 | [120419-aeolis-tournament.json](./120419-aeolis-tournament.json) |
 | Aeolwyn's Legacy | 200707 | [200707-aeolwyns-legacy.json](./200707-aeolwyns-legacy.json) |
 | Aeon Flux | 15847 | [15847-aeon-flux.json](./15847-aeon-flux.json) |
@@ -1845,6 +1846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin of Monsters 2: Spacenator | 404810 | [404810-assassin-of-monsters-2-spacenator.json](./404810-assassin-of-monsters-2-spacenator.json) |
 | Assassin Of Spider 2: 2099 | 404811 | [404811-assassin-of-spider-2-2099.json](./404811-assassin-of-spider-2-2099.json) |
 | Assassin's Creed Identity | 17028 | [17028-assassins-creed-identity.json](./17028-assassins-creed-identity.json) |
+| Assassin's Creed II Game of the Year Edition + Assassin's Creed | 353891 | [353891-assassins-creed-ii-game-of-the-year-edition-assassins-creed.json](./353891-assassins-creed-ii-game-of-the-year-edition-assassins-creed.json) |
 | Assassin's Creed III: Benedict Arnold | 261996 | [261996-assassins-creed-iii-benedict-arnold.json](./261996-assassins-creed-iii-benedict-arnold.json) |
 | Assassin's Creed III: Liberation | 3195 | [3195-assassins-creed-iii-liberation.json](./3195-assassins-creed-iii-liberation.json) |
 | Assassin's Creed IV Black Flag: Aveline | 26095 | [26095-assassins-creed-iv-black-flag-aveline.json](./26095-assassins-creed-iv-black-flag-aveline.json) |
@@ -2078,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Augmented Fourth | 60028 | [60028-augmented-fourth.json](./60028-augmented-fourth.json) |
 | Aura Aura Climber | 66985 | [66985-aura-aura-climber.json](./66985-aura-aura-climber.json) |
 | Aura Kingdom | 8746 | [8746-aura-kingdom.json](./8746-aura-kingdom.json) |
+| Aura Kingdom: Impact | 353913 | [353913-aura-kingdom-impact.json](./353913-aura-kingdom-impact.json) |
 | Auraboros | 181358 | [181358-auraboros.json](./181358-auraboros.json) |
 | Aural to Hikari no Ryuu: Gathering Light | 327602 | [327602-aural-to-hikari-no-ryuu-gathering-light.json](./327602-aural-to-hikari-no-ryuu-gathering-light.json) |
 | Auro: A Monster-Bumping Adventure | 33099 | [33099-auro-a-monster-bumping-adventure.json](./33099-auro-a-monster-bumping-adventure.json) |
