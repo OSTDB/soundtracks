@@ -895,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Guy | 217006 | [217006-dice-guy.json](./217006-dice-guy.json) |
 | Dice Legacy: Corrupted Fates | 196296 | [196296-dice-legacy-corrupted-fates.json](./196296-dice-legacy-corrupted-fates.json) |
 | Dice Mice | 184615 | [184615-dice-mice.json](./184615-dice-mice.json) |
+| Dice of Kalma | 357258 | [357258-dice-of-kalma.json](./357258-dice-of-kalma.json) |
 | Dice Paradise | 175416 | [175416-dice-paradise.json](./175416-dice-paradise.json) |
 | Dice Rogues | 406120 | [406120-dice-rogues.json](./406120-dice-rogues.json) |
 | Dice Up | 274754 | [274754-dice-up.json](./274754-dice-up.json) |
