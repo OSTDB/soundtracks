@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real World Golf 2007 | 23010 | [23010-real-world-golf-2007.json](./23010-real-world-golf-2007.json) |
 | Real-Time General | 251846 | [251846-real-time-general.json](./251846-real-time-general.json) |
 | Reality | 226976 | [226976-reality.json](./226976-reality.json) |
+| Reality | 353297 | [353297-reality.json](./353297-reality.json) |
 | Reality Core | 309677 | [309677-reality-core.json](./309677-reality-core.json) |
 | Reality Rifts | 320517 | [320517-reality-rifts.json](./320517-reality-rifts.json) |
 | RealityMinds | 165651 | [165651-realityminds.json](./165651-realityminds.json) |
@@ -1139,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Riot HD | 20646 | [20646-rocket-riot-hd.json](./20646-rocket-riot-hd.json) |
 | Rocket Rush | 99633 | [99633-rocket-rush.json](./99633-rocket-rush.json) |
 | Rocket Smash | 273642 | [273642-rocket-smash.json](./273642-rocket-smash.json) |
+| Rocket Wrestling Entertainment | 353290 | [353290-rocket-wrestling-entertainment.json](./353290-rocket-wrestling-entertainment.json) |
 | Rocketbirds 2: Mind Control | 170517 | [170517-rocketbirds-2-mind-control.json](./170517-rocketbirds-2-mind-control.json) |
 | Rocketbirds 2: Rescue Bundle | 170516 | [170516-rocketbirds-2-rescue-bundle.json](./170516-rocketbirds-2-rescue-bundle.json) |
 | Rocketeer | 211953 | [211953-rocketeer.json](./211953-rocketeer.json) |
