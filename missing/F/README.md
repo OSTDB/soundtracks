@@ -15,6 +15,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-Stop Museum | 362288 | [362288-f-stop-museum.json](./362288-f-stop-museum.json) |
 | F-Zero | 3490 | [3490-f-zero.json](./3490-f-zero.json) |
 | F-Zero X Climax | 135258 | [135258-f-zero-x-climax.json](./135258-f-zero-x-climax.json) |
+| F-Zero: Falcon Densetsu e+ - Big Blue: Pigeon | 329545 | [329545-f-zero-falcon-densetsu-e-big-blue-pigeon.json](./329545-f-zero-falcon-densetsu-e-big-blue-pigeon.json) |
+| F-Zero: Falcon Densetsu e+ - Great Star | 329563 | [329563-f-zero-falcon-densetsu-e-great-star.json](./329563-f-zero-falcon-densetsu-e-great-star.json) |
+| F-Zero: Falcon Densetsu e+ - Hyper Speeder | 329562 | [329562-f-zero-falcon-densetsu-e-hyper-speeder.json](./329562-f-zero-falcon-densetsu-e-hyper-speeder.json) |
+| F-Zero: Falcon Densetsu e+ - Illusion: Ace of Hearts | 329550 | [329550-f-zero-falcon-densetsu-e-illusion-ace-of-hearts.json](./329550-f-zero-falcon-densetsu-e-illusion-ace-of-hearts.json) |
+| F-Zero: Falcon Densetsu e+ - King Meteor | 329561 | [329561-f-zero-falcon-densetsu-e-king-meteor.json](./329561-f-zero-falcon-densetsu-e-king-meteor.json) |
+| F-Zero: Falcon Densetsu e+ - Lightning: Grid Maze | 329544 | [329544-f-zero-falcon-densetsu-e-lightning-grid-maze.json](./329544-f-zero-falcon-densetsu-e-lightning-grid-maze.json) |
+| F-Zero: Falcon Densetsu e+ - Lightning: Light Bulb | 329548 | [329548-f-zero-falcon-densetsu-e-lightning-light-bulb.json](./329548-f-zero-falcon-densetsu-e-lightning-light-bulb.json) |
+| F-Zero: Falcon Densetsu e+ - Little Wyvern | 329558 | [329558-f-zero-falcon-densetsu-e-little-wyvern.json](./329558-f-zero-falcon-densetsu-e-little-wyvern.json) |
+| F-Zero: Falcon Densetsu e+ - Mist Flow: Screw | 329552 | [329552-f-zero-falcon-densetsu-e-mist-flow-screw.json](./329552-f-zero-falcon-densetsu-e-mist-flow-screw.json) |
+| F-Zero: Falcon Densetsu e+ - Port Town: Falcon | 329549 | [329549-f-zero-falcon-densetsu-e-port-town-falcon.json](./329549-f-zero-falcon-densetsu-e-port-town-falcon.json) |
+| F-Zero: Falcon Densetsu e+ - Queen Meteor | 329560 | [329560-f-zero-falcon-densetsu-e-queen-meteor.json](./329560-f-zero-falcon-densetsu-e-queen-meteor.json) |
+| F-Zero: Falcon Densetsu e+ - Sand Ocean: Make or Break | 329546 | [329546-f-zero-falcon-densetsu-e-sand-ocean-make-or-break.json](./329546-f-zero-falcon-densetsu-e-sand-ocean-make-or-break.json) |
+| F-Zero: Falcon Densetsu e+ - Silence: Kamitoba | 329551 | [329551-f-zero-falcon-densetsu-e-silence-kamitoba.json](./329551-f-zero-falcon-densetsu-e-silence-kamitoba.json) |
+| F-Zero: Falcon Densetsu e+ - Twin Noritta | 329559 | [329559-f-zero-falcon-densetsu-e-twin-noritta.json](./329559-f-zero-falcon-densetsu-e-twin-noritta.json) |
+| F-Zero: Falcon Densetsu e+ - White Land: Yeti Foot | 329553 | [329553-f-zero-falcon-densetsu-e-white-land-yeti-foot.json](./329553-f-zero-falcon-densetsu-e-white-land-yeti-foot.json) |
 | F.E.A.R. Files | 5640 | [5640-f-e-a-r-files.json](./5640-f-e-a-r-files.json) |
 | F/A-18 Hornet 2.0 | 47295 | [47295-f-a-18-hornet-2-0.json](./47295-f-a-18-hornet-2-0.json) |
 | F1 2016 | 19405 | [19405-f1-2016.json](./19405-f1-2016.json) |
@@ -256,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fare Thee Well | 96730 | [96730-fare-thee-well.json](./96730-fare-thee-well.json) |
 | Farethere City | 75151 | [75151-farethere-city.json](./75151-farethere-city.json) |
 | Farewell | 252987 | [252987-farewell.json](./252987-farewell.json) |
+| Farewell of Life | 329569 | [329569-farewell-of-life.json](./329569-farewell-of-life.json) |
 | Farewell, My Dearest Love | 314063 | [314063-farewell-my-dearest-love.json](./314063-farewell-my-dearest-love.json) |
 | Farfalla | 91442 | [91442-farfalla.json](./91442-farfalla.json) |
 | Faria: A World of Mystery and Danger! | 48060 | [48060-faria-a-world-of-mystery-and-danger.json](./48060-faria-a-world-of-mystery-and-danger.json) |
@@ -292,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmhand Go! | 223171 | [223171-farmhand-go.json](./223171-farmhand-go.json) |
 | Farming Homestead | 411570 | [411570-farming-homestead.json](./411570-farming-homestead.json) |
 | Farming Real Simulation Tractor, Combine Trucks Farmer Land Game | 231084 | [231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json](./231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json) |
+| Farming Sim 25: Drive Tractors, Combine, Trucks | 329568 | [329568-farming-sim-25-drive-tractors-combine-trucks.json](./329568-farming-sim-25-drive-tractors-combine-trucks.json) |
 | Farming Simulator | 81357 | [81357-farming-simulator.json](./81357-farming-simulator.json) |
 | Farming Simulator 17 big bud pack | 110336 | [110336-farming-simulator-17-big-bud-pack.json](./110336-farming-simulator-17-big-bud-pack.json) |
 | Farming Simulator 17: Platinum Expansion | 24785 | [24785-farming-simulator-17-platinum-expansion.json](./24785-farming-simulator-17-platinum-expansion.json) |
@@ -600,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Hour | 27772 | [27772-final-hour.json](./27772-final-hour.json) |
 | Final Nation | 251823 | [251823-final-nation.json](./251823-final-nation.json) |
 | Final Odyssey | 378173 | [378173-final-odyssey.json](./378173-final-odyssey.json) |
+| Final Redoubt: Zombie Apocalypse | 329590 | [329590-final-redoubt-zombie-apocalypse.json](./329590-final-redoubt-zombie-apocalypse.json) |
 | Final Round | 398954 | [398954-final-round.json](./398954-final-round.json) |
 | Final Sanctuary | 326993 | [326993-final-sanctuary.json](./326993-final-sanctuary.json) |
 | Final Shot | 177554 | [177554-final-shot.json](./177554-final-shot.json) |
