@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zippy Zombi | 73813 | [73813-zippy-zombi.json](./73813-zippy-zombi.json) |
 | Zjawa: Bloodstained Soul | 374587 | [374587-zjawa-bloodstained-soul.json](./374587-zjawa-bloodstained-soul.json) |
 | Zodiac Online | 93558 | [93558-zodiac-online.json](./93558-zodiac-online.json) |
+| Zodiac Paradigm | 353874 | [353874-zodiac-paradigm.json](./353874-zodiac-paradigm.json) |
 | Zodiakalik | 161363 | [161363-zodiakalik.json](./161363-zodiakalik.json) |
 | Zodiarc | 331135 | [331135-zodiarc.json](./331135-zodiarc.json) |
 | Zodiarc Ring | 331146 | [331146-zodiarc-ring.json](./331146-zodiarc-ring.json) |
