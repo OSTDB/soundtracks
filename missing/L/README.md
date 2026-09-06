@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Las Vegas | 41423 | [41423-las-vegas.json](./41423-las-vegas.json) |
 | Las Vegas Gambling | 47291 | [47291-las-vegas-gambling.json](./47291-las-vegas-gambling.json) |
 | Las Vegas Roulette | 47278 | [47278-las-vegas-roulette.json](./47278-las-vegas-roulette.json) |
+| Laser | 322581 | [322581-laser.json](./322581-laser.json) |
 | Laser Blaster | 58252 | [58252-laser-blaster.json](./58252-laser-blaster.json) |
 | Laser Dreams | 58267 | [58267-laser-dreams.json](./58267-laser-dreams.json) |
 | Laser Droplets | 159870 | [159870-laser-droplets.json](./159870-laser-droplets.json) |
@@ -1235,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lustful Assistant | 223176 | [223176-lustful-assistant.json](./223176-lustful-assistant.json) |
 | Lusty God | 238763 | [238763-lusty-god.json](./238763-lusty-god.json) |
 | Lux Ex: Cyber Initiation | 214190 | [214190-lux-ex-cyber-initiation.json](./214190-lux-ex-cyber-initiation.json) |
+| Luxcustos | 322605 | [322605-luxcustos.json](./322605-luxcustos.json) |
 | Luxuria Superbia | 10630 | [10630-luxuria-superbia.json](./10630-luxuria-superbia.json) |
 | LV99: Final Fortress | 140592 | [140592-lv99-final-fortress.json](./140592-lv99-final-fortress.json) |
 | Lyratha: Labyrinth - Survival Escape | 115682 | [115682-lyratha-labyrinth-survival-escape.json](./115682-lyratha-labyrinth-survival-escape.json) |
