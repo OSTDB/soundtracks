@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ellie's Farm 4: Guardians of the Wild - Collector's Edition | 356104 | [356104-ellies-farm-4-guardians-of-the-wild-collectors-edition.json](./356104-ellies-farm-4-guardians-of-the-wild-collectors-edition.json) |
 | Ellie's Farm 5: Long Journey - Collector's Edition | 356102 | [356102-ellies-farm-5-long-journey-collectors-edition.json](./356102-ellies-farm-5-long-journey-collectors-edition.json) |
 | Ellie's Farm: Forest Fires - Collector's Edition | 356105 | [356105-ellies-farm-forest-fires-collectors-edition.json](./356105-ellies-farm-forest-fires-collectors-edition.json) |
+| Ellingby House | 351026 | [351026-ellingby-house.json](./351026-ellingby-house.json) |
 | Elminage Original | 21033 | [21033-elminage-original.json](./21033-elminage-original.json) |
 | Elmo's Deep Sea Adventure | 71511 | [71511-elmos-deep-sea-adventure.json](./71511-elmos-deep-sea-adventure.json) |
 | Elmo's Deep Sea Adventure | 71513 | [71513-elmos-deep-sea-adventure.json](./71513-elmos-deep-sea-adventure.json) |
@@ -464,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | England Team Manager | 69289 | [69289-england-team-manager.json](./69289-england-team-manager.json) |
 | English Country Tune | 9699 | [9699-english-country-tune.json](./9699-english-country-tune.json) |
 | Enherjar Synergy | 159880 | [159880-enherjar-synergy.json](./159880-enherjar-synergy.json) |
+| Enigma Heart | 351000 | [351000-enigma-heart.json](./351000-enigma-heart.json) |
 | Enigmarella | 190223 | [190223-enigmarella.json](./190223-enigmarella.json) |
 | Enigmatis: The Ghosts of Maple Creek | 17137 | [17137-enigmatis-the-ghosts-of-maple-creek.json](./17137-enigmatis-the-ghosts-of-maple-creek.json) |
 | EnigmOn | 174328 | [174328-enigmon.json](./174328-enigmon.json) |
@@ -530,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eret Link | 229385 | [229385-eret-link.json](./229385-eret-link.json) |
 | Eric and the Floaters | 45324 | [45324-eric-and-the-floaters.json](./45324-eric-and-the-floaters.json) |
 | Eric's All-in-1 Solitaire | 86728 | [86728-erics-all-in-1-solitaire.json](./86728-erics-all-in-1-solitaire.json) |
+| Erika America | 351008 | [351008-erika-america.json](./351008-erika-america.json) |
 | Erina & A Mansao Rosaria | 219253 | [219253-erina-and-a-mansao-rosaria.json](./219253-erina-and-a-mansao-rosaria.json) |
 | Erion | 228699 | [228699-erion.json](./228699-erion.json) |
 | Eris and the Fading Kingdom | 208589 | [208589-eris-and-the-fading-kingdom.json](./208589-eris-and-the-fading-kingdom.json) |
