@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sargasso | 261544 | [261544-sargasso.json](./261544-sargasso.json) |
 | SAS: Anti-Terror Force | 43294 | [43294-sas-anti-terror-force.json](./43294-sas-anti-terror-force.json) |
 | Sasayu Meshiki | 357807 | [357807-sasayu-meshiki.json](./357807-sasayu-meshiki.json) |
+| Satan's Dungeon | 329593 | [329593-satans-dungeon.json](./329593-satans-dungeon.json) |
 | Satan's Pepper | 274183 | [274183-satans-pepper.json](./274183-satans-pepper.json) |
 | Satan's Zombies | 233230 | [233230-satans-zombies.json](./233230-satans-zombies.json) |
 | Satanislas | 250027 | [250027-satanislas.json](./250027-satanislas.json) |
@@ -1640,6 +1641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slick Tricks: Potion Persuasion! | 386101 | [386101-slick-tricks-potion-persuasion.json](./386101-slick-tricks-potion-persuasion.json) |
 | Slicy Flips | 322977 | [322977-slicy-flips.json](./322977-slicy-flips.json) |
 | Slide Hexagon | 358312 | [358312-slide-hexagon.json](./358312-slide-hexagon.json) |
+| Slide to Solve | 329592 | [329592-slide-to-solve.json](./329592-slide-to-solve.json) |
 | SlideNSlip | 166774 | [166774-slidenslip.json](./166774-slidenslip.json) |
 | Slider Scouts | 340387 | [340387-slider-scouts.json](./340387-slider-scouts.json) |
 | Sliding Puzzle 2018 | 104645 | [104645-sliding-puzzle-2018.json](./104645-sliding-puzzle-2018.json) |
@@ -1926,6 +1928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Clubs | 235998 | [235998-soccer-clubs.json](./235998-soccer-clubs.json) |
 | Soccer Cup: World League | 232135 | [232135-soccer-cup-world-league.json](./232135-soccer-cup-world-league.json) |
 | Soccer Feeling | 59444 | [59444-soccer-feeling.json](./59444-soccer-feeling.json) |
+| Soccer Goal Run | 329577 | [329577-soccer-goal-run.json](./329577-soccer-goal-run.json) |
 | Soccer Hero! | 103526 | [103526-soccer-hero.json](./103526-soccer-hero.json) |
 | Soccer Manager | 393490 | [393490-soccer-manager.json](./393490-soccer-manager.json) |
 | Soccer Moves | 241059 | [241059-soccer-moves.json](./241059-soccer-moves.json) |
@@ -2798,6 +2801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprite Fantasia | 174861 | [174861-sprite-fantasia.json](./174861-sprite-fantasia.json) |
 | Sprites at Play | 196880 | [196880-sprites-at-play.json](./196880-sprites-at-play.json) |
 | Sproing | 329401 | [329401-sproing.json](./329401-sproing.json) |
+| Sprout Crafter | 329587 | [329587-sprout-crafter.json](./329587-sprout-crafter.json) |
 | Sprout Lands | 193481 | [193481-sprout-lands.json](./193481-sprout-lands.json) |
 | Sprunki Block Puzzle | 326982 | [326982-sprunki-block-puzzle.json](./326982-sprunki-block-puzzle.json) |
 | Spud Customs | 324090 | [324090-spud-customs.json](./324090-spud-customs.json) |
@@ -3180,6 +3184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Force | 39670 | [39670-steel-force.json](./39670-steel-force.json) |
 | Steel Horizon | 20691 | [20691-steel-horizon.json](./20691-steel-horizon.json) |
 | Steel Hunters | 301568 | [301568-steel-hunters.json](./301568-steel-hunters.json) |
+| Steel Judgment | 329589 | [329589-steel-judgment.json](./329589-steel-judgment.json) |
 | Steel Manticore | 295016 | [295016-steel-manticore.json](./295016-steel-manticore.json) |
 | Steel Skirmish: Reloaded | 379347 | [379347-steel-skirmish-reloaded.json](./379347-steel-skirmish-reloaded.json) |
 | Steel Storm: Burning Retribution | 16243 | [16243-steel-storm-burning-retribution.json](./16243-steel-storm-burning-retribution.json) |
@@ -3254,6 +3259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Football | 94775 | [94775-stickman-football.json](./94775-stickman-football.json) |
 | Stickman Hero Fighting Game | 254749 | [254749-stickman-hero-fighting-game.json](./254749-stickman-hero-fighting-game.json) |
 | Stickman Monster Battle 3D | 401561 | [401561-stickman-monster-battle-3d.json](./401561-stickman-monster-battle-3d.json) |
+| Stickman Odyssey | 329578 | [329578-stickman-odyssey.json](./329578-stickman-odyssey.json) |
 | Stickman Pixel Archer | 239348 | [239348-stickman-pixel-archer.json](./239348-stickman-pixel-archer.json) |
 | Stickman Skater | 174341 | [174341-stickman-skater.json](./174341-stickman-skater.json) |
 | Stickman Warriors Craft | 100834 | [100834-stickman-warriors-craft.json](./100834-stickman-warriors-craft.json) |
@@ -4116,6 +4122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman | 361718 | [361718-superman.json](./361718-superman.json) |
 | Superman: Man of Steel | 264862 | [264862-superman-man-of-steel.json](./264862-superman-man-of-steel.json) |
 | Superman: The Mysterious Mr. Mist | 73324 | [73324-superman-the-mysterious-mr-mist.json](./73324-superman-the-mysterious-mr-mist.json) |
+| Supermarket | 329556 | [329556-supermarket.json](./329556-supermarket.json) |
 | Supermarket & Clothing Store Simulator | 404258 | [404258-supermarket-and-clothing-store-simulator.json](./404258-supermarket-and-clothing-store-simulator.json) |
 | Supermarket CEO Simulator | 335949 | [335949-supermarket-ceo-simulator.json](./335949-supermarket-ceo-simulator.json) |
 | Supermarket CEO Simulator VR | 335950 | [335950-supermarket-ceo-simulator-vr.json](./335950-supermarket-ceo-simulator-vr.json) |
