@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain, House, Eternity | 143082 | [143082-rain-house-eternity.json](./143082-rain-house-eternity.json) |
 | Rain's Golf | 414384 | [414384-rains-golf.json](./414384-rains-golf.json) |
 | Rain's Love Memory | 117087 | [117087-rains-love-memory.json](./117087-rains-love-memory.json) |
+| Rainbow | 359417 | [359417-rainbow.json](./359417-rainbow.json) |
 | Rainbow Despair | 337444 | [337444-rainbow-despair.json](./337444-rainbow-despair.json) |
 | Rainbow Dreams | 115016 | [115016-rainbow-dreams.json](./115016-rainbow-dreams.json) |
 | Rainbow Friends: Hide 'N Seek | 262695 | [262695-rainbow-friends-hide-n-seek.json](./262695-rainbow-friends-hide-n-seek.json) |
@@ -1424,6 +1425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubber Duck Survival | 411556 | [411556-rubber-duck-survival.json](./411556-rubber-duck-survival.json) |
 | Rubber Man | 185131 | [185131-rubber-man.json](./185131-rubber-man.json) |
 | Rubber Ninjas | 75143 | [75143-rubber-ninjas.json](./75143-rubber-ninjas.json) |
+| Rubble the Engineer | 359414 | [359414-rubble-the-engineer.json](./359414-rubble-the-engineer.json) |
 | Rubi: The Wayward Mira | 55180 | [55180-rubi-the-wayward-mira.json](./55180-rubi-the-wayward-mira.json) |
 | Ruby and the Lost Crystals | 360581 | [360581-ruby-and-the-lost-crystals.json](./360581-ruby-and-the-lost-crystals.json) |
 | Ruby Crush | 270417 | [270417-ruby-crush.json](./270417-ruby-crush.json) |
