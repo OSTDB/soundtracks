@@ -726,6 +726,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Livestream: Escape from Hotel Izanami | 146928 | [146928-livestream-escape-from-hotel-izanami.json](./146928-livestream-escape-from-hotel-izanami.json) |
 | Living Dark | 77355 | [77355-living-dark.json](./77355-living-dark.json) |
 | Living Labyrinth | 185139 | [185139-living-labyrinth.json](./185139-living-labyrinth.json) |
+| Living Legends: Frozen Beauty Collector's Edition | 355542 | [355542-living-legends-frozen-beauty-collectors-edition.json](./355542-living-legends-frozen-beauty-collectors-edition.json) |
+| Living Legends: Haunting Melody | 355552 | [355552-living-legends-haunting-melody.json](./355552-living-legends-haunting-melody.json) |
 | Living Legends: Wrath of the Beast Collector's Edition | 107860 | [107860-living-legends-wrath-of-the-beast-collectors-edition.json](./107860-living-legends-wrath-of-the-beast-collectors-edition.json) |
 | Living with an Elf: A Cozy Forest Retreat | 263195 | [263195-living-with-an-elf-a-cozy-forest-retreat.json](./263195-living-with-an-elf-a-cozy-forest-retreat.json) |
 | Living With It | 329394 | [329394-living-with-it.json](./329394-living-with-it.json) |
@@ -747,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Load Roll Die | 172734 | [172734-load-roll-die.json](./172734-load-roll-die.json) |
 | Loaded | 18682 | [18682-loaded.json](./18682-loaded.json) |
 | Loader Larry | 73809 | [73809-loader-larry.json](./73809-loader-larry.json) |
+| Loaders | 355569 | [355569-loaders.json](./355569-loaders.json) |
 | Loaders, Inc. | 392148 | [392148-loaders-inc.json](./392148-loaders-inc.json) |
 | Loading Zone | 193469 | [193469-loading-zone.json](./193469-loading-zone.json) |
 | Loafing Town | 369064 | [369064-loafing-town.json](./369064-loafing-town.json) |
@@ -1008,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Planet Remix | 165030 | [165030-lovely-planet-remix.json](./165030-lovely-planet-remix.json) |
 | Lovely Sweet Dream | 172766 | [172766-lovely-sweet-dream.json](./172766-lovely-sweet-dream.json) |
 | Lovely x Cation 1 & 2 | 79306 | [79306-lovely-x-cation-1-and-2.json](./79306-lovely-x-cation-1-and-2.json) |
+| LoveR Kiss: Endless Memories | 355544 | [355544-lover-kiss-endless-memories.json](./355544-lover-kiss-endless-memories.json) |
 | Lover Pretend | 193536 | [193536-lover-pretend.json](./193536-lover-pretend.json) |
 | Lovers of Aether | 117041 | [117041-lovers-of-aether.json](./117041-lovers-of-aether.json) |
 | Loving You Fully | 159873 | [159873-loving-you-fully.json](./159873-loving-you-fully.json) |
