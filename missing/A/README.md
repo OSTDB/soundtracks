@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien 3 | 8908 | [8908-alien-3.json](./8908-alien-3.json) |
 | Alien Apocalypse | 390010 | [390010-alien-apocalypse.json](./390010-alien-apocalypse.json) |
 | Alien Attack | 313465 | [313465-alien-attack.json](./313465-alien-attack.json) |
+| Alien Attack | 344944 | [344944-alien-attack.json](./344944-alien-attack.json) |
 | Alien Cartographer | 374594 | [374594-alien-cartographer.json](./374594-alien-cartographer.json) |
 | Alien Colosseum | 211407 | [211407-alien-colosseum.json](./211407-alien-colosseum.json) |
 | Alien Cube | 254779 | [254779-alien-cube.json](./254779-alien-cube.json) |
@@ -1325,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 2070: Bonus Edition | 180261 | [180261-anno-2070-bonus-edition.json](./180261-anno-2070-bonus-edition.json) |
 | Anno 2070: Royal Edition | 180263 | [180263-anno-2070-royal-edition.json](./180263-anno-2070-royal-edition.json) |
 | Anno 2205: Asteroid Miner | 180264 | [180264-anno-2205-asteroid-miner.json](./180264-anno-2205-asteroid-miner.json) |
+| Anno: Build An Empire | 344911 | [344911-anno-build-an-empire.json](./344911-anno-build-an-empire.json) |
 | Annoy This Guy | 290684 | [290684-annoy-this-guy.json](./290684-annoy-this-guy.json) |
 | Annoying Ball Game | 171598 | [171598-annoying-ball-game.json](./171598-annoying-ball-game.json) |
 | Annoying Orange Pinball | 266517 | [266517-annoying-orange-pinball.json](./266517-annoying-orange-pinball.json) |
@@ -1398,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antigravity Racing | 239292 | [239292-antigravity-racing.json](./239292-antigravity-racing.json) |
 | AntiMatcher | 403582 | [403582-antimatcher.json](./403582-antimatcher.json) |
 | Antimatter Elevator | 166759 | [166759-antimatter-elevator.json](./166759-antimatter-elevator.json) |
+| Antioma | 344912 | [344912-antioma.json](./344912-antioma.json) |
 | Antiphona no Seikahime: Tenshi no Score Op.A | 56523 | [56523-antiphona-no-seikahime-tenshi-no-score-op-a.json](./56523-antiphona-no-seikahime-tenshi-no-score-op-a.json) |
 | Antique Backgammon | 399621 | [399621-antique-backgammon.json](./399621-antique-backgammon.json) |
 | Antiquia Lost | 39009 | [39009-antiquia-lost.json](./39009-antiquia-lost.json) |
