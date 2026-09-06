@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overtime Anomaly | 330533 | [330533-overtime-anomaly.json](./330533-overtime-anomaly.json) |
 | Overtime Heroes Exit 8 | 310729 | [310729-overtime-heroes-exit-8.json](./310729-overtime-heroes-exit-8.json) |
 | Overwatch 2: My Hero Academia | 317819 | [317819-overwatch-2-my-hero-academia.json](./317819-overwatch-2-my-hero-academia.json) |
+| Overwatch 2: PlayStation Plus Mega Bundle | 316064 | [316064-overwatch-2-playstation-plus-mega-bundle.json](./316064-overwatch-2-playstation-plus-mega-bundle.json) |
 | Overwatch 2: Season 13 - Spellbinder | 319357 | [319357-overwatch-2-season-13-spellbinder.json](./319357-overwatch-2-season-13-spellbinder.json) |
 | Overwatch 2: Season 18 - Stadium Quickplay | 362281 | [362281-overwatch-2-season-18-stadium-quickplay.json](./362281-overwatch-2-season-18-stadium-quickplay.json) |
 | Overwatch 2: Season 4 - Space Opera | 243933 | [243933-overwatch-2-season-4-space-opera.json](./243933-overwatch-2-season-4-space-opera.json) |
