@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywood Squares | 48056 | [48056-hollywood-squares.json](./48056-hollywood-squares.json) |
 | Hollywoodle | 325824 | [325824-hollywoodle.json](./325824-hollywoodle.json) |
 | Holobunnies: The Bittersweet Adventure | 28897 | [28897-holobunnies-the-bittersweet-adventure.json](./28897-holobunnies-the-bittersweet-adventure.json) |
+| Hololive Gorogoro Mountain | 348243 | [348243-hololive-gorogoro-mountain.json](./348243-hololive-gorogoro-mountain.json) |
 | Hololive Treasure Mountain | 311821 | [311821-hololive-treasure-mountain.json](./311821-hololive-treasure-mountain.json) |
 | Holonglide | 106611 | [106611-holonglide.json](./106611-holonglide.json) |
 | Holotyping | 210245 | [210245-holotyping.json](./210245-holotyping.json) |
@@ -1153,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HotFloor | 102406 | [102406-hotfloor.json](./102406-hotfloor.json) |
 | HotHead | 110340 | [110340-hothead.json](./110340-hothead.json) |
 | HotHead Heights | 215377 | [215377-hothead-heights.json](./215377-hothead-heights.json) |
+| Hotpot Defense | 348245 | [348245-hotpot-defense.json](./348245-hotpot-defense.json) |
 | HotPuzzle: Video | 368518 | [368518-hotpuzzle-video.json](./368518-hotpuzzle-video.json) |
 | Hotshot Racing | 131888 | [131888-hotshot-racing.json](./131888-hotshot-racing.json) |
 | Hotshots Fire Rescue | 239903 | [239903-hotshots-fire-rescue.json](./239903-hotshots-fire-rescue.json) |
