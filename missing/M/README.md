@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Made in Abyss: Binary Star Falling into Darkness - Collector's Edition | 150144 | [150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json](./150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json) |
 | Made of DIrt | 185691 | [185691-made-of-dirt.json](./185691-made-of-dirt.json) |
 | Madievals | 120378 | [120378-madievals.json](./120378-madievals.json) |
+| Madness Below | 326619 | [326619-madness-below.json](./326619-madness-below.json) |
 | Madness Interactive Reloaded | 331704 | [331704-madness-interactive-reloaded.json](./331704-madness-interactive-reloaded.json) |
 | Madness of the Architect | 83549 | [83549-madness-of-the-architect.json](./83549-madness-of-the-architect.json) |
 | Madness of the Architect | 83550 | [83550-madness-of-the-architect.json](./83550-madness-of-the-architect.json) |
@@ -354,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mani Yugi Tokoyo | 96106 | [96106-mani-yugi-tokoyo.json](./96106-mani-yugi-tokoyo.json) |
 | Mania Fish | 188069 | [188069-mania-fish.json](./188069-mania-fish.json) |
 | Maniac Jackson and the Moonwalking Mindbenders | 93035 | [93035-maniac-jackson-and-the-moonwalking-mindbenders.json](./93035-maniac-jackson-and-the-moonwalking-mindbenders.json) |
+| Maniac Path 3 | 327824 | [327824-maniac-path-3.json](./327824-maniac-path-3.json) |
 | Manic you and depressed me | 357816 | [357816-manic-you-and-depressed-me.json](./357816-manic-you-and-depressed-me.json) |
 | Manifest | 215923 | [215923-manifest.json](./215923-manifest.json) |
 | Manifest No | 352162 | [352162-manifest-no.json](./352162-manifest-no.json) |
@@ -1429,6 +1431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MineCart - 3D Mine Cart Game for MineCraft | 86692 | [86692-minecart-3d-mine-cart-game-for-minecraft.json](./86692-minecart-3d-mine-cart-game-for-minecraft.json) |
 | Minecart Madness | 188687 | [188687-minecart-madness.json](./188687-minecart-madness.json) |
 | Minecraft Education | 28407 | [28407-minecraft-education.json](./28407-minecraft-education.json) |
+| Minecraft PSP | 327850 | [327850-minecraft-psp.json](./327850-minecraft-psp.json) |
 | Minecraft Triple Bundle | 334490 | [334490-minecraft-triple-bundle.json](./334490-minecraft-triple-bundle.json) |
 | Minecraft vs. Zombies 2 | 273112 | [273112-minecraft-vs-zombies-2.json](./273112-minecraft-vs-zombies-2.json) |
 | Minecraft: 10 Years Of Minecraft | 322956 | [322956-minecraft-10-years-of-minecraft.json](./322956-minecraft-10-years-of-minecraft.json) |
@@ -2253,6 +2256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Presidents | 208027 | [208027-mr-presidents.json](./208027-mr-presidents.json) |
 | Mr. Pumpkin 2: Kowloon Walled City | 126666 | [126666-mr-pumpkin-2-kowloon-walled-city.json](./126666-mr-pumpkin-2-kowloon-walled-city.json) |
 | Mr. Pumpkin Series Bundle | 173799 | [173799-mr-pumpkin-series-bundle.json](./173799-mr-pumpkin-series-bundle.json) |
+| Mr. Rental: The Video Game | 326592 | [326592-mr-rental-the-video-game.json](./326592-mr-rental-the-video-game.json) |
 | Mr. Rescue | 51222 | [51222-mr-rescue.json](./51222-mr-rescue.json) |
 | Mr. Rightaway | 341341 | [341341-mr-rightaway.json](./341341-mr-rightaway.json) |
 | Mr. Robot and His Robot Factory | 23900 | [23900-mr-robot-and-his-robot-factory.json](./23900-mr-robot-and-his-robot-factory.json) |
@@ -2314,6 +2318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mumu Boukenki Amusing Dream | 264311 | [264311-mumu-boukenki-amusing-dream.json](./264311-mumu-boukenki-amusing-dream.json) |
 | Munasawagi no Season | 246104 | [246104-munasawagi-no-season.json](./246104-munasawagi-no-season.json) |
 | Mundo SBT | 249459 | [249459-mundo-sbt.json](./249459-mundo-sbt.json) |
+| Mung Daal Odyssey | 326589 | [326589-mung-daal-odyssey.json](./326589-mung-daal-odyssey.json) |
 | Munkiki's Castles | 111740 | [111740-munkikis-castles.json](./111740-munkikis-castles.json) |
 | Muppet RaceMania | 3259 | [3259-muppet-racemania.json](./3259-muppet-racemania.json) |
 | Muppet Treasure Island | 71543 | [71543-muppet-treasure-island.json](./71543-muppet-treasure-island.json) |
