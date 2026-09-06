@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat Race | 408783 | [408783-rat-race.json](./408783-rat-race.json) |
 | Rat Raze / Road to Riches: Tilt Five | 341308 | [341308-rat-raze-road-to-riches-tilt-five.json](./341308-rat-raze-road-to-riches-tilt-five.json) |
 | Rat vs. Cat | 242794 | [242794-rat-vs-cat.json](./242794-rat-vs-cat.json) |
+| Rat's Contracts | 357262 | [357262-rats-contracts.json](./357262-rats-contracts.json) |
 | Ratano | 269853 | [269853-ratano.json](./269853-ratano.json) |
 | Ratatouille | 281842 | [281842-ratatouille.json](./281842-ratatouille.json) |
 | Ratatouille | 281843 | [281843-ratatouille.json](./281843-ratatouille.json) |
