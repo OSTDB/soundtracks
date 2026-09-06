@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tayal | 109622 | [109622-tayal.json](./109622-tayal.json) |
 | Tayutama: Kiss on My Deity | 69311 | [69311-tayutama-kiss-on-my-deity.json](./69311-tayutama-kiss-on-my-deity.json) |
 | Taz | 100183 | [100183-taz.json](./100183-taz.json) |
+| Taz-Mania | 365672 | [365672-taz-mania.json](./365672-taz-mania.json) |
 | Taz-Mania | 8066 | [8066-taz-mania.json](./8066-taz-mania.json) |
 | Tazmanian Devil: Munching Madness | 49967 | [49967-tazmanian-devil-munching-madness.json](./49967-tazmanian-devil-munching-madness.json) |
 | TBH: Task Bar Hero | 372510 | [372510-tbh-task-bar-hero.json](./372510-tbh-task-bar-hero.json) |
@@ -1329,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kaiju Offensive | 117097 | [117097-the-kaiju-offensive.json](./117097-the-kaiju-offensive.json) |
 | The Kangaroo Conspiracy DX | 366224 | [366224-the-kangaroo-conspiracy-dx.json](./366224-the-kangaroo-conspiracy-dx.json) |
 | The Keep | 146340 | [146340-the-keep.json](./146340-the-keep.json) |
+| The Keisatsu 24-ji | 365665 | [365665-the-keisatsu-24-ji.json](./365665-the-keisatsu-24-ji.json) |
 | The Kindeman Remedy | 244499 | [244499-the-kindeman-remedy.json](./244499-the-kindeman-remedy.json) |
 | The King in the Shades | 259852 | [259852-the-king-in-the-shades.json](./259852-the-king-in-the-shades.json) |
 | The King of Dragons | 6814 | [6814-the-king-of-dragons.json](./6814-the-king-of-dragons.json) |
@@ -1769,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reggae Operation | 188119 | [188119-the-reggae-operation.json](./188119-the-reggae-operation.json) |
 | The Relief of Impact | 179751 | [179751-the-relief-of-impact.json](./179751-the-relief-of-impact.json) |
 | The Remote Outpost | 268726 | [268726-the-remote-outpost.json](./268726-the-remote-outpost.json) |
+| The Ren & Stimpy Show: Veediots! | 365695 | [365695-the-ren-and-stimpy-show-veediots.json](./365695-the-ren-and-stimpy-show-veediots.json) |
 | The Repossessor | 81338 | [81338-the-repossessor.json](./81338-the-repossessor.json) |
 | The Restless Dead | 87304 | [87304-the-restless-dead.json](./87304-the-restless-dead.json) |
 | The Restless Resort | 271987 | [271987-the-restless-resort.json](./271987-the-restless-resort.json) |
@@ -2441,6 +2444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Striker: MP081 | 189719 | [189719-tiger-striker-mp081.json](./189719-tiger-striker-mp081.json) |
 | Tiger Striker: MP094 | 189722 | [189722-tiger-striker-mp094.json](./189722-tiger-striker-mp094.json) |
 | Tiger Striker: MP100 | 189723 | [189723-tiger-striker-mp100.json](./189723-tiger-striker-mp100.json) |
+| Tiger Tank | 365706 | [365706-tiger-tank.json](./365706-tiger-tank.json) |
 | Tiger Tank 59 I Air Strike | 119047 | [119047-tiger-tank-59-i-air-strike.json](./119047-tiger-tank-59-i-air-strike.json) |
 | Tiger Tank 59 I Rainstorm | 118371 | [118371-tiger-tank-59-i-rainstorm.json](./118371-tiger-tank-59-i-rainstorm.json) |
 | Tiger Tank 59 I Volcano | 118410 | [118410-tiger-tank-59-i-volcano.json](./118410-tiger-tank-59-i-volcano.json) |
