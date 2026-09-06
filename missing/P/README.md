@@ -1889,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Master 2 | 145642 | [145642-puzzle-master-2.json](./145642-puzzle-master-2.json) |
 | Puzzle Masters | 104657 | [104657-puzzle-masters.json](./104657-puzzle-masters.json) |
 | Puzzle Nintama Rantarou GB | 97863 | [97863-puzzle-nintama-rantarou-gb.json](./97863-puzzle-nintama-rantarou-gb.json) |
+| Puzzle Parasite | 366826 | [366826-puzzle-parasite.json](./366826-puzzle-parasite.json) |
 | Puzzle Park | 215882 | [215882-puzzle-park.json](./215882-puzzle-park.json) |
 | Puzzle Party | 132275 | [132275-puzzle-party.json](./132275-puzzle-party.json) |
 | Puzzle Party: 10 Games | 100175 | [100175-puzzle-party-10-games.json](./100175-puzzle-party-10-games.json) |
