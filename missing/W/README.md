@@ -602,6 +602,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will it Crush? | 102785 | [102785-will-it-crush.json](./102785-will-it-crush.json) |
 | William Shatner's TekWar | 8686 | [8686-william-shatners-tekwar.json](./8686-william-shatners-tekwar.json) |
 | Williams Arcade's Greatest Hits | 20713 | [20713-williams-arcades-greatest-hits.json](./20713-williams-arcades-greatest-hits.json) |
+| Williams Pinball: Attack from Mars | 354452 | [354452-williams-pinball-attack-from-mars.json](./354452-williams-pinball-attack-from-mars.json) |
+| Williams Pinball: Black Rose | 354456 | [354456-williams-pinball-black-rose.json](./354456-williams-pinball-black-rose.json) |
+| Williams Pinball: Fish Tales | 354451 | [354451-williams-pinball-fish-tales.json](./354451-williams-pinball-fish-tales.json) |
+| Williams Pinball: Junk Yard Table | 354454 | [354454-williams-pinball-junk-yard-table.json](./354454-williams-pinball-junk-yard-table.json) |
+| Williams Pinball: Medieval Madness | 354455 | [354455-williams-pinball-medieval-madness.json](./354455-williams-pinball-medieval-madness.json) |
+| Williams Pinball: Party Zone | 354457 | [354457-williams-pinball-party-zone.json](./354457-williams-pinball-party-zone.json) |
+| Williams Pinball: The Champion Pub | 354459 | [354459-williams-pinball-the-champion-pub.json](./354459-williams-pinball-the-champion-pub.json) |
+| Williams Pinball: The Getaway - High Speed II | 354453 | [354453-williams-pinball-the-getaway-high-speed-ii.json](./354453-williams-pinball-the-getaway-high-speed-ii.json) |
+| Williams Pinball: Theatre of Magic | 354458 | [354458-williams-pinball-theatre-of-magic.json](./354458-williams-pinball-theatre-of-magic.json) |
 | Willo | 179746 | [179746-willo.json](./179746-willo.json) |
 | Wilmot's Warehouse | 77494 | [77494-wilmots-warehouse.json](./77494-wilmots-warehouse.json) |
 | Wilson's Heart | 19597 | [19597-wilsons-heart.json](./19597-wilsons-heart.json) |
