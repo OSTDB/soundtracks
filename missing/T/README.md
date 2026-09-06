@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Medieval Duelists | 389982 | [389982-tales-of-medieval-duelists.json](./389982-tales-of-medieval-duelists.json) |
 | Tales of Monkey Island: Chapter 3 - Lair of the Leviathan | 81269 | [81269-tales-of-monkey-island-chapter-3-lair-of-the-leviathan.json](./81269-tales-of-monkey-island-chapter-3-lair-of-the-leviathan.json) |
 | Tales of Nebezem: Elemental Link | 86749 | [86749-tales-of-nebezem-elemental-link.json](./86749-tales-of-nebezem-elemental-link.json) |
+| Tales of Rein Ravine | 319551 | [319551-tales-of-rein-ravine.json](./319551-tales-of-rein-ravine.json) |
 | Tales of Terror: House on the Hill | 139428 | [139428-tales-of-terror-house-on-the-hill.json](./139428-tales-of-terror-house-on-the-hill.json) |
 | Tales of the Black Death | 178068 | [178068-tales-of-the-black-death.json](./178068-tales-of-the-black-death.json) |
 | Tales of the Death | 204112 | [204112-tales-of-the-death.json](./204112-tales-of-the-death.json) |
@@ -1781,6 +1782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mummy: Demastered | 36856 | [36856-the-mummy-demastered.json](./36856-the-mummy-demastered.json) |
 | The Murder Hotel | 247770 | [247770-the-murder-hotel.json](./247770-the-murder-hotel.json) |
 | The Murder of Sonic the Hedgehog | 243385 | [243385-the-murder-of-sonic-the-hedgehog.json](./243385-the-murder-of-sonic-the-hedgehog.json) |
+| The Muse | 319556 | [319556-the-muse.json](./319556-the-muse.json) |
 | The Mushrooms' Happy New Year | 396193 | [396193-the-mushrooms-happy-new-year.json](./396193-the-mushrooms-happy-new-year.json) |
 | The Mutineer | 139463 | [139463-the-mutineer.json](./139463-the-mutineer.json) |
 | The Mutton Horn: Jump Jump! | 105379 | [105379-the-mutton-horn-jump-jump.json](./105379-the-mutton-horn-jump-jump.json) |
@@ -1864,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outlast Trials: World of Heavyweights Pack | 366839 | [366839-the-outlast-trials-world-of-heavyweights-pack.json](./366839-the-outlast-trials-world-of-heavyweights-pack.json) |
 | The Outlaw and the Newcomer | 216998 | [216998-the-outlaw-and-the-newcomer.json](./216998-the-outlaw-and-the-newcomer.json) |
 | The Owlman of Mawnan Smith | 61084 | [61084-the-owlman-of-mawnan-smith.json](./61084-the-owlman-of-mawnan-smith.json) |
+| The Painting | 319557 | [319557-the-painting.json](./319557-the-painting.json) |
 | The Palace on the Hill | 153430 | [153430-the-palace-on-the-hill.json](./153430-the-palace-on-the-hill.json) |
 | The Paper Aircraft of Childhood | 268216 | [268216-the-paper-aircraft-of-childhood.json](./268216-the-paper-aircraft-of-childhood.json) |
 | The Paper Loop | 344369 | [344369-the-paper-loop.json](./344369-the-paper-loop.json) |
@@ -2585,6 +2588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrills & Chills - Roller Coasters | 31538 | [31538-thrills-and-chills-roller-coasters.json](./31538-thrills-and-chills-roller-coasters.json) |
 | Thrillville: Off the Rails | 322364 | [322364-thrillville-off-the-rails.json](./322364-thrillville-off-the-rails.json) |
 | Thrive | 142499 | [142499-thrive.json](./142499-thrive.json) |
+| Thro' The Wall also Scramble | 319600 | [319600-thro-the-wall-also-scramble.json](./319600-thro-the-wall-also-scramble.json) |
 | Throb of Lovegirl: A Ero Waifu TD | 175983 | [175983-throb-of-lovegirl-a-ero-waifu-td.json](./175983-throb-of-lovegirl-a-ero-waifu-td.json) |
 | Throbax TD | 35952 | [35952-throbax-td.json](./35952-throbax-td.json) |
 | Throne and Liberty | 117294 | [117294-throne-and-liberty.json](./117294-throne-and-liberty.json) |
@@ -3448,6 +3452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tradewinds Caravan | 59455 | [59455-tradewinds-caravan.json](./59455-tradewinds-caravan.json) |
 | Tradewinds Legends | 59454 | [59454-tradewinds-legends.json](./59454-tradewinds-legends.json) |
 | Tradewinds Odyssey | 59456 | [59456-tradewinds-odyssey.json](./59456-tradewinds-odyssey.json) |
+| Traffic | 319601 | [319601-traffic.json](./319601-traffic.json) |
 | Traffic Chase | 173303 | [173303-traffic-chase.json](./173303-traffic-chase.json) |
 | Traffic City | 169476 | [169476-traffic-city.json](./169476-traffic-city.json) |
 | Traffic Panic London | 343799 | [343799-traffic-panic-london.json](./343799-traffic-panic-london.json) |
@@ -3653,6 +3658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel to GolemPark | 199100 | [199100-travel-to-golempark.json](./199100-travel-to-golempark.json) |
 | Traveler's Bastion | 234936 | [234936-travelers-bastion.json](./234936-travelers-bastion.json) |
 | Traveler's Refrain | 287784 | [287784-travelers-refrain.json](./287784-travelers-refrain.json) |
+| Traveller's Hymn | 319560 | [319560-travellers-hymn.json](./319560-travellers-hymn.json) |
 | Travellin Cats in Paris | 239812 | [239812-travellin-cats-in-paris.json](./239812-travellin-cats-in-paris.json) |
 | Travelling Light | 404812 | [404812-travelling-light.json](./404812-travelling-light.json) |
 | Traveloot | 392163 | [392163-traveloot.json](./392163-traveloot.json) |
