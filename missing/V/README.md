@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoidCraft Island Chronicles: Sky Survival | 322401 | [322401-voidcraft-island-chronicles-sky-survival.json](./322401-voidcraft-island-chronicles-sky-survival.json) |
 | Voidcrisis | 210889 | [210889-voidcrisis.json](./210889-voidcrisis.json) |
 | VoidExpanse - Complete Collection | 53870 | [53870-voidexpanse-complete-collection.json](./53870-voidexpanse-complete-collection.json) |
+| Voidface | 332424 | [332424-voidface.json](./332424-voidface.json) |
 | Voidline | 408037 | [408037-voidline.json](./408037-voidline.json) |
 | VoidOut Parkour | 155660 | [155660-voidout-parkour.json](./155660-voidout-parkour.json) |
 | Voivod: The Nuclear Warrior | 339785 | [339785-voivod-the-nuclear-warrior.json](./339785-voivod-the-nuclear-warrior.json) |
