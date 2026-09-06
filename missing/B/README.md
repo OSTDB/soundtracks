@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Waves | 319393 | [319393-beneath-the-waves.json](./319393-beneath-the-waves.json) |
 | Beneath their Names | 406689 | [406689-beneath-their-names.json](./406689-beneath-their-names.json) |
 | Bengbo | 257104 | [257104-bengbo.json](./257104-bengbo.json) |
+| Benji and the Crystal of Light | 324325 | [324325-benji-and-the-crystal-of-light.json](./324325-benji-and-the-crystal-of-light.json) |
 | Benkei Gaiden | 80572 | [80572-benkei-gaiden.json](./80572-benkei-gaiden.json) |
 | Bento Bugs | 329354 | [329354-bento-bugs.json](./329354-bento-bugs.json) |
 | Bepuzzled Jigsaw Puzzle: Aquatic | 241662 | [241662-bepuzzled-jigsaw-puzzle-aquatic.json](./241662-bepuzzled-jigsaw-puzzle-aquatic.json) |
@@ -1039,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biohazard Code: Veronica - Limited Edition | 407337 | [407337-biohazard-code-veronica-limited-edition.json](./407337-biohazard-code-veronica-limited-edition.json) |
 | Biohazard Village: Z Version - Winters' Expansion | 241065 | [241065-biohazard-village-z-version-winters-expansion.json](./241065-biohazard-village-z-version-winters-expansion.json) |
 | Biohazard: 5th Anniversary Special Package | 145009 | [145009-biohazard-5th-anniversary-special-package.json](./145009-biohazard-5th-anniversary-special-package.json) |
+| Biohazard: Siberia | 324324 | [324324-biohazard-siberia.json](./324324-biohazard-siberia.json) |
 | Biolune | 381612 | [381612-biolune.json](./381612-biolune.json) |
 | BioMech Vendetta | 380402 | [380402-biomech-vendetta.json](./380402-biomech-vendetta.json) |
 | Biomeinoes | 275877 | [275877-biomeinoes.json](./275877-biomeinoes.json) |
@@ -1228,8 +1230,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Dash | 411571 | [411571-blast-dash.json](./411571-blast-dash.json) |
 | Blast Force | 123616 | [123616-blast-force.json](./123616-blast-force.json) |
 | Blast It | 245549 | [245549-blast-it.json](./245549-blast-it.json) |
+| Blast Judgment | 324328 | [324328-blast-judgment.json](./324328-blast-judgment.json) |
 | Blast Linkers | 399616 | [399616-blast-linkers.json](./399616-blast-linkers.json) |
 | Blast Royale | 231621 | [231621-blast-royale.json](./231621-blast-royale.json) |
+| Blast-a-Bug! | 324338 | [324338-blast-a-bug.json](./324338-blast-a-bug.json) |
 | Blastar | 14317 | [14317-blastar.json](./14317-blastar.json) |
 | Blastarock! | 196842 | [196842-blastarock.json](./196842-blastarock.json) |
 | Blasted GutZ | 391619 | [391619-blasted-gutz.json](./391619-blasted-gutz.json) |
