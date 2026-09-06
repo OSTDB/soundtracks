@@ -828,6 +828,29 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 6 Mobile | 103490 | [103490-mega-man-6-mobile.json](./103490-mega-man-6-mobile.json) |
 | Mega Man 7 | 1720 | [1720-mega-man-7.json](./1720-mega-man-7.json) |
 | Mega Man Arkanoid | 245035 | [245035-mega-man-arkanoid.json](./245035-mega-man-arkanoid.json) |
+| Mega Man Battle Network 6: Patch Card - Admission for Yuika's Show | 352727 | [352727-mega-man-battle-network-6-patch-card-admission-for-yuikas-show.json](./352727-mega-man-battle-network-6-patch-card-admission-for-yuikas-show.json) |
+| Mega Man Battle Network 6: Patch Card - Al's Boarding Ticket | 352714 | [352714-mega-man-battle-network-6-patch-card-als-boarding-ticket.json](./352714-mega-man-battle-network-6-patch-card-als-boarding-ticket.json) |
+| Mega Man Battle Network 6: Patch Card - Baryl's Faith | 352724 | [352724-mega-man-battle-network-6-patch-card-baryls-faith.json](./352724-mega-man-battle-network-6-patch-card-baryls-faith.json) |
+| Mega Man Battle Network 6: Patch Card - Chaud's Mission | 352723 | [352723-mega-man-battle-network-6-patch-card-chauds-mission.json](./352723-mega-man-battle-network-6-patch-card-chauds-mission.json) |
+| Mega Man Battle Network 6: Patch Card - Dad's Debug Techniques | 352721 | [352721-mega-man-battle-network-6-patch-card-dads-debug-techniques.json](./352721-mega-man-battle-network-6-patch-card-dads-debug-techniques.json) |
+| Mega Man Battle Network 6: Patch Card - Dark Scyth's Shady Business | 352713 | [352713-mega-man-battle-network-6-patch-card-dark-scyths-shady-business.json](./352713-mega-man-battle-network-6-patch-card-dark-scyths-shady-business.json) |
+| Mega Man Battle Network 6: Patch Card - Dingo's Battle Cry | 352716 | [352716-mega-man-battle-network-6-patch-card-dingos-battle-cry.json](./352716-mega-man-battle-network-6-patch-card-dingos-battle-cry.json) |
+| Mega Man Battle Network 6: Patch Card - Double Beast | 352731 | [352731-mega-man-battle-network-6-patch-card-double-beast.json](./352731-mega-man-battle-network-6-patch-card-double-beast.json) |
+| Mega Man Battle Network 6: Patch Card - Falzar | 352733 | [352733-mega-man-battle-network-6-patch-card-falzar.json](./352733-mega-man-battle-network-6-patch-card-falzar.json) |
+| Mega Man Battle Network 6: Patch Card - Gregar | 352732 | [352732-mega-man-battle-network-6-patch-card-gregar.json](./352732-mega-man-battle-network-6-patch-card-gregar.json) |
+| Mega Man Battle Network 6: Patch Card - Iris's Kindness | 352725 | [352725-mega-man-battle-network-6-patch-card-iriss-kindness.json](./352725-mega-man-battle-network-6-patch-card-iriss-kindness.json) |
+| Mega Man Battle Network 6: Patch Card - Mamoru's Card | 352722 | [352722-mega-man-battle-network-6-patch-card-mamorus-card.json](./352722-mega-man-battle-network-6-patch-card-mamorus-card.json) |
+| Mega Man Battle Network 6: Patch Card - Master Feng-Tian's Instruction | 352717 | [352717-mega-man-battle-network-6-patch-card-master-feng-tians-instruction.json](./352717-mega-man-battle-network-6-patch-card-master-feng-tians-instruction.json) |
+| Mega Man Battle Network 6: Patch Card - Moliarty's Drill Soul! | 352719 | [352719-mega-man-battle-network-6-patch-card-moliartys-drill-soul.json](./352719-mega-man-battle-network-6-patch-card-moliartys-drill-soul.json) |
+| Mega Man Battle Network 6: Patch Card - Mr. Match's Lesson Plans | 352710 | [352710-mega-man-battle-network-6-patch-card-mr-matchs-lesson-plans.json](./352710-mega-man-battle-network-6-patch-card-mr-matchs-lesson-plans.json) |
+| Mega Man Battle Network 6: Patch Card - Mr. Press's Recycling | 352720 | [352720-mega-man-battle-network-6-patch-card-mr-presss-recycling.json](./352720-mega-man-battle-network-6-patch-card-mr-presss-recycling.json) |
+| Mega Man Battle Network 6: Patch Card - Ms. Fahran's Cutlery | 352712 | [352712-mega-man-battle-network-6-patch-card-ms-fahrans-cutlery.json](./352712-mega-man-battle-network-6-patch-card-ms-fahrans-cutlery.json) |
+| Mega Man Battle Network 6: Patch Card - Ms. Zap's Bodyguard | 352711 | [352711-mega-man-battle-network-6-patch-card-ms-zaps-bodyguard.json](./352711-mega-man-battle-network-6-patch-card-ms-zaps-bodyguard.json) |
+| Mega Man Battle Network 6: Patch Card - Prosecutor Ito's Income | 352728 | [352728-mega-man-battle-network-6-patch-card-prosecutor-itos-income.json](./352728-mega-man-battle-network-6-patch-card-prosecutor-itos-income.json) |
+| Mega Man Battle Network 6: Patch Card - Shuko's Practicum | 352715 | [352715-mega-man-battle-network-6-patch-card-shukos-practicum.json](./352715-mega-man-battle-network-6-patch-card-shukos-practicum.json) |
+| Mega Man Battle Network 6: Patch Card - Tab's Discounts | 352726 | [352726-mega-man-battle-network-6-patch-card-tabs-discounts.json](./352726-mega-man-battle-network-6-patch-card-tabs-discounts.json) |
+| Mega Man Battle Network 6: Patch Card - Vic's Persistence | 352729 | [352729-mega-man-battle-network-6-patch-card-vics-persistence.json](./352729-mega-man-battle-network-6-patch-card-vics-persistence.json) |
+| Mega Man Battle Network 6: Patch Card - Wily's Ambition | 352730 | [352730-mega-man-battle-network-6-patch-card-wilys-ambition.json](./352730-mega-man-battle-network-6-patch-card-wilys-ambition.json) |
 | Mega Man Battle Network Legacy Collection | 206810 | [206810-mega-man-battle-network-legacy-collection.json](./206810-mega-man-battle-network-legacy-collection.json) |
 | Mega Man Cyber Wave Pack | 409541 | [409541-mega-man-cyber-wave-pack.json](./409541-mega-man-cyber-wave-pack.json) |
 | Mega Man in Super Mario Bros. | 269874 | [269874-mega-man-in-super-mario-bros.json](./269874-mega-man-in-super-mario-bros.json) |
