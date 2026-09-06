@@ -935,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flood the Chamber | 242813 | [242813-flood-the-chamber.json](./242813-flood-the-chamber.json) |
 | Floodbound | 298852 | [298852-floodbound.json](./298852-floodbound.json) |
 | Flooded | 204077 | [204077-flooded.json](./204077-flooded.json) |
+| Flooded Burials | 339797 | [339797-flooded-burials.json](./339797-flooded-burials.json) |
 | Floodland | 214497 | [214497-floodland.json](./214497-floodland.json) |
 | Floodrush | 251217 | [251217-floodrush.json](./251217-floodrush.json) |
 | Floor | 26645 | [26645-floor.json](./26645-floor.json) |
