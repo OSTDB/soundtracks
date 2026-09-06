@@ -1551,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connected Hearts: Hour of the Witch DLC | 360600 | [360600-connected-hearts-hour-of-the-witch-dlc.json](./360600-connected-hearts-hour-of-the-witch-dlc.json) |
 | Connectify | 190196 | [190196-connectify.json](./190196-connectify.json) |
 | Connection | 100859 | [100859-connection.json](./100859-connection.json) |
+| Connection | 322574 | [322574-connection.json](./322574-connection.json) |
 | Connor | 218145 | [218145-connor.json](./218145-connor.json) |
 | Conquer Lands | 372464 | [372464-conquer-lands.json](./372464-conquer-lands.json) |
 | Conquer the Dungeon | 190720 | [190720-conquer-the-dungeon.json](./190720-conquer-the-dungeon.json) |
@@ -1646,6 +1647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coraabia | 63300 | [63300-coraabia.json](./63300-coraabia.json) |
 | Corah | 237636 | [237636-corah.json](./237636-corah.json) |
 | Coraline | 210273 | [210273-coraline.json](./210273-coraline.json) |
+| Corbel | 322609 | [322609-corbel.json](./322609-corbel.json) |
 | Corbid! A Colorful Adventure | 223157 | [223157-corbid-a-colorful-adventure.json](./223157-corbid-a-colorful-adventure.json) |
 | Core | 400887 | [400887-core.json](./400887-core.json) |
 | Core Defense | 127314 | [127314-core-defense.json](./127314-core-defense.json) |
@@ -2407,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cycle | 202381 | [202381-cycle.json](./202381-cycle.json) |
 | Cycle of Eternity: Space Anomaly | 90686 | [90686-cycle-of-eternity-space-anomaly.json](./90686-cycle-of-eternity-space-anomaly.json) |
 | Cyclic | 232660 | [232660-cyclic.json](./232660-cyclic.json) |
+| Cyclo 8 | 322587 | [322587-cyclo-8.json](./322587-cyclo-8.json) |
 | Cyclo Chambers | 218704 | [218704-cyclo-chambers.json](./218704-cyclo-chambers.json) |
 | CycloHex | 192977 | [192977-cyclohex.json](./192977-cyclohex.json) |
 | Cyclone Circus: Power Sail Racing | 72112 | [72112-cyclone-circus-power-sail-racing.json](./72112-cyclone-circus-power-sail-racing.json) |
