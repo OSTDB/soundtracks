@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZeroVector | 241638 | [241638-zerovector.json](./241638-zerovector.json) |
 | ZEscape | 103502 | [103502-zescape.json](./103502-zescape.json) |
 | Zest to Fantasy | 257655 | [257655-zest-to-fantasy.json](./257655-zest-to-fantasy.json) |
+| Zest Treasure Hunting | 342640 | [342640-zest-treasure-hunting.json](./342640-zest-treasure-hunting.json) |
 | Zeta Force | 326965 | [326965-zeta-force.json](./326965-zeta-force.json) |
 | Zeta's World | 337446 | [337446-zetas-world.json](./337446-zetas-world.json) |
 | Zettai Kaikyuu Gakuen: Eden with Roses and Phantasm | 110334 | [110334-zettai-kaikyuu-gakuen-eden-with-roses-and-phantasm.json](./110334-zettai-kaikyuu-gakuen-eden-with-roses-and-phantasm.json) |
