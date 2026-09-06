@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olivia | 402267 | [402267-olivia.json](./402267-olivia.json) |
 | Ollam House | 128628 | [128628-ollam-house.json](./128628-ollam-house.json) |
 | Ollie Ollie Oxen Free | 60010 | [60010-ollie-ollie-oxen-free.json](./60010-ollie-ollie-oxen-free.json) |
+| OlliOlli World: Close Encounter Skate Deck | 353282 | [353282-olliolli-world-close-encounter-skate-deck.json](./353282-olliolli-world-close-encounter-skate-deck.json) |
 | OlliOlli: Epic Combo Edition | 46025 | [46025-olliolli-epic-combo-edition.json](./46025-olliolli-epic-combo-edition.json) |
 | Olobollo | 156138 | [156138-olobollo.json](./156138-olobollo.json) |
 | Olympia Rising | 17311 | [17311-olympia-rising.json](./17311-olympia-rising.json) |
