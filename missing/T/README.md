@@ -3136,6 +3136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege: Operation Brutal Swarm | 217522 | [217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json](./217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Neon Dawn | 141194 | [141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json](./141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Vector Glare | 217521 | [217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json](./217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json) |
+| Tom Clancy's Rainbow Six: Vegas | 314292 | [314292-tom-clancys-rainbow-six-vegas.json](./314292-tom-clancys-rainbow-six-vegas.json) |
 | Tom Clancy's Splinter Cell | 134350 | [134350-tom-clancys-splinter-cell.json](./134350-tom-clancys-splinter-cell.json) |
 | Tom Clancy's Splinter Cell | 90689 | [90689-tom-clancys-splinter-cell.json](./90689-tom-clancys-splinter-cell.json) |
 | Tom Clancy's Splinter Cell: Conviction - Insurgency Pack | 11010 | [11010-tom-clancys-splinter-cell-conviction-insurgency-pack.json](./11010-tom-clancys-splinter-cell-conviction-insurgency-pack.json) |
