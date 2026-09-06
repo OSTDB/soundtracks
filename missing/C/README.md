@@ -737,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheese Bit | 412971 | [412971-cheese-bit.json](./412971-cheese-bit.json) |
 | Cheese Quest 3D: The Brother Lady Saga | 234896 | [234896-cheese-quest-3d-the-brother-lady-saga.json](./234896-cheese-quest-3d-the-brother-lady-saga.json) |
 | Cheesequest | 213022 | [213022-cheesequest.json](./213022-cheesequest.json) |
+| Cheestrings Quiz | 313120 | [313120-cheestrings-quiz.json](./313120-cheestrings-quiz.json) |
 | Cheetah | 346050 | [346050-cheetah.json](./346050-cheetah.json) |
 | Cheetahmen | 243939 | [243939-cheetahmen.json](./243939-cheetahmen.json) |
 | Cheezure | 316094 | [316094-cheezure.json](./316094-cheezure.json) |
