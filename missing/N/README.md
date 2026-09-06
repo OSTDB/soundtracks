@@ -656,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Instinct | 25765 | [25765-ninja-instinct.json](./25765-ninja-instinct.json) |
 | Ninja JaJaMaru-kun: Sakura-hime to Karyu no Himitsu | 62207 | [62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json](./62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json) |
 | Ninja Kato 3 | 297800 | [297800-ninja-kato-3.json](./297800-ninja-kato-3.json) |
+| Ninja Ming: Wu | 341478 | [341478-ninja-ming-wu.json](./341478-ninja-ming-wu.json) |
 | Ninja Must Die | 143069 | [143069-ninja-must-die.json](./143069-ninja-must-die.json) |
 | Ninja or Die: Shadow of the Sun | 204717 | [204717-ninja-or-die-shadow-of-the-sun.json](./204717-ninja-or-die-shadow-of-the-sun.json) |
 | Ninja Ponk HD | 232184 | [232184-ninja-ponk-hd.json](./232184-ninja-ponk-hd.json) |
@@ -678,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja's Creed | 227473 | [227473-ninjas-creed.json](./227473-ninjas-creed.json) |
 | Ninjas on Trampolines | 351613 | [351613-ninjas-on-trampolines.json](./351613-ninjas-on-trampolines.json) |
 | Ninjas Stars | 344967 | [344967-ninjas-stars.json](./344967-ninjas-stars.json) |
+| NinjaThea 2 | 341479 | [341479-ninjathea-2.json](./341479-ninjathea-2.json) |
 | Ninjatown | 2825 | [2825-ninjatown.json](./2825-ninjatown.json) |
 | Ninjatown: Trees of Doom! | 21755 | [21755-ninjatown-trees-of-doom.json](./21755-ninjatown-trees-of-doom.json) |
 | NinJump Rush | 220828 | [220828-ninjump-rush.json](./220828-ninjump-rush.json) |
@@ -731,10 +733,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Nation: Drag Racing | 233762 | [233762-nitro-nation-drag-racing.json](./233762-nitro-nation-drag-racing.json) |
 | Nitro Thrash | 408082 | [408082-nitro-thrash.json](./408082-nitro-thrash.json) |
 | Nitrous Fury | 385085 | [385085-nitrous-fury.json](./385085-nitrous-fury.json) |
+| Niva | 341480 | [341480-niva.json](./341480-niva.json) |
 | Nixie | 267690 | [267690-nixie.json](./267690-nixie.json) |
 | Nixxsz Maids Blazing | 292303 | [292303-nixxsz-maids-blazing.json](./292303-nixxsz-maids-blazing.json) |
 | NLdle | 342051 | [342051-nldle.json](./342051-nldle.json) |
 | NLL Lacrosse 2010 | 66705 | [66705-nll-lacrosse-2010.json](./66705-nll-lacrosse-2010.json) |
+| No Afraid Of Battle | 341481 | [341481-no-afraid-of-battle.json](./341481-no-afraid-of-battle.json) |
 | No Arm | 360010 | [360010-no-arm.json](./360010-no-arm.json) |
 | No Contact | 302114 | [302114-no-contact.json](./302114-no-contact.json) |
 | No Cure 2 | 158195 | [158195-no-cure-2.json](./158195-no-cure-2.json) |
@@ -763,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Straight Roads: Encore Edition | 178093 | [178093-no-straight-roads-encore-edition.json](./178093-no-straight-roads-encore-edition.json) |
 | No Sun To Worship | 236015 | [236015-no-sun-to-worship.json](./236015-no-sun-to-worship.json) |
 | No Thoughts Just Dodge | 413689 | [413689-no-thoughts-just-dodge.json](./413689-no-thoughts-just-dodge.json) |
+| No Throwing | 341487 | [341487-no-throwing.json](./341487-no-throwing.json) |
 | No Time Left | 104111 | [104111-no-time-left.json](./104111-no-time-left.json) |
 | No Time to Build | 337484 | [337484-no-time-to-build.json](./337484-no-time-to-build.json) |
 | No Transmission | 183070 | [183070-no-transmission.json](./183070-no-transmission.json) |
@@ -799,9 +804,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Taishi - The Battle of Okitanawate Scenario | 150665 | [150665-nobunagas-ambition-taishi-the-battle-of-okitanawate-scenario.json](./150665-nobunagas-ambition-taishi-the-battle-of-okitanawate-scenario.json) |
 | Nobunaga's Ambition: Taishi - The Dutiful Lord of Echigo Scenario | 150663 | [150663-nobunagas-ambition-taishi-the-dutiful-lord-of-echigo-scenario.json](./150663-nobunagas-ambition-taishi-the-dutiful-lord-of-echigo-scenario.json) |
 | NoCanNoTap | 254158 | [254158-nocannotap.json](./254158-nocannotap.json) |
+| Nock & Load | 341482 | [341482-nock-and-load.json](./341482-nock-and-load.json) |
 | Nock: Hidden Arrow | 31389 | [31389-nock-hidden-arrow.json](./31389-nock-hidden-arrow.json) |
 | Noctuary | 221395 | [221395-noctuary.json](./221395-noctuary.json) |
 | Nocturnal | 234740 | [234740-nocturnal.json](./234740-nocturnal.json) |
+| Nocturnal Nemesis | 341483 | [341483-nocturnal-nemesis.json](./341483-nocturnal-nemesis.json) |
 | Nocturnal Visitors: Book One | 370152 | [370152-nocturnal-visitors-book-one.json](./370152-nocturnal-visitors-book-one.json) |
 | Nocturnal Whispers | 356632 | [356632-nocturnal-whispers.json](./356632-nocturnal-whispers.json) |
 | Nocturnarya: Collector's Edition | 362846 | [362846-nocturnarya-collectors-edition.json](./362846-nocturnarya-collectors-edition.json) |
@@ -828,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noisz: DM Ashura Level Pack | 317032 | [317032-noisz-dm-ashura-level-pack.json](./317032-noisz-dm-ashura-level-pack.json) |
 | Noisz: Hyun Level Pack | 317031 | [317031-noisz-hyun-level-pack.json](./317031-noisz-hyun-level-pack.json) |
 | Noiz2sa | 335673 | [335673-noiz2sa.json](./335673-noiz2sa.json) |
+| NokNok | 341484 | [341484-noknok.json](./341484-noknok.json) |
 | Nol | 404808 | [404808-nol.json](./404808-nol.json) |
 | Nom Nom Nom | 209650 | [209650-nom-nom-nom.json](./209650-nom-nom-nom.json) |
 | Nomad Idle | 323533 | [323533-nomad-idle.json](./323533-nomad-idle.json) |
@@ -849,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonstop Balls | 87731 | [87731-nonstop-balls.json](./87731-nonstop-balls.json) |
 | Noodle Fight | 269313 | [269313-noodle-fight.json](./269313-noodle-fight.json) |
 | Noodle Party | 209680 | [209680-noodle-party.json](./209680-noodle-party.json) |
+| Nook Fall: West Town | 341485 | [341485-nook-fall-west-town.json](./341485-nook-fall-west-town.json) |
 | Nookle | 361709 | [361709-nookle.json](./361709-nookle.json) |
 | Noon Stone | 346590 | [346590-noon-stone.json](./346590-noon-stone.json) |
 | Noonie | 99630 | [99630-noonie.json](./99630-noonie.json) |
@@ -877,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norukasoruka: Tanpenshuu | 398985 | [398985-norukasoruka-tanpenshuu.json](./398985-norukasoruka-tanpenshuu.json) |
 | NoseBound | 132821 | [132821-nosebound.json](./132821-nosebound.json) |
 | NoserLand | 51960 | [51960-noserland.json](./51960-noserland.json) |
+| NoSpellHero | 341486 | [341486-nospellhero.json](./341486-nospellhero.json) |
 | Nostalgia | 360584 | [360584-nostalgia.json](./360584-nostalgia.json) |
 | Nostalgiarian | 127375 | [127375-nostalgiarian.json](./127375-nostalgiarian.json) |
 | Nostalgic Entropy: Neo Retro | 312899 | [312899-nostalgic-entropy-neo-retro.json](./312899-nostalgic-entropy-neo-retro.json) |
@@ -946,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NuclearDanger | 180806 | [180806-nucleardanger.json](./180806-nucleardanger.json) |
 | NuclearRifle | 384527 | [384527-nuclearrifle.json](./384527-nuclearrifle.json) |
 | Nude and Afraid: 11 Day Challenge | 270962 | [270962-nude-and-afraid-11-day-challenge.json](./270962-nude-and-afraid-11-day-challenge.json) |
+| NugQuest | 341488 | [341488-nugquest.json](./341488-nugquest.json) |
 | Nui Goes to Town! | 354410 | [354410-nui-goes-to-town.json](./354410-nui-goes-to-town.json) |
 | Nuign Specter | 251242 | [251242-nuign-specter.json](./251242-nuign-specter.json) |
 | Nuketris | 145666 | [145666-nuketris.json](./145666-nuketris.json) |
@@ -967,15 +978,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Place Value Tutor | 108497 | [108497-number-place-value-tutor.json](./108497-number-place-value-tutor.json) |
 | Number Puzzler | 109042 | [109042-number-puzzler.json](./109042-number-puzzler.json) |
 | Number Slide Puzzle | 228106 | [228106-number-slide-puzzle.json](./228106-number-slide-puzzle.json) |
+| Number Tower | 341490 | [341490-number-tower.json](./341490-number-tower.json) |
 | Number Wars | 193474 | [193474-number-wars.json](./193474-number-wars.json) |
 | Numberic Puzzle Ocean | 107168 | [107168-numberic-puzzle-ocean.json](./107168-numberic-puzzle-ocean.json) |
 | Numberline | 29724 | [29724-numberline.json](./29724-numberline.json) |
 | Numberline 3 | 106580 | [106580-numberline-3.json](./106580-numberline-3.json) |
+| Numbers Destiny | 341489 | [341489-numbers-destiny.json](./341489-numbers-destiny.json) |
 | Numenclature | 357249 | [357249-numenclature.json](./357249-numenclature.json) |
 | Numeral Lord | 221426 | [221426-numeral-lord.json](./221426-numeral-lord.json) |
 | Numina | 141250 | [141250-numina.json](./141250-numina.json) |
 | Numolition | 239345 | [239345-numolition.json](./239345-numolition.json) |
 | Nump Jump | 213587 | [213587-nump-jump.json](./213587-nump-jump.json) |
+| NumX | 341491 | [341491-numx.json](./341491-numx.json) |
 | Nun Attack: Run & Gun | 38993 | [38993-nun-attack-run-and-gun.json](./38993-nun-attack-run-and-gun.json) |
 | Nurburgring-1 | 238207 | [238207-nurburgring-1.json](./238207-nurburgring-1.json) |
 | Nurikabe World | 310757 | [310757-nurikabe-world.json](./310757-nurikabe-world.json) |
