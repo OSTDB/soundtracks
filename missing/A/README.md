@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Story of Us: Ep. 1 - First Memories | 115043 | [115043-a-story-of-us-ep-1-first-memories.json](./115043-a-story-of-us-ep-1-first-memories.json) |
 | A Stray Line | 388733 | [388733-a-stray-line.json](./388733-a-stray-line.json) |
 | A Summer in Our Hearts | 338171 | [338171-a-summer-in-our-hearts.json](./338171-a-summer-in-our-hearts.json) |
+| A Tale In The Garden | 332404 | [332404-a-tale-in-the-garden.json](./332404-a-tale-in-the-garden.json) |
 | A Tale of Body Limbs | 331142 | [331142-a-tale-of-body-limbs.json](./331142-a-tale-of-body-limbs.json) |
 | A Tale of Brothers | 358879 | [358879-a-tale-of-brothers.json](./358879-a-tale-of-brothers.json) |
 | A Tale of Caos: Overture | 32116 | [32116-a-tale-of-caos-overture.json](./32116-a-tale-of-caos-overture.json) |
@@ -294,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss | 265405 | [265405-abyss.json](./265405-abyss.json) |
 | Abyss | 8524 | [8524-abyss.json](./8524-abyss.json) |
 | Abyss Cave | 35789 | [35789-abyss-cave.json](./35789-abyss-cave.json) |
+| Abyss Chaser | 332446 | [332446-abyss-chaser.json](./332446-abyss-chaser.json) |
 | Abyss of Fire | 239301 | [239301-abyss-of-fire.json](./239301-abyss-of-fire.json) |
 | Abyss Pact | 339129 | [339129-abyss-pact.json](./339129-abyss-pact.json) |
 | Abyss Survivors | 311261 | [311261-abyss-survivors.json](./311261-abyss-survivors.json) |
@@ -425,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adidas Power Soccer 98 | 43935 | [43935-adidas-power-soccer-98.json](./43935-adidas-power-soccer-98.json) |
 | Adj | 76620 | [76620-adj.json](./76620-adj.json) |
 | Adonis | 200708 | [200708-adonis.json](./200708-adonis.json) |
+| Adopt A Boyfriend | 332439 | [332439-adopt-a-boyfriend.json](./332439-adopt-a-boyfriend.json) |
 | Adopt Me Please | 410894 | [410894-adopt-me-please.json](./410894-adopt-me-please.json) |
 | Adora and My Treasure | 301598 | [301598-adora-and-my-treasure.json](./301598-adora-and-my-treasure.json) |
 | Adorable Home | 193994 | [193994-adorable-home.json](./193994-adorable-home.json) |
@@ -1275,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ani Idle | 351027 | [351027-ani-idle.json](./351027-ani-idle.json) |
 | Anicca | 208058 | [208058-anicca.json](./208058-anicca.json) |
 | Anicon: Animal Complex - Sheep's Path | 106607 | [106607-anicon-animal-complex-sheeps-path.json](./106607-anicon-animal-complex-sheeps-path.json) |
+| Anima Fighters | 332422 | [332422-anima-fighters.json](./332422-anima-fighters.json) |
 | Anima Flux | 249480 | [249480-anima-flux.json](./249480-anima-flux.json) |
 | Anima of Quantmix | 200731 | [200731-anima-of-quantmix.json](./200731-anima-of-quantmix.json) |
 | Anima Shin Gun | 367943 | [367943-anima-shin-gun.json](./367943-anima-shin-gun.json) |
@@ -2245,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: The Last Airbender - The Burning Earth | 210253 | [210253-avatar-the-last-airbender-the-burning-earth.json](./210253-avatar-the-last-airbender-the-burning-earth.json) |
 | Avelia | 292318 | [292318-avelia.json](./292318-avelia.json) |
 | Aveliana | 156152 | [156152-aveliana.json](./156152-aveliana.json) |
+| Avenir Tower | 332414 | [332414-avenir-tower.json](./332414-avenir-tower.json) |
 | Aventador Drift Simulator 2 | 104649 | [104649-aventador-drift-simulator-2.json](./104649-aventador-drift-simulator-2.json) |
 | Average Maria Individual | 293891 | [293891-average-maria-individual.json](./293891-average-maria-individual.json) |
 | Avernum | 19580 | [19580-avernum.json](./19580-avernum.json) |
