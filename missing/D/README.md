@@ -551,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep In The Snowy Night 2 | 278740 | [278740-deep-in-the-snowy-night-2.json](./278740-deep-in-the-snowy-night-2.json) |
 | Deep Labyrinth | 20552 | [20552-deep-labyrinth.json](./20552-deep-labyrinth.json) |
 | Deep Panic | 402271 | [402271-deep-panic.json](./402271-deep-panic.json) |
+| Deep Pixel Melancholy | 347185 | [347185-deep-pixel-melancholy.json](./347185-deep-pixel-melancholy.json) |
 | Deep Research | 271493 | [271493-deep-research.json](./271493-deep-research.json) |
 | Deep Sea Marble Pop | 146901 | [146901-deep-sea-marble-pop.json](./146901-deep-sea-marble-pop.json) |
 | Deep Sleep | 185125 | [185125-deep-sleep.json](./185125-deep-sleep.json) |
@@ -840,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: Breach | 30494 | [30494-deus-ex-breach.json](./30494-deus-ex-breach.json) |
 | Deus Ex: Game of the Year Edition | 25358 | [25358-deus-ex-game-of-the-year-edition.json](./25358-deus-ex-game-of-the-year-edition.json) |
 | Deus Ex: Mankind Divided - Day One Edition | 46024 | [46024-deus-ex-mankind-divided-day-one-edition.json](./46024-deus-ex-mankind-divided-day-one-edition.json) |
+| Deus Ex: The Conspiracy | 347125 | [347125-deus-ex-the-conspiracy.json](./347125-deus-ex-the-conspiracy.json) |
 | Deuteros: The Next Millennium | 9575 | [9575-deuteros-the-next-millennium.json](./9575-deuteros-the-next-millennium.json) |
 | Devastated | 129211 | [129211-devastated.json](./129211-devastated.json) |
 | Devastated Path | 265436 | [265436-devastated-path.json](./265436-devastated-path.json) |
