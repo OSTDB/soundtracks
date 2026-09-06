@@ -914,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowkin | 244515 | [244515-shadowkin.json](./244515-shadowkin.json) |
 | Shadowland | 119020 | [119020-shadowland.json](./119020-shadowland.json) |
 | Shadowlands | 37128 | [37128-shadowlands.json](./37128-shadowlands.json) |
+| ShadowLight Siblings | 314300 | [314300-shadowlight-siblings.json](./314300-shadowlight-siblings.json) |
 | Shadownest | 158199 | [158199-shadownest.json](./158199-shadownest.json) |
 | Shadoworld: The Impossible Escape Game | 204082 | [204082-shadoworld-the-impossible-escape-game.json](./204082-shadoworld-the-impossible-escape-game.json) |
 | Shadowpiercer | 383964 | [383964-shadowpiercer.json](./383964-shadowpiercer.json) |
@@ -1243,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek Playtime is Ogre | 302687 | [302687-shrek-playtime-is-ogre.json](./302687-shrek-playtime-is-ogre.json) |
 | Shrek Playtime is Ogre 2 | 302685 | [302685-shrek-playtime-is-ogre-2.json](./302685-shrek-playtime-is-ogre-2.json) |
 | Shrek Sugar Fever | 97357 | [97357-shrek-sugar-fever.json](./97357-shrek-sugar-fever.json) |
+| Shrimp | 314251 | [314251-shrimp.json](./314251-shrimp.json) |
 | Shrimp Keeping Simulator | 340371 | [340371-shrimp-keeping-simulator.json](./340371-shrimp-keeping-simulator.json) |
 | Shrine | 132241 | [132241-shrine.json](./132241-shrine.json) |
 | Shrine Raider | 377052 | [377052-shrine-raider.json](./377052-shrine-raider.json) |
@@ -2941,6 +2943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squaser 6 | 368490 | [368490-squaser-6.json](./368490-squaser-6.json) |
 | Squeen's Adventure 3: Across The Cosmos | 242255 | [242255-squeens-adventure-3-across-the-cosmos.json](./242255-squeens-adventure-3-across-the-cosmos.json) |
 | Squewe Run | 312884 | [312884-squewe-run.json](./312884-squewe-run.json) |
+| Squid Game: Unleashed | 314273 | [314273-squid-game-unleashed.json](./314273-squid-game-unleashed.json) |
 | Squid Gurl and the Salty Sea Man | 97345 | [97345-squid-gurl-and-the-salty-sea-man.json](./97345-squid-gurl-and-the-salty-sea-man.json) |
 | Squids in a Pickle | 340924 | [340924-squids-in-a-pickle.json](./340924-squids-in-a-pickle.json) |
 | Squillamorph | 126652 | [126652-squillamorph.json](./126652-squillamorph.json) |
@@ -3164,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfall Defenders | 350433 | [350433-starfall-defenders.json](./350433-starfall-defenders.json) |
 | Starfall Online | 131612 | [131612-starfall-online.json](./131612-starfall-online.json) |
 | Starfield Digipick-Locking Minigame Simulator | 269304 | [269304-starfield-digipick-locking-minigame-simulator.json](./269304-starfield-digipick-locking-minigame-simulator.json) |
+| Starfield: Rev-8 | 314267 | [314267-starfield-rev-8.json](./314267-starfield-rev-8.json) |
 | Starfighter 77 | 138810 | [138810-starfighter-77.json](./138810-starfighter-77.json) |
 | StarFighter R&D HD Edition | 134689 | [134689-starfighter-r-and-d-hd-edition.json](./134689-starfighter-r-and-d-hd-edition.json) |
 | Starflower Inc. | 348788 | [348788-starflower-inc.json](./348788-starflower-inc.json) |
@@ -3974,6 +3978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kyuukyoku Harikiri Stadium 2 | 37815 | [37815-super-kyuukyoku-harikiri-stadium-2.json](./37815-super-kyuukyoku-harikiri-stadium-2.json) |
 | Super Lode Runner II | 48676 | [48676-super-lode-runner-ii.json](./48676-super-lode-runner-ii.json) |
 | Super Lone Survivor | 140603 | [140603-super-lone-survivor.json](./140603-super-lone-survivor.json) |
+| Super Luigi Trick or Treat | 314278 | [314278-super-luigi-trick-or-treat.json](./314278-super-luigi-trick-or-treat.json) |
 | Super Luigi Wii: The Emissary | 259276 | [259276-super-luigi-wii-the-emissary.json](./259276-super-luigi-wii-the-emissary.json) |
 | Super Mabus Mania | 223160 | [223160-super-mabus-mania.json](./223160-super-mabus-mania.json) |
 | Super Magic Chess | 331134 | [331134-super-magic-chess.json](./331134-super-magic-chess.json) |
