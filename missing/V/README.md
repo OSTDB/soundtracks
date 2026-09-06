@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viktor: Enforcer Edition | 53871 | [53871-viktor-enforcer-edition.json](./53871-viktor-enforcer-edition.json) |
 | Village Cricket | 175401 | [175401-village-cricket.json](./175401-village-cricket.json) |
 | Village Heros | 235992 | [235992-village-heros.json](./235992-village-heros.json) |
+| Village Meow | 327172 | [327172-village-meow.json](./327172-village-meow.json) |
 | Village of the Ages | 369042 | [369042-village-of-the-ages.json](./369042-village-of-the-ages.json) |
 | Village Tanuki | 185138 | [185138-village-tanuki.json](./185138-village-tanuki.json) |
 | Villager comes alive | 192451 | [192451-villager-comes-alive.json](./192451-villager-comes-alive.json) |
