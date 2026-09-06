@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paycheck: City RPG | 130383 | [130383-paycheck-city-rpg.json](./130383-paycheck-city-rpg.json) |
 | Payday 2: The Biker Heist | 19613 | [19613-payday-2-the-biker-heist.json](./19613-payday-2-the-biker-heist.json) |
 | Payday 2: Ultimate Edition | 37149 | [37149-payday-2-ultimate-edition.json](./37149-payday-2-ultimate-edition.json) |
+| Payday 3: Jacket Character Pack | 367398 | [367398-payday-3-jacket-character-pack.json](./367398-payday-3-jacket-character-pack.json) |
 | Payday: Crime War | 98080 | [98080-payday-crime-war.json](./98080-payday-crime-war.json) |
 | Payrates | 405522 | [405522-payrates.json](./405522-payrates.json) |
 | Paze Knight Ellen and the Dungeon Town Sodom | 244482 | [244482-paze-knight-ellen-and-the-dungeon-town-sodom.json](./244482-paze-knight-ellen-and-the-dungeon-town-sodom.json) |
@@ -419,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pen Fight | 233760 | [233760-pen-fight.json](./233760-pen-fight.json) |
 | Pen Pals | 145020 | [145020-pen-pals.json](./145020-pen-pals.json) |
 | Penalty Shooters Footy | 241061 | [241061-penalty-shooters-footy.json](./241061-penalty-shooters-footy.json) |
+| Penance | 367401 | [367401-penance.json](./367401-penance.json) |
 | Penance | 370685 | [370685-penance.json](./370685-penance.json) |
 | Pencil Plus: The Wrath of The Spankster | 242245 | [242245-pencil-plus-the-wrath-of-the-spankster.json](./242245-pencil-plus-the-wrath-of-the-spankster.json) |
 | Pendragon Rising | 34210 | [34210-pendragon-rising.json](./34210-pendragon-rising.json) |
@@ -1330,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porterminus | 265954 | [265954-porterminus.json](./265954-porterminus.json) |
 | Portile | 322360 | [322360-portile.json](./322360-portile.json) |
 | Portrait Painter | 406709 | [406709-portrait-painter.json](./406709-portrait-painter.json) |
+| Porzellanhaus | 367407 | [367407-porzellanhaus.json](./367407-porzellanhaus.json) |
 | Posh Boutique 2 | 294454 | [294454-posh-boutique-2.json](./294454-posh-boutique-2.json) |
 | Posibility | 127367 | [127367-posibility.json](./127367-posibility.json) |
 | Possession | 90649 | [90649-possession.json](./90649-possession.json) |
@@ -1628,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project M EX Remix | 202916 | [202916-project-m-ex-remix.json](./202916-project-m-ex-remix.json) |
 | Project Mansion | 317605 | [317605-project-mansion.json](./317605-project-mansion.json) |
 | Project Martians | 165698 | [165698-project-martians.json](./165698-project-martians.json) |
+| Project Mercenaria | 367390 | [367390-project-mercenaria.json](./367390-project-mercenaria.json) |
 | Project Mnemosyne | 370706 | [370706-project-mnemosyne.json](./370706-project-mnemosyne.json) |
 | Project Monarch | 70422 | [70422-project-monarch.json](./70422-project-monarch.json) |
 | Project MSfiX'D | 202415 | [202415-project-msfixd.json](./202415-project-msfixd.json) |
