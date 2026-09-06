@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheese Bit | 412971 | [412971-cheese-bit.json](./412971-cheese-bit.json) |
 | Cheese Quest 3D: The Brother Lady Saga | 234896 | [234896-cheese-quest-3d-the-brother-lady-saga.json](./234896-cheese-quest-3d-the-brother-lady-saga.json) |
 | Cheesequest | 213022 | [213022-cheesequest.json](./213022-cheesequest.json) |
+| Cheetah | 346050 | [346050-cheetah.json](./346050-cheetah.json) |
 | Cheetahmen | 243939 | [243939-cheetahmen.json](./243939-cheetahmen.json) |
 | Chef Life: A Restaurant Simulator | 191698 | [191698-chef-life-a-restaurant-simulator.json](./191698-chef-life-a-restaurant-simulator.json) |
 | Chef Wanted | 232665 | [232665-chef-wanted.json](./232665-chef-wanted.json) |
@@ -1108,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleo: A Pirate's Tale - Deluxe Edition | 186887 | [186887-cleo-a-pirates-tale-deluxe-edition.json](./186887-cleo-a-pirates-tale-deluxe-edition.json) |
 | Cleopatra Fortune: S-Tribute | 225886 | [225886-cleopatra-fortune-s-tribute.json](./225886-cleopatra-fortune-s-tribute.json) |
 | Cleveland 1968 | 319933 | [319933-cleveland-1968.json](./319933-cleveland-1968.json) |
+| Clever Dog | 346051 | [346051-clever-dog.json](./346051-clever-dog.json) |
 | Clever Frog | 340209 | [340209-clever-frog.json](./340209-clever-frog.json) |
 | Clever Girl | 184639 | [184639-clever-girl.json](./184639-clever-girl.json) |
 | Click and Relax | 153420 | [153420-click-and-relax.json](./153420-click-and-relax.json) |
@@ -1654,6 +1656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Wars | 48646 | [48646-cosmic-wars.json](./48646-cosmic-wars.json) |
 | Cosmic Zephyr DX | 159845 | [159845-cosmic-zephyr-dx.json](./159845-cosmic-zephyr-dx.json) |
 | Cosmo 02 | 165690 | [165690-cosmo-02.json](./165690-cosmo-02.json) |
+| Cosmo Flight | 346052 | [346052-cosmo-flight.json](./346052-cosmo-flight.json) |
 | Cosmo Gang the Video | 39644 | [39644-cosmo-gang-the-video.json](./39644-cosmo-gang-the-video.json) |
 | Cosmo Race | 196335 | [196335-cosmo-race.json](./196335-cosmo-race.json) |
 | Cosmoblaster Exodia | 192939 | [192939-cosmoblaster-exodia.json](./192939-cosmoblaster-exodia.json) |
@@ -1710,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid 23: Test Labs | 255975 | [255975-covid-23-test-labs.json](./255975-covid-23-test-labs.json) |
 | Covid-19: Corona Clicker | 165003 | [165003-covid-19-corona-clicker.json](./165003-covid-19-corona-clicker.json) |
 | Cowbots and Aliens | 31595 | [31595-cowbots-and-aliens.json](./31595-cowbots-and-aliens.json) |
+| Cowboy | 346053 | [346053-cowboy.json](./346053-cowboy.json) |
 | Cowboy vs. UFOs | 57110 | [57110-cowboy-vs-ufos.json](./57110-cowboy-vs-ufos.json) |
 | Cowboy War | 237627 | [237627-cowboy-war.json](./237627-cowboy-war.json) |
 | Cowboy with a Gatling Gun | 184106 | [184106-cowboy-with-a-gatling-gun.json](./184106-cowboy-with-a-gatling-gun.json) |
@@ -1751,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crackdown 2 | 2897 | [2897-crackdown-2.json](./2897-crackdown-2.json) |
 | Cracked | 265432 | [265432-cracked.json](./265432-cracked.json) |
 | Cracking the Cryptic | 211958 | [211958-cracking-the-cryptic.json](./211958-cracking-the-cryptic.json) |
+| Cracksman | 346054 | [346054-cracksman.json](./346054-cracksman.json) |
 | Cradle of Egypt / Cradle of Persia | 201861 | [201861-cradle-of-egypt-cradle-of-persia.json](./201861-cradle-of-egypt-cradle-of-persia.json) |
 | Cradle of Egypt: Collector's Edition | 355549 | [355549-cradle-of-egypt-collectors-edition.json](./355549-cradle-of-egypt-collectors-edition.json) |
 | Cradle of Nightmares: Chapter 1 | 323502 | [323502-cradle-of-nightmares-chapter-1.json](./323502-cradle-of-nightmares-chapter-1.json) |
@@ -1819,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Food | 378793 | [378793-crayon-food.json](./378793-crayon-food.json) |
 | Crayon Pairs | 105945 | [105945-crayon-pairs.json](./105945-crayon-pairs.json) |
 | Crayon Sea Friends | 399629 | [399629-crayon-sea-friends.json](./399629-crayon-sea-friends.json) |
+| Crayon Shin-chan: Guu Choki Panic | 346024 | [346024-crayon-shin-chan-guu-choki-panic.json](./346024-crayon-shin-chan-guu-choki-panic.json) |
 | Crayon Shin-Chan: Ora to Wanpaku Gokko dazo | 63314 | [63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json](./63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json) |
 | Crayon Shin-chan: Puzzle Daimaou no Nazo | 172768 | [172768-crayon-shin-chan-puzzle-daimaou-no-nazo.json](./172768-crayon-shin-chan-puzzle-daimaou-no-nazo.json) |
 | Crayon Shinchan My Sugoroku Great Strategy | 390523 | [390523-crayon-shinchan-my-sugoroku-great-strategy.json](./390523-crayon-shinchan-my-sugoroku-great-strategy.json) |
