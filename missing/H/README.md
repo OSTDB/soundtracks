@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Gallery: Secret Beauties | 378806 | [378806-hentai-gallery-secret-beauties.json](./378806-hentai-gallery-secret-beauties.json) |
 | Hentai Girls Nature | 311810 | [311810-hentai-girls-nature.json](./311810-hentai-girls-nature.json) |
 | Hentai Girls Slide | 277596 | [277596-hentai-girls-slide.json](./277596-hentai-girls-slide.json) |
+| Hentai Girls: Paris Romance | 314871 | [314871-hentai-girls-paris-romance.json](./314871-hentai-girls-paris-romance.json) |
 | Hentai Golf: Happy Edition | 315861 | [315861-hentai-golf-happy-edition.json](./315861-hentai-golf-happy-edition.json) |
 | Hentai Hack-Her | 147452 | [147452-hentai-hack-her.json](./147452-hentai-hack-her.json) |
 | Hentai Harem | 367976 | [367976-hentai-harem.json](./367976-hentai-harem.json) |
@@ -637,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Shop Simulator | 329572 | [329572-hentai-shop-simulator.json](./329572-hentai-shop-simulator.json) |
 | Hentai Shop Simulator | 338002 | [338002-hentai-shop-simulator.json](./338002-hentai-shop-simulator.json) |
 | Hentai Solitaire: Extended Edition | 315868 | [315868-hentai-solitaire-extended-edition.json](./315868-hentai-solitaire-extended-edition.json) |
+| Hentai Stars: Superb Edition | 314885 | [314885-hentai-stars-superb-edition.json](./314885-hentai-stars-superb-edition.json) |
 | Hentai Tales: Triangle That Wants Me All | 401532 | [401532-hentai-tales-triangle-that-wants-me-all.json](./401532-hentai-tales-triangle-that-wants-me-all.json) |
 | Hentai vs. Orcs | 161388 | [161388-hentai-vs-orcs.json](./161388-hentai-vs-orcs.json) |
 | Hentai: Color by Number | 368515 | [368515-hentai-color-by-number.json](./368515-hentai-color-by-number.json) |
