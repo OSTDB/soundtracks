@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Vikings | 61106 | [61106-happy-vikings.json](./61106-happy-vikings.json) |
 | Happy VR Plantation Farm | 166193 | [166193-happy-vr-plantation-farm.json](./166193-happy-vr-plantation-farm.json) |
 | Happy Wagon | 254763 | [254763-happy-wagon.json](./254763-happy-wagon.json) |
+| Happy Weekend | 333579 | [333579-happy-weekend.json](./333579-happy-weekend.json) |
 | Happy Words | 117051 | [117051-happy-words.json](./117051-happy-words.json) |
 | HappyFamily - Cut Knife | 100866 | [100866-happyfamily-cut-knife.json](./100866-happyfamily-cut-knife.json) |
 | HappySnowMan | 236540 | [236540-happysnowman.json](./236540-happysnowman.json) |
