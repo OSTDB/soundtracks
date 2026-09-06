@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Survivors | 338553 | [338553-waifu-survivors.json](./338553-waifu-survivors.json) |
 | Waifu Wars Splash | 183560 | [183560-waifu-wars-splash.json](./183560-waifu-wars-splash.json) |
 | Waifusitter | 338554 | [338554-waifusitter.json](./338554-waifusitter.json) |
+| Wail | 348791 | [348791-wail.json](./348791-wail.json) |
 | Wailing Heights | 18969 | [18969-wailing-heights.json](./18969-wailing-heights.json) |
 | Wailing Heights: Deluxe Edition | 53881 | [53881-wailing-heights-deluxe-edition.json](./53881-wailing-heights-deluxe-edition.json) |
 | Waimanu: Grinding Block Adventure | 123628 | [123628-waimanu-grinding-block-adventure.json](./123628-waimanu-grinding-block-adventure.json) |
@@ -82,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Willows | 16073 | [16073-wandering-willows.json](./16073-wandering-willows.json) |
 | Wanderland | 30901 | [30901-wanderland.json](./30901-wanderland.json) |
 | Wanderlust | 336914 | [336914-wanderlust.json](./336914-wanderlust.json) |
+| Wandrill | 348789 | [348789-wandrill.json](./348789-wandrill.json) |
 | Wands | 56982 | [56982-wands.json](./56982-wands.json) |
 | Wangan Midnight | 268764 | [268764-wangan-midnight.json](./268764-wangan-midnight.json) |
 | Wangan Midnight Maximum Tune 3 | 68044 | [68044-wangan-midnight-maximum-tune-3.json](./68044-wangan-midnight-maximum-tune-3.json) |
@@ -127,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Roses: Kingmaker | 11040 | [11040-war-of-the-roses-kingmaker.json](./11040-war-of-the-roses-kingmaker.json) |
 | War of the Seraphim | 117056 | [117056-war-of-the-seraphim.json](./117056-war-of-the-seraphim.json) |
 | War of the Worlds | 333949 | [333949-war-of-the-worlds.json](./333949-war-of-the-worlds.json) |
+| War Pigeons | 348776 | [348776-war-pigeons.json](./348776-war-pigeons.json) |
 | War Pinball | 209715 | [209715-war-pinball.json](./209715-war-pinball.json) |
 | War Pirates | 237639 | [237639-war-pirates.json](./237639-war-pirates.json) |
 | War Remains | 124265 | [124265-war-remains.json](./124265-war-remains.json) |
@@ -417,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Shenmue? | 93595 | [93595-whats-shenmue.json](./93595-whats-shenmue.json) |
 | What's Updog | 228066 | [228066-whats-updog.json](./228066-whats-updog.json) |
 | Whateverland | 126594 | [126594-whateverland.json](./126594-whateverland.json) |
+| Whatnever | 348782 | [348782-whatnever.json](./348782-whatnever.json) |
 | Wheel of Fortune | 37183 | [37183-wheel-of-fortune.json](./37183-wheel-of-fortune.json) |
 | Wheel of Fortune | 70959 | [70959-wheel-of-fortune.json](./70959-wheel-of-fortune.json) |
 | Wheel of Fortune Cookie | 100898 | [100898-wheel-of-fortune-cookie.json](./100898-wheel-of-fortune-cookie.json) |
