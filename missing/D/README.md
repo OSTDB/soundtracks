@@ -1447,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorman's Attraction: Upgraded & Advanced | 396897 | [396897-dormans-attraction-upgraded-and-advanced.json](./396897-dormans-attraction-upgraded-and-advanced.json) |
 | Dormant | 313496 | [313496-dormant.json](./313496-dormant.json) |
 | Dormitabis | 230514 | [230514-dormitabis.json](./230514-dormitabis.json) |
+| Dororo: Jigoku Emaki no Shou | 353899 | [353899-dororo-jigoku-emaki-no-shou.json](./353899-dororo-jigoku-emaki-no-shou.json) |
 | Dorothy's Magical Journey in Oz | 410213 | [410213-dorothys-magical-journey-in-oz.json](./410213-dorothys-magical-journey-in-oz.json) |
 | Dorpie | 360015 | [360015-dorpie.json](./360015-dorpie.json) |
 | Dosukoi Slime | 322998 | [322998-dosukoi-slime.json](./322998-dosukoi-slime.json) |
