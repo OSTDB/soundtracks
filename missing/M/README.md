@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magatsu Wahrheit | 194004 | [194004-magatsu-wahrheit.json](./194004-magatsu-wahrheit.json) |
 | Mage and Monsters | 209682 | [209682-mage-and-monsters.json](./209682-mage-and-monsters.json) |
 | Mage Arena | 356787 | [356787-mage-arena.json](./356787-mage-arena.json) |
+| Mage Arena: Voicebound | 366214 | [366214-mage-arena-voicebound.json](./366214-mage-arena-voicebound.json) |
 | Mage Knight: Destiny's Soldier | 20576 | [20576-mage-knight-destinys-soldier.json](./20576-mage-knight-destinys-soldier.json) |
 | Mage Mania | 120408 | [120408-mage-mania.json](./120408-mage-mania.json) |
 | Mage March | 185155 | [185155-mage-march.json](./185155-mage-march.json) |
@@ -198,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic By Nature | 17322 | [17322-magnetic-by-nature.json](./17322-magnetic-by-nature.json) |
 | Magnificent Alfie | 233752 | [233752-magnificent-alfie.json](./233752-magnificent-alfie.json) |
 | Magnir Saga Part 1 | 263227 | [263227-magnir-saga-part-1.json](./263227-magnir-saga-part-1.json) |
+| Magnitude: Sigma | 366213 | [366213-magnitude-sigma.json](./366213-magnitude-sigma.json) |
 | Magnus Imago | 188683 | [188683-magnus-imago.json](./188683-magnus-imago.json) |
 | Magus in Mystic Geometries. | 123591 | [123591-magus-in-mystic-geometries.json](./123591-magus-in-mystic-geometries.json) |
 | Mah Jong Solitaire 2 | 86699 | [86699-mah-jong-solitaire-2.json](./86699-mah-jong-solitaire-2.json) |
@@ -629,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Traffic | 191887 | [191887-max-traffic.json](./191887-max-traffic.json) |
 | Max's Big Bust 2 - Max's Bigger Bust | 140626 | [140626-maxs-big-bust-2-maxs-bigger-bust.json](./140626-maxs-big-bust-2-maxs-bigger-bust.json) |
 | MaxControl | 31928 | [31928-maxcontrol.json](./31928-maxcontrol.json) |
+| Maxi Trucks Racing | 366212 | [366212-maxi-trucks-racing.json](./366212-maxi-trucks-racing.json) |
 | Maximal Mahjongg | 94235 | [94235-maximal-mahjongg.json](./94235-maximal-mahjongg.json) |
 | Maximo vs. Army of Zin | 43642 | [43642-maximo-vs-army-of-zin.json](./43642-maximo-vs-army-of-zin.json) |
 | Maximum Fighterz: Direct Offensive Action | 369580 | [369580-maximum-fighterz-direct-offensive-action.json](./369580-maximum-fighterz-direct-offensive-action.json) |
@@ -723,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medical Record Sheet | 253003 | [253003-medical-record-sheet.json](./253003-medical-record-sheet.json) |
 | Medical verdict | 107913 | [107913-medical-verdict.json](./107913-medical-verdict.json) |
 | Medicinal Herbs: Cannabis Grow Simulator | 172149 | [172149-medicinal-herbs-cannabis-grow-simulator.json](./172149-medicinal-herbs-cannabis-grow-simulator.json) |
+| Medieval Adventure | 366264 | [366264-medieval-adventure.json](./366264-medieval-adventure.json) |
 | Medieval Battlefields: Black Edition | 33081 | [33081-medieval-battlefields-black-edition.json](./33081-medieval-battlefields-black-edition.json) |
 | Medieval Battlegrounds | 188669 | [188669-medieval-battlegrounds.json](./188669-medieval-battlegrounds.json) |
 | Medieval Castle Siege Defense vs. Invaders | 406083 | [406083-medieval-castle-siege-defense-vs-invaders.json](./406083-medieval-castle-siege-defense-vs-invaders.json) |
@@ -840,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melody Mania | 247782 | [247782-melody-mania.json](./247782-melody-mania.json) |
 | Melody of the Light | 181909 | [181909-melody-of-the-light.json](./181909-melody-of-the-light.json) |
 | Melody's Escape 2 | 217497 | [217497-melodys-escape-2.json](./217497-melodys-escape-2.json) |
+| Melon Bounce | 366250 | [366250-melon-bounce.json](./366250-melon-bounce.json) |
 | Melon Parker: We are Whatever Club! | 378816 | [378816-melon-parker-we-are-whatever-club.json](./378816-melon-parker-we-are-whatever-club.json) |
 | Melon's Sokoban Walk | 386103 | [386103-melons-sokoban-walk.json](./386103-melons-sokoban-walk.json) |
 | Melter Man | 34411 | [34411-melter-man.json](./34411-melter-man.json) |
@@ -1196,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milf Love: Spa Date | 385054 | [385054-milf-love-spa-date.json](./385054-milf-love-spa-date.json) |
 | Milf Toys 2 | 195244 | [195244-milf-toys-2.json](./195244-milf-toys-2.json) |
 | Milf Toys 3 | 208587 | [208587-milf-toys-3.json](./208587-milf-toys-3.json) |
+| MILFs in Paris | 366234 | [366234-milfs-in-paris.json](./366234-milfs-in-paris.json) |
 | Milfy City | 239289 | [239289-milfy-city.json](./239289-milfy-city.json) |
 | Milita Aventuro | 218711 | [218711-milita-aventuro.json](./218711-milita-aventuro.json) |
 | Military Base War | 169447 | [169447-military-base-war.json](./169447-military-base-war.json) |
