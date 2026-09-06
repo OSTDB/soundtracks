@@ -1212,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anarchy: Rush Hour | 44602 | [44602-anarchy-rush-hour.json](./44602-anarchy-rush-hour.json) |
 | AnarchyField: Infinite Euphoric Level Destruction | 273639 | [273639-anarchyfield-infinite-euphoric-level-destruction.json](./273639-anarchyfield-infinite-euphoric-level-destruction.json) |
 | Ancestors Legacy: Special Edition | 124820 | [124820-ancestors-legacy-special-edition.json](./124820-ancestors-legacy-special-edition.json) |
+| Ancestral | 318397 | [318397-ancestral.json](./318397-ancestral.json) |
 | Anchor-13 | 408047 | [408047-anchor-13.json](./408047-anchor-13.json) |
 | Anchors: Blockade Zone | 239900 | [239900-anchors-blockade-zone.json](./239900-anchors-blockade-zone.json) |
 | Ancient | 371889 | [371889-ancient.json](./371889-ancient.json) |
@@ -1723,6 +1724,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arelite Core: Horse Armor | 156140 | [156140-arelite-core-horse-armor.json](./156140-arelite-core-horse-armor.json) |
 | Arena | 326072 | [326072-arena.json](./326072-arena.json) |
 | Arena Breakout: Infinite – Season 1 | 324717 | [324717-arena-breakout-infinite-season-1.json](./324717-arena-breakout-infinite-season-1.json) |
+| Arena Breakout: Season 1 | 318412 | [318412-arena-breakout-season-1.json](./318412-arena-breakout-season-1.json) |
+| Arena Breakout: Season 3 - Enter the Vault | 318415 | [318415-arena-breakout-season-3-enter-the-vault.json](./318415-arena-breakout-season-3-enter-the-vault.json) |
+| Arena Breakout: Season 4 - Into the Fog of War | 318417 | [318417-arena-breakout-season-4-into-the-fog-of-war.json](./318417-arena-breakout-season-4-into-the-fog-of-war.json) |
+| Arena Breakout: Season 5 - Road to Gold | 318419 | [318419-arena-breakout-season-5-road-to-gold.json](./318419-arena-breakout-season-5-road-to-gold.json) |
 | Arena Breakout: Season 6 - Operation Blackout | 320181 | [320181-arena-breakout-season-6-operation-blackout.json](./320181-arena-breakout-season-6-operation-blackout.json) |
 | Arena Brutal | 197913 | [197913-arena-brutal.json](./197913-arena-brutal.json) |
 | Arena Constellation | 295012 | [295012-arena-constellation.json](./295012-arena-constellation.json) |
