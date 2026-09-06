@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bái Xiǎo | 195266 | [195266-bai-xiao.json](./195266-bai-xiao.json) |
 | Baia | 334498 | [334498-baia.json](./334498-baia.json) |
 | Baja or Bust | 259245 | [259245-baja-or-bust.json](./259245-baja-or-bust.json) |
+| Bakahazard | 316633 | [316633-bakahazard.json](./316633-bakahazard.json) |
 | Bake it! Pizza Master | 378781 | [378781-bake-it-pizza-master.json](./378781-bake-it-pizza-master.json) |
 | Bake Jack | 382216 | [382216-bake-jack.json](./382216-bake-jack.json) |
 | Bakemono | 128018 | [128018-bakemono.json](./128018-bakemono.json) |
@@ -1300,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bliink: Staring Contest | 143089 | [143089-bliink-staring-contest.json](./143089-bliink-staring-contest.json) |
 | Blik Ball | 413660 | [413660-blik-ball.json](./413660-blik-ball.json) |
 | Blind Box | 379348 | [379348-blind-box.json](./379348-blind-box.json) |
+| Blind Date Simulator | 316640 | [316640-blind-date-simulator.json](./316640-blind-date-simulator.json) |
 | Blind Exposure | 320736 | [320736-blind-exposure.json](./320736-blind-exposure.json) |
 | Blind Shot | 145003 | [145003-blind-shot.json](./145003-blind-shot.json) |
 | Blind Spot | 377586 | [377586-blind-spot.json](./377586-blind-spot.json) |
@@ -1880,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Royale | 269326 | [269326-brawl-royale.json](./269326-brawl-royale.json) |
 | Brawl Stars: Season 31 - Scary Tales | 320182 | [320182-brawl-stars-season-31-scary-tales.json](./320182-brawl-stars-season-31-scary-tales.json) |
 | Brawlhalla: Autumn Championship 2018 Pack | 342628 | [342628-brawlhalla-autumn-championship-2018-pack.json](./342628-brawlhalla-autumn-championship-2018-pack.json) |
+| Brawlhalla: Bonus Pack 14 | 316624 | [316624-brawlhalla-bonus-pack-14.json](./316624-brawlhalla-bonus-pack-14.json) |
 | Brawlhalla: Spring Championship 2018 Pack | 342626 | [342626-brawlhalla-spring-championship-2018-pack.json](./342626-brawlhalla-spring-championship-2018-pack.json) |
 | Brawlhalla: Summer Championship 2018 Pack | 342627 | [342627-brawlhalla-summer-championship-2018-pack.json](./342627-brawlhalla-summer-championship-2018-pack.json) |
 | Brawlhalla: Winter Championship 2018 Pack | 342625 | [342625-brawlhalla-winter-championship-2018-pack.json](./342625-brawlhalla-winter-championship-2018-pack.json) |
@@ -2117,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buck Bumble | 3368 | [3368-buck-bumble.json](./3368-buck-bumble.json) |
 | Buck Trucker in Rowdy Business | 352200 | [352200-buck-trucker-in-rowdy-business.json](./352200-buck-trucker-in-rowdy-business.json) |
 | Bud Redhead: The Time Chase | 71558 | [71558-bud-redhead-the-time-chase.json](./71558-bud-redhead-the-time-chase.json) |
+| Budding Destiny | 316649 | [316649-budding-destiny.json](./316649-budding-destiny.json) |
 | Budget Rate Stigmata | 362855 | [362855-budget-rate-stigmata.json](./362855-budget-rate-stigmata.json) |
 | Buffy the Vampire Slayer: Sacrifice | 21130 | [21130-buffy-the-vampire-slayer-sacrifice.json](./21130-buffy-the-vampire-slayer-sacrifice.json) |
 | Bug & Seek | 271464 | [271464-bug-and-seek.json](./271464-bug-and-seek.json) |
