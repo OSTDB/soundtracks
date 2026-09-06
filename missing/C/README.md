@@ -726,6 +726,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess.com | 121957 | [121957-chess-com.json](./121957-chess-com.json) |
 | ChesseR | 78700 | [78700-chesser.json](./78700-chesser.json) |
 | Chessmaster | 23714 | [23714-chessmaster.json](./23714-chessmaster.json) |
+| Chessmaster Live: Fork My Fruit | 347138 | [347138-chessmaster-live-fork-my-fruit.json](./347138-chessmaster-live-fork-my-fruit.json) |
+| Chessmaster Live: Mushrooms Set | 347139 | [347139-chessmaster-live-mushrooms-set.json](./347139-chessmaster-live-mushrooms-set.json) |
 | Chessmaster: The Art of Learning | 20777 | [20777-chessmaster-the-art-of-learning.json](./20777-chessmaster-the-art-of-learning.json) |
 | Chesst | 400891 | [400891-chesst.json](./400891-chesst.json) |
 | Chest Mate | 195240 | [195240-chest-mate.json](./195240-chest-mate.json) |
@@ -1393,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet Tail: Polygon Panic | 369010 | [369010-comet-tail-polygon-panic.json](./369010-comet-tail-polygon-panic.json) |
 | Comet Tycoon | 349881 | [349881-comet-tycoon.json](./349881-comet-tycoon.json) |
 | Comfy Girl | 360608 | [360608-comfy-girl.json](./360608-comfy-girl.json) |
+| Coming Home | 347152 | [347152-coming-home.json](./347152-coming-home.json) |
 | Coming Out Simulator 2014 | 60030 | [60030-coming-out-simulator-2014.json](./60030-coming-out-simulator-2014.json) |
 | Command & Conquer: Generals | 649 | [649-command-and-conquer-generals.json](./649-command-and-conquer-generals.json) |
 | Command & Conquer: Red Alert - Retaliation | 18785 | [18785-command-and-conquer-red-alert-retaliation.json](./18785-command-and-conquer-red-alert-retaliation.json) |
@@ -1563,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Thief Guy | 398316 | [398316-cool-thief-guy.json](./398316-cool-thief-guy.json) |
 | Coop Catacombs | 293895 | [293895-coop-catacombs.json](./293895-coop-catacombs.json) |
 | Coop Tank War | 111008 | [111008-coop-tank-war.json](./111008-coop-tank-war.json) |
+| CoopRooms | 347156 | [347156-cooprooms.json](./347156-cooprooms.json) |
 | Cop Duty Police Car Simulator | 102761 | [102761-cop-duty-police-car-simulator.json](./102761-cop-duty-police-car-simulator.json) |
 | Copper Jacket | 313466 | [313466-copper-jacket.json](./313466-copper-jacket.json) |
 | Copper Odyssey | 161375 | [161375-copper-odyssey.json](./161375-copper-odyssey.json) |
@@ -1766,6 +1770,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cranes | 99642 | [99642-cranes.json](./99642-cranes.json) |
 | Crank | 331113 | [331113-crank.json](./331113-crank.json) |
 | Crank Sudoku | 383965 | [383965-crank-sudoku.json](./383965-crank-sudoku.json) |
+| Crank Tower Defense | 347140 | [347140-crank-tower-defense.json](./347140-crank-tower-defense.json) |
+| Crankoids | 347141 | [347141-crankoids.json](./347141-crankoids.json) |
 | Cranks Playdate Baseball | 273673 | [273673-cranks-playdate-baseball.json](./273673-cranks-playdate-baseball.json) |
 | Cranky Cat | 16514 | [16514-cranky-cat.json](./16514-cranky-cat.json) |
 | Crap Game, Don’t Play | 365075 | [365075-crap-game-don-t-play.json](./365075-crap-game-don-t-play.json) |
