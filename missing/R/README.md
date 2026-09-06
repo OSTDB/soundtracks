@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReturnHome | 170555 | [170555-returnhome.json](./170555-returnhome.json) |
 | Reunion | 135873 | [135873-reunion.json](./135873-reunion.json) |
 | Reunion | 388703 | [388703-reunion.json](./388703-reunion.json) |
+| Reunited in the Mist | 364484 | [364484-reunited-in-the-mist.json](./364484-reunited-in-the-mist.json) |
 | Rev. Noir | 389436 | [389436-rev-noir.json](./389436-rev-noir.json) |
 | Revealed | 388705 | [388705-revealed.json](./388705-revealed.json) |
 | Revelation of Decay | 301606 | [301606-revelation-of-decay.json](./301606-revelation-of-decay.json) |
@@ -1004,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Trip | 202425 | [202425-road-trip.json](./202425-road-trip.json) |
 | Road Trip Europe | 229944 | [229944-road-trip-europe.json](./229944-road-trip-europe.json) |
 | Road Trip: Arcade Edition | 78292 | [78292-road-trip-arcade-edition.json](./78292-road-trip-arcade-edition.json) |
+| Road Warrior | 364536 | [364536-road-warrior.json](./364536-road-warrior.json) |
 | Road Wars | 265943 | [265943-road-wars.json](./265943-road-wars.json) |
 | RoadCraft | 314239 | [314239-roadcraft.json](./314239-roadcraft.json) |
 | Roadway Traffic Racer | 292327 | [292327-roadway-traffic-racer.json](./292327-roadway-traffic-racer.json) |
