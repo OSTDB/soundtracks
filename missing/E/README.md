@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elect | 331720 | [331720-elect.json](./331720-elect.json) |
 | Electric Sheep | 406705 | [406705-electric-sheep.json](./406705-electric-sheep.json) |
 | Electric Tortoise | 128613 | [128613-electric-tortoise.json](./128613-electric-tortoise.json) |
+| Electro Bop Boxing League | 329580 | [329580-electro-bop-boxing-league.json](./329580-electro-bop-boxing-league.json) |
 | Electro-Dynamic Mayhem | 324679 | [324679-electro-dynamic-mayhem.json](./324679-electro-dynamic-mayhem.json) |
 | Electrogical | 262107 | [262107-electrogical.json](./262107-electrogical.json) |
 | Electron Handsome Boy | 201312 | [201312-electron-handsome-boy.json](./201312-electron-handsome-boy.json) |
@@ -295,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eletar Hero | 188673 | [188673-eletar-hero.json](./188673-eletar-hero.json) |
 | Elette Fragments | 126657 | [126657-elette-fragments.json](./126657-elette-fragments.json) |
 | Elevator Action | 51241 | [51241-elevator-action.json](./51241-elevator-action.json) |
+| Elevator Music | 329588 | [329588-elevator-music.json](./329588-elevator-music.json) |
 | Elevatrix | 316408 | [316408-elevatrix.json](./316408-elevatrix.json) |
 | Eleven: Table Tennis VR | 32889 | [32889-eleven-table-tennis-vr.json](./32889-eleven-table-tennis-vr.json) |
 | Elfie | 304867 | [304867-elfie.json](./304867-elfie.json) |
@@ -604,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Frankenstein's Castle | 213598 | [213598-escape-from-frankensteins-castle.json](./213598-escape-from-frankensteins-castle.json) |
 | Escape from here | 68659 | [68659-escape-from-here.json](./68659-escape-from-here.json) |
 | Escape from here | 68666 | [68666-escape-from-here.json](./68666-escape-from-here.json) |
+| Escape from Irene | 329565 | [329565-escape-from-irene.json](./329565-escape-from-irene.json) |
 | Escape from Island | 313502 | [313502-escape-from-island.json](./313502-escape-from-island.json) |
 | Escape from Khoshima | 12994 | [12994-escape-from-khoshima.json](./12994-escape-from-khoshima.json) |
 | Escape From Lavender Island | 235991 | [235991-escape-from-lavender-island.json](./235991-escape-from-lavender-island.json) |
