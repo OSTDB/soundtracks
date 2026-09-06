@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Journey | 296080 | [296080-easter-journey.json](./296080-easter-journey.json) |
 | Eastern Market Murder | 174372 | [174372-eastern-market-murder.json](./174372-eastern-market-murder.json) |
 | Eastwind Adventures: Chapter 1 | 311792 | [311792-eastwind-adventures-chapter-1.json](./311792-eastwind-adventures-chapter-1.json) |
+| Easy Ball Game | 316069 | [316069-easy-ball-game.json](./316069-easy-ball-game.json) |
 | Easy puzzle: Bridges | 248921 | [248921-easy-puzzle-bridges.json](./248921-easy-puzzle-bridges.json) |
 | Easy puzzle: Landscape | 248928 | [248928-easy-puzzle-landscape.json](./248928-easy-puzzle-landscape.json) |
 | Easy-Bake Treats! | 411605 | [411605-easy-bake-treats.json](./411605-easy-bake-treats.json) |
@@ -351,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elva the Eco Dragon | 187503 | [187503-elva-the-eco-dragon.json](./187503-elva-the-eco-dragon.json) |
 | Elven Battlegrounds | 235457 | [235457-elven-battlegrounds.json](./235457-elven-battlegrounds.json) |
 | Elves of Duty | 211922 | [211922-elves-of-duty.json](./211922-elves-of-duty.json) |
+| Elvin: The Water Sphere | 316059 | [316059-elvin-the-water-sphere.json](./316059-elvin-the-water-sphere.json) |
 | Elvine | 225263 | [225263-elvine.json](./225263-elvine.json) |
 | Elvira II: The Jaws of Cerberus | 228728 | [228728-elvira-ii-the-jaws-of-cerberus.json](./228728-elvira-ii-the-jaws-of-cerberus.json) |
 | Elvira: The Arcade Game | 39035 | [39035-elvira-the-arcade-game.json](./39035-elvira-the-arcade-game.json) |
@@ -549,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epi-Derick | 372481 | [372481-epi-derick.json](./372481-epi-derick.json) |
 | Epic Battle Fantasy Collection | 199653 | [199653-epic-battle-fantasy-collection.json](./199653-epic-battle-fantasy-collection.json) |
 | Epic Battle Fantasy: Adventure Story | 143725 | [143725-epic-battle-fantasy-adventure-story.json](./143725-epic-battle-fantasy-adventure-story.json) |
+| Epic Dragons | 316063 | [316063-epic-dragons.json](./316063-epic-dragons.json) |
 | Epic Dumpster Bear | 19615 | [19615-epic-dumpster-bear.json](./19615-epic-dumpster-bear.json) |
 | Epic Food Fight | 114402 | [114402-epic-food-fight.json](./114402-epic-food-fight.json) |
 | Epic Food Fight VR | 117075 | [117075-epic-food-fight-vr.json](./117075-epic-food-fight-vr.json) |
