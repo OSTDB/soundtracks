@@ -615,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orpheus | 262090 | [262090-orpheus.json](./262090-orpheus.json) |
 | Orpheus's Dream | 119766 | [119766-orpheuss-dream.json](./119766-orpheuss-dream.json) |
 | Orqa FPV SkyDive | 196854 | [196854-orqa-fpv-skydive.json](./196854-orqa-fpv-skydive.json) |
+| Orrery | 317811 | [317811-orrery.json](./317811-orrery.json) |
 | Ortunia Mysteries: Where Did Everybody Go? | 323519 | [323519-ortunia-mysteries-where-did-everybody-go.json](./323519-ortunia-mysteries-where-did-everybody-go.json) |
 | Osananajimi Ojou-sama to H de Himitsu na Dousei Seikatsu | 396903 | [396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json](./396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json) |
 | Oscar the Balloonist Discovers the Farm | 250604 | [250604-oscar-the-balloonist-discovers-the-farm.json](./250604-oscar-the-balloonist-discovers-the-farm.json) |
@@ -788,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overtime | 272006 | [272006-overtime.json](./272006-overtime.json) |
 | Overtime Anomaly | 330533 | [330533-overtime-anomaly.json](./330533-overtime-anomaly.json) |
 | Overtime Heroes Exit 8 | 310729 | [310729-overtime-heroes-exit-8.json](./310729-overtime-heroes-exit-8.json) |
+| Overwatch 2: My Hero Academia | 317819 | [317819-overwatch-2-my-hero-academia.json](./317819-overwatch-2-my-hero-academia.json) |
 | Overwatch 2: Season 13 - Spellbinder | 319357 | [319357-overwatch-2-season-13-spellbinder.json](./319357-overwatch-2-season-13-spellbinder.json) |
 | Overwatch 2: Season 18 - Stadium Quickplay | 362281 | [362281-overwatch-2-season-18-stadium-quickplay.json](./362281-overwatch-2-season-18-stadium-quickplay.json) |
 | Overwatch 2: Season 4 - Space Opera | 243933 | [243933-overwatch-2-season-4-space-opera.json](./243933-overwatch-2-season-4-space-opera.json) |
