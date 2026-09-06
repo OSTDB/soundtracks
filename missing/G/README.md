@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Harvester | 75905 | [75905-galactic-harvester.json](./75905-galactic-harvester.json) |
 | Galactic Invasion | 187502 | [187502-galactic-invasion.json](./187502-galactic-invasion.json) |
 | Galactic Lander | 109676 | [109676-galactic-lander.json](./109676-galactic-lander.json) |
+| Galactic Loader | 324304 | [324304-galactic-loader.json](./324304-galactic-loader.json) |
 | Galactic Lords | 75174 | [75174-galactic-lords.json](./75174-galactic-lords.json) |
 | Galactic Orbital Death Sport | 75190 | [75190-galactic-orbital-death-sport.json](./75190-galactic-orbital-death-sport.json) |
 | Galactic Pioneer | 208049 | [208049-galactic-pioneer.json](./208049-galactic-pioneer.json) |
