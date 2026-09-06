@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachinko Party | 329016 | [329016-pachinko-party.json](./329016-pachinko-party.json) |
 | Pachinko With Nick | 184121 | [184121-pachinko-with-nick.json](./184121-pachinko-with-nick.json) |
 | Pachio-kun Game Gallery | 86125 | [86125-pachio-kun-game-gallery.json](./86125-pachio-kun-game-gallery.json) |
+| Pachislot Akumajou Dracula | 315523 | [315523-pachislot-akumajou-dracula.json](./315523-pachislot-akumajou-dracula.json) |
 | Pacific Warships | 254748 | [254748-pacific-warships.json](./254748-pacific-warships.json) |
 | Pacifish | 203545 | [203545-pacifish.json](./203545-pacifish.json) |
 | Pack | 342659 | [342659-pack.json](./342659-pack.json) |
@@ -155,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic 64 | 130373 | [130373-panic-64.json](./130373-panic-64.json) |
 | Panic Ball! | 315841 | [315841-panic-ball.json](./315841-panic-ball.json) |
 | Panic Crisis Mage Attack | 128636 | [128636-panic-crisis-mage-attack.json](./128636-panic-crisis-mage-attack.json) |
+| Panic in the Woods | 315508 | [315508-panic-in-the-woods.json](./315508-panic-in-the-woods.json) |
 | Panic Lane | 247767 | [247767-panic-lane.json](./247767-panic-lane.json) |
 | Panic Mansion | 26726 | [26726-panic-mansion.json](./26726-panic-mansion.json) |
 | Panic Road | 317019 | [317019-panic-road.json](./317019-panic-road.json) |
@@ -1434,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pommy | 86103 | [86103-pommy.json](./86103-pommy.json) |
 | Pomo Post | 319389 | [319389-pomo-post.json](./319389-pomo-post.json) |
 | Pompeii | 40774 | [40774-pompeii.json](./40774-pompeii.json) |
+| Pompeii: The Legacy | 315511 | [315511-pompeii-the-legacy.json](./315511-pompeii-the-legacy.json) |
 | Pompom | 173842 | [173842-pompom.json](./173842-pompom.json) |
 | Ponchorado | 391593 | [391593-ponchorado.json](./391593-ponchorado.json) |
 | Ponchyo: A Platypus Adventure | 360607 | [360607-ponchyo-a-platypus-adventure.json](./360607-ponchyo-a-platypus-adventure.json) |
