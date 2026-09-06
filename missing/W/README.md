@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tanks - Panther/M10 Pack (VII German Medium Tank) | 398326 | [398326-world-of-tanks-panther-m10-pack-vii-german-medium-tank.json](./398326-world-of-tanks-panther-m10-pack-vii-german-medium-tank.json) |
 | World of Tanks: Heat | 361890 | [361890-world-of-tanks-heat.json](./361890-world-of-tanks-heat.json) |
 | World of Tanks: Modern Armor - Metal Dragon | 336938 | [336938-world-of-tanks-modern-armor-metal-dragon.json](./336938-world-of-tanks-modern-armor-metal-dragon.json) |
+| World of Tanks: Modern Armor - Warlords Starter Pack | 338220 | [338220-world-of-tanks-modern-armor-warlords-starter-pack.json](./338220-world-of-tanks-modern-armor-warlords-starter-pack.json) |
 | World of Tanks: Roll Out Collector's Edition | 115673 | [115673-world-of-tanks-roll-out-collectors-edition.json](./115673-world-of-tanks-roll-out-collectors-edition.json) |
 | World of Warcraft: Shadowlands - Chains of Domination | 363919 | [363919-world-of-warcraft-shadowlands-chains-of-domination.json](./363919-world-of-warcraft-shadowlands-chains-of-domination.json) |
 | World of Warplanes | 3432 | [3432-world-of-warplanes.json](./3432-world-of-warplanes.json) |
