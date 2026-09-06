@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick & Place | 402298 | [402298-pick-and-place.json](./402298-pick-and-place.json) |
 | Pick a Boo | 406116 | [406116-pick-a-boo.json](./406116-pick-a-boo.json) |
 | Pick Me Pick Me | 321125 | [321125-pick-me-pick-me.json](./321125-pick-me-pick-me.json) |
+| Pick me! Visual Novel | 349293 | [349293-pick-me-visual-novel.json](./349293-pick-me-visual-novel.json) |
 | Pick My Heart Chapter 1 | 324132 | [324132-pick-my-heart-chapter-1.json](./324132-pick-my-heart-chapter-1.json) |
 | Pick My Heart Chapter 2 | 324131 | [324131-pick-my-heart-chapter-2.json](./324131-pick-my-heart-chapter-2.json) |
 | Pick Three!!! | 396238 | [396238-pick-three.json](./396238-pick-three.json) |
@@ -786,8 +787,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pin-Bowler | 92541 | [92541-pin-bowler.json](./92541-pin-bowler.json) |
 | Pinball | 44636 | [44636-pinball.json](./44636-pinball.json) |
 | Pinball Arcade Season 2 | 141861 | [141861-pinball-arcade-season-2.json](./141861-pinball-arcade-season-2.json) |
+| Pinball Arcade: AC/DC | 349341 | [349341-pinball-arcade-ac-dc.json](./349341-pinball-arcade-ac-dc.json) |
+| Pinball Arcade: Banzai Run | 349342 | [349342-pinball-arcade-banzai-run.json](./349342-pinball-arcade-banzai-run.json) |
 | Pinball Arcade: Safe Cracker | 353273 | [353273-pinball-arcade-safe-cracker.json](./353273-pinball-arcade-safe-cracker.json) |
 | Pinball Arcade: Space Shuttle | 353272 | [353272-pinball-arcade-space-shuttle.json](./353272-pinball-arcade-space-shuttle.json) |
+| Pinball Arcade: Star Trek - The Next Generation | 349340 | [349340-pinball-arcade-star-trek-the-next-generation.json](./349340-pinball-arcade-star-trek-the-next-generation.json) |
 | Pinball Arcade: Swords of Fury | 353270 | [353270-pinball-arcade-swords-of-fury.json](./353270-pinball-arcade-swords-of-fury.json) |
 | Pinball Arcade: Whirlwind | 353269 | [353269-pinball-arcade-whirlwind.json](./353269-pinball-arcade-whirlwind.json) |
 | Pinball Breeze | 354432 | [354432-pinball-breeze.json](./354432-pinball-breeze.json) |
