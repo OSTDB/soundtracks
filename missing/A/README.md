@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Intercept | 122635 | [122635-agent-intercept.json](./122635-agent-intercept.json) |
 | Agent Karen: Undercover Investigation of an Evil Organization | 82884 | [82884-agent-karen-undercover-investigation-of-an-evil-organization.json](./82884-agent-karen-undercover-investigation-of-an-evil-organization.json) |
 | Agent of Chaos | 157170 | [157170-agent-of-chaos.json](./157170-agent-of-chaos.json) |
+| Agent of Strange | 355023 | [355023-agent-of-strange.json](./355023-agent-of-strange.json) |
 | Agent Panda | 357801 | [357801-agent-panda.json](./357801-agent-panda.json) |
 | Agent Pigeon 7 | 374042 | [374042-agent-pigeon-7.json](./374042-agent-pigeon-7.json) |
 | Agent Roy: Secure the Temple | 229331 | [229331-agent-roy-secure-the-temple.json](./229331-agent-roy-secure-the-temple.json) |
