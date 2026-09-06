@@ -1597,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylark 64 | 306066 | [306066-skylark-64.json](./306066-skylark-64.json) |
 | SkyLife: VoxelSurvival | 149050 | [149050-skylife-voxelsurvival.json](./149050-skylife-voxelsurvival.json) |
 | SkyOfSteel | 177017 | [177017-skyofsteel.json](./177017-skyofsteel.json) |
+| Skypop Scramble | 323750 | [323750-skypop-scramble.json](./323750-skypop-scramble.json) |
 | SkyRider ADV | 90696 | [90696-skyrider-adv.json](./90696-skyrider-adv.json) |
 | Skyscraper | 9422 | [9422-skyscraper.json](./9422-skyscraper.json) |
 | Skystead Christmas | 327864 | [327864-skystead-christmas.json](./327864-skystead-christmas.json) |
@@ -1948,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Below | 218732 | [218732-so-below.json](./218732-so-below.json) |
 | So Below | 269844 | [269844-so-below.json](./269844-so-below.json) |
 | So Fart Away: Jam Edition | 255391 | [255391-so-fart-away-jam-edition.json](./255391-so-fart-away-jam-edition.json) |
+| So I'm a Spider, So What? Ruler of the Labyrinth | 323711 | [323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json](./323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json) |
 | So Many Words | 308548 | [308548-so-many-words.json](./308548-so-many-words.json) |
 | Soapy Tales | 392763 | [392763-soapy-tales.json](./392763-soapy-tales.json) |
 | Sobreviva Ziggy! | 329012 | [329012-sobreviva-ziggy.json](./329012-sobreviva-ziggy.json) |
@@ -3977,6 +3979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Galaxy 2 | 366900 | [366900-super-mario-galaxy-2.json](./366900-super-mario-galaxy-2.json) |
 | Super Mario Kart NES | 250038 | [250038-super-mario-kart-nes.json](./250038-super-mario-kart-nes.json) |
 | Super Mario Kart Xtreme | 311285 | [311285-super-mario-kart-xtreme.json](./311285-super-mario-kart-xtreme.json) |
+| Super Mario Legend | 323751 | [323751-super-mario-legend.json](./323751-super-mario-legend.json) |
 | Super Mario Maker for Nintendo 3DS | 26157 | [26157-super-mario-maker-for-nintendo-3ds.json](./26157-super-mario-maker-for-nintendo-3ds.json) |
 | Super Mario Maker for Nspire | 262660 | [262660-super-mario-maker-for-nspire.json](./262660-super-mario-maker-for-nspire.json) |
 | Super Mario Odyssey Safari | 250042 | [250042-super-mario-odyssey-safari.json](./250042-super-mario-odyssey-safari.json) |
@@ -3990,6 +3993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Storm I | 324681 | [324681-super-mario-storm-i.json](./324681-super-mario-storm-i.json) |
 | Super Mario Sunshine Arcade 2 | 213038 | [213038-super-mario-sunshine-arcade-2.json](./213038-super-mario-sunshine-arcade-2.json) |
 | Super Mario Surf | 324094 | [324094-super-mario-surf.json](./324094-super-mario-surf.json) |
+| Super Mario Wars! | 323752 | [323752-super-mario-wars.json](./323752-super-mario-wars.json) |
 | Super Mario World 64 | 230538 | [230538-super-mario-world-64.json](./230538-super-mario-world-64.json) |
 | Super Mario World Odyssey | 247185 | [247185-super-mario-world-odyssey.json](./247185-super-mario-world-odyssey.json) |
 | Super Mario World: The Lost Adventure - Episode I Remastered | 259290 | [259290-super-mario-world-the-lost-adventure-episode-i-remastered.json](./259290-super-mario-world-the-lost-adventure-episode-i-remastered.json) |
@@ -4441,6 +4445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphony of War: Legends | 252370 | [252370-symphony-of-war-legends.json](./252370-symphony-of-war-legends.json) |
 | Symphony of War: The Nephilim Saga | 192840 | [192840-symphony-of-war-the-nephilim-saga.json](./192840-symphony-of-war-the-nephilim-saga.json) |
 | Symphorix | 333400 | [333400-symphorix.json](./333400-symphorix.json) |
+| Symptoms of Deceit | 323729 | [323729-symptoms-of-deceit.json](./323729-symptoms-of-deceit.json) |
 | Symulator Tuska 2014 | 62204 | [62204-symulator-tuska-2014.json](./62204-symulator-tuska-2014.json) |
 | Synaesthete | 79917 | [79917-synaesthete.json](./79917-synaesthete.json) |
 | Synapse | 239381 | [239381-synapse.json](./239381-synapse.json) |
