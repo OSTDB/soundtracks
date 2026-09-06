@@ -3354,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Pixel Archer | 239348 | [239348-stickman-pixel-archer.json](./239348-stickman-pixel-archer.json) |
 | Stickman Revenge: Demon Slayer | 323201 | [323201-stickman-revenge-demon-slayer.json](./323201-stickman-revenge-demon-slayer.json) |
 | Stickman Skater | 174341 | [174341-stickman-skater.json](./174341-stickman-skater.json) |
+| Stickman Strikes: Conquer Fantasy World | 317870 | [317870-stickman-strikes-conquer-fantasy-world.json](./317870-stickman-strikes-conquer-fantasy-world.json) |
 | Stickman Warriors Craft | 100834 | [100834-stickman-warriors-craft.json](./100834-stickman-warriors-craft.json) |
 | Stickman World | 87250 | [87250-stickman-world.json](./87250-stickman-world.json) |
 | Stickman's Arena | 220862 | [220862-stickmans-arena.json](./220862-stickmans-arena.json) |
@@ -3531,6 +3532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streetbike: Full Blast | 20722 | [20722-streetbike-full-blast.json](./20722-streetbike-full-blast.json) |
 | Streetdance 3D | 9466 | [9466-streetdance-3d.json](./9466-streetdance-3d.json) |
 | Streets of Gotham City | 272015 | [272015-streets-of-gotham-city.json](./272015-streets-of-gotham-city.json) |
+| Streets of Handbags | 317835 | [317835-streets-of-handbags.json](./317835-streets-of-handbags.json) |
 | Streets of Kamurocho | 140046 | [140046-streets-of-kamurocho.json](./140046-streets-of-kamurocho.json) |
 | Streets of Rage | 198650 | [198650-streets-of-rage.json](./198650-streets-of-rage.json) |
 | Streets of Rage 2 | 203318 | [203318-streets-of-rage-2.json](./203318-streets-of-rage-2.json) |
@@ -3692,6 +3694,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuiCats | 272583 | [272583-suicats.json](./272583-suicats.json) |
 | Suicide Adventures | 61613 | [61613-suicide-adventures.json](./61613-suicide-adventures.json) |
 | Suicide Guy: Sleepin' Deeply | 102917 | [102917-suicide-guy-sleepin-deeply.json](./102917-suicide-guy-sleepin-deeply.json) |
+| Suicide Squad: Kill the Justice League - Season of Freeze | 317869 | [317869-suicide-squad-kill-the-justice-league-season-of-freeze.json](./317869-suicide-squad-kill-the-justice-league-season-of-freeze.json) |
+| Suicide Squad: Kill the Justice League - Season of the Joker | 317868 | [317868-suicide-squad-kill-the-justice-league-season-of-the-joker.json](./317868-suicide-squad-kill-the-justice-league-season-of-the-joker.json) |
 | Suidou Kozou | 91949 | [91949-suidou-kozou.json](./91949-suidou-kozou.json) |
 | Suika Jelly Game | 310174 | [310174-suika-jelly-game.json](./310174-suika-jelly-game.json) |
 | Suika Monsters | 387352 | [387352-suika-monsters.json](./387352-suika-monsters.json) |
@@ -4507,6 +4511,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syndicate of Souls | 267642 | [267642-syndicate-of-souls.json](./267642-syndicate-of-souls.json) |
 | Syndicate Plus | 77198 | [77198-syndicate-plus.json](./77198-syndicate-plus.json) |
 | Syndicate: American Revolt | 50 | [50-syndicate-american-revolt.json](./50-syndicate-american-revolt.json) |
+| Synduality: Echo of Ada - Deluxe Edition | 317828 | [317828-synduality-echo-of-ada-deluxe-edition.json](./317828-synduality-echo-of-ada-deluxe-edition.json) |
+| Synduality: Echo of Ada - Ultimate Edition | 317829 | [317829-synduality-echo-of-ada-ultimate-edition.json](./317829-synduality-echo-of-ada-ultimate-edition.json) |
 | Synesthesia | 337105 | [337105-synesthesia.json](./337105-synesthesia.json) |
 | Synonymy | 35925 | [35925-synonymy.json](./35925-synonymy.json) |
 | Synth Riders | 372492 | [372492-synth-riders.json](./372492-synth-riders.json) |
