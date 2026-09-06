@@ -50,6 +50,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force 4.1: Wing Diver the Shooter | 57020 | [57020-earth-defense-force-4-1-wing-diver-the-shooter.json](./57020-earth-defense-force-4-1-wing-diver-the-shooter.json) |
 | Earth Defense Force 6: Additional Mission Pack 2 - Visions of Malice | 319369 | [319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json](./319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json) |
 | Earth Defense Force: World Brothers - Deluxe Edition | 222503 | [222503-earth-defense-force-world-brothers-deluxe-edition.json](./222503-earth-defense-force-world-brothers-deluxe-edition.json) |
+| Earth Defense Force: World Brothers 2 - Don't Bring Civilians Into This: Special Appearance by The Captain from EDF6 | 325435 | [325435-earth-defense-force-world-brothers-2-dont-bring-civilians-into-this-special-appearance-by-the-captain-from-edf6.json](./325435-earth-defense-force-world-brothers-2-dont-bring-civilians-into-this-special-appearance-by-the-captain-from-edf6.json) |
+| Earth Defense Force: World Brothers 2 - Extra Mission Pack: Robo Saurous vs. The Mecharmy | 325434 | [325434-earth-defense-force-world-brothers-2-extra-mission-pack-robo-saurous-vs-the-mecharmy.json](./325434-earth-defense-force-world-brothers-2-extra-mission-pack-robo-saurous-vs-the-mecharmy.json) |
+| Earth Defense Force: World Brothers 2 - Humanity Dominates!? Air Raider (EDF6) Up & Coming: Reskin | 325433 | [325433-earth-defense-force-world-brothers-2-humanity-dominates-air-raider-edf6-up-and-coming-reskin.json](./325433-earth-defense-force-world-brothers-2-humanity-dominates-air-raider-edf6-up-and-coming-reskin.json) |
 | Earth Invasion | 72085 | [72085-earth-invasion.json](./72085-earth-invasion.json) |
 | Earth's Center of Gravity | 209667 | [209667-earths-center-of-gravity.json](./209667-earths-center-of-gravity.json) |
 | Earth's Last Defense | 182535 | [182535-earths-last-defense.json](./182535-earths-last-defense.json) |
@@ -142,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eddie's World | 250037 | [250037-eddies-world.json](./250037-eddies-world.json) |
 | Eden Eternal | 46995 | [46995-eden-eternal.json](./46995-eden-eternal.json) |
 | Eden Star | 14377 | [14377-eden-star.json](./14377-eden-star.json) |
+| Eden Tactics | 325448 | [325448-eden-tactics.json](./325448-eden-tactics.json) |
 | Eden: A Genesis Through Time | 290722 | [290722-eden-a-genesis-through-time.json](./290722-eden-a-genesis-through-time.json) |
 | Eden.schemata(); | 151707 | [151707-eden-schemata.json](./151707-eden-schemata.json) |
 | Eden's Inferno | 353304 | [353304-edens-inferno.json](./353304-edens-inferno.json) |
@@ -484,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy | 63332 | [63332-energy.json](./63332-energy.json) |
 | Energy Breaker | 38377 | [38377-energy-breaker.json](./38377-energy-breaker.json) |
 | Energy Collector | 207503 | [207503-energy-collector.json](./207503-energy-collector.json) |
+| Energy Crush | 325445 | [325445-energy-crush.json](./325445-energy-crush.json) |
 | Energy Fighters | 235452 | [235452-energy-fighters.json](./235452-energy-fighters.json) |
 | Energy Survivors | 224785 | [224785-energy-survivors.json](./224785-energy-survivors.json) |
 | Energy Tail | 215924 | [215924-energy-tail.json](./215924-energy-tail.json) |
