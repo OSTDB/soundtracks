@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf: The Ultimate Collection | 314665 | [314665-golf-the-ultimate-collection.json](./314665-golf-the-ultimate-collection.json) |
 | Golfing Over It with Alva Majo | 93727 | [93727-golfing-over-it-with-alva-majo.json](./93727-golfing-over-it-with-alva-majo.json) |
 | Golfinite | 219801 | [219801-golfinite.json](./219801-golfinite.json) |
+| Golftroidvania | 360012 | [360012-golftroidvania.json](./360012-golftroidvania.json) |
 | Goliath | 410260 | [410260-goliath.json](./410260-goliath.json) |
 | Goliath: Playing With Reality | 219802 | [219802-goliath-playing-with-reality.json](./219802-goliath-playing-with-reality.json) |
 | Golly! Ghosts! Goal! | 242776 | [242776-golly-ghosts-goal.json](./242776-golly-ghosts-goal.json) |
@@ -910,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GravBot | 393513 | [393513-gravbot.json](./393513-gravbot.json) |
 | Grave-Queen | 219806 | [219806-grave-queen.json](./219806-grave-queen.json) |
 | Gravebound Dash | 402903 | [402903-gravebound-dash.json](./402903-gravebound-dash.json) |
+| Gravelmon | 359996 | [359996-gravelmon.json](./359996-gravelmon.json) |
 | Gravels of Endless War | 149565 | [149565-gravels-of-endless-war.json](./149565-gravels-of-endless-war.json) |
 | Graveyard Defender | 121772 | [121772-graveyard-defender.json](./121772-graveyard-defender.json) |
 | Graveyard Dude | 340203 | [340203-graveyard-dude.json](./340203-graveyard-dude.json) |
