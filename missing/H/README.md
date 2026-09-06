@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hair Nah | 243379 | [243379-hair-nah.json](./243379-hair-nah.json) |
 | Haisonmeguri | 207523 | [207523-haisonmeguri.json](./207523-haisonmeguri.json) |
 | Hajwala Desert | 332819 | [332819-hajwala-desert.json](./332819-hajwala-desert.json) |
+| Hajwala Of Riyadh | 366215 | [366215-hajwala-of-riyadh.json](./366215-hajwala-of-riyadh.json) |
 | Hakarena Heart: Dare ga Tame ni Kimi ha Aru | 69292 | [69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json](./69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json) |
 | Hako | 22468 | [22468-hako.json](./22468-hako.json) |
 | HakoBoy! Hakozume Box | 81428 | [81428-hakoboy-hakozume-box.json](./81428-hakoboy-hakozume-box.json) |
@@ -972,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Trap Amnesia | 371915 | [371915-honey-trap-amnesia.json](./371915-honey-trap-amnesia.json) |
 | Honey, I Joined a Cult | 99634 | [99634-honey-i-joined-a-cult.json](./99634-honey-i-joined-a-cult.json) |
 | Honeyblaster | 95436 | [95436-honeyblaster.json](./95436-honeyblaster.json) |
+| Honeycomb Hotel | 366228 | [366228-honeycomb-hotel.json](./366228-honeycomb-hotel.json) |
 | Honeycomb Hotel ZEN | 96056 | [96056-honeycomb-hotel-zen.json](./96056-honeycomb-hotel-zen.json) |
 | HoneySun | 260407 | [260407-honeysun.json](./260407-honeysun.json) |
 | Hong Kong Mahjong Pro | 79933 | [79933-hong-kong-mahjong-pro.json](./79933-hong-kong-mahjong-pro.json) |
