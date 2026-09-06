@@ -1326,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyouryuu-ki: The Reportage Beyond the Sea | 298844 | [298844-hyouryuu-ki-the-reportage-beyond-the-sea.json](./298844-hyouryuu-ki-the-reportage-beyond-the-sea.json) |
 | Hypatia | 407344 | [407344-hypatia.json](./407344-hypatia.json) |
 | Hyper 2 | 319354 | [319354-hyper-2.json](./319354-hyper-2.json) |
+| Hyper Chess | 353916 | [353916-hyper-chess.json](./353916-hyper-chess.json) |
 | Hyper Danganronpa Melancholy | 304342 | [304342-hyper-danganronpa-melancholy.json](./304342-hyper-danganronpa-melancholy.json) |
 | Hyper Fighting | 195212 | [195212-hyper-fighting.json](./195212-hyper-fighting.json) |
 | Hyper Force | 40811 | [40811-hyper-force.json](./40811-hyper-force.json) |
