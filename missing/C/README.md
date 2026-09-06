@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Crawler 2 | 318216 | [318216-cave-crawler-2.json](./318216-cave-crawler-2.json) |
 | Cave Digger VR | 96467 | [96467-cave-digger-vr.json](./96467-cave-digger-vr.json) |
 | Cave Digger: Riches | 107230 | [107230-cave-digger-riches.json](./107230-cave-digger-riches.json) |
+| Cave Diver | 362819 | [362819-cave-diver.json](./362819-cave-diver.json) |
 | Cave Explorer | 165675 | [165675-cave-explorer.json](./165675-cave-explorer.json) |
 | Cave Fighter | 7898 | [7898-cave-fighter.json](./7898-cave-fighter.json) |
 | Cave Flying | 27878 | [27878-cave-flying.json](./27878-cave-flying.json) |
@@ -980,6 +981,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Rampage | 217025 | [217025-city-of-rampage.json](./217025-city-of-rampage.json) |
 | City of Scrap | 183575 | [183575-city-of-scrap.json](./183575-city-of-scrap.json) |
 | City of Secrets 2: Episode 1 | 146872 | [146872-city-of-secrets-2-episode-1.json](./146872-city-of-secrets-2-episode-1.json) |
+| City of Stories: Stephan's Journey - Collector's Edition | 362835 | [362835-city-of-stories-stephans-journey-collectors-edition.json](./362835-city-of-stories-stephans-journey-collectors-edition.json) |
+| City of Stories: The Professor's Secret - Collector's Edition | 362839 | [362839-city-of-stories-the-professors-secret-collectors-edition.json](./362839-city-of-stories-the-professors-secret-collectors-edition.json) |
 | City of Thugs | 154025 | [154025-city-of-thugs.json](./154025-city-of-thugs.json) |
 | City Sights: Hello Seattle! | 206350 | [206350-city-sights-hello-seattle.json](./206350-city-sights-hello-seattle.json) |
 | City Slicker | 12985 | [12985-city-slicker.json](./12985-city-slicker.json) |
@@ -1002,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claims & Caverns | 414284 | [414284-claims-and-caverns.json](./414284-claims-and-caverns.json) |
 | Clair Obscur: Expedition 33 – Deluxe Edition | 333209 | [333209-clair-obscur-expedition-33-deluxe-edition.json](./333209-clair-obscur-expedition-33-deluxe-edition.json) |
 | Claire | 10082 | [10082-claire.json](./10082-claire.json) |
+| Claire Darksage and the Accursed Objects: Collector's Editon | 362828 | [362828-claire-darksage-and-the-accursed-objects-collectors-editon.json](./362828-claire-darksage-and-the-accursed-objects-collectors-editon.json) |
 | Clan and Crown | 402939 | [402939-clan-and-crown.json](./402939-clan-and-crown.json) |
 | Clan Wars | 188089 | [188089-clan-wars.json](./188089-clan-wars.json) |
 | Clannad | 9607 | [9607-clannad.json](./9607-clannad.json) |
@@ -1660,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crab-Ball | 370111 | [370111-crab-ball.json](./370111-crab-ball.json) |
 | CrabbleUp | 295018 | [295018-crabbleup.json](./295018-crabbleup.json) |
 | CrabMania | 267665 | [267665-crabmania.json](./267665-crabmania.json) |
+| Crabs | 362816 | [362816-crabs.json](./362816-crabs.json) |
 | Crabs Must Die! | 373019 | [373019-crabs-must-die.json](./373019-crabs-must-die.json) |
 | Crack a Bottle | 87220 | [87220-crack-a-bottle.json](./87220-crack-a-bottle.json) |
 | Crack in the Dark | 389464 | [389464-crack-in-the-dark.json](./389464-crack-in-the-dark.json) |
@@ -2082,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Bet | 253590 | [253590-cursed-bet.json](./253590-cursed-bet.json) |
 | Cursed Crew | 217018 | [217018-cursed-crew.json](./217018-cursed-crew.json) |
 | Cursed Fables: A Voice to Die For - Collector's Edition | 260422 | [260422-cursed-fables-a-voice-to-die-for-collectors-edition.json](./260422-cursed-fables-a-voice-to-die-for-collectors-edition.json) |
+| Cursed Fables: Before the Clock Strikes - Collector's Edition | 362841 | [362841-cursed-fables-before-the-clock-strikes-collectors-edition.json](./362841-cursed-fables-before-the-clock-strikes-collectors-edition.json) |
 | Cursed Gun | 396895 | [396895-cursed-gun.json](./396895-cursed-gun.json) |
 | Cursed House | 186326 | [186326-cursed-house.json](./186326-cursed-house.json) |
 | Cursed House 11 | 214181 | [214181-cursed-house-11.json](./214181-cursed-house-11.json) |
