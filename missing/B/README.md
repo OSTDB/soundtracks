@@ -1474,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book Nook | 404843 | [404843-book-nook.json](./404843-book-nook.json) |
 | Book of Mario | 159321 | [159321-book-of-mario.json](./159321-book-of-mario.json) |
 | Book of Mario: Thousands of Doors | 159323 | [159323-book-of-mario-thousands-of-doors.json](./159323-book-of-mario-thousands-of-doors.json) |
+| Book Travelers II: A Royal Story - Collector's Edition | 362845 | [362845-book-travelers-ii-a-royal-story-collectors-edition.json](./362845-book-travelers-ii-a-royal-story-collectors-edition.json) |
 | Book Travelers III: A Gothic Story - Collector's Edition | 364516 | [364516-book-travelers-iii-a-gothic-story-collectors-edition.json](./364516-book-travelers-iii-a-gothic-story-collectors-edition.json) |
 | Bookbound | 370103 | [370103-bookbound.json](./370103-bookbound.json) |
 | Bookbound Brigade | 121218 | [121218-bookbound-brigade.json](./121218-bookbound-brigade.json) |
@@ -1762,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Constructor: Ultimate Edition | 129195 | [129195-bridge-constructor-ultimate-edition.json](./129195-bridge-constructor-ultimate-edition.json) |
 | Bridge Creator 2015 | 35857 | [35857-bridge-creator-2015.json](./35857-bridge-creator-2015.json) |
 | Bridge hand Composer | 87317 | [87317-bridge-hand-composer.json](./87317-bridge-hand-composer.json) |
+| Bridge to Another World Remastered: Burnt Dreams Collector's Edition | 362834 | [362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json](./362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json) |
 | Bridge to Another World: Escape From Oz Collector's Edition | 104108 | [104108-bridge-to-another-world-escape-from-oz-collectors-edition.json](./104108-bridge-to-another-world-escape-from-oz-collectors-edition.json) |
 | Bridge-It | 12983 | [12983-bridge-it.json](./12983-bridge-it.json) |
 | BridgeFix 2=3-1 | 158731 | [158731-bridgefix-2-3-1.json](./158731-bridgefix-2-3-1.json) |
@@ -1786,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broadside | 34450 | [34450-broadside.json](./34450-broadside.json) |
 | Brobot | 159866 | [159866-brobot.json](./159866-brobot.json) |
 | Brødrene Mortensens Jul | 129815 | [129815-br-drene-mortensens-jul.json](./129815-br-drene-mortensens-jul.json) |
+| Broke Brodie | 362856 | [362856-broke-brodie.json](./362856-broke-brodie.json) |
 | Broke Girl | 118423 | [118423-broke-girl.json](./118423-broke-girl.json) |
 | Broken Leash: Night Shift | 376478 | [376478-broken-leash-night-shift.json](./376478-broken-leash-night-shift.json) |
 | Broken Life | 265391 | [265391-broken-life.json](./265391-broken-life.json) |
@@ -1896,6 +1899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buck Blastem | 322987 | [322987-buck-blastem.json](./322987-buck-blastem.json) |
 | Buck Bumble | 3368 | [3368-buck-bumble.json](./3368-buck-bumble.json) |
 | Bud Redhead: The Time Chase | 71558 | [71558-bud-redhead-the-time-chase.json](./71558-bud-redhead-the-time-chase.json) |
+| Budget Rate Stigmata | 362855 | [362855-budget-rate-stigmata.json](./362855-budget-rate-stigmata.json) |
 | Buffy the Vampire Slayer: Sacrifice | 21130 | [21130-buffy-the-vampire-slayer-sacrifice.json](./21130-buffy-the-vampire-slayer-sacrifice.json) |
 | Bug & Seek | 271464 | [271464-bug-and-seek.json](./271464-bug-and-seek.json) |
 | Bug & Seek: Weevils DLC | 298342 | [298342-bug-and-seek-weevils-dlc.json](./298342-bug-and-seek-weevils-dlc.json) |
