@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Thunder | 91403 | [91403-operation-thunder.json](./91403-operation-thunder.json) |
 | Operator Ace's Simple Infinite Survival | 278734 | [278734-operator-aces-simple-infinite-survival.json](./278734-operator-aces-simple-infinite-survival.json) |
 | Operencia: The Stolen Sun - Explorer's Edition | 154541 | [154541-operencia-the-stolen-sun-explorers-edition.json](./154541-operencia-the-stolen-sun-explorers-edition.json) |
+| Operius DX | 347184 | [347184-operius-dx.json](./347184-operius-dx.json) |
 | Opia | 322946 | [322946-opia.json](./322946-opia.json) |
 | Oppai Academy Big, Bouncy, Booby Babes! | 147454 | [147454-oppai-academy-big-bouncy-booby-babes.json](./147454-oppai-academy-big-bouncy-booby-babes.json) |
 | Oppaidius Tropical Cruise! | 126641 | [126641-oppaidius-tropical-cruise.json](./126641-oppaidius-tropical-cruise.json) |
