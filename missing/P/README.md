@@ -851,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pindeavor | 208602 | [208602-pindeavor.json](./208602-pindeavor.json) |
 | Pine: A Story of Loss | 300365 | [300365-pine-a-story-of-loss.json](./300365-pine-a-story-of-loss.json) |
 | Pineapple | 311242 | [311242-pineapple.json](./311242-pineapple.json) |
+| Pineapple Panic! | 337652 | [337652-pineapple-panic.json](./337652-pineapple-panic.json) |
 | Pineapple Smash Crew | 16330 | [16330-pineapple-smash-crew.json](./16330-pineapple-smash-crew.json) |
 | Pineford: Part I | 302120 | [302120-pineford-part-i.json](./302120-pineford-part-i.json) |
 | Ping | 90641 | [90641-ping.json](./90641-ping.json) |
@@ -1573,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Planet | 243924 | [243924-primal-planet.json](./243924-primal-planet.json) |
 | Primavera Lihbor | 295538 | [295538-primavera-lihbor.json](./295538-primavera-lihbor.json) |
 | Prime | 291783 | [291783-prime.json](./291783-prime.json) |
+| Prime Mosaic | 337639 | [337639-prime-mosaic.json](./337639-prime-mosaic.json) |
 | Prime World: Alchemy | 63306 | [63306-prime-world-alchemy.json](./63306-prime-world-alchemy.json) |
 | Prime World: Defenders | 16507 | [16507-prime-world-defenders.json](./16507-prime-world-defenders.json) |
 | Primeval Horizon | 295527 | [295527-primeval-horizon.json](./295527-primeval-horizon.json) |
@@ -1865,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prussia's Glory | 77384 | [77384-prussias-glory.json](./77384-prussias-glory.json) |
 | Pry into the Void | 187530 | [187530-pry-into-the-void.json](./187530-pry-into-the-void.json) |
 | Psebay | 43063 | [43063-psebay.json](./43063-psebay.json) |
+| Pseudoku | 337638 | [337638-pseudoku.json](./337638-pseudoku.json) |
 | Psi Chess | 58251 | [58251-psi-chess.json](./58251-psi-chess.json) |
 | PSI Masquerade | 204064 | [204064-psi-masquerade.json](./204064-psi-masquerade.json) |
 | Psi Project: Legacy | 75907 | [75907-psi-project-legacy.json](./75907-psi-project-legacy.json) |
