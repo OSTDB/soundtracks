@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race To The Sea | 372479 | [372479-race-to-the-sea.json](./372479-race-to-the-sea.json) |
 | Racerloop | 259817 | [259817-racerloop.json](./259817-racerloop.json) |
 | Racers Islands | 233229 | [233229-racers-islands.json](./233229-racers-islands.json) |
+| RaceXXL Space | 367394 | [367394-racexxl-space.json](./367394-racexxl-space.json) |
 | Racing 2020 | 129204 | [129204-racing-2020.json](./129204-racing-2020.json) |
 | Racing Empires | 245016 | [245016-racing-empires.json](./245016-racing-empires.json) |
 | Racing Karts | 186913 | [186913-racing-karts.json](./186913-racing-karts.json) |
@@ -997,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Adventure! | 143747 | [143747-road-to-adventure.json](./143747-road-to-adventure.json) |
 | Road to Beta | 86114 | [86114-road-to-beta.json](./86114-road-to-beta.json) |
 | Road to Exotics! | 275337 | [275337-road-to-exotics.json](./275337-road-to-exotics.json) |
+| Road to Fame | 367408 | [367408-road-to-fame.json](./367408-road-to-fame.json) |
 | Road to Mechalopolis | 413009 | [413009-road-to-mechalopolis.json](./413009-road-to-mechalopolis.json) |
 | Road Trip | 182553 | [182553-road-trip.json](./182553-road-trip.json) |
 | Road Trip | 202425 | [202425-road-trip.json](./202425-road-trip.json) |
