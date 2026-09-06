@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necropolis Nights | 332849 | [332849-necropolis-nights.json](./332849-necropolis-nights.json) |
 | Necropolis of the Angels | 214187 | [214187-necropolis-of-the-angels.json](./214187-necropolis-of-the-angels.json) |
 | Necropolis: Brutal Edition | 25337 | [25337-necropolis-brutal-edition.json](./25337-necropolis-brutal-edition.json) |
+| Necrotyper | 360594 | [360594-necrotyper.json](./360594-necrotyper.json) |
 | Nectar Wars | 260987 | [260987-nectar-wars.json](./260987-nectar-wars.json) |
 | Nectaris | 42030 | [42030-nectaris.json](./42030-nectaris.json) |
 | Ned | 67288 | [67288-ned.json](./67288-ned.json) |
@@ -844,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norukasoruka: Tanpenshuu | 398985 | [398985-norukasoruka-tanpenshuu.json](./398985-norukasoruka-tanpenshuu.json) |
 | NoseBound | 132821 | [132821-nosebound.json](./132821-nosebound.json) |
 | NoserLand | 51960 | [51960-noserland.json](./51960-noserland.json) |
+| Nostalgia | 360584 | [360584-nostalgia.json](./360584-nostalgia.json) |
 | Nostalgiarian | 127375 | [127375-nostalgiarian.json](./127375-nostalgiarian.json) |
 | Nostalgic Entropy: Neo Retro | 312899 | [312899-nostalgic-entropy-neo-retro.json](./312899-nostalgic-entropy-neo-retro.json) |
 | Nostos | 107252 | [107252-nostos.json](./107252-nostos.json) |
