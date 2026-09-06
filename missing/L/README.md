@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopquarium | 410915 | [410915-loopquarium.json](./410915-loopquarium.json) |
 | Loopy Ball | 239290 | [239290-loopy-ball.json](./239290-loopy-ball.json) |
 | Loopy Blocks | 254151 | [254151-loopy-blocks.json](./254151-loopy-blocks.json) |
+| Loopy Tennis | 317228 | [317228-loopy-tennis.json](./317228-loopy-tennis.json) |
 | Loose Lips(Side:foggy) | 151709 | [151709-loose-lips-side-foggy.json](./151709-loose-lips-side-foggy.json) |
 | Loose the Moose | 225290 | [225290-loose-the-moose.json](./225290-loose-the-moose.json) |
 | Loot and Shoot | 250000 | [250000-loot-and-shoot.json](./250000-loot-and-shoot.json) |
@@ -1067,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love D3ath Love | 412296 | [412296-love-d3ath-love.json](./412296-love-d3ath-love.json) |
 | Love Death | 259259 | [259259-love-death.json](./259259-love-death.json) |
 | Love Elysium: Secret of the Goddess - Extended Edition | 315872 | [315872-love-elysium-secret-of-the-goddess-extended-edition.json](./315872-love-elysium-secret-of-the-goddess-extended-edition.json) |
+| Love Elysium: Secret of the Goddess - Special Edition | 317251 | [317251-love-elysium-secret-of-the-goddess-special-edition.json](./317251-love-elysium-secret-of-the-goddess-special-edition.json) |
 | Love Engine | 29956 | [29956-love-engine.json](./29956-love-engine.json) |
 | Love Girl | 22474 | [22474-love-girl.json](./22474-love-girl.json) |
 | Love Hentai: Sexy Body | 109714 | [109714-love-hentai-sexy-body.json](./109714-love-hentai-sexy-body.json) |
