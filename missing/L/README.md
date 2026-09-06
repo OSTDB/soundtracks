@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser! | 253011 | [253011-laser.json](./253011-laser.json) |
 | LaserCat | 32271 | [32271-lasercat.json](./32271-lasercat.json) |
 | Laserium | 104086 | [104086-laserium.json](./104086-laserium.json) |
+| LaserReimu | 324302 | [324302-laserreimu.json](./324302-laserreimu.json) |
 | LaserShotz | 159890 | [159890-lasershotz.json](./159890-lasershotz.json) |
 | Lassie | 43331 | [43331-lassie.json](./43331-lassie.json) |
 | Lasso Catch | 277575 | [277575-lasso-catch.json](./277575-lasso-catch.json) |
