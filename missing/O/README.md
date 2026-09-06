@@ -426,6 +426,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneScreen Wagons | 74475 | [74475-onescreen-wagons.json](./74475-onescreen-wagons.json) |
 | OneTale | 335690 | [335690-onetale.json](./335690-onetale.json) |
 | Ongaku Tsukuuru: Kanadeeru - Convert Data | 234892 | [234892-ongaku-tsukuuru-kanadeeru-convert-data.json](./234892-ongaku-tsukuuru-kanadeeru-convert-data.json) |
+| Ongeki Bright Memory Act.2 | 335953 | [335953-ongeki-bright-memory-act-2.json](./335953-ongeki-bright-memory-act-2.json) |
+| Ongeki Bright Memory Act.3 | 335954 | [335954-ongeki-bright-memory-act-3.json](./335954-ongeki-bright-memory-act-3.json) |
 | Oni Ama: Watashi ni Amaete, Onii-chan | 145052 | [145052-oni-ama-watashi-ni-amaete-onii-chan.json](./145052-oni-ama-watashi-ni-amaete-onii-chan.json) |
 | Onigashima: Awakening | 406103 | [406103-onigashima-awakening.json](./406103-onigashima-awakening.json) |
 | Onii-chan Continue!: Secret Love With Yuri | 396239 | [396239-onii-chan-continue-secret-love-with-yuri.json](./396239-onii-chan-continue-secret-love-with-yuri.json) |
