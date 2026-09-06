@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Rampart | 275332 | [275332-tactical-rampart.json](./275332-tactical-rampart.json) |
 | Tactical Soccer the New Season | 34477 | [34477-tactical-soccer-the-new-season.json](./34477-tactical-soccer-the-new-season.json) |
 | Tactics Arena Online | 69301 | [69301-tactics-arena-online.json](./69301-tactics-arena-online.json) |
+| Tactics Returners | 345508 | [345508-tactics-returners.json](./345508-tactics-returners.json) |
 | Tactics Rogue | 109709 | [109709-tactics-rogue.json](./109709-tactics-rogue.json) |
 | TacticsLand | 311805 | [311805-tacticsland.json](./311805-tacticsland.json) |
 | Tadaima Yuusha Boshuuchuu Okawari | 37799 | [37799-tadaima-yuusha-boshuuchuu-okawari.json](./37799-tadaima-yuusha-boshuuchuu-okawari.json) |
@@ -250,8 +251,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tame It Too! | 310745 | [310745-tame-it-too.json](./310745-tame-it-too.json) |
 | Tamer Saga | 56489 | [56489-tamer-saga.json](./56489-tamer-saga.json) |
 | Taming the Heart of a Beast | 228067 | [228067-taming-the-heart-of-a-beast.json](./228067-taming-the-heart-of-a-beast.json) |
+| Tamori no Picross 4/23 | 345499 | [345499-tamori-no-picross-4-23.json](./345499-tamori-no-picross-4-23.json) |
 | Tamori no Picross 5/3 | 369029 | [369029-tamori-no-picross-5-3.json](./369029-tamori-no-picross-5-3.json) |
+| Tamori no Picross 6/13 | 345500 | [345500-tamori-no-picross-6-13.json](./345500-tamori-no-picross-6-13.json) |
+| Tamori no Picross 6/26 | 345501 | [345501-tamori-no-picross-6-26.json](./345501-tamori-no-picross-6-26.json) |
 | Tamori no Picross 7/14 | 369033 | [369033-tamori-no-picross-7-14.json](./369033-tamori-no-picross-7-14.json) |
+| Tamori no Picross 8/1 | 345504 | [345504-tamori-no-picross-8-1.json](./345504-tamori-no-picross-8-1.json) |
+| Tamori no Picross 8/13 | 345502 | [345502-tamori-no-picross-8-13.json](./345502-tamori-no-picross-8-13.json) |
 | Tampon Trawl | 184123 | [184123-tampon-trawl.json](./184123-tampon-trawl.json) |
 | Tampopo | 317004 | [317004-tampopo.json](./317004-tampopo.json) |
 | Tanat Online | 366226 | [366226-tanat-online.json](./366226-tanat-online.json) |
@@ -3502,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasures of the Ancients: Egypt | 102184 | [102184-treasures-of-the-ancients-egypt.json](./102184-treasures-of-the-ancients-egypt.json) |
 | Treasures of the Haunted Forest | 273645 | [273645-treasures-of-the-haunted-forest.json](./273645-treasures-of-the-haunted-forest.json) |
 | Trebuchet Town | 175993 | [175993-trebuchet-town.json](./175993-trebuchet-town.json) |
+| Tree Kingdoms | 345485 | [345485-tree-kingdoms.json](./345485-tree-kingdoms.json) |
 | Tree of Knowledge | 392138 | [392138-tree-of-knowledge.json](./392138-tree-of-knowledge.json) |
 | Tree of Life: Yggdrasil | 82159 | [82159-tree-of-life-yggdrasil.json](./82159-tree-of-life-yggdrasil.json) |
 | Tree of Savior: Neo | 349296 | [349296-tree-of-savior-neo.json](./349296-tree-of-savior-neo.json) |
