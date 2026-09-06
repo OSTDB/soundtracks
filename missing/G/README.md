@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: Graywitch | 250592 | [250592-grim-tales-graywitch.json](./250592-grim-tales-graywitch.json) |
 | Grim Tales: Guest from the Future - Collector's Edition | 122390 | [122390-grim-tales-guest-from-the-future-collectors-edition.json](./122390-grim-tales-guest-from-the-future-collectors-edition.json) |
 | Grim Tales: Horizon of Wishes - Collector's Edition | 214724 | [214724-grim-tales-horizon-of-wishes-collectors-edition.json](./214724-grim-tales-horizon-of-wishes-collectors-edition.json) |
+| Grim Tales: Light in the Darkness - Collector's Edition | 362838 | [362838-grim-tales-light-in-the-darkness-collectors-edition.json](./362838-grim-tales-light-in-the-darkness-collectors-edition.json) |
 | Grim Tales: The Hunger | 250595 | [250595-grim-tales-the-hunger.json](./250595-grim-tales-the-hunger.json) |
 | Grim Tales: The Hunger - Collector's Edition | 250596 | [250596-grim-tales-the-hunger-collectors-edition.json](./250596-grim-tales-the-hunger-collectors-edition.json) |
 | Grim Tales: The Time Traveler | 258697 | [258697-grim-tales-the-time-traveler.json](./258697-grim-tales-the-time-traveler.json) |
