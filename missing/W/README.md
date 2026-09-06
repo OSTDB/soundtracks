@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walt Disney's The Jungle Book: Mowgli's Wild Adventure | 49922 | [49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json](./49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json) |
 | Wampee Helicopters | 117714 | [117714-wampee-helicopters.json](./117714-wampee-helicopters.json) |
 | Wan Nyan Dobutsu Byouin: Suteki na Juui-San ni Narou! | 222539 | [222539-wan-nyan-dobutsu-byouin-suteki-na-juui-san-ni-narou.json](./222539-wan-nyan-dobutsu-byouin-suteki-na-juui-san-ni-narou.json) |
+| Wanagiri | 319024 | [319024-wanagiri.json](./319024-wanagiri.json) |
 | Wanaka Farm | 172770 | [172770-wanaka-farm.json](./172770-wanaka-farm.json) |
 | Wanderer's Shade | 310183 | [310183-wanderers-shade.json](./310183-wanderers-shade.json) |
 | Wanderers.io | 178085 | [178085-wanderers-io.json](./178085-wanderers-io.json) |
@@ -440,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Is This Sorcery | 328451 | [328451-what-is-this-sorcery.json](./328451-what-is-this-sorcery.json) |
 | What Lies Between | 199118 | [199118-what-lies-between.json](./199118-what-lies-between.json) |
 | What Must Be Done | 309132 | [309132-what-must-be-done.json](./309132-what-must-be-done.json) |
+| What Remains | 318969 | [318969-what-remains.json](./318969-what-remains.json) |
 | What the Car? x Goat Simulator+ | 400246 | [400246-what-the-car-x-goat-simulator.json](./400246-what-the-car-x-goat-simulator.json) |
 | What the Clash? | 339825 | [339825-what-the-clash.json](./339825-what-the-clash.json) |
 | What the Golf? A Hole New World | 264343 | [264343-what-the-golf-a-hole-new-world.json](./264343-what-the-golf-a-hole-new-world.json) |
