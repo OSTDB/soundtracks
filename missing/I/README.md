@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impact Trial: Simulation | 164508 | [164508-impact-trial-simulation.json](./164508-impact-trial-simulation.json) |
 | Impaler Gold | 196078 | [196078-impaler-gold.json](./196078-impaler-gold.json) |
 | Impartial | 339091 | [339091-impartial.json](./339091-impartial.json) |
+| Imperator: Invictus | 356069 | [356069-imperator-invictus.json](./356069-imperator-invictus.json) |
 | Imperfect Garden | 358297 | [358297-imperfect-garden.json](./358297-imperfect-garden.json) |
 | Imperialist | 400247 | [400247-imperialist.json](./400247-imperialist.json) |
 | Impetus: Clamor in Portis | 135276 | [135276-impetus-clamor-in-portis.json](./135276-impetus-clamor-in-portis.json) |
