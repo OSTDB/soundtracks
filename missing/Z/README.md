@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zapactris | 71551 | [71551-zapactris.json](./71551-zapactris.json) |
 | Zaphie 2 | 145656 | [145656-zaphie-2.json](./145656-zaphie-2.json) |
 | ZAR | 161374 | [161374-zar.json](./161374-zar.json) |
+| Zargog | 356638 | [356638-zargog.json](./356638-zargog.json) |
 | Zarktor's Realm | 189172 | [189172-zarktors-realm.json](./189172-zarktors-realm.json) |
 | Zarth | 45977 | [45977-zarth.json](./45977-zarth.json) |
 | Zatch Bell! Mamodo Fury Update | 358308 | [358308-zatch-bell-mamodo-fury-update.json](./358308-zatch-bell-mamodo-fury-update.json) |
@@ -148,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Buster VR | 28886 | [28886-zombie-buster-vr.json](./28886-zombie-buster-vr.json) |
 | Zombie Defense: Emerald Edition | 400206 | [400206-zombie-defense-emerald-edition.json](./400206-zombie-defense-emerald-edition.json) |
 | Zombie Derby | 96622 | [96622-zombie-derby.json](./96622-zombie-derby.json) |
+| Zombie Diary | 356651 | [356651-zombie-diary.json](./356651-zombie-diary.json) |
 | Zombie Escape: The Driving Dead | 213589 | [213589-zombie-escape-the-driving-dead.json](./213589-zombie-escape-the-driving-dead.json) |
 | Zombie Exodus: Safe Haven - Part Four | 388743 | [388743-zombie-exodus-safe-haven-part-four.json](./388743-zombie-exodus-safe-haven-part-four.json) |
 | Zombie Exodus: Safe Haven - Side Stories 2 | 291208 | [291208-zombie-exodus-safe-haven-side-stories-2.json](./291208-zombie-exodus-safe-haven-side-stories-2.json) |
