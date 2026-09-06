@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad Scheduler | 295005 | [295005-railroad-scheduler.json](./295005-railroad-scheduler.json) |
 | Railroad Story HD | 175393 | [175393-railroad-story-hd.json](./175393-railroad-story-hd.json) |
 | Railroads Online: Explorer DLC | 332801 | [332801-railroads-online-explorer-dlc.json](./332801-railroads-online-explorer-dlc.json) |
+| Railroads Online: Extended Edition | 331852 | [331852-railroads-online-extended-edition.json](./331852-railroads-online-extended-edition.json) |
 | Railroads Online: Pioneer DLC | 332799 | [332799-railroads-online-pioneer-dlc.json](./332799-railroads-online-pioneer-dlc.json) |
 | Railway Chai Wala | 341313 | [341313-railway-chai-wala.json](./341313-railway-chai-wala.json) |
 | Railway Empire: Great Britain & Ireland | 124808 | [124808-railway-empire-great-britain-and-ireland.json](./124808-railway-empire-great-britain-and-ireland.json) |
@@ -772,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroQuest | 45332 | [45332-retroquest.json](./45332-retroquest.json) |
 | RetroRaider II: Lara's Quest Continues | 55914 | [55914-retroraider-ii-laras-quest-continues.json](./55914-retroraider-ii-laras-quest-continues.json) |
 | RetroRaider: Three Crystals | 55915 | [55915-retroraider-three-crystals.json](./55915-retroraider-three-crystals.json) |
+| RetroRealms Double Feature: Halloween and Ash vs. Evil Dead - Day One Edition | 331841 | [331841-retrorealms-double-feature-halloween-and-ash-vs-evil-dead-day-one-edition.json](./331841-retrorealms-double-feature-halloween-and-ash-vs-evil-dead-day-one-edition.json) |
 | RetroRealms: Ash vs. Evil Dead | 313490 | [313490-retrorealms-ash-vs-evil-dead.json](./313490-retrorealms-ash-vs-evil-dead.json) |
 | RetroRealms: Halloween | 313489 | [313489-retrorealms-halloween.json](./313489-retrorealms-halloween.json) |
 | RetroVamp | 126634 | [126634-retrovamp.json](./126634-retrovamp.json) |
@@ -1174,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Hot Wheels Triple Threat | 156174 | [156174-rocket-league-hot-wheels-triple-threat.json](./156174-rocket-league-hot-wheels-triple-threat.json) |
 | Rocket League: Season 1 | 202392 | [202392-rocket-league-season-1.json](./202392-rocket-league-season-1.json) |
 | Rocket League: Season 11 | 252378 | [252378-rocket-league-season-11.json](./252378-rocket-league-season-11.json) |
+| Rocket League: Season 17 Rocketeer Pack | 331860 | [331860-rocket-league-season-17-rocketeer-pack.json](./331860-rocket-league-season-17-rocketeer-pack.json) |
 | Rocket League: Season 18 Rocketeer Pack | 366846 | [366846-rocket-league-season-18-rocketeer-pack.json](./366846-rocket-league-season-18-rocketeer-pack.json) |
 | Rocket League: Season 18 Veteran Pack | 366845 | [366845-rocket-league-season-18-veteran-pack.json](./366845-rocket-league-season-18-veteran-pack.json) |
 | Rocket League: Season 19 | 350417 | [350417-rocket-league-season-19.json](./350417-rocket-league-season-19.json) |
@@ -1607,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Troopers | 184657 | [184657-rush-troopers.json](./184657-rush-troopers.json) |
 | Rush'n Attack | 90990 | [90990-rushn-attack.json](./90990-rushn-attack.json) |
 | Rushcremental | 381635 | [381635-rushcremental.json](./381635-rushcremental.json) |
+| Rushmith | 331877 | [331877-rushmith.json](./331877-rushmith.json) |
 | Russian bank - card game | 106568 | [106568-russian-bank-card-game.json](./106568-russian-bank-card-game.json) |
 | Russian Driver | 197376 | [197376-russian-driver.json](./197376-russian-driver.json) |
 | Russian Drunken Boxers | 158697 | [158697-russian-drunken-boxers.json](./158697-russian-drunken-boxers.json) |
