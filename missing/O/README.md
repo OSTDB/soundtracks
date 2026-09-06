@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ojousama Sousamou | 70400 | [70400-ojousama-sousamou.json](./70400-ojousama-sousamou.json) |
 | Ok/Normal | 101635 | [101635-ok-normal.json](./101635-ok-normal.json) |
 | Okaeri! Chibi-Robo! Happy Richie Oosouji | 47773 | [47773-okaeri-chibi-robo-happy-richie-oosouji.json](./47773-okaeri-chibi-robo-happy-richie-oosouji.json) |
+| Okayu Nyumu! | 320166 | [320166-okayu-nyumu.json](./320166-okayu-nyumu.json) |
 | Okie Dokie | 40776 | [40776-okie-dokie.json](./40776-okie-dokie.json) |
 | Okinawa Journal | 372458 | [372458-okinawa-journal.json](./372458-okinawa-journal.json) |
 | Okiro | 371886 | [371886-okiro.json](./371886-okiro.json) |
