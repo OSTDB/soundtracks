@@ -84,6 +84,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yogoe Hunter | 320178 | [320178-yogoe-hunter.json](./320178-yogoe-hunter.json) |
 | Yogurt Royale | 177010 | [177010-yogurt-royale.json](./177010-yogurt-royale.json) |
 | Yohane the Parhelion: Additional Character Pack vol.1 "Dia & Hanamaru & Kanan" | 301020 | [301020-yohane-the-parhelion-additional-character-pack-vol-1-dia-and-hanamaru-and-kanan.json](./301020-yohane-the-parhelion-additional-character-pack-vol-1-dia-and-hanamaru-and-kanan.json) |
+| Yohane the Parhelion: Additional character pack vol.3 "Riko & Mari + Yohane" | 315494 | [315494-yohane-the-parhelion-additional-character-pack-vol-3-riko-and-mari-yohane.json](./315494-yohane-the-parhelion-additional-character-pack-vol-3-riko-and-mari-yohane.json) |
+| Yohane the Parhelion: Numazu in the Mirage - "Yohane the Parhelion" song set | 315499 | [315499-yohane-the-parhelion-numazu-in-the-mirage-yohane-the-parhelion-song-set.json](./315499-yohane-the-parhelion-numazu-in-the-mirage-yohane-the-parhelion-song-set.json) |
+| Yohane the Parhelion: Numazu in the Mirage - Costume "Far far away" | 315497 | [315497-yohane-the-parhelion-numazu-in-the-mirage-costume-far-far-away.json](./315497-yohane-the-parhelion-numazu-in-the-mirage-costume-far-far-away.json) |
+| Yohane the Parhelion: Numazu in the Mirage - Costume "Fledgling" | 315495 | [315495-yohane-the-parhelion-numazu-in-the-mirage-costume-fledgling.json](./315495-yohane-the-parhelion-numazu-in-the-mirage-costume-fledgling.json) |
+| Yohane the Parhelion: Numazu in the Mirage - Costume "Lucky Outfit" | 315496 | [315496-yohane-the-parhelion-numazu-in-the-mirage-costume-lucky-outfit.json](./315496-yohane-the-parhelion-numazu-in-the-mirage-costume-lucky-outfit.json) |
+| Yohane the Parhelion: Numazu in the Mirage - Costume "Trendy Schoolgirl" | 315498 | [315498-yohane-the-parhelion-numazu-in-the-mirage-costume-trendy-schoolgirl.json](./315498-yohane-the-parhelion-numazu-in-the-mirage-costume-trendy-schoolgirl.json) |
 | Yoiyami Biscuit | 307308 | [307308-yoiyami-biscuit.json](./307308-yoiyami-biscuit.json) |
 | Yokai Jiken Aratamegata no Kobanashi | 77369 | [77369-yokai-jiken-aratamegata-no-kobanashi.json](./77369-yokai-jiken-aratamegata-no-kobanashi.json) |
 | Yokai's Secret | 138265 | [138265-yokais-secret.json](./138265-yokais-secret.json) |
