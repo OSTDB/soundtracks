@@ -998,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Ranger | 304905 | [304905-grid-ranger.json](./304905-grid-ranger.json) |
 | Grid Runner | 20738 | [20738-grid-runner.json](./20738-grid-runner.json) |
 | Grid Wars II | 51233 | [51233-grid-wars-ii.json](./51233-grid-wars-ii.json) |
+| Grid: Autosport - Drag Pack | 365684 | [365684-grid-autosport-drag-pack.json](./365684-grid-autosport-drag-pack.json) |
 | Gridblocked | 204719 | [204719-gridblocked.json](./204719-gridblocked.json) |
 | gridCrack | 89250 | [89250-gridcrack.json](./89250-gridcrack.json) |
 | Griddler | 242208 | [242208-griddler.json](./242208-griddler.json) |
@@ -1180,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam: The 3D Battle | 66113 | [66113-gundam-the-3d-battle.json](./66113-gundam-the-3d-battle.json) |
 | Gundan: The Crowd Shooting | 205241 | [205241-gundan-the-crowd-shooting.json](./205241-gundan-the-crowd-shooting.json) |
 | GundeadliGne | 16233 | [16233-gundeadligne.json](./16233-gundeadligne.json) |
+| Gundemonium | 365664 | [365664-gundemonium.json](./365664-gundemonium.json) |
 | Gundertale | 336351 | [336351-gundertale.json](./336351-gundertale.json) |
 | GunDress | 213042 | [213042-gundress.json](./213042-gundress.json) |
 | Gunducky Industries | 54455 | [54455-gunducky-industries.json](./54455-gunducky-industries.json) |
