@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warpaws | 219259 | [219259-warpaws.json](./219259-warpaws.json) |
 | WarpBall | 34482 | [34482-warpball.json](./34482-warpball.json) |
 | WarPlan | 125460 | [125460-warplan.json](./125460-warplan.json) |
+| Warplanes Inc. | 327206 | [327206-warplanes-inc.json](./327206-warplanes-inc.json) |
 | WarPods | 107865 | [107865-warpods.json](./107865-warpods.json) |
 | Warring Worms: The Worm (re)Turns | 73285 | [73285-warring-worms-the-worm-re-turns.json](./73285-warring-worms-the-worm-re-turns.json) |
 | Warrior | 215906 | [215906-warrior.json](./215906-warrior.json) |
@@ -551,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Night | 352190 | [352190-white-night.json](./352190-white-night.json) |
 | White Pearl | 76663 | [76663-white-pearl.json](./76663-white-pearl.json) |
 | White Rabbit | 161356 | [161356-white-rabbit.json](./161356-white-rabbit.json) |
+| White Room: Mind’s Prison | 327175 | [327175-white-room-mind-s-prison.json](./327175-white-room-mind-s-prison.json) |
 | White Silence | 388720 | [388720-white-silence.json](./388720-white-silence.json) |
 | White Tiles Master | 233743 | [233743-white-tiles-master.json](./233743-white-tiles-master.json) |
 | White Wall | 149582 | [149582-white-wall.json](./149582-white-wall.json) |
