@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day in the Office | 176500 | [176500-a-day-in-the-office.json](./176500-a-day-in-the-office.json) |
 | A Day on the Farm | 326582 | [326582-a-day-on-the-farm.json](./326582-a-day-on-the-farm.json) |
 | A Day to Bring Them Happiness | 314042 | [314042-a-day-to-bring-them-happiness.json](./314042-a-day-to-bring-them-happiness.json) |
+| A Day With Mochi | 323717 | [323717-a-day-with-mochi.json](./323717-a-day-with-mochi.json) |
 | A Deep Dive | 349872 | [349872-a-deep-dive.json](./349872-a-deep-dive.json) |
 | A Desert Christmas Story | 235974 | [235974-a-desert-christmas-story.json](./235974-a-desert-christmas-story.json) |
 | A Dino Date | 260401 | [260401-a-dino-date.json](./260401-a-dino-date.json) |
@@ -142,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night With: Spirit | 318180 | [318180-a-night-with-spirit.json](./318180-a-night-with-spirit.json) |
 | A Night With: Succubus | 331291 | [331291-a-night-with-succubus.json](./331291-a-night-with-succubus.json) |
 | A Pact With Me | 209704 | [209704-a-pact-with-me.json](./209704-a-pact-with-me.json) |
+| A Paper Mario Puzzle Game | 323741 | [323741-a-paper-mario-puzzle-game.json](./323741-a-paper-mario-puzzle-game.json) |
 | A Phone Found in Tall Grass | 245025 | [245025-a-phone-found-in-tall-grass.json](./245025-a-phone-found-in-tall-grass.json) |
 | A Platformer for Ants | 82150 | [82150-a-platformer-for-ants.json](./82150-a-platformer-for-ants.json) |
 | A Plumber for All Seasons | 204718 | [204718-a-plumber-for-all-seasons.json](./204718-a-plumber-for-all-seasons.json) |
@@ -1183,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Alien with a Magnet HD | 90682 | [90682-an-alien-with-a-magnet-hd.json](./90682-an-alien-with-a-magnet-hd.json) |
 | An Alt Girl for Skoof | 298835 | [298835-an-alt-girl-for-skoof.json](./298835-an-alt-girl-for-skoof.json) |
 | An Altered State | 400881 | [400881-an-altered-state.json](./400881-an-altered-state.json) |
+| An Aquatic Pokemon Tale | 323758 | [323758-an-aquatic-pokemon-tale.json](./323758-an-aquatic-pokemon-tale.json) |
 | An Architect's Adventure | 211403 | [211403-an-architects-adventure.json](./211403-an-architects-adventure.json) |
 | An Elder Scrolls Legend: Battlespire | 54 | [54-an-elder-scrolls-legend-battlespire.json](./54-an-elder-scrolls-legend-battlespire.json) |
 | An Elmwood Trail | 243410 | [243410-an-elmwood-trail.json](./243410-an-elmwood-trail.json) |
@@ -1192,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Unnamed Jumping Game | 321750 | [321750-an-unnamed-jumping-game.json](./321750-an-unnamed-jumping-game.json) |
 | Anachroma | 211404 | [211404-anachroma.json](./211404-anachroma.json) |
 | Anachron | 377084 | [377084-anachron.json](./377084-anachron.json) |
+| Anagrammatic | 323710 | [323710-anagrammatic.json](./323710-anagrammatic.json) |
 | Anagramme Duel | 96037 | [96037-anagramme-duel.json](./96037-anagramme-duel.json) |
 | Analistica Academy | 89937 | [89937-analistica-academy.json](./89937-analistica-academy.json) |
 | Ananse and the Pot of Wisdom | 251827 | [251827-ananse-and-the-pot-of-wisdom.json](./251827-ananse-and-the-pot-of-wisdom.json) |
@@ -1417,6 +1421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Day | 254143 | [254143-another-day.json](./254143-another-day.json) |
 | Another Day of Chikan! Vol7 Cool Beauty Schoolgirl in a Band | 82931 | [82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json](./82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json) |
 | Another Farm Roguelike | 214201 | [214201-another-farm-roguelike.json](./214201-another-farm-roguelike.json) |
+| Another Head | 323759 | [323759-another-head.json](./323759-another-head.json) |
 | Another Path | 196884 | [196884-another-path.json](./196884-another-path.json) |
 | Another Prince: A Lost Tale | 191915 | [191915-another-prince-a-lost-tale.json](./191915-another-prince-a-lost-tale.json) |
 | Another Runner | 55214 | [55214-another-runner.json](./55214-another-runner.json) |
