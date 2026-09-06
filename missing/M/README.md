@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario vs. Donkey Kong 2: March of the Minis - Cannon Kaos | 231640 | [231640-mario-vs-donkey-kong-2-march-of-the-minis-cannon-kaos.json](./231640-mario-vs-donkey-kong-2-march-of-the-minis-cannon-kaos.json) |
 | Mario vs. Donkey Kong Card e+ | 220855 | [220855-mario-vs-donkey-kong-card-e.json](./220855-mario-vs-donkey-kong-card-e.json) |
 | Mario: The Dark World | 324111 | [324111-mario-the-dark-world.json](./324111-mario-the-dark-world.json) |
+| Mario's Balls | 343829 | [343829-marios-balls.json](./343829-marios-balls.json) |
 | Mario's Carnival Quest | 307903 | [307903-marios-carnival-quest.json](./307903-marios-carnival-quest.json) |
 | Mario's Face | 175970 | [175970-marios-face.json](./175970-marios-face.json) |
 | Mario's Holiday | 270378 | [270378-marios-holiday.json](./270378-marios-holiday.json) |
@@ -1600,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMA Arena | 117047 | [117047-mma-arena.json](./117047-mma-arena.json) |
 | MMA Championship | 189178 | [189178-mma-championship.json](./189178-mma-championship.json) |
 | MMA Federation | 116394 | [116394-mma-federation.json](./116394-mma-federation.json) |
+| MMM | 343815 | [343815-mmm.json](./343815-mmm.json) |
 | Mmm Fingers | 117752 | [117752-mmm-fingers.json](./117752-mmm-fingers.json) |
 | MMORPG Tycoon 2 | 125701 | [125701-mmorpg-tycoon-2.json](./125701-mmorpg-tycoon-2.json) |
 | MNOZ: My Nuclear Octopus 2 | 408048 | [408048-mnoz-my-nuclear-octopus-2.json](./408048-mnoz-my-nuclear-octopus-2.json) |
