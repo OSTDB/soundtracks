@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am Jesus | 57681 | [57681-i-am-jesus.json](./57681-i-am-jesus.json) |
 | I Am Kilt | 291247 | [291247-i-am-kilt.json](./291247-i-am-kilt.json) |
 | I am Machine | 371877 | [371877-i-am-machine.json](./371877-i-am-machine.json) |
+| I Am Night | 352165 | [352165-i-am-night.json](./352165-i-am-night.json) |
 | I Am Not What Remains | 176498 | [176498-i-am-not-what-remains.json](./176498-i-am-not-what-remains.json) |
 | I am Sakuya VR: Touhou FPS Game | 244477 | [244477-i-am-sakuya-vr-touhou-fps-game.json](./244477-i-am-sakuya-vr-touhou-fps-game.json) |
 | I am Still Here. | 143104 | [143104-i-am-still-here.json](./143104-i-am-still-here.json) |
