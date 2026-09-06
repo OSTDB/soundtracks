@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | [Stories to Tell]: The Stoneville Incident | 410259 | [410259-stories-to-tell-the-stoneville-incident.json](./410259-stories-to-tell-the-stoneville-incident.json) |
 | @ Home Mate | 22467 | [22467-home-mate.json](./22467-home-mate.json) |
 | *N Sync: Get to the Show | 94742 | [94742-n-sync-get-to-the-show.json](./94742-n-sync-get-to-the-show.json) |
+| /R | 329554 | [329554-r.json](./329554-r.json) |
 | #Blud | 117500 | [117500-blud.json](./117500-blud.json) |
 | #Halloween, Super Puzzles Dream | 147438 | [147438-halloween-super-puzzles-dream.json](./147438-halloween-super-puzzles-dream.json) |
 | #Have A Sticker | 99640 | [99640-have-a-sticker.json](./99640-have-a-sticker.json) |
