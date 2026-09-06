@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Bots Rises | 27758 | [27758-bad-bots-rises.json](./27758-bad-bots-rises.json) |
 | Bad Delivery: Pizza Your Heart | 381617 | [381617-bad-delivery-pizza-your-heart.json](./381617-bad-delivery-pizza-your-heart.json) |
 | Bad Dudes vs. Dragon Ninja | 18831 | [18831-bad-dudes-vs-dragon-ninja.json](./18831-bad-dudes-vs-dragon-ninja.json) |
+| Bad Faith | 329027 | [329027-bad-faith.json](./329027-bad-faith.json) |
 | Bad Guy: Neighborhood | 193494 | [193494-bad-guy-neighborhood.json](./193494-bad-guy-neighborhood.json) |
 | Bad Impressions | 211424 | [211424-bad-impressions.json](./211424-bad-impressions.json) |
 | Bad Lands | 39655 | [39655-bad-lands.json](./39655-bad-lands.json) |
@@ -256,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandle | 294451 | [294451-bandle.json](./294451-bandle.json) |
 | Baneseed | 184658 | [184658-baneseed.json](./184658-baneseed.json) |
 | Bang Bang Ball | 40268 | [40268-bang-bang-ball.json](./40268-bang-bang-ball.json) |
+| Bang Bang Pull Pull | 329020 | [329020-bang-bang-pull-pull.json](./329020-bang-bang-pull-pull.json) |
 | Bang Dream! Garupa AR! | 220326 | [220326-bang-dream-garupa-ar.json](./220326-bang-dream-garupa-ar.json) |
 | BanG Dream! Girls Band Party! for Nintendo Switch | 152887 | [152887-bang-dream-girls-band-party-for-nintendo-switch.json](./152887-bang-dream-girls-band-party-for-nintendo-switch.json) |
 | Bang! Bang! Totally Accurate Redneck Simulator | 138808 | [138808-bang-bang-totally-accurate-redneck-simulator.json](./138808-bang-bang-totally-accurate-redneck-simulator.json) |
@@ -475,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batta Batta: Kampen mod Ultra | 127974 | [127974-batta-batta-kampen-mod-ultra.json](./127974-batta-batta-kampen-mod-ultra.json) |
 | Batta Batta: Kejserens Gave | 129773 | [129773-batta-batta-kejserens-gave.json](./129773-batta-batta-kejserens-gave.json) |
 | Batta Batta: Skurkestreger | 129777 | [129777-batta-batta-skurkestreger.json](./129777-batta-batta-skurkestreger.json) |
+| Batter Up! | 329039 | [329039-batter-up.json](./329039-batter-up.json) |
 | Batteries Included | 117079 | [117079-batteries-included.json](./117079-batteries-included.json) |
 | Batterneers | 158215 | [158215-batterneers.json](./158215-batterneers.json) |
 | Batteryman Recharges the World! | 184638 | [184638-batteryman-recharges-the-world.json](./184638-batteryman-recharges-the-world.json) |
@@ -954,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Chief | 96342 | [96342-big-chief.json](./96342-big-chief.json) |
 | Big Drunk Satanic Massacre | 75067 | [75067-big-drunk-satanic-massacre.json](./75067-big-drunk-satanic-massacre.json) |
 | Big Fight: Big Trouble in the Atlantic Ocean | 40233 | [40233-big-fight-big-trouble-in-the-atlantic-ocean.json](./40233-big-fight-big-trouble-in-the-atlantic-ocean.json) |
+| Big Hunt | 329021 | [329021-big-hunt.json](./329021-big-hunt.json) |
 | Big Mountain Snowboarding | 88322 | [88322-big-mountain-snowboarding.json](./88322-big-mountain-snowboarding.json) |
 | Big Names Bonanza | 19683 | [19683-big-names-bonanza.json](./19683-big-names-bonanza.json) |
 | Big Nose Freaks Out | 48105 | [48105-big-nose-freaks-out.json](./48105-big-nose-freaks-out.json) |
@@ -1453,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Thunder | 296678 | [296678-blue-thunder.json](./296678-blue-thunder.json) |
 | BlueAge | 312890 | [312890-blueage.json](./312890-blueage.json) |
 | Blueberry Weather | 353869 | [353869-blueberry-weather.json](./353869-blueberry-weather.json) |
+| Blueman | 329002 | [329002-blueman.json](./329002-blueman.json) |
 | Blues Brothers 2000 | 3425 | [3425-blues-brothers-2000.json](./3425-blues-brothers-2000.json) |
 | BlueTricks | 237087 | [237087-bluetricks.json](./237087-bluetricks.json) |
 | Bluey Wackadoo Watch | 230557 | [230557-bluey-wackadoo-watch.json](./230557-bluey-wackadoo-watch.json) |
