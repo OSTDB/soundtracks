@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insomnia | 238747 | [238747-insomnia.json](./238747-insomnia.json) |
 | Insomnia | 333572 | [333572-insomnia.json](./333572-insomnia.json) |
 | Inspace 2980 | 109645 | [109645-inspace-2980.json](./109645-inspace-2980.json) |
+| Inspector Douglas's Diary | 316634 | [316634-inspector-douglass-diary.json](./316634-inspector-douglass-diary.json) |
 | Inspector Gadget: Mad Time Party | 247190 | [247190-inspector-gadget-mad-time-party.json](./247190-inspector-gadget-mad-time-party.json) |
 | Inspector Waffles: Purrluxe Edition | 154522 | [154522-inspector-waffles-purrluxe-edition.json](./154522-inspector-waffles-purrluxe-edition.json) |
 | InSpheration | 53234 | [53234-inspheration.json](./53234-inspheration.json) |
