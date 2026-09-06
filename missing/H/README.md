@@ -879,6 +879,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitler My Friend | 277006 | [277006-hitler-my-friend.json](./277006-hitler-my-friend.json) |
 | Hitman 2 Christmas Game | 336886 | [336886-hitman-2-christmas-game.json](./336886-hitman-2-christmas-game.json) |
 | Hitman 3 | 134595 | [134595-hitman-3.json](./134595-hitman-3.json) |
+| Hitman 3: The Banker Pack | 357256 | [357256-hitman-3-the-banker-pack.json](./357256-hitman-3-the-banker-pack.json) |
+| Hitman 3: The Splitter Pack | 357257 | [357257-hitman-3-the-splitter-pack.json](./357257-hitman-3-the-splitter-pack.json) |
 | Hitman 3: Trinity Pack | 224225 | [224225-hitman-3-trinity-pack.json](./224225-hitman-3-trinity-pack.json) |
 | Hitman World of Assassination | 233571 | [233571-hitman-world-of-assassination.json](./233571-hitman-world-of-assassination.json) |
 | Hitman World of Assassination: Bruce Lee | 370132 | [370132-hitman-world-of-assassination-bruce-lee.json](./370132-hitman-world-of-assassination-bruce-lee.json) |
@@ -1352,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperlight Survivor | 261553 | [261553-hyperlight-survivor.json](./261553-hyperlight-survivor.json) |
 | Hypermind | 193471 | [193471-hypermind.json](./193471-hypermind.json) |
 | HyperParasite | 101257 | [101257-hyperparasite.json](./101257-hyperparasite.json) |
+| Hyperspace Hub Manager | 357264 | [357264-hyperspace-hub-manager.json](./357264-hyperspace-hub-manager.json) |
 | Hyperspace Services | 184085 | [184085-hyperspace-services.json](./184085-hyperspace-services.json) |
 | Hypersudoku Puzzle | 58258 | [58258-hypersudoku-puzzle.json](./58258-hypersudoku-puzzle.json) |
 | Hypertrain | 96430 | [96430-hypertrain.json](./96430-hypertrain.json) |
