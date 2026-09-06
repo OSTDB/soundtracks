@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emma's Armaments | 213017 | [213017-emmas-armaments.json](./213017-emmas-armaments.json) |
 | Emmy II | 62195 | [62195-emmy-ii.json](./62195-emmy-ii.json) |
 | Emmy: The Funny Game | 62196 | [62196-emmy-the-funny-game.json](./62196-emmy-the-funny-game.json) |
+| Emmy's Lab Escape | 364483 | [364483-emmys-lab-escape.json](./364483-emmys-lab-escape.json) |
 | Emoji Battlefield: Summer Vacation | 399636 | [399636-emoji-battlefield-summer-vacation.json](./399636-emoji-battlefield-summer-vacation.json) |
 | Emoji Bomb | 398978 | [398978-emoji-bomb.json](./398978-emoji-bomb.json) |
 | Emoji Craft ! | 103503 | [103503-emoji-craft.json](./103503-emoji-craft.json) |
@@ -802,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit Lab Expert Level | 390493 | [390493-exit-lab-expert-level.json](./390493-exit-lab-expert-level.json) |
 | Exit Lab Intermediate Level | 390492 | [390492-exit-lab-intermediate-level.json](./390492-exit-lab-intermediate-level.json) |
 | Exit Path | 98228 | [98228-exit-path.json](./98228-exit-path.json) |
+| Exit Plan b | 364515 | [364515-exit-plan-b.json](./364515-exit-plan-b.json) |
 | Exit Strategy | 143103 | [143103-exit-strategy.json](./143103-exit-strategy.json) |
 | Exit16: Byilhan Hotel | 305523 | [305523-exit16-byilhan-hotel.json](./305523-exit16-byilhan-hotel.json) |
 | EXO Encounter 667 | 179188 | [179188-exo-encounter-667.json](./179188-exo-encounter-667.json) |
