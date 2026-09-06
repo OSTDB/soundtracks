@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaitou Elf Liely | 246107 | [246107-kaitou-elf-liely.json](./246107-kaitou-elf-liely.json) |
 | Kaiv | 23874 | [23874-kaiv.json](./23874-kaiv.json) |
 | Kaiwa | 290681 | [290681-kaiwa.json](./290681-kaiwa.json) |
+| Kaiyo's Castle | 347182 | [347182-kaiyos-castle.json](./347182-kaiyos-castle.json) |
 | Kaizen Channel Mars TV | 109048 | [109048-kaizen-channel-mars-tv.json](./109048-kaizen-channel-mars-tv.json) |
 | Kaizo Mario Galaxy | 249454 | [249454-kaizo-mario-galaxy.json](./249454-kaizo-mario-galaxy.json) |
 | Kaizo Mario Galaxy: Rebalanced | 262668 | [262668-kaizo-mario-galaxy-rebalanced.json](./262668-kaizo-mario-galaxy-rebalanced.json) |
