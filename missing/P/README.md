@@ -276,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasitus: Ninja Zero | 93628 | [93628-parasitus-ninja-zero.json](./93628-parasitus-ninja-zero.json) |
 | Parasol Fall | 231632 | [231632-parasol-fall.json](./231632-parasol-fall.json) |
 | Parasol Stars: Rainbow Islands 2 | 39027 | [39027-parasol-stars-rainbow-islands-2.json](./39027-parasol-stars-rainbow-islands-2.json) |
+| Parasol Stars: Rainbow Islands II | 316080 | [316080-parasol-stars-rainbow-islands-ii.json](./316080-parasol-stars-rainbow-islands-ii.json) |
 | Paratroopers | 24986 | [24986-paratroopers.json](./24986-paratroopers.json) |
 | Parcel Dash | 350444 | [350444-parcel-dash.json](./350444-parcel-dash.json) |
 | Parcel Delivery Simulator | 377066 | [377066-parcel-delivery-simulator.json](./377066-parcel-delivery-simulator.json) |
@@ -1227,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plush | 24629 | [24629-plush.json](./24629-plush.json) |
 | Plush Shop Simulator | 349852 | [349852-plush-shop-simulator.json](./349852-plush-shop-simulator.json) |
 | Plushie Bomber | 237083 | [237083-plushie-bomber.json](./237083-plushie-bomber.json) |
+| Plusris | 316074 | [316074-plusris.json](./316074-plusris.json) |
 | Plust: Loving U So True | 239874 | [239874-plust-loving-u-so-true.json](./239874-plust-loving-u-so-true.json) |
 | Pluto Lost Its Colors | 318426 | [318426-pluto-lost-its-colors.json](./318426-pluto-lost-its-colors.json) |
 | Plutonia 3: Going to Surface | 260951 | [260951-plutonia-3-going-to-surface.json](./260951-plutonia-3-going-to-surface.json) |
@@ -1683,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Isabella | 36318 | [36318-princess-isabella.json](./36318-princess-isabella.json) |
 | Princess Lili | 107881 | [107881-princess-lili.json](./107881-princess-lili.json) |
 | Princess Lover! | 387346 | [387346-princess-lover.json](./387346-princess-lover.json) |
+| Princess Maker: Children of Revelation | 316082 | [316082-princess-maker-children-of-revelation.json](./316082-princess-maker-children-of-revelation.json) |
 | Princess Miyumi and The Necro's Dungeon | 183570 | [183570-princess-miyumi-and-the-necros-dungeon.json](./183570-princess-miyumi-and-the-necros-dungeon.json) |
 | Princess Nightmare | 72674 | [72674-princess-nightmare.json](./72674-princess-nightmare.json) |
 | Princess of the Tomb | 353862 | [353862-princess-of-the-tomb.json](./353862-princess-of-the-tomb.json) |
@@ -1737,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prizefighters | 239914 | [239914-prizefighters.json](./239914-prizefighters.json) |
 | Prizma Puzzle Classic | 378184 | [378184-prizma-puzzle-classic.json](./378184-prizma-puzzle-classic.json) |
 | Pro Baccarat | 351003 | [351003-pro-baccarat.json](./351003-pro-baccarat.json) |
+| Pro Basketball Manager 2025 | 316054 | [316054-pro-basketball-manager-2025.json](./316054-pro-basketball-manager-2025.json) |
 | Pro Cycling 2009 | 68004 | [68004-pro-cycling-2009.json](./68004-pro-cycling-2009.json) |
 | Pro Cycling Manager 2010 | 67311 | [67311-pro-cycling-manager-2010.json](./67311-pro-cycling-manager-2010.json) |
 | Pro Darts | 49953 | [49953-pro-darts.json](./49953-pro-darts.json) |
@@ -2023,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pump It Up Exceed 2 | 341907 | [341907-pump-it-up-exceed-2.json](./341907-pump-it-up-exceed-2.json) |
 | Pump It Up Infinity | 57715 | [57715-pump-it-up-infinity.json](./57715-pump-it-up-infinity.json) |
 | Pump It Up NX2: Next Xenesis | 57714 | [57714-pump-it-up-nx2-next-xenesis.json](./57714-pump-it-up-nx2-next-xenesis.json) |
+| Pump It Up Zero | 316095 | [316095-pump-it-up-zero.json](./316095-pump-it-up-zero.json) |
 | Pump It Up: Exceed | 43313 | [43313-pump-it-up-exceed.json](./43313-pump-it-up-exceed.json) |
 | Pumped BMX Flow | 174894 | [174894-pumped-bmx-flow.json](./174894-pumped-bmx-flow.json) |
 | Pumpkin Delivery | 242234 | [242234-pumpkin-delivery.json](./242234-pumpkin-delivery.json) |
@@ -2184,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzznic | 295044 | [295044-puzznic.json](./295044-puzznic.json) |
 | Puzznic | 307912 | [307912-puzznic.json](./307912-puzznic.json) |
 | Puzzrama | 152918 | [152918-puzzrama.json](./152918-puzzrama.json) |
+| Puzzsoft’s Cooleidoscope | 316050 | [316050-puzzsoft-s-cooleidoscope.json](./316050-puzzsoft-s-cooleidoscope.json) |
 | Pwn! | 341318 | [341318-pwn.json](./341318-pwn.json) |
 | Px Art | 369573 | [369573-px-art.json](./369573-px-art.json) |
 | PxBeats | 256540 | [256540-pxbeats.json](./256540-pxbeats.json) |
