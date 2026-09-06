@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 1 | 356086 | [356086-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-1.json](./356086-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-1.json) |
 | Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 2 | 356087 | [356087-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-2.json](./356087-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-2.json) |
 | Taiko no Tatsujin: The Drum Master! | 188551 | [188551-taiko-no-tatsujin-the-drum-master.json](./188551-taiko-no-tatsujin-the-drum-master.json) |
+| Taiko on the Web | 337101 | [337101-taiko-on-the-web.json](./337101-taiko-on-the-web.json) |
 | Taikodom | 68016 | [68016-taikodom.json](./68016-taikodom.json) |
 | Taikou Risshiden | 37798 | [37798-taikou-risshiden.json](./37798-taikou-risshiden.json) |
 | Taikyoku Igo: Goliath | 37797 | [37797-taikyoku-igo-goliath.json](./37797-taikyoku-igo-goliath.json) |
@@ -253,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TamaTown Tama-Go | 229958 | [229958-tamatown-tama-go.json](./229958-tamatown-tama-go.json) |
 | Tame It Too! | 310745 | [310745-tame-it-too.json](./310745-tame-it-too.json) |
 | Tamer Saga | 56489 | [56489-tamer-saga.json](./56489-tamer-saga.json) |
+| Tamiigi and the War O' Bunnies | 337106 | [337106-tamiigi-and-the-war-o-bunnies.json](./337106-tamiigi-and-the-war-o-bunnies.json) |
 | Taming the Heart of a Beast | 228067 | [228067-taming-the-heart-of-a-beast.json](./228067-taming-the-heart-of-a-beast.json) |
 | Tamori no Picross 4/23 | 345499 | [345499-tamori-no-picross-4-23.json](./345499-tamori-no-picross-4-23.json) |
 | Tamori no Picross 5/3 | 369029 | [369029-tamori-no-picross-5-3.json](./369029-tamori-no-picross-5-3.json) |
@@ -1223,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Future Devil Must Work! Debt Repayment Arc | 82916 | [82916-the-future-devil-must-work-debt-repayment-arc.json](./82916-the-future-devil-must-work-debt-repayment-arc.json) |
 | The Futurist | 181355 | [181355-the-futurist.json](./181355-the-futurist.json) |
 | The Galactic Plague | 13000 | [13000-the-galactic-plague.json](./13000-the-galactic-plague.json) |
+| The Gallery | 337081 | [337081-the-gallery.json](./337081-the-gallery.json) |
 | The Gallery: Episode 1 - Call of the Starseed | 36432 | [36432-the-gallery-episode-1-call-of-the-starseed.json](./36432-the-gallery-episode-1-call-of-the-starseed.json) |
 | The Game | 187522 | [187522-the-game.json](./187522-the-game.json) |
 | The Game of Bionic Goat | 339099 | [339099-the-game-of-bionic-goat.json](./339099-the-game-of-bionic-goat.json) |
@@ -2288,6 +2291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Voice of Germany: Das offizielle Videospiel! | 332829 | [332829-the-voice-of-germany-das-offizielle-videospiel.json](./332829-the-voice-of-germany-das-offizielle-videospiel.json) |
 | The Voices Games 2D Collection | 208590 | [208590-the-voices-games-2d-collection.json](./208590-the-voices-games-2d-collection.json) |
 | The Void | 3273 | [3273-the-void.json](./3273-the-void.json) |
+| The Void Corridors | 337123 | [337123-the-void-corridors.json](./337123-the-void-corridors.json) |
 | The Volcano | 125463 | [125463-the-volcano.json](./125463-the-volcano.json) |
 | The Vomit | 323535 | [323535-the-vomit.json](./323535-the-vomit.json) |
 | The VR Canyon | 126660 | [126660-the-vr-canyon.json](./126660-the-vr-canyon.json) |
@@ -2318,6 +2322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way To Life | 329971 | [329971-the-way-to-life.json](./329971-the-way-to-life.json) |
 | The Weakest Link & Friends | 86100 | [86100-the-weakest-link-and-friends.json](./86100-the-weakest-link-and-friends.json) |
 | The Weight of a Soul | 230546 | [230546-the-weight-of-a-soul.json](./230546-the-weight-of-a-soul.json) |
+| The Werehouse | 337107 | [337107-the-werehouse.json](./337107-the-werehouse.json) |
 | The Whisper of the Abyss: Echo of Eden | 311256 | [311256-the-whisper-of-the-abyss-echo-of-eden.json](./311256-the-whisper-of-the-abyss-echo-of-eden.json) |
 | The Whispering Bones | 389400 | [389400-the-whispering-bones.json](./389400-the-whispering-bones.json) |
 | The White Flower | 392801 | [392801-the-white-flower.json](./392801-the-white-flower.json) |
@@ -3488,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transient: Extended Edition | 186911 | [186911-transient-extended-edition.json](./186911-transient-extended-edition.json) |
 | Transit | 365113 | [365113-transit.json](./365113-transit.json) |
 | TransMemory | 318802 | [318802-transmemory.json](./318802-transmemory.json) |
+| Transparent Black: Wish | 337100 | [337100-transparent-black-wish.json](./337100-transparent-black-wish.json) |
 | Transport Fever 2 | 117820 | [117820-transport-fever-2.json](./117820-transport-fever-2.json) |
 | Transport Giant: Down Under | 9445 | [9445-transport-giant-down-under.json](./9445-transport-giant-down-under.json) |
 | Transport Giant: Gold Edition 2012 | 53856 | [53856-transport-giant-gold-edition-2012.json](./53856-transport-giant-gold-edition-2012.json) |
