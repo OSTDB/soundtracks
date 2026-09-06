@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Hide and Seek | 220349 | [220349-backrooms-hide-and-seek.json](./220349-backrooms-hide-and-seek.json) |
 | Backrooms: Duck Escape | 378180 | [378180-backrooms-duck-escape.json](./378180-backrooms-duck-escape.json) |
 | Backrooms: Meg Archives | 292297 | [292297-backrooms-meg-archives.json](./292297-backrooms-meg-archives.json) |
+| Backrooms: Reminiscence | 366831 | [366831-backrooms-reminiscence.json](./366831-backrooms-reminiscence.json) |
 | Backstage Pass | 234907 | [234907-backstage-pass.json](./234907-backstage-pass.json) |
 | Backstage: Murdered Sleep | 297777 | [297777-backstage-murdered-sleep.json](./297777-backstage-murdered-sleep.json) |
 | Backstory | 406102 | [406102-backstory.json](./406102-backstory.json) |
