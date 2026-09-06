@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Chase Monster | 219254 | [219254-escape-chase-monster.json](./219254-escape-chase-monster.json) |
 | Escape Condition | 219255 | [219255-escape-condition.json](./219255-escape-condition.json) |
 | Escape Depths of Immanis | 322989 | [322989-escape-depths-of-immanis.json](./322989-escape-depths-of-immanis.json) |
+| Escape DuckZ! | 329019 | [329019-escape-duckz.json](./329019-escape-duckz.json) |
 | Escape Evolution | 179180 | [179180-escape-evolution.json](./179180-escape-evolution.json) |
 | Escape First | 97243 | [97243-escape-first.json](./97243-escape-first.json) |
 | Escape from 1927 | 240498 | [240498-escape-from-1927.json](./240498-escape-from-1927.json) |
@@ -643,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Simulator: Spy | 365719 | [365719-escape-simulator-spy.json](./365719-escape-simulator-spy.json) |
 | Escape the Backrooms Bodycam | 360006 | [360006-escape-the-backrooms-bodycam.json](./360006-escape-the-backrooms-bodycam.json) |
 | Escape The Escape Rooms | 237066 | [237066-escape-the-escape-rooms.json](./237066-escape-the-escape-rooms.json) |
+| Escape the Floor | 329011 | [329011-escape-the-floor.json](./329011-escape-the-floor.json) |
 | Escape the Marine Lab | 406693 | [406693-escape-the-marine-lab.json](./406693-escape-the-marine-lab.json) |
 | Escape the Museum | 6668 | [6668-escape-the-museum.json](./6668-escape-the-museum.json) |
 | Escape the past Collection | 177053 | [177053-escape-the-past-collection.json](./177053-escape-the-past-collection.json) |
