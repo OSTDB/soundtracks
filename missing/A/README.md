@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dog Called Buddy | 341469 | [341469-a-dog-called-buddy.json](./341469-a-dog-called-buddy.json) |
 | A Doodle Fly | 241045 | [241045-a-doodle-fly.json](./241045-a-doodle-fly.json) |
 | A Dream of Silence | 317637 | [317637-a-dream-of-silence.json](./317637-a-dream-of-silence.json) |
+| A Dual Ascent | 327839 | [327839-a-dual-ascent.json](./327839-a-dual-ascent.json) |
 | A Factory Job | 192455 | [192455-a-factory-job.json](./192455-a-factory-job.json) |
 | A Farewell to Dragons | 20667 | [20667-a-farewell-to-dragons.json](./20667-a-farewell-to-dragons.json) |
 | A Father's Tale | 357791 | [357791-a-fathers-tale.json](./357791-a-fathers-tale.json) |
@@ -112,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lozenge | 138252 | [138252-a-lozenge.json](./138252-a-lozenge.json) |
 | A Lucky First Turnabout: A Klavier Gavin Story | 308550 | [308550-a-lucky-first-turnabout-a-klavier-gavin-story.json](./308550-a-lucky-first-turnabout-a-klavier-gavin-story.json) |
 | A Mafia Escape | 351034 | [351034-a-mafia-escape.json](./351034-a-mafia-escape.json) |
+| A Magical Friday Night: Vs. Holy Quintet | 327857 | [327857-a-magical-friday-night-vs-holy-quintet.json](./327857-a-magical-friday-night-vs-holy-quintet.json) |
 | A Magical Tale: Revoke DX | 381603 | [381603-a-magical-tale-revoke-dx.json](./381603-a-magical-tale-revoke-dx.json) |
 | A Maiden Astrologer Divines the Future | 229349 | [229349-a-maiden-astrologer-divines-the-future.json](./229349-a-maiden-astrologer-divines-the-future.json) |
 | A Maiden's Serenade | 302680 | [302680-a-maidens-serenade.json](./302680-a-maidens-serenade.json) |
@@ -1809,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aron's Gift | 96100 | [96100-arons-gift.json](./96100-arons-gift.json) |
 | Around the Fire | 157166 | [157166-around-the-fire.json](./157166-around-the-fire.json) |
 | Around the World: Travel to Brazil | 269287 | [269287-around-the-world-travel-to-brazil.json](./269287-around-the-world-travel-to-brazil.json) |
+| Arras.io | 327193 | [327193-arras-io.json](./327193-arras-io.json) |
 | Arraynium | 68716 | [68716-arraynium.json](./68716-arraynium.json) |
 | Arrest of a Stone Buddha | 122373 | [122373-arrest-of-a-stone-buddha.json](./122373-arrest-of-a-stone-buddha.json) |
 | Arrival, or Attack of the B-Movie Clichés | 314038 | [314038-arrival-or-attack-of-the-b-movie-cliches.json](./314038-arrival-or-attack-of-the-b-movie-cliches.json) |
@@ -1820,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ars Mechanica | 382198 | [382198-ars-mechanica.json](./382198-ars-mechanica.json) |
 | ArsDoom | 180260 | [180260-arsdoom.json](./180260-arsdoom.json) |
 | Arsenal | 188635 | [188635-arsenal.json](./188635-arsenal.json) |
+| Arsenic & Absinthe | 327191 | [327191-arsenic-and-absinthe.json](./327191-arsenic-and-absinthe.json) |
 | Arson | 223660 | [223660-arson.json](./223660-arson.json) |
 | Arson & Plunder: Unleashed | 36323 | [36323-arson-and-plunder-unleashed.json](./36323-arson-and-plunder-unleashed.json) |
 | Art Academy: First Semester | 79260 | [79260-art-academy-first-semester.json](./79260-art-academy-first-semester.json) |
