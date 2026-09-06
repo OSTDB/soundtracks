@@ -671,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wireball | 121721 | [121721-wireball.json](./121721-wireball.json) |
 | Wired | 105334 | [105334-wired.json](./105334-wired.json) |
 | Wirtschaftsgiganten | 98968 | [98968-wirtschaftsgiganten.json](./98968-wirtschaftsgiganten.json) |
+| Wish on this Flower | 360611 | [360611-wish-on-this-flower.json](./360611-wish-on-this-flower.json) |
 | Wish Stone: Nonogram | 312363 | [312363-wish-stone-nonogram.json](./312363-wish-stone-nonogram.json) |
 | Wish Upon a Block | 388707 | [388707-wish-upon-a-block.json](./388707-wish-upon-a-block.json) |
 | Wish You All the Best | 402934 | [402934-wish-you-all-the-best.json](./402934-wish-you-all-the-best.json) |
@@ -1060,4 +1061,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWII: Tank Battle Arena | 225896 | [225896-wwii-tank-battle-arena.json](./225896-wwii-tank-battle-arena.json) |
 | WWTF | 110369 | [110369-wwtf.json](./110369-wwtf.json) |
 | Wyld Land | 334480 | [334480-wyld-land.json](./334480-wyld-land.json) |
+| Wyrd World | 360571 | [360571-wyrd-world.json](./360571-wyrd-world.json) |
 | WyrmBound | 290721 | [290721-wyrmbound.json](./290721-wyrmbound.json) |
