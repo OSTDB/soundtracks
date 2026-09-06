@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanae no Chou Tokkyuu: TheExpressTrial | 206929 | [206929-sanae-no-chou-tokkyuu-theexpresstrial.json](./206929-sanae-no-chou-tokkyuu-theexpresstrial.json) |
 | Sanae's Sylphid Breeze | 300377 | [300377-sanaes-sylphid-breeze.json](./300377-sanaes-sylphid-breeze.json) |
 | Sanalika | 180296 | [180296-sanalika.json](./180296-sanalika.json) |
+| Sanctale | 350431 | [350431-sanctale.json](./350431-sanctale.json) |
 | Sancticide | 291154 | [291154-sancticide.json](./291154-sancticide.json) |
 | Sanction | 203533 | [203533-sanction.json](./203533-sanction.json) |
 | Sanctuarium Online | 191858 | [191858-sanctuarium-online.json](./191858-sanctuarium-online.json) |
@@ -229,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandy & Junior: Aventura Virtual | 132863 | [132863-sandy-and-junior-aventura-virtual.json](./132863-sandy-and-junior-aventura-virtual.json) |
 | Sangoku Hime 2 | 63301 | [63301-sangoku-hime-2.json](./63301-sangoku-hime-2.json) |
 | Sangoku Stories Ten | 222510 | [222510-sangoku-stories-ten.json](./222510-sangoku-stories-ten.json) |
+| Sangokushi 11: Power Up Kit | 350410 | [350410-sangokushi-11-power-up-kit.json](./350410-sangokushi-11-power-up-kit.json) |
 | Sangokushi Taisen 3 War Begins | 64974 | [64974-sangokushi-taisen-3-war-begins.json](./64974-sangokushi-taisen-3-war-begins.json) |
 | Sangokushi: Chuugen no Hasha | 64448 | [64448-sangokushi-chuugen-no-hasha.json](./64448-sangokushi-chuugen-no-hasha.json) |
 | Sanguine | 260425 | [260425-sanguine.json](./260425-sanguine.json) |
@@ -718,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Setsuna ni Kakeru Koi Hanabi | 302683 | [302683-setsuna-ni-kakeru-koi-hanabi.json](./302683-setsuna-ni-kakeru-koi-hanabi.json) |
 | Setteeh | 312883 | [312883-setteeh.json](./312883-setteeh.json) |
 | Settlemoon | 253593 | [253593-settlemoon.json](./253593-settlemoon.json) |
+| Setup Savior | 350448 | [350448-setup-savior.json](./350448-setup-savior.json) |
 | Seul (Alone): The entrée | 107863 | [107863-seul-alone-the-entree.json](./107863-seul-alone-the-entree.json) |
 | Seum: The Drunk Side of the Moon | 104676 | [104676-seum-the-drunk-side-of-the-moon.json](./104676-seum-the-drunk-side-of-the-moon.json) |
 | Seven Bullets Zombie Apocalypse | 117062 | [117062-seven-bullets-zombie-apocalypse.json](./117062-seven-bullets-zombie-apocalypse.json) |
@@ -1331,6 +1334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siralim 3 | 100422 | [100422-siralim-3.json](./100422-siralim-3.json) |
 | Siren Head: Stranded | 309120 | [309120-siren-head-stranded.json](./309120-siren-head-stranded.json) |
 | Siren Head: The Arrival | 312360 | [312360-siren-head-the-arrival.json](./312360-siren-head-the-arrival.json) |
+| Siren Sands | 350418 | [350418-siren-sands.json](./350418-siren-sands.json) |
 | Siren's Call: Escape Velocity | 258728 | [258728-sirens-call-escape-velocity.json](./258728-sirens-call-escape-velocity.json) |
 | Sisyphus Is a Bug | 372456 | [372456-sisyphus-is-a-bug.json](./372456-sisyphus-is-a-bug.json) |
 | Sitnalta | 268762 | [268762-sitnalta.json](./268762-sitnalta.json) |
@@ -1459,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyOfSteel | 177017 | [177017-skyofsteel.json](./177017-skyofsteel.json) |
 | SkyRider ADV | 90696 | [90696-skyrider-adv.json](./90696-skyrider-adv.json) |
 | Skyscraper | 9422 | [9422-skyscraper.json](./9422-skyscraper.json) |
+| Skyvern | 350422 | [350422-skyvern.json](./350422-skyvern.json) |
 | Skyward | 117099 | [117099-skyward.json](./117099-skyward.json) |
 | Skyweaver | 123039 | [123039-skyweaver.json](./123039-skyweaver.json) |
 | Slag | 70398 | [70398-slag.json](./70398-slag.json) |
@@ -2844,6 +2849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarDust: Endless | 105948 | [105948-stardust-endless.json](./105948-stardust-endless.json) |
 | Stares Back | 375854 | [375854-stares-back.json](./375854-stares-back.json) |
 | Starexcess | 124248 | [124248-starexcess.json](./124248-starexcess.json) |
+| Starfall Defenders | 350433 | [350433-starfall-defenders.json](./350433-starfall-defenders.json) |
 | Starfall Online | 131612 | [131612-starfall-online.json](./131612-starfall-online.json) |
 | Starfield Digipick-Locking Minigame Simulator | 269304 | [269304-starfield-digipick-locking-minigame-simulator.json](./269304-starfield-digipick-locking-minigame-simulator.json) |
 | Starfighter 77 | 138810 | [138810-starfighter-77.json](./138810-starfighter-77.json) |
@@ -2979,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Bewitching | 314057 | [314057-stellar-bewitching.json](./314057-stellar-bewitching.json) |
 | Stellar Blade x Nier: Automata | 317626 | [317626-stellar-blade-x-nier-automata.json](./317626-stellar-blade-x-nier-automata.json) |
 | Stellar Dawn | 67338 | [67338-stellar-dawn.json](./67338-stellar-dawn.json) |
+| Stellar Destiny: The Last Survivor | 350427 | [350427-stellar-destiny-the-last-survivor.json](./350427-stellar-destiny-the-last-survivor.json) |
 | Stellar Echoes: Boxing Champion | 263747 | [263747-stellar-echoes-boxing-champion.json](./263747-stellar-echoes-boxing-champion.json) |
 | Stellar Echoes: Brave Trial | 263746 | [263746-stellar-echoes-brave-trial.json](./263746-stellar-echoes-brave-trial.json) |
 | Stellar Echoes: Maze Shooter | 263748 | [263748-stellar-echoes-maze-shooter.json](./263748-stellar-echoes-maze-shooter.json) |
@@ -3784,6 +3791,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sketchy Party | 167294 | [167294-super-sketchy-party.json](./167294-super-sketchy-party.json) |
 | Super Skyland | 175406 | [175406-super-skyland.json](./175406-super-skyland.json) |
 | Super Slinger | 192958 | [192958-super-slinger.json](./192958-super-slinger.json) |
+| Super Smash Bros Ultimate: Martial Artist Gi and Wig | 350408 | [350408-super-smash-bros-ultimate-martial-artist-gi-and-wig.json](./350408-super-smash-bros-ultimate-martial-artist-gi-and-wig.json) |
+| Super Smash Bros Ultimate: Veronica's Outfit and Hat | 350409 | [350409-super-smash-bros-ultimate-veronicas-outfit-and-hat.json](./350409-super-smash-bros-ultimate-veronicas-outfit-and-hat.json) |
 | Super Smash Bros. Alternate Universe | 358315 | [358315-super-smash-bros-alternate-universe.json](./358315-super-smash-bros-alternate-universe.json) |
 | Super Smash Bros. Crusade Remix | 408816 | [408816-super-smash-bros-crusade-remix.json](./408816-super-smash-bros-crusade-remix.json) |
 | Super Smash Bros. Ultimate: Goku Mod | 242815 | [242815-super-smash-bros-ultimate-goku-mod.json](./242815-super-smash-bros-ultimate-goku-mod.json) |
@@ -3831,6 +3840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Wash Simulator | 391040 | [391040-super-wash-simulator.json](./391040-super-wash-simulator.json) |
 | Super Weapon Master | 213044 | [213044-super-weapon-master.json](./213044-super-weapon-master.json) |
 | Super Weekend Mode | 96642 | [96642-super-weekend-mode.json](./96642-super-weekend-mode.json) |
+| Super Woden: Rally Edge | 350456 | [350456-super-woden-rally-edge.json](./350456-super-woden-rally-edge.json) |
 | Super Words | 258216 | [258216-super-words.json](./258216-super-words.json) |
 | Super World Run: Bosses | 253004 | [253004-super-world-run-bosses.json](./253004-super-world-run-bosses.json) |
 | Super World Stadium '99 | 311293 | [311293-super-world-stadium-99.json](./311293-super-world-stadium-99.json) |
