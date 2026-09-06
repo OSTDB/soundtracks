@@ -364,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus Madness: Dungeons of your Body | 161373 | [161373-virus-madness-dungeons-of-your-body.json](./161373-virus-madness-dungeons-of-your-body.json) |
 | Virus: The Battle Field | 177034 | [177034-virus-the-battle-field.json](./177034-virus-the-battle-field.json) |
 | Virus: The Outbreak | 147478 | [147478-virus-the-outbreak.json](./147478-virus-the-outbreak.json) |
+| ViruStream | 331878 | [331878-virustream.json](./331878-virustream.json) |
 | Virusum | 210860 | [210860-virusum.json](./210860-virusum.json) |
 | Visceral Cubes | 96462 | [96462-visceral-cubes.json](./96462-visceral-cubes.json) |
 | Vision | 88326 | [88326-vision.json](./88326-vision.json) |
@@ -523,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Vemny & Friends | 302648 | [302648-vs-vemny-and-friends.json](./302648-vs-vemny-and-friends.json) |
 | VTOL VR: AH-94 Attack Helicopter | 319396 | [319396-vtol-vr-ah-94-attack-helicopter.json](./319396-vtol-vr-ah-94-attack-helicopter.json) |
 | Vtoraya Mirovaya: Izdanie Vtoroe | 84277 | [84277-vtoraya-mirovaya-izdanie-vtoroe.json](./84277-vtoraya-mirovaya-izdanie-vtoroe.json) |
+| VTuber Battle: It’s Not About Subscribers! It’s All About Power! | 331888 | [331888-vtuber-battle-it-s-not-about-subscribers-it-s-all-about-power.json](./331888-vtuber-battle-it-s-not-about-subscribers-it-s-all-about-power.json) |
 | Vulcan 3055 | 110331 | [110331-vulcan-3055.json](./110331-vulcan-3055.json) |
 | Vulcan Sacrifice | 53880 | [53880-vulcan-sacrifice.json](./53880-vulcan-sacrifice.json) |
 | VVVVVV | 1990 | [1990-vvvvvv.json](./1990-vvvvvv.json) |
