@@ -106,7 +106,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo 3 & Fable II Double Pack | 141865 | [141865-halo-3-and-fable-ii-double-pack.json](./141865-halo-3-and-fable-ii-double-pack.json) |
 | Halo 3: Legendary Edition | 43955 | [43955-halo-3-legendary-edition.json](./43955-halo-3-legendary-edition.json) |
 | Halo 4: King of the Hill Fueled by Mountain Dew | 77343 | [77343-halo-4-king-of-the-hill-fueled-by-mountain-dew.json](./77343-halo-4-king-of-the-hill-fueled-by-mountain-dew.json) |
+| Halo Infinite: Operation - Champions | 335851 | [335851-halo-infinite-operation-champions.json](./335851-halo-infinite-operation-champions.json) |
+| Halo Infinite: Operation - Great Journey | 335849 | [335849-halo-infinite-operation-great-journey.json](./335849-halo-infinite-operation-great-journey.json) |
+| Halo Infinite: Operation - Snowbound | 335848 | [335848-halo-infinite-operation-snowbound.json](./335848-halo-infinite-operation-snowbound.json) |
 | Halo Infinite: Operation - Warpath | 367399 | [367399-halo-infinite-operation-warpath.json](./367399-halo-infinite-operation-warpath.json) |
+| Halo Infinte: Operation - Anvil | 335852 | [335852-halo-infinte-operation-anvil.json](./335852-halo-infinte-operation-anvil.json) |
 | Halo Roll | 108485 | [108485-halo-roll.json](./108485-halo-roll.json) |
 | Halo Wars 2: Ultimate Edition | 27765 | [27765-halo-wars-2-ultimate-edition.json](./27765-halo-wars-2-ultimate-edition.json) |
 | Halo Wars: Limited Edition | 43956 | [43956-halo-wars-limited-edition.json](./43956-halo-wars-limited-edition.json) |
@@ -173,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hansel and Gretel and the Enchanted Castle | 46641 | [46641-hansel-and-gretel-and-the-enchanted-castle.json](./46641-hansel-and-gretel-and-the-enchanted-castle.json) |
 | Hanz Puppetguns | 106619 | [106619-hanz-puppetguns.json](./106619-hanz-puppetguns.json) |
 | Hàoyuè Kōnghuá | 112991 | [112991-haoyue-konghua.json](./112991-haoyue-konghua.json) |
+| Hapland 2 | 335873 | [335873-hapland-2.json](./335873-hapland-2.json) |
 | Happily Ever After | 48024 | [48024-happily-ever-after.json](./48024-happily-ever-after.json) |
 | Happiness | 184120 | [184120-happiness.json](./184120-happiness.json) |
 | Happy Aquarium | 250638 | [250638-happy-aquarium.json](./250638-happy-aquarium.json) |
@@ -651,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Zex | 191254 | [191254-hero-zex.json](./191254-hero-zex.json) |
 | Hero: Flood Rescue | 118428 | [118428-hero-flood-rescue.json](./118428-hero-flood-rescue.json) |
 | Hero's Everyday Life | 157706 | [157706-heros-everyday-life.json](./157706-heros-everyday-life.json) |
+| Hero's Hand | 335866 | [335866-heros-hand.json](./335866-heros-hand.json) |
 | Hero's Quest: Automatic Roguelite RPG | 199663 | [199663-heros-quest-automatic-roguelite-rpg.json](./199663-heros-quest-automatic-roguelite-rpg.json) |
 | Hero's Quest: Lost Memories | 251836 | [251836-heros-quest-lost-memories.json](./251836-heros-quest-lost-memories.json) |
 | Hero's War | 224214 | [224214-heros-war.json](./224214-heros-war.json) |
@@ -1410,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperflex Ultra | 355562 | [355562-hyperflex-ultra.json](./355562-hyperflex-ultra.json) |
 | Hyperhell | 235965 | [235965-hyperhell.json](./235965-hyperhell.json) |
 | Hyperlight Survivor | 261553 | [261553-hyperlight-survivor.json](./261553-hyperlight-survivor.json) |
+| Hypermarket Simulator | 335855 | [335855-hypermarket-simulator.json](./335855-hypermarket-simulator.json) |
 | Hypermind | 193471 | [193471-hypermind.json](./193471-hypermind.json) |
 | HyperParasite | 101257 | [101257-hyperparasite.json](./101257-hyperparasite.json) |
 | Hyperspace Hub Manager | 357264 | [357264-hyperspace-hub-manager.json](./357264-hyperspace-hub-manager.json) |
