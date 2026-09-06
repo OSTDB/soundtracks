@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeliCat | 256533 | [256533-delicat.json](./256533-delicat.json) |
 | Delicious Fruitworld | 173309 | [173309-delicious-fruitworld.json](./173309-delicious-fruitworld.json) |
 | Delicious World | 227476 | [227476-delicious-world.json](./227476-delicious-world.json) |
+| Delicious: Emily's Big Surprise | 322569 | [322569-delicious-emilys-big-surprise.json](./322569-delicious-emilys-big-surprise.json) |
 | Delicious: Emily's Taste of Fame | 89222 | [89222-delicious-emilys-taste-of-fame.json](./89222-delicious-emilys-taste-of-fame.json) |
 | Delirium | 293898 | [293898-delirium.json](./293898-delirium.json) |
 | Delirium | 320553 | [320553-delirium.json](./320553-delirium.json) |
@@ -825,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desperate Place | 335290 | [335290-desperate-place.json](./335290-desperate-place.json) |
 | Despicable Me: The Game | 19652 | [19652-despicable-me-the-game.json](./19652-despicable-me-the-game.json) |
 | Desstroke | 207505 | [207505-desstroke.json](./207505-desstroke.json) |
+| Destination | 322576 | [322576-destination.json](./322576-destination.json) |
 | Destination Bangkok | 214756 | [214756-destination-bangkok.json](./214756-destination-bangkok.json) |
 | Destination Dungeons: Catacombs of Dreams | 103482 | [103482-destination-dungeons-catacombs-of-dreams.json](./103482-destination-dungeons-catacombs-of-dreams.json) |
 | Destination Earthstar | 22410 | [22410-destination-earthstar.json](./22410-destination-earthstar.json) |
@@ -2175,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust Dasher | 135280 | [135280-dust-dasher.json](./135280-dust-dasher.json) |
 | Dust Fleet | 133464 | [133464-dust-fleet.json](./133464-dust-fleet.json) |
 | Dust to Dusk | 138831 | [138831-dust-to-dusk.json](./138831-dust-to-dusk.json) |
+| Dustbunny: Emotions to Plants | 322598 | [322598-dustbunny-emotions-to-plants.json](./322598-dustbunny-emotions-to-plants.json) |
 | Dustland | 260393 | [260393-dustland.json](./260393-dustland.json) |
 | Dustwun | 83561 | [83561-dustwun.json](./83561-dustwun.json) |
 | Dusty's Challenge | 359392 | [359392-dustys-challenge.json](./359392-dustys-challenge.json) |
