@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Survival 3D | 409578 | [409578-zombie-survival-3d.json](./409578-zombie-survival-3d.json) |
 | Zombie Tactics | 314671 | [314671-zombie-tactics.json](./314671-zombie-tactics.json) |
 | Zombie Teacher | 99608 | [99608-zombie-teacher.json](./99608-zombie-teacher.json) |
+| Zombie Tide Incoming Final Defense | 329596 | [329596-zombie-tide-incoming-final-defense.json](./329596-zombie-tide-incoming-final-defense.json) |
 | Zombie Town Online | 101607 | [101607-zombie-town-online.json](./101607-zombie-town-online.json) |
 | Zombie Towns | 129216 | [129216-zombie-towns.json](./129216-zombie-towns.json) |
 | Zombie vs. Human | 177026 | [177026-zombie-vs-human.json](./177026-zombie-vs-human.json) |
