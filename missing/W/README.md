@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird Al's Great Adventure | 55933 | [55933-weird-als-great-adventure.json](./55933-weird-als-great-adventure.json) |
 | Weird Cities | 386698 | [386698-weird-cities.json](./386698-weird-cities.json) |
 | Weird Dreams | 12232 | [12232-weird-dreams.json](./12232-weird-dreams.json) |
+| WeirdParisGame | 353872 | [353872-weirdparisgame.json](./353872-weirdparisgame.json) |
 | Weirdshine | 395557 | [395557-weirdshine.json](./395557-weirdshine.json) |
 | Welcome Back | 153992 | [153992-welcome-back.json](./153992-welcome-back.json) |
 | Welcome Demon | 397666 | [397666-welcome-demon.json](./397666-welcome-demon.json) |
@@ -453,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is the Meaning? | 161396 | [161396-where-is-the-meaning.json](./161396-where-is-the-meaning.json) |
 | Where Sea Foam Fades | 364488 | [364488-where-sea-foam-fades.json](./364488-where-sea-foam-fades.json) |
 | Where the Anemones Bloom | 302118 | [302118-where-the-anemones-bloom.json](./302118-where-the-anemones-bloom.json) |
+| Where the Chips Fall | 353859 | [353859-where-the-chips-fall.json](./353859-where-the-chips-fall.json) |
 | Where the Demon Lurks | 209631 | [209631-where-the-demon-lurks.json](./209631-where-the-demon-lurks.json) |
 | Where the Forest Lies | 364532 | [364532-where-the-forest-lies.json](./364532-where-the-forest-lies.json) |
 | Where the Fuck is Richard? | 62777 | [62777-where-the-fuck-is-richard.json](./62777-where-the-fuck-is-richard.json) |
