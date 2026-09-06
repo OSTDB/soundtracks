@@ -628,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Castles | 319975 | [319975-age-of-castles.json](./319975-age-of-castles.json) |
 | Age of Conan: Unchained | 16402 | [16402-age-of-conan-unchained.json](./16402-age-of-conan-unchained.json) |
 | Age of Conquest IV | 36268 | [36268-age-of-conquest-iv.json](./36268-age-of-conquest-iv.json) |
+| Age Of Dynasties | 317827 | [317827-age-of-dynasties.json](./317827-age-of-dynasties.json) |
 | Age of Dynasties: Shogun | 219260 | [219260-age-of-dynasties-shogun.json](./219260-age-of-dynasties-shogun.json) |
 | Age of Empires II Mobile | 144346 | [144346-age-of-empires-ii-mobile.json](./144346-age-of-empires-ii-mobile.json) |
 | Age of Empires II: Definitive Edition | 55056 | [55056-age-of-empires-ii-definitive-edition.json](./55056-age-of-empires-ii-definitive-edition.json) |
@@ -640,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Gladiators | 33545 | [33545-age-of-gladiators.json](./33545-age-of-gladiators.json) |
 | Age of Goblins | 265403 | [265403-age-of-goblins.json](./265403-age-of-goblins.json) |
 | Age of Grit | 61074 | [61074-age-of-grit.json](./61074-age-of-grit.json) |
+| Age of Mythology: Retold - Immortal Pillars | 317873 | [317873-age-of-mythology-retold-immortal-pillars.json](./317873-age-of-mythology-retold-immortal-pillars.json) |
 | Age of Mythology: Tale of the Dragon | 13186 | [13186-age-of-mythology-tale-of-the-dragon.json](./13186-age-of-mythology-tale-of-the-dragon.json) |
 | Age of Ottoman | 200739 | [200739-age-of-ottoman.json](./200739-age-of-ottoman.json) |
 | Age of Respair | 350402 | [350402-age-of-respair.json](./350402-age-of-respair.json) |
@@ -2269,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automata 10 Pack Volume 2 | 258188 | [258188-automata-10-pack-volume-2.json](./258188-automata-10-pack-volume-2.json) |
 | Automata Break | 139455 | [139455-automata-break.json](./139455-automata-break.json) |
 | Automatica | 217013 | [217013-automatica.json](./217013-automatica.json) |
+| Automaton Heart | 317850 | [317850-automaton-heart.json](./317850-automaton-heart.json) |
 | Automobilista | 19442 | [19442-automobilista.json](./19442-automobilista.json) |
 | Automobilista 2: Adrenaline Pack Pt2 | 352745 | [352745-automobilista-2-adrenaline-pack-pt2.json](./352745-automobilista-2-adrenaline-pack-pt2.json) |
 | Automobilista 2: Endurance Pack Pt2 | 352739 | [352739-automobilista-2-endurance-pack-pt2.json](./352739-automobilista-2-endurance-pack-pt2.json) |
