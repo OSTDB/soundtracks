@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of the Haunting | 844 | [844-realms-of-the-haunting.json](./844-realms-of-the-haunting.json) |
 | Reanimated | 274205 | [274205-reanimated.json](./274205-reanimated.json) |
 | Reap: We Reap What Crawls | 363874 | [363874-reap-we-reap-what-crawls.json](./363874-reap-we-reap-what-crawls.json) |
+| Reaper Actual | 352748 | [352748-reaper-actual.json](./352748-reaper-actual.json) |
 | Reaper's Awakening! | 363896 | [363896-reapers-awakening.json](./363896-reapers-awakening.json) |
 | Reaper's Isle | 255968 | [255968-reapers-isle.json](./255968-reapers-isle.json) |
 | Rear Pheles: Red of Another | 59446 | [59446-rear-pheles-red-of-another.json](./59446-rear-pheles-red-of-another.json) |
@@ -1153,6 +1154,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman 3: Claw | 269880 | [269880-rockman-3-claw.json](./269880-rockman-3-claw.json) |
 | Rockman 7 FC | 137115 | [137115-rockman-7-fc.json](./137115-rockman-7-fc.json) |
 | Rockman 8 FC | 137116 | [137116-rockman-8-fc.json](./137116-rockman-8-fc.json) |
+| Rockman EXE 5: Kaizou Card - Part 1 | 352754 | [352754-rockman-exe-5-kaizou-card-part-1.json](./352754-rockman-exe-5-kaizou-card-part-1.json) |
+| Rockman EXE 5: Kaizou Card - Part 2 | 352756 | [352756-rockman-exe-5-kaizou-card-part-2.json](./352756-rockman-exe-5-kaizou-card-part-2.json) |
+| Rockman EXE 6: Kaizou Card - Part 1 | 352736 | [352736-rockman-exe-6-kaizou-card-part-1.json](./352736-rockman-exe-6-kaizou-card-part-1.json) |
+| Rockman EXE 6: Kaizou Card - Part 2 | 352738 | [352738-rockman-exe-6-kaizou-card-part-2.json](./352738-rockman-exe-6-kaizou-card-part-2.json) |
 | Rockman EXE Legend of Network | 265959 | [265959-rockman-exe-legend-of-network.json](./265959-rockman-exe-legend-of-network.json) |
 | Rockman EXE Phantom of Network | 265957 | [265957-rockman-exe-phantom-of-network.json](./265957-rockman-exe-phantom-of-network.json) |
 | Rockman GP | 309669 | [309669-rockman-gp.json](./309669-rockman-gp.json) |
