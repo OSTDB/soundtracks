@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dating Game | 65534 | [65534-the-dating-game.json](./65534-the-dating-game.json) |
 | The Dawn is Inevitable | 249461 | [249461-the-dawn-is-inevitable.json](./249461-the-dawn-is-inevitable.json) |
 | The Dawn Obscura | 341494 | [341494-the-dawn-obscura.json](./341494-the-dawn-obscura.json) |
+| The Dawn Of Slenderman | 321358 | [321358-the-dawn-of-slenderman.json](./321358-the-dawn-of-slenderman.json) |
 | The Dawn: Sniper's Way | 189207 | [189207-the-dawn-snipers-way.json](./189207-the-dawn-snipers-way.json) |
 | The Day Nothing Happened | 70379 | [70379-the-day-nothing-happened.json](./70379-the-day-nothing-happened.json) |
 | The Day the World Broke | 7721 | [7721-the-day-the-world-broke.json](./7721-the-day-the-world-broke.json) |
@@ -2145,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sovereign | 350447 | [350447-the-sovereign.json](./350447-the-sovereign.json) |
 | The Spectrum Retreat | 96065 | [96065-the-spectrum-retreat.json](./96065-the-spectrum-retreat.json) |
 | The Speris Legacy | 15565 | [15565-the-speris-legacy.json](./15565-the-speris-legacy.json) |
+| The Spire of Mech Zero | 321389 | [321389-the-spire-of-mech-zero.json](./321389-the-spire-of-mech-zero.json) |
 | The Spirit's Turnabout | 308532 | [308532-the-spirits-turnabout.json](./308532-the-spirits-turnabout.json) |
 | The Spooky Island | 394167 | [394167-the-spooky-island.json](./394167-the-spooky-island.json) |
 | The Sporting News Baseball | 55154 | [55154-the-sporting-news-baseball.json](./55154-the-sporting-news-baseball.json) |
@@ -2281,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower SP | 6639 | [6639-the-tower-sp.json](./6639-the-tower-sp.json) |
 | The Town of Downpour | 387334 | [387334-the-town-of-downpour.json](./387334-the-town-of-downpour.json) |
 | The Town Secrets | 275912 | [275912-the-town-secrets.json](./275912-the-town-secrets.json) |
+| The Traded Groom | 321352 | [321352-the-traded-groom.json](./321352-the-traded-groom.json) |
 | The Trader | 159881 | [159881-the-trader.json](./159881-the-trader.json) |
 | The Train Can't Escape Without XXX!? | 353915 | [353915-the-train-cant-escape-without-xxx.json](./353915-the-train-cant-escape-without-xxx.json) |
 | The Trap | 196838 | [196838-the-trap.json](./196838-the-trap.json) |
@@ -2846,6 +2849,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilted: A Tale of Refraction | 51947 | [51947-tilted-a-tale-of-refraction.json](./51947-tilted-a-tale-of-refraction.json) |
 | Tilting Tiles: Fires of Industry | 319945 | [319945-tilting-tiles-fires-of-industry.json](./319945-tilting-tiles-fires-of-industry.json) |
 | Tim & Bear at the Airport | 127323 | [127323-tim-and-bear-at-the-airport.json](./127323-tim-and-bear-at-the-airport.json) |
+| Tim 7: Au Secours De Clara | 321348 | [321348-tim-7-au-secours-de-clara.json](./321348-tim-7-au-secours-de-clara.json) |
+| Tim 7: Concours Pour New York | 321371 | [321371-tim-7-concours-pour-new-york.json](./321371-tim-7-concours-pour-new-york.json) |
+| Tim 7: Et L'eclipse Totale | 321350 | [321350-tim-7-et-leclipse-totale.json](./321350-tim-7-et-leclipse-totale.json) |
+| Tim 7: Et L'envoye Special | 321370 | [321370-tim-7-et-lenvoye-special.json](./321370-tim-7-et-lenvoye-special.json) |
+| Tim 7: Et l'Ordinateur Fou | 321339 | [321339-tim-7-et-lordinateur-fou.json](./321339-tim-7-et-lordinateur-fou.json) |
+| Tim 7: Et La Correspondante | 321363 | [321363-tim-7-et-la-correspondante.json](./321363-tim-7-et-la-correspondante.json) |
+| Tim 7: Et Le Cadeau Volant | 321341 | [321341-tim-7-et-le-cadeau-volant.json](./321341-tim-7-et-le-cadeau-volant.json) |
+| Tim 7: Et Le Milliardaire | 321344 | [321344-tim-7-et-le-milliardaire.json](./321344-tim-7-et-le-milliardaire.json) |
+| Tim 7: Et Le Monstre Marin | 321349 | [321349-tim-7-et-le-monstre-marin.json](./321349-tim-7-et-le-monstre-marin.json) |
+| Tim 7: Et Les Fouilles Interdites | 321373 | [321373-tim-7-et-les-fouilles-interdites.json](./321373-tim-7-et-les-fouilles-interdites.json) |
+| Tim 7: Lance Un S.O.S | 321369 | [321369-tim-7-lance-un-s-o-s.json](./321369-tim-7-lance-un-s-o-s.json) |
+| Tim 7: Mene Le Jeu | 321364 | [321364-tim-7-mene-le-jeu.json](./321364-tim-7-mene-le-jeu.json) |
+| Tim 7: The Lost Traveller | 321374 | [321374-tim-7-the-lost-traveller.json](./321374-tim-7-the-lost-traveller.json) |
+| Tim 7: The Memories From Nowhere | 321366 | [321366-tim-7-the-memories-from-nowhere.json](./321366-tim-7-the-memories-from-nowhere.json) |
 | Tim's Birthday | 150126 | [150126-tims-birthday.json](./150126-tims-birthday.json) |
 | Timber Jump VR | 149589 | [149589-timber-jump-vr.json](./149589-timber-jump-vr.json) |
 | Timber Slash | 108473 | [108473-timber-slash.json](./108473-timber-slash.json) |
