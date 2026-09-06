@@ -994,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Detective of the Red Horns | 96710 | [96710-the-detective-of-the-red-horns.json](./96710-the-detective-of-the-red-horns.json) |
 | The Detective Reaper Invites | 265962 | [265962-the-detective-reaper-invites.json](./265962-the-detective-reaper-invites.json) |
 | The Detroit After | 199123 | [199123-the-detroit-after.json](./199123-the-detroit-after.json) |
+| The Devil Rais’d the Storm | 349883 | [349883-the-devil-rais-d-the-storm.json](./349883-the-devil-rais-d-the-storm.json) |
 | The Devil Within | 314049 | [314049-the-devil-within.json](./314049-the-devil-within.json) |
 | The Die Is Cast | 240474 | [240474-the-die-is-cast.json](./240474-the-die-is-cast.json) |
 | The Dig | 207 | [207-the-dig.json](./207-the-dig.json) |
@@ -1452,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Refuge | 72109 | [72109-the-last-refuge.json](./72109-the-last-refuge.json) |
 | The Last Run: Dead Zombie Shooter | 209142 | [209142-the-last-run-dead-zombie-shooter.json](./209142-the-last-run-dead-zombie-shooter.json) |
 | The Last Secret | 199656 | [199656-the-last-secret.json](./199656-the-last-secret.json) |
+| The Last Shelter | 349844 | [349844-the-last-shelter.json](./349844-the-last-shelter.json) |
 | The Last Stand at Camp Zombie | 251812 | [251812-the-last-stand-at-camp-zombie.json](./251812-the-last-stand-at-camp-zombie.json) |
 | The Last Stand Legacy Collection | 158727 | [158727-the-last-stand-legacy-collection.json](./158727-the-last-stand-legacy-collection.json) |
 | The Last Taxi | 132822 | [132822-the-last-taxi.json](./132822-the-last-taxi.json) |
@@ -1637,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Misadventures of Tron Bonne | 1753 | [1753-the-misadventures-of-tron-bonne.json](./1753-the-misadventures-of-tron-bonne.json) |
 | The Misfits Burger Joint | 255341 | [255341-the-misfits-burger-joint.json](./255341-the-misfits-burger-joint.json) |
 | The Misfortunes of a Nekomimi Catgirl Sorceress | 82914 | [82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json](./82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json) |
+| The Missing Part | 349880 | [349880-the-missing-part.json](./349880-the-missing-part.json) |
 | The Missing Sock | 302139 | [302139-the-missing-sock.json](./302139-the-missing-sock.json) |
 | The Mission | 78027 | [78027-the-mission.json](./78027-the-mission.json) |
 | The Misty Tale | 190190 | [190190-the-misty-tale.json](./190190-the-misty-tale.json) |
@@ -1994,6 +1997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs: Dreams - Digital Deluxe Edition | 389410 | [389410-the-smurfs-dreams-digital-deluxe-edition.json](./389410-the-smurfs-dreams-digital-deluxe-edition.json) |
 | The Smurfs: Learn and Play | 275887 | [275887-the-smurfs-learn-and-play.json](./275887-the-smurfs-learn-and-play.json) |
 | The Smurfs: Learn and Play - Deluxe Edition | 328798 | [328798-the-smurfs-learn-and-play-deluxe-edition.json](./328798-the-smurfs-learn-and-play-deluxe-edition.json) |
+| The Sniper | 349841 | [349841-the-sniper.json](./349841-the-sniper.json) |
 | The Sniper 2 | 44625 | [44625-the-sniper-2.json](./44625-the-sniper-2.json) |
 | The Snow Fable: Mystery of the Flame | 207515 | [207515-the-snow-fable-mystery-of-the-flame.json](./207515-the-snow-fable-mystery-of-the-flame.json) |
 | The Snow of Basidia | 176504 | [176504-the-snow-of-basidia.json](./176504-the-snow-of-basidia.json) |
@@ -3198,6 +3202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Townsmen | 32428 | [32428-townsmen.json](./32428-townsmen.json) |
 | Toxic Toads | 322973 | [322973-toxic-toads.json](./322973-toxic-toads.json) |
 | Toxicity | 300417 | [300417-toxicity.json](./300417-toxicity.json) |
+| Toxtli & The Moon Jar | 349834 | [349834-toxtli-and-the-moon-jar.json](./349834-toxtli-and-the-moon-jar.json) |
 | Toy Bot Diaries 2 | 79909 | [79909-toy-bot-diaries-2.json](./79909-toy-bot-diaries-2.json) |
 | Toy Box | 325235 | [325235-toy-box.json](./325235-toy-box.json) |
 | Toy Car Extreme Racing: RC Driver Simulator | 309082 | [309082-toy-car-extreme-racing-rc-driver-simulator.json](./309082-toy-car-extreme-racing-rc-driver-simulator.json) |
@@ -3708,6 +3713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Hovercraft | 359418 | [359418-turbo-hovercraft.json](./359418-turbo-hovercraft.json) |
 | Turbo Kid | 212164 | [212164-turbo-kid.json](./212164-turbo-kid.json) |
 | Turbo Live | 318765 | [318765-turbo-live.json](./318765-turbo-live.json) |
+| Turbo OutRun Reimagined | 349882 | [349882-turbo-outrun-reimagined.json](./349882-turbo-outrun-reimagined.json) |
 | Turbo Stars | 352166 | [352166-turbo-stars.json](./352166-turbo-stars.json) |
 | Turbo trucks | 44635 | [44635-turbo-trucks.json](./44635-turbo-trucks.json) |
 | TurboRaketti II | 94239 | [94239-turboraketti-ii.json](./94239-turboraketti-ii.json) |
