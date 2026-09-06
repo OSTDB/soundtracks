@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entity | 171620 | [171620-entity.json](./171620-entity.json) |
 | Entropic Fracture | 369035 | [369035-entropic-fracture.json](./369035-entropic-fracture.json) |
 | Entropy | 188667 | [188667-entropy.json](./188667-entropy.json) |
+| Entropy | 363898 | [363898-entropy.json](./363898-entropy.json) |
 | Enyla X | 149598 | [149598-enyla-x.json](./149598-enyla-x.json) |
 | Epejsodion Dodgeball Defense | 166748 | [166748-epejsodion-dodgeball-defense.json](./166748-epejsodion-dodgeball-defense.json) |
 | Epi-Derick | 372481 | [372481-epi-derick.json](./372481-epi-derick.json) |
