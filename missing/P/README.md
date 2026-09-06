@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series: Isekai Quartet Adventure - Action Game | 152891 | [152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json](./152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json) |
 | Pixel Gear | 25182 | [25182-pixel-gear.json](./25182-pixel-gear.json) |
 | Pixel Gun 3D: PC Edition | 261628 | [261628-pixel-gun-3d-pc-edition.json](./261628-pixel-gun-3d-pc-edition.json) |
+| Pixel House: Color by Number | 328494 | [328494-pixel-house-color-by-number.json](./328494-pixel-house-color-by-number.json) |
 | Pixel Mage Quest RPG | 145050 | [145050-pixel-mage-quest-rpg.json](./145050-pixel-mage-quest-rpg.json) |
 | Pixel of War | 294424 | [294424-pixel-of-war.json](./294424-pixel-of-war.json) |
 | Pixel Origin | 104654 | [104654-pixel-origin.json](./104654-pixel-origin.json) |
@@ -1034,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Speedy Squire | 335964 | [335964-pixicharm-speedy-squire.json](./335964-pixicharm-speedy-squire.json) |
 | PixPaint - Color By Number | 105970 | [105970-pixpaint-color-by-number.json](./105970-pixpaint-color-by-number.json) |
 | Piyo Blocks 2 | 175413 | [175413-piyo-blocks-2.json](./175413-piyo-blocks-2.json) |
+| Piyo Puzz: Piyokoro x Puzzle | 328493 | [328493-piyo-puzz-piyokoro-x-puzzle.json](./328493-piyo-puzz-piyokoro-x-puzzle.json) |
 | Pizza Death | 207541 | [207541-pizza-death.json](./207541-pizza-death.json) |
 | Pizza Deathlivery | 347717 | [347717-pizza-deathlivery.json](./347717-pizza-deathlivery.json) |
 | Pizza Delivery Bagel | 209676 | [209676-pizza-delivery-bagel.json](./209676-pizza-delivery-bagel.json) |
@@ -1448,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poppy Playtime Toybox Bundle 1 | 375863 | [375863-poppy-playtime-toybox-bundle-1.json](./375863-poppy-playtime-toybox-bundle-1.json) |
 | Poppy Sanctum | 396891 | [396891-poppy-sanctum.json](./396891-poppy-sanctum.json) |
 | Popscene (Backstage Pass) | 91988 | [91988-popscene-backstage-pass.json](./91988-popscene-backstage-pass.json) |
+| PopSlinger Vol. 1 & 2: Loveless Series Bundle | 328492 | [328492-popslinger-vol-1-and-2-loveless-series-bundle.json](./328492-popslinger-vol-1-and-2-loveless-series-bundle.json) |
 | PopSlinger vol. 2: Loveless | 319397 | [319397-popslinger-vol-2-loveless.json](./319397-popslinger-vol-2-loveless.json) |
 | Poptropica Worlds | 103523 | [103523-poptropica-worlds.json](./103523-poptropica-worlds.json) |
 | Populous & The Promised Lands | 137074 | [137074-populous-and-the-promised-lands.json](./137074-populous-and-the-promised-lands.json) |
@@ -1636,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Quest Part 1 | 250055 | [250055-princess-quest-part-1.json](./250055-princess-quest-part-1.json) |
 | Princess War | 39000 | [39000-princess-war.json](./39000-princess-war.json) |
 | Princess.Loot.Pixel.Again x2 | 79101 | [79101-princess-loot-pixel-again-x2.json](./79101-princess-loot-pixel-again-x2.json) |
+| Princesses Lylop: Royal Puzzle Challenge | 328495 | [328495-princesses-lylop-royal-puzzle-challenge.json](./328495-princesses-lylop-royal-puzzle-challenge.json) |
 | Prinny Presents: NIS Classics Vol 1 - Deluxe Edition | 148545 | [148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json](./148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json) |
 | Prinny Presents: NIS Classics Vol 3 | 194961 | [194961-prinny-presents-nis-classics-vol-3.json](./194961-prinny-presents-nis-classics-vol-3.json) |
 | Print Gallery of an Artist | 399606 | [399606-print-gallery-of-an-artist.json](./399606-print-gallery-of-an-artist.json) |
@@ -1752,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Profound | 277594 | [277594-profound.json](./277594-profound.json) |
 | Profundus | 341468 | [341468-profundus.json](./341468-profundus.json) |
 | Progress Bar Deluxe | 371861 | [371861-progress-bar-deluxe.json](./371861-progress-bar-deluxe.json) |
+| Progress Orders | 328491 | [328491-progress-orders.json](./328491-progress-orders.json) |
 | Progressbar Popup Fighter | 250015 | [250015-progressbar-popup-fighter.json](./250015-progressbar-popup-fighter.json) |
 | Prohibeast | 343266 | [343266-prohibeast.json](./343266-prohibeast.json) |
 | Project 2/3 | 322933 | [322933-project-2-3.json](./322933-project-2-3.json) |
@@ -2045,6 +2050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle & Dragons | 8590 | [8590-puzzle-and-dragons.json](./8590-puzzle-and-dragons.json) |
 | Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition | 85357 | [85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json](./85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json) |
 | Puzzle Adventures | 251813 | [251813-puzzle-adventures.json](./251813-puzzle-adventures.json) |
+| Puzzle Adventures: Forest Animals | 328490 | [328490-puzzle-adventures-forest-animals.json](./328490-puzzle-adventures-forest-animals.json) |
 | Puzzle Arcade | 74420 | [74420-puzzle-arcade.json](./74420-puzzle-arcade.json) |
 | Puzzle Ball Z | 384509 | [384509-puzzle-ball-z.json](./384509-puzzle-ball-z.json) |
 | Puzzle Bear | 121019 | [121019-puzzle-bear.json](./121019-puzzle-bear.json) |
