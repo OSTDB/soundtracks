@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upside-Down Dimensions | 52009 | [52009-upside-down-dimensions.json](./52009-upside-down-dimensions.json) |
 | Upsidedownsky | 368508 | [368508-upsidedownsky.json](./368508-upsidedownsky.json) |
 | Upsilon Circuit | 12977 | [12977-upsilon-circuit.json](./12977-upsilon-circuit.json) |
+| Upstream | 340936 | [340936-upstream.json](./340936-upstream.json) |
 | Upstream Ante | 298324 | [298324-upstream-ante.json](./298324-upstream-ante.json) |
 | Uptown Outbreak | 257682 | [257682-uptown-outbreak.json](./257682-uptown-outbreak.json) |
 | Upventure | 56495 | [56495-upventure.json](./56495-upventure.json) |
