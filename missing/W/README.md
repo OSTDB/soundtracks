@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Grew Up in War | 318776 | [318776-we-grew-up-in-war.json](./318776-we-grew-up-in-war.json) |
 | We Have Evangelion at Home | 363911 | [363911-we-have-evangelion-at-home.json](./363911-we-have-evangelion-at-home.json) |
 | We Heist Too | 304885 | [304885-we-heist-too.json](./304885-we-heist-too.json) |
+| We Interns | 357252 | [357252-we-interns.json](./357252-we-interns.json) |
 | We Love Fish Tanks | 387332 | [387332-we-love-fish-tanks.json](./387332-we-love-fish-tanks.json) |
 | We Love Katamari Reroll + Royal Reverie - Katamari Damacy Series Music Bundle | 272559 | [272559-we-love-katamari-reroll-royal-reverie-katamari-damacy-series-music-bundle.json](./272559-we-love-katamari-reroll-royal-reverie-katamari-damacy-series-music-bundle.json) |
 | We Rock: Drum King | 5127 | [5127-we-rock-drum-king.json](./5127-we-rock-drum-king.json) |
