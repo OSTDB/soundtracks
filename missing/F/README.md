@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flint | 368493 | [368493-flint.json](./368493-flint.json) |
 | Flintstones' Bedrock Boblseddin' Blowout | 196839 | [196839-flintstones-bedrock-boblseddin-blowout.json](./196839-flintstones-bedrock-boblseddin-blowout.json) |
 | Flip | 381025 | [381025-flip.json](./381025-flip.json) |
+| Flip for Cake | 361721 | [361721-flip-for-cake.json](./361721-flip-for-cake.json) |
 | Flip of Light | 185119 | [185119-flip-of-light.json](./185119-flip-of-light.json) |
 | Flip Out | 79314 | [79314-flip-out.json](./79314-flip-out.json) |
 | Flip Out! | 40799 | [40799-flip-out.json](./40799-flip-out.json) |
