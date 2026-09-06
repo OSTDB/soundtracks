@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T01:18:11.917Z",
-  "total_missing": 34929,
+  "generated_at": "2026-09-06T01:33:13.193Z",
+  "total_missing": 34979,
   "games": [
     {
       "igdb_id": 306086,
@@ -926,6 +926,11 @@
       "igdb_id": 251235,
       "game_name": "1MagLeft",
       "file": "missing/0-9/251235-1magleft.json"
+    },
+    {
+      "igdb_id": 363873,
+      "game_name": "1Second",
+      "file": "missing/0-9/363873-1second.json"
     },
     {
       "igdb_id": 188080,
@@ -6756,6 +6761,11 @@
       "igdb_id": 287174,
       "game_name": "Alone in the Dark",
       "file": "missing/A/287174-alone-in-the-dark.json"
+    },
+    {
+      "igdb_id": 363909,
+      "game_name": "Alone in the Machine",
+      "file": "missing/A/363909-alone-in-the-machine.json"
     },
     {
       "igdb_id": 377076,
@@ -16583,6 +16593,11 @@
       "file": "missing/B/135908-bemuzed.json"
     },
     {
+      "igdb_id": 363904,
+      "game_name": "Ben 10",
+      "file": "missing/B/363904-ben-10.json"
+    },
+    {
       "igdb_id": 146329,
       "game_name": "Ben 10 Bundle",
       "file": "missing/B/146329-ben-10-bundle.json"
@@ -16598,6 +16613,91 @@
       "file": "missing/B/86074-ben-10-triple-pack.json"
     },
     {
+      "igdb_id": 363890,
+      "game_name": "Ben 10: 028 - Power Mod: High Jump",
+      "file": "missing/B/363890-ben-10-028-power-mod-high-jump.json"
+    },
+    {
+      "igdb_id": 363869,
+      "game_name": "Ben 10: 065 - Villain Defense: Smoke and Mirrors",
+      "file": "missing/B/363869-ben-10-065-villain-defense-smoke-and-mirrors.json"
+    },
+    {
+      "igdb_id": 363870,
+      "game_name": "Ben 10: 066 - Villain Defense: Short Circuit",
+      "file": "missing/B/363870-ben-10-066-villain-defense-short-circuit.json"
+    },
+    {
+      "igdb_id": 363871,
+      "game_name": "Ben 10: 067 - Villain Defense: Groundswell",
+      "file": "missing/B/363871-ben-10-067-villain-defense-groundswell.json"
+    },
+    {
+      "igdb_id": 363872,
+      "game_name": "Ben 10: 068 - Villain Defense: Shell Shock",
+      "file": "missing/B/363872-ben-10-068-villain-defense-shell-shock.json"
+    },
+    {
+      "igdb_id": 363875,
+      "game_name": "Ben 10: 069 - Villain Defense: Out Claw",
+      "file": "missing/B/363875-ben-10-069-villain-defense-out-claw.json"
+    },
+    {
+      "igdb_id": 363876,
+      "game_name": "Ben 10: 070 - Villain Defense: Gravity Pull",
+      "file": "missing/B/363876-ben-10-070-villain-defense-gravity-pull.json"
+    },
+    {
+      "igdb_id": 363877,
+      "game_name": "Ben 10: 071 - Villain Defense: Astro-Nought",
+      "file": "missing/B/363877-ben-10-071-villain-defense-astro-nought.json"
+    },
+    {
+      "igdb_id": 363878,
+      "game_name": "Ben 10: 072 - Help: Grandpa Max",
+      "file": "missing/B/363878-ben-10-072-help-grandpa-max.json"
+    },
+    {
+      "igdb_id": 363879,
+      "game_name": "Ben 10: 073 - Help: Gwen",
+      "file": "missing/B/363879-ben-10-073-help-gwen.json"
+    },
+    {
+      "igdb_id": 363880,
+      "game_name": "Ben 10: 074 - Ultimate: Fourarms",
+      "file": "missing/B/363880-ben-10-074-ultimate-fourarms.json"
+    },
+    {
+      "igdb_id": 363882,
+      "game_name": "Ben 10: 075 - Ultimate: Stinkfly",
+      "file": "missing/B/363882-ben-10-075-ultimate-stinkfly.json"
+    },
+    {
+      "igdb_id": 363883,
+      "game_name": "Ben 10: 076 - Ultimate: Ripjaws",
+      "file": "missing/B/363883-ben-10-076-ultimate-ripjaws.json"
+    },
+    {
+      "igdb_id": 363884,
+      "game_name": "Ben 10: 077 - Ultimate: XLR8",
+      "file": "missing/B/363884-ben-10-077-ultimate-xlr8.json"
+    },
+    {
+      "igdb_id": 363885,
+      "game_name": "Ben 10: 078 - Ultimate: Heatblast",
+      "file": "missing/B/363885-ben-10-078-ultimate-heatblast.json"
+    },
+    {
+      "igdb_id": 363886,
+      "game_name": "Ben 10: 079 - Ultimate: Wildmutt",
+      "file": "missing/B/363886-ben-10-079-ultimate-wildmutt.json"
+    },
+    {
+      "igdb_id": 363888,
+      "game_name": "Ben 10: 080 - Ultimate: Diamondhead",
+      "file": "missing/B/363888-ben-10-080-ultimate-diamondhead.json"
+    },
+    {
       "igdb_id": 196339,
       "game_name": "Ben 10: Alien Experience",
       "file": "missing/B/196339-ben-10-alien-experience.json"
@@ -16606,6 +16706,11 @@
       "igdb_id": 210256,
       "game_name": "Ben 10: Alien Force",
       "file": "missing/B/210256-ben-10-alien-force.json"
+    },
+    {
+      "igdb_id": 363891,
+      "game_name": "Ben 10: Backpack",
+      "file": "missing/B/363891-ben-10-backpack.json"
     },
     {
       "igdb_id": 210257,
@@ -16621,6 +16726,11 @@
       "igdb_id": 210260,
       "game_name": "Ben 10: Galactic Racing",
       "file": "missing/B/210260-ben-10-galactic-racing.json"
+    },
+    {
+      "igdb_id": 363892,
+      "game_name": "Ben 10: Omni-Charge",
+      "file": "missing/B/363892-ben-10-omni-charge.json"
     },
     {
       "igdb_id": 5310,
@@ -46708,6 +46818,11 @@
       "file": "missing/E/188667-entropy.json"
     },
     {
+      "igdb_id": 363898,
+      "game_name": "Entropy",
+      "file": "missing/E/363898-entropy.json"
+    },
+    {
       "igdb_id": 149598,
       "game_name": "Enyla X",
       "file": "missing/E/149598-enyla-x.json"
@@ -54528,6 +54643,11 @@
       "file": "missing/F/325855-fortnite-agency-renegades-pack.json"
     },
     {
+      "igdb_id": 363901,
+      "game_name": "Fortnite: Bee Positive Pack",
+      "file": "missing/F/363901-fortnite-bee-positive-pack.json"
+    },
+    {
       "igdb_id": 194664,
       "game_name": "Fortnite: Chapter 3 - Season 2: Resistance",
       "file": "missing/F/194664-fortnite-chapter-3-season-2-resistance.json"
@@ -54546,6 +54666,11 @@
       "igdb_id": 275355,
       "game_name": "Fortnite: Heartbreak Royale Pack",
       "file": "missing/F/275355-fortnite-heartbreak-royale-pack.json"
+    },
+    {
+      "igdb_id": 363899,
+      "game_name": "Fortnite: Hexed and Haunted Pack",
+      "file": "missing/F/363899-fortnite-hexed-and-haunted-pack.json"
     },
     {
       "igdb_id": 303239,
@@ -55801,6 +55926,11 @@
       "igdb_id": 234935,
       "game_name": "Frontline Defense 2",
       "file": "missing/F/234935-frontline-defense-2.json"
+    },
+    {
+      "igdb_id": 363921,
+      "game_name": "Frontline Steel",
+      "file": "missing/F/363921-frontline-steel.json"
     },
     {
       "igdb_id": 179720,
@@ -58466,6 +58596,11 @@
       "igdb_id": 127316,
       "game_name": "GeoWar",
       "file": "missing/G/127316-geowar.json"
+    },
+    {
+      "igdb_id": 363908,
+      "game_name": "Gerbil Mech Program",
+      "file": "missing/G/363908-gerbil-mech-program.json"
     },
     {
       "igdb_id": 86128,
@@ -61911,6 +62046,11 @@
       "igdb_id": 170541,
       "game_name": "Groaning Steel",
       "file": "missing/G/170541-groaning-steel.json"
+    },
+    {
+      "igdb_id": 363914,
+      "game_name": "Grobnopolis | Last Days",
+      "file": "missing/G/363914-grobnopolis-last-days.json"
     },
     {
       "igdb_id": 306657,
@@ -66126,6 +66266,11 @@
       "igdb_id": 122397,
       "game_name": "Herogrinder: Tactical Combat Arenas",
       "file": "missing/H/122397-herogrinder-tactical-combat-arenas.json"
+    },
+    {
+      "igdb_id": 363913,
+      "game_name": "Heroic Defender GoFalcon",
+      "file": "missing/H/363913-heroic-defender-gofalcon.json"
     },
     {
       "igdb_id": 369057,
@@ -73561,6 +73706,11 @@
       "igdb_id": 185678,
       "game_name": "Iwatobi Penguin Rocky x Hopper 2: Tantei Monogatari",
       "file": "missing/I/185678-iwatobi-penguin-rocky-x-hopper-2-tantei-monogatari.json"
+    },
+    {
+      "igdb_id": 363912,
+      "game_name": "IWL: Interstellar Wrestling League",
+      "file": "missing/I/363912-iwl-interstellar-wrestling-league.json"
     },
     {
       "igdb_id": 196294,
@@ -84158,6 +84308,11 @@
       "file": "missing/L/110424-love-language-japanese.json"
     },
     {
+      "igdb_id": 363893,
+      "game_name": "Love Letters",
+      "file": "missing/L/363893-love-letters.json"
+    },
+    {
       "igdb_id": 141248,
       "game_name": "Love Live! School Idol Festival: After School Activity - Wai-Wai! Home Meeting!!",
       "file": "missing/L/141248-love-live-school-idol-festival-after-school-activity-wai-wai-home-meeting.json"
@@ -86743,6 +86898,11 @@
       "file": "missing/M/119756-marble-partner.json"
     },
     {
+      "igdb_id": 363900,
+      "game_name": "March of Giants",
+      "file": "missing/M/363900-march-of-giants.json"
+    },
+    {
       "igdb_id": 20648,
       "game_name": "March of the Penguins",
       "file": "missing/M/20648-march-of-the-penguins.json"
@@ -87321,6 +87481,11 @@
       "igdb_id": 300380,
       "game_name": "Marvel First Alliance",
       "file": "missing/M/300380-marvel-first-alliance.json"
+    },
+    {
+      "igdb_id": 363910,
+      "game_name": "Marvel Heroes",
+      "file": "missing/M/363910-marvel-heroes.json"
     },
     {
       "igdb_id": 319970,
@@ -88361,6 +88526,11 @@
       "igdb_id": 377069,
       "game_name": "Mecha Knights: Nightmare 2",
       "file": "missing/M/377069-mecha-knights-nightmare-2.json"
+    },
+    {
+      "igdb_id": 363915,
+      "game_name": "Mecha's Negotiations",
+      "file": "missing/M/363915-mechas-negotiations.json"
     },
     {
       "igdb_id": 77754,
@@ -101528,6 +101698,11 @@
       "file": "missing/O/183579-oblivion-congee.json"
     },
     {
+      "igdb_id": 363905,
+      "game_name": "Obnulenie",
+      "file": "missing/O/363905-obnulenie.json"
+    },
+    {
       "igdb_id": 42040,
       "game_name": "Obocchama Kun",
       "file": "missing/O/42040-obocchama-kun.json"
@@ -113753,6 +113928,11 @@
       "file": "missing/P/176516-protektor.json"
     },
     {
+      "igdb_id": 363906,
+      "game_name": "Proto Mecha Game",
+      "file": "missing/P/363906-proto-mecha-game.json"
+    },
+    {
       "igdb_id": 367940,
       "game_name": "Protocol Nadir",
       "file": "missing/P/367940-protocol-nadir.json"
@@ -117513,6 +117693,16 @@
       "file": "missing/R/274205-reanimated.json"
     },
     {
+      "igdb_id": 363874,
+      "game_name": "Reap: We Reap What Crawls",
+      "file": "missing/R/363874-reap-we-reap-what-crawls.json"
+    },
+    {
+      "igdb_id": 363896,
+      "game_name": "Reaper's Awakening!",
+      "file": "missing/R/363896-reapers-awakening.json"
+    },
+    {
       "igdb_id": 255968,
       "game_name": "Reaper's Isle",
       "file": "missing/R/255968-reapers-isle.json"
@@ -120546,6 +120736,11 @@
       "igdb_id": 297203,
       "game_name": "Rivals Duel: Card Battler",
       "file": "missing/R/297203-rivals-duel-card-battler.json"
+    },
+    {
+      "igdb_id": 363907,
+      "game_name": "Rivals in the Skies",
+      "file": "missing/R/363907-rivals-in-the-skies.json"
     },
     {
       "igdb_id": 277611,
@@ -126116,6 +126311,11 @@
       "igdb_id": 70382,
       "game_name": "Secret Paths to the Sea",
       "file": "missing/S/70382-secret-paths-to-the-sea.json"
+    },
+    {
+      "igdb_id": 363887,
+      "game_name": "Secret Paws: Cozy Apartments",
+      "file": "missing/S/363887-secret-paws-cozy-apartments.json"
     },
     {
       "igdb_id": 96574,
@@ -135333,6 +135533,16 @@
       "file": "missing/S/248203-spider-man.json"
     },
     {
+      "igdb_id": 363917,
+      "game_name": "Spider-Man",
+      "file": "missing/S/363917-spider-man.json"
+    },
+    {
+      "igdb_id": 363918,
+      "game_name": "Spider-Man",
+      "file": "missing/S/363918-spider-man.json"
+    },
+    {
       "igdb_id": 219274,
       "game_name": "Spider-Man / X-Men: Arcade's Redux",
       "file": "missing/S/219274-spider-man-x-men-arcades-redux.json"
@@ -138383,6 +138593,11 @@
       "file": "missing/S/77379-stormball.json"
     },
     {
+      "igdb_id": 363920,
+      "game_name": "Stormbroken",
+      "file": "missing/S/363920-stormbroken.json"
+    },
+    {
       "igdb_id": 210284,
       "game_name": "Stormwinds",
       "file": "missing/S/210284-stormwinds.json"
@@ -141306,6 +141521,11 @@
       "igdb_id": 20620,
       "game_name": "Super Meat Boy: Ultra Edition",
       "file": "missing/S/20620-super-meat-boy-ultra-edition.json"
+    },
+    {
+      "igdb_id": 363916,
+      "game_name": "Super Mecha Lifter 4000",
+      "file": "missing/S/363916-super-mecha-lifter-4000.json"
     },
     {
       "igdb_id": 210231,
@@ -149348,6 +149568,11 @@
       "file": "missing/T/163955-the-grass.json"
     },
     {
+      "igdb_id": 363897,
+      "game_name": "The Grass Reaper",
+      "file": "missing/T/363897-the-grass-reaper.json"
+    },
+    {
       "igdb_id": 35847,
       "game_name": "The Grave Digger",
       "file": "missing/T/35847-the-grave-digger.json"
@@ -151326,6 +151551,11 @@
       "igdb_id": 253605,
       "game_name": "The Mildew Children",
       "file": "missing/T/253605-the-mildew-children.json"
+    },
+    {
+      "igdb_id": 363881,
+      "game_name": "The Mind Snare",
+      "file": "missing/T/363881-the-mind-snare.json"
     },
     {
       "igdb_id": 76579,
@@ -161603,6 +161833,11 @@
       "file": "missing/T/141875-twin-stick-heroes.json"
     },
     {
+      "igdb_id": 363889,
+      "game_name": "Twin Tornado",
+      "file": "missing/T/363889-twin-tornado.json"
+    },
+    {
       "igdb_id": 282650,
       "game_name": "TwinBee",
       "file": "missing/T/282650-twinbee.json"
@@ -167938,6 +168173,11 @@
       "file": "missing/W/318776-we-grew-up-in-war.json"
     },
     {
+      "igdb_id": 363911,
+      "game_name": "We Have Evangelion at Home",
+      "file": "missing/W/363911-we-have-evangelion-at-home.json"
+    },
+    {
       "igdb_id": 304885,
       "game_name": "We Heist Too",
       "file": "missing/W/304885-we-heist-too.json"
@@ -170998,6 +171238,11 @@
       "file": "missing/W/115673-world-of-tanks-roll-out-collectors-edition.json"
     },
     {
+      "igdb_id": 363919,
+      "game_name": "World of Warcraft: Shadowlands - Chains of Domination",
+      "file": "missing/W/363919-world-of-warcraft-shadowlands-chains-of-domination.json"
+    },
+    {
       "igdb_id": 3432,
       "game_name": "World of Warplanes",
       "file": "missing/W/3432-world-of-warplanes.json"
@@ -171786,6 +172031,11 @@
       "igdb_id": 385066,
       "game_name": "X-Mas Bubble Mania",
       "file": "missing/X/385066-x-mas-bubble-mania.json"
+    },
+    {
+      "igdb_id": 363894,
+      "game_name": "X-Men",
+      "file": "missing/X/363894-x-men.json"
     },
     {
       "igdb_id": 573,
