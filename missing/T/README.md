@@ -450,6 +450,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 8: Character Costume - Aurora Outfit Pack | 414330 | [414330-tekken-8-character-costume-aurora-outfit-pack.json](./414330-tekken-8-character-costume-aurora-outfit-pack.json) |
 | Tekken 8: Eddy Gordo | 296675 | [296675-tekken-8-eddy-gordo.json](./296675-tekken-8-eddy-gordo.json) |
 | Tekken 8: Season 1 Character & Stage Pass | 347697 | [347697-tekken-8-season-1-character-and-stage-pass.json](./347697-tekken-8-season-1-character-and-stage-pass.json) |
+| Tekken 8: Season 2 - Deluxe Edition | 338222 | [338222-tekken-8-season-2-deluxe-edition.json](./338222-tekken-8-season-2-deluxe-edition.json) |
+| Tekken 8: Season 2 - Ultimate Edition | 338221 | [338221-tekken-8-season-2-ultimate-edition.json](./338221-tekken-8-season-2-ultimate-edition.json) |
 | Tekken 8: Season 2 Character & Stage Pass | 347701 | [347701-tekken-8-season-2-character-and-stage-pass.json](./347701-tekken-8-season-2-character-and-stage-pass.json) |
 | Tekken 8: Ultimate Pack | 293397 | [293397-tekken-8-ultimate-pack.json](./293397-tekken-8-ultimate-pack.json) |
 | Tekken Revolution | 7660 | [7660-tekken-revolution.json](./7660-tekken-revolution.json) |
@@ -1269,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Battle V | 66672 | [66672-the-great-battle-v.json](./66672-the-great-battle-v.json) |
 | The Great Battle VI | 66670 | [66670-the-great-battle-vi.json](./66670-the-great-battle-vi.json) |
 | The Great Chocolate Chase: A Chocolatier Twist | 19557 | [19557-the-great-chocolate-chase-a-chocolatier-twist.json](./19557-the-great-chocolate-chase-a-chocolatier-twist.json) |
+| The Great Coffee Caper | 338210 | [338210-the-great-coffee-caper.json](./338210-the-great-coffee-caper.json) |
 | The Great Dick Invasion | 213595 | [213595-the-great-dick-invasion.json](./213595-the-great-dick-invasion.json) |
 | The Great Escape | 28852 | [28852-the-great-escape.json](./28852-the-great-escape.json) |
 | The Great Farce | 318176 | [318176-the-great-farce.json](./318176-the-great-farce.json) |
@@ -1428,6 +1431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters Arena | 225887 | [225887-the-king-of-fighters-arena.json](./225887-the-king-of-fighters-arena.json) |
 | The King of Fighters XIV | 18814 | [18814-the-king-of-fighters-xiv.json](./18814-the-king-of-fighters-xiv.json) |
 | The King of Fighters XIV: Classic Iori Costume | 322961 | [322961-the-king-of-fighters-xiv-classic-iori-costume.json](./322961-the-king-of-fighters-xiv-classic-iori-costume.json) |
+| The King Of FIghters XIV: Nightmare Geese Costume | 338177 | [338177-the-king-of-fighters-xiv-nightmare-geese-costume.json](./338177-the-king-of-fighters-xiv-nightmare-geese-costume.json) |
 | The King of Fighters XV: Team Garou | 195801 | [195801-the-king-of-fighters-xv-team-garou.json](./195801-the-king-of-fighters-xv-team-garou.json) |
 | The King of Fighters: Maximum Impact - Maniax | 47322 | [47322-the-king-of-fighters-maximum-impact-maniax.json](./47322-the-king-of-fighters-maximum-impact-maniax.json) |
 | The King's Bird | 11840 | [11840-the-kings-bird.json](./11840-the-kings-bird.json) |
