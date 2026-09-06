@@ -896,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowbound | 374076 | [374076-shadowbound.json](./374076-shadowbound.json) |
 | Shadowgate Classic | 8699 | [8699-shadowgate-classic.json](./8699-shadowgate-classic.json) |
 | Shadowgate: MacVenture Series | 35911 | [35911-shadowgate-macventure-series.json](./35911-shadowgate-macventure-series.json) |
+| Shadowhand Solitaire | 322568 | [322568-shadowhand-solitaire.json](./322568-shadowhand-solitaire.json) |
 | Shadowkin | 244515 | [244515-shadowkin.json](./244515-shadowkin.json) |
 | Shadowland | 119020 | [119020-shadowland.json](./119020-shadowland.json) |
 | Shadowlands | 37128 | [37128-shadowlands.json](./37128-shadowlands.json) |
@@ -1997,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban (Boxman) Classic | 171619 | [171619-sokoban-boxman-classic.json](./171619-sokoban-boxman-classic.json) |
 | Sokoban World | 308565 | [308565-sokoban-world.json](./308565-sokoban-world.json) |
 | Sokocat - Islands | 147449 | [147449-sokocat-islands.json](./147449-sokocat-islands.json) |
+| SokoCode | 322593 | [322593-sokocode.json](./322593-sokocode.json) |
 | Sokomonster + Sokolab + Feed Your Cat | 335101 | [335101-sokomonster-sokolab-feed-your-cat.json](./335101-sokomonster-sokolab-feed-your-cat.json) |
 | SokoNature | 324666 | [324666-sokonature.json](./324666-sokonature.json) |
 | Sokorun: One Box | 209673 | [209673-sokorun-one-box.json](./209673-sokorun-one-box.json) |
@@ -2124,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Conquest: Roots | 366851 | [366851-songs-of-conquest-roots.json](./366851-songs-of-conquest-roots.json) |
 | Songs of Silence: Complete Edition | 403559 | [403559-songs-of-silence-complete-edition.json](./403559-songs-of-silence-complete-edition.json) |
 | Songs of Skydale | 119032 | [119032-songs-of-skydale.json](./119032-songs-of-skydale.json) |
+| Sonic & Bean in Eggland | 322592 | [322592-sonic-and-bean-in-eggland.json](./322592-sonic-and-bean-in-eggland.json) |
 | Sonic & Blaze | 266506 | [266506-sonic-and-blaze.json](./266506-sonic-and-blaze.json) |
 | Sonic & Knuckles | 9475 | [9475-sonic-and-knuckles.json](./9475-sonic-and-knuckles.json) |
 | Sonic & Sega All-Stars Racing | 287012 | [287012-sonic-and-sega-all-stars-racing.json](./287012-sonic-and-sega-all-stars-racing.json) |
@@ -2336,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Force | 177566 | [177566-soul-force.json](./177566-soul-force.json) |
 | Soul Getter | 63294 | [63294-soul-getter.json](./63294-soul-getter.json) |
 | Soul Grinder | 184649 | [184649-soul-grinder.json](./184649-soul-grinder.json) |
+| Soul Injector Commando | 322603 | [322603-soul-injector-commando.json](./322603-soul-injector-commando.json) |
 | Soul Land: Advent of the Gods | 194020 | [194020-soul-land-advent-of-the-gods.json](./194020-soul-land-advent-of-the-gods.json) |
 | Soul Locus | 35754 | [35754-soul-locus.json](./35754-soul-locus.json) |
 | Soul Master | 180288 | [180288-soul-master.json](./180288-soul-master.json) |
@@ -3711,6 +3715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun Meadow | 385076 | [385076-sun-meadow.json](./385076-sun-meadow.json) |
 | Sun Rush | 244517 | [244517-sun-rush.json](./244517-sun-rush.json) |
 | Sun Temple Shootout | 87697 | [87697-sun-temple-shootout.json](./87697-sun-temple-shootout.json) |
+| Sunchaser | 322611 | [322611-sunchaser.json](./322611-sunchaser.json) |
 | Sunday League Manager: Horse & Spoon | 361731 | [361731-sunday-league-manager-horse-and-spoon.json](./361731-sunday-league-manager-horse-and-spoon.json) |
 | Sunder | 135865 | [135865-sunder.json](./135865-sunder.json) |
 | Sundown | 299443 | [299443-sundown.json](./299443-sundown.json) |
@@ -3825,6 +3830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super EarthBound | 323181 | [323181-super-earthbound.json](./323181-super-earthbound.json) |
 | Super Falling Fred | 295025 | [295025-super-falling-fred.json](./295025-super-falling-fred.json) |
 | Super Famicom Wars BS Ban | 150173 | [150173-super-famicom-wars-bs-ban.json](./150173-super-famicom-wars-bs-ban.json) |
+| Super Fangame Maker | 322607 | [322607-super-fangame-maker.json](./322607-super-fangame-maker.json) |
 | Super Fight | 132240 | [132240-super-fight.json](./132240-super-fight.json) |
 | Super Fight | 247221 | [247221-super-fight.json](./247221-super-fight.json) |
 | Super Fighting Jam | 257686 | [257686-super-fighting-jam.json](./257686-super-fighting-jam.json) |
