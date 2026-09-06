@@ -2335,6 +2335,33 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Is Game Over: Murder Otaku | 338721 | [338721-murder-is-game-over-murder-otaku.json](./338721-murder-is-game-over-murder-otaku.json) |
 | Murder Is Game Over: The Blackinton Curse | 318208 | [318208-murder-is-game-over-the-blackinton-curse.json](./318208-murder-is-game-over-the-blackinton-curse.json) |
 | Murder Makes Strange Deadfellows | 73320 | [73320-murder-makes-strange-deadfellows.json](./73320-murder-makes-strange-deadfellows.json) |
+| Murder Mystery J: Jinrou Judgment - Maru Icon | 325460 | [325460-murder-mystery-j-jinrou-judgment-maru-icon.json](./325460-murder-mystery-j-jinrou-judgment-maru-icon.json) |
+| Murder Mystery J: Jinrou Judgment - SP1 Icon | 325457 | [325457-murder-mystery-j-jinrou-judgment-sp1-icon.json](./325457-murder-mystery-j-jinrou-judgment-sp1-icon.json) |
+| Murder Mystery J: Jinrou Judgment - SP2 Icon | 325459 | [325459-murder-mystery-j-jinrou-judgment-sp2-icon.json](./325459-murder-mystery-j-jinrou-judgment-sp2-icon.json) |
+| Murder Mystery J: Jinrou Judgment - SP3 Icon | 325458 | [325458-murder-mystery-j-jinrou-judgment-sp3-icon.json](./325458-murder-mystery-j-jinrou-judgment-sp3-icon.json) |
+| Murder Mystery J: Satsujinhan ha Soba ni iru | 325456 | [325456-murder-mystery-j-satsujinhan-ha-soba-ni-iru.json](./325456-murder-mystery-j-satsujinhan-ha-soba-ni-iru.json) |
+| Murder Mystery J: SP1 Icon | 325462 | [325462-murder-mystery-j-sp1-icon.json](./325462-murder-mystery-j-sp1-icon.json) |
+| Murder Mystery J: SP2 Icon | 325461 | [325461-murder-mystery-j-sp2-icon.json](./325461-murder-mystery-j-sp2-icon.json) |
+| Murder Mystery J: Special Stamp - Eric | 325472 | [325472-murder-mystery-j-special-stamp-eric.json](./325472-murder-mystery-j-special-stamp-eric.json) |
+| Murder Mystery J: Special Stamp - Ernie | 325473 | [325473-murder-mystery-j-special-stamp-ernie.json](./325473-murder-mystery-j-special-stamp-ernie.json) |
+| Murder Mystery J: Special Stamp - Fey | 325479 | [325479-murder-mystery-j-special-stamp-fey.json](./325479-murder-mystery-j-special-stamp-fey.json) |
+| Murder Mystery J: Special Stamp - Frank | 325465 | [325465-murder-mystery-j-special-stamp-frank.json](./325465-murder-mystery-j-special-stamp-frank.json) |
+| Murder Mystery J: Special Stamp - Freddie | 325464 | [325464-murder-mystery-j-special-stamp-freddie.json](./325464-murder-mystery-j-special-stamp-freddie.json) |
+| Murder Mystery J: Special Stamp - Gale | 325482 | [325482-murder-mystery-j-special-stamp-gale.json](./325482-murder-mystery-j-special-stamp-gale.json) |
+| Murder Mystery J: Special Stamp - Jessica | 325470 | [325470-murder-mystery-j-special-stamp-jessica.json](./325470-murder-mystery-j-special-stamp-jessica.json) |
+| Murder Mystery J: Special Stamp - Laura | 325474 | [325474-murder-mystery-j-special-stamp-laura.json](./325474-murder-mystery-j-special-stamp-laura.json) |
+| Murder Mystery J: Special Stamp - Lilian | 325463 | [325463-murder-mystery-j-special-stamp-lilian.json](./325463-murder-mystery-j-special-stamp-lilian.json) |
+| Murder Mystery J: Special Stamp - Mary | 325468 | [325468-murder-mystery-j-special-stamp-mary.json](./325468-murder-mystery-j-special-stamp-mary.json) |
+| Murder Mystery J: Special Stamp - Mary-Ann | 325467 | [325467-murder-mystery-j-special-stamp-mary-ann.json](./325467-murder-mystery-j-special-stamp-mary-ann.json) |
+| Murder Mystery J: Special Stamp - Merrill | 325483 | [325483-murder-mystery-j-special-stamp-merrill.json](./325483-murder-mystery-j-special-stamp-merrill.json) |
+| Murder Mystery J: Special Stamp - Mike | 325478 | [325478-murder-mystery-j-special-stamp-mike.json](./325478-murder-mystery-j-special-stamp-mike.json) |
+| Murder Mystery J: Special Stamp - Nick | 325481 | [325481-murder-mystery-j-special-stamp-nick.json](./325481-murder-mystery-j-special-stamp-nick.json) |
+| Murder Mystery J: Special Stamp - Rody | 325477 | [325477-murder-mystery-j-special-stamp-rody.json](./325477-murder-mystery-j-special-stamp-rody.json) |
+| Murder Mystery J: Special Stamp - Sandra | 325475 | [325475-murder-mystery-j-special-stamp-sandra.json](./325475-murder-mystery-j-special-stamp-sandra.json) |
+| Murder Mystery J: Special Stamp - Shawn | 325471 | [325471-murder-mystery-j-special-stamp-shawn.json](./325471-murder-mystery-j-special-stamp-shawn.json) |
+| Murder Mystery J: Special Stamp - Susan | 325466 | [325466-murder-mystery-j-special-stamp-susan.json](./325466-murder-mystery-j-special-stamp-susan.json) |
+| Murder Mystery J: Special Stamp - Thomas | 325469 | [325469-murder-mystery-j-special-stamp-thomas.json](./325469-murder-mystery-j-special-stamp-thomas.json) |
+| Murder Mystery J: Special Stamp - Vanilla | 325480 | [325480-murder-mystery-j-special-stamp-vanilla.json](./325480-murder-mystery-j-special-stamp-vanilla.json) |
 | Murder on the Spaceship Altair | 312330 | [312330-murder-on-the-spaceship-altair.json](./312330-murder-on-the-spaceship-altair.json) |
 | Murder on the Zinderneuf | 23929 | [23929-murder-on-the-zinderneuf.json](./23929-murder-on-the-zinderneuf.json) |
 | Murder Reservation | 129205 | [129205-murder-reservation.json](./129205-murder-reservation.json) |
