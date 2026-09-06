@@ -1524,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers Super Samurai | 25162 | [25162-power-rangers-super-samurai.json](./25162-power-rangers-super-samurai.json) |
 | Power Rangers: Battle for the Grid - Collector's Edition | 119069 | [119069-power-rangers-battle-for-the-grid-collectors-edition.json](./119069-power-rangers-battle-for-the-grid-collectors-edition.json) |
 | Power Rangers: Battle for the Grid - Digital Collector's Edition | 205276 | [205276-power-rangers-battle-for-the-grid-digital-collectors-edition.json](./205276-power-rangers-battle-for-the-grid-digital-collectors-edition.json) |
+| Power Rangers: Mystic Force | 330744 | [330744-power-rangers-mystic-force.json](./330744-power-rangers-mystic-force.json) |
 | Power Serve 3D Tennis | 20641 | [20641-power-serve-3d-tennis.json](./20641-power-serve-3d-tennis.json) |
 | Power Slave | 45972 | [45972-power-slave.json](./45972-power-slave.json) |
 | Power Solenoid | 251845 | [251845-power-solenoid.json](./251845-power-solenoid.json) |
