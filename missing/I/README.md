@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinita Strada | 61682 | [61682-infinita-strada.json](./61682-infinita-strada.json) |
 | Infinite Backrooms | 405531 | [405531-infinite-backrooms.json](./405531-infinite-backrooms.json) |
 | Infinite Ball Well | 384513 | [384513-infinite-ball-well.json](./384513-infinite-ball-well.json) |
+| Infinite Blue | 337650 | [337650-infinite-blue.json](./337650-infinite-blue.json) |
 | Infinite Chef | 300411 | [300411-infinite-chef.json](./300411-infinite-chef.json) |
 | Infinite Construction | 192442 | [192442-infinite-construction.json](./192442-infinite-construction.json) |
 | Infinite Dash | 173800 | [173800-infinite-dash.json](./173800-infinite-dash.json) |
