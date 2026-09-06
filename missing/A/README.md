@@ -937,6 +937,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Gladiator | 207529 | [207529-alien-gladiator.json](./207529-alien-gladiator.json) |
 | Alien Hallway | 16246 | [16246-alien-hallway.json](./16246-alien-hallway.json) |
 | Alien Harvest Leader | 141890 | [141890-alien-harvest-leader.json](./141890-alien-harvest-leader.json) |
+| Alien Hominid | 314892 | [314892-alien-hominid.json](./314892-alien-hominid.json) |
+| Alien Hominid 360 | 314895 | [314895-alien-hominid-360.json](./314895-alien-hominid-360.json) |
 | Alien Invasion | 273129 | [273129-alien-invasion.json](./273129-alien-invasion.json) |
 | Alien Nations | 11259 | [11259-alien-nations.json](./11259-alien-nations.json) |
 | Alien Nations Mission Pack | 73810 | [73810-alien-nations-mission-pack.json](./73810-alien-nations-mission-pack.json) |
@@ -1337,11 +1339,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Unite | 212472 | [212472-animal-unite.json](./212472-animal-unite.json) |
 | Animal Up! | 121703 | [121703-animal-up.json](./121703-animal-up.json) |
 | Animal Village Rescue | 232170 | [232170-animal-village-rescue.json](./232170-animal-village-rescue.json) |
+| Animal Water Pang! | 314857 | [314857-animal-water-pang.json](./314857-animal-water-pang.json) |
 | Animal Way | 295552 | [295552-animal-way.json](./295552-animal-way.json) |
 | Animal Well | 191435 | [191435-animal-well.json](./191435-animal-well.json) |
 | Animal Wine Factory | 212497 | [212497-animal-wine-factory.json](./212497-animal-wine-factory.json) |
 | Animal Workforce: Idle Tycoon Clicker | 369583 | [369583-animal-workforce-idle-tycoon-clicker.json](./369583-animal-workforce-idle-tycoon-clicker.json) |
 | Animal Zodiac | 298880 | [298880-animal-zodiac.json](./298880-animal-zodiac.json) |
+| Animal Zoo: The Forgotten Land | 314879 | [314879-animal-zoo-the-forgotten-land.json](./314879-animal-zoo-the-forgotten-land.json) |
 | Animalia Survival | 167832 | [167832-animalia-survival.json](./167832-animalia-survival.json) |
 | Animallica | 43361 | [43361-animallica.json](./43361-animallica.json) |
 | Animaloid Girl | 263199 | [263199-animaloid-girl.json](./263199-animaloid-girl.json) |
@@ -1366,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girl Puzzles: Wakana | 297773 | [297773-anime-girl-puzzles-wakana.json](./297773-anime-girl-puzzles-wakana.json) |
 | Anime Girl Puzzles: Yui | 297772 | [297772-anime-girl-puzzles-yui.json](./297772-anime-girl-puzzles-yui.json) |
 | Anime Girls: College Love | 378779 | [378779-anime-girls-college-love.json](./378779-anime-girls-college-love.json) |
+| Anime Girls: Lady Liberty | 314880 | [314880-anime-girls-lady-liberty.json](./314880-anime-girls-lady-liberty.json) |
 | Anime Girls: Tactical Assault | 402306 | [402306-anime-girls-tactical-assault.json](./402306-anime-girls-tactical-assault.json) |
 | Anime Love Chat Girls | 380394 | [380394-anime-love-chat-girls.json](./380394-anime-love-chat-girls.json) |
 | Anime Parody: Tentacle Slayer | 319978 | [319978-anime-parody-tentacle-slayer.json](./319978-anime-parody-tentacle-slayer.json) |
@@ -1615,12 +1620,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Gemini Wing | 146343 | [146343-arcade-archives-gemini-wing.json](./146343-arcade-archives-gemini-wing.json) |
 | Arcade Archives: Growl | 259232 | [259232-arcade-archives-growl.json](./259232-arcade-archives-growl.json) |
 | Arcade Archives: Guttang Gottong | 271477 | [271477-arcade-archives-guttang-gottong.json](./271477-arcade-archives-guttang-gottong.json) |
+| Arcade Archives: Knuckle Heads | 314877 | [314877-arcade-archives-knuckle-heads.json](./314877-arcade-archives-knuckle-heads.json) |
 | Arcade Archives: Märchen Maze | 330745 | [330745-arcade-archives-marchen-maze.json](./330745-arcade-archives-marchen-maze.json) |
 | Arcade Archives: Mazinger Z | 249490 | [249490-arcade-archives-mazinger-z.json](./249490-arcade-archives-mazinger-z.json) |
 | Arcade Archives: Metal Black | 225889 | [225889-arcade-archives-metal-black.json](./225889-arcade-archives-metal-black.json) |
 | Arcade Archives: Ordyne | 223153 | [223153-arcade-archives-ordyne.json](./223153-arcade-archives-ordyne.json) |
 | Arcade Archives: Rave Racer | 392771 | [392771-arcade-archives-rave-racer.json](./392771-arcade-archives-rave-racer.json) |
 | Arcade Archives: Saint Dragon | 129766 | [129766-arcade-archives-saint-dragon.json](./129766-arcade-archives-saint-dragon.json) |
+| Arcade Archives: The Ninja Kids | 314869 | [314869-arcade-archives-the-ninja-kids.json](./314869-arcade-archives-the-ninja-kids.json) |
 | Arcade Archives: Vigilante | 121716 | [121716-arcade-archives-vigilante.json](./121716-arcade-archives-vigilante.json) |
 | Arcade Archives: vs. Battle City | 317219 | [317219-arcade-archives-vs-battle-city.json](./317219-arcade-archives-vs-battle-city.json) |
 | Arcade Archives: vs. Mystery Tower | 335093 | [335093-arcade-archives-vs-mystery-tower.json](./335093-arcade-archives-vs-mystery-tower.json) |
@@ -1912,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arx: End of Sun | 386114 | [386114-arx-end-of-sun.json](./386114-arx-end-of-sun.json) |
 | Arxon | 93062 | [93062-arxon.json](./93062-arxon.json) |
 | As Aventuras de Kiwi | 306710 | [306710-as-aventuras-de-kiwi.json](./306710-as-aventuras-de-kiwi.json) |
+| As Per My Last Email | 314868 | [314868-as-per-my-last-email.json](./314868-as-per-my-last-email.json) |
 | As simple as it could get | 211411 | [211411-as-simple-as-it-could-get.json](./211411-as-simple-as-it-could-get.json) |
 | As Sweetberry Falls | 379882 | [379882-as-sweetberry-falls.json](./379882-as-sweetberry-falls.json) |
 | As We Unite | 365081 | [365081-as-we-unite.json](./365081-as-we-unite.json) |
@@ -2364,6 +2372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Tanks 2 | 313506 | [313506-awesome-tanks-2.json](./313506-awesome-tanks-2.json) |
 | Awexome Cross | 135869 | [135869-awexome-cross.json](./135869-awexome-cross.json) |
 | Awful Kidnapper | 300410 | [300410-awful-kidnapper.json](./300410-awful-kidnapper.json) |
+| Awful Mario World | 314897 | [314897-awful-mario-world.json](./314897-awful-mario-world.json) |
 | AX-1: Arabian Rhapsody | 91462 | [91462-ax-1-arabian-rhapsody.json](./91462-ax-1-arabian-rhapsody.json) |
 | AX-10: Outlaw | 91459 | [91459-ax-10-outlaw.json](./91459-ax-10-outlaw.json) |
 | AX-7: Police & Gangster | 91461 | [91461-ax-7-police-and-gangster.json](./91461-ax-7-police-and-gangster.json) |
