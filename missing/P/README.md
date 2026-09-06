@@ -513,6 +513,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perky Little Things | 90825 | [90825-perky-little-things.json](./90825-perky-little-things.json) |
 | Permadeath | 337442 | [337442-permadeath.json](./337442-permadeath.json) |
 | Permafrost | 302147 | [302147-permafrost.json](./302147-permafrost.json) |
+| Perman | 346037 | [346037-perman.json](./346037-perman.json) |
+| Perman World | 346040 | [346040-perman-world.json](./346040-perman-world.json) |
 | Permanence TD | 195256 | [195256-permanence-td.json](./195256-permanence-td.json) |
 | Permanent Daylight | 62194 | [62194-permanent-daylight.json](./62194-permanent-daylight.json) |
 | Peropero Candy: You no Shou | 373030 | [373030-peropero-candy-you-no-shou.json](./373030-peropero-candy-you-no-shou.json) |
@@ -1282,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Pop! | 209145 | [209145-poker-pop.json](./209145-poker-pop.json) |
 | Poker Pretty Girls Battle: Texas Hold'em | 34324 | [34324-poker-pretty-girls-battle-texas-holdem.json](./34324-poker-pretty-girls-battle-texas-holdem.json) |
 | Poker World: Casino Game | 219292 | [219292-poker-world-casino-game.json](./219292-poker-world-casino-game.json) |
+| Pokermon | 346016 | [346016-pokermon.json](./346016-pokermon.json) |
 | Pokescape: A Pokémon Escape Room | 340210 | [340210-pokescape-a-pokemon-escape-room.json](./340210-pokescape-a-pokemon-escape-room.json) |
 | PokéSmash | 191883 | [191883-pokesmash.json](./191883-pokesmash.json) |
 | PokeXGames | 145038 | [145038-pokexgames.json](./145038-pokexgames.json) |
