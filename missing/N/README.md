@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Living Skurre | 367973 | [367973-night-of-the-living-skurre.json](./367973-night-of-the-living-skurre.json) |
 | Night of the loving dead | 161905 | [161905-night-of-the-loving-dead.json](./161905-night-of-the-loving-dead.json) |
 | Night of the Scarecrows | 119752 | [119752-night-of-the-scarecrows.json](./119752-night-of-the-scarecrows.json) |
+| Night of the Stars | 332395 | [332395-night-of-the-stars.json](./332395-night-of-the-stars.json) |
 | Night of the Wererat | 216986 | [216986-night-of-the-wererat.json](./216986-night-of-the-wererat.json) |
 | Night of the Wordsmith | 64985 | [64985-night-of-the-wordsmith.json](./64985-night-of-the-wordsmith.json) |
 | Night Pump | 399005 | [399005-night-pump.json](./399005-night-pump.json) |
@@ -751,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Arm | 360010 | [360010-no-arm.json](./360010-no-arm.json) |
 | No Contact | 302114 | [302114-no-contact.json](./302114-no-contact.json) |
 | No Cure 2 | 158195 | [158195-no-cure-2.json](./158195-no-cure-2.json) |
+| No Escape from Madness | 332456 | [332456-no-escape-from-madness.json](./332456-no-escape-from-madness.json) |
 | No Fair Play | 172755 | [172755-no-fair-play.json](./172755-no-fair-play.json) |
 | No Final Night: Protect the Sponk Can | 410918 | [410918-no-final-night-protect-the-sponk-can.json](./410918-no-final-night-protect-the-sponk-can.json) |
 | No Food No Drink | 338752 | [338752-no-food-no-drink.json](./338752-no-food-no-drink.json) |
