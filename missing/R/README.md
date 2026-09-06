@@ -783,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Mysterious Island | 17052 | [17052-return-to-mysterious-island.json](./17052-return-to-mysterious-island.json) |
 | Return to PopoloCrois: A Story of Seasons Fairytale | 11005 | [11005-return-to-popolocrois-a-story-of-seasons-fairytale.json](./11005-return-to-popolocrois-a-story-of-seasons-fairytale.json) |
 | Return to Sector 9 | 311280 | [311280-return-to-sector-9.json](./311280-return-to-sector-9.json) |
+| Return to Sender | 336560 | [336560-return-to-sender.json](./336560-return-to-sender.json) |
 | Returner Alien | 108500 | [108500-returner-alien.json](./108500-returner-alien.json) |
 | Returner Zhero | 107202 | [107202-returner-zhero.json](./107202-returner-zhero.json) |
 | ReturnHome | 170555 | [170555-returnhome.json](./170555-returnhome.json) |
