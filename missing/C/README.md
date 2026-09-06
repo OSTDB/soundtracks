@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Game: The Cats Collector! | 239919 | [239919-cat-game-the-cats-collector.json](./239919-cat-game-the-cats-collector.json) |
 | Cat Gentlemans Play: Insult Spinner 10 Cents | 128626 | [128626-cat-gentlemans-play-insult-spinner-10-cents.json](./128626-cat-gentlemans-play-insult-spinner-10-cents.json) |
 | Cat Good Work | 309686 | [309686-cat-good-work.json](./309686-cat-good-work.json) |
+| Cat in Rain | 320764 | [320764-cat-in-rain.json](./320764-cat-in-rain.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 1 | 263200 | [263200-cat-jigsaw-puzzle-games-expansion-pack-1.json](./263200-cat-jigsaw-puzzle-games-expansion-pack-1.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 3 | 263207 | [263207-cat-jigsaw-puzzle-games-expansion-pack-3.json](./263207-cat-jigsaw-puzzle-games-expansion-pack-3.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 4 | 263211 | [263211-cat-jigsaw-puzzle-games-expansion-pack-4.json](./263211-cat-jigsaw-puzzle-games-expansion-pack-4.json) |
@@ -580,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caxy Gambá Encontra o Monstruário | 257103 | [257103-caxy-gamba-encontra-o-monstruario.json](./257103-caxy-gamba-encontra-o-monstruario.json) |
 | Cazzarion: Builder | 335961 | [335961-cazzarion-builder.json](./335961-cazzarion-builder.json) |
 | Cazzarion: Dart Wheel | 296087 | [296087-cazzarion-dart-wheel.json](./296087-cazzarion-dart-wheel.json) |
+| Cazzarion: Drone Attack | 320760 | [320760-cazzarion-drone-attack.json](./320760-cazzarion-drone-attack.json) |
 | Cazzarion: Fishing | 335091 | [335091-cazzarion-fishing.json](./335091-cazzarion-fishing.json) |
 | Cazzarion: Ghost Frenzy | 293899 | [293899-cazzarion-ghost-frenzy.json](./293899-cazzarion-ghost-frenzy.json) |
 | Cazzarion: Hell Biker | 334491 | [334491-cazzarion-hell-biker.json](./334491-cazzarion-hell-biker.json) |
