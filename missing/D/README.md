@@ -1427,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors Quest Demo | 101593 | [101593-doors-quest-demo.json](./101593-doors-quest-demo.json) |
 | Doorways | 185655 | [185655-doorways.json](./185655-doorways.json) |
 | Doppelgänger | 275902 | [275902-doppelganger.json](./275902-doppelganger.json) |
+| DoppelTest | 352746 | [352746-doppeltest.json](./352746-doppeltest.json) |
 | Dor | 84278 | [84278-dor.json](./84278-dor.json) |
 | Dora & Kai-Lan's Pet Shelter | 97372 | [97372-dora-and-kai-lans-pet-shelter.json](./97372-dora-and-kai-lans-pet-shelter.json) |
 | Dora the Explorer: Carnival 2 - Boardwalk Adventure | 209123 | [209123-dora-the-explorer-carnival-2-boardwalk-adventure.json](./209123-dora-the-explorer-carnival-2-boardwalk-adventure.json) |
