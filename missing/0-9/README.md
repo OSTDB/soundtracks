@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2urvive | 77361 | [77361-2urvive.json](./77361-2urvive.json) |
 | 2Week: Death World | 199087 | [199087-2week-death-world.json](./199087-2week-death-world.json) |
 | 2weistein: The Curse of the Red Dragon | 147439 | [147439-2weistein-the-curse-of-the-red-dragon.json](./147439-2weistein-the-curse-of-the-red-dragon.json) |
+| 2x0ng | 342039 | [342039-2x0ng.json](./342039-2x0ng.json) |
 | 2XL Supercross HD | 96726 | [96726-2xl-supercross-hd.json](./96726-2xl-supercross-hd.json) |
 | 2Xtreme | 45105 | [45105-2xtreme.json](./45105-2xtreme.json) |
 | 3 2 1 Quiz Game | 45321 | [45321-3-2-1-quiz-game.json](./45321-3-2-1-quiz-game.json) |
@@ -350,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4-In-1 Electronic Computer Games | 245576 | [245576-4-in-1-electronic-computer-games.json](./245576-4-in-1-electronic-computer-games.json) |
 | 4-Lung Boy | 185651 | [185651-4-lung-boy.json](./185651-4-lung-boy.json) |
 | 4.1.60Co | 295543 | [295543-4-1-60co.json](./295543-4-1-60co.json) |
+| 4004Ripper | 342062 | [342062-4004ripper.json](./342062-4004ripper.json) |
 | 4096 | 157721 | [157721-4096.json](./157721-4096.json) |
 | 44 Hidden Naomis | 353323 | [353323-44-hidden-naomis.json](./353323-44-hidden-naomis.json) |
 | 46 Okunen Monogatari: The Shinka Ron | 26675 | [26675-46-okunen-monogatari-the-shinka-ron.json](./26675-46-okunen-monogatari-the-shinka-ron.json) |
