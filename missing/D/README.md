@@ -815,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destination: Mars! | 72101 | [72101-destination-mars.json](./72101-destination-mars.json) |
 | Destino Indomable | 322350 | [322350-destino-indomable.json](./322350-destino-indomable.json) |
 | Destiny | 100186 | [100186-destiny.json](./100186-destiny.json) |
+| Destiny 2: Heresy Silver Bundle | 330703 | [330703-destiny-2-heresy-silver-bundle.json](./330703-destiny-2-heresy-silver-bundle.json) |
 | Destiny 2: Lightfall - Season of the Deep | 250021 | [250021-destiny-2-lightfall-season-of-the-deep.json](./250021-destiny-2-lightfall-season-of-the-deep.json) |
 | Destiny Chaser | 114413 | [114413-destiny-chaser.json](./114413-destiny-chaser.json) |
 | Destiny Duel | 236546 | [236546-destiny-duel.json](./236546-destiny-duel.json) |
