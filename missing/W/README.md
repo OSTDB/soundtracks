@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Arms 4 | 1681 | [1681-wild-arms-4.json](./1681-wild-arms-4.json) |
 | Wild Buster: Heroes of Titan | 75152 | [75152-wild-buster-heroes-of-titan.json](./75152-wild-buster-heroes-of-titan.json) |
 | Wild Cats | 365662 | [365662-wild-cats.json](./365662-wild-cats.json) |
+| Wild Cheetah Sim 3D | 330725 | [330725-wild-cheetah-sim-3d.json](./330725-wild-cheetah-sim-3d.json) |
 | Wild Earth: Africa | 195802 | [195802-wild-earth-africa.json](./195802-wild-earth-africa.json) |
 | Wild Fishing Simulator | 96083 | [96083-wild-fishing-simulator.json](./96083-wild-fishing-simulator.json) |
 | Wild Hearts: Karakuri Edition | 228734 | [228734-wild-hearts-karakuri-edition.json](./228734-wild-hearts-karakuri-edition.json) |
@@ -914,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search Joy | 88270 | [88270-word-search-joy.json](./88270-word-search-joy.json) |
 | Word Spinner | 71546 | [71546-word-spinner.json](./71546-word-spinner.json) |
 | Word Swipe | 101529 | [101529-word-swipe.json](./101529-word-swipe.json) |
+| Word Tower Puzzle | 330728 | [330728-word-tower-puzzle.json](./330728-word-tower-puzzle.json) |
 | Word Town: New Crossword Games | 101541 | [101541-word-town-new-crossword-games.json](./101541-word-town-new-crossword-games.json) |
 | Word Training Camp | 130929 | [130929-word-training-camp.json](./130929-word-training-camp.json) |
 | Word Warp: Animal Edition | 396222 | [396222-word-warp-animal-edition.json](./396222-word-warp-animal-edition.json) |
