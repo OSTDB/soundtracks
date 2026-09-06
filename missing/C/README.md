@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CandyRain | 201307 | [201307-candyrain.json](./201307-candyrain.json) |
 | CandyVenture | 113008 | [113008-candyventure.json](./113008-candyventure.json) |
 | Cānghóng Lèi: Nì Tiān Shénhuà | 394183 | [394183-canghong-lei-ni-tian-shenhua.json](./394183-canghong-lei-ni-tian-shenhua.json) |
+| Canidae | 336517 | [336517-canidae.json](./336517-canidae.json) |
 | Cannibal | 299444 | [299444-cannibal.json](./299444-cannibal.json) |
 | Cannibals and Missionaries | 355524 | [355524-cannibals-and-missionaries.json](./355524-cannibals-and-missionaries.json) |
 | Cannon Army | 152349 | [152349-cannon-army.json](./152349-cannon-army.json) |
@@ -896,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Escape | 314046 | [314046-christmas-escape.json](./314046-christmas-escape.json) |
 | Christmas Fables: Nutcracker's Tale - Collector's Edition | 382194 | [382194-christmas-fables-nutcrackers-tale-collectors-edition.json](./382194-christmas-fables-nutcrackers-tale-collectors-edition.json) |
 | Christmas Griddlers | 168903 | [168903-christmas-griddlers.json](./168903-christmas-griddlers.json) |
+| Christmas Horror Land | 336538 | [336538-christmas-horror-land.json](./336538-christmas-horror-land.json) |
 | Christmas Jumper Jam | 326981 | [326981-christmas-jumper-jam.json](./326981-christmas-jumper-jam.json) |
 | Christmas Luge | 236521 | [236521-christmas-luge.json](./236521-christmas-luge.json) |
 | Christmas Mansion | 100190 | [100190-christmas-mansion.json](./100190-christmas-mansion.json) |
@@ -2299,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Horror: Project S.Y.L.A. | 370110 | [370110-cyber-horror-project-s-y-l-a.json](./370110-cyber-horror-project-s-y-l-a.json) |
 | Cyber Paranoia | 408058 | [408058-cyber-paranoia.json](./408058-cyber-paranoia.json) |
 | Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
+| Cyber Rats | 336523 | [336523-cyber-rats.json](./336523-cyber-rats.json) |
 | Cyber Sensation: MicroLife | 351631 | [351631-cyber-sensation-microlife.json](./351631-cyber-sensation-microlife.json) |
 | Cyber Sled | 20626 | [20626-cyber-sled.json](./20626-cyber-sled.json) |
 | Cyber Strike | 194001 | [194001-cyber-strike.json](./194001-cyber-strike.json) |
