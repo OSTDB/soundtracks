@@ -1101,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plastic Playground | 33116 | [33116-plastic-playground.json](./33116-plastic-playground.json) |
 | PlasticFighter | 310738 | [310738-plasticfighter.json](./310738-plasticfighter.json) |
 | Platdude in Swamp Golf | 61087 | [61087-platdude-in-swamp-golf.json](./61087-platdude-in-swamp-golf.json) |
+| Plate | 339280 | [339280-plate.json](./339280-plate.json) |
 | Plates | 32188 | [32188-plates.json](./32188-plates.json) |
 | PlateUp!: Collector's Edition | 247191 | [247191-plateup-collectors-edition.json](./247191-plateup-collectors-edition.json) |
 | Platform 9: No Way Out | 324129 | [324129-platform-9-no-way-out.json](./324129-platform-9-no-way-out.json) |
@@ -1289,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Volt White | 226415 | [226415-pokemon-volt-white.json](./226415-pokemon-volt-white.json) |
 | Pokémon Water Red | 221411 | [221411-pokemon-water-red.json](./221411-pokemon-water-red.json) |
 | Pokémon Weird Type Fun | 307908 | [307908-pokemon-weird-type-fun.json](./307908-pokemon-weird-type-fun.json) |
+| Pokémon: Battle Factory | 339247 | [339247-pokemon-battle-factory.json](./339247-pokemon-battle-factory.json) |
 | Pokémon: Cave Escape | 342676 | [342676-pokemon-cave-escape.json](./342676-pokemon-cave-escape.json) |
 | Pokémon: Legends of the Arena | 135872 | [135872-pokemon-legends-of-the-arena.json](./135872-pokemon-legends-of-the-arena.json) |
 | Pokémon: Maxie's Island | 342679 | [342679-pokemon-maxies-island.json](./342679-pokemon-maxies-island.json) |
@@ -1483,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Chess | 79900 | [79900-power-chess.json](./79900-power-chess.json) |
 | Power Eleven | 42043 | [42043-power-eleven.json](./42043-power-eleven.json) |
 | Power Fantasy | 258465 | [258465-power-fantasy.json](./258465-power-fantasy.json) |
+| Power Guy World | 339266 | [339266-power-guy-world.json](./339266-power-guy-world.json) |
 | Power Hour | 11054 | [11054-power-hour.json](./11054-power-hour.json) |
 | Power of Seasons | 406717 | [406717-power-of-seasons.json](./406717-power-of-seasons.json) |
 | Power On: Energy Flow | 292816 | [292816-power-on-energy-flow.json](./292816-power-on-energy-flow.json) |
