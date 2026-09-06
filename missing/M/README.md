@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Māmā, Bié Zǒu | 130930 | [130930-mama-bie-zou.json](./130930-mama-bie-zou.json) |
 | Mama's 2-Pack | 86075 | [86075-mamas-2-pack.json](./86075-mamas-2-pack.json) |
 | Mama's Farm: Match ‪3‬ | 144995 | [144995-mamas-farm-match-3.json](./144995-mamas-farm-match-3.json) |
+| Mama's Sleeping Angels | 321991 | [321991-mamas-sleeping-angels.json](./321991-mamas-sleeping-angels.json) |
 | Mamegoma 2: Uchi no Ko ga Ichiban! | 241032 | [241032-mamegoma-2-uchi-no-ko-ga-ichiban.json](./241032-mamegoma-2-uchi-no-ko-ga-ichiban.json) |
 | Mamegoma 3: Kawaii ga Ippai! | 241043 | [241043-mamegoma-3-kawaii-ga-ippai.json](./241043-mamegoma-3-kawaii-ga-ippai.json) |
 | Mamiya: Complete Collection | 405491 | [405491-mamiya-complete-collection.json](./405491-mamiya-complete-collection.json) |
@@ -1667,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mister Gato Idle: The Meowsiah | 348250 | [348250-mister-gato-idle-the-meowsiah.json](./348250-mister-gato-idle-the-meowsiah.json) |
 | Mister Universe | 153428 | [153428-mister-universe.json](./153428-mister-universe.json) |
 | Mister Versatile: A Gay Superhero Visual Novel | 180251 | [180251-mister-versatile-a-gay-superhero-visual-novel.json](./180251-mister-versatile-a-gay-superhero-visual-novel.json) |
+| Misterious Thief | 321996 | [321996-misterious-thief.json](./321996-misterious-thief.json) |
 | Mistful Crimson Morning | 341911 | [341911-mistful-crimson-morning.json](./341911-mistful-crimson-morning.json) |
 | Mistletoe Hotel | 323731 | [323731-mistletoe-hotel.json](./323731-mistletoe-hotel.json) |
 | Mistwilds | 349306 | [349306-mistwilds.json](./349306-mistwilds.json) |
@@ -2581,6 +2583,38 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Step Sisters | 344946 | [344946-my-step-sisters.json](./344946-my-step-sisters.json) |
 | My Sticker Room | 383969 | [383969-my-sticker-room.json](./383969-my-sticker-room.json) |
 | My Strange Girlfriends | 248926 | [248926-my-strange-girlfriends.json](./248926-my-strange-girlfriends.json) |
+| My Sudoku | 321960 | [321960-my-sudoku.json](./321960-my-sudoku.json) |
+| My Sudoku: Classic 4x4 Easy 10 | 321961 | [321961-my-sudoku-classic-4x4-easy-10.json](./321961-my-sudoku-classic-4x4-easy-10.json) |
+| My Sudoku: Classic 4x4 Easy 2 | 321962 | [321962-my-sudoku-classic-4x4-easy-2.json](./321962-my-sudoku-classic-4x4-easy-2.json) |
+| My Sudoku: Classic 4x4 Easy 3 | 321963 | [321963-my-sudoku-classic-4x4-easy-3.json](./321963-my-sudoku-classic-4x4-easy-3.json) |
+| My Sudoku: Classic 4x4 Easy 4 | 321964 | [321964-my-sudoku-classic-4x4-easy-4.json](./321964-my-sudoku-classic-4x4-easy-4.json) |
+| My Sudoku: Classic 4x4 Easy 5 | 321965 | [321965-my-sudoku-classic-4x4-easy-5.json](./321965-my-sudoku-classic-4x4-easy-5.json) |
+| My Sudoku: Classic 4x4 Easy 6 | 321966 | [321966-my-sudoku-classic-4x4-easy-6.json](./321966-my-sudoku-classic-4x4-easy-6.json) |
+| My Sudoku: Classic 4x4 Easy 7 | 321967 | [321967-my-sudoku-classic-4x4-easy-7.json](./321967-my-sudoku-classic-4x4-easy-7.json) |
+| My Sudoku: Classic 4x4 Easy 8 | 321968 | [321968-my-sudoku-classic-4x4-easy-8.json](./321968-my-sudoku-classic-4x4-easy-8.json) |
+| My Sudoku: Classic 4x4 Easy 9 | 321970 | [321970-my-sudoku-classic-4x4-easy-9.json](./321970-my-sudoku-classic-4x4-easy-9.json) |
+| My Sudoku: Classic 6x6 Easy 2 | 321971 | [321971-my-sudoku-classic-6x6-easy-2.json](./321971-my-sudoku-classic-6x6-easy-2.json) |
+| My Sudoku: Classic 6x6 Easy 3 | 321972 | [321972-my-sudoku-classic-6x6-easy-3.json](./321972-my-sudoku-classic-6x6-easy-3.json) |
+| My Sudoku: Classic 6x6 Easy 4 | 321973 | [321973-my-sudoku-classic-6x6-easy-4.json](./321973-my-sudoku-classic-6x6-easy-4.json) |
+| My Sudoku: Classic 6x6 Easy 5 | 321974 | [321974-my-sudoku-classic-6x6-easy-5.json](./321974-my-sudoku-classic-6x6-easy-5.json) |
+| My Sudoku: Classic 6x6 Easy 6 | 321969 | [321969-my-sudoku-classic-6x6-easy-6.json](./321969-my-sudoku-classic-6x6-easy-6.json) |
+| My Sudoku: Classic 6x6 Medium 1 | 321975 | [321975-my-sudoku-classic-6x6-medium-1.json](./321975-my-sudoku-classic-6x6-medium-1.json) |
+| My Sudoku: Classic 6x6 Medium 2 | 321989 | [321989-my-sudoku-classic-6x6-medium-2.json](./321989-my-sudoku-classic-6x6-medium-2.json) |
+| My Sudoku: Classic 6x6 Medium 3 | 321985 | [321985-my-sudoku-classic-6x6-medium-3.json](./321985-my-sudoku-classic-6x6-medium-3.json) |
+| My Sudoku: Classic 6x6 Medium 4 | 321980 | [321980-my-sudoku-classic-6x6-medium-4.json](./321980-my-sudoku-classic-6x6-medium-4.json) |
+| My Sudoku: Classic 6x6 Medium 5 | 321986 | [321986-my-sudoku-classic-6x6-medium-5.json](./321986-my-sudoku-classic-6x6-medium-5.json) |
+| My Sudoku: Classic 6x6 Medium 6 | 321981 | [321981-my-sudoku-classic-6x6-medium-6.json](./321981-my-sudoku-classic-6x6-medium-6.json) |
+| My Sudoku: Classic 9x9 Easy 2 | 321982 | [321982-my-sudoku-classic-9x9-easy-2.json](./321982-my-sudoku-classic-9x9-easy-2.json) |
+| My Sudoku: Classic 9x9 Easy 3 | 321979 | [321979-my-sudoku-classic-9x9-easy-3.json](./321979-my-sudoku-classic-9x9-easy-3.json) |
+| My Sudoku: Classic 9x9 Expert 1 | 321990 | [321990-my-sudoku-classic-9x9-expert-1.json](./321990-my-sudoku-classic-9x9-expert-1.json) |
+| My Sudoku: Classic 9x9 Expert 2 | 321983 | [321983-my-sudoku-classic-9x9-expert-2.json](./321983-my-sudoku-classic-9x9-expert-2.json) |
+| My Sudoku: Classic 9x9 Expert 3 | 321988 | [321988-my-sudoku-classic-9x9-expert-3.json](./321988-my-sudoku-classic-9x9-expert-3.json) |
+| My Sudoku: Classic 9x9 Hard 1 | 321977 | [321977-my-sudoku-classic-9x9-hard-1.json](./321977-my-sudoku-classic-9x9-hard-1.json) |
+| My Sudoku: Classic 9x9 Hard 2 | 321984 | [321984-my-sudoku-classic-9x9-hard-2.json](./321984-my-sudoku-classic-9x9-hard-2.json) |
+| My Sudoku: Classic 9x9 Hard 3 | 321987 | [321987-my-sudoku-classic-9x9-hard-3.json](./321987-my-sudoku-classic-9x9-hard-3.json) |
+| My Sudoku: Classic 9x9 Medium 1 | 321978 | [321978-my-sudoku-classic-9x9-medium-1.json](./321978-my-sudoku-classic-9x9-medium-1.json) |
+| My Sudoku: Classic 9x9 Medium 2 | 321995 | [321995-my-sudoku-classic-9x9-medium-2.json](./321995-my-sudoku-classic-9x9-medium-2.json) |
+| My Sudoku: Classic 9x9 Medium 3 | 321976 | [321976-my-sudoku-classic-9x9-medium-3.json](./321976-my-sudoku-classic-9x9-medium-3.json) |
 | My Summer Love | 391596 | [391596-my-summer-love.json](./391596-my-summer-love.json) |
 | My Sunny Resort | 98981 | [98981-my-sunny-resort.json](./98981-my-sunny-resort.json) |
 | My Sweet Roomies | 378198 | [378198-my-sweet-roomies.json](./378198-my-sweet-roomies.json) |
