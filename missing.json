@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T07:03:22.160Z",
-  "total_missing": 36079,
+  "generated_at": "2026-09-06T07:18:14.815Z",
+  "total_missing": 36129,
   "games": [
     {
       "igdb_id": 306086,
@@ -2741,6 +2741,11 @@
       "igdb_id": 308550,
       "game_name": "A Lucky First Turnabout: A Klavier Gavin Story",
       "file": "missing/A/308550-a-lucky-first-turnabout-a-klavier-gavin-story.json"
+    },
+    {
+      "igdb_id": 351034,
+      "game_name": "A Mafia Escape",
+      "file": "missing/A/351034-a-mafia-escape.json"
     },
     {
       "igdb_id": 381603,
@@ -8343,6 +8348,11 @@
       "file": "missing/A/144993-angry-fugu.json"
     },
     {
+      "igdb_id": 351027,
+      "game_name": "Ani Idle",
+      "file": "missing/A/351027-ani-idle.json"
+    },
+    {
       "igdb_id": 208058,
       "game_name": "Anicca",
       "file": "missing/A/208058-anicca.json"
@@ -9401,6 +9411,11 @@
       "igdb_id": 15598,
       "game_name": "Apocalypse",
       "file": "missing/A/15598-apocalypse.json"
+    },
+    {
+      "igdb_id": 351032,
+      "game_name": "Apocalypse Clash City Free: A Cyberpunk Clan War Death Race game",
+      "file": "missing/A/351032-apocalypse-clash-city-free-a-cyberpunk-clan-war-death-race-game.json"
     },
     {
       "igdb_id": 171089,
@@ -10803,6 +10818,11 @@
       "file": "missing/A/204087-army-driver.json"
     },
     {
+      "igdb_id": 351039,
+      "game_name": "Army Men Battle Simulator",
+      "file": "missing/A/351039-army-men-battle-simulator.json"
+    },
+    {
       "igdb_id": 43947,
       "game_name": "Army Men World War: Team Assault",
       "file": "missing/A/43947-army-men-world-war-team-assault.json"
@@ -11596,6 +11616,11 @@
       "igdb_id": 44611,
       "game_name": "Assassination Classroom VR Balloon Challenge Time",
       "file": "missing/A/44611-assassination-classroom-vr-balloon-challenge-time.json"
+    },
+    {
+      "igdb_id": 350993,
+      "game_name": "Assault at Wounded Ankle",
+      "file": "missing/A/350993-assault-at-wounded-ankle.json"
     },
     {
       "igdb_id": 371888,
@@ -24668,6 +24693,11 @@
       "file": "missing/C/99025-camp-w.json"
     },
     {
+      "igdb_id": 351010,
+      "game_name": "Camp Wombo",
+      "file": "missing/C/351010-camp-wombo.json"
+    },
+    {
       "igdb_id": 135885,
       "game_name": "Campaign Ozark",
       "file": "missing/C/135885-campaign-ozark.json"
@@ -32481,6 +32511,11 @@
       "igdb_id": 371262,
       "game_name": "Courtroom Chaos: Starring Snoop Dogg",
       "file": "missing/C/371262-courtroom-chaos-starring-snoop-dogg.json"
+    },
+    {
+      "igdb_id": 351001,
+      "game_name": "Cover U: Raora Route",
+      "file": "missing/C/351001-cover-u-raora-route.json"
     },
     {
       "igdb_id": 294456,
@@ -42968,6 +43003,11 @@
       "file": "missing/D/396931-downer-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-yonpaku-itsuka-no-tabi.json"
     },
     {
+      "igdb_id": 351043,
+      "game_name": "Downfall MMORPG",
+      "file": "missing/D/351043-downfall-mmorpg.json"
+    },
+    {
       "igdb_id": 303757,
       "game_name": "Downfall to the Turnabout",
       "file": "missing/D/303757-downfall-to-the-turnabout.json"
@@ -45608,6 +45648,11 @@
       "file": "missing/D/57038-dungeons-of-kremlin-remastered.json"
     },
     {
+      "igdb_id": 351002,
+      "game_name": "Dungeons of Paint",
+      "file": "missing/D/351002-dungeons-of-paint.json"
+    },
+    {
       "igdb_id": 361724,
       "game_name": "Dungeons, Dungeons and more... Dice?",
       "file": "missing/D/361724-dungeons-dungeons-and-more-dice.json"
@@ -47403,6 +47448,11 @@
       "file": "missing/E/356105-ellies-farm-forest-fires-collectors-edition.json"
     },
     {
+      "igdb_id": 351026,
+      "game_name": "Ellingby House",
+      "file": "missing/E/351026-ellingby-house.json"
+    },
+    {
       "igdb_id": 21033,
       "game_name": "Elminage Original",
       "file": "missing/E/21033-elminage-original.json"
@@ -48228,6 +48278,11 @@
       "file": "missing/E/159880-enherjar-synergy.json"
     },
     {
+      "igdb_id": 351000,
+      "game_name": "Enigma Heart",
+      "file": "missing/E/351000-enigma-heart.json"
+    },
+    {
       "igdb_id": 190223,
       "game_name": "Enigmarella",
       "file": "missing/E/190223-enigmarella.json"
@@ -48556,6 +48611,11 @@
       "igdb_id": 86728,
       "game_name": "Eric's All-in-1 Solitaire",
       "file": "missing/E/86728-erics-all-in-1-solitaire.json"
+    },
+    {
+      "igdb_id": 351008,
+      "game_name": "Erika America",
+      "file": "missing/E/351008-erika-america.json"
     },
     {
       "igdb_id": 219253,
@@ -50746,6 +50806,11 @@
       "igdb_id": 298897,
       "game_name": "Faded Melodies",
       "file": "missing/F/298897-faded-melodies.json"
+    },
+    {
+      "igdb_id": 350999,
+      "game_name": "Faded Monsuta",
+      "file": "missing/F/350999-faded-monsuta.json"
     },
     {
       "igdb_id": 166734,
@@ -58918,6 +58983,11 @@
       "file": "missing/G/208049-galactic-pioneer.json"
     },
     {
+      "igdb_id": 351041,
+      "game_name": "Galactic Pixel Wars: The Farce Awakens",
+      "file": "missing/G/351041-galactic-pixel-wars-the-farce-awakens.json"
+    },
+    {
       "igdb_id": 25761,
       "game_name": "Galactic Rivalry",
       "file": "missing/G/25761-galactic-rivalry.json"
@@ -64491,6 +64561,16 @@
       "igdb_id": 103506,
       "game_name": "Gun Blood Cowboy Duel",
       "file": "missing/G/103506-gun-blood-cowboy-duel.json"
+    },
+    {
+      "igdb_id": 351036,
+      "game_name": "Gun Builder Elite HD",
+      "file": "missing/G/351036-gun-builder-elite-hd.json"
+    },
+    {
+      "igdb_id": 351042,
+      "game_name": "Gun Building 3",
+      "file": "missing/G/351042-gun-building-3.json"
     },
     {
       "igdb_id": 326421,
@@ -75228,6 +75308,11 @@
       "file": "missing/I/196333-iron-order-1919.json"
     },
     {
+      "igdb_id": 351009,
+      "game_name": "Iron Ranger",
+      "file": "missing/I/351009-iron-ranger.json"
+    },
+    {
       "igdb_id": 157194,
       "game_name": "Iron Reich",
       "file": "missing/I/157194-iron-reich.json"
@@ -81156,6 +81241,11 @@
       "igdb_id": 214754,
       "game_name": "Know more Thai",
       "file": "missing/K/214754-know-more-thai.json"
+    },
+    {
+      "igdb_id": 351006,
+      "game_name": "Know That Flag!",
+      "file": "missing/K/351006-know-that-flag.json"
     },
     {
       "igdb_id": 410931,
@@ -90743,6 +90833,11 @@
       "file": "missing/M/195273-masterchef-chinese-food-edition.json"
     },
     {
+      "igdb_id": 351033,
+      "game_name": "Masterpiece",
+      "file": "missing/M/351033-masterpiece.json"
+    },
+    {
       "igdb_id": 207536,
       "game_name": "MasterQ",
       "file": "missing/M/207536-masterq.json"
@@ -91336,6 +91431,11 @@
       "igdb_id": 300988,
       "game_name": "Mbembe Radio",
       "file": "missing/M/300988-mbembe-radio.json"
+    },
+    {
+      "igdb_id": 350988,
+      "game_name": "MC Eternal 2",
+      "file": "missing/M/350988-mc-eternal-2.json"
     },
     {
       "igdb_id": 50581,
@@ -93471,6 +93571,11 @@
       "igdb_id": 234942,
       "game_name": "Miami Shark",
       "file": "missing/M/234942-miami-shark.json"
+    },
+    {
+      "igdb_id": 351047,
+      "game_name": "MiaouVSRG",
+      "file": "missing/M/351047-miaouvsrg.json"
     },
     {
       "igdb_id": 99012,
@@ -96243,6 +96348,11 @@
       "file": "missing/M/295553-monkey-forward.json"
     },
     {
+      "igdb_id": 351007,
+      "game_name": "Monkey Gang",
+      "file": "missing/M/351007-monkey-gang.json"
+    },
+    {
       "igdb_id": 66,
       "game_name": "Monkey Island 2 Special Edition: LeChuck's Revenge",
       "file": "missing/M/66-monkey-island-2-special-edition-lechucks-revenge.json"
@@ -97231,6 +97341,11 @@
       "igdb_id": 234905,
       "game_name": "More Zombies",
       "file": "missing/M/234905-more-zombies.json"
+    },
+    {
+      "igdb_id": 351044,
+      "game_name": "More/Less",
+      "file": "missing/M/351044-more-less.json"
     },
     {
       "igdb_id": 50758,
@@ -98766,6 +98881,11 @@
       "igdb_id": 126616,
       "game_name": "Music Club Manager",
       "file": "missing/M/126616-music-club-manager.json"
+    },
+    {
+      "igdb_id": 351004,
+      "game_name": "Music Drive: Chase the Beat",
+      "file": "missing/M/351004-music-drive-chase-the-beat.json"
     },
     {
       "igdb_id": 64963,
@@ -112988,6 +113108,11 @@
       "file": "missing/P/200173-pirate-fishing.json"
     },
     {
+      "igdb_id": 351038,
+      "game_name": "Pirate Island Survival Simulator 3D",
+      "file": "missing/P/351038-pirate-island-survival-simulator-3d.json"
+    },
+    {
       "igdb_id": 395538,
       "game_name": "Pirate Life",
       "file": "missing/P/395538-pirate-life.json"
@@ -116621,6 +116746,11 @@
       "igdb_id": 378184,
       "game_name": "Prizma Puzzle Classic",
       "file": "missing/P/378184-prizma-puzzle-classic.json"
+    },
+    {
+      "igdb_id": 351003,
+      "game_name": "Pro Baccarat",
+      "file": "missing/P/351003-pro-baccarat.json"
     },
     {
       "igdb_id": 68004,
@@ -124678,6 +124808,11 @@
       "file": "missing/R/93049-road-avenger.json"
     },
     {
+      "igdb_id": 351028,
+      "game_name": "Road Cafe Simulator",
+      "file": "missing/R/351028-road-cafe-simulator.json"
+    },
+    {
       "igdb_id": 253571,
       "game_name": "Road Dealer Simulator",
       "file": "missing/R/253571-road-dealer-simulator.json"
@@ -125761,6 +125896,11 @@
       "igdb_id": 374635,
       "game_name": "Rolla",
       "file": "missing/R/374635-rolla.json"
+    },
+    {
+      "igdb_id": 351031,
+      "game_name": "Rollbot",
+      "file": "missing/R/351031-rollbot.json"
     },
     {
       "igdb_id": 16359,
@@ -144283,6 +144423,11 @@
       "file": "missing/S/387352-suika-monsters.json"
     },
     {
+      "igdb_id": 351030,
+      "game_name": "Suikoden: Tenmei no Chikai",
+      "file": "missing/S/351030-suikoden-tenmei-no-chikai.json"
+    },
+    {
       "igdb_id": 131578,
       "game_name": "Suiren",
       "file": "missing/S/131578-suiren.json"
@@ -157928,6 +158073,11 @@
       "file": "missing/T/259250-the-sims-4-extreme-violence.json"
     },
     {
+      "igdb_id": 350998,
+      "game_name": "The Sims 4: Golden Years Kit",
+      "file": "missing/T/350998-the-sims-4-golden-years-kit.json"
+    },
+    {
       "igdb_id": 362301,
       "game_name": "The Sims 4: Grange Mudroom Kit",
       "file": "missing/T/362301-the-sims-4-grange-mudroom-kit.json"
@@ -157936,6 +158086,11 @@
       "igdb_id": 121023,
       "game_name": "The Sims 4: Kids Room Stuff",
       "file": "missing/T/121023-the-sims-4-kids-room-stuff.json"
+    },
+    {
+      "igdb_id": 350996,
+      "game_name": "The Sims 4: Kitchen Clutter Kit",
+      "file": "missing/T/350996-the-sims-4-kitchen-clutter-kit.json"
     },
     {
       "igdb_id": 404233,
@@ -157981,6 +158136,11 @@
       "igdb_id": 404225,
       "game_name": "The Sims 4: Prairie Dreams",
       "file": "missing/T/404225-the-sims-4-prairie-dreams.json"
+    },
+    {
+      "igdb_id": 350997,
+      "game_name": "The Sims 4: Restoration Workshop Kit",
+      "file": "missing/T/350997-the-sims-4-restoration-workshop-kit.json"
     },
     {
       "igdb_id": 121022,
@@ -158483,6 +158643,11 @@
       "file": "missing/T/10947-the-sword-of-hope-ii.json"
     },
     {
+      "igdb_id": 351037,
+      "game_name": "The Sword Witch's Apprentice",
+      "file": "missing/T/351037-the-sword-witchs-apprentice.json"
+    },
+    {
       "igdb_id": 152375,
       "game_name": "The Swordsmen X: Survival",
       "file": "missing/T/152375-the-swordsmen-x-survival.json"
@@ -158598,9 +158763,39 @@
       "file": "missing/T/123633-the-testimony-of-trixie-glimmer-smith.json"
     },
     {
+      "igdb_id": 351015,
+      "game_name": "The Texas Chain Saw Massacre: 2003 Leatherface",
+      "file": "missing/T/351015-the-texas-chain-saw-massacre-2003-leatherface.json"
+    },
+    {
+      "igdb_id": 351017,
+      "game_name": "The Texas Chain Saw Massacre: Bones",
+      "file": "missing/T/351017-the-texas-chain-saw-massacre-bones.json"
+    },
+    {
+      "igdb_id": 351014,
+      "game_name": "The Texas Chain Saw Massacre: Connie Outfit Pack 3",
+      "file": "missing/T/351014-the-texas-chain-saw-massacre-connie-outfit-pack-3.json"
+    },
+    {
+      "igdb_id": 351024,
+      "game_name": "The Texas Chain Saw Massacre: Content Pass",
+      "file": "missing/T/351024-the-texas-chain-saw-massacre-content-pass.json"
+    },
+    {
       "igdb_id": 308572,
       "game_name": "The Texas Chain Saw Massacre: Danny Outfit Pack",
       "file": "missing/T/308572-the-texas-chain-saw-massacre-danny-outfit-pack.json"
+    },
+    {
+      "igdb_id": 351011,
+      "game_name": "The Texas Chain Saw Massacre: Denim Outfit Pack",
+      "file": "missing/T/351011-the-texas-chain-saw-massacre-denim-outfit-pack.json"
+    },
+    {
+      "igdb_id": 351020,
+      "game_name": "The Texas Chain Saw Massacre: Hands Suspenders Outfit",
+      "file": "missing/T/351020-the-texas-chain-saw-massacre-hands-suspenders-outfit.json"
     },
     {
       "igdb_id": 308574,
@@ -158608,9 +158803,39 @@
       "file": "missing/T/308574-the-texas-chain-saw-massacre-johnny-razor-sharp-outfit.json"
     },
     {
+      "igdb_id": 351025,
+      "game_name": "The Texas Chain Saw Massacre: Julie Outfit Pack 2",
+      "file": "missing/T/351025-the-texas-chain-saw-massacre-julie-outfit-pack-2.json"
+    },
+    {
       "igdb_id": 308573,
       "game_name": "The Texas Chain Saw Massacre: Nancy Prim 'N Proper Outfit",
       "file": "missing/T/308573-the-texas-chain-saw-massacre-nancy-prim-n-proper-outfit.json"
+    },
+    {
+      "igdb_id": 351023,
+      "game_name": "The Texas Chain Saw Massacre: Rush Week - Halloween Outfit Pack",
+      "file": "missing/T/351023-the-texas-chain-saw-massacre-rush-week-halloween-outfit-pack.json"
+    },
+    {
+      "igdb_id": 351019,
+      "game_name": "The Texas Chain Saw Massacre: Rush Week - Homecoming Pack",
+      "file": "missing/T/351019-the-texas-chain-saw-massacre-rush-week-homecoming-pack.json"
+    },
+    {
+      "igdb_id": 351022,
+      "game_name": "The Texas Chain Saw Massacre: Rush Week - Laundry Day Pack",
+      "file": "missing/T/351022-the-texas-chain-saw-massacre-rush-week-laundry-day-pack.json"
+    },
+    {
+      "igdb_id": 351021,
+      "game_name": "The Texas Chain Saw Massacre: Rush Week - Towel Pack",
+      "file": "missing/T/351021-the-texas-chain-saw-massacre-rush-week-towel-pack.json"
+    },
+    {
+      "igdb_id": 351016,
+      "game_name": "The Texas Chain Saw Massacre: Rush Week - Winter Holiday Pack",
+      "file": "missing/T/351016-the-texas-chain-saw-massacre-rush-week-winter-holiday-pack.json"
     },
     {
       "igdb_id": 308569,
@@ -158618,9 +158843,24 @@
       "file": "missing/T/308569-the-texas-chain-saw-massacre-sissy-wildflower-outfit.json"
     },
     {
+      "igdb_id": 351012,
+      "game_name": "The Texas Chain Saw Massacre: Sonny Outfit Pack 3",
+      "file": "missing/T/351012-the-texas-chain-saw-massacre-sonny-outfit-pack-3.json"
+    },
+    {
+      "igdb_id": 351013,
+      "game_name": "The Texas Chain Saw Massacre: Sunday Best Outfit Pack",
+      "file": "missing/T/351013-the-texas-chain-saw-massacre-sunday-best-outfit-pack.json"
+    },
+    {
       "igdb_id": 308570,
       "game_name": "The Texas Chain Saw Massacre: Weapon Skin Variants",
       "file": "missing/T/308570-the-texas-chain-saw-massacre-weapon-skin-variants.json"
+    },
+    {
+      "igdb_id": 351018,
+      "game_name": "The Texas Chain Saw Massacre: Wyatt",
+      "file": "missing/T/351018-the-texas-chain-saw-massacre-wyatt.json"
     },
     {
       "igdb_id": 196300,
@@ -165173,6 +165413,11 @@
       "file": "missing/T/125430-trash-bandits.json"
     },
     {
+      "igdb_id": 351029,
+      "game_name": "Trash Collector Simulator: Survive Edition",
+      "file": "missing/T/351029-trash-collector-simulator-survive-edition.json"
+    },
+    {
       "igdb_id": 114397,
       "game_name": "Trash defense",
       "file": "missing/T/114397-trash-defense.json"
@@ -169481,6 +169726,11 @@
       "igdb_id": 37199,
       "game_name": "V-Goal Soccer '96",
       "file": "missing/V/37199-v-goal-soccer-96.json"
+    },
+    {
+      "igdb_id": 351035,
+      "game_name": "V-Lover!",
+      "file": "missing/V/351035-v-lover.json"
     },
     {
       "igdb_id": 338559,
