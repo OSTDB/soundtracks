@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfie | 304867 | [304867-elfie.json](./304867-elfie.json) |
 | Elfin National Park | 341877 | [341877-elfin-national-park.json](./341877-elfin-national-park.json) |
 | Elfland Reloaded: Volume 2 | 303238 | [303238-elfland-reloaded-volume-2.json](./303238-elfland-reloaded-volume-2.json) |
+| ElfMiner | 360612 | [360612-elfminer.json](./360612-elfminer.json) |
 | Elfo: Rescue Craby | 322345 | [322345-elfo-rescue-craby.json](./322345-elfo-rescue-craby.json) |
 | Elimination Games | 220840 | [220840-elimination-games.json](./220840-elimination-games.json) |
 | Eliosi's Hunt | 32277 | [32277-eliosis-hunt.json](./32277-eliosis-hunt.json) |
