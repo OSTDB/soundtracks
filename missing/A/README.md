@@ -1638,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Coven | 350441 | [350441-arcane-coven.json](./350441-arcane-coven.json) |
 | Arcane Dimensions | 132820 | [132820-arcane-dimensions.json](./132820-arcane-dimensions.json) |
 | Arcane Domains | 114380 | [114380-arcane-domains.json](./114380-arcane-domains.json) |
+| Arcane Drifter | 324301 | [324301-arcane-drifter.json](./324301-arcane-drifter.json) |
 | Arcane Eats | 348268 | [348268-arcane-eats.json](./348268-arcane-eats.json) |
 | Arcane Path | 339643 | [339643-arcane-path.json](./339643-arcane-path.json) |
 | Arcane Pets: Plushie Empire | 256545 | [256545-arcane-pets-plushie-empire.json](./256545-arcane-pets-plushie-empire.json) |
