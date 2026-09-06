@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlterEgo City | 306643 | [306643-alterego-city.json](./306643-alterego-city.json) |
 | Alteric | 32358 | [32358-alteric.json](./32358-alteric.json) |
 | Alternate Worlds | 62768 | [62768-alternate-worlds.json](./62768-alternate-worlds.json) |
+| Alternative Alliance Alpha | 347713 | [347713-alternative-alliance-alpha.json](./347713-alternative-alliance-alpha.json) |
 | Alternative Shemevolution | 404836 | [404836-alternative-shemevolution.json](./404836-alternative-shemevolution.json) |
 | AlterVerse: Disruption | 70394 | [70394-alterverse-disruption.json](./70394-alterverse-disruption.json) |
 | AltLife | 331148 | [331148-altlife.json](./331148-altlife.json) |
@@ -1944,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astonishing Baseball 22 | 262081 | [262081-astonishing-baseball-22.json](./262081-astonishing-baseball-22.json) |
 | Astra GalaxyX | 399615 | [399615-astra-galaxyx.json](./399615-astra-galaxyx.json) |
 | Astra Protocol 2: Audio Pack | 309660 | [309660-astra-protocol-2-audio-pack.json](./309660-astra-protocol-2-audio-pack.json) |
+| Astra Quest | 347718 | [347718-astra-quest.json](./347718-astra-quest.json) |
 | Astra Sentinel | 392126 | [392126-astra-sentinel.json](./392126-astra-sentinel.json) |
 | Astra: Fading Stars | 143124 | [143124-astra-fading-stars.json](./143124-astra-fading-stars.json) |
 | Astral Domine | 33078 | [33078-astral-domine.json](./33078-astral-domine.json) |
@@ -2117,6 +2119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Auto: Maximum Autodrive In The Alien Apocalypse | 277602 | [277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json](./277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json) |
 | Auto Hill Climb | 237658 | [237658-auto-hill-climb.json](./237658-auto-hill-climb.json) |
 | Auto Race | 245572 | [245572-auto-race.json](./245572-auto-race.json) |
+| Auto Test | 347705 | [347705-auto-test.json](./347705-auto-test.json) |
 | Auto Tow Truck Simulator | 278710 | [278710-auto-tow-truck-simulator.json](./278710-auto-tow-truck-simulator.json) |
 | Auto Tuktuk Mafia | 411587 | [411587-auto-tuktuk-mafia.json](./411587-auto-tuktuk-mafia.json) |
 | Auto-Upturn | 48692 | [48692-auto-upturn.json](./48692-auto-upturn.json) |
