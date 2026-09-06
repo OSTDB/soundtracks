@@ -1853,6 +1853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The President | 209640 | [209640-the-president.json](./209640-the-president.json) |
 | The Price is Right | 78446 | [78446-the-price-is-right.json](./78446-the-price-is-right.json) |
 | The Prime MoVR | 76659 | [76659-the-prime-movr.json](./76659-the-prime-movr.json) |
+| The Primrose Theater | 335860 | [335860-the-primrose-theater.json](./335860-the-primrose-theater.json) |
 | The Prince is Dead | 239877 | [239877-the-prince-is-dead.json](./239877-the-prince-is-dead.json) |
 | The Prince's Keeper | 412310 | [412310-the-princes-keeper.json](./412310-the-princes-keeper.json) |
 | The Princess in the Mirror | 298885 | [298885-the-princess-in-the-mirror.json](./298885-the-princess-in-the-mirror.json) |
@@ -2444,6 +2445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief VR: Legacy of Shadow | 347124 | [347124-thief-vr-legacy-of-shadow.json](./347124-thief-vr-legacy-of-shadow.json) |
 | Thief's Adventure | 372490 | [372490-thiefs-adventure.json](./372490-thiefs-adventure.json) |
 | Thievery | 105326 | [105326-thievery.json](./105326-thievery.json) |
+| Thieves | 335875 | [335875-thieves.json](./335875-thieves.json) |
 | Thieves Guild Master | 413662 | [413662-thieves-guild-master.json](./413662-thieves-guild-master.json) |
 | Thing-Thing Arena 3 | 234938 | [234938-thing-thing-arena-3.json](./234938-thing-thing-arena-3.json) |
 | Things on Wheels | 72727 | [72727-things-on-wheels.json](./72727-things-on-wheels.json) |
@@ -3540,6 +3542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TraumaCore Violence | 236518 | [236518-traumacore-violence.json](./236518-traumacore-violence.json) |
 | Travel Bug | 86096 | [86096-travel-bug.json](./86096-travel-bug.json) |
 | Travel Cuisine: Collector's Edition | 250655 | [250655-travel-cuisine-collectors-edition.json](./250655-travel-cuisine-collectors-edition.json) |
+| Travel Junction | 335859 | [335859-travel-junction.json](./335859-travel-junction.json) |
 | Travel Mosaics 3: Tokyo Animated | 134058 | [134058-travel-mosaics-3-tokyo-animated.json](./134058-travel-mosaics-3-tokyo-animated.json) |
 | Travel Riddles: Mahjong | 106588 | [106588-travel-riddles-mahjong.json](./106588-travel-riddles-mahjong.json) |
 | Travel to GolemPark | 199100 | [199100-travel-to-golempark.json](./199100-travel-to-golempark.json) |
