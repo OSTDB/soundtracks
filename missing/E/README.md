@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Simulator 2: Farm Machinery | 356654 | [356654-euro-truck-simulator-2-farm-machinery.json](./356654-euro-truck-simulator-2-farm-machinery.json) |
 | Euro Truck Simulator 2: Heart of Russia | 165013 | [165013-euro-truck-simulator-2-heart-of-russia.json](./165013-euro-truck-simulator-2-heart-of-russia.json) |
 | Euro-Man | 71554 | [71554-euro-man.json](./71554-euro-man.json) |
+| EuroGoal 2012 | 343818 | [343818-eurogoal-2012.json](./343818-eurogoal-2012.json) |
 | Europa 1400: The Guild | 681 | [681-europa-1400-the-guild.json](./681-europa-1400-the-guild.json) |
 | Europa Barbarorum | 137059 | [137059-europa-barbarorum.json](./137059-europa-barbarorum.json) |
 | Europa One | 371918 | [371918-europa-one.json](./371918-europa-one.json) |
