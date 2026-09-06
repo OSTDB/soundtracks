@@ -494,6 +494,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Fire | 348792 | [348792-open-fire.json](./348792-open-fire.json) |
 | Open Fire: Ready | 389966 | [389966-open-fire-ready.json](./389966-open-fire-ready.json) |
 | Open Fishing 2 | 333003 | [333003-open-fishing-2.json](./333003-open-fishing-2.json) |
+| Open Heart: Book 1 | 313721 | [313721-open-heart-book-1.json](./313721-open-heart-book-1.json) |
+| Open Heart: Second Year | 313722 | [313722-open-heart-second-year.json](./313722-open-heart-second-year.json) |
 | Open Rails | 89985 | [89985-open-rails.json](./89985-open-rails.json) |
 | Open Space Collection | 196306 | [196306-open-space-collection.json](./196306-open-space-collection.json) |
 | Open Star Fighter | 339288 | [339288-open-star-fighter.json](./339288-open-star-fighter.json) |
