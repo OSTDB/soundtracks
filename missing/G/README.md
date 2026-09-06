@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Boom - Defend Planet | 108487 | [108487-galaxy-boom-defend-planet.json](./108487-galaxy-boom-defend-planet.json) |
 | Galaxy Bowling | 101540 | [101540-galaxy-bowling.json](./101540-galaxy-bowling.json) |
 | Galaxy Cannon Rider | 33051 | [33051-galaxy-cannon-rider.json](./33051-galaxy-cannon-rider.json) |
+| Galaxy Defense: Fortress TD | 344951 | [344951-galaxy-defense-fortress-td.json](./344951-galaxy-defense-fortress-td.json) |
 | Galaxy Express Chaldea | 339113 | [339113-galaxy-express-chaldea.json](./339113-galaxy-express-chaldea.json) |
 | Galaxy Game | 11396 | [11396-galaxy-game.json](./11396-galaxy-game.json) |
 | Galaxy Hero H2H | 233207 | [233207-galaxy-hero-h2h.json](./233207-galaxy-hero-h2h.json) |
@@ -1002,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Run | 107197 | [107197-green-run.json](./107197-green-run.json) |
 | Green Steel | 161361 | [161361-green-steel.json](./161361-green-steel.json) |
 | Green Suits | 408735 | [408735-green-suits.json](./408735-green-suits.json) |
+| Green the Planet | 344937 | [344937-green-the-planet.json](./344937-green-the-planet.json) |
 | Green Wind | 209638 | [209638-green-wind.json](./209638-green-wind.json) |
 | Green Zone | 254768 | [254768-green-zone.json](./254768-green-zone.json) |
 | GreenChess | 87293 | [87293-greenchess.json](./87293-greenchess.json) |
