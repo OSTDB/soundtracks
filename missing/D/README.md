@@ -606,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deephome | 66693 | [66693-deephome.json](./66693-deephome.json) |
 | Deeplanders | 319344 | [319344-deeplanders.json](./319344-deeplanders.json) |
 | Deer Avenger | 73851 | [73851-deer-avenger.json](./73851-deer-avenger.json) |
+| Deer Avenger 2 | 316617 | [316617-deer-avenger-2.json](./316617-deer-avenger-2.json) |
 | Deer Drive | 47771 | [47771-deer-drive.json](./47771-deer-drive.json) |
 | Deer Hunt Challenge | 78044 | [78044-deer-hunt-challenge.json](./78044-deer-hunt-challenge.json) |
 | Deer Hunter | 206345 | [206345-deer-hunter.json](./206345-deer-hunter.json) |
@@ -1014,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Mania | 129200 | [129200-dig-mania.json](./129200-dig-mania.json) |
 | Dig Odyssey: Cosmic Mining | 251205 | [251205-dig-odyssey-cosmic-mining.json](./251205-dig-odyssey-cosmic-mining.json) |
 | Dig Out! | 87330 | [87330-dig-out.json](./87330-dig-out.json) |
+| Digdig | 316611 | [316611-digdig.json](./316611-digdig.json) |
 | Digger | 172721 | [172721-digger.json](./172721-digger.json) |
 | Digger Man | 39631 | [39631-digger-man.json](./39631-digger-man.json) |
 | Diggerman | 101578 | [101578-diggerman.json](./101578-diggerman.json) |
