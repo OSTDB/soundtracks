@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OHV | 216978 | [216978-ohv.json](./216978-ohv.json) |
 | Oib.io | 86079 | [86079-oib-io.json](./86079-oib-io.json) |
 | Oik 5: DLC | 171626 | [171626-oik-5-dlc.json](./171626-oik-5-dlc.json) |
+| Oil Baron | 366254 | [366254-oil-baron.json](./366254-oil-baron.json) |
 | Oil Patch Simulations | 110366 | [110366-oil-patch-simulations.json](./110366-oil-patch-simulations.json) |
 | Oil Strike '75 | 310172 | [310172-oil-strike-75.json](./310172-oil-strike-75.json) |
 | Oil Tycoon 2 | 219261 | [219261-oil-tycoon-2.json](./219261-oil-tycoon-2.json) |
