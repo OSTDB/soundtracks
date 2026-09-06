@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Over II | 46658 | [46658-game-over-ii.json](./46658-game-over-ii.json) |
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
 | Game Shop Simulator | 381044 | [381044-game-shop-simulator.json](./381044-game-shop-simulator.json) |
+| Game Software wo Tsukurou | 333557 | [333557-game-software-wo-tsukurou.json](./333557-game-software-wo-tsukurou.json) |
 | Game Title: Lost Levels | 143097 | [143097-game-title-lost-levels.json](./143097-game-title-lost-levels.json) |
 | Game Tycoon | 127332 | [127332-game-tycoon.json](./127332-game-tycoon.json) |
 | Game.exe | 142467 | [142467-game-exe.json](./142467-game-exe.json) |
@@ -373,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geon Cube | 50636 | [50636-geon-cube.json](./50636-geon-cube.json) |
 | Geopogo Cities | 393468 | [393468-geopogo-cities.json](./393468-geopogo-cities.json) |
 | Geopolitique 1990 | 24915 | [24915-geopolitique-1990.json](./24915-geopolitique-1990.json) |
+| George Likes to Hide | 333586 | [333586-george-likes-to-hide.json](./333586-george-likes-to-hide.json) |
 | George of the Jungle and the Search for the Secret | 259265 | [259265-george-of-the-jungle-and-the-search-for-the-secret.json](./259265-george-of-the-jungle-and-the-search-for-the-secret.json) |
 | George: A Horror Story | 189182 | [189182-george-a-horror-story.json](./189182-george-a-horror-story.json) |
 | Geotastic | 142722 | [142722-geotastic.json](./142722-geotastic.json) |
