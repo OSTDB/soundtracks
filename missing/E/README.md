@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecto | 298341 | [298341-ecto.json](./298341-ecto.json) |
 | Ecto Portal | 163951 | [163951-ecto-portal.json](./163951-ecto-portal.json) |
 | ECW Hardcore Revolution | 3483 | [3483-ecw-hardcore-revolution.json](./3483-ecw-hardcore-revolution.json) |
+| Ed & Edda: Grand Prix – Racing Champions | 346020 | [346020-ed-and-edda-grand-prix-racing-champions.json](./346020-ed-and-edda-grand-prix-racing-champions.json) |
 | Ed Chess | 93042 | [93042-ed-chess.json](./93042-ed-chess.json) |
 | Eddie's World | 250037 | [250037-eddies-world.json](./250037-eddies-world.json) |
 | Eden Eternal | 46995 | [46995-eden-eternal.json](./46995-eden-eternal.json) |
@@ -706,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evader | 290693 | [290693-evader.json](./290693-evader.json) |
 | Evangeline's Defense | 203556 | [203556-evangelines-defense.json](./203556-evangelines-defense.json) |
 | Evangelion: Breaking Dawn | 382795 | [382795-evangelion-breaking-dawn.json](./382795-evangelion-breaking-dawn.json) |
+| Evasion | 346055 | [346055-evasion.json](./346055-evasion.json) |
 | Evasion from Cluster 42 | 259283 | [259283-evasion-from-cluster-42.json](./259283-evasion-from-cluster-42.json) |
 | EVE Jan | 59432 | [59432-eve-jan.json](./59432-eve-jan.json) |
 | Eve Online: Ascension | 329910 | [329910-eve-online-ascension.json](./329910-eve-online-ascension.json) |
