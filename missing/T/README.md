@@ -591,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrorist Takedown: Payback | 54430 | [54430-terrorist-takedown-payback.json](./54430-terrorist-takedown-payback.json) |
 | TerrorMario! | 323754 | [323754-terrormario.json](./323754-terrormario.json) |
 | Terrors to Unveil: Intrusion | 344352 | [344352-terrors-to-unveil-intrusion.json](./344352-terrors-to-unveil-intrusion.json) |
+| Terry The Turtle's Big Adventure | 315502 | [315502-terry-the-turtles-big-adventure.json](./315502-terry-the-turtles-big-adventure.json) |
 | Terry's Other Games | 327820 | [327820-terrys-other-games.json](./327820-terrys-other-games.json) |
 | Terry's Treasure Trouble! | 265934 | [265934-terrys-treasure-trouble.json](./265934-terrys-treasure-trouble.json) |
 | Tescaris | 339274 | [339274-tescaris.json](./339274-tescaris.json) |
@@ -1072,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Detroit After | 199123 | [199123-the-detroit-after.json](./199123-the-detroit-after.json) |
 | The Devil Rais’d the Storm | 349883 | [349883-the-devil-rais-d-the-storm.json](./349883-the-devil-rais-d-the-storm.json) |
 | The Devil Within | 314049 | [314049-the-devil-within.json](./314049-the-devil-within.json) |
+| The Devilz Work | 315512 | [315512-the-devilz-work.json](./315512-the-devilz-work.json) |
 | The Die Is Cast | 240474 | [240474-the-die-is-cast.json](./240474-the-die-is-cast.json) |
 | The Dig | 207 | [207-the-dig.json](./207-the-dig.json) |
 | The Dime Birthday Level Collection | 312901 | [312901-the-dime-birthday-level-collection.json](./312901-the-dime-birthday-level-collection.json) |
@@ -2171,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spooky Island | 394167 | [394167-the-spooky-island.json](./394167-the-spooky-island.json) |
 | The Sporting News Baseball | 55154 | [55154-the-sporting-news-baseball.json](./55154-the-sporting-news-baseball.json) |
 | The Sports Daishuugou | 123043 | [123043-the-sports-daishuugou.json](./123043-the-sports-daishuugou.json) |
+| The Springlock: Aftermath | 315504 | [315504-the-springlock-aftermath.json](./315504-the-springlock-aftermath.json) |
 | The Square Game | 130377 | [130377-the-square-game.json](./130377-the-square-game.json) |
 | The Squirrel & Sea | 358305 | [358305-the-squirrel-and-sea.json](./358305-the-squirrel-and-sea.json) |
 | The Stadium Project | 62177 | [62177-the-stadium-project.json](./62177-the-stadium-project.json) |
@@ -3211,6 +3214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Many Cooks | 375838 | [375838-too-many-cooks.json](./375838-too-many-cooks.json) |
 | Too Many Kittens | 269839 | [269839-too-many-kittens.json](./269839-too-many-kittens.json) |
 | Too Many Me | 11011 | [11011-too-many-me.json](./11011-too-many-me.json) |
+| Too Many Nights | 315475 | [315475-too-many-nights.json](./315475-too-many-nights.json) |
 | Took: The Immortal Hero | 329365 | [329365-took-the-immortal-hero.json](./329365-took-the-immortal-hero.json) |
 | Toolbox Tycoon | 362826 | [362826-toolbox-tycoon.json](./362826-toolbox-tycoon.json) |
 | Tools Up! Garden Party: Season Pass | 202935 | [202935-tools-up-garden-party-season-pass.json](./202935-tools-up-garden-party-season-pass.json) |
