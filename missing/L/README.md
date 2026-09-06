@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Salvo | 76651 | [76651-last-salvo.json](./76651-last-salvo.json) |
 | Last Sapiens | 216471 | [216471-last-sapiens.json](./216471-last-sapiens.json) |
 | Last Shinobi | 377055 | [377055-last-shinobi.json](./377055-last-shinobi.json) |
+| Last Stop | 345518 | [345518-last-stop.json](./345518-last-stop.json) |
 | Last Striker | 40270 | [40270-last-striker.json](./40270-last-striker.json) |
 | Last Survivor | 74411 | [74411-last-survivor.json](./74411-last-survivor.json) |
 | Last Survivor | 81430 | [81430-last-survivor.json](./81430-last-survivor.json) |
@@ -284,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leftovers | 221977 | [221977-leftovers.json](./221977-leftovers.json) |
 | Legacy | 213049 | [213049-legacy.json](./213049-legacy.json) |
 | Legacy | 23896 | [23896-legacy.json](./23896-legacy.json) |
+| Legacy | 345513 | [345513-legacy.json](./345513-legacy.json) |
 | Legacy | 377594 | [377594-legacy.json](./377594-legacy.json) |
 | Legacy | 401477 | [401477-legacy.json](./401477-legacy.json) |
 | Legacy Battle heart 2 | 108505 | [108505-legacy-battle-heart-2.json](./108505-legacy-battle-heart-2.json) |
