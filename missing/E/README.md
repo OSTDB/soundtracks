@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egghead Gumpty | 210852 | [210852-egghead-gumpty.json](./210852-egghead-gumpty.json) |
 | Eggies | 233770 | [233770-eggies.json](./233770-eggies.json) |
 | Eggman | 309664 | [309664-eggman.json](./309664-eggman.json) |
+| Eggplant | 338180 | [338180-eggplant.json](./338180-eggplant.json) |
 | Eggrolls Shoot | 379881 | [379881-eggrolls-shoot.json](./379881-eggrolls-shoot.json) |
 | Eggs of Steel: Charlie's Eggcellent Adventure | 68023 | [68023-eggs-of-steel-charlies-eggcellent-adventure.json](./68023-eggs-of-steel-charlies-eggcellent-adventure.json) |
 | Eggular Game | 307310 | [307310-eggular-game.json](./307310-eggular-game.json) |
