@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexachess | 374634 | [374634-hexachess.json](./374634-hexachess.json) |
 | Hexagon Heroes | 132272 | [132272-hexagon-heroes.json](./132272-hexagon-heroes.json) |
 | Hexagonal Explods | 238729 | [238729-hexagonal-explods.json](./238729-hexagonal-explods.json) |
+| Hexalert | 337635 | [337635-hexalert.json](./337635-hexalert.json) |
 | Hexanome | 110601 | [110601-hexanome.json](./110601-hexanome.json) |
 | HexaTerra | 320564 | [320564-hexaterra.json](./320564-hexaterra.json) |
 | Hexaword | 386725 | [386725-hexaword.json](./386725-hexaword.json) |
