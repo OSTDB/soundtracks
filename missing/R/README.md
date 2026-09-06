@@ -965,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripples | 239315 | [239315-ripples.json](./239315-ripples.json) |
 | Riptide | 291236 | [291236-riptide.json](./291236-riptide.json) |
 | Riptide GP2 | 16735 | [16735-riptide-gp2.json](./16735-riptide-gp2.json) |
+| Rise | 338219 | [338219-rise.json](./338219-rise.json) |
 | Rise & Shine | 6732 | [6732-rise-and-shine.json](./6732-rise-and-shine.json) |
 | Rise Again | 248885 | [248885-rise-again.json](./248885-rise-again.json) |
 | Rise Of Anupet | 309644 | [309644-rise-of-anupet.json](./309644-rise-of-anupet.json) |
