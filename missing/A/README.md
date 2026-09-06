@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affiliated Homies | 357796 | [357796-affiliated-homies.json](./357796-affiliated-homies.json) |
 | AFK Heroes | 194034 | [194034-afk-heroes.json](./194034-afk-heroes.json) |
 | AFK Industarry | 405469 | [405469-afk-industarry.json](./405469-afk-industarry.json) |
+| AFK Shift | 347169 | [347169-afk-shift.json](./347169-afk-shift.json) |
 | AFK Summoner | 179206 | [179206-afk-summoner.json](./179206-afk-summoner.json) |
 | AFL 99 | 60580 | [60580-afl-99.json](./60580-afl-99.json) |
 | AFL Live 2003 | 47307 | [47307-afl-live-2003.json](./47307-afl-live-2003.json) |
@@ -1764,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Puzzle | 354421 | [354421-art-puzzle.json](./354421-art-puzzle.json) |
 | Art Studio Simulator | 407346 | [407346-art-studio-simulator.json](./407346-art-studio-simulator.json) |
 | Art Style: Zengage | 69293 | [69293-art-style-zengage.json](./69293-art-style-zengage.json) |
+| Art Together | 347165 | [347165-art-together.json](./347165-art-together.json) |
 | Artemis Lutea: District Defender | 318766 | [318766-artemis-lutea-district-defender.json](./318766-artemis-lutea-district-defender.json) |
 | Artemis: Book One | 239288 | [239288-artemis-book-one.json](./239288-artemis-book-one.json) |
 | Arthur's 1st Grade | 70988 | [70988-arthurs-1st-grade.json](./70988-arthurs-1st-grade.json) |
@@ -1959,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Assembler | 71506 | [71506-astro-assembler.json](./71506-astro-assembler.json) |
 | Astro Blox Revisited | 241655 | [241655-astro-blox-revisited.json](./241655-astro-blox-revisited.json) |
 | Astro Bot: Stellar Speedway | 317620 | [317620-astro-bot-stellar-speedway.json](./317620-astro-bot-stellar-speedway.json) |
+| Astro Bot: Vicious Void Galaxy | 347137 | [347137-astro-bot-vicious-void-galaxy.json](./347137-astro-bot-vicious-void-galaxy.json) |
 | Astro Bouncer | 103472 | [103472-astro-bouncer.json](./103472-astro-bouncer.json) |
 | Astro Boy Dash | 58274 | [58274-astro-boy-dash.json](./58274-astro-boy-dash.json) |
 | Astro Boy Flight! | 58276 | [58276-astro-boy-flight.json](./58276-astro-boy-flight.json) |
