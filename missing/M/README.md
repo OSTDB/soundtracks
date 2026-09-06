@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mah Jong Solitaire 2 | 86699 | [86699-mah-jong-solitaire-2.json](./86699-mah-jong-solitaire-2.json) |
 | Mah-jongg Puzzle Pai-Sen | 124787 | [124787-mah-jongg-puzzle-pai-sen.json](./124787-mah-jongg-puzzle-pai-sen.json) |
 | Mahjong | 90692 | [90692-mahjong.json](./90692-mahjong.json) |
+| Mahjong Cascade: Bamboo and Dragons | 334100 | [334100-mahjong-cascade-bamboo-and-dragons.json](./334100-mahjong-cascade-bamboo-and-dragons.json) |
 | Mahjong Elements HD | 174371 | [174371-mahjong-elements-hd.json](./174371-mahjong-elements-hd.json) |
 | Mahjong Gakuen Touma Soushirou Toujou | 59429 | [59429-mahjong-gakuen-touma-soushirou-toujou.json](./59429-mahjong-gakuen-touma-soushirou-toujou.json) |
 | Mahjong Infinity | 117043 | [117043-mahjong-infinity.json](./117043-mahjong-infinity.json) |
@@ -1318,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Jill Off | 72696 | [72696-mighty-jill-off.json](./72696-mighty-jill-off.json) |
 | Mighty Knight Legacy | 275339 | [275339-mighty-knight-legacy.json](./275339-mighty-knight-legacy.json) |
 | Mighty Mahjong | 406111 | [406111-mighty-mahjong.json](./406111-mighty-mahjong.json) |
+| Mighty Mouse Cheese Hunt | 334115 | [334115-mighty-mouse-cheese-hunt.json](./334115-mighty-mouse-cheese-hunt.json) |
 | Mighty Party | 29865 | [29865-mighty-party.json](./29865-mighty-party.json) |
 | Mighty Switch Force! Hyper Drive Edition | 2176 | [2176-mighty-switch-force-hyper-drive-edition.json](./2176-mighty-switch-force-hyper-drive-edition.json) |
 | MightyBowOfGreenHills | 96761 | [96761-mightybowofgreenhills.json](./96761-mightybowofgreenhills.json) |
@@ -1469,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Cozy Room: Lo-Fi | 338702 | [338702-mini-cozy-room-lo-fi.json](./338702-mini-cozy-room-lo-fi.json) |
 | Mini Drift Car | 337460 | [337460-mini-drift-car.json](./337460-mini-drift-car.json) |
 | Mini Drift Car: All Cars Key | 337461 | [337461-mini-drift-car-all-cars-key.json](./337461-mini-drift-car-all-cars-key.json) |
+| Mini Football Cup | 334101 | [334101-mini-football-cup.json](./334101-mini-football-cup.json) |
 | Mini Golf 3D | 117753 | [117753-mini-golf-3d.json](./117753-mini-golf-3d.json) |
 | Mini Golf Championship | 204705 | [204705-mini-golf-championship.json](./204705-mini-golf-championship.json) |
 | Mini Golf Halloween | 233754 | [233754-mini-golf-halloween.json](./233754-mini-golf-halloween.json) |
@@ -1810,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly One | 55944 | [55944-monopoly-one.json](./55944-monopoly-one.json) |
 | Monorail Stories | 137051 | [137051-monorail-stories.json](./137051-monorail-stories.json) |
 | Monria | 22385 | [22385-monria.json](./22385-monria.json) |
+| Monstabox | 334134 | [334134-monstabox.json](./334134-monstabox.json) |
 | Monster 3 | 311266 | [311266-monster-3.json](./311266-monster-3.json) |
 | Monster 4x4 3D | 141860 | [141860-monster-4x4-3d.json](./141860-monster-4x4-3d.json) |
 | Monster Academy | 167307 | [167307-monster-academy.json](./167307-monster-academy.json) |
@@ -1860,8 +1864,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Stories 3: Twisted Reflection - Accessory: Royal Monocle | 412283 | [412283-monster-hunter-stories-3-twisted-reflection-accessory-royal-monocle.json](./412283-monster-hunter-stories-3-twisted-reflection-accessory-royal-monocle.json) |
 | Monster Hunter Wilds: Alma Outfit - Autumn Witch | 412290 | [412290-monster-hunter-wilds-alma-outfit-autumn-witch.json](./412290-monster-hunter-wilds-alma-outfit-autumn-witch.json) |
 | Monster Hunter Wilds: Alma Outfit - Featherskirt Seikret Dress | 412288 | [412288-monster-hunter-wilds-alma-outfit-featherskirt-seikret-dress.json](./412288-monster-hunter-wilds-alma-outfit-featherskirt-seikret-dress.json) |
+| Monster Hunter Wilds: Deluxe Edition | 334112 | [334112-monster-hunter-wilds-deluxe-edition.json](./334112-monster-hunter-wilds-deluxe-edition.json) |
 | Monster Hunter Wilds: Erik Outfit - Autumn Therian | 412291 | [412291-monster-hunter-wilds-erik-outfit-autumn-therian.json](./412291-monster-hunter-wilds-erik-outfit-autumn-therian.json) |
 | Monster Hunter Wilds: Erik Outfit - Crestcollar Seikret Suit | 412289 | [412289-monster-hunter-wilds-erik-outfit-crestcollar-seikret-suit.json](./412289-monster-hunter-wilds-erik-outfit-crestcollar-seikret-suit.json) |
+| Monster Hunter Wilds: Premium Deluxe Edition | 334113 | [334113-monster-hunter-wilds-premium-deluxe-edition.json](./334113-monster-hunter-wilds-premium-deluxe-edition.json) |
 | Monster Hunter: Poogie Race | 313482 | [313482-monster-hunter-poogie-race.json](./313482-monster-hunter-poogie-race.json) |
 | Monster Hunter: World - Digital Deluxe Edition | 81354 | [81354-monster-hunter-world-digital-deluxe-edition.json](./81354-monster-hunter-world-digital-deluxe-edition.json) |
 | Monster Hunter: World - Steelbook Edition | 81355 | [81355-monster-hunter-world-steelbook-edition.json](./81355-monster-hunter-world-steelbook-edition.json) |
