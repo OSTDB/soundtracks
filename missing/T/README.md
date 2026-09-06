@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenebrous Dungeon | 115002 | [115002-tenebrous-dungeon.json](./115002-tenebrous-dungeon.json) |
 | Tengai Makyou: Daiyon no Mokushiroku - The Apocalypse IV | 80577 | [80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json](./80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json) |
 | Tengai Makyou: Fuun Kabuki-den | 71530 | [71530-tengai-makyou-fuun-kabuki-den.json](./71530-tengai-makyou-fuun-kabuki-den.json) |
+| Tengu no Kassha: Shoot and Embodiment! | 342037 | [342037-tengu-no-kassha-shoot-and-embodiment.json](./342037-tengu-no-kassha-shoot-and-embodiment.json) |
 | Tenioha! feat. Mami | 263741 | [263741-tenioha-feat-mami.json](./263741-tenioha-feat-mami.json) |
 | Tennis Antics | 54426 | [54426-tennis-antics.json](./54426-tennis-antics.json) |
 | Tennis Champs Returns | 58823 | [58823-tennis-champs-returns.json](./58823-tennis-champs-returns.json) |
@@ -690,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Angry 4 | 186866 | [186866-the-angry-4.json](./186866-the-angry-4.json) |
 | The Angry Turnabout | 308547 | [308547-the-angry-turnabout.json](./308547-the-angry-turnabout.json) |
 | The Animals of Farthing Wood | 364539 | [364539-the-animals-of-farthing-wood.json](./364539-the-animals-of-farthing-wood.json) |
+| The Anomaly Experiment | 342048 | [342048-the-anomaly-experiment.json](./342048-the-anomaly-experiment.json) |
 | The Anomaly Project | 312378 | [312378-the-anomaly-project.json](./312378-the-anomaly-project.json) |
 | The Answer is 42 | 127234 | [127234-the-answer-is-42.json](./127234-the-answer-is-42.json) |
 | The Anti-Gravity Machine | 359420 | [359420-the-anti-gravity-machine.json](./359420-the-anti-gravity-machine.json) |
@@ -1122,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fable of Fairy Glen | 355030 | [355030-the-fable-of-fairy-glen.json](./355030-the-fable-of-fairy-glen.json) |
 | The Fabric of the Mind | 238748 | [238748-the-fabric-of-the-mind.json](./238748-the-fabric-of-the-mind.json) |
 | The Faceless City | 183590 | [183590-the-faceless-city.json](./183590-the-faceless-city.json) |
+| The Fae King Is My Roommate | 342076 | [342076-the-fae-king-is-my-roommate.json](./342076-the-fae-king-is-my-roommate.json) |
 | The Faery Tale Adventure | 12087 | [12087-the-faery-tale-adventure.json](./12087-the-faery-tale-adventure.json) |
 | The Fairly OddParents: Clash With the Anti-World | 18256 | [18256-the-fairly-oddparents-clash-with-the-anti-world.json](./18256-the-fairly-oddparents-clash-with-the-anti-world.json) |
 | The Fairly OddParents: Enter the Cleft | 18257 | [18257-the-fairly-oddparents-enter-the-cleft.json](./18257-the-fairly-oddparents-enter-the-cleft.json) |
@@ -1778,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outer Worlds: Spacer's Choice Edition | 239999 | [239999-the-outer-worlds-spacers-choice-edition.json](./239999-the-outer-worlds-spacers-choice-edition.json) |
 | The Outer Zone: Survival Tactics | 264856 | [264856-the-outer-zone-survival-tactics.json](./264856-the-outer-zone-survival-tactics.json) |
 | The Outlast Trials: Porcelain Observer Pack | 366838 | [366838-the-outlast-trials-porcelain-observer-pack.json](./366838-the-outlast-trials-porcelain-observer-pack.json) |
+| The Outlast Trials: Project Relapse | 342069 | [342069-the-outlast-trials-project-relapse.json](./342069-the-outlast-trials-project-relapse.json) |
 | The Outlast Trials: Spelunking For Your Life Pack | 366837 | [366837-the-outlast-trials-spelunking-for-your-life-pack.json](./366837-the-outlast-trials-spelunking-for-your-life-pack.json) |
 | The Outlast Trials: Terrified Toddler Pack | 366835 | [366835-the-outlast-trials-terrified-toddler-pack.json](./366835-the-outlast-trials-terrified-toddler-pack.json) |
 | The Outlast Trials: World of Heavyweights Pack | 366839 | [366839-the-outlast-trials-world-of-heavyweights-pack.json](./366839-the-outlast-trials-world-of-heavyweights-pack.json) |
@@ -1808,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pet Squad | 332810 | [332810-the-pet-squad.json](./332810-the-pet-squad.json) |
 | The Pilgrim's Progress: The Video Game | 61109 | [61109-the-pilgrims-progress-the-video-game.json](./61109-the-pilgrims-progress-the-video-game.json) |
 | The Pillagers of Raillore | 137096 | [137096-the-pillagers-of-raillore.json](./137096-the-pillagers-of-raillore.json) |
+| The Pirates of Dark Water | 342059 | [342059-the-pirates-of-dark-water.json](./342059-the-pirates-of-dark-water.json) |
 | The Plague | 26707 | [26707-the-plague.json](./26707-the-plague.json) |
 | The Play's the Thing | 154017 | [154017-the-plays-the-thing.json](./154017-the-plays-the-thing.json) |
 | The Plug | 175436 | [175436-the-plug.json](./175436-the-plug.json) |
@@ -3159,6 +3164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Hangyaku Geki Sakuya's Counterattack | 371271 | [371271-touhou-hangyaku-geki-sakuyas-counterattack.json](./371271-touhou-hangyaku-geki-sakuyas-counterattack.json) |
 | Touhou Haou III | 98454 | [98454-touhou-haou-iii.json](./98454-touhou-haou-iii.json) |
 | Touhou Ibunseki: Ayaria Dawn - ReCreation | 126924 | [126924-touhou-ibunseki-ayaria-dawn-recreation.json](./126924-touhou-ibunseki-ayaria-dawn-recreation.json) |
+| Touhou Infinite Nocturne | 342052 | [342052-touhou-infinite-nocturne.json](./342052-touhou-infinite-nocturne.json) |
 | Touhou Jaseishou: The Last Comer | 246672 | [246672-touhou-jaseishou-the-last-comer.json](./246672-touhou-jaseishou-the-last-comer.json) |
 | Touhou Mahoujou: Book of Star Mythology | 246669 | [246669-touhou-mahoujou-book-of-star-mythology.json](./246669-touhou-mahoujou-book-of-star-mythology.json) |
 | Touhou Makuka Sai: Fantastic Danmaku Festival Part III | 331125 | [331125-touhou-makuka-sai-fantastic-danmaku-festival-part-iii.json](./331125-touhou-makuka-sai-fantastic-danmaku-festival-part-iii.json) |
