@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10:16 | 267102 | [267102-10-16.json](./267102-10-16.json) |
 | 10.000 Pizzas Please | 350428 | [350428-10-000-pizzas-please.json](./350428-10-000-pizzas-please.json) |
 | 100 Aliens Cats | 288726 | [288726-100-aliens-cats.json](./288726-100-aliens-cats.json) |
+| 100 Cats Lost in World Find & Color | 348783 | [348783-100-cats-lost-in-world-find-and-color.json](./348783-100-cats-lost-in-world-find-and-color.json) |
 | 100 China Cats | 315289 | [315289-100-china-cats.json](./315289-100-china-cats.json) |
 | 100 Christmas Hidden Cats | 378185 | [378185-100-christmas-hidden-cats.json](./378185-100-christmas-hidden-cats.json) |
 | 100 Classic Book Collection | 47939 | [47939-100-classic-book-collection.json](./47939-100-classic-book-collection.json) |
