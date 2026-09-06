@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Keys to Your Heart | 231615 | [231615-100-keys-to-your-heart.json](./231615-100-keys-to-your-heart.json) |
 | 100 Kills Challenge | 278175 | [278175-100-kills-challenge.json](./278175-100-kills-challenge.json) |
 | 100 Korea Cats | 301030 | [301030-100-korea-cats.json](./301030-100-korea-cats.json) |
+| 100 Men vs 1 Gorilla | 349879 | [349879-100-men-vs-1-gorilla.json](./349879-100-men-vs-1-gorilla.json) |
 | 100 Rooms of Enemies | 247184 | [247184-100-rooms-of-enemies.json](./247184-100-rooms-of-enemies.json) |
 | 100 Sea Cats | 315291 | [315291-100-sea-cats.json](./315291-100-sea-cats.json) |
 | 100 Thailand Cats | 315293 | [315293-100-thailand-cats.json](./315293-100-thailand-cats.json) |
@@ -367,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 60 Minute Marathon 2 | 314628 | [314628-60-minute-marathon-2.json](./314628-60-minute-marathon-2.json) |
 | 60 Minutes to Extinction: Escape Room | 370113 | [370113-60-minutes-to-extinction-escape-room.json](./370113-60-minutes-to-extinction-escape-room.json) |
 | 60 Second Game Challenge | 262068 | [262068-60-second-game-challenge.json](./262068-60-second-game-challenge.json) |
+| 60 Seconds! Souper Scavenger | 349831 | [349831-60-seconds-souper-scavenger.json](./349831-60-seconds-souper-scavenger.json) |
 | 64 Oozumou | 3433 | [3433-64-oozumou.json](./3433-64-oozumou.json) |
 | 64 Oozumou 2 | 3434 | [3434-64-oozumou-2.json](./3434-64-oozumou-2.json) |
 | 64 Trump Collection: Alice no Waku-waku Trump World | 3435 | [3435-64-trump-collection-alice-no-waku-waku-trump-world.json](./3435-64-trump-collection-alice-no-waku-waku-trump-world.json) |
