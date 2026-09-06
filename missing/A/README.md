@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Hours Athletes | 44603 | [44603-after-hours-athletes.json](./44603-after-hours-athletes.json) |
 | After Stream | 235465 | [235465-after-stream.json](./235465-after-stream.json) |
 | After Sun | 180815 | [180815-after-sun.json](./180815-after-sun.json) |
+| After The Afterlife | 361684 | [361684-after-the-afterlife.json](./361684-after-the-afterlife.json) |
 | After the Curtain Call | 377042 | [377042-after-the-curtain-call.json](./377042-after-the-curtain-call.json) |
 | After the Fall | 119330 | [119330-after-the-fall.json](./119330-after-the-fall.json) |
 | After the Fall: Launch Edition | 196313 | [196313-after-the-fall-launch-edition.json](./196313-after-the-fall-launch-edition.json) |
@@ -928,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Chimp: Episode 1 - The Jungle | 310194 | [310194-alpha-chimp-episode-1-the-jungle.json](./310194-alpha-chimp-episode-1-the-jungle.json) |
 | Alpha Dog | 120429 | [120429-alpha-dog.json](./120429-alpha-dog.json) |
 | Alpha Guns | 137675 | [137675-alpha-guns.json](./137675-alpha-guns.json) |
+| Alpha Point | 361730 | [361730-alpha-point.json](./361730-alpha-point.json) |
 | Alpha Sea | 147448 | [147448-alpha-sea.json](./147448-alpha-sea.json) |
 | Alpha vs. Zet | 130380 | [130380-alpha-vs-zet.json](./130380-alpha-vs-zet.json) |
 | Alphabear Hustle | 396230 | [396230-alphabear-hustle.json](./396230-alphabear-hustle.json) |
@@ -1742,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash of Gods: The Way | 192439 | [192439-ash-of-gods-the-way.json](./192439-ash-of-gods-the-way.json) |
 | Ash of Gods: Universe Bundle | 257096 | [257096-ash-of-gods-universe-bundle.json](./257096-ash-of-gods-universe-bundle.json) |
 | Ash of War | 109684 | [109684-ash-of-war.json](./109684-ash-of-war.json) |
+| Ash Pines: The Motel | 361695 | [361695-ash-pines-the-motel.json](./361695-ash-pines-the-motel.json) |
 | Ash. | 76669 | [76669-ash.json](./76669-ash.json) |
 | Ashen Arrows | 211413 | [211413-ashen-arrows.json](./211413-ashen-arrows.json) |
 | Ashen Knights: Foreshadow | 211412 | [211412-ashen-knights-foreshadow.json](./211412-ashen-knights-foreshadow.json) |
