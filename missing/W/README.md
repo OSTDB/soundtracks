@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk Home | 183069 | [183069-walk-home.json](./183069-walk-home.json) |
 | Walk With Me | 128002 | [128002-walk-with-me.json](./128002-walk-with-me.json) |
 | Walk Zero1 | 329364 | [329364-walk-zero1.json](./329364-walk-zero1.json) |
+| Walkabout Mini Golf: Mars Gardens | 360019 | [360019-walkabout-mini-golf-mars-gardens.json](./360019-walkabout-mini-golf-mars-gardens.json) |
 | Walkabout Mini Golf: Mount Olympus | 334481 | [334481-walkabout-mini-golf-mount-olympus.json](./334481-walkabout-mini-golf-mount-olympus.json) |
 | Walkover | 35787 | [35787-walkover.json](./35787-walkover.json) |
 | Walkure Romanze More & More | 194624 | [194624-walkure-romanze-more-and-more.json](./194624-walkure-romanze-more-and-more.json) |
