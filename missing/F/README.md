@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Blast | 108503 | [108503-fast-blast.json](./108503-fast-blast.json) |
 | Fast Food | 18287 | [18287-fast-food.json](./18287-fast-food.json) |
 | Fast Food Crisis | 266523 | [266523-fast-food-crisis.json](./266523-fast-food-crisis.json) |
+| Fast Food Frog | 358881 | [358881-fast-food-frog.json](./358881-fast-food-frog.json) |
 | Fast Food Panic | 50631 | [50631-fast-food-panic.json](./50631-fast-food-panic.json) |
 | Fast Food Rage | 386700 | [386700-fast-food-rage.json](./386700-fast-food-rage.json) |
 | Fast Travel: Loot Delivery Service | 117050 | [117050-fast-travel-loot-delivery-service.json](./117050-fast-travel-loot-delivery-service.json) |
@@ -714,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Person Shooter | 145636 | [145636-fish-person-shooter.json](./145636-fish-person-shooter.json) |
 | Fish Royale | 227500 | [227500-fish-royale.json](./227500-fish-royale.json) |
 | Fish Swarm: Within Inches | 383962 | [383962-fish-swarm-within-inches.json](./383962-fish-swarm-within-inches.json) |
+| Fish Tales | 358849 | [358849-fish-tales.json](./358849-fish-tales.json) |
 | Fish Tank Simulator | 383958 | [383958-fish-tank-simulator.json](./383958-fish-tank-simulator.json) |
 | Fisher-Price: I Can Remember | 26659 | [26659-fisher-price-i-can-remember.json](./26659-fisher-price-i-can-remember.json) |
 | Fisherman's House | 172749 | [172749-fishermans-house.json](./172749-fishermans-house.json) |
@@ -881,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipper Critters | 20693 | [20693-flipper-critters.json](./20693-flipper-critters.json) |
 | Flipping Frogs 64 | 369060 | [369060-flipping-frogs-64.json](./369060-flipping-frogs-64.json) |
 | Flipping in the air | 278703 | [278703-flipping-in-the-air.json](./278703-flipping-in-the-air.json) |
+| Flipping Phantom | 358861 | [358861-flipping-phantom.json](./358861-flipping-phantom.json) |
 | FlipPix Jigsaw - Retro | 91997 | [91997-flippix-jigsaw-retro.json](./91997-flippix-jigsaw-retro.json) |
 | FlipPix Jigsaw - Spicy | 96047 | [96047-flippix-jigsaw-spicy.json](./96047-flippix-jigsaw-spicy.json) |
 | FlipRide Rush | 409526 | [409526-flipride-rush.json](./409526-flipride-rush.json) |
@@ -969,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Dino Simulator 3D: Pterodactyl | 104671 | [104671-flying-dino-simulator-3d-pterodactyl.json](./104671-flying-dino-simulator-3d-pterodactyl.json) |
 | Flying Hero VR | 164504 | [164504-flying-hero-vr.json](./164504-flying-hero-vr.json) |
 | Flying Motorcycle Simulator Pro | 87258 | [87258-flying-motorcycle-simulator-pro.json](./87258-flying-motorcycle-simulator-pro.json) |
+| Flying Saucer | 358845 | [358845-flying-saucer.json](./358845-flying-saucer.json) |
 | Flying Stunt Simulator | 278156 | [278156-flying-stunt-simulator.json](./278156-flying-stunt-simulator.json) |
 | Flying Sushi | 337991 | [337991-flying-sushi.json](./337991-flying-sushi.json) |
 | Flying Unicorn | 256532 | [256532-flying-unicorn.json](./256532-flying-unicorn.json) |
@@ -1076,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest | 185166 | [185166-forest.json](./185166-forest.json) |
 | Forest | 187538 | [187538-forest.json](./187538-forest.json) |
 | Forest Crossroads | 278151 | [278151-forest-crossroads.json](./278151-forest-crossroads.json) |
+| Forest Doesn’t Care | 358851 | [358851-forest-doesn-t-care.json](./358851-forest-doesn-t-care.json) |
 | Forest Friends Match | 340231 | [340231-forest-friends-match.json](./340231-forest-friends-match.json) |
 | Forest Harvester Tractor 3D | 89941 | [89941-forest-harvester-tractor-3d.json](./89941-forest-harvester-tractor-3d.json) |
 | Forest Hills: The Last Year | 292310 | [292310-forest-hills-the-last-year.json](./292310-forest-hills-the-last-year.json) |
