@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Levi's Garden | 142503 | [142503-levis-garden.json](./142503-levis-garden.json) |
 | Leviaclaw | 379877 | [379877-leviaclaw.json](./379877-leviaclaw.json) |
 | Leviathan | 341320 | [341320-leviathan.json](./341320-leviathan.json) |
+| Lewis Quest | 337085 | [337085-lewis-quest.json](./337085-lewis-quest.json) |
 | Lexispell | 376482 | [376482-lexispell.json](./376482-lexispell.json) |
 | Lexit | 58226 | [58226-lexit.json](./58226-lexit.json) |
 | Lexual | 58227 | [58227-lexual.json](./58227-lexual.json) |
@@ -621,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily: Shiroki Yuri no Otome-tachi S | 222504 | [222504-lily-shiroki-yuri-no-otome-tachi-s.json](./222504-lily-shiroki-yuri-no-otome-tachi-s.json) |
 | Lily's Epic Quest | 31956 | [31956-lilys-epic-quest.json](./31956-lilys-epic-quest.json) |
 | Lim Beyond One-on-One Basketball | 254782 | [254782-lim-beyond-one-on-one-basketball.json](./254782-lim-beyond-one-on-one-basketball.json) |
+| Limb: Origins | 337086 | [337086-limb-origins.json](./337086-limb-origins.json) |
 | Limbot | 380436 | [380436-limbot.json](./380436-limbot.json) |
 | Limbs | 238751 | [238751-limbs.json](./238751-limbs.json) |
 | Limbus Company | 194106 | [194106-limbus-company.json](./194106-limbus-company.json) |
@@ -1175,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Descent | 333360 | [333360-lunar-descent.json](./333360-lunar-descent.json) |
 | Lunar Escape | 178642 | [178642-lunar-escape.json](./178642-lunar-escape.json) |
 | Lunar Jetman | 7852 | [7852-lunar-jetman.json](./7852-lunar-jetman.json) |
+| Lunar Lancer | 337090 | [337090-lunar-lancer.json](./337090-lunar-lancer.json) |
 | Lunar Racer | 259246 | [259246-lunar-racer.json](./259246-lunar-racer.json) |
 | Lunarball | 291250 | [291250-lunarball.json](./291250-lunarball.json) |
 | Lunatic Rave 2 | 79901 | [79901-lunatic-rave-2.json](./79901-lunatic-rave-2.json) |
