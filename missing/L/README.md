@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Cosa Nostra | 389976 | [389976-la-cosa-nostra.json](./389976-la-cosa-nostra.json) |
 | La Culture Generale pour les Nuls | 269831 | [269831-la-culture-generale-pour-les-nuls.json](./269831-la-culture-generale-pour-les-nuls.json) |
 | LA Hollywood Zombies | 273633 | [273633-la-hollywood-zombies.json](./273633-la-hollywood-zombies.json) |
+| La Libertad Arrasa: Milei | 323725 | [323725-la-libertad-arrasa-milei.json](./323725-la-libertad-arrasa-milei.json) |
 | La Llorona Wants Your Soul | 291737 | [291737-la-llorona-wants-your-soul.json](./291737-la-llorona-wants-your-soul.json) |
 | La Maledizione dell'Uccello Serpente | 191225 | [191225-la-maledizione-delluccello-serpente.json](./191225-la-maledizione-delluccello-serpente.json) |
 | La Mina | 252994 | [252994-la-mina.json](./252994-la-mina.json) |
@@ -281,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn Basic Mandarin!! | 396220 | [396220-learn-basic-mandarin.json](./396220-learn-basic-mandarin.json) |
 | Learn Colors Shapes Preschool Games for Kids Games | 232169 | [232169-learn-colors-shapes-preschool-games-for-kids-games.json](./232169-learn-colors-shapes-preschool-games-for-kids-games.json) |
 | Learn Spanish! Easy Vocabulary | 371919 | [371919-learn-spanish-easy-vocabulary.json](./371919-learn-spanish-easy-vocabulary.json) |
+| Learn to Play Chess with Fritz & Chesster | 323714 | [323714-learn-to-play-chess-with-fritz-and-chesster.json](./323714-learn-to-play-chess-with-fritz-and-chesster.json) |
 | Learning Ladder: Years 1 & 2 | 326983 | [326983-learning-ladder-years-1-and-2.json](./326983-learning-ladder-years-1-and-2.json) |
 | Leas: City of the Sun | 334477 | [334477-leas-city-of-the-sun.json](./334477-leas-city-of-the-sun.json) |
 | Leather Goddesses of Phobos | 12174 | [12174-leather-goddesses-of-phobos.json](./12174-leather-goddesses-of-phobos.json) |
@@ -408,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leisure Suit Larry: Wet Dreams Saga Bundle | 173791 | [173791-leisure-suit-larry-wet-dreams-saga-bundle.json](./173791-leisure-suit-larry-wet-dreams-saga-bundle.json) |
 | Leisurely Brick | 267656 | [267656-leisurely-brick.json](./267656-leisurely-brick.json) |
 | Lek gjemsel med Mummitrollet | 404209 | [404209-lek-gjemsel-med-mummitrollet.json](./404209-lek-gjemsel-med-mummitrollet.json) |
+| Lema Sabachthani | 323721 | [323721-lema-sabachthani.json](./323721-lema-sabachthani.json) |
 | Lemegeton | 402262 | [402262-lemegeton.json](./402262-lemegeton.json) |
 | Lemmings | 239310 | [239310-lemmings.json](./239310-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 242242 | [242242-lemmings-and-oh-no-more-lemmings.json](./242242-lemmings-and-oh-no-more-lemmings.json) |
@@ -461,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Fish! Hooked On | 21022 | [21022-lets-fish-hooked-on.json](./21022-lets-fish-hooked-on.json) |
 | Let's Get Rich | 112316 | [112316-lets-get-rich.json](./112316-lets-get-rich.json) |
 | Let's Go Jungle!: Lost on the Island of Spice | 69304 | [69304-lets-go-jungle-lost-on-the-island-of-spice.json](./69304-lets-go-jungle-lost-on-the-island-of-spice.json) |
+| Let's Go Thingio!: Re:Thingio Side A | 323753 | [323753-lets-go-thingio-re-thingio-side-a.json](./323753-lets-go-thingio-re-thingio-side-a.json) |
 | Let's Go! My Harem Farm | 278149 | [278149-lets-go-my-harem-farm.json](./278149-lets-go-my-harem-farm.json) |
 | Let's Learn Japanese! Complete Collection | 306696 | [306696-lets-learn-japanese-complete-collection.json](./306696-lets-learn-japanese-complete-collection.json) |
 | Let's Park: Backyard Edition | 214185 | [214185-lets-park-backyard-edition.json](./214185-lets-park-backyard-edition.json) |
@@ -529,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexit | 58226 | [58226-lexit.json](./58226-lexit.json) |
 | Lexual | 58227 | [58227-lexual.json](./58227-lexual.json) |
 | Lezdom CEO Fantasy | 331308 | [331308-lezdom-ceo-fantasy.json](./331308-lezdom-ceo-fantasy.json) |
+| LFS S6 Quest | 323732 | [323732-lfs-s6-quest.json](./323732-lfs-s6-quest.json) |
 | LGBT Color by Number for Adults | 165035 | [165035-lgbt-color-by-number-for-adults.json](./165035-lgbt-color-by-number-for-adults.json) |
 | Lgnorant girl doll | 114994 | [114994-lgnorant-girl-doll.json](./114994-lgnorant-girl-doll.json) |
 | Lhama Clicker | 236545 | [236545-lhama-clicker.json](./236545-lhama-clicker.json) |
@@ -640,12 +645,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limbs | 238751 | [238751-limbs.json](./238751-limbs.json) |
 | Limbus Company | 194106 | [194106-limbus-company.json](./194106-limbus-company.json) |
 | Limbus Stable | 352213 | [352213-limbus-stable.json](./352213-limbus-stable.json) |
+| Lime Juice | 323719 | [323719-lime-juice.json](./323719-lime-juice.json) |
 | LimeLight Lemonade Jam | 371255 | [371255-limelight-lemonade-jam.json](./371255-limelight-lemonade-jam.json) |
 | Limerick: Cadence Mansion | 224743 | [224743-limerick-cadence-mansion.json](./224743-limerick-cadence-mansion.json) |
 | Limes 235 | 415103 | [415103-limes-235.json](./415103-limes-235.json) |
 | Liminal Death | 340921 | [340921-liminal-death.json](./340921-liminal-death.json) |
 | Liminal Gallery | 274214 | [274214-liminal-gallery.json](./274214-liminal-gallery.json) |
 | Liminal Point | 330566 | [330566-liminal-point.json](./330566-liminal-point.json) |
+| Liminal Spaces Jam | 323735 | [323735-liminal-spaces-jam.json](./323735-liminal-spaces-jam.json) |
 | Liminal Waters | 373545 | [373545-liminal-waters.json](./373545-liminal-waters.json) |
 | Liminal: The Forgotten Maze | 375803 | [375803-liminal-the-forgotten-maze.json](./375803-liminal-the-forgotten-maze.json) |
 | Liminality Online | 176476 | [176476-liminality-online.json](./176476-liminality-online.json) |
@@ -727,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Fox: Bubble Spinner | 296074 | [296074-little-fox-bubble-spinner.json](./296074-little-fox-bubble-spinner.json) |
 | Little Friends: Dogs & Cats | 110337 | [110337-little-friends-dogs-and-cats.json](./110337-little-friends-dogs-and-cats.json) |
 | Little Galaxy Family | 175424 | [175424-little-galaxy-family.json](./175424-little-galaxy-family.json) |
+| Little Girl in Underland | 323733 | [323733-little-girl-in-underland.json](./323733-little-girl-in-underland.json) |
 | Little Gods of the Abyss | 169434 | [169434-little-gods-of-the-abyss.json](./169434-little-gods-of-the-abyss.json) |
 | Little Harvest | 254783 | [254783-little-harvest.json](./254783-little-harvest.json) |
 | Little Hero | 194019 | [194019-little-hero.json](./194019-little-hero.json) |
