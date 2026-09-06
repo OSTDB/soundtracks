@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xango Tango | 205820 | [205820-xango-tango.json](./205820-xango-tango.json) |
 | XBlaze Lost: Memories | 11637 | [11637-xblaze-lost-memories.json](./11637-xblaze-lost-memories.json) |
 | XCOM 2: Shen's Last Gift | 19859 | [19859-xcom-2-shens-last-gift.json](./19859-xcom-2-shens-last-gift.json) |
+| Xd Clicker | 364511 | [364511-xd-clicker.json](./364511-xd-clicker.json) |
 | xDasher | 132261 | [132261-xdasher.json](./132261-xdasher.json) |
 | XDefiant | 159029 | [159029-xdefiant.json](./159029-xdefiant.json) |
 | XeGrader Plus | 388057 | [388057-xegrader-plus.json](./388057-xegrader-plus.json) |
