@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Battles | 124274 | [124274-2048-battles.json](./124274-2048-battles.json) |
 | 2048 Maniac | 317633 | [317633-2048-maniac.json](./317633-2048-maniac.json) |
 | 2048 Royal Cards | 190740 | [190740-2048-royal-cards.json](./190740-2048-royal-cards.json) |
+| 204863 | 342678 | [342678-204863.json](./342678-204863.json) |
 | 209 | 316432 | [316432-209.json](./316432-209.json) |
 | 20th Century Trivia Challenge | 205826 | [205826-20th-century-trivia-challenge.json](./205826-20th-century-trivia-challenge.json) |
 | 2112TD: Tower Defense Survival | 135256 | [135256-2112td-tower-defense-survival.json](./135256-2112td-tower-defense-survival.json) |
