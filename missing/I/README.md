@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Mythical Beasts | 387327 | [387327-idle-mythical-beasts.json](./387327-idle-mythical-beasts.json) |
 | Idle Ocean Cleaner Eco Tycoon | 247211 | [247211-idle-ocean-cleaner-eco-tycoon.json](./247211-idle-ocean-cleaner-eco-tycoon.json) |
 | Idle Outpost | 302674 | [302674-idle-outpost.json](./302674-idle-outpost.json) |
+| Idle Pinball | 330171 | [330171-idle-pinball.json](./330171-idle-pinball.json) |
 | Idle Portal Guardian | 118372 | [118372-idle-portal-guardian.json](./118372-idle-portal-guardian.json) |
 | Idle Quest Giver | 247210 | [247210-idle-quest-giver.json](./247210-idle-quest-giver.json) |
 | Idle Regenerator | 408041 | [408041-idle-regenerator.json](./408041-idle-regenerator.json) |
