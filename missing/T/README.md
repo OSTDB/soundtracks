@@ -1938,8 +1938,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Essential Glam Kit | 362300 | [362300-the-sims-4-essential-glam-kit.json](./362300-the-sims-4-essential-glam-kit.json) |
 | The Sims 4: Everyday Stuff Bundle | 159341 | [159341-the-sims-4-everyday-stuff-bundle.json](./159341-the-sims-4-everyday-stuff-bundle.json) |
 | The Sims 4: Extreme Violence | 259250 | [259250-the-sims-4-extreme-violence.json](./259250-the-sims-4-extreme-violence.json) |
+| The Sims 4: Golden Years Kit | 350998 | [350998-the-sims-4-golden-years-kit.json](./350998-the-sims-4-golden-years-kit.json) |
 | The Sims 4: Grange Mudroom Kit | 362301 | [362301-the-sims-4-grange-mudroom-kit.json](./362301-the-sims-4-grange-mudroom-kit.json) |
 | The Sims 4: Kids Room Stuff | 121023 | [121023-the-sims-4-kids-room-stuff.json](./121023-the-sims-4-kids-room-stuff.json) |
+| The Sims 4: Kitchen Clutter Kit | 350996 | [350996-the-sims-4-kitchen-clutter-kit.json](./350996-the-sims-4-kitchen-clutter-kit.json) |
 | The Sims 4: Lady Bridgerton's Masquerade Ball Fashion Kit | 404233 | [404233-the-sims-4-lady-bridgertons-masquerade-ball-fashion-kit.json](./404233-the-sims-4-lady-bridgertons-masquerade-ball-fashion-kit.json) |
 | The Sims 4: Lady Bridgerton’s Masquerade Ballroom Kit | 404232 | [404232-the-sims-4-lady-bridgerton-s-masquerade-ballroom-kit.json](./404232-the-sims-4-lady-bridgerton-s-masquerade-ballroom-kit.json) |
 | The Sims 4: Laundry Day Stuff | 82118 | [82118-the-sims-4-laundry-day-stuff.json](./82118-the-sims-4-laundry-day-stuff.json) |
@@ -1949,6 +1951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: My Wedding Stories | 191387 | [191387-the-sims-4-my-wedding-stories.json](./191387-the-sims-4-my-wedding-stories.json) |
 | The Sims 4: Outdoor Bundle | 159339 | [159339-the-sims-4-outdoor-bundle.json](./159339-the-sims-4-outdoor-bundle.json) |
 | The Sims 4: Prairie Dreams | 404225 | [404225-the-sims-4-prairie-dreams.json](./404225-the-sims-4-prairie-dreams.json) |
+| The Sims 4: Restoration Workshop Kit | 350997 | [350997-the-sims-4-restoration-workshop-kit.json](./350997-the-sims-4-restoration-workshop-kit.json) |
 | The Sims 4: Romantic Garden Stuff | 121022 | [121022-the-sims-4-romantic-garden-stuff.json](./121022-the-sims-4-romantic-garden-stuff.json) |
 | The Sims 4: Seasons, Jungle Adventure, Spooky Stuff | 159332 | [159332-the-sims-4-seasons-jungle-adventure-spooky-stuff.json](./159332-the-sims-4-seasons-jungle-adventure-spooky-stuff.json) |
 | The Sims 4: Silver Screen Style Kit | 404223 | [404223-the-sims-4-silver-screen-style-kit.json](./404223-the-sims-4-silver-screen-style-kit.json) |
@@ -2049,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Swine | 137693 | [137693-the-swine.json](./137693-the-swine.json) |
 | The Sword of Hope | 10946 | [10946-the-sword-of-hope.json](./10946-the-sword-of-hope.json) |
 | The Sword of Hope II | 10947 | [10947-the-sword-of-hope-ii.json](./10947-the-sword-of-hope-ii.json) |
+| The Sword Witch's Apprentice | 351037 | [351037-the-sword-witchs-apprentice.json](./351037-the-sword-witchs-apprentice.json) |
 | The Swordsmen X: Survival | 152375 | [152375-the-swordsmen-x-survival.json](./152375-the-swordsmen-x-survival.json) |
 | The Sych Story: Human Being | 369574 | [369574-the-sych-story-human-being.json](./369574-the-sych-story-human-being.json) |
 | The T.O.T.E.: Tales of the Elements | 258214 | [258214-the-t-o-t-e-tales-of-the-elements.json](./258214-the-t-o-t-e-tales-of-the-elements.json) |
@@ -2072,11 +2076,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terminator | 7688 | [7688-the-terminator.json](./7688-the-terminator.json) |
 | The Terminator: Future Shock | 8413 | [8413-the-terminator-future-shock.json](./8413-the-terminator-future-shock.json) |
 | The Testimony of Trixie Glimmer Smith | 123633 | [123633-the-testimony-of-trixie-glimmer-smith.json](./123633-the-testimony-of-trixie-glimmer-smith.json) |
+| The Texas Chain Saw Massacre: 2003 Leatherface | 351015 | [351015-the-texas-chain-saw-massacre-2003-leatherface.json](./351015-the-texas-chain-saw-massacre-2003-leatherface.json) |
+| The Texas Chain Saw Massacre: Bones | 351017 | [351017-the-texas-chain-saw-massacre-bones.json](./351017-the-texas-chain-saw-massacre-bones.json) |
+| The Texas Chain Saw Massacre: Connie Outfit Pack 3 | 351014 | [351014-the-texas-chain-saw-massacre-connie-outfit-pack-3.json](./351014-the-texas-chain-saw-massacre-connie-outfit-pack-3.json) |
+| The Texas Chain Saw Massacre: Content Pass | 351024 | [351024-the-texas-chain-saw-massacre-content-pass.json](./351024-the-texas-chain-saw-massacre-content-pass.json) |
 | The Texas Chain Saw Massacre: Danny Outfit Pack | 308572 | [308572-the-texas-chain-saw-massacre-danny-outfit-pack.json](./308572-the-texas-chain-saw-massacre-danny-outfit-pack.json) |
+| The Texas Chain Saw Massacre: Denim Outfit Pack | 351011 | [351011-the-texas-chain-saw-massacre-denim-outfit-pack.json](./351011-the-texas-chain-saw-massacre-denim-outfit-pack.json) |
+| The Texas Chain Saw Massacre: Hands Suspenders Outfit | 351020 | [351020-the-texas-chain-saw-massacre-hands-suspenders-outfit.json](./351020-the-texas-chain-saw-massacre-hands-suspenders-outfit.json) |
 | The Texas Chain Saw Massacre: Johnny Razor-sharp Outfit | 308574 | [308574-the-texas-chain-saw-massacre-johnny-razor-sharp-outfit.json](./308574-the-texas-chain-saw-massacre-johnny-razor-sharp-outfit.json) |
+| The Texas Chain Saw Massacre: Julie Outfit Pack 2 | 351025 | [351025-the-texas-chain-saw-massacre-julie-outfit-pack-2.json](./351025-the-texas-chain-saw-massacre-julie-outfit-pack-2.json) |
 | The Texas Chain Saw Massacre: Nancy Prim 'N Proper Outfit | 308573 | [308573-the-texas-chain-saw-massacre-nancy-prim-n-proper-outfit.json](./308573-the-texas-chain-saw-massacre-nancy-prim-n-proper-outfit.json) |
+| The Texas Chain Saw Massacre: Rush Week - Halloween Outfit Pack | 351023 | [351023-the-texas-chain-saw-massacre-rush-week-halloween-outfit-pack.json](./351023-the-texas-chain-saw-massacre-rush-week-halloween-outfit-pack.json) |
+| The Texas Chain Saw Massacre: Rush Week - Homecoming Pack | 351019 | [351019-the-texas-chain-saw-massacre-rush-week-homecoming-pack.json](./351019-the-texas-chain-saw-massacre-rush-week-homecoming-pack.json) |
+| The Texas Chain Saw Massacre: Rush Week - Laundry Day Pack | 351022 | [351022-the-texas-chain-saw-massacre-rush-week-laundry-day-pack.json](./351022-the-texas-chain-saw-massacre-rush-week-laundry-day-pack.json) |
+| The Texas Chain Saw Massacre: Rush Week - Towel Pack | 351021 | [351021-the-texas-chain-saw-massacre-rush-week-towel-pack.json](./351021-the-texas-chain-saw-massacre-rush-week-towel-pack.json) |
+| The Texas Chain Saw Massacre: Rush Week - Winter Holiday Pack | 351016 | [351016-the-texas-chain-saw-massacre-rush-week-winter-holiday-pack.json](./351016-the-texas-chain-saw-massacre-rush-week-winter-holiday-pack.json) |
 | The Texas Chain Saw Massacre: Sissy Wildflower Outfit | 308569 | [308569-the-texas-chain-saw-massacre-sissy-wildflower-outfit.json](./308569-the-texas-chain-saw-massacre-sissy-wildflower-outfit.json) |
+| The Texas Chain Saw Massacre: Sonny Outfit Pack 3 | 351012 | [351012-the-texas-chain-saw-massacre-sonny-outfit-pack-3.json](./351012-the-texas-chain-saw-massacre-sonny-outfit-pack-3.json) |
+| The Texas Chain Saw Massacre: Sunday Best Outfit Pack | 351013 | [351013-the-texas-chain-saw-massacre-sunday-best-outfit-pack.json](./351013-the-texas-chain-saw-massacre-sunday-best-outfit-pack.json) |
 | The Texas Chain Saw Massacre: Weapon Skin Variants | 308570 | [308570-the-texas-chain-saw-massacre-weapon-skin-variants.json](./308570-the-texas-chain-saw-massacre-weapon-skin-variants.json) |
+| The Texas Chain Saw Massacre: Wyatt | 351018 | [351018-the-texas-chain-saw-massacre-wyatt.json](./351018-the-texas-chain-saw-massacre-wyatt.json) |
 | The Textorcist: Amen Edition | 196300 | [196300-the-textorcist-amen-edition.json](./196300-the-textorcist-amen-edition.json) |
 | The Textorcist: The Story of Ray Bibbia | 107178 | [107178-the-textorcist-the-story-of-ray-bibbia.json](./107178-the-textorcist-the-story-of-ray-bibbia.json) |
 | The Theater | 183077 | [183077-the-theater.json](./183077-the-theater.json) |
@@ -3387,6 +3406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapper's Delight | 32701 | [32701-trappers-delight.json](./32701-trappers-delight.json) |
 | Traps in Space | 142482 | [142482-traps-in-space.json](./142482-traps-in-space.json) |
 | Trash Bandits | 125430 | [125430-trash-bandits.json](./125430-trash-bandits.json) |
+| Trash Collector Simulator: Survive Edition | 351029 | [351029-trash-collector-simulator-survive-edition.json](./351029-trash-collector-simulator-survive-edition.json) |
 | Trash defense | 114397 | [114397-trash-defense.json](./114397-trash-defense.json) |
 | Trash Goblin: The Artist of Brimhaven | 402318 | [402318-trash-goblin-the-artist-of-brimhaven.json](./402318-trash-goblin-the-artist-of-brimhaven.json) |
 | Trash Horror Collection | 204091 | [204091-trash-horror-collection.json](./204091-trash-horror-collection.json) |
