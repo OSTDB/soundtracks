@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Pussy Paradise | 58807 | [58807-welcome-to-pussy-paradise.json](./58807-welcome-to-pussy-paradise.json) |
 | Welcome to QiQu Club | 400226 | [400226-welcome-to-qiqu-club.json](./400226-welcome-to-qiqu-club.json) |
 | Welcome to the Adventurer Inn! | 169460 | [169460-welcome-to-the-adventurer-inn.json](./169460-welcome-to-the-adventurer-inn.json) |
+| Welcome to the Chop House | 337087 | [337087-welcome-to-the-chop-house.json](./337087-welcome-to-the-chop-house.json) |
 | Welcome to the Galaxy | 178639 | [178639-welcome-to-the-galaxy.json](./178639-welcome-to-the-galaxy.json) |
 | Welcome to the Game 2+ | 265928 | [265928-welcome-to-the-game-2.json](./265928-welcome-to-the-game-2.json) |
 | Welcome To... Chicheser OVN 3 : The Mysterious Affair At The Violet Hotel | 131587 | [131587-welcome-to-chicheser-ovn-3-the-mysterious-affair-at-the-violet-hotel.json](./131587-welcome-to-chicheser-ovn-3-the-mysterious-affair-at-the-violet-hotel.json) |
