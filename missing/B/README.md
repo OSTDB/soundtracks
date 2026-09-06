@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Party | 390008 | [390008-banana-party.json](./390008-banana-party.json) |
 | Banana Ranch | 303267 | [303267-banana-ranch.json](./303267-banana-ranch.json) |
 | Banana Tap | 314875 | [314875-banana-tap.json](./314875-banana-tap.json) |
+| Bananamana | 314257 | [314257-bananamana.json](./314257-bananamana.json) |
 | Bananarun | 157698 | [157698-bananarun.json](./157698-bananarun.json) |
 | Bananas in Pajamas: It's Fun Time | 221980 | [221980-bananas-in-pajamas-its-fun-time.json](./221980-bananas-in-pajamas-its-fun-time.json) |
 | Bancroft Academy | 265412 | [265412-bancroft-academy.json](./265412-bancroft-academy.json) |
@@ -776,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bed Survival | 145648 | [145648-bed-survival.json](./145648-bed-survival.json) |
 | Bedlamball | 51985 | [51985-bedlamball.json](./51985-bedlamball.json) |
 | Bedtime Story: Saint | 338208 | [338208-bedtime-story-saint.json](./338208-bedtime-story-saint.json) |
+| Bee Magic | 314254 | [314254-bee-magic.json](./314254-bee-magic.json) |
 | Bee my Bloom | 400884 | [400884-bee-my-bloom.json](./400884-bee-my-bloom.json) |
 | Bee Streamer Idler | 392773 | [392773-bee-streamer-idler.json](./392773-bee-streamer-idler.json) |
 | BeeBop II | 336888 | [336888-beebop-ii.json](./336888-beebop-ii.json) |
@@ -2234,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Fun | 205254 | [205254-burger-fun.json](./205254-burger-fun.json) |
 | Burger King Halloween Game | 238202 | [238202-burger-king-halloween-game.json](./238202-burger-king-halloween-game.json) |
 | Burger King Orientation CD-i Training | 182507 | [182507-burger-king-orientation-cd-i-training.json](./182507-burger-king-orientation-cd-i-training.json) |
+| Burger Kombat | 314291 | [314291-burger-kombat.json](./314291-burger-kombat.json) |
 | Burger Night | 158708 | [158708-burger-night.json](./158708-burger-night.json) |
 | Burger Race | 327840 | [327840-burger-race.json](./327840-burger-race.json) |
 | Burger Rush | 71525 | [71525-burger-rush.json](./71525-burger-rush.json) |
@@ -2296,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butcher Life Simulator | 391582 | [391582-butcher-life-simulator.json](./391582-butcher-life-simulator.json) |
 | ButcherBoy | 95605 | [95605-butcherboy.json](./95605-butcherboy.json) |
 | Butcherman | 388746 | [388746-butcherman.json](./388746-butcherman.json) |
+| Butt | 314259 | [314259-butt.json](./314259-butt.json) |
 | Butt Gunners | 392806 | [392806-butt-gunners.json](./392806-butt-gunners.json) |
 | Butt Naked & Big Guns | 158208 | [158208-butt-naked-and-big-guns.json](./158208-butt-naked-and-big-guns.json) |
 | Butter & Friends Babysitter Sim | 75148 | [75148-butter-and-friends-babysitter-sim.json](./75148-butter-and-friends-babysitter-sim.json) |
