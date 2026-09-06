@@ -719,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayority | 254169 | [254169-mayority.json](./254169-mayority.json) |
 | Maze | 220340 | [220340-maze.json](./220340-maze.json) |
 | Maze | 360565 | [360565-maze.json](./360565-maze.json) |
+| Maze Escape | 345524 | [345524-maze-escape.json](./345524-maze-escape.json) |
 | Maze Forever | 233249 | [233249-maze-forever.json](./233249-maze-forever.json) |
 | Maze in Your Mind | 351598 | [351598-maze-in-your-mind.json](./351598-maze-in-your-mind.json) |
 | Maze Madness | 101598 | [101598-maze-madness.json](./101598-maze-madness.json) |
@@ -1115,6 +1116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetalArms | 122418 | [122418-metalarms.json](./122418-metalarms.json) |
 | Metallicars | 234319 | [234319-metallicars.json](./234319-metallicars.json) |
 | Metalstorm | 196031 | [196031-metalstorm.json](./196031-metalstorm.json) |
+| Metamorph | 345519 | [345519-metamorph.json](./345519-metamorph.json) |
 | MetaMorphic Rippers | 223165 | [223165-metamorphic-rippers.json](./223165-metamorphic-rippers.json) |
 | Metathrone | 173771 | [173771-metathrone.json](./173771-metathrone.json) |
 | Metawork: Hotel Simulator | 243395 | [243395-metawork-hotel-simulator.json](./243395-metawork-hotel-simulator.json) |
@@ -1412,6 +1414,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: The Wild Update | 223161 | [223161-minecraft-the-wild-update.json](./223161-minecraft-the-wild-update.json) |
 | Minecraftle | 306695 | [306695-minecraftle.json](./306695-minecraftle.json) |
 | Minelvaton Saga: Ragon no Fukkatsu | 48687 | [48687-minelvaton-saga-ragon-no-fukkatsu.json](./48687-minelvaton-saga-ragon-no-fukkatsu.json) |
+| Miner 2049er | 345471 | [345471-miner-2049er.json](./345471-miner-2049er.json) |
+| Miner 2049er | 345472 | [345472-miner-2049er.json](./345472-miner-2049er.json) |
+| Miner 2049er | 345474 | [345474-miner-2049er.json](./345474-miner-2049er.json) |
+| Miner 2049er | 345475 | [345475-miner-2049er.json](./345475-miner-2049er.json) |
+| Miner 2049er | 345476 | [345476-miner-2049er.json](./345476-miner-2049er.json) |
+| Miner 2049er | 345477 | [345477-miner-2049er.json](./345477-miner-2049er.json) |
+| Miner 2049er | 345478 | [345478-miner-2049er.json](./345478-miner-2049er.json) |
+| Miner 2049er | 345479 | [345479-miner-2049er.json](./345479-miner-2049er.json) |
+| Miner 2049er | 345480 | [345480-miner-2049er.json](./345480-miner-2049er.json) |
 | Mineroids | 413614 | [413614-mineroids.json](./413614-mineroids.json) |
 | Miners' Union | 391065 | [391065-miners-union.json](./391065-miners-union.json) |
 | Minerva | 10129 | [10129-minerva.json](./10129-minerva.json) |
