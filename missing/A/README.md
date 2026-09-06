@@ -1325,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annoying Orange: Kitchen Carnage | 266516 | [266516-annoying-orange-kitchen-carnage.json](./266516-annoying-orange-kitchen-carnage.json) |
 | Annoying Orange: Splatter Up! | 108462 | [108462-annoying-orange-splatter-up.json](./108462-annoying-orange-splatter-up.json) |
 | Annulus | 196308 | [196308-annulus.json](./196308-annulus.json) |
+| Annunaki Clicker | 348786 | [348786-annunaki-clicker.json](./348786-annunaki-clicker.json) |
 | Ano Hi wo Mou Ichido | 220318 | [220318-ano-hi-wo-mou-ichido.json](./220318-ano-hi-wo-mou-ichido.json) |
 | Ano Ko Doko no Ko | 314652 | [314652-ano-ko-doko-no-ko.json](./314652-ano-ko-doko-no-ko.json) |
 | Ano ne DS | 130388 | [130388-ano-ne-ds.json](./130388-ano-ne-ds.json) |
