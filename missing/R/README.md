@@ -1178,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Season 1 | 202392 | [202392-rocket-league-season-1.json](./202392-rocket-league-season-1.json) |
 | Rocket League: Season 11 | 252378 | [252378-rocket-league-season-11.json](./252378-rocket-league-season-11.json) |
 | Rocket League: Season 17 Rocketeer Pack | 331860 | [331860-rocket-league-season-17-rocketeer-pack.json](./331860-rocket-league-season-17-rocketeer-pack.json) |
+| Rocket League: Season 17 Veteran Pack | 330705 | [330705-rocket-league-season-17-veteran-pack.json](./330705-rocket-league-season-17-veteran-pack.json) |
 | Rocket League: Season 18 Rocketeer Pack | 366846 | [366846-rocket-league-season-18-rocketeer-pack.json](./366846-rocket-league-season-18-rocketeer-pack.json) |
 | Rocket League: Season 18 Veteran Pack | 366845 | [366845-rocket-league-season-18-veteran-pack.json](./366845-rocket-league-season-18-veteran-pack.json) |
 | Rocket League: Season 19 | 350417 | [350417-rocket-league-season-19.json](./350417-rocket-league-season-19.json) |
