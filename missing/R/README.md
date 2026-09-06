@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Time Attack | 290698 | [290698-real-time-attack.json](./290698-real-time-attack.json) |
 | Real Time Conflict: Shogun Empires | 20494 | [20494-real-time-conflict-shogun-empires.json](./20494-real-time-conflict-shogun-empires.json) |
 | Real Truck Simulator 2022 | 219283 | [219283-real-truck-simulator-2022.json](./219283-real-truck-simulator-2022.json) |
+| Real Truck Simulator USA Car Games: Premium Millionaire Bundle | 328989 | [328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json](./328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json) |
 | Real Winners: Victoryball | 109659 | [109659-real-winners-victoryball.json](./109659-real-winners-victoryball.json) |
 | Real World Golf 2007 | 23010 | [23010-real-world-golf-2007.json](./23010-real-world-golf-2007.json) |
 | Real-Time General | 251846 | [251846-real-time-general.json](./251846-real-time-general.json) |
@@ -1419,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosy Rubicunda | 299433 | [299433-rosy-rubicunda.json](./299433-rosy-rubicunda.json) |
 | rOt 3D | 119783 | [119783-rot-3d.json](./119783-rot-3d.json) |
 | Rot Forever | 371260 | [371260-rot-forever.json](./371260-rot-forever.json) |
+| Rota's Nautical Chronicles of Trade: Aname Momo - Collaboration Commemorative Residentization DLC | 329009 | [329009-rotas-nautical-chronicles-of-trade-aname-momo-collaboration-commemorative-residentization-dlc.json](./329009-rotas-nautical-chronicles-of-trade-aname-momo-collaboration-commemorative-residentization-dlc.json) |
 | RotaDim | 93031 | [93031-rotadim.json](./93031-rotadim.json) |
 | Rotate the Rings | 259234 | [259234-rotate-the-rings.json](./259234-rotate-the-rings.json) |
 | Rotato | 377595 | [377595-rotato.json](./377595-rotato.json) |
