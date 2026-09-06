@@ -988,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GravBlocks | 34436 | [34436-gravblocks.json](./34436-gravblocks.json) |
 | GravBlocks+ | 147964 | [147964-gravblocks.json](./147964-gravblocks.json) |
 | GravBot | 393513 | [393513-gravbot.json](./393513-gravbot.json) |
+| Grave Filler | 320185 | [320185-grave-filler.json](./320185-grave-filler.json) |
 | Grave-Queen | 219806 | [219806-grave-queen.json](./219806-grave-queen.json) |
 | Gravebound Dash | 402903 | [402903-gravebound-dash.json](./402903-gravebound-dash.json) |
 | Gravelmon | 359996 | [359996-gravelmon.json](./359996-gravelmon.json) |
@@ -1075,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greg Norman's Golf Power | 48701 | [48701-greg-normans-golf-power.json](./48701-greg-normans-golf-power.json) |
 | Greg Norman's Ultimate Golf | 98979 | [98979-greg-normans-ultimate-golf.json](./98979-greg-normans-ultimate-golf.json) |
 | Gregory Horror Show | 292825 | [292825-gregory-horror-show.json](./292825-gregory-horror-show.json) |
+| Gregory Horror Show Soul of Roses | 320168 | [320168-gregory-horror-show-soul-of-roses.json](./320168-gregory-horror-show-soul-of-roses.json) |
 | Gregory's Epic Adventure | 229362 | [229362-gregorys-epic-adventure.json](./229362-gregorys-epic-adventure.json) |
 | Gremlins Gizmo | 50623 | [50623-gremlins-gizmo.json](./50623-gremlins-gizmo.json) |
 | Grems | 386710 | [386710-grems.json](./386710-grems.json) |
@@ -1224,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess Pony Cartoon | 202387 | [202387-guess-pony-cartoon.json](./202387-guess-pony-cartoon.json) |
 | Guess The Movie | 273111 | [273111-guess-the-movie.json](./273111-guess-the-movie.json) |
 | Guess the Movie :- Funnier One | 23903 | [23903-guess-the-movie-funnier-one.json](./23903-guess-the-movie-funnier-one.json) |
+| Guess Where You Are | 320164 | [320164-guess-where-you-are.json](./320164-guess-where-you-are.json) |
 | Guessed It! | 408027 | [408027-guessed-it.json](./408027-guessed-it.json) |
 | Gui Chu Da Mao Xian | 369566 | [369566-gui-chu-da-mao-xian.json](./369566-gui-chu-da-mao-xian.json) |
 | Guide To Apocalypse | 334492 | [334492-guide-to-apocalypse.json](./334492-guide-to-apocalypse.json) |
