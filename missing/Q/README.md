@@ -24,6 +24,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qop 3 | 102389 | [102389-qop-3.json](./102389-qop-3.json) |
 | Qorena | 211931 | [211931-qorena.json](./211931-qorena.json) |
 | QotU | 308538 | [308538-qotu.json](./308538-qotu.json) |
+| QS Asteroids | 319593 | [319593-qs-asteroids.json](./319593-qs-asteroids.json) |
+| QS Defender | 319594 | [319594-qs-defender.json](./319594-qs-defender.json) |
+| QS Scramble | 319595 | [319595-qs-scramble.json](./319595-qs-scramble.json) |
 | Quacker Blaster | 63286 | [63286-quacker-blaster.json](./63286-quacker-blaster.json) |
 | QuadcopterFx Simulator | 89707 | [89707-quadcopterfx-simulator.json](./89707-quadcopterfx-simulator.json) |
 | Quadice | 234298 | [234298-quadice.json](./234298-quadice.json) |
@@ -154,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Thiz Spain: Silver Edition | 232716 | [232716-quiz-thiz-spain-silver-edition.json](./232716-quiz-thiz-spain-silver-edition.json) |
 | Quiz.com | 221386 | [221386-quiz-com.json](./221386-quiz-com.json) |
 | Quizl | 225272 | [225272-quizl.json](./225272-quizl.json) |
+| QuizMania | 320156 | [320156-quizmania.json](./320156-quizmania.json) |
 | QuizWitz | 57119 | [57119-quizwitz.json](./57119-quizwitz.json) |
 | Quod Init Exit IIo | 403558 | [403558-quod-init-exit-iio.json](./403558-quod-init-exit-iio.json) |
 | Quoth The Raven | 268727 | [268727-quoth-the-raven.json](./268727-quoth-the-raven.json) |
