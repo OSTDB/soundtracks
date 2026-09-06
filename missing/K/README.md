@@ -579,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knowledge | 410931 | [410931-knowledge.json](./410931-knowledge.json) |
 | Knowledge Party | 275353 | [275353-knowledge-party.json](./275353-knowledge-party.json) |
 | Knuckers Test Fight | 172182 | [172182-knuckers-test-fight.json](./172182-knuckers-test-fight.json) |
+| Knuckle Jet | 336521 | [336521-knuckle-jet.json](./336521-knuckle-jet.json) |
 | Knuckles Generation | 330526 | [330526-knuckles-generation.json](./330526-knuckles-generation.json) |
 | Knuckles the Echidna in Sonic the Hedgehog | 129185 | [129185-knuckles-the-echidna-in-sonic-the-hedgehog.json](./129185-knuckles-the-echidna-in-sonic-the-hedgehog.json) |
 | Knuckles Treasure Hunt | 325852 | [325852-knuckles-treasure-hunt.json](./325852-knuckles-treasure-hunt.json) |
