@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unblock Car : Puzzles Game | 104629 | [104629-unblock-car-puzzles-game.json](./104629-unblock-car-puzzles-game.json) |
 | Unblock Now | 336394 | [336394-unblock-now.json](./336394-unblock-now.json) |
 | Unblocking | 195200 | [195200-unblocking.json](./195200-unblocking.json) |
+| Unbothered | 329033 | [329033-unbothered.json](./329033-unbothered.json) |
 | Unboxing: Cozy Home Simulator | 334104 | [334104-unboxing-cozy-home-simulator.json](./334104-unboxing-cozy-home-simulator.json) |
 | Unbridled Horror | 181896 | [181896-unbridled-horror.json](./181896-unbridled-horror.json) |
 | Unchained | 178075 | [178075-unchained.json](./178075-unchained.json) |
