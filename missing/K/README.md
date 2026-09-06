@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight of the Living Dead | 191885 | [191885-knight-of-the-living-dead.json](./191885-knight-of-the-living-dead.json) |
 | Knight Shooter | 319943 | [319943-knight-shooter.json](./319943-knight-shooter.json) |
 | Knight's move | 112357 | [112357-knights-move.json](./112357-knights-move.json) |
+| Knight's Night! | 327829 | [327829-knights-night.json](./327829-knights-night.json) |
 | Knight's Path: The Tournament | 278138 | [278138-knights-path-the-tournament.json](./278138-knights-path-the-tournament.json) |
 | Knight's Quest | 356665 | [356665-knights-quest.json](./356665-knights-quest.json) |
 | Knight's Quest | 356666 | [356666-knights-quest.json](./356666-knights-quest.json) |
@@ -760,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoto | 128630 | [128630-kyoto.json](./128630-kyoto.json) |
 | Kyoto Maiko Monogatari | 333558 | [333558-kyoto-maiko-monogatari.json](./333558-kyoto-maiko-monogatari.json) |
 | Kyoufu Shinbun | 77394 | [77394-kyoufu-shinbun.json](./77394-kyoufu-shinbun.json) |
+| Kyrie and Terra | 327182 | [327182-kyrie-and-terra.json](./327182-kyrie-and-terra.json) |
 | Kyub Crazy Colors | 265431 | [265431-kyub-crazy-colors.json](./265431-kyub-crazy-colors.json) |
 | Kyumori Episode1 | 175985 | [175985-kyumori-episode1.json](./175985-kyumori-episode1.json) |
 | Kyurinaga's Revenge | 25308 | [25308-kyurinagas-revenge.json](./25308-kyurinagas-revenge.json) |
