@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid Ascent | 413663 | [413663-rapid-ascent.json](./413663-rapid-ascent.json) |
 | Rapid Reload | 45013 | [45013-rapid-reload.json](./45013-rapid-reload.json) |
 | Rapid Roll | 274733 | [274733-rapid-roll.json](./274733-rapid-roll.json) |
+| Rapid Stream 2 | 358846 | [358846-rapid-stream-2.json](./358846-rapid-stream-2.json) |
 | Rapid the Hedgehog | 330517 | [330517-rapid-the-hedgehog.json](./330517-rapid-the-hedgehog.json) |
 | Rapper Life Simulation | 158710 | [158710-rapper-life-simulation.json](./158710-rapper-life-simulation.json) |
 | Rapture Island | 331106 | [331106-rapture-island.json](./331106-rapture-island.json) |
@@ -365,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Despair | 127951 | [127951-realms-of-despair.json](./127951-realms-of-despair.json) |
 | Realms of Dr. Chaos | 268758 | [268758-realms-of-dr-chaos.json](./268758-realms-of-dr-chaos.json) |
 | Realms of Flow | 253591 | [253591-realms-of-flow.json](./253591-realms-of-flow.json) |
+| Realms of Reverie | 358855 | [358855-realms-of-reverie.json](./358855-realms-of-reverie.json) |
 | Realms of Supremacy | 102191 | [102191-realms-of-supremacy.json](./102191-realms-of-supremacy.json) |
 | Realms of the Haunting | 844 | [844-realms-of-the-haunting.json](./844-realms-of-the-haunting.json) |
 | Reanimated | 274205 | [274205-reanimated.json](./274205-reanimated.json) |
@@ -445,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Faction: Guerrilla - Steam Edition | 28988 | [28988-red-faction-guerrilla-steam-edition.json](./28988-red-faction-guerrilla-steam-edition.json) |
 | Red Fox and the Four Seasons | 148529 | [148529-red-fox-and-the-four-seasons.json](./148529-red-fox-and-the-four-seasons.json) |
 | Red Fox and the Four Seasons: Design My Forest 2 | 215895 | [215895-red-fox-and-the-four-seasons-design-my-forest-2.json](./215895-red-fox-and-the-four-seasons-design-my-forest-2.json) |
+| Red Fox: Exploration on the the Red Fox Island | 358886 | [358886-red-fox-exploration-on-the-the-red-fox-island.json](./358886-red-fox-exploration-on-the-the-red-fox-island.json) |
 | Red Genie: An Eidola Tale | 258737 | [258737-red-genie-an-eidola-tale.json](./258737-red-genie-an-eidola-tale.json) |
 | Red Goddess: Inner World | 15912 | [15912-red-goddess-inner-world.json](./15912-red-goddess-inner-world.json) |
 | Red Haven | 218714 | [218714-red-haven.json](./218714-red-haven.json) |
@@ -524,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflections of Life: Call of the Ancestors - Collector's Edition | 362827 | [362827-reflections-of-life-call-of-the-ancestors-collectors-edition.json](./362827-reflections-of-life-call-of-the-ancestors-collectors-edition.json) |
 | Reflections of Life: Dream Box - Collector's Edition | 362833 | [362833-reflections-of-life-dream-box-collectors-edition.json](./362833-reflections-of-life-dream-box-collectors-edition.json) |
 | Reflections of Life: Hearts Taken - Collector's Edition | 362830 | [362830-reflections-of-life-hearts-taken-collectors-edition.json](./362830-reflections-of-life-hearts-taken-collectors-edition.json) |
+| Reflections of Life: In Screams and Sorrow - Collector's Edition | 358853 | [358853-reflections-of-life-in-screams-and-sorrow-collectors-edition.json](./358853-reflections-of-life-in-screams-and-sorrow-collectors-edition.json) |
 | Reflections of Life: Sleep's Embrace - Collector's Edition | 362842 | [362842-reflections-of-life-sleeps-embrace-collectors-edition.json](./362842-reflections-of-life-sleeps-embrace-collectors-edition.json) |
 | Reflections of Life: Spindle of Fate | 244479 | [244479-reflections-of-life-spindle-of-fate.json](./244479-reflections-of-life-spindle-of-fate.json) |
 | Reflections Path | 211951 | [211951-reflections-path.json](./211951-reflections-path.json) |
@@ -683,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ressolve Steps | 375841 | [375841-ressolve-steps.json](./375841-ressolve-steps.json) |
 | Rest Area Simulator | 373009 | [373009-rest-area-simulator.json](./373009-rest-area-simulator.json) |
 | Rest House 2: The Wizard | 131593 | [131593-rest-house-2-the-wizard.json](./131593-rest-house-2-the-wizard.json) |
+| Rest in Paws | 358877 | [358877-rest-in-paws.json](./358877-rest-in-paws.json) |
 | Rest to Landia | 292279 | [292279-rest-to-landia.json](./292279-rest-to-landia.json) |
 | Restarting Systems: Smoke's Bizarre Adventure | 378799 | [378799-restarting-systems-smokes-bizarre-adventure.json](./378799-restarting-systems-smokes-bizarre-adventure.json) |
 | Restaurant Empire II | 16015 | [16015-restaurant-empire-ii.json](./16015-restaurant-empire-ii.json) |
@@ -1478,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run the Rings | 323520 | [323520-run-the-rings.json](./323520-run-the-rings.json) |
 | Run Think Shoot | 253041 | [253041-run-think-shoot.json](./253041-run-think-shoot.json) |
 | Run Tom Hanks Run | 307294 | [307294-run-tom-hanks-run.json](./307294-run-tom-hanks-run.json) |
+| Run, Veggies! | 358878 | [358878-run-veggies.json](./358878-run-veggies.json) |
 | Run! Run! Don't Die! | 329942 | [329942-run-run-dont-die.json](./329942-run-run-dont-die.json) |
 | Run!!! | 87729 | [87729-run.json](./87729-run.json) |
 | Runa & the Chaikurú Legacy | 238734 | [238734-runa-and-the-chaikuru-legacy.json](./238734-runa-and-the-chaikuru-legacy.json) |
