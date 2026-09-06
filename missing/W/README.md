@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome To... Chicheser OVN 3 : The Mysterious Affair At The Violet Hotel | 131587 | [131587-welcome-to-chicheser-ovn-3-the-mysterious-affair-at-the-violet-hotel.json](./131587-welcome-to-chicheser-ovn-3-the-mysterious-affair-at-the-violet-hotel.json) |
 | Welcome To... Chichester OVN: Omnibus Edition | 248334 | [248334-welcome-to-chichester-ovn-omnibus-edition.json](./248334-welcome-to-chichester-ovn-omnibus-edition.json) |
 | Welcome, [Employee Name] | 402286 | [402286-welcome-employee-name.json](./402286-welcome-employee-name.json) |
+| Well, Fuck You Too | 352755 | [352755-well-fuck-you-too.json](./352755-well-fuck-you-too.json) |
 | Welly Wang VR | 267680 | [267680-welly-wang-vr.json](./267680-welly-wang-vr.json) |
 | Welme | 404234 | [404234-welme.json](./404234-welme.json) |
 | Werewolf Pinball | 105930 | [105930-werewolf-pinball.json](./105930-werewolf-pinball.json) |
@@ -1043,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestling Empire | 142449 | [142449-wrestling-empire.json](./142449-wrestling-empire.json) |
 | Wrestling Revolution Pro | 91987 | [91987-wrestling-revolution-pro.json](./91987-wrestling-revolution-pro.json) |
 | Wrestling Spirit 3 | 24755 | [24755-wrestling-spirit-3.json](./24755-wrestling-spirit-3.json) |
+| Wretch: Divine Ascent | 352750 | [352750-wretch-divine-ascent.json](./352750-wretch-divine-ascent.json) |
 | Wrist Nebula | 208020 | [208020-wrist-nebula.json](./208020-wrist-nebula.json) |
 | Wrist Sprinter | 181364 | [181364-wrist-sprinter.json](./181364-wrist-sprinter.json) |
 | Writer Rumble | 92514 | [92514-writer-rumble.json](./92514-writer-rumble.json) |
