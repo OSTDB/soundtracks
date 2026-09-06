@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Pump | 399005 | [399005-night-pump.json](./399005-night-pump.json) |
 | Night Run | 236526 | [236526-night-run.json](./236526-night-run.json) |
 | Night School | 406088 | [406088-night-school.json](./406088-night-school.json) |
+| Night Shift: 1999 | 366829 | [366829-night-shift-1999.json](./366829-night-shift-1999.json) |
 | Night Shift: Laundry | 328253 | [328253-night-shift-laundry.json](./328253-night-shift-laundry.json) |
 | Night Signal | 119740 | [119740-night-signal.json](./119740-night-signal.json) |
 | Night Sing | 119758 | [119758-night-sing.json](./119758-night-sing.json) |
@@ -830,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northern Tale 3 | 105980 | [105980-northern-tale-3.json](./105980-northern-tale-3.json) |
 | Northern Tales | 114405 | [114405-northern-tales.json](./114405-northern-tales.json) |
 | Northgard: Dodsvagr, Clan of the Rat | 188083 | [188083-northgard-dodsvagr-clan-of-the-rat.json](./188083-northgard-dodsvagr-clan-of-the-rat.json) |
+| Northgard: Gardariki, Clan of the Hippogriff | 366866 | [366866-northgard-gardariki-clan-of-the-hippogriff.json](./366866-northgard-gardariki-clan-of-the-hippogriff.json) |
 | Northgard: Hræsvelg, Clan of the Eagle | 218693 | [218693-northgard-hr-svelg-clan-of-the-eagle.json](./218693-northgard-hr-svelg-clan-of-the-eagle.json) |
 | Northmark: Hour of the Wolf | 17532 | [17532-northmark-hour-of-the-wolf.json](./17532-northmark-hour-of-the-wolf.json) |
 | NorthStar | 55207 | [55207-northstar.json](./55207-northstar.json) |
@@ -843,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nostradamus | 40257 | [40257-nostradamus.json](./40257-nostradamus.json) |
 | Nostromo's Run | 274197 | [274197-nostromos-run.json](./274197-nostromos-run.json) |
 | Not a Customer | 406711 | [406711-not-a-customer.json](./406711-not-a-customer.json) |
+| Not A Fake Game | 366868 | [366868-not-a-fake-game.json](./366868-not-a-fake-game.json) |
 | Not Alone | 184094 | [184094-not-alone.json](./184094-not-alone.json) |
 | Not Enough Time | 322943 | [322943-not-enough-time.json](./322943-not-enough-time.json) |
 | Not Everything is Flammable | 223675 | [223675-not-everything-is-flammable.json](./223675-not-everything-is-flammable.json) |
