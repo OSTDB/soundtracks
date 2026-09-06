@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenforms: Protectors | 96043 | [96043-zenforms-protectors.json](./96043-zenforms-protectors.json) |
 | Zenful Journey | 249489 | [249489-zenful-journey.json](./249489-zenful-journey.json) |
 | Zenith Trace | 379879 | [379879-zenith-trace.json](./379879-zenith-trace.json) |
+| Zenless Zone Zero: Update 1.5 - Astra-nomical Moment | 327812 | [327812-zenless-zone-zero-update-1-5-astra-nomical-moment.json](./327812-zenless-zone-zero-update-1-5-astra-nomical-moment.json) |
 | Zenless Zone Zero: Update 1.7 - Bury Your Tears With the Past | 339793 | [339793-zenless-zone-zero-update-1-7-bury-your-tears-with-the-past.json](./339793-zenless-zone-zero-update-1-7-bury-your-tears-with-the-past.json) |
 | Zenomatrix | 332450 | [332450-zenomatrix.json](./332450-zenomatrix.json) |
 | Zenonia 5 | 75155 | [75155-zenonia-5.json](./75155-zenonia-5.json) |
@@ -89,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Parades: For Dead Spies | 361880 | [361880-zero-parades-for-dead-spies.json](./361880-zero-parades-for-dead-spies.json) |
 | Zero Zero | 130361 | [130361-zero-zero.json](./130361-zero-zero.json) |
 | Zero-G MMO | 396231 | [396231-zero-g-mmo.json](./396231-zero-g-mmo.json) |
+| Zeromiss | 327210 | [327210-zeromiss.json](./327210-zeromiss.json) |
 | Zerone 2D | 161899 | [161899-zerone-2d.json](./161899-zerone-2d.json) |
 | ZeroSpace | 262659 | [262659-zerospace.json](./262659-zerospace.json) |
 | Zeroth Zone | 72133 | [72133-zeroth-zone.json](./72133-zeroth-zone.json) |
@@ -210,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Watch Part II | 241629 | [241629-zombie-watch-part-ii.json](./241629-zombie-watch-part-ii.json) |
 | Zombieeee! | 151718 | [151718-zombieeee.json](./151718-zombieeee.json) |
 | Zombies and Keys | 197393 | [197393-zombies-and-keys.json](./197393-zombies-and-keys.json) |
+| Zombies and Orcs | 327822 | [327822-zombies-and-orcs.json](./327822-zombies-and-orcs.json) |
 | Zombies Crusher | 319960 | [319960-zombies-crusher.json](./319960-zombies-crusher.json) |
 | Zombies vs. Sheep | 67294 | [67294-zombies-vs-sheep.json](./67294-zombies-vs-sheep.json) |
 | Zombies! | 335649 | [335649-zombies.json](./335649-zombies.json) |
@@ -246,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zooma: Chapter 2 - "Cave" | 168375 | [168375-zooma-chapter-2-cave.json](./168375-zooma-chapter-2-cave.json) |
 | Zooma:Chapter 3 - "Shadow Valley" | 168374 | [168374-zooma-chapter-3-shadow-valley.json](./168374-zooma-chapter-3-shadow-valley.json) |
 | Zooma:Chapter 4 - "Temple of the Damned" | 168373 | [168373-zooma-chapter-4-temple-of-the-damned.json](./168373-zooma-chapter-4-temple-of-the-damned.json) |
+| Zoomageddon | 327170 | [327170-zoomageddon.json](./327170-zoomageddon.json) |
 | Zoomalia | 376443 | [376443-zoomalia.json](./376443-zoomalia.json) |
 | Zoomerang | 64949 | [64949-zoomerang.json](./64949-zoomerang.json) |
 | ZoomnBoom | 107876 | [107876-zoomnboom.json](./107876-zoomnboom.json) |
