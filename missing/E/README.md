@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EM: Shader Attack | 31354 | [31354-em-shader-attack.json](./31354-em-shader-attack.json) |
 | Emancy: Borderline War | 237650 | [237650-emancy-borderline-war.json](./237650-emancy-borderline-war.json) |
 | Ember & Blade | 340741 | [340741-ember-and-blade.json](./340741-ember-and-blade.json) |
+| Ember's Verge | 324303 | [324303-embers-verge.json](./324303-embers-verge.json) |
 | Emberhold | 379876 | [379876-emberhold.json](./379876-emberhold.json) |
 | Embers | 291226 | [291226-embers.json](./291226-embers.json) |
 | Embers of Caerus | 64975 | [64975-embers-of-caerus.json](./64975-embers-of-caerus.json) |
@@ -923,6 +924,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expansion | 120397 | [120397-expansion.json](./120397-expansion.json) |
 | Expediente Ñ | 322368 | [322368-expediente-n.json](./322368-expediente-n.json) |
 | Expedition Amazon | 23898 | [23898-expedition-amazon.json](./23898-expedition-amazon.json) |
+| Expedition to the Backrooms | 324305 | [324305-expedition-to-the-backrooms.json](./324305-expedition-to-the-backrooms.json) |
+| Expedition: Into Darkness | 324300 | [324300-expedition-into-darkness.json](./324300-expedition-into-darkness.json) |
 | Expeditions: A MudRunner Game - Season 1: Cave Odyssey | 397701 | [397701-expeditions-a-mudrunner-game-season-1-cave-odyssey.json](./397701-expeditions-a-mudrunner-game-season-1-cave-odyssey.json) |
 | Expeditions: A MudRunner Game - Season 2: White Dawn | 397703 | [397703-expeditions-a-mudrunner-game-season-2-white-dawn.json](./397703-expeditions-a-mudrunner-game-season-2-white-dawn.json) |
 | Expeditions: A MudRunner Game - Season 3: Icy Shores | 397702 | [397702-expeditions-a-mudrunner-game-season-3-icy-shores.json](./397702-expeditions-a-mudrunner-game-season-3-icy-shores.json) |
