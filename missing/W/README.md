@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wai-wai! Minna de Challenge | 220355 | [220355-wai-wai-minna-de-challenge.json](./220355-wai-wai-minna-de-challenge.json) |
 | Waifu | 338556 | [338556-waifu.json](./338556-waifu.json) |
 | Waifu Aim Trainer | 338555 | [338555-waifu-aim-trainer.json](./338555-waifu-aim-trainer.json) |
+| Waifu App: 90 Days to Escape a Lonely Fate | 329583 | [329583-waifu-app-90-days-to-escape-a-lonely-fate.json](./329583-waifu-app-90-days-to-escape-a-lonely-fate.json) |
 | Waifu Bay Girls | 110364 | [110364-waifu-bay-girls.json](./110364-waifu-bay-girls.json) |
 | Waifu Bay Resort | 105363 | [105363-waifu-bay-resort.json](./105363-waifu-bay-resort.json) |
 | Waifu Builder | 331698 | [331698-waifu-builder.json](./331698-waifu-builder.json) |
@@ -287,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watermelon Merge: Strategy Game | 303236 | [303236-watermelon-merge-strategy-game.json](./303236-watermelon-merge-strategy-game.json) |
 | Waterpark Simulator | 348648 | [348648-waterpark-simulator.json](./348648-waterpark-simulator.json) |
 | Watertight | 355567 | [355567-watertight.json](./355567-watertight.json) |
+| Wave Buxters | 329574 | [329574-wave-buxters.json](./329574-wave-buxters.json) |
 | Wave Rally | 43304 | [43304-wave-rally.json](./43304-wave-rally.json) |
 | Wave Rave | 341912 | [341912-wave-rave.json](./341912-wave-rave.json) |
 | Wave Rider | 161399 | [161399-wave-rider.json](./161399-wave-rider.json) |
@@ -375,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird Dreams | 12232 | [12232-weird-dreams.json](./12232-weird-dreams.json) |
 | WeirdParisGame | 353872 | [353872-weirdparisgame.json](./353872-weirdparisgame.json) |
 | Weirdshine | 395557 | [395557-weirdshine.json](./395557-weirdshine.json) |
+| Wekele Wordle | 329557 | [329557-wekele-wordle.json](./329557-wekele-wordle.json) |
 | Welcome Back | 153992 | [153992-welcome-back.json](./153992-welcome-back.json) |
 | Welcome Demon | 397666 | [397666-welcome-demon.json](./397666-welcome-demon.json) |
 | Welcome Home | 146327 | [146327-welcome-home.json](./146327-welcome-home.json) |
