@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W2000_CHAN_>W<.exe | 383932 | [383932-w2000-chan-w-exe.json](./383932-w2000-chan-w-exe.json) |
 | W4RR-i/o-RS | 75910 | [75910-w4rr-i-o-rs.json](./75910-w4rr-i-o-rs.json) |
 | Wabash Cannonball | 175415 | [175415-wabash-cannonball.json](./175415-wabash-cannonball.json) |
+| Wack Track Pack | 358318 | [358318-wack-track-pack.json](./358318-wack-track-pack.json) |
 | Wacky Chariots | 196887 | [196887-wacky-chariots.json](./196887-wacky-chariots.json) |
 | Waddle Home | 25568 | [25568-waddle-home.json](./25568-waddle-home.json) |
 | Waddle Paddle | 365718 | [365718-waddle-paddle.json](./365718-waddle-paddle.json) |
@@ -229,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarWest | 112336 | [112336-warwest.json](./112336-warwest.json) |
 | WarZone Flashpoint | 112996 | [112996-warzone-flashpoint.json](./112996-warzone-flashpoint.json) |
 | Wasabi Game | 245044 | [245044-wasabi-game.json](./245044-wasabi-game.json) |
+| WASD: The Adventure of Tori | 358333 | [358333-wasd-the-adventure-of-tori.json](./358333-wasd-the-adventure-of-tori.json) |
 | Wash Card | 223705 | [223705-wash-card.json](./223705-wash-card.json) |
 | Wash Simulator: Clean Garage, House, Cars Business Tycoons - Extended Edition | 328818 | [328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json](./328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json) |
 | Wasted | 17925 | [17925-wasted.json](./17925-wasted.json) |
@@ -337,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weekly Shonen Jump Jikkyou Jan-jan Stadium | 109051 | [109051-weekly-shonen-jump-jikkyou-jan-jan-stadium.json](./109051-weekly-shonen-jump-jikkyou-jan-jan-stadium.json) |
 | Weekly Shonen Jump Ore Collection | 81415 | [81415-weekly-shonen-jump-ore-collection.json](./81415-weekly-shonen-jump-ore-collection.json) |
 | Weeks Till Winter | 372466 | [372466-weeks-till-winter.json](./372466-weeks-till-winter.json) |
+| Wega & The Lost Media | 358293 | [358293-wega-and-the-lost-media.json](./358293-wega-and-the-lost-media.json) |
 | Weinende Rose | 140584 | [140584-weinende-rose.json](./140584-weinende-rose.json) |
 | Weird Al's Great Adventure | 55933 | [55933-weird-als-great-adventure.json](./55933-weird-als-great-adventure.json) |
 | Weird Cities | 386698 | [386698-weird-cities.json](./386698-weird-cities.json) |
@@ -673,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wireball | 121721 | [121721-wireball.json](./121721-wireball.json) |
 | Wired | 105334 | [105334-wired.json](./105334-wired.json) |
 | Wirtschaftsgiganten | 98968 | [98968-wirtschaftsgiganten.json](./98968-wirtschaftsgiganten.json) |
+| Wise in the Heights | 358330 | [358330-wise-in-the-heights.json](./358330-wise-in-the-heights.json) |
 | Wish on this Flower | 360611 | [360611-wish-on-this-flower.json](./360611-wish-on-this-flower.json) |
 | Wish Stone: Nonogram | 312363 | [312363-wish-stone-nonogram.json](./312363-wish-stone-nonogram.json) |
 | Wish Upon a Block | 388707 | [388707-wish-upon-a-block.json](./388707-wish-upon-a-block.json) |
