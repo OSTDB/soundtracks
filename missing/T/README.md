@@ -1997,6 +1997,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rose of Segunda | 101612 | [101612-the-rose-of-segunda.json](./101612-the-rose-of-segunda.json) |
 | The Rose Princess | 69308 | [69308-the-rose-princess.json](./69308-the-rose-princess.json) |
 | The Round-about Orchard | 386157 | [386157-the-round-about-orchard.json](./386157-the-round-about-orchard.json) |
+| The Royal Finale | 313687 | [313687-the-royal-finale.json](./313687-the-royal-finale.json) |
+| The Royal Heir: Book 1 | 313675 | [313675-the-royal-heir-book-1.json](./313675-the-royal-heir-book-1.json) |
+| The Royal Heir: Book 2 | 313684 | [313684-the-royal-heir-book-2.json](./313684-the-royal-heir-book-2.json) |
+| The Royal Heir: Book 3 | 313685 | [313685-the-royal-heir-book-3.json](./313685-the-royal-heir-book-3.json) |
 | The Ruins of Machi Itcza | 182520 | [182520-the-ruins-of-machi-itcza.json](./182520-the-ruins-of-machi-itcza.json) |
 | The Rules | 224762 | [224762-the-rules.json](./224762-the-rules.json) |
 | The Rumble Fish: Complete Pack | 336932 | [336932-the-rumble-fish-complete-pack.json](./336932-the-rumble-fish-complete-pack.json) |
