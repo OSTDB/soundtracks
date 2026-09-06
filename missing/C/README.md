@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calyx | 331102 | [331102-calyx.json](./331102-calyx.json) |
 | Cambell’s Oddity Box | 387368 | [387368-cambell-s-oddity-box.json](./387368-cambell-s-oddity-box.json) |
 | Cambria | 344349 | [344349-cambria.json](./344349-cambria.json) |
+| Camelbirds | 318978 | [318978-camelbirds.json](./318978-camelbirds.json) |
 | Camelot | 141242 | [141242-camelot.json](./141242-camelot.json) |
 | Camelot 2: The Holy Grail | 247766 | [247766-camelot-2-the-holy-grail.json](./247766-camelot-2-the-holy-grail.json) |
 | CameraBag 2 | 379380 | [379380-camerabag-2.json](./379380-camerabag-2.json) |
@@ -312,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmageddon | 246743 | [246743-carmageddon.json](./246743-carmageddon.json) |
 | Carmen Sandiego Word Detective | 73312 | [73312-carmen-sandiego-word-detective.json](./73312-carmen-sandiego-word-detective.json) |
 | Carnage Heart | 20733 | [20733-carnage-heart.json](./20733-carnage-heart.json) |
+| Carnage Kart X | 318977 | [318977-carnage-kart-x.json](./318977-carnage-kart-x.json) |
 | Carnasis | 360007 | [360007-carnasis.json](./360007-carnasis.json) |
 | Carnica | 39636 | [39636-carnica.json](./39636-carnica.json) |
 | Carnival | 297810 | [297810-carnival.json](./297810-carnival.json) |
@@ -1684,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse-Party: if - Past End | 135890 | [135890-corpse-party-if-past-end.json](./135890-corpse-party-if-past-end.json) |
 | Corpsênia | 190745 | [190745-corpsenia.json](./190745-corpsenia.json) |
 | Corral | 67525 | [67525-corral.json](./67525-corral.json) |
+| Corrida das Blogueiras 6: A Maldição dos Zumbis | 319027 | [319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json](./319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json) |
 | Corridor Geodesic | 319387 | [319387-corridor-geodesic.json](./319387-corridor-geodesic.json) |
 | Corridor Maze: Home Cleanup | 291251 | [291251-corridor-maze-home-cleanup.json](./291251-corridor-maze-home-cleanup.json) |
 | Corridors of Their Memories | 149093 | [149093-corridors-of-their-memories.json](./149093-corridors-of-their-memories.json) |
@@ -2212,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Mission | 113723 | [113723-cube-mission.json](./113723-cube-mission.json) |
 | Cube Rampage | 134702 | [134702-cube-rampage.json](./134702-cube-rampage.json) |
 | Cube Rush | 112340 | [112340-cube-rush.json](./112340-cube-rush.json) |
+| Cube Snake | 318968 | [318968-cube-snake.json](./318968-cube-snake.json) |
 | Cube Way | 75902 | [75902-cube-way.json](./75902-cube-way.json) |
 | Cube World | 195215 | [195215-cube-world.json](./195215-cube-world.json) |
 | CubeCaust | 412300 | [412300-cubecaust.json](./412300-cubecaust.json) |
