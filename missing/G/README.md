@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Wars 4 | 385552 | [385552-galaxy-wars-4.json](./385552-galaxy-wars-4.json) |
 | Galaxy Wars: Space Launcher | 312874 | [312874-galaxy-wars-space-launcher.json](./312874-galaxy-wars-space-launcher.json) |
 | Galaxystrife | 177018 | [177018-galaxystrife.json](./177018-galaxystrife.json) |
+| Galdia | 343250 | [343250-galdia.json](./343250-galdia.json) |
 | Galer: Plague of Heroes | 31924 | [31924-galer-plague-of-heroes.json](./31924-galer-plague-of-heroes.json) |
 | Galleon | 5843 | [5843-galleon.json](./5843-galleon.json) |
 | Gallerie | 392169 | [392169-gallerie.json](./392169-gallerie.json) |
@@ -974,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grayscale | 217502 | [217502-grayscale.json](./217502-grayscale.json) |
 | Graytail | 292298 | [292298-graytail.json](./292298-graytail.json) |
 | Graze Counter GM | 211893 | [211893-graze-counter-gm.json](./211893-graze-counter-gm.json) |
+| Grease Monkey Grand Prix | 343238 | [343238-grease-monkey-grand-prix.json](./343238-grease-monkey-grand-prix.json) |
 | Great Adventures: Castle | 167280 | [167280-great-adventures-castle.json](./167280-great-adventures-castle.json) |
 | Great Adventures: Pirate Ship | 63892 | [63892-great-adventures-pirate-ship.json](./63892-great-adventures-pirate-ship.json) |
 | Great Alhcemist | 129227 | [129227-great-alhcemist.json](./129227-great-alhcemist.json) |
