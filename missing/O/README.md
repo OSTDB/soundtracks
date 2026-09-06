@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympic Decathlon | 178060 | [178060-olympic-decathlon.json](./178060-olympic-decathlon.json) |
 | Om Nom Solitaire | 183608 | [183608-om-nom-solitaire.json](./183608-om-nom-solitaire.json) |
 | Om Nom: Run 2 - Emerald Edition | 396923 | [396923-om-nom-run-2-emerald-edition.json](./396923-om-nom-run-2-emerald-edition.json) |
+| Omashu: Snail Racing | 357219 | [357219-omashu-snail-racing.json](./357219-omashu-snail-racing.json) |
 | Omber | 208576 | [208576-omber.json](./208576-omber.json) |
 | Omega | 336352 | [336352-omega.json](./336352-omega.json) |
 | Omega Enforcer X | 181905 | [181905-omega-enforcer-x.json](./181905-omega-enforcer-x.json) |
