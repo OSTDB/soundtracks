@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Memorable Time | 264347 | [264347-a-memorable-time.json](./264347-a-memorable-time.json) |
 | A Mermaid's Paradoxical Tale | 273664 | [273664-a-mermaids-paradoxical-tale.json](./273664-a-mermaids-paradoxical-tale.json) |
 | A Mirror Puzzle | 209705 | [209705-a-mirror-puzzle.json](./209705-a-mirror-puzzle.json) |
+| A Mirror, Darkly | 340948 | [340948-a-mirror-darkly.json](./340948-a-mirror-darkly.json) |
 | A Morons Challenge | 67990 | [67990-a-morons-challenge.json](./67990-a-morons-challenge.json) |
 | A Murmur in the Trees | 148561 | [148561-a-murmur-in-the-trees.json](./148561-a-murmur-in-the-trees.json) |
 | A New World Of Turnabouts | 303770 | [303770-a-new-world-of-turnabouts.json](./303770-a-new-world-of-turnabouts.json) |
