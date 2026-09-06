@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T18:18:18.598Z",
-  "total_missing": 38329,
+  "generated_at": "2026-09-06T18:33:05.524Z",
+  "total_missing": 38379,
   "games": [
     {
       "igdb_id": 306086,
@@ -146,6 +146,21 @@
       "igdb_id": 191250,
       "game_name": "001 Earth",
       "file": "missing/0-9/191250-001-earth.json"
+    },
+    {
+      "igdb_id": 325453,
+      "game_name": "0101: Classic Bonus Levels 3",
+      "file": "missing/0-9/325453-0101-classic-bonus-levels-3.json"
+    },
+    {
+      "igdb_id": 325454,
+      "game_name": "0101: Counter Bonus Levels 3",
+      "file": "missing/0-9/325454-0101-counter-bonus-levels-3.json"
+    },
+    {
+      "igdb_id": 325455,
+      "game_name": "0101: Pusher Bonus Levels 3",
+      "file": "missing/0-9/325455-0101-pusher-bonus-levels-3.json"
     },
     {
       "igdb_id": 316429,
@@ -12163,6 +12178,11 @@
       "file": "missing/A/214165-asian-truck-simulator.json"
     },
     {
+      "igdb_id": 325447,
+      "game_name": "Ask Gear Re:Boost",
+      "file": "missing/A/325447-ask-gear-re-boost.json"
+    },
+    {
       "igdb_id": 231628,
       "game_name": "Ask Madame Clairvoya",
       "file": "missing/A/231628-ask-madame-clairvoya.json"
@@ -19391,6 +19411,41 @@
       "igdb_id": 88292,
       "game_name": "Bind: Brain teaser puzzle game",
       "file": "missing/B/88292-bind-brain-teaser-puzzle-game.json"
+    },
+    {
+      "igdb_id": 325436,
+      "game_name": "Bing in Wonderland: Wings & Weapon Looks - Azure Dragon",
+      "file": "missing/B/325436-bing-in-wonderland-wings-and-weapon-looks-azure-dragon.json"
+    },
+    {
+      "igdb_id": 325440,
+      "game_name": "Bing in Wonderland: Wings & Weapon Looks - Black Tortoise",
+      "file": "missing/B/325440-bing-in-wonderland-wings-and-weapon-looks-black-tortoise.json"
+    },
+    {
+      "igdb_id": 325437,
+      "game_name": "Bing in Wonderland: Wings & Weapon Looks - Dragon Slayer",
+      "file": "missing/B/325437-bing-in-wonderland-wings-and-weapon-looks-dragon-slayer.json"
+    },
+    {
+      "igdb_id": 325438,
+      "game_name": "Bing in Wonderland: Wings & Weapon Looks - Judgment",
+      "file": "missing/B/325438-bing-in-wonderland-wings-and-weapon-looks-judgment.json"
+    },
+    {
+      "igdb_id": 325439,
+      "game_name": "Bing in Wonderland: Wings & Weapon Looks - Purgatory",
+      "file": "missing/B/325439-bing-in-wonderland-wings-and-weapon-looks-purgatory.json"
+    },
+    {
+      "igdb_id": 325441,
+      "game_name": "Bing in Wonderland: Wings & Weapon Looks - Vermilion Bird",
+      "file": "missing/B/325441-bing-in-wonderland-wings-and-weapon-looks-vermilion-bird.json"
+    },
+    {
+      "igdb_id": 325442,
+      "game_name": "Bing in Wonderland: Wings & Weapon Looks - White Tiger",
+      "file": "missing/B/325442-bing-in-wonderland-wings-and-weapon-looks-white-tiger.json"
     },
     {
       "igdb_id": 259862,
@@ -29816,6 +29871,11 @@
       "igdb_id": 59984,
       "game_name": "Chipper & Sons Lumber Co.",
       "file": "missing/C/59984-chipper-and-sons-lumber-co.json"
+    },
+    {
+      "igdb_id": 325444,
+      "game_name": "Chirashiiru",
+      "file": "missing/C/325444-chirashiiru.json"
     },
     {
       "igdb_id": 278168,
@@ -48838,6 +48898,21 @@
       "file": "missing/E/222503-earth-defense-force-world-brothers-deluxe-edition.json"
     },
     {
+      "igdb_id": 325435,
+      "game_name": "Earth Defense Force: World Brothers 2 - Don't Bring Civilians Into This: Special Appearance by The Captain from EDF6",
+      "file": "missing/E/325435-earth-defense-force-world-brothers-2-dont-bring-civilians-into-this-special-appearance-by-the-captain-from-edf6.json"
+    },
+    {
+      "igdb_id": 325434,
+      "game_name": "Earth Defense Force: World Brothers 2 - Extra Mission Pack: Robo Saurous vs. The Mecharmy",
+      "file": "missing/E/325434-earth-defense-force-world-brothers-2-extra-mission-pack-robo-saurous-vs-the-mecharmy.json"
+    },
+    {
+      "igdb_id": 325433,
+      "game_name": "Earth Defense Force: World Brothers 2 - Humanity Dominates!? Air Raider (EDF6) Up & Coming: Reskin",
+      "file": "missing/E/325433-earth-defense-force-world-brothers-2-humanity-dominates-air-raider-edf6-up-and-coming-reskin.json"
+    },
+    {
       "igdb_id": 72085,
       "game_name": "Earth Invasion",
       "file": "missing/E/72085-earth-invasion.json"
@@ -49296,6 +49371,11 @@
       "igdb_id": 14377,
       "game_name": "Eden Star",
       "file": "missing/E/14377-eden-star.json"
+    },
+    {
+      "igdb_id": 325448,
+      "game_name": "Eden Tactics",
+      "file": "missing/E/325448-eden-tactics.json"
     },
     {
       "igdb_id": 290722,
@@ -51006,6 +51086,11 @@
       "igdb_id": 207503,
       "game_name": "Energy Collector",
       "file": "missing/E/207503-energy-collector.json"
+    },
+    {
+      "igdb_id": 325445,
+      "game_name": "Energy Crush",
+      "file": "missing/E/325445-energy-crush.json"
     },
     {
       "igdb_id": 235452,
@@ -86158,6 +86243,11 @@
       "file": "missing/K/150133-kokoro-no-doki-doki-senpai.json"
     },
     {
+      "igdb_id": 325446,
+      "game_name": "Kokoro Talkers",
+      "file": "missing/K/325446-kokoro-talkers.json"
+    },
+    {
       "igdb_id": 150134,
       "game_name": "Kokoro: Baka-Monogatari",
       "file": "missing/K/150134-kokoro-baka-monogatari.json"
@@ -87061,6 +87151,11 @@
       "igdb_id": 359987,
       "game_name": "Labublas: Battle Royale Shooter",
       "file": "missing/L/359987-labublas-battle-royale-shooter.json"
+    },
+    {
+      "igdb_id": 325452,
+      "game_name": "Laby to Panel de Shiritori",
+      "file": "missing/L/325452-laby-to-panel-de-shiritori.json"
     },
     {
       "igdb_id": 260387,
@@ -104661,6 +104756,141 @@
       "igdb_id": 73320,
       "game_name": "Murder Makes Strange Deadfellows",
       "file": "missing/M/73320-murder-makes-strange-deadfellows.json"
+    },
+    {
+      "igdb_id": 325460,
+      "game_name": "Murder Mystery J: Jinrou Judgment - Maru Icon",
+      "file": "missing/M/325460-murder-mystery-j-jinrou-judgment-maru-icon.json"
+    },
+    {
+      "igdb_id": 325457,
+      "game_name": "Murder Mystery J: Jinrou Judgment - SP1 Icon",
+      "file": "missing/M/325457-murder-mystery-j-jinrou-judgment-sp1-icon.json"
+    },
+    {
+      "igdb_id": 325459,
+      "game_name": "Murder Mystery J: Jinrou Judgment - SP2 Icon",
+      "file": "missing/M/325459-murder-mystery-j-jinrou-judgment-sp2-icon.json"
+    },
+    {
+      "igdb_id": 325458,
+      "game_name": "Murder Mystery J: Jinrou Judgment - SP3 Icon",
+      "file": "missing/M/325458-murder-mystery-j-jinrou-judgment-sp3-icon.json"
+    },
+    {
+      "igdb_id": 325456,
+      "game_name": "Murder Mystery J: Satsujinhan ha Soba ni iru",
+      "file": "missing/M/325456-murder-mystery-j-satsujinhan-ha-soba-ni-iru.json"
+    },
+    {
+      "igdb_id": 325462,
+      "game_name": "Murder Mystery J: SP1 Icon",
+      "file": "missing/M/325462-murder-mystery-j-sp1-icon.json"
+    },
+    {
+      "igdb_id": 325461,
+      "game_name": "Murder Mystery J: SP2 Icon",
+      "file": "missing/M/325461-murder-mystery-j-sp2-icon.json"
+    },
+    {
+      "igdb_id": 325472,
+      "game_name": "Murder Mystery J: Special Stamp - Eric",
+      "file": "missing/M/325472-murder-mystery-j-special-stamp-eric.json"
+    },
+    {
+      "igdb_id": 325473,
+      "game_name": "Murder Mystery J: Special Stamp - Ernie",
+      "file": "missing/M/325473-murder-mystery-j-special-stamp-ernie.json"
+    },
+    {
+      "igdb_id": 325479,
+      "game_name": "Murder Mystery J: Special Stamp - Fey",
+      "file": "missing/M/325479-murder-mystery-j-special-stamp-fey.json"
+    },
+    {
+      "igdb_id": 325465,
+      "game_name": "Murder Mystery J: Special Stamp - Frank",
+      "file": "missing/M/325465-murder-mystery-j-special-stamp-frank.json"
+    },
+    {
+      "igdb_id": 325464,
+      "game_name": "Murder Mystery J: Special Stamp - Freddie",
+      "file": "missing/M/325464-murder-mystery-j-special-stamp-freddie.json"
+    },
+    {
+      "igdb_id": 325482,
+      "game_name": "Murder Mystery J: Special Stamp - Gale",
+      "file": "missing/M/325482-murder-mystery-j-special-stamp-gale.json"
+    },
+    {
+      "igdb_id": 325470,
+      "game_name": "Murder Mystery J: Special Stamp - Jessica",
+      "file": "missing/M/325470-murder-mystery-j-special-stamp-jessica.json"
+    },
+    {
+      "igdb_id": 325474,
+      "game_name": "Murder Mystery J: Special Stamp - Laura",
+      "file": "missing/M/325474-murder-mystery-j-special-stamp-laura.json"
+    },
+    {
+      "igdb_id": 325463,
+      "game_name": "Murder Mystery J: Special Stamp - Lilian",
+      "file": "missing/M/325463-murder-mystery-j-special-stamp-lilian.json"
+    },
+    {
+      "igdb_id": 325468,
+      "game_name": "Murder Mystery J: Special Stamp - Mary",
+      "file": "missing/M/325468-murder-mystery-j-special-stamp-mary.json"
+    },
+    {
+      "igdb_id": 325467,
+      "game_name": "Murder Mystery J: Special Stamp - Mary-Ann",
+      "file": "missing/M/325467-murder-mystery-j-special-stamp-mary-ann.json"
+    },
+    {
+      "igdb_id": 325483,
+      "game_name": "Murder Mystery J: Special Stamp - Merrill",
+      "file": "missing/M/325483-murder-mystery-j-special-stamp-merrill.json"
+    },
+    {
+      "igdb_id": 325478,
+      "game_name": "Murder Mystery J: Special Stamp - Mike",
+      "file": "missing/M/325478-murder-mystery-j-special-stamp-mike.json"
+    },
+    {
+      "igdb_id": 325481,
+      "game_name": "Murder Mystery J: Special Stamp - Nick",
+      "file": "missing/M/325481-murder-mystery-j-special-stamp-nick.json"
+    },
+    {
+      "igdb_id": 325477,
+      "game_name": "Murder Mystery J: Special Stamp - Rody",
+      "file": "missing/M/325477-murder-mystery-j-special-stamp-rody.json"
+    },
+    {
+      "igdb_id": 325475,
+      "game_name": "Murder Mystery J: Special Stamp - Sandra",
+      "file": "missing/M/325475-murder-mystery-j-special-stamp-sandra.json"
+    },
+    {
+      "igdb_id": 325471,
+      "game_name": "Murder Mystery J: Special Stamp - Shawn",
+      "file": "missing/M/325471-murder-mystery-j-special-stamp-shawn.json"
+    },
+    {
+      "igdb_id": 325466,
+      "game_name": "Murder Mystery J: Special Stamp - Susan",
+      "file": "missing/M/325466-murder-mystery-j-special-stamp-susan.json"
+    },
+    {
+      "igdb_id": 325469,
+      "game_name": "Murder Mystery J: Special Stamp - Thomas",
+      "file": "missing/M/325469-murder-mystery-j-special-stamp-thomas.json"
+    },
+    {
+      "igdb_id": 325480,
+      "game_name": "Murder Mystery J: Special Stamp - Vanilla",
+      "file": "missing/M/325480-murder-mystery-j-special-stamp-vanilla.json"
     },
     {
       "igdb_id": 312330,
@@ -124558,6 +124788,11 @@
       "file": "missing/P/320519-project-sjhg.json"
     },
     {
+      "igdb_id": 325449,
+      "game_name": "Project Solaris",
+      "file": "missing/P/325449-project-solaris.json"
+    },
+    {
       "igdb_id": 60002,
       "game_name": "Project Spaghetti",
       "file": "missing/P/60002-project-spaghetti.json"
@@ -135901,6 +136136,11 @@
       "igdb_id": 213603,
       "game_name": "Sakura X Clash: Last Millennial Spring",
       "file": "missing/S/213603-sakura-x-clash-last-millennial-spring.json"
+    },
+    {
+      "igdb_id": 325451,
+      "game_name": "Sakura-iro Tetra Prism",
+      "file": "missing/S/325451-sakura-iro-tetra-prism.json"
     },
     {
       "igdb_id": 137106,
@@ -172103,6 +172343,11 @@
       "file": "missing/T/333369-tiny-dangerous-dungeons-remake.json"
     },
     {
+      "igdb_id": 325476,
+      "game_name": "Tiny Devils",
+      "file": "missing/T/325476-tiny-devils.json"
+    },
+    {
       "igdb_id": 343257,
       "game_name": "Tiny Dino",
       "file": "missing/T/343257-tiny-dino.json"
@@ -173771,6 +174016,11 @@
       "igdb_id": 129222,
       "game_name": "Toto's Toy Box",
       "file": "missing/T/129222-totos-toy-box.json"
+    },
+    {
+      "igdb_id": 325450,
+      "game_name": "Totonoi Simulator",
+      "file": "missing/T/325450-totonoi-simulator.json"
     },
     {
       "igdb_id": 37783,
