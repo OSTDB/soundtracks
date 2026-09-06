@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getsuei no Kusari: Kyouran Moratoriamu | 136449 | [136449-getsuei-no-kusari-kyouran-moratoriamu.json](./136449-getsuei-no-kusari-kyouran-moratoriamu.json) |
 | Getsuei no Kusari: Sakuran Paranoia | 136448 | [136448-getsuei-no-kusari-sakuran-paranoia.json](./136448-getsuei-no-kusari-sakuran-paranoia.json) |
 | Getter Love!!: Chou Renai Party Game Tanjou | 3504 | [3504-getter-love-chou-renai-party-game-tanjou.json](./3504-getter-love-chou-renai-party-game-tanjou.json) |
+| Getting a Bottle of Water Simulator | 334664 | [334664-getting-a-bottle-of-water-simulator.json](./334664-getting-a-bottle-of-water-simulator.json) |
 | Getting Over It with Your Body | 381035 | [381035-getting-over-it-with-your-body.json](./381035-getting-over-it-with-your-body.json) |
 | Gex 3: Deep Cover Gecko | 3505 | [3505-gex-3-deep-cover-gecko.json](./3505-gex-3-deep-cover-gecko.json) |
 | Gex 3: Deep Pocket Gecko | 49929 | [49929-gex-3-deep-pocket-gecko.json](./49929-gex-3-deep-pocket-gecko.json) |
@@ -430,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost in the Brain | 263224 | [263224-ghost-in-the-brain.json](./263224-ghost-in-the-brain.json) |
 | Ghost in the Shell: Arise - Stealth Hounds | 52005 | [52005-ghost-in-the-shell-arise-stealth-hounds.json](./52005-ghost-in-the-shell-arise-stealth-hounds.json) |
 | Ghost Jumper: Red Hoodie | 315280 | [315280-ghost-jumper-red-hoodie.json](./315280-ghost-jumper-red-hoodie.json) |
+| Ghost Master: Resurrection | 334665 | [334665-ghost-master-resurrection.json](./334665-ghost-master-resurrection.json) |
 | Ghost of a Tale | 7684 | [7684-ghost-of-a-tale.json](./7684-ghost-of-a-tale.json) |
 | Ghost Party | 304863 | [304863-ghost-party.json](./304863-ghost-party.json) |
 | Ghost Pursuit VR | 31977 | [31977-ghost-pursuit-vr.json](./31977-ghost-pursuit-vr.json) |
@@ -504,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gipsy King | 175423 | [175423-gipsy-king.json](./175423-gipsy-king.json) |
 | Girbal | 219795 | [219795-girbal.json](./219795-girbal.json) |
 | Girder & Hearts: Reel Romance | 364500 | [364500-girder-and-hearts-reel-romance.json](./364500-girder-and-hearts-reel-romance.json) |
+| Girl Abducted | 334654 | [334654-girl-abducted.json](./334654-girl-abducted.json) |
 | Girl Doll Toy: Tamashii o Kudasai | 209622 | [209622-girl-doll-toy-tamashii-o-kudasai.json](./209622-girl-doll-toy-tamashii-o-kudasai.json) |
 | Girl in Darkness | 394126 | [394126-girl-in-darkness.json](./394126-girl-in-darkness.json) |
 | Girl in the B.L | 303787 | [303787-girl-in-the-b-l.json](./303787-girl-in-the-b-l.json) |
@@ -835,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gor Lab | 321155 | [321155-gor-lab.json](./321155-gor-lab.json) |
 | Gorble | 311272 | [311272-gorble.json](./311272-gorble.json) |
 | Gordian Tomb | 73850 | [73850-gordian-tomb.json](./73850-gordian-tomb.json) |
+| Gordon and the Light Within | 334691 | [334691-gordon-and-the-light-within.json](./334691-gordon-and-the-light-within.json) |
 | Gorescript Classic | 81424 | [81424-gorescript-classic.json](./81424-gorescript-classic.json) |
 | Gorgon | 22411 | [22411-gorgon.json](./22411-gorgon.json) |
 | Gorgonia: A Gorgon's Tragedy | 326975 | [326975-gorgonia-a-gorgons-tragedy.json](./326975-gorgonia-a-gorgons-tragedy.json) |
