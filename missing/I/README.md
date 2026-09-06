@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icy Tower 2 | 326628 | [326628-icy-tower-2.json](./326628-icy-tower-2.json) |
 | Identifile | 319379 | [319379-identifile.json](./319379-identifile.json) |
 | Ideology in Friction: Deluxe Edition | 186899 | [186899-ideology-in-friction-deluxe-edition.json](./186899-ideology-in-friction-deluxe-edition.json) |
+| IDET | 324299 | [324299-idet.json](./324299-idet.json) |
 | IDF-ASD | 195775 | [195775-idf-asd.json](./195775-idf-asd.json) |
 | Idiot Test | 122436 | [122436-idiot-test.json](./122436-idiot-test.json) |
 | Idle Acorns | 365117 | [365117-idle-acorns.json](./365117-idle-acorns.json) |
