@@ -1491,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes: Gold Edition | 21804 | [21804-company-of-heroes-gold-edition.json](./21804-company-of-heroes-gold-edition.json) |
 | Company of Heroes: Legacy Edition | 84532 | [84532-company-of-heroes-legacy-edition.json](./84532-company-of-heroes-legacy-edition.json) |
 | Company of Heroes: Limited Edition | 24189 | [24189-company-of-heroes-limited-edition.json](./24189-company-of-heroes-limited-edition.json) |
+| Compartmentalize | 326610 | [326610-compartmentalize.json](./326610-compartmentalize.json) |
 | Competition Karate | 25780 | [25780-competition-karate.json](./25780-competition-karate.json) |
 | Compilation Assassin's Creed: Brotherhood + Revelations | 151207 | [151207-compilation-assassins-creed-brotherhood-revelations.json](./151207-compilation-assassins-creed-brotherhood-revelations.json) |
 | Completion LawnCare | 216454 | [216454-completion-lawncare.json](./216454-completion-lawncare.json) |
