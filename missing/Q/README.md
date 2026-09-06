@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Lake | 26604 | [26604-quantum-lake.json](./26604-quantum-lake.json) |
 | Quantum Qitty | 180799 | [180799-quantum-qitty.json](./180799-quantum-qitty.json) |
 | Quantum Tripper: Math | 267084 | [267084-quantum-tripper-math.json](./267084-quantum-tripper-math.json) |
+| Quarantine Lockdown Simulator: Zombie Border | 366217 | [366217-quarantine-lockdown-simulator-zombie-border.json](./366217-quarantine-lockdown-simulator-zombie-border.json) |
 | Quartal | 370145 | [370145-quartal.json](./370145-quartal.json) |
 | Quarter Monkey | 233759 | [233759-quarter-monkey.json](./233759-quarter-monkey.json) |
 | Quartermaster | 368478 | [368478-quartermaster.json](./368478-quartermaster.json) |
@@ -120,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiet Dan | 379335 | [379335-quiet-dan.json](./379335-quiet-dan.json) |
 | Quiet House Massacre | 317023 | [317023-quiet-house-massacre.json](./317023-quiet-house-massacre.json) |
 | Quietus Euphony | 374046 | [374046-quietus-euphony.json](./374046-quietus-euphony.json) |
+| Quill > Pistol | 366240 | [366240-quill-pistol.json](./366240-quill-pistol.json) |
 | Quinterra | 145023 | [145023-quinterra.json](./145023-quinterra.json) |
 | Quip Anomaly | 31938 | [31938-quip-anomaly.json](./31938-quip-anomaly.json) |
 | Quit the Game to Win | 179167 | [179167-quit-the-game-to-win.json](./179167-quit-the-game-to-win.json) |
@@ -127,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quit Your Job! Become A VTuber Fanartist! | 372478 | [372478-quit-your-job-become-a-vtuber-fanartist.json](./372478-quit-your-job-become-a-vtuber-fanartist.json) |
 | Quite a Ride | 336891 | [336891-quite-a-ride.json](./336891-quite-a-ride.json) |
 | QuiVr Vanguard | 111696 | [111696-quivr-vanguard.json](./111696-quivr-vanguard.json) |
+| Quiz & Learn: Animals | 366216 | [366216-quiz-and-learn-animals.json](./366216-quiz-and-learn-animals.json) |
 | Quiz Aa! Megami-sama: Tatakau Tsubasa to Tomoni | 131572 | [131572-quiz-aa-megami-sama-tatakau-tsubasa-to-tomoni.json](./131572-quiz-aa-megami-sama-tatakau-tsubasa-to-tomoni.json) |
 | Quiz Country Flags | 104110 | [104110-quiz-country-flags.json](./104110-quiz-country-flags.json) |
 | Quiz It | 102758 | [102758-quiz-it.json](./102758-quiz-it.json) |
