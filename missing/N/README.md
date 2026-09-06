@@ -665,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Wars: Battle Simulator | 320526 | [320526-ninja-wars-battle-simulator.json](./320526-ninja-wars-battle-simulator.json) |
 | Ninja Warz | 314669 | [314669-ninja-warz.json](./314669-ninja-warz.json) |
 | Ninja's Creed | 227473 | [227473-ninjas-creed.json](./227473-ninjas-creed.json) |
+| Ninjas on Trampolines | 351613 | [351613-ninjas-on-trampolines.json](./351613-ninjas-on-trampolines.json) |
 | Ninjatown | 2825 | [2825-ninjatown.json](./2825-ninjatown.json) |
 | Ninjatown: Trees of Doom! | 21755 | [21755-ninjatown-trees-of-doom.json](./21755-ninjatown-trees-of-doom.json) |
 | NinJump Rush | 220828 | [220828-ninjump-rush.json](./220828-ninjump-rush.json) |
