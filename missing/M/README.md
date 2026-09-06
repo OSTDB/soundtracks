@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Face | 175970 | [175970-marios-face.json](./175970-marios-face.json) |
 | Mario's Holiday | 270378 | [270378-marios-holiday.json](./270378-marios-holiday.json) |
 | Mario's Mahalo Party | 324092 | [324092-marios-mahalo-party.json](./324092-marios-mahalo-party.json) |
+| Mario's Mini Micro Adventures | 331311 | [331311-marios-mini-micro-adventures.json](./331311-marios-mini-micro-adventures.json) |
 | Marion Surgical Robot Game | 336905 | [336905-marion-surgical-robot-game.json](./336905-marion-surgical-robot-game.json) |
 | Mariposa | 395588 | [395588-mariposa.json](./395588-mariposa.json) |
 | Mariposa and the Galaxy Man | 191904 | [191904-mariposa-and-the-galaxy-man.json](./191904-mariposa-and-the-galaxy-man.json) |
@@ -1301,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Swamp | 318198 | [318198-midnight-swamp.json](./318198-midnight-swamp.json) |
 | Midnight Train | 138255 | [138255-midnight-train.json](./138255-midnight-train.json) |
 | Midnight Train: Going Anywhere | 176489 | [176489-midnight-train-going-anywhere.json](./176489-midnight-train-going-anywhere.json) |
+| Midnight Transmission | 331334 | [331334-midnight-transmission.json](./331334-midnight-transmission.json) |
 | Midnight Wave | 109669 | [109669-midnight-wave.json](./109669-midnight-wave.json) |
 | Midnight's Blessing 2 | 33040 | [33040-midnights-blessing-2.json](./33040-midnights-blessing-2.json) |
 | Midnight's Curse | 154569 | [154569-midnights-curse.json](./154569-midnights-curse.json) |
@@ -2185,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moving Out: Deluxe Edition | 224202 | [224202-moving-out-deluxe-edition.json](./224202-moving-out-deluxe-edition.json) |
 | Mowin' & Throwin' | 96228 | [96228-mowin-and-throwin.json](./96228-mowin-and-throwin.json) |
 | Mówù Diàocházhě | 154027 | [154027-mowu-diaochazhe.json](./154027-mowu-diaochazhe.json) |
+| Mowzie's Mobs | 331346 | [331346-mowzies-mobs.json](./331346-mowzies-mobs.json) |
 | Moxie 2 | 174325 | [174325-moxie-2.json](./174325-moxie-2.json) |
 | Moyashibito DX | 233211 | [233211-moyashibito-dx.json](./233211-moyashibito-dx.json) |
 | Mozarella Hills | 291766 | [291766-mozarella-hills.json](./291766-mozarella-hills.json) |
@@ -2365,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Brother the Sacrifice | 123643 | [123643-my-brother-the-sacrifice.json](./123643-my-brother-the-sacrifice.json) |
 | My Butler | 32274 | [32274-my-butler.json](./32274-my-butler.json) |
 | My Car My Life | 373542 | [373542-my-car-my-life.json](./373542-my-car-my-life.json) |
+| My Cat: Virtual Pet Simulator | 331358 | [331358-my-cat-virtual-pet-simulator.json](./331358-my-cat-virtual-pet-simulator.json) |
 | My Chameleon Girlfriend | 223691 | [223691-my-chameleon-girlfriend.json](./223691-my-chameleon-girlfriend.json) |
 | My Cheetah Friend | 341347 | [341347-my-cheetah-friend.json](./341347-my-cheetah-friend.json) |
 | My Chemical Romance: Helena | 328268 | [328268-my-chemical-romance-helena.json](./328268-my-chemical-romance-helena.json) |
@@ -2383,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Demonic Romance | 243960 | [243960-my-demonic-romance.json](./243960-my-demonic-romance.json) |
 | My Dolphin Show | 86773 | [86773-my-dolphin-show.json](./86773-my-dolphin-show.json) |
 | My Donut Days | 87717 | [87717-my-donut-days.json](./87717-my-donut-days.json) |
+| My Dragon: Virtual Pet Game | 331361 | [331361-my-dragon-virtual-pet-game.json](./331361-my-dragon-virtual-pet-game.json) |
 | My Dream Girl | 173841 | [173841-my-dream-girl.json](./173841-my-dream-girl.json) |
 | My Dream Girls | 173836 | [173836-my-dream-girls.json](./173836-my-dream-girls.json) |
 | My Dream Job: How I Survived Job Hunting in Animation | 178684 | [178684-my-dream-job-how-i-survived-job-hunting-in-animation.json](./178684-my-dream-job-how-i-survived-job-hunting-in-animation.json) |
