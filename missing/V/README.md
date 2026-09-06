@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venandi In Silva | 124217 | [124217-venandi-in-silva.json](./124217-venandi-in-silva.json) |
 | Venatio | 188073 | [188073-venatio.json](./188073-venatio.json) |
 | Vendetta: Curse of Raven's Cry - Deluxe Edition | 53875 | [53875-vendetta-curse-of-ravens-cry-deluxe-edition.json](./53875-vendetta-curse-of-ravens-cry-deluxe-edition.json) |
+| Vending Machine Simulator 2025 | 366225 | [366225-vending-machine-simulator-2025.json](./366225-vending-machine-simulator-2025.json) |
 | Vendir: Plague of Lies | 190212 | [190212-vendir-plague-of-lies.json](./190212-vendir-plague-of-lies.json) |
 | Vengeance | 368470 | [368470-vengeance.json](./368470-vengeance.json) |
 | Vengeance of Mr. Peppermint | 250012 | [250012-vengeance-of-mr-peppermint.json](./250012-vengeance-of-mr-peppermint.json) |
