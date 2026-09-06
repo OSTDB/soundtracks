@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy | 401477 | [401477-legacy.json](./401477-legacy.json) |
 | Legacy Battle heart 2 | 108505 | [108505-legacy-battle-heart-2.json](./108505-legacy-battle-heart-2.json) |
 | Legacy of Aeroja | 193480 | [193480-legacy-of-aeroja.json](./193480-legacy-of-aeroja.json) |
+| Legacy of Ancestors | 346589 | [346589-legacy-of-ancestors.json](./346589-legacy-of-ancestors.json) |
 | Legacy of Epstein: Bad Omen | 244478 | [244478-legacy-of-epstein-bad-omen.json](./244478-legacy-of-epstein-bad-omen.json) |
 | Legacy of Flan | 243942 | [243942-legacy-of-flan.json](./243942-legacy-of-flan.json) |
 | Legacy of Kain: Dead Sun | 141216 | [141216-legacy-of-kain-dead-sun.json](./141216-legacy-of-kain-dead-sun.json) |
@@ -562,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightening Force: Quest for the Darkstar | 46273 | [46273-lightening-force-quest-for-the-darkstar.json](./46273-lightening-force-quest-for-the-darkstar.json) |
 | Lighter | 114394 | [114394-lighter.json](./114394-lighter.json) |
 | Lightfish | 16271 | [16271-lightfish.json](./16271-lightfish.json) |
+| Lighting Lanterns | 346593 | [346593-lighting-lanterns.json](./346593-lighting-lanterns.json) |
 | Lightrix | 372989 | [372989-lightrix.json](./372989-lightrix.json) |
 | Lights Out | 300989 | [300989-lights-out.json](./300989-lights-out.json) |
 | Lightstream Racer | 100163 | [100163-lightstream-racer.json](./100163-lightstream-racer.json) |
@@ -735,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LittleWarGame | 9625 | [9625-littlewargame.json](./9625-littlewargame.json) |
 | Littlewitch Romanesque: Editio Regia | 35757 | [35757-littlewitch-romanesque-editio-regia.json](./35757-littlewitch-romanesque-editio-regia.json) |
 | Liùmángzhū Chuánshuō | 394185 | [394185-liumangzhu-chuanshuo.json](./394185-liumangzhu-chuanshuo.json) |
+| Liuyin's World | 346566 | [346566-liuyins-world.json](./346566-liuyins-world.json) |
 | Live Ammo | 93030 | [93030-live-ammo.json](./93030-live-ammo.json) |
 | Live Cycling Manager 2022 | 215920 | [215920-live-cycling-manager-2022.json](./215920-live-cycling-manager-2022.json) |
 | Live Maze | 210874 | [210874-live-maze.json](./210874-live-maze.json) |
@@ -1064,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid9: Inciting Incident | 80553 | [80553-lucid9-inciting-incident.json](./80553-lucid9-inciting-incident.json) |
 | Luciel Angel Mission | 314060 | [314060-luciel-angel-mission.json](./314060-luciel-angel-mission.json) |
 | Lucifer's Kingdom | 72097 | [72097-lucifers-kingdom.json](./72097-lucifers-kingdom.json) |
+| Lucipurr | 346603 | [346603-lucipurr.json](./346603-lucipurr.json) |
 | Lucius II | 17329 | [17329-lucius-ii.json](./17329-lucius-ii.json) |
 | LuckLand | 260423 | [260423-luckland.json](./260423-luckland.json) |
 | Lucky day | 166750 | [166750-lucky-day.json](./166750-lucky-day.json) |
