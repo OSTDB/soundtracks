@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Pen Color Book | 187488 | [187488-magic-pen-color-book.json](./187488-magic-pen-color-book.json) |
 | Magic Pixel Picross | 54449 | [54449-magic-pixel-picross.json](./54449-magic-pixel-picross.json) |
 | Magic Pussy: Chapter 3 | 365670 | [365670-magic-pussy-chapter-3.json](./365670-magic-pussy-chapter-3.json) |
+| Magic Realm | 316636 | [316636-magic-realm.json](./316636-magic-realm.json) |
 | Magic Realm: Online | 102934 | [102934-magic-realm-online.json](./102934-magic-realm-online.json) |
 | Magic Rune Stone | 333367 | [333367-magic-rune-stone.json](./333367-magic-rune-stone.json) |
 | Magic Sheep | 380397 | [380397-magic-sheep.json](./380397-magic-sheep.json) |
@@ -187,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Jewelry | 48670 | [48670-magical-jewelry.json](./48670-magical-jewelry.json) |
 | Magical Paradise Train | 252990 | [252990-magical-paradise-train.json](./252990-magical-paradise-train.json) |
 | Magical Prisma | 130404 | [130404-magical-prisma.json](./130404-magical-prisma.json) |
+| Magical School Girls Battle Arena | 316643 | [316643-magical-school-girls-battle-arena.json](./316643-magical-school-girls-battle-arena.json) |
 | Magical Sound Car | 159359 | [159359-magical-sound-car.json](./159359-magical-sound-car.json) |
 | Magical Stick Girl Miracle Kurun | 125427 | [125427-magical-stick-girl-miracle-kurun.json](./125427-magical-stick-girl-miracle-kurun.json) |
 | Magical Strings | 157719 | [157719-magical-strings.json](./157719-magical-strings.json) |
@@ -2079,6 +2081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mops & Mobs: A Sweeping Dungeon Adventure | 291767 | [291767-mops-and-mobs-a-sweeping-dungeon-adventure.json](./291767-mops-and-mobs-a-sweeping-dungeon-adventure.json) |
 | Morbid Catastrophe | 248313 | [248313-morbid-catastrophe.json](./248313-morbid-catastrophe.json) |
 | Mordecai Saw Game | 385050 | [385050-mordecai-saw-game.json](./385050-mordecai-saw-game.json) |
+| Mordeth | 316605 | [316605-mordeth.json](./316605-mordeth.json) |
 | Mordfield Command | 304874 | [304874-mordfield-command.json](./304874-mordfield-command.json) |
 | Mordhau: Platinum Edition | 305495 | [305495-mordhau-platinum-edition.json](./305495-mordhau-platinum-edition.json) |
 | More Easter Eggs! | 96051 | [96051-more-easter-eggs.json](./96051-more-easter-eggs.json) |
@@ -2496,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Chemical Romance: Sweet Revenge!!! | 328267 | [328267-my-chemical-romance-sweet-revenge.json](./328267-my-chemical-romance-sweet-revenge.json) |
 | My Child New Beginnings | 151702 | [151702-my-child-new-beginnings.json](./151702-my-child-new-beginnings.json) |
 | My City - Entertainment Tycoon | 105926 | [105926-my-city-entertainment-tycoon.json](./105926-my-city-entertainment-tycoon.json) |
+| My College Picture with Them | 316652 | [316652-my-college-picture-with-them.json](./316652-my-college-picture-with-them.json) |
 | My Colony 2 | 200723 | [200723-my-colony-2.json](./200723-my-colony-2.json) |
 | My Coworkers Are Made Of Static | 401490 | [401490-my-coworkers-are-made-of-static.json](./401490-my-coworkers-are-made-of-static.json) |
 | My Creampie Heaven | 173815 | [173815-my-creampie-heaven.json](./173815-my-creampie-heaven.json) |
@@ -2610,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Step Sisters | 344946 | [344946-my-step-sisters.json](./344946-my-step-sisters.json) |
 | My Sticker Room | 383969 | [383969-my-sticker-room.json](./383969-my-sticker-room.json) |
 | My Strange Girlfriends | 248926 | [248926-my-strange-girlfriends.json](./248926-my-strange-girlfriends.json) |
+| My Strongest Girlfriend | 316651 | [316651-my-strongest-girlfriend.json](./316651-my-strongest-girlfriend.json) |
 | My Sudoku | 321960 | [321960-my-sudoku.json](./321960-my-sudoku.json) |
 | My Sudoku: Classic 4x4 Easy 10 | 321961 | [321961-my-sudoku-classic-4x4-easy-10.json](./321961-my-sudoku-classic-4x4-easy-10.json) |
 | My Sudoku: Classic 4x4 Easy 2 | 321962 | [321962-my-sudoku-classic-4x4-easy-2.json](./321962-my-sudoku-classic-4x4-easy-2.json) |
@@ -2727,6 +2732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Ark: Maboroshi Gekijo | 67326 | [67326-mystic-ark-maboroshi-gekijo.json](./67326-mystic-ark-maboroshi-gekijo.json) |
 | Mystic Chronicles | 10945 | [10945-mystic-chronicles.json](./10945-mystic-chronicles.json) |
 | Mystic Diary: Lost Brother | 32216 | [32216-mystic-diary-lost-brother.json](./32216-mystic-diary-lost-brother.json) |
+| Mystic Explorer | 316642 | [316642-mystic-explorer.json](./316642-mystic-explorer.json) |
 | Mystic Fishing: A Fantasy Fishing RPG | 356077 | [356077-mystic-fishing-a-fantasy-fishing-rpg.json](./356077-mystic-fishing-a-fantasy-fishing-rpg.json) |
 | Mystic Forest | 226424 | [226424-mystic-forest.json](./226424-mystic-forest.json) |
 | Mystic Inn | 84272 | [84272-mystic-inn.json](./84272-mystic-inn.json) |
