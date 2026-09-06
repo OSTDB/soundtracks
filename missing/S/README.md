@@ -2108,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sono Hanabira ni Kuchizuke wo: Tenshi no Hanabira Zome | 12219 | [12219-sono-hanabira-ni-kuchizuke-wo-tenshi-no-hanabira-zome.json](./12219-sono-hanabira-ni-kuchizuke-wo-tenshi-no-hanabira-zome.json) |
 | Sono Hanabira ni Kuchizuke wo: Tenshi-tachi no Harukoi | 12272 | [12272-sono-hanabira-ni-kuchizuke-wo-tenshi-tachi-no-harukoi.json](./12272-sono-hanabira-ni-kuchizuke-wo-tenshi-tachi-no-harukoi.json) |
 | Sono Kaori de Mitasaretai: #7b5544 no Koi wo Shita Watashi no Hajimete wo Master ni Agetai | 412315 | [412315-sono-kaori-de-mitasaretai-7b5544-no-koi-wo-shita-watashi-no-hajimete-wo-master-ni-agetai.json](./412315-sono-kaori-de-mitasaretai-7b5544-no-koi-wo-shita-watashi-no-hajimete-wo-master-ni-agetai.json) |
+| Sons of Odin | 346570 | [346570-sons-of-odin.json](./346570-sons-of-odin.json) |
 | Sons of Saturn | 256546 | [256546-sons-of-saturn.json](./256546-sons-of-saturn.json) |
 | Sons Of The Dream Forest | 315283 | [315283-sons-of-the-dream-forest.json](./315283-sons-of-the-dream-forest.json) |
 | Soot | 231085 | [231085-soot.json](./231085-soot.json) |
@@ -3768,6 +3769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball: Tip 'n Tilt | 336925 | [336925-super-monkey-ball-tip-n-tilt.json](./336925-super-monkey-ball-tip-n-tilt.json) |
 | Super Monster Bros by Adventure Time Pocket Free Games | 25017 | [25017-super-monster-bros-by-adventure-time-pocket-free-games.json](./25017-super-monster-bros-by-adventure-time-pocket-free-games.json) |
 | Super Monsters | 295015 | [295015-super-monsters.json](./295015-super-monsters.json) |
+| Super Movie Tycoon | 346616 | [346616-super-movie-tycoon.json](./346616-super-movie-tycoon.json) |
 | Super Mumtaz Bros. | 183613 | [183613-super-mumtaz-bros.json](./183613-super-mumtaz-bros.json) |
 | Super Mustache | 24616 | [24616-super-mustache.json](./24616-super-mustache.json) |
 | Super Nantucket World | 312875 | [312875-super-nantucket-world.json](./312875-super-nantucket-world.json) |
@@ -4074,6 +4076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swimcraft | 410911 | [410911-swimcraft.json](./410911-swimcraft.json) |
 | Swimpossible! | 366238 | [366238-swimpossible.json](./366238-swimpossible.json) |
 | Swine's Revenge | 360011 | [360011-swines-revenge.json](./360011-swines-revenge.json) |
+| Swing Boy | 346573 | [346573-swing-boy.json](./346573-swing-boy.json) |
 | Swing Copters | 7672 | [7672-swing-copters.json](./7672-swing-copters.json) |
 | Swing Fall | 359442 | [359442-swing-fall.json](./359442-swing-fall.json) |
 | Swing Into Zero-G | 296667 | [296667-swing-into-zero-g.json](./296667-swing-into-zero-g.json) |
