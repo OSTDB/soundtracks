@@ -383,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead End Junction #2 Deadman's Bullet | 95411 | [95411-dead-end-junction-2-deadmans-bullet.json](./95411-dead-end-junction-2-deadmans-bullet.json) |
 | Dead End Mission | 260415 | [260415-dead-end-mission.json](./260415-dead-end-mission.json) |
 | Dead Event | 177035 | [177035-dead-event.json](./177035-dead-event.json) |
+| Dead Eye Deputy | 316056 | [316056-dead-eye-deputy.json](./316056-dead-eye-deputy.json) |
 | Dead Eye Jim | 44639 | [44639-dead-eye-jim.json](./44639-dead-eye-jim.json) |
 | Dead Face | 181919 | [181919-dead-face.json](./181919-dead-face.json) |
 | Dead Function | 179737 | [179737-dead-function.json](./179737-dead-function.json) |
