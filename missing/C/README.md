@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Café Bouvardie | 225269 | [225269-cafe-bouvardie.json](./225269-cafe-bouvardie.json) |
 | Cafe Cuillere | 141888 | [141888-cafe-cuillere.json](./141888-cafe-cuillere.json) |
 | Café Enchanté: Limited Edition | 254787 | [254787-cafe-enchante-limited-edition.json](./254787-cafe-enchante-limited-edition.json) |
+| Café Guile | 364495 | [364495-cafe-guile.json](./364495-cafe-guile.json) |
 | Café Machina | 414295 | [414295-cafe-machina.json](./414295-cafe-machina.json) |
 | Cafe Owner Simulator | 191851 | [191851-cafe-owner-simulator.json](./191851-cafe-owner-simulator.json) |
 | Cafe Panic | 296075 | [296075-cafe-panic.json](./296075-cafe-panic.json) |
@@ -2176,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybernetic Fault | 161369 | [161369-cybernetic-fault.json](./161369-cybernetic-fault.json) |
 | Cybernetica: Final | 190738 | [190738-cybernetica-final.json](./190738-cybernetica-final.json) |
 | Cybernoid II: The Revenge | 12025 | [12025-cybernoid-ii-the-revenge.json](./12025-cybernoid-ii-the-revenge.json) |
+| Cyberpedia | 364522 | [364522-cyberpedia.json](./364522-cyberpedia.json) |
 | Cyberpunk 3776 | 35896 | [35896-cyberpunk-3776.json](./35896-cyberpunk-3776.json) |
 | Cyberpunk Inquisitor | 306065 | [306065-cyberpunk-inquisitor.json](./306065-cyberpunk-inquisitor.json) |
 | CyberPunk Sex Tower | 171604 | [171604-cyberpunk-sex-tower.json](./171604-cyberpunk-sex-tower.json) |
