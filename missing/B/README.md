@@ -1347,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluey Wackadoo Watch | 230557 | [230557-bluey-wackadoo-watch.json](./230557-bluey-wackadoo-watch.json) |
 | Blukaty | 291241 | [291241-blukaty.json](./291241-blukaty.json) |
 | Blumgi Castle | 219262 | [219262-blumgi-castle.json](./219262-blumgi-castle.json) |
+| Blyte | 358867 | [358867-blyte.json](./358867-blyte.json) |
 | BMX Pipe | 102770 | [102770-bmx-pipe.json](./102770-bmx-pipe.json) |
 | BMX Simulator | 11973 | [11973-bmx-simulator.json](./11973-bmx-simulator.json) |
 | Boa Retina | 134663 | [134663-boa-retina.json](./134663-boa-retina.json) |
