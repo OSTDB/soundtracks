@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Hero | 158209 | [158209-immortal-hero.json](./158209-immortal-hero.json) |
 | Immortal Legacy: The Jade Cipher - Console Edition | 132851 | [132851-immortal-legacy-the-jade-cipher-console-edition.json](./132851-immortal-legacy-the-jade-cipher-console-edition.json) |
 | Immortal Life | 151738 | [151738-immortal-life.json](./151738-immortal-life.json) |
+| Immortal Magus | 344360 | [344360-immortal-magus.json](./344360-immortal-magus.json) |
 | Immortal Realms: Vampire Wars | 119258 | [119258-immortal-realms-vampire-wars.json](./119258-immortal-realms-vampire-wars.json) |
 | Immortal Rebirth | 382764 | [382764-immortal-rebirth.json](./382764-immortal-rebirth.json) |
 | Immortal Redneck | 23188 | [23188-immortal-redneck.json](./23188-immortal-redneck.json) |
