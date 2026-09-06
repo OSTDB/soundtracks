@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food | 18287 | [18287-fast-food.json](./18287-fast-food.json) |
 | Fast Food Crisis | 266523 | [266523-fast-food-crisis.json](./266523-fast-food-crisis.json) |
 | Fast Food Frog | 358881 | [358881-fast-food-frog.json](./358881-fast-food-frog.json) |
+| Fast Food Manager 2 | 347719 | [347719-fast-food-manager-2.json](./347719-fast-food-manager-2.json) |
 | Fast Food Panic | 50631 | [50631-fast-food-panic.json](./50631-fast-food-panic.json) |
 | Fast Food Rage | 386700 | [386700-fast-food-rage.json](./386700-fast-food-rage.json) |
 | Fast Travel: Loot Delivery Service | 117050 | [117050-fast-travel-loot-delivery-service.json](./117050-fast-travel-loot-delivery-service.json) |
@@ -877,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Simulation | 23062 | [23062-flight-simulation.json](./23062-flight-simulation.json) |
 | Flight Simulator 2025 VR | 335088 | [335088-flight-simulator-2025-vr.json](./335088-flight-simulator-2025-vr.json) |
 | Flight Squadron | 69887 | [69887-flight-squadron.json](./69887-flight-squadron.json) |
+| Flight Time | 347681 | [347681-flight-time.json](./347681-flight-time.json) |
 | Flight Unlimited 2K17 | 87550 | [87550-flight-unlimited-2k17.json](./87550-flight-unlimited-2k17.json) |
 | Flimbo's Quest | 12103 | [12103-flimbos-quest.json](./12103-flimbos-quest.json) |
 | Fling! | 264361 | [264361-fling.json](./264361-fling.json) |
