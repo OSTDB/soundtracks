@@ -1024,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ciel Nosurge | 24929 | [24929-ciel-nosurge.json](./24929-ciel-nosurge.json) |
 | Ciel Nosurge: Ushinawareta Hoshi e Sasagu Uta DX | 139995 | [139995-ciel-nosurge-ushinawareta-hoshi-e-sasagu-uta-dx.json](./139995-ciel-nosurge-ushinawareta-hoshi-e-sasagu-uta-dx.json) |
 | Cielle Is Not Happy | 402277 | [402277-cielle-is-not-happy.json](./402277-cielle-is-not-happy.json) |
+| Ciggy World | 314299 | [314299-ciggy-world.json](./314299-ciggy-world.json) |
 | Cinco Noches en Casa Rosada 2 | 353900 | [353900-cinco-noches-en-casa-rosada-2.json](./353900-cinco-noches-en-casa-rosada-2.json) |
 | Cinderella Nine in August | 82121 | [82121-cinderella-nine-in-august.json](./82121-cinderella-nine-in-august.json) |
 | Cinderella Phenomenon | 30030 | [30030-cinderella-phenomenon.json](./30030-cinderella-phenomenon.json) |
@@ -1293,6 +1294,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coco Bandicoot: Tiger Ride | 314658 | [314658-coco-bandicoot-tiger-ride.json](./314658-coco-bandicoot-tiger-ride.json) |
 | Coco Block | 391595 | [391595-coco-block.json](./391595-coco-block.json) |
 | Cocommando | 393474 | [393474-cocommando.json](./393474-cocommando.json) |
+| Coconut | 314302 | [314302-coconut.json](./314302-coconut.json) |
+| Coconut | 314305 | [314305-coconut.json](./314305-coconut.json) |
 | Cocoron | 48644 | [48644-cocoron.json](./48644-cocoron.json) |
 | Cocoto Alien Brick Breaker | 63857 | [63857-cocoto-alien-brick-breaker.json](./63857-cocoto-alien-brick-breaker.json) |
 | Cocoto Fishing Master | 19677 | [19677-cocoto-fishing-master.json](./19677-cocoto-fishing-master.json) |
@@ -1328,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cognitive Dissonance: A SiIvaGunner Christmas Comeback Crisis Side Story | 326956 | [326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json](./326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json) |
 | Cogs and Carnage | 291215 | [291215-cogs-and-carnage.json](./291215-cogs-and-carnage.json) |
 | Cohabitation Life | 296647 | [296647-cohabitation-life.json](./296647-cohabitation-life.json) |
+| Coin | 314310 | [314310-coin.json](./314310-coin.json) |
 | Coin & Cauldron | 391618 | [391618-coin-and-cauldron.json](./391618-coin-and-cauldron.json) |
 | Coin Collection Challenge | 379904 | [379904-coin-collection-challenge.json](./379904-coin-collection-challenge.json) |
 | Coin Exchange Craze | 275356 | [275356-coin-exchange-craze.json](./275356-coin-exchange-craze.json) |
