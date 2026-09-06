@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam Battle Alliance | 191403 | [191403-sd-gundam-battle-alliance.json](./191403-sd-gundam-battle-alliance.json) |
 | SD Gundam Battle Alliance: Limited Edition | 205271 | [205271-sd-gundam-battle-alliance-limited-edition.json](./205271-sd-gundam-battle-alliance-limited-edition.json) |
 | SD Hiryuu no Ken Gaiden | 64968 | [64968-sd-hiryuu-no-ken-gaiden.json](./64968-sd-hiryuu-no-ken-gaiden.json) |
+| SD Sengoku-den: Tenka Touitsu-hen - Aku Mu Haiki Yume Yama no Tatakai! | 346026 | [346026-sd-sengoku-den-tenka-touitsu-hen-aku-mu-haiki-yume-yama-no-tatakai.json](./346026-sd-sengoku-den-tenka-touitsu-hen-aku-mu-haiki-yume-yama-no-tatakai.json) |
 | SDK Paint | 84860 | [84860-sdk-paint.json](./84860-sdk-paint.json) |
 | SDK Spriter | 84859 | [84859-sdk-spriter.json](./84859-sdk-spriter.json) |
 | SDST: Deluxe | 168904 | [168904-sdst-deluxe.json](./168904-sdst-deluxe.json) |
@@ -626,6 +627,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sei no Shoujo: Bishoujo Gakuen 3 | 194623 | [194623-sei-no-shoujo-bishoujo-gakuen-3.json](./194623-sei-no-shoujo-bishoujo-gakuen-3.json) |
 | Sei Shoujo Sentai Lakers II | 264323 | [264323-sei-shoujo-sentai-lakers-ii.json](./264323-sei-shoujo-sentai-lakers-ii.json) |
 | Sei Shoujo Sentai Lakers III | 264324 | [264324-sei-shoujo-sentai-lakers-iii.json](./264324-sei-shoujo-sentai-lakers-iii.json) |
+| Seibu Keisatsu | 346045 | [346045-seibu-keisatsu.json](./346045-seibu-keisatsu.json) |
+| Seibu Keisatsu Part-III | 346046 | [346046-seibu-keisatsu-part-iii.json](./346046-seibu-keisatsu-part-iii.json) |
 | Seifuku Densetsu Pretty Fighter X | 64982 | [64982-seifuku-densetsu-pretty-fighter-x.json](./64982-seifuku-densetsu-pretty-fighter-x.json) |
 | Seimbein | 135877 | [135877-seimbein.json](./135877-seimbein.json) |
 | Seinarukana -The Spirit of Eternity Sword 2- | 24971 | [24971-seinarukana-the-spirit-of-eternity-sword-2.json](./24971-seinarukana-the-spirit-of-eternity-sword-2.json) |
@@ -1804,6 +1807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Fart Away: Jam Edition | 255391 | [255391-so-fart-away-jam-edition.json](./255391-so-fart-away-jam-edition.json) |
 | So Many Words | 308548 | [308548-so-many-words.json](./308548-so-many-words.json) |
 | Soapy Tales | 392763 | [392763-soapy-tales.json](./392763-soapy-tales.json) |
+| Soccer | 346058 | [346058-soccer.json](./346058-soccer.json) |
 | Soccer America International Cup | 43307 | [43307-soccer-america-international-cup.json](./43307-soccer-america-international-cup.json) |
 | Soccer Boss | 190209 | [190209-soccer-boss.json](./190209-soccer-boss.json) |
 | Soccer But Different | 209666 | [209666-soccer-but-different.json](./209666-soccer-but-different.json) |
@@ -2313,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Shooter 3D | 96756 | [96756-space-shooter-3d.json](./96756-space-shooter-3d.json) |
 | Space Shooter: Fun Arcade Game | 87535 | [87535-space-shooter-fun-arcade-game.json](./87535-space-shooter-fun-arcade-game.json) |
 | Space shooter: Galaxy Attack | 256526 | [256526-space-shooter-galaxy-attack.json](./256526-space-shooter-galaxy-attack.json) |
+| Space Shot Game | 346047 | [346047-space-shot-game.json](./346047-space-shot-game.json) |
 | Space Show Edition 17 | 290709 | [290709-space-show-edition-17.json](./290709-space-show-edition-17.json) |
 | Space Smack! | 171074 | [171074-space-smack.json](./171074-space-smack.json) |
 | Space Smash | 115618 | [115618-space-smash.json](./115618-space-smash.json) |
@@ -3952,6 +3957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface: Alone in the Mist - Collector's Edition | 89943 | [89943-surface-alone-in-the-mist-collectors-edition.json](./89943-surface-alone-in-the-mist-collectors-edition.json) |
 | Surface: Project Dawn | 102812 | [102812-surface-project-dawn.json](./102812-surface-project-dawn.json) |
 | Surfacer+ | 85529 | [85529-surfacer.json](./85529-surfacer.json) |
+| Surferboy | 346044 | [346044-surferboy.json](./346044-surferboy.json) |
 | Surfing H3O | 43344 | [43344-surfing-h3o.json](./43344-surfing-h3o.json) |
 | Surfingers | 33613 | [33613-surfingers.json](./33613-surfingers.json) |
 | Surge Breaker | 185693 | [185693-surge-breaker.json](./185693-surge-breaker.json) |
