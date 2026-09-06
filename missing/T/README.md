@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takahashi Meijin no Bug-tte Honey | 48662 | [48662-takahashi-meijin-no-bug-tte-honey.json](./48662-takahashi-meijin-no-bug-tte-honey.json) |
 | Takamori Puzzle | 264328 | [264328-takamori-puzzle.json](./264328-takamori-puzzle.json) |
 | Take a Little | 238737 | [238737-take-a-little.json](./238737-take-a-little.json) |
+| Take a piss like a woman | 330160 | [330160-take-a-piss-like-a-woman.json](./330160-take-a-piss-like-a-woman.json) |
 | Take a Seat! | 202961 | [202961-take-a-seat.json](./202961-take-a-seat.json) |
 | Take Care Of The Dog | 402917 | [402917-take-care-of-the-dog.json](./402917-take-care-of-the-dog.json) |
 | Take Care VR | 236507 | [236507-take-care-vr.json](./236507-take-care-vr.json) |
@@ -1875,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Princess in the Mirror | 298885 | [298885-the-princess-in-the-mirror.json](./298885-the-princess-in-the-mirror.json) |
 | The Prison | 117089 | [117089-the-prison.json](./117089-the-prison.json) |
 | The Prisoning: Fletcher's Quest | 284895 | [284895-the-prisoning-fletchers-quest.json](./284895-the-prisoning-fletchers-quest.json) |
+| The Problem With Golf | 330156 | [330156-the-problem-with-golf.json](./330156-the-problem-with-golf.json) |
 | The Procession to Calvary | 106985 | [106985-the-procession-to-calvary.json](./106985-the-procession-to-calvary.json) |
 | The Professor Presents: Got Handles? | 28937 | [28937-the-professor-presents-got-handles.json](./28937-the-professor-presents-got-handles.json) |
 | The Promised Land | 17318 | [17318-the-promised-land.json](./17318-the-promised-land.json) |
@@ -2868,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Eden | 346609 | [346609-tiny-eden.json](./346609-tiny-eden.json) |
 | Tiny Fat Hero | 232144 | [232144-tiny-fat-hero.json](./232144-tiny-fat-hero.json) |
 | Tiny Heist | 26670 | [26670-tiny-heist.json](./26670-tiny-heist.json) |
+| Tiny Hero Courier | 330140 | [330140-tiny-hero-courier.json](./330140-tiny-hero-courier.json) |
 | Tiny Hill | 192940 | [192940-tiny-hill.json](./192940-tiny-hill.json) |
 | Tiny Invaders | 92501 | [92501-tiny-invaders.json](./92501-tiny-invaders.json) |
 | Tiny Little Farm | 304332 | [304332-tiny-little-farm.json](./304332-tiny-little-farm.json) |
