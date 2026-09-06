@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby Super Star Ultra | 2647 | [2647-kirby-super-star-ultra.json](./2647-kirby-super-star-ultra.json) |
 | Kirby the Dream Battle | 145015 | [145015-kirby-the-dream-battle.json](./145015-kirby-the-dream-battle.json) |
 | Kirby: Squeak Squad | 3723 | [3723-kirby-squeak-squad.json](./3723-kirby-squeak-squad.json) |
+| Kirby: Wacky Episode | 315520 | [315520-kirby-wacky-episode.json](./315520-kirby-wacky-episode.json) |
 | Kirby's Ballin' Adventure | 324102 | [324102-kirbys-ballin-adventure.json](./324102-kirbys-ballin-adventure.json) |
 | Kirby's Dream Collection Special Edition | 84168 | [84168-kirbys-dream-collection-special-edition.json](./84168-kirbys-dream-collection-special-edition.json) |
 | Kirby's Dream World | 243927 | [243927-kirbys-dream-world.json](./243927-kirbys-dream-world.json) |
