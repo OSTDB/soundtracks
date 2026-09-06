@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cape Hideous | 320532 | [320532-cape-hideous.json](./320532-cape-hideous.json) |
 | Capelord: Bounty Hunters | 190718 | [190718-capelord-bounty-hunters.json](./190718-capelord-bounty-hunters.json) |
 | Capes: Supporter Pack | 304362 | [304362-capes-supporter-pack.json](./304362-capes-supporter-pack.json) |
+| Capital Kings | 342635 | [342635-capital-kings.json](./342635-capital-kings.json) |
 | Capitalist Misadventures | 358290 | [358290-capitalist-misadventures.json](./358290-capitalist-misadventures.json) |
 | CapoeiRogue: Dandara Cordão de Ouro | 215919 | [215919-capoeirogue-dandara-cordao-de-ouro.json](./215919-capoeirogue-dandara-cordao-de-ouro.json) |
 | Capria: Magic of the Elements | 33142 | [33142-capria-magic-of-the-elements.json](./33142-capria-magic-of-the-elements.json) |
@@ -1441,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commuter | 189160 | [189160-commuter.json](./189160-commuter.json) |
 | Comp IV | 245533 | [245533-comp-iv.json](./245533-comp-iv.json) |
 | Companion | 30884 | [30884-companion.json](./30884-companion.json) |
+| Companion of Darkness | 342630 | [342630-companion-of-darkness.json](./342630-companion-of-darkness.json) |
 | Company is Watching | 401498 | [401498-company-is-watching.json](./401498-company-is-watching.json) |
 | Company of Heroes | 654 | [654-company-of-heroes.json](./654-company-of-heroes.json) |
 | Company of Heroes 2: Complete Collection | 145682 | [145682-company-of-heroes-2-complete-collection.json](./145682-company-of-heroes-2-complete-collection.json) |
@@ -2076,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Guardian | 296668 | [296668-crystal-guardian.json](./296668-crystal-guardian.json) |
 | Crystal Ice Quest | 146899 | [146899-crystal-ice-quest.json](./146899-crystal-ice-quest.json) |
 | Crystal in Carnations | 358303 | [358303-crystal-in-carnations.json](./358303-crystal-in-carnations.json) |
+| Crystal Legends | 342624 | [342624-crystal-legends.json](./342624-crystal-legends.json) |
 | Crystal Quest Classic | 32182 | [32182-crystal-quest-classic.json](./32182-crystal-quest-classic.json) |
 | Crystal Raider | 55188 | [55188-crystal-raider.json](./55188-crystal-raider.json) |
 | Crystal Soul Chambers | 132257 | [132257-crystal-soul-chambers.json](./132257-crystal-soul-chambers.json) |
