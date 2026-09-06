@@ -1054,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Nation Wars | 115039 | [115039-rival-nation-wars.json](./115039-rival-nation-wars.json) |
 | Rival Stars Horse Racing | 318221 | [318221-rival-stars-horse-racing.json](./318221-rival-stars-horse-racing.json) |
 | Rival Stars Horse Racing: VR Edition | 314638 | [314638-rival-stars-horse-racing-vr-edition.json](./314638-rival-stars-horse-racing-vr-edition.json) |
+| Rivalhearts | 321342 | [321342-rivalhearts.json](./321342-rivalhearts.json) |
 | Rivals Duel: Card Battler | 297203 | [297203-rivals-duel-card-battler.json](./297203-rivals-duel-card-battler.json) |
 | Rivals in the Skies | 363907 | [363907-rivals-in-the-skies.json](./363907-rivals-in-the-skies.json) |
 | Rivals' Duel | 277611 | [277611-rivals-duel.json](./277611-rivals-duel.json) |
