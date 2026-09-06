@@ -1820,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drum Legend | 277023 | [277023-drum-legend.json](./277023-drum-legend.json) |
 | DrumMania 3rdMix | 188662 | [188662-drummania-3rdmix.json](./188662-drummania-3rdmix.json) |
 | Drunk | 183068 | [183068-drunk.json](./183068-drunk.json) |
+| Drunk but Not Wasted Knight | 363398 | [363398-drunk-but-not-wasted-knight.json](./363398-drunk-but-not-wasted-knight.json) |
 | Drunk Fist | 180817 | [180817-drunk-fist.json](./180817-drunk-fist.json) |
 | Drunk Mages | 390001 | [390001-drunk-mages.json](./390001-drunk-mages.json) |
 | Drunk Puppet | 110354 | [110354-drunk-puppet.json](./110354-drunk-puppet.json) |
