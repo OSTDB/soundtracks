@@ -639,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Go! Flambeau! | 219799 | [219799-go-go-flambeau.json](./219799-go-go-flambeau.json) |
 | Go Guess | 89981 | [89981-go-guess.json](./89981-go-guess.json) |
 | Go Home | 210886 | [210886-go-home.json](./210886-go-home.json) |
+| Go Kart Mania: Premium Edition | 317255 | [317255-go-kart-mania-premium-edition.json](./317255-go-kart-mania-premium-edition.json) |
 | Go Long! | 136444 | [136444-go-long.json](./136444-go-long.json) |
 | Go Plague Monkey! Go! | 60558 | [60558-go-plague-monkey-go.json](./60558-go-plague-monkey-go.json) |
 | Go to Heck | 214154 | [214154-go-to-heck.json](./214154-go-to-heck.json) |
