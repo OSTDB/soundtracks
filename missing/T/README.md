@@ -697,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Hyperman | 71556 | [71556-the-adventures-of-hyperman.json](./71556-the-adventures-of-hyperman.json) |
 | The Adventures of LinShanHai | 234311 | [234311-the-adventures-of-linshanhai.json](./234311-the-adventures-of-linshanhai.json) |
 | The Adventures of Little Red Riding Cap | 54433 | [54433-the-adventures-of-little-red-riding-cap.json](./54433-the-adventures-of-little-red-riding-cap.json) |
+| The Adventures of Oddley | 320742 | [320742-the-adventures-of-oddley.json](./320742-the-adventures-of-oddley.json) |
 | The Adventures of Rad Gravity | 8777 | [8777-the-adventures-of-rad-gravity.json](./8777-the-adventures-of-rad-gravity.json) |
 | The Adventures of Square | 18284 | [18284-the-adventures-of-square.json](./18284-the-adventures-of-square.json) |
 | The Adventures of Star Saver | 7745 | [7745-the-adventures-of-star-saver.json](./7745-the-adventures-of-star-saver.json) |
@@ -2338,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vaults | 197914 | [197914-the-vaults.json](./197914-the-vaults.json) |
 | The Veiled Ones | 318799 | [318799-the-veiled-ones.json](./318799-the-veiled-ones.json) |
 | The Very Idle Game | 310750 | [310750-the-very-idle-game.json](./310750-the-very-idle-game.json) |
+| The Victor Initiative | 320732 | [320732-the-victor-initiative.json](./320732-the-victor-initiative.json) |
 | The Video Game Machine | 123066 | [123066-the-video-game-machine.json](./123066-the-video-game-machine.json) |
 | The Vigil | 271494 | [271494-the-vigil.json](./271494-the-vigil.json) |
 | The Vikings | 37188 | [37188-the-vikings.json](./37188-the-vikings.json) |
@@ -3483,6 +3485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: Dispolok BR 182 Add-On | 359977 | [359977-train-sim-world-5-dispolok-br-182-add-on.json](./359977-train-sim-world-5-dispolok-br-182-add-on.json) |
 | Train Sim World 5: Dutch Regional Edition | 336939 | [336939-train-sim-world-5-dutch-regional-edition.json](./336939-train-sim-world-5-dutch-regional-edition.json) |
 | Train Sim World 5: Expert DB BR 101 & IC Steuerwagen Loco Add-On | 359978 | [359978-train-sim-world-5-expert-db-br-101-and-ic-steuerwagen-loco-add-on.json](./359978-train-sim-world-5-expert-db-br-101-and-ic-steuerwagen-loco-add-on.json) |
+| Train Sim World 5: German Regional Edition | 320762 | [320762-train-sim-world-5-german-regional-edition.json](./320762-train-sim-world-5-german-regional-edition.json) |
 | Train Sim World 5: Horseshoe Curve: Altoona - Johnstown & South Fork Route Add-On | 359970 | [359970-train-sim-world-5-horseshoe-curve-altoona-johnstown-and-south-fork-route-add-on.json](./359970-train-sim-world-5-horseshoe-curve-altoona-johnstown-and-south-fork-route-add-on.json) |
 | Train Sim World 5: Manchester Airport Commuter: Manchester - Alderley Edge | 366842 | [366842-train-sim-world-5-manchester-airport-commuter-manchester-alderley-edge.json](./366842-train-sim-world-5-manchester-airport-commuter-manchester-alderley-edge.json) |
 | Train Sim World 5: MBTA Providence/Stoughton Line HSP46 Pack | 366841 | [366841-train-sim-world-5-mbta-providence-stoughton-line-hsp46-pack.json](./366841-train-sim-world-5-mbta-providence-stoughton-line-hsp46-pack.json) |
@@ -3657,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traxion | 257688 | [257688-traxion.json](./257688-traxion.json) |
 | Treachery in Beatdown City: U.N. Trouble | 272568 | [272568-treachery-in-beatdown-city-u-n-trouble.json](./272568-treachery-in-beatdown-city-u-n-trouble.json) |
 | Treason | 190229 | [190229-treason.json](./190229-treason.json) |
+| Treasure 'n Trio | 320773 | [320773-treasure-n-trio.json](./320773-treasure-n-trio.json) |
 | Treasure Action: Threatened, Violated & Sacrificed Sherry | 82923 | [82923-treasure-action-threatened-violated-and-sacrificed-sherry.json](./82923-treasure-action-threatened-violated-and-sacrificed-sherry.json) |
 | Treasure Chest Corps: Fight Demons to Restore the Barrier | 118392 | [118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json](./118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json) |
 | Treasure Gear | 130357 | [130357-treasure-gear.json](./130357-treasure-gear.json) |
