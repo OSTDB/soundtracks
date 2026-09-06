@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waveat ReLight V2 | 362811 | [362811-waveat-relight-v2.json](./362811-waveat-relight-v2.json) |
 | Waves ! | 104097 | [104097-waves.json](./104097-waves.json) |
 | Waves of Death VR | 132229 | [132229-waves-of-death-vr.json](./132229-waves-of-death-vr.json) |
+| Waves of the Imperial Garden | 343810 | [343810-waves-of-the-imperial-garden.json](./343810-waves-of-the-imperial-garden.json) |
 | Waves: Arena Tactics | 93630 | [93630-waves-arena-tactics.json](./93630-waves-arena-tactics.json) |
 | Waving Around | 347174 | [347174-waving-around.json](./347174-waving-around.json) |
 | Way Down | 187511 | [187511-way-down.json](./187511-way-down.json) |
