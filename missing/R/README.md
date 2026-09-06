@@ -1100,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RobinWords | 303237 | [303237-robinwords.json](./303237-robinwords.json) |
 | Robo Boop | 89970 | [89970-robo-boop.json](./89970-robo-boop.json) |
 | Robo Rangers | 388744 | [388744-robo-rangers.json](./388744-robo-rangers.json) |
+| Robo Rescue | 328489 | [328489-robo-rescue.json](./328489-robo-rescue.json) |
 | Robo Wars | 196316 | [196316-robo-wars.json](./196316-robo-wars.json) |
 | Robo-Worms | 157673 | [157673-robo-worms.json](./157673-robo-worms.json) |
 | RoboBall | 111681 | [111681-roboball.json](./111681-roboball.json) |
@@ -1117,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robosaurus | 264318 | [264318-robosaurus.json](./264318-robosaurus.json) |
 | RoboSkate | 139437 | [139437-roboskate.json](./139437-roboskate.json) |
 | RoboSquare | 141205 | [141205-robosquare.json](./141205-robosquare.json) |
+| Robot Anarchy | 328496 | [328496-robot-anarchy.json](./328496-robot-anarchy.json) |
 | Robot Arena: Design & Destroy | 79323 | [79323-robot-arena-design-and-destroy.json](./79323-robot-arena-design-and-destroy.json) |
 | Robot Auto Racing Simulator | 127950 | [127950-robot-auto-racing-simulator.json](./127950-robot-auto-racing-simulator.json) |
 | Robot Bros | 89240 | [89240-robot-bros.json](./89240-robot-bros.json) |
@@ -1235,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roda a Roda | 254788 | [254788-roda-a-roda.json](./254788-roda-a-roda.json) |
 | Rodea Eternal | 317613 | [317613-rodea-eternal.json](./317613-rodea-eternal.json) |
 | Rodea the Sky Soldier | 138792 | [138792-rodea-the-sky-soldier.json](./138792-rodea-the-sky-soldier.json) |
+| Rodgerbints: Romance and Scandal in High Society | 328488 | [328488-rodgerbints-romance-and-scandal-in-high-society.json](./328488-rodgerbints-romance-and-scandal-in-high-society.json) |
 | Rododendron | 370721 | [370721-rododendron.json](./370721-rododendron.json) |
 | Roger Rabbit | 153448 | [153448-roger-rabbit.json](./153448-roger-rabbit.json) |
 | Rogue | 183032 | [183032-rogue.json](./183032-rogue.json) |
@@ -1291,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolla | 374635 | [374635-rolla.json](./374635-rolla.json) |
 | Rollbot | 351031 | [351031-rollbot.json](./351031-rollbot.json) |
 | Roller Coaster Rampage | 16359 | [16359-roller-coaster-rampage.json](./16359-roller-coaster-rampage.json) |
+| Roller-Skating | 328498 | [328498-roller-skating.json](./328498-roller-skating.json) |
 | Rollerball | 298843 | [298843-rollerball.json](./298843-rollerball.json) |
 | RollerCoaster Legends II: Thor's Hammer | 102340 | [102340-rollercoaster-legends-ii-thors-hammer.json](./102340-rollercoaster-legends-ii-thors-hammer.json) |
 | RollerCoaster Tycoon Joyride | 99460 | [99460-rollercoaster-tycoon-joyride.json](./99460-rollercoaster-tycoon-joyride.json) |
