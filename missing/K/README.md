@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalah | 121727 | [121727-kalah.json](./121727-kalah.json) |
 | Kaleido Stella | 113745 | [113745-kaleido-stella.json](./113745-kaleido-stella.json) |
 | Kaleidoscope Chateau | 238722 | [238722-kaleidoscope-chateau.json](./238722-kaleidoscope-chateau.json) |
+| Kaleidoscope of Phantasm Prison 2 | 320772 | [320772-kaleidoscope-of-phantasm-prison-2.json](./320772-kaleidoscope-of-phantasm-prison-2.json) |
 | Kaleidoscope: 7 Man Kounen no Houshi-tachi | 66149 | [66149-kaleidoscope-7-man-kounen-no-houshi-tachi.json](./66149-kaleidoscope-7-man-kounen-no-houshi-tachi.json) |
 | Kali's Legion | 373543 | [373543-kalis-legion.json](./373543-kalis-legion.json) |
 | Kalia | 334138 | [334138-kalia.json](./334138-kalia.json) |
@@ -663,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korobo | 309105 | [309105-korobo.json](./309105-korobo.json) |
 | Korosuke Roller | 40225 | [40225-korosuke-roller.json](./40225-korosuke-roller.json) |
 | Korpus: Buried over the Black Soil | 129233 | [129233-korpus-buried-over-the-black-soil.json](./129233-korpus-buried-over-the-black-soil.json) |
+| Korter 1996 | 320714 | [320714-korter-1996.json](./320714-korter-1996.json) |
 | Korunu Kopia: Fushigi no Sumu Machi | 135895 | [135895-korunu-kopia-fushigi-no-sumu-machi.json](./135895-korunu-kopia-fushigi-no-sumu-machi.json) |
 | Koshchei the Immortal | 372460 | [372460-koshchei-the-immortal.json](./372460-koshchei-the-immortal.json) |
 | Kosmo Skirmish | 291771 | [291771-kosmo-skirmish.json](./291771-kosmo-skirmish.json) |
@@ -693,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krazy Ivan | 20604 | [20604-krazy-ivan.json](./20604-krazy-ivan.json) |
 | Kreed | 95498 | [95498-kreed.json](./95498-kreed.json) |
 | Krell | 93032 | [93032-krell.json](./93032-krell.json) |
+| Kremlin 3D | 320717 | [320717-kremlin-3d.json](./320717-kremlin-3d.json) |
 | Kremling Krushin | 231605 | [231605-kremling-krushin.json](./231605-kremling-krushin.json) |
 | Krew Eats | 172718 | [172718-krew-eats.json](./172718-krew-eats.json) |
 | Kriegspiel | 84274 | [84274-kriegspiel.json](./84274-kriegspiel.json) |
