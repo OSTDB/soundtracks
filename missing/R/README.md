@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relapse | 208585 | [208585-relapse.json](./208585-relapse.json) |
 | Relativity | 31637 | [31637-relativity.json](./31637-relativity.json) |
 | Relativity Wars - A Science Space RTS | 35953 | [35953-relativity-wars-a-science-space-rts.json](./35953-relativity-wars-a-science-space-rts.json) |
+| Relatle | 320752 | [320752-relatle.json](./320752-relatle.json) |
 | Relax & Learn World Heritage | 409561 | [409561-relax-and-learn-world-heritage.json](./409561-relax-and-learn-world-heritage.json) |
 | Relax Bird | 89696 | [89696-relax-bird.json](./89696-relax-bird.json) |
 | Relax Industry | 343808 | [343808-relax-industry.json](./343808-relax-industry.json) |
