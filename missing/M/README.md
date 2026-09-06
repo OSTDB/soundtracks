@@ -2153,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Bean's Wacky World | 50621 | [50621-mr-beans-wacky-world.json](./50621-mr-beans-wacky-world.json) |
 | Mr. Big Wigs | 55931 | [55931-mr-big-wigs.json](./55931-mr-big-wigs.json) |
 | Mr. Bill | 92544 | [92544-mr-bill.json](./92544-mr-bill.json) |
+| Mr. Blob's Honey-Do List | 342639 | [342639-mr-blobs-honey-do-list.json](./342639-mr-blobs-honey-do-list.json) |
 | Mr. Bloopy Saves the World | 42659 | [42659-mr-bloopy-saves-the-world.json](./42659-mr-bloopy-saves-the-world.json) |
 | Mr. Boom | 46621 | [46621-mr-boom.json](./46621-mr-boom.json) |
 | Mr. Cool | 23890 | [23890-mr-cool.json](./23890-mr-cool.json) |
@@ -2445,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Young Boyfriend Part 1 | 298881 | [298881-my-young-boyfriend-part-1.json](./298881-my-young-boyfriend-part-1.json) |
 | My Young Boyfriend Part 2 | 303273 | [303273-my-young-boyfriend-part-2.json](./303273-my-young-boyfriend-part-2.json) |
 | Mychess | 73301 | [73301-mychess.json](./73301-mychess.json) |
+| Mycopsychosys | 342662 | [342662-mycopsychosys.json](./342662-mycopsychosys.json) |
 | MyDream | 35794 | [35794-mydream.json](./35794-mydream.json) |
 | MyDU | 365704 | [365704-mydu.json](./365704-mydu.json) |
 | Myha: Return to the Lost Island | 116558 | [116558-myha-return-to-the-lost-island.json](./116558-myha-return-to-the-lost-island.json) |
@@ -2470,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: The Last Resort - Collector's Edition | 236009 | [236009-mystery-case-files-the-last-resort-collectors-edition.json](./236009-mystery-case-files-the-last-resort-collectors-edition.json) |
 | Mystery Crypt | 261520 | [261520-mystery-crypt.json](./261520-mystery-crypt.json) |
 | Mystery Dungeon | 200184 | [200184-mystery-dungeon.json](./200184-mystery-dungeon.json) |
+| Mystery House | 342677 | [342677-mystery-house.json](./342677-mystery-house.json) |
 | Mystery Mansion | 353879 | [353879-mystery-mansion.json](./353879-mystery-mansion.json) |
 | Mystery Master: Felony! | 73291 | [73291-mystery-master-felony.json](./73291-mystery-master-felony.json) |
 | Mystery Masters: Carnival of Crime - Collector's Edition | 201820 | [201820-mystery-masters-carnival-of-crime-collectors-edition.json](./201820-mystery-masters-carnival-of-crime-collectors-edition.json) |
