@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadbait | 161381 | [161381-deadbait.json](./161381-deadbait.json) |
 | Deadblast | 248331 | [248331-deadblast.json](./248331-deadblast.json) |
 | Deadbolt | 18389 | [18389-deadbolt.json](./18389-deadbolt.json) |
+| Deadcam | 323190 | [323190-deadcam.json](./323190-deadcam.json) |
 | Deaded | 238738 | [238738-deaded.json](./238738-deaded.json) |
 | Deadeus | 122405 | [122405-deadeus.json](./122405-deadeus.json) |
 | DeadEye | 116340 | [116340-deadeye.json](./116340-deadeye.json) |
