@@ -473,6 +473,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Bull Air Race 2 | 100165 | [100165-red-bull-air-race-2.json](./100165-red-bull-air-race-2.json) |
 | Red Bull X-Fighters | 20629 | [20629-red-bull-x-fighters.json](./20629-red-bull-x-fighters.json) |
 | Red Bull: Soapbox Racers | 336920 | [336920-red-bull-soapbox-racers.json](./336920-red-bull-soapbox-racers.json) |
+| Red Carpet Diaries: Book 1 | 313688 | [313688-red-carpet-diaries-book-1.json](./313688-red-carpet-diaries-book-1.json) |
+| Red Carpet Diaries: Book 2 | 313689 | [313689-red-carpet-diaries-book-2.json](./313689-red-carpet-diaries-book-2.json) |
+| Red Carpet Diaries: Book 3 | 313690 | [313690-red-carpet-diaries-book-3.json](./313690-red-carpet-diaries-book-3.json) |
 | Red Colony | 139466 | [139466-red-colony.json](./139466-red-colony.json) |
 | Red Comrades 2: For the Great Justice - Reloaded | 33509 | [33509-red-comrades-2-for-the-great-justice-reloaded.json](./33509-red-comrades-2-for-the-great-justice-reloaded.json) |
 | Red Comrades 3: Return of Alaska - Reloaded | 30871 | [30871-red-comrades-3-return-of-alaska-reloaded.json](./30871-red-comrades-3-return-of-alaska-reloaded.json) |
@@ -943,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 5: Free Pack 06 | 293410 | [293410-ride-5-free-pack-06.json](./293410-ride-5-free-pack-06.json) |
 | Ride 5: Speed With Style Pack | 293411 | [293411-ride-5-speed-with-style-pack.json](./293411-ride-5-speed-with-style-pack.json) |
 | Ride Control Ultimate | 243403 | [243403-ride-control-ultimate.json](./243403-ride-control-ultimate.json) |
+| Ride or Die: A Bad Boy Romance - Book 1 | 313719 | [313719-ride-or-die-a-bad-boy-romance-book-1.json](./313719-ride-or-die-a-bad-boy-romance-book-1.json) |
 | Ride with the Reaper | 117053 | [117053-ride-with-the-reaper.json](./117053-ride-with-the-reaper.json) |
 | Ride Your Mind | 141208 | [141208-ride-your-mind.json](./141208-ride-your-mind.json) |
 | Ride Your Mind: Blossoms | 141210 | [141210-ride-your-mind-blossoms.json](./141210-ride-your-mind-blossoms.json) |
