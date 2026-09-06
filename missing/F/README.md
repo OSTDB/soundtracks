@@ -825,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Time | 364504 | [364504-fishing-time.json](./364504-fishing-time.json) |
 | Fishing Tycoon Simulator | 356076 | [356076-fishing-tycoon-simulator.json](./356076-fishing-tycoon-simulator.json) |
 | Fishing Universe Simulator | 114416 | [114416-fishing-universe-simulator.json](./114416-fishing-universe-simulator.json) |
+| Fishlets: Natural Decor Pack | 313679 | [313679-fishlets-natural-decor-pack.json](./313679-fishlets-natural-decor-pack.json) |
 | FishOmatic | 407332 | [407332-fishomatic.json](./407332-fishomatic.json) |
 | Fisht Fight | 367937 | [367937-fisht-fight.json](./367937-fisht-fight.json) |
 | Fishton: A Town to Remember | 219785 | [219785-fishton-a-town-to-remember.json](./219785-fishton-a-town-to-remember.json) |
