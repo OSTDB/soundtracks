@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QV | 141251 | [141251-qv.json](./141251-qv.json) |
 | Qvabllock | 99631 | [99631-qvabllock.json](./99631-qvabllock.json) |
 | Qvadriga | 17347 | [17347-qvadriga.json](./17347-qvadriga.json) |
+| QwikWits | 314866 | [314866-qwikwits.json](./314866-qwikwits.json) |
 | Qwilight | 203526 | [203526-qwilight.json](./203526-qwilight.json) |
 | Qwixx | 175421 | [175421-qwixx.json](./175421-qwixx.json) |
 | Qybe | 102961 | [102961-qybe.json](./102961-qybe.json) |
