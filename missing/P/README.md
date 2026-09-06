@@ -456,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin no Mondai: Saikyou Penguin Densetsu! | 69272 | [69272-penguin-no-mondai-saikyou-penguin-densetsu.json](./69272-penguin-no-mondai-saikyou-penguin-densetsu.json) |
 | Penguin Noir | 247764 | [247764-penguin-noir.json](./247764-penguin-noir.json) |
 | Penguin Push | 146894 | [146894-penguin-push.json](./146894-penguin-push.json) |
+| Penguin Rocketeer | 351610 | [351610-penguin-rocketeer.json](./351610-penguin-rocketeer.json) |
 | Penguin Take-Off!! | 305515 | [305515-penguin-take-off.json](./305515-penguin-take-off.json) |
 | Penguin Wars | 392168 | [392168-penguin-wars.json](./392168-penguin-wars.json) |
 | Penguins vs. Bugs | 122402 | [122402-penguins-vs-bugs.json](./122402-penguins-vs-bugs.json) |
@@ -579,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petdise Tycoon | 242232 | [242232-petdise-tycoon.json](./242232-petdise-tycoon.json) |
 | Pete Sampras Tennis 97 | 57672 | [57672-pete-sampras-tennis-97.json](./57672-pete-sampras-tennis-97.json) |
 | Peter Shilton's Handball Maradona! | 73836 | [73836-peter-shiltons-handball-maradona.json](./73836-peter-shiltons-handball-maradona.json) |
+| Peter's Apostles | 351609 | [351609-peters-apostles.json](./351609-peters-apostles.json) |
 | Peter's Journey | 306096 | [306096-peters-journey.json](./306096-peters-journey.json) |
 | PetHotel | 101581 | [101581-pethotel.json](./101581-pethotel.json) |
 | Petit Planet | 370095 | [370095-petit-planet.json](./370095-petit-planet.json) |
@@ -1141,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pnickies | 40262 | [40262-pnickies.json](./40262-pnickies.json) |
 | Po-Go-No! | 257111 | [257111-po-go-no.json](./257111-po-go-no.json) |
 | Poached : Hunt The Hunter | 163965 | [163965-poached-hunt-the-hunter.json](./163965-poached-hunt-the-hunter.json) |
+| Pochard Jamie | 351632 | [351632-pochard-jamie.json](./351632-pochard-jamie.json) |
 | Pocket Arcade Story DX | 208033 | [208033-pocket-arcade-story-dx.json](./208033-pocket-arcade-story-dx.json) |
 | Pocket Bite d20 | 184616 | [184616-pocket-bite-d20.json](./184616-pocket-bite-d20.json) |
 | Pocket Bomberman | 2980 | [2980-pocket-bomberman.json](./2980-pocket-bomberman.json) |
