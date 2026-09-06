@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genocide 2 | 38334 | [38334-genocide-2.json](./38334-genocide-2.json) |
 | Genre Hopper | 182532 | [182532-genre-hopper.json](./182532-genre-hopper.json) |
 | Genshin Impact: As Light Rain Falls Without Reason | 259867 | [259867-genshin-impact-as-light-rain-falls-without-reason.json](./259867-genshin-impact-as-light-rain-falls-without-reason.json) |
+| Genshin Impact: Incandescent Ode of Resurrection | 326604 | [326604-genshin-impact-incandescent-ode-of-resurrection.json](./326604-genshin-impact-incandescent-ode-of-resurrection.json) |
 | Genshin Impact: To the Stars Shining in the Depths | 266492 | [266492-genshin-impact-to-the-stars-shining-in-the-depths.json](./266492-genshin-impact-to-the-stars-shining-in-the-depths.json) |
 | Genshin Impact: Truth Amongst the Pages of Purana | 400877 | [400877-genshin-impact-truth-amongst-the-pages-of-purana.json](./400877-genshin-impact-truth-amongst-the-pages-of-purana.json) |
 | Genso Chronicles | 286881 | [286881-genso-chronicles.json](./286881-genso-chronicles.json) |
