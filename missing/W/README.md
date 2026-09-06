@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wailing Heights: Deluxe Edition | 53881 | [53881-wailing-heights-deluxe-edition.json](./53881-wailing-heights-deluxe-edition.json) |
 | Waimanu: Grinding Block Adventure | 123628 | [123628-waimanu-grinding-block-adventure.json](./123628-waimanu-grinding-block-adventure.json) |
 | Waiting for an Egg | 404253 | [404253-waiting-for-an-egg.json](./404253-waiting-for-an-egg.json) |
+| Waiting For You At The End of Time | 335258 | [335258-waiting-for-you-at-the-end-of-time.json](./335258-waiting-for-you-at-the-end-of-time.json) |
 | WaiWai Drive | 312353 | [312353-waiwai-drive.json](./312353-waiwai-drive.json) |
 | Wakdoo Random Defence | 188098 | [188098-wakdoo-random-defence.json](./188098-wakdoo-random-defence.json) |
 | Wake Up | 22435 | [22435-wake-up.json](./22435-wake-up.json) |
@@ -167,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warcraft I: Remastered | 322108 | [322108-warcraft-i-remastered.json](./322108-warcraft-i-remastered.json) |
 | Warden's Will | 190730 | [190730-wardens-will.json](./190730-wardens-will.json) |
 | Wardens of the Amber Cage | 103477 | [103477-wardens-of-the-amber-cage.json](./103477-wardens-of-the-amber-cage.json) |
+| Warding Witches | 335253 | [335253-warding-witches.json](./335253-warding-witches.json) |
 | Wardrum | 380420 | [380420-wardrum.json](./380420-wardrum.json) |
 | Wardwell House VR | 163966 | [163966-wardwell-house-vr.json](./163966-wardwell-house-vr.json) |
 | Warface: Global Operations | 172778 | [172778-warface-global-operations.json](./172778-warface-global-operations.json) |
@@ -572,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why Did The Chicken Cross The Road? | 310753 | [310753-why-did-the-chicken-cross-the-road.json](./310753-why-did-the-chicken-cross-the-road.json) |
 | Why Do Boys Play Games? | 346579 | [346579-why-do-boys-play-games.json](./346579-why-do-boys-play-games.json) |
 | Why So Evil | 9368 | [9368-why-so-evil.json](./9368-why-so-evil.json) |
+| Why? | 335243 | [335243-why.json](./335243-why.json) |
 | Wi-Fi Taiou: Gensen Table Game Wii | 268206 | [268206-wi-fi-taiou-gensen-table-game-wii.json](./268206-wi-fi-taiou-gensen-table-game-wii.json) |
 | Wibarm | 84248 | [84248-wibarm.json](./84248-wibarm.json) |
 | Wibby Buddy | 366865 | [366865-wibby-buddy.json](./366865-wibby-buddy.json) |
