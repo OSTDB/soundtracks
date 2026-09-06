@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakoh: Shinobi Ops | 389431 | [389431-yakoh-shinobi-ops.json](./389431-yakoh-shinobi-ops.json) |
 | Yaku Slap | 329976 | [329976-yaku-slap.json](./329976-yaku-slap.json) |
 | Yakuman | 67330 | [67330-yakuman.json](./67330-yakuman.json) |
+| Yakuza 2 Restored | 349856 | [349856-yakuza-2-restored.json](./349856-yakuza-2-restored.json) |
 | Yakuza 5 Remastered | 103017 | [103017-yakuza-5-remastered.json](./103017-yakuza-5-remastered.json) |
 | Yakuza Kiwami 3 & Dark Ties: Flip Phone Customization Pack | 375193 | [375193-yakuza-kiwami-3-and-dark-ties-flip-phone-customization-pack.json](./375193-yakuza-kiwami-3-and-dark-ties-flip-phone-customization-pack.json) |
 | Yakuza Kiwami 3 & Dark Ties: Legendary BGM CD Pack | 375194 | [375194-yakuza-kiwami-3-and-dark-ties-legendary-bgm-cd-pack.json](./375194-yakuza-kiwami-3-and-dark-ties-legendary-bgm-cd-pack.json) |
@@ -68,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ylands | 36297 | [36297-ylands.json](./36297-ylands.json) |
 | Ymir | 50092 | [50092-ymir.json](./50092-ymir.json) |
 | Yo My Yo! | 112355 | [112355-yo-my-yo.json](./112355-yo-my-yo.json) |
+| Yo-Ho-Ho Cannon | 349842 | [349842-yo-ho-ho-cannon.json](./349842-yo-ho-ho-cannon.json) |
 | Yo-Jin-Bo: The Bodyguards | 72679 | [72679-yo-jin-bo-the-bodyguards.json](./72679-yo-jin-bo-the-bodyguards.json) |
 | Yo-kai Sangokushi: Kunitori Wars | 77356 | [77356-yo-kai-sangokushi-kunitori-wars.json](./77356-yo-kai-sangokushi-kunitori-wars.json) |
 | Yo! Ninjia | 234321 | [234321-yo-ninjia.json](./234321-yo-ninjia.json) |
