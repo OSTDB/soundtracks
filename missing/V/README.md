@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxie Tactics | 178092 | [178092-voxie-tactics.json](./178092-voxie-tactics.json) |
 | Voxile | 272585 | [272585-voxile.json](./272585-voxile.json) |
 | Voyage on the Alihacc Desert | 336361 | [336361-voyage-on-the-alihacc-desert.json](./336361-voyage-on-the-alihacc-desert.json) |
+| Voyage Router | 352752 | [352752-voyage-router.json](./352752-voyage-router.json) |
 | Voyeur Hotel | 272001 | [272001-voyeur-hotel.json](./272001-voyeur-hotel.json) |
 | Voyeur Villa: Harem Manager | 296654 | [296654-voyeur-villa-harem-manager.json](./296654-voyeur-villa-harem-manager.json) |
 | Voyna | 224781 | [224781-voyna.json](./224781-voyna.json) |
