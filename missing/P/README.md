@@ -1264,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Fushigi no Dungeon: Susume! Honoo no Boukendan | 103511 | [103511-pokemon-fushigi-no-dungeon-susume-honoo-no-boukendan.json](./103511-pokemon-fushigi-no-dungeon-susume-honoo-no-boukendan.json) |
 | Pokémon Fuso's Meteor | 359983 | [359983-pokemon-fusos-meteor.json](./359983-pokemon-fusos-meteor.json) |
 | Pokémon Gadir | 232692 | [232692-pokemon-gadir.json](./232692-pokemon-gadir.json) |
+| Pokemon HG/SS Golden Edition | 334655 | [334655-pokemon-hg-ss-golden-edition.json](./334655-pokemon-hg-ss-golden-edition.json) |
 | Pokémon Island | 202405 | [202405-pokemon-island.json](./202405-pokemon-island.json) |
 | Pokémon Lazarus | 337439 | [337439-pokemon-lazarus.json](./337439-pokemon-lazarus.json) |
 | Pokémon Luminescent Platinum | 199621 | [199621-pokemon-luminescent-platinum.json](./199621-pokemon-luminescent-platinum.json) |
