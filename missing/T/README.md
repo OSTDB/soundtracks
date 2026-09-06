@@ -1476,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Memory of a Burning Thought | 335655 | [335655-the-last-memory-of-a-burning-thought.json](./335655-the-last-memory-of-a-burning-thought.json) |
 | The Last Night | 18285 | [18285-the-last-night.json](./18285-the-last-night.json) |
 | The Last Ninja | 8400 | [8400-the-last-ninja.json](./8400-the-last-ninja.json) |
+| The Last of Them | 339800 | [339800-the-last-of-them.json](./339800-the-last-of-them.json) |
 | The Last of Us Complete | 340213 | [340213-the-last-of-us-complete.json](./340213-the-last-of-us-complete.json) |
 | The Last of Us Complete: Collector's Edition | 340226 | [340226-the-last-of-us-complete-collectors-edition.json](./340226-the-last-of-us-complete-collectors-edition.json) |
 | The Last of Us Online | 386719 | [386719-the-last-of-us-online.json](./386719-the-last-of-us-online.json) |
@@ -1739,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nightfall Incident | 182525 | [182525-the-nightfall-incident.json](./182525-the-nightfall-incident.json) |
 | The Nightmare Chronicles: Horror In Da Hood | 309107 | [309107-the-nightmare-chronicles-horror-in-da-hood.json](./309107-the-nightmare-chronicles-horror-in-da-hood.json) |
 | The Nightmare Inside | 194653 | [194653-the-nightmare-inside.json](./194653-the-nightmare-inside.json) |
+| The Nightmare of Pandemic: Kyle's Story | 339801 | [339801-the-nightmare-of-pandemic-kyles-story.json](./339801-the-nightmare-of-pandemic-kyles-story.json) |
 | The Nights on Arcade | 267073 | [267073-the-nights-on-arcade.json](./267073-the-nights-on-arcade.json) |
 | The Ninja | 346067 | [346067-the-ninja.json](./346067-the-ninja.json) |
 | The Ninji Saga Part 1: Birth of a Legend | 275328 | [275328-the-ninji-saga-part-1-birth-of-a-legend.json](./275328-the-ninji-saga-part-1-birth-of-a-legend.json) |
@@ -2239,6 +2241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The UNDA Legacy | 408073 | [408073-the-unda-legacy.json](./408073-the-unda-legacy.json) |
 | The Undead | 378155 | [378155-the-undead.json](./378155-the-undead.json) |
 | The Underdog | 373013 | [373013-the-underdog.json](./373013-the-underdog.json) |
+| The Undergrounders | 339847 | [339847-the-undergrounders.json](./339847-the-undergrounders.json) |
 | The Undying Plague | 35759 | [35759-the-undying-plague.json](./35759-the-undying-plague.json) |
 | The Unfettered | 223163 | [223163-the-unfettered.json](./223163-the-unfettered.json) |
 | The Uninvited 2: Let Nothing You Dismay | 370106 | [370106-the-uninvited-2-let-nothing-you-dismay.json](./370106-the-uninvited-2-let-nothing-you-dismay.json) |
@@ -3295,6 +3298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track & Field | 239296 | [239296-track-and-field.json](./239296-track-and-field.json) |
 | Track Attack: Changes Everything | 251202 | [251202-track-attack-changes-everything.json](./251202-track-attack-changes-everything.json) |
 | Track My Train | 356645 | [356645-track-my-train.json](./356645-track-my-train.json) |
+| Track No.9 | 339808 | [339808-track-no-9.json](./339808-track-no-9.json) |
 | TrackMania Nations | 9909 | [9909-trackmania-nations.json](./9909-trackmania-nations.json) |
 | TrackMania Sunrise | 22294 | [22294-trackmania-sunrise.json](./22294-trackmania-sunrise.json) |
 | TrackMania Turbo | 11172 | [11172-trackmania-turbo.json](./11172-trackmania-turbo.json) |
@@ -3621,6 +3625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger Witch | 119365 | [119365-trigger-witch.json](./119365-trigger-witch.json) |
 | Trigonal | 188097 | [188097-trigonal.json](./188097-trigonal.json) |
 | Trilogic | 91978 | [91978-trilogic.json](./91978-trilogic.json) |
+| Trilogy of the Moon | 339795 | [339795-trilogy-of-the-moon.json](./339795-trilogy-of-the-moon.json) |
 | Trimorta | 184086 | [184086-trimorta.json](./184086-trimorta.json) |
 | Trinity Trigger: Day 1 Edition | 221947 | [221947-trinity-trigger-day-1-edition.json](./221947-trinity-trigger-day-1-edition.json) |
 | Trinoline | 116366 | [116366-trinoline.json](./116366-trinoline.json) |
