@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watermelon Game: Fruits Puzzle | 293904 | [293904-watermelon-game-fruits-puzzle.json](./293904-watermelon-game-fruits-puzzle.json) |
 | Watermelon Merge: Strategy Game | 303236 | [303236-watermelon-merge-strategy-game.json](./303236-watermelon-merge-strategy-game.json) |
 | Waterpark Simulator | 348648 | [348648-waterpark-simulator.json](./348648-waterpark-simulator.json) |
+| Watertight | 355567 | [355567-watertight.json](./355567-watertight.json) |
 | Wave Rally | 43304 | [43304-wave-rally.json](./43304-wave-rally.json) |
 | Wave Rave | 341912 | [341912-wave-rave.json](./341912-wave-rave.json) |
 | Wave Rider | 161399 | [161399-wave-rider.json](./161399-wave-rider.json) |
@@ -509,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Silence | 388720 | [388720-white-silence.json](./388720-white-silence.json) |
 | White Tiles Master | 233743 | [233743-white-tiles-master.json](./233743-white-tiles-master.json) |
 | White Wall | 149582 | [149582-white-wall.json](./149582-white-wall.json) |
+| WhiteJill | 355572 | [355572-whitejill.json](./355572-whitejill.json) |
 | Whiteout | 181385 | [181385-whiteout.json](./181385-whiteout.json) |
 | Whitewater Rapids | 205838 | [205838-whitewater-rapids.json](./205838-whitewater-rapids.json) |
 | Who Am I: The Tale of Dorothy | 96654 | [96654-who-am-i-the-tale-of-dorothy.json](./96654-who-am-i-the-tale-of-dorothy.json) |
@@ -757,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wobbl | 192963 | [192963-wobbl.json](./192963-wobbl.json) |
 | Wobble Warriors | 261558 | [261558-wobble-warriors.json](./261558-wobble-warriors.json) |
 | Wobbly Bobbly | 69882 | [69882-wobbly-bobbly.json](./69882-wobbly-bobbly.json) |
+| Woke or Nah | 355532 | [355532-woke-or-nah.json](./355532-woke-or-nah.json) |
 | Woke Quest | 415914 | [415914-woke-quest.json](./415914-woke-quest.json) |
 | Wolf | 9573 | [9573-wolf.json](./9573-wolf.json) |
 | Wolf And Moon: Nonogram | 312365 | [312365-wolf-and-moon-nonogram.json](./312365-wolf-and-moon-nonogram.json) |
@@ -791,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderland Quest | 216482 | [216482-wonderland-quest.json](./216482-wonderland-quest.json) |
 | Wonderland Secret Worlds | 260964 | [260964-wonderland-secret-worlds.json](./260964-wonderland-secret-worlds.json) |
 | Wonderland Solitaire | 415955 | [415955-wonderland-solitaire.json](./415955-wonderland-solitaire.json) |
+| Wonders of Waldwea | 355557 | [355557-wonders-of-waldwea.json](./355557-wonders-of-waldwea.json) |
 | Wonderstries | 365059 | [365059-wonderstries.json](./365059-wonderstries.json) |
 | Wonhon: A Vengeful Spirit | 132239 | [132239-wonhon-a-vengeful-spirit.json](./132239-wonhon-a-vengeful-spirit.json) |
 | Wonka Block Party | 373531 | [373531-wonka-block-party.json](./373531-wonka-block-party.json) |
