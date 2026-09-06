@@ -1016,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lover Pretend | 193536 | [193536-lover-pretend.json](./193536-lover-pretend.json) |
 | Lovers of Aether | 117041 | [117041-lovers-of-aether.json](./117041-lovers-of-aether.json) |
 | Loving You Fully | 159873 | [159873-loving-you-fully.json](./159873-loving-you-fully.json) |
+| Low Battery | 354408 | [354408-low-battery.json](./354408-low-battery.json) |
 | Low G Man: The Low Gravity Man | 48028 | [48028-low-g-man-the-low-gravity-man.json](./48028-low-g-man-the-low-gravity-man.json) |
 | Low Poly Flight Simulator | 411572 | [411572-low-poly-flight-simulator.json](./411572-low-poly-flight-simulator.json) |
 | Lowlife | 208016 | [208016-lowlife.json](./208016-lowlife.json) |
