@@ -1334,6 +1334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mikagami Sumika No Seifuku Katsudou | 147446 | [147446-mikagami-sumika-no-seifuku-katsudou.json](./147446-mikagami-sumika-no-seifuku-katsudou.json) |
 | Mikagura Shoujo Tanteidan | 60575 | [60575-mikagura-shoujo-tanteidan.json](./60575-mikagura-shoujo-tanteidan.json) |
 | Mikane's Hand | 406686 | [406686-mikanes-hand.json](./406686-mikanes-hand.json) |
+| Mikazuki: Hoshimeguri no Uta | 331890 | [331890-mikazuki-hoshimeguri-no-uta.json](./331890-mikazuki-hoshimeguri-no-uta.json) |
 | Mike Piazza's Strike Zone | 3410 | [3410-mike-piazzas-strike-zone.json](./3410-mike-piazzas-strike-zone.json) |
 | Mike V: Skateboard Party HD | 87709 | [87709-mike-v-skateboard-party-hd.json](./87709-mike-v-skateboard-party-hd.json) |
 | Mike's Paper Mario Adventure | 324110 | [324110-mikes-paper-mario-adventure.json](./324110-mikes-paper-mario-adventure.json) |
@@ -1558,6 +1559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirax Force | 55208 | [55208-mirax-force.json](./55208-mirax-force.json) |
 | Mire | 339823 | [339823-mire.json](./339823-mire.json) |
 | Mirror Image | 322352 | [322352-mirror-image.json](./322352-mirror-image.json) |
+| Mirror Insideout | 331882 | [331882-mirror-insideout.json](./331882-mirror-insideout.json) |
 | Mirror Land | 91986 | [91986-mirror-land.json](./91986-mirror-land.json) |
 | Mirror Mirror | 340938 | [340938-mirror-mirror.json](./340938-mirror-mirror.json) |
 | Mirror Mysteries | 17204 | [17204-mirror-mysteries.json](./17204-mirror-mysteries.json) |
@@ -1629,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mizu no Senritsu 2: Hi no Kioku | 67305 | [67305-mizu-no-senritsu-2-hi-no-kioku.json](./67305-mizu-no-senritsu-2-hi-no-kioku.json) |
 | Mizuki Shigeru no Yokai Shashinkan | 43963 | [43963-mizuki-shigeru-no-yokai-shashinkan.json](./43963-mizuki-shigeru-no-yokai-shashinkan.json) |
 | MJ | 130945 | [130945-mj.json](./130945-mj.json) |
+| MKL The Game | 331866 | [331866-mkl-the-game.json](./331866-mkl-the-game.json) |
 | MLB 2K10 DS | 21157 | [21157-mlb-2k10-ds.json](./21157-mlb-2k10-ds.json) |
 | MLB Bobblehead Pros | 20562 | [20562-mlb-bobblehead-pros.json](./20562-mlb-bobblehead-pros.json) |
 | MLB Home Run Derby 18 | 96055 | [96055-mlb-home-run-derby-18.json](./96055-mlb-home-run-derby-18.json) |
