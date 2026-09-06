@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Mugen no Shinzou III PC-8801mkIISR | 390490 | [390490-eggconsole-mugen-no-shinzou-iii-pc-8801mkiisr.json](./390490-eggconsole-mugen-no-shinzou-iii-pc-8801mkiisr.json) |
 | Eggconsole Onryou Senki PC-8801mkIISR | 412951 | [412951-eggconsole-onryou-senki-pc-8801mkiisr.json](./412951-eggconsole-onryou-senki-pc-8801mkiisr.json) |
 | Eggconsole Puyo Puyo MSX2 | 378795 | [378795-eggconsole-puyo-puyo-msx2.json](./378795-eggconsole-puyo-puyo-msx2.json) |
+| Eggconsole The Legend of Heroes Saga PC-8801 | 334093 | [334093-eggconsole-the-legend-of-heroes-saga-pc-8801.json](./334093-eggconsole-the-legend-of-heroes-saga-pc-8801.json) |
 | Eggconsole Xak PC-8801mkIISR | 292867 | [292867-eggconsole-xak-pc-8801mkiisr.json](./292867-eggconsole-xak-pc-8801mkiisr.json) |
 | Eggconsole Xanadu MSX | 378796 | [378796-eggconsole-xanadu-msx.json](./378796-eggconsole-xanadu-msx.json) |
 | Eggconsole: Arugisu no Tsubasa | 385060 | [385060-eggconsole-arugisu-no-tsubasa.json](./385060-eggconsole-arugisu-no-tsubasa.json) |
@@ -306,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Beat Zombygons | 184659 | [184659-elite-beat-zombygons.json](./184659-elite-beat-zombygons.json) |
 | Elite Force | 223659 | [223659-elite-force.json](./223659-elite-force.json) |
 | Elite Plus | 100209 | [100209-elite-plus.json](./100209-elite-plus.json) |
+| Ella Stars | 334127 | [334127-ella-stars.json](./334127-ella-stars.json) |
 | Ellada Games RPG Bundle | 187500 | [187500-ellada-games-rpg-bundle.json](./187500-ellada-games-rpg-bundle.json) |
 | Ellie & Max | 175426 | [175426-ellie-and-max.json](./175426-ellie-and-max.json) |
 | Ellie's Farm 2: African Adventures - Collector's Edition | 356106 | [356106-ellies-farm-2-african-adventures-collectors-edition.json](./356106-ellies-farm-2-african-adventures-collectors-edition.json) |
@@ -619,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Game R00m07 | 378800 | [378800-escape-game-r00m07.json](./378800-escape-game-r00m07.json) |
 | Escape game R00m12 | 399635 | [399635-escape-game-r00m12.json](./399635-escape-game-r00m12.json) |
 | Escape Game Sleepless | 335698 | [335698-escape-game-sleepless.json](./335698-escape-game-sleepless.json) |
+| Escape Game: R00m 02 | 334094 | [334094-escape-game-r00m-02.json](./334094-escape-game-r00m-02.json) |
 | Escape IV - Prison Break | 90665 | [90665-escape-iv-prison-break.json](./90665-escape-iv-prison-break.json) |
 | Escape Lizards | 31903 | [31903-escape-lizards.json](./31903-escape-lizards.json) |
 | Escape Room Collection C1 | 295536 | [295536-escape-room-collection-c1.json](./295536-escape-room-collection-c1.json) |
@@ -912,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explore Jam 2 | 275322 | [275322-explore-jam-2.json](./275322-explore-jam-2.json) |
 | Explore Jam 3 | 275318 | [275318-explore-jam-3.json](./275318-explore-jam-3.json) |
 | Explorers of Space | 47265 | [47265-explorers-of-space.json](./47265-explorers-of-space.json) |
+| Exploring Phonics 1 for Beginners | 334109 | [334109-exploring-phonics-1-for-beginners.json](./334109-exploring-phonics-1-for-beginners.json) |
 | Explosive Breaker | 39650 | [39650-explosive-breaker.json](./39650-explosive-breaker.json) |
 | Explosive Odds | 345473 | [345473-explosive-odds.json](./345473-explosive-odds.json) |
 | Explosive Shooting Star Beetle | 311809 | [311809-explosive-shooting-star-beetle.json](./311809-explosive-shooting-star-beetle.json) |
