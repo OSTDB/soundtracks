@@ -93,8 +93,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaques Roque | 35888 | [35888-jaques-roque.json](./35888-jaques-roque.json) |
 | Jar | 340768 | [340768-jar.json](./340768-jar.json) |
 | Jasmine | 321735 | [321735-jasmine.json](./321735-jasmine.json) |
+| Jason Maxx | 349316 | [349316-jason-maxx.json](./349316-jason-maxx.json) |
 | Jawbreaker | 177551 | [177551-jawbreaker.json](./177551-jawbreaker.json) |
 | Jawbreaker | 339639 | [339639-jawbreaker.json](./339639-jawbreaker.json) |
+| Jaws of Hell | 349322 | [349322-jaws-of-hell.json](./349322-jaws-of-hell.json) |
 | Jazz and Faust | 127331 | [127331-jazz-and-faust.json](./127331-jazz-and-faust.json) |
 | Jazz Lightning : Castle Dungeons | 126644 | [126644-jazz-lightning-castle-dungeons.json](./126644-jazz-lightning-castle-dungeons.json) |
 | Jazzpunk: Flavour Nexus | 124832 | [124832-jazzpunk-flavour-nexus.json](./124832-jazzpunk-flavour-nexus.json) |
