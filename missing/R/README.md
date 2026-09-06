@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabi-Ribi: Is the order a DLC? | 171637 | [171637-rabi-ribi-is-the-order-a-dlc.json](./171637-rabi-ribi-is-the-order-a-dlc.json) |
 | Rabid Helix | 257656 | [257656-rabid-helix.json](./257656-rabid-helix.json) |
 | Rabisco+ | 147464 | [147464-rabisco.json](./147464-rabisco.json) |
+| Rabit | 340935 | [340935-rabit.json](./340935-rabit.json) |
 | Raccoin: Coin Pusher Roguelike | 360748 | [360748-raccoin-coin-pusher-roguelike.json](./360748-raccoin-coin-pusher-roguelike.json) |
 | Raccoon Hero: The Sunrise | 51961 | [51961-raccoon-hero-the-sunrise.json](./51961-raccoon-hero-the-sunrise.json) |
 | Raccoon Survival Simulator | 401540 | [401540-raccoon-survival-simulator.json](./401540-raccoon-survival-simulator.json) |
@@ -1600,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust Onslaught | 341511 | [341511-rust-onslaught.json](./341511-rust-onslaught.json) |
 | Rust Racers 2D | 126026 | [126026-rust-racers-2d.json](./126026-rust-racers-2d.json) |
 | Rust Rails | 267063 | [267063-rust-rails.json](./267063-rust-rails.json) |
+| Rusted | 340945 | [340945-rusted.json](./340945-rusted.json) |
 | Rustler | 99302 | [99302-rustler.json](./99302-rustler.json) |
 | Rusty | 45975 | [45975-rusty.json](./45975-rusty.json) |
 | Rusty Winter | 370688 | [370688-rusty-winter.json](./370688-rusty-winter.json) |
