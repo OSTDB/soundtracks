@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K Station | 19603 | [19603-k-station.json](./19603-k-station.json) |
 | K-1 Premium Dynamite!! | 44646 | [44646-k-1-premium-dynamite.json](./44646-k-1-premium-dynamite.json) |
 | K-1 World Grand Prix | 23710 | [23710-k-1-world-grand-prix.json](./23710-k-1-world-grand-prix.json) |
+| K-pop Idols Dating: Anime Love for B.SeveT | 334098 | [334098-k-pop-idols-dating-anime-love-for-b-sevet.json](./334098-k-pop-idols-dating-anime-love-for-b-sevet.json) |
 | K.O. The Live Boxing | 386677 | [386677-k-o-the-live-boxing.json](./386677-k-o-the-live-boxing.json) |
 | K.S.-n-Kickin | 265977 | [265977-k-s-n-kickin.json](./265977-k-s-n-kickin.json) |
 | K11: Kommissare im Einsatz | 268183 | [268183-k11-kommissare-im-einsatz.json](./268183-k11-kommissare-im-einsatz.json) |
@@ -52,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaleidoscope Chateau | 238722 | [238722-kaleidoscope-chateau.json](./238722-kaleidoscope-chateau.json) |
 | Kaleidoscope: 7 Man Kounen no Houshi-tachi | 66149 | [66149-kaleidoscope-7-man-kounen-no-houshi-tachi.json](./66149-kaleidoscope-7-man-kounen-no-houshi-tachi.json) |
 | Kali's Legion | 373543 | [373543-kalis-legion.json](./373543-kalis-legion.json) |
+| Kalia | 334138 | [334138-kalia.json](./334138-kalia.json) |
 | Kalimat Karash | 314637 | [314637-kalimat-karash.json](./314637-kalimat-karash.json) |
 | Kalis Car Game | 277004 | [277004-kalis-car-game.json](./277004-kalis-car-game.json) |
 | Kalpa: Cosmic Symphony | 292295 | [292295-kalpa-cosmic-symphony.json](./292295-kalpa-cosmic-symphony.json) |
