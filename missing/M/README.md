@@ -729,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mawthorne 2 | 382210 | [382210-mawthorne-2.json](./382210-mawthorne-2.json) |
 | Max Cross | 413621 | [413621-max-cross.json](./413621-max-cross.json) |
 | Max Mix Game | 46669 | [46669-max-mix-game.json](./46669-max-mix-game.json) |
+| Max Payne 2: Mona the Assassin | 320154 | [320154-max-payne-2-mona-the-assassin.json](./320154-max-payne-2-mona-the-assassin.json) |
 | Max Speed | 409543 | [409543-max-speed.json](./409543-max-speed.json) |
 | Max Steel: Laptop Bilíngue Power | 294463 | [294463-max-steel-laptop-bilingue-power.json](./294463-max-steel-laptop-bilingue-power.json) |
 | Max Steel: Max Technical | 294464 | [294464-max-steel-max-technical.json](./294464-max-steel-max-technical.json) |
@@ -757,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze | 220340 | [220340-maze.json](./220340-maze.json) |
 | Maze | 360565 | [360565-maze.json](./360565-maze.json) |
 | Maze Company | 326093 | [326093-maze-company.json](./326093-maze-company.json) |
+| Maze Death Race | 319586 | [319586-maze-death-race.json](./319586-maze-death-race.json) |
 | Maze Escape | 345524 | [345524-maze-escape.json](./345524-maze-escape.json) |
 | Maze Forever | 233249 | [233249-maze-forever.json](./233249-maze-forever.json) |
 | Maze in Your Mind | 351598 | [351598-maze-in-your-mind.json](./351598-maze-in-your-mind.json) |
@@ -1186,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Genocide | 153994 | [153994-meteor-genocide.json](./153994-meteor-genocide.json) |
 | Meteor Mission | 13736 | [13736-meteor-mission.json](./13736-meteor-mission.json) |
 | Meteor Shower | 306668 | [306668-meteor-shower.json](./306668-meteor-shower.json) |
+| Meteor Storm | 319587 | [319587-meteor-storm.json](./319587-meteor-storm.json) |
 | Meteor Storm | 379900 | [379900-meteor-storm.json](./379900-meteor-storm.json) |
 | Meteorfall: Krumit's Tale | 98379 | [98379-meteorfall-krumits-tale.json](./98379-meteorfall-krumits-tale.json) |
 | Meteorfall: Krumit's Tale - Varfa the Ranger | 172169 | [172169-meteorfall-krumits-tale-varfa-the-ranger.json](./172169-meteorfall-krumits-tale-varfa-the-ranger.json) |
@@ -1193,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteors | 13737 | [13737-meteors.json](./13737-meteors.json) |
 | Method of Entry | 329369 | [329369-method-of-entry.json](./329369-method-of-entry.json) |
 | Methods 4: The Best Detective | 322596 | [322596-methods-4-the-best-detective.json](./322596-methods-4-the-best-detective.json) |
+| Methods: Detective Competition | 319558 | [319558-methods-detective-competition.json](./319558-methods-detective-competition.json) |
 | Meticulous | 237085 | [237085-meticulous.json](./237085-meticulous.json) |
 | Metin2 | 3119 | [3119-metin2.json](./3119-metin2.json) |
 | Metori | 107864 | [107864-metori.json](./107864-metori.json) |
@@ -1256,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Ninja | 314647 | [314647-micro-ninja.json](./314647-micro-ninja.json) |
 | Micro Pico Racers | 96665 | [96665-micro-pico-racers.json](./96665-micro-pico-racers.json) |
 | Micro Plutonia | 312898 | [312898-micro-plutonia.json](./312898-micro-plutonia.json) |
+| Micro-Breakout | 320150 | [320150-micro-breakout.json](./320150-micro-breakout.json) |
 | MicroCity | 144375 | [144375-microcity.json](./144375-microcity.json) |
 | Microcosm | 13738 | [13738-microcosm.json](./13738-microcosm.json) |
 | MicroFab | 397661 | [397661-microfab.json](./397661-microfab.json) |
@@ -1592,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minos Trials | 392173 | [392173-minos-trials.json](./392173-minos-trials.json) |
 | Minotaur Rescue | 94757 | [94757-minotaur-rescue.json](./94757-minotaur-rescue.json) |
 | MinQ | 322348 | [322348-minq.json](./322348-minq.json) |
+| Mint Dodgers | 320165 | [320165-mint-dodgers.json](./320165-mint-dodgers.json) |
 | Minubeat | 199083 | [199083-minubeat.json](./199083-minubeat.json) |
 | Minute Knights | 221379 | [221379-minute-knights.json](./221379-minute-knights.json) |
 | Mira's Mirage Mirror | 361691 | [361691-miras-mirage-mirror.json](./361691-miras-mirage-mirror.json) |
@@ -2025,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moo & Move: Extra Grazing Grounds | 328251 | [328251-moo-and-move-extra-grazing-grounds.json](./328251-moo-and-move-extra-grazing-grounds.json) |
 | Moo at the Moon | 71542 | [71542-moo-at-the-moon.json](./71542-moo-at-the-moon.json) |
 | Moo Who | 415097 | [415097-moo-who.json](./415097-moo-who.json) |
+| Mood Bye | 319550 | [319550-mood-bye.json](./319550-mood-bye.json) |
 | MookerzZ | 252377 | [252377-mookerzz.json](./252377-mookerzz.json) |
 | Moomin Midsummer Madness | 404859 | [404859-moomin-midsummer-madness.json](./404859-moomin-midsummer-madness.json) |
 | Moon | 242775 | [242775-moon.json](./242775-moon.json) |
@@ -2363,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mummy, mummy, mummy! | 165692 | [165692-mummy-mummy-mummy.json](./165692-mummy-mummy-mummy.json) |
 | Mumu Boukenki Amusing Dream | 264311 | [264311-mumu-boukenki-amusing-dream.json](./264311-mumu-boukenki-amusing-dream.json) |
 | Munasawagi no Season | 246104 | [246104-munasawagi-no-season.json](./246104-munasawagi-no-season.json) |
+| Munchees | 319588 | [319588-munchees.json](./319588-munchees.json) |
 | Mundo SBT | 249459 | [249459-mundo-sbt.json](./249459-mundo-sbt.json) |
 | Mung Daal Odyssey | 326589 | [326589-mung-daal-odyssey.json](./326589-mung-daal-odyssey.json) |
 | Munkiki's Castles | 111740 | [111740-munkikis-castles.json](./111740-munkikis-castles.json) |
