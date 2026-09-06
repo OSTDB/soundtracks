@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Agony | 387354 | [387354-echoes-of-agony.json](./387354-echoes-of-agony.json) |
 | Echoes of Aincrad: Special Edition | 409589 | [409589-echoes-of-aincrad-special-edition.json](./409589-echoes-of-aincrad-special-edition.json) |
 | Echoes of Eclipse | 389399 | [389399-echoes-of-eclipse.json](./389399-echoes-of-eclipse.json) |
+| Echoes of Eldoria | 333541 | [333541-echoes-of-eldoria.json](./333541-echoes-of-eldoria.json) |
 | Echoes of Forgotten Dreams | 340234 | [340234-echoes-of-forgotten-dreams.json](./340234-echoes-of-forgotten-dreams.json) |
 | Echoes of Magic | 194024 | [194024-echoes-of-magic.json](./194024-echoes-of-magic.json) |
 | Echoes of Sin: Confusion | 400239 | [400239-echoes-of-sin-confusion.json](./400239-echoes-of-sin-confusion.json) |
@@ -155,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of the Abyss Awaken | 152895 | [152895-edge-of-the-abyss-awaken.json](./152895-edge-of-the-abyss-awaken.json) |
 | Edge Run | 197935 | [197935-edge-run.json](./197935-edge-run.json) |
 | Edgy Fantasy Battle Deluxe | 184632 | [184632-edgy-fantasy-battle-deluxe.json](./184632-edgy-fantasy-battle-deluxe.json) |
+| Ediction | 333545 | [333545-ediction.json](./333545-ediction.json) |
 | Edmund Puzzle and The Mystery of the Sacred Relics | 269268 | [269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json](./269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json) |
 | Edna & Harvey: Harvey's New Eyes | 6701 | [6701-edna-and-harvey-harveys-new-eyes.json](./6701-edna-and-harvey-harveys-new-eyes.json) |
 | Edolie | 35755 | [35755-edolie.json](./35755-edolie.json) |
