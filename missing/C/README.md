@@ -1866,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash 'N' Burn | 5789 | [5789-crash-n-burn.json](./5789-crash-n-burn.json) |
 | Crash & Spyro Superpack I Crash Bandicoot: The Huge Adventure / Spyro: Season of Ice | 210236 | [210236-crash-and-spyro-superpack-i-crash-bandicoot-the-huge-adventure-spyro-season-of-ice.json](./210236-crash-and-spyro-superpack-i-crash-bandicoot-the-huge-adventure-spyro-season-of-ice.json) |
 | Crash Bandicoot | 210243 | [210243-crash-bandicoot.json](./210243-crash-bandicoot.json) |
+| Crash Bandicoot 4: N. Hanced | 323730 | [323730-crash-bandicoot-4-n-hanced.json](./323730-crash-bandicoot-4-n-hanced.json) |
 | Crash Bandicoot Nitro Kart 2 | 21749 | [21749-crash-bandicoot-nitro-kart-2.json](./21749-crash-bandicoot-nitro-kart-2.json) |
 | Crash Bandicoot Party Games | 210240 | [210240-crash-bandicoot-party-games.json](./210240-crash-bandicoot-party-games.json) |
 | Crash Bandicoot: Atlasphere Bowling | 314656 | [314656-crash-bandicoot-atlasphere-bowling.json](./314656-crash-bandicoot-atlasphere-bowling.json) |
@@ -2250,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cum On! Bukkake Ranch! | 322950 | [322950-cum-on-bukkake-ranch.json](./322950-cum-on-bukkake-ranch.json) |
 | Cumdor no Tou: Zetsubou no Majo | 342061 | [342061-cumdor-no-tou-zetsubou-no-majo.json](./342061-cumdor-no-tou-zetsubou-no-majo.json) |
 | Cumma Celeritate | 322395 | [322395-cumma-celeritate.json](./322395-cumma-celeritate.json) |
+| Cumulative Pack 2 | 323709 | [323709-cumulative-pack-2.json](./323709-cumulative-pack-2.json) |
 | Cup and Counter: Coffee Shop Simulator | 392774 | [392774-cup-and-counter-coffee-shop-simulator.json](./392774-cup-and-counter-coffee-shop-simulator.json) |
 | Cupcake Baker | 87719 | [87719-cupcake-baker.json](./87719-cupcake-baker.json) |
 | Cuphead | 237497 | [237497-cuphead.json](./237497-cuphead.json) |
