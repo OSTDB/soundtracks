@@ -383,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Despair | 127951 | [127951-realms-of-despair.json](./127951-realms-of-despair.json) |
 | Realms of Dr. Chaos | 268758 | [268758-realms-of-dr-chaos.json](./268758-realms-of-dr-chaos.json) |
 | Realms of Flow | 253591 | [253591-realms-of-flow.json](./253591-realms-of-flow.json) |
+| Realms of Pixel | 333553 | [333553-realms-of-pixel.json](./333553-realms-of-pixel.json) |
 | Realms of Reverie | 358855 | [358855-realms-of-reverie.json](./358855-realms-of-reverie.json) |
 | Realms of Supremacy | 102191 | [102191-realms-of-supremacy.json](./102191-realms-of-supremacy.json) |
 | Realms of the Haunting | 844 | [844-realms-of-the-haunting.json](./844-realms-of-the-haunting.json) |
