@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vikings on Trampolines | 92493 | [92493-vikings-on-trampolines.json](./92493-vikings-on-trampolines.json) |
 | Vikings: Valhalla Saga | 228120 | [228120-vikings-valhalla-saga.json](./228120-vikings-valhalla-saga.json) |
 | Viktor: Enforcer Edition | 53871 | [53871-viktor-enforcer-edition.json](./53871-viktor-enforcer-edition.json) |
+| Vile: Exhumed | 320741 | [320741-vile-exhumed.json](./320741-vile-exhumed.json) |
 | Village Cricket | 175401 | [175401-village-cricket.json](./175401-village-cricket.json) |
 | Village Heros | 235992 | [235992-village-heros.json](./235992-village-heros.json) |
 | Village Meow | 327172 | [327172-village-meow.json](./327172-village-meow.json) |
@@ -423,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void of Space | 173295 | [173295-void-of-space.json](./173295-void-of-space.json) |
 | Void Raiders | 335962 | [335962-void-raiders.json](./335962-void-raiders.json) |
 | Void Scavengers | 381001 | [381001-void-scavengers.json](./381001-void-scavengers.json) |
+| Void Scout | 320727 | [320727-void-scout.json](./320727-void-scout.json) |
 | Void Sols | 223109 | [223109-void-sols.json](./223109-void-sols.json) |
 | Void/Breaker | 339626 | [339626-void-breaker.json](./339626-void-breaker.json) |
 | Voidblade Shadows of The Realm | 374064 | [374064-voidblade-shadows-of-the-realm.json](./374064-voidblade-shadows-of-the-realm.json) |
