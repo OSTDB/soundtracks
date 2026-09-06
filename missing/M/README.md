@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.U.D. Rally | 233244 | [233244-m-u-d-rally.json](./233244-m-u-d-rally.json) |
 | M.V.P. | 197957 | [197957-m-v-p.json](./197957-m-v-p.json) |
 | M&M's Minis Madness | 49918 | [49918-m-and-ms-minis-madness.json](./49918-m-and-ms-minis-madness.json) |
+| M13n: Miniaturization | 336544 | [336544-m13n-miniaturization.json](./336544-m13n-miniaturization.json) |
 | M3 - Molesting the Match-3 Market | 94232 | [94232-m3-molesting-the-match-3-market.json](./94232-m3-molesting-the-match-3-market.json) |
 | M3 Sono Kuroki Hagane: Mission Memento Mori | 61663 | [61663-m3-sono-kuroki-hagane-mission-memento-mori.json](./61663-m3-sono-kuroki-hagane-mission-memento-mori.json) |
 | MAAA | 112978 | [112978-maaa.json](./112978-maaa.json) |
@@ -957,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melon Parker: We are Whatever Club! | 378816 | [378816-melon-parker-we-are-whatever-club.json](./378816-melon-parker-we-are-whatever-club.json) |
 | Melon's Sokoban Walk | 386103 | [386103-melons-sokoban-walk.json](./386103-melons-sokoban-walk.json) |
 | Melt Abyss | 353902 | [353902-melt-abyss.json](./353902-melt-abyss.json) |
+| Melted Time | 336526 | [336526-melted-time.json](./336526-melted-time.json) |
 | Melter Man | 34411 | [34411-melter-man.json](./34411-melter-man.json) |
 | Melting Hearts: Our Love Will Grow 2 | 33080 | [33080-melting-hearts-our-love-will-grow-2.json](./33080-melting-hearts-our-love-will-grow-2.json) |
 | Melty Blood Actress Again Current Code | 19943 | [19943-melty-blood-actress-again-current-code.json](./19943-melty-blood-actress-again-current-code.json) |
