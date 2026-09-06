@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harpoon Classic '97 | 365063 | [365063-harpoon-classic-97.json](./365063-harpoon-classic-97.json) |
 | Harpoon Reef Hunter | 253570 | [253570-harpoon-reef-hunter.json](./253570-harpoon-reef-hunter.json) |
 | Harpy | 412265 | [412265-harpy.json](./412265-harpy.json) |
+| Harpy's Curse | 332393 | [332393-harpys-curse.json](./332393-harpys-curse.json) |
 | Harrier Attack! | 13004 | [13004-harrier-attack.json](./13004-harrier-attack.json) |
 | Harrowing Gate: Ghost Dimension | 199104 | [199104-harrowing-gate-ghost-dimension.json](./199104-harrowing-gate-ghost-dimension.json) |
 | Harrowlight | 358869 | [358869-harrowlight.json](./358869-harrowlight.json) |
@@ -410,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartbeat Scramble | 209621 | [209621-heartbeat-scramble.json](./209621-heartbeat-scramble.json) |
 | Heartbeats | 338206 | [338206-heartbeats.json](./338206-heartbeats.json) |
 | HeartBound | 377566 | [377566-heartbound.json](./377566-heartbound.json) |
+| Heartful Memories: Little Witch Parfait 2 | 332419 | [332419-heartful-memories-little-witch-parfait-2.json](./332419-heartful-memories-little-witch-parfait-2.json) |
 | Hearthstone: Forged in the Barrens | 143738 | [143738-hearthstone-forged-in-the-barrens.json](./143738-hearthstone-forged-in-the-barrens.json) |
 | Hearthstone: Fractured in Alterac Valley | 387383 | [387383-hearthstone-fractured-in-alterac-valley.json](./387383-hearthstone-fractured-in-alterac-valley.json) |
 | Hearthstone: Madness at the Darkmoon Faire | 387380 | [387380-hearthstone-madness-at-the-darkmoon-faire.json](./387380-hearthstone-madness-at-the-darkmoon-faire.json) |
@@ -623,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her | 105347 | [105347-her.json](./105347-her.json) |
 | Her Heart's Desire: A Landlord Epic | 224235 | [224235-her-hearts-desire-a-landlord-epic.json](./224235-her-hearts-desire-a-landlord-epic.json) |
 | Her Little Sylvietower | 316996 | [316996-her-little-sylvietower.json](./316996-her-little-sylvietower.json) |
+| Her Love, Like Poison | 332442 | [332442-her-love-like-poison.json](./332442-her-love-like-poison.json) |
 | Her New Memory: BDSM | 217541 | [217541-her-new-memory-bdsm.json](./217541-her-new-memory-bdsm.json) |
 | Her3 : The Light of Paradise Regained | 393461 | [393461-her3-the-light-of-paradise-regained.json](./393461-her3-the-light-of-paradise-regained.json) |
 | Herald: The Interactive Period Drama - Complete Edition | 226443 | [226443-herald-the-interactive-period-drama-complete-edition.json](./226443-herald-the-interactive-period-drama-complete-edition.json) |
