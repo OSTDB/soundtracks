@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Saber | 137689 | [137689-war-saber.json](./137689-war-saber.json) |
 | War Survival | 371250 | [371250-war-survival.json](./371250-war-survival.json) |
 | War Theatre: Blood of Winter - Beak and Talon | 172187 | [172187-war-theatre-blood-of-winter-beak-and-talon.json](./172187-war-theatre-blood-of-winter-beak-and-talon.json) |
+| War Thunder: Ancient Helicopter Snail Bundle | 316622 | [316622-war-thunder-ancient-helicopter-snail-bundle.json](./316622-war-thunder-ancient-helicopter-snail-bundle.json) |
 | War Thunder: Challenger DS Pack | 336933 | [336933-war-thunder-challenger-ds-pack.json](./336933-war-thunder-challenger-ds-pack.json) |
 | War Thunder: Ground Forces | 115024 | [115024-war-thunder-ground-forces.json](./115024-war-thunder-ground-forces.json) |
 | War Thunder: IJN Yamashiro Pack | 336934 | [336934-war-thunder-ijn-yamashiro-pack.json](./336934-war-thunder-ijn-yamashiro-pack.json) |
@@ -265,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasted Glory | 276479 | [276479-wasted-glory.json](./276479-wasted-glory.json) |
 | Wasteland Angel | 9388 | [9388-wasteland-angel.json](./9388-wasteland-angel.json) |
 | Wasteland Billionaire | 221391 | [221391-wasteland-billionaire.json](./221391-wasteland-billionaire.json) |
+| Wasteland Chronicles | 316648 | [316648-wasteland-chronicles.json](./316648-wasteland-chronicles.json) |
 | Wastelander | 178100 | [178100-wastelander.json](./178100-wastelander.json) |
 | Wastelanders | 362823 | [362823-wastelanders.json](./362823-wastelanders.json) |
 | Watashi no Kokoro! Kimi no Koto ga Suki desu. | 161902 | [161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json](./161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json) |
@@ -398,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Primrose Lake 5 | 337473 | [337473-welcome-to-primrose-lake-5.json](./337473-welcome-to-primrose-lake-5.json) |
 | Welcome to Pussy Paradise | 58807 | [58807-welcome-to-pussy-paradise.json](./58807-welcome-to-pussy-paradise.json) |
 | Welcome to QiQu Club | 400226 | [400226-welcome-to-qiqu-club.json](./400226-welcome-to-qiqu-club.json) |
+| Welcome to Sushi Tree | 316612 | [316612-welcome-to-sushi-tree.json](./316612-welcome-to-sushi-tree.json) |
 | Welcome to the Adventurer Inn! | 169460 | [169460-welcome-to-the-adventurer-inn.json](./169460-welcome-to-the-adventurer-inn.json) |
 | Welcome to the Chop House | 337087 | [337087-welcome-to-the-chop-house.json](./337087-welcome-to-the-chop-house.json) |
 | Welcome to the Galaxy | 178639 | [178639-welcome-to-the-galaxy.json](./178639-welcome-to-the-galaxy.json) |
