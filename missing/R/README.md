@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid Rush | 355014 | [355014-raid-rush.json](./355014-raid-rush.json) |
 | Raidborn: Founder's Pack | 298337 | [298337-raidborn-founders-pack.json](./298337-raidborn-founders-pack.json) |
 | Raiden Trad | 46211 | [46211-raiden-trad.json](./46211-raiden-trad.json) |
+| Raider | 319597 | [319597-raider.json](./319597-raider.json) |
 | Raiders of the Broken Planet | 19011 | [19011-raiders-of-the-broken-planet.json](./19011-raiders-of-the-broken-planet.json) |
 | Raiders Run | 125440 | [125440-raiders-run.json](./125440-raiders-run.json) |
 | Rail Estate | 387367 | [387367-rail-estate.json](./387367-rail-estate.json) |
@@ -730,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resolutiion | 121996 | [121996-resolutiion.json](./121996-resolutiion.json) |
 | Resonant Tale | 266481 | [266481-resonant-tale.json](./266481-resonant-tale.json) |
 | Resonark X | 141900 | [141900-resonark-x.json](./141900-resonark-x.json) |
+| Résop Paz Yandere True | 320149 | [320149-resop-paz-yandere-true.json](./320149-resop-paz-yandere-true.json) |
 | Resort Beauties: Hentai Photo Puzzle | 409560 | [409560-resort-beauties-hentai-photo-puzzle.json](./409560-resort-beauties-hentai-photo-puzzle.json) |
 | Ressolve Steps | 375841 | [375841-ressolve-steps.json](./375841-ressolve-steps.json) |
 | Rest Area Simulator | 373009 | [373009-rest-area-simulator.json](./373009-rest-area-simulator.json) |
@@ -840,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse Basket | 87667 | [87667-reverse-basket.json](./87667-reverse-basket.json) |
 | Reverse Defenders | 150174 | [150174-reverse-defenders.json](./150174-reverse-defenders.json) |
 | Reverse it, board game | 88262 | [88262-reverse-it-board-game.json](./88262-reverse-it-board-game.json) |
+| Reversi | 319596 | [319596-reversi.json](./319596-reversi.json) |
 | Reversi 32 | 197920 | [197920-reversi-32.json](./197920-reversi-32.json) |
 | Reversi xVSx | 295564 | [295564-reversi-xvsx.json](./295564-reversi-xvsx.json) |
 | ReversiBot | 266477 | [266477-reversibot.json](./266477-reversibot.json) |
@@ -1252,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roda a Roda | 254788 | [254788-roda-a-roda.json](./254788-roda-a-roda.json) |
 | Rodea Eternal | 317613 | [317613-rodea-eternal.json](./317613-rodea-eternal.json) |
 | Rodea the Sky Soldier | 138792 | [138792-rodea-the-sky-soldier.json](./138792-rodea-the-sky-soldier.json) |
+| Rodeo Clown | 319554 | [319554-rodeo-clown.json](./319554-rodeo-clown.json) |
 | Rodgerbints: Romance and Scandal in High Society | 328488 | [328488-rodgerbints-romance-and-scandal-in-high-society.json](./328488-rodgerbints-romance-and-scandal-in-high-society.json) |
 | Rododendron | 370721 | [370721-rododendron.json](./370721-rododendron.json) |
 | Roger Rabbit | 153448 | [153448-roger-rabbit.json](./153448-roger-rabbit.json) |
