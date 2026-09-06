@@ -1593,9 +1593,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smolsies | 127989 | [127989-smolsies.json](./127989-smolsies.json) |
 | Smoothie Galaxy | 182518 | [182518-smoothie-galaxy.json](./182518-smoothie-galaxy.json) |
 | Smoots World Cup Tennis | 24720 | [24720-smoots-world-cup-tennis.json](./24720-smoots-world-cup-tennis.json) |
+| Smurfen | 366256 | [366256-smurfen.json](./366256-smurfen.json) |
 | Smush | 119028 | [119028-smush.json](./119028-smush.json) |
 | Smush.TV | 111707 | [111707-smush-tv.json](./111707-smush-tv.json) |
 | SMYS: Classic | 292308 | [292308-smys-classic.json](./292308-smys-classic.json) |
+| Snack and Quack | 366221 | [366221-snack-and-quack.json](./366221-snack-and-quack.json) |
 | Snack Pack 3: Trick or Treat | 275317 | [275317-snack-pack-3-trick-or-treat.json](./275317-snack-pack-3-trick-or-treat.json) |
 | Snack Scoffer | 198515 | [198515-snack-scoffer.json](./198515-snack-scoffer.json) |
 | Snafu | 5697 | [5697-snafu.json](./5697-snafu.json) |
@@ -2961,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StoneStory | 339662 | [339662-stonestory.json](./339662-stonestory.json) |
 | Stoneveil | 376439 | [376439-stoneveil.json](./376439-stoneveil.json) |
 | Stoneveil | 377591 | [377591-stoneveil.json](./377591-stoneveil.json) |
+| Stoneville Manor | 366262 | [366262-stoneville-manor.json](./366262-stoneville-manor.json) |
 | Stop and Go | 93567 | [93567-stop-and-go.json](./93567-stop-and-go.json) |
 | Stop Online: Battle of Words | 34353 | [34353-stop-online-battle-of-words.json](./34353-stop-online-battle-of-words.json) |
 | Stop the Press! | 381631 | [381631-stop-the-press.json](./381631-stop-the-press.json) |
@@ -2987,6 +2990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of a Tiny Earth: The Symbolic Ages | 172170 | [172170-story-of-a-tiny-earth-the-symbolic-ages.json](./172170-story-of-a-tiny-earth-the-symbolic-ages.json) |
 | Story of Seasons (Tentative Title) | 85534 | [85534-story-of-seasons-tentative-title.json](./85534-story-of-seasons-tentative-title.json) |
 | Story of Seasons: A Wonderful Life | 217553 | [217553-story-of-seasons-a-wonderful-life.json](./217553-story-of-seasons-a-wonderful-life.json) |
+| Story of Seasons: Pioneers of Olive Town - Panda Costume | 366267 | [366267-story-of-seasons-pioneers-of-olive-town-panda-costume.json](./366267-story-of-seasons-pioneers-of-olive-town-panda-costume.json) |
 | Story of the Survivor: The Escape | 156154 | [156154-story-of-the-survivor-the-escape.json](./156154-story-of-the-survivor-the-escape.json) |
 | Story of You: The Allied Kingdoms | 193477 | [193477-story-of-you-the-allied-kingdoms.json](./193477-story-of-you-the-allied-kingdoms.json) |
 | Storyblocks + Cat Games + Soko Games | 335100 | [335100-storyblocks-cat-games-soko-games.json](./335100-storyblocks-cat-games-soko-games.json) |
@@ -3171,6 +3175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sucre: Sweet and Charming Time for You | 396945 | [396945-sucre-sweet-and-charming-time-for-you.json](./396945-sucre-sweet-and-charming-time-for-you.json) |
 | Suction Co-Op | 303222 | [303222-suction-co-op.json](./303222-suction-co-op.json) |
 | Sudd City Adventures | 134030 | [134030-sudd-city-adventures.json](./134030-sudd-city-adventures.json) |
+| Sudden Attack Zero Point | 366242 | [366242-sudden-attack-zero-point.json](./366242-sudden-attack-zero-point.json) |
 | Sudden Strike 4: Africa-Desert War | 111053 | [111053-sudden-strike-4-africa-desert-war.json](./111053-sudden-strike-4-africa-desert-war.json) |
 | Sudden Strike 4: Finland - Winter Storm | 124799 | [124799-sudden-strike-4-finland-winter-storm.json](./124799-sudden-strike-4-finland-winter-storm.json) |
 | Suddenly Meow 2 | 197932 | [197932-suddenly-meow-2.json](./197932-suddenly-meow-2.json) |
@@ -3874,6 +3879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swift Death | 138229 | [138229-swift-death.json](./138229-swift-death.json) |
 | Swim! Sacabambaspis | 276470 | [276470-swim-sacabambaspis.json](./276470-swim-sacabambaspis.json) |
 | Swimcraft | 410911 | [410911-swimcraft.json](./410911-swimcraft.json) |
+| Swimpossible! | 366238 | [366238-swimpossible.json](./366238-swimpossible.json) |
 | Swing Copters | 7672 | [7672-swing-copters.json](./7672-swing-copters.json) |
 | Swing Into Zero-G | 296667 | [296667-swing-into-zero-g.json](./296667-swing-into-zero-g.json) |
 | Swing of the Valkyries | 391597 | [391597-swing-of-the-valkyries.json](./391597-swing-of-the-valkyries.json) |
