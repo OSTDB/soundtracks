@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dakkan Shirei Majo Dungeon: Nushi to Tamenara Yaraneba Narumai | 222513 | [222513-dakkan-shirei-majo-dungeon-nushi-to-tamenara-yaraneba-narumai.json](./222513-dakkan-shirei-majo-dungeon-nushi-to-tamenara-yaraneba-narumai.json) |
 | Dalek Mod | 232664 | [232664-dalek-mod.json](./232664-dalek-mod.json) |
 | Dalo | 207514 | [207514-dalo.json](./207514-dalo.json) |
+| Dam Panic | 346038 | [346038-dam-panic.json](./346038-dam-panic.json) |
 | Damaaz the Barbarian Warlock | 278713 | [278713-damaaz-the-barbarian-warlock.json](./278713-damaaz-the-barbarian-warlock.json) |
 | Damaged Core | 24981 | [24981-damaged-core.json](./24981-damaged-core.json) |
 | Damascus | 132266 | [132266-damascus.json](./132266-damascus.json) |
