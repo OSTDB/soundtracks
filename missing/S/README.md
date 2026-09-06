@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Gifts Load | 378769 | [378769-santas-gifts-load.json](./378769-santas-gifts-load.json) |
 | Santa's Letters VR | 257066 | [257066-santas-letters-vr.json](./257066-santas-letters-vr.json) |
 | Santa's World | 277577 | [277577-santas-world.json](./277577-santas-world.json) |
+| Santas Little Helper | 363372 | [363372-santas-little-helper.json](./363372-santas-little-helper.json) |
 | Santatlantean | 42047 | [42047-santatlantean.json](./42047-santatlantean.json) |
 | Santo Island Incident | 199661 | [199661-santo-island-incident.json](./199661-santo-island-incident.json) |
 | Sanxion | 23045 | [23045-sanxion.json](./23045-sanxion.json) |
@@ -2394,6 +2395,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man 3 Action | 225298 | [225298-spider-man-3-action.json](./225298-spider-man-3-action.json) |
 | Spider-Man and the X-Men in Arcade's Revenge | 365699 | [365699-spider-man-and-the-x-men-in-arcades-revenge.json](./365699-spider-man-and-the-x-men-in-arcades-revenge.json) |
 | Spider-Man and the X-Men in Arcade's Revenge | 365700 | [365700-spider-man-and-the-x-men-in-arcades-revenge.json](./365700-spider-man-and-the-x-men-in-arcades-revenge.json) |
+| Spider-Man: 054 - FX Mod: Parade Route | 363363 | [363363-spider-man-054-fx-mod-parade-route.json](./363363-spider-man-054-fx-mod-parade-route.json) |
+| Spider-Man: 055 - FX Mod: Wacky Noises | 363365 | [363365-spider-man-055-fx-mod-wacky-noises.json](./363365-spider-man-055-fx-mod-wacky-noises.json) |
+| Spider-Man: 056 - FX Mod: Time Twist | 363366 | [363366-spider-man-056-fx-mod-time-twist.json](./363366-spider-man-056-fx-mod-time-twist.json) |
+| Spider-Man: 057 - FX Mod: Daily Bugle | 363367 | [363367-spider-man-057-fx-mod-daily-bugle.json](./363367-spider-man-057-fx-mod-daily-bugle.json) |
+| Spider-Man: 058 - FX Mod: Sound Mode | 363368 | [363368-spider-man-058-fx-mod-sound-mode.json](./363368-spider-man-058-fx-mod-sound-mode.json) |
+| Spider-Man: 059 - Enemy Mod: Quick Learner | 363371 | [363371-spider-man-059-enemy-mod-quick-learner.json](./363371-spider-man-059-enemy-mod-quick-learner.json) |
+| Spider-Man: 060 - FX Mod: Comic Book Mode | 363373 | [363373-spider-man-060-fx-mod-comic-book-mode.json](./363373-spider-man-060-fx-mod-comic-book-mode.json) |
 | Spider-Man: Friend or Foe | 5180 | [5180-spider-man-friend-or-foe.json](./5180-spider-man-friend-or-foe.json) |
 | Spider-Man: Mysterio's Menace | 6605 | [6605-spider-man-mysterios-menace.json](./6605-spider-man-mysterios-menace.json) |
 | Spider-Man: The Video Game | 46761 | [46761-spider-man-the-video-game.json](./46761-spider-man-the-video-game.json) |
@@ -2426,6 +2434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Shift | 181365 | [181365-spirit-shift.json](./181365-spirit-shift.json) |
 | Spirit Timer | 223666 | [223666-spirit-timer.json](./223666-spirit-timer.json) |
 | Spirit Vendor | 374618 | [374618-spirit-vendor.json](./374618-spirit-vendor.json) |
+| Spirit Whisperer Conversation With Akari | 363409 | [363409-spirit-whisperer-conversation-with-akari.json](./363409-spirit-whisperer-conversation-with-akari.json) |
 | Spirit-Capture Net | 383359 | [383359-spirit-capture-net.json](./383359-spirit-capture-net.json) |
 | Spirited Heart Deluxe | 17286 | [17286-spirited-heart-deluxe.json](./17286-spirited-heart-deluxe.json) |
 | Spirited Soul | 61124 | [61124-spirited-soul.json](./61124-spirited-soul.json) |
