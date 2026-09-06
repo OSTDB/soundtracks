@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Drop Soup | 414301 | [414301-egg-drop-soup.json](./414301-egg-drop-soup.json) |
 | Egg Hunt | 110375 | [110375-egg-hunt.json](./110375-egg-hunt.json) |
 | Egg Hunt 2026: The Grand Eggspress | 412312 | [412312-egg-hunt-2026-the-grand-eggspress.json](./412312-egg-hunt-2026-the-grand-eggspress.json) |
+| Egg Run | 320731 | [320731-egg-run.json](./320731-egg-run.json) |
 | Eggconsole Adventure of Randar MSX2 | 399637 | [399637-eggconsole-adventure-of-randar-msx2.json](./399637-eggconsole-adventure-of-randar-msx2.json) |
 | Eggconsole Crystal Chaser: Overlord's Orb of the Sky - Refined PC-9801 | 378794 | [378794-eggconsole-crystal-chaser-overlords-orb-of-the-sky-refined-pc-9801.json](./378794-eggconsole-crystal-chaser-overlords-orb-of-the-sky-refined-pc-9801.json) |
 | Eggconsole Guardic MSX | 323704 | [323704-eggconsole-guardic-msx.json](./323704-eggconsole-guardic-msx.json) |
@@ -398,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire in Decay | 352199 | [352199-empire-in-decay.json](./352199-empire-in-decay.json) |
 | Empire of Angels IV | 78589 | [78589-empire-of-angels-iv.json](./78589-empire-of-angels-iv.json) |
 | Empire of Empires | 211966 | [211966-empire-of-empires.json](./211966-empire-of-empires.json) |
+| Empire of the Ants: Digital Deluxe Edition | 320754 | [320754-empire-of-the-ants-digital-deluxe-edition.json](./320754-empire-of-the-ants-digital-deluxe-edition.json) |
 | Empire Origin: Rise | 258204 | [258204-empire-origin-rise.json](./258204-empire-origin-rise.json) |
 | Empires & Allies | 60553 | [60553-empires-and-allies.json](./60553-empires-and-allies.json) |
 | Empires II: What Would You Risk for World Conquest? | 100215 | [100215-empires-ii-what-would-you-risk-for-world-conquest.json](./100215-empires-ii-what-would-you-risk-for-world-conquest.json) |
@@ -461,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Fucker | 292843 | [292843-endless-fucker.json](./292843-endless-fucker.json) |
 | Endless Greed | 413670 | [413670-endless-greed.json](./413670-endless-greed.json) |
 | Endless Heck | 149604 | [149604-endless-heck.json](./149604-endless-heck.json) |
+| Endless History | 320771 | [320771-endless-history.json](./320771-endless-history.json) |
 | Endless Knight | 126901 | [126901-endless-knight.json](./126901-endless-knight.json) |
 | Endless Legend: Tempest | 24933 | [24933-endless-legend-tempest.json](./24933-endless-legend-tempest.json) |
 | Endless Love | 152933 | [152933-endless-love.json](./152933-endless-love.json) |
@@ -596,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Error Loop | 329948 | [329948-error-loop.json](./329948-error-loop.json) |
 | Erth | 134673 | [134673-erth.json](./134673-erth.json) |
 | Ertugrul | 274772 | [274772-ertugrul.json](./274772-ertugrul.json) |
+| Eruptle | 320769 | [320769-eruptle.json](./320769-eruptle.json) |
 | Erwartung | 295014 | [295014-erwartung.json](./295014-erwartung.json) |
 | eSail | 89648 | [89648-esail.json](./89648-esail.json) |
 | Esc-8-bit | 114369 | [114369-esc-8-bit.json](./114369-esc-8-bit.json) |
@@ -625,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Khoshima | 12994 | [12994-escape-from-khoshima.json](./12994-escape-from-khoshima.json) |
 | Escape From Lavender Island | 235991 | [235991-escape-from-lavender-island.json](./235991-escape-from-lavender-island.json) |
 | Escape from Moonbase Alpha | 330177 | [330177-escape-from-moonbase-alpha.json](./330177-escape-from-moonbase-alpha.json) |
+| Escape from Mutation Station | 320729 | [320729-escape-from-mutation-station.json](./320729-escape-from-mutation-station.json) |
 | Escape from Puzzlegate | 34373 | [34373-escape-from-puzzlegate.json](./34373-escape-from-puzzlegate.json) |
 | Escape From Roswell | 225901 | [225901-escape-from-roswell.json](./225901-escape-from-roswell.json) |
 | Escape From School: F.E.L.I.K | 235472 | [235472-escape-from-school-f-e-l-i-k.json](./235472-escape-from-school-f-e-l-i-k.json) |
