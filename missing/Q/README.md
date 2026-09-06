@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick Whiskers | 378183 | [378183-quick-whiskers.json](./378183-quick-whiskers.json) |
 | Quick, Draw! | 205795 | [205795-quick-draw.json](./205795-quick-draw.json) |
 | Quick! Save the world | 381623 | [381623-quick-save-the-world.json](./381623-quick-save-the-world.json) |
+| Quickboy | 348759 | [348759-quickboy.json](./348759-quickboy.json) |
 | Quickerflak | 186860 | [186860-quickerflak.json](./186860-quickerflak.json) |
 | Quickflash: A Fabula Story | 192431 | [192431-quickflash-a-fabula-story.json](./192431-quickflash-a-fabula-story.json) |
 | QuickSwitch | 341315 | [341315-quickswitch.json](./341315-quickswitch.json) |
