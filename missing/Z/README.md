@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenforms: Protectors | 96043 | [96043-zenforms-protectors.json](./96043-zenforms-protectors.json) |
 | Zenful Journey | 249489 | [249489-zenful-journey.json](./249489-zenful-journey.json) |
 | Zenith Trace | 379879 | [379879-zenith-trace.json](./379879-zenith-trace.json) |
+| Zenless Zone Zero: Update 1.7 - Bury Your Tears With the Past | 339793 | [339793-zenless-zone-zero-update-1-7-bury-your-tears-with-the-past.json](./339793-zenless-zone-zero-update-1-7-bury-your-tears-with-the-past.json) |
 | Zenonia 5 | 75155 | [75155-zenonia-5.json](./75155-zenonia-5.json) |
 | Zenteni: Create Creatures | 387326 | [387326-zenteni-create-creatures.json](./387326-zenteni-create-creatures.json) |
 | Zenvader | 358316 | [358316-zenvader.json](./358316-zenvader.json) |
