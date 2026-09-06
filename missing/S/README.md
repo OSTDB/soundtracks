@@ -907,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow's Bullet | 191871 | [191871-shadows-bullet.json](./191871-shadows-bullet.json) |
 | Shadow's Edge | 82154 | [82154-shadows-edge.json](./82154-shadows-edge.json) |
 | Shadowbane: The Rise of Chaos | 70972 | [70972-shadowbane-the-rise-of-chaos.json](./70972-shadowbane-the-rise-of-chaos.json) |
+| Shadowblade Knight Symphony | 313154 | [313154-shadowblade-knight-symphony.json](./313154-shadowblade-knight-symphony.json) |
 | Shadowbound | 374076 | [374076-shadowbound.json](./374076-shadowbound.json) |
 | Shadowgate Classic | 8699 | [8699-shadowgate-classic.json](./8699-shadowgate-classic.json) |
 | Shadowgate: MacVenture Series | 35911 | [35911-shadowgate-macventure-series.json](./35911-shadowgate-macventure-series.json) |
@@ -1769,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slyder Adventures | 338548 | [338548-slyder-adventures.json](./338548-slyder-adventures.json) |
 | Slyme Breaker | 248336 | [248336-slyme-breaker.json](./248336-slyme-breaker.json) |
 | SM Word | 93041 | [93041-sm-word.json](./93041-sm-word.json) |
+| SM64 Colorful Stars | 313109 | [313109-sm64-colorful-stars.json](./313109-sm64-colorful-stars.json) |
 | SM64 Power Star Madness | 358286 | [358286-sm64-power-star-madness.json](./358286-sm64-power-star-madness.json) |
 | SM64 Sapphire | 133993 | [133993-sm64-sapphire.json](./133993-sm64-sapphire.json) |
 | SM64 The Green Stars | 132830 | [132830-sm64-the-green-stars.json](./132830-sm64-the-green-stars.json) |
@@ -2888,6 +2890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Mosaics | 415910 | [415910-spring-mosaics.json](./415910-spring-mosaics.json) |
 | Spring Ninja | 344936 | [344936-spring-ninja.json](./344936-spring-ninja.json) |
 | Spring of Decadence | 103478 | [103478-spring-of-decadence.json](./103478-spring-of-decadence.json) |
+| Spring String | 313121 | [313121-spring-string.json](./313121-spring-string.json) |
 | Spring: 1944 | 142500 | [142500-spring-1944.json](./142500-spring-1944.json) |
 | Springer | 98967 | [98967-springer.json](./98967-springer.json) |
 | Springs, Eternal | 380435 | [380435-springs-eternal.json](./380435-springs-eternal.json) |
@@ -4054,9 +4057,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Classic: Return | 324086 | [324086-super-mario-classic-return.json](./324086-super-mario-classic-return.json) |
 | Super Mario Construct | 250039 | [250039-super-mario-construct.json](./250039-super-mario-construct.json) |
 | Super Mario Construct 2: Yoshi's Fabrication Station | 250040 | [250040-super-mario-construct-2-yoshis-fabrication-station.json](./250040-super-mario-construct-2-yoshis-fabrication-station.json) |
+| Super Mario Craft | 313112 | [313112-super-mario-craft.json](./313112-super-mario-craft.json) |
 | Super Mario Flash 2 | 183605 | [183605-super-mario-flash-2.json](./183605-super-mario-flash-2.json) |
 | Super Mario Flashback | 134075 | [134075-super-mario-flashback.json](./134075-super-mario-flashback.json) |
 | Super Mario Galaxy 2 | 366900 | [366900-super-mario-galaxy-2.json](./366900-super-mario-galaxy-2.json) |
+| Super Mario Journey to Infinity | 313107 | [313107-super-mario-journey-to-infinity.json](./313107-super-mario-journey-to-infinity.json) |
 | Super Mario Kart NES | 250038 | [250038-super-mario-kart-nes.json](./250038-super-mario-kart-nes.json) |
 | Super Mario Kart Xtreme | 311285 | [311285-super-mario-kart-xtreme.json](./311285-super-mario-kart-xtreme.json) |
 | Super Mario Legend | 323751 | [323751-super-mario-legend.json](./323751-super-mario-legend.json) |
@@ -4071,6 +4076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Star Road Multiplayer | 159342 | [159342-super-mario-star-road-multiplayer.json](./159342-super-mario-star-road-multiplayer.json) |
 | Super Mario Star World | 185685 | [185685-super-mario-star-world.json](./185685-super-mario-star-world.json) |
 | Super Mario Storm I | 324681 | [324681-super-mario-storm-i.json](./324681-super-mario-storm-i.json) |
+| Super Mario Story | 313110 | [313110-super-mario-story.json](./313110-super-mario-story.json) |
 | Super Mario Subpop | 320159 | [320159-super-mario-subpop.json](./320159-super-mario-subpop.json) |
 | Super Mario Sunshine Arcade 2 | 213038 | [213038-super-mario-sunshine-arcade-2.json](./213038-super-mario-sunshine-arcade-2.json) |
 | Super Mario Surf | 324094 | [324094-super-mario-surf.json](./324094-super-mario-surf.json) |
