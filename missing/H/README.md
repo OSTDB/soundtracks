@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hahakigami Sweep | 386106 | [386106-hahakigami-sweep.json](./386106-hahakigami-sweep.json) |
 | Hai Byouin Tansaku | 261547 | [261547-hai-byouin-tansaku.json](./261547-hai-byouin-tansaku.json) |
 | Hai Shuuraku Tansaku | 261546 | [261546-hai-shuuraku-tansaku.json](./261546-hai-shuuraku-tansaku.json) |
+| Hail Britannia | 340408 | [340408-hail-britannia.json](./340408-hail-britannia.json) |
 | Hailey | 109738 | [109738-hailey.json](./109738-hailey.json) |
 | Hailstorm | 68171 | [68171-hailstorm.json](./68171-hailstorm.json) |
 | Hair Bows | 156125 | [156125-hair-bows.json](./156125-hair-bows.json) |
@@ -97,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halls of the Things | 45349 | [45349-halls-of-the-things.json](./45349-halls-of-the-things.json) |
 | Halls of Things | 23047 | [23047-halls-of-things.json](./23047-halls-of-things.json) |
 | Hallucinations | 358287 | [358287-hallucinations.json](./358287-hallucinations.json) |
+| Halmaverse | 340409 | [340409-halmaverse.json](./340409-halmaverse.json) |
 | Halo 2 Digsite: Alpha Moon | 332818 | [332818-halo-2-digsite-alpha-moon.json](./332818-halo-2-digsite-alpha-moon.json) |
 | Halo 2: Limited Collector's Edition | 45149 | [45149-halo-2-limited-collectors-edition.json](./45149-halo-2-limited-collectors-edition.json) |
 | Halo 3 & Fable II Double Pack | 141865 | [141865-halo-3-and-fable-ii-double-pack.json](./141865-halo-3-and-fable-ii-double-pack.json) |
@@ -126,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hampton Court | 123594 | [123594-hampton-court.json](./123594-hampton-court.json) |
 | Hamster | 147481 | [147481-hamster.json](./147481-hamster.json) |
 | Hamster | 307295 | [307295-hamster.json](./307295-hamster.json) |
+| Hamster Clicker! | 340410 | [340410-hamster-clicker.json](./340410-hamster-clicker.json) |
 | Hamster Hunter: Rodent Rampage | 330556 | [330556-hamster-hunter-rodent-rampage.json](./330556-hamster-hunter-rodent-rampage.json) |
 | Hamster Monogatari 64 | 3509 | [3509-hamster-monogatari-64.json](./3509-hamster-monogatari-64.json) |
 | Hamster Panic | 151743 | [151743-hamster-panic.json](./151743-hamster-panic.json) |
@@ -174,8 +177,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Cat Tavern | 209603 | [209603-happy-cat-tavern.json](./209603-happy-cat-tavern.json) |
 | Happy Feet | 3940 | [3940-happy-feet.json](./3940-happy-feet.json) |
 | Happy Fox | 89280 | [89280-happy-fox.json](./89280-happy-fox.json) |
+| Happy Furry Restaurant | 340411 | [340411-happy-furry-restaurant.json](./340411-happy-furry-restaurant.json) |
 | Happy Grumps | 121000 | [121000-happy-grumps.json](./121000-happy-grumps.json) |
 | Happy Hangover | 272005 | [272005-happy-hangover.json](./272005-happy-hangover.json) |
+| Happy Holes | 340412 | [340412-happy-holes.json](./340412-happy-holes.json) |
 | Happy Hour Hero | 277007 | [277007-happy-hour-hero.json](./277007-happy-hour-hero.json) |
 | Happy Mask | 263209 | [263209-happy-mask.json](./263209-happy-mask.json) |
 | Happy Maze | 30944 | [30944-happy-maze.json](./30944-happy-maze.json) |
@@ -194,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harbinger | 51230 | [51230-harbinger.json](./51230-harbinger.json) |
 | Harbinger's Horse GT | 183586 | [183586-harbingers-horse-gt.json](./183586-harbingers-horse-gt.json) |
 | Harborland de Tsukamaete | 317009 | [317009-harborland-de-tsukamaete.json](./317009-harborland-de-tsukamaete.json) |
+| Harca | 340413 | [340413-harca.json](./340413-harca.json) |
 | Hard Ball Wikie | 196890 | [196890-hard-ball-wikie.json](./196890-hard-ball-wikie.json) |
 | Hard Crisis | 346019 | [346019-hard-crisis.json](./346019-hard-crisis.json) |
 | Hard Days | 267087 | [267087-hard-days.json](./267087-hard-days.json) |
@@ -222,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardwood Backgammon | 20501 | [20501-hardwood-backgammon.json](./20501-hardwood-backgammon.json) |
 | Hardwood Hearts | 20507 | [20507-hardwood-hearts.json](./20507-hardwood-hearts.json) |
 | Hare | 83584 | [83584-hare.json](./83584-hare.json) |
+| Hare 136 | 340414 | [340414-hare-136.json](./340414-hare-136.json) |
 | Hare Nochi Oosawagi! | 257668 | [257668-hare-nochi-oosawagi.json](./257668-hare-nochi-oosawagi.json) |
 | Harem Little Twins | 98453 | [98453-harem-little-twins.json](./98453-harem-little-twins.json) |
 | Harem of Nurses | 218137 | [218137-harem-of-nurses.json](./218137-harem-of-nurses.json) |
@@ -229,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HarleQuest! | 246111 | [246111-harlequest.json](./246111-harlequest.json) |
 | Harley Davidson: Race Across America | 49926 | [49926-harley-davidson-race-across-america.json](./49926-harley-davidson-race-across-america.json) |
 | Harley Pasternak's Hollywood Workout | 50963 | [50963-harley-pasternaks-hollywood-workout.json](./50963-harley-pasternaks-hollywood-workout.json) |
+| Harmagedon | 340416 | [340416-harmagedon.json](./340416-harmagedon.json) |
 | HarmoKnight | 18156 | [18156-harmoknight.json](./18156-harmoknight.json) |
 | Harpoon Classic '97 | 365063 | [365063-harpoon-classic-97.json](./365063-harpoon-classic-97.json) |
 | Harpoon Reef Hunter | 253570 | [253570-harpoon-reef-hunter.json](./253570-harpoon-reef-hunter.json) |
@@ -257,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Reaper | 394903 | [394903-harvest-reaper.json](./394903-harvest-reaper.json) |
 | Harvest Them | 239295 | [239295-harvest-them.json](./239295-harvest-them.json) |
 | Harvest Uranus | 244514 | [244514-harvest-uranus.json](./244514-harvest-uranus.json) |
+| Harvest Village | 340417 | [340417-harvest-village.json](./340417-harvest-village.json) |
 | Harvestella | 206818 | [206818-harvestella.json](./206818-harvestella.json) |
 | Harvester Tractor Farming Simulator Game | 174866 | [174866-harvester-tractor-farming-simulator-game.json](./174866-harvester-tractor-farming-simulator-game.json) |
 | Hasbro Family Game Night 2 | 50606 | [50606-hasbro-family-game-night-2.json](./50606-hasbro-family-game-night-2.json) |
