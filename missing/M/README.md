@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mima's Magical Wardrobe | 325817 | [325817-mimas-magical-wardrobe.json](./325817-mimas-magical-wardrobe.json) |
 | Mimic Party | 413646 | [413646-mimic-party.json](./413646-mimic-party.json) |
 | Mimic Search | 278678 | [278678-mimic-search.json](./278678-mimic-search.json) |
+| Mimic Sleuth | 355031 | [355031-mimic-sleuth.json](./355031-mimic-sleuth.json) |
 | Mimizu Panzer | 267645 | [267645-mimizu-panzer.json](./267645-mimizu-panzer.json) |
 | Minable & Create | 155123 | [155123-minable-and-create.json](./155123-minable-and-create.json) |
 | Minami Lane | 276203 | [276203-minami-lane.json](./276203-minami-lane.json) |
@@ -1954,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moss: Becoming Human | 337448 | [337448-moss-becoming-human.json](./337448-moss-becoming-human.json) |
 | Mostly Scared of Spiders | 115683 | [115683-mostly-scared-of-spiders.json](./115683-mostly-scared-of-spiders.json) |
 | Motarium | 393480 | [393480-motarium.json](./393480-motarium.json) |
+| Moth Ma'am | 355015 | [355015-moth-maam.json](./355015-moth-maam.json) |
 | Moth Terra | 376457 | [376457-moth-terra.json](./376457-moth-terra.json) |
 | Mothdude | 184126 | [184126-mothdude.json](./184126-mothdude.json) |
 | Mother 1+2 | 78585 | [78585-mother-1-2.json](./78585-mother-1-2.json) |
