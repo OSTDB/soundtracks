@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Gate | 242241 | [242241-angel-gate.json](./242241-angel-gate.json) |
 | Angel Hua Yin | 339843 | [339843-angel-hua-yin.json](./339843-angel-hua-yin.json) |
 | Angel in Inferno | 402316 | [402316-angel-in-inferno.json](./402316-angel-in-inferno.json) |
+| Angel Legion: Chain Trace - Orange | 321958 | [321958-angel-legion-chain-trace-orange.json](./321958-angel-legion-chain-trace-orange.json) |
 | Angel Legion: Oriental - Purple | 254160 | [254160-angel-legion-oriental-purple.json](./254160-angel-legion-oriental-purple.json) |
 | Angel Night | 314651 | [314651-angel-night.json](./314651-angel-night.json) |
 | Angel of Death | 269285 | [269285-angel-of-death.json](./269285-angel-of-death.json) |
@@ -2292,6 +2293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aveliana | 156152 | [156152-aveliana.json](./156152-aveliana.json) |
 | Avenir Tower | 332414 | [332414-avenir-tower.json](./332414-avenir-tower.json) |
 | Aventador Drift Simulator 2 | 104649 | [104649-aventador-drift-simulator-2.json](./104649-aventador-drift-simulator-2.json) |
+| Aventura de Luigi | 322003 | [322003-aventura-de-luigi.json](./322003-aventura-de-luigi.json) |
 | Average Maria Individual | 293891 | [293891-average-maria-individual.json](./293891-average-maria-individual.json) |
 | Avernum | 19580 | [19580-avernum.json](./19580-avernum.json) |
 | Avernum 2 | 19581 | [19581-avernum-2.json](./19581-avernum-2.json) |
