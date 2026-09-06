@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Rivers Were Trails | 130405 | [130405-when-rivers-were-trails.json](./130405-when-rivers-were-trails.json) |
 | When Silence Fell | 114428 | [114428-when-silence-fell.json](./114428-when-silence-fell.json) |
 | When Sirens Fall Silent | 380417 | [380417-when-sirens-fall-silent.json](./380417-when-sirens-fall-silent.json) |
+| When Stars Collide | 364519 | [364519-when-stars-collide.json](./364519-when-stars-collide.json) |
 | When the Barn Sleeps | 389998 | [389998-when-the-barn-sleeps.json](./389998-when-the-barn-sleeps.json) |
 | When the Lying Petals Scatter Into the Wind | 155104 | [155104-when-the-lying-petals-scatter-into-the-wind.json](./155104-when-the-lying-petals-scatter-into-the-wind.json) |
 | When the Shutter Stops | 109713 | [109713-when-the-shutter-stops.json](./109713-when-the-shutter-stops.json) |
@@ -436,8 +437,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is my Brain!? | 29888 | [29888-where-is-my-brain.json](./29888-where-is-my-brain.json) |
 | Where is my mind | 25764 | [25764-where-is-my-mind.json](./25764-where-is-my-mind.json) |
 | Where is the Meaning? | 161396 | [161396-where-is-the-meaning.json](./161396-where-is-the-meaning.json) |
+| Where Sea Foam Fades | 364488 | [364488-where-sea-foam-fades.json](./364488-where-sea-foam-fades.json) |
 | Where the Anemones Bloom | 302118 | [302118-where-the-anemones-bloom.json](./302118-where-the-anemones-bloom.json) |
 | Where the Demon Lurks | 209631 | [209631-where-the-demon-lurks.json](./209631-where-the-demon-lurks.json) |
+| Where the Forest Lies | 364532 | [364532-where-the-forest-lies.json](./364532-where-the-forest-lies.json) |
 | Where the Fuck is Richard? | 62777 | [62777-where-the-fuck-is-richard.json](./62777-where-the-fuck-is-richard.json) |
 | Where the Wild Things Are | 5278 | [5278-where-the-wild-things-are.json](./5278-where-the-wild-things-are.json) |
 | Where's an Egg? | 135870 | [135870-wheres-an-egg.json](./135870-wheres-an-egg.json) |
@@ -623,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingspan + European Expansion + Oceania Expansion + Seasonal Decorative Pack | 275895 | [275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json](./275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json) |
 | Winky Trap | 131582 | [131582-winky-trap.json](./131582-winky-trap.json) |
 | Winner | 130946 | [130946-winner.json](./130946-winner.json) |
+| Winnie The Pooh: The Serial Killer | 364538 | [364538-winnie-the-pooh-the-serial-killer.json](./364538-winnie-the-pooh-the-serial-killer.json) |
 | Winnie the Witch | 205840 | [205840-winnie-the-witch.json](./205840-winnie-the-witch.json) |
 | Winnie-the-Pooh: Black Honey | 366261 | [366261-winnie-the-pooh-black-honey.json](./366261-winnie-the-pooh-black-honey.json) |
 | Winning Eleven Play Maker 2010: Aoki Samurai no Chousen | 268207 | [268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json](./268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json) |
