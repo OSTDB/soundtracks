@@ -520,6 +520,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refantasia: Charm and Conquer | 200744 | [200744-refantasia-charm-and-conquer.json](./200744-refantasia-charm-and-conquer.json) |
 | Reflect World | 41391 | [41391-reflect-world.json](./41391-reflect-world.json) |
 | Reflection Seeker | 319954 | [319954-reflection-seeker.json](./319954-reflection-seeker.json) |
+| Reflections of Life: Call of the Ancestors - Collector's Edition | 362827 | [362827-reflections-of-life-call-of-the-ancestors-collectors-edition.json](./362827-reflections-of-life-call-of-the-ancestors-collectors-edition.json) |
+| Reflections of Life: Dream Box - Collector's Edition | 362833 | [362833-reflections-of-life-dream-box-collectors-edition.json](./362833-reflections-of-life-dream-box-collectors-edition.json) |
+| Reflections of Life: Hearts Taken - Collector's Edition | 362830 | [362830-reflections-of-life-hearts-taken-collectors-edition.json](./362830-reflections-of-life-hearts-taken-collectors-edition.json) |
+| Reflections of Life: Sleep's Embrace - Collector's Edition | 362842 | [362842-reflections-of-life-sleeps-embrace-collectors-edition.json](./362842-reflections-of-life-sleeps-embrace-collectors-edition.json) |
 | Reflections of Life: Spindle of Fate | 244479 | [244479-reflections-of-life-spindle-of-fate.json](./244479-reflections-of-life-spindle-of-fate.json) |
 | Reflections Path | 211951 | [211951-reflections-path.json](./211951-reflections-path.json) |
 | Reflectron | 42048 | [42048-reflectron.json](./42048-reflectron.json) |
