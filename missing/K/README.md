@@ -359,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Wildlings | 27810 | [27810-king-of-wildlings.json](./27810-king-of-wildlings.json) |
 | King Scribble | 382775 | [382775-king-scribble.json](./382775-king-scribble.json) |
 | King Tongue | 87873 | [87873-king-tongue.json](./87873-king-tongue.json) |
+| King Tut’s Tomb | 366263 | [366263-king-tut-s-tomb.json](./366263-king-tut-s-tomb.json) |
 | King Valley | 121729 | [121729-king-valley.json](./121729-king-valley.json) |
 | King's Bounty II: Day One Edition | 146330 | [146330-kings-bounty-ii-day-one-edition.json](./146330-kings-bounty-ii-day-one-edition.json) |
 | King's Bounty II: Lord's Edition | 155100 | [155100-kings-bounty-ii-lords-edition.json](./155100-kings-bounty-ii-lords-edition.json) |
