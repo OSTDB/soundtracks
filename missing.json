@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T04:03:21.917Z",
-  "total_missing": 35479,
+  "generated_at": "2026-09-06T04:18:04.836Z",
+  "total_missing": 35529,
   "games": [
     {
       "igdb_id": 306086,
@@ -2298,6 +2298,41 @@
       "file": "missing/A/195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json"
     },
     {
+      "igdb_id": 357769,
+      "game_name": "A Coloring Break: Expansion pack 3",
+      "file": "missing/A/357769-a-coloring-break-expansion-pack-3.json"
+    },
+    {
+      "igdb_id": 357770,
+      "game_name": "A Coloring Break: Expansion pack 4",
+      "file": "missing/A/357770-a-coloring-break-expansion-pack-4.json"
+    },
+    {
+      "igdb_id": 357771,
+      "game_name": "A Coloring Break: Expansion pack 5",
+      "file": "missing/A/357771-a-coloring-break-expansion-pack-5.json"
+    },
+    {
+      "igdb_id": 357772,
+      "game_name": "A Coloring Break: Expansion pack 6",
+      "file": "missing/A/357772-a-coloring-break-expansion-pack-6.json"
+    },
+    {
+      "igdb_id": 357773,
+      "game_name": "A Coloring Break: Expansion pack 7",
+      "file": "missing/A/357773-a-coloring-break-expansion-pack-7.json"
+    },
+    {
+      "igdb_id": 357774,
+      "game_name": "A Coloring Break: Expansion pack 8",
+      "file": "missing/A/357774-a-coloring-break-expansion-pack-8.json"
+    },
+    {
+      "igdb_id": 357775,
+      "game_name": "A Coloring Break: Expansion pack 9",
+      "file": "missing/A/357775-a-coloring-break-expansion-pack-9.json"
+    },
+    {
       "igdb_id": 102155,
       "game_name": "A Compendium of Ghosts",
       "file": "missing/A/102155-a-compendium-of-ghosts.json"
@@ -2403,6 +2438,11 @@
       "file": "missing/A/20667-a-farewell-to-dragons.json"
     },
     {
+      "igdb_id": 357791,
+      "game_name": "A Father's Tale",
+      "file": "missing/A/357791-a-fathers-tale.json"
+    },
+    {
       "igdb_id": 126043,
       "game_name": "A Feeble Saga",
       "file": "missing/A/126043-a-feeble-saga.json"
@@ -2411,6 +2451,11 @@
       "igdb_id": 104687,
       "game_name": "A Few Billion Square Tiles",
       "file": "missing/A/104687-a-few-billion-square-tiles.json"
+    },
+    {
+      "igdb_id": 357795,
+      "game_name": "A Field of Flowers",
+      "file": "missing/A/357795-a-field-of-flowers.json"
     },
     {
       "igdb_id": 140047,
@@ -3091,6 +3136,11 @@
       "igdb_id": 8624,
       "game_name": "A-Men 2",
       "file": "missing/A/8624-a-men-2.json"
+    },
+    {
+      "igdb_id": 357776,
+      "game_name": "A.A.U. Black Site",
+      "file": "missing/A/357776-a-a-u-black-site.json"
     },
     {
       "igdb_id": 406706,
@@ -3868,6 +3918,26 @@
       "file": "missing/A/413637-across-crime.json"
     },
     {
+      "igdb_id": 357777,
+      "game_name": "Across the Obelisk: Bernard, the Alchemist",
+      "file": "missing/A/357777-across-the-obelisk-bernard-the-alchemist.json"
+    },
+    {
+      "igdb_id": 357778,
+      "game_name": "Across the Obelisk: Shores of Sahti",
+      "file": "missing/A/357778-across-the-obelisk-shores-of-sahti.json"
+    },
+    {
+      "igdb_id": 357779,
+      "game_name": "Across the Obelisk: Sigrun, the Valkyrie",
+      "file": "missing/A/357779-across-the-obelisk-sigrun-the-valkyrie.json"
+    },
+    {
+      "igdb_id": 357780,
+      "game_name": "Across the Obelisk: Tulah, the Spider Queen",
+      "file": "missing/A/357780-across-the-obelisk-tulah-the-spider-queen.json"
+    },
+    {
       "igdb_id": 334487,
       "game_name": "Across the River",
       "file": "missing/A/334487-across-the-river.json"
@@ -4298,6 +4368,11 @@
       "file": "missing/A/102207-adventure-playground.json"
     },
     {
+      "igdb_id": 357782,
+      "game_name": "Adventure Realm",
+      "file": "missing/A/357782-adventure-realm.json"
+    },
+    {
       "igdb_id": 293939,
       "game_name": "Adventure Rock",
       "file": "missing/A/293939-adventure-rock.json"
@@ -4348,9 +4423,24 @@
       "file": "missing/A/391046-adventurer.json"
     },
     {
+      "igdb_id": 357784,
+      "game_name": "Adventurer Shop Simulator",
+      "file": "missing/A/357784-adventurer-shop-simulator.json"
+    },
+    {
+      "igdb_id": 357783,
+      "game_name": "Adventurer's Gate",
+      "file": "missing/A/357783-adventurers-gate.json"
+    },
+    {
       "igdb_id": 197371,
       "game_name": "Adventurers.io",
       "file": "missing/A/197371-adventurers-io.json"
+    },
+    {
+      "igdb_id": 357781,
+      "game_name": "Adventures in Calculon",
+      "file": "missing/A/357781-adventures-in-calculon.json"
     },
     {
       "igdb_id": 322357,
@@ -4553,6 +4643,21 @@
       "file": "missing/A/218138-aestik.json"
     },
     {
+      "igdb_id": 357785,
+      "game_name": "Aether",
+      "file": "missing/A/357785-aether.json"
+    },
+    {
+      "igdb_id": 357788,
+      "game_name": "Aether Brew",
+      "file": "missing/A/357788-aether-brew.json"
+    },
+    {
+      "igdb_id": 357787,
+      "game_name": "Aether Effect",
+      "file": "missing/A/357787-aether-effect.json"
+    },
+    {
       "igdb_id": 382222,
       "game_name": "Aether League",
       "file": "missing/A/382222-aether-league.json"
@@ -4568,6 +4673,16 @@
       "file": "missing/A/235487-aether-wizard-life.json"
     },
     {
+      "igdb_id": 357789,
+      "game_name": "Aetherbound",
+      "file": "missing/A/357789-aetherbound.json"
+    },
+    {
+      "igdb_id": 357786,
+      "game_name": "Aetherial",
+      "file": "missing/A/357786-aetherial.json"
+    },
+    {
       "igdb_id": 142476,
       "game_name": "Aethyr",
       "file": "missing/A/142476-aethyr.json"
@@ -4578,6 +4693,11 @@
       "file": "missing/A/145216-aew-fight-forever.json"
     },
     {
+      "igdb_id": 357790,
+      "game_name": "Afei's Trouble",
+      "file": "missing/A/357790-afeis-trouble.json"
+    },
+    {
       "igdb_id": 32355,
       "game_name": "Affairs of the Court: Choice of Romance",
       "file": "missing/A/32355-affairs-of-the-court-choice-of-romance.json"
@@ -4586,6 +4706,11 @@
       "igdb_id": 146347,
       "game_name": "Affectus",
       "file": "missing/A/146347-affectus.json"
+    },
+    {
+      "igdb_id": 357796,
+      "game_name": "Affiliated Homies",
+      "file": "missing/A/357796-affiliated-homies.json"
     },
     {
       "igdb_id": 194034,
@@ -4693,6 +4818,11 @@
       "file": "missing/A/224745-after-dark.json"
     },
     {
+      "igdb_id": 357793,
+      "game_name": "After Dark",
+      "file": "missing/A/357793-after-dark.json"
+    },
+    {
       "igdb_id": 187533,
       "game_name": "After Dark VR",
       "file": "missing/A/187533-after-dark-vr.json"
@@ -4776,6 +4906,16 @@
       "igdb_id": 362285,
       "game_name": "After-Image",
       "file": "missing/A/362285-after-image.json"
+    },
+    {
+      "igdb_id": 357792,
+      "game_name": "Afterblast",
+      "file": "missing/A/357792-afterblast.json"
+    },
+    {
+      "igdb_id": 357794,
+      "game_name": "Afterbright",
+      "file": "missing/A/357794-afterbright.json"
     },
     {
       "igdb_id": 297224,
@@ -5038,6 +5178,11 @@
       "file": "missing/A/26643-age-of-wushu-2.json"
     },
     {
+      "igdb_id": 357800,
+      "game_name": "Agency 13",
+      "file": "missing/A/357800-agency-13.json"
+    },
+    {
       "igdb_id": 113742,
       "game_name": "Agent 9",
       "file": "missing/A/113742-agent-9.json"
@@ -5048,9 +5193,19 @@
       "file": "missing/A/27914-agent-b0rk.json"
     },
     {
+      "igdb_id": 357799,
+      "game_name": "Agent Bob",
+      "file": "missing/A/357799-agent-bob.json"
+    },
+    {
       "igdb_id": 127618,
       "game_name": "Agent Emerson",
       "file": "missing/A/127618-agent-emerson.json"
+    },
+    {
+      "igdb_id": 357798,
+      "game_name": "Agent Forest",
+      "file": "missing/A/357798-agent-forest.json"
     },
     {
       "igdb_id": 95462,
@@ -5073,6 +5228,11 @@
       "file": "missing/A/157170-agent-of-chaos.json"
     },
     {
+      "igdb_id": 357801,
+      "game_name": "Agent Panda",
+      "file": "missing/A/357801-agent-panda.json"
+    },
+    {
       "igdb_id": 374042,
       "game_name": "Agent Pigeon 7",
       "file": "missing/A/374042-agent-pigeon-7.json"
@@ -5081,6 +5241,11 @@
       "igdb_id": 229331,
       "game_name": "Agent Roy: Secure the Temple",
       "file": "missing/A/229331-agent-roy-secure-the-temple.json"
+    },
+    {
+      "igdb_id": 357802,
+      "game_name": "Agent Sirius",
+      "file": "missing/A/357802-agent-sirius.json"
     },
     {
       "igdb_id": 208011,
@@ -5101,6 +5266,11 @@
       "igdb_id": 52015,
       "game_name": "Agents of Mayhem: Day One Edition",
       "file": "missing/A/52015-agents-of-mayhem-day-one-edition.json"
+    },
+    {
+      "igdb_id": 357803,
+      "game_name": "Agents of Shadow",
+      "file": "missing/A/357803-agents-of-shadow.json"
     },
     {
       "igdb_id": 73280,
@@ -5141,6 +5311,11 @@
       "igdb_id": 211419,
       "game_name": "Agora",
       "file": "missing/A/211419-agora.json"
+    },
+    {
+      "igdb_id": 357804,
+      "game_name": "Agora",
+      "file": "missing/A/357804-agora.json"
     },
     {
       "igdb_id": 217031,
@@ -8786,6 +8961,11 @@
       "igdb_id": 116342,
       "game_name": "Anti Terrorist Rush 2",
       "file": "missing/A/116342-anti-terrorist-rush-2.json"
+    },
+    {
+      "igdb_id": 357805,
+      "game_name": "Anti V Reboot",
+      "file": "missing/A/357805-anti-v-reboot.json"
     },
     {
       "igdb_id": 130374,
@@ -30283,6 +30463,11 @@
       "file": "missing/C/273634-command-center-earth.json"
     },
     {
+      "igdb_id": 357814,
+      "game_name": "Command-Ω Omega",
+      "file": "missing/C/357814-command-omega.json"
+    },
+    {
       "igdb_id": 167870,
       "game_name": "Command: Modern Operations - Chains of War",
       "file": "missing/C/167870-command-modern-operations-chains-of-war.json"
@@ -38286,6 +38471,11 @@
       "igdb_id": 290699,
       "game_name": "Dental Strike",
       "file": "missing/D/290699-dental-strike.json"
+    },
+    {
+      "igdb_id": 357797,
+      "game_name": "Dentist Hour: Escape Room",
+      "file": "missing/D/357797-dentist-hour-escape-room.json"
     },
     {
       "igdb_id": 145008,
@@ -73558,6 +73748,11 @@
       "file": "missing/I/117080-interworlds-academy.json"
     },
     {
+      "igdb_id": 357811,
+      "game_name": "Interwoven Dream",
+      "file": "missing/I/357811-interwoven-dream.json"
+    },
+    {
       "igdb_id": 341899,
       "game_name": "Intesa Vincente",
       "file": "missing/I/341899-intesa-vincente.json"
@@ -76356,6 +76551,11 @@
       "igdb_id": 309650,
       "game_name": "Journey to the West: Dark Invasion",
       "file": "missing/J/309650-journey-to-the-west-dark-invasion.json"
+    },
+    {
+      "igdb_id": 357813,
+      "game_name": "Journey to the West: Unparalleled",
+      "file": "missing/J/357813-journey-to-the-west-unparalleled.json"
     },
     {
       "igdb_id": 278128,
@@ -81908,6 +82108,11 @@
       "file": "missing/L/369563-leaks-in-space.json"
     },
     {
+      "igdb_id": 357817,
+      "game_name": "Leap Tactics",
+      "file": "missing/L/357817-leap-tactics.json"
+    },
+    {
       "igdb_id": 267077,
       "game_name": "Leap to the Top+",
       "file": "missing/L/267077-leap-to-the-top.json"
@@ -83331,6 +83536,11 @@
       "igdb_id": 277003,
       "game_name": "Light In Blood",
       "file": "missing/L/277003-light-in-blood.json"
+    },
+    {
+      "igdb_id": 357818,
+      "game_name": "Light Instinct",
+      "file": "missing/L/357818-light-instinct.json"
     },
     {
       "igdb_id": 304361,
@@ -87953,6 +88163,11 @@
       "file": "missing/M/93035-maniac-jackson-and-the-moonwalking-mindbenders.json"
     },
     {
+      "igdb_id": 357816,
+      "game_name": "Manic you and depressed me",
+      "file": "missing/M/357816-manic-you-and-depressed-me.json"
+    },
+    {
       "igdb_id": 215923,
       "game_name": "Manifest",
       "file": "missing/M/215923-manifest.json"
@@ -89051,6 +89266,11 @@
       "igdb_id": 227487,
       "game_name": "Masha and the Bear: Dentist",
       "file": "missing/M/227487-masha-and-the-bear-dentist.json"
+    },
+    {
+      "igdb_id": 357809,
+      "game_name": "Mask Fighting:Otherworldly Awakening",
+      "file": "missing/M/357809-mask-fighting-otherworldly-awakening.json"
     },
     {
       "igdb_id": 125434,
@@ -119548,6 +119768,11 @@
       "file": "missing/R/51953-reboot.json"
     },
     {
+      "igdb_id": 357812,
+      "game_name": "Reborn: Examine Again",
+      "file": "missing/R/357812-reborn-examine-again.json"
+    },
+    {
       "igdb_id": 405474,
       "game_name": "Rebungered!! That Time I Got Reincarnated As A Bunger!",
       "file": "missing/R/405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json"
@@ -121643,6 +121868,11 @@
       "file": "missing/R/313491-rex-your-interactive-pet-dinosaur.json"
     },
     {
+      "igdb_id": 357810,
+      "game_name": "Reyher Austerich’s Garden Worlds Adventure",
+      "file": "missing/R/357810-reyher-austerich-s-garden-worlds-adventure.json"
+    },
+    {
       "igdb_id": 19746,
       "game_name": "Rez Infinite",
       "file": "missing/R/19746-rez-infinite.json"
@@ -122881,6 +123111,11 @@
       "igdb_id": 78029,
       "game_name": "RoboMaze III: The Dome",
       "file": "missing/R/78029-robomaze-iii-the-dome.json"
+    },
+    {
+      "igdb_id": 357808,
+      "game_name": "Roborobi",
+      "file": "missing/R/357808-roborobi.json"
     },
     {
       "igdb_id": 264318,
@@ -126828,6 +127063,11 @@
       "file": "missing/S/43294-sas-anti-terror-force.json"
     },
     {
+      "igdb_id": 357807,
+      "game_name": "Sasayu Meshiki",
+      "file": "missing/S/357807-sasayu-meshiki.json"
+    },
+    {
       "igdb_id": 274183,
       "game_name": "Satan's Pepper",
       "file": "missing/S/274183-satans-pepper.json"
@@ -127896,6 +128136,11 @@
       "igdb_id": 304860,
       "game_name": "Sea of Radiation: Ready",
       "file": "missing/S/304860-sea-of-radiation-ready.json"
+    },
+    {
+      "igdb_id": 357806,
+      "game_name": "Sea of Secrets",
+      "file": "missing/S/357806-sea-of-secrets.json"
     },
     {
       "igdb_id": 335072,
@@ -157331,6 +157576,11 @@
       "igdb_id": 9013,
       "game_name": "Thirty Flights of Loving",
       "file": "missing/T/9013-thirty-flights-of-loving.json"
+    },
+    {
+      "igdb_id": 357815,
+      "game_name": "This Game",
+      "file": "missing/T/357815-this-game.json"
     },
     {
       "igdb_id": 253572,
