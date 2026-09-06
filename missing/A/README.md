@@ -1134,6 +1134,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ameprod Television Game 10 | 243416 | [243416-ameprod-television-game-10.json](./243416-ameprod-television-game-10.json) |
 | America is Doing Great | 136486 | [136486-america-is-doing-great.json](./136486-america-is-doing-great.json) |
 | America's Army | 597 | [597-americas-army.json](./597-americas-army.json) |
+| America's Most Eligible: Book 1 | 313691 | [313691-americas-most-eligible-book-1.json](./313691-americas-most-eligible-book-1.json) |
+| America's Most Eligible: Book 2 | 313692 | [313692-americas-most-eligible-book-2.json](./313692-americas-most-eligible-book-2.json) |
+| America's Most Eligible: Book 3 | 313693 | [313693-americas-most-eligible-book-3.json](./313693-americas-most-eligible-book-3.json) |
 | America's Test Kitchen: Let's Get Cooking | 24343 | [24343-americas-test-kitchen-lets-get-cooking.json](./24343-americas-test-kitchen-lets-get-cooking.json) |
 | American Assault | 273130 | [273130-american-assault.json](./273130-american-assault.json) |
 | American Basketball: Guns & Balls | 234316 | [234316-american-basketball-guns-and-balls.json](./234316-american-basketball-guns-and-balls.json) |
@@ -1960,6 +1963,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen Sky | 299596 | [299596-ashen-sky.json](./299596-ashen-sky.json) |
 | Ashes 2 | 119774 | [119774-ashes-2.json](./119774-ashes-2.json) |
 | Ashes Cricket | 68282 | [68282-ashes-cricket.json](./68282-ashes-cricket.json) |
+| Ashes of Arcanum: Antique Pack | 313674 | [313674-ashes-of-arcanum-antique-pack.json](./313674-ashes-of-arcanum-antique-pack.json) |
+| Ashes of Arcanum: Aves Pack | 313677 | [313677-ashes-of-arcanum-aves-pack.json](./313677-ashes-of-arcanum-aves-pack.json) |
+| Ashes of Arcanum: Cleric Pack | 313676 | [313676-ashes-of-arcanum-cleric-pack.json](./313676-ashes-of-arcanum-cleric-pack.json) |
+| Ashes of Arcanum: Defective Pack | 313678 | [313678-ashes-of-arcanum-defective-pack.json](./313678-ashes-of-arcanum-defective-pack.json) |
+| Ashes of Arcanum: Desecrator Pack | 313673 | [313673-ashes-of-arcanum-desecrator-pack.json](./313673-ashes-of-arcanum-desecrator-pack.json) |
 | Ashes of Equestria | 121722 | [121722-ashes-of-equestria.json](./121722-ashes-of-equestria.json) |
 | Ashes of Immortality Trilogy | 52607 | [52607-ashes-of-immortality-trilogy.json](./52607-ashes-of-immortality-trilogy.json) |
 | Ashes of Kardoria | 386145 | [386145-ashes-of-kardoria.json](./386145-ashes-of-kardoria.json) |
