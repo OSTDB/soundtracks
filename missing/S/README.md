@@ -2111,6 +2111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulWorker: Anime Legends | 200736 | [200736-soulworker-anime-legends.json](./200736-soulworker-anime-legends.json) |
 | Soumei: Crescent Moon | 382781 | [382781-soumei-crescent-moon.json](./382781-soumei-crescent-moon.json) |
 | Sound Horizons | 304882 | [304882-sound-horizons.json](./304882-sound-horizons.json) |
+| Sound Shooting!! Rhythm Shooter | 362812 | [362812-sound-shooting-rhythm-shooter.json](./362812-sound-shooting-rhythm-shooter.json) |
 | Sound Slide | 114378 | [114378-sound-slide.json](./114378-sound-slide.json) |
 | Sound Voltex: Vivid Wave | 126031 | [126031-sound-voltex-vivid-wave.json](./126031-sound-voltex-vivid-wave.json) |
 | Soundboxing | 31625 | [31625-soundboxing.json](./31625-soundboxing.json) |
