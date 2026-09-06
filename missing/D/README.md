@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkfate | 242817 | [242817-darkfate.json](./242817-darkfate.json) |
 | DarkHouse | 371887 | [371887-darkhouse.json](./371887-darkhouse.json) |
 | Darklin Wars | 129769 | [129769-darklin-wars.json](./129769-darklin-wars.json) |
+| Darklord's Tower | 360021 | [360021-darklords-tower.json](./360021-darklords-tower.json) |
 | Darkman | 12037 | [12037-darkman.json](./12037-darkman.json) |
 | Darkman | 365688 | [365688-darkman.json](./365688-darkman.json) |
 | DarkMaus | 18335 | [18335-darkmaus.json](./18335-darkmaus.json) |
@@ -471,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Jr: Root of Evil | 90656 | [90656-death-jr-root-of-evil.json](./90656-death-jr-root-of-evil.json) |
 | Death Jr. | 45988 | [45988-death-jr.json](./45988-death-jr.json) |
 | Death Kid | 331663 | [331663-death-kid.json](./331663-death-kid.json) |
+| Death Mask | 359982 | [359982-death-mask.json](./359982-death-mask.json) |
 | Death Mile | 259241 | [259241-death-mile.json](./259241-death-mile.json) |
 | Death Nomad | 236001 | [236001-death-nomad.json](./236001-death-nomad.json) |
 | Death Note: Killer Within | 320363 | [320363-death-note-killer-within.json](./320363-death-note-killer-within.json) |
@@ -979,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Breeder 2 | 63853 | [63853-dino-breeder-2.json](./63853-dino-breeder-2.json) |
 | Dino Crisis | 317628 | [317628-dino-crisis.json](./317628-dino-crisis.json) |
 | Dino Crisis: Dungeon in Chaos | 146923 | [146923-dino-crisis-dungeon-in-chaos.json](./146923-dino-crisis-dungeon-in-chaos.json) |
+| Dino Domino | 360022 | [360022-dino-domino.json](./360022-dino-domino.json) |
 | Dino Eggs | 23928 | [23928-dino-eggs.json](./23928-dino-eggs.json) |
 | Dino Genesis | 146924 | [146924-dino-genesis.json](./146924-dino-genesis.json) |
 | Dino Lost | 120406 | [120406-dino-lost.json](./120406-dino-lost.json) |
@@ -1432,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dormant | 313496 | [313496-dormant.json](./313496-dormant.json) |
 | Dormitabis | 230514 | [230514-dormitabis.json](./230514-dormitabis.json) |
 | Dorothy's Magical Journey in Oz | 410213 | [410213-dorothys-magical-journey-in-oz.json](./410213-dorothys-magical-journey-in-oz.json) |
+| Dorpie | 360015 | [360015-dorpie.json](./360015-dorpie.json) |
 | Dosukoi Slime | 322998 | [322998-dosukoi-slime.json](./322998-dosukoi-slime.json) |
 | Dot Clicker | 411575 | [411575-dot-clicker.json](./411575-dot-clicker.json) |
 | Dot Ninja | 179183 | [179183-dot-ninja.json](./179183-dot-ninja.json) |
@@ -1735,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreaming About You | 371230 | [371230-dreaming-about-you.json](./371230-dreaming-about-you.json) |
 | Dreaming Seal Simulator | 325288 | [325288-dreaming-seal-simulator.json](./325288-dreaming-seal-simulator.json) |
 | Dreamless Girl: Deluxe Edtion Plus | 335097 | [335097-dreamless-girl-deluxe-edtion-plus.json](./335097-dreamless-girl-deluxe-edtion-plus.json) |
+| Dreampainters | 360005 | [360005-dreampainters.json](./360005-dreampainters.json) |
 | Dreams of Being | 170002 | [170002-dreams-of-being.json](./170002-dreams-of-being.json) |
 | Dreams of Joy Departed | 317581 | [317581-dreams-of-joy-departed.json](./317581-dreams-of-joy-departed.json) |
 | Dreams of Solari - Chapter 1 | 120376 | [120376-dreams-of-solari-chapter-1.json](./120376-dreams-of-solari-chapter-1.json) |
