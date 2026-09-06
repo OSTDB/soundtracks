@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yooca: Your Life | 390516 | [390516-yooca-your-life.json](./390516-yooca-your-life.json) |
 | Yooka-Laylee and the Impossible Lair: Digital Deluxe Edition | 154557 | [154557-yooka-laylee-and-the-impossible-lair-digital-deluxe-edition.json](./154557-yooka-laylee-and-the-impossible-lair-digital-deluxe-edition.json) |
 | Yooka-Laylee: Buddy Duo Pack | 154556 | [154556-yooka-laylee-buddy-duo-pack.json](./154556-yooka-laylee-buddy-duo-pack.json) |
+| Yooperlite | 338214 | [338214-yooperlite.json](./338214-yooperlite.json) |
 | Yore VR | 26140 | [26140-yore-vr.json](./26140-yore-vr.json) |
 | Yorg | 121719 | [121719-yorg.json](./121719-yorg.json) |
 | Yorg.io | 101699 | [101699-yorg-io.json](./101699-yorg-io.json) |
