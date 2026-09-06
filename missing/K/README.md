@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Dinosaur Rex Jigsaw Puzzles | 96749 | [96749-kids-dinosaur-rex-jigsaw-puzzles.json](./96749-kids-dinosaur-rex-jigsaw-puzzles.json) |
 | Kids Dreamland Adventures | 101552 | [101552-kids-dreamland-adventures.json](./101552-kids-dreamland-adventures.json) |
 | Kids Learn Animal Words | 97915 | [97915-kids-learn-animal-words.json](./97915-kids-learn-animal-words.json) |
+| Kids Preschool Puzzles | 323152 | [323152-kids-preschool-puzzles.json](./323152-kids-preschool-puzzles.json) |
 | Kids Puzzle - 2 in 1 Bundle | 231048 | [231048-kids-puzzle-2-in-1-bundle.json](./231048-kids-puzzle-2-in-1-bundle.json) |
 | Kids Station: Digimon Park | 58808 | [58808-kids-station-digimon-park.json](./58808-kids-station-digimon-park.json) |
 | Kids Station: Magical Doremi #: Maho-dou Dance Carnival | 329032 | [329032-kids-station-magical-doremi-maho-dou-dance-carnival.json](./329032-kids-station-magical-doremi-maho-dou-dance-carnival.json) |
@@ -655,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Danyang-gun | 328502 | [328502-korean-drone-flying-tour-danyang-gun.json](./328502-korean-drone-flying-tour-danyang-gun.json) |
 | Korean Monorail Panorama Line Hwagaesan | 378809 | [378809-korean-monorail-panorama-line-hwagaesan.json](./378809-korean-monorail-panorama-line-hwagaesan.json) |
 | KORG Gadget | 77537 | [77537-korg-gadget.json](./77537-korg-gadget.json) |
+| Korin's Mines | 323167 | [323167-korins-mines.json](./323167-korins-mines.json) |
 | Koro Koro Quest | 40226 | [40226-koro-koro-quest.json](./40226-koro-koro-quest.json) |
 | Koro-san's Home Wan! Derby | 354414 | [354414-koro-sans-home-wan-derby.json](./354414-koro-sans-home-wan-derby.json) |
 | Korobo | 309105 | [309105-korobo.json](./309105-korobo.json) |
