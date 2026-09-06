@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.S. Mission | 40252 | [40252-s-s-mission.json](./40252-s-s-mission.json) |
 | S.T.A.L.K.E.R. H.A.C.R. | 377614 | [377614-s-t-a-l-k-e-r-h-a-c-r.json](./377614-s-t-a-l-k-e-r-h-a-c-r.json) |
 | S.T.A.L.K.E.R.: Clear Sky | 4840 | [4840-s-t-a-l-k-e-r-clear-sky.json](./4840-s-t-a-l-k-e-r-clear-sky.json) |
+| S.T.A.L.K.E.R.: Incubator | 353303 | [353303-s-t-a-l-k-e-r-incubator.json](./353303-s-t-a-l-k-e-r-incubator.json) |
 | S.T.A.L.K.E.R.: Oblivion Lost Remake | 138257 | [138257-s-t-a-l-k-e-r-oblivion-lost-remake.json](./138257-s-t-a-l-k-e-r-oblivion-lost-remake.json) |
 | S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition | 343442 | [343442-s-t-a-l-k-e-r-shadow-of-chornobyl-enhanced-edition.json](./343442-s-t-a-l-k-e-r-shadow-of-chornobyl-enhanced-edition.json) |
 | S.T.A.L.K.E.R.: Wind of Time | 138799 | [138799-s-t-a-l-k-e-r-wind-of-time.json](./138799-s-t-a-l-k-e-r-wind-of-time.json) |
@@ -2648,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ST World | 269857 | [269857-st-world.json](./269857-st-world.json) |
 | Stabfish 2 | 200190 | [200190-stabfish-2.json](./200190-stabfish-2.json) |
 | Stability | 43171 | [43171-stability.json](./43171-stability.json) |
+| Stabjack | 353295 | [353295-stabjack.json](./353295-stabjack.json) |
 | Stable Masters | 206975 | [206975-stable-masters.json](./206975-stable-masters.json) |
 | Stack Jump | 87657 | [87657-stack-jump.json](./87657-stack-jump.json) |
 | Stack Order | 388009 | [388009-stack-order.json](./388009-stack-order.json) |
@@ -3123,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strangers In The Land Of Turnabouts | 303247 | [303247-strangers-in-the-land-of-turnabouts.json](./303247-strangers-in-the-land-of-turnabouts.json) |
 | Strangest.io's My Megamix '21 | 195798 | [195798-strangest-ios-my-megamix-21.json](./195798-strangest-ios-my-megamix-21.json) |
 | Strania: The Stella Machina | 34342 | [34342-strania-the-stella-machina.json](./34342-strania-the-stella-machina.json) |
+| Strategems | 353271 | [353271-strategems.json](./353271-strategems.json) |
 | Strategie Spiele | 81396 | [81396-strategie-spiele.json](./81396-strategie-spiele.json) |
 | Strato | 35955 | [35955-strato.json](./35955-strato.json) |
 | Strawberry | 339658 | [339658-strawberry.json](./339658-strawberry.json) |
