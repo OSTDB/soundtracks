@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarah's Great Adventure | 371898 | [371898-sarahs-great-adventure.json](./371898-sarahs-great-adventure.json) |
 | Sargasso | 261544 | [261544-sargasso.json](./261544-sargasso.json) |
 | SAS: Anti-Terror Force | 43294 | [43294-sas-anti-terror-force.json](./43294-sas-anti-terror-force.json) |
+| Sasayu Meshiki | 357807 | [357807-sasayu-meshiki.json](./357807-sasayu-meshiki.json) |
 | Satan's Pepper | 274183 | [274183-satans-pepper.json](./274183-satans-pepper.json) |
 | Satan's Zombies | 233230 | [233230-satans-zombies.json](./233230-satans-zombies.json) |
 | Satanislas | 250027 | [250027-satanislas.json](./250027-satanislas.json) |
@@ -488,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of ​Mutation | 309688 | [309688-sea-of-mutation.json](./309688-sea-of-mutation.json) |
 | Sea of Pirates | 408791 | [408791-sea-of-pirates.json](./408791-sea-of-pirates.json) |
 | Sea of Radiation: Ready | 304860 | [304860-sea-of-radiation-ready.json](./304860-sea-of-radiation-ready.json) |
+| Sea of Secrets | 357806 | [357806-sea-of-secrets.json](./357806-sea-of-secrets.json) |
 | Sea of Thieves: 2024 Edition | 335072 | [335072-sea-of-thieves-2024-edition.json](./335072-sea-of-thieves-2024-edition.json) |
 | Sea Power: Naval Combat in the Missile Age | 217518 | [217518-sea-power-naval-combat-in-the-missile-age.json](./217518-sea-power-naval-combat-in-the-missile-age.json) |
 | Sea Salt City | 404240 | [404240-sea-salt-city.json](./404240-sea-salt-city.json) |
