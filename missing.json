@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T06:03:27.464Z",
-  "total_missing": 35879,
+  "generated_at": "2026-09-06T06:18:20.332Z",
+  "total_missing": 35929,
   "games": [
     {
       "igdb_id": 306086,
@@ -1683,6 +1683,11 @@
       "file": "missing/0-9/157721-4096.json"
     },
     {
+      "igdb_id": 353323,
+      "game_name": "44 Hidden Naomis",
+      "file": "missing/0-9/353323-44-hidden-naomis.json"
+    },
+    {
       "igdb_id": 26675,
       "game_name": "46 Okunen Monogatari: The Shinka Ron",
       "file": "missing/0-9/26675-46-okunen-monogatari-the-shinka-ron.json"
@@ -1881,6 +1886,21 @@
       "igdb_id": 335653,
       "game_name": "7 Days of Summer: Lost Alpha",
       "file": "missing/0-9/335653-7-days-of-summer-lost-alpha.json"
+    },
+    {
+      "igdb_id": 353298,
+      "game_name": "7 Days to Die: The Desert Armor Set",
+      "file": "missing/0-9/353298-7-days-to-die-the-desert-armor-set.json"
+    },
+    {
+      "igdb_id": 353300,
+      "game_name": "7 Days to Die: The Hoarder Armor Set",
+      "file": "missing/0-9/353300-7-days-to-die-the-hoarder-armor-set.json"
+    },
+    {
+      "igdb_id": 353299,
+      "game_name": "7 Days to Die: The Marauder Armor Set",
+      "file": "missing/0-9/353299-7-days-to-die-the-marauder-armor-set.json"
     },
     {
       "igdb_id": 189888,
@@ -2181,6 +2201,11 @@
       "igdb_id": 221991,
       "game_name": "99 Moves",
       "file": "missing/0-9/221991-99-moves.json"
+    },
+    {
+      "igdb_id": 353316,
+      "game_name": "99 Problems",
+      "file": "missing/0-9/353316-99-problems.json"
     },
     {
       "igdb_id": 221992,
@@ -6043,6 +6068,11 @@
       "file": "missing/A/307961-akuma-no-shinpan.json"
     },
     {
+      "igdb_id": 353301,
+      "game_name": "Akumajou Densetsu",
+      "file": "missing/A/353301-akumajou-densetsu.json"
+    },
+    {
       "igdb_id": 393458,
       "game_name": "Akumon Summoner",
       "file": "missing/A/393458-akumon-summoner.json"
@@ -8806,6 +8836,11 @@
       "igdb_id": 290720,
       "game_name": "Anomaly Exit",
       "file": "missing/A/290720-anomaly-exit.json"
+    },
+    {
+      "igdb_id": 353284,
+      "game_name": "Anomaly Observer",
+      "file": "missing/A/353284-anomaly-observer.json"
     },
     {
       "igdb_id": 325240,
@@ -15423,6 +15458,11 @@
       "file": "missing/B/121031-batagacha.json"
     },
     {
+      "igdb_id": 353307,
+      "game_name": "Batalla de Arquitectos",
+      "file": "missing/B/353307-batalla-de-arquitectos.json"
+    },
+    {
       "igdb_id": 75187,
       "game_name": "Batch 17",
       "file": "missing/B/75187-batch-17.json"
@@ -16396,6 +16436,11 @@
       "igdb_id": 333945,
       "game_name": "Beachcomber",
       "file": "missing/B/333945-beachcomber.json"
+    },
+    {
+      "igdb_id": 353315,
+      "game_name": "Beachside Blitz",
+      "file": "missing/B/353315-beachside-blitz.json"
     },
     {
       "igdb_id": 218692,
@@ -24451,6 +24496,11 @@
       "igdb_id": 100182,
       "game_name": "Call to Arms",
       "file": "missing/C/100182-call-to-arms.json"
+    },
+    {
+      "igdb_id": 353292,
+      "game_name": "Call to Arms: Panzer Elite",
+      "file": "missing/C/353292-call-to-arms-panzer-elite.json"
     },
     {
       "igdb_id": 237635,
@@ -43188,6 +43238,11 @@
       "file": "missing/D/88818-dragon-ball-z-dokkan-battle.json"
     },
     {
+      "igdb_id": 353308,
+      "game_name": "Dragon Ball Z: Shin Budokai Another Road Revisited",
+      "file": "missing/D/353308-dragon-ball-z-shin-budokai-another-road-revisited.json"
+    },
+    {
       "igdb_id": 2545,
       "game_name": "Dragon Ball Z: Super Butouden",
       "file": "missing/D/2545-dragon-ball-z-super-butouden.json"
@@ -46341,6 +46396,11 @@
       "igdb_id": 151707,
       "game_name": "Eden.schemata();",
       "file": "missing/E/151707-eden-schemata.json"
+    },
+    {
+      "igdb_id": 353304,
+      "game_name": "Eden's Inferno",
+      "file": "missing/E/353304-edens-inferno.json"
     },
     {
       "igdb_id": 190187,
@@ -59238,6 +59298,11 @@
       "file": "missing/G/215902-garden-business.json"
     },
     {
+      "igdb_id": 353283,
+      "game_name": "Garden of Butterflies",
+      "file": "missing/G/353283-garden-of-butterflies.json"
+    },
+    {
       "igdb_id": 107235,
       "game_name": "Garden of Coloured Lights",
       "file": "missing/G/107235-garden-of-coloured-lights.json"
@@ -64256,6 +64321,11 @@
       "igdb_id": 259277,
       "game_name": "Gun Trails",
       "file": "missing/G/259277-gun-trails.json"
+    },
+    {
+      "igdb_id": 353314,
+      "game_name": "Gunball: Emperor's Revenge",
+      "file": "missing/G/353314-gunball-emperors-revenge.json"
     },
     {
       "igdb_id": 44643,
@@ -73718,6 +73788,11 @@
       "file": "missing/I/143085-infinity-kingdom.json"
     },
     {
+      "igdb_id": 353286,
+      "game_name": "Infinity Nikki: Blue Tears Season",
+      "file": "missing/I/353286-infinity-nikki-blue-tears-season.json"
+    },
+    {
       "igdb_id": 410212,
       "game_name": "Infinity Nikki: Golden Dust",
       "file": "missing/I/410212-infinity-nikki-golden-dust.json"
@@ -74996,6 +75071,11 @@
       "igdb_id": 355551,
       "game_name": "Is the Vat Utopia or Dystopia?",
       "file": "missing/I/355551-is-the-vat-utopia-or-dystopia.json"
+    },
+    {
+      "igdb_id": 353312,
+      "game_name": "Is this a Game yet?",
+      "file": "missing/I/353312-is-this-a-game-yet.json"
     },
     {
       "igdb_id": 275350,
@@ -77671,6 +77751,11 @@
       "igdb_id": 374082,
       "game_name": "Jungle Shadow",
       "file": "missing/J/374082-jungle-shadow.json"
+    },
+    {
+      "igdb_id": 353329,
+      "game_name": "Jungle Taitei",
+      "file": "missing/J/353329-jungle-taitei.json"
     },
     {
       "igdb_id": 138828,
@@ -86718,6 +86803,11 @@
       "file": "missing/L/411572-low-poly-flight-simulator.json"
     },
     {
+      "igdb_id": 353278,
+      "game_name": "Low_Signal",
+      "file": "missing/L/353278-low-signal.json"
+    },
+    {
       "igdb_id": 208016,
       "game_name": "Lowlife",
       "file": "missing/L/208016-lowlife.json"
@@ -89091,6 +89181,11 @@
       "igdb_id": 312911,
       "game_name": "Maps 4TMD",
       "file": "missing/M/312911-maps-4tmd.json"
+    },
+    {
+      "igdb_id": 353317,
+      "game_name": "Mär Heaven: Karudea no Akuma",
+      "file": "missing/M/353317-mar-heaven-karudea-no-akuma.json"
     },
     {
       "igdb_id": 239883,
@@ -95423,6 +95518,11 @@
       "file": "missing/M/398327-mommy-dont-hurt-me-mommy-dont-hurt-me-mommy-dont-hurt-me.json"
     },
     {
+      "igdb_id": 353289,
+      "game_name": "Mommy-Goddess of Unconditional Love ~Wow, You Sure Gave It Your All Out There!~",
+      "file": "missing/M/353289-mommy-goddess-of-unconditional-love-wow-you-sure-gave-it-your-all-out-there.json"
+    },
+    {
       "igdb_id": 110175,
       "game_name": "Momo.exe 2",
       "file": "missing/M/110175-momo-exe-2.json"
@@ -101448,6 +101548,11 @@
       "file": "missing/N/216990-neverland.json"
     },
     {
+      "igdb_id": 353288,
+      "game_name": "Neverland: Aeterna Chronicles",
+      "file": "missing/N/353288-neverland-aeterna-chronicles.json"
+    },
+    {
       "igdb_id": 371259,
       "game_name": "Neverless Academy",
       "file": "missing/N/371259-neverless-academy.json"
@@ -105231,6 +105336,11 @@
       "igdb_id": 60010,
       "game_name": "Ollie Ollie Oxen Free",
       "file": "missing/O/60010-ollie-ollie-oxen-free.json"
+    },
+    {
+      "igdb_id": 353282,
+      "game_name": "OlliOlli World: Close Encounter Skate Deck",
+      "file": "missing/O/353282-olliolli-world-close-encounter-skate-deck.json"
     },
     {
       "igdb_id": 46025,
@@ -110243,9 +110353,19 @@
       "file": "missing/P/190700-penelopes-odyssey.json"
     },
     {
+      "igdb_id": 353324,
+      "game_name": "Pengicitis The Game",
+      "file": "missing/P/353324-pengicitis-the-game.json"
+    },
+    {
       "igdb_id": 270415,
       "game_name": "Pengo",
       "file": "missing/P/270415-pengo.json"
+    },
+    {
+      "igdb_id": 353302,
+      "game_name": "Penguin Chat 2",
+      "file": "missing/P/353302-penguin-chat-2.json"
     },
     {
       "igdb_id": 354409,
@@ -111911,6 +112031,26 @@
       "igdb_id": 141861,
       "game_name": "Pinball Arcade Season 2",
       "file": "missing/P/141861-pinball-arcade-season-2.json"
+    },
+    {
+      "igdb_id": 353273,
+      "game_name": "Pinball Arcade: Safe Cracker",
+      "file": "missing/P/353273-pinball-arcade-safe-cracker.json"
+    },
+    {
+      "igdb_id": 353272,
+      "game_name": "Pinball Arcade: Space Shuttle",
+      "file": "missing/P/353272-pinball-arcade-space-shuttle.json"
+    },
+    {
+      "igdb_id": 353270,
+      "game_name": "Pinball Arcade: Swords of Fury",
+      "file": "missing/P/353270-pinball-arcade-swords-of-fury.json"
+    },
+    {
+      "igdb_id": 353269,
+      "game_name": "Pinball Arcade: Whirlwind",
+      "file": "missing/P/353269-pinball-arcade-whirlwind.json"
     },
     {
       "igdb_id": 354432,
@@ -114026,6 +114166,11 @@
       "igdb_id": 250629,
       "game_name": "Pokémon Edición Reloaded",
       "file": "missing/P/250629-pokemon-edicion-reloaded.json"
+    },
+    {
+      "igdb_id": 353274,
+      "game_name": "Pokémon Edición Team Rocket",
+      "file": "missing/P/353274-pokemon-edicion-team-rocket.json"
     },
     {
       "igdb_id": 172744,
@@ -116341,6 +116486,11 @@
       "igdb_id": 180313,
       "game_name": "Project BlockchainZ",
       "file": "missing/P/180313-project-blockchainz.json"
+    },
+    {
+      "igdb_id": 353279,
+      "game_name": "Project CARS: Logitech Livery Pack",
+      "file": "missing/P/353279-project-cars-logitech-livery-pack.json"
     },
     {
       "igdb_id": 166735,
@@ -120708,6 +120858,11 @@
       "file": "missing/R/226976-reality.json"
     },
     {
+      "igdb_id": 353297,
+      "game_name": "Reality",
+      "file": "missing/R/353297-reality.json"
+    },
+    {
       "igdb_id": 309677,
       "game_name": "Reality Core",
       "file": "missing/R/309677-reality-core.json"
@@ -124598,6 +124753,11 @@
       "file": "missing/R/273642-rocket-smash.json"
     },
     {
+      "igdb_id": 353290,
+      "game_name": "Rocket Wrestling Entertainment",
+      "file": "missing/R/353290-rocket-wrestling-entertainment.json"
+    },
+    {
       "igdb_id": 170517,
       "game_name": "Rocketbirds 2: Mind Control",
       "file": "missing/R/170517-rocketbirds-2-mind-control.json"
@@ -126901,6 +127061,11 @@
       "igdb_id": 4840,
       "game_name": "S.T.A.L.K.E.R.: Clear Sky",
       "file": "missing/S/4840-s-t-a-l-k-e-r-clear-sky.json"
+    },
+    {
+      "igdb_id": 353303,
+      "game_name": "S.T.A.L.K.E.R.: Incubator",
+      "file": "missing/S/353303-s-t-a-l-k-e-r-incubator.json"
     },
     {
       "igdb_id": 138257,
@@ -140048,6 +140213,11 @@
       "file": "missing/S/43171-stability.json"
     },
     {
+      "igdb_id": 353295,
+      "game_name": "Stabjack",
+      "file": "missing/S/353295-stabjack.json"
+    },
+    {
       "igdb_id": 206975,
       "game_name": "Stable Masters",
       "file": "missing/S/206975-stable-masters.json"
@@ -142421,6 +142591,11 @@
       "igdb_id": 34342,
       "game_name": "Strania: The Stella Machina",
       "file": "missing/S/34342-strania-the-stella-machina.json"
+    },
+    {
+      "igdb_id": 353271,
+      "game_name": "Strategems",
+      "file": "missing/S/353271-strategems.json"
     },
     {
       "igdb_id": 81396,
@@ -161063,6 +161238,11 @@
       "file": "missing/T/181362-tinyverse.json"
     },
     {
+      "igdb_id": 353294,
+      "game_name": "Tired of Being the Hero",
+      "file": "missing/T/353294-tired-of-being-the-hero.json"
+    },
+    {
       "igdb_id": 382747,
       "game_name": "Tisuland",
       "file": "missing/T/382747-tisuland.json"
@@ -162553,6 +162733,11 @@
       "file": "missing/T/37783-tottemo-luckyman-lucky-cookie-roulette-de-totsugeki.json"
     },
     {
+      "igdb_id": 353293,
+      "game_name": "Totto's Magic Soup",
+      "file": "missing/T/353293-tottos-magic-soup.json"
+    },
+    {
       "igdb_id": 220854,
       "game_name": "Tottoko Hamtaro Card-e",
       "file": "missing/T/220854-tottoko-hamtaro-card-e.json"
@@ -163066,6 +163251,56 @@
       "igdb_id": 217504,
       "game_name": "Tower Walker: MMO Grind Simulator",
       "file": "missing/T/217504-tower-walker-mmo-grind-simulator.json"
+    },
+    {
+      "igdb_id": 353327,
+      "game_name": "Tower! Simulator 3: EDDF Airport",
+      "file": "missing/T/353327-tower-simulator-3-eddf-airport.json"
+    },
+    {
+      "igdb_id": 353313,
+      "game_name": "Tower! Simulator 3: EDDM Airport",
+      "file": "missing/T/353313-tower-simulator-3-eddm-airport.json"
+    },
+    {
+      "igdb_id": 353331,
+      "game_name": "Tower! Simulator 3: EHAM Airport",
+      "file": "missing/T/353331-tower-simulator-3-eham-airport.json"
+    },
+    {
+      "igdb_id": 353330,
+      "game_name": "Tower! Simulator 3: KATL Airport",
+      "file": "missing/T/353330-tower-simulator-3-katl-airport.json"
+    },
+    {
+      "igdb_id": 353326,
+      "game_name": "Tower! Simulator 3: KAUS Airport",
+      "file": "missing/T/353326-tower-simulator-3-kaus-airport.json"
+    },
+    {
+      "igdb_id": 353321,
+      "game_name": "Tower! Simulator 3: KBNA Airport",
+      "file": "missing/T/353321-tower-simulator-3-kbna-airport.json"
+    },
+    {
+      "igdb_id": 353318,
+      "game_name": "Tower! Simulator 3: KBOS Airport",
+      "file": "missing/T/353318-tower-simulator-3-kbos-airport.json"
+    },
+    {
+      "igdb_id": 353328,
+      "game_name": "Tower! Simulator 3: KSFO Airport",
+      "file": "missing/T/353328-tower-simulator-3-ksfo-airport.json"
+    },
+    {
+      "igdb_id": 353332,
+      "game_name": "Tower! Simulator 3: KSLC Airport",
+      "file": "missing/T/353332-tower-simulator-3-kslc-airport.json"
+    },
+    {
+      "igdb_id": 353325,
+      "game_name": "Tower! Simulator 3: LSZH Airport",
+      "file": "missing/T/353325-tower-simulator-3-lszh-airport.json"
     },
     {
       "igdb_id": 296648,
@@ -171798,6 +172033,16 @@
       "file": "missing/W/223707-warframe-angels-of-the-zariman-emergence-pack.json"
     },
     {
+      "igdb_id": 353310,
+      "game_name": "Warframe: Gunblade Battlekit",
+      "file": "missing/W/353310-warframe-gunblade-battlekit.json"
+    },
+    {
+      "igdb_id": 353309,
+      "game_name": "Warframe: Starter Weapon Pack",
+      "file": "missing/W/353309-warframe-starter-weapon-pack.json"
+    },
+    {
       "igdb_id": 87479,
       "game_name": "WarFriends: PvP Army Shooter",
       "file": "missing/W/87479-warfriends-pvp-army-shooter.json"
@@ -173731,6 +173976,11 @@
       "igdb_id": 404822,
       "game_name": "Wicked Delights",
       "file": "missing/W/404822-wicked-delights.json"
+    },
+    {
+      "igdb_id": 353291,
+      "game_name": "Wicked Little Witch",
+      "file": "missing/W/353291-wicked-little-witch.json"
     },
     {
       "igdb_id": 85482,
