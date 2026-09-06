@@ -749,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Axolotl Project | 60022 | [60022-the-axolotl-project.json](./60022-the-axolotl-project.json) |
 | The Backrooms Simulator | 121032 | [121032-the-backrooms-simulator.json](./121032-the-backrooms-simulator.json) |
 | The Backrooms World | 204671 | [204671-the-backrooms-world.json](./204671-the-backrooms-world.json) |
+| The Backrooms: Forsaken | 329584 | [329584-the-backrooms-forsaken.json](./329584-the-backrooms-forsaken.json) |
 | The Backrooms: Lost Tape | 197312 | [197312-the-backrooms-lost-tape.json](./197312-the-backrooms-lost-tape.json) |
 | The Backrooms: Lost to the Dark | 370141 | [370141-the-backrooms-lost-to-the-dark.json](./370141-the-backrooms-lost-to-the-dark.json) |
 | The Backrooms: Mass Extinction | 203558 | [203558-the-backrooms-mass-extinction.json](./203558-the-backrooms-mass-extinction.json) |
@@ -1440,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Food Delivery | 359991 | [359991-the-jumping-food-delivery.json](./359991-the-jumping-food-delivery.json) |
 | The Jumping Food Racing 2 | 380407 | [380407-the-jumping-food-racing-2.json](./380407-the-jumping-food-racing-2.json) |
 | The Jumping Fries | 204078 | [204078-the-jumping-fries.json](./204078-the-jumping-fries.json) |
+| The Jumping Onion Ring | 329575 | [329575-the-jumping-onion-ring.json](./329575-the-jumping-onion-ring.json) |
 | The Jumping Orange 3 | 373563 | [373563-the-jumping-orange-3.json](./373563-the-jumping-orange-3.json) |
 | The Jumping Taco | 205240 | [205240-the-jumping-taco.json](./205240-the-jumping-taco.json) |
 | The Kaiju Offensive | 117097 | [117097-the-kaiju-offensive.json](./117097-the-kaiju-offensive.json) |
@@ -1654,6 +1656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Dollar | 71009 | [71009-the-lost-dollar.json](./71009-the-lost-dollar.json) |
 | The Lost Fountain | 96060 | [96060-the-lost-fountain.json](./96060-the-lost-fountain.json) |
 | The Lost Frames | 309134 | [309134-the-lost-frames.json](./309134-the-lost-frames.json) |
+| The Lost Island | 329582 | [329582-the-lost-island.json](./329582-the-lost-island.json) |
 | The Lost Legends of Redwall: Feasts & Friends | 280511 | [280511-the-lost-legends-of-redwall-feasts-and-friends.json](./280511-the-lost-legends-of-redwall-feasts-and-friends.json) |
 | The Lost Legends of Redwall: The Scout - Act 3 | 171612 | [171612-the-lost-legends-of-redwall-the-scout-act-3.json](./171612-the-lost-legends-of-redwall-the-scout-act-3.json) |
 | The Lost Marble | 161390 | [161390-the-lost-marble.json](./161390-the-lost-marble.json) |
@@ -3568,6 +3571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash is Fun | 153997 | [153997-trash-is-fun.json](./153997-trash-is-fun.json) |
 | Trash Panda: The Adventures of Ricky and Boxman | 226433 | [226433-trash-panda-the-adventures-of-ricky-and-boxman.json](./226433-trash-panda-the-adventures-of-ricky-and-boxman.json) |
 | Trash Sailors | 122426 | [122426-trash-sailors.json](./122426-trash-sailors.json) |
+| Trashcan Simulator | 329594 | [329594-trashcan-simulator.json](./329594-trashcan-simulator.json) |
 | Trashman | 23054 | [23054-trashman.json](./23054-trashman.json) |
 | Traulian: O Ultimo General | 293900 | [293900-traulian-o-ultimo-general.json](./293900-traulian-o-ultimo-general.json) |
 | Trauma | 301607 | [301607-trauma.json](./301607-trauma.json) |
