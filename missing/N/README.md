@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverland | 216990 | [216990-neverland.json](./216990-neverland.json) |
 | Neverland: Aeterna Chronicles | 353288 | [353288-neverland-aeterna-chronicles.json](./353288-neverland-aeterna-chronicles.json) |
 | Neverless Academy | 371259 | [371259-neverless-academy.json](./371259-neverless-academy.json) |
+| NeveRossa: Mille e una notte | 316644 | [316644-neverossa-mille-e-una-notte.json](./316644-neverossa-mille-e-una-notte.json) |
 | Neverputt | 51246 | [51246-neverputt.json](./51246-neverputt.json) |
 | Neversong | 133261 | [133261-neversong.json](./133261-neversong.json) |
 | NeverSynth | 225878 | [225878-neversynth.json](./225878-neversynth.json) |
