@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T15:33:22.587Z",
-  "total_missing": 37779,
+  "generated_at": "2026-09-06T15:48:16.533Z",
+  "total_missing": 37829,
   "games": [
     {
       "igdb_id": 306086,
@@ -4561,6 +4561,11 @@
       "igdb_id": 322391,
       "game_name": "Adrift",
       "file": "missing/A/322391-adrift.json"
+    },
+    {
+      "igdb_id": 331880,
+      "game_name": "Adrift",
+      "file": "missing/A/331880-adrift.json"
     },
     {
       "igdb_id": 377088,
@@ -20251,6 +20256,11 @@
       "igdb_id": 148547,
       "game_name": "Blaze and the Monster Machines: Axle City Racers",
       "file": "missing/B/148547-blaze-and-the-monster-machines-axle-city-racers.json"
+    },
+    {
+      "igdb_id": 331874,
+      "game_name": "Blaze of Storm",
+      "file": "missing/B/331874-blaze-of-storm.json"
     },
     {
       "igdb_id": 415092,
@@ -40848,6 +40858,11 @@
       "file": "missing/D/3469-densha-de-go-64.json"
     },
     {
+      "igdb_id": 331876,
+      "game_name": "Denshi Life 2",
+      "file": "missing/D/331876-denshi-life-2.json"
+    },
+    {
       "igdb_id": 166758,
       "game_name": "Dental Madness: Cavity Mania",
       "file": "missing/D/166758-dental-madness-cavity-mania.json"
@@ -50486,6 +50501,11 @@
       "igdb_id": 351000,
       "game_name": "Enigma Heart",
       "file": "missing/E/351000-enigma-heart.json"
+    },
+    {
+      "igdb_id": 331861,
+      "game_name": "Enigma of Sépia",
+      "file": "missing/E/331861-enigma-of-sepia.json"
     },
     {
       "igdb_id": 190223,
@@ -63163,6 +63183,11 @@
       "file": "missing/G/353910-germ-blasters.json"
     },
     {
+      "igdb_id": 331889,
+      "game_name": "Gërman Boy",
+      "file": "missing/G/331889-german-boy.json"
+    },
+    {
       "igdb_id": 346031,
       "game_name": "German Tantei-dan Maringumi: Himitsu Kichi wo Mamore!",
       "file": "missing/G/346031-german-tantei-dan-maringumi-himitsu-kichi-wo-mamore.json"
@@ -67003,6 +67028,11 @@
       "file": "missing/G/404809-growing-my-manhole.json"
     },
     {
+      "igdb_id": 331885,
+      "game_name": "Growth",
+      "file": "missing/G/331885-growth.json"
+    },
+    {
       "igdb_id": 384538,
       "game_name": "Gru Dash Play",
       "file": "missing/G/384538-gru-dash-play.json"
@@ -67681,6 +67711,11 @@
       "igdb_id": 146925,
       "game_name": "Gunma's Ambition: You and me are Gunma",
       "file": "missing/G/146925-gunmas-ambition-you-and-me-are-gunma.json"
+    },
+    {
+      "igdb_id": 331891,
+      "game_name": "Gunma's Ambition: You and me are Gunma - Reiwa 2nd National Census Edition",
+      "file": "missing/G/331891-gunmas-ambition-you-and-me-are-gunma-reiwa-2nd-national-census-edition.json"
     },
     {
       "igdb_id": 102450,
@@ -89213,6 +89248,11 @@
       "file": "missing/L/271985-liptrip-my-boss-is-my-heat-suppressant.json"
     },
     {
+      "igdb_id": 331883,
+      "game_name": "Liquid Abyss: The Melted Jelly",
+      "file": "missing/L/331883-liquid-abyss-the-melted-jelly.json"
+    },
+    {
       "igdb_id": 51250,
       "game_name": "Liquid War",
       "file": "missing/L/51250-liquid-war.json"
@@ -98508,6 +98548,11 @@
       "file": "missing/M/406686-mikanes-hand.json"
     },
     {
+      "igdb_id": 331890,
+      "game_name": "Mikazuki: Hoshimeguri no Uta",
+      "file": "missing/M/331890-mikazuki-hoshimeguri-no-uta.json"
+    },
+    {
       "igdb_id": 3410,
       "game_name": "Mike Piazza's Strike Zone",
       "file": "missing/M/3410-mike-piazzas-strike-zone.json"
@@ -99628,6 +99673,11 @@
       "file": "missing/M/322352-mirror-image.json"
     },
     {
+      "igdb_id": 331882,
+      "game_name": "Mirror Insideout",
+      "file": "missing/M/331882-mirror-insideout.json"
+    },
+    {
       "igdb_id": 91986,
       "game_name": "Mirror Land",
       "file": "missing/M/91986-mirror-land.json"
@@ -99981,6 +100031,11 @@
       "igdb_id": 130945,
       "game_name": "MJ",
       "file": "missing/M/130945-mj.json"
+    },
+    {
+      "igdb_id": 331866,
+      "game_name": "MKL The Game",
+      "file": "missing/M/331866-mkl-the-game.json"
     },
     {
       "igdb_id": 21157,
@@ -105638,6 +105693,11 @@
       "file": "missing/N/4029-nba-2k2.json"
     },
     {
+      "igdb_id": 331859,
+      "game_name": "NBA 2K25: Tournament Edition",
+      "file": "missing/N/331859-nba-2k25-tournament-edition.json"
+    },
+    {
       "igdb_id": 353901,
       "game_name": "NBA 2K26",
       "file": "missing/N/353901-nba-2k26.json"
@@ -109378,6 +109438,11 @@
       "file": "missing/N/398354-not-fine.json"
     },
     {
+      "igdb_id": 331858,
+      "game_name": "Not For Broadcast: Complete Edition",
+      "file": "missing/N/331858-not-for-broadcast-complete-edition.json"
+    },
+    {
       "igdb_id": 353903,
       "game_name": "Not Guilty!",
       "file": "missing/N/353903-not-guilty.json"
@@ -111498,6 +111563,11 @@
       "file": "missing/O/174335-onaji.json"
     },
     {
+      "igdb_id": 331886,
+      "game_name": "Onamae Battle",
+      "file": "missing/O/331886-onamae-battle.json"
+    },
+    {
       "igdb_id": 181383,
       "game_name": "Onanigan",
       "file": "missing/O/181383-onanigan.json"
@@ -112111,6 +112181,11 @@
       "igdb_id": 398351,
       "game_name": "Onironautilus: Uncolored",
       "file": "missing/O/398351-onironautilus-uncolored.json"
+    },
+    {
+      "igdb_id": 331881,
+      "game_name": "Oniwaki Village",
+      "file": "missing/O/331881-oniwaki-village.json"
     },
     {
       "igdb_id": 323513,
@@ -112996,6 +113071,11 @@
       "igdb_id": 327600,
       "game_name": "Oshare ni Henshin HeartCatch PreCure!",
       "file": "missing/O/327600-oshare-ni-henshin-heartcatch-precure.json"
+    },
+    {
+      "igdb_id": 331864,
+      "game_name": "Oshi no Ko Match Star",
+      "file": "missing/O/331864-oshi-no-ko-match-star.json"
     },
     {
       "igdb_id": 276468,
@@ -114768,6 +114848,11 @@
       "file": "missing/P/263236-paper-flight-future-battles.json"
     },
     {
+      "igdb_id": 331857,
+      "game_name": "Paper io 2: Complete Edition",
+      "file": "missing/P/331857-paper-io-2-complete-edition.json"
+    },
+    {
       "igdb_id": 245039,
       "game_name": "Paper Mario Eggstraordinary Egg Hunt",
       "file": "missing/P/245039-paper-mario-eggstraordinary-egg-hunt.json"
@@ -115263,6 +115348,11 @@
       "file": "missing/P/262670-park-beyond-beyond-extreme.json"
     },
     {
+      "igdb_id": 331856,
+      "game_name": "Park Beyond: Complete Edition",
+      "file": "missing/P/331856-park-beyond-complete-edition.json"
+    },
+    {
       "igdb_id": 146878,
       "game_name": "Park Inc",
       "file": "missing/P/146878-park-inc.json"
@@ -115676,6 +115766,11 @@
       "igdb_id": 154530,
       "game_name": "Pathfinder: Kingmaker - Enhanced Plus Edition",
       "file": "missing/P/154530-pathfinder-kingmaker-enhanced-plus-edition.json"
+    },
+    {
+      "igdb_id": 331855,
+      "game_name": "Pathfinder: Wrath of the Righteous - Game of the Year Edition",
+      "file": "missing/P/331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json"
     },
     {
       "igdb_id": 186869,
@@ -119188,6 +119283,11 @@
       "file": "missing/P/345486-planet-bom-bom.json"
     },
     {
+      "igdb_id": 331854,
+      "game_name": "Planet Coaster 2: Deluxe Edition",
+      "file": "missing/P/331854-planet-coaster-2-deluxe-edition.json"
+    },
+    {
       "igdb_id": 21036,
       "game_name": "Planet Crashers",
       "file": "missing/P/21036-planet-crashers.json"
@@ -121596,6 +121696,11 @@
       "igdb_id": 74422,
       "game_name": "Predator",
       "file": "missing/P/74422-predator.json"
+    },
+    {
+      "igdb_id": 331853,
+      "game_name": "Predator: Hunting Grounds - Jungle Edition",
+      "file": "missing/P/331853-predator-hunting-grounds-jungle-edition.json"
     },
     {
       "igdb_id": 251832,
@@ -125858,6 +125963,11 @@
       "file": "missing/R/332801-railroads-online-explorer-dlc.json"
     },
     {
+      "igdb_id": 331852,
+      "game_name": "Railroads Online: Extended Edition",
+      "file": "missing/R/331852-railroads-online-extended-edition.json"
+    },
+    {
       "igdb_id": 332799,
       "game_name": "Railroads Online: Pioneer DLC",
       "file": "missing/R/332799-railroads-online-pioneer-dlc.json"
@@ -129108,6 +129218,11 @@
       "file": "missing/R/55915-retroraider-three-crystals.json"
     },
     {
+      "igdb_id": 331841,
+      "game_name": "RetroRealms Double Feature: Halloween and Ash vs. Evil Dead - Day One Edition",
+      "file": "missing/R/331841-retrorealms-double-feature-halloween-and-ash-vs-evil-dead-day-one-edition.json"
+    },
+    {
       "igdb_id": 313490,
       "game_name": "RetroRealms: Ash vs. Evil Dead",
       "file": "missing/R/313490-retrorealms-ash-vs-evil-dead.json"
@@ -131116,6 +131231,11 @@
       "igdb_id": 252378,
       "game_name": "Rocket League: Season 11",
       "file": "missing/R/252378-rocket-league-season-11.json"
+    },
+    {
+      "igdb_id": 331860,
+      "game_name": "Rocket League: Season 17 Rocketeer Pack",
+      "file": "missing/R/331860-rocket-league-season-17-rocketeer-pack.json"
     },
     {
       "igdb_id": 366846,
@@ -133283,6 +133403,11 @@
       "file": "missing/R/381635-rushcremental.json"
     },
     {
+      "igdb_id": 331877,
+      "game_name": "Rushmith",
+      "file": "missing/R/331877-rushmith.json"
+    },
+    {
       "igdb_id": 106568,
       "game_name": "Russian bank - card game",
       "file": "missing/R/106568-russian-bank-card-game.json"
@@ -133998,6 +134123,11 @@
       "file": "missing/S/19669-saiyuuki-world-2-tenjoukai-no-majin.json"
     },
     {
+      "igdb_id": 331884,
+      "game_name": "Sakamoto Dangerous Barrage",
+      "file": "missing/S/331884-sakamoto-dangerous-barrage.json"
+    },
+    {
       "igdb_id": 97859,
       "game_name": "Sakata Goro Kudan no Renju Kyoushitsu",
       "file": "missing/S/97859-sakata-goro-kudan-no-renju-kyoushitsu.json"
@@ -134411,6 +134541,11 @@
       "igdb_id": 167836,
       "game_name": "Samurai Shodown: Baiken",
       "file": "missing/S/167836-samurai-shodown-baiken.json"
+    },
+    {
+      "igdb_id": 331842,
+      "game_name": "Samurai Shodown: Deluxe Edition",
+      "file": "missing/S/331842-samurai-shodown-deluxe-edition.json"
     },
     {
       "igdb_id": 378783,
@@ -135658,6 +135793,11 @@
       "file": "missing/S/401536-scorched-lands.json"
     },
     {
+      "igdb_id": 331873,
+      "game_name": "Scorching Strings",
+      "file": "missing/S/331873-scorching-strings.json"
+    },
+    {
       "igdb_id": 402905,
       "game_name": "Scorchy Sky Trials",
       "file": "missing/S/402905-scorchy-sky-trials.json"
@@ -135676,6 +135816,11 @@
       "igdb_id": 193464,
       "game_name": "Scorpion Overdrive",
       "file": "missing/S/193464-scorpion-overdrive.json"
+    },
+    {
+      "igdb_id": 331870,
+      "game_name": "Scott I Project",
+      "file": "missing/S/331870-scott-i-project.json"
     },
     {
       "igdb_id": 7448,
@@ -137228,6 +137373,11 @@
       "file": "missing/S/321131-sesari-1.json"
     },
     {
+      "igdb_id": 331843,
+      "game_name": "Session: Skate Sim Year One & Two Edition",
+      "file": "missing/S/331843-session-skate-sim-year-one-and-two-edition.json"
+    },
+    {
       "igdb_id": 186861,
       "game_name": "Set 'N Det",
       "file": "missing/S/186861-set-n-det.json"
@@ -137748,9 +137898,19 @@
       "file": "missing/S/264319-shadow-stalker.json"
     },
     {
+      "igdb_id": 331844,
+      "game_name": "Shadow Tactics: Aiko's Choice - Deluxe Edition",
+      "file": "missing/S/331844-shadow-tactics-aikos-choice-deluxe-edition.json"
+    },
+    {
       "igdb_id": 19085,
       "game_name": "Shadow Tactics: Blades of the Shogun",
       "file": "missing/S/19085-shadow-tactics-blades-of-the-shogun.json"
+    },
+    {
+      "igdb_id": 331845,
+      "game_name": "Shadow Tactics: Blades of the Shogun - Deluxe Edition",
+      "file": "missing/S/331845-shadow-tactics-blades-of-the-shogun-deluxe-edition.json"
     },
     {
       "igdb_id": 356631,
@@ -141818,6 +141978,11 @@
       "file": "missing/S/239311-slither-io.json"
     },
     {
+      "igdb_id": 331846,
+      "game_name": "Slitterhead: Deluxe Edition",
+      "file": "missing/S/331846-slitterhead-deluxe-edition.json"
+    },
+    {
       "igdb_id": 59405,
       "game_name": "Sloane and MacHale's Mysterious Stories 2",
       "file": "missing/S/59405-sloane-and-machales-mysterious-stories-2.json"
@@ -142151,6 +142316,21 @@
       "igdb_id": 371236,
       "game_name": "Smirkers",
       "file": "missing/S/371236-smirkers.json"
+    },
+    {
+      "igdb_id": 331849,
+      "game_name": "Smite 2: Deluxe Founder's Edition",
+      "file": "missing/S/331849-smite-2-deluxe-founders-edition.json"
+    },
+    {
+      "igdb_id": 331848,
+      "game_name": "Smite 2: Founder's Edition",
+      "file": "missing/S/331848-smite-2-founders-edition.json"
+    },
+    {
+      "igdb_id": 331847,
+      "game_name": "Smite 2: Ultimate Founder's Edition",
+      "file": "missing/S/331847-smite-2-ultimate-founders-edition.json"
     },
     {
       "igdb_id": 26693,
@@ -143598,6 +143778,11 @@
       "file": "missing/S/400893-soma-spirits.json"
     },
     {
+      "igdb_id": 331871,
+      "game_name": "Somari Insanity",
+      "file": "missing/S/331871-somari-insanity.json"
+    },
+    {
       "igdb_id": 198522,
       "game_name": "Somari the Adventurer",
       "file": "missing/S/198522-somari-the-adventurer.json"
@@ -143881,6 +144066,16 @@
       "igdb_id": 334684,
       "game_name": "Sonic and the Dragon's Path",
       "file": "missing/S/334684-sonic-and-the-dragons-path.json"
+    },
+    {
+      "igdb_id": 331867,
+      "game_name": "Sonic Arena",
+      "file": "missing/S/331867-sonic-arena.json"
+    },
+    {
+      "igdb_id": 331868,
+      "game_name": "Sonic Arena 2",
+      "file": "missing/S/331868-sonic-arena-2.json"
     },
     {
       "igdb_id": 332260,
@@ -144188,6 +144383,11 @@
       "file": "missing/S/331706-sonic-reshuffled.json"
     },
     {
+      "igdb_id": 331869,
+      "game_name": "Sonic Revolution",
+      "file": "missing/S/331869-sonic-revolution.json"
+    },
+    {
       "igdb_id": 337111,
       "game_name": "Sonic Riders Tournament Edition 2.0",
       "file": "missing/S/337111-sonic-riders-tournament-edition-2-0.json"
@@ -144246,6 +144446,11 @@
       "igdb_id": 274722,
       "game_name": "Sonic Spinball: Life Savers",
       "file": "missing/S/274722-sonic-spinball-life-savers.json"
+    },
+    {
+      "igdb_id": 331865,
+      "game_name": "Sonic Stars",
+      "file": "missing/S/331865-sonic-stars.json"
     },
     {
       "igdb_id": 316424,
@@ -145291,6 +145496,11 @@
       "igdb_id": 247778,
       "game_name": "Space Engineers: Automatons",
       "file": "missing/S/247778-space-engineers-automatons.json"
+    },
+    {
+      "igdb_id": 331850,
+      "game_name": "Space Engineers: Ultimate Edition 2024",
+      "file": "missing/S/331850-space-engineers-ultimate-edition-2024.json"
     },
     {
       "igdb_id": 202960,
@@ -148153,6 +148363,11 @@
       "file": "missing/S/19627-star-trek-klingon-academy.json"
     },
     {
+      "igdb_id": 331851,
+      "game_name": "Star Trek: Legends - Complete Edition",
+      "file": "missing/S/331851-star-trek-legends-complete-edition.json"
+    },
+    {
       "igdb_id": 365694,
       "game_name": "Star Trek: The Next Generation",
       "file": "missing/S/365694-star-trek-the-next-generation.json"
@@ -150041,6 +150256,11 @@
       "igdb_id": 339659,
       "game_name": "Strange Pong",
       "file": "missing/S/339659-strange-pong.json"
+    },
+    {
+      "igdb_id": 331879,
+      "game_name": "Strange Pool",
+      "file": "missing/S/331879-strange-pool.json"
     },
     {
       "igdb_id": 344395,
@@ -174793,6 +175013,11 @@
       "file": "missing/T/239346-turtle-evolution.json"
     },
     {
+      "igdb_id": 331872,
+      "game_name": "Turtle Racing",
+      "file": "missing/T/331872-turtle-racing.json"
+    },
+    {
       "igdb_id": 253071,
       "game_name": "Turtle WoW: Mysteries of Azeroth",
       "file": "missing/T/253071-turtle-wow-mysteries-of-azeroth.json"
@@ -174851,6 +175076,11 @@
       "igdb_id": 24935,
       "game_name": "Twerps",
       "file": "missing/T/24935-twerps.json"
+    },
+    {
+      "igdb_id": 331887,
+      "game_name": "Twilight Apartment",
+      "file": "missing/T/331887-twilight-apartment.json"
     },
     {
       "igdb_id": 382197,
@@ -179288,6 +179518,11 @@
       "file": "missing/V/147478-virus-the-outbreak.json"
     },
     {
+      "igdb_id": 331878,
+      "game_name": "ViruStream",
+      "file": "missing/V/331878-virustream.json"
+    },
+    {
       "igdb_id": 210860,
       "game_name": "Virusum",
       "file": "missing/V/210860-virusum.json"
@@ -180081,6 +180316,11 @@
       "igdb_id": 84277,
       "game_name": "Vtoraya Mirovaya: Izdanie Vtoroe",
       "file": "missing/V/84277-vtoraya-mirovaya-izdanie-vtoroe.json"
+    },
+    {
+      "igdb_id": 331888,
+      "game_name": "VTuber Battle: It’s Not About Subscribers! It’s All About Power!",
+      "file": "missing/V/331888-vtuber-battle-it-s-not-about-subscribers-it-s-all-about-power.json"
     },
     {
       "igdb_id": 110331,
@@ -187313,6 +187553,11 @@
       "file": "missing/Y/257650-yuji-nakas-nes-game.json"
     },
     {
+      "igdb_id": 331875,
+      "game_name": "Yukai de Kudaranai Game",
+      "file": "missing/Y/331875-yukai-de-kudaranai-game.json"
+    },
+    {
       "igdb_id": 164514,
       "game_name": "Yukiguni no Shoujo",
       "file": "missing/Y/164514-yukiguni-no-shoujo.json"
@@ -187496,6 +187741,11 @@
       "igdb_id": 175976,
       "game_name": "Yurukill: The Calumniation Games - Deluxe Edition",
       "file": "missing/Y/175976-yurukill-the-calumniation-games-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 331863,
+      "game_name": "Yusha no Hanamichi",
+      "file": "missing/Y/331863-yusha-no-hanamichi.json"
     },
     {
       "igdb_id": 353873,
