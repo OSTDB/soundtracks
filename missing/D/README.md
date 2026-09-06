@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution: Hottest Party 4 | 50733 | [50733-dance-dance-revolution-hottest-party-4.json](./50733-dance-dance-revolution-hottest-party-4.json) |
 | Dance Factory | 20560 | [20560-dance-factory.json](./20560-dance-factory.json) |
 | Dance Fever HD | 232150 | [232150-dance-fever-hd.json](./232150-dance-fever-hd.json) |
+| Dance Mania | 330184 | [330184-dance-mania.json](./330184-dance-mania.json) |
 | Dance of Cubes | 170552 | [170552-dance-of-cubes.json](./170552-dance-of-cubes.json) |
 | Dance of the Butterflies | 412278 | [412278-dance-of-the-butterflies.json](./412278-dance-of-the-butterflies.json) |
 | Dance With Zombies | 127319 | [127319-dance-with-zombies.json](./127319-dance-with-zombies.json) |
@@ -1892,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill and Delve | 382231 | [382231-drill-and-delve.json](./382231-drill-and-delve.json) |
 | Drill Core: The Machine World | 399016 | [399016-drill-core-the-machine-world.json](./399016-drill-core-the-machine-world.json) |
 | Drink Beer, Neglect Family | 185673 | [185673-drink-beer-neglect-family.json](./185673-drink-beer-neglect-family.json) |
+| Drinking in the Hot Spring! | 330180 | [330180-drinking-in-the-hot-spring.json](./330180-drinking-in-the-hot-spring.json) |
 | Drive Ahead! Carcade | 321142 | [321142-drive-ahead-carcade.json](./321142-drive-ahead-carcade.json) |
 | Drive Beyond Horizons | 290959 | [290959-drive-beyond-horizons.json](./290959-drive-beyond-horizons.json) |
 | Drive Drift X | 187487 | [187487-drive-drift-x.json](./187487-drive-drift-x.json) |
@@ -1976,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Dash Delivery | 398320 | [398320-duck-dash-delivery.json](./398320-duck-dash-delivery.json) |
 | Duck Detective: The Secret Salami | 279374 | [279374-duck-detective-the-secret-salami.json](./279374-duck-detective-the-secret-salami.json) |
 | Duck Duck Goose | 358870 | [358870-duck-duck-goose.json](./358870-duck-duck-goose.json) |
+| Duck Duck Shoot | 330181 | [330181-duck-duck-shoot.json](./330181-duck-duck-shoot.json) |
 | Duck Duck Swap | 218155 | [218155-duck-duck-swap.json](./218155-duck-duck-swap.json) |
 | Duck Dynasty: Battle of the Beards | 234327 | [234327-duck-dynasty-battle-of-the-beards.json](./234327-duck-dynasty-battle-of-the-beards.json) |
 | Duck Guardian One | 135883 | [135883-duck-guardian-one.json](./135883-duck-guardian-one.json) |
@@ -2018,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dum Dum Dinos | 138221 | [138221-dum-dum-dinos.json](./138221-dum-dum-dinos.json) |
 | Dumb Little Creatures | 109683 | [109683-dumb-little-creatures.json](./109683-dumb-little-creatures.json) |
 | Dumb Ways to Survive | 297229 | [297229-dumb-ways-to-survive.json](./297229-dumb-ways-to-survive.json) |
+| Dumbot | 330173 | [330173-dumbot.json](./330173-dumbot.json) |
 | Dumbriel: Magnificent Adventure in Hell | 260404 | [260404-dumbriel-magnificent-adventure-in-hell.json](./260404-dumbriel-magnificent-adventure-in-hell.json) |
 | Dummy Never Fails | 234902 | [234902-dummy-never-fails.json](./234902-dummy-never-fails.json) |
 | Dummy Never Fails 2 | 234903 | [234903-dummy-never-fails-2.json](./234903-dummy-never-fails-2.json) |
