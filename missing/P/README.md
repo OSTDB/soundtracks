@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painter | 262091 | [262091-painter.json](./262091-painter.json) |
 | Painter Man!! | 342623 | [342623-painter-man.json](./342623-painter-man.json) |
 | Painting VR: Cozy Cabin | 305541 | [305541-painting-vr-cozy-cabin.json](./305541-painting-vr-cozy-cabin.json) |
+| Paintings Restoration | 329576 | [329576-paintings-restoration.json](./329576-paintings-restoration.json) |
 | Pair Matching Puzzle Connect | 163440 | [163440-pair-matching-puzzle-connect.json](./163440-pair-matching-puzzle-connect.json) |
 | Pair Matching Puzzle Connect: Expansion Pack 1 | 163450 | [163450-pair-matching-puzzle-connect-expansion-pack-1.json](./163450-pair-matching-puzzle-connect-expansion-pack-1.json) |
 | Pair Matching Puzzle Connect: Expansion Pack 11 | 163443 | [163443-pair-matching-puzzle-connect-expansion-pack-11.json](./163443-pair-matching-puzzle-connect-expansion-pack-11.json) |
@@ -1436,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popgoes: Lost Dreams | 250606 | [250606-popgoes-lost-dreams.json](./250606-popgoes-lost-dreams.json) |
 | PopIdle | 294461 | [294461-popidle.json](./294461-popidle.json) |
 | Popil | 264314 | [264314-popil.json](./264314-popil.json) |
+| Popoposan | 329555 | [329555-popoposan.json](./329555-popoposan.json) |
 | PoPoRoGue | 79937 | [79937-poporogue.json](./79937-poporogue.json) |
 | Poppit! Party | 354993 | [354993-poppit-party.json](./354993-poppit-party.json) |
 | Poppy Kart 2 | 366248 | [366248-poppy-kart-2.json](./366248-poppy-kart-2.json) |
