@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Rhea | 119026 | [119026-kingdom-of-rhea.json](./119026-kingdom-of-rhea.json) |
 | Kingdom Run VR | 235469 | [235469-kingdom-run-vr.json](./235469-kingdom-run-vr.json) |
 | Kingdom Rush 5: Alliance | 296924 | [296924-kingdom-rush-5-alliance.json](./296924-kingdom-rush-5-alliance.json) |
+| Kingdom Rush: Battles | 365682 | [365682-kingdom-rush-battles.json](./365682-kingdom-rush-battles.json) |
 | Kingdom Two Crowns: Jarl Edition | 186896 | [186896-kingdom-two-crowns-jarl-edition.json](./186896-kingdom-two-crowns-jarl-edition.json) |
 | Kingdom Two Crowns: Norse Lands | 175663 | [175663-kingdom-two-crowns-norse-lands.json](./175663-kingdom-two-crowns-norse-lands.json) |
 | Kingdom Warriors | 58240 | [58240-kingdom-warriors.json](./58240-kingdom-warriors.json) |
