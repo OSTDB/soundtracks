@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Titans | 91424 | [91424-tap-titans.json](./91424-tap-titans.json) |
 | TapColors | 89712 | [89712-tapcolors.json](./89712-tapcolors.json) |
 | Tape To Tape | 190280 | [190280-tape-to-tape.json](./190280-tape-to-tape.json) |
+| Tape Us Out | 332402 | [332402-tape-us-out.json](./332402-tape-us-out.json) |
 | Tapeçaria | 334711 | [334711-tapecaria.json](./334711-tapecaria.json) |
 | Tapgym | 261515 | [261515-tapgym.json](./261515-tapgym.json) |
 | Tapioka Panic | 259829 | [259829-tapioka-panic.json](./259829-tapioka-panic.json) |
@@ -938,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Complex | 119178 | [119178-the-complex.json](./119178-the-complex.json) |
 | The Complex: Expedition | 223188 | [223188-the-complex-expedition.json](./223188-the-complex-expedition.json) |
 | The Condition | 373548 | [373548-the-condition.json](./373548-the-condition.json) |
+| The Confinement | 332413 | [332413-the-confinement.json](./332413-the-confinement.json) |
 | The Contract | 177530 | [177530-the-contract.json](./177530-the-contract.json) |
 | The Cook in the Court of the Count | 397669 | [397669-the-cook-in-the-court-of-the-count.json](./397669-the-cook-in-the-court-of-the-count.json) |
 | The Cool Guys Are Level 100 | 316409 | [316409-the-cool-guys-are-level-100.json](./316409-the-cool-guys-are-level-100.json) |
@@ -2123,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Story of King Aress | 125464 | [125464-the-story-of-king-aress.json](./125464-the-story-of-king-aress.json) |
 | The StoryTeller | 324670 | [324670-the-storyteller.json](./324670-the-storyteller.json) |
 | The Stranger | 57143 | [57143-the-stranger.json](./57143-the-stranger.json) |
+| The Stranger From the Bus Stop | 332396 | [332396-the-stranger-from-the-bus-stop.json](./332396-the-stranger-from-the-bus-stop.json) |
 | The Stray Laboratory | 302668 | [302668-the-stray-laboratory.json](./302668-the-stray-laboratory.json) |
 | The Stroke of Midnight | 99611 | [99611-the-stroke-of-midnight.json](./99611-the-stroke-of-midnight.json) |
 | The Strongest Ancestor | 301614 | [301614-the-strongest-ancestor.json](./301614-the-strongest-ancestor.json) |
@@ -2456,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thievery | 105326 | [105326-thievery.json](./105326-thievery.json) |
 | Thieves | 335875 | [335875-thieves.json](./335875-thieves.json) |
 | Thieves Guild Master | 413662 | [413662-thieves-guild-master.json](./413662-thieves-guild-master.json) |
+| Thin Threads | 332415 | [332415-thin-threads.json](./332415-thin-threads.json) |
 | Thing-Thing Arena 3 | 234938 | [234938-thing-thing-arena-3.json](./234938-thing-thing-arena-3.json) |
 | Things on Wheels | 72727 | [72727-things-on-wheels.json](./72727-things-on-wheels.json) |
 | Think in Two | 388758 | [388758-think-in-two.json](./388758-think-in-two.json) |
