@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JNZ: Nightmare Girls | 340773 | [340773-jnz-nightmare-girls.json](./340773-jnz-nightmare-girls.json) |
 | Jo's Dream: Organic Coffee | 123638 | [123638-jos-dream-organic-coffee.json](./123638-jos-dream-organic-coffee.json) |
 | Joan Jade and the Gates of Xibalba | 53248 | [53248-joan-jade-and-the-gates-of-xibalba.json](./53248-joan-jade-and-the-gates-of-xibalba.json) |
+| Job Battle Simulator: Accurate Physics Showdown | 348253 | [348253-job-battle-simulator-accurate-physics-showdown.json](./348253-job-battle-simulator-accurate-physics-showdown.json) |
 | Job Fit For a Devil | 369044 | [369044-job-fit-for-a-devil.json](./369044-job-fit-for-a-devil.json) |
 | Job Hunter 202X | 375822 | [375822-job-hunter-202x.json](./375822-job-hunter-202x.json) |
 | Jobifai | 340774 | [340774-jobifai.json](./340774-jobifai.json) |
@@ -376,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumper's Doom | 351634 | [351634-jumpers-doom.json](./351634-jumpers-doom.json) |
 | Jumpers League | 329960 | [329960-jumpers-league.json](./329960-jumpers-league.json) |
 | Jumphobia | 55946 | [55946-jumphobia.json](./55946-jumphobia.json) |
+| Jumping Fish | 348236 | [348236-jumping-fish.json](./348236-jumping-fish.json) |
 | Jumping Flash! | 7432 | [7432-jumping-flash.json](./7432-jumping-flash.json) |
 | Jumping Henry | 340779 | [340779-jumping-henry.json](./340779-jumping-henry.json) |
 | Jumping Jack | 340780 | [340780-jumping-jack.json](./340780-jumping-jack.json) |
