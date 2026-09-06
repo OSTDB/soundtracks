@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie New Horizons | 135260 | [135260-banjo-kazooie-new-horizons.json](./135260-banjo-kazooie-new-horizons.json) |
 | Banjo-Kazooie Worlds Collide | 135259 | [135259-banjo-kazooie-worlds-collide.json](./135259-banjo-kazooie-worlds-collide.json) |
 | Banjo-Pilot | 6316 | [6316-banjo-pilot.json](./6316-banjo-pilot.json) |
+| Bank Robber | 319569 | [319569-bank-robber.json](./319569-bank-robber.json) |
 | Bankruptcy | 292283 | [292283-bankruptcy.json](./292283-bankruptcy.json) |
 | Bankshot Billiards 2 | 20523 | [20523-bankshot-billiards-2.json](./20523-bankshot-billiards-2.json) |
 | Bannerlands | 413683 | [413683-bannerlands.json](./413683-bannerlands.json) |
@@ -451,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bastion of Beginnings | 297783 | [297783-bastion-of-beginnings.json](./297783-bastion-of-beginnings.json) |
 | Bat Blast! | 275880 | [275880-bat-blast.json](./275880-bat-blast.json) |
 | Bat Blitz | 248323 | [248323-bat-blitz.json](./248323-bat-blitz.json) |
+| Bat Cage | 319570 | [319570-bat-cage.json](./319570-bat-cage.json) |
 | Bat of Dead | 233252 | [233252-bat-of-dead.json](./233252-bat-of-dead.json) |
 | Bat Tap | 338196 | [338196-bat-tap.json](./338196-bat-tap.json) |
 | BataGacha! | 121031 | [121031-batagacha.json](./121031-batagacha.json) |
@@ -1167,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Rose Valkyrie | 137079 | [137079-black-rose-valkyrie.json](./137079-black-rose-valkyrie.json) |
 | Black Sand Drift: Collector's Edition | 52627 | [52627-black-sand-drift-collectors-edition.json](./52627-black-sand-drift-collectors-edition.json) |
 | Black Shadow | 14310 | [14310-black-shadow.json](./14310-black-shadow.json) |
+| Black Star | 319571 | [319571-black-star.json](./319571-black-star.json) |
 | Black Stone: Magic & Steel | 5750 | [5750-black-stone-magic-and-steel.json](./5750-black-stone-magic-and-steel.json) |
 | Black Swan: Collector's Edition | 196315 | [196315-black-swan-collectors-edition.json](./196315-black-swan-collectors-edition.json) |
 | Black Tower | 58824 | [58824-black-tower.json](./58824-black-tower.json) |
@@ -1903,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking Wheel | 30857 | [30857-breaking-wheel.json](./30857-breaking-wheel.json) |
 | BreakLoop | 383953 | [383953-breakloop.json](./383953-breakloop.json) |
 | Breakout 2000 | 40816 | [40816-breakout-2000.json](./40816-breakout-2000.json) |
+| Breakout 3 | 319572 | [319572-breakout-3.json](./319572-breakout-3.json) |
 | Breakout 3000 | 73293 | [73293-breakout-3000.json](./73293-breakout-3000.json) |
 | Breakout Birdie Escape | 278658 | [278658-breakout-birdie-escape.json](./278658-breakout-birdie-escape.json) |
 | Breakout Birdie Panic | 278661 | [278661-breakout-birdie-panic.json](./278661-breakout-birdie-panic.json) |
@@ -2170,6 +2174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumbledore | 16348 | [16348-bumbledore.json](./16348-bumbledore.json) |
 | Bumblepig | 94735 | [94735-bumblepig.json](./94735-bumblepig.json) |
 | Bump and Run Racing | 265396 | [265396-bump-and-run-racing.json](./265396-bump-and-run-racing.json) |
+| Bumper 7 | 319574 | [319574-bumper-7.json](./319574-bumper-7.json) |
 | Bumper Wars | 71534 | [71534-bumper-wars.json](./71534-bumper-wars.json) |
 | Bumpy's Arcade Fantasy | 11724 | [11724-bumpys-arcade-fantasy.json](./11724-bumpys-arcade-fantasy.json) |
 | Bun Wars: Best of fun for Boys Girls and Kids | 101533 | [101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json](./101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json) |
@@ -2287,4 +2292,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byflvgvr | 306686 | [306686-byflvgvr.json](./306686-byflvgvr.json) |
 | Bygone Worlds: Jerusalem | 74446 | [74446-bygone-worlds-jerusalem.json](./74446-bygone-worlds-jerusalem.json) |
 | Byte Wars | 360578 | [360578-byte-wars.json](./360578-byte-wars.json) |
+| Byter | 319575 | [319575-byter.json](./319575-byter.json) |
 | Bythzkel-Sombréa | 311820 | [311820-bythzkel-sombrea.json](./311820-bythzkel-sombrea.json) |
