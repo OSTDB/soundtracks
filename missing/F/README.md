@@ -724,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Frog | 136457 | [136457-first-frog.json](./136457-first-frog.json) |
 | First Made Break Rock | 395542 | [395542-first-made-break-rock.json](./395542-first-made-break-rock.json) |
 | First Odium | 236010 | [236010-first-odium.json](./236010-first-odium.json) |
+| First Person Shouter | 332978 | [332978-first-person-shouter.json](./332978-first-person-shouter.json) |
 | First Queen | 302697 | [302697-first-queen.json](./302697-first-queen.json) |
 | First Queen II | 302698 | [302698-first-queen-ii.json](./302698-first-queen-ii.json) |
 | First Queen III | 302699 | [302699-first-queen-iii.json](./302699-first-queen-iii.json) |
@@ -742,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Duel | 109686 | [109686-fish-duel.json](./109686-fish-duel.json) |
 | Fish Eyes | 383959 | [383959-fish-eyes.json](./383959-fish-eyes.json) |
 | Fish Face | 353895 | [353895-fish-face.json](./353895-fish-face.json) |
+| Fish Fight! | 332998 | [332998-fish-fight.json](./332998-fish-fight.json) |
 | Fish Fly Fever | 134685 | [134685-fish-fly-fever.json](./134685-fish-fly-fever.json) |
 | Fish Game | 381020 | [381020-fish-game.json](./381020-fish-game.json) |
 | Fish Kiss | 184088 | [184088-fish-kiss.json](./184088-fish-kiss.json) |
@@ -1574,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funfair Billionaire | 334493 | [334493-funfair-billionaire.json](./334493-funfair-billionaire.json) |
 | Fungal Colony Simulator | 257690 | [257690-fungal-colony-simulator.json](./257690-fungal-colony-simulator.json) |
 | FungEye | 291235 | [291235-fungeye.json](./291235-fungeye.json) |
+| Fungi Fantastico | 333013 | [333013-fungi-fantastico.json](./333013-fungi-fantastico.json) |
 | Fungoids: Steam Version | 93613 | [93613-fungoids-steam-version.json](./93613-fungoids-steam-version.json) |
 | Fungus Reaper | 248882 | [248882-fungus-reaper.json](./248882-fungus-reaper.json) |
 | Funguys Swarm | 332851 | [332851-funguys-swarm.json](./332851-funguys-swarm.json) |
