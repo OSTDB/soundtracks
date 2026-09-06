@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calypso | 140021 | [140021-calypso.json](./140021-calypso.json) |
 | Calyx | 331102 | [331102-calyx.json](./331102-calyx.json) |
 | Cambell’s Oddity Box | 387368 | [387368-cambell-s-oddity-box.json](./387368-cambell-s-oddity-box.json) |
+| Cambria | 344349 | [344349-cambria.json](./344349-cambria.json) |
 | Camelot | 141242 | [141242-camelot.json](./141242-camelot.json) |
 | Camelot 2: The Holy Grail | 247766 | [247766-camelot-2-the-holy-grail.json](./247766-camelot-2-the-holy-grail.json) |
 | CameraBag 2 | 379380 | [379380-camerabag-2.json](./379380-camerabag-2.json) |
@@ -1274,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coiny Block | 98441 | [98441-coiny-block.json](./98441-coiny-block.json) |
 | Coke Bugs | 265398 | [265398-coke-bugs.json](./265398-coke-bugs.json) |
 | CoLab | 31943 | [31943-colab.json](./31943-colab.json) |
+| Cold | 344370 | [344370-cold.json](./344370-cold.json) |
 | Cold Abyss | 275906 | [275906-cold-abyss.json](./275906-cold-abyss.json) |
 | Cold Bite | 115008 | [115008-cold-bite.json](./115008-cold-bite.json) |
 | Cold Case Files | 57683 | [57683-cold-case-files.json](./57683-cold-case-files.json) |
