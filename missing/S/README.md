@@ -1184,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege of Syracuse | 413001 | [413001-siege-of-syracuse.json](./413001-siege-of-syracuse.json) |
 | Siegius | 319986 | [319986-siegius.json](./319986-siegius.json) |
 | Sienna | 51221 | [51221-sienna.json](./51221-sienna.json) |
+| Sierra Ridge Technologies | 349315 | [349315-sierra-ridge-technologies.json](./349315-sierra-ridge-technologies.json) |
 | Sierra's 3-D Helicopter Simulator | 72087 | [72087-sierras-3-d-helicopter-simulator.json](./72087-sierras-3-d-helicopter-simulator.json) |
 | Sift Heads | 209633 | [209633-sift-heads.json](./209633-sift-heads.json) |
 | Sift Heads 1: Remasterized | 359423 | [359423-sift-heads-1-remasterized.json](./359423-sift-heads-1-remasterized.json) |
@@ -1908,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitude | 163970 | [163970-solitude.json](./163970-solitude.json) |
 | Solm | 183079 | [183079-solm.json](./183079-solm.json) |
 | Solo Chess | 372985 | [372985-solo-chess.json](./372985-solo-chess.json) |
+| Solo Leveling: Arise Overdrive | 349302 | [349302-solo-leveling-arise-overdrive.json](./349302-solo-leveling-arise-overdrive.json) |
 | Solomania | 329378 | [329378-solomania.json](./329378-solomania.json) |
 | Solomon's Keep | 132812 | [132812-solomons-keep.json](./132812-solomons-keep.json) |
 | Solous | 133466 | [133466-solous.json](./133466-solous.json) |
@@ -3008,6 +3010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Warfare | 143701 | [143701-stellar-warfare.json](./143701-stellar-warfare.json) |
 | Stellar!: Infinity defense | 299453 | [299453-stellar-infinity-defense.json](./299453-stellar-infinity-defense.json) |
 | Stellaren: Acrux | 132223 | [132223-stellaren-acrux.json](./132223-stellaren-acrux.json) |
+| StellarFish | 349312 | [349312-stellarfish.json](./349312-stellarfish.json) |
 | Stellaris: Aquatics Species Pack | 218168 | [218168-stellaris-aquatics-species-pack.json](./218168-stellaris-aquatics-species-pack.json) |
 | Stellaris: Humanoids | 114426 | [114426-stellaris-humanoids.json](./114426-stellaris-humanoids.json) |
 | Stellaris: Overlord | 196297 | [196297-stellaris-overlord.json](./196297-stellaris-overlord.json) |
