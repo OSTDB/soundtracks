@@ -838,3 +838,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IWL: Interstellar Wrestling League - 036: Mod - Jacob's Ladder | 363412 | [363412-iwl-interstellar-wrestling-league-036-mod-jacobs-ladder.json](./363412-iwl-interstellar-wrestling-league-036-mod-jacobs-ladder.json) |
 | Izmir: An Independence Simulator | 196294 | [196294-izmir-an-independence-simulator.json](./196294-izmir-an-independence-simulator.json) |
 | Izolated | 295532 | [295532-izolated.json](./295532-izolated.json) |
+| Izurana's Walk | 357248 | [357248-izuranas-walk.json](./357248-izuranas-walk.json) |
