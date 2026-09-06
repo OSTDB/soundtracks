@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Invasion | 67331 | [67331-viking-invasion.json](./67331-viking-invasion.json) |
 | Viking Invasion 2 - Tower Defense | 85476 | [85476-viking-invasion-2-tower-defense.json](./85476-viking-invasion-2-tower-defense.json) |
 | Viking: Sigurd's Adventure | 115000 | [115000-viking-sigurds-adventure.json](./115000-viking-sigurds-adventure.json) |
+| Vikings Dynasty | 343265 | [343265-vikings-dynasty.json](./343265-vikings-dynasty.json) |
 | Vikings on Trampolines | 92493 | [92493-vikings-on-trampolines.json](./92493-vikings-on-trampolines.json) |
 | Vikings: Valhalla Saga | 228120 | [228120-vikings-valhalla-saga.json](./228120-vikings-valhalla-saga.json) |
 | Viktor: Enforcer Edition | 53871 | [53871-viktor-enforcer-edition.json](./53871-viktor-enforcer-edition.json) |
