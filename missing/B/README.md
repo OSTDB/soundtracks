@@ -800,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bellwright | 244040 | [244040-bellwright.json](./244040-bellwright.json) |
 | Belongings | 158707 | [158707-belongings.json](./158707-belongings.json) |
 | Below | 377564 | [377564-below.json](./377564-below.json) |
+| Below Benni's | 335249 | [335249-below-bennis.json](./335249-below-bennis.json) |
 | Below Nowhere | 343824 | [343824-below-nowhere.json](./343824-below-nowhere.json) |
 | Below the Ocean | 173312 | [173312-below-the-ocean.json](./173312-below-the-ocean.json) |
 | Beluflin: Beautiful Luminous Flying Insects | 325268 | [325268-beluflin-beautiful-luminous-flying-insects.json](./325268-beluflin-beautiful-luminous-flying-insects.json) |
@@ -1452,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blyte | 358867 | [358867-blyte.json](./358867-blyte.json) |
 | BMX Pipe | 102770 | [102770-bmx-pipe.json](./102770-bmx-pipe.json) |
 | BMX Simulator | 11973 | [11973-bmx-simulator.json](./11973-bmx-simulator.json) |
+| Bō: Path of the Teal Lotus - Tanuki Kabuki | 335294 | [335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json](./335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json) |
 | Boa Retina | 134663 | [134663-boa-retina.json](./134663-boa-retina.json) |
 | BOAA: Baako | 138222 | [138222-boaa-baako.json](./138222-boaa-baako.json) |
 | Board Games Gallery (10 Games) | 100168 | [100168-board-games-gallery-10-games.json](./100168-board-games-gallery-10-games.json) |
@@ -2127,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Bond | 265395 | [265395-bunny-bond.json](./265395-bunny-bond.json) |
 | Bunny Girl Story | 201844 | [201844-bunny-girl-story.json](./201844-bunny-girl-story.json) |
 | Bunny Hopper | 377049 | [377049-bunny-hopper.json](./377049-bunny-hopper.json) |
+| Bunny Hurling | 335286 | [335286-bunny-hurling.json](./335286-bunny-hurling.json) |
 | Bunny Madness Anarchy | 38995 | [38995-bunny-madness-anarchy.json](./38995-bunny-madness-anarchy.json) |
 | Bunny Minesweeper | 106579 | [106579-bunny-minesweeper.json](./106579-bunny-minesweeper.json) |
 | Bunny Prison Break | 250010 | [250010-bunny-prison-break.json](./250010-bunny-prison-break.json) |
