@@ -2028,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Cadence | 398360 | [398360-bubble-cadence.json](./398360-bubble-cadence.json) |
 | Bubble Cloud: Spinning Bubbles | 86774 | [86774-bubble-cloud-spinning-bubbles.json](./86774-bubble-cloud-spinning-bubbles.json) |
 | Bubble Crackle | 87321 | [87321-bubble-crackle.json](./87321-bubble-crackle.json) |
+| Bubble Dreams 3D | 330724 | [330724-bubble-dreams-3d.json](./330724-bubble-dreams-3d.json) |
 | Bubble Explosion Adventure | 87691 | [87691-bubble-explosion-adventure.json](./87691-bubble-explosion-adventure.json) |
 | Bubble Gun 3D | 150690 | [150690-bubble-gun-3d.json](./150690-bubble-gun-3d.json) |
 | Bubble Investor | 361727 | [361727-bubble-investor.json](./361727-bubble-investor.json) |
