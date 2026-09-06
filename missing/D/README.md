@@ -1388,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donut Drop by ABCya | 96075 | [96075-donut-drop-by-abcya.json](./96075-donut-drop-by-abcya.json) |
 | Donut Hockey | 373558 | [373558-donut-hockey.json](./373558-donut-hockey.json) |
 | Donut Maker | 232179 | [232179-donut-maker.json](./232179-donut-maker.json) |
+| Donut Shop Simulator | 348761 | [348761-donut-shop-simulator.json](./348761-donut-shop-simulator.json) |
 | Donuts 'N' Justice | 25932 | [25932-donuts-n-justice.json](./25932-donuts-n-justice.json) |
 | Donuts Runner | 251839 | [251839-donuts-runner.json](./251839-donuts-runner.json) |
 | Dooblets | 302657 | [302657-dooblets.json](./302657-dooblets.json) |
