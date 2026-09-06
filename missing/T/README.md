@@ -562,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrorhedron | 17378 | [17378-terrorhedron.json](./17378-terrorhedron.json) |
 | Terrorist Killer | 143755 | [143755-terrorist-killer.json](./143755-terrorist-killer.json) |
 | Terrorist Takedown: Payback | 54430 | [54430-terrorist-takedown-payback.json](./54430-terrorist-takedown-payback.json) |
+| Terrors to Unveil: Intrusion | 344352 | [344352-terrors-to-unveil-intrusion.json](./344352-terrors-to-unveil-intrusion.json) |
 | Terry's Treasure Trouble! | 265934 | [265934-terrys-treasure-trouble.json](./265934-terrys-treasure-trouble.json) |
 | Tesla Asteroids | 178643 | [178643-tesla-asteroids.json](./178643-tesla-asteroids.json) |
 | Tesla: The Weather Man | 54431 | [54431-tesla-the-weather-man.json](./54431-tesla-the-weather-man.json) |
@@ -710,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Astronomy Game | 156144 | [156144-the-astronomy-game.json](./156144-the-astronomy-game.json) |
 | The Asylum: Psychiatric Clinic for Abused Cuddly Toys | 66153 | [66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json](./66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json) |
 | The Atomy | 33124 | [33124-the-atomy.json](./33124-the-atomy.json) |
+| The Attack on Egg Harbor | 344357 | [344357-the-attack-on-egg-harbor.json](./344357-the-attack-on-egg-harbor.json) |
 | The Auto Sort Is Broken | 329363 | [329363-the-auto-sort-is-broken.json](./329363-the-auto-sort-is-broken.json) |
 | The Avengers | 86108 | [86108-the-avengers.json](./86108-the-avengers.json) |
 | The Awakened Avenger | 372467 | [372467-the-awakened-avenger.json](./372467-the-awakened-avenger.json) |
@@ -791,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blackout Club | 89562 | [89562-the-blackout-club.json](./89562-the-blackout-club.json) |
 | The Blackwell Convergence | 9039 | [9039-the-blackwell-convergence.json](./9039-the-blackwell-convergence.json) |
 | The Blackwell Legacy | 9043 | [9043-the-blackwell-legacy.json](./9043-the-blackwell-legacy.json) |
+| The Bleakest Keep | 344344 | [344344-the-bleakest-keep.json](./344344-the-bleakest-keep.json) |
 | The Blockheads Server | 87690 | [87690-the-blockheads-server.json](./87690-the-blockheads-server.json) |
 | The Blocks Cometh | 66103 | [66103-the-blocks-cometh.json](./66103-the-blocks-cometh.json) |
 | The Blood's Way | 364501 | [364501-the-bloods-way.json](./364501-the-bloods-way.json) |
@@ -953,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed Land | 306093 | [306093-the-cursed-land.json](./306093-the-cursed-land.json) |
 | The Cursed Oasis | 253607 | [253607-the-cursed-oasis.json](./253607-the-cursed-oasis.json) |
 | The Cursed Tape | 302677 | [302677-the-cursed-tape.json](./302677-the-cursed-tape.json) |
+| The Cursed Underground Parking Lot | 344351 | [344351-the-cursed-underground-parking-lot.json](./344351-the-cursed-underground-parking-lot.json) |
 | The Cute Whale | 378182 | [378182-the-cute-whale.json](./378182-the-cute-whale.json) |
 | The Cyclist: Tactics | 159354 | [159354-the-cyclist-tactics.json](./159354-the-cyclist-tactics.json) |
 | The Da Vinci Cryptex 2 | 278725 | [278725-the-da-vinci-cryptex-2.json](./278725-the-da-vinci-cryptex-2.json) |
@@ -1473,9 +1477,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Run: Dead Zombie Shooter | 209142 | [209142-the-last-run-dead-zombie-shooter.json](./209142-the-last-run-dead-zombie-shooter.json) |
 | The Last Secret | 199656 | [199656-the-last-secret.json](./199656-the-last-secret.json) |
 | The Last Shelter | 349844 | [349844-the-last-shelter.json](./349844-the-last-shelter.json) |
+| The Last Stand | 344396 | [344396-the-last-stand.json](./344396-the-last-stand.json) |
 | The Last Stand at Camp Zombie | 251812 | [251812-the-last-stand-at-camp-zombie.json](./251812-the-last-stand-at-camp-zombie.json) |
 | The Last Stand Legacy Collection | 158727 | [158727-the-last-stand-legacy-collection.json](./158727-the-last-stand-legacy-collection.json) |
 | The Last Taxi | 132822 | [132822-the-last-taxi.json](./132822-the-last-taxi.json) |
+| The Last Visit: 98th | 344345 | [344345-the-last-visit-98th.json](./344345-the-last-visit-98th.json) |
 | The Last Weekend | 31890 | [31890-the-last-weekend.json](./31890-the-last-weekend.json) |
 | The Last Wish | 27877 | [27877-the-last-wish.json](./27877-the-last-wish.json) |
 | The Last Wizard: A Goblin Detective Mystery | 389956 | [389956-the-last-wizard-a-goblin-detective-mystery.json](./389956-the-last-wizard-a-goblin-detective-mystery.json) |
@@ -1734,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Odd Neon Void | 132246 | [132246-the-odd-neon-void.json](./132246-the-odd-neon-void.json) |
 | The Offering | 238754 | [238754-the-offering.json](./238754-the-offering.json) |
 | The Office | 203564 | [203564-the-office.json](./203564-the-office.json) |
+| The Office Killer | 344386 | [344386-the-office-killer.json](./344386-the-office-killer.json) |
 | The Old Barn | 325287 | [325287-the-old-barn.json](./325287-the-old-barn.json) |
 | The Old Man Club | 59987 | [59987-the-old-man-club.json](./59987-the-old-man-club.json) |
 | The Oldest Edda | 190721 | [190721-the-oldest-edda.json](./190721-the-oldest-edda.json) |
@@ -1769,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Owlman of Mawnan Smith | 61084 | [61084-the-owlman-of-mawnan-smith.json](./61084-the-owlman-of-mawnan-smith.json) |
 | The Palace on the Hill | 153430 | [153430-the-palace-on-the-hill.json](./153430-the-palace-on-the-hill.json) |
 | The Paper Aircraft of Childhood | 268216 | [268216-the-paper-aircraft-of-childhood.json](./268216-the-paper-aircraft-of-childhood.json) |
+| The Paper Loop | 344369 | [344369-the-paper-loop.json](./344369-the-paper-loop.json) |
 | The Parish | 320549 | [320549-the-parish.json](./320549-the-parish.json) |
 | The Pathless | 113118 | [113118-the-pathless.json](./113118-the-pathless.json) |
 | The Patient: After Hours | 207495 | [207495-the-patient-after-hours.json](./207495-the-patient-after-hours.json) |
@@ -2720,6 +2728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timber Slash | 108473 | [108473-timber-slash.json](./108473-timber-slash.json) |
 | Timberveil | 382757 | [382757-timberveil.json](./382757-timberveil.json) |
 | Time | 130947 | [130947-time.json](./130947-time.json) |
+| Time Assassin | 344383 | [344383-time-assassin.json](./344383-time-assassin.json) |
 | Time Attack! RPG | 152382 | [152382-time-attack-rpg.json](./152382-time-attack-rpg.json) |
 | Time Crisis | 389440 | [389440-time-crisis.json](./389440-time-crisis.json) |
 | Time Flight | 60550 | [60550-time-flight.json](./60550-time-flight.json) |
