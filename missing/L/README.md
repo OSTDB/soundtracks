@@ -1022,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low Battery | 354408 | [354408-low-battery.json](./354408-low-battery.json) |
 | Low G Man: The Low Gravity Man | 48028 | [48028-low-g-man-the-low-gravity-man.json](./48028-low-g-man-the-low-gravity-man.json) |
 | Low Poly Flight Simulator | 411572 | [411572-low-poly-flight-simulator.json](./411572-low-poly-flight-simulator.json) |
+| Low_Signal | 353278 | [353278-low-signal.json](./353278-low-signal.json) |
 | Lowlife | 208016 | [208016-lowlife.json](./208016-lowlife.json) |
 | LowPoly Towerdefense | 295009 | [295009-lowpoly-towerdefense.json](./295009-lowpoly-towerdefense.json) |
 | Lowtide | 265981 | [265981-lowtide.json](./265981-lowtide.json) |
