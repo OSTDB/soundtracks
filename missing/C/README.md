@@ -2004,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crunch Bandicoot: Submarine Hunt | 314660 | [314660-crunch-bandicoot-submarine-hunt.json](./314660-crunch-bandicoot-submarine-hunt.json) |
 | Crunch Element | 119770 | [119770-crunch-element.json](./119770-crunch-element.json) |
 | Crunch Time! | 218161 | [218161-crunch-time.json](./218161-crunch-time.json) |
+| Crunchball 3000 | 346564 | [346564-crunchball-3000.json](./346564-crunchball-3000.json) |
 | Crusade of Deitra | 173296 | [173296-crusade-of-deitra.json](./173296-crusade-of-deitra.json) |
 | Crusade of Destiny | 66721 | [66721-crusade-of-destiny.json](./66721-crusade-of-destiny.json) |
 | Crusader Kings Complete | 25415 | [25415-crusader-kings-complete.json](./25415-crusader-kings-complete.json) |
