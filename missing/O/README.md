@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oblitus Mortis | 336918 | [336918-oblitus-mortis.json](./336918-oblitus-mortis.json) |
 | Oblivion | 77199 | [77199-oblivion.json](./77199-oblivion.json) |
 | Oblivion Congee | 183579 | [183579-oblivion-congee.json](./183579-oblivion-congee.json) |
+| Obnulenie | 363905 | [363905-obnulenie.json](./363905-obnulenie.json) |
 | Obocchama Kun | 42040 | [42040-obocchama-kun.json](./42040-obocchama-kun.json) |
 | Obrum | 406129 | [406129-obrum.json](./406129-obrum.json) |
 | ObsCure | 5941 | [5941-obscure.json](./5941-obscure.json) |
