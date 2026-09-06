@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Marvel Super Heroes 2: Champions Character Pack | 168368 | [168368-lego-marvel-super-heroes-2-champions-character-pack.json](./168368-lego-marvel-super-heroes-2-champions-character-pack.json) |
 | LEGO Marvel's Avengers: Classic Captain Marvel Pack | 137663 | [137663-lego-marvels-avengers-classic-captain-marvel-pack.json](./137663-lego-marvels-avengers-classic-captain-marvel-pack.json) |
 | LEGO Marvel's Avengers: Deluxe Edition | 53270 | [53270-lego-marvels-avengers-deluxe-edition.json](./53270-lego-marvels-avengers-deluxe-edition.json) |
+| LEGO Racers | 343274 | [343274-lego-racers.json](./343274-lego-racers.json) |
 | LEGO Racers 2 | 390 | [390-lego-racers-2.json](./390-lego-racers-2.json) |
 | LEGO Racers: The Video Game | 341908 | [341908-lego-racers-the-video-game.json](./341908-lego-racers-the-video-game.json) |
 | LEGO Star Wars: The Force Awakens - Deluxe Edition | 53271 | [53271-lego-star-wars-the-force-awakens-deluxe-edition.json](./53271-lego-star-wars-the-force-awakens-deluxe-edition.json) |
@@ -480,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lets Go Champ | 60539 | [60539-lets-go-champ.json](./60539-lets-go-champ.json) |
 | Lets Play Bingo | 87271 | [87271-lets-play-bingo.json](./87271-lets-play-bingo.json) |
 | Letter Boxed | 296097 | [296097-letter-boxed.json](./296097-letter-boxed.json) |
+| Letter Lost | 343275 | [343275-letter-lost.json](./343275-letter-lost.json) |
 | Letter Quest: Grimm's Journey | 17942 | [17942-letter-quest-grimms-journey.json](./17942-letter-quest-grimms-journey.json) |
 | Letter Snap: Term Challenge | 409537 | [409537-letter-snap-term-challenge.json](./409537-letter-snap-term-challenge.json) |
 | Letter Vetter | 149084 | [149084-letter-vetter.json](./149084-letter-vetter.json) |
@@ -896,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lootbox Gungeon | 179162 | [179162-lootbox-gungeon.json](./179162-lootbox-gungeon.json) |
 | Lootbox Lyfe+ | 238185 | [238185-lootbox-lyfe.json](./238185-lootbox-lyfe.json) |
 | LootSlime | 397710 | [397710-lootslime.json](./397710-lootslime.json) |
+| Looxi | 343248 | [343248-looxi.json](./343248-looxi.json) |
 | Loppi Puzzle Magazine: Hirameku Soukangou | 226398 | [226398-loppi-puzzle-magazine-hirameku-soukangou.json](./226398-loppi-puzzle-magazine-hirameku-soukangou.json) |
 | Loppi Puzzle Magazine: Kangaeru Dai-2-gou | 226399 | [226399-loppi-puzzle-magazine-kangaeru-dai-2-gou.json](./226399-loppi-puzzle-magazine-kangaeru-dai-2-gou.json) |
 | Loppi Puzzle Magazine: Kangaeru Dai-3-gou | 226400 | [226400-loppi-puzzle-magazine-kangaeru-dai-3-gou.json](./226400-loppi-puzzle-magazine-kangaeru-dai-3-gou.json) |
