@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain of Space | 320558 | [320558-captain-of-space.json](./320558-captain-of-space.json) |
 | Captain Puff MacFly | 361728 | [361728-captain-puff-macfly.json](./361728-captain-puff-macfly.json) |
 | Captain Quazar | 39015 | [39015-captain-quazar.json](./39015-captain-quazar.json) |
+| Captain Rocket | 344959 | [344959-captain-rocket.json](./344959-captain-rocket.json) |
 | Captain Speedfin | 391071 | [391071-captain-speedfin.json](./391071-captain-speedfin.json) |
 | Captain Toad: Treasure Tracker - Special Edition | 51139 | [51139-captain-toad-treasure-tracker-special-edition.json](./51139-captain-toad-treasure-tracker-special-edition.json) |
 | Captain Tsubasa | 213601 | [213601-captain-tsubasa.json](./213601-captain-tsubasa.json) |
@@ -485,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatClimber | 320550 | [320550-catclimber.json](./320550-catclimber.json) |
 | Caterzillar | 82950 | [82950-caterzillar.json](./82950-caterzillar.json) |
 | Catfighter, In the Lands of Sinners | 374059 | [374059-catfighter-in-the-lands-of-sinners.json](./374059-catfighter-in-the-lands-of-sinners.json) |
+| Catgirl | 344943 | [344943-catgirl.json](./344943-catgirl.json) |
 | Catgirl Aim Trainer | 310213 | [310213-catgirl-aim-trainer.json](./310213-catgirl-aim-trainer.json) |
 | Catharsis | 195791 | [195791-catharsis.json](./195791-catharsis.json) |
 | Cathedral: Crow's Curse | 352757 | [352757-cathedral-crows-curse.json](./352757-cathedral-crows-curse.json) |
@@ -727,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess.com | 121957 | [121957-chess-com.json](./121957-chess-com.json) |
 | ChesseR | 78700 | [78700-chesser.json](./78700-chesser.json) |
 | Chessmaster | 23714 | [23714-chessmaster.json](./23714-chessmaster.json) |
+| Chessmaster Live: Calvert Chess Set | 344953 | [344953-chessmaster-live-calvert-chess-set.json](./344953-chessmaster-live-calvert-chess-set.json) |
 | Chessmaster Live: Fork My Fruit | 347138 | [347138-chessmaster-live-fork-my-fruit.json](./347138-chessmaster-live-fork-my-fruit.json) |
 | Chessmaster Live: Mushrooms Set | 347139 | [347139-chessmaster-live-mushrooms-set.json](./347139-chessmaster-live-mushrooms-set.json) |
 | Chessmaster: The Art of Learning | 20777 | [20777-chessmaster-the-art-of-learning.json](./20777-chessmaster-the-art-of-learning.json) |
@@ -1041,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ciudad Alfombra | 251848 | [251848-ciudad-alfombra.json](./251848-ciudad-alfombra.json) |
 | Ciudad Empresarial | 274750 | [274750-ciudad-empresarial.json](./274750-ciudad-empresarial.json) |
 | CivCraft - Legends of Ellaria | 47273 | [47273-civcraft-legends-of-ellaria.json](./47273-civcraft-legends-of-ellaria.json) |
+| CivCrafter | 344954 | [344954-civcrafter.json](./344954-civcrafter.json) |
 | Cividle | 224744 | [224744-cividle.json](./224744-cividle.json) |
 | Civil War | 95459 | [95459-civil-war.json](./95459-civil-war.json) |
 | Civil War II | 17527 | [17527-civil-war-ii.json](./17527-civil-war-ii.json) |
@@ -1301,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Slam | 365698 | [365698-college-slam.json](./365698-college-slam.json) |
 | College Wrestling Manager 2026 | 384514 | [384514-college-wrestling-manager-2026.json](./384514-college-wrestling-manager-2026.json) |
 | Colliderscope | 109673 | [109673-colliderscope.json](./109673-colliderscope.json) |
+| Collie Call: Farm of Tomorrow | 344964 | [344964-collie-call-farm-of-tomorrow.json](./344964-collie-call-farm-of-tomorrow.json) |
 | Collision | 331107 | [331107-collision.json](./331107-collision.json) |
 | Colloc | 120424 | [120424-colloc.json](./120424-colloc.json) |
 | Colmen's Quest | 175955 | [175955-colmens-quest.json](./175955-colmens-quest.json) |
