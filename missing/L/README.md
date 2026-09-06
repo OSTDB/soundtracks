@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap Tactics | 357817 | [357817-leap-tactics.json](./357817-leap-tactics.json) |
 | Leap to the Top+ | 267077 | [267077-leap-to-the-top.json](./267077-leap-to-the-top.json) |
 | Leap: A Dragon's Adventure | 392788 | [392788-leap-a-dragons-adventure.json](./392788-leap-a-dragons-adventure.json) |
+| Learn & Discover Home | 326588 | [326588-learn-and-discover-home.json](./326588-learn-and-discover-home.json) |
 | Learn Basic Mandarin!! | 396220 | [396220-learn-basic-mandarin.json](./396220-learn-basic-mandarin.json) |
 | Learn Colors Shapes Preschool Games for Kids Games | 232169 | [232169-learn-colors-shapes-preschool-games-for-kids-games.json](./232169-learn-colors-shapes-preschool-games-for-kids-games.json) |
 | Learn Spanish! Easy Vocabulary | 371919 | [371919-learn-spanish-easy-vocabulary.json](./371919-learn-spanish-easy-vocabulary.json) |
@@ -515,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letters to the Metro | 182548 | [182548-letters-to-the-metro.json](./182548-letters-to-the-metro.json) |
 | LettersFall 110% | 392794 | [392794-lettersfall-110.json](./392794-lettersfall-110.json) |
 | Levantar La Botella | 364512 | [364512-levantar-la-botella.json](./364512-levantar-la-botella.json) |
+| Level | 326614 | [326614-level.json](./326614-level.json) |
 | Level Squared | 82890 | [82890-level-squared.json](./82890-level-squared.json) |
 | Levers! | 200195 | [200195-levers.json](./200195-levers.json) |
 | Levi's Garden | 142503 | [142503-levis-garden.json](./142503-levis-garden.json) |
