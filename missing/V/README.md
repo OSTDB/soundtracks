@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volfoss | 66699 | [66699-volfoss.json](./66699-volfoss.json) |
 | Volleyball Trainer: The Legend of Sports | 224211 | [224211-volleyball-trainer-the-legend-of-sports.json](./224211-volleyball-trainer-the-legend-of-sports.json) |
 | Volo Airsport | 17957 | [17957-volo-airsport.json](./17957-volo-airsport.json) |
+| Volontés | 347170 | [347170-volontes.json](./347170-volontes.json) |
 | Volos | 93070 | [93070-volos.json](./93070-volos.json) |
 | Volt | 36350 | [36350-volt.json](./36350-volt.json) |
 | Voodoo Vince | 5466 | [5466-voodoo-vince.json](./5466-voodoo-vince.json) |
@@ -439,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vows of Eternity | 298872 | [298872-vows-of-eternity.json](./298872-vows-of-eternity.json) |
 | Vox in Tenebris | 349314 | [349314-vox-in-tenebris.json](./349314-vox-in-tenebris.json) |
 | Vox Populi Vox Dei 2 | 35892 | [35892-vox-populi-vox-dei-2.json](./35892-vox-populi-vox-dei-2.json) |
+| Vox Populi: Canada 2025 | 347173 | [347173-vox-populi-canada-2025.json](./347173-vox-populi-canada-2025.json) |
 | Vox Populi: Poland 2023 | 267678 | [267678-vox-populi-poland-2023.json](./267678-vox-populi-poland-2023.json) |
 | Voxatron | 51288 | [51288-voxatron.json](./51288-voxatron.json) |
 | Voxel Doodle - Color By Number 3D | 105964 | [105964-voxel-doodle-color-by-number-3d.json](./105964-voxel-doodle-color-by-number-3d.json) |
