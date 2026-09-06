@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Time Simulator | 269275 | [269275-baby-time-simulator.json](./269275-baby-time-simulator.json) |
 | Baby Twins Babysitter | 86772 | [86772-baby-twins-babysitter.json](./86772-baby-twins-babysitter.json) |
 | Babylon 2055 Pinball | 33113 | [33113-babylon-2055-pinball.json](./33113-babylon-2055-pinball.json) |
+| Bachelairs | 331357 | [331357-bachelairs.json](./331357-bachelairs.json) |
 | Back 2 School | 192417 | [192417-back-2-school.json](./192417-back-2-school.json) |
 | Back 4 Blood: Annual Pass | 293917 | [293917-back-4-blood-annual-pass.json](./293917-back-4-blood-annual-pass.json) |
 | Back 4 Blood: Ultimate Edition | 141889 | [141889-back-4-blood-ultimate-edition.json](./141889-back-4-blood-ultimate-edition.json) |
@@ -618,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlezone: Rise of the Black Dogs | 3423 | [3423-battlezone-rise-of-the-black-dogs.json](./3423-battlezone-rise-of-the-black-dogs.json) |
 | Batty Shadowless Adventures | 374065 | [374065-batty-shadowless-adventures.json](./374065-batty-shadowless-adventures.json) |
 | Batya | 126638 | [126638-batya.json](./126638-batya.json) |
+| Bazar Simulator: The Wan Story | 331338 | [331338-bazar-simulator-the-wan-story.json](./331338-bazar-simulator-the-wan-story.json) |
 | Bazooka Blitzkrieg | 42627 | [42627-bazooka-blitzkrieg.json](./42627-bazooka-blitzkrieg.json) |
 | Bazooka Boy | 227498 | [227498-bazooka-boy.json](./227498-bazooka-boy.json) |
 | Bazzle | 231080 | [231080-bazzle.json](./231080-bazzle.json) |
@@ -1893,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Breaker | 195751 | [195751-brick-breaker.json](./195751-brick-breaker.json) |
 | Brick Breaker Premium | 104081 | [104081-brick-breaker-premium.json](./104081-brick-breaker-premium.json) |
 | Brick Breaker Unicorn | 151199 | [151199-brick-breaker-unicorn.json](./151199-brick-breaker-unicorn.json) |
+| Brick Breaker: Infinity | 331353 | [331353-brick-breaker-infinity.json](./331353-brick-breaker-infinity.json) |
 | Brick Building | 166220 | [166220-brick-building.json](./166220-brick-building.json) |
 | Brick Crossy Road | 241613 | [241613-brick-crossy-road.json](./241613-brick-crossy-road.json) |
 | Brick Mini Golf | 297249 | [297249-brick-mini-golf.json](./297249-brick-mini-golf.json) |
