@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeepBubbles | 358890 | [358890-deepbubbles.json](./358890-deepbubbles.json) |
 | Deeper | 104650 | [104650-deeper.json](./104650-deeper.json) |
 | Deeper | 343279 | [343279-deeper.json](./343279-deeper.json) |
+| Deepest Depth | 320186 | [320186-deepest-depth.json](./320186-deepest-depth.json) |
 | Deepest Regret | 280434 | [280434-deepest-regret.json](./280434-deepest-regret.json) |
 | Deepfried in Deepspace | 373541 | [373541-deepfried-in-deepspace.json](./373541-deepfried-in-deepspace.json) |
 | Deephome | 66693 | [66693-deephome.json](./66693-deephome.json) |
@@ -708,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Grade | 75159 | [75159-demon-grade.json](./75159-demon-grade.json) |
 | Demon Hunter 2: New Chapter | 32774 | [32774-demon-hunter-2-new-chapter.json](./32774-demon-hunter-2-new-chapter.json) |
 | Demon Hunter: Chronicles from Beyond | 17987 | [17987-demon-hunter-chronicles-from-beyond.json](./17987-demon-hunter-chronicles-from-beyond.json) |
+| Demon Hunter: Shadow World | 320175 | [320175-demon-hunter-shadow-world.json](./320175-demon-hunter-shadow-world.json) |
 | Demon Hunters | 332447 | [332447-demon-hunters.json](./332447-demon-hunters.json) |
 | Demon Huntress | 399625 | [399625-demon-huntress.json](./399625-demon-huntress.json) |
 | Demon Itself | 370124 | [370124-demon-itself.json](./370124-demon-itself.json) |
@@ -1874,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamians: Card Battle | 304891 | [304891-dreamians-card-battle.json](./304891-dreamians-card-battle.json) |
 | Dreaming About You | 371230 | [371230-dreaming-about-you.json](./371230-dreaming-about-you.json) |
 | Dreaming Seal Simulator | 325288 | [325288-dreaming-seal-simulator.json](./325288-dreaming-seal-simulator.json) |
+| Dreamless | 320135 | [320135-dreamless.json](./320135-dreamless.json) |
 | Dreamless Girl: Deluxe Edtion Plus | 335097 | [335097-dreamless-girl-deluxe-edtion-plus.json](./335097-dreamless-girl-deluxe-edtion-plus.json) |
 | Dreampainters | 360005 | [360005-dreampainters.json](./360005-dreampainters.json) |
 | Dreams of Being | 170002 | [170002-dreams-of-being.json](./170002-dreams-of-being.json) |
@@ -2072,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune Sea | 120414 | [120414-dune-sea.json](./120414-dune-sea.json) |
 | Dune Strider | 203547 | [203547-dune-strider.json](./203547-dune-strider.json) |
 | Dune: Imperium | 263201 | [263201-dune-imperium.json](./263201-dune-imperium.json) |
+| Dunebound Tactics | 320131 | [320131-dunebound-tactics.json](./320131-dunebound-tactics.json) |
 | Dungen | 169436 | [169436-dungen.json](./169436-dungen.json) |
 | Dungeon | 86095 | [86095-dungeon.json](./86095-dungeon.json) |
 | Dungeon 3D: Eastern | 277583 | [277583-dungeon-3d-eastern.json](./277583-dungeon-3d-eastern.json) |
