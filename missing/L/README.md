@@ -1028,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky day | 166750 | [166750-lucky-day.json](./166750-lucky-day.json) |
 | Lucky Dog 1 | 147444 | [147444-lucky-dog-1.json](./147444-lucky-dog-1.json) |
 | Lucky Island | 224742 | [224742-lucky-island.json](./224742-lucky-island.json) |
+| Lucky Lawn Mower | 359413 | [359413-lucky-lawn-mower.json](./359413-lucky-lawn-mower.json) |
 | Lucky Morolian | 259827 | [259827-lucky-morolian.json](./259827-lucky-morolian.json) |
 | Lucky Paradox | 239300 | [239300-lucky-paradox.json](./239300-lucky-paradox.json) |
 | Lucky Pikinini: Zombie Rampage | 325870 | [325870-lucky-pikinini-zombie-rampage.json](./325870-lucky-pikinini-zombie-rampage.json) |
