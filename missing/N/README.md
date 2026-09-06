@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanda's Island | 48048 | [48048-nandas-island.json](./48048-nandas-island.json) |
 | Nandemo!? Taihoman | 264312 | [264312-nandemo-taihoman.json](./264312-nandemo-taihoman.json) |
 | Nangoku Shounen Papuwa-kun | 38389 | [38389-nangoku-shounen-papuwa-kun.json](./38389-nangoku-shounen-papuwa-kun.json) |
+| Nanika Game Online | 342086 | [342086-nanika-game-online.json](./342086-nanika-game-online.json) |
 | Nankin no Adventure | 41401 | [41401-nankin-no-adventure.json](./41401-nankin-no-adventure.json) |
 | Nano Assault | 21075 | [21075-nano-assault.json](./21075-nano-assault.json) |
 | Nano Code:X | 410908 | [410908-nano-code-x.json](./410908-nano-code-x.json) |
@@ -621,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nina Aquila: Legal Eagle | 134657 | [134657-nina-aquila-legal-eagle.json](./134657-nina-aquila-legal-eagle.json) |
 | Nina Aquila: Legal Eagle, Chapter II - Broken Wings | 134658 | [134658-nina-aquila-legal-eagle-chapter-ii-broken-wings.json](./134658-nina-aquila-legal-eagle-chapter-ii-broken-wings.json) |
 | Nina Aquila: Legal Eagle, Season One | 152936 | [152936-nina-aquila-legal-eagle-season-one.json](./152936-nina-aquila-legal-eagle-season-one.json) |
+| Nindo: Guardian of the Starlit Shadow | 342050 | [342050-nindo-guardian-of-the-starlit-shadow.json](./342050-nindo-guardian-of-the-starlit-shadow.json) |
 | Nine Hentai Babes | 368513 | [368513-nine-hentai-babes.json](./368513-nine-hentai-babes.json) |
 | Nine Hours, Nine Persons, Nine Doors | 9543 | [9543-nine-hours-nine-persons-nine-doors.json](./9543-nine-hours-nine-persons-nine-doors.json) |
 | Nine in Flight | 310734 | [310734-nine-in-flight.json](./310734-nine-in-flight.json) |
@@ -716,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nioh 3: Bloody Insurrection | 411562 | [411562-nioh-3-bloody-insurrection.json](./411562-nioh-3-bloody-insurrection.json) |
 | Nioh 3: Hell Rising | 411561 | [411561-nioh-3-hell-rising.json](./411561-nioh-3-hell-rising.json) |
 | Nios | 189161 | [189161-nios.json](./189161-nios.json) |
+| Nip for Speed 2: Searching for Pussy | 342067 | [342067-nip-for-speed-2-searching-for-pussy.json](./342067-nip-for-speed-2-searching-for-pussy.json) |
 | Nira | 126207 | [126207-nira.json](./126207-nira.json) |
 | NIRA Intense Import Drag Racing | 62225 | [62225-nira-intense-import-drag-racing.json](./62225-nira-intense-import-drag-racing.json) |
 | Nirmita | 197367 | [197367-nirmita.json](./197367-nirmita.json) |
@@ -730,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitrous Fury | 385085 | [385085-nitrous-fury.json](./385085-nitrous-fury.json) |
 | Nixie | 267690 | [267690-nixie.json](./267690-nixie.json) |
 | Nixxsz Maids Blazing | 292303 | [292303-nixxsz-maids-blazing.json](./292303-nixxsz-maids-blazing.json) |
+| NLdle | 342051 | [342051-nldle.json](./342051-nldle.json) |
 | NLL Lacrosse 2010 | 66705 | [66705-nll-lacrosse-2010.json](./66705-nll-lacrosse-2010.json) |
 | No Arm | 360010 | [360010-no-arm.json](./360010-no-arm.json) |
 | No Contact | 302114 | [302114-no-contact.json](./302114-no-contact.json) |
