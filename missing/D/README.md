@@ -2023,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust to Dusk | 138831 | [138831-dust-to-dusk.json](./138831-dust-to-dusk.json) |
 | Dustland | 260393 | [260393-dustland.json](./260393-dustland.json) |
 | Dustwun | 83561 | [83561-dustwun.json](./83561-dustwun.json) |
+| Dusty's Challenge | 359392 | [359392-dustys-challenge.json](./359392-dustys-challenge.json) |
 | Dutch Maximus: Out of the Toy Box | 217004 | [217004-dutch-maximus-out-of-the-toy-box.json](./217004-dutch-maximus-out-of-the-toy-box.json) |
 | Duterra | 213018 | [213018-duterra.json](./213018-duterra.json) |
 | Duty Calls | 80555 | [80555-duty-calls.json](./80555-duty-calls.json) |
