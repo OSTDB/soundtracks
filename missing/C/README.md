@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Bites Make & Bake: Cooking Dessert Kids Game | 109012 | [109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json](./109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json) |
 | Cake Shop | 109015 | [109015-cake-shop.json](./109015-cake-shop.json) |
 | Cake Shop 3 | 410232 | [410232-cake-shop-3.json](./410232-cake-shop-3.json) |
+| Cake Up | 335273 | [335273-cake-up.json](./335273-cake-up.json) |
 | Cake5 | 233247 | [233247-cake5.json](./233247-cake5.json) |
 | Cal | 123082 | [123082-cal.json](./123082-cal.json) |
 | Calamity Annie | 72689 | [72689-calamity-annie.json](./72689-calamity-annie.json) |
@@ -610,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ceradin | 126041 | [126041-ceradin.json](./126041-ceradin.json) |
 | Ceramic Soul | 198556 | [198556-ceramic-soul.json](./198556-ceramic-soul.json) |
 | Cerberus | 272016 | [272016-cerberus.json](./272016-cerberus.json) |
+| Cerberus Corporation: Red Room | 335246 | [335246-cerberus-corporation-red-room.json](./335246-cerberus-corporation-red-room.json) |
 | Ceremony of Innocence | 72092 | [72092-ceremony-of-innocence.json](./72092-ceremony-of-innocence.json) |
 | Ceress and Orea | 96651 | [96651-ceress-and-orea.json](./96651-ceress-and-orea.json) |
 | CFG: Combat for General | 235478 | [235478-cfg-combat-for-general.json](./235478-cfg-combat-for-general.json) |
