@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geppaku: Monogatari | 342664 | [342664-geppaku-monogatari.json](./342664-geppaku-monogatari.json) |
 | Gerbil Mech Program | 363908 | [363908-gerbil-mech-program.json](./363908-gerbil-mech-program.json) |
 | Germ Blasters | 353910 | [353910-germ-blasters.json](./353910-germ-blasters.json) |
+| Gërman Boy | 331889 | [331889-german-boy.json](./331889-german-boy.json) |
 | German Tantei-dan Maringumi: Himitsu Kichi wo Mamore! | 346031 | [346031-german-tantei-dan-maringumi-himitsu-kichi-wo-mamore.json](./346031-german-tantei-dan-maringumi-himitsu-kichi-wo-mamore.json) |
 | Germany's Next Top Model: Das Offizielle Spiel zur Staffel 2009 | 86128 | [86128-germanys-next-top-model-das-offizielle-spiel-zur-staffel-2009.json](./86128-germanys-next-top-model-das-offizielle-spiel-zur-staffel-2009.json) |
 | GermCraft Deluxe | 208013 | [208013-germcraft-deluxe.json](./208013-germcraft-deluxe.json) |
@@ -1150,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow: Song of the Evertree | 151673 | [151673-grow-song-of-the-evertree.json](./151673-grow-song-of-the-evertree.json) |
 | Growbots: Battle Academy | 161386 | [161386-growbots-battle-academy.json](./161386-growbots-battle-academy.json) |
 | Growing My Manhole | 404809 | [404809-growing-my-manhole.json](./404809-growing-my-manhole.json) |
+| Growth | 331885 | [331885-growth.json](./331885-growth.json) |
 | Gru Dash Play | 384538 | [384538-gru-dash-play.json](./384538-gru-dash-play.json) |
 | Grumblemoor | 347171 | [347171-grumblemoor.json](./347171-grumblemoor.json) |
 | Grumpy Witch | 115015 | [115015-grumpy-witch.json](./115015-grumpy-witch.json) |
@@ -1286,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunless | 84262 | [84262-gunless.json](./84262-gunless.json) |
 | Gunlok | 25008 | [25008-gunlok.json](./25008-gunlok.json) |
 | Gunma's Ambition: You and me are Gunma | 146925 | [146925-gunmas-ambition-you-and-me-are-gunma.json](./146925-gunmas-ambition-you-and-me-are-gunma.json) |
+| Gunma's Ambition: You and me are Gunma - Reiwa 2nd National Census Edition | 331891 | [331891-gunmas-ambition-you-and-me-are-gunma-reiwa-2nd-national-census-edition.json](./331891-gunmas-ambition-you-and-me-are-gunma-reiwa-2nd-national-census-edition.json) |
 | Gunman Tales | 102450 | [102450-gunman-tales.json](./102450-gunman-tales.json) |
 | GunMaster | 266491 | [266491-gunmaster.json](./266491-gunmaster.json) |
 | Gunner 3 | 259821 | [259821-gunner-3.json](./259821-gunner-3.json) |
