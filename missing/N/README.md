@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K17: The Prelude | 83763 | [83763-nba-2k17-the-prelude.json](./83763-nba-2k17-the-prelude.json) |
 | NBA 2K19: The Prelude | 110326 | [110326-nba-2k19-the-prelude.json](./110326-nba-2k19-the-prelude.json) |
 | NBA 2K2 | 4029 | [4029-nba-2k2.json](./4029-nba-2k2.json) |
+| NBA 2K25: Tournament Edition | 331859 | [331859-nba-2k25-tournament-edition.json](./331859-nba-2k25-tournament-edition.json) |
 | NBA 2K26 | 353901 | [353901-nba-2k26.json](./353901-nba-2k26.json) |
 | NBA 2K27 | 408823 | [408823-nba-2k27.json](./408823-nba-2k27.json) |
 | NBA 2K27: Deluxe Edition | 410900 | [410900-nba-2k27-deluxe-edition.json](./410900-nba-2k27-deluxe-edition.json) |
@@ -913,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Everything is Flammable | 223675 | [223675-not-everything-is-flammable.json](./223675-not-everything-is-flammable.json) |
 | Not Evil Sudoku | 297219 | [297219-not-evil-sudoku.json](./297219-not-evil-sudoku.json) |
 | Not Fine | 398354 | [398354-not-fine.json](./398354-not-fine.json) |
+| Not For Broadcast: Complete Edition | 331858 | [331858-not-for-broadcast-complete-edition.json](./331858-not-for-broadcast-complete-edition.json) |
 | Not Guilty! | 353903 | [353903-not-guilty.json](./353903-not-guilty.json) |
 | Not Just An Ordinary Ballerina | 60018 | [60018-not-just-an-ordinary-ballerina.json](./60018-not-just-an-ordinary-ballerina.json) |
 | Not Match | 232147 | [232147-not-match.json](./232147-not-match.json) |
