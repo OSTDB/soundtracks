@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nioh 3: Hell Rising | 411561 | [411561-nioh-3-hell-rising.json](./411561-nioh-3-hell-rising.json) |
 | Nios | 189161 | [189161-nios.json](./189161-nios.json) |
 | Nip for Speed 2: Searching for Pussy | 342067 | [342067-nip-for-speed-2-searching-for-pussy.json](./342067-nip-for-speed-2-searching-for-pussy.json) |
+| Nippets | 326613 | [326613-nippets.json](./326613-nippets.json) |
 | Nira | 126207 | [126207-nira.json](./126207-nira.json) |
 | NIRA Intense Import Drag Racing | 62225 | [62225-nira-intense-import-drag-racing.json](./62225-nira-intense-import-drag-racing.json) |
 | Nirmita | 197367 | [197367-nirmita.json](./197367-nirmita.json) |
@@ -797,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No, Birdie, No! | 128640 | [128640-no-birdie-no.json](./128640-no-birdie-no.json) |
 | Noa Noa! | 115029 | [115029-noa-noa.json](./115029-noa-noa.json) |
 | Noah no Yurikago | 58830 | [58830-noah-no-yurikago.json](./58830-noah-no-yurikago.json) |
+| Noah's Ark: Animal Adventure | 326586 | [326586-noahs-ark-animal-adventure.json](./326586-noahs-ark-animal-adventure.json) |
 | Noah's Descent into Madness | 267096 | [267096-noahs-descent-into-madness.json](./267096-noahs-descent-into-madness.json) |
 | Noah's Dilemma | 291750 | [291750-noahs-dilemma.json](./291750-noahs-dilemma.json) |
 | NoAmmo | 210882 | [210882-noammo.json](./210882-noammo.json) |
