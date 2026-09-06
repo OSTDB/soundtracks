@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa Sangre | 7698 | [7698-papa-sangre.json](./7698-papa-sangre.json) |
 | Papa's Burgeria HD | 86695 | [86695-papas-burgeria-hd.json](./86695-papas-burgeria-hd.json) |
 | Papa's Pizzeria to Go! | 96296 | [96296-papas-pizzeria-to-go.json](./96296-papas-pizzeria-to-go.json) |
+| Paper Bride 6: Nightmare | 326046 | [326046-paper-bride-6-nightmare.json](./326046-paper-bride-6-nightmare.json) |
 | Paper Cages | 178670 | [178670-paper-cages.json](./178670-paper-cages.json) |
 | Paper Champion | 242800 | [242800-paper-champion.json](./242800-paper-champion.json) |
 | Paper Dungeons Crawler | 95573 | [95573-paper-dungeons-crawler.json](./95573-paper-dungeons-crawler.json) |
@@ -246,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallel Olympus | 156132 | [156132-parallel-olympus.json](./156132-parallel-olympus.json) |
 | Parallel World | 113026 | [113026-parallel-world.json](./113026-parallel-world.json) |
 | Parallel Worlds | 181373 | [181373-parallel-worlds.json](./181373-parallel-worlds.json) |
+| ParallHex | 326048 | [326048-parallhex.json](./326048-parallhex.json) |
 | Paralysis | 89249 | [89249-paralysis.json](./89249-paralysis.json) |
 | Paramedic Simulator | 141858 | [141858-paramedic-simulator.json](./141858-paramedic-simulator.json) |
 | Paramedics! | 270958 | [270958-paramedics.json](./270958-paramedics.json) |
@@ -1086,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Crashers | 21036 | [21036-planet-crashers.json](./21036-planet-crashers.json) |
 | Planet Crossword | 220841 | [220841-planet-crossword.json](./220841-planet-crossword.json) |
 | Planet Delta | 80552 | [80552-planet-delta.json](./80552-planet-delta.json) |
+| Planet Factory | 326051 | [326051-planet-factory.json](./326051-planet-factory.json) |
 | Planet Fights | 239323 | [239323-planet-fights.json](./239323-planet-fights.json) |
 | Planet Finder | 362299 | [362299-planet-finder.json](./362299-planet-finder.json) |
 | Planet Flipper | 394893 | [394893-planet-flipper.json](./394893-planet-flipper.json) |
@@ -1568,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PQ: Practical Intelligence Quotient | 46019 | [46019-pq-practical-intelligence-quotient.json](./46019-pq-practical-intelligence-quotient.json) |
 | PQ: The Party Quiz Game | 94250 | [94250-pq-the-party-quiz-game.json](./94250-pq-the-party-quiz-game.json) |
 | Pragma Twice | 347714 | [347714-pragma-twice.json](./347714-pragma-twice.json) |
+| Pragmatics | 326068 | [326068-pragmatics.json](./326068-pragmatics.json) |
 | Pray Game | 167306 | [167306-pray-game.json](./167306-pray-game.json) |
 | Pre-RON MI5 Bob | 71007 | [71007-pre-ron-mi5-bob.json](./71007-pre-ron-mi5-bob.json) |
 | Precision Point VR | 270949 | [270949-precision-point-vr.json](./270949-precision-point-vr.json) |
@@ -1906,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proton Bus Simulator Road | 219822 | [219822-proton-bus-simulator-road.json](./219822-proton-bus-simulator-road.json) |
 | Proton Pulse + | 56526 | [56526-proton-pulse.json](./56526-proton-pulse.json) |
 | Proton VR | 392133 | [392133-proton-vr.json](./392133-proton-vr.json) |
+| Protory Jigen | 326078 | [326078-protory-jigen.json](./326078-protory-jigen.json) |
 | Protoshift | 34555 | [34555-protoshift.json](./34555-protoshift.json) |
 | Prototype Blocks | 191244 | [191244-prototype-blocks.json](./191244-prototype-blocks.json) |
 | Prototype Mansion - Used No Cover | 77443 | [77443-prototype-mansion-used-no-cover.json](./77443-prototype-mansion-used-no-cover.json) |
