@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the Wane | 387356 | [387356-after-the-wane.json](./387356-after-the-wane.json) |
 | After the War | 5713 | [5713-after-the-war.json](./5713-after-the-war.json) |
 | After War Town | 278173 | [278173-after-war-town.json](./278173-after-war-town.json) |
+| After Work | 360586 | [360586-after-work.json](./360586-after-work.json) |
 | After You: Level Escape | 249478 | [249478-after-you-level-escape.json](./249478-after-you-level-escape.json) |
 | After-H: Moon of the Dead | 362257 | [362257-after-h-moon-of-the-dead.json](./362257-after-h-moon-of-the-dead.json) |
 | After-Image | 362285 | [362285-after-image.json](./362285-after-image.json) |
@@ -1075,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Elmwood Trail | 243410 | [243410-an-elmwood-trail.json](./243410-an-elmwood-trail.json) |
 | An English Haunting | 258723 | [258723-an-english-haunting.json](./258723-an-english-haunting.json) |
 | An Imp and an Impostor | 378174 | [378174-an-imp-and-an-impostor.json](./378174-an-imp-and-an-impostor.json) |
+| An Ocean Game | 360588 | [360588-an-ocean-game.json](./360588-an-ocean-game.json) |
 | An Unnamed Jumping Game | 321750 | [321750-an-unnamed-jumping-game.json](./321750-an-unnamed-jumping-game.json) |
 | Anachroma | 211404 | [211404-anachroma.json](./211404-anachroma.json) |
 | Anachron | 377084 | [377084-anachron.json](./377084-anachron.json) |
@@ -1791,7 +1793,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed III: Liberation | 3195 | [3195-assassins-creed-iii-liberation.json](./3195-assassins-creed-iii-liberation.json) |
 | Assassin's Creed IV Black Flag: Aveline | 26095 | [26095-assassins-creed-iv-black-flag-aveline.json](./26095-assassins-creed-iv-black-flag-aveline.json) |
 | Assassin's Creed Mirage & Assassin's Creed Valhalla Bundle | 271474 | [271474-assassins-creed-mirage-and-assassins-creed-valhalla-bundle.json](./271474-assassins-creed-mirage-and-assassins-creed-valhalla-bundle.json) |
+| Assassin's Creed Mirage Master Assassin Upgrade Bundle 2 | 360574 | [360574-assassins-creed-mirage-master-assassin-upgrade-bundle-2.json](./360574-assassins-creed-mirage-master-assassin-upgrade-bundle-2.json) |
 | Assassin’s Creed Mirage: Master Assassin Edition | 276451 | [276451-assassin-s-creed-mirage-master-assassin-edition.json](./276451-assassin-s-creed-mirage-master-assassin-edition.json) |
+| Assassin's Creed Mirage: Master Assassin Upgrade Bundle 1 | 360572 | [360572-assassins-creed-mirage-master-assassin-upgrade-bundle-1.json](./360572-assassins-creed-mirage-master-assassin-upgrade-bundle-1.json) |
 | Assassin's Creed Revelations: Special Edition | 268735 | [268735-assassins-creed-revelations-special-edition.json](./268735-assassins-creed-revelations-special-edition.json) |
 | Assassin's Creed Valhalla: A Fated Encounter | 228706 | [228706-assassins-creed-valhalla-a-fated-encounter.json](./228706-assassins-creed-valhalla-a-fated-encounter.json) |
 | Assassin's Creed Valhalla: Dawn of Ragnarök | 185706 | [185706-assassins-creed-valhalla-dawn-of-ragnarok.json](./185706-assassins-creed-valhalla-dawn-of-ragnarok.json) |
