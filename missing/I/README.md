@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Know This Place..?: Chapter II | 291780 | [291780-i-know-this-place-chapter-ii.json](./291780-i-know-this-place-chapter-ii.json) |
 | I Lost My Eggs: Easter | 387329 | [387329-i-lost-my-eggs-easter.json](./387329-i-lost-my-eggs-easter.json) |
 | I Lost My Luggage | 155653 | [155653-i-lost-my-luggage.json](./155653-i-lost-my-luggage.json) |
+| I Lost Someone | 362296 | [362296-i-lost-someone.json](./362296-i-lost-someone.json) |
 | I Love Finding Birds | 236500 | [236500-i-love-finding-birds.json](./236500-i-love-finding-birds.json) |
 | I Love Finding Furbabies: Collector's Edition | 277576 | [277576-i-love-finding-furbabies-collectors-edition.json](./277576-i-love-finding-furbabies-collectors-edition.json) |
 | I Love Finding More Cats | 190729 | [190729-i-love-finding-more-cats.json](./190729-i-love-finding-more-cats.json) |
