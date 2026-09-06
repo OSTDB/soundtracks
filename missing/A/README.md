@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adorable Witch 4: Lust | 211393 | [211393-adorable-witch-4-lust.json](./211393-adorable-witch-4-lust.json) |
 | Adoventoro Tcheco | 321779 | [321779-adoventoro-tcheco.json](./321779-adoventoro-tcheco.json) |
 | Adrift | 322391 | [322391-adrift.json](./322391-adrift.json) |
+| Adrift | 330165 | [330165-adrift.json](./330165-adrift.json) |
 | Adrift | 331880 | [331880-adrift.json](./331880-adrift.json) |
 | Adrift | 377088 | [377088-adrift.json](./377088-adrift.json) |
 | Adrorium | 133447 | [133447-adrorium.json](./133447-adrorium.json) |
@@ -1268,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angler's Journey | 350442 | [350442-anglers-journey.json](./350442-anglers-journey.json) |
 | Angler's World | 217019 | [217019-anglers-world.json](./217019-anglers-world.json) |
 | Angry Barry | 67987 | [67987-angry-barry.json](./67987-angry-barry.json) |
+| Angry Battalion | 330191 | [330191-angry-battalion.json](./330191-angry-battalion.json) |
 | Angry Birds | 2035 | [2035-angry-birds.json](./2035-angry-birds.json) |
 | Angry Birds Dream Blast | 114424 | [114424-angry-birds-dream-blast.json](./114424-angry-birds-dream-blast.json) |
 | Angry Birds FPS: First Person Slingshot | 111021 | [111021-angry-birds-fps-first-person-slingshot.json](./111021-angry-birds-fps-first-person-slingshot.json) |
@@ -1532,6 +1534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua 1 | 273132 | [273132-aqua-1.json](./273132-aqua-1.json) |
 | Aqua 2 | 273133 | [273133-aqua-2.json](./273133-aqua-2.json) |
 | Aqua 3 | 273134 | [273134-aqua-3.json](./273134-aqua-3.json) |
+| AquaDream | 330146 | [330146-aquadream.json](./330146-aquadream.json) |
 | AquaFantasia | 297786 | [297786-aquafantasia.json](./297786-aquafantasia.json) |
 | AquaHero | 237665 | [237665-aquahero.json](./237665-aquahero.json) |
 | Aquanaut's Holiday | 20589 | [20589-aquanauts-holiday.json](./20589-aquanauts-holiday.json) |
@@ -1553,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AR Magic Color UP | 56487 | [56487-ar-magic-color-up.json](./56487-ar-magic-color-up.json) |
 | Ar nosurge Plus: Ode to an Unborn Star - Limited Edition | 89915 | [89915-ar-nosurge-plus-ode-to-an-unborn-star-limited-edition.json](./89915-ar-nosurge-plus-ode-to-an-unborn-star-limited-edition.json) |
 | AR Race Car | 242215 | [242215-ar-race-car.json](./242215-ar-race-car.json) |
+| Arab Drift Cars 2 | 330192 | [330192-arab-drift-cars-2.json](./330192-arab-drift-cars-2.json) |
 | Arabian Nights: Sabaku no Seirei-ou | 38381 | [38381-arabian-nights-sabaku-no-seirei-ou.json](./38381-arabian-nights-sabaku-no-seirei-ou.json) |
 | Arachnoid | 23886 | [23886-arachnoid.json](./23886-arachnoid.json) |
 | Aracnidium | 193462 | [193462-aracnidium.json](./193462-aracnidium.json) |
