@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarLords | 196892 | [196892-warlords.json](./196892-warlords.json) |
 | Warlords of Aternum | 107181 | [107181-warlords-of-aternum.json](./107181-warlords-of-aternum.json) |
 | Warlords.IO | 111729 | [111729-warlords-io.json](./111729-warlords-io.json) |
+| Warm Monkey | 331314 | [331314-warm-monkey.json](./331314-warm-monkey.json) |
 | WarMages | 68676 | [68676-warmages.json](./68676-warmages.json) |
 | WarMen Tactics | 85496 | [85496-warmen-tactics.json](./85496-warmen-tactics.json) |
 | Warno: Nemesis #3 - Homefront | 403589 | [403589-warno-nemesis-3-homefront.json](./403589-warno-nemesis-3-homefront.json) |
@@ -861,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonhon: A Vengeful Spirit | 132239 | [132239-wonhon-a-vengeful-spirit.json](./132239-wonhon-a-vengeful-spirit.json) |
 | Wonka Block Party | 373531 | [373531-wonka-block-party.json](./373531-wonka-block-party.json) |
 | Wood Block 99 | 219828 | [219828-wood-block-99.json](./219828-wood-block-99.json) |
+| Wood Nuts & Bolts Puzzle | 331341 | [331341-wood-nuts-and-bolts-puzzle.json](./331341-wood-nuts-and-bolts-puzzle.json) |
 | Wooden House | 23726 | [23726-wooden-house.json](./23726-wooden-house.json) |
 | Wooden Nickel | 115663 | [115663-wooden-nickel.json](./115663-wooden-nickel.json) |
 | Woodla: The Tower | 251199 | [251199-woodla-the-tower.json](./251199-woodla-the-tower.json) |
