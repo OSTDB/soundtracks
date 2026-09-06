@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant's Revenge | 25726 | [25726-giants-revenge.json](./25726-giants-revenge.json) |
 | Giants | 158196 | [158196-giants.json](./158196-giants.json) |
 | Giants War | 103492 | [103492-giants-war.json](./103492-giants-war.json) |
+| Gibbets 2 | 343809 | [343809-gibbets-2.json](./343809-gibbets-2.json) |
 | Gibbous: A Cthulhu Adventure | 18841 | [18841-gibbous-a-cthulhu-adventure.json](./18841-gibbous-a-cthulhu-adventure.json) |
 | Gido Gido: Kaiju Battle Party | 404214 | [404214-gido-gido-kaiju-battle-party.json](./404214-gido-gido-kaiju-battle-party.json) |
 | Gift | 95440 | [95440-gift.json](./95440-gift.json) |
@@ -1203,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gump Jump | 209647 | [209647-gump-jump.json](./209647-gump-jump.json) |
 | Gun & Girls.io | 200754 | [200754-gun-and-girls-io.json](./200754-gun-and-girls-io.json) |
 | Gun Blood Cowboy Duel | 103506 | [103506-gun-blood-cowboy-duel.json](./103506-gun-blood-cowboy-duel.json) |
+| Gun Bros 2 | 343798 | [343798-gun-bros-2.json](./343798-gun-bros-2.json) |
 | Gun Builder Elite HD | 351036 | [351036-gun-builder-elite-hd.json](./351036-gun-builder-elite-hd.json) |
 | Gun Building 3 | 351042 | [351042-gun-building-3.json](./351042-gun-building-3.json) |
 | Gun Factory Simulator | 326421 | [326421-gun-factory-simulator.json](./326421-gun-factory-simulator.json) |
@@ -1226,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunboat: River Combat Simulation | 12127 | [12127-gunboat-river-combat-simulation.json](./12127-gunboat-river-combat-simulation.json) |
 | GunBound | 26189 | [26189-gunbound.json](./26189-gunbound.json) |
 | GunBoxing | 392798 | [392798-gunboxing.json](./392798-gunboxing.json) |
+| Guncrafter | 343805 | [343805-guncrafter.json](./343805-guncrafter.json) |
 | GunCrank | 414292 | [414292-guncrank.json](./414292-guncrank.json) |
 | Gundam Battle Online | 107166 | [107166-gundam-battle-online.json](./107166-gundam-battle-online.json) |
 | Gundam Breaker 3 | 19858 | [19858-gundam-breaker-3.json](./19858-gundam-breaker-3.json) |
