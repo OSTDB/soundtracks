@@ -760,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms: Lost to the Dark | 370141 | [370141-the-backrooms-lost-to-the-dark.json](./370141-the-backrooms-lost-to-the-dark.json) |
 | The Backrooms: Mass Extinction | 203558 | [203558-the-backrooms-mass-extinction.json](./203558-the-backrooms-mass-extinction.json) |
 | The Backrooms: Survival | 192975 | [192975-the-backrooms-survival.json](./192975-the-backrooms-survival.json) |
+| The Backyardigans: Big Backyard Adventure | 326585 | [326585-the-backyardigans-big-backyard-adventure.json](./326585-the-backyardigans-big-backyard-adventure.json) |
 | The Bad Gravedigger | 104073 | [104073-the-bad-gravedigger.json](./104073-the-bad-gravedigger.json) |
 | The Bakery Tales | 328475 | [328475-the-bakery-tales.json](./328475-the-bakery-tales.json) |
 | The Ball Adventure | 148535 | [148535-the-ball-adventure.json](./148535-the-ball-adventure.json) |
@@ -884,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Caligula Effect: Overdose | 75990 | [75990-the-caligula-effect-overdose.json](./75990-the-caligula-effect-overdose.json) |
 | The Call Button | 400871 | [400871-the-call-button.json](./400871-the-call-button.json) |
 | The Callisto Protocol: Riot Bundle | 272560 | [272560-the-callisto-protocol-riot-bundle.json](./272560-the-callisto-protocol-riot-bundle.json) |
+| The Campsite | 326605 | [326605-the-campsite.json](./326605-the-campsite.json) |
 | The Candle | 331669 | [331669-the-candle.json](./331669-the-candle.json) |
 | The Cannon Fighters | 253597 | [253597-the-cannon-fighters.json](./253597-the-cannon-fighters.json) |
 | The Capcom Collection | 246090 | [246090-the-capcom-collection.json](./246090-the-capcom-collection.json) |
@@ -1749,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monkey's Paw | 415911 | [415911-the-monkeys-paw.json](./415911-the-monkeys-paw.json) |
 | The Monster | 111019 | [111019-the-monster.json](./111019-the-monster.json) |
 | The Monster Within | 174346 | [174346-the-monster-within.json](./174346-the-monster-within.json) |
+| The Moodsters: Memory Match Game | 326627 | [326627-the-moodsters-memory-match-game.json](./326627-the-moodsters-memory-match-game.json) |
 | The Moon 2050 | 156686 | [156686-the-moon-2050.json](./156686-the-moon-2050.json) |
 | The Moon Ate the Sun | 318192 | [318192-the-moon-ate-the-sun.json](./318192-the-moon-ate-the-sun.json) |
 | The Moon Has Faded Away | 341903 | [341903-the-moon-has-faded-away.json](./341903-the-moon-has-faded-away.json) |
@@ -1807,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Notzing Project | 323555 | [323555-the-notzing-project.json](./323555-the-notzing-project.json) |
 | The Nova Era | 209712 | [209712-the-nova-era.json](./209712-the-nova-era.json) |
 | The Nutcracker | 216997 | [216997-the-nutcracker.json](./216997-the-nutcracker.json) |
+| The Nutshack But It's A Game | 326591 | [326591-the-nutshack-but-its-a-game.json](./326591-the-nutshack-but-its-a-game.json) |
 | The Observed | 182555 | [182555-the-observed.json](./182555-the-observed.json) |
 | The Occupant | 74432 | [74432-the-occupant.json](./74432-the-occupant.json) |
 | The Odarian Accounts | 218705 | [218705-the-odarian-accounts.json](./218705-the-odarian-accounts.json) |
@@ -2840,6 +2844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Attack! RPG | 152382 | [152382-time-attack-rpg.json](./152382-time-attack-rpg.json) |
 | Time Crisis | 389440 | [389440-time-crisis.json](./389440-time-crisis.json) |
 | Time Flight | 60550 | [60550-time-flight.json](./60550-time-flight.json) |
+| Time for Teletubbies | 326581 | [326581-time-for-teletubbies.json](./326581-time-for-teletubbies.json) |
 | Time Gentlemen, Please! and Ben There, Dan That! Special Edition Double Pack | 27846 | [27846-time-gentlemen-please-and-ben-there-dan-that-special-edition-double-pack.json](./27846-time-gentlemen-please-and-ben-there-dan-that-special-edition-double-pack.json) |
 | Time is Solid Here | 197960 | [197960-time-is-solid-here.json](./197960-time-is-solid-here.json) |
 | Time Killers | 8939 | [8939-time-killers.json](./8939-time-killers.json) |
@@ -3724,6 +3729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triga | 199652 | [199652-triga.json](./199652-triga.json) |
 | Trigger Table | 113028 | [113028-trigger-table.json](./113028-trigger-table.json) |
 | Trigger Witch | 119365 | [119365-trigger-witch.json](./119365-trigger-witch.json) |
+| TriggerHeart Exelica Enhanced | 326579 | [326579-triggerheart-exelica-enhanced.json](./326579-triggerheart-exelica-enhanced.json) |
 | Trigonal | 188097 | [188097-trigonal.json](./188097-trigonal.json) |
 | Trilogic | 91978 | [91978-trilogic.json](./91978-trilogic.json) |
 | Trilogy of the Moon | 339795 | [339795-trilogy-of-the-moon.json](./339795-trilogy-of-the-moon.json) |
