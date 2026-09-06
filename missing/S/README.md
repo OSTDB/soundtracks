@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Jack: Desert Quest | 338746 | [338746-samurai-jack-desert-quest.json](./338746-samurai-jack-desert-quest.json) |
 | Samurai Jack: Way of the Warrior | 338747 | [338747-samurai-jack-way-of-the-warrior.json](./338747-samurai-jack-way-of-the-warrior.json) |
 | Samurai Maiden | 212269 | [212269-samurai-maiden.json](./212269-samurai-maiden.json) |
+| Samurai Pizza Cats: Blast from the Past! | 332394 | [332394-samurai-pizza-cats-blast-from-the-past.json](./332394-samurai-pizza-cats-blast-from-the-past.json) |
 | Samurai Saga | 55910 | [55910-samurai-saga.json](./55910-samurai-saga.json) |
 | Samurai Shodown: Baiken | 167836 | [167836-samurai-shodown-baiken.json](./167836-samurai-shodown-baiken.json) |
 | Samurai Shoguns Heart: Romance Among the Cherry Blossoms | 378783 | [378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json](./378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json) |
@@ -298,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satanislas | 250027 | [250027-satanislas.json](./250027-satanislas.json) |
 | SatelliTV | 386678 | [386678-satellitv.json](./386678-satellitv.json) |
 | Satisdom | 337095 | [337095-satisdom.json](./337095-satisdom.json) |
+| Satiszone | 332420 | [332420-satiszone.json](./332420-satiszone.json) |
 | Satori | 336391 | [336391-satori.json](./336391-satori.json) |
 | Saturn | 313467 | [313467-saturn.json](./313467-saturn.json) |
 | Saturnalia | 131564 | [131564-saturnalia.json](./131564-saturnalia.json) |
@@ -485,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screenplay in Autumn | 392757 | [392757-screenplay-in-autumn.json](./392757-screenplay-in-autumn.json) |
 | Screens Up by Nickelodeon | 105974 | [105974-screens-up-by-nickelodeon.json](./105974-screens-up-by-nickelodeon.json) |
 | Screeps: World | 25903 | [25903-screeps-world.json](./25903-screeps-world.json) |
+| Screwdom 3D | 332430 | [332430-screwdom-3d.json](./332430-screwdom-3d.json) |
 | Scribble | 262675 | [262675-scribble.json](./262675-scribble.json) |
 | Scribble | 290697 | [290697-scribble.json](./290697-scribble.json) |
 | Scribble Hero | 382203 | [382203-scribble-hero.json](./382203-scribble-hero.json) |
@@ -596,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Wives' Club | 80592 | [80592-secret-wives-club.json](./80592-secret-wives-club.json) |
 | Secrets | 179171 | [179171-secrets.json](./179171-secrets.json) |
 | Secrets Agent | 136440 | [136440-secrets-agent.json](./136440-secrets-agent.json) |
+| Secrets by Episode | 332434 | [332434-secrets-by-episode.json](./332434-secrets-by-episode.json) |
 | Secrets of Salem: The Phantom Cab - Collector's Edition | 355027 | [355027-secrets-of-salem-the-phantom-cab-collectors-edition.json](./355027-secrets-of-salem-the-phantom-cab-collectors-edition.json) |
 | Secrets of the Dark: Eclipse Mountain - Collector's Edition | 96752 | [96752-secrets-of-the-dark-eclipse-mountain-collectors-edition.json](./96752-secrets-of-the-dark-eclipse-mountain-collectors-edition.json) |
 | Secrets of the Dark: Mystery of the Ancestral Estate & Secrets of the Dark: The Flower of Shadow | 201813 | [201813-secrets-of-the-dark-mystery-of-the-ancestral-estate-and-secrets-of-the-dark-the-flower-of-shadow.json](./201813-secrets-of-the-dark-mystery-of-the-ancestral-estate-and-secrets-of-the-dark-the-flower-of-shadow.json) |
@@ -732,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Survivors | 348774 | [348774-serious-survivors.json](./348774-serious-survivors.json) |
 | Serpent of Isis: Your Journey Continues | 89291 | [89291-serpent-of-isis-your-journey-continues.json](./89291-serpent-of-isis-your-journey-continues.json) |
 | Serpent Squad | 402273 | [402273-serpent-squad.json](./402273-serpent-squad.json) |
+| Serpent Wine | 332401 | [332401-serpent-wine.json](./332401-serpent-wine.json) |
 | Serpy | 78054 | [78054-serpy.json](./78054-serpy.json) |
 | Serra Pelada | 80551 | [80551-serra-pelada.json](./80551-serra-pelada.json) |
 | Servant of the Lake | 350179 | [350179-servant-of-the-lake.json](./350179-servant-of-the-lake.json) |
@@ -1165,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Memories | 340372 | [340372-short-memories.json](./340372-short-memories.json) |
 | Shot Online | 20574 | [20574-shot-online.json](./20574-shot-online.json) |
 | Shoujo Activity | 194606 | [194606-shoujo-activity.json](./194606-shoujo-activity.json) |
+| Shoujo Mahou Gaku Little Witch Romanesque Bangai Hen "Sayonara, Mauresumo" | 332429 | [332429-shoujo-mahou-gaku-little-witch-romanesque-bangai-hen-sayonara-mauresumo.json](./332429-shoujo-mahou-gaku-little-witch-romanesque-bangai-hen-sayonara-mauresumo.json) |
 | Shoujo Minority: Nagusame no Ai | 194607 | [194607-shoujo-minority-nagusame-no-ai.json](./194607-shoujo-minority-nagusame-no-ai.json) |
 | Should I Buy It? | 180818 | [180818-should-i-buy-it.json](./180818-should-i-buy-it.json) |
 | Shoulder-Mounted Space Program | 373533 | [373533-shoulder-mounted-space-program.json](./373533-shoulder-mounted-space-program.json) |
@@ -1273,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hunter III | 870 | [870-silent-hunter-iii.json](./870-silent-hunter-iii.json) |
 | Silent Hunter Online | 3449 | [3449-silent-hunter-online.json](./3449-silent-hunter-online.json) |
 | Silent Infinity | 202366 | [202366-silent-infinity.json](./202366-silent-infinity.json) |
+| Silent Ops | 332433 | [332433-silent-ops.json](./332433-silent-ops.json) |
 | Silent Paradise Anthology | 402901 | [402901-silent-paradise-anthology.json](./402901-silent-paradise-anthology.json) |
 | Silent Reel | 367979 | [367979-silent-reel.json](./367979-silent-reel.json) |
 | Silent Scope 3 | 44630 | [44630-silent-scope-3.json](./44630-silent-scope-3.json) |
@@ -1401,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinkr 3 | 169430 | [169430-sinkr-3.json](./169430-sinkr-3.json) |
 | Sinner | 291249 | [291249-sinner.json](./291249-sinner.json) |
 | Sins | 183078 | [183078-sins.json](./183078-sins.json) |
+| Sinsations 2: Modern Gods | 332432 | [332432-sinsations-2-modern-gods.json](./332432-sinsations-2-modern-gods.json) |
 | Sintropia Fruits Together | 388053 | [388053-sintropia-fruits-together.json](./388053-sintropia-fruits-together.json) |
 | Siphonogore | 291237 | [291237-siphonogore.json](./291237-siphonogore.json) |
 | Sir Ababol: Remastered Edition | 194641 | [194641-sir-ababol-remastered-edition.json](./194641-sir-ababol-remastered-edition.json) |
@@ -1736,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoking Simulator | 201285 | [201285-smoking-simulator.json](./201285-smoking-simulator.json) |
 | Smoking Snakes | 197952 | [197952-smoking-snakes.json](./197952-smoking-snakes.json) |
 | Smol Adventure | 353893 | [353893-smol-adventure.json](./353893-smol-adventure.json) |
+| Smol Gods | 332407 | [332407-smol-gods.json](./332407-smol-gods.json) |
 | Smol Kobold Garden | 340933 | [340933-smol-kobold-garden.json](./340933-smol-kobold-garden.json) |
 | Smolsies | 127989 | [127989-smolsies.json](./127989-smolsies.json) |
 | Smoothie Galaxy | 182518 | [182518-smoothie-galaxy.json](./182518-smoothie-galaxy.json) |
@@ -2034,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sommad | 51957 | [51957-sommad.json](./51957-sommad.json) |
 | Somni | 172738 | [172738-somni.json](./172738-somni.json) |
 | Somniphobia | 340940 | [340940-somniphobia.json](./340940-somniphobia.json) |
+| Somnis: Rumble Rush | 332441 | [332441-somnis-rumble-rush.json](./332441-somnis-rumble-rush.json) |
 | Somnium | 201329 | [201329-somnium.json](./201329-somnium.json) |
 | Somnium Eleven | 191876 | [191876-somnium-eleven.json](./191876-somnium-eleven.json) |
 | Somnium Shore | 158183 | [158183-somnium-shore.json](./158183-somnium-shore.json) |
@@ -2140,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Scramble | 334685 | [334685-sonic-scramble.json](./334685-sonic-scramble.json) |
 | Sonic Sky Chase Zone | 339670 | [339670-sonic-sky-chase-zone.json](./339670-sonic-sky-chase-zone.json) |
 | Sonic Skywind: Episode II | 327000 | [327000-sonic-skywind-episode-ii.json](./327000-sonic-skywind-episode-ii.json) |
+| Sonic Small World | 332453 | [332453-sonic-small-world.json](./332453-sonic-small-world.json) |
 | Sonic Spectacle | 336358 | [336358-sonic-spectacle.json](./336358-sonic-spectacle.json) |
 | Sonic Speed | 336356 | [336356-sonic-speed.json](./336356-sonic-speed.json) |
 | Sonic Spinball: Life Savers | 274722 | [274722-sonic-spinball-life-savers.json](./274722-sonic-spinball-life-savers.json) |
