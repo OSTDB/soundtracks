@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranoia: Happiness is Mandatory | 117313 | [117313-paranoia-happiness-is-mandatory.json](./117313-paranoia-happiness-is-mandatory.json) |
 | Paranoide | 333371 | [333371-paranoide.json](./333371-paranoide.json) |
 | Paranormal Activity: The Lost Soul | 32699 | [32699-paranormal-activity-the-lost-soul.json](./32699-paranormal-activity-the-lost-soul.json) |
+| Paranormal Files: Fatal Flaw - Collector's Edition | 355018 | [355018-paranormal-files-fatal-flaw-collectors-edition.json](./355018-paranormal-files-fatal-flaw-collectors-edition.json) |
 | Paranormal Roulette | 365084 | [365084-paranormal-roulette.json](./365084-paranormal-roulette.json) |
 | Paranormal Territory 2 | 91974 | [91974-paranormal-territory-2.json](./91974-paranormal-territory-2.json) |
 | Paranormal Watcher | 335082 | [335082-paranormal-watcher.json](./335082-paranormal-watcher.json) |
@@ -1354,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopIdle | 294461 | [294461-popidle.json](./294461-popidle.json) |
 | Popil | 264314 | [264314-popil.json](./264314-popil.json) |
 | PoPoRoGue | 79937 | [79937-poporogue.json](./79937-poporogue.json) |
+| Poppit! Party | 354993 | [354993-poppit-party.json](./354993-poppit-party.json) |
 | Poppy Kart 2 | 366248 | [366248-poppy-kart-2.json](./366248-poppy-kart-2.json) |
 | Poppy Playtime Toybox Bundle 1 | 375863 | [375863-poppy-playtime-toybox-bundle-1.json](./375863-poppy-playtime-toybox-bundle-1.json) |
 | Poppy Sanctum | 396891 | [396891-poppy-sanctum.json](./396891-poppy-sanctum.json) |
