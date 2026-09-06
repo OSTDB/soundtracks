@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeverEnd | 29873 | [29873-neverend.json](./29873-neverend.json) |
 | Neverending Check-in: The Hotel Stories | 253566 | [253566-neverending-check-in-the-hotel-stories.json](./253566-neverending-check-in-the-hotel-stories.json) |
 | NeverGone | 39003 | [39003-nevergone.json](./39003-nevergone.json) |
+| NeverHome: Tower of Vanity | 349838 | [349838-neverhome-tower-of-vanity.json](./349838-neverhome-tower-of-vanity.json) |
 | Neverland | 216990 | [216990-neverland.json](./216990-neverland.json) |
 | Neverland: Aeterna Chronicles | 353288 | [353288-neverland-aeterna-chronicles.json](./353288-neverland-aeterna-chronicles.json) |
 | Neverless Academy | 371259 | [371259-neverless-academy.json](./371259-neverless-academy.json) |
