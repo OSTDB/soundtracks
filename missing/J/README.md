@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jampack: Volume 14 | 43314 | [43314-jampack-volume-14.json](./43314-jampack-volume-14.json) |
 | Jampack: Volume 15 | 43317 | [43317-jampack-volume-15.json](./43317-jampack-volume-15.json) |
 | Jams | 340765 | [340765-jams.json](./340765-jams.json) |
+| Jamster Allstars | 333561 | [333561-jamster-allstars.json](./333561-jamster-allstars.json) |
 | Jane's Combat Simulations: Advanced Tactical Fighters | 78026 | [78026-janes-combat-simulations-advanced-tactical-fighters.json](./78026-janes-combat-simulations-advanced-tactical-fighters.json) |
 | Jane's Combat Simulations: Attack Pack | 78022 | [78022-janes-combat-simulations-attack-pack.json](./78022-janes-combat-simulations-attack-pack.json) |
 | Jane's Hotel | 20549 | [20549-janes-hotel.json](./20549-janes-hotel.json) |
