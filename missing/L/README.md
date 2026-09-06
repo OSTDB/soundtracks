@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth | 379903 | [379903-labyrinth.json](./379903-labyrinth.json) |
 | Labyrinth | 78506 | [78506-labyrinth.json](./78506-labyrinth.json) |
 | Labyrinth 3 | 171066 | [171066-labyrinth-3.json](./171066-labyrinth-3.json) |
+| Labyrinth Master | 356672 | [356672-labyrinth-master.json](./356672-labyrinth-master.json) |
 | Labyrinth of the Witch DX | 217538 | [217538-labyrinth-of-the-witch-dx.json](./217538-labyrinth-of-the-witch-dx.json) |
 | Labyrinth of Touhou | 63855 | [63855-labyrinth-of-touhou.json](./63855-labyrinth-of-touhou.json) |
 | Labyrinth of Zangetsu: Adventure Academia - The Fractured Continent Collab: Additional Characters Pack | 246643 | [246643-labyrinth-of-zangetsu-adventure-academia-the-fractured-continent-collab-additional-characters-pack.json](./246643-labyrinth-of-zangetsu-adventure-academia-the-fractured-continent-collab-additional-characters-pack.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LaserShotz | 159890 | [159890-lasershotz.json](./159890-lasershotz.json) |
 | Lassie | 43331 | [43331-lassie.json](./43331-lassie.json) |
 | Lasso Catch | 277575 | [277575-lasso-catch.json](./277575-lasso-catch.json) |
+| Last | 356627 | [356627-last.json](./356627-last.json) |
 | Last Bible III | 38354 | [38354-last-bible-iii.json](./38354-last-bible-iii.json) |
 | Last Bloody Snack | 256553 | [256553-last-bloody-snack.json](./256553-last-bloody-snack.json) |
 | Last Bus Home | 208617 | [208617-last-bus-home.json](./208617-last-bus-home.json) |
@@ -931,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Memories: Romance You Choose | 299456 | [299456-lost-memories-romance-you-choose.json](./299456-lost-memories-romance-you-choose.json) |
 | Lost Planet 3 | 1916 | [1916-lost-planet-3.json](./1916-lost-planet-3.json) |
 | Lost Planet: Extreme Condition | 1913 | [1913-lost-planet-extreme-condition.json](./1913-lost-planet-extreme-condition.json) |
+| Lost Prototype | 356643 | [356643-lost-prototype.json](./356643-lost-prototype.json) |
 | Lost Recipes | 194717 | [194717-lost-recipes.json](./194717-lost-recipes.json) |
 | Lost Saga | 63868 | [63868-lost-saga.json](./63868-lost-saga.json) |
 | Lost Soul | 184128 | [184128-lost-soul.json](./184128-lost-soul.json) |
@@ -1097,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunatic Rave 2 | 79901 | [79901-lunatic-rave-2.json](./79901-lunatic-rave-2.json) |
 | Lunch Box Ready | 212458 | [212458-lunch-box-ready.json](./212458-lunch-box-ready.json) |
 | Lunch Lord: The Doom of Black Philip | 184634 | [184634-lunch-lord-the-doom-of-black-philip.json](./184634-lunch-lord-the-doom-of-black-philip.json) |
+| Lunera | 356673 | [356673-lunera.json](./356673-lunera.json) |
 | Lunnye Devitsy | 16491 | [16491-lunnye-devitsy.json](./16491-lunnye-devitsy.json) |
 | Luòchén zhī Yù | 114382 | [114382-luochen-zhi-yu.json](./114382-luochen-zhi-yu.json) |
 | Lupin III Sansei: Cagliostro no Shiro Saikai | 302706 | [302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json](./302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json) |
