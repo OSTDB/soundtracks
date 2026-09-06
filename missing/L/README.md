@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Arrow is Missing | 262674 | [262674-light-arrow-is-missing.json](./262674-light-arrow-is-missing.json) |
 | Light Bearers | 111032 | [111032-light-bearers.json](./111032-light-bearers.json) |
 | Light Fighter | 165018 | [165018-light-fighter.json](./165018-light-fighter.json) |
+| Light Followers: Blinded by the Dark | 349886 | [349886-light-followers-blinded-by-the-dark.json](./349886-light-followers-blinded-by-the-dark.json) |
 | Light In Blood | 277003 | [277003-light-in-blood.json](./277003-light-in-blood.json) |
 | Light Instinct | 357818 | [357818-light-instinct.json](./357818-light-instinct.json) |
 | Light Of Chaos | 304361 | [304361-light-of-chaos.json](./304361-light-of-chaos.json) |
@@ -601,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Bender | 275329 | [275329-line-bender.json](./275329-line-bender.json) |
 | Line Bubble 2 | 247207 | [247207-line-bubble-2.json](./247207-line-bubble-2.json) |
 | Line Crossing | 181386 | [181386-line-crossing.json](./181386-line-crossing.json) |
+| Line Hopper | 349875 | [349875-line-hopper.json](./349875-line-hopper.json) |
 | Line of Fire | 12178 | [12178-line-of-fire.json](./12178-line-of-fire.json) |
 | Line Rider | 28810 | [28810-line-rider.json](./28810-line-rider.json) |
 | Lineage | 388008 | [388008-lineage.json](./388008-lineage.json) |
