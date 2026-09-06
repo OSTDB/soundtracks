@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradroid | 22518 | [22518-paradroid.json](./22518-paradroid.json) |
 | Paragnosia | 320184 | [320184-paragnosia.json](./320184-paragnosia.json) |
 | Paragon Pioneers | 206351 | [206351-paragon-pioneers.json](./206351-paragon-pioneers.json) |
+| Paragon Sex A Doll | 356065 | [356065-paragon-sex-a-doll.json](./356065-paragon-sex-a-doll.json) |
 | Parallax | 292841 | [292841-parallax.json](./292841-parallax.json) |
 | Parallel Olympus | 156132 | [156132-parallel-olympus.json](./156132-parallel-olympus.json) |
 | Parallel World | 113026 | [113026-parallel-world.json](./113026-parallel-world.json) |
@@ -843,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipe Dreams | 232141 | [232141-pipe-dreams.json](./232141-pipe-dreams.json) |
 | Pipe Skull | 185127 | [185127-pipe-skull.json](./185127-pipe-skull.json) |
 | Pipeline RTX | 192980 | [192980-pipeline-rtx.json](./192980-pipeline-rtx.json) |
+| Piper | 356068 | [356068-piper.json](./356068-piper.json) |
 | Pipler | 57701 | [57701-pipler.json](./57701-pipler.json) |
 | Pipo Park | 141225 | [141225-pipo-park.json](./141225-pipo-park.json) |
 | Pippin | 92542 | [92542-pippin.json](./92542-pippin.json) |
