@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T01:47:50.021Z",
-  "total_missing": 35029,
+  "generated_at": "2026-09-06T02:03:14.818Z",
+  "total_missing": 35079,
   "games": [
     {
       "igdb_id": 306086,
@@ -20323,6 +20323,11 @@
       "file": "missing/B/159323-book-of-mario-thousands-of-doors.json"
     },
     {
+      "igdb_id": 362845,
+      "game_name": "Book Travelers II: A Royal Story - Collector's Edition",
+      "file": "missing/B/362845-book-travelers-ii-a-royal-story-collectors-edition.json"
+    },
+    {
       "igdb_id": 364516,
       "game_name": "Book Travelers III: A Gothic Story - Collector's Edition",
       "file": "missing/B/364516-book-travelers-iii-a-gothic-story-collectors-edition.json"
@@ -21763,6 +21768,11 @@
       "file": "missing/B/87317-bridge-hand-composer.json"
     },
     {
+      "igdb_id": 362834,
+      "game_name": "Bridge to Another World Remastered: Burnt Dreams Collector's Edition",
+      "file": "missing/B/362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json"
+    },
+    {
       "igdb_id": 104108,
       "game_name": "Bridge to Another World: Escape From Oz Collector's Edition",
       "file": "missing/B/104108-bridge-to-another-world-escape-from-oz-collectors-edition.json"
@@ -21881,6 +21891,11 @@
       "igdb_id": 129815,
       "game_name": "Brødrene Mortensens Jul",
       "file": "missing/B/129815-br-drene-mortensens-jul.json"
+    },
+    {
+      "igdb_id": 362856,
+      "game_name": "Broke Brodie",
+      "file": "missing/B/362856-broke-brodie.json"
     },
     {
       "igdb_id": 118423,
@@ -22431,6 +22446,11 @@
       "igdb_id": 71558,
       "game_name": "Bud Redhead: The Time Chase",
       "file": "missing/B/71558-bud-redhead-the-time-chase.json"
+    },
+    {
+      "igdb_id": 362855,
+      "game_name": "Budget Rate Stigmata",
+      "file": "missing/B/362855-budget-rate-stigmata.json"
     },
     {
       "igdb_id": 21130,
@@ -25743,6 +25763,11 @@
       "file": "missing/C/107230-cave-digger-riches.json"
     },
     {
+      "igdb_id": 362819,
+      "game_name": "Cave Diver",
+      "file": "missing/C/362819-cave-diver.json"
+    },
+    {
       "igdb_id": 165675,
       "game_name": "Cave Explorer",
       "file": "missing/C/165675-cave-explorer.json"
@@ -28173,6 +28198,16 @@
       "file": "missing/C/146872-city-of-secrets-2-episode-1.json"
     },
     {
+      "igdb_id": 362835,
+      "game_name": "City of Stories: Stephan's Journey - Collector's Edition",
+      "file": "missing/C/362835-city-of-stories-stephans-journey-collectors-edition.json"
+    },
+    {
+      "igdb_id": 362839,
+      "game_name": "City of Stories: The Professor's Secret - Collector's Edition",
+      "file": "missing/C/362839-city-of-stories-the-professors-secret-collectors-edition.json"
+    },
+    {
       "igdb_id": 154025,
       "game_name": "City of Thugs",
       "file": "missing/C/154025-city-of-thugs.json"
@@ -28281,6 +28316,11 @@
       "igdb_id": 10082,
       "game_name": "Claire",
       "file": "missing/C/10082-claire.json"
+    },
+    {
+      "igdb_id": 362828,
+      "game_name": "Claire Darksage and the Accursed Objects: Collector's Editon",
+      "file": "missing/C/362828-claire-darksage-and-the-accursed-objects-collectors-editon.json"
     },
     {
       "igdb_id": 402939,
@@ -31573,6 +31613,11 @@
       "file": "missing/C/267665-crabmania.json"
     },
     {
+      "igdb_id": 362816,
+      "game_name": "Crabs",
+      "file": "missing/C/362816-crabs.json"
+    },
+    {
       "igdb_id": 373019,
       "game_name": "Crabs Must Die!",
       "file": "missing/C/373019-crabs-must-die.json"
@@ -33683,6 +33728,11 @@
       "file": "missing/C/260422-cursed-fables-a-voice-to-die-for-collectors-edition.json"
     },
     {
+      "igdb_id": 362841,
+      "game_name": "Cursed Fables: Before the Clock Strikes - Collector's Edition",
+      "file": "missing/C/362841-cursed-fables-before-the-clock-strikes-collectors-edition.json"
+    },
+    {
       "igdb_id": 396895,
       "game_name": "Cursed Gun",
       "file": "missing/C/396895-cursed-gun.json"
@@ -35071,6 +35121,11 @@
       "igdb_id": 109034,
       "game_name": "Dark Chaser",
       "file": "missing/D/109034-dark-chaser.json"
+    },
+    {
+      "igdb_id": 362832,
+      "game_name": "Dark City: Barcelona Collector's Edition",
+      "file": "missing/D/362832-dark-city-barcelona-collectors-edition.json"
     },
     {
       "igdb_id": 190743,
@@ -38246,6 +38301,11 @@
       "igdb_id": 410934,
       "game_name": "Detective Boto: Belle Memoir",
       "file": "missing/D/410934-detective-boto-belle-memoir.json"
+    },
+    {
+      "igdb_id": 362848,
+      "game_name": "Detective Club: Gallery of Shadows - Collector's Edition",
+      "file": "missing/D/362848-detective-club-gallery-of-shadows-collectors-edition.json"
     },
     {
       "igdb_id": 115712,
@@ -47048,6 +47108,11 @@
       "file": "missing/E/322347-erk-adventures-in-stone-age-real-estate.json"
     },
     {
+      "igdb_id": 362859,
+      "game_name": "Erl",
+      "file": "missing/E/362859-erl.json"
+    },
+    {
       "igdb_id": 110356,
       "game_name": "Erotic Colouring Book",
       "file": "missing/E/110356-erotic-colouring-book.json"
@@ -53836,6 +53901,11 @@
       "igdb_id": 12072,
       "game_name": "Flywrench",
       "file": "missing/F/12072-flywrench.json"
+    },
+    {
+      "igdb_id": 362810,
+      "game_name": "FNaF World Redacted",
+      "file": "missing/F/362810-fnaf-world-redacted.json"
     },
     {
       "igdb_id": 314044,
@@ -61943,6 +62013,11 @@
       "file": "missing/G/214724-grim-tales-horizon-of-wishes-collectors-edition.json"
     },
     {
+      "igdb_id": 362838,
+      "game_name": "Grim Tales: Light in the Darkness - Collector's Edition",
+      "file": "missing/G/362838-grim-tales-light-in-the-darkness-collectors-edition.json"
+    },
+    {
       "igdb_id": 250595,
       "game_name": "Grim Tales: The Hunger",
       "file": "missing/G/250595-grim-tales-the-hunger.json"
@@ -63461,6 +63536,21 @@
       "igdb_id": 274764,
       "game_name": "Halloween Online Horror Night",
       "file": "missing/H/274764-halloween-online-horror-night.json"
+    },
+    {
+      "igdb_id": 362829,
+      "game_name": "Halloween Secrets: The Blood Vow - Collector's Edition",
+      "file": "missing/H/362829-halloween-secrets-the-blood-vow-collectors-edition.json"
+    },
+    {
+      "igdb_id": 362849,
+      "game_name": "Halloween Stories: Inspiration's Spark - Collector's Edition",
+      "file": "missing/H/362849-halloween-stories-inspirations-spark-collectors-edition.json"
+    },
+    {
+      "igdb_id": 362850,
+      "game_name": "Halloween Stories: Written in Blood - Collector's Edition",
+      "file": "missing/H/362850-halloween-stories-written-in-blood-collectors-edition.json"
     },
     {
       "igdb_id": 155647,
@@ -66813,6 +66903,11 @@
       "file": "missing/H/302099-hidden-oddities.json"
     },
     {
+      "igdb_id": 362831,
+      "game_name": "Hidden Paradise: Aloha with Love - Collector's Edition",
+      "file": "missing/H/362831-hidden-paradise-aloha-with-love-collectors-edition.json"
+    },
+    {
       "igdb_id": 109412,
       "game_name": "Hidden Paws Mystery",
       "file": "missing/H/109412-hidden-paws-mystery.json"
@@ -67611,6 +67706,11 @@
       "igdb_id": 273139,
       "game_name": "Holiday Holocaust",
       "file": "missing/H/273139-holiday-holocaust.json"
+    },
+    {
+      "igdb_id": 362852,
+      "game_name": "Holiday in Europe: Netherlands Dreams - Collector's Edition",
+      "file": "missing/H/362852-holiday-in-europe-netherlands-dreams-collectors-edition.json"
     },
     {
       "igdb_id": 157183,
@@ -69401,6 +69501,11 @@
       "igdb_id": 367978,
       "game_name": "Hunter's Arena: Revolution",
       "file": "missing/H/367978-hunters-arena-revolution.json"
+    },
+    {
+      "igdb_id": 362844,
+      "game_name": "Hunter's Journey: Tears of the Lake - Collector's Edition",
+      "file": "missing/H/362844-hunters-journey-tears-of-the-lake-collectors-edition.json"
     },
     {
       "igdb_id": 365681,
@@ -72183,6 +72288,11 @@
       "file": "missing/I/113724-inorikaze.json"
     },
     {
+      "igdb_id": 362824,
+      "game_name": "Inoue Ryouko: Roommate",
+      "file": "missing/I/362824-inoue-ryouko-roommate.json"
+    },
+    {
       "igdb_id": 209725,
       "game_name": "Inoue Takehiko: Buzzer Beater - Kouhen",
       "file": "missing/I/209725-inoue-takehiko-buzzer-beater-kouhen.json"
@@ -74688,6 +74798,11 @@
       "file": "missing/J/126907-jewel-match-atlantis-solitaire-collectors-edition.json"
     },
     {
+      "igdb_id": 362851,
+      "game_name": "Jewel Match Solitaire Winterscapes 3: Collector's Edition",
+      "file": "missing/J/362851-jewel-match-solitaire-winterscapes-3-collectors-edition.json"
+    },
+    {
       "igdb_id": 165683,
       "game_name": "Jewel Match Solitaire: Summertime",
       "file": "missing/J/165683-jewel-match-solitaire-summertime.json"
@@ -75081,6 +75196,16 @@
       "igdb_id": 367405,
       "game_name": "Jiǔzhōu Jiàn Gē",
       "file": "missing/J/367405-jiuzhou-jian-ge.json"
+    },
+    {
+      "igdb_id": 362854,
+      "game_name": "Jixo 2: Summer Dreams - Collector's Edition",
+      "file": "missing/J/362854-jixo-2-summer-dreams-collectors-edition.json"
+    },
+    {
+      "igdb_id": 362853,
+      "game_name": "Jixo 3: Hidden Horizons - Collector's Edition",
+      "file": "missing/J/362853-jixo-3-hidden-horizons-collectors-edition.json"
     },
     {
       "igdb_id": 178648,
@@ -87143,6 +87268,11 @@
       "file": "missing/M/250047-maridows-64.json"
     },
     {
+      "igdb_id": 362840,
+      "game_name": "Marie's Patisserie: Sweet Dreams - Collector's Edition",
+      "file": "missing/M/362840-maries-patisserie-sweet-dreams-collectors-edition.json"
+    },
+    {
       "igdb_id": 183053,
       "game_name": "Marigold",
       "file": "missing/M/183053-marigold.json"
@@ -92108,6 +92238,11 @@
       "file": "missing/M/110365-miracle-circus.json"
     },
     {
+      "igdb_id": 362809,
+      "game_name": "Miracle Jim no Bassing Beat",
+      "file": "missing/M/362809-miracle-jim-no-bassing-beat.json"
+    },
+    {
       "igdb_id": 206947,
       "game_name": "Miracle Party Plus: Fushigi no Gensoukyou 2",
       "file": "missing/M/206947-miracle-party-plus-fushigi-no-gensoukyou-2.json"
@@ -95371,6 +95506,11 @@
       "igdb_id": 333940,
       "game_name": "Mroi",
       "file": "missing/M/333940-mroi.json"
+    },
+    {
+      "igdb_id": 362847,
+      "game_name": "Ms. Holmes: Letter M - Collector's Edition",
+      "file": "missing/M/362847-ms-holmes-letter-m-collectors-edition.json"
     },
     {
       "igdb_id": 186333,
@@ -100926,6 +101066,11 @@
       "igdb_id": 370152,
       "game_name": "Nocturnal Visitors: Book One",
       "file": "missing/N/370152-nocturnal-visitors-book-one.json"
+    },
+    {
+      "igdb_id": 362846,
+      "game_name": "Nocturnarya: Collector's Edition",
+      "file": "missing/N/362846-nocturnarya-collectors-edition.json"
     },
     {
       "igdb_id": 141870,
@@ -108858,6 +109003,11 @@
       "file": "missing/P/59460-pick-a-gem.json"
     },
     {
+      "igdb_id": 362860,
+      "game_name": "Pickaxe Tower",
+      "file": "missing/P/362860-pickaxe-tower.json"
+    },
+    {
       "igdb_id": 20805,
       "game_name": "Picnic Wars",
       "file": "missing/P/20805-picnic-wars.json"
@@ -110268,6 +110418,11 @@
       "file": "missing/P/374603-pizzaiolo-ninja.json"
     },
     {
+      "igdb_id": 362821,
+      "game_name": "PizzaMaker",
+      "file": "missing/P/362821-pizzamaker.json"
+    },
+    {
       "igdb_id": 282048,
       "game_name": "PJ Masks Power Heroes: Mighty Alliance",
       "file": "missing/P/282048-pj-masks-power-heroes-mighty-alliance.json"
@@ -111276,6 +111431,11 @@
       "igdb_id": 172745,
       "game_name": "Pokémon Deluge",
       "file": "missing/P/172745-pokemon-deluge.json"
+    },
+    {
+      "igdb_id": 362817,
+      "game_name": "Pokémon Dumbdumb Island",
+      "file": "missing/P/362817-pokemon-dumbdumb-island.json"
     },
     {
       "igdb_id": 392776,
@@ -118661,6 +118821,26 @@
       "igdb_id": 319954,
       "game_name": "Reflection Seeker",
       "file": "missing/R/319954-reflection-seeker.json"
+    },
+    {
+      "igdb_id": 362827,
+      "game_name": "Reflections of Life: Call of the Ancestors - Collector's Edition",
+      "file": "missing/R/362827-reflections-of-life-call-of-the-ancestors-collectors-edition.json"
+    },
+    {
+      "igdb_id": 362833,
+      "game_name": "Reflections of Life: Dream Box - Collector's Edition",
+      "file": "missing/R/362833-reflections-of-life-dream-box-collectors-edition.json"
+    },
+    {
+      "igdb_id": 362830,
+      "game_name": "Reflections of Life: Hearts Taken - Collector's Edition",
+      "file": "missing/R/362830-reflections-of-life-hearts-taken-collectors-edition.json"
+    },
+    {
+      "igdb_id": 362842,
+      "game_name": "Reflections of Life: Sleep's Embrace - Collector's Edition",
+      "file": "missing/R/362842-reflections-of-life-sleeps-embrace-collectors-edition.json"
     },
     {
       "igdb_id": 244479,
@@ -134363,6 +134543,11 @@
       "file": "missing/S/304882-sound-horizons.json"
     },
     {
+      "igdb_id": 362812,
+      "game_name": "Sound Shooting!! Rhythm Shooter",
+      "file": "missing/S/362812-sound-shooting-rhythm-shooter.json"
+    },
+    {
       "igdb_id": 114378,
       "game_name": "Sound Slide",
       "file": "missing/S/114378-sound-slide.json"
@@ -147918,6 +148103,11 @@
       "file": "missing/T/307316-the-capitol-cheese-agreement.json"
     },
     {
+      "igdb_id": 362814,
+      "game_name": "The Captive",
+      "file": "missing/T/362814-the-captive.json"
+    },
+    {
       "igdb_id": 103509,
       "game_name": "The Cartographer's Tale",
       "file": "missing/T/103509-the-cartographers-tale.json"
@@ -155183,6 +155373,11 @@
       "file": "missing/T/31392-thick-air.json"
     },
     {
+      "igdb_id": 362857,
+      "game_name": "Thief",
+      "file": "missing/T/362857-thief.json"
+    },
+    {
       "igdb_id": 221424,
       "game_name": "Thief City",
       "file": "missing/T/221424-thief-city.json"
@@ -155786,6 +155981,11 @@
       "igdb_id": 86102,
       "game_name": "Tiara Concerto",
       "file": "missing/T/86102-tiara-concerto.json"
+    },
+    {
+      "igdb_id": 362822,
+      "game_name": "Tic Tac",
+      "file": "missing/T/362822-tic-tac.json"
     },
     {
       "igdb_id": 109020,
@@ -158333,6 +158533,11 @@
       "file": "missing/T/329365-took-the-immortal-hero.json"
     },
     {
+      "igdb_id": 362826,
+      "game_name": "Toolbox Tycoon",
+      "file": "missing/T/362826-toolbox-tycoon.json"
+    },
+    {
       "igdb_id": 202935,
       "game_name": "Tools Up! Garden Party: Season Pass",
       "file": "missing/T/202935-tools-up-garden-party-season-pass.json"
@@ -159251,6 +159456,11 @@
       "igdb_id": 372465,
       "game_name": "Towers Heritage",
       "file": "missing/T/372465-towers-heritage.json"
+    },
+    {
+      "igdb_id": 362818,
+      "game_name": "Towers of Mergethorne",
+      "file": "missing/T/362818-towers-of-mergethorne.json"
     },
     {
       "igdb_id": 381624,
@@ -161848,6 +162058,11 @@
       "file": "missing/T/261542-turkey-fling.json"
     },
     {
+      "igdb_id": 362858,
+      "game_name": "Turkmenchay",
+      "file": "missing/T/362858-turkmenchay.json"
+    },
+    {
       "igdb_id": 246679,
       "game_name": "Turma da Mônica em O Resgate",
       "file": "missing/T/246679-turma-da-monica-em-o-resgate.json"
@@ -163716,6 +163931,11 @@
       "igdb_id": 304899,
       "game_name": "Unity-chan the SharpShooter!",
       "file": "missing/U/304899-unity-chan-the-sharpshooter.json"
+    },
+    {
+      "igdb_id": 362813,
+      "game_name": "Unity-chan's Action Shooting",
+      "file": "missing/U/362813-unity-chans-action-shooting.json"
     },
     {
       "igdb_id": 70975,
@@ -168153,6 +168373,11 @@
       "file": "missing/W/178100-wastelander.json"
     },
     {
+      "igdb_id": 362823,
+      "game_name": "Wastelanders",
+      "file": "missing/W/362823-wastelanders.json"
+    },
+    {
       "igdb_id": 161902,
       "game_name": "Watashi no Kokoro! Kimi no Koto ga Suki desu.",
       "file": "missing/W/161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json"
@@ -168276,6 +168501,16 @@
       "igdb_id": 161399,
       "game_name": "Wave Rider",
       "file": "missing/W/161399-wave-rider.json"
+    },
+    {
+      "igdb_id": 362808,
+      "game_name": "Waveat",
+      "file": "missing/W/362808-waveat.json"
+    },
+    {
+      "igdb_id": 362811,
+      "game_name": "Waveat ReLight V2",
+      "file": "missing/W/362811-waveat-relight-v2.json"
     },
     {
       "igdb_id": 104097,
@@ -169346,6 +169581,21 @@
       "igdb_id": 274738,
       "game_name": "Whispered Flight",
       "file": "missing/W/274738-whispered-flight.json"
+    },
+    {
+      "igdb_id": 362843,
+      "game_name": "Whispered Secrets: Forgotten Sins - Collector's Edition",
+      "file": "missing/W/362843-whispered-secrets-forgotten-sins-collectors-edition.json"
+    },
+    {
+      "igdb_id": 362836,
+      "game_name": "Whispered Secrets: In the Cards - Collector's Edition",
+      "file": "missing/W/362836-whispered-secrets-in-the-cards-collectors-edition.json"
+    },
+    {
+      "igdb_id": 362837,
+      "game_name": "Whispered Secrets: Morbid Obsession - Collector's Edition",
+      "file": "missing/W/362837-whispered-secrets-morbid-obsession-collectors-edition.json"
     },
     {
       "igdb_id": 314059,
