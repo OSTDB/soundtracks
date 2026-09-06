@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Beauties | 173821 | [173821-ecchi-beauties.json](./173821-ecchi-beauties.json) |
 | Ecchi Breaker | 378797 | [378797-ecchi-breaker.json](./378797-ecchi-breaker.json) |
 | Ecchi Memories | 315829 | [315829-ecchi-memories.json](./315829-ecchi-memories.json) |
+| Ecchi: Time to Oppai | 349303 | [349303-ecchi-time-to-oppai.json](./349303-ecchi-time-to-oppai.json) |
 | Ecco 2: Sentinels of the Universe | 19682 | [19682-ecco-2-sentinels-of-the-universe.json](./19682-ecco-2-sentinels-of-the-universe.json) |
 | ECH8 | 395554 | [395554-ech8.json](./395554-ech8.json) |
 | Echo | 177546 | [177546-echo.json](./177546-echo.json) |
@@ -143,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edens Zero: Pocket Galaxy | 174888 | [174888-edens-zero-pocket-galaxy.json](./174888-edens-zero-pocket-galaxy.json) |
 | Edge of Atlantis | 28946 | [28946-edge-of-atlantis.json](./28946-edge-of-atlantis.json) |
 | Edge Of Dread | 388723 | [388723-edge-of-dread.json](./388723-edge-of-dread.json) |
+| Edge of Extinction | 349323 | [349323-edge-of-extinction.json](./349323-edge-of-extinction.json) |
 | Edge of Galaxy | 115681 | [115681-edge-of-galaxy.json](./115681-edge-of-galaxy.json) |
 | Edge of Grief | 254760 | [254760-edge-of-grief.json](./254760-edge-of-grief.json) |
 | Edge of Nowhere | 11159 | [11159-edge-of-nowhere.json](./11159-edge-of-nowhere.json) |
@@ -186,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggy | 91413 | [91413-eggy.json](./91413-eggy.json) |
 | Eggy Car | 335654 | [335654-eggy-car.json](./335654-eggy-car.json) |
 | Eggсellence: Eggs Bounce | 233223 | [233223-egg-ellence-eggs-bounce.json](./233223-egg-ellence-eggs-bounce.json) |
+| Egnima | 349320 | [349320-egnima.json](./349320-egnima.json) |
 | Ego Holic | 225297 | [225297-ego-holic.json](./225297-ego-holic.json) |
 | Egoboo | 47298 | [47298-egoboo.json](./47298-egoboo.json) |
 | Egress Protocol | 375856 | [375856-egress-protocol.json](./375856-egress-protocol.json) |
@@ -243,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electron Handsome Boy | 201312 | [201312-electron-handsome-boy.json](./201312-electron-handsome-boy.json) |
 | Electronia | 55918 | [55918-electronia.json](./55918-electronia.json) |
 | Electronic World Z | 150698 | [150698-electronic-world-z.json](./150698-electronic-world-z.json) |
+| Elegant Sleuth: Mystic Family | 349311 | [349311-elegant-sleuth-mystic-family.json](./349311-elegant-sleuth-mystic-family.json) |
 | Elemates | 207525 | [207525-elemates.json](./207525-elemates.json) |
 | Elemencraft | 194012 | [194012-elemencraft.json](./194012-elemencraft.json) |
 | Element Are We | 275348 | [275348-element-are-we.json](./275348-element-are-we.json) |
