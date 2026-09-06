@@ -779,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noctuary | 221395 | [221395-noctuary.json](./221395-noctuary.json) |
 | Nocturnal | 234740 | [234740-nocturnal.json](./234740-nocturnal.json) |
 | Nocturnal Visitors: Book One | 370152 | [370152-nocturnal-visitors-book-one.json](./370152-nocturnal-visitors-book-one.json) |
+| Nocturnal Whispers | 356632 | [356632-nocturnal-whispers.json](./356632-nocturnal-whispers.json) |
 | Nocturnarya: Collector's Edition | 362846 | [362846-nocturnarya-collectors-edition.json](./362846-nocturnarya-collectors-edition.json) |
 | Nocturne in Yellow | 141870 | [141870-nocturne-in-yellow.json](./141870-nocturne-in-yellow.json) |
 | Nocturne Maze: Shadows in the Hedge | 374079 | [374079-nocturne-maze-shadows-in-the-hedge.json](./374079-nocturne-maze-shadows-in-the-hedge.json) |
