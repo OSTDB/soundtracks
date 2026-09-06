@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Club: Join us if you can | 231058 | [231058-fight-club-join-us-if-you-can.json](./231058-fight-club-join-us-if-you-can.json) |
 | Fight Crab | 90231 | [90231-fight-crab.json](./90231-fight-crab.json) |
 | Fight for Life | 40800 | [40800-fight-for-life.json](./40800-fight-for-life.json) |
+| Fight For Love | 345523 | [345523-fight-for-love.json](./345523-fight-for-love.json) |
 | Fight Life: Vanguard | 318193 | [318193-fight-life-vanguard.json](./318193-fight-life-vanguard.json) |
 | Fight List - Categories Game | 87038 | [87038-fight-list-categories-game.json](./87038-fight-list-categories-game.json) |
 | Fight Night 2004 | 5835 | [5835-fight-night-2004.json](./5835-fight-night-2004.json) |
@@ -603,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finch | 304902 | [304902-finch.json](./304902-finch.json) |
 | Finch & Archie | 306095 | [306095-finch-and-archie.json](./306095-finch-and-archie.json) |
 | Find All 5: Vikings | 317026 | [317026-find-all-5-vikings.json](./317026-find-all-5-vikings.json) |
+| Find All: Bunker - Extra Level | 345512 | [345512-find-all-bunker-extra-level.json](./345512-find-all-bunker-extra-level.json) |
 | Find All: Valentine's Day | 388766 | [388766-find-all-valentines-day.json](./388766-find-all-valentines-day.json) |
 | Find El Chupacabra | 359393 | [359393-find-el-chupacabra.json](./359393-find-el-chupacabra.json) |
 | Find HQ: Police Station | 331123 | [331123-find-hq-police-station.json](./331123-find-hq-police-station.json) |
