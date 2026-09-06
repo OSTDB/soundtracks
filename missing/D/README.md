@@ -1045,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diplomacy is Not an Option: Fog of War | 415090 | [415090-diplomacy-is-not-an-option-fog-of-war.json](./415090-diplomacy-is-not-an-option-fog-of-war.json) |
 | Diptych: The Great War | 199135 | [199135-diptych-the-great-war.json](./199135-diptych-the-great-war.json) |
 | DirectionDungeon! | 179200 | [179200-directiondungeon.json](./179200-directiondungeon.json) |
+| Director Manager Total | 344940 | [344940-director-manager-total.json](./344940-director-manager-total.json) |
 | Direland | 396883 | [396883-direland.json](./396883-direland.json) |
 | Dirge | 145680 | [145680-dirge.json](./145680-dirge.json) |
 | Dirt 3: Colin McRae Vision Charity Pack | 234913 | [234913-dirt-3-colin-mcrae-vision-charity-pack.json](./234913-dirt-3-colin-mcrae-vision-charity-pack.json) |
@@ -1532,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Mario World Redrawn | 132854 | [132854-dr-mario-world-redrawn.json](./132854-dr-mario-world-redrawn.json) |
 | Dr. Mario: Vitamin Toss | 231636 | [231636-dr-mario-vitamin-toss.json](./231636-dr-mario-vitamin-toss.json) |
 | Dr. Neo Cortex: Inventor's Madness | 314661 | [314661-dr-neo-cortex-inventors-madness.json](./314661-dr-neo-cortex-inventors-madness.json) |
+| Dr. Panda Restaurant 2 | 344927 | [344927-dr-panda-restaurant-2.json](./344927-dr-panda-restaurant-2.json) |
 | Dr. Panda's Restaurant | 87345 | [87345-dr-pandas-restaurant.json](./87345-dr-pandas-restaurant.json) |
 | Dr. Paolo no Totteoki Video | 307968 | [307968-dr-paolo-no-totteoki-video.json](./307968-dr-paolo-no-totteoki-video.json) |
 | Dr. Planet | 295530 | [295530-dr-planet.json](./295530-dr-planet.json) |
@@ -1663,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Rage | 32159 | [32159-dragon-rage.json](./32159-dragon-rage.json) |
 | Dragon Roll | 184124 | [184124-dragon-roll.json](./184124-dragon-roll.json) |
 | Dragon Ruins II | 328277 | [328277-dragon-ruins-ii.json](./328277-dragon-ruins-ii.json) |
+| Dragon Slayer I | 344961 | [344961-dragon-slayer-i.json](./344961-dragon-slayer-i.json) |
 | Dragon Snack: From Ice to Ember | 399624 | [399624-dragon-snack-from-ice-to-ember.json](./399624-dragon-snack-from-ice-to-ember.json) |
 | Dragon Song Tavern | 334471 | [334471-dragon-song-tavern.json](./334471-dragon-song-tavern.json) |
 | Dragon Spear | 77588 | [77588-dragon-spear.json](./77588-dragon-spear.json) |
