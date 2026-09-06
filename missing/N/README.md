@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Quarterback 15 | 74417 | [74417-nfl-quarterback-15.json](./74417-nfl-quarterback-15.json) |
 | NFL Sports Talk Football '93 Starring Joe Montana | 72117 | [72117-nfl-sports-talk-football-93-starring-joe-montana.json](./72117-nfl-sports-talk-football-93-starring-joe-montana.json) |
 | NFL Street 2: Unleashed | 243016 | [243016-nfl-street-2-unleashed.json](./243016-nfl-street-2-unleashed.json) |
+| NGolf: Complete Edition | 313152 | [313152-ngolf-complete-edition.json](./313152-ngolf-complete-edition.json) |
 | Ngolf: Legendary Edition | 315858 | [315858-ngolf-legendary-edition.json](./315858-ngolf-legendary-edition.json) |
 | Ngolf: Platinum Edition | 317247 | [317247-ngolf-platinum-edition.json](./317247-ngolf-platinum-edition.json) |
 | NHL 07 | 5964 | [5964-nhl-07.json](./5964-nhl-07.json) |
@@ -762,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nirvana: Game of Life | 191261 | [191261-nirvana-game-of-life.json](./191261-nirvana-game-of-life.json) |
 | Nitori Dungeon | 216460 | [216460-nitori-dungeon.json](./216460-nitori-dungeon.json) |
 | Nitro Back | 216985 | [216985-nitro-back.json](./216985-nitro-back.json) |
+| Nitro Express | 313096 | [313096-nitro-express.json](./313096-nitro-express.json) |
 | Nitro Nation World Tour | 261519 | [261519-nitro-nation-world-tour.json](./261519-nitro-nation-world-tour.json) |
 | Nitro Nation: Drag Racing | 233762 | [233762-nitro-nation-drag-racing.json](./233762-nitro-nation-drag-racing.json) |
 | Nitro Thrash | 408082 | [408082-nitro-thrash.json](./408082-nitro-thrash.json) |
