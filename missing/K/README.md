@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krakatoa | 45368 | [45368-krakatoa.json](./45368-krakatoa.json) |
 | Kraken | 74458 | [74458-kraken.json](./74458-kraken.json) |
 | Kraken Attack | 318228 | [318228-kraken-attack.json](./318228-kraken-attack.json) |
+| Kraktures | 318981 | [318981-kraktures.json](./318981-kraktures.json) |
 | Krampus | 25317 | [25317-krampus.json](./25317-krampus.json) |
 | Krampus Quest | 76674 | [76674-krampus-quest.json](./76674-krampus-quest.json) |
 | Krashimals | 330558 | [330558-krashimals.json](./330558-krashimals.json) |
