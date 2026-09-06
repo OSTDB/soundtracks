@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamegoma 2: Uchi no Ko ga Ichiban! | 241032 | [241032-mamegoma-2-uchi-no-ko-ga-ichiban.json](./241032-mamegoma-2-uchi-no-ko-ga-ichiban.json) |
 | Mamegoma 3: Kawaii ga Ippai! | 241043 | [241043-mamegoma-3-kawaii-ga-ippai.json](./241043-mamegoma-3-kawaii-ga-ippai.json) |
 | Mamiya: Complete Collection | 405491 | [405491-mamiya-complete-collection.json](./405491-mamiya-complete-collection.json) |
+| Mamizou's Mimic Check | 338698 | [338698-mamizous-mimic-check.json](./338698-mamizous-mimic-check.json) |
 | Mammoth Mini Golf AR | 87202 | [87202-mammoth-mini-golf-ar.json](./87202-mammoth-mini-golf-ar.json) |
 | Mammy Talk DS | 130391 | [130391-mammy-talk-ds.json](./130391-mammy-talk-ds.json) |
 | Mamono Hunter Youko: Makai Kara no Tenkousei | 292862 | [292862-mamono-hunter-youko-makai-kara-no-tenkousei.json](./292862-mamono-hunter-youko-makai-kara-no-tenkousei.json) |
@@ -1368,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minato | 415080 | [415080-minato.json](./415080-minato.json) |
 | Mind Detective Psychology Test | 409539 | [409539-mind-detective-psychology-test.json](./409539-mind-detective-psychology-test.json) |
 | Mind Diver | 236519 | [236519-mind-diver.json](./236519-mind-diver.json) |
+| Mind Echoes: The Lost Mysteries - Collector's Edition | 338696 | [338696-mind-echoes-the-lost-mysteries-collectors-edition.json](./338696-mind-echoes-the-lost-mysteries-collectors-edition.json) |
 | Mind Games | 81416 | [81416-mind-games.json](./81416-mind-games.json) |
 | Mind Her Manor | 312325 | [312325-mind-her-manor.json](./312325-mind-her-manor.json) |
 | Mind Reader: Ghost Trip | 347716 | [347716-mind-reader-ghost-trip.json](./347716-mind-reader-ghost-trip.json) |
@@ -1454,6 +1456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini AirHockey | 405473 | [405473-mini-airhockey.json](./405473-mini-airhockey.json) |
 | Mini Basketball | 194630 | [194630-mini-basketball.json](./194630-mini-basketball.json) |
 | Mini City: Mayhem | 319363 | [319363-mini-city-mayhem.json](./319363-mini-city-mayhem.json) |
+| Mini Cozy Room: Lo-Fi | 338702 | [338702-mini-cozy-room-lo-fi.json](./338702-mini-cozy-room-lo-fi.json) |
 | Mini Drift Car | 337460 | [337460-mini-drift-car.json](./337460-mini-drift-car.json) |
 | Mini Drift Car: All Cars Key | 337461 | [337461-mini-drift-car-all-cars-key.json](./337461-mini-drift-car-all-cars-key.json) |
 | Mini Golf 3D | 117753 | [117753-mini-golf-3d.json](./117753-mini-golf-3d.json) |
@@ -1514,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Chou Party Plus: Sanae to Tenshi no Gensou Labyrinth | 206955 | [206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json](./206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json) |
 | Miracle Chou Party: Sanae to Tenshi no Gensou Labyrinth | 206944 | [206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json](./206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json) |
 | Miracle Circus | 110365 | [110365-miracle-circus.json](./110365-miracle-circus.json) |
+| Miracle Heroes: Temporal Bounty Hunter | 338705 | [338705-miracle-heroes-temporal-bounty-hunter.json](./338705-miracle-heroes-temporal-bounty-hunter.json) |
 | Miracle Jim no Bassing Beat | 362809 | [362809-miracle-jim-no-bassing-beat.json](./362809-miracle-jim-no-bassing-beat.json) |
 | Miracle Party Plus: Fushigi no Gensoukyou 2 | 206947 | [206947-miracle-party-plus-fushigi-no-gensoukyou-2.json](./206947-miracle-party-plus-fushigi-no-gensoukyou-2.json) |
 | Miracle Party: Fushigi no Gensoukyou 2 | 206936 | [206936-miracle-party-fushigi-no-gensoukyou-2.json](./206936-miracle-party-fushigi-no-gensoukyou-2.json) |
@@ -2054,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moss: Becoming Human | 337448 | [337448-moss-becoming-human.json](./337448-moss-becoming-human.json) |
 | Mostly Scared of Spiders | 115683 | [115683-mostly-scared-of-spiders.json](./115683-mostly-scared-of-spiders.json) |
 | Motarium | 393480 | [393480-motarium.json](./393480-motarium.json) |
+| MoteMancer | 338704 | [338704-motemancer.json](./338704-motemancer.json) |
 | Moth Ma'am | 355015 | [355015-moth-maam.json](./355015-moth-maam.json) |
 | Moth Terra | 376457 | [376457-moth-terra.json](./376457-moth-terra.json) |
 | Mothdude | 184126 | [184126-mothdude.json](./184126-mothdude.json) |
@@ -2254,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder at Masquerade Manor | 223682 | [223682-murder-at-masquerade-manor.json](./223682-murder-at-masquerade-manor.json) |
 | Murder by Moonlight 2: Crimson Night | 193501 | [193501-murder-by-moonlight-2-crimson-night.json](./193501-murder-by-moonlight-2-crimson-night.json) |
 | Murder by Numbers | 123902 | [123902-murder-by-numbers.json](./123902-murder-by-numbers.json) |
+| Murder Is Game Over: Murder Otaku | 338721 | [338721-murder-is-game-over-murder-otaku.json](./338721-murder-is-game-over-murder-otaku.json) |
 | Murder Is Game Over: The Blackinton Curse | 318208 | [318208-murder-is-game-over-the-blackinton-curse.json](./318208-murder-is-game-over-the-blackinton-curse.json) |
 | Murder Makes Strange Deadfellows | 73320 | [73320-murder-makes-strange-deadfellows.json](./73320-murder-makes-strange-deadfellows.json) |
 | Murder on the Spaceship Altair | 312330 | [312330-murder-on-the-spaceship-altair.json](./312330-murder-on-the-spaceship-altair.json) |
