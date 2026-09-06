@@ -1299,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Literature Club Plus!: Premium Edition | 166194 | [166194-doki-doki-literature-club-plus-premium-edition.json](./166194-doki-doki-literature-club-plus-premium-edition.json) |
 | Doki Doki Malignancy | 333923 | [333923-doki-doki-malignancy.json](./333923-doki-doki-malignancy.json) |
 | Doki Doki Nightmare | 333927 | [333927-doki-doki-nightmare.json](./333927-doki-doki-nightmare.json) |
+| Doki Doki Salvation Remake! | 342072 | [342072-doki-doki-salvation-remake.json](./342072-doki-doki-salvation-remake.json) |
 | Doki Doki Sayori Date! | 332855 | [332855-doki-doki-sayori-date.json](./332855-doki-doki-sayori-date.json) |
 | Doki Doki Tri-Line Quest | 191218 | [191218-doki-doki-tri-line-quest.json](./191218-doki-doki-tri-line-quest.json) |
 | Doki Doki Your Bully: Natsuki | 332853 | [332853-doki-doki-your-bully-natsuki.json](./332853-doki-doki-your-bully-natsuki.json) |
@@ -1347,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Crash: The Political Game | 159863 | [159863-dont-crash-the-political-game.json](./159863-dont-crash-the-political-game.json) |
 | Don't Cut Your Hand 2 | 158729 | [158729-dont-cut-your-hand-2.json](./158729-dont-cut-your-hand-2.json) |
 | Don't Drop The Cake | 323532 | [323532-dont-drop-the-cake.json](./323532-dont-drop-the-cake.json) |
+| Don't Drown | 342084 | [342084-dont-drown.json](./342084-dont-drown.json) |
 | Don't Escape | 223670 | [223670-dont-escape.json](./223670-dont-escape.json) |
 | Don't Exist | 295547 | [295547-dont-exist.json](./295547-dont-exist.json) |
 | Don't Fall | 140024 | [140024-dont-fall.json](./140024-dont-fall.json) |
@@ -1789,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream of Light | 215903 | [215903-dream-of-light.json](./215903-dream-of-light.json) |
 | Dream Seed | 257069 | [257069-dream-seed.json](./257069-dream-seed.json) |
 | Dream Shopper | 39629 | [39629-dream-shopper.json](./39629-dream-shopper.json) |
+| Dream Slayers | 342032 | [342032-dream-slayers.json](./342032-dream-slayers.json) |
 | Dream Soccer '94 | 39627 | [39627-dream-soccer-94.json](./39627-dream-soccer-94.json) |
 | Dream Syndrome | 138269 | [138269-dream-syndrome.json](./138269-dream-syndrome.json) |
 | Dream Time | 152928 | [152928-dream-time.json](./152928-dream-time.json) |
@@ -2051,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonborne | 253880 | [253880-dungeonborne.json](./253880-dungeonborne.json) |
 | DungeonBox | 355028 | [355028-dungeonbox.json](./355028-dungeonbox.json) |
 | Dungeonlike | 183574 | [183574-dungeonlike.json](./183574-dungeonlike.json) |
+| Dungeons & Dragons Online: Attack on Stormreach | 342065 | [342065-dungeons-and-dragons-online-attack-on-stormreach.json](./342065-dungeons-and-dragons-online-attack-on-stormreach.json) |
 | Dungeons & Dragons Online: Forsaken Lands | 209174 | [209174-dungeons-and-dragons-online-forsaken-lands.json](./209174-dungeons-and-dragons-online-forsaken-lands.json) |
 | Dungeons & Dragons Online: The Dreaming Dark | 349339 | [349339-dungeons-and-dragons-online-the-dreaming-dark.json](./349339-dungeons-and-dragons-online-the-dreaming-dark.json) |
 | Dungeons & Dragons Online: The Necropolis, Part 4 | 349338 | [349338-dungeons-and-dragons-online-the-necropolis-part-4.json](./349338-dungeons-and-dragons-online-the-necropolis-part-4.json) |
