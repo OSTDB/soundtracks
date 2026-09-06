@@ -1069,6 +1069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock 'N Roll | 90647 | [90647-rock-n-roll.json](./90647-rock-n-roll.json) |
 | Rock 'N' Roll Defense | 33583 | [33583-rock-n-roll-defense.json](./33583-rock-n-roll-defense.json) |
 | Rock Band 3 | 206953 | [206953-rock-band-3.json](./206953-rock-band-3.json) |
+| Rock Band 4: Any Other Heart | 366816 | [366816-rock-band-4-any-other-heart.json](./366816-rock-band-4-any-other-heart.json) |
 | Rock Band 4: Who Am I? (What's My Name?) | 371863 | [371863-rock-band-4-who-am-i-whats-my-name.json](./371863-rock-band-4-who-am-i-whats-my-name.json) |
 | Rock Band Blitz | 2696 | [2696-rock-band-blitz.json](./2696-rock-band-blitz.json) |
 | Rock Band Sessions | 250663 | [250663-rock-band-sessions.json](./250663-rock-band-sessions.json) |
@@ -1097,6 +1098,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Hot Wheels Triple Threat | 156174 | [156174-rocket-league-hot-wheels-triple-threat.json](./156174-rocket-league-hot-wheels-triple-threat.json) |
 | Rocket League: Season 1 | 202392 | [202392-rocket-league-season-1.json](./202392-rocket-league-season-1.json) |
 | Rocket League: Season 11 | 252378 | [252378-rocket-league-season-11.json](./252378-rocket-league-season-11.json) |
+| Rocket League: Season 18 Rocketeer Pack | 366846 | [366846-rocket-league-season-18-rocketeer-pack.json](./366846-rocket-league-season-18-rocketeer-pack.json) |
+| Rocket League: Season 18 Veteran Pack | 366845 | [366845-rocket-league-season-18-veteran-pack.json](./366845-rocket-league-season-18-veteran-pack.json) |
+| Rocket League: Season 19 Elite Pack | 366843 | [366843-rocket-league-season-19-elite-pack.json](./366843-rocket-league-season-19-elite-pack.json) |
+| Rocket League: Season 19 Rookie Pack | 366844 | [366844-rocket-league-season-19-rookie-pack.json](./366844-rocket-league-season-19-rookie-pack.json) |
+| Rocket League: TriTrim Wheels | 366848 | [366848-rocket-league-tritrim-wheels.json](./366848-rocket-league-tritrim-wheels.json) |
 | Rocket Mania | 195213 | [195213-rocket-mania.json](./195213-rocket-mania.json) |
 | Rocket Power: Zero Gravity Zone | 262089 | [262089-rocket-power-zero-gravity-zone.json](./262089-rocket-power-zero-gravity-zone.json) |
 | Rocket Riot HD | 20646 | [20646-rocket-riot-hd.json](./20646-rocket-riot-hd.json) |
