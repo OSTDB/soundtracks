@@ -2896,6 +2896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Crate | 177568 | [177568-tiny-crate.json](./177568-tiny-crate.json) |
 | Tiny Crown | 401562 | [401562-tiny-crown.json](./401562-tiny-crown.json) |
 | Tiny Dangerous Dungeons Remake | 333369 | [333369-tiny-dangerous-dungeons-remake.json](./333369-tiny-dangerous-dungeons-remake.json) |
+| Tiny Devils | 325476 | [325476-tiny-devils.json](./325476-tiny-devils.json) |
 | Tiny Dino | 343257 | [343257-tiny-dino.json](./343257-tiny-dino.json) |
 | Tiny Dream Home | 358313 | [358313-tiny-dream-home.json](./358313-tiny-dream-home.json) |
 | Tiny Eden | 346609 | [346609-tiny-eden.json](./346609-tiny-eden.json) |
@@ -3230,6 +3231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TotemBall | 79930 | [79930-totemball.json](./79930-totemball.json) |
 | Totems: Game of Conquest | 200188 | [200188-totems-game-of-conquest.json](./200188-totems-game-of-conquest.json) |
 | Toto's Toy Box | 129222 | [129222-totos-toy-box.json](./129222-totos-toy-box.json) |
+| Totonoi Simulator | 325450 | [325450-totonoi-simulator.json](./325450-totonoi-simulator.json) |
 | Tottemo! Luckyman: Lucky Cookie Roulette de Totsugeki | 37783 | [37783-tottemo-luckyman-lucky-cookie-roulette-de-totsugeki.json](./37783-tottemo-luckyman-lucky-cookie-roulette-de-totsugeki.json) |
 | Totto's Magic Soup | 353293 | [353293-tottos-magic-soup.json](./353293-tottos-magic-soup.json) |
 | Tottoko Hamtaro Card-e | 220854 | [220854-tottoko-hamtaro-card-e.json](./220854-tottoko-hamtaro-card-e.json) |
