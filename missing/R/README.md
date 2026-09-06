@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratchet & Clank: Going Mobile | 134656 | [134656-ratchet-and-clank-going-mobile.json](./134656-ratchet-and-clank-going-mobile.json) |
 | Ratcore | 412270 | [412270-ratcore.json](./412270-ratcore.json) |
 | RatPark | 206355 | [206355-ratpark.json](./206355-ratpark.json) |
+| Rattle Royale | 323705 | [323705-rattle-royale.json](./323705-rattle-royale.json) |
 | Ravenbound | 214852 | [214852-ravenbound.json](./214852-ravenbound.json) |
 | Ravenclaw Common Room VR | 406721 | [406721-ravenclaw-common-room-vr.json](./406721-ravenclaw-common-room-vr.json) |
 | Ravengrave: Iron Bonds | 335113 | [335113-ravengrave-iron-bonds.json](./335113-ravengrave-iron-bonds.json) |
@@ -651,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renfield | 82885 | [82885-renfield.json](./82885-renfield.json) |
 | Rengoku | 325284 | [325284-rengoku.json](./325284-rengoku.json) |
 | Renny Blaster | 42008 | [42008-renny-blaster.json](./42008-renny-blaster.json) |
+| Rent a Girlfriend: The Horizon Line and Her in a Swimsuit | 323726 | [323726-rent-a-girlfriend-the-horizon-line-and-her-in-a-swimsuit.json](./323726-rent-a-girlfriend-the-horizon-line-and-her-in-a-swimsuit.json) |
 | Rent Please!: Landlord Sim | 247214 | [247214-rent-please-landlord-sim.json](./247214-rent-please-landlord-sim.json) |
 | Renters Revenge | 75177 | [75177-renters-revenge.json](./75177-renters-revenge.json) |
 | Rento Fortune: Dice Configurator | 298335 | [298335-rento-fortune-dice-configurator.json](./298335-rento-fortune-dice-configurator.json) |
@@ -1261,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Heroes: Ruins of Tasos | 137985 | [137985-rogue-heroes-ruins-of-tasos.json](./137985-rogue-heroes-ruins-of-tasos.json) |
 | Rogue Jungle | 307949 | [307949-rogue-jungle.json](./307949-rogue-jungle.json) |
 | Rogue Kingdoms | 317594 | [317594-rogue-kingdoms.json](./317594-rogue-kingdoms.json) |
+| Rogue Loops | 323755 | [323755-rogue-loops.json](./323755-rogue-loops.json) |
 | Rogue Lords: Day One Edition | 199631 | [199631-rogue-lords-day-one-edition.json](./199631-rogue-lords-day-one-edition.json) |
 | Rogue Monster Theolodorus | 335283 | [335283-rogue-monster-theolodorus.json](./335283-rogue-monster-theolodorus.json) |
 | Rogue Nova | 270926 | [270926-rogue-nova.json](./270926-rogue-nova.json) |
