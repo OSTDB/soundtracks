@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Martha | 45367 | [45367-mad-martha.json](./45367-mad-martha.json) |
 | Mad Martha 2 | 45366 | [45366-mad-martha-2.json](./45366-mad-martha-2.json) |
 | Mad Max: Ripper Special Edition | 89930 | [89930-mad-max-ripper-special-edition.json](./89930-mad-max-ripper-special-edition.json) |
+| Mad Miner 2 | 318982 | [318982-mad-miner-2.json](./318982-mad-miner-2.json) |
 | Mad Murder's Mystery Pie Shop | 196891 | [196891-mad-murders-mystery-pie-shop.json](./196891-mad-murders-mystery-pie-shop.json) |
 | Mad News | 265973 | [265973-mad-news.json](./265973-mad-news.json) |
 | Mad Nords: Probably an Epic Quest | 34327 | [34327-mad-nords-probably-an-epic-quest.json](./34327-mad-nords-probably-an-epic-quest.json) |
@@ -2094,6 +2095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morning Coffee | 128615 | [128615-morning-coffee.json](./128615-morning-coffee.json) |
 | Morning Kiss | 214174 | [214174-morning-kiss.json](./214174-morning-kiss.json) |
 | Morningstar | 415929 | [415929-morningstar.json](./415929-morningstar.json) |
+| Morningtide Motel | 318970 | [318970-morningtide-motel.json](./318970-morningtide-motel.json) |
 | Moroi | 137050 | [137050-moroi.json](./137050-moroi.json) |
 | Morph Space | 370153 | [370153-morph-space.json](./370153-morph-space.json) |
 | Morphcat Games Collection 1 | 191899 | [191899-morphcat-games-collection-1.json](./191899-morphcat-games-collection-1.json) |
@@ -2750,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Mire | 332454 | [332454-mythic-mire.json](./332454-mythic-mire.json) |
 | Mythic Ocean | 93804 | [93804-mythic-ocean.json](./93804-mythic-ocean.json) |
 | Mythic Writer | 165654 | [165654-mythic-writer.json](./165654-mythic-writer.json) |
+| Mythical Love | 319018 | [319018-mythical-love.json](./319018-mythical-love.json) |
 | Mything | 381597 | [381597-mything.json](./381597-mything.json) |
 | Mythlands: Dragon Flight VR | 214178 | [214178-mythlands-dragon-flight-vr.json](./214178-mythlands-dragon-flight-vr.json) |
 | Mythlink | 28881 | [28881-mythlink.json](./28881-mythlink.json) |
