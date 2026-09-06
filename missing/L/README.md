@@ -908,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Bubbles: Sweet Mates | 185666 | [185666-lost-bubbles-sweet-mates.json](./185666-lost-bubbles-sweet-mates.json) |
 | Lost Case: Monster Girl Takeover | 140578 | [140578-lost-case-monster-girl-takeover.json](./140578-lost-case-monster-girl-takeover.json) |
 | Lost Castle 2 | 263225 | [263225-lost-castle-2.json](./263225-lost-castle-2.json) |
+| Lost Child | 348223 | [348223-lost-child.json](./348223-lost-child.json) |
 | Lost Chronology | 413638 | [413638-lost-chronology.json](./413638-lost-chronology.json) |
 | Lost Crypts | 94759 | [94759-lost-crypts.json](./94759-lost-crypts.json) |
 | Lost Deltarune | 408795 | [408795-lost-deltarune.json](./408795-lost-deltarune.json) |
@@ -962,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Twins 2 | 173308 | [173308-lost-twins-2.json](./173308-lost-twins-2.json) |
 | Lost Verses | 323523 | [323523-lost-verses.json](./323523-lost-verses.json) |
 | Lost Zion | 395555 | [395555-lost-zion.json](./395555-lost-zion.json) |
+| Losted Mind | 348256 | [348256-losted-mind.json](./348256-losted-mind.json) |
 | LostHero | 138248 | [138248-losthero.json](./138248-losthero.json) |
 | Lotan | 185143 | [185143-lotan.json](./185143-lotan.json) |
 | Lotion Samurai | 161400 | [161400-lotion-samurai.json](./161400-lotion-samurai.json) |
@@ -998,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Live! School Idol Paradise | 81340 | [81340-love-live-school-idol-paradise.json](./81340-love-live-school-idol-paradise.json) |
 | Love Love Diary | 247748 | [247748-love-love-diary.json](./247748-love-love-diary.json) |
 | Love Lust and a Little Evil | 385058 | [385058-love-lust-and-a-little-evil.json](./385058-love-lust-and-a-little-evil.json) |
+| Love Mart | 348226 | [348226-love-mart.json](./348226-love-mart.json) |
 | Love Meeting | 165032 | [165032-love-meeting.json](./165032-love-meeting.json) |
 | Love My Pegasus | 239871 | [239871-love-my-pegasus.json](./239871-love-my-pegasus.json) |
 | Love on Paper | 158220 | [158220-love-on-paper.json](./158220-love-on-paper.json) |
