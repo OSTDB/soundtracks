@@ -300,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Manor: Painted Beauties | 140030 | [140030-haunted-manor-painted-beauties.json](./140030-haunted-manor-painted-beauties.json) |
 | Haunted Manor: Queen of Death | 140031 | [140031-haunted-manor-queen-of-death.json](./140031-haunted-manor-queen-of-death.json) |
 | Haunted Mansion | 204693 | [204693-haunted-mansion.json](./204693-haunted-mansion.json) |
+| Haunted Mansion | 342075 | [342075-haunted-mansion.json](./342075-haunted-mansion.json) |
 | Haunted Property | 335697 | [335697-haunted-property.json](./335697-haunted-property.json) |
 | Haunted PS1 Demo Disc 2021 | 145030 | [145030-haunted-ps1-demo-disc-2021.json](./145030-haunted-ps1-demo-disc-2021.json) |
 | Haunted Space Hotel: Vacancy | 330508 | [330508-haunted-space-hotel-vacancy.json](./330508-haunted-space-hotel-vacancy.json) |
@@ -1401,4 +1402,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnosis of Corruption | 331124 | [331124-hypnosis-of-corruption.json](./331124-hypnosis-of-corruption.json) |
 | Hypnosis: Quiet Nights | 352744 | [352744-hypnosis-quiet-nights.json](./352744-hypnosis-quiet-nights.json) |
 | Hypoxia: One Last Breath | 167291 | [167291-hypoxia-one-last-breath.json](./167291-hypoxia-one-last-breath.json) |
+| Hyrax In The Rocks | 342046 | [342046-hyrax-in-the-rocks.json](./342046-hyrax-in-the-rocks.json) |
 | Hysteria Project 2 | 20623 | [20623-hysteria-project-2.json](./20623-hysteria-project-2.json) |
