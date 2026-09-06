@@ -1195,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gardener | 389404 | [389404-the-gardener.json](./389404-the-gardener.json) |
 | The Gas Station: Graveyard Shift | 379883 | [379883-the-gas-station-graveyard-shift.json](./379883-the-gas-station-graveyard-shift.json) |
 | The Gate Must Stand | 370107 | [370107-the-gate-must-stand.json](./370107-the-gate-must-stand.json) |
+| The Gatekeeper of Scarlet's Mansion | 348237 | [348237-the-gatekeeper-of-scarlets-mansion.json](./348237-the-gatekeeper-of-scarlets-mansion.json) |
 | The Gene Machine | 19672 | [19672-the-gene-machine.json](./19672-the-gene-machine.json) |
 | The General | 174369 | [174369-the-general.json](./174369-the-general.json) |
 | The Genesis Project | 109057 | [109057-the-genesis-project.json](./109057-the-genesis-project.json) |
@@ -1725,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The One Who Stands Behind | 258191 | [258191-the-one-who-stands-behind.json](./258191-the-one-who-stands-behind.json) |
 | The Ooze | 46251 | [46251-the-ooze.json](./46251-the-ooze.json) |
 | The Oracle Land | 197911 | [197911-the-oracle-land.json](./197911-the-oracle-land.json) |
+| The Orange of Tomorrow | 348275 | [348275-the-orange-of-tomorrow.json](./348275-the-orange-of-tomorrow.json) |
 | The Oregon Trail: Boom Town | 247177 | [247177-the-oregon-trail-boom-town.json](./247177-the-oregon-trail-boom-town.json) |
 | The Orion Conspiracy | 23862 | [23862-the-orion-conspiracy.json](./23862-the-orion-conspiracy.json) |
 | The Orphan Dreams | 33160 | [33160-the-orphan-dreams.json](./33160-the-orphan-dreams.json) |
@@ -2211,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Visit | 128660 | [128660-the-visit.json](./128660-the-visit.json) |
 | The Visit | 201289 | [201289-the-visit.json](./201289-the-visit.json) |
 | The Visitor | 151752 | [151752-the-visitor.json](./151752-the-visitor.json) |
+| The Visitor Effect | 348249 | [348249-the-visitor-effect.json](./348249-the-visitor-effect.json) |
 | The Visitor: Ep.1 - Kitty Cat Carnage | 196326 | [196326-the-visitor-ep-1-kitty-cat-carnage.json](./196326-the-visitor-ep-1-kitty-cat-carnage.json) |
 | The Visitors | 130969 | [130969-the-visitors.json](./130969-the-visitors.json) |
 | The Voice of Germany: Das offizielle Videospiel! | 332829 | [332829-the-voice-of-germany-das-offizielle-videospiel.json](./332829-the-voice-of-germany-das-offizielle-videospiel.json) |
@@ -2258,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Will of Dr. Frankenstein | 66715 | [66715-the-will-of-dr-frankenstein.json](./66715-the-will-of-dr-frankenstein.json) |
 | The Wind and the Wisp | 359994 | [359994-the-wind-and-the-wisp.json](./359994-the-wind-and-the-wisp.json) |
 | The Wind's Disciple | 265935 | [265935-the-winds-disciple.json](./265935-the-winds-disciple.json) |
+| The Window 8 | 348228 | [348228-the-window-8.json](./348228-the-window-8.json) |
 | The Windows Are Gone | 267093 | [267093-the-windows-are-gone.json](./267093-the-windows-are-gone.json) |
 | The Winter | 209684 | [209684-the-winter.json](./209684-the-winter.json) |
 | The Winter Games | 264346 | [264346-the-winter-games.json](./264346-the-winter-games.json) |
@@ -3077,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Battle Tank 3D-3 | 58832 | [58832-touch-battle-tank-3d-3.json](./58832-touch-battle-tank-3d-3.json) |
 | Touch Battle Tank SP | 55908 | [55908-touch-battle-tank-sp.json](./55908-touch-battle-tank-sp.json) |
 | Touch Carrom: Striker Edition | 239887 | [239887-touch-carrom-striker-edition.json](./239887-touch-carrom-striker-edition.json) |
+| Touch Fish | 348258 | [348258-touch-fish.json](./348258-touch-fish.json) |
 | Touch Me | 400211 | [400211-touch-me.json](./400211-touch-me.json) |
 | Touch Melo | 312904 | [312904-touch-melo.json](./312904-touch-melo.json) |
 | Touch My Katamari | 6462 | [6462-touch-my-katamari.json](./6462-touch-my-katamari.json) |
