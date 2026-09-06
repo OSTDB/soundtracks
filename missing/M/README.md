@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math puzzle PRO 2018 | 105941 | [105941-math-puzzle-pro-2018.json](./105941-math-puzzle-pro-2018.json) |
 | Math Puzzles PRO | 105958 | [105958-math-puzzles-pro.json](./105958-math-puzzles-pro.json) |
 | Math Speed Challenge | 101617 | [101617-math-speed-challenge.json](./101617-math-speed-challenge.json) |
+| Mathbits | 360568 | [360568-mathbits.json](./360568-mathbits.json) |
 | Mathe Pfiffikus 1 - 1995 | 81404 | [81404-mathe-pfiffikus-1-1995.json](./81404-mathe-pfiffikus-1-1995.json) |
 | Mathe Pfiffikus 2 | 81403 | [81403-mathe-pfiffikus-2.json](./81403-mathe-pfiffikus-2.json) |
 | Mathe Pfiffikus 2009 | 81394 | [81394-mathe-pfiffikus-2009.json](./81394-mathe-pfiffikus-2009.json) |
@@ -699,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayor of Defense | 166746 | [166746-mayor-of-defense.json](./166746-mayor-of-defense.json) |
 | Mayority | 254169 | [254169-mayority.json](./254169-mayority.json) |
 | Maze | 220340 | [220340-maze.json](./220340-maze.json) |
+| Maze | 360565 | [360565-maze.json](./360565-maze.json) |
 | Maze Forever | 233249 | [233249-maze-forever.json](./233249-maze-forever.json) |
 | Maze Madness | 101598 | [101598-maze-madness.json](./101598-maze-madness.json) |
 | Maze of Bears | 186321 | [186321-maze-of-bears.json](./186321-maze-of-bears.json) |
