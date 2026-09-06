@@ -1027,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wukong Survivors: Begin | 387379 | [387379-wukong-survivors-begin.json](./387379-wukong-survivors-begin.json) |
 | Wǔlín Zhēngbà zhī Yīngxióng Tiē | 93585 | [93585-wulin-zhengba-zhi-yingxiong-tie.json](./93585-wulin-zhengba-zhi-yingxiong-tie.json) |
 | Wǔlín Zhìzūn Zhuàn | 367434 | [367434-wulin-zhizun-zhuan.json](./367434-wulin-zhizun-zhuan.json) |
+| Wummsen Village | 361118 | [361118-wummsen-village.json](./361118-wummsen-village.json) |
 | Wunderhaven | 166763 | [166763-wunderhaven.json](./166763-wunderhaven.json) |
 | Wurd Torn | 58230 | [58230-wurd-torn.json](./58230-wurd-torn.json) |
 | Wurdweb | 165047 | [165047-wurdweb.json](./165047-wurdweb.json) |
