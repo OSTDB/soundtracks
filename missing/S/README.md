@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek & Dread Online | 292853 | [292853-seek-and-dread-online.json](./292853-seek-and-dread-online.json) |
 | Seek & Snipe | 267106 | [267106-seek-and-snipe.json](./267106-seek-and-snipe.json) |
 | Seeker | 114385 | [114385-seeker.json](./114385-seeker.json) |
+| Seeker of the Ruins | 331304 | [331304-seeker-of-the-ruins.json](./331304-seeker-of-the-ruins.json) |
 | Seekers of Eclipse | 278697 | [278697-seekers-of-eclipse.json](./278697-seekers-of-eclipse.json) |
 | Seeking Asylum: The Game | 390522 | [390522-seeking-asylum-the-game.json](./390522-seeking-asylum-the-game.json) |
 | Seeking for Puppies | 359415 | [359415-seeking-for-puppies.json](./359415-seeking-for-puppies.json) |
@@ -834,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Fate | 191264 | [191264-shadow-fate.json](./191264-shadow-fate.json) |
 | Shadow Fight 2: Special Edition | 68463 | [68463-shadow-fight-2-special-edition.json](./68463-shadow-fight-2-special-edition.json) |
 | Shadow Gambit: Zagan's Ritual | 279542 | [279542-shadow-gambit-zagans-ritual.json](./279542-shadow-gambit-zagans-ritual.json) |
+| Shadow Game | 331297 | [331297-shadow-game.json](./331297-shadow-game.json) |
 | Shadow Harvest: Phantom Ops | 16236 | [16236-shadow-harvest-phantom-ops.json](./16236-shadow-harvest-phantom-ops.json) |
 | Shadow Hunt | 374077 | [374077-shadow-hunt.json](./374077-shadow-hunt.json) |
 | Shadow Island | 239335 | [239335-shadow-island.json](./239335-shadow-island.json) |
@@ -859,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Skimmer | 37186 | [37186-shadow-skimmer.json](./37186-shadow-skimmer.json) |
 | Shadow Spotter | 231653 | [231653-shadow-spotter.json](./231653-shadow-spotter.json) |
 | Shadow Stalker | 264319 | [264319-shadow-stalker.json](./264319-shadow-stalker.json) |
+| Shadow Storm | 331312 | [331312-shadow-storm.json](./331312-shadow-storm.json) |
 | Shadow Tactics: Aiko's Choice - Deluxe Edition | 331844 | [331844-shadow-tactics-aikos-choice-deluxe-edition.json](./331844-shadow-tactics-aikos-choice-deluxe-edition.json) |
 | Shadow Tactics: Blades of the Shogun | 19085 | [19085-shadow-tactics-blades-of-the-shogun.json](./19085-shadow-tactics-blades-of-the-shogun.json) |
 | Shadow Tactics: Blades of the Shogun - Deluxe Edition | 331845 | [331845-shadow-tactics-blades-of-the-shogun-deluxe-edition.json](./331845-shadow-tactics-blades-of-the-shogun-deluxe-edition.json) |
@@ -1770,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snack Scoffer | 198515 | [198515-snack-scoffer.json](./198515-snack-scoffer.json) |
 | Snafu | 5697 | [5697-snafu.json](./5697-snafu.json) |
 | Snägäri Pinball | 388765 | [388765-snagari-pinball.json](./388765-snagari-pinball.json) |
+| Snail | 331342 | [331342-snail.json](./331342-snail.json) |
 | Snail Bob 2 | 213637 | [213637-snail-bob-2.json](./213637-snail-bob-2.json) |
 | Snail Bob 3: Egypt Journey | 213638 | [213638-snail-bob-3-egypt-journey.json](./213638-snail-bob-3-egypt-journey.json) |
 | Snail Mail | 84877 | [84877-snail-mail.json](./84877-snail-mail.json) |
@@ -2088,9 +2092,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 3: D.A. Garden Edition | 296108 | [296108-sonic-3-d-a-garden-edition.json](./296108-sonic-3-d-a-garden-edition.json) |
 | Sonic 3D Blast | 202967 | [202967-sonic-3d-blast.json](./202967-sonic-3d-blast.json) |
 | Sonic 3D: No Flickies | 198547 | [198547-sonic-3d-no-flickies.json](./198547-sonic-3d-no-flickies.json) |
+| Sonic Action | 331313 | [331313-sonic-action.json](./331313-sonic-action.json) |
 | Sonic Adventure DS | 336362 | [336362-sonic-adventure-ds.json](./336362-sonic-adventure-ds.json) |
 | Sonic Adventure Reloaded | 316978 | [316978-sonic-adventure-reloaded.json](./316978-sonic-adventure-reloaded.json) |
 | Sonic Adventure SX | 316977 | [316977-sonic-adventure-sx.json](./316977-sonic-adventure-sx.json) |
+| Sonic Adventure: Renegade | 331302 | [331302-sonic-adventure-renegade.json](./331302-sonic-adventure-renegade.json) |
 | Sonic and the Black Knight HD | 336365 | [336365-sonic-and-the-black-knight-hd.json](./336365-sonic-and-the-black-knight-hd.json) |
 | Sonic and the Dragon's Path | 334684 | [334684-sonic-and-the-dragons-path.json](./334684-sonic-and-the-dragons-path.json) |
 | Sonic Arena | 331867 | [331867-sonic-arena.json](./331867-sonic-arena.json) |
@@ -2174,6 +2180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Superstars: Lego Sonic Skin | 275305 | [275305-sonic-superstars-lego-sonic-skin.json](./275305-sonic-superstars-lego-sonic-skin.json) |
 | Sonic Surge: Rhythm Showdown | 333913 | [333913-sonic-surge-rhythm-showdown.json](./333913-sonic-surge-rhythm-showdown.json) |
 | Sonic Switch | 325840 | [325840-sonic-switch.json](./325840-sonic-switch.json) |
+| Sonic the Fighters 2 | 331300 | [331300-sonic-the-fighters-2.json](./331300-sonic-the-fighters-2.json) |
 | Sonic the Fighters Blitz | 321766 | [321766-sonic-the-fighters-blitz.json](./321766-sonic-the-fighters-blitz.json) |
 | Sonic the Hedgehog | 264886 | [264886-sonic-the-hedgehog.json](./264886-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 6231 | [6231-sonic-the-hedgehog.json](./6231-sonic-the-hedgehog.json) |
@@ -3386,6 +3393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter X Mega Man | 45184 | [45184-street-fighter-x-mega-man.json](./45184-street-fighter-x-mega-man.json) |
 | Street Fighter: Duel | 142490 | [142490-street-fighter-duel.json](./142490-street-fighter-duel.json) |
 | Street Football 2 | 268209 | [268209-street-football-2.json](./268209-street-football-2.json) |
+| Street Gang Football | 331343 | [331343-street-gang-football.json](./331343-street-gang-football.json) |
 | Street Hoops | 242807 | [242807-street-hoops.json](./242807-street-hoops.json) |
 | Street Karate 3 | 169468 | [169468-street-karate-3.json](./169468-street-karate-3.json) |
 | Street Karate Fighter | 100882 | [100882-street-karate-fighter.json](./100882-street-karate-fighter.json) |
@@ -4217,6 +4225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swamp Thing | 365685 | [365685-swamp-thing.json](./365685-swamp-thing.json) |
 | Swan Song | 257090 | [257090-swan-song.json](./257090-swan-song.json) |
 | Swap the Matrix | 54417 | [54417-swap-the-matrix.json](./54417-swap-the-matrix.json) |
+| Swapfell Ascendance | 331347 | [331347-swapfell-ascendance.json](./331347-swapfell-ascendance.json) |
 | Swapfell Maelstrom | 331668 | [331668-swapfell-maelstrom.json](./331668-swapfell-maelstrom.json) |
 | Swaplatformer | 178680 | [178680-swaplatformer.json](./178680-swaplatformer.json) |
 | SwapOut | 173316 | [173316-swapout.json](./173316-swapout.json) |
