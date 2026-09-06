@@ -1137,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Sound 1: Revelation | 83595 | [83595-forgotten-sound-1-revelation.json](./83595-forgotten-sound-1-revelation.json) |
 | Forgotten Sound 2: Destiny | 83545 | [83545-forgotten-sound-2-destiny.json](./83545-forgotten-sound-2-destiny.json) |
 | Forgotten Trails | 406697 | [406697-forgotten-trails.json](./406697-forgotten-trails.json) |
+| Fork Frog | 350438 | [350438-fork-frog.json](./350438-fork-frog.json) |
 | Fork Knights | 119757 | [119757-fork-knights.json](./119757-fork-knights.json) |
 | Fork of Damocles | 177028 | [177028-fork-of-damocles.json](./177028-fork-of-damocles.json) |
 | Fork of the Crimson Soul | 369051 | [369051-fork-of-the-crimson-soul.json](./369051-fork-of-the-crimson-soul.json) |
@@ -1218,6 +1219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foul Play | 5895 | [5895-foul-play.json](./5895-foul-play.json) |
 | Foundation: Galactic Frontier | 292870 | [292870-foundation-galactic-frontier.json](./292870-foundation-galactic-frontier.json) |
 | Founding Paws: How America Began | 409525 | [409525-founding-paws-how-america-began.json](./409525-founding-paws-how-america-began.json) |
+| Foundlings | 350439 | [350439-foundlings.json](./350439-foundlings.json) |
 | Four color jumps | 152905 | [152905-four-color-jumps.json](./152905-four-color-jumps.json) |
 | Four Gods M | 200749 | [200749-four-gods-m.json](./200749-four-gods-m.json) |
 | Four Hunters Survivor | 277584 | [277584-four-hunters-survivor.json](./277584-four-hunters-survivor.json) |
@@ -1374,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Detective 3: Corruption at Cowboy County | 161552 | [161552-frog-detective-3-corruption-at-cowboy-county.json](./161552-frog-detective-3-corruption-at-cowboy-county.json) |
 | Frog Fall Down | 192430 | [192430-frog-fall-down.json](./192430-frog-fall-down.json) |
 | Frog Feast | 270407 | [270407-frog-feast.json](./270407-frog-feast.json) |
+| Frog Folding Simulator | 350436 | [350436-frog-folding-simulator.json](./350436-frog-folding-simulator.json) |
 | Frog Fractions | 18723 | [18723-frog-fractions.json](./18723-frog-fractions.json) |
 | Frog Frenzy | 87707 | [87707-frog-frenzy.json](./87707-frog-frenzy.json) |
 | Frog on Ice | 100884 | [100884-frog-on-ice.json](./100884-frog-on-ice.json) |
