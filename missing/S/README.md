@@ -3352,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suidou Kozou | 91949 | [91949-suidou-kozou.json](./91949-suidou-kozou.json) |
 | Suika Jelly Game | 310174 | [310174-suika-jelly-game.json](./310174-suika-jelly-game.json) |
 | Suika Monsters | 387352 | [387352-suika-monsters.json](./387352-suika-monsters.json) |
+| Suikoden: Tenmei no Chikai | 351030 | [351030-suikoden-tenmei-no-chikai.json](./351030-suikoden-tenmei-no-chikai.json) |
 | Suiren | 131578 | [131578-suiren.json](./131578-suiren.json) |
 | Suiren | 377581 | [377581-suiren.json](./377581-suiren.json) |
 | Suite PreCure: Happy Oshare Harmony | 327601 | [327601-suite-precure-happy-oshare-harmony.json](./327601-suite-precure-happy-oshare-harmony.json) |
