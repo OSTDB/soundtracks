@@ -1060,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Mayor | 212482 | [212482-merge-mayor.json](./212482-merge-mayor.json) |
 | Merge Meadow! | 108483 | [108483-merge-meadow.json](./108483-merge-meadow.json) |
 | Merge Miners | 229372 | [229372-merge-miners.json](./229372-merge-miners.json) |
+| Merge Pineapple | 339286 | [339286-merge-pineapple.json](./339286-merge-pineapple.json) |
 | Merge Town! | 87347 | [87347-merge-town.json](./87347-merge-town.json) |
 | Meridian: Age of Invention | 34578 | [34578-meridian-age-of-invention.json](./34578-meridian-age-of-invention.json) |
 | Mermaid Land | 89263 | [89263-mermaid-land.json](./89263-mermaid-land.json) |
@@ -1162,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Nebulus | 324078 | [324078-metroid-nebulus.json](./324078-metroid-nebulus.json) |
 | Metroid Prime 2: Echoes | 1108 | [1108-metroid-prime-2-echoes.json](./1108-metroid-prime-2-echoes.json) |
 | Metroid Prime: Google Translate Edition | 255380 | [255380-metroid-prime-google-translate-edition.json](./255380-metroid-prime-google-translate-edition.json) |
+| Metroid Prime: Trial of Strength | 339260 | [339260-metroid-prime-trial-of-strength.json](./339260-metroid-prime-trial-of-strength.json) |
 | Metroid Tactics | 264878 | [264878-metroid-tactics.json](./264878-metroid-tactics.json) |
 | Metroid Vanguard | 331700 | [331700-metroid-vanguard.json](./331700-metroid-vanguard.json) |
 | Metroid: 3D TechDemo | 324088 | [324088-metroid-3d-techdemo.json](./324088-metroid-3d-techdemo.json) |
@@ -1850,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunting: Incremental Grind Forever | 341332 | [341332-monster-hunting-incremental-grind-forever.json](./341332-monster-hunting-incremental-grind-forever.json) |
 | Monster Impossible Truck No Limit Adventure Drive Simulator Sport 3D | 227516 | [227516-monster-impossible-truck-no-limit-adventure-drive-simulator-sport-3d.json](./227516-monster-impossible-truck-no-limit-adventure-drive-simulator-sport-3d.json) |
 | Monster in the Dark: Remaster | 195275 | [195275-monster-in-the-dark-remaster.json](./195275-monster-in-the-dark-remaster.json) |
+| Monster Jam Showdown: Bad News Travels Fast | 339291 | [339291-monster-jam-showdown-bad-news-travels-fast.json](./339291-monster-jam-showdown-bad-news-travels-fast.json) |
 | Monster Jam Showdown: Day One Edition | 293931 | [293931-monster-jam-showdown-day-one-edition.json](./293931-monster-jam-showdown-day-one-edition.json) |
 | Monster Jam Showdown: Yeti | 332228 | [332228-monster-jam-showdown-yeti.json](./332228-monster-jam-showdown-yeti.json) |
 | Monster Knockout | 224755 | [224755-monster-knockout.json](./224755-monster-knockout.json) |
