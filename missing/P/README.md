@@ -918,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates on Target | 187536 | [187536-pirates-on-target.json](./187536-pirates-on-target.json) |
 | Pirates Pinball | 115058 | [115058-pirates-pinball.json](./115058-pirates-pinball.json) |
 | Pirates: Mystery of the Skeletons Island | 133425 | [133425-pirates-mystery-of-the-skeletons-island.json](./133425-pirates-mystery-of-the-skeletons-island.json) |
+| Piss Off | 331295 | [331295-piss-off.json](./331295-piss-off.json) |
 | PISTA Motorsport | 251855 | [251855-pista-motorsport.json](./251855-pista-motorsport.json) |
 | Pistols at Dawn | 92502 | [92502-pistols-at-dawn.json](./92502-pistols-at-dawn.json) |
 | Pit of Goblin | 321166 | [321166-pit-of-goblin.json](./321166-pit-of-goblin.json) |
@@ -1759,6 +1760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Discovery: Daidai Daisuki! | 59409 | [59409-project-discovery-daidai-daisuki.json](./59409-project-discovery-daidai-daisuki.json) |
 | Project DT | 143098 | [143098-project-dt.json](./143098-project-dt.json) |
 | Project Eagle | 344958 | [344958-project-eagle.json](./344958-project-eagle.json) |
+| Project EBHack | 331360 | [331360-project-ebhack.json](./331360-project-ebhack.json) |
 | Project Eclipse | 403580 | [403580-project-eclipse.json](./403580-project-eclipse.json) |
 | Project Epic | 324096 | [324096-project-epic.json](./324096-project-epic.json) |
 | Project Evolve | 306067 | [306067-project-evolve.json](./306067-project-evolve.json) |
