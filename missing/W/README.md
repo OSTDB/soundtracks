@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland Angel | 9388 | [9388-wasteland-angel.json](./9388-wasteland-angel.json) |
 | Wasteland Billionaire | 221391 | [221391-wasteland-billionaire.json](./221391-wasteland-billionaire.json) |
 | Wastelander | 178100 | [178100-wastelander.json](./178100-wastelander.json) |
+| Wastelanders | 362823 | [362823-wastelanders.json](./362823-wastelanders.json) |
 | Watashi no Kokoro! Kimi no Koto ga Suki desu. | 161902 | [161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json](./161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json) |
 | Watch | 310212 | [310212-watch.json](./310212-watch.json) |
 | Watch Dogs: Bad Blood | 17473 | [17473-watch-dogs-bad-blood.json](./17473-watch-dogs-bad-blood.json) |
@@ -259,6 +260,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Rally | 43304 | [43304-wave-rally.json](./43304-wave-rally.json) |
 | Wave Rave | 341912 | [341912-wave-rave.json](./341912-wave-rave.json) |
 | Wave Rider | 161399 | [161399-wave-rider.json](./161399-wave-rider.json) |
+| Waveat | 362808 | [362808-waveat.json](./362808-waveat.json) |
+| Waveat ReLight V2 | 362811 | [362811-waveat-relight-v2.json](./362811-waveat-relight-v2.json) |
 | Waves ! | 104097 | [104097-waves.json](./104097-waves.json) |
 | Waves of Death VR | 132229 | [132229-waves-of-death-vr.json](./132229-waves-of-death-vr.json) |
 | Waves: Arena Tactics | 93630 | [93630-waves-arena-tactics.json](./93630-waves-arena-tactics.json) |
@@ -473,6 +476,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiskey Bravo | 189174 | [189174-whiskey-bravo.json](./189174-whiskey-bravo.json) |
 | Whisper Trip | 154008 | [154008-whisper-trip.json](./154008-whisper-trip.json) |
 | Whispered Flight | 274738 | [274738-whispered-flight.json](./274738-whispered-flight.json) |
+| Whispered Secrets: Forgotten Sins - Collector's Edition | 362843 | [362843-whispered-secrets-forgotten-sins-collectors-edition.json](./362843-whispered-secrets-forgotten-sins-collectors-edition.json) |
+| Whispered Secrets: In the Cards - Collector's Edition | 362836 | [362836-whispered-secrets-in-the-cards-collectors-edition.json](./362836-whispered-secrets-in-the-cards-collectors-edition.json) |
+| Whispered Secrets: Morbid Obsession - Collector's Edition | 362837 | [362837-whispered-secrets-morbid-obsession-collectors-edition.json](./362837-whispered-secrets-morbid-obsession-collectors-edition.json) |
 | Whispering Dream | 314059 | [314059-whispering-dream.json](./314059-whispering-dream.json) |
 | Whispering Hills | 322952 | [322952-whispering-hills.json](./322952-whispering-hills.json) |
 | Whispers in the Shadows | 295555 | [295555-whispers-in-the-shadows.json](./295555-whispers-in-the-shadows.json) |
