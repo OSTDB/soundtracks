@@ -157,12 +157,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Twins | 132244 | [132244-magic-twins.json](./132244-magic-twins.json) |
 | Magic Wand | 311811 | [311811-magic-wand.json](./311811-magic-wand.json) |
 | Magic War Legends | 410880 | [410880-magic-war-legends.json](./410880-magic-war-legends.json) |
+| Magic Weapon | 358310 | [358310-magic-weapon.json](./358310-magic-weapon.json) |
 | Magic: The Gathering - Battlegrounds | 5907 | [5907-magic-the-gathering-battlegrounds.json](./5907-magic-the-gathering-battlegrounds.json) |
 | Magic: The Gathering - Duels of the Planeswalkers 2015 | 18218 | [18218-magic-the-gathering-duels-of-the-planeswalkers-2015.json](./18218-magic-the-gathering-duels-of-the-planeswalkers-2015.json) |
 | Magical Blaster | 151741 | [151741-magical-blaster.json](./151741-magical-blaster.json) |
 | Magical Boco | 313464 | [313464-magical-boco.json](./313464-magical-boco.json) |
 | Magical Circle Guru-Guru: Stardust Adventure | 302653 | [302653-magical-circle-guru-guru-stardust-adventure.json](./302653-magical-circle-guru-guru-stardust-adventure.json) |
 | Magical Crystals | 39687 | [39687-magical-crystals.json](./39687-magical-crystals.json) |
+| Magical Days: The Brats' Parade | 358326 | [358326-magical-days-the-brats-parade.json](./358326-magical-days-the-brats-parade.json) |
 | Magical Dinosaur Tour | 42014 | [42014-magical-dinosaur-tour.json](./42014-magical-dinosaur-tour.json) |
 | Magical Drop | 71552 | [71552-magical-drop.json](./71552-magical-drop.json) |
 | Magical Escape | 194660 | [194660-magical-escape.json](./194660-magical-escape.json) |
@@ -413,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Golf: World Tour - Star Pack | 309118 | [309118-mario-golf-world-tour-star-pack.json](./309118-mario-golf-world-tour-star-pack.json) |
 | Mario in the Dreamscape | 296093 | [296093-mario-in-the-dreamscape.json](./296093-mario-in-the-dreamscape.json) |
 | Mario Is Missing! | 210223 | [210223-mario-is-missing.json](./210223-mario-is-missing.json) |
+| Mario Kart 64: Amped Up - Version 3 | 358307 | [358307-mario-kart-64-amped-up-version-3.json](./358307-mario-kart-64-amped-up-version-3.json) |
 | Mario Kart 64: Hooting Time | 248303 | [248303-mario-kart-64-hooting-time.json](./248303-mario-kart-64-hooting-time.json) |
 | Mario Kart 64: Stomper Mod | 248307 | [248307-mario-kart-64-stomper-mod.json](./248307-mario-kart-64-stomper-mod.json) |
 | Mario Kart 8 Deluxe + Booster Course Pass | 245049 | [245049-mario-kart-8-deluxe-booster-course-pass.json](./245049-mario-kart-8-deluxe-booster-course-pass.json) |
@@ -1313,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindtrap | 91406 | [91406-mindtrap.json](./91406-mindtrap.json) |
 | Mindwheel | 25778 | [25778-mindwheel.json](./25778-mindwheel.json) |
 | Mine Blast | 96758 | [96758-mine-blast.json](./96758-mine-blast.json) |
+| Mine Click | 358288 | [358288-mine-click.json](./358288-mine-click.json) |
 | Mine Defense | 412313 | [412313-mine-defense.json](./412313-mine-defense.json) |
 | Mine of My Mind | 389970 | [389970-mine-of-my-mind.json](./389970-mine-of-my-mind.json) |
 | Mine Quest | 196868 | [196868-mine-quest.json](./196868-mine-quest.json) |
@@ -2298,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Rental Girlfriend | 205819 | [205819-my-rental-girlfriend.json](./205819-my-rental-girlfriend.json) |
 | My Riding Stables 2: A New Adventure | 140008 | [140008-my-riding-stables-2-a-new-adventure.json](./140008-my-riding-stables-2-a-new-adventure.json) |
 | My Riding Stables: Life with Horses 2 | 109770 | [109770-my-riding-stables-life-with-horses-2.json](./109770-my-riding-stables-life-with-horses-2.json) |
+| My Rusty Submarine: New Waters | 358291 | [358291-my-rusty-submarine-new-waters.json](./358291-my-rusty-submarine-new-waters.json) |
 | My Sacred Shrine Maiden | 226420 | [226420-my-sacred-shrine-maiden.json](./226420-my-sacred-shrine-maiden.json) |
 | My Sail and My Sea | 133465 | [133465-my-sail-and-my-sea.json](./133465-my-sail-and-my-sea.json) |
 | My SameGame | 64433 | [64433-my-samegame.json](./64433-my-samegame.json) |
