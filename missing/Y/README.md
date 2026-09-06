@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yin-Yang Labyrinth | 301600 | [301600-yin-yang-labyrinth.json](./301600-yin-yang-labyrinth.json) |
 | Ylands | 36297 | [36297-ylands.json](./36297-ylands.json) |
 | Ymir | 50092 | [50092-ymir.json](./50092-ymir.json) |
+| Yni^ | 339804 | [339804-yni.json](./339804-yni.json) |
 | Yo My Yo! | 112355 | [112355-yo-my-yo.json](./112355-yo-my-yo.json) |
 | Yo-Ho-Ho Cannon | 349842 | [349842-yo-ho-ho-cannon.json](./349842-yo-ho-ho-cannon.json) |
 | Yo-Jin-Bo: The Bodyguards | 72679 | [72679-yo-jin-bo-the-bodyguards.json](./72679-yo-jin-bo-the-bodyguards.json) |
