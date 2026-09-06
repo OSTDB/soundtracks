@@ -1486,6 +1486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Heroines: Character Outfit - Warm-up | 309087 | [309087-apex-heroines-character-outfit-warm-up.json](./309087-apex-heroines-character-outfit-warm-up.json) |
 | Apex Heroines: Deluxe Edition | 315876 | [315876-apex-heroines-deluxe-edition.json](./315876-apex-heroines-deluxe-edition.json) |
 | Apex Legends: Defiance | 188649 | [188649-apex-legends-defiance.json](./188649-apex-legends-defiance.json) |
+| Apex Legends: From the Rift | 330746 | [330746-apex-legends-from-the-rift.json](./330746-apex-legends-from-the-rift.json) |
 | Apex Legends: Legacy | 146328 | [146328-apex-legends-legacy.json](./146328-apex-legends-legacy.json) |
 | Apex Legends: Marked | 412314 | [412314-apex-legends-marked.json](./412314-apex-legends-marked.json) |
 | Apex Legends: PlayStation Plus Play Pack | 325861 | [325861-apex-legends-playstation-plus-play-pack.json](./325861-apex-legends-playstation-plus-play-pack.json) |
@@ -1578,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Gemini Wing | 146343 | [146343-arcade-archives-gemini-wing.json](./146343-arcade-archives-gemini-wing.json) |
 | Arcade Archives: Growl | 259232 | [259232-arcade-archives-growl.json](./259232-arcade-archives-growl.json) |
 | Arcade Archives: Guttang Gottong | 271477 | [271477-arcade-archives-guttang-gottong.json](./271477-arcade-archives-guttang-gottong.json) |
+| Arcade Archives: Märchen Maze | 330745 | [330745-arcade-archives-marchen-maze.json](./330745-arcade-archives-marchen-maze.json) |
 | Arcade Archives: Mazinger Z | 249490 | [249490-arcade-archives-mazinger-z.json](./249490-arcade-archives-mazinger-z.json) |
 | Arcade Archives: Metal Black | 225889 | [225889-arcade-archives-metal-black.json](./225889-arcade-archives-metal-black.json) |
 | Arcade Archives: Ordyne | 223153 | [223153-arcade-archives-ordyne.json](./223153-arcade-archives-ordyne.json) |
