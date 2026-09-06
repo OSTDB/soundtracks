@@ -774,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beckoned | 159847 | [159847-beckoned.json](./159847-beckoned.json) |
 | Become a pig | 205244 | [205244-become-a-pig.json](./205244-become-a-pig.json) |
 | Becut | 309665 | [309665-becut.json](./309665-becut.json) |
+| Bed Bounce | 313125 | [313125-bed-bounce.json](./313125-bed-bounce.json) |
 | Bed Survival | 145648 | [145648-bed-survival.json](./145648-bed-survival.json) |
 | Bedlamball | 51985 | [51985-bedlamball.json](./51985-bedlamball.json) |
 | Bedtime Story: Saint | 338208 | [338208-bedtime-story-saint.json](./338208-bedtime-story-saint.json) |
@@ -1141,10 +1142,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitzee Disney | 340222 | [340222-bitzee-disney.json](./340222-bitzee-disney.json) |
 | Bitzee Magicals | 340221 | [340221-bitzee-magicals.json](./340221-bitzee-magicals.json) |
 | Biwar: Legend of Dragon Slayer | 204713 | [204713-biwar-legend-of-dragon-slayer.json](./204713-biwar-legend-of-dragon-slayer.json) |
+| Bizarre | 313139 | [313139-bizarre.json](./313139-bizarre.json) |
 | Bizarre Hunteress Rin | 82879 | [82879-bizarre-hunteress-rin.json](./82879-bizarre-hunteress-rin.json) |
 | Bizarre Tale | 76671 | [76671-bizarre-tale.json](./76671-bizarre-tale.json) |
 | Bizerta: Silent Evil | 60570 | [60570-bizerta-silent-evil.json](./60570-bizerta-silent-evil.json) |
 | Bizzarioware | 185148 | [185148-bizzarioware.json](./185148-bizzarioware.json) |
+| BK: OSRS | 313105 | [313105-bk-osrs.json](./313105-bk-osrs.json) |
 | Black Astral | 201317 | [201317-black-astral.json](./201317-black-astral.json) |
 | Black Beacon: Forsaken Eternity | 349327 | [349327-black-beacon-forsaken-eternity.json](./349327-black-beacon-forsaken-eternity.json) |
 | Black Belt | 12257 | [12257-black-belt.json](./12257-black-belt.json) |
@@ -1538,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boba Tale | 199622 | [199622-boba-tale.json](./199622-boba-tale.json) |
 | Bobblehead College Football | 247171 | [247171-bobblehead-college-football.json](./247171-bobblehead-college-football.json) |
 | Bobby Carrot 3: Evolution | 66136 | [66136-bobby-carrot-3-evolution.json](./66136-bobby-carrot-3-evolution.json) |
+| Bobby Six Seven: Time Traveling Detective | 313143 | [313143-bobby-six-seven-time-traveling-detective.json](./313143-bobby-six-seven-time-traveling-detective.json) |
 | Bobcos | 368479 | [368479-bobcos.json](./368479-bobcos.json) |
 | Bobls | 185156 | [185156-bobls.json](./185156-bobls.json) |
 | BoBo | 14328 | [14328-bobo.json](./14328-bobo.json) |
