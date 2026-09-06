@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexispell | 376482 | [376482-lexispell.json](./376482-lexispell.json) |
 | Lexit | 58226 | [58226-lexit.json](./58226-lexit.json) |
 | Lexual | 58227 | [58227-lexual.json](./58227-lexual.json) |
+| Lezdom CEO Fantasy | 331308 | [331308-lezdom-ceo-fantasy.json](./331308-lezdom-ceo-fantasy.json) |
 | LGBT Color by Number for Adults | 165035 | [165035-lgbt-color-by-number-for-adults.json](./165035-lgbt-color-by-number-for-adults.json) |
 | Lgnorant girl doll | 114994 | [114994-lgnorant-girl-doll.json](./114994-lgnorant-girl-doll.json) |
 | Lhama Clicker | 236545 | [236545-lhama-clicker.json](./236545-lhama-clicker.json) |
@@ -618,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil Spoops | 236021 | [236021-lil-spoops.json](./236021-lil-spoops.json) |
 | Lil' Herder | 146891 | [146891-lil-herder.json](./146891-lil-herder.json) |
 | Lil' Monster | 49920 | [49920-lil-monster.json](./49920-lil-monster.json) |
+| Lil' Robo | 331305 | [331305-lil-robo.json](./331305-lil-robo.json) |
 | Lilian: The beginning of the end | 183038 | [183038-lilian-the-beginning-of-the-end.json](./183038-lilian-the-beginning-of-the-end.json) |
 | Lilium | 128653 | [128653-lilium.json](./128653-lilium.json) |
 | Lilly Knight and the Three Cities of Lust | 127999 | [127999-lilly-knight-and-the-three-cities-of-lust.json](./127999-lilly-knight-and-the-three-cities-of-lust.json) |
