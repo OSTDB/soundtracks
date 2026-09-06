@@ -615,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Issues | 369017 | [369017-delivery-issues.json](./369017-delivery-issues.json) |
 | Delivery man simulator | 99628 | [99628-delivery-man-simulator.json](./99628-delivery-man-simulator.json) |
 | Delivery of Us | 380398 | [380398-delivery-of-us.json](./380398-delivery-of-us.json) |
+| Delivery Up | 361168 | [361168-delivery-up.json](./361168-delivery-up.json) |
 | Delta Dash | 213621 | [213621-delta-dash.json](./213621-delta-dash.json) |
 | Delta Directive | 412266 | [412266-delta-directive.json](./412266-delta-directive.json) |
 | Delta Force: Xtreme | 1273 | [1273-delta-force-xtreme.json](./1273-delta-force-xtreme.json) |
@@ -1743,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamtale | 178656 | [178656-dreamtale.json](./178656-dreamtale.json) |
 | Dreamwater | 252385 | [252385-dreamwater.json](./252385-dreamwater.json) |
 | Dreamwillow | 184661 | [184661-dreamwillow.json](./184661-dreamwillow.json) |
+| DreamWoods 2 | 361164 | [361164-dreamwoods-2.json](./361164-dreamwoods-2.json) |
 | DreamWorks Dragons: Legends of the Nine Realms | 202418 | [202418-dreamworks-dragons-legends-of-the-nine-realms.json](./202418-dreamworks-dragons-legends-of-the-nine-realms.json) |
 | Dreamworks Interactive DVD Game | 364523 | [364523-dreamworks-interactive-dvd-game.json](./364523-dreamworks-interactive-dvd-game.json) |
 | Dreamworks' Shark Tale | 4148 | [4148-dreamworks-shark-tale.json](./4148-dreamworks-shark-tale.json) |
