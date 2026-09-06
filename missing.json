@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T00:03:17.376Z",
-  "total_missing": 34679,
+  "generated_at": "2026-09-06T00:18:16.512Z",
+  "total_missing": 34729,
   "games": [
     {
       "igdb_id": 306086,
@@ -11508,6 +11508,11 @@
       "file": "missing/A/118431-astro-the-beginning.json"
     },
     {
+      "igdb_id": 366849,
+      "game_name": "Astrobarian",
+      "file": "missing/A/366849-astrobarian.json"
+    },
+    {
       "igdb_id": 146299,
       "game_name": "Astroblitz",
       "file": "missing/A/146299-astroblitz.json"
@@ -13211,6 +13216,11 @@
       "igdb_id": 292297,
       "game_name": "Backrooms: Meg Archives",
       "file": "missing/B/292297-backrooms-meg-archives.json"
+    },
+    {
+      "igdb_id": 366831,
+      "game_name": "Backrooms: Reminiscence",
+      "file": "missing/B/366831-backrooms-reminiscence.json"
     },
     {
       "igdb_id": 234907,
@@ -30463,6 +30473,11 @@
       "file": "missing/C/63876-cor-ex-machina.json"
     },
     {
+      "igdb_id": 366836,
+      "game_name": "Cora",
+      "file": "missing/C/366836-cora.json"
+    },
+    {
       "igdb_id": 63300,
       "game_name": "Coraabia",
       "file": "missing/C/63300-coraabia.json"
@@ -41643,6 +41658,36 @@
       "file": "missing/D/36911-dragon-ball-fighterz.json"
     },
     {
+      "igdb_id": 366823,
+      "game_name": "Dragon Ball FighterZ: Commentator Voice Pack",
+      "file": "missing/D/366823-dragon-ball-fighterz-commentator-voice-pack.json"
+    },
+    {
+      "igdb_id": 366820,
+      "game_name": "Dragon Ball FighterZ: Commentator Voice Pack 2",
+      "file": "missing/D/366820-dragon-ball-fighterz-commentator-voice-pack-2.json"
+    },
+    {
+      "igdb_id": 366821,
+      "game_name": "Dragon Ball FighterZ: Commentator Voice Pack 3",
+      "file": "missing/D/366821-dragon-ball-fighterz-commentator-voice-pack-3.json"
+    },
+    {
+      "igdb_id": 366818,
+      "game_name": "Dragon Ball FighterZ: Commentator Voice Pack 4",
+      "file": "missing/D/366818-dragon-ball-fighterz-commentator-voice-pack-4.json"
+    },
+    {
+      "igdb_id": 366822,
+      "game_name": "Dragon Ball FighterZ: Exclusive SS Goku Lobby Avatar",
+      "file": "missing/D/366822-dragon-ball-fighterz-exclusive-ss-goku-lobby-avatar.json"
+    },
+    {
+      "igdb_id": 366819,
+      "game_name": "Dragon Ball FighterZ: Stamps Girls Pack",
+      "file": "missing/D/366819-dragon-ball-fighterz-stamps-girls-pack.json"
+    },
+    {
       "igdb_id": 19314,
       "game_name": "Dragon Ball Fusions",
       "file": "missing/D/19314-dragon-ball-fusions.json"
@@ -41651,6 +41696,16 @@
       "igdb_id": 95014,
       "game_name": "Dragon Ball Legends",
       "file": "missing/D/95014-dragon-ball-legends.json"
+    },
+    {
+      "igdb_id": 366817,
+      "game_name": "Dragon Ball Sparking Zero: Shallot (Dragon Ball Legends)",
+      "file": "missing/D/366817-dragon-ball-sparking-zero-shallot-dragon-ball-legends.json"
+    },
+    {
+      "igdb_id": 366824,
+      "game_name": "Dragon Ball Xenoverse 2: Dragon Ball Daima Pack",
+      "file": "missing/D/366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json"
     },
     {
       "igdb_id": 116372,
@@ -60978,6 +61033,11 @@
       "file": "missing/G/251210-gravity-still-sucks.json"
     },
     {
+      "igdb_id": 366830,
+      "game_name": "Gravity Was A Mistake",
+      "file": "missing/G/366830-gravity-was-a-mistake.json"
+    },
+    {
       "igdb_id": 141882,
       "game_name": "Gravulse",
       "file": "missing/G/141882-gravulse.json"
@@ -64826,6 +64886,11 @@
       "igdb_id": 371226,
       "game_name": "Hell Let Loose: Battle Scarred",
       "file": "missing/H/371226-hell-let-loose-battle-scarred.json"
+    },
+    {
+      "igdb_id": 366854,
+      "game_name": "Hell Let Loose: Operation Overlord Units",
+      "file": "missing/H/366854-hell-let-loose-operation-overlord-units.json"
     },
     {
       "igdb_id": 371222,
@@ -70163,6 +70228,11 @@
       "file": "missing/I/16645-iesabel.json"
     },
     {
+      "igdb_id": 366833,
+      "game_name": "If Monks Had Macs...",
+      "file": "missing/I/366833-if-monks-had-macs.json"
+    },
+    {
       "igdb_id": 196874,
       "game_name": "If My Heart Had Wings",
       "file": "missing/I/196874-if-my-heart-had-wings.json"
@@ -70541,6 +70611,11 @@
       "igdb_id": 332246,
       "game_name": "Immortum",
       "file": "missing/I/332246-immortum.json"
+    },
+    {
+      "igdb_id": 366828,
+      "game_name": "Immune Attack",
+      "file": "missing/I/366828-immune-attack.json"
     },
     {
       "igdb_id": 167302,
@@ -87998,6 +88073,11 @@
       "file": "missing/M/235997-medieval-defence.json"
     },
     {
+      "igdb_id": 366852,
+      "game_name": "Medieval Dynasty: Echoes of Nature",
+      "file": "missing/M/366852-medieval-dynasty-echoes-of-nature.json"
+    },
+    {
       "igdb_id": 315870,
       "game_name": "Medieval Fantasy: Jigsaw Puzzle - Emperor Edition",
       "file": "missing/M/315870-medieval-fantasy-jigsaw-puzzle-emperor-edition.json"
@@ -88626,6 +88706,11 @@
       "igdb_id": 112351,
       "game_name": "Meme Barley-Break",
       "file": "missing/M/112351-meme-barley-break.json"
+    },
+    {
+      "igdb_id": 366827,
+      "game_name": "Meme Wars",
+      "file": "missing/M/366827-meme-wars.json"
     },
     {
       "igdb_id": 33176,
@@ -90693,6 +90778,11 @@
       "file": "missing/M/223159-minecraft-caves-and-cliffs-part-ii.json"
     },
     {
+      "igdb_id": 366815,
+      "game_name": "Minecraft: Dairycraft",
+      "file": "missing/M/366815-minecraft-dairycraft.json"
+    },
+    {
       "igdb_id": 254125,
       "game_name": "Minecraft: Frozen",
       "file": "missing/M/254125-minecraft-frozen.json"
@@ -90706,6 +90796,11 @@
       "igdb_id": 324712,
       "game_name": "Minecraft: Heat Wave Survival",
       "file": "missing/M/324712-minecraft-heat-wave-survival.json"
+    },
+    {
+      "igdb_id": 366814,
+      "game_name": "Minecraft: Hermicraft Season 8 Map",
+      "file": "missing/M/366814-minecraft-hermicraft-season-8-map.json"
     },
     {
       "igdb_id": 322959,
@@ -98783,6 +98878,11 @@
       "file": "missing/N/406088-night-school.json"
     },
     {
+      "igdb_id": 366829,
+      "game_name": "Night Shift: 1999",
+      "file": "missing/N/366829-night-shift-1999.json"
+    },
+    {
       "igdb_id": 328253,
       "game_name": "Night Shift: Laundry",
       "file": "missing/N/328253-night-shift-laundry.json"
@@ -100213,6 +100313,11 @@
       "file": "missing/N/188083-northgard-dodsvagr-clan-of-the-rat.json"
     },
     {
+      "igdb_id": 366866,
+      "game_name": "Northgard: Gardariki, Clan of the Hippogriff",
+      "file": "missing/N/366866-northgard-gardariki-clan-of-the-hippogriff.json"
+    },
+    {
       "igdb_id": 218693,
       "game_name": "Northgard: Hræsvelg, Clan of the Eagle",
       "file": "missing/N/218693-northgard-hr-svelg-clan-of-the-eagle.json"
@@ -100276,6 +100381,11 @@
       "igdb_id": 406711,
       "game_name": "Not a Customer",
       "file": "missing/N/406711-not-a-customer.json"
+    },
+    {
+      "igdb_id": 366868,
+      "game_name": "Not A Fake Game",
+      "file": "missing/N/366868-not-a-fake-game.json"
     },
     {
       "igdb_id": 184094,
@@ -101056,6 +101166,11 @@
       "igdb_id": 389986,
       "game_name": "Odds at Oddity",
       "file": "missing/O/389986-odds-at-oddity.json"
+    },
+    {
+      "igdb_id": 366853,
+      "game_name": "Oddsparks: An Automation Adventure - Animal Costumes Pack",
+      "file": "missing/O/366853-oddsparks-an-automation-adventure-animal-costumes-pack.json"
     },
     {
       "igdb_id": 403586,
@@ -113858,6 +113973,11 @@
       "file": "missing/P/97863-puzzle-nintama-rantarou-gb.json"
     },
     {
+      "igdb_id": 366826,
+      "game_name": "Puzzle Parasite",
+      "file": "missing/P/366826-puzzle-parasite.json"
+    },
+    {
       "igdb_id": 215882,
       "game_name": "Puzzle Park",
       "file": "missing/P/215882-puzzle-park.json"
@@ -120233,6 +120353,11 @@
       "file": "missing/R/206953-rock-band-3.json"
     },
     {
+      "igdb_id": 366816,
+      "game_name": "Rock Band 4: Any Other Heart",
+      "file": "missing/R/366816-rock-band-4-any-other-heart.json"
+    },
+    {
       "igdb_id": 371863,
       "game_name": "Rock Band 4: Who Am I? (What's My Name?)",
       "file": "missing/R/371863-rock-band-4-who-am-i-whats-my-name.json"
@@ -120371,6 +120496,31 @@
       "igdb_id": 252378,
       "game_name": "Rocket League: Season 11",
       "file": "missing/R/252378-rocket-league-season-11.json"
+    },
+    {
+      "igdb_id": 366846,
+      "game_name": "Rocket League: Season 18 Rocketeer Pack",
+      "file": "missing/R/366846-rocket-league-season-18-rocketeer-pack.json"
+    },
+    {
+      "igdb_id": 366845,
+      "game_name": "Rocket League: Season 18 Veteran Pack",
+      "file": "missing/R/366845-rocket-league-season-18-veteran-pack.json"
+    },
+    {
+      "igdb_id": 366843,
+      "game_name": "Rocket League: Season 19 Elite Pack",
+      "file": "missing/R/366843-rocket-league-season-19-elite-pack.json"
+    },
+    {
+      "igdb_id": 366844,
+      "game_name": "Rocket League: Season 19 Rookie Pack",
+      "file": "missing/R/366844-rocket-league-season-19-rookie-pack.json"
+    },
+    {
+      "igdb_id": 366848,
+      "game_name": "Rocket League: TriTrim Wheels",
+      "file": "missing/R/366848-rocket-league-tritrim-wheels.json"
     },
     {
       "igdb_id": 195213,
@@ -131148,6 +131298,11 @@
       "file": "missing/S/262078-snowman-attack.json"
     },
     {
+      "igdb_id": 366855,
+      "game_name": "SnowRunner: Freightliner & Western Star Dual Pack",
+      "file": "missing/S/366855-snowrunner-freightliner-and-western-star-dual-pack.json"
+    },
+    {
       "igdb_id": 169995,
       "game_name": "SnowRunner: Jeep Dual Pack",
       "file": "missing/S/169995-snowrunner-jeep-dual-pack.json"
@@ -131956,6 +132111,11 @@
       "igdb_id": 119346,
       "game_name": "Songs of Conquest",
       "file": "missing/S/119346-songs-of-conquest.json"
+    },
+    {
+      "igdb_id": 366851,
+      "game_name": "Songs of Conquest: Roots",
+      "file": "missing/S/366851-songs-of-conquest-roots.json"
     },
     {
       "igdb_id": 403559,
@@ -145968,9 +146128,49 @@
       "file": "missing/T/57153-the-battle-of-polytopia.json"
     },
     {
+      "igdb_id": 366863,
+      "game_name": "The Battle of Polytopia: Anzala",
+      "file": "missing/T/366863-the-battle-of-polytopia-anzala.json"
+    },
+    {
+      "igdb_id": 366861,
+      "game_name": "The Battle of Polytopia: Baergøff",
+      "file": "missing/T/366861-the-battle-of-polytopia-baerg-ff.json"
+    },
+    {
+      "igdb_id": 366857,
+      "game_name": "The Battle of Polytopia: Hoodrick",
+      "file": "missing/T/366857-the-battle-of-polytopia-hoodrick.json"
+    },
+    {
+      "igdb_id": 366858,
+      "game_name": "The Battle of Polytopia: Kickoo",
+      "file": "missing/T/366858-the-battle-of-polytopia-kickoo.json"
+    },
+    {
+      "igdb_id": 366860,
+      "game_name": "The Battle of Polytopia: Lirepacci",
+      "file": "missing/T/366860-the-battle-of-polytopia-lirepacci.json"
+    },
+    {
       "igdb_id": 305532,
       "game_name": "The Battle of Polytopia: Midŋighţ Skin - Elyrioŋ Tribe",
       "file": "missing/T/305532-the-battle-of-polytopia-mid-ight-skin-elyrio-tribe.json"
+    },
+    {
+      "igdb_id": 366856,
+      "game_name": "The Battle of Polytopia: Ragoo",
+      "file": "missing/T/366856-the-battle-of-polytopia-ragoo.json"
+    },
+    {
+      "igdb_id": 366862,
+      "game_name": "The Battle of Polytopia: Sha-po",
+      "file": "missing/T/366862-the-battle-of-polytopia-sha-po.json"
+    },
+    {
+      "igdb_id": 366859,
+      "game_name": "The Battle of Polytopia: Yorthwober",
+      "file": "missing/T/366859-the-battle-of-polytopia-yorthwober.json"
     },
     {
       "igdb_id": 210900,
@@ -150806,6 +151006,26 @@
       "igdb_id": 264856,
       "game_name": "The Outer Zone: Survival Tactics",
       "file": "missing/T/264856-the-outer-zone-survival-tactics.json"
+    },
+    {
+      "igdb_id": 366838,
+      "game_name": "The Outlast Trials: Porcelain Observer Pack",
+      "file": "missing/T/366838-the-outlast-trials-porcelain-observer-pack.json"
+    },
+    {
+      "igdb_id": 366837,
+      "game_name": "The Outlast Trials: Spelunking For Your Life Pack",
+      "file": "missing/T/366837-the-outlast-trials-spelunking-for-your-life-pack.json"
+    },
+    {
+      "igdb_id": 366835,
+      "game_name": "The Outlast Trials: Terrified Toddler Pack",
+      "file": "missing/T/366835-the-outlast-trials-terrified-toddler-pack.json"
+    },
+    {
+      "igdb_id": 366839,
+      "game_name": "The Outlast Trials: World of Heavyweights Pack",
+      "file": "missing/T/366839-the-outlast-trials-world-of-heavyweights-pack.json"
     },
     {
       "igdb_id": 216998,
@@ -158013,6 +158233,11 @@
       "file": "missing/T/256518-trailpa.json"
     },
     {
+      "igdb_id": 366850,
+      "game_name": "TrailRail",
+      "file": "missing/T/366850-trailrail.json"
+    },
+    {
       "igdb_id": 197951,
       "game_name": "Trails of Illusion",
       "file": "missing/T/197951-trails-of-illusion.json"
@@ -158088,9 +158313,24 @@
       "file": "missing/T/269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json"
     },
     {
+      "igdb_id": 366834,
+      "game_name": "Train Sim World 5: BR Class 86/2 & Mk2f Coaches",
+      "file": "missing/T/366834-train-sim-world-5-br-class-86-2-and-mk2f-coaches.json"
+    },
+    {
       "igdb_id": 336939,
       "game_name": "Train Sim World 5: Dutch Regional Edition",
       "file": "missing/T/336939-train-sim-world-5-dutch-regional-edition.json"
+    },
+    {
+      "igdb_id": 366842,
+      "game_name": "Train Sim World 5: Manchester Airport Commuter: Manchester - Alderley Edge",
+      "file": "missing/T/366842-train-sim-world-5-manchester-airport-commuter-manchester-alderley-edge.json"
+    },
+    {
+      "igdb_id": 366841,
+      "game_name": "Train Sim World 5: MBTA Providence/Stoughton Line HSP46 Pack",
+      "file": "missing/T/366841-train-sim-world-5-mbta-providence-stoughton-line-hsp46-pack.json"
     },
     {
       "igdb_id": 363370,
@@ -158921,6 +159161,11 @@
       "igdb_id": 12969,
       "game_name": "Treasure Hunt",
       "file": "missing/T/12969-treasure-hunt.json"
+    },
+    {
+      "igdb_id": 366840,
+      "game_name": "Treasure Hunt",
+      "file": "missing/T/366840-treasure-hunt.json"
     },
     {
       "igdb_id": 242235,
@@ -167921,6 +168166,11 @@
       "igdb_id": 84248,
       "game_name": "Wibarm",
       "file": "missing/W/84248-wibarm.json"
+    },
+    {
+      "igdb_id": 366865,
+      "game_name": "Wibby Buddy",
+      "file": "missing/W/366865-wibby-buddy.json"
     },
     {
       "igdb_id": 58269,
