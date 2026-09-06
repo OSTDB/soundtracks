@@ -101,6 +101,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palais de Reine | 130397 | [130397-palais-de-reine.json](./130397-palais-de-reine.json) |
 | Pale Carnations | 239316 | [239316-pale-carnations.json](./239316-pale-carnations.json) |
 | Pale Moon Crisis | 29977 | [29977-pale-moon-crisis.json](./29977-pale-moon-crisis.json) |
+| Paleo Pines: Spooktacular DLC | 360598 | [360598-paleo-pines-spooktacular-dlc.json](./360598-paleo-pines-spooktacular-dlc.json) |
+| Paleo Pines: Trick or Treat DLC | 360597 | [360597-paleo-pines-trick-or-treat-dlc.json](./360597-paleo-pines-trick-or-treat-dlc.json) |
 | Palette Swap | 163993 | [163993-palette-swap.json](./163993-palette-swap.json) |
 | Palia | 151467 | [151467-palia.json](./151467-palia.json) |
 | Palikat | 251194 | [251194-palikat.json](./251194-palikat.json) |
@@ -1282,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pompeii | 40774 | [40774-pompeii.json](./40774-pompeii.json) |
 | Pompom | 173842 | [173842-pompom.json](./173842-pompom.json) |
 | Ponchorado | 391593 | [391593-ponchorado.json](./391593-ponchorado.json) |
+| Ponchyo: A Platypus Adventure | 360607 | [360607-ponchyo-a-platypus-adventure.json](./360607-ponchyo-a-platypus-adventure.json) |
 | Pondlife | 384543 | [384543-pondlife.json](./384543-pondlife.json) |
 | Pong - Old School | 86705 | [86705-pong-old-school.json](./86705-pong-old-school.json) |
 | Pong Champion VR | 31944 | [31944-pong-champion-vr.json](./31944-pong-champion-vr.json) |
@@ -1383,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Punch | 247220 | [247220-potion-punch.json](./247220-potion-punch.json) |
 | Potion Punch 2: Cooking Quest | 247219 | [247219-potion-punch-2-cooking-quest.json](./247219-potion-punch-2-cooking-quest.json) |
 | Potion Punch 2+ | 385569 | [385569-potion-punch-2.json](./385569-potion-punch-2.json) |
+| Potionomics: Boss Finn Content Pack | 360595 | [360595-potionomics-boss-finn-content-pack.json](./360595-potionomics-boss-finn-content-pack.json) |
 | Potions, Frankly | 183598 | [183598-potions-frankly.json](./183598-potions-frankly.json) |
 | Pots and Potions | 170540 | [170540-pots-and-potions.json](./170540-pots-and-potions.json) |
 | Potshot Pirates | 117750 | [117750-potshot-pirates.json](./117750-potshot-pirates.json) |
