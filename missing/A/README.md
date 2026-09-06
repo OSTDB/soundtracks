@@ -1232,6 +1232,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Bomber | 147466 | [147466-animal-bomber.json](./147466-animal-bomber.json) |
 | Animal Breeder | 78715 | [78715-animal-breeder.json](./78715-animal-breeder.json) |
 | Animal Crackers | 177567 | [177567-animal-crackers.json](./177567-animal-crackers.json) |
+| Animal Crossing-e: Animal Crossing | 354415 | [354415-animal-crossing-e-animal-crossing.json](./354415-animal-crossing-e-animal-crossing.json) |
+| Animal Crossing-e: PR - Design Card: NES Link | 354416 | [354416-animal-crossing-e-pr-design-card-nes-link.json](./354416-animal-crossing-e-pr-design-card-nes-link.json) |
 | Animal Crossing: City Folk Deluxe | 341895 | [341895-animal-crossing-city-folk-deluxe.json](./341895-animal-crossing-city-folk-deluxe.json) |
 | Animal Drifters | 219296 | [219296-animal-drifters.json](./219296-animal-drifters.json) |
 | Animal Planet: Vet Life | 50635 | [50635-animal-planet-vet-life.json](./50635-animal-planet-vet-life.json) |
@@ -1737,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
 | Art of Fighting 2 | 6556 | [6556-art-of-fighting-2.json](./6556-art-of-fighting-2.json) |
 | Art of Guile | 26721 | [26721-art-of-guile.json](./26721-art-of-guile.json) |
+| Art Puzzle | 354421 | [354421-art-puzzle.json](./354421-art-puzzle.json) |
 | Art Studio Simulator | 407346 | [407346-art-studio-simulator.json](./407346-art-studio-simulator.json) |
 | Art Style: Zengage | 69293 | [69293-art-style-zengage.json](./69293-art-style-zengage.json) |
 | Artemis Lutea: District Defender | 318766 | [318766-artemis-lutea-district-defender.json](./318766-artemis-lutea-district-defender.json) |
