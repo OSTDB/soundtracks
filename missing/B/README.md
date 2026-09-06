@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B u r n t | 181392 | [181392-b-u-r-n-t.json](./181392-b-u-r-n-t.json) |
 | B-Sides | 183582 | [183582-b-sides.json](./183582-b-sides.json) |
 | B-Wings | 273080 | [273080-b-wings.json](./273080-b-wings.json) |
+| B.A.D. | 362277 | [362277-b-a-d.json](./362277-b-a-d.json) |
 | B.A.S.E. Jumping | 137095 | [137095-b-a-s-e-jumping.json](./137095-b-a-s-e-jumping.json) |
 | B.A.T. | 185657 | [185657-b-a-t.json](./185657-b-a-t.json) |
 | B.B. Rider | 331147 | [331147-b-b-rider.json](./331147-b-b-rider.json) |
@@ -1144,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach: The Blade of Fate | 20530 | [20530-bleach-the-blade-of-fate.json](./20530-bleach-the-blade-of-fate.json) |
 | Bleak Frontier | 258707 | [258707-bleak-frontier.json](./258707-bleak-frontier.json) |
 | Bleak Sword DX | 235203 | [235203-bleak-sword-dx.json](./235203-bleak-sword-dx.json) |
+| Bleaklight Falls | 362270 | [362270-bleaklight-falls.json](./362270-bleaklight-falls.json) |
 | Bleeding Kansas | 51939 | [51939-bleeding-kansas.json](./51939-bleeding-kansas.json) |
 | Blendamaze | 101530 | [101530-blendamaze.json](./101530-blendamaze.json) |
 | Blendy 2 Dolls Factory | 129758 | [129758-blendy-2-dolls-factory.json](./129758-blendy-2-dolls-factory.json) |
@@ -1514,6 +1516,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BOREWORKS | 413654 | [413654-boreworks.json](./413654-boreworks.json) |
 | Boring Game | 166741 | [166741-boring-game.json](./166741-boring-game.json) |
 | Boring in paradise | 156657 | [156657-boring-in-paradise.json](./156657-boring-in-paradise.json) |
+| Boring Movies: Boring Television | 362307 | [362307-boring-movies-boring-television.json](./362307-boring-movies-boring-television.json) |
+| Boring Movies: Friends of Stolen Jewelry | 362310 | [362310-boring-movies-friends-of-stolen-jewelry.json](./362310-boring-movies-friends-of-stolen-jewelry.json) |
+| Boring Movies: Groovy Chainsaw Man | 362309 | [362309-boring-movies-groovy-chainsaw-man.json](./362309-boring-movies-groovy-chainsaw-man.json) |
+| Boring Movies: Spooky Bunny | 362308 | [362308-boring-movies-spooky-bunny.json](./362308-boring-movies-spooky-bunny.json) |
 | Born in Blood | 224784 | [224784-born-in-blood.json](./224784-born-in-blood.json) |
 | Born of Bread: Baker Edition | 278720 | [278720-born-of-bread-baker-edition.json](./278720-born-of-bread-baker-edition.json) |
 | Borneo: A Jungle Nightmare | 197906 | [197906-borneo-a-jungle-nightmare.json](./197906-borneo-a-jungle-nightmare.json) |
