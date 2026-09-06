@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Fight-e | 170004 | [170004-balloon-fight-e.json](./170004-balloon-fight-e.json) |
 | Balloon Kid | 3682 | [3682-balloon-kid.json](./3682-balloon-kid.json) |
 | Balloon Man | 359433 | [359433-balloon-man.json](./359433-balloon-man.json) |
+| Balloon to the Moon 2 | 316083 | [316083-balloon-to-the-moon-2.json](./316083-balloon-to-the-moon-2.json) |
 | Balloonacy 2 | 97324 | [97324-balloonacy-2.json](./97324-balloonacy-2.json) |
 | Balloonacy! | 39043 | [39043-balloonacy.json](./39043-balloonacy.json) |
 | Ballpoint Universe: Infinite | 16770 | [16770-ballpoint-universe-infinite.json](./16770-ballpoint-universe-infinite.json) |
@@ -1145,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Belt | 29134 | [29134-black-belt.json](./29134-black-belt.json) |
 | Black Blood | 379357 | [379357-black-blood.json](./379357-black-blood.json) |
 | Black Box VR | 140619 | [140619-black-box-vr.json](./140619-black-box-vr.json) |
+| Black Cat Blitz | 316085 | [316085-black-cat-blitz.json](./316085-black-cat-blitz.json) |
 | Black Cat Explores Minds | 151736 | [151736-black-cat-explores-minds.json](./151736-black-cat-explores-minds.json) |
 | Black Cauldron Remake | 319346 | [319346-black-cauldron-remake.json](./319346-black-cauldron-remake.json) |
 | Black Command | 107221 | [107221-black-command.json](./107221-black-command.json) |
@@ -1340,9 +1342,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobbins | 151745 | [151745-blobbins.json](./151745-blobbins.json) |
 | Blobi Sprint | 248291 | [248291-blobi-sprint.json](./248291-blobi-sprint.json) |
 | Blobkin Blaster | 158699 | [158699-blobkin-blaster.json](./158699-blobkin-blaster.json) |
+| Blobl.io | 316086 | [316086-blobl-io.json](./316086-blobl-io.json) |
 | Bloble.io | 126022 | [126022-bloble-io.json](./126022-bloble-io.json) |
 | Blobster | 93580 | [93580-blobster.json](./93580-blobster.json) |
 | Blobufo | 219299 | [219299-blobufo.json](./219299-blobufo.json) |
+| Blobun | 316089 | [316089-blobun.json](./316089-blobun.json) |
 | Blobz | 14320 | [14320-blobz.json](./14320-blobz.json) |
 | Block and Save | 254166 | [254166-block-and-save.json](./254166-block-and-save.json) |
 | Block Bounce | 368489 | [368489-block-bounce.json](./368489-block-bounce.json) |
@@ -1994,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brincando com Ariê | 341885 | [341885-brincando-com-arie.json](./341885-brincando-com-arie.json) |
 | Brinefall | 190220 | [190220-brinefall.json](./190220-brinefall.json) |
 | Brisk Square | 151178 | [151178-brisk-square.json](./151178-brisk-square.json) |
+| Bristle and the Artificial Invasion | 316102 | [316102-bristle-and-the-artificial-invasion.json](./316102-bristle-and-the-artificial-invasion.json) |
 | Bristles | 23863 | [23863-bristles.json](./23863-bristles.json) |
 | Britebot | 178651 | [178651-britebot.json](./178651-britebot.json) |
 | British Voter Quiz | 366245 | [366245-british-voter-quiz.json](./366245-british-voter-quiz.json) |
