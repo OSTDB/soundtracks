@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eigenstate | 176470 | [176470-eigenstate.json](./176470-eigenstate.json) |
 | Eight Ball | 93592 | [93592-eight-ball.json](./93592-eight-ball.json) |
 | Eighth Era | 329967 | [329967-eighth-era.json](./329967-eighth-era.json) |
+| Eigo wo Taberu Fushigi na Ikimono | 338715 | [338715-eigo-wo-taberu-fushigi-na-ikimono.json](./338715-eigo-wo-taberu-fushigi-na-ikimono.json) |
 | Eikou no Saint Andrews | 3484 | [3484-eikou-no-saint-andrews.json](./3484-eikou-no-saint-andrews.json) |
 | Eilean Mor: The Lost Keepers | 355026 | [355026-eilean-mor-the-lost-keepers.json](./355026-eilean-mor-the-lost-keepers.json) |
 | Ein Fall für TKKG: Katjas Geheimnis | 127995 | [127995-ein-fall-fur-tkkg-katjas-geheimnis.json](./127995-ein-fall-fur-tkkg-katjas-geheimnis.json) |
@@ -416,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End of Garbage | 382774 | [382774-end-of-garbage.json](./382774-end-of-garbage.json) |
 | End of Twilight | 70973 | [70973-end-of-twilight.json](./70973-end-of-twilight.json) |
 | End of War 1945 | 127377 | [127377-end-of-war-1945.json](./127377-end-of-war-1945.json) |
+| End the Endless | 338716 | [338716-end-the-endless.json](./338716-end-the-endless.json) |
 | End Them, Soldier! | 347690 | [347690-end-them-soldier.json](./347690-end-them-soldier.json) |
 | Endeavor | 228677 | [228677-endeavor.json](./228677-endeavor.json) |
 | Ender IO | 232676 | [232676-ender-io.json](./232676-ender-io.json) |
@@ -516,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Food Fight | 114402 | [114402-epic-food-fight.json](./114402-epic-food-fight.json) |
 | Epic Food Fight VR | 117075 | [117075-epic-food-fight-vr.json](./117075-epic-food-fight-vr.json) |
 | Epic Landscapes Jigsaw | 354404 | [354404-epic-landscapes-jigsaw.json](./354404-epic-landscapes-jigsaw.json) |
+| Epic Paper Mario | 338735 | [338735-epic-paper-mario.json](./338735-epic-paper-mario.json) |
 | Epic Party Clicker | 314632 | [314632-epic-party-clicker.json](./314632-epic-party-clicker.json) |
 | Epic Prose: Special Edition | 52020 | [52020-epic-prose-special-edition.json](./52020-epic-prose-special-edition.json) |
 | Epic Sax Game | 414339 | [414339-epic-sax-game.json](./414339-epic-sax-game.json) |
