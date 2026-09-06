@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Rodent | 57093 | [57093-indiana-rodent.json](./57093-indiana-rodent.json) |
 | Indie Bungle 2: Breakout Indies | 414340 | [414340-indie-bungle-2-breakout-indies.json](./414340-indie-bungle-2-breakout-indies.json) |
 | Indie Gems Bundle: JRPG Edition | 129805 | [129805-indie-gems-bundle-jrpg-edition.json](./129805-indie-gems-bundle-jrpg-edition.json) |
+| Indiepocalypse #61 | 336536 | [336536-indiepocalypse-61.json](./336536-indiepocalypse-61.json) |
 | Indiepocalypse #68 | 382208 | [382208-indiepocalypse-68.json](./382208-indiepocalypse-68.json) |
 | Indiepocalypse #69 | 382205 | [382205-indiepocalypse-69.json](./382205-indiepocalypse-69.json) |
 | Indiepocalypse #70 | 382207 | [382207-indiepocalypse-70.json](./382207-indiepocalypse-70.json) |
@@ -391,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiepocalypse #75 | 402283 | [402283-indiepocalypse-75.json](./402283-indiepocalypse-75.json) |
 | Indignum | 397664 | [397664-indignum.json](./397664-indignum.json) |
 | Indigo | 388713 | [388713-indigo.json](./388713-indigo.json) |
+| Indigo Horizon | 336528 | [336528-indigo-horizon.json](./336528-indigo-horizon.json) |
 | Indigo Prophecy | 410247 | [410247-indigo-prophecy.json](./410247-indigo-prophecy.json) |
 | Indoor Baseball | 330562 | [330562-indoor-baseball.json](./330562-indoor-baseball.json) |
 | Induction | 18194 | [18194-induction.json](./18194-induction.json) |
