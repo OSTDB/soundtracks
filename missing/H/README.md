@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron IV: Content Creator Pack - Soviet Union 2D Art | 316394 | [316394-hearts-of-iron-iv-content-creator-pack-soviet-union-2d-art.json](./316394-hearts-of-iron-iv-content-creator-pack-soviet-union-2d-art.json) |
 | Hearts of Iron IV: Hero Edition | 47308 | [47308-hearts-of-iron-iv-hero-edition.json](./47308-hearts-of-iron-iv-hero-edition.json) |
 | Hearts of Iron: Road to War | 64993 | [64993-hearts-of-iron-road-to-war.json](./64993-hearts-of-iron-road-to-war.json) |
+| Hearts on Fire | 313720 | [313720-hearts-on-fire.json](./313720-hearts-on-fire.json) |
 | Hearts Online | 317011 | [317011-hearts-online.json](./317011-hearts-online.json) |
 | Hearts: Card Game | 143066 | [143066-hearts-card-game.json](./143066-hearts-card-game.json) |
 | Hearts: Classic Fun Card Game | 87549 | [87549-hearts-classic-fun-card-game.json](./87549-hearts-classic-fun-card-game.json) |
