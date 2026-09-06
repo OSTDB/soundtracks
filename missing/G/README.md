@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomageddon: Forge of Infinity | 408033 | [408033-gnomageddon-forge-of-infinity.json](./408033-gnomageddon-forge-of-infinity.json) |
 | Gnome Light | 54471 | [54471-gnome-light.json](./54471-gnome-light.json) |
 | Gnome Nations | 106595 | [106595-gnome-nations.json](./106595-gnome-nations.json) |
+| Gnomecart Havoc | 319006 | [319006-gnomecart-havoc.json](./319006-gnomecart-havoc.json) |
 | Gnomes | 37182 | [37182-gnomes.json](./37182-gnomes.json) |
 | Gnomes Garden Lost King | 102882 | [102882-gnomes-garden-lost-king.json](./102882-gnomes-garden-lost-king.json) |
 | Gnomes Garden: Black Stones | 360576 | [360576-gnomes-garden-black-stones.json](./360576-gnomes-garden-black-stones.json) |
