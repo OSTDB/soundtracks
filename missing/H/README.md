@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hajwala Desert | 332819 | [332819-hajwala-desert.json](./332819-hajwala-desert.json) |
 | Hajwala Of Riyadh | 366215 | [366215-hajwala-of-riyadh.json](./366215-hajwala-of-riyadh.json) |
 | Hakarena Heart: Dare ga Tame ni Kimi ha Aru | 69292 | [69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json](./69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json) |
+| Hakkaku Doku | 323707 | [323707-hakkaku-doku.json](./323707-hakkaku-doku.json) |
 | Hakkenden | 327200 | [327200-hakkenden.json](./327200-hakkenden.json) |
 | Hako | 22468 | [22468-hako.json](./22468-hako.json) |
 | HakoBoy! Hakozume Box | 81428 | [81428-hakoboy-hakozume-box.json](./81428-hakoboy-hakozume-box.json) |
@@ -946,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman World of Assassination | 233571 | [233571-hitman-world-of-assassination.json](./233571-hitman-world-of-assassination.json) |
 | Hitman World of Assassination: 25th Anniversary Edition | 347699 | [347699-hitman-world-of-assassination-25th-anniversary-edition.json](./347699-hitman-world-of-assassination-25th-anniversary-edition.json) |
 | Hitman World of Assassination: Bruce Lee | 370132 | [370132-hitman-world-of-assassination-bruce-lee.json](./370132-hitman-world-of-assassination-bruce-lee.json) |
+| Hitman: Freelancer | 323712 | [323712-hitman-freelancer.json](./323712-hitman-freelancer.json) |
 | Hitman: Patient Zero | 76414 | [76414-hitman-patient-zero.json](./76414-hitman-patient-zero.json) |
 | Hitme | 178096 | [178096-hitme.json](./178096-hitme.json) |
 | Hitme 2 | 225273 | [225273-hitme-2.json](./225273-hitme-2.json) |
@@ -1046,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Wars | 43334 | [43334-home-wars.json](./43334-home-wars.json) |
 | Home: Boov Pop! | 344931 | [344931-home-boov-pop.json](./344931-home-boov-pop.json) |
 | Homebound Mariana | 302124 | [302124-homebound-mariana.json](./302124-homebound-mariana.json) |
+| Homecoming: Kitaku | 323708 | [323708-homecoming-kitaku.json](./323708-homecoming-kitaku.json) |
 | Homefront: The Rock Map Pack | 224224 | [224224-homefront-the-rock-map-pack.json](./224224-homefront-the-rock-map-pack.json) |
 | Homehead | 346023 | [346023-homehead.json](./346023-homehead.json) |
 | Homeland | 3948 | [3948-homeland.json](./3948-homeland.json) |
