@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Dungeon Game | 333018 | [333018-random-dungeon-game.json](./333018-random-dungeon-game.json) |
 | Random Number God | 184625 | [184625-random-number-god.json](./184625-random-number-god.json) |
 | Random Quest : First Person RPG | 103505 | [103505-random-quest-first-person-rpg.json](./103505-random-quest-first-person-rpg.json) |
+| Randungeon | 326073 | [326073-randungeon.json](./326073-randungeon.json) |
 | Range Ball | 104056 | [104056-range-ball.json](./104056-range-ball.json) |
 | Ranger Danger | 224740 | [224740-ranger-danger.json](./224740-ranger-danger.json) |
 | Ranita Fishing | 178078 | [178078-ranita-fishing.json](./178078-ranita-fishing.json) |
@@ -1181,8 +1182,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Knight Adventures: Re-Sparked | 283095 | [283095-rocket-knight-adventures-re-sparked.json](./283095-rocket-knight-adventures-re-sparked.json) |
 | Rocket League: DC Super Heroes DLC Pack | 226939 | [226939-rocket-league-dc-super-heroes-dlc-pack.json](./226939-rocket-league-dc-super-heroes-dlc-pack.json) |
 | Rocket League: Hot Wheels Triple Threat | 156174 | [156174-rocket-league-hot-wheels-triple-threat.json](./156174-rocket-league-hot-wheels-triple-threat.json) |
+| Rocket League: Painted Power Bundle | 326040 | [326040-rocket-league-painted-power-bundle.json](./326040-rocket-league-painted-power-bundle.json) |
 | Rocket League: Season 1 | 202392 | [202392-rocket-league-season-1.json](./202392-rocket-league-season-1.json) |
 | Rocket League: Season 11 | 252378 | [252378-rocket-league-season-11.json](./252378-rocket-league-season-11.json) |
+| Rocket League: Season 15 Rookie Pack | 326039 | [326039-rocket-league-season-15-rookie-pack.json](./326039-rocket-league-season-15-rookie-pack.json) |
 | Rocket League: Season 17 Rocketeer Pack | 331860 | [331860-rocket-league-season-17-rocketeer-pack.json](./331860-rocket-league-season-17-rocketeer-pack.json) |
 | Rocket League: Season 17 Veteran Pack | 330705 | [330705-rocket-league-season-17-veteran-pack.json](./330705-rocket-league-season-17-veteran-pack.json) |
 | Rocket League: Season 18 Rocketeer Pack | 366846 | [366846-rocket-league-season-18-rocketeer-pack.json](./366846-rocket-league-season-18-rocketeer-pack.json) |
