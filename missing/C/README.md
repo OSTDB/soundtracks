@@ -1951,6 +1951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Room: Decade | 25809 | [25809-crimson-room-decade.json](./25809-crimson-room-decade.json) |
 | Crimson Skies | 15863 | [15863-crimson-skies.json](./15863-crimson-skies.json) |
 | Crimson Souls | 109696 | [109696-crimson-souls.json](./109696-crimson-souls.json) |
+| Crimson Theory | 339290 | [339290-crimson-theory.json](./339290-crimson-theory.json) |
 | Crimson Thread of Fate | 318769 | [318769-crimson-thread-of-fate.json](./318769-crimson-thread-of-fate.json) |
 | Crimsonland | 253323 | [253323-crimsonland.json](./253323-crimsonland.json) |
 | Crimzon Clover | 137065 | [137065-crimzon-clover.json](./137065-crimzon-clover.json) |
