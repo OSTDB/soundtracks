@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh! Edo Towns | 65526 | [65526-oh-edo-towns.json](./65526-oh-edo-towns.json) |
 | Oh! Sheep | 233733 | [233733-oh-sheep.json](./233733-oh-sheep.json) |
 | Oha Suta Dance Dance Revolution GB | 246126 | [246126-oha-suta-dance-dance-revolution-gb.json](./246126-oha-suta-dance-dance-revolution-gb.json) |
+| Ohanabatake no Flore | 332418 | [332418-ohanabatake-no-flore.json](./332418-ohanabatake-no-flore.json) |
 | OHV | 216978 | [216978-ohv.json](./216978-ohv.json) |
 | Oib.io | 86079 | [86079-oib-io.json](./86079-oib-io.json) |
 | Oik 5: DLC | 171626 | [171626-oik-5-dlc.json](./171626-oik-5-dlc.json) |
