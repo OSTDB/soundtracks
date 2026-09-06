@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Door | 214177 | [214177-open-door.json](./214177-open-door.json) |
 | Open Fire | 348792 | [348792-open-fire.json](./348792-open-fire.json) |
 | Open Fire: Ready | 389966 | [389966-open-fire-ready.json](./389966-open-fire-ready.json) |
+| Open Fishing 2 | 333003 | [333003-open-fishing-2.json](./333003-open-fishing-2.json) |
 | Open Rails | 89985 | [89985-open-rails.json](./89985-open-rails.json) |
 | Open Space Collection | 196306 | [196306-open-space-collection.json](./196306-open-space-collection.json) |
 | Open Star Fighter | 339288 | [339288-open-star-fighter.json](./339288-open-star-fighter.json) |
@@ -517,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Steel | 151732 | [151732-operation-steel.json](./151732-operation-steel.json) |
 | Operation Swat | 29656 | [29656-operation-swat.json](./29656-operation-swat.json) |
 | Operation Wolf Returns: First Mission | 218213 | [218213-operation-wolf-returns-first-mission.json](./218213-operation-wolf-returns-first-mission.json) |
+| Operation Zero | 333014 | [333014-operation-zero.json](./333014-operation-zero.json) |
 | Operation: Hostage Rescue | 337987 | [337987-operation-hostage-rescue.json](./337987-operation-hostage-rescue.json) |
 | Operation: Ops | 184651 | [184651-operation-ops.json](./184651-operation-ops.json) |
 | Operation: Outbreak Idle | 405539 | [405539-operation-outbreak-idle.json](./405539-operation-outbreak-idle.json) |
@@ -565,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orchard Odyssey: Pumpkin Party | 375440 | [375440-orchard-odyssey-pumpkin-party.json](./375440-orchard-odyssey-pumpkin-party.json) |
 | Orchard Outbreak: Slime Time | 383955 | [383955-orchard-outbreak-slime-time.json](./383955-orchard-outbreak-slime-time.json) |
 | Orchids to Dusk | 135906 | [135906-orchids-to-dusk.json](./135906-orchids-to-dusk.json) |
+| Orcs and Outlaws | 332995 | [332995-orcs-and-outlaws.json](./332995-orcs-and-outlaws.json) |
 | Order 13 VR | 402889 | [402889-order-13-vr.json](./402889-order-13-vr.json) |
 | Order of Battle: Allies Defiant | 154565 | [154565-order-of-battle-allies-defiant.json](./154565-order-of-battle-allies-defiant.json) |
 | Order of Battle: World War II - Allies Resurgent | 171073 | [171073-order-of-battle-world-war-ii-allies-resurgent.json](./171073-order-of-battle-world-war-ii-allies-resurgent.json) |
