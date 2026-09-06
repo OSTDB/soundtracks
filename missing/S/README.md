@@ -2681,6 +2681,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Catcher: Heart Master | 362272 | [362272-star-catcher-heart-master.json](./362272-star-catcher-heart-master.json) |
 | Star Chef 2: Cooking Game | 153999 | [153999-star-chef-2-cooking-game.json](./153999-star-chef-2-cooking-game.json) |
 | Star Chindy | 175420 | [175420-star-chindy.json](./175420-star-chindy.json) |
+| Star Conflict: Custodian | 354419 | [354419-star-conflict-custodian.json](./354419-star-conflict-custodian.json) |
+| Star Conflict: Empire Destroyer Vigilant | 354423 | [354423-star-conflict-empire-destroyer-vigilant.json](./354423-star-conflict-empire-destroyer-vigilant.json) |
+| Star Conflict: Federation Destroyer Sirius | 354430 | [354430-star-conflict-federation-destroyer-sirius.json](./354430-star-conflict-federation-destroyer-sirius.json) |
+| Star Conflict: Fleet Strength - Razor | 354425 | [354425-star-conflict-fleet-strength-razor.json](./354425-star-conflict-fleet-strength-razor.json) |
+| Star Conflict: Gungnir | 354418 | [354418-star-conflict-gungnir.json](./354418-star-conflict-gungnir.json) |
+| Star Conflict: Jericho destroyer Tyrant | 354435 | [354435-star-conflict-jericho-destroyer-tyrant.json](./354435-star-conflict-jericho-destroyer-tyrant.json) |
+| Star Conflict: Mercenary Pack - Galaxy Explorer | 354441 | [354441-star-conflict-mercenary-pack-galaxy-explorer.json](./354441-star-conflict-mercenary-pack-galaxy-explorer.json) |
+| Star Conflict: Mercenary Pack - Soldier of Fortune | 354429 | [354429-star-conflict-mercenary-pack-soldier-of-fortune.json](./354429-star-conflict-mercenary-pack-soldier-of-fortune.json) |
+| Star Conflict: Mole | 354433 | [354433-star-conflict-mole.json](./354433-star-conflict-mole.json) |
+| Star Conflict: Mole - Deluxe Edition | 354434 | [354434-star-conflict-mole-deluxe-edition.json](./354434-star-conflict-mole-deluxe-edition.json) |
+| Star Conflict: Pilgrim | 354438 | [354438-star-conflict-pilgrim.json](./354438-star-conflict-pilgrim.json) |
+| Star Conflict: Pirate Pack - Jolly Roger | 354440 | [354440-star-conflict-pirate-pack-jolly-roger.json](./354440-star-conflict-pirate-pack-jolly-roger.json) |
+| Star Conflict: Pirate Weapons Pack | 354436 | [354436-star-conflict-pirate-weapons-pack.json](./354436-star-conflict-pirate-weapons-pack.json) |
+| Star Conflict: Raven | 354431 | [354431-star-conflict-raven.json](./354431-star-conflict-raven.json) |
+| Star Conflict: Starter Pack. Pterosaur | 354424 | [354424-star-conflict-starter-pack-pterosaur.json](./354424-star-conflict-starter-pack-pterosaur.json) |
+| Star Conflict: Tornado | 354422 | [354422-star-conflict-tornado.json](./354422-star-conflict-tornado.json) |
+| Star Conflict: Ze'Ta. - Deluxe Version | 354439 | [354439-star-conflict-zeta-deluxe-version.json](./354439-star-conflict-zeta-deluxe-version.json) |
 | Star Connect | 233737 | [233737-star-connect.json](./233737-star-connect.json) |
 | Star Control: Origins | 25311 | [25311-star-control-origins.json](./25311-star-control-origins.json) |
 | Star Control: Origins - Multiverse | 124805 | [124805-star-control-origins-multiverse.json](./124805-star-control-origins-multiverse.json) |
@@ -2859,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Troopers: Battlespace | 72724 | [72724-starship-troopers-battlespace.json](./72724-starship-troopers-battlespace.json) |
 | StarShip Wars | 389422 | [389422-starship-wars.json](./389422-starship-wars.json) |
 | Starship: Invasion | 69889 | [69889-starship-invasion.json](./69889-starship-invasion.json) |
+| Starship: Turret Mode | 354428 | [354428-starship-turret-mode.json](./354428-starship-turret-mode.json) |
 | Starships Unlimited | 72128 | [72128-starships-unlimited.json](./72128-starships-unlimited.json) |
 | Starshot | 151181 | [151181-starshot.json](./151181-starshot.json) |
 | Starsiege: Tribes | 881 | [881-starsiege-tribes.json](./881-starsiege-tribes.json) |
