@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats and Seek: Tokyo | 315298 | [315298-cats-and-seek-tokyo.json](./315298-cats-and-seek-tokyo.json) |
 | Cats Are Jerks | 232172 | [232172-cats-are-jerks.json](./232172-cats-are-jerks.json) |
 | Cats Away | 352180 | [352180-cats-away.json](./352180-cats-away.json) |
+| Cats Bounce Ball | 338189 | [338189-cats-bounce-ball.json](./338189-cats-bounce-ball.json) |
 | Cats Games + Say Cheese! + Soko Games | 335105 | [335105-cats-games-say-cheese-soko-games.json](./335105-cats-games-say-cheese-soko-games.json) |
 | Cats Hiding in 3D | 318209 | [318209-cats-hiding-in-3d.json](./318209-cats-hiding-in-3d.json) |
 | Cats of the Song Dynasty | 315299 | [315299-cats-of-the-song-dynasty.json](./315299-cats-of-the-song-dynasty.json) |
@@ -1747,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Cards | 209616 | [209616-cozy-cards.json](./209616-cozy-cards.json) |
 | Cozy Cat Cafe | 399630 | [399630-cozy-cat-cafe.json](./399630-cozy-cat-cafe.json) |
 | Cozy Christmas Home Jigsaw Puzzles | 228114 | [228114-cozy-christmas-home-jigsaw-puzzles.json](./228114-cozy-christmas-home-jigsaw-puzzles.json) |
+| Cozy Cooking: Lo-fi Beats | 338205 | [338205-cozy-cooking-lo-fi-beats.json](./338205-cozy-cooking-lo-fi-beats.json) |
 | Cozy Crunch | 349833 | [349833-cozy-crunch.json](./349833-cozy-crunch.json) |
 | Cozy Days | 209604 | [209604-cozy-days.json](./209604-cozy-days.json) |
 | Cozy Grove + New Neighbears Bundle | 199635 | [199635-cozy-grove-new-neighbears-bundle.json](./199635-cozy-grove-new-neighbears-bundle.json) |
@@ -2304,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber VR | 51938 | [51938-cyber-vr.json](./51938-cyber-vr.json) |
 | Cyber War: Cyberpunk Reborn | 174904 | [174904-cyber-war-cyberpunk-reborn.json](./174904-cyber-war-cyberpunk-reborn.json) |
 | Cyber-Assassin | 269272 | [269272-cyber-assassin.json](./269272-cyber-assassin.json) |
+| CyberArena | 338211 | [338211-cyberarena.json](./338211-cyberarena.json) |
 | Cyberball | 12022 | [12022-cyberball.json](./12022-cyberball.json) |
 | Cyberball 2072 | 23070 | [23070-cyberball-2072.json](./23070-cyberball-2072.json) |
 | CyberBrick | 226427 | [226427-cyberbrick.json](./226427-cyberbrick.json) |
