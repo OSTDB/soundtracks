@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind and Mist | 253007 | [253007-wind-and-mist.json](./253007-wind-and-mist.json) |
 | Wind Angel Challenge | 195253 | [195253-wind-angel-challenge.json](./195253-wind-angel-challenge.json) |
 | Wind Fantasy Double Cross | 408793 | [408793-wind-fantasy-double-cross.json](./408793-wind-fantasy-double-cross.json) |
+| Wind Traveler | 324311 | [324311-wind-traveler.json](./324311-wind-traveler.json) |
 | Wind-Up Knight | 65528 | [65528-wind-up-knight.json](./65528-wind-up-knight.json) |
 | Windborn: Concrete Jungle | 340746 | [340746-windborn-concrete-jungle.json](./340746-windborn-concrete-jungle.json) |
 | Windjammers | 11222 | [11222-windjammers.json](./11222-windjammers.json) |
@@ -836,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf And Moon: Sudoku | 312362 | [312362-wolf-and-moon-sudoku.json](./312362-wolf-and-moon-sudoku.json) |
 | Wolf or Boy | 117709 | [117709-wolf-or-boy.json](./117709-wolf-or-boy.json) |
 | Wolf Riot | 193491 | [193491-wolf-riot.json](./193491-wolf-riot.json) |
+| Wolf Souls: Arena | 324331 | [324331-wolf-souls-arena.json](./324331-wolf-souls-arena.json) |
 | Wolfenstein II: The Freedom Chronicles - Season Pass | 75847 | [75847-wolfenstein-ii-the-freedom-chronicles-season-pass.json](./75847-wolfenstein-ii-the-freedom-chronicles-season-pass.json) |
 | Wolfenstein X: Hearts of Liberty | 143081 | [143081-wolfenstein-x-hearts-of-liberty.json](./143081-wolfenstein-x-hearts-of-liberty.json) |
 | Wolfenstein: Triple Pack | 152339 | [152339-wolfenstein-triple-pack.json](./152339-wolfenstein-triple-pack.json) |
