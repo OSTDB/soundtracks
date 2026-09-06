@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janky Tanks | 35877 | [35877-janky-tanks.json](./35877-janky-tanks.json) |
 | Janosik 2: Prologue | 316419 | [316419-janosik-2-prologue.json](./316419-janosik-2-prologue.json) |
 | Jantei Monogatari 3: Saver Angels | 321173 | [321173-jantei-monogatari-3-saver-angels.json](./321173-jantei-monogatari-3-saver-angels.json) |
+| Japan Mahjong | 334660 | [334660-japan-mahjong.json](./334660-japan-mahjong.json) |
 | Japan Train Models: JR West Edition | 278130 | [278130-japan-train-models-jr-west-edition.json](./278130-japan-train-models-jr-west-edition.json) |
 | Japan Trip | 340767 | [340767-japan-trip.json](./340767-japan-trip.json) |
 | Japanese Escape Games: The Hotel of Tricks | 209690 | [209690-japanese-escape-games-the-hotel-of-tricks.json](./209690-japanese-escape-games-the-hotel-of-tricks.json) |
