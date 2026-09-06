@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Heroes: Naomi Hook | 355548 | [355548-no-more-heroes-naomi-hook.json](./355548-no-more-heroes-naomi-hook.json) |
 | No More Heroes: Red Zone Edition | 116373 | [116373-no-more-heroes-red-zone-edition.json](./116373-no-more-heroes-red-zone-edition.json) |
 | No Ordinary Elevator | 76666 | [76666-no-ordinary-elevator.json](./76666-no-ordinary-elevator.json) |
+| No Recollection: Swimsuit DLC! | 315486 | [315486-no-recollection-swimsuit-dlc.json](./315486-no-recollection-swimsuit-dlc.json) |
 | No Rest | 302688 | [302688-no-rest.json](./302688-no-rest.json) |
 | No Service | 391030 | [391030-no-service.json](./391030-no-service.json) |
 | No Signal Escape Room | 413624 | [413624-no-signal-escape-room.json](./413624-no-signal-escape-room.json) |
@@ -874,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noiz2sa | 335673 | [335673-noiz2sa.json](./335673-noiz2sa.json) |
 | NokNok | 341484 | [341484-noknok.json](./341484-noknok.json) |
 | Nol | 404808 | [404808-nol.json](./404808-nol.json) |
+| NoLimits 2: Roller Coaster Simulation - Professional License | 315485 | [315485-nolimits-2-roller-coaster-simulation-professional-license.json](./315485-nolimits-2-roller-coaster-simulation-professional-license.json) |
 | Nom Nom Nom | 209650 | [209650-nom-nom-nom.json](./209650-nom-nom-nom.json) |
 | Nomad Idle | 323533 | [323533-nomad-idle.json](./323533-nomad-idle.json) |
 | Nomad of Time | 12957 | [12957-nomad-of-time.json](./12957-nomad-of-time.json) |
