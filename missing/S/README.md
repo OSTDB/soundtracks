@@ -179,6 +179,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Fighter | 108475 | [108475-samurai-fighter.json](./108475-samurai-fighter.json) |
 | Samurai Forge | 51972 | [51972-samurai-forge.json](./51972-samurai-forge.json) |
 | Samurai Gunn | 16538 | [16538-samurai-gunn.json](./16538-samurai-gunn.json) |
+| Samurai Jack: Cavern Raid | 338745 | [338745-samurai-jack-cavern-raid.json](./338745-samurai-jack-cavern-raid.json) |
+| Samurai Jack: Desert Quest | 338746 | [338746-samurai-jack-desert-quest.json](./338746-samurai-jack-desert-quest.json) |
+| Samurai Jack: Way of the Warrior | 338747 | [338747-samurai-jack-way-of-the-warrior.json](./338747-samurai-jack-way-of-the-warrior.json) |
 | Samurai Maiden | 212269 | [212269-samurai-maiden.json](./212269-samurai-maiden.json) |
 | Samurai Saga | 55910 | [55910-samurai-saga.json](./55910-samurai-saga.json) |
 | Samurai Shodown: Baiken | 167836 | [167836-samurai-shodown-baiken.json](./167836-samurai-shodown-baiken.json) |
@@ -2566,6 +2569,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Catcher 93' | 383357 | [383357-spirit-catcher-93.json](./383357-spirit-catcher-93.json) |
 | Spirit Cleaning | 151717 | [151717-spirit-cleaning.json](./151717-spirit-cleaning.json) |
 | Spirit Hunters Inc. Shadow/Light | 84895 | [84895-spirit-hunters-inc-shadow-light.json](./84895-spirit-hunters-inc-shadow-light.json) |
+| Spirit Legends: Finding Balance - Collector's Edition | 338707 | [338707-spirit-legends-finding-balance-collectors-edition.json](./338707-spirit-legends-finding-balance-collectors-edition.json) |
+| Spirit Legends: Solar Eclipse - Collector's Edition | 338706 | [338706-spirit-legends-solar-eclipse-collectors-edition.json](./338706-spirit-legends-solar-eclipse-collectors-edition.json) |
 | Spirit Level | 322997 | [322997-spirit-level.json](./322997-spirit-level.json) |
 | Spirit of Maya | 29903 | [29903-spirit-of-maya.json](./29903-spirit-of-maya.json) |
 | Spirit of the Island | 152373 | [152373-spirit-of-the-island.json](./152373-spirit-of-the-island.json) |
@@ -2654,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot The Difference: Classic Finding Puzzle | 324123 | [324123-spot-the-difference-classic-finding-puzzle.json](./324123-spot-the-difference-classic-finding-puzzle.json) |
 | Spot the Differences: Party! | 84897 | [84897-spot-the-differences-party.json](./84897-spot-the-differences-party.json) |
 | Spot the Dot | 149563 | [149563-spot-the-dot.json](./149563-spot-the-dot.json) |
+| Spot Zero | 338744 | [338744-spot-zero.json](./338744-spot-zero.json) |
 | Spot: The Cool Adventure | 66020 | [66020-spot-the-cool-adventure.json](./66020-spot-the-cool-adventure.json) |
 | Spot: The Video Game | 339277 | [339277-spot-the-video-game.json](./339277-spot-the-video-game.json) |
 | SpotCat vs. The Cheddar Mafia In The Americas | 385079 | [385079-spotcat-vs-the-cheddar-mafia-in-the-americas.json](./385079-spotcat-vs-the-cheddar-mafia-in-the-americas.json) |
@@ -3146,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Splats Matchup | 359437 | [359437-sticky-splats-matchup.json](./359437-sticky-splats-matchup.json) |
 | Sticky Steve's Sticky Situation | 214191 | [214191-sticky-steves-sticky-situation.json](./214191-sticky-steves-sticky-situation.json) |
 | Stickya Adventurya | 314648 | [314648-stickya-adventurya.json](./314648-stickya-adventurya.json) |
+| Stickyban | 338736 | [338736-stickyban.json](./338736-stickyban.json) |
 | Stig | 295541 | [295541-stig.json](./295541-stig.json) |
 | Still Alive DS | 270389 | [270389-still-alive-ds.json](./270389-still-alive-ds.json) |
 | Still Dark at Dawn | 111028 | [111028-still-dark-at-dawn.json](./111028-still-dark-at-dawn.json) |
@@ -3182,6 +3189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stoneville Manor | 366262 | [366262-stoneville-manor.json](./366262-stoneville-manor.json) |
 | Stop and Go | 93567 | [93567-stop-and-go.json](./93567-stop-and-go.json) |
 | Stop Online: Battle of Words | 34353 | [34353-stop-online-battle-of-words.json](./34353-stop-online-battle-of-words.json) |
+| Stop the Blight | 338748 | [338748-stop-the-blight.json](./338748-stop-the-blight.json) |
 | Stop the Press! | 381631 | [381631-stop-the-press.json](./381631-stop-the-press.json) |
 | Stop Those Aliens! | 277567 | [277567-stop-those-aliens.json](./277567-stop-those-aliens.json) |
 | Stoplights | 392140 | [392140-stoplights.json](./392140-stoplights.json) |
@@ -4192,6 +4200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Stars: The Pit - Mind Games | 10950 | [10950-sword-of-the-stars-the-pit-mind-games.json](./10950-sword-of-the-stars-the-pit-mind-games.json) |
 | Sword of the Stars: The Pit 2 | 178077 | [178077-sword-of-the-stars-the-pit-2.json](./178077-sword-of-the-stars-the-pit-2.json) |
 | Sword Princess Cistina - The Chosen Saint | 146312 | [146312-sword-princess-cistina-the-chosen-saint.json](./146312-sword-princess-cistina-the-chosen-saint.json) |
+| Sword Road | 338751 | [338751-sword-road.json](./338751-sword-road.json) |
 | Sword Sanctuary | 333394 | [333394-sword-sanctuary.json](./333394-sword-sanctuary.json) |
 | Sword World PC | 240492 | [240492-sword-world-pc.json](./240492-sword-world-pc.json) |
 | Sword World SFC 2: Inishie no Kyojin Densetsu | 37801 | [37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json](./37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json) |
