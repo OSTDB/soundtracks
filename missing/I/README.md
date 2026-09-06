@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion Eternity | 258218 | [258218-invasion-eternity.json](./258218-invasion-eternity.json) |
 | Invasion Force | 85518 | [85518-invasion-force.json](./85518-invasion-force.json) |
 | Invasion Machine | 110597 | [110597-invasion-machine.json](./110597-invasion-machine.json) |
+| Invasion of The Halloween Fiends | 318436 | [318436-invasion-of-the-halloween-fiends.json](./318436-invasion-of-the-halloween-fiends.json) |
 | Invaxion | 109323 | [109323-invaxion.json](./109323-invaxion.json) |
 | Invector: Rhythm Galaxy - Latin Power Song Pack | 265249 | [265249-invector-rhythm-galaxy-latin-power-song-pack.json](./265249-invector-rhythm-galaxy-latin-power-song-pack.json) |
 | Invention 6 | 340759 | [340759-invention-6.json](./340759-invention-6.json) |
