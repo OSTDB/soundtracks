@@ -1914,6 +1914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crushing on the Clock | 376461 | [376461-crushing-on-the-clock.json](./376461-crushing-on-the-clock.json) |
 | Crux: The Great Outdoors | 200161 | [200161-crux-the-great-outdoors.json](./200161-crux-the-great-outdoors.json) |
 | Cruzcredo: Become a Legend! | 332272 | [332272-cruzcredo-become-a-legend.json](./332272-cruzcredo-become-a-legend.json) |
+| Cry of Monster | 367403 | [367403-cry-of-monster.json](./367403-cry-of-monster.json) |
 | Cryohazard | 297815 | [297815-cryohazard.json](./297815-cryohazard.json) |
 | CryoNation | 278166 | [278166-cryonation.json](./278166-cryonation.json) |
 | Crypt Carnage | 399628 | [399628-crypt-carnage.json](./399628-crypt-carnage.json) |
