@@ -1372,5 +1372,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnagogia: Boundless Dreams | 159865 | [159865-hypnagogia-boundless-dreams.json](./159865-hypnagogia-boundless-dreams.json) |
 | Hypnosis Done Braves | 82926 | [82926-hypnosis-done-braves.json](./82926-hypnosis-done-braves.json) |
 | Hypnosis of Corruption | 331124 | [331124-hypnosis-of-corruption.json](./331124-hypnosis-of-corruption.json) |
+| Hypnosis: Quiet Nights | 352744 | [352744-hypnosis-quiet-nights.json](./352744-hypnosis-quiet-nights.json) |
 | Hypoxia: One Last Breath | 167291 | [167291-hypoxia-one-last-breath.json](./167291-hypoxia-one-last-breath.json) |
 | Hysteria Project 2 | 20623 | [20623-hysteria-project-2.json](./20623-hysteria-project-2.json) |
