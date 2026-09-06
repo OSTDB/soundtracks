@@ -160,6 +160,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarFire: Deluxe Edition | 53886 | [53886-warfire-deluxe-edition.json](./53886-warfire-deluxe-edition.json) |
 | Warframe: Angels of the Zariman - Chrysalith Pack | 223706 | [223706-warframe-angels-of-the-zariman-chrysalith-pack.json](./223706-warframe-angels-of-the-zariman-chrysalith-pack.json) |
 | Warframe: Angels of the Zariman - Emergence Pack | 223707 | [223707-warframe-angels-of-the-zariman-emergence-pack.json](./223707-warframe-angels-of-the-zariman-emergence-pack.json) |
+| Warframe: Gunblade Battlekit | 353310 | [353310-warframe-gunblade-battlekit.json](./353310-warframe-gunblade-battlekit.json) |
+| Warframe: Starter Weapon Pack | 353309 | [353309-warframe-starter-weapon-pack.json](./353309-warframe-starter-weapon-pack.json) |
 | WarFriends: PvP Army Shooter | 87479 | [87479-warfriends-pvp-army-shooter.json](./87479-warfriends-pvp-army-shooter.json) |
 | Wargame Construction Set | 37158 | [37158-wargame-construction-set.json](./37158-wargame-construction-set.json) |
 | Wargame Construction Set Pack | 278721 | [278721-wargame-construction-set-pack.json](./278721-wargame-construction-set-pack.json) |
@@ -547,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicce | 32928 | [32928-wicce.json](./32928-wicce.json) |
 | Wicked | 12233 | [12233-wicked.json](./12233-wicked.json) |
 | Wicked Delights | 404822 | [404822-wicked-delights.json](./404822-wicked-delights.json) |
+| Wicked Little Witch | 353291 | [353291-wicked-little-witch.json](./353291-wicked-little-witch.json) |
 | Wicked Monsters Blast! HD Plus | 85482 | [85482-wicked-monsters-blast-hd-plus.json](./85482-wicked-monsters-blast-hd-plus.json) |
 | Wicked Plague | 324691 | [324691-wicked-plague.json](./324691-wicked-plague.json) |
 | Wicked Willow | 137647 | [137647-wicked-willow.json](./137647-wicked-willow.json) |
