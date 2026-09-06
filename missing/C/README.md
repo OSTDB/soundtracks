@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cassette Boy | 248898 | [248898-cassette-boy.json](./248898-cassette-boy.json) |
 | Cassidy | 145032 | [145032-cassidy.json](./145032-cassidy.json) |
 | Cassius | 172197 | [172197-cassius.json](./172197-cassius.json) |
+| Castaside | 348270 | [348270-castaside.json](./348270-castaside.json) |
 | Castaway Coconuts | 307916 | [307916-castaway-coconuts.json](./307916-castaway-coconuts.json) |
 | Castelian | 295029 | [295029-castelian.json](./295029-castelian.json) |
 | Castillon | 332247 | [332247-castillon.json](./332247-castillon.json) |
@@ -472,7 +473,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Idle: Dimension Warp Story | 208038 | [208038-catch-idle-dimension-warp-story.json](./208038-catch-idle-dimension-warp-story.json) |
 | Catch Me If You Can | 143716 | [143716-catch-me-if-you-can.json](./143716-catch-me-if-you-can.json) |
 | Catch Pokémon | 341322 | [341322-catch-pokemon.json](./341322-catch-pokemon.json) |
+| Catch the Balls | 348273 | [348273-catch-the-balls.json](./348273-catch-the-balls.json) |
 | Catch the Moths | 359429 | [359429-catch-the-moths.json](./359429-catch-the-moths.json) |
+| Catch The Rabbit | 348244 | [348244-catch-the-rabbit.json](./348244-catch-the-rabbit.json) |
 | Catch the Sperm | 319974 | [319974-catch-the-sperm.json](./319974-catch-the-sperm.json) |
 | Catch the Turtle | 410230 | [410230-catch-the-turtle.json](./410230-catch-the-turtle.json) |
 | Catch Them If You Can | 215368 | [215368-catch-them-if-you-can.json](./215368-catch-them-if-you-can.json) |
@@ -629,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chao RPG | 326958 | [326958-chao-rpg.json](./326958-chao-rpg.json) |
 | Chaos Academy | 208057 | [208057-chaos-academy.json](./208057-chaos-academy.json) |
 | Chaos Awakens | 232656 | [232656-chaos-awakens.json](./232656-chaos-awakens.json) |
+| Chaos Code: Exact Xeno Attack | 348232 | [348232-chaos-code-exact-xeno-attack.json](./348232-chaos-code-exact-xeno-attack.json) |
 | Chaos Control | 325843 | [325843-chaos-control.json](./325843-chaos-control.json) |
 | Chaos Crafters | 265399 | [265399-chaos-crafters.json](./265399-chaos-crafters.json) |
 | Chaos Entropy | 320559 | [320559-chaos-entropy.json](./320559-chaos-entropy.json) |
@@ -999,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Piano Tunes Radio | 257084 | [257084-cities-skylines-piano-tunes-radio.json](./257084-cities-skylines-piano-tunes-radio.json) |
 | Cities: Skylines - Race Day | 393462 | [393462-cities-skylines-race-day.json](./393462-cities-skylines-race-day.json) |
 | Citizen Conflict | 248301 | [248301-citizen-conflict.json](./248301-citizen-conflict.json) |
+| Citizen Pain | 348269 | [348269-citizen-pain.json](./348269-citizen-pain.json) |
 | Citizen Witch | 184650 | [184650-citizen-witch.json](./184650-citizen-witch.json) |
 | Citizen Zein | 278738 | [278738-citizen-zein.json](./278738-citizen-zein.json) |
 | City Ambulance: Rescue Express | 277018 | [277018-city-ambulance-rescue-express.json](./277018-city-ambulance-rescue-express.json) |
@@ -1971,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Solitaire: Card Game | 96714 | [96714-crown-solitaire-card-game.json](./96714-crown-solitaire-card-game.json) |
 | Crown's Trial | 402270 | [402270-crowns-trial.json](./402270-crowns-trial.json) |
 | Crownborne | 405528 | [405528-crownborne.json](./405528-crownborne.json) |
+| Crownbreakers | 348230 | [348230-crownbreakers.json](./348230-crownbreakers.json) |
 | Crownrats | 410243 | [410243-crownrats.json](./410243-crownrats.json) |
 | Crowntakers | 10070 | [10070-crowntakers.json](./10070-crowntakers.json) |
 | Crows Coming | 245018 | [245018-crows-coming.json](./245018-crows-coming.json) |
@@ -2184,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Travels: Sunken City | 202421 | [202421-cursed-travels-sunken-city.json](./202421-cursed-travels-sunken-city.json) |
 | Cursed Travels: The Shattered Labyrinth | 179718 | [179718-cursed-travels-the-shattered-labyrinth.json](./179718-cursed-travels-the-shattered-labyrinth.json) |
 | Cursed Treasure: Don't Touch My Gems! | 141844 | [141844-cursed-treasure-dont-touch-my-gems.json](./141844-cursed-treasure-dont-touch-my-gems.json) |
+| Cursewarden | 348233 | [348233-cursewarden.json](./348233-cursewarden.json) |
 | Cursor Challenge | 33120 | [33120-cursor-challenge.json](./33120-cursor-challenge.json) |
 | Cururu: Whispers of the Forest | 383951 | [383951-cururu-whispers-of-the-forest.json](./383951-cururu-whispers-of-the-forest.json) |
 | Custer's Revenge | 8529 | [8529-custers-revenge.json](./8529-custers-revenge.json) |
