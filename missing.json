@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T02:33:10.463Z",
-  "total_missing": 35179,
+  "generated_at": "2026-09-06T02:47:46.401Z",
+  "total_missing": 35229,
   "games": [
     {
       "igdb_id": 306086,
@@ -37523,6 +37523,11 @@
       "file": "missing/D/380398-delivery-of-us.json"
     },
     {
+      "igdb_id": 361168,
+      "game_name": "Delivery Up",
+      "file": "missing/D/361168-delivery-up.json"
+    },
+    {
       "igdb_id": 213621,
       "game_name": "Delta Dash",
       "file": "missing/D/213621-delta-dash.json"
@@ -43161,6 +43166,11 @@
       "igdb_id": 184661,
       "game_name": "Dreamwillow",
       "file": "missing/D/184661-dreamwillow.json"
+    },
+    {
+      "igdb_id": 361164,
+      "game_name": "DreamWoods 2",
+      "file": "missing/D/361164-dreamwoods-2.json"
     },
     {
       "igdb_id": 202418,
@@ -87723,14 +87733,214 @@
       "file": "missing/M/202370-mario-kart-riibalanced.json"
     },
     {
+      "igdb_id": 361133,
+      "game_name": "Mario Kart Tour: 1st Anniversary Tour",
+      "file": "missing/M/361133-mario-kart-tour-1st-anniversary-tour.json"
+    },
+    {
+      "igdb_id": 361161,
+      "game_name": "Mario Kart Tour: 2nd Anniversary Tour",
+      "file": "missing/M/361161-mario-kart-tour-2nd-anniversary-tour.json"
+    },
+    {
+      "igdb_id": 361162,
+      "game_name": "Mario Kart Tour: Autumn Tour",
+      "file": "missing/M/361162-mario-kart-tour-autumn-tour.json"
+    },
+    {
+      "igdb_id": 361140,
+      "game_name": "Mario Kart Tour: Berlin Tour",
+      "file": "missing/M/361140-mario-kart-tour-berlin-tour.json"
+    },
+    {
+      "igdb_id": 361148,
+      "game_name": "Mario Kart Tour: Bowser vs. DK Tour",
+      "file": "missing/M/361148-mario-kart-tour-bowser-vs-dk-tour.json"
+    },
+    {
+      "igdb_id": 361141,
+      "game_name": "Mario Kart Tour: Cat Tour",
+      "file": "missing/M/361141-mario-kart-tour-cat-tour.json"
+    },
+    {
+      "igdb_id": 361124,
+      "game_name": "Mario Kart Tour: Cooking Tour",
+      "file": "missing/M/361124-mario-kart-tour-cooking-tour.json"
+    },
+    {
+      "igdb_id": 361127,
+      "game_name": "Mario Kart Tour: Exploration Tour",
+      "file": "missing/M/361127-mario-kart-tour-exploration-tour.json"
+    },
+    {
+      "igdb_id": 361122,
+      "game_name": "Mario Kart Tour: Flower Tour",
+      "file": "missing/M/361122-mario-kart-tour-flower-tour.json"
+    },
+    {
+      "igdb_id": 361157,
+      "game_name": "Mario Kart Tour: Frost Tour",
+      "file": "missing/M/361157-mario-kart-tour-frost-tour.json"
+    },
+    {
+      "igdb_id": 361134,
+      "game_name": "Mario Kart Tour: Halloween Tour",
+      "file": "missing/M/361134-mario-kart-tour-halloween-tour.json"
+    },
+    {
+      "igdb_id": 361163,
+      "game_name": "Mario Kart Tour: Halloween Tour",
+      "file": "missing/M/361163-mario-kart-tour-halloween-tour.json"
+    },
+    {
+      "igdb_id": 361167,
+      "game_name": "Mario Kart Tour: Holiday Tour",
+      "file": "missing/M/361167-mario-kart-tour-holiday-tour.json"
+    },
+    {
       "igdb_id": 338539,
       "game_name": "Mario Kart Tour: Ice Tour",
       "file": "missing/M/338539-mario-kart-tour-ice-tour.json"
     },
     {
+      "igdb_id": 361123,
+      "game_name": "Mario Kart Tour: Jungle Tour",
+      "file": "missing/M/361123-mario-kart-tour-jungle-tour.json"
+    },
+    {
+      "igdb_id": 361158,
+      "game_name": "Mario Kart Tour: Kamek Tour",
+      "file": "missing/M/361158-mario-kart-tour-kamek-tour.json"
+    },
+    {
+      "igdb_id": 361132,
+      "game_name": "Mario Kart Tour: Los Angeles Tour",
+      "file": "missing/M/361132-mario-kart-tour-los-angeles-tour.json"
+    },
+    {
+      "igdb_id": 361153,
+      "game_name": "Mario Kart Tour: Los Angeles Tour",
+      "file": "missing/M/361153-mario-kart-tour-los-angeles-tour.json"
+    },
+    {
+      "igdb_id": 361126,
+      "game_name": "Mario Kart Tour: Marine Tour",
+      "file": "missing/M/361126-mario-kart-tour-marine-tour.json"
+    },
+    {
+      "igdb_id": 361144,
+      "game_name": "Mario Kart Tour: Mario Tour",
+      "file": "missing/M/361144-mario-kart-tour-mario-tour.json"
+    },
+    {
+      "igdb_id": 361136,
+      "game_name": "Mario Kart Tour: Mario vs. Luigi Tour",
+      "file": "missing/M/361136-mario-kart-tour-mario-vs-luigi-tour.json"
+    },
+    {
+      "igdb_id": 361155,
+      "game_name": "Mario Kart Tour: Mario vs. Peach Tour",
+      "file": "missing/M/361155-mario-kart-tour-mario-vs-peach-tour.json"
+    },
+    {
+      "igdb_id": 361139,
+      "game_name": "Mario Kart Tour: New Year's 2021 Tour",
+      "file": "missing/M/361139-mario-kart-tour-new-years-2021-tour.json"
+    },
+    {
       "igdb_id": 338538,
       "game_name": "Mario Kart Tour: New Year's Tour",
       "file": "missing/M/338538-mario-kart-tour-new-years-tour.json"
+    },
+    {
+      "igdb_id": 361146,
+      "game_name": "Mario Kart Tour: Ninja Tour",
+      "file": "missing/M/361146-mario-kart-tour-ninja-tour.json"
+    },
+    {
+      "igdb_id": 361151,
+      "game_name": "Mario Kart Tour: Paris Tour",
+      "file": "missing/M/361151-mario-kart-tour-paris-tour.json"
+    },
+    {
+      "igdb_id": 361125,
+      "game_name": "Mario Kart Tour: Peach Tour",
+      "file": "missing/M/361125-mario-kart-tour-peach-tour.json"
+    },
+    {
+      "igdb_id": 361142,
+      "game_name": "Mario Kart Tour: Peach vs. Daisy Tour",
+      "file": "missing/M/361142-mario-kart-tour-peach-vs-daisy-tour.json"
+    },
+    {
+      "igdb_id": 361169,
+      "game_name": "Mario Kart Tour: Penguin Tour",
+      "file": "missing/M/361169-mario-kart-tour-penguin-tour.json"
+    },
+    {
+      "igdb_id": 361129,
+      "game_name": "Mario Kart Tour: Pirate Tour",
+      "file": "missing/M/361129-mario-kart-tour-pirate-tour.json"
+    },
+    {
+      "igdb_id": 361138,
+      "game_name": "Mario Kart Tour: Rosalina Tour",
+      "file": "missing/M/361138-mario-kart-tour-rosalina-tour.json"
+    },
+    {
+      "igdb_id": 361143,
+      "game_name": "Mario Kart Tour: Snow Tour",
+      "file": "missing/M/361143-mario-kart-tour-snow-tour.json"
+    },
+    {
+      "igdb_id": 361166,
+      "game_name": "Mario Kart Tour: Space Tour",
+      "file": "missing/M/361166-mario-kart-tour-space-tour.json"
+    },
+    {
+      "igdb_id": 361130,
+      "game_name": "Mario Kart Tour: Summer Festival Tour",
+      "file": "missing/M/361130-mario-kart-tour-summer-festival-tour.json"
+    },
+    {
+      "igdb_id": 361152,
+      "game_name": "Mario Kart Tour: Summer Tour",
+      "file": "missing/M/361152-mario-kart-tour-summer-tour.json"
+    },
+    {
+      "igdb_id": 361135,
+      "game_name": "Mario Kart Tour: Sunset Tour",
+      "file": "missing/M/361135-mario-kart-tour-sunset-tour.json"
+    },
+    {
+      "igdb_id": 361131,
+      "game_name": "Mario Kart Tour: Super Mario Kart Tour",
+      "file": "missing/M/361131-mario-kart-tour-super-mario-kart-tour.json"
+    },
+    {
+      "igdb_id": 361147,
+      "game_name": "Mario Kart Tour: Sydney Tour",
+      "file": "missing/M/361147-mario-kart-tour-sydney-tour.json"
+    },
+    {
+      "igdb_id": 361160,
+      "game_name": "Mario Kart Tour: Sydney Tour",
+      "file": "missing/M/361160-mario-kart-tour-sydney-tour.json"
+    },
+    {
+      "igdb_id": 361165,
+      "game_name": "Mario Kart Tour: Toad vs. Toadette Tour",
+      "file": "missing/M/361165-mario-kart-tour-toad-vs-toadette-tour.json"
+    },
+    {
+      "igdb_id": 361121,
+      "game_name": "Mario Kart Tour: Trick Tour",
+      "file": "missing/M/361121-mario-kart-tour-trick-tour.json"
+    },
+    {
+      "igdb_id": 361149,
+      "game_name": "Mario Kart Tour: Trick Tour",
+      "file": "missing/M/361149-mario-kart-tour-trick-tour.json"
     },
     {
       "igdb_id": 338540,
@@ -87741,6 +87951,31 @@
       "igdb_id": 338541,
       "game_name": "Mario Kart Tour: Vancouver Tour",
       "file": "missing/M/338541-mario-kart-tour-vancouver-tour.json"
+    },
+    {
+      "igdb_id": 361150,
+      "game_name": "Mario Kart Tour: Wedding Tour",
+      "file": "missing/M/361150-mario-kart-tour-wedding-tour.json"
+    },
+    {
+      "igdb_id": 361128,
+      "game_name": "Mario Kart Tour: Wild West Tour",
+      "file": "missing/M/361128-mario-kart-tour-wild-west-tour.json"
+    },
+    {
+      "igdb_id": 361137,
+      "game_name": "Mario Kart Tour: Winter Tour",
+      "file": "missing/M/361137-mario-kart-tour-winter-tour.json"
+    },
+    {
+      "igdb_id": 361120,
+      "game_name": "Mario Kart Tour: Yoshi Tour",
+      "file": "missing/M/361120-mario-kart-tour-yoshi-tour.json"
+    },
+    {
+      "igdb_id": 361145,
+      "game_name": "Mario Kart Tour: Yoshi Tour",
+      "file": "missing/M/361145-mario-kart-tour-yoshi-tour.json"
     },
     {
       "igdb_id": 146289,
@@ -135493,6 +135728,11 @@
       "file": "missing/S/74456-space-quiz.json"
     },
     {
+      "igdb_id": 361117,
+      "game_name": "Space Race",
+      "file": "missing/S/361117-space-race.json"
+    },
+    {
       "igdb_id": 105947,
       "game_name": "Space Rage",
       "file": "missing/S/105947-space-rage.json"
@@ -149596,6 +149836,11 @@
       "igdb_id": 340745,
       "game_name": "The Elder Scrolls Online: 2025 Premium Edition",
       "file": "missing/T/340745-the-elder-scrolls-online-2025-premium-edition.json"
+    },
+    {
+      "igdb_id": 361156,
+      "game_name": "The Elder Scrolls Online: Feast of Shadows",
+      "file": "missing/T/361156-the-elder-scrolls-online-feast-of-shadows.json"
     },
     {
       "igdb_id": 283120,
@@ -172821,6 +173066,11 @@
       "igdb_id": 367434,
       "game_name": "Wǔlín Zhìzūn Zhuàn",
       "file": "missing/W/367434-wulin-zhizun-zhuan.json"
+    },
+    {
+      "igdb_id": 361118,
+      "game_name": "Wummsen Village",
+      "file": "missing/W/361118-wummsen-village.json"
     },
     {
       "igdb_id": 166763,
