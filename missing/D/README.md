@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dave | 111682 | [111682-dave.json](./111682-dave.json) |
 | Dave the Diver | 203722 | [203722-dave-the-diver.json](./203722-dave-the-diver.json) |
 | David Leadbetter's Greens | 71545 | [71545-david-leadbetters-greens.json](./71545-david-leadbetters-greens.json) |
+| Davis Haunted House | 340942 | [340942-davis-haunted-house.json](./340942-davis-haunted-house.json) |
 | Davy Jones' Locker | 177024 | [177024-davy-jones-locker.json](./177024-davy-jones-locker.json) |
 | Dawgs: The Revenge | 400905 | [400905-dawgs-the-revenge.json](./400905-dawgs-the-revenge.json) |
 | Dawn | 319979 | [319979-dawn.json](./319979-dawn.json) |
