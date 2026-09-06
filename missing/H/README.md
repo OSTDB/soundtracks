@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heretic Amplified | 268775 | [268775-heretic-amplified.json](./268775-heretic-amplified.json) |
 | Heretic II | 20752 | [20752-heretic-ii.json](./20752-heretic-ii.json) |
 | Heretic Invades Doom | 316984 | [316984-heretic-invades-doom.json](./316984-heretic-invades-doom.json) |
+| Heretic Red | 335279 | [335279-heretic-red.json](./335279-heretic-red.json) |
 | Heretic’s Fork: Probation | 251822 | [251822-heretic-s-fork-probation.json](./251822-heretic-s-fork-probation.json) |
 | Heritage | 323499 | [323499-heritage.json](./323499-heritage.json) |
 | Heritage Hills | 156666 | [156666-heritage-hills.json](./156666-heritage-hills.json) |
