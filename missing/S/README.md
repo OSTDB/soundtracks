@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of Evangelion | 61670 | [61670-secret-of-evangelion.json](./61670-secret-of-evangelion.json) |
 | Secret of the Solstice | 307331 | [307331-secret-of-the-solstice.json](./307331-secret-of-the-solstice.json) |
 | Secret Paths to the Sea | 70382 | [70382-secret-paths-to-the-sea.json](./70382-secret-paths-to-the-sea.json) |
+| Secret Paws: Cozy Apartments | 363887 | [363887-secret-paws-cozy-apartments.json](./363887-secret-paws-cozy-apartments.json) |
 | Secret Pet Detective | 96574 | [96574-secret-pet-detective.json](./96574-secret-pet-detective.json) |
 | Secret Pet Playmate | 243930 | [243930-secret-pet-playmate.json](./243930-secret-pet-playmate.json) |
 | Secret Reflections Collection | 201864 | [201864-secret-reflections-collection.json](./201864-secret-reflections-collection.json) |
@@ -2385,6 +2386,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Shooting Bee | 119793 | [119793-spider-shooting-bee.json](./119793-spider-shooting-bee.json) |
 | Spider-Guy: Trapped in the Cheese Place | 291773 | [291773-spider-guy-trapped-in-the-cheese-place.json](./291773-spider-guy-trapped-in-the-cheese-place.json) |
 | Spider-Man | 248203 | [248203-spider-man.json](./248203-spider-man.json) |
+| Spider-Man | 363917 | [363917-spider-man.json](./363917-spider-man.json) |
+| Spider-Man | 363918 | [363918-spider-man.json](./363918-spider-man.json) |
 | Spider-Man / X-Men: Arcade's Redux | 219274 | [219274-spider-man-x-men-arcades-redux.json](./219274-spider-man-x-men-arcades-redux.json) |
 | Spider-Man 2: The Sinister Six | 49971 | [49971-spider-man-2-the-sinister-six.json](./49971-spider-man-2-the-sinister-six.json) |
 | Spider-Man 3 | 218140 | [218140-spider-man-3.json](./218140-spider-man-3.json) |
@@ -2995,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Swordsman | 190733 | [190733-storm-swordsman.json](./190733-storm-swordsman.json) |
 | Storm Wars | 56482 | [56482-storm-wars.json](./56482-storm-wars.json) |
 | Stormball | 77379 | [77379-stormball.json](./77379-stormball.json) |
+| Stormbroken | 363920 | [363920-stormbroken.json](./363920-stormbroken.json) |
 | Stormwinds | 210284 | [210284-stormwinds.json](./210284-stormwinds.json) |
 | Story About Times | 113009 | [113009-story-about-times.json](./113009-story-about-times.json) |
 | Story Machine | 95450 | [95450-story-machine.json](./95450-story-machine.json) |
@@ -3580,6 +3584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Markup Man | 32037 | [32037-super-markup-man.json](./32037-super-markup-man.json) |
 | Super Masao 2 | 165061 | [165061-super-masao-2.json](./165061-super-masao-2.json) |
 | Super Meat Boy: Ultra Edition | 20620 | [20620-super-meat-boy-ultra-edition.json](./20620-super-meat-boy-ultra-edition.json) |
+| Super Mecha Lifter 4000 | 363916 | [363916-super-mecha-lifter-4000.json](./363916-super-mecha-lifter-4000.json) |
 | Super Metroid and A Link to the Past Crossover Randomizer | 210231 | [210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json](./210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json) |
 | Super Metroid CRE | 255374 | [255374-super-metroid-cre.json](./255374-super-metroid-cre.json) |
 | Super Metroid CRE 2 | 255373 | [255373-super-metroid-cre-2.json](./255373-super-metroid-cre-2.json) |
