@@ -368,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embracing Darkness | 235483 | [235483-embracing-darkness.json](./235483-embracing-darkness.json) |
 | Embuscade | 179734 | [179734-embuscade.json](./179734-embuscade.json) |
 | Emerald Bathhouse | 268776 | [268776-emerald-bathhouse.json](./268776-emerald-bathhouse.json) |
+| Emerald Isle | 318995 | [318995-emerald-isle.json](./318995-emerald-isle.json) |
 | Emerald Ties | 324698 | [324698-emerald-ties.json](./324698-emerald-ties.json) |
 | Emerge | 342631 | [342631-emerge.json](./342631-emerge.json) |
 | Emerge: Cities of the Apocalypse | 33136 | [33136-emerge-cities-of-the-apocalypse.json](./33136-emerge-cities-of-the-apocalypse.json) |
