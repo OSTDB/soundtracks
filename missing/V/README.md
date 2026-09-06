@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vexius | 76677 | [76677-vexius.json](./76677-vexius.json) |
 | VFR Real Scenery: London | 70963 | [70963-vfr-real-scenery-london.json](./70963-vfr-real-scenery-london.json) |
 | VFR Real Scenery: South East England | 68680 | [68680-vfr-real-scenery-south-east-england.json](./68680-vfr-real-scenery-south-east-england.json) |
+| VG Trivia Challenge | 334650 | [334650-vg-trivia-challenge.json](./334650-vg-trivia-challenge.json) |
 | VGA Planets | 135285 | [135285-vga-planets.json](./135285-vga-planets.json) |
 | VGM Quiz | 219270 | [219270-vgm-quiz.json](./219270-vgm-quiz.json) |
 | VHS vs. Betamax | 177572 | [177572-vhs-vs-betamax.json](./177572-vhs-vs-betamax.json) |
