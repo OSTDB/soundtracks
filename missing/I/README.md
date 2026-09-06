@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Climber-e | 170012 | [170012-ice-climber-e.json](./170012-ice-climber-e.json) |
 | Ice King in Secret Santa | 339824 | [339824-ice-king-in-secret-santa.json](./339824-ice-king-in-secret-santa.json) |
 | Ice Nosfe | 236499 | [236499-ice-nosfe.json](./236499-ice-nosfe.json) |
+| Ice on the Edge | 335288 | [335288-ice-on-the-edge.json](./335288-ice-on-the-edge.json) |
 | Iceblox | 94254 | [94254-iceblox.json](./94254-iceblox.json) |
 | Icebound Secrets: The Frostwood Bane | 378812 | [378812-icebound-secrets-the-frostwood-bane.json](./378812-icebound-secrets-the-frostwood-bane.json) |
 | Iceburg | 373525 | [373525-iceburg.json](./373525-iceburg.json) |
