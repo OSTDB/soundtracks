@@ -100,6 +100,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Picturebook of Hero and Sorceress | 113698 | [113698-fairy-picturebook-of-hero-and-sorceress.json](./113698-fairy-picturebook-of-hero-and-sorceress.json) |
 | Fairy Tail 2: Outfit Set - Swimsuit | 332229 | [332229-fairy-tail-2-outfit-set-swimsuit.json](./332229-fairy-tail-2-outfit-set-swimsuit.json) |
 | Fairy Tail Online | 59427 | [59427-fairy-tail-online.json](./59427-fairy-tail-online.json) |
+| Fairy Tail: Beach Volleyball Havoc | 313127 | [313127-fairy-tail-beach-volleyball-havoc.json](./313127-fairy-tail-beach-volleyball-havoc.json) |
+| Fairy Tail: Dungeons | 313123 | [313123-fairy-tail-dungeons.json](./313123-fairy-tail-dungeons.json) |
 | Fairy Tale Fighters | 406081 | [406081-fairy-tale-fighters.json](./406081-fairy-tale-fighters.json) |
 | Fairy Tower | 218159 | [218159-fairy-tower.json](./218159-fairy-tower.json) |
 | Fairyland: Power Dice | 103473 | [103473-fairyland-power-dice.json](./103473-fairyland-power-dice.json) |
