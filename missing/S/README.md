@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saviors | 36264 | [36264-saviors.json](./36264-saviors.json) |
 | Saviors of Sapphire Wings | 117732 | [117732-saviors-of-sapphire-wings.json](./117732-saviors-of-sapphire-wings.json) |
 | Savvy | 410904 | [410904-savvy.json](./410904-savvy.json) |
+| Saw Counter | 347112 | [347112-saw-counter.json](./347112-saw-counter.json) |
 | Saw Lab | 290692 | [290692-saw-lab.json](./290692-saw-lab.json) |
 | Sawdust | 314039 | [314039-sawdust.json](./314039-sawdust.json) |
 | Sawmill | 312894 | [312894-sawmill.json](./312894-sawmill.json) |
@@ -633,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seisai | 125997 | [125997-seisai.json](./125997-seisai.json) |
 | Seishin Hakai | 260976 | [260976-seishin-hakai.json](./260976-seishin-hakai.json) |
 | Seka II | 292323 | [292323-seka-ii.json](./292323-seka-ii.json) |
+| Sekai Saikyou Ginsei Igo 3 | 347157 | [347157-sekai-saikyou-ginsei-igo-3.json](./347157-sekai-saikyou-ginsei-igo-3.json) |
 | Sekai to Sekai no Mannaka de | 187532 | [187532-sekai-to-sekai-no-mannaka-de.json](./187532-sekai-to-sekai-no-mannaka-de.json) |
 | Sekien no Inganock ~What a Beautiful People~ Fullvoice ReBORN | 378204 | [378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json](./378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json) |
 | Selatria | 166217 | [166217-selatria.json](./166217-selatria.json) |
@@ -1215,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Fangs: Stealthy Vampire's Tale | 371264 | [371264-silent-fangs-stealthy-vampires-tale.json](./371264-silent-fangs-stealthy-vampires-tale.json) |
 | Silent Hill 2: Deluxe Edition | 303813 | [303813-silent-hill-2-deluxe-edition.json](./303813-silent-hill-2-deluxe-edition.json) |
 | Silent Hill 3 | 222486 | [222486-silent-hill-3.json](./222486-silent-hill-3.json) |
+| Silent Hill f: Deluxe Edition | 347180 | [347180-silent-hill-f-deluxe-edition.json](./347180-silent-hill-f-deluxe-edition.json) |
 | Silent Hill: Play Novel | 77257 | [77257-silent-hill-play-novel.json](./77257-silent-hill-play-novel.json) |
 | Silent Hunter III | 870 | [870-silent-hunter-iii.json](./870-silent-hunter-iii.json) |
 | Silent Hunter Online | 3449 | [3449-silent-hunter-online.json](./3449-silent-hunter-online.json) |
@@ -1448,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skybolt Zack | 109028 | [109028-skybolt-zack.json](./109028-skybolt-zack.json) |
 | Skycity | 274216 | [274216-skycity.json](./274216-skycity.json) |
 | Skycliffs | 190727 | [190727-skycliffs.json](./190727-skycliffs.json) |
+| Skydance's Behemoth: Rites of Wrath | 347154 | [347154-skydances-behemoth-rites-of-wrath.json](./347154-skydances-behemoth-rites-of-wrath.json) |
 | SkyDive Racer | 233756 | [233756-skydive-racer.json](./233756-skydive-racer.json) |
 | Skydivers Paradise | 319941 | [319941-skydivers-paradise.json](./319941-skydivers-paradise.json) |
 | Skye | 408039 | [408039-skye.json](./408039-skye.json) |
