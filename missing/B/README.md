@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basilisk 2000 | 243390 | [243390-basilisk-2000.json](./243390-basilisk-2000.json) |
 | Basilisk! | 297782 | [297782-basilisk.json](./297782-basilisk.json) |
 | Basket Bowling + | 47309 | [47309-basket-bowling.json](./47309-basket-bowling.json) |
+| Basketball | 347704 | [347704-basketball.json](./347704-basketball.json) |
 | Basketball | 5689 | [5689-basketball.json](./5689-basketball.json) |
 | Basketball 2 | 245559 | [245559-basketball-2.json](./245559-basketball-2.json) |
 | Basketball Arcade Stars | 250660 | [250660-basketball-arcade-stars.json](./250660-basketball-arcade-stars.json) |
@@ -1267,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocker.io | 194036 | [194036-blocker-io.json](./194036-blocker-io.json) |
 | Blockhead | 14323 | [14323-blockhead.json](./14323-blockhead.json) |
 | Blockhead II | 14324 | [14324-blockhead-ii.json](./14324-blockhead-ii.json) |
+| Blockout | 347672 | [347672-blockout.json](./347672-blockout.json) |
 | Blockpost Mobile | 225875 | [225875-blockpost-mobile.json](./225875-blockpost-mobile.json) |
 | Blocks | 208625 | [208625-blocks.json](./208625-blocks.json) |
 | Blocks | 370143 | [370143-blocks.json](./370143-blocks.json) |
@@ -1506,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonelab | 198230 | [198230-bonelab.json](./198230-bonelab.json) |
 | Bones in the Boneyard | 319339 | [319339-bones-in-the-boneyard.json](./319339-bones-in-the-boneyard.json) |
 | Bones: Lab Panic | 58811 | [58811-bones-lab-panic.json](./58811-bones-lab-panic.json) |
+| Bones: Wandering Soul | 347678 | [347678-bones-wandering-soul.json](./347678-bones-wandering-soul.json) |
 | Bonesy | 143074 | [143074-bonesy.json](./143074-bonesy.json) |
 | Bonetale | 229380 | [229380-bonetale.json](./229380-bonetale.json) |
 | BoneTown | 145047 | [145047-bonetown.json](./145047-bonetown.json) |
