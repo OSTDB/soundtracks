@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs: Bad Blood | 17473 | [17473-watch-dogs-bad-blood.json](./17473-watch-dogs-bad-blood.json) |
 | Watch Dogs: DEDSEC Edition | 103379 | [103379-watch-dogs-dedsec-edition.json](./103379-watch-dogs-dedsec-edition.json) |
 | Watch Dogs: Legion - Bloodline | 139395 | [139395-watch-dogs-legion-bloodline.json](./139395-watch-dogs-legion-bloodline.json) |
+| Watch Dogs: Legion - Golden King Pack | 334114 | [334114-watch-dogs-legion-golden-king-pack.json](./334114-watch-dogs-legion-golden-king-pack.json) |
 | Watch This! | 33129 | [33129-watch-this.json](./33129-watch-this.json) |
 | Watchmaker's World Solitaire | 386135 | [386135-watchmakers-world-solitaire.json](./386135-watchmakers-world-solitaire.json) |
 | Watchmen: The End Is Nigh Complete Experience | 44619 | [44619-watchmen-the-end-is-nigh-complete-experience.json](./44619-watchmen-the-end-is-nigh-complete-experience.json) |
