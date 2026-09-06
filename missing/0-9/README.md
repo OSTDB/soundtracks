@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Sea Cats | 315291 | [315291-100-sea-cats.json](./315291-100-sea-cats.json) |
 | 100 Thailand Cats | 315293 | [315293-100-thailand-cats.json](./315293-100-thailand-cats.json) |
 | 100 Wars | 316430 | [316430-100-wars.json](./316430-100-wars.json) |
+| 100 Ways to Kill the Crazy Frog | 330714 | [330714-100-ways-to-kill-the-crazy-frog.json](./330714-100-ways-to-kill-the-crazy-frog.json) |
 | 100 Women: Guess the Name of 100 Famous Women | 369054 | [369054-100-women-guess-the-name-of-100-famous-women.json](./369054-100-women-guess-the-name-of-100-famous-women.json) |
 | 100 Years: Life Simulator | 212457 | [212457-100-years-life-simulator.json](./212457-100-years-life-simulator.json) |
 | 100% Complete | 413678 | [413678-100-complete.json](./413678-100-complete.json) |
