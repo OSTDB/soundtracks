@@ -698,6 +698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Master | 245540 | [245540-chess-master.json](./245540-chess-master.json) |
 | Chess Minimal | 147955 | [147955-chess-minimal.json](./147955-chess-minimal.json) |
 | Chess Morph: The Queen's Wormholes | 237058 | [237058-chess-morph-the-queens-wormholes.json](./237058-chess-morph-the-queens-wormholes.json) |
+| Chess of Fortune | 357216 | [357216-chess-of-fortune.json](./357216-chess-of-fortune.json) |
 | Chess Puzzles: 100 by Emma | 163412 | [163412-chess-puzzles-100-by-emma.json](./163412-chess-puzzles-100-by-emma.json) |
 | Chess Puzzles: 100 by Liam | 163414 | [163414-chess-puzzles-100-by-liam.json](./163414-chess-puzzles-100-by-liam.json) |
 | Chess Puzzles: 100 by Tyrone | 163413 | [163413-chess-puzzles-100-by-tyrone.json](./163413-chess-puzzles-100-by-tyrone.json) |
