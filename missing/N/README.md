@@ -940,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numberic Puzzle Ocean | 107168 | [107168-numberic-puzzle-ocean.json](./107168-numberic-puzzle-ocean.json) |
 | Numberline | 29724 | [29724-numberline.json](./29724-numberline.json) |
 | Numberline 3 | 106580 | [106580-numberline-3.json](./106580-numberline-3.json) |
+| Numenclature | 357249 | [357249-numenclature.json](./357249-numenclature.json) |
 | Numeral Lord | 221426 | [221426-numeral-lord.json](./221426-numeral-lord.json) |
 | Numina | 141250 | [141250-numina.json](./141250-numina.json) |
 | Numolition | 239345 | [239345-numolition.json](./239345-numolition.json) |
