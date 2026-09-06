@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Turtle Motorcycle Bike Race v. Mutant Ninja Warriors | 62211 | [62211-a-turtle-motorcycle-bike-race-v-mutant-ninja-warriors.json](./62211-a-turtle-motorcycle-bike-race-v-mutant-ninja-warriors.json) |
 | A Vacation in Nebula | 146325 | [146325-a-vacation-in-nebula.json](./146325-a-vacation-in-nebula.json) |
 | A Valiant Story | 108484 | [108484-a-valiant-story.json](./108484-a-valiant-story.json) |
+| A Wake Between Worlds | 350415 | [350415-a-wake-between-worlds.json](./350415-a-wake-between-worlds.json) |
 | A Wake Inn | 143698 | [143698-a-wake-inn.json](./143698-a-wake-inn.json) |
 | A Walk With Yiayia | 151184 | [151184-a-walk-with-yiayia.json](./151184-a-walk-with-yiayia.json) |
 | A Warmer Shade of Summer | 151192 | [151192-a-warmer-shade-of-summer.json](./151192-a-warmer-shade-of-summer.json) |
@@ -597,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Grit | 61074 | [61074-age-of-grit.json](./61074-age-of-grit.json) |
 | Age of Mythology: Tale of the Dragon | 13186 | [13186-age-of-mythology-tale-of-the-dragon.json](./13186-age-of-mythology-tale-of-the-dragon.json) |
 | Age of Ottoman | 200739 | [200739-age-of-ottoman.json](./200739-age-of-ottoman.json) |
+| Age of Respair | 350402 | [350402-age-of-respair.json](./350402-age-of-respair.json) |
 | Age of Sail | 9430 | [9430-age-of-sail.json](./9430-age-of-sail.json) |
 | Age of Sail II | 9428 | [9428-age-of-sail-ii.json](./9428-age-of-sail-ii.json) |
 | Age of Sail II: Privateer's Bounty | 9429 | [9429-age-of-sail-ii-privateers-bounty.json](./9429-age-of-sail-ii-privateers-bounty.json) |
@@ -787,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alan Probe: Amateur Surgeon | 70415 | [70415-alan-probe-amateur-surgeon.json](./70415-alan-probe-amateur-surgeon.json) |
 | Alan Wake II: The Final Draft | 298842 | [298842-alan-wake-ii-the-final-draft.json](./298842-alan-wake-ii-the-final-draft.json) |
 | Alaska | 86767 | [86767-alaska.json](./86767-alaska.json) |
+| Alaska: An Endless Night | 350429 | [350429-alaska-an-endless-night.json](./350429-alaska-an-endless-night.json) |
 | Alba: A Wildlife Adventure | 135919 | [135919-alba-a-wildlife-adventure.json](./135919-alba-a-wildlife-adventure.json) |
 | Albert Odyssey 2: Jashin no Taidou | 38346 | [38346-albert-odyssey-2-jashin-no-taidou.json](./38346-albert-odyssey-2-jashin-no-taidou.json) |
 | Alcatraz: VR Escape Room | 29938 | [29938-alcatraz-vr-escape-room.json](./29938-alcatraz-vr-escape-room.json) |
@@ -1215,6 +1218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angle | 396218 | [396218-angle.json](./396218-angle.json) |
 | Angler Dangler | 386681 | [386681-angler-dangler.json](./386681-angler-dangler.json) |
 | Angler Quest | 290711 | [290711-angler-quest.json](./290711-angler-quest.json) |
+| Angler's Journey | 350442 | [350442-anglers-journey.json](./350442-anglers-journey.json) |
 | Angler's World | 217019 | [217019-anglers-world.json](./217019-anglers-world.json) |
 | Angry Barry | 67987 | [67987-angry-barry.json](./67987-angry-barry.json) |
 | Angry Birds | 2035 | [2035-angry-birds.json](./2035-angry-birds.json) |
@@ -1551,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Audit | 248888 | [248888-arcane-audit.json](./248888-arcane-audit.json) |
 | Arcane Board | 333362 | [333362-arcane-board.json](./333362-arcane-board.json) |
 | Arcane Chaos | 291770 | [291770-arcane-chaos.json](./291770-arcane-chaos.json) |
+| Arcane Coven | 350441 | [350441-arcane-coven.json](./350441-arcane-coven.json) |
 | Arcane Dimensions | 132820 | [132820-arcane-dimensions.json](./132820-arcane-dimensions.json) |
 | Arcane Domains | 114380 | [114380-arcane-domains.json](./114380-arcane-domains.json) |
 | Arcane Path | 339643 | [339643-arcane-path.json](./339643-arcane-path.json) |
