@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity run | 153432 | [153432-gravity-run.json](./153432-gravity-run.json) |
 | Gravity Rush Remastered: Collector's Edition | 205265 | [205265-gravity-rush-remastered-collectors-edition.json](./205265-gravity-rush-remastered-collectors-edition.json) |
 | Gravity Still Sucks! | 251210 | [251210-gravity-still-sucks.json](./251210-gravity-still-sucks.json) |
+| Gravity Was A Mistake | 366830 | [366830-gravity-was-a-mistake.json](./366830-gravity-was-a-mistake.json) |
 | Gravulse | 141882 | [141882-gravulse.json](./141882-gravulse.json) |
 | Gray Matter | 264873 | [264873-gray-matter.json](./264873-gray-matter.json) |
 | Grayscale | 217502 | [217502-grayscale.json](./217502-grayscale.json) |
