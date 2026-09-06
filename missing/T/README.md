@@ -2690,6 +2690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tin Tandem | 152396 | [152396-tin-tandem.json](./152396-tin-tandem.json) |
 | Tinboy | 34507 | [34507-tinboy.json](./34507-tinboy.json) |
 | Tingus Goose | 285342 | [285342-tingus-goose.json](./285342-tingus-goose.json) |
+| Tinker's Ascent | 355564 | [355564-tinkers-ascent.json](./355564-tinkers-ascent.json) |
 | Tinkernest | 404846 | [404846-tinkernest.json](./404846-tinkernest.json) |
 | Tinting Time | 216500 | [216500-tinting-time.json](./216500-tinting-time.json) |
 | Tiny Atolls | 230529 | [230529-tiny-atolls.json](./230529-tiny-atolls.json) |
@@ -3688,6 +3689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle WoW: Mysteries of Azeroth | 253071 | [253071-turtle-wow-mysteries-of-azeroth.json](./253071-turtle-wow-mysteries-of-azeroth.json) |
 | Tutorial | 231092 | [231092-tutorial.json](./231092-tutorial.json) |
 | Tux, of Math Command | 242812 | [242812-tux-of-math-command.json](./242812-tux-of-math-command.json) |
+| TV Farm | 355530 | [355530-tv-farm.json](./355530-tv-farm.json) |
 | TV Thief | 190748 | [190748-tv-thief.json](./190748-tv-thief.json) |
 | TVhead | 217506 | [217506-tvhead.json](./217506-tvhead.json) |
 | Twelve Sky | 67321 | [67321-twelve-sky.json](./67321-twelve-sky.json) |
