@@ -592,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleClaws | 297784 | [297784-battleclaws.json](./297784-battleclaws.json) |
 | Battlefield 1: Turning Tides | 76190 | [76190-battlefield-1-turning-tides.json](./76190-battlefield-1-turning-tides.json) |
 | Battlefield 1: Ultimate Edition | 52640 | [52640-battlefield-1-ultimate-edition.json](./52640-battlefield-1-ultimate-edition.json) |
+| Battlefield 1918 | 317836 | [317836-battlefield-1918.json](./317836-battlefield-1918.json) |
 | Battlefield 1942: World War II Anthology | 136467 | [136467-battlefield-1942-world-war-ii-anthology.json](./136467-battlefield-1942-world-war-ii-anthology.json) |
 | Battlefield 2042: Year 1 Pass | 293915 | [293915-battlefield-2042-year-1-pass.json](./293915-battlefield-2042-year-1-pass.json) |
 | Battlefield 3 | 273136 | [273136-battlefield-3.json](./273136-battlefield-3.json) |
@@ -956,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibi & Tina: Mikoschs großer Auftritt | 151206 | [151206-bibi-and-tina-mikoschs-gro-er-auftritt.json](./151206-bibi-and-tina-mikoschs-gro-er-auftritt.json) |
 | Bibi Bunny | 337459 | [337459-bibi-bunny.json](./337459-bibi-bunny.json) |
 | Bible Trivia | 278164 | [278164-bible-trivia.json](./278164-bible-trivia.json) |
+| Bible Verse Challenge | 317848 | [317848-bible-verse-challenge.json](./317848-bible-verse-challenge.json) |
 | Biblically Inaccurate | 374043 | [374043-biblically-inaccurate.json](./374043-biblically-inaccurate.json) |
 | Biblistry | 58797 | [58797-biblistry.json](./58797-biblistry.json) |
 | Bibou | 32916 | [32916-bibou.json](./32916-bibou.json) |
@@ -1213,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade & Sorcery | 111474 | [111474-blade-and-sorcery.json](./111474-blade-and-sorcery.json) |
 | Blade Arcus from Shining | 121039 | [121039-blade-arcus-from-shining.json](./121039-blade-arcus-from-shining.json) |
 | Blade Blazer | 370154 | [370154-blade-blazer.json](./370154-blade-blazer.json) |
+| Blade Bouncer 2: Revolution | 317823 | [317823-blade-bouncer-2-revolution.json](./317823-blade-bouncer-2-revolution.json) |
 | Blade Crusade | 190210 | [190210-blade-crusade.json](./190210-blade-crusade.json) |
 | Blade of Dawn | 322361 | [322361-blade-of-dawn.json](./322361-blade-of-dawn.json) |
 | Blade Reborn: Forge Your Destiny | 102787 | [102787-blade-reborn-forge-your-destiny.json](./102787-blade-reborn-forge-your-destiny.json) |
@@ -1279,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Legion: Ignition | 78064 | [78064-blazing-legion-ignition.json](./78064-blazing-legion-ignition.json) |
 | Blazing Strike | 193531 | [193531-blazing-strike.json](./193531-blazing-strike.json) |
 | Bleach: Heat the Soul 4 | 46001 | [46001-bleach-heat-the-soul-4.json](./46001-bleach-heat-the-soul-4.json) |
+| Bleach: Soul Puzzle | 317846 | [317846-bleach-soul-puzzle.json](./317846-bleach-soul-puzzle.json) |
 | Bleach: The Blade of Fate | 20530 | [20530-bleach-the-blade-of-fate.json](./20530-bleach-the-blade-of-fate.json) |
 | Bleak Frontier | 258707 | [258707-bleak-frontier.json](./258707-bleak-frontier.json) |
 | Bleak Haven | 350435 | [350435-bleak-haven.json](./350435-bleak-haven.json) |
@@ -1589,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombball | 301584 | [301584-bombball.json](./301584-bombball.json) |
 | Bomber | 270399 | [270399-bomber.json](./270399-bomber.json) |
 | Bomber Bob | 14331 | [14331-bomber-bob.json](./14331-bomber-bob.json) |
+| Bomber Cat Run | 317860 | [317860-bomber-cat-run.json](./317860-bomber-cat-run.json) |
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
 | Bomber-Mario | 248288 | [248288-bomber-mario.json](./248288-bomber-mario.json) |
 | Bomberball | 392144 | [392144-bomberball.json](./392144-bomberball.json) |
