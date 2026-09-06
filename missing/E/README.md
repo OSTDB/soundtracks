@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemencraft | 194012 | [194012-elemencraft.json](./194012-elemencraft.json) |
 | Element Are We | 275348 | [275348-element-are-we.json](./275348-element-are-we.json) |
 | Element Ensemble: Wind of Moon | 125438 | [125438-element-ensemble-wind-of-moon.json](./125438-element-ensemble-wind-of-moon.json) |
+| Elemental | 351639 | [351639-elemental.json](./351639-elemental.json) |
 | Elemental Adventure | 226451 | [226451-elemental-adventure.json](./226451-elemental-adventure.json) |
 | Elemental Angel II | 192420 | [192420-elemental-angel-ii.json](./192420-elemental-angel-ii.json) |
 | Elemental Empire | 297816 | [297816-elemental-empire.json](./297816-elemental-empire.json) |
@@ -315,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elvine | 225263 | [225263-elvine.json](./225263-elvine.json) |
 | Elvira II: The Jaws of Cerberus | 228728 | [228728-elvira-ii-the-jaws-of-cerberus.json](./228728-elvira-ii-the-jaws-of-cerberus.json) |
 | Elvira: The Arcade Game | 39035 | [39035-elvira-the-arcade-game.json](./39035-elvira-the-arcade-game.json) |
+| Elysian Siege | 351637 | [351637-elysian-siege.json](./351637-elysian-siege.json) |
 | Elysion 2: Genes of the saints | 225882 | [225882-elysion-2-genes-of-the-saints.json](./225882-elysion-2-genes-of-the-saints.json) |
 | Elysium | 339126 | [339126-elysium.json](./339126-elysium.json) |
 | Elysium Infinity | 237668 | [237668-elysium-infinity.json](./237668-elysium-infinity.json) |
