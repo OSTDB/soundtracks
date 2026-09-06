@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.H.A.O.S Tournament | 117726 | [117726-c-h-a-o-s-tournament.json](./117726-c-h-a-o-s-tournament.json) |
 | C.I.E.B The Backrooms Project | 265402 | [265402-c-i-e-b-the-backrooms-project.json](./265402-c-i-e-b-the-backrooms-project.json) |
 | C.L.T.: Cheguei Louco no Trabalho | 255390 | [255390-c-l-t-cheguei-louco-no-trabalho.json](./255390-c-l-t-cheguei-louco-no-trabalho.json) |
+| C.R.E.E.P | 358863 | [358863-c-r-e-e-p.json](./358863-c-r-e-e-p.json) |
 | C.U.B.E | 412998 | [412998-c-u-b-e.json](./412998-c-u-b-e.json) |
 | C15: Horror | 121001 | [121001-c15-horror.json](./121001-c15-horror.json) |
 | C64 & Amiga Classix Remakes Sixpack | 94773 | [94773-c64-and-amiga-classix-remakes-sixpack.json](./94773-c64-and-amiga-classix-remakes-sixpack.json) |
@@ -510,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Hopper | 139468 | [139468-cave-hopper.json](./139468-cave-hopper.json) |
 | Cave Oasis at Shylake | 380423 | [380423-cave-oasis-at-shylake.json](./380423-cave-oasis-at-shylake.json) |
 | Cave of Illusions | 125116 | [125116-cave-of-illusions.json](./125116-cave-of-illusions.json) |
+| Cave of the Skinwalker | 358856 | [358856-cave-of-the-skinwalker.json](./358856-cave-of-the-skinwalker.json) |
 | Cave of Treats | 408803 | [408803-cave-of-treats.json](./408803-cave-of-treats.json) |
 | Cave Shooter | 167275 | [167275-cave-shooter.json](./167275-cave-shooter.json) |
 | Cavegirl Adventures | 163992 | [163992-cavegirl-adventures.json](./163992-cavegirl-adventures.json) |
@@ -876,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrome Death | 259247 | [259247-chrome-death.json](./259247-chrome-death.json) |
 | Chronautical | 253598 | [253598-chronautical.json](./253598-chronautical.json) |
 | Chronicle of Ekan | 169980 | [169980-chronicle-of-ekan.json](./169980-chronicle-of-ekan.json) |
+| Chronicles IV: Ebonheim | 358852 | [358852-chronicles-iv-ebonheim.json](./358852-chronicles-iv-ebonheim.json) |
 | Chronicles of 2 Heroes: Amaterasu's Wrath | 191850 | [191850-chronicles-of-2-heroes-amaterasus-wrath.json](./191850-chronicles-of-2-heroes-amaterasus-wrath.json) |
 | Chronicles of a Dark Lord: Episode 2 War of the Abyss | 7856 | [7856-chronicles-of-a-dark-lord-episode-2-war-of-the-abyss.json](./7856-chronicles-of-a-dark-lord-episode-2-war-of-the-abyss.json) |
 | Chronicles of a Dark Lord: Episode II War of The Abyss | 35962 | [35962-chronicles-of-a-dark-lord-episode-ii-war-of-the-abyss.json](./35962-chronicles-of-a-dark-lord-episode-ii-war-of-the-abyss.json) |
@@ -1000,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Slickers | 250647 | [250647-city-slickers.json](./250647-city-slickers.json) |
 | City Takeover: Fierce Animals | 309085 | [309085-city-takeover-fierce-animals.json](./309085-city-takeover-fierce-animals.json) |
 | City Takeover: Gentle Animals | 309086 | [309086-city-takeover-gentle-animals.json](./309086-city-takeover-gentle-animals.json) |
+| City-Racing | 358887 | [358887-city-racing.json](./358887-city-racing.json) |
 | CityBuilder | 206348 | [206348-citybuilder.json](./206348-citybuilder.json) |
 | Cityconomy: Service for your City | 17494 | [17494-cityconomy-service-for-your-city.json](./17494-cityconomy-service-for-your-city.json) |
 | CityInc | 307902 | [307902-cityinc.json](./307902-cityinc.json) |
@@ -1635,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country Star | 292826 | [292826-country-star.json](./292826-country-star.json) |
 | Countryballs At War | 300427 | [300427-countryballs-at-war.json](./300427-countryballs-at-war.json) |
 | Countryside Farm Clues | 402930 | [402930-countryside-farm-clues.json](./402930-countryside-farm-clues.json) |
+| Countup | 358882 | [358882-countup.json](./358882-countup.json) |
 | Couple-Cultivation Saves the World | 324669 | [324669-couple-cultivation-saves-the-world.json](./324669-couple-cultivation-saves-the-world.json) |
 | Courage | 207519 | [207519-courage.json](./207519-courage.json) |
 | Courage | 25768 | [25768-courage.json](./25768-courage.json) |
@@ -2059,6 +2064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CucumbeRunner | 236011 | [236011-cucumberunner.json](./236011-cucumberunner.json) |
 | Cue Brick | 39638 | [39638-cue-brick.json](./39638-cue-brick.json) |
 | Cue to Fall in Love with You | 404871 | [404871-cue-to-fall-in-love-with-you.json](./404871-cue-to-fall-in-love-with-you.json) |
+| Cuisine Master VR | 358883 | [358883-cuisine-master-vr.json](./358883-cuisine-master-vr.json) |
 | Culdcept Revolt | 27258 | [27258-culdcept-revolt.json](./27258-culdcept-revolt.json) |
 | Cult Of Blood | 319965 | [319965-cult-of-blood.json](./319965-cult-of-blood.json) |
 | Cult of Shadows | 374069 | [374069-cult-of-shadows.json](./374069-cult-of-shadows.json) |
@@ -2238,3 +2244,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cytoplasm Madness | 180839 | [180839-cytoplasm-madness.json](./180839-cytoplasm-madness.json) |
 | Cytron Masters | 22489 | [22489-cytron-masters.json](./22489-cytron-masters.json) |
 | Cytus II | 89095 | [89095-cytus-ii.json](./89095-cytus-ii.json) |
+| Cytus II: Miku | 358866 | [358866-cytus-ii-miku.json](./358866-cytus-ii-miku.json) |
