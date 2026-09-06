@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambit Maestro | 385586 | [385586-gambit-maestro.json](./385586-gambit-maestro.json) |
 | Gamble Fight Plus | 116783 | [116783-gamble-fight-plus.json](./116783-gamble-fight-plus.json) |
 | Gambler Jiko Chuushinha 2 | 267650 | [267650-gambler-jiko-chuushinha-2.json](./267650-gambler-jiko-chuushinha-2.json) |
+| Gambler: Queen's Cup | 360589 | [360589-gambler-queens-cup.json](./360589-gambler-queens-cup.json) |
 | Game & Watch Donkey Kong Jr. | 206932 | [206932-game-and-watch-donkey-kong-jr.json](./206932-game-and-watch-donkey-kong-jr.json) |
 | Game & Watch Mario's Cement Factory | 206933 | [206933-game-and-watch-marios-cement-factory.json](./206933-game-and-watch-marios-cement-factory.json) |
 | Game & Watch: The Legend of Zelda | 152361 | [152361-game-and-watch-the-legend-of-zelda.json](./152361-game-and-watch-the-legend-of-zelda.json) |
@@ -569,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Nations | 106595 | [106595-gnome-nations.json](./106595-gnome-nations.json) |
 | Gnomes | 37182 | [37182-gnomes.json](./37182-gnomes.json) |
 | Gnomes Garden Lost King | 102882 | [102882-gnomes-garden-lost-king.json](./102882-gnomes-garden-lost-king.json) |
+| Gnomes Garden: Black Stones | 360576 | [360576-gnomes-garden-black-stones.json](./360576-gnomes-garden-black-stones.json) |
 | Gnomes Garden: Halloween | 110372 | [110372-gnomes-garden-halloween.json](./110372-gnomes-garden-halloween.json) |
 | Gnomes Vs. Fairies | 34349 | [34349-gnomes-vs-fairies.json](./34349-gnomes-vs-fairies.json) |
 | Gnomonic | 219797 | [219797-gnomonic.json](./219797-gnomonic.json) |
@@ -700,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Drop Mania | 329919 | [329919-gold-drop-mania.json](./329919-gold-drop-mania.json) |
 | Gold For All | 248338 | [248338-gold-for-all.json](./248338-gold-for-all.json) |
 | Gold Miner Challenger | 215360 | [215360-gold-miner-challenger.json](./215360-gold-miner-challenger.json) |
+| Gold Miner: Classic Edition | 360579 | [360579-gold-miner-classic-edition.json](./360579-gold-miner-classic-edition.json) |
 | Gold Rush! Classic | 36288 | [36288-gold-rush-classic.json](./36288-gold-rush-classic.json) |
 | Golden Axe III Redux | 219271 | [219271-golden-axe-iii-redux.json](./219271-golden-axe-iii-redux.json) |
 | Golden Axed: A Cancelled Prototype | 140044 | [140044-golden-axed-a-cancelled-prototype.json](./140044-golden-axed-a-cancelled-prototype.json) |
@@ -747,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goman: Stuck in the Avici Hell | 214184 | [214184-goman-stuck-in-the-avici-hell.json](./214184-goman-stuck-in-the-avici-hell.json) |
 | Gombo | 277616 | [277616-gombo.json](./277616-gombo.json) |
 | Gomenne Angel: Yokohama Monogatari | 271463 | [271463-gomenne-angel-yokohama-monogatari.json](./271463-gomenne-angel-yokohama-monogatari.json) |
+| Gomi | 360614 | [360614-gomi.json](./360614-gomi.json) |
 | Gomo | 7552 | [7552-gomo.json](./7552-gomo.json) |
 | Gonner2: The Full Ikk Edition | 154552 | [154552-gonner2-the-full-ikk-edition.json](./154552-gonner2-the-full-ikk-edition.json) |
 | Goo Go | 304380 | [304380-goo-go.json](./304380-goo-go.json) |
