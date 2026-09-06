@@ -668,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles - DLC 1 | 313509 | [313509-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-1.json](./313509-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-1.json) |
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles - DLC 2 | 313510 | [313510-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-2.json](./313510-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-2.json) |
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles - DLC 3 | 313511 | [313511-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-3.json](./313511-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-3.json) |
+| That Time I Got Reincarnated as a Slime: Isekai Chronicles: Digital Deluxe Edition | 313133 | [313133-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-digital-deluxe-edition.json](./313133-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-digital-deluxe-edition.json) |
 | That's a Thing | 344942 | [344942-thats-a-thing.json](./344942-thats-a-thing.json) |
 | That's How Sumireko's Roach Stomping Mafia Works | 123593 | [123593-thats-how-sumirekos-roach-stomping-mafia-works.json](./123593-thats-how-sumirekos-roach-stomping-mafia-works.json) |
 | That's Not How it Happened | 209131 | [209131-thats-not-how-it-happened.json](./209131-thats-not-how-it-happened.json) |
@@ -788,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bard's Tale IV: Barrows Deep - Ultimate Edition | 102801 | [102801-the-bards-tale-iv-barrows-deep-ultimate-edition.json](./102801-the-bards-tale-iv-barrows-deep-ultimate-edition.json) |
 | The Bard's Tale IV: Director's Cut | 120645 | [120645-the-bards-tale-iv-directors-cut.json](./120645-the-bards-tale-iv-directors-cut.json) |
 | The Bard's Tale IV: Director's Cut - Deluxe Edition | 124816 | [124816-the-bards-tale-iv-directors-cut-deluxe-edition.json](./124816-the-bards-tale-iv-directors-cut-deluxe-edition.json) |
+| The Bard's Tale: Remastered and Resnarkled | 313094 | [313094-the-bards-tale-remastered-and-resnarkled.json](./313094-the-bards-tale-remastered-and-resnarkled.json) |
 | The Bard's Tale: Tales of the Unknown | 394232 | [394232-the-bards-tale-tales-of-the-unknown.json](./394232-the-bards-tale-tales-of-the-unknown.json) |
 | The Barkeeper | 332847 | [332847-the-barkeeper.json](./332847-the-barkeeper.json) |
 | The Baseball 2003 | 61401 | [61401-the-baseball-2003.json](./61401-the-baseball-2003.json) |
@@ -2212,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Super Mario Bros. Movie 64 DS | 270380 | [270380-the-super-mario-bros-movie-64-ds.json](./270380-the-super-mario-bros-movie-64-ds.json) |
 | The Super Mario Bros. Super Literature Club! | 294438 | [294438-the-super-mario-bros-super-literature-club.json](./294438-the-super-mario-bros-super-literature-club.json) |
 | The Super Mario Bros. Super Show! 64 | 135268 | [135268-the-super-mario-bros-super-show-64.json](./135268-the-super-mario-bros-super-show-64.json) |
+| The Super Robot Bros | 313134 | [313134-the-super-robot-bros.json](./313134-the-super-robot-bros.json) |
 | The Supper | 128289 | [128289-the-supper.json](./128289-the-supper.json) |
 | The Surge 2: Premium Edition | 154535 | [154535-the-surge-2-premium-edition.json](./154535-the-surge-2-premium-edition.json) |
 | The Surge: The Good, the Bad, and the Augmented | 109240 | [109240-the-surge-the-good-the-bad-and-the-augmented.json](./109240-the-surge-the-good-the-bad-and-the-augmented.json) |
@@ -2532,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief | 362857 | [362857-thief.json](./362857-thief.json) |
 | Thief City | 221424 | [221424-thief-city.json](./221424-thief-city.json) |
 | Thief of Thieves: Season One | 95116 | [95116-thief-of-thieves-season-one.json](./95116-thief-of-thieves-season-one.json) |
+| Thief Puzzle | 313137 | [313137-thief-puzzle.json](./313137-thief-puzzle.json) |
 | Thief Puzzle: Complete Edition | 315849 | [315849-thief-puzzle-complete-edition.json](./315849-thief-puzzle-complete-edition.json) |
 | Thief Puzzle: Pranks | 313515 | [313515-thief-puzzle-pranks.json](./313515-thief-puzzle-pranks.json) |
 | Thief Puzzle: Tricks | 313514 | [313514-thief-puzzle-tricks.json](./313514-thief-puzzle-tricks.json) |
@@ -3831,6 +3835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Play 97 | 20649 | [20649-triple-play-97.json](./20649-triple-play-97.json) |
 | Triple Play 98 | 20813 | [20813-triple-play-98.json](./20813-triple-play-98.json) |
 | Triple Take | 173277 | [173277-triple-take.json](./173277-triple-take.json) |
+| Triple Tournament | 313098 | [313098-triple-tournament.json](./313098-triple-tournament.json) |
 | Triple Zoo | 232185 | [232185-triple-zoo.json](./232185-triple-zoo.json) |
 | TripSync | 189179 | [189179-tripsync.json](./189179-tripsync.json) |
 | Tristone | 112314 | [112314-tristone.json](./112314-tristone.json) |
@@ -3990,6 +3995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo 21 HD | 355009 | [355009-turbo-21-hd.json](./355009-turbo-21-hd.json) |
 | Turbo 84 | 239344 | [239344-turbo-84.json](./239344-turbo-84.json) |
 | Turbo Bullets | 311822 | [311822-turbo-bullets.json](./311822-turbo-bullets.json) |
+| Turbo DX | 313106 | [313106-turbo-dx.json](./313106-turbo-dx.json) |
 | Turbo Golf Racing | 194736 | [194736-turbo-golf-racing.json](./194736-turbo-golf-racing.json) |
 | Turbo Hovercraft | 359418 | [359418-turbo-hovercraft.json](./359418-turbo-hovercraft.json) |
 | Turbo Kid | 212164 | [212164-turbo-kid.json](./212164-turbo-kid.json) |
