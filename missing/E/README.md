@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explore Jam 3 | 275318 | [275318-explore-jam-3.json](./275318-explore-jam-3.json) |
 | Explorers of Space | 47265 | [47265-explorers-of-space.json](./47265-explorers-of-space.json) |
 | Explosive Breaker | 39650 | [39650-explosive-breaker.json](./39650-explosive-breaker.json) |
+| Explosive Odds | 345473 | [345473-explosive-odds.json](./345473-explosive-odds.json) |
 | Explosive Shooting Star Beetle | 311809 | [311809-explosive-shooting-star-beetle.json](./311809-explosive-shooting-star-beetle.json) |
 | Expo 2020 | 174900 | [174900-expo-2020.json](./174900-expo-2020.json) |
 | Exposure | 362267 | [362267-exposure.json](./362267-exposure.json) |
