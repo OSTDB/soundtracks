@@ -1087,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grind Zones | 36217 | [36217-grind-zones.json](./36217-grind-zones.json) |
 | Grinded Meat | 237068 | [237068-grinded-meat.json](./237068-grinded-meat.json) |
 | Gripper's Adventure | 89272 | [89272-grippers-adventure.json](./89272-grippers-adventure.json) |
+| Gripshot | 340401 | [340401-gripshot.json](./340401-gripshot.json) |
 | Grisaia Phantom Trigger Vol.3 | 43085 | [43085-grisaia-phantom-trigger-vol-3.json](./43085-grisaia-phantom-trigger-vol-3.json) |
 | Grisaia: Phantom Trigger Vol. 8 | 191896 | [191896-grisaia-phantom-trigger-vol-8.json](./191896-grisaia-phantom-trigger-vol-8.json) |
 | Grit Paintball | 158187 | [158187-grit-paintball.json](./158187-grit-paintball.json) |
@@ -1150,10 +1151,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian of Immortal Mountain | 97904 | [97904-guardian-of-immortal-mountain.json](./97904-guardian-of-immortal-mountain.json) |
 | Guardian of the Code | 202369 | [202369-guardian-of-the-code.json](./202369-guardian-of-the-code.json) |
 | Guardian of the Future | 119773 | [119773-guardian-of-the-future.json](./119773-guardian-of-the-future.json) |
+| Guardian of the Grave | 340402 | [340402-guardian-of-the-grave.json](./340402-guardian-of-the-grave.json) |
 | Guardian Sword | 26627 | [26627-guardian-sword.json](./26627-guardian-sword.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
 | Guardians of the Wall | 396884 | [396884-guardians-of-the-wall.json](./396884-guardians-of-the-wall.json) |
 | Gudetama: Okawari Ikagassuka | 57711 | [57711-gudetama-okawari-ikagassuka.json](./57711-gudetama-okawari-ikagassuka.json) |
+| Gudrun's Solitaire Duel | 340403 | [340403-gudruns-solitaire-duel.json](./340403-gudruns-solitaire-duel.json) |
 | Guerilla Bob | 94760 | [94760-guerilla-bob.json](./94760-guerilla-bob.json) |
 | Guerilla Cinema // Guerilla Theater | 394838 | [394838-guerilla-cinema-guerilla-theater.json](./394838-guerilla-cinema-guerilla-theater.json) |
 | Guerra Sangrenta | 258694 | [258694-guerra-sangrenta.json](./258694-guerra-sangrenta.json) |
@@ -1266,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunnVR | 29908 | [29908-gunnvr.json](./29908-gunnvr.json) |
 | Gunny | 117721 | [117721-gunny.json](./117721-gunny.json) |
 | Gunpoint Gambit | 391036 | [391036-gunpoint-gambit.json](./391036-gunpoint-gambit.json) |
+| Gunpyre | 340404 | [340404-gunpyre.json](./340404-gunpyre.json) |
 | Gunroar | 91936 | [91936-gunroar.json](./91936-gunroar.json) |
 | Guns & Bots | 304906 | [304906-guns-and-bots.json](./304906-guns-and-bots.json) |
 | Guns 4 Hire | 117728 | [117728-guns-4-hire.json](./117728-guns-4-hire.json) |
@@ -1290,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunspell: Steam Edition | 36221 | [36221-gunspell-steam-edition.json](./36221-gunspell-steam-edition.json) |
 | Gunstable | 180800 | [180800-gunstable.json](./180800-gunstable.json) |
 | Gunstar | 13003 | [13003-gunstar.json](./13003-gunstar.json) |
+| GunStar's Gambit | 340405 | [340405-gunstars-gambit.json](./340405-gunstars-gambit.json) |
 | Guntastic | 113024 | [113024-guntastic.json](./113024-guntastic.json) |
 | Guntris | 311824 | [311824-guntris.json](./311824-guntris.json) |
 | GunWorld VR | 159853 | [159853-gunworld-vr.json](./159853-gunworld-vr.json) |
@@ -1301,11 +1306,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guru Meditation | 178091 | [178091-guru-meditation.json](./178091-guru-meditation.json) |
 | Guts and Syringes | 94766 | [94766-guts-and-syringes.json](./94766-guts-and-syringes.json) |
 | Gutter: The Reject | 257691 | [257691-gutter-the-reject.json](./257691-gutter-the-reject.json) |
+| GwenBlade 2: Halloween | 340406 | [340406-gwenblade-2-halloween.json](./340406-gwenblade-2-halloween.json) |
 | Gyaku Katei Kyoushi: Kanojo wa Boku no Sensei ni Shite Dorei | 411593 | [411593-gyaku-katei-kyoushi-kanojo-wa-boku-no-sensei-ni-shite-dorei.json](./411593-gyaku-katei-kyoushi-kanojo-wa-boku-no-sensei-ni-shite-dorei.json) |
 | Gyakuten Othellonia | 220312 | [220312-gyakuten-othellonia.json](./220312-gyakuten-othellonia.json) |
 | Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Sanpaku Yokka no Tabi | 396943 | [396943-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json](./396943-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json) |
 | Gyaruko-chan-tachi to Shippori Onsen Ryokou: Ichaicha Shimakuri Ippaku Futsuka no Tabi | 396940 | [396940-gyaruko-chan-tachi-to-shippori-onsen-ryokou-ichaicha-shimakuri-ippaku-futsuka-no-tabi.json](./396940-gyaruko-chan-tachi-to-shippori-onsen-ryokou-ichaicha-shimakuri-ippaku-futsuka-no-tabi.json) |
 | Gym Class: Basketball VR | 223143 | [223143-gym-class-basketball-vr.json](./223143-gym-class-basketball-vr.json) |
+| Gym Orgasm | 340407 | [340407-gym-orgasm.json](./340407-gym-orgasm.json) |
 | Gym Rat Simulator | 410888 | [410888-gym-rat-simulator.json](./410888-gym-rat-simulator.json) |
 | Gym Simulator 24 | 263793 | [263793-gym-simulator-24.json](./263793-gym-simulator-24.json) |
 | Gyossait | 42684 | [42684-gyossait.json](./42684-gyossait.json) |
