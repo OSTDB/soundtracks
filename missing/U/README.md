@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertown | 51263 | [51263-undertown.json](./51263-undertown.json) |
 | Undervault | 129771 | [129771-undervault.json](./129771-undervault.json) |
 | Underwater Affect | 113000 | [113000-underwater-affect.json](./113000-underwater-affect.json) |
+| Underworld | 349298 | [349298-underworld.json](./349298-underworld.json) |
 | Underworld Football Manager | 233739 | [233739-underworld-football-manager.json](./233739-underworld-football-manager.json) |
 | Underworld Re: Card | 213050 | [213050-underworld-re-card.json](./213050-underworld-re-card.json) |
 | Undisputed | 146957 | [146957-undisputed.json](./146957-undisputed.json) |
