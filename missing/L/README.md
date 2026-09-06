@@ -533,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberty Castle: Home of the Free | 199666 | [199666-liberty-castle-home-of-the-free.json](./199666-liberty-castle-home-of-the-free.json) |
 | Liberty Step | 222000 | [222000-liberty-step.json](./222000-liberty-step.json) |
 | Librarium | 235495 | [235495-librarium.json](./235495-librarium.json) |
+| Library Game | 337640 | [337640-library-game.json](./337640-library-game.json) |
 | Library of Souls | 183568 | [183568-library-of-souls.json](./183568-library-of-souls.json) |
 | Libritopia: Librarian Simulator | 326949 | [326949-libritopia-librarian-simulator.json](./326949-libritopia-librarian-simulator.json) |
 | Libros de Chilam Balam | 188075 | [188075-libros-de-chilam-balam.json](./188075-libros-de-chilam-balam.json) |
