@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack BD Heroes vol.1 | 293934 | [293934-pack-bd-heroes-vol-1.json](./293934-pack-bd-heroes-vol-1.json) |
 | Pack Lunch | 371273 | [371273-pack-lunch.json](./371273-pack-lunch.json) |
 | Pack not Found 404 | 313477 | [313477-pack-not-found-404.json](./313477-pack-not-found-404.json) |
+| Packed Lair | 350440 | [350440-packed-lair.json](./350440-packed-lair.json) |
 | Packmates | 366231 | [366231-packmates.json](./366231-packmates.json) |
 | Pacman Cube | 230500 | [230500-pacman-cube.json](./230500-pacman-cube.json) |
 | Paddle Battle | 172781 | [172781-paddle-battle.json](./172781-paddle-battle.json) |
@@ -257,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasol Fall | 231632 | [231632-parasol-fall.json](./231632-parasol-fall.json) |
 | Parasol Stars: Rainbow Islands 2 | 39027 | [39027-parasol-stars-rainbow-islands-2.json](./39027-parasol-stars-rainbow-islands-2.json) |
 | Paratroopers | 24986 | [24986-paratroopers.json](./24986-paratroopers.json) |
+| Parcel Dash | 350444 | [350444-parcel-dash.json](./350444-parcel-dash.json) |
 | Parcel Delivery Simulator | 377066 | [377066-parcel-delivery-simulator.json](./377066-parcel-delivery-simulator.json) |
 | Parchis Club | 204683 | [204683-parchis-club.json](./204683-parchis-club.json) |
 | Pari Delicto | 384531 | [384531-pari-delicto.json](./384531-pari-delicto.json) |
