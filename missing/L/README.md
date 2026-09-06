@@ -1141,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna Story II: Six Pieces of Tears | 141209 | [141209-luna-story-ii-six-pieces-of-tears.json](./141209-luna-story-ii-six-pieces-of-tears.json) |
 | Luna Story III: On Your Mark | 141211 | [141211-luna-story-iii-on-your-mark.json](./141211-luna-story-iii-on-your-mark.json) |
 | Luna-3X | 315838 | [315838-luna-3x.json](./315838-luna-3x.json) |
+| Luna: Obscura | 341493 | [341493-luna-obscura.json](./341493-luna-obscura.json) |
 | Luna: The Shadow Dust | 56463 | [56463-luna-the-shadow-dust.json](./56463-luna-the-shadow-dust.json) |
 | Lunacy: Saint Rhodes | 26710 | [26710-lunacy-saint-rhodes.json](./26710-lunacy-saint-rhodes.json) |
 | Lunar Catastrophe | 260960 | [260960-lunar-catastrophe.json](./260960-lunar-catastrophe.json) |
