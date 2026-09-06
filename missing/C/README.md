@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control: Expeditions | 298854 | [298854-control-expeditions.json](./298854-control-expeditions.json) |
 | Convenient | 217010 | [217010-convenient.json](./217010-convenient.json) |
 | Convenient Encounters | 236501 | [236501-convenient-encounters.json](./236501-convenient-encounters.json) |
+| Conveyor Belt Sushi Simulator | 334129 | [334129-conveyor-belt-sushi-simulator.json](./334129-conveyor-belt-sushi-simulator.json) |
 | Convicted Galaxy | 30902 | [30902-convicted-galaxy.json](./30902-convicted-galaxy.json) |
 | Convrgence | 269281 | [269281-convrgence.json](./269281-convrgence.json) |
 | Cook Baker Match | 175425 | [175425-cook-baker-match.json](./175425-cook-baker-match.json) |
@@ -2293,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Snake | 193473 | [193473-cute-snake.json](./193473-cute-snake.json) |
 | Cute Socks | 310722 | [310722-cute-socks.json](./310722-cute-socks.json) |
 | Cute Triplets | 148540 | [148540-cute-triplets.json](./148540-cute-triplets.json) |
+| Cute, Broke, and Dungeon Bound | 334132 | [334132-cute-broke-and-dungeon-bound.json](./334132-cute-broke-and-dungeon-bound.json) |
 | Cuter Kaizo World | 312344 | [312344-cuter-kaizo-world.json](./312344-cuter-kaizo-world.json) |
 | Cuthbert and the Golden Chalice | 123067 | [123067-cuthbert-and-the-golden-chalice.json](./123067-cuthbert-and-the-golden-chalice.json) |
 | Cuthbert Enters the Tombs of Doom | 123061 | [123061-cuthbert-enters-the-tombs-of-doom.json](./123061-cuthbert-enters-the-tombs-of-doom.json) |
