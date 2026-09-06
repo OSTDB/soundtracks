@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derelict | 168384 | [168384-derelict.json](./168384-derelict.json) |
 | Derelict | 32423 | [32423-derelict.json](./32423-derelict.json) |
 | Derpy Dinos | 74433 | [74433-derpy-dinos.json](./74433-derpy-dinos.json) |
+| Derpy Fish | 356078 | [356078-derpy-fish.json](./356078-derpy-fish.json) |
 | Derrick the Deathfin | 17187 | [17187-derrick-the-deathfin.json](./17187-derrick-the-deathfin.json) |
 | Deru | 258698 | [258698-deru.json](./258698-deru.json) |
 | Descend.gg | 232661 | [232661-descend-gg.json](./232661-descend-gg.json) |
