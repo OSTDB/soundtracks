@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeff the Janitor | 337491 | [337491-jeff-the-janitor.json](./337491-jeff-the-janitor.json) |
 | JEFN | 256529 | [256529-jefn.json](./256529-jefn.json) |
 | Jelda II | 78705 | [78705-jelda-ii.json](./78705-jelda-ii.json) |
+| Jeller Fellers | 337654 | [337654-jeller-fellers.json](./337654-jeller-fellers.json) |
 | Jellies! | 221430 | [221430-jellies.json](./221430-jellies.json) |
 | Jellitito | 340770 | [340770-jellitito.json](./340770-jellitito.json) |
 | Jelly Boy | 365693 | [365693-jelly-boy.json](./365693-jelly-boy.json) |
