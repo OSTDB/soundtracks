@@ -16,6 +16,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waddle Home | 25568 | [25568-waddle-home.json](./25568-waddle-home.json) |
 | Waddle Paddle | 365718 | [365718-waddle-paddle.json](./365718-waddle-paddle.json) |
 | Wages of War: The Business of Battle | 70982 | [70982-wages-of-war-the-business-of-battle.json](./70982-wages-of-war-the-business-of-battle.json) |
+| Wai-wai Check 03/21 | 345494 | [345494-wai-wai-check-03-21.json](./345494-wai-wai-check-03-21.json) |
+| Wai-wai Check 11/15 | 345493 | [345493-wai-wai-check-11-15.json](./345493-wai-wai-check-11-15.json) |
+| Wai-wai Check 3-7 | 345497 | [345497-wai-wai-check-3-7.json](./345497-wai-wai-check-3-7.json) |
+| Wai-wai Check 8/26 | 345496 | [345496-wai-wai-check-8-26.json](./345496-wai-wai-check-8-26.json) |
+| Wai-wai Check! | 345492 | [345492-wai-wai-check.json](./345492-wai-wai-check.json) |
 | Wai-Wai Monster Land | 292845 | [292845-wai-wai-monster-land.json](./292845-wai-wai-monster-land.json) |
 | Wai-wai! Minna de Challenge | 220355 | [220355-wai-wai-minna-de-challenge.json](./220355-wai-wai-minna-de-challenge.json) |
 | Waifu | 338556 | [338556-waifu.json](./338556-waifu.json) |
@@ -597,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Turkey Hunt | 95453 | [95453-wild-turkey-hunt.json](./95453-wild-turkey-hunt.json) |
 | Wild Warfare | 17598 | [17598-wild-warfare.json](./17598-wild-warfare.json) |
 | Wild West Races | 175395 | [175395-wild-west-races.json](./175395-wild-west-races.json) |
+| Wild West Supermarket Simulator | 345511 | [345511-wild-west-supermarket-simulator.json](./345511-wild-west-supermarket-simulator.json) |
 | Wild West VR | 104075 | [104075-wild-west-vr.json](./104075-wild-west-vr.json) |
 | Wild Wizard War | 391607 | [391607-wild-wizard-war.json](./391607-wild-wizard-war.json) |
 | Wildbound | 347711 | [347711-wildbound.json](./347711-wildbound.json) |
@@ -814,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Boy: Anniversary Collection | 233787 | [233787-wonder-boy-anniversary-collection.json](./233787-wonder-boy-anniversary-collection.json) |
 | Wonder Land | 216483 | [216483-wonder-land.json](./216483-wonder-land.json) |
 | Wonder Mu: Mu to Unmei no Monster | 220323 | [220323-wonder-mu-mu-to-unmei-no-monster.json](./220323-wonder-mu-mu-to-unmei-no-monster.json) |
+| Wonder of Blue | 345509 | [345509-wonder-of-blue.json](./345509-wonder-of-blue.json) |
 | Wonder Planet | 40245 | [40245-wonder-planet.json](./40245-wonder-planet.json) |
 | Wonder World Amusement Park | 5286 | [5286-wonder-world-amusement-park.json](./5286-wonder-world-amusement-park.json) |
 | Wonderball Heroes | 83581 | [83581-wonderball-heroes.json](./83581-wonderball-heroes.json) |
@@ -1030,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Would you rather?! | 90677 | [90677-would-you-rather.json](./90677-would-you-rather.json) |
 | Would You Sell Your Soul? 2 | 303265 | [303265-would-you-sell-your-soul-2.json](./303265-would-you-sell-your-soul-2.json) |
 | Wove | 369024 | [369024-wove.json](./369024-wove.json) |
+| WpnFire | 345516 | [345516-wpnfire.json](./345516-wpnfire.json) |
 | Wrack | 5596 | [5596-wrack.json](./5596-wrack.json) |
 | Wrack: Exoverse | 87560 | [87560-wrack-exoverse.json](./87560-wrack-exoverse.json) |
 | Wraith | 125994 | [125994-wraith.json](./125994-wraith.json) |
