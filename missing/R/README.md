@@ -1413,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPS Saga | 38994 | [38994-rps-saga.json](./38994-rps-saga.json) |
 | RRRR 2 | 117081 | [117081-rrrr-2.json](./117081-rrrr-2.json) |
 | RRWard02 | 274209 | [274209-rrward02.json](./274209-rrward02.json) |
+| RTA New York Street | 359992 | [359992-rta-new-york-street.json](./359992-rta-new-york-street.json) |
 | RTE Worlds | 273127 | [273127-rte-worlds.json](./273127-rte-worlds.json) |
 | RTL Alarm für Cobra 11: Teil II | 144348 | [144348-rtl-alarm-fur-cobra-11-teil-ii.json](./144348-rtl-alarm-fur-cobra-11-teil-ii.json) |
 | RTL Ski Alpin 2006 | 69865 | [69865-rtl-ski-alpin-2006.json](./69865-rtl-ski-alpin-2006.json) |
@@ -1463,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Crabby Run | 54462 | [54462-run-crabby-run.json](./54462-run-crabby-run.json) |
 | Run Fairy | 111014 | [111014-run-fairy.json](./111014-run-fairy.json) |
 | Run for Cheese | 174356 | [174356-run-for-cheese.json](./174356-run-for-cheese.json) |
+| Run from Bubol Horror | 359990 | [359990-run-from-bubol-horror.json](./359990-run-from-bubol-horror.json) |
 | Run Gor | 270932 | [270932-run-gor.json](./270932-run-gor.json) |
 | Run Hunter Run | 96086 | [96086-run-hunter-run.json](./96086-run-hunter-run.json) |
 | Run Like Hell! | 61642 | [61642-run-like-hell.json](./61642-run-like-hell.json) |
