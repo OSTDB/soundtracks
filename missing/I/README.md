@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Be the Cat | 76580 | [76580-i-wanna-be-the-cat.json](./76580-i-wanna-be-the-cat.json) |
 | I Wanna Be the King! | 367960 | [367960-i-wanna-be-the-king.json](./367960-i-wanna-be-the-king.json) |
 | I Wanna Eat the Lemon | 191263 | [191263-i-wanna-eat-the-lemon.json](./191263-i-wanna-eat-the-lemon.json) |
+| I Wanna Make a Dragon Game | 349291 | [349291-i-wanna-make-a-dragon-game.json](./349291-i-wanna-make-a-dragon-game.json) |
 | I Wanna Touch | 389984 | [389984-i-wanna-touch.json](./389984-i-wanna-touch.json) |
 | I Want My Mommy | 40789 | [40789-i-want-my-mommy.json](./40789-i-want-my-mommy.json) |
 | I Want to Go to Mars | 130363 | [130363-i-want-to-go-to-mars.json](./130363-i-want-to-go-to-mars.json) |
