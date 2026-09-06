@@ -639,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune Wandering Makers: Pantheon of the Discarded | 330549 | [330549-deltarune-wandering-makers-pantheon-of-the-discarded.json](./330549-deltarune-wandering-makers-pantheon-of-the-discarded.json) |
 | Deltarune: Broken Destiny | 329950 | [329950-deltarune-broken-destiny.json](./329950-deltarune-broken-destiny.json) |
 | Deltarune: Chapter 1 - Noelle Edition | 335691 | [335691-deltarune-chapter-1-noelle-edition.json](./335691-deltarune-chapter-1-noelle-edition.json) |
+| Deltarune: Hummer Jevil | 352215 | [352215-deltarune-hummer-jevil.json](./352215-deltarune-hummer-jevil.json) |
 | Deltarune: Master Mode | 336354 | [336354-deltarune-master-mode.json](./336354-deltarune-master-mode.json) |
 | Delusional | 377584 | [377584-delusional.json](./377584-delusional.json) |
 | Deluxe Galaga | 39026 | [39026-deluxe-galaga.json](./39026-deluxe-galaga.json) |
@@ -748,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deru | 258698 | [258698-deru.json](./258698-deru.json) |
 | Descend.gg | 232661 | [232661-descend-gg.json](./232661-descend-gg.json) |
 | Descending: House of Nightmares | 171614 | [171614-descending-house-of-nightmares.json](./171614-descending-house-of-nightmares.json) |
+| Descension | 352183 | [352183-descension.json](./352183-descension.json) |
 | Descent 3 | 667 | [667-descent-3.json](./667-descent-3.json) |
 | Descent Down Infinity | 411612 | [411612-descent-down-infinity.json](./411612-descent-down-infinity.json) |
 | Descent into Hades | 272017 | [272017-descent-into-hades.json](./272017-descent-into-hades.json) |
@@ -871,10 +873,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dezaemon 3D | 3470 | [3470-dezaemon-3d.json](./3470-dezaemon-3d.json) |
 | Dezaemon Kids! | 98463 | [98463-dezaemon-kids.json](./98463-dezaemon-kids.json) |
 | Dharma Dojo | 79948 | [79948-dharma-dojo.json](./79948-dharma-dojo.json) |
+| DHTML Lemmings | 352223 | [352223-dhtml-lemmings.json](./352223-dhtml-lemmings.json) |
 | Diaball | 176485 | [176485-diaball.json](./176485-diaball.json) |
 | Diabetor & The Sugar Monsters | 278736 | [278736-diabetor-and-the-sugar-monsters.json](./278736-diabetor-and-the-sugar-monsters.json) |
 | Diablo II: Resurrected - Prime Evil Collection | 155099 | [155099-diablo-ii-resurrected-prime-evil-collection.json](./155099-diablo-ii-resurrected-prime-evil-collection.json) |
 | Diablo IV: Lord of Hatred | 381239 | [381239-diablo-iv-lord-of-hatred.json](./381239-diablo-iv-lord-of-hatred.json) |
+| Diablo IV: Sins of the Horadrim | 352222 | [352222-diablo-iv-sins-of-the-horadrim.json](./352222-diablo-iv-sins-of-the-horadrim.json) |
 | Diablo IV: Vessel of Hatred | 275171 | [275171-diablo-iv-vessel-of-hatred.json](./275171-diablo-iv-vessel-of-hatred.json) |
 | Diablo IV: Vessel of Hatred - Expansion Bundle | 305496 | [305496-diablo-iv-vessel-of-hatred-expansion-bundle.json](./305496-diablo-iv-vessel-of-hatred-expansion-bundle.json) |
 | Diadem of Manstraut | 407349 | [407349-diadem-of-manstraut.json](./407349-diadem-of-manstraut.json) |
@@ -1327,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Go Bang! | 24966 | [24966-dont-go-bang.json](./24966-dont-go-bang.json) |
 | Don't Hate My Music Taste | 167818 | [167818-dont-hate-my-music-taste.json](./167818-dont-hate-my-music-taste.json) |
 | Don't Hide | 215907 | [215907-dont-hide.json](./215907-dont-hide.json) |
+| Don't Let Me Fade | 352220 | [352220-dont-let-me-fade.json](./352220-dont-let-me-fade.json) |
 | Don't Look | 177547 | [177547-dont-look.json](./177547-dont-look.json) |
 | Don't Look at Grandma | 375820 | [375820-dont-look-at-grandma.json](./375820-dont-look-at-grandma.json) |
 | Don't Look Down | 107877 | [107877-dont-look-down.json](./107877-dont-look-down.json) |
@@ -2036,6 +2041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DuoZuplixo | 369025 | [369025-duozuplixo.json](./369025-duozuplixo.json) |
 | Duppy Detective Tashia | 215885 | [215885-duppy-detective-tashia.json](./215885-duppy-detective-tashia.json) |
 | Durarara!! Relay | 61661 | [61661-durarara-relay.json](./61661-durarara-relay.json) |
+| Durga: The Lionhearted | 352203 | [352203-durga-the-lionhearted.json](./352203-durga-the-lionhearted.json) |
 | Dusk Park | 400854 | [400854-dusk-park.json](./400854-dusk-park.json) |
 | Dusk Pub | 224771 | [224771-dusk-pub.json](./224771-dusk-pub.json) |
 | Duskbound | 258197 | [258197-duskbound.json](./258197-duskbound.json) |
