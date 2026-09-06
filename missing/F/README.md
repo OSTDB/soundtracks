@@ -1469,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Machine | 12999 | [12999-fruit-machine.json](./12999-fruit-machine.json) |
 | Fruit Machine | 315276 | [315276-fruit-machine.json](./315276-fruit-machine.json) |
 | Fruit Machine Mania | 97369 | [97369-fruit-machine-mania.json](./97369-fruit-machine-mania.json) |
+| Fruit Mart Simulator | 349325 | [349325-fruit-mart-simulator.json](./349325-fruit-mart-simulator.json) |
 | Fruit Postal Service | 119777 | [119777-fruit-postal-service.json](./119777-fruit-postal-service.json) |
 | Fruit Slide | 359993 | [359993-fruit-slide.json](./359993-fruit-slide.json) |
 | Fruit Warrior AR | 241047 | [241047-fruit-warrior-ar.json](./241047-fruit-warrior-ar.json) |
