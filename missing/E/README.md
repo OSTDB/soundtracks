@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.V.O.: Search for Eden | 6979 | [6979-e-v-o-search-for-eden.json](./6979-e-v-o-search-for-eden.json) |
 | E's Laf | 135884 | [135884-es-laf.json](./135884-es-laf.json) |
 | E's Laf++ | 135903 | [135903-es-laf.json](./135903-es-laf.json) |
+| E4C: Final Salvation | 328459 | [328459-e4c-final-salvation.json](./328459-e4c-final-salvation.json) |
 | EA Replay 2 | 209176 | [209176-ea-replay-2.json](./209176-ea-replay-2.json) |
 | EA Sports College Football 26 | 329146 | [329146-ea-sports-college-football-26.json](./329146-ea-sports-college-football-26.json) |
 | EA Sports FC 25 | 308698 | [308698-ea-sports-fc-25.json](./308698-ea-sports-fc-25.json) |
