@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack the Ripper | 169989 | [169989-jack-the-ripper.json](./169989-jack-the-ripper.json) |
 | Jack's House | 88314 | [88314-jacks-house.json](./88314-jacks-house.json) |
 | Jackal | 212707 | [212707-jackal.json](./212707-jackal.json) |
+| Jackpoison | 361689 | [361689-jackpoison.json](./361689-jackpoison.json) |
 | Jackroid | 367967 | [367967-jackroid.json](./367967-jackroid.json) |
 | Jacob Jazz's Tamarindo's Freaking Dinner | 378811 | [378811-jacob-jazzs-tamarindos-freaking-dinner.json](./378811-jacob-jazzs-tamarindos-freaking-dinner.json) |
 | Jacqueline White: Bad Trouble in the Red Desert | 169991 | [169991-jacqueline-white-bad-trouble-in-the-red-desert.json](./169991-jacqueline-white-bad-trouble-in-the-red-desert.json) |
