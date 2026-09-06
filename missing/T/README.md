@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Astonishing Game | 29687 | [29687-the-astonishing-game.json](./29687-the-astonishing-game.json) |
 | The Astronomy Game | 156144 | [156144-the-astronomy-game.json](./156144-the-astronomy-game.json) |
 | The Asylum: Psychiatric Clinic for Abused Cuddly Toys | 66153 | [66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json](./66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json) |
+| The Atlas Mystery: PC Edition | 336567 | [336567-the-atlas-mystery-pc-edition.json](./336567-the-atlas-mystery-pc-edition.json) |
 | The Atomy | 33124 | [33124-the-atomy.json](./33124-the-atomy.json) |
 | The Attack on Egg Harbor | 344357 | [344357-the-attack-on-egg-harbor.json](./344357-the-attack-on-egg-harbor.json) |
 | The Auto Sort Is Broken | 329363 | [329363-the-auto-sort-is-broken.json](./329363-the-auto-sort-is-broken.json) |
@@ -745,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ball Adventure | 148535 | [148535-the-ball-adventure.json](./148535-the-ball-adventure.json) |
 | The Ball of the Rings | 176480 | [176480-the-ball-of-the-rings.json](./176480-the-ball-of-the-rings.json) |
 | The Ball Pit | 336382 | [336382-the-ball-pit.json](./336382-the-ball-pit.json) |
+| The Ballad of Bellum | 336539 | [336539-the-ballad-of-bellum.json](./336539-the-ballad-of-bellum.json) |
 | The Ballad Singer | 78156 | [78156-the-ballad-singer.json](./78156-the-ballad-singer.json) |
 | The Banker Tycoon | 379340 | [379340-the-banker-tycoon.json](./379340-the-banker-tycoon.json) |
 | The Banner Saga 3 | 26940 | [26940-the-banner-saga-3.json](./26940-the-banner-saga-3.json) |
@@ -998,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Survivors | 273647 | [273647-the-dark-survivors.json](./273647-the-dark-survivors.json) |
 | The Dark Tales of Katarina | 28871 | [28871-the-dark-tales-of-katarina.json](./28871-the-dark-tales-of-katarina.json) |
 | The Dark Veil: West Haven | 119780 | [119780-the-dark-veil-west-haven.json](./119780-the-dark-veil-west-haven.json) |
+| The Dark West | 336522 | [336522-the-dark-west.json](./336522-the-dark-west.json) |
 | The Darkest Paths: Missing Files | 235985 | [235985-the-darkest-paths-missing-files.json](./235985-the-darkest-paths-missing-files.json) |
 | The Darkest Woods 2 | 111711 | [111711-the-darkest-woods-2.json](./111711-the-darkest-woods-2.json) |
 | The Darkness | 331150 | [331150-the-darkness.json](./331150-the-darkness.json) |
@@ -1281,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Chocolate Chase: A Chocolatier Twist | 19557 | [19557-the-great-chocolate-chase-a-chocolatier-twist.json](./19557-the-great-chocolate-chase-a-chocolatier-twist.json) |
 | The Great Coffee Caper | 338210 | [338210-the-great-coffee-caper.json](./338210-the-great-coffee-caper.json) |
 | The Great Dick Invasion | 213595 | [213595-the-great-dick-invasion.json](./213595-the-great-dick-invasion.json) |
+| The Great Emu War of 1932 | 336566 | [336566-the-great-emu-war-of-1932.json](./336566-the-great-emu-war-of-1932.json) |
 | The Great Escape | 28852 | [28852-the-great-escape.json](./28852-the-great-escape.json) |
 | The Great Farce | 318176 | [318176-the-great-farce.json](./318176-the-great-farce.json) |
 | The Great Fusion | 19499 | [19499-the-great-fusion.json](./19499-the-great-fusion.json) |
@@ -1583,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lilows 2 | 239888 | [239888-the-lilows-2.json](./239888-the-lilows-2.json) |
 | The Lima Project | 271492 | [271492-the-lima-project.json](./271492-the-lima-project.json) |
 | The Line TD | 275335 | [275335-the-line-td.json](./275335-the-line-td.json) |
+| The Lingering: Last Customer | 336532 | [336532-the-lingering-last-customer.json](./336532-the-lingering-last-customer.json) |
 | The Lion King | 3166 | [3166-the-lion-king.json](./3166-the-lion-king.json) |
 | The Lion's Song: Episode 2 - Anthology | 168343 | [168343-the-lions-song-episode-2-anthology.json](./168343-the-lions-song-episode-2-anthology.json) |
 | The Lion's Song: Episode 3 - Derivation | 168345 | [168345-the-lions-song-episode-3-derivation.json](./168345-the-lions-song-episode-3-derivation.json) |
@@ -1961,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secrets | 178686 | [178686-the-secrets.json](./178686-the-secrets.json) |
 | The Secrets of Atlantis: The Sacred Legacy | 19458 | [19458-the-secrets-of-atlantis-the-sacred-legacy.json](./19458-the-secrets-of-atlantis-the-sacred-legacy.json) |
 | The Secrets of Hope | 236533 | [236533-the-secrets-of-hope.json](./236533-the-secrets-of-hope.json) |
+| The Secrets of the Forest | 336562 | [336562-the-secrets-of-the-forest.json](./336562-the-secrets-of-the-forest.json) |
 | The Senpai | 230521 | [230521-the-senpai.json](./230521-the-senpai.json) |
 | The Sensha | 59418 | [59418-the-sensha.json](./59418-the-sensha.json) |
 | The Server | 405527 | [405527-the-server.json](./405527-the-server.json) |
@@ -2265,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Undying Plague | 35759 | [35759-the-undying-plague.json](./35759-the-undying-plague.json) |
 | The Unfettered | 223163 | [223163-the-unfettered.json](./223163-the-unfettered.json) |
 | The Uninvited 2: Let Nothing You Dismay | 370106 | [370106-the-uninvited-2-let-nothing-you-dismay.json](./370106-the-uninvited-2-let-nothing-you-dismay.json) |
+| The Unknown | 336516 | [336516-the-unknown.json](./336516-the-unknown.json) |
 | The Unseen Awakening | 347148 | [347148-the-unseen-awakening.json](./347148-the-unseen-awakening.json) |
 | The Unseen Fears: Body Thief - Collector's Edition | 377077 | [377077-the-unseen-fears-body-thief-collectors-edition.json](./377077-the-unseen-fears-body-thief-collectors-edition.json) |
 | The Unsettled | 199665 | [199665-the-unsettled.json](./199665-the-unsettled.json) |
@@ -2766,6 +2773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Triple 3D | 227509 | [227509-tile-triple-3d.json](./227509-tile-triple-3d.json) |
 | Tilefinder | 196857 | [196857-tilefinder.json](./196857-tilefinder.json) |
 | Tiles and Towers TD | 216503 | [216503-tiles-and-towers-td.json](./216503-tiles-and-towers-td.json) |
+| Tiles in Time | 336547 | [336547-tiles-in-time.json](./336547-tiles-in-time.json) |
 | Tilt Brush | 36215 | [36215-tilt-brush.json](./36215-tilt-brush.json) |
 | Tilted: A Tale of Refraction | 51947 | [51947-tilted-a-tale-of-refraction.json](./51947-tilted-a-tale-of-refraction.json) |
 | Tilting Tiles: Fires of Industry | 319945 | [319945-tilting-tiles-fires-of-industry.json](./319945-tilting-tiles-fires-of-industry.json) |
