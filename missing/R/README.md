@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebuild 2 | 342030 | [342030-rebuild-2.json](./342030-rebuild-2.json) |
 | Rebungered!! That Time I Got Reincarnated As A Bunger! | 405474 | [405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json](./405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json) |
 | Rec: Beyond The Lens | 255957 | [255957-rec-beyond-the-lens.json](./255957-rec-beyond-the-lens.json) |
+| ReCast FF3: War of the Magitek | 339255 | [339255-recast-ff3-war-of-the-magitek.json](./339255-recast-ff3-war-of-the-magitek.json) |
 | Recharge Complete | 75171 | [75171-recharge-complete.json](./75171-recharge-complete.json) |
 | ReCharge RC | 233758 | [233758-recharge-rc.json](./233758-recharge-rc.json) |
 | ReCharge RC: High Voltage | 330565 | [330565-recharge-rc-high-voltage.json](./330565-recharge-rc-high-voltage.json) |
@@ -684,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 2: Collector's Edition | 105979 | [105979-resident-evil-2-collectors-edition.json](./105979-resident-evil-2-collectors-edition.json) |
 | Resident Evil 2: Collector's Edition | 221401 | [221401-resident-evil-2-collectors-edition.json](./221401-resident-evil-2-collectors-edition.json) |
 | Resident Evil 2: Pix' N Love Limited Edition | 221404 | [221404-resident-evil-2-pix-n-love-limited-edition.json](./221404-resident-evil-2-pix-n-love-limited-edition.json) |
+| Resident Evil 2: Zombie Crisis | 339246 | [339246-resident-evil-2-zombie-crisis.json](./339246-resident-evil-2-zombie-crisis.json) |
 | Resident Evil 4: Collector's Edition | 24211 | [24211-resident-evil-4-collectors-edition.json](./24211-resident-evil-4-collectors-edition.json) |
 | Resident Evil 4: Limited Edition | 145054 | [145054-resident-evil-4-limited-edition.json](./145054-resident-evil-4-limited-edition.json) |
 | Resident Evil 4: Ultimate HD Edition | 24223 | [24223-resident-evil-4-ultimate-hd-edition.json](./24223-resident-evil-4-ultimate-hd-edition.json) |
@@ -912,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riders 2491 | 158706 | [158706-riders-2491.json](./158706-riders-2491.json) |
 | Riders Republic: Year 1 Pass | 293916 | [293916-riders-republic-year-1-pass.json](./293916-riders-republic-year-1-pass.json) |
 | Ridge Hold | 414325 | [414325-ridge-hold.json](./414325-ridge-hold.json) |
+| Ridge Racer 8 | 339264 | [339264-ridge-racer-8.json](./339264-ridge-racer-8.json) |
 | Ridge Racer Revolution | 18697 | [18697-ridge-racer-revolution.json](./18697-ridge-racer-revolution.json) |
 | Ridge Racer V: Arcade Battle | 315284 | [315284-ridge-racer-v-arcade-battle.json](./315284-ridge-racer-v-arcade-battle.json) |
 | Ridge Runner | 233250 | [233250-ridge-runner.json](./233250-ridge-runner.json) |
@@ -1351,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Explorer 2010 | 198511 | [198511-room-explorer-2010.json](./198511-room-explorer-2010.json) |
 | Room Explorer 2010: Deluxe Lover's Paque | 198512 | [198512-room-explorer-2010-deluxe-lovers-paque.json](./198512-room-explorer-2010-deluxe-lovers-paque.json) |
 | Room Football: Ranch | 370713 | [370713-room-football-ranch.json](./370713-room-football-ranch.json) |
+| Room Football: Wetlands | 339282 | [339282-room-football-wetlands.json](./339282-room-football-wetlands.json) |
 | Room231 | 297206 | [297206-room231.json](./297206-room231.json) |
 | Roomba Out! | 302143 | [302143-roomba-out.json](./302143-roomba-out.json) |
 | Roomba Rail Rider | 302144 | [302144-roomba-rail-rider.json](./302144-roomba-rail-rider.json) |
