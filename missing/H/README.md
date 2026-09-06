@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexagonal Explods | 238729 | [238729-hexagonal-explods.json](./238729-hexagonal-explods.json) |
 | Hexalert | 337635 | [337635-hexalert.json](./337635-hexalert.json) |
 | Hexanome | 110601 | [110601-hexanome.json](./110601-hexanome.json) |
+| Hexaroma: Village Builder | 319598 | [319598-hexaroma-village-builder.json](./319598-hexaroma-village-builder.json) |
 | HexaTerra | 320564 | [320564-hexaterra.json](./320564-hexaterra.json) |
 | Hexaword | 386725 | [386725-hexaword.json](./386725-hexaword.json) |
 | Hexceed: Cogitare Pack | 224231 | [224231-hexceed-cogitare-pack.json](./224231-hexceed-cogitare-pack.json) |
@@ -1244,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houdini Master of the Extraordinary 1: The Temple of the Serpent | 218136 | [218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json](./218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json) |
 | Houkago Girls Tribe | 55928 | [55928-houkago-girls-tribe.json](./55928-houkago-girls-tribe.json) |
 | Houkago no Senpai | 127961 | [127961-houkago-no-senpai.json](./127961-houkago-no-senpai.json) |
+| Hound: Automaton | 320145 | [320145-hound-automaton.json](./320145-hound-automaton.json) |
 | Hour Night | 178083 | [178083-hour-night.json](./178083-hour-night.json) |
 | Hour of the Snake | 117042 | [117042-hour-of-the-snake.json](./117042-hour-of-the-snake.json) |
 | House 2 | 267094 | [267094-house-2.json](./267094-house-2.json) |
