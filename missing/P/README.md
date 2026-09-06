@@ -446,7 +446,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pendragon Rising | 34210 | [34210-pendragon-rising.json](./34210-pendragon-rising.json) |
 | Penelope Pendrick and the Art of Deceit | 316422 | [316422-penelope-pendrick-and-the-art-of-deceit.json](./316422-penelope-pendrick-and-the-art-of-deceit.json) |
 | Penelope's Odyssey | 190700 | [190700-penelopes-odyssey.json](./190700-penelopes-odyssey.json) |
+| Pengicitis The Game | 353324 | [353324-pengicitis-the-game.json](./353324-pengicitis-the-game.json) |
 | Pengo | 270415 | [270415-pengo.json](./270415-pengo.json) |
+| Penguin Chat 2 | 353302 | [353302-penguin-chat-2.json](./353302-penguin-chat-2.json) |
 | Penguin Colony | 354409 | [354409-penguin-colony.json](./354409-penguin-colony.json) |
 | Penguin Helper | 302112 | [302112-penguin-helper.json](./302112-penguin-helper.json) |
 | Penguin Land | 365677 | [365677-penguin-land.json](./365677-penguin-land.json) |
@@ -780,6 +782,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pin-Bowler | 92541 | [92541-pin-bowler.json](./92541-pin-bowler.json) |
 | Pinball | 44636 | [44636-pinball.json](./44636-pinball.json) |
 | Pinball Arcade Season 2 | 141861 | [141861-pinball-arcade-season-2.json](./141861-pinball-arcade-season-2.json) |
+| Pinball Arcade: Safe Cracker | 353273 | [353273-pinball-arcade-safe-cracker.json](./353273-pinball-arcade-safe-cracker.json) |
+| Pinball Arcade: Space Shuttle | 353272 | [353272-pinball-arcade-space-shuttle.json](./353272-pinball-arcade-space-shuttle.json) |
+| Pinball Arcade: Swords of Fury | 353270 | [353270-pinball-arcade-swords-of-fury.json](./353270-pinball-arcade-swords-of-fury.json) |
+| Pinball Arcade: Whirlwind | 353269 | [353269-pinball-arcade-whirlwind.json](./353269-pinball-arcade-whirlwind.json) |
 | Pinball Breeze | 354432 | [354432-pinball-breeze.json](./354432-pinball-breeze.json) |
 | Pinball Challenge Deluxe | 49361 | [49361-pinball-challenge-deluxe.json](./49361-pinball-challenge-deluxe.json) |
 | Pinball Dungeon | 177562 | [177562-pinball-dungeon.json](./177562-pinball-dungeon.json) |
@@ -1203,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Echo | 392776 | [392776-pokemon-echo.json](./392776-pokemon-echo.json) |
 | Pokémon Eclesia | 306671 | [306671-pokemon-eclesia.json](./306671-pokemon-eclesia.json) |
 | Pokémon Edición Reloaded | 250629 | [250629-pokemon-edicion-reloaded.json](./250629-pokemon-edicion-reloaded.json) |
+| Pokémon Edición Team Rocket | 353274 | [353274-pokemon-edicion-team-rocket.json](./353274-pokemon-edicion-team-rocket.json) |
 | Pokémon Emerald Kaizo | 172744 | [172744-pokemon-emerald-kaizo.json](./172744-pokemon-emerald-kaizo.json) |
 | Pokémon Empyrean | 221394 | [221394-pokemon-empyrean.json](./221394-pokemon-empyrean.json) |
 | Pokémon Fire Ash | 135871 | [135871-pokemon-fire-ash.json](./135871-pokemon-fire-ash.json) |
@@ -1666,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project B-Fer | 257651 | [257651-project-b-fer.json](./257651-project-b-fer.json) |
 | Project Backrooms | 236529 | [236529-project-backrooms.json](./236529-project-backrooms.json) |
 | Project BlockchainZ | 180313 | [180313-project-blockchainz.json](./180313-project-blockchainz.json) |
+| Project CARS: Logitech Livery Pack | 353279 | [353279-project-cars-logitech-livery-pack.json](./353279-project-cars-logitech-livery-pack.json) |
 | Project Crimson | 166735 | [166735-project-crimson.json](./166735-project-crimson.json) |
 | Project D: Human Risen | 126632 | [126632-project-d-human-risen.json](./126632-project-d-human-risen.json) |
 | Project DeepWeb | 120422 | [120422-project-deepweb.json](./120422-project-deepweb.json) |
