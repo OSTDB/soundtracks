@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kattobi! Warabe Ji | 63296 | [63296-kattobi-warabe-ji.json](./63296-kattobi-warabe-ji.json) |
 | Kattonauten | 180844 | [180844-kattonauten.json](./180844-kattonauten.json) |
 | Katyusha | 75917 | [75917-katyusha.json](./75917-katyusha.json) |
+| Katze Stuck in the Toilet 64 | 361717 | [361717-katze-stuck-in-the-toilet-64.json](./361717-katze-stuck-in-the-toilet-64.json) |
 | Kava Tina Story | 68020 | [68020-kava-tina-story.json](./68020-kava-tina-story.json) |
 | Kavalmaja | 128655 | [128655-kavalmaja.json](./128655-kavalmaja.json) |
 | KaveXplorer | 157179 | [157179-kavexplorer.json](./157179-kavexplorer.json) |
@@ -514,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightfall Showdown | 322969 | [322969-knightfall-showdown.json](./322969-knightfall-showdown.json) |
 | Knightmare | 163950 | [163950-knightmare.json](./163950-knightmare.json) |
 | Knightmare Gold | 259255 | [259255-knightmare-gold.json](./259255-knightmare-gold.json) |
+| Knightmare II: The Maze of Galious | 361716 | [361716-knightmare-ii-the-maze-of-galious.json](./361716-knightmare-ii-the-maze-of-galious.json) |
 | KnightQuest | 95427 | [95427-knightquest.json](./95427-knightquest.json) |
 | Knights | 32575 | [32575-knights.json](./32575-knights.json) |
 | Knights & Dragons | 59980 | [59980-knights-and-dragons.json](./59980-knights-and-dragons.json) |
