@@ -535,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeckMake Fantasy | 208015 | [208015-deckmake-fantasy.json](./208015-deckmake-fantasy.json) |
 | Decks & Dungeons | 149574 | [149574-decks-and-dungeons.json](./149574-decks-and-dungeons.json) |
 | Decomposition | 339791 | [339791-decomposition.json](./339791-decomposition.json) |
+| Decontamination | 335879 | [335879-decontamination.json](./335879-decontamination.json) |
 | Decurse: A New Magic Farming Game | 254159 | [254159-decurse-a-new-magic-farming-game.json](./254159-decurse-a-new-magic-farming-game.json) |
 | Ded | 30073 | [30073-ded.json](./30073-ded.json) |
 | Dedalium | 199418 | [199418-dedalium.json](./199418-dedalium.json) |
@@ -970,9 +971,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digger | 172721 | [172721-digger.json](./172721-digger.json) |
 | Digger Man | 39631 | [39631-digger-man.json](./39631-digger-man.json) |
 | Diggerman | 101578 | [101578-diggerman.json](./101578-diggerman.json) |
+| Digging a Hole 2025 | 335955 | [335955-digging-a-hole-2025.json](./335955-digging-a-hole-2025.json) |
 | Digging Down | 384532 | [384532-digging-down.json](./384532-digging-down.json) |
 | Digging for Dinosaurs | 48045 | [48045-digging-for-dinosaurs.json](./48045-digging-for-dinosaurs.json) |
 | Digiclimb | 402281 | [402281-digiclimb.json](./402281-digiclimb.json) |
+| Digimon Color Monster Hunter 20th Edition | 335863 | [335863-digimon-color-monster-hunter-20th-edition.json](./335863-digimon-color-monster-hunter-20th-edition.json) |
 | Digimon Fortune | 56488 | [56488-digimon-fortune.json](./56488-digimon-fortune.json) |
 | Digimon Masters Online | 25791 | [25791-digimon-masters-online.json](./25791-digimon-masters-online.json) |
 | Digimon Story Cyber Sleuth: Complete Edition | 120551 | [120551-digimon-story-cyber-sleuth-complete-edition.json](./120551-digimon-story-cyber-sleuth-complete-edition.json) |
