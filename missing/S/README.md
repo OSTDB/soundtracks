@@ -1410,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skye Revival | 329399 | [329399-skye-revival.json](./329399-skye-revival.json) |
 | Skye: The Misty Isle | 163459 | [163459-skye-the-misty-isle.json](./163459-skye-the-misty-isle.json) |
 | Skyewood | 274218 | [274218-skyewood.json](./274218-skyewood.json) |
+| SkyFactory 3 | 360610 | [360610-skyfactory-3.json](./360610-skyfactory-3.json) |
 | SkyFactory 4 | 204695 | [204695-skyfactory-4.json](./204695-skyfactory-4.json) |
 | Skyfall Chasers | 219811 | [219811-skyfall-chasers.json](./219811-skyfall-chasers.json) |
 | Skyforce | 174856 | [174856-skyforce.json](./174856-skyforce.json) |
@@ -2197,6 +2198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Harvest II | 97916 | [97916-space-harvest-ii.json](./97916-space-harvest-ii.json) |
 | Space Hat | 290685 | [290685-space-hat.json](./290685-space-hat.json) |
 | Space Hero Line | 43518 | [43518-space-hero-line.json](./43518-space-hero-line.json) |
+| Space Hitchhiker Stop | 360563 | [360563-space-hitchhiker-stop.json](./360563-space-hitchhiker-stop.json) |
 | Space Hole 2020 | 156675 | [156675-space-hole-2020.json](./156675-space-hole-2020.json) |
 | Space Hood | 372450 | [372450-space-hood.json](./372450-space-hood.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
@@ -2738,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starazius | 122423 | [122423-starazius.json](./122423-starazius.json) |
 | Starbirds | 73292 | [73292-starbirds.json](./73292-starbirds.json) |
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
+| Starboi | 360603 | [360603-starboi.json](./360603-starboi.json) |
 | Starboost EX | 123636 | [123636-starboost-ex.json](./123636-starboost-ex.json) |
 | Starborn Space | 115027 | [115027-starborn-space.json](./115027-starborn-space.json) |
 | Starborn Survivor | 306711 | [306711-starborn-survivor.json](./306711-starborn-survivor.json) |
@@ -2808,6 +2811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars of the Screen | 232677 | [232677-stars-of-the-screen.json](./232677-stars-of-the-screen.json) |
 | Starseed Harmonies | 385553 | [385553-starseed-harmonies.json](./385553-starseed-harmonies.json) |
 | Starshifter | 211942 | [211942-starshifter.json](./211942-starshifter.json) |
+| Starship Eleven Deluxe | 360605 | [360605-starship-eleven-deluxe.json](./360605-starship-eleven-deluxe.json) |
 | Starship Escape | 57113 | [57113-starship-escape.json](./57113-starship-escape.json) |
 | Starship Home | 293377 | [293377-starship-home.json](./293377-starship-home.json) |
 | Starship Traders MMO | 254139 | [254139-starship-traders-mmo.json](./254139-starship-traders-mmo.json) |
@@ -3030,6 +3034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storyseeker | 135252 | [135252-storyseeker.json](./135252-storyseeker.json) |
 | Storyshift Asriel Battle! | 306665 | [306665-storyshift-asriel-battle.json](./306665-storyshift-asriel-battle.json) |
 | Stowizm | 184103 | [184103-stowizm.json](./184103-stowizm.json) |
+| Straif | 360577 | [360577-straif.json](./360577-straif.json) |
 | Straimium Immortaly | 31627 | [31627-straimium-immortaly.json](./31627-straimium-immortaly.json) |
 | Strainge | 151703 | [151703-strainge.json](./151703-strainge.json) |
 | Stranded Near Nowhere | 102804 | [102804-stranded-near-nowhere.json](./102804-stranded-near-nowhere.json) |
@@ -3427,6 +3432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Gridder | 57144 | [57144-super-gridder.json](./57144-super-gridder.json) |
 | Super Gussun Oyoyo | 42641 | [42641-super-gussun-oyoyo.json](./42641-super-gussun-oyoyo.json) |
 | Super Gussun Oyoyo 2 | 38385 | [38385-super-gussun-oyoyo-2.json](./38385-super-gussun-oyoyo-2.json) |
+| Super Hard Game | 360580 | [360580-super-hard-game.json](./360580-super-hard-game.json) |
 | Super Head Esploder X | 87263 | [87263-super-head-esploder-x.json](./87263-super-head-esploder-x.json) |
 | Super Hentai Racers | 208629 | [208629-super-hentai-racers.json](./208629-super-hentai-racers.json) |
 | Super Hero Boy: A Platform Adventure | 248281 | [248281-super-hero-boy-a-platform-adventure.json](./248281-super-hero-boy-a-platform-adventure.json) |
@@ -3683,6 +3689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sheffy Bros. 3 | 214772 | [214772-super-sheffy-bros-3.json](./214772-super-sheffy-bros-3.json) |
 | Super Sheffy World 2: The Quest for 5 Shells | 214773 | [214773-super-sheffy-world-2-the-quest-for-5-shells.json](./214773-super-sheffy-world-2-the-quest-for-5-shells.json) |
 | Super Sheffy World Deluxe | 214774 | [214774-super-sheffy-world-deluxe.json](./214774-super-sheffy-world-deluxe.json) |
+| Super Shootout | 360582 | [360582-super-shootout.json](./360582-super-shootout.json) |
 | Super Sketchy Party | 167294 | [167294-super-sketchy-party.json](./167294-super-sketchy-party.json) |
 | Super Skyland | 175406 | [175406-super-skyland.json](./175406-super-skyland.json) |
 | Super Slinger | 192958 | [192958-super-slinger.json](./192958-super-slinger.json) |
@@ -3964,6 +3971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordmancy | 373562 | [373562-swordmancy.json](./373562-swordmancy.json) |
 | SwordQuest: AirWorld | 67334 | [67334-swordquest-airworld.json](./67334-swordquest-airworld.json) |
 | Swords & Bones 3 | 235454 | [235454-swords-and-bones-3.json](./235454-swords-and-bones-3.json) |
+| Swords & Bones 5 | 360592 | [360592-swords-and-bones-5.json](./360592-swords-and-bones-5.json) |
 | Swords & Soldiers | 210258 | [210258-swords-and-soldiers.json](./210258-swords-and-soldiers.json) |
 | Swords & Soldiers | 210261 | [210261-swords-and-soldiers.json](./210261-swords-and-soldiers.json) |
 | Swords & Soldiers | 210262 | [210262-swords-and-soldiers.json](./210262-swords-and-soldiers.json) |
