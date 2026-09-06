@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko's Rage | 251840 | [251840-nekos-rage.json](./251840-nekos-rage.json) |
 | Nekopara Vol. 3 | 29271 | [29271-nekopara-vol-3.json](./29271-nekopara-vol-3.json) |
 | Nelda Nockbladder's Anatomy Lesson | 73284 | [73284-nelda-nockbladders-anatomy-lesson.json](./73284-nelda-nockbladders-anatomy-lesson.json) |
+| Nelli the Seer | 353898 | [353898-nelli-the-seer.json](./353898-nelli-the-seer.json) |
 | Nelly Cootalot: Spoonbeaks Ahoy! HD | 90001 | [90001-nelly-cootalot-spoonbeaks-ahoy-hd.json](./90001-nelly-cootalot-spoonbeaks-ahoy-hd.json) |
 | Nelo | 25534 | [25534-nelo.json](./25534-nelo.json) |
 | Nemac IV | 138259 | [138259-nemac-iv.json](./138259-nemac-iv.json) |
@@ -868,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Everything is Flammable | 223675 | [223675-not-everything-is-flammable.json](./223675-not-everything-is-flammable.json) |
 | Not Evil Sudoku | 297219 | [297219-not-evil-sudoku.json](./297219-not-evil-sudoku.json) |
 | Not Fine | 398354 | [398354-not-fine.json](./398354-not-fine.json) |
+| Not Guilty! | 353903 | [353903-not-guilty.json](./353903-not-guilty.json) |
 | Not Just An Ordinary Ballerina | 60018 | [60018-not-just-an-ordinary-ballerina.json](./60018-not-just-an-ordinary-ballerina.json) |
 | Not Match | 232147 | [232147-not-match.json](./232147-not-match.json) |
 | Not Our Home 2 | 156649 | [156649-not-our-home-2.json](./156649-not-our-home-2.json) |
