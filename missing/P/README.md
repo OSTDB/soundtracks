@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penelope's Odyssey | 190700 | [190700-penelopes-odyssey.json](./190700-penelopes-odyssey.json) |
 | Pengo | 270415 | [270415-pengo.json](./270415-pengo.json) |
 | Penguin Helper | 302112 | [302112-penguin-helper.json](./302112-penguin-helper.json) |
+| Penguin Land | 365677 | [365677-penguin-land.json](./365677-penguin-land.json) |
 | Penguin no Mondai X: Tenkuu no 7 Senshi | 68010 | [68010-penguin-no-mondai-x-tenkuu-no-7-senshi.json](./68010-penguin-no-mondai-x-tenkuu-no-7-senshi.json) |
 | Penguin no Mondai: Saikyou Penguin Densetsu! | 69272 | [69272-penguin-no-mondai-saikyou-penguin-densetsu.json](./69272-penguin-no-mondai-saikyou-penguin-densetsu.json) |
 | Penguin Noir | 247764 | [247764-penguin-noir.json](./247764-penguin-noir.json) |
@@ -1041,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Fire: Battle Royale | 221381 | [221381-play-fire-battle-royale.json](./221381-play-fire-battle-royale.json) |
 | Play Room 0g | 111017 | [111017-play-room-0g.json](./111017-play-room-0g.json) |
 | Play Something Different Vol. 1 | 173788 | [173788-play-something-different-vol-1.json](./173788-play-something-different-vol-1.json) |
+| Play this life | 365675 | [365675-play-this-life.json](./365675-play-this-life.json) |
 | Play With Gilbert: A Small Tail | 157722 | [157722-play-with-gilbert-a-small-tail.json](./157722-play-with-gilbert-a-small-tail.json) |
 | Play With My Balls | 309674 | [309674-play-with-my-balls.json](./309674-play-with-my-balls.json) |
 | Playback Trauma: The Beach | 159888 | [159888-playback-trauma-the-beach.json](./159888-playback-trauma-the-beach.json) |
@@ -1229,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Stories: Zombie Case | 195756 | [195756-police-stories-zombie-case.json](./195756-police-stories-zombie-case.json) |
 | Police Tactical Training | 57657 | [57657-police-tactical-training.json](./57657-police-tactical-training.json) |
 | Police: Chase Down | 82131 | [82131-police-chase-down.json](./82131-police-chase-down.json) |
+| Polidog Patrol | 365703 | [365703-polidog-patrol.json](./365703-polidog-patrol.json) |
 | Political Arena | 180303 | [180303-political-arena.json](./180303-political-arena.json) |
 | Politics The Game | 304903 | [304903-politics-the-game.json](./304903-politics-the-game.json) |
 | Pollinate or Die | 381615 | [381615-pollinate-or-die.json](./381615-pollinate-or-die.json) |
