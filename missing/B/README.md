@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babel Defender | 318760 | [318760-babel-defender.json](./318760-babel-defender.json) |
 | Babel Defense | 338174 | [338174-babel-defense.json](./338174-babel-defense.json) |
 | Babel Deluxe | 63897 | [63897-babel-deluxe.json](./63897-babel-deluxe.json) |
+| Babelomania | 318390 | [318390-babelomania.json](./318390-babelomania.json) |
 | Babes Reloaded | 272024 | [272024-babes-reloaded.json](./272024-babes-reloaded.json) |
 | Babka | 343254 | [343254-babka.json](./343254-babka.json) |
 | BabushCats | 297778 | [297778-babushcats.json](./297778-babushcats.json) |
@@ -412,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Mogul 2013 | 60000 | [60000-baseball-mogul-2013.json](./60000-baseball-mogul-2013.json) |
 | Baseball Mogul 2014 | 60011 | [60011-baseball-mogul-2014.json](./60011-baseball-mogul-2014.json) |
 | Baseball Stars | 273094 | [273094-baseball-stars.json](./273094-baseball-stars.json) |
+| Baseball Superstars 2024 | 318399 | [318399-baseball-superstars-2024.json](./318399-baseball-superstars-2024.json) |
 | Baseball-e | 170006 | [170006-baseball-e.json](./170006-baseball-e.json) |
 | Baseball: The Season II | 40267 | [40267-baseball-the-season-ii.json](./40267-baseball-the-season-ii.json) |
 | Baseball4 | 59450 | [59450-baseball4.json](./59450-baseball4.json) |
@@ -688,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beasties' Shelter | 346611 | [346611-beasties-shelter.json](./346611-beasties-shelter.json) |
 | BeastLink | 400902 | [400902-beastlink.json](./400902-beastlink.json) |
 | Beastly Bites | 338201 | [338201-beastly-bites.json](./338201-beastly-bites.json) |
+| Beastly Tactics | 318400 | [318400-beastly-tactics.json](./318400-beastly-tactics.json) |
 | Beastmaster and Princes | 121737 | [121737-beastmaster-and-princes.json](./121737-beastmaster-and-princes.json) |
 | Beastrun | 151205 | [151205-beastrun.json](./151205-beastrun.json) |
 | Beasts of Horror | 265940 | [265940-beasts-of-horror.json](./265940-beasts-of-horror.json) |
@@ -1783,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Rush | 191243 | [191243-box-rush.json](./191243-box-rush.json) |
 | Box To The Beat VR: Shadow Dreams Pack | 263202 | [263202-box-to-the-beat-vr-shadow-dreams-pack.json](./263202-box-to-the-beat-vr-shadow-dreams-pack.json) |
 | Box Zombies | 311783 | [311783-box-zombies.json](./311783-box-zombies.json) |
+| Boxcars | 318425 | [318425-boxcars.json](./318425-boxcars.json) |
 | Boxer | 13699 | [13699-boxer.json](./13699-boxer.json) |
 | Boxguy Adventure | 358322 | [358322-boxguy-adventure.json](./358322-boxguy-adventure.json) |
 | Boxguy Adventure 2 | 358292 | [358292-boxguy-adventure-2.json](./358292-boxguy-adventure-2.json) |
@@ -2258,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Businessman Simulator | 402891 | [402891-businessman-simulator.json](./402891-businessman-simulator.json) |
 | Busou Shinki: Battle Masters Mk. 2 | 56498 | [56498-busou-shinki-battle-masters-mk-2.json](./56498-busou-shinki-battle-masters-mk-2.json) |
 | Bussy Master: Club Leather | 311795 | [311795-bussy-master-club-leather.json](./311795-bussy-master-club-leather.json) |
+| Bussy Master: Halloween Advent 2024 | 318421 | [318421-bussy-master-halloween-advent-2024.json](./318421-bussy-master-halloween-advent-2024.json) |
 | Bust a Block | 319973 | [319973-bust-a-block.json](./319973-bust-a-block.json) |
 | Bust a date | 173829 | [173829-bust-a-date.json](./173829-bust-a-date.json) |
 | Bust Out | 174878 | [174878-bust-out.json](./174878-bust-out.json) |
