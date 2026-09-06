@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Builder | 352221 | [352221-hell-builder.json](./352221-hell-builder.json) |
 | Hell Clock | 324256 | [324256-hell-clock.json](./324256-hell-clock.json) |
 | Hell Corp | 154568 | [154568-hell-corp.json](./154568-hell-corp.json) |
+| Hell Dive | 324307 | [324307-hell-dive.json](./324307-hell-dive.json) |
 | Hell Grocery | 219826 | [219826-hell-grocery.json](./219826-hell-grocery.json) |
 | Hell is Us: Deluxe Edition | 331310 | [331310-hell-is-us-deluxe-edition.json](./331310-hell-is-us-deluxe-edition.json) |
 | Hell Let Loose: Battle Scarred | 371226 | [371226-hell-let-loose-battle-scarred.json](./371226-hell-let-loose-battle-scarred.json) |
@@ -573,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HelloWorld: Escape | 369582 | [369582-helloworld-escape.json](./369582-helloworld-escape.json) |
 | Hellpoint: Ultimate Edition | 209688 | [209688-hellpoint-ultimate-edition.json](./209688-hellpoint-ultimate-edition.json) |
 | Hellrider | 143083 | [143083-hellrider.json](./143083-hellrider.json) |
+| Hellrooms | 324322 | [324322-hellrooms.json](./324322-hellrooms.json) |
 | Hellstuck: Rage With Your Friends | 200712 | [200712-hellstuck-rage-with-your-friends.json](./200712-hellstuck-rage-with-your-friends.json) |
 | Hellwomb | 150138 | [150138-hellwomb.json](./150138-hellwomb.json) |
 | HelmetRoyale.io | 125991 | [125991-helmetroyale-io.json](./125991-helmetroyale-io.json) |
