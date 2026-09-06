@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chip Beat Blaster | 232145 | [232145-chip-beat-blaster.json](./232145-chip-beat-blaster.json) |
 | Chip Buster | 13703 | [13703-chip-buster.json](./13703-chip-buster.json) |
 | Chip-chan Kick! | 45961 | [45961-chip-chan-kick.json](./45961-chip-chan-kick.json) |
+| Chipmatic | 355037 | [355037-chipmatic.json](./355037-chipmatic.json) |
 | Chipper & Sons Lumber Co. | 59984 | [59984-chipper-and-sons-lumber-co.json](./59984-chipper-and-sons-lumber-co.json) |
 | ChiroTerra | 278168 | [278168-chiroterra.json](./278168-chiroterra.json) |
 | Chitei Tairiku Orudoora | 41379 | [41379-chitei-tairiku-orudoora.json](./41379-chitei-tairiku-orudoora.json) |
@@ -1717,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft City Gangs | 86711 | [86711-craft-city-gangs.json](./86711-craft-city-gangs.json) |
 | Craft Control HD | 107223 | [107223-craft-control-hd.json](./107223-craft-control-hd.json) |
 | Craft Tower | 224213 | [224213-craft-tower.json](./224213-craft-tower.json) |
+| Craftaway | 355032 | [355032-craftaway.json](./355032-craftaway.json) |
 | Crafting in Berxley | 412982 | [412982-crafting-in-berxley.json](./412982-crafting-in-berxley.json) |
 | Crafting Town | 199660 | [199660-crafting-town.json](./199660-crafting-town.json) |
 | Craftsman Story | 384524 | [384524-craftsman-story.json](./384524-craftsman-story.json) |
