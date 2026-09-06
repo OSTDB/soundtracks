@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T23:18:11.069Z",
-  "total_missing": 39329,
+  "generated_at": "2026-09-06T23:33:05.869Z",
+  "total_missing": 39379,
   "games": [
     {
       "igdb_id": 306086,
@@ -8188,6 +8188,21 @@
       "file": "missing/A/597-americas-army.json"
     },
     {
+      "igdb_id": 313691,
+      "game_name": "America's Most Eligible: Book 1",
+      "file": "missing/A/313691-americas-most-eligible-book-1.json"
+    },
+    {
+      "igdb_id": 313692,
+      "game_name": "America's Most Eligible: Book 2",
+      "file": "missing/A/313692-americas-most-eligible-book-2.json"
+    },
+    {
+      "igdb_id": 313693,
+      "game_name": "America's Most Eligible: Book 3",
+      "file": "missing/A/313693-americas-most-eligible-book-3.json"
+    },
+    {
       "igdb_id": 24343,
       "game_name": "America's Test Kitchen: Let's Get Cooking",
       "file": "missing/A/24343-americas-test-kitchen-lets-get-cooking.json"
@@ -12341,6 +12356,31 @@
       "igdb_id": 68282,
       "game_name": "Ashes Cricket",
       "file": "missing/A/68282-ashes-cricket.json"
+    },
+    {
+      "igdb_id": 313674,
+      "game_name": "Ashes of Arcanum: Antique Pack",
+      "file": "missing/A/313674-ashes-of-arcanum-antique-pack.json"
+    },
+    {
+      "igdb_id": 313677,
+      "game_name": "Ashes of Arcanum: Aves Pack",
+      "file": "missing/A/313677-ashes-of-arcanum-aves-pack.json"
+    },
+    {
+      "igdb_id": 313676,
+      "game_name": "Ashes of Arcanum: Cleric Pack",
+      "file": "missing/A/313676-ashes-of-arcanum-cleric-pack.json"
+    },
+    {
+      "igdb_id": 313678,
+      "game_name": "Ashes of Arcanum: Defective Pack",
+      "file": "missing/A/313678-ashes-of-arcanum-defective-pack.json"
+    },
+    {
+      "igdb_id": 313673,
+      "game_name": "Ashes of Arcanum: Desecrator Pack",
+      "file": "missing/A/313673-ashes-of-arcanum-desecrator-pack.json"
     },
     {
       "igdb_id": 121722,
@@ -19581,6 +19621,16 @@
       "igdb_id": 14301,
       "game_name": "Big Sea",
       "file": "missing/B/14301-big-sea.json"
+    },
+    {
+      "igdb_id": 313717,
+      "game_name": "Big Sky Country: Book 1",
+      "file": "missing/B/313717-big-sky-country-book-1.json"
+    },
+    {
+      "igdb_id": 313718,
+      "game_name": "Big Sky Country: Book 2",
+      "file": "missing/B/313718-big-sky-country-book-2.json"
     },
     {
       "igdb_id": 42640,
@@ -38373,6 +38423,11 @@
       "file": "missing/C/70386-cybermercs-the-soldiers-of-the-22nd-century.json"
     },
     {
+      "igdb_id": 313681,
+      "game_name": "Cybernated",
+      "file": "missing/C/313681-cybernated.json"
+    },
+    {
       "igdb_id": 161369,
       "game_name": "Cybernetic Fault",
       "file": "missing/C/161369-cybernetic-fault.json"
@@ -39261,6 +39316,11 @@
       "igdb_id": 17107,
       "game_name": "Danmaku Unlimited 2",
       "file": "missing/D/17107-danmaku-unlimited-2.json"
+    },
+    {
+      "igdb_id": 313686,
+      "game_name": "Danny Phantom: Ghost Sweep",
+      "file": "missing/D/313686-danny-phantom-ghost-sweep.json"
     },
     {
       "igdb_id": 101580,
@@ -42686,6 +42746,26 @@
       "igdb_id": 321771,
       "game_name": "Designed for Danger",
       "file": "missing/D/321771-designed-for-danger.json"
+    },
+    {
+      "igdb_id": 313713,
+      "game_name": "Desire & Decorum: Book 1",
+      "file": "missing/D/313713-desire-and-decorum-book-1.json"
+    },
+    {
+      "igdb_id": 313714,
+      "game_name": "Desire & Decorum: Book 2",
+      "file": "missing/D/313714-desire-and-decorum-book-2.json"
+    },
+    {
+      "igdb_id": 313715,
+      "game_name": "Desire & Decorum: Book 3",
+      "file": "missing/D/313715-desire-and-decorum-book-3.json"
+    },
+    {
+      "igdb_id": 313716,
+      "game_name": "Desire & Decorum: First Winter",
+      "file": "missing/D/313716-desire-and-decorum-first-winter.json"
     },
     {
       "igdb_id": 57087,
@@ -59053,6 +59133,11 @@
       "file": "missing/F/114416-fishing-universe-simulator.json"
     },
     {
+      "igdb_id": 313679,
+      "game_name": "Fishlets: Natural Decor Pack",
+      "file": "missing/F/313679-fishlets-natural-decor-pack.json"
+    },
+    {
       "igdb_id": 407332,
       "game_name": "FishOmatic",
       "file": "missing/F/407332-fishomatic.json"
@@ -72843,6 +72928,11 @@
       "file": "missing/H/64993-hearts-of-iron-road-to-war.json"
     },
     {
+      "igdb_id": 313720,
+      "game_name": "Hearts on Fire",
+      "file": "missing/H/313720-hearts-on-fire.json"
+    },
+    {
       "igdb_id": 317011,
       "game_name": "Hearts Online",
       "file": "missing/H/317011-hearts-online.json"
@@ -78908,6 +78998,66 @@
       "file": "missing/I/43178-idle-champions-of-the-forgotten-realms.json"
     },
     {
+      "igdb_id": 313702,
+      "game_name": "Idle Champions: Agent Vin Ursa Skin & Feat Pack",
+      "file": "missing/I/313702-idle-champions-agent-vin-ursa-skin-and-feat-pack.json"
+    },
+    {
+      "igdb_id": 313709,
+      "game_name": "Idle Champions: Alvina the Tressym Familiar Pack",
+      "file": "missing/I/313709-idle-champions-alvina-the-tressym-familiar-pack.json"
+    },
+    {
+      "igdb_id": 313696,
+      "game_name": "Idle Champions: Avatar of Azuth Familiar Pack",
+      "file": "missing/I/313696-idle-champions-avatar-of-azuth-familiar-pack.json"
+    },
+    {
+      "igdb_id": 313708,
+      "game_name": "Idle Champions: Chibi Birdsong Skin & Feat Pack",
+      "file": "missing/I/313708-idle-champions-chibi-birdsong-skin-and-feat-pack.json"
+    },
+    {
+      "igdb_id": 313697,
+      "game_name": "Idle Champions: Chibi Shadowheart Skin & Feat Pack",
+      "file": "missing/I/313697-idle-champions-chibi-shadowheart-skin-and-feat-pack.json"
+    },
+    {
+      "igdb_id": 313705,
+      "game_name": "Idle Champions: Detective Deekin Skin & Feat Pack",
+      "file": "missing/I/313705-idle-champions-detective-deekin-skin-and-feat-pack.json"
+    },
+    {
+      "igdb_id": 313706,
+      "game_name": "Idle Champions: Detective Umberto Theme Pack",
+      "file": "missing/I/313706-idle-champions-detective-umberto-theme-pack.json"
+    },
+    {
+      "igdb_id": 313700,
+      "game_name": "Idle Champions: Dr. Buzz Watson the Bee Familiar Pack",
+      "file": "missing/I/313700-idle-champions-dr-buzz-watson-the-bee-familiar-pack.json"
+    },
+    {
+      "igdb_id": 313704,
+      "game_name": "Idle Champions: Infiltrator Nahara Skin & Feat Pack",
+      "file": "missing/I/313704-idle-champions-infiltrator-nahara-skin-and-feat-pack.json"
+    },
+    {
+      "igdb_id": 313694,
+      "game_name": "Idle Champions: Masquerade Ball Ellywick Theme Pack",
+      "file": "missing/I/313694-idle-champions-masquerade-ball-ellywick-theme-pack.json"
+    },
+    {
+      "igdb_id": 313680,
+      "game_name": "Idle Champions: Masquerade Ball Lae'zel Skin & Feat Pack",
+      "file": "missing/I/313680-idle-champions-masquerade-ball-laezel-skin-and-feat-pack.json"
+    },
+    {
+      "igdb_id": 313695,
+      "game_name": "Idle Champions: Masquerade Ball Rust Theme Pack",
+      "file": "missing/I/313695-idle-champions-masquerade-ball-rust-theme-pack.json"
+    },
+    {
       "igdb_id": 306079,
       "game_name": "Idle Champions: Ms. Squiggles the Octopus Familiar Pack",
       "file": "missing/I/306079-idle-champions-ms-squiggles-the-octopus-familiar-pack.json"
@@ -78918,9 +79068,29 @@
       "file": "missing/I/255982-idle-champions-mythic-freely-skin-and-feat-pack.json"
     },
     {
+      "igdb_id": 313698,
+      "game_name": "Idle Champions: Sherlock Combs the Bee Familiar Pack",
+      "file": "missing/I/313698-idle-champions-sherlock-combs-the-bee-familiar-pack.json"
+    },
+    {
       "igdb_id": 306075,
       "game_name": "Idle Champions: Solarya the Ki-rin Familiar Pack",
       "file": "missing/I/306075-idle-champions-solarya-the-ki-rin-familiar-pack.json"
+    },
+    {
+      "igdb_id": 313707,
+      "game_name": "Idle Champions: Spymaster Aeon Theme Pack",
+      "file": "missing/I/313707-idle-champions-spymaster-aeon-theme-pack.json"
+    },
+    {
+      "igdb_id": 313699,
+      "game_name": "Idle Champions: Triton Glitch Nayeli Skin & Feat Pack",
+      "file": "missing/I/313699-idle-champions-triton-glitch-nayeli-skin-and-feat-pack.json"
+    },
+    {
+      "igdb_id": 313703,
+      "game_name": "Idle Champions: Undercover Sgt. Knox Skin & Feat Pack",
+      "file": "missing/I/313703-idle-champions-undercover-sgt-knox-skin-and-feat-pack.json"
     },
     {
       "igdb_id": 306077,
@@ -78933,9 +79103,24 @@
       "file": "missing/I/306078-idle-champions-wyrm-slayer-ezmerelda-theme-pack.json"
     },
     {
+      "igdb_id": 313711,
+      "game_name": "Idle Champions: Wyrm Slayer Korth Skin & Feat Pack",
+      "file": "missing/I/313711-idle-champions-wyrm-slayer-korth-skin-and-feat-pack.json"
+    },
+    {
+      "igdb_id": 313710,
+      "game_name": "Idle Champions: Wyrm Slayer Nova Skin & Feat Pack",
+      "file": "missing/I/313710-idle-champions-wyrm-slayer-nova-skin-and-feat-pack.json"
+    },
+    {
       "igdb_id": 306076,
       "game_name": "Idle Champions: Wyrm Slayer Selise Skin & Feat Pack",
       "file": "missing/I/306076-idle-champions-wyrm-slayer-selise-skin-and-feat-pack.json"
+    },
+    {
+      "igdb_id": 313701,
+      "game_name": "Idle Champions: Yuan-ti Glitch Havilar Skin & Feat Pack",
+      "file": "missing/I/313701-idle-champions-yuan-ti-glitch-havilar-skin-and-feat-pack.json"
     },
     {
       "igdb_id": 369567,
@@ -97481,6 +97666,11 @@
       "igdb_id": 45969,
       "game_name": "Marine Buster",
       "file": "missing/M/45969-marine-buster.json"
+    },
+    {
+      "igdb_id": 313683,
+      "game_name": "Marine Quest",
+      "file": "missing/M/313683-marine-quest.json"
     },
     {
       "igdb_id": 243393,
@@ -117048,6 +117238,16 @@
       "file": "missing/O/333003-open-fishing-2.json"
     },
     {
+      "igdb_id": 313721,
+      "game_name": "Open Heart: Book 1",
+      "file": "missing/O/313721-open-heart-book-1.json"
+    },
+    {
+      "igdb_id": 313722,
+      "game_name": "Open Heart: Second Year",
+      "file": "missing/O/313722-open-heart-second-year.json"
+    },
+    {
       "igdb_id": 89985,
       "game_name": "Open Rails",
       "file": "missing/O/89985-open-rails.json"
@@ -119476,6 +119676,11 @@
       "igdb_id": 190217,
       "game_name": "Pants Quest",
       "file": "missing/P/190217-pants-quest.json"
+    },
+    {
+      "igdb_id": 313682,
+      "game_name": "Pantsu!",
+      "file": "missing/P/313682-pantsu.json"
     },
     {
       "igdb_id": 226408,
@@ -132918,6 +133123,21 @@
       "file": "missing/R/336920-red-bull-soapbox-racers.json"
     },
     {
+      "igdb_id": 313688,
+      "game_name": "Red Carpet Diaries: Book 1",
+      "file": "missing/R/313688-red-carpet-diaries-book-1.json"
+    },
+    {
+      "igdb_id": 313689,
+      "game_name": "Red Carpet Diaries: Book 2",
+      "file": "missing/R/313689-red-carpet-diaries-book-2.json"
+    },
+    {
+      "igdb_id": 313690,
+      "game_name": "Red Carpet Diaries: Book 3",
+      "file": "missing/R/313690-red-carpet-diaries-book-3.json"
+    },
+    {
       "igdb_id": 139466,
       "game_name": "Red Colony",
       "file": "missing/R/139466-red-colony.json"
@@ -135266,6 +135486,11 @@
       "igdb_id": 243403,
       "game_name": "Ride Control Ultimate",
       "file": "missing/R/243403-ride-control-ultimate.json"
+    },
+    {
+      "igdb_id": 313719,
+      "game_name": "Ride or Die: A Bad Boy Romance - Book 1",
+      "file": "missing/R/313719-ride-or-die-a-bad-boy-romance-book-1.json"
     },
     {
       "igdb_id": 117053,
@@ -150681,6 +150906,11 @@
       "igdb_id": 330531,
       "game_name": "Sonic's Vacation",
       "file": "missing/S/330531-sonics-vacation.json"
+    },
+    {
+      "igdb_id": 313712,
+      "game_name": "Sonic2.EXE",
+      "file": "missing/S/313712-sonic2-exe.json"
     },
     {
       "igdb_id": 330709,
@@ -171971,6 +172201,26 @@
       "igdb_id": 386157,
       "game_name": "The Round-about Orchard",
       "file": "missing/T/386157-the-round-about-orchard.json"
+    },
+    {
+      "igdb_id": 313687,
+      "game_name": "The Royal Finale",
+      "file": "missing/T/313687-the-royal-finale.json"
+    },
+    {
+      "igdb_id": 313675,
+      "game_name": "The Royal Heir: Book 1",
+      "file": "missing/T/313675-the-royal-heir-book-1.json"
+    },
+    {
+      "igdb_id": 313684,
+      "game_name": "The Royal Heir: Book 2",
+      "file": "missing/T/313684-the-royal-heir-book-2.json"
+    },
+    {
+      "igdb_id": 313685,
+      "game_name": "The Royal Heir: Book 3",
+      "file": "missing/T/313685-the-royal-heir-book-3.json"
     },
     {
       "igdb_id": 182520,
