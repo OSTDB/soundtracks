@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Lords | 251203 | [251203-card-lords.json](./251203-card-lords.json) |
 | Card Quest | 32328 | [32328-card-quest.json](./32328-card-quest.json) |
 | Card Quest: Simple Card Game | 406084 | [406084-card-quest-simple-card-game.json](./406084-card-quest-simple-card-game.json) |
+| Card Shop Game Store: TCG Simulator | 335957 | [335957-card-shop-game-store-tcg-simulator.json](./335957-card-shop-game-store-tcg-simulator.json) |
 | Card Shuffle Sort | 251237 | [251237-card-shuffle-sort.json](./251237-card-shuffle-sort.json) |
 | Card Thief | 28018 | [28018-card-thief.json](./28018-card-thief.json) |
 | Card Tower Defence | 153458 | [153458-card-tower-defence.json](./153458-card-tower-defence.json) |
@@ -561,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caves of Qud: Pets of Harvest Dawn | 389407 | [389407-caves-of-qud-pets-of-harvest-dawn.json](./389407-caves-of-qud-pets-of-harvest-dawn.json) |
 | Cavescape | 317012 | [317012-cavescape.json](./317012-cavescape.json) |
 | Caxy Gambá Encontra o Monstruário | 257103 | [257103-caxy-gamba-encontra-o-monstruario.json](./257103-caxy-gamba-encontra-o-monstruario.json) |
+| Cazzarion: Builder | 335961 | [335961-cazzarion-builder.json](./335961-cazzarion-builder.json) |
 | Cazzarion: Dart Wheel | 296087 | [296087-cazzarion-dart-wheel.json](./296087-cazzarion-dart-wheel.json) |
 | Cazzarion: Fishing | 335091 | [335091-cazzarion-fishing.json](./335091-cazzarion-fishing.json) |
 | Cazzarion: Ghost Frenzy | 293899 | [293899-cazzarion-ghost-frenzy.json](./293899-cazzarion-ghost-frenzy.json) |
@@ -718,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chequred Flag | 45335 | [45335-chequred-flag.json](./45335-chequred-flag.json) |
 | Cheri La Bete | 246091 | [246091-cheri-la-bete.json](./246091-cheri-la-bete.json) |
 | Chernobyl | 228687 | [228687-chernobyl.json](./228687-chernobyl.json) |
+| Chernobyl: Escape from Pripyat | 335952 | [335952-chernobyl-escape-from-pripyat.json](./335952-chernobyl-escape-from-pripyat.json) |
 | Chernobyl: Road of Death | 122380 | [122380-chernobyl-road-of-death.json](./122380-chernobyl-road-of-death.json) |
 | Cherry Blossom Portable | 56471 | [56471-cherry-blossom-portable.json](./56471-cherry-blossom-portable.json) |
 | Cherry Girls vs. Zombie Carnage: Brutal Anime Kawaii | 399619 | [399619-cherry-girls-vs-zombie-carnage-brutal-anime-kawaii.json](./399619-cherry-girls-vs-zombie-carnage-brutal-anime-kawaii.json) |
@@ -967,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chulip | 20657 | [20657-chulip.json](./20657-chulip.json) |
 | Chungus Rampage in Big Forest | 143068 | [143068-chungus-rampage-in-big-forest.json](./143068-chungus-rampage-in-big-forest.json) |
 | Chunithm Sun Plus | 269300 | [269300-chunithm-sun-plus.json](./269300-chunithm-sun-plus.json) |
+| Chunithm Verse | 335960 | [335960-chunithm-verse.json](./335960-chunithm-verse.json) |
 | Chup's Quest | 243946 | [243946-chups-quest.json](./243946-chups-quest.json) |
 | Church Era | 118391 | [118391-church-era.json](./118391-church-era.json) |
 | Church of Shadows | 323527 | [323527-church-of-shadows.json](./323527-church-of-shadows.json) |
@@ -1486,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ConcernedApe's Haunted Chocolatier | 178101 | [178101-concernedapes-haunted-chocolatier.json](./178101-concernedapes-haunted-chocolatier.json) |
 | Concourse X-Ray | 179172 | [179172-concourse-x-ray.json](./179172-concourse-x-ray.json) |
 | Concrete Genie: Digital Deluxe Edition | 132227 | [132227-concrete-genie-digital-deluxe-edition.json](./132227-concrete-genie-digital-deluxe-edition.json) |
+| Concrete Spaces | 335871 | [335871-concrete-spaces.json](./335871-concrete-spaces.json) |
 | Concurrence | 166779 | [166779-concurrence.json](./166779-concurrence.json) |
 | Conde | 265424 | [265424-conde.json](./265424-conde.json) |
 | Condemned 2: Bloodshot | 6943 | [6943-condemned-2-bloodshot.json](./6943-condemned-2-bloodshot.json) |
@@ -1671,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Fantasy 2 | 42003 | [42003-cosmic-fantasy-2.json](./42003-cosmic-fantasy-2.json) |
 | Cosmic Fantasy Collection | 269306 | [269306-cosmic-fantasy-collection.json](./269306-cosmic-fantasy-collection.json) |
 | Cosmic Fantasy: Bouken Shounen Yuu | 42005 | [42005-cosmic-fantasy-bouken-shounen-yuu.json](./42005-cosmic-fantasy-bouken-shounen-yuu.json) |
+| Cosmic Invasion | 335844 | [335844-cosmic-invasion.json](./335844-cosmic-invasion.json) |
 | Cosmic League | 57108 | [57108-cosmic-league.json](./57108-cosmic-league.json) |
 | Cosmic League | 57134 | [57134-cosmic-league.json](./57134-cosmic-league.json) |
 | Cosmic Monsters 2 Enclaves Dawn | 195264 | [195264-cosmic-monsters-2-enclaves-dawn.json](./195264-cosmic-monsters-2-enclaves-dawn.json) |
@@ -1951,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Stories: CSI Episode | 215394 | [215394-criminal-stories-csi-episode.json](./215394-criminal-stories-csi-episode.json) |
 | Crimson | 343262 | [343262-crimson.json](./343262-crimson.json) |
 | Crimson Faith | 376477 | [376477-crimson-faith.json](./376477-crimson-faith.json) |
+| Crimson Frontier | 335864 | [335864-crimson-frontier.json](./335864-crimson-frontier.json) |
 | Crimson Furnace | 381626 | [381626-crimson-furnace.json](./381626-crimson-furnace.json) |
 | Crimson Horror | 374624 | [374624-crimson-horror.json](./374624-crimson-horror.json) |
 | Crimson III | 335119 | [335119-crimson-iii.json](./335119-crimson-iii.json) |
