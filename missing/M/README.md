@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel First Alliance | 300380 | [300380-marvel-first-alliance.json](./300380-marvel-first-alliance.json) |
 | Marvel Mystic Mayhem | 319970 | [319970-marvel-mystic-mayhem.json](./319970-marvel-mystic-mayhem.json) |
 | Marvel Pinball: Avengers Chronicles | 20821 | [20821-marvel-pinball-avengers-chronicles.json](./20821-marvel-pinball-avengers-chronicles.json) |
+| Marvel Rivals: Season 4 - Heart of the Dragon | 367417 | [367417-marvel-rivals-season-4-heart-of-the-dragon.json](./367417-marvel-rivals-season-4-heart-of-the-dragon.json) |
 | Marvel Super Hero Squad Online | 19663 | [19663-marvel-super-hero-squad-online.json](./19663-marvel-super-hero-squad-online.json) |
 | Marvel Ultimate Alliance 3: The Black Order - Curse of the Vampire | 122700 | [122700-marvel-ultimate-alliance-3-the-black-order-curse-of-the-vampire.json](./122700-marvel-ultimate-alliance-3-the-black-order-curse-of-the-vampire.json) |
 | Marvel Ultimate Alliance 3: The Black Order - Rise of the Phoenix | 122701 | [122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json](./122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json) |
@@ -833,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mello Haunted House | 207497 | [207497-mello-haunted-house.json](./207497-mello-haunted-house.json) |
 | Melodive | 125465 | [125465-melodive.json](./125465-melodive.json) |
 | Melody | 414285 | [414285-melody.json](./414285-melody.json) |
+| Melody before the Dawn | 367404 | [367404-melody-before-the-dawn.json](./367404-melody-before-the-dawn.json) |
 | Melody Friends | 389980 | [389980-melody-friends.json](./389980-melody-friends.json) |
 | Melody Mania | 247782 | [247782-melody-mania.json](./247782-melody-mania.json) |
 | Melody of the Light | 181909 | [181909-melody-of-the-light.json](./181909-melody-of-the-light.json) |
@@ -901,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Menace | 262664 | [262664-menace.json](./262664-menace.json) |
 | Menagerie I: Exoptable Money | 223664 | [223664-menagerie-i-exoptable-money.json](./223664-menagerie-i-exoptable-money.json) |
 | Mendel Palace | 48052 | [48052-mendel-palace.json](./48052-mendel-palace.json) |
+| Méng Chǒng Xīyóu | 367432 | [367432-meng-chong-xiyou.json](./367432-meng-chong-xiyou.json) |
 | MenheRafflesia | 131584 | [131584-menherafflesia.json](./131584-menherafflesia.json) |
 | Menherarium | 331675 | [331675-menherarium.json](./331675-menherarium.json) |
 | Menphis | 293929 | [293929-menphis.json](./293929-menphis.json) |
@@ -1597,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Forward | 295553 | [295553-monkey-forward.json](./295553-monkey-forward.json) |
 | Monkey Island 2 Special Edition: LeChuck's Revenge | 66 | [66-monkey-island-2-special-edition-lechucks-revenge.json](./66-monkey-island-2-special-edition-lechucks-revenge.json) |
 | Monkey King vs Transformers | 156160 | [156160-monkey-king-vs-transformers.json](./156160-monkey-king-vs-transformers.json) |
+| Monkey Lost | 367452 | [367452-monkey-lost.json](./367452-monkey-lost.json) |
 | Monkey Magic | 45220 | [45220-monkey-magic.json](./45220-monkey-magic.json) |
 | Monkey Split | 142450 | [142450-monkey-split.json](./142450-monkey-split.json) |
 | Monkey Wave | 383963 | [383963-monkey-wave.json](./383963-monkey-wave.json) |
@@ -1800,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morphcat Games Collection 1 | 191899 | [191899-morphcat-games-collection-1.json](./191899-morphcat-games-collection-1.json) |
 | Morphies Law | 25633 | [25633-morphies-law.json](./25633-morphies-law.json) |
 | Morrow | 220844 | [220844-morrow.json](./220844-morrow.json) |
+| Morse Shingou de Ai wo Tsutae yo. | 367396 | [367396-morse-shingou-de-ai-wo-tsutae-yo.json](./367396-morse-shingou-de-ai-wo-tsutae-yo.json) |
 | Mortadelo y Filemón II: Safari Callejero | 98975 | [98975-mortadelo-y-filemon-ii-safari-callejero.json](./98975-mortadelo-y-filemon-ii-safari-callejero.json) |
 | Mortadelo y Filemón: El Escarabajo de Cleopatra | 78038 | [78038-mortadelo-y-filemon-el-escarabajo-de-cleopatra.json](./78038-mortadelo-y-filemon-el-escarabajo-de-cleopatra.json) |
 | Mortal Cultivation Biography | 368504 | [368504-mortal-cultivation-biography.json](./368504-mortal-cultivation-biography.json) |
