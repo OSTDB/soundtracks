@@ -1059,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Raid 3D | 204070 | [204070-river-raid-3d.json](./204070-river-raid-3d.json) |
 | River Rescue | 23897 | [23897-river-rescue.json](./23897-river-rescue.json) |
 | River Runners | 384510 | [384510-river-runners.json](./384510-river-runners.json) |
+| River Towns | 324918 | [324918-river-towns.json](./324918-river-towns.json) |
 | Riverboat Casino | 209164 | [209164-riverboat-casino.json](./209164-riverboat-casino.json) |
 | RKR: Rush Kill Repeat | 217495 | [217495-rkr-rush-kill-repeat.json](./217495-rkr-rush-kill-repeat.json) |
 | Rktcr | 35863 | [35863-rktcr.json](./35863-rktcr.json) |
@@ -1541,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruins of The Titan | 365069 | [365069-ruins-of-the-titan.json](./365069-ruins-of-the-titan.json) |
 | Ruins To Fortress | 273638 | [273638-ruins-to-fortress.json](./273638-ruins-to-fortress.json) |
 | RuinsCity_VR | 30930 | [30930-ruinscity-vr.json](./30930-ruinscity-vr.json) |
+| Rule the Waves 3: Expanded Battles | 324928 | [324928-rule-the-waves-3-expanded-battles.json](./324928-rule-the-waves-3-expanded-battles.json) |
 | Ruler of the Earth | 185694 | [185694-ruler-of-the-earth.json](./185694-ruler-of-the-earth.json) |
 | Rules of the Game | 94237 | [94237-rules-of-the-game.json](./94237-rules-of-the-game.json) |
 | Rules: Motel Horizon | 392128 | [392128-rules-motel-horizon.json](./392128-rules-motel-horizon.json) |
@@ -1647,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rustic Defense | 332994 | [332994-rustic-defense.json](./332994-rustic-defense.json) |
 | Rustler | 99302 | [99302-rustler.json](./99302-rustler.json) |
 | Rusty | 45975 | [45975-rusty.json](./45975-rusty.json) |
+| Rusty Road Racing | 324924 | [324924-rusty-road-racing.json](./324924-rusty-road-racing.json) |
 | Rusty Winter | 370688 | [370688-rusty-winter.json](./370688-rusty-winter.json) |
 | Rusty's Real Deal Baseball: Bat & Switch | 258715 | [258715-rustys-real-deal-baseball-bat-and-switch.json](./258715-rustys-real-deal-baseball-bat-and-switch.json) |
 | Rusty's Real Deal Baseball: Cage Match | 258739 | [258739-rustys-real-deal-baseball-cage-match.json](./258739-rustys-real-deal-baseball-cage-match.json) |
