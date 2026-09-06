@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Corps: Soviet Corps | 124838 | [124838-panzer-corps-soviet-corps.json](./124838-panzer-corps-soviet-corps.json) |
 | Panzer Corps: US Corps | 124806 | [124806-panzer-corps-us-corps.json](./124806-panzer-corps-us-corps.json) |
 | Panzer Crew VR | 132273 | [132273-panzer-crew-vr.json](./132273-panzer-crew-vr.json) |
+| Panzer Strike | 324314 | [324314-panzer-strike.json](./324314-panzer-strike.json) |
 | Panzerfaust | 258212 | [258212-panzerfaust.json](./258212-panzerfaust.json) |
 | Papa Sangre | 7698 | [7698-papa-sangre.json](./7698-papa-sangre.json) |
 | Papa's Burgeria HD | 86695 | [86695-papas-burgeria-hd.json](./86695-papas-burgeria-hd.json) |
@@ -448,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peaky Blinders VR | 117742 | [117742-peaky-blinders-vr.json](./117742-peaky-blinders-vr.json) |
 | Peanut Butter Panic | 73277 | [73277-peanut-butter-panic.json](./73277-peanut-butter-panic.json) |
 | Pearl Rising | 314054 | [314054-pearl-rising.json](./314054-pearl-rising.json) |
+| Pebbles Quest | 324337 | [324337-pebbles-quest.json](./324337-pebbles-quest.json) |
 | Pec-Men | 335693 | [335693-pec-men.json](./335693-pec-men.json) |
 | Pedro | 52008 | [52008-pedro.json](./52008-pedro.json) |
 | Peer to Peer | 306646 | [306646-peer-to-peer.json](./306646-peer-to-peer.json) |
@@ -1121,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plant Down | 198509 | [198509-plant-down.json](./198509-plant-down.json) |
 | Plant Firefighter Simulator 2014 | 88286 | [88286-plant-firefighter-simulator-2014.json](./88286-plant-firefighter-simulator-2014.json) |
 | Plant Game | 405518 | [405518-plant-game.json](./405518-plant-game.json) |
+| Plant Therapy: Goth Pack | 324290 | [324290-plant-therapy-goth-pack.json](./324290-plant-therapy-goth-pack.json) |
 | Plant Therapy: Plush and Pots Pack | 316403 | [316403-plant-therapy-plush-and-pots-pack.json](./316403-plant-therapy-plush-and-pots-pack.json) |
 | Plantan | 110330 | [110330-plantan.json](./110330-plantan.json) |
 | Planted! | 398336 | [398336-planted.json](./398336-planted.json) |
@@ -1142,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlateUp!: Collector's Edition | 247191 | [247191-plateup-collectors-edition.json](./247191-plateup-collectors-edition.json) |
 | Platform 9: No Way Out | 324129 | [324129-platform-9-no-way-out.json](./324129-platform-9-no-way-out.json) |
 | Platform Roll | 207535 | [207535-platform-roll.json](./207535-platform-roll.json) |
+| Platform Run | 324296 | [324296-platform-run.json](./324296-platform-run.json) |
 | Platformer Execute | 163980 | [163980-platformer-execute.json](./163980-platformer-execute.json) |
 | Platformer of Death | 185121 | [185121-platformer-of-death.json](./185121-platformer-of-death.json) |
 | Platformer Saga | 336375 | [336375-platformer-saga.json](./336375-platformer-saga.json) |
@@ -1474,6 +1478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Brawlers | 310746 | [310746-portal-brawlers.json](./310746-portal-brawlers.json) |
 | Portal Defense | 207516 | [207516-portal-defense.json](./207516-portal-defense.json) |
 | Portal done Half-Life Source | 323554 | [323554-portal-done-half-life-source.json](./323554-portal-done-half-life-source.json) |
+| Portal Factory | 324335 | [324335-portal-factory.json](./324335-portal-factory.json) |
 | Portal Guardian | 389991 | [389991-portal-guardian.json](./389991-portal-guardian.json) |
 | Portal Rescue | 180809 | [180809-portal-rescue.json](./180809-portal-rescue.json) |
 | Portal Runner | 49954 | [49954-portal-runner.json](./49954-portal-runner.json) |
