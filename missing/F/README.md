@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Catcher | 105374 | [105374-fish-catcher.json](./105374-fish-catcher.json) |
 | Fish Duel | 109686 | [109686-fish-duel.json](./109686-fish-duel.json) |
 | Fish Eyes | 383959 | [383959-fish-eyes.json](./383959-fish-eyes.json) |
+| Fish Face | 353895 | [353895-fish-face.json](./353895-fish-face.json) |
 | Fish Fly Fever | 134685 | [134685-fish-fly-fever.json](./134685-fish-fly-fever.json) |
 | Fish Game | 381020 | [381020-fish-game.json](./381020-fish-game.json) |
 | Fish Kiss | 184088 | [184088-fish-kiss.json](./184088-fish-kiss.json) |
