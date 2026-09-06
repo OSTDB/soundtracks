@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bat Blitz | 248323 | [248323-bat-blitz.json](./248323-bat-blitz.json) |
 | Bat of Dead | 233252 | [233252-bat-of-dead.json](./233252-bat-of-dead.json) |
 | BataGacha! | 121031 | [121031-batagacha.json](./121031-batagacha.json) |
+| Batalla de Arquitectos | 353307 | [353307-batalla-de-arquitectos.json](./353307-batalla-de-arquitectos.json) |
 | Batch 17 | 75187 | [75187-batch-17.json](./75187-batch-17.json) |
 | Baten Kaitos Origins | 3796 | [3796-baten-kaitos-origins.json](./3796-baten-kaitos-origins.json) |
 | Bathroom Chef | 101627 | [101627-bathroom-chef.json](./101627-bathroom-chef.json) |
@@ -612,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Pong | 109736 | [109736-beach-pong.json](./109736-beach-pong.json) |
 | Beach-Head | 8526 | [8526-beach-head.json](./8526-beach-head.json) |
 | Beachcomber | 333945 | [333945-beachcomber.json](./333945-beachcomber.json) |
+| Beachside Blitz | 353315 | [353315-beachside-blitz.json](./353315-beachside-blitz.json) |
 | Beacon Pines: Collector's Edition | 218692 | [218692-beacon-pines-collectors-edition.json](./218692-beacon-pines-collectors-edition.json) |
 | Beam Invader | 255363 | [255363-beam-invader.json](./255363-beam-invader.json) |
 | Beambender | 14293 | [14293-beambender.json](./14293-beambender.json) |
