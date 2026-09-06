@@ -1131,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blanco: The Color of Adventure | 23960 | [23960-blanco-the-color-of-adventure.json](./23960-blanco-the-color-of-adventure.json) |
 | Blandia Plus | 41409 | [41409-blandia-plus.json](./41409-blandia-plus.json) |
 | Blank Page | 303266 | [303266-blank-page.json](./303266-blank-page.json) |
+| Blanket Fort | 355539 | [355539-blanket-fort.json](./355539-blanket-fort.json) |
 | BlapRacer | 71507 | [71507-blapracer.json](./71507-blapracer.json) |
 | Blaseball | 136475 | [136475-blaseball.json](./136475-blaseball.json) |
 | Blasphemous Experiments | 268723 | [268723-blasphemous-experiments.json](./268723-blasphemous-experiments.json) |
@@ -1730,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bread Kittens | 159352 | [159352-bread-kittens.json](./159352-bread-kittens.json) |
 | Breadbox | 321736 | [321736-breadbox.json](./321736-breadbox.json) |
 | Breadieval | 361683 | [361683-breadieval.json](./361683-breadieval.json) |
+| BreadKnight Adventures | 355568 | [355568-breadknight-adventures.json](./355568-breadknight-adventures.json) |
 | Break Bounds: Exile | 190741 | [190741-break-bounds-exile.json](./190741-break-bounds-exile.json) |
 | Break Free | 304334 | [304334-break-free.json](./304334-break-free.json) |
 | Break Into Zatwor | 27775 | [27775-break-into-zatwor.json](./27775-break-into-zatwor.json) |
@@ -1873,6 +1875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutalistick VR | 277017 | [277017-brutalistick-vr.json](./277017-brutalistick-vr.json) |
 | Brute Horse | 314627 | [314627-brute-horse.json](./314627-brute-horse.json) |
 | Brutus | 91950 | [91950-brutus.json](./91950-brutus.json) |
+| Bryan's Indie Collection | 355577 | [355577-bryans-indie-collection.json](./355577-bryans-indie-collection.json) |
 | BS F-Zero Grand Prix 2: Practice | 38348 | [38348-bs-f-zero-grand-prix-2-practice.json](./38348-bs-f-zero-grand-prix-2-practice.json) |
 | BS Hacker: Zero Expansions | 78052 | [78052-bs-hacker-zero-expansions.json](./78052-bs-hacker-zero-expansions.json) |
 | BS Ihatovo Monogatari | 150170 | [150170-bs-ihatovo-monogatari.json](./150170-bs-ihatovo-monogatari.json) |
