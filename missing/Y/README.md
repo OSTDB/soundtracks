@@ -163,6 +163,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005 | 68039 | [68039-yu-gi-oh-7-trials-to-glory-world-championship-tournament-2005.json](./68039-yu-gi-oh-7-trials-to-glory-world-championship-tournament-2005.json) |
 | Yu-Gi-Oh! Cross Duel | 174874 | [174874-yu-gi-oh-cross-duel.json](./174874-yu-gi-oh-cross-duel.json) |
 | Yu-Gi-Oh! Duel Links | 27093 | [27093-yu-gi-oh-duel-links.json](./27093-yu-gi-oh-duel-links.json) |
+| Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist - Jonouchi Deck | 334709 | [334709-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-jonouchi-deck.json](./334709-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-jonouchi-deck.json) |
+| Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist - Kaiba Deck | 334708 | [334708-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-kaiba-deck.json](./334708-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-kaiba-deck.json) |
 | Yu-Gi-Oh! Forbidden Memories | 4108 | [4108-yu-gi-oh-forbidden-memories.json](./4108-yu-gi-oh-forbidden-memories.json) |
 | Yu-Gi-Oh! GX Card Almanac | 328252 | [328252-yu-gi-oh-gx-card-almanac.json](./328252-yu-gi-oh-gx-card-almanac.json) |
 | Yu-Gi-Oh! GX Tag Force 2 | 21945 | [21945-yu-gi-oh-gx-tag-force-2.json](./21945-yu-gi-oh-gx-tag-force-2.json) |
