@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Capcom Collection | 246090 | [246090-the-capcom-collection.json](./246090-the-capcom-collection.json) |
 | The Caped Crusader | 278715 | [278715-the-caped-crusader.json](./278715-the-caped-crusader.json) |
 | The Capitol Cheese Agreement | 307316 | [307316-the-capitol-cheese-agreement.json](./307316-the-capitol-cheese-agreement.json) |
+| The Captive | 362814 | [362814-the-captive.json](./362814-the-captive.json) |
 | The Cartographer's Tale | 103509 | [103509-the-cartographers-tale.json](./103509-the-cartographers-tale.json) |
 | The Case of the Cautious Condor | 70968 | [70968-the-case-of-the-cautious-condor.json](./70968-the-case-of-the-cautious-condor.json) |
 | The Case of the Serialized Killer | 209720 | [209720-the-case-of-the-serialized-killer.json](./209720-the-case-of-the-serialized-killer.json) |
@@ -2257,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Watch From the Walls | 181930 | [181930-they-watch-from-the-walls.json](./181930-they-watch-from-the-walls.json) |
 | They Will Come | 389421 | [389421-they-will-come.json](./389421-they-will-come.json) |
 | Thick Air | 31392 | [31392-thick-air.json](./31392-thick-air.json) |
+| Thief | 362857 | [362857-thief.json](./362857-thief.json) |
 | Thief City | 221424 | [221424-thief-city.json](./221424-thief-city.json) |
 | Thief of Thieves: Season One | 95116 | [95116-thief-of-thieves-season-one.json](./95116-thief-of-thieves-season-one.json) |
 | Thief Puzzle: Complete Edition | 315849 | [315849-thief-puzzle-complete-edition.json](./315849-thief-puzzle-complete-edition.json) |
@@ -2378,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiāntiān Tuōlājī | 96041 | [96041-tiantian-tuolaji.json](./96041-tiantian-tuolaji.json) |
 | Tiānxiān Biàn | 156131 | [156131-tianxian-bian.json](./156131-tianxian-bian.json) |
 | Tiara Concerto | 86102 | [86102-tiara-concerto.json](./86102-tiara-concerto.json) |
+| Tic Tac | 362822 | [362822-tic-tac.json](./362822-tic-tac.json) |
 | Tic Tac Math Algebra | 109020 | [109020-tic-tac-math-algebra.json](./109020-tic-tac-math-algebra.json) |
 | Tic Tac Toe World | 387339 | [387339-tic-tac-toe-world.json](./387339-tic-tac-toe-world.json) |
 | Tic Tac Toe World Championship HD | 87291 | [87291-tic-tac-toe-world-championship-hd.json](./87291-tic-tac-toe-world-championship-hd.json) |
@@ -2887,6 +2890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Many Kittens | 269839 | [269839-too-many-kittens.json](./269839-too-many-kittens.json) |
 | Too Many Me | 11011 | [11011-too-many-me.json](./11011-too-many-me.json) |
 | Took: The Immortal Hero | 329365 | [329365-took-the-immortal-hero.json](./329365-took-the-immortal-hero.json) |
+| Toolbox Tycoon | 362826 | [362826-toolbox-tycoon.json](./362826-toolbox-tycoon.json) |
 | Tools Up! Garden Party: Season Pass | 202935 | [202935-tools-up-garden-party-season-pass.json](./202935-tools-up-garden-party-season-pass.json) |
 | Toon Puzzle Quest | 108480 | [108480-toon-puzzle-quest.json](./108480-toon-puzzle-quest.json) |
 | Toontown: The Grindworks | 333930 | [333930-toontown-the-grindworks.json](./333930-toontown-the-grindworks.json) |
@@ -3071,6 +3075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towerful Defense: A Rogue TD - The First Expansion | 385554 | [385554-towerful-defense-a-rogue-td-the-first-expansion.json](./385554-towerful-defense-a-rogue-td-the-first-expansion.json) |
 | Towering Rescue | 47263 | [47263-towering-rescue.json](./47263-towering-rescue.json) |
 | Towers Heritage | 372465 | [372465-towers-heritage.json](./372465-towers-heritage.json) |
+| Towers of Mergethorne | 362818 | [362818-towers-of-mergethorne.json](./362818-towers-of-mergethorne.json) |
 | Towers of Scale | 381624 | [381624-towers-of-scale.json](./381624-towers-of-scale.json) |
 | Towers of Twilight | 53835 | [53835-towers-of-twilight.json](./53835-towers-of-twilight.json) |
 | Towers That Don't Like Each Other | 51997 | [51997-towers-that-dont-like-each-other.json](./51997-towers-that-dont-like-each-other.json) |
@@ -3590,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turf Memories | 37808 | [37808-turf-memories.json](./37808-turf-memories.json) |
 | Turis Station | 244501 | [244501-turis-station.json](./244501-turis-station.json) |
 | Turkey Fling | 261542 | [261542-turkey-fling.json](./261542-turkey-fling.json) |
+| Turkmenchay | 362858 | [362858-turkmenchay.json](./362858-turkmenchay.json) |
 | Turma da Mônica em O Resgate | 246679 | [246679-turma-da-monica-em-o-resgate.json](./246679-turma-da-monica-em-o-resgate.json) |
 | Turma do Arrepio: Grand Prix | 249456 | [249456-turma-do-arrepio-grand-prix.json](./249456-turma-do-arrepio-grand-prix.json) |
 | Turmoil | 19438 | [19438-turmoil.json](./19438-turmoil.json) |
