@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night In 2D | 370147 | [370147-one-night-in-2d.json](./370147-one-night-in-2d.json) |
 | One Night on Halloween | 153418 | [153418-one-night-on-halloween.json](./153418-one-night-on-halloween.json) |
 | One Night You're Crazy | 61645 | [61645-one-night-youre-crazy.json](./61645-one-night-youre-crazy.json) |
+| One Night: Burlesque - Amazing Edition | 313142 | [313142-one-night-burlesque-amazing-edition.json](./313142-one-night-burlesque-amazing-edition.json) |
 | One Night: Burlesque - Magnificent Edition | 315857 | [315857-one-night-burlesque-magnificent-edition.json](./315857-one-night-burlesque-magnificent-edition.json) |
 | One Night: Burlesque - Superb Edition | 317246 | [317246-one-night-burlesque-superb-edition.json](./317246-one-night-burlesque-superb-edition.json) |
 | One of Them | 306088 | [306088-one-of-them.json](./306088-one-of-them.json) |
@@ -447,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onironautilus: Oppression | 398352 | [398352-onironautilus-oppression.json](./398352-onironautilus-oppression.json) |
 | Onironautilus: Uncolored | 398351 | [398351-onironautilus-uncolored.json](./398351-onironautilus-uncolored.json) |
 | Oniwaki Village | 331881 | [331881-oniwaki-village.json](./331881-oniwaki-village.json) |
+| OnlineCTR | 313093 | [313093-onlinectr.json](./313093-onlinectr.json) |
 | Only Arrows | 323513 | [323513-only-arrows.json](./323513-only-arrows.json) |
 | Only Ban! | 258699 | [258699-only-ban.json](./258699-only-ban.json) |
 | Only Climber 2 | 315279 | [315279-only-climber-2.json](./315279-only-climber-2.json) |
