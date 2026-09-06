@@ -171,12 +171,31 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Business Tycoon: Build Simulator | 197933 | [197933-idle-business-tycoon-build-simulator.json](./197933-idle-business-tycoon-build-simulator.json) |
 | Idle Campaign | 210851 | [210851-idle-campaign.json](./210851-idle-campaign.json) |
 | Idle Champions of the Forgotten Realms | 43178 | [43178-idle-champions-of-the-forgotten-realms.json](./43178-idle-champions-of-the-forgotten-realms.json) |
+| Idle Champions: Agent Vin Ursa Skin & Feat Pack | 313702 | [313702-idle-champions-agent-vin-ursa-skin-and-feat-pack.json](./313702-idle-champions-agent-vin-ursa-skin-and-feat-pack.json) |
+| Idle Champions: Alvina the Tressym Familiar Pack | 313709 | [313709-idle-champions-alvina-the-tressym-familiar-pack.json](./313709-idle-champions-alvina-the-tressym-familiar-pack.json) |
+| Idle Champions: Avatar of Azuth Familiar Pack | 313696 | [313696-idle-champions-avatar-of-azuth-familiar-pack.json](./313696-idle-champions-avatar-of-azuth-familiar-pack.json) |
+| Idle Champions: Chibi Birdsong Skin & Feat Pack | 313708 | [313708-idle-champions-chibi-birdsong-skin-and-feat-pack.json](./313708-idle-champions-chibi-birdsong-skin-and-feat-pack.json) |
+| Idle Champions: Chibi Shadowheart Skin & Feat Pack | 313697 | [313697-idle-champions-chibi-shadowheart-skin-and-feat-pack.json](./313697-idle-champions-chibi-shadowheart-skin-and-feat-pack.json) |
+| Idle Champions: Detective Deekin Skin & Feat Pack | 313705 | [313705-idle-champions-detective-deekin-skin-and-feat-pack.json](./313705-idle-champions-detective-deekin-skin-and-feat-pack.json) |
+| Idle Champions: Detective Umberto Theme Pack | 313706 | [313706-idle-champions-detective-umberto-theme-pack.json](./313706-idle-champions-detective-umberto-theme-pack.json) |
+| Idle Champions: Dr. Buzz Watson the Bee Familiar Pack | 313700 | [313700-idle-champions-dr-buzz-watson-the-bee-familiar-pack.json](./313700-idle-champions-dr-buzz-watson-the-bee-familiar-pack.json) |
+| Idle Champions: Infiltrator Nahara Skin & Feat Pack | 313704 | [313704-idle-champions-infiltrator-nahara-skin-and-feat-pack.json](./313704-idle-champions-infiltrator-nahara-skin-and-feat-pack.json) |
+| Idle Champions: Masquerade Ball Ellywick Theme Pack | 313694 | [313694-idle-champions-masquerade-ball-ellywick-theme-pack.json](./313694-idle-champions-masquerade-ball-ellywick-theme-pack.json) |
+| Idle Champions: Masquerade Ball Lae'zel Skin & Feat Pack | 313680 | [313680-idle-champions-masquerade-ball-laezel-skin-and-feat-pack.json](./313680-idle-champions-masquerade-ball-laezel-skin-and-feat-pack.json) |
+| Idle Champions: Masquerade Ball Rust Theme Pack | 313695 | [313695-idle-champions-masquerade-ball-rust-theme-pack.json](./313695-idle-champions-masquerade-ball-rust-theme-pack.json) |
 | Idle Champions: Ms. Squiggles the Octopus Familiar Pack | 306079 | [306079-idle-champions-ms-squiggles-the-octopus-familiar-pack.json](./306079-idle-champions-ms-squiggles-the-octopus-familiar-pack.json) |
 | Idle Champions: Mythic Freely Skin & Feat Pack | 255982 | [255982-idle-champions-mythic-freely-skin-and-feat-pack.json](./255982-idle-champions-mythic-freely-skin-and-feat-pack.json) |
+| Idle Champions: Sherlock Combs the Bee Familiar Pack | 313698 | [313698-idle-champions-sherlock-combs-the-bee-familiar-pack.json](./313698-idle-champions-sherlock-combs-the-bee-familiar-pack.json) |
 | Idle Champions: Solarya the Ki-rin Familiar Pack | 306075 | [306075-idle-champions-solarya-the-ki-rin-familiar-pack.json](./306075-idle-champions-solarya-the-ki-rin-familiar-pack.json) |
+| Idle Champions: Spymaster Aeon Theme Pack | 313707 | [313707-idle-champions-spymaster-aeon-theme-pack.json](./313707-idle-champions-spymaster-aeon-theme-pack.json) |
+| Idle Champions: Triton Glitch Nayeli Skin & Feat Pack | 313699 | [313699-idle-champions-triton-glitch-nayeli-skin-and-feat-pack.json](./313699-idle-champions-triton-glitch-nayeli-skin-and-feat-pack.json) |
+| Idle Champions: Undercover Sgt. Knox Skin & Feat Pack | 313703 | [313703-idle-champions-undercover-sgt-knox-skin-and-feat-pack.json](./313703-idle-champions-undercover-sgt-knox-skin-and-feat-pack.json) |
 | Idle Champions: Wyrm Slayer BBEG Skin & Feat Pack | 306077 | [306077-idle-champions-wyrm-slayer-bbeg-skin-and-feat-pack.json](./306077-idle-champions-wyrm-slayer-bbeg-skin-and-feat-pack.json) |
 | Idle Champions: Wyrm Slayer Ezmerelda Theme Pack | 306078 | [306078-idle-champions-wyrm-slayer-ezmerelda-theme-pack.json](./306078-idle-champions-wyrm-slayer-ezmerelda-theme-pack.json) |
+| Idle Champions: Wyrm Slayer Korth Skin & Feat Pack | 313711 | [313711-idle-champions-wyrm-slayer-korth-skin-and-feat-pack.json](./313711-idle-champions-wyrm-slayer-korth-skin-and-feat-pack.json) |
+| Idle Champions: Wyrm Slayer Nova Skin & Feat Pack | 313710 | [313710-idle-champions-wyrm-slayer-nova-skin-and-feat-pack.json](./313710-idle-champions-wyrm-slayer-nova-skin-and-feat-pack.json) |
 | Idle Champions: Wyrm Slayer Selise Skin & Feat Pack | 306076 | [306076-idle-champions-wyrm-slayer-selise-skin-and-feat-pack.json](./306076-idle-champions-wyrm-slayer-selise-skin-and-feat-pack.json) |
+| Idle Champions: Yuan-ti Glitch Havilar Skin & Feat Pack | 313701 | [313701-idle-champions-yuan-ti-glitch-havilar-skin-and-feat-pack.json](./313701-idle-champions-yuan-ti-glitch-havilar-skin-and-feat-pack.json) |
 | Idle Cinema Tycoon | 369567 | [369567-idle-cinema-tycoon.json](./369567-idle-cinema-tycoon.json) |
 | Idle Colors | 402893 | [402893-idle-colors.json](./402893-idle-colors.json) |
 | Idle Cutter | 247213 | [247213-idle-cutter.json](./247213-idle-cutter.json) |
