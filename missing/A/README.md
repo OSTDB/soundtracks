@@ -1719,6 +1719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arelite Core: Horse Armor | 156140 | [156140-arelite-core-horse-armor.json](./156140-arelite-core-horse-armor.json) |
 | Arena | 326072 | [326072-arena.json](./326072-arena.json) |
 | Arena Breakout: Infinite – Season 1 | 324717 | [324717-arena-breakout-infinite-season-1.json](./324717-arena-breakout-infinite-season-1.json) |
+| Arena Breakout: Season 6 - Operation Blackout | 320181 | [320181-arena-breakout-season-6-operation-blackout.json](./320181-arena-breakout-season-6-operation-blackout.json) |
 | Arena Brutal | 197913 | [197913-arena-brutal.json](./197913-arena-brutal.json) |
 | Arena Constellation | 295012 | [295012-arena-constellation.json](./295012-arena-constellation.json) |
 | Arena Football | 5731 | [5731-arena-football.json](./5731-arena-football.json) |
