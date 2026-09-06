@@ -611,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master the Sky | 257693 | [257693-master-the-sky.json](./257693-master-the-sky.json) |
 | Masterchef Cakes Edition | 217507 | [217507-masterchef-cakes-edition.json](./217507-masterchef-cakes-edition.json) |
 | Masterchef Chinese Food Edition | 195273 | [195273-masterchef-chinese-food-edition.json](./195273-masterchef-chinese-food-edition.json) |
+| Masterpiece | 351033 | [351033-masterpiece.json](./351033-masterpiece.json) |
 | MasterQ | 207536 | [207536-masterq.json](./207536-masterq.json) |
 | Masters of Chaos | 268757 | [268757-masters-of-chaos.json](./268757-masters-of-chaos.json) |
 | Masters of Puzzle: Autumn Fuji | 151213 | [151213-masters-of-puzzle-autumn-fuji.json](./151213-masters-of-puzzle-autumn-fuji.json) |
@@ -730,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazewar | 381593 | [381593-mazewar.json](./381593-mazewar.json) |
 | Mazy | 385576 | [385576-mazy.json](./385576-mazy.json) |
 | Mbembe Radio | 300988 | [300988-mbembe-radio.json](./300988-mbembe-radio.json) |
+| MC Eternal 2 | 350988 | [350988-mc-eternal-2.json](./350988-mc-eternal-2.json) |
 | MC Groovz Dance Craze | 50581 | [50581-mc-groovz-dance-craze.json](./50581-mc-groovz-dance-craze.json) |
 | MC Lars 2: Brotherhood | 75188 | [75188-mc-lars-2-brotherhood.json](./75188-mc-lars-2-brotherhood.json) |
 | McDonald's Fairies: Lily | 254793 | [254793-mcdonalds-fairies-lily.json](./254793-mcdonalds-fairies-lily.json) |
@@ -1157,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mia's Math Adventure: Just in Time! | 144378 | [144378-mias-math-adventure-just-in-time.json](./144378-mias-math-adventure-just-in-time.json) |
 | Miami Horizon 2077 | 238735 | [238735-miami-horizon-2077.json](./238735-miami-horizon-2077.json) |
 | Miami Shark | 234942 | [234942-miami-shark.json](./234942-miami-shark.json) |
+| MiaouVSRG | 351047 | [351047-miaouvsrg.json](./351047-miaouvsrg.json) |
 | Miazma or the Devil's Stone | 99012 | [99012-miazma-or-the-devils-stone.json](./99012-miazma-or-the-devils-stone.json) |
 | Michael Jackson's Moonwalker | 262508 | [262508-michael-jacksons-moonwalker.json](./262508-michael-jacksons-moonwalker.json) |
 | Michael Owen's WLS 2000 | 3407 | [3407-michael-owens-wls-2000.json](./3407-michael-owens-wls-2000.json) |
@@ -1711,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Bananza | 146349 | [146349-monkey-bananza.json](./146349-monkey-bananza.json) |
 | Monkey Doomsday | 190192 | [190192-monkey-doomsday.json](./190192-monkey-doomsday.json) |
 | Monkey Forward | 295553 | [295553-monkey-forward.json](./295553-monkey-forward.json) |
+| Monkey Gang | 351007 | [351007-monkey-gang.json](./351007-monkey-gang.json) |
 | Monkey Island 2 Special Edition: LeChuck's Revenge | 66 | [66-monkey-island-2-special-edition-lechucks-revenge.json](./66-monkey-island-2-special-edition-lechucks-revenge.json) |
 | Monkey King vs Transformers | 156160 | [156160-monkey-king-vs-transformers.json](./156160-monkey-king-vs-transformers.json) |
 | Monkey Knife Fight | 354407 | [354407-monkey-knife-fight.json](./354407-monkey-knife-fight.json) |
@@ -1909,6 +1913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Invaders! | 273100 | [273100-more-invaders.json](./273100-more-invaders.json) |
 | More Than Words | 361720 | [361720-more-than-words.json](./361720-more-than-words.json) |
 | More Zombies | 234905 | [234905-more-zombies.json](./234905-more-zombies.json) |
+| More/Less | 351044 | [351044-more-less.json](./351044-more-less.json) |
 | Morendar: Goblin Slayer | 50758 | [50758-morendar-goblin-slayer.json](./50758-morendar-goblin-slayer.json) |
 | Morgan lives in a Rocket House in VR | 74442 | [74442-morgan-lives-in-a-rocket-house-in-vr.json](./74442-morgan-lives-in-a-rocket-house-in-vr.json) |
 | Mori Adventures | 407351 | [407351-mori-adventures.json](./407351-mori-adventures.json) |
@@ -2216,6 +2221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MushroomJump | 311273 | [311273-mushroomjump.json](./311273-mushroomjump.json) |
 | Mushy Score | 257694 | [257694-mushy-score.json](./257694-mushy-score.json) |
 | Music Club Manager | 126616 | [126616-music-club-manager.json](./126616-music-club-manager.json) |
+| Music Drive: Chase the Beat | 351004 | [351004-music-drive-chase-the-beat.json](./351004-music-drive-chase-the-beat.json) |
 | Music GunGun! | 64963 | [64963-music-gungun.json](./64963-music-gungun.json) |
 | Music Intro Pro 68K | 265972 | [265972-music-intro-pro-68k.json](./265972-music-intro-pro-68k.json) |
 | Music Piano 7 | 352191 | [352191-music-piano-7.json](./352191-music-piano-7.json) |
