@@ -312,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Star Arthur III: Terra 4001 | 62769 | [62769-legend-of-star-arthur-iii-terra-4001.json](./62769-legend-of-star-arthur-iii-terra-4001.json) |
 | Legend of Stars | 295013 | [295013-legend-of-stars.json](./295013-legend-of-stars.json) |
 | Legend of the Five Rings | 80587 | [80587-legend-of-the-five-rings.json](./80587-legend-of-the-five-rings.json) |
+| Legend of the Moon: Those Who Crossed | 351640 | [351640-legend-of-the-moon-those-who-crossed.json](./351640-legend-of-the-moon-those-who-crossed.json) |
 | Legend of the Tetrarchs | 117738 | [117738-legend-of-the-tetrarchs.json](./117738-legend-of-the-tetrarchs.json) |
 | Legend of the Time Sword: Episode 1 | 303814 | [303814-legend-of-the-time-sword-episode-1.json](./303814-legend-of-the-time-sword-episode-1.json) |
 | Legend of the Wonderfish | 383961 | [383961-legend-of-the-wonderfish.json](./383961-legend-of-the-wonderfish.json) |
@@ -973,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Girl | 22474 | [22474-love-girl.json](./22474-love-girl.json) |
 | Love Hentai: Sexy Body | 109714 | [109714-love-hentai-sexy-body.json](./109714-love-hentai-sexy-body.json) |
 | Love Hina Advance ~Shukufuku no Kane wa Naru kana~ | 49416 | [49416-love-hina-advance-shukufuku-no-kane-wa-naru-kana.json](./49416-love-hina-advance-shukufuku-no-kane-wa-naru-kana.json) |
+| Love Hotel Manager | 351602 | [351602-love-hotel-manager.json](./351602-love-hotel-manager.json) |
 | Love Hotel Simulator | 410920 | [410920-love-hotel-simulator.json](./410920-love-hotel-simulator.json) |
 | Love Hues! | 134674 | [134674-love-hues.json](./134674-love-hues.json) |
 | Love in the Glen | 33083 | [33083-love-in-the-glen.json](./33083-love-in-the-glen.json) |
