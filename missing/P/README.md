@@ -1197,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Don't Understand Me | 394861 | [394861-please-dont-understand-me.json](./394861-please-dont-understand-me.json) |
 | Please Follow | 134681 | [134681-please-follow.json](./134681-please-follow.json) |
 | Please Ignore The Anomalies | 412277 | [412277-please-ignore-the-anomalies.json](./412277-please-ignore-the-anomalies.json) |
+| Please Smile | 318974 | [318974-please-smile.json](./318974-please-smile.json) |
 | Please Stop Crying | 291230 | [291230-please-stop-crying.json](./291230-please-stop-crying.json) |
 | Please Stop Crying: Terrible Twos | 337110 | [337110-please-stop-crying-terrible-twos.json](./337110-please-stop-crying-terrible-twos.json) |
 | Pleasuredrome | 325246 | [325246-pleasuredrome.json](./325246-pleasuredrome.json) |
@@ -1869,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Shiver Wing | 212452 | [212452-project-shiver-wing.json](./212452-project-shiver-wing.json) |
 | Project Shore | 103516 | [103516-project-shore.json](./103516-project-shore.json) |
 | Project SJHG | 320519 | [320519-project-sjhg.json](./320519-project-sjhg.json) |
+| Project Slippi | 319004 | [319004-project-slippi.json](./319004-project-slippi.json) |
 | Project Solaris | 325449 | [325449-project-solaris.json](./325449-project-solaris.json) |
 | Project Spaghetti | 60002 | [60002-project-spaghetti.json](./60002-project-spaghetti.json) |
 | Project Speed 2 | 188681 | [188681-project-speed-2.json](./188681-project-speed-2.json) |
