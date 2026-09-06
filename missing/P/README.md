@@ -1265,10 +1265,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon 2000 Adventure Game | 254167 | [254167-pokemon-2000-adventure-game.json](./254167-pokemon-2000-adventure-game.json) |
 | Pokémon Altair | 129807 | [129807-pokemon-altair.json](./129807-pokemon-altair.json) |
 | Pokémon Altar | 232685 | [232685-pokemon-altar.json](./232685-pokemon-altar.json) |
+| Pokémon Amethyst | 323762 | [323762-pokemon-amethyst.json](./323762-pokemon-amethyst.json) |
 | Pokémon Ashen Frost | 307289 | [307289-pokemon-ashen-frost.json](./307289-pokemon-ashen-frost.json) |
 | Pokémon AshGray Version | 143756 | [143756-pokemon-ashgray-version.json](./143756-pokemon-ashgray-version.json) |
 | Pokémon Awakening | 341913 | [341913-pokemon-awakening.json](./341913-pokemon-awakening.json) |
 | Pokémon Battle e Card: Freezing Ray | 220853 | [220853-pokemon-battle-e-card-freezing-ray.json](./220853-pokemon-battle-e-card-freezing-ray.json) |
+| Pokémon Battle Online | 323760 | [323760-pokemon-battle-online.json](./323760-pokemon-battle-online.json) |
 | Pokémon Black 2 Kaizo | 230510 | [230510-pokemon-black-2-kaizo.json](./230510-pokemon-black-2-kaizo.json) |
 | Pokémon Blaze Black 2 | 137113 | [137113-pokemon-blaze-black-2.json](./137113-pokemon-blaze-black-2.json) |
 | Pokémon Blazed Glazed | 129808 | [129808-pokemon-blazed-glazed.json](./129808-pokemon-blazed-glazed.json) |
