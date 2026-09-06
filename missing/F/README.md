@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fancy World - Earth of Crisis | 39686 | [39686-fancy-world-earth-of-crisis.json](./39686-fancy-world-earth-of-crisis.json) |
 | Fancy! | 237069 | [237069-fancy.json](./237069-fancy.json) |
 | Fangs: The Saga of Wolf Blood | 221965 | [221965-fangs-the-saga-of-wolf-blood.json](./221965-fangs-the-saga-of-wolf-blood.json) |
+| Fantamon | 348794 | [348794-fantamon.json](./348794-fantamon.json) |
 | Fantasia Sango 1 | 188656 | [188656-fantasia-sango-1.json](./188656-fantasia-sango-1.json) |
 | Fantasia Sango 3 | 188658 | [188658-fantasia-sango-3.json](./188658-fantasia-sango-3.json) |
 | Fantasia Sango 4 | 188657 | [188657-fantasia-sango-4.json](./188657-fantasia-sango-4.json) |
@@ -342,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate Dealer | 378160 | [378160-fate-dealer.json](./378160-fate-dealer.json) |
 | Fate of the Elder Gods | 125454 | [125454-fate-of-the-elder-gods.json](./125454-fate-of-the-elder-gods.json) |
 | Fate of the Seventh Scholar | 366260 | [366260-fate-of-the-seventh-scholar.json](./366260-fate-of-the-seventh-scholar.json) |
+| Fate's Reflection Tthe Case of Detective Kotomu | 348793 | [348793-fates-reflection-tthe-case-of-detective-kotomu.json](./348793-fates-reflection-tthe-case-of-detective-kotomu.json) |
 | Fate/Extella Link: Digital Deluxe Edition | 119067 | [119067-fate-extella-link-digital-deluxe-edition.json](./119067-fate-extella-link-digital-deluxe-edition.json) |
 | Fate/Extella: Celebration Box | 140007 | [140007-fate-extella-celebration-box.json](./140007-fate-extella-celebration-box.json) |
 | Fate/Grand Order Lostbelt No. 1: Anastasia | 414302 | [414302-fate-grand-order-lostbelt-no-1-anastasia.json](./414302-fate-grand-order-lostbelt-no-1-anastasia.json) |
@@ -422,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feminize Me! | 185683 | [185683-feminize-me.json](./185683-feminize-me.json) |
 | Fencing Girl | 186863 | [186863-fencing-girl.json](./186863-fencing-girl.json) |
 | Fency Krabby | 185146 | [185146-fency-krabby.json](./185146-fency-krabby.json) |
+| Feng Shui: Meowjong | 348796 | [348796-feng-shui-meowjong.json](./348796-feng-shui-meowjong.json) |
 | Féngmó zhī Shí | 156692 | [156692-fengmo-zhi-shi.json](./156692-fengmo-zhi-shi.json) |
 | Fengse Huanxiang 5: Chi Yue Zhanzheng | 68690 | [68690-fengse-huanxiang-5-chi-yue-zhanzheng.json](./68690-fengse-huanxiang-5-chi-yue-zhanzheng.json) |
 | Fēngshén Yīngjié Zhuán | 93061 | [93061-fengshen-yingjie-zhuan.json](./93061-fengshen-yingjie-zhuan.json) |
@@ -543,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Bravely | 29899 | [29899-final-bravely.json](./29899-final-bravely.json) |
 | Final Days | 33101 | [33101-final-days.json](./33101-final-days.json) |
 | Final Doom | 8191 | [8191-final-doom.json](./8191-final-doom.json) |
+| Final Echo | 348802 | [348802-final-echo.json](./348802-final-echo.json) |
 | Final Factory | 236524 | [236524-final-factory.json](./236524-final-factory.json) |
 | Final Failure | 93629 | [93629-final-failure.json](./93629-final-failure.json) |
 | Final Fantasy II | 145817 | [145817-final-fantasy-ii.json](./145817-final-fantasy-ii.json) |
@@ -587,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Vendetta | 191756 | [191756-final-vendetta.json](./191756-final-vendetta.json) |
 | Final War | 368510 | [368510-final-war.json](./368510-final-war.json) |
 | Final World | 90646 | [90646-final-world.json](./90646-final-world.json) |
+| Finalloop | 348779 | [348779-finalloop.json](./348779-finalloop.json) |
 | Finch | 304902 | [304902-finch.json](./304902-finch.json) |
 | Finch & Archie | 306095 | [306095-finch-and-archie.json](./306095-finch-and-archie.json) |
 | Find All 5: Vikings | 317026 | [317026-find-all-5-vikings.json](./317026-find-all-5-vikings.json) |
@@ -1016,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foes.io | 75135 | [75135-foes-io.json](./75135-foes-io.json) |
 | FOF: Fear Of Failure | 372496 | [372496-fof-fear-of-failure.json](./372496-fof-fear-of-failure.json) |
 | Fog | 201837 | [201837-fog.json](./201837-fog.json) |
+| Fold the World | 348800 | [348800-fold-the-world.json](./348800-fold-the-world.json) |
 | Folie Fatale: Kousaku Fanaticism | 364513 | [364513-folie-fatale-kousaku-fanaticism.json](./364513-folie-fatale-kousaku-fanaticism.json) |
 | Folk Song | 317010 | [317010-folk-song.json](./317010-folk-song.json) |
 | Follow Dalian | 377070 | [377070-follow-dalian.json](./377070-follow-dalian.json) |
@@ -1258,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragment Hunters | 213009 | [213009-fragment-hunters.json](./213009-fragment-hunters.json) |
 | Fragment of Humanity | 224246 | [224246-fragment-of-humanity.json](./224246-fragment-of-humanity.json) |
 | fragment:AM | 218146 | [218146-fragment-am.json](./218146-fragment-am.json) |
+| Fragmented 6th | 348772 | [348772-fragmented-6th.json](./348772-fragmented-6th.json) |
 | Fragmented Mind | 169477 | [169477-fragmented-mind.json](./169477-fragmented-mind.json) |
 | Fragments | 381037 | [381037-fragments.json](./381037-fragments.json) |
 | Fragments of Fear | 406703 | [406703-fragments-of-fear.json](./406703-fragments-of-fear.json) |
