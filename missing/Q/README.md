@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quern: Undying Thoughts | 26223 | [26223-quern-undying-thoughts.json](./26223-quern-undying-thoughts.json) |
 | Quest 64 "French Vanilla" | 248305 | [248305-quest-64-french-vanilla.json](./248305-quest-64-french-vanilla.json) |
 | Quest Adventure | 133444 | [133444-quest-adventure.json](./133444-quest-adventure.json) |
+| Quest for Cathay Kingdom Mah Jong | 367446 | [367446-quest-for-cathay-kingdom-mah-jong.json](./367446-quest-for-cathay-kingdom-mah-jong.json) |
 | Quest for Jesus | 307898 | [307898-quest-for-jesus.json](./307898-quest-for-jesus.json) |
 | Quest for King's Underpants | 173809 | [173809-quest-for-kings-underpants.json](./173809-quest-for-kings-underpants.json) |
 | Quest for the Crystal Skulls | 268756 | [268756-quest-for-the-crystal-skulls.json](./268756-quest-for-the-crystal-skulls.json) |
