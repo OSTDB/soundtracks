@@ -1370,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Skies | 63858 | [63858-blue-skies.json](./63858-blue-skies.json) |
 | Blue Thunder | 296678 | [296678-blue-thunder.json](./296678-blue-thunder.json) |
 | BlueAge | 312890 | [312890-blueage.json](./312890-blueage.json) |
+| Blueberry Weather | 353869 | [353869-blueberry-weather.json](./353869-blueberry-weather.json) |
 | Blues Brothers 2000 | 3425 | [3425-blues-brothers-2000.json](./3425-blues-brothers-2000.json) |
 | BlueTricks | 237087 | [237087-bluetricks.json](./237087-bluetricks.json) |
 | Bluey Wackadoo Watch | 230557 | [230557-bluey-wackadoo-watch.json](./230557-bluey-wackadoo-watch.json) |
@@ -1516,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookers: Underground Chapter | 104085 | [104085-bookers-underground-chapter.json](./104085-bookers-underground-chapter.json) |
 | Bookey Manor | 333915 | [333915-bookey-manor.json](./333915-bookey-manor.json) |
 | Bookstore Dream | 62950 | [62950-bookstore-dream.json](./62950-bookstore-dream.json) |
+| Bookworm Adventures Deluxe | 353868 | [353868-bookworm-adventures-deluxe.json](./353868-bookworm-adventures-deluxe.json) |
 | Boolean | 129217 | [129217-boolean.json](./129217-boolean.json) |
 | Boom Blaster | 100891 | [100891-boom-blaster.json](./100891-boom-blaster.json) |
 | Boom Buddy | 368491 | [368491-boom-buddy.json](./368491-boom-buddy.json) |
@@ -1695,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brand! New! Friends! | 372477 | [372477-brand-new-friends.json](./372477-brand-new-friends.json) |
 | Brandins Buttons | 151176 | [151176-brandins-buttons.json](./151176-brandins-buttons.json) |
 | Branmarker 2 | 64977 | [64977-branmarker-2.json](./64977-branmarker-2.json) |
+| Bras | 353918 | [353918-bras.json](./353918-bras.json) |
 | BrasFoot 2003 | 249466 | [249466-brasfoot-2003.json](./249466-brasfoot-2003.json) |
 | Brasília Defense | 404817 | [404817-brasilia-defense.json](./404817-brasilia-defense.json) |
 | Brass Necessity | 292324 | [292324-brass-necessity.json](./292324-brass-necessity.json) |
