@@ -1087,6 +1087,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei III: Nocturne | 336392 | [336392-shin-megami-tensei-iii-nocturne.json](./336392-shin-megami-tensei-iii-nocturne.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster | 135913 | [135913-shin-megami-tensei-iii-nocturne-hd-remaster.json](./135913-shin-megami-tensei-iii-nocturne-hd-remaster.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster: Chronicle Pack | 336554 | [336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json](./336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json) |
+| Shin Megami Tensei V: Vengeance - Mitama Dance of EXP | 315481 | [315481-shin-megami-tensei-v-vengeance-mitama-dance-of-exp.json](./315481-shin-megami-tensei-v-vengeance-mitama-dance-of-exp.json) |
+| Shin Megami Tensei V: Vengeance - Mitama Dance of Miracles | 315483 | [315483-shin-megami-tensei-v-vengeance-mitama-dance-of-miracles.json](./315483-shin-megami-tensei-v-vengeance-mitama-dance-of-miracles.json) |
+| Shin Megami Tensei V: Vengeance - Mitama Dance of Wealth | 315482 | [315482-shin-megami-tensei-v-vengeance-mitama-dance-of-wealth.json](./315482-shin-megami-tensei-v-vengeance-mitama-dance-of-wealth.json) |
 | Shin Megami Tensei Vertex | 142491 | [142491-shin-megami-tensei-vertex.json](./142491-shin-megami-tensei-vertex.json) |
 | Shin Megami Tensei: 20XX Devil's Colosseum | 137685 | [137685-shin-megami-tensei-20xx-devils-colosseum.json](./137685-shin-megami-tensei-20xx-devils-colosseum.json) |
 | Shin Megami Tensei: Digital Devil Saga | 18227 | [18227-shin-megami-tensei-digital-devil-saga.json](./18227-shin-megami-tensei-digital-devil-saga.json) |
@@ -2122,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Someday You'll Return: Director's Cut | 241044 | [241044-someday-youll-return-directors-cut.json](./241044-someday-youll-return-directors-cut.json) |
 | Someone's Here | 410921 | [410921-someones-here.json](./410921-someones-here.json) |
 | Something Dark Beyond The Light | 353871 | [353871-something-dark-beyond-the-light.json](./353871-something-dark-beyond-the-light.json) |
+| Something Is Wrong With My World Map | 315488 | [315488-something-is-wrong-with-my-world-map.json](./315488-something-is-wrong-with-my-world-map.json) |
 | Something Meaningful | 381613 | [381613-something-meaningful.json](./381613-something-meaningful.json) |
 | Something Took Her | 335247 | [335247-something-took-her.json](./335247-something-took-her.json) |
 | Sometimes: Success Requires Sacrifice | 35712 | [35712-sometimes-success-requires-sacrifice.json](./35712-sometimes-success-requires-sacrifice.json) |
@@ -3220,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StartPlay | 339669 | [339669-startplay.json](./339669-startplay.json) |
 | Startron | 333022 | [333022-startron.json](./333022-startron.json) |
 | Starvania: Tales Of The Past | 372498 | [372498-starvania-tales-of-the-past.json](./372498-starvania-tales-of-the-past.json) |
+| Starway Ateez | 315487 | [315487-starway-ateez.json](./315487-starway-ateez.json) |
 | StarWheels | 119041 | [119041-starwheels.json](./119041-starwheels.json) |
 | Starwisp Hyperdrive | 217023 | [217023-starwisp-hyperdrive.json](./217023-starwisp-hyperdrive.json) |
 | Starzzle | 382218 | [382218-starzzle.json](./382218-starzzle.json) |
