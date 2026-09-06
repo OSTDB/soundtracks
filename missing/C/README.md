@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catsbridge Stories: Detective in Time | 116360 | [116360-catsbridge-stories-detective-in-time.json](./116360-catsbridge-stories-detective-in-time.json) |
 | Cattle Call: Hollywood Talent Manager | 110525 | [110525-cattle-call-hollywood-talent-manager.json](./110525-cattle-call-hollywood-talent-manager.json) |
 | Cattle Hyperdrive | 247745 | [247745-cattle-hyperdrive.json](./247745-cattle-hyperdrive.json) |
+| Cattlieb | 349851 | [349851-cattlieb.json](./349851-cattlieb.json) |
 | Catty Battle | 129816 | [129816-catty-battle.json](./129816-catty-battle.json) |
 | Catwoman | 67337 | [67337-catwoman.json](./67337-catwoman.json) |
 | Cauldron Caution | 309653 | [309653-cauldron-caution.json](./309653-cauldron-caution.json) |
@@ -885,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Yarn 2 | 278699 | [278699-christmas-yarn-2.json](./278699-christmas-yarn-2.json) |
 | Christmasdius | 63887 | [63887-christmasdius.json](./63887-christmasdius.json) |
 | Christminster | 60021 | [60021-christminster.json](./60021-christminster.json) |
+| Chroam | 349858 | [349858-chroam.json](./349858-chroam.json) |
 | Chroma | 311799 | [311799-chroma.json](./311799-chroma.json) |
 | Chroma Zero | 319356 | [319356-chroma-zero.json](./319356-chroma-zero.json) |
 | Chromarena | 188666 | [188666-chromarena.json](./188666-chromarena.json) |
@@ -1380,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come to Jesus | 179726 | [179726-come-to-jesus.json](./179726-come-to-jesus.json) |
 | Comer | 94225 | [94225-comer.json](./94225-comer.json) |
 | Comet Tail: Polygon Panic | 369010 | [369010-comet-tail-polygon-panic.json](./369010-comet-tail-polygon-panic.json) |
+| Comet Tycoon | 349881 | [349881-comet-tycoon.json](./349881-comet-tycoon.json) |
 | Comfy Girl | 360608 | [360608-comfy-girl.json](./360608-comfy-girl.json) |
 | Coming Out Simulator 2014 | 60030 | [60030-coming-out-simulator-2014.json](./60030-coming-out-simulator-2014.json) |
 | Command & Conquer: Generals | 649 | [649-command-and-conquer-generals.json](./649-command-and-conquer-generals.json) |
@@ -1703,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Cards | 209616 | [209616-cozy-cards.json](./209616-cozy-cards.json) |
 | Cozy Cat Cafe | 399630 | [399630-cozy-cat-cafe.json](./399630-cozy-cat-cafe.json) |
 | Cozy Christmas Home Jigsaw Puzzles | 228114 | [228114-cozy-christmas-home-jigsaw-puzzles.json](./228114-cozy-christmas-home-jigsaw-puzzles.json) |
+| Cozy Crunch | 349833 | [349833-cozy-crunch.json](./349833-cozy-crunch.json) |
 | Cozy Days | 209604 | [209604-cozy-days.json](./209604-cozy-days.json) |
 | Cozy Grove + New Neighbears Bundle | 199635 | [199635-cozy-grove-new-neighbears-bundle.json](./199635-cozy-grove-new-neighbears-bundle.json) |
 | Cozy Harvest | 376458 | [376458-cozy-harvest.json](./376458-cozy-harvest.json) |
@@ -2068,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Crush | 96570 | [96570-cube-crush.json](./96570-cube-crush.json) |
 | Cube Cube! | 234324 | [234324-cube-cube.json](./234324-cube-cube.json) |
 | Cube Fight | 213613 | [213613-cube-fight.json](./213613-cube-fight.json) |
+| Cube Foundry | 349876 | [349876-cube-foundry.json](./349876-cube-foundry.json) |
 | Cube Jump 3D | 152404 | [152404-cube-jump-3d.json](./152404-cube-jump-3d.json) |
 | Cube Jump Game | 402937 | [402937-cube-jump-game.json](./402937-cube-jump-game.json) |
 | Cube Lab | 339086 | [339086-cube-lab.json](./339086-cube-lab.json) |
