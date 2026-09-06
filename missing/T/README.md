@@ -1587,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Xanadu | 73824 | [73824-the-legend-of-xanadu.json](./73824-the-legend-of-xanadu.json) |
 | The Legend of Zelda: Breath of the Wild - Limited Edition | 50598 | [50598-the-legend-of-zelda-breath-of-the-wild-limited-edition.json](./50598-the-legend-of-zelda-breath-of-the-wild-limited-edition.json) |
 | The Legend of Zelda: Child Quest | 346598 | [346598-the-legend-of-zelda-child-quest.json](./346598-the-legend-of-zelda-child-quest.json) |
+| The Legend of Zelda: Echoes of Aurelia | 323202 | [323202-the-legend-of-zelda-echoes-of-aurelia.json](./323202-the-legend-of-zelda-echoes-of-aurelia.json) |
 | The Legend of Zelda: Four Swords | 163572 | [163572-the-legend-of-zelda-four-swords.json](./163572-the-legend-of-zelda-four-swords.json) |
 | The Legend of Zelda: Goddess of Wisdom | 275308 | [275308-the-legend-of-zelda-goddess-of-wisdom.json](./275308-the-legend-of-zelda-goddess-of-wisdom.json) |
 | The Legend of Zelda: Journey of a Day | 269848 | [269848-the-legend-of-zelda-journey-of-a-day.json](./269848-the-legend-of-zelda-journey-of-a-day.json) |
@@ -2580,6 +2581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throbax TD | 35952 | [35952-throbax-td.json](./35952-throbax-td.json) |
 | Throne and Liberty | 117294 | [117294-throne-and-liberty.json](./117294-throne-and-liberty.json) |
 | Throne of Magic | 108502 | [108502-throne-of-magic.json](./108502-throne-of-magic.json) |
+| Throne of Valoria | 323194 | [323194-throne-of-valoria.json](./323194-throne-of-valoria.json) |
 | Thronebreaker: The Witcher Tales | 107300 | [107300-thronebreaker-the-witcher-tales.json](./107300-thronebreaker-the-witcher-tales.json) |
 | Through | 94765 | [94765-through.json](./94765-through.json) |
 | Through Space | 414297 | [414297-through-space.json](./414297-through-space.json) |
