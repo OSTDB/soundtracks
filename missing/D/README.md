@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Despair | 268774 | [268774-despair.json](./268774-despair.json) |
 | Despair 3 | 57684 | [57684-despair-3.json](./57684-despair-3.json) |
 | Desperabis | 121707 | [121707-desperabis.json](./121707-desperabis.json) |
+| Desperate Place | 335290 | [335290-desperate-place.json](./335290-desperate-place.json) |
 | Despicable Me: The Game | 19652 | [19652-despicable-me-the-game.json](./19652-despicable-me-the-game.json) |
 | Desstroke | 207505 | [207505-desstroke.json](./207505-desstroke.json) |
 | Destination Bangkok | 214756 | [214756-destination-bangkok.json](./214756-destination-bangkok.json) |
@@ -1239,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doblons.io | 126023 | [126023-doblons-io.json](./126023-doblons-io.json) |
 | DoC: God Mode Edition | 107162 | [107162-doc-god-mode-edition.json](./107162-doc-god-mode-edition.json) |
 | Doce Fim: Sweetend Placebo | 391576 | [391576-doce-fim-sweetend-placebo.json](./391576-doce-fim-sweetend-placebo.json) |
+| Doces & Calabouços: Caos no Reino do Doce | 335244 | [335244-doces-and-calaboucos-caos-no-reino-do-doce.json](./335244-doces-and-calaboucos-caos-no-reino-do-doce.json) |
 | Docked: DLC 2 | 398957 | [398957-docked-dlc-2.json](./398957-docked-dlc-2.json) |
 | Docked: New Horizons Pack | 398958 | [398958-docked-new-horizons-pack.json](./398958-docked-new-horizons-pack.json) |
 | Docking Donuts2 in 1 | 233225 | [233225-docking-donuts2-in-1.json](./233225-docking-donuts2-in-1.json) |
@@ -2106,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunk Tower | 242801 | [242801-dunk-tower.json](./242801-dunk-tower.json) |
 | Dunnigan's Trail | 154009 | [154009-dunnigans-trail.json](./154009-dunnigans-trail.json) |
 | Duo Defenders | 172157 | [172157-duo-defenders.json](./172157-duo-defenders.json) |
+| Duo Quest | 335274 | [335274-duo-quest.json](./335274-duo-quest.json) |
 | Duotrigordle | 228718 | [228718-duotrigordle.json](./228718-duotrigordle.json) |
 | DuoXBall | 233242 | [233242-duoxball.json](./233242-duoxball.json) |
 | DuoZuplixo | 369025 | [369025-duozuplixo.json](./369025-duozuplixo.json) |
