@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy the Castle | 349843 | [349843-destroy-the-castle.json](./349843-destroy-the-castle.json) |
 | Destroy the Cubes | 156133 | [156133-destroy-the-cubes.json](./156133-destroy-the-cubes.json) |
 | Destroy the Hexons | 156129 | [156129-destroy-the-hexons.json](./156129-destroy-the-hexons.json) |
+| Destroy Your Home | 333531 | [333531-destroy-your-home.json](./333531-destroy-your-home.json) |
 | Destruction Derby 64 | 10686 | [10686-destruction-derby-64.json](./10686-destruction-derby-64.json) |
 | Destruction of Planets | 193498 | [193498-destruction-of-planets.json](./193498-destruction-of-planets.json) |
 | Detail Hunter | 322982 | [322982-detail-hunter.json](./322982-detail-hunter.json) |
@@ -1065,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diorama Builder | 161403 | [161403-diorama-builder.json](./161403-diorama-builder.json) |
 | Diorama Builder: Medieval Castle | 298321 | [298321-diorama-builder-medieval-castle.json](./298321-diorama-builder-medieval-castle.json) |
 | Diorama Maker | 291779 | [291779-diorama-maker.json](./291779-diorama-maker.json) |
+| Dioramos | 333556 | [333556-dioramos.json](./333556-dioramos.json) |
 | Diplomacy is Not an Option: Fog of War | 415090 | [415090-diplomacy-is-not-an-option-fog-of-war.json](./415090-diplomacy-is-not-an-option-fog-of-war.json) |
 | Diptych: The Great War | 199135 | [199135-diptych-the-great-war.json](./199135-diptych-the-great-war.json) |
 | DirectionDungeon! | 179200 | [179200-directiondungeon.json](./179200-directiondungeon.json) |
