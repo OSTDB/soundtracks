@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanteidan X | 356073 | [356073-tanteidan-x.json](./356073-tanteidan-x.json) |
 | Tantrum | 274220 | [274220-tantrum.json](./274220-tantrum.json) |
 | Tantrum 2 | 274221 | [274221-tantrum-2.json](./274221-tantrum-2.json) |
+| Tanuki: Pon's Summer | 317817 | [317817-tanuki-pons-summer.json](./317817-tanuki-pons-summer.json) |
 | Táolí Dìqiú | 158203 | [158203-taoli-diqiu.json](./158203-taoli-diqiu.json) |
 | Tap a Jam | 73290 | [73290-tap-a-jam.json](./73290-tap-a-jam.json) |
 | Tap Away | 230515 | [230515-tap-away.json](./230515-tap-away.json) |
@@ -996,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cure | 184647 | [184647-the-cure.json](./184647-the-cure.json) |
 | The Curiosity | 311801 | [311801-the-curiosity.json](./311801-the-curiosity.json) |
 | The Curse of Aristotle | 251241 | [251241-the-curse-of-aristotle.json](./251241-the-curse-of-aristotle.json) |
+| The Curse of Azriel | 317821 | [317821-the-curse-of-azriel.json](./317821-the-curse-of-azriel.json) |
 | The Curse of Mount Madre | 328280 | [328280-the-curse-of-mount-madre.json](./328280-the-curse-of-mount-madre.json) |
 | The Curse of Ra | 127340 | [127340-the-curse-of-ra.json](./127340-the-curse-of-ra.json) |
 | The Curse of the Egyptian Pyramid: Remaster Edition | 278698 | [278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json](./278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json) |
@@ -1481,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XIV | 18814 | [18814-the-king-of-fighters-xiv.json](./18814-the-king-of-fighters-xiv.json) |
 | The King of Fighters XIV: Classic Iori Costume | 322961 | [322961-the-king-of-fighters-xiv-classic-iori-costume.json](./322961-the-king-of-fighters-xiv-classic-iori-costume.json) |
 | The King Of FIghters XIV: Nightmare Geese Costume | 338177 | [338177-the-king-of-fighters-xiv-nightmare-geese-costume.json](./338177-the-king-of-fighters-xiv-nightmare-geese-costume.json) |
+| The King of Fighters XV: Characters Mature & Vice | 317839 | [317839-the-king-of-fighters-xv-characters-mature-and-vice.json](./317839-the-king-of-fighters-xv-characters-mature-and-vice.json) |
 | The King of Fighters XV: Team Garou | 195801 | [195801-the-king-of-fighters-xv-team-garou.json](./195801-the-king-of-fighters-xv-team-garou.json) |
 | The King of Fighters: Maximum Impact - Maniax | 47322 | [47322-the-king-of-fighters-maximum-impact-maniax.json](./47322-the-king-of-fighters-maximum-impact-maniax.json) |
 | The King's Bird | 11840 | [11840-the-kings-bird.json](./11840-the-kings-bird.json) |
@@ -1900,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pirates of Dark Water | 342059 | [342059-the-pirates-of-dark-water.json](./342059-the-pirates-of-dark-water.json) |
 | The Pixel has You | 327198 | [327198-the-pixel-has-you.json](./327198-the-pixel-has-you.json) |
 | The Plague | 26707 | [26707-the-plague.json](./26707-the-plague.json) |
+| The Planet Crafter: Planet Humble | 317867 | [317867-the-planet-crafter-planet-humble.json](./317867-the-planet-crafter-planet-humble.json) |
 | The Play's the Thing | 154017 | [154017-the-plays-the-thing.json](./154017-the-plays-the-thing.json) |
 | The Plug | 175436 | [175436-the-plug.json](./175436-the-plug.json) |
 | The Plus Point | 89950 | [89950-the-plus-point.json](./89950-the-plus-point.json) |
@@ -2480,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Sundarpatan Nepal Hunting Reserve | 305517 | [305517-thehunter-call-of-the-wild-sundarpatan-nepal-hunting-reserve.json](./305517-thehunter-call-of-the-wild-sundarpatan-nepal-hunting-reserve.json) |
 | Them or Us | 216995 | [216995-them-or-us.json](./216995-them-or-us.json) |
 | Them: The Summoning | 10957 | [10957-them-the-summoning.json](./10957-them-the-summoning.json) |
+| TheMahjong | 317875 | [317875-themahjong.json](./317875-themahjong.json) |
 | Themis | 327856 | [327856-themis.json](./327856-themis.json) |
 | TheMist | 116335 | [116335-themist.json](./116335-themist.json) |
 | Theomachiae | 172159 | [172159-theomachiae.json](./172159-theomachiae.json) |
@@ -2576,6 +2581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thousands Layered Blade: Reforged | 327168 | [327168-thousands-layered-blade-reforged.json](./327168-thousands-layered-blade-reforged.json) |
 | Thrasher | 279618 | [279618-thrasher.json](./279618-thrasher.json) |
 | Threadline | 396214 | [396214-threadline.json](./396214-threadline.json) |
+| Threads of Time | 317820 | [317820-threads-of-time.json](./317820-threads-of-time.json) |
 | Threads of War | 296691 | [296691-threads-of-war.json](./296691-threads-of-war.json) |
 | Three Bosses | 174323 | [174323-three-bosses.json](./174323-three-bosses.json) |
 | Three Color Cannon | 360001 | [360001-three-color-cannon.json](./360001-three-color-cannon.json) |
