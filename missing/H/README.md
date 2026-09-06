@@ -687,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexuma | 265422 | [265422-hexuma.json](./265422-hexuma.json) |
 | Hexuma: Das Auge des Kal | 84271 | [84271-hexuma-das-auge-des-kal.json](./84271-hexuma-das-auge-des-kal.json) |
 | Hexvade | 75903 | [75903-hexvade.json](./75903-hexvade.json) |
+| HexWind | 365690 | [365690-hexwind.json](./365690-hexwind.json) |
 | Hexxagon - Board Game | 147988 | [147988-hexxagon-board-game.json](./147988-hexxagon-board-game.json) |
 | Hexxen: Hunters | 262676 | [262676-hexxen-hunters.json](./262676-hexxen-hunters.json) |
 | Hey Bobby! | 331697 | [331697-hey-bobby.json](./331697-hey-bobby.json) |
@@ -916,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Bequest | 386714 | [386714-hollow-bequest.json](./386714-hollow-bequest.json) |
 | Hollow Halls | 29905 | [29905-hollow-halls.json](./29905-hollow-halls.json) |
 | Hollow Hills National Park | 402287 | [402287-hollow-hills-national-park.json](./402287-hollow-hills-national-park.json) |
+| Hollow Knight | 365702 | [365702-hollow-knight.json](./365702-hollow-knight.json) |
 | Hollow Stem | 297792 | [297792-hollow-stem.json](./297792-hollow-stem.json) |
 | Hollow Treats | 378207 | [378207-hollow-treats.json](./378207-hollow-treats.json) |
 | Hollow World: Dark Knight | 231055 | [231055-hollow-world-dark-knight.json](./231055-hollow-world-dark-knight.json) |
@@ -1201,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HSX: Hypersonic Xtreme | 43656 | [43656-hsx-hypersonic-xtreme.json](./43656-hsx-hypersonic-xtreme.json) |
 | htoL#NiQ: The Firefly Diary - Limited Edition | 89918 | [89918-htol-niq-the-firefly-diary-limited-edition.json](./89918-htol-niq-the-firefly-diary-limited-edition.json) |
 | Huanu Poems | 339119 | [339119-huanu-poems.json](./339119-huanu-poems.json) |
+| Hudson Hawk | 365689 | [365689-hudson-hawk.json](./365689-hudson-hawk.json) |
 | Hudson Selection Vol. 2: Star Soldier | 43207 | [43207-hudson-selection-vol-2-star-soldier.json](./43207-hudson-selection-vol-2-star-soldier.json) |
 | Hudson Selection Vol. 3: PC Genjin - Pithecanthropus Computerurus | 50580 | [50580-hudson-selection-vol-3-pc-genjin-pithecanthropus-computerurus.json](./50580-hudson-selection-vol-3-pc-genjin-pithecanthropus-computerurus.json) |
 | Hudson Selection Vol. 4: Takahashi Meijin no Bouken-jima | 50574 | [50574-hudson-selection-vol-4-takahashi-meijin-no-bouken-jima.json](./50574-hudson-selection-vol-4-takahashi-meijin-no-bouken-jima.json) |
@@ -1266,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter X: Begin | 171067 | [171067-hunter-x-begin.json](./171067-hunter-x-begin.json) |
 | Hunter: Avendzer Dragon | 145646 | [145646-hunter-avendzer-dragon.json](./145646-hunter-avendzer-dragon.json) |
 | Hunter's Arena: Revolution | 367978 | [367978-hunters-arena-revolution.json](./367978-hunters-arena-revolution.json) |
+| Hunter's Seal | 365681 | [365681-hunters-seal.json](./365681-hunters-seal.json) |
 | Hunter's Soul | 122435 | [122435-hunters-soul.json](./122435-hunters-soul.json) |
 | Hunters All Star Battle | 137657 | [137657-hunters-all-star-battle.json](./137657-hunters-all-star-battle.json) |
 | Hunters Gate | 110327 | [110327-hunters-gate.json](./110327-hunters-gate.json) |
