@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Must Die | 33112 | [33112-who-must-die.json](./33112-who-must-die.json) |
 | Who Stole Me? | 247168 | [247168-who-stole-me.json](./247168-who-stole-me.json) |
 | Who Wants to Be a Millionaire: 2012 Edition | 65596 | [65596-who-wants-to-be-a-millionaire-2012-edition.json](./65596-who-wants-to-be-a-millionaire-2012-edition.json) |
+| Who Wants to Be A Millionaire: Microsoft Games DLC Pack | 318439 | [318439-who-wants-to-be-a-millionaire-microsoft-games-dlc-pack.json](./318439-who-wants-to-be-a-millionaire-microsoft-games-dlc-pack.json) |
 | Who Wants to Be a Millionaire: Party Edition | 44631 | [44631-who-wants-to-be-a-millionaire-party-edition.json](./44631-who-wants-to-be-a-millionaire-party-edition.json) |
 | Who Wants to Be A Millionaire: The Smurfs DLC Pack | 293389 | [293389-who-wants-to-be-a-millionaire-the-smurfs-dlc-pack.json](./293389-who-wants-to-be-a-millionaire-the-smurfs-dlc-pack.json) |
 | Who Wants to Be a Millionaire: US Movies 70s DLC Pack | 293390 | [293390-who-wants-to-be-a-millionaire-us-movies-70s-dlc-pack.json](./293390-who-wants-to-be-a-millionaire-us-movies-70s-dlc-pack.json) |
@@ -768,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Sequencer | 185698 | [185698-witch-sequencer.json](./185698-witch-sequencer.json) |
 | Witch Soup | 176490 | [176490-witch-soup.json](./176490-witch-soup.json) |
 | Witch Stone | 165665 | [165665-witch-stone.json](./165665-witch-stone.json) |
+| Witch You Want | 318407 | [318407-witch-you-want.json](./318407-witch-you-want.json) |
 | Witch Zoe: Hentai Shuffle | 367969 | [367969-witch-zoe-hentai-shuffle.json](./367969-witch-zoe-hentai-shuffle.json) |
 | Witch: A Special Delivery | 178071 | [178071-witch-a-special-delivery.json](./178071-witch-a-special-delivery.json) |
 | Witch's | 228075 | [228075-witchs.json](./228075-witchs.json) |
