@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masterchef Chinese Food Edition | 195273 | [195273-masterchef-chinese-food-edition.json](./195273-masterchef-chinese-food-edition.json) |
 | Masterpiece | 351033 | [351033-masterpiece.json](./351033-masterpiece.json) |
 | MasterQ | 207536 | [207536-masterq.json](./207536-masterq.json) |
+| Masters of Cards | 322585 | [322585-masters-of-cards.json](./322585-masters-of-cards.json) |
 | Masters of Chaos | 268757 | [268757-masters-of-chaos.json](./268757-masters-of-chaos.json) |
 | Masters of Puzzle: Autumn Fuji | 151213 | [151213-masters-of-puzzle-autumn-fuji.json](./151213-masters-of-puzzle-autumn-fuji.json) |
 | Masters of Puzzle: Childhood | 151216 | [151216-masters-of-puzzle-childhood.json](./151216-masters-of-puzzle-childhood.json) |
@@ -764,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of the Gamja | 211920 | [211920-maze-of-the-gamja.json](./211920-maze-of-the-gamja.json) |
 | Maze of the Mini-taur | 185126 | [185126-maze-of-the-mini-taur.json](./185126-maze-of-the-mini-taur.json) |
 | Maze Runner | 72108 | [72108-maze-runner.json](./72108-maze-runner.json) |
+| Maze: Path of Light | 322572 | [322572-maze-path-of-light.json](./322572-maze-path-of-light.json) |
 | MazeBrew | 242771 | [242771-mazebrew.json](./242771-mazebrew.json) |
 | Mazemerizzz II | 389997 | [389997-mazemerizzz-ii.json](./389997-mazemerizzz-ii.json) |
 | MazeQuest 2 | 109641 | [109641-mazequest-2.json](./109641-mazequest-2.json) |
@@ -1013,6 +1015,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MemGame | 128641 | [128641-memgame.json](./128641-memgame.json) |
 | Memo Blox | 304373 | [304373-memo-blox.json](./304373-memo-blox.json) |
 | Memoirium | 365108 | [365108-memoirium.json](./365108-memoirium.json) |
+| Memoirs of Murder: Behind the Scenes | 322580 | [322580-memoirs-of-murder-behind-the-scenes.json](./322580-memoirs-of-murder-behind-the-scenes.json) |
+| Memoirs of Murder: Resorting to Revenge | 322579 | [322579-memoirs-of-murder-resorting-to-revenge.json](./322579-memoirs-of-murder-resorting-to-revenge.json) |
+| Memoirs of Murder: Welcome to Hidden Pines | 322578 | [322578-memoirs-of-murder-welcome-to-hidden-pines.json](./322578-memoirs-of-murder-welcome-to-hidden-pines.json) |
 | Memoria VR | 311793 | [311793-memoria-vr.json](./311793-memoria-vr.json) |
 | Memorial Series: Sunsoft vol. 1 | 79347 | [79347-memorial-series-sunsoft-vol-1.json](./79347-memorial-series-sunsoft-vol-1.json) |
 | Memoriedit | 373521 | [373521-memoriedit.json](./373521-memoriedit.json) |
@@ -1169,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metalstorm | 196031 | [196031-metalstorm.json](./196031-metalstorm.json) |
 | Metamorph | 345519 | [345519-metamorph.json](./345519-metamorph.json) |
 | MetaMorphic Rippers | 223165 | [223165-metamorphic-rippers.json](./223165-metamorphic-rippers.json) |
+| Metanoia | 322564 | [322564-metanoia.json](./322564-metanoia.json) |
 | Metathrone | 173771 | [173771-metathrone.json](./173771-metathrone.json) |
 | Metawork: Hotel Simulator | 243395 | [243395-metawork-hotel-simulator.json](./243395-metawork-hotel-simulator.json) |
 | Metempsychosis | 104052 | [104052-metempsychosis.json](./104052-metempsychosis.json) |
@@ -1185,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteorite's Journey | 55146 | [55146-meteorites-journey.json](./55146-meteorites-journey.json) |
 | Meteors | 13737 | [13737-meteors.json](./13737-meteors.json) |
 | Method of Entry | 329369 | [329369-method-of-entry.json](./329369-method-of-entry.json) |
+| Methods 4: The Best Detective | 322596 | [322596-methods-4-the-best-detective.json](./322596-methods-4-the-best-detective.json) |
 | Meticulous | 237085 | [237085-meticulous.json](./237085-meticulous.json) |
 | Metin2 | 3119 | [3119-metin2.json](./3119-metin2.json) |
 | Metori | 107864 | [107864-metori.json](./107864-metori.json) |
@@ -1517,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Drift Car | 337460 | [337460-mini-drift-car.json](./337460-mini-drift-car.json) |
 | Mini Drift Car: All Cars Key | 337461 | [337461-mini-drift-car-all-cars-key.json](./337461-mini-drift-car-all-cars-key.json) |
 | Mini Dungeon | 326041 | [326041-mini-dungeon.json](./326041-mini-dungeon.json) |
+| Mini Football | 322563 | [322563-mini-football.json](./322563-mini-football.json) |
 | Mini Football Cup | 334101 | [334101-mini-football-cup.json](./334101-mini-football-cup.json) |
 | Mini Golf 3D | 117753 | [117753-mini-golf-3d.json](./117753-mini-golf-3d.json) |
 | Mini Golf Championship | 204705 | [204705-mini-golf-championship.json](./204705-mini-golf-championship.json) |
