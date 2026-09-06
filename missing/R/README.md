@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raze 2070 | 151193 | [151193-raze-2070.json](./151193-raze-2070.json) |
 | Raze: Dungeon Arena | 52010 | [52010-raze-dungeon-arena.json](./52010-raze-dungeon-arena.json) |
 | Razed Earth | 192423 | [192423-razed-earth.json](./192423-razed-earth.json) |
+| RazePact | 356644 | [356644-razepact.json](./356644-razepact.json) |
 | RC Airplane Challenge | 158711 | [158711-rc-airplane-challenge.json](./158711-rc-airplane-challenge.json) |
 | RC SIM 2022 | 369554 | [369554-rc-sim-2022.json](./369554-rc-sim-2022.json) |
 | RC Toy Machines | 100173 | [100173-rc-toy-machines.json](./100173-rc-toy-machines.json) |
@@ -1100,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Bottom | 304339 | [304339-rock-bottom.json](./304339-rock-bottom.json) |
 | Rock Defender | 26650 | [26650-rock-defender.json](./26650-rock-defender.json) |
 | Rock Flipper | 332808 | [332808-rock-flipper.json](./332808-rock-flipper.json) |
+| Rock Gunner | 356621 | [356621-rock-gunner.json](./356621-rock-gunner.json) |
 | Rock of Destruction! | 104114 | [104114-rock-of-destruction.json](./104114-rock-of-destruction.json) |
 | Rock Paper Clicker | 191856 | [191856-rock-paper-clicker.json](./191856-rock-paper-clicker.json) |
 | Rock Paper Scissors: The Roguelike Puzzle Game | 410207 | [410207-rock-paper-scissors-the-roguelike-puzzle-game.json](./410207-rock-paper-scissors-the-roguelike-puzzle-game.json) |
