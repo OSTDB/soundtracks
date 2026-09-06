@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up | 210281 | [210281-up.json](./210281-up.json) |
 | Up | 228708 | [228708-up.json](./228708-up.json) |
 | Up All Night: Rumination | 225305 | [225305-up-all-night-rumination.json](./225305-up-all-night-rumination.json) |
+| Up or Fall | 343243 | [343243-up-or-fall.json](./343243-up-or-fall.json) |
 | Up or Out | 105317 | [105317-up-or-out.json](./105317-up-or-out.json) |
 | Up Periscope! | 37160 | [37160-up-periscope.json](./37160-up-periscope.json) |
 | Up to Gods | 275351 | [275351-up-to-gods.json](./275351-up-to-gods.json) |
@@ -401,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Trial Pocket | 213642 | [213642-urban-trial-pocket.json](./213642-urban-trial-pocket.json) |
 | Urban Trial Tricky: Deluxe Edition | 152345 | [152345-urban-trial-tricky-deluxe-edition.json](./152345-urban-trial-tricky-deluxe-edition.json) |
 | Urbance Clans Card Battle! | 107879 | [107879-urbance-clans-card-battle.json](./107879-urbance-clans-card-battle.json) |
+| Urgent Message | 343232 | [343232-urgent-message.json](./343232-urgent-message.json) |
 | URLIRL | 394837 | [394837-urlirl.json](./394837-urlirl.json) |
 | Urtuk: The Desolation | 98073 | [98073-urtuk-the-desolation.json](./98073-urtuk-the-desolation.json) |
 | Urusei Yatsura: Endless Summer | 72697 | [72697-urusei-yatsura-endless-summer.json](./72697-urusei-yatsura-endless-summer.json) |
