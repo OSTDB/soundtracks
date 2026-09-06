@@ -1354,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimate | 410917 | [410917-minimate.json](./410917-minimate.json) |
 | Minimo | 401502 | [401502-minimo.json](./401502-minimo.json) |
 | Minimum Nanonic | 70401 | [70401-minimum-nanonic.json](./70401-minimum-nanonic.json) |
+| Mining Merchant | 364518 | [364518-mining-merchant.json](./364518-mining-merchant.json) |
 | Mining Wizards | 379861 | [379861-mining-wizards.json](./379861-mining-wizards.json) |
 | MinMe | 241050 | [241050-minme.json](./241050-minme.json) |
 | Minna de Nanpure | 55939 | [55939-minna-de-nanpure.json](./55939-minna-de-nanpure.json) |
@@ -2164,6 +2165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Eggs | 255999 | [255999-my-eggs.json](./255999-my-eggs.json) |
 | My Empire | 149590 | [149590-my-empire.json](./149590-my-empire.json) |
 | My Escort Company | 215916 | [215916-my-escort-company.json](./215916-my-escort-company.json) |
+| My Everyday Life at Insect Academy | 364529 | [364529-my-everyday-life-at-insect-academy.json](./364529-my-everyday-life-at-insect-academy.json) |
 | My evil magician boss suddenly loves me?! | 385053 | [385053-my-evil-magician-boss-suddenly-loves-me.json](./385053-my-evil-magician-boss-suddenly-loves-me.json) |
 | My Eyes on You | 57694 | [57694-my-eyes-on-you.json](./57694-my-eyes-on-you.json) |
 | My Fake Boyfriend | 299457 | [299457-my-fake-boyfriend.json](./299457-my-fake-boyfriend.json) |
@@ -2345,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth | 12186 | [12186-myth.json](./12186-myth.json) |
 | Myth | 252374 | [252374-myth.json](./252374-myth.json) |
 | Myth & Mirage | 310727 | [310727-myth-and-mirage.json](./310727-myth-and-mirage.json) |
+| Myth Finders | 364510 | [364510-myth-finders.json](./364510-myth-finders.json) |
 | Myth II: Soulblighter | 799 | [799-myth-ii-soulblighter.json](./799-myth-ii-soulblighter.json) |
 | Myth of Empires | 143628 | [143628-myth-of-empires.json](./143628-myth-of-empires.json) |
 | Myth of Empires: Musical Instruments Pack | 293413 | [293413-myth-of-empires-musical-instruments-pack.json](./293413-myth-of-empires-musical-instruments-pack.json) |
