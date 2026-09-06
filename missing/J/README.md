@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack's House | 88314 | [88314-jacks-house.json](./88314-jacks-house.json) |
 | Jackal | 212707 | [212707-jackal.json](./212707-jackal.json) |
 | Jackpoison | 361689 | [361689-jackpoison.json](./361689-jackpoison.json) |
+| Jackpot Slots | 323151 | [323151-jackpot-slots.json](./323151-jackpot-slots.json) |
 | Jackroid | 367967 | [367967-jackroid.json](./367967-jackroid.json) |
 | Jacksmith: Weapons and Warriors | 337075 | [337075-jacksmith-weapons-and-warriors.json](./337075-jacksmith-weapons-and-warriors.json) |
 | Jacob Jazz's Tamarindo's Freaking Dinner | 378811 | [378811-jacob-jazzs-tamarindos-freaking-dinner.json](./378811-jacob-jazzs-tamarindos-freaking-dinner.json) |
