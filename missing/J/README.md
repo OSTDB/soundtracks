@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack of Clubs | 319394 | [319394-jack-of-clubs.json](./319394-jack-of-clubs.json) |
 | Jack Saves Easter | 193479 | [193479-jack-saves-easter.json](./193479-jack-saves-easter.json) |
 | Jack the Ripper | 169989 | [169989-jack-the-ripper.json](./169989-jack-the-ripper.json) |
+| Jack the Ripper: Hunter Clan | 346568 | [346568-jack-the-ripper-hunter-clan.json](./346568-jack-the-ripper-hunter-clan.json) |
 | Jack's House | 88314 | [88314-jacks-house.json](./88314-jacks-house.json) |
 | Jackal | 212707 | [212707-jackal.json](./212707-jackal.json) |
 | Jackpoison | 361689 | [361689-jackpoison.json](./361689-jackpoison.json) |
