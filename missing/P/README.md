@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachio-kun Game Gallery | 86125 | [86125-pachio-kun-game-gallery.json](./86125-pachio-kun-game-gallery.json) |
 | Pacific Warships | 254748 | [254748-pacific-warships.json](./254748-pacific-warships.json) |
 | Pacifish | 203545 | [203545-pacifish.json](./203545-pacifish.json) |
+| Pack | 342659 | [342659-pack.json](./342659-pack.json) |
 | Pack 2 Games Pony Friends 2 + My Riding Stables: Life with Horses | 147465 | [147465-pack-2-games-pony-friends-2-my-riding-stables-life-with-horses.json](./147465-pack-2-games-pony-friends-2-my-riding-stables-life-with-horses.json) |
 | Pack and Ship: Warehouse Simulator | 389963 | [389963-pack-and-ship-warehouse-simulator.json](./389963-pack-and-ship-warehouse-simulator.json) |
 | Pack BD Heroes vol.1 | 293934 | [293934-pack-bd-heroes-vol-1.json](./293934-pack-bd-heroes-vol-1.json) |
@@ -82,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painted Kingdoms | 392796 | [392796-painted-kingdoms.json](./392796-painted-kingdoms.json) |
 | Painted Legend | 31896 | [31896-painted-legend.json](./31896-painted-legend.json) |
 | Painter | 262091 | [262091-painter.json](./262091-painter.json) |
+| Painter Man!! | 342623 | [342623-painter-man.json](./342623-painter-man.json) |
 | Painting VR: Cozy Cabin | 305541 | [305541-painting-vr-cozy-cabin.json](./305541-painting-vr-cozy-cabin.json) |
 | Pair Matching Puzzle Connect | 163440 | [163440-pair-matching-puzzle-connect.json](./163440-pair-matching-puzzle-connect.json) |
 | Pair Matching Puzzle Connect: Expansion Pack 1 | 163450 | [163450-pair-matching-puzzle-connect-expansion-pack-1.json](./163450-pair-matching-puzzle-connect-expansion-pack-1.json) |
@@ -1281,7 +1283,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Volt White | 226415 | [226415-pokemon-volt-white.json](./226415-pokemon-volt-white.json) |
 | Pokémon Water Red | 221411 | [221411-pokemon-water-red.json](./221411-pokemon-water-red.json) |
 | Pokémon Weird Type Fun | 307908 | [307908-pokemon-weird-type-fun.json](./307908-pokemon-weird-type-fun.json) |
+| Pokémon: Cave Escape | 342676 | [342676-pokemon-cave-escape.json](./342676-pokemon-cave-escape.json) |
 | Pokémon: Legends of the Arena | 135872 | [135872-pokemon-legends-of-the-arena.json](./135872-pokemon-legends-of-the-arena.json) |
+| Pokémon: Maxie's Island | 342679 | [342679-pokemon-maxies-island.json](./342679-pokemon-maxies-island.json) |
 | Pokémon: National History Museum | 340212 | [340212-pokemon-national-history-museum.json](./340212-pokemon-national-history-museum.json) |
 | Poker Club: Gold Edition | 277568 | [277568-poker-club-gold-edition.json](./277568-poker-club-gold-edition.json) |
 | Poker Dungeon: Joker's Madness | 310747 | [310747-poker-dungeon-jokers-madness.json](./310747-poker-dungeon-jokers-madness.json) |
@@ -1709,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Atlas | 387321 | [387321-project-atlas.json](./387321-project-atlas.json) |
 | Project B-Fer | 257651 | [257651-project-b-fer.json](./257651-project-b-fer.json) |
 | Project Backrooms | 236529 | [236529-project-backrooms.json](./236529-project-backrooms.json) |
+| Project Battlefield | 342655 | [342655-project-battlefield.json](./342655-project-battlefield.json) |
 | Project BlockchainZ | 180313 | [180313-project-blockchainz.json](./180313-project-blockchainz.json) |
 | Project CARS: Logitech Livery Pack | 353279 | [353279-project-cars-logitech-livery-pack.json](./353279-project-cars-logitech-livery-pack.json) |
 | Project Crimson | 166735 | [166735-project-crimson.json](./166735-project-crimson.json) |
