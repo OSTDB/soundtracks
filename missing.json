@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T19:48:13.712Z",
-  "total_missing": 38629,
+  "generated_at": "2026-09-06T20:03:03.573Z",
+  "total_missing": 38679,
   "games": [
     {
       "igdb_id": 306086,
@@ -8758,6 +8758,11 @@
       "file": "missing/A/402316-angel-in-inferno.json"
     },
     {
+      "igdb_id": 321958,
+      "game_name": "Angel Legion: Chain Trace - Orange",
+      "file": "missing/A/321958-angel-legion-chain-trace-orange.json"
+    },
+    {
       "igdb_id": 254160,
       "game_name": "Angel Legion: Oriental - Purple",
       "file": "missing/A/254160-angel-legion-oriental-purple.json"
@@ -13968,6 +13973,11 @@
       "file": "missing/A/104649-aventador-drift-simulator-2.json"
     },
     {
+      "igdb_id": 322003,
+      "game_name": "Aventura de Luigi",
+      "file": "missing/A/322003-aventura-de-luigi.json"
+    },
+    {
       "igdb_id": 293891,
       "game_name": "Average Maria Individual",
       "file": "missing/A/293891-average-maria-individual.json"
@@ -17226,6 +17236,11 @@
       "igdb_id": 56516,
       "game_name": "Battle Spirits: Kiseki no Hasha",
       "file": "missing/B/56516-battle-spirits-kiseki-no-hasha.json"
+    },
+    {
+      "igdb_id": 322008,
+      "game_name": "Battle Squares",
+      "file": "missing/B/322008-battle-squares.json"
     },
     {
       "igdb_id": 163454,
@@ -21518,6 +21533,11 @@
       "file": "missing/B/67291-bloodwings-pumpkinheads-revenge.json"
     },
     {
+      "igdb_id": 322000,
+      "game_name": "Bloody Aria",
+      "file": "missing/B/322000-bloody-aria.json"
+    },
+    {
       "igdb_id": 144358,
       "game_name": "Bloody Bunny: The Game",
       "file": "missing/B/144358-bloody-bunny-the-game.json"
@@ -22091,6 +22111,11 @@
       "igdb_id": 59440,
       "game_name": "Boku no Choro-Q",
       "file": "missing/B/59440-boku-no-choro-q.json"
+    },
+    {
+      "igdb_id": 322009,
+      "game_name": "Boku no Saiai no",
+      "file": "missing/B/322009-boku-no-saiai-no.json"
     },
     {
       "igdb_id": 335700,
@@ -23091,6 +23116,11 @@
       "igdb_id": 265389,
       "game_name": "Bounty Hunters",
       "file": "missing/B/265389-bounty-hunters.json"
+    },
+    {
+      "igdb_id": 321957,
+      "game_name": "Bounty of One: Panic in the Mines",
+      "file": "missing/B/321957-bounty-of-one-panic-in-the-mines.json"
     },
     {
       "igdb_id": 38351,
@@ -58623,6 +58653,11 @@
       "file": "missing/F/12103-flimbos-quest.json"
     },
     {
+      "igdb_id": 322001,
+      "game_name": "Fling with a Tiefling",
+      "file": "missing/F/322001-fling-with-a-tiefling.json"
+    },
+    {
       "igdb_id": 264361,
       "game_name": "Fling!",
       "file": "missing/F/264361-fling.json"
@@ -82813,6 +82848,11 @@
       "file": "missing/J/347683-journey-through-the-nightmare-realm-ii.json"
     },
     {
+      "igdb_id": 321998,
+      "game_name": "Journey to Kreisia",
+      "file": "missing/J/321998-journey-to-kreisia.json"
+    },
+    {
       "igdb_id": 231083,
       "game_name": "Journey to the Blue Mountain",
       "file": "missing/J/231083-journey-to-the-blue-mountain.json"
@@ -93348,6 +93388,11 @@
       "file": "missing/L/87201-luge-crush-2018.json"
     },
     {
+      "igdb_id": 322004,
+      "game_name": "Luigi and the Quest for Nothing",
+      "file": "missing/L/322004-luigi-and-the-quest-for-nothing.json"
+    },
+    {
       "igdb_id": 322380,
       "game_name": "Luigi and the Quest for Nothing: Enhanced",
       "file": "missing/L/322380-luigi-and-the-quest-for-nothing-enhanced.json"
@@ -95251,6 +95296,11 @@
       "igdb_id": 144995,
       "game_name": "Mama's Farm: Match ‪3‬",
       "file": "missing/M/144995-mamas-farm-match-3.json"
+    },
+    {
+      "igdb_id": 321991,
+      "game_name": "Mama's Sleeping Angels",
+      "file": "missing/M/321991-mamas-sleeping-angels.json"
     },
     {
       "igdb_id": 241032,
@@ -102038,6 +102088,11 @@
       "file": "missing/M/180251-mister-versatile-a-gay-superhero-visual-novel.json"
     },
     {
+      "igdb_id": 321996,
+      "game_name": "Misterious Thief",
+      "file": "missing/M/321996-misterious-thief.json"
+    },
+    {
       "igdb_id": 341911,
       "game_name": "Mistful Crimson Morning",
       "file": "missing/M/341911-mistful-crimson-morning.json"
@@ -106608,6 +106663,166 @@
       "file": "missing/M/248926-my-strange-girlfriends.json"
     },
     {
+      "igdb_id": 321960,
+      "game_name": "My Sudoku",
+      "file": "missing/M/321960-my-sudoku.json"
+    },
+    {
+      "igdb_id": 321961,
+      "game_name": "My Sudoku: Classic 4x4 Easy 10",
+      "file": "missing/M/321961-my-sudoku-classic-4x4-easy-10.json"
+    },
+    {
+      "igdb_id": 321962,
+      "game_name": "My Sudoku: Classic 4x4 Easy 2",
+      "file": "missing/M/321962-my-sudoku-classic-4x4-easy-2.json"
+    },
+    {
+      "igdb_id": 321963,
+      "game_name": "My Sudoku: Classic 4x4 Easy 3",
+      "file": "missing/M/321963-my-sudoku-classic-4x4-easy-3.json"
+    },
+    {
+      "igdb_id": 321964,
+      "game_name": "My Sudoku: Classic 4x4 Easy 4",
+      "file": "missing/M/321964-my-sudoku-classic-4x4-easy-4.json"
+    },
+    {
+      "igdb_id": 321965,
+      "game_name": "My Sudoku: Classic 4x4 Easy 5",
+      "file": "missing/M/321965-my-sudoku-classic-4x4-easy-5.json"
+    },
+    {
+      "igdb_id": 321966,
+      "game_name": "My Sudoku: Classic 4x4 Easy 6",
+      "file": "missing/M/321966-my-sudoku-classic-4x4-easy-6.json"
+    },
+    {
+      "igdb_id": 321967,
+      "game_name": "My Sudoku: Classic 4x4 Easy 7",
+      "file": "missing/M/321967-my-sudoku-classic-4x4-easy-7.json"
+    },
+    {
+      "igdb_id": 321968,
+      "game_name": "My Sudoku: Classic 4x4 Easy 8",
+      "file": "missing/M/321968-my-sudoku-classic-4x4-easy-8.json"
+    },
+    {
+      "igdb_id": 321970,
+      "game_name": "My Sudoku: Classic 4x4 Easy 9",
+      "file": "missing/M/321970-my-sudoku-classic-4x4-easy-9.json"
+    },
+    {
+      "igdb_id": 321971,
+      "game_name": "My Sudoku: Classic 6x6 Easy 2",
+      "file": "missing/M/321971-my-sudoku-classic-6x6-easy-2.json"
+    },
+    {
+      "igdb_id": 321972,
+      "game_name": "My Sudoku: Classic 6x6 Easy 3",
+      "file": "missing/M/321972-my-sudoku-classic-6x6-easy-3.json"
+    },
+    {
+      "igdb_id": 321973,
+      "game_name": "My Sudoku: Classic 6x6 Easy 4",
+      "file": "missing/M/321973-my-sudoku-classic-6x6-easy-4.json"
+    },
+    {
+      "igdb_id": 321974,
+      "game_name": "My Sudoku: Classic 6x6 Easy 5",
+      "file": "missing/M/321974-my-sudoku-classic-6x6-easy-5.json"
+    },
+    {
+      "igdb_id": 321969,
+      "game_name": "My Sudoku: Classic 6x6 Easy 6",
+      "file": "missing/M/321969-my-sudoku-classic-6x6-easy-6.json"
+    },
+    {
+      "igdb_id": 321975,
+      "game_name": "My Sudoku: Classic 6x6 Medium 1",
+      "file": "missing/M/321975-my-sudoku-classic-6x6-medium-1.json"
+    },
+    {
+      "igdb_id": 321989,
+      "game_name": "My Sudoku: Classic 6x6 Medium 2",
+      "file": "missing/M/321989-my-sudoku-classic-6x6-medium-2.json"
+    },
+    {
+      "igdb_id": 321985,
+      "game_name": "My Sudoku: Classic 6x6 Medium 3",
+      "file": "missing/M/321985-my-sudoku-classic-6x6-medium-3.json"
+    },
+    {
+      "igdb_id": 321980,
+      "game_name": "My Sudoku: Classic 6x6 Medium 4",
+      "file": "missing/M/321980-my-sudoku-classic-6x6-medium-4.json"
+    },
+    {
+      "igdb_id": 321986,
+      "game_name": "My Sudoku: Classic 6x6 Medium 5",
+      "file": "missing/M/321986-my-sudoku-classic-6x6-medium-5.json"
+    },
+    {
+      "igdb_id": 321981,
+      "game_name": "My Sudoku: Classic 6x6 Medium 6",
+      "file": "missing/M/321981-my-sudoku-classic-6x6-medium-6.json"
+    },
+    {
+      "igdb_id": 321982,
+      "game_name": "My Sudoku: Classic 9x9 Easy 2",
+      "file": "missing/M/321982-my-sudoku-classic-9x9-easy-2.json"
+    },
+    {
+      "igdb_id": 321979,
+      "game_name": "My Sudoku: Classic 9x9 Easy 3",
+      "file": "missing/M/321979-my-sudoku-classic-9x9-easy-3.json"
+    },
+    {
+      "igdb_id": 321990,
+      "game_name": "My Sudoku: Classic 9x9 Expert 1",
+      "file": "missing/M/321990-my-sudoku-classic-9x9-expert-1.json"
+    },
+    {
+      "igdb_id": 321983,
+      "game_name": "My Sudoku: Classic 9x9 Expert 2",
+      "file": "missing/M/321983-my-sudoku-classic-9x9-expert-2.json"
+    },
+    {
+      "igdb_id": 321988,
+      "game_name": "My Sudoku: Classic 9x9 Expert 3",
+      "file": "missing/M/321988-my-sudoku-classic-9x9-expert-3.json"
+    },
+    {
+      "igdb_id": 321977,
+      "game_name": "My Sudoku: Classic 9x9 Hard 1",
+      "file": "missing/M/321977-my-sudoku-classic-9x9-hard-1.json"
+    },
+    {
+      "igdb_id": 321984,
+      "game_name": "My Sudoku: Classic 9x9 Hard 2",
+      "file": "missing/M/321984-my-sudoku-classic-9x9-hard-2.json"
+    },
+    {
+      "igdb_id": 321987,
+      "game_name": "My Sudoku: Classic 9x9 Hard 3",
+      "file": "missing/M/321987-my-sudoku-classic-9x9-hard-3.json"
+    },
+    {
+      "igdb_id": 321978,
+      "game_name": "My Sudoku: Classic 9x9 Medium 1",
+      "file": "missing/M/321978-my-sudoku-classic-9x9-medium-1.json"
+    },
+    {
+      "igdb_id": 321995,
+      "game_name": "My Sudoku: Classic 9x9 Medium 2",
+      "file": "missing/M/321995-my-sudoku-classic-9x9-medium-2.json"
+    },
+    {
+      "igdb_id": 321976,
+      "game_name": "My Sudoku: Classic 9x9 Medium 3",
+      "file": "missing/M/321976-my-sudoku-classic-9x9-medium-3.json"
+    },
+    {
       "igdb_id": 391596,
       "game_name": "My Summer Love",
       "file": "missing/M/391596-my-summer-love.json"
@@ -110296,6 +110511,11 @@
       "igdb_id": 321774,
       "game_name": "Nightmare Shift",
       "file": "missing/N/321774-nightmare-shift.json"
+    },
+    {
+      "igdb_id": 322006,
+      "game_name": "Nightmare's Revenge",
+      "file": "missing/N/322006-nightmares-revenge.json"
     },
     {
       "igdb_id": 105364,
@@ -119753,6 +119973,11 @@
       "file": "missing/P/125437-phantom-sol.json"
     },
     {
+      "igdb_id": 321993,
+      "game_name": "Phantom Tank",
+      "file": "missing/P/321993-phantom-tank.json"
+    },
+    {
       "igdb_id": 311292,
       "game_name": "Phantom Ten",
       "file": "missing/P/311292-phantom-ten.json"
@@ -126456,6 +126681,11 @@
       "igdb_id": 2194,
       "game_name": "Punch-Out!!",
       "file": "missing/P/2194-punch-out.json"
+    },
+    {
+      "igdb_id": 321956,
+      "game_name": "Punch!",
+      "file": "missing/P/321956-punch.json"
     },
     {
       "igdb_id": 96074,
@@ -147293,6 +147523,11 @@
       "file": "missing/S/330711-sonic-chaos-planet.json"
     },
     {
+      "igdb_id": 321992,
+      "game_name": "Sonic Chaos Remake",
+      "file": "missing/S/321992-sonic-chaos-remake.json"
+    },
+    {
       "igdb_id": 329946,
       "game_name": "Sonic Chaos Revolution",
       "file": "missing/S/329946-sonic-chaos-revolution.json"
@@ -156383,6 +156618,11 @@
       "file": "missing/S/158723-super-mario-bros-3.json"
     },
     {
+      "igdb_id": 322002,
+      "game_name": "Super Mario Bros. 3 Advance",
+      "file": "missing/S/322002-super-mario-bros-3-advance.json"
+    },
+    {
       "igdb_id": 239902,
       "game_name": "Super Mario Bros. 3: The Lost Levels",
       "file": "missing/S/239902-super-mario-bros-3-the-lost-levels.json"
@@ -159011,6 +159251,11 @@
       "igdb_id": 277604,
       "game_name": "System Override",
       "file": "missing/S/277604-system-override.json"
+    },
+    {
+      "igdb_id": 321959,
+      "game_name": "System Reject",
+      "file": "missing/S/321959-system-reject.json"
     },
     {
       "igdb_id": 249505,
@@ -180311,6 +180556,11 @@
       "igdb_id": 57109,
       "game_name": "Undercards",
       "file": "missing/U/57109-undercards.json"
+    },
+    {
+      "igdb_id": 321997,
+      "game_name": "Undercover",
+      "file": "missing/U/321997-undercover.json"
     },
     {
       "igdb_id": 86084,
