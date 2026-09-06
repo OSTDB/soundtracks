@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Earth Defend | 46674 | [46674-the-earth-defend.json](./46674-the-earth-defend.json) |
 | The Eastern Edge | 341897 | [341897-the-eastern-edge.json](./341897-the-eastern-edge.json) |
 | The Eastern Sacrifice | 273659 | [273659-the-eastern-sacrifice.json](./273659-the-eastern-sacrifice.json) |
+| The Edge | 340937 | [340937-the-edge.json](./340937-the-edge.json) |
 | The Eerie Inn | 95595 | [95595-the-eerie-inn.json](./95595-the-eerie-inn.json) |
 | The Egg of Human Endeavors | 223133 | [223133-the-egg-of-human-endeavors.json](./223133-the-egg-of-human-endeavors.json) |
 | The Eggsperts | 373560 | [373560-the-eggsperts.json](./373560-the-eggsperts.json) |
@@ -2214,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trivial Dead | 145649 | [145649-the-trivial-dead.json](./145649-the-trivial-dead.json) |
 | The Troll & The Witch's House | 350437 | [350437-the-troll-and-the-witchs-house.json](./350437-the-troll-and-the-witchs-house.json) |
 | The Trolls in Crazyland | 48706 | [48706-the-trolls-in-crazyland.json](./48706-the-trolls-in-crazyland.json) |
+| The Truth of a Snowy Night | 340955 | [340955-the-truth-of-a-snowy-night.json](./340955-the-truth-of-a-snowy-night.json) |
 | The Tudors | 10986 | [10986-the-tudors.json](./10986-the-tudors.json) |
 | The Turnabout that Shouldn't Exist | 318786 | [318786-the-turnabout-that-shouldnt-exist.json](./318786-the-turnabout-that-shouldnt-exist.json) |
 | The Turned About Turnabout | 308542 | [308542-the-turned-about-turnabout.json](./308542-the-turned-about-turnabout.json) |
@@ -2997,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of Horror | 356664 | [356664-tomb-of-horror.json](./356664-tomb-of-horror.json) |
 | Tomb of the Dash | 199630 | [199630-tomb-of-the-dash.json](./199630-tomb-of-the-dash.json) |
 | Tomb of Trials | 180270 | [180270-tomb-of-trials.json](./180270-tomb-of-trials.json) |
+| Tomb Offering | 340944 | [340944-tomb-offering.json](./340944-tomb-offering.json) |
 | Tomb Raider Collection 1 | 299439 | [299439-tomb-raider-collection-1.json](./299439-tomb-raider-collection-1.json) |
 | Tomb Raider II: Collector's Edition | 159319 | [159319-tomb-raider-ii-collectors-edition.json](./159319-tomb-raider-ii-collectors-edition.json) |
 | Tomb Raider III: Adventures of Lara Croft | 1157 | [1157-tomb-raider-iii-adventures-of-lara-croft.json](./1157-tomb-raider-iii-adventures-of-lara-croft.json) |
@@ -3279,6 +3282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story Racer | 18944 | [18944-toy-story-racer.json](./18944-toy-story-racer.json) |
 | Toy Tactics | 204089 | [204089-toy-tactics.json](./204089-toy-tactics.json) |
 | Toy Wars Invasion | 9449 | [9449-toy-wars-invasion.json](./9449-toy-wars-invasion.json) |
+| Toy's Brawl | 340947 | [340947-toys-brawl.json](./340947-toys-brawl.json) |
 | Toybox | 184645 | [184645-toybox.json](./184645-toybox.json) |
 | ToyCamp | 384507 | [384507-toycamp.json](./384507-toycamp.json) |
 | Toymaker | 10941 | [10941-toymaker.json](./10941-toymaker.json) |
@@ -3725,6 +3729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try to Survive | 116552 | [116552-try-to-survive.json](./116552-try-to-survive.json) |
 | TS Marketplace: Marias Pass Scenario Pack 01 | 196896 | [196896-ts-marketplace-marias-pass-scenario-pack-01.json](./196896-ts-marketplace-marias-pass-scenario-pack-01.json) |
 | Tsugunohi: Supernatural Supermarket | 234297 | [234297-tsugunohi-supernatural-supermarket.json](./234297-tsugunohi-supernatural-supermarket.json) |
+| Tsugunohi: The Chamber of Phantom Name | 340941 | [340941-tsugunohi-the-chamber-of-phantom-name.json](./340941-tsugunohi-the-chamber-of-phantom-name.json) |
 | Tsuki no Shoujo: Bishoujo Gakuen 2 | 194622 | [194622-tsuki-no-shoujo-bishoujo-gakuen-2.json](./194622-tsuki-no-shoujo-bishoujo-gakuen-2.json) |
 | Tsukihime: A Piece of Blue Glass Moon | 142105 | [142105-tsukihime-a-piece-of-blue-glass-moon.json](./142105-tsukihime-a-piece-of-blue-glass-moon.json) |
 | Tsukihime: Fool's Errand | 254127 | [254127-tsukihime-fools-errand.json](./254127-tsukihime-fools-errand.json) |
