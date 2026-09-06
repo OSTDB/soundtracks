@@ -702,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentry Knight Tactics | 24824 | [24824-sentry-knight-tactics.json](./24824-sentry-knight-tactics.json) |
 | Sentry: Obelisk of Dawn | 152898 | [152898-sentry-obelisk-of-dawn.json](./152898-sentry-obelisk-of-dawn.json) |
 | Seoirye | 257680 | [257680-seoirye.json](./257680-seoirye.json) |
+| Separium: 12th Elevator | 336541 | [336541-separium-12th-elevator.json](./336541-separium-12th-elevator.json) |
 | Sequence Palladium | 246654 | [246654-sequence-palladium.json](./246654-sequence-palladium.json) |
 | Ser BubbleHelm | 385564 | [385564-ser-bubblehelm.json](./385564-ser-bubblehelm.json) |
 | Ser Jorryn | 379867 | [379867-ser-jorryn.json](./379867-ser-jorryn.json) |
@@ -711,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serendipity Hotel | 190218 | [190218-serendipity-hotel.json](./190218-serendipity-hotel.json) |
 | Serene Asylum | 172740 | [172740-serene-asylum.json](./172740-serene-asylum.json) |
 | Serial Cleaner | 19450 | [19450-serial-cleaner.json](./19450-serial-cleaner.json) |
+| Serial Cleaner: Blood & Confetti | 336529 | [336529-serial-cleaner-blood-and-confetti.json](./336529-serial-cleaner-blood-and-confetti.json) |
 | Serial Experiments Lain | 76448 | [76448-serial-experiments-lain.json](./76448-serial-experiments-lain.json) |
 | Serial Experiments Lain Bootleg | 245007 | [245007-serial-experiments-lain-bootleg.json](./245007-serial-experiments-lain-bootleg.json) |
 | Series Makers Tycoon | 173806 | [173806-series-makers-tycoon.json](./173806-series-makers-tycoon.json) |
@@ -934,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharp Shot | 5696 | [5696-sharp-shot.json](./5696-sharp-shot.json) |
 | Sharp Trigger | 349845 | [349845-sharp-trigger.json](./349845-sharp-trigger.json) |
 | Sharp Trouble | 192938 | [192938-sharp-trouble.json](./192938-sharp-trouble.json) |
+| SharpShooter3D | 336568 | [336568-sharpshooter3d.json](./336568-sharpshooter3d.json) |
 | Shatter | 137083 | [137083-shatter.json](./137083-shatter.json) |
 | Shatter | 358281 | [358281-shatter.json](./358281-shatter.json) |
 | Shatter and Spin | 293383 | [293383-shatter-and-spin.json](./293383-shatter-and-spin.json) |
@@ -1022,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei Devil Summoner: Raidou Kuzunoha vs. The Soulless Army | 20640 | [20640-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army.json](./20640-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army.json) |
 | Shin Megami Tensei III: Nocturne | 336392 | [336392-shin-megami-tensei-iii-nocturne.json](./336392-shin-megami-tensei-iii-nocturne.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster | 135913 | [135913-shin-megami-tensei-iii-nocturne-hd-remaster.json](./135913-shin-megami-tensei-iii-nocturne-hd-remaster.json) |
+| Shin Megami Tensei III: Nocturne - HD Remaster: Chronicle Pack | 336554 | [336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json](./336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json) |
 | Shin Megami Tensei Vertex | 142491 | [142491-shin-megami-tensei-vertex.json](./142491-shin-megami-tensei-vertex.json) |
 | Shin Megami Tensei: 20XX Devil's Colosseum | 137685 | [137685-shin-megami-tensei-20xx-devils-colosseum.json](./137685-shin-megami-tensei-20xx-devils-colosseum.json) |
 | Shin Megami Tensei: Digital Devil Saga | 18227 | [18227-shin-megami-tensei-digital-devil-saga.json](./18227-shin-megami-tensei-digital-devil-saga.json) |
@@ -1114,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot the Zombirds VR | 115698 | [115698-shoot-the-zombirds-vr.json](./115698-shoot-the-zombirds-vr.json) |
 | Shoot to Pleasure | 310735 | [310735-shoot-to-pleasure.json](./310735-shoot-to-pleasure.json) |
 | Shoot Your Friends | 154562 | [154562-shoot-your-friends.json](./154562-shoot-your-friends.json) |
+| Shoot Yourself With a Rifle | 336531 | [336531-shoot-yourself-with-a-rifle.json](./336531-shoot-yourself-with-a-rifle.json) |
 | Shooter Game | 107871 | [107871-shooter-game.json](./107871-shooter-game.json) |
 | Shooter of the Arcana | 319948 | [319948-shooter-of-the-arcana.json](./319948-shooter-of-the-arcana.json) |
 | Shooters, Ready! | 335670 | [335670-shooters-ready.json](./335670-shooters-ready.json) |
@@ -2649,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Chase | 136485 | [136485-spooky-chase.json](./136485-spooky-chase.json) |
 | Spooky House | 179715 | [179715-spooky-house.json](./179715-spooky-house.json) |
 | Spooky Land Defenders | 415946 | [415946-spooky-land-defenders.json](./415946-spooky-land-defenders.json) |
+| Spooky Mahjong | 336565 | [336565-spooky-mahjong.json](./336565-spooky-mahjong.json) |
 | Spooky Milk Life | 208631 | [208631-spooky-milk-life.json](./208631-spooky-milk-life.json) |
 | Spooky Season | 361696 | [361696-spooky-season.json](./361696-spooky-season.json) |
 | Spooky Shelter | 242228 | [242228-spooky-shelter.json](./242228-spooky-shelter.json) |
@@ -3229,6 +3235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Swordsman | 190733 | [190733-storm-swordsman.json](./190733-storm-swordsman.json) |
 | Storm Wars | 56482 | [56482-storm-wars.json](./56482-storm-wars.json) |
 | Stormball | 77379 | [77379-stormball.json](./77379-stormball.json) |
+| Stormbinders | 336520 | [336520-stormbinders.json](./336520-stormbinders.json) |
 | Stormbroken | 363920 | [363920-stormbroken.json](./363920-stormbroken.json) |
 | Stormwinds | 210284 | [210284-stormwinds.json](./210284-stormwinds.json) |
 | Story About Times | 113009 | [113009-story-about-times.json](./113009-story-about-times.json) |
@@ -3318,6 +3325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Hoops | 242807 | [242807-street-hoops.json](./242807-street-hoops.json) |
 | Street Karate 3 | 169468 | [169468-street-karate-3.json](./169468-street-karate-3.json) |
 | Street Karate Fighter | 100882 | [100882-street-karate-fighter.json](./100882-street-karate-fighter.json) |
+| Street Lamp Lover | 336530 | [336530-street-lamp-lover.json](./336530-street-lamp-lover.json) |
 | Street Legal Racing: Redline | 77346 | [77346-street-legal-racing-redline.json](./77346-street-legal-racing-redline.json) |
 | Street Master | 45987 | [45987-street-master.json](./45987-street-master.json) |
 | Street Outlaws 2: Winner Takes All - Digital Deluxe Edition | 173797 | [173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json](./173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json) |
