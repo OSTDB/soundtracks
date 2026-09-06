@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Duck Escape | 378180 | [378180-backrooms-duck-escape.json](./378180-backrooms-duck-escape.json) |
 | Backrooms: Meg Archives | 292297 | [292297-backrooms-meg-archives.json](./292297-backrooms-meg-archives.json) |
 | Backrooms: Reminiscence | 366831 | [366831-backrooms-reminiscence.json](./366831-backrooms-reminiscence.json) |
+| BackSlap | 349318 | [349318-backslap.json](./349318-backslap.json) |
 | Backstage Pass | 234907 | [234907-backstage-pass.json](./234907-backstage-pass.json) |
 | Backstage: Murdered Sleep | 297777 | [297777-backstage-murdered-sleep.json](./297777-backstage-murdered-sleep.json) |
 | Backstory | 406102 | [406102-backstory.json](./406102-backstory.json) |
@@ -130,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakemono | 128018 | [128018-bakemono.json](./128018-bakemono.json) |
 | Baker Business 3 | 235967 | [235967-baker-business-3.json](./235967-baker-business-3.json) |
 | Bakery Shop Simulator | 145637 | [145637-bakery-shop-simulator.json](./145637-bakery-shop-simulator.json) |
+| Bakery Story 2 | 349297 | [349297-bakery-story-2.json](./349297-bakery-story-2.json) |
 | Baki Hanma: Blood Arena | 337462 | [337462-baki-hanma-blood-arena.json](./337462-baki-hanma-blood-arena.json) |
 | Baking Fun | 359405 | [359405-baking-fun.json](./359405-baking-fun.json) |
 | Bakkaniya | 249498 | [249498-bakkaniya.json](./249498-bakkaniya.json) |
@@ -1046,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bizerta: Silent Evil | 60570 | [60570-bizerta-silent-evil.json](./60570-bizerta-silent-evil.json) |
 | Bizzarioware | 185148 | [185148-bizzarioware.json](./185148-bizzarioware.json) |
 | Black Astral | 201317 | [201317-black-astral.json](./201317-black-astral.json) |
+| Black Beacon: Forsaken Eternity | 349327 | [349327-black-beacon-forsaken-eternity.json](./349327-black-beacon-forsaken-eternity.json) |
 | Black Belt | 12257 | [12257-black-belt.json](./12257-black-belt.json) |
 | Black Belt | 29134 | [29134-black-belt.json](./29134-black-belt.json) |
 | Black Blood | 379357 | [379357-black-blood.json](./379357-black-blood.json) |
@@ -1464,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb: Who let the dogfight? | 17403 | [17403-bomb-who-let-the-dogfight.json](./17403-bomb-who-let-the-dogfight.json) |
 | Bombabomb! | 267092 | [267092-bombabomb.json](./267092-bombabomb.json) |
 | Bombagun | 188112 | [188112-bombagun.json](./188112-bombagun.json) |
+| Bombardiro Crocodilo Simulator | 349300 | [349300-bombardiro-crocodilo-simulator.json](./349300-bombardiro-crocodilo-simulator.json) |
 | Bombball | 301584 | [301584-bombball.json](./301584-bombball.json) |
 | Bomber | 270399 | [270399-bomber.json](./270399-bomber.json) |
 | Bomber Bob | 14331 | [14331-bomber-bob.json](./14331-bomber-bob.json) |
@@ -2116,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bustin-Out | 64946 | [64946-bustin-out.json](./64946-bustin-out.json) |
 | Bustina and the Search for Booty | 352189 | [352189-bustina-and-the-search-for-booty.json](./352189-bustina-and-the-search-for-booty.json) |
 | Busty Maid: Creampie Heaven | 127964 | [127964-busty-maid-creampie-heaven.json](./127964-busty-maid-creampie-heaven.json) |
+| Busy Bea's Halftime Hustle | 349295 | [349295-busy-beas-halftime-hustle.json](./349295-busy-beas-halftime-hustle.json) |
 | Busy Scissors | 50594 | [50594-busy-scissors.json](./50594-busy-scissors.json) |
 | Butanooo! Simulator | 303805 | [303805-butanooo-simulator.json](./303805-butanooo-simulator.json) |
 | Butcher Life Simulator | 391582 | [391582-butcher-life-simulator.json](./391582-butcher-life-simulator.json) |
