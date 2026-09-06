@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunting Ground | 14605 | [14605-haunting-ground.json](./14605-haunting-ground.json) |
 | Haunting Mysteries: The Island of Lost Souls - Collector's Edition | 355528 | [355528-haunting-mysteries-the-island-of-lost-souls-collectors-edition.json](./355528-haunting-mysteries-the-island-of-lost-souls-collectors-edition.json) |
 | Haunting Record: Phantom Street | 326090 | [326090-haunting-record-phantom-street.json](./326090-haunting-record-phantom-street.json) |
+| Haunting: The Rosefield Manor | 318994 | [318994-haunting-the-rosefield-manor.json](./318994-haunting-the-rosefield-manor.json) |
 | Hauntworks | 410264 | [410264-hauntworks.json](./410264-hauntworks.json) |
 | Haus | 377074 | [377074-haus.json](./377074-haus.json) |
 | Haustoria | 130922 | [130922-haustoria.json](./130922-haustoria.json) |
@@ -544,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellen's Gallery | 269290 | [269290-hellens-gallery.json](./269290-hellens-gallery.json) |
 | HellEscape | 215349 | [215349-hellescape.json](./215349-hellescape.json) |
 | Hellevator | 150120 | [150120-hellevator.json](./150120-hellevator.json) |
+| Hellfire | 319022 | [319022-hellfire.json](./319022-hellfire.json) |
 | Hellfire | 321796 | [321796-hellfire.json](./321796-hellfire.json) |
 | Hellfire Saga | 234906 | [234906-hellfire-saga.json](./234906-hellfire-saga.json) |
 | Hellgate VR | 158718 | [158718-hellgate-vr.json](./158718-hellgate-vr.json) |
@@ -748,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexcrawl | 413606 | [413606-hexcrawl.json](./413606-hexcrawl.json) |
 | Hexed Time | 356115 | [356115-hexed-time.json](./356115-hexed-time.json) |
 | Hexgarden | 415118 | [415118-hexgarden.json](./415118-hexgarden.json) |
+| Hexia | 319023 | [319023-hexia.json](./319023-hexia.json) |
 | Hexion | 96216 | [96216-hexion.json](./96216-hexion.json) |
 | Hexos CCG Missions | 55947 | [55947-hexos-ccg-missions.json](./55947-hexos-ccg-missions.json) |
 | Hexpand | 410909 | [410909-hexpand.json](./410909-hexpand.json) |
@@ -942,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit | 358300 | [358300-hit.json](./358300-hit.json) |
 | Hit Him | 195254 | [195254-hit-him.json](./195254-hit-him.json) |
 | Hit Hit Alaska | 326607 | [326607-hit-hit-alaska.json](./326607-hit-hit-alaska.json) |
+| Hit n' Bit | 319010 | [319010-hit-n-bit.json](./319010-hit-n-bit.json) |
 | Hit Tank PRO | 57129 | [57129-hit-tank-pro.json](./57129-hit-tank-pro.json) |
 | Hit the Ice | 295042 | [295042-hit-the-ice.json](./295042-hit-the-ice.json) |
 | HIT: Heroes of Incredible Tales | 79317 | [79317-hit-heroes-of-incredible-tales.json](./79317-hit-heroes-of-incredible-tales.json) |
