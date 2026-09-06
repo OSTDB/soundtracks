@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mariposa | 395588 | [395588-mariposa.json](./395588-mariposa.json) |
 | Mariposa and the Galaxy Man | 191904 | [191904-mariposa-and-the-galaxy-man.json](./191904-mariposa-and-the-galaxy-man.json) |
 | Marisa's Marvelous Magic Shop | 126940 | [126940-marisas-marvelous-magic-shop.json](./126940-marisas-marvelous-magic-shop.json) |
+| Mark My Words | 360016 | [360016-mark-my-words.json](./360016-mark-my-words.json) |
 | Mark of the Ninja: Remastered | 94969 | [94969-mark-of-the-ninja-remastered.json](./94969-mark-of-the-ninja-remastered.json) |
 | Mark the Headless Chicken | 391616 | [391616-mark-the-headless-chicken.json](./391616-mark-the-headless-chicken.json) |
 | Market Chain 98 | 405540 | [405540-market-chain-98.json](./405540-market-chain-98.json) |
@@ -1845,6 +1846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonsouls: Echoes of the Past | 234301 | [234301-moonsouls-echoes-of-the-past.json](./234301-moonsouls-echoes-of-the-past.json) |
 | Moonstone Island: Designed for Lovers DLC Pack | 293412 | [293412-moonstone-island-designed-for-lovers-dlc-pack.json](./293412-moonstone-island-designed-for-lovers-dlc-pack.json) |
 | Moonstrider | 34562 | [34562-moonstrider.json](./34562-moonstrider.json) |
+| Moontales Picbook | 359999 | [359999-moontales-picbook.json](./359999-moontales-picbook.json) |
 | Mooon | 184652 | [184652-mooon.json](./184652-mooon.json) |
 | Moorhuhn Adventure: Der Fluch des Goldes | 69856 | [69856-moorhuhn-adventure-der-fluch-des-goldes.json](./69856-moorhuhn-adventure-der-fluch-des-goldes.json) |
 | Moorhuhn Adventure: Der Schatz des Pharao | 190208 | [190208-moorhuhn-adventure-der-schatz-des-pharao.json](./190208-moorhuhn-adventure-der-schatz-des-pharao.json) |
