@@ -417,10 +417,55 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart 8 Deluxe: Booster Course Pass | 191419 | [191419-mario-kart-8-deluxe-booster-course-pass.json](./191419-mario-kart-8-deluxe-booster-course-pass.json) |
 | Mario Kart Arcade GP VR | 48711 | [48711-mario-kart-arcade-gp-vr.json](./48711-mario-kart-arcade-gp-vr.json) |
 | Mario Kart RiiBalanced | 202370 | [202370-mario-kart-riibalanced.json](./202370-mario-kart-riibalanced.json) |
+| Mario Kart Tour: 1st Anniversary Tour | 361133 | [361133-mario-kart-tour-1st-anniversary-tour.json](./361133-mario-kart-tour-1st-anniversary-tour.json) |
+| Mario Kart Tour: 2nd Anniversary Tour | 361161 | [361161-mario-kart-tour-2nd-anniversary-tour.json](./361161-mario-kart-tour-2nd-anniversary-tour.json) |
+| Mario Kart Tour: Autumn Tour | 361162 | [361162-mario-kart-tour-autumn-tour.json](./361162-mario-kart-tour-autumn-tour.json) |
+| Mario Kart Tour: Berlin Tour | 361140 | [361140-mario-kart-tour-berlin-tour.json](./361140-mario-kart-tour-berlin-tour.json) |
+| Mario Kart Tour: Bowser vs. DK Tour | 361148 | [361148-mario-kart-tour-bowser-vs-dk-tour.json](./361148-mario-kart-tour-bowser-vs-dk-tour.json) |
+| Mario Kart Tour: Cat Tour | 361141 | [361141-mario-kart-tour-cat-tour.json](./361141-mario-kart-tour-cat-tour.json) |
+| Mario Kart Tour: Cooking Tour | 361124 | [361124-mario-kart-tour-cooking-tour.json](./361124-mario-kart-tour-cooking-tour.json) |
+| Mario Kart Tour: Exploration Tour | 361127 | [361127-mario-kart-tour-exploration-tour.json](./361127-mario-kart-tour-exploration-tour.json) |
+| Mario Kart Tour: Flower Tour | 361122 | [361122-mario-kart-tour-flower-tour.json](./361122-mario-kart-tour-flower-tour.json) |
+| Mario Kart Tour: Frost Tour | 361157 | [361157-mario-kart-tour-frost-tour.json](./361157-mario-kart-tour-frost-tour.json) |
+| Mario Kart Tour: Halloween Tour | 361134 | [361134-mario-kart-tour-halloween-tour.json](./361134-mario-kart-tour-halloween-tour.json) |
+| Mario Kart Tour: Halloween Tour | 361163 | [361163-mario-kart-tour-halloween-tour.json](./361163-mario-kart-tour-halloween-tour.json) |
+| Mario Kart Tour: Holiday Tour | 361167 | [361167-mario-kart-tour-holiday-tour.json](./361167-mario-kart-tour-holiday-tour.json) |
 | Mario Kart Tour: Ice Tour | 338539 | [338539-mario-kart-tour-ice-tour.json](./338539-mario-kart-tour-ice-tour.json) |
+| Mario Kart Tour: Jungle Tour | 361123 | [361123-mario-kart-tour-jungle-tour.json](./361123-mario-kart-tour-jungle-tour.json) |
+| Mario Kart Tour: Kamek Tour | 361158 | [361158-mario-kart-tour-kamek-tour.json](./361158-mario-kart-tour-kamek-tour.json) |
+| Mario Kart Tour: Los Angeles Tour | 361132 | [361132-mario-kart-tour-los-angeles-tour.json](./361132-mario-kart-tour-los-angeles-tour.json) |
+| Mario Kart Tour: Los Angeles Tour | 361153 | [361153-mario-kart-tour-los-angeles-tour.json](./361153-mario-kart-tour-los-angeles-tour.json) |
+| Mario Kart Tour: Marine Tour | 361126 | [361126-mario-kart-tour-marine-tour.json](./361126-mario-kart-tour-marine-tour.json) |
+| Mario Kart Tour: Mario Tour | 361144 | [361144-mario-kart-tour-mario-tour.json](./361144-mario-kart-tour-mario-tour.json) |
+| Mario Kart Tour: Mario vs. Luigi Tour | 361136 | [361136-mario-kart-tour-mario-vs-luigi-tour.json](./361136-mario-kart-tour-mario-vs-luigi-tour.json) |
+| Mario Kart Tour: Mario vs. Peach Tour | 361155 | [361155-mario-kart-tour-mario-vs-peach-tour.json](./361155-mario-kart-tour-mario-vs-peach-tour.json) |
+| Mario Kart Tour: New Year's 2021 Tour | 361139 | [361139-mario-kart-tour-new-years-2021-tour.json](./361139-mario-kart-tour-new-years-2021-tour.json) |
 | Mario Kart Tour: New Year's Tour | 338538 | [338538-mario-kart-tour-new-years-tour.json](./338538-mario-kart-tour-new-years-tour.json) |
+| Mario Kart Tour: Ninja Tour | 361146 | [361146-mario-kart-tour-ninja-tour.json](./361146-mario-kart-tour-ninja-tour.json) |
+| Mario Kart Tour: Paris Tour | 361151 | [361151-mario-kart-tour-paris-tour.json](./361151-mario-kart-tour-paris-tour.json) |
+| Mario Kart Tour: Peach Tour | 361125 | [361125-mario-kart-tour-peach-tour.json](./361125-mario-kart-tour-peach-tour.json) |
+| Mario Kart Tour: Peach vs. Daisy Tour | 361142 | [361142-mario-kart-tour-peach-vs-daisy-tour.json](./361142-mario-kart-tour-peach-vs-daisy-tour.json) |
+| Mario Kart Tour: Penguin Tour | 361169 | [361169-mario-kart-tour-penguin-tour.json](./361169-mario-kart-tour-penguin-tour.json) |
+| Mario Kart Tour: Pirate Tour | 361129 | [361129-mario-kart-tour-pirate-tour.json](./361129-mario-kart-tour-pirate-tour.json) |
+| Mario Kart Tour: Rosalina Tour | 361138 | [361138-mario-kart-tour-rosalina-tour.json](./361138-mario-kart-tour-rosalina-tour.json) |
+| Mario Kart Tour: Snow Tour | 361143 | [361143-mario-kart-tour-snow-tour.json](./361143-mario-kart-tour-snow-tour.json) |
+| Mario Kart Tour: Space Tour | 361166 | [361166-mario-kart-tour-space-tour.json](./361166-mario-kart-tour-space-tour.json) |
+| Mario Kart Tour: Summer Festival Tour | 361130 | [361130-mario-kart-tour-summer-festival-tour.json](./361130-mario-kart-tour-summer-festival-tour.json) |
+| Mario Kart Tour: Summer Tour | 361152 | [361152-mario-kart-tour-summer-tour.json](./361152-mario-kart-tour-summer-tour.json) |
+| Mario Kart Tour: Sunset Tour | 361135 | [361135-mario-kart-tour-sunset-tour.json](./361135-mario-kart-tour-sunset-tour.json) |
+| Mario Kart Tour: Super Mario Kart Tour | 361131 | [361131-mario-kart-tour-super-mario-kart-tour.json](./361131-mario-kart-tour-super-mario-kart-tour.json) |
+| Mario Kart Tour: Sydney Tour | 361147 | [361147-mario-kart-tour-sydney-tour.json](./361147-mario-kart-tour-sydney-tour.json) |
+| Mario Kart Tour: Sydney Tour | 361160 | [361160-mario-kart-tour-sydney-tour.json](./361160-mario-kart-tour-sydney-tour.json) |
+| Mario Kart Tour: Toad vs. Toadette Tour | 361165 | [361165-mario-kart-tour-toad-vs-toadette-tour.json](./361165-mario-kart-tour-toad-vs-toadette-tour.json) |
+| Mario Kart Tour: Trick Tour | 361121 | [361121-mario-kart-tour-trick-tour.json](./361121-mario-kart-tour-trick-tour.json) |
+| Mario Kart Tour: Trick Tour | 361149 | [361149-mario-kart-tour-trick-tour.json](./361149-mario-kart-tour-trick-tour.json) |
 | Mario Kart Tour: Valentine's Tour | 338540 | [338540-mario-kart-tour-valentines-tour.json](./338540-mario-kart-tour-valentines-tour.json) |
 | Mario Kart Tour: Vancouver Tour | 338541 | [338541-mario-kart-tour-vancouver-tour.json](./338541-mario-kart-tour-vancouver-tour.json) |
+| Mario Kart Tour: Wedding Tour | 361150 | [361150-mario-kart-tour-wedding-tour.json](./361150-mario-kart-tour-wedding-tour.json) |
+| Mario Kart Tour: Wild West Tour | 361128 | [361128-mario-kart-tour-wild-west-tour.json](./361128-mario-kart-tour-wild-west-tour.json) |
+| Mario Kart Tour: Winter Tour | 361137 | [361137-mario-kart-tour-winter-tour.json](./361137-mario-kart-tour-winter-tour.json) |
+| Mario Kart Tour: Yoshi Tour | 361120 | [361120-mario-kart-tour-yoshi-tour.json](./361120-mario-kart-tour-yoshi-tour.json) |
+| Mario Kart Tour: Yoshi Tour | 361145 | [361145-mario-kart-tour-yoshi-tour.json](./361145-mario-kart-tour-yoshi-tour.json) |
 | Mario Kart XXL | 146289 | [146289-mario-kart-xxl.json](./146289-mario-kart-xxl.json) |
 | Mario Kart: Speed Strife | 250048 | [250048-mario-kart-speed-strife.json](./250048-mario-kart-speed-strife.json) |
 | Mario Kart: Virtual Cup | 195211 | [195211-mario-kart-virtual-cup.json](./195211-mario-kart-virtual-cup.json) |
