@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T06:18:20.332Z",
-  "total_missing": 35929,
+  "generated_at": "2026-09-06T06:33:18.728Z",
+  "total_missing": 35979,
   "games": [
     {
       "igdb_id": 306086,
@@ -3061,6 +3061,11 @@
       "igdb_id": 318177,
       "game_name": "A Tiny Eternity",
       "file": "missing/A/318177-a-tiny-eternity.json"
+    },
+    {
+      "igdb_id": 352758,
+      "game_name": "A todas mis memorias futuras",
+      "file": "missing/A/352758-a-todas-mis-memorias-futuras.json"
     },
     {
       "igdb_id": 58803,
@@ -12823,6 +12828,16 @@
       "file": "missing/A/19442-automobilista.json"
     },
     {
+      "igdb_id": 352745,
+      "game_name": "Automobilista 2: Adrenaline Pack Pt2",
+      "file": "missing/A/352745-automobilista-2-adrenaline-pack-pt2.json"
+    },
+    {
+      "igdb_id": 352739,
+      "game_name": "Automobilista 2: Endurance Pack Pt2",
+      "file": "missing/A/352739-automobilista-2-endurance-pack-pt2.json"
+    },
+    {
       "igdb_id": 278171,
       "game_name": "Automobilista 2: Formula HiTech",
       "file": "missing/A/278171-automobilista-2-formula-hitech.json"
@@ -12836,6 +12851,16 @@
       "igdb_id": 156164,
       "game_name": "Automobilista 2: Hockenheimring Pack",
       "file": "missing/A/156164-automobilista-2-hockenheimring-pack.json"
+    },
+    {
+      "igdb_id": 352742,
+      "game_name": "Automobilista 2: IMSA Track Pack",
+      "file": "missing/A/352742-automobilista-2-imsa-track-pack.json"
+    },
+    {
+      "igdb_id": 352740,
+      "game_name": "Automobilista 2: Lamborghini Dream Pack Pt1",
+      "file": "missing/A/352740-automobilista-2-lamborghini-dream-pack-pt1.json"
     },
     {
       "igdb_id": 227517,
@@ -21343,6 +21368,11 @@
       "file": "missing/B/245006-bounce-boing-voyage.json"
     },
     {
+      "igdb_id": 352747,
+      "game_name": "Bounce Cat",
+      "file": "missing/B/352747-bounce-cat.json"
+    },
+    {
       "igdb_id": 233232,
       "game_name": "Bounce Lounge",
       "file": "missing/B/233232-bounce-lounge.json"
@@ -23686,6 +23716,11 @@
       "igdb_id": 231613,
       "game_name": "Burninate the Barnyard",
       "file": "missing/B/231613-burninate-the-barnyard.json"
+    },
+    {
+      "igdb_id": 352743,
+      "game_name": "Burning Monkey Casino",
+      "file": "missing/B/352743-burning-monkey-casino.json"
     },
     {
       "igdb_id": 150681,
@@ -26391,6 +26426,11 @@
       "igdb_id": 195791,
       "game_name": "Catharsis",
       "file": "missing/C/195791-catharsis.json"
+    },
+    {
+      "igdb_id": 352757,
+      "game_name": "Cathedral: Crow's Curse",
+      "file": "missing/C/352757-cathedral-crows-curse.json"
     },
     {
       "igdb_id": 2151,
@@ -42458,6 +42498,11 @@
       "file": "missing/D/275902-doppelganger.json"
     },
     {
+      "igdb_id": 352746,
+      "game_name": "DoppelTest",
+      "file": "missing/D/352746-doppeltest.json"
+    },
+    {
       "igdb_id": 84278,
       "game_name": "Dor",
       "file": "missing/D/84278-dor.json"
@@ -48241,6 +48286,11 @@
       "igdb_id": 16576,
       "game_name": "Epigenesis",
       "file": "missing/E/16576-epigenesis.json"
+    },
+    {
+      "igdb_id": 352759,
+      "game_name": "Epithymía",
+      "file": "missing/E/352759-epithymia.json"
     },
     {
       "igdb_id": 16939,
@@ -71568,6 +71618,11 @@
       "file": "missing/H/331124-hypnosis-of-corruption.json"
     },
     {
+      "igdb_id": 352744,
+      "game_name": "Hypnosis: Quiet Nights",
+      "file": "missing/H/352744-hypnosis-quiet-nights.json"
+    },
+    {
       "igdb_id": 167291,
       "game_name": "Hypoxia: One Last Breath",
       "file": "missing/H/167291-hypoxia-one-last-breath.json"
@@ -72186,6 +72241,11 @@
       "igdb_id": 373525,
       "game_name": "Iceburg",
       "file": "missing/I/373525-iceburg.json"
+    },
+    {
+      "igdb_id": 352751,
+      "game_name": "Icee Slush Rush",
+      "file": "missing/I/352751-icee-slush-rush.json"
     },
     {
       "igdb_id": 180837,
@@ -79648,6 +79708,11 @@
       "file": "missing/K/406092-kill-the-nova.json"
     },
     {
+      "igdb_id": 352718,
+      "game_name": "Kill your Darlings",
+      "file": "missing/K/352718-kill-your-darlings.json"
+    },
+    {
       "igdb_id": 172750,
       "game_name": "Killer and Strawberry Plus",
       "file": "missing/K/172750-killer-and-strawberry-plus.json"
@@ -82141,6 +82206,11 @@
       "igdb_id": 141243,
       "game_name": "Land of Chark",
       "file": "missing/L/141243-land-of-chark.json"
+    },
+    {
+      "igdb_id": 352737,
+      "game_name": "Land of Glarefall",
+      "file": "missing/L/352737-land-of-glarefall.json"
     },
     {
       "igdb_id": 8123,
@@ -91481,6 +91551,121 @@
       "igdb_id": 245035,
       "game_name": "Mega Man Arkanoid",
       "file": "missing/M/245035-mega-man-arkanoid.json"
+    },
+    {
+      "igdb_id": 352727,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Admission for Yuika's Show",
+      "file": "missing/M/352727-mega-man-battle-network-6-patch-card-admission-for-yuikas-show.json"
+    },
+    {
+      "igdb_id": 352714,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Al's Boarding Ticket",
+      "file": "missing/M/352714-mega-man-battle-network-6-patch-card-als-boarding-ticket.json"
+    },
+    {
+      "igdb_id": 352724,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Baryl's Faith",
+      "file": "missing/M/352724-mega-man-battle-network-6-patch-card-baryls-faith.json"
+    },
+    {
+      "igdb_id": 352723,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Chaud's Mission",
+      "file": "missing/M/352723-mega-man-battle-network-6-patch-card-chauds-mission.json"
+    },
+    {
+      "igdb_id": 352721,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Dad's Debug Techniques",
+      "file": "missing/M/352721-mega-man-battle-network-6-patch-card-dads-debug-techniques.json"
+    },
+    {
+      "igdb_id": 352713,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Dark Scyth's Shady Business",
+      "file": "missing/M/352713-mega-man-battle-network-6-patch-card-dark-scyths-shady-business.json"
+    },
+    {
+      "igdb_id": 352716,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Dingo's Battle Cry",
+      "file": "missing/M/352716-mega-man-battle-network-6-patch-card-dingos-battle-cry.json"
+    },
+    {
+      "igdb_id": 352731,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Double Beast",
+      "file": "missing/M/352731-mega-man-battle-network-6-patch-card-double-beast.json"
+    },
+    {
+      "igdb_id": 352733,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Falzar",
+      "file": "missing/M/352733-mega-man-battle-network-6-patch-card-falzar.json"
+    },
+    {
+      "igdb_id": 352732,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Gregar",
+      "file": "missing/M/352732-mega-man-battle-network-6-patch-card-gregar.json"
+    },
+    {
+      "igdb_id": 352725,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Iris's Kindness",
+      "file": "missing/M/352725-mega-man-battle-network-6-patch-card-iriss-kindness.json"
+    },
+    {
+      "igdb_id": 352722,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Mamoru's Card",
+      "file": "missing/M/352722-mega-man-battle-network-6-patch-card-mamorus-card.json"
+    },
+    {
+      "igdb_id": 352717,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Master Feng-Tian's Instruction",
+      "file": "missing/M/352717-mega-man-battle-network-6-patch-card-master-feng-tians-instruction.json"
+    },
+    {
+      "igdb_id": 352719,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Moliarty's Drill Soul!",
+      "file": "missing/M/352719-mega-man-battle-network-6-patch-card-moliartys-drill-soul.json"
+    },
+    {
+      "igdb_id": 352710,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Mr. Match's Lesson Plans",
+      "file": "missing/M/352710-mega-man-battle-network-6-patch-card-mr-matchs-lesson-plans.json"
+    },
+    {
+      "igdb_id": 352720,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Mr. Press's Recycling",
+      "file": "missing/M/352720-mega-man-battle-network-6-patch-card-mr-presss-recycling.json"
+    },
+    {
+      "igdb_id": 352712,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Ms. Fahran's Cutlery",
+      "file": "missing/M/352712-mega-man-battle-network-6-patch-card-ms-fahrans-cutlery.json"
+    },
+    {
+      "igdb_id": 352711,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Ms. Zap's Bodyguard",
+      "file": "missing/M/352711-mega-man-battle-network-6-patch-card-ms-zaps-bodyguard.json"
+    },
+    {
+      "igdb_id": 352728,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Prosecutor Ito's Income",
+      "file": "missing/M/352728-mega-man-battle-network-6-patch-card-prosecutor-itos-income.json"
+    },
+    {
+      "igdb_id": 352715,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Shuko's Practicum",
+      "file": "missing/M/352715-mega-man-battle-network-6-patch-card-shukos-practicum.json"
+    },
+    {
+      "igdb_id": 352726,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Tab's Discounts",
+      "file": "missing/M/352726-mega-man-battle-network-6-patch-card-tabs-discounts.json"
+    },
+    {
+      "igdb_id": 352729,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Vic's Persistence",
+      "file": "missing/M/352729-mega-man-battle-network-6-patch-card-vics-persistence.json"
+    },
+    {
+      "igdb_id": 352730,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Wily's Ambition",
+      "file": "missing/M/352730-mega-man-battle-network-6-patch-card-wilys-ambition.json"
     },
     {
       "igdb_id": 206810,
@@ -102463,6 +102648,11 @@
       "file": "missing/N/120416-nightmare-game.json"
     },
     {
+      "igdb_id": 352749,
+      "game_name": "Nightmare Invasion",
+      "file": "missing/N/352749-nightmare-invasion.json"
+    },
+    {
       "igdb_id": 334501,
       "game_name": "Nightmare Kitchen",
       "file": "missing/N/334501-nightmare-kitchen.json"
@@ -106781,6 +106971,11 @@
       "igdb_id": 25779,
       "game_name": "Operation Market Garden: Drive on Arnhem, September 1944",
       "file": "missing/O/25779-operation-market-garden-drive-on-arnhem-september-1944.json"
+    },
+    {
+      "igdb_id": 352734,
+      "game_name": "Operation Nachtsprung: Odyssey Live",
+      "file": "missing/O/352734-operation-nachtsprung-odyssey-live.json"
     },
     {
       "igdb_id": 199098,
@@ -120943,6 +121138,11 @@
       "file": "missing/R/363874-reap-we-reap-what-crawls.json"
     },
     {
+      "igdb_id": 352748,
+      "game_name": "Reaper Actual",
+      "file": "missing/R/352748-reaper-actual.json"
+    },
+    {
       "igdb_id": 363896,
       "game_name": "Reaper's Awakening!",
       "file": "missing/R/363896-reapers-awakening.json"
@@ -124816,6 +125016,26 @@
       "igdb_id": 137116,
       "game_name": "Rockman 8 FC",
       "file": "missing/R/137116-rockman-8-fc.json"
+    },
+    {
+      "igdb_id": 352754,
+      "game_name": "Rockman EXE 5: Kaizou Card - Part 1",
+      "file": "missing/R/352754-rockman-exe-5-kaizou-card-part-1.json"
+    },
+    {
+      "igdb_id": 352756,
+      "game_name": "Rockman EXE 5: Kaizou Card - Part 2",
+      "file": "missing/R/352756-rockman-exe-5-kaizou-card-part-2.json"
+    },
+    {
+      "igdb_id": 352736,
+      "game_name": "Rockman EXE 6: Kaizou Card - Part 1",
+      "file": "missing/R/352736-rockman-exe-6-kaizou-card-part-1.json"
+    },
+    {
+      "igdb_id": 352738,
+      "game_name": "Rockman EXE 6: Kaizou Card - Part 2",
+      "file": "missing/R/352738-rockman-exe-6-kaizou-card-part-2.json"
     },
     {
       "igdb_id": 265959,
@@ -151588,6 +151808,11 @@
       "file": "missing/T/86118-the-bread-pub-brawlers.json"
     },
     {
+      "igdb_id": 352753,
+      "game_name": "The Bridge",
+      "file": "missing/T/352753-the-bridge.json"
+    },
+    {
       "igdb_id": 169445,
       "game_name": "The BridgeMaster",
       "file": "missing/T/169445-the-bridgemaster.json"
@@ -166823,6 +167048,11 @@
       "file": "missing/U/392159-uktena-64.json"
     },
     {
+      "igdb_id": 352735,
+      "game_name": "Ultakia",
+      "file": "missing/U/352735-ultakia.json"
+    },
+    {
       "igdb_id": 149602,
       "game_name": "Ultima Adventum",
       "file": "missing/U/149602-ultima-adventum.json"
@@ -170943,6 +171173,11 @@
       "file": "missing/V/336361-voyage-on-the-alihacc-desert.json"
     },
     {
+      "igdb_id": 352752,
+      "game_name": "Voyage Router",
+      "file": "missing/V/352752-voyage-router.json"
+    },
+    {
       "igdb_id": 272001,
       "game_name": "Voyeur Hotel",
       "file": "missing/V/272001-voyeur-hotel.json"
@@ -173096,6 +173331,11 @@
       "igdb_id": 402286,
       "game_name": "Welcome, [Employee Name]",
       "file": "missing/W/402286-welcome-employee-name.json"
+    },
+    {
+      "igdb_id": 352755,
+      "game_name": "Well, Fuck You Too",
+      "file": "missing/W/352755-well-fuck-you-too.json"
     },
     {
       "igdb_id": 267680,
@@ -176448,6 +176688,11 @@
       "file": "missing/W/24755-wrestling-spirit-3.json"
     },
     {
+      "igdb_id": 352750,
+      "game_name": "Wretch: Divine Ascent",
+      "file": "missing/W/352750-wretch-divine-ascent.json"
+    },
+    {
       "igdb_id": 208020,
       "game_name": "Wrist Nebula",
       "file": "missing/W/208020-wrist-nebula.json"
@@ -177926,6 +178171,11 @@
       "igdb_id": 267085,
       "game_name": "Your Train 2",
       "file": "missing/Y/267085-your-train-2.json"
+    },
+    {
+      "igdb_id": 352760,
+      "game_name": "Your Very Last Words",
+      "file": "missing/Y/352760-your-very-last-words.json"
     },
     {
       "igdb_id": 216478,
