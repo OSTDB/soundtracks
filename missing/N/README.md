@@ -383,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neuralimina | 382215 | [382215-neuralimina.json](./382215-neuralimina.json) |
 | Neuro | 141857 | [141857-neuro.json](./141857-neuro.json) |
 | Neuro Hacker | 278733 | [278733-neuro-hacker.json](./278733-neuro-hacker.json) |
+| Neuro Nightmare | 340949 | [340949-neuro-nightmare.json](./340949-neuro-nightmare.json) |
 | Neurocracy 2.049 | 257097 | [257097-neurocracy-2-049.json](./257097-neurocracy-2-049.json) |
 | Neurokino Retrograde | 321120 | [321120-neurokino-retrograde.json](./321120-neurokino-retrograde.json) |
 | NeuroReal VR | 100819 | [100819-neuroreal-vr.json](./100819-neuroreal-vr.json) |
