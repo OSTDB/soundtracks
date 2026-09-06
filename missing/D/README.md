@@ -703,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonstar | 9117 | [9117-demonstar.json](./9117-demonstar.json) |
 | DemonsTier | 61647 | [61647-demonstier.json](./61647-demonstier.json) |
 | Demonworld: Dark Armies | 73841 | [73841-demonworld-dark-armies.json](./73841-demonworld-dark-armies.json) |
+| Den-Den: Tokyo Horror | 345507 | [345507-den-den-tokyo-horror.json](./345507-den-den-tokyo-horror.json) |
 | Den-ou Suikoden | 91947 | [91947-den-ou-suikoden.json](./91947-den-ou-suikoden.json) |
 | Dendam | 262104 | [262104-dendam.json](./262104-dendam.json) |
 | Dendron 64 | 401493 | [401493-dendron-64.json](./401493-dendron-64.json) |
