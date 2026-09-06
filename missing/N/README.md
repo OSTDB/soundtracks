@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Of SilkenCore: Train Hell | 333570 | [333570-nightmare-of-silkencore-train-hell.json](./333570-nightmare-of-silkencore-train-hell.json) |
 | Nightmare Shift | 179716 | [179716-nightmare-shift.json](./179716-nightmare-shift.json) |
 | Nightmare Shift | 321774 | [321774-nightmare-shift.json](./321774-nightmare-shift.json) |
+| Nightmare's Revenge | 322006 | [322006-nightmares-revenge.json](./322006-nightmares-revenge.json) |
 | NightmareBullet | 105364 | [105364-nightmarebullet.json](./105364-nightmarebullet.json) |
 | Nightmares from the Deep 3: Davy Jones | 17140 | [17140-nightmares-from-the-deep-3-davy-jones.json](./17140-nightmares-from-the-deep-3-davy-jones.json) |
 | Nights To Remember | 263772 | [263772-nights-to-remember.json](./263772-nights-to-remember.json) |
