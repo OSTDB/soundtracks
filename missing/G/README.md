@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Box | 314675 | [314675-garden-box.json](./314675-garden-box.json) |
 | Garden Business | 215902 | [215902-garden-business.json](./215902-garden-business.json) |
 | Garden of Coloured Lights | 107235 | [107235-garden-of-coloured-lights.json](./107235-garden-of-coloured-lights.json) |
+| Garden Party Shop | 359399 | [359399-garden-party-shop.json](./359399-garden-party-shop.json) |
 | Garden's Bane: DG's Quest | 208610 | [208610-gardens-bane-dgs-quest.json](./208610-gardens-bane-dgs-quest.json) |
 | Gardenia: Prologue | 402924 | [402924-gardenia-prologue.json](./402924-gardenia-prologue.json) |
 | Gardens Inc.: From Rakes to Riches | 36409 | [36409-gardens-inc-from-rakes-to-riches.json](./36409-gardens-inc-from-rakes-to-riches.json) |
@@ -262,6 +263,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gehirn Sport Sammlung | 81388 | [81388-gehirn-sport-sammlung.json](./81388-gehirn-sport-sammlung.json) |
 | Geki Kuukan Pro Baseball: At the End of the Century 1999 | 302700 | [302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json](./302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json) |
 | Gekitotsu! Saikyou Pro Yakyuu Dream Battle | 220303 | [220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json](./220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json) |
+| Gekko and Luna Girl's Moths | 359430 | [359430-gekko-and-luna-girls-moths.json](./359430-gekko-and-luna-girls-moths.json) |
+| Gekko's Super Strength | 359431 | [359431-gekkos-super-strength.json](./359431-gekkos-super-strength.json) |
 | Gekkou no Carnevale | 137102 | [137102-gekkou-no-carnevale.json](./137102-gekkou-no-carnevale.json) |
 | Gelldonia | 156648 | [156648-gelldonia.json](./156648-gelldonia.json) |
 | Gelluloid Domination: SpaceLab Simulator | 265437 | [265437-gelluloid-domination-spacelab-simulator.json](./265437-gelluloid-domination-spacelab-simulator.json) |
