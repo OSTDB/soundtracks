@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 360: Three Sixty | 45318 | [45318-360-three-sixty.json](./45318-360-three-sixty.json) |
 | 365 Days | 29917 | [29917-365-days.json](./29917-365-days.json) |
 | 39 Days to Mars | 32125 | [32125-39-days-to-mars.json](./32125-39-days-to-mars.json) |
+| 3AM on Fish Island | 367447 | [367447-3am-on-fish-island.json](./367447-3am-on-fish-island.json) |
 | 3Buttons | 110352 | [110352-3buttons.json](./110352-3buttons.json) |
 | 3D Alien Syndrome | 202925 | [202925-3d-alien-syndrome.json](./202925-3d-alien-syndrome.json) |
 | 3D Bowling USA | 205830 | [205830-3d-bowling-usa.json](./205830-3d-bowling-usa.json) |
