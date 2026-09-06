@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harpy | 412265 | [412265-harpy.json](./412265-harpy.json) |
 | Harrier Attack! | 13004 | [13004-harrier-attack.json](./13004-harrier-attack.json) |
 | Harrowing Gate: Ghost Dimension | 199104 | [199104-harrowing-gate-ghost-dimension.json](./199104-harrowing-gate-ghost-dimension.json) |
+| Harrowlight | 358869 | [358869-harrowlight.json](./358869-harrowlight.json) |
 | Harry Potter and the Goblet of Fire: The Triwizard Tournament | 266502 | [266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json](./266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json) |
 | Harry Potter and the Prisoner of Azkaban | 3943 | [3943-harry-potter-and-the-prisoner-of-azkaban.json](./3943-harry-potter-and-the-prisoner-of-azkaban.json) |
 | Harry Potter and the Prisoner of Azkaban: The Quest of Sir Cadogan | 266500 | [266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json](./266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json) |
