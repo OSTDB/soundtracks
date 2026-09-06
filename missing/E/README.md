@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthrise | 20554 | [20554-earthrise.json](./20554-earthrise.json) |
 | Earthtia Saga: Larthur's Legend | 242223 | [242223-earthtia-saga-larthurs-legend.json](./242223-earthtia-saga-larthurs-legend.json) |
 | Earthworm Jim: Menace 2 the Galaxy | 3482 | [3482-earthworm-jim-menace-2-the-galaxy.json](./3482-earthworm-jim-menace-2-the-galaxy.json) |
+| EarWorm | 340931 | [340931-earworm.json](./340931-earworm.json) |
 | East Defense | 305526 | [305526-east-defense.json](./305526-east-defense.json) |
 | East Front Campaign CD 1 | 78704 | [78704-east-front-campaign-cd-1.json](./78704-east-front-campaign-cd-1.json) |
 | East Front II | 84257 | [84257-east-front-ii.json](./84257-east-front-ii.json) |
@@ -409,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encounter | 81445 | [81445-encounter.json](./81445-encounter.json) |
 | Encounter of Galaxies | 28931 | [28931-encounter-of-galaxies.json](./28931-encounter-of-galaxies.json) |
 | Encroacher: Snakes | 413004 | [413004-encroacher-snakes.json](./413004-encroacher-snakes.json) |
+| Encrypted_Nightmares | 340946 | [340946-encrypted-nightmares.json](./340946-encrypted-nightmares.json) |
 | End of Days | 151183 | [151183-end-of-days.json](./151183-end-of-days.json) |
 | End of Garbage | 382774 | [382774-end-of-garbage.json](./382774-end-of-garbage.json) |
 | End of Twilight | 70973 | [70973-end-of-twilight.json](./70973-end-of-twilight.json) |
