@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farfalla | 91442 | [91442-farfalla.json](./91442-farfalla.json) |
 | Faria: A World of Mystery and Danger! | 48060 | [48060-faria-a-world-of-mystery-and-danger.json](./48060-faria-a-world-of-mystery-and-danger.json) |
 | Farjius no Jakoutei: Neo Metal Fantasy | 69862 | [69862-farjius-no-jakoutei-neo-metal-fantasy.json](./69862-farjius-no-jakoutei-neo-metal-fantasy.json) |
+| Farland Saga I & II: Saturn Tribute | 360013 | [360013-farland-saga-i-and-ii-saturn-tribute.json](./360013-farland-saga-i-and-ii-saturn-tribute.json) |
 | Farlight 84 | 142862 | [142862-farlight-84.json](./142862-farlight-84.json) |
 | Farm Animals - Activity Book | 96059 | [96059-farm-animals-activity-book.json](./96059-farm-animals-activity-book.json) |
 | Farm Boy | 92507 | [92507-farm-boy.json](./92507-farm-boy.json) |
@@ -653,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefighter Connor | 266524 | [266524-firefighter-connor.json](./266524-firefighter-connor.json) |
 | Firefighters Code Red | 410889 | [410889-firefighters-code-red.json](./410889-firefighters-code-red.json) |
 | Firefighters: The Simulation | 32042 | [32042-firefighters-the-simulation.json](./32042-firefighters-the-simulation.json) |
+| Firefighting Rescue Simulator | 359988 | [359988-firefighting-rescue-simulator.json](./359988-firefighting-rescue-simulator.json) |
 | Firefly | 55209 | [55209-firefly.json](./55209-firefly.json) |
 | FireFly | 381018 | [381018-firefly.json](./381018-firefly.json) |
 | Firefly Online Cortex | 35908 | [35908-firefly-online-cortex.json](./35908-firefly-online-cortex.json) |
@@ -1144,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Top | 199646 | [199646-formula-top.json](./199646-formula-top.json) |
 | Formula X | 99643 | [99643-formula-x.json](./99643-formula-x.json) |
 | Forsaken Compound | 299441 | [299441-forsaken-compound.json](./299441-forsaken-compound.json) |
+| Forsaken Ones | 360008 | [360008-forsaken-ones.json](./360008-forsaken-ones.json) |
 | Forsaken Universe | 166771 | [166771-forsaken-universe.json](./166771-forsaken-universe.json) |
 | Fort Apache | 132816 | [132816-fort-apache.json](./132816-fort-apache.json) |
 | Fort Solis: Limited Edition | 261540 | [261540-fort-solis-limited-edition.json](./261540-fort-solis-limited-edition.json) |
@@ -1441,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Machine | 315276 | [315276-fruit-machine.json](./315276-fruit-machine.json) |
 | Fruit Machine Mania | 97369 | [97369-fruit-machine-mania.json](./97369-fruit-machine-mania.json) |
 | Fruit Postal Service | 119777 | [119777-fruit-postal-service.json](./119777-fruit-postal-service.json) |
+| Fruit Slide | 359993 | [359993-fruit-slide.json](./359993-fruit-slide.json) |
 | Fruit Warrior AR | 241047 | [241047-fruit-warrior-ar.json](./241047-fruit-warrior-ar.json) |
 | Fruits Inc. Deluxe Pack | 35750 | [35750-fruits-inc-deluxe-pack.json](./35750-fruits-inc-deluxe-pack.json) |
 | Fruits of Fury | 413618 | [413618-fruits-of-fury.json](./413618-fruits-of-fury.json) |
