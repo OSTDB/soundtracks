@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Rivalry | 25761 | [25761-galactic-rivalry.json](./25761-galactic-rivalry.json) |
 | Galactic Ruler | 126926 | [126926-galactic-ruler.json](./126926-galactic-ruler.json) |
 | Galactic Rusherz | 314667 | [314667-galactic-rusherz.json](./314667-galactic-rusherz.json) |
+| Galactic Simulator | 329595 | [329595-galactic-simulator.json](./329595-galactic-simulator.json) |
 | Galactic Traffic Control | 325839 | [325839-galactic-traffic-control.json](./325839-galactic-traffic-control.json) |
 | Galactic Vibes | 336890 | [336890-galactic-vibes.json](./336890-galactic-vibes.json) |
 | Galactic Wars | 133996 | [133996-galactic-wars.json](./133996-galactic-wars.json) |
@@ -767,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Around! | 126509 | [126509-golf-around.json](./126509-golf-around.json) |
 | Golf Cart Race | 105919 | [105919-golf-cart-race.json](./105919-golf-cart-race.json) |
 | Golf Keeper | 130954 | [130954-golf-keeper.json](./130954-golf-keeper.json) |
+| Golf Loop | 329570 | [329570-golf-loop.json](./329570-golf-loop.json) |
 | Golf Master | 137673 | [137673-golf-master.json](./137673-golf-master.json) |
 | Golf Monster | 156670 | [156670-golf-monster.json](./156670-golf-monster.json) |
 | Golf Of America | 351647 | [351647-golf-of-america.json](./351647-golf-of-america.json) |
@@ -925,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Slam | 20812 | [20812-grand-slam.json](./20812-grand-slam.json) |
 | Grand Story | 182554 | [182554-grand-story.json](./182554-grand-story.json) |
 | Grand Tactician: The Civil War (1861-1865) | 106575 | [106575-grand-tactician-the-civil-war-1861-1865.json](./106575-grand-tactician-the-civil-war-1861-1865.json) |
+| Grand Taxi Auto | 329571 | [329571-grand-taxi-auto.json](./329571-grand-taxi-auto.json) |
 | Grand Theft Auto III: 10 Year Anniversary Edition | 22930 | [22930-grand-theft-auto-iii-10-year-anniversary-edition.json](./22930-grand-theft-auto-iii-10-year-anniversary-edition.json) |
 | Grand Theft Auto Online | 134710 | [134710-grand-theft-auto-online.json](./134710-grand-theft-auto-online.json) |
 | Grand Theft Auto Online: The Diamond Casino Heist | 398950 | [398950-grand-theft-auto-online-the-diamond-casino-heist.json](./398950-grand-theft-auto-online-the-diamond-casino-heist.json) |
@@ -997,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity run | 153432 | [153432-gravity-run.json](./153432-gravity-run.json) |
 | Gravity Rush Remastered: Collector's Edition | 205265 | [205265-gravity-rush-remastered-collectors-edition.json](./205265-gravity-rush-remastered-collectors-edition.json) |
 | Gravity Still Sucks! | 251210 | [251210-gravity-still-sucks.json](./251210-gravity-still-sucks.json) |
+| Gravity Storm: First Mission | 329586 | [329586-gravity-storm-first-mission.json](./329586-gravity-storm-first-mission.json) |
 | Gravity Was A Mistake | 366830 | [366830-gravity-was-a-mistake.json](./366830-gravity-was-a-mistake.json) |
 | Gravulse | 141882 | [141882-gravulse.json](./141882-gravulse.json) |
 | Gray Matter | 264873 | [264873-gray-matter.json](./264873-gray-matter.json) |
