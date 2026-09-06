@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oozing Islands | 165685 | [165685-oozing-islands.json](./165685-oozing-islands.json) |
 | Open Bar | 58804 | [58804-open-bar.json](./58804-open-bar.json) |
 | Open Door | 214177 | [214177-open-door.json](./214177-open-door.json) |
+| Open Fire | 348792 | [348792-open-fire.json](./348792-open-fire.json) |
 | Open Fire: Ready | 389966 | [389966-open-fire-ready.json](./389966-open-fire-ready.json) |
 | Open Rails | 89985 | [89985-open-rails.json](./89985-open-rails.json) |
 | Open Space Collection | 196306 | [196306-open-space-collection.json](./196306-open-space-collection.json) |
