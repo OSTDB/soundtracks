@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuppie Psycho | 26565 | [26565-yuppie-psycho.json](./26565-yuppie-psycho.json) |
 | Yurei Ninja | 242213 | [242213-yurei-ninja.json](./242213-yurei-ninja.json) |
 | Yuri Blossom! | 358314 | [358314-yuri-blossom.json](./358314-yuri-blossom.json) |
+| Yuri Paddle: An Anime Convention Murder Mystery | 318404 | [318404-yuri-paddle-an-anime-convention-murder-mystery.json](./318404-yuri-paddle-an-anime-convention-murder-mystery.json) |
 | Yurivania 3: Circle of the Polycule | 364533 | [364533-yurivania-3-circle-of-the-polycule.json](./364533-yurivania-3-circle-of-the-polycule.json) |
 | Yurukill: The Calumniation Games - Deluxe Edition | 175976 | [175976-yurukill-the-calumniation-games-deluxe-edition.json](./175976-yurukill-the-calumniation-games-deluxe-edition.json) |
 | Yusha no Hanamichi | 331863 | [331863-yusha-no-hanamichi.json](./331863-yusha-no-hanamichi.json) |
