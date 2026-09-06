@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katalyst | 163959 | [163959-katalyst.json](./163959-katalyst.json) |
 | Katamari Damacy Mobile | 243426 | [243426-katamari-damacy-mobile.json](./243426-katamari-damacy-mobile.json) |
 | Katana Action | 57132 | [57132-katana-action.json](./57132-katana-action.json) |
+| Katana Dragon | 326631 | [326631-katana-dragon.json](./326631-katana-dragon.json) |
 | Katana Of Rin | 297223 | [297223-katana-of-rin.json](./297223-katana-of-rin.json) |
 | Katana Zero DLC | 339625 | [339625-katana-zero-dlc.json](./339625-katana-zero-dlc.json) |
 | Katanirvana | 253028 | [253028-katanirvana.json](./253028-katanirvana.json) |
@@ -225,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keri-hime Sweets | 212454 | [212454-keri-hime-sweets.json](./212454-keri-hime-sweets.json) |
 | Keridwen | 161404 | [161404-keridwen.json](./161404-keridwen.json) |
 | Kero Kero Keroppi no Issho ni Asobou | 40239 | [40239-kero-kero-keroppi-no-issho-ni-asobou.json](./40239-kero-kero-keroppi-no-issho-ni-asobou.json) |
+| Kero Quest 64 | 326620 | [326620-kero-quest-64.json](./326620-kero-quest-64.json) |
 | Keroro RPG: Kishi to Busha to Densetsu no Kaizoku | 67306 | [67306-keroro-rpg-kishi-to-busha-to-densetsu-no-kaizoku.json](./67306-keroro-rpg-kishi-to-busha-to-densetsu-no-kaizoku.json) |
 | Kestrel | 152386 | [152386-kestrel.json](./152386-kestrel.json) |
 | KetnetKick | 94236 | [94236-ketnetkick.json](./94236-ketnetkick.json) |
