@@ -1110,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot 'n' Smash | 340374 | [340374-shoot-n-smash.json](./340374-shoot-n-smash.json) |
 | Shoot Bubble Deluxe | 312882 | [312882-shoot-bubble-deluxe.json](./312882-shoot-bubble-deluxe.json) |
 | Shoot Coin Yen: Exchange Puzzle | 227495 | [227495-shoot-coin-yen-exchange-puzzle.json](./227495-shoot-coin-yen-exchange-puzzle.json) |
+| Shoot For The Stars | 335902 | [335902-shoot-for-the-stars.json](./335902-shoot-for-the-stars.json) |
 | Shoot Girl | 113022 | [113022-shoot-girl.json](./113022-shoot-girl.json) |
 | Shoot n Scroll 3D | 261518 | [261518-shoot-n-scroll-3d.json](./261518-shoot-n-scroll-3d.json) |
 | Shoot Shoot Nitori the Golden | 202949 | [202949-shoot-shoot-nitori-the-golden.json](./202949-shoot-shoot-nitori-the-golden.json) |
@@ -1327,7 +1328,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Vol. 56: The Sniper | 57130 | [57130-simple-1500-series-vol-56-the-sniper.json](./57130-simple-1500-series-vol-56-the-sniper.json) |
 | Simple 2000 Series 2-in-1 Vol. 4: The Bushido & The Sniper 2 | 57131 | [57131-simple-2000-series-2-in-1-vol-4-the-bushido-and-the-sniper-2.json](./57131-simple-2000-series-2-in-1-vol-4-the-bushido-and-the-sniper-2.json) |
 | Simple 2000 Series Portable Vol. 1: The Mahjong | 82135 | [82135-simple-2000-series-portable-vol-1-the-mahjong.json](./82135-simple-2000-series-portable-vol-1-the-mahjong.json) |
+| Simple 2000 Series Vol. 14: The Billiard | 335904 | [335904-simple-2000-series-vol-14-the-billiard.json](./335904-simple-2000-series-vol-14-the-billiard.json) |
 | Simple 2000 Series Vol. 19: The Renai Simulation - Watashi ni Oma Cafe | 70431 | [70431-simple-2000-series-vol-19-the-renai-simulation-watashi-ni-oma-cafe.json](./70431-simple-2000-series-vol-19-the-renai-simulation-watashi-ni-oma-cafe.json) |
+| Simple 2000 Series Vol. 20: The Dungeon RPG | 335906 | [335906-simple-2000-series-vol-20-the-dungeon-rpg.json](./335906-simple-2000-series-vol-20-the-dungeon-rpg.json) |
+| Simple 2000 Series Vol. 24: The Bowling Hyper | 335909 | [335909-simple-2000-series-vol-24-the-bowling-hyper.json](./335909-simple-2000-series-vol-24-the-bowling-hyper.json) |
+| Simple 2000 Series Vol. 32: The Sensha | 335914 | [335914-simple-2000-series-vol-32-the-sensha.json](./335914-simple-2000-series-vol-32-the-sensha.json) |
 | Simple 2000 Series Vol. 88: The Mini Suke Porisu | 43325 | [43325-simple-2000-series-vol-88-the-mini-suke-porisu.json](./43325-simple-2000-series-vol-88-the-mini-suke-porisu.json) |
 | Simple 500 Series Vol. 2: The Misshitsu kara no Dasshutsu | 79351 | [79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json](./79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json) |
 | Simple Characters 2000 Series Vol. 11: Detective Conan - The Board Game | 78706 | [78706-simple-characters-2000-series-vol-11-detective-conan-the-board-game.json](./78706-simple-characters-2000-series-vol-11-detective-conan-the-board-game.json) |
@@ -2600,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Parade | 56500 | [56500-spirit-parade.json](./56500-spirit-parade.json) |
 | Spirit Rover | 107208 | [107208-spirit-rover.json](./107208-spirit-rover.json) |
 | Spirit Shift | 181365 | [181365-spirit-shift.json](./181365-spirit-shift.json) |
+| Spirit Speaker | 335854 | [335854-spirit-speaker.json](./335854-spirit-speaker.json) |
 | Spirit Timer | 223666 | [223666-spirit-timer.json](./223666-spirit-timer.json) |
 | Spirit Vendor | 374618 | [374618-spirit-vendor.json](./374618-spirit-vendor.json) |
 | Spirit Whisperer Conversation With Akari | 363409 | [363409-spirit-whisperer-conversation-with-akari.json](./363409-spirit-whisperer-conversation-with-akari.json) |
@@ -3110,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Blade x Nier: Automata | 317626 | [317626-stellar-blade-x-nier-automata.json](./317626-stellar-blade-x-nier-automata.json) |
 | Stellar Dawn | 67338 | [67338-stellar-dawn.json](./67338-stellar-dawn.json) |
 | Stellar Destiny: The Last Survivor | 350427 | [350427-stellar-destiny-the-last-survivor.json](./350427-stellar-destiny-the-last-survivor.json) |
+| Stellar Docks: Deep Space | 335959 | [335959-stellar-docks-deep-space.json](./335959-stellar-docks-deep-space.json) |
 | Stellar Echoes: Boxing Champion | 263747 | [263747-stellar-echoes-boxing-champion.json](./263747-stellar-echoes-boxing-champion.json) |
 | Stellar Echoes: Brave Trial | 263746 | [263746-stellar-echoes-brave-trial.json](./263746-stellar-echoes-brave-trial.json) |
 | Stellar Echoes: Maze Shooter | 263748 | [263748-stellar-echoes-maze-shooter.json](./263748-stellar-echoes-maze-shooter.json) |
@@ -3936,6 +3943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Shootout | 360582 | [360582-super-shootout.json](./360582-super-shootout.json) |
 | Super Sketchy Party | 167294 | [167294-super-sketchy-party.json](./167294-super-sketchy-party.json) |
 | Super Skyland | 175406 | [175406-super-skyland.json](./175406-super-skyland.json) |
+| Super Slime Boy | 335956 | [335956-super-slime-boy.json](./335956-super-slime-boy.json) |
 | Super Slinger | 192958 | [192958-super-slinger.json](./192958-super-slinger.json) |
 | Super Smash Bros Ultimate: Martial Artist Gi and Wig | 350408 | [350408-super-smash-bros-ultimate-martial-artist-gi-and-wig.json](./350408-super-smash-bros-ultimate-martial-artist-gi-and-wig.json) |
 | Super Smash Bros Ultimate: Rabbids Hat | 338184 | [338184-super-smash-bros-ultimate-rabbids-hat.json](./338184-super-smash-bros-ultimate-rabbids-hat.json) |
@@ -4020,6 +4028,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman: Man of Steel | 264862 | [264862-superman-man-of-steel.json](./264862-superman-man-of-steel.json) |
 | Superman: The Mysterious Mr. Mist | 73324 | [73324-superman-the-mysterious-mr-mist.json](./73324-superman-the-mysterious-mr-mist.json) |
 | Supermarket & Clothing Store Simulator | 404258 | [404258-supermarket-and-clothing-store-simulator.json](./404258-supermarket-and-clothing-store-simulator.json) |
+| Supermarket CEO Simulator | 335949 | [335949-supermarket-ceo-simulator.json](./335949-supermarket-ceo-simulator.json) |
+| Supermarket CEO Simulator VR | 335950 | [335950-supermarket-ceo-simulator-vr.json](./335950-supermarket-ceo-simulator-vr.json) |
 | Supermarket Manager | 218686 | [218686-supermarket-manager.json](./218686-supermarket-manager.json) |
 | Supermarket Simulator 2026 | 378772 | [378772-supermarket-simulator-2026.json](./378772-supermarket-simulator-2026.json) |
 | Supermarket Simulator 2026 | 399602 | [399602-supermarket-simulator-2026.json](./399602-supermarket-simulator-2026.json) |
