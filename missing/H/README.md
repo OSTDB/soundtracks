@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hair Mower 3D | 137052 | [137052-hair-mower-3d.json](./137052-hair-mower-3d.json) |
 | Hair Nah | 243379 | [243379-hair-nah.json](./243379-hair-nah.json) |
 | Haisonmeguri | 207523 | [207523-haisonmeguri.json](./207523-haisonmeguri.json) |
+| Hajimeru Sekai no Risouron: Goodbye World Index | 337092 | [337092-hajimeru-sekai-no-risouron-goodbye-world-index.json](./337092-hajimeru-sekai-no-risouron-goodbye-world-index.json) |
 | Hajwala Desert | 332819 | [332819-hajwala-desert.json](./332819-hajwala-desert.json) |
 | Hajwala Of Riyadh | 366215 | [366215-hajwala-of-riyadh.json](./366215-hajwala-of-riyadh.json) |
 | Hakarena Heart: Dare ga Tame ni Kimi ha Aru | 69292 | [69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json](./69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json) |
@@ -919,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman: Patient Zero | 76414 | [76414-hitman-patient-zero.json](./76414-hitman-patient-zero.json) |
 | Hitme | 178096 | [178096-hitme.json](./178096-hitme.json) |
 | Hitme 2 | 225273 | [225273-hitme-2.json](./225273-hitme-2.json) |
+| Hitokata | 337114 | [337114-hitokata.json](./337114-hitokata.json) |
 | Hitori Kakurenbo | 150131 | [150131-hitori-kakurenbo.json](./150131-hitori-kakurenbo.json) |
 | Hitotsu Tobashi Renai V | 217545 | [217545-hitotsu-tobashi-renai-v.json](./217545-hitotsu-tobashi-renai-v.json) |
 | Hitozuma Sentai Aisaiger | 65519 | [65519-hitozuma-sentai-aisaiger.json](./65519-hitozuma-sentai-aisaiger.json) |
