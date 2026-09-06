@@ -422,7 +422,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoidExpanse - Complete Collection | 53870 | [53870-voidexpanse-complete-collection.json](./53870-voidexpanse-complete-collection.json) |
 | Voidline | 408037 | [408037-voidline.json](./408037-voidline.json) |
 | VoidOut Parkour | 155660 | [155660-voidout-parkour.json](./155660-voidout-parkour.json) |
+| Voivod: The Nuclear Warrior | 339785 | [339785-voivod-the-nuclear-warrior.json](./339785-voivod-the-nuclear-warrior.json) |
 | Vol'Talkes - The AI War | 35846 | [35846-voltalkes-the-ai-war.json](./35846-voltalkes-the-ai-war.json) |
+| Volara | 339792 | [339792-volara.json](./339792-volara.json) |
 | Volcania Peaks | 254120 | [254120-volcania-peaks.json](./254120-volcania-peaks.json) |
 | Volcanic Blocks | 146918 | [146918-volcanic-blocks.json](./146918-volcanic-blocks.json) |
 | Volcanic Field 2 | 85477 | [85477-volcanic-field-2.json](./85477-volcanic-field-2.json) |
