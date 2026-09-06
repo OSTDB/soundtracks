@@ -684,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Maiden: Legacy of the Beast | 16473 | [16473-iron-maiden-legacy-of-the-beast.json](./16473-iron-maiden-legacy-of-the-beast.json) |
 | Iron Master: The Legendary Blacksmith | 67991 | [67991-iron-master-the-legendary-blacksmith.json](./67991-iron-master-the-legendary-blacksmith.json) |
 | Iron Order 1919 | 196333 | [196333-iron-order-1919.json](./196333-iron-order-1919.json) |
+| Iron Ranger | 351009 | [351009-iron-ranger.json](./351009-iron-ranger.json) |
 | Iron Reich | 157194 | [157194-iron-reich.json](./157194-iron-reich.json) |
 | Iron Saga VS | 273641 | [273641-iron-saga-vs.json](./273641-iron-saga-vs.json) |
 | Iron Sky: A Lunar Adventure | 234337 | [234337-iron-sky-a-lunar-adventure.json](./234337-iron-sky-a-lunar-adventure.json) |
