@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop Signal | 389455 | [389455-chop-signal.json](./389455-chop-signal.json) |
 | Chop Suey | 47297 | [47297-chop-suey.json](./47297-chop-suey.json) |
 | Chop Sushi | 18252 | [18252-chop-sushi.json](./18252-chop-sushi.json) |
+| Chopcremental | 349329 | [349329-chopcremental.json](./349329-chopcremental.json) |
 | Chopper Attack | 3428 | [3428-chopper-attack.json](./3428-chopper-attack.json) |
 | Chopper Commando | 78716 | [78716-chopper-commando.json](./78716-chopper-commando.json) |
 | Choppie's | 236541 | [236541-choppies.json](./236541-choppies.json) |
@@ -1749,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crafting Town | 199660 | [199660-crafting-town.json](./199660-crafting-town.json) |
 | Craftsman Story | 384524 | [384524-craftsman-story.json](./384524-craftsman-story.json) |
 | Crafty | 157157 | [157157-crafty.json](./157157-crafty.json) |
+| Crafty Crasher | 349337 | [349337-crafty-crasher.json](./349337-crafty-crasher.json) |
 | Crafty Lands | 249462 | [249462-crafty-lands.json](./249462-crafty-lands.json) |
 | Craggenrock | 207498 | [207498-craggenrock.json](./207498-craggenrock.json) |
 | Crane Game Simulator | 224747 | [224747-crane-game-simulator.json](./224747-crane-game-simulator.json) |
