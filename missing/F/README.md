@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Inc. | 251230 | [251230-factory-inc.json](./251230-factory-inc.json) |
 | FactoryX | 271986 | [271986-factoryx.json](./271986-factoryx.json) |
 | Faded Melodies | 298897 | [298897-faded-melodies.json](./298897-faded-melodies.json) |
+| Faded Monsuta | 350999 | [350999-faded-monsuta.json](./350999-faded-monsuta.json) |
 | Fading Afternoon | 166734 | [166734-fading-afternoon.json](./166734-fading-afternoon.json) |
 | Fading Echoes | 291213 | [291213-fading-echoes.json](./291213-fading-echoes.json) |
 | Fading Haven | 402260 | [402260-fading-haven.json](./402260-fading-haven.json) |
