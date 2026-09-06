@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life | 401474 | [401474-half-life.json](./401474-half-life.json) |
 | Half-Life 2 Classic | 128657 | [128657-half-life-2-classic.json](./128657-half-life-2-classic.json) |
 | Half-Life 2: MMod - Half-Life 2: Update | 267639 | [267639-half-life-2-mmod-half-life-2-update.json](./267639-half-life-2-mmod-half-life-2-update.json) |
+| Half-Life: Beyond | 329025 | [329025-half-life-beyond.json](./329025-half-life-beyond.json) |
 | Half-Life: Chernobyl | 127954 | [127954-half-life-chernobyl.json](./127954-half-life-chernobyl.json) |
 | Half-Life: Cross Product Multiplayer | 360604 | [360604-half-life-cross-product-multiplayer.json](./360604-half-life-cross-product-multiplayer.json) |
 | Half-Life: Escape 2.0 | 294442 | [294442-half-life-escape-2-0.json](./294442-half-life-escape-2-0.json) |
@@ -261,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter and the Prisoner of Azkaban: The Quest of Sir Cadogan | 266500 | [266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json](./266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json) |
 | Harry Potter and the Sorcerer's Stone: Third-Floor Corridor Challenge | 266498 | [266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json](./266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json) |
 | Harry Potter RPG | 141244 | [141244-harry-potter-rpg.json](./141244-harry-potter-rpg.json) |
+| Harry Potter: Quidditch Champions - Deluxe Pack | 328987 | [328987-harry-potter-quidditch-champions-deluxe-pack.json](./328987-harry-potter-quidditch-champions-deluxe-pack.json) |
 | Haru he to Tsuzuku Oka | 388003 | [388003-haru-he-to-tsuzuku-oka.json](./388003-haru-he-to-tsuzuku-oka.json) |
 | Haru Ichiban | 209708 | [209708-haru-ichiban.json](./209708-haru-ichiban.json) |
 | Harukanaru Toki no Naka de 3 Ultimate | 136461 | [136461-harukanaru-toki-no-naka-de-3-ultimate.json](./136461-harukanaru-toki-no-naka-de-3-ultimate.json) |
