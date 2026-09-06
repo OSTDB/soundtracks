@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uktena 64 | 392159 | [392159-uktena-64.json](./392159-uktena-64.json) |
 | Ultakia | 352735 | [352735-ultakia.json](./352735-ultakia.json) |
 | Ultima Adventum | 149602 | [149602-ultima-adventum.json](./149602-ultima-adventum.json) |
+| Ultima Chess VR | 346587 | [346587-ultima-chess-vr.json](./346587-ultima-chess-vr.json) |
 | Ultima: Escape from Mt. Drash | 24951 | [24951-ultima-escape-from-mt-drash.json](./24951-ultima-escape-from-mt-drash.json) |
 | Ultima: Exodus | 48049 | [48049-ultima-exodus.json](./48049-ultima-exodus.json) |
 | Ultima: Quest of the Avatar | 48097 | [48097-ultima-quest-of-the-avatar.json](./48097-ultima-quest-of-the-avatar.json) |
