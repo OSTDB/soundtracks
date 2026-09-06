@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Traffic Control | 15590 | [15590-air-traffic-control.json](./15590-air-traffic-control.json) |
 | Air Traffic Controller Airport Hero 3D New Chitose with JAL | 222522 | [222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json](./222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json) |
 | Air Traffic Disruptor | 51990 | [51990-air-traffic-disruptor.json](./51990-air-traffic-disruptor.json) |
+| Air Wars | 336561 | [336561-air-wars.json](./336561-air-wars.json) |
 | AiRace Speed | 8629 | [8629-airace-speed.json](./8629-airace-speed.json) |
 | AiRace: Tunnel | 67055 | [67055-airace-tunnel.json](./67055-airace-tunnel.json) |
 | Airborne! | 95457 | [95457-airborne.json](./95457-airborne.json) |
@@ -1150,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amorphous | 128658 | [128658-amorphous.json](./128658-amorphous.json) |
 | Amour Libre: Free Love | 129794 | [129794-amour-libre-free-love.json](./129794-amour-libre-free-love.json) |
 | Ampguard | 188678 | [188678-ampguard.json](./188678-ampguard.json) |
+| Amphora Hell | 336556 | [336556-amphora-hell.json](./336556-amphora-hell.json) |
 | AMseven | 336390 | [336390-amseven.json](./336390-amseven.json) |
 | Amy Adventure | 331108 | [331108-amy-adventure.json](./331108-amy-adventure.json) |
 | Amygdala: Prelude | 269284 | [269284-amygdala-prelude.json](./269284-amygdala-prelude.json) |
@@ -1993,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra Quest | 347718 | [347718-astra-quest.json](./347718-astra-quest.json) |
 | Astra Sentinel | 392126 | [392126-astra-sentinel.json](./392126-astra-sentinel.json) |
 | Astra: Fading Stars | 143124 | [143124-astra-fading-stars.json](./143124-astra-fading-stars.json) |
+| Astral Codec | 336546 | [336546-astral-codec.json](./336546-astral-codec.json) |
 | Astral Domine | 33078 | [33078-astral-domine.json](./33078-astral-domine.json) |
 | Astral Sever | 414337 | [414337-astral-sever.json](./414337-astral-sever.json) |
 | Astral Traveler | 51973 | [51973-astral-traveler.json](./51973-astral-traveler.json) |
@@ -2317,6 +2320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure | 150658 | [150658-azure.json](./150658-azure.json) |
 | Azure Be Gone | 322396 | [322396-azure-be-gone.json](./322396-azure-be-gone.json) |
 | Azure Dreams | 6545 | [6545-azure-dreams.json](./6545-azure-dreams.json) |
+| Azure Hue | 336553 | [336553-azure-hue.json](./336553-azure-hue.json) |
 | Azure Influx | 322397 | [322397-azure-influx.json](./322397-azure-influx.json) |
 | Azure Striker Gunvolt 2 | 18197 | [18197-azure-striker-gunvolt-2.json](./18197-azure-striker-gunvolt-2.json) |
 | Azure Striker Gunvolt: Striker Pack | 29529 | [29529-azure-striker-gunvolt-striker-pack.json](./29529-azure-striker-gunvolt-striker-pack.json) |
