@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Warfront | 404257 | [404257-call-of-warfront.json](./404257-call-of-warfront.json) |
 | Call of Zombie | 252400 | [252400-call-of-zombie.json](./252400-call-of-zombie.json) |
 | Call to Arms | 100182 | [100182-call-to-arms.json](./100182-call-to-arms.json) |
+| Call to Arms: Panzer Elite | 353292 | [353292-call-to-arms-panzer-elite.json](./353292-call-to-arms-panzer-elite.json) |
 | Callbreak League | 237635 | [237635-callbreak-league.json](./237635-callbreak-league.json) |
 | Callus | 387375 | [387375-callus.json](./387375-callus.json) |
 | Calm Forest | 185135 | [185135-calm-forest.json](./185135-calm-forest.json) |
