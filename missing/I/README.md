@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai HKV | 388726 | [388726-isekai-hkv.json](./388726-isekai-hkv.json) |
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Fia Edition | 219277 | [219277-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-fia-edition.json](./219277-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-fia-edition.json) |
 | Isekai Slowlife | 402894 | [402894-isekai-slowlife.json](./402894-isekai-slowlife.json) |
+| Isekai x Isekai: Tsugi ha Dono Sakuhin wo | 367445 | [367445-isekai-x-isekai-tsugi-ha-dono-sakuhin-wo.json](./367445-isekai-x-isekai-tsugi-ha-dono-sakuhin-wo.json) |
 | Isekaing: From Zero to Zero | 323548 | [323548-isekaing-from-zero-to-zero.json](./323548-isekaing-from-zero-to-zero.json) |
 | ISEPS Idle Particle Simulator | 256524 | [256524-iseps-idle-particle-simulator.json](./256524-iseps-idle-particle-simulator.json) |
 | Iseran: Isekai Rantou | 257675 | [257675-iseran-isekai-rantou.json](./257675-iseran-isekai-rantou.json) |
