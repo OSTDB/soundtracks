@@ -1732,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protector | 95461 | [95461-protector.json](./95461-protector.json) |
 | Protector: Special Edition | 40809 | [40809-protector-special-edition.json](./40809-protector-special-edition.json) |
 | Protektor | 176516 | [176516-protektor.json](./176516-protektor.json) |
+| Proto Mecha Game | 363906 | [363906-proto-mecha-game.json](./363906-proto-mecha-game.json) |
 | Protocol Nadir | 367940 | [367940-protocol-nadir.json](./367940-protocol-nadir.json) |
 | Protocol Paradox | 373512 | [373512-protocol-paradox.json](./373512-protocol-paradox.json) |
 | Protocol Xeno | 211967 | [211967-protocol-xeno.json](./211967-protocol-xeno.json) |
