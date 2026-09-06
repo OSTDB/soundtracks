@@ -62,6 +62,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faces...tris III | 79320 | [79320-faces-tris-iii.json](./79320-faces-tris-iii.json) |
 | Facteroids | 173306 | [173306-facteroids.json](./173306-facteroids.json) |
 | Factor D | 200171 | [200171-factor-d.json](./200171-factor-d.json) |
+| Factorio: IR3 | 326052 | [326052-factorio-ir3.json](./326052-factorio-ir3.json) |
+| Factorio: Nullius | 326049 | [326049-factorio-nullius.json](./326049-factorio-nullius.json) |
+| Factorio: UltraCube | 326050 | [326050-factorio-ultracube.json](./326050-factorio-ultracube.json) |
 | Factory Balls | 87256 | [87256-factory-balls.json](./87256-factory-balls.json) |
 | Factory Balls 2 | 225277 | [225277-factory-balls-2.json](./225277-factory-balls-2.json) |
 | Factory Balls 3 | 225278 | [225278-factory-balls-3.json](./225278-factory-balls-3.json) |
@@ -127,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen | 171594 | [171594-fallen.json](./171594-fallen.json) |
 | Fallen Angel: Hell Survival | 258185 | [258185-fallen-angel-hell-survival.json](./258185-fallen-angel-hell-survival.json) |
 | Fallen Bride Mege | 215933 | [215933-fallen-bride-mege.json](./215933-fallen-bride-mege.json) |
+| Fallen Cage | 326055 | [326055-fallen-cage.json](./326055-fallen-cage.json) |
 | Fallen Devotion | 333964 | [333964-fallen-devotion.json](./333964-fallen-devotion.json) |
 | Fallen Enchantress: Legendary Heroes - Battlegrounds DLC | 168378 | [168378-fallen-enchantress-legendary-heroes-battlegrounds-dlc.json](./168378-fallen-enchantress-legendary-heroes-battlegrounds-dlc.json) |
 | Fallen Enchantress: Legendary Heroes - Leader Pack DLC | 168370 | [168370-fallen-enchantress-legendary-heroes-leader-pack-dlc.json](./168370-fallen-enchantress-legendary-heroes-leader-pack-dlc.json) |
@@ -1499,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Age of Dinosaurs to the Edo Period: Tokio no Meiro - By Gentaro Kagawa | 396908 | [396908-from-the-age-of-dinosaurs-to-the-edo-period-tokio-no-meiro-by-gentaro-kagawa.json](./396908-from-the-age-of-dinosaurs-to-the-edo-period-tokio-no-meiro-by-gentaro-kagawa.json) |
 | From the Ashes | 224243 | [224243-from-the-ashes.json](./224243-from-the-ashes.json) |
 | From the Deep | 224240 | [224240-from-the-deep.json](./224240-from-the-deep.json) |
+| Fromage | 326059 | [326059-fromage.json](./326059-fromage.json) |
 | Front Edge | 296065 | [296065-front-edge.json](./296065-front-edge.json) |
 | Front Mission 2: Remake | 191401 | [191401-front-mission-2-remake.json](./191401-front-mission-2-remake.json) |
 | Front Office Card Games: Up and Down the River | 67995 | [67995-front-office-card-games-up-and-down-the-river.json](./67995-front-office-card-games-up-and-down-the-river.json) |
