@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T04:18:04.836Z",
-  "total_missing": 35529,
+  "generated_at": "2026-09-06T04:33:21.769Z",
+  "total_missing": 35579,
   "games": [
     {
       "igdb_id": 306086,
@@ -16478,9 +16478,124 @@
       "file": "missing/B/83731-beat-saber.json"
     },
     {
+      "igdb_id": 357222,
+      "game_name": "Beat Saber: Britney Spears - \"…Baby One More Time\"",
+      "file": "missing/B/357222-beat-saber-britney-spears-baby-one-more-time.json"
+    },
+    {
+      "igdb_id": 357224,
+      "game_name": "Beat Saber: Britney Spears - \"Oops!...I Did It Again\"",
+      "file": "missing/B/357224-beat-saber-britney-spears-oops-i-did-it-again.json"
+    },
+    {
+      "igdb_id": 357221,
+      "game_name": "Beat Saber: Britney Spears - \"Toxic\"",
+      "file": "missing/B/357221-beat-saber-britney-spears-toxic.json"
+    },
+    {
+      "igdb_id": 357250,
+      "game_name": "Beat Saber: Britney Spears Music Pack",
+      "file": "missing/B/357250-beat-saber-britney-spears-music-pack.json"
+    },
+    {
+      "igdb_id": 357254,
+      "game_name": "Beat Saber: Daft Punk Music Pack",
+      "file": "missing/B/357254-beat-saber-daft-punk-music-pack.json"
+    },
+    {
+      "igdb_id": 357240,
+      "game_name": "Beat Saber: Darude - \"Sandstorm\"",
+      "file": "missing/B/357240-beat-saber-darude-sandstorm.json"
+    },
+    {
+      "igdb_id": 357238,
+      "game_name": "Beat Saber: deadmau5 - \"Ghosts 'n' Stuff (feat. Rob Swire)\"",
+      "file": "missing/B/357238-beat-saber-deadmau5-ghosts-n-stuff-feat-rob-swire.json"
+    },
+    {
+      "igdb_id": 357231,
+      "game_name": "Beat Saber: Foo Fighters - \"The Pretender\"",
+      "file": "missing/B/357231-beat-saber-foo-fighters-the-pretender.json"
+    },
+    {
+      "igdb_id": 357247,
+      "game_name": "Beat Saber: Green Day - \"Holiday\"",
+      "file": "missing/B/357247-beat-saber-green-day-holiday.json"
+    },
+    {
+      "igdb_id": 357263,
+      "game_name": "Beat Saber: Hip Hop Mixtape",
+      "file": "missing/B/357263-beat-saber-hip-hop-mixtape.json"
+    },
+    {
+      "igdb_id": 357229,
+      "game_name": "Beat Saber: KISS - \"I Was Made For Lovin' You\"",
+      "file": "missing/B/357229-beat-saber-kiss-i-was-made-for-lovin-you.json"
+    },
+    {
+      "igdb_id": 357242,
+      "game_name": "Beat Saber: Lady Gaga - \"Alejandro\"",
+      "file": "missing/B/357242-beat-saber-lady-gaga-alejandro.json"
+    },
+    {
+      "igdb_id": 357241,
+      "game_name": "Beat Saber: Lady Gaga - \"Poker Face\"",
+      "file": "missing/B/357241-beat-saber-lady-gaga-poker-face.json"
+    },
+    {
+      "igdb_id": 357227,
+      "game_name": "Beat Saber: Queen - \"Another One Bites the Dust\"",
+      "file": "missing/B/357227-beat-saber-queen-another-one-bites-the-dust.json"
+    },
+    {
+      "igdb_id": 357228,
+      "game_name": "Beat Saber: Queen - \"Bohemian Rhapsody\"",
+      "file": "missing/B/357228-beat-saber-queen-bohemian-rhapsody.json"
+    },
+    {
+      "igdb_id": 357225,
+      "game_name": "Beat Saber: Queen - \"We Will Rock You\"",
+      "file": "missing/B/357225-beat-saber-queen-we-will-rock-you.json"
+    },
+    {
       "igdb_id": 250646,
       "game_name": "Beat Saber: Queen Music Pack",
       "file": "missing/B/250646-beat-saber-queen-music-pack.json"
+    },
+    {
+      "igdb_id": 357245,
+      "game_name": "Beat Saber: Skrillex – \"Bangarang (feat. Sirah)\"",
+      "file": "missing/B/357245-beat-saber-skrillex-bangarang-feat-sirah.json"
+    },
+    {
+      "igdb_id": 357244,
+      "game_name": "Beat Saber: Skrillex – \"Scary Monsters and Nice Sprites\"",
+      "file": "missing/B/357244-beat-saber-skrillex-scary-monsters-and-nice-sprites.json"
+    },
+    {
+      "igdb_id": 357243,
+      "game_name": "Beat Saber: Skrillex & Wolfgang Gartner – \"The Devil’s Den\"",
+      "file": "missing/B/357243-beat-saber-skrillex-and-wolfgang-gartner-the-devil-s-den.json"
+    },
+    {
+      "igdb_id": 357232,
+      "game_name": "Beat Saber: Steppenwolf - \"Born To Be Wild\"",
+      "file": "missing/B/357232-beat-saber-steppenwolf-born-to-be-wild.json"
+    },
+    {
+      "igdb_id": 357233,
+      "game_name": "Beat Saber: Survivor - \"Eye of the Tiger\"",
+      "file": "missing/B/357233-beat-saber-survivor-eye-of-the-tiger.json"
+    },
+    {
+      "igdb_id": 357236,
+      "game_name": "Beat Saber: The Weeknd - \"Blinding Lights\"",
+      "file": "missing/B/357236-beat-saber-the-weeknd-blinding-lights.json"
+    },
+    {
+      "igdb_id": 357237,
+      "game_name": "Beat Saber: The Weeknd - \"Can't Feel My Face\"",
+      "file": "missing/B/357237-beat-saber-the-weeknd-cant-feel-my-face.json"
     },
     {
       "igdb_id": 385585,
@@ -21276,6 +21391,11 @@
       "igdb_id": 14337,
       "game_name": "Bowls",
       "file": "missing/B/14337-bowls.json"
+    },
+    {
+      "igdb_id": 357273,
+      "game_name": "Bowman",
+      "file": "missing/B/357273-bowman.json"
     },
     {
       "igdb_id": 71911,
@@ -27171,6 +27291,11 @@
       "igdb_id": 237058,
       "game_name": "Chess Morph: The Queen's Wormholes",
       "file": "missing/C/237058-chess-morph-the-queens-wormholes.json"
+    },
+    {
+      "igdb_id": 357216,
+      "game_name": "Chess of Fortune",
+      "file": "missing/C/357216-chess-of-fortune.json"
     },
     {
       "igdb_id": 163412,
@@ -39381,6 +39506,11 @@
       "igdb_id": 184615,
       "game_name": "Dice Mice",
       "file": "missing/D/184615-dice-mice.json"
+    },
+    {
+      "igdb_id": 357258,
+      "game_name": "Dice of Kalma",
+      "file": "missing/D/357258-dice-of-kalma.json"
     },
     {
       "igdb_id": 175416,
@@ -56413,6 +56543,11 @@
       "file": "missing/F/224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json"
     },
     {
+      "igdb_id": 357272,
+      "game_name": "Frieda is Changing",
+      "file": "missing/F/357272-frieda-is-changing.json"
+    },
+    {
       "igdb_id": 242811,
       "game_name": "Friendly Premonition",
       "file": "missing/F/242811-friendly-premonition.json"
@@ -61743,6 +61878,16 @@
       "file": "missing/G/315867-gori-cuddly-carnage-special-edition.json"
     },
     {
+      "igdb_id": 357268,
+      "game_name": "Gori: Cuddly Carnage: Catbox Skin Pack",
+      "file": "missing/G/357268-gori-cuddly-carnage-catbox-skin-pack.json"
+    },
+    {
+      "igdb_id": 357267,
+      "game_name": "Gori: Cuddly Carnage: PlayTime Skin Pack",
+      "file": "missing/G/357267-gori-cuddly-carnage-playtime-skin-pack.json"
+    },
+    {
       "igdb_id": 274185,
       "game_name": "Gorilla Smash City Attack Game",
       "file": "missing/G/274185-gorilla-smash-city-attack-game.json"
@@ -63761,6 +63906,11 @@
       "igdb_id": 370130,
       "game_name": "Gungrave G.O.R.E: Blood Heat",
       "file": "missing/G/370130-gungrave-g-o-r-e-blood-heat.json"
+    },
+    {
+      "igdb_id": 357271,
+      "game_name": "Gungrave G.O.R.E: Street Grave",
+      "file": "missing/G/357271-gungrave-g-o-r-e-street-grave.json"
     },
     {
       "igdb_id": 166230,
@@ -68428,6 +68578,16 @@
       "file": "missing/H/134595-hitman-3.json"
     },
     {
+      "igdb_id": 357256,
+      "game_name": "Hitman 3: The Banker Pack",
+      "file": "missing/H/357256-hitman-3-the-banker-pack.json"
+    },
+    {
+      "igdb_id": 357257,
+      "game_name": "Hitman 3: The Splitter Pack",
+      "file": "missing/H/357257-hitman-3-the-splitter-pack.json"
+    },
+    {
       "igdb_id": 224225,
       "game_name": "Hitman 3: Trinity Pack",
       "file": "missing/H/224225-hitman-3-trinity-pack.json"
@@ -70791,6 +70951,11 @@
       "igdb_id": 101257,
       "game_name": "HyperParasite",
       "file": "missing/H/101257-hyperparasite.json"
+    },
+    {
+      "igdb_id": 357264,
+      "game_name": "Hyperspace Hub Manager",
+      "file": "missing/H/357264-hyperspace-hub-manager.json"
     },
     {
       "igdb_id": 184085,
@@ -75016,6 +75181,11 @@
       "igdb_id": 295532,
       "game_name": "Izolated",
       "file": "missing/I/295532-izolated.json"
+    },
+    {
+      "igdb_id": 357248,
+      "game_name": "Izurana's Walk",
+      "file": "missing/I/357248-izuranas-walk.json"
     },
     {
       "igdb_id": 3519,
@@ -80668,6 +80838,11 @@
       "file": "missing/K/230549-kung-fu-panda-2.json"
     },
     {
+      "igdb_id": 357266,
+      "game_name": "Kung Fu Panda World",
+      "file": "missing/K/357266-kung-fu-panda-world.json"
+    },
+    {
       "igdb_id": 259266,
       "game_name": "Kung Fu Panda: Legendary Warriors",
       "file": "missing/K/259266-kung-fu-panda-legendary-warriors.json"
@@ -81536,6 +81711,11 @@
       "igdb_id": 318757,
       "game_name": "Laser Fortress",
       "file": "missing/L/318757-laser-fortress.json"
+    },
+    {
+      "igdb_id": 357218,
+      "game_name": "Laser Harp VR",
+      "file": "missing/L/357218-laser-harp-vr.json"
     },
     {
       "igdb_id": 270413,
@@ -103293,6 +103473,11 @@
       "file": "missing/N/106580-numberline-3.json"
     },
     {
+      "igdb_id": 357249,
+      "game_name": "Numenclature",
+      "file": "missing/N/357249-numenclature.json"
+    },
+    {
       "igdb_id": 221426,
       "game_name": "Numeral Lord",
       "file": "missing/N/221426-numeral-lord.json"
@@ -104346,6 +104531,11 @@
       "igdb_id": 396923,
       "game_name": "Om Nom: Run 2 - Emerald Edition",
       "file": "missing/O/396923-om-nom-run-2-emerald-edition.json"
+    },
+    {
+      "igdb_id": 357219,
+      "game_name": "Omashu: Snail Racing",
+      "file": "missing/O/357219-omashu-snail-racing.json"
     },
     {
       "igdb_id": 208576,
@@ -109063,6 +109253,11 @@
       "file": "missing/P/37149-payday-2-ultimate-edition.json"
     },
     {
+      "igdb_id": 357269,
+      "game_name": "Payday 3: Houston Character Pack",
+      "file": "missing/P/357269-payday-3-houston-character-pack.json"
+    },
+    {
       "igdb_id": 367398,
       "game_name": "Payday 3: Jacket Character Pack",
       "file": "missing/P/367398-payday-3-jacket-character-pack.json"
@@ -110766,6 +110961,11 @@
       "igdb_id": 246666,
       "game_name": "Pik's Epic Kirby Sprite Comics: Teh Game 2",
       "file": "missing/P/246666-piks-epic-kirby-sprite-comics-teh-game-2.json"
+    },
+    {
+      "igdb_id": 357230,
+      "game_name": "Pikabuu: Stop!",
+      "file": "missing/P/357230-pikabuu-stop.json"
     },
     {
       "igdb_id": 230503,
@@ -118991,6 +119191,11 @@
       "igdb_id": 242794,
       "game_name": "Rat vs. Cat",
       "file": "missing/R/242794-rat-vs-cat.json"
+    },
+    {
+      "igdb_id": 357262,
+      "game_name": "Rat's Contracts",
+      "file": "missing/R/357262-rats-contracts.json"
     },
     {
       "igdb_id": 269853,
@@ -139628,6 +139833,11 @@
       "file": "missing/S/139453-stardeus.json"
     },
     {
+      "igdb_id": 357220,
+      "game_name": "Stardoll Dress Up Blog Stars",
+      "file": "missing/S/357220-stardoll-dress-up-blog-stars.json"
+    },
+    {
       "igdb_id": 380431,
       "game_name": "Stardom 2000",
       "file": "missing/S/380431-stardom-2000.json"
@@ -141211,6 +141421,11 @@
       "igdb_id": 326408,
       "game_name": "Street Chef: Food Seller Simulator",
       "file": "missing/S/326408-street-chef-food-seller-simulator.json"
+    },
+    {
+      "igdb_id": 357270,
+      "game_name": "Street Defenders",
+      "file": "missing/S/357270-street-defenders.json"
     },
     {
       "igdb_id": 231066,
@@ -147923,6 +148138,11 @@
       "file": "missing/T/163976-teamplay.json"
     },
     {
+      "igdb_id": 357226,
+      "game_name": "Teaparty in Candyworld",
+      "file": "missing/T/357226-teaparty-in-candyworld.json"
+    },
+    {
       "igdb_id": 146915,
       "game_name": "Teapot Poppers",
       "file": "missing/T/146915-teapot-poppers.json"
@@ -149053,6 +149273,11 @@
       "file": "missing/T/48015-the-2048.json"
     },
     {
+      "igdb_id": 357253,
+      "game_name": "The 3 Little Princesses",
+      "file": "missing/T/357253-the-3-little-princesses.json"
+    },
+    {
       "igdb_id": 10985,
       "game_name": "The 39 Steps",
       "file": "missing/T/10985-the-39-steps.json"
@@ -149686,6 +149911,11 @@
       "igdb_id": 58843,
       "game_name": "The Bermuda Triangle",
       "file": "missing/T/58843-the-bermuda-triangle.json"
+    },
+    {
+      "igdb_id": 357223,
+      "game_name": "The Best Investor",
+      "file": "missing/T/357223-the-best-investor.json"
     },
     {
       "igdb_id": 267635,
@@ -152516,6 +152746,11 @@
       "igdb_id": 358848,
       "game_name": "The Indigo Initiative",
       "file": "missing/T/358848-the-indigo-initiative.json"
+    },
+    {
+      "igdb_id": 357239,
+      "game_name": "The Inescapable Nightmare",
+      "file": "missing/T/357239-the-inescapable-nightmare.json"
     },
     {
       "igdb_id": 44187,
@@ -160146,6 +160381,11 @@
       "igdb_id": 100813,
       "game_name": "Told God-The Legacy of Cthulhu",
       "file": "missing/T/100813-told-god-the-legacy-of-cthulhu.json"
+    },
+    {
+      "igdb_id": 357260,
+      "game_name": "Toll Booth Simulator",
+      "file": "missing/T/357260-toll-booth-simulator.json"
     },
     {
       "igdb_id": 400258,
@@ -170863,6 +171103,11 @@
       "file": "missing/W/304885-we-heist-too.json"
     },
     {
+      "igdb_id": 357252,
+      "game_name": "We Interns",
+      "file": "missing/W/357252-we-interns.json"
+    },
+    {
       "igdb_id": 387332,
       "game_name": "We Love Fish Tanks",
       "file": "missing/W/387332-we-love-fish-tanks.json"
@@ -174961,6 +175206,11 @@
       "igdb_id": 146884,
       "game_name": "Xeno Shooter",
       "file": "missing/X/146884-xeno-shooter.json"
+    },
+    {
+      "igdb_id": 357259,
+      "game_name": "Xeno's Adventure",
+      "file": "missing/X/357259-xenos-adventure.json"
     },
     {
       "igdb_id": 191411,
