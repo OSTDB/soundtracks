@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VeggieTales: LarryBoy and the Bad Apple | 49374 | [49374-veggietales-larryboy-and-the-bad-apple.json](./49374-veggietales-larryboy-and-the-bad-apple.json) |
 | Veiled Edge | 253596 | [253596-veiled-edge.json](./253596-veiled-edge.json) |
 | Vein Hotel | 102180 | [102180-vein-hotel.json](./102180-vein-hotel.json) |
+| Vein-X | 355021 | [355021-vein-x.json](./355021-vein-x.json) |
 | Veinless Property | 144362 | [144362-veinless-property.json](./144362-veinless-property.json) |
 | Vekquence | 26694 | [26694-vekquence.json](./26694-vekquence.json) |
 | Vektar | 382791 | [382791-vektar.json](./382791-vektar.json) |
@@ -391,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice of Nature | 386708 | [386708-voice-of-nature.json](./386708-voice-of-nature.json) |
 | Voice over | 224746 | [224746-voice-over.json](./224746-voice-over.json) |
 | Void | 252369 | [252369-void.json](./252369-void.json) |
+| Void Authority | 355041 | [355041-void-authority.json](./355041-void-authority.json) |
 | Void Bastards | 111846 | [111846-void-bastards.json](./111846-void-bastards.json) |
 | Void Blitzing | 236505 | [236505-void-blitzing.json](./236505-void-blitzing.json) |
 | Void Destroyer 2: Ashes | 168377 | [168377-void-destroyer-2-ashes.json](./168377-void-destroyer-2-ashes.json) |
