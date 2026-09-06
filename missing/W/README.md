@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wabash Cannonball | 175415 | [175415-wabash-cannonball.json](./175415-wabash-cannonball.json) |
 | Wacky Chariots | 196887 | [196887-wacky-chariots.json](./196887-wacky-chariots.json) |
 | Waddle Home | 25568 | [25568-waddle-home.json](./25568-waddle-home.json) |
+| Waddle Paddle | 365718 | [365718-waddle-paddle.json](./365718-waddle-paddle.json) |
 | Wages of War: The Business of Battle | 70982 | [70982-wages-of-war-the-business-of-battle.json](./70982-wages-of-war-the-business-of-battle.json) |
 | Wai-Wai Monster Land | 292845 | [292845-wai-wai-monster-land.json](./292845-wai-wai-monster-land.json) |
 | Wai-wai! Minna de Challenge | 220355 | [220355-wai-wai-minna-de-challenge.json](./220355-wai-wai-minna-de-challenge.json) |
@@ -542,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Arms 3 | 1679 | [1679-wild-arms-3.json](./1679-wild-arms-3.json) |
 | Wild Arms 4 | 1681 | [1681-wild-arms-4.json](./1681-wild-arms-4.json) |
 | Wild Buster: Heroes of Titan | 75152 | [75152-wild-buster-heroes-of-titan.json](./75152-wild-buster-heroes-of-titan.json) |
+| Wild Cats | 365662 | [365662-wild-cats.json](./365662-wild-cats.json) |
 | Wild Earth: Africa | 195802 | [195802-wild-earth-africa.json](./195802-wild-earth-africa.json) |
 | Wild Fishing Simulator | 96083 | [96083-wild-fishing-simulator.json](./96083-wild-fishing-simulator.json) |
 | Wild Hearts: Karakuri Edition | 228734 | [228734-wild-hearts-karakuri-edition.json](./228734-wild-hearts-karakuri-edition.json) |
@@ -630,6 +632,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Cometh | 122400 | [122400-winter-cometh.json](./122400-winter-cometh.json) |
 | Winter Heat | 367954 | [367954-winter-heat.json](./367954-winter-heat.json) |
 | Winter Mosaics | 415908 | [415908-winter-mosaics.json](./415908-winter-mosaics.json) |
+| Winter Olympic Games | 365673 | [365673-winter-olympic-games.json](./365673-winter-olympic-games.json) |
+| Winter Olympic Games | 365674 | [365674-winter-olympic-games.json](./365674-winter-olympic-games.json) |
+| Winter Olympic Games | 365676 | [365676-winter-olympic-games.json](./365676-winter-olympic-games.json) |
 | Winter Sports: The Ultimate Challenge | 5284 | [5284-winter-sports-the-ultimate-challenge.json](./5284-winter-sports-the-ultimate-challenge.json) |
 | Winter Stealth | 247765 | [247765-winter-stealth.json](./247765-winter-stealth.json) |
 | Winter Survival Simulator | 309661 | [309661-winter-survival-simulator.json](./309661-winter-survival-simulator.json) |
@@ -858,6 +863,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Class Service Super Nintendo Tester | 37765 | [37765-world-class-service-super-nintendo-tester.json](./37765-world-class-service-super-nintendo-tester.json) |
 | World Conqueror 3D | 85497 | [85497-world-conqueror-3d.json](./85497-world-conqueror-3d.json) |
 | World Cruise Story | 65518 | [65518-world-cruise-story.json](./65518-world-cruise-story.json) |
+| World Cup USA 94 | 365668 | [365668-world-cup-usa-94.json](./365668-world-cup-usa-94.json) |
+| World Cup USA 94 | 365669 | [365669-world-cup-usa-94.json](./365669-world-cup-usa-94.json) |
 | World Dai-star: Yume no Stellarium | 258691 | [258691-world-dai-star-yume-no-stellarium.json](./258691-world-dai-star-yume-no-stellarium.json) |
 | World Escape | 68667 | [68667-world-escape.json](./68667-world-escape.json) |
 | World Explorer Challenge | 325266 | [325266-world-explorer-challenge.json](./325266-world-explorer-challenge.json) |
