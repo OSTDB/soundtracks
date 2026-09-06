@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Puzzle Logic Game | 110379 | [110379-hentai-puzzle-logic-game.json](./110379-hentai-puzzle-logic-game.json) |
 | Hentai Puzzle Simulator 3 | 409530 | [409530-hentai-puzzle-simulator-3.json](./409530-hentai-puzzle-simulator-3.json) |
 | Hentai Puzzle XXX | 378807 | [378807-hentai-puzzle-xxx.json](./378807-hentai-puzzle-xxx.json) |
+| Hentai Shop Simulator | 329572 | [329572-hentai-shop-simulator.json](./329572-hentai-shop-simulator.json) |
 | Hentai Shop Simulator | 338002 | [338002-hentai-shop-simulator.json](./338002-hentai-shop-simulator.json) |
 | Hentai Solitaire: Extended Edition | 315868 | [315868-hentai-solitaire-extended-edition.json](./315868-hentai-solitaire-extended-edition.json) |
 | Hentai Tales: Triangle That Wants Me All | 401532 | [401532-hentai-tales-triangle-that-wants-me-all.json](./401532-hentai-tales-triangle-that-wants-me-all.json) |
