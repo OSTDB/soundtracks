@@ -240,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talos VR | 102170 | [102170-talos-vr.json](./102170-talos-vr.json) |
 | Tamadog | 227503 | [227503-tamadog.json](./227503-tamadog.json) |
 | Tamago | 369056 | [369056-tamago.json](./369056-tamago.json) |
+| Tamagotchi Angel | 320176 | [320176-tamagotchi-angel.json](./320176-tamagotchi-angel.json) |
 | Tamagotchi Connection | 229942 | [229942-tamagotchi-connection.json](./229942-tamagotchi-connection.json) |
 | Tamagotchi Connection V2 | 229943 | [229943-tamagotchi-connection-v2.json](./229943-tamagotchi-connection-v2.json) |
 | Tamagotchi Connection V3 | 229945 | [229945-tamagotchi-connection-v3.json](./229945-tamagotchi-connection-v3.json) |
@@ -1565,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legacy of Lunatic Omsk | 321748 | [321748-the-legacy-of-lunatic-omsk.json](./321748-the-legacy-of-lunatic-omsk.json) |
 | The Legend of Arcadieu | 126635 | [126635-the-legend-of-arcadieu.json](./126635-the-legend-of-arcadieu.json) |
 | The Legend of Azarias Rebirth | 294994 | [294994-the-legend-of-azarias-rebirth.json](./294994-the-legend-of-azarias-rebirth.json) |
+| The Legend of Baboo | 320143 | [320143-the-legend-of-baboo.json](./320143-the-legend-of-baboo.json) |
 | The Legend of Banjo-Kazooie: The Bear Waker | 135261 | [135261-the-legend-of-banjo-kazooie-the-bear-waker.json](./135261-the-legend-of-banjo-kazooie-the-bear-waker.json) |
 | The Legend of Chalkvania | 395570 | [395570-the-legend-of-chalkvania.json](./395570-the-legend-of-chalkvania.json) |
 | The Legend of Eight Dragons | 145653 | [145653-the-legend-of-eight-dragons.json](./145653-the-legend-of-eight-dragons.json) |
@@ -1666,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of War | 262064 | [262064-the-lord-of-war.json](./262064-the-lord-of-war.json) |
 | The Lords of Midnight | 25733 | [25733-the-lords-of-midnight.json](./25733-the-lords-of-midnight.json) |
 | The Lost | 120432 | [120432-the-lost.json](./120432-the-lost.json) |
+| The Lost | 320130 | [320130-the-lost.json](./320130-the-lost.json) |
 | The Lost | 33178 | [33178-the-lost.json](./33178-the-lost.json) |
 | The Lost Abyss | 213592 | [213592-the-lost-abyss.json](./213592-the-lost-abyss.json) |
 | The Lost Artifacts | 171588 | [171588-the-lost-artifacts.json](./171588-the-lost-artifacts.json) |
