@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xna | 45968 | [45968-xna.json](./45968-xna.json) |
 | Xob | 149609 | [149609-xob.json](./149609-xob.json) |
 | Xod.io | 130942 | [130942-xod-io.json](./130942-xod-io.json) |
+| Xolo & the Forgotten Gods | 350414 | [350414-xolo-and-the-forgotten-gods.json](./350414-xolo-and-the-forgotten-gods.json) |
 | Xolotl | 195762 | [195762-xolotl.json](./195762-xolotl.json) |
 | Xonix | 304330 | [304330-xonix.json](./304330-xonix.json) |
 | XP8 | 15569 | [15569-xp8.json](./15569-xp8.json) |
