@@ -1016,6 +1016,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bin Weevils | 126020 | [126020-bin-weevils.json](./126020-bin-weevils.json) |
 | Binary Domain Collection | 52629 | [52629-binary-domain-collection.json](./52629-binary-domain-collection.json) |
 | Bind: Brain teaser puzzle game | 88292 | [88292-bind-brain-teaser-puzzle-game.json](./88292-bind-brain-teaser-puzzle-game.json) |
+| Bing in Wonderland: Wings & Weapon Looks - Azure Dragon | 325436 | [325436-bing-in-wonderland-wings-and-weapon-looks-azure-dragon.json](./325436-bing-in-wonderland-wings-and-weapon-looks-azure-dragon.json) |
+| Bing in Wonderland: Wings & Weapon Looks - Black Tortoise | 325440 | [325440-bing-in-wonderland-wings-and-weapon-looks-black-tortoise.json](./325440-bing-in-wonderland-wings-and-weapon-looks-black-tortoise.json) |
+| Bing in Wonderland: Wings & Weapon Looks - Dragon Slayer | 325437 | [325437-bing-in-wonderland-wings-and-weapon-looks-dragon-slayer.json](./325437-bing-in-wonderland-wings-and-weapon-looks-dragon-slayer.json) |
+| Bing in Wonderland: Wings & Weapon Looks - Judgment | 325438 | [325438-bing-in-wonderland-wings-and-weapon-looks-judgment.json](./325438-bing-in-wonderland-wings-and-weapon-looks-judgment.json) |
+| Bing in Wonderland: Wings & Weapon Looks - Purgatory | 325439 | [325439-bing-in-wonderland-wings-and-weapon-looks-purgatory.json](./325439-bing-in-wonderland-wings-and-weapon-looks-purgatory.json) |
+| Bing in Wonderland: Wings & Weapon Looks - Vermilion Bird | 325441 | [325441-bing-in-wonderland-wings-and-weapon-looks-vermilion-bird.json](./325441-bing-in-wonderland-wings-and-weapon-looks-vermilion-bird.json) |
+| Bing in Wonderland: Wings & Weapon Looks - White Tiger | 325442 | [325442-bing-in-wonderland-wings-and-weapon-looks-white-tiger.json](./325442-bing-in-wonderland-wings-and-weapon-looks-white-tiger.json) |
 | Bingaboll | 259862 | [259862-bingaboll.json](./259862-bingaboll.json) |
 | Bingo 75 | 22429 | [22429-bingo-75.json](./22429-bingo-75.json) |
 | Bingo Betty | 377081 | [377081-bingo-betty.json](./377081-bingo-betty.json) |
