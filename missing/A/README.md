@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Spaceship Accident | 372446 | [372446-a-spaceship-accident.json](./372446-a-spaceship-accident.json) |
 | A Squire's Tale | 131616 | [131616-a-squires-tale.json](./131616-a-squires-tale.json) |
 | A Starspangled Zephyr | 179189 | [179189-a-starspangled-zephyr.json](./179189-a-starspangled-zephyr.json) |
+| A Storied Life: Tabitha | 362283 | [362283-a-storied-life-tabitha.json](./362283-a-storied-life-tabitha.json) |
 | A Story About Birds | 320523 | [320523-a-story-about-birds.json](./320523-a-story-about-birds.json) |
 | A Story of a Company! | 200740 | [200740-a-story-of-a-company.json](./200740-a-story-of-a-company.json) |
 | A Story of Us: Ep. 1 - First Memories | 115043 | [115043-a-story-of-us-ep-1-first-memories.json](./115043-a-story-of-us-ep-1-first-memories.json) |
@@ -515,6 +516,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the War | 5713 | [5713-after-the-war.json](./5713-after-the-war.json) |
 | After War Town | 278173 | [278173-after-war-town.json](./278173-after-war-town.json) |
 | After You: Level Escape | 249478 | [249478-after-you-level-escape.json](./249478-after-you-level-escape.json) |
+| After-H: Moon of the Dead | 362257 | [362257-after-h-moon-of-the-dead.json](./362257-after-h-moon-of-the-dead.json) |
+| After-Image | 362285 | [362285-after-image.json](./362285-after-image.json) |
 | Afterimage Mobile | 297224 | [297224-afterimage-mobile.json](./297224-afterimage-mobile.json) |
 | Afterlife | 175 | [175-afterlife.json](./175-afterlife.json) |
 | Afterlife: Rickard's Quest | 306641 | [306641-afterlife-rickards-quest.json](./306641-afterlife-rickards-quest.json) |
