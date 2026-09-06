@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Figureheads | 24931 | [24931-figureheads.json](./24931-figureheads.json) |
 | Figures of Shadows | 374068 | [374068-figures-of-shadows.json](./374068-figures-of-shadows.json) |
 | Figurine Shop Simulator | 346592 | [346592-figurine-shop-simulator.json](./346592-figurine-shop-simulator.json) |
+| File 47 | 337124 | [337124-file-47.json](./337124-file-47.json) |
 | File://maniac | 118374 | [118374-file-maniac.json](./118374-file-maniac.json) |
 | Fill & Cross: Pirate Riddles 2 | 101556 | [101556-fill-and-cross-pirate-riddles-2.json](./101556-fill-and-cross-pirate-riddles-2.json) |
 | Fill & Cross: Pirate Riddles 3 | 213014 | [213014-fill-and-cross-pirate-riddles-3.json](./213014-fill-and-cross-pirate-riddles-3.json) |
