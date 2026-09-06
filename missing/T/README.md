@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrorist Takedown: Payback | 54430 | [54430-terrorist-takedown-payback.json](./54430-terrorist-takedown-payback.json) |
 | Terrors to Unveil: Intrusion | 344352 | [344352-terrors-to-unveil-intrusion.json](./344352-terrors-to-unveil-intrusion.json) |
 | Terry's Treasure Trouble! | 265934 | [265934-terrys-treasure-trouble.json](./265934-terrys-treasure-trouble.json) |
+| Tescaris | 339274 | [339274-tescaris.json](./339274-tescaris.json) |
 | Tesla Asteroids | 178643 | [178643-tesla-asteroids.json](./178643-tesla-asteroids.json) |
 | Tesla: The Weather Man | 54431 | [54431-tesla-the-weather-man.json](./54431-tesla-the-weather-man.json) |
 | Tesla's Best Friend | 30861 | [30861-teslas-best-friend.json](./30861-teslas-best-friend.json) |
@@ -586,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetra Troopers | 379371 | [379371-tetra-troopers.json](./379371-tetra-troopers.json) |
 | TetraLogical | 115531 | [115531-tetralogical.json](./115531-tetralogical.json) |
 | Tetriller | 84247 | [84247-tetriller.json](./84247-tetriller.json) |
+| TetriMatch | 339273 | [339273-tetrimatch.json](./339273-tetrimatch.json) |
 | Tetris | 180279 | [180279-tetris.json](./180279-tetris.json) |
 | Tetris | 185669 | [185669-tetris.json](./185669-tetris.json) |
 | Tetris | 215381 | [215381-tetris.json](./215381-tetris.json) |
@@ -614,6 +616,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texas Hold'em | 137058 | [137058-texas-holdem.json](./137058-texas-holdem.json) |
 | Texplore | 383946 | [383946-texplore.json](./383946-texplore.json) |
 | Text | 110635 | [110635-text.json](./110635-text.json) |
+| Text Wall | 339272 | [339272-text-wall.json](./339272-text-wall.json) |
+| Text Your Life | 339270 | [339270-text-your-life.json](./339270-text-your-life.json) |
 | TextTwist 2 | 92504 | [92504-texttwist-2.json](./92504-texttwist-2.json) |
 | Textures Not Found | 405524 | [405524-textures-not-found.json](./405524-textures-not-found.json) |
 | Tezzel: The Tilemaker's Tale | 344923 | [344923-tezzel-the-tilemakers-tale.json](./344923-tezzel-the-tilemakers-tale.json) |
@@ -2495,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through Space | 414297 | [414297-through-space.json](./414297-through-space.json) |
 | Through the Ages | 87726 | [87726-through-the-ages.json](./87726-through-the-ages.json) |
 | Through the Mist and Sky | 102179 | [102179-through-the-mist-and-sky.json](./102179-through-the-mist-and-sky.json) |
+| Through the Wall | 339294 | [339294-through-the-wall.json](./339294-through-the-wall.json) |
 | Throw Cubes into Brick Towers to Collapse Them | 134662 | [134662-throw-cubes-into-brick-towers-to-collapse-them.json](./134662-throw-cubes-into-brick-towers-to-collapse-them.json) |
 | Throw M | 319962 | [319962-throw-m.json](./319962-throw-m.json) |
 | Throw Me in the River | 149600 | [149600-throw-me-in-the-river.json](./149600-throw-me-in-the-river.json) |
@@ -3236,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Shades | 127386 | [127386-tower-of-shades.json](./127386-tower-of-shades.json) |
 | Tower of Tears | 268212 | [268212-tower-of-tears.json](./268212-tower-of-tears.json) |
 | Tower of the Deep | 388026 | [388026-tower-of-the-deep.json](./388026-tower-of-the-deep.json) |
+| Tower of Tori | 339289 | [339289-tower-of-tori.json](./339289-tower-of-tori.json) |
 | Tower of unlife | 180831 | [180831-tower-of-unlife.json](./180831-tower-of-unlife.json) |
 | Tower of Waifus 2 | 148565 | [148565-tower-of-waifus-2.json](./148565-tower-of-waifus-2.json) |
 | Tower Princess | 115661 | [115661-tower-princess.json](./115661-tower-princess.json) |
@@ -3721,6 +3727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump and Virus | 393451 | [393451-trump-and-virus.json](./393451-trump-and-virus.json) |
 | Trump Collection 2: Bottom Up Teki Sekai Isshuu no Tabi | 82136 | [82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json](./82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json) |
 | Trump Collection GB | 82137 | [82137-trump-collection-gb.json](./82137-trump-collection-gb.json) |
+| Trump Jigsaw | 339283 | [339283-trump-jigsaw.json](./339283-trump-jigsaw.json) |
 | Trumpets | 179164 | [179164-trumpets.json](./179164-trumpets.json) |
 | Trundle | 93599 | [93599-trundle.json](./93599-trundle.json) |
 | Trust & Safety: Armed Conflict | 401484 | [401484-trust-and-safety-armed-conflict.json](./401484-trust-and-safety-armed-conflict.json) |
