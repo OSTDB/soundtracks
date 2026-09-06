@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kore ga Pro Yakyuu '89 | 42037 | [42037-kore-ga-pro-yakyuu-89.json](./42037-kore-ga-pro-yakyuu-89.json) |
 | Korean Drone Flying Tour Chuncheon City | 328501 | [328501-korean-drone-flying-tour-chuncheon-city.json](./328501-korean-drone-flying-tour-chuncheon-city.json) |
 | Korean Drone Flying Tour Danyang-gun | 328502 | [328502-korean-drone-flying-tour-danyang-gun.json](./328502-korean-drone-flying-tour-danyang-gun.json) |
+| Korean Drone Flying Tour Jeju Island-1 | 314872 | [314872-korean-drone-flying-tour-jeju-island-1.json](./314872-korean-drone-flying-tour-jeju-island-1.json) |
 | Korean Drone Flying Tour Jeju Island-2 | 317226 | [317226-korean-drone-flying-tour-jeju-island-2.json](./317226-korean-drone-flying-tour-jeju-island-2.json) |
 | Korean Monorail Panorama Line Hwagaesan | 378809 | [378809-korean-monorail-panorama-line-hwagaesan.json](./378809-korean-monorail-panorama-line-hwagaesan.json) |
 | KORG Gadget | 77537 | [77537-korg-gadget.json](./77537-korg-gadget.json) |
