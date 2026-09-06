@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus Online | 62770 | [62770-icarus-online.json](./62770-icarus-online.json) |
 | Icarus: Styx Map Pack | 204686 | [204686-icarus-styx-map-pack.json](./204686-icarus-styx-map-pack.json) |
 | Icarus.1 | 25947 | [25947-icarus-1.json](./25947-icarus-1.json) |
+| Ice Age: The DVD Game | 364525 | [364525-ice-age-the-dvd-game.json](./364525-ice-age-the-dvd-game.json) |
 | Ice and Fire | 22623 | [22623-ice-and-fire.json](./22623-ice-and-fire.json) |
 | Ice and Fire | 232712 | [232712-ice-and-fire.json](./232712-ice-and-fire.json) |
 | Ice Climber-e | 170012 | [170012-ice-climber-e.json](./170012-ice-climber-e.json) |
