@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldoria: The Cursed Crown | 310758 | [310758-eldoria-the-cursed-crown.json](./310758-eldoria-the-cursed-crown.json) |
 | Eldorion: Guardians of the Crystals | 346604 | [346604-eldorion-guardians-of-the-crystals.json](./346604-eldorion-guardians-of-the-crystals.json) |
 | Eldramoor: Haven in the Mist | 397671 | [397671-eldramoor-haven-in-the-mist.json](./397671-eldramoor-haven-in-the-mist.json) |
+| Eldritch 2 | 342674 | [342674-eldritch-2.json](./342674-eldritch-2.json) |
 | Eldritch Cards: The Lovecraftian Dungeon Crawler Game | 413600 | [413600-eldritch-cards-the-lovecraftian-dungeon-crawler-game.json](./413600-eldritch-cards-the-lovecraftian-dungeon-crawler-game.json) |
 | Eldritchvania | 223680 | [223680-eldritchvania.json](./223680-eldritchvania.json) |
 | Ele Blaze | 68662 | [68662-ele-blaze.json](./68662-ele-blaze.json) |
@@ -345,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embuscade | 179734 | [179734-embuscade.json](./179734-embuscade.json) |
 | Emerald Bathhouse | 268776 | [268776-emerald-bathhouse.json](./268776-emerald-bathhouse.json) |
 | Emerald Ties | 324698 | [324698-emerald-ties.json](./324698-emerald-ties.json) |
+| Emerge | 342631 | [342631-emerge.json](./342631-emerge.json) |
 | Emerge: Cities of the Apocalypse | 33136 | [33136-emerge-cities-of-the-apocalypse.json](./33136-emerge-cities-of-the-apocalypse.json) |
 | Emergency 3 | 46457 | [46457-emergency-3.json](./46457-emergency-3.json) |
 | Emergency in Space | 310744 | [310744-emergency-in-space.json](./310744-emergency-in-space.json) |
