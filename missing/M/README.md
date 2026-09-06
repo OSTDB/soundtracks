@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maria/Alchemist: Synthetist Maria's Tragedy | 98455 | [98455-maria-alchemist-synthetist-marias-tragedy.json](./98455-maria-alchemist-synthetist-marias-tragedy.json) |
 | Mariam Game | 235484 | [235484-mariam-game.json](./235484-mariam-game.json) |
 | Maridows 64 | 250047 | [250047-maridows-64.json](./250047-maridows-64.json) |
+| Marie's Patisserie: Sweet Dreams - Collector's Edition | 362840 | [362840-maries-patisserie-sweet-dreams-collectors-edition.json](./362840-maries-patisserie-sweet-dreams-collectors-edition.json) |
 | Marigold | 183053 | [183053-marigold.json](./183053-marigold.json) |
 | Marina's Cuckolding Report | 143063 | [143063-marinas-cuckolding-report.json](./143063-marinas-cuckolding-report.json) |
 | Marine Buster | 45969 | [45969-marine-buster.json](./45969-marine-buster.json) |
@@ -1373,6 +1374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Chou Party Plus: Sanae to Tenshi no Gensou Labyrinth | 206955 | [206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json](./206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json) |
 | Miracle Chou Party: Sanae to Tenshi no Gensou Labyrinth | 206944 | [206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json](./206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json) |
 | Miracle Circus | 110365 | [110365-miracle-circus.json](./110365-miracle-circus.json) |
+| Miracle Jim no Bassing Beat | 362809 | [362809-miracle-jim-no-bassing-beat.json](./362809-miracle-jim-no-bassing-beat.json) |
 | Miracle Party Plus: Fushigi no Gensoukyou 2 | 206947 | [206947-miracle-party-plus-fushigi-no-gensoukyou-2.json](./206947-miracle-party-plus-fushigi-no-gensoukyou-2.json) |
 | Miracle Party: Fushigi no Gensoukyou 2 | 206936 | [206936-miracle-party-fushigi-no-gensoukyou-2.json](./206936-miracle-party-fushigi-no-gensoukyou-2.json) |
 | Miracle Squirrel Club | 339110 | [339110-miracle-squirrel-club.json](./339110-miracle-squirrel-club.json) |
@@ -2026,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr.Welder's Pinball Defence | 278146 | [278146-mr-welders-pinball-defence.json](./278146-mr-welders-pinball-defence.json) |
 | MRC: Multi-Racing Championship | 3544 | [3544-mrc-multi-racing-championship.json](./3544-mrc-multi-racing-championship.json) |
 | Mroi | 333940 | [333940-mroi.json](./333940-mroi.json) |
+| Ms. Holmes: Letter M - Collector's Edition | 362847 | [362847-ms-holmes-letter-m-collectors-edition.json](./362847-ms-holmes-letter-m-collectors-edition.json) |
 | Ms. Holmes: The Adventure of the McKirk Ritual - Collector's Edition | 186333 | [186333-ms-holmes-the-adventure-of-the-mckirk-ritual-collectors-edition.json](./186333-ms-holmes-the-adventure-of-the-mckirk-ritual-collectors-edition.json) |
 | Ms. Pac Person | 209155 | [209155-ms-pac-person.json](./209155-ms-pac-person.json) |
 | Ms. Rufiia's Struggle for Repayment: To Be a Lewd Arcdaemon | 82882 | [82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json](./82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json) |
