@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Vacation in Nebula | 146325 | [146325-a-vacation-in-nebula.json](./146325-a-vacation-in-nebula.json) |
 | A Valiant Story | 108484 | [108484-a-valiant-story.json](./108484-a-valiant-story.json) |
 | A Very Merry Nightmare | 338182 | [338182-a-very-merry-nightmare.json](./338182-a-very-merry-nightmare.json) |
+| A Very Simple Puzzle... | 337070 | [337070-a-very-simple-puzzle.json](./337070-a-very-simple-puzzle.json) |
 | A Wake Between Worlds | 350415 | [350415-a-wake-between-worlds.json](./350415-a-wake-between-worlds.json) |
 | A Wake Inn | 143698 | [143698-a-wake-inn.json](./143698-a-wake-inn.json) |
 | A Walk With Yiayia | 151184 | [151184-a-walk-with-yiayia.json](./151184-a-walk-with-yiayia.json) |
@@ -237,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abducted | 17376 | [17376-abducted.json](./17376-abducted.json) |
 | Abducted | 316440 | [316440-abducted.json](./316440-abducted.json) |
 | Abduction | 312919 | [312919-abduction.json](./312919-abduction.json) |
+| Abduction Escape | 337117 | [337117-abduction-escape.json](./337117-abduction-escape.json) |
 | Abe VR | 33117 | [33117-abe-vr.json](./33117-abe-vr.json) |
 | Abermore | 191621 | [191621-abermore.json](./191621-abermore.json) |
 | Abha | 111036 | [111036-abha.json](./111036-abha.json) |
@@ -1304,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animated Jigsaw Puzzles | 269286 | [269286-animated-jigsaw-puzzles.json](./269286-animated-jigsaw-puzzles.json) |
 | Animated Puzzles: Spooky Pack | 163420 | [163420-animated-puzzles-spooky-pack.json](./163420-animated-puzzles-spooky-pack.json) |
 | Animated StoryBook: Winnie the Pooh and the Honey Tree | 342669 | [342669-animated-storybook-winnie-the-pooh-and-the-honey-tree.json](./342669-animated-storybook-winnie-the-pooh-and-the-honey-tree.json) |
+| Animdle | 337097 | [337097-animdle.json](./337097-animdle.json) |
 | Anime Bowling Babes | 24997 | [24997-anime-bowling-babes.json](./24997-anime-bowling-babes.json) |
 | Anime Catgirl Runner | 224759 | [224759-anime-catgirl-runner.json](./224759-anime-catgirl-runner.json) |
 | Anime Christmas Uni | 380395 | [380395-anime-christmas-uni.json](./380395-anime-christmas-uni.json) |
@@ -1325,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Uni 3D: Hot Vacay | 401560 | [401560-anime-uni-3d-hot-vacay.json](./401560-anime-uni-3d-hot-vacay.json) |
 | Anime Vampire Slayer | 118421 | [118421-anime-vampire-slayer.json](./118421-anime-vampire-slayer.json) |
 | Anime Wave Simulator | 156668 | [156668-anime-wave-simulator.json](./156668-anime-wave-simulator.json) |
+| Anime-dle | 337089 | [337089-anime-dle.json](./337089-anime-dle.json) |
 | Animentals | 387361 | [387361-animentals.json](./387361-animentals.json) |
 | Animetic Story Game 1: Cardcaptor Sakura | 132867 | [132867-animetic-story-game-1-cardcaptor-sakura.json](./132867-animetic-story-game-1-cardcaptor-sakura.json) |
 | Animorphs: Shattered Reality | 43927 | [43927-animorphs-shattered-reality.json](./43927-animorphs-shattered-reality.json) |
@@ -1892,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ask Madame Clairvoya | 231628 | [231628-ask-madame-clairvoya.json](./231628-ask-madame-clairvoya.json) |
 | Aske | 165008 | [165008-aske.json](./165008-aske.json) |
 | Asleep | 201310 | [201310-asleep.json](./201310-asleep.json) |
+| Asleep in the Deep | 337102 | [337102-asleep-in-the-deep.json](./337102-asleep-in-the-deep.json) |
 | Asleep: Act 1 | 209702 | [209702-asleep-act-1.json](./209702-asleep-act-1.json) |
 | Asmik-kun World 2 | 7798 | [7798-asmik-kun-world-2.json](./7798-asmik-kun-world-2.json) |
 | ASMR Slicing | 254179 | [254179-asmr-slicing.json](./254179-asmr-slicing.json) |
