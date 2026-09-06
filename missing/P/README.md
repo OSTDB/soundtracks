@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Champion | 242800 | [242800-paper-champion.json](./242800-paper-champion.json) |
 | Paper Dungeons Crawler | 95573 | [95573-paper-dungeons-crawler.json](./95573-paper-dungeons-crawler.json) |
 | Paper Flight: Future Battles | 263236 | [263236-paper-flight-future-battles.json](./263236-paper-flight-future-battles.json) |
+| Paper io 2: Complete Edition | 331857 | [331857-paper-io-2-complete-edition.json](./331857-paper-io-2-complete-edition.json) |
 | Paper Mario Eggstraordinary Egg Hunt | 245039 | [245039-paper-mario-eggstraordinary-egg-hunt.json](./245039-paper-mario-eggstraordinary-egg-hunt.json) |
 | Paper Mario Multiplayer | 159325 | [159325-paper-mario-multiplayer.json](./159325-paper-mario-multiplayer.json) |
 | Paper Mario TTYD64 | 257636 | [257636-paper-mario-ttyd64.json](./257636-paper-mario-ttyd64.json) |
@@ -278,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parisian Brasserie Simulator | 326380 | [326380-parisian-brasserie-simulator.json](./326380-parisian-brasserie-simulator.json) |
 | Parity | 124243 | [124243-parity.json](./124243-parity.json) |
 | Park Beyond: Beyond Extreme | 262670 | [262670-park-beyond-beyond-extreme.json](./262670-park-beyond-beyond-extreme.json) |
+| Park Beyond: Complete Edition | 331856 | [331856-park-beyond-complete-edition.json](./331856-park-beyond-complete-edition.json) |
 | Park Inc | 146878 | [146878-park-inc.json](./146878-park-inc.json) |
 | Park It! | 310740 | [310740-park-it.json](./310740-park-it.json) |
 | Park Master | 254751 | [254751-park-master.json](./254751-park-master.json) |
@@ -361,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to Valhalla | 113733 | [113733-path-to-valhalla.json](./113733-path-to-valhalla.json) |
 | Path Weaver | 296644 | [296644-path-weaver.json](./296644-path-weaver.json) |
 | Pathfinder: Kingmaker - Enhanced Plus Edition | 154530 | [154530-pathfinder-kingmaker-enhanced-plus-edition.json](./154530-pathfinder-kingmaker-enhanced-plus-edition.json) |
+| Pathfinder: Wrath of the Righteous - Game of the Year Edition | 331855 | [331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json](./331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json) |
 | Pathfinder: Wrath of the Righteous - Love Beyond Death | 186869 | [186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json](./186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json) |
 | Pathogen | 213588 | [213588-pathogen.json](./213588-pathogen.json) |
 | Pathogen-X | 143064 | [143064-pathogen-x.json](./143064-pathogen-x.json) |
@@ -1063,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planes.io | 194038 | [194038-planes-io.json](./194038-planes-io.json) |
 | Planet Assault | 89936 | [89936-planet-assault.json](./89936-planet-assault.json) |
 | Planet Bom Bom | 345486 | [345486-planet-bom-bom.json](./345486-planet-bom-bom.json) |
+| Planet Coaster 2: Deluxe Edition | 331854 | [331854-planet-coaster-2-deluxe-edition.json](./331854-planet-coaster-2-deluxe-edition.json) |
 | Planet Crashers | 21036 | [21036-planet-crashers.json](./21036-planet-crashers.json) |
 | Planet Crossword | 220841 | [220841-planet-crossword.json](./220841-planet-crossword.json) |
 | Planet Delta | 80552 | [80552-planet-delta.json](./80552-planet-delta.json) |
@@ -1545,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pre-RON MI5 Bob | 71007 | [71007-pre-ron-mi5-bob.json](./71007-pre-ron-mi5-bob.json) |
 | Precision Point VR | 270949 | [270949-precision-point-vr.json](./270949-precision-point-vr.json) |
 | Predator | 74422 | [74422-predator.json](./74422-predator.json) |
+| Predator: Hunting Grounds - Jungle Edition | 331853 | [331853-predator-hunting-grounds-jungle-edition.json](./331853-predator-hunting-grounds-jungle-edition.json) |
 | Predatory Islands | 251832 | [251832-predatory-islands.json](./251832-predatory-islands.json) |
 | Predefined | 253585 | [253585-predefined.json](./253585-predefined.json) |
 | Predictile | 304890 | [304890-predictile.json](./304890-predictile.json) |
