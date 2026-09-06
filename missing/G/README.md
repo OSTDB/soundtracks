@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Poo World II | 138219 | [138219-grand-poo-world-ii.json](./138219-grand-poo-world-ii.json) |
 | Grand Prix | 18103 | [18103-grand-prix.json](./18103-grand-prix.json) |
 | Grand Prix | 385557 | [385557-grand-prix.json](./385557-grand-prix.json) |
+| Grand Prix Formula One | 314865 | [314865-grand-prix-formula-one.json](./314865-grand-prix-formula-one.json) |
 | Grand Prix Manager | 78019 | [78019-grand-prix-manager.json](./78019-grand-prix-manager.json) |
 | Grand Slam | 20812 | [20812-grand-slam.json](./20812-grand-slam.json) |
 | Grand Story | 182554 | [182554-grand-story.json](./182554-grand-story.json) |
