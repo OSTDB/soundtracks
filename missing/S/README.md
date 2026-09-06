@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: A Star Replicator | 320555 | [320555-scp-a-star-replicator.json](./320555-scp-a-star-replicator.json) |
 | SCP: Containment Breach Remastered | 210866 | [210866-scp-containment-breach-remastered.json](./210866-scp-containment-breach-remastered.json) |
 | SCP: Derelict - SciFi First Person Shooter | 111737 | [111737-scp-derelict-scifi-first-person-shooter.json](./111737-scp-derelict-scifi-first-person-shooter.json) |
+| SCP: Echoes | 364517 | [364517-scp-echoes.json](./364517-scp-echoes.json) |
 | SCP: Equestrian | 263764 | [263764-scp-equestrian.json](./263764-scp-equestrian.json) |
 | SCP: Josie | 260410 | [260410-scp-josie.json](./260410-scp-josie.json) |
 | SCP: Secret Facility | 336353 | [336353-scp-secret-facility.json](./336353-scp-secret-facility.json) |
@@ -442,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scream of the Viking 3 | 117074 | [117074-scream-of-the-viking-3.json](./117074-scream-of-the-viking-3.json) |
 | ScreamCap | 190723 | [190723-screamcap.json](./190723-screamcap.json) |
 | Screen Blaster | 101548 | [101548-screen-blaster.json](./101548-screen-blaster.json) |
+| Screen Boy | 364503 | [364503-screen-boy.json](./364503-screen-boy.json) |
 | Screen Wonders | 297211 | [297211-screen-wonders.json](./297211-screen-wonders.json) |
 | Screenplay in Autumn | 392757 | [392757-screenplay-in-autumn.json](./392757-screenplay-in-autumn.json) |
 | Screens Up by Nickelodeon | 105974 | [105974-screens-up-by-nickelodeon.json](./105974-screens-up-by-nickelodeon.json) |
@@ -1378,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Champ | 194017 | [194017-sky-champ.json](./194017-sky-champ.json) |
 | Sky Chuter | 328226 | [328226-sky-chuter.json](./328226-sky-chuter.json) |
 | Sky City Blues | 132824 | [132824-sky-city-blues.json](./132824-sky-city-blues.json) |
+| Sky City Rush | 364502 | [364502-sky-city-rush.json](./364502-sky-city-rush.json) |
 | Sky Dancer: Free Falling | 87498 | [87498-sky-dancer-free-falling.json](./87498-sky-dancer-free-falling.json) |
 | Sky Dancers: They Magically Fly! | 49401 | [49401-sky-dancers-they-magically-fly.json](./49401-sky-dancers-they-magically-fly.json) |
 | Sky DarkCrow | 190195 | [190195-sky-darkcrow.json](./190195-sky-darkcrow.json) |
