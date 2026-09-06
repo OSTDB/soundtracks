@@ -134,7 +134,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A New World Of Turnabouts | 303770 | [303770-a-new-world-of-turnabouts.json](./303770-a-new-world-of-turnabouts.json) |
 | A Night At Andy's | 184620 | [184620-a-night-at-andys.json](./184620-a-night-at-andys.json) |
 | A Night Out. | 334702 | [334702-a-night-out.json](./334702-a-night-out.json) |
+| A Night With: Emily | 331294 | [331294-a-night-with-emily.json](./331294-a-night-with-emily.json) |
 | A Night With: Spirit | 318180 | [318180-a-night-with-spirit.json](./318180-a-night-with-spirit.json) |
+| A Night With: Succubus | 331291 | [331291-a-night-with-succubus.json](./331291-a-night-with-succubus.json) |
 | A Pact With Me | 209704 | [209704-a-pact-with-me.json](./209704-a-pact-with-me.json) |
 | A Phone Found in Tall Grass | 245025 | [245025-a-phone-found-in-tall-grass.json](./245025-a-phone-found-in-tall-grass.json) |
 | A Platformer for Ants | 82150 | [82150-a-platformer-for-ants.json](./82150-a-platformer-for-ants.json) |
@@ -299,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss of Fire | 239301 | [239301-abyss-of-fire.json](./239301-abyss-of-fire.json) |
 | Abyss Pact | 339129 | [339129-abyss-pact.json](./339129-abyss-pact.json) |
 | Abyss Survivors | 311261 | [311261-abyss-survivors.json](./311261-abyss-survivors.json) |
+| Abyss Unchained | 331349 | [331349-abyss-unchained.json](./331349-abyss-unchained.json) |
 | Abyss: Backrooms Pools Horror VR | 376472 | [376472-abyss-backrooms-pools-horror-vr.json](./376472-abyss-backrooms-pools-horror-vr.json) |
 | Abyss: House | 356070 | [356070-abyss-house.json](./356070-abyss-house.json) |
 | Abyss: The Wraiths of Eden | 17136 | [17136-abyss-the-wraiths-of-eden.json](./17136-abyss-the-wraiths-of-eden.json) |
@@ -1947,6 +1950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Origins - God's Edition | 39045 | [39045-assassins-creed-origins-gods-edition.json](./39045-assassins-creed-origins-gods-edition.json) |
 | Assassin's Creed: Syndicate - Gold Edition | 52626 | [52626-assassins-creed-syndicate-gold-edition.json](./52626-assassins-creed-syndicate-gold-edition.json) |
 | Assassin's Creed: Syndicate - Rooks Edition | 230499 | [230499-assassins-creed-syndicate-rooks-edition.json](./230499-assassins-creed-syndicate-rooks-edition.json) |
+| Assassin's Shadows | 331306 | [331306-assassins-shadows.json](./331306-assassins-shadows.json) |
 | Assassination Classroom VR Balloon Challenge Time | 44611 | [44611-assassination-classroom-vr-balloon-challenge-time.json](./44611-assassination-classroom-vr-balloon-challenge-time.json) |
 | Assault at Wounded Ankle | 350993 | [350993-assault-at-wounded-ankle.json](./350993-assault-at-wounded-ankle.json) |
 | Assault Commander Rearmed | 371888 | [371888-assault-commander-rearmed.json](./371888-assault-commander-rearmed.json) |
@@ -2021,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Assembler | 71506 | [71506-astro-assembler.json](./71506-astro-assembler.json) |
 | Astro Blox Revisited | 241655 | [241655-astro-blox-revisited.json](./241655-astro-blox-revisited.json) |
 | Astro Bot: Stellar Speedway | 317620 | [317620-astro-bot-stellar-speedway.json](./317620-astro-bot-stellar-speedway.json) |
+| Astro Bot: Vicious Void | 331293 | [331293-astro-bot-vicious-void.json](./331293-astro-bot-vicious-void.json) |
 | Astro Bot: Vicious Void Galaxy | 347137 | [347137-astro-bot-vicious-void-galaxy.json](./347137-astro-bot-vicious-void-galaxy.json) |
 | Astro Bouncer | 103472 | [103472-astro-bouncer.json](./103472-astro-bouncer.json) |
 | Astro Boy Dash | 58274 | [58274-astro-boy-dash.json](./58274-astro-boy-dash.json) |
@@ -2209,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AutoDemo Levels in SADX | 198544 | [198544-autodemo-levels-in-sadx.json](./198544-autodemo-levels-in-sadx.json) |
 | Autoescuela Aprueba Conmigo | 86072 | [86072-autoescuela-aprueba-conmigo.json](./86072-autoescuela-aprueba-conmigo.json) |
 | AutoForge | 257105 | [257105-autoforge.json](./257105-autoforge.json) |
+| AutoGuessr | 331319 | [331319-autoguessr.json](./331319-autoguessr.json) |
 | AutoHeroes | 248883 | [248883-autoheroes.json](./248883-autoheroes.json) |
 | Automata 10 Pack Volume 2 | 258188 | [258188-automata-10-pack-volume-2.json](./258188-automata-10-pack-volume-2.json) |
 | Automata Break | 139455 | [139455-automata-break.json](./139455-automata-break.json) |
