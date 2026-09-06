@@ -1136,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Phobia | 170547 | [170547-the-forgotten-phobia.json](./170547-the-forgotten-phobia.json) |
 | The Forgotten Village | 337488 | [337488-the-forgotten-village.json](./337488-the-forgotten-village.json) |
 | The Forgotten Village of Gondomayit | 268215 | [268215-the-forgotten-village-of-gondomayit.json](./268215-the-forgotten-village-of-gondomayit.json) |
+| The Founders of Daytona Beach Also Founded Dayton, Ohio | 360606 | [360606-the-founders-of-daytona-beach-also-founded-dayton-ohio.json](./360606-the-founders-of-daytona-beach-also-founded-dayton-ohio.json) |
 | The Four Old Gods | 136442 | [136442-the-four-old-gods.json](./136442-the-four-old-gods.json) |
 | The Fourth Generation | 72693 | [72693-the-fourth-generation.json](./72693-the-fourth-generation.json) |
 | The Fox Awaits Me: Limited Edition | 188644 | [188644-the-fox-awaits-me-limited-edition.json](./188644-the-fox-awaits-me-limited-edition.json) |
@@ -2235,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatre of War 2: Battle for Caen | 10955 | [10955-theatre-of-war-2-battle-for-caen.json](./10955-theatre-of-war-2-battle-for-caen.json) |
 | TheBestiary | 196894 | [196894-thebestiary.json](./196894-thebestiary.json) |
 | TheBootCamp | 195219 | [195219-thebootcamp.json](./195219-thebootcamp.json) |
+| TheC64 Mini: Black Edition | 360591 | [360591-thec64-mini-black-edition.json](./360591-thec64-mini-black-edition.json) |
 | TheGunRunner | 89952 | [89952-thegunrunner.json](./89952-thegunrunner.json) |
 | TheHunter: Call of the Wild | 26381 | [26381-thehunter-call-of-the-wild.json](./26381-thehunter-call-of-the-wild.json) |
 | TheHunter: Call of the Wild - Reserve Cosmetics Bundle 1 | 271466 | [271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json](./271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json) |
