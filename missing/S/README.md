@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samael: The Legacy of Ophiuchus | 218718 | [218718-samael-the-legacy-of-ophiuchus.json](./218718-samael-the-legacy-of-ophiuchus.json) |
 | Same | 64423 | [64423-same.json](./64423-same.json) |
 | Same-X | 64429 | [64429-same-x.json](./64429-same-x.json) |
+| SameGame | 339279 | [339279-samegame.json](./339279-samegame.json) |
 | SameGame | 64430 | [64430-samegame.json](./64430-samegame.json) |
 | SameGame Fighter | 64436 | [64436-samegame-fighter.json](./64436-samegame-fighter.json) |
 | SameGame HD | 64432 | [64432-samegame-hd.json](./64432-samegame-hd.json) |
@@ -2654,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot the Differences: Party! | 84897 | [84897-spot-the-differences-party.json](./84897-spot-the-differences-party.json) |
 | Spot the Dot | 149563 | [149563-spot-the-dot.json](./149563-spot-the-dot.json) |
 | Spot: The Cool Adventure | 66020 | [66020-spot-the-cool-adventure.json](./66020-spot-the-cool-adventure.json) |
+| Spot: The Video Game | 339277 | [339277-spot-the-video-game.json](./339277-spot-the-video-game.json) |
 | SpotCat vs. The Cheddar Mafia In The Americas | 385079 | [385079-spotcat-vs-the-cheddar-mafia-in-the-americas.json](./385079-spotcat-vs-the-cheddar-mafia-in-the-americas.json) |
 | Spotlight | 277565 | [277565-spotlight.json](./277565-spotlight.json) |
 | Spotlight: Choose Your Romance | 298871 | [298871-spotlight-choose-your-romance.json](./298871-spotlight-choose-your-romance.json) |
@@ -3799,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World: The Second Reality Project 2 - Zycloboo's Challenge | 202378 | [202378-super-mario-world-the-second-reality-project-2-zycloboos-challenge.json](./202378-super-mario-world-the-second-reality-project-2-zycloboos-challenge.json) |
 | Super Mario XP: Super Mario Land | 324082 | [324082-super-mario-xp-super-mario-land.json](./324082-super-mario-xp-super-mario-land.json) |
 | Super Mario: Magnum Opus | 250041 | [250041-super-mario-magnum-opus.json](./250041-super-mario-magnum-opus.json) |
+| Super Mario: The New Beginning Revival | 339245 | [339245-super-mario-the-new-beginning-revival.json](./339245-super-mario-the-new-beginning-revival.json) |
 | Super Mario: The Star Kingdom | 324112 | [324112-super-mario-the-star-kingdom.json](./324112-super-mario-the-star-kingdom.json) |
 | Super Mario: The Trip | 277045 | [277045-super-mario-the-trip.json](./277045-super-mario-the-trip.json) |
 | Super Marisa World | 77351 | [77351-super-marisa-world.json](./77351-super-marisa-world.json) |
