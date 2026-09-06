@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Echoes | 364517 | [364517-scp-echoes.json](./364517-scp-echoes.json) |
 | SCP: Equestrian | 263764 | [263764-scp-equestrian.json](./263764-scp-equestrian.json) |
 | SCP: Josie | 260410 | [260410-scp-josie.json](./260410-scp-josie.json) |
+| SCP: Mystery Man | 320169 | [320169-scp-mystery-man.json](./320169-scp-mystery-man.json) |
 | SCP: Secret Facility | 336353 | [336353-scp-secret-facility.json](./336353-scp-secret-facility.json) |
 | SCP: Site-19 | 242246 | [242246-scp-site-19.json](./242246-scp-site-19.json) |
 | Scrabble | 354997 | [354997-scrabble.json](./354997-scrabble.json) |
@@ -720,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Meisuishu Tactics | 83548 | [83548-senran-meisuishu-tactics.json](./83548-senran-meisuishu-tactics.json) |
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
 | Sensible Train-Spotting | 77374 | [77374-sensible-train-spotting.json](./77374-sensible-train-spotting.json) |
+| Sensitive | 320188 | [320188-sensitive.json](./320188-sensitive.json) |
 | Sensory Deprivation Chamber | 262088 | [262088-sensory-deprivation-chamber.json](./262088-sensory-deprivation-chamber.json) |
 | Sente | 122414 | [122414-sente.json](./122414-sente.json) |
 | Sentience | 143695 | [143695-sentience.json](./143695-sentience.json) |
@@ -1083,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Imagine | 72672 | [72672-shin-megami-tensei-imagine.json](./72672-shin-megami-tensei-imagine.json) |
 | Shin Megami Tensei: Strange Journey | 15467 | [15467-shin-megami-tensei-strange-journey.json](./15467-shin-megami-tensei-strange-journey.json) |
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
+| Shine On, My Little Sun | 320147 | [320147-shine-on-my-little-sun.json](./320147-shine-on-my-little-sun.json) |
 | Shine's Adventures 2 (Zombie Attack) | 120372 | [120372-shines-adventures-2-zombie-attack.json](./120372-shines-adventures-2-zombie-attack.json) |
 | Shine's Adventures 5: World of Box | 127318 | [127318-shines-adventures-5-world-of-box.json](./127318-shines-adventures-5-world-of-box.json) |
 | ShineG Has Nightmares | 68675 | [68675-shineg-has-nightmares.json](./68675-shineg-has-nightmares.json) |
@@ -2570,6 +2573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceRace | 267688 | [267688-spacerace.json](./267688-spacerace.json) |
 | Spaceruler | 227493 | [227493-spaceruler.json](./227493-spaceruler.json) |
 | SpaceSlog | 197908 | [197908-spaceslog.json](./197908-spaceslog.json) |
+| SpaceSoldier3D | 320160 | [320160-spacesoldier3d.json](./320160-spacesoldier3d.json) |
 | Spacesona | 323552 | [323552-spacesona.json](./323552-spacesona.json) |
 | SpaceVenture | 63497 | [63497-spaceventure.json](./63497-spaceventure.json) |
 | Spacewar | 181938 | [181938-spacewar.json](./181938-spacewar.json) |
@@ -2689,6 +2693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spherecraft | 118387 | [118387-spherecraft.json](./118387-spherecraft.json) |
 | SphereZor | 84890 | [84890-spherezor.json](./84890-spherezor.json) |
 | Spheroid | 34535 | [34535-spheroid.json](./34535-spheroid.json) |
+| Spider | 320132 | [320132-spider.json](./320132-spider.json) |
 | Spider Bounce | 263745 | [263745-spider-bounce.json](./263745-spider-bounce.json) |
 | Spider Canyon | 332990 | [332990-spider-canyon.json](./332990-spider-canyon.json) |
 | Spider Lander | 111723 | [111723-spider-lander.json](./111723-spider-lander.json) |
@@ -3267,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Tower Swordmaster | 211943 | [211943-steel-tower-swordmaster.json](./211943-steel-tower-swordmaster.json) |
 | Steel Worker | 299481 | [299481-steel-worker.json](./299481-steel-worker.json) |
 | Steeplejack | 383968 | [383968-steeplejack.json](./383968-steeplejack.json) |
+| Steinkraft | 320162 | [320162-steinkraft.json](./320162-steinkraft.json) |
 | Steins;Gate Double Pack | 141877 | [141877-steins-gate-double-pack.json](./141877-steins-gate-double-pack.json) |
 | Steins;Gate: Limited Edition | 42680 | [42680-steins-gate-limited-edition.json](./42680-steins-gate-limited-edition.json) |
 | Stele | 339664 | [339664-stele.json](./339664-stele.json) |
@@ -3990,6 +3996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros 3000 | 250057 | [250057-super-mario-bros-3000.json](./250057-super-mario-bros-3000.json) |
 | Super Mario Bros Galaxy DS | 146354 | [146354-super-mario-bros-galaxy-ds.json](./146354-super-mario-bros-galaxy-ds.json) |
 | Super Mario Bros: Chaos of the Ztar | 324091 | [324091-super-mario-bros-chaos-of-the-ztar.json](./324091-super-mario-bros-chaos-of-the-ztar.json) |
+| Super Mario Bros: Dual Dash | 320158 | [320158-super-mario-bros-dual-dash.json](./320158-super-mario-bros-dual-dash.json) |
 | Super Mario Bros: Revenge of Bowser | 250056 | [250056-super-mario-bros-revenge-of-bowser.json](./250056-super-mario-bros-revenge-of-bowser.json) |
 | Super Mario Bros. | 206934 | [206934-super-mario-bros.json](./206934-super-mario-bros.json) |
 | Super Mario Bros. + | 316417 | [316417-super-mario-bros.json](./316417-super-mario-bros.json) |
@@ -4020,6 +4027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Star Road Multiplayer | 159342 | [159342-super-mario-star-road-multiplayer.json](./159342-super-mario-star-road-multiplayer.json) |
 | Super Mario Star World | 185685 | [185685-super-mario-star-world.json](./185685-super-mario-star-world.json) |
 | Super Mario Storm I | 324681 | [324681-super-mario-storm-i.json](./324681-super-mario-storm-i.json) |
+| Super Mario Subpop | 320159 | [320159-super-mario-subpop.json](./320159-super-mario-subpop.json) |
 | Super Mario Sunshine Arcade 2 | 213038 | [213038-super-mario-sunshine-arcade-2.json](./213038-super-mario-sunshine-arcade-2.json) |
 | Super Mario Surf | 324094 | [324094-super-mario-surf.json](./324094-super-mario-surf.json) |
 | Super Mario War: Stomp Arena | 323200 | [323200-super-mario-war-stomp-arena.json](./323200-super-mario-war-stomp-arena.json) |
@@ -4114,6 +4122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Wars Y: DLC 1 - Contract from the Darkness | 375171 | [375171-super-robot-wars-y-dlc-1-contract-from-the-darkness.json](./375171-super-robot-wars-y-dlc-1-contract-from-the-darkness.json) |
 | Super Robot Wars Y: DLC 2 - Awakening of a Soul | 375172 | [375172-super-robot-wars-y-dlc-2-awakening-of-a-soul.json](./375172-super-robot-wars-y-dlc-2-awakening-of-a-soul.json) |
 | Super Rock Blasters! | 31959 | [31959-super-rock-blasters.json](./31959-super-rock-blasters.json) |
+| Super Rocket Pets | 320155 | [320155-super-rocket-pets.json](./320155-super-rocket-pets.json) |
 | Super Rugby | 48664 | [48664-super-rugby.json](./48664-super-rugby.json) |
 | Super Rugby League 2 | 23009 | [23009-super-rugby-league-2.json](./23009-super-rugby-league-2.json) |
 | Super Russian Roulette | 307936 | [307936-super-russian-roulette.json](./307936-super-russian-roulette.json) |
