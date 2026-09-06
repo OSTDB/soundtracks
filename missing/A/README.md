@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achilles: Legends Untold | 160293 | [160293-achilles-legends-untold.json](./160293-achilles-legends-untold.json) |
 | Acid Bunny 2 | 394888 | [394888-acid-bunny-2.json](./394888-acid-bunny-2.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
+| Acid Factory | 316099 | [316099-acid-factory.json](./316099-acid-factory.json) |
 | Acid Spy | 102877 | [102877-acid-spy.json](./102877-acid-spy.json) |
 | Ack-Ack Attack! | 79318 | [79318-ack-ack-attack.json](./79318-ack-ack-attack.json) |
 | ACL Pro Cornhole | 211391 | [211391-acl-pro-cornhole.json](./211391-acl-pro-cornhole.json) |
@@ -836,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akunin-Akka | 389995 | [389995-akunin-akka.json](./389995-akunin-akka.json) |
 | Akuya | 30891 | [30891-akuya.json](./30891-akuya.json) |
 | Akyrikon VR | 158204 | [158204-akyrikon-vr.json](./158204-akyrikon-vr.json) |
+| Al Gurbish in... Nick it & Run!!! | 316060 | [316060-al-gurbish-in-nick-it-and-run.json](./316060-al-gurbish-in-nick-it-and-run.json) |
 | Al Unser Jr.'s Road to the Top | 42631 | [42631-al-unser-jr-s-road-to-the-top.json](./42631-al-unser-jr-s-road-to-the-top.json) |
 | Al Unser Jr.'s Turbo Racing | 8809 | [8809-al-unser-jr-s-turbo-racing.json](./8809-al-unser-jr-s-turbo-racing.json) |
 | Al-Ankabut | 211416 | [211416-al-ankabut.json](./211416-al-ankabut.json) |
@@ -1681,6 +1683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archer Maclean's Super Dropzone | 42637 | [42637-archer-macleans-super-dropzone.json](./42637-archer-macleans-super-dropzone.json) |
 | Archer of God | 237646 | [237646-archer-of-god.json](./237646-archer-of-god.json) |
 | Archero 2 | 319370 | [319370-archero-2.json](./319370-archero-2.json) |
+| Archers Online | 316047 | [316047-archers-online.json](./316047-archers-online.json) |
 | Archery Black | 356646 | [356646-archery-black.json](./356646-archery-black.json) |
 | Archery Kings VR | 89259 | [89259-archery-kings-vr.json](./89259-archery-kings-vr.json) |
 | Archery Legend | 319942 | [319942-archery-legend.json](./319942-archery-legend.json) |
@@ -1767,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark of Artemis | 148564 | [148564-ark-of-artemis.json](./148564-ark-of-artemis.json) |
 | Ark of Isolation | 373550 | [373550-ark-of-isolation.json](./373550-ark-of-isolation.json) |
 | Ark Re:Code | 367393 | [367393-ark-re-code.json](./367393-ark-re-code.json) |
+| Ark: Aberration Ascended | 316101 | [316101-ark-aberration-ascended.json](./316101-ark-aberration-ascended.json) |
 | Ark: Extinction | 103515 | [103515-ark-extinction.json](./103515-ark-extinction.json) |
 | Ark: Fantastic Tames - Pyromane | 304377 | [304377-ark-fantastic-tames-pyromane.json](./304377-ark-fantastic-tames-pyromane.json) |
 | Ark: Scorched Earth | 103514 | [103514-ark-scorched-earth.json](./103514-ark-scorched-earth.json) |
@@ -1871,6 +1875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Fighting 2 | 6556 | [6556-art-of-fighting-2.json](./6556-art-of-fighting-2.json) |
 | Art of Guile | 26721 | [26721-art-of-guile.json](./26721-art-of-guile.json) |
 | Art Puzzle | 354421 | [354421-art-puzzle.json](./354421-art-puzzle.json) |
+| Art Strikers | 316070 | [316070-art-strikers.json](./316070-art-strikers.json) |
 | Art Studio Simulator | 407346 | [407346-art-studio-simulator.json](./407346-art-studio-simulator.json) |
 | Art Style: Zengage | 69293 | [69293-art-style-zengage.json](./69293-art-style-zengage.json) |
 | Art Together | 347165 | [347165-art-together.json](./347165-art-together.json) |
@@ -2109,6 +2114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroNest | 19527 | [19527-astronest.json](./19527-astronest.json) |
 | Astronomica: The Quest for the Edge of the Universe | 71538 | [71538-astronomica-the-quest-for-the-edge-of-the-universe.json](./71538-astronomica-the-quest-for-the-edge-of-the-universe.json) |
 | Astronomics Rise of a New Empire | 244513 | [244513-astronomics-rise-of-a-new-empire.json](./244513-astronomics-rise-of-a-new-empire.json) |
+| Astropods: Starside Glaze | 316076 | [316076-astropods-starside-glaze.json](./316076-astropods-starside-glaze.json) |
 | Astrotit | 93074 | [93074-astrotit.json](./93074-astrotit.json) |
 | Astround | 342049 | [342049-astround.json](./342049-astround.json) |
 | Astrox Imperium | 115500 | [115500-astrox-imperium.json](./115500-astrox-imperium.json) |
