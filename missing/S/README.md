@@ -2561,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatterhouse | 6929 | [6929-splatterhouse.json](./6929-splatterhouse.json) |
 | Splatterhouse 3 | 46194 | [46194-splatterhouse-3.json](./46194-splatterhouse-3.json) |
 | Splendor: The Strongholds | 172174 | [172174-splendor-the-strongholds.json](./172174-splendor-the-strongholds.json) |
+| Splett | 342660 | [342660-splett.json](./342660-splett.json) |
 | Spliced | 218706 | [218706-spliced.json](./218706-spliced.json) |
 | Splinterlands | 165055 | [165055-splinterlands.json](./165055-splinterlands.json) |
 | Split Brain Samsara | 401487 | [401487-split-brain-samsara.json](./401487-split-brain-samsara.json) |
@@ -3115,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sting | 230541 | [230541-sting.json](./230541-sting.json) |
 | Sting & Swing | 398983 | [398983-sting-and-swing.json](./398983-sting-and-swing.json) |
 | Stinker Golf | 406107 | [406107-stinker-golf.json](./406107-stinker-golf.json) |
+| Stitch's Blazing Lasers | 342673 | [342673-stitchs-blazing-lasers.json](./342673-stitchs-blazing-lasers.json) |
 | Stix: Combat Devolved | 190699 | [190699-stix-combat-devolved.json](./190699-stix-combat-devolved.json) |
 | Stock: Retail investors | 295542 | [295542-stock-retail-investors.json](./295542-stock-retail-investors.json) |
 | Stoked: Big Air Edition | 21107 | [21107-stoked-big-air-edition.json](./21107-stoked-big-air-edition.json) |
@@ -3273,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StretchingVr | 99014 | [99014-stretchingvr.json](./99014-stretchingvr.json) |
 | Stretchy Adventure | 319957 | [319957-stretchy-adventure.json](./319957-stretchy-adventure.json) |
 | Stretchy-Man: The Video Game | 190234 | [190234-stretchy-man-the-video-game.json](./190234-stretchy-man-the-video-game.json) |
+| Striatum | 342647 | [342647-striatum.json](./342647-striatum.json) |
 | Striden | 237059 | [237059-striden.json](./237059-striden.json) |
 | Strife: Veteran Edition | 147967 | [147967-strife-veteran-edition.json](./147967-strife-veteran-edition.json) |
 | Strike at Night | 349835 | [349835-strike-at-night.json](./349835-strike-at-night.json) |
@@ -3948,6 +3951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernatural Visual Novel: The Fourteenth Guzai Vol. 1 & 2 | 373524 | [373524-supernatural-visual-novel-the-fourteenth-guzai-vol-1-and-2.json](./373524-supernatural-visual-novel-the-fourteenth-guzai-vol-1-and-2.json) |
 | Supernormal | 278716 | [278716-supernormal.json](./278716-supernormal.json) |
 | Superola and the Lost Burgers | 87475 | [87475-superola-and-the-lost-burgers.json](./87475-superola-and-the-lost-burgers.json) |
+| SuperQuest | 342636 | [342636-superquest.json](./342636-superquest.json) |
 | Supersonic Highway Defenders | 355559 | [355559-supersonic-highway-defenders.json](./355559-supersonic-highway-defenders.json) |
 | SuperSpec Rallycross | 291740 | [291740-superspec-rallycross.json](./291740-superspec-rallycross.json) |
 | Superstar Chefs | 57666 | [57666-superstar-chefs.json](./57666-superstar-chefs.json) |
@@ -4037,6 +4041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Bar Express | 54416 | [54416-sushi-bar-express.json](./54416-sushi-bar-express.json) |
 | Sushi Battle Rambunctiously | 267685 | [267685-sushi-battle-rambunctiously.json](./267685-sushi-battle-rambunctiously.json) |
 | Sushi Cat | 87214 | [87214-sushi-cat.json](./87214-sushi-cat.json) |
+| SushiCup Legend | 342618 | [342618-sushicup-legend.json](./342618-sushicup-legend.json) |
 | SushiParty2 | 124238 | [124238-sushiparty2.json](./124238-sushiparty2.json) |
 | Suspense: Madman's Dreams | 329393 | [329393-suspense-madmans-dreams.json](./329393-suspense-madmans-dreams.json) |
 | Suspicious Person Information | 275904 | [275904-suspicious-person-information.json](./275904-suspicious-person-information.json) |
