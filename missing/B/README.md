@@ -1097,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Tower | 58824 | [58824-black-tower.json](./58824-black-tower.json) |
 | Black Viper | 14311 | [14311-black-viper.json](./14311-black-viper.json) |
 | Black Widow: Looking for Love | 220874 | [220874-black-widow-looking-for-love.json](./220874-black-widow-looking-for-love.json) |
+| Black Zen White | 344938 | [344938-black-zen-white.json](./344938-black-zen-white.json) |
 | Black/Matrix 00 | 137090 | [137090-black-matrix-00.json](./137090-black-matrix-00.json) |
 | Black/Matrix II | 229355 | [229355-black-matrix-ii.json](./229355-black-matrix-ii.json) |
 | Blackbox | 328240 | [328240-blackbox.json](./328240-blackbox.json) |
@@ -1622,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Boing Voyage | 245006 | [245006-bounce-boing-voyage.json](./245006-bounce-boing-voyage.json) |
 | Bounce Cat | 352747 | [352747-bounce-cat.json](./352747-bounce-cat.json) |
 | Bounce Lounge | 233232 | [233232-bounce-lounge.json](./233232-bounce-lounge.json) |
+| Bounce Original | 344928 | [344928-bounce-original.json](./344928-bounce-original.json) |
 | Bounce Tales 64 | 135264 | [135264-bounce-tales-64.json](./135264-bounce-tales-64.json) |
 | Bounce Time! | 233240 | [233240-bounce-time.json](./233240-bounce-time.json) |
 | Bounce Zone | 84241 | [84241-bounce-zone.json](./84241-bounce-zone.json) |
@@ -1713,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Wars | 83580 | [83580-brain-wars.json](./83580-brain-wars.json) |
 | brainCloud Bombers | 120400 | [120400-braincloud-bombers.json](./120400-braincloud-bombers.json) |
 | Brainrot Survivors | 391041 | [391041-brainrot-survivors.json](./391041-brainrot-survivors.json) |
+| Brainrot Wars | 344965 | [344965-brainrot-wars.json](./344965-brainrot-wars.json) |
 | Brainsss | 197397 | [197397-brainsss.json](./197397-brainsss.json) |
 | Brainstorm | 14338 | [14338-brainstorm.json](./14338-brainstorm.json) |
 | Brainstorm Series: Treasure Chase | 130389 | [130389-brainstorm-series-treasure-chase.json](./130389-brainstorm-series-treasure-chase.json) |
