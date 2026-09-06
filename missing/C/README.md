@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty 4: Modern Warfare | 135294 | [135294-call-of-duty-4-modern-warfare.json](./135294-call-of-duty-4-modern-warfare.json) |
 | Call of Duty 4: Modern Warfare - Game of the Year Edition | 290723 | [290723-call-of-duty-4-modern-warfare-game-of-the-year-edition.json](./290723-call-of-duty-4-modern-warfare-game-of-the-year-edition.json) |
 | Call of Duty Tactics | 276488 | [276488-call-of-duty-tactics.json](./276488-call-of-duty-tactics.json) |
+| Call of Duty: Black Ops | 343819 | [343819-call-of-duty-black-ops.json](./343819-call-of-duty-black-ops.json) |
 | Call of Duty: Black Ops - Annihilation | 22636 | [22636-call-of-duty-black-ops-annihilation.json](./22636-call-of-duty-black-ops-annihilation.json) |
 | Call of Duty: Black Ops II - Care Package | 18352 | [18352-call-of-duty-black-ops-ii-care-package.json](./18352-call-of-duty-black-ops-ii-care-package.json) |
 | Call of Duty: Black Ops Mobile | 135300 | [135300-call-of-duty-black-ops-mobile.json](./135300-call-of-duty-black-ops-mobile.json) |
@@ -93,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Warzone | 131800 | [131800-call-of-duty-warzone.json](./131800-call-of-duty-warzone.json) |
 | Call of Duty: World at War | 135296 | [135296-call-of-duty-world-at-war.json](./135296-call-of-duty-world-at-war.json) |
 | Call of Duty: World at War | 135297 | [135297-call-of-duty-world-at-war.json](./135297-call-of-duty-world-at-war.json) |
+| Call of Duty: World at War | 343822 | [343822-call-of-duty-world-at-war.json](./343822-call-of-duty-world-at-war.json) |
 | Call of Duty: World at War - Zombies | 89115 | [89115-call-of-duty-world-at-war-zombies.json](./89115-call-of-duty-world-at-war-zombies.json) |
 | Call of Farming: Together | 278741 | [278741-call-of-farming-together.json](./278741-call-of-farming-together.json) |
 | Call of Nature: Jigsaw Puzzle | 103531 | [103531-call-of-nature-jigsaw-puzzle.json](./103531-call-of-nature-jigsaw-puzzle.json) |
@@ -294,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cario | 220341 | [220341-cario.json](./220341-cario.json) |
 | Carious Weltling | 354450 | [354450-carious-weltling.json](./354450-carious-weltling.json) |
 | Carl Currency, Expert Exchanger | 229345 | [229345-carl-currency-expert-exchanger.json](./229345-carl-currency-expert-exchanger.json) |
+| Carlos Haunted House | 343835 | [343835-carlos-haunted-house.json](./343835-carlos-haunted-house.json) |
 | Carlos Klauss: Episode Zero | 258701 | [258701-carlos-klauss-episode-zero.json](./258701-carlos-klauss-episode-zero.json) |
 | Carma | 172153 | [172153-carma.json](./172153-carma.json) |
 | Carmageddon | 246743 | [246743-carmageddon.json](./246743-carmageddon.json) |
@@ -581,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celted | 176478 | [176478-celted.json](./176478-celted.json) |
 | Celtic Carnage | 58821 | [58821-celtic-carnage.json](./58821-celtic-carnage.json) |
 | Celtic Football Coach | 138212 | [138212-celtic-football-coach.json](./138212-celtic-football-coach.json) |
+| Celtic Tribes | 343804 | [343804-celtic-tribes.json](./343804-celtic-tribes.json) |
 | Cement Truck | 105921 | [105921-cement-truck.json](./105921-cement-truck.json) |
 | Centipede | 245541 | [245541-centipede.json](./245541-centipede.json) |
 | Centipede & Battlezone | 64399 | [64399-centipede-and-battlezone.json](./64399-centipede-and-battlezone.json) |
@@ -621,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champ Invaders | 94248 | [94248-champ-invaders.json](./94248-champ-invaders.json) |
 | Champion Cup Goal 2 | 242220 | [242220-champion-cup-goal-2.json](./242220-champion-cup-goal-2.json) |
 | Champions of Breakfast | 33423 | [33423-champions-of-breakfast.json](./33423-champions-of-breakfast.json) |
+| Champions Tactics Reforged | 343807 | [343807-champions-tactics-reforged.json](./343807-champions-tactics-reforged.json) |
 | Championship Manager 2 | 37133 | [37133-championship-manager-2.json](./37133-championship-manager-2.json) |
 | Championship Manager: Season 03/04 | 628 | [628-championship-manager-season-03-04.json](./628-championship-manager-season-03-04.json) |
 | Championship Wrestling Promoter | 199124 | [199124-championship-wrestling-promoter.json](./199124-championship-wrestling-promoter.json) |
@@ -2243,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Cock Clicker | 218151 | [218151-cute-cock-clicker.json](./218151-cute-cock-clicker.json) |
 | Cute Demon Crashers! | 58801 | [58801-cute-demon-crashers.json](./58801-cute-demon-crashers.json) |
 | Cute girl with uncle's leisure time | 278737 | [278737-cute-girl-with-uncles-leisure-time.json](./278737-cute-girl-with-uncles-leisure-time.json) |
+| Cute Heroes | 343802 | [343802-cute-heroes.json](./343802-cute-heroes.json) |
 | Cute Honey: Special Edition | 236017 | [236017-cute-honey-special-edition.json](./236017-cute-honey-special-edition.json) |
 | Cute Pet Doctor Care | 228113 | [228113-cute-pet-doctor-care.json](./228113-cute-pet-doctor-care.json) |
 | Cute Puzzle | 111015 | [111015-cute-puzzle.json](./111015-cute-puzzle.json) |
