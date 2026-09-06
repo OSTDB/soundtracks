@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Building | 212469 | [212469-tap-building.json](./212469-tap-building.json) |
 | Tap Crush Jewels | 90679 | [90679-tap-crush-jewels.json](./90679-tap-crush-jewels.json) |
 | Tap knife VIP | 105959 | [105959-tap-knife-vip.json](./105959-tap-knife-vip.json) |
+| Tap Master: Mondrian | 333581 | [333581-tap-master-mondrian.json](./333581-tap-master-mondrian.json) |
 | Tap Rising | 242200 | [242200-tap-rising.json](./242200-tap-rising.json) |
 | Tap Smiths | 58233 | [58233-tap-smiths.json](./58233-tap-smiths.json) |
 | Tap Soccer: Champions | 239891 | [239891-tap-soccer-champions.json](./239891-tap-soccer-champions.json) |
@@ -455,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 7: Season Pass | 385588 | [385588-tekken-7-season-pass.json](./385588-tekken-7-season-pass.json) |
 | Tekken 8: Character Costume - Aurora Outfit Pack | 414330 | [414330-tekken-8-character-costume-aurora-outfit-pack.json](./414330-tekken-8-character-costume-aurora-outfit-pack.json) |
 | Tekken 8: Eddy Gordo | 296675 | [296675-tekken-8-eddy-gordo.json](./296675-tekken-8-eddy-gordo.json) |
+| Tekken 8: Phoenix Gate | 333580 | [333580-tekken-8-phoenix-gate.json](./333580-tekken-8-phoenix-gate.json) |
 | Tekken 8: Season 1 Character & Stage Pass | 347697 | [347697-tekken-8-season-1-character-and-stage-pass.json](./347697-tekken-8-season-1-character-and-stage-pass.json) |
 | Tekken 8: Season 2 - Deluxe Edition | 338222 | [338222-tekken-8-season-2-deluxe-edition.json](./338222-tekken-8-season-2-deluxe-edition.json) |
 | Tekken 8: Season 2 - Ultimate Edition | 338221 | [338221-tekken-8-season-2-ultimate-edition.json](./338221-tekken-8-season-2-ultimate-edition.json) |
@@ -512,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Champs Returns | 58823 | [58823-tennis-champs-returns.json](./58823-tennis-champs-returns.json) |
 | Tennis Club Story | 134020 | [134020-tennis-club-story.json](./134020-tennis-club-story.json) |
 | Tennis Kings VR | 89257 | [89257-tennis-kings-vr.json](./89257-tennis-kings-vr.json) |
+| Tennis Life | 333532 | [333532-tennis-life.json](./333532-tennis-life.json) |
 | Tennis Masters Series | 18334 | [18334-tennis-masters-series.json](./18334-tennis-masters-series.json) |
 | Tennis Menace | 47262 | [47262-tennis-menace.json](./47262-tennis-menace.json) |
 | Tennis no Ouji-sama: Smash Hit! 2 | 405515 | [405515-tennis-no-ouji-sama-smash-hit-2.json](./405515-tennis-no-ouji-sama-smash-hit-2.json) |
@@ -3329,6 +3332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Box | 325235 | [325235-toy-box.json](./325235-toy-box.json) |
 | Toy Car Extreme Racing: RC Driver Simulator | 309082 | [309082-toy-car-extreme-racing-rc-driver-simulator.json](./309082-toy-car-extreme-racing-rc-driver-simulator.json) |
 | TOY DJ - An Electronic Music Rhythm Game | 100909 | [100909-toy-dj-an-electronic-music-rhythm-game.json](./100909-toy-dj-an-electronic-music-rhythm-game.json) |
+| Toy Scrappers | 333549 | [333549-toy-scrappers.json](./333549-toy-scrappers.json) |
 | Toy Story 2: Woody Sousaku Daisakusen!! | 58850 | [58850-toy-story-2-woody-sousaku-daisakusen.json](./58850-toy-story-2-woody-sousaku-daisakusen.json) |
 | Toy Story 3 | 230554 | [230554-toy-story-3.json](./230554-toy-story-3.json) |
 | Toy Story Racer | 18944 | [18944-toy-story-racer.json](./18944-toy-story-racer.json) |
