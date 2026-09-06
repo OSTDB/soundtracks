@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanyo Pachinko Paradise | 55926 | [55926-sanyo-pachinko-paradise.json](./55926-sanyo-pachinko-paradise.json) |
 | Sanyo Pachinko Paradise 2: Umi Monogatari Special | 55942 | [55942-sanyo-pachinko-paradise-2-umi-monogatari-special.json](./55942-sanyo-pachinko-paradise-2-umi-monogatari-special.json) |
 | Sanyo Pachinko Paradise 3 | 55927 | [55927-sanyo-pachinko-paradise-3.json](./55927-sanyo-pachinko-paradise-3.json) |
+| Sapling Wars | 333008 | [333008-sapling-wars.json](./333008-sapling-wars.json) |
 | Sapo Xulé: S.O.S. Lagoa Poluída | 84282 | [84282-sapo-xule-s-o-s-lagoa-poluida.json](./84282-sapo-xule-s-o-s-lagoa-poluida.json) |
 | Sapper: Defuse the Bomb Simulator | 118439 | [118439-sapper-defuse-the-bomb-simulator.json](./118439-sapper-defuse-the-bomb-simulator.json) |
 | Saraab | 386723 | [386723-saraab.json](./386723-saraab.json) |
@@ -343,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayonara NightCap | 260397 | [260397-sayonara-nightcap.json](./260397-sayonara-nightcap.json) |
 | Sayonara Sigil Sentry | 331679 | [331679-sayonara-sigil-sentry.json](./331679-sayonara-sigil-sentry.json) |
 | Sayonara Umihara Kawase Smart | 247199 | [247199-sayonara-umihara-kawase-smart.json](./247199-sayonara-umihara-kawase-smart.json) |
+| Sayonara Wild Hearts | 333020 | [333020-sayonara-wild-hearts.json](./333020-sayonara-wild-hearts.json) |
 | Sayonara, Utsutsu. | 260977 | [260977-sayonara-utsutsu.json](./260977-sayonara-utsutsu.json) |
 | SBK-08: Superbike World Championship | 264881 | [264881-sbk-08-superbike-world-championship.json](./264881-sbk-08-superbike-world-championship.json) |
 | Scab | 402285 | [402285-scab.json](./402285-scab.json) |
@@ -1475,8 +1477,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skinwalkers Valley | 379339 | [379339-skinwalkers-valley.json](./379339-skinwalkers-valley.json) |
 | Skiplit | 27799 | [27799-skiplit.json](./27799-skiplit.json) |
 | Skoof Fishing | 356663 | [356663-skoof-fishing.json](./356663-skoof-fishing.json) |
+| Skrunkly gets a Meal Deal | 332984 | [332984-skrunkly-gets-a-meal-deal.json](./332984-skrunkly-gets-a-meal-deal.json) |
 | Skuiggle | 202945 | [202945-skuiggle.json](./202945-skuiggle.json) |
 | SkulJagger: Revolt of the Westicans | 42664 | [42664-skuljagger-revolt-of-the-westicans.json](./42664-skuljagger-revolt-of-the-westicans.json) |
+| Skulker | 332999 | [332999-skulker.json](./332999-skulker.json) |
 | Skull and Bones: Season 1 - Raging Tides | 303240 | [303240-skull-and-bones-season-1-raging-tides.json](./303240-skull-and-bones-season-1-raging-tides.json) |
 | Skull and Bones: Season 2 - Chorus of Havoc | 303241 | [303241-skull-and-bones-season-2-chorus-of-havoc.json](./303241-skull-and-bones-season-2-chorus-of-havoc.json) |
 | Skull Dash | 272553 | [272553-skull-dash.json](./272553-skull-dash.json) |
@@ -1683,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64 Power Star Madness | 358286 | [358286-sm64-power-star-madness.json](./358286-sm64-power-star-madness.json) |
 | SM64 Sapphire | 133993 | [133993-sm64-sapphire.json](./133993-sm64-sapphire.json) |
 | SM64 The Green Stars | 132830 | [132830-sm64-the-green-stars.json](./132830-sm64-the-green-stars.json) |
+| Smack Monkey | 332989 | [332989-smack-monkey.json](./332989-smack-monkey.json) |
 | Smack Some Smackers | 77400 | [77400-smack-some-smackers.json](./77400-smack-some-smackers.json) |
 | Smack Wacker | 68668 | [68668-smack-wacker.json](./68668-smack-wacker.json) |
 | Smackitball | 33036 | [33036-smackitball.json](./33036-smackitball.json) |
@@ -1906,6 +1911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccerholix | 93577 | [93577-soccerholix.json](./93577-soccerholix.json) |
 | Soccering | 115041 | [115041-soccering.json](./115041-soccering.json) |
 | Social Distancing Simulator | 166204 | [166204-social-distancing-simulator.json](./166204-social-distancing-simulator.json) |
+| Social Hook | 333000 | [333000-social-hook.json](./333000-social-hook.json) |
 | Social Interaction Trainer | 31531 | [31531-social-interaction-trainer.json](./31531-social-interaction-trainer.json) |
 | Sociopath | 410211 | [410211-sociopath.json](./410211-sociopath.json) |
 | Sock Dating Simulator | 341321 | [341321-sock-dating-simulator.json](./341321-sock-dating-simulator.json) |
@@ -2565,6 +2571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SphereZor | 84890 | [84890-spherezor.json](./84890-spherezor.json) |
 | Spheroid | 34535 | [34535-spheroid.json](./34535-spheroid.json) |
 | Spider Bounce | 263745 | [263745-spider-bounce.json](./263745-spider-bounce.json) |
+| Spider Canyon | 332990 | [332990-spider-canyon.json](./332990-spider-canyon.json) |
 | Spider Lander | 111723 | [111723-spider-lander.json](./111723-spider-lander.json) |
 | Spider Matrix | 408780 | [408780-spider-matrix.json](./408780-spider-matrix.json) |
 | Spider Roulette | 386694 | [386694-spider-roulette.json](./386694-spider-roulette.json) |
@@ -3054,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Start! Heart Thief | 165011 | [165011-start-heart-thief.json](./165011-start-heart-thief.json) |
 | Startenders: Intergalactic Bartending | 187509 | [187509-startenders-intergalactic-bartending.json](./187509-startenders-intergalactic-bartending.json) |
 | StartPlay | 339669 | [339669-startplay.json](./339669-startplay.json) |
+| Startron | 333022 | [333022-startron.json](./333022-startron.json) |
 | Starvania: Tales Of The Past | 372498 | [372498-starvania-tales-of-the-past.json](./372498-starvania-tales-of-the-past.json) |
 | StarWheels | 119041 | [119041-starwheels.json](./119041-starwheels.json) |
 | Starwisp Hyperdrive | 217023 | [217023-starwisp-hyperdrive.json](./217023-starwisp-hyperdrive.json) |
@@ -3371,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Rage 2 | 203318 | [203318-streets-of-rage-2.json](./203318-streets-of-rage-2.json) |
 | Streets of Red: Devil's Dare | 126045 | [126045-streets-of-red-devils-dare.json](./126045-streets-of-red-devils-dare.json) |
 | Streets of Rogue | 23275 | [23275-streets-of-rogue.json](./23275-streets-of-rogue.json) |
+| StreetSync | 332983 | [332983-streetsync.json](./332983-streetsync.json) |
 | Stress Test | 200168 | [200168-stress-test.json](./200168-stress-test.json) |
 | Stress, Out! | 258716 | [258716-stress-out.json](./258716-stress-out.json) |
 | Stretch Guy | 315844 | [315844-stretch-guy.json](./315844-stretch-guy.json) |
@@ -3508,6 +3517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Fever | 26629 | [26629-sugar-fever.json](./26629-sugar-fever.json) |
 | Sugar High | 233226 | [233226-sugar-high.json](./233226-sugar-high.json) |
 | Sugar Mess: Let's Play Jolly Battle | 263752 | [263752-sugar-mess-lets-play-jolly-battle.json](./263752-sugar-mess-lets-play-jolly-battle.json) |
+| Sugar Overdrive | 332985 | [332985-sugar-overdrive.json](./332985-sugar-overdrive.json) |
 | Sugar Style: Complete Edition | 141892 | [141892-sugar-style-complete-edition.json](./141892-sugar-style-complete-edition.json) |
 | Sugar, Sugar | 89099 | [89099-sugar-sugar.json](./89099-sugar-sugar.json) |
 | Sugarcreek | 204110 | [204110-sugarcreek.json](./204110-sugarcreek.json) |
@@ -3596,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Riders | 4370 | [4370-sunset-riders.json](./4370-sunset-riders.json) |
 | Sunset Studio | 145012 | [145012-sunset-studio.json](./145012-sunset-studio.json) |
 | Sunshine Acres | 25002 | [25002-sunshine-acres.json](./25002-sunshine-acres.json) |
+| Sunshine Farm | 333005 | [333005-sunshine-farm.json](./333005-sunshine-farm.json) |
 | Sunshine Island | 237647 | [237647-sunshine-island.json](./237647-sunshine-island.json) |
 | Sunshine Secret Book 64 | 132838 | [132838-sunshine-secret-book-64.json](./132838-sunshine-secret-book-64.json) |
 | Sunya | 253006 | [253006-sunya.json](./253006-sunya.json) |
