@@ -643,6 +643,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koppun-50 | 310214 | [310214-koppun-50.json](./310214-koppun-50.json) |
 | Kor | 183561 | [183561-kor.json](./183561-kor.json) |
 | Kore ga Pro Yakyuu '89 | 42037 | [42037-kore-ga-pro-yakyuu-89.json](./42037-kore-ga-pro-yakyuu-89.json) |
+| Korean Drone Flying Tour Chuncheon City | 328501 | [328501-korean-drone-flying-tour-chuncheon-city.json](./328501-korean-drone-flying-tour-chuncheon-city.json) |
+| Korean Drone Flying Tour Danyang-gun | 328502 | [328502-korean-drone-flying-tour-danyang-gun.json](./328502-korean-drone-flying-tour-danyang-gun.json) |
 | Korean Monorail Panorama Line Hwagaesan | 378809 | [378809-korean-monorail-panorama-line-hwagaesan.json](./378809-korean-monorail-panorama-line-hwagaesan.json) |
 | KORG Gadget | 77537 | [77537-korg-gadget.json](./77537-korg-gadget.json) |
 | Koro Koro Quest | 40226 | [40226-koro-koro-quest.json](./40226-koro-koro-quest.json) |
