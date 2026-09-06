@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quazatron | 23061 | [23061-quazatron.json](./23061-quazatron.json) |
 | Qub | 362305 | [362305-qub.json](./362305-qub.json) |
 | QubeTown | 114414 | [114414-qubetown.json](./114414-qubetown.json) |
+| Qubicks | 346599 | [346599-qubicks.json](./346599-qubicks.json) |
 | Qublyne Dungeons | 226435 | [226435-qublyne-dungeons.json](./226435-qublyne-dungeons.json) |
 | QUByte Classics: The Samurai Collection | 223156 | [223156-qubyte-classics-the-samurai-collection.json](./223156-qubyte-classics-the-samurai-collection.json) |
 | Queen Ant Perfume Episode 0: The Mad Love of Jack the Ripper | 339111 | [339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json](./339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json) |
