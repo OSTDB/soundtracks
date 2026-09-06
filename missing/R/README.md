@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Masters | 78684 | [78684-ragdoll-masters.json](./78684-ragdoll-masters.json) |
 | Ragdoll Mayhem Maker | 306091 | [306091-ragdoll-mayhem-maker.json](./306091-ragdoll-mayhem-maker.json) |
 | Ragdoll Party Online | 131590 | [131590-ragdoll-party-online.json](./131590-ragdoll-party-online.json) |
+| Ragdoll Rumble | 318990 | [318990-ragdoll-rumble.json](./318990-ragdoll-rumble.json) |
 | Rage Gang | 270943 | [270943-rage-gang.json](./270943-rage-gang.json) |
 | Rage Night | 224764 | [224764-rage-night.json](./224764-rage-night.json) |
 | Rage Racer | 18698 | [18698-rage-racer.json](./18698-rage-racer.json) |
@@ -135,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain | 128617 | [128617-rain.json](./128617-rain.json) |
 | Rain & Chamomile Tea | 260948 | [260948-rain-and-chamomile-tea.json](./260948-rain-and-chamomile-tea.json) |
 | Rain Blood Chronicles: Mirage | 16548 | [16548-rain-blood-chronicles-mirage.json](./16548-rain-blood-chronicles-mirage.json) |
+| Rain Check | 319007 | [319007-rain-check.json](./319007-rain-check.json) |
 | Rain in the Abyss | 194611 | [194611-rain-in-the-abyss.json](./194611-rain-in-the-abyss.json) |
 | Rain World: Slugcat's Lifecycle Edition | 370699 | [370699-rain-world-slugcats-lifecycle-edition.json](./370699-rain-world-slugcats-lifecycle-edition.json) |
 | Rain, House, Eternity | 143082 | [143082-rain-house-eternity.json](./143082-rain-house-eternity.json) |
@@ -315,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:D Cherish! SS: Desperado's One Operation | 370696 | [370696-re-d-cherish-ss-desperados-one-operation.json](./370696-re-d-cherish-ss-desperados-one-operation.json) |
 | Re:D Cherish! SS: Rouge's One Operation | 370697 | [370697-re-d-cherish-ss-rouges-one-operation.json](./370697-re-d-cherish-ss-rouges-one-operation.json) |
 | Re:D Cherish!: Eternity Blood | 370695 | [370695-re-d-cherish-eternity-blood.json](./370695-re-d-cherish-eternity-blood.json) |
+| Re:Fragment - Absolute Ambition | 319008 | [319008-re-fragment-absolute-ambition.json](./319008-re-fragment-absolute-ambition.json) |
 | Re:Kuroi | 151725 | [151725-re-kuroi.json](./151725-re-kuroi.json) |
 | Re:leap-future City and Futureless | 346572 | [346572-re-leap-future-city-and-futureless.json](./346572-re-leap-future-city-and-futureless.json) |
 | Re:Monster | 241637 | [241637-re-monster.json](./241637-re-monster.json) |
