@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty Tactics | 276488 | [276488-call-of-duty-tactics.json](./276488-call-of-duty-tactics.json) |
 | Call of Duty: Black Ops | 343819 | [343819-call-of-duty-black-ops.json](./343819-call-of-duty-black-ops.json) |
 | Call of Duty: Black Ops - Annihilation | 22636 | [22636-call-of-duty-black-ops-annihilation.json](./22636-call-of-duty-black-ops-annihilation.json) |
+| Call Of Duty: Black Ops 6 - Season 2 | 330137 | [330137-call-of-duty-black-ops-6-season-2.json](./330137-call-of-duty-black-ops-6-season-2.json) |
 | Call of Duty: Black Ops II - Care Package | 18352 | [18352-call-of-duty-black-ops-ii-care-package.json](./18352-call-of-duty-black-ops-ii-care-package.json) |
 | Call of Duty: Black Ops Mobile | 135300 | [135300-call-of-duty-black-ops-mobile.json](./135300-call-of-duty-black-ops-mobile.json) |
 | Call of Duty: Ghosts - Digital Hardened Edition | 240504 | [240504-call-of-duty-ghosts-digital-hardened-edition.json](./240504-call-of-duty-ghosts-digital-hardened-edition.json) |
@@ -457,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Jigsaw Puzzle Games: Expansion Pack 7 | 263214 | [263214-cat-jigsaw-puzzle-games-expansion-pack-7.json](./263214-cat-jigsaw-puzzle-games-expansion-pack-7.json) |
 | Cat Life | 230525 | [230525-cat-life.json](./230525-cat-life.json) |
 | Cat Meat | 32911 | [32911-cat-meat.json](./32911-cat-meat.json) |
+| Cat Plus | 330190 | [330190-cat-plus.json](./330190-cat-plus.json) |
 | Cat Screen | 410234 | [410234-cat-screen.json](./410234-cat-screen.json) |
 | Cat Simulator 2015 | 87780 | [87780-cat-simulator-2015.json](./87780-cat-simulator-2015.json) |
 | Cat Slaps | 332976 | [332976-cat-slaps.json](./332976-cat-slaps.json) |
@@ -1259,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cockhead | 130937 | [130937-cockhead.json](./130937-cockhead.json) |
 | Cockroach VR | 31361 | [31361-cockroach-vr.json](./31361-cockroach-vr.json) |
 | Cocktail Magic | 260411 | [260411-cocktail-magic.json](./260411-cocktail-magic.json) |
+| Cocktail Rush | 330183 | [330183-cocktail-rush.json](./330183-cocktail-rush.json) |
 | Cockwork Industries Complete | 124194 | [124194-cockwork-industries-complete.json](./124194-cockwork-industries-complete.json) |
 | Coco Bandicoot: Tiger Ride | 314658 | [314658-coco-bandicoot-tiger-ride.json](./314658-coco-bandicoot-tiger-ride.json) |
 | Coco Block | 391595 | [391595-coco-block.json](./391595-coco-block.json) |
@@ -1272,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code of Ethics | 123042 | [123042-code-of-ethics.json](./123042-code-of-ethics.json) |
 | Code of Princess EX | 90104 | [90104-code-of-princess-ex.json](./90104-code-of-princess-ex.json) |
 | Code of the Savage | 173310 | [173310-code-of-the-savage.json](./173310-code-of-the-savage.json) |
+| Code Reactors | 330142 | [330142-code-reactors.json](./330142-code-reactors.json) |
 | Code Tracer | 124227 | [124227-code-tracer.json](./124227-code-tracer.json) |
 | Code Zero | 161896 | [161896-code-zero.json](./161896-code-zero.json) |
 | Code Zodiac | 251853 | [251853-code-zodiac.json](./251853-code-zodiac.json) |
@@ -1639,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corner Driver | 225888 | [225888-corner-driver.json](./225888-corner-driver.json) |
 | Corner Loot | 360003 | [360003-corner-loot.json](./360003-corner-loot.json) |
 | Cornucopia | 237054 | [237054-cornucopia.json](./237054-cornucopia.json) |
+| Cornucopia of Kaizo | 330124 | [330124-cornucopia-of-kaizo.json](./330124-cornucopia-of-kaizo.json) |
 | Corona Blossom Vol.1 Gift From the Galaxy | 32228 | [32228-corona-blossom-vol-1-gift-from-the-galaxy.json](./32228-corona-blossom-vol-1-gift-from-the-galaxy.json) |
 | Corona MotorSport | 35926 | [35926-corona-motorsport.json](./35926-corona-motorsport.json) |
 | Corona Simulator: Savior Edition | 165004 | [165004-corona-simulator-savior-edition.json](./165004-corona-simulator-savior-edition.json) |
@@ -1750,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courage Saw Game | 385598 | [385598-courage-saw-game.json](./385598-courage-saw-game.json) |
 | Courage: The Videogame | 170005 | [170005-courage-the-videogame.json](./170005-courage-the-videogame.json) |
 | Courageous Reasoning Nori 7 New World | 309077 | [309077-courageous-reasoning-nori-7-new-world.json](./309077-courageous-reasoning-nori-7-new-world.json) |
+| Courageous Reasoning Nori 9 Reasoning Tournament Sticking Nori | 330129 | [330129-courageous-reasoning-nori-9-reasoning-tournament-sticking-nori.json](./330129-courageous-reasoning-nori-9-reasoning-tournament-sticking-nori.json) |
 | Courier Beware | 399597 | [399597-courier-beware.json](./399597-courier-beware.json) |
 | Courier Chief Tycoon | 237086 | [237086-courier-chief-tycoon.json](./237086-courier-chief-tycoon.json) |
 | Court of Darkness: Captivation's Kiss | 399622 | [399622-court-of-darkness-captivations-kiss.json](./399622-court-of-darkness-captivations-kiss.json) |
@@ -2332,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Sensation: MicroLife | 351631 | [351631-cyber-sensation-microlife.json](./351631-cyber-sensation-microlife.json) |
 | Cyber Sled | 20626 | [20626-cyber-sled.json](./20626-cyber-sled.json) |
 | Cyber Strike | 194001 | [194001-cyber-strike.json](./194001-cyber-strike.json) |
+| Cyber Tank 2 | 330194 | [330194-cyber-tank-2.json](./330194-cyber-tank-2.json) |
 | Cyber Theater | 218153 | [218153-cyber-theater.json](./218153-cyber-theater.json) |
 | Cyber Tiger | 3431 | [3431-cyber-tiger.json](./3431-cyber-tiger.json) |
 | Cyber Tower | 267098 | [267098-cyber-tower.json](./267098-cyber-tower.json) |
