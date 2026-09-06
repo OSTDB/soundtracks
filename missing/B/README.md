@@ -645,7 +645,30 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Rush | 166213 | [166213-beat-rush.json](./166213-beat-rush.json) |
 | Beat Rush | 265414 | [265414-beat-rush.json](./265414-beat-rush.json) |
 | Beat Saber | 83731 | [83731-beat-saber.json](./83731-beat-saber.json) |
+| Beat Saber: Britney Spears - "…Baby One More Time" | 357222 | [357222-beat-saber-britney-spears-baby-one-more-time.json](./357222-beat-saber-britney-spears-baby-one-more-time.json) |
+| Beat Saber: Britney Spears - "Oops!...I Did It Again" | 357224 | [357224-beat-saber-britney-spears-oops-i-did-it-again.json](./357224-beat-saber-britney-spears-oops-i-did-it-again.json) |
+| Beat Saber: Britney Spears - "Toxic" | 357221 | [357221-beat-saber-britney-spears-toxic.json](./357221-beat-saber-britney-spears-toxic.json) |
+| Beat Saber: Britney Spears Music Pack | 357250 | [357250-beat-saber-britney-spears-music-pack.json](./357250-beat-saber-britney-spears-music-pack.json) |
+| Beat Saber: Daft Punk Music Pack | 357254 | [357254-beat-saber-daft-punk-music-pack.json](./357254-beat-saber-daft-punk-music-pack.json) |
+| Beat Saber: Darude - "Sandstorm" | 357240 | [357240-beat-saber-darude-sandstorm.json](./357240-beat-saber-darude-sandstorm.json) |
+| Beat Saber: deadmau5 - "Ghosts 'n' Stuff (feat. Rob Swire)" | 357238 | [357238-beat-saber-deadmau5-ghosts-n-stuff-feat-rob-swire.json](./357238-beat-saber-deadmau5-ghosts-n-stuff-feat-rob-swire.json) |
+| Beat Saber: Foo Fighters - "The Pretender" | 357231 | [357231-beat-saber-foo-fighters-the-pretender.json](./357231-beat-saber-foo-fighters-the-pretender.json) |
+| Beat Saber: Green Day - "Holiday" | 357247 | [357247-beat-saber-green-day-holiday.json](./357247-beat-saber-green-day-holiday.json) |
+| Beat Saber: Hip Hop Mixtape | 357263 | [357263-beat-saber-hip-hop-mixtape.json](./357263-beat-saber-hip-hop-mixtape.json) |
+| Beat Saber: KISS - "I Was Made For Lovin' You" | 357229 | [357229-beat-saber-kiss-i-was-made-for-lovin-you.json](./357229-beat-saber-kiss-i-was-made-for-lovin-you.json) |
+| Beat Saber: Lady Gaga - "Alejandro" | 357242 | [357242-beat-saber-lady-gaga-alejandro.json](./357242-beat-saber-lady-gaga-alejandro.json) |
+| Beat Saber: Lady Gaga - "Poker Face" | 357241 | [357241-beat-saber-lady-gaga-poker-face.json](./357241-beat-saber-lady-gaga-poker-face.json) |
+| Beat Saber: Queen - "Another One Bites the Dust" | 357227 | [357227-beat-saber-queen-another-one-bites-the-dust.json](./357227-beat-saber-queen-another-one-bites-the-dust.json) |
+| Beat Saber: Queen - "Bohemian Rhapsody" | 357228 | [357228-beat-saber-queen-bohemian-rhapsody.json](./357228-beat-saber-queen-bohemian-rhapsody.json) |
+| Beat Saber: Queen - "We Will Rock You" | 357225 | [357225-beat-saber-queen-we-will-rock-you.json](./357225-beat-saber-queen-we-will-rock-you.json) |
 | Beat Saber: Queen Music Pack | 250646 | [250646-beat-saber-queen-music-pack.json](./250646-beat-saber-queen-music-pack.json) |
+| Beat Saber: Skrillex – "Bangarang (feat. Sirah)" | 357245 | [357245-beat-saber-skrillex-bangarang-feat-sirah.json](./357245-beat-saber-skrillex-bangarang-feat-sirah.json) |
+| Beat Saber: Skrillex – "Scary Monsters and Nice Sprites" | 357244 | [357244-beat-saber-skrillex-scary-monsters-and-nice-sprites.json](./357244-beat-saber-skrillex-scary-monsters-and-nice-sprites.json) |
+| Beat Saber: Skrillex & Wolfgang Gartner – "The Devil’s Den" | 357243 | [357243-beat-saber-skrillex-and-wolfgang-gartner-the-devil-s-den.json](./357243-beat-saber-skrillex-and-wolfgang-gartner-the-devil-s-den.json) |
+| Beat Saber: Steppenwolf - "Born To Be Wild" | 357232 | [357232-beat-saber-steppenwolf-born-to-be-wild.json](./357232-beat-saber-steppenwolf-born-to-be-wild.json) |
+| Beat Saber: Survivor - "Eye of the Tiger" | 357233 | [357233-beat-saber-survivor-eye-of-the-tiger.json](./357233-beat-saber-survivor-eye-of-the-tiger.json) |
+| Beat Saber: The Weeknd - "Blinding Lights" | 357236 | [357236-beat-saber-the-weeknd-blinding-lights.json](./357236-beat-saber-the-weeknd-blinding-lights.json) |
+| Beat Saber: The Weeknd - "Can't Feel My Face" | 357237 | [357237-beat-saber-the-weeknd-cant-feel-my-face.json](./357237-beat-saber-the-weeknd-cant-feel-my-face.json) |
 | Beat Shapes | 385585 | [385585-beat-shapes.json](./385585-beat-shapes.json) |
 | Beat Slicer | 410273 | [410273-beat-slicer.json](./410273-beat-slicer.json) |
 | Beat Slug Hyperway | 208030 | [208030-beat-slug-hyperway.json](./208030-beat-slug-hyperway.json) |
@@ -1605,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Fever: Grand Edition | 396914 | [396914-bowling-fever-grand-edition.json](./396914-bowling-fever-grand-edition.json) |
 | Bowling Party | 58257 | [58257-bowling-party.json](./58257-bowling-party.json) |
 | Bowls | 14337 | [14337-bowls.json](./14337-bowls.json) |
+| Bowman | 357273 | [357273-bowman.json](./357273-bowman.json) |
 | Bowmasters | 71911 | [71911-bowmasters.json](./71911-bowmasters.json) |
 | Bows Space | 359396 | [359396-bows-space.json](./359396-bows-space.json) |
 | Bowser's Lair Hockey | 231642 | [231642-bowsers-lair-hockey.json](./231642-bowsers-lair-hockey.json) |
