@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Hour Hero | 277007 | [277007-happy-hour-hero.json](./277007-happy-hour-hero.json) |
 | Happy Mask | 263209 | [263209-happy-mask.json](./263209-happy-mask.json) |
 | Happy Maze | 30944 | [30944-happy-maze.json](./30944-happy-maze.json) |
+| Happy Rabbit Farm | 338741 | [338741-happy-rabbit-farm.json](./338741-happy-rabbit-farm.json) |
 | Happy Room: Robo | 194035 | [194035-happy-room-robo.json](./194035-happy-room-robo.json) |
 | Happy Salvage | 143128 | [143128-happy-salvage.json](./143128-happy-salvage.json) |
 | Happy Seasons | 98443 | [98443-happy-seasons.json](./98443-happy-seasons.json) |
@@ -377,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heal Plz | 121741 | [121741-heal-plz.json](./121741-heal-plz.json) |
 | Heal: Pocket Edition | 208010 | [208010-heal-pocket-edition.json](./208010-heal-pocket-edition.json) |
 | Healthy Weapon | 112332 | [112332-healthy-weapon.json](./112332-healthy-weapon.json) |
+| Hear Tell of Hauntings | 338726 | [338726-hear-tell-of-hauntings.json](./338726-hear-tell-of-hauntings.json) |
 | Hearse Hero | 406119 | [406119-hearse-hero.json](./406119-hearse-hero.json) |
 | Heart & Soul | 173319 | [173319-heart-and-soul.json](./173319-heart-and-soul.json) |
 | Heart Attack | 252376 | [252376-heart-attack.json](./252376-heart-attack.json) |
@@ -520,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellgate VR | 158718 | [158718-hellgate-vr.json](./158718-hellgate-vr.json) |
 | Hellino | 134003 | [134003-hellino.json](./134003-hellino.json) |
 | Hellish Quart | 139472 | [139472-hellish-quart.json](./139472-hellish-quart.json) |
+| Hellmate | 338725 | [338725-hellmate.json](./338725-hellmate.json) |
 | Hello Brain | 96717 | [96717-hello-brain.json](./96717-hello-brain.json) |
 | Hello Charlotte: Heaven's Gate | 144382 | [144382-hello-charlotte-heavens-gate.json](./144382-hello-charlotte-heavens-gate.json) |
 | Hello Counsel | 318223 | [318223-hello-counsel.json](./318223-hello-counsel.json) |
