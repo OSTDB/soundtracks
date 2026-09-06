@@ -818,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nohzdyve | 123624 | [123624-nohzdyve.json](./123624-nohzdyve.json) |
 | Noir Crime Bundle: Mafia, Mystery & Investigation | 402297 | [402297-noir-crime-bundle-mafia-mystery-and-investigation.json](./402297-noir-crime-bundle-mafia-mystery-and-investigation.json) |
 | Noir Storm | 216984 | [216984-noir-storm.json](./216984-noir-storm.json) |
+| Noir Total: Deadly Party | 343270 | [343270-noir-total-deadly-party.json](./343270-noir-total-deadly-party.json) |
 | Noise City Osaka | 140020 | [140020-noise-city-osaka.json](./140020-noise-city-osaka.json) |
 | Noisz: DM Ashura Level Pack | 317032 | [317032-noisz-dm-ashura-level-pack.json](./317032-noisz-dm-ashura-level-pack.json) |
 | Noisz: Hyun Level Pack | 317031 | [317031-noisz-hyun-level-pack.json](./317031-noisz-hyun-level-pack.json) |
