@@ -1313,6 +1313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin Slayers: Enhanced Edition | 148002 | [148002-sin-slayers-enhanced-edition.json](./148002-sin-slayers-enhanced-edition.json) |
 | Sin Slayers: Reign of The 8th | 291758 | [291758-sin-slayers-reign-of-the-8th.json](./291758-sin-slayers-reign-of-the-8th.json) |
 | SiN: Wages of Sin | 8717 | [8717-sin-wages-of-sin.json](./8717-sin-wages-of-sin.json) |
+| Sin.exe | 345483 | [345483-sin-exe.json](./345483-sin-exe.json) |
 | Sinbad & the Golden Ship | 71509 | [71509-sinbad-and-the-golden-ship.json](./71509-sinbad-and-the-golden-ship.json) |
 | Since 1935 | 367962 | [367962-since-1935.json](./367962-since-1935.json) |
 | Sincere Deceit | 328230 | [328230-sincere-deceit.json](./328230-sincere-deceit.json) |
@@ -1542,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice It! | 147957 | [147957-slice-it.json](./147957-slice-it.json) |
 | Slice N' Hook | 67335 | [67335-slice-n-hook.json](./67335-slice-n-hook.json) |
 | Slice To Meet You | 409583 | [409583-slice-to-meet-you.json](./409583-slice-to-meet-you.json) |
+| Slice&Dice | 345526 | [345526-slice-and-dice.json](./345526-slice-and-dice.json) |
 | Slick Tricks: Potion Persuasion! | 386101 | [386101-slick-tricks-potion-persuasion.json](./386101-slick-tricks-potion-persuasion.json) |
 | Slicy Flips | 322977 | [322977-slicy-flips.json](./322977-slicy-flips.json) |
 | Slide Hexagon | 358312 | [358312-slide-hexagon.json](./358312-slide-hexagon.json) |
@@ -2292,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mages: Dimension 33 | 153417 | [153417-space-mages-dimension-33.json](./153417-space-mages-dimension-33.json) |
 | Space Marauder | 49968 | [49968-space-marauder.json](./49968-space-marauder.json) |
 | Space Marshals 3 | 205223 | [205223-space-marshals-3.json](./205223-space-marshals-3.json) |
+| Space Maze | 345522 | [345522-space-maze.json](./345522-space-maze.json) |
 | Space Mechanic Simulator | 90650 | [90650-space-mechanic-simulator.json](./90650-space-mechanic-simulator.json) |
 | Space Memory TDG | 412970 | [412970-space-memory-tdg.json](./412970-space-memory-tdg.json) |
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
@@ -3726,6 +3729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Maker for Nspire | 262660 | [262660-super-mario-maker-for-nspire.json](./262660-super-mario-maker-for-nspire.json) |
 | Super Mario Odyssey Safari | 250042 | [250042-super-mario-odyssey-safari.json](./250042-super-mario-odyssey-safari.json) |
 | Super Mario Odyssey: Bon-Bones Mountain | 246625 | [246625-super-mario-odyssey-bon-bones-mountain.json](./246625-super-mario-odyssey-bon-bones-mountain.json) |
+| Super Mario Odyssey: Fluffy Bluff Kingdom | 345487 | [345487-super-mario-odyssey-fluffy-bluff-kingdom.json](./345487-super-mario-odyssey-fluffy-bluff-kingdom.json) |
 | Super Mario Outbreak | 198557 | [198557-super-mario-outbreak.json](./198557-super-mario-outbreak.json) |
 | Super Mario RPG: Legend of the Seven Stars | 5418 | [5418-super-mario-rpg-legend-of-the-seven-stars.json](./5418-super-mario-rpg-legend-of-the-seven-stars.json) |
 | Super Mario Spikers | 175958 | [175958-super-mario-spikers.json](./175958-super-mario-spikers.json) |
@@ -3974,6 +3978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surv | 51986 | [51986-surv.json](./51986-surv.json) |
 | Survarium: Vepr 'Molot' | 171054 | [171054-survarium-vepr-molot.json](./171054-survarium-vepr-molot.json) |
 | Surveillance | 267684 | [267684-surveillance.json](./267684-surveillance.json) |
+| Survirus | 345527 | [345527-survirus.json](./345527-survirus.json) |
 | Survival Camp | 127662 | [127662-survival-camp.json](./127662-survival-camp.json) |
 | Survival Crisis | 237673 | [237673-survival-crisis.json](./237673-survival-crisis.json) |
 | Survival Denied | 132228 | [132228-survival-denied.json](./132228-survival-denied.json) |
