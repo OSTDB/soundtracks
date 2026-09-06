@@ -1337,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poo Pusher | 309690 | [309690-poo-pusher.json](./309690-poo-pusher.json) |
 | Poodle Kick | 391608 | [391608-poodle-kick.json](./391608-poodle-kick.json) |
 | Poogers | 223131 | [223131-poogers.json](./223131-poogers.json) |
+| Pool | 352172 | [352172-pool.json](./352172-pool.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Definitive Edition | 400201 | [400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json](./400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json) |
 | Pool Adventure | 191221 | [191221-pool-adventure.json](./191221-pool-adventure.json) |
 | Pool Fever: Superior Edition | 396925 | [396925-pool-fever-superior-edition.json](./396925-pool-fever-superior-edition.json) |
