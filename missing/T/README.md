@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telethugs | 188079 | [188079-telethugs.json](./188079-telethugs.json) |
 | Teletubbies: Jigsaw | 325257 | [325257-teletubbies-jigsaw.json](./325257-teletubbies-jigsaw.json) |
 | Teletubbies: Look! - Hide and Seek | 325259 | [325259-teletubbies-look-hide-and-seek.json](./325259-teletubbies-look-hide-and-seek.json) |
+| Teletubbies: My First App | 342650 | [342650-teletubbies-my-first-app.json](./342650-teletubbies-my-first-app.json) |
 | Teletubbies: Oooh! - Tinky Winky's Bag of Fun | 325258 | [325258-teletubbies-oooh-tinky-winkys-bag-of-fun.json](./325258-teletubbies-oooh-tinky-winkys-bag-of-fun.json) |
 | Teletubes: Electronic Pet | 314644 | [314644-teletubes-electronic-pet.json](./314644-teletubes-electronic-pet.json) |
 | Tell Me Your Story: Complete + | 328825 | [328825-tell-me-your-story-complete.json](./328825-tell-me-your-story-complete.json) |
@@ -798,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blockheads Server | 87690 | [87690-the-blockheads-server.json](./87690-the-blockheads-server.json) |
 | The Blocks Cometh | 66103 | [66103-the-blocks-cometh.json](./66103-the-blocks-cometh.json) |
 | The Blood's Way | 364501 | [364501-the-bloods-way.json](./364501-the-bloods-way.json) |
+| The Bloody Cross | 342648 | [342648-the-bloody-cross.json](./342648-the-bloody-cross.json) |
 | The Blue Bedroom | 180847 | [180847-the-blue-bedroom.json](./180847-the-blue-bedroom.json) |
 | The Blue Katana | 185122 | [185122-the-blue-katana.json](./185122-the-blue-katana.json) |
 | The Blue Marlin | 48104 | [48104-the-blue-marlin.json](./48104-the-blue-marlin.json) |
@@ -1005,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deep: Ushinawareta Shinkai | 410223 | [410223-the-deep-ushinawareta-shinkai.json](./410223-the-deep-ushinawareta-shinkai.json) |
 | The Deepest Castle | 400872 | [400872-the-deepest-castle.json](./400872-the-deepest-castle.json) |
 | The Demon Lord’s Daughter and the Tower of Seals | 329366 | [329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json](./329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json) |
+| The Demons Told Me to Make This Game | 342666 | [342666-the-demons-told-me-to-make-this-game.json](./342666-the-demons-told-me-to-make-this-game.json) |
 | The Den of Worms | 159851 | [159851-the-den-of-worms.json](./159851-the-den-of-worms.json) |
 | The Derailed | 333377 | [333377-the-derailed.json](./333377-the-derailed.json) |
 | The Derailed: Devour the Harvest | 413675 | [413675-the-derailed-devour-the-harvest.json](./413675-the-derailed-devour-the-harvest.json) |
@@ -1386,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Joy of Kaizo with Bob Ross | 268195 | [268195-the-joy-of-kaizo-with-bob-ross.json](./268195-the-joy-of-kaizo-with-bob-ross.json) |
 | The Joy of Putting | 386699 | [386699-the-joy-of-putting.json](./386699-the-joy-of-putting.json) |
 | The Judgement of Q | 173272 | [173272-the-judgement-of-q.json](./173272-the-judgement-of-q.json) |
+| The Judgment Collection | 342629 | [342629-the-judgment-collection.json](./342629-the-judgment-collection.json) |
 | The Jumping Bagel | 223150 | [223150-the-jumping-bagel.json](./223150-the-jumping-bagel.json) |
 | The Jumping Bagel: Turbo | 223152 | [223152-the-jumping-bagel-turbo.json](./223152-the-jumping-bagel-turbo.json) |
 | The Jumping Bonbon Match 3 | 359979 | [359979-the-jumping-bonbon-match-3.json](./359979-the-jumping-bonbon-match-3.json) |
@@ -2502,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThunderCats | 8060 | [8060-thundercats.json](./8060-thundercats.json) |
 | Thunderchopper | 37161 | [37161-thunderchopper.json](./37161-thunderchopper.json) |
 | Thundercross | 55201 | [55201-thundercross.json](./55201-thundercross.json) |
+| Thunderdawn | 342615 | [342615-thunderdawn.json](./342615-thunderdawn.json) |
 | Thunderhawk: Danger Close | 387365 | [387365-thunderhawk-danger-close.json](./387365-thunderhawk-danger-close.json) |
 | Thunderstrike 2 | 24991 | [24991-thunderstrike-2.json](./24991-thunderstrike-2.json) |
 | Thunderwing | 74427 | [74427-thunderwing.json](./74427-thunderwing.json) |
@@ -3801,6 +3806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TurnBreak | 343278 | [343278-turnbreak.json](./343278-turnbreak.json) |
 | Turned Into Turrets | 377082 | [377082-turned-into-turrets.json](./377082-turned-into-turrets.json) |
 | Turnip Boy Robs a Bank | 217645 | [217645-turnip-boy-robs-a-bank.json](./217645-turnip-boy-robs-a-bank.json) |
+| Turnip Boy Steals the Mail | 342657 | [342657-turnip-boy-steals-the-mail.json](./342657-turnip-boy-steals-the-mail.json) |
 | Turochamp | 232670 | [232670-turochamp.json](./232670-turochamp.json) |
 | Turok 3: Shadow of Oblivion | 1328 | [1328-turok-3-shadow-of-oblivion.json](./1328-turok-3-shadow-of-oblivion.json) |
 | Turtle Bay | 79302 | [79302-turtle-bay.json](./79302-turtle-bay.json) |
