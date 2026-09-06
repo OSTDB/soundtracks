@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Within the Range | 391045 | [391045-within-the-range.json](./391045-within-the-range.json) |
 | Within Whispers: The Fall | 61652 | [61652-within-whispers-the-fall.json](./61652-within-whispers-the-fall.json) |
 | Without Escape | 270394 | [270394-without-escape.json](./270394-without-escape.json) |
+| Without Wings | 340932 | [340932-without-wings.json](./340932-without-wings.json) |
 | Without Within | 35853 | [35853-without-within.json](./35853-without-within.json) |
 | Wits of Gods | 208062 | [208062-wits-of-gods.json](./208062-wits-of-gods.json) |
 | Wiz | 162406 | [162406-wiz.json](./162406-wiz.json) |
