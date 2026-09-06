@@ -301,6 +301,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: The Ultimate 11 - SNK Football Championship | 115665 | [115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json](./115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json) |
 | ACA Neo Geo: World Heroes 2 Jet | 76576 | [76576-aca-neo-geo-world-heroes-2-jet.json](./76576-aca-neo-geo-world-heroes-2-jet.json) |
 | ACA NeoGeo Selection Vol. 10 | 376475 | [376475-aca-neogeo-selection-vol-10.json](./376475-aca-neogeo-selection-vol-10.json) |
+| ACA NeoGeo Selection Vol. 3 | 342070 | [342070-aca-neogeo-selection-vol-3.json](./342070-aca-neogeo-selection-vol-3.json) |
+| ACA NeoGeo Selection Vol. 4 | 342071 | [342071-aca-neogeo-selection-vol-4.json](./342071-aca-neogeo-selection-vol-4.json) |
 | ACA NeoGeo Selection Vol. 9 | 376474 | [376474-aca-neogeo-selection-vol-9.json](./376474-aca-neogeo-selection-vol-9.json) |
 | Acassia | 209660 | [209660-acassia.json](./209660-acassia.json) |
 | Acatalepsy | 150169 | [150169-acatalepsy.json](./150169-acatalepsy.json) |
@@ -643,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agharta: The Hollow Earth | 73280 | [73280-agharta-the-hollow-earth.json](./73280-agharta-the-hollow-earth.json) |
 | Agi Gongnyong Dooly | 86107 | [86107-agi-gongnyong-dooly.json](./86107-agi-gongnyong-dooly.json) |
 | Agile Warrior F-111X | 43936 | [43936-agile-warrior-f-111x.json](./43936-agile-warrior-f-111x.json) |
+| Aglobo | 342036 | [342036-aglobo.json](./342036-aglobo.json) |
 | Agnostiko | 224212 | [224212-agnostiko.json](./224212-agnostiko.json) |
 | Agony | 11890 | [11890-agony.json](./11890-agony.json) |
 | Agony VR | 197402 | [197402-agony-vr.json](./197402-agony-vr.json) |
@@ -1062,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing World | 17235 | [17235-amazing-world.json](./17235-amazing-world.json) |
 | Amazing: A House In Kansas VR | 119767 | [119767-amazing-a-house-in-kansas-vr.json](./119767-amazing-a-house-in-kansas-vr.json) |
 | Amazon Rush | 89271 | [89271-amazon-rush.json](./89271-amazon-rush.json) |
+| Amazon Warrior | 342053 | [342053-amazon-warrior.json](./342053-amazon-warrior.json) |
 | Ambar's Fate | 173807 | [173807-ambars-fate.json](./173807-ambars-fate.json) |
 | Amber Quartz | 69291 | [69291-amber-quartz.json](./69291-amber-quartz.json) |
 | Amber's Airline: 7 Wonders | 116726 | [116726-ambers-airline-7-wonders.json](./116726-ambers-airline-7-wonders.json) |
@@ -1945,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astérix & Obélix XXL 2: Mission: Las Vegum | 81480 | [81480-asterix-and-obelix-xxl-2-mission-las-vegum.json](./81480-asterix-and-obelix-xxl-2-mission-las-vegum.json) |
 | Asterix & Obelix XXL 3: The Crystal Menhir - Collector's Edition | 166231 | [166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json](./166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json) |
 | Asterix & Obelix: Cesar's Challenge | 262663 | [262663-asterix-and-obelix-cesars-challenge.json](./262663-asterix-and-obelix-cesars-challenge.json) |
+| Astérix et la Potion Magique | 342056 | [342056-asterix-et-la-potion-magique.json](./342056-asterix-et-la-potion-magique.json) |
 | Astero Inc. | 176506 | [176506-astero-inc.json](./176506-astero-inc.json) |
 | Asteroad | 149089 | [149089-asteroad.json](./149089-asteroad.json) |
 | Asteroid Blockade | 359444 | [359444-asteroid-blockade.json](./359444-asteroid-blockade.json) |
@@ -2005,6 +2010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronomica: The Quest for the Edge of the Universe | 71538 | [71538-astronomica-the-quest-for-the-edge-of-the-universe.json](./71538-astronomica-the-quest-for-the-edge-of-the-universe.json) |
 | Astronomics Rise of a New Empire | 244513 | [244513-astronomics-rise-of-a-new-empire.json](./244513-astronomics-rise-of-a-new-empire.json) |
 | Astrotit | 93074 | [93074-astrotit.json](./93074-astrotit.json) |
+| Astround | 342049 | [342049-astround.json](./342049-astround.json) |
 | Astrox Imperium | 115500 | [115500-astrox-imperium.json](./115500-astrox-imperium.json) |
 | Asu Kano! Asu mo Kanojo to Issho! | 209141 | [209141-asu-kano-asu-mo-kanojo-to-issho.json](./209141-asu-kano-asu-mo-kanojo-to-issho.json) |
 | Asu Owaru Sekai, Sono Zenya | 255325 | [255325-asu-owaru-sekai-sono-zenya.json](./255325-asu-owaru-sekai-sono-zenya.json) |
