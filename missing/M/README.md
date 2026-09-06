@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | M Hard | 257654 | [257654-m-hard.json](./257654-m-hard.json) |
 | M Hold'em | 247198 | [247198-m-holdem.json](./247198-m-holdem.json) |
+| M. Stain | 356108 | [356108-m-stain.json](./356108-m-stain.json) |
 | M.A.C.S. | 90645 | [90645-m-a-c-s.json](./90645-m-a-c-s.json) |
 | M.o.o.n. | 243951 | [243951-m-o-o-n.json](./243951-m-o-o-n.json) |
 | M.O.Z.O.X.: Space Salvager | 209157 | [209157-m-o-z-o-x-space-salvager.json](./209157-m-o-z-o-x-space-salvager.json) |
@@ -2403,6 +2404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Ark: Maboroshi Gekijo | 67326 | [67326-mystic-ark-maboroshi-gekijo.json](./67326-mystic-ark-maboroshi-gekijo.json) |
 | Mystic Chronicles | 10945 | [10945-mystic-chronicles.json](./10945-mystic-chronicles.json) |
 | Mystic Diary: Lost Brother | 32216 | [32216-mystic-diary-lost-brother.json](./32216-mystic-diary-lost-brother.json) |
+| Mystic Fishing: A Fantasy Fishing RPG | 356077 | [356077-mystic-fishing-a-fantasy-fishing-rpg.json](./356077-mystic-fishing-a-fantasy-fishing-rpg.json) |
 | Mystic Forest | 226424 | [226424-mystic-forest.json](./226424-mystic-forest.json) |
 | Mystic Inn | 84272 | [84272-mystic-inn.json](./84272-mystic-inn.json) |
 | Mystic Land: The search for Maphaldo | 270967 | [270967-mystic-land-the-search-for-maphaldo.json](./270967-mystic-land-the-search-for-maphaldo.json) |
