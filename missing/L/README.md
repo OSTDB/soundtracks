@@ -665,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linecook | 179198 | [179198-linecook.json](./179198-linecook.json) |
 | Lineoff | 181913 | [181913-lineoff.json](./181913-lineoff.json) |
 | Lines Frenzy | 221994 | [221994-lines-frenzy.json](./221994-lines-frenzy.json) |
+| Linesgo | 326092 | [326092-linesgo.json](./326092-linesgo.json) |
 | LineWay | 307291 | [307291-lineway.json](./307291-lineway.json) |
 | Linework | 385590 | [385590-linework.json](./385590-linework.json) |
 | Ling and the Corrupted Hollow | 391073 | [391073-ling-and-the-corrupted-hollow.json](./391073-ling-and-the-corrupted-hollow.json) |
@@ -869,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Log Jammers | 83583 | [83583-log-jammers.json](./83583-log-jammers.json) |
 | Logi Box | 339630 | [339630-logi-box.json](./339630-logi-box.json) |
 | Logic Circuit: Marble Puzzle | 210854 | [210854-logic-circuit-marble-puzzle.json](./210854-logic-circuit-marble-puzzle.json) |
+| Logic Mahjong Souryuu | 326087 | [326087-logic-mahjong-souryuu.json](./326087-logic-mahjong-souryuu.json) |
 | Logic Puzzle Collection: Sudoku, Permudoku, Nonodoku | 147949 | [147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json](./147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json) |
 | Logic: Keypad | 235993 | [235993-logic-keypad.json](./235993-logic-keypad.json) |
 | Logica Emotica | 203540 | [203540-logica-emotica.json](./203540-logica-emotica.json) |
