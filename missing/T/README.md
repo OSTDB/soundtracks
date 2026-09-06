@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Borderless | 406117 | [406117-the-borderless.json](./406117-the-borderless.json) |
 | The Bou: Special Edition | 278745 | [278745-the-bou-special-edition.json](./278745-the-bou-special-edition.json) |
 | The Bouncing Ball | 195207 | [195207-the-bouncing-ball.json](./195207-the-bouncing-ball.json) |
+| The Bound of Time | 316084 | [316084-the-bound-of-time.json](./316084-the-bound-of-time.json) |
 | The Bounty | 86113 | [86113-the-bounty.json](./86113-the-bounty.json) |
 | The Box Game | 203550 | [203550-the-box-game.json](./203550-the-box-game.json) |
 | The Boy With Bombs | 61122 | [61122-the-boy-with-bombs.json](./61122-the-boy-with-bombs.json) |
