@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi in Sonic the Hedgehog | 198518 | [198518-luigi-in-sonic-the-hedgehog.json](./198518-luigi-in-sonic-the-hedgehog.json) |
 | Luigi: Insanity | 335659 | [335659-luigi-insanity.json](./335659-luigi-insanity.json) |
 | Luigi's Final Ghost Hunt | 259267 | [259267-luigis-final-ghost-hunt.json](./259267-luigis-final-ghost-hunt.json) |
+| Luigi's Mansion | 339799 | [339799-luigis-mansion.json](./339799-luigis-mansion.json) |
 | Luigi's Mansion 3: Multiplayer Pack - Part 2 | 127550 | [127550-luigis-mansion-3-multiplayer-pack-part-2.json](./127550-luigis-mansion-3-multiplayer-pack-part-2.json) |
 | Luigi's Mansion: Premium Deluxe | 259268 | [259268-luigis-mansion-premium-deluxe.json](./259268-luigis-mansion-premium-deluxe.json) |
 | Luigi's Other Mansion | 259838 | [259838-luigis-other-mansion.json](./259838-luigis-other-mansion.json) |
