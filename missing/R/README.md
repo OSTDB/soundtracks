@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Trip | 182553 | [182553-road-trip.json](./182553-road-trip.json) |
 | Road Trip | 202425 | [202425-road-trip.json](./202425-road-trip.json) |
 | Road Trip Europe | 229944 | [229944-road-trip-europe.json](./229944-road-trip-europe.json) |
+| Road Trip to the End of the World | 350446 | [350446-road-trip-to-the-end-of-the-world.json](./350446-road-trip-to-the-end-of-the-world.json) |
 | Road Trip: Arcade Edition | 78292 | [78292-road-trip-arcade-edition.json](./78292-road-trip-arcade-edition.json) |
 | Road Warrior | 364536 | [364536-road-warrior.json](./364536-road-warrior.json) |
 | Road Wars | 265943 | [265943-road-wars.json](./265943-road-wars.json) |
@@ -1134,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Season 11 | 252378 | [252378-rocket-league-season-11.json](./252378-rocket-league-season-11.json) |
 | Rocket League: Season 18 Rocketeer Pack | 366846 | [366846-rocket-league-season-18-rocketeer-pack.json](./366846-rocket-league-season-18-rocketeer-pack.json) |
 | Rocket League: Season 18 Veteran Pack | 366845 | [366845-rocket-league-season-18-veteran-pack.json](./366845-rocket-league-season-18-veteran-pack.json) |
+| Rocket League: Season 19 | 350417 | [350417-rocket-league-season-19.json](./350417-rocket-league-season-19.json) |
 | Rocket League: Season 19 Elite Pack | 366843 | [366843-rocket-league-season-19-elite-pack.json](./366843-rocket-league-season-19-elite-pack.json) |
 | Rocket League: Season 19 Rookie Pack | 366844 | [366844-rocket-league-season-19-rookie-pack.json](./366844-rocket-league-season-19-rookie-pack.json) |
 | Rocket League: TriTrim Wheels | 366848 | [366848-rocket-league-tritrim-wheels.json](./366848-rocket-league-tritrim-wheels.json) |
@@ -1389,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoundRick: Brick Breaker | 251201 | [251201-roundrick-brick-breaker.json](./251201-roundrick-brick-breaker.json) |
 | RoundRunners Playground | 253608 | [253608-roundrunners-playground.json](./253608-roundrunners-playground.json) |
 | Roundscape Adorevia | 82881 | [82881-roundscape-adorevia.json](./82881-roundscape-adorevia.json) |
+| RoundUrbs | 350413 | [350413-roundurbs.json](./350413-roundurbs.json) |
 | RoundZ | 371910 | [371910-roundz.json](./371910-roundz.json) |
 | Route Me Mail and Delivery Co | 147477 | [147477-route-me-mail-and-delivery-co.json](./147477-route-me-mail-and-delivery-co.json) |
 | Rova | 297209 | [297209-rova.json](./297209-rova.json) |
@@ -1484,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Heroes | 242203 | [242203-rumble-heroes.json](./242203-rumble-heroes.json) |
 | Rumble League | 126042 | [126042-rumble-league.json](./126042-rumble-league.json) |
 | Rumia in the darkness | 121013 | [121013-rumia-in-the-darkness.json](./121013-rumia-in-the-darkness.json) |
+| Rumor Raiders | 350406 | [350406-rumor-raiders.json](./350406-rumor-raiders.json) |
 | Rumor Reporter | 391072 | [391072-rumor-reporter.json](./391072-rumor-reporter.json) |
 | Rump! | 35772 | [35772-rump.json](./35772-rump.json) |
 | Rumpus | 30940 | [30940-rumpus.json](./30940-rumpus.json) |
