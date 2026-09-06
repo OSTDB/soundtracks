@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T21:48:13.572Z",
-  "total_missing": 39029,
+  "generated_at": "2026-09-06T22:03:22.178Z",
+  "total_missing": 39079,
   "games": [
     {
       "igdb_id": 306086,
@@ -10611,6 +10611,11 @@
       "igdb_id": 121716,
       "game_name": "Arcade Archives: Vigilante",
       "file": "missing/A/121716-arcade-archives-vigilante.json"
+    },
+    {
+      "igdb_id": 317219,
+      "game_name": "Arcade Archives: vs. Battle City",
+      "file": "missing/A/317219-arcade-archives-vs-battle-city.json"
     },
     {
       "igdb_id": 335093,
@@ -22243,6 +22248,11 @@
       "file": "missing/B/365058-bodycam-onrecord.json"
     },
     {
+      "igdb_id": 317218,
+      "game_name": "Bodycam Police Simulator",
+      "file": "missing/B/317218-bodycam-police-simulator.json"
+    },
+    {
       "igdb_id": 377079,
       "game_name": "Bodycam Recorded",
       "file": "missing/B/377079-bodycam-recorded.json"
@@ -25151,6 +25161,11 @@
       "igdb_id": 12728,
       "game_name": "Buggy Boy",
       "file": "missing/B/12728-buggy-boy.json"
+    },
+    {
+      "igdb_id": 317262,
+      "game_name": "Buggy Off-Road Racing: Platinum Edition",
+      "file": "missing/B/317262-buggy-off-road-racing-platinum-edition.json"
     },
     {
       "igdb_id": 400196,
@@ -31678,6 +31693,11 @@
       "file": "missing/C/251804-classic-pool-and-cyber-pool-bundle.json"
     },
     {
+      "igdb_id": 317238,
+      "game_name": "Classic Racing Pack: Moto Roader MC + Rider's Spirits",
+      "file": "missing/C/317238-classic-racing-pack-moto-roader-mc-riders-spirits.json"
+    },
+    {
       "igdb_id": 130395,
       "game_name": "Classic Snake Adventures",
       "file": "missing/C/130395-classic-snake-adventures.json"
@@ -33053,6 +33073,11 @@
       "file": "missing/C/232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json"
     },
     {
+      "igdb_id": 317237,
+      "game_name": "Coloring Bundle",
+      "file": "missing/C/317237-coloring-bundle.json"
+    },
+    {
       "igdb_id": 255329,
       "game_name": "Coloring Game: Girls",
       "file": "missing/C/255329-coloring-game-girls.json"
@@ -33086,6 +33111,11 @@
       "igdb_id": 224199,
       "game_name": "Coloring Pixels: Collection 2",
       "file": "missing/C/224199-coloring-pixels-collection-2.json"
+    },
+    {
+      "igdb_id": 317232,
+      "game_name": "Coloring Pixels: Collection 4",
+      "file": "missing/C/317232-coloring-pixels-collection-4.json"
     },
     {
       "igdb_id": 351622,
@@ -33141,6 +33171,11 @@
       "igdb_id": 335115,
       "game_name": "Coloris",
       "file": "missing/C/335115-coloris.json"
+    },
+    {
+      "igdb_id": 317233,
+      "game_name": "Colorizing: Good Times",
+      "file": "missing/C/317233-colorizing-good-times.json"
     },
     {
       "igdb_id": 304866,
@@ -34031,6 +34066,11 @@
       "igdb_id": 24978,
       "game_name": "Contra Force",
       "file": "missing/C/24978-contra-force.json"
+    },
+    {
+      "igdb_id": 317236,
+      "game_name": "Contra Run & Gun Bundle",
+      "file": "missing/C/317236-contra-run-and-gun-bundle.json"
     },
     {
       "igdb_id": 403578,
@@ -38198,6 +38238,11 @@
       "file": "missing/C/150167-cynoroid-gaiden.json"
     },
     {
+      "igdb_id": 317261,
+      "game_name": "Cynthia: Hidden in the Moonshadow - Summer Edition",
+      "file": "missing/C/317261-cynthia-hidden-in-the-moonshadow-summer-edition.json"
+    },
+    {
       "igdb_id": 111734,
       "game_name": "Cypest Underground",
       "file": "missing/C/111734-cypest-underground.json"
@@ -39866,6 +39911,11 @@
       "igdb_id": 147966,
       "game_name": "Daylife in Japan: Pixel Art Jigsaw Puzzle",
       "file": "missing/D/147966-daylife-in-japan-pixel-art-jigsaw-puzzle.json"
+    },
+    {
+      "igdb_id": 317214,
+      "game_name": "Daylight Dread",
+      "file": "missing/D/317214-daylight-dread.json"
     },
     {
       "igdb_id": 257659,
@@ -42323,6 +42373,11 @@
       "file": "missing/D/298892-desires-of-a-vampire.json"
     },
     {
+      "igdb_id": 317224,
+      "game_name": "Desktop Dodgeball 2",
+      "file": "missing/D/317224-desktop-dodgeball-2.json"
+    },
+    {
       "igdb_id": 253589,
       "game_name": "Desktop Mark",
       "file": "missing/D/253589-desktop-mark.json"
@@ -43001,6 +43056,11 @@
       "igdb_id": 309075,
       "game_name": "Diamond Painting ASMR: Cool & Festive",
       "file": "missing/D/309075-diamond-painting-asmr-cool-and-festive.json"
+    },
+    {
+      "igdb_id": 317260,
+      "game_name": "Diamond Painting ASMR: Cute Edition",
+      "file": "missing/D/317260-diamond-painting-asmr-cute-edition.json"
     },
     {
       "igdb_id": 309076,
@@ -47628,6 +47688,11 @@
       "file": "missing/D/325288-dreaming-seal-simulator.json"
     },
     {
+      "igdb_id": 317223,
+      "game_name": "Dreamland Farm",
+      "file": "missing/D/317223-dreamland-farm.json"
+    },
+    {
       "igdb_id": 320135,
       "game_name": "Dreamless",
       "file": "missing/D/320135-dreamless.json"
@@ -49838,6 +49903,16 @@
       "file": "missing/E/315829-ecchi-memories.json"
     },
     {
+      "igdb_id": 317259,
+      "game_name": "Ecchi Memories: Complete Edition",
+      "file": "missing/E/317259-ecchi-memories-complete-edition.json"
+    },
+    {
+      "igdb_id": 317258,
+      "game_name": "Ecchi Secrets: Romantic Edition",
+      "file": "missing/E/317258-ecchi-secrets-romantic-edition.json"
+    },
+    {
       "igdb_id": 349303,
       "game_name": "Ecchi: Time to Oppai",
       "file": "missing/E/349303-ecchi-time-to-oppai.json"
@@ -49996,6 +50071,11 @@
       "igdb_id": 254789,
       "game_name": "EchtegP",
       "file": "missing/E/254789-echtegp.json"
+    },
+    {
+      "igdb_id": 317220,
+      "game_name": "Eclectic Custom Night",
+      "file": "missing/E/317220-eclectic-custom-night.json"
     },
     {
       "igdb_id": 178674,
@@ -50316,6 +50396,11 @@
       "igdb_id": 378795,
       "game_name": "Eggconsole Puyo Puyo MSX2",
       "file": "missing/E/378795-eggconsole-puyo-puyo-msx2.json"
+    },
+    {
+      "igdb_id": 317225,
+      "game_name": "Eggconsole Star Cruiser PC-8801mkIISR",
+      "file": "missing/E/317225-eggconsole-star-cruiser-pc-8801mkiisr.json"
     },
     {
       "igdb_id": 334093,
@@ -56123,6 +56208,11 @@
       "file": "missing/F/188115-fashion-dream.json"
     },
     {
+      "igdb_id": 317257,
+      "game_name": "Fashion Friends: Gold Edition",
+      "file": "missing/F/317257-fashion-friends-gold-edition.json"
+    },
+    {
       "igdb_id": 315866,
       "game_name": "Fashion Friends: Silver Edition",
       "file": "missing/F/315866-fashion-friends-silver-edition.json"
@@ -56141,6 +56231,11 @@
       "igdb_id": 315865,
       "game_name": "Fashion Girls: Silver Edition",
       "file": "missing/F/315865-fashion-girls-silver-edition.json"
+    },
+    {
+      "igdb_id": 317256,
+      "game_name": "Fashion Princess: Silver Edition",
+      "file": "missing/F/317256-fashion-princess-silver-edition.json"
     },
     {
       "igdb_id": 328819,
@@ -66323,6 +66418,11 @@
       "file": "missing/G/210886-go-home.json"
     },
     {
+      "igdb_id": 317255,
+      "game_name": "Go Kart Mania: Premium Edition",
+      "file": "missing/G/317255-go-kart-mania-premium-edition.json"
+    },
+    {
       "igdb_id": 136444,
       "game_name": "Go Long!",
       "file": "missing/G/136444-go-long.json"
@@ -72398,6 +72498,11 @@
       "file": "missing/H/100191-heavy-gear-iii.json"
     },
     {
+      "igdb_id": 317254,
+      "game_name": "Heavy Hand: Pixel Tree Forest Fury - Deluxe Edition",
+      "file": "missing/H/317254-heavy-hand-pixel-tree-forest-fury-deluxe-edition.json"
+    },
+    {
       "igdb_id": 219825,
       "game_name": "Heavy Hearts",
       "file": "missing/H/219825-heavy-hearts.json"
@@ -73016,6 +73121,11 @@
       "igdb_id": 259833,
       "game_name": "Hentai Abigail",
       "file": "missing/H/259833-hentai-abigail.json"
+    },
+    {
+      "igdb_id": 317253,
+      "game_name": "Hentai Academy: Extended Edition",
+      "file": "missing/H/317253-hentai-academy-extended-edition.json"
     },
     {
       "igdb_id": 315863,
@@ -79418,6 +79528,11 @@
       "file": "missing/I/57093-indiana-rodent.json"
     },
     {
+      "igdb_id": 317216,
+      "game_name": "Indie All Star Bundle",
+      "file": "missing/I/317216-indie-all-star-bundle.json"
+    },
+    {
       "igdb_id": 320759,
       "game_name": "Indie All Star Vol. 2",
       "file": "missing/I/320759-indie-all-star-vol-2.json"
@@ -82951,6 +83066,11 @@
       "igdb_id": 7863,
       "game_name": "Jigsaw",
       "file": "missing/J/7863-jigsaw.json"
+    },
+    {
+      "igdb_id": 317217,
+      "game_name": "Jigsaw Chronicles: Heroes of Legend",
+      "file": "missing/J/317217-jigsaw-chronicles-heroes-of-legend.json"
     },
     {
       "igdb_id": 188116,
@@ -87313,6 +87433,11 @@
       "file": "missing/K/59980-knights-and-dragons.json"
     },
     {
+      "igdb_id": 317252,
+      "game_name": "Knights & Guns: Advanced Edition",
+      "file": "missing/K/317252-knights-and-guns-advanced-edition.json"
+    },
+    {
       "igdb_id": 315860,
       "game_name": "Knights & Guns: Grand Edition",
       "file": "missing/K/315860-knights-and-guns-grand-edition.json"
@@ -87741,6 +87866,11 @@
       "igdb_id": 328502,
       "game_name": "Korean Drone Flying Tour Danyang-gun",
       "file": "missing/K/328502-korean-drone-flying-tour-danyang-gun.json"
+    },
+    {
+      "igdb_id": 317226,
+      "game_name": "Korean Drone Flying Tour Jeju Island-2",
+      "file": "missing/K/317226-korean-drone-flying-tour-jeju-island-2.json"
     },
     {
       "igdb_id": 378809,
@@ -93078,6 +93208,11 @@
       "file": "missing/L/254151-loopy-blocks.json"
     },
     {
+      "igdb_id": 317228,
+      "game_name": "Loopy Tennis",
+      "file": "missing/L/317228-loopy-tennis.json"
+    },
+    {
       "igdb_id": 151709,
       "game_name": "Loose Lips(Side:foggy)",
       "file": "missing/L/151709-loose-lips-side-foggy.json"
@@ -93681,6 +93816,11 @@
       "igdb_id": 315872,
       "game_name": "Love Elysium: Secret of the Goddess - Extended Edition",
       "file": "missing/L/315872-love-elysium-secret-of-the-goddess-extended-edition.json"
+    },
+    {
+      "igdb_id": 317251,
+      "game_name": "Love Elysium: Secret of the Goddess - Special Edition",
+      "file": "missing/L/317251-love-elysium-secret-of-the-goddess-special-edition.json"
     },
     {
       "igdb_id": 29956,
@@ -103518,6 +103658,11 @@
       "file": "missing/M/120374-moe-moe-world-war-ii-3.json"
     },
     {
+      "igdb_id": 317213,
+      "game_name": "Moe Waifu H: BlockBlast",
+      "file": "missing/M/317213-moe-waifu-h-blockblast.json"
+    },
+    {
       "igdb_id": 337988,
       "game_name": "Moe Waifu H: Push-Box",
       "file": "missing/M/337988-moe-waifu-h-push-box.json"
@@ -104741,6 +104886,11 @@
       "igdb_id": 203331,
       "game_name": "Monument Valley: Panoramic Edition",
       "file": "missing/M/203331-monument-valley-panoramic-edition.json"
+    },
+    {
+      "igdb_id": 317249,
+      "game_name": "Monument: Ultimate Edition",
+      "file": "missing/M/317249-monument-ultimate-edition.json"
     },
     {
       "igdb_id": 300404,
@@ -109248,6 +109398,11 @@
       "file": "missing/N/4029-nba-2k2.json"
     },
     {
+      "igdb_id": 317248,
+      "game_name": "NBA 2K25: All-Star Edition",
+      "file": "missing/N/317248-nba-2k25-all-star-edition.json"
+    },
+    {
       "igdb_id": 331859,
       "game_name": "NBA 2K25: Tournament Edition",
       "file": "missing/N/331859-nba-2k25-tournament-edition.json"
@@ -110961,6 +111116,11 @@
       "igdb_id": 315858,
       "game_name": "Ngolf: Legendary Edition",
       "file": "missing/N/315858-ngolf-legendary-edition.json"
+    },
+    {
+      "igdb_id": 317247,
+      "game_name": "Ngolf: Platinum Edition",
+      "file": "missing/N/317247-ngolf-platinum-edition.json"
     },
     {
       "igdb_id": 5964,
@@ -115178,6 +115338,11 @@
       "file": "missing/O/209642-on-sunday.json"
     },
     {
+      "igdb_id": 317212,
+      "game_name": "On Sunday 2",
+      "file": "missing/O/317212-on-sunday-2.json"
+    },
+    {
       "igdb_id": 69850,
       "game_name": "On Target",
       "file": "missing/O/69850-on-target.json"
@@ -115511,6 +115676,11 @@
       "igdb_id": 315857,
       "game_name": "One Night: Burlesque - Magnificent Edition",
       "file": "missing/O/315857-one-night-burlesque-magnificent-edition.json"
+    },
+    {
+      "igdb_id": 317246,
+      "game_name": "One Night: Burlesque - Superb Edition",
+      "file": "missing/O/317246-one-night-burlesque-superb-edition.json"
     },
     {
       "igdb_id": 306088,
@@ -120676,6 +120846,11 @@
       "igdb_id": 178682,
       "game_name": "Pet Dog",
       "file": "missing/P/178682-pet-dog.json"
+    },
+    {
+      "igdb_id": 317211,
+      "game_name": "Pet Kawaii Shop",
+      "file": "missing/P/317211-pet-kawaii-shop.json"
     },
     {
       "igdb_id": 55936,
@@ -126006,6 +126181,11 @@
       "igdb_id": 264363,
       "game_name": "Prince of Persia: The Forgotten Sands",
       "file": "missing/P/264363-prince-of-persia-the-forgotten-sands.json"
+    },
+    {
+      "igdb_id": 317240,
+      "game_name": "Prince of Persia: The Lost Crown - Complete Edition",
+      "file": "missing/P/317240-prince-of-persia-the-lost-crown-complete-edition.json"
     },
     {
       "igdb_id": 252992,
@@ -137998,6 +138178,11 @@
       "file": "missing/S/315856-s-n-i-p-e-r-hunter-scope-grand-edition.json"
     },
     {
+      "igdb_id": 317241,
+      "game_name": "S.N.I.P.E.R.: Hunter Scope - Mega Edition",
+      "file": "missing/S/317241-s-n-i-p-e-r-hunter-scope-mega-edition.json"
+    },
+    {
       "igdb_id": 102781,
       "game_name": "S.O.N",
       "file": "missing/S/102781-s-o-n.json"
@@ -139346,6 +139531,11 @@
       "igdb_id": 257066,
       "game_name": "Santa's Letters VR",
       "file": "missing/S/257066-santas-letters-vr.json"
+    },
+    {
+      "igdb_id": 317227,
+      "game_name": "Santa's Spot It",
+      "file": "missing/S/317227-santas-spot-it.json"
     },
     {
       "igdb_id": 343787,
@@ -142321,6 +142511,11 @@
       "igdb_id": 12221,
       "game_name": "Shadow of the Beast III",
       "file": "missing/S/12221-shadow-of-the-beast-iii.json"
+    },
+    {
+      "igdb_id": 317229,
+      "game_name": "Shadow of the Ninja Reborn: Deluxe Edition",
+      "file": "missing/S/317229-shadow-of-the-ninja-reborn-deluxe-edition.json"
     },
     {
       "igdb_id": 117711,
@@ -155888,6 +156083,11 @@
       "file": "missing/S/56481-stylish-sprint-2.json"
     },
     {
+      "igdb_id": 317242,
+      "game_name": "Stylist Girl: Sunny Edition",
+      "file": "missing/S/317242-stylist-girl-sunny-edition.json"
+    },
+    {
       "igdb_id": 111002,
       "game_name": "Su Hack",
       "file": "missing/S/111002-su-hack.json"
@@ -156361,6 +156561,11 @@
       "igdb_id": 328480,
       "game_name": "Sugoi Girls: Enchanting Elf",
       "file": "missing/S/328480-sugoi-girls-enchanting-elf.json"
+    },
+    {
+      "igdb_id": 317230,
+      "game_name": "Sugoi Girls: Mighty Mecha",
+      "file": "missing/S/317230-sugoi-girls-mighty-mecha.json"
     },
     {
       "igdb_id": 315843,
@@ -159128,6 +159333,11 @@
       "file": "missing/S/404258-supermarket-and-clothing-store-simulator.json"
     },
     {
+      "igdb_id": 317231,
+      "game_name": "Supermarket 3D Tycoon Business Simulator",
+      "file": "missing/S/317231-supermarket-3d-tycoon-business-simulator.json"
+    },
+    {
       "igdb_id": 335949,
       "game_name": "Supermarket CEO Simulator",
       "file": "missing/S/335949-supermarket-ceo-simulator.json"
@@ -159511,6 +159721,11 @@
       "igdb_id": 336395,
       "game_name": "Survival Zone: Craft, Build & Grow",
       "file": "missing/S/336395-survival-zone-craft-build-and-grow.json"
+    },
+    {
+      "igdb_id": 317209,
+      "game_name": "Survival: Fountain of Youth - Captain's Edition",
+      "file": "missing/S/317209-survival-fountain-of-youth-captains-edition.json"
     },
     {
       "igdb_id": 124225,
@@ -159901,6 +160116,11 @@
       "igdb_id": 315851,
       "game_name": "Sweet Bakery Tycoon: Super Edition",
       "file": "missing/S/315851-sweet-bakery-tycoon-super-edition.json"
+    },
+    {
+      "igdb_id": 317243,
+      "game_name": "Sweet Bakery Tycoon: Value Edition",
+      "file": "missing/S/317243-sweet-bakery-tycoon-value-edition.json"
     },
     {
       "igdb_id": 239881,
@@ -160501,6 +160721,11 @@
       "igdb_id": 35925,
       "game_name": "Synonymy",
       "file": "missing/S/35925-synonymy.json"
+    },
+    {
+      "igdb_id": 317234,
+      "game_name": "Synth Ark",
+      "file": "missing/S/317234-synth-ark.json"
     },
     {
       "igdb_id": 372492,
@@ -175823,6 +176048,11 @@
       "file": "missing/T/396212-to-the-stars-idle.json"
     },
     {
+      "igdb_id": 317222,
+      "game_name": "To:ri",
+      "file": "missing/T/317222-to-ri.json"
+    },
+    {
       "igdb_id": 139482,
       "game_name": "Toad on Fire",
       "file": "missing/T/139482-toad-on-fire.json"
@@ -177458,6 +177688,11 @@
       "file": "missing/T/209140-touhou-heart-of-the-tiger.json"
     },
     {
+      "igdb_id": 317239,
+      "game_name": "Touhou: Hotline Sanzu",
+      "file": "missing/T/317239-touhou-hotline-sanzu.json"
+    },
+    {
       "igdb_id": 181928,
       "game_name": "Touhou: Unmei no Hoshi",
       "file": "missing/T/181928-touhou-unmei-no-hoshi.json"
@@ -178551,6 +178786,11 @@
       "igdb_id": 324323,
       "game_name": "Train to Hong Kong",
       "file": "missing/T/324323-train-to-hong-kong.json"
+    },
+    {
+      "igdb_id": 317244,
+      "game_name": "Train Traffic Manager: Diamond Edition",
+      "file": "missing/T/317244-train-traffic-manager-diamond-edition.json"
     },
     {
       "igdb_id": 328805,
@@ -181316,6 +181556,11 @@
       "igdb_id": 32283,
       "game_name": "UBoat",
       "file": "missing/U/32283-uboat.json"
+    },
+    {
+      "igdb_id": 317245,
+      "game_name": "Uboat Attack: Complete Edition",
+      "file": "missing/U/317245-uboat-attack-complete-edition.json"
     },
     {
       "igdb_id": 150160,
@@ -194481,6 +194726,11 @@
       "igdb_id": 89275,
       "game_name": "Zombie Attack Pinball HD: Monster Challenge",
       "file": "missing/Z/89275-zombie-attack-pinball-hd-monster-challenge.json"
+    },
+    {
+      "igdb_id": 317235,
+      "game_name": "Zombie Attack: Zombies Survival Shooter",
+      "file": "missing/Z/317235-zombie-attack-zombies-survival-shooter.json"
     },
     {
       "igdb_id": 29709,
