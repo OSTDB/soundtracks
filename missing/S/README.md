@@ -539,6 +539,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seashells | 197922 | [197922-seashells.json](./197922-seashells.json) |
 | Seashine | 143091 | [143091-seashine.json](./143091-seashine.json) |
 | Season 31 | 370675 | [370675-season-31.json](./370675-season-31.json) |
+| Season Marbles: Autumn | 337628 | [337628-season-marbles-autumn.json](./337628-season-marbles-autumn.json) |
+| Season Marbles: Summer | 337629 | [337629-season-marbles-summer.json](./337629-season-marbles-summer.json) |
+| Season Marbles: Winter | 337627 | [337627-season-marbles-winter.json](./337627-season-marbles-winter.json) |
 | Seasons of Chiba | 351636 | [351636-seasons-of-chiba.json](./351636-seasons-of-chiba.json) |
 | Seasons Turning | 374617 | [374617-seasons-turning.json](./374617-seasons-turning.json) |
 | Seaway | 181901 | [181901-seaway.json](./181901-seaway.json) |
@@ -913,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shard Squad | 323529 | [323529-shard-squad.json](./323529-shard-squad.json) |
 | Shards of the Mirror | 340381 | [340381-shards-of-the-mirror.json](./340381-shards-of-the-mirror.json) |
 | Shards of War | 60565 | [60565-shards-of-war.json](./60565-shards-of-war.json) |
+| Shark Coin Party | 337630 | [337630-shark-coin-party.json](./337630-shark-coin-party.json) |
 | Shark Copter vs. Zombie Dancers | 147976 | [147976-shark-copter-vs-zombie-dancers.json](./147976-shark-copter-vs-zombie-dancers.json) |
 | Shark or Die | 61105 | [61105-shark-or-die.json](./61105-shark-or-die.json) |
 | Shark Riders | 150137 | [150137-shark-riders.json](./150137-shark-riders.json) |
@@ -2389,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Treasure Hunters | 372489 | [372489-space-treasure-hunters.json](./372489-space-treasure-hunters.json) |
 | Space Treasure Hunters part 2 | 372491 | [372491-space-treasure-hunters-part-2.json](./372491-space-treasure-hunters-part-2.json) |
 | Space Valet | 177005 | [177005-space-valet.json](./177005-space-valet.json) |
+| Space Variance Authority | 337641 | [337641-space-variance-authority.json](./337641-space-variance-authority.json) |
 | Space Viking Raiders | 74469 | [74469-space-viking-raiders.json](./74469-space-viking-raiders.json) |
 | Space Vikings | 261551 | [261551-space-vikings.json](./261551-space-vikings.json) |
 | Space Walk | 170527 | [170527-space-walk.json](./170527-space-walk.json) |
@@ -2815,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Conflict: Tornado | 354422 | [354422-star-conflict-tornado.json](./354422-star-conflict-tornado.json) |
 | Star Conflict: Ze'Ta. - Deluxe Version | 354439 | [354439-star-conflict-zeta-deluxe-version.json](./354439-star-conflict-zeta-deluxe-version.json) |
 | Star Connect | 233737 | [233737-star-connect.json](./233737-star-connect.json) |
+| Star Conqueror | 337631 | [337631-star-conqueror.json](./337631-star-conqueror.json) |
 | Star Control: Origins | 25311 | [25311-star-control-origins.json](./25311-star-control-origins.json) |
 | Star Control: Origins - Multiverse | 124805 | [124805-star-control-origins-multiverse.json](./124805-star-control-origins-multiverse.json) |
 | Star Cosmic | 407309 | [407309-star-cosmic.json](./407309-star-cosmic.json) |
