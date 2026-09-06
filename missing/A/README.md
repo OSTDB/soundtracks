@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Thousand Mouths to Scream | 338179 | [338179-a-thousand-mouths-to-scream.json](./338179-a-thousand-mouths-to-scream.json) |
 | A Timeless Carol | 112305 | [112305-a-timeless-carol.json](./112305-a-timeless-carol.json) |
 | A Tiny Eternity | 318177 | [318177-a-tiny-eternity.json](./318177-a-tiny-eternity.json) |
+| A Tiny Wander | 324887 | [324887-a-tiny-wander.json](./324887-a-tiny-wander.json) |
 | A todas mis memorias futuras | 352758 | [352758-a-todas-mis-memorias-futuras.json](./352758-a-todas-mis-memorias-futuras.json) |
 | A Tofu Tail | 58803 | [58803-a-tofu-tail.json](./58803-a-tofu-tail.json) |
 | A Total War Saga: Troy | 122649 | [122649-a-total-war-saga-troy.json](./122649-a-total-war-saga-troy.json) |
@@ -305,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Chaser | 332446 | [332446-abyss-chaser.json](./332446-abyss-chaser.json) |
 | Abyss of Fire | 239301 | [239301-abyss-of-fire.json](./239301-abyss-of-fire.json) |
 | Abyss Pact | 339129 | [339129-abyss-pact.json](./339129-abyss-pact.json) |
+| Abyss Seeker: What Do You See Deep in The Abyss | 324893 | [324893-abyss-seeker-what-do-you-see-deep-in-the-abyss.json](./324893-abyss-seeker-what-do-you-see-deep-in-the-abyss.json) |
 | Abyss Survivors | 311261 | [311261-abyss-survivors.json](./311261-abyss-survivors.json) |
 | Abyss Unchained | 331349 | [331349-abyss-unchained.json](./331349-abyss-unchained.json) |
 | Abyss: Backrooms Pools Horror VR | 376472 | [376472-abyss-backrooms-pools-horror-vr.json](./376472-abyss-backrooms-pools-horror-vr.json) |
@@ -1695,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ardu Turf Masters | 340204 | [340204-ardu-turf-masters.json](./340204-ardu-turf-masters.json) |
 | Arduventure | 144324 | [144324-arduventure.json](./144324-arduventure.json) |
 | Are You Afraid of the Dark | 220347 | [220347-are-you-afraid-of-the-dark.json](./220347-are-you-afraid-of-the-dark.json) |
+| Are You Kidding Me? | 324922 | [324922-are-you-kidding-me.json](./324922-are-you-kidding-me.json) |
 | Are You Smarter Than a 5th Grader? Game Time | 197940 | [197940-are-you-smarter-than-a-5th-grader-game-time.json](./197940-are-you-smarter-than-a-5th-grader-game-time.json) |
 | Are You Smarter than a 5th Grader?: Extra Credit | 234304 | [234304-are-you-smarter-than-a-5th-grader-extra-credit.json](./234304-are-you-smarter-than-a-5th-grader-extra-credit.json) |
 | Are You Smarter Than Mario? | 231629 | [231629-are-you-smarter-than-mario.json](./231629-are-you-smarter-than-mario.json) |
@@ -1713,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena of Trophies | 297789 | [297789-arena-of-trophies.json](./297789-arena-of-trophies.json) |
 | Arena Titans | 94789 | [94789-arena-titans.json](./94789-arena-titans.json) |
 | Arena: Maze of Death | 19694 | [19694-arena-maze-of-death.json](./19694-arena-maze-of-death.json) |
+| Arenum | 324897 | [324897-arenum.json](./324897-arenum.json) |
 | Ares Omega | 34382 | [34382-ares-omega.json](./34382-ares-omega.json) |
 | Aretha II | 137076 | [137076-aretha-ii.json](./137076-aretha-ii.json) |
 | Argentum Online | 93135 | [93135-argentum-online.json](./93135-argentum-online.json) |
