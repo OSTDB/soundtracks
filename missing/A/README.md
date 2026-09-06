@@ -1846,6 +1846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix & Obelix: Cesar's Challenge | 262663 | [262663-asterix-and-obelix-cesars-challenge.json](./262663-asterix-and-obelix-cesars-challenge.json) |
 | Astero Inc. | 176506 | [176506-astero-inc.json](./176506-astero-inc.json) |
 | Asteroad | 149089 | [149089-asteroad.json](./149089-asteroad.json) |
+| Asteroid Blockade | 359444 | [359444-asteroid-blockade.json](./359444-asteroid-blockade.json) |
 | Asteroid Breaker: Avoid the DizAsteroid | 105955 | [105955-asteroid-breaker-avoid-the-dizasteroid.json](./105955-asteroid-breaker-avoid-the-dizasteroid.json) |
 | Asteroid Challenge | 85505 | [85505-asteroid-challenge.json](./85505-asteroid-challenge.json) |
 | Asteroid Invaders | 120375 | [120375-asteroid-invaders.json](./120375-asteroid-invaders.json) |
@@ -1952,7 +1953,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Rorona: The Alchemist of Arland - Limited Edition | 44600 | [44600-atelier-rorona-the-alchemist-of-arland-limited-edition.json](./44600-atelier-rorona-the-alchemist-of-arland-limited-edition.json) |
 | Atelier Ryza 2: Lost Legends & The Secret Fairy - Premium Box | 139998 | [139998-atelier-ryza-2-lost-legends-and-the-secret-fairy-premium-box.json](./139998-atelier-ryza-2-lost-legends-and-the-secret-fairy-premium-box.json) |
 | Atelier Ryza 2: Lost Legends & The Secret Fairy - Special Collection Box | 140002 | [140002-atelier-ryza-2-lost-legends-and-the-secret-fairy-special-collection-box.json](./140002-atelier-ryza-2-lost-legends-and-the-secret-fairy-special-collection-box.json) |
+| Atelier Ryza 2: Lost Legends & the Secret Fairy DX | 359425 | [359425-atelier-ryza-2-lost-legends-and-the-secret-fairy-dx.json](./359425-atelier-ryza-2-lost-legends-and-the-secret-fairy-dx.json) |
+| Atelier Ryza 3: Alchemist of the End & the Secret Key DX | 359427 | [359427-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-dx.json](./359427-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-dx.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - Secret Solitary Island | 238227 | [238227-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json](./238227-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json) |
+| Atelier Ryza: Ever Darkness & the Secret Hideout DX | 359424 | [359424-atelier-ryza-ever-darkness-and-the-secret-hideout-dx.json](./359424-atelier-ryza-ever-darkness-and-the-secret-hideout-dx.json) |
 | Atelier Shallie: Alchemists of the Dusk Sea DX | 122750 | [122750-atelier-shallie-alchemists-of-the-dusk-sea-dx.json](./122750-atelier-shallie-alchemists-of-the-dusk-sea-dx.json) |
 | Athena | 273078 | [273078-athena.json](./273078-athena.json) |
 | Athena: Full Throttle | 55894 | [55894-athena-full-throttle.json](./55894-athena-full-throttle.json) |
@@ -1997,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Mutant Penguins | 40819 | [40819-attack-of-the-mutant-penguins.json](./40819-attack-of-the-mutant-penguins.json) |
 | Attack of Undo Zai | 191242 | [191242-attack-of-undo-zai.json](./191242-attack-of-undo-zai.json) |
 | Attack on Altair | 69848 | [69848-attack-on-altair.json](./69848-attack-on-altair.json) |
+| Attack on Lothal | 359445 | [359445-attack-on-lothal.json](./359445-attack-on-lothal.json) |
 | Attack on Reality | 231612 | [231612-attack-on-reality.json](./231612-attack-on-reality.json) |
 | Attack on Titan | 14879 | [14879-attack-on-titan.json](./14879-attack-on-titan.json) |
 | Attack Only | 410224 | [410224-attack-only.json](./410224-attack-only.json) |
@@ -2103,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avocado Puzzle Quest | 211414 | [211414-avocado-puzzle-quest.json](./211414-avocado-puzzle-quest.json) |
 | Avoid the Awful Thing that Vaguely Resembles a Banana!! | 69312 | [69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json](./69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json) |
 | Avoid the Monsters | 54450 | [54450-avoid-the-monsters.json](./54450-avoid-the-monsters.json) |
+| Avoid the Threats | 359439 | [359439-avoid-the-threats.json](./359439-avoid-the-threats.json) |
 | Avolteha | 208022 | [208022-avolteha.json](./208022-avolteha.json) |
 | Avorion | 27114 | [27114-avorion.json](./27114-avorion.json) |
 | Avorion: Into the Rift | 210867 | [210867-avorion-into-the-rift.json](./210867-avorion-into-the-rift.json) |
