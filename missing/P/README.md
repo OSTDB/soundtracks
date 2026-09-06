@@ -882,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pioneerz | 129219 | [129219-pioneerz.json](./129219-pioneerz.json) |
 | Pip Pepper Park Planner | 347116 | [347116-pip-pepper-park-planner.json](./347116-pip-pepper-park-planner.json) |
 | Pipe Dreams | 232141 | [232141-pipe-dreams.json](./232141-pipe-dreams.json) |
+| Pipe Inspector: Plumbocalypse | 336534 | [336534-pipe-inspector-plumbocalypse.json](./336534-pipe-inspector-plumbocalypse.json) |
 | Pipe Skull | 185127 | [185127-pipe-skull.json](./185127-pipe-skull.json) |
 | Pipeline RTX | 192980 | [192980-pipeline-rtx.json](./192980-pipeline-rtx.json) |
 | Piper | 356068 | [356068-piper.json](./356068-piper.json) |
@@ -1094,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plantan | 110330 | [110330-plantan.json](./110330-plantan.json) |
 | Planted! | 398336 | [398336-planted.json](./398336-planted.json) |
 | Planth Care | 181356 | [181356-planth-care.json](./181356-planth-care.json) |
+| Plants vs Zombies: Neighborhood Defense | 336549 | [336549-plants-vs-zombies-neighborhood-defense.json](./336549-plants-vs-zombies-neighborhood-defense.json) |
 | Plants vs. Zombies | 342043 | [342043-plants-vs-zombies.json](./342043-plants-vs-zombies.json) |
 | Plants vs. Zombies | 342044 | [342044-plants-vs-zombies.json](./342044-plants-vs-zombies.json) |
 | Plants vs. Zombies 2: Into the Storm | 272546 | [272546-plants-vs-zombies-2-into-the-storm.json](./272546-plants-vs-zombies-2-into-the-storm.json) |
@@ -1876,6 +1878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psicose? | 129235 | [129235-psicose.json](./129235-psicose.json) |
 | Psy High 2: High Summer | 121702 | [121702-psy-high-2-high-summer.json](./121702-psy-high-2-high-summer.json) |
 | PSY in Apocalypse | 270953 | [270953-psy-in-apocalypse.json](./270953-psy-in-apocalypse.json) |
+| Psychiatric Prison Romance: Serial Killer Anime Boys Dating Sim | 336558 | [336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json](./336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim | 338006 | [338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json](./338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json) |
 | Psycho Simulator | 389465 | [389465-psycho-simulator.json](./389465-psycho-simulator.json) |
 | Psycho-Nics Oscar | 55193 | [55193-psycho-nics-oscar.json](./55193-psycho-nics-oscar.json) |
