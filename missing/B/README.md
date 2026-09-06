@@ -1499,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonk Voyage | 415112 | [415112-bonk-voyage.json](./415112-bonk-voyage.json) |
 | Bonkers | 177539 | [177539-bonkers.json](./177539-bonkers.json) |
 | Bonkers | 78677 | [78677-bonkers.json](./78677-bonkers.json) |
+| Bonza Planet | 354445 | [354445-bonza-planet.json](./354445-bonza-planet.json) |
 | Bonza Word Puzzle | 90678 | [90678-bonza-word-puzzle.json](./90678-bonza-word-puzzle.json) |
 | Booby Kids | 7796 | [7796-booby-kids.json](./7796-booby-kids.json) |
 | Boofie's Birthday Adventure | 340246 | [340246-boofies-birthday-adventure.json](./340246-boofies-birthday-adventure.json) |
