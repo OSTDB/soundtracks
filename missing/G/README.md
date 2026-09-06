@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Government X | 244481 | [244481-government-x.json](./244481-government-x.json) |
 | GraalOnline: Delteria | 82153 | [82153-graalonline-delteria.json](./82153-graalonline-delteria.json) |
 | Grab 50 Coins | 400264 | [400264-grab-50-coins.json](./400264-grab-50-coins.json) |
+| Grab it! Crane Game | 334095 | [334095-grab-it-crane-game.json](./334095-grab-it-crane-game.json) |
 | Grab Man | 47264 | [47264-grab-man.json](./47264-grab-man.json) |
 | Grab the Goblins! | 250650 | [250650-grab-the-goblins.json](./250650-grab-the-goblins.json) |
 | Grabbers in the Woods | 294426 | [294426-grabbers-in-the-woods.json](./294426-grabbers-in-the-woods.json) |
@@ -893,8 +894,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy Versus Rising: Color Set 3 | 332822 | [332822-granblue-fantasy-versus-rising-color-set-3.json](./332822-granblue-fantasy-versus-rising-color-set-3.json) |
 | Granblue Fantasy Versus: Rising - Additional Character: Versusia | 332230 | [332230-granblue-fantasy-versus-rising-additional-character-versusia.json](./332230-granblue-fantasy-versus-rising-additional-character-versusia.json) |
 | Granblue Fantasy Versus: Rising - Additional Character: Vikala | 332231 | [332231-granblue-fantasy-versus-rising-additional-character-vikala.json](./332231-granblue-fantasy-versus-rising-additional-character-vikala.json) |
+| Granblue Fantasy Versus: Rising - Color Set 5 | 334145 | [334145-granblue-fantasy-versus-rising-color-set-5.json](./334145-granblue-fantasy-versus-rising-color-set-5.json) |
+| Granblue Fantasy Versus: Rising - Crimson Bomber: Zeta | 334143 | [334143-granblue-fantasy-versus-rising-crimson-bomber-zeta.json](./334143-granblue-fantasy-versus-rising-crimson-bomber-zeta.json) |
 | Granblue Fantasy Versus: Rising - Deluxe Character Pass | 332823 | [332823-granblue-fantasy-versus-rising-deluxe-character-pass.json](./332823-granblue-fantasy-versus-rising-deluxe-character-pass.json) |
 | Granblue Fantasy Versus: Rising - Premium Avatar Set: Shadowverse | 294993 | [294993-granblue-fantasy-versus-rising-premium-avatar-set-shadowverse.json](./294993-granblue-fantasy-versus-rising-premium-avatar-set-shadowverse.json) |
+| Granblue Fantasy Versus: Rising - The Black Butterfly: Narmaya | 334144 | [334144-granblue-fantasy-versus-rising-the-black-butterfly-narmaya.json](./334144-granblue-fantasy-versus-rising-the-black-butterfly-narmaya.json) |
 | Granblue Fantasy: Relink - Character Expansion Set: Tweyen | 309641 | [309641-granblue-fantasy-relink-character-expansion-set-tweyen.json](./309641-granblue-fantasy-relink-character-expansion-set-tweyen.json) |
 | Granblue Fantasy: Relink - Color Pack 4 | 309640 | [309640-granblue-fantasy-relink-color-pack-4.json](./309640-granblue-fantasy-relink-color-pack-4.json) |
 | Grand Academy for Future Villains | 67914 | [67914-grand-academy-for-future-villains.json](./67914-grand-academy-for-future-villains.json) |
