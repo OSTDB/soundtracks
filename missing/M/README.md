@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mani Yugi Tokoyo | 96106 | [96106-mani-yugi-tokoyo.json](./96106-mani-yugi-tokoyo.json) |
 | Mania Fish | 188069 | [188069-mania-fish.json](./188069-mania-fish.json) |
 | Maniac Jackson and the Moonwalking Mindbenders | 93035 | [93035-maniac-jackson-and-the-moonwalking-mindbenders.json](./93035-maniac-jackson-and-the-moonwalking-mindbenders.json) |
+| Manic you and depressed me | 357816 | [357816-manic-you-and-depressed-me.json](./357816-manic-you-and-depressed-me.json) |
 | Manifest | 215923 | [215923-manifest.json](./215923-manifest.json) |
 | Mankojai | 184115 | [184115-mankojai.json](./184115-mankojai.json) |
 | Manly Men Fighting | 58796 | [58796-manly-men-fighting.json](./58796-manly-men-fighting.json) |
@@ -564,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maseylia: Echoes of the Past | 302107 | [302107-maseylia-echoes-of-the-past.json](./302107-maseylia-echoes-of-the-past.json) |
 | Masha and Medved | 216457 | [216457-masha-and-medved.json](./216457-masha-and-medved.json) |
 | Masha and the Bear: Dentist | 227487 | [227487-masha-and-the-bear-dentist.json](./227487-masha-and-the-bear-dentist.json) |
+| Mask Fighting:Otherworldly Awakening | 357809 | [357809-mask-fighting-otherworldly-awakening.json](./357809-mask-fighting-otherworldly-awakening.json) |
 | Mask of Fury | 125434 | [125434-mask-of-fury.json](./125434-mask-of-fury.json) |
 | Mask of Sanity | 121696 | [121696-mask-of-sanity.json](./121696-mask-of-sanity.json) |
 | Mask: Beyond Lies | 255988 | [255988-mask-beyond-lies.json](./255988-mask-beyond-lies.json) |
