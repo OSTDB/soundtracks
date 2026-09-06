@@ -1893,8 +1893,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnekMP | 226442 | [226442-snekmp.json](./226442-snekmp.json) |
 | Snezhnaja Koroleva | 197956 | [197956-snezhnaja-koroleva.json](./197956-snezhnaja-koroleva.json) |
 | Sniper 3D | 311780 | [311780-sniper-3d.json](./311780-sniper-3d.json) |
+| Sniper Assassin 3 | 316087 | [316087-sniper-assassin-3.json](./316087-sniper-assassin-3.json) |
 | Sniper Assassin 3D | 94782 | [94782-sniper-assassin-3d.json](./94782-sniper-assassin-3d.json) |
 | Sniper Assassin 3D Shooter 2 | 104101 | [104101-sniper-assassin-3d-shooter-2.json](./104101-sniper-assassin-3d-shooter-2.json) |
+| Sniper Assassin 4 | 316088 | [316088-sniper-assassin-4.json](./316088-sniper-assassin-4.json) |
+| Sniper Assassin 5: Final Mission | 316090 | [316090-sniper-assassin-5-final-mission.json](./316090-sniper-assassin-5-final-mission.json) |
 | Sniper Blacklist | 34465 | [34465-sniper-blacklist.json](./34465-sniper-blacklist.json) |
 | Sniper Elite 4: Deathstorm Part 1 - Inception | 27868 | [27868-sniper-elite-4-deathstorm-part-1-inception.json](./27868-sniper-elite-4-deathstorm-part-1-inception.json) |
 | Sniper Elite 5: Airborne Elite Weapon & Skin Pack | 307278 | [307278-sniper-elite-5-airborne-elite-weapon-and-skin-pack.json](./307278-sniper-elite-5-airborne-elite-weapon-and-skin-pack.json) |
@@ -1931,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snops Attack! Zombie Defense | 240495 | [240495-snops-attack-zombie-defense.json](./240495-snops-attack-zombie-defense.json) |
 | Snow Ash Land | 112347 | [112347-snow-ash-land.json](./112347-snow-ash-land.json) |
 | Snow Cone | 341474 | [341474-snow-cone.json](./341474-snow-cone.json) |
+| Snow Fight | 316096 | [316096-snow-fight.json](./316096-snow-fight.json) |
 | Snow Jewels Puzzle | 87134 | [87134-snow-jewels-puzzle.json](./87134-snow-jewels-puzzle.json) |
 | Snow Kids | 135888 | [135888-snow-kids.json](./135888-snow-kids.json) |
 | Snow Madness | 224201 | [224201-snow-madness.json](./224201-snow-madness.json) |
@@ -3608,6 +3612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Battle Simulator | 37162 | [37162-sub-battle-simulator.json](./37162-sub-battle-simulator.json) |
 | Sub Chase | 245579 | [245579-sub-chase.json](./245579-sub-chase.json) |
 | Sub Duel | 97352 | [97352-sub-duel.json](./97352-sub-duel.json) |
+| Sub Game | 316079 | [316079-sub-game.json](./316079-sub-game.json) |
 | Sub Hunt | 5707 | [5707-sub-hunt.json](./5707-sub-hunt.json) |
 | Sub Rebellion | 43329 | [43329-sub-rebellion.json](./43329-sub-rebellion.json) |
 | Sub Stalker | 93053 | [93053-sub-stalker.json](./93053-sub-stalker.json) |
@@ -3766,6 +3771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sundown | 86071 | [86071-sundown.json](./86071-sundown.json) |
 | Sundowner | 154022 | [154022-sundowner.json](./154022-sundowner.json) |
 | Sune och Hans Värld: Pussjakten | 129781 | [129781-sune-och-hans-varld-pussjakten.json](./129781-sune-och-hans-varld-pussjakten.json) |
+| Sunes Sportlov | 316081 | [316081-sunes-sportlov.json](./316081-sunes-sportlov.json) |
 | Sunfinity | 356642 | [356642-sunfinity.json](./356642-sunfinity.json) |
 | Sunflower Stronghold | 384519 | [384519-sunflower-stronghold.json](./384519-sunflower-stronghold.json) |
 | Sunforge Solar Survival | 322980 | [322980-sunforge-solar-survival.json](./322980-sunforge-solar-survival.json) |
