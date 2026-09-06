@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T11:18:19.725Z",
-  "total_missing": 36929,
+  "generated_at": "2026-09-06T11:33:10.997Z",
+  "total_missing": 36979,
   "games": [
     {
       "igdb_id": 306086,
@@ -2521,6 +2521,11 @@
       "igdb_id": 319388,
       "game_name": "A Dino's Journey",
       "file": "missing/A/319388-a-dinos-journey.json"
+    },
+    {
+      "igdb_id": 341469,
+      "game_name": "A Dog Called Buddy",
+      "file": "missing/A/341469-a-dog-called-buddy.json"
     },
     {
       "igdb_id": 241045,
@@ -46128,6 +46133,11 @@
       "file": "missing/D/183566-dueling-dragons.json"
     },
     {
+      "igdb_id": 341466,
+      "game_name": "Dueling Drums",
+      "file": "missing/D/341466-dueling-drums.json"
+    },
+    {
       "igdb_id": 315252,
       "game_name": "Duendes in New Year",
       "file": "missing/D/315252-duendes-in-new-year.json"
@@ -52388,6 +52398,11 @@
       "file": "missing/F/18031-fallout-4-far-harbor.json"
     },
     {
+      "igdb_id": 341476,
+      "game_name": "Fallout 76: Ghoul Within",
+      "file": "missing/F/341476-fallout-76-ghoul-within.json"
+    },
+    {
       "igdb_id": 347166,
       "game_name": "Fallout 76: Gone Fission",
       "file": "missing/F/347166-fallout-76-gone-fission.json"
@@ -55016,6 +55031,11 @@
       "igdb_id": 296106,
       "game_name": "Fire Emblem: Host of the Dark",
       "file": "missing/F/296106-fire-emblem-host-of-the-dark.json"
+    },
+    {
+      "igdb_id": 341470,
+      "game_name": "Fire Emblem: Illuminated",
+      "file": "missing/F/341470-fire-emblem-illuminated.json"
     },
     {
       "igdb_id": 322378,
@@ -63286,6 +63306,11 @@
       "igdb_id": 264872,
       "game_name": "God: The Game",
       "file": "missing/G/264872-god-the-game.json"
+    },
+    {
+      "igdb_id": 341477,
+      "game_name": "God's League",
+      "file": "missing/G/341477-gods-league.json"
     },
     {
       "igdb_id": 154548,
@@ -79563,6 +79588,11 @@
       "file": "missing/J/86729-jumbline-2.json"
     },
     {
+      "igdb_id": 341471,
+      "game_name": "Jumbo Pumbo",
+      "file": "missing/J/341471-jumbo-pumbo.json"
+    },
+    {
       "igdb_id": 318762,
       "game_name": "Jumfrog",
       "file": "missing/J/318762-jumfrog.json"
@@ -89603,6 +89633,11 @@
       "file": "missing/L/315838-luna-3x.json"
     },
     {
+      "igdb_id": 341493,
+      "game_name": "Luna: Obscura",
+      "file": "missing/L/341493-luna-obscura.json"
+    },
+    {
       "igdb_id": 56463,
       "game_name": "Luna: The Shadow Dust",
       "file": "missing/L/56463-luna-the-shadow-dust.json"
@@ -94811,6 +94846,11 @@
       "igdb_id": 310754,
       "game_name": "Memory Quickie",
       "file": "missing/M/310754-memory-quickie.json"
+    },
+    {
+      "igdb_id": 341465,
+      "game_name": "Memory Shake",
+      "file": "missing/M/341465-memory-shake.json"
     },
     {
       "igdb_id": 412986,
@@ -105738,6 +105778,11 @@
       "file": "missing/N/297800-ninja-kato-3.json"
     },
     {
+      "igdb_id": 341478,
+      "game_name": "Ninja Ming: Wu",
+      "file": "missing/N/341478-ninja-ming-wu.json"
+    },
+    {
       "igdb_id": 143069,
       "game_name": "Ninja Must Die",
       "file": "missing/N/143069-ninja-must-die.json"
@@ -105846,6 +105891,11 @@
       "igdb_id": 344967,
       "game_name": "Ninjas Stars",
       "file": "missing/N/344967-ninjas-stars.json"
+    },
+    {
+      "igdb_id": 341479,
+      "game_name": "NinjaThea 2",
+      "file": "missing/N/341479-ninjathea-2.json"
     },
     {
       "igdb_id": 2825,
@@ -106113,6 +106163,11 @@
       "file": "missing/N/385085-nitrous-fury.json"
     },
     {
+      "igdb_id": 341480,
+      "game_name": "Niva",
+      "file": "missing/N/341480-niva.json"
+    },
+    {
       "igdb_id": 267690,
       "game_name": "Nixie",
       "file": "missing/N/267690-nixie.json"
@@ -106131,6 +106186,11 @@
       "igdb_id": 66705,
       "game_name": "NLL Lacrosse 2010",
       "file": "missing/N/66705-nll-lacrosse-2010.json"
+    },
+    {
+      "igdb_id": 341481,
+      "game_name": "No Afraid Of Battle",
+      "file": "missing/N/341481-no-afraid-of-battle.json"
     },
     {
       "igdb_id": 360010,
@@ -106271,6 +106331,11 @@
       "igdb_id": 413689,
       "game_name": "No Thoughts Just Dodge",
       "file": "missing/N/413689-no-thoughts-just-dodge.json"
+    },
+    {
+      "igdb_id": 341487,
+      "game_name": "No Throwing",
+      "file": "missing/N/341487-no-throwing.json"
     },
     {
       "igdb_id": 104111,
@@ -106453,6 +106518,11 @@
       "file": "missing/N/254158-nocannotap.json"
     },
     {
+      "igdb_id": 341482,
+      "game_name": "Nock & Load",
+      "file": "missing/N/341482-nock-and-load.json"
+    },
+    {
       "igdb_id": 31389,
       "game_name": "Nock: Hidden Arrow",
       "file": "missing/N/31389-nock-hidden-arrow.json"
@@ -106466,6 +106536,11 @@
       "igdb_id": 234740,
       "game_name": "Nocturnal",
       "file": "missing/N/234740-nocturnal.json"
+    },
+    {
+      "igdb_id": 341483,
+      "game_name": "Nocturnal Nemesis",
+      "file": "missing/N/341483-nocturnal-nemesis.json"
     },
     {
       "igdb_id": 370152,
@@ -106598,6 +106673,11 @@
       "file": "missing/N/335673-noiz2sa.json"
     },
     {
+      "igdb_id": 341484,
+      "game_name": "NokNok",
+      "file": "missing/N/341484-noknok.json"
+    },
+    {
       "igdb_id": 404808,
       "game_name": "Nol",
       "file": "missing/N/404808-nol.json"
@@ -106701,6 +106781,11 @@
       "igdb_id": 209680,
       "game_name": "Noodle Party",
       "file": "missing/N/209680-noodle-party.json"
+    },
+    {
+      "igdb_id": 341485,
+      "game_name": "Nook Fall: West Town",
+      "file": "missing/N/341485-nook-fall-west-town.json"
     },
     {
       "igdb_id": 361709,
@@ -106841,6 +106926,11 @@
       "igdb_id": 51960,
       "game_name": "NoserLand",
       "file": "missing/N/51960-noserland.json"
+    },
+    {
+      "igdb_id": 341486,
+      "game_name": "NoSpellHero",
+      "file": "missing/N/341486-nospellhero.json"
     },
     {
       "igdb_id": 360584,
@@ -107188,6 +107278,11 @@
       "file": "missing/N/270962-nude-and-afraid-11-day-challenge.json"
     },
     {
+      "igdb_id": 341488,
+      "game_name": "NugQuest",
+      "file": "missing/N/341488-nugquest.json"
+    },
+    {
       "igdb_id": 354410,
       "game_name": "Nui Goes to Town!",
       "file": "missing/N/354410-nui-goes-to-town.json"
@@ -107293,6 +107388,11 @@
       "file": "missing/N/228106-number-slide-puzzle.json"
     },
     {
+      "igdb_id": 341490,
+      "game_name": "Number Tower",
+      "file": "missing/N/341490-number-tower.json"
+    },
+    {
       "igdb_id": 193474,
       "game_name": "Number Wars",
       "file": "missing/N/193474-number-wars.json"
@@ -107311,6 +107411,11 @@
       "igdb_id": 106580,
       "game_name": "Numberline 3",
       "file": "missing/N/106580-numberline-3.json"
+    },
+    {
+      "igdb_id": 341489,
+      "game_name": "Numbers Destiny",
+      "file": "missing/N/341489-numbers-destiny.json"
     },
     {
       "igdb_id": 357249,
@@ -107336,6 +107441,11 @@
       "igdb_id": 213587,
       "game_name": "Nump Jump",
       "file": "missing/N/213587-nump-jump.json"
+    },
+    {
+      "igdb_id": 341491,
+      "game_name": "NumX",
+      "file": "missing/N/341491-numx.json"
     },
     {
       "igdb_id": 38993,
@@ -107528,6 +107638,11 @@
       "file": "missing/O/406129-obrum.json"
     },
     {
+      "igdb_id": 341492,
+      "game_name": "Obscura",
+      "file": "missing/O/341492-obscura.json"
+    },
+    {
       "igdb_id": 5941,
       "game_name": "ObsCure",
       "file": "missing/O/5941-obscure.json"
@@ -107608,6 +107723,16 @@
       "file": "missing/O/124246-ocean-of-battles.json"
     },
     {
+      "igdb_id": 341495,
+      "game_name": "Ocean Otter Climb",
+      "file": "missing/O/341495-ocean-otter-climb.json"
+    },
+    {
+      "igdb_id": 341496,
+      "game_name": "Ocean Playground",
+      "file": "missing/O/341496-ocean-playground.json"
+    },
+    {
       "igdb_id": 18975,
       "game_name": "Oceanhorn: Monster of Uncharted Seas",
       "file": "missing/O/18975-oceanhorn-monster-of-uncharted-seas.json"
@@ -107633,6 +107758,11 @@
       "file": "missing/O/57102-oceanspirit-danish.json"
     },
     {
+      "igdb_id": 341497,
+      "game_name": "Ocero 3D",
+      "file": "missing/O/341497-ocero-3d.json"
+    },
+    {
       "igdb_id": 246092,
       "game_name": "Ochakai he no Shoutaijou",
       "file": "missing/O/246092-ochakai-he-no-shoutaijou.json"
@@ -107646,6 +107776,11 @@
       "igdb_id": 175397,
       "game_name": "Ocopoco",
       "file": "missing/O/175397-ocopoco.json"
+    },
+    {
+      "igdb_id": 341498,
+      "game_name": "Oct 14",
+      "file": "missing/O/341498-oct-14.json"
     },
     {
       "igdb_id": 88290,
@@ -107778,6 +107913,11 @@
       "file": "missing/O/302108-odyssey-of-the-explorer.json"
     },
     {
+      "igdb_id": 341499,
+      "game_name": "Odyssey: Realm of Echoes",
+      "file": "missing/O/341499-odyssey-realm-of-echoes.json"
+    },
+    {
       "igdb_id": 263229,
       "game_name": "Oedo Trigger VR!!",
       "file": "missing/O/263229-oedo-trigger-vr.json"
@@ -107871,6 +108011,11 @@
       "igdb_id": 333931,
       "game_name": "Off the Wall",
       "file": "missing/O/333931-off-the-wall.json"
+    },
+    {
+      "igdb_id": 341500,
+      "game_name": "Off Trail",
+      "file": "missing/O/341500-off-trail.json"
     },
     {
       "igdb_id": 184613,
@@ -108023,6 +108168,11 @@
       "file": "missing/O/382754-og-fun-monke-horror.json"
     },
     {
+      "igdb_id": 341501,
+      "game_name": "OG Memory: Synthwave Vampires",
+      "file": "missing/O/341501-og-memory-synthwave-vampires.json"
+    },
+    {
       "igdb_id": 277582,
       "game_name": "OG Puzzlers: Kira Maus",
       "file": "missing/O/277582-og-puzzlers-kira-maus.json"
@@ -108031,6 +108181,11 @@
       "igdb_id": 291234,
       "game_name": "OG Puzzlers: Synthwave Dinosaurs",
       "file": "missing/O/291234-og-puzzlers-synthwave-dinosaurs.json"
+    },
+    {
+      "igdb_id": 341502,
+      "game_name": "OG Puzzlers: Synthwave Vampires",
+      "file": "missing/O/341502-og-puzzlers-synthwave-vampires.json"
     },
     {
       "igdb_id": 17257,
@@ -108061,6 +108216,11 @@
       "igdb_id": 106617,
       "game_name": "Oh Boy Cheese",
       "file": "missing/O/106617-oh-boy-cheese.json"
+    },
+    {
+      "igdb_id": 341503,
+      "game_name": "Oh Boy Cheese Remastered",
+      "file": "missing/O/341503-oh-boy-cheese-remastered.json"
     },
     {
       "igdb_id": 132242,
@@ -108381,6 +108541,11 @@
       "igdb_id": 17311,
       "game_name": "Olympia Rising",
       "file": "missing/O/17311-olympia-rising.json"
+    },
+    {
+      "igdb_id": 341504,
+      "game_name": "Olympia: Festival of the Gods",
+      "file": "missing/O/341504-olympia-festival-of-the-gods.json"
     },
     {
       "igdb_id": 147463,
@@ -109153,6 +109318,11 @@
       "file": "missing/O/292296-one-more-night.json"
     },
     {
+      "igdb_id": 341506,
+      "game_name": "One More Question",
+      "file": "missing/O/341506-one-more-question.json"
+    },
+    {
       "igdb_id": 384495,
       "game_name": "One More Spin",
       "file": "missing/O/384495-one-more-spin.json"
@@ -109201,6 +109371,11 @@
       "igdb_id": 306088,
       "game_name": "One of Them",
       "file": "missing/O/306088-one-of-them.json"
+    },
+    {
+      "igdb_id": 341507,
+      "game_name": "One Paradox",
+      "file": "missing/O/341507-one-paradox.json"
     },
     {
       "igdb_id": 194837,
@@ -109423,6 +109598,11 @@
       "file": "missing/O/116359-onechanbara-z-kagura-with-nonono.json"
     },
     {
+      "igdb_id": 341505,
+      "game_name": "OneDayOne",
+      "file": "missing/O/341505-onedayone.json"
+    },
+    {
       "igdb_id": 98974,
       "game_name": "Onefog Xonix",
       "file": "missing/O/98974-onefog-xonix.json"
@@ -109558,9 +109738,19 @@
       "file": "missing/O/109730-only-shadows-left-behind.json"
     },
     {
+      "igdb_id": 341508,
+      "game_name": "Only The Lost Shall See",
+      "file": "missing/O/341508-only-the-lost-shall-see.json"
+    },
+    {
       "igdb_id": 270940,
       "game_name": "Only the Rich May Die",
       "file": "missing/O/270940-only-the-rich-may-die.json"
+    },
+    {
+      "igdb_id": 341509,
+      "game_name": "Only Trump: Up To Presidents!",
+      "file": "missing/O/341509-only-trump-up-to-presidents.json"
     },
     {
       "igdb_id": 297819,
@@ -109648,9 +109838,19 @@
       "file": "missing/O/37125-onside-soccer.json"
     },
     {
+      "igdb_id": 341510,
+      "game_name": "Onslaught",
+      "file": "missing/O/341510-onslaught.json"
+    },
+    {
       "igdb_id": 10961,
       "game_name": "Ooga Booga",
       "file": "missing/O/10961-ooga-booga.json"
+    },
+    {
+      "igdb_id": 341512,
+      "game_name": "Ooga Booga Battle",
+      "file": "missing/O/341512-ooga-booga-battle.json"
     },
     {
       "igdb_id": 34516,
@@ -109701,6 +109901,11 @@
       "igdb_id": 165685,
       "game_name": "Oozing Islands",
       "file": "missing/O/165685-oozing-islands.json"
+    },
+    {
+      "igdb_id": 341513,
+      "game_name": "OPA: Super Janken",
+      "file": "missing/O/341513-opa-super-janken.json"
     },
     {
       "igdb_id": 58804,
@@ -109791,6 +109996,11 @@
       "igdb_id": 25593,
       "game_name": "Operation Babel: New Tokyo Legacy",
       "file": "missing/O/25593-operation-babel-new-tokyo-legacy.json"
+    },
+    {
+      "igdb_id": 341514,
+      "game_name": "Operation Blackout",
+      "file": "missing/O/341514-operation-blackout.json"
     },
     {
       "igdb_id": 412272,
@@ -119736,6 +119946,11 @@
       "igdb_id": 277594,
       "game_name": "Profound",
       "file": "missing/P/277594-profound.json"
+    },
+    {
+      "igdb_id": 341468,
+      "game_name": "Profundus",
+      "file": "missing/P/341468-profundus.json"
     },
     {
       "igdb_id": 371861,
@@ -130383,6 +130598,11 @@
       "file": "missing/R/165693-rust-n-dust.json"
     },
     {
+      "igdb_id": 341511,
+      "game_name": "Rust Onslaught",
+      "file": "missing/R/341511-rust-onslaught.json"
+    },
+    {
       "igdb_id": 126026,
       "game_name": "Rust Racers 2D",
       "file": "missing/R/126026-rust-racers-2d.json"
@@ -131761,6 +131981,16 @@
       "igdb_id": 367395,
       "game_name": "Sans & Papyrus: Salsa Lesson",
       "file": "missing/S/367395-sans-and-papyrus-salsa-lesson.json"
+    },
+    {
+      "igdb_id": 341472,
+      "game_name": "Sansara Naga 1",
+      "file": "missing/S/341472-sansara-naga-1.json"
+    },
+    {
+      "igdb_id": 341473,
+      "game_name": "Sansara Naga 2",
+      "file": "missing/S/341473-sansara-naga-2.json"
     },
     {
       "igdb_id": 130959,
@@ -136303,6 +136533,11 @@
       "file": "missing/S/134671-shutter-stroll.json"
     },
     {
+      "igdb_id": 341475,
+      "game_name": "Shutterbuds",
+      "file": "missing/S/341475-shutterbuds.json"
+    },
+    {
       "igdb_id": 335668,
       "game_name": "Shuuchaku Gakuen",
       "file": "missing/S/335668-shuuchaku-gakuen.json"
@@ -139371,6 +139606,11 @@
       "igdb_id": 112347,
       "game_name": "Snow Ash Land",
       "file": "missing/S/112347-snow-ash-land.json"
+    },
+    {
+      "igdb_id": 341474,
+      "game_name": "Snow Cone",
+      "file": "missing/S/341474-snow-cone.json"
     },
     {
       "igdb_id": 87134,
@@ -156638,6 +156878,11 @@
       "file": "missing/T/249461-the-dawn-is-inevitable.json"
     },
     {
+      "igdb_id": 341494,
+      "game_name": "The Dawn Obscura",
+      "file": "missing/T/341494-the-dawn-obscura.json"
+    },
+    {
       "igdb_id": 189207,
       "game_name": "The Dawn: Sniper's Way",
       "file": "missing/T/189207-the-dawn-snipers-way.json"
@@ -160731,6 +160976,11 @@
       "igdb_id": 332810,
       "game_name": "The Pet Squad",
       "file": "missing/T/332810-the-pet-squad.json"
+    },
+    {
+      "igdb_id": 341467,
+      "game_name": "The Photo of God",
+      "file": "missing/T/341467-the-photo-of-god.json"
     },
     {
       "igdb_id": 61109,
