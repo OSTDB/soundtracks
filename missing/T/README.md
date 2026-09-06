@@ -75,8 +75,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko Drum Master | 37148 | [37148-taiko-drum-master.json](./37148-taiko-drum-master.json) |
 | Taiko no Tatsujin: Drum 'n' Fun! | 104992 | [104992-taiko-no-tatsujin-drum-n-fun.json](./104992-taiko-no-tatsujin-drum-n-fun.json) |
 | Taiko no Tatsujin: Ongaku Lesson | 123620 | [123620-taiko-no-tatsujin-ongaku-lesson.json](./123620-taiko-no-tatsujin-ongaku-lesson.json) |
+| Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 1 | 356089 | [356089-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-1.json](./356089-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-1.json) |
+| Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 2 | 356090 | [356090-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-2.json](./356090-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-2.json) |
+| Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 3 | 356091 | [356091-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-3.json](./356091-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-3.json) |
+| Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 4 | 356097 | [356097-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-4.json](./356097-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-4.json) |
+| Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 5 | 356098 | [356098-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-5.json](./356098-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-5.json) |
 | Taiko no Tatsujin: Rhythm Festival - Classical Pack | 376440 | [376440-taiko-no-tatsujin-rhythm-festival-classical-pack.json](./376440-taiko-no-tatsujin-rhythm-festival-classical-pack.json) |
+| Taiko no Tatsujin: Rhythm Festival - Hatsune Miku Pack Vol. 1 | 356092 | [356092-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-1.json](./356092-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-1.json) |
+| Taiko no Tatsujin: Rhythm Festival - Hatsune Miku Pack Vol. 2 | 356093 | [356093-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-2.json](./356093-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-2.json) |
+| Taiko no Tatsujin: Rhythm Festival - Hatsune Miku Pack Vol. 3 | 356094 | [356094-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-3.json](./356094-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-3.json) |
+| Taiko no Tatsujin: Rhythm Festival - Hatsune Miku Pack Vol. 4 | 356095 | [356095-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-4.json](./356095-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-4.json) |
+| Taiko no Tatsujin: Rhythm Festival - Hatsune Miku Pack Vol. 5 | 356096 | [356096-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-5.json](./356096-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-5.json) |
 | Taiko no Tatsujin: Rhythm Festival - Kawaii Pop Idol Pack | 376441 | [376441-taiko-no-tatsujin-rhythm-festival-kawaii-pop-idol-pack.json](./376441-taiko-no-tatsujin-rhythm-festival-kawaii-pop-idol-pack.json) |
+| Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 1 | 356086 | [356086-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-1.json](./356086-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-1.json) |
+| Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 2 | 356087 | [356087-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-2.json](./356087-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-2.json) |
 | Taiko no Tatsujin: The Drum Master! | 188551 | [188551-taiko-no-tatsujin-the-drum-master.json](./188551-taiko-no-tatsujin-the-drum-master.json) |
 | Taikodom | 68016 | [68016-taikodom.json](./68016-taikodom.json) |
 | Taikou Risshiden | 37798 | [37798-taikou-risshiden.json](./37798-taikou-risshiden.json) |
@@ -282,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 3 - Shisha no Rakuen | 293903 | [293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json](./293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 4 - Shirasagi ni Aka no Hane | 296110 | [296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json](./296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json) |
 | Tantei Toki to Yukiyama Kaishi Densetsu Satsujin Jiken | 150118 | [150118-tantei-toki-to-yukiyama-kaishi-densetsu-satsujin-jiken.json](./150118-tantei-toki-to-yukiyama-kaishi-densetsu-satsujin-jiken.json) |
+| Tanteidan X | 356073 | [356073-tanteidan-x.json](./356073-tanteidan-x.json) |
 | Tantrum | 274220 | [274220-tantrum.json](./274220-tantrum.json) |
 | Tantrum 2 | 274221 | [274221-tantrum-2.json](./274221-tantrum-2.json) |
 | Táolí Dìqiú | 158203 | [158203-taoli-diqiu.json](./158203-taoli-diqiu.json) |
@@ -3072,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou The Excalibur: Mystic Arena of Reversal Spirits | 314066 | [314066-touhou-the-excalibur-mystic-arena-of-reversal-spirits.json](./314066-touhou-the-excalibur-mystic-arena-of-reversal-spirits.json) |
 | Touhou Three Noisy Fairies' Adventure: Take It Easy | 373005 | [373005-touhou-three-noisy-fairies-adventure-take-it-easy.json](./373005-touhou-three-noisy-fairies-adventure-take-it-easy.json) |
 | Touhou Witch's Night Market | 380424 | [380424-touhou-witchs-night-market.json](./380424-touhou-witchs-night-market.json) |
+| Touhou: Fearless Frogslayer | 356088 | [356088-touhou-fearless-frogslayer.json](./356088-touhou-fearless-frogslayer.json) |
 | Touhou: Heart of the Tiger | 209140 | [209140-touhou-heart-of-the-tiger.json](./209140-touhou-heart-of-the-tiger.json) |
 | Touhou: Unmei no Hoshi | 181928 | [181928-touhou-unmei-no-hoshi.json](./181928-touhou-unmei-no-hoshi.json) |
 | Touken Ranbu: Online Pocket | 194031 | [194031-touken-ranbu-online-pocket.json](./194031-touken-ranbu-online-pocket.json) |
@@ -3695,6 +3709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Mind: Nobody's Here | 228076 | [228076-twin-mind-nobodys-here.json](./228076-twin-mind-nobodys-here.json) |
 | Twin Peaks VR | 110584 | [110584-twin-peaks-vr.json](./110584-twin-peaks-vr.json) |
 | Twin Shot 2: Good & Evil | 180291 | [180291-twin-shot-2-good-and-evil.json](./180291-twin-shot-2-good-and-evil.json) |
+| Twin Soul | 356067 | [356067-twin-soul.json](./356067-twin-soul.json) |
 | Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
 | Twin Tornado | 363889 | [363889-twin-tornado.json](./363889-twin-tornado.json) |
 | TwinBee | 282650 | [282650-twinbee.json](./282650-twinbee.json) |
