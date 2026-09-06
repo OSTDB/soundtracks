@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remember, Remember | 36495 | [36495-remember-remember.json](./36495-remember-remember.json) |
 | Remembering Which Buttons Take However Long to Press | 57713 | [57713-remembering-which-buttons-take-however-long-to-press.json](./57713-remembering-which-buttons-take-however-long-to-press.json) |
 | Remembrance | 82917 | [82917-remembrance.json](./82917-remembrance.json) |
+| RememPair | 349304 | [349304-remempair.json](./349304-remempair.json) |
 | Remi | 388700 | [388700-remi.json](./388700-remi.json) |
 | Remilia's Challenge | 369571 | [369571-remilias-challenge.json](./369571-remilias-challenge.json) |
 | Reminisce | 306685 | [306685-reminisce.json](./306685-reminisce.json) |
