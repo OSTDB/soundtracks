@@ -809,6 +809,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorgon | 22411 | [22411-gorgon.json](./22411-gorgon.json) |
 | Gorgonia: A Gorgon's Tragedy | 326975 | [326975-gorgonia-a-gorgons-tragedy.json](./326975-gorgonia-a-gorgons-tragedy.json) |
 | Gori: Cuddly Carnage - Special Edition | 315867 | [315867-gori-cuddly-carnage-special-edition.json](./315867-gori-cuddly-carnage-special-edition.json) |
+| Gori: Cuddly Carnage: Catbox Skin Pack | 357268 | [357268-gori-cuddly-carnage-catbox-skin-pack.json](./357268-gori-cuddly-carnage-catbox-skin-pack.json) |
+| Gori: Cuddly Carnage: PlayTime Skin Pack | 357267 | [357267-gori-cuddly-carnage-playtime-skin-pack.json](./357267-gori-cuddly-carnage-playtime-skin-pack.json) |
 | Gorilla Smash City Attack Game | 274185 | [274185-gorilla-smash-city-attack-game.json](./274185-gorilla-smash-city-attack-game.json) |
 | Gorillaz - Escape to Plastic Beach | 66158 | [66158-gorillaz-escape-to-plastic-beach.json](./66158-gorillaz-escape-to-plastic-beach.json) |
 | Gormiti: The Lords of Nature! | 188105 | [188105-gormiti-the-lords-of-nature.json](./188105-gormiti-the-lords-of-nature.json) |
@@ -1213,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunfight Arena | 373003 | [373003-gunfight-arena.json](./373003-gunfight-arena.json) |
 | Gunfighter | 95448 | [95448-gunfighter.json](./95448-gunfighter.json) |
 | Gungrave G.O.R.E: Blood Heat | 370130 | [370130-gungrave-g-o-r-e-blood-heat.json](./370130-gungrave-g-o-r-e-blood-heat.json) |
+| Gungrave G.O.R.E: Street Grave | 357271 | [357271-gungrave-g-o-r-e-street-grave.json](./357271-gungrave-g-o-r-e-street-grave.json) |
 | Gungrave VR: Loaded Coffin Edition | 166230 | [166230-gungrave-vr-loaded-coffin-edition.json](./166230-gungrave-vr-loaded-coffin-edition.json) |
 | Gunheart | 36615 | [36615-gunheart.json](./36615-gunheart.json) |
 | Gunhed: Taikai | 42025 | [42025-gunhed-taikai.json](./42025-gunhed-taikai.json) |
