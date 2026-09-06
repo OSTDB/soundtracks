@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Manager | 95215 | [95215-idol-manager.json](./95215-idol-manager.json) |
 | Idol Showdown | 243747 | [243747-idol-showdown.json](./243747-idol-showdown.json) |
 | Idol Tantei You&My | 246105 | [246105-idol-tantei-you-and-my.json](./246105-idol-tantei-you-and-my.json) |
+| Idolz | 348248 | [348248-idolz.json](./348248-idolz.json) |
 | Idtipsa | 201838 | [201838-idtipsa.json](./201838-idtipsa.json) |
 | Idun | 237048 | [237048-idun.json](./237048-idun.json) |
 | Idyllic | 253042 | [253042-idyllic.json](./253042-idyllic.json) |
@@ -326,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Passing | 125443 | [125443-in-passing.json](./125443-in-passing.json) |
 | In Search of Light | 182522 | [182522-in-search-of-light.json](./182522-in-search-of-light.json) |
 | In Season | 340755 | [340755-in-season.json](./340755-in-season.json) |
+| In Silico | 348241 | [348241-in-silico.json](./348241-in-silico.json) |
 | In Somnio | 130382 | [130382-in-somnio.json](./130382-in-somnio.json) |
 | In Sync: 2 Fun Balls | 208028 | [208028-in-sync-2-fun-balls.json](./208028-in-sync-2-fun-balls.json) |
 | In the alley: Our hometown | 221415 | [221415-in-the-alley-our-hometown.json](./221415-in-the-alley-our-hometown.json) |
@@ -727,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isane Insects: The Inception | 53255 | [53255-isane-insects-the-inception.json](./53255-isane-insects-the-inception.json) |
 | Iscoot | 392153 | [392153-iscoot.json](./392153-iscoot.json) |
 | Isekai HKV | 388726 | [388726-isekai-hkv.json](./388726-isekai-hkv.json) |
+| Isekai Mining Defense | 348229 | [348229-isekai-mining-defense.json](./348229-isekai-mining-defense.json) |
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Fia Edition | 219277 | [219277-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-fia-edition.json](./219277-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-fia-edition.json) |
 | Isekai Slowlife | 402894 | [402894-isekai-slowlife.json](./402894-isekai-slowlife.json) |
 | Isekai x Isekai: Tsugi ha Dono Sakuhin wo | 367445 | [367445-isekai-x-isekai-tsugi-ha-dono-sakuhin-wo.json](./367445-isekai-x-isekai-tsugi-ha-dono-sakuhin-wo.json) |
