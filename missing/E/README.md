@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | E Nikki | 201836 | [201836-e-nikki.json](./201836-e-nikki.json) |
+| E-Reader 5-Card Sample Pack | 355538 | [355538-e-reader-5-card-sample-pack.json](./355538-e-reader-5-card-sample-pack.json) |
 | E.S.P. | 145658 | [145658-e-s-p.json](./145658-e-s-p.json) |
 | E.S.S. Mega | 84246 | [84246-e-s-s-mega.json](./84246-e-s-s-mega.json) |
 | E.T. the Extra-Terrestrial Fixed | 335114 | [335114-e-t-the-extra-terrestrial-fixed.json](./335114-e-t-the-extra-terrestrial-fixed.json) |
@@ -398,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ender Theater | 333381 | [333381-ender-theater.json](./333381-ender-theater.json) |
 | Enderal: The Shards of Order | 249452 | [249452-enderal-the-shards-of-order.json](./249452-enderal-the-shards-of-order.json) |
 | Endica VII: The Dream King | 35924 | [35924-endica-vii-the-dream-king.json](./35924-endica-vii-the-dream-king.json) |
+| Ending It Today | 355536 | [355536-ending-it-today.json](./355536-ending-it-today.json) |
 | Ending Way | 189198 | [189198-ending-way.json](./189198-ending-way.json) |
 | Endings | 165668 | [165668-endings.json](./165668-endings.json) |
 | Endless Battle | 109664 | [109664-endless-battle.json](./109664-endless-battle.json) |
@@ -499,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epigenesis | 16576 | [16576-epigenesis.json](./16576-epigenesis.json) |
 | Epoch | 16939 | [16939-epoch.json](./16939-epoch.json) |
 | Epoch Reset | 380414 | [380414-epoch-reset.json](./380414-epoch-reset.json) |
+| Epos 11 | 355525 | [355525-epos-11.json](./355525-epos-11.json) |
 | Epsilon | 17391 | [17391-epsilon.json](./17391-epsilon.json) |
 | Epsilon wars | 167296 | [167296-epsilon-wars.json](./167296-epsilon-wars.json) |
 | Equilibrium Ocean | 107161 | [107161-equilibrium-ocean.json](./107161-equilibrium-ocean.json) |
