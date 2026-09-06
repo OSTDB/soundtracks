@@ -3803,6 +3803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropix 2: Quest for the Golden Banana | 53859 | [53859-tropix-2-quest-for-the-golden-banana.json](./53859-tropix-2-quest-for-the-golden-banana.json) |
 | TrotMania IV: Euphorius | 313471 | [313471-trotmania-iv-euphorius.json](./313471-trotmania-iv-euphorius.json) |
 | TrotMania: Aeternum Obscurum | 313470 | [313470-trotmania-aeternum-obscurum.json](./313470-trotmania-aeternum-obscurum.json) |
+| Trouble in Warsaw | 326069 | [326069-trouble-in-warsaw.json](./326069-trouble-in-warsaw.json) |
 | Trouble Inn: Jonny's Room | 163949 | [163949-trouble-inn-jonnys-room.json](./163949-trouble-inn-jonnys-room.json) |
 | Troubles in Silesia Country | 250013 | [250013-troubles-in-silesia-country.json](./250013-troubles-in-silesia-country.json) |
 | Trouserheart | 61113 | [61113-trouserheart.json](./61113-trouserheart.json) |
