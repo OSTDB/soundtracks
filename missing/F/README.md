@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flats Full of Cats: Stars & Oysters | 379387 | [379387-flats-full-of-cats-stars-and-oysters.json](./379387-flats-full-of-cats-stars-and-oysters.json) |
 | Flavor Favor | 248905 | [248905-flavor-favor.json](./248905-flavor-favor.json) |
 | Flawless | 219790 | [219790-flawless.json](./219790-flawless.json) |
+| Flea War | 334679 | [334679-flea-war.json](./334679-flea-war.json) |
 | Flecto | 407325 | [407325-flecto.json](./407325-flecto.json) |
 | Flee or Be: Chapter One - Lurking Alone | 305535 | [305535-flee-or-be-chapter-one-lurking-alone.json](./305535-flee-or-be-chapter-one-lurking-alone.json) |
 | Flee the Backrooms | 238744 | [238744-flee-the-backrooms.json](./238744-flee-the-backrooms.json) |
