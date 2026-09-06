@@ -744,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayority | 254169 | [254169-mayority.json](./254169-mayority.json) |
 | Maze | 220340 | [220340-maze.json](./220340-maze.json) |
 | Maze | 360565 | [360565-maze.json](./360565-maze.json) |
+| Maze Company | 326093 | [326093-maze-company.json](./326093-maze-company.json) |
 | Maze Escape | 345524 | [345524-maze-escape.json](./345524-maze-escape.json) |
 | Maze Forever | 233249 | [233249-maze-forever.json](./233249-maze-forever.json) |
 | Maze in Your Mind | 351598 | [351598-maze-in-your-mind.json](./351598-maze-in-your-mind.json) |
@@ -1493,8 +1494,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Basketball | 194630 | [194630-mini-basketball.json](./194630-mini-basketball.json) |
 | Mini City: Mayhem | 319363 | [319363-mini-city-mayhem.json](./319363-mini-city-mayhem.json) |
 | Mini Cozy Room: Lo-Fi | 338702 | [338702-mini-cozy-room-lo-fi.json](./338702-mini-cozy-room-lo-fi.json) |
+| Mini Crawler | 326077 | [326077-mini-crawler.json](./326077-mini-crawler.json) |
 | Mini Drift Car | 337460 | [337460-mini-drift-car.json](./337460-mini-drift-car.json) |
 | Mini Drift Car: All Cars Key | 337461 | [337461-mini-drift-car-all-cars-key.json](./337461-mini-drift-car-all-cars-key.json) |
+| Mini Dungeon | 326041 | [326041-mini-dungeon.json](./326041-mini-dungeon.json) |
 | Mini Football Cup | 334101 | [334101-mini-football-cup.json](./334101-mini-football-cup.json) |
 | Mini Golf 3D | 117753 | [117753-mini-golf-3d.json](./117753-mini-golf-3d.json) |
 | Mini Golf Championship | 204705 | [204705-mini-golf-championship.json](./204705-mini-golf-championship.json) |
