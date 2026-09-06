@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Mojo: Redux | 10020 | [10020-bad-mojo-redux.json](./10020-bad-mojo-redux.json) |
 | Bad Pad | 31579 | [31579-bad-pad.json](./31579-bad-pad.json) |
 | Bad Sector 3 | 371265 | [371265-bad-sector-3.json](./371265-bad-sector-3.json) |
+| Bad Teams | 348806 | [348806-bad-teams.json](./348806-bad-teams.json) |
 | Bad Way | 189204 | [189204-bad-way.json](./189204-bad-way.json) |
 | Bad Weekend | 273135 | [273135-bad-weekend.json](./273135-bad-weekend.json) |
 | Bada Space Station | 146355 | [146355-bada-space-station.json](./146355-bada-space-station.json) |
