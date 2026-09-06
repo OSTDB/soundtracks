@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Aliens | 263223 | [263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json](./263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json) |
 | Jigsaw Puzzle: BDSM Room | 203536 | [203536-jigsaw-puzzle-bdsm-room.json](./203536-jigsaw-puzzle-bdsm-room.json) |
 | Jigsaw Puzzle: Futanari Threesome | 220834 | [220834-jigsaw-puzzle-futanari-threesome.json](./220834-jigsaw-puzzle-futanari-threesome.json) |
+| Jigsaw Puzzle: New Year Collection | 351599 | [351599-jigsaw-puzzle-new-year-collection.json](./351599-jigsaw-puzzle-new-year-collection.json) |
 | Jigsaw Puzzle. Women's Day | 105903 | [105903-jigsaw-puzzle-womens-day.json](./105903-jigsaw-puzzle-womens-day.json) |
 | Jigsaw Tetra | 147981 | [147981-jigsaw-tetra.json](./147981-jigsaw-tetra.json) |
 | Jigsaw Together | 274752 | [274752-jigsaw-together.json](./274752-jigsaw-together.json) |
@@ -368,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpbound | 365097 | [365097-jumpbound.json](./365097-jumpbound.json) |
 | Jumpcut Jigsaws | 407311 | [407311-jumpcut-jigsaws.json](./407311-jumpcut-jigsaws.json) |
 | Jumper Three | 79910 | [79910-jumper-three.json](./79910-jumper-three.json) |
+| Jumper's Doom | 351634 | [351634-jumpers-doom.json](./351634-jumpers-doom.json) |
 | Jumpers League | 329960 | [329960-jumpers-league.json](./329960-jumpers-league.json) |
 | Jumphobia | 55946 | [55946-jumphobia.json](./55946-jumphobia.json) |
 | Jumping Flash! | 7432 | [7432-jumping-flash.json](./7432-jumping-flash.json) |
@@ -465,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just. Press. The Button. | 396911 | [396911-just-press-the-button.json](./396911-just-press-the-button.json) |
 | JustBox | 340782 | [340782-justbox.json](./340782-justbox.json) |
 | JustHammers | 341865 | [341865-justhammers.json](./341865-justhammers.json) |
+| Justice Became Prey | 351596 | [351596-justice-became-prey.json](./351596-justice-became-prey.json) |
 | Justice Fighting Force | 206948 | [206948-justice-fighting-force.json](./206948-justice-fighting-force.json) |
 | Justice Project | 398968 | [398968-justice-project.json](./398968-justice-project.json) |
 | Justice Xwar Online 2 | 117712 | [117712-justice-xwar-online-2.json](./117712-justice-xwar-online-2.json) |
