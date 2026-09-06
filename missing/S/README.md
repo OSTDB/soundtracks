@@ -3151,6 +3151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlab | 258721 | [258721-starlab.json](./258721-starlab.json) |
 | Starleaf | 415960 | [415960-starleaf.json](./415960-starleaf.json) |
 | Starless | 204092 | [204092-starless.json](./204092-starless.json) |
+| Starless Abyss | 319573 | [319573-starless-abyss.json](./319573-starless-abyss.json) |
 | Starlight Attack | 198520 | [198520-starlight-attack.json](./198520-starlight-attack.json) |
 | Starlight Explorers | 179204 | [179204-starlight-explorers.json](./179204-starlight-explorers.json) |
 | Starlight Mining Company | 372998 | [372998-starlight-mining-company.json](./372998-starlight-mining-company.json) |
