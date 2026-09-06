@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Jetpack | 26720 | [26720-marble-jetpack.json](./26720-marble-jetpack.json) |
 | Marble Machine | 58221 | [58221-marble-machine.json](./58221-marble-machine.json) |
 | Marble Man: Marble Madness II | 125477 | [125477-marble-man-marble-madness-ii.json](./125477-marble-man-marble-madness-ii.json) |
+| Marble Mash | 337104 | [337104-marble-mash.json](./337104-marble-mash.json) |
 | Marble Meadows | 291222 | [291222-marble-meadows.json](./291222-marble-meadows.json) |
 | Marble Monster | 253025 | [253025-marble-monster.json](./253025-marble-monster.json) |
 | Marble Mountain | 19028 | [19028-marble-mountain.json](./19028-marble-mountain.json) |
@@ -2048,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaic | 18929 | [18929-mosaic.json](./18929-mosaic.json) |
 | Mosaic Chronicles Deluxe: Complete + | 328837 | [328837-mosaic-chronicles-deluxe-complete.json](./328837-mosaic-chronicles-deluxe-complete.json) |
 | Mosaic Chronicles Deluxe: Ultimate Edition | 243366 | [243366-mosaic-chronicles-deluxe-ultimate-edition.json](./243366-mosaic-chronicles-deluxe-ultimate-edition.json) |
+| Mosaic of the Pharaohs | 337076 | [337076-mosaic-of-the-pharaohs.json](./337076-mosaic-of-the-pharaohs.json) |
 | Mosaic Quiz | 378814 | [378814-mosaic-quiz.json](./378814-mosaic-quiz.json) |
 | Mosaic Your Crush! | 161394 | [161394-mosaic-your-crush.json](./161394-mosaic-your-crush.json) |
 | Mosaics Wall Deco | 376473 | [376473-mosaics-wall-deco.json](./376473-mosaics-wall-deco.json) |
@@ -2181,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Crab 2 | 57145 | [57145-mr-crab-2.json](./57145-mr-crab-2.json) |
 | Mr. Do! | 365697 | [365697-mr-do.json](./365697-mr-do.json) |
 | Mr. Do!'s Castle | 24408 | [24408-mr-do-s-castle.json](./24408-mr-do-s-castle.json) |
+| Mr. Elevator | 337088 | [337088-mr-elevator.json](./337088-mr-elevator.json) |
 | Mr. Fishbones | 185118 | [185118-mr-fishbones.json](./185118-mr-fishbones.json) |
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
 | Mr. Luma's Cooking Adventure | 234335 | [234335-mr-lumas-cooking-adventure.json](./234335-mr-lumas-cooking-adventure.json) |
@@ -2199,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Rightaway | 341341 | [341341-mr-rightaway.json](./341341-mr-rightaway.json) |
 | Mr. Robot and His Robot Factory | 23900 | [23900-mr-robot-and-his-robot-factory.json](./23900-mr-robot-and-his-robot-factory.json) |
 | Mr. Setam: Lady Killer | 61118 | [61118-mr-setam-lady-killer.json](./61118-mr-setam-lady-killer.json) |
+| Mr. Shorty | 337074 | [337074-mr-shorty.json](./337074-mr-shorty.json) |
 | Mr. Steal Yo Wifi | 107200 | [107200-mr-steal-yo-wifi.json](./107200-mr-steal-yo-wifi.json) |
 | Mr. Supershot | 274736 | [274736-mr-supershot.json](./274736-mr-supershot.json) |
 | Mr. Whiskers Bubbles | 385088 | [385088-mr-whiskers-bubbles.json](./385088-mr-whiskers-bubbles.json) |
