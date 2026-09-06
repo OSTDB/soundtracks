@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On the Wind | 233220 | [233220-on-the-wind.json](./233220-on-the-wind.json) |
 | On Thy Knees | 393483 | [393483-on-thy-knees.json](./393483-on-thy-knees.json) |
 | On-looker | 129203 | [129203-on-looker.json](./129203-on-looker.json) |
+| OnAir Airline Manager | 327816 | [327816-onair-airline-manager.json](./327816-onair-airline-manager.json) |
 | Onaji | 174335 | [174335-onaji.json](./174335-onaji.json) |
 | Onamae Battle | 331886 | [331886-onamae-battle.json](./331886-onamae-battle.json) |
 | Onanigan | 181383 | [181383-onanigan.json](./181383-onanigan.json) |
@@ -772,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overhours | 253599 | [253599-overhours.json](./253599-overhours.json) |
 | Overkill | 272013 | [272013-overkill.json](./272013-overkill.json) |
 | Overlook: Local multiplayer game up to 16 players | 78112 | [78112-overlook-local-multiplayer-game-up-to-16-players.json](./78112-overlook-local-multiplayer-game-up-to-16-players.json) |
+| Overmind | 327180 | [327180-overmind.json](./327180-overmind.json) |
 | OverNight | 207512 | [207512-overnight.json](./207512-overnight.json) |
 | Overpass 2: Deluxe Edition | 269331 | [269331-overpass-2-deluxe-edition.json](./269331-overpass-2-deluxe-edition.json) |
 | Overrun | 184083 | [184083-overrun.json](./184083-overrun.json) |
@@ -802,4 +804,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owyn's Adventure | 116482 | [116482-owyns-adventure.json](./116482-owyns-adventure.json) |
 | Oxxonian | 74424 | [74424-oxxonian.json](./74424-oxxonian.json) |
 | Oxyd Extra | 93036 | [93036-oxyd-extra.json](./93036-oxyd-extra.json) |
+| Ozonia 2 | 327203 | [327203-ozonia-2.json](./327203-ozonia-2.json) |
 | Ozymandias: Aegean Sea | 235986 | [235986-ozymandias-aegean-sea.json](./235986-ozymandias-aegean-sea.json) |
