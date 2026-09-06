@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Hive | 373523 | [373523-echoes-of-the-hive.json](./373523-echoes-of-the-hive.json) |
 | Echoes of the Past | 168391 | [168391-echoes-of-the-past.json](./168391-echoes-of-the-past.json) |
 | Echoes of the Scourge | 398979 | [398979-echoes-of-the-scourge.json](./398979-echoes-of-the-scourge.json) |
+| Echoes of Undeath | 355019 | [355019-echoes-of-undeath.json](./355019-echoes-of-undeath.json) |
 | Echoes of Vision | 321776 | [321776-echoes-of-vision.json](./321776-echoes-of-vision.json) |
 | Echoes of You | 252365 | [252365-echoes-of-you.json](./252365-echoes-of-you.json) |
 | Echoshift | 251227 | [251227-echoshift.json](./251227-echoshift.json) |
@@ -193,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eight Ball | 93592 | [93592-eight-ball.json](./93592-eight-ball.json) |
 | Eighth Era | 329967 | [329967-eighth-era.json](./329967-eighth-era.json) |
 | Eikou no Saint Andrews | 3484 | [3484-eikou-no-saint-andrews.json](./3484-eikou-no-saint-andrews.json) |
+| Eilean Mor: The Lost Keepers | 355026 | [355026-eilean-mor-the-lost-keepers.json](./355026-eilean-mor-the-lost-keepers.json) |
 | Ein Fall für TKKG: Katjas Geheimnis | 127995 | [127995-ein-fall-fur-tkkg-katjas-geheimnis.json](./127995-ein-fall-fur-tkkg-katjas-geheimnis.json) |
 | Eisenwald: Blood of November | 25607 | [25607-eisenwald-blood-of-november.json](./25607-eisenwald-blood-of-november.json) |
 | Either Eye | 389442 | [389442-either-eye.json](./389442-either-eye.json) |
@@ -482,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entropy | 188667 | [188667-entropy.json](./188667-entropy.json) |
 | Entropy | 363898 | [363898-entropy.json](./363898-entropy.json) |
 | Enyla X | 149598 | [149598-enyla-x.json](./149598-enyla-x.json) |
+| Eona | 355025 | [355025-eona.json](./355025-eona.json) |
 | Epejsodion Dodgeball Defense | 166748 | [166748-epejsodion-dodgeball-defense.json](./166748-epejsodion-dodgeball-defense.json) |
 | Epi-Derick | 372481 | [372481-epi-derick.json](./372481-epi-derick.json) |
 | Epic Battle Fantasy Collection | 199653 | [199653-epic-battle-fantasy-collection.json](./199653-epic-battle-fantasy-collection.json) |
