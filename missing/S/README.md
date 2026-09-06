@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seawolf + Missile | 139470 | [139470-seawolf-missile.json](./139470-seawolf-missile.json) |
 | SeaWorld Adventure Park: Shamu's Deep Sea Adventures | 50565 | [50565-seaworld-adventure-park-shamus-deep-sea-adventures.json](./50565-seaworld-adventure-park-shamus-deep-sea-adventures.json) |
 | SeaWorld Adventure Parks Tycoon | 73288 | [73288-seaworld-adventure-parks-tycoon.json](./73288-seaworld-adventure-parks-tycoon.json) |
+| Sebastian's Quest | 329038 | [329038-sebastians-quest.json](./329038-sebastians-quest.json) |
 | Sebevrah | 377067 | [377067-sebevrah.json](./377067-sebevrah.json) |
 | Second Final | 120381 | [120381-second-final.json](./120381-second-final.json) |
 | Second Novel: Kanojo no Natsu, 15fun no Kioku | 138805 | [138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json](./138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json) |
@@ -1920,6 +1921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Fart Away: Jam Edition | 255391 | [255391-so-fart-away-jam-edition.json](./255391-so-fart-away-jam-edition.json) |
 | So Many Words | 308548 | [308548-so-many-words.json](./308548-so-many-words.json) |
 | Soapy Tales | 392763 | [392763-soapy-tales.json](./392763-soapy-tales.json) |
+| Sobreviva Ziggy! | 329012 | [329012-sobreviva-ziggy.json](./329012-sobreviva-ziggy.json) |
 | Soccer | 346058 | [346058-soccer.json](./346058-soccer.json) |
 | Soccer America International Cup | 43307 | [43307-soccer-america-international-cup.json](./43307-soccer-america-international-cup.json) |
 | Soccer Boss | 190209 | [190209-soccer-boss.json](./190209-soccer-boss.json) |
@@ -1937,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer RPG: Become the coach for the national team! | 94259 | [94259-soccer-rpg-become-the-coach-for-the-national-team.json](./94259-soccer-rpg-become-the-coach-for-the-national-team.json) |
 | Soccer Showdown 3 | 233735 | [233735-soccer-showdown-3.json](./233735-soccer-showdown-3.json) |
 | Soccer Star Manager | 108467 | [108467-soccer-star-manager.json](./108467-soccer-star-manager.json) |
+| Soccer VR | 329004 | [329004-soccer-vr.json](./329004-soccer-vr.json) |
 | Soccer VR Football | 200169 | [200169-soccer-vr-football.json](./200169-soccer-vr-football.json) |
 | Soccer Wind Shot | 233736 | [233736-soccer-wind-shot.json](./233736-soccer-wind-shot.json) |
 | Soccerholix | 93577 | [93577-soccerholix.json](./93577-soccerholix.json) |
@@ -2314,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Rush | 340200 | [340200-soul-rush.json](./340200-soul-rush.json) |
 | Soul Slayers | 145650 | [145650-soul-slayers.json](./145650-soul-slayers.json) |
 | Soul Smith of the Kingdom | 99019 | [99019-soul-smith-of-the-kingdom.json](./99019-soul-smith-of-the-kingdom.json) |
+| Soul Survivor | 329001 | [329001-soul-survivor.json](./329001-soul-survivor.json) |
 | Soul Symphony | 196878 | [196878-soul-symphony.json](./196878-soul-symphony.json) |
 | Soul's Spectrum: Awakening | 267110 | [267110-souls-spectrum-awakening.json](./267110-souls-spectrum-awakening.json) |
 | SoulBound | 215932 | [215932-soulbound.json](./215932-soulbound.json) |
@@ -2565,6 +2569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speechless | 166736 | [166736-speechless.json](./166736-speechless.json) |
 | Speed Bike Racing | 250657 | [250657-speed-bike-racing.json](./250657-speed-bike-racing.json) |
 | Speed Blazers | 38989 | [38989-speed-blazers.json](./38989-speed-blazers.json) |
+| Speed Climb | 329014 | [329014-speed-climb.json](./329014-speed-climb.json) |
 | Speed Dating for Ghosts | 75799 | [75799-speed-dating-for-ghosts.json](./75799-speed-dating-for-ghosts.json) |
 | Speed Demons 2 | 330564 | [330564-speed-demons-2.json](./330564-speed-demons-2.json) |
 | Speed Drifters | 193998 | [193998-speed-drifters.json](./193998-speed-drifters.json) |
@@ -2803,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sproing | 329401 | [329401-sproing.json](./329401-sproing.json) |
 | Sprout Crafter | 329587 | [329587-sprout-crafter.json](./329587-sprout-crafter.json) |
 | Sprout Lands | 193481 | [193481-sprout-lands.json](./193481-sprout-lands.json) |
+| Sprout Valley Big Pack | 328993 | [328993-sprout-valley-big-pack.json](./328993-sprout-valley-big-pack.json) |
 | Sprunki Block Puzzle | 326982 | [326982-sprunki-block-puzzle.json](./326982-sprunki-block-puzzle.json) |
 | Spud Customs | 324090 | [324090-spud-customs.json](./324090-spud-customs.json) |
 | Spuds | 54421 | [54421-spuds.json](./54421-spuds.json) |
@@ -2900,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Aquarium | 348803 | [348803-star-aquarium.json](./348803-star-aquarium.json) |
 | Star Archer | 337982 | [337982-star-archer.json](./337982-star-archer.json) |
 | Star Arthur Densetsu I: Wakusei Mephius | 65513 | [65513-star-arthur-densetsu-i-wakusei-mephius.json](./65513-star-arthur-densetsu-i-wakusei-mephius.json) |
+| Star Beads | 329007 | [329007-star-beads.json](./329007-star-beads.json) |
 | Star Cadre: Combat Class | 396216 | [396216-star-cadre-combat-class.json](./396216-star-cadre-combat-class.json) |
 | Star Castle PC | 95420 | [95420-star-castle-pc.json](./95420-star-castle-pc.json) |
 | Star Catcher: Heart Master | 362272 | [362272-star-catcher-heart-master.json](./362272-star-catcher-heart-master.json) |
@@ -3005,6 +3012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Galactic Battlegrounds Saga | 35596 | [35596-star-wars-galactic-battlegrounds-saga.json](./35596-star-wars-galactic-battlegrounds-saga.json) |
 | Star Wars: Heritage Pack | 200175 | [200175-star-wars-heritage-pack.json](./200175-star-wars-heritage-pack.json) |
 | Star Wars: Heritage Pack | 247756 | [247756-star-wars-heritage-pack.json](./247756-star-wars-heritage-pack.json) |
+| Star Wars: Hunters - Frosty Nerf Herder Cosmetic Pack | 328991 | [328991-star-wars-hunters-frosty-nerf-herder-cosmetic-pack.json](./328991-star-wars-hunters-frosty-nerf-herder-cosmetic-pack.json) |
 | Star Wars: Hunters - Season 4: Survival Instinct | 347673 | [347673-star-wars-hunters-season-4-survival-instinct.json](./347673-star-wars-hunters-season-4-survival-instinct.json) |
 | Star Wars: Hunters - Season 5: Scum & Villainy | 347677 | [347677-star-wars-hunters-season-5-scum-and-villainy.json](./347677-star-wars-hunters-season-5-scum-and-villainy.json) |
 | Star Wars: Puzzle Droids | 97355 | [97355-star-wars-puzzle-droids.json](./97355-star-wars-puzzle-droids.json) |
