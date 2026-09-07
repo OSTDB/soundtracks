@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oompas Outrageous Rush | 373556 | [373556-oompas-outrageous-rush.json](./373556-oompas-outrageous-rush.json) |
 | Ooo | 181897 | [181897-ooo.json](./181897-ooo.json) |
 | Ooohh, Big Stretch!!! | 341882 | [341882-ooohh-big-stretch.json](./341882-ooohh-big-stretch.json) |
+| Ooparts | 269600 | [269600-ooparts.json](./269600-ooparts.json) |
 | Oops, I said Yes?! | 239870 | [239870-oops-i-said-yes.json](./239870-oops-i-said-yes.json) |
 | Oops! All Gyarus! | 294991 | [294991-oops-all-gyarus.json](./294991-oops-all-gyarus.json) |
 | Oort Online | 9551 | [9551-oort-online.json](./9551-oort-online.json) |
