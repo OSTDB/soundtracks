@@ -436,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawapuro Stadium | 63285 | [63285-pawapuro-stadium.json](./63285-pawapuro-stadium.json) |
 | Pawapuro-kun Pocket 12 | 229923 | [229923-pawapuro-kun-pocket-12.json](./229923-pawapuro-kun-pocket-12.json) |
 | Pawapuro-kun Pocket R | 152368 | [152368-pawapuro-kun-pocket-r.json](./152368-pawapuro-kun-pocket-r.json) |
+| Pawar | 273953 | [273953-pawar.json](./273953-pawar.json) |
 | Pawfect Cat Mansion | 314862 | [314862-pawfect-cat-mansion.json](./314862-pawfect-cat-mansion.json) |
 | Pawn of the Dead | 107909 | [107909-pawn-of-the-dead.json](./107909-pawn-of-the-dead.json) |
 | Pawn Planet: First Sales | 306351 | [306351-pawn-planet-first-sales.json](./306351-pawn-planet-first-sales.json) |
