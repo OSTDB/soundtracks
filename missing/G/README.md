@@ -925,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grabbers in the Woods | 294426 | [294426-grabbers-in-the-woods.json](./294426-grabbers-in-the-woods.json) |
 | Grabitoons | 231049 | [231049-grabitoons.json](./231049-grabitoons.json) |
 | Grace Online | 248302 | [248302-grace-online.json](./248302-grace-online.json) |
+| Gracia | 301844 | [301844-gracia.json](./301844-gracia.json) |
 | Gradius | 213191 | [213191-gradius.json](./213191-gradius.json) |
 | Gradius III and IV | 98976 | [98976-gradius-iii-and-iv.json](./98976-gradius-iii-and-iv.json) |
 | Graffiti Simulator | 326418 | [326418-graffiti-simulator.json](./326418-graffiti-simulator.json) |
@@ -997,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grant of God | 247180 | [247180-grant-of-god.json](./247180-grant-of-god.json) |
 | Graphic Mahjong | 91959 | [91959-graphic-mahjong.json](./91959-graphic-mahjong.json) |
 | Graphic Tower Defense | 348767 | [348767-graphic-tower-defense.json](./348767-graphic-tower-defense.json) |
+| Grapple Flow VR | 301826 | [301826-grapple-flow-vr.json](./301826-grapple-flow-vr.json) |
 | Grapple Gal | 219804 | [219804-grapple-gal.json](./219804-grapple-gal.json) |
 | Grapple Gum | 254150 | [254150-grapple-gum.json](./254150-grapple-gum.json) |
 | Grapple Gunners | 219805 | [219805-grapple-gunners.json](./219805-grapple-gunners.json) |
