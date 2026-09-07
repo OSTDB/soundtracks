@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accolade's Comics featuring Steve Keene Thrillseeker | 37156 | [37156-accolades-comics-featuring-steve-keene-thrillseeker.json](./37156-accolades-comics-featuring-steve-keene-thrillseeker.json) |
 | Accounting | 25251 | [25251-accounting.json](./25251-accounting.json) |
 | Accurate Adjacent Ballistics Simulator | 247783 | [247783-accurate-adjacent-ballistics-simulator.json](./247783-accurate-adjacent-ballistics-simulator.json) |
+| Accurate Shot | 288743 | [288743-accurate-shot.json](./288743-accurate-shot.json) |
 | Accuwar | 76632 | [76632-accuwar.json](./76632-accuwar.json) |
 | Ace | 301591 | [301591-ace.json](./301591-ace.json) |
 | Ace Angler | 292017 | [292017-ace-angler.json](./292017-ace-angler.json) |
@@ -437,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Bass | 43937 | [43937-action-bass.json](./43937-action-bass.json) |
 | Action Biker Starring Clumsy Colin | 45338 | [45338-action-biker-starring-clumsy-colin.json](./45338-action-biker-starring-clumsy-colin.json) |
 | Action Card Football | 109662 | [109662-action-card-football.json](./109662-action-card-football.json) |
+| Action Fubuki | 288744 | [288744-action-fubuki.json](./288744-action-fubuki.json) |
 | Action Games Bundle (5 in 1) | 231074 | [231074-action-games-bundle-5-in-1.json](./231074-action-games-bundle-5-in-1.json) |
 | Action Hero | 66714 | [66714-action-hero.json](./66714-action-hero.json) |
 | Action Mahjong | 29871 | [29871-action-mahjong.json](./29871-action-mahjong.json) |
@@ -566,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial Austen | 232175 | [232175-aerial-austen.json](./232175-aerial-austen.json) |
 | Aerial Life | 147445 | [147445-aerial-life.json](./147445-aerial-life.json) |
 | Aerial_Knight's We Never Yield | 290947 | [290947-aerial-knights-we-never-yield.json](./290947-aerial-knights-we-never-yield.json) |
+| Aeris | 288745 | [288745-aeris.json](./288745-aeris.json) |
 | Aero Attack: Retro Space Shooter | 115715 | [115715-aero-attack-retro-space-shooter.json](./115715-aero-attack-retro-space-shooter.json) |
 | Aero Cosmos | 335094 | [335094-aero-cosmos.json](./335094-aero-cosmos.json) |
 | Aero Fighters | 306980 | [306980-aero-fighters.json](./306980-aero-fighters.json) |
@@ -650,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afternoon Frontline | 414319 | [414319-afternoon-frontline.json](./414319-afternoon-frontline.json) |
 | Afterslave | 210857 | [210857-afterslave.json](./210857-afterslave.json) |
 | Aftertime | 211420 | [211420-aftertime.json](./211420-aftertime.json) |
+| Afterworld | 288746 | [288746-afterworld.json](./288746-afterworld.json) |
 | AfterZoom | 84884 | [84884-afterzoom.json](./84884-afterzoom.json) |
 | Again | 117713 | [117713-again.json](./117713-again.json) |
 | Again | 177548 | [177548-again.json](./177548-again.json) |
@@ -778,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim & Shoot | 358841 | [358841-aim-and-shoot.json](./358841-aim-and-shoot.json) |
 | Aim/Flash Trainer | 404837 | [404837-aim-flash-trainer.json](./404837-aim-flash-trainer.json) |
 | Aimee's Cafe | 266520 | [266520-aimees-cafe.json](./266520-aimees-cafe.json) |
+| AimRogue | 288747 | [288747-aimrogue.json](./288747-aimrogue.json) |
 | AionGuard | 94732 | [94732-aionguard.json](./94732-aionguard.json) |
 | Air | 270385 | [270385-air.json](./270385-air.json) |
 | Air | 270403 | [270403-air.json](./270403-air.json) |
@@ -865,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akcionář II | 391053 | [391053-akcionar-ii.json](./391053-akcionar-ii.json) |
 | Akechi to Iu Otoko: A Danshaku-tei Satsujin Jiken | 340395 | [340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json](./340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json) |
 | Aker Fern | 143726 | [143726-aker-fern.json](./143726-aker-fern.json) |
+| AkeriaTD | 288749 | [288749-akeriatd.json](./288749-akeriatd.json) |
 | Akiba's Beat | 19465 | [19465-akibas-beat.json](./19465-akibas-beat.json) |
 | Akiba's Trip: Undead & Undressed | 7268 | [7268-akibas-trip-undead-and-undressed.json](./7268-akibas-trip-undead-and-undressed.json) |
 | Akin | 32403 | [32403-akin.json](./32403-akin.json) |
@@ -896,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alaska: An Endless Night | 350429 | [350429-alaska-an-endless-night.json](./350429-alaska-an-endless-night.json) |
 | Alba: A Wildlife Adventure | 135919 | [135919-alba-a-wildlife-adventure.json](./135919-alba-a-wildlife-adventure.json) |
 | Albert Odyssey 2: Jashin no Taidou | 38346 | [38346-albert-odyssey-2-jashin-no-taidou.json](./38346-albert-odyssey-2-jashin-no-taidou.json) |
+| Alcatraz | 288748 | [288748-alcatraz.json](./288748-alcatraz.json) |
 | Alcatraz: VR Escape Room | 29938 | [29938-alcatraz-vr-escape-room.json](./29938-alcatraz-vr-escape-room.json) |
 | Alcazar: The Forgotten Fortress | 12248 | [12248-alcazar-the-forgotten-fortress.json](./12248-alcazar-the-forgotten-fortress.json) |
 | Alchemia | 117032 | [117032-alchemia.json](./117032-alchemia.json) |
@@ -909,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy Dungeon | 250656 | [250656-alchemy-dungeon.json](./250656-alchemy-dungeon.json) |
 | Alchemy Mastery | 302917 | [302917-alchemy-mastery.json](./302917-alchemy-mastery.json) |
 | Alchemy of Love | 214160 | [214160-alchemy-of-love.json](./214160-alchemy-of-love.json) |
+| Alchemy of the Earth | 288750 | [288750-alchemy-of-the-earth.json](./288750-alchemy-of-the-earth.json) |
 | Alchemy Quest | 135904 | [135904-alchemy-quest.json](./135904-alchemy-quest.json) |
 | Alchemy Story | 116544 | [116544-alchemy-story.json](./116544-alchemy-story.json) |
 | Alchemy Unbound | 293084 | [293084-alchemy-unbound.json](./293084-alchemy-unbound.json) |
@@ -926,7 +934,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aleon's Nightmare | 211408 | [211408-aleons-nightmare.json](./211408-aleons-nightmare.json) |
 | Aleph | 274755 | [274755-aleph.json](./274755-aleph.json) |
 | Aleste Collection | 139997 | [139997-aleste-collection.json](./139997-aleste-collection.json) |
+| Aletheia: Return of Odysseus | 288753 | [288753-aletheia-return-of-odysseus.json](./288753-aletheia-return-of-odysseus.json) |
 | Aletta | 200170 | [200170-aletta.json](./200170-aletta.json) |
+| Alex Hill: Whispers at White Oak Inn | 288752 | [288752-alex-hill-whispers-at-white-oak-inn.json](./288752-alex-hill-whispers-at-white-oak-inn.json) |
 | Alex Hunter: Lord of the Mind HD | 105936 | [105936-alex-hunter-lord-of-the-mind-hd.json](./105936-alex-hunter-lord-of-the-mind-hd.json) |
 | Alex Kidd and the Miracle Gems | 376442 | [376442-alex-kidd-and-the-miracle-gems.json](./376442-alex-kidd-and-the-miracle-gems.json) |
 | Alex Kidd: High-Tech World | 46112 | [46112-alex-kidd-high-tech-world.json](./46112-alex-kidd-high-tech-world.json) |
@@ -948,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Algebra Ridge | 150695 | [150695-algebra-ridge.json](./150695-algebra-ridge.json) |
 | Algodoo | 140601 | [140601-algodoo.json](./140601-algodoo.json) |
 | Alia's Carnival! Sacrament | 14857 | [14857-alias-carnival-sacrament.json](./14857-alias-carnival-sacrament.json) |
+| Alian | 288751 | [288751-alian.json](./288751-alian.json) |
 | Alias Underground Episode 1: SD-6 Agent Training | 367409 | [367409-alias-underground-episode-1-sd-6-agent-training.json](./367409-alias-underground-episode-1-sd-6-agent-training.json) |
 | Alias Underground Episode 10: Endgame | 367419 | [367419-alias-underground-episode-10-endgame.json](./367419-alias-underground-episode-10-endgame.json) |
 | Alias Underground Episode 2: Mission - Turkish Embassy | 367410 | [367410-alias-underground-episode-2-mission-turkish-embassy.json](./367410-alias-underground-episode-2-mission-turkish-embassy.json) |
@@ -1026,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliensurf | 71539 | [71539-aliensurf.json](./71539-aliensurf.json) |
 | AlienXcape | 322359 | [322359-alienxcape.json](./322359-alienxcape.json) |
 | Aline | 127978 | [127978-aline.json](./127978-aline.json) |
+| Aliosso | 288767 | [288767-aliosso.json](./288767-aliosso.json) |
 | Alipache in Wonderworld | 204708 | [204708-alipache-in-wonderworld.json](./204708-alipache-in-wonderworld.json) |
 | Alisha's Sexual Fear | 373529 | [373529-alishas-sexual-fear.json](./373529-alishas-sexual-fear.json) |
 | Alive 4-ever Returns | 94758 | [94758-alive-4-ever-returns.json](./94758-alive-4-ever-returns.json) |
