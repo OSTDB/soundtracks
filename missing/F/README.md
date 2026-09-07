@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed Me More Brains | 410907 | [410907-feed-me-more-brains.json](./410907-feed-me-more-brains.json) |
 | Feed Me Oil 2: Liquid Puzzle Adventure | 108499 | [108499-feed-me-oil-2-liquid-puzzle-adventure.json](./108499-feed-me-oil-2-liquid-puzzle-adventure.json) |
 | Feed the Animals | 75916 | [75916-feed-the-animals.json](./75916-feed-the-animals.json) |
+| Feed The Beast | 292539 | [292539-feed-the-beast.json](./292539-feed-the-beast.json) |
 | Feed the Ducks | 177541 | [177541-feed-the-ducks.json](./177541-feed-the-ducks.json) |
 | Feed the Feed | 396888 | [396888-feed-the-feed.json](./396888-feed-the-feed.json) |
 | Feed the Pets | 109717 | [109717-feed-the-pets.json](./109717-feed-the-pets.json) |
@@ -1512,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freelancer Simulator 2 | 135308 | [135308-freelancer-simulator-2.json](./135308-freelancer-simulator-2.json) |
 | Freeland | 316098 | [316098-freeland.json](./316098-freeland.json) |
 | Freeman | 253604 | [253604-freeman.json](./253604-freeman.json) |
+| Freestead Castle Defense | 292553 | [292553-freestead-castle-defense.json](./292553-freestead-castle-defense.json) |
 | Freestyle Baseball 2 | 239890 | [239890-freestyle-baseball-2.json](./239890-freestyle-baseball-2.json) |
 | Freestyle Football R | 213008 | [213008-freestyle-football-r.json](./213008-freestyle-football-r.json) |
 | Freeway Fury: Annihilation | 318188 | [318188-freeway-fury-annihilation.json](./318188-freeway-fury-annihilation.json) |
@@ -1622,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Legends | 319390 | [319390-frontier-legends.json](./319390-frontier-legends.json) |
 | Frontier Mayhem | 301288 | [301288-frontier-mayhem.json](./301288-frontier-mayhem.json) |
 | Frontier Mech: Ash Walkers | 356075 | [356075-frontier-mech-ash-walkers.json](./356075-frontier-mech-ash-walkers.json) |
+| Frontier Paladin | 292542 | [292542-frontier-paladin.json](./292542-frontier-paladin.json) |
 | Frontier: Elite II | 2953 | [2953-frontier-elite-ii.json](./2953-frontier-elite-ii.json) |
 | Frontiers | 14081 | [14081-frontiers.json](./14081-frontiers.json) |
 | Frontiers of the Mind | 315519 | [315519-frontiers-of-the-mind.json](./315519-frontiers-of-the-mind.json) |
@@ -1714,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fully Dogomatic | 301289 | [301289-fully-dogomatic.json](./301289-fully-dogomatic.json) |
 | Fúlóng: Tiānyuán Jìnglèi | 124214 | [124214-fulong-tianyuan-jinglei.json](./124214-fulong-tianyuan-jinglei.json) |
 | Fuman Ghoul | 399007 | [399007-fuman-ghoul.json](./399007-fuman-ghoul.json) |
+| Fumble Fiesta | 292557 | [292557-fumble-fiesta.json](./292557-fumble-fiesta.json) |
 | Fumpers 2: Dual Realms | 384508 | [384508-fumpers-2-dual-realms.json](./384508-fumpers-2-dual-realms.json) |
 | Fun Park Simulator | 394165 | [394165-fun-park-simulator.json](./394165-fun-park-simulator.json) |
 | Fun Run 3 | 57120 | [57120-fun-run-3.json](./57120-fun-run-3.json) |
