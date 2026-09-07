@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneDayOne | 341505 | [341505-onedayone.json](./341505-onedayone.json) |
 | Onefog Xonix | 98974 | [98974-onefog-xonix.json](./98974-onefog-xonix.json) |
 | Onegai AiPri | 396935 | [396935-onegai-aipri.json](./396935-onegai-aipri.json) |
+| Oneiro Man | 299779 | [299779-oneiro-man.json](./299779-oneiro-man.json) |
 | Oneiros | 102965 | [102965-oneiros.json](./102965-oneiros.json) |
 | OneJump | 131619 | [131619-onejump.json](./131619-onejump.json) |
 | OneKind | 302372 | [302372-onekind.json](./302372-onekind.json) |
@@ -660,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ostekrigen på Mælkevejen | 91455 | [91455-ostekrigen-pa-m-lkevejen.json](./91455-ostekrigen-pa-m-lkevejen.json) |
 | Osterity | 308276 | [308276-osterity.json](./308276-osterity.json) |
 | Osu!! Karate Bu | 38382 | [38382-osu-karate-bu.json](./38382-osu-karate-bu.json) |
+| Oswald's Supermarket | 299781 | [299781-oswalds-supermarket.json](./299781-oswalds-supermarket.json) |
 | Otaku's Rage: Waifu Strikes Back | 144368 | [144368-otakus-rage-waifu-strikes-back.json](./144368-otakus-rage-waifu-strikes-back.json) |
 | Othello | 25159 | [25159-othello.json](./25159-othello.json) |
 | Othello de Othello DS | 131567 | [131567-othello-de-othello-ds.json](./131567-othello-de-othello-ds.json) |
