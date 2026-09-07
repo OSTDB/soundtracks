@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Man | 310187 | [310187-data-man.json](./310187-data-man.json) |
 | Data mining | 106584 | [106584-data-mining.json](./106584-data-mining.json) |
 | Data Restored | 383944 | [383944-data-restored.json](./383944-data-restored.json) |
+| Data.Expand | 260146 | [260146-data-expand.json](./260146-data-expand.json) |
 | Dataclysm | 327855 | [327855-dataclysm.json](./327855-dataclysm.json) |
 | DataFall | 393464 | [393464-datafall.json](./393464-datafall.json) |
 | Dataflow | 112353 | [112353-dataflow.json](./112353-dataflow.json) |
@@ -827,6 +828,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons and Doobins | 291760 | [291760-demons-and-doobins.json](./291760-demons-and-doobins.json) |
 | Demons are coming! | 278160 | [278160-demons-are-coming.json](./278160-demons-are-coming.json) |
 | Demons Infernalize | 243376 | [243376-demons-infernalize.json](./243376-demons-infernalize.json) |
+| Demons of Problematique | 260126 | [260126-demons-of-problematique.json](./260126-demons-of-problematique.json) |
+| Demons of Problematique 2 | 260127 | [260127-demons-of-problematique-2.json](./260127-demons-of-problematique-2.json) |
 | Demonstar | 9117 | [9117-demonstar.json](./9117-demonstar.json) |
 | DemonsTier | 61647 | [61647-demonstier.json](./61647-demonstier.json) |
 | Demonworld: Dark Armies | 73841 | [73841-demonworld-dark-armies.json](./73841-demonworld-dark-armies.json) |
@@ -2029,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragons and Titans | 10195 | [10195-dragons-and-titans.json](./10195-dragons-and-titans.json) |
 | Dragons of Atlantis | 303231 | [303231-dragons-of-atlantis.json](./303231-dragons-of-atlantis.json) |
 | Dragons: Titan Uprising | 123626 | [123626-dragons-titan-uprising.json](./123626-dragons-titan-uprising.json) |
+| Dragonscale Monastery | 260170 | [260170-dragonscale-monastery.json](./260170-dragonscale-monastery.json) |
 | DragonScales 3: Eternal Prophecy of Darkness | 70388 | [70388-dragonscales-3-eternal-prophecy-of-darkness.json](./70388-dragonscales-3-eternal-prophecy-of-darkness.json) |
 | DragonScales 7: A Heart of Dark Flames | 197416 | [197416-dragonscales-7-a-heart-of-dark-flames.json](./197416-dragonscales-7-a-heart-of-dark-flames.json) |
 | Dragonscapes Adventure | 219830 | [219830-dragonscapes-adventure.json](./219830-dragonscapes-adventure.json) |
@@ -2507,6 +2511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust Courier | 285984 | [285984-dust-courier.json](./285984-dust-courier.json) |
 | Dust Dasher | 135280 | [135280-dust-dasher.json](./135280-dust-dasher.json) |
 | Dust Fleet | 133464 | [133464-dust-fleet.json](./133464-dust-fleet.json) |
+| Dust Raiders | 260175 | [260175-dust-raiders.json](./260175-dust-raiders.json) |
 | Dust to Dusk | 138831 | [138831-dust-to-dusk.json](./138831-dust-to-dusk.json) |
 | Dustborn: The Vision Tour Bundle | 315518 | [315518-dustborn-the-vision-tour-bundle.json](./315518-dustborn-the-vision-tour-bundle.json) |
 | Dustbunny: Emotions to Plants | 322598 | [322598-dustbunny-emotions-to-plants.json](./322598-dustbunny-emotions-to-plants.json) |
