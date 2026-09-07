@@ -535,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Encounter | 297477 | [297477-lethal-encounter.json](./297477-lethal-encounter.json) |
 | Lethal Infiltration: Ghost Reconnaissance | 296932 | [296932-lethal-infiltration-ghost-reconnaissance.json](./296932-lethal-infiltration-ghost-reconnaissance.json) |
 | Lethal Lava Land | 308231 | [308231-lethal-lava-land.json](./308231-lethal-lava-land.json) |
+| Lethal Love | 287091 | [287091-lethal-love.json](./287091-lethal-love.json) |
 | Lethal Operation: Episode 1 - Healer Rugitta | 256557 | [256557-lethal-operation-episode-1-healer-rugitta.json](./256557-lethal-operation-episode-1-healer-rugitta.json) |
 | Lethal Pongbat | 161904 | [161904-lethal-pongbat.json](./161904-lethal-pongbat.json) |
 | Lethal RPG Destiny: Rebirth | 309094 | [309094-lethal-rpg-destiny-rebirth.json](./309094-lethal-rpg-destiny-rebirth.json) |
@@ -1211,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low_Signal | 353278 | [353278-low-signal.json](./353278-low-signal.json) |
 | Lowlife | 208016 | [208016-lowlife.json](./208016-lowlife.json) |
 | LowPoly Towerdefense | 295009 | [295009-lowpoly-towerdefense.json](./295009-lowpoly-towerdefense.json) |
+| Lowrider Hopping | 287087 | [287087-lowrider-hopping.json](./287087-lowrider-hopping.json) |
 | Lowtide | 265981 | [265981-lowtide.json](./265981-lowtide.json) |
 | Lrrl or Rllr | 169441 | [169441-lrrl-or-rllr.json](./169441-lrrl-or-rllr.json) |
 | LSD Battlefield Simulator | 340927 | [340927-lsd-battlefield-simulator.json](./340927-lsd-battlefield-simulator.json) |
