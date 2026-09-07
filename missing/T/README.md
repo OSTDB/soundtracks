@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminate: Study X | 253574 | [253574-terminate-study-x.json](./253574-terminate-study-x.json) |
 | Terminator: Dark Fate - Defiance: Evolution | 380994 | [380994-terminator-dark-fate-defiance-evolution.json](./380994-terminator-dark-fate-defiance-evolution.json) |
 | Terminull | 185151 | [185151-terminull.json](./185151-terminull.json) |
+| Terminus: Ultiverse | 288755 | [288755-terminus-ultiverse.json](./288755-terminus-ultiverse.json) |
 | Terra | 295236 | [295236-terra.json](./295236-terra.json) |
 | Terra Alia | 279404 | [279404-terra-alia.json](./279404-terra-alia.json) |
 | Terra Farmers | 54428 | [54428-terra-farmers.json](./54428-terra-farmers.json) |
@@ -1964,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Other Side | 178673 | [178673-the-other-side.json](./178673-the-other-side.json) |
 | The Other Side | 308545 | [308545-the-other-side.json](./308545-the-other-side.json) |
 | The other side: My own horror | 161402 | [161402-the-other-side-my-own-horror.json](./161402-the-other-side-my-own-horror.json) |
+| The Otter Ways | 288778 | [288778-the-otter-ways.json](./288778-the-otter-ways.json) |
 | The Otterman Empire | 126964 | [126964-the-otterman-empire.json](./126964-the-otterman-empire.json) |
 | The Ourboros King | 215374 | [215374-the-ourboros-king.json](./215374-the-ourboros-king.json) |
 | The Outcast Lovers | 135899 | [135899-the-outcast-lovers.json](./135899-the-outcast-lovers.json) |
