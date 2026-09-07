@@ -895,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolve Incremental | 255342 | [255342-evolve-incremental.json](./255342-evolve-incremental.json) |
 | Evolve or Die | 373526 | [373526-evolve-or-die.json](./373526-evolve-or-die.json) |
 | Evolve: Mecha Squad | 309691 | [309691-evolve-mecha-squad.json](./309691-evolve-mecha-squad.json) |
+| Evoplasm | 309859 | [309859-evoplasm.json](./309859-evoplasm.json) |
 | EvoWars.io | 241633 | [241633-evowars-io.json](./241633-evowars-io.json) |
 | EVR Race | 100172 | [100172-evr-race.json](./100172-evr-race.json) |
 | Ewe Shall Not Pass | 260391 | [260391-ewe-shall-not-pass.json](./260391-ewe-shall-not-pass.json) |
@@ -985,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explosive Shooting Star Beetle | 311809 | [311809-explosive-shooting-star-beetle.json](./311809-explosive-shooting-star-beetle.json) |
 | Expo 2020 | 174900 | [174900-expo-2020.json](./174900-expo-2020.json) |
 | Exposure | 362267 | [362267-exposure.json](./362267-exposure.json) |
+| Exposure Office Simulator | 309892 | [309892-exposure-office-simulator.json](./309892-exposure-office-simulator.json) |
 | Exterminate Zombies: Get Paid | 215930 | [215930-exterminate-zombies-get-paid.json](./215930-exterminate-zombies-get-paid.json) |
 | Extermination | 271997 | [271997-extermination.json](./271997-extermination.json) |
 | Exterminators of Saturn | 253580 | [253580-exterminators-of-saturn.json](./253580-exterminators-of-saturn.json) |
