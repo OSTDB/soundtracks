@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales From The Arcade: Starship Murder | 263742 | [263742-tales-from-the-arcade-starship-murder.json](./263742-tales-from-the-arcade-starship-murder.json) |
 | Tales from the Commonwealth | 356619 | [356619-tales-from-the-commonwealth.json](./356619-tales-from-the-commonwealth.json) |
 | Tales From the Dark Manor | 414324 | [414324-tales-from-the-dark-manor.json](./414324-tales-from-the-dark-manor.json) |
+| Tales From the Herd | 277296 | [277296-tales-from-the-herd.json](./277296-tales-from-the-herd.json) |
 | Tales From The Under-Realm: After Midnight | 301004 | [301004-tales-from-the-under-realm-after-midnight.json](./301004-tales-from-the-under-realm-after-midnight.json) |
 | Tales From The Under-Realm: Hazel | 298566 | [298566-tales-from-the-under-realm-hazel.json](./298566-tales-from-the-under-realm-hazel.json) |
 | Tales of a Turnabout | 318795 | [318795-tales-of-a-turnabout.json](./318795-tales-of-a-turnabout.json) |
@@ -1006,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chinese Room | 26699 | [26699-the-chinese-room.json](./26699-the-chinese-room.json) |
 | The Choicer Voicer | 307223 | [307223-the-choicer-voicer.json](./307223-the-choicer-voicer.json) |
 | The Christmas Spirit: Grimm Tales | 139430 | [139430-the-christmas-spirit-grimm-tales.json](./139430-the-christmas-spirit-grimm-tales.json) |
+| The Chronicles of Ezra Blackwell: Episode 1 - Pappi's Peril | 277281 | [277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json](./277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json) |
 | The Chronicles of Penghao: Ming | 292289 | [292289-the-chronicles-of-penghao-ming.json](./292289-the-chronicles-of-penghao-ming.json) |
 | The Chronicles of Riddick: Assault on Dark Athena | 433 | [433-the-chronicles-of-riddick-assault-on-dark-athena.json](./433-the-chronicles-of-riddick-assault-on-dark-athena.json) |
 | The Chronicles of Shakespeare: A Midsummer Night's Dream | 9401 | [9401-the-chronicles-of-shakespeare-a-midsummer-nights-dream.json](./9401-the-chronicles-of-shakespeare-a-midsummer-nights-dream.json) |
@@ -1310,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fiend's Tavern | 104077 | [104077-the-fiends-tavern.json](./104077-the-fiends-tavern.json) |
 | The Fifth Paradox | 232710 | [232710-the-fifth-paradox.json](./232710-the-fifth-paradox.json) |
 | The Final Ascent | 408826 | [408826-the-final-ascent.json](./408826-the-final-ascent.json) |
+| The Final Countdown | 277318 | [277318-the-final-countdown.json](./277318-the-final-countdown.json) |
 | The Final Earth 2 | 126651 | [126651-the-final-earth-2.json](./126651-the-final-earth-2.json) |
 | The Final Heist | 184640 | [184640-the-final-heist.json](./184640-the-final-heist.json) |
 | The Final Station | 16136 | [16136-the-final-station.json](./16136-the-final-station.json) |
@@ -1362,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Four Old Gods | 136442 | [136442-the-four-old-gods.json](./136442-the-four-old-gods.json) |
 | The Fourth Generation | 72693 | [72693-the-fourth-generation.json](./72693-the-fourth-generation.json) |
 | The Fox Awaits Me: Limited Edition | 188644 | [188644-the-fox-awaits-me-limited-edition.json](./188644-the-fox-awaits-me-limited-edition.json) |
+| The Freddy Files | 277284 | [277284-the-freddy-files.json](./277284-the-freddy-files.json) |
 | The Friends of Ringo Ishikawa: Special Edition | 406100 | [406100-the-friends-of-ringo-ishikawa-special-edition.json](./406100-the-friends-of-ringo-ishikawa-special-edition.json) |
 | The Frog Game Amazing Simulator | 100861 | [100861-the-frog-game-amazing-simulator.json](./100861-the-frog-game-amazing-simulator.json) |
 | The Frog’s Adventure | 401538 | [401538-the-frog-s-adventure.json](./401538-the-frog-s-adventure.json) |
@@ -3958,6 +3962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travis Strikes Again: No More Heroes | 55195 | [55195-travis-strikes-again-no-more-heroes.json](./55195-travis-strikes-again-no-more-heroes.json) |
 | Trax: Build it Race it | 105939 | [105939-trax-build-it-race-it.json](./105939-trax-build-it-race-it.json) |
 | Traxion | 257688 | [257688-traxion.json](./257688-traxion.json) |
+| Treachery | 277292 | [277292-treachery.json](./277292-treachery.json) |
 | Treachery in Beatdown City: U.N. Trouble | 272568 | [272568-treachery-in-beatdown-city-u-n-trouble.json](./272568-treachery-in-beatdown-city-u-n-trouble.json) |
 | Treason | 190229 | [190229-treason.json](./190229-treason.json) |
 | Treasure 'n Trio | 320773 | [320773-treasure-n-trio.json](./320773-treasure-n-trio.json) |
@@ -4110,6 +4115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TRL: The Rail Loaders | 266485 | [266485-trl-the-rail-loaders.json](./266485-trl-the-rail-loaders.json) |
 | Troddlers | 39029 | [39029-troddlers.json](./39029-troddlers.json) |
 | Trog Smash Island | 296081 | [296081-trog-smash-island.json](./296081-trog-smash-island.json) |
+| Trois Mouvements Perpétuels | 277291 | [277291-trois-mouvements-perpetuels.json](./277291-trois-mouvements-perpetuels.json) |
 | Troll | 375849 | [375849-troll.json](./375849-troll.json) |
 | Troll Face Quest Horror | 351627 | [351627-troll-face-quest-horror.json](./351627-troll-face-quest-horror.json) |
 | Troll Face Quest: Game of Trolls | 306703 | [306703-troll-face-quest-game-of-trolls.json](./306703-troll-face-quest-game-of-trolls.json) |
