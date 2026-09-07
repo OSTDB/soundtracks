@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Ball Jump! | 310767 | [310767-jump-ball-jump.json](./310767-jump-ball-jump.json) |
 | Jump Ball-Bounce on Tower Tile | 105909 | [105909-jump-ball-bounce-on-tower-tile.json](./105909-jump-ball-bounce-on-tower-tile.json) |
 | Jump Barrel | 239334 | [239334-jump-barrel.json](./239334-jump-barrel.json) |
+| Jump Burger | 292003 | [292003-jump-burger.json](./292003-jump-burger.json) |
 | Jump Duck | 407306 | [407306-jump-duck.json](./407306-jump-duck.json) |
 | Jump Heroes | 290726 | [290726-jump-heroes.json](./290726-jump-heroes.json) |
 | Jump Kid | 217022 | [217022-jump-kid.json](./217022-jump-kid.json) |
