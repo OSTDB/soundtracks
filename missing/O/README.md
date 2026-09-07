@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Crusader | 51278 | [51278-operation-crusader.json](./51278-operation-crusader.json) |
 | Operation Dartness | 378187 | [378187-operation-dartness.json](./378187-operation-dartness.json) |
 | Operation Eventide | 337477 | [337477-operation-eventide.json](./337477-operation-eventide.json) |
+| Operation Food to Gold | 278385 | [278385-operation-food-to-gold.json](./278385-operation-food-to-gold.json) |
 | Operation H.O.P.E. | 392784 | [392784-operation-h-o-p-e.json](./392784-operation-h-o-p-e.json) |
 | Operation HuntingHawk : Breakthrough | 367938 | [367938-operation-huntinghawk-breakthrough.json](./367938-operation-huntinghawk-breakthrough.json) |
 | Operation Market Garden: Drive on Arnhem, September 1944 | 25779 | [25779-operation-market-garden-drive-on-arnhem-september-1944.json](./25779-operation-market-garden-drive-on-arnhem-september-1944.json) |
