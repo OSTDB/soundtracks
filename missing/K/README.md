@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koishi's Lumo | 132280 | [132280-koishis-lumo.json](./132280-koishis-lumo.json) |
 | Koko's Cafe | 406678 | [406678-kokos-cafe.json](./406678-kokos-cafe.json) |
 | Kokohore! Pukka: Dig-a-Dig Pukka | 138825 | [138825-kokohore-pukka-dig-a-dig-pukka.json](./138825-kokohore-pukka-dig-a-dig-pukka.json) |
+| Kokomando | 299719 | [299719-kokomando.json](./299719-kokomando.json) |
 | Kokontouzai Eto Monogatari | 40229 | [40229-kokontouzai-eto-monogatari.json](./40229-kokontouzai-eto-monogatari.json) |
 | Kokoro no Doki Doki Senpai?? | 150133 | [150133-kokoro-no-doki-doki-senpai.json](./150133-kokoro-no-doki-doki-senpai.json) |
 | Kokoro Talkers | 325446 | [325446-kokoro-talkers.json](./325446-kokoro-talkers.json) |
@@ -660,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kombinera | 194249 | [194249-kombinera.json](./194249-kombinera.json) |
 | Kommersant | 180295 | [180295-kommersant.json](./180295-kommersant.json) |
 | Komori Fruit Rush | 126633 | [126633-komori-fruit-rush.json](./126633-komori-fruit-rush.json) |
+| Kona Project | 299742 | [299742-kona-project.json](./299742-kona-project.json) |
 | Konami 88 | 40228 | [40228-konami-88.json](./40228-konami-88.json) |
 | Konami's Ping Pong | 46832 | [46832-konamis-ping-pong.json](./46832-konamis-ping-pong.json) |
 | Kong: The 8th Wonder of the World | 49397 | [49397-kong-the-8th-wonder-of-the-world.json](./49397-kong-the-8th-wonder-of-the-world.json) |
