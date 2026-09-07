@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | San Francisco Rush: Extreme Racing | 264854 | [264854-san-francisco-rush-extreme-racing.json](./264854-san-francisco-rush-extreme-racing.json) |
 | Sanabi | 144569 | [144569-sanabi.json](./144569-sanabi.json) |
 | Sanabi: A Haunted Day - Signal Redux Edition | 396192 | [396192-sanabi-a-haunted-day-signal-redux-edition.json](./396192-sanabi-a-haunted-day-signal-redux-edition.json) |
+| Sanabi: Collector's Edition | 272293 | [272293-sanabi-collectors-edition.json](./272293-sanabi-collectors-edition.json) |
 | Sanae no Chou Tokkyuu: TheExpressTrial | 206929 | [206929-sanae-no-chou-tokkyuu-theexpresstrial.json](./206929-sanae-no-chou-tokkyuu-theexpresstrial.json) |
 | Sanae's Sylphid Breeze | 300377 | [300377-sanaes-sylphid-breeze.json](./300377-sanaes-sylphid-breeze.json) |
 | Sanalika | 180296 | [180296-sanalika.json](./180296-sanalika.json) |
@@ -763,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Semmelweis | 238752 | [238752-semmelweis.json](./238752-semmelweis.json) |
 | Semper Fidelis: Marine Corps | 73830 | [73830-semper-fidelis-marine-corps.json](./73830-semper-fidelis-marine-corps.json) |
 | Send It: The Game | 277833 | [277833-send-it-the-game.json](./277833-send-it-the-game.json) |
+| Senda Salvaje | 272301 | [272301-senda-salvaje.json](./272301-senda-salvaje.json) |
 | Senderos de Fugüm | 326606 | [326606-senderos-de-fugum.json](./326606-senderos-de-fugum.json) |
 | Sengoku 3 | 46784 | [46784-sengoku-3.json](./46784-sengoku-3.json) |
 | Sengoku Block Bashi | 151711 | [151711-sengoku-block-bashi.json](./151711-sengoku-block-bashi.json) |
@@ -960,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Tomb Raider: The Path Home | 117711 | [117711-shadow-of-the-tomb-raider-the-path-home.json](./117711-shadow-of-the-tomb-raider-the-path-home.json) |
 | Shadow of Winter | 374067 | [374067-shadow-of-winter.json](./374067-shadow-of-winter.json) |
 | Shadow Over Normoth | 183057 | [183057-shadow-over-normoth.json](./183057-shadow-over-normoth.json) |
+| Shadow Overlord: The Beginning | 272264 | [272264-shadow-overlord-the-beginning.json](./272264-shadow-overlord-the-beginning.json) |
 | Shadow Quest | 188095 | [188095-shadow-quest.json](./188095-shadow-quest.json) |
 | Shadow Quest | 326959 | [326959-shadow-quest.json](./326959-shadow-quest.json) |
 | Shadow Saw Us | 408072 | [408072-shadow-saw-us.json](./408072-shadow-saw-us.json) |
@@ -1000,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of a Sunless World | 183063 | [183063-shadows-of-a-sunless-world.json](./183063-shadows-of-a-sunless-world.json) |
 | Shadows of Duat | 252395 | [252395-shadows-of-duat.json](./252395-shadows-of-duat.json) |
 | Shadows of Dungeon | 237659 | [237659-shadows-of-dungeon.json](./237659-shadows-of-dungeon.json) |
+| Shadows of Rogue: The Sorcerer's Curse | 272281 | [272281-shadows-of-rogue-the-sorcerers-curse.json](./272281-shadows-of-rogue-the-sorcerers-curse.json) |
 | Shadows of Steam | 328499 | [328499-shadows-of-steam.json](./328499-shadows-of-steam.json) |
 | Shadows of the Damned | 264883 | [264883-shadows-of-the-damned.json](./264883-shadows-of-the-damned.json) |
 | Shadows of the Damned | 5971 | [5971-shadows-of-the-damned.json](./5971-shadows-of-the-damned.json) |
@@ -2030,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakes and Ladders | 106570 | [106570-snakes-and-ladders.json](./106570-snakes-and-ladders.json) |
 | Snakes in Hibernation | 396205 | [396205-snakes-in-hibernation.json](./396205-snakes-in-hibernation.json) |
 | Snakes LTD | 265921 | [265921-snakes-ltd.json](./265921-snakes-ltd.json) |
+| Snakes On A Cartesian Plane | 272307 | [272307-snakes-on-a-cartesian-plane.json](./272307-snakes-on-a-cartesian-plane.json) |
 | Snakes with Fists! | 343271 | [343271-snakes-with-fists.json](./343271-snakes-with-fists.json) |
 | Snaky Cat | 337093 | [337093-snaky-cat.json](./337093-snaky-cat.json) |
 | Snaky Snake | 70996 | [70996-snaky-snake.json](./70996-snaky-snake.json) |
@@ -3618,6 +3623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Poetry | 333954 | [333954-stellar-poetry.json](./333954-stellar-poetry.json) |
 | Stellar Return | 311275 | [311275-stellar-return.json](./311275-stellar-return.json) |
 | Stellar Scrapm'n | 369009 | [369009-stellar-scrapmn.json](./369009-stellar-scrapmn.json) |
+| Stellar Settlers | 272276 | [272276-stellar-settlers.json](./272276-stellar-settlers.json) |
 | Stellar Shipyard | 388717 | [388717-stellar-shipyard.json](./388717-stellar-shipyard.json) |
 | Stellar Terminus | 318178 | [318178-stellar-terminus.json](./318178-stellar-terminus.json) |
 | Stellar Warfare | 143701 | [143701-stellar-warfare.json](./143701-stellar-warfare.json) |
@@ -3930,6 +3936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Study Time Anomaly | 369597 | [369597-study-time-anomaly.json](./369597-study-time-anomaly.json) |
 | Stumble And Fall | 310388 | [310388-stumble-and-fall.json](./310388-stumble-and-fall.json) |
 | Stump Me | 312886 | [312886-stump-me.json](./312886-stump-me.json) |
+| Stump Simulator | 272284 | [272284-stump-simulator.json](./272284-stump-simulator.json) |
 | Stunt Destroyer | 204086 | [204086-stunt-destroyer.json](./204086-stunt-destroyer.json) |
 | Stunt Driver Collection | 328478 | [328478-stunt-driver-collection.json](./328478-stunt-driver-collection.json) |
 | Stunt Paradise 2 | 389435 | [389435-stunt-paradise-2.json](./389435-stunt-paradise-2.json) |
