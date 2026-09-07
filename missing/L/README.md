@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lastbane | 348773 | [348773-lastbane.json](./348773-lastbane.json) |
 | Lastfight | 19250 | [19250-lastfight.json](./19250-lastfight.json) |
 | Lastronaut | 344933 | [344933-lastronaut.json](./344933-lastronaut.json) |
+| LastSafeZone | 265131 | [265131-lastsafezone.json](./265131-lastsafezone.json) |
 | Late Fee Girls | 366241 | [366241-late-fee-girls.json](./366241-late-fee-girls.json) |
 | Late For Class: Variety King | 191252 | [191252-late-for-class-variety-king.json](./191252-late-for-class-variety-king.json) |
 | Late for Love | 176517 | [176517-late-for-love.json](./176517-late-for-love.json) |
@@ -494,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lesbian Vampire Simulator | 177531 | [177531-lesbian-vampire-simulator.json](./177531-lesbian-vampire-simulator.json) |
 | Leshy Prelude | 321117 | [321117-leshy-prelude.json](./321117-leshy-prelude.json) |
 | Lessaria: Fantasy Kingdom Sim | 261556 | [261556-lessaria-fantasy-kingdom-sim.json](./261556-lessaria-fantasy-kingdom-sim.json) |
+| Let Him Cook | 265138 | [265138-let-him-cook.json](./265138-let-him-cook.json) |
 | Let It Die | 304376 | [304376-let-it-die.json](./304376-let-it-die.json) |
 | Let It Die: Uncle Prime Edition | 166240 | [166240-let-it-die-uncle-prime-edition.json](./166240-let-it-die-uncle-prime-edition.json) |
 | Let Me In | 379885 | [379885-let-me-in.json](./379885-let-me-in.json) |
@@ -845,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Magic | 267646 | [267646-little-magic.json](./267646-little-magic.json) |
 | Little Magic | 38383 | [38383-little-magic.json](./38383-little-magic.json) |
 | Little Memories | 109741 | [109741-little-memories.json](./109741-little-memories.json) |
+| Little Monkey King's Big Quest | 265137 | [265137-little-monkey-kings-big-quest.json](./265137-little-monkey-kings-big-quest.json) |
 | Little Monster Games | 87243 | [87243-little-monster-games.json](./87243-little-monster-games.json) |
 | Little Mouse's Encyclopedia + Brawl Chess | 199638 | [199638-little-mouses-encyclopedia-brawl-chess.json](./199638-little-mouses-encyclopedia-brawl-chess.json) |
 | Little Mouse's Encyclopedia + Under Leaves | 188099 | [188099-little-mouses-encyclopedia-under-leaves.json](./188099-little-mouses-encyclopedia-under-leaves.json) |
