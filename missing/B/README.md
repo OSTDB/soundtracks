@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Fate | 279010 | [279010-battle-of-fate.json](./279010-battle-of-fate.json) |
 | Battle of Finland: Winter War | 193483 | [193483-battle-of-finland-winter-war.json](./193483-battle-of-finland-winter-war.json) |
 | Battle of Frigates | 61595 | [61595-battle-of-frigates.json](./61595-battle-of-frigates.json) |
+| Battle of Genesis | 269045 | [269045-battle-of-genesis.json](./269045-battle-of-genesis.json) |
 | Battle of Giants: Dinosaurs Strike | 7907 | [7907-battle-of-giants-dinosaurs-strike.json](./7907-battle-of-giants-dinosaurs-strike.json) |
 | Battle of Heroes 3 | 196877 | [196877-battle-of-heroes-3.json](./196877-battle-of-heroes-3.json) |
 | Battle of Kingdom | 7772 | [7772-battle-of-kingdom.json](./7772-battle-of-kingdom.json) |
@@ -1062,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big City Adventure: Tokyo | 294742 | [294742-big-city-adventure-tokyo.json](./294742-big-city-adventure-tokyo.json) |
 | Big Drunk Satanic Massacre | 75067 | [75067-big-drunk-satanic-massacre.json](./75067-big-drunk-satanic-massacre.json) |
 | Big Fight: Big Trouble in the Atlantic Ocean | 40233 | [40233-big-fight-big-trouble-in-the-atlantic-ocean.json](./40233-big-fight-big-trouble-in-the-atlantic-ocean.json) |
+| Big Heavy | 269046 | [269046-big-heavy.json](./269046-big-heavy.json) |
 | Big Hunt | 329021 | [329021-big-hunt.json](./329021-big-hunt.json) |
 | Big Klondike: FreeCell Solitaire | 289855 | [289855-big-klondike-freecell-solitaire.json](./289855-big-klondike-freecell-solitaire.json) |
 | Big Mountain Snowboarding | 88322 | [88322-big-mountain-snowboarding.json](./88322-big-mountain-snowboarding.json) |
@@ -1289,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackened | 270699 | [270699-blackened.json](./270699-blackened.json) |
 | Blackgate | 138226 | [138226-blackgate.json](./138226-blackgate.json) |
 | BlackGate | 325837 | [325837-blackgate.json](./325837-blackgate.json) |
+| Blackhole on the Road | 269047 | [269047-blackhole-on-the-road.json](./269047-blackhole-on-the-road.json) |
 | Blackhole Simulator | 333385 | [333385-blackhole-simulator.json](./333385-blackhole-simulator.json) |
 | Blackhole: Challenge Vault | 170521 | [170521-blackhole-challenge-vault.json](./170521-blackhole-challenge-vault.json) |
 | Blackhole: Testing Laboratory | 170522 | [170522-blackhole-testing-laboratory.json](./170522-blackhole-testing-laboratory.json) |
@@ -2296,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble's Travel | 387337 | [387337-bubbles-travel.json](./387337-bubbles-travel.json) |
 | BubbleTT: Oh! My Fart | 256528 | [256528-bubblett-oh-my-fart.json](./256528-bubblett-oh-my-fart.json) |
 | BubbleXRush | 61089 | [61089-bubblexrush.json](./61089-bubblexrush.json) |
+| BUBG Single on the Ground | 269039 | [269039-bubg-single-on-the-ground.json](./269039-bubg-single-on-the-ground.json) |
 | Bubsy II | 7803 | [7803-bubsy-ii.json](./7803-bubsy-ii.json) |
 | Bubsy in Fractured Furry Tales | 7805 | [7805-bubsy-in-fractured-furry-tales.json](./7805-bubsy-in-fractured-furry-tales.json) |
 | Bubu Battle Royale | 402300 | [402300-bubu-battle-royale.json](./402300-bubu-battle-royale.json) |
@@ -2357,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Blaze | 243373 | [243373-bullet-blaze.json](./243373-bullet-blaze.json) |
 | Bullet Break | 346017 | [346017-bullet-break.json](./346017-bullet-break.json) |
 | Bullet Fractals | 181894 | [181894-bullet-fractals.json](./181894-bullet-fractals.json) |
+| Bullet Frenzy | 269041 | [269041-bullet-frenzy.json](./269041-bullet-frenzy.json) |
 | Bullet Hell Monday | 57089 | [57089-bullet-hell-monday.json](./57089-bullet-hell-monday.json) |
 | Bullet Inferno | 368494 | [368494-bullet-inferno.json](./368494-bullet-inferno.json) |
 | Bullet Maniac | 237629 | [237629-bullet-maniac.json](./237629-bullet-maniac.json) |
