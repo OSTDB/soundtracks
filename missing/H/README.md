@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heat Reborn | 140590 | [140590-heat-reborn.json](./140590-heat-reborn.json) |
 | Heat wave | 180850 | [180850-heat-wave.json](./180850-heat-wave.json) |
 | Heat Wave | 336543 | [336543-heat-wave.json](./336543-heat-wave.json) |
+| Heatchain | 278404 | [278404-heatchain.json](./278404-heatchain.json) |
 | Heathen | 401473 | [401473-heathen.json](./401473-heathen.json) |
 | Heathrow International Air Traffic Control | 133440 | [133440-heathrow-international-air-traffic-control.json](./133440-heathrow-international-air-traffic-control.json) |
 | Heatseeker | 37152 | [37152-heatseeker.json](./37152-heatseeker.json) |
@@ -599,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellino | 134003 | [134003-hellino.json](./134003-hellino.json) |
 | Hellish Quart | 139472 | [139472-hellish-quart.json](./139472-hellish-quart.json) |
 | Hellmate | 338725 | [338725-hellmate.json](./338725-hellmate.json) |
+| Hellmet: Seven Circles Down | 278432 | [278432-hellmet-seven-circles-down.json](./278432-hellmet-seven-circles-down.json) |
 | Hello Brain | 96717 | [96717-hello-brain.json](./96717-hello-brain.json) |
 | Hello Charlotte: Heaven's Gate | 144382 | [144382-hello-charlotte-heavens-gate.json](./144382-hello-charlotte-heavens-gate.json) |
 | Hello Counsel | 318223 | [318223-hello-counsel.json](./318223-hello-counsel.json) |
@@ -1652,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnosis of Corruption | 331124 | [331124-hypnosis-of-corruption.json](./331124-hypnosis-of-corruption.json) |
 | Hypnosis: Quiet Nights | 352744 | [352744-hypnosis-quiet-nights.json](./352744-hypnosis-quiet-nights.json) |
 | Hypotheses on the Symmetry between Vision and Hands | 294157 | [294157-hypotheses-on-the-symmetry-between-vision-and-hands.json](./294157-hypotheses-on-the-symmetry-between-vision-and-hands.json) |
+| Hypothetimania | 278405 | [278405-hypothetimania.json](./278405-hypothetimania.json) |
 | Hypoxia: One Last Breath | 167291 | [167291-hypoxia-one-last-breath.json](./167291-hypoxia-one-last-breath.json) |
 | HypurrX | 336535 | [336535-hypurrx.json](./336535-hypurrx.json) |
 | Hyrax In The Rocks | 342046 | [342046-hyrax-in-the-rocks.json](./342046-hyrax-in-the-rocks.json) |
