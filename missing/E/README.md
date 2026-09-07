@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earl Bobby is looking for his Balls | 78686 | [78686-earl-bobby-is-looking-for-his-balls.json](./78686-earl-bobby-is-looking-for-his-balls.json) |
 | Early Kingdom | 363411 | [363411-early-kingdom.json](./363411-early-kingdom.json) |
 | Early Mellow | 296394 | [296394-early-mellow.json](./296394-early-mellow.json) |
+| Early-blooming Black Lily: Moshi Mo-series | 275613 | [275613-early-blooming-black-lily-moshi-mo-series.json](./275613-early-blooming-black-lily-moshi-mo-series.json) |
 | Earn to Die | 80713 | [80713-earn-to-die.json](./80713-earn-to-die.json) |
 | Ears of the Killer | 206957 | [206957-ears-of-the-killer.json](./206957-ears-of-the-killer.json) |
 | Earth 2025 | 92497 | [92497-earth-2025.json](./92497-earth-2025.json) |
@@ -928,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everspace: Stellar Edition | 102126 | [102126-everspace-stellar-edition.json](./102126-everspace-stellar-edition.json) |
 | Everstill Valley | 394899 | [394899-everstill-valley.json](./394899-everstill-valley.json) |
 | Evertales | 23927 | [23927-evertales.json](./23927-evertales.json) |
+| Everwarder | 275578 | [275578-everwarder.json](./275578-everwarder.json) |
 | Every Day Is Halloween | 280759 | [280759-every-day-is-halloween.json](./280759-every-day-is-halloween.json) |
 | Every Ending Is A New Beginning | 184131 | [184131-every-ending-is-a-new-beginning.json](./184131-every-ending-is-a-new-beginning.json) |
 | Every Hue of You | 302954 | [302954-every-hue-of-you.json](./302954-every-hue-of-you.json) |
