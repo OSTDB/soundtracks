@@ -1158,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RobinWords | 303237 | [303237-robinwords.json](./303237-robinwords.json) |
 | Robo Boop | 89970 | [89970-robo-boop.json](./89970-robo-boop.json) |
 | Robo Panic | 307599 | [307599-robo-panic.json](./307599-robo-panic.json) |
+| Robo Pose | 296354 | [296354-robo-pose.json](./296354-robo-pose.json) |
 | Robo Rangers | 388744 | [388744-robo-rangers.json](./388744-robo-rangers.json) |
 | Robo Rescue | 328489 | [328489-robo-rescue.json](./328489-robo-rescue.json) |
 | Robo Wars | 196316 | [196316-robo-wars.json](./196316-robo-wars.json) |
@@ -1726,6 +1727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust Racers 2D | 126026 | [126026-rust-racers-2d.json](./126026-rust-racers-2d.json) |
 | Rust Rails | 267063 | [267063-rust-rails.json](./267063-rust-rails.json) |
 | Rusted | 340945 | [340945-rusted.json](./340945-rusted.json) |
+| Rusted Sea | 296376 | [296376-rusted-sea.json](./296376-rusted-sea.json) |
 | Rustic Defense | 332994 | [332994-rustic-defense.json](./332994-rustic-defense.json) |
 | Rustler | 99302 | [99302-rustler.json](./99302-rustler.json) |
 | Rusty | 45975 | [45975-rusty.json](./45975-rusty.json) |
