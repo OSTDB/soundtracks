@@ -2058,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Knife Fight | 354407 | [354407-monkey-knife-fight.json](./354407-monkey-knife-fight.json) |
 | Monkey Lost | 367452 | [367452-monkey-lost.json](./367452-monkey-lost.json) |
 | Monkey Magic | 45220 | [45220-monkey-magic.json](./45220-monkey-magic.json) |
+| Monkey Splash!! | 274466 | [274466-monkey-splash.json](./274466-monkey-splash.json) |
 | Monkey Split | 142450 | [142450-monkey-split.json](./142450-monkey-split.json) |
 | Monkey Wars! | 323749 | [323749-monkey-wars.json](./323749-monkey-wars.json) |
 | Monkey Wave | 383963 | [383963-monkey-wave.json](./383963-monkey-wave.json) |
@@ -2937,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Young Boyfriend Part 2 | 303273 | [303273-my-young-boyfriend-part-2.json](./303273-my-young-boyfriend-part-2.json) |
 | Mychess | 73301 | [73301-mychess.json](./73301-mychess.json) |
 | Mycopsychosys | 342662 | [342662-mycopsychosys.json](./342662-mycopsychosys.json) |
+| MycoRelic | 274470 | [274470-mycorelic.json](./274470-mycorelic.json) |
 | MyDream | 35794 | [35794-mydream.json](./35794-mydream.json) |
 | MyDU | 365704 | [365704-mydu.json](./365704-mydu.json) |
 | Myha: Return to the Lost Island | 116558 | [116558-myha-return-to-the-lost-island.json](./116558-myha-return-to-the-lost-island.json) |
