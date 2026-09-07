@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valley of Unicorns | 24948 | [24948-valley-of-unicorns.json](./24948-valley-of-unicorns.json) |
 | Valley Peaks | 177031 | [177031-valley-peaks.json](./177031-valley-peaks.json) |
 | Valor | 173314 | [173314-valor.json](./173314-valor.json) |
+| Valor | 299145 | [299145-valor.json](./299145-valor.json) |
 | Valor & Victory: Kursk | 260381 | [260381-valor-and-victory-kursk.json](./260381-valor-and-victory-kursk.json) |
 | Valor of Man | 326576 | [326576-valor-of-man.json](./326576-valor-of-man.json) |
 | Valor Time | 107911 | [107911-valor-time.json](./107911-valor-time.json) |
