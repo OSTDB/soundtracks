@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Slaps | 332976 | [332976-cat-slaps.json](./332976-cat-slaps.json) |
 | Cat Sokoban | 135868 | [135868-cat-sokoban.json](./135868-cat-sokoban.json) |
 | Cat vs. Corgis | 54448 | [54448-cat-vs-corgis.json](./54448-cat-vs-corgis.json) |
+| Cat Warrior | 281983 | [281983-cat-warrior.json](./281983-cat-warrior.json) |
 | Cat With Gun | 363369 | [363369-cat-with-gun.json](./363369-cat-with-gun.json) |
 | Cat-aclysm | 251948 | [251948-cat-aclysm.json](./251948-cat-aclysm.json) |
 | Cat-Car Mission | 359421 | [359421-cat-car-mission.json](./359421-cat-car-mission.json) |
@@ -582,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cattle Hyperdrive | 247745 | [247745-cattle-hyperdrive.json](./247745-cattle-hyperdrive.json) |
 | Cattlieb | 349851 | [349851-cattlieb.json](./349851-cattlieb.json) |
 | Catty Battle | 129816 | [129816-catty-battle.json](./129816-catty-battle.json) |
+| Catty Cathy | 281982 | [281982-catty-cathy.json](./281982-catty-cathy.json) |
 | Catwoman | 67337 | [67337-catwoman.json](./67337-catwoman.json) |
 | Cauldron Caution | 309653 | [309653-cauldron-caution.json](./309653-cauldron-caution.json) |
 | Cauldron Chaos | 368495 | [368495-cauldron-chaos.json](./368495-cauldron-chaos.json) |
@@ -624,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caves of Qud | 24054 | [24054-caves-of-qud.json](./24054-caves-of-qud.json) |
 | Caves of Qud: Pets of Harvest Dawn | 389407 | [389407-caves-of-qud-pets-of-harvest-dawn.json](./389407-caves-of-qud-pets-of-harvest-dawn.json) |
 | Cavescape | 317012 | [317012-cavescape.json](./317012-cavescape.json) |
+| Cavy Chronicles | 281984 | [281984-cavy-chronicles.json](./281984-cavy-chronicles.json) |
 | Caxy Gambá Encontra o Monstruário | 257103 | [257103-caxy-gamba-encontra-o-monstruario.json](./257103-caxy-gamba-encontra-o-monstruario.json) |
 | Cazzarion: Astro Bouncer | 290418 | [290418-cazzarion-astro-bouncer.json](./290418-cazzarion-astro-bouncer.json) |
 | Cazzarion: Builder | 335961 | [335961-cazzarion-builder.json](./335961-cazzarion-builder.json) |
@@ -670,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centipede | 245541 | [245541-centipede.json](./245541-centipede.json) |
 | Centipede | 282564 | [282564-centipede.json](./282564-centipede.json) |
 | Centipede & Battlezone | 64399 | [64399-centipede-and-battlezone.json](./64399-centipede-and-battlezone.json) |
+| Cento | 281985 | [281985-cento.json](./281985-cento.json) |
 | Central Standard | 321130 | [321130-central-standard.json](./321130-central-standard.json) |
 | Central Station | 242244 | [242244-central-station.json](./242244-central-station.json) |
 | Centre Court Tennis | 3456 | [3456-centre-court-tennis.json](./3456-centre-court-tennis.json) |
@@ -679,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - Fellow Edition | 199640 | [199640-century-age-of-ashes-fellow-edition.json](./199640-century-age-of-ashes-fellow-edition.json) |
 | Century: Age of Ashes - First Flight Edition | 199632 | [199632-century-age-of-ashes-first-flight-edition.json](./199632-century-age-of-ashes-first-flight-edition.json) |
 | Century: Age of Ashes - Heroes of the Continent Bundle | 286546 | [286546-century-age-of-ashes-heroes-of-the-continent-bundle.json](./286546-century-age-of-ashes-heroes-of-the-continent-bundle.json) |
+| Cepheus Protocol: Project Fenrir | 281986 | [281986-cepheus-protocol-project-fenrir.json](./281986-cepheus-protocol-project-fenrir.json) |
 | Ceradin | 126041 | [126041-ceradin.json](./126041-ceradin.json) |
 | Ceramic Soul | 198556 | [198556-ceramic-soul.json](./198556-ceramic-soul.json) |
 | Cerberus | 272016 | [272016-cerberus.json](./272016-cerberus.json) |
@@ -700,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chained | 309352 | [309352-chained.json](./309352-chained.json) |
 | Chainsaw Juice King | 321143 | [321143-chainsaw-juice-king.json](./321143-chainsaw-juice-king.json) |
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
+| Chairs | 281987 | [281987-chairs.json](./281987-chairs.json) |
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
 | Challenge 100 | 359419 | [359419-challenge-100.json](./359419-challenge-100.json) |
 | Challenge Shot | 385555 | [385555-challenge-shot.json](./385555-challenge-shot.json) |
@@ -726,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chantelise - A Tale of Two Sisters | 12525 | [12525-chantelise-a-tale-of-two-sisters.json](./12525-chantelise-a-tale-of-two-sisters.json) |
 | Chao RPG | 326958 | [326958-chao-rpg.json](./326958-chao-rpg.json) |
 | Chaos Academy | 208057 | [208057-chaos-academy.json](./208057-chaos-academy.json) |
+| Chaos Adventure | 281990 | [281990-chaos-adventure.json](./281990-chaos-adventure.json) |
 | Chaos Ascension | 327852 | [327852-chaos-ascension.json](./327852-chaos-ascension.json) |
 | Chaos Awakens | 232656 | [232656-chaos-awakens.json](./232656-chaos-awakens.json) |
 | Chaos Code: Exact Xeno Attack | 348232 | [348232-chaos-code-exact-xeno-attack.json](./348232-chaos-code-exact-xeno-attack.json) |
@@ -760,12 +767,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charge | 120992 | [120992-charge.json](./120992-charge.json) |
 | Charged! | 258736 | [258736-charged.json](./258736-charged.json) |
 | Charger Escape | 383373 | [383373-charger-escape.json](./383373-charger-escape.json) |
+| Charles: The Full Story | 281991 | [281991-charles-the-full-story.json](./281991-charles-the-full-story.json) |
 | Charlie's Delivery | 219821 | [219821-charlies-delivery.json](./219821-charlies-delivery.json) |
 | Charm | 232657 | [232657-charm.json](./232657-charm.json) |
 | Charm Studies | 243409 | [243409-charm-studies.json](./243409-charm-studies.json) |
 | Charm Studies | 400215 | [400215-charm-studies.json](./400215-charm-studies.json) |
 | Charming Hearts | 302345 | [302345-charming-hearts.json](./302345-charming-hearts.json) |
 | Charmy Maze | 332220 | [332220-charmy-maze.json](./332220-charmy-maze.json) |
+| Chase Ace Sole Survivor | 281992 | [281992-chase-ace-sole-survivor.json](./281992-chase-ace-sole-survivor.json) |
 | Chase Chase Jokers | 269298 | [269298-chase-chase-jokers.json](./269298-chase-chase-jokers.json) |
 | Chase Survivors | 244512 | [244512-chase-survivors.json](./244512-chase-survivors.json) |
 | Chase the Sun | 221981 | [221981-chase-the-sun.json](./221981-chase-the-sun.json) |
@@ -863,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chick 'N Sword | 183592 | [183592-chick-n-sword.json](./183592-chick-n-sword.json) |
 | Chick Chick Boom | 51125 | [51125-chick-chick-boom.json](./51125-chick-chick-boom.json) |
 | Chick City Construction | 174872 | [174872-chick-city-construction.json](./174872-chick-city-construction.json) |
+| Chick Road Rage | 281993 | [281993-chick-road-rage.json](./281993-chick-road-rage.json) |
 | Chick Room Escape: Xmas ver. | 317000 | [317000-chick-room-escape-xmas-ver.json](./317000-chick-room-escape-xmas-ver.json) |
 | Chick That Never Skipped a Leg Day | 309128 | [309128-chick-that-never-skipped-a-leg-day.json](./309128-chick-that-never-skipped-a-leg-day.json) |
 | Chickaboom | 314663 | [314663-chickaboom.json](./314663-chickaboom.json) |
@@ -916,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiller | 11727 | [11727-chiller.json](./11727-chiller.json) |
 | Chillin' | 308265 | [308265-chillin.json](./308265-chillin.json) |
 | ChilloutVR | 121700 | [121700-chilloutvr.json](./121700-chilloutvr.json) |
+| Chime Candy | 281994 | [281994-chime-candy.json](./281994-chime-candy.json) |
 | Chimera of Tactics 1 | 93593 | [93593-chimera-of-tactics-1.json](./93593-chimera-of-tactics-1.json) |
 | Chimera of Tactics 3: Gun and Soccer | 110353 | [110353-chimera-of-tactics-3-gun-and-soccer.json](./110353-chimera-of-tactics-3-gun-and-soccer.json) |
 | Chimes: A Kinetic Novel | 184102 | [184102-chimes-a-kinetic-novel.json](./184102-chimes-a-kinetic-novel.json) |
@@ -950,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chlorophos | 119742 | [119742-chlorophos.json](./119742-chlorophos.json) |
 | Cho Chabudai Gaeshi! 2 | 313483 | [313483-cho-chabudai-gaeshi-2.json](./313483-cho-chabudai-gaeshi-2.json) |
 | Chobits: Atashi Dake no Hito | 78730 | [78730-chobits-atashi-dake-no-hito.json](./78730-chobits-atashi-dake-no-hito.json) |
+| Choc N Roll | 281995 | [281995-choc-n-roll.json](./281995-choc-n-roll.json) |
 | Choco-ken no Chokotto Fushigi na Monogatari: Chocolate Hime to Mahou no Recipe | 222517 | [222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json](./222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json) |
 | Choco-Ken no Dekitate Sweets Wagon | 287630 | [287630-choco-ken-no-dekitate-sweets-wagon.json](./287630-choco-ken-no-dekitate-sweets-wagon.json) |
 | Choco-Ken no Omise: Patisserie & Sweets Shop Game | 287628 | [287628-choco-ken-no-omise-patisserie-and-sweets-shop-game.json](./287628-choco-ken-no-omise-patisserie-and-sweets-shop-game.json) |
@@ -958,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolate makes you happy 7 | 105376 | [105376-chocolate-makes-you-happy-7.json](./105376-chocolate-makes-you-happy-7.json) |
 | Chocolate makes you happy: Halloween | 109746 | [109746-chocolate-makes-you-happy-halloween.json](./109746-chocolate-makes-you-happy-halloween.json) |
 | Chocolate makes you happy: Valentine's Day | 114362 | [114362-chocolate-makes-you-happy-valentines-day.json](./114362-chocolate-makes-you-happy-valentines-day.json) |
+| Chocolatio | 281996 | [281996-chocolatio.json](./281996-chocolatio.json) |
 | Choice of Alexandria | 19483 | [19483-choice-of-alexandria.json](./19483-choice-of-alexandria.json) |
 | Choice of Life: Wild Islands | 253576 | [253576-choice-of-life-wild-islands.json](./253576-choice-of-life-wild-islands.json) |
 | Choice or Fate | 114404 | [114404-choice-or-fate.json](./114404-choice-or-fate.json) |
@@ -1370,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clusterduck | 194667 | [194667-clusterduck.json](./194667-clusterduck.json) |
 | Clutter 18: Joe's Ultimate Challenge - Collector's Edition | 369562 | [369562-clutter-18-joes-ultimate-challenge-collectors-edition.json](./369562-clutter-18-joes-ultimate-challenge-collectors-edition.json) |
 | Clutter III : Who Is The Void? | 318199 | [318199-clutter-iii-who-is-the-void.json](./318199-clutter-iii-who-is-the-void.json) |
+| Clutter Puzzle Magazine Vol. 15 No. 1: Collector's Edition | 281999 | [281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json](./281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json) |
 | Co Operation: MultiTurn | 217500 | [217500-co-operation-multiturn.json](./217500-co-operation-multiturn.json) |
 | Coach Bus Driving Simulator | 308809 | [308809-coach-bus-driving-simulator.json](./308809-coach-bus-driving-simulator.json) |
 | Coagula Mappack #3 | 271482 | [271482-coagula-mappack-3.json](./271482-coagula-mappack-3.json) |
@@ -1413,8 +1427,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Zodiac | 251853 | [251853-code-zodiac.json](./251853-code-zodiac.json) |
 | Code, Solve, Revolt! | 265387 | [265387-code-solve-revolt.json](./265387-code-solve-revolt.json) |
 | Code: Europe | 73848 | [73848-code-europe.json](./73848-code-europe.json) |
+| Code5erpent | 281998 | [281998-code5erpent.json](./281998-code5erpent.json) |
 | Codebreaker Puzzle 1000! ENG & JAN | 147958 | [147958-codebreaker-puzzle-1000-eng-and-jan.json](./147958-codebreaker-puzzle-1000-eng-and-jan.json) |
 | Codebreakers VR | 318181 | [318181-codebreakers-vr.json](./318181-codebreakers-vr.json) |
+| Codedoor | 281997 | [281997-codedoor.json](./281997-codedoor.json) |
 | Codename: Rogue Fleet | 34446 | [34446-codename-rogue-fleet.json](./34446-codename-rogue-fleet.json) |
 | Codename: Rogue Fleet - The Reinforcements | 156155 | [156155-codename-rogue-fleet-the-reinforcements.json](./156155-codename-rogue-fleet-the-reinforcements.json) |
 | CodeRed: Agent Sarah's Story - Day One | 76679 | [76679-codered-agent-sarahs-story-day-one.json](./76679-codered-agent-sarahs-story-day-one.json) |
@@ -1770,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook Out! | 250045 | [250045-cook-out.json](./250045-cook-out.json) |
 | Cook with Card | 406724 | [406724-cook-with-card.json](./406724-cook-with-card.json) |
 | Cook-A-Geddon | 265433 | [265433-cook-a-geddon.json](./265433-cook-a-geddon.json) |
+| Cooked Out | 282001 | [282001-cooked-out.json](./282001-cooked-out.json) |
 | Cookie & Bibi 3 | 39643 | [39643-cookie-and-bibi-3.json](./39643-cookie-and-bibi-3.json) |
 | Cookie Run | 74416 | [74416-cookie-run.json](./74416-cookie-run.json) |
 | Cookie Run: OvenBreak | 78951 | [78951-cookie-run-ovenbreak.json](./78951-cookie-run-ovenbreak.json) |
@@ -1844,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpsênia | 190745 | [190745-corpsenia.json](./190745-corpsenia.json) |
 | Corral | 67525 | [67525-corral.json](./67525-corral.json) |
 | Corrida das Blogueiras 6: A Maldição dos Zumbis | 319027 | [319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json](./319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json) |
+| Corridor | 282000 | [282000-corridor.json](./282000-corridor.json) |
 | Corridor Geodesic | 319387 | [319387-corridor-geodesic.json](./319387-corridor-geodesic.json) |
 | Corridor Maze: Home Cleanup | 291251 | [291251-corridor-maze-home-cleanup.json](./291251-corridor-maze-home-cleanup.json) |
 | Corridors of Their Memories | 149093 | [149093-corridors-of-their-memories.json](./149093-corridors-of-their-memories.json) |
@@ -2596,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Sensation: MicroLife | 351631 | [351631-cyber-sensation-microlife.json](./351631-cyber-sensation-microlife.json) |
 | Cyber Sled | 20626 | [20626-cyber-sled.json](./20626-cyber-sled.json) |
 | Cyber Strike | 194001 | [194001-cyber-strike.json](./194001-cyber-strike.json) |
+| Cyber Strike | 282002 | [282002-cyber-strike.json](./282002-cyber-strike.json) |
 | Cyber Tank 2 | 330194 | [330194-cyber-tank-2.json](./330194-cyber-tank-2.json) |
 | Cyber Theater | 218153 | [218153-cyber-theater.json](./218153-cyber-theater.json) |
 | Cyber Tiger | 3431 | [3431-cyber-tiger.json](./3431-cyber-tiger.json) |
