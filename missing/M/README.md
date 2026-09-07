@@ -938,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Wars | 165697 | [165697-medieval-wars.json](./165697-medieval-wars.json) |
 | Medival Hustle | 304578 | [304578-medival-hustle.json](./304578-medival-hustle.json) |
 | Medusa Frontier | 196889 | [196889-medusa-frontier.json](./196889-medusa-frontier.json) |
+| Medusa the Origin: Lost Dream of the Deep | 284324 | [284324-medusa-the-origin-lost-dream-of-the-deep.json](./284324-medusa-the-origin-lost-dream-of-the-deep.json) |
 | Medusa VR | 247181 | [247181-medusa-vr.json](./247181-medusa-vr.json) |
 | Meekanoid | 200174 | [200174-meekanoid.json](./200174-meekanoid.json) |
 | Meeple Incremental | 404252 | [404252-meeple-incremental.json](./404252-meeple-incremental.json) |
@@ -1051,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meiji Tokyo Renka | 136445 | [136445-meiji-tokyo-renka.json](./136445-meiji-tokyo-renka.json) |
 | Meiji Tokyo Renka Full Moon | 136447 | [136447-meiji-tokyo-renka-full-moon.json](./136447-meiji-tokyo-renka-full-moon.json) |
 | Meiji Tokyo Renka Twilight Kiss | 136446 | [136446-meiji-tokyo-renka-twilight-kiss.json](./136446-meiji-tokyo-renka-twilight-kiss.json) |
+| Meikyuu Ryuuki | 284319 | [284319-meikyuu-ryuuki.json](./284319-meikyuu-ryuuki.json) |
 | Meine Tierarztpraxis: SOS am Ozean | 204688 | [204688-meine-tierarztpraxis-sos-am-ozean.json](./204688-meine-tierarztpraxis-sos-am-ozean.json) |
 | Meine Tierpension | 179201 | [179201-meine-tierpension.json](./179201-meine-tierpension.json) |
 | Meine Tiersprechstunde | 179202 | [179202-meine-tiersprechstunde.json](./179202-meine-tiersprechstunde.json) |
