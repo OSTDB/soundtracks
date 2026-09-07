@@ -328,6 +328,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cario | 220341 | [220341-cario.json](./220341-cario.json) |
 | Carious Weltling | 354450 | [354450-carious-weltling.json](./354450-carious-weltling.json) |
 | Carl Currency, Expert Exchanger | 229345 | [229345-carl-currency-expert-exchanger.json](./229345-carl-currency-expert-exchanger.json) |
+| Carl the Caveman | 281419 | [281419-carl-the-caveman.json](./281419-carl-the-caveman.json) |
+| Carl the Caveman: Christmas Adventures | 281421 | [281421-carl-the-caveman-christmas-adventures.json](./281421-carl-the-caveman-christmas-adventures.json) |
 | Carl und Cari: Trubel in Tierstadt | 309871 | [309871-carl-und-cari-trubel-in-tierstadt.json](./309871-carl-und-cari-trubel-in-tierstadt.json) |
 | Carl's Alien Shooting | 324327 | [324327-carls-alien-shooting.json](./324327-carls-alien-shooting.json) |
 | Carlos Haunted House | 343835 | [343835-carlos-haunted-house.json](./343835-carlos-haunted-house.json) |
@@ -755,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos;Child Love Chu Chu!! | 65530 | [65530-chaos-child-love-chu-chu.json](./65530-chaos-child-love-chu-chu.json) |
 | Chaos;Head Noah | 43953 | [43953-chaos-head-noah.json](./43953-chaos-head-noah.json) |
 | Chaos;Head Noah / Chaos;Child Double Pack | 194326 | [194326-chaos-head-noah-chaos-child-double-pack.json](./194326-chaos-head-noah-chaos-child-double-pack.json) |
+| Chāoshí Kōng zhī Lún | 281408 | [281408-chaoshi-kong-zhi-lun.json](./281408-chaoshi-kong-zhi-lun.json) |
 | Chaotic Airport Construction Manager | 149608 | [149608-chaotic-airport-construction-manager.json](./149608-chaotic-airport-construction-manager.json) |
 | Chaotic Pursuit | 259857 | [259857-chaotic-pursuit.json](./259857-chaotic-pursuit.json) |
 | Chaotic World | 414343 | [414343-chaotic-world.json](./414343-chaotic-world.json) |
@@ -794,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers' Village | 382190 | [382190-checkers-village.json](./382190-checkers-village.json) |
 | Checkmate Heroines | 391068 | [391068-checkmate-heroines.json](./391068-checkmate-heroines.json) |
 | Checkmate in the Wild West: Chess Adventure | 373534 | [373534-checkmate-in-the-wild-west-chess-adventure.json](./373534-checkmate-in-the-wild-west-chess-adventure.json) |
+| Checkpoint Gary | 281371 | [281371-checkpoint-gary.json](./281371-checkpoint-gary.json) |
 | Cheddly and Cloud's Crazy Adventure | 332222 | [332222-cheddly-and-clouds-crazy-adventure.json](./332222-cheddly-and-clouds-crazy-adventure.json) |
 | Cheddly and Cloud's Crazy Adventure 2 | 332261 | [332261-cheddly-and-clouds-crazy-adventure-2.json](./332261-cheddly-and-clouds-crazy-adventure-2.json) |
 | Chee-Chai Alien | 79920 | [79920-chee-chai-alien.json](./79920-chee-chai-alien.json) |
@@ -1102,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chukcha v Bolshom Gorode | 403576 | [403576-chukcha-v-bolshom-gorode.json](./403576-chukcha-v-bolshom-gorode.json) |
 | Chulip | 20657 | [20657-chulip.json](./20657-chulip.json) |
 | Chungus Rampage in Big Forest | 143068 | [143068-chungus-rampage-in-big-forest.json](./143068-chungus-rampage-in-big-forest.json) |
+| Chunithm Luminous | 281381 | [281381-chunithm-luminous.json](./281381-chunithm-luminous.json) |
 | Chunithm Sun Plus | 269300 | [269300-chunithm-sun-plus.json](./269300-chunithm-sun-plus.json) |
 | Chunithm Verse | 335960 | [335960-chunithm-verse.json](./335960-chunithm-verse.json) |
 | Chup's Quest | 243946 | [243946-chups-quest.json](./243946-chups-quest.json) |
@@ -1172,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citizen Pain | 348269 | [348269-citizen-pain.json](./348269-citizen-pain.json) |
 | Citizen Witch | 184650 | [184650-citizen-witch.json](./184650-citizen-witch.json) |
 | Citizen Zein | 278738 | [278738-citizen-zein.json](./278738-citizen-zein.json) |
+| City 7: Toronto Conflict | 281410 | [281410-city-7-toronto-conflict.json](./281410-city-7-toronto-conflict.json) |
 | City Ambulance: Rescue Express | 277018 | [277018-city-ambulance-rescue-express.json](./277018-city-ambulance-rescue-express.json) |
 | City Builder | 101595 | [101595-city-builder.json](./101595-city-builder.json) |
 | City Bus Simulator 2010 | 67299 | [67299-city-bus-simulator-2010.json](./67299-city-bus-simulator-2010.json) |
@@ -1437,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CodeStrike | 368500 | [368500-codestrike.json](./368500-codestrike.json) |
 | CodeWordPlay | 228096 | [228096-codewordplay.json](./228096-codewordplay.json) |
 | CodyCross: Crossword Puzzles | 86994 | [86994-codycross-crossword-puzzles.json](./86994-codycross-crossword-puzzles.json) |
+| Coffee Buns | 281377 | [281377-coffee-buns.json](./281377-coffee-buns.json) |
 | Coffee Extra: Ukuzala | 320528 | [320528-coffee-extra-ukuzala.json](./320528-coffee-extra-ukuzala.json) |
 | Coffee Mafia | 112322 | [112322-coffee-mafia.json](./112322-coffee-mafia.json) |
 | Coffee Noir | 27795 | [27795-coffee-noir.json](./27795-coffee-noir.json) |
@@ -1623,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coming Home | 347152 | [347152-coming-home.json](./347152-coming-home.json) |
 | Coming Out Simulator 2014 | 60030 | [60030-coming-out-simulator-2014.json](./60030-coming-out-simulator-2014.json) |
 | Comix Zero | 324330 | [324330-comix-zero.json](./324330-comix-zero.json) |
+| Command & Conquer 3: Tiberium Wars | 281426 | [281426-command-and-conquer-3-tiberium-wars.json](./281426-command-and-conquer-3-tiberium-wars.json) |
 | Command & Conquer: Generals | 649 | [649-command-and-conquer-generals.json](./649-command-and-conquer-generals.json) |
 | Command & Conquer: Red Alert - Retaliation | 18785 | [18785-command-and-conquer-red-alert-retaliation.json](./18785-command-and-conquer-red-alert-retaliation.json) |
 | Command & Conquer: Red Alert 2 - Mental Omega | 180284 | [180284-command-and-conquer-red-alert-2-mental-omega.json](./180284-command-and-conquer-red-alert-2-mental-omega.json) |
