@@ -782,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Fair Play | 172755 | [172755-no-fair-play.json](./172755-no-fair-play.json) |
 | No Final Night: Protect the Sponk Can | 410918 | [410918-no-final-night-protect-the-sponk-can.json](./410918-no-final-night-protect-the-sponk-can.json) |
 | No Food No Drink | 338752 | [338752-no-food-no-drink.json](./338752-no-food-no-drink.json) |
+| No Ghost in Circus Caravan | 311999 | [311999-no-ghost-in-circus-caravan.json](./311999-no-ghost-in-circus-caravan.json) |
 | No Gods, Only Ducks | 415902 | [415902-no-gods-only-ducks.json](./415902-no-gods-only-ducks.json) |
 | No JetPacks For Chattini | 346015 | [346015-no-jetpacks-for-chattini.json](./346015-no-jetpacks-for-chattini.json) |
 | No Kings Tiny Defenders | 376455 | [376455-no-kings-tiny-defenders.json](./376455-no-kings-tiny-defenders.json) |
