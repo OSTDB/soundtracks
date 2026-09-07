@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depths of Insanity 2 | 292321 | [292321-depths-of-insanity-2.json](./292321-depths-of-insanity-2.json) |
 | Dequivsia | 326603 | [326603-dequivsia.json](./326603-dequivsia.json) |
 | Der Blaue Diamant: Additional mission | 213031 | [213031-der-blaue-diamant-additional-mission.json](./213031-der-blaue-diamant-additional-mission.json) |
+| Der Wanderer über dem Säuremeer | 271231 | [271231-der-wanderer-uber-dem-sauremeer.json](./271231-der-wanderer-uber-dem-sauremeer.json) |
 | Der Weichensteller: Odyssey Live | 309108 | [309108-der-weichensteller-odyssey-live.json](./309108-der-weichensteller-odyssey-live.json) |
 | Der Zorn Gottes | 308241 | [308241-der-zorn-gottes.json](./308241-der-zorn-gottes.json) |
 | Derby Life: Ranch & Race | 415104 | [415104-derby-life-ranch-and-race.json](./415104-derby-life-ranch-and-race.json) |
@@ -1352,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disorderly | 356625 | [356625-disorderly.json](./356625-disorderly.json) |
 | Displaced | 28939 | [28939-displaced.json](./28939-displaced.json) |
 | Disposable Heroes | 14037 | [14037-disposable-heroes.json](./14037-disposable-heroes.json) |
+| Disposal Of Otherworldly Monsters | 271223 | [271223-disposal-of-otherworldly-monsters.json](./271223-disposal-of-otherworldly-monsters.json) |
 | Disquiet Fields | 157676 | [157676-disquiet-fields.json](./157676-disquiet-fields.json) |
 | Disquieted | 397663 | [397663-disquieted.json](./397663-disquieted.json) |
 | Disrtust and Goliath Premium Survival Bundle | 301566 | [301566-disrtust-and-goliath-premium-survival-bundle.json](./301566-disrtust-and-goliath-premium-survival-bundle.json) |
@@ -1930,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Puncher | 332997 | [332997-dragon-puncher.json](./332997-dragon-puncher.json) |
 | Dragon Quest III HD-2D Remake | 149980 | [149980-dragon-quest-iii-hd-2d-remake.json](./149980-dragon-quest-iii-hd-2d-remake.json) |
 | Dragon Quest III: The Seeds of Salvation | 1814 | [1814-dragon-quest-iii-the-seeds-of-salvation.json](./1814-dragon-quest-iii-the-seeds-of-salvation.json) |
+| Dragon Quest IV: Michibikareshi Mono-tachi | 271211 | [271211-dragon-quest-iv-michibikareshi-mono-tachi.json](./271211-dragon-quest-iv-michibikareshi-mono-tachi.json) |
 | Dragon Quest Keshi Keshi | 194015 | [194015-dragon-quest-keshi-keshi.json](./194015-dragon-quest-keshi-keshi.json) |
 | Dragon Quest Monster Super Light | 80598 | [80598-dragon-quest-monster-super-light.json](./80598-dragon-quest-monster-super-light.json) |
 | Dragon Quest Monsters: Joker 3 Professional | 79296 | [79296-dragon-quest-monsters-joker-3-professional.json](./79296-dragon-quest-monsters-joker-3-professional.json) |
@@ -2501,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynowarz: Destruction of Spondylus | 48029 | [48029-dynowarz-destruction-of-spondylus.json](./48029-dynowarz-destruction-of-spondylus.json) |
 | Dysarmia | 304896 | [304896-dysarmia.json](./304896-dysarmia.json) |
 | Dyschronia: Chronos Alternate - Dual Edition | 273637 | [273637-dyschronia-chronos-alternate-dual-edition.json](./273637-dyschronia-chronos-alternate-dual-edition.json) |
+| Dysnystaxis (...A Chance Meeting With Somnus) | 271219 | [271219-dysnystaxis-a-chance-meeting-with-somnus.json](./271219-dysnystaxis-a-chance-meeting-with-somnus.json) |
 | Dysto-wanderer | 319016 | [319016-dysto-wanderer.json](./319016-dysto-wanderer.json) |
 | Dystofarm | 275347 | [275347-dystofarm.json](./275347-dystofarm.json) |
 | Dziedzic: A Book of Unanswered Questions | 299735 | [299735-dziedzic-a-book-of-unanswered-questions.json](./299735-dziedzic-a-book-of-unanswered-questions.json) |
