@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavenger | 237648 | [237648-scavenger.json](./237648-scavenger.json) |
 | Scavenger | 74443 | [74443-scavenger.json](./74443-scavenger.json) |
 | Scavenger Skirmish: Mortal World | 105372 | [105372-scavenger-skirmish-mortal-world.json](./105372-scavenger-skirmish-mortal-world.json) |
+| Scavenger VR | 277837 | [277837-scavenger-vr.json](./277837-scavenger-vr.json) |
 | Scavland | 339674 | [339674-scavland.json](./339674-scavland.json) |
 | Scene It? Comedy Movies | 66154 | [66154-scene-it-comedy-movies.json](./66154-scene-it-comedy-movies.json) |
 | Scene It? Harry Potter | 66155 | [66155-scene-it-harry-potter.json](./66155-scene-it-harry-potter.json) |
@@ -499,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scouter | 316613 | [316613-scouter.json](./316613-scouter.json) |
 | SCP Observer | 188680 | [188680-scp-observer.json](./188680-scp-observer.json) |
 | SCP-087 | 336366 | [336366-scp-087.json](./336366-scp-087.json) |
+| SCP-087-B UE Remake | 277856 | [277856-scp-087-b-ue-remake.json](./277856-scp-087-b-ue-remake.json) |
 | SCP-087: The Stairwell Horror | 324126 | [324126-scp-087-the-stairwell-horror.json](./324126-scp-087-the-stairwell-horror.json) |
 | SCP: A Star Replicator | 320555 | [320555-scp-a-star-replicator.json](./320555-scp-a-star-replicator.json) |
 | SCP: Containment Breach Remastered | 210866 | [210866-scp-containment-breach-remastered.json](./210866-scp-containment-breach-remastered.json) |
@@ -756,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Semispheres | 17990 | [17990-semispheres.json](./17990-semispheres.json) |
 | Semmelweis | 238752 | [238752-semmelweis.json](./238752-semmelweis.json) |
 | Semper Fidelis: Marine Corps | 73830 | [73830-semper-fidelis-marine-corps.json](./73830-semper-fidelis-marine-corps.json) |
+| Send It: The Game | 277833 | [277833-send-it-the-game.json](./277833-send-it-the-game.json) |
 | Senderos de Fugüm | 326606 | [326606-senderos-de-fugum.json](./326606-senderos-de-fugum.json) |
 | Sengoku 3 | 46784 | [46784-sengoku-3.json](./46784-sengoku-3.json) |
 | Sengoku Block Bashi | 151711 | [151711-sengoku-block-bashi.json](./151711-sengoku-block-bashi.json) |
@@ -780,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensible Train-Spotting | 77374 | [77374-sensible-train-spotting.json](./77374-sensible-train-spotting.json) |
 | Sensitive | 320188 | [320188-sensitive.json](./320188-sensitive.json) |
 | Sensory Deprivation Chamber | 262088 | [262088-sensory-deprivation-chamber.json](./262088-sensory-deprivation-chamber.json) |
+| Sensual Adventures: Episode 9 | 277842 | [277842-sensual-adventures-episode-9.json](./277842-sensual-adventures-episode-9.json) |
 | Sente | 122414 | [122414-sente.json](./122414-sente.json) |
 | Sentience | 143695 | [143695-sentience.json](./143695-sentience.json) |
 | Sentimental Graffiti | 124264 | [124264-sentimental-graffiti.json](./124264-sentimental-graffiti.json) |
@@ -1207,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinseiki Evangelion Mahjong Hokan Keikaku | 61676 | [61676-shinseiki-evangelion-mahjong-hokan-keikaku.json](./61676-shinseiki-evangelion-mahjong-hokan-keikaku.json) |
 | Shinseiki Evangelion: Typing E-Keikaku | 61671 | [61671-shinseiki-evangelion-typing-e-keikaku.json](./61671-shinseiki-evangelion-typing-e-keikaku.json) |
 | Shinsetsu Mahou Shoujo | 131589 | [131589-shinsetsu-mahou-shoujo.json](./131589-shinsetsu-mahou-shoujo.json) |
+| Shinsetsu Shiawase Usagi F: Yuujou Yori mo Aiyoku | 277859 | [277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json](./277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json) |
 | Shinshuku Taisen: It's a Noni! | 123622 | [123622-shinshuku-taisen-its-a-noni.json](./123622-shinshuku-taisen-its-a-noni.json) |
 | Shinya Ichizoku: The Battle for Hokkaido's Delicious Foods | 186908 | [186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json](./186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json) |
 | Shinyaku Boushi Sekai | 396208 | [396208-shinyaku-boushi-sekai.json](./396208-shinyaku-boushi-sekai.json) |
@@ -1533,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulassword | 226440 | [226440-simulassword.json](./226440-simulassword.json) |
 | Simulation 9 | 408733 | [408733-simulation-9.json](./408733-simulation-9.json) |
 | Simulation Training Room: Massacre | 295545 | [295545-simulation-training-room-massacre.json](./295545-simulation-training-room-massacre.json) |
+| Simulator Z | 277838 | [277838-simulator-z.json](./277838-simulator-z.json) |
 | Simulator: Parking Lot | 323510 | [323510-simulator-parking-lot.json](./323510-simulator-parking-lot.json) |
 | Sin Breaker Rig | 238736 | [238736-sin-breaker-rig.json](./238736-sin-breaker-rig.json) |
 | Sin Cards: Welcome to the Netherworld | 337084 | [337084-sin-cards-welcome-to-the-netherworld.json](./337084-sin-cards-welcome-to-the-netherworld.json) |
@@ -2552,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Grinder | 184649 | [184649-soul-grinder.json](./184649-soul-grinder.json) |
 | Soul Injector Commando | 322603 | [322603-soul-injector-commando.json](./322603-soul-injector-commando.json) |
 | Soul Interface | 302382 | [302382-soul-interface.json](./302382-soul-interface.json) |
+| Soul Knight Prequel | 277857 | [277857-soul-knight-prequel.json](./277857-soul-knight-prequel.json) |
 | Soul Land: Advent of the Gods | 194020 | [194020-soul-land-advent-of-the-gods.json](./194020-soul-land-advent-of-the-gods.json) |
 | Soul Locus | 35754 | [35754-soul-locus.json](./35754-soul-locus.json) |
 | Soul Master | 180288 | [180288-soul-master.json](./180288-soul-master.json) |
@@ -2723,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space on the Case | 310961 | [310961-space-on-the-case.json](./310961-space-on-the-case.json) |
 | Space Operation | 273661 | [273661-space-operation.json](./273661-space-operation.json) |
 | Space Ops Arcade | 285480 | [285480-space-ops-arcade.json](./285480-space-ops-arcade.json) |
+| Space Papers: Planet's Border | 277840 | [277840-space-papers-planets-border.json](./277840-space-papers-planets-border.json) |
 | Space Pilgrim Academy: Year 2 | 95596 | [95596-space-pilgrim-academy-year-2.json](./95596-space-pilgrim-academy-year-2.json) |
 | Space Pilgrim Academy: Year 3 | 109399 | [109399-space-pilgrim-academy-year-3.json](./109399-space-pilgrim-academy-year-3.json) |
 | Space Pilgrim Episode II: Epsilon Indi | 33810 | [33810-space-pilgrim-episode-ii-epsilon-indi.json](./33810-space-pilgrim-episode-ii-epsilon-indi.json) |
@@ -2738,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rangers: Quest | 25617 | [25617-space-rangers-quest.json](./25617-space-rangers-quest.json) |
 | Space Revenge | 158217 | [158217-space-revenge.json](./158217-space-revenge.json) |
 | Space Rockets: Spaceship Rocket Simulator | 232180 | [232180-space-rockets-spaceship-rocket-simulator.json](./232180-space-rockets-spaceship-rocket-simulator.json) |
+| Space Rocks! | 277829 | [277829-space-rocks.json](./277829-space-rocks.json) |
 | Space runner | 27903 | [27903-space-runner.json](./27903-space-runner.json) |
 | Space Scaven | 33156 | [33156-space-scaven.json](./33156-space-scaven.json) |
 | Space Shells | 204100 | [204100-space-shells.json](./204100-space-shells.json) |
@@ -4676,6 +4685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Mars: In-Dome Buildings Pack | 215400 | [215400-surviving-mars-in-dome-buildings-pack.json](./215400-surviving-mars-in-dome-buildings-pack.json) |
 | Surviving Medieval | 118402 | [118402-surviving-medieval.json](./118402-surviving-medieval.json) |
 | Surviving West | 92524 | [92524-surviving-west.json](./92524-surviving-west.json) |
+| Surviving with a Bat | 277824 | [277824-surviving-with-a-bat.json](./277824-surviving-with-a-bat.json) |
 | Survivor Cells: Virusbane | 310389 | [310389-survivor-cells-virusbane.json](./310389-survivor-cells-virusbane.json) |
 | Survivor of the Journey | 210892 | [210892-survivor-of-the-journey.json](./210892-survivor-of-the-journey.json) |
 | Survivor TD | 391574 | [391574-survivor-td.json](./391574-survivor-td.json) |
