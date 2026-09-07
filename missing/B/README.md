@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Kicker | 109640 | [109640-ball-kicker.json](./109640-ball-kicker.json) |
 | Ball Match Quest | 108481 | [108481-ball-match-quest.json](./108481-ball-match-quest.json) |
 | Ball of Wonder | 31897 | [31897-ball-of-wonder.json](./31897-ball-of-wonder.json) |
+| Ball Out | 262962 | [262962-ball-out.json](./262962-ball-out.json) |
 | Ball Pain | 193465 | [193465-ball-pain.json](./193465-ball-pain.json) |
 | Ball Panic! | 116393 | [116393-ball-panic.json](./116393-ball-panic.json) |
 | Ball Raider II | 14282 | [14282-ball-raider-ii.json](./14282-ball-raider-ii.json) |
@@ -1009,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between Worlds | 181388 | [181388-between-worlds.json](./181388-between-worlds.json) |
 | Bevel's Painting | 121030 | [121030-bevels-painting.json](./121030-bevels-painting.json) |
 | Beware | 102780 | [102780-beware.json](./102780-beware.json) |
+| Beware of Falling Angels | 262982 | [262982-beware-of-falling-angels.json](./262982-beware-of-falling-angels.json) |
 | Beware of the Blob | 137652 | [137652-beware-of-the-blob.json](./137652-beware-of-the-blob.json) |
 | Beware the Ghost | 176474 | [176474-beware-the-ghost.json](./176474-beware-the-ghost.json) |
 | Beware Tomorrow | 320765 | [320765-beware-tomorrow.json](./320765-beware-tomorrow.json) |
@@ -1048,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biblistry | 58797 | [58797-biblistry.json](./58797-biblistry.json) |
 | Bibou | 32916 | [32916-bibou.json](./32916-bibou.json) |
 | Bicycle Casino | 5747 | [5747-bicycle-casino.json](./5747-bicycle-casino.json) |
+| Bifrost | 262983 | [262983-bifrost.json](./262983-bifrost.json) |
 | Big Adventure: Trip to Europe 10 - Collector's Edition | 338699 | [338699-big-adventure-trip-to-europe-10-collectors-edition.json](./338699-big-adventure-trip-to-europe-10-collectors-edition.json) |
 | Big Ball Sports | 275876 | [275876-big-ball-sports.json](./275876-big-ball-sports.json) |
 | Big Bang Pro Wrestling | 43972 | [43972-big-bang-pro-wrestling.json](./43972-big-bang-pro-wrestling.json) |
