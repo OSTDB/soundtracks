@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Defeat HD | 43951 | [43951-under-defeat-hd.json](./43951-under-defeat-hd.json) |
 | Under Defeat HD+ | 21016 | [21016-under-defeat-hd.json](./21016-under-defeat-hd.json) |
 | Under Night In-Birth II: Character - Uzuki | 309084 | [309084-under-night-in-birth-ii-character-uzuki.json](./309084-under-night-in-birth-ii-character-uzuki.json) |
+| Under Night In-Bright II Sys:Celes - Deluxe Edition | 277303 | [277303-under-night-in-bright-ii-sys-celes-deluxe-edition.json](./277303-under-night-in-bright-ii-sys-celes-deluxe-edition.json) |
 | Under Oath | 193989 | [193989-under-oath.json](./193989-under-oath.json) |
 | Under Party | 127021 | [127021-under-party.json](./127021-under-party.json) |
 | Under Princess: Pure Voice | 109005 | [109005-under-princess-pure-voice.json](./109005-under-princess-pure-voice.json) |
