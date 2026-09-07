@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeliVR Simulator | 249472 | [249472-helivr-simulator.json](./249472-helivr-simulator.json) |
 | Helix Ball | 104651 | [104651-helix-ball.json](./104651-helix-ball.json) |
 | Helix Jump 2 | 101536 | [101536-helix-jump-2.json](./101536-helix-jump-2.json) |
+| Helix Jump: Complete Edition | 283173 | [283173-helix-jump-complete-edition.json](./283173-helix-jump-complete-edition.json) |
 | Helix: Descent N Ascent | 284906 | [284906-helix-descent-n-ascent.json](./284906-helix-descent-n-ascent.json) |
 | Hell Awaits | 229366 | [229366-hell-awaits.json](./229366-hell-awaits.json) |
 | Hell Blood: Inferno Retro Shooter | 378804 | [378804-hell-blood-inferno-retro-shooter.json](./378804-hell-blood-inferno-retro-shooter.json) |
@@ -669,8 +670,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Happy Edition | 290427 | [290427-hentai-girls-happy-edition.json](./290427-hentai-girls-happy-edition.json) |
 | Hentai Girls: Magnificent Edition | 298572 | [298572-hentai-girls-magnificent-edition.json](./298572-hentai-girls-magnificent-edition.json) |
 | Hentai Girls: Paris Romance | 314871 | [314871-hentai-girls-paris-romance.json](./314871-hentai-girls-paris-romance.json) |
+| Hentai Girls: Platinum Edition | 283147 | [283147-hentai-girls-platinum-edition.json](./283147-hentai-girls-platinum-edition.json) |
 | Hentai Girls: Sexy Feet Goddesses | 296907 | [296907-hentai-girls-sexy-feet-goddesses.json](./296907-hentai-girls-sexy-feet-goddesses.json) |
 | Hentai Girls: Ultra Extended | 308817 | [308817-hentai-girls-ultra-extended.json](./308817-hentai-girls-ultra-extended.json) |
+| Hentai Golf | 283177 | [283177-hentai-golf.json](./283177-hentai-golf.json) |
+| Hentai Golf: Deluxe Edition | 283178 | [283178-hentai-golf-deluxe-edition.json](./283178-hentai-golf-deluxe-edition.json) |
 | Hentai Golf: Happy Edition | 315861 | [315861-hentai-golf-happy-edition.json](./315861-hentai-golf-happy-edition.json) |
 | Hentai Golf: Platinum Edition | 308801 | [308801-hentai-golf-platinum-edition.json](./308801-hentai-golf-platinum-edition.json) |
 | Hentai Hack-Her | 147452 | [147452-hentai-hack-her.json](./147452-hentai-hack-her.json) |
@@ -700,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Solitaire: Extended Edition | 315868 | [315868-hentai-solitaire-extended-edition.json](./315868-hentai-solitaire-extended-edition.json) |
 | Hentai Sport | 286537 | [286537-hentai-sport.json](./286537-hentai-sport.json) |
 | Hentai Stars: Amazing Edition | 308800 | [308800-hentai-stars-amazing-edition.json](./308800-hentai-stars-amazing-edition.json) |
+| Hentai Stars: Premium Edition | 283172 | [283172-hentai-stars-premium-edition.json](./283172-hentai-stars-premium-edition.json) |
 | Hentai Stars: Superb Edition | 314885 | [314885-hentai-stars-superb-edition.json](./314885-hentai-stars-superb-edition.json) |
 | Hentai Tales: Triangle That Wants Me All | 401532 | [401532-hentai-tales-triangle-that-wants-me-all.json](./401532-hentai-tales-triangle-that-wants-me-all.json) |
 | Hentai vs. Orcs | 161388 | [161388-hentai-vs-orcs.json](./161388-hentai-vs-orcs.json) |
