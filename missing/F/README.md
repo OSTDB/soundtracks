@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast & Furious: Spy Racers Rise of Sh1ft3r | 150132 | [150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json](./150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json) |
 | Fast Beat Battle Rider | 292288 | [292288-fast-beat-battle-rider.json](./292288-fast-beat-battle-rider.json) |
 | Fast Blast | 108503 | [108503-fast-blast.json](./108503-fast-blast.json) |
+| Fast Cars Small Islands | 284912 | [284912-fast-cars-small-islands.json](./284912-fast-cars-small-islands.json) |
 | Fast Food | 18287 | [18287-fast-food.json](./18287-fast-food.json) |
 | Fast Food Crisis | 266523 | [266523-fast-food-crisis.json](./266523-fast-food-crisis.json) |
 | Fast Food Frog | 358881 | [358881-fast-food-frog.json](./358881-fast-food-frog.json) |
@@ -888,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit & Fun | 50604 | [50604-fit-and-fun.json](./50604-fit-and-fun.json) |
 | Fit Cats | 382188 | [382188-fit-cats.json](./382188-fit-cats.json) |
 | Fit For A King | 121200 | [121200-fit-for-a-king.json](./121200-fit-for-a-king.json) |
+| Fit My Cat | 284930 | [284930-fit-my-cat.json](./284930-fit-my-cat.json) |
 | Fit My Zoo: Complete + | 328820 | [328820-fit-my-zoo-complete.json](./328820-fit-my-zoo-complete.json) |
 | Fit My Zoo: Zoo's Puzzle Pack 1 | 308811 | [308811-fit-my-zoo-zoos-puzzle-pack-1.json](./308811-fit-my-zoo-zoos-puzzle-pack-1.json) |
 | Fit My Zoo: Zoo's Puzzle Pack 2 | 308812 | [308812-fit-my-zoo-zoos-puzzle-pack-2.json](./308812-fit-my-zoo-zoos-puzzle-pack-2.json) |
