@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Infinity | 117043 | [117043-mahjong-infinity.json](./117043-mahjong-infinity.json) |
 | Mahjong Lemon Angel | 42004 | [42004-mahjong-lemon-angel.json](./42004-mahjong-lemon-angel.json) |
 | Mahjong Masters Club | 385090 | [385090-mahjong-masters-club.json](./385090-mahjong-masters-club.json) |
+| Mahjong on the Beach | 305195 | [305195-mahjong-on-the-beach.json](./305195-mahjong-on-the-beach.json) |
 | Mahjong Party Pack | 268203 | [268203-mahjong-party-pack.json](./268203-mahjong-party-pack.json) |
 | Mahjong Trap | 115717 | [115717-mahjong-trap.json](./115717-mahjong-trap.json) |
 | Mahjong Venice Mystery Puzzle | 87715 | [87715-mahjong-venice-mystery-puzzle.json](./87715-mahjong-venice-mystery-puzzle.json) |
@@ -612,6 +613,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Ultimate Alliance 3: The Black Order - Curse of the Vampire | 122700 | [122700-marvel-ultimate-alliance-3-the-black-order-curse-of-the-vampire.json](./122700-marvel-ultimate-alliance-3-the-black-order-curse-of-the-vampire.json) |
 | Marvel Ultimate Alliance 3: The Black Order - Rise of the Phoenix | 122701 | [122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json](./122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json) |
 | Marvel Ultimate Alliance 3: The Black Order - Shadow of Doom | 122702 | [122702-marvel-ultimate-alliance-3-the-black-order-shadow-of-doom.json](./122702-marvel-ultimate-alliance-3-the-black-order-shadow-of-doom.json) |
+| Marvel vs. Capcom 2: New Age of Heroes | 305168 | [305168-marvel-vs-capcom-2-new-age-of-heroes.json](./305168-marvel-vs-capcom-2-new-age-of-heroes.json) |
+| Marvel vs. Capcom 2: New Age of Heroes | 305169 | [305169-marvel-vs-capcom-2-new-age-of-heroes.json](./305169-marvel-vs-capcom-2-new-age-of-heroes.json) |
 | Marvel's Avengers Definitive Edition | 259466 | [259466-marvels-avengers-definitive-edition.json](./259466-marvels-avengers-definitive-edition.json) |
 | Marvel's Guardians of the Galaxy: Cloud Version | 152370 | [152370-marvels-guardians-of-the-galaxy-cloud-version.json](./152370-marvels-guardians-of-the-galaxy-cloud-version.json) |
 | Marvel's Midnight Suns: Blood Storm | 248352 | [248352-marvels-midnight-suns-blood-storm.json](./248352-marvels-midnight-suns-blood-storm.json) |
