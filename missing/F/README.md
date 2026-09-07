@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fault Milestone Two Side: Above | 35883 | [35883-fault-milestone-two-side-above.json](./35883-fault-milestone-two-side-above.json) |
 | Faustian Bargain | 209669 | [209669-faustian-bargain.json](./209669-faustian-bargain.json) |
 | Faylinn's Quest | 173840 | [173840-faylinns-quest.json](./173840-faylinns-quest.json) |
+| FC Barcelona Club Football 2005 | 267909 | [267909-fc-barcelona-club-football-2005.json](./267909-fc-barcelona-club-football-2005.json) |
 | FCK: Lille Leo Bruger Bolden | 129778 | [129778-fck-lille-leo-bruger-bolden.json](./129778-fck-lille-leo-bruger-bolden.json) |
 | FD's Industry Tycoon | 409588 | [409588-fds-industry-tycoon.json](./409588-fds-industry-tycoon.json) |
 | Fear & Fury | 238716 | [238716-fear-and-fury.json](./238716-fear-and-fury.json) |
@@ -1563,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Chess: Primitives Set | 310390 | [310390-free-chess-primitives-set.json](./310390-free-chess-primitives-set.json) |
 | Free Dunk | 339087 | [339087-free-dunk.json](./339087-free-dunk.json) |
 | Free Fall | 13716 | [13716-free-fall.json](./13716-free-fall.json) |
+| Free Fall | 267940 | [267940-free-fall.json](./267940-free-fall.json) |
 | Free Fall | 321756 | [321756-free-fall.json](./321756-free-fall.json) |
 | Free for Fall | 192970 | [192970-free-for-fall.json](./192970-free-for-fall.json) |
 | Free Ninja | 317635 | [317635-free-ninja.json](./317635-free-ninja.json) |
