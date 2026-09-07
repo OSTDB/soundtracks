@@ -499,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost in the Shell: Arise - Stealth Hounds | 52005 | [52005-ghost-in-the-shell-arise-stealth-hounds.json](./52005-ghost-in-the-shell-arise-stealth-hounds.json) |
 | Ghost Jumper: Red Hoodie | 315280 | [315280-ghost-jumper-red-hoodie.json](./315280-ghost-jumper-red-hoodie.json) |
 | Ghost Master: Resurrection | 334665 | [334665-ghost-master-resurrection.json](./334665-ghost-master-resurrection.json) |
+| Ghost Mayoker | 267919 | [267919-ghost-mayoker.json](./267919-ghost-mayoker.json) |
 | Ghost of a Tale | 7684 | [7684-ghost-of-a-tale.json](./7684-ghost-of-a-tale.json) |
 | Ghost Party | 304863 | [304863-ghost-party.json](./304863-ghost-party.json) |
 | Ghost Pursuit VR | 31977 | [31977-ghost-pursuit-vr.json](./31977-ghost-pursuit-vr.json) |
@@ -1385,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guinea Pig Gunner | 411580 | [411580-guinea-pig-gunner.json](./411580-guinea-pig-gunner.json) |
 | Guinness World Records 2010: Gamer's Edition | 21746 | [21746-guinness-world-records-2010-gamers-edition.json](./21746-guinness-world-records-2010-gamers-edition.json) |
 | Guitar Hero: Van Halen | 2675 | [2675-guitar-hero-van-halen.json](./2675-guitar-hero-van-halen.json) |
+| Guitar Star | 267958 | [267958-guitar-star.json](./267958-guitar-star.json) |
 | GuitarFreaks 4thMix & DrumMania 3rdMix | 188659 | [188659-guitarfreaks-4thmix-and-drummania-3rdmix.json](./188659-guitarfreaks-4thmix-and-drummania-3rdmix.json) |
 | GuitarFreaks V & DrumMania V | 78691 | [78691-guitarfreaks-v-and-drummania-v.json](./78691-guitarfreaks-v-and-drummania-v.json) |
 | Gulag | 268773 | [268773-gulag.json](./268773-gulag.json) |
