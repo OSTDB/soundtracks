@@ -955,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gossipia | 59991 | [59991-gossipia.json](./59991-gossipia.json) |
 | GOTC: Siege on the Lightorder Citadel | 164515 | [164515-gotc-siege-on-the-lightorder-citadel.json](./164515-gotc-siege-on-the-lightorder-citadel.json) |
 | Gotcha | 250633 | [250633-gotcha.json](./250633-gotcha.json) |
+| Gotcha Number for Playdate | 276716 | [276716-gotcha-number-for-playdate.json](./276716-gotcha-number-for-playdate.json) |
 | Gotcha! The Sport! | 5848 | [5848-gotcha-the-sport.json](./5848-gotcha-the-sport.json) |
 | Gotham Gangsta | 29930 | [29930-gotham-gangsta.json](./29930-gotham-gangsta.json) |
 | Gothams Industrial District | 273116 | [273116-gothams-industrial-district.json](./273116-gothams-industrial-district.json) |
