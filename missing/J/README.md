@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpack Joyride India Exclusive | 238204 | [238204-jetpack-joyride-india-exclusive.json](./238204-jetpack-joyride-india-exclusive.json) |
 | Jetpack Soccer | 241055 | [241055-jetpack-soccer.json](./241055-jetpack-soccer.json) |
 | Jetrats Defense | 233750 | [233750-jetrats-defense.json](./233750-jetrats-defense.json) |
+| Jets Killer | 291472 | [291472-jets-killer.json](./291472-jets-killer.json) |
 | Jets'n'Guns Gold | 30372 | [30372-jetsnguns-gold.json](./30372-jetsnguns-gold.json) |
 | Jett Rider Mini H.E.R.O. | 398965 | [398965-jett-rider-mini-h-e-r-o.json](./398965-jett-rider-mini-h-e-r-o.json) |
 | Jettatura | 207502 | [207502-jettatura.json](./207502-jettatura.json) |
@@ -186,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest Trilogy | 50633 | [50633-jewel-quest-trilogy.json](./50633-jewel-quest-trilogy.json) |
 | Jewel Time Deluxe | 110322 | [110322-jewel-time-deluxe.json](./110322-jewel-time-deluxe.json) |
 | Jewel Witch Tale | 52007 | [52007-jewel-witch-tale.json](./52007-jewel-witch-tale.json) |
+| Jeweler Simulator | 291449 | [291449-jeweler-simulator.json](./291449-jeweler-simulator.json) |
 | Jewels Deluxe | 108478 | [108478-jewels-deluxe.json](./108478-jewels-deluxe.json) |
 | Jewels of the Mysterious Woodland: Fairies Magical Jewel Match Quest | 171596 | [171596-jewels-of-the-mysterious-woodland-fairies-magical-jewel-match-quest.json](./171596-jewels-of-the-mysterious-woodland-fairies-magical-jewel-match-quest.json) |
 | Jezzball Classic Deluxe Edition | 371891 | [371891-jezzball-classic-deluxe-edition.json](./371891-jezzball-classic-deluxe-edition.json) |
