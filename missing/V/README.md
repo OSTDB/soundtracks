@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venture Arctic | 66707 | [66707-venture-arctic.json](./66707-venture-arctic.json) |
 | Venture Towns | 65498 | [65498-venture-towns.json](./65498-venture-towns.json) |
 | Venture’s Gauntlet VR: Multiplayer Update | 306960 | [306960-venture-s-gauntlet-vr-multiplayer-update.json](./306960-venture-s-gauntlet-vr-multiplayer-update.json) |
+| Venturous in the Footsteps of the Fallen | 269565 | [269565-venturous-in-the-footsteps-of-the-fallen.json](./269565-venturous-in-the-footsteps-of-the-fallen.json) |
 | Venus in Transit | 395581 | [395581-venus-in-transit.json](./395581-venus-in-transit.json) |
 | Venus One: Galactic Overlords | 253602 | [253602-venus-one-galactic-overlords.json](./253602-venus-one-galactic-overlords.json) |
 | Venus Puzzles | 272572 | [272572-venus-puzzles.json](./272572-venus-puzzles.json) |
