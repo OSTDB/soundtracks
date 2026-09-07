@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sculpt People: Creative Edition | 308789 | [308789-sculpt-people-creative-edition.json](./308789-sculpt-people-creative-edition.json) |
 | Scumball | 45361 | [45361-scumball.json](./45361-scumball.json) |
 | Scurvy Dogs | 224761 | [224761-scurvy-dogs.json](./224761-scurvy-dogs.json) |
+| Scythe Shepard | 276717 | [276717-scythe-shepard.json](./276717-scythe-shepard.json) |
 | Scythe X | 137667 | [137667-scythe-x.json](./137667-scythe-x.json) |
 | SD Gundam Battle Alliance | 191403 | [191403-sd-gundam-battle-alliance.json](./191403-sd-gundam-battle-alliance.json) |
 | SD Gundam Battle Alliance: Limited Edition | 205271 | [205271-sd-gundam-battle-alliance-limited-edition.json](./205271-sd-gundam-battle-alliance-limited-edition.json) |
@@ -1583,6 +1584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinkr 3 | 169430 | [169430-sinkr-3.json](./169430-sinkr-3.json) |
 | Sinner | 291249 | [291249-sinner.json](./291249-sinner.json) |
 | Sins | 183078 | [183078-sins.json](./183078-sins.json) |
+| Sins Of Kaleido | 276733 | [276733-sins-of-kaleido.json](./276733-sins-of-kaleido.json) |
 | Sinsations 2: Modern Gods | 332432 | [332432-sinsations-2-modern-gods.json](./332432-sinsations-2-modern-gods.json) |
 | Sintropia Fruits Together | 388053 | [388053-sintropia-fruits-together.json](./388053-sintropia-fruits-together.json) |
 | Siphonogore | 291237 | [291237-siphonogore.json](./291237-siphonogore.json) |
@@ -2082,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoopy no Hajimete no Otsukai | 324912 | [324912-snoopy-no-hajimete-no-otsukai.json](./324912-snoopy-no-hajimete-no-otsukai.json) |
 | Snoopy's Magic Show DX | 279583 | [279583-snoopys-magic-show-dx.json](./279583-snoopys-magic-show-dx.json) |
 | Snoopy's Silly Sports Spectacular! | 48077 | [48077-snoopys-silly-sports-spectacular.json](./48077-snoopys-silly-sports-spectacular.json) |
+| Snooze or Lose | 276718 | [276718-snooze-or-lose.json](./276718-snooze-or-lose.json) |
 | Snops Attack! Zombie Defense | 240495 | [240495-snops-attack-zombie-defense.json](./240495-snops-attack-zombie-defense.json) |
 | Snow Ash Land | 112347 | [112347-snow-ash-land.json](./112347-snow-ash-land.json) |
 | Snow Cone | 341474 | [341474-snow-cone.json](./341474-snow-cone.json) |
@@ -3890,6 +3893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Struggle Weapon Girl | 410899 | [410899-struggle-weapon-girl.json](./410899-struggle-weapon-girl.json) |
 | Stuck at Home | 71004 | [71004-stuck-at-home.json](./71004-stuck-at-home.json) |
 | Stuck in the Present | 348763 | [348763-stuck-in-the-present.json](./348763-stuck-in-the-present.json) |
+| Stuck Like a Stone | 276731 | [276731-stuck-like-a-stone.json](./276731-stuck-like-a-stone.json) |
 | Stuck! | 177537 | [177537-stuck.json](./177537-stuck.json) |
 | Student Transfer | 191892 | [191892-student-transfer.json](./191892-student-transfer.json) |
 | Study Time Anomaly | 369597 | [369597-study-time-anomaly.json](./369597-study-time-anomaly.json) |
