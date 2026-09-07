@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Balls 4 | 225279 | [225279-factory-balls-4.json](./225279-factory-balls-4.json) |
 | Factory Balls Christmas Edition | 225284 | [225284-factory-balls-christmas-edition.json](./225284-factory-balls-christmas-edition.json) |
 | Factory Inc. | 251230 | [251230-factory-inc.json](./251230-factory-inc.json) |
+| Factory Parking | 308243 | [308243-factory-parking.json](./308243-factory-parking.json) |
 | FactoryX | 271986 | [271986-factoryx.json](./271986-factoryx.json) |
 | Faded Melodies | 298897 | [298897-faded-melodies.json](./298897-faded-melodies.json) |
 | Faded Monsuta | 350999 | [350999-faded-monsuta.json](./350999-faded-monsuta.json) |
@@ -440,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear Less! | 60552 | [60552-fear-less.json](./60552-fear-less.json) |
 | Fear Me: The Silent | 331355 | [331355-fear-me-the-silent.json](./331355-fear-me-the-silent.json) |
 | Fear of Hot Water Ghost | 335685 | [335685-fear-of-hot-water-ghost.json](./335685-fear-of-hot-water-ghost.json) |
+| Fear Of The Dark | 308244 | [308244-fear-of-the-dark.json](./308244-fear-of-the-dark.json) |
 | Fear the Dark Unknown: Chloe | 132250 | [132250-fear-the-dark-unknown-chloe.json](./132250-fear-the-dark-unknown-chloe.json) |
 | Fear the Flossom | 138814 | [138814-fear-the-flossom.json](./138814-fear-the-flossom.json) |
 | Fear the Unknown: Jamie Story | 351601 | [351601-fear-the-unknown-jamie-story.json](./351601-fear-the-unknown-jamie-story.json) |
@@ -1055,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowers in Bloom | 146906 | [146906-flowers-in-bloom.json](./146906-flowers-in-bloom.json) |
 | Flowers of Asphodel | 300379 | [300379-flowers-of-asphodel.json](./300379-flowers-of-asphodel.json) |
 | Flowers of Starlight | 264345 | [264345-flowers-of-starlight.json](./264345-flowers-of-starlight.json) |
+| Flowers: Kokoro no Hana | 308249 | [308249-flowers-kokoro-no-hana.json](./308249-flowers-kokoro-no-hana.json) |
 | Flowers: Le Volume sur Printemps | 33272 | [33272-flowers-le-volume-sur-printemps.json](./33272-flowers-le-volume-sur-printemps.json) |
 | Flowery Vale | 177048 | [177048-flowery-vale.json](./177048-flowery-vale.json) |
 | Flown | 261524 | [261524-flown.json](./261524-flown.json) |
