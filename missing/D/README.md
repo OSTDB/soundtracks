@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Das Boot: German U-Boat Simulation | 14332 | [14332-das-boot-german-u-boat-simulation.json](./14332-das-boot-german-u-boat-simulation.json) |
 | Das Rätsel in Ägypten | 81399 | [81399-das-ratsel-in-agypten.json](./81399-das-ratsel-in-agypten.json) |
 | Dash & Roll | 285981 | [285981-dash-and-roll.json](./285981-dash-and-roll.json) |
+| Dash or Die | 285441 | [285441-dash-or-die.json](./285441-dash-or-die.json) |
 | Dash.io | 256521 | [256521-dash-io.json](./256521-dash-io.json) |
 | Dasher | 158205 | [158205-dasher.json](./158205-dasher.json) |
 | Dashing Pixels | 136484 | [136484-dashing-pixels.json](./136484-dashing-pixels.json) |
@@ -356,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daymare Town 3 | 257645 | [257645-daymare-town-3.json](./257645-daymare-town-3.json) |
 | Daymare Town 4 | 257646 | [257646-daymare-town-4.json](./257646-daymare-town-4.json) |
 | Days After | 169990 | [169990-days-after.json](./169990-days-after.json) |
+| Days Like A Nightmare | 285451 | [285451-days-like-a-nightmare.json](./285451-days-like-a-nightmare.json) |
 | Days of Reckoning: Last Battle | 402898 | [402898-days-of-reckoning-last-battle.json](./402898-days-of-reckoning-last-battle.json) |
 | Days of Saturn | 326062 | [326062-days-of-saturn.json](./326062-days-of-saturn.json) |
 | Days of the Divine | 243955 | [243955-days-of-the-divine.json](./243955-days-of-the-divine.json) |
@@ -1542,8 +1544,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Find Me!! | 303488 | [303488-dont-find-me.json](./303488-dont-find-me.json) |
 | Don't Go | 267089 | [267089-dont-go.json](./267089-dont-go.json) |
 | Don't Go Bang! | 24966 | [24966-dont-go-bang.json](./24966-dont-go-bang.json) |
+| Don't Go in the woods | 285443 | [285443-dont-go-in-the-woods.json](./285443-dont-go-in-the-woods.json) |
 | Don't Hate My Music Taste | 167818 | [167818-dont-hate-my-music-taste.json](./167818-dont-hate-my-music-taste.json) |
 | Don't Hide | 215907 | [215907-dont-hide.json](./215907-dont-hide.json) |
+| Don't Leave | 285439 | [285439-dont-leave.json](./285439-dont-leave.json) |
 | Don't Let Me Fade | 352220 | [352220-dont-let-me-fade.json](./352220-dont-let-me-fade.json) |
 | Don't Look | 177547 | [177547-dont-look.json](./177547-dont-look.json) |
 | Don't Look at Grandma | 375820 | [375820-dont-look-at-grandma.json](./375820-dont-look-at-grandma.json) |
