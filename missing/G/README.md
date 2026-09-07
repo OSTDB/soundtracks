@@ -1247,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grordbattle | 116386 | [116386-grordbattle.json](./116386-grordbattle.json) |
 | Grotesque Tactics: Evil Heroes | 18914 | [18914-grotesque-tactics-evil-heroes.json](./18914-grotesque-tactics-evil-heroes.json) |
 | Grottesco Absurdus | 110558 | [110558-grottesco-absurdus.json](./110558-grottesco-absurdus.json) |
+| Grotto King | 282004 | [282004-grotto-king.json](./282004-grotto-king.json) |
 | Grouls | 329010 | [329010-grouls.json](./329010-grouls.json) |
 | Ground Attack | 84255 | [84255-ground-attack.json](./84255-ground-attack.json) |
 | Ground Force Zero | 71550 | [71550-ground-force-zero.json](./71550-ground-force-zero.json) |
