@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Blender | 190746 | [190746-zombie-blender.json](./190746-zombie-blender.json) |
 | Zombie Buster VR | 28886 | [28886-zombie-buster-vr.json](./28886-zombie-buster-vr.json) |
 | Zombie Defense: Emerald Edition | 400206 | [400206-zombie-defense-emerald-edition.json](./400206-zombie-defense-emerald-edition.json) |
+| Zombie Defense: Perfect Cut Edition | 284932 | [284932-zombie-defense-perfect-cut-edition.json](./284932-zombie-defense-perfect-cut-edition.json) |
 | Zombie Derby | 96622 | [96622-zombie-derby.json](./96622-zombie-derby.json) |
 | Zombie Diary | 356651 | [356651-zombie-diary.json](./356651-zombie-diary.json) |
 | Zombie Escape: The Driving Dead | 213589 | [213589-zombie-escape-the-driving-dead.json](./213589-zombie-escape-the-driving-dead.json) |
