@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MAAA | 112978 | [112978-maaa.json](./112978-maaa.json) |
 | Mabeop Cheonjamun DS | 124789 | [124789-mabeop-cheonjamun-ds.json](./124789-mabeop-cheonjamun-ds.json) |
 | Mabeop Cheonjamun DS 2: The Final Hanja Magic | 124788 | [124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json](./124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json) |
+| Macabre no Zantou: Remnants of the Macabre | 309363 | [309363-macabre-no-zantou-remnants-of-the-macabre.json](./309363-macabre-no-zantou-remnants-of-the-macabre.json) |
 | Macadam: Futari Yogari | 66125 | [66125-macadam-futari-yogari.json](./66125-macadam-futari-yogari.json) |
 | Mace Knight | 391572 | [391572-mace-knight.json](./391572-mace-knight.json) |
 | MacGuffin | 34526 | [34526-macguffin.json](./34526-macguffin.json) |
@@ -131,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Bubble | 246100 | [246100-magic-bubble.json](./246100-magic-bubble.json) |
 | Magic Castle | 317812 | [317812-magic-castle.json](./317812-magic-castle.json) |
 | Magic Chaos | 206383 | [206383-magic-chaos.json](./206383-magic-chaos.json) |
+| Magic Circle | 309334 | [309334-magic-circle.json](./309334-magic-circle.json) |
 | Magic City Detective: The Carnival Begins - Collector's Edition | 304859 | [304859-magic-city-detective-the-carnival-begins-collectors-edition.json](./304859-magic-city-detective-the-carnival-begins-collectors-edition.json) |
 | Magic Clouds | 117057 | [117057-magic-clouds.json](./117057-magic-clouds.json) |
 | Magic Factory | 115047 | [115047-magic-factory.json](./115047-magic-factory.json) |
@@ -1136,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Games Japan Best | 276454 | [276454-merge-games-japan-best.json](./276454-merge-games-japan-best.json) |
 | Merge Girls | 212490 | [212490-merge-girls.json](./212490-merge-girls.json) |
 | Merge Mansion | 196866 | [196866-merge-mansion.json](./196866-merge-mansion.json) |
+| Merge Marbles | 309337 | [309337-merge-marbles.json](./309337-merge-marbles.json) |
 | Merge Mayor | 212482 | [212482-merge-mayor.json](./212482-merge-mayor.json) |
 | Merge Meadow! | 108483 | [108483-merge-meadow.json](./108483-merge-meadow.json) |
 | Merge Miners | 229372 | [229372-merge-miners.json](./229372-merge-miners.json) |
@@ -1594,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Wheels | 83591 | [83591-mini-wheels.json](./83591-mini-wheels.json) |
 | Mini Words | 125710 | [125710-mini-words.json](./125710-mini-words.json) |
 | Mini Z Racers Turbo | 31902 | [31902-mini-z-racers-turbo.json](./31902-mini-z-racers-turbo.json) |
+| Mini-Market Simulator VR | 309377 | [309377-mini-market-simulator-vr.json](./309377-mini-market-simulator-vr.json) |
 | Mini-U: Mosaic | 175408 | [175408-mini-u-mosaic.json](./175408-mini-u-mosaic.json) |
 | Miniacs: Steering Madness | 382227 | [382227-miniacs-steering-madness.json](./382227-miniacs-steering-madness.json) |
 | MiniBotz | 31929 | [31929-minibotz.json](./31929-minibotz.json) |
@@ -2579,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friend Peppa Pig: Complete Edition | 214721 | [214721-my-friend-peppa-pig-complete-edition.json](./214721-my-friend-peppa-pig-complete-edition.json) |
 | My Furry Trainer | 215892 | [215892-my-furry-trainer.json](./215892-my-furry-trainer.json) |
 | My Garage | 162411 | [162411-my-garage.json](./162411-my-garage.json) |
+| My Ghost Pet Is Zhong Kui | 309362 | [309362-my-ghost-pet-is-zhong-kui.json](./309362-my-ghost-pet-is-zhong-kui.json) |
 | My Girlfriend is a Mermaid!? Refine | 188642 | [188642-my-girlfriend-is-a-mermaid-refine.json](./188642-my-girlfriend-is-a-mermaid-refine.json) |
 | My Girlfriend is a Mermaid!? Refine: Limited Edition | 188645 | [188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json](./188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json) |
 | My Girlfriend's Special Place | 240481 | [240481-my-girlfriends-special-place.json](./240481-my-girlfriends-special-place.json) |
