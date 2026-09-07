@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Range Ball | 104056 | [104056-range-ball.json](./104056-range-ball.json) |
 | Ranger Danger | 224740 | [224740-ranger-danger.json](./224740-ranger-danger.json) |
 | Ranita Fishing | 178078 | [178078-ranita-fishing.json](./178078-ranita-fishing.json) |
+| Rank Boss Bullets | 278396 | [278396-rank-boss-bullets.json](./278396-rank-boss-bullets.json) |
 | Rank Runner | 120423 | [120423-rank-runner.json](./120423-rank-runner.json) |
 | Ranma 1/2 | 75853 | [75853-ranma-1-2.json](./75853-ranma-1-2.json) |
 | Ranma 1/2: Hiryuu Densetsu | 75856 | [75856-ranma-1-2-hiryuu-densetsu.json](./75856-ranma-1-2-hiryuu-densetsu.json) |
@@ -277,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratchet & Clank Collection | 19994 | [19994-ratchet-and-clank-collection.json](./19994-ratchet-and-clank-collection.json) |
 | Ratchet & Clank: Going Mobile | 134656 | [134656-ratchet-and-clank-going-mobile.json](./134656-ratchet-and-clank-going-mobile.json) |
 | Ratcore | 412270 | [412270-ratcore.json](./412270-ratcore.json) |
+| Rated Sudoku | 278397 | [278397-rated-sudoku.json](./278397-rated-sudoku.json) |
 | RatPark | 206355 | [206355-ratpark.json](./206355-ratpark.json) |
 | Rattle Royale | 323705 | [323705-rattle-royale.json](./323705-rattle-royale.json) |
 | Ravenbound | 214852 | [214852-ravenbound.json](./214852-ravenbound.json) |
@@ -604,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflections of Life: Sleep's Embrace - Collector's Edition | 362842 | [362842-reflections-of-life-sleeps-embrace-collectors-edition.json](./362842-reflections-of-life-sleeps-embrace-collectors-edition.json) |
 | Reflections of Life: Spindle of Fate | 244479 | [244479-reflections-of-life-spindle-of-fate.json](./244479-reflections-of-life-spindle-of-fate.json) |
 | Reflections Path | 211951 | [211951-reflections-path.json](./211951-reflections-path.json) |
+| Reflectron | 278392 | [278392-reflectron.json](./278392-reflectron.json) |
 | Reflectron | 42048 | [42048-reflectron.json](./42048-reflectron.json) |
 | Reflex | 86345 | [86345-reflex.json](./86345-reflex.json) |
 | Reflexia Prototype ver. | 224749 | [224749-reflexia-prototype-ver.json](./224749-reflexia-prototype-ver.json) |
@@ -877,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenant Knight | 322602 | [322602-revenant-knight.json](./322602-revenant-knight.json) |
 | Revenant Survivors | 400235 | [400235-revenant-survivors.json](./400235-revenant-survivors.json) |
 | Revenant: In Memory Of The Day | 334494 | [334494-revenant-in-memory-of-the-day.json](./334494-revenant-in-memory-of-the-day.json) |
+| Revenge Crystal | 278401 | [278401-revenge-crystal.json](./278401-revenge-crystal.json) |
 | Revenge of Marjorie the Chicken | 137694 | [137694-revenge-of-marjorie-the-chicken.json](./137694-revenge-of-marjorie-the-chicken.json) |
 | Revenge of Noxi | 254148 | [254148-revenge-of-noxi.json](./254148-revenge-of-noxi.json) |
 | Revenge of the Apes | 40772 | [40772-revenge-of-the-apes.json](./40772-revenge-of-the-apes.json) |
