@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qub | 362305 | [362305-qub.json](./362305-qub.json) |
 | QubeTown | 114414 | [114414-qubetown.json](./114414-qubetown.json) |
 | Qubicks | 346599 | [346599-qubicks.json](./346599-qubicks.json) |
+| Qubit's Quest | 283762 | [283762-qubits-quest.json](./283762-qubits-quest.json) |
 | Qublyne Dungeons | 226435 | [226435-qublyne-dungeons.json](./226435-qublyne-dungeons.json) |
 | QUByte Classics: The Samurai Collection | 223156 | [223156-qubyte-classics-the-samurai-collection.json](./223156-qubyte-classics-the-samurai-collection.json) |
 | Queen Ant Perfume Episode 0: The Mad Love of Jack the Ripper | 339111 | [339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json](./339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json) |
@@ -136,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiet Christmas | 58236 | [58236-quiet-christmas.json](./58236-quiet-christmas.json) |
 | Quiet Dan | 379335 | [379335-quiet-dan.json](./379335-quiet-dan.json) |
 | Quiet House Massacre | 317023 | [317023-quiet-house-massacre.json](./317023-quiet-house-massacre.json) |
+| Quiet Rehabilitation | 281411 | [281411-quiet-rehabilitation.json](./281411-quiet-rehabilitation.json) |
 | Quietus Euphony | 374046 | [374046-quietus-euphony.json](./374046-quietus-euphony.json) |
 | Quill > Pistol | 366240 | [366240-quill-pistol.json](./366240-quill-pistol.json) |
 | Quinn's Aquarium | 354994 | [354994-quinns-aquarium.json](./354994-quinns-aquarium.json) |
