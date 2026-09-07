@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IndyCar Series | 5866 | [5866-indycar-series.json](./5866-indycar-series.json) |
 | Ines | 340925 | [340925-ines.json](./340925-ines.json) |
 | Infamous: First Light | 7328 | [7328-infamous-first-light.json](./7328-infamous-first-light.json) |
+| Infantry Attack: Backup Edition | 308805 | [308805-infantry-attack-backup-edition.json](./308805-infantry-attack-backup-edition.json) |
 | Infected run to Survive: Zombie Apocalypse Survival Story Shooter Dead Cry | 231078 | [231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json](./231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json) |
 | Infected World | 412279 | [412279-infected-world.json](./412279-infected-world.json) |
 | Infection | 142474 | [142474-infection.json](./142474-infection.json) |
