@@ -659,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy II | 387 | [387-final-fantasy-ii.json](./387-final-fantasy-ii.json) |
 | Final Fantasy IV Namingway Edition | 379337 | [379337-final-fantasy-iv-namingway-edition.json](./379337-final-fantasy-iv-namingway-edition.json) |
 | Final Fantasy IV: The After Years | 388 | [388-final-fantasy-iv-the-after-years.json](./388-final-fantasy-iv-the-after-years.json) |
+| Final Fantasy IV: The DSfication | 274983 | [274983-final-fantasy-iv-the-dsfication.json](./274983-final-fantasy-iv-the-dsfication.json) |
 | Final Fantasy IV: Ultima | 215388 | [215388-final-fantasy-iv-ultima.json](./215388-final-fantasy-iv-ultima.json) |
 | Final Fantasy IV: Unprecedented Crisis | 215385 | [215385-final-fantasy-iv-unprecedented-crisis.json](./215385-final-fantasy-iv-unprecedented-crisis.json) |
 | Final Fantasy IX | 340349 | [340349-final-fantasy-ix.json](./340349-final-fantasy-ix.json) |
@@ -875,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Master World Tour | 50630 | [50630-fishing-master-world-tour.json](./50630-fishing-master-world-tour.json) |
 | Fishing Mayhem | 318187 | [318187-fishing-mayhem.json](./318187-fishing-mayhem.json) |
 | Fishing Mega-Game | 373002 | [373002-fishing-mega-game.json](./373002-fishing-mega-game.json) |
+| Fishing Online | 274975 | [274975-fishing-online.json](./274975-fishing-online.json) |
 | Fishing Paradise 3D | 25744 | [25744-fishing-paradise-3d.json](./25744-fishing-paradise-3d.json) |
 | Fishing Sea Adventure | 335089 | [335089-fishing-sea-adventure.json](./335089-fishing-sea-adventure.json) |
 | Fishing Sim World: Pro Tour - Big Fish Lure Pack | 156175 | [156175-fishing-sim-world-pro-tour-big-fish-lure-pack.json](./156175-fishing-sim-world-pro-tour-big-fish-lure-pack.json) |
@@ -936,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Kyle's 2 | 179724 | [179724-five-nights-at-kyles-2.json](./179724-five-nights-at-kyles-2.json) |
 | Five Nights at Roner's: Remastered | 330734 | [330734-five-nights-at-roners-remastered.json](./330734-five-nights-at-roners-remastered.json) |
 | Five Nights at Sonic's Remastered | 333960 | [333960-five-nights-at-sonics-remastered.json](./333960-five-nights-at-sonics-remastered.json) |
+| Five Nights at Treasure Island: Sister Location | 274981 | [274981-five-nights-at-treasure-island-sister-location.json](./274981-five-nights-at-treasure-island-sister-location.json) |
 | Five Nights at Wario's 4 | 280770 | [280770-five-nights-at-warios-4.json](./280770-five-nights-at-warios-4.json) |
 | Five Starless Rivers | 285438 | [285438-five-starless-rivers.json](./285438-five-starless-rivers.json) |
 | Five-A-Side Soccer | 84235 | [84235-five-a-side-soccer.json](./84235-five-a-side-soccer.json) |
@@ -1127,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluff'n'Roll | 323516 | [323516-fluffnroll.json](./323516-fluffnroll.json) |
 | Flufftopia | 134696 | [134696-flufftopia.json](./134696-flufftopia.json) |
 | Fluffy Bear | 79308 | [79308-fluffy-bear.json](./79308-fluffy-bear.json) |
+| Fluffy Doki Sunshine | 274980 | [274980-fluffy-doki-sunshine.json](./274980-fluffy-doki-sunshine.json) |
 | Fluffy Fall | 87172 | [87172-fluffy-fall.json](./87172-fluffy-fall.json) |
 | Fluffy Gore | 150156 | [150156-fluffy-gore.json](./150156-fluffy-gore.json) |
 | Fluffy Run | 292818 | [292818-fluffy-run.json](./292818-fluffy-run.json) |
@@ -1772,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuman Ghoul | 399007 | [399007-fuman-ghoul.json](./399007-fuman-ghoul.json) |
 | Fumble Fiesta | 292557 | [292557-fumble-fiesta.json](./292557-fumble-fiesta.json) |
 | Fumpers 2: Dual Realms | 384508 | [384508-fumpers-2-dual-realms.json](./384508-fumpers-2-dual-realms.json) |
+| Fun Chess: Definitive Edition | 275032 | [275032-fun-chess-definitive-edition.json](./275032-fun-chess-definitive-edition.json) |
 | Fun Chess: Platinum Edition | 283146 | [283146-fun-chess-platinum-edition.json](./283146-fun-chess-platinum-edition.json) |
 | Fun Park Simulator | 394165 | [394165-fun-park-simulator.json](./394165-fun-park-simulator.json) |
 | Fun Run 3 | 57120 | [57120-fun-run-3.json](./57120-fun-run-3.json) |
