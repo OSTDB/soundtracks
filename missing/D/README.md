@@ -1955,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadnaughts | 55178 | [55178-dreadnaughts.json](./55178-dreadnaughts.json) |
 | DreadOut | 11712 | [11712-dreadout.json](./11712-dreadout.json) |
 | Dreadrun | 295805 | [295805-dreadrun.json](./295805-dreadrun.json) |
+| Dreadshot | 292520 | [292520-dreadshot.json](./292520-dreadshot.json) |
 | Dreadtome | 349884 | [349884-dreadtome.json](./349884-dreadtome.json) |
 | DreadWood | 184110 | [184110-dreadwood.json](./184110-dreadwood.json) |
 | Dream "ID" Journey | 292860 | [292860-dream-id-journey.json](./292860-dream-id-journey.json) |
