@@ -481,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorchy Sky Trials | 402905 | [402905-scorchy-sky-trials.json](./402905-scorchy-sky-trials.json) |
 | Score a goal (Physical football) | 29951 | [29951-score-a-goal-physical-football.json](./29951-score-a-goal-physical-football.json) |
 | Scorn | 262084 | [262084-scorn.json](./262084-scorn.json) |
+| Scorpion Garrison | 280227 | [280227-scorpion-garrison.json](./280227-scorpion-garrison.json) |
 | Scorpion Overdrive | 193464 | [193464-scorpion-overdrive.json](./193464-scorpion-overdrive.json) |
 | Scott I Project | 331870 | [331870-scott-i-project.json](./331870-scott-i-project.json) |
 | Scott Pilgrim vs. the World: The Game | 7448 | [7448-scott-pilgrim-vs-the-world-the-game.json](./7448-scott-pilgrim-vs-the-world-the-game.json) |
@@ -502,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Mystery Man | 320169 | [320169-scp-mystery-man.json](./320169-scp-mystery-man.json) |
 | SCP: Secret Facility | 336353 | [336353-scp-secret-facility.json](./336353-scp-secret-facility.json) |
 | SCP: Site-19 | 242246 | [242246-scp-site-19.json](./242246-scp-site-19.json) |
+| SCP: Valravn | 280174 | [280174-scp-valravn.json](./280174-scp-valravn.json) |
 | Scrabble | 354997 | [354997-scrabble.json](./354997-scrabble.json) |
 | Scrabble | 371873 | [371873-scrabble.json](./371873-scrabble.json) |
 | Scrabble Slam! | 66694 | [66694-scrabble-slam.json](./66694-scrabble-slam.json) |
@@ -2400,11 +2402,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Revolution | 331869 | [331869-sonic-revolution.json](./331869-sonic-revolution.json) |
 | Sonic Riders Tournament Edition 2.0 | 337111 | [337111-sonic-riders-tournament-edition-2-0.json](./337111-sonic-riders-tournament-edition-2-0.json) |
 | Sonic Robo Blast | 134011 | [134011-sonic-robo-blast.json](./134011-sonic-robo-blast.json) |
+| Sonic Robo Blast | 280211 | [280211-sonic-robo-blast.json](./280211-sonic-robo-blast.json) |
+| Sonic Robo Blast 2 | 280214 | [280214-sonic-robo-blast-2.json](./280214-sonic-robo-blast-2.json) |
+| Sonic Robo Blast 2 | 280215 | [280215-sonic-robo-blast-2.json](./280215-sonic-robo-blast-2.json) |
 | Sonic Robo Blast 2: Frontiers Adaptation Project | 264858 | [264858-sonic-robo-blast-2-frontiers-adaptation-project.json](./264858-sonic-robo-blast-2-frontiers-adaptation-project.json) |
 | Sonic Robo Blast 2: Official Level Design Contest - Autumn 2020 | 287674 | [287674-sonic-robo-blast-2-official-level-design-contest-autumn-2020.json](./287674-sonic-robo-blast-2-official-level-design-contest-autumn-2020.json) |
 | Sonic Robo Blast 2: Official Level Design Contest 2021- Round 1 | 287670 | [287670-sonic-robo-blast-2-official-level-design-contest-2021-round-1.json](./287670-sonic-robo-blast-2-official-level-design-contest-2021-round-1.json) |
 | Sonic Robo Blast 2: Official Level Design Contest 2021- Round 2 | 287668 | [287668-sonic-robo-blast-2-official-level-design-contest-2021-round-2.json](./287668-sonic-robo-blast-2-official-level-design-contest-2021-round-2.json) |
 | Sonic Robo Blast 2: Official Level Design Contest 2022 - Round 1 | 287658 | [287658-sonic-robo-blast-2-official-level-design-contest-2022-round-1.json](./287658-sonic-robo-blast-2-official-level-design-contest-2022-round-1.json) |
+| Sonic Robo Christmas Blast | 280224 | [280224-sonic-robo-christmas-blast.json](./280224-sonic-robo-christmas-blast.json) |
 | Sonic Roller 1 & 2 Deluxe | 330550 | [330550-sonic-roller-1-and-2-deluxe.json](./330550-sonic-roller-1-and-2-deluxe.json) |
 | Sonic Rush Adventure | 19261 | [19261-sonic-rush-adventure.json](./19261-sonic-rush-adventure.json) |
 | Sonic Scramble | 334685 | [334685-sonic-scramble.json](./334685-sonic-scramble.json) |
@@ -4728,6 +4734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Love | 165027 | [165027-sweet-love.json](./165027-sweet-love.json) |
 | Sweet Surge | 195196 | [195196-sweet-surge.json](./195196-sweet-surge.json) |
 | Sweet Thomas | 126645 | [126645-sweet-thomas.json](./126645-sweet-thomas.json) |
+| Sweet Time | 280236 | [280236-sweet-time.json](./280236-sweet-time.json) |
 | Sweet Tooth Town | 355003 | [355003-sweet-tooth-town.json](./355003-sweet-tooth-town.json) |
 | Sweet Treat Solitaire | 386150 | [386150-sweet-treat-solitaire.json](./386150-sweet-treat-solitaire.json) |
 | SweeTARTS 3D | 373551 | [373551-sweetarts-3d.json](./373551-sweetarts-3d.json) |
