@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Wyrm Slayer Selise Skin & Feat Pack | 306076 | [306076-idle-champions-wyrm-slayer-selise-skin-and-feat-pack.json](./306076-idle-champions-wyrm-slayer-selise-skin-and-feat-pack.json) |
 | Idle Champions: Yuan-ti Glitch Havilar Skin & Feat Pack | 313701 | [313701-idle-champions-yuan-ti-glitch-havilar-skin-and-feat-pack.json](./313701-idle-champions-yuan-ti-glitch-havilar-skin-and-feat-pack.json) |
 | Idle Cinema Tycoon | 369567 | [369567-idle-cinema-tycoon.json](./369567-idle-cinema-tycoon.json) |
+| Idle Colony | 299782 | [299782-idle-colony.json](./299782-idle-colony.json) |
 | Idle Colors | 402893 | [402893-idle-colors.json](./402893-idle-colors.json) |
 | Idle Cutter | 247213 | [247213-idle-cutter.json](./247213-idle-cutter.json) |
 | Idle Death Knight | 208031 | [208031-idle-death-knight.json](./208031-idle-death-knight.json) |
@@ -670,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interphase | 129210 | [129210-interphase.json](./129210-interphase.json) |
 | Interplay's Learn to Program Basic | 371865 | [371865-interplays-learn-to-program-basic.json](./371865-interplays-learn-to-program-basic.json) |
 | Interpoint | 115674 | [115674-interpoint.json](./115674-interpoint.json) |
+| Intersection | 299751 | [299751-intersection.json](./299751-intersection.json) |
 | InterSpace | 258209 | [258209-interspace.json](./258209-interspace.json) |
 | Interstate Cowboys | 292322 | [292322-interstate-cowboys.json](./292322-interstate-cowboys.json) |
 | Interstellar Espionage Inc. | 372453 | [372453-interstellar-espionage-inc.json](./372453-interstellar-espionage-inc.json) |
