@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails and Pines | 192448 | [192448-tails-and-pines.json](./192448-tails-and-pines.json) |
 | Tails Doll | 279577 | [279577-tails-doll.json](./279577-tails-doll.json) |
 | Tails in Sonic the Hedgehog | 198529 | [198529-tails-in-sonic-the-hedgehog.json](./198529-tails-in-sonic-the-hedgehog.json) |
+| Tails no Flying Get | 261253 | [261253-tails-no-flying-get.json](./261253-tails-no-flying-get.json) |
 | Tails of Glimmervale | 289867 | [289867-tails-of-glimmervale.json](./289867-tails-of-glimmervale.json) |
 | Tails of Iron | 116422 | [116422-tails-of-iron.json](./116422-tails-of-iron.json) |
 | Tails of Iron II: Whiskers of Winter - Augur of the Draugr Armour Pack | 371224 | [371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json](./371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json) |
