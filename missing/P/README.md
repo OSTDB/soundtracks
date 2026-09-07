@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario: Sticker Star | 3350 | [3350-paper-mario-sticker-star.json](./3350-paper-mario-sticker-star.json) |
 | Paper Mario: TTYD - Tower of Trials v3.0 | 358321 | [358321-paper-mario-ttyd-tower-of-trials-v3-0.json](./358321-paper-mario-ttyd-tower-of-trials-v3-0.json) |
 | Paper Pilgrim | 140629 | [140629-paper-pilgrim.json](./140629-paper-pilgrim.json) |
+| Paper Plane Arena: Shamans | 288222 | [288222-paper-plane-arena-shamans.json](./288222-paper-plane-arena-shamans.json) |
 | Paper Robot | 394229 | [394229-paper-robot.json](./394229-paper-robot.json) |
 | Paper Shakespeare: Loves Labor(s) Lost | 102158 | [102158-paper-shakespeare-loves-labor-s-lost.json](./102158-paper-shakespeare-loves-labor-s-lost.json) |
 | Paper Trail | 142561 | [142561-paper-trail.json](./142561-paper-trail.json) |
@@ -434,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PawRebuild | 406698 | [406698-pawrebuild.json](./406698-pawrebuild.json) |
 | Paws | 94253 | [94253-paws.json](./94253-paws.json) |
 | Paws & Circuits: Reboot Earth | 412961 | [412961-paws-and-circuits-reboot-earth.json](./412961-paws-and-circuits-reboot-earth.json) |
+| Paws & Claws Pampered Pets | 288196 | [288196-paws-and-claws-pampered-pets.json](./288196-paws-and-claws-pampered-pets.json) |
 | Paws & Claws: Pet Resort | 18272 | [18272-paws-and-claws-pet-resort.json](./18272-paws-and-claws-pet-resort.json) |
 | Paws for Adventure | 204108 | [204108-paws-for-adventure.json](./204108-paws-for-adventure.json) |
 | Paws: A Shelter 2 Game | 17007 | [17007-paws-a-shelter-2-game.json](./17007-paws-a-shelter-2-game.json) |
@@ -1278,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plong | 258190 | [258190-plong.json](./258190-plong.json) |
 | Plotting | 12196 | [12196-plotting.json](./12196-plotting.json) |
 | Pluck It | 105910 | [105910-pluck-it.json](./105910-pluck-it.json) |
+| Plug It In | 288232 | [288232-plug-it-in.json](./288232-plug-it-in.json) |
 | Plumber 3D | 336908 | [336908-plumber-3d.json](./336908-plumber-3d.json) |
 | Plumber No More | 184109 | [184109-plumber-no-more.json](./184109-plumber-no-more.json) |
 | Plumbers Creed | 178667 | [178667-plumbers-creed.json](./178667-plumbers-creed.json) |
@@ -1385,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Emerald Kaizo | 172744 | [172744-pokemon-emerald-kaizo.json](./172744-pokemon-emerald-kaizo.json) |
 | Pokémon Empyrean | 221394 | [221394-pokemon-empyrean.json](./221394-pokemon-empyrean.json) |
 | Pokémon Fire Ash | 135871 | [135871-pokemon-fire-ash.json](./135871-pokemon-fire-ash.json) |
+| Pokemon FireRed and LeafGreen+ | 288206 | [288206-pokemon-firered-and-leafgreen.json](./288206-pokemon-firered-and-leafgreen.json) |
 | Pokémon Fushigi no Dungeon: Ikuzo! Arashi no Boukendan | 103512 | [103512-pokemon-fushigi-no-dungeon-ikuzo-arashi-no-boukendan.json](./103512-pokemon-fushigi-no-dungeon-ikuzo-arashi-no-boukendan.json) |
 | Pokémon Fushigi no Dungeon: Mezase! Hikari no Boukendan | 103513 | [103513-pokemon-fushigi-no-dungeon-mezase-hikari-no-boukendan.json](./103513-pokemon-fushigi-no-dungeon-mezase-hikari-no-boukendan.json) |
 | Pokémon Fushigi no Dungeon: Susume! Honoo no Boukendan | 103511 | [103511-pokemon-fushigi-no-dungeon-susume-honoo-no-boukendan.json](./103511-pokemon-fushigi-no-dungeon-susume-honoo-no-boukendan.json) |
@@ -1402,8 +1406,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Monomyth | 413611 | [413611-pokemon-monomyth.json](./413611-pokemon-monomyth.json) |
 | Pokémon Mystery Dungeon: Outlaw's Paradise | 294718 | [294718-pokemon-mystery-dungeon-outlaws-paradise.json](./294718-pokemon-mystery-dungeon-outlaws-paradise.json) |
 | Pokémon Nameless FireRed Project | 213034 | [213034-pokemon-nameless-firered-project.json](./213034-pokemon-nameless-firered-project.json) |
+| Pokemon Nova Sun | 288201 | [288201-pokemon-nova-sun.json](./288201-pokemon-nova-sun.json) |
 | Pokémon Online | 311459 | [311459-pokemon-online.json](./311459-pokemon-online.json) |
 | Pokémon Orange | 141203 | [141203-pokemon-orange.json](./141203-pokemon-orange.json) |
+| Pokemon Penumbra Moon | 288205 | [288205-pokemon-penumbra-moon.json](./288205-pokemon-penumbra-moon.json) |
 | Pokémon Photonic Sun | 214739 | [214739-pokemon-photonic-sun.json](./214739-pokemon-photonic-sun.json) |
 | Pokémon Plasma | 415074 | [415074-pokemon-plasma.json](./415074-pokemon-plasma.json) |
 | Pokémon Play It! Version 2 | 24959 | [24959-pokemon-play-it-version-2.json](./24959-pokemon-play-it-version-2.json) |
@@ -1430,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Tower Battle | 254176 | [254176-pokemon-tower-battle.json](./254176-pokemon-tower-battle.json) |
 | Pokémon Tower Defense 2 | 180292 | [180292-pokemon-tower-defense-2.json](./180292-pokemon-tower-defense-2.json) |
 | Pokémon Trading Card Game Pocket: Triumphant Light | 333937 | [333937-pokemon-trading-card-game-pocket-triumphant-light.json](./333937-pokemon-trading-card-game-pocket-triumphant-light.json) |
+| Pokemon Umbra Moon | 288202 | [288202-pokemon-umbra-moon.json](./288202-pokemon-umbra-moon.json) |
 | Pokémon Unbound | 141663 | [141663-pokemon-unbound.json](./141663-pokemon-unbound.json) |
 | Pokémon Violet: The Hidden Treasure of Area Zero - Part 2: The Indigo Disk | 239933 | [239933-pokemon-violet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json](./239933-pokemon-violet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json) |
 | Pokémon Volt White | 226415 | [226415-pokemon-volt-white.json](./226415-pokemon-volt-white.json) |
@@ -1919,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Progs_dump | 300705 | [300705-progs-dump.json](./300705-progs-dump.json) |
 | Prohibeast | 343266 | [343266-prohibeast.json](./343266-prohibeast.json) |
 | Project 13: Nightwatch - Canteen | 310382 | [310382-project-13-nightwatch-canteen.json](./310382-project-13-nightwatch-canteen.json) |
+| Project 13: Taxidermy Trails | 288192 | [288192-project-13-taxidermy-trails.json](./288192-project-13-taxidermy-trails.json) |
 | Project 2/3 | 322933 | [322933-project-2-3.json](./322933-project-2-3.json) |
 | Project Aftershock | 94753 | [94753-project-aftershock.json](./94753-project-aftershock.json) |
 | Project Alpha 002 | 30943 | [30943-project-alpha-002.json](./30943-project-alpha-002.json) |
