@@ -1394,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fossil Skater | 318214 | [318214-fossil-skater.json](./318214-fossil-skater.json) |
 | Fossilpunk | 327189 | [327189-fossilpunk.json](./327189-fossilpunk.json) |
 | Fostering Apocalypse | 153991 | [153991-fostering-apocalypse.json](./153991-fostering-apocalypse.json) |
+| Foto Boy: A New Job | 290932 | [290932-foto-boy-a-new-job.json](./290932-foto-boy-a-new-job.json) |
 | Foto Face: The Face Stealer Strikes | 67286 | [67286-foto-face-the-face-stealer-strikes.json](./67286-foto-face-the-face-stealer-strikes.json) |
 | Foul Play | 5895 | [5895-foul-play.json](./5895-foul-play.json) |
 | Foundation: Galactic Frontier | 292870 | [292870-foundation-galactic-frontier.json](./292870-foundation-galactic-frontier.json) |
