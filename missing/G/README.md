@@ -935,8 +935,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy Versus: Rising - Deluxe Character Pass | 332823 | [332823-granblue-fantasy-versus-rising-deluxe-character-pass.json](./332823-granblue-fantasy-versus-rising-deluxe-character-pass.json) |
 | Granblue Fantasy Versus: Rising - Premium Avatar Set: Shadowverse | 294993 | [294993-granblue-fantasy-versus-rising-premium-avatar-set-shadowverse.json](./294993-granblue-fantasy-versus-rising-premium-avatar-set-shadowverse.json) |
 | Granblue Fantasy Versus: Rising - The Black Butterfly: Narmaya | 334144 | [334144-granblue-fantasy-versus-rising-the-black-butterfly-narmaya.json](./334144-granblue-fantasy-versus-rising-the-black-butterfly-narmaya.json) |
+| Granblue Fantasy: Relink - Character Expansion Set: Sandalphon | 312003 | [312003-granblue-fantasy-relink-character-expansion-set-sandalphon.json](./312003-granblue-fantasy-relink-character-expansion-set-sandalphon.json) |
+| Granblue Fantasy: Relink - Character Expansion Set: Seofon | 312005 | [312005-granblue-fantasy-relink-character-expansion-set-seofon.json](./312005-granblue-fantasy-relink-character-expansion-set-seofon.json) |
 | Granblue Fantasy: Relink - Character Expansion Set: Tweyen | 309641 | [309641-granblue-fantasy-relink-character-expansion-set-tweyen.json](./309641-granblue-fantasy-relink-character-expansion-set-tweyen.json) |
 | Granblue Fantasy: Relink - Color Pack 4 | 309640 | [309640-granblue-fantasy-relink-color-pack-4.json](./309640-granblue-fantasy-relink-color-pack-4.json) |
+| Granblue Fantasy: Relink - Color Pack 5 | 312004 | [312004-granblue-fantasy-relink-color-pack-5.json](./312004-granblue-fantasy-relink-color-pack-5.json) |
+| Granblue Fantasy: Relink - Emote Expansion Set: Grab Bag | 312002 | [312002-granblue-fantasy-relink-emote-expansion-set-grab-bag.json](./312002-granblue-fantasy-relink-emote-expansion-set-grab-bag.json) |
 | Grand Academy for Future Villains | 67914 | [67914-grand-academy-for-future-villains.json](./67914-grand-academy-for-future-villains.json) |
 | Grand Casino | 295032 | [295032-grand-casino.json](./295032-grand-casino.json) |
 | Grand Chase Classic | 166856 | [166856-grand-chase-classic.json](./166856-grand-chase-classic.json) |
@@ -1273,6 +1277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gǔlóng Fēngyún Lù | 413005 | [413005-gulong-fengyun-lu.json](./413005-gulong-fengyun-lu.json) |
 | Gulu: A Tail's Journey | 215354 | [215354-gulu-a-tails-journey.json](./215354-gulu-a-tails-journey.json) |
 | Gum Droppers | 140608 | [140608-gum-droppers.json](./140608-gum-droppers.json) |
+| Gum Flesh | 311990 | [311990-gum-flesh.json](./311990-gum-flesh.json) |
 | Gumball Hero | 407353 | [407353-gumball-hero.json](./407353-gumball-hero.json) |
 | Gumchu Girl | 137682 | [137682-gumchu-girl.json](./137682-gumchu-girl.json) |
 | Gummy Bears: Magical Medallion | 50628 | [50628-gummy-bears-magical-medallion.json](./50628-gummy-bears-magical-medallion.json) |
