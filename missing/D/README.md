@@ -889,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derpy Fish | 356078 | [356078-derpy-fish.json](./356078-derpy-fish.json) |
 | Derrick the Deathfin | 17187 | [17187-derrick-the-deathfin.json](./17187-derrick-the-deathfin.json) |
 | Deru | 258698 | [258698-deru.json](./258698-deru.json) |
+| Descend | 264044 | [264044-descend.json](./264044-descend.json) |
 | Descend.gg | 232661 | [232661-descend-gg.json](./232661-descend-gg.json) |
 | Descending: House of Nightmares | 171614 | [171614-descending-house-of-nightmares.json](./171614-descending-house-of-nightmares.json) |
 | Descension | 352183 | [352183-descension.json](./352183-descension.json) |
@@ -1393,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ditch Whit #1: Shield Night | 202922 | [202922-ditch-whit-1-shield-night.json](./202922-ditch-whit-1-shield-night.json) |
 | Dithered | 122411 | [122411-dithered.json](./122411-dithered.json) |
 | Divadlo | 271988 | [271988-divadlo.json](./271988-divadlo.json) |
+| Dive On | 264069 | [264069-dive-on.json](./264069-dive-on.json) |
 | Dive or Die: Children of Rain | 391055 | [391055-dive-or-die-children-of-rain.json](./391055-dive-or-die-children-of-rain.json) |
 | Dive to the Titanic | 16206 | [16206-dive-to-the-titanic.json](./16206-dive-to-the-titanic.json) |
 | Diver's | 373028 | [373028-divers.json](./373028-divers.json) |
@@ -2069,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream "ID" Journey | 292860 | [292860-dream-id-journey.json](./292860-dream-id-journey.json) |
 | Dream 64 | 244999 | [244999-dream-64.json](./244999-dream-64.json) |
 | Dream Addict | 303491 | [303491-dream-addict.json](./303491-dream-addict.json) |
+| Dream Adventure | 264068 | [264068-dream-adventure.json](./264068-dream-adventure.json) |
 | Dream Boundary | 347715 | [347715-dream-boundary.json](./347715-dream-boundary.json) |
 | Dream Bubblez | 103491 | [103491-dream-bubblez.json](./103491-dream-bubblez.json) |
 | Dream Car Racing 3D | 32896 | [32896-dream-car-racing-3d.json](./32896-dream-car-racing-3d.json) |
