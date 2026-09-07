@@ -940,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribby Rocket | 149599 | [149599-ribby-rocket.json](./149599-ribby-rocket.json) |
 | Rice & Rest | 346581 | [346581-rice-and-rest.json](./346581-rice-and-rest.json) |
 | Rich Diamond | 209167 | [209167-rich-diamond.json](./209167-rich-diamond.json) |
+| Rich Girls | 286499 | [286499-rich-girls.json](./286499-rich-girls.json) |
 | Rich Lady's Slave Role Play | 199616 | [199616-rich-ladys-slave-role-play.json](./199616-rich-ladys-slave-role-play.json) |
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
 | Richard Scarry's Best Neighborhood Disc Ever | 127322 | [127322-richard-scarrys-best-neighborhood-disc-ever.json](./127322-richard-scarrys-best-neighborhood-disc-ever.json) |
@@ -1243,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Defender | 26650 | [26650-rock-defender.json](./26650-rock-defender.json) |
 | Rock Flipper | 332808 | [332808-rock-flipper.json](./332808-rock-flipper.json) |
 | Rock Gunner | 356621 | [356621-rock-gunner.json](./356621-rock-gunner.json) |
+| Rock Life: The Rock Simulator - Rock Pack #2 | 286527 | [286527-rock-life-the-rock-simulator-rock-pack-2.json](./286527-rock-life-the-rock-simulator-rock-pack-2.json) |
 | Rock Life: The Rock Simulator - Rock Pack #3 | 302941 | [302941-rock-life-the-rock-simulator-rock-pack-3.json](./302941-rock-life-the-rock-simulator-rock-pack-3.json) |
 | Rock of Destruction! | 104114 | [104114-rock-of-destruction.json](./104114-rock-of-destruction.json) |
 | Rock Paper Clicker | 191856 | [191856-rock-paper-clicker.json](./191856-rock-paper-clicker.json) |
@@ -1398,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollie | 143073 | [143073-rollie.json](./143073-rollie.json) |
 | Rolling Ball on Sky | 86734 | [86734-rolling-ball-on-sky.json](./86734-rolling-ball-on-sky.json) |
 | Rolling Ex.tre.me | 321752 | [321752-rolling-ex-tre-me.json](./321752-rolling-ex-tre-me.json) |
+| Rolling in the Maze | 286498 | [286498-rolling-in-the-maze.json](./286498-rolling-in-the-maze.json) |
 | Rolling Macho: Tumbling to Earth | 330148 | [330148-rolling-macho-tumbling-to-earth.json](./330148-rolling-macho-tumbling-to-earth.json) |
 | Rolling Revolt | 244500 | [244500-rolling-revolt.json](./244500-rolling-revolt.json) |
 | Rolling Rush | 223168 | [223168-rolling-rush.json](./223168-rolling-rush.json) |
