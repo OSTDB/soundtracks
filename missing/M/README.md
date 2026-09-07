@@ -2026,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Split | 142450 | [142450-monkey-split.json](./142450-monkey-split.json) |
 | Monkey Wars! | 323749 | [323749-monkey-wars.json](./323749-monkey-wars.json) |
 | Monkey Wave | 383963 | [383963-monkey-wave.json](./383963-monkey-wave.json) |
+| MonkeyKing Chaos: VR | 286007 | [286007-monkeyking-chaos-vr.json](./286007-monkeyking-chaos-vr.json) |
 | Monkeys | 314290 | [314290-monkeys.json](./314290-monkeys.json) |
 | Monkeys to the Moon | 57097 | [57097-monkeys-to-the-moon.json](./57097-monkeys-to-the-moon.json) |
 | Monmusu Gladiator | 151749 | [151749-monmusu-gladiator.json](./151749-monmusu-gladiator.json) |
@@ -2649,6 +2650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Karate Canary | 214156 | [214156-mutant-karate-canary.json](./214156-mutant-karate-canary.json) |
 | Mutant Monty | 66711 | [66711-mutant-monty.json](./66711-mutant-monty.json) |
 | Mutant Storm: Reloaded | 16266 | [16266-mutant-storm-reloaded.json](./16266-mutant-storm-reloaded.json) |
+| Mutants Of Mist | 285964 | [285964-mutants-of-mist.json](./285964-mutants-of-mist.json) |
 | Mutate! Fight! Purr! | 381640 | [381640-mutate-fight-purr.json](./381640-mutate-fight-purr.json) |
 | Muteki Kyoujin Rozario kai | 377611 | [377611-muteki-kyoujin-rozario-kai.json](./377611-muteki-kyoujin-rozario-kai.json) |
 | Mutual Assured Destruction Simulator | 326389 | [326389-mutual-assured-destruction-simulator.json](./326389-mutual-assured-destruction-simulator.json) |
