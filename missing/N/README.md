@@ -356,6 +356,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Genesis Evangelion: The Iron Maiden 2nd | 75879 | [75879-neon-genesis-evangelion-the-iron-maiden-2nd.json](./75879-neon-genesis-evangelion-the-iron-maiden-2nd.json) |
 | Neon Heights | 278144 | [278144-neon-heights.json](./278144-neon-heights.json) |
 | Neon Ladder | 311803 | [311803-neon-ladder.json](./311803-neon-ladder.json) |
+| Neon On! | 290433 | [290433-neon-on.json](./290433-neon-on.json) |
+| Neon On!: Bright Ideas | 290434 | [290434-neon-on-bright-ideas.json](./290434-neon-on-bright-ideas.json) |
+| Neon On!: Chain Lights | 290435 | [290435-neon-on-chain-lights.json](./290435-neon-on-chain-lights.json) |
 | Neon Orbit | 382772 | [382772-neon-orbit.json](./382772-neon-orbit.json) |
 | Neon Outlast | 195787 | [195787-neon-outlast.json](./195787-neon-outlast.json) |
 | Neon Parkour 2 | 253614 | [253614-neon-parkour-2.json](./253614-neon-parkour-2.json) |
@@ -716,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Ming: Wu | 341478 | [341478-ninja-ming-wu.json](./341478-ninja-ming-wu.json) |
 | Ninja Monkey | 309849 | [309849-ninja-monkey.json](./309849-ninja-monkey.json) |
 | Ninja Must Die | 143069 | [143069-ninja-must-die.json](./143069-ninja-must-die.json) |
+| Ninja no Gakko | 290402 | [290402-ninja-no-gakko.json](./290402-ninja-no-gakko.json) |
 | Ninja Numpties | 324333 | [324333-ninja-numpties.json](./324333-ninja-numpties.json) |
 | Ninja or Die: Shadow of the Sun | 204717 | [204717-ninja-or-die-shadow-of-the-sun.json](./204717-ninja-or-die-shadow-of-the-sun.json) |
 | Ninja Ponk HD | 232184 | [232184-ninja-ponk-hd.json](./232184-ninja-ponk-hd.json) |
