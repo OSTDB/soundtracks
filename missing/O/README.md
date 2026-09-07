@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outsp4ce | 172176 | [172176-outsp4ce.json](./172176-outsp4ce.json) |
 | Outspace | 332263 | [332263-outspace.json](./332263-outspace.json) |
 | Outspell | 219267 | [219267-outspell.json](./219267-outspell.json) |
+| Outward 2 | 291446 | [291446-outward-2.json](./291446-outward-2.json) |
 | Outwars | 57676 | [57676-outwars.json](./57676-outwars.json) |
 | Outwitters | 167852 | [167852-outwitters.json](./167852-outwitters.json) |
 | Outworld Battlegrounds | 111037 | [111037-outworld-battlegrounds.json](./111037-outworld-battlegrounds.json) |
