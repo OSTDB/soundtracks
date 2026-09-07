@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vistascapes VR | 32891 | [32891-vistascapes-vr.json](./32891-vistascapes-vr.json) |
 | Visual DOS 2024 | 364528 | [364528-visual-dos-2024.json](./364528-visual-dos-2024.json) |
 | Visual DOS: Integer Overflow | 364520 | [364520-visual-dos-integer-overflow.json](./364520-visual-dos-integer-overflow.json) |
+| Visual Quiz Kore Naanda? | 260698 | [260698-visual-quiz-kore-naanda.json](./260698-visual-quiz-kore-naanda.json) |
 | Visualizer | 80590 | [80590-visualizer.json](./80590-visualizer.json) |
 | Vita: The Ember Oracle | 356112 | [356112-vita-the-ember-oracle.json](./356112-vita-the-ember-oracle.json) |
 | Vital Force | 62188 | [62188-vital-force.json](./62188-vital-force.json) |
