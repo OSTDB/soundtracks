@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hair Mower 3D | 137052 | [137052-hair-mower-3d.json](./137052-hair-mower-3d.json) |
 | Hair Nah | 243379 | [243379-hair-nah.json](./243379-hair-nah.json) |
 | Haisonmeguri | 207523 | [207523-haisonmeguri.json](./207523-haisonmeguri.json) |
+| Hajikise! | 265155 | [265155-hajikise.json](./265155-hajikise.json) |
 | Hajimeru Sekai no Risouron: Goodbye World Index | 337092 | [337092-hajimeru-sekai-no-risouron-goodbye-world-index.json](./337092-hajimeru-sekai-no-risouron-goodbye-world-index.json) |
 | Hajwala Desert | 332819 | [332819-hajwala-desert.json](./332819-hajwala-desert.json) |
 | Hajwala Of Riyadh | 366215 | [366215-hajwala-of-riyadh.json](./366215-hajwala-of-riyadh.json) |
@@ -1494,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Force | 5675 | [5675-hover-force.json](./5675-hover-force.json) |
 | Hover Hazard | 30890 | [30890-hover-hazard.json](./30890-hover-hazard.json) |
 | Hover Junkers | 18903 | [18903-hover-junkers.json](./18903-hover-junkers.json) |
+| Hover Shooting Defence | 265151 | [265151-hover-shooting-defence.json](./265151-hover-shooting-defence.json) |
 | Hover Strike | 40812 | [40812-hover-strike.json](./40812-hover-strike.json) |
 | Hoverbear | 296909 | [296909-hoverbear.json](./296909-hoverbear.json) |
 | Hovercars 3077: Underground racing | 192436 | [192436-hovercars-3077-underground-racing.json](./192436-hovercars-3077-underground-racing.json) |
