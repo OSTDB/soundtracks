@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T01:33:22.478Z",
-  "total_missing": 39779,
+  "generated_at": "2026-09-07T01:48:05.245Z",
+  "total_missing": 39829,
   "games": [
     {
       "igdb_id": 306086,
@@ -25553,6 +25553,11 @@
       "file": "missing/B/12728-buggy-boy.json"
     },
     {
+      "igdb_id": 308799,
+      "game_name": "Buggy Off-Road Racing: Deluxe Edition",
+      "file": "missing/B/308799-buggy-off-road-racing-deluxe-edition.json"
+    },
+    {
       "igdb_id": 317262,
       "game_name": "Buggy Off-Road Racing: Platinum Edition",
       "file": "missing/B/317262-buggy-off-road-racing-platinum-edition.json"
@@ -32878,6 +32883,11 @@
       "file": "missing/C/217500-co-operation-multiturn.json"
     },
     {
+      "igdb_id": 308809,
+      "game_name": "Coach Bus Driving Simulator",
+      "file": "missing/C/308809-coach-bus-driving-simulator.json"
+    },
+    {
       "igdb_id": 271482,
       "game_name": "Coagula Mappack #3",
       "file": "missing/C/271482-coagula-mappack-3.json"
@@ -33601,6 +33611,11 @@
       "igdb_id": 261527,
       "game_name": "Color Teaser",
       "file": "missing/C/261527-color-teaser.json"
+    },
+    {
+      "igdb_id": 308798,
+      "game_name": "Color Water Sort: Complete Edition",
+      "file": "missing/C/308798-color-water-sort-complete-edition.json"
     },
     {
       "igdb_id": 218144,
@@ -34503,6 +34518,11 @@
       "file": "missing/C/415116-conquista-tide-of-wills.json"
     },
     {
+      "igdb_id": 308797,
+      "game_name": "Conscript: Deluxe Edition",
+      "file": "missing/C/308797-conscript-deluxe-edition.json"
+    },
+    {
       "igdb_id": 408784,
       "game_name": "Considerable Grandfather: It Followed Me Home",
       "file": "missing/C/408784-considerable-grandfather-it-followed-me-home.json"
@@ -34776,6 +34796,11 @@
       "igdb_id": 275892,
       "game_name": "Cooking Arena: 9 in 1 Edition",
       "file": "missing/C/275892-cooking-arena-9-in-1-edition.json"
+    },
+    {
+      "igdb_id": 308810,
+      "game_name": "Cooking Arena: Sushi Master",
+      "file": "missing/C/308810-cooking-arena-sushi-master.json"
     },
     {
       "igdb_id": 119017,
@@ -37371,6 +37396,11 @@
       "igdb_id": 26613,
       "game_name": "Crypt of the Necrodancer: Amplified",
       "file": "missing/C/26613-crypt-of-the-necrodancer-amplified.json"
+    },
+    {
+      "igdb_id": 308796,
+      "game_name": "Crypt Stalker: Extended Edition",
+      "file": "missing/C/308796-crypt-stalker-extended-edition.json"
     },
     {
       "igdb_id": 122425,
@@ -57308,6 +57338,11 @@
       "file": "missing/F/212481-fashion-universe.json"
     },
     {
+      "igdb_id": 308804,
+      "game_name": "Fashion World: Premium Edition",
+      "file": "missing/F/308804-fashion-world-premium-edition.json"
+    },
+    {
       "igdb_id": 296068,
       "game_name": "FashionVerse",
       "file": "missing/F/296068-fashionverse.json"
@@ -59776,6 +59811,21 @@
       "igdb_id": 328820,
       "game_name": "Fit My Zoo: Complete +",
       "file": "missing/F/328820-fit-my-zoo-complete.json"
+    },
+    {
+      "igdb_id": 308811,
+      "game_name": "Fit My Zoo: Zoo's Puzzle Pack 1",
+      "file": "missing/F/308811-fit-my-zoo-zoos-puzzle-pack-1.json"
+    },
+    {
+      "igdb_id": 308812,
+      "game_name": "Fit My Zoo: Zoo's Puzzle Pack 2",
+      "file": "missing/F/308812-fit-my-zoo-zoos-puzzle-pack-2.json"
+    },
+    {
+      "igdb_id": 308813,
+      "game_name": "Fit My Zoo: Zoo's Puzzle Pack 3",
+      "file": "missing/F/308813-fit-my-zoo-zoos-puzzle-pack-3.json"
     },
     {
       "igdb_id": 263197,
@@ -62656,6 +62706,11 @@
       "igdb_id": 102150,
       "game_name": "Freakout: Calamity TV Show",
       "file": "missing/F/102150-freakout-calamity-tv-show.json"
+    },
+    {
+      "igdb_id": 308803,
+      "game_name": "Freaky Trip: Amazing Edition",
+      "file": "missing/F/308803-freaky-trip-amazing-edition.json"
     },
     {
       "igdb_id": 315864,
@@ -74443,6 +74498,26 @@
       "file": "missing/H/390497-hentai-balls-3d-sexy-girls.json"
     },
     {
+      "igdb_id": 308788,
+      "game_name": "Hentai Dating Stories: Brazil - Best Stories 1",
+      "file": "missing/H/308788-hentai-dating-stories-brazil-best-stories-1.json"
+    },
+    {
+      "igdb_id": 308787,
+      "game_name": "Hentai Dating Stories: Brazil - Best Stories 2",
+      "file": "missing/H/308787-hentai-dating-stories-brazil-best-stories-2.json"
+    },
+    {
+      "igdb_id": 308786,
+      "game_name": "Hentai Dating Stories: Brazil - Best Stories 3",
+      "file": "missing/H/308786-hentai-dating-stories-brazil-best-stories-3.json"
+    },
+    {
+      "igdb_id": 308802,
+      "game_name": "Hentai Dating Stories: Brazil - Deluxe Edition",
+      "file": "missing/H/308802-hentai-dating-stories-brazil-deluxe-edition.json"
+    },
+    {
       "igdb_id": 315862,
       "game_name": "Hentai Dating Stories: Brazil - Special Edition",
       "file": "missing/H/315862-hentai-dating-stories-brazil-special-edition.json"
@@ -74513,9 +74588,19 @@
       "file": "missing/H/314871-hentai-girls-paris-romance.json"
     },
     {
+      "igdb_id": 308817,
+      "game_name": "Hentai Girls: Ultra Extended",
+      "file": "missing/H/308817-hentai-girls-ultra-extended.json"
+    },
+    {
       "igdb_id": 315861,
       "game_name": "Hentai Golf: Happy Edition",
       "file": "missing/H/315861-hentai-golf-happy-edition.json"
+    },
+    {
+      "igdb_id": 308801,
+      "game_name": "Hentai Golf: Platinum Edition",
+      "file": "missing/H/308801-hentai-golf-platinum-edition.json"
     },
     {
       "igdb_id": 147452,
@@ -74623,6 +74708,11 @@
       "file": "missing/H/315868-hentai-solitaire-extended-edition.json"
     },
     {
+      "igdb_id": 308800,
+      "game_name": "Hentai Stars: Amazing Edition",
+      "file": "missing/H/308800-hentai-stars-amazing-edition.json"
+    },
+    {
       "igdb_id": 314885,
       "game_name": "Hentai Stars: Superb Edition",
       "file": "missing/H/314885-hentai-stars-superb-edition.json"
@@ -74636,6 +74726,11 @@
       "igdb_id": 161388,
       "game_name": "Hentai vs. Orcs",
       "file": "missing/H/161388-hentai-vs-orcs.json"
+    },
+    {
+      "igdb_id": 308818,
+      "game_name": "Hentai World: Ultra Deluxe",
+      "file": "missing/H/308818-hentai-world-ultra-deluxe.json"
     },
     {
       "igdb_id": 313144,
@@ -81156,6 +81251,11 @@
       "igdb_id": 7328,
       "game_name": "Infamous: First Light",
       "file": "missing/I/7328-infamous-first-light.json"
+    },
+    {
+      "igdb_id": 308805,
+      "game_name": "Infantry Attack: Backup Edition",
+      "file": "missing/I/308805-infantry-attack-backup-edition.json"
     },
     {
       "igdb_id": 231078,
@@ -93011,6 +93111,11 @@
       "igdb_id": 202962,
       "game_name": "Life and Minimalism",
       "file": "missing/L/202962-life-and-minimalism.json"
+    },
+    {
+      "igdb_id": 308806,
+      "game_name": "Life Bubble: Gear Up Edition",
+      "file": "missing/L/308806-life-bubble-gear-up-edition.json"
     },
     {
       "igdb_id": 174945,
@@ -105158,6 +105263,11 @@
       "file": "missing/M/402922-mixology.json"
     },
     {
+      "igdb_id": 308820,
+      "game_name": "Mixx Island: Remix Plus - Ultra Special",
+      "file": "missing/M/308820-mixx-island-remix-plus-ultra-special.json"
+    },
+    {
       "igdb_id": 186316,
       "game_name": "Mixx Island: Remix Vol. 2",
       "file": "missing/M/186316-mixx-island-remix-vol-2.json"
@@ -106508,9 +106618,24 @@
       "file": "missing/M/339291-monster-jam-showdown-bad-news-travels-fast.json"
     },
     {
+      "igdb_id": 308808,
+      "game_name": "Monster Jam Showdown: Big Air Edition",
+      "file": "missing/M/308808-monster-jam-showdown-big-air-edition.json"
+    },
+    {
       "igdb_id": 293931,
       "game_name": "Monster Jam Showdown: Day One Edition",
       "file": "missing/M/293931-monster-jam-showdown-day-one-edition.json"
+    },
+    {
+      "igdb_id": 308821,
+      "game_name": "Monster Jam Showdown: Law & Disorder",
+      "file": "missing/M/308821-monster-jam-showdown-law-and-disorder.json"
+    },
+    {
+      "igdb_id": 308822,
+      "game_name": "Monster Jam Showdown: The Odd Couple",
+      "file": "missing/M/308822-monster-jam-showdown-the-odd-couple.json"
     },
     {
       "igdb_id": 332228,
@@ -109436,6 +109561,11 @@
       "igdb_id": 131594,
       "game_name": "My Hole is a Mouth of Dirt",
       "file": "missing/M/131594-my-hole-is-a-mouth-of-dirt.json"
+    },
+    {
+      "igdb_id": 308807,
+      "game_name": "My Horse Stories: Sunny Edition",
+      "file": "missing/M/308807-my-horse-stories-sunny-edition.json"
     },
     {
       "igdb_id": 199122,
@@ -113151,6 +113281,11 @@
       "igdb_id": 317247,
       "game_name": "Ngolf: Platinum Edition",
       "file": "missing/N/317247-ngolf-platinum-edition.json"
+    },
+    {
+      "igdb_id": 308791,
+      "game_name": "Ngolf: Premium Edition",
+      "file": "missing/N/308791-ngolf-premium-edition.json"
     },
     {
       "igdb_id": 5964,
@@ -117801,6 +117936,11 @@
       "igdb_id": 313142,
       "game_name": "One Night: Burlesque - Amazing Edition",
       "file": "missing/O/313142-one-night-burlesque-amazing-edition.json"
+    },
+    {
+      "igdb_id": 308790,
+      "game_name": "One Night: Burlesque - GOTY Edition",
+      "file": "missing/O/308790-one-night-burlesque-goty-edition.json"
     },
     {
       "igdb_id": 315857,
@@ -143263,6 +143403,11 @@
       "file": "missing/S/263763-sculpt.json"
     },
     {
+      "igdb_id": 308789,
+      "game_name": "Sculpt People: Creative Edition",
+      "file": "missing/S/308789-sculpt-people-creative-edition.json"
+    },
+    {
       "igdb_id": 45361,
       "game_name": "Scumball",
       "file": "missing/S/45361-scumball.json"
@@ -155353,6 +155498,21 @@
       "file": "missing/S/77397-spy-vs-spy-volumes-i-and-ii.json"
     },
     {
+      "igdb_id": 308814,
+      "game_name": "Spy x Anya: Operation Memories - Deluxe Outing Pack",
+      "file": "missing/S/308814-spy-x-anya-operation-memories-deluxe-outing-pack.json"
+    },
+    {
+      "igdb_id": 308815,
+      "game_name": "Spy x Anya: Operation Memories - Excited Outifit Pack",
+      "file": "missing/S/308815-spy-x-anya-operation-memories-excited-outifit-pack.json"
+    },
+    {
+      "igdb_id": 308816,
+      "game_name": "Spy x Anya: Operation Memories - Thrilling Outfit Pack",
+      "file": "missing/S/308816-spy-x-anya-operation-memories-thrilling-outfit-pack.json"
+    },
+    {
       "igdb_id": 4166,
       "game_name": "SpyHunter",
       "file": "missing/S/4166-spyhunter.json"
@@ -163261,6 +163421,16 @@
       "igdb_id": 287852,
       "game_name": "Sword Art Online: Fractured Daydream",
       "file": "missing/S/287852-sword-art-online-fractured-daydream.json"
+    },
+    {
+      "igdb_id": 308792,
+      "game_name": "Sword Art Online: Fractured Daydream - Deluxe Edition",
+      "file": "missing/S/308792-sword-art-online-fractured-daydream-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 308793,
+      "game_name": "Sword Art Online: Fractured Daydream - Premium Edition",
+      "file": "missing/S/308793-sword-art-online-fractured-daydream-premium-edition.json"
     },
     {
       "igdb_id": 68441,
@@ -181933,6 +182103,11 @@
       "file": "missing/T/317244-train-traffic-manager-diamond-edition.json"
     },
     {
+      "igdb_id": 308794,
+      "game_name": "Train Traffic Manager: Gold Edition",
+      "file": "missing/T/308794-train-traffic-manager-gold-edition.json"
+    },
+    {
       "igdb_id": 328805,
       "game_name": "Train Traffic Manager: Prime Edition",
       "file": "missing/T/328805-train-traffic-manager-prime-edition.json"
@@ -188928,6 +189103,76 @@
       "file": "missing/V/354449-viviparous-dumpling.json"
     },
     {
+      "igdb_id": 308772,
+      "game_name": "Vivitter: Additional Mini-game - \"Hole-in-one\"",
+      "file": "missing/V/308772-vivitter-additional-mini-game-hole-in-one.json"
+    },
+    {
+      "igdb_id": 308785,
+      "game_name": "Vivitter: Additional Mini-game - \"Kiss Game\"",
+      "file": "missing/V/308785-vivitter-additional-mini-game-kiss-game.json"
+    },
+    {
+      "igdb_id": 308783,
+      "game_name": "Vivitter: Additional Mini-game - \"Leaning Tower\"",
+      "file": "missing/V/308783-vivitter-additional-mini-game-leaning-tower.json"
+    },
+    {
+      "igdb_id": 308782,
+      "game_name": "Vivitter: Additional Mini-game - \"Lightning Shoot\"",
+      "file": "missing/V/308782-vivitter-additional-mini-game-lightning-shoot.json"
+    },
+    {
+      "igdb_id": 308784,
+      "game_name": "Vivitter: Additional Mini-game - \"Magic Soda\"",
+      "file": "missing/V/308784-vivitter-additional-mini-game-magic-soda.json"
+    },
+    {
+      "igdb_id": 308781,
+      "game_name": "Vivitter: Additional Mini-game - \"Matrlympics\"",
+      "file": "missing/V/308781-vivitter-additional-mini-game-matrlympics.json"
+    },
+    {
+      "igdb_id": 308780,
+      "game_name": "Vivitter: Additional Mini-game - \"Milk In Black\"",
+      "file": "missing/V/308780-vivitter-additional-mini-game-milk-in-black.json"
+    },
+    {
+      "igdb_id": 308778,
+      "game_name": "Vivitter: Additional Mini-game - \"Ninjutsu Fusuma\"",
+      "file": "missing/V/308778-vivitter-additional-mini-game-ninjutsu-fusuma.json"
+    },
+    {
+      "igdb_id": 308777,
+      "game_name": "Vivitter: Additional Mini-game - \"Parley!\"",
+      "file": "missing/V/308777-vivitter-additional-mini-game-parley.json"
+    },
+    {
+      "igdb_id": 308776,
+      "game_name": "Vivitter: Additional Mini-game - \"Shoot That Star!\"",
+      "file": "missing/V/308776-vivitter-additional-mini-game-shoot-that-star.json"
+    },
+    {
+      "igdb_id": 308775,
+      "game_name": "Vivitter: Additional Mini-game - \"Top Hairstylist\"",
+      "file": "missing/V/308775-vivitter-additional-mini-game-top-hairstylist.json"
+    },
+    {
+      "igdb_id": 308779,
+      "game_name": "Vivitter: Additional Mini-game - \"United Robot\"",
+      "file": "missing/V/308779-vivitter-additional-mini-game-united-robot.json"
+    },
+    {
+      "igdb_id": 308774,
+      "game_name": "Vivitter: Additional Mini-game - \"Unstoppable\"",
+      "file": "missing/V/308774-vivitter-additional-mini-game-unstoppable.json"
+    },
+    {
+      "igdb_id": 308773,
+      "game_name": "Vivitter: Additional Mini-game - \"Vivid ViviCure\"",
+      "file": "missing/V/308773-vivitter-additional-mini-game-vivid-vivicure.json"
+    },
+    {
       "igdb_id": 67993,
       "game_name": "Viz: The Soft Floppy One",
       "file": "missing/V/67993-viz-the-soft-floppy-one.json"
@@ -190936,6 +191181,11 @@
       "igdb_id": 112336,
       "game_name": "WarWest",
       "file": "missing/W/112336-warwest.json"
+    },
+    {
+      "igdb_id": 308795,
+      "game_name": "Warzone Chronicles: Virtual Warfare Shooter - Premium Edition",
+      "file": "missing/W/308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json"
     },
     {
       "igdb_id": 112996,
