@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsteady Bounce | 180840 | [180840-unsteady-bounce.json](./180840-unsteady-bounce.json) |
 | Unstimulated Simulator | 389418 | [389418-unstimulated-simulator.json](./389418-unstimulated-simulator.json) |
 | Unsustainable: a god job | 180842 | [180842-unsustainable-a-god-job.json](./180842-unsustainable-a-god-job.json) |
+| Untamed | 280233 | [280233-untamed.json](./280233-untamed.json) |
 | Untamed Kingdom | 274765 | [274765-untamed-kingdom.json](./274765-untamed-kingdom.json) |
 | Untamed Tactics | 158184 | [158184-untamed-tactics.json](./158184-untamed-tactics.json) |
 | Until I Have You | 24977 | [24977-until-i-have-you.json](./24977-until-i-have-you.json) |
@@ -392,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unusual and Not Safe Experiments | 368488 | [368488-unusual-and-not-safe-experiments.json](./368488-unusual-and-not-safe-experiments.json) |
 | Unusual Tales: Deep Below | 380447 | [380447-unusual-tales-deep-below.json](./380447-unusual-tales-deep-below.json) |
 | Unusual Times | 221393 | [221393-unusual-times.json](./221393-unusual-times.json) |
+| Unveiling | 280235 | [280235-unveiling.json](./280235-unveiling.json) |
 | Unveiling the Unknown | 310396 | [310396-unveiling-the-unknown.json](./310396-unveiling-the-unknown.json) |
 | Unwavering Love | 405465 | [405465-unwavering-love.json](./405465-unwavering-love.json) |
 | Unwelcome Guest | 337453 | [337453-unwelcome-guest.json](./337453-unwelcome-guest.json) |
