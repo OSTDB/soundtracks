@@ -2013,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly | 335884 | [335884-monopoly.json](./335884-monopoly.json) |
 | Monopoly Collection | 50615 | [50615-monopoly-collection.json](./50615-monopoly-collection.json) |
 | Monopoly One | 55944 | [55944-monopoly-one.json](./55944-monopoly-one.json) |
+| Monopoly Sudoku | 292005 | [292005-monopoly-sudoku.json](./292005-monopoly-sudoku.json) |
 | Monorail Stories | 137051 | [137051-monorail-stories.json](./137051-monorail-stories.json) |
 | Monria | 22385 | [22385-monria.json](./22385-monria.json) |
 | Monstabox | 334134 | [334134-monstabox.json](./334134-monstabox.json) |
@@ -2799,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sunny Resort | 98981 | [98981-my-sunny-resort.json](./98981-my-sunny-resort.json) |
 | My Sweet Roomies | 378198 | [378198-my-sweet-roomies.json](./378198-my-sweet-roomies.json) |
 | My Sweet Washing Machine! | 156654 | [156654-my-sweet-washing-machine.json](./156654-my-sweet-washing-machine.json) |
+| My Talking Angela 2+ | 291985 | [291985-my-talking-angela-2.json](./291985-my-talking-angela-2.json) |
 | My Talking Girl | 300429 | [300429-my-talking-girl.json](./300429-my-talking-girl.json) |
 | My Talking Pretty Girl | 300430 | [300430-my-talking-pretty-girl.json](./300430-my-talking-pretty-girl.json) |
 | My Therapy | 207540 | [207540-my-therapy.json](./207540-my-therapy.json) |
