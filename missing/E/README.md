@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eared Hero | 68194 | [68194-eared-hero.json](./68194-eared-hero.json) |
 | Earl Bobby is looking for his Balls | 78686 | [78686-earl-bobby-is-looking-for-his-balls.json](./78686-earl-bobby-is-looking-for-his-balls.json) |
 | Early Kingdom | 363411 | [363411-early-kingdom.json](./363411-early-kingdom.json) |
+| Early Mellow | 296394 | [296394-early-mellow.json](./296394-early-mellow.json) |
 | Earn to Die | 80713 | [80713-earn-to-die.json](./80713-earn-to-die.json) |
 | Ears of the Killer | 206957 | [206957-ears-of-the-killer.json](./206957-ears-of-the-killer.json) |
 | Earth 2025 | 92497 | [92497-earth-2025.json](./92497-earth-2025.json) |
@@ -392,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emancy: Borderline War | 237650 | [237650-emancy-borderline-war.json](./237650-emancy-borderline-war.json) |
 | Ember & Blade | 340741 | [340741-ember-and-blade.json](./340741-ember-and-blade.json) |
 | Ember Knights: Wrath of the Architect | 310371 | [310371-ember-knights-wrath-of-the-architect.json](./310371-ember-knights-wrath-of-the-architect.json) |
+| Ember Point | 296349 | [296349-ember-point.json](./296349-ember-point.json) |
 | Ember's Verge | 324303 | [324303-embers-verge.json](./324303-embers-verge.json) |
 | Emberhold | 379876 | [379876-emberhold.json](./379876-emberhold.json) |
 | Embers | 291226 | [291226-embers.json](./291226-embers.json) |
@@ -536,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endurance: Space Action | 143111 | [143111-endurance-space-action.json](./143111-endurance-space-action.json) |
 | Endzone: A World Apart - Survivor Edition | 193533 | [193533-endzone-a-world-apart-survivor-edition.json](./193533-endzone-a-world-apart-survivor-edition.json) |
 | Enemy Engaged: RAH-66 Comanche vs. Ka-52 Hokum | 69858 | [69858-enemy-engaged-rah-66-comanche-vs-ka-52-hokum.json](./69858-enemy-engaged-rah-66-comanche-vs-ka-52-hokum.json) |
+| Enemy Metal | 296367 | [296367-enemy-metal.json](./296367-enemy-metal.json) |
 | Enemy On the Tail! | 320518 | [320518-enemy-on-the-tail.json](./320518-enemy-on-the-tail.json) |
 | Energy | 63332 | [63332-energy.json](./63332-energy.json) |
 | Energy Breaker | 38377 | [38377-energy-breaker.json](./38377-energy-breaker.json) |
@@ -598,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Landscapes Jigsaw | 354404 | [354404-epic-landscapes-jigsaw.json](./354404-epic-landscapes-jigsaw.json) |
 | Epic Paper Mario | 338735 | [338735-epic-paper-mario.json](./338735-epic-paper-mario.json) |
 | Epic Party Clicker | 314632 | [314632-epic-party-clicker.json](./314632-epic-party-clicker.json) |
+| Epic Pixel War | 296391 | [296391-epic-pixel-war.json](./296391-epic-pixel-war.json) |
 | Epic Prose: Special Edition | 52020 | [52020-epic-prose-special-edition.json](./52020-epic-prose-special-edition.json) |
 | Epic Sax Game | 414339 | [414339-epic-sax-game.json](./414339-epic-sax-game.json) |
 | Epic Showdown | 34365 | [34365-epic-showdown.json](./34365-epic-showdown.json) |
