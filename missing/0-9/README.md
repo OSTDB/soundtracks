@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Munchy | 15577 | [15577-3d-munchy.json](./15577-3d-munchy.json) |
 | 3D Pinball: Space Cadet NDS | 307323 | [307323-3d-pinball-space-cadet-nds.json](./307323-3d-pinball-space-cadet-nds.json) |
 | 3D Pool Game | 88273 | [88273-3d-pool-game.json](./88273-3d-pool-game.json) |
+| 3D Printer: PrintMaster Simulator | 287116 | [287116-3d-printer-printmaster-simulator.json](./287116-3d-printer-printmaster-simulator.json) |
 | 3D Puyo Puyo 2: Tsuu | 87195 | [87195-3d-puyo-puyo-2-tsuu.json](./87195-3d-puyo-puyo-2-tsuu.json) |
 | 3D Puzzle: Apocalyptic Wasteland | 337612 | [337612-3d-puzzle-apocalyptic-wasteland.json](./337612-3d-puzzle-apocalyptic-wasteland.json) |
 | 3D Puzzle: Colonial Graveyard | 337620 | [337620-3d-puzzle-colonial-graveyard.json](./337620-3d-puzzle-colonial-graveyard.json) |
