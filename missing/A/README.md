@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Deep Dive | 349872 | [349872-a-deep-dive.json](./349872-a-deep-dive.json) |
 | A Desert Christmas Story | 235974 | [235974-a-desert-christmas-story.json](./235974-a-desert-christmas-story.json) |
 | A Desert Dusk | 280226 | [280226-a-desert-dusk.json](./280226-a-desert-dusk.json) |
+| A different summer | 278426 | [278426-a-different-summer.json](./278426-a-different-summer.json) |
 | A Dino Date | 260401 | [260401-a-dino-date.json](./260401-a-dino-date.json) |
 | A Dino's Journey | 319388 | [319388-a-dinos-journey.json](./319388-a-dinos-journey.json) |
 | A Dog Called Buddy | 341469 | [341469-a-dog-called-buddy.json](./341469-a-dog-called-buddy.json) |
@@ -1726,6 +1727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaDream | 330146 | [330146-aquadream.json](./330146-aquadream.json) |
 | AquaFantasia | 297786 | [297786-aquafantasia.json](./297786-aquafantasia.json) |
 | AquaHero | 237665 | [237665-aquahero.json](./237665-aquahero.json) |
+| Aquametsis | 278427 | [278427-aquametsis.json](./278427-aquametsis.json) |
 | Aquanaut's Holiday | 20589 | [20589-aquanauts-holiday.json](./20589-aquanauts-holiday.json) |
 | Aquanoid | 46629 | [46629-aquanoid.json](./46629-aquanoid.json) |
 | Aquanore | 376451 | [376451-aquanore.json](./376451-aquanore.json) |
