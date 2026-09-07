@@ -586,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of the Old Testament: The Bible Video Game | 211395 | [211395-adventures-of-the-old-testament-the-bible-video-game.json](./211395-adventures-of-the-old-testament-the-bible-video-game.json) |
 | Adventures to Go! | 46016 | [46016-adventures-to-go.json](./46016-adventures-to-go.json) |
 | Adventures with Alan Parkour 3D | 369557 | [369557-adventures-with-alan-parkour-3d.json](./369557-adventures-with-alan-parkour-3d.json) |
+| Adventures With Oslo: World of Water | 262400 | [262400-adventures-with-oslo-world-of-water.json](./262400-adventures-with-oslo-world-of-water.json) |
 | Adversator | 180289 | [180289-adversator.json](./180289-adversator.json) |
 | Adverse | 132254 | [132254-adverse.json](./132254-adverse.json) |
 | Advise the King | 229941 | [229941-advise-the-king.json](./229941-advise-the-king.json) |
@@ -1230,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaemi: Longing for you | 206335 | [206335-amaemi-longing-for-you.json](./206335-amaemi-longing-for-you.json) |
 | Amairo Chocolate 3 | 381003 | [381003-amairo-chocolate-3.json](./381003-amairo-chocolate-3.json) |
 | Amamane | 121724 | [121724-amamane.json](./121724-amamane.json) |
+| Amanda Stories | 262405 | [262405-amanda-stories.json](./262405-amanda-stories.json) |
 | Amanda's Magic Book 5: Hansel and Gretel | 237070 | [237070-amandas-magic-book-5-hansel-and-gretel.json](./237070-amandas-magic-book-5-hansel-and-gretel.json) |
 | Amanda's Sticker Book 2: Amazing Wldlife | 115704 | [115704-amandas-sticker-book-2-amazing-wldlife.json](./115704-amandas-sticker-book-2-amazing-wldlife.json) |
 | Amaneku Tenshi ni Yakusoku wo | 381633 | [381633-amaneku-tenshi-ni-yakusoku-wo.json](./381633-amaneku-tenshi-ni-yakusoku-wo.json) |
