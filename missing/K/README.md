@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep it Live | 194666 | [194666-keep-it-live.json](./194666-keep-it-live.json) |
 | Keep looking | 158185 | [158185-keep-looking.json](./158185-keep-looking.json) |
 | Keep Me Posted | 223169 | [223169-keep-me-posted.json](./223169-keep-me-posted.json) |
+| Keep Runnin | 304581 | [304581-keep-runnin.json](./304581-keep-runnin.json) |
 | Keep Running | 104071 | [104071-keep-running.json](./104071-keep-running.json) |
 | Keep Talking and Nobody Explodes | 13226 | [13226-keep-talking-and-nobody-explodes.json](./13226-keep-talking-and-nobody-explodes.json) |
 | Keep The Beat | 381598 | [381598-keep-the-beat.json](./381598-keep-the-beat.json) |
@@ -508,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchen | 218719 | [218719-kitchen.json](./218719-kitchen.json) |
 | Kitchen Gore | 355042 | [355042-kitchen-gore.json](./355042-kitchen-gore.json) |
 | Kitchen master | 26648 | [26648-kitchen-master.json](./26648-kitchen-master.json) |
+| Kiteboarding | 304600 | [304600-kiteboarding.json](./304600-kiteboarding.json) |
 | Kitesurf Runner | 304379 | [304379-kitesurf-runner.json](./304379-kitesurf-runner.json) |
 | Kito Pizzas | 397691 | [397691-kito-pizzas.json](./397691-kito-pizzas.json) |
 | Kitori Academy | 136477 | [136477-kitori-academy.json](./136477-kitori-academy.json) |
