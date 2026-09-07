@@ -1401,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrommzzz | 247752 | [247752-shrommzzz.json](./247752-shrommzzz.json) |
 | Shroomscape Zone | 192465 | [192465-shroomscape-zone.json](./192465-shroomscape-zone.json) |
 | Shrouded Siege | 374052 | [374052-shrouded-siege.json](./374052-shrouded-siege.json) |
+| Shuffle in One | 259551 | [259551-shuffle-in-one.json](./259551-shuffle-in-one.json) |
 | Shuffle Party | 65525 | [65525-shuffle-party.json](./65525-shuffle-party.json) |
 | Shuffle! | 31127 | [31127-shuffle.json](./31127-shuffle.json) |
 | Shuffle! Episode 2: Kami ni mo Akuma ni mo Nerawareteiru Otoko | 380427 | [380427-shuffle-episode-2-kami-ni-mo-akuma-ni-mo-nerawareteiru-otoko.json](./380427-shuffle-episode-2-kami-ni-mo-akuma-ni-mo-nerawareteiru-otoko.json) |
@@ -2070,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Den | 84876 | [84876-snake-den.json](./84876-snake-den.json) |
 | Snake Game Ultra Core | 368476 | [368476-snake-game-ultra-core.json](./368476-snake-game-ultra-core.json) |
 | Snake Infinity Lite | 26680 | [26680-snake-infinity-lite.json](./26680-snake-infinity-lite.json) |
+| Snake Jump | 259579 | [259579-snake-jump.json](./259579-snake-jump.json) |
 | Snake Neon Online | 209685 | [209685-snake-neon-online.json](./209685-snake-neon-online.json) |
 | Snake Party | 29906 | [29906-snake-party.json](./29906-snake-party.json) |
 | Snake Pass | 19220 | [19220-snake-pass.json](./19220-snake-pass.json) |
@@ -2355,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solous | 133466 | [133466-solous.json](./133466-solous.json) |
 | Solse AI-Quest | 290938 | [290938-solse-ai-quest.json](./290938-solse-ai-quest.json) |
 | Solstice | 306355 | [306355-solstice.json](./306355-solstice.json) |
+| Solve & Roll | 259552 | [259552-solve-and-roll.json](./259552-solve-and-roll.json) |
 | Solve This! Emoji Puzzle | 213596 | [213596-solve-this-emoji-puzzle.json](./213596-solve-this-emoji-puzzle.json) |
 | Solvimus | 370138 | [370138-solvimus.json](./370138-solvimus.json) |
 | Soma Spirits | 400893 | [400893-soma-spirits.json](./400893-soma-spirits.json) |
@@ -2810,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fox Kimi and the Interstellar Fortress | 171589 | [171589-space-fox-kimi-and-the-interstellar-fortress.json](./171589-space-fox-kimi-and-the-interstellar-fortress.json) |
 | Space Fuss | 31387 | [31387-space-fuss.json](./31387-space-fuss.json) |
 | Space Garbage | 277600 | [277600-space-garbage.json](./277600-space-garbage.json) |
+| Space Gate Rush | 259565 | [259565-space-gate-rush.json](./259565-space-gate-rush.json) |
 | Space Gnomes | 407315 | [407315-space-gnomes.json](./407315-space-gnomes.json) |
 | Space Gray X | 304861 | [304861-space-gray-x.json](./304861-space-gray-x.json) |
 | Space Griffon | 20661 | [20661-space-griffon.json](./20661-space-griffon.json) |
@@ -3026,6 +3030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spektakl: Banned Edition | 206954 | [206954-spektakl-banned-edition.json](./206954-spektakl-banned-edition.json) |
 | SpelBrawl | 374630 | [374630-spelbrawl.json](./374630-spelbrawl.json) |
 | Spell Dash | 174320 | [174320-spell-dash.json](./174320-spell-dash.json) |
+| Spell Disk Survivor | 259580 | [259580-spell-disk-survivor.json](./259580-spell-disk-survivor.json) |
 | Spell Slingers: Trick or Treat | 198516 | [198516-spell-slingers-trick-or-treat.json](./198516-spell-slingers-trick-or-treat.json) |
 | Spell Spiral | 321343 | [321343-spell-spiral.json](./321343-spell-spiral.json) |
 | Spellbinder: The Nexus Conflict | 62208 | [62208-spellbinder-the-nexus-conflict.json](./62208-spellbinder-the-nexus-conflict.json) |
@@ -4969,6 +4974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SweeTARTS 3D | 373551 | [373551-sweetarts-3d.json](./373551-sweetarts-3d.json) |
 | Sweetest Monster | 300720 | [300720-sweetest-monster.json](./300720-sweetest-monster.json) |
 | Sweetie Candy Maze: Brown Chocolate | 398322 | [398322-sweetie-candy-maze-brown-chocolate.json](./398322-sweetie-candy-maze-brown-chocolate.json) |
+| Sweets and Swipes | 259555 | [259555-sweets-and-swipes.json](./259555-sweets-and-swipes.json) |
 | Sweets Drop | 283721 | [283721-sweets-drop.json](./283721-sweets-drop.json) |
 | Sweety Kitty 2 | 224774 | [224774-sweety-kitty-2.json](./224774-sweety-kitty-2.json) |
 | Swell | 262974 | [262974-swell.json](./262974-swell.json) |
@@ -5038,6 +5044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Sanctuary | 333394 | [333394-sword-sanctuary.json](./333394-sword-sanctuary.json) |
 | Sword World PC | 240492 | [240492-sword-world-pc.json](./240492-sword-world-pc.json) |
 | Sword World SFC 2: Inishie no Kyojin Densetsu | 37801 | [37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json](./37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json) |
+| Swordash | 259564 | [259564-swordash.json](./259564-swordash.json) |
 | Swordbreaker: Back to the Castle | 113751 | [113751-swordbreaker-back-to-the-castle.json](./113751-swordbreaker-back-to-the-castle.json) |
 | Swordfight | 40794 | [40794-swordfight.json](./40794-swordfight.json) |
 | Swordia | 309882 | [309882-swordia.json](./309882-swordia.json) |
