@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shawl | 56527 | [56527-shawl.json](./56527-shawl.json) |
 | Shazabi and the Cantina Catacombs | 230542 | [230542-shazabi-and-the-cantina-catacombs.json](./230542-shazabi-and-the-cantina-catacombs.json) |
 | She Danced in the Wind Like a Holographic Dream Before the World Died | 390004 | [390004-she-danced-in-the-wind-like-a-holographic-dream-before-the-world-died.json](./390004-she-danced-in-the-wind-like-a-holographic-dream-before-the-world-died.json) |
+| She From The Future | 309364 | [309364-she-from-the-future.json](./309364-she-from-the-future.json) |
 | She Hungers | 397665 | [397665-she-hungers.json](./397665-she-hungers.json) |
 | She is Home Alone | 310373 | [310373-she-is-home-alone.json](./310373-she-is-home-alone.json) |
 | She Save | 50511 | [50511-she-save.json](./50511-she-save.json) |
@@ -1732,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Rancher | 16287 | [16287-slime-rancher.json](./16287-slime-rancher.json) |
 | Slime Road | 108509 | [108509-slime-road.json](./108509-slime-road.json) |
 | Slime Runner | 215886 | [215886-slime-runner.json](./215886-slime-runner.json) |
+| Slime Scramble | 309328 | [309328-slime-scramble.json](./309328-slime-scramble.json) |
 | Slime Shoot | 312329 | [312329-slime-shoot.json](./312329-slime-shoot.json) |
 | Slime Slayer: Endless Loot | 412954 | [412954-slime-slayer-endless-loot.json](./412954-slime-slayer-endless-loot.json) |
 | Slime Smasher EX | 213645 | [213645-slime-smasher-ex.json](./213645-slime-smasher-ex.json) |
@@ -3560,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter 6: Additional Character - Alex & Outfit 2 | 375149 | [375149-street-fighter-6-additional-character-alex-and-outfit-2.json](./375149-street-fighter-6-additional-character-alex-and-outfit-2.json) |
 | Street Fighter 6: Additional Character - Ingrid & Outfit 2 & Outfit 3 (Sagat, C. Viper, Alex, Ingrid) | 375151 | [375151-street-fighter-6-additional-character-ingrid-and-outfit-2-and-outfit-3-sagat-c-viper-alex-ingrid.json](./375151-street-fighter-6-additional-character-ingrid-and-outfit-2-and-outfit-3-sagat-c-viper-alex-ingrid.json) |
 | Street Fighter 6: Deluxe Edition | 228737 | [228737-street-fighter-6-deluxe-edition.json](./228737-street-fighter-6-deluxe-edition.json) |
+| Street Fighter 6: Return of Shadaloo | 309335 | [309335-street-fighter-6-return-of-shadaloo.json](./309335-street-fighter-6-return-of-shadaloo.json) |
 | Street Fighter 6: Year 2 Ultimate Pass | 305529 | [305529-street-fighter-6-year-2-ultimate-pass.json](./305529-street-fighter-6-year-2-ultimate-pass.json) |
 | Street Fighter 6: Year 3 - C. Viper | 347692 | [347692-street-fighter-6-year-3-c-viper.json](./347692-street-fighter-6-year-3-c-viper.json) |
 | Street Fighter 6: Year 3 - Ingrid | 347694 | [347694-street-fighter-6-year-3-ingrid.json](./347694-street-fighter-6-year-3-ingrid.json) |
