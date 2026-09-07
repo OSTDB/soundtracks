@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night | 286505 | [286505-one-night.json](./286505-one-night.json) |
 | One Night 2: The Beyond | 111009 | [111009-one-night-2-the-beyond.json](./111009-one-night-2-the-beyond.json) |
 | One Night as Freddy | 257673 | [257673-one-night-as-freddy.json](./257673-one-night-as-freddy.json) |
+| One Night At Freddy's | 273951 | [273951-one-night-at-freddys.json](./273951-one-night-at-freddys.json) |
 | One Night Heaven: Aka to Kuro no Hitobito ni Sasagu Hommage | 282563 | [282563-one-night-heaven-aka-to-kuro-no-hitobito-ni-sasagu-hommage.json](./282563-one-night-heaven-aka-to-kuro-no-hitobito-ni-sasagu-hommage.json) |
 | One Night In 2D | 370147 | [370147-one-night-in-2d.json](./370147-one-night-in-2d.json) |
 | One Night on Halloween | 153418 | [153418-one-night-on-halloween.json](./153418-one-night-on-halloween.json) |
