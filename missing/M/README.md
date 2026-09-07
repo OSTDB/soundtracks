@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madievals | 120378 | [120378-madievals.json](./120378-madievals.json) |
 | Madness | 309846 | [309846-madness.json](./309846-madness.json) |
 | Madness Below | 326619 | [326619-madness-below.json](./326619-madness-below.json) |
+| Madness Hydraulic | 290417 | [290417-madness-hydraulic.json](./290417-madness-hydraulic.json) |
 | Madness Interactive Reloaded | 331704 | [331704-madness-interactive-reloaded.json](./331704-madness-interactive-reloaded.json) |
 | Madness of the Architect | 83549 | [83549-madness-of-the-architect.json](./83549-madness-of-the-architect.json) |
 | Madness of the Architect | 83550 | [83550-madness-of-the-architect.json](./83550-madness-of-the-architect.json) |
@@ -1611,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner 2049er | 345479 | [345479-miner-2049er.json](./345479-miner-2049er.json) |
 | Miner 2049er | 345480 | [345480-miner-2049er.json](./345480-miner-2049er.json) |
 | Miner Clicker | 291477 | [291477-miner-clicker.json](./291477-miner-clicker.json) |
+| Miner Rogue | 290391 | [290391-miner-rogue.json](./290391-miner-rogue.json) |
 | Mineroids | 413614 | [413614-mineroids.json](./413614-mineroids.json) |
 | Miners' Union | 391065 | [391065-miners-union.json](./391065-miners-union.json) |
 | Minerva | 10129 | [10129-minerva.json](./10129-minerva.json) |
@@ -1806,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixed Unit Tactics | 252983 | [252983-mixed-unit-tactics.json](./252983-mixed-unit-tactics.json) |
 | MixMaster Online | 77363 | [77363-mixmaster-online.json](./77363-mixmaster-online.json) |
 | Mixology | 402922 | [402922-mixology.json](./402922-mixology.json) |
+| Mixx Island: Remix Plus - Amazing Edition | 290431 | [290431-mixx-island-remix-plus-amazing-edition.json](./290431-mixx-island-remix-plus-amazing-edition.json) |
 | Mixx Island: Remix Plus - Superb Edition | 298573 | [298573-mixx-island-remix-plus-superb-edition.json](./298573-mixx-island-remix-plus-superb-edition.json) |
 | Mixx Island: Remix Plus - Ultra Special | 308820 | [308820-mixx-island-remix-plus-ultra-special.json](./308820-mixx-island-remix-plus-ultra-special.json) |
 | Mixx Island: Remix Vol. 2 | 186316 | [186316-mixx-island-remix-vol-2.json](./186316-mixx-island-remix-vol-2.json) |
@@ -2636,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Aquarium | 52598 | [52598-my-aquarium.json](./52598-my-aquarium.json) |
 | My Baby 3 & Friends | 48041 | [48041-my-baby-3-and-friends.json](./48041-my-baby-3-and-friends.json) |
 | My Bakery Empire | 87373 | [87373-my-bakery-empire.json](./87373-my-bakery-empire.json) |
+| My Bakery Empire: Tasty Edition | 290432 | [290432-my-bakery-empire-tasty-edition.json](./290432-my-bakery-empire-tasty-edition.json) |
 | My Bath Tub Companion | 304583 | [304583-my-bath-tub-companion.json](./304583-my-bath-tub-companion.json) |
 | My Billionaire Girlfriend | 220335 | [220335-my-billionaire-girlfriend.json](./220335-my-billionaire-girlfriend.json) |
 | My Boss Is Scaring Me | 341346 | [341346-my-boss-is-scaring-me.json](./341346-my-boss-is-scaring-me.json) |
