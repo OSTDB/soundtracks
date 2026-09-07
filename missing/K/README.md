@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts Dream Drop Distance HD | 117525 | [117525-kingdom-hearts-dream-drop-distance-hd.json](./117525-kingdom-hearts-dream-drop-distance-hd.json) |
 | Kingdom Hearts Rebirth | 349294 | [349294-kingdom-hearts-rebirth.json](./349294-kingdom-hearts-rebirth.json) |
 | Kingdom Hearts Tamagotchi | 229938 | [229938-kingdom-hearts-tamagotchi.json](./229938-kingdom-hearts-tamagotchi.json) |
+| Kingdom Idle Heart | 272872 | [272872-kingdom-idle-heart.json](./272872-kingdom-idle-heart.json) |
 | Kingdom Loop | 335285 | [335285-kingdom-loop.json](./335285-kingdom-loop.json) |
 | Kingdom of Arcana | 292320 | [292320-kingdom-of-arcana.json](./292320-kingdom-of-arcana.json) |
 | Kingdom of Hamil | 13734 | [13734-kingdom-of-hamil.json](./13734-kingdom-of-hamil.json) |
@@ -722,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Jeju Island-1 | 314872 | [314872-korean-drone-flying-tour-jeju-island-1.json](./314872-korean-drone-flying-tour-jeju-island-1.json) |
 | Korean Drone Flying Tour Jeju Island-2 | 317226 | [317226-korean-drone-flying-tour-jeju-island-2.json](./317226-korean-drone-flying-tour-jeju-island-2.json) |
 | Korean Monorail Panorama Line Hwagaesan | 378809 | [378809-korean-monorail-panorama-line-hwagaesan.json](./378809-korean-monorail-panorama-line-hwagaesan.json) |
+| Korekiyo's Epic Quest for Pussy | 272851 | [272851-korekiyos-epic-quest-for-pussy.json](./272851-korekiyos-epic-quest-for-pussy.json) |
 | KORG Gadget | 77537 | [77537-korg-gadget.json](./77537-korg-gadget.json) |
 | Korin's Mines | 323167 | [323167-korins-mines.json](./323167-korins-mines.json) |
 | Koro Koro Quest | 40226 | [40226-koro-koro-quest.json](./40226-koro-koro-quest.json) |
