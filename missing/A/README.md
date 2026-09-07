@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the River | 334487 | [334487-across-the-river.json](./334487-across-the-river.json) |
 | Across the Valley | 230504 | [230504-across-the-valley.json](./230504-across-the-valley.json) |
 | Across the Wilds | 238739 | [238739-across-the-wilds.json](./238739-across-the-wilds.json) |
+| Acrostics on Stream | 261264 | [261264-acrostics-on-stream.json](./261264-acrostics-on-stream.json) |
 | Acrylic Nails! | 305792 | [305792-acrylic-nails.json](./305792-acrylic-nails.json) |
 | Acryptia | 226397 | [226397-acryptia.json](./226397-acryptia.json) |
 | Act Casual | 301595 | [301595-act-casual.json](./301595-act-casual.json) |
@@ -1353,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amphora Hell | 336556 | [336556-amphora-hell.json](./336556-amphora-hell.json) |
 | AMseven | 336390 | [336390-amseven.json](./336390-amseven.json) |
 | Amy Adventure | 331108 | [331108-amy-adventure.json](./331108-amy-adventure.json) |
+| Amy's American Page One | 261277 | [261277-amys-american-page-one.json](./261277-amys-american-page-one.json) |
 | Amygdala: Prelude | 269284 | [269284-amygdala-prelude.json](./269284-amygdala-prelude.json) |
 | An Alien with a Magnet HD | 90682 | [90682-an-alien-with-a-magnet-hd.json](./90682-an-alien-with-a-magnet-hd.json) |
 | An Alt Girl for Skoof | 298835 | [298835-an-alt-girl-for-skoof.json](./298835-an-alt-girl-for-skoof.json) |
