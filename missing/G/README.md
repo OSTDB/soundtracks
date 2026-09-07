@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodbye.Monster | 323716 | [323716-goodbye-monster.json](./323716-goodbye-monster.json) |
 | Goodfolks | 61704 | [61704-goodfolks.json](./61704-goodfolks.json) |
 | Goodness Rakes | 231607 | [231607-goodness-rakes.json](./231607-goodness-rakes.json) |
+| Goodnight | 299122 | [299122-goodnight.json](./299122-goodnight.json) |
 | Goodwill Scrolls | 338012 | [338012-goodwill-scrolls.json](./338012-goodwill-scrolls.json) |
 | Goof Ball | 78033 | [78033-goof-ball.json](./78033-goof-ball.json) |
 | Goof Troop ST: Space Treasure | 215378 | [215378-goof-troop-st-space-treasure.json](./215378-goof-troop-st-space-treasure.json) |
@@ -1327,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun to Colonists | 189173 | [189173-gun-to-colonists.json](./189173-gun-to-colonists.json) |
 | Gun Trails | 259277 | [259277-gun-trails.json](./259277-gun-trails.json) |
 | Gunball: Emperor's Revenge | 353314 | [353314-gunball-emperors-revenge.json](./353314-gunball-emperors-revenge.json) |
+| Gunbird | 299163 | [299163-gunbird.json](./299163-gunbird.json) |
 | Gunbird: Special Edition | 44643 | [44643-gunbird-special-edition.json](./44643-gunbird-special-edition.json) |
 | Gunblade Ranger | 374589 | [374589-gunblade-ranger.json](./374589-gunblade-ranger.json) |
 | Gunboat God | 305189 | [305189-gunboat-god.json](./305189-gunboat-god.json) |
