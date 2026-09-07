@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Llorona Wants Your Soul | 291737 | [291737-la-llorona-wants-your-soul.json](./291737-la-llorona-wants-your-soul.json) |
 | La Maledizione dell'Uccello Serpente | 191225 | [191225-la-maledizione-delluccello-serpente.json](./191225-la-maledizione-delluccello-serpente.json) |
 | La Mina | 252994 | [252994-la-mina.json](./252994-la-mina.json) |
+| La Nuit | 261807 | [261807-la-nuit.json](./261807-la-nuit.json) |
 | La Odisea del Fracaso III | 323540 | [323540-la-odisea-del-fracaso-iii.json](./323540-la-odisea-del-fracaso-iii.json) |
 | La pesadilla de Illojuan | 302719 | [302719-la-pesadilla-de-illojuan.json](./302719-la-pesadilla-de-illojuan.json) |
 | La Ultima Comida | 153427 | [153427-la-ultima-comida.json](./153427-la-ultima-comida.json) |
@@ -398,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Mahjong | 53269 | [53269-legendary-mahjong.json](./53269-legendary-mahjong.json) |
 | Legendary Master Idle | 251233 | [251233-legendary-master-idle.json](./251233-legendary-master-idle.json) |
 | Legendary Racing | 232163 | [232163-legendary-racing.json](./232163-legendary-racing.json) |
+| Legendary Slide | 261781 | [261781-legendary-slide.json](./261781-legendary-slide.json) |
 | Legendary Slide 2: Platinum Edition | 266814 | [266814-legendary-slide-2-platinum-edition.json](./266814-legendary-slide-2-platinum-edition.json) |
 | Legendary Tales | 157175 | [157175-legendary-tales.json](./157175-legendary-tales.json) |
 | Legendary Tales: Cataclysm | 186322 | [186322-legendary-tales-cataclysm.json](./186322-legendary-tales-cataclysm.json) |
@@ -669,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light of Motiram | 323536 | [323536-light-of-motiram.json](./323536-light-of-motiram.json) |
 | Light of Reversing Destiny | 344362 | [344362-light-of-reversing-destiny.json](./344362-light-of-reversing-destiny.json) |
 | Light of the Locked World | 119762 | [119762-light-of-the-locked-world.json](./119762-light-of-the-locked-world.json) |
+| Light of Veilendor | 261779 | [261779-light-of-veilendor.json](./261779-light-of-veilendor.json) |
 | Light on Earth | 383971 | [383971-light-on-earth.json](./383971-light-on-earth.json) |
 | Light Speed Adventures | 330518 | [330518-light-speed-adventures.json](./330518-light-speed-adventures.json) |
 | Light Switch Simulator | 317591 | [317591-light-switch-simulator.json](./317591-light-switch-simulator.json) |
@@ -973,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lockdown Lewd Up! | 159315 | [159315-lockdown-lewd-up.json](./159315-lockdown-lewd-up.json) |
 | Lockdown Protocol | 176469 | [176469-lockdown-protocol.json](./176469-lockdown-protocol.json) |
 | Lockdown VR: Circus of the Dead | 195261 | [195261-lockdown-vr-circus-of-the-dead.json](./195261-lockdown-vr-circus-of-the-dead.json) |
+| Locked Arcadia | 261824 | [261824-locked-arcadia.json](./261824-locked-arcadia.json) |
 | Loco-Sort | 272265 | [272265-loco-sort.json](./272265-loco-sort.json) |
 | Loco: Rails & Tails | 381632 | [381632-loco-rails-and-tails.json](./381632-loco-rails-and-tails.json) |
 | Locomotion | 117048 | [117048-locomotion.json](./117048-locomotion.json) |
