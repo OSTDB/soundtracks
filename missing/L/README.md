@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lake Masters Pro | 67300 | [67300-lake-masters-pro.json](./67300-lake-masters-pro.json) |
 | Lakefront Restaurant | 272303 | [272303-lakefront-restaurant.json](./272303-lakefront-restaurant.json) |
 | LakeQueen | 394130 | [394130-lakequeen.json](./394130-lakequeen.json) |
+| Lakeside | 269563 | [269563-lakeside.json](./269563-lakeside.json) |
 | Lakesider: Above and Below | 285477 | [285477-lakesider-above-and-below.json](./285477-lakesider-above-and-below.json) |
 | Lamb to the Slaughter | 323553 | [323553-lamb-to-the-slaughter.json](./323553-lamb-to-the-slaughter.json) |
 | Lambs on the Road: The Beginning | 152352 | [152352-lambs-on-the-road-the-beginning.json](./152352-lambs-on-the-road-the-beginning.json) |
