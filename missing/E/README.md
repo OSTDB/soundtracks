@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edenbound | 295813 | [295813-edenbound.json](./295813-edenbound.json) |
 | Edens Zero Deluxe Edition | 336887 | [336887-edens-zero-deluxe-edition.json](./336887-edens-zero-deluxe-edition.json) |
 | Edens Zero: Pocket Galaxy | 174888 | [174888-edens-zero-pocket-galaxy.json](./174888-edens-zero-pocket-galaxy.json) |
+| EDF Secret Base | 270698 | [270698-edf-secret-base.json](./270698-edf-secret-base.json) |
 | Edge of Atlantis | 28946 | [28946-edge-of-atlantis.json](./28946-edge-of-atlantis.json) |
 | Edge Of Dread | 388723 | [388723-edge-of-dread.json](./388723-edge-of-dread.json) |
 | Edge of Extinction | 349323 | [349323-edge-of-extinction.json](./349323-edge-of-extinction.json) |
