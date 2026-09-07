@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland Chronicles | 316648 | [316648-wasteland-chronicles.json](./316648-wasteland-chronicles.json) |
 | Wastelander | 178100 | [178100-wastelander.json](./178100-wastelander.json) |
 | Wastelanders | 362823 | [362823-wastelanders.json](./362823-wastelanders.json) |
+| Watashi no Happy Manner Book | 287631 | [287631-watashi-no-happy-manner-book.json](./287631-watashi-no-happy-manner-book.json) |
 | Watashi no Kokoro! Kimi no Koto ga Suki desu. | 161902 | [161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json](./161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json) |
 | Watch | 310212 | [310212-watch.json](./310212-watch.json) |
 | Watch Dogs: Bad Blood | 17473 | [17473-watch-dogs-bad-blood.json](./17473-watch-dogs-bad-blood.json) |
@@ -973,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodle Tree Bundle | 173795 | [173795-woodle-tree-bundle.json](./173795-woodle-tree-bundle.json) |
 | Woodroid HD+ | 233742 | [233742-woodroid-hd.json](./233742-woodroid-hd.json) |
 | Woodsy | 101602 | [101602-woodsy.json](./101602-woodsy.json) |
+| Woodturning 3D | 287664 | [287664-woodturning-3d.json](./287664-woodturning-3d.json) |
 | Woodville Chronicles | 415962 | [415962-woodville-chronicles.json](./415962-woodville-chronicles.json) |
 | Woody Woodpecker in Waterfools | 135894 | [135894-woody-woodpecker-in-waterfools.json](./135894-woody-woodpecker-in-waterfools.json) |
 | Woofy Run | 373017 | [373017-woofy-run.json](./373017-woofy-run.json) |
