@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Mage Quest RPG | 145050 | [145050-pixel-mage-quest-rpg.json](./145050-pixel-mage-quest-rpg.json) |
 | Pixel of War | 294424 | [294424-pixel-of-war.json](./294424-pixel-of-war.json) |
 | Pixel Origin | 104654 | [104654-pixel-origin.json](./104654-pixel-origin.json) |
+| Pixel Paint 2: Definitive Edition | 275031 | [275031-pixel-paint-2-definitive-edition.json](./275031-pixel-paint-2-definitive-edition.json) |
 | Pixel Paint 2: Platinum Edition | 283166 | [283166-pixel-paint-2-platinum-edition.json](./283166-pixel-paint-2-platinum-edition.json) |
 | Pixel Paint Together | 300981 | [300981-pixel-paint-together.json](./300981-pixel-paint-together.json) |
 | Pixel Paint: Definitive Edition | 243367 | [243367-pixel-paint-definitive-edition.json](./243367-pixel-paint-definitive-edition.json) |
@@ -1804,6 +1805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Priest's Artifice: Raguna Series 2 | 98437 | [98437-priests-artifice-raguna-series-2.json](./98437-priests-artifice-raguna-series-2.json) |
 | Prima: First Rogues | 291233 | [291233-prima-first-rogues.json](./291233-prima-first-rogues.json) |
 | Primal Carnage: Evolution | 259812 | [259812-primal-carnage-evolution.json](./259812-primal-carnage-evolution.json) |
+| Primal Carnage: Extinction - Ultimate Spitter Pack | 274974 | [274974-primal-carnage-extinction-ultimate-spitter-pack.json](./274974-primal-carnage-extinction-ultimate-spitter-pack.json) |
 | Primal Carnage: Genesis | 80564 | [80564-primal-carnage-genesis.json](./80564-primal-carnage-genesis.json) |
 | Primal Force Arena | 317842 | [317842-primal-force-arena.json](./317842-primal-force-arena.json) |
 | Primal Fray | 244469 | [244469-primal-fray.json](./244469-primal-fray.json) |
