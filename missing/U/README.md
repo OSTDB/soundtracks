@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undawn: Desert Fury | 262700 | [262700-undawn-desert-fury.json](./262700-undawn-desert-fury.json) |
 | Undead Blackout | 34425 | [34425-undead-blackout.json](./34425-undead-blackout.json) |
 | Undead Carnival Carnage | 180314 | [180314-undead-carnival-carnage.json](./180314-undead-carnival-carnage.json) |
+| Undead City | 294168 | [294168-undead-city.json](./294168-undead-city.json) |
 | Undead Mayhem | 277614 | [277614-undead-mayhem.json](./277614-undead-mayhem.json) |
 | Undead Realm: Ego | 327836 | [327836-undead-realm-ego.json](./327836-undead-realm-ego.json) |
 | Undeadworld | 223663 | [223663-undeadworld.json](./223663-undeadworld.json) |
