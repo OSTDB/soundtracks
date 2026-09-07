@@ -2406,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mummy Madness | 185702 | [185702-mummy-madness.json](./185702-mummy-madness.json) |
 | Mummy, mummy, mummy! | 165692 | [165692-mummy-mummy-mummy.json](./165692-mummy-mummy-mummy.json) |
 | Mumu Boukenki Amusing Dream | 264311 | [264311-mumu-boukenki-amusing-dream.json](./264311-mumu-boukenki-amusing-dream.json) |
+| MuMuMu: Mist of Six Dreams | 312590 | [312590-mumumu-mist-of-six-dreams.json](./312590-mumumu-mist-of-six-dreams.json) |
 | Munasawagi no Season | 246104 | [246104-munasawagi-no-season.json](./246104-munasawagi-no-season.json) |
 | Munchees | 319588 | [319588-munchees.json](./319588-munchees.json) |
 | Mundo SBT | 249459 | [249459-mundo-sbt.json](./249459-mundo-sbt.json) |
