@@ -1621,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog on Ice | 100884 | [100884-frog-on-ice.json](./100884-frog-on-ice.json) |
 | Frog Space | 133468 | [133468-frog-space.json](./133468-frog-space.json) |
 | Frog Street A-Z | 100818 | [100818-frog-street-a-z.json](./100818-frog-street-a-z.json) |
+| Frogenlav: Skyward Bound | 278418 | [278418-frogenlav-skyward-bound.json](./278418-frogenlav-skyward-bound.json) |
 | Frogger | 240485 | [240485-frogger.json](./240485-frogger.json) |
 | Frogger | 341890 | [341890-frogger.json](./341890-frogger.json) |
 | Frogger Returns | 11484 | [11484-frogger-returns.json](./11484-frogger-returns.json) |
