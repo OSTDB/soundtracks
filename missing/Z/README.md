@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Race: Undead Smasher | 247179 | [247179-zombie-race-undead-smasher.json](./247179-zombie-race-undead-smasher.json) |
 | Zombie Raid: No One Survives | 195274 | [195274-zombie-raid-no-one-survives.json](./195274-zombie-raid-no-one-survives.json) |
 | Zombie Roguelite | 291209 | [291209-zombie-roguelite.json](./291209-zombie-roguelite.json) |
+| Zombie Rollerz: The Last Ship | 264066 | [264066-zombie-rollerz-the-last-ship.json](./264066-zombie-rollerz-the-last-ship.json) |
 | Zombie Rooms | 273384 | [273384-zombie-rooms.json](./273384-zombie-rooms.json) |
 | Zombie School | 110348 | [110348-zombie-school.json](./110348-zombie-school.json) |
 | Zombie Serial Killer Incident | 99594 | [99594-zombie-serial-killer-incident.json](./99594-zombie-serial-killer-incident.json) |
@@ -264,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone B Korosu | 161391 | [161391-zone-b-korosu.json](./161391-zone-b-korosu.json) |
 | Zone of the Enders HD Collection: Limited Collector's Edition | 44659 | [44659-zone-of-the-enders-hd-collection-limited-collectors-edition.json](./44659-zone-of-the-enders-hd-collection-limited-collectors-edition.json) |
 | Zone Ranger | 12974 | [12974-zone-ranger.json](./12974-zone-ranger.json) |
+| Zone Trip | 264036 | [264036-zone-trip.json](./264036-zone-trip.json) |
 | ZoneDriver | 76558 | [76558-zonedriver.json](./76558-zonedriver.json) |
 | Zonic 4 My New Life Turbo HD Remastered Edition | 322594 | [322594-zonic-4-my-new-life-turbo-hd-remastered-edition.json](./322594-zonic-4-my-new-life-turbo-hd-remastered-edition.json) |
 | Zoo Explorers | 170026 | [170026-zoo-explorers.json](./170026-zoo-explorers.json) |
@@ -302,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZRoll | 33118 | [33118-zroll.json](./33118-zroll.json) |
 | Zueirama | 110641 | [110641-zueirama.json](./110641-zueirama.json) |
 | Zug in Sicht | 383972 | [383972-zug-in-sicht.json](./383972-zug-in-sicht.json) |
+| Zugya | 264070 | [264070-zugya.json](./264070-zugya.json) |
 | Zuma Girls | 369564 | [369564-zuma-girls.json](./369564-zuma-girls.json) |
 | Zumba Fitness 2 | 5306 | [5306-zumba-fitness-2.json](./5306-zumba-fitness-2.json) |
 | Zumba Kids | 5309 | [5309-zumba-kids.json](./5309-zumba-kids.json) |
