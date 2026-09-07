@@ -982,6 +982,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice! | 186324 | [186324-alice.json](./186324-alice.json) |
 | Alice's Adventures in Wonderland | 95466 | [95466-alices-adventures-in-wonderland.json](./95466-alices-adventures-in-wonderland.json) |
 | Alice's Jigsaw: Wonderland 2 | 102816 | [102816-alices-jigsaw-wonderland-2.json](./102816-alices-jigsaw-wonderland-2.json) |
+| Alice's Jigsaw: Wonderland Chronicles | 286516 | [286516-alices-jigsaw-wonderland-chronicles.json](./286516-alices-jigsaw-wonderland-chronicles.json) |
+| Alice's Jigsaw: Wonderland Chronicles 2 | 286517 | [286517-alices-jigsaw-wonderland-chronicles-2.json](./286517-alices-jigsaw-wonderland-chronicles-2.json) |
 | Alice's Warped Wonderland | 145633 | [145633-alices-warped-wonderland.json](./145633-alices-warped-wonderland.json) |
 | Alice's Wonderland: Cast in Shadow | 296067 | [296067-alices-wonderland-cast-in-shadow.json](./296067-alices-wonderland-cast-in-shadow.json) |
 | Alien 3 | 8908 | [8908-alien-3.json](./8908-alien-3.json) |
@@ -1471,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Hero Zero | 292011 | [292011-anime-hero-zero.json](./292011-anime-hero-zero.json) |
 | Anime Hero Zero 2 | 292013 | [292013-anime-hero-zero-2.json](./292013-anime-hero-zero-2.json) |
 | Anime Hero Zero 3 | 292014 | [292014-anime-hero-zero-3.json](./292014-anime-hero-zero-3.json) |
+| Anime Jigsaw Girls: Christmas | 286515 | [286515-anime-jigsaw-girls-christmas.json](./286515-anime-jigsaw-girls-christmas.json) |
 | Anime Love Chat Girls | 380394 | [380394-anime-love-chat-girls.json](./380394-anime-love-chat-girls.json) |
 | Anime Parody: Tentacle Slayer | 319978 | [319978-anime-parody-tentacle-slayer.json](./319978-anime-parody-tentacle-slayer.json) |
 | Anime School Love: His Teacher Secret Lesson | 378780 | [378780-anime-school-love-his-teacher-secret-lesson.json](./378780-anime-school-love-his-teacher-secret-lesson.json) |
