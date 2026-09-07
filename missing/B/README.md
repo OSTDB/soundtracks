@@ -2270,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulby: Diamond Course | 33042 | [33042-bulby-diamond-course.json](./33042-bulby-diamond-course.json) |
 | Bule Form | 158224 | [158224-bule-form.json](./158224-bule-form.json) |
 | Bull Fighter | 40273 | [40273-bull-fighter.json](./40273-bull-fighter.json) |
+| Bull-Bia Ricky | 291456 | [291456-bull-bia-ricky.json](./291456-bull-bia-ricky.json) |
 | Bulldozer Bob | 146921 | [146921-bulldozer-bob.json](./146921-bulldozer-bob.json) |
 | Bulldozer Crash | 227466 | [227466-bulldozer-crash.json](./227466-bulldozer-crash.json) |
 | Bullet Angel | 143101 | [143101-bullet-angel.json](./143101-bullet-angel.json) |
