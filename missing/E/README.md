@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eevoo II | 233769 | [233769-eevoo-ii.json](./233769-eevoo-ii.json) |
 | Effective Immediately | 310180 | [310180-effective-immediately.json](./310180-effective-immediately.json) |
 | Effigy | 218715 | [218715-effigy.json](./218715-effigy.json) |
+| Effortworld | 265655 | [265655-effortworld.json](./265655-effortworld.json) |
 | Effugium | 255954 | [255954-effugium.json](./255954-effugium.json) |
 | Efi | 176508 | [176508-efi.json](./176508-efi.json) |
 | EFO: Escape From Outerworld | 165674 | [165674-efo-escape-from-outerworld.json](./165674-efo-escape-from-outerworld.json) |
