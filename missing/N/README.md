@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Outlast | 195787 | [195787-neon-outlast.json](./195787-neon-outlast.json) |
 | Neon Parkour 2 | 253614 | [253614-neon-parkour-2.json](./253614-neon-parkour-2.json) |
 | Neon Racer | 192464 | [192464-neon-racer.json](./192464-neon-racer.json) |
+| Neon River | 277814 | [277814-neon-river.json](./277814-neon-river.json) |
 | Neon Rumble | 292829 | [292829-neon-rumble.json](./292829-neon-rumble.json) |
 | Neon Runner - Gravity Dash | 55166 | [55166-neon-runner-gravity-dash.json](./55166-neon-runner-gravity-dash.json) |
 | Neon Ships: The Type'em Up Shooter | 143707 | [143707-neon-ships-the-typeem-up-shooter.json](./143707-neon-ships-the-typeem-up-shooter.json) |
