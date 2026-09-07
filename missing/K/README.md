@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kami: The Great Guardian | 408034 | [408034-kami-the-great-guardian.json](./408034-kami-the-great-guardian.json) |
 | Kamigami no Asobi InFinite | 136474 | [136474-kamigami-no-asobi-infinite.json](./136474-kamigami-no-asobi-infinite.json) |
 | Kamigami no Asobi: Ludere Deorum | 125461 | [125461-kamigami-no-asobi-ludere-deorum.json](./125461-kamigami-no-asobi-ludere-deorum.json) |
+| Kamiji | 264056 | [264056-kamiji.json](./264056-kamiji.json) |
 | Kamikaze Bros. 3 | 214771 | [214771-kamikaze-bros-3.json](./214771-kamikaze-bros-3.json) |
 | Kamikaze Lassplanes | 250011 | [250011-kamikaze-lassplanes.json](./250011-kamikaze-lassplanes.json) |
 | Kamikazo VR | 82142 | [82142-kamikazo-vr.json](./82142-kamikazo-vr.json) |
@@ -476,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Warriors | 58240 | [58240-kingdom-warriors.json](./58240-kingdom-warriors.json) |
 | Kingdom: Classic | 13686 | [13686-kingdom-classic.json](./13686-kingdom-classic.json) |
 | Kingdom: New Lands | 24881 | [24881-kingdom-new-lands.json](./24881-kingdom-new-lands.json) |
+| Kingdom's Gambit | 264038 | [264038-kingdoms-gambit.json](./264038-kingdoms-gambit.json) |
 | Kingdom's Life | 189177 | [189177-kingdoms-life.json](./189177-kingdoms-life.json) |
 | Kingdomino | 338728 | [338728-kingdomino.json](./338728-kingdomino.json) |
 | Kingdoms of Marazia: Classic | 107199 | [107199-kingdoms-of-marazia-classic.json](./107199-kingdoms-of-marazia-classic.json) |
