@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Boxing League | 89667 | [89667-virtual-boxing-league.json](./89667-virtual-boxing-league.json) |
 | Virtual Boy Wario Land | 1696 | [1696-virtual-boy-wario-land.json](./1696-virtual-boy-wario-land.json) |
 | Virtual Chess | 351645 | [351645-virtual-chess.json](./351645-virtual-chess.json) |
+| Virtual Dream | 312578 | [312578-virtual-dream.json](./312578-virtual-dream.json) |
 | Virtual Driving School | 404840 | [404840-virtual-driving-school.json](./404840-virtual-driving-school.json) |
 | Virtual Escape: Digital World | 167838 | [167838-virtual-escape-digital-world.json](./167838-virtual-escape-digital-world.json) |
 | Virtual Families: Cook Off | 219278 | [219278-virtual-families-cook-off.json](./219278-virtual-families-cook-off.json) |
@@ -455,6 +456,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volos | 93070 | [93070-volos.json](./93070-volos.json) |
 | Volt | 36350 | [36350-volt.json](./36350-volt.json) |
 | Voodoo Vince | 5466 | [5466-voodoo-vince.json](./5466-voodoo-vince.json) |
+| Voodoom | 312561 | [312561-voodoom.json](./312561-voodoom.json) |
+| Vorago | 312560 | [312560-vorago.json](./312560-vorago.json) |
 | Voraxis | 387350 | [387350-voraxis.json](./387350-voraxis.json) |
 | Voron: Raven's Story | 235968 | [235968-voron-ravens-story.json](./235968-voron-ravens-story.json) |
 | Vortex | 81436 | [81436-vortex.json](./81436-vortex.json) |
@@ -471,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Pirates | 147474 | [147474-voxel-pirates.json](./147474-voxel-pirates.json) |
 | Voxel Scavenger | 124240 | [124240-voxel-scavenger.json](./124240-voxel-scavenger.json) |
 | Voxel Shooter | 406110 | [406110-voxel-shooter.json](./406110-voxel-shooter.json) |
+| Voxel World | 312559 | [312559-voxel-world.json](./312559-voxel-world.json) |
 | Voxelaxy | 51967 | [51967-voxelaxy.json](./51967-voxelaxy.json) |
 | Voxeldom | 62180 | [62180-voxeldom.json](./62180-voxeldom.json) |
 | Voxelgram 2 | 335067 | [335067-voxelgram-2.json](./335067-voxelgram-2.json) |
