@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adversator | 180289 | [180289-adversator.json](./180289-adversator.json) |
 | Adverse | 132254 | [132254-adverse.json](./132254-adverse.json) |
 | Advise the King | 229941 | [229941-advise-the-king.json](./229941-advise-the-king.json) |
+| AE Mini Game Collection | 279599 | [279599-ae-mini-game-collection.json](./279599-ae-mini-game-collection.json) |
 | Aefen Fall | 141252 | [141252-aefen-fall.json](./141252-aefen-fall.json) |
 | Aegis Force: The Scorian War | 328227 | [328227-aegis-force-the-scorian-war.json](./328227-aegis-force-the-scorian-war.json) |
 | Aegis Kingdoms | 216463 | [216463-aegis-kingdoms.json](./216463-aegis-kingdoms.json) |
@@ -964,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex Hill: Whispers at White Oak Inn | 288752 | [288752-alex-hill-whispers-at-white-oak-inn.json](./288752-alex-hill-whispers-at-white-oak-inn.json) |
 | Alex Hunter: Lord of the Mind HD | 105936 | [105936-alex-hunter-lord-of-the-mind-hd.json](./105936-alex-hunter-lord-of-the-mind-hd.json) |
 | Alex Kidd and the Miracle Gems | 376442 | [376442-alex-kidd-and-the-miracle-gems.json](./376442-alex-kidd-and-the-miracle-gems.json) |
+| Alex Kidd in Pico World | 279605 | [279605-alex-kidd-in-pico-world.json](./279605-alex-kidd-in-pico-world.json) |
 | Alex Kidd: High-Tech World | 46112 | [46112-alex-kidd-high-tech-world.json](./46112-alex-kidd-high-tech-world.json) |
 | Alex Kidd: Radaxian In Turmoil | 326963 | [326963-alex-kidd-radaxian-in-turmoil.json](./326963-alex-kidd-radaxian-in-turmoil.json) |
 | Alex the Allegator 2 | 306995 | [306995-alex-the-allegator-2.json](./306995-alex-the-allegator-2.json) |
@@ -1219,12 +1221,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Frog: In the City | 96058 | [96058-amazing-frog-in-the-city.json](./96058-amazing-frog-in-the-city.json) |
 | Amazing Gardens | 344366 | [344366-amazing-gardens.json](./344366-amazing-gardens.json) |
 | Amazing Lab! Science Experiments Quiz | 399607 | [399607-amazing-lab-science-experiments-quiz.json](./399607-amazing-lab-science-experiments-quiz.json) |
+| Amazing Penguin DX | 279579 | [279579-amazing-penguin-dx.json](./279579-amazing-penguin-dx.json) |
 | Amazing Space | 258210 | [258210-amazing-space.json](./258210-amazing-space.json) |
 | Amazing Superhero Squad | 159862 | [159862-amazing-superhero-squad.json](./159862-amazing-superhero-squad.json) |
 | Amazing World | 17235 | [17235-amazing-world.json](./17235-amazing-world.json) |
 | Amazing: A House In Kansas VR | 119767 | [119767-amazing-a-house-in-kansas-vr.json](./119767-amazing-a-house-in-kansas-vr.json) |
 | Amazon Rush | 89271 | [89271-amazon-rush.json](./89271-amazon-rush.json) |
 | Amazon Warrior | 342053 | [342053-amazon-warrior.json](./342053-amazon-warrior.json) |
+| Amazona Adventure | 279593 | [279593-amazona-adventure.json](./279593-amazona-adventure.json) |
 | Ambar's Fate | 173807 | [173807-ambars-fate.json](./173807-ambars-fate.json) |
 | Amber Quartz | 69291 | [69291-amber-quartz.json](./69291-amber-quartz.json) |
 | Amber's Airline: 7 Wonders | 116726 | [116726-ambers-airline-7-wonders.json](./116726-ambers-airline-7-wonders.json) |
