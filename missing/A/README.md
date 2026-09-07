@@ -1113,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Elite Wrestling: Fight Forever - Elite Beats and Stampede Expansion | 301012 | [301012-all-elite-wrestling-fight-forever-elite-beats-and-stampede-expansion.json](./301012-all-elite-wrestling-fight-forever-elite-beats-and-stampede-expansion.json) |
 | All Elite Wrestling: Fight Forever - Freebie 4 da Fans | 287120 | [287120-all-elite-wrestling-fight-forever-freebie-4-da-fans.json](./287120-all-elite-wrestling-fight-forever-freebie-4-da-fans.json) |
 | All Elite Wrestling: Fight Forever - Hayter's Gunna Game | 287118 | [287118-all-elite-wrestling-fight-forever-hayters-gunna-game.json](./287118-all-elite-wrestling-fight-forever-hayters-gunna-game.json) |
+| All Elite Wrestling: Fight Forever - Limitless Bunny Pack | 263527 | [263527-all-elite-wrestling-fight-forever-limitless-bunny-pack.json](./263527-all-elite-wrestling-fight-forever-limitless-bunny-pack.json) |
 | All Elite Wrestling: Fight Forever - Rated Gold Superstar Pack | 301008 | [301008-all-elite-wrestling-fight-forever-rated-gold-superstar-pack.json](./301008-all-elite-wrestling-fight-forever-rated-gold-superstar-pack.json) |
 | All Elite Wrestling: Fight Forever - Season Pass 2 | 283188 | [283188-all-elite-wrestling-fight-forever-season-pass-2.json](./283188-all-elite-wrestling-fight-forever-season-pass-2.json) |
 | All Elite Wrestling: Fight Forever - Season Pass 3 | 287121 | [287121-all-elite-wrestling-fight-forever-season-pass-3.json](./287121-all-elite-wrestling-fight-forever-season-pass-3.json) |
@@ -1788,6 +1789,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquanaut's Holiday | 20589 | [20589-aquanauts-holiday.json](./20589-aquanauts-holiday.json) |
 | Aquanoid | 46629 | [46629-aquanoid.json](./46629-aquanoid.json) |
 | Aquanore | 376451 | [376451-aquanore.json](./376451-aquanore.json) |
+| Aquapark io: Animals DLC | 263524 | [263524-aquapark-io-animals-dlc.json](./263524-aquapark-io-animals-dlc.json) |
+| Aquapark io: Movie Stars DLC | 263526 | [263526-aquapark-io-movie-stars-dlc.json](./263526-aquapark-io-movie-stars-dlc.json) |
+| Aquapark io: Sweet and Spooky DLC | 263525 | [263525-aquapark-io-sweet-and-spooky-dlc.json](./263525-aquapark-io-sweet-and-spooky-dlc.json) |
 | Aquapark Tycoon | 296651 | [296651-aquapark-tycoon.json](./296651-aquapark-tycoon.json) |
 | Aquaphobia | 46655 | [46655-aquaphobia.json](./46655-aquaphobia.json) |
 | Aquapolis SOS | 267398 | [267398-aquapolis-sos.json](./267398-aquapolis-sos.json) |
@@ -2064,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Core 2 | 31719 | [31719-armored-core-2.json](./31719-armored-core-2.json) |
 | Armored Core 2: Another Age | 46029 | [46029-armored-core-2-another-age.json](./46029-armored-core-2-another-age.json) |
 | Armored Core 4 | 5491 | [5491-armored-core-4.json](./5491-armored-core-4.json) |
+| Armored Core VI Fires of Rubicon: Deluxe Edition | 263511 | [263511-armored-core-vi-fires-of-rubicon-deluxe-edition.json](./263511-armored-core-vi-fires-of-rubicon-deluxe-edition.json) |
 | Armored Core VI: Fires of Rubicon - Launch Edition | 248296 | [248296-armored-core-vi-fires-of-rubicon-launch-edition.json](./248296-armored-core-vi-fires-of-rubicon-launch-edition.json) |
 | Armored Core: For Answer | 5493 | [5493-armored-core-for-answer.json](./5493-armored-core-for-answer.json) |
 | Armored Core: Formula Front - Extreme Battle | 46022 | [46022-armored-core-formula-front-extreme-battle.json](./46022-armored-core-formula-front-extreme-battle.json) |
@@ -2594,6 +2599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: The Last Airbender - Into the Inferno | 210251 | [210251-avatar-the-last-airbender-into-the-inferno.json](./210251-avatar-the-last-airbender-into-the-inferno.json) |
 | Avatar: The Last Airbender - The Burning Earth | 210252 | [210252-avatar-the-last-airbender-the-burning-earth.json](./210252-avatar-the-last-airbender-the-burning-earth.json) |
 | Avatar: The Last Airbender - The Burning Earth | 210253 | [210253-avatar-the-last-airbender-the-burning-earth.json](./210253-avatar-the-last-airbender-the-burning-earth.json) |
+| Avatar's Demise | 263488 | [263488-avatars-demise.json](./263488-avatars-demise.json) |
 | Avelia | 292318 | [292318-avelia.json](./292318-avelia.json) |
 | Aveliana | 156152 | [156152-aveliana.json](./156152-aveliana.json) |
 | Avenir Tower | 332414 | [332414-avenir-tower.json](./332414-avenir-tower.json) |
