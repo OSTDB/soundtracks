@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Bees 2 | 205245 | [205245-i-commissioned-some-bees-2.json](./205245-i-commissioned-some-bees-2.json) |
 | I Commissioned Some Bees Advent | 228084 | [228084-i-commissioned-some-bees-advent.json](./228084-i-commissioned-some-bees-advent.json) |
 | I Commissioned Some Bunnies 10 | 306993 | [306993-i-commissioned-some-bunnies-10.json](./306993-i-commissioned-some-bunnies-10.json) |
+| I Commissioned Some Invisible People 0 | 292546 | [292546-i-commissioned-some-invisible-people-0.json](./292546-i-commissioned-some-invisible-people-0.json) |
 | I Commissioned Some Snails 2 | 337083 | [337083-i-commissioned-some-snails-2.json](./337083-i-commissioned-some-snails-2.json) |
 | I Commissioned Some Unicorns | 257692 | [257692-i-commissioned-some-unicorns.json](./257692-i-commissioned-some-unicorns.json) |
 | I Did a Bad Thing | 229370 | [229370-i-did-a-bad-thing.json](./229370-i-did-a-bad-thing.json) |
@@ -980,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IWL: Interstellar Wrestling League - 034: Mod - Roid Rager | 363408 | [363408-iwl-interstellar-wrestling-league-034-mod-roid-rager.json](./363408-iwl-interstellar-wrestling-league-034-mod-roid-rager.json) |
 | IWL: Interstellar Wrestling League - 035: Mod - Rain of Pain | 363410 | [363410-iwl-interstellar-wrestling-league-035-mod-rain-of-pain.json](./363410-iwl-interstellar-wrestling-league-035-mod-rain-of-pain.json) |
 | IWL: Interstellar Wrestling League - 036: Mod - Jacob's Ladder | 363412 | [363412-iwl-interstellar-wrestling-league-036-mod-jacobs-ladder.json](./363412-iwl-interstellar-wrestling-league-036-mod-jacobs-ladder.json) |
+| Iz | 292515 | [292515-iz.json](./292515-iz.json) |
 | Izmir: An Independence Simulator | 196294 | [196294-izmir-an-independence-simulator.json](./196294-izmir-an-independence-simulator.json) |
 | Izolated | 295532 | [295532-izolated.json](./295532-izolated.json) |
 | Izurana's Walk | 357248 | [357248-izuranas-walk.json](./357248-izuranas-walk.json) |
