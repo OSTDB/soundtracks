@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnNecessary | 316983 | [316983-unnecessary.json](./316983-unnecessary.json) |
 | Uno DX | 91956 | [91956-uno-dx.json](./91956-uno-dx.json) |
 | UNO: Legacy Edition | 315848 | [315848-uno-legacy-edition.json](./315848-uno-legacy-edition.json) |
+| Unolingo | 288195 | [288195-unolingo.json](./288195-unolingo.json) |
 | Unou Kaihatsu Series 10 Nontan to Issho Wai-wai Nippon | 303759 | [303759-unou-kaihatsu-series-10-nontan-to-issho-wai-wai-nippon.json](./303759-unou-kaihatsu-series-10-nontan-to-issho-wai-wai-nippon.json) |
 | Unpacking | 115843 | [115843-unpacking.json](./115843-unpacking.json) |
 | Unparallel | 127987 | [127987-unparallel.json](./127987-unparallel.json) |
