@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Universe Creator | 351606 | [351606-idle-universe-creator.json](./351606-idle-universe-creator.json) |
 | Idle Waters | 304604 | [304604-idle-waters.json](./304604-idle-waters.json) |
 | Idle Zombie Shelter | 200729 | [200729-idle-zombie-shelter.json](./200729-idle-zombie-shelter.json) |
+| Idleplex | 261270 | [261270-idleplex.json](./261270-idleplex.json) |
 | Idling Gears | 237081 | [237081-idling-gears.json](./237081-idling-gears.json) |
 | Idly God | 209637 | [209637-idly-god.json](./209637-idly-god.json) |
 | Idol Hakken-den | 7905 | [7905-idol-hakken-den.json](./7905-idol-hakken-den.json) |
