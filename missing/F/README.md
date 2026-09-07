@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fritz 19: Steam Edition | 280203 | [280203-fritz-19-steam-edition.json](./280203-fritz-19-steam-edition.json) |
 | Fritz: Your Chess Coach | 262648 | [262648-fritz-your-chess-coach.json](./262648-fritz-your-chess-coach.json) |
 | Frog 'n' Roll | 301816 | [301816-frog-n-roll.json](./301816-frog-n-roll.json) |
+| Frog And Roll | 266810 | [266810-frog-and-roll.json](./266810-frog-and-roll.json) |
 | Frog Detective 3: Corruption at Cowboy County | 161552 | [161552-frog-detective-3-corruption-at-cowboy-county.json](./161552-frog-detective-3-corruption-at-cowboy-county.json) |
 | Frog Fall Down | 192430 | [192430-frog-fall-down.json](./192430-frog-fall-down.json) |
 | Frog Feast | 270407 | [270407-frog-feast.json](./270407-frog-feast.json) |
