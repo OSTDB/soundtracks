@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 3: Houston Character Pack | 357269 | [357269-payday-3-houston-character-pack.json](./357269-payday-3-houston-character-pack.json) |
 | Payday 3: Jacket Character Pack | 367398 | [367398-payday-3-jacket-character-pack.json](./367398-payday-3-jacket-character-pack.json) |
 | Payday: Crime War | 98080 | [98080-payday-crime-war.json](./98080-payday-crime-war.json) |
+| Payout: Shop Simulator | 309336 | [309336-payout-shop-simulator.json](./309336-payout-shop-simulator.json) |
 | Payrates | 405522 | [405522-payrates.json](./405522-payrates.json) |
 | Paze Knight Ellen and the Dungeon Town Sodom | 244482 | [244482-paze-knight-ellen-and-the-dungeon-town-sodom.json](./244482-paze-knight-ellen-and-the-dungeon-town-sodom.json) |
 | PBJ: The Musical | 325280 | [325280-pbj-the-musical.json](./325280-pbj-the-musical.json) |
@@ -1768,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Eye | 10999 | [10999-private-eye.json](./10999-private-eye.json) |
 | Private Garden | 331099 | [331099-private-garden.json](./331099-private-garden.json) |
 | Private Lesson with My Lover Teacher 2 | 382782 | [382782-private-lesson-with-my-lover-teacher-2.json](./382782-private-lesson-with-my-lover-teacher-2.json) |
+| Private Mining Company | 309368 | [309368-private-mining-company.json](./309368-private-mining-company.json) |
 | Private School Days | 89760 | [89760-private-school-days.json](./89760-private-school-days.json) |
 | Prizefighters | 239914 | [239914-prizefighters.json](./239914-prizefighters.json) |
 | Prizma Puzzle Classic | 378184 | [378184-prizma-puzzle-classic.json](./378184-prizma-puzzle-classic.json) |
