@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloonacy! | 39043 | [39043-balloonacy.json](./39043-balloonacy.json) |
 | Ballpoint Universe: Infinite | 16770 | [16770-ballpoint-universe-infinite.json](./16770-ballpoint-universe-infinite.json) |
 | BallRoll | 189184 | [189184-ballroll.json](./189184-ballroll.json) |
+| Balls Bombs | 300733 | [300733-balls-bombs.json](./300733-balls-bombs.json) |
 | Balls Rolling-Plumber, Slither, Line, Fill & Fun! | 108486 | [108486-balls-rolling-plumber-slither-line-fill-and-fun.json](./108486-balls-rolling-plumber-slither-line-fill-and-fun.json) |
 | Balls! Virtual Reality Cricket | 31580 | [31580-balls-virtual-reality-cricket.json](./31580-balls-virtual-reality-cricket.json) |
 | Bally Hoo | 91436 | [91436-bally-hoo.json](./91436-bally-hoo.json) |
