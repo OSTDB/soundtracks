@@ -697,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomonic | 219797 | [219797-gnomonic.json](./219797-gnomonic.json) |
 | Gnosis | 201292 | [201292-gnosis.json](./201292-gnosis.json) |
 | Gnosis | 292284 | [292284-gnosis.json](./292284-gnosis.json) |
+| Gnostic: Survivors | 262373 | [262373-gnostic-survivors.json](./262373-gnostic-survivors.json) |
 | Gnubbl | 370720 | [370720-gnubbl.json](./370720-gnubbl.json) |
 | Go | 13722 | [13722-go.json](./13722-go.json) |
 | Go Ape Ship! | 376467 | [376467-go-ape-ship.json](./376467-go-ape-ship.json) |
@@ -1012,6 +1013,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grace Online | 248302 | [248302-grace-online.json](./248302-grace-online.json) |
 | Gracia | 301844 | [301844-gracia.json](./301844-gracia.json) |
 | Gradius | 213191 | [213191-gradius.json](./213191-gradius.json) |
+| Gradius | 262393 | [262393-gradius.json](./262393-gradius.json) |
+| Gradius | 262394 | [262394-gradius.json](./262394-gradius.json) |
+| Gradius | 262395 | [262395-gradius.json](./262395-gradius.json) |
 | Gradius III and IV | 98976 | [98976-gradius-iii-and-iv.json](./98976-gradius-iii-and-iv.json) |
 | Graffiti Simulator | 326418 | [326418-graffiti-simulator.json](./326418-graffiti-simulator.json) |
 | GraFi 2 | 119013 | [119013-grafi-2.json](./119013-grafi-2.json) |
