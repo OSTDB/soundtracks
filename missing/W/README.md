@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WASD: The Adventure of Tori | 358333 | [358333-wasd-the-adventure-of-tori.json](./358333-wasd-the-adventure-of-tori.json) |
 | Wash Card | 223705 | [223705-wash-card.json](./223705-wash-card.json) |
 | Wash Simulator: Clean Garage, House, Cars Business Tycoons - Extended Edition | 328818 | [328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json](./328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json) |
+| Wasm4nia | 307615 | [307615-wasm4nia.json](./307615-wasm4nia.json) |
 | Wasted | 17925 | [17925-wasted.json](./17925-wasted.json) |
 | Wasted Glory | 276479 | [276479-wasted-glory.json](./276479-wasted-glory.json) |
 | Wasteland Angel | 9388 | [9388-wasteland-angel.json](./9388-wasteland-angel.json) |
@@ -779,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wire Throne | 312545 | [312545-wire-throne.json](./312545-wire-throne.json) |
 | Wireball | 121721 | [121721-wireball.json](./121721-wireball.json) |
 | Wired | 105334 | [105334-wired.json](./105334-wired.json) |
+| Wired | 307616 | [307616-wired.json](./307616-wired.json) |
 | Wirtschaftsgiganten | 98968 | [98968-wirtschaftsgiganten.json](./98968-wirtschaftsgiganten.json) |
 | Wise in the Heights | 358330 | [358330-wise-in-the-heights.json](./358330-wise-in-the-heights.json) |
 | Wish on this Flower | 360611 | [360611-wish-on-this-flower.json](./360611-wish-on-this-flower.json) |
@@ -863,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards' Clash | 35738 | [35738-wizards-clash.json](./35738-wizards-clash.json) |
 | Wizavior | 255392 | [255392-wizavior.json](./255392-wizavior.json) |
 | Wizdom | 85500 | [85500-wizdom.json](./85500-wizdom.json) |
+| Wloku | 307617 | [307617-wloku.json](./307617-wloku.json) |
 | Wo Long: Fallen Dynasty - Complete Edition | 285776 | [285776-wo-long-fallen-dynasty-complete-edition.json](./285776-wo-long-fallen-dynasty-complete-edition.json) |
 | Woahler Coaster! | 373513 | [373513-woahler-coaster.json](./373513-woahler-coaster.json) |
 | Wobbl | 192963 | [192963-wobbl.json](./192963-wobbl.json) |
@@ -1054,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warships: Legends - Captain's Essentials | 340747 | [340747-world-of-warships-legends-captains-essentials.json](./340747-world-of-warships-legends-captains-essentials.json) |
 | World of Wimmelbild Gold | 92503 | [92503-world-of-wimmelbild-gold.json](./92503-world-of-wimmelbild-gold.json) |
 | World of Zoo | 5287 | [5287-world-of-zoo.json](./5287-world-of-zoo.json) |
+| World on Paper | 307572 | [307572-world-on-paper.json](./307572-world-on-paper.json) |
 | World Poker Tour: Texas Hold 'Em | 85498 | [85498-world-poker-tour-texas-hold-em.json](./85498-world-poker-tour-texas-hold-em.json) |
 | World Rally | 46834 | [46834-world-rally.json](./46834-world-rally.json) |
 | World Robot Boxing 2 | 196302 | [196302-world-robot-boxing-2.json](./196302-world-robot-boxing-2.json) |
@@ -1104,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm Dungeon | 135878 | [135878-worm-dungeon.json](./135878-worm-dungeon.json) |
 | Worm Odyssey | 275914 | [275914-worm-odyssey.json](./275914-worm-odyssey.json) |
 | Wormatozoa | 190722 | [190722-wormatozoa.json](./190722-wormatozoa.json) |
+| Wormhole | 307618 | [307618-wormhole.json](./307618-wormhole.json) |
 | Wormhole | 374611 | [374611-wormhole.json](./374611-wormhole.json) |
 | Worms Crazy Golf | 15070 | [15070-worms-crazy-golf.json](./15070-worms-crazy-golf.json) |
 | Worms Forts 3D | 218730 | [218730-worms-forts-3d.json](./218730-worms-forts-3d.json) |
