@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa Sangre | 7698 | [7698-papa-sangre.json](./7698-papa-sangre.json) |
 | Papa's Burgeria HD | 86695 | [86695-papas-burgeria-hd.json](./86695-papas-burgeria-hd.json) |
 | Papa's Pizzeria to Go! | 96296 | [96296-papas-pizzeria-to-go.json](./96296-papas-pizzeria-to-go.json) |
+| Pape Rangers | 294131 | [294131-pape-rangers.json](./294131-pape-rangers.json) |
 | Paper Bride 6: Nightmare | 326046 | [326046-paper-bride-6-nightmare.json](./326046-paper-bride-6-nightmare.json) |
 | Paper Cages | 178670 | [178670-paper-cages.json](./178670-paper-cages.json) |
 | Paper Champion | 242800 | [242800-paper-champion.json](./242800-paper-champion.json) |
@@ -267,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranoia: Happiness is Mandatory | 117313 | [117313-paranoia-happiness-is-mandatory.json](./117313-paranoia-happiness-is-mandatory.json) |
 | Paranoide | 333371 | [333371-paranoide.json](./333371-paranoide.json) |
 | Paranormal Activity: The Lost Soul | 32699 | [32699-paranormal-activity-the-lost-soul.json](./32699-paranormal-activity-the-lost-soul.json) |
+| Paranormal Archives | 294166 | [294166-paranormal-archives.json](./294166-paranormal-archives.json) |
 | Paranormal Files: Fatal Flaw - Collector's Edition | 355018 | [355018-paranormal-files-fatal-flaw-collectors-edition.json](./355018-paranormal-files-fatal-flaw-collectors-edition.json) |
 | Paranormal Files: Sacrifice to Shadows - Collector's Edition | 339788 | [339788-paranormal-files-sacrifice-to-shadows-collectors-edition.json](./339788-paranormal-files-sacrifice-to-shadows-collectors-edition.json) |
 | Paranormal Roulette | 365084 | [365084-paranormal-roulette.json](./365084-paranormal-roulette.json) |
@@ -1312,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Starships | 57124 | [57124-pocket-starships.json](./57124-pocket-starships.json) |
 | Pocket Zaurus: Party Island no Nakama-tachi 1 | 293906 | [293906-pocket-zaurus-party-island-no-nakama-tachi-1.json](./293906-pocket-zaurus-party-island-no-nakama-tachi-1.json) |
 | Pocket Zaurus: Party Island no Nakama-tachi 2 | 293907 | [293907-pocket-zaurus-party-island-no-nakama-tachi-2.json](./293907-pocket-zaurus-party-island-no-nakama-tachi-2.json) |
+| Pocketing the Ball | 294126 | [294126-pocketing-the-ball.json](./294126-pocketing-the-ball.json) |
 | Podd | 66704 | [66704-podd.json](./66704-podd.json) |
 | Podnabu | 291256 | [291256-podnabu.json](./291256-podnabu.json) |
 | Poetry, wine and sword | 158186 | [158186-poetry-wine-and-sword.json](./158186-poetry-wine-and-sword.json) |
@@ -1592,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Apocalypse | 130355 | [130355-post-apocalypse.json](./130355-post-apocalypse.json) |
 | Post Hero | 239923 | [239923-post-hero.json](./239923-post-hero.json) |
 | Post Solis | 199102 | [199102-post-solis.json](./199102-post-solis.json) |
+| Post Soviet Strike: Chernobyl Legacy | 294161 | [294161-post-soviet-strike-chernobyl-legacy.json](./294161-post-soviet-strike-chernobyl-legacy.json) |
 | Postal 2: A Very Postal Christmas | 129788 | [129788-postal-2-a-very-postal-christmas.json](./129788-postal-2-a-very-postal-christmas.json) |
 | Postal 2: A Week in Paradise | 129789 | [129789-postal-2-a-week-in-paradise.json](./129789-postal-2-a-week-in-paradise.json) |
 | Postal: Redux | 8716 | [8716-postal-redux.json](./8716-postal-redux.json) |
@@ -2044,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proud To Love | 385052 | [385052-proud-to-love.json](./385052-proud-to-love.json) |
 | Proun | 80558 | [80558-proun.json](./80558-proun.json) |
 | Provide Relief | 272008 | [272008-provide-relief.json](./272008-provide-relief.json) |
+| Prune & Milo | 294134 | [294134-prune-and-milo.json](./294134-prune-and-milo.json) |
 | Prussia's Glory | 77384 | [77384-prussias-glory.json](./77384-prussias-glory.json) |
 | Pry into the Void | 187530 | [187530-pry-into-the-void.json](./187530-pry-into-the-void.json) |
 | Psebay | 43063 | [43063-psebay.json](./43063-psebay.json) |
