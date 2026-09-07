@@ -694,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BE Witches | 157163 | [157163-be-witches.json](./157163-be-witches.json) |
 | Be Yourself | 318234 | [318234-be-yourself.json](./318234-be-yourself.json) |
 | Beach Bowling 3D | 66120 | [66120-beach-bowling-3d.json](./66120-beach-bowling-3d.json) |
+| Beach Boys 2: Zodiac Date | 283726 | [283726-beach-boys-2-zodiac-date.json](./283726-beach-boys-2-zodiac-date.json) |
 | Beach Festival World Championship 1997 | 255362 | [255362-beach-festival-world-championship-1997.json](./255362-beach-festival-world-championship-1997.json) |
 | Beach Friends | 376465 | [376465-beach-friends.json](./376465-beach-friends.json) |
 | Beach Invasion 1945: Pacific | 247785 | [247785-beach-invasion-1945-pacific.json](./247785-beach-invasion-1945-pacific.json) |
@@ -1238,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Magic | 12258 | [12258-black-magic.json](./12258-black-magic.json) |
 | Black Market of Bulletphilia: 100th Black Market | 210247 | [210247-black-market-of-bulletphilia-100th-black-market.json](./210247-black-market-of-bulletphilia-100th-black-market.json) |
 | Black Mesa Inbound | 253030 | [253030-black-mesa-inbound.json](./253030-black-mesa-inbound.json) |
+| Black Mesa: Classic | 283761 | [283761-black-mesa-classic.json](./283761-black-mesa-classic.json) |
 | Black Mirror: Thronglets | 339816 | [339816-black-mirror-thronglets.json](./339816-black-mirror-thronglets.json) |
 | Black Monday | 94217 | [94217-black-monday.json](./94217-black-monday.json) |
 | Black Out. | 297808 | [297808-black-out.json](./297808-black-out.json) |
@@ -1849,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouhou Youyoumu | 204076 | [204076-bouhou-youyoumu.json](./204076-bouhou-youyoumu.json) |
 | Boulder Boy | 61639 | [61639-boulder-boy.json](./61639-boulder-boy.json) |
 | Boulder Dash | 12942 | [12942-boulder-dash.json](./12942-boulder-dash.json) |
+| Boulder Dash | 283712 | [283712-boulder-dash.json](./283712-boulder-dash.json) |
 | Boulder Dash: 30th Anniversary | 25569 | [25569-boulder-dash-30th-anniversary.json](./25569-boulder-dash-30th-anniversary.json) |
 | Boulder Match 4 | 66673 | [66673-boulder-match-4.json](./66673-boulder-match-4.json) |
 | Boulderdash | 47237 | [47237-boulderdash.json](./47237-boulderdash.json) |
@@ -1951,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Drain | 210268 | [210268-brain-drain.json](./210268-brain-drain.json) |
 | Brain Games Mahjongg | 25011 | [25011-brain-games-mahjongg.json](./25011-brain-games-mahjongg.json) |
 | Brain It On! | 97332 | [97332-brain-it-on.json](./97332-brain-it-on.json) |
+| Brain Memory Training Academy | 283727 | [283727-brain-memory-training-academy.json](./283727-brain-memory-training-academy.json) |
 | Brain Memory: Amazing Edition | 276452 | [276452-brain-memory-amazing-edition.json](./276452-brain-memory-amazing-edition.json) |
 | Brain Teaser Bundle | 231073 | [231073-brain-teaser-bundle.json](./231073-brain-teaser-bundle.json) |
 | Brain Teaser: Memory Limit | 117762 | [117762-brain-teaser-memory-limit.json](./117762-brain-teaser-memory-limit.json) |
