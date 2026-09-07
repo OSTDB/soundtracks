@@ -1717,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run! Run! Don't Die! | 329942 | [329942-run-run-dont-die.json](./329942-run-run-dont-die.json) |
 | Run!!! | 87729 | [87729-run.json](./87729-run.json) |
 | Runa & the Chaikurú Legacy | 238734 | [238734-runa-and-the-chaikuru-legacy.json](./238734-runa-and-the-chaikuru-legacy.json) |
+| Runaround Reaper | 276730 | [276730-runaround-reaper.json](./276730-runaround-reaper.json) |
 | Runaway 2: The Dream of the Turtle | 13227 | [13227-runaway-2-the-dream-of-the-turtle.json](./13227-runaway-2-the-dream-of-the-turtle.json) |
 | Runaway Bride | 288240 | [288240-runaway-bride.json](./288240-runaway-bride.json) |
 | Runaway Train | 252368 | [252368-runaway-train.json](./252368-runaway-train.json) |
