@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Once Glorious City | 271725 | [271725-a-once-glorious-city.json](./271725-a-once-glorious-city.json) |
 | A Pact With Me | 209704 | [209704-a-pact-with-me.json](./209704-a-pact-with-me.json) |
 | A Paper Mario Puzzle Game | 323741 | [323741-a-paper-mario-puzzle-game.json](./323741-a-paper-mario-puzzle-game.json) |
+| A Past and Future Secret | 271200 | [271200-a-past-and-future-secret.json](./271200-a-past-and-future-secret.json) |
 | A Phone Found in Tall Grass | 245025 | [245025-a-phone-found-in-tall-grass.json](./245025-a-phone-found-in-tall-grass.json) |
 | A Platformer for Ants | 82150 | [82150-a-platformer-for-ants.json](./82150-a-platformer-for-ants.json) |
 | A Plumber for All Seasons | 204718 | [204718-a-plumber-for-all-seasons.json](./204718-a-plumber-for-all-seasons.json) |
@@ -168,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Question of Scruples: The Computer Edition | 133441 | [133441-a-question-of-scruples-the-computer-edition.json](./133441-a-question-of-scruples-the-computer-edition.json) |
 | A Red Boat | 229918 | [229918-a-red-boat.json](./229918-a-red-boat.json) |
 | A Red Sky at Dawn | 183584 | [183584-a-red-sky-at-dawn.json](./183584-a-red-sky-at-dawn.json) |
+| A Roaming Wildebeest In Spain | 271244 | [271244-a-roaming-wildebeest-in-spain.json](./271244-a-roaming-wildebeest-in-spain.json) |
 | A Robot's Conundrum | 67988 | [67988-a-robots-conundrum.json](./67988-a-robots-conundrum.json) |
 | A Robot's Journey | 151171 | [151171-a-robots-journey.json](./151171-a-robots-journey.json) |
 | A Rocket's Intensity | 247777 | [247777-a-rockets-intensity.json](./247777-a-rockets-intensity.json) |
@@ -1986,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArkanoidSmoking | 54452 | [54452-arkanoidsmoking.json](./54452-arkanoidsmoking.json) |
 | Arkham Detective | 278178 | [278178-arkham-detective.json](./278178-arkham-detective.json) |
 | Arla Milkout! | 314036 | [314036-arla-milkout.json](./314036-arla-milkout.json) |
+| Arlyeh Center for Heart Diseases | 271218 | [271218-arlyeh-center-for-heart-diseases.json](./271218-arlyeh-center-for-heart-diseases.json) |
 | Arma 3: Creator DLC - CSLA Iron Curtain | 168912 | [168912-arma-3-creator-dlc-csla-iron-curtain.json](./168912-arma-3-creator-dlc-csla-iron-curtain.json) |
 | Arma 3: Creator DLC - Spearhead 1944 | 259281 | [259281-arma-3-creator-dlc-spearhead-1944.json](./259281-arma-3-creator-dlc-spearhead-1944.json) |
 | Arma 3: Jets | 168910 | [168910-arma-3-jets.json](./168910-arma-3-jets.json) |
@@ -2000,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armage | 174889 | [174889-armage.json](./174889-armage.json) |
 | Armageddon | 228693 | [228693-armageddon.json](./228693-armageddon.json) |
 | Armageddon | 45337 | [45337-armageddon.json](./45337-armageddon.json) |
+| Armageddon 2 | 271199 | [271199-armageddon-2.json](./271199-armageddon-2.json) |
 | Armageddon Margaret | 317021 | [317021-armageddon-margaret.json](./317021-armageddon-margaret.json) |
 | Armalyte: Competition Edition | 299486 | [299486-armalyte-competition-edition.json](./299486-armalyte-competition-edition.json) |
 | Armchair Quarterback | 314037 | [314037-armchair-quarterback.json](./314037-armchair-quarterback.json) |
@@ -2598,6 +2602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awexome Cross | 135869 | [135869-awexome-cross.json](./135869-awexome-cross.json) |
 | Awful Kidnapper | 300410 | [300410-awful-kidnapper.json](./300410-awful-kidnapper.json) |
 | Awful Mario World | 314897 | [314897-awful-mario-world.json](./314897-awful-mario-world.json) |
+| Awoken Madness | 271201 | [271201-awoken-madness.json](./271201-awoken-madness.json) |
 | AX-1: Arabian Rhapsody | 91462 | [91462-ax-1-arabian-rhapsody.json](./91462-ax-1-arabian-rhapsody.json) |
 | AX-10: Outlaw | 91459 | [91459-ax-10-outlaw.json](./91459-ax-10-outlaw.json) |
 | AX-7: Police & Gangster | 91461 | [91461-ax-7-police-and-gangster.json](./91461-ax-7-police-and-gangster.json) |
