@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Very Merry Nightmare | 338182 | [338182-a-very-merry-nightmare.json](./338182-a-very-merry-nightmare.json) |
 | A Very Pilkington Christmas | 280752 | [280752-a-very-pilkington-christmas.json](./280752-a-very-pilkington-christmas.json) |
 | A Very Simple Puzzle... | 337070 | [337070-a-very-simple-puzzle.json](./337070-a-very-simple-puzzle.json) |
+| A Voz do Operário | 276740 | [276740-a-voz-do-operario.json](./276740-a-voz-do-operario.json) |
 | A Wake Between Worlds | 350415 | [350415-a-wake-between-worlds.json](./350415-a-wake-between-worlds.json) |
 | A Wake Inn | 143698 | [143698-a-wake-inn.json](./143698-a-wake-inn.json) |
 | A Walk in the Park | 309331 | [309331-a-walk-in-the-park.json](./309331-a-walk-in-the-park.json) |
@@ -243,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-10 Tank Killer Version 1.5 | 15570 | [15570-a-10-tank-killer-version-1-5.json](./15570-a-10-tank-killer-version-1-5.json) |
 | A-Force: Armour Force | 62182 | [62182-a-force-armour-force.json](./62182-a-force-armour-force.json) |
 | A-Men 2 | 8624 | [8624-a-men-2.json](./8624-a-men-2.json) |
+| A-Red Walking Robot | 276712 | [276712-a-red-walking-robot.json](./276712-a-red-walking-robot.json) |
 | A.A.U. Black Site | 357776 | [357776-a-a-u-black-site.json](./357776-a-a-u-black-site.json) |
 | A.C.I.T. Soup | 406706 | [406706-a-c-i-t-soup.json](./406706-a-c-i-t-soup.json) |
 | A.I.M.2 Clan Wars | 18960 | [18960-a-i-m-2-clan-wars.json](./18960-a-i-m-2-clan-wars.json) |
@@ -256,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aard and Wyzz: The rise of minions | 309102 | [309102-aard-and-wyzz-the-rise-of-minions.json](./309102-aard-and-wyzz-the-rise-of-minions.json) |
 | Aardwolf MUD | 228684 | [228684-aardwolf-mud.json](./228684-aardwolf-mud.json) |
 | Aargon Deluxe | 70984 | [70984-aargon-deluxe.json](./70984-aargon-deluxe.json) |
+| Aarik: and the Ruined Kingdom | 276707 | [276707-aarik-and-the-ruined-kingdom.json](./276707-aarik-and-the-ruined-kingdom.json) |
 | Aaron vs. Ruth: Battle of the Big Bats | 69280 | [69280-aaron-vs-ruth-battle-of-the-big-bats.json](./69280-aaron-vs-ruth-battle-of-the-big-bats.json) |
 | Aba Daba | 84237 | [84237-aba-daba.json](./84237-aba-daba.json) |
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
@@ -297,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | About Fishing | 380410 | [380410-about-fishing.json](./380410-about-fishing.json) |
 | About Gretel | 156672 | [156672-about-gretel.json](./156672-about-gretel.json) |
 | About Love and Hate 2 | 173805 | [173805-about-love-and-hate-2.json](./173805-about-love-and-hate-2.json) |
+| About Time | 276725 | [276725-about-time.json](./276725-about-time.json) |
 | Above Below | 216462 | [216462-above-below.json](./216462-above-below.json) |
 | Above the Stars | 148555 | [148555-above-the-stars.json](./148555-above-the-stars.json) |
 | Above Top Secret | 51996 | [51996-above-top-secret.json](./51996-above-top-secret.json) |
@@ -562,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurer Shop Simulator | 357784 | [357784-adventurer-shop-simulator.json](./357784-adventurer-shop-simulator.json) |
 | Adventurer's Gate | 357783 | [357783-adventurers-gate.json](./357783-adventurers-gate.json) |
 | Adventurers.io | 197371 | [197371-adventurers-io.json](./197371-adventurers-io.json) |
+| Adventures in Anglonia | 276708 | [276708-adventures-in-anglonia.json](./276708-adventures-in-anglonia.json) |
 | Adventures in Calculon | 357781 | [357781-adventures-in-calculon.json](./357781-adventures-in-calculon.json) |
 | Adventures of a Cat in Space | 322357 | [322357-adventures-of-a-cat-in-space.json](./322357-adventures-of-a-cat-in-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
@@ -1386,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andromium | 94740 | [94740-andromium.json](./94740-andromium.json) |
 | Andy Blast vs. The Forces of Evil | 291772 | [291772-andy-blast-vs-the-forces-of-evil.json](./291772-andy-blast-vs-the-forces-of-evil.json) |
 | Andy's Apple Farm: Christmas Special | 193505 | [193505-andys-apple-farm-christmas-special.json](./193505-andys-apple-farm-christmas-special.json) |
+| Anemoi | 276736 | [276736-anemoi.json](./276736-anemoi.json) |
 | Anemoiapolis | 141855 | [141855-anemoiapolis.json](./141855-anemoiapolis.json) |
 | Anemone | 326056 | [326056-anemone.json](./326056-anemone.json) |
 | Anesthesia | 216468 | [216468-anesthesia.json](./216468-anesthesia.json) |
@@ -1574,6 +1580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Tunnel | 413595 | [413595-anomaly-tunnel.json](./413595-anomaly-tunnel.json) |
 | Anomaly: Warzone Earth | 8758 | [8758-anomaly-warzone-earth.json](./8758-anomaly-warzone-earth.json) |
 | Anomalytics: From the Files of the Arcane Statistics Authority | 293094 | [293094-anomalytics-from-the-files-of-the-arcane-statistics-authority.json](./293094-anomalytics-from-the-files-of-the-arcane-statistics-authority.json) |
+| Anon's Neko Waifus | 276709 | [276709-anons-neko-waifus.json](./276709-anons-neko-waifus.json) |
 | Anonono. Kimi to Sugoshita Ano Hi Ano Toki Ano Mirai | 314654 | [314654-anonono-kimi-to-sugoshita-ano-hi-ano-toki-ano-mirai.json](./314654-anonono-kimi-to-sugoshita-ano-hi-ano-toki-ano-mirai.json) |
 | Anonymous ME | 68670 | [68670-anonymous-me.json](./68670-anonymous-me.json) |
 | Anonymous Messages | 262649 | [262649-anonymous-messages.json](./262649-anonymous-messages.json) |
@@ -1665,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartment 22 | 355540 | [355540-apartment-22.json](./355540-apartment-22.json) |
 | Apartment Life to Cuck and Impregnate Neighboring Busty Married Women | 98450 | [98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json](./98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json) |
 | Apartment Story: A Moving Simulator | 205792 | [205792-apartment-story-a-moving-simulator.json](./205792-apartment-story-a-moving-simulator.json) |
+| Apartus | 276710 | [276710-apartus.json](./276710-apartus.json) |
 | Apathy: Inaba Hyakumantetsu in Narugami Gakuen Reikaiki | 260980 | [260980-apathy-inaba-hyakumantetsu-in-narugami-gakuen-reikaiki.json](./260980-apathy-inaba-hyakumantetsu-in-narugami-gakuen-reikaiki.json) |
 | Ape Escape | 146296 | [146296-ape-escape.json](./146296-ape-escape.json) |
 | Ape Escape Academy | 272555 | [272555-ape-escape-academy.json](./272555-ape-escape-academy.json) |
@@ -1806,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Warp & Warp | 277578 | [277578-arcade-archives-warp-and-warp.json](./277578-arcade-archives-warp-and-warp.json) |
 | Arcade Archives: Wonder Boy | 141885 | [141885-arcade-archives-wonder-boy.json](./141885-arcade-archives-wonder-boy.json) |
 | Arcade Archives: XX Mission | 129194 | [129194-arcade-archives-xx-mission.json](./129194-arcade-archives-xx-mission.json) |
+| Arcade Asylum | 276711 | [276711-arcade-asylum.json](./276711-arcade-asylum.json) |
 | Arcade Basketball 3D Tournament Edition | 241611 | [241611-arcade-basketball-3d-tournament-edition.json](./241611-arcade-basketball-3d-tournament-edition.json) |
 | Arcade Bowling | 67310 | [67310-arcade-bowling.json](./67310-arcade-bowling.json) |
 | Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
@@ -1992,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armen Noir | 56525 | [56525-armen-noir.json](./56525-armen-noir.json) |
 | Armies of Exigo | 18855 | [18855-armies-of-exigo.json](./18855-armies-of-exigo.json) |
 | Armor Battle | 245574 | [245574-armor-battle.json](./245574-armor-battle.json) |
+| Armor Blitz | 276698 | [276698-armor-blitz.json](./276698-armor-blitz.json) |
 | Armor Clash 2022 | 188092 | [188092-armor-clash-2022.json](./188092-armor-clash-2022.json) |
 | Armor Command | 73843 | [73843-armor-command.json](./73843-armor-command.json) |
 | Armor Mayhem | 264330 | [264330-armor-mayhem.json](./264330-armor-mayhem.json) |
@@ -2247,6 +2257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Challenge | 85505 | [85505-asteroid-challenge.json](./85505-asteroid-challenge.json) |
 | Asteroid Invaders | 120375 | [120375-asteroid-invaders.json](./120375-asteroid-invaders.json) |
 | Asteroid Jungle | 297790 | [297790-asteroid-jungle.json](./297790-asteroid-jungle.json) |
+| Asteroid King | 276700 | [276700-asteroid-king.json](./276700-asteroid-king.json) |
 | AsteRoid Rage | 211409 | [211409-asteroid-rage.json](./211409-asteroid-rage.json) |
 | Asteroid Sentinel | 297791 | [297791-asteroid-sentinel.json](./297791-asteroid-sentinel.json) |
 | AsteroIdle | 211410 | [211410-asteroidle.json](./211410-asteroidle.json) |
@@ -2309,6 +2320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronomica: The Quest for the Edge of the Universe | 71538 | [71538-astronomica-the-quest-for-the-edge-of-the-universe.json](./71538-astronomica-the-quest-for-the-edge-of-the-universe.json) |
 | Astronomics Rise of a New Empire | 244513 | [244513-astronomics-rise-of-a-new-empire.json](./244513-astronomics-rise-of-a-new-empire.json) |
 | Astropods: Starside Glaze | 316076 | [316076-astropods-starside-glaze.json](./316076-astropods-starside-glaze.json) |
+| Astroswarm | 276701 | [276701-astroswarm.json](./276701-astroswarm.json) |
 | Astrotit | 93074 | [93074-astrotit.json](./93074-astrotit.json) |
 | Astround | 342049 | [342049-astround.json](./342049-astround.json) |
 | Astrox Imperium | 115500 | [115500-astrox-imperium.json](./115500-astrox-imperium.json) |
