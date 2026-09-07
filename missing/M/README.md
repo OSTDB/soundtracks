@@ -499,6 +499,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Golf: World Tour - Flower Pack | 309117 | [309117-mario-golf-world-tour-flower-pack.json](./309117-mario-golf-world-tour-flower-pack.json) |
 | Mario Golf: World Tour - Mushroom Pack | 309116 | [309116-mario-golf-world-tour-mushroom-pack.json](./309116-mario-golf-world-tour-mushroom-pack.json) |
 | Mario Golf: World Tour - Star Pack | 309118 | [309118-mario-golf-world-tour-star-pack.json](./309118-mario-golf-world-tour-star-pack.json) |
+| Mario In Mushroom Rix Land | 265658 | [265658-mario-in-mushroom-rix-land.json](./265658-mario-in-mushroom-rix-land.json) |
+| Mario In Mushroom Rix Land 2: Gimmicky Island | 265659 | [265659-mario-in-mushroom-rix-land-2-gimmicky-island.json](./265659-mario-in-mushroom-rix-land-2-gimmicky-island.json) |
+| Mario In Mushroom Rix Land 3: Master Thwomps Avenge | 265660 | [265660-mario-in-mushroom-rix-land-3-master-thwomps-avenge.json](./265660-mario-in-mushroom-rix-land-3-master-thwomps-avenge.json) |
+| Mario In Mushroom Rix Land 4: Trip To Nano Island | 265661 | [265661-mario-in-mushroom-rix-land-4-trip-to-nano-island.json](./265661-mario-in-mushroom-rix-land-4-trip-to-nano-island.json) |
 | Mario In Search of The Stars 2 | 267929 | [267929-mario-in-search-of-the-stars-2.json](./267929-mario-in-search-of-the-stars-2.json) |
 | Mario in the Dreamscape | 296093 | [296093-mario-in-the-dreamscape.json](./296093-mario-in-the-dreamscape.json) |
 | Mario Is Missing! | 210223 | [210223-mario-is-missing.json](./210223-mario-is-missing.json) |
@@ -884,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meadow Assault | 304582 | [304582-meadow-assault.json](./304582-meadow-assault.json) |
 | Meal Quest | 376460 | [376460-meal-quest.json](./376460-meal-quest.json) |
 | Meal: Mystery Escape Room | 311828 | [311828-meal-mystery-escape-room.json](./311828-meal-mystery-escape-room.json) |
+| Meander Land | 265703 | [265703-meander-land.json](./265703-meander-land.json) |
 | Meaning | 82891 | [82891-meaning.json](./82891-meaning.json) |
 | Measurement Problem | 166740 | [166740-measurement-problem.json](./166740-measurement-problem.json) |
 | Meat & Greed | 203546 | [203546-meat-and-greed.json](./203546-meat-and-greed.json) |
