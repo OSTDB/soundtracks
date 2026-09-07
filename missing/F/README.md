@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Enchantress: Legendary Heroes - Leader Pack DLC | 168370 | [168370-fallen-enchantress-legendary-heroes-leader-pack-dlc.json](./168370-fallen-enchantress-legendary-heroes-leader-pack-dlc.json) |
 | Fallen Enchantress: Legendary Heroes - Quest Pack DLC | 168379 | [168379-fallen-enchantress-legendary-heroes-quest-pack-dlc.json](./168379-fallen-enchantress-legendary-heroes-quest-pack-dlc.json) |
 | Fallen Enchantress: Legendary Heroes - The Dead World DLC | 168380 | [168380-fallen-enchantress-legendary-heroes-the-dead-world-dlc.json](./168380-fallen-enchantress-legendary-heroes-the-dead-world-dlc.json) |
+| Fallen from Grace | 271220 | [271220-fallen-from-grace.json](./271220-fallen-from-grace.json) |
 | Fallen Hero: Rebirth | 88044 | [88044-fallen-hero-rebirth.json](./88044-fallen-hero-rebirth.json) |
 | Fallen London | 11285 | [11285-fallen-london.json](./11285-fallen-london.json) |
 | Fallen London: A Stretch in the Sky | 191903 | [191903-fallen-london-a-stretch-in-the-sky.json](./191903-fallen-london-a-stretch-in-the-sky.json) |
@@ -552,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FFF | 219303 | [219303-fff.json](./219303-fff.json) |
 | FFS, Another Northern Duke?! | 309876 | [309876-ffs-another-northern-duke.json](./309876-ffs-another-northern-duke.json) |
 | FhaMazein | 109723 | [109723-fhamazein.json](./109723-fhamazein.json) |
+| Fhtagn Nagh | 271229 | [271229-fhtagn-nagh.json](./271229-fhtagn-nagh.json) |
 | Fibbage XL | 33374 | [33374-fibbage-xl.json](./33374-fibbage-xl.json) |
 | Fibble | 228714 | [228714-fibble.json](./228714-fibble.json) |
 | Fibbler.io | 282568 | [282568-fibbler-io.json](./282568-fibbler-io.json) |
