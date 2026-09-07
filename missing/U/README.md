@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.S.A. Football | 93576 | [93576-u-s-a-football.json](./93576-u-s-a-football.json) |
 | U96 | 207513 | [207513-u96.json](./207513-u96.json) |
 | Ubergridder | 92521 | [92521-ubergridder.json](./92521-ubergridder.json) |
+| Ubermensch | 293649 | [293649-ubermensch.json](./293649-ubermensch.json) |
 | Ubermosh: Black | 33464 | [33464-ubermosh-black.json](./33464-ubermosh-black.json) |
 | UBoat | 32283 | [32283-uboat.json](./32283-uboat.json) |
 | Uboat Attack: Complete Edition | 317245 | [317245-uboat-attack-complete-edition.json](./317245-uboat-attack-complete-edition.json) |
@@ -49,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uin | 125993 | [125993-uin.json](./125993-uin.json) |
 | Uju Jeonsa Dooly | 93589 | [93589-uju-jeonsa-dooly.json](./93589-uju-jeonsa-dooly.json) |
 | Ukik | 246103 | [246103-ukik.json](./246103-ukik.json) |
+| Uknon Jones & Guynelk 2 | 293625 | [293625-uknon-jones-and-guynelk-2.json](./293625-uknon-jones-and-guynelk-2.json) |
 | Uknon Jones & Guynelk: Awesome! | 275338 | [275338-uknon-jones-and-guynelk-awesome.json](./275338-uknon-jones-and-guynelk-awesome.json) |
 | Uktena 64 | 392159 | [392159-uktena-64.json](./392159-uktena-64.json) |
 | Ultakia | 352735 | [352735-ultakia.json](./352735-ultakia.json) |
