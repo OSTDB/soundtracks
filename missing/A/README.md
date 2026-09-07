@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aimee's Cafe | 266520 | [266520-aimees-cafe.json](./266520-aimees-cafe.json) |
 | AimRogue | 288747 | [288747-aimrogue.json](./288747-aimrogue.json) |
 | AionGuard | 94732 | [94732-aionguard.json](./94732-aionguard.json) |
+| AiPri Verse | 284922 | [284922-aipri-verse.json](./284922-aipri-verse.json) |
 | Air | 270385 | [270385-air.json](./270385-air.json) |
 | Air | 270403 | [270403-air.json](./270403-air.json) |
 | Air Combat | 333953 | [333953-air-combat.json](./333953-air-combat.json) |
@@ -877,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akin | 32403 | [32403-akin.json](./32403-akin.json) |
 | Akita: King Pig Thinks Pink | 178098 | [178098-akita-king-pig-thinks-pink.json](./178098-akita-king-pig-thinks-pink.json) |
 | Akita: Legends Squad | 399611 | [399611-akita-legends-squad.json](./399611-akita-legends-squad.json) |
+| Akiya | 284926 | [284926-akiya.json](./284926-akiya.json) |
 | Akka Arrh | 225592 | [225592-akka-arrh.json](./225592-akka-arrh.json) |
 | Aknadach | 391056 | [391056-aknadach.json](./391056-aknadach.json) |
 | Akron | 306990 | [306990-akron.json](./306990-akron.json) |
@@ -1749,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Rastan Saga | 300731 | [300731-arcade-archives-rastan-saga.json](./300731-arcade-archives-rastan-saga.json) |
 | Arcade Archives: Rave Racer | 392771 | [392771-arcade-archives-rave-racer.json](./392771-arcade-archives-rave-racer.json) |
 | Arcade Archives: Saint Dragon | 129766 | [129766-arcade-archives-saint-dragon.json](./129766-arcade-archives-saint-dragon.json) |
+| Arcade Archives: Silk Worm | 284928 | [284928-arcade-archives-silk-worm.json](./284928-arcade-archives-silk-worm.json) |
 | Arcade Archives: Tank Battalion | 290419 | [290419-arcade-archives-tank-battalion.json](./290419-arcade-archives-tank-battalion.json) |
 | Arcade Archives: The Final Round | 312019 | [312019-arcade-archives-the-final-round.json](./312019-arcade-archives-the-final-round.json) |
 | Arcade Archives: The Ninja Kids | 314869 | [314869-arcade-archives-the-ninja-kids.json](./314869-arcade-archives-the-ninja-kids.json) |
