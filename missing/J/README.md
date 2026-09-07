@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart: Dino Adventure Field Trip | 49923 | [49923-jumpstart-dino-adventure-field-trip.json](./49923-jumpstart-dino-adventure-field-trip.json) |
 | Jumpster | 94219 | [94219-jumpster.json](./94219-jumpster.json) |
 | Jumpwad | 228063 | [228063-jumpwad.json](./228063-jumpwad.json) |
+| Jumpy 1D: Christmas Edition | 273950 | [273950-jumpy-1d-christmas-edition.json](./273950-jumpy-1d-christmas-edition.json) |
 | Jumpy Bunny | 307309 | [307309-jumpy-bunny.json](./307309-jumpy-bunny.json) |
 | Jumpy Dog | 172752 | [172752-jumpy-dog.json](./172752-jumpy-dog.json) |
 | Jumpy Dunk! | 96755 | [96755-jumpy-dunk.json](./96755-jumpy-dunk.json) |
