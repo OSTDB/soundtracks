@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken Tag Tournament HD | 143748 | [143748-tekken-tag-tournament-hd.json](./143748-tekken-tag-tournament-hd.json) |
 | Tekken: Dark Resurrection | 389439 | [389439-tekken-dark-resurrection.json](./389439-tekken-dark-resurrection.json) |
 | TeknoKinetica | 316625 | [316625-teknokinetica.json](./316625-teknokinetica.json) |
+| Teku | 274499 | [274499-teku.json](./274499-teku.json) |
 | Tele-Shibai Wii | 64427 | [64427-tele-shibai-wii.json](./64427-tele-shibai-wii.json) |
 | Teleforum | 226605 | [226605-teleforum.json](./226605-teleforum.json) |
 | Telepath RPG: Servants of God | 65532 | [65532-telepath-rpg-servants-of-god.json](./65532-telepath-rpg-servants-of-god.json) |
@@ -965,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cabin Game | 398960 | [398960-the-cabin-game.json](./398960-the-cabin-game.json) |
 | The Cabinets of Doctor Arcana | 95597 | [95597-the-cabinets-of-doctor-arcana.json](./95597-the-cabinets-of-doctor-arcana.json) |
 | The Cadet Files: Scene Unseen | 278685 | [278685-the-cadet-files-scene-unseen.json](./278685-the-cadet-files-scene-unseen.json) |
+| The Cakeman | 274493 | [274493-the-cakeman.json](./274493-the-cakeman.json) |
 | The California Raisins | 73306 | [73306-the-california-raisins.json](./73306-the-california-raisins.json) |
 | The California Raisins: The Grape Escape | 48702 | [48702-the-california-raisins-the-grape-escape.json](./48702-the-california-raisins-the-grape-escape.json) |
 | The Caligula Effect: Overdose | 75990 | [75990-the-caligula-effect-overdose.json](./75990-the-caligula-effect-overdose.json) |
@@ -1110,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dance of the Little Water Drops | 104669 | [104669-the-dance-of-the-little-water-drops.json](./104669-the-dance-of-the-little-water-drops.json) |
 | The Dark | 140576 | [140576-the-dark.json](./140576-the-dark.json) |
 | The Dark Arrival: Shadows of the Past | 343269 | [343269-the-dark-arrival-shadows-of-the-past.json](./343269-the-dark-arrival-shadows-of-the-past.json) |
+| The Dark Book 2 | 274489 | [274489-the-dark-book-2.json](./274489-the-dark-book-2.json) |
 | The Dark Curiosity | 381002 | [381002-the-dark-curiosity.json](./381002-the-dark-curiosity.json) |
 | The Dark Debt | 283769 | [283769-the-dark-debt.json](./283769-the-dark-debt.json) |
 | The Dark Defender | 199092 | [199092-the-dark-defender.json](./199092-the-dark-defender.json) |
@@ -1501,6 +1504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Horrorscope: Fatal Awakening | 166773 | [166773-the-horrorscope-fatal-awakening.json](./166773-the-horrorscope-fatal-awakening.json) |
 | The Horse Lord | 13727 | [13727-the-horse-lord.json](./13727-the-horse-lord.json) |
 | The Horus Heresy: Battle of Tallarn | 31633 | [31633-the-horus-heresy-battle-of-tallarn.json](./31633-the-horus-heresy-battle-of-tallarn.json) |
+| The Hospital of Fear | 274505 | [274505-the-hospital-of-fear.json](./274505-the-hospital-of-fear.json) |
 | The Hot Dog would Explode | 109750 | [109750-the-hot-dog-would-explode.json](./109750-the-hot-dog-would-explode.json) |
 | The Hotel 2 | 118436 | [118436-the-hotel-2.json](./118436-the-hotel-2.json) |
 | The Hotel: Floor 13 | 272576 | [272576-the-hotel-floor-13.json](./272576-the-hotel-floor-13.json) |
@@ -3273,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Rescue! 5 | 87221 | [87221-to-the-rescue-5.json](./87221-to-the-rescue-5.json) |
 | To the Stars | 336917 | [336917-to-the-stars.json](./336917-to-the-stars.json) |
 | To the Stars Idle | 396212 | [396212-to-the-stars-idle.json](./396212-to-the-stars-idle.json) |
+| To Victory | 274471 | [274471-to-victory.json](./274471-to-victory.json) |
 | To:ri | 317222 | [317222-to-ri.json](./317222-to-ri.json) |
 | Toad on Fire | 139482 | [139482-toad-on-fire.json](./139482-toad-on-fire.json) |
 | Toad Strikes Back | 134068 | [134068-toad-strikes-back.json](./134068-toad-strikes-back.json) |
@@ -3484,6 +3489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topple Tactics | 272547 | [272547-topple-tactics.json](./272547-topple-tactics.json) |
 | Topps Kick | 137686 | [137686-topps-kick.json](./137686-topps-kick.json) |
 | TopShot: Darkness | 89251 | [89251-topshot-darkness.json](./89251-topshot-darkness.json) |
+| Topspace | 274468 | [274468-topspace.json](./274468-topspace.json) |
 | TopSpin 2K25: Grand Slam Edition | 293925 | [293925-topspin-2k25-grand-slam-edition.json](./293925-topspin-2k25-grand-slam-edition.json) |
 | Tora | 114381 | [114381-tora.json](./114381-tora.json) |
 | Torbaci Oyunu | 274769 | [274769-torbaci-oyunu.json](./274769-torbaci-oyunu.json) |
