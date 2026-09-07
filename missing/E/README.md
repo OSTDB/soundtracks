@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egress Protocol | 375856 | [375856-egress-protocol.json](./375856-egress-protocol.json) |
 | Egypt: Old Kingdom - Master of History | 124796 | [124796-egypt-old-kingdom-master-of-history.json](./124796-egypt-old-kingdom-master-of-history.json) |
 | Eigen Space | 192427 | [192427-eigen-space.json](./192427-eigen-space.json) |
+| EigenGauge | 283771 | [283771-eigengauge.json](./283771-eigengauge.json) |
 | Eigenstate | 176470 | [176470-eigenstate.json](./176470-eigenstate.json) |
 | Eight Ball | 93592 | [93592-eight-ball.json](./93592-eight-ball.json) |
 | Eight Pool Fever | 322586 | [322586-eight-pool-fever.json](./322586-eight-pool-fever.json) |
@@ -916,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everspace: Stellar Edition | 102126 | [102126-everspace-stellar-edition.json](./102126-everspace-stellar-edition.json) |
 | Everstill Valley | 394899 | [394899-everstill-valley.json](./394899-everstill-valley.json) |
 | Evertales | 23927 | [23927-evertales.json](./23927-evertales.json) |
+| Every Day Is Halloween | 280759 | [280759-every-day-is-halloween.json](./280759-every-day-is-halloween.json) |
 | Every Ending Is A New Beginning | 184131 | [184131-every-ending-is-a-new-beginning.json](./184131-every-ending-is-a-new-beginning.json) |
 | Every Hue of You | 302954 | [302954-every-hue-of-you.json](./302954-every-hue-of-you.json) |
 | Every Wednesday | 387366 | [387366-every-wednesday.json](./387366-every-wednesday.json) |
