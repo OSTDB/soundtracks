@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T12:03:31.306Z",
-  "total_missing": 41879,
+  "generated_at": "2026-09-07T12:18:33.938Z",
+  "total_missing": 41929,
   "games": [
     {
       "igdb_id": 306086,
@@ -6553,6 +6553,11 @@
       "file": "missing/A/94732-aionguard.json"
     },
     {
+      "igdb_id": 284922,
+      "game_name": "AiPri Verse",
+      "file": "missing/A/284922-aipri-verse.json"
+    },
+    {
       "igdb_id": 270385,
       "game_name": "Air",
       "file": "missing/A/270385-air.json"
@@ -7016,6 +7021,11 @@
       "igdb_id": 399611,
       "game_name": "Akita: Legends Squad",
       "file": "missing/A/399611-akita-legends-squad.json"
+    },
+    {
+      "igdb_id": 284926,
+      "game_name": "Akiya",
+      "file": "missing/A/284926-akiya.json"
     },
     {
       "igdb_id": 225592,
@@ -11391,6 +11401,11 @@
       "igdb_id": 129766,
       "game_name": "Arcade Archives: Saint Dragon",
       "file": "missing/A/129766-arcade-archives-saint-dragon.json"
+    },
+    {
+      "igdb_id": 284928,
+      "game_name": "Arcade Archives: Silk Worm",
+      "file": "missing/A/284928-arcade-archives-silk-worm.json"
     },
     {
       "igdb_id": 290419,
@@ -18586,6 +18601,11 @@
       "igdb_id": 317836,
       "game_name": "Battlefield 1918",
       "file": "missing/B/317836-battlefield-1918.json"
+    },
+    {
+      "igdb_id": 284924,
+      "game_name": "Battlefield 1942: The Complete Collection",
+      "file": "missing/B/284924-battlefield-1942-the-complete-collection.json"
     },
     {
       "igdb_id": 136467,
@@ -28818,6 +28838,11 @@
       "file": "missing/C/311489-capital.json"
     },
     {
+      "igdb_id": 284885,
+      "game_name": "Capital Fire",
+      "file": "missing/C/284885-capital-fire.json"
+    },
+    {
       "igdb_id": 342635,
       "game_name": "Capital Kings",
       "file": "missing/C/342635-capital-kings.json"
@@ -32943,6 +32968,11 @@
       "file": "missing/C/247740-chronicles-of-errodean.json"
     },
     {
+      "igdb_id": 284899,
+      "game_name": "Chronicles of Lussaria",
+      "file": "missing/C/284899-chronicles-of-lussaria.json"
+    },
+    {
       "igdb_id": 339109,
       "game_name": "Chronicles of the Great Wilderness",
       "file": "missing/C/339109-chronicles-of-the-great-wilderness.json"
@@ -35096,6 +35126,11 @@
       "igdb_id": 5782,
       "game_name": "College Hoops 2K6",
       "file": "missing/C/5782-college-hoops-2k6.json"
+    },
+    {
+      "igdb_id": 284908,
+      "game_name": "College Kings 2: Episodes 4 & 5 \"Moving Out\"",
+      "file": "missing/C/284908-college-kings-2-episodes-4-and-5-moving-out.json"
     },
     {
       "igdb_id": 328460,
@@ -52963,6 +52998,11 @@
       "file": "missing/D/408785-dvd-screensaver-simulator-rebirth-reimagined-definitive-reloaded-special-intergrade-ultimate-hd-legacy-collection-remastered-2027-edition.json"
     },
     {
+      "igdb_id": 284905,
+      "game_name": "Dwarf Land",
+      "file": "missing/D/284905-dwarf-land.json"
+    },
+    {
       "igdb_id": 24563,
       "game_name": "Dwarf Tower",
       "file": "missing/D/24563-dwarf-tower.json"
@@ -54046,6 +54086,11 @@
       "igdb_id": 11159,
       "game_name": "Edge of Nowhere",
       "file": "missing/E/11159-edge-of-nowhere.json"
+    },
+    {
+      "igdb_id": 284919,
+      "game_name": "Edge of Soul: Ragnarok",
+      "file": "missing/E/284919-edge-of-soul-ragnarok.json"
     },
     {
       "igdb_id": 152895,
@@ -57333,6 +57378,11 @@
       "file": "missing/E/169976-europa-universalis-iv-national-monuments-ii.json"
     },
     {
+      "igdb_id": 284902,
+      "game_name": "Europa Universalis IV: Ultimate Sprite Pack",
+      "file": "missing/E/284902-europa-universalis-iv-ultimate-sprite-pack.json"
+    },
+    {
       "igdb_id": 298306,
       "game_name": "Europa Universalis IV: Winds of Change",
       "file": "missing/E/298306-europa-universalis-iv-winds-of-change.json"
@@ -60563,6 +60613,11 @@
       "file": "missing/F/108503-fast-blast.json"
     },
     {
+      "igdb_id": 284912,
+      "game_name": "Fast Cars Small Islands",
+      "file": "missing/F/284912-fast-cars-small-islands.json"
+    },
+    {
       "igdb_id": 18287,
       "game_name": "Fast Food",
       "file": "missing/F/18287-fast-food.json"
@@ -63126,6 +63181,11 @@
       "igdb_id": 121200,
       "game_name": "Fit For A King",
       "file": "missing/F/121200-fit-for-a-king.json"
+    },
+    {
+      "igdb_id": 284930,
+      "game_name": "Fit My Cat",
+      "file": "missing/F/284930-fit-my-cat.json"
     },
     {
       "igdb_id": 328820,
@@ -71133,6 +71193,11 @@
       "file": "missing/G/107193-globetrotter-bundle.json"
     },
     {
+      "igdb_id": 284883,
+      "game_name": "GlobeXplore",
+      "file": "missing/G/284883-globexplore.json"
+    },
+    {
       "igdb_id": 326061,
       "game_name": "Globy",
       "file": "missing/G/326061-globy.json"
@@ -77443,6 +77508,11 @@
       "file": "missing/H/208010-heal-pocket-edition.json"
     },
     {
+      "igdb_id": 284921,
+      "game_name": "Healthy Hero: Tower Defense",
+      "file": "missing/H/284921-healthy-hero-tower-defense.json"
+    },
+    {
       "igdb_id": 112332,
       "game_name": "Healthy Weapon",
       "file": "missing/H/112332-healthy-weapon.json"
@@ -80118,6 +80188,11 @@
       "file": "missing/H/99645-highscore-processing-unit.json"
     },
     {
+      "igdb_id": 284927,
+      "game_name": "Highway Drifter: Hajwala Simulator",
+      "file": "missing/H/284927-highway-drifter-hajwala-simulator.json"
+    },
+    {
       "igdb_id": 296357,
       "game_name": "Highway Gas Gas",
       "file": "missing/H/296357-highway-gas-gas.json"
@@ -80346,6 +80421,11 @@
       "igdb_id": 205264,
       "game_name": "Himemiya-san wa Kamaitai: Limited Edition",
       "file": "missing/H/205264-himemiya-san-wa-kamaitai-limited-edition.json"
+    },
+    {
+      "igdb_id": 284918,
+      "game_name": "Himitsu no AiPri",
+      "file": "missing/H/284918-himitsu-no-aipri.json"
     },
     {
       "igdb_id": 122404,
@@ -85628,6 +85708,11 @@
       "file": "missing/I/197398-incremental-epic-hero-2.json"
     },
     {
+      "igdb_id": 284887,
+      "game_name": "Incursion2D",
+      "file": "missing/I/284887-incursion2d.json"
+    },
+    {
       "igdb_id": 83969,
       "game_name": "Indecision.",
       "file": "missing/I/83969-indecision.json"
@@ -85786,6 +85871,11 @@
       "igdb_id": 53229,
       "game_name": "Industry Giant 2 HD",
       "file": "missing/I/53229-industry-giant-2-hd.json"
+    },
+    {
+      "igdb_id": 284886,
+      "game_name": "Industry Giant 4.0",
+      "file": "missing/I/284886-industry-giant-4-0.json"
     },
     {
       "igdb_id": 59449,
@@ -89873,6 +89963,11 @@
       "file": "missing/J/77385-joe-gunn.json"
     },
     {
+      "igdb_id": 284900,
+      "game_name": "Joe is Not Lost: Jigsaw Landscapes",
+      "file": "missing/J/284900-joe-is-not-lost-jigsaw-landscapes.json"
+    },
+    {
       "igdb_id": 264308,
       "game_name": "Joe vs. The Wall",
       "file": "missing/J/264308-joe-vs-the-wall.json"
@@ -90763,6 +90858,11 @@
       "file": "missing/J/326397-junkcity-factory-simulator.json"
     },
     {
+      "igdb_id": 284897,
+      "game_name": "Junklands",
+      "file": "missing/J/284897-junklands.json"
+    },
+    {
       "igdb_id": 243943,
       "game_name": "Junkyard Apocalypse",
       "file": "missing/J/243943-junkyard-apocalypse.json"
@@ -90806,6 +90906,11 @@
       "igdb_id": 296355,
       "game_name": "Jupiter Junkworks",
       "file": "missing/J/296355-jupiter-junkworks.json"
+    },
+    {
+      "igdb_id": 284901,
+      "game_name": "Jupiter Melon",
+      "file": "missing/J/284901-jupiter-melon.json"
     },
     {
       "igdb_id": 186301,
@@ -100293,6 +100398,11 @@
       "file": "missing/L/248321-loop-dungeon.json"
     },
     {
+      "igdb_id": 284893,
+      "game_name": "Loop Frogs",
+      "file": "missing/L/284893-loop-frogs.json"
+    },
+    {
       "igdb_id": 248294,
       "game_name": "Loop Hero: Deluxe Edition",
       "file": "missing/L/248294-loop-hero-deluxe-edition.json"
@@ -100701,6 +100811,11 @@
       "igdb_id": 407328,
       "game_name": "Lost in Art",
       "file": "missing/L/407328-lost-in-art.json"
+    },
+    {
+      "igdb_id": 284909,
+      "game_name": "Lost in Cairo",
+      "file": "missing/L/284909-lost-in-cairo.json"
     },
     {
       "igdb_id": 314864,
@@ -105453,6 +105568,11 @@
       "file": "missing/M/7695-master-of-dimensions.json"
     },
     {
+      "igdb_id": 284879,
+      "game_name": "Master of Ives",
+      "file": "missing/M/284879-master-of-ives.json"
+    },
+    {
       "igdb_id": 109716,
       "game_name": "Master of Mutations",
       "file": "missing/M/109716-master-of-mutations.json"
@@ -105471,6 +105591,11 @@
       "igdb_id": 293066,
       "game_name": "Master of Pieces: Jigsaw Puzzle - Paper Art",
       "file": "missing/M/293066-master-of-pieces-jigsaw-puzzle-paper-art.json"
+    },
+    {
+      "igdb_id": 284890,
+      "game_name": "Master of Pieces: Jigsaw Puzzles - Cat Family Christmas",
+      "file": "missing/M/284890-master-of-pieces-jigsaw-puzzles-cat-family-christmas.json"
     },
     {
       "igdb_id": 109618,
@@ -106751,6 +106876,11 @@
       "igdb_id": 102773,
       "game_name": "Meet the Vowels",
       "file": "missing/M/102773-meet-the-vowels.json"
+    },
+    {
+      "igdb_id": 284882,
+      "game_name": "Meet Your Maker: Sector 3 Arsenal Pack",
+      "file": "missing/M/284882-meet-your-maker-sector-3-arsenal-pack.json"
     },
     {
       "igdb_id": 275919,
@@ -110571,6 +110701,11 @@
       "igdb_id": 330723,
       "game_name": "Minion Masters: Mordar’s Malediction",
       "file": "missing/M/330723-minion-masters-mordar-s-malediction.json"
+    },
+    {
+      "igdb_id": 284884,
+      "game_name": "Minion Masters: Mountain Song",
+      "file": "missing/M/284884-minion-masters-mountain-song.json"
     },
     {
       "igdb_id": 330735,
@@ -114423,6 +114558,11 @@
       "file": "missing/M/320750-mr-meaty-treasures-of-the-deep-fryer-that-is.json"
     },
     {
+      "igdb_id": 284894,
+      "game_name": "Mr. Mueller's Grand Experiment",
+      "file": "missing/M/284894-mr-muellers-grand-experiment.json"
+    },
+    {
       "igdb_id": 39030,
       "game_name": "Mr. Nutz: Hoppin' Mad",
       "file": "missing/M/39030-mr-nutz-hoppin-mad.json"
@@ -115456,6 +115596,11 @@
       "igdb_id": 200723,
       "game_name": "My Colony 2",
       "file": "missing/M/200723-my-colony-2.json"
+    },
+    {
+      "igdb_id": 284911,
+      "game_name": "My Confounding Cat is Criminally Cute!",
+      "file": "missing/M/284911-my-confounding-cat-is-criminally-cute.json"
     },
     {
       "igdb_id": 401490,
@@ -126088,6 +126233,11 @@
       "file": "missing/O/377068-out-of-order-zero.json"
     },
     {
+      "igdb_id": 284881,
+      "game_name": "Out of Ore: Mine Decoration Supporter Pack",
+      "file": "missing/O/284881-out-of-ore-mine-decoration-supporter-pack.json"
+    },
+    {
       "igdb_id": 294425,
       "game_name": "Out of Print",
       "file": "missing/O/294425-out-of-print.json"
@@ -129441,6 +129591,11 @@
       "igdb_id": 181369,
       "game_name": "People Manipulation Sim",
       "file": "missing/P/181369-people-manipulation-sim.json"
+    },
+    {
+      "igdb_id": 284903,
+      "game_name": "People's World",
+      "file": "missing/P/284903-peoples-world.json"
     },
     {
       "igdb_id": 171047,
@@ -134078,6 +134233,11 @@
       "file": "missing/P/145038-pokexgames.json"
     },
     {
+      "igdb_id": 284896,
+      "game_name": "Pokini Kagura",
+      "file": "missing/P/284896-pokini-kagura.json"
+    },
+    {
       "igdb_id": 300366,
       "game_name": "Pokkén Tournament: Update Ver.C07",
       "file": "missing/P/300366-pokken-tournament-update-ver-c07.json"
@@ -136653,6 +136813,11 @@
       "file": "missing/P/70422-project-monarch.json"
     },
     {
+      "igdb_id": 284904,
+      "game_name": "Project Moonborn",
+      "file": "missing/P/284904-project-moonborn.json"
+    },
+    {
       "igdb_id": 202415,
       "game_name": "Project MSfiX'D",
       "file": "missing/P/202415-project-msfixd.json"
@@ -137326,6 +137491,11 @@
       "igdb_id": 43351,
       "game_name": "Psyvariar: Complete Edition",
       "file": "missing/P/43351-psyvariar-complete-edition.json"
+    },
+    {
+      "igdb_id": 284910,
+      "game_name": "Pterodactyl Attack",
+      "file": "missing/P/284910-pterodactyl-attack.json"
     },
     {
       "igdb_id": 93590,
@@ -142943,6 +143113,11 @@
       "file": "missing/R/22405-requiem-hurts-rainy-escape.json"
     },
     {
+      "igdb_id": 284898,
+      "game_name": "Requiem Reverie",
+      "file": "missing/R/284898-requiem-reverie.json"
+    },
+    {
       "igdb_id": 80593,
       "game_name": "Requiem: Memento Mori",
       "file": "missing/R/80593-requiem-memento-mori.json"
@@ -143066,6 +143241,11 @@
       "igdb_id": 24211,
       "game_name": "Resident Evil 4: Collector's Edition",
       "file": "missing/R/24211-resident-evil-4-collectors-edition.json"
+    },
+    {
+      "igdb_id": 284920,
+      "game_name": "Resident Evil 4: Gold Edition",
+      "file": "missing/R/284920-resident-evil-4-gold-edition.json"
     },
     {
       "igdb_id": 145054,
@@ -154598,6 +154778,11 @@
       "file": "missing/S/310182-shop-town-dooter.json"
     },
     {
+      "igdb_id": 284891,
+      "game_name": "Shop Tycoon",
+      "file": "missing/S/284891-shop-tycoon.json"
+    },
+    {
       "igdb_id": 250649,
       "game_name": "Shop-Like: The Rogue-Like Item Shop Experience",
       "file": "missing/S/250649-shop-like-the-rogue-like-item-shop-experience.json"
@@ -156181,6 +156366,11 @@
       "igdb_id": 293402,
       "game_name": "Sixtar Gate: Startrail - Dystopia Pack",
       "file": "missing/S/293402-sixtar-gate-startrail-dystopia-pack.json"
+    },
+    {
+      "igdb_id": 284913,
+      "game_name": "Sixtar Gate: Startrail - Oshiribeat Pack",
+      "file": "missing/S/284913-sixtar-gate-startrail-oshiribeat-pack.json"
     },
     {
       "igdb_id": 340368,
@@ -158291,6 +158481,11 @@
       "igdb_id": 226442,
       "game_name": "SnekMP",
       "file": "missing/S/226442-snekmp.json"
+    },
+    {
+      "igdb_id": 284892,
+      "game_name": "Snezhinka: Sentinel Girls 2",
+      "file": "missing/S/284892-snezhinka-sentinel-girls-2.json"
     },
     {
       "igdb_id": 197956,
@@ -160866,6 +161061,16 @@
       "igdb_id": 340400,
       "game_name": "Soul Mates",
       "file": "missing/S/340400-soul-mates.json"
+    },
+    {
+      "igdb_id": 284888,
+      "game_name": "Soul of Butterflies",
+      "file": "missing/S/284888-soul-of-butterflies.json"
+    },
+    {
+      "igdb_id": 284889,
+      "game_name": "Soul of Butterflies: The Lobby",
+      "file": "missing/S/284889-soul-of-butterflies-the-lobby.json"
     },
     {
       "igdb_id": 247175,
@@ -171678,6 +171883,11 @@
       "file": "missing/S/227474-sweet-baby-girl-christmas-2.json"
     },
     {
+      "igdb_id": 284931,
+      "game_name": "Sweet Bakery Tycoon: Complete Edition",
+      "file": "missing/S/284931-sweet-bakery-tycoon-complete-edition.json"
+    },
+    {
       "igdb_id": 315851,
       "game_name": "Sweet Bakery Tycoon: Super Edition",
       "file": "missing/S/315851-sweet-bakery-tycoon-super-edition.json"
@@ -177718,6 +177928,11 @@
       "file": "missing/T/286003-the-complex-iv.json"
     },
     {
+      "igdb_id": 284923,
+      "game_name": "The Complex Tragedy",
+      "file": "missing/T/284923-the-complex-tragedy.json"
+    },
+    {
       "igdb_id": 223188,
       "game_name": "The Complex: Expedition",
       "file": "missing/T/223188-the-complex-expedition.json"
@@ -182808,6 +183023,11 @@
       "file": "missing/T/17318-the-promised-land.json"
     },
     {
+      "igdb_id": 284914,
+      "game_name": "The Protectorate",
+      "file": "missing/T/284914-the-protectorate.json"
+    },
+    {
       "igdb_id": 94771,
       "game_name": "The Prototype",
       "file": "missing/T/94771-the-prototype.json"
@@ -183096,6 +183316,11 @@
       "igdb_id": 369584,
       "game_name": "The Rise of Tianling Sect",
       "file": "missing/T/369584-the-rise-of-tianling-sect.json"
+    },
+    {
+      "igdb_id": 284907,
+      "game_name": "The Rising",
+      "file": "missing/T/284907-the-rising.json"
     },
     {
       "igdb_id": 268730,
@@ -191408,6 +191633,11 @@
       "file": "missing/T/53838-train-simulator-classic-new-haven-fl9-loco-add-on.json"
     },
     {
+      "igdb_id": 284880,
+      "game_name": "Train Simulator Classic: ÖBB 8073",
+      "file": "missing/T/284880-train-simulator-classic-obb-8073.json"
+    },
+    {
       "igdb_id": 293393,
       "game_name": "Train Simulator Classic: Tamns VTG Wagon Pack",
       "file": "missing/T/293393-train-simulator-classic-tamns-vtg-wagon-pack.json"
@@ -191543,6 +191773,11 @@
       "file": "missing/T/306103-trainz-plus-model-trainz-freemont-mills.json"
     },
     {
+      "igdb_id": 284916,
+      "game_name": "Trainz Plus: NR Class Locomotive - JBR Indian Pacific Pack",
+      "file": "missing/T/284916-trainz-plus-nr-class-locomotive-jbr-indian-pacific-pack.json"
+    },
+    {
       "igdb_id": 288212,
       "game_name": "Trainz Plus: Port Saturn",
       "file": "missing/T/288212-trainz-plus-port-saturn.json"
@@ -191593,6 +191828,11 @@
       "file": "missing/T/190709-trainz-railroad-simulator-2019-model-trainz-new-south-wales-region.json"
     },
     {
+      "igdb_id": 284915,
+      "game_name": "Trainz Railroad Simulator 2019: NR Class Locomotive - JBR Indian Pacific Pack",
+      "file": "missing/T/284915-trainz-railroad-simulator-2019-nr-class-locomotive-jbr-indian-pacific-pack.json"
+    },
+    {
       "igdb_id": 190714,
       "game_name": "Trainz Railroad Simulator 2019: PKP/PREG Bdhpumn/B(16)mnopux Pack",
       "file": "missing/T/190714-trainz-railroad-simulator-2019-pkp-preg-bdhpumn-b-16-mnopux-pack.json"
@@ -191636,6 +191876,11 @@
       "igdb_id": 285474,
       "game_name": "Trainz Railroad Simulator 2022: Harvard Subdivision - Commuter Edition",
       "file": "missing/T/285474-trainz-railroad-simulator-2022-harvard-subdivision-commuter-edition.json"
+    },
+    {
+      "igdb_id": 284917,
+      "game_name": "Trainz Railroad Simulator 2022: NR Class Locomotive - JBR Indian Pacific Pack",
+      "file": "missing/T/284917-trainz-railroad-simulator-2022-nr-class-locomotive-jbr-indian-pacific-pack.json"
     },
     {
       "igdb_id": 288211,
@@ -208731,6 +208976,11 @@
       "igdb_id": 400206,
       "game_name": "Zombie Defense: Emerald Edition",
       "file": "missing/Z/400206-zombie-defense-emerald-edition.json"
+    },
+    {
+      "igdb_id": 284932,
+      "game_name": "Zombie Defense: Perfect Cut Edition",
+      "file": "missing/Z/284932-zombie-defense-perfect-cut-edition.json"
     },
     {
       "igdb_id": 96622,
