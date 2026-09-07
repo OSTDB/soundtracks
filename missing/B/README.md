@@ -1995,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brian: The Novice Barbarian | 58825 | [58825-brian-the-novice-barbarian.json](./58825-brian-the-novice-barbarian.json) |
 | Brian's Redemption | 350450 | [350450-brians-redemption.json](./350450-brians-redemption.json) |
 | Brick | 356655 | [356655-brick.json](./356655-brick.json) |
+| Brick Block | 304041 | [304041-brick-block.json](./304041-brick-block.json) |
 | Brick Breaker | 195751 | [195751-brick-breaker.json](./195751-brick-breaker.json) |
 | Brick Breaker Premium | 104081 | [104081-brick-breaker-premium.json](./104081-brick-breaker-premium.json) |
 | Brick Breaker Unicorn | 151199 | [151199-brick-breaker-unicorn.json](./151199-brick-breaker-unicorn.json) |
