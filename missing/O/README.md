@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Pirate Warriors 3 - DLC Pack 2 | 171052 | [171052-one-piece-pirate-warriors-3-dlc-pack-2.json](./171052-one-piece-pirate-warriors-3-dlc-pack-2.json) |
 | One Piece: Pirate Warriors 4 - Character Pack 7 | 375163 | [375163-one-piece-pirate-warriors-4-character-pack-7.json](./375163-one-piece-pirate-warriors-4-character-pack-7.json) |
 | One Piece: Pirate Warriors 4 - Character Pack 8 Special Selection | 375164 | [375164-one-piece-pirate-warriors-4-character-pack-8-special-selection.json](./375164-one-piece-pirate-warriors-4-character-pack-8-special-selection.json) |
+| One Piece: Pirate Warriors 4 - Character Pass 2 | 259547 | [259547-one-piece-pirate-warriors-4-character-pass-2.json](./259547-one-piece-pirate-warriors-4-character-pass-2.json) |
 | One Piece: Pirate Warriors 4 - One Piece Film: Red Pack | 283182 | [283182-one-piece-pirate-warriors-4-one-piece-film-red-pack.json](./283182-one-piece-pirate-warriors-4-one-piece-film-red-pack.json) |
 | One Piece: Pirate Warriors 4 - Path to the King of the Pirates & Soul Map 3 | 294429 | [294429-one-piece-pirate-warriors-4-path-to-the-king-of-the-pirates-and-soul-map-3.json](./294429-one-piece-pirate-warriors-4-path-to-the-king-of-the-pirates-and-soul-map-3.json) |
 | One Piece: Pirate Warriors 4 - Ultimate Edition | 266820 | [266820-one-piece-pirate-warriors-4-ultimate-edition.json](./266820-one-piece-pirate-warriors-4-ultimate-edition.json) |
