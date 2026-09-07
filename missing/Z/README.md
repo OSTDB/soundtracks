@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zach-Like | 119788 | [119788-zach-like.json](./119788-zach-like.json) |
 | Zack Y | 109724 | [109724-zack-y.json](./109724-zack-y.json) |
 | Zafe's Adventures | 316423 | [316423-zafes-adventures.json](./316423-zafes-adventures.json) |
+| Zahak | 287676 | [287676-zahak.json](./287676-zahak.json) |
 | Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Kyouryoku: Kanken DS Training | 123032 | [123032-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kyouryoku-kanken-ds-training.json](./123032-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kyouryoku-kanken-ds-training.json) |
 | Zako Slayer | 228073 | [228073-zako-slayer.json](./228073-zako-slayer.json) |
 | Zalera Spark | 310935 | [310935-zalera-spark.json](./310935-zalera-spark.json) |
