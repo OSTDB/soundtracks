@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman hits Giraffe in a Car | 333397 | [333397-caveman-hits-giraffe-in-a-car.json](./333397-caveman-hits-giraffe-in-a-car.json) |
 | Caveman Warriors | 29250 | [29250-caveman-warriors.json](./29250-caveman-warriors.json) |
 | Cavemen vs. Aliens | 91412 | [91412-cavemen-vs-aliens.json](./91412-cavemen-vs-aliens.json) |
+| Cavern Adventurers | 291983 | [291983-cavern-adventurers.json](./291983-cavern-adventurers.json) |
 | Cavern Crusader | 73303 | [73303-cavern-crusader.json](./73303-cavern-crusader.json) |
 | Cavern of Dreams | 219095 | [219095-cavern-of-dreams.json](./219095-cavern-of-dreams.json) |
 | Caverns of Callisto | 24990 | [24990-caverns-of-callisto.json](./24990-caverns-of-callisto.json) |
