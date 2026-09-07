@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf or Boy | 117709 | [117709-wolf-or-boy.json](./117709-wolf-or-boy.json) |
 | Wolf Riot | 193491 | [193491-wolf-riot.json](./193491-wolf-riot.json) |
 | Wolf Souls: Arena | 324331 | [324331-wolf-souls-arena.json](./324331-wolf-souls-arena.json) |
+| Wolf West | 261826 | [261826-wolf-west.json](./261826-wolf-west.json) |
 | Wolfenstein 3D | 306944 | [306944-wolfenstein-3d.json](./306944-wolfenstein-3d.json) |
 | Wolfenstein 3D | 306948 | [306948-wolfenstein-3d.json](./306948-wolfenstein-3d.json) |
 | Wolfenstein 3D | 306965 | [306965-wolfenstein-3d.json](./306965-wolfenstein-3d.json) |
