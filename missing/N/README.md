@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Mario Galaxy | 262669 | [262669-neo-mario-galaxy.json](./262669-neo-mario-galaxy.json) |
 | Neo Mystery Bonus | 43979 | [43979-neo-mystery-bonus.json](./43979-neo-mystery-bonus.json) |
 | Neo Nectaris | 42009 | [42009-neo-nectaris.json](./42009-neo-nectaris.json) |
+| Neo Racing Genesis | 305747 | [305747-neo-racing-genesis.json](./305747-neo-racing-genesis.json) |
 | Neo Testament | 270969 | [270969-neo-testament.json](./270969-neo-testament.json) |
 | Neo Turf Masters Scotland | 400237 | [400237-neo-turf-masters-scotland.json](./400237-neo-turf-masters-scotland.json) |
 | Neo-Now! | 31986 | [31986-neo-now.json](./31986-neo-now.json) |
@@ -947,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not a Customer | 406711 | [406711-not-a-customer.json](./406711-not-a-customer.json) |
 | Not A Fake Game | 366868 | [366868-not-a-fake-game.json](./366868-not-a-fake-game.json) |
 | Not Alone | 184094 | [184094-not-alone.json](./184094-not-alone.json) |
+| Not an Aim Trainer | 305776 | [305776-not-an-aim-trainer.json](./305776-not-an-aim-trainer.json) |
 | Not Enough Time | 322943 | [322943-not-enough-time.json](./322943-not-enough-time.json) |
 | Not Everything is Flammable | 223675 | [223675-not-everything-is-flammable.json](./223675-not-everything-is-flammable.json) |
 | Not Evil Sudoku | 297219 | [297219-not-evil-sudoku.json](./297219-not-evil-sudoku.json) |
