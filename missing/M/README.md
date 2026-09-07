@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Made in Abyss: Binary Star Falling into Darkness - Collector's Edition | 150144 | [150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json](./150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json) |
 | Made of DIrt | 185691 | [185691-made-of-dirt.json](./185691-made-of-dirt.json) |
 | Madievals | 120378 | [120378-madievals.json](./120378-madievals.json) |
+| Madman | 272280 | [272280-madman.json](./272280-madman.json) |
 | Madness | 309846 | [309846-madness.json](./309846-madness.json) |
 | Madness Below | 326619 | [326619-madness-below.json](./326619-madness-below.json) |
 | Madness Hydraulic | 290417 | [290417-madness-hydraulic.json](./290417-madness-hydraulic.json) |
@@ -651,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Midnight Suns: Blood Storm | 248352 | [248352-marvels-midnight-suns-blood-storm.json](./248352-marvels-midnight-suns-blood-storm.json) |
 | Marvel's Midnight Suns: The Good, The Bad, and The Undead | 232424 | [232424-marvels-midnight-suns-the-good-the-bad-and-the-undead.json](./232424-marvels-midnight-suns-the-good-the-bad-and-the-undead.json) |
 | Marvel's Moon Girl and Devil Dinosaur: Moon Girl Moxie! | 306670 | [306670-marvels-moon-girl-and-devil-dinosaur-moon-girl-moxie.json](./306670-marvels-moon-girl-and-devil-dinosaur-moon-girl-moxie.json) |
+| Marvel's Spider-Man 2: Collector's Edition | 272315 | [272315-marvels-spider-man-2-collectors-edition.json](./272315-marvels-spider-man-2-collectors-edition.json) |
 | Marvellous Inc. | 96638 | [96638-marvellous-inc.json](./96638-marvellous-inc.json) |
 | Mary Had A Lost Lamb | 314072 | [314072-mary-had-a-lost-lamb.json](./314072-mary-had-a-lost-lamb.json) |
 | Mary Knots: Garden Wedding | 170554 | [170554-mary-knots-garden-wedding.json](./170554-mary-knots-garden-wedding.json) |
