@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario's Hint Art | 300685 | [300685-warios-hint-art.json](./300685-warios-hint-art.json) |
 | WarioWare D.I.Y. | 1708 | [1708-warioware-d-i-y.json](./1708-warioware-d-i-y.json) |
 | WarioWare Mouse Workz! | 250046 | [250046-warioware-mouse-workz.json](./250046-warioware-mouse-workz.json) |
+| Warja | 277295 | [277295-warja.json](./277295-warja.json) |
 | Warka Flarka Flim Flam | 29942 | [29942-warka-flarka-flim-flam.json](./29942-warka-flarka-flim-flam.json) |
 | Warkestra | 275336 | [275336-warkestra.json](./275336-warkestra.json) |
 | Warlanes | 301264 | [301264-warlanes.json](./301264-warlanes.json) |
@@ -376,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapon Ball Fight | 383930 | [383930-weapon-ball-fight.json](./383930-weapon-ball-fight.json) |
 | WeaponGo | 104095 | [104095-weapongo.json](./104095-weapongo.json) |
 | WeaponizedChess | 34481 | [34481-weaponizedchess.json](./34481-weaponizedchess.json) |
+| Weaponmancer | 277285 | [277285-weaponmancer.json](./277285-weaponmancer.json) |
 | Weaponry Dealer VR | 110464 | [110464-weaponry-dealer-vr.json](./110464-weaponry-dealer-vr.json) |
 | Weasel Willy | 315277 | [315277-weasel-willy.json](./315277-weasel-willy.json) |
 | Weasel Words | 180823 | [180823-weasel-words.json](./180823-weasel-words.json) |
@@ -695,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Supermarket Simulator | 345511 | [345511-wild-west-supermarket-simulator.json](./345511-wild-west-supermarket-simulator.json) |
 | Wild West VR | 104075 | [104075-wild-west-vr.json](./104075-wild-west-vr.json) |
 | Wild Wizard War | 391607 | [391607-wild-wizard-war.json](./391607-wild-wizard-war.json) |
+| Wildagotchi: Virtual Pet - Deluxe Edition | 277304 | [277304-wildagotchi-virtual-pet-deluxe-edition.json](./277304-wildagotchi-virtual-pet-deluxe-edition.json) |
 | Wildbound | 347711 | [347711-wildbound.json](./347711-wildbound.json) |
 | WildCraft | 241635 | [241635-wildcraft.json](./241635-wildcraft.json) |
 | Wildekin | 362280 | [362280-wildekin.json](./362280-wildekin.json) |
