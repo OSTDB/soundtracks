@@ -3067,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Guy Hidden Objects Poland | 400194 | [400194-spy-guy-hidden-objects-poland.json](./400194-spy-guy-hidden-objects-poland.json) |
 | Spy Guy Memory Abstraction Bundle | 400204 | [400204-spy-guy-memory-abstraction-bundle.json](./400204-spy-guy-memory-abstraction-bundle.json) |
 | Spy Hunter | 21042 | [21042-spy-hunter.json](./21042-spy-hunter.json) |
+| Spy Hunter | 287079 | [287079-spy-hunter.json](./287079-spy-hunter.json) |
 | Spy Hunter Returns | 297466 | [297466-spy-hunter-returns.json](./297466-spy-hunter-returns.json) |
 | Spy Kids Challenger | 49385 | [49385-spy-kids-challenger.json](./49385-spy-kids-challenger.json) |
 | Spy Kids Learning Adventures: Mission - Man in the Moon | 73833 | [73833-spy-kids-learning-adventures-mission-man-in-the-moon.json](./73833-spy-kids-learning-adventures-mission-man-in-the-moon.json) |
@@ -3531,6 +3532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Step Up! | 84902 | [84902-step-up.json](./84902-step-up.json) |
 | StepByStep | 371906 | [371906-stepbystep.json](./371906-stepbystep.json) |
 | Stephen King's F13 | 74412 | [74412-stephen-kings-f13.json](./74412-stephen-kings-f13.json) |
+| Steptile | 287097 | [287097-steptile.json](./287097-steptile.json) |
 | StepX | 67915 | [67915-stepx.json](./67915-stepx.json) |
 | StereoPaint | 192425 | [192425-stereopaint.json](./192425-stereopaint.json) |
 | Stern Pinball Arcade | 30288 | [30288-stern-pinball-arcade.json](./30288-stern-pinball-arcade.json) |
