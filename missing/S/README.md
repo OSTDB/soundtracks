@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seishin Hakai | 260976 | [260976-seishin-hakai.json](./260976-seishin-hakai.json) |
 | Seishoujo Kantai Virgin Fleet | 290423 | [290423-seishoujo-kantai-virgin-fleet.json](./290423-seishoujo-kantai-virgin-fleet.json) |
 | Seka II | 292323 | [292323-seka-ii.json](./292323-seka-ii.json) |
+| Sekai de Ichiban Kimi ga Suki! | 270691 | [270691-sekai-de-ichiban-kimi-ga-suki.json](./270691-sekai-de-ichiban-kimi-ga-suki.json) |
 | Sekai Saikyou Ginsei Igo 3 | 347157 | [347157-sekai-saikyou-ginsei-igo-3.json](./347157-sekai-saikyou-ginsei-igo-3.json) |
 | Sekai to Sekai no Mannaka de | 187532 | [187532-sekai-to-sekai-no-mannaka-de.json](./187532-sekai-to-sekai-no-mannaka-de.json) |
 | Sekien no Inganock ~What a Beautiful People~ Fullvoice ReBORN | 378204 | [378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json](./378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json) |
@@ -1177,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Koihime Musou: Kakumei - Ryuuki no Taimou | 127338 | [127338-shin-koihime-musou-kakumei-ryuuki-no-taimou.json](./127338-shin-koihime-musou-kakumei-ryuuki-no-taimou.json) |
 | Shin Mahjong Tenka Fubu | 188085 | [188085-shin-mahjong-tenka-fubu.json](./188085-shin-mahjong-tenka-fubu.json) |
 | Shin Megami Tensei Devil Summoner: Raidou Kuzunoha vs. The Soulless Army | 20640 | [20640-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army.json](./20640-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army.json) |
+| Shin Megami Tensei if... | 270672 | [270672-shin-megami-tensei-if.json](./270672-shin-megami-tensei-if.json) |
 | Shin Megami Tensei III: Nocturne | 336392 | [336392-shin-megami-tensei-iii-nocturne.json](./336392-shin-megami-tensei-iii-nocturne.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster | 135913 | [135913-shin-megami-tensei-iii-nocturne-hd-remaster.json](./135913-shin-megami-tensei-iii-nocturne-hd-remaster.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster: Chronicle Pack | 336554 | [336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json](./336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json) |
@@ -1605,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siphonogore | 291237 | [291237-siphonogore.json](./291237-siphonogore.json) |
 | Sir Ababol: Remastered Edition | 194641 | [194641-sir-ababol-remastered-edition.json](./194641-sir-ababol-remastered-edition.json) |
 | Sir Fallen: Supporter Pack | 312008 | [312008-sir-fallen-supporter-pack.json](./312008-sir-fallen-supporter-pack.json) |
+| Sir Fred | 270668 | [270668-sir-fred.json](./270668-sir-fred.json) |
 | Sira | 61626 | [61626-sira.json](./61626-sira.json) |
 | Siralim 3 | 100422 | [100422-siralim-3.json](./100422-siralim-3.json) |
 | Siren Head: Stranded | 309120 | [309120-siren-head-stranded.json](./309120-siren-head-stranded.json) |
@@ -2832,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceSlog | 197908 | [197908-spaceslog.json](./197908-spaceslog.json) |
 | SpaceSoldier3D | 320160 | [320160-spacesoldier3d.json](./320160-spacesoldier3d.json) |
 | Spacesona | 323552 | [323552-spacesona.json](./323552-spacesona.json) |
+| Spacetronic | 270683 | [270683-spacetronic.json](./270683-spacetronic.json) |
 | SpaceVenture | 63497 | [63497-spaceventure.json](./63497-spaceventure.json) |
 | Spacewar | 181938 | [181938-spacewar.json](./181938-spacewar.json) |
 | Spaceward Ho! | 47296 | [47296-spaceward-ho.json](./47296-spaceward-ho.json) |
