@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light the Candles in Hell | 340920 | [340920-light-the-candles-in-hell.json](./340920-light-the-candles-in-hell.json) |
 | Light the Way | 248286 | [248286-light-the-way.json](./248286-light-the-way.json) |
 | Light Up the Room | 161371 | [161371-light-up-the-room.json](./161371-light-up-the-room.json) |
+| Light-It Up: Complete Edition | 283170 | [283170-light-it-up-complete-edition.json](./283170-light-it-up-complete-edition.json) |
 | Light: Path of the Archmage | 392136 | [392136-light-path-of-the-archmage.json](./392136-light-path-of-the-archmage.json) |
 | Light: Rebirth-The falsehood | 53274 | [53274-light-rebirth-the-falsehood.json](./53274-light-rebirth-the-falsehood.json) |
 | Light's End | 294179 | [294179-lights-end.json](./294179-lights-end.json) |
