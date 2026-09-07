@@ -519,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of the Lizardmen | 142486 | [142486-temple-of-the-lizardmen.json](./142486-temple-of-the-lizardmen.json) |
 | Temple of the Lizardmen 2 | 142487 | [142487-temple-of-the-lizardmen-2.json](./142487-temple-of-the-lizardmen-2.json) |
 | Temple Run 2 | 336388 | [336388-temple-run-2.json](./336388-temple-run-2.json) |
+| Temples vs. Buildings | 296353 | [296353-temples-vs-buildings.json](./296353-temples-vs-buildings.json) |
 | Templum de Malum | 118399 | [118399-templum-de-malum.json](./118399-templum-de-malum.json) |
 | Tempo Nuts | 256542 | [256542-tempo-nuts.json](./256542-tempo-nuts.json) |
 | Tempoknight | 224204 | [224204-tempoknight.json](./224204-tempoknight.json) |
@@ -972,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cinderling | 404855 | [404855-the-cinderling.json](./404855-the-cinderling.json) |
 | The Circulation of Shadows | 271462 | [271462-the-circulation-of-shadows.json](./271462-the-circulation-of-shadows.json) |
 | The Citadel | 58820 | [58820-the-citadel.json](./58820-the-citadel.json) |
+| The Citizen | 296374 | [296374-the-citizen.json](./296374-the-citizen.json) |
 | The Citizen Kane of Video Games | 225271 | [225271-the-citizen-kane-of-video-games.json](./225271-the-citizen-kane-of-video-games.json) |
 | The City of the Damned | 141239 | [141239-the-city-of-the-damned.json](./141239-the-city-of-the-damned.json) |
 | The City of the Damned: Apocalypse | 141240 | [141240-the-city-of-the-damned-apocalypse.json](./141240-the-city-of-the-damned-apocalypse.json) |
@@ -988,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cold Forest | 211946 | [211946-the-cold-forest.json](./211946-the-cold-forest.json) |
 | The Cold Hand Reef | 326980 | [326980-the-cold-hand-reef.json](./326980-the-cold-hand-reef.json) |
 | The Collar | 268230 | [268230-the-collar.json](./268230-the-collar.json) |
+| The Collection | 296390 | [296390-the-collection.json](./296390-the-collection.json) |
 | The Collector | 238210 | [238210-the-collector.json](./238210-the-collector.json) |
 | The Colossus Is Coming: The Interactive Experience | 180287 | [180287-the-colossus-is-coming-the-interactive-experience.json](./180287-the-colossus-is-coming-the-interactive-experience.json) |
 | The Colour Beyond: A Zeroth Kind | 409590 | [409590-the-colour-beyond-a-zeroth-kind.json](./409590-the-colour-beyond-a-zeroth-kind.json) |
@@ -4047,6 +4050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truth Loop | 218735 | [218735-truth-loop.json](./218735-truth-loop.json) |
 | Truth Loop 2 | 246120 | [246120-truth-loop-2.json](./246120-truth-loop-2.json) |
 | Truth or Lies | 25217 | [25217-truth-or-lies.json](./25217-truth-or-lies.json) |
+| Truth Universally Acknowledged | 296370 | [296370-truth-universally-acknowledged.json](./296370-truth-universally-acknowledged.json) |
 | Truth: Disorder II | 98985 | [98985-truth-disorder-ii.json](./98985-truth-disorder-ii.json) |
 | Truth: Disorder III - Gemini | 116786 | [116786-truth-disorder-iii-gemini.json](./116786-truth-disorder-iii-gemini.json) |
 | Truxton Extreme | 287620 | [287620-truxton-extreme.json](./287620-truxton-extreme.json) |
