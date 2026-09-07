@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zafe's Adventures | 316423 | [316423-zafes-adventures.json](./316423-zafes-adventures.json) |
 | Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Kyouryoku: Kanken DS Training | 123032 | [123032-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kyouryoku-kanken-ds-training.json](./123032-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kyouryoku-kanken-ds-training.json) |
 | Zako Slayer | 228073 | [228073-zako-slayer.json](./228073-zako-slayer.json) |
+| Zalera Spark | 310935 | [310935-zalera-spark.json](./310935-zalera-spark.json) |
 | Zaleste | 329972 | [329972-zaleste.json](./329972-zaleste.json) |
 | Zamzara | 74429 | [74429-zamzara.json](./74429-zamzara.json) |
 | Zane | 233734 | [233734-zane.json](./233734-zane.json) |
