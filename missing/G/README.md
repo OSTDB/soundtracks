@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoldStorm Pirates | 326948 | [326948-goldstorm-pirates.json](./326948-goldstorm-pirates.json) |
 | Golf Around! | 126509 | [126509-golf-around.json](./126509-golf-around.json) |
 | Golf Cart Race | 105919 | [105919-golf-cart-race.json](./105919-golf-cart-race.json) |
+| Golf Guys: Complete Edition | 283174 | [283174-golf-guys-complete-edition.json](./283174-golf-guys-complete-edition.json) |
 | Golf Keeper | 130954 | [130954-golf-keeper.json](./130954-golf-keeper.json) |
 | Golf Loop | 329570 | [329570-golf-loop.json](./329570-golf-loop.json) |
 | Golf Master | 137673 | [137673-golf-master.json](./137673-golf-master.json) |
@@ -1236,6 +1237,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster: Touhou DLC Pack 02 | 361702 | [361702-groove-coaster-touhou-dlc-pack-02.json](./361702-groove-coaster-touhou-dlc-pack-02.json) |
 | Groove Coaster: Touhou DLC Pack 03 | 361701 | [361701-groove-coaster-touhou-dlc-pack-03.json](./361701-groove-coaster-touhou-dlc-pack-03.json) |
 | Groove Coaster: Undertale DLC Pack 01 | 361705 | [361705-groove-coaster-undertale-dlc-pack-01.json](./361705-groove-coaster-undertale-dlc-pack-01.json) |
+| Groove Coaster: Wai Wai Party!!!! - Undertale + Deltarune Pack | 283179 | [283179-groove-coaster-wai-wai-party-undertale-deltarune-pack.json](./283179-groove-coaster-wai-wai-party-undertale-deltarune-pack.json) |
+| Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 9 | 283180 | [283180-groove-coaster-wai-wai-party-vocaloid-pack-9.json](./283180-groove-coaster-wai-wai-party-vocaloid-pack-9.json) |
 | Groove Runner | 130961 | [130961-groove-runner.json](./130961-groove-runner.json) |
 | Groove that Goob | 285972 | [285972-groove-that-goob.json](./285972-groove-that-goob.json) |
 | Grooverland | 230547 | [230547-grooverland.json](./230547-grooverland.json) |
