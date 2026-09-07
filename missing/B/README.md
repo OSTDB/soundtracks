@@ -611,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Rage: Mech Conflict | 78683 | [78683-battle-rage-mech-conflict.json](./78683-battle-rage-mech-conflict.json) |
 | Battle Raper | 22407 | [22407-battle-raper.json](./22407-battle-raper.json) |
 | Battle Raper II | 22418 | [22418-battle-raper-ii.json](./22418-battle-raper-ii.json) |
+| Battle Records of Rota | 264021 | [264021-battle-records-of-rota.json](./264021-battle-records-of-rota.json) |
 | Battle Rift | 211428 | [211428-battle-rift.json](./211428-battle-rift.json) |
 | Battle Royale with Cheese | 295529 | [295529-battle-royale-with-cheese.json](./295529-battle-royale-with-cheese.json) |
 | Battle Runner | 75919 | [75919-battle-runner.json](./75919-battle-runner.json) |
@@ -948,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Mountain | 173299 | [173299-beneath-the-mountain.json](./173299-beneath-the-mountain.json) |
 | Beneath the Waves | 319393 | [319393-beneath-the-waves.json](./319393-beneath-the-waves.json) |
 | Beneath their Names | 406689 | [406689-beneath-their-names.json](./406689-beneath-their-names.json) |
+| Benefitship | 264022 | [264022-benefitship.json](./264022-benefitship.json) |
 | Bengbo | 257104 | [257104-bengbo.json](./257104-bengbo.json) |
 | Benji and the Crystal of Light | 324325 | [324325-benji-and-the-crystal-of-light.json](./324325-benji-and-the-crystal-of-light.json) |
 | Benkei Gaiden | 80572 | [80572-benkei-gaiden.json](./80572-benkei-gaiden.json) |
@@ -1842,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoomScroll | 400236 | [400236-boomscroll.json](./400236-boomscroll.json) |
 | Booox | 410222 | [410222-booox.json](./410222-booox.json) |
 | Boopie Island | 406732 | [406732-boopie-island.json](./406732-boopie-island.json) |
+| Boosted | 264053 | [264053-boosted.json](./264053-boosted.json) |
 | Boosted Survivors | 314666 | [314666-boosted-survivors.json](./314666-boosted-survivors.json) |
 | Boot Hill Heroes 2 | 60561 | [60561-boot-hill-heroes-2.json](./60561-boot-hill-heroes-2.json) |
 | Bootlegger's Racing Story | 258717 | [258717-bootleggers-racing-story.json](./258717-bootleggers-racing-story.json) |
