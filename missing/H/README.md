@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | H Girl 4 | 301810 | [301810-h-girl-4.json](./301810-h-girl-4.json) |
 | H.E.R.O. | 6112 | [6112-h-e-r-o.json](./6112-h-e-r-o.json) |
+| H.O.G.S | 296914 | [296914-h-o-g-s.json](./296914-h-o-g-s.json) |
 | H@ck3r++ | 179191 | [179191-h-ck3r.json](./179191-h-ck3r.json) |
 | H2O: Footprints in the Sand | 72719 | [72719-h2o-footprints-in-the-sand.json](./72719-h2o-footprints-in-the-sand.json) |
 | H7N9 | 305752 | [305752-h7n9.json](./305752-h7n9.json) |
@@ -264,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harley Pasternak's Hollywood Workout | 50963 | [50963-harley-pasternaks-hollywood-workout.json](./50963-harley-pasternaks-hollywood-workout.json) |
 | Harmagedon | 340416 | [340416-harmagedon.json](./340416-harmagedon.json) |
 | HarmoKnight | 18156 | [18156-harmoknight.json](./18156-harmoknight.json) |
+| Harmoni | 296903 | [296903-harmoni.json](./296903-harmoni.json) |
 | Harpoon Classic '97 | 365063 | [365063-harpoon-classic-97.json](./365063-harpoon-classic-97.json) |
 | Harpoon Lagoon | 309332 | [309332-harpoon-lagoon.json](./309332-harpoon-lagoon.json) |
 | Harpoon Reef Hunter | 253570 | [253570-harpoon-reef-hunter.json](./253570-harpoon-reef-hunter.json) |
@@ -409,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headquarters: World War II - Ardennes | 324926 | [324926-headquarters-world-war-ii-ardennes.json](./324926-headquarters-world-war-ii-ardennes.json) |
 | Headrooms | 334472 | [334472-headrooms.json](./334472-headrooms.json) |
 | Heads Run | 82128 | [82128-heads-run.json](./82128-heads-run.json) |
+| Heads Will Roll: Reforged - Not a Hero | 296904 | [296904-heads-will-roll-reforged-not-a-hero.json](./296904-heads-will-roll-reforged-not-a-hero.json) |
 | Heads Will Roll: Reforged - Threads of Destiny | 327860 | [327860-heads-will-roll-reforged-threads-of-destiny.json](./327860-heads-will-roll-reforged-threads-of-destiny.json) |
 | Heads-Up | 231634 | [231634-heads-up.json](./231634-heads-up.json) |
 | Headspun: Dazed Edition | 134664 | [134664-headspun-dazed-edition.json](./134664-headspun-dazed-edition.json) |
@@ -521,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heist Game: It's Only Illegal if You Get Caught This Is Not Legal Advice Only a Title | 177564 | [177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json](./177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json) |
 | Heiwa Pachinko World 64 | 3510 | [3510-heiwa-pachinko-world-64.json](./3510-heiwa-pachinko-world-64.json) |
 | Heldric: The Legend of the Shoemaker | 17233 | [17233-heldric-the-legend-of-the-shoemaker.json](./17233-heldric-the-legend-of-the-shoemaker.json) |
+| Helenenkapelle VR | 296900 | [296900-helenenkapelle-vr.json](./296900-helenenkapelle-vr.json) |
 | Heli War | 243934 | [243934-heli-war.json](./243934-heli-war.json) |
 | Heli-Cats | 238758 | [238758-heli-cats.json](./238758-heli-cats.json) |
 | Helicopter Flight Simulator | 319980 | [319980-helicopter-flight-simulator.json](./319980-helicopter-flight-simulator.json) |
@@ -648,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls Slide | 277596 | [277596-hentai-girls-slide.json](./277596-hentai-girls-slide.json) |
 | Hentai Girls: Magnificent Edition | 298572 | [298572-hentai-girls-magnificent-edition.json](./298572-hentai-girls-magnificent-edition.json) |
 | Hentai Girls: Paris Romance | 314871 | [314871-hentai-girls-paris-romance.json](./314871-hentai-girls-paris-romance.json) |
+| Hentai Girls: Sexy Feet Goddesses | 296907 | [296907-hentai-girls-sexy-feet-goddesses.json](./296907-hentai-girls-sexy-feet-goddesses.json) |
 | Hentai Girls: Ultra Extended | 308817 | [308817-hentai-girls-ultra-extended.json](./308817-hentai-girls-ultra-extended.json) |
 | Hentai Golf: Happy Edition | 315861 | [315861-hentai-golf-happy-edition.json](./315861-hentai-golf-happy-edition.json) |
 | Hentai Golf: Platinum Edition | 308801 | [308801-hentai-golf-platinum-edition.json](./308801-hentai-golf-platinum-edition.json) |
@@ -657,10 +662,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Jigsaw Puzzle Collection: Autumn | 371234 | [371234-hentai-jigsaw-puzzle-collection-autumn.json](./371234-hentai-jigsaw-puzzle-collection-autumn.json) |
 | Hentai Jigsaw Puzzle Collection: Christmas Edition | 235476 | [235476-hentai-jigsaw-puzzle-collection-christmas-edition.json](./235476-hentai-jigsaw-puzzle-collection-christmas-edition.json) |
 | Hentai Jigsaw Puzzle Collection: Spring Edition | 263218 | [263218-hentai-jigsaw-puzzle-collection-spring-edition.json](./263218-hentai-jigsaw-puzzle-collection-spring-edition.json) |
+| Hentai Milf | 296908 | [296908-hentai-milf.json](./296908-hentai-milf.json) |
 | Hentai Misuzu | 296670 | [296670-hentai-misuzu.json](./296670-hentai-misuzu.json) |
 | Hentai Mosaique Fix-IT Shoppe | 139429 | [139429-hentai-mosaique-fix-it-shoppe.json](./139429-hentai-mosaique-fix-it-shoppe.json) |
 | Hentai Mosaique Neko Waifus | 167807 | [167807-hentai-mosaique-neko-waifus.json](./167807-hentai-mosaique-neko-waifus.json) |
+| Hentai Nana | 296947 | [296947-hentai-nana.json](./296947-hentai-nana.json) |
 | Hentai no Hero | 110358 | [110358-hentai-no-hero.json](./110358-hentai-no-hero.json) |
+| Hentai Nurse | 296945 | [296945-hentai-nurse.json](./296945-hentai-nurse.json) |
 | Hentai Paradise Vol. 2 | 313153 | [313153-hentai-paradise-vol-2.json](./313153-hentai-paradise-vol-2.json) |
 | Hentai Party: Secret Garden | 371251 | [371251-hentai-party-secret-garden.json](./371251-hentai-party-secret-garden.json) |
 | Hentai Party: Summer Paradise | 371249 | [371249-hentai-party-summer-paradise.json](./371249-hentai-party-summer-paradise.json) |
@@ -676,9 +684,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stars: Superb Edition | 314885 | [314885-hentai-stars-superb-edition.json](./314885-hentai-stars-superb-edition.json) |
 | Hentai Tales: Triangle That Wants Me All | 401532 | [401532-hentai-tales-triangle-that-wants-me-all.json](./401532-hentai-tales-triangle-that-wants-me-all.json) |
 | Hentai vs. Orcs | 161388 | [161388-hentai-vs-orcs.json](./161388-hentai-vs-orcs.json) |
+| Hentai Witch | 296949 | [296949-hentai-witch.json](./296949-hentai-witch.json) |
 | Hentai World: Ultra Deluxe | 308818 | [308818-hentai-world-ultra-deluxe.json](./308818-hentai-world-ultra-deluxe.json) |
 | Hentai World: Ultra Extended | 313144 | [313144-hentai-world-ultra-extended.json](./313144-hentai-world-ultra-extended.json) |
+| Hentai: Beach Day | 296905 | [296905-hentai-beach-day.json](./296905-hentai-beach-day.json) |
 | Hentai: Color by Number | 368515 | [368515-hentai-color-by-number.json](./368515-hentai-color-by-number.json) |
+| Hentai: Devil Girls | 296906 | [296906-hentai-devil-girls.json](./296906-hentai-devil-girls.json) |
+| Hentai: Waifu World | 296950 | [296950-hentai-waifu-world.json](./296950-hentai-waifu-world.json) |
+| Hentaimon | 296946 | [296946-hentaimon.json](./296946-hentaimon.json) |
 | Henteria Chronicles: The Peacekeepers | 334495 | [334495-henteria-chronicles-the-peacekeepers.json](./334495-henteria-chronicles-the-peacekeepers.json) |
 | Hephep Fever: Retold | 334476 | [334476-hephep-fever-retold.json](./334476-hephep-fever-retold.json) |
 | Her | 105347 | [105347-her.json](./105347-her.json) |
@@ -1036,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoard: Flame-Broiled Sandwich | 171076 | [171076-hoard-flame-broiled-sandwich.json](./171076-hoard-flame-broiled-sandwich.json) |
 | Hoards of Glory | 156688 | [156688-hoards-of-glory.json](./156688-hoards-of-glory.json) |
 | Hobby Module | 74413 | [74413-hobby-module.json](./74413-hobby-module.json) |
+| Hobgoblins Against Dwarfs | 296915 | [296915-hobgoblins-against-dwarfs.json](./296915-hobgoblins-against-dwarfs.json) |
 | Hobo with a Shotgun | 63872 | [63872-hobo-with-a-shotgun.json](./63872-hobo-with-a-shotgun.json) |
 | Hoboman | 255965 | [255965-hoboman.json](./255965-hoboman.json) |
 | Hockey Fights | 93559 | [93559-hockey-fights.json](./93559-hockey-fights.json) |
@@ -1134,6 +1148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homework Salesman | 181926 | [181926-homework-salesman.json](./181926-homework-salesman.json) |
 | Homeworld: Vast Reaches | 301250 | [301250-homeworld-vast-reaches.json](./301250-homeworld-vast-reaches.json) |
 | Homicipher | 247905 | [247905-homicipher.json](./247905-homicipher.json) |
+| Homing Instinct | 296913 | [296913-homing-instinct.json](./296913-homing-instinct.json) |
 | Homing Missiles! | 25786 | [25786-homing-missiles.json](./25786-homing-missiles.json) |
 | Homura | 43330 | [43330-homura.json](./43330-homura.json) |
 | Homura: The Crimson Warriors - Deluxe Edition | 390530 | [390530-homura-the-crimson-warriors-deluxe-edition.json](./390530-homura-the-crimson-warriors-deluxe-edition.json) |
@@ -1229,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hormiga Escape | 315255 | [315255-hormiga-escape.json](./315255-hormiga-escape.json) |
 | Hormiga Escape 2 | 315256 | [315256-hormiga-escape-2.json](./315256-hormiga-escape-2.json) |
 | Horn and Shields | 319959 | [319959-horn-and-shields.json](./319959-horn-and-shields.json) |
+| Horn of Balance | 296912 | [296912-horn-of-balance.json](./296912-horn-of-balance.json) |
 | Horror Clash | 319969 | [319969-horror-clash.json](./319969-horror-clash.json) |
 | Horror Drift | 187531 | [187531-horror-drift.json](./187531-horror-drift.json) |
 | Horror Hospital | 29915 | [29915-horror-hospital.json](./29915-horror-hospital.json) |
@@ -1260,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot and Lovely 4 | 170556 | [170556-hot-and-lovely-4.json](./170556-hot-and-lovely-4.json) |
 | Hot And Lovely Waifu XXII | 318430 | [318430-hot-and-lovely-waifu-xxii.json](./318430-hot-and-lovely-waifu-xxii.json) |
 | Hot And Lovely XXII | 318431 | [318431-hot-and-lovely-xxii.json](./318431-hot-and-lovely-xxii.json) |
+| Hot And Lovely: Dream | 296911 | [296911-hot-and-lovely-dream.json](./296911-hot-and-lovely-dream.json) |
 | Hot Cocoa Magic! | 249469 | [249469-hot-cocoa-magic.json](./249469-hot-cocoa-magic.json) |
 | Hot Dodge! | 158721 | [158721-hot-dodge.json](./158721-hot-dodge.json) |
 | Hot Dog Bush | 159351 | [159351-hot-dog-bush.json](./159351-hot-dog-bush.json) |
@@ -1270,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Mars 69 | 89587 | [89587-hot-mars-69.json](./89587-hot-mars-69.json) |
 | Hot Milf 4 | 192441 | [192441-hot-milf-4.json](./192441-hot-milf-4.json) |
 | Hot Milf 9 | 224222 | [224222-hot-milf-9.json](./224222-hot-milf-9.json) |
+| Hot Office: Sex Story | 296910 | [296910-hot-office-sex-story.json](./296910-hot-office-sex-story.json) |
 | Hot Pool | 74454 | [74454-hot-pool.json](./74454-hot-pool.json) |
 | Hot Runback: VR Runner | 68656 | [68656-hot-runback-vr-runner.json](./68656-hot-runback-vr-runner.json) |
 | Hot Shot | 317877 | [317877-hot-shot.json](./317877-hot-shot.json) |
@@ -1353,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Hazard | 30890 | [30890-hover-hazard.json](./30890-hover-hazard.json) |
 | Hover Junkers | 18903 | [18903-hover-junkers.json](./18903-hover-junkers.json) |
 | Hover Strike | 40812 | [40812-hover-strike.json](./40812-hover-strike.json) |
+| Hoverbear | 296909 | [296909-hoverbear.json](./296909-hoverbear.json) |
 | Hovercars 3077: Underground racing | 192436 | [192436-hovercars-3077-underground-racing.json](./192436-hovercars-3077-underground-racing.json) |
 | Hovercraft Race 3D | 26691 | [26691-hovercraft-race-3d.json](./26691-hovercraft-race-3d.json) |
 | HoverGrease 2 | 330535 | [330535-hovergrease-2.json](./330535-hovergrease-2.json) |
@@ -1456,8 +1475,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt and Fight | 291223 | [291223-hunt-and-fight.json](./291223-hunt-and-fight.json) |
 | Hunt Asylum Together | 406702 | [406702-hunt-asylum-together.json](./406702-hunt-asylum-together.json) |
 | Hunt for Junk | 205247 | [205247-hunt-for-junk.json](./205247-hunt-for-junk.json) |
+| Hunt Hide Run | 296916 | [296916-hunt-hide-run.json](./296916-hunt-hide-run.json) |
 | Hunt Royale | 159347 | [159347-hunt-royale.json](./159347-hunt-royale.json) |
 | Hunt: Showdown - Fear the Reaper | 224219 | [224219-hunt-showdown-fear-the-reaper.json](./224219-hunt-showdown-fear-the-reaper.json) |
+| Hunt: Showdown 1896 - The Son of Gunpowder | 296920 | [296920-hunt-showdown-1896-the-son-of-gunpowder.json](./296920-hunt-showdown-1896-the-son-of-gunpowder.json) |
 | Hunter A Hunter | 192461 | [192461-hunter-a-hunter.json](./192461-hunter-a-hunter.json) |
 | Hunter Beat | 296650 | [296650-hunter-beat.json](./296650-hunter-beat.json) |
 | Hunter Desert Simulator: Sniper Rifle | 409533 | [409533-hunter-desert-simulator-sniper-rifle.json](./409533-hunter-desert-simulator-sniper-rifle.json) |
@@ -1556,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyphen | 24566 | [24566-hyphen.json](./24566-hyphen.json) |
 | Hypnaborea | 396243 | [396243-hypnaborea.json](./396243-hypnaborea.json) |
 | Hypnagogia: Boundless Dreams | 159865 | [159865-hypnagogia-boundless-dreams.json](./159865-hypnagogia-boundless-dreams.json) |
+| Hypnosis Card 2 | 296917 | [296917-hypnosis-card-2.json](./296917-hypnosis-card-2.json) |
 | Hypnosis Done Braves | 82926 | [82926-hypnosis-done-braves.json](./82926-hypnosis-done-braves.json) |
 | Hypnosis of Corruption | 331124 | [331124-hypnosis-of-corruption.json](./331124-hypnosis-of-corruption.json) |
 | Hypnosis: Quiet Nights | 352744 | [352744-hypnosis-quiet-nights.json](./352744-hypnosis-quiet-nights.json) |
