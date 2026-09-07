@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiskers Wonderland | 306092 | [306092-whiskers-wonderland.json](./306092-whiskers-wonderland.json) |
 | Whiskerwood | 309324 | [309324-whiskerwood.json](./309324-whiskerwood.json) |
 | Whiskey Bravo | 189174 | [189174-whiskey-bravo.json](./189174-whiskey-bravo.json) |
+| Whisper Forest | 304611 | [304611-whisper-forest.json](./304611-whisper-forest.json) |
 | Whisper of the House | 312555 | [312555-whisper-of-the-house.json](./312555-whisper-of-the-house.json) |
 | Whisper Trip | 154008 | [154008-whisper-trip.json](./154008-whisper-trip.json) |
 | Whispered Flight | 274738 | [274738-whispered-flight.json](./274738-whispered-flight.json) |
@@ -847,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Lady | 248929 | [248929-wizard-lady.json](./248929-wizard-lady.json) |
 | Wizard Man | 211927 | [211927-wizard-man.json](./211927-wizard-man.json) |
 | Wizard of Wall Street | 68043 | [68043-wizard-of-wall-street.json](./68043-wizard-of-wall-street.json) |
+| Wizard Pulse | 304573 | [304573-wizard-pulse.json](./304573-wizard-pulse.json) |
 | Wizard Soup | 408812 | [408812-wizard-soup.json](./408812-wizard-soup.json) |
 | Wizard Warfare | 127196 | [127196-wizard-warfare.json](./127196-wizard-warfare.json) |
 | Wizard with a Gun: Bounty Hunter Pack | 293391 | [293391-wizard-with-a-gun-bounty-hunter-pack.json](./293391-wizard-with-a-gun-bounty-hunter-pack.json) |
