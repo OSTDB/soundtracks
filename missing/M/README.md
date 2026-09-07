@@ -1145,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Match Saga: Expansion Pack 9 | 167328 | [167328-memory-match-saga-expansion-pack-9.json](./167328-memory-match-saga-expansion-pack-9.json) |
 | Memory of a Broken Dimension | 24950 | [24950-memory-of-a-broken-dimension.json](./24950-memory-of-a-broken-dimension.json) |
 | Memory of Time | 339123 | [339123-memory-of-time.json](./339123-memory-of-time.json) |
+| Memory Puzzle: Neko Girls | 286496 | [286496-memory-puzzle-neko-girls.json](./286496-memory-puzzle-neko-girls.json) |
 | Memory Quickie | 310754 | [310754-memory-quickie.json](./310754-memory-quickie.json) |
 | Memory Shake | 341465 | [341465-memory-shake.json](./341465-memory-shake.json) |
 | Memory Train | 412986 | [412986-memory-train.json](./412986-memory-train.json) |
@@ -1882,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Model 3 Test Drive | 96057 | [96057-model-3-test-drive.json](./96057-model-3-test-drive.json) |
 | Model Builder: Alaskan Road Truckers | 277586 | [277586-model-builder-alaskan-road-truckers.json](./277586-model-builder-alaskan-road-truckers.json) |
 | Model Employee | 274732 | [274732-model-employee.json](./274732-model-employee.json) |
+| Model Melissa | 286521 | [286521-model-melissa.json](./286521-model-melissa.json) |
 | Model Oshare Audition Dream Girl | 222499 | [222499-model-oshare-audition-dream-girl.json](./222499-model-oshare-audition-dream-girl.json) |
 | Model Sisters | 414310 | [414310-model-sisters.json](./414310-model-sisters.json) |
 | Model Style: Dress Up! | 314878 | [314878-model-style-dress-up.json](./314878-model-style-dress-up.json) |
@@ -2667,6 +2669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Bath Tub Companion | 304583 | [304583-my-bath-tub-companion.json](./304583-my-bath-tub-companion.json) |
 | My Billionaire Girlfriend | 220335 | [220335-my-billionaire-girlfriend.json](./220335-my-billionaire-girlfriend.json) |
 | My Boss Is Scaring Me | 341346 | [341346-my-boss-is-scaring-me.json](./341346-my-boss-is-scaring-me.json) |
+| My Breast Friend Sally | 286500 | [286500-my-breast-friend-sally.json](./286500-my-breast-friend-sally.json) |
 | My Brother the Sacrifice | 123643 | [123643-my-brother-the-sacrifice.json](./123643-my-brother-the-sacrifice.json) |
 | My Butler | 32274 | [32274-my-butler.json](./32274-my-butler.json) |
 | My Car My Life | 373542 | [373542-my-car-my-life.json](./373542-my-car-my-life.json) |
@@ -2757,6 +2760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Riding Champion | 109006 | [109006-my-little-riding-champion.json](./109006-my-little-riding-champion.json) |
 | My Little Sister Callie | 321767 | [321767-my-little-sister-callie.json](./321767-my-little-sister-callie.json) |
 | My Little Spider | 374616 | [374616-my-little-spider.json](./374616-my-little-spider.json) |
+| My Little Universe: Demodium | 286542 | [286542-my-little-universe-demodium.json](./286542-my-little-universe-demodium.json) |
 | My Lovely Dog Adventure | 263231 | [263231-my-lovely-dog-adventure.json](./263231-my-lovely-dog-adventure.json) |
 | My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
 | My Monster | 318391 | [318391-my-monster.json](./318391-my-monster.json) |
