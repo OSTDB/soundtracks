@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Software wo Tsukurou | 333557 | [333557-game-software-wo-tsukurou.json](./333557-game-software-wo-tsukurou.json) |
 | Game Title: Lost Levels | 143097 | [143097-game-title-lost-levels.json](./143097-game-title-lost-levels.json) |
 | Game Tycoon | 127332 | [127332-game-tycoon.json](./127332-game-tycoon.json) |
+| Game with Friends | 299748 | [299748-game-with-friends.json](./299748-game-with-friends.json) |
 | Game-Pac | 319582 | [319582-game-pac.json](./319582-game-pac.json) |
 | Game.exe | 142467 | [142467-game-exe.json](./142467-game-exe.json) |
 | Gamebook Adventures 8: Curse of the Assassin | 174344 | [174344-gamebook-adventures-8-curse-of-the-assassin.json](./174344-gamebook-adventures-8-curse-of-the-assassin.json) |
@@ -517,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GigaBash: Ultraman - Rising DLC | 404829 | [404829-gigabash-ultraman-rising-dlc.json](./404829-gigabash-ultraman-rising-dlc.json) |
 | GigaBash: Ultraman Zero | 404820 | [404820-gigabash-ultraman-zero.json](./404820-gigabash-ultraman-zero.json) |
 | Gigachess: Brilliant Blitz Level Pack | 166224 | [166224-gigachess-brilliant-blitz-level-pack.json](./166224-gigachess-brilliant-blitz-level-pack.json) |
+| Gigantic Gear | 299729 | [299729-gigantic-gear.json](./299729-gigantic-gear.json) |
 | Gigantosaurus Dino Kart | 219436 | [219436-gigantosaurus-dino-kart.json](./219436-gigantosaurus-dino-kart.json) |
 | Gigolo | 40777 | [40777-gigolo.json](./40777-gigolo.json) |
 | Gilbert and the chemystical island | 319364 | [319364-gilbert-and-the-chemystical-island.json](./319364-gilbert-and-the-chemystical-island.json) |
@@ -1281,6 +1283,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear Xrd: Revelator - Let's Rock! Edition | 89928 | [89928-guilty-gear-xrd-revelator-lets-rock-edition.json](./89928-guilty-gear-xrd-revelator-lets-rock-edition.json) |
 | Guilty Gear Xrd: Sign - Character Colors Christmas Set | 315513 | [315513-guilty-gear-xrd-sign-character-colors-christmas-set.json](./315513-guilty-gear-xrd-sign-character-colors-christmas-set.json) |
 | Guilty Gear XX Accent Core | 9145 | [9145-guilty-gear-xx-accent-core.json](./9145-guilty-gear-xx-accent-core.json) |
+| Guilty Gear: Strive - Additional Battle Stage: Amber Fest with Kind Neighbors | 299723 | [299723-guilty-gear-strive-additional-battle-stage-amber-fest-with-kind-neighbors.json](./299723-guilty-gear-strive-additional-battle-stage-amber-fest-with-kind-neighbors.json) |
+| Guilty Gear: Strive - Additional Character 13: Slayer | 299722 | [299722-guilty-gear-strive-additional-character-13-slayer.json](./299722-guilty-gear-strive-additional-character-13-slayer.json) |
 | Guilty Gear: Strive - Additional Character 6: Bridget | 213005 | [213005-guilty-gear-strive-additional-character-6-bridget.json](./213005-guilty-gear-strive-additional-character-6-bridget.json) |
 | Guinea Pig Gunner | 411580 | [411580-guinea-pig-gunner.json](./411580-guinea-pig-gunner.json) |
 | Guinness World Records 2010: Gamer's Edition | 21746 | [21746-guinness-world-records-2010-gamers-edition.json](./21746-guinness-world-records-2010-gamers-edition.json) |
