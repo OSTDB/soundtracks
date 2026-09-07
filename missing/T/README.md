@@ -591,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraGenesis - Space Colony | 102762 | [102762-terragenesis-space-colony.json](./102762-terragenesis-space-colony.json) |
 | Terrapins | 185141 | [185141-terrapins.json](./185141-terrapins.json) |
 | Terraria: Calamity Mod | 141229 | [141229-terraria-calamity-mod.json](./141229-terraria-calamity-mod.json) |
+| TerrariaCraft | 300699 | [300699-terrariacraft.json](./300699-terrariacraft.json) |
 | Terre Scramble! | 260427 | [260427-terre-scramble.json](./260427-terre-scramble.json) |
 | Terrene: An Evidence of Life Game | 169429 | [169429-terrene-an-evidence-of-life-game.json](./169429-terrene-an-evidence-of-life-game.json) |
 | Terrestrial | 311826 | [311826-terrestrial.json](./311826-terrestrial.json) |
@@ -919,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The California Raisins: The Grape Escape | 48702 | [48702-the-california-raisins-the-grape-escape.json](./48702-the-california-raisins-the-grape-escape.json) |
 | The Caligula Effect: Overdose | 75990 | [75990-the-caligula-effect-overdose.json](./75990-the-caligula-effect-overdose.json) |
 | The Call Button | 400871 | [400871-the-call-button.json](./400871-the-call-button.json) |
+| The Call of the Rats | 300702 | [300702-the-call-of-the-rats.json](./300702-the-call-of-the-rats.json) |
 | The Callisto Protocol: Outer Way Skin Collection | 308274 | [308274-the-callisto-protocol-outer-way-skin-collection.json](./308274-the-callisto-protocol-outer-way-skin-collection.json) |
 | The Callisto Protocol: Riot Bundle | 272560 | [272560-the-callisto-protocol-riot-bundle.json](./272560-the-callisto-protocol-riot-bundle.json) |
 | The Campsite | 326605 | [326605-the-campsite.json](./326605-the-campsite.json) |
@@ -2183,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Yard Charm Kit | 404230 | [404230-the-sims-4-yard-charm-kit.json](./404230-the-sims-4-yard-charm-kit.json) |
 | The Sims Bustin' Out | 4151 | [4151-the-sims-bustin-out.json](./4151-the-sims-bustin-out.json) |
 | The Sims: Legacy Collection | 329954 | [329954-the-sims-legacy-collection.json](./329954-the-sims-legacy-collection.json) |
+| The Simuloid Affair: Infinite Possibilities | 300692 | [300692-the-simuloid-affair-infinite-possibilities.json](./300692-the-simuloid-affair-infinite-possibilities.json) |
 | The Sinking City 2 | 289696 | [289696-the-sinking-city-2.json](./289696-the-sinking-city-2.json) |
 | The Sinking City: Investigator Pack | 308567 | [308567-the-sinking-city-investigator-pack.json](./308567-the-sinking-city-investigator-pack.json) |
 | The Sinking City: Whisper of Darkness Pass | 208047 | [208047-the-sinking-city-whisper-of-darkness-pass.json](./208047-the-sinking-city-whisper-of-darkness-pass.json) |
@@ -2943,6 +2946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiki Tiki Hop | 209672 | [209672-tiki-tiki-hop.json](./209672-tiki-tiki-hop.json) |
 | Tiki Towers | 79912 | [79912-tiki-towers.json](./79912-tiki-towers.json) |
 | Tilde and the 9 Mystical Glorbos | 394834 | [394834-tilde-and-the-9-mystical-glorbos.json](./394834-tilde-and-the-9-mystical-glorbos.json) |
+| Tile Cross | 300723 | [300723-tile-cross.json](./300723-tile-cross.json) |
 | Tile Game Classic | 88272 | [88272-tile-game-classic.json](./88272-tile-game-classic.json) |
 | Tile Jong | 336379 | [336379-tile-jong.json](./336379-tile-jong.json) |
 | Tile Tales: Pirate | 325250 | [325250-tile-tales-pirate.json](./325250-tile-tales-pirate.json) |
@@ -4193,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Atmospheric Atrocities | 331685 | [331685-two-atmospheric-atrocities.json](./331685-two-atmospheric-atrocities.json) |
 | Two Die | 142501 | [142501-two-die.json](./142501-two-die.json) |
 | Two Eyes: Nonogram | 292820 | [292820-two-eyes-nonogram.json](./292820-two-eyes-nonogram.json) |
+| Two Faced | 300719 | [300719-two-faced.json](./300719-two-faced.json) |
 | Two Heads of the Coin | 86082 | [86082-two-heads-of-the-coin.json](./86082-two-heads-of-the-coin.json) |
 | Two Hoops | 234317 | [234317-two-hoops.json](./234317-two-hoops.json) |
 | Two Kiss with Two Men | 303272 | [303272-two-kiss-with-two-men.json](./303272-two-kiss-with-two-men.json) |
