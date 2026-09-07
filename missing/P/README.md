@@ -915,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pin Zhi | 304893 | [304893-pin-zhi.json](./304893-pin-zhi.json) |
 | Pin-Bowler | 92541 | [92541-pin-bowler.json](./92541-pin-bowler.json) |
 | Pina Colada 2 | 321367 | [321367-pina-colada-2.json](./321367-pina-colada-2.json) |
+| Pinata Hunter | 267387 | [267387-pinata-hunter.json](./267387-pinata-hunter.json) |
 | Pinball | 44636 | [44636-pinball.json](./44636-pinball.json) |
 | Pinball Arcade Season 2 | 141861 | [141861-pinball-arcade-season-2.json](./141861-pinball-arcade-season-2.json) |
 | Pinball Arcade: AC/DC | 349341 | [349341-pinball-arcade-ac-dc.json](./349341-pinball-arcade-ac-dc.json) |
@@ -1107,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Japan Jigsaws | 389414 | [389414-pixel-puzzles-japan-jigsaws.json](./389414-pixel-puzzles-japan-jigsaws.json) |
 | Pixel Puzzles Traditional Jigsaws Pack: Korea | 247775 | [247775-pixel-puzzles-traditional-jigsaws-pack-korea.json](./247775-pixel-puzzles-traditional-jigsaws-pack-korea.json) |
 | Pixel Puzzles Traditional Jigsaws Pack: Variety Pack 9 | 260419 | [260419-pixel-puzzles-traditional-jigsaws-pack-variety-pack-9.json](./260419-pixel-puzzles-traditional-jigsaws-pack-variety-pack-9.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 11 | 267407 | [267407-pixel-puzzles-traditional-jigsaws-pack-variety-pack-11.json](./267407-pixel-puzzles-traditional-jigsaws-pack-variety-pack-11.json) |
 | Pixel Puzzles Ultimate Jigsaw: Civil Unrest | 293072 | [293072-pixel-puzzles-ultimate-jigsaw-civil-unrest.json](./293072-pixel-puzzles-ultimate-jigsaw-civil-unrest.json) |
 | Pixel Puzzles Ultimate Jigsaw: Variety Pack 23 | 293071 | [293071-pixel-puzzles-ultimate-jigsaw-variety-pack-23.json](./293071-pixel-puzzles-ultimate-jigsaw-variety-pack-23.json) |
 | Pixel Puzzles Ultimate: Puzzle Pack 2000 AD | 163416 | [163416-pixel-puzzles-ultimate-puzzle-pack-2000-ad.json](./163416-pixel-puzzles-ultimate-puzzle-pack-2000-ad.json) |
