@@ -925,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Richman 9 | 125453 | [125453-richman-9.json](./125453-richman-9.json) |
 | Richman Online | 125441 | [125441-richman-online.json](./125441-richman-online.json) |
 | Richup.io | 141249 | [141249-richup-io.json](./141249-richup-io.json) |
+| Rick and Morty Game | 307573 | [307573-rick-and-morty-game.json](./307573-rick-and-morty-game.json) |
 | Rick and Morty: Virtual Rick-ality | 20459 | [20459-rick-and-morty-virtual-rick-ality.json](./20459-rick-and-morty-virtual-rick-ality.json) |
 | Ricochet | 209166 | [209166-ricochet.json](./209166-ricochet.json) |
 | Ricochet Blur | 226453 | [226453-ricochet-blur.json](./226453-ricochet-blur.json) |
@@ -1140,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RobinBobin | 138220 | [138220-robinbobin.json](./138220-robinbobin.json) |
 | RobinWords | 303237 | [303237-robinwords.json](./303237-robinwords.json) |
 | Robo Boop | 89970 | [89970-robo-boop.json](./89970-robo-boop.json) |
+| Robo Panic | 307599 | [307599-robo-panic.json](./307599-robo-panic.json) |
 | Robo Rangers | 388744 | [388744-robo-rangers.json](./388744-robo-rangers.json) |
 | Robo Rescue | 328489 | [328489-robo-rescue.json](./328489-robo-rescue.json) |
 | Robo Wars | 196316 | [196316-robo-wars.json](./196316-robo-wars.json) |
