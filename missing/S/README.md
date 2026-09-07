@@ -1725,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Survivors | 304878 | [304878-slime-survivors.json](./304878-slime-survivors.json) |
 | Slime Time! | 106591 | [106591-slime-time.json](./106591-slime-time.json) |
 | Slime Tower | 351600 | [351600-slime-tower.json](./351600-slime-tower.json) |
+| Slime Voyage | 312575 | [312575-slime-voyage.json](./312575-slime-voyage.json) |
 | Slime-san | 28069 | [28069-slime-san.json](./28069-slime-san.json) |
 | Slimefrog | 167821 | [167821-slimefrog.json](./167821-slimefrog.json) |
 | Slimegeon | 254145 | [254145-slimegeon.json](./254145-slimegeon.json) |
