@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fading Visage | 101622 | [101622-fading-visage.json](./101622-fading-visage.json) |
 | Fae Farm: Coasts of Croakia | 278681 | [278681-fae-farm-coasts-of-croakia.json](./278681-fae-farm-coasts-of-croakia.json) |
 | Faeria: Game + All DLC Bundle | 238217 | [238217-faeria-game-all-dlc-bundle.json](./238217-faeria-game-all-dlc-bundle.json) |
+| Faery: Swapped | 298022 | [298022-faery-swapped.json](./298022-faery-swapped.json) |
 | Fahrenheit | 298554 | [298554-fahrenheit.json](./298554-fahrenheit.json) |
 | Fahrenheit | 298555 | [298555-fahrenheit.json](./298555-fahrenheit.json) |
 | Fail Factory! | 196314 | [196314-fail-factory.json](./196314-fail-factory.json) |
