@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden & Dangerous 2 | 107 | [107-hidden-and-dangerous-2.json](./107-hidden-and-dangerous-2.json) |
 | Hidden & Dangerous: Action Pack | 77208 | [77208-hidden-and-dangerous-action-pack.json](./77208-hidden-and-dangerous-action-pack.json) |
 | Hidden & Dangerous: Devil's Bridge | 108 | [108-hidden-and-dangerous-devils-bridge.json](./108-hidden-and-dangerous-devils-bridge.json) |
+| Hidden Animals Find : Detective Neko | 289343 | [289343-hidden-animals-find-detective-neko.json](./289343-hidden-animals-find-detective-neko.json) |
 | Hidden Art: Twilight in The Museum | 294435 | [294435-hidden-art-twilight-in-the-museum.json](./294435-hidden-art-twilight-in-the-museum.json) |
 | Hidden Capybaras with Orange in the Whimsical Library | 321138 | [321138-hidden-capybaras-with-orange-in-the-whimsical-library.json](./321138-hidden-capybaras-with-orange-in-the-whimsical-library.json) |
 | Hidden Cats | 183564 | [183564-hidden-cats.json](./183564-hidden-cats.json) |
@@ -1368,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Flipper 2: Pets | 370700 | [370700-house-flipper-2-pets.json](./370700-house-flipper-2-pets.json) |
 | House Flipper VR | 129209 | [129209-house-flipper-vr.json](./129209-house-flipper-vr.json) |
 | House Flipper: Cyberpunk | 171638 | [171638-house-flipper-cyberpunk.json](./171638-house-flipper-cyberpunk.json) |
+| House Flipper: Dine Out | 289332 | [289332-house-flipper-dine-out.json](./289332-house-flipper-dine-out.json) |
 | House Flipper: Farm | 200725 | [200725-house-flipper-farm.json](./200725-house-flipper-farm.json) |
 | House in the village by the river v2.0 | 173813 | [173813-house-in-the-village-by-the-river-v2-0.json](./173813-house-in-the-village-by-the-river-v2-0.json) |
 | House M.D. Episode 5: Under the Big Top | 65508 | [65508-house-m-d-episode-5-under-the-big-top.json](./65508-house-m-d-episode-5-under-the-big-top.json) |
