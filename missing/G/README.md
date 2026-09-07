@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost House | 179731 | [179731-ghost-house.json](./179731-ghost-house.json) |
 | Ghost House | 384503 | [384503-ghost-house.json](./384503-ghost-house.json) |
 | Ghost HQ | 369011 | [369011-ghost-hq.json](./369011-ghost-hq.json) |
+| Ghost Hunter | 294162 | [294162-ghost-hunter.json](./294162-ghost-hunter.json) |
 | Ghost Hunter | 321359 | [321359-ghost-hunter.json](./321359-ghost-hunter.json) |
 | Ghost Hunters Academy | 66688 | [66688-ghost-hunters-academy.json](./66688-ghost-hunters-academy.json) |
 | Ghost in the Brain | 263224 | [263224-ghost-in-the-brain.json](./263224-ghost-in-the-brain.json) |
