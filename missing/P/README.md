@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pesterminator: The Western Exterminator | 48080 | [48080-pesterminator-the-western-exterminator.json](./48080-pesterminator-the-western-exterminator.json) |
 | Pet Alien: An Intergalactic Puzzlepalooza | 8120 | [8120-pet-alien-an-intergalactic-puzzlepalooza.json](./8120-pet-alien-an-intergalactic-puzzlepalooza.json) |
 | Pet Cemetery | 302710 | [302710-pet-cemetery.json](./302710-pet-cemetery.json) |
+| Pet City | 279638 | [279638-pet-city.json](./279638-pet-city.json) |
 | Pet Cube: Tower Stack | 242211 | [242211-pet-cube-tower-stack.json](./242211-pet-cube-tower-stack.json) |
 | Pet Dog | 178682 | [178682-pet-dog.json](./178682-pet-dog.json) |
 | Pet Kawaii Shop | 317211 | [317211-pet-kawaii-shop.json](./317211-pet-kawaii-shop.json) |
@@ -793,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piano: Learn and Play - Complete + | 328827 | [328827-piano-learn-and-play-complete.json](./328827-piano-learn-and-play-complete.json) |
 | Piano: Learn and Play - Ultra Director's Cut | 328828 | [328828-piano-learn-and-play-ultra-directors-cut.json](./328828-piano-learn-and-play-ultra-directors-cut.json) |
 | Piāomiǎo Xī Yóu | 407318 | [407318-piaomiao-xi-you.json](./407318-piaomiao-xi-you.json) |
+| Pic-Man | 279611 | [279611-pic-man.json](./279611-pic-man.json) |
 | Piccadilly's Puzzle Museum | 126015 | [126015-piccadillys-puzzle-museum.json](./126015-piccadillys-puzzle-museum.json) |
 | Pichenette | 384530 | [384530-pichenette.json](./384530-pichenette.json) |
 | Pick & Match | 87223 | [87223-pick-and-match.json](./87223-pick-and-match.json) |
@@ -1559,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pongu | 24565 | [24565-pongu.json](./24565-pongu.json) |
 | PonPonTown | 372986 | [372986-ponpontown.json](./372986-ponpontown.json) |
 | Pony Card Match HD | 96740 | [96740-pony-card-match-hd.json](./96740-pony-card-match-hd.json) |
+| Pony Island 2: Panda Circus | 279613 | [279613-pony-island-2-panda-circus.json](./279613-pony-island-2-panda-circus.json) |
 | Pony Sisters Pet Hospital | 101584 | [101584-pony-sisters-pet-hospital.json](./101584-pony-sisters-pet-hospital.json) |
 | Poo Pusher | 309690 | [309690-poo-pusher.json](./309690-poo-pusher.json) |
 | Poodle Kick | 391608 | [391608-poodle-kick.json](./391608-poodle-kick.json) |
@@ -1970,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project BlockchainZ | 180313 | [180313-project-blockchainz.json](./180313-project-blockchainz.json) |
 | Project Cairo | 297475 | [297475-project-cairo.json](./297475-project-cairo.json) |
 | Project CARS: Logitech Livery Pack | 353279 | [353279-project-cars-logitech-livery-pack.json](./353279-project-cars-logitech-livery-pack.json) |
+| Project Chameleon | 279584 | [279584-project-chameleon.json](./279584-project-chameleon.json) |
 | Project Crimson | 166735 | [166735-project-crimson.json](./166735-project-crimson.json) |
 | Project D | 305783 | [305783-project-d.json](./305783-project-d.json) |
 | Project D: Human Risen | 126632 | [126632-project-d-human-risen.json](./126632-project-d-human-risen.json) |
@@ -2129,6 +2133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PSI Masquerade | 204064 | [204064-psi-masquerade.json](./204064-psi-masquerade.json) |
 | Psi Project: Legacy | 75907 | [75907-psi-project-legacy.json](./75907-psi-project-legacy.json) |
 | Psicose? | 129235 | [129235-psicose.json](./129235-psicose.json) |
+| PSXFunkin' | 279587 | [279587-psxfunkin.json](./279587-psxfunkin.json) |
 | Psy High 2: High Summer | 121702 | [121702-psy-high-2-high-summer.json](./121702-psy-high-2-high-summer.json) |
 | PSY in Apocalypse | 270953 | [270953-psy-in-apocalypse.json](./270953-psy-in-apocalypse.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Boys Dating Sim | 336558 | [336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json](./336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json) |
@@ -2154,6 +2159,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PUBG Lite | 124036 | [124036-pubg-lite.json](./124036-pubg-lite.json) |
 | PUBG Mobile: Season 16 | 141193 | [141193-pubg-mobile-season-16.json](./141193-pubg-mobile-season-16.json) |
 | PUBG: Battlegrounds - Season 18 | 217520 | [217520-pubg-battlegrounds-season-18.json](./217520-pubg-battlegrounds-season-18.json) |
+| PUBG: Battlegrounds - Season 21 | 279571 | [279571-pubg-battlegrounds-season-21.json](./279571-pubg-battlegrounds-season-21.json) |
+| PUBG: Battlegrounds - Season 22 | 279572 | [279572-pubg-battlegrounds-season-22.json](./279572-pubg-battlegrounds-season-22.json) |
+| PUBG: Battlegrounds - Season 23 | 279574 | [279574-pubg-battlegrounds-season-23.json](./279574-pubg-battlegrounds-season-23.json) |
+| PUBG: Battlegrounds - Season 24 | 279575 | [279575-pubg-battlegrounds-season-24.json](./279575-pubg-battlegrounds-season-24.json) |
+| PUBG: Battlegrounds - Season 25 | 279576 | [279576-pubg-battlegrounds-season-25.json](./279576-pubg-battlegrounds-season-25.json) |
+| PUBG: Battlegrounds - Season 26 | 279578 | [279578-pubg-battlegrounds-season-26.json](./279578-pubg-battlegrounds-season-26.json) |
 | PUBG: Blindspot | 321135 | [321135-pubg-blindspot.json](./321135-pubg-blindspot.json) |
 | Public Defense Corp: The Ambassador of Peace | 206952 | [206952-public-defense-corp-the-ambassador-of-peace.json](./206952-public-defense-corp-the-ambassador-of-peace.json) |
 | Public Enemy: The Dark Future | 248293 | [248293-public-enemy-the-dark-future.json](./248293-public-enemy-the-dark-future.json) |
