@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballpoint Universe: Infinite | 16770 | [16770-ballpoint-universe-infinite.json](./16770-ballpoint-universe-infinite.json) |
 | BallRoll | 189184 | [189184-ballroll.json](./189184-ballroll.json) |
 | Balls Bombs | 300733 | [300733-balls-bombs.json](./300733-balls-bombs.json) |
+| Balls of Glory Pinball | 261803 | [261803-balls-of-glory-pinball.json](./261803-balls-of-glory-pinball.json) |
 | Balls Rolling-Plumber, Slither, Line, Fill & Fun! | 108486 | [108486-balls-rolling-plumber-slither-line-fill-and-fun.json](./108486-balls-rolling-plumber-slither-line-fill-and-fun.json) |
 | Balls! Virtual Reality Cricket | 31580 | [31580-balls-virtual-reality-cricket.json](./31580-balls-virtual-reality-cricket.json) |
 | Bally Hoo | 91436 | [91436-bally-hoo.json](./91436-bally-hoo.json) |
@@ -1039,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Wall of Stars | 68684 | [68684-beyond-the-wall-of-stars.json](./68684-beyond-the-wall-of-stars.json) |
 | Beyond Your Wall | 369593 | [369593-beyond-your-wall.json](./369593-beyond-your-wall.json) |
 | BeYourCat | 309851 | [309851-beyourcat.json](./309851-beyourcat.json) |
+| BeZombie Anime Invasion | 261825 | [261825-bezombie-anime-invasion.json](./261825-bezombie-anime-invasion.json) |
 | BFGE | 114995 | [114995-bfge.json](./114995-bfge.json) |
 | Bhard | 401525 | [401525-bhard.json](./401525-bhard.json) |
 | Bibi & Tina: Das große Unwetter | 216453 | [216453-bibi-and-tina-das-gro-e-unwetter.json](./216453-bibi-and-tina-das-gro-e-unwetter.json) |
@@ -1680,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boat Adventure | 99635 | [99635-boat-adventure.json](./99635-boat-adventure.json) |
 | Boat Rescue Simulator Mobile | 228116 | [228116-boat-rescue-simulator-mobile.json](./228116-boat-rescue-simulator-mobile.json) |
 | Boat Simulator | 231082 | [231082-boat-simulator.json](./231082-boat-simulator.json) |
+| Boaty Tanks | 261830 | [261830-boaty-tanks.json](./261830-boaty-tanks.json) |
 | Bob & Dob | 177570 | [177570-bob-and-dob.json](./177570-bob-and-dob.json) |
 | Bob Does Not Care | 181903 | [181903-bob-does-not-care.json](./181903-bob-does-not-care.json) |
 | Bob Invasion | 294693 | [294693-bob-invasion.json](./294693-bob-invasion.json) |
@@ -2009,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boyfriend Dungeon: Secret Weapons | 228681 | [228681-boyfriend-dungeon-secret-weapons.json](./228681-boyfriend-dungeon-secret-weapons.json) |
 | Boyfriend or Cake?? | 364508 | [364508-boyfriend-or-cake.json](./364508-boyfriend-or-cake.json) |
 | Boys Tale | 255358 | [255358-boys-tale.json](./255358-boys-tale.json) |
+| Boyscout: Patrick's Town | 261791 | [261791-boyscout-patricks-town.json](./261791-boyscout-patricks-town.json) |
 | Boyz Don't Cry | 299725 | [299725-boyz-dont-cry.json](./299725-boyz-dont-cry.json) |
 | Bozalleth's Curse | 267088 | [267088-bozalleths-curse.json](./267088-bozalleths-curse.json) |
 | Bpop Attack | 319953 | [319953-bpop-attack.json](./319953-bpop-attack.json) |
@@ -2457,6 +2461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buoy Boy | 233768 | [233768-buoy-boy.json](./233768-buoy-boy.json) |
 | Burak Bahar's Unseen Anchor | 83594 | [83594-burak-bahars-unseen-anchor.json](./83594-burak-bahars-unseen-anchor.json) |
 | Buramato | 214744 | [214744-buramato.json](./214744-buramato.json) |
+| Burasagatte Iru Kiji | 261809 | [261809-burasagatte-iru-kiji.json](./261809-burasagatte-iru-kiji.json) |
 | Burgaholic | 343793 | [343793-burgaholic.json](./343793-burgaholic.json) |
 | Burger | 302367 | [302367-burger.json](./302367-burger.json) |
 | Burger Bots Inc. | 365101 | [365101-burger-bots-inc.json](./365101-burger-bots-inc.json) |
