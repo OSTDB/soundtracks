@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QS Defender | 319594 | [319594-qs-defender.json](./319594-qs-defender.json) |
 | QS Scramble | 319595 | [319595-qs-scramble.json](./319595-qs-scramble.json) |
 | Quacker Blaster | 63286 | [63286-quacker-blaster.json](./63286-quacker-blaster.json) |
+| Quad Run | 271191 | [271191-quad-run.json](./271191-quad-run.json) |
 | Quadbots: The Rise of Chrono | 296393 | [296393-quadbots-the-rise-of-chrono.json](./296393-quadbots-the-rise-of-chrono.json) |
 | QuadcopterFx Simulator | 89707 | [89707-quadcopterfx-simulator.json](./89707-quadcopterfx-simulator.json) |
 | Quadice | 234298 | [234298-quadice.json](./234298-quadice.json) |
@@ -41,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake | 332258 | [332258-quake.json](./332258-quake.json) |
 | Quake 1.5 | 117771 | [117771-quake-1-5.json](./117771-quake-1-5.json) |
 | Quake 4 | 356 | [356-quake-4.json](./356-quake-4.json) |
+| Quake Brutalist Jam | 271195 | [271195-quake-brutalist-jam.json](./271195-quake-brutalist-jam.json) |
 | Quake II | 332259 | [332259-quake-ii.json](./332259-quake-ii.json) |
 | Quake II: Quad Damage | 46628 | [46628-quake-ii-quad-damage.json](./46628-quake-ii-quad-damage.json) |
 | Quake: Autumn Haunting | 202931 | [202931-quake-autumn-haunting.json](./202931-quake-autumn-haunting.json) |
@@ -51,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: Realms of Tiddles | 202929 | [202929-quake-realms-of-tiddles.json](./202929-quake-realms-of-tiddles.json) |
 | Quake: The Offering | 46627 | [46627-quake-the-offering.json](./46627-quake-the-offering.json) |
 | Quake: The Punishment Due | 280188 | [280188-quake-the-punishment-due.json](./280188-quake-the-punishment-due.json) |
+| Quakeguy Goes to White Castle | 271234 | [271234-quakeguy-goes-to-white-castle.json](./271234-quakeguy-goes-to-white-castle.json) |
 | Qual a Capa? | 227489 | [227489-qual-a-capa.json](./227489-qual-a-capa.json) |
 | Qualia's Sweets Craft | 165658 | [165658-qualias-sweets-craft.json](./165658-qualias-sweets-craft.json) |
 | Quandino | 275911 | [275911-quandino.json](./275911-quandino.json) |
