@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naught Reawakening | 35798 | [35798-naught-reawakening.json](./35798-naught-reawakening.json) |
 | Naught: Edahi & Dohai | 238215 | [238215-naught-edahi-and-dohai.json](./238215-naught-edahi-and-dohai.json) |
 | Naughty | 348778 | [348778-naughty.json](./348778-naughty.json) |
+| Naughty & Nice | 283732 | [283732-naughty-and-nice.json](./283732-naughty-and-nice.json) |
 | Naughty Kitties | 19593 | [19593-naughty-kitties.json](./19593-naughty-kitties.json) |
 | Nauka Prediel | 202401 | [202401-nauka-prediel.json](./202401-nauka-prediel.json) |
 | Nautikin Adventures | 329372 | [329372-nautikin-adventures.json](./329372-nautikin-adventures.json) |
@@ -409,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NetMaze: A Funnyman Game | 242782 | [242782-netmaze-a-funnyman-game.json](./242782-netmaze-a-funnyman-game.json) |
 | Netoo | 391063 | [391063-netoo.json](./391063-netoo.json) |
 | Netrek | 79932 | [79932-netrek.json](./79932-netrek.json) |
+| NetWalk | 283745 | [283745-netwalk.json](./283745-netwalk.json) |
 | NetWits | 57655 | [57655-netwits.json](./57655-netwits.json) |
 | Network | 95442 | [95442-network.json](./95442-network.json) |
 | Network E.L.E.: PC Edition | 166210 | [166210-network-e-l-e-pc-edition.json](./166210-network-e-l-e-pc-edition.json) |
