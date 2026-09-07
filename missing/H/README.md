@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazelnut Hex | 218725 | [218725-hazelnut-hex.json](./218725-hazelnut-hex.json) |
 | Hazelnut Latte | 294175 | [294175-hazelnut-latte.json](./294175-hazelnut-latte.json) |
 | Hazelwood Station | 295001 | [295001-hazelwood-station.json](./295001-hazelwood-station.json) |
+| Hazeron Starship | 277286 | [277286-hazeron-starship.json](./277286-hazeron-starship.json) |
 | Hazing: Night Shift | 305147 | [305147-hazing-night-shift.json](./305147-hazing-night-shift.json) |
 | HB Arcade Cards | 80583 | [80583-hb-arcade-cards.json](./80583-hb-arcade-cards.json) |
 | HDOS | 373557 | [373557-hdos.json](./373557-hdos.json) |
@@ -725,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stars: Amazing Edition | 308800 | [308800-hentai-stars-amazing-edition.json](./308800-hentai-stars-amazing-edition.json) |
 | Hentai Stars: Premium Edition | 283172 | [283172-hentai-stars-premium-edition.json](./283172-hentai-stars-premium-edition.json) |
 | Hentai Stars: Superb Edition | 314885 | [314885-hentai-stars-superb-edition.json](./314885-hentai-stars-superb-edition.json) |
+| Hentai Tales Vol. 2: Hitomi and Sea Trip | 277309 | [277309-hentai-tales-vol-2-hitomi-and-sea-trip.json](./277309-hentai-tales-vol-2-hitomi-and-sea-trip.json) |
 | Hentai Tales: Triangle That Wants Me All | 401532 | [401532-hentai-tales-triangle-that-wants-me-all.json](./401532-hentai-tales-triangle-that-wants-me-all.json) |
 | Hentai vs. Orcs | 161388 | [161388-hentai-vs-orcs.json](./161388-hentai-vs-orcs.json) |
 | Hentai Waifu II | 286497 | [286497-hentai-waifu-ii.json](./286497-hentai-waifu-ii.json) |
@@ -893,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats In Fallen Leaves Town | 311486 | [311486-hidden-cats-in-fallen-leaves-town.json](./311486-hidden-cats-in-fallen-leaves-town.json) |
 | Hidden Cats In Japanese Village | 305137 | [305137-hidden-cats-in-japanese-village.json](./305137-hidden-cats-in-japanese-village.json) |
 | Hidden Cats: Castle | 412261 | [412261-hidden-cats-castle.json](./412261-hidden-cats-castle.json) |
+| Hidden Cats: Magic Forest | 277297 | [277297-hidden-cats-magic-forest.json](./277297-hidden-cats-magic-forest.json) |
 | Hidden Clues: Mystery Scene Challenge | 409532 | [409532-hidden-clues-mystery-scene-challenge.json](./409532-hidden-clues-mystery-scene-challenge.json) |
 | Hidden Collection | 86714 | [86714-hidden-collection.json](./86714-hidden-collection.json) |
 | Hidden Cubes | 74459 | [74459-hidden-cubes.json](./74459-hidden-cubes.json) |
@@ -1199,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homefront: The Rock Map Pack | 224224 | [224224-homefront-the-rock-map-pack.json](./224224-homefront-the-rock-map-pack.json) |
 | Homehead | 346023 | [346023-homehead.json](./346023-homehead.json) |
 | Homeland | 3948 | [3948-homeland.json](./3948-homeland.json) |
+| Homeless | 277287 | [277287-homeless.json](./277287-homeless.json) |
 | Homeless Guy | 258733 | [258733-homeless-guy.json](./258733-homeless-guy.json) |
 | Homeostasis | 389444 | [389444-homeostasis.json](./389444-homeostasis.json) |
 | Homepage | 347702 | [347702-homepage.json](./347702-homepage.json) |
