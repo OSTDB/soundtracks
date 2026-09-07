@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Dogs Hidden in Rome | 408801 | [408801-101-dogs-hidden-in-rome.json](./408801-101-dogs-hidden-in-rome.json) |
 | 101 Ways to Die | 16745 | [16745-101-ways-to-die.json](./16745-101-ways-to-die.json) |
 | 1010: Block | 58253 | [58253-1010-block.json](./58253-1010-block.json) |
+| 1024 Cement Mixer | 308273 | [308273-1024-cement-mixer.json](./308273-1024-cement-mixer.json) |
 | 108 Silly Ways to Die | 326083 | [326083-108-silly-ways-to-die.json](./326083-108-silly-ways-to-die.json) |
 | 10K & The Kriminal World: Sammy's Attack | 195765 | [195765-10k-and-the-kriminal-world-sammys-attack.json](./195765-10k-and-the-kriminal-world-sammys-attack.json) |
 | 10KoyaNI | 382189 | [382189-10koyani.json](./382189-10koyani.json) |
@@ -201,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16bit-Collection Data East Vol. 03 | 97887 | [97887-16bit-collection-data-east-vol-03.json](./97887-16bit-collection-data-east-vol-03.json) |
 | 16bit-Collection Data East Vol. 1 | 97892 | [97892-16bit-collection-data-east-vol-1.json](./97892-16bit-collection-data-east-vol-1.json) |
 | 16bit-Collection Jaleco Vol. 01 | 97895 | [97895-16bit-collection-jaleco-vol-01.json](./97895-16bit-collection-jaleco-vol-01.json) |
+| 17 Bucks: Floor 1 | 308282 | [308282-17-bucks-floor-1.json](./308282-17-bucks-floor-1.json) |
 | 17 Fighters | 183562 | [183562-17-fighters.json](./183562-17-fighters.json) |
 | 18 Minutes | 274757 | [274757-18-minutes.json](./274757-18-minutes.json) |
 | 18 Wheels of Steel: American Long Haul | 11427 | [11427-18-wheels-of-steel-american-long-haul.json](./11427-18-wheels-of-steel-american-long-haul.json) |
@@ -279,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Arms | 382186 | [382186-2048-arms.json](./382186-2048-arms.json) |
 | 2048 Balls 3D | 175991 | [175991-2048-balls-3d.json](./175991-2048-balls-3d.json) |
 | 2048 Battles | 124274 | [124274-2048-battles.json](./124274-2048-battles.json) |
+| 2048 Fusion | 308226 | [308226-2048-fusion.json](./308226-2048-fusion.json) |
 | 2048 Maniac | 317633 | [317633-2048-maniac.json](./317633-2048-maniac.json) |
 | 2048 Royal Cards | 190740 | [190740-2048-royal-cards.json](./190740-2048-royal-cards.json) |
 | 204863 | 342678 | [342678-204863.json](./342678-204863.json) |
@@ -390,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 hours | 271481 | [271481-4-hours.json](./271481-4-hours.json) |
 | 4 Leaf Clovers | 302692 | [302692-4-leaf-clovers.json](./302692-4-leaf-clovers.json) |
 | 4 Months of You | 165650 | [165650-4-months-of-you.json](./165650-4-months-of-you.json) |
+| 4 of Clubs | 308270 | [308270-4-of-clubs.json](./308270-4-of-clubs.json) |
 | 4 Pics Heroes and Villains | 107184 | [107184-4-pics-heroes-and-villains.json](./107184-4-pics-heroes-and-villains.json) |
 | 4 Queens Computer Casino | 143721 | [143721-4-queens-computer-casino.json](./143721-4-queens-computer-casino.json) |
 | 4 Rush Together | 316434 | [316434-4-rush-together.json](./316434-4-rush-together.json) |
