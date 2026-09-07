@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Pack | 84273 | [84273-jet-pack.json](./84273-jet-pack.json) |
 | Jet Pilot | 330740 | [330740-jet-pilot.json](./330740-jet-pilot.json) |
 | Jet Set Luis | 45343 | [45343-jet-set-luis.json](./45343-jet-set-luis.json) |
+| Jet Set Radio | 279629 | [279629-jet-set-radio.json](./279629-jet-set-radio.json) |
 | JetBall Arena | 113697 | [113697-jetball-arena.json](./113697-jetball-arena.json) |
 | Jetboy | 119775 | [119775-jetboy.json](./119775-jetboy.json) |
 | JetFighter II: Advanced Mission Disk | 84260 | [84260-jetfighter-ii-advanced-mission-disk.json](./84260-jetfighter-ii-advanced-mission-disk.json) |
@@ -488,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Genesis: We Are Aliens | 411586 | [411586-jurassic-genesis-we-are-aliens.json](./411586-jurassic-genesis-we-are-aliens.json) |
 | Jurassic Island Rescue and Escape | 294433 | [294433-jurassic-island-rescue-and-escape.json](./294433-jurassic-island-rescue-and-escape.json) |
 | Jurassic Island: The Dinosaur Zoo | 14745 | [14745-jurassic-island-the-dinosaur-zoo.json](./14745-jurassic-island-the-dinosaur-zoo.json) |
+| Jurassic Park: Survival | 279640 | [279640-jurassic-park-survival.json](./279640-jurassic-park-survival.json) |
 | Jurassic Survival Island: Evolve | 194026 | [194026-jurassic-survival-island-evolve.json](./194026-jurassic-survival-island-evolve.json) |
 | Jurassic Warfare: Dinosaur Combat Arena | 90695 | [90695-jurassic-warfare-dinosaur-combat-arena.json](./90695-jurassic-warfare-dinosaur-combat-arena.json) |
 | Jurassic World Alive | 90084 | [90084-jurassic-world-alive.json](./90084-jurassic-world-alive.json) |
