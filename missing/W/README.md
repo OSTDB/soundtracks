@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlanes | 301264 | [301264-warlanes.json](./301264-warlanes.json) |
 | Warlings 2: Total Armageddon | 280185 | [280185-warlings-2-total-armageddon.json](./280185-warlings-2-total-armageddon.json) |
 | Warlock's Quest | 57697 | [57697-warlocks-quest.json](./57697-warlocks-quest.json) |
+| Warlocks Deeds: Uncharted Realms | 275614 | [275614-warlocks-deeds-uncharted-realms.json](./275614-warlocks-deeds-uncharted-realms.json) |
 | Warlordocracy: Chapter 2 | 258217 | [258217-warlordocracy-chapter-2.json](./258217-warlordocracy-chapter-2.json) |
 | Warlordocracy: Chapter 3 | 336569 | [336569-warlordocracy-chapter-3.json](./336569-warlordocracy-chapter-3.json) |
 | WarLords | 196892 | [196892-warlords.json](./196892-warlords.json) |
@@ -850,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchblood | 129238 | [129238-witchblood.json](./129238-witchblood.json) |
 | Witchblood | 413640 | [413640-witchblood.json](./413640-witchblood.json) |
 | Witchcraft U | 155652 | [155652-witchcraft-u.json](./155652-witchcraft-u.json) |
+| Witches & Woodlands | 275595 | [275595-witches-and-woodlands.json](./275595-witches-and-woodlands.json) |
 | Witches Legacy: Slumbering Darkness & Dark Throne | 201824 | [201824-witches-legacy-slumbering-darkness-and-dark-throne.json](./201824-witches-legacy-slumbering-darkness-and-dark-throne.json) |
 | Witches' Legacy: Awakening Darkness HD (Full) | 89986 | [89986-witches-legacy-awakening-darkness-hd-full.json](./89986-witches-legacy-awakening-darkness-hd-full.json) |
 | Witches' Legacy: Hunter and the Hunted - Collector's Edition | 89945 | [89945-witches-legacy-hunter-and-the-hunted-collectors-edition.json](./89945-witches-legacy-hunter-and-the-hunted-collectors-edition.json) |
