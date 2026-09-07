@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HarmoKnight | 18156 | [18156-harmoknight.json](./18156-harmoknight.json) |
 | Harmoni | 296903 | [296903-harmoni.json](./296903-harmoni.json) |
 | Harmonis: The Hand-Made Kingdoms | 287073 | [287073-harmonis-the-hand-made-kingdoms.json](./287073-harmonis-the-hand-made-kingdoms.json) |
+| Harmonium: The Musical | 279616 | [279616-harmonium-the-musical.json](./279616-harmonium-the-musical.json) |
 | Harpoon Classic '97 | 365063 | [365063-harpoon-classic-97.json](./365063-harpoon-classic-97.json) |
 | Harpoon Lagoon | 309332 | [309332-harpoon-lagoon.json](./309332-harpoon-lagoon.json) |
 | Harpoon Reef Hunter | 253570 | [253570-harpoon-reef-hunter.json](./253570-harpoon-reef-hunter.json) |
@@ -605,12 +606,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Guest | 140605 | [140605-hello-guest.json](./140605-hello-guest.json) |
 | Hello Helix | 108494 | [108494-hello-helix.json](./108494-hello-helix.json) |
 | Hello inc VR | 28941 | [28941-hello-inc-vr.json](./28941-hello-inc-vr.json) |
+| Hello Kitty Detective Games | 279608 | [279608-hello-kitty-detective-games.json](./279608-hello-kitty-detective-games.json) |
+| Hello Kitty Discovering The World | 279610 | [279610-hello-kitty-discovering-the-world.json](./279610-hello-kitty-discovering-the-world.json) |
 | Hello Kitty Fairy Tale Samegame | 77342 | [77342-hello-kitty-fairy-tale-samegame.json](./77342-hello-kitty-fairy-tale-samegame.json) |
 | Hello Kitty Food Town | 249481 | [249481-hello-kitty-food-town.json](./249481-hello-kitty-food-town.json) |
+| Hello Kitty Jewel Town | 279607 | [279607-hello-kitty-jewel-town.json](./279607-hello-kitty-jewel-town.json) |
 | Hello Kitty Kruisers with Sanrio Friends | 62781 | [62781-hello-kitty-kruisers-with-sanrio-friends.json](./62781-hello-kitty-kruisers-with-sanrio-friends.json) |
+| Hello Kitty no 'Otonaru' Mail | 279598 | [279598-hello-kitty-no-otonaru-mail.json](./279598-hello-kitty-no-otonaru-mail.json) |
 | Hello Kitty no Gotouchi Collection: Koi no Doki-doki Travel | 269832 | [269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json](./269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json) |
+| Hello Kitty no Happy Accessory | 279592 | [279592-hello-kitty-no-happy-accessory.json](./279592-hello-kitty-no-happy-accessory.json) |
+| Hello Kitty no Hiragana Katakana Onamae Kaitemiyou | 279600 | [279600-hello-kitty-no-hiragana-katakana-onamae-kaitemiyou.json](./279600-hello-kitty-no-hiragana-katakana-onamae-kaitemiyou.json) |
 | Hello Kitty no Magical Museum | 50562 | [50562-hello-kitty-no-magical-museum.json](./50562-hello-kitty-no-magical-museum.json) |
+| Hello Kitty no Sutekina Otanjoubi | 279602 | [279602-hello-kitty-no-sutekina-otanjoubi.json](./279602-hello-kitty-no-sutekina-otanjoubi.json) |
+| Hello Kitty no Tanoshii Omiseyasan | 279604 | [279604-hello-kitty-no-tanoshii-omiseyasan.json](./279604-hello-kitty-no-tanoshii-omiseyasan.json) |
 | Hello Kitty no Waku-waku Quiz | 61677 | [61677-hello-kitty-no-waku-waku-quiz.json](./61677-hello-kitty-no-waku-waku-quiz.json) |
+| Hello Kitty Racing Adventures | 279606 | [279606-hello-kitty-racing-adventures.json](./279606-hello-kitty-racing-adventures.json) |
 | Hello Kitty's Cube Frenzy | 299461 | [299461-hello-kittys-cube-frenzy.json](./299461-hello-kittys-cube-frenzy.json) |
 | Hello Pocoyo! | 64972 | [64972-hello-pocoyo.json](./64972-hello-pocoyo.json) |
 | Hello Pollution! | 102145 | [102145-hello-pollution.json](./102145-hello-pollution.json) |
@@ -858,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexxen: Hunters | 262676 | [262676-hexxen-hunters.json](./262676-hexxen-hunters.json) |
 | Hey Bobby! | 331697 | [331697-hey-bobby.json](./331697-hey-bobby.json) |
 | Hey Duggee: The Big Outdoor App | 88308 | [88308-hey-duggee-the-big-outdoor-app.json](./88308-hey-duggee-the-big-outdoor-app.json) |
+| Hey Ma I'm a Dragon Now | 279586 | [279586-hey-ma-im-a-dragon-now.json](./279586-hey-ma-im-a-dragon-now.json) |
 | Hi-Fi Rush | 233585 | [233585-hi-fi-rush.json](./233585-hi-fi-rush.json) |
 | Hi-Fi Rush: Traditional Garb Costume Pack | 255966 | [255966-hi-fi-rush-traditional-garb-costume-pack.json](./255966-hi-fi-rush-traditional-garb-costume-pack.json) |
 | Hi-Res Brazil | 406093 | [406093-hi-res-brazil.json](./406093-hi-res-brazil.json) |
