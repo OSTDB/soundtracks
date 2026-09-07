@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Tunes: Wacky World of Sports - Deluxe Edition | 315873 | [315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json](./315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json) |
 | Loony | 197934 | [197934-loony.json](./197934-loony.json) |
 | Loop Dungeon | 248321 | [248321-loop-dungeon.json](./248321-loop-dungeon.json) |
+| Loop Frogs | 284893 | [284893-loop-frogs.json](./284893-loop-frogs.json) |
 | Loop Hero: Deluxe Edition | 248294 | [248294-loop-hero-deluxe-edition.json](./248294-loop-hero-deluxe-edition.json) |
 | Loop Kingdom | 253005 | [253005-loop-kingdom.json](./253005-loop-kingdom.json) |
 | Loop My Crank | 374629 | [374629-loop-my-crank.json](./374629-loop-my-crank.json) |
@@ -1084,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Horizon | 200193 | [200193-lost-horizon.json](./200193-lost-horizon.json) |
 | Lost in a Forest | 35895 | [35895-lost-in-a-forest.json](./35895-lost-in-a-forest.json) |
 | Lost in Art | 407328 | [407328-lost-in-art.json](./407328-lost-in-art.json) |
+| Lost in Cairo | 284909 | [284909-lost-in-cairo.json](./284909-lost-in-cairo.json) |
 | Lost in Heart of Chernobyl: Survival | 314864 | [314864-lost-in-heart-of-chernobyl-survival.json](./314864-lost-in-heart-of-chernobyl-survival.json) |
 | Lost in Hieroglyphs: A Hidden Objects Expedition | 317020 | [317020-lost-in-hieroglyphs-a-hidden-objects-expedition.json](./317020-lost-in-hieroglyphs-a-hidden-objects-expedition.json) |
 | Lost in Limbo | 307932 | [307932-lost-in-limbo.json](./307932-lost-in-limbo.json) |
