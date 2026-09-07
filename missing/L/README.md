@@ -583,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lgnorant girl doll | 114994 | [114994-lgnorant-girl-doll.json](./114994-lgnorant-girl-doll.json) |
 | Lhama Clicker | 236545 | [236545-lhama-clicker.json](./236545-lhama-clicker.json) |
 | Lǐ Shì Qírén Yì Wén Lù | 367402 | [367402-li-shi-qiren-yi-wen-lu.json](./367402-li-shi-qiren-yi-wen-lu.json) |
+| Li'l Rumble | 284353 | [284353-lil-rumble.json](./284353-lil-rumble.json) |
 | Liam FitzRoy Kills Everyone: The Game Part Zero | 278746 | [278746-liam-fitzroy-kills-everyone-the-game-part-zero.json](./278746-liam-fitzroy-kills-everyone-the-game-part-zero.json) |
 | Liàn yǔ wèi xiē zhī yǔ | 367448 | [367448-lian-yu-wei-xie-zhi-yu.json](./367448-lian-yu-wei-xie-zhi-yu.json) |
 | Liar Liar 2 | 303246 | [303246-liar-liar-2.json](./303246-liar-liar-2.json) |
@@ -881,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LiveStream | 394170 | [394170-livestream.json](./394170-livestream.json) |
 | Livestream: Escape from Hotel Izanami | 146928 | [146928-livestream-escape-from-hotel-izanami.json](./146928-livestream-escape-from-hotel-izanami.json) |
 | Living Dark | 77355 | [77355-living-dark.json](./77355-living-dark.json) |
+| Living Island Project | 284330 | [284330-living-island-project.json](./284330-living-island-project.json) |
 | Living Labyrinth | 185139 | [185139-living-labyrinth.json](./185139-living-labyrinth.json) |
 | Living Legends: Frozen Beauty Collector's Edition | 355542 | [355542-living-legends-frozen-beauty-collectors-edition.json](./355542-living-legends-frozen-beauty-collectors-edition.json) |
 | Living Legends: Haunting Melody | 355552 | [355552-living-legends-haunting-melody.json](./355552-living-legends-haunting-melody.json) |
