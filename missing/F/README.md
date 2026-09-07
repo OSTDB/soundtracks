@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem 7 Legacy | 373022 | [373022-fire-emblem-7-legacy.json](./373022-fire-emblem-7-legacy.json) |
 | Fire Emblem 8: Self-Randomizing | 259869 | [259869-fire-emblem-8-self-randomizing.json](./259869-fire-emblem-8-self-randomizing.json) |
 | Fire Emblem Heroes | 26841 | [26841-fire-emblem-heroes.json](./26841-fire-emblem-heroes.json) |
+| Fire Emblem: Deity Device | 270674 | [270674-fire-emblem-deity-device.json](./270674-fire-emblem-deity-device.json) |
 | Fire Emblem: Dream of Five - Definitive Edition | 316621 | [316621-fire-emblem-dream-of-five-definitive-edition.json](./316621-fire-emblem-dream-of-five-definitive-edition.json) |
 | Fire Emblem: Host of the Dark | 296106 | [296106-fire-emblem-host-of-the-dark.json](./296106-fire-emblem-host-of-the-dark.json) |
 | Fire Emblem: Illuminated | 341470 | [341470-fire-emblem-illuminated.json](./341470-fire-emblem-illuminated.json) |
@@ -930,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's 2 | 9195 | [9195-five-nights-at-freddys-2.json](./9195-five-nights-at-freddys-2.json) |
 | Five Nights at Freddy's 4: Halloween Edition | 226410 | [226410-five-nights-at-freddys-4-halloween-edition.json](./226410-five-nights-at-freddys-4-halloween-edition.json) |
 | Five Nights at Freddy's AR Lite | 273955 | [273955-five-nights-at-freddys-ar-lite.json](./273955-five-nights-at-freddys-ar-lite.json) |
+| Five Nights at Freddy's Area 51 | 270670 | [270670-five-nights-at-freddys-area-51.json](./270670-five-nights-at-freddys-area-51.json) |
 | Five Nights at Freddy's Gameboy | 305749 | [305749-five-nights-at-freddys-gameboy.json](./305749-five-nights-at-freddys-gameboy.json) |
 | Five Nights at Freddy's Soulless Look | 383375 | [383375-five-nights-at-freddys-soulless-look.json](./383375-five-nights-at-freddys-soulless-look.json) |
 | Five Nights at Freddy's: Backlogged | 329023 | [329023-five-nights-at-freddys-backlogged.json](./329023-five-nights-at-freddys-backlogged.json) |
@@ -1608,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': Vs. Nekomata Okayu | 226421 | [226421-friday-night-funkin-vs-nekomata-okayu.json](./226421-friday-night-funkin-vs-nekomata-okayu.json) |
 | Friday Night Funkin': VS. Starlight Glimmer & Trixie | 202416 | [202416-friday-night-funkin-vs-starlight-glimmer-and-trixie.json](./202416-friday-night-funkin-vs-starlight-glimmer-and-trixie.json) |
 | Friday Night Pixtor | 343820 | [343820-friday-night-pixtor.json](./343820-friday-night-pixtor.json) |
+| Friday the 13th RPG: A Fan Game | 270660 | [270660-friday-the-13th-rpg-a-fan-game.json](./270660-friday-the-13th-rpg-a-fan-game.json) |
 | Friday the 13th: The Game - Spring Break 1984 Clothing Pack | 224244 | [224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json](./224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json) |
 | Fried Rice Apocalypse | 338727 | [338727-fried-rice-apocalypse.json](./338727-fried-rice-apocalypse.json) |
 | Frieda is Changing | 357272 | [357272-frieda-is-changing.json](./357272-frieda-is-changing.json) |
