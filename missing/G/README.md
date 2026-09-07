@@ -1042,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Dude | 340203 | [340203-graveyard-dude.json](./340203-graveyard-dude.json) |
 | Graveyard Ghoul! | 133999 | [133999-graveyard-ghoul.json](./133999-graveyard-ghoul.json) |
 | Graveyard Orbit | 407329 | [407329-graveyard-orbit.json](./407329-graveyard-orbit.json) |
+| Graveyard Shift | 292517 | [292517-graveyard-shift.json](./292517-graveyard-shift.json) |
 | GraviSound | 109701 | [109701-gravisound.json](./109701-gravisound.json) |
 | Gravitas | 134000 | [134000-gravitas.json](./134000-gravitas.json) |
 | Gravitational | 150150 | [150150-gravitational.json](./150150-gravitational.json) |
@@ -1258,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian of the Future | 119773 | [119773-guardian-of-the-future.json](./119773-guardian-of-the-future.json) |
 | Guardian of the Grave | 340402 | [340402-guardian-of-the-grave.json](./340402-guardian-of-the-grave.json) |
 | Guardian Sword | 26627 | [26627-guardian-sword.json](./26627-guardian-sword.json) |
+| Guardian Tactics: Deck of the Chosen | 292543 | [292543-guardian-tactics-deck-of-the-chosen.json](./292543-guardian-tactics-deck-of-the-chosen.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
 | Guardians of the Wall | 396884 | [396884-guardians-of-the-wall.json](./396884-guardians-of-the-wall.json) |
 | Gudetama: Okawari Ikagassuka | 57711 | [57711-gudetama-okawari-ikagassuka.json](./57711-gudetama-okawari-ikagassuka.json) |
@@ -1317,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gum Droppers | 140608 | [140608-gum-droppers.json](./140608-gum-droppers.json) |
 | Gum Flesh | 311990 | [311990-gum-flesh.json](./311990-gum-flesh.json) |
 | Gumball Hero | 407353 | [407353-gumball-hero.json](./407353-gumball-hero.json) |
+| Gumbowl's Adventure | 292551 | [292551-gumbowls-adventure.json](./292551-gumbowls-adventure.json) |
 | Gumchu Girl | 137682 | [137682-gumchu-girl.json](./137682-gumchu-girl.json) |
 | Gummy Bears: Magical Medallion | 50628 | [50628-gummy-bears-magical-medallion.json](./50628-gummy-bears-magical-medallion.json) |
 | Gummy Nightmares | 305743 | [305743-gummy-nightmares.json](./305743-gummy-nightmares.json) |
