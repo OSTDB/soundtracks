@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Challenge | 410240 | [410240-car-challenge.json](./410240-car-challenge.json) |
 | Car Cops | 247218 | [247218-car-cops.json](./247218-car-cops.json) |
 | Car Crash Couch Party | 83586 | [83586-car-crash-couch-party.json](./83586-car-crash-couch-party.json) |
+| Car Detailing Cleaner Simulator | 288761 | [288761-car-detailing-cleaner-simulator.json](./288761-car-detailing-cleaner-simulator.json) |
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
 | Car Jamboree | 40232 | [40232-car-jamboree.json](./40232-car-jamboree.json) |
 | Car Mechanic Manager | 34569 | [34569-car-mechanic-manager.json](./34569-car-mechanic-manager.json) |
@@ -871,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Party: Animal Farm | 314873 | [314873-chicken-party-animal-farm.json](./314873-chicken-party-animal-farm.json) |
 | Chicken Rescue | 213048 | [213048-chicken-rescue.json](./213048-chicken-rescue.json) |
 | Chicken Scratch | 256558 | [256558-chicken-scratch.json](./256558-chicken-scratch.json) |
+| Chicken Tale | 288792 | [288792-chicken-tale.json](./288792-chicken-tale.json) |
 | Chicken's Revenge | 206969 | [206969-chickens-revenge.json](./206969-chickens-revenge.json) |
 | Chicken's Run | 181922 | [181922-chickens-run.json](./181922-chickens-run.json) |
 | ChickenPop! | 103519 | [103519-chickenpop.json](./103519-chickenpop.json) |
@@ -1449,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collapsed Galaxy II | 248895 | [248895-collapsed-galaxy-ii.json](./248895-collapsed-galaxy-ii.json) |
 | Collapsing | 258713 | [258713-collapsing.json](./258713-collapsing.json) |
 | Collateral Dungeon | 290958 | [290958-collateral-dungeon.json](./290958-collateral-dungeon.json) |
+| Collect Call | 288764 | [288764-collect-call.json](./288764-collect-call.json) |
 | Collection of Mana | 27916 | [27916-collection-of-mana.json](./27916-collection-of-mana.json) |
 | Collection of Most Awful Things that Could Ever Happen on St. Valentine's Day | 319985 | [319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json](./319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json) |
 | Collector | 130936 | [130936-collector.json](./130936-collector.json) |
