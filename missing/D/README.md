@@ -1111,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DieRoll | 88263 | [88263-dieroll.json](./88263-dieroll.json) |
 | Dies Mortis | 185163 | [185163-dies-mortis.json](./185163-dies-mortis.json) |
 | Diesel Brothers: Truck Building Simulator Editor | 152910 | [152910-diesel-brothers-truck-building-simulator-editor.json](./152910-diesel-brothers-truck-building-simulator-editor.json) |
+| Diesel Burners | 277855 | [277855-diesel-burners.json](./277855-diesel-burners.json) |
 | Diet Family | 267649 | [267649-diet-family.json](./267649-diet-family.json) |
 | Different Strokes | 213030 | [213030-different-strokes.json](./213030-different-strokes.json) |
 | Difficult times | 327826 | [327826-difficult-times.json](./327826-difficult-times.json) |
@@ -1535,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolor's Dwelling | 390006 | [390006-dolors-dwelling.json](./390006-dolors-dwelling.json) |
 | Dolphin Hustle | 200172 | [200172-dolphin-hustle.json](./200172-dolphin-hustle.json) |
 | Domefender | 410927 | [410927-domefender.json](./410927-domefender.json) |
+| Domenation | 277858 | [277858-domenation.json](./277858-domenation.json) |
 | DomiCard | 107904 | [107904-domicard.json](./107904-domicard.json) |
 | Dominance | 116371 | [116371-dominance.json](./116371-dominance.json) |
 | Dominate: Board Game | 147971 | [147971-dominate-board-game.json](./147971-dominate-board-game.json) |
