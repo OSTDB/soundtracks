@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take a Seat! | 202961 | [202961-take-a-seat.json](./202961-take-a-seat.json) |
 | Take Care Of The Dog | 402917 | [402917-take-care-of-the-dog.json](./402917-take-care-of-the-dog.json) |
 | Take Care VR | 236507 | [236507-take-care-vr.json](./236507-take-care-vr.json) |
+| Take It Racing 2 | 287105 | [287105-take-it-racing-2.json](./287105-take-it-racing-2.json) |
 | Take Me Home | 362292 | [362292-take-me-home.json](./362292-take-me-home.json) |
 | Take on Helicopters: Hinds | 166219 | [166219-take-on-helicopters-hinds.json](./166219-take-on-helicopters-hinds.json) |
 | Take Shape | 92488 | [92488-take-shape.json](./92488-take-shape.json) |
@@ -354,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Radiation | 66156 | [66156-tap-tap-radiation.json](./66156-tap-tap-radiation.json) |
 | Tap the Blocks | 214195 | [214195-tap-the-blocks.json](./214195-tap-the-blocks.json) |
 | Tap Titans | 91424 | [91424-tap-titans.json](./91424-tap-titans.json) |
+| Tap-Tap Shots | 287090 | [287090-tap-tap-shots.json](./287090-tap-tap-shots.json) |
 | TapColors | 89712 | [89712-tapcolors.json](./89712-tapcolors.json) |
 | Tape To Tape | 190280 | [190280-tape-to-tape.json](./190280-tape-to-tape.json) |
 | Tape Us Out | 332402 | [332402-tape-us-out.json](./332402-tape-us-out.json) |
@@ -1302,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fish Master! | 104099 | [104099-the-fish-master.json](./104099-the-fish-master.json) |
 | The Fishercat | 205236 | [205236-the-fishercat.json](./205236-the-fishercat.json) |
 | The Fisherman: Fishing Planet - Blue Crab Island Expansion | 167308 | [167308-the-fisherman-fishing-planet-blue-crab-island-expansion.json](./167308-the-fisherman-fishing-planet-blue-crab-island-expansion.json) |
+| The Fixer of the Adventurer's Guild | 287106 | [287106-the-fixer-of-the-adventurers-guild.json](./287106-the-fixer-of-the-adventurers-guild.json) |
 | The Fixies | 296083 | [296083-the-fixies.json](./296083-the-fixies.json) |
 | The Flame's Heir | 301278 | [301278-the-flames-heir.json](./301278-the-flames-heir.json) |
 | The Flames | 176510 | [176510-the-flames.json](./176510-the-flames.json) |
@@ -1336,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Friends of Ringo Ishikawa: Special Edition | 406100 | [406100-the-friends-of-ringo-ishikawa-special-edition.json](./406100-the-friends-of-ringo-ishikawa-special-edition.json) |
 | The Frog Game Amazing Simulator | 100861 | [100861-the-frog-game-amazing-simulator.json](./100861-the-frog-game-amazing-simulator.json) |
 | The Frog’s Adventure | 401538 | [401538-the-frog-s-adventure.json](./401538-the-frog-s-adventure.json) |
+| The Frogman Show DS: Datte, Shouganai janai. | 287081 | [287081-the-frogman-show-ds-datte-shouganai-janai.json](./287081-the-frogman-show-ds-datte-shouganai-janai.json) |
 | The Frontier | 30929 | [30929-the-frontier.json](./30929-the-frontier.json) |
 | The Frost | 28872 | [28872-the-frost.json](./28872-the-frost.json) |
 | The Fruit Game | 346565 | [346565-the-fruit-game.json](./346565-the-fruit-game.json) |
@@ -1530,6 +1534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Janitor | 32006 | [32006-the-janitor.json](./32006-the-janitor.json) |
 | The Jellyfish Girl's Absolute Abnormal Adventure | 194656 | [194656-the-jellyfish-girls-absolute-abnormal-adventure.json](./194656-the-jellyfish-girls-absolute-abnormal-adventure.json) |
 | The Jingol | 306972 | [306972-the-jingol.json](./306972-the-jingol.json) |
+| The Journey of Piggy | 287092 | [287092-the-journey-of-piggy.json](./287092-the-journey-of-piggy.json) |
 | The journey to the party | 179743 | [179743-the-journey-to-the-party.json](./179743-the-journey-to-the-party.json) |
 | The Journey VR | 30873 | [30873-the-journey-vr.json](./30873-the-journey-vr.json) |
 | The Journeyman Project | 9517 | [9517-the-journeyman-project.json](./9517-the-journeyman-project.json) |
@@ -3070,6 +3075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time to Golf | 143711 | [143711-time-to-golf.json](./143711-time-to-golf.json) |
 | Time to Play Hearts | 86709 | [86709-time-to-play-hearts.json](./86709-time-to-play-hearts.json) |
 | Time to Play Pyramid | 96759 | [96759-time-to-play-pyramid.json](./96759-time-to-play-pyramid.json) |
+| Time Trap: Hidden Objects | 287108 | [287108-time-trap-hidden-objects.json](./287108-time-trap-hidden-objects.json) |
 | Time Travel | 117091 | [117091-time-travel.json](./117091-time-travel.json) |
 | Time Travel Cafe | 295777 | [295777-time-travel-cafe.json](./295777-time-travel-cafe.json) |
 | Time Traveler | 201849 | [201849-time-traveler.json](./201849-time-traveler.json) |
@@ -3859,6 +3865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash is Fun | 153997 | [153997-trash-is-fun.json](./153997-trash-is-fun.json) |
 | Trash Panda: The Adventures of Ricky and Boxman | 226433 | [226433-trash-panda-the-adventures-of-ricky-and-boxman.json](./226433-trash-panda-the-adventures-of-ricky-and-boxman.json) |
 | Trash Pandamonium | 302931 | [302931-trash-pandamonium.json](./302931-trash-pandamonium.json) |
+| Trash Punk: Deluxe Edition | 287122 | [287122-trash-punk-deluxe-edition.json](./287122-trash-punk-deluxe-edition.json) |
 | Trash Punk: Extended Edition | 298575 | [298575-trash-punk-extended-edition.json](./298575-trash-punk-extended-edition.json) |
 | Trash Sailors | 122426 | [122426-trash-sailors.json](./122426-trash-sailors.json) |
 | Trashcan Simulator | 329594 | [329594-trashcan-simulator.json](./329594-trashcan-simulator.json) |
