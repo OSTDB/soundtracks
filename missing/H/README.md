@@ -657,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls | 294164 | [294164-hentai-girls.json](./294164-hentai-girls.json) |
 | Hentai Girls Nature | 311810 | [311810-hentai-girls-nature.json](./311810-hentai-girls-nature.json) |
 | Hentai Girls Slide | 277596 | [277596-hentai-girls-slide.json](./277596-hentai-girls-slide.json) |
+| Hentai Girls: Happy Edition | 290427 | [290427-hentai-girls-happy-edition.json](./290427-hentai-girls-happy-edition.json) |
 | Hentai Girls: Magnificent Edition | 298572 | [298572-hentai-girls-magnificent-edition.json](./298572-hentai-girls-magnificent-edition.json) |
 | Hentai Girls: Paris Romance | 314871 | [314871-hentai-girls-paris-romance.json](./314871-hentai-girls-paris-romance.json) |
 | Hentai Girls: Sexy Feet Goddesses | 296907 | [296907-hentai-girls-sexy-feet-goddesses.json](./296907-hentai-girls-sexy-feet-goddesses.json) |
@@ -1307,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Milf 9 | 224222 | [224222-hot-milf-9.json](./224222-hot-milf-9.json) |
 | Hot Office: Sex Story | 296910 | [296910-hot-office-sex-story.json](./296910-hot-office-sex-story.json) |
 | Hot Pool | 74454 | [74454-hot-pool.json](./74454-hot-pool.json) |
+| Hot Rider Racing Simulator | 290428 | [290428-hot-rider-racing-simulator.json](./290428-hot-rider-racing-simulator.json) |
 | Hot Runback: VR Runner | 68656 | [68656-hot-runback-vr-runner.json](./68656-hot-runback-vr-runner.json) |
 | Hot Shot | 317877 | [317877-hot-shot.json](./317877-hot-shot.json) |
 | Hot Shot Burn | 121036 | [121036-hot-shot-burn.json](./121036-hot-shot-burn.json) |
@@ -1403,6 +1405,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How it was to live Guadalindie 2026 | 410255 | [410255-how-it-was-to-live-guadalindie-2026.json](./410255-how-it-was-to-live-guadalindie-2026.json) |
 | How long can human beings exist | 109657 | [109657-how-long-can-human-beings-exist.json](./109657-how-long-can-human-beings-exist.json) |
 | How Many Bugs in a Box | 380444 | [380444-how-many-bugs-in-a-box.json](./380444-how-many-bugs-in-a-box.json) |
+| How the Little Match Girl Got Her Colt Paterson Revolver, and Taught a Virtue to a Goblin | 290403 | [290403-how-the-little-match-girl-got-her-colt-paterson-revolver-and-taught-a-virtue-to-a-goblin.json](./290403-how-the-little-match-girl-got-her-colt-paterson-revolver-and-taught-a-virtue-to-a-goblin.json) |
+| How the Little Match Girl Met the Queen of Vampires | 290404 | [290404-how-the-little-match-girl-met-the-queen-of-vampires.json](./290404-how-the-little-match-girl-met-the-queen-of-vampires.json) |
 | How They Found Silence | 169987 | [169987-how-they-found-silence.json](./169987-how-they-found-silence.json) |
 | How to Build a Flying City | 321746 | [321746-how-to-build-a-flying-city.json](./321746-how-to-build-a-flying-city.json) |
 | How to Chicken 101 | 181399 | [181399-how-to-chicken-101.json](./181399-how-to-chicken-101.json) |
