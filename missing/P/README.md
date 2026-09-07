@@ -1146,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet TD | 195265 | [195265-planet-td.json](./195265-planet-td.json) |
 | Planet Zeta | 166783 | [166783-planet-zeta.json](./166783-planet-zeta.json) |
 | Planet Zoldath | 318409 | [318409-planet-zoldath.json](./318409-planet-zoldath.json) |
+| Planet Zoo: Barnyard Animal Pack | 308275 | [308275-planet-zoo-barnyard-animal-pack.json](./308275-planet-zoo-barnyard-animal-pack.json) |
 | Planet Zoo: Europe Pack | 191245 | [191245-planet-zoo-europe-pack.json](./191245-planet-zoo-europe-pack.json) |
 | Planetary Defense Force | 129787 | [129787-planetary-defense-force.json](./129787-planetary-defense-force.json) |
 | Planetary Escape: An Audiogame | 181380 | [181380-planetary-escape-an-audiogame.json](./181380-planetary-escape-an-audiogame.json) |
@@ -1303,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point Gakushuu: 10-masu Keisan | 327621 | [327621-point-gakushuu-10-masu-keisan.json](./327621-point-gakushuu-10-masu-keisan.json) |
 | Point Gakushuu: Kakijun | 327620 | [327620-point-gakushuu-kakijun.json](./327620-point-gakushuu-kakijun.json) |
 | Point Gakushuu: Tokei | 327619 | [327619-point-gakushuu-tokei.json](./327619-point-gakushuu-tokei.json) |
+| Poison Heart | 308242 | [308242-poison-heart.json](./308242-poison-heart.json) |
 | Poké Everworld Online | 389447 | [389447-poke-everworld-online.json](./389447-poke-everworld-online.json) |
 | PokeFields | 414341 | [414341-pokefields.json](./414341-pokefields.json) |
 | Pokémon | 221996 | [221996-pokemon.json](./221996-pokemon.json) |
@@ -1643,6 +1645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pranksters: Treasure of the Indians | 322570 | [322570-pranksters-treasure-of-the-indians.json](./322570-pranksters-treasure-of-the-indians.json) |
 | Pray Game | 167306 | [167306-pray-game.json](./167306-pray-game.json) |
 | Pre-RON MI5 Bob | 71007 | [71007-pre-ron-mi5-bob.json](./71007-pre-ron-mi5-bob.json) |
+| Precipice Pain | 308245 | [308245-precipice-pain.json](./308245-precipice-pain.json) |
 | Precision Point VR | 270949 | [270949-precision-point-vr.json](./270949-precision-point-vr.json) |
 | Predator | 74422 | [74422-predator.json](./74422-predator.json) |
 | Predator: Hunting Grounds - Jungle Edition | 331853 | [331853-predator-hunting-grounds-jungle-edition.json](./331853-predator-hunting-grounds-jungle-edition.json) |
@@ -2244,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramida | 136491 | [136491-pyramida.json](./136491-pyramida.json) |
 | Pyramids and Aliens: Escape Room | 295019 | [295019-pyramids-and-aliens-escape-room.json](./295019-pyramids-and-aliens-escape-room.json) |
 | Pyramis | 397668 | [397668-pyramis.json](./397668-pyramis.json) |
+| Pyratel | 308239 | [308239-pyratel.json](./308239-pyratel.json) |
 | Pyrosynchist | 370690 | [370690-pyrosynchist.json](./370690-pyrosynchist.json) |
 | Pyrus: Alle Tiders Familiespil | 129813 | [129813-pyrus-alle-tiders-familiespil.json](./129813-pyrus-alle-tiders-familiespil.json) |
 | Pyrus: Alletiders Jul | 129780 | [129780-pyrus-alletiders-jul.json](./129780-pyrus-alletiders-jul.json) |
