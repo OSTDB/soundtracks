@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injustice 2: Red Hood | 165037 | [165037-injustice-2-red-hood.json](./165037-injustice-2-red-hood.json) |
 | Injustice 2: Starfire | 165038 | [165038-injustice-2-starfire.json](./165038-injustice-2-starfire.json) |
 | Injustice 2: The Atom | 165044 | [165044-injustice-2-the-atom.json](./165044-injustice-2-the-atom.json) |
+| Injustice: Containment Suit Doomsday | 305201 | [305201-injustice-containment-suit-doomsday.json](./305201-injustice-containment-suit-doomsday.json) |
 | Ink and Intrigue | 340753 | [340753-ink-and-intrigue.json](./340753-ink-and-intrigue.json) |
 | Ink Paper Minesweeper: L'animal dans la décoration Free Pack | 336346 | [336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json](./336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json) |
 | Ink Paper Minesweeper: Traditional Japanese Paintings Pack | 336345 | [336345-ink-paper-minesweeper-traditional-japanese-paintings-pack.json](./336345-ink-paper-minesweeper-traditional-japanese-paintings-pack.json) |
@@ -797,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is the Vat Utopia or Dystopia? | 355551 | [355551-is-the-vat-utopia-or-dystopia.json](./355551-is-the-vat-utopia-or-dystopia.json) |
 | Is this a Game yet? | 353312 | [353312-is-this-a-game-yet.json](./353312-is-this-a-game-yet.json) |
 | Is This Even Chess? | 275350 | [275350-is-this-even-chess.json](./275350-is-this-even-chess.json) |
+| Is this Game Trying to Kill Me? Preface | 305196 | [305196-is-this-game-trying-to-kill-me-preface.json](./305196-is-this-game-trying-to-kill-me-preface.json) |
 | Isaac Phens: Ace Attorney | 318804 | [318804-isaac-phens-ace-attorney.json](./318804-isaac-phens-ace-attorney.json) |
 | Isaacle | 361711 | [361711-isaacle.json](./361711-isaacle.json) |
 | Isabella: Chasing Shadows | 278730 | [278730-isabella-chasing-shadows.json](./278730-isabella-chasing-shadows.json) |
