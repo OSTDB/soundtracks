@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Innocence R | 42673 | [42673-tales-of-innocence-r.json](./42673-tales-of-innocence-r.json) |
 | Tales of Klodan | 349328 | [349328-tales-of-klodan.json](./349328-tales-of-klodan.json) |
 | Tales of Lagoona: Orphans of the Ocean | 54424 | [54424-tales-of-lagoona-orphans-of-the-ocean.json](./54424-tales-of-lagoona-orphans-of-the-ocean.json) |
+| Tales of Lost Ages Vol 1. | 298057 | [298057-tales-of-lost-ages-vol-1.json](./298057-tales-of-lost-ages-vol-1.json) |
 | Tales of Medieval Duelists | 389982 | [389982-tales-of-medieval-duelists.json](./389982-tales-of-medieval-duelists.json) |
 | Tales of Monkey Island: Chapter 3 - Lair of the Leviathan | 81269 | [81269-tales-of-monkey-island-chapter-3-lair-of-the-leviathan.json](./81269-tales-of-monkey-island-chapter-3-lair-of-the-leviathan.json) |
 | Tales of Nebezem: Elemental Link | 86749 | [86749-tales-of-nebezem-elemental-link.json](./86749-tales-of-nebezem-elemental-link.json) |
@@ -313,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tankron | 215883 | [215883-tankron.json](./215883-tankron.json) |
 | Tanks | 102253 | [102253-tanks.json](./102253-tanks.json) |
 | Tanks Boom Boom | 210872 | [210872-tanks-boom-boom.json](./210872-tanks-boom-boom.json) |
+| Tanks Defense | 298013 | [298013-tanks-defense.json](./298013-tanks-defense.json) |
 | Tanks Endeavor | 117073 | [117073-tanks-endeavor.json](./117073-tanks-endeavor.json) |
 | Tanky Tanks | 120399 | [120399-tanky-tanks.json](./120399-tanky-tanks.json) |
 | Tanoth | 52019 | [52019-tanoth.json](./52019-tanoth.json) |
@@ -768,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Arrogant Kaiju Princess and The Detective Servant | 267060 | [267060-the-arrogant-kaiju-princess-and-the-detective-servant.json](./267060-the-arrogant-kaiju-princess-and-the-detective-servant.json) |
 | The Arson Betrayal | 239312 | [239312-the-arson-betrayal.json](./239312-the-arson-betrayal.json) |
 | The Artifact of Ancients | 301838 | [301838-the-artifact-of-ancients.json](./301838-the-artifact-of-ancients.json) |
+| The Ascot | 298061 | [298061-the-ascot.json](./298061-the-ascot.json) |
 | The Asmodian Princesses and the Witch in the Forest | 199088 | [199088-the-asmodian-princesses-and-the-witch-in-the-forest.json](./199088-the-asmodian-princesses-and-the-witch-in-the-forest.json) |
 | The Assassins: PD Games Volume 01 | 267643 | [267643-the-assassins-pd-games-volume-01.json](./267643-the-assassins-pd-games-volume-01.json) |
 | The Assistant's Turnabout | 303261 | [303261-the-assistants-turnabout.json](./303261-the-assistants-turnabout.json) |
@@ -2336,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Texas Chain Saw Massacre: Sissy Wildflower Outfit | 308569 | [308569-the-texas-chain-saw-massacre-sissy-wildflower-outfit.json](./308569-the-texas-chain-saw-massacre-sissy-wildflower-outfit.json) |
 | The Texas Chain Saw Massacre: Sonny Outfit Pack 3 | 351012 | [351012-the-texas-chain-saw-massacre-sonny-outfit-pack-3.json](./351012-the-texas-chain-saw-massacre-sonny-outfit-pack-3.json) |
 | The Texas Chain Saw Massacre: Sunday Best Outfit Pack | 351013 | [351013-the-texas-chain-saw-massacre-sunday-best-outfit-pack.json](./351013-the-texas-chain-saw-massacre-sunday-best-outfit-pack.json) |
+| The Texas Chain Saw Massacre: Virginia | 298023 | [298023-the-texas-chain-saw-massacre-virginia.json](./298023-the-texas-chain-saw-massacre-virginia.json) |
 | The Texas Chain Saw Massacre: Weapon Skin Variants | 308570 | [308570-the-texas-chain-saw-massacre-weapon-skin-variants.json](./308570-the-texas-chain-saw-massacre-weapon-skin-variants.json) |
 | The Texas Chain Saw Massacre: Wyatt | 351018 | [351018-the-texas-chain-saw-massacre-wyatt.json](./351018-the-texas-chain-saw-massacre-wyatt.json) |
 | The Textorcist: Amen Edition | 196300 | [196300-the-textorcist-amen-edition.json](./196300-the-textorcist-amen-edition.json) |
@@ -2755,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic-Toc-Tower: Teslagrad | 171063 | [171063-tic-toc-tower-teslagrad.json](./171063-tic-toc-tower-teslagrad.json) |
 | TIC's Revenge | 332243 | [332243-tics-revenge.json](./332243-tics-revenge.json) |
 | Tick Tock Clock | 308235 | [308235-tick-tock-clock.json](./308235-tick-tock-clock.json) |
+| Ticket to Ride: Nordic Expansion | 298025 | [298025-ticket-to-ride-nordic-expansion.json](./298025-ticket-to-ride-nordic-expansion.json) |
 | Ticket to Ride: USA 1910 Ticket Pack | 311992 | [311992-ticket-to-ride-usa-1910-ticket-pack.json](./311992-ticket-to-ride-usa-1910-ticket-pack.json) |
 | Ticket to Ride: Winter | 375176 | [375176-ticket-to-ride-winter.json](./375176-ticket-to-ride-winter.json) |
 | Ticking Tea Time | 327184 | [327184-ticking-tea-time.json](./327184-ticking-tea-time.json) |
@@ -4001,6 +4006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrotMania: Aeternum Obscurum | 313470 | [313470-trotmania-aeternum-obscurum.json](./313470-trotmania-aeternum-obscurum.json) |
 | Trouble in Warsaw | 326069 | [326069-trouble-in-warsaw.json](./326069-trouble-in-warsaw.json) |
 | Trouble Inn: Jonny's Room | 163949 | [163949-trouble-inn-jonnys-room.json](./163949-trouble-inn-jonnys-room.json) |
+| Trouble of Tabu | 298050 | [298050-trouble-of-tabu.json](./298050-trouble-of-tabu.json) |
 | Troubles in Silesia Country | 250013 | [250013-troubles-in-silesia-country.json](./250013-troubles-in-silesia-country.json) |
 | Trouserheart | 61113 | [61113-trouserheart.json](./61113-trouserheart.json) |
 | Troy Online | 92516 | [92516-troy-online.json](./92516-troy-online.json) |
