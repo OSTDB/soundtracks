@@ -382,9 +382,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Attorney: Ultimate Justice | 304031 | [304031-ace-attorney-ultimate-justice.json](./304031-ace-attorney-ultimate-justice.json) |
 | Ace Baker | 182524 | [182524-ace-baker.json](./182524-ace-baker.json) |
 | Ace Banana | 25108 | [25108-ace-banana.json](./25108-ace-banana.json) |
+| Ace Combat 7: Skies Unknown - 25th Anniversary Emblem Set | 282583 | [282583-ace-combat-7-skies-unknown-25th-anniversary-emblem-set.json](./282583-ace-combat-7-skies-unknown-25th-anniversary-emblem-set.json) |
+| Ace Combat 7: Skies Unknown - 25th Anniversary Emblem Set II | 282591 | [282591-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-ii.json](./282591-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-ii.json) |
+| Ace Combat 7: Skies Unknown - 25th Anniversary Skin Set | 282582 | [282582-ace-combat-7-skies-unknown-25th-anniversary-skin-set.json](./282582-ace-combat-7-skies-unknown-25th-anniversary-skin-set.json) |
+| Ace Combat 7: Skies Unknown - 25th Anniversary Skin Set II | 282593 | [282593-ace-combat-7-skies-unknown-25th-anniversary-skin-set-ii.json](./282593-ace-combat-7-skies-unknown-25th-anniversary-skin-set-ii.json) |
+| Ace Combat 7: Skies Unknown - 25th Anniversary Skin Set III | 282595 | [282595-ace-combat-7-skies-unknown-25th-anniversary-skin-set-iii.json](./282595-ace-combat-7-skies-unknown-25th-anniversary-skin-set-iii.json) |
+| Ace Combat 7: Skies Unknown - ASF-X Shinden II Set | 282579 | [282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json](./282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json) |
+| Ace Combat 7: Skies Unknown - Bonus Emblem Set | 282587 | [282587-ace-combat-7-skies-unknown-bonus-emblem-set.json](./282587-ace-combat-7-skies-unknown-bonus-emblem-set.json) |
+| Ace Combat 7: Skies Unknown - CFA-44 Nosferatu Set | 282578 | [282578-ace-combat-7-skies-unknown-cfa-44-nosferatu-set.json](./282578-ace-combat-7-skies-unknown-cfa-44-nosferatu-set.json) |
+| Ace Combat 7: Skies Unknown - Deluxe Edition 2022 | 282545 | [282545-ace-combat-7-skies-unknown-deluxe-edition-2022.json](./282545-ace-combat-7-skies-unknown-deluxe-edition-2022.json) |
+| Ace Combat 7: Skies Unknown - F-104C: Avril | 282540 | [282540-ace-combat-7-skies-unknown-f-104c-avril.json](./282540-ace-combat-7-skies-unknown-f-104c-avril.json) |
+| Ace Combat 7: Skies Unknown - F-15 S/MTD Set | 282589 | [282589-ace-combat-7-skies-unknown-f-15-s-mtd-set.json](./282589-ace-combat-7-skies-unknown-f-15-s-mtd-set.json) |
+| Ace Combat 7: Skies Unknown - F-16XL Set | 282588 | [282588-ace-combat-7-skies-unknown-f-16xl-set.json](./282588-ace-combat-7-skies-unknown-f-16xl-set.json) |
+| Ace Combat 7: Skies Unknown - FB-22 Strike Raptor Set | 282590 | [282590-ace-combat-7-skies-unknown-fb-22-strike-raptor-set.json](./282590-ace-combat-7-skies-unknown-fb-22-strike-raptor-set.json) |
+| Ace Combat 7: Skies Unknown - Music Player Mode | 282581 | [282581-ace-combat-7-skies-unknown-music-player-mode.json](./282581-ace-combat-7-skies-unknown-music-player-mode.json) |
 | Ace Combat 7: Skies Unknown - Original Aircraft Series | 138246 | [138246-ace-combat-7-skies-unknown-original-aircraft-series.json](./138246-ace-combat-7-skies-unknown-original-aircraft-series.json) |
 | Ace Combat 7: Skies Unknown - Top Gun: Maverick Edition | 204084 | [204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json](./204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json) |
 | Ace Combat 7: Skies Unknown - Top Gun: Maverick Ultimate Edition | 205250 | [205250-ace-combat-7-skies-unknown-top-gun-maverick-ultimate-edition.json](./205250-ace-combat-7-skies-unknown-top-gun-maverick-ultimate-edition.json) |
+| Ace Combat 7: Skies Unknown - Ultimate Edition | 282547 | [282547-ace-combat-7-skies-unknown-ultimate-edition.json](./282547-ace-combat-7-skies-unknown-ultimate-edition.json) |
 | Ace Combat Zero: The Belkan War | 14754 | [14754-ace-combat-zero-the-belkan-war.json](./14754-ace-combat-zero-the-belkan-war.json) |
 | Ace Defender | 177535 | [177535-ace-defender.json](./177535-ace-defender.json) |
 | Ace Force | 121736 | [121736-ace-force.json](./121736-ace-force.json) |
