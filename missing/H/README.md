@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Gallery: Secret Beauties | 378806 | [378806-hentai-gallery-secret-beauties.json](./378806-hentai-gallery-secret-beauties.json) |
 | Hentai Girls Nature | 311810 | [311810-hentai-girls-nature.json](./311810-hentai-girls-nature.json) |
 | Hentai Girls Slide | 277596 | [277596-hentai-girls-slide.json](./277596-hentai-girls-slide.json) |
+| Hentai Girls: Magnificent Edition | 298572 | [298572-hentai-girls-magnificent-edition.json](./298572-hentai-girls-magnificent-edition.json) |
 | Hentai Girls: Paris Romance | 314871 | [314871-hentai-girls-paris-romance.json](./314871-hentai-girls-paris-romance.json) |
 | Hentai Girls: Ultra Extended | 308817 | [308817-hentai-girls-ultra-extended.json](./308817-hentai-girls-ultra-extended.json) |
 | Hentai Golf: Happy Edition | 315861 | [315861-hentai-golf-happy-edition.json](./315861-hentai-golf-happy-edition.json) |
