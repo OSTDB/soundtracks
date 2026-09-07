@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tackle Tourney Turbo | 177012 | [177012-tackle-tourney-turbo.json](./177012-tackle-tourney-turbo.json) |
 | Taco Bell: Tasty Temple Challenge | 11008 | [11008-taco-bell-tasty-temple-challenge.json](./11008-taco-bell-tasty-temple-challenge.json) |
 | Taco Break | 187510 | [187510-taco-break.json](./187510-taco-break.json) |
+| Taco Joe: Endless Taco Tosser | 268451 | [268451-taco-joe-endless-taco-tosser.json](./268451-taco-joe-endless-taco-tosser.json) |
 | Tacti-Cat | 265926 | [265926-tacti-cat.json](./265926-tacti-cat.json) |
 | Tactic Legends | 310202 | [310202-tactic-legends.json](./310202-tactic-legends.json) |
 | Tactical Assassin 2 | 280210 | [280210-tactical-assassin-2.json](./280210-tactical-assassin-2.json) |
@@ -553,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple Run 2 | 336388 | [336388-temple-run-2.json](./336388-temple-run-2.json) |
 | Temples vs. Buildings | 296353 | [296353-temples-vs-buildings.json](./296353-temples-vs-buildings.json) |
 | Templum de Malum | 118399 | [118399-templum-de-malum.json](./118399-templum-de-malum.json) |
+| Templum Dormiens Dei | 268460 | [268460-templum-dormiens-dei.json](./268460-templum-dormiens-dei.json) |
 | Tempo Nuts | 256542 | [256542-tempo-nuts.json](./256542-tempo-nuts.json) |
 | Tempoknight | 224204 | [224204-tempoknight.json](./224204-tempoknight.json) |
 | Temporal Cross | 310211 | [310211-temporal-cross.json](./310211-temporal-cross.json) |
@@ -567,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenebra | 333921 | [333921-tenebra.json](./333921-tenebra.json) |
 | Tenebra | 360014 | [360014-tenebra.json](./360014-tenebra.json) |
 | Tenebrous Dungeon | 115002 | [115002-tenebrous-dungeon.json](./115002-tenebrous-dungeon.json) |
+| Tenebrum | 268458 | [268458-tenebrum.json](./268458-tenebrum.json) |
 | Tengai Makyou: Daiyon no Mokushiroku - The Apocalypse IV | 80577 | [80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json](./80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json) |
 | Tengai Makyou: Fuun Kabuki-den | 71530 | [71530-tengai-makyou-fuun-kabuki-den.json](./71530-tengai-makyou-fuun-kabuki-den.json) |
 | Tengu no Kassha: Shoot and Embodiment! | 342037 | [342037-tengu-no-kassha-shoot-and-embodiment.json](./342037-tengu-no-kassha-shoot-and-embodiment.json) |
@@ -1104,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crossroads | 411592 | [411592-the-crossroads.json](./411592-the-crossroads.json) |
 | The Crows | 326985 | [326985-the-crows.json](./326985-the-crows.json) |
 | The Crust: Supporter Pack | 400874 | [400874-the-crust-supporter-pack.json](./400874-the-crust-supporter-pack.json) |
+| The Crypts | 268469 | [268469-the-crypts.json](./268469-the-crypts.json) |
 | The Crystal Rainforest | 151716 | [151716-the-crystal-rainforest.json](./151716-the-crystal-rainforest.json) |
 | The Culling II | 103367 | [103367-the-culling-ii.json](./103367-the-culling-ii.json) |
 | The Cult: Marduk's Longest Night | 121742 | [121742-the-cult-marduks-longest-night.json](./121742-the-cult-marduks-longest-night.json) |
@@ -1341,6 +1345,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fidelio Incident | 36707 | [36707-the-fidelio-incident.json](./36707-the-fidelio-incident.json) |
 | The Fiend's Tavern | 104077 | [104077-the-fiends-tavern.json](./104077-the-fiends-tavern.json) |
 | The Fierce Livid | 271764 | [271764-the-fierce-livid.json](./271764-the-fierce-livid.json) |
+| The Fiery Crater | 268474 | [268474-the-fiery-crater.json](./268474-the-fiery-crater.json) |
+| The Fiery Descent | 268475 | [268475-the-fiery-descent.json](./268475-the-fiery-descent.json) |
 | The Fifth Paradox | 232710 | [232710-the-fifth-paradox.json](./232710-the-fifth-paradox.json) |
 | The Final Ascent | 408826 | [408826-the-final-ascent.json](./408826-the-final-ascent.json) |
 | The Final Countdown | 277318 | [277318-the-final-countdown.json](./277318-the-final-countdown.json) |
@@ -1521,6 +1527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heroic Legend of Eagarlnia: Expansion Pack | 199651 | [199651-the-heroic-legend-of-eagarlnia-expansion-pack.json](./199651-the-heroic-legend-of-eagarlnia-expansion-pack.json) |
 | The Hikyou Tankentai: Choutoko Special | 124270 | [124270-the-hikyou-tankentai-choutoko-special.json](./124270-the-hikyou-tankentai-choutoko-special.json) |
 | The History Channel: Civil War - Secret Missions | 47404 | [47404-the-history-channel-civil-war-secret-missions.json](./47404-the-history-channel-civil-war-secret-missions.json) |
+| The History of Fruit | 268471 | [268471-the-history-of-fruit.json](./268471-the-history-of-fruit.json) |
 | The History of Magic Tower: Opening | 309354 | [309354-the-history-of-magic-tower-opening.json](./309354-the-history-of-magic-tower-opening.json) |
 | The Hive | 242803 | [242803-the-hive.json](./242803-the-hive.json) |
 | The Hollow Alchemist | 371257 | [371257-the-hollow-alchemist.json](./371257-the-hollow-alchemist.json) |
@@ -2270,6 +2277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seven Realms: Realm 3 - High Lathión | 267673 | [267673-the-seven-realms-realm-3-high-lathion.json](./267673-the-seven-realms-realm-3-high-lathion.json) |
 | The Seven Years War (1756-1763) | 13666 | [13666-the-seven-years-war-1756-1763.json](./13666-the-seven-years-war-1756-1763.json) |
 | The Seven Years War (1756-1763): Pomeranian War | 171610 | [171610-the-seven-years-war-1756-1763-pomeranian-war.json](./171610-the-seven-years-war-1756-1763-pomeranian-war.json) |
+| The Sewers of D'Sparil | 268467 | [268467-the-sewers-of-dsparil.json](./268467-the-sewers-of-dsparil.json) |
 | The Shade Forest | 319028 | [319028-the-shade-forest.json](./319028-the-shade-forest.json) |
 | The Shadow in the Cathedral | 10939 | [10939-the-shadow-in-the-cathedral.json](./10939-the-shadow-in-the-cathedral.json) |
 | The Shadow of Shadows | 377047 | [377047-the-shadow-of-shadows.json](./377047-the-shadow-of-shadows.json) |
@@ -2438,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Supper | 128289 | [128289-the-supper.json](./128289-the-supper.json) |
 | The Surge 2: Premium Edition | 154535 | [154535-the-surge-2-premium-edition.json](./154535-the-surge-2-premium-edition.json) |
 | The Surge: The Good, the Bad, and the Augmented | 109240 | [109240-the-surge-the-good-the-bad-and-the-augmented.json](./109240-the-surge-the-good-the-bad-and-the-augmented.json) |
+| The Swan Princess: Hidden Tales | 268452 | [268452-the-swan-princess-hidden-tales.json](./268452-the-swan-princess-hidden-tales.json) |
 | The Swapper | 5892 | [5892-the-swapper.json](./5892-the-swapper.json) |
 | The Swarm | 226432 | [226432-the-swarm.json](./226432-the-swarm.json) |
 | The Sweetest Ring | 268213 | [268213-the-sweetest-ring.json](./268213-the-sweetest-ring.json) |
@@ -2785,6 +2794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief Puzzle: Tricks | 313514 | [313514-thief-puzzle-tricks.json](./313514-thief-puzzle-tricks.json) |
 | Thief Simulator | 61616 | [61616-thief-simulator.json](./61616-thief-simulator.json) |
 | Thief VR: Legacy of Shadow | 347124 | [347124-thief-vr-legacy-of-shadow.json](./347124-thief-vr-legacy-of-shadow.json) |
+| Thief: The Trail of the Arch-Heretic | 268465 | [268465-thief-the-trail-of-the-arch-heretic.json](./268465-thief-the-trail-of-the-arch-heretic.json) |
 | Thief's Adventure | 372490 | [372490-thiefs-adventure.json](./372490-thiefs-adventure.json) |
 | Thievery | 105326 | [105326-thievery.json](./105326-thievery.json) |
 | Thieves | 335875 | [335875-thieves.json](./335875-thieves.json) |
@@ -3563,6 +3573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torres | 94251 | [94251-torres.json](./94251-torres.json) |
 | Torshtra Minkan Setsuwashuu yori: Kokuou no Musume | 386111 | [386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json](./386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json) |
 | Tortuga Escape | 383371 | [383371-tortuga-escape.json](./383371-tortuga-escape.json) |
+| Torture | 268464 | [268464-torture.json](./268464-torture.json) |
 | Torture | 276458 | [276458-torture.json](./276458-torture.json) |
 | Torus | 214725 | [214725-torus.json](./214725-torus.json) |
 | Torus Zero: Dare ga Neko wo Koroshita ka | 340384 | [340384-torus-zero-dare-ga-neko-wo-koroshita-ka.json](./340384-torus-zero-dare-ga-neko-wo-koroshita-ka.json) |
@@ -4021,6 +4032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traulian: O Ultimo General | 293900 | [293900-traulian-o-ultimo-general.json](./293900-traulian-o-ultimo-general.json) |
 | Trauma | 301607 | [301607-trauma.json](./301607-trauma.json) |
 | TraumaCore Violence | 236518 | [236518-traumacore-violence.json](./236518-traumacore-violence.json) |
+| Traumatarium | 268457 | [268457-traumatarium.json](./268457-traumatarium.json) |
 | Travel Bug | 86096 | [86096-travel-bug.json](./86096-travel-bug.json) |
 | Travel Cuisine: Collector's Edition | 250655 | [250655-travel-cuisine-collectors-edition.json](./250655-travel-cuisine-collectors-edition.json) |
 | Travel Junction | 335859 | [335859-travel-junction.json](./335859-travel-junction.json) |
@@ -4293,6 +4305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukumo Reiko's Summer Holidays | 394163 | [394163-tsukumo-reikos-summer-holidays.json](./394163-tsukumo-reikos-summer-holidays.json) |
 | Tsukumogamis! | 272870 | [272870-tsukumogamis.json](./272870-tsukumogamis.json) |
 | Tsukumonogatari | 66115 | [66115-tsukumonogatari.json](./66115-tsukumonogatari.json) |
+| Tsumera | 268456 | [268456-tsumera.json](./268456-tsumera.json) |
 | Tsumobaka Nisshi | 299440 | [299440-tsumobaka-nisshi.json](./299440-tsumobaka-nisshi.json) |
 | Tsunagaru Voiro Shooters vs. Space Kedamaki | 204732 | [204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json](./204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json) |
 | Tsunami Cruiser | 184655 | [184655-tsunami-cruiser.json](./184655-tsunami-cruiser.json) |
