@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Days | 332225 | [332225-darkest-days.json](./332225-darkest-days.json) |
 | Darkest Descent | 370670 | [370670-darkest-descent.json](./370670-darkest-descent.json) |
 | Darkest Dungeon II: Oblivion Edition | 298850 | [298850-darkest-dungeon-ii-oblivion-edition.json](./298850-darkest-dungeon-ii-oblivion-edition.json) |
+| Darkest Light | 294127 | [294127-darkest-light.json](./294127-darkest-light.json) |
 | Darkfate | 242817 | [242817-darkfate.json](./242817-darkfate.json) |
 | Darkheart: Flight of the Harpies - Collector's Edition | 339840 | [339840-darkheart-flight-of-the-harpies-collectors-edition.json](./339840-darkheart-flight-of-the-harpies-collectors-edition.json) |
 | DarkHouse | 371887 | [371887-darkhouse.json](./371887-darkhouse.json) |
@@ -981,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DevilDark: The Fallen Kingdom | 343817 | [343817-devildark-the-fallen-kingdom.json](./343817-devildark-the-fallen-kingdom.json) |
 | Deviled Dice | 397711 | [397711-deviled-dice.json](./397711-deviled-dice.json) |
 | Devils of the Deep | 294738 | [294738-devils-of-the-deep.json](./294738-devils-of-the-deep.json) |
+| Devils Wind Mine | 294156 | [294156-devils-wind-mine.json](./294156-devils-wind-mine.json) |
 | Devoid | 377568 | [377568-devoid.json](./377568-devoid.json) |
 | Devolution: Maken no Ou to Shimobe-tachi | 220329 | [220329-devolution-maken-no-ou-to-shimobe-tachi.json](./220329-devolution-maken-no-ou-to-shimobe-tachi.json) |
 | Devotion | 107228 | [107228-devotion.json](./107228-devotion.json) |
@@ -1231,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discounty: People or Profit? | 404848 | [404848-discounty-people-or-profit.json](./404848-discounty-people-or-profit.json) |
 | Discover My Body | 153577 | [153577-discover-my-body.json](./153577-discover-my-body.json) |
 | Discovering Colors - Animals (Coloring Book) | 106572 | [106572-discovering-colors-animals-coloring-book.json](./106572-discovering-colors-animals-coloring-book.json) |
+| Discovering Galimore | 294154 | [294154-discovering-galimore.json](./294154-discovering-galimore.json) |
 | Discovering Space 2 | 32205 | [32205-discovering-space-2.json](./32205-discovering-space-2.json) |
 | Discovery Kids: Pony Paradise | 69273 | [69273-discovery-kids-pony-paradise.json](./69273-discovery-kids-pony-paradise.json) |
 | Discovery Kids: Spider Quest | 67308 | [67308-discovery-kids-spider-quest.json](./67308-discovery-kids-spider-quest.json) |
@@ -2200,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duet Night Abyss: Paradise Prelude | 413601 | [413601-duet-night-abyss-paradise-prelude.json](./413601-duet-night-abyss-paradise-prelude.json) |
 | Duet Night Abyss: Silver Torrent, Rising Star | 413599 | [413599-duet-night-abyss-silver-torrent-rising-star.json](./413599-duet-night-abyss-silver-torrent-rising-star.json) |
 | Dufe: Masquerade | 179749 | [179749-dufe-masquerade.json](./179749-dufe-masquerade.json) |
+| Duilius: The Ancient Duel | 294152 | [294152-duilius-the-ancient-duel.json](./294152-duilius-the-ancient-duel.json) |
 | Dukai | 271984 | [271984-dukai.json](./271984-dukai.json) |
 | Duke Dashington Remastered | 96565 | [96565-duke-dashington-remastered.json](./96565-duke-dashington-remastered.json) |
 | Duke Hard | 218118 | [218118-duke-hard.json](./218118-duke-hard.json) |
