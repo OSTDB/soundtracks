@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Chick | 157165 | [157165-little-chick.json](./157165-little-chick.json) |
 | Little City | 9544 | [9544-little-city.json](./9544-little-city.json) |
 | Little Corners | 353890 | [353890-little-corners.json](./353890-little-corners.json) |
+| Little Critters 2 | 305179 | [305179-little-critters-2.json](./305179-little-critters-2.json) |
 | Little Devourers | 169454 | [169454-little-devourers.json](./169454-little-devourers.json) |
 | Little Doll Queen | 260377 | [260377-little-doll-queen.json](./260377-little-doll-queen.json) |
 | Little Dragons Café | 88887 | [88887-little-dragons-cafe.json](./88887-little-dragons-cafe.json) |
@@ -1004,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loree 3D | 412950 | [412950-loree-3d.json](./412950-loree-3d.json) |
 | Loren the Amazon Princess: The Castle Of N'Mar | 171634 | [171634-loren-the-amazon-princess-the-castle-of-nmar.json](./171634-loren-the-amazon-princess-the-castle-of-nmar.json) |
 | Lorerim | 383387 | [383387-lorerim.json](./383387-lorerim.json) |
+| Lorn Vale | 305172 | [305172-lorn-vale.json](./305172-lorn-vale.json) |
 | Los Angeles 1985 | 358306 | [358306-los-angeles-1985.json](./358306-los-angeles-1985.json) |
 | Los Pilarcitos | 398368 | [398368-los-pilarcitos.json](./398368-los-pilarcitos.json) |
 | Lost Abroad Café | 235450 | [235450-lost-abroad-cafe.json](./235450-lost-abroad-cafe.json) |
