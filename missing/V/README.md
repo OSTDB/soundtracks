@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Paradise: Florida - Collector's Edition | 254785 | [254785-vacation-paradise-florida-collectors-edition.json](./254785-vacation-paradise-florida-collectors-edition.json) |
 | Vacation Parking Collection | 328462 | [328462-vacation-parking-collection.json](./328462-vacation-parking-collection.json) |
 | Vacation Quest: The Hawaiian Islands | 61674 | [61674-vacation-quest-the-hawaiian-islands.json](./61674-vacation-quest-the-hawaiian-islands.json) |
+| Vacation Tycoon | 265651 | [265651-vacation-tycoon.json](./265651-vacation-tycoon.json) |
 | Vaccine Hunter | 144355 | [144355-vaccine-hunter.json](./144355-vaccine-hunter.json) |
 | Vacuum Cleaner Robot Simulator: Pile Sos Edition | 369591 | [369591-vacuum-cleaner-robot-simulator-pile-sos-edition.json](./369591-vacuum-cleaner-robot-simulator-pile-sos-edition.json) |
 | Vade Retro: Exorcist | 216492 | [216492-vade-retro-exorcist.json](./216492-vade-retro-exorcist.json) |
@@ -346,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villainous | 319976 | [319976-villainous.json](./319976-villainous.json) |
 | Vilmonic | 33104 | [33104-vilmonic.json](./33104-vilmonic.json) |
 | Vilovejets | 413657 | [413657-vilovejets.json](./413657-vilovejets.json) |
+| Vilzam: Cosmic Struggle | 265649 | [265649-vilzam-cosmic-struggle.json](./265649-vilzam-cosmic-struggle.json) |
 | Vincemus: Air Combat | 195259 | [195259-vincemus-air-combat.json](./195259-vincemus-air-combat.json) |
 | Vincent | 242243 | [242243-vincent.json](./242243-vincent.json) |
 | Vincent | 310751 | [310751-vincent.json](./310751-vincent.json) |
