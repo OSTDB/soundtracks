@@ -1859,6 +1859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Runner! | 209671 | [209671-box-runner.json](./209671-box-runner.json) |
 | Box Rush | 191243 | [191243-box-rush.json](./191243-box-rush.json) |
 | Box To The Beat VR: Electro Swing Pack | 310399 | [310399-box-to-the-beat-vr-electro-swing-pack.json](./310399-box-to-the-beat-vr-electro-swing-pack.json) |
+| Box To The Beat VR: Indie Electro Beats | 295260 | [295260-box-to-the-beat-vr-indie-electro-beats.json](./295260-box-to-the-beat-vr-indie-electro-beats.json) |
 | Box To The Beat VR: Shadow Dreams Pack | 263202 | [263202-box-to-the-beat-vr-shadow-dreams-pack.json](./263202-box-to-the-beat-vr-shadow-dreams-pack.json) |
 | Box Zombies | 311783 | [311783-box-zombies.json](./311783-box-zombies.json) |
 | Boxcars | 318425 | [318425-boxcars.json](./318425-boxcars.json) |
@@ -1932,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz: Flaunt Your Fashion - Pretty 'N' Punk Fashion Pack | 301569 | [301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json](./301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json) |
 | Brave Arms | 65527 | [65527-brave-arms.json](./65527-brave-arms.json) |
 | Brave Cano | 174350 | [174350-brave-cano.json](./174350-brave-cano.json) |
+| Brave Hero | 295271 | [295271-brave-hero.json](./295271-brave-hero.json) |
 | Brave Heroes | 208604 | [208604-brave-heroes.json](./208604-brave-heroes.json) |
 | Brave Legacy | 296379 | [296379-brave-legacy.json](./296379-brave-legacy.json) |
 | Brave Mouse Cartographer Trilogy | 139476 | [139476-brave-mouse-cartographer-trilogy.json](./139476-brave-mouse-cartographer-trilogy.json) |
@@ -2383,10 +2385,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly Garden | 69285 | [69285-butterfly-garden.json](./69285-butterfly-garden.json) |
 | Button Cat | 339120 | [339120-button-cat.json](./339120-button-cat.json) |
 | Button Game: 10 Minutes War | 368484 | [368484-button-game-10-minutes-war.json](./368484-button-game-10-minutes-war.json) |
+| Button Man | 295280 | [295280-button-man.json](./295280-button-man.json) |
 | Button VR Expeditions | 247762 | [247762-button-vr-expeditions.json](./247762-button-vr-expeditions.json) |
 | Buy Low Sell High | 109707 | [109707-buy-low-sell-high.json](./109707-buy-low-sell-high.json) |
 | Buy Me Some Soup | 188682 | [188682-buy-me-some-soup.json](./188682-buy-me-some-soup.json) |
 | Buying Tomato | 394869 | [394869-buying-tomato.json](./394869-buying-tomato.json) |
+| Buzz or Die | 295233 | [295233-buzz-or-die.json](./295233-buzz-or-die.json) |
 | Buzz! Junior: Robo Jam | 44710 | [44710-buzz-junior-robo-jam.json](./44710-buzz-junior-robo-jam.json) |
 | Buzz!: Quiz TV Special Edition | 268768 | [268768-buzz-quiz-tv-special-edition.json](./268768-buzz-quiz-tv-special-edition.json) |
 | Buzzy's World Tour | 336545 | [336545-buzzys-world-tour.json](./336545-buzzys-world-tour.json) |
