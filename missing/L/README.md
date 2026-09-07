@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laid-Back Camp: Have a nice day! - Limited Edition | 146335 | [146335-laid-back-camp-have-a-nice-day-limited-edition.json](./146335-laid-back-camp-have-a-nice-day-limited-edition.json) |
 | Laid-Back Camp: Virtual - Lake Motosu | 143719 | [143719-laid-back-camp-virtual-lake-motosu.json](./143719-laid-back-camp-virtual-lake-motosu.json) |
 | Lair Land Story: Remake Edition | 119030 | [119030-lair-land-story-remake-edition.json](./119030-lair-land-story-remake-edition.json) |
+| Lair Of The Dragon Ogre | 271735 | [271735-lair-of-the-dragon-ogre.json](./271735-lair-of-the-dragon-ogre.json) |
 | Lair Of The Leviathan | 291220 | [291220-lair-of-the-leviathan.json](./291220-lair-of-the-leviathan.json) |
 | Lake Hero | 412959 | [412959-lake-hero.json](./412959-lake-hero.json) |
 | Lake Masters | 67302 | [67302-lake-masters.json](./67302-lake-masters.json) |
