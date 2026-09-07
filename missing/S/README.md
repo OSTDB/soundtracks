@@ -719,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seiryuu Densetsu Monbit | 66141 | [66141-seiryuu-densetsu-monbit.json](./66141-seiryuu-densetsu-monbit.json) |
 | Seisai | 125997 | [125997-seisai.json](./125997-seisai.json) |
 | Seishin Hakai | 260976 | [260976-seishin-hakai.json](./260976-seishin-hakai.json) |
+| Seishoujo Kantai Virgin Fleet | 290423 | [290423-seishoujo-kantai-virgin-fleet.json](./290423-seishoujo-kantai-virgin-fleet.json) |
 | Seka II | 292323 | [292323-seka-ii.json](./292323-seka-ii.json) |
 | Sekai Saikyou Ginsei Igo 3 | 347157 | [347157-sekai-saikyou-ginsei-igo-3.json](./347157-sekai-saikyou-ginsei-igo-3.json) |
 | Sekai to Sekai no Mannaka de | 187532 | [187532-sekai-to-sekai-no-mannaka-de.json](./187532-sekai-to-sekai-no-mannaka-de.json) |
@@ -1480,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple FPS Aim Trainer | 182502 | [182502-simple-fps-aim-trainer.json](./182502-simple-fps-aim-trainer.json) |
 | Simple Loto Simulator | 157201 | [157201-simple-loto-simulator.json](./157201-simple-loto-simulator.json) |
 | Simple Monster Hunter | 265421 | [265421-simple-monster-hunter.json](./265421-simple-monster-hunter.json) |
+| Simple Number-Based Color Sense IQ Test | 290424 | [290424-simple-number-based-color-sense-iq-test.json](./290424-simple-number-based-color-sense-iq-test.json) |
 | Simple Ray tracing Mini Game 10 | 152899 | [152899-simple-ray-tracing-mini-game-10.json](./152899-simple-ray-tracing-mini-game-10.json) |
 | Simple Sandwich | 118376 | [118376-simple-sandwich.json](./118376-simple-sandwich.json) |
 | Simple Series for Nintendo 3DS Vol. 1: The Mahjong | 82133 | [82133-simple-series-for-nintendo-3ds-vol-1-the-mahjong.json](./82133-simple-series-for-nintendo-3ds-vol-1-the-mahjong.json) |
@@ -2083,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Fart Away: Jam Edition | 255391 | [255391-so-fart-away-jam-edition.json](./255391-so-fart-away-jam-edition.json) |
 | So I'm a Spider, So What? Ruler of the Labyrinth | 323711 | [323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json](./323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json) |
 | So Many Words | 308548 | [308548-so-many-words.json](./308548-so-many-words.json) |
+| So Much Stuff 2: Collector's Edition | 290425 | [290425-so-much-stuff-2-collectors-edition.json](./290425-so-much-stuff-2-collectors-edition.json) |
 | So Who's Dr. Rabbit? | 291974 | [291974-so-whos-dr-rabbit.json](./291974-so-whos-dr-rabbit.json) |
 | Soapy Tales | 392763 | [392763-soapy-tales.json](./392763-soapy-tales.json) |
 | Soar | 306951 | [306951-soar.json](./306951-soar.json) |
@@ -2771,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Force VR: Infinity War | 116492 | [116492-special-force-vr-infinity-war.json](./116492-special-force-vr-infinity-war.json) |
 | Special Forces Group 3 | 245043 | [245043-special-forces-group-3.json](./245043-special-forces-group-3.json) |
 | Special Forces Pack | 100208 | [100208-special-forces-pack.json](./100208-special-forces-pack.json) |
+| Special Forces Strike: Tactical Swat Shooter | 290426 | [290426-special-forces-strike-tactical-swat-shooter.json](./290426-special-forces-strike-tactical-swat-shooter.json) |
 | Special Forces: Team X | 16403 | [16403-special-forces-team-x.json](./16403-special-forces-team-x.json) |
 | Special Meat | 411610 | [411610-special-meat.json](./411610-special-meat.json) |
 | Special Sampler | 55925 | [55925-special-sampler.json](./55925-special-sampler.json) |
