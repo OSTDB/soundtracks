@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldramoor: Haven in the Mist | 397671 | [397671-eldramoor-haven-in-the-mist.json](./397671-eldramoor-haven-in-the-mist.json) |
 | Eldritch 2 | 342674 | [342674-eldritch-2.json](./342674-eldritch-2.json) |
 | Eldritch Cards: The Lovecraftian Dungeon Crawler Game | 413600 | [413600-eldritch-cards-the-lovecraftian-dungeon-crawler-game.json](./413600-eldritch-cards-the-lovecraftian-dungeon-crawler-game.json) |
+| Eldritch Exterminators | 264600 | [264600-eldritch-exterminators.json](./264600-eldritch-exterminators.json) |
 | Eldritch Verdict | 316630 | [316630-eldritch-verdict.json](./316630-eldritch-verdict.json) |
 | Eldritchvania | 223680 | [223680-eldritchvania.json](./223680-eldritchvania.json) |
 | Ele Blaze | 68662 | [68662-ele-blaze.json](./68662-ele-blaze.json) |
