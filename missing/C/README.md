@@ -2016,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crafty | 157157 | [157157-crafty.json](./157157-crafty.json) |
 | Crafty Crasher | 349337 | [349337-crafty-crasher.json](./349337-crafty-crasher.json) |
 | Crafty Lands | 249462 | [249462-crafty-lands.json](./249462-crafty-lands.json) |
+| Crafty Racer | 285481 | [285481-crafty-racer.json](./285481-crafty-racer.json) |
 | Craggenrock | 207498 | [207498-craggenrock.json](./207498-craggenrock.json) |
 | Crane Game Simulator | 224747 | [224747-crane-game-simulator.json](./224747-crane-game-simulator.json) |
 | Cranes | 99642 | [99642-cranes.json](./99642-cranes.json) |
