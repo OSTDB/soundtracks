@@ -1873,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MNOZ: My Nuclear Octopus 2 | 408048 | [408048-mnoz-my-nuclear-octopus-2.json](./408048-mnoz-my-nuclear-octopus-2.json) |
 | Moai Alley | 332802 | [332802-moai-alley.json](./332802-moai-alley.json) |
 | MOAR: Appeteaser | 209718 | [209718-moar-appeteaser.json](./209718-moar-appeteaser.json) |
+| Mob Control: Complete Edition | 283169 | [283169-mob-control-complete-edition.json](./283169-mob-control-complete-edition.json) |
 | Mob Drop Castle | 406078 | [406078-mob-drop-castle.json](./406078-mob-drop-castle.json) |
 | MOB the Robot | 330514 | [330514-mob-the-robot.json](./330514-mob-the-robot.json) |
 | Mobil 1 Rally Championship | 793 | [793-mobil-1-rally-championship.json](./793-mobil-1-rally-championship.json) |
@@ -2154,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Pet Shop | 242787 | [242787-monster-pet-shop.json](./242787-monster-pet-shop.json) |
 | Monster Phenomenon | 192982 | [192982-monster-phenomenon.json](./192982-monster-phenomenon.json) |
 | Monster Prom | 69483 | [69483-monster-prom.json](./69483-monster-prom.json) |
+| Monster Prom 2: Monster Camp XXL Character Pack - Colorful Campers | 283183 | [283183-monster-prom-2-monster-camp-xxl-character-pack-colorful-campers.json](./283183-monster-prom-2-monster-camp-xxl-character-pack-colorful-campers.json) |
 | Monster Prom 4: Monster Con | 307329 | [307329-monster-prom-4-monster-con.json](./307329-monster-prom-4-monster-con.json) |
 | Monster Rancher | 4104 | [4104-monster-rancher.json](./4104-monster-rancher.json) |
 | Monster Rescue | 188104 | [188104-monster-rescue.json](./188104-monster-rescue.json) |
@@ -2384,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rider Go: Highway Traffic | 104640 | [104640-moto-rider-go-highway-traffic.json](./104640-moto-rider-go-highway-traffic.json) |
 | Moto Rush GT: Advanced Edition | 315871 | [315871-moto-rush-gt-advanced-edition.json](./315871-moto-rush-gt-advanced-edition.json) |
 | Moto Rush GT: Core Edition | 396922 | [396922-moto-rush-gt-core-edition.json](./396922-moto-rush-gt-core-edition.json) |
+| Moto Rush GT: Definitive Edition | 283139 | [283139-moto-rush-gt-definitive-edition.json](./283139-moto-rush-gt-definitive-edition.json) |
 | Moto Rush GT: Grand Edition | 315869 | [315869-moto-rush-gt-grand-edition.json](./315869-moto-rush-gt-grand-edition.json) |
 | Moto Rush GT: Hyper Edition | 338005 | [338005-moto-rush-gt-hyper-edition.json](./338005-moto-rush-gt-hyper-edition.json) |
 | Moto Rush GT: Prime Edition | 271503 | [271503-moto-rush-gt-prime-edition.json](./271503-moto-rush-gt-prime-edition.json) |
