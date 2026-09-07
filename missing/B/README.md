@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Base Jump: Wing Suit Flying | 199114 | [199114-base-jump-wing-suit-flying.json](./199114-base-jump-wing-suit-flying.json) |
 | Baseball | 245560 | [245560-baseball.json](./245560-baseball.json) |
 | Baseball | 245561 | [245561-baseball.json](./245561-baseball.json) |
+| Baseball | 297486 | [297486-baseball.json](./297486-baseball.json) |
 | Baseball | 7580 | [7580-baseball.json](./7580-baseball.json) |
 | Baseball 3DS | 21150 | [21150-baseball-3ds.json](./21150-baseball-3ds.json) |
 | Baseball Boy! | 87059 | [87059-baseball-boy.json](./87059-baseball-boy.json) |
@@ -703,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Brawl | 338200 | [338200-beast-brawl.json](./338200-beast-brawl.json) |
 | Beast Farmer | 233205 | [233205-beast-farmer.json](./233205-beast-farmer.json) |
 | Beast League | 251206 | [251206-beast-league.json](./251206-beast-league.json) |
+| Beast Lord: The New Land | 297500 | [297500-beast-lord-the-new-land.json](./297500-beast-lord-the-new-land.json) |
 | Beast Master and Prince: Snow Bride | 136452 | [136452-beast-master-and-prince-snow-bride.json](./136452-beast-master-and-prince-snow-bride.json) |
 | Beast Mode: Night of the Werewolf Silver Bullet Edition | 273113 | [273113-beast-mode-night-of-the-werewolf-silver-bullet-edition.json](./273113-beast-mode-night-of-the-werewolf-silver-bullet-edition.json) |
 | Beasties of Greenhollow | 299465 | [299465-beasties-of-greenhollow.json](./299465-beasties-of-greenhollow.json) |
@@ -1109,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biophobia | 343832 | [343832-biophobia.json](./343832-biophobia.json) |
 | Biorhythm | 170531 | [170531-biorhythm.json](./170531-biorhythm.json) |
 | BioShock Infinite: Industrial Revolution | 64441 | [64441-bioshock-infinite-industrial-revolution.json](./64441-bioshock-infinite-industrial-revolution.json) |
+| BioSwarm | 297472 | [297472-bioswarm.json](./297472-bioswarm.json) |
 | BioSynth: Rising | 336892 | [336892-biosynth-rising.json](./336892-biosynth-rising.json) |
 | Biotech Samurai | 161385 | [161385-biotech-samurai.json](./161385-biotech-samurai.json) |
 | BipBop II | 73829 | [73829-bipbop-ii.json](./73829-bipbop-ii.json) |
@@ -1269,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bladenet | 68166 | [68166-bladenet.json](./68166-bladenet.json) |
 | Blades and Rings | 82122 | [82122-blades-and-rings.json](./82122-blades-and-rings.json) |
 | Blades of Exile | 19579 | [19579-blades-of-exile.json](./19579-blades-of-exile.json) |
+| Blades of Passage | 297482 | [297482-blades-of-passage.json](./297482-blades-of-passage.json) |
 | Blades of Steel | 7788 | [7788-blades-of-steel.json](./7788-blades-of-steel.json) |
 | Blades of Time | 6918 | [6918-blades-of-time.json](./6918-blades-of-time.json) |
 | Blades of Time: Limited Edition | 52656 | [52656-blades-of-time-limited-edition.json](./52656-blades-of-time-limited-edition.json) |
@@ -1397,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Brain | 239885 | [239885-block-brain.json](./239885-block-brain.json) |
 | Block Breaker | 195789 | [195789-block-breaker.json](./195789-block-breaker.json) |
 | Block Busters: Local Party | 172171 | [172171-block-busters-local-party.json](./172171-block-busters-local-party.json) |
+| Block Cat Jam | 297502 | [297502-block-cat-jam.json](./297502-block-cat-jam.json) |
 | Block Champ | 229936 | [229936-block-champ.json](./229936-block-champ.json) |
 | Block Corsair | 236000 | [236000-block-corsair.json](./236000-block-corsair.json) |
 | Block Gun | 255332 | [255332-block-gun.json](./255332-block-gun.json) |
