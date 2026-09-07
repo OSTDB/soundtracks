@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kebab Chefs!: Restaurant Simulator | 156653 | [156653-kebab-chefs-restaurant-simulator.json](./156653-kebab-chefs-restaurant-simulator.json) |
 | Kebab Simulator: Taste Revolution | 336372 | [336372-kebab-simulator-taste-revolution.json](./336372-kebab-simulator-taste-revolution.json) |
 | Keep Defending | 31350 | [31350-keep-defending.json](./31350-keep-defending.json) |
+| Keep Flip | 264594 | [264594-keep-flip.json](./264594-keep-flip.json) |
 | Keep Going | 312576 | [312576-keep-going.json](./312576-keep-going.json) |
 | Keep Her Safe | 414300 | [414300-keep-her-safe.json](./414300-keep-her-safe.json) |
 | Keep it Live | 194666 | [194666-keep-it-live.json](./194666-keep-it-live.json) |
@@ -369,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill The Shadow | 276201 | [276201-kill-the-shadow.json](./276201-kill-the-shadow.json) |
 | Kill your Darlings | 352718 | [352718-kill-your-darlings.json](./352718-kill-your-darlings.json) |
 | Kill Your Heart | 337624 | [337624-kill-your-heart.json](./337624-kill-your-heart.json) |
+| Killa | 264603 | [264603-killa.json](./264603-killa.json) |
 | Killcolor | 296925 | [296925-killcolor.json](./296925-killcolor.json) |
 | Killer Aces Volleyball | 352226 | [352226-killer-aces-volleyball.json](./352226-killer-aces-volleyball.json) |
 | Killer and Strawberry Plus | 172750 | [172750-killer-and-strawberry-plus.json](./172750-killer-and-strawberry-plus.json) |
