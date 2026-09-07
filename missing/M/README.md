@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Custom Night | 389412 | [389412-mega-custom-night.json](./389412-mega-custom-night.json) |
 | Mega Drive Mini | 215392 | [215392-mega-drive-mini.json](./215392-mega-drive-mini.json) |
 | Mega Force | 22433 | [22433-mega-force.json](./22433-mega-force.json) |
+| Mega Man | 281415 | [281415-mega-man.json](./281415-mega-man.json) |
 | Mega Man 2 Randomizer | 324885 | [324885-mega-man-2-randomizer.json](./324885-mega-man-2-randomizer.json) |
 | Mega Man 2: The Power Fighters | 1725 | [1725-mega-man-2-the-power-fighters.json](./1725-mega-man-2-the-power-fighters.json) |
 | Mega Man 4 Voyage: Blue Version | 252392 | [252392-mega-man-4-voyage-blue-version.json](./252392-mega-man-4-voyage-blue-version.json) |
@@ -1203,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Circus | 285472 | [285472-merge-circus.json](./285472-merge-circus.json) |
 | Merge County | 212449 | [212449-merge-county.json](./212449-merge-county.json) |
 | Merge Design: Mansion Makeover | 246662 | [246662-merge-design-mansion-makeover.json](./246662-merge-design-mansion-makeover.json) |
+| Merge Fellas | 281409 | [281409-merge-fellas.json](./281409-merge-fellas.json) |
 | Merge Games Japan Best | 276454 | [276454-merge-games-japan-best.json](./276454-merge-games-japan-best.json) |
 | Merge Girls | 212490 | [212490-merge-girls.json](./212490-merge-girls.json) |
 | Merge Mansion | 196866 | [196866-merge-mansion.json](./196866-merge-mansion.json) |
@@ -1223,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merry Go Round | 287636 | [287636-merry-go-round.json](./287636-merry-go-round.json) |
 | Mesa | 233214 | [233214-mesa.json](./233214-mesa.json) |
 | Mesh Replica | 296684 | [296684-mesh-replica.json](./296684-mesh-replica.json) |
+| Mesih | 281386 | [281386-mesih.json](./281386-mesih.json) |
 | Meso | 319350 | [319350-meso.json](./319350-meso.json) |
 | Mesopotamia | 42042 | [42042-mesopotamia.json](./42042-mesopotamia.json) |
 | Mesorift Survival | 350403 | [350403-mesorift-survival.json](./350403-mesorift-survival.json) |
