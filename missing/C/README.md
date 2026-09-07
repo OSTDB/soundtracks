@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Escape! Infinity！ | 247205 | [247205-cat-escape-infinity.json](./247205-cat-escape-infinity.json) |
 | Cat Forest: Healing Camp | 239918 | [239918-cat-forest-healing-camp.json](./239918-cat-forest-healing-camp.json) |
 | Cat From Hell: Cat Simulator | 338008 | [338008-cat-from-hell-cat-simulator.json](./338008-cat-from-hell-cat-simulator.json) |
+| Cat Game | 282580 | [282580-cat-game.json](./282580-cat-game.json) |
 | Cat Game: The Cats Collector! | 239919 | [239919-cat-game-the-cats-collector.json](./239919-cat-game-the-cats-collector.json) |
 | Cat Gentlemans Play: Insult Spinner 10 Cents | 128626 | [128626-cat-gentlemans-play-insult-spinner-10-cents.json](./128626-cat-gentlemans-play-insult-spinner-10-cents.json) |
 | Cat Girl Survivor | 295771 | [295771-cat-girl-survivor.json](./295771-cat-girl-survivor.json) |
@@ -667,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celtic Tribes | 343804 | [343804-celtic-tribes.json](./343804-celtic-tribes.json) |
 | Cement Truck | 105921 | [105921-cement-truck.json](./105921-cement-truck.json) |
 | Centipede | 245541 | [245541-centipede.json](./245541-centipede.json) |
+| Centipede | 282564 | [282564-centipede.json](./282564-centipede.json) |
 | Centipede & Battlezone | 64399 | [64399-centipede-and-battlezone.json](./64399-centipede-and-battlezone.json) |
 | Central Standard | 321130 | [321130-central-standard.json](./321130-central-standard.json) |
 | Central Station | 242244 | [242244-central-station.json](./242244-central-station.json) |
@@ -929,6 +931,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chip Beat Blaster | 232145 | [232145-chip-beat-blaster.json](./232145-chip-beat-blaster.json) |
 | Chip Buster | 13703 | [13703-chip-buster.json](./13703-chip-buster.json) |
 | Chip-chan Kick! | 45961 | [45961-chip-chan-kick.json](./45961-chip-chan-kick.json) |
+| Chip's Challenge | 282555 | [282555-chips-challenge.json](./282555-chips-challenge.json) |
+| Chip's Challenge | 282557 | [282557-chips-challenge.json](./282557-chips-challenge.json) |
+| Chip's Challenge | 282558 | [282558-chips-challenge.json](./282558-chips-challenge.json) |
+| Chip's Challenge | 282559 | [282559-chips-challenge.json](./282559-chips-challenge.json) |
+| Chip's Challenge | 282560 | [282560-chips-challenge.json](./282560-chips-challenge.json) |
+| Chip's Challenge | 282561 | [282561-chips-challenge.json](./282561-chips-challenge.json) |
 | Chipmatic | 355037 | [355037-chipmatic.json](./355037-chipmatic.json) |
 | Chipper & Sons Lumber Co. | 59984 | [59984-chipper-and-sons-lumber-co.json](./59984-chipper-and-sons-lumber-co.json) |
 | Chiral | 309855 | [309855-chiral.json](./309855-chiral.json) |
@@ -2096,6 +2104,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Bike | 412995 | [412995-crazy-bike.json](./412995-crazy-bike.json) |
 | Crazy Car | 94263 | [94263-crazy-car.json](./94263-crazy-car.json) |
 | Crazy Chewy | 47267 | [47267-crazy-chewy.json](./47267-crazy-chewy.json) |
+| Crazy Chicken Jump'n Run: Atlantis Quest | 282571 | [282571-crazy-chicken-jumpn-run-atlantis-quest.json](./282571-crazy-chicken-jumpn-run-atlantis-quest.json) |
+| Crazy Chicken: Pirates | 282572 | [282572-crazy-chicken-pirates.json](./282572-crazy-chicken-pirates.json) |
 | Crazy Climber | 347695 | [347695-crazy-climber.json](./347695-crazy-climber.json) |
 | Crazy Climber 2000 | 77399 | [77399-crazy-climber-2000.json](./77399-crazy-climber-2000.json) |
 | Crazy Cop | 39676 | [39676-crazy-cop.json](./39676-crazy-cop.json) |
