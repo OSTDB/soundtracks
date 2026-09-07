@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinetype | 398366 | [398366-kinetype.json](./398366-kinetype.json) |
 | King Arthur II: Dead Legions | 53239 | [53239-king-arthur-ii-dead-legions.json](./53239-king-arthur-ii-dead-legions.json) |
 | King Arthur: Legends Rise | 244483 | [244483-king-arthur-legends-rise.json](./244483-king-arthur-legends-rise.json) |
+| King Island 2 | 292534 | [292534-king-island-2.json](./292534-king-island-2.json) |
 | King James Bible DX | 358319 | [358319-king-james-bible-dx.json](./358319-king-james-bible-dx.json) |
 | King Kong 2: Ikari no Megaton Punch | 48690 | [48690-king-kong-2-ikari-no-megaton-punch.json](./48690-king-kong-2-ikari-no-megaton-punch.json) |
 | King of Bali | 50547 | [50547-king-of-bali.json](./50547-king-of-bali.json) |
@@ -453,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms of Marazia: Classic | 107199 | [107199-kingdoms-of-marazia-classic.json](./107199-kingdoms-of-marazia-classic.json) |
 | Kingdoms: The Crown | 100212 | [100212-kingdoms-the-crown.json](./100212-kingdoms-the-crown.json) |
 | KingHunt | 76626 | [76626-kinghunt.json](./76626-kinghunt.json) |
+| Kingmaker | 292554 | [292554-kingmaker.json](./292554-kingmaker.json) |
 | Kings and Pigs | 152937 | [152937-kings-and-pigs.json](./152937-kings-and-pigs.json) |
 | Kings of Chaos | 402314 | [402314-kings-of-chaos.json](./402314-kings-of-chaos.json) |
 | Kings of the Realm | 344914 | [344914-kings-of-the-realm.json](./344914-kings-of-the-realm.json) |
