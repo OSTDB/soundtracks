@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Understeel | 382204 | [382204-understeel.json](./382204-understeel.json) |
 | Undertale Promise | 360564 | [360564-undertale-promise.json](./360564-undertale-promise.json) |
 | Undertale Yellow | 136482 | [136482-undertale-yellow.json](./136482-undertale-yellow.json) |
+| Undertale: Chara Boss Fight | 283766 | [283766-undertale-chara-boss-fight.json](./283766-undertale-chara-boss-fight.json) |
 | Undertale: Icebound | 329944 | [329944-undertale-icebound.json](./329944-undertale-icebound.json) |
 | Undertale: Remembering the Genocides | 335675 | [335675-undertale-remembering-the-genocides.json](./335675-undertale-remembering-the-genocides.json) |
 | Undertale: The Final Run | 223676 | [223676-undertale-the-final-run.json](./223676-undertale-the-final-run.json) |
@@ -280,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uni | 145684 | [145684-uni.json](./145684-uni.json) |
 | Unicorn | 223672 | [223672-unicorn.json](./223672-unicorn.json) |
 | Unicorn Coloring Book | 96076 | [96076-unicorn-coloring-book.json](./96076-unicorn-coloring-book.json) |
+| Unicorn Overlord: Monarch Edition | 283162 | [283162-unicorn-overlord-monarch-edition.json](./283162-unicorn-overlord-monarch-edition.json) |
 | Unicorn Wars | 338588 | [338588-unicorn-wars.json](./338588-unicorn-wars.json) |
 | Unicycle Giraffe | 318984 | [318984-unicycle-giraffe.json](./318984-unicycle-giraffe.json) |
 | Unicycle Journey | 415082 | [415082-unicycle-journey.json](./415082-unicycle-journey.json) |
