@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T20:33:41.191Z",
-  "total_missing": 43552,
+  "generated_at": "2026-09-07T20:48:21.704Z",
+  "total_missing": 43602,
   "games": [
     {
       "igdb_id": 306086,
@@ -14133,6 +14133,11 @@
       "file": "missing/A/171274-assetto-corsa-competizione.json"
     },
     {
+      "igdb_id": 266247,
+      "game_name": "Assetto Corsa Competizione DLC Pack",
+      "file": "missing/A/266247-assetto-corsa-competizione-dlc-pack.json"
+    },
+    {
       "igdb_id": 168372,
       "game_name": "Assetto Corsa Competizione: 2020 GT World Challenge Pack",
       "file": "missing/A/168372-assetto-corsa-competizione-2020-gt-world-challenge-pack.json"
@@ -26446,6 +26451,11 @@
       "igdb_id": 273961,
       "game_name": "Brawlberry",
       "file": "missing/B/273961-brawlberry.json"
+    },
+    {
+      "igdb_id": 266240,
+      "game_name": "Brawlers",
+      "file": "missing/B/266240-brawlers.json"
     },
     {
       "igdb_id": 342628,
@@ -39131,6 +39141,11 @@
       "igdb_id": 346053,
       "game_name": "Cowboy",
       "file": "missing/C/346053-cowboy.json"
+    },
+    {
+      "igdb_id": 266220,
+      "game_name": "Cowboy 3030",
+      "file": "missing/C/266220-cowboy-3030.json"
     },
     {
       "igdb_id": 57110,
@@ -59648,6 +59663,11 @@
       "file": "missing/E/165013-euro-truck-simulator-2-heart-of-russia.json"
     },
     {
+      "igdb_id": 266243,
+      "game_name": "Euro Truck Simulator 2: Modern Lines Paint Jobs Pack",
+      "file": "missing/E/266243-euro-truck-simulator-2-modern-lines-paint-jobs-pack.json"
+    },
+    {
       "igdb_id": 311995,
       "game_name": "Euro Truck Simulator 2: Renault Trucks E-Tech T",
       "file": "missing/E/311995-euro-truck-simulator-2-renault-trucks-e-tech-t.json"
@@ -65776,6 +65796,21 @@
       "igdb_id": 45983,
       "game_name": "Five Nights at Candy's",
       "file": "missing/F/45983-five-nights-at-candys.json"
+    },
+    {
+      "igdb_id": 266215,
+      "game_name": "Five Nights at Candy's 2 DX",
+      "file": "missing/F/266215-five-nights-at-candys-2-dx.json"
+    },
+    {
+      "igdb_id": 266218,
+      "game_name": "Five Nights at Candy's 3 DX",
+      "file": "missing/F/266218-five-nights-at-candys-3-dx.json"
+    },
+    {
+      "igdb_id": 266212,
+      "game_name": "Five Nights at Candy's DX",
+      "file": "missing/F/266212-five-nights-at-candys-dx.json"
     },
     {
       "igdb_id": 387340,
@@ -79918,9 +79953,24 @@
       "file": "missing/H/358869-harrowlight.json"
     },
     {
+      "igdb_id": 266198,
+      "game_name": "Harry Potter and the Deathly Hallows: Part 1 - The Mobile Game",
+      "file": "missing/H/266198-harry-potter-and-the-deathly-hallows-part-1-the-mobile-game.json"
+    },
+    {
+      "igdb_id": 266199,
+      "game_name": "Harry Potter and the Deathly Hallows: Part 2 - The Mobile Game",
+      "file": "missing/H/266199-harry-potter-and-the-deathly-hallows-part-2-the-mobile-game.json"
+    },
+    {
       "igdb_id": 266502,
       "game_name": "Harry Potter and the Goblet of Fire: The Triwizard Tournament",
       "file": "missing/H/266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json"
+    },
+    {
+      "igdb_id": 266197,
+      "game_name": "Harry Potter and the Half-Blood Prince",
+      "file": "missing/H/266197-harry-potter-and-the-half-blood-prince.json"
     },
     {
       "igdb_id": 3943,
@@ -79938,6 +79988,16 @@
       "file": "missing/H/266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json"
     },
     {
+      "igdb_id": 266196,
+      "game_name": "Harry Potter DVD Game: Wizarding World",
+      "file": "missing/H/266196-harry-potter-dvd-game-wizarding-world.json"
+    },
+    {
+      "igdb_id": 266195,
+      "game_name": "Harry Potter Interactive DVD Game: Hogwarts Challenge",
+      "file": "missing/H/266195-harry-potter-interactive-dvd-game-hogwarts-challenge.json"
+    },
+    {
       "igdb_id": 316066,
       "game_name": "Harry Potter Quidditch Champions: Firebolt Supreme Broom Skin",
       "file": "missing/H/316066-harry-potter-quidditch-champions-firebolt-supreme-broom-skin.json"
@@ -79946,6 +80006,11 @@
       "igdb_id": 141244,
       "game_name": "Harry Potter RPG",
       "file": "missing/H/141244-harry-potter-rpg.json"
+    },
+    {
+      "igdb_id": 266200,
+      "game_name": "Harry Potter: Mastering Magic",
+      "file": "missing/H/266200-harry-potter-mastering-magic.json"
     },
     {
       "igdb_id": 328987,
@@ -82293,6 +82358,11 @@
       "file": "missing/H/237669-herb-garden-tycoon.json"
     },
     {
+      "igdb_id": 266203,
+      "game_name": "Herbal Remedies",
+      "file": "missing/H/266203-herbal-remedies.json"
+    },
+    {
       "igdb_id": 188689,
       "game_name": "Herbheim's Mine",
       "file": "missing/H/188689-herbheims-mine.json"
@@ -82596,6 +82666,11 @@
       "igdb_id": 227471,
       "game_name": "Heroes of War",
       "file": "missing/H/227471-heroes-of-war.json"
+    },
+    {
+      "igdb_id": 266205,
+      "game_name": "Heroes Origins",
+      "file": "missing/H/266205-heroes-origins.json"
     },
     {
       "igdb_id": 65495,
@@ -91813,6 +91888,11 @@
       "file": "missing/I/270102-it-happened-here-beacon-of-truth-collectors-edition.json"
     },
     {
+      "igdb_id": 266244,
+      "game_name": "It Happened Here: Streaming Lives",
+      "file": "missing/I/266244-it-happened-here-streaming-lives.json"
+    },
+    {
       "igdb_id": 335665,
       "game_name": "It Is Coming",
       "file": "missing/I/335665-it-is-coming.json"
@@ -96316,6 +96396,11 @@
       "igdb_id": 369579,
       "game_name": "Key 2",
       "file": "missing/K/369579-key-2.json"
+    },
+    {
+      "igdb_id": 266206,
+      "game_name": "Key Hunters DX",
+      "file": "missing/K/266206-key-hunters-dx.json"
     },
     {
       "igdb_id": 360575,
@@ -101393,6 +101478,11 @@
       "file": "missing/L/314853-lego-agents-mission-x.json"
     },
     {
+      "igdb_id": 266232,
+      "game_name": "LEGO Batman 3: Beyond Gotham - Dark Knight",
+      "file": "missing/L/266232-lego-batman-3-beyond-gotham-dark-knight.json"
+    },
+    {
       "igdb_id": 259264,
       "game_name": "LEGO Batman: The Mobile Game",
       "file": "missing/L/259264-lego-batman-the-mobile-game.json"
@@ -103896,6 +103986,21 @@
       "igdb_id": 369055,
       "game_name": "LLM x Quiz",
       "file": "missing/L/369055-llm-x-quiz.json"
+    },
+    {
+      "igdb_id": 266214,
+      "game_name": "Lloyd the Monkey",
+      "file": "missing/L/266214-lloyd-the-monkey.json"
+    },
+    {
+      "igdb_id": 266221,
+      "game_name": "Lloyd the Monkey 3: Judgement Day",
+      "file": "missing/L/266221-lloyd-the-monkey-3-judgement-day.json"
+    },
+    {
+      "igdb_id": 266216,
+      "game_name": "Lloyd the Monkey: Remastered",
+      "file": "missing/L/266216-lloyd-the-monkey-remastered.json"
     },
     {
       "igdb_id": 20561,
@@ -108753,6 +108858,11 @@
       "file": "missing/M/248303-mario-kart-64-hooting-time.json"
     },
     {
+      "igdb_id": 266208,
+      "game_name": "Mario Kart 64: Mega Mushroom Blast",
+      "file": "missing/M/266208-mario-kart-64-mega-mushroom-blast.json"
+    },
+    {
       "igdb_id": 248307,
       "game_name": "Mario Kart 64: Stomper Mod",
       "file": "missing/M/248307-mario-kart-64-stomper-mod.json"
@@ -113246,6 +113356,11 @@
       "igdb_id": 166768,
       "game_name": "Micro Abyss",
       "file": "missing/M/166768-micro-abyss.json"
+    },
+    {
+      "igdb_id": 266242,
+      "game_name": "Micro Games for Playdade!",
+      "file": "missing/M/266242-micro-games-for-playdade.json"
     },
     {
       "igdb_id": 93056,
@@ -118013,9 +118128,19 @@
       "file": "missing/M/312332-mortal-kombat-1-cyrax.json"
     },
     {
+      "igdb_id": 266217,
+      "game_name": "Mortal Kombat 1: Ermac",
+      "file": "missing/M/266217-mortal-kombat-1-ermac.json"
+    },
+    {
       "igdb_id": 312337,
       "game_name": "Mortal Kombat 1: Ghostface",
       "file": "missing/M/312337-mortal-kombat-1-ghostface.json"
+    },
+    {
+      "igdb_id": 266219,
+      "game_name": "Mortal Kombat 1: Homelander",
+      "file": "missing/M/266219-mortal-kombat-1-homelander.json"
     },
     {
       "igdb_id": 265947,
@@ -118038,6 +118163,21 @@
       "file": "missing/M/312334-mortal-kombat-1-noob-saibot.json"
     },
     {
+      "igdb_id": 266209,
+      "game_name": "Mortal Kombat 1: Omni-Man",
+      "file": "missing/M/266209-mortal-kombat-1-omni-man.json"
+    },
+    {
+      "igdb_id": 266213,
+      "game_name": "Mortal Kombat 1: Peacemaker",
+      "file": "missing/M/266213-mortal-kombat-1-peacemaker.json"
+    },
+    {
+      "igdb_id": 266211,
+      "game_name": "Mortal Kombat 1: Quan Chi",
+      "file": "missing/M/266211-mortal-kombat-1-quan-chi.json"
+    },
+    {
       "igdb_id": 312333,
       "game_name": "Mortal Kombat 1: Sektor",
       "file": "missing/M/312333-mortal-kombat-1-sektor.json"
@@ -118051,6 +118191,11 @@
       "igdb_id": 312340,
       "game_name": "Mortal Kombat 1: T-1000",
       "file": "missing/M/312340-mortal-kombat-1-t-1000.json"
+    },
+    {
+      "igdb_id": 266223,
+      "game_name": "Mortal Kombat 1: Takahashi Takeda",
+      "file": "missing/M/266223-mortal-kombat-1-takahashi-takeda.json"
     },
     {
       "igdb_id": 298557,
@@ -119146,6 +119291,11 @@
       "igdb_id": 61118,
       "game_name": "Mr. Setam: Lady Killer",
       "file": "missing/M/61118-mr-setam-lady-killer.json"
+    },
+    {
+      "igdb_id": 266210,
+      "game_name": "Mr. Shootem Breaks Out!",
+      "file": "missing/M/266210-mr-shootem-breaks-out.json"
     },
     {
       "igdb_id": 337074,
@@ -127448,6 +127598,11 @@
       "file": "missing/O/293914-o-conde-de-monte-cristo.json"
     },
     {
+      "igdb_id": 266225,
+      "game_name": "O-Bot The Robot 2",
+      "file": "missing/O/266225-o-bot-the-robot-2.json"
+    },
+    {
       "igdb_id": 298307,
       "game_name": "O.J.'s All-American Race to Acquittal",
       "file": "missing/O/298307-o-j-s-all-american-race-to-acquittal.json"
@@ -129503,6 +129658,16 @@
       "file": "missing/O/257673-one-night-as-freddy.json"
     },
     {
+      "igdb_id": 266224,
+      "game_name": "One Night at Flumpty's",
+      "file": "missing/O/266224-one-night-at-flumptys.json"
+    },
+    {
+      "igdb_id": 266226,
+      "game_name": "One Night at Flumpty's 2",
+      "file": "missing/O/266226-one-night-at-flumptys-2.json"
+    },
+    {
       "igdb_id": 273951,
       "game_name": "One Night At Freddy's",
       "file": "missing/O/273951-one-night-at-freddys.json"
@@ -130016,6 +130181,11 @@
       "igdb_id": 343245,
       "game_name": "Only Up? Climb the Tower!",
       "file": "missing/O/343245-only-up-climb-the-tower.json"
+    },
+    {
+      "igdb_id": 266245,
+      "game_name": "Only Way Up! Parkour Jump Simulator",
+      "file": "missing/O/266245-only-way-up-parkour-jump-simulator.json"
     },
     {
       "igdb_id": 267062,
@@ -131231,6 +131401,11 @@
       "igdb_id": 152380,
       "game_name": "Out For Delivery",
       "file": "missing/O/152380-out-for-delivery.json"
+    },
+    {
+      "igdb_id": 266246,
+      "game_name": "Out in Space Bundle: Tin Can & Orbit.Industries",
+      "file": "missing/O/266246-out-in-space-bundle-tin-can-and-orbit-industries.json"
     },
     {
       "igdb_id": 177536,
@@ -134501,6 +134676,11 @@
       "igdb_id": 94449,
       "game_name": "Pekka Kana 2",
       "file": "missing/P/94449-pekka-kana-2.json"
+    },
+    {
+      "igdb_id": 266230,
+      "game_name": "Peklo",
+      "file": "missing/P/266230-peklo.json"
     },
     {
       "igdb_id": 320177,
@@ -140833,6 +141013,11 @@
       "file": "missing/P/322570-pranksters-treasure-of-the-indians.json"
     },
     {
+      "igdb_id": 266234,
+      "game_name": "Prawngeon",
+      "file": "missing/P/266234-prawngeon.json"
+    },
+    {
       "igdb_id": 167306,
       "game_name": "Pray Game",
       "file": "missing/P/167306-pray-game.json"
@@ -144143,6 +144328,11 @@
       "file": "missing/P/89248-pyramid-solitaire-saga.json"
     },
     {
+      "igdb_id": 266201,
+      "game_name": "Pyramid: Challenge of the Pharaoh's Dream",
+      "file": "missing/P/266201-pyramid-challenge-of-the-pharaohs-dream.json"
+    },
+    {
       "igdb_id": 136491,
       "game_name": "Pyramida",
       "file": "missing/P/136491-pyramida.json"
@@ -144691,6 +144881,11 @@
       "igdb_id": 26223,
       "game_name": "Quern: Undying Thoughts",
       "file": "missing/Q/26223-quern-undying-thoughts.json"
+    },
+    {
+      "igdb_id": 266229,
+      "game_name": "Quest 2: The Ancient Temples",
+      "file": "missing/Q/266229-quest-2-the-ancient-temples.json"
     },
     {
       "igdb_id": 248305,
@@ -151103,6 +151298,11 @@
       "file": "missing/R/314239-roadcraft.json"
     },
     {
+      "igdb_id": 266233,
+      "game_name": "Roadtrip",
+      "file": "missing/R/266233-roadtrip.json"
+    },
+    {
       "igdb_id": 292327,
       "game_name": "Roadway Traffic Racer",
       "file": "missing/R/292327-roadway-traffic-racer.json"
@@ -155048,6 +155248,11 @@
       "file": "missing/S/137106-sakura-moyu-as-the-nights-reincarnation.json"
     },
     {
+      "igdb_id": 266231,
+      "game_name": "Sal.",
+      "file": "missing/S/266231-sal.json"
+    },
+    {
       "igdb_id": 127341,
       "game_name": "Salaam",
       "file": "missing/S/127341-salaam.json"
@@ -156373,6 +156578,11 @@
       "file": "missing/S/156693-scarlet-republics.json"
     },
     {
+      "igdb_id": 266202,
+      "game_name": "Scarlet Sand Sojourn",
+      "file": "missing/S/266202-scarlet-sand-sojourn.json"
+    },
+    {
       "igdb_id": 398972,
       "game_name": "Scarlet Skips",
       "file": "missing/S/398972-scarlet-skips.json"
@@ -156551,6 +156761,11 @@
       "igdb_id": 35941,
       "game_name": "Schar: Blue Shield Alliance",
       "file": "missing/S/35941-schar-blue-shield-alliance.json"
+    },
+    {
+      "igdb_id": 266227,
+      "game_name": "Schism",
+      "file": "missing/S/266227-schism.json"
     },
     {
       "igdb_id": 368481,
@@ -162091,6 +162306,11 @@
       "igdb_id": 285482,
       "game_name": "Simply Rotate",
       "file": "missing/S/285482-simply-rotate.json"
+    },
+    {
+      "igdb_id": 266241,
+      "game_name": "Simply Sudoku",
+      "file": "missing/S/266241-simply-sudoku.json"
     },
     {
       "igdb_id": 101573,
@@ -168563,6 +168783,11 @@
       "file": "missing/S/47296-spaceward-ho.json"
     },
     {
+      "igdb_id": 266235,
+      "game_name": "Spacewing War 2",
+      "file": "missing/S/266235-spacewing-war-2.json"
+    },
+    {
       "igdb_id": 128610,
       "game_name": "SpaceWrestler XL",
       "file": "missing/S/128610-spacewrestler-xl.json"
@@ -169021,6 +169246,11 @@
       "igdb_id": 174908,
       "game_name": "Speedy Rush",
       "file": "missing/S/174908-speedy-rush.json"
+    },
+    {
+      "igdb_id": 266237,
+      "game_name": "Spekel Sparks",
+      "file": "missing/S/266237-spekel-sparks.json"
     },
     {
       "igdb_id": 206954,
@@ -174376,6 +174606,11 @@
       "igdb_id": 264352,
       "game_name": "Such, Such Were the Joys",
       "file": "missing/S/264352-such-such-were-the-joys.json"
+    },
+    {
+      "igdb_id": 266236,
+      "game_name": "Suck It!",
+      "file": "missing/S/266236-suck-it.json"
     },
     {
       "igdb_id": 338215,
@@ -200358,6 +200593,11 @@
       "file": "missing/T/184086-trimorta.json"
     },
     {
+      "igdb_id": 266238,
+      "game_name": "Trinity Heart",
+      "file": "missing/T/266238-trinity-heart.json"
+    },
+    {
       "igdb_id": 221947,
       "game_name": "Trinity Trigger: Day 1 Edition",
       "file": "missing/T/221947-trinity-trigger-day-1-edition.json"
@@ -201291,6 +201531,11 @@
       "igdb_id": 212164,
       "game_name": "Turbo Kid",
       "file": "missing/T/212164-turbo-kid.json"
+    },
+    {
+      "igdb_id": 266204,
+      "game_name": "Turbo Leaper",
+      "file": "missing/T/266204-turbo-leaper.json"
     },
     {
       "igdb_id": 318765,
@@ -204236,6 +204481,11 @@
       "igdb_id": 161891,
       "game_name": "Uprk.cz",
       "file": "missing/U/161891-uprk-cz.json"
+    },
+    {
+      "igdb_id": 266239,
+      "game_name": "Uprush",
+      "file": "missing/U/266239-uprush.json"
     },
     {
       "igdb_id": 379360,
