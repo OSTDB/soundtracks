@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldabyss | 290707 | [290707-eldabyss.json](./290707-eldabyss.json) |
 | Eldegarde | 304346 | [304346-eldegarde.json](./304346-eldegarde.json) |
 | Elden Ring: Collector's Edition | 180258 | [180258-elden-ring-collectors-edition.json](./180258-elden-ring-collectors-edition.json) |
+| Elden Ring: Dark Moon | 309346 | [309346-elden-ring-dark-moon.json](./309346-elden-ring-dark-moon.json) |
 | Elden Ring: Launch Edition | 180259 | [180259-elden-ring-launch-edition.json](./180259-elden-ring-launch-edition.json) |
 | Elden Ring: Nightreign - Seeker's Edition | 375852 | [375852-elden-ring-nightreign-seekers-edition.json](./375852-elden-ring-nightreign-seekers-edition.json) |
 | Elden Ring: Shadow of the Erdtree Edition | 287975 | [287975-elden-ring-shadow-of-the-erdtree-edition.json](./287975-elden-ring-shadow-of-the-erdtree-edition.json) |
@@ -425,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires of the Undergrowth: Supporter Pack | 403593 | [403593-empires-of-the-undergrowth-supporter-pack.json](./403593-empires-of-the-undergrowth-supporter-pack.json) |
 | Empires of the Void II | 189167 | [189167-empires-of-the-void-ii.json](./189167-empires-of-the-void-ii.json) |
 | Empires: Dawn of the Modern World | 678 | [678-empires-dawn-of-the-modern-world.json](./678-empires-dawn-of-the-modern-world.json) |
+| Employee Rules of the Night Strings | 309361 | [309361-employee-rules-of-the-night-strings.json](./309361-employee-rules-of-the-night-strings.json) |
 | Empress of the Deep: The Darkest Secret | 17368 | [17368-empress-of-the-deep-the-darkest-secret.json](./17368-empress-of-the-deep-the-darkest-secret.json) |
 | Empress's Choice | 245047 | [245047-empresss-choice.json](./245047-empresss-choice.json) |
 | Empronix Game | 369027 | [369027-empronix-game.json](./369027-empronix-game.json) |
