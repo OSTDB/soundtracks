@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taishou Mebiusline Hitotsumi | 141897 | [141897-taishou-mebiusline-hitotsumi.json](./141897-taishou-mebiusline-hitotsumi.json) |
 | Taishou Mebiusline Teito Bibouroku Hare | 141895 | [141895-taishou-mebiusline-teito-bibouroku-hare.json](./141895-taishou-mebiusline-teito-bibouroku-hare.json) |
 | Taishou Mebiusline Vitable | 141896 | [141896-taishou-mebiusline-vitable.json](./141896-taishou-mebiusline-vitable.json) |
+| Taiwan 2013 | 291988 | [291988-taiwan-2013.json](./291988-taiwan-2013.json) |
 | Taiwan Coolfox | 351603 | [351603-taiwan-coolfox.json](./351603-taiwan-coolfox.json) |
 | Taiwan Mahjong | 334658 | [334658-taiwan-mahjong.json](./334658-taiwan-mahjong.json) |
 | Taiyo No Miyako | 221422 | [221422-taiyo-no-miyako.json](./221422-taiyo-no-miyako.json) |
@@ -373,6 +374,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Target: Renegade | 381638 | [381638-target-renegade.json](./381638-target-renegade.json) |
 | Target: Renegade | 381642 | [381642-target-renegade.json](./381642-target-renegade.json) |
 | Target: Renegade | 381643 | [381643-target-renegade.json](./381643-target-renegade.json) |
+| Targeting Maths Lab 1 | 291992 | [291992-targeting-maths-lab-1.json](./291992-targeting-maths-lab-1.json) |
+| Targeting Maths Lab 2 | 291993 | [291993-targeting-maths-lab-2.json](./291993-targeting-maths-lab-2.json) |
+| Targeting Maths Lab 3 | 291994 | [291994-targeting-maths-lab-3.json](./291994-targeting-maths-lab-3.json) |
+| Targeting Maths Lab 4 | 291995 | [291995-targeting-maths-lab-4.json](./291995-targeting-maths-lab-4.json) |
+| Targeting Maths Lab 6 | 291996 | [291996-targeting-maths-lab-6.json](./291996-targeting-maths-lab-6.json) |
+| Targeting Maths Lab Launch Pad | 291997 | [291997-targeting-maths-lab-launch-pad.json](./291997-targeting-maths-lab-launch-pad.json) |
 | Tarisland | 254235 | [254235-tarisland.json](./254235-tarisland.json) |
 | Taro | 126637 | [126637-taro.json](./126637-taro.json) |
 | Taro Is Back | 415094 | [415094-taro-is-back.json](./415094-taro-is-back.json) |
@@ -1020,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cosmos is Mine! | 35800 | [35800-the-cosmos-is-mine.json](./35800-the-cosmos-is-mine.json) |
 | The Cost Of Seeds | 292857 | [292857-the-cost-of-seeds.json](./292857-the-cost-of-seeds.json) |
 | The Counting Kingdom | 17435 | [17435-the-counting-kingdom.json](./17435-the-counting-kingdom.json) |
+| The Crackpet Show: Happy Tree Friends Edition | 291998 | [291998-the-crackpet-show-happy-tree-friends-edition.json](./291998-the-crackpet-show-happy-tree-friends-edition.json) |
 | The Cracks of Fire | 12948 | [12948-the-cracks-of-fire.json](./12948-the-cracks-of-fire.json) |
 | The Crazed Chicken | 71000 | [71000-the-crazed-chicken.json](./71000-the-crazed-chicken.json) |
 | The Creature Zone VR: Nightfall | 259834 | [259834-the-creature-zone-vr-nightfall.json](./259834-the-creature-zone-vr-nightfall.json) |
