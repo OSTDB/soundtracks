@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klang 2 | 131563 | [131563-klang-2.json](./131563-klang-2.json) |
 | Klap!! Kind Love and Punish: Fun Party | 138232 | [138232-klap-kind-love-and-punish-fun-party.json](./138232-klap-kind-love-and-punish-fun-party.json) |
 | Klaus Lee: Thunderballs | 193201 | [193201-klaus-lee-thunderballs.json](./193201-klaus-lee-thunderballs.json) |
+| Klepto | 297476 | [297476-klepto.json](./297476-klepto.json) |
 | Klepto Planet Attack | 176473 | [176473-klepto-planet-attack.json](./176473-klepto-planet-attack.json) |
 | Kleptomaniacs | 348807 | [348807-kleptomaniacs.json](./348807-kleptomaniacs.json) |
 | Kleu's music | 138797 | [138797-kleus-music.json](./138797-kleus-music.json) |
