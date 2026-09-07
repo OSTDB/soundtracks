@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Just a Slime | 260424 | [260424-im-just-a-slime.json](./260424-im-just-a-slime.json) |
 | I'm Late | 223173 | [223173-im-late.json](./223173-im-late.json) |
 | I'm Lost | 75189 | [75189-im-lost.json](./75189-im-lost.json) |
+| I'm Not Crazy | 309866 | [309866-im-not-crazy.json](./309866-im-not-crazy.json) |
 | I'm Not Sleepy | 295002 | [295002-im-not-sleepy.json](./295002-im-not-sleepy.json) |
 | I'm on Cirno Duty | 206931 | [206931-im-on-cirno-duty.json](./206931-im-on-cirno-duty.json) |
 | I'm Only Sleeping | 71001 | [71001-im-only-sleeping.json](./71001-im-only-sleeping.json) |
@@ -681,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Farlands | 226437 | [226437-into-the-farlands.json](./226437-into-the-farlands.json) |
 | Into the Flames: Retro Fire Gear 1 | 256560 | [256560-into-the-flames-retro-fire-gear-1.json](./256560-into-the-flames-retro-fire-gear-1.json) |
 | Into the Grid | 277005 | [277005-into-the-grid.json](./277005-into-the-grid.json) |
+| Into the M.A.W. | 309857 | [309857-into-the-m-a-w.json](./309857-into-the-m-a-w.json) |
 | Into the Mine | 333024 | [333024-into-the-mine.json](./333024-into-the-mine.json) |
 | Into The Mist 2: The Cult | 134010 | [134010-into-the-mist-2-the-cult.json](./134010-into-the-mist-2-the-cult.json) |
 | Into the Stars - Deluxe | 53235 | [53235-into-the-stars-deluxe.json](./53235-into-the-stars-deluxe.json) |
