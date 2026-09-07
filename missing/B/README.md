@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bambinours Solves a Jig Saw Puzzle | 14283 | [14283-bambinours-solves-a-jig-saw-puzzle.json](./14283-bambinours-solves-a-jig-saw-puzzle.json) |
 | Bamboo Forest | 161397 | [161397-bamboo-forest.json](./161397-bamboo-forest.json) |
 | Bamboozle | 302650 | [302650-bamboozle.json](./302650-bamboozle.json) |
+| Ban: The Prologue of Gucha Gucha | 302961 | [302961-ban-the-prologue-of-gucha-gucha.json](./302961-ban-the-prologue-of-gucha-gucha.json) |
 | Bana Simulator | 252984 | [252984-bana-simulator.json](./252984-bana-simulator.json) |
 | Banana 3D | 338190 | [338190-banana-3d.json](./338190-banana-3d.json) |
 | Banana Bonanza! | 231627 | [231627-banana-bonanza.json](./231627-banana-bonanza.json) |
@@ -1542,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluey Wackadoo Watch | 230557 | [230557-bluey-wackadoo-watch.json](./230557-bluey-wackadoo-watch.json) |
 | Blukaty | 291241 | [291241-blukaty.json](./291241-blukaty.json) |
 | Blumgi Castle | 219262 | [219262-blumgi-castle.json](./219262-blumgi-castle.json) |
+| Blunted in The Malen | 302956 | [302956-blunted-in-the-malen.json](./302956-blunted-in-the-malen.json) |
 | Blyte | 358867 | [358867-blyte.json](./358867-blyte.json) |
 | BMX Pipe | 102770 | [102770-bmx-pipe.json](./102770-bmx-pipe.json) |
 | BMX Simulator | 11973 | [11973-bmx-simulator.json](./11973-bmx-simulator.json) |
@@ -2285,6 +2287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Up | 121037 | [121037-burger-up.json](./121037-burger-up.json) |
 | Burger Wars | 66112 | [66112-burger-wars.json](./66112-burger-wars.json) |
 | Burger: The Game | 102815 | [102815-burger-the-game.json](./102815-burger-the-game.json) |
+| Burggeist | 302962 | [302962-burggeist.json](./302962-burggeist.json) |
 | Burn-9 | 404870 | [404870-burn-9.json](./404870-burn-9.json) |
 | Burn. Pulse. Detach. | 143115 | [143115-burn-pulse-detach.json](./143115-burn-pulse-detach.json) |
 | Burnin' Rubber 6 | 320749 | [320749-burnin-rubber-6.json](./320749-burnin-rubber-6.json) |
