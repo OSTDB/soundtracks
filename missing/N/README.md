@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Castle | 216988 | [216988-night-castle.json](./216988-night-castle.json) |
 | Night Clerk | 376476 | [376476-night-clerk.json](./376476-night-clerk.json) |
 | Night Drive | 323531 | [323531-night-drive.json](./323531-night-drive.json) |
+| Night Flight | 297492 | [297492-night-flight.json](./297492-night-flight.json) |
 | Night Fright | 318402 | [318402-night-fright.json](./318402-night-fright.json) |
 | Night Gal Summer | 229340 | [229340-night-gal-summer.json](./229340-night-gal-summer.json) |
 | Night Guard: The Last Shift | 177533 | [177533-night-guard-the-last-shift.json](./177533-night-guard-the-last-shift.json) |
