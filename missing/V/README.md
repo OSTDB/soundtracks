@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village Meow | 327172 | [327172-village-meow.json](./327172-village-meow.json) |
 | Village of the Ages | 369042 | [369042-village-of-the-ages.json](./369042-village-of-the-ages.json) |
 | Village Tanuki | 185138 | [185138-village-tanuki.json](./185138-village-tanuki.json) |
+| Village Tycoon: Farm City Simulator | 275035 | [275035-village-tycoon-farm-city-simulator.json](./275035-village-tycoon-farm-city-simulator.json) |
 | Villager comes alive | 192451 | [192451-villager-comes-alive.json](./192451-villager-comes-alive.json) |
 | Villainous | 319976 | [319976-villainous.json](./319976-villainous.json) |
 | Vilmonic | 33104 | [33104-vilmonic.json](./33104-vilmonic.json) |
