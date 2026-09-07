@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Ghoul! | 133999 | [133999-graveyard-ghoul.json](./133999-graveyard-ghoul.json) |
 | Graveyard Orbit | 407329 | [407329-graveyard-orbit.json](./407329-graveyard-orbit.json) |
 | Graveyard Shift | 292517 | [292517-graveyard-shift.json](./292517-graveyard-shift.json) |
+| Gravico | 280776 | [280776-gravico.json](./280776-gravico.json) |
 | GraviSound | 109701 | [109701-gravisound.json](./109701-gravisound.json) |
 | Gravitas | 134000 | [134000-gravitas.json](./134000-gravitas.json) |
 | Gravitational | 150150 | [150150-gravitational.json](./150150-gravitational.json) |
@@ -1137,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Oddities | 239281 | [239281-green-oddities.json](./239281-green-oddities.json) |
 | Green Project | 133419 | [133419-green-project.json](./133419-green-project.json) |
 | Green Run | 107197 | [107197-green-run.json](./107197-green-run.json) |
+| Green Star Revenge 3: Back to the Safe Sear Temples | 280754 | [280754-green-star-revenge-3-back-to-the-safe-sear-temples.json](./280754-green-star-revenge-3-back-to-the-safe-sear-temples.json) |
 | Green Steel | 161361 | [161361-green-steel.json](./161361-green-steel.json) |
 | Green Suits | 408735 | [408735-green-suits.json](./408735-green-suits.json) |
 | Green the Planet | 344937 | [344937-green-the-planet.json](./344937-green-the-planet.json) |
