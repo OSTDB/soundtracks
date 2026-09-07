@@ -1480,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RotoCore | 414291 | [414291-rotocore.json](./414291-rotocore.json) |
 | RotoDefendo | 137055 | [137055-rotodefendo.json](./137055-rotodefendo.json) |
 | Rotolla | 21021 | [21021-rotolla.json](./21021-rotolla.json) |
+| RotorScape | 311495 | [311495-rotorscape.json](./311495-rotorscape.json) |
 | Rotten Escape | 101542 | [101542-rotten-escape.json](./101542-rotten-escape.json) |
 | Rotting Crescendo | 136441 | [136441-rotting-crescendo.json](./136441-rotting-crescendo.json) |
 | Rotting Grief | 415068 | [415068-rotting-grief.json](./415068-rotting-grief.json) |
@@ -1676,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Life Simulator | 118022 | [118022-russian-life-simulator.json](./118022-russian-life-simulator.json) |
 | Russian Peace Duck: Take My Nalogi | 96614 | [96614-russian-peace-duck-take-my-nalogi.json](./96614-russian-peace-duck-take-my-nalogi.json) |
 | Russian Psychiatric Pastoral | 248910 | [248910-russian-psychiatric-pastoral.json](./248910-russian-psychiatric-pastoral.json) |
+| Russian Random Speedmap Pack 3 | 311463 | [311463-russian-random-speedmap-pack-3.json](./311463-russian-random-speedmap-pack-3.json) |
 | Russian Roulette | 265941 | [265941-russian-roulette.json](./265941-russian-roulette.json) |
 | Russian Roulette II: The Next Worlds | 265942 | [265942-russian-roulette-ii-the-next-worlds.json](./265942-russian-roulette-ii-the-next-worlds.json) |
 | Russian VR Coasters | 32005 | [32005-russian-vr-coasters.json](./32005-russian-vr-coasters.json) |
