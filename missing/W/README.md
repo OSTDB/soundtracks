@@ -308,6 +308,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watchtower | 15568 | [15568-watchtower.json](./15568-watchtower.json) |
 | Watchword | 343281 | [343281-watchword.json](./343281-watchword.json) |
 | Water Balloon Mania | 147467 | [147467-water-balloon-mania.json](./147467-water-balloon-mania.json) |
+| Water Castle | 268473 | [268473-water-castle.json](./268473-water-castle.json) |
+| Water City | 268472 | [268472-water-city.json](./268472-water-city.json) |
 | Water Clock | 106620 | [106620-water-clock.json](./106620-water-clock.json) |
 | Water Pipes | 104092 | [104092-water-pipes.json](./104092-water-pipes.json) |
 | Water Search | 224753 | [224753-water-search.json](./224753-water-search.json) |
@@ -540,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is the Meaning? | 161396 | [161396-where-is-the-meaning.json](./161396-where-is-the-meaning.json) |
 | Where Safety Ends R | 289896 | [289896-where-safety-ends-r.json](./289896-where-safety-ends-r.json) |
 | Where Sea Foam Fades | 364488 | [364488-where-sea-foam-fades.json](./364488-where-sea-foam-fades.json) |
+| Where Serpents Ever Dwell | 268466 | [268466-where-serpents-ever-dwell.json](./268466-where-serpents-ever-dwell.json) |
 | Where the Anemones Bloom | 302118 | [302118-where-the-anemones-bloom.json](./302118-where-the-anemones-bloom.json) |
 | Where the Chips Fall | 353859 | [353859-where-the-chips-fall.json](./353859-where-the-chips-fall.json) |
 | Where the Demon Lurks | 209631 | [209631-where-the-demon-lurks.json](./209631-where-the-demon-lurks.json) |
@@ -867,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchcraft U | 155652 | [155652-witchcraft-u.json](./155652-witchcraft-u.json) |
 | Witches & Woodlands | 275595 | [275595-witches-and-woodlands.json](./275595-witches-and-woodlands.json) |
 | Witches Legacy: Slumbering Darkness & Dark Throne | 201824 | [201824-witches-legacy-slumbering-darkness-and-dark-throne.json](./201824-witches-legacy-slumbering-darkness-and-dark-throne.json) |
+| Witches Weed | 268497 | [268497-witches-weed.json](./268497-witches-weed.json) |
 | Witches' Legacy: Awakening Darkness HD (Full) | 89986 | [89986-witches-legacy-awakening-darkness-hd-full.json](./89986-witches-legacy-awakening-darkness-hd-full.json) |
 | Witches' Legacy: Hunter and the Hunted - Collector's Edition | 89945 | [89945-witches-legacy-hunter-and-the-hunted-collectors-edition.json](./89945-witches-legacy-hunter-and-the-hunted-collectors-edition.json) |
 | Witches' Legacy: Hunter and the Hunted HD | 101583 | [101583-witches-legacy-hunter-and-the-hunted-hd.json](./101583-witches-legacy-hunter-and-the-hunted-hd.json) |
