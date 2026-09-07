@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Aincrad: Special Edition | 409589 | [409589-echoes-of-aincrad-special-edition.json](./409589-echoes-of-aincrad-special-edition.json) |
 | Echoes of Eclipse | 389399 | [389399-echoes-of-eclipse.json](./389399-echoes-of-eclipse.json) |
 | Echoes of Eldoria | 333541 | [333541-echoes-of-eldoria.json](./333541-echoes-of-eldoria.json) |
+| Echoes of Etheria | 266788 | [266788-echoes-of-etheria.json](./266788-echoes-of-etheria.json) |
 | Echoes of Forgotten Dreams | 340234 | [340234-echoes-of-forgotten-dreams.json](./340234-echoes-of-forgotten-dreams.json) |
 | Echoes of Magic | 194024 | [194024-echoes-of-magic.json](./194024-echoes-of-magic.json) |
 | Echoes of Nocturnal Chords | 284335 | [284335-echoes-of-nocturnal-chords.json](./284335-echoes-of-nocturnal-chords.json) |
