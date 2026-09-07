@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BackRooms's 1995 The Lost Footage: Chapter 1 | 298562 | [298562-backroomss-1995-the-lost-footage-chapter-1.json](./298562-backroomss-1995-the-lost-footage-chapter-1.json) |
 | Backseat Drivers | 342047 | [342047-backseat-drivers.json](./342047-backseat-drivers.json) |
 | BackSlap | 349318 | [349318-backslap.json](./349318-backslap.json) |
+| Backstage at Naked Porn Battle | 280204 | [280204-backstage-at-naked-porn-battle.json](./280204-backstage-at-naked-porn-battle.json) |
 | Backstage Pass | 234907 | [234907-backstage-pass.json](./234907-backstage-pass.json) |
 | Backstage: Murdered Sleep | 297777 | [297777-backstage-murdered-sleep.json](./297777-backstage-murdered-sleep.json) |
 | Backstory | 406102 | [406102-backstory.json](./406102-backstory.json) |
@@ -2191,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutalist | 308250 | [308250-brutalist.json](./308250-brutalist.json) |
 | Brutalistick VR | 277017 | [277017-brutalistick-vr.json](./277017-brutalistick-vr.json) |
 | Brute Horse | 314627 | [314627-brute-horse.json](./314627-brute-horse.json) |
+| Brutic | 280228 | [280228-brutic.json](./280228-brutic.json) |
 | Brutus | 91950 | [91950-brutus.json](./91950-brutus.json) |
 | Bryan's Indie Collection | 355577 | [355577-bryans-indie-collection.json](./355577-bryans-indie-collection.json) |
 | BS F-Zero Grand Prix 2: Practice | 38348 | [38348-bs-f-zero-grand-prix-2-practice.json](./38348-bs-f-zero-grand-prix-2-practice.json) |
@@ -2431,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Tycoon ND | 24995 | [24995-bus-tycoon-nd.json](./24995-bus-tycoon-nd.json) |
 | Bus-Simulator 2012 | 16700 | [16700-bus-simulator-2012.json](./16700-bus-simulator-2012.json) |
 | Bushido Saga: Nightmare of the Samurai | 260375 | [260375-bushido-saga-nightmare-of-the-samurai.json](./260375-bushido-saga-nightmare-of-the-samurai.json) |
+| Business Empire: RichMan | 280220 | [280220-business-empire-richman.json](./280220-business-empire-richman.json) |
 | Business Management | 400853 | [400853-business-management.json](./400853-business-management.json) |
 | Business Ryoku Kentei DS | 70410 | [70410-business-ryoku-kentei-ds.json](./70410-business-ryoku-kentei-ds.json) |
 | Businessman Simulator | 402891 | [402891-businessman-simulator.json](./402891-businessman-simulator.json) |
