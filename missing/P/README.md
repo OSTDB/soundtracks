@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peak’s Edge | 365118 | [365118-peak-s-edge.json](./365118-peak-s-edge.json) |
 | Peaky Blinders VR | 117742 | [117742-peaky-blinders-vr.json](./117742-peaky-blinders-vr.json) |
 | Peanut Butter Panic | 73277 | [73277-peanut-butter-panic.json](./73277-peanut-butter-panic.json) |
+| Pearl Fishery: Quest for the Mega Pearl | 296372 | [296372-pearl-fishery-quest-for-the-mega-pearl.json](./296372-pearl-fishery-quest-for-the-mega-pearl.json) |
 | Pearl Rising | 314054 | [314054-pearl-rising.json](./314054-pearl-rising.json) |
 | Pebbles Quest | 324337 | [324337-pebbles-quest.json](./324337-pebbles-quest.json) |
 | Pec-Men | 335693 | [335693-pec-men.json](./335693-pec-men.json) |
