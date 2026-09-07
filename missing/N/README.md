@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New English Training: Learning with Tempo - Advanced Edition | 260942 | [260942-new-english-training-learning-with-tempo-advanced-edition.json](./260942-new-english-training-learning-with-tempo-advanced-edition.json) |
 | New English Training: Learning with Tempo - Beginners Edition | 260944 | [260944-new-english-training-learning-with-tempo-beginners-edition.json](./260944-new-english-training-learning-with-tempo-beginners-edition.json) |
 | New Era | 135862 | [135862-new-era.json](./135862-new-era.json) |
+| New Ganymede | 266783 | [266783-new-ganymede.json](./266783-new-ganymede.json) |
 | New Hope | 304058 | [304058-new-hope.json](./304058-new-hope.json) |
 | New Hyu Stone | 60549 | [60549-new-hyu-stone.json](./60549-new-hyu-stone.json) |
 | New Journey to the West | 320543 | [320543-new-journey-to-the-west.json](./320543-new-journey-to-the-west.json) |
@@ -517,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Witch in Town | 143694 | [143694-new-witch-in-town.json](./143694-new-witch-in-town.json) |
 | New World | 263768 | [263768-new-world.json](./263768-new-world.json) |
 | New World Order | 19215 | [19215-new-world-order.json](./19215-new-world-order.json) |
+| New World: Rise of the Angry Earth | 266781 | [266781-new-world-rise-of-the-angry-earth.json](./266781-new-world-rise-of-the-angry-earth.json) |
 | New Yankee 6: In Pharaoh's Court | 117096 | [117096-new-yankee-6-in-pharaohs-court.json](./117096-new-yankee-6-in-pharaohs-court.json) |
 | New Year Simulator 2025 | 326390 | [326390-new-year-simulator-2025.json](./326390-new-year-simulator-2025.json) |
 | New Year's Jam | 325263 | [325263-new-years-jam.json](./325263-new-years-jam.json) |
@@ -565,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Blitz Pro | 47337 | [47337-nfl-blitz-pro.json](./47337-nfl-blitz-pro.json) |
 | NFL GameDay '97 | 20716 | [20716-nfl-gameday-97.json](./20716-nfl-gameday-97.json) |
 | NFL GameDay 2005 | 209589 | [209589-nfl-gameday-2005.json](./209589-nfl-gameday-2005.json) |
+| NFL Pro Era II | 266797 | [266797-nfl-pro-era-ii.json](./266797-nfl-pro-era-ii.json) |
 | NFL Quarterback 15 | 74417 | [74417-nfl-quarterback-15.json](./74417-nfl-quarterback-15.json) |
 | NFL Sports Talk Football '93 Starring Joe Montana | 72117 | [72117-nfl-sports-talk-football-93-starring-joe-montana.json](./72117-nfl-sports-talk-football-93-starring-joe-montana.json) |
 | NFL Street 2: Unleashed | 243016 | [243016-nfl-street-2-unleashed.json](./243016-nfl-street-2-unleashed.json) |
