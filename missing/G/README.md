@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch | 232137 | [232137-glitch.json](./232137-glitch.json) |
 | Glitch Boy | 25757 | [25757-glitch-boy.json](./25757-glitch-boy.json) |
 | Glitch Daddy | 277009 | [277009-glitch-daddy.json](./277009-glitch-daddy.json) |
+| Glitch Maze.exe | 293074 | [293074-glitch-maze-exe.json](./293074-glitch-maze-exe.json) |
 | Glitch Party | 235455 | [235455-glitch-party.json](./235455-glitch-party.json) |
 | Glitch Racer | 383936 | [383936-glitch-racer.json](./383936-glitch-racer.json) |
 | Glitch Tower | 376453 | [376453-glitch-tower.json](./376453-glitch-tower.json) |
