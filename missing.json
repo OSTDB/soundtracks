@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T08:18:37.341Z",
-  "total_missing": 41129,
+  "generated_at": "2026-09-07T08:33:11.134Z",
+  "total_missing": 41179,
   "games": [
     {
       "igdb_id": 306086,
@@ -1843,6 +1843,11 @@
       "file": "missing/0-9/60581-3d-shooting-tsukuuru.json"
     },
     {
+      "igdb_id": 293101,
+      "game_name": "3D Skills Start Here",
+      "file": "missing/0-9/293101-3d-skills-start-here.json"
+    },
+    {
       "igdb_id": 100864,
       "game_name": "3D Snake . io",
       "file": "missing/0-9/100864-3d-snake-io.json"
@@ -2653,6 +2658,11 @@
       "file": "missing/A/124258-a-bewitching-revolution.json"
     },
     {
+      "igdb_id": 293077,
+      "game_name": "A Blocc World",
+      "file": "missing/A/293077-a-blocc-world.json"
+    },
+    {
       "igdb_id": 225283,
       "game_name": "A Bonte Escape",
       "file": "missing/A/225283-a-bonte-escape.json"
@@ -3153,6 +3163,11 @@
       "file": "missing/A/321177-a-little-to-the-left-trick-or-tidy.json"
     },
     {
+      "igdb_id": 293082,
+      "game_name": "A Living Room",
+      "file": "missing/A/293082-a-living-room.json"
+    },
+    {
       "igdb_id": 235979,
       "game_name": "A Lone Piece",
       "file": "missing/A/235979-a-lone-piece.json"
@@ -3246,6 +3261,11 @@
       "igdb_id": 153414,
       "game_name": "A Matter of Time",
       "file": "missing/A/153414-a-matter-of-time.json"
+    },
+    {
+      "igdb_id": 293073,
+      "game_name": "A Maze Dream: The Puzzle Journey",
+      "file": "missing/A/293073-a-maze-dream-the-puzzle-journey.json"
     },
     {
       "igdb_id": 182517,
@@ -4611,6 +4631,11 @@
       "igdb_id": 97351,
       "game_name": "Acme Bricks",
       "file": "missing/A/97351-acme-bricks.json"
+    },
+    {
+      "igdb_id": 293078,
+      "game_name": "Acorn Hunt",
+      "file": "missing/A/293078-acorn-hunt.json"
     },
     {
       "igdb_id": 307328,
@@ -6018,6 +6043,11 @@
       "file": "missing/A/109424-age-of-viking-conquest.json"
     },
     {
+      "igdb_id": 293080,
+      "game_name": "Age of Water: The First Voyage",
+      "file": "missing/A/293080-age-of-water-the-first-voyage.json"
+    },
+    {
       "igdb_id": 325846,
       "game_name": "Age of Wonders 4: Archon Prophecy",
       "file": "missing/A/325846-age-of-wonders-4-archon-prophecy.json"
@@ -6061,6 +6091,11 @@
       "igdb_id": 357799,
       "game_name": "Agent Bob",
       "file": "missing/A/357799-agent-bob.json"
+    },
+    {
+      "igdb_id": 293079,
+      "game_name": "Agent Brain: Tricky Puzzles",
+      "file": "missing/A/293079-agent-brain-tricky-puzzles.json"
     },
     {
       "igdb_id": 127618,
@@ -7088,6 +7123,11 @@
       "file": "missing/A/116544-alchemy-story.json"
     },
     {
+      "igdb_id": 293084,
+      "game_name": "Alchemy Unbound",
+      "file": "missing/A/293084-alchemy-unbound.json"
+    },
+    {
       "igdb_id": 199097,
       "game_name": "Alcohol Empire",
       "file": "missing/A/199097-alcohol-empire.json"
@@ -7413,6 +7453,11 @@
       "file": "missing/A/344944-alien-attack.json"
     },
     {
+      "igdb_id": 293083,
+      "game_name": "Alien Bob",
+      "file": "missing/A/293083-alien-bob.json"
+    },
+    {
       "igdb_id": 374594,
       "game_name": "Alien Cartographer",
       "file": "missing/A/374594-alien-cartographer.json"
@@ -7696,6 +7741,11 @@
       "igdb_id": 16065,
       "game_name": "All Aspect Warfare",
       "file": "missing/A/16065-all-aspect-warfare.json"
+    },
+    {
+      "igdb_id": 293081,
+      "game_name": "All City King",
+      "file": "missing/A/293081-all-city-king.json"
     },
     {
       "igdb_id": 301283,
@@ -8018,6 +8068,11 @@
       "file": "missing/A/24926-alone.json"
     },
     {
+      "igdb_id": 293085,
+      "game_name": "Alonecats",
+      "file": "missing/A/293085-alonecats.json"
+    },
+    {
       "igdb_id": 326086,
       "game_name": "Alpaca Party",
       "file": "missing/A/326086-alpaca-party.json"
@@ -8086,6 +8141,11 @@
       "igdb_id": 17849,
       "game_name": "Alphadia Genesis",
       "file": "missing/A/17849-alphadia-genesis.json"
+    },
+    {
+      "igdb_id": 293086,
+      "game_name": "Alphageddon",
+      "file": "missing/A/293086-alphageddon.json"
     },
     {
       "igdb_id": 174342,
@@ -8703,6 +8763,11 @@
       "file": "missing/A/352198-amnesia-a-cowards-debt.json"
     },
     {
+      "igdb_id": 293087,
+      "game_name": "Amo",
+      "file": "missing/A/293087-amo.json"
+    },
+    {
       "igdb_id": 233213,
       "game_name": "Amoeboid",
       "file": "missing/A/233213-amoeboid.json"
@@ -8846,6 +8911,11 @@
       "igdb_id": 378174,
       "game_name": "An Imp and an Impostor",
       "file": "missing/A/378174-an-imp-and-an-impostor.json"
+    },
+    {
+      "igdb_id": 293090,
+      "game_name": "An Island Away",
+      "file": "missing/A/293090-an-island-away.json"
     },
     {
       "igdb_id": 360588,
@@ -9193,6 +9263,11 @@
       "file": "missing/A/269285-angel-of-death.json"
     },
     {
+      "igdb_id": 293088,
+      "game_name": "Angel Spirit",
+      "file": "missing/A/293088-angel-spirit.json"
+    },
+    {
       "igdb_id": 169444,
       "game_name": "Angel Tears",
       "file": "missing/A/169444-angel-tears.json"
@@ -9471,6 +9546,11 @@
       "igdb_id": 219296,
       "game_name": "Animal Drifters",
       "file": "missing/A/219296-animal-drifters.json"
+    },
+    {
+      "igdb_id": 293089,
+      "game_name": "Animal Falling",
+      "file": "missing/A/293089-animal-falling.json"
     },
     {
       "igdb_id": 295265,
@@ -9978,6 +10058,11 @@
       "file": "missing/A/290720-anomaly-exit.json"
     },
     {
+      "igdb_id": 293091,
+      "game_name": "Anomaly Loop",
+      "file": "missing/A/293091-anomaly-loop.json"
+    },
+    {
       "igdb_id": 353284,
       "game_name": "Anomaly Observer",
       "file": "missing/A/353284-anomaly-observer.json"
@@ -9996,6 +10081,11 @@
       "igdb_id": 8758,
       "game_name": "Anomaly: Warzone Earth",
       "file": "missing/A/8758-anomaly-warzone-earth.json"
+    },
+    {
+      "igdb_id": 293094,
+      "game_name": "Anomalytics: From the Files of the Arcane Statistics Authority",
+      "file": "missing/A/293094-anomalytics-from-the-files-of-the-arcane-statistics-authority.json"
     },
     {
       "igdb_id": 314654,
@@ -10051,6 +10141,11 @@
       "igdb_id": 323759,
       "game_name": "Another Head",
       "file": "missing/A/323759-another-head.json"
+    },
+    {
+      "igdb_id": 293093,
+      "game_name": "Another Hour Another Planet",
+      "file": "missing/A/293093-another-hour-another-planet.json"
     },
     {
       "igdb_id": 196884,
@@ -10176,6 +10271,11 @@
       "igdb_id": 109705,
       "game_name": "Ant Empire",
       "file": "missing/A/109705-ant-empire.json"
+    },
+    {
+      "igdb_id": 293092,
+      "game_name": "Ant Keeping Simulator",
+      "file": "missing/A/293092-ant-keeping-simulator.json"
     },
     {
       "igdb_id": 210250,
@@ -10828,6 +10928,11 @@
       "file": "missing/A/96757-aquavias.json"
     },
     {
+      "igdb_id": 293095,
+      "game_name": "Aquis",
+      "file": "missing/A/293095-aquis.json"
+    },
+    {
       "igdb_id": 55895,
       "game_name": "AR Darts",
       "file": "missing/A/55895-ar-darts.json"
@@ -11151,6 +11256,11 @@
       "igdb_id": 126568,
       "game_name": "Arcadia Fallen",
       "file": "missing/A/126568-arcadia-fallen.json"
+    },
+    {
+      "igdb_id": 293096,
+      "game_name": "Arcadia Fallen II",
+      "file": "missing/A/293096-arcadia-fallen-ii.json"
     },
     {
       "igdb_id": 255971,
@@ -21048,6 +21158,11 @@
       "file": "missing/B/312581-black-bird.json"
     },
     {
+      "igdb_id": 293097,
+      "game_name": "Black Blade",
+      "file": "missing/B/293097-black-blade.json"
+    },
+    {
       "igdb_id": 379357,
       "game_name": "Black Blood",
       "file": "missing/B/379357-black-blood.json"
@@ -21243,6 +21358,11 @@
       "file": "missing/B/14311-black-viper.json"
     },
     {
+      "igdb_id": 293099,
+      "game_name": "Black Werewolf",
+      "file": "missing/B/293099-black-werewolf.json"
+    },
+    {
       "igdb_id": 220874,
       "game_name": "Black Widow: Looking for Love",
       "file": "missing/B/220874-black-widow-looking-for-love.json"
@@ -21346,6 +21466,11 @@
       "igdb_id": 8481,
       "game_name": "Blacklight: Tango Down",
       "file": "missing/B/8481-blacklight-tango-down.json"
+    },
+    {
+      "igdb_id": 293098,
+      "game_name": "Blacklist Mafia",
+      "file": "missing/B/293098-blacklist-mafia.json"
     },
     {
       "igdb_id": 293896,
@@ -21756,6 +21881,11 @@
       "igdb_id": 193531,
       "game_name": "Blazing Strike",
       "file": "missing/B/193531-blazing-strike.json"
+    },
+    {
+      "igdb_id": 293100,
+      "game_name": "Blazing Trail",
+      "file": "missing/B/293100-blazing-trail.json"
     },
     {
       "igdb_id": 46001,
@@ -22218,6 +22348,11 @@
       "file": "missing/B/57090-block-o-mania.json"
     },
     {
+      "igdb_id": 293103,
+      "game_name": "Block;Shift",
+      "file": "missing/B/293103-block-shift.json"
+    },
+    {
       "igdb_id": 23864,
       "game_name": "Blockade Runner",
       "file": "missing/B/23864-blockade-runner.json"
@@ -22231,6 +22366,11 @@
       "igdb_id": 306966,
       "game_name": "Blockage",
       "file": "missing/B/306966-blockage.json"
+    },
+    {
+      "igdb_id": 293102,
+      "game_name": "BlockBawks",
+      "file": "missing/B/293102-blockbawks.json"
     },
     {
       "igdb_id": 189965,
@@ -22368,6 +22508,11 @@
       "file": "missing/B/124837-blood-and-gold-caribbean-the-zombiest-adventures.json"
     },
     {
+      "igdb_id": 293104,
+      "game_name": "Blood And Fear: Part 1",
+      "file": "missing/B/293104-blood-and-fear-part-1.json"
+    },
+    {
       "igdb_id": 135251,
       "game_name": "Blood and Ruby",
       "file": "missing/B/135251-blood-and-ruby.json"
@@ -22483,6 +22628,11 @@
       "file": "missing/B/7894-blood-omen-legacy-of-kain.json"
     },
     {
+      "igdb_id": 293105,
+      "game_name": "Blood On The Thames",
+      "file": "missing/B/293105-blood-on-the-thames.json"
+    },
+    {
       "igdb_id": 239873,
       "game_name": "Blood Pact",
       "file": "missing/B/239873-blood-pact.json"
@@ -22491,6 +22641,11 @@
       "igdb_id": 239876,
       "game_name": "Blood Pact: Premium Edition",
       "file": "missing/B/239876-blood-pact-premium-edition.json"
+    },
+    {
+      "igdb_id": 293106,
+      "game_name": "Blood Peace",
+      "file": "missing/B/293106-blood-peace.json"
     },
     {
       "igdb_id": 293388,
@@ -23528,6 +23683,11 @@
       "file": "missing/B/302388-bond.json"
     },
     {
+      "igdb_id": 293107,
+      "game_name": "Bond Blues",
+      "file": "missing/B/293107-bond-blues.json"
+    },
+    {
       "igdb_id": 66109,
       "game_name": "Bonded Realities",
       "file": "missing/B/66109-bonded-realities.json"
@@ -23541,6 +23701,11 @@
       "igdb_id": 302696,
       "game_name": "Bondstones",
       "file": "missing/B/302696-bondstones.json"
+    },
+    {
+      "igdb_id": 293108,
+      "game_name": "Bone and Arrow",
+      "file": "missing/B/293108-bone-and-arrow.json"
     },
     {
       "igdb_id": 146877,
@@ -23978,6 +24143,11 @@
       "file": "missing/B/394823-boss-pit.json"
     },
     {
+      "igdb_id": 293109,
+      "game_name": "Boss Simulator",
+      "file": "missing/B/293109-boss-simulator.json"
+    },
+    {
       "igdb_id": 365056,
       "game_name": "Boss Up",
       "file": "missing/B/365056-boss-up.json"
@@ -23991,6 +24161,11 @@
       "igdb_id": 253584,
       "game_name": "Bot Crafter",
       "file": "missing/B/253584-bot-crafter.json"
+    },
+    {
+      "igdb_id": 293110,
+      "game_name": "Bot Hunt",
+      "file": "missing/B/293110-bot-hunt.json"
     },
     {
       "igdb_id": 330147,
@@ -24041,6 +24216,11 @@
       "igdb_id": 14336,
       "game_name": "Botics",
       "file": "missing/B/14336-botics.json"
+    },
+    {
+      "igdb_id": 293111,
+      "game_name": "BotMobile",
+      "file": "missing/B/293111-botmobile.json"
     },
     {
       "igdb_id": 58817,
@@ -24466,6 +24646,11 @@
       "igdb_id": 108469,
       "game_name": "Boxing Club: Ultimate Fighting",
       "file": "missing/B/108469-boxing-club-ultimate-fighting.json"
+    },
+    {
+      "igdb_id": 293112,
+      "game_name": "Boxing Go",
+      "file": "missing/B/293112-boxing-go.json"
     },
     {
       "igdb_id": 174339,
@@ -69693,6 +69878,11 @@
       "file": "missing/G/277009-glitch-daddy.json"
     },
     {
+      "igdb_id": 293074,
+      "game_name": "Glitch Maze.exe",
+      "file": "missing/G/293074-glitch-maze-exe.json"
+    },
+    {
       "igdb_id": 235455,
       "game_name": "Glitch Party",
       "file": "missing/G/235455-glitch-party.json"
@@ -87828,6 +88018,16 @@
       "file": "missing/J/263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json"
     },
     {
+      "igdb_id": 293070,
+      "game_name": "Jigsaw Puzzle World: Agricultural Machinery",
+      "file": "missing/J/293070-jigsaw-puzzle-world-agricultural-machinery.json"
+    },
+    {
+      "igdb_id": 293067,
+      "game_name": "Jigsaw Puzzle World: Bears",
+      "file": "missing/J/293067-jigsaw-puzzle-world-bears.json"
+    },
+    {
       "igdb_id": 293609,
       "game_name": "Jigsaw Puzzle World: Canada",
       "file": "missing/J/293609-jigsaw-puzzle-world-canada.json"
@@ -87838,9 +88038,19 @@
       "file": "missing/J/293611-jigsaw-puzzle-world-desserts.json"
     },
     {
+      "igdb_id": 293068,
+      "game_name": "Jigsaw Puzzle World: Fairground",
+      "file": "missing/J/293068-jigsaw-puzzle-world-fairground.json"
+    },
+    {
       "igdb_id": 293610,
       "game_name": "Jigsaw Puzzle World: Insects",
       "file": "missing/J/293610-jigsaw-puzzle-world-insects.json"
+    },
+    {
+      "igdb_id": 293069,
+      "game_name": "Jigsaw Puzzle World: South Korea",
+      "file": "missing/J/293069-jigsaw-puzzle-world-south-korea.json"
     },
     {
       "igdb_id": 293608,
@@ -101513,6 +101723,11 @@
       "file": "missing/M/19518-maize.json"
     },
     {
+      "igdb_id": 293075,
+      "game_name": "Maize Mace Maze",
+      "file": "missing/M/293075-maize-mace-maze.json"
+    },
+    {
       "igdb_id": 240523,
       "game_name": "Majestic Majolical vol. 1",
       "file": "missing/M/240523-majestic-majolical-vol-1.json"
@@ -103461,6 +103676,16 @@
       "igdb_id": 69,
       "game_name": "Master of Orion III",
       "file": "missing/M/69-master-of-orion-iii.json"
+    },
+    {
+      "igdb_id": 293065,
+      "game_name": "Master of Pieces: Jigsaw Puzzle - Bonsai",
+      "file": "missing/M/293065-master-of-pieces-jigsaw-puzzle-bonsai.json"
+    },
+    {
+      "igdb_id": 293066,
+      "game_name": "Master of Pieces: Jigsaw Puzzle - Paper Art",
+      "file": "missing/M/293066-master-of-pieces-jigsaw-puzzle-paper-art.json"
     },
     {
       "igdb_id": 109618,
@@ -129601,6 +129826,16 @@
       "igdb_id": 260419,
       "game_name": "Pixel Puzzles Traditional Jigsaws Pack: Variety Pack 9",
       "file": "missing/P/260419-pixel-puzzles-traditional-jigsaws-pack-variety-pack-9.json"
+    },
+    {
+      "igdb_id": 293072,
+      "game_name": "Pixel Puzzles Ultimate Jigsaw: Civil Unrest",
+      "file": "missing/P/293072-pixel-puzzles-ultimate-jigsaw-civil-unrest.json"
+    },
+    {
+      "igdb_id": 293071,
+      "game_name": "Pixel Puzzles Ultimate Jigsaw: Variety Pack 23",
+      "file": "missing/P/293071-pixel-puzzles-ultimate-jigsaw-variety-pack-23.json"
     },
     {
       "igdb_id": 163416,
@@ -165998,6 +166233,11 @@
       "file": "missing/S/155621-super-jigsaw-puzzle-generations-china-puzzles.json"
     },
     {
+      "igdb_id": 293064,
+      "game_name": "Super Jigsaw Puzzle: Generations - Dogs 2",
+      "file": "missing/S/293064-super-jigsaw-puzzle-generations-dogs-2.json"
+    },
+    {
       "igdb_id": 155619,
       "game_name": "Super Jigsaw Puzzle: Generations - Dogs Puzzles",
       "file": "missing/S/155619-super-jigsaw-puzzle-generations-dogs-puzzles.json"
@@ -166116,6 +166356,11 @@
       "igdb_id": 155640,
       "game_name": "Super Jigsaw Puzzle: Generations - SJP Monuments Puzzles",
       "file": "missing/S/155640-super-jigsaw-puzzle-generations-sjp-monuments-puzzles.json"
+    },
+    {
+      "igdb_id": 293063,
+      "game_name": "Super Jigsaw Puzzle: Generations - South Korea",
+      "file": "missing/S/293063-super-jigsaw-puzzle-generations-south-korea.json"
     },
     {
       "igdb_id": 155617,
@@ -170891,6 +171136,11 @@
       "igdb_id": 200733,
       "game_name": "Tank Master",
       "file": "missing/T/200733-tank-master.json"
+    },
+    {
+      "igdb_id": 293076,
+      "game_name": "Tank Maze",
+      "file": "missing/T/293076-tank-maze.json"
     },
     {
       "igdb_id": 119790,
