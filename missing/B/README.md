@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banishers: Ghosts of New Eden - Wanderer Set DLC | 312879 | [312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json](./312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json) |
 | Banishing Racer | 7763 | [7763-banishing-racer.json](./7763-banishing-racer.json) |
 | Banjo X | 194643 | [194643-banjo-x.json](./194643-banjo-x.json) |
+| Banjo-Kazooie & The Quest for Cake | 294713 | [294713-banjo-kazooie-and-the-quest-for-cake.json](./294713-banjo-kazooie-and-the-quest-for-cake.json) |
 | Banjo-Kazooie New Horizons | 135260 | [135260-banjo-kazooie-new-horizons.json](./135260-banjo-kazooie-new-horizons.json) |
 | Banjo-Kazooie Worlds Collide | 135259 | [135259-banjo-kazooie-worlds-collide.json](./135259-banjo-kazooie-worlds-collide.json) |
 | Banjo-Pilot | 6316 | [6316-banjo-pilot.json](./6316-banjo-pilot.json) |
@@ -572,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Luzon 1945 | 103530 | [103530-battle-of-luzon-1945.json](./103530-battle-of-luzon-1945.json) |
 | Battle of Orion 10: First contact | 235474 | [235474-battle-of-orion-10-first-contact.json](./235474-battle-of-orion-10-first-contact.json) |
 | Battle of the Immortals | 51218 | [51218-battle-of-the-immortals.json](./51218-battle-of-the-immortals.json) |
+| Battle of the Lexicon Lords | 294720 | [294720-battle-of-the-lexicon-lords.json](./294720-battle-of-the-lexicon-lords.json) |
 | Battle of Warplanes: Air War | 87531 | [87531-battle-of-warplanes-air-war.json](./87531-battle-of-warplanes-air-war.json) |
 | Battle Pinball | 37205 | [37205-battle-pinball.json](./37205-battle-pinball.json) |
 | Battle Pingpong | 7774 | [7774-battle-pingpong.json](./7774-battle-pingpong.json) |
@@ -981,6 +983,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Horizon | 51984 | [51984-beyond-the-horizon.json](./51984-beyond-the-horizon.json) |
 | Beyond the Ice Palace II | 297231 | [297231-beyond-the-ice-palace-ii.json](./297231-beyond-the-ice-palace-ii.json) |
 | Beyond the Illusions | 387324 | [387324-beyond-the-illusions.json](./387324-beyond-the-illusions.json) |
+| Beyond the Kingdom | 294736 | [294736-beyond-the-kingdom.json](./294736-beyond-the-kingdom.json) |
+| Beyond the Kingdom 2 | 294737 | [294737-beyond-the-kingdom-2.json](./294737-beyond-the-kingdom-2.json) |
 | Beyond the Sideline Football | 62223 | [62223-beyond-the-sideline-football.json](./62223-beyond-the-sideline-football.json) |
 | Beyond the Sunset | 68671 | [68671-beyond-the-sunset.json](./68671-beyond-the-sunset.json) |
 | Beyond the Wall of Stars | 68684 | [68684-beyond-the-wall-of-stars.json](./68684-beyond-the-wall-of-stars.json) |
@@ -1014,6 +1018,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Business | 14300 | [14300-big-business.json](./14300-big-business.json) |
 | Big Catch Bass Fishing | 197944 | [197944-big-catch-bass-fishing.json](./197944-big-catch-bass-fishing.json) |
 | Big Chief | 96342 | [96342-big-chief.json](./96342-big-chief.json) |
+| Big City Adventure: Istanbul | 294743 | [294743-big-city-adventure-istanbul.json](./294743-big-city-adventure-istanbul.json) |
+| Big City Adventure: Tokyo | 294742 | [294742-big-city-adventure-tokyo.json](./294742-big-city-adventure-tokyo.json) |
 | Big Drunk Satanic Massacre | 75067 | [75067-big-drunk-satanic-massacre.json](./75067-big-drunk-satanic-massacre.json) |
 | Big Fight: Big Trouble in the Atlantic Ocean | 40233 | [40233-big-fight-big-trouble-in-the-atlantic-ocean.json](./40233-big-fight-big-trouble-in-the-atlantic-ocean.json) |
 | Big Hunt | 329021 | [329021-big-hunt.json](./329021-big-hunt.json) |
@@ -1580,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boat Simulator | 231082 | [231082-boat-simulator.json](./231082-boat-simulator.json) |
 | Bob & Dob | 177570 | [177570-bob-and-dob.json](./177570-bob-and-dob.json) |
 | Bob Does Not Care | 181903 | [181903-bob-does-not-care.json](./181903-bob-does-not-care.json) |
+| Bob Invasion | 294693 | [294693-bob-invasion.json](./294693-bob-invasion.json) |
 | Bob vs the Mob | 57670 | [57670-bob-vs-the-mob.json](./57670-bob-vs-the-mob.json) |
 | Bob Winner 2 | 25771 | [25771-bob-winner-2.json](./25771-bob-winner-2.json) |
 | Bob's Bad Day | 14329 | [14329-bobs-bad-day.json](./14329-bobs-bad-day.json) |
@@ -2273,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulwark: Falconeer Chronicles - Medieval Houses | 408049 | [408049-bulwark-falconeer-chronicles-medieval-houses.json](./408049-bulwark-falconeer-chronicles-medieval-houses.json) |
 | Bumbledore | 16348 | [16348-bumbledore.json](./16348-bumbledore.json) |
 | Bumblepig | 94735 | [94735-bumblepig.json](./94735-bumblepig.json) |
+| BumbleTales | 294740 | [294740-bumbletales.json](./294740-bumbletales.json) |
 | Bump and Run Racing | 265396 | [265396-bump-and-run-racing.json](./265396-bump-and-run-racing.json) |
 | Bumper 7 | 319574 | [319574-bumper-7.json](./319574-bumper-7.json) |
 | Bumper Wars | 71534 | [71534-bumper-wars.json](./71534-bumper-wars.json) |
