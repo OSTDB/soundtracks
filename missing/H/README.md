@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hansel and Gretel | 215350 | [215350-hansel-and-gretel.json](./215350-hansel-and-gretel.json) |
 | Hansel and Gretel and the Enchanted Castle | 46641 | [46641-hansel-and-gretel-and-the-enchanted-castle.json](./46641-hansel-and-gretel-and-the-enchanted-castle.json) |
 | Hanz Puppetguns | 106619 | [106619-hanz-puppetguns.json](./106619-hanz-puppetguns.json) |
+| Hanzala Returns | 299169 | [299169-hanzala-returns.json](./299169-hanzala-returns.json) |
 | Hàoyuè Kōnghuá | 112991 | [112991-haoyue-konghua.json](./112991-haoyue-konghua.json) |
 | Hapland 2 | 335873 | [335873-hapland-2.json](./335873-hapland-2.json) |
 | Happily Ever After | 48024 | [48024-happily-ever-after.json](./48024-happily-ever-after.json) |
@@ -612,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help, I cast the wrong spell! | 180802 | [180802-help-i-cast-the-wrong-spell.json](./180802-help-i-cast-the-wrong-spell.json) |
 | Help! I've Been Cursed With A Bubble Butt | 337469 | [337469-help-ive-been-cursed-with-a-bubble-butt.json](./337469-help-ive-been-cursed-with-a-bubble-butt.json) |
 | Helwyr | 148551 | [148551-helwyr.json](./148551-helwyr.json) |
+| Hemophobia | 299160 | [299160-hemophobia.json](./299160-hemophobia.json) |
 | Henbou no Bansan | 98439 | [98439-henbou-no-bansan.json](./98439-henbou-no-bansan.json) |
 | Henri | 222521 | [222521-henri.json](./222521-henri.json) |
 | Henry's Adventure | 268188 | [268188-henrys-adventure.json](./268188-henrys-adventure.json) |
@@ -1483,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hush Darling | 415099 | [415099-hush-darling.json](./415099-hush-darling.json) |
 | Husk | 18966 | [18966-husk.json](./18966-husk.json) |
 | Hustle Cat | 33277 | [33277-hustle-cat.json](./33277-hustle-cat.json) |
+| Hustle Quest: Historia of Urth | 299155 | [299155-hustle-quest-historia-of-urth.json](./299155-hustle-quest-historia-of-urth.json) |
 | HVRGun | 29707 | [29707-hvrgun.json](./29707-hvrgun.json) |
 | Hyakki Yako Survivor | 331332 | [331332-hyakki-yako-survivor.json](./331332-hyakki-yako-survivor.json) |
 | Hyakki Yako: OH&S | 259289 | [259289-hyakki-yako-oh-and-s.json](./259289-hyakki-yako-oh-and-s.json) |
@@ -1495,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydefos | 292848 | [292848-hydefos.json](./292848-hydefos.json) |
 | Hydra Hide Land | 337467 | [337467-hydra-hide-land.json](./337467-hydra-hide-land.json) |
 | Hydra: Poseidon's Сonspiracy | 342645 | [342645-hydra-poseidons-onspiracy.json](./342645-hydra-poseidons-onspiracy.json) |
+| Hydrangea | 299171 | [299171-hydrangea.json](./299171-hydrangea.json) |
 | Hydrofoil Generation | 190237 | [190237-hydrofoil-generation.json](./190237-hydrofoil-generation.json) |
 | Hydropawnics | 371893 | [371893-hydropawnics.json](./371893-hydropawnics.json) |
 | Hymeno Striker: Akashicverse Minigame | 171597 | [171597-hymeno-striker-akashicverse-minigame.json](./171597-hymeno-striker-akashicverse-minigame.json) |
