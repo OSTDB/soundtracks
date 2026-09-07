@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zalera Spark | 310935 | [310935-zalera-spark.json](./310935-zalera-spark.json) |
 | Zaleste | 329972 | [329972-zaleste.json](./329972-zaleste.json) |
 | Zamzara | 74429 | [74429-zamzara.json](./74429-zamzara.json) |
+| Zanac | 292025 | [292025-zanac.json](./292025-zanac.json) |
 | Zane | 233734 | [233734-zane.json](./233734-zane.json) |
 | Zanfium Tower | 173838 | [173838-zanfium-tower.json](./173838-zanfium-tower.json) |
 | Zankoi's Chronicles | 255959 | [255959-zankois-chronicles.json](./255959-zankois-chronicles.json) |
