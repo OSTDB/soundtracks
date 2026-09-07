@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Fear | 335084 | [335084-one-fear.json](./335084-one-fear.json) |
 | One Giant Hole | 371869 | [371869-one-giant-hole.json](./371869-one-giant-hole.json) |
 | One Girl Army | 324699 | [324699-one-girl-army.json](./324699-one-girl-army.json) |
+| One Hell of a Turnabout | 310419 | [310419-one-hell-of-a-turnabout.json](./310419-one-hell-of-a-turnabout.json) |
 | One Iced Latte With Your Breast Milk, Please! | 296688 | [296688-one-iced-latte-with-your-breast-milk-please.json](./296688-one-iced-latte-with-your-breast-milk-please.json) |
 | One in a Trillion | 146873 | [146873-one-in-a-trillion.json](./146873-one-in-a-trillion.json) |
 | One Last Game | 143742 | [143742-one-last-game.json](./143742-one-last-game.json) |
