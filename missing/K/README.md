@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Karts | 88306 | [88306-king-of-karts.json](./88306-king-of-karts.json) |
 | King of Meat | 314255 | [314255-king-of-meat.json](./314255-king-of-meat.json) |
 | King of Queendoms | 110609 | [110609-king-of-queendoms.json](./110609-king-of-queendoms.json) |
+| King of Snatchers | 306338 | [306338-king-of-snatchers.json](./306338-king-of-snatchers.json) |
 | King of Space | 345515 | [345515-king-of-space.json](./345515-king-of-space.json) |
 | King of Spin VR | 31980 | [31980-king-of-spin-vr.json](./31980-king-of-spin-vr.json) |
 | King of the Dwarves: Underground City Builder | 185700 | [185700-king-of-the-dwarves-underground-city-builder.json](./185700-king-of-the-dwarves-underground-city-builder.json) |
