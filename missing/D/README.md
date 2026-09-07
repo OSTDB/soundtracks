@@ -656,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Degenerate Souls | 159848 | [159848-degenerate-souls.json](./159848-degenerate-souls.json) |
 | Degeneration | 107891 | [107891-degeneration.json](./107891-degeneration.json) |
 | Deities Flush | 324113 | [324113-deities-flush.json](./324113-deities-flush.json) |
+| Deity's Domain | 306383 | [306383-deitys-domain.json](./306383-deitys-domain.json) |
 | Déjà Vu I | 310192 | [310192-deja-vu-i.json](./310192-deja-vu-i.json) |
 | Déjà Vu II | 310193 | [310193-deja-vu-ii.json](./310193-deja-vu-ii.json) |
 | Deja Vu II: MacVenture Series | 35914 | [35914-deja-vu-ii-macventure-series.json](./35914-deja-vu-ii-macventure-series.json) |
@@ -738,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon RPG | 299451 | [299451-demon-rpg.json](./299451-demon-rpg.json) |
 | Demon Seed | 218135 | [218135-demon-seed.json](./218135-demon-seed.json) |
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Tengen Uzui Character Pack | 209695 | [209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json](./209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json) |
+| Demon Still Alive | 306344 | [306344-demon-still-alive.json](./306344-demon-still-alive.json) |
 | Demon Strikes Back | 156647 | [156647-demon-strikes-back.json](./156647-demon-strikes-back.json) |
 | Demon Sword | 48065 | [48065-demon-sword.json](./48065-demon-sword.json) |
 | Demon Turf | 134564 | [134564-demon-turf.json](./134564-demon-turf.json) |
@@ -947,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Revenge | 69855 | [69855-devils-revenge.json](./69855-devils-revenge.json) |
 | Devil's Third Online | 59988 | [59988-devils-third-online.json](./59988-devils-third-online.json) |
 | Devil's Tuning Fork | 67304 | [67304-devils-tuning-fork.json](./67304-devils-tuning-fork.json) |
+| Devil's Way | 306358 | [306358-devils-way.json](./306358-devils-way.json) |
 | DevilDark: The Fallen Kingdom | 343817 | [343817-devildark-the-fallen-kingdom.json](./343817-devildark-the-fallen-kingdom.json) |
 | Deviled Dice | 397711 | [397711-deviled-dice.json](./397711-deviled-dice.json) |
 | Devoid | 377568 | [377568-devoid.json](./377568-devoid.json) |
@@ -1143,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dioramos | 333556 | [333556-dioramos.json](./333556-dioramos.json) |
 | Diplomacy is Not an Option: Fog of War | 415090 | [415090-diplomacy-is-not-an-option-fog-of-war.json](./415090-diplomacy-is-not-an-option-fog-of-war.json) |
 | Diptych: The Great War | 199135 | [199135-diptych-the-great-war.json](./199135-diptych-the-great-war.json) |
+| Direction! Level Up! | 306359 | [306359-direction-level-up.json](./306359-direction-level-up.json) |
 | DirectionDungeon! | 179200 | [179200-directiondungeon.json](./179200-directiondungeon.json) |
 | Director Manager Total | 344940 | [344940-director-manager-total.json](./344940-director-manager-total.json) |
 | Direland | 396883 | [396883-direland.json](./396883-direland.json) |
@@ -1927,6 +1931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreampainters | 360005 | [360005-dreampainters.json](./360005-dreampainters.json) |
 | Dreams of Being | 170002 | [170002-dreams-of-being.json](./170002-dreams-of-being.json) |
 | Dreams of Joy Departed | 317581 | [317581-dreams-of-joy-departed.json](./317581-dreams-of-joy-departed.json) |
+| Dreams of Sand | 306347 | [306347-dreams-of-sand.json](./306347-dreams-of-sand.json) |
 | Dreams of Solari - Chapter 1 | 120376 | [120376-dreams-of-solari-chapter-1.json](./120376-dreams-of-solari-chapter-1.json) |
 | Dreams of Witchtown | 67282 | [67282-dreams-of-witchtown.json](./67282-dreams-of-witchtown.json) |
 | Dreamscape Abyss | 258732 | [258732-dreamscape-abyss.json](./258732-dreamscape-abyss.json) |
