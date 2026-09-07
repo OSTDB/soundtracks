@@ -947,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinky and the Brain: The Master Plan | 49360 | [49360-pinky-and-the-brain-the-master-plan.json](./49360-pinky-and-the-brain-the-master-plan.json) |
 | Pinky Xmas | 340207 | [340207-pinky-xmas.json](./340207-pinky-xmas.json) |
 | Pinnacle of Darkness | 274202 | [274202-pinnacle-of-darkness.json](./274202-pinnacle-of-darkness.json) |
+| Pinnacle Point | 291463 | [291463-pinnacle-point.json](./291463-pinnacle-point.json) |
 | Pinochle Plus | 105937 | [105937-pinochle-plus.json](./105937-pinochle-plus.json) |
 | Pinpoint | 321116 | [321116-pinpoint.json](./321116-pinpoint.json) |
 | Pintar | 330529 | [330529-pintar.json](./330529-pintar.json) |
