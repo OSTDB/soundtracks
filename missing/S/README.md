@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Jack: Way of the Warrior | 338747 | [338747-samurai-jack-way-of-the-warrior.json](./338747-samurai-jack-way-of-the-warrior.json) |
 | Samurai Maiden | 212269 | [212269-samurai-maiden.json](./212269-samurai-maiden.json) |
 | Samurai Pizza Cats: Blast from the Past! | 332394 | [332394-samurai-pizza-cats-blast-from-the-past.json](./332394-samurai-pizza-cats-blast-from-the-past.json) |
+| Samurai Revenge | 307606 | [307606-samurai-revenge.json](./307606-samurai-revenge.json) |
 | Samurai Saga | 55910 | [55910-samurai-saga.json](./55910-samurai-saga.json) |
 | Samurai Shodown: Baiken | 167836 | [167836-samurai-shodown-baiken.json](./167836-samurai-shodown-baiken.json) |
 | Samurai Shodown: Deluxe Edition | 331842 | [331842-samurai-shodown-deluxe-edition.json](./331842-samurai-shodown-deluxe-edition.json) |
@@ -1572,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skinny & Franko: Fists of Violence | 215900 | [215900-skinny-and-franko-fists-of-violence.json](./215900-skinny-and-franko-fists-of-violence.json) |
 | Skins Game | 91433 | [91433-skins-game.json](./91433-skins-game.json) |
 | Skinwalkers Valley | 379339 | [379339-skinwalkers-valley.json](./379339-skinwalkers-valley.json) |
+| Skip Ahead | 307607 | [307607-skip-ahead.json](./307607-skip-ahead.json) |
 | Skip Around The World: Finland | 310947 | [310947-skip-around-the-world-finland.json](./310947-skip-around-the-world-finland.json) |
 | Skiplit | 27799 | [27799-skiplit.json](./27799-skiplit.json) |
 | Skoof Fishing | 356663 | [356663-skoof-fishing.json](./356663-skoof-fishing.json) |
@@ -1875,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail's Knock Out! | 301021 | [301021-snails-knock-out.json](./301021-snails-knock-out.json) |
 | Snails vs. Humans | 326076 | [326076-snails-vs-humans.json](./326076-snails-vs-humans.json) |
 | Snake | 100202 | [100202-snake.json](./100202-snake.json) |
+| Snake | 307608 | [307608-snake.json](./307608-snake.json) |
 | Snake 2 DX: Reawakening | 171624 | [171624-snake-2-dx-reawakening.json](./171624-snake-2-dx-reawakening.json) |
 | Snake Bricks-Bounce Balls | 106569 | [106569-snake-bricks-bounce-balls.json](./106569-snake-bricks-bounce-balls.json) |
 | Snake Den | 84876 | [84876-snake-den.json](./84876-snake-den.json) |
@@ -2682,6 +2685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Sampler | 55925 | [55925-special-sampler.json](./55925-special-sampler.json) |
 | Special Tee Shot | 60587 | [60587-special-tee-shot.json](./60587-special-tee-shot.json) |
 | Spectral Ascension | 152938 | [152938-spectral-ascension.json](./152938-spectral-ascension.json) |
+| Spectral Survivor | 307581 | [307581-spectral-survivor.json](./307581-spectral-survivor.json) |
 | Spectre of Eternity | 210865 | [210865-spectre-of-eternity.json](./210865-spectre-of-eternity.json) |
 | Spectre's Library | 235971 | [235971-spectres-library.json](./235971-spectres-library.json) |
 | Spectres | 45359 | [45359-spectres.json](./45359-spectres.json) |
@@ -2942,6 +2946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spud Customs | 324090 | [324090-spud-customs.json](./324090-spud-customs.json) |
 | Spuds | 54421 | [54421-spuds.json](./54421-spuds.json) |
 | Spunk and Moxie | 25041 | [25041-spunk-and-moxie.json](./25041-spunk-and-moxie.json) |
+| Spunky | 307609 | [307609-spunky.json](./307609-spunky.json) |
 | Spy Alarm | 148572 | [148572-spy-alarm.json](./148572-spy-alarm.json) |
 | Spy Chameleon | 15462 | [15462-spy-chameleon.json](./15462-spy-chameleon.json) |
 | Spy Fiction | 43327 | [43327-spy-fiction.json](./43327-spy-fiction.json) |
@@ -3242,6 +3247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarPeace | 73286 | [73286-starpeace.json](./73286-starpeace.json) |
 | StarPicker | 149607 | [149607-starpicker.json](./149607-starpicker.json) |
 | Starpiercer | 181360 | [181360-starpiercer.json](./181360-starpiercer.json) |
+| StarPilot W | 307610 | [307610-starpilot-w.json](./307610-starpilot-w.json) |
 | Starpoint Gemini 2 Gold Pack | 308575 | [308575-starpoint-gemini-2-gold-pack.json](./308575-starpoint-gemini-2-gold-pack.json) |
 | Starpoint Gemini 3 | 115458 | [115458-starpoint-gemini-3.json](./115458-starpoint-gemini-3.json) |
 | Starpoint Gemini Warlords - Cycle of Warfare | 124829 | [124829-starpoint-gemini-warlords-cycle-of-warfare.json](./124829-starpoint-gemini-warlords-cycle-of-warfare.json) |
