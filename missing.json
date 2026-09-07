@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T00:03:14.538Z",
-  "total_missing": 39479,
+  "generated_at": "2026-09-07T00:18:19.838Z",
+  "total_missing": 39529,
   "games": [
     {
       "igdb_id": 306086,
@@ -10703,6 +10703,11 @@
       "file": "missing/A/129766-arcade-archives-saint-dragon.json"
     },
     {
+      "igdb_id": 312019,
+      "game_name": "Arcade Archives: The Final Round",
+      "file": "missing/A/312019-arcade-archives-the-final-round.json"
+    },
+    {
       "igdb_id": 314869,
       "game_name": "Arcade Archives: The Ninja Kids",
       "file": "missing/A/314869-arcade-archives-the-ninja-kids.json"
@@ -14811,6 +14816,11 @@
       "igdb_id": 301581,
       "game_name": "Baba Is Cool 2",
       "file": "missing/B/301581-baba-is-cool-2.json"
+    },
+    {
+      "igdb_id": 311985,
+      "game_name": "Baba's Palace",
+      "file": "missing/B/311985-babas-palace.json"
     },
     {
       "igdb_id": 45339,
@@ -33008,6 +33018,11 @@
       "file": "missing/C/408089-coin-pusher-ltd.json"
     },
     {
+      "igdb_id": 312027,
+      "game_name": "Coins",
+      "file": "missing/C/312027-coins.json"
+    },
+    {
       "igdb_id": 213027,
       "game_name": "Coins Collector Sport Car",
       "file": "missing/C/213027-coins-collector-sport-car.json"
@@ -34636,6 +34651,11 @@
       "igdb_id": 409563,
       "game_name": "Cool Game Pack",
       "file": "missing/C/409563-cool-game-pack.json"
+    },
+    {
+      "igdb_id": 312007,
+      "game_name": "Cool Kid Cody: Season 3 - Episode 09",
+      "file": "missing/C/312007-cool-kid-cody-season-3-episode-09.json"
     },
     {
       "igdb_id": 2621,
@@ -41546,6 +41566,11 @@
       "igdb_id": 403577,
       "game_name": "Deep Dive",
       "file": "missing/D/403577-deep-dive.json"
+    },
+    {
+      "igdb_id": 311984,
+      "game_name": "Deep Dungeon Adventure",
+      "file": "missing/D/311984-deep-dungeon-adventure.json"
     },
     {
       "igdb_id": 25762,
@@ -53776,6 +53801,11 @@
       "igdb_id": 165013,
       "game_name": "Euro Truck Simulator 2: Heart of Russia",
       "file": "missing/E/165013-euro-truck-simulator-2-heart-of-russia.json"
+    },
+    {
+      "igdb_id": 311995,
+      "game_name": "Euro Truck Simulator 2: Renault Trucks E-Tech T",
+      "file": "missing/E/311995-euro-truck-simulator-2-renault-trucks-e-tech-t.json"
     },
     {
       "igdb_id": 71554,
@@ -68538,6 +68568,16 @@
       "file": "missing/G/334144-granblue-fantasy-versus-rising-the-black-butterfly-narmaya.json"
     },
     {
+      "igdb_id": 312003,
+      "game_name": "Granblue Fantasy: Relink - Character Expansion Set: Sandalphon",
+      "file": "missing/G/312003-granblue-fantasy-relink-character-expansion-set-sandalphon.json"
+    },
+    {
+      "igdb_id": 312005,
+      "game_name": "Granblue Fantasy: Relink - Character Expansion Set: Seofon",
+      "file": "missing/G/312005-granblue-fantasy-relink-character-expansion-set-seofon.json"
+    },
+    {
       "igdb_id": 309641,
       "game_name": "Granblue Fantasy: Relink - Character Expansion Set: Tweyen",
       "file": "missing/G/309641-granblue-fantasy-relink-character-expansion-set-tweyen.json"
@@ -68546,6 +68586,16 @@
       "igdb_id": 309640,
       "game_name": "Granblue Fantasy: Relink - Color Pack 4",
       "file": "missing/G/309640-granblue-fantasy-relink-color-pack-4.json"
+    },
+    {
+      "igdb_id": 312004,
+      "game_name": "Granblue Fantasy: Relink - Color Pack 5",
+      "file": "missing/G/312004-granblue-fantasy-relink-color-pack-5.json"
+    },
+    {
+      "igdb_id": 312002,
+      "game_name": "Granblue Fantasy: Relink - Emote Expansion Set: Grab Bag",
+      "file": "missing/G/312002-granblue-fantasy-relink-emote-expansion-set-grab-bag.json"
     },
     {
       "igdb_id": 67914,
@@ -70228,6 +70278,11 @@
       "file": "missing/G/140608-gum-droppers.json"
     },
     {
+      "igdb_id": 311990,
+      "game_name": "Gum Flesh",
+      "file": "missing/G/311990-gum-flesh.json"
+    },
+    {
       "igdb_id": 407353,
       "game_name": "Gumball Hero",
       "file": "missing/G/407353-gumball-hero.json"
@@ -71473,6 +71528,11 @@
       "file": "missing/H/307295-hamster.json"
     },
     {
+      "igdb_id": 312028,
+      "game_name": "Hamster Bomba",
+      "file": "missing/H/312028-hamster-bomba.json"
+    },
+    {
       "igdb_id": 340410,
       "game_name": "Hamster Clicker!",
       "file": "missing/H/340410-hamster-clicker.json"
@@ -71716,6 +71776,11 @@
       "igdb_id": 250638,
       "game_name": "Happy Aquarium",
       "file": "missing/H/250638-happy-aquarium.json"
+    },
+    {
+      "igdb_id": 312034,
+      "game_name": "Happy Bird",
+      "file": "missing/H/312034-happy-bird.json"
     },
     {
       "igdb_id": 209603,
@@ -73421,6 +73486,21 @@
       "igdb_id": 366854,
       "game_name": "Hell Let Loose: Operation Overlord Units",
       "file": "missing/H/366854-hell-let-loose-operation-overlord-units.json"
+    },
+    {
+      "igdb_id": 312017,
+      "game_name": "Hell Let Loose: Pea Dot",
+      "file": "missing/H/312017-hell-let-loose-pea-dot.json"
+    },
+    {
+      "igdb_id": 312013,
+      "game_name": "Hell Let Loose: Polish Parachute Brigade Uniform",
+      "file": "missing/H/312013-hell-let-loose-polish-parachute-brigade-uniform.json"
+    },
+    {
+      "igdb_id": 312015,
+      "game_name": "Hell Let Loose: Red Devils",
+      "file": "missing/H/312015-hell-let-loose-red-devils.json"
     },
     {
       "igdb_id": 371222,
@@ -76951,6 +77031,11 @@
       "igdb_id": 40780,
       "game_name": "Hot Wave",
       "file": "missing/H/40780-hot-wave.json"
+    },
+    {
+      "igdb_id": 312012,
+      "game_name": "Hot Wheels Unleashed 2: Mercedes-Benz Pack",
+      "file": "missing/H/312012-hot-wheels-unleashed-2-mercedes-benz-pack.json"
     },
     {
       "igdb_id": 195769,
@@ -87298,6 +87383,11 @@
       "file": "missing/K/329968-kimi-ga-mita-hikari-2.json"
     },
     {
+      "igdb_id": 312032,
+      "game_name": "Kimi ga Nozomu Eien: Enhanced Edition",
+      "file": "missing/K/312032-kimi-ga-nozomu-eien-enhanced-edition.json"
+    },
+    {
       "igdb_id": 360593,
       "game_name": "Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+",
       "file": "missing/K/360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json"
@@ -94156,6 +94246,11 @@
       "igdb_id": 400209,
       "game_name": "Looplash",
       "file": "missing/L/400209-looplash.json"
+    },
+    {
+      "igdb_id": 311987,
+      "game_name": "Loopover",
+      "file": "missing/L/311987-loopover.json"
     },
     {
       "igdb_id": 410915,
@@ -101988,6 +102083,11 @@
       "file": "missing/M/276486-mews-under-the-truck.json"
     },
     {
+      "igdb_id": 312024,
+      "game_name": "Mewing Simulator",
+      "file": "missing/M/312024-mewing-simulator.json"
+    },
+    {
       "igdb_id": 208009,
       "game_name": "Mexiball",
       "file": "missing/M/208009-mexiball.json"
@@ -103071,6 +103171,11 @@
       "igdb_id": 25778,
       "game_name": "Mindwheel",
       "file": "missing/M/25778-mindwheel.json"
+    },
+    {
+      "igdb_id": 311988,
+      "game_name": "Mine",
+      "file": "missing/M/311988-mine.json"
     },
     {
       "igdb_id": 340950,
@@ -106421,6 +106526,11 @@
       "igdb_id": 119763,
       "game_name": "Mortal Glory",
       "file": "missing/M/119763-mortal-glory.json"
+    },
+    {
+      "igdb_id": 311996,
+      "game_name": "Mortal Glory 2: Reign of Tyrants",
+      "file": "missing/M/311996-mortal-glory-2-reign-of-tyrants.json"
     },
     {
       "igdb_id": 295006,
@@ -113613,6 +113723,11 @@
       "file": "missing/N/338752-no-food-no-drink.json"
     },
     {
+      "igdb_id": 311999,
+      "game_name": "No Ghost in Circus Caravan",
+      "file": "missing/N/311999-no-ghost-in-circus-caravan.json"
+    },
+    {
       "igdb_id": 415902,
       "game_name": "No Gods, Only Ducks",
       "file": "missing/N/415902-no-gods-only-ducks.json"
@@ -116226,6 +116341,11 @@
       "igdb_id": 257113,
       "game_name": "Omizu no Hanamichi",
       "file": "missing/O/257113-omizu-no-hanamichi.json"
+    },
+    {
+      "igdb_id": 312023,
+      "game_name": "Omni Blade",
+      "file": "missing/O/312023-omni-blade.json"
     },
     {
       "igdb_id": 391070,
@@ -121228,6 +121348,21 @@
       "file": "missing/P/37149-payday-2-ultimate-edition.json"
     },
     {
+      "igdb_id": 312011,
+      "game_name": "Payday 3: Boys in Blue Heist",
+      "file": "missing/P/312011-payday-3-boys-in-blue-heist.json"
+    },
+    {
+      "igdb_id": 312016,
+      "game_name": "Payday 3: Boys in Blue Tailor Pack",
+      "file": "missing/P/312016-payday-3-boys-in-blue-tailor-pack.json"
+    },
+    {
+      "igdb_id": 312009,
+      "game_name": "Payday 3: Boys in Blue Weapon Pack",
+      "file": "missing/P/312009-payday-3-boys-in-blue-weapon-pack.json"
+    },
+    {
       "igdb_id": 357269,
       "game_name": "Payday 3: Houston Character Pack",
       "file": "missing/P/357269-payday-3-houston-character-pack.json"
@@ -124233,6 +124368,11 @@
       "file": "missing/P/358334-pixel-rampage.json"
     },
     {
+      "igdb_id": 312026,
+      "game_name": "Pixel Restorer",
+      "file": "missing/P/312026-pixel-restorer.json"
+    },
+    {
       "igdb_id": 242384,
       "game_name": "Pixel Ripped 1978",
       "file": "missing/P/242384-pixel-ripped-1978.json"
@@ -127138,6 +127278,11 @@
       "file": "missing/P/400248-powerwash-simulator.json"
     },
     {
+      "igdb_id": 312018,
+      "game_name": "PowerWash Simulator: Cruise Ship Sun Deck - Summer 2024",
+      "file": "missing/P/312018-powerwash-simulator-cruise-ship-sun-deck-summer-2024.json"
+    },
+    {
       "igdb_id": 320757,
       "game_name": "PowerWash Simulator: Halloween Seasonal 2024",
       "file": "missing/P/320757-powerwash-simulator-halloween-seasonal-2024.json"
@@ -129191,6 +129336,11 @@
       "igdb_id": 263198,
       "game_name": "Puda + The Kid",
       "file": "missing/P/263198-puda-the-kid.json"
+    },
+    {
+      "igdb_id": 312022,
+      "game_name": "Pudding",
+      "file": "missing/P/312022-pudding.json"
     },
     {
       "igdb_id": 375851,
@@ -132478,6 +132628,11 @@
       "file": "missing/R/61094-rayman-golf.json"
     },
     {
+      "igdb_id": 312033,
+      "game_name": "Rayman IV",
+      "file": "missing/R/312033-rayman-iv.json"
+    },
+    {
       "igdb_id": 61091,
       "game_name": "Rayman Kart",
       "file": "missing/R/61091-rayman-kart.json"
@@ -134128,6 +134283,11 @@
       "file": "missing/R/310173-release-me.json"
     },
     {
+      "igdb_id": 311986,
+      "game_name": "Relevo's Snowboarding",
+      "file": "missing/R/311986-relevos-snowboarding.json"
+    },
+    {
       "igdb_id": 219812,
       "game_name": "Relic Heroes",
       "file": "missing/R/219812-relic-heroes.json"
@@ -135133,6 +135293,11 @@
       "file": "missing/R/364484-reunited-in-the-mist.json"
     },
     {
+      "igdb_id": 312031,
+      "game_name": "Reus 2: Supporter Pack",
+      "file": "missing/R/312031-reus-2-supporter-pack.json"
+    },
+    {
       "igdb_id": 389436,
       "game_name": "Rev. Noir",
       "file": "missing/R/389436-rev-noir.json"
@@ -135291,6 +135456,11 @@
       "igdb_id": 150174,
       "game_name": "Reverse Defenders",
       "file": "missing/R/150174-reverse-defenders.json"
+    },
+    {
+      "igdb_id": 311997,
+      "game_name": "Reverse Dyson Ball: Portal Tower",
+      "file": "missing/R/311997-reverse-dyson-ball-portal-tower.json"
     },
     {
       "igdb_id": 88262,
@@ -135948,6 +136118,11 @@
       "file": "missing/R/345469-rimpark-a-burning-world.json"
     },
     {
+      "igdb_id": 312014,
+      "game_name": "RimWorld: Console Edition - Ideology",
+      "file": "missing/R/312014-rimworld-console-edition-ideology.json"
+    },
+    {
       "igdb_id": 95308,
       "game_name": "Ring of Elysium",
       "file": "missing/R/95308-ring-of-elysium.json"
@@ -136211,6 +136386,11 @@
       "igdb_id": 146291,
       "game_name": "Rise of the Teenage Mutant Ninja Turtles: Road Riot",
       "file": "missing/R/146291-rise-of-the-teenage-mutant-ninja-turtles-road-riot.json"
+    },
+    {
+      "igdb_id": 312030,
+      "game_name": "Rise of the White Sun: The Yellow Way",
+      "file": "missing/R/312030-rise-of-the-white-sun-the-yellow-way.json"
     },
     {
       "igdb_id": 373027,
@@ -136996,6 +137176,11 @@
       "igdb_id": 191856,
       "game_name": "Rock Paper Clicker",
       "file": "missing/R/191856-rock-paper-clicker.json"
+    },
+    {
+      "igdb_id": 312010,
+      "game_name": "Rock Paper Everything",
+      "file": "missing/R/312010-rock-paper-everything.json"
     },
     {
       "igdb_id": 410207,
@@ -142748,6 +142933,11 @@
       "file": "missing/S/182552-sectora23.json"
     },
     {
+      "igdb_id": 312000,
+      "game_name": "Security Guard Sex: Episode 3",
+      "file": "missing/S/312000-security-guard-sex-episode-3.json"
+    },
+    {
       "igdb_id": 298319,
       "game_name": "Security: The Horrible Nights",
       "file": "missing/S/298319-security-the-horrible-nights.json"
@@ -143716,6 +143906,11 @@
       "igdb_id": 110529,
       "game_name": "Sexy Comedy: It Was a Mistake",
       "file": "missing/S/110529-sexy-comedy-it-was-a-mistake.json"
+    },
+    {
+      "igdb_id": 311991,
+      "game_name": "Sexy Girl Next Door: Virtual Valentine Sex",
+      "file": "missing/S/311991-sexy-girl-next-door-virtual-valentine-sex.json"
     },
     {
       "igdb_id": 111721,
@@ -146113,6 +146308,11 @@
       "file": "missing/S/229949-sift-heads-world-act-3-alonzos-reinforcement.json"
     },
     {
+      "igdb_id": 311993,
+      "game_name": "Sift Heads: Legendary Pack",
+      "file": "missing/S/311993-sift-heads-legendary-pack.json"
+    },
+    {
       "igdb_id": 371901,
       "game_name": "Sifu's Quest",
       "file": "missing/S/371901-sifus-quest.json"
@@ -146928,6 +147128,11 @@
       "file": "missing/S/194641-sir-ababol-remastered-edition.json"
     },
     {
+      "igdb_id": 312008,
+      "game_name": "Sir Fallen: Supporter Pack",
+      "file": "missing/S/312008-sir-fallen-supporter-pack.json"
+    },
+    {
       "igdb_id": 61626,
       "game_name": "Sira",
       "file": "missing/S/61626-sira.json"
@@ -147051,6 +147256,11 @@
       "igdb_id": 125250,
       "game_name": "Skald: Against the Black Priory",
       "file": "missing/S/125250-skald-against-the-black-priory.json"
+    },
+    {
+      "igdb_id": 311994,
+      "game_name": "Skald: Against the Black Priory - Reinforcement Pack",
+      "file": "missing/S/311994-skald-against-the-black-priory-reinforcement-pack.json"
     },
     {
       "igdb_id": 98972,
@@ -166618,6 +166828,11 @@
       "file": "missing/T/58843-the-bermuda-triangle.json"
     },
     {
+      "igdb_id": 312025,
+      "game_name": "The Best Duck Clicker",
+      "file": "missing/T/312025-the-best-duck-clicker.json"
+    },
+    {
       "igdb_id": 357223,
       "game_name": "The Best Investor",
       "file": "missing/T/357223-the-best-investor.json"
@@ -167701,6 +167916,11 @@
       "igdb_id": 28871,
       "game_name": "The Dark Tales of Katarina",
       "file": "missing/T/28871-the-dark-tales-of-katarina.json"
+    },
+    {
+      "igdb_id": 312035,
+      "game_name": "The Dark Tide",
+      "file": "missing/T/312035-the-dark-tide.json"
     },
     {
       "igdb_id": 119780,
@@ -173438,6 +173658,11 @@
       "file": "missing/T/123043-the-sports-daishuugou.json"
     },
     {
+      "igdb_id": 312021,
+      "game_name": "The Spreader",
+      "file": "missing/T/312021-the-spreader.json"
+    },
+    {
       "igdb_id": 315504,
       "game_name": "The Springlock: Aftermath",
       "file": "missing/T/315504-the-springlock-aftermath.json"
@@ -175931,6 +176156,11 @@
       "igdb_id": 332243,
       "game_name": "TIC's Revenge",
       "file": "missing/T/332243-tics-revenge.json"
+    },
+    {
+      "igdb_id": 311992,
+      "game_name": "Ticket to Ride: USA 1910 Ticket Pack",
+      "file": "missing/T/311992-ticket-to-ride-usa-1910-ticket-pack.json"
     },
     {
       "igdb_id": 375176,
@@ -189358,6 +189588,11 @@
       "file": "missing/W/85496-warmen-tactics.json"
     },
     {
+      "igdb_id": 312006,
+      "game_name": "Warno: Expansion Pass",
+      "file": "missing/W/312006-warno-expansion-pass.json"
+    },
+    {
       "igdb_id": 403589,
       "game_name": "Warno: Nemesis #3 - Homefront",
       "file": "missing/W/403589-warno-nemesis-3-homefront.json"
@@ -191678,6 +191913,11 @@
       "file": "missing/W/408793-wind-fantasy-double-cross.json"
     },
     {
+      "igdb_id": 312001,
+      "game_name": "Wind Rider: Hero Outfit",
+      "file": "missing/W/312001-wind-rider-hero-outfit.json"
+    },
+    {
       "igdb_id": 312540,
       "game_name": "Wind Story",
       "file": "missing/W/312540-wind-story.json"
@@ -192006,6 +192246,11 @@
       "igdb_id": 265970,
       "game_name": "Wipeout",
       "file": "missing/W/265970-wipeout.json"
+    },
+    {
+      "igdb_id": 312020,
+      "game_name": "Wiper",
+      "file": "missing/W/312020-wiper.json"
     },
     {
       "igdb_id": 195755,
@@ -195111,6 +195356,11 @@
       "igdb_id": 301600,
       "game_name": "Yin-Yang Labyrinth",
       "file": "missing/Y/301600-yin-yang-labyrinth.json"
+    },
+    {
+      "igdb_id": 312029,
+      "game_name": "Yin-Yang Ping-Pong: Supporter Pack",
+      "file": "missing/Y/312029-yin-yang-ping-pong-supporter-pack.json"
     },
     {
       "igdb_id": 36297,
