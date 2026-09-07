@@ -984,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Beach Sports 2 | 50639 | [50639-big-beach-sports-2.json](./50639-big-beach-sports-2.json) |
 | Big Bears Bad Advice: A Non-Biased Daily Fortune Teller | 126623 | [126623-big-bears-bad-advice-a-non-biased-daily-fortune-teller.json](./126623-big-bears-bad-advice-a-non-biased-daily-fortune-teller.json) |
 | Big Bible Town | 326992 | [326992-big-bible-town.json](./326992-big-bible-town.json) |
+| Big Boo's Haunt | 308230 | [308230-big-boos-haunt.json](./308230-big-boos-haunt.json) |
 | Big Booty Adventures | 186312 | [186312-big-booty-adventures.json](./186312-big-booty-adventures.json) |
 | Big Brave | 91440 | [91440-big-brave.json](./91440-big-brave.json) |
 | Big Buck Hunter Pro Adventure | 328254 | [328254-big-buck-hunter-pro-adventure.json](./328254-big-buck-hunter-pro-adventure.json) |
@@ -1621,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombabomb! | 267092 | [267092-bombabomb.json](./267092-bombabomb.json) |
 | Bombagun | 188112 | [188112-bombagun.json](./188112-bombagun.json) |
 | Bombardiro Crocodilo Simulator | 349300 | [349300-bombardiro-crocodilo-simulator.json](./349300-bombardiro-crocodilo-simulator.json) |
+| Bombastic | 308253 | [308253-bombastic.json](./308253-bombastic.json) |
 | Bombball | 301584 | [301584-bombball.json](./301584-bombball.json) |
 | Bomber | 270399 | [270399-bomber.json](./270399-bomber.json) |
 | Bomber Bob | 14331 | [14331-bomber-bob.json](./14331-bomber-bob.json) |
@@ -2074,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrutalAliens | 107903 | [107903-brutalaliens.json](./107903-brutalaliens.json) |
 | Brutalism | 89979 | [89979-brutalism.json](./89979-brutalism.json) |
 | Brutalism22 | 244470 | [244470-brutalism22.json](./244470-brutalism22.json) |
+| Brutalist | 308250 | [308250-brutalist.json](./308250-brutalist.json) |
 | Brutalistick VR | 277017 | [277017-brutalistick-vr.json](./277017-brutalistick-vr.json) |
 | Brute Horse | 314627 | [314627-brute-horse.json](./314627-brute-horse.json) |
 | Brutus | 91950 | [91950-brutus.json](./91950-brutus.json) |
