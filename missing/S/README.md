@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Beach 3 Plus | 22463 | [22463-sexy-beach-3-plus.json](./22463-sexy-beach-3-plus.json) |
 | Sexy Beach Zero | 22423 | [22423-sexy-beach-zero.json](./22423-sexy-beach-zero.json) |
 | Sexy Comedy: It Was a Mistake | 110529 | [110529-sexy-comedy-it-was-a-mistake.json](./110529-sexy-comedy-it-was-a-mistake.json) |
+| Sexy Futa: Mecha Battles of Islands | 310424 | [310424-sexy-futa-mecha-battles-of-islands.json](./310424-sexy-futa-mecha-battles-of-islands.json) |
 | Sexy Girl Next Door: Virtual Valentine Sex | 311991 | [311991-sexy-girl-next-door-virtual-valentine-sex.json](./311991-sexy-girl-next-door-virtual-valentine-sex.json) |
 | Sexy Girls | 111721 | [111721-sexy-girls.json](./111721-sexy-girls.json) |
 | Sexy Girls Puzzle | 109706 | [109706-sexy-girls-puzzle.json](./109706-sexy-girls-puzzle.json) |
@@ -1019,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shazabi and the Cantina Catacombs | 230542 | [230542-shazabi-and-the-cantina-catacombs.json](./230542-shazabi-and-the-cantina-catacombs.json) |
 | She Danced in the Wind Like a Holographic Dream Before the World Died | 390004 | [390004-she-danced-in-the-wind-like-a-holographic-dream-before-the-world-died.json](./390004-she-danced-in-the-wind-like-a-holographic-dream-before-the-world-died.json) |
 | She Hungers | 397665 | [397665-she-hungers.json](./397665-she-hungers.json) |
+| She is Home Alone | 310373 | [310373-she-is-home-alone.json](./310373-she-is-home-alone.json) |
 | She Save | 50511 | [50511-she-save.json](./50511-she-save.json) |
 | She's My Vampire | 205816 | [205816-shes-my-vampire.json](./205816-shes-my-vampire.json) |
 | ShedHorror | 308549 | [308549-shedhorror.json](./308549-shedhorror.json) |
@@ -1283,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shy Dogs Hidden Orchestra | 258215 | [258215-shy-dogs-hidden-orchestra.json](./258215-shy-dogs-hidden-orchestra.json) |
 | Shyftrs | 205793 | [205793-shyftrs.json](./205793-shyftrs.json) |
 | Siam Twinstick | 111714 | [111714-siam-twinstick.json](./111714-siam-twinstick.json) |
+| Siberian Dawn: Winterflood | 310408 | [310408-siberian-dawn-winterflood.json](./310408-siberian-dawn-winterflood.json) |
 | Sicier's Zweck | 117076 | [117076-siciers-zweck.json](./117076-siciers-zweck.json) |
 | Sick | 277612 | [277612-sick.json](./277612-sick.json) |
 | Sick Bricks | 23925 | [23925-sick-bricks.json](./23925-sick-bricks.json) |
@@ -2507,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Empires IV Deluxe | 19350 | [19350-space-empires-iv-deluxe.json](./19350-space-empires-iv-deluxe.json) |
 | Space Engineers 2 | 326578 | [326578-space-engineers-2.json](./326578-space-engineers-2.json) |
 | Space Engineers: Automatons | 247778 | [247778-space-engineers-automatons.json](./247778-space-engineers-automatons.json) |
+| Space Engineers: Signal Pack | 310403 | [310403-space-engineers-signal-pack.json](./310403-space-engineers-signal-pack.json) |
 | Space Engineers: Ultimate Edition 2024 | 331850 | [331850-space-engineers-ultimate-edition-2024.json](./331850-space-engineers-ultimate-edition-2024.json) |
 | Space Escape Obstacles | 202960 | [202960-space-escape-obstacles.json](./202960-space-escape-obstacles.json) |
 | Space Fantasy Zone | 42007 | [42007-space-fantasy-zone.json](./42007-space-fantasy-zone.json) |
@@ -3026,6 +3030,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Catcher: Heart Master | 362272 | [362272-star-catcher-heart-master.json](./362272-star-catcher-heart-master.json) |
 | Star Chef 2: Cooking Game | 153999 | [153999-star-chef-2-cooking-game.json](./153999-star-chef-2-cooking-game.json) |
 | Star Chindy | 175420 | [175420-star-chindy.json](./175420-star-chindy.json) |
+| Star Conflict: Bark-2 | 310391 | [310391-star-conflict-bark-2.json](./310391-star-conflict-bark-2.json) |
+| Star Conflict: Bark-2 - Deluxe Edition | 310392 | [310392-star-conflict-bark-2-deluxe-edition.json](./310392-star-conflict-bark-2-deluxe-edition.json) |
 | Star Conflict: Custodian | 354419 | [354419-star-conflict-custodian.json](./354419-star-conflict-custodian.json) |
 | Star Conflict: Empire Destroyer Vigilant | 354423 | [354423-star-conflict-empire-destroyer-vigilant.json](./354423-star-conflict-empire-destroyer-vigilant.json) |
 | Star Conflict: Federation Destroyer Sirius | 354430 | [354430-star-conflict-federation-destroyer-sirius.json](./354430-star-conflict-federation-destroyer-sirius.json) |
@@ -3040,8 +3046,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Conflict: Pirate Pack - Jolly Roger | 354440 | [354440-star-conflict-pirate-pack-jolly-roger.json](./354440-star-conflict-pirate-pack-jolly-roger.json) |
 | Star Conflict: Pirate Weapons Pack | 354436 | [354436-star-conflict-pirate-weapons-pack.json](./354436-star-conflict-pirate-weapons-pack.json) |
 | Star Conflict: Raven | 354431 | [354431-star-conflict-raven.json](./354431-star-conflict-raven.json) |
+| Star Conflict: Shrike | 310394 | [310394-star-conflict-shrike.json](./310394-star-conflict-shrike.json) |
+| Star Conflict: Shrike - Deluxe Edition | 310395 | [310395-star-conflict-shrike-deluxe-edition.json](./310395-star-conflict-shrike-deluxe-edition.json) |
 | Star Conflict: Starter Pack. Pterosaur | 354424 | [354424-star-conflict-starter-pack-pterosaur.json](./354424-star-conflict-starter-pack-pterosaur.json) |
 | Star Conflict: Tornado | 354422 | [354422-star-conflict-tornado.json](./354422-star-conflict-tornado.json) |
+| Star Conflict: Yith'Mor - Weapons of Victory | 310393 | [310393-star-conflict-yithmor-weapons-of-victory.json](./310393-star-conflict-yithmor-weapons-of-victory.json) |
 | Star Conflict: Ze'Ta. - Deluxe Version | 354439 | [354439-star-conflict-zeta-deluxe-version.json](./354439-star-conflict-zeta-deluxe-version.json) |
 | Star Connect | 233737 | [233737-star-connect.json](./233737-star-connect.json) |
 | Star Conqueror | 337631 | [337631-star-conqueror.json](./337631-star-conqueror.json) |
@@ -3631,6 +3640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuck! | 177537 | [177537-stuck.json](./177537-stuck.json) |
 | Student Transfer | 191892 | [191892-student-transfer.json](./191892-student-transfer.json) |
 | Study Time Anomaly | 369597 | [369597-study-time-anomaly.json](./369597-study-time-anomaly.json) |
+| Stumble And Fall | 310388 | [310388-stumble-and-fall.json](./310388-stumble-and-fall.json) |
 | Stump Me | 312886 | [312886-stump-me.json](./312886-stump-me.json) |
 | Stunt Destroyer | 204086 | [204086-stunt-destroyer.json](./204086-stunt-destroyer.json) |
 | Stunt Driver Collection | 328478 | [328478-stunt-driver-collection.json](./328478-stunt-driver-collection.json) |
@@ -4258,6 +4268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ubie Land | 85530 | [85530-super-ubie-land.json](./85530-super-ubie-land.json) |
 | Super Vadimka II: Revenge of Dr. Kulik | 194612 | [194612-super-vadimka-ii-revenge-of-dr-kulik.json](./194612-super-vadimka-ii-revenge-of-dr-kulik.json) |
 | Super Vadimka VI: A Terrible Threat there is No Vadimka | 224769 | [224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json](./224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json) |
+| Super Volte-Face | 310414 | [310414-super-volte-face.json](./310414-super-volte-face.json) |
 | Super Wash Simulator | 391040 | [391040-super-wash-simulator.json](./391040-super-wash-simulator.json) |
 | Super Weapon Master | 213044 | [213044-super-weapon-master.json](./213044-super-weapon-master.json) |
 | Super Weekend Mode | 96642 | [96642-super-weekend-mode.json](./96642-super-weekend-mode.json) |
@@ -4396,6 +4407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Mars: In-Dome Buildings Pack | 215400 | [215400-surviving-mars-in-dome-buildings-pack.json](./215400-surviving-mars-in-dome-buildings-pack.json) |
 | Surviving Medieval | 118402 | [118402-surviving-medieval.json](./118402-surviving-medieval.json) |
 | Surviving West | 92524 | [92524-surviving-west.json](./92524-surviving-west.json) |
+| Survivor Cells: Virusbane | 310389 | [310389-survivor-cells-virusbane.json](./310389-survivor-cells-virusbane.json) |
 | Survivor of the Journey | 210892 | [210892-survivor-of-the-journey.json](./210892-survivor-of-the-journey.json) |
 | Survivor TD | 391574 | [391574-survivor-td.json](./391574-survivor-td.json) |
 | Survivor: Day One | 62737 | [62737-survivor-day-one.json](./62737-survivor-day-one.json) |
