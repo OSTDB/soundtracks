@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage: The Ultimate Quest for Survival | 69890 | [69890-savage-the-ultimate-quest-for-survival.json](./69890-savage-the-ultimate-quest-for-survival.json) |
 | Save City R | 260399 | [260399-save-city-r.json](./260399-save-city-r.json) |
 | Save Da Frogs | 237047 | [237047-save-da-frogs.json](./237047-save-da-frogs.json) |
+| Save Daddy Trump 4: Maga 2024 | 301832 | [301832-save-daddy-trump-4-maga-2024.json](./301832-save-daddy-trump-4-maga-2024.json) |
 | Save HomeWorld | 110370 | [110370-save-homeworld.json](./110370-save-homeworld.json) |
 | Save Humanity.exe | 405534 | [405534-save-humanity-exe.json](./405534-save-humanity-exe.json) |
 | Save Me Cows | 392160 | [392160-save-me-cows.json](./392160-save-me-cows.json) |
@@ -744,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sente | 122414 | [122414-sente.json](./122414-sente.json) |
 | Sentience | 143695 | [143695-sentience.json](./143695-sentience.json) |
 | Sentimental Graffiti | 124264 | [124264-sentimental-graffiti.json](./124264-sentimental-graffiti.json) |
+| Sentinel of Innocence | 301827 | [301827-sentinel-of-innocence.json](./301827-sentinel-of-innocence.json) |
 | Sentinel Point Heroes | 226441 | [226441-sentinel-point-heroes.json](./226441-sentinel-point-heroes.json) |
 | Sentinel Worlds I: Future Magic | 55155 | [55155-sentinel-worlds-i-future-magic.json](./55155-sentinel-worlds-i-future-magic.json) |
 | Sentinels of Earth-Prime: Magical Mysteries Mini-Pack | 273672 | [273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json](./273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json) |
@@ -1753,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sligga Trigger | 272580 | [272580-sligga-trigger.json](./272580-sligga-trigger.json) |
 | Sliko | 156141 | [156141-sliko.json](./156141-sliko.json) |
 | Slime Castle | 314634 | [314634-slime-castle.json](./314634-slime-castle.json) |
+| Slime Coming | 301812 | [301812-slime-coming.json](./301812-slime-coming.json) |
 | Slime Dungeon Escape | 161389 | [161389-slime-dungeon-escape.json](./161389-slime-dungeon-escape.json) |
 | Slime Evolution | 235464 | [235464-slime-evolution.json](./235464-slime-evolution.json) |
 | Slime Evolutionary Path | 256516 | [256516-slime-evolutionary-path.json](./256516-slime-evolutionary-path.json) |
@@ -3067,6 +3070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stair Tap | 365064 | [365064-stair-tap.json](./365064-stair-tap.json) |
 | Staircase55 | 253603 | [253603-staircase55.json](./253603-staircase55.json) |
 | Stairs of Basically | 259839 | [259839-stairs-of-basically.json](./259839-stairs-of-basically.json) |
+| Stairway | 301845 | [301845-stairway.json](./301845-stairway.json) |
 | Stakes Winner | 39626 | [39626-stakes-winner.json](./39626-stakes-winner.json) |
 | Stalcraft | 321393 | [321393-stalcraft.json](./321393-stalcraft.json) |
 | Stalin vs. Martians | 8543 | [8543-stalin-vs-martians.json](./8543-stalin-vs-martians.json) |
