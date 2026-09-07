@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off_Duty | 184613 | [184613-off-duty.json](./184613-off-duty.json) |
 | Off-Road Farming | 188679 | [188679-off-road-farming.json](./188679-off-road-farming.json) |
 | Off-Road Kings | 98993 | [98993-off-road-kings.json](./98993-off-road-kings.json) |
+| Off-Road: Redneck Racing - Off-Road | 289319 | [289319-off-road-redneck-racing-off-road.json](./289319-off-road-redneck-racing-off-road.json) |
 | OffiAtrix: Rise of the Team Leader | 332841 | [332841-offiatrix-rise-of-the-team-leader.json](./332841-offiatrix-rise-of-the-team-leader.json) |
 | Office Anomaly | 413596 | [413596-office-anomaly.json](./413596-office-anomaly.json) |
 | Office Cat | 300398 | [300398-office-cat.json](./300398-office-cat.json) |
@@ -378,6 +379,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Experiment | 346576 | [346576-one-more-experiment.json](./346576-one-more-experiment.json) |
 | One more game | 152931 | [152931-one-more-game.json](./152931-one-more-game.json) |
 | One More Gate : A Wakfu Legend | 204689 | [204689-one-more-gate-a-wakfu-legend.json](./204689-one-more-gate-a-wakfu-legend.json) |
+| One More Gate: Companion#1 DLC | 289328 | [289328-one-more-gate-companion-1-dlc.json](./289328-one-more-gate-companion-1-dlc.json) |
+| One More Gate: Companion#2 DLC | 289329 | [289329-one-more-gate-companion-2-dlc.json](./289329-one-more-gate-companion-2-dlc.json) |
+| One More Gate: Companion#3 DLC | 289330 | [289330-one-more-gate-companion-3-dlc.json](./289330-one-more-gate-companion-3-dlc.json) |
 | One More Night | 292296 | [292296-one-more-night.json](./292296-one-more-night.json) |
 | One More Question | 341506 | [341506-one-more-question.json](./341506-one-more-question.json) |
 | One More Spin | 384495 | [384495-one-more-spin.json](./384495-one-more-spin.json) |
