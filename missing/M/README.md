@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marlboro Go! | 253027 | [253027-marlboro-go.json](./253027-marlboro-go.json) |
 | Marmalade Boy | 38339 | [38339-marmalade-boy.json](./38339-marmalade-boy.json) |
 | Marriage or Pervert: The Small Penis Warrior & The Perverted Magician | 82909 | [82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json](./82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json) |
+| Mars Base Excavation Incident | 271746 | [271746-mars-base-excavation-incident.json](./271746-mars-base-excavation-incident.json) |
 | Mars for the Rich | 202382 | [202382-mars-for-the-rich.json](./202382-mars-for-the-rich.json) |
 | Mars Odyssey | 32929 | [32929-mars-odyssey.json](./32929-mars-odyssey.json) |
 | Mars Saga | 70980 | [70980-mars-saga.json](./70980-mars-saga.json) |
@@ -641,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Rivals: Season 2 - Hellfire Gala | 339814 | [339814-marvel-rivals-season-2-hellfire-gala.json](./339814-marvel-rivals-season-2-hellfire-gala.json) |
 | Marvel Rivals: Season 4 - Heart of the Dragon | 367417 | [367417-marvel-rivals-season-4-heart-of-the-dragon.json](./367417-marvel-rivals-season-4-heart-of-the-dragon.json) |
 | Marvel Super Hero Squad Online | 19663 | [19663-marvel-super-hero-squad-online.json](./19663-marvel-super-hero-squad-online.json) |
+| Marvel Super Heroes: War Of The Gems | 271768 | [271768-marvel-super-heroes-war-of-the-gems.json](./271768-marvel-super-heroes-war-of-the-gems.json) |
 | Marvel Ultimate Alliance 3: The Black Order - Curse of the Vampire | 122700 | [122700-marvel-ultimate-alliance-3-the-black-order-curse-of-the-vampire.json](./122700-marvel-ultimate-alliance-3-the-black-order-curse-of-the-vampire.json) |
 | Marvel Ultimate Alliance 3: The Black Order - Rise of the Phoenix | 122701 | [122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json](./122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json) |
 | Marvel Ultimate Alliance 3: The Black Order - Shadow of Doom | 122702 | [122702-marvel-ultimate-alliance-3-the-black-order-shadow-of-doom.json](./122702-marvel-ultimate-alliance-3-the-black-order-shadow-of-doom.json) |
@@ -1780,6 +1782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirai | 200755 | [200755-mirai.json](./200755-mirai.json) |
 | Mirai Ninja: Keigumo Kinin Gaiden | 70997 | [70997-mirai-ninja-keigumo-kinin-gaiden.json](./70997-mirai-ninja-keigumo-kinin-gaiden.json) |
 | Mirai Shounen Conan | 42021 | [42021-mirai-shounen-conan.json](./42021-mirai-shounen-conan.json) |
+| Mírame | 271728 | [271728-mirame.json](./271728-mirame.json) |
 | Mirax Force | 55208 | [55208-mirax-force.json](./55208-mirax-force.json) |
 | Mircea | 320739 | [320739-mircea.json](./320739-mircea.json) |
 | Mire | 339823 | [339823-mire.json](./339823-mire.json) |
@@ -1833,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission to Neptune | 383370 | [383370-mission-to-neptune.json](./383370-mission-to-neptune.json) |
 | Mission: Chao | 330713 | [330713-mission-chao.json](./330713-mission-chao.json) |
 | Mission: Driver | 210855 | [210855-mission-driver.json](./210855-mission-driver.json) |
+| Mission: Escape | 271726 | [271726-mission-escape.json](./271726-mission-escape.json) |
 | Mission: Humanity | 73325 | [73325-mission-humanity.json](./73325-mission-humanity.json) |
 | Mission: Invasion Force | 70403 | [70403-mission-invasion-force.json](./70403-mission-invasion-force.json) |
 | Mission: Rift Seeker | 295539 | [295539-mission-rift-seeker.json](./295539-mission-rift-seeker.json) |
@@ -2287,6 +2291,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MopGarden's Veggie Cart | 225879 | [225879-mopgardens-veggie-cart.json](./225879-mopgardens-veggie-cart.json) |
 | Mops & Mobs: A Sweeping Dungeon Adventure | 291767 | [291767-mops-and-mobs-a-sweeping-dungeon-adventure.json](./291767-mops-and-mobs-a-sweeping-dungeon-adventure.json) |
 | Morbid Catastrophe | 248313 | [248313-morbid-catastrophe.json](./248313-morbid-catastrophe.json) |
+| Morbidity: 1 | 271757 | [271757-morbidity-1.json](./271757-morbidity-1.json) |
+| Morbidity: 2 | 271758 | [271758-morbidity-2.json](./271758-morbidity-2.json) |
 | Mordecai Saw Game | 385050 | [385050-mordecai-saw-game.json](./385050-mordecai-saw-game.json) |
 | Mordeth | 316605 | [316605-mordeth.json](./316605-mordeth.json) |
 | Mordfield Command | 304874 | [304874-mordfield-command.json](./304874-mordfield-command.json) |
