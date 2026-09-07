@@ -781,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingspan + European Expansion + Oceania Expansion + Seasonal Decorative Pack | 275895 | [275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json](./275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json) |
 | Wingspan: Woodland Wonders Decorative Pack | 310400 | [310400-wingspan-woodland-wonders-decorative-pack.json](./310400-wingspan-woodland-wonders-decorative-pack.json) |
 | WingWhiz | 350454 | [350454-wingwhiz.json](./350454-wingwhiz.json) |
+| Winkeltje: Cat Companion | 273939 | [273939-winkeltje-cat-companion.json](./273939-winkeltje-cat-companion.json) |
 | Winky Trap | 131582 | [131582-winky-trap.json](./131582-winky-trap.json) |
 | Winner | 130946 | [130946-winner.json](./130946-winner.json) |
 | Winnie The Pooh: The Serial Killer | 364538 | [364538-winnie-the-pooh-the-serial-killer.json](./364538-winnie-the-pooh-the-serial-killer.json) |
