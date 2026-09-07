@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QS Defender | 319594 | [319594-qs-defender.json](./319594-qs-defender.json) |
 | QS Scramble | 319595 | [319595-qs-scramble.json](./319595-qs-scramble.json) |
 | Quacker Blaster | 63286 | [63286-quacker-blaster.json](./63286-quacker-blaster.json) |
+| Quadbots: The Rise of Chrono | 296393 | [296393-quadbots-the-rise-of-chrono.json](./296393-quadbots-the-rise-of-chrono.json) |
 | QuadcopterFx Simulator | 89707 | [89707-quadcopterfx-simulator.json](./89707-quadcopterfx-simulator.json) |
 | Quadice | 234298 | [234298-quadice.json](./234298-quadice.json) |
 | Quadrablaze | 68710 | [68710-quadrablaze.json](./68710-quadrablaze.json) |
