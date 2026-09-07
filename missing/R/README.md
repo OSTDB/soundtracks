@@ -789,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restock | 316414 | [316414-restock.json](./316414-restock.json) |
 | Restore | 397658 | [397658-restore.json](./397658-restore.json) |
 | Restoring Falmay | 326979 | [326979-restoring-falmay.json](./326979-restoring-falmay.json) |
+| Resttore | 285487 | [285487-resttore.json](./285487-resttore.json) |
 | Resurface | 406681 | [406681-resurface.json](./406681-resurface.json) |
 | Resurgent | 177565 | [177565-resurgent.json](./177565-resurgent.json) |
 | Resurrection Core | 335267 | [335267-resurrection-core.json](./335267-resurrection-core.json) |
@@ -901,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolve | 26722 | [26722-revolve.json](./26722-revolve.json) |
 | Revolver360 | 79926 | [79926-revolver360.json](./79926-revolver360.json) |
 | Revolvermen | 344397 | [344397-revolvermen.json](./344397-revolvermen.json) |
+| Revvver | 285450 | [285450-revvver.json](./285450-revvver.json) |
 | Rewilder | 303782 | [303782-rewilder.json](./303782-rewilder.json) |
 | Rewindead | 382756 | [382756-rewindead.json](./382756-rewindead.json) |
 | Rewrite the Romance: The Golden Lotus | 346567 | [346567-rewrite-the-romance-the-golden-lotus.json](./346567-rewrite-the-romance-the-golden-lotus.json) |
@@ -1563,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rox II | 315507 | [315507-rox-ii.json](./315507-rox-ii.json) |
 | Roxy Raccoon 3: Troubles in Time | 375845 | [375845-roxy-raccoon-3-troubles-in-time.json](./375845-roxy-raccoon-3-troubles-in-time.json) |
 | Roxy Raccoon's Pinball Panic: American Anniversary | 311788 | [311788-roxy-raccoons-pinball-panic-american-anniversary.json](./311788-roxy-raccoons-pinball-panic-american-anniversary.json) |
+| Roxy Raccoon's Pinball Panic: Baker's Best | 285461 | [285461-roxy-raccoons-pinball-panic-bakers-best.json](./285461-roxy-raccoons-pinball-panic-bakers-best.json) |
 | Roxy Raccoon's Pinball Panic: Club Crazy | 267689 | [267689-roxy-raccoons-pinball-panic-club-crazy.json](./267689-roxy-raccoons-pinball-panic-club-crazy.json) |
 | Roxy Raccoon's Pinball Panic: Joyous Japan | 226931 | [226931-roxy-raccoons-pinball-panic-joyous-japan.json](./226931-roxy-raccoons-pinball-panic-joyous-japan.json) |
 | Roxy Raccoon's Pinball Panic: Paradise Parks | 311787 | [311787-roxy-raccoons-pinball-panic-paradise-parks.json](./311787-roxy-raccoons-pinball-panic-paradise-parks.json) |
