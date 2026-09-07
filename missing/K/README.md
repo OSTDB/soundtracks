@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemono Friends Pavilion | 214738 | [214738-kemono-friends-pavilion.json](./214738-kemono-friends-pavilion.json) |
 | Kemono Friends: Opening Day | 247776 | [247776-kemono-friends-opening-day.json](./247776-kemono-friends-opening-day.json) |
 | Kemopop! | 309863 | [309863-kemopop.json](./309863-kemopop.json) |
+| Kemuri | 279625 | [279625-kemuri.json](./279625-kemuri.json) |
 | Ken Griffey Jr.'s Horrible Tower | 382786 | [382786-ken-griffey-jr-s-horrible-tower.json](./382786-ken-griffey-jr-s-horrible-tower.json) |
 | Ken Griffey Jr.'s Slugfest | 3531 | [3531-ken-griffey-jr-s-slugfest.json](./3531-ken-griffey-jr-s-slugfest.json) |
 | Ken to Mahou to Gakuen Mono. Final: Shinnyusei wa Ohimesama! | 63896 | [63896-ken-to-mahou-to-gakuen-mono-final-shinnyusei-wa-ohimesama.json](./63896-ken-to-mahou-to-gakuen-mono-final-shinnyusei-wa-ohimesama.json) |
