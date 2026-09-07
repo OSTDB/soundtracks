@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T13:20:42.628Z",
-  "total_soundtracks": 1433,
+  "generated_at": "2026-09-07T18:35:40.703Z",
+  "total_soundtracks": 1434,
   "games": [
     {
       "igdb_id": 7522,
@@ -5386,6 +5386,20 @@
           "album_name": "Forza Horizon 5: Hospital Soundtrack",
           "spotify_url": "https://open.spotify.com/album/6taAtNTGEX9SMmjWvo1Snl",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 348330,
+      "game_name": "Forza Horizon 6",
+      "game_url": "https://ostdb.net/games/forza-horizon-6",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000aa54eed5985b828f69518a5ed978",
+      "albums": [
+        {
+          "album_name": "Forza Horizon 6 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/598c38nQWzoSTAQVmbiWKA",
+          "apple_music_url": "https://music.apple.com/us/album/forza-horizon-6-original-soundtrack-ep/6769416776",
           "album_link_url": ""
         }
       ]
