@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hollow Doorway | 94785 | [94785-a-hollow-doorway.json](./94785-a-hollow-doorway.json) |
 | A Hollow Harvest | 375855 | [375855-a-hollow-harvest.json](./375855-a-hollow-harvest.json) |
 | A Host of Gentle Terrors | 136437 | [136437-a-host-of-gentle-terrors.json](./136437-a-host-of-gentle-terrors.json) |
+| A House 4 Alesa | 305785 | [305785-a-house-4-alesa.json](./305785-a-house-4-alesa.json) |
 | A housewife Hiroko Yamaguchi is reborn in the alternative world with her husband | 82927 | [82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json](./82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json) |
 | A Housewife's Healing Touch | 198561 | [198561-a-housewifes-healing-touch.json](./198561-a-housewifes-healing-touch.json) |
 | A Jornada | 299469 | [299469-a-jornada.json](./299469-a-jornada.json) |
@@ -407,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the River | 334487 | [334487-across-the-river.json](./334487-across-the-river.json) |
 | Across the Valley | 230504 | [230504-across-the-valley.json](./230504-across-the-valley.json) |
 | Across the Wilds | 238739 | [238739-across-the-wilds.json](./238739-across-the-wilds.json) |
+| Acrylic Nails! | 305792 | [305792-acrylic-nails.json](./305792-acrylic-nails.json) |
 | Acryptia | 226397 | [226397-acryptia.json](./226397-acryptia.json) |
 | Act Casual | 301595 | [301595-act-casual.json](./301595-act-casual.json) |
 | Actias | 204681 | [204681-actias.json](./204681-actias.json) |
