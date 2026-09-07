@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 77p egg: Eggwife | 218143 | [218143-77p-egg-eggwife.json](./218143-77p-egg-eggwife.json) |
 | 77Survival Part I | 314064 | [314064-77survival-part-i.json](./314064-77survival-part-i.json) |
 | 78 Hour Rain | 179739 | [179739-78-hour-rain.json](./179739-78-hour-rain.json) |
+| 7869 | 280232 | [280232-7869.json](./280232-7869.json) |
 | 79 Pompeii | 195238 | [195238-79-pompeii.json](./195238-79-pompeii.json) |
 | 7Days: Backer | 262057 | [262057-7days-backer.json](./262057-7days-backer.json) |
 | 7Groves | 295780 | [295780-7groves.json](./295780-7groves.json) |
