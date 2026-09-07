@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Estate Tycoon | 89224 | [89224-real-estate-tycoon.json](./89224-real-estate-tycoon.json) |
 | Real Farm | 227480 | [227480-real-farm.json](./227480-real-farm.json) |
 | Real Farm: Premium Edition | 155097 | [155097-real-farm-premium-edition.json](./155097-real-farm-premium-edition.json) |
+| Real Fighter | 267951 | [267951-real-fighter.json](./267951-real-fighter.json) |
 | Real Football 2014 | 116349 | [116349-real-football-2014.json](./116349-real-football-2014.json) |
 | Real Football 2015 | 116350 | [116350-real-football-2015.json](./116350-real-football-2015.json) |
 | Real Football 2016 | 116343 | [116343-real-football-2016.json](./116343-real-football-2016.json) |
