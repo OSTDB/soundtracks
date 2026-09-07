@@ -215,9 +215,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces: Okinawa - Paradise in Japan | 238231 | [238231-jigsaw-masterpieces-okinawa-paradise-in-japan.json](./238231-jigsaw-masterpieces-okinawa-paradise-in-japan.json) |
 | Jigsaw Masterpieces: Sweet Cakes | 243371 | [243371-jigsaw-masterpieces-sweet-cakes.json](./243371-jigsaw-masterpieces-sweet-cakes.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Aliens | 263223 | [263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json](./263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json) |
+| Jigsaw Puzzle World: Agricultural Machinery | 293070 | [293070-jigsaw-puzzle-world-agricultural-machinery.json](./293070-jigsaw-puzzle-world-agricultural-machinery.json) |
+| Jigsaw Puzzle World: Bears | 293067 | [293067-jigsaw-puzzle-world-bears.json](./293067-jigsaw-puzzle-world-bears.json) |
 | Jigsaw Puzzle World: Canada | 293609 | [293609-jigsaw-puzzle-world-canada.json](./293609-jigsaw-puzzle-world-canada.json) |
 | Jigsaw Puzzle World: Desserts | 293611 | [293611-jigsaw-puzzle-world-desserts.json](./293611-jigsaw-puzzle-world-desserts.json) |
+| Jigsaw Puzzle World: Fairground | 293068 | [293068-jigsaw-puzzle-world-fairground.json](./293068-jigsaw-puzzle-world-fairground.json) |
 | Jigsaw Puzzle World: Insects | 293610 | [293610-jigsaw-puzzle-world-insects.json](./293610-jigsaw-puzzle-world-insects.json) |
+| Jigsaw Puzzle World: South Korea | 293069 | [293069-jigsaw-puzzle-world-south-korea.json](./293069-jigsaw-puzzle-world-south-korea.json) |
 | Jigsaw Puzzle World: Weather | 293608 | [293608-jigsaw-puzzle-world-weather.json](./293608-jigsaw-puzzle-world-weather.json) |
 | Jigsaw Puzzle: BDSM Room | 203536 | [203536-jigsaw-puzzle-bdsm-room.json](./203536-jigsaw-puzzle-bdsm-room.json) |
 | Jigsaw Puzzle: Futanari Threesome | 220834 | [220834-jigsaw-puzzle-futanari-threesome.json](./220834-jigsaw-puzzle-futanari-threesome.json) |
