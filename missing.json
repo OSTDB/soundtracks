@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T21:03:28.822Z",
-  "total_missing": 43652,
+  "generated_at": "2026-09-07T21:18:16.172Z",
+  "total_missing": 43702,
   "games": [
     {
       "igdb_id": 306086,
@@ -21878,6 +21878,71 @@
       "file": "missing/B/96082-bingo-infinity.json"
     },
     {
+      "igdb_id": 265167,
+      "game_name": "Bingo Pinball Gameroom: Agogo",
+      "file": "missing/B/265167-bingo-pinball-gameroom-agogo.json"
+    },
+    {
+      "igdb_id": 265169,
+      "game_name": "Bingo Pinball Gameroom: Bally Acapulco",
+      "file": "missing/B/265169-bingo-pinball-gameroom-bally-acapulco.json"
+    },
+    {
+      "igdb_id": 265170,
+      "game_name": "Bingo Pinball Gameroom: Bally Atlantic City",
+      "file": "missing/B/265170-bingo-pinball-gameroom-bally-atlantic-city.json"
+    },
+    {
+      "igdb_id": 265171,
+      "game_name": "Bingo Pinball Gameroom: Bally Bali",
+      "file": "missing/B/265171-bingo-pinball-gameroom-bally-bali.json"
+    },
+    {
+      "igdb_id": 265172,
+      "game_name": "Bingo Pinball Gameroom: Bally Ballerina",
+      "file": "missing/B/265172-bingo-pinball-gameroom-bally-ballerina.json"
+    },
+    {
+      "igdb_id": 265173,
+      "game_name": "Bingo Pinball Gameroom: Bally Beach Beauty",
+      "file": "missing/B/265173-bingo-pinball-gameroom-bally-beach-beauty.json"
+    },
+    {
+      "igdb_id": 265168,
+      "game_name": "Bingo Pinball Gameroom: Bally Yacht Club",
+      "file": "missing/B/265168-bingo-pinball-gameroom-bally-yacht-club.json"
+    },
+    {
+      "igdb_id": 265166,
+      "game_name": "Bingo Pinball Gameroom: United Brazil",
+      "file": "missing/B/265166-bingo-pinball-gameroom-united-brazil.json"
+    },
+    {
+      "igdb_id": 265165,
+      "game_name": "Bingo Pinball Gameroom: United Caravan",
+      "file": "missing/B/265165-bingo-pinball-gameroom-united-caravan.json"
+    },
+    {
+      "igdb_id": 265164,
+      "game_name": "Bingo Pinball Gameroom: United Hawaii",
+      "file": "missing/B/265164-bingo-pinball-gameroom-united-hawaii.json"
+    },
+    {
+      "igdb_id": 265163,
+      "game_name": "Bingo Pinball Gameroom: United Manhattan",
+      "file": "missing/B/265163-bingo-pinball-gameroom-united-manhattan.json"
+    },
+    {
+      "igdb_id": 265162,
+      "game_name": "Bingo Pinball Gameroom: United Mexico",
+      "file": "missing/B/265162-bingo-pinball-gameroom-united-mexico.json"
+    },
+    {
+      "igdb_id": 265161,
+      "game_name": "Bingo Pinball Gameroom: United Rio",
+      "file": "missing/B/265161-bingo-pinball-gameroom-united-rio.json"
+    },
+    {
       "igdb_id": 404213,
       "game_name": "Bingo Roulette",
       "file": "missing/B/404213-bingo-roulette.json"
@@ -24281,6 +24346,11 @@
       "igdb_id": 200753,
       "game_name": "Blue Box",
       "file": "missing/B/200753-blue-box.json"
+    },
+    {
+      "igdb_id": 265143,
+      "game_name": "Blue Cradle: Signifie",
+      "file": "missing/B/265143-blue-cradle-signifie.json"
     },
     {
       "igdb_id": 259863,
@@ -42918,6 +42988,11 @@
       "file": "missing/D/199111-dadish-3.json"
     },
     {
+      "igdb_id": 265146,
+      "game_name": "Dadlympics",
+      "file": "missing/D/265146-dadlympics.json"
+    },
+    {
       "igdb_id": 282003,
       "game_name": "Daedalus",
       "file": "missing/D/282003-daedalus.json"
@@ -54733,6 +54808,11 @@
       "file": "missing/D/274770-dungeon-core-master.json"
     },
     {
+      "igdb_id": 265139,
+      "game_name": "Dungeon Create",
+      "file": "missing/D/265139-dungeon-create.json"
+    },
+    {
       "igdb_id": 102922,
       "game_name": "Dungeon Deathball",
       "file": "missing/D/102922-dungeon-deathball.json"
@@ -60361,6 +60441,11 @@
       "igdb_id": 34407,
       "game_name": "Evil Robot Traffic Jam HD",
       "file": "missing/E/34407-evil-robot-traffic-jam-hd.json"
+    },
+    {
+      "igdb_id": 265140,
+      "game_name": "Evil Snowmen 2",
+      "file": "missing/E/265140-evil-snowmen-2.json"
     },
     {
       "igdb_id": 55182,
@@ -71983,6 +72068,11 @@
       "file": "missing/G/319581-games-1.json"
     },
     {
+      "igdb_id": 265160,
+      "game_name": "Games Advent Calendar: 25 Days - 25 Surprises",
+      "file": "missing/G/265160-games-advent-calendar-25-days-25-surprises.json"
+    },
+    {
       "igdb_id": 18260,
       "game_name": "Games Explosion",
       "file": "missing/G/18260-games-explosion.json"
@@ -72581,6 +72671,11 @@
       "igdb_id": 265437,
       "game_name": "Gelluloid Domination: SpaceLab Simulator",
       "file": "missing/G/265437-gelluloid-domination-spacelab-simulator.json"
+    },
+    {
+      "igdb_id": 265126,
+      "game_name": "Gem",
+      "file": "missing/G/265126-gem.json"
     },
     {
       "igdb_id": 379860,
@@ -74836,6 +74931,11 @@
       "igdb_id": 264872,
       "game_name": "God: The Game",
       "file": "missing/G/264872-god-the-game.json"
+    },
+    {
+      "igdb_id": 265133,
+      "game_name": "God's Forest",
+      "file": "missing/G/265133-gods-forest.json"
     },
     {
       "igdb_id": 341477,
@@ -78886,6 +78986,11 @@
       "igdb_id": 207523,
       "game_name": "Haisonmeguri",
       "file": "missing/H/207523-haisonmeguri.json"
+    },
+    {
+      "igdb_id": 265155,
+      "game_name": "Hajikise!",
+      "file": "missing/H/265155-hajikise.json"
     },
     {
       "igdb_id": 337092,
@@ -86068,6 +86173,11 @@
       "file": "missing/H/18903-hover-junkers.json"
     },
     {
+      "igdb_id": 265151,
+      "game_name": "Hover Shooting Defence",
+      "file": "missing/H/265151-hover-shooting-defence.json"
+    },
+    {
       "igdb_id": 40812,
       "game_name": "Hover Strike",
       "file": "missing/H/40812-hover-strike.json"
@@ -88091,6 +88201,11 @@
       "igdb_id": 200159,
       "game_name": "iClub Manager",
       "file": "missing/I/200159-iclub-manager.json"
+    },
+    {
+      "igdb_id": 265154,
+      "game_name": "ICode Stem Universe",
+      "file": "missing/I/265154-icode-stem-universe.json"
     },
     {
       "igdb_id": 333384,
@@ -91198,6 +91313,11 @@
       "file": "missing/I/7020-inversion.json"
     },
     {
+      "igdb_id": 265144,
+      "game_name": "Invert by SlushyRh",
+      "file": "missing/I/265144-invert-by-slushyrh.json"
+    },
+    {
       "igdb_id": 82953,
       "game_name": "Invert: Tile Flipping Puzzles",
       "file": "missing/I/82953-invert-tile-flipping-puzzles.json"
@@ -91776,6 +91896,11 @@
       "igdb_id": 29939,
       "game_name": "Island Getaway",
       "file": "missing/I/29939-island-getaway.json"
+    },
+    {
+      "igdb_id": 265141,
+      "game_name": "Island Hopper",
+      "file": "missing/I/265141-island-hopper.json"
     },
     {
       "igdb_id": 371864,
@@ -100663,6 +100788,11 @@
       "file": "missing/L/344933-lastronaut.json"
     },
     {
+      "igdb_id": 265131,
+      "game_name": "LastSafeZone",
+      "file": "missing/L/265131-lastsafezone.json"
+    },
+    {
       "igdb_id": 366241,
       "game_name": "Late Fee Girls",
       "file": "missing/L/366241-late-fee-girls.json"
@@ -101981,6 +102111,11 @@
       "igdb_id": 261556,
       "game_name": "Lessaria: Fantasy Kingdom Sim",
       "file": "missing/L/261556-lessaria-fantasy-kingdom-sim.json"
+    },
+    {
+      "igdb_id": 265138,
+      "game_name": "Let Him Cook",
+      "file": "missing/L/265138-let-him-cook.json"
     },
     {
       "igdb_id": 304376,
@@ -103736,6 +103871,11 @@
       "igdb_id": 109741,
       "game_name": "Little Memories",
       "file": "missing/L/109741-little-memories.json"
+    },
+    {
+      "igdb_id": 265137,
+      "game_name": "Little Monkey King's Big Quest",
+      "file": "missing/L/265137-little-monkey-kings-big-quest.json"
     },
     {
       "igdb_id": 87243,
@@ -107753,6 +107893,11 @@
       "file": "missing/M/124787-mah-jongg-puzzle-pai-sen.json"
     },
     {
+      "igdb_id": 265129,
+      "game_name": "Mahjick: The Realm Taker",
+      "file": "missing/M/265129-mahjick-the-realm-taker.json"
+    },
+    {
       "igdb_id": 90692,
       "game_name": "Mahjong",
       "file": "missing/M/90692-mahjong.json"
@@ -108551,6 +108696,11 @@
       "igdb_id": 370718,
       "game_name": "Manny's Murderous Movie Theater: The Snackbar Simulator",
       "file": "missing/M/370718-mannys-murderous-movie-theater-the-snackbar-simulator.json"
+    },
+    {
+      "igdb_id": 265149,
+      "game_name": "Manor of Mysteries",
+      "file": "missing/M/265149-manor-of-mysteries.json"
     },
     {
       "igdb_id": 269861,
@@ -119903,6 +120053,11 @@
       "file": "missing/M/73320-murder-makes-strange-deadfellows.json"
     },
     {
+      "igdb_id": 265159,
+      "game_name": "Murder Miners X",
+      "file": "missing/M/265159-murder-miners-x.json"
+    },
+    {
       "igdb_id": 325460,
       "game_name": "Murder Mystery J: Jinrou Judgment - Maru Icon",
       "file": "missing/M/325460-murder-mystery-j-jinrou-judgment-maru-icon.json"
@@ -127913,6 +128068,11 @@
       "file": "missing/O/400262-observation-daruma-log.json"
     },
     {
+      "igdb_id": 265130,
+      "game_name": "Observer",
+      "file": "missing/O/265130-observer.json"
+    },
+    {
       "igdb_id": 350432,
       "game_name": "Observer Protocol: The Station - Final Shift",
       "file": "missing/O/350432-observer-protocol-the-station-final-shift.json"
@@ -132716,6 +132876,11 @@
       "igdb_id": 317578,
       "game_name": "Paint Chase",
       "file": "missing/P/317578-paint-chase.json"
+    },
+    {
+      "igdb_id": 265135,
+      "game_name": "Paint Desk Simulator",
+      "file": "missing/P/265135-paint-desk-simulator.json"
     },
     {
       "igdb_id": 102784,
@@ -151108,6 +151273,11 @@
       "file": "missing/R/302925-rising-army.json"
     },
     {
+      "igdb_id": 265125,
+      "game_name": "Rising Dead",
+      "file": "missing/R/265125-rising-dead.json"
+    },
+    {
       "igdb_id": 319372,
       "game_name": "Rising Heat",
       "file": "missing/R/319372-rising-heat.json"
@@ -151501,6 +151671,11 @@
       "igdb_id": 63893,
       "game_name": "Roam",
       "file": "missing/R/63893-roam.json"
+    },
+    {
+      "igdb_id": 265156,
+      "game_name": "Roaming Backrooms",
+      "file": "missing/R/265156-roaming-backrooms.json"
     },
     {
       "igdb_id": 214731,
@@ -158558,6 +158733,11 @@
       "file": "missing/S/73830-semper-fidelis-marine-corps.json"
     },
     {
+      "igdb_id": 265123,
+      "game_name": "Semu",
+      "file": "missing/S/265123-semu.json"
+    },
+    {
       "igdb_id": 277833,
       "game_name": "Send It: The Game",
       "file": "missing/S/277833-send-it-the-game.json"
@@ -160853,6 +161033,11 @@
       "file": "missing/S/194016-shinobi-io.json"
     },
     {
+      "igdb_id": 265136,
+      "game_name": "Shinogi Chess Club 2: Resistance",
+      "file": "missing/S/265136-shinogi-chess-club-2-resistance.json"
+    },
+    {
       "igdb_id": 173320,
       "game_name": "Shinorubi",
       "file": "missing/S/173320-shinorubi.json"
@@ -163103,6 +163288,11 @@
       "file": "missing/S/8084-skeleton-warriors.json"
     },
     {
+      "igdb_id": 265153,
+      "game_name": "Skeletons Uprising",
+      "file": "missing/S/265153-skeletons-uprising.json"
+    },
+    {
       "igdb_id": 134701,
       "game_name": "Skeletris",
       "file": "missing/S/134701-skeletris.json"
@@ -164086,6 +164276,11 @@
       "igdb_id": 256516,
       "game_name": "Slime Evolutionary Path",
       "file": "missing/S/256516-slime-evolutionary-path.json"
+    },
+    {
+      "igdb_id": 265148,
+      "game_name": "Slime Experiments",
+      "file": "missing/S/265148-slime-experiments.json"
     },
     {
       "igdb_id": 367980,
@@ -173003,6 +173198,11 @@
       "file": "missing/S/349312-stellarfish.json"
     },
     {
+      "igdb_id": 265150,
+      "game_name": "Stellario",
+      "file": "missing/S/265150-stellario.json"
+    },
+    {
       "igdb_id": 218168,
       "game_name": "Stellaris: Aquatics Species Pack",
       "file": "missing/S/218168-stellaris-aquatics-species-pack.json"
@@ -178483,6 +178683,11 @@
       "file": "missing/S/266784-survival-nexus.json"
     },
     {
+      "igdb_id": 265134,
+      "game_name": "Survival on a Deserted Island",
+      "file": "missing/S/265134-survival-on-a-deserted-island.json"
+    },
+    {
       "igdb_id": 302354,
       "game_name": "Survival Prototype X",
       "file": "missing/S/302354-survival-prototype-x.json"
@@ -182013,6 +182218,11 @@
       "file": "missing/T/31587-tavernier.json"
     },
     {
+      "igdb_id": 265147,
+      "game_name": "Tax Evasion",
+      "file": "missing/T/265147-tax-evasion.json"
+    },
+    {
       "igdb_id": 184653,
       "game_name": "Taxi By Night",
       "file": "missing/T/184653-taxi-by-night.json"
@@ -183731,6 +183941,11 @@
       "igdb_id": 28925,
       "game_name": "The Adventures of Alvis",
       "file": "missing/T/28925-the-adventures-of-alvis.json"
+    },
+    {
+      "igdb_id": 265127,
+      "game_name": "The Adventures of Bunny and Pig",
+      "file": "missing/T/265127-the-adventures-of-bunny-and-pig.json"
     },
     {
       "igdb_id": 94774,
@@ -187933,6 +188148,11 @@
       "file": "missing/T/306972-the-jingol.json"
     },
     {
+      "igdb_id": 265124,
+      "game_name": "The Johnny Papa",
+      "file": "missing/T/265124-the-johnny-papa.json"
+    },
+    {
       "igdb_id": 287092,
       "game_name": "The Journey of Piggy",
       "file": "missing/T/287092-the-journey-of-piggy.json"
@@ -191221,6 +191441,11 @@
       "igdb_id": 59418,
       "game_name": "The Sensha",
       "file": "missing/T/59418-the-sensha.json"
+    },
+    {
+      "igdb_id": 265158,
+      "game_name": "The Sentinel",
+      "file": "missing/T/265158-the-sentinel.json"
     },
     {
       "igdb_id": 405527,
@@ -203128,6 +203353,11 @@
       "file": "missing/U/107188-ultracore.json"
     },
     {
+      "igdb_id": 265132,
+      "game_name": "Ultradian",
+      "file": "missing/U/265132-ultradian.json"
+    },
+    {
       "igdb_id": 129790,
       "game_name": "Ultraflow 2",
       "file": "missing/U/129790-ultraflow-2.json"
@@ -203928,6 +204158,11 @@
       "file": "missing/U/268218-unexpected-consequences.json"
     },
     {
+      "igdb_id": 265128,
+      "game_name": "Unexpected Visitors",
+      "file": "missing/U/265128-unexpected-visitors.json"
+    },
+    {
       "igdb_id": 98837,
       "game_name": "UnExplored: Unlocked Edition",
       "file": "missing/U/98837-unexplored-unlocked-edition.json"
@@ -204291,6 +204526,11 @@
       "igdb_id": 338586,
       "game_name": "Unnamed Arcade",
       "file": "missing/U/338586-unnamed-arcade.json"
+    },
+    {
+      "igdb_id": 265145,
+      "game_name": "Unnamed Experiment",
+      "file": "missing/U/265145-unnamed-experiment.json"
     },
     {
       "igdb_id": 286012,
@@ -206851,6 +207091,11 @@
       "igdb_id": 158188,
       "game_name": "Violent Witches: the Vindicator",
       "file": "missing/V/158188-violent-witches-the-vindicator.json"
+    },
+    {
+      "igdb_id": 265152,
+      "game_name": "Violet",
+      "file": "missing/V/265152-violet.json"
     },
     {
       "igdb_id": 18734,
@@ -213521,6 +213766,11 @@
       "igdb_id": 65492,
       "game_name": "WordJong Arcade",
       "file": "missing/W/65492-wordjong-arcade.json"
+    },
+    {
+      "igdb_id": 265142,
+      "game_name": "Wordle DS",
+      "file": "missing/W/265142-wordle-ds.json"
     },
     {
       "igdb_id": 292300,
