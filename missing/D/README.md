@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Stride | 399626 | [399626-dead-stride.json](./399626-dead-stride.json) |
 | Dead Synchronicity: Tomorrow Comes Today | 11398 | [11398-dead-synchronicity-tomorrow-comes-today.json](./11398-dead-synchronicity-tomorrow-comes-today.json) |
 | Dead TrailZ | 35753 | [35753-dead-trailz.json](./35753-dead-trailz.json) |
+| Dead Weight | 288215 | [288215-dead-weight.json](./288215-dead-weight.json) |
 | Dead Witch in Night Sky | 394161 | [394161-dead-witch-in-night-sky.json](./394161-dead-witch-in-night-sky.json) |
 | Dead Years | 19582 | [19582-dead-years.json](./19582-dead-years.json) |
 | Dead Zed | 388038 | [388038-dead-zed.json](./388038-dead-zed.json) |
@@ -1653,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doorways | 185655 | [185655-doorways.json](./185655-doorways.json) |
 | Dopamine | 295798 | [295798-dopamine.json](./295798-dopamine.json) |
 | Doppelgänger | 275902 | [275902-doppelganger.json](./275902-doppelganger.json) |
+| Doppelscape | 288228 | [288228-doppelscape.json](./288228-doppelscape.json) |
 | DoppelTest | 352746 | [352746-doppeltest.json](./352746-doppeltest.json) |
 | Dor | 84278 | [84278-dor.json](./84278-dor.json) |
 | Dora & Kai-Lan's Pet Shelter | 97372 | [97372-dora-and-kai-lans-pet-shelter.json](./97372-dora-and-kai-lans-pet-shelter.json) |
