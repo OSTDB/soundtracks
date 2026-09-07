@@ -1070,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Garden | 346057 | [346057-flower-garden.json](./346057-flower-garden.json) |
 | Flower Lines | 69880 | [69880-flower-lines.json](./69880-flower-lines.json) |
 | Flower of Ice Blossoming Under the Moon | 82918 | [82918-flower-of-ice-blossoming-under-the-moon.json](./82918-flower-of-ice-blossoming-under-the-moon.json) |
+| Flower Shop of Broken Wonders | 299174 | [299174-flower-shop-of-broken-wonders.json](./299174-flower-shop-of-broken-wonders.json) |
 | Flower Shop: Winter In Fairbrook | 17586 | [17586-flower-shop-winter-in-fairbrook.json](./17586-flower-shop-winter-in-fairbrook.json) |
 | Flower Visit | 177576 | [177576-flower-visit.json](./177576-flower-visit.json) |
 | Flowering Across | 153419 | [153419-flowering-across.json](./153419-flowering-across.json) |
