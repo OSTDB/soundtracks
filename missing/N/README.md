@@ -38,6 +38,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Museum Essentials | 52608 | [52608-namco-museum-essentials.json](./52608-namco-museum-essentials.json) |
 | Name that Sonic Tune | 326960 | [326960-name-that-sonic-tune.json](./326960-name-that-sonic-tune.json) |
 | Nameless Dreams: Endless Nightmares | 327186 | [327186-nameless-dreams-endless-nightmares.json](./327186-nameless-dreams-endless-nightmares.json) |
+| Nameless Kaizo World | 267914 | [267914-nameless-kaizo-world.json](./267914-nameless-kaizo-world.json) |
+| Nameless Kaizo World Light | 267915 | [267915-nameless-kaizo-world-light.json](./267915-nameless-kaizo-world-light.json) |
+| Nameless Shells | 267916 | [267916-nameless-shells.json](./267916-nameless-shells.json) |
 | Namtir Raiders | 319589 | [319589-namtir-raiders.json](./319589-namtir-raiders.json) |
 | Nana-chan no Star Tanjou | 66131 | [66131-nana-chan-no-star-tanjou.json](./66131-nana-chan-no-star-tanjou.json) |
 | Nancy Drew: Danger on Deception Island | 10580 | [10580-nancy-drew-danger-on-deception-island.json](./10580-nancy-drew-danger-on-deception-island.json) |
@@ -502,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario Bros.: 1-Up Hunt! | 231648 | [231648-new-super-mario-bros-1-up-hunt.json](./231648-new-super-mario-bros-1-up-hunt.json) |
 | New Super Mario Kart | 250049 | [250049-new-super-mario-kart.json](./250049-new-super-mario-kart.json) |
 | New Super Mario World 1: The Twelve Magic Orbs - Powered-Up | 222515 | [222515-new-super-mario-world-1-the-twelve-magic-orbs-powered-up.json](./222515-new-super-mario-world-1-the-twelve-magic-orbs-powered-up.json) |
+| New Super Mario World: The Seven Crystals of Peace | 267935 | [267935-new-super-mario-world-the-seven-crystals-of-peace.json](./267935-new-super-mario-world-the-seven-crystals-of-peace.json) |
 | New Supper Banana! | 366220 | [366220-new-supper-banana.json](./366220-new-supper-banana.json) |
 | New Swordsman | 212478 | [212478-new-swordsman.json](./212478-new-swordsman.json) |
 | New Town Needs Tamer | 216989 | [216989-new-town-needs-tamer.json](./216989-new-town-needs-tamer.json) |
