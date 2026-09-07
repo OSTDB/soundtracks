@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Escape: The Driving Dead | 213589 | [213589-zombie-escape-the-driving-dead.json](./213589-zombie-escape-the-driving-dead.json) |
 | Zombie Exodus: Safe Haven - Part Four | 388743 | [388743-zombie-exodus-safe-haven-part-four.json](./388743-zombie-exodus-safe-haven-part-four.json) |
 | Zombie Exodus: Safe Haven - Side Stories 2 | 291208 | [291208-zombie-exodus-safe-haven-side-stories-2.json](./291208-zombie-exodus-safe-haven-side-stories-2.json) |
+| Zombie Football Simulator | 283720 | [283720-zombie-football-simulator.json](./283720-zombie-football-simulator.json) |
 | Zombie Forest 3: Underground | 251231 | [251231-zombie-forest-3-underground.json](./251231-zombie-forest-3-underground.json) |
 | Zombie Freaks | 163963 | [163963-zombie-freaks.json](./163963-zombie-freaks.json) |
 | Zombie frenzy | 191255 | [191255-zombie-frenzy.json](./191255-zombie-frenzy.json) |
