@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plowing | 276190 | [276190-plowing.json](./276190-plowing.json) |
 | Pluck It | 105910 | [105910-pluck-it.json](./105910-pluck-it.json) |
 | Plug It In | 288232 | [288232-plug-it-in.json](./288232-plug-it-in.json) |
+| Pluk van de Petteflet | 269556 | [269556-pluk-van-de-petteflet.json](./269556-pluk-van-de-petteflet.json) |
 | Plumber 3D | 336908 | [336908-plumber-3d.json](./336908-plumber-3d.json) |
 | Plumber No More | 184109 | [184109-plumber-no-more.json](./184109-plumber-no-more.json) |
 | Plumbers Creed | 178667 | [178667-plumbers-creed.json](./178667-plumbers-creed.json) |
@@ -1714,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pots and Potions | 170540 | [170540-pots-and-potions.json](./170540-pots-and-potions.json) |
 | Potshot Pirates | 117750 | [117750-potshot-pirates.json](./117750-potshot-pirates.json) |
 | Pottery Maker | 89264 | [89264-pottery-maker.json](./89264-pottery-maker.json) |
+| Potty Racers | 269602 | [269602-potty-racers.json](./269602-potty-racers.json) |
 | Pour Boy and the Nitro Necromancer | 400895 | [400895-pour-boy-and-the-nitro-necromancer.json](./400895-pour-boy-and-the-nitro-necromancer.json) |
 | Pouring Pints | 412271 | [412271-pouring-pints.json](./412271-pouring-pints.json) |
 | Poverty is a Choice | 106610 | [106610-poverty-is-a-choice.json](./106610-poverty-is-a-choice.json) |
@@ -1805,6 +1807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pressure Cooker | 25732 | [25732-pressure-cooker.json](./25732-pressure-cooker.json) |
 | Pretend it's not There | 324689 | [324689-pretend-its-not-there.json](./324689-pretend-its-not-there.json) |
 | Pretty Angel | 127092 | [127092-pretty-angel.json](./127092-pretty-angel.json) |
+| Pretty Chaser | 269601 | [269601-pretty-chaser.json](./269601-pretty-chaser.json) |
 | Pretty Girls and Dark Witch. A simple story | 173816 | [173816-pretty-girls-and-dark-witch-a-simple-story.json](./173816-pretty-girls-and-dark-witch-a-simple-story.json) |
 | Pretty Girls Escape | 204088 | [204088-pretty-girls-escape.json](./204088-pretty-girls-escape.json) |
 | Pretty Girls Four Kings Solitaire | 195797 | [195797-pretty-girls-four-kings-solitaire.json](./195797-pretty-girls-four-kings-solitaire.json) |
@@ -2245,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumped BMX Flow | 174894 | [174894-pumped-bmx-flow.json](./174894-pumped-bmx-flow.json) |
 | Pumpkin Delivery | 242234 | [242234-pumpkin-delivery.json](./242234-pumpkin-delivery.json) |
 | Pumpkin Ghost | 272269 | [272269-pumpkin-ghost.json](./272269-pumpkin-ghost.json) |
+| Pumpkin Jam | 269562 | [269562-pumpkin-jam.json](./269562-pumpkin-jam.json) |
 | Pumpkin Panic | 257329 | [257329-pumpkin-panic.json](./257329-pumpkin-panic.json) |
 | Pumpkinban | 382214 | [382214-pumpkinban.json](./382214-pumpkinban.json) |
 | PumPum | 159883 | [159883-pumpum.json](./159883-pumpum.json) |
