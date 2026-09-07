@@ -905,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Max! | 123053 | [123053-detective-max.json](./123053-detective-max.json) |
 | Detective of the Dead | 318179 | [318179-detective-of-the-dead.json](./318179-detective-of-the-dead.json) |
 | Detective Olivia: The Cult of Whisperers | 294448 | [294448-detective-olivia-the-cult-of-whisperers.json](./294448-detective-olivia-the-cult-of-whisperers.json) |
+| Detective School Club | 304597 | [304597-detective-school-club.json](./304597-detective-school-club.json) |
 | Detective Story | 148553 | [148553-detective-story.json](./148553-detective-story.json) |
 | Detective Turner: If Looks Could Kill | 404825 | [404825-detective-turner-if-looks-could-kill.json](./404825-detective-turner-if-looks-could-kill.json) |
 | Detective Worden | 358876 | [358876-detective-worden.json](./358876-detective-worden.json) |
