@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey On | 154023 | [154023-journey-on.json](./154023-journey-on.json) |
 | Journey Record | 265961 | [265961-journey-record.json](./265961-journey-record.json) |
 | Journey Through the Nightmare Realm II | 347683 | [347683-journey-through-the-nightmare-realm-ii.json](./347683-journey-through-the-nightmare-realm-ii.json) |
+| Journey To Bethlehem: Fig Run | 275580 | [275580-journey-to-bethlehem-fig-run.json](./275580-journey-to-bethlehem-fig-run.json) |
 | Journey to Earth | 302921 | [302921-journey-to-earth.json](./302921-journey-to-earth.json) |
 | Journey to Kreisia | 321998 | [321998-journey-to-kreisia.json](./321998-journey-to-kreisia.json) |
 | Journey to the Blue Mountain | 231083 | [231083-journey-to-the-blue-mountain.json](./231083-journey-to-the-blue-mountain.json) |
