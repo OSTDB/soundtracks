@@ -3455,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargate Bullet | 379896 | [379896-stargate-bullet.json](./379896-stargate-bullet.json) |
 | Stargaze | 139479 | [139479-stargaze.json](./139479-stargaze.json) |
 | Stargoose Warrior | 51285 | [51285-stargoose-warrior.json](./51285-stargoose-warrior.json) |
+| Staring Time | 272832 | [272832-staring-time.json](./272832-staring-time.json) |
 | Starion | 23056 | [23056-starion.json](./23056-starion.json) |
 | Stark Penitentiary | 161892 | [161892-stark-penitentiary.json](./161892-stark-penitentiary.json) |
 | Starlab | 258721 | [258721-starlab.json](./258721-starlab.json) |
@@ -4497,6 +4498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Puzzle Fighter II Turbo | 20803 | [20803-super-puzzle-fighter-ii-turbo.json](./20803-super-puzzle-fighter-ii-turbo.json) |
 | Super Puzzle Platformer | 223665 | [223665-super-puzzle-platformer.json](./223665-super-puzzle-platformer.json) |
 | Super Puzzles Dream: Xmas | 147436 | [147436-super-puzzles-dream-xmas.json](./147436-super-puzzles-dream-xmas.json) |
+| Super Rare Mixtape: Horror Edition | 272829 | [272829-super-rare-mixtape-horror-edition.json](./272829-super-rare-mixtape-horror-edition.json) |
 | Super Real Mahjong Love 2~7! Special Edition | 342064 | [342064-super-real-mahjong-love-2-7-special-edition.json](./342064-super-real-mahjong-love-2-7-special-edition.json) |
 | Super Real Mahjong Special: Mika, Kasumi, Shouko no Omoide yori | 138826 | [138826-super-real-mahjong-special-mika-kasumi-shouko-no-omoide-yori.json](./138826-super-real-mahjong-special-mika-kasumi-shouko-no-omoide-yori.json) |
 | Super Realistic Autocross | 123046 | [123046-super-realistic-autocross.json](./123046-super-realistic-autocross.json) |
