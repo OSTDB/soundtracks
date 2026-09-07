@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead City | 294168 | [294168-undead-city.json](./294168-undead-city.json) |
 | Undead Mayhem | 277614 | [277614-undead-mayhem.json](./277614-undead-mayhem.json) |
 | Undead Realm: Ego | 327836 | [327836-undead-realm-ego.json](./327836-undead-realm-ego.json) |
+| Undead West | 269587 | [269587-undead-west.json](./269587-undead-west.json) |
 | Undeadworld | 223663 | [223663-undeadworld.json](./223663-undeadworld.json) |
 | Undeadz! | 35886 | [35886-undeadz.json](./35886-undeadz.json) |
 | Undefined | 111026 | [111026-undefined.json](./111026-undefined.json) |
