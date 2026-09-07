@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza Shadows of New York | 322399 | [322399-yakuza-shadows-of-new-york.json](./322399-yakuza-shadows-of-new-york.json) |
 | Yakuza: Dead Souls | 7489 | [7489-yakuza-dead-souls.json](./7489-yakuza-dead-souls.json) |
 | Yakuza: Like a Dragon | 36550 | [36550-yakuza-like-a-dragon.json](./36550-yakuza-like-a-dragon.json) |
+| Yama no Susume: Next Summit - Ano Yama ni, Mou Ichido | 277306 | [277306-yama-no-susume-next-summit-ano-yama-ni-mou-ichido.json](./277306-yama-no-susume-next-summit-ano-yama-ni-mou-ichido.json) |
 | Yamame Climb | 335688 | [335688-yamame-climb.json](./335688-yamame-climb.json) |
 | Yami Fuku Natsu: Teito Monogatari Futatabi | 147956 | [147956-yami-fuku-natsu-teito-monogatari-futatabi.json](./147956-yami-fuku-natsu-teito-monogatari-futatabi.json) |
 | Yami no Koe | 275312 | [275312-yami-no-koe.json](./275312-yami-no-koe.json) |
@@ -212,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuji Naka's NES Game | 257650 | [257650-yuji-nakas-nes-game.json](./257650-yuji-nakas-nes-game.json) |
 | Yukai de Kudaranai Game | 331875 | [331875-yukai-de-kudaranai-game.json](./331875-yukai-de-kudaranai-game.json) |
 | Yukiguni no Shoujo | 164514 | [164514-yukiguni-no-shoujo.json](./164514-yukiguni-no-shoujo.json) |
+| Yukiusa | 277270 | [277270-yukiusa.json](./277270-yukiusa.json) |
 | Yukkuri Diary | 373010 | [373010-yukkuri-diary.json](./373010-yukkuri-diary.json) |
 | Yukkuri Labo: Touhou Yukkuri no Ragdoll Simulator Game | 220302 | [220302-yukkuri-labo-touhou-yukkuri-no-ragdoll-simulator-game.json](./220302-yukkuri-labo-touhou-yukkuri-no-ragdoll-simulator-game.json) |
 | Yukti | 174360 | [174360-yukti.json](./174360-yukti.json) |
