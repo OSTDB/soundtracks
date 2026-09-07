@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ominous Objects: Phantom Reflection HD | 102793 | [102793-ominous-objects-phantom-reflection-hd.json](./102793-ominous-objects-phantom-reflection-hd.json) |
 | Omise de Tensyu | 138249 | [138249-omise-de-tensyu.json](./138249-omise-de-tensyu.json) |
 | Omizu no Hanamichi | 257113 | [257113-omizu-no-hanamichi.json](./257113-omizu-no-hanamichi.json) |
+| Omni Blade | 312023 | [312023-omni-blade.json](./312023-omni-blade.json) |
 | Omni Kitty | 391070 | [391070-omni-kitty.json](./391070-omni-kitty.json) |
 | Omnicube | 99598 | [99598-omnicube.json](./99598-omnicube.json) |
 | Omniswarm | 183056 | [183056-omniswarm.json](./183056-omniswarm.json) |
