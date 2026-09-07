@@ -885,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Simulator: Dirty Doctor | 385044 | [385044-sex-simulator-dirty-doctor.json](./385044-sex-simulator-dirty-doctor.json) |
 | Sex Simulator: Gym Girls | 385041 | [385041-sex-simulator-gym-girls.json](./385041-sex-simulator-gym-girls.json) |
 | Sex Simulator: Love Room | 385046 | [385046-sex-simulator-love-room.json](./385046-sex-simulator-love-room.json) |
+| Sex Simulator: Naughty Waitress | 275002 | [275002-sex-simulator-naughty-waitress.json](./275002-sex-simulator-naughty-waitress.json) |
 | Sex Simulator: Office Affairs | 385043 | [385043-sex-simulator-office-affairs.json](./385043-sex-simulator-office-affairs.json) |
 | Sex Simulator: Office Promotion | 266493 | [266493-sex-simulator-office-promotion.json](./266493-sex-simulator-office-promotion.json) |
 | Sex Simulator: Pool Party | 385045 | [385045-sex-simulator-pool-party.json](./385045-sex-simulator-pool-party.json) |
@@ -1034,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai1920 | 169452 | [169452-shanghai1920.json](./169452-shanghai1920.json) |
 | Shankala | 377045 | [377045-shankala.json](./377045-shankala.json) |
 | Shantae and the Seven Sirens Part 1 | 122493 | [122493-shantae-and-the-seven-sirens-part-1.json](./122493-shantae-and-the-seven-sirens-part-1.json) |
+| Shantae: Costume Pack | 275016 | [275016-shantae-costume-pack.json](./275016-shantae-costume-pack.json) |
 | Shaolin | 18299 | [18299-shaolin.json](./18299-shaolin.json) |
 | Shaolin Bao | 303478 | [303478-shaolin-bao.json](./303478-shaolin-bao.json) |
 | Shaolin Master | 123063 | [123063-shaolin-master.json](./123063-shaolin-master.json) |
@@ -4076,6 +4078,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summon Quest | 291980 | [291980-summon-quest.json](./291980-summon-quest.json) |
 | Summoner's Gambit | 353894 | [353894-summoners-gambit.json](./353894-summoners-gambit.json) |
 | Summoner's Sky | 295562 | [295562-summoners-sky.json](./295562-summoners-sky.json) |
+| Summoners War: Chronicles - Adventure Starter Package | 274988 | [274988-summoners-war-chronicles-adventure-starter-package.json](./274988-summoners-war-chronicles-adventure-starter-package.json) |
+| Summoners War: Chronicles - Adventure Support Package | 274987 | [274987-summoners-war-chronicles-adventure-support-package.json](./274987-summoners-war-chronicles-adventure-support-package.json) |
 | Summoning: Ouija Best Practices | 387358 | [387358-summoning-ouija-best-practices.json](./387358-summoning-ouija-best-practices.json) |
 | Summum | 181402 | [181402-summum.json](./181402-summum.json) |
 | Sumy Shelltris: Iceblocks 1 | 197388 | [197388-sumy-shelltris-iceblocks-1.json](./197388-sumy-shelltris-iceblocks-1.json) |
@@ -4357,6 +4361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario All-Stars | 5199 | [5199-super-mario-all-stars.json](./5199-super-mario-all-stars.json) |
 | Super Mario Bros 3000 | 250057 | [250057-super-mario-bros-3000.json](./250057-super-mario-bros-3000.json) |
 | Super Mario Bros Galaxy DS | 146354 | [146354-super-mario-bros-galaxy-ds.json](./146354-super-mario-bros-galaxy-ds.json) |
+| Super Mario Bros HF | 274982 | [274982-super-mario-bros-hf.json](./274982-super-mario-bros-hf.json) |
 | Super Mario Bros: Chaos of the Ztar | 324091 | [324091-super-mario-bros-chaos-of-the-ztar.json](./324091-super-mario-bros-chaos-of-the-ztar.json) |
 | Super Mario Bros: Dual Dash | 320158 | [320158-super-mario-bros-dual-dash.json](./320158-super-mario-bros-dual-dash.json) |
 | Super Mario Bros: Revenge of Bowser | 250056 | [250056-super-mario-bros-revenge-of-bowser.json](./250056-super-mario-bros-revenge-of-bowser.json) |
