@@ -592,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Input | 391075 | [391075-input.json](./391075-input.json) |
 | Input Chaos | 215926 | [215926-input-chaos.json](./215926-input-chaos.json) |
 | Inquiry Counsel | 389985 | [389985-inquiry-counsel.json](./389985-inquiry-counsel.json) |
+| Inquisitor | 287642 | [287642-inquisitor.json](./287642-inquisitor.json) |
 | Inquisitor | 9100 | [9100-inquisitor.json](./9100-inquisitor.json) |
 | Inquisitor Simulator | 398365 | [398365-inquisitor-simulator.json](./398365-inquisitor-simulator.json) |
 | Inquisitor: Shade of Swords | 123604 | [123604-inquisitor-shade-of-swords.json](./123604-inquisitor-shade-of-swords.json) |
