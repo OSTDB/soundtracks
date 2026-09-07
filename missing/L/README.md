@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lake Masters 2 | 67298 | [67298-lake-masters-2.json](./67298-lake-masters-2.json) |
 | Lake Masters Pro | 67300 | [67300-lake-masters-pro.json](./67300-lake-masters-pro.json) |
 | LakeQueen | 394130 | [394130-lakequeen.json](./394130-lakequeen.json) |
+| Lakesider: Above and Below | 285477 | [285477-lakesider-above-and-below.json](./285477-lakesider-above-and-below.json) |
 | Lamb to the Slaughter | 323553 | [323553-lamb-to-the-slaughter.json](./323553-lamb-to-the-slaughter.json) |
 | Lambs on the Road: The Beginning | 152352 | [152352-lambs-on-the-road-the-beginning.json](./152352-lambs-on-the-road-the-beginning.json) |
 | Lamp of Aladdin | 23922 | [23922-lamp-of-aladdin.json](./23922-lamp-of-aladdin.json) |
@@ -1237,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucifer's Kingdom | 72097 | [72097-lucifers-kingdom.json](./72097-lucifers-kingdom.json) |
 | Lucipurr | 346603 | [346603-lucipurr.json](./346603-lucipurr.json) |
 | Lucius II | 17329 | [17329-lucius-ii.json](./17329-lucius-ii.json) |
+| Luckcatchers2 | 285483 | [285483-luckcatchers2.json](./285483-luckcatchers2.json) |
 | LuckLand | 260423 | [260423-luckland.json](./260423-luckland.json) |
 | Lucky day | 166750 | [166750-lucky-day.json](./166750-lucky-day.json) |
 | Lucky Dog 1 | 147444 | [147444-lucky-dog-1.json](./147444-lucky-dog-1.json) |
