@@ -359,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Attorney: Athena Cykes - Wisdom at Law | 308533 | [308533-ace-attorney-athena-cykes-wisdom-at-law.json](./308533-ace-attorney-athena-cykes-wisdom-at-law.json) |
 | Ace Attorney: Beyond the Shadows | 308543 | [308543-ace-attorney-beyond-the-shadows.json](./308543-ace-attorney-beyond-the-shadows.json) |
 | Ace Attorney: Judgement Seekers | 310417 | [310417-ace-attorney-judgement-seekers.json](./310417-ace-attorney-judgement-seekers.json) |
+| Ace Attorney: The Dark Age of Love | 305190 | [305190-ace-attorney-the-dark-age-of-love.json](./305190-ace-attorney-the-dark-age-of-love.json) |
 | Ace Attorney: The Feather of Crime | 310416 | [310416-ace-attorney-the-feather-of-crime.json](./310416-ace-attorney-the-feather-of-crime.json) |
 | Ace Baker | 182524 | [182524-ace-baker.json](./182524-ace-baker.json) |
 | Ace Banana | 25108 | [25108-ace-banana.json](./25108-ace-banana.json) |
@@ -465,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrift | 377088 | [377088-adrift.json](./377088-adrift.json) |
 | Adrorium | 133447 | [133447-adrorium.json](./133447-adrorium.json) |
 | Aduro | 301596 | [301596-aduro.json](./301596-aduro.json) |
+| Adv770 | 305203 | [305203-adv770.json](./305203-adv770.json) |
 | Advanced Daisenryaku: Deutsch Dengeki Sakusen | 65524 | [65524-advanced-daisenryaku-deutsch-dengeki-sakusen.json](./65524-advanced-daisenryaku-deutsch-dengeki-sakusen.json) |
 | Advanced Dungeons & Dragons Cartridge | 84251 | [84251-advanced-dungeons-and-dragons-cartridge.json](./84251-advanced-dungeons-and-dragons-cartridge.json) |
 | Advanced Dungeons & Dragons: Dragons of Flame | 8602 | [8602-advanced-dungeons-and-dragons-dragons-of-flame.json](./8602-advanced-dungeons-and-dragons-dragons-of-flame.json) |
@@ -472,7 +474,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Gaming Platform: Epica | 34557 | [34557-advanced-gaming-platform-epica.json](./34557-advanced-gaming-platform-epica.json) |
 | Advanced Intelligence Surveillance Agency | 150651 | [150651-advanced-intelligence-surveillance-agency.json](./150651-advanced-intelligence-surveillance-agency.json) |
 | Advanced Tactics Gold | 36292 | [36292-advanced-tactics-gold.json](./36292-advanced-tactics-gold.json) |
+| Advanced Thinking Skills | 305166 | [305166-advanced-thinking-skills.json](./305166-advanced-thinking-skills.json) |
 | Adventure | 12239 | [12239-adventure.json](./12239-adventure.json) |
+| Adventure 3 | 305193 | [305193-adventure-3.json](./305193-adventure-3.json) |
 | Adventure A: Planet of Death | 45364 | [45364-adventure-a-planet-of-death.json](./45364-adventure-a-planet-of-death.json) |
 | Adventure B: Inca Curse | 45354 | [45354-adventure-b-inca-curse.json](./45354-adventure-b-inca-curse.json) |
 | Adventure Ball 3D Balancer | 249451 | [249451-adventure-ball-3d-balancer.json](./249451-adventure-ball-3d-balancer.json) |
@@ -484,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure D: Espionage Island | 45370 | [45370-adventure-d-espionage-island.json](./45370-adventure-d-espionage-island.json) |
 | Adventure Delivery Service | 104055 | [104055-adventure-delivery-service.json](./104055-adventure-delivery-service.json) |
 | Adventure Elf | 72132 | [72132-adventure-elf.json](./72132-adventure-elf.json) |
+| Adventure II | 305183 | [305183-adventure-ii.json](./305183-adventure-ii.json) |
 | Adventure II | 40783 | [40783-adventure-ii.json](./40783-adventure-ii.json) |
 | Adventure in King Caries Land | 117044 | [117044-adventure-in-king-caries-land.json](./117044-adventure-in-king-caries-land.json) |
 | Adventure in My Head | 192945 | [192945-adventure-in-my-head.json](./192945-adventure-in-my-head.json) |
@@ -507,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Value Pack #3 | 78679 | [78679-adventure-value-pack-3.json](./78679-adventure-value-pack-3.json) |
 | Adventure Word: Around the World | 275890 | [275890-adventure-word-around-the-world.json](./275890-adventure-word-around-the-world.json) |
 | Adventure Workshop 4th-6th Grade 5th Edition | 72114 | [72114-adventure-workshop-4th-6th-grade-5th-edition.json](./72114-adventure-workshop-4th-6th-grade-5th-edition.json) |
+| Adventure4+ | 305199 | [305199-adventure4.json](./305199-adventure4.json) |
 | AdventureQuest Worlds: Infinity | 211394 | [211394-adventurequest-worlds-infinity.json](./211394-adventurequest-worlds-infinity.json) |
 | Adventurer | 391046 | [391046-adventurer.json](./391046-adventurer.json) |
 | Adventurer Shop Simulator | 357784 | [357784-adventurer-shop-simulator.json](./357784-adventurer-shop-simulator.json) |
@@ -636,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agatha Christie: 4:50 from Paddington | 135245 | [135245-agatha-christie-4-50-from-paddington.json](./135245-agatha-christie-4-50-from-paddington.json) |
 | Agatha Christie: Death on the Nile | 21134 | [21134-agatha-christie-death-on-the-nile.json](./21134-agatha-christie-death-on-the-nile.json) |
 | Agatha Knife | 28312 | [28312-agatha-knife.json](./28312-agatha-knife.json) |
+| Age Maniax: Isumi Yon Shimai Saigo no Hi | 305141 | [305141-age-maniax-isumi-yon-shimai-saigo-no-hi.json](./305141-age-maniax-isumi-yon-shimai-saigo-no-hi.json) |
 | Age of Aincrad | 223686 | [223686-age-of-aincrad.json](./223686-age-of-aincrad.json) |
 | Age of Ashes: Dark Nuns | 349849 | [349849-age-of-ashes-dark-nuns.json](./349849-age-of-ashes-dark-nuns.json) |
 | Age of Barbarians Chronicles | 207506 | [207506-age-of-barbarians-chronicles.json](./207506-age-of-barbarians-chronicles.json) |
@@ -883,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aldoria | 322382 | [322382-aldoria.json](./322382-aldoria.json) |
 | Aldriak: The Advent of a New World | 149569 | [149569-aldriak-the-advent-of-a-new-world.json](./149569-aldriak-the-advent-of-a-new-world.json) |
 | Aldro | 247747 | [247747-aldro.json](./247747-aldro.json) |
+| Ale Abbey | 305173 | [305173-ale-abbey.json](./305173-ale-abbey.json) |
 | Alea Lacta Est | 300419 | [300419-alea-lacta-est.json](./300419-alea-lacta-est.json) |
 | Alehouse Tavern Simulator | 334489 | [334489-alehouse-tavern-simulator.json](./334489-alehouse-tavern-simulator.json) |
 | Alekhine's Gun | 15691 | [15691-alekhines-gun.json](./15691-alekhines-gun.json) |
@@ -1018,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Kamen Rider: Rider Revolution | 81413 | [81413-all-kamen-rider-rider-revolution.json](./81413-all-kamen-rider-rider-revolution.json) |
 | All Men Are Pigs | 183041 | [183041-all-men-are-pigs.json](./183041-all-men-are-pigs.json) |
 | All Monsters Attack! | 202403 | [202403-all-monsters-attack.json](./202403-all-monsters-attack.json) |
+| All On Board! | 305146 | [305146-all-on-board.json](./305146-all-on-board.json) |
 | All one click | 267086 | [267086-all-one-click.json](./267086-all-one-click.json) |
 | All Our Asias | 68216 | [68216-all-our-asias.json](./68216-all-our-asias.json) |
 | All Star Baseball | 91416 | [91416-all-star-baseball.json](./91416-all-star-baseball.json) |
@@ -1197,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among School Girls | 165006 | [165006-among-school-girls.json](./165006-among-school-girls.json) |
 | Among Stars | 211405 | [211405-among-stars.json](./211405-among-stars.json) |
 | Among the Sleep: Enhanced Edition | 114411 | [114411-among-the-sleep-enhanced-edition.json](./114411-among-the-sleep-enhanced-edition.json) |
+| Among the Wild | 305170 | [305170-among-the-wild.json](./305170-among-the-wild.json) |
 | Among Us 3D | 332784 | [332784-among-us-3d.json](./332784-among-us-3d.json) |
 | Among Us VR: Glove Pack - Catch Deez Hands | 316401 | [316401-among-us-vr-glove-pack-catch-deez-hands.json](./316401-among-us-vr-glove-pack-catch-deez-hands.json) |
 | Among Us VR: Limited Time Pack - DUM Duo | 316402 | [316402-among-us-vr-limited-time-pack-dum-duo.json](./316402-among-us-vr-limited-time-pack-dum-duo.json) |
@@ -2213,6 +2223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ryza: Ever Darkness & the Secret Hideout DX | 359424 | [359424-atelier-ryza-ever-darkness-and-the-secret-hideout-dx.json](./359424-atelier-ryza-ever-darkness-and-the-secret-hideout-dx.json) |
 | Atelier Shallie: Alchemists of the Dusk Sea DX | 122750 | [122750-atelier-shallie-alchemists-of-the-dusk-sea-dx.json](./122750-atelier-shallie-alchemists-of-the-dusk-sea-dx.json) |
 | Athena | 273078 | [273078-athena.json](./273078-athena.json) |
+| Athena Cykes: Ace Attorney - Trials of time. | 305191 | [305191-athena-cykes-ace-attorney-trials-of-time.json](./305191-athena-cykes-ace-attorney-trials-of-time.json) |
 | Athena: Full Throttle | 55894 | [55894-athena-full-throttle.json](./55894-athena-full-throttle.json) |
 | Athena's Circus | 334505 | [334505-athenas-circus.json](./334505-athenas-circus.json) |
 | Athenian Acropolis | 74445 | [74445-athenian-acropolis.json](./74445-athenian-acropolis.json) |
