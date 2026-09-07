@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Cage | 326055 | [326055-fallen-cage.json](./326055-fallen-cage.json) |
 | Fallen Deities | 316654 | [316654-fallen-deities.json](./316654-fallen-deities.json) |
 | Fallen Devotion | 333964 | [333964-fallen-devotion.json](./333964-fallen-devotion.json) |
+| Fallen Echo | 311501 | [311501-fallen-echo.json](./311501-fallen-echo.json) |
 | Fallen Enchantress: Legendary Heroes - Battlegrounds DLC | 168378 | [168378-fallen-enchantress-legendary-heroes-battlegrounds-dlc.json](./168378-fallen-enchantress-legendary-heroes-battlegrounds-dlc.json) |
 | Fallen Enchantress: Legendary Heroes - Leader Pack DLC | 168370 | [168370-fallen-enchantress-legendary-heroes-leader-pack-dlc.json](./168370-fallen-enchantress-legendary-heroes-leader-pack-dlc.json) |
 | Fallen Enchantress: Legendary Heroes - Quest Pack DLC | 168379 | [168379-fallen-enchantress-legendary-heroes-quest-pack-dlc.json](./168379-fallen-enchantress-legendary-heroes-quest-pack-dlc.json) |
@@ -1584,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Feathers | 362266 | [362266-frozen-feathers.json](./362266-frozen-feathers.json) |
 | Frozen Forward | 383967 | [383967-frozen-forward.json](./383967-frozen-forward.json) |
 | Frozen Fruits | 307334 | [307334-frozen-fruits.json](./307334-frozen-fruits.json) |
+| Frozen Heart | 311460 | [311460-frozen-heart.json](./311460-frozen-heart.json) |
 | Frozen Inferno | 328245 | [328245-frozen-inferno.json](./328245-frozen-inferno.json) |
 | Frozen Injustice: Fridge Adventures | 324334 | [324334-frozen-injustice-fridge-adventures.json](./324334-frozen-injustice-fridge-adventures.json) |
 | Frozen Memories | 129226 | [129226-frozen-memories.json](./129226-frozen-memories.json) |
