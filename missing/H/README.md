@@ -281,6 +281,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haru Ichiban | 209708 | [209708-haru-ichiban.json](./209708-haru-ichiban.json) |
 | Harukanaru Toki no Naka de 3 Ultimate | 136461 | [136461-harukanaru-toki-no-naka-de-3-ultimate.json](./136461-harukanaru-toki-no-naka-de-3-ultimate.json) |
 | Harvest | 229365 | [229365-harvest.json](./229365-harvest.json) |
+| Harvest Bliss | 302374 | [302374-harvest-bliss.json](./302374-harvest-bliss.json) |
+| Harvest Hustlers | 302363 | [302363-harvest-hustlers.json](./302363-harvest-hustlers.json) |
 | Harvest Island: Beginnings | 159878 | [159878-harvest-island-beginnings.json](./159878-harvest-island-beginnings.json) |
 | Harvest Master | 320522 | [320522-harvest-master.json](./320522-harvest-master.json) |
 | Harvest Moon DS: Island of Happiness | 3387 | [3387-harvest-moon-ds-island-of-happiness.json](./3387-harvest-moon-ds-island-of-happiness.json) |
