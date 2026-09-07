@@ -3327,6 +3327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station 37 | 277027 | [277027-station-37.json](./277027-station-37.json) |
 | Station 5 | 307931 | [307931-station-5.json](./307931-station-5.json) |
 | Station Commander | 76654 | [76654-station-commander.json](./76654-station-commander.json) |
+| Station Zeta | 304003 | [304003-station-zeta.json](./304003-station-zeta.json) |
 | Stationflow | 127462 | [127462-stationflow.json](./127462-stationflow.json) |
 | Stattogories | 239339 | [239339-stattogories.json](./239339-stattogories.json) |
 | StaudSoft's Synthetic World | 35899 | [35899-staudsofts-synthetic-world.json](./35899-staudsofts-synthetic-world.json) |
@@ -4555,6 +4556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swing of the Valkyries | 391597 | [391597-swing-of-the-valkyries.json](./391597-swing-of-the-valkyries.json) |
 | Swing Striker | 133471 | [133471-swing-striker.json](./133471-swing-striker.json) |
 | Swingin' Beats | 338204 | [338204-swingin-beats.json](./338204-swingin-beats.json) |
+| Swingmania | 304039 | [304039-swingmania.json](./304039-swingmania.json) |
 | Swingularity | 333566 | [333566-swingularity.json](./333566-swingularity.json) |
 | Swipe Casters | 87732 | [87732-swipe-casters.json](./87732-swipe-casters.json) |
 | Swipe Soccer | 92520 | [92520-swipe-soccer.json](./92520-swipe-soccer.json) |
