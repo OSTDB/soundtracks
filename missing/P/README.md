@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Mansion | 26726 | [26726-panic-mansion.json](./26726-panic-mansion.json) |
 | Panic Road | 317019 | [317019-panic-road.json](./317019-panic-road.json) |
 | Panic-Chan | 209623 | [209623-panic-chan.json](./209623-panic-chan.json) |
+| Panik | 289300 | [289300-panik.json](./289300-panik.json) |
 | Panin | 358331 | [358331-panin.json](./358331-panin.json) |
 | Panmorphia: Enchanted | 171621 | [171621-panmorphia-enchanted.json](./171621-panmorphia-enchanted.json) |
 | Panoptia | 270959 | [270959-panoptia.json](./270959-panoptia.json) |
@@ -650,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter's Apostles | 351609 | [351609-peters-apostles.json](./351609-peters-apostles.json) |
 | Peter's Journey | 306096 | [306096-peters-journey.json](./306096-peters-journey.json) |
 | PetHotel | 101581 | [101581-pethotel.json](./101581-pethotel.json) |
+| Petit Petit Petit: Specter Pack | 289331 | [289331-petit-petit-petit-specter-pack.json](./289331-petit-petit-petit-specter-pack.json) |
 | Petit Planet | 370095 | [370095-petit-planet.json](./370095-petit-planet.json) |
 | Petit Royaume | 321338 | [321338-petit-royaume.json](./321338-petit-royaume.json) |
 | Petite Wife Devotes Herself to You | 98438 | [98438-petite-wife-devotes-herself-to-you.json](./98438-petite-wife-devotes-herself-to-you.json) |
@@ -923,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball: Our Church and Halloween RPG - Machine #2 | 213631 | [213631-pinball-our-church-and-halloween-rpg-machine-2.json](./213631-pinball-our-church-and-halloween-rpg-machine-2.json) |
 | Pinball: Our Church and Halloween RPG - Machine #3 | 213632 | [213632-pinball-our-church-and-halloween-rpg-machine-3.json](./213632-pinball-our-church-and-halloween-rpg-machine-3.json) |
 | Pinballistik | 52654 | [52654-pinballistik.json](./52654-pinballistik.json) |
+| Pinballtoon | 289299 | [289299-pinballtoon.json](./289299-pinballtoon.json) |
 | Pinch 2 HD | 63320 | [63320-pinch-2-hd.json](./63320-pinch-2-hd.json) |
 | Pinch 2 HD: Special Edition | 63316 | [63316-pinch-2-hd-special-edition.json](./63316-pinch-2-hd-special-edition.json) |
 | Pindeavor | 208602 | [208602-pindeavor.json](./208602-pindeavor.json) |
@@ -996,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates on Target | 187536 | [187536-pirates-on-target.json](./187536-pirates-on-target.json) |
 | Pirates Pinball | 115058 | [115058-pirates-pinball.json](./115058-pirates-pinball.json) |
 | Pirates: Mystery of the Skeletons Island | 133425 | [133425-pirates-mystery-of-the-skeletons-island.json](./133425-pirates-mystery-of-the-skeletons-island.json) |
+| Pirates! Showdown: Enhanced Edition | 289318 | [289318-pirates-showdown-enhanced-edition.json](./289318-pirates-showdown-enhanced-edition.json) |
 | Piss Off | 331295 | [331295-piss-off.json](./331295-piss-off.json) |
 | PISTA Motorsport | 251855 | [251855-pista-motorsport.json](./251855-pista-motorsport.json) |
 | Pistols at Dawn | 92502 | [92502-pistols-at-dawn.json](./92502-pistols-at-dawn.json) |
@@ -1145,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plain Sight | 8585 | [8585-plain-sight.json](./8585-plain-sight.json) |
 | Plain Song | 368501 | [368501-plain-song.json](./368501-plain-song.json) |
 | Plain Tic Tac Toe | 89281 | [89281-plain-tic-tac-toe.json](./89281-plain-tic-tac-toe.json) |
+| Plains of Havoc | 289306 | [289306-plains-of-havoc.json](./289306-plains-of-havoc.json) |
 | Planarity | 246117 | [246117-planarity.json](./246117-planarity.json) |
 | Plane and Simple | 143108 | [143108-plane-and-simple.json](./143108-plane-and-simple.json) |
 | Plane Master | 232691 | [232691-plane-master.json](./232691-plane-master.json) |
