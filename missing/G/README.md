@@ -549,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GirlJail | 97348 | [97348-girljail.json](./97348-girljail.json) |
 | Girls Legend | 196303 | [196303-girls-legend.json](./196303-girls-legend.json) |
 | Girls Life: Sleepover Party | 50592 | [50592-girls-life-sleepover-party.json](./50592-girls-life-sleepover-party.json) |
+| Girls of The Tower: Journey To Chaos | 305772 | [305772-girls-of-the-tower-journey-to-chaos.json](./305772-girls-of-the-tower-journey-to-chaos.json) |
 | Girls Puzzle | 112979 | [112979-girls-puzzle.json](./112979-girls-puzzle.json) |
 | Girls VR | 109708 | [109708-girls-vr.json](./109708-girls-vr.json) |
 | Girls X Battle: GXB Global | 104098 | [104098-girls-x-battle-gxb-global.json](./104098-girls-x-battle-gxb-global.json) |
@@ -843,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good God! | 400882 | [400882-good-god.json](./400882-good-god.json) |
 | Good Hell | 215356 | [215356-good-hell.json](./215356-good-hell.json) |
 | Good Knight's Sleep | 369021 | [369021-good-knights-sleep.json](./369021-good-knights-sleep.json) |
+| Good Luck Citizen | 305777 | [305777-good-luck-citizen.json](./305777-good-luck-citizen.json) |
 | Good Luck Crossing | 344393 | [344393-good-luck-crossing.json](./344393-good-luck-crossing.json) |
 | Good Mahjong | 88276 | [88276-good-mahjong.json](./88276-good-mahjong.json) |
 | Good Morgan Eve | 332443 | [332443-good-morgan-eve.json](./332443-good-morgan-eve.json) |
@@ -945,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy: Relink - Color Pack 4 | 309640 | [309640-granblue-fantasy-relink-color-pack-4.json](./309640-granblue-fantasy-relink-color-pack-4.json) |
 | Granblue Fantasy: Relink - Color Pack 5 | 312004 | [312004-granblue-fantasy-relink-color-pack-5.json](./312004-granblue-fantasy-relink-color-pack-5.json) |
 | Granblue Fantasy: Relink - Emote Expansion Set: Grab Bag | 312002 | [312002-granblue-fantasy-relink-emote-expansion-set-grab-bag.json](./312002-granblue-fantasy-relink-emote-expansion-set-grab-bag.json) |
+| Granblue Fantasy: Relink - Emote Expansion Set: I Work Out | 305779 | [305779-granblue-fantasy-relink-emote-expansion-set-i-work-out.json](./305779-granblue-fantasy-relink-emote-expansion-set-i-work-out.json) |
 | Grand Academy for Future Villains | 67914 | [67914-grand-academy-for-future-villains.json](./67914-grand-academy-for-future-villains.json) |
 | Grand Casino | 295032 | [295032-grand-casino.json](./295032-grand-casino.json) |
 | Grand Chase Classic | 166856 | [166856-grand-chase-classic.json](./166856-grand-chase-classic.json) |
@@ -1287,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumball Hero | 407353 | [407353-gumball-hero.json](./407353-gumball-hero.json) |
 | Gumchu Girl | 137682 | [137682-gumchu-girl.json](./137682-gumchu-girl.json) |
 | Gummy Bears: Magical Medallion | 50628 | [50628-gummy-bears-magical-medallion.json](./50628-gummy-bears-magical-medallion.json) |
+| Gummy Nightmares | 305743 | [305743-gummy-nightmares.json](./305743-gummy-nightmares.json) |
 | Gummy Slide | 251236 | [251236-gummy-slide.json](./251236-gummy-slide.json) |
 | Gumnaam | 215353 | [215353-gumnaam.json](./215353-gumnaam.json) |
 | Gump Jump | 209647 | [209647-gump-jump.json](./209647-gump-jump.json) |
