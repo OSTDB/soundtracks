@@ -1553,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Interactive Adventures of Dog Mendonça and Pizzaboy | 17976 | [17976-the-interactive-adventures-of-dog-mendonca-and-pizzaboy.json](./17976-the-interactive-adventures-of-dog-mendonca-and-pizzaboy.json) |
 | The Interdiction Zone | 274191 | [274191-the-interdiction-zone.json](./274191-the-interdiction-zone.json) |
 | The Invincible | 138906 | [138906-the-invincible.json](./138906-the-invincible.json) |
+| The Invincible: Deluxe Edition | 275594 | [275594-the-invincible-deluxe-edition.json](./275594-the-invincible-deluxe-edition.json) |
 | The Invisible Guardian | 185670 | [185670-the-invisible-guardian.json](./185670-the-invisible-guardian.json) |
 | The Invisible Hand | 25224 | [25224-the-invisible-hand.json](./25224-the-invisible-hand.json) |
 | The Iron Age | 223151 | [223151-the-iron-age.json](./223151-the-iron-age.json) |
@@ -1752,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Skyward Sword HD Randomizer | 331139 | [331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json](./331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json) |
 | The Legend of Zelda: Spirit Tracks | 1038 | [1038-the-legend-of-zelda-spirit-tracks.json](./1038-the-legend-of-zelda-spirit-tracks.json) |
 | The Legend of Zelda: Tears of the Kingdom - Nintendo Switch 2 Edition | 338073 | [338073-the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-2-edition.json](./338073-the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-2-edition.json) |
+| The Legend of Zelda: The Mini Quest | 275620 | [275620-the-legend-of-zelda-the-mini-quest.json](./275620-the-legend-of-zelda-the-mini-quest.json) |
 | The Legend of Zelda: The Wind Waker HD Randomizer | 332219 | [332219-the-legend-of-zelda-the-wind-waker-hd-randomizer.json](./332219-the-legend-of-zelda-the-wind-waker-hd-randomizer.json) |
 | The Legend of Zelda: Tri Force Heroes | 11194 | [11194-the-legend-of-zelda-tri-force-heroes.json](./11194-the-legend-of-zelda-tri-force-heroes.json) |
 | The Legend of Zelda: Twilight Princess HD | 18017 | [18017-the-legend-of-zelda-twilight-princess-hd.json](./18017-the-legend-of-zelda-twilight-princess-hd.json) |
