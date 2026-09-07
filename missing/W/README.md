@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Haven | 310926 | [310926-wing-haven.json](./310926-wing-haven.json) |
 | Wing of Darkness: Limited Edition | 140005 | [140005-wing-of-darkness-limited-edition.json](./140005-wing-of-darkness-limited-edition.json) |
 | Winged Sakura: Mindy's Arc 2 | 111049 | [111049-winged-sakura-mindys-arc-2.json](./111049-winged-sakura-mindys-arc-2.json) |
+| Wingless Fairies | 304059 | [304059-wingless-fairies.json](./304059-wingless-fairies.json) |
 | WingMan | 216484 | [216484-wingman.json](./216484-wingman.json) |
 | Wings 1941 | 203571 | [203571-wings-1941.json](./203571-wings-1941.json) |
 | Wings of Magloryx | 85492 | [85492-wings-of-magloryx.json](./85492-wings-of-magloryx.json) |
@@ -817,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches' Legacy: Hunter and the Hunted HD | 101583 | [101583-witches-legacy-hunter-and-the-hunted-hd.json](./101583-witches-legacy-hunter-and-the-hunted-hd.json) |
 | Witches' Legacy: Lair of the Witch Queen - Collector's Edition | 110374 | [110374-witches-legacy-lair-of-the-witch-queen-collectors-edition.json](./110374-witches-legacy-lair-of-the-witch-queen-collectors-edition.json) |
 | Witching Tower: Heroes | 132252 | [132252-witching-tower-heroes.json](./132252-witching-tower-heroes.json) |
+| Witching Well | 304010 | [304010-witching-well.json](./304010-witching-well.json) |
 | Witchmore | 241653 | [241653-witchmore.json](./241653-witchmore.json) |
 | WitchRider | 312543 | [312543-witchrider.json](./312543-witchrider.json) |
 | WitchSpring | 87260 | [87260-witchspring.json](./87260-witchspring.json) |
@@ -834,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Within His View | 379868 | [379868-within-his-view.json](./379868-within-his-view.json) |
 | Within the Range | 391045 | [391045-within-the-range.json](./391045-within-the-range.json) |
 | Within Whispers: The Fall | 61652 | [61652-within-whispers-the-fall.json](./61652-within-whispers-the-fall.json) |
+| Within: Hannah's Journey | 304011 | [304011-within-hannahs-journey.json](./304011-within-hannahs-journey.json) |
 | Without a Dawn | 333551 | [333551-without-a-dawn.json](./333551-without-a-dawn.json) |
 | Without Escape | 270394 | [270394-without-escape.json](./270394-without-escape.json) |
 | Without Wings | 340932 | [340932-without-wings.json](./340932-without-wings.json) |
@@ -850,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard of Wall Street | 68043 | [68043-wizard-of-wall-street.json](./68043-wizard-of-wall-street.json) |
 | Wizard Pulse | 304573 | [304573-wizard-pulse.json](./304573-wizard-pulse.json) |
 | Wizard Soup | 408812 | [408812-wizard-soup.json](./408812-wizard-soup.json) |
+| Wizard Tournament | 304012 | [304012-wizard-tournament.json](./304012-wizard-tournament.json) |
 | Wizard Warfare | 127196 | [127196-wizard-warfare.json](./127196-wizard-warfare.json) |
 | Wizard with a Gun: Bounty Hunter Pack | 293391 | [293391-wizard-with-a-gun-bounty-hunter-pack.json](./293391-wizard-with-a-gun-bounty-hunter-pack.json) |
 | Wizard's Beard | 277606 | [277606-wizards-beard.json](./277606-wizards-beard.json) |
@@ -869,6 +873,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards' Clash | 35738 | [35738-wizards-clash.json](./35738-wizards-clash.json) |
 | Wizavior | 255392 | [255392-wizavior.json](./255392-wizavior.json) |
 | Wizdom | 85500 | [85500-wizdom.json](./85500-wizdom.json) |
+| Wizlite: Everybody loved RPGs | 304013 | [304013-wizlite-everybody-loved-rpgs.json](./304013-wizlite-everybody-loved-rpgs.json) |
+| Wizwag | 304014 | [304014-wizwag.json](./304014-wizwag.json) |
 | Wloku | 307617 | [307617-wloku.json](./307617-wloku.json) |
 | Wo Long: Fallen Dynasty - Complete Edition | 285776 | [285776-wo-long-fallen-dynasty-complete-edition.json](./285776-wo-long-fallen-dynasty-complete-edition.json) |
 | Woahler Coaster! | 373513 | [373513-woahler-coaster.json](./373513-woahler-coaster.json) |
@@ -914,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Mu: Mu to Unmei no Monster | 220323 | [220323-wonder-mu-mu-to-unmei-no-monster.json](./220323-wonder-mu-mu-to-unmei-no-monster.json) |
 | Wonder of Blue | 345509 | [345509-wonder-of-blue.json](./345509-wonder-of-blue.json) |
 | Wonder Planet | 40245 | [40245-wonder-planet.json](./40245-wonder-planet.json) |
+| Wonder Wand | 304016 | [304016-wonder-wand.json](./304016-wonder-wand.json) |
 | Wonder World | 312547 | [312547-wonder-world.json](./312547-wonder-world.json) |
 | Wonder World Amusement Park | 5286 | [5286-wonder-world-amusement-park.json](./5286-wonder-world-amusement-park.json) |
 | Wonderball Heroes | 83581 | [83581-wonderball-heroes.json](./83581-wonderball-heroes.json) |
@@ -943,6 +950,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woody Woodpecker in Waterfools | 135894 | [135894-woody-woodpecker-in-waterfools.json](./135894-woody-woodpecker-in-waterfools.json) |
 | Woofy Run | 373017 | [373017-woofy-run.json](./373017-woofy-run.json) |
 | Woogles | 321119 | [321119-woogles.json](./321119-woogles.json) |
+| Woohoo! | 304017 | [304017-woohoo.json](./304017-woohoo.json) |
+| Woohoo!: Game - Pool Frenzy | 304018 | [304018-woohoo-game-pool-frenzy.json](./304018-woohoo-game-pool-frenzy.json) |
+| Woohoo!: Game - Skee Madness | 304019 | [304019-woohoo-game-skee-madness.json](./304019-woohoo-game-skee-madness.json) |
+| Woohoo!: Game - Triangles | 304020 | [304020-woohoo-game-triangles.json](./304020-woohoo-game-triangles.json) |
+| Woohoo!: Game - WordSearch | 304021 | [304021-woohoo-game-wordsearch.json](./304021-woohoo-game-wordsearch.json) |
 | WooLoop | 199121 | [199121-wooloop.json](./199121-wooloop.json) |
 | WooLoop: Magic Pack | 319347 | [319347-wooloop-magic-pack.json](./319347-wooloop-magic-pack.json) |
 | Wooly Rockbottom and the Quest for the Golden Beard of Thor! | 325254 | [325254-wooly-rockbottom-and-the-quest-for-the-golden-beard-of-thor.json](./325254-wooly-rockbottom-and-the-quest-for-the-golden-beard-of-thor.json) |
@@ -970,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Mess | 91982 | [91982-word-mess.json](./91982-word-mess.json) |
 | Word Munchers | 82151 | [82151-word-munchers.json](./82151-word-munchers.json) |
 | Word of Kitchen | 190702 | [190702-word-of-kitchen.json](./190702-word-of-kitchen.json) |
+| Word On The Hook | 304022 | [304022-word-on-the-hook.json](./304022-word-on-the-hook.json) |
 | Word Party | 85494 | [85494-word-party.json](./85494-word-party.json) |
 | Word Quest Fantasy | 385067 | [385067-word-quest-fantasy.json](./385067-word-quest-fantasy.json) |
 | Word Quest Space | 378773 | [378773-word-quest-space.json](./378773-word-quest-space.json) |
@@ -1012,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words With Freds | 192956 | [192956-words-with-freds.json](./192956-words-with-freds.json) |
 | Wordscapes Search | 272562 | [272562-wordscapes-search.json](./272562-wordscapes-search.json) |
 | Wordslop | 402911 | [402911-wordslop.json](./402911-wordslop.json) |
+| Work Beasts | 304023 | [304023-work-beasts.json](./304023-work-beasts.json) |
 | Work from Home | 218717 | [218717-work-from-home.json](./218717-work-from-home.json) |
 | Work Life Balance | 372470 | [372470-work-life-balance.json](./372470-work-life-balance.json) |
 | Work Till Die | 391060 | [391060-work-till-die.json](./391060-work-till-die.json) |
@@ -1040,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Fantasista | 302701 | [302701-world-fantasista.json](./302701-world-fantasista.json) |
 | World Golf | 68674 | [68674-world-golf.json](./68674-world-golf.json) |
 | World Heritage True or False Quiz | 378790 | [378790-world-heritage-true-or-false-quiz.json](./378790-world-heritage-true-or-false-quiz.json) |
+| World Heritage VR: Swedish Farmhouse | 304024 | [304024-world-heritage-vr-swedish-farmhouse.json](./304024-world-heritage-vr-swedish-farmhouse.json) |
 | World Heroes Perfect | 46779 | [46779-world-heroes-perfect.json](./46779-world-heroes-perfect.json) |
 | World Leader Card Game | 119779 | [119779-world-leader-card-game.json](./119779-world-leader-card-game.json) |
 | World Mosaics | 135246 | [135246-world-mosaics.json](./135246-world-mosaics.json) |
