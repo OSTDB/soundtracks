@@ -4023,6 +4023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Gridder | 57144 | [57144-super-gridder.json](./57144-super-gridder.json) |
 | Super Gussun Oyoyo | 42641 | [42641-super-gussun-oyoyo.json](./42641-super-gussun-oyoyo.json) |
 | Super Gussun Oyoyo 2 | 38385 | [38385-super-gussun-oyoyo-2.json](./38385-super-gussun-oyoyo-2.json) |
+| Super Happi Quest 3 | 299733 | [299733-super-happi-quest-3.json](./299733-super-happi-quest-3.json) |
 | Super Hard Game | 360580 | [360580-super-hard-game.json](./360580-super-hard-game.json) |
 | Super Head Esploder X | 87263 | [87263-super-head-esploder-x.json](./87263-super-head-esploder-x.json) |
 | Super Hentai Racers | 208629 | [208629-super-hentai-racers.json](./208629-super-hentai-racers.json) |
@@ -4660,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syke | 295522 | [295522-syke.json](./295522-syke.json) |
 | Sylvan Disappearance | 260974 | [260974-sylvan-disappearance.json](./260974-sylvan-disappearance.json) |
 | Sylvan Tale | 19691 | [19691-sylvan-tale.json](./19691-sylvan-tale.json) |
+| Sylviana: Ai Ippai no Boukensha | 299761 | [299761-sylviana-ai-ippai-no-boukensha.json](./299761-sylviana-ai-ippai-no-boukensha.json) |
 | Sylvie Lime | 230501 | [230501-sylvie-lime.json](./230501-sylvie-lime.json) |
 | Sylvie RPG: 7 Elf Apocalypse | 292830 | [292830-sylvie-rpg-7-elf-apocalypse.json](./292830-sylvie-rpg-7-elf-apocalypse.json) |
 | Sylvio and the Mountains Giants | 236536 | [236536-sylvio-and-the-mountains-giants.json](./236536-sylvio-and-the-mountains-giants.json) |
@@ -4680,6 +4682,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synaesthete | 79917 | [79917-synaesthete.json](./79917-synaesthete.json) |
 | Synapse | 239381 | [239381-synapse.json](./239381-synapse.json) |
 | Synapses | 302131 | [302131-synapses.json](./302131-synapses.json) |
+| Synapsis | 299759 | [299759-synapsis.json](./299759-synapsis.json) |
+| Synapsis 2 | 299760 | [299760-synapsis-2.json](./299760-synapsis-2.json) |
 | Synced: Season 1 - Lambent Dawn Trailer | 365090 | [365090-synced-season-1-lambent-dawn-trailer.json](./365090-synced-season-1-lambent-dawn-trailer.json) |
 | Syncers | 368473 | [368473-syncers.json](./368473-syncers.json) |
 | Synchronizacja | 187539 | [187539-synchronizacja.json](./187539-synchronizacja.json) |
