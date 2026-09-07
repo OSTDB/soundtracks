@@ -905,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iSnake | 87703 | [87703-isnake.json](./87703-isnake.json) |
 | Isoland: The Amusement Park | 141258 | [141258-isoland-the-amusement-park.json](./141258-isoland-the-amusement-park.json) |
 | Isolani | 22394 | [22394-isolani.json](./22394-isolani.json) |
+| Isolated | 283144 | [283144-isolated.json](./283144-isolated.json) |
 | Isolated | 86116 | [86116-isolated.json](./86116-isolated.json) |
 | Isolation | 29945 | [29945-isolation.json](./29945-isolation.json) |
 | Isolationist Nightclub Simulator | 148523 | [148523-isolationist-nightclub-simulator.json](./148523-isolationist-nightclub-simulator.json) |
