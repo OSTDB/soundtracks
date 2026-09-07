@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newer: Falling Leaf | 132848 | [132848-newer-falling-leaf.json](./132848-newer-falling-leaf.json) |
 | Newer: Holiday Special | 132849 | [132849-newer-holiday-special.json](./132849-newer-holiday-special.json) |
 | Newer: Summer Sun | 132847 | [132847-newer-summer-sun.json](./132847-newer-summer-sun.json) |
+| Newly-wedded Woman Stealing Life | 279603 | [279603-newly-wedded-woman-stealing-life.json](./279603-newly-wedded-woman-stealing-life.json) |
 | Newton's House of Forces | 163948 | [163948-newtons-house-of-forces.json](./163948-newtons-house-of-forces.json) |
 | Nexa Tech Laboratory | 273636 | [273636-nexa-tech-laboratory.json](./273636-nexa-tech-laboratory.json) |
 | Nexomon | 88130 | [88130-nexomon.json](./88130-nexomon.json) |
