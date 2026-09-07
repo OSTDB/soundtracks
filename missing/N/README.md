@@ -519,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newer: Falling Leaf | 132848 | [132848-newer-falling-leaf.json](./132848-newer-falling-leaf.json) |
 | Newer: Holiday Special | 132849 | [132849-newer-holiday-special.json](./132849-newer-holiday-special.json) |
 | Newer: Summer Sun | 132847 | [132847-newer-summer-sun.json](./132847-newer-summer-sun.json) |
+| Newgothic Movement 2 | 275571 | [275571-newgothic-movement-2.json](./275571-newgothic-movement-2.json) |
 | Newly-wedded Woman Stealing Life | 279603 | [279603-newly-wedded-woman-stealing-life.json](./279603-newly-wedded-woman-stealing-life.json) |
 | Newton's House of Forces | 163948 | [163948-newtons-house-of-forces.json](./163948-newtons-house-of-forces.json) |
 | Nexa Tech Laboratory | 273636 | [273636-nexa-tech-laboratory.json](./273636-nexa-tech-laboratory.json) |
@@ -583,6 +584,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick Logic for Kids | 387331 | [387331-nick-logic-for-kids.json](./387331-nick-logic-for-kids.json) |
 | Nick Sports | 87199 | [87199-nick-sports.json](./87199-nick-sports.json) |
 | Nick's Night Out | 123052 | [123052-nicks-night-out.json](./123052-nicks-night-out.json) |
+| Nickelodeon All-Star Brawl 2: Costume Pack | 275617 | [275617-nickelodeon-all-star-brawl-2-costume-pack.json](./275617-nickelodeon-all-star-brawl-2-costume-pack.json) |
+| Nickelodeon All-Star Brawl 2: Season Pass | 275618 | [275618-nickelodeon-all-star-brawl-2-season-pass.json](./275618-nickelodeon-all-star-brawl-2-season-pass.json) |
 | Nickelodeon Kart Racers 3: Slime Speedway Turbo Pack | 263234 | [263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json](./263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json) |
 | Nickelodeon Kids Bundle | 286512 | [286512-nickelodeon-kids-bundle.json](./286512-nickelodeon-kids-bundle.json) |
 | Nicktoons: Snap Shot | 308564 | [308564-nicktoons-snap-shot.json](./308564-nicktoons-snap-shot.json) |
