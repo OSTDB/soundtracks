@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking 3D - Car Parking | 102206 | [102206-parking-3d-car-parking.json](./102206-parking-3d-car-parking.json) |
 | Parking Attendant | 151186 | [151186-parking-attendant.json](./151186-parking-attendant.json) |
 | Parking Attendant Simulator | 326379 | [326379-parking-attendant-simulator.json](./326379-parking-attendant-simulator.json) |
+| Parking Driver | 290921 | [290921-parking-driver.json](./290921-parking-driver.json) |
 | Parking Frenzy | 343786 | [343786-parking-frenzy.json](./343786-parking-frenzy.json) |
 | Parking Garage Simulator | 374602 | [374602-parking-garage-simulator.json](./374602-parking-garage-simulator.json) |
 | Parking Jam | 313138 | [313138-parking-jam.json](./313138-parking-jam.json) |
@@ -1618,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pot Farmer | 235972 | [235972-pot-farmer.json](./235972-pot-farmer.json) |
 | Potato | 314306 | [314306-potato.json](./314306-potato.json) |
 | Potato Lagoon | 178087 | [178087-potato-lagoon.json](./178087-potato-lagoon.json) |
+| Potato Salad | 290960 | [290960-potato-salad.json](./290960-potato-salad.json) |
 | Potato Survival | 218708 | [218708-potato-survival.json](./218708-potato-survival.json) |
 | Potion Craft | 142941 | [142941-potion-craft.json](./142941-potion-craft.json) |
 | Potion Problems | 343256 | [343256-potion-problems.json](./343256-potion-problems.json) |
@@ -1625,6 +1627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Punch | 247220 | [247220-potion-punch.json](./247220-potion-punch.json) |
 | Potion Punch 2: Cooking Quest | 247219 | [247219-potion-punch-2-cooking-quest.json](./247219-potion-punch-2-cooking-quest.json) |
 | Potion Punch 2+ | 385569 | [385569-potion-punch-2.json](./385569-potion-punch-2.json) |
+| Potion Shop Simulator | 290953 | [290953-potion-shop-simulator.json](./290953-potion-shop-simulator.json) |
 | Potionomics: Boss Finn Content Pack | 360595 | [360595-potionomics-boss-finn-content-pack.json](./360595-potionomics-boss-finn-content-pack.json) |
 | Potions, Frankly | 183598 | [183598-potions-frankly.json](./183598-potions-frankly.json) |
 | Pots and Potions | 170540 | [170540-pots-and-potions.json](./170540-pots-and-potions.json) |
