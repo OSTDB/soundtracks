@@ -1261,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Floor Is Really Cheap Lava | 115042 | [115042-the-floor-is-really-cheap-lava.json](./115042-the-floor-is-really-cheap-lava.json) |
 | The Flying Feathers | 247768 | [247768-the-flying-feathers.json](./247768-the-flying-feathers.json) |
 | The Flying Jet | 366223 | [366223-the-flying-jet.json](./366223-the-flying-jet.json) |
+| The Fog | 305143 | [305143-the-fog.json](./305143-the-fog.json) |
 | The Fog | 391047 | [391047-the-fog.json](./391047-the-fog.json) |
 | The Fog Fall | 383351 | [383351-the-fog-fall.json](./383351-the-fog-fall.json) |
 | The Fool | 302676 | [302676-the-fool.json](./302676-the-fool.json) |
@@ -3826,8 +3827,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial Xtreme 3 | 117763 | [117763-trial-xtreme-3.json](./117763-trial-xtreme-3.json) |
 | Trial Xtreme 4 Remastered | 208035 | [208035-trial-xtreme-4-remastered.json](./208035-trial-xtreme-4-remastered.json) |
 | Trials 2 | 140577 | [140577-trials-2.json](./140577-trials-2.json) |
+| Trials Construction Yard | 305135 | [305135-trials-construction-yard.json](./305135-trials-construction-yard.json) |
 | Trials Evolution: Gold Edition | 20748 | [20748-trials-evolution-gold-edition.json](./20748-trials-evolution-gold-edition.json) |
 | Trials in Tainted Space | 128001 | [128001-trials-in-tainted-space.json](./128001-trials-in-tainted-space.json) |
+| Trials Mountain Heights | 305136 | [305136-trials-mountain-heights.json](./305136-trials-mountain-heights.json) |
 | Trials of Guinevere | 127611 | [127611-trials-of-guinevere.json](./127611-trials-of-guinevere.json) |
 | Trials of the Illuminati: Amazing Wildlife Jigsaws | 68201 | [68201-trials-of-the-illuminati-amazing-wildlife-jigsaws.json](./68201-trials-of-the-illuminati-amazing-wildlife-jigsaws.json) |
 | Trials of the Illuminati: Snack Time Jigsaw Puzzles | 109660 | [109660-trials-of-the-illuminati-snack-time-jigsaw-puzzles.json](./109660-trials-of-the-illuminati-snack-time-jigsaw-puzzles.json) |
