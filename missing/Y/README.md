@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Only Livez Twice | 124250 | [124250-you-only-livez-twice.json](./124250-you-only-livez-twice.json) |
 | You Should Eat Breakfast | 176515 | [176515-you-should-eat-breakfast.json](./176515-you-should-eat-breakfast.json) |
 | You Will Fall | 245000 | [245000-you-will-fall.json](./245000-you-will-fall.json) |
+| You Will Return | 307620 | [307620-you-will-return.json](./307620-you-will-return.json) |
 | You Will Select a Decision | 60015 | [60015-you-will-select-a-decision.json](./60015-you-will-select-a-decision.json) |
 | You, Me and Empty Words | 150153 | [150153-you-me-and-empty-words.json](./150153-you-me-and-empty-words.json) |
 | You... and who else? | 33098 | [33098-you-and-who-else.json](./33098-you-and-who-else.json) |
