@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Doom II | 298313 | [298313-pirate-doom-ii.json](./298313-pirate-doom-ii.json) |
 | Pirate Escape | 323506 | [323506-pirate-escape.json](./323506-pirate-escape.json) |
 | Pirate Fishing | 200173 | [200173-pirate-fishing.json](./200173-pirate-fishing.json) |
+| Pirate Hunter: Somali Trap | 309850 | [309850-pirate-hunter-somali-trap.json](./309850-pirate-hunter-somali-trap.json) |
 | Pirate Island Survival Simulator 3D | 351038 | [351038-pirate-island-survival-simulator-3d.json](./351038-pirate-island-survival-simulator-3d.json) |
 | Pirate Life | 395538 | [395538-pirate-life.json](./395538-pirate-life.json) |
 | Pirate Solitaire | 58844 | [58844-pirate-solitaire.json](./58844-pirate-solitaire.json) |
@@ -1415,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polda 7 | 205730 | [205730-polda-7.json](./205730-polda-7.json) |
 | Pole Position | 5691 | [5691-pole-position.json](./5691-pole-position.json) |
 | Polegli | 57115 | [57115-polegli.json](./57115-polegli.json) |
+| Police Atv Offroad | 309872 | [309872-police-atv-offroad.json](./309872-police-atv-offroad.json) |
 | Police Car SUV Simulator | 256563 | [256563-police-car-suv-simulator.json](./256563-police-car-suv-simulator.json) |
 | Police on Duty | 209656 | [209656-police-on-duty.json](./209656-police-on-duty.json) |
 | Police Patrol SImulator | 383394 | [383394-police-patrol-simulator.json](./383394-police-patrol-simulator.json) |
@@ -1445,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polybius Invaders | 173786 | [173786-polybius-invaders.json](./173786-polybius-invaders.json) |
 | Polybius Invaders 2 | 270948 | [270948-polybius-invaders-2.json](./270948-polybius-invaders-2.json) |
 | Polyblicy | 145019 | [145019-polyblicy.json](./145019-polyblicy.json) |
+| PolyDrift | 309878 | [309878-polydrift.json](./309878-polydrift.json) |
 | Polyfield WW2 | 102148 | [102148-polyfield-ww2.json](./102148-polyfield-ww2.json) |
 | Polygon Base | 274207 | [274207-polygon-base.json](./274207-polygon-base.json) |
 | Polygon Flight | 89572 | [89572-polygon-flight.json](./89572-polygon-flight.json) |
@@ -1928,6 +1931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Timi: Sasha's Curse | 204063 | [204063-project-timi-sashas-curse.json](./204063-project-timi-sashas-curse.json) |
 | Project Toon Tanks | 132249 | [132249-project-toon-tanks.json](./132249-project-toon-tanks.json) |
 | Project Treasure | 94761 | [94761-project-treasure.json](./94761-project-treasure.json) |
+| Project Unknown Designation | 309881 | [309881-project-unknown-designation.json](./309881-project-unknown-designation.json) |
 | Project Werewolf | 306099 | [306099-project-werewolf.json](./306099-project-werewolf.json) |
 | Project Windless | 389432 | [389432-project-windless.json](./389432-project-windless.json) |
 | Project Wingman | 56859 | [56859-project-wingman.json](./56859-project-wingman.json) |
