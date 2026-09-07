@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio Flyer | 264317 | [264317-radio-flyer.json](./264317-radio-flyer.json) |
 | Radio Viscera | 153438 | [153438-radio-viscera.json](./153438-radio-viscera.json) |
 | Radiometric Dating | 193461 | [193461-radiometric-dating.json](./193461-radiometric-dating.json) |
+| RadioWave | 301273 | [301273-radiowave.json](./301273-radiowave.json) |
 | Radish Kid Ascension | 180824 | [180824-radish-kid-ascension.json](./180824-radish-kid-ascension.json) |
 | Raef | 131588 | [131588-raef.json](./131588-raef.json) |
 | Raft Survival Evolve Simulator | 103521 | [103521-raft-survival-evolve-simulator.json](./103521-raft-survival-evolve-simulator.json) |
@@ -401,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm Hacker | 132271 | [132271-realm-hacker.json](./132271-realm-hacker.json) |
 | Realm of the hero | 156128 | [156128-realm-of-the-hero.json](./156128-realm-of-the-hero.json) |
 | Realm of Valor | 56503 | [56503-realm-of-valor.json](./56503-realm-of-valor.json) |
+| Realms of Alterra | 301275 | [301275-realms-of-alterra.json](./301275-realms-of-alterra.json) |
 | Realms of Despair | 127951 | [127951-realms-of-despair.json](./127951-realms-of-despair.json) |
 | Realms of Dr. Chaos | 268758 | [268758-realms-of-dr-chaos.json](./268758-realms-of-dr-chaos.json) |
 | Realms of Flow | 253591 | [253591-realms-of-flow.json](./253591-realms-of-flow.json) |
@@ -1511,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rougelight | 86094 | [86094-rougelight.json](./86094-rougelight.json) |
 | Rough Justice: '84 | 133154 | [133154-rough-justice-84.json](./133154-rough-justice-84.json) |
 | Roulette Knight | 178687 | [178687-roulette-knight.json](./178687-roulette-knight.json) |
+| Round My Corners | 301241 | [301241-round-my-corners.json](./301241-round-my-corners.json) |
 | Rounded Hills | 145654 | [145654-rounded-hills.json](./145654-rounded-hills.json) |
 | Rounders (Arena) | 98991 | [98991-rounders-arena.json](./98991-rounders-arena.json) |
 | RoundRick: Brick Breaker | 251201 | [251201-roundrick-brick-breaker.json](./251201-roundrick-brick-breaker.json) |
