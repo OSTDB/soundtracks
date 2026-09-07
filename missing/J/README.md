@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 5 | 3526 | [3526-jikkyou-pawafuru-puroyakyu-5.json](./3526-jikkyou-pawafuru-puroyakyu-5.json) |
 | Jill O' Lantern: Final Cut | 319360 | [319360-jill-o-lantern-final-cut.json](./319360-jill-o-lantern-final-cut.json) |
 | Jim & Dill II: Bobson’s Revenge | 313150 | [313150-jim-and-dill-ii-bobson-s-revenge.json](./313150-jim-and-dill-ii-bobson-s-revenge.json) |
+| Jim & Dill: The Legend of Weed N' Stiff | 299147 | [299147-jim-and-dill-the-legend-of-weed-n-stiff.json](./299147-jim-and-dill-the-legend-of-weed-n-stiff.json) |
 | Jim Henson's The Muppets | 49958 | [49958-jim-hensons-the-muppets.json](./49958-jim-hensons-the-muppets.json) |
 | Jim is Moving Out! | 120433 | [120433-jim-is-moving-out.json](./120433-jim-is-moving-out.json) |
 | Jim's Gym | 241056 | [241056-jims-gym.json](./241056-jims-gym.json) |
@@ -242,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jimmy Neutron: Boy Genius | 49291 | [49291-jimmy-neutron-boy-genius.json](./49291-jimmy-neutron-boy-genius.json) |
 | Jimmy's No. 44 House | 356668 | [356668-jimmys-no-44-house.json](./356668-jimmys-no-44-house.json) |
 | Jimmy's Soccer Manager | 77377 | [77377-jimmys-soccer-manager.json](./77377-jimmys-soccer-manager.json) |
+| JimmyQuest | 299146 | [299146-jimmyquest.json](./299146-jimmyquest.json) |
 | Jin & Jan | 318182 | [318182-jin-and-jan.json](./318182-jin-and-jan.json) |
 | Jinchou | 337480 | [337480-jinchou.json](./337480-jinchou.json) |
 | Jingle Cats | 63293 | [63293-jingle-cats.json](./63293-jingle-cats.json) |
