@@ -498,6 +498,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felix in the Factory | 13713 | [13713-felix-in-the-factory.json](./13713-felix-in-the-factory.json) |
 | Felix Jumpman | 29878 | [29878-felix-jumpman.json](./29878-felix-jumpman.json) |
 | Felix the Cat | 282575 | [282575-felix-the-cat.json](./282575-felix-the-cat.json) |
+| Felix the Cat: A Bomba-Relógio | 282585 | [282585-felix-the-cat-a-bomba-relogio.json](./282585-felix-the-cat-a-bomba-relogio.json) |
+| Felix the Cat: Contra os Inimigos | 282586 | [282586-felix-the-cat-contra-os-inimigos.json](./282586-felix-the-cat-contra-os-inimigos.json) |
 | Felon-E | 302356 | [302356-felon-e.json](./302356-felon-e.json) |
 | Felt That: Boxing | 347117 | [347117-felt-that-boxing.json](./347117-felt-that-boxing.json) |
 | Feltopia | 325282 | [325282-feltopia.json](./325282-feltopia.json) |
@@ -548,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FhaMazein | 109723 | [109723-fhamazein.json](./109723-fhamazein.json) |
 | Fibbage XL | 33374 | [33374-fibbage-xl.json](./33374-fibbage-xl.json) |
 | Fibble | 228714 | [228714-fibble.json](./228714-fibble.json) |
+| Fibbler.io | 282568 | [282568-fibbler-io.json](./282568-fibbler-io.json) |
 | Fiddlebert's Folly | 313476 | [313476-fiddleberts-folly.json](./313476-fiddleberts-folly.json) |
 | Fidelity | 116549 | [116549-fidelity.json](./116549-fidelity.json) |
 | Fideos | 329024 | [329024-fideos.json](./329024-fideos.json) |
