@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dad by the Sword | 218687 | [218687-dad-by-the-sword.json](./218687-dad-by-the-sword.json) |
 | Daddy Long Legs | 89289 | [89289-daddy-long-legs.json](./89289-daddy-long-legs.json) |
 | Dadish 3 | 199111 | [199111-dadish-3.json](./199111-dadish-3.json) |
+| Daedalus | 282003 | [282003-daedalus.json](./282003-daedalus.json) |
 | Daemon | 361679 | [361679-daemon.json](./361679-daemon.json) |
 | Daemon Bride: Additional Gain | 313486 | [313486-daemon-bride-additional-gain.json](./313486-daemon-bride-additional-gain.json) |
 | Daemon Summoner | 44628 | [44628-daemon-summoner.json](./44628-daemon-summoner.json) |
@@ -134,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Bounce | 26607 | [26607-danger-bounce.json](./26607-danger-bounce.json) |
 | Danger Close! | 76658 | [76658-danger-close.json](./76658-danger-close.json) |
 | Danger Course VR | 124231 | [124231-danger-course-vr.json](./124231-danger-course-vr.json) |
+| Danger Ramps | 282005 | [282005-danger-ramps.json](./282005-danger-ramps.json) |
 | Danger, Bob-omb! Danger!: Handle with Care | 322377 | [322377-danger-bob-omb-danger-handle-with-care.json](./322377-danger-bob-omb-danger-handle-with-care.json) |
 | Dangerous Blaster | 126617 | [126617-dangerous-blaster.json](./126617-dangerous-blaster.json) |
 | Dangerous Coins | 278706 | [278706-dangerous-coins.json](./278706-dangerous-coins.json) |
@@ -553,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Race | 8561 | [8561-death-race.json](./8561-death-race.json) |
 | Death Rally | 18121 | [18121-death-rally.json](./18121-death-rally.json) |
 | Death Remains | 333380 | [333380-death-remains.json](./333380-death-remains.json) |
+| Death ring | 282006 | [282006-death-ring.json](./282006-death-ring.json) |
 | Death Room | 75156 | [75156-death-room.json](./75156-death-room.json) |
 | Death Skid Marks | 17897 | [17897-death-skid-marks.json](./17897-death-skid-marks.json) |
 | Death Slave | 209698 | [209698-death-slave.json](./209698-death-slave.json) |
@@ -602,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Blue Sushi | 414377 | [414377-deep-blue-sushi.json](./414377-deep-blue-sushi.json) |
 | Deep Chalk Dive | 123613 | [123613-deep-chalk-dive.json](./123613-deep-chalk-dive.json) |
 | Deep Dark Forest | 151724 | [151724-deep-dark-forest.json](./151724-deep-dark-forest.json) |
+| Deep Dark Space | 282012 | [282012-deep-dark-space.json](./282012-deep-dark-space.json) |
 | Deep Dark Wrath: Frost Flower | 385573 | [385573-deep-dark-wrath-frost-flower.json](./385573-deep-dark-wrath-frost-flower.json) |
 | Deep Despair 3 | 320554 | [320554-deep-despair-3.json](./320554-deep-despair-3.json) |
 | Deep Dive | 403577 | [403577-deep-dive.json](./403577-deep-dive.json) |
@@ -688,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defying Heaven's Will | 183050 | [183050-defying-heavens-will.json](./183050-defying-heavens-will.json) |
 | Degenerate Souls | 159848 | [159848-degenerate-souls.json](./159848-degenerate-souls.json) |
 | Degeneration | 107891 | [107891-degeneration.json](./107891-degeneration.json) |
+| Degu Squad | 282007 | [282007-degu-squad.json](./282007-degu-squad.json) |
 | Deities Flush | 324113 | [324113-deities-flush.json](./324113-deities-flush.json) |
 | Deity's Domain | 306383 | [306383-deitys-domain.json](./306383-deitys-domain.json) |
 | Déjà Vu I | 310192 | [310192-deja-vu-i.json](./310192-deja-vu-i.json) |
@@ -818,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dennis og Bellini: Stridens Æble | 91451 | [91451-dennis-og-bellini-stridens-ble.json](./91451-dennis-og-bellini-stridens-ble.json) |
 | Denpa Ningen no RPG 2 | 221987 | [221987-denpa-ningen-no-rpg-2.json](./221987-denpa-ningen-no-rpg-2.json) |
 | Denpa Ningen no RPG 3 | 221988 | [221988-denpa-ningen-no-rpg-3.json](./221988-denpa-ningen-no-rpg-3.json) |
+| Dense forest | 282009 | [282009-dense-forest.json](./282009-dense-forest.json) |
 | Densetsu no Ogre Battle Gaiden: Zenobia no Ouji | 43975 | [43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json](./43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json) |
 | Densha de D: Burning Stage | 55923 | [55923-densha-de-d-burning-stage.json](./55923-densha-de-d-burning-stage.json) |
 | Densha de D: Climax Stage | 55920 | [55920-densha-de-d-climax-stage.json](./55920-densha-de-d-climax-stage.json) |
@@ -862,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descend.gg | 232661 | [232661-descend-gg.json](./232661-descend-gg.json) |
 | Descending: House of Nightmares | 171614 | [171614-descending-house-of-nightmares.json](./171614-descending-house-of-nightmares.json) |
 | Descension | 352183 | [352183-descension.json](./352183-descension.json) |
+| Descent | 282010 | [282010-descent.json](./282010-descent.json) |
 | Descent 3 | 667 | [667-descent-3.json](./667-descent-3.json) |
 | Descent Down Infinity | 411612 | [411612-descent-down-infinity.json](./411612-descent-down-infinity.json) |
 | Descent into Hades | 272017 | [272017-descent-into-hades.json](./272017-descent-into-hades.json) |
@@ -894,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Mark | 253589 | [253589-desktop-mark.json](./253589-desktop-mark.json) |
 | Desktop Pals | 306687 | [306687-desktop-pals.json](./306687-desktop-pals.json) |
 | Desktop Raid | 392137 | [392137-desktop-raid.json](./392137-desktop-raid.json) |
+| Desktop Tourney World | 282011 | [282011-desktop-tourney-world.json](./282011-desktop-tourney-world.json) |
 | Desktop Waifu | 377572 | [377572-desktop-waifu.json](./377572-desktop-waifu.json) |
 | Desktop Wooden Fish | 350405 | [350405-desktop-wooden-fish.json](./350405-desktop-wooden-fish.json) |
 | Desmond's Dungeon | 294474 | [294474-desmonds-dungeon.json](./294474-desmonds-dungeon.json) |
