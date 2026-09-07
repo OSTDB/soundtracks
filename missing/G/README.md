@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallery: Coloring book & decor | 322558 | [322558-gallery-coloring-book-and-decor.json](./322558-gallery-coloring-book-and-decor.json) |
 | Galletron | 13001 | [13001-galletron.json](./13001-galletron.json) |
 | Gallium | 314077 | [314077-gallium.json](./314077-gallium.json) |
+| Gallop Glory: Obstacle Racing & Horse Simulator | 300726 | [300726-gallop-glory-obstacle-racing-and-horse-simulator.json](./300726-gallop-glory-obstacle-racing-and-horse-simulator.json) |
 | Galvatia | 169474 | [169474-galvatia.json](./169474-galvatia.json) |
 | Gambit Maestro | 385586 | [385586-gambit-maestro.json](./385586-gambit-maestro.json) |
 | Gamble Fight Plus | 116783 | [116783-gamble-fight-plus.json](./116783-gamble-fight-plus.json) |
@@ -831,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goo Go | 304380 | [304380-goo-go.json](./304380-goo-go.json) |
 | Goo Saga | 57709 | [57709-goo-saga.json](./57709-goo-saga.json) |
 | Goo Saga: HD Edition | 31941 | [31941-goo-saga-hd-edition.json](./31941-goo-saga-hd-edition.json) |
+| Gooba Ball | 300696 | [300696-gooba-ball.json](./300696-gooba-ball.json) |
 | GooCubelets: OCD | 33068 | [33068-goocubelets-ocd.json](./33068-goocubelets-ocd.json) |
 | GooCubelets: The Void | 31961 | [31961-goocubelets-the-void.json](./31961-goocubelets-the-void.json) |
 | Good & Bad Driver | 302106 | [302106-good-and-bad-driver.json](./302106-good-and-bad-driver.json) |
