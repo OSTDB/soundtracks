@@ -1115,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Directed | 89253 | [89253-the-directed.json](./89253-the-directed.json) |
 | The Disappearance of the Mitchells | 134083 | [134083-the-disappearance-of-the-mitchells.json](./134083-the-disappearance-of-the-mitchells.json) |
 | The Dispatcher | 329003 | [329003-the-dispatcher.json](./329003-the-dispatcher.json) |
+| The Distortion Beast | 299141 | [299141-the-distortion-beast.json](./299141-the-distortion-beast.json) |
 | The Ditzy Demons Are in Love With Me | 109617 | [109617-the-ditzy-demons-are-in-love-with-me.json](./109617-the-ditzy-demons-are-in-love-with-me.json) |
 | The Dive | 166192 | [166192-the-dive.json](./166192-the-dive.json) |
 | The Divide | 190207 | [190207-the-divide.json](./190207-the-divide.json) |
@@ -2030,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Remote Outpost | 268726 | [268726-the-remote-outpost.json](./268726-the-remote-outpost.json) |
 | The Ren & Stimpy Show: Veediots! | 365695 | [365695-the-ren-and-stimpy-show-veediots.json](./365695-the-ren-and-stimpy-show-veediots.json) |
 | The Repossessor | 81338 | [81338-the-repossessor.json](./81338-the-repossessor.json) |
+| The Reshaping of Googol 1B: The Tower | 299157 | [299157-the-reshaping-of-googol-1b-the-tower.json](./299157-the-reshaping-of-googol-1b-the-tower.json) |
 | The Restless Dead | 87304 | [87304-the-restless-dead.json](./87304-the-restless-dead.json) |
 | The Restless Resort | 271987 | [271987-the-restless-resort.json](./271987-the-restless-resort.json) |
 | The Revanchist | 338722 | [338722-the-revanchist.json](./338722-the-revanchist.json) |
