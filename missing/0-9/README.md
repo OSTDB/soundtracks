@@ -300,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Balls 3D | 175991 | [175991-2048-balls-3d.json](./175991-2048-balls-3d.json) |
 | 2048 Battles | 124274 | [124274-2048-battles.json](./124274-2048-battles.json) |
 | 2048 Fusion | 308226 | [308226-2048-fusion.json](./308226-2048-fusion.json) |
+| 2048 Game With New Levels | 262361 | [262361-2048-game-with-new-levels.json](./262361-2048-game-with-new-levels.json) |
 | 2048 Maniac | 317633 | [317633-2048-maniac.json](./317633-2048-maniac.json) |
 | 2048 Royal Cards | 190740 | [190740-2048-royal-cards.json](./190740-2048-royal-cards.json) |
 | 2048: Dungeons | 292516 | [292516-2048-dungeons.json](./292516-2048-dungeons.json) |
