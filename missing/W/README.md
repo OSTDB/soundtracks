@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario Land 4: Burning Nightmares | 339250 | [339250-wario-land-4-burning-nightmares.json](./339250-wario-land-4-burning-nightmares.json) |
 | Wario Land: Shake It! | 1702 | [1702-wario-land-shake-it.json](./1702-wario-land-shake-it.json) |
 | Wario: Master of Disguise Trivia | 231649 | [231649-wario-master-of-disguise-trivia.json](./231649-wario-master-of-disguise-trivia.json) |
+| Wario's Hint Art | 300685 | [300685-warios-hint-art.json](./300685-warios-hint-art.json) |
 | WarioWare D.I.Y. | 1708 | [1708-warioware-d-i-y.json](./1708-warioware-d-i-y.json) |
 | WarioWare Mouse Workz! | 250046 | [250046-warioware-mouse-workz.json](./250046-warioware-mouse-workz.json) |
 | Warka Flarka Flim Flam | 29942 | [29942-warka-flarka-flim-flam.json](./29942-warka-flarka-flim-flam.json) |
@@ -492,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WheelTravel | 117039 | [117039-wheeltravel.json](./117039-wheeltravel.json) |
 | WheelTris | 250023 | [250023-wheeltris.json](./250023-wheeltris.json) |
 | When Dreams Wake | 398342 | [398342-when-dreams-wake.json](./398342-when-dreams-wake.json) |
+| When I Said "It's Ok To Be Cringe" I Didn't Mean Like That | 300677 | [300677-when-i-said-its-ok-to-be-cringe-i-didnt-mean-like-that.json](./300677-when-i-said-its-ok-to-be-cringe-i-didnt-mean-like-that.json) |
 | When I was a boycow | 178675 | [178675-when-i-was-a-boycow.json](./178675-when-i-was-a-boycow.json) |
 | When it Rains Red | 382211 | [382211-when-it-rains-red.json](./382211-when-it-rains-red.json) |
 | When Rivers Were Trails | 130405 | [130405-when-rivers-were-trails.json](./130405-when-rivers-were-trails.json) |
@@ -503,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When the Shutter Stops | 109713 | [109713-when-the-shutter-stops.json](./109713-when-the-shutter-stops.json) |
 | When The Snow is Gone | 383352 | [383352-when-the-snow-is-gone.json](./383352-when-the-snow-is-gone.json) |
 | When you're gone | 37192 | [37192-when-youre-gone.json](./37192-when-youre-gone.json) |
+| Where Are They? | 300688 | [300688-where-are-they.json](./300688-where-are-they.json) |
 | Where Birds Sleep | 136451 | [136451-where-birds-sleep.json](./136451-where-birds-sleep.json) |
 | Where in Space is Carmen Sandiego?: Deluxe Edition | 73309 | [73309-where-in-space-is-carmen-sandiego-deluxe-edition.json](./73309-where-in-space-is-carmen-sandiego-deluxe-edition.json) |
 | Where in Time is Carmen Sandiego? | 4376 | [4376-where-in-time-is-carmen-sandiego.json](./4376-where-in-time-is-carmen-sandiego.json) |
