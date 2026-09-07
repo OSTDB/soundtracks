@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game of Dwarves: Pets | 156166 | [156166-a-game-of-dwarves-pets.json](./156166-a-game-of-dwarves-pets.json) |
 | A Game of Turnabouts | 308544 | [308544-a-game-of-turnabouts.json](./308544-a-game-of-turnabouts.json) |
 | A Game's Tale | 298889 | [298889-a-games-tale.json](./298889-a-games-tale.json) |
+| A Gentlemen's Dispute | 311503 | [311503-a-gentlemens-dispute.json](./311503-a-gentlemens-dispute.json) |
 | A Girls Fabric Face | 29266 | [29266-a-girls-fabric-face.json](./29266-a-girls-fabric-face.json) |
 | A Glass Room | 144367 | [144367-a-glass-room.json](./144367-a-glass-room.json) |
 | A Good Gardener | 59423 | [59423-a-good-gardener.json](./59423-a-good-gardener.json) |
@@ -2357,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avis Rapida: Aerobatic Racing | 118384 | [118384-avis-rapida-aerobatic-racing.json](./118384-avis-rapida-aerobatic-racing.json) |
 | Avish! | 69863 | [69863-avish.json](./69863-avish.json) |
 | Avo Escape Space | 275882 | [275882-avo-escape-space.json](./275882-avo-escape-space.json) |
+| Avocado | 311499 | [311499-avocado.json](./311499-avocado.json) |
 | Avocado Puzzle Quest | 211414 | [211414-avocado-puzzle-quest.json](./211414-avocado-puzzle-quest.json) |
 | Avoid the Awful Thing that Vaguely Resembles a Banana!! | 69312 | [69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json](./69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json) |
 | Avoid the Monsters | 54450 | [54450-avoid-the-monsters.json](./54450-avoid-the-monsters.json) |
