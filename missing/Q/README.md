@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queue Simulator | 276715 | [276715-queue-simulator.json](./276715-queue-simulator.json) |
 | Queued | 256538 | [256538-queued.json](./256538-queued.json) |
 | Qui Veut Gagner Des Millions | 313505 | [313505-qui-veut-gagner-des-millions.json](./313505-qui-veut-gagner-des-millions.json) |
+| Quick Draw | 260150 | [260150-quick-draw.json](./260150-quick-draw.json) |
 | Quick Fire | 241046 | [241046-quick-fire.json](./241046-quick-fire.json) |
 | Quick Whiskers | 378183 | [378183-quick-whiskers.json](./378183-quick-whiskers.json) |
 | Quick, Draw! | 205795 | [205795-quick-draw.json](./205795-quick-draw.json) |
