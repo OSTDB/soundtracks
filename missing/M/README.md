@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machigai-sagashi Daisousasen | 271506 | [271506-machigai-sagashi-daisousasen.json](./271506-machigai-sagashi-daisousasen.json) |
 | Machina | 184624 | [184624-machina.json](./184624-machina.json) |
 | Machinarium | 264876 | [264876-machinarium.json](./264876-machinarium.json) |
+| Machine Challenger | 301254 | [301254-machine-challenger.json](./301254-machine-challenger.json) |
 | Machine Heart | 248897 | [248897-machine-heart.json](./248897-machine-heart.json) |
 | Machine Hell | 94256 | [94256-machine-hell.json](./94256-machine-hell.json) |
 | Machine Knight | 39006 | [39006-machine-knight.json](./39006-machine-knight.json) |
