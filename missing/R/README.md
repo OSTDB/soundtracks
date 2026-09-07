@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Winners: Victoryball | 109659 | [109659-real-winners-victoryball.json](./109659-real-winners-victoryball.json) |
 | Real World Golf 2007 | 23010 | [23010-real-world-golf-2007.json](./23010-real-world-golf-2007.json) |
 | Real-Time General | 251846 | [251846-real-time-general.json](./251846-real-time-general.json) |
+| RealDoom | 291986 | [291986-realdoom.json](./291986-realdoom.json) |
 | Reality | 226976 | [226976-reality.json](./226976-reality.json) |
 | Reality | 353297 | [353297-reality.json](./353297-reality.json) |
 | Reality Core | 309677 | [309677-reality-core.json](./309677-reality-core.json) |
@@ -435,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RebirthM | 174879 | [174879-rebirthm.json](./174879-rebirthm.json) |
 | Reboot | 171611 | [171611-reboot.json](./171611-reboot.json) |
 | ReBoot | 51953 | [51953-reboot.json](./51953-reboot.json) |
+| Reboot Heroes | 292020 | [292020-reboot-heroes.json](./292020-reboot-heroes.json) |
 | Reborn: Examine Again | 357812 | [357812-reborn-examine-again.json](./357812-reborn-examine-again.json) |
 | Rebuild 2 | 342030 | [342030-rebuild-2.json](./342030-rebuild-2.json) |
 | Rebungered!! That Time I Got Reincarnated As A Bunger! | 405474 | [405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json](./405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json) |
