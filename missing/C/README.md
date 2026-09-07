@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: World at War | 135297 | [135297-call-of-duty-world-at-war.json](./135297-call-of-duty-world-at-war.json) |
 | Call of Duty: World at War | 343822 | [343822-call-of-duty-world-at-war.json](./343822-call-of-duty-world-at-war.json) |
 | Call of Duty: World at War - Zombies | 89115 | [89115-call-of-duty-world-at-war-zombies.json](./89115-call-of-duty-world-at-war-zombies.json) |
+| Call of Farming | 259583 | [259583-call-of-farming.json](./259583-call-of-farming.json) |
 | Call of Farming: Together | 278741 | [278741-call-of-farming-together.json](./278741-call-of-farming-together.json) |
 | Call of Nature: Jigsaw Puzzle | 103531 | [103531-call-of-nature-jigsaw-puzzle.json](./103531-call-of-nature-jigsaw-puzzle.json) |
 | Call of the Apostate | 268766 | [268766-call-of-the-apostate.json](./268766-call-of-the-apostate.json) |
@@ -203,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannot Contain | 278711 | [278711-cannot-contain.json](./278711-cannot-contain.json) |
 | Canter Crossing | 276691 | [276691-canter-crossing.json](./276691-canter-crossing.json) |
 | Cantrip Cafe | 113692 | [113692-cantrip-cafe.json](./113692-cantrip-cafe.json) |
+| Canvas of Kings | 259576 | [259576-canvas-of-kings.json](./259576-canvas-of-kings.json) |
 | Canvas of Thoughts | 399590 | [399590-canvas-of-thoughts.json](./399590-canvas-of-thoughts.json) |
 | CanvasCraft | 332241 | [332241-canvascraft.json](./332241-canvascraft.json) |
 | Caparace | 383966 | [383966-caparace.json](./383966-caparace.json) |
@@ -697,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Trails | 322975 | [322975-celestial-trails.json](./322975-celestial-trails.json) |
 | Cell Command | 323507 | [323507-cell-command.json](./323507-cell-command.json) |
 | Cell of Empireo | 175966 | [175966-cell-of-empireo.json](./175966-cell-of-empireo.json) |
+| Cell to Singularity: Evolution | 259562 | [259562-cell-to-singularity-evolution.json](./259562-cell-to-singularity-evolution.json) |
 | Cellbreak | 383956 | [383956-cellbreak.json](./383956-cellbreak.json) |
 | Celldom Classic | 404823 | [404823-celldom-classic.json](./404823-celldom-classic.json) |
 | Cellings | 190202 | [190202-cellings.json](./190202-cellings.json) |
@@ -1880,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookies Cookies Cookies | 205243 | [205243-cookies-cookies-cookies.json](./205243-cookies-cookies-cookies.json) |
 | Cookies Inc. | 243980 | [243980-cookies-inc.json](./243980-cookies-inc.json) |
 | Cooking | 314874 | [314874-cooking.json](./314874-cooking.json) |
+| Cooking Arena | 259586 | [259586-cooking-arena.json](./259586-cooking-arena.json) |
 | Cooking Arena: 3 in 1 Edition | 283176 | [283176-cooking-arena-3-in-1-edition.json](./283176-cooking-arena-3-in-1-edition.json) |
 | Cooking Arena: 9 in 1 Edition | 275892 | [275892-cooking-arena-9-in-1-edition.json](./275892-cooking-arena-9-in-1-edition.json) |
 | Cooking Arena: Sushi Master | 308810 | [308810-cooking-arena-sushi-master.json](./308810-cooking-arena-sushi-master.json) |
@@ -2047,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countdown to Meltdown | 12947 | [12947-countdown-to-meltdown.json](./12947-countdown-to-meltdown.json) |
 | Counter Attack | 279009 | [279009-counter-attack.json](./279009-counter-attack.json) |
 | Counter Crossline: Crime War | 219304 | [219304-counter-crossline-crime-war.json](./219304-counter-crossline-crime-war.json) |
+| Counter Delta 2: Eastern Crisis | 259574 | [259574-counter-delta-2-eastern-crisis.json](./259574-counter-delta-2-eastern-crisis.json) |
 | Counter Ops: Blackout Assault | 269036 | [269036-counter-ops-blackout-assault.json](./269036-counter-ops-blackout-assault.json) |
 | Counter Snipe | 265672 | [265672-counter-snipe.json](./265672-counter-snipe.json) |
 | Counter-Strike Techno: Zombies | 332267 | [332267-counter-strike-techno-zombies.json](./332267-counter-strike-techno-zombies.json) |
