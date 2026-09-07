@@ -1124,4 +1124,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyjah Huston: #Skatelife | 105907 | [105907-nyjah-huston-skatelife.json](./105907-nyjah-huston-skatelife.json) |
 | Nykra | 102195 | [102195-nykra.json](./102195-nykra.json) |
 | Nykrig | 184646 | [184646-nykrig.json](./184646-nykrig.json) |
+| NYT Games | 280218 | [280218-nyt-games.json](./280218-nyt-games.json) |
 | NYZD | 291442 | [291442-nyzd.json](./291442-nyzd.json) |
