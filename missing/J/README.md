@@ -350,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to Whale Fall | 338740 | [338740-journey-to-whale-fall.json](./338740-journey-to-whale-fall.json) |
 | Joust | 278128 | [278128-joust.json](./278128-joust.json) |
 | Joust Legend | 60567 | [60567-joust-legend.json](./60567-joust-legend.json) |
+| Joust X | 297469 | [297469-joust-x.json](./297469-joust-x.json) |
 | Joustaposition | 181371 | [181371-joustaposition.json](./181371-joustaposition.json) |
 | Joustish | 251193 | [251193-joustish.json](./251193-joustish.json) |
 | JoustMania | 119743 | [119743-joustmania.json](./119743-joustmania.json) |
@@ -446,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Shadow | 374082 | [374082-jungle-shadow.json](./374082-jungle-shadow.json) |
 | Jungle Taitei | 353329 | [353329-jungle-taitei.json](./353329-jungle-taitei.json) |
 | Jungle Wars | 138828 | [138828-jungle-wars.json](./138828-jungle-wars.json) |
+| Jungler | 297490 | [297490-jungler.json](./297490-jungler.json) |
 | Junglex | 115616 | [115616-junglex.json](./115616-junglex.json) |
 | Junior Fitness Trainer | 268182 | [268182-junior-fitness-trainer.json](./268182-junior-fitness-trainer.json) |
 | Junior's Revenge | 78039 | [78039-juniors-revenge.json](./78039-juniors-revenge.json) |
