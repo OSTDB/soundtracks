@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takeda Shingen | 81334 | [81334-takeda-shingen.json](./81334-takeda-shingen.json) |
 | Takemiya Masaki Kudan no Igo Taishou | 37794 | [37794-takemiya-masaki-kudan-no-igo-taishou.json](./37794-takemiya-masaki-kudan-no-igo-taishou.json) |
 | Taken Souls: Blood Ritual | 139427 | [139427-taken-souls-blood-ritual.json](./139427-taken-souls-blood-ritual.json) |
+| Takeout | 306368 | [306368-takeout.json](./306368-takeout.json) |
 | Takeout food | 107902 | [107902-takeout-food.json](./107902-takeout-food.json) |
 | Takeover Trail | 395577 | [395577-takeover-trail.json](./395577-takeover-trail.json) |
 | Tako no Himitsu: Ocean of Secrets | 250031 | [250031-tako-no-himitsu-ocean-of-secrets.json](./250031-tako-no-himitsu-ocean-of-secrets.json) |
@@ -885,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bridge | 352753 | [352753-the-bridge.json](./352753-the-bridge.json) |
 | The BridgeMaster | 169445 | [169445-the-bridgemaster.json](./169445-the-bridgemaster.json) |
 | The Brutalist Volumes | 275316 | [275316-the-brutalist-volumes.json](./275316-the-brutalist-volumes.json) |
+| The Bucketlist Tourist | 306357 | [306357-the-bucketlist-tourist.json](./306357-the-bucketlist-tourist.json) |
 | The Bugger! | 258222 | [258222-the-bugger.json](./258222-the-bugger.json) |
 | The Bugs Bunny Birthday Blowout | 2719 | [2719-the-bugs-bunny-birthday-blowout.json](./2719-the-bugs-bunny-birthday-blowout.json) |
 | The Bugs Bunny Crazy Castle | 153450 | [153450-the-bugs-bunny-crazy-castle.json](./153450-the-bugs-bunny-crazy-castle.json) |
@@ -2951,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Flight | 60550 | [60550-time-flight.json](./60550-time-flight.json) |
 | Time for Teletubbies | 326581 | [326581-time-for-teletubbies.json](./326581-time-for-teletubbies.json) |
 | Time Gentlemen, Please! and Ben There, Dan That! Special Edition Double Pack | 27846 | [27846-time-gentlemen-please-and-ben-there-dan-that-special-edition-double-pack.json](./27846-time-gentlemen-please-and-ben-there-dan-that-special-edition-double-pack.json) |
+| Time is Life | 306345 | [306345-time-is-life.json](./306345-time-is-life.json) |
 | Time is Solid Here | 197960 | [197960-time-is-solid-here.json](./197960-time-is-solid-here.json) |
 | Time Killers | 8939 | [8939-time-killers.json](./8939-time-killers.json) |
 | Time Loader: First Memories | 166211 | [166211-time-loader-first-memories.json](./166211-time-loader-first-memories.json) |
@@ -3165,6 +3168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Yamanote Boys Super Mint Disc | 221953 | [221953-tokyo-yamanote-boys-super-mint-disc.json](./221953-tokyo-yamanote-boys-super-mint-disc.json) |
 | Tokyo Yamanote Boys Sweet Jelly Beans Disc | 221960 | [221960-tokyo-yamanote-boys-sweet-jelly-beans-disc.json](./221960-tokyo-yamanote-boys-sweet-jelly-beans-disc.json) |
 | Told God-The Legacy of Cthulhu | 100813 | [100813-told-god-the-legacy-of-cthulhu.json](./100813-told-god-the-legacy-of-cthulhu.json) |
+| Told God: The Legacy of Cthulhu | 306363 | [306363-told-god-the-legacy-of-cthulhu.json](./306363-told-god-the-legacy-of-cthulhu.json) |
 | Toll Booth Simulator | 357260 | [357260-toll-booth-simulator.json](./357260-toll-booth-simulator.json) |
 | Tollway Tycoon | 400258 | [400258-tollway-tycoon.json](./400258-tollway-tycoon.json) |
 | Tom & Jerry MMO | 79312 | [79312-tom-and-jerry-mmo.json](./79312-tom-and-jerry-mmo.json) |
@@ -3527,6 +3531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tractage aux Portes 2: Mob a la Cafeteria | 120979 | [120979-tractage-aux-portes-2-mob-a-la-cafeteria.json](./120979-tractage-aux-portes-2-mob-a-la-cafeteria.json) |
 | Tractor Farmer | 86710 | [86710-tractor-farmer.json](./86710-tractor-farmer.json) |
 | Tractor Journey | 223154 | [223154-tractor-journey.json](./223154-tractor-journey.json) |
+| Trade And Fight | 306366 | [306366-trade-and-fight.json](./306366-trade-and-fight.json) |
 | Trade City | 257683 | [257683-trade-city.json](./257683-trade-city.json) |
 | Trade Sails | 200718 | [200718-trade-sails.json](./200718-trade-sails.json) |
 | Trader of the Night | 219258 | [219258-trader-of-the-night.json](./219258-trader-of-the-night.json) |
@@ -3807,6 +3812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trenches Generals | 85521 | [85521-trenches-generals.json](./85521-trenches-generals.json) |
 | Trespasser 2 | 204111 | [204111-trespasser-2.json](./204111-trespasser-2.json) |
 | Tresure Hunter | 278673 | [278673-tresure-hunter.json](./278673-tresure-hunter.json) |
+| TRex Hero | 306381 | [306381-trex-hero.json](./306381-trex-hero.json) |
 | Tri Focuser: Outside the Traditional World | 246673 | [246673-tri-focuser-outside-the-traditional-world.json](./246673-tri-focuser-outside-the-traditional-world.json) |
 | Tri-Ger | 377580 | [377580-tri-ger.json](./377580-tri-ger.json) |
 | Tri-Peaks Solitaire HD | 355005 | [355005-tri-peaks-solitaire-hd.json](./355005-tri-peaks-solitaire-hd.json) |
