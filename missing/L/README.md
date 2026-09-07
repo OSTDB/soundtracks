@@ -953,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loophole | 350443 | [350443-loophole.json](./350443-loophole.json) |
 | LoopiaLike | 394203 | [394203-loopialike.json](./394203-loopialike.json) |
 | Looplash | 400209 | [400209-looplash.json](./400209-looplash.json) |
+| Loopover | 311987 | [311987-loopover.json](./311987-loopover.json) |
 | Loopquarium | 410915 | [410915-loopquarium.json](./410915-loopquarium.json) |
 | Loopy Ball | 239290 | [239290-loopy-ball.json](./239290-loopy-ball.json) |
 | Loopy Blocks | 254151 | [254151-loopy-blocks.json](./254151-loopy-blocks.json) |
