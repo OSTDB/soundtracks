@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Eldoria | 333541 | [333541-echoes-of-eldoria.json](./333541-echoes-of-eldoria.json) |
 | Echoes of Forgotten Dreams | 340234 | [340234-echoes-of-forgotten-dreams.json](./340234-echoes-of-forgotten-dreams.json) |
 | Echoes of Magic | 194024 | [194024-echoes-of-magic.json](./194024-echoes-of-magic.json) |
+| Echoes of Nocturnal Chords | 284335 | [284335-echoes-of-nocturnal-chords.json](./284335-echoes-of-nocturnal-chords.json) |
 | Echoes of Sin: Confusion | 400239 | [400239-echoes-of-sin-confusion.json](./400239-echoes-of-sin-confusion.json) |
 | Echoes of the Fey: The Last Sacrament | 102346 | [102346-echoes-of-the-fey-the-last-sacrament.json](./102346-echoes-of-the-fey-the-last-sacrament.json) |
 | Echoes of the Hive | 373523 | [373523-echoes-of-the-hive.json](./373523-echoes-of-the-hive.json) |
@@ -798,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Dungeon | 140589 | [140589-eternal-dungeon.json](./140589-eternal-dungeon.json) |
 | Eternal Fate: A Journey Begins | 298340 | [298340-eternal-fate-a-journey-begins.json](./298340-eternal-fate-a-journey-begins.json) |
 | Eternal Guardian Rubine: The First Fight | 336552 | [336552-eternal-guardian-rubine-the-first-fight.json](./336552-eternal-guardian-rubine-the-first-fight.json) |
+| Eternal Liiivie: EP1 Liiivie - Isolated From the World | 284348 | [284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json](./284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json) |
 | Eternal Man: Jump | 99605 | [99605-eternal-man-jump.json](./99605-eternal-man-jump.json) |
 | Eternal Mansion | 323743 | [323743-eternal-mansion.json](./323743-eternal-mansion.json) |
 | Eternal Night Town | 339802 | [339802-eternal-night-town.json](./339802-eternal-night-town.json) |
