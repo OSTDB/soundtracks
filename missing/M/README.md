@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Moving Boxes | 376447 | [376447-maid-moving-boxes.json](./376447-maid-moving-boxes.json) |
 | Maid-Sama Cafe: Anime Girls Services in Cute Outfits | 396913 | [396913-maid-sama-cafe-anime-girls-services-in-cute-outfits.json](./396913-maid-sama-cafe-anime-girls-services-in-cute-outfits.json) |
 | Maid-san wo Migi ni Mi | 111051 | [111051-maid-san-wo-migi-ni-mi.json](./111051-maid-san-wo-migi-ni-mi.json) |
+| Maiden Voyage | 299770 | [299770-maiden-voyage.json](./299770-maiden-voyage.json) |
 | Maigo no Koneko-chan | 276472 | [276472-maigo-no-koneko-chan.json](./276472-maigo-no-koneko-chan.json) |
 | Mail Mole + Expansions Bundle | 238186 | [238186-mail-mole-expansions-bundle.json](./238186-mail-mole-expansions-bundle.json) |
 | Mailbag Mayhem | 62191 | [62191-mailbag-mayhem.json](./62191-mailbag-mayhem.json) |
@@ -407,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MapleStory | 9804 | [9804-maplestory.json](./9804-maplestory.json) |
 | MapleStory Classic | 411557 | [411557-maplestory-classic.json](./411557-maplestory-classic.json) |
 | MapleStory DS | 79942 | [79942-maplestory-ds.json](./79942-maplestory-ds.json) |
+| MapleStory Mayple Island | 299749 | [299749-maplestory-mayple-island.json](./299749-maplestory-mayple-island.json) |
 | MapleStory: Unmei no Shoujo | 130368 | [130368-maplestory-unmei-no-shoujo.json](./130368-maplestory-unmei-no-shoujo.json) |
 | Maplewood Junior High 2 | 310956 | [310956-maplewood-junior-high-2.json](./310956-maplewood-junior-high-2.json) |
 | Maplewood Junior High: Multimedia Rocks | 310953 | [310953-maplewood-junior-high-multimedia-rocks.json](./310953-maplewood-junior-high-multimedia-rocks.json) |
@@ -1117,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men in Black II: Alien Escape | 4003 | [4003-men-in-black-ii-alien-escape.json](./4003-men-in-black-ii-alien-escape.json) |
 | Menace | 262664 | [262664-menace.json](./262664-menace.json) |
 | Menagerie I: Exoptable Money | 223664 | [223664-menagerie-i-exoptable-money.json](./223664-menagerie-i-exoptable-money.json) |
+| Mencabrona | 299724 | [299724-mencabrona.json](./299724-mencabrona.json) |
 | Mendel Palace | 48052 | [48052-mendel-palace.json](./48052-mendel-palace.json) |
 | Méng Chǒng Xīyóu | 367432 | [367432-meng-chong-xiyou.json](./367432-meng-chong-xiyou.json) |
 | MenheRafflesia | 131584 | [131584-menherafflesia.json](./131584-menherafflesia.json) |
