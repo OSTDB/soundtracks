@@ -641,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
 | Celestial Fragments | 396219 | [396219-celestial-fragments.json](./396219-celestial-fragments.json) |
 | Celestial Heights | 180820 | [180820-celestial-heights.json](./180820-celestial-heights.json) |
+| Celestial Rune Consortium: Shadows of Ascension | 293627 | [293627-celestial-rune-consortium-shadows-of-ascension.json](./293627-celestial-rune-consortium-shadows-of-ascension.json) |
 | Celestial Temple | 402888 | [402888-celestial-temple.json](./402888-celestial-temple.json) |
 | Celestial Trails | 322975 | [322975-celestial-trails.json](./322975-celestial-trails.json) |
 | Cell Command | 323507 | [323507-cell-command.json](./323507-cell-command.json) |
@@ -1285,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closed Circuit | 254175 | [254175-closed-circuit.json](./254175-closed-circuit.json) |
 | Closer Than You Know | 199654 | [199654-closer-than-you-know.json](./199654-closer-than-you-know.json) |
 | CloserLook VR: Oldways | 325838 | [325838-closerlook-vr-oldways.json](./325838-closerlook-vr-oldways.json) |
+| Clostrophobia: Vol 1 | 293650 | [293650-clostrophobia-vol-1.json](./293650-clostrophobia-vol-1.json) |
 | Closure | 8146 | [8146-closure.json](./8146-closure.json) |
 | Cloud Castle | 275874 | [275874-cloud-castle.json](./275874-cloud-castle.json) |
 | Cloud Escape | 183612 | [183612-cloud-escape.json](./183612-cloud-escape.json) |
@@ -1671,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest of the World | 47293 | [47293-conquest-of-the-world.json](./47293-conquest-of-the-world.json) |
 | Conquista: Tide of Wills | 415116 | [415116-conquista-tide-of-wills.json](./415116-conquista-tide-of-wills.json) |
 | Conscript: Deluxe Edition | 308797 | [308797-conscript-deluxe-edition.json](./308797-conscript-deluxe-edition.json) |
+| Considerable Grandfather | 293643 | [293643-considerable-grandfather.json](./293643-considerable-grandfather.json) |
 | Considerable Grandfather: It Followed Me Home | 408784 | [408784-considerable-grandfather-it-followed-me-home.json](./408784-considerable-grandfather-it-followed-me-home.json) |
 | Console Archives: T.R.A.G. - Tactical Rescue Assault Group: Mission of Mercy | 408738 | [408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json](./408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json) |
 | Console Colour: Disney's Planes | 407308 | [407308-console-colour-disneys-planes.json](./407308-console-colour-disneys-planes.json) |
