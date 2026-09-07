@@ -4791,6 +4791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Cafe | 239881 | [239881-sweet-cafe.json](./239881-sweet-cafe.json) |
 | Sweet Camping | 368521 | [368521-sweet-camping.json](./368521-sweet-camping.json) |
 | Sweet Clown: Gozen San-ji no Okashi na Doukeshi | 59989 | [59989-sweet-clown-gozen-san-ji-no-okashi-na-doukeshi.json](./59989-sweet-clown-gozen-san-ji-no-okashi-na-doukeshi.json) |
+| Sweet Dreams Alex: Full Moon Edition | 273931 | [273931-sweet-dreams-alex-full-moon-edition.json](./273931-sweet-dreams-alex-full-moon-edition.json) |
 | Sweet Dreams on Christmas Eve | 334697 | [334697-sweet-dreams-on-christmas-eve.json](./334697-sweet-dreams-on-christmas-eve.json) |
 | Sweet Driver | 372484 | [372484-sweet-driver.json](./372484-sweet-driver.json) |
 | Sweet Idol | 371243 | [371243-sweet-idol.json](./371243-sweet-idol.json) |
