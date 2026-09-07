@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find All 5: Vikings | 317026 | [317026-find-all-5-vikings.json](./317026-find-all-5-vikings.json) |
 | Find All: Bunker - Extra Level | 345512 | [345512-find-all-bunker-extra-level.json](./345512-find-all-bunker-extra-level.json) |
 | Find All: Valentine's Day | 388766 | [388766-find-all-valentines-day.json](./388766-find-all-valentines-day.json) |
+| Find Cats | 289895 | [289895-find-cats.json](./289895-find-cats.json) |
 | Find El Chupacabra | 359393 | [359393-find-el-chupacabra.json](./359393-find-el-chupacabra.json) |
 | Find HQ: Police Station | 331123 | [331123-find-hq-police-station.json](./331123-find-hq-police-station.json) |
 | Find Kittens 8: Happy New Year | 379381 | [379381-find-kittens-8-happy-new-year.json](./379381-find-kittens-8-happy-new-year.json) |
@@ -932,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flag Defense | 213012 | [213012-flag-defense.json](./213012-flag-defense.json) |
 | Flag N Frag | 33157 | [33157-flag-n-frag.json](./33157-flag-n-frag.json) |
 | Flag Trivia Quiz: Four Choices! | 378803 | [378803-flag-trivia-quiz-four-choices.json](./378803-flag-trivia-quiz-four-choices.json) |
+| Flagdashers | 289871 | [289871-flagdashers.json](./289871-flagdashers.json) |
 | Flagdoku | 333550 | [333550-flagdoku.json](./333550-flagdoku.json) |
 | Flaghead | 400219 | [400219-flaghead.json](./400219-flaghead.json) |
 | Flain: Tao force & Cubes | 153433 | [153433-flain-tao-force-and-cubes.json](./153433-flain-tao-force-and-cubes.json) |
