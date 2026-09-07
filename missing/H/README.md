@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Feet | 3940 | [3940-happy-feet.json](./3940-happy-feet.json) |
 | Happy Fox | 89280 | [89280-happy-fox.json](./89280-happy-fox.json) |
 | Happy Furry Restaurant | 340411 | [340411-happy-furry-restaurant.json](./340411-happy-furry-restaurant.json) |
+| Happy Game/Pilgrims | 267959 | [267959-happy-game-pilgrims.json](./267959-happy-game-pilgrims.json) |
 | Happy Grumps | 121000 | [121000-happy-grumps.json](./121000-happy-grumps.json) |
 | Happy Hangover | 272005 | [272005-happy-hangover.json](./272005-happy-hangover.json) |
 | Happy Hike | 336557 | [336557-happy-hike.json](./336557-happy-hike.json) |
@@ -604,6 +605,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell's Descent | 318764 | [318764-hells-descent.json](./318764-hells-descent.json) |
 | Hell's New World | 217513 | [217513-hells-new-world.json](./217513-hells-new-world.json) |
 | Hellblusser | 162410 | [162410-hellblusser.json](./162410-hellblusser.json) |
+| Helldivers II: Super Citizen Edition | 267925 | [267925-helldivers-ii-super-citizen-edition.json](./267925-helldivers-ii-super-citizen-edition.json) |
+| Helldivers: A New Hell | 267932 | [267932-helldivers-a-new-hell.json](./267932-helldivers-a-new-hell.json) |
+| Helldivers: Dive Harder | 267938 | [267938-helldivers-dive-harder.json](./267938-helldivers-dive-harder.json) |
 | Hellen's Gallery | 269290 | [269290-hellens-gallery.json](./269290-hellens-gallery.json) |
 | HellEscape | 215349 | [215349-hellescape.json](./215349-hellescape.json) |
 | Hellevator | 150120 | [150120-hellevator.json](./150120-hellevator.json) |
