@@ -1156,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allegro Molto wo Hakobu Game | 339094 | [339094-allegro-molto-wo-hakobu-game.json](./339094-allegro-molto-wo-hakobu-game.json) |
 | Alley Master | 40243 | [40243-alley-master.json](./40243-alley-master.json) |
 | Alleykat | 28850 | [28850-alleykat.json](./28850-alleykat.json) |
+| Allez Raconte | 269548 | [269548-allez-raconte.json](./269548-allez-raconte.json) |
 | AllFive Classic | 307277 | [307277-allfive-classic.json](./307277-allfive-classic.json) |
 | AllFive XP | 307280 | [307280-allfive-xp.json](./307280-allfive-xp.json) |
 | Alliance at War | 193992 | [193992-alliance-at-war.json](./193992-alliance-at-war.json) |
@@ -1355,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anagrammatic | 323710 | [323710-anagrammatic.json](./323710-anagrammatic.json) |
 | Anagramme Duel | 96037 | [96037-anagramme-duel.json](./96037-anagramme-duel.json) |
 | Analistica Academy | 89937 | [89937-analistica-academy.json](./89937-analistica-academy.json) |
+| Anan Kanshuu: Onna-jikara Kinkyuu Up! DS | 269549 | [269549-anan-kanshuu-onna-jikara-kinkyuu-up-ds.json](./269549-anan-kanshuu-onna-jikara-kinkyuu-up-ds.json) |
 | Ananse and the Pot of Wisdom | 251827 | [251827-ananse-and-the-pot-of-wisdom.json](./251827-ananse-and-the-pot-of-wisdom.json) |
 | Anarchy | 201298 | [201298-anarchy.json](./201298-anarchy.json) |
 | Anarchy City 1: Atomic Version | 272002 | [272002-anarchy-city-1-atomic-version.json](./272002-anarchy-city-1-atomic-version.json) |
@@ -1365,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anarchy Zone | 15595 | [15595-anarchy-zone.json](./15595-anarchy-zone.json) |
 | Anarchy: Rush Hour | 44602 | [44602-anarchy-rush-hour.json](./44602-anarchy-rush-hour.json) |
 | AnarchyField: Infinite Euphoric Level Destruction | 273639 | [273639-anarchyfield-infinite-euphoric-level-destruction.json](./273639-anarchyfield-infinite-euphoric-level-destruction.json) |
+| Anata dake no Private Lesson: DS de Hajimeru Tipness no Yoga | 269550 | [269550-anata-dake-no-private-lesson-ds-de-hajimeru-tipness-no-yoga.json](./269550-anata-dake-no-private-lesson-ds-de-hajimeru-tipness-no-yoga.json) |
 | Ancestors Legacy: Special Edition | 124820 | [124820-ancestors-legacy-special-edition.json](./124820-ancestors-legacy-special-edition.json) |
 | Ancestral | 318397 | [318397-ancestral.json](./318397-ancestral.json) |
 | Anchor-13 | 408047 | [408047-anchor-13.json](./408047-anchor-13.json) |
@@ -1481,6 +1484,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Falling | 293089 | [293089-animal-falling.json](./293089-animal-falling.json) |
 | Animal Farm Jigsaw Games for Toddlers, Babys and Kids | 295265 | [295265-animal-farm-jigsaw-games-for-toddlers-babys-and-kids.json](./295265-animal-farm-jigsaw-games-for-toddlers-babys-and-kids.json) |
 | Animal Farm Parking: Extended Edition | 283156 | [283156-animal-farm-parking-extended-edition.json](./283156-animal-farm-parking-extended-edition.json) |
+| Animal Life: Dinosaurs | 269552 | [269552-animal-life-dinosaurs.json](./269552-animal-life-dinosaurs.json) |
+| Animal Life: Eurasia | 269553 | [269553-animal-life-eurasia.json](./269553-animal-life-eurasia.json) |
+| Animal Life: North America | 269554 | [269554-animal-life-north-america.json](./269554-animal-life-north-america.json) |
 | Animal Planet: Vet Life | 50635 | [50635-animal-planet-vet-life.json](./50635-animal-planet-vet-life.json) |
 | Animal Planner | 254767 | [254767-animal-planner.json](./254767-animal-planner.json) |
 | Animal Puzzle Cats | 225892 | [225892-animal-puzzle-cats.json](./225892-animal-puzzle-cats.json) |
@@ -1500,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Well | 191435 | [191435-animal-well.json](./191435-animal-well.json) |
 | Animal Wine Factory | 212497 | [212497-animal-wine-factory.json](./212497-animal-wine-factory.json) |
 | Animal Workforce: Idle Tycoon Clicker | 369583 | [369583-animal-workforce-idle-tycoon-clicker.json](./369583-animal-workforce-idle-tycoon-clicker.json) |
+| Animal World: Big Cats | 269555 | [269555-animal-world-big-cats.json](./269555-animal-world-big-cats.json) |
 | Animal Zodiac | 298880 | [298880-animal-zodiac.json](./298880-animal-zodiac.json) |
 | Animal Zoo: The Forgotten Land | 314879 | [314879-animal-zoo-the-forgotten-land.json](./314879-animal-zoo-the-forgotten-land.json) |
 | Animalia Survival | 167832 | [167832-animalia-survival.json](./167832-animalia-survival.json) |
@@ -1554,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anjail! | 407307 | [407307-anjail.json](./407307-anjail.json) |
 | Ankh 3: Battle of the Gods | 25466 | [25466-ankh-3-battle-of-the-gods.json](./25466-ankh-3-battle-of-the-gods.json) |
 | Ankora: Lost Days | 108867 | [108867-ankora-lost-days.json](./108867-ankora-lost-days.json) |
+| Anna & die Liebe | 269557 | [269557-anna-and-die-liebe.json](./269557-anna-and-die-liebe.json) |
 | Anna: The Series Test | 156645 | [156645-anna-the-series-test.json](./156645-anna-the-series-test.json) |
 | Anna's Gram | 94252 | [94252-annas-gram.json](./94252-annas-gram.json) |
 | Anna's Quest | 11367 | [11367-annas-quest.json](./11367-annas-quest.json) |
@@ -2208,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asmik-kun World 2 | 7798 | [7798-asmik-kun-world-2.json](./7798-asmik-kun-world-2.json) |
 | ASMR Slicing | 254179 | [254179-asmr-slicing.json](./254179-asmr-slicing.json) |
 | Asobu Rakugaki | 72690 | [72690-asobu-rakugaki.json](./72690-asobu-rakugaki.json) |
+| Asonde Igo ga Sara ni Tsuyoku Naru: Ginsei Igo DS Chuukyuu-hen | 269558 | [269558-asonde-igo-ga-sara-ni-tsuyoku-naru-ginsei-igo-ds-chuukyuu-hen.json](./269558-asonde-igo-ga-sara-ni-tsuyoku-naru-ginsei-igo-ds-chuukyuu-hen.json) |
 | Asonde Poker ga Tsuyoku Naru! Texas Hold 'Em | 144998 | [144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json](./144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json) |
 | Aspectus: Rinascimento Chronicles | 35938 | [35938-aspectus-rinascimento-chronicles.json](./35938-aspectus-rinascimento-chronicles.json) |
 | Asphalt Dominion | 402305 | [402305-asphalt-dominion.json](./402305-asphalt-dominion.json) |
@@ -2279,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix & Obelix XXL 3: The Crystal Menhir - Collector's Edition | 166231 | [166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json](./166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json) |
 | Asterix & Obelix: Cesar's Challenge | 262663 | [262663-asterix-and-obelix-cesars-challenge.json](./262663-asterix-and-obelix-cesars-challenge.json) |
 | Astérix et la Potion Magique | 342056 | [342056-asterix-et-la-potion-magique.json](./342056-asterix-et-la-potion-magique.json) |
+| Astérix: These Romans Are Crazy! | 269567 | [269567-asterix-these-romans-are-crazy.json](./269567-asterix-these-romans-are-crazy.json) |
 | Astero Inc. | 176506 | [176506-astero-inc.json](./176506-astero-inc.json) |
 | Asteroad | 149089 | [149089-asteroad.json](./149089-asteroad.json) |
 | Asteroid Blockade | 359444 | [359444-asteroid-blockade.json](./359444-asteroid-blockade.json) |
@@ -2373,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At the Gates of Midian | 271496 | [271496-at-the-gates-of-midian.json](./271496-at-the-gates-of-midian.json) |
 | At the Heart of the Forest | 201303 | [201303-at-the-heart-of-the-forest.json](./201303-at-the-heart-of-the-forest.json) |
 | Atama Ikuto | 344367 | [344367-atama-ikuto.json](./344367-atama-ikuto.json) |
+| Atama no Kaiten no Training: Rubik's Cube & Chou Yuumei Puzzle Tachi | 269564 | [269564-atama-no-kaiten-no-training-rubiks-cube-and-chou-yuumei-puzzle-tachi.json](./269564-atama-no-kaiten-no-training-rubiks-cube-and-chou-yuumei-puzzle-tachi.json) |
 | Atari Classics: Evolved | 46023 | [46023-atari-classics-evolved.json](./46023-atari-classics-evolved.json) |
 | Atari Climber | 40769 | [40769-atari-climber.json](./40769-atari-climber.json) |
 | Atari Flashback 2+ | 277035 | [277035-atari-flashback-2.json](./277035-atari-flashback-2.json) |
