@@ -555,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 999Seconds!Survivors | 400259 | [400259-999seconds-survivors.json](./400259-999seconds-survivors.json) |
 | 9Lives Arena | 134027 | [134027-9lives-arena.json](./134027-9lives-arena.json) |
 | 9Shot | 301034 | [301034-9shot.json](./301034-9shot.json) |
+| 9th Sentinel Sisters | 266819 | [266819-9th-sentinel-sisters.json](./266819-9th-sentinel-sisters.json) |
 | Ānquán Jiàoyù | 102177 | [102177-anquan-jiaoyu.json](./102177-anquan-jiaoyu.json) |
 | Ànyán no Shénzú Ove: Fēng zhī Zhāng | 394202 | [394202-anyan-no-shenzu-ove-feng-zhi-zhang.json](./394202-anyan-no-shenzu-ove-feng-zhi-zhang.json) |
 | Ảo Mộng Tru Tiên | 380388 | [380388-ao-mong-tru-tien.json](./380388-ao-mong-tru-tien.json) |
