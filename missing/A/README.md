@@ -1051,9 +1051,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Aspect Warfare | 16065 | [16065-all-aspect-warfare.json](./16065-all-aspect-warfare.json) |
 | All City King | 293081 | [293081-all-city-king.json](./293081-all-city-king.json) |
 | All Doe's Life | 301283 | [301283-all-does-life.json](./301283-all-does-life.json) |
+| All Elite Wresting: Fight Forever - Giant Swing in the Ring | 287119 | [287119-all-elite-wresting-fight-forever-giant-swing-in-the-ring.json](./287119-all-elite-wresting-fight-forever-giant-swing-in-the-ring.json) |
 | All Elite Wrestling: Fight Forever - Elite Beats and Stampede Expansion | 301012 | [301012-all-elite-wrestling-fight-forever-elite-beats-and-stampede-expansion.json](./301012-all-elite-wrestling-fight-forever-elite-beats-and-stampede-expansion.json) |
+| All Elite Wrestling: Fight Forever - Freebie 4 da Fans | 287120 | [287120-all-elite-wrestling-fight-forever-freebie-4-da-fans.json](./287120-all-elite-wrestling-fight-forever-freebie-4-da-fans.json) |
+| All Elite Wrestling: Fight Forever - Hayter's Gunna Game | 287118 | [287118-all-elite-wrestling-fight-forever-hayters-gunna-game.json](./287118-all-elite-wrestling-fight-forever-hayters-gunna-game.json) |
 | All Elite Wrestling: Fight Forever - Rated Gold Superstar Pack | 301008 | [301008-all-elite-wrestling-fight-forever-rated-gold-superstar-pack.json](./301008-all-elite-wrestling-fight-forever-rated-gold-superstar-pack.json) |
+| All Elite Wrestling: Fight Forever - Season Pass 3 | 287121 | [287121-all-elite-wrestling-fight-forever-season-pass-3.json](./287121-all-elite-wrestling-fight-forever-season-pass-3.json) |
 | All Elite Wrestling: Fight Forever - Season Pass 4 | 301011 | [301011-all-elite-wrestling-fight-forever-season-pass-4.json](./301011-all-elite-wrestling-fight-forever-season-pass-4.json) |
+| All Elite Wrestling: Fight Forever - Swerve to the Beach | 287117 | [287117-all-elite-wrestling-fight-forever-swerve-to-the-beach.json](./287117-all-elite-wrestling-fight-forever-swerve-to-the-beach.json) |
 | All Elite Wrestling: Fight Forever - Switchblade Tournament Pack | 301009 | [301009-all-elite-wrestling-fight-forever-switchblade-tournament-pack.json](./301009-all-elite-wrestling-fight-forever-switchblade-tournament-pack.json) |
 | All Elite Wrestling: Fight Forever - World War Joe | 301010 | [301010-all-elite-wrestling-fight-forever-world-war-joe.json](./301010-all-elite-wrestling-fight-forever-world-war-joe.json) |
 | All For Nought: Tic Tac Toe | 155662 | [155662-all-for-nought-tic-tac-toe.json](./155662-all-for-nought-tic-tac-toe.json) |
@@ -1733,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Guttang Gottong | 271477 | [271477-arcade-archives-guttang-gottong.json](./271477-arcade-archives-guttang-gottong.json) |
 | Arcade Archives: Knuckle Heads | 314877 | [314877-arcade-archives-knuckle-heads.json](./314877-arcade-archives-knuckle-heads.json) |
 | Arcade Archives: Märchen Maze | 330745 | [330745-arcade-archives-marchen-maze.json](./330745-arcade-archives-marchen-maze.json) |
+| Arcade Archives: Master of Weapon | 287109 | [287109-arcade-archives-master-of-weapon.json](./287109-arcade-archives-master-of-weapon.json) |
 | Arcade Archives: Mazinger Z | 249490 | [249490-arcade-archives-mazinger-z.json](./249490-arcade-archives-mazinger-z.json) |
 | Arcade Archives: Metal Black | 225889 | [225889-arcade-archives-metal-black.json](./225889-arcade-archives-metal-black.json) |
 | Arcade Archives: Ordyne | 223153 | [223153-arcade-archives-ordyne.json](./223153-arcade-archives-ordyne.json) |
@@ -2101,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asian Dynamite | 39645 | [39645-asian-dynamite.json](./39645-asian-dynamite.json) |
 | Asian Truck Simulator | 214165 | [214165-asian-truck-simulator.json](./214165-asian-truck-simulator.json) |
 | Ask Gear Re:Boost | 325447 | [325447-ask-gear-re-boost.json](./325447-ask-gear-re-boost.json) |
+| Ask her out | 287096 | [287096-ask-her-out.json](./287096-ask-her-out.json) |
 | Ask Madame Clairvoya | 231628 | [231628-ask-madame-clairvoya.json](./231628-ask-madame-clairvoya.json) |
 | Aske | 165008 | [165008-aske.json](./165008-aske.json) |
 | Asleep | 201310 | [201310-asleep.json](./201310-asleep.json) |
@@ -2447,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalon Heroes | 63886 | [63886-avalon-heroes.json](./63886-avalon-heroes.json) |
 | Avalon: The Druids | 274229 | [274229-avalon-the-druids.json](./274229-avalon-the-druids.json) |
 | Avaria: Iron Rule | 399009 | [399009-avaria-iron-rule.json](./399009-avaria-iron-rule.json) |
+| Avatar 2 Way of Watter: Porn Game | 287101 | [287101-avatar-2-way-of-watter-porn-game.json](./287101-avatar-2-way-of-watter-porn-game.json) |
 | Avatar Farm! | 94737 | [94737-avatar-farm.json](./94737-avatar-farm.json) |
 | Avatar Ninja! | 94738 | [94738-avatar-ninja.json](./94738-avatar-ninja.json) |
 | Avatar: The Last Airbender | 210487 | [210487-avatar-the-last-airbender.json](./210487-avatar-the-last-airbender.json) |
