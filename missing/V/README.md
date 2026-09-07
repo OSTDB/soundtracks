@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | V Bomb | 318753 | [318753-v-bomb.json](./318753-v-bomb.json) |
 | V for Victory: Market Garden | 70965 | [70965-v-for-victory-market-garden.json](./70965-v-for-victory-market-garden.json) |
+| V Gate | 261790 | [261790-v-gate.json](./261790-v-gate.json) |
 | V Life | 395536 | [395536-v-life.json](./395536-v-life.json) |
 | V Lights | 216498 | [216498-v-lights.json](./216498-v-lights.json) |
 | V pod''ezde | 116844 | [116844-v-podezde.json](./116844-v-podezde.json) |
@@ -150,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vantage Master Portable | 196855 | [196855-vantage-master-portable.json](./196855-vantage-master-portable.json) |
 | vApe Escape | 115700 | [115700-vape-escape.json](./115700-vape-escape.json) |
 | Vapor Memories | 184122 | [184122-vapor-memories.json](./184122-vapor-memories.json) |
+| Vapor Tanks | 261786 | [261786-vapor-tanks.json](./261786-vapor-tanks.json) |
 | Vapour | 35849 | [35849-vapour.json](./35849-vapour.json) |
 | VarDragons | 57114 | [57114-vardragons.json](./57114-vardragons.json) |
 | Varenje: Don't Touch The Berries | 271501 | [271501-varenje-dont-touch-the-berries.json](./271501-varenje-dont-touch-the-berries.json) |
