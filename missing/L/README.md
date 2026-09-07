@@ -968,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Path | 250006 | [250006-lonely-path.json](./250006-lonely-path.json) |
 | Lonely Sun | 25266 | [25266-lonely-sun.json](./25266-lonely-sun.json) |
 | Lonely Trip | 83572 | [83572-lonely-trip.json](./83572-lonely-trip.json) |
+| Long | 292006 | [292006-long.json](./292006-long.json) |
 | Long Count | 126622 | [126622-long-count.json](./126622-long-count.json) |
 | Long Gone Days | 31820 | [31820-long-gone-days.json](./31820-long-gone-days.json) |
 | Long Nardy | 264362 | [264362-long-nardy.json](./264362-long-nardy.json) |
@@ -990,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopbreaker | 395586 | [395586-loopbreaker.json](./395586-loopbreaker.json) |
 | LoopBreaker | 335241 | [335241-loopbreaker.json](./335241-loopbreaker.json) |
 | Looper Looper | 255997 | [255997-looper-looper.json](./255997-looper-looper.json) |
+| LooperLands | 291984 | [291984-looperlands.json](./291984-looperlands.json) |
 | Loopers | 140632 | [140632-loopers.json](./140632-loopers.json) |
 | Loophole | 350443 | [350443-loophole.json](./350443-loophole.json) |
 | LoopiaLike | 394203 | [394203-loopialike.json](./394203-loopialike.json) |
@@ -1293,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunatic Rave 2 | 79901 | [79901-lunatic-rave-2.json](./79901-lunatic-rave-2.json) |
 | Lunch Box Ready | 212458 | [212458-lunch-box-ready.json](./212458-lunch-box-ready.json) |
 | Lunch Lord: The Doom of Black Philip | 184634 | [184634-lunch-lord-the-doom-of-black-philip.json](./184634-lunch-lord-the-doom-of-black-philip.json) |
+| Lunch with Ronan | 292023 | [292023-lunch-with-ronan.json](./292023-lunch-with-ronan.json) |
 | Lunera | 356673 | [356673-lunera.json](./356673-lunera.json) |
 | Lunhowl: Co-op Horror | 348762 | [348762-lunhowl-co-op-horror.json](./348762-lunhowl-co-op-horror.json) |
 | Lunnye Devitsy | 16491 | [16491-lunnye-devitsy.json](./16491-lunnye-devitsy.json) |
