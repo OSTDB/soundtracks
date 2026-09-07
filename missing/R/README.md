@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Garden | 61095 | [61095-rayman-garden.json](./61095-rayman-garden.json) |
 | Rayman Gold | 61096 | [61096-rayman-gold.json](./61096-rayman-gold.json) |
 | Rayman Golf | 61094 | [61094-rayman-golf.json](./61094-rayman-golf.json) |
+| Rayman IV | 312033 | [312033-rayman-iv.json](./312033-rayman-iv.json) |
 | Rayman Kart | 61091 | [61091-rayman-kart.json](./61091-rayman-kart.json) |
 | Rayman Mini | 122560 | [122560-rayman-mini.json](./122560-rayman-mini.json) |
 | Rayman Raving Rabbids | 254520 | [254520-rayman-raving-rabbids.json](./254520-rayman-raving-rabbids.json) |
@@ -621,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relaxing Kite | 148571 | [148571-relaxing-kite.json](./148571-relaxing-kite.json) |
 | Relayer: Limited Edition | 172776 | [172776-relayer-limited-edition.json](./172776-relayer-limited-edition.json) |
 | Release Me | 310173 | [310173-release-me.json](./310173-release-me.json) |
+| Relevo's Snowboarding | 311986 | [311986-relevos-snowboarding.json](./311986-relevos-snowboarding.json) |
 | Relic Heroes | 219812 | [219812-relic-heroes.json](./219812-relic-heroes.json) |
 | Relic Raiders | 70986 | [70986-relic-raiders.json](./70986-relic-raiders.json) |
 | Relicfall | 415078 | [415078-relicfall.json](./415078-relicfall.json) |
@@ -822,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reunion | 135873 | [135873-reunion.json](./135873-reunion.json) |
 | Reunion | 388703 | [388703-reunion.json](./388703-reunion.json) |
 | Reunited in the Mist | 364484 | [364484-reunited-in-the-mist.json](./364484-reunited-in-the-mist.json) |
+| Reus 2: Supporter Pack | 312031 | [312031-reus-2-supporter-pack.json](./312031-reus-2-supporter-pack.json) |
 | Rev. Noir | 389436 | [389436-rev-noir.json](./389436-rev-noir.json) |
 | Revealed | 388705 | [388705-revealed.json](./388705-revealed.json) |
 | Revelation of Decay | 301606 | [301606-revelation-of-decay.json](./301606-revelation-of-decay.json) |
@@ -854,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse 1999: Vereinsamt | 340223 | [340223-reverse-1999-vereinsamt.json](./340223-reverse-1999-vereinsamt.json) |
 | Reverse Basket | 87667 | [87667-reverse-basket.json](./87667-reverse-basket.json) |
 | Reverse Defenders | 150174 | [150174-reverse-defenders.json](./150174-reverse-defenders.json) |
+| Reverse Dyson Ball: Portal Tower | 311997 | [311997-reverse-dyson-ball-portal-tower.json](./311997-reverse-dyson-ball-portal-tower.json) |
 | Reverse it, board game | 88262 | [88262-reverse-it-board-game.json](./88262-reverse-it-board-game.json) |
 | Reversi | 319596 | [319596-reversi.json](./319596-reversi.json) |
 | Reversi 32 | 197920 | [197920-reversi-32.json](./197920-reversi-32.json) |
@@ -985,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rilakkuma Nakayoshi Collection | 222506 | [222506-rilakkuma-nakayoshi-collection.json](./222506-rilakkuma-nakayoshi-collection.json) |
 | Rilu Rilu Fairilu Kirakira: Hajimete no Fairilu Magic | 222537 | [222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json](./222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json) |
 | RimPark: A Burning World | 345469 | [345469-rimpark-a-burning-world.json](./345469-rimpark-a-burning-world.json) |
+| RimWorld: Console Edition - Ideology | 312014 | [312014-rimworld-console-edition-ideology.json](./312014-rimworld-console-edition-ideology.json) |
 | Ring of Elysium | 95308 | [95308-ring-of-elysium.json](./95308-ring-of-elysium.json) |
 | Ring of Pain | 115036 | [115036-ring-of-pain.json](./115036-ring-of-pain.json) |
 | Ring of Titans | 189162 | [189162-ring-of-titans.json](./189162-ring-of-titans.json) |
@@ -1038,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Teenage Mutant Ninja Turtles: City Showdown | 146288 | [146288-rise-of-the-teenage-mutant-ninja-turtles-city-showdown.json](./146288-rise-of-the-teenage-mutant-ninja-turtles-city-showdown.json) |
 | Rise of the Teenage Mutant Ninja Turtles: Epic Mutant Missions | 146290 | [146290-rise-of-the-teenage-mutant-ninja-turtles-epic-mutant-missions.json](./146290-rise-of-the-teenage-mutant-ninja-turtles-epic-mutant-missions.json) |
 | Rise of the Teenage Mutant Ninja Turtles: Road Riot | 146291 | [146291-rise-of-the-teenage-mutant-ninja-turtles-road-riot.json](./146291-rise-of-the-teenage-mutant-ninja-turtles-road-riot.json) |
+| Rise of the White Sun: The Yellow Way | 312030 | [312030-rise-of-the-white-sun-the-yellow-way.json](./312030-rise-of-the-white-sun-the-yellow-way.json) |
 | Rise Out | 373027 | [373027-rise-out.json](./373027-rise-out.json) |
 | Rise up - Keeper challenge | 96743 | [96743-rise-up-keeper-challenge.json](./96743-rise-up-keeper-challenge.json) |
 | Risen 3: Titan Lords | 6142 | [6142-risen-3-titan-lords.json](./6142-risen-3-titan-lords.json) |
@@ -1195,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Gunner | 356621 | [356621-rock-gunner.json](./356621-rock-gunner.json) |
 | Rock of Destruction! | 104114 | [104114-rock-of-destruction.json](./104114-rock-of-destruction.json) |
 | Rock Paper Clicker | 191856 | [191856-rock-paper-clicker.json](./191856-rock-paper-clicker.json) |
+| Rock Paper Everything | 312010 | [312010-rock-paper-everything.json](./312010-rock-paper-everything.json) |
 | Rock Paper Scissors: The Roguelike Puzzle Game | 410207 | [410207-rock-paper-scissors-the-roguelike-puzzle-game.json](./410207-rock-paper-scissors-the-roguelike-puzzle-game.json) |
 | Rock Star Life Simulator | 260409 | [260409-rock-star-life-simulator.json](./260409-rock-star-life-simulator.json) |
 | Rock the Islands | 310218 | [310218-rock-the-islands.json](./310218-rock-the-islands.json) |
