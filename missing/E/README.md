@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Simulator 2: DAF XD | 277585 | [277585-euro-truck-simulator-2-daf-xd.json](./277585-euro-truck-simulator-2-daf-xd.json) |
 | Euro Truck Simulator 2: Farm Machinery | 356654 | [356654-euro-truck-simulator-2-farm-machinery.json](./356654-euro-truck-simulator-2-farm-machinery.json) |
 | Euro Truck Simulator 2: Heart of Russia | 165013 | [165013-euro-truck-simulator-2-heart-of-russia.json](./165013-euro-truck-simulator-2-heart-of-russia.json) |
+| Euro Truck Simulator 2: Renault Trucks E-Tech T | 311995 | [311995-euro-truck-simulator-2-renault-trucks-e-tech-t.json](./311995-euro-truck-simulator-2-renault-trucks-e-tech-t.json) |
 | Euro-Man | 71554 | [71554-euro-man.json](./71554-euro-man.json) |
 | EuroGoal 2012 | 343818 | [343818-eurogoal-2012.json](./343818-eurogoal-2012.json) |
 | Europa 1400: The Guild | 681 | [681-europa-1400-the-guild.json](./681-europa-1400-the-guild.json) |
