@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visit Once | 147469 | [147469-visit-once.json](./147469-visit-once.json) |
 | Visitor | 177557 | [177557-visitor.json](./177557-visitor.json) |
 | VISK | 248914 | [248914-visk.json](./248914-visk.json) |
+| Vispire | 275574 | [275574-vispire.json](./275574-vispire.json) |
 | Vistascapes VR | 32891 | [32891-vistascapes-vr.json](./32891-vistascapes-vr.json) |
 | Visual DOS 2024 | 364528 | [364528-visual-dos-2024.json](./364528-visual-dos-2024.json) |
 | Visual DOS: Integer Overflow | 364520 | [364520-visual-dos-integer-overflow.json](./364520-visual-dos-integer-overflow.json) |
