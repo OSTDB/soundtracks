@@ -30,6 +30,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakamon | 392129 | [392129-nakamon.json](./392129-nakamon.json) |
 | Nakawak | 68193 | [68193-nakawak.json](./68193-nakawak.json) |
 | Naked Little Dude | 131607 | [131607-naked-little-dude.json](./131607-naked-little-dude.json) |
+| Namco All-Stars: Dig Dug | 284372 | [284372-namco-all-stars-dig-dug.json](./284372-namco-all-stars-dig-dug.json) |
+| Namco All-Stars: Pac-Man | 284371 | [284371-namco-all-stars-pac-man.json](./284371-namco-all-stars-pac-man.json) |
+| Namco All-Stars: Pac-Man and Dig Dug | 284373 | [284373-namco-all-stars-pac-man-and-dig-dug.json](./284373-namco-all-stars-pac-man-and-dig-dug.json) |
 | Namco Museum Battle Collection | 46000 | [46000-namco-museum-battle-collection.json](./46000-namco-museum-battle-collection.json) |
 | Namco Museum Essentials | 52608 | [52608-namco-museum-essentials.json](./52608-namco-museum-essentials.json) |
 | Name that Sonic Tune | 326960 | [326960-name-that-sonic-tune.json](./326960-name-that-sonic-tune.json) |
