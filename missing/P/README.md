@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palm Reading Premium | 111056 | [111056-palm-reading-premium.json](./111056-palm-reading-premium.json) |
 | Palm Tetris | 250599 | [250599-palm-tetris.json](./250599-palm-tetris.json) |
 | Palmon: Survival | 369018 | [369018-palmon-survival.json](./369018-palmon-survival.json) |
+| PalmRide: After Flight | 288754 | [288754-palmride-after-flight.json](./288754-palmride-after-flight.json) |
 | Palmyra Orphanage | 120719 | [120719-palmyra-orphanage.json](./120719-palmyra-orphanage.json) |
 | Palps | 292001 | [292001-palps.json](./292001-palps.json) |
 | Pals Go Only Up! | 295774 | [295774-pals-go-only-up.json](./295774-pals-go-only-up.json) |
@@ -757,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photogeist Albums: Case 1 | 307337 | [307337-photogeist-albums-case-1.json](./307337-photogeist-albums-case-1.json) |
 | Photon Cube | 104057 | [104057-photon-cube.json](./104057-photon-cube.json) |
 | Photon Flux | 68703 | [68703-photon-flux.json](./68703-photon-flux.json) |
+| Photons | 288759 | [288759-photons.json](./288759-photons.json) |
 | Photopia | 9513 | [9513-photopia.json](./9513-photopia.json) |
 | Phraze Craze | 307911 | [307911-phraze-craze.json](./307911-phraze-craze.json) |
 | Phucker in the Ashes | 369019 | [369019-phucker-in-the-ashes.json](./369019-phucker-in-the-ashes.json) |
@@ -1985,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project S | 358891 | [358891-project-s.json](./358891-project-s.json) |
 | Project S.A.M | 270952 | [270952-project-s-a-m.json](./270952-project-s-a-m.json) |
 | Project Sara | 374591 | [374591-project-sara.json](./374591-project-sara.json) |
+| Project Scar | 288781 | [288781-project-scar.json](./288781-project-scar.json) |
 | Project Scav | 173279 | [173279-project-scav.json](./173279-project-scav.json) |
 | Project Sekuter | 317606 | [317606-project-sekuter.json](./317606-project-sekuter.json) |
 | Project Shiver Wing | 212452 | [212452-project-shiver-wing.json](./212452-project-shiver-wing.json) |
@@ -2077,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prune & Milo | 294134 | [294134-prune-and-milo.json](./294134-prune-and-milo.json) |
 | Prussia's Glory | 77384 | [77384-prussias-glory.json](./77384-prussias-glory.json) |
 | Pry into the Void | 187530 | [187530-pry-into-the-void.json](./187530-pry-into-the-void.json) |
+| Pryzm | 288789 | [288789-pryzm.json](./288789-pryzm.json) |
 | Psebay | 43063 | [43063-psebay.json](./43063-psebay.json) |
 | Pseudoku | 337638 | [337638-pseudoku.json](./337638-pseudoku.json) |
 | Psi Chess | 58251 | [58251-psi-chess.json](./58251-psi-chess.json) |
@@ -2327,6 +2331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramids and Aliens: Escape Room | 295019 | [295019-pyramids-and-aliens-escape-room.json](./295019-pyramids-and-aliens-escape-room.json) |
 | Pyramis | 397668 | [397668-pyramis.json](./397668-pyramis.json) |
 | Pyratel | 308239 | [308239-pyratel.json](./308239-pyratel.json) |
+| Pyrocast | 288762 | [288762-pyrocast.json](./288762-pyrocast.json) |
 | Pyrosynchist | 370690 | [370690-pyrosynchist.json](./370690-pyrosynchist.json) |
 | Pyrus: Alle Tiders Familiespil | 129813 | [129813-pyrus-alle-tiders-familiespil.json](./129813-pyrus-alle-tiders-familiespil.json) |
 | Pyrus: Alletiders Jul | 129780 | [129780-pyrus-alletiders-jul.json](./129780-pyrus-alletiders-jul.json) |
