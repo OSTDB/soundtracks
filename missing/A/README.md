@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| A 1-2-3 | 299784 | [299784-a-1-2-3.json](./299784-a-1-2-3.json) |
 | A 2ª Jornada | 299470 | [299470-a-2a-jornada.json](./299470-a-2a-jornada.json) |
 | A 3ª Jornada | 299477 | [299477-a-3a-jornada.json](./299477-a-3a-jornada.json) |
 | A Army Base | 277571 | [277571-a-army-base.json](./277571-a-army-base.json) |
@@ -60,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dream of Silence | 317637 | [317637-a-dream-of-silence.json](./317637-a-dream-of-silence.json) |
 | A Dual Ascent | 327839 | [327839-a-dual-ascent.json](./327839-a-dual-ascent.json) |
 | A Factory Job | 192455 | [192455-a-factory-job.json](./192455-a-factory-job.json) |
+| A Faerie's Tale | 299783 | [299783-a-faeries-tale.json](./299783-a-faeries-tale.json) |
 | A Farewell to Dragons | 20667 | [20667-a-farewell-to-dragons.json](./20667-a-farewell-to-dragons.json) |
 | A Father's Tale | 357791 | [357791-a-fathers-tale.json](./357791-a-fathers-tale.json) |
 | A Feeble Saga | 126043 | [126043-a-feeble-saga.json](./126043-a-feeble-saga.json) |
@@ -260,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abduction | 312919 | [312919-abduction.json](./312919-abduction.json) |
 | Abduction Escape | 337117 | [337117-abduction-escape.json](./337117-abduction-escape.json) |
 | Abe VR | 33117 | [33117-abe-vr.json](./33117-abe-vr.json) |
+| Abel: Shin Mokushiroku Taisen | 299785 | [299785-abel-shin-mokushiroku-taisen.json](./299785-abel-shin-mokushiroku-taisen.json) |
 | Abermore | 191621 | [191621-abermore.json](./191621-abermore.json) |
 | Abha | 111036 | [111036-abha.json](./111036-abha.json) |
 | Abi and the soul | 153988 | [153988-abi-and-the-soul.json](./153988-abi-and-the-soul.json) |
@@ -309,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absurbia: A Trashy Satire of Suburban Outcries | 159858 | [159858-absurbia-a-trashy-satire-of-suburban-outcries.json](./159858-absurbia-a-trashy-satire-of-suburban-outcries.json) |
 | Absurdika | 248332 | [248332-absurdika.json](./248332-absurdika.json) |
 | Abulia | 372445 | [372445-abulia.json](./372445-abulia.json) |
+| Abunai Tengu Densetsu | 299786 | [299786-abunai-tengu-densetsu.json](./299786-abunai-tengu-densetsu.json) |
 | Abyss | 265405 | [265405-abyss.json](./265405-abyss.json) |
 | Abyss | 8524 | [8524-abyss.json](./8524-abyss.json) |
 | Abyss Cave | 35789 | [35789-abyss-cave.json](./35789-abyss-cave.json) |
@@ -998,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens: Colonial Marines | 1021 | [1021-aliens-colonial-marines.json](./1021-aliens-colonial-marines.json) |
 | Aliens: Fireteam Elite | 144153 | [144153-aliens-fireteam-elite.json](./144153-aliens-fireteam-elite.json) |
 | Aliens: Fireteam Elite - Hardened Marine Pack | 247755 | [247755-aliens-fireteam-elite-hardened-marine-pack.json](./247755-aliens-fireteam-elite-hardened-marine-pack.json) |
+| Aliens: Redacted | 299755 | [299755-aliens-redacted.json](./299755-aliens-redacted.json) |
 | Aliensurf | 71539 | [71539-aliensurf.json](./71539-aliensurf.json) |
 | AlienXcape | 322359 | [322359-alienxcape.json](./322359-alienxcape.json) |
 | Aline | 127978 | [127978-aline.json](./127978-aline.json) |
