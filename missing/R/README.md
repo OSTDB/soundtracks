@@ -1175,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboDeal Simulator | 406127 | [406127-robodeal-simulator.json](./406127-robodeal-simulator.json) |
 | RoboGal: Gaga Delta Lady | 306994 | [306994-robogal-gaga-delta-lady.json](./306994-robogal-gaga-delta-lady.json) |
 | RoboJep | 165691 | [165691-robojep.json](./165691-robojep.json) |
+| Roboloop | 295776 | [295776-roboloop.json](./295776-roboloop.json) |
 | RoboMaze III: The Dome | 78029 | [78029-robomaze-iii-the-dome.json](./78029-robomaze-iii-the-dome.json) |
 | Roborobi | 357808 | [357808-roborobi.json](./357808-roborobi.json) |
 | Robosaurus | 264318 | [264318-robosaurus.json](./264318-robosaurus.json) |
