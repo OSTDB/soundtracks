@@ -104,9 +104,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Jornada | 299469 | [299469-a-jornada.json](./299469-a-jornada.json) |
 | A Journey Through Valhalla | 165677 | [165677-a-journey-through-valhalla.json](./165677-a-journey-through-valhalla.json) |
 | A Journey to Omega Station | 295245 | [295245-a-journey-to-omega-station.json](./295245-a-journey-to-omega-station.json) |
+| A Journey Together | 261810 | [261810-a-journey-together.json](./261810-a-journey-together.json) |
 | A Juggler's Tale: Collector's Edition | 186874 | [186874-a-jugglers-tale-collectors-edition.json](./186874-a-jugglers-tale-collectors-edition.json) |
 | A Kappa's Trail | 66681 | [66681-a-kappas-trail.json](./66681-a-kappas-trail.json) |
 | A Kishoutenketsu in the Countryside | 134688 | [134688-a-kishoutenketsu-in-the-countryside.json](./134688-a-kishoutenketsu-in-the-countryside.json) |
+| A Koopa's Revenge | 261814 | [261814-a-koopas-revenge.json](./261814-a-koopas-revenge.json) |
 | A Land Goo's Crazy | 238733 | [238733-a-land-goos-crazy.json](./238733-a-land-goos-crazy.json) |
 | A Landlord's Dream | 138215 | [138215-a-landlords-dream.json](./138215-a-landlords-dream.json) |
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
@@ -506,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adidas Power Soccer 98 | 43935 | [43935-adidas-power-soccer-98.json](./43935-adidas-power-soccer-98.json) |
 | Adj | 76620 | [76620-adj.json](./76620-adj.json) |
 | Adonis | 200708 | [200708-adonis.json](./200708-adonis.json) |
+| Adonis: Escape from Urania | 261816 | [261816-adonis-escape-from-urania.json](./261816-adonis-escape-from-urania.json) |
 | Adopt A Boyfriend | 332439 | [332439-adopt-a-boyfriend.json](./332439-adopt-a-boyfriend.json) |
 | Adopt Me Please | 410894 | [410894-adopt-me-please.json](./410894-adopt-me-please.json) |
 | Adora and My Treasure | 301598 | [301598-adora-and-my-treasure.json](./301598-adora-and-my-treasure.json) |
@@ -1185,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alonecats | 293085 | [293085-alonecats.json](./293085-alonecats.json) |
 | Alpaca Party | 326086 | [326086-alpaca-party.json](./326086-alpaca-party.json) |
 | Alpaca Wonders Why | 280175 | [280175-alpaca-wonders-why.json](./280175-alpaca-wonders-why.json) |
+| Alpha Centauri | 261818 | [261818-alpha-centauri.json](./261818-alpha-centauri.json) |
 | Alpha Centauri Space Force | 156165 | [156165-alpha-centauri-space-force.json](./156165-alpha-centauri-space-force.json) |
 | Alpha Chimp: Episode 1 - The Jungle | 310194 | [310194-alpha-chimp-episode-1-the-jungle.json](./310194-alpha-chimp-episode-1-the-jungle.json) |
 | Alpha Dog | 120429 | [120429-alpha-dog.json](./120429-alpha-dog.json) |
@@ -1927,6 +1931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archenemy: Lunafall | 216472 | [216472-archenemy-lunafall.json](./216472-archenemy-lunafall.json) |
 | Archer Maclean's Super Dropzone | 42637 | [42637-archer-macleans-super-dropzone.json](./42637-archer-macleans-super-dropzone.json) |
 | Archer of God | 237646 | [237646-archer-of-god.json](./237646-archer-of-god.json) |
+| Archer Pinball | 261802 | [261802-archer-pinball.json](./261802-archer-pinball.json) |
 | Archero 2 | 319370 | [319370-archero-2.json](./319370-archero-2.json) |
 | Archers Online | 316047 | [316047-archers-online.json](./316047-archers-online.json) |
 | Archery Black | 356646 | [356646-archery-black.json](./356646-archery-black.json) |
@@ -2009,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arid Arnold | 318202 | [318202-arid-arnold.json](./318202-arid-arnold.json) |
 | Arifureta: From Commonplace to World's Strongest - Rebellion Soul | 390534 | [390534-arifureta-from-commonplace-to-worlds-strongest-rebellion-soul.json](./390534-arifureta-from-commonplace-to-worlds-strongest-rebellion-soul.json) |
 | Arima Lodge | 326630 | [326630-arima-lodge.json](./326630-arima-lodge.json) |
+| Arinn | 261787 | [261787-arinn.json](./261787-arinn.json) |
 | Arisen Force: Life Devotee of Wukong | 322972 | [322972-arisen-force-life-devotee-of-wukong.json](./322972-arisen-force-life-devotee-of-wukong.json) |
 | Arisen Force: LifeDevotee | 366210 | [366210-arisen-force-lifedevotee.json](./366210-arisen-force-lifedevotee.json) |
 | Arizona Rose and the Pharaohs' Riddles | 29870 | [29870-arizona-rose-and-the-pharaohs-riddles.json](./29870-arizona-rose-and-the-pharaohs-riddles.json) |
