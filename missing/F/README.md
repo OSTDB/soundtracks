@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear for Sale: City of the Past HD - A Hidden Object Mystery | 88307 | [88307-fear-for-sale-city-of-the-past-hd-a-hidden-object-mystery.json](./88307-fear-for-sale-city-of-the-past-hd-a-hidden-object-mystery.json) |
 | Fear for Sale: Endless Voyage HD | 102204 | [102204-fear-for-sale-endless-voyage-hd.json](./102204-fear-for-sale-endless-voyage-hd.json) |
 | Fear Is in the Mind | 179168 | [179168-fear-is-in-the-mind.json](./179168-fear-is-in-the-mind.json) |
+| Fear Is In The Mind | 302943 | [302943-fear-is-in-the-mind.json](./302943-fear-is-in-the-mind.json) |
 | Fear Less! | 60552 | [60552-fear-less.json](./60552-fear-less.json) |
 | Fear Me: The Silent | 331355 | [331355-fear-me-the-silent.json](./331355-fear-me-the-silent.json) |
 | Fear of Hot Water Ghost | 335685 | [335685-fear-of-hot-water-ghost.json](./335685-fear-of-hot-water-ghost.json) |
@@ -451,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear: Call of the village. | 190731 | [190731-fear-call-of-the-village.json](./190731-fear-call-of-the-village.json) |
 | Fearaphobia | 310957 | [310957-fearaphobia.json](./310957-fearaphobia.json) |
 | Fearful Symmetry | 336907 | [336907-fearful-symmetry.json](./336907-fearful-symmetry.json) |
+| Fearless | 302933 | [302933-fearless.json](./302933-fearless.json) |
 | Fearless Fred and the Factory of Doom | 268740 | [268740-fearless-fred-and-the-factory-of-doom.json](./268740-fearless-fred-and-the-factory-of-doom.json) |
 | Fears | 15541 | [15541-fears.json](./15541-fears.json) |
 | Feartten Noir Story | 195246 | [195246-feartten-noir-story.json](./195246-feartten-noir-story.json) |
@@ -1170,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fool's Pub | 325264 | [325264-fools-pub.json](./325264-fools-pub.json) |
 | Foolish Mortals | 217011 | [217011-foolish-mortals.json](./217011-foolish-mortals.json) |
 | Foosball Runner | 318195 | [318195-foosball-runner.json](./318195-foosball-runner.json) |
+| Footage | 302930 | [302930-footage.json](./302930-footage.json) |
 | Football Career Mode 26 | 346582 | [346582-football-career-mode-26.json](./346582-football-career-mode-26.json) |
 | Football Club Builder | 409577 | [409577-football-club-builder.json](./409577-football-club-builder.json) |
 | Football Crazy Challenge | 84258 | [84258-football-crazy-challenge.json](./84258-football-crazy-challenge.json) |
@@ -1564,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogurai | 226454 | [226454-frogurai.json](./226454-frogurai.json) |
 | Frogvival | 235482 | [235482-frogvival.json](./235482-frogvival.json) |
 | From Below | 415065 | [415065-from-below.json](./415065-from-below.json) |
+| From Fire Emergence | 302928 | [302928-from-fire-emergence.json](./302928-from-fire-emergence.json) |
 | From Flames | 127977 | [127977-from-flames.json](./127977-from-flames.json) |
 | From Four Sides | 296090 | [296090-from-four-sides.json](./296090-from-four-sides.json) |
 | From Hel to Asgard | 367983 | [367983-from-hel-to-asgard.json](./367983-from-hel-to-asgard.json) |
@@ -1772,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusion Shift | 132260 | [132260-fusion-shift.json](./132260-fusion-shift.json) |
 | Fusion Wars | 19571 | [19571-fusion-wars.json](./19571-fusion-wars.json) |
 | Fusion: Genesis | 22935 | [22935-fusion-genesis.json](./22935-fusion-genesis.json) |
+| Fusionfall Heroes | 302950 | [302950-fusionfall-heroes.json](./302950-fusionfall-heroes.json) |
 | Futa Nights: Bloody Sluts | 362274 | [362274-futa-nights-bloody-sluts.json](./362274-futa-nights-bloody-sluts.json) |
 | Futanari Quest | 99592 | [99592-futanari-quest.json](./99592-futanari-quest.json) |
 | Futanari Sex: The Gym | 203539 | [203539-futanari-sex-the-gym.json](./203539-futanari-sex-the-gym.json) |
