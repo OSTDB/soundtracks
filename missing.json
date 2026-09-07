@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T13:18:35.425Z",
-  "total_missing": 42102,
+  "generated_at": "2026-09-07T13:33:25.016Z",
+  "total_missing": 42152,
   "games": [
     {
       "igdb_id": 306086,
@@ -941,6 +941,11 @@
       "igdb_id": 98412,
       "game_name": "14Days",
       "file": "missing/0-9/98412-14days.json"
+    },
+    {
+      "igdb_id": 282592,
+      "game_name": "15 Puzzle",
+      "file": "missing/0-9/282592-15-puzzle.json"
     },
     {
       "igdb_id": 102404,
@@ -4543,6 +4548,76 @@
       "file": "missing/A/25108-ace-banana.json"
     },
     {
+      "igdb_id": 282583,
+      "game_name": "Ace Combat 7: Skies Unknown - 25th Anniversary Emblem Set",
+      "file": "missing/A/282583-ace-combat-7-skies-unknown-25th-anniversary-emblem-set.json"
+    },
+    {
+      "igdb_id": 282591,
+      "game_name": "Ace Combat 7: Skies Unknown - 25th Anniversary Emblem Set II",
+      "file": "missing/A/282591-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-ii.json"
+    },
+    {
+      "igdb_id": 282582,
+      "game_name": "Ace Combat 7: Skies Unknown - 25th Anniversary Skin Set",
+      "file": "missing/A/282582-ace-combat-7-skies-unknown-25th-anniversary-skin-set.json"
+    },
+    {
+      "igdb_id": 282593,
+      "game_name": "Ace Combat 7: Skies Unknown - 25th Anniversary Skin Set II",
+      "file": "missing/A/282593-ace-combat-7-skies-unknown-25th-anniversary-skin-set-ii.json"
+    },
+    {
+      "igdb_id": 282595,
+      "game_name": "Ace Combat 7: Skies Unknown - 25th Anniversary Skin Set III",
+      "file": "missing/A/282595-ace-combat-7-skies-unknown-25th-anniversary-skin-set-iii.json"
+    },
+    {
+      "igdb_id": 282579,
+      "game_name": "Ace Combat 7: Skies Unknown - ASF-X Shinden II Set",
+      "file": "missing/A/282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json"
+    },
+    {
+      "igdb_id": 282587,
+      "game_name": "Ace Combat 7: Skies Unknown - Bonus Emblem Set",
+      "file": "missing/A/282587-ace-combat-7-skies-unknown-bonus-emblem-set.json"
+    },
+    {
+      "igdb_id": 282578,
+      "game_name": "Ace Combat 7: Skies Unknown - CFA-44 Nosferatu Set",
+      "file": "missing/A/282578-ace-combat-7-skies-unknown-cfa-44-nosferatu-set.json"
+    },
+    {
+      "igdb_id": 282545,
+      "game_name": "Ace Combat 7: Skies Unknown - Deluxe Edition 2022",
+      "file": "missing/A/282545-ace-combat-7-skies-unknown-deluxe-edition-2022.json"
+    },
+    {
+      "igdb_id": 282540,
+      "game_name": "Ace Combat 7: Skies Unknown - F-104C: Avril",
+      "file": "missing/A/282540-ace-combat-7-skies-unknown-f-104c-avril.json"
+    },
+    {
+      "igdb_id": 282589,
+      "game_name": "Ace Combat 7: Skies Unknown - F-15 S/MTD Set",
+      "file": "missing/A/282589-ace-combat-7-skies-unknown-f-15-s-mtd-set.json"
+    },
+    {
+      "igdb_id": 282588,
+      "game_name": "Ace Combat 7: Skies Unknown - F-16XL Set",
+      "file": "missing/A/282588-ace-combat-7-skies-unknown-f-16xl-set.json"
+    },
+    {
+      "igdb_id": 282590,
+      "game_name": "Ace Combat 7: Skies Unknown - FB-22 Strike Raptor Set",
+      "file": "missing/A/282590-ace-combat-7-skies-unknown-fb-22-strike-raptor-set.json"
+    },
+    {
+      "igdb_id": 282581,
+      "game_name": "Ace Combat 7: Skies Unknown - Music Player Mode",
+      "file": "missing/A/282581-ace-combat-7-skies-unknown-music-player-mode.json"
+    },
+    {
       "igdb_id": 138246,
       "game_name": "Ace Combat 7: Skies Unknown - Original Aircraft Series",
       "file": "missing/A/138246-ace-combat-7-skies-unknown-original-aircraft-series.json"
@@ -4556,6 +4631,11 @@
       "igdb_id": 205250,
       "game_name": "Ace Combat 7: Skies Unknown - Top Gun: Maverick Ultimate Edition",
       "file": "missing/A/205250-ace-combat-7-skies-unknown-top-gun-maverick-ultimate-edition.json"
+    },
+    {
+      "igdb_id": 282547,
+      "game_name": "Ace Combat 7: Skies Unknown - Ultimate Edition",
+      "file": "missing/A/282547-ace-combat-7-skies-unknown-ultimate-edition.json"
     },
     {
       "igdb_id": 14754,
@@ -30298,6 +30378,11 @@
       "file": "missing/C/338008-cat-from-hell-cat-simulator.json"
     },
     {
+      "igdb_id": 282580,
+      "game_name": "Cat Game",
+      "file": "missing/C/282580-cat-game.json"
+    },
+    {
       "igdb_id": 239919,
       "game_name": "Cat Game: The Cats Collector!",
       "file": "missing/C/239919-cat-game-the-cats-collector.json"
@@ -31191,6 +31276,11 @@
       "igdb_id": 245541,
       "game_name": "Centipede",
       "file": "missing/C/245541-centipede.json"
+    },
+    {
+      "igdb_id": 282564,
+      "game_name": "Centipede",
+      "file": "missing/C/282564-centipede.json"
     },
     {
       "igdb_id": 64399,
@@ -32501,6 +32591,36 @@
       "igdb_id": 45961,
       "game_name": "Chip-chan Kick!",
       "file": "missing/C/45961-chip-chan-kick.json"
+    },
+    {
+      "igdb_id": 282555,
+      "game_name": "Chip's Challenge",
+      "file": "missing/C/282555-chips-challenge.json"
+    },
+    {
+      "igdb_id": 282557,
+      "game_name": "Chip's Challenge",
+      "file": "missing/C/282557-chips-challenge.json"
+    },
+    {
+      "igdb_id": 282558,
+      "game_name": "Chip's Challenge",
+      "file": "missing/C/282558-chips-challenge.json"
+    },
+    {
+      "igdb_id": 282559,
+      "game_name": "Chip's Challenge",
+      "file": "missing/C/282559-chips-challenge.json"
+    },
+    {
+      "igdb_id": 282560,
+      "game_name": "Chip's Challenge",
+      "file": "missing/C/282560-chips-challenge.json"
+    },
+    {
+      "igdb_id": 282561,
+      "game_name": "Chip's Challenge",
+      "file": "missing/C/282561-chips-challenge.json"
     },
     {
       "igdb_id": 355037,
@@ -38336,6 +38456,16 @@
       "igdb_id": 47267,
       "game_name": "Crazy Chewy",
       "file": "missing/C/47267-crazy-chewy.json"
+    },
+    {
+      "igdb_id": 282571,
+      "game_name": "Crazy Chicken Jump'n Run: Atlantis Quest",
+      "file": "missing/C/282571-crazy-chicken-jumpn-run-atlantis-quest.json"
+    },
+    {
+      "igdb_id": 282572,
+      "game_name": "Crazy Chicken: Pirates",
+      "file": "missing/C/282572-crazy-chicken-pirates.json"
     },
     {
       "igdb_id": 347695,
@@ -45841,6 +45971,11 @@
       "igdb_id": 367971,
       "game_name": "Detective Hindsight",
       "file": "missing/D/367971-detective-hindsight.json"
+    },
+    {
+      "igdb_id": 282569,
+      "game_name": "Detective Kiwi",
+      "file": "missing/D/282569-detective-kiwi.json"
     },
     {
       "igdb_id": 132268,
@@ -61428,6 +61563,16 @@
       "file": "missing/F/282575-felix-the-cat.json"
     },
     {
+      "igdb_id": 282585,
+      "game_name": "Felix the Cat: A Bomba-Relógio",
+      "file": "missing/F/282585-felix-the-cat-a-bomba-relogio.json"
+    },
+    {
+      "igdb_id": 282586,
+      "game_name": "Felix the Cat: Contra os Inimigos",
+      "file": "missing/F/282586-felix-the-cat-contra-os-inimigos.json"
+    },
+    {
       "igdb_id": 302356,
       "game_name": "Felon-E",
       "file": "missing/F/302356-felon-e.json"
@@ -61676,6 +61821,11 @@
       "igdb_id": 228714,
       "game_name": "Fibble",
       "file": "missing/F/228714-fibble.json"
+    },
+    {
+      "igdb_id": 282568,
+      "game_name": "Fibbler.io",
+      "file": "missing/F/282568-fibbler-io.json"
     },
     {
       "igdb_id": 313476,
@@ -69381,6 +69531,11 @@
       "igdb_id": 403574,
       "game_name": "Gangstar City",
       "file": "missing/G/403574-gangstar-city.json"
+    },
+    {
+      "igdb_id": 282577,
+      "game_name": "Gangster Bros",
+      "file": "missing/G/282577-gangster-bros.json"
     },
     {
       "igdb_id": 78046,
@@ -84581,6 +84736,11 @@
       "igdb_id": 25947,
       "game_name": "Icarus.1",
       "file": "missing/I/25947-icarus-1.json"
+    },
+    {
+      "igdb_id": 282576,
+      "game_name": "Ice Age: Continental Drift",
+      "file": "missing/I/282576-ice-age-continental-drift.json"
     },
     {
       "igdb_id": 364525,
@@ -100543,6 +100703,11 @@
       "file": "missing/L/197939-lode-runner.json"
     },
     {
+      "igdb_id": 282565,
+      "game_name": "Lode Runner",
+      "file": "missing/L/282565-lode-runner.json"
+    },
+    {
       "igdb_id": 302948,
       "game_name": "Lode Runner Clone for Commodore PET",
       "file": "missing/L/302948-lode-runner-clone-for-commodore-pet.json"
@@ -113778,6 +113943,11 @@
       "file": "missing/M/184652-mooon.json"
     },
     {
+      "igdb_id": 282544,
+      "game_name": "Moorhen Seasons",
+      "file": "missing/M/282544-moorhen-seasons.json"
+    },
+    {
       "igdb_id": 69856,
       "game_name": "Moorhuhn Adventure: Der Fluch des Goldes",
       "file": "missing/M/69856-moorhuhn-adventure-der-fluch-des-goldes.json"
@@ -113788,9 +113958,19 @@
       "file": "missing/M/190208-moorhuhn-adventure-der-schatz-des-pharao.json"
     },
     {
+      "igdb_id": 282543,
+      "game_name": "Moorhuhn in Südafrika",
+      "file": "missing/M/282543-moorhuhn-in-sudafrika.json"
+    },
+    {
       "igdb_id": 265946,
       "game_name": "Moorhuhn: Die ersten 10 Jahre",
       "file": "missing/M/265946-moorhuhn-die-ersten-10-jahre.json"
+    },
+    {
+      "igdb_id": 282546,
+      "game_name": "Moorhuhn: The Good, The Egg, and The Ugly Mobile",
+      "file": "missing/M/282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json"
     },
     {
       "igdb_id": 225879,
@@ -116533,6 +116713,11 @@
       "file": "missing/M/212467-my-moon-mart.json"
     },
     {
+      "igdb_id": 282549,
+      "game_name": "My Moorhen",
+      "file": "missing/M/282549-my-moorhen.json"
+    },
+    {
       "igdb_id": 129221,
       "game_name": "My Name is Sarah",
       "file": "missing/M/129221-my-name-is-sarah.json"
@@ -117951,6 +118136,11 @@
       "igdb_id": 335277,
       "game_name": "Naroike",
       "file": "missing/N/335277-naroike.json"
+    },
+    {
+      "igdb_id": 282594,
+      "game_name": "Narrative Nightmares: Trilogy of Terror",
+      "file": "missing/N/282594-narrative-nightmares-trilogy-of-terror.json"
     },
     {
       "igdb_id": 188074,
@@ -122543,6 +122733,11 @@
       "file": "missing/N/30899-nother.json"
     },
     {
+      "igdb_id": 282550,
+      "game_name": "Nothing",
+      "file": "missing/N/282550-nothing.json"
+    },
+    {
       "igdb_id": 237620,
       "game_name": "Nothing to Lose",
       "file": "missing/N/237620-nothing-to-lose.json"
@@ -125071,6 +125266,11 @@
       "igdb_id": 257673,
       "game_name": "One Night as Freddy",
       "file": "missing/O/257673-one-night-as-freddy.json"
+    },
+    {
+      "igdb_id": 282563,
+      "game_name": "One Night Heaven: Aka to Kuro no Hitobito ni Sasagu Hommage",
+      "file": "missing/O/282563-one-night-heaven-aka-to-kuro-no-hitobito-ni-sasagu-hommage.json"
     },
     {
       "igdb_id": 370147,
@@ -142078,6 +142278,16 @@
       "file": "missing/R/22484-real-play.json"
     },
     {
+      "igdb_id": 282573,
+      "game_name": "Real Pro Yakyuu!: Central League-hen",
+      "file": "missing/R/282573-real-pro-yakyuu-central-league-hen.json"
+    },
+    {
+      "igdb_id": 282574,
+      "game_name": "Real Pro Yakyuu!: Pacific League-hen",
+      "file": "missing/R/282574-real-pro-yakyuu-pacific-league-hen.json"
+    },
+    {
       "igdb_id": 343794,
       "game_name": "Real Racing GTI",
       "file": "missing/R/343794-real-racing-gti.json"
@@ -145353,6 +145563,11 @@
       "file": "missing/R/268741-rinne-no-lagrange-kamogawa-match.json"
     },
     {
+      "igdb_id": 282562,
+      "game_name": "Rinne Tsukihime",
+      "file": "missing/R/282562-rinne-tsukihime.json"
+    },
+    {
       "igdb_id": 150699,
       "game_name": "Rio Warzone",
       "file": "missing/R/150699-rio-warzone.json"
@@ -147056,6 +147271,11 @@
       "igdb_id": 78042,
       "game_name": "Roko-Loko no Castelo do Ratozinger Remix",
       "file": "missing/R/78042-roko-loko-no-castelo-do-ratozinger-remix.json"
+    },
+    {
+      "igdb_id": 282584,
+      "game_name": "Rokumon Tengai Mon Colle Knight GB",
+      "file": "missing/R/282584-rokumon-tengai-mon-colle-knight-gb.json"
     },
     {
       "igdb_id": 23029,
@@ -150266,6 +150486,11 @@
       "igdb_id": 203533,
       "game_name": "Sanction",
       "file": "missing/S/203533-sanction.json"
+    },
+    {
+      "igdb_id": 282551,
+      "game_name": "Sanctity",
+      "file": "missing/S/282551-sanctity.json"
     },
     {
       "igdb_id": 191858,
@@ -156878,6 +157103,11 @@
       "file": "missing/S/153423-sinistrous.json"
     },
     {
+      "igdb_id": 282542,
+      "game_name": "Sink the Fish: Spy Kit",
+      "file": "missing/S/282542-sink-the-fish-spy-kit.json"
+    },
+    {
       "igdb_id": 251176,
       "game_name": "Sinking Iron",
       "file": "missing/S/251176-sinking-iron.json"
@@ -158866,6 +159096,11 @@
       "igdb_id": 193500,
       "game_name": "Snail Story: Love Edition",
       "file": "missing/S/193500-snail-story-love-edition.json"
+    },
+    {
+      "igdb_id": 282541,
+      "game_name": "Snail Trainer",
+      "file": "missing/S/282541-snail-trainer.json"
     },
     {
       "igdb_id": 89664,
@@ -175198,6 +175433,11 @@
       "file": "missing/T/317817-tanuki-pons-summer.json"
     },
     {
+      "igdb_id": 282548,
+      "game_name": "Tanzanite Crush",
+      "file": "missing/T/282548-tanzanite-crush.json"
+    },
+    {
       "igdb_id": 158203,
       "game_name": "Táolí Dìqiú",
       "file": "missing/T/158203-taoli-diqiu.json"
@@ -189573,6 +189813,11 @@
       "file": "missing/T/378212-to-swat-a-fly.json"
     },
     {
+      "igdb_id": 282570,
+      "game_name": "To Tell the Truth",
+      "file": "missing/T/282570-to-tell-the-truth.json"
+    },
+    {
       "igdb_id": 348787,
       "game_name": "To the Bridge",
       "file": "missing/T/348787-to-the-bridge.json"
@@ -195006,6 +195251,11 @@
       "igdb_id": 282650,
       "game_name": "TwinBee",
       "file": "missing/T/282650-twinbee.json"
+    },
+    {
+      "igdb_id": 282567,
+      "game_name": "TwinBee Da!!",
+      "file": "missing/T/282567-twinbee-da.json"
     },
     {
       "igdb_id": 355017,
