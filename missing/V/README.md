@@ -163,10 +163,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vavio | 181923 | [181923-vavio.json](./181923-vavio.json) |
 | Vayan | 216494 | [216494-vayan.json](./216494-vayan.json) |
 | VB Mario Land | 175949 | [175949-vb-mario-land.json](./175949-vb-mario-land.json) |
+| Vec-Man | 273908 | [273908-vec-man.json](./273908-vec-man.json) |
 | Vector 2 | 101939 | [101939-vector-2.json](./101939-vector-2.json) |
 | Vector the Crocodile in Sonic the Hedgehog | 198530 | [198530-vector-the-crocodile-in-sonic-the-hedgehog.json](./198530-vector-the-crocodile-in-sonic-the-hedgehog.json) |
 | Vector Vendetta | 57100 | [57100-vector-vendetta.json](./57100-vector-vendetta.json) |
 | Vector Zone | 278687 | [278687-vector-zone.json](./278687-vector-zone.json) |
+| Vectrexit | 273915 | [273915-vectrexit.json](./273915-vectrexit.json) |
 | Vectris | 273099 | [273099-vectris.json](./273099-vectris.json) |
 | VectroMirror | 140006 | [140006-vectromirror.json](./140006-vectromirror.json) |
 | Ved | 126673 | [126673-ved.json](./126673-ved.json) |
