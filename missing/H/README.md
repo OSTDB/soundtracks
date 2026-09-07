@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.O.G.S | 296914 | [296914-h-o-g-s.json](./296914-h-o-g-s.json) |
 | H@ck3r++ | 179191 | [179191-h-ck3r.json](./179191-h-ck3r.json) |
 | H2O: Footprints in the Sand | 72719 | [72719-h2o-footprints-in-the-sand.json](./72719-h2o-footprints-in-the-sand.json) |
+| H2O: High speed Boat Racing | 262403 | [262403-h2o-high-speed-boat-racing.json](./262403-h2o-high-speed-boat-racing.json) |
 | H7N9 | 305752 | [305752-h7n9.json](./305752-h7n9.json) |
 | H8machine | 210868 | [210868-h8machine.json](./210868-h8machine.json) |
 | Ha_Bits | 170537 | [170537-ha-bits.json](./170537-ha-bits.json) |
@@ -742,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Party: Secret Garden | 371251 | [371251-hentai-party-secret-garden.json](./371251-hentai-party-secret-garden.json) |
 | Hentai Party: Summer Paradise | 371249 | [371249-hentai-party-summer-paradise.json](./371249-hentai-party-summer-paradise.json) |
 | Hentai Polka | 294139 | [294139-hentai-polka.json](./294139-hentai-polka.json) |
+| Hentai Project | 262366 | [262366-hentai-project.json](./262366-hentai-project.json) |
 | Hentai Project 67 | 409529 | [409529-hentai-project-67.json](./409529-hentai-project-67.json) |
 | Hentai Pussy 4 | 214188 | [214188-hentai-pussy-4.json](./214188-hentai-pussy-4.json) |
 | Hentai Puzzle Logic Game | 110379 | [110379-hentai-puzzle-logic-game.json](./110379-hentai-puzzle-logic-game.json) |
@@ -1377,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Drift | 187531 | [187531-horror-drift.json](./187531-horror-drift.json) |
 | Horror Hospital | 29915 | [29915-horror-hospital.json](./29915-horror-hospital.json) |
 | Horror In Valkeala | 192951 | [192951-horror-in-valkeala.json](./192951-horror-in-valkeala.json) |
+| Horror Ken | 262374 | [262374-horror-ken.json](./262374-horror-ken.json) |
 | Horror Pinball Bundle | 126620 | [126620-horror-pinball-bundle.json](./126620-horror-pinball-bundle.json) |
 | Horror Room:Mystery mind story | 143092 | [143092-horror-room-mystery-mind-story.json](./143092-horror-room-mystery-mind-story.json) |
 | Horror Tale 2: Remaster | 390498 | [390498-horror-tale-2-remaster.json](./390498-horror-tale-2-remaster.json) |
