@@ -624,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relaxing Art Bundle | 231052 | [231052-relaxing-art-bundle.json](./231052-relaxing-art-bundle.json) |
 | Relaxing Farm: Merge Tales | 348805 | [348805-relaxing-farm-merge-tales.json](./348805-relaxing-farm-merge-tales.json) |
 | Relaxing Kite | 148571 | [148571-relaxing-kite.json](./148571-relaxing-kite.json) |
+| Relaxing Time: Paradise Resort - Collector's Edition | 304591 | [304591-relaxing-time-paradise-resort-collectors-edition.json](./304591-relaxing-time-paradise-resort-collectors-edition.json) |
 | Relayer: Limited Edition | 172776 | [172776-relayer-limited-edition.json](./172776-relayer-limited-edition.json) |
 | Release Me | 310173 | [310173-release-me.json](./310173-release-me.json) |
 | Relevo's Snowboarding | 311986 | [311986-relevos-snowboarding.json](./311986-relevos-snowboarding.json) |
@@ -1043,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Man | 50529 | [50529-rise-of-man.json](./50529-rise-of-man.json) |
 | Rise of Nations | 848 | [848-rise-of-nations.json](./848-rise-of-nations.json) |
 | Rise of SamuraizerzZz | 156664 | [156664-rise-of-samuraizerzzz.json](./156664-rise-of-samuraizerzzz.json) |
+| Rise of the Bugs | 304592 | [304592-rise-of-the-bugs.json](./304592-rise-of-the-bugs.json) |
 | Rise of The Fey | 82120 | [82120-rise-of-the-fey.json](./82120-rise-of-the-fey.json) |
 | Rise of the Ghostdom | 210895 | [210895-rise-of-the-ghostdom.json](./210895-rise-of-the-ghostdom.json) |
 | Rise of the Outcast Hero | 297202 | [297202-rise-of-the-outcast-hero.json](./297202-rise-of-the-outcast-hero.json) |
@@ -1315,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Racing: PinkSlip | 234322 | [234322-rogue-racing-pinkslip.json](./234322-rogue-racing-pinkslip.json) |
 | Rogue Rampage | 334130 | [334130-rogue-rampage.json](./334130-rogue-rampage.json) |
 | Rogue Randy | 166778 | [166778-rogue-randy.json](./166778-rogue-randy.json) |
+| Rogue Robot: Escape Protocol | 304616 | [304616-rogue-robot-escape-protocol.json](./304616-rogue-robot-escape-protocol.json) |
 | Rogue Run | 407304 | [407304-rogue-run.json](./407304-rogue-run.json) |
 | Rogue Shell | 395553 | [395553-rogue-shell.json](./395553-rogue-shell.json) |
 | Rogue Slime | 388018 | [388018-rogue-slime.json](./388018-rogue-slime.json) |
@@ -1398,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romancing SaGa 3 | 109592 | [109592-romancing-saga-3.json](./109592-romancing-saga-3.json) |
 | Romancing the Kingdom | 224775 | [224775-romancing-the-kingdom.json](./224775-romancing-the-kingdom.json) |
 | Romania Prop Hunt | 324291 | [324291-romania-prop-hunt.json](./324291-romania-prop-hunt.json) |
+| Romanizer | 304569 | [304569-romanizer.json](./304569-romanizer.json) |
 | Romans From Mars | 62224 | [62224-romans-from-mars.json](./62224-romans-from-mars.json) |
 | Romantic Emperor | 404858 | [404858-romantic-emperor.json](./404858-romantic-emperor.json) |
 | Romantic Escapades | 297207 | [297207-romantic-escapades.json](./297207-romantic-escapades.json) |
