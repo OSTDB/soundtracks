@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Same | 64423 | [64423-same.json](./64423-same.json) |
 | Same Room Same Day | 316610 | [316610-same-room-same-day.json](./316610-same-room-same-day.json) |
 | Same-X | 64429 | [64429-same-x.json](./64429-same-x.json) |
+| Samedi Manor | 260672 | [260672-samedi-manor.json](./260672-samedi-manor.json) |
 | SameGame | 339279 | [339279-samegame.json](./339279-samegame.json) |
 | SameGame | 64430 | [64430-samegame.json](./64430-samegame.json) |
 | SameGame Fighter | 64436 | [64436-samegame-fighter.json](./64436-samegame-fighter.json) |
@@ -762,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seishoujo Kantai Virgin Fleet | 290423 | [290423-seishoujo-kantai-virgin-fleet.json](./290423-seishoujo-kantai-virgin-fleet.json) |
 | Seka II | 292323 | [292323-seka-ii.json](./292323-seka-ii.json) |
 | Sekai de Ichiban Kimi ga Suki! | 270691 | [270691-sekai-de-ichiban-kimi-ga-suki.json](./270691-sekai-de-ichiban-kimi-ga-suki.json) |
+| Sekai no Chuushin de Mawaru | 260687 | [260687-sekai-no-chuushin-de-mawaru.json](./260687-sekai-no-chuushin-de-mawaru.json) |
 | Sekai Saikyou Ginsei Igo 3 | 347157 | [347157-sekai-saikyou-ginsei-igo-3.json](./347157-sekai-saikyou-ginsei-igo-3.json) |
 | Sekai to Sekai no Mannaka de | 187532 | [187532-sekai-to-sekai-no-mannaka-de.json](./187532-sekai-to-sekai-no-mannaka-de.json) |
 | Sekien no Inganock ~What a Beautiful People~ Fullvoice ReBORN | 378204 | [378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json](./378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json) |
@@ -1360,6 +1362,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Snow | 309867 | [309867-short-snow.json](./309867-short-snow.json) |
 | Short Trip | 324905 | [324905-short-trip.json](./324905-short-trip.json) |
 | Shot Online | 20574 | [20574-shot-online.json](./20574-shot-online.json) |
+| Shotgun Club | 260705 | [260705-shotgun-club.json](./260705-shotgun-club.json) |
+| Shougakusei no Uchi ni Oboetai Eitango | 260693 | [260693-shougakusei-no-uchi-ni-oboetai-eitango.json](./260693-shougakusei-no-uchi-ni-oboetai-eitango.json) |
 | Shoujo Activity | 194606 | [194606-shoujo-activity.json](./194606-shoujo-activity.json) |
 | Shoujo Mahou Gaku Little Witch Romanesque Bangai Hen "Sayonara, Mauresumo" | 332429 | [332429-shoujo-mahou-gaku-little-witch-romanesque-bangai-hen-sayonara-mauresumo.json](./332429-shoujo-mahou-gaku-little-witch-romanesque-bangai-hen-sayonara-mauresumo.json) |
 | Shoujo Minority: Nagusame no Ai | 194607 | [194607-shoujo-minority-nagusame-no-ai.json](./194607-shoujo-minority-nagusame-no-ai.json) |
@@ -3319,6 +3323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squish 'em | 23887 | [23887-squish-em.json](./23887-squish-em.json) |
 | Squish Run | 251204 | [251204-squish-run.json](./251204-squish-run.json) |
 | Squishy the Suicidal Pig | 9874 | [9874-squishy-the-suicidal-pig.json](./9874-squishy-the-suicidal-pig.json) |
+| Squonker 3 | 260663 | [260663-squonker-3.json](./260663-squonker-3.json) |
 | Sqwark! A Nutty Adventure | 169478 | [169478-sqwark-a-nutty-adventure.json](./169478-sqwark-a-nutty-adventure.json) |
 | SRB2 Heroes | 326954 | [326954-srb2-heroes.json](./326954-srb2-heroes.json) |
 | SRS: Street Racing Syndicate | 49382 | [49382-srs-street-racing-syndicate.json](./49382-srs-street-racing-syndicate.json) |
