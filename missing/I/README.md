@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Here, I Won't Disappear. I Am Here, I Won't... | 329547 | [329547-i-am-here-i-wont-disappear-i-am-here-i-wont.json](./329547-i-am-here-i-wont-disappear-i-am-here-i-wont.json) |
 | I am Jesus | 57681 | [57681-i-am-jesus.json](./57681-i-am-jesus.json) |
 | I Am Kilt | 291247 | [291247-i-am-kilt.json](./291247-i-am-kilt.json) |
+| I Am Level | 267956 | [267956-i-am-level.json](./267956-i-am-level.json) |
 | I am Machine | 371877 | [371877-i-am-machine.json](./371877-i-am-machine.json) |
 | I am Neutron | 294172 | [294172-i-am-neutron.json](./294172-i-am-neutron.json) |
 | I Am Night | 352165 | [352165-i-am-night.json](./352165-i-am-night.json) |
@@ -277,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Manager | 95215 | [95215-idol-manager.json](./95215-idol-manager.json) |
 | Idol Project | 283713 | [283713-idol-project.json](./283713-idol-project.json) |
 | Idol Project 2 | 283714 | [283714-idol-project-2.json](./283714-idol-project-2.json) |
+| Idol Shooter | 267960 | [267960-idol-shooter.json](./267960-idol-shooter.json) |
 | Idol Showdown | 243747 | [243747-idol-showdown.json](./243747-idol-showdown.json) |
 | Idol Tantei You&My | 246105 | [246105-idol-tantei-you-and-my.json](./246105-idol-tantei-you-and-my.json) |
 | Idolz | 348248 | [348248-idolz.json](./348248-idolz.json) |
@@ -687,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intelligent Design: An Evolutionary Sandbox | 36478 | [36478-intelligent-design-an-evolutionary-sandbox.json](./36478-intelligent-design-an-evolutionary-sandbox.json) |
 | Intellivision Rocks | 73321 | [73321-intellivision-rocks.json](./73321-intellivision-rocks.json) |
 | Intense! Miyu-chan and Teacher's Rock-Paper-Scissors Battle! | 340756 | [340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json](./340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json) |
+| Inter Milan Club Football 2005 | 267906 | [267906-inter-milan-club-football-2005.json](./267906-inter-milan-club-football-2005.json) |
 | Interactive Empathy | 392802 | [392802-interactive-empathy.json](./392802-interactive-empathy.json) |
 | Interactive Storybook DS: Series 3 | 269833 | [269833-interactive-storybook-ds-series-3.json](./269833-interactive-storybook-ds-series-3.json) |
 | Interceptor | 192153 | [192153-interceptor.json](./192153-interceptor.json) |
