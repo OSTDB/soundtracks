@@ -1197,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Is All Around: Love In The Room | 294998 | [294998-love-is-all-around-love-in-the-room.json](./294998-love-is-all-around-love-in-the-room.json) |
 | Love is in Bloom | 225300 | [225300-love-is-in-bloom.json](./225300-love-is-in-bloom.json) |
 | Love Island: The Game - Season 10 | 413632 | [413632-love-island-the-game-season-10.json](./413632-love-island-the-game-season-10.json) |
+| Love Kuesuto | 268468 | [268468-love-kuesuto.json](./268468-love-kuesuto.json) |
 | Love Language Japanese | 110424 | [110424-love-language-japanese.json](./110424-love-language-japanese.json) |
 | Love Letters | 363893 | [363893-love-letters.json](./363893-love-letters.json) |
 | Love Live! School Idol Festival: After School Activity - Wai-Wai! Home Meeting!! | 141248 | [141248-love-live-school-idol-festival-after-school-activity-wai-wai-home-meeting.json](./141248-love-live-school-idol-festival-after-school-activity-wai-wai-home-meeting.json) |
