@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am An Air Traffic Controller: Airport Hero Narita | 56474 | [56474-i-am-an-air-traffic-controller-airport-hero-narita.json](./56474-i-am-an-air-traffic-controller-airport-hero-narita.json) |
 | I Am an Air Traffic Controller: Airport Hero Osaka-KIX | 55940 | [55940-i-am-an-air-traffic-controller-airport-hero-osaka-kix.json](./55940-i-am-an-air-traffic-controller-airport-hero-osaka-kix.json) |
 | I Am An Air Traffic Controller: Airport Hero Shinchitose | 56476 | [56476-i-am-an-air-traffic-controller-airport-hero-shinchitose.json](./56476-i-am-an-air-traffic-controller-airport-hero-shinchitose.json) |
+| I Am Bad at People, but Turns Out I’m Even Worse at Making Games | 260147 | [260147-i-am-bad-at-people-but-turns-out-i-m-even-worse-at-making-games.json](./260147-i-am-bad-at-people-but-turns-out-i-m-even-worse-at-making-games.json) |
 | I Am Coin | 388739 | [388739-i-am-coin.json](./388739-i-am-coin.json) |
 | I Am Dog | 296918 | [296918-i-am-dog.json](./296918-i-am-dog.json) |
 | I am Dog(s) | 182512 | [182512-i-am-dog-s.json](./182512-i-am-dog-s.json) |
@@ -203,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Beast Hunter | 297222 | [297222-idle-beast-hunter.json](./297222-idle-beast-hunter.json) |
 | Idle Bouncer | 61644 | [61644-idle-bouncer.json](./61644-idle-bouncer.json) |
 | Idle Breakanoid | 383952 | [383952-idle-breakanoid.json](./383952-idle-breakanoid.json) |
+| Idle Build RPG | 260166 | [260166-idle-build-rpg.json](./260166-idle-build-rpg.json) |
 | Idle Business Tycoon: Build Simulator | 197933 | [197933-idle-business-tycoon-build-simulator.json](./197933-idle-business-tycoon-build-simulator.json) |
 | Idle Campaign | 210851 | [210851-idle-campaign.json](./210851-idle-campaign.json) |
 | Idle Champions of the Forgotten Realms | 43178 | [43178-idle-champions-of-the-forgotten-realms.json](./43178-idle-champions-of-the-forgotten-realms.json) |
@@ -452,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incel Simulator | 315286 | [315286-incel-simulator.json](./315286-incel-simulator.json) |
 | InCell VR | 34595 | [34595-incell-vr.json](./34595-incell-vr.json) |
 | Incinera: Pandemonium | 379865 | [379865-incinera-pandemonium.json](./379865-incinera-pandemonium.json) |
+| Incineration | 260141 | [260141-incineration.json](./260141-incineration.json) |
 | Incognito | 35782 | [35782-incognito.json](./35782-incognito.json) |
 | Incompatible Fusion Machine | 312585 | [312585-incompatible-fusion-machine.json](./312585-incompatible-fusion-machine.json) |
 | Incredible Dracula 4: Games of Gods | 119746 | [119746-incredible-dracula-4-games-of-gods.json](./119746-incredible-dracula-4-games-of-gods.json) |
