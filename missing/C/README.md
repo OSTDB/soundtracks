@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Flight | 57112 | [57112-cannon-flight.json](./57112-cannon-flight.json) |
 | CannonBall | 195227 | [195227-cannonball.json](./195227-cannonball.json) |
 | Cannot Contain | 278711 | [278711-cannot-contain.json](./278711-cannot-contain.json) |
+| Canter Crossing | 276691 | [276691-canter-crossing.json](./276691-canter-crossing.json) |
 | Cantrip Cafe | 113692 | [113692-cantrip-cafe.json](./113692-cantrip-cafe.json) |
 | Canvas of Thoughts | 399590 | [399590-canvas-of-thoughts.json](./399590-canvas-of-thoughts.json) |
 | CanvasCraft | 332241 | [332241-canvascraft.json](./332241-canvascraft.json) |
@@ -379,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars 3: Driven to Win | 28075 | [28075-cars-3-driven-to-win.json](./28075-cars-3-driven-to-win.json) |
 | Cars Mater-National Championship | 281854 | [281854-cars-mater-national-championship.json](./281854-cars-mater-national-championship.json) |
 | Cars Toon: Tokyo Mater | 230550 | [230550-cars-toon-tokyo-mater.json](./230550-cars-toon-tokyo-mater.json) |
+| Carsick Carventure | 276692 | [276692-carsick-carventure.json](./276692-carsick-carventure.json) |
 | Cart by Cart | 406723 | [406723-cart-by-cart.json](./406723-cart-by-cart.json) |
 | Cart Crawlers | 184637 | [184637-cart-crawlers.json](./184637-cart-crawlers.json) |
 | Cartagra: First Press Limited Edition | 388046 | [388046-cartagra-first-press-limited-edition.json](./388046-cartagra-first-press-limited-edition.json) |
@@ -517,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat With Gun | 363369 | [363369-cat-with-gun.json](./363369-cat-with-gun.json) |
 | Cat-aclysm | 251948 | [251948-cat-aclysm.json](./251948-cat-aclysm.json) |
 | Cat-Car Mission | 359421 | [359421-cat-car-mission.json](./359421-cat-car-mission.json) |
+| Cat-Like Concentration | 276721 | [276721-cat-like-concentration.json](./276721-cat-like-concentration.json) |
 | Cat'n'Robot: Idle Defense | 174912 | [174912-catnrobot-idle-defense.json](./174912-catnrobot-idle-defense.json) |
 | Cat's Request | 237043 | [237043-cats-request.json](./237043-cats-request.json) |
 | Cataclismo | 250162 | [250162-cataclismo.json](./250162-cataclismo.json) |
@@ -557,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch'em | 302138 | [302138-catchem.json](./302138-catchem.json) |
 | Catcha Catcha Aliens! | 61630 | [61630-catcha-catcha-aliens.json](./61630-catcha-catcha-aliens.json) |
 | CatClimber | 320550 | [320550-catclimber.json](./320550-catclimber.json) |
+| Catechesis | 276693 | [276693-catechesis.json](./276693-catechesis.json) |
 | Catena | 342033 | [342033-catena.json](./342033-catena.json) |
 | Caterzillar | 82950 | [82950-caterzillar.json](./82950-caterzillar.json) |
 | Catfighter, In the Lands of Sinners | 374059 | [374059-catfighter-in-the-lands-of-sinners.json](./374059-catfighter-in-the-lands-of-sinners.json) |
@@ -684,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Central Standard | 321130 | [321130-central-standard.json](./321130-central-standard.json) |
 | Central Station | 242244 | [242244-central-station.json](./242244-central-station.json) |
 | Centre Court Tennis | 3456 | [3456-centre-court-tennis.json](./3456-centre-court-tennis.json) |
+| Centrist | 276694 | [276694-centrist.json](./276694-centrist.json) |
 | Centropods | 45355 | [45355-centropods.json](./45355-centropods.json) |
 | Century: Age of Ashes | 141536 | [141536-century-age-of-ashes.json](./141536-century-age-of-ashes.json) |
 | Century: Age of Ashes - Colossus Deluxe Edition | 199636 | [199636-century-age-of-ashes-colossus-deluxe-edition.json](./199636-century-age-of-ashes-colossus-deluxe-edition.json) |
@@ -1044,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Puzzle 4 | 279001 | [279001-christmas-puzzle-4.json](./279001-christmas-puzzle-4.json) |
 | Christmas Race | 322983 | [322983-christmas-race.json](./322983-christmas-race.json) |
 | Christmas Rhythm | 158219 | [158219-christmas-rhythm.json](./158219-christmas-rhythm.json) |
+| Christmas Runner | 276697 | [276697-christmas-runner.json](./276697-christmas-runner.json) |
 | Christmas Stories: The Gift of the Magi | 57126 | [57126-christmas-stories-the-gift-of-the-magi.json](./57126-christmas-stories-the-gift-of-the-magi.json) |
 | Christmas Story | 378202 | [378202-christmas-story.json](./378202-christmas-story.json) |
 | Christmas with Freddy's | 239286 | [239286-christmas-with-freddys.json](./239286-christmas-with-freddys.json) |
@@ -1067,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrome Death | 259247 | [259247-chrome-death.json](./259247-chrome-death.json) |
 | Chromocide: Prism of Sin | 294171 | [294171-chromocide-prism-of-sin.json](./294171-chromocide-prism-of-sin.json) |
 | Chronautical | 253598 | [253598-chronautical.json](./253598-chronautical.json) |
+| Chronical | 276695 | [276695-chronical.json](./276695-chronical.json) |
 | Chronicle of Ekan | 169980 | [169980-chronicle-of-ekan.json](./169980-chronicle-of-ekan.json) |
 | Chronicles IV: Ebonheim | 358852 | [358852-chronicles-iv-ebonheim.json](./358852-chronicles-iv-ebonheim.json) |
 | Chronicles of 2 Heroes: Amaterasu's Wrath | 191850 | [191850-chronicles-of-2-heroes-amaterasus-wrath.json](./191850-chronicles-of-2-heroes-amaterasus-wrath.json) |
@@ -1081,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroniric | 107251 | [107251-chroniric.json](./107251-chroniric.json) |
 | Chrono | 341329 | [341329-chrono.json](./341329-chrono.json) |
 | Chrono Ark: High Roller | 314900 | [314900-chrono-ark-high-roller.json](./314900-chrono-ark-high-roller.json) |
+| Chrono Mirror | 276696 | [276696-chrono-mirror.json](./276696-chrono-mirror.json) |
 | Chrono Tales | 333574 | [333574-chrono-tales.json](./333574-chrono-tales.json) |
 | Chrono Trigger | 20398 | [20398-chrono-trigger.json](./20398-chrono-trigger.json) |
 | Chrono Trigger: Bugfix and Uncensoring Patch | 249442 | [249442-chrono-trigger-bugfix-and-uncensoring-patch.json](./249442-chrono-trigger-bugfix-and-uncensoring-patch.json) |
@@ -1970,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Crossline: Crime War | 219304 | [219304-counter-crossline-crime-war.json](./219304-counter-crossline-crime-war.json) |
 | Counter-Strike Techno: Zombies | 332267 | [332267-counter-strike-techno-zombies.json](./332267-counter-strike-techno-zombies.json) |
 | Counter-Strike: Source Offensive | 287621 | [287621-counter-strike-source-offensive.json](./287621-counter-strike-source-offensive.json) |
+| Counterglass | 276729 | [276729-counterglass.json](./276729-counterglass.json) |
 | Countess in Crimson | 169458 | [169458-countess-in-crimson.json](./169458-countess-in-crimson.json) |
 | Countin' Stars | 368496 | [368496-countin-stars.json](./368496-countin-stars.json) |
 | Counting on Frank | 71523 | [71523-counting-on-frank.json](./71523-counting-on-frank.json) |
