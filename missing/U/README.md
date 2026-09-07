@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Hyperball | 51950 | [51950-ultra-hyperball.json](./51950-ultra-hyperball.json) |
 | Ultra Mega Dungeon 64 | 397662 | [397662-ultra-mega-dungeon-64.json](./397662-ultra-mega-dungeon-64.json) |
 | Ultra Ninja Soul | 151755 | [151755-ultra-ninja-soul.json](./151755-ultra-ninja-soul.json) |
+| Ultra Vleurette | 267356 | [267356-ultra-vleurette.json](./267356-ultra-vleurette.json) |
 | Ultra Vortek | 40822 | [40822-ultra-vortek.json](./40822-ultra-vortek.json) |
 | Ultra0 | 391033 | [391033-ultra0.json](./391033-ultra0.json) |
 | Ultrabox | 267943 | [267943-ultrabox.json](./267943-ultrabox.json) |
@@ -231,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Moon: Tsukiiro Ehon | 72682 | [72682-under-the-moon-tsukiiro-ehon.json](./72682-under-the-moon-tsukiiro-ehon.json) |
 | Under the Sand | 117364 | [117364-under-the-sand.json](./117364-under-the-sand.json) |
 | Under the Sea: Swim | 233740 | [233740-under-the-sea-swim.json](./233740-under-the-sea-swim.json) |
+| Under the Witch: Beginnings | 267365 | [267365-under-the-witch-beginnings.json](./267365-under-the-witch-beginnings.json) |
 | Under the Witch's Trial | 247201 | [247201-under-the-witchs-trial.json](./247201-under-the-witchs-trial.json) |
 | Undercards | 57109 | [57109-undercards.json](./57109-undercards.json) |
 | Undercover | 321997 | [321997-undercover.json](./321997-undercover.json) |
@@ -341,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Presence | 274508 | [274508-unknown-presence.json](./274508-unknown-presence.json) |
 | Unknown Scrolls | 113719 | [113719-unknown-scrolls.json](./113719-unknown-scrolls.json) |
 | Unknown Signal: Invasion | 290695 | [290695-unknown-signal-invasion.json](./290695-unknown-signal-invasion.json) |
+| Unknown Soldier: Mokuba no Houkou | 267396 | [267396-unknown-soldier-mokuba-no-houkou.json](./267396-unknown-soldier-mokuba-no-houkou.json) |
 | Unknown Space | 400860 | [400860-unknown-space.json](./400860-unknown-space.json) |
 | Unkore | 151750 | [151750-unkore.json](./151750-unkore.json) |
 | Unleash | 398974 | [398974-unleash.json](./398974-unleash.json) |
