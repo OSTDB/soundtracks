@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harem of Nurses | 218137 | [218137-harem-of-nurses.json](./218137-harem-of-nurses.json) |
 | Harem Survivor | 294147 | [294147-harem-survivor.json](./294147-harem-survivor.json) |
 | HaremMate | 22482 | [22482-haremmate.json](./22482-haremmate.json) |
+| Hareshi Moyakana | 274989 | [274989-hareshi-moyakana.json](./274989-hareshi-moyakana.json) |
 | HarleQuest! | 246111 | [246111-harlequest.json](./246111-harlequest.json) |
 | Harley Davidson: Race Across America | 49926 | [49926-harley-davidson-race-across-america.json](./49926-harley-davidson-race-across-america.json) |
 | Harley Pasternak's Hollywood Workout | 50963 | [50963-harley-pasternaks-hollywood-workout.json](./50963-harley-pasternaks-hollywood-workout.json) |
@@ -877,6 +878,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hey Bobby! | 331697 | [331697-hey-bobby.json](./331697-hey-bobby.json) |
 | Hey Duggee: The Big Outdoor App | 88308 | [88308-hey-duggee-the-big-outdoor-app.json](./88308-hey-duggee-the-big-outdoor-app.json) |
 | Hey Ma I'm a Dragon Now | 279586 | [279586-hey-ma-im-a-dragon-now.json](./279586-hey-ma-im-a-dragon-now.json) |
+| Hi-5 DVD Game | 274991 | [274991-hi-5-dvd-game.json](./274991-hi-5-dvd-game.json) |
+| Hi-5: Fun & Games | 274993 | [274993-hi-5-fun-and-games.json](./274993-hi-5-fun-and-games.json) |
+| Hi-5: Fun Club | 274992 | [274992-hi-5-fun-club.json](./274992-hi-5-fun-club.json) |
 | Hi-Fi Rush | 233585 | [233585-hi-fi-rush.json](./233585-hi-fi-rush.json) |
 | Hi-Fi Rush: Teamplay Costume Pack | 275615 | [275615-hi-fi-rush-teamplay-costume-pack.json](./275615-hi-fi-rush-teamplay-costume-pack.json) |
 | Hi-Fi Rush: Traditional Garb Costume Pack | 255966 | [255966-hi-fi-rush-traditional-garb-costume-pack.json](./255966-hi-fi-rush-traditional-garb-costume-pack.json) |
