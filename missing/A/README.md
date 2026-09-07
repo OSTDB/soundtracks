@@ -1070,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Dark | 287174 | [287174-alone-in-the-dark.json](./287174-alone-in-the-dark.json) |
 | Alone in the Dark 2 | 340383 | [340383-alone-in-the-dark-2.json](./340383-alone-in-the-dark-2.json) |
 | Alone in the Machine | 363909 | [363909-alone-in-the-machine.json](./363909-alone-in-the-machine.json) |
+| Alone in the School | 302385 | [302385-alone-in-the-school.json](./302385-alone-in-the-school.json) |
 | Alone: Mnemophobia | 377076 | [377076-alone-mnemophobia.json](./377076-alone-mnemophobia.json) |
 | Alone? | 24926 | [24926-alone.json](./24926-alone.json) |
 | Alpaca Party | 326086 | [326086-alpaca-party.json](./326086-alpaca-party.json) |
@@ -2019,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashland: Rebellion of Gods | 194013 | [194013-ashland-rebellion-of-gods.json](./194013-ashland-rebellion-of-gods.json) |
 | Ashley's Adventure: Get a Job or Die Trying | 378209 | [378209-ashleys-adventure-get-a-job-or-die-trying.json](./378209-ashleys-adventure-get-a-job-or-die-trying.json) |
 | Ashton's Family Resort | 52604 | [52604-ashtons-family-resort.json](./52604-ashtons-family-resort.json) |
+| AsiaKingdom | 302343 | [302343-asiakingdom.json](./302343-asiakingdom.json) |
 | Asian Dynamite | 39645 | [39645-asian-dynamite.json](./39645-asian-dynamite.json) |
 | Asian Truck Simulator | 214165 | [214165-asian-truck-simulator.json](./214165-asian-truck-simulator.json) |
 | Ask Gear Re:Boost | 325447 | [325447-ask-gear-re-boost.json](./325447-ask-gear-re-boost.json) |
@@ -2125,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra Quest | 347718 | [347718-astra-quest.json](./347718-astra-quest.json) |
 | Astra Sentinel | 392126 | [392126-astra-sentinel.json](./392126-astra-sentinel.json) |
 | Astra: Fading Stars | 143124 | [143124-astra-fading-stars.json](./143124-astra-fading-stars.json) |
+| Astraea | 302349 | [302349-astraea.json](./302349-astraea.json) |
 | Astral Codec | 336546 | [336546-astral-codec.json](./336546-astral-codec.json) |
 | Astral Domine | 33078 | [33078-astral-domine.json](./33078-astral-domine.json) |
 | Astral Sever | 414337 | [414337-astral-sever.json](./414337-astral-sever.json) |
