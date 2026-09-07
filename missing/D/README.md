@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dante's Inferno: Trials of St. Lucia | 21747 | [21747-dantes-inferno-trials-of-st-lucia.json](./21747-dantes-inferno-trials-of-st-lucia.json) |
 | Dāo Qūqū | 374621 | [374621-dao-ququ.json](./374621-dao-ququ.json) |
 | Dare | 130352 | [130352-dare.json](./130352-dare.json) |
+| Dare Demo Shodan ni Nareru Igo Kyoushitsu | 283758 | [283758-dare-demo-shodan-ni-nareru-igo-kyoushitsu.json](./283758-dare-demo-shodan-ni-nareru-igo-kyoushitsu.json) |
 | Dare to Lucid Dream | 332416 | [332416-dare-to-lucid-dream.json](./332416-dare-to-lucid-dream.json) |
 | Daredemo Asobi Taizen | 137069 | [137069-daredemo-asobi-taizen.json](./137069-daredemo-asobi-taizen.json) |
 | Daredevil | 18254 | [18254-daredevil.json](./18254-daredevil.json) |
@@ -1126,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Virus | 236008 | [236008-digital-virus.json](./236008-digital-virus.json) |
 | Dik Journey | 310920 | [310920-dik-journey.json](./310920-dik-journey.json) |
 | Dilarara!! | 82876 | [82876-dilarara.json](./82876-dilarara.json) |
+| Dilemo | 283684 | [283684-dilemo.json](./283684-dilemo.json) |
 | Dillo Guy | 293890 | [293890-dillo-guy.json](./293890-dillo-guy.json) |
 | Dillon's Dead-Heat Breakers | 90687 | [90687-dillons-dead-heat-breakers.json](./90687-dillons-dead-heat-breakers.json) |
 | Diluvian Ultra: Awakening | 316989 | [316989-diluvian-ultra-awakening.json](./316989-diluvian-ultra-awakening.json) |
@@ -1648,6 +1650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom: The Gallery Experience | 327632 | [327632-doom-the-gallery-experience.json](./327632-doom-the-gallery-experience.json) |
 | Doomdark's Revenge | 12992 | [12992-doomdarks-revenge.json](./12992-doomdarks-revenge.json) |
 | Doomed Detective Game | 336542 | [336542-doomed-detective-game.json](./336542-doomed-detective-game.json) |
+| Doomed Urbex | 283731 | [283731-doomed-urbex.json](./283731-doomed-urbex.json) |
 | Doomriderz | 372451 | [372451-doomriderz.json](./372451-doomriderz.json) |
 | Doomsday Cleaner | 320542 | [320542-doomsday-cleaner.json](./320542-doomsday-cleaner.json) |
 | Doomsday of UAC | 252367 | [252367-doomsday-of-uac.json](./252367-doomsday-of-uac.json) |
