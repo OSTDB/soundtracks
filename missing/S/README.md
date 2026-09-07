@@ -4100,6 +4100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Birds Puzzles | 155628 | [155628-super-jigsaw-puzzle-generations-birds-puzzles.json](./155628-super-jigsaw-puzzle-generations-birds-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Canada | 195279 | [195279-super-jigsaw-puzzle-generations-canada.json](./195279-super-jigsaw-puzzle-generations-canada.json) |
 | Super Jigsaw Puzzle: Generations - China Puzzles | 155621 | [155621-super-jigsaw-puzzle-generations-china-puzzles.json](./155621-super-jigsaw-puzzle-generations-china-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Dogs 2 | 293064 | [293064-super-jigsaw-puzzle-generations-dogs-2.json](./293064-super-jigsaw-puzzle-generations-dogs-2.json) |
 | Super Jigsaw Puzzle: Generations - Dogs Puzzles | 155619 | [155619-super-jigsaw-puzzle-generations-dogs-puzzles.json](./155619-super-jigsaw-puzzle-generations-dogs-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Fantasy | 155613 | [155613-super-jigsaw-puzzle-generations-fantasy.json](./155613-super-jigsaw-puzzle-generations-fantasy.json) |
 | Super Jigsaw Puzzle: Generations - France Puzzles | 155632 | [155632-super-jigsaw-puzzle-generations-france-puzzles.json](./155632-super-jigsaw-puzzle-generations-france-puzzles.json) |
@@ -4124,6 +4125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Second Anniversary | 155616 | [155616-super-jigsaw-puzzle-generations-second-anniversary.json](./155616-super-jigsaw-puzzle-generations-second-anniversary.json) |
 | Super Jigsaw Puzzle: Generations - SJP Anime Reloaded Puzzles | 155627 | [155627-super-jigsaw-puzzle-generations-sjp-anime-reloaded-puzzles.json](./155627-super-jigsaw-puzzle-generations-sjp-anime-reloaded-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - SJP Monuments Puzzles | 155640 | [155640-super-jigsaw-puzzle-generations-sjp-monuments-puzzles.json](./155640-super-jigsaw-puzzle-generations-sjp-monuments-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - South Korea | 293063 | [293063-super-jigsaw-puzzle-generations-south-korea.json](./293063-super-jigsaw-puzzle-generations-south-korea.json) |
 | Super Jigsaw Puzzle: Generations - Spain Puzzles | 155617 | [155617-super-jigsaw-puzzle-generations-spain-puzzles.json](./155617-super-jigsaw-puzzle-generations-spain-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Sports Puzzles | 155644 | [155644-super-jigsaw-puzzle-generations-sports-puzzles.json](./155644-super-jigsaw-puzzle-generations-sports-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Streets Puzzles | 155646 | [155646-super-jigsaw-puzzle-generations-streets-puzzles.json](./155646-super-jigsaw-puzzle-generations-streets-puzzles.json) |
