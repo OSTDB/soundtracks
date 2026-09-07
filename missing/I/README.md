@@ -39,7 +39,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Bees 2 | 205245 | [205245-i-commissioned-some-bees-2.json](./205245-i-commissioned-some-bees-2.json) |
 | I Commissioned Some Bees Advent | 228084 | [228084-i-commissioned-some-bees-advent.json](./228084-i-commissioned-some-bees-advent.json) |
 | I Commissioned Some Bunnies 10 | 306993 | [306993-i-commissioned-some-bunnies-10.json](./306993-i-commissioned-some-bunnies-10.json) |
+| I Commissioned Some Bunnies 3 | 287070 | [287070-i-commissioned-some-bunnies-3.json](./287070-i-commissioned-some-bunnies-3.json) |
 | I Commissioned Some Invisible People 0 | 292546 | [292546-i-commissioned-some-invisible-people-0.json](./292546-i-commissioned-some-invisible-people-0.json) |
+| I Commissioned Some Ladybugs 3 | 287071 | [287071-i-commissioned-some-ladybugs-3.json](./287071-i-commissioned-some-ladybugs-3.json) |
+| I Commissioned Some Mice 3 | 287067 | [287067-i-commissioned-some-mice-3.json](./287067-i-commissioned-some-mice-3.json) |
+| I Commissioned Some Mice 4 | 287068 | [287068-i-commissioned-some-mice-4.json](./287068-i-commissioned-some-mice-4.json) |
+| I Commissioned Some Mice 5 | 287069 | [287069-i-commissioned-some-mice-5.json](./287069-i-commissioned-some-mice-5.json) |
 | I Commissioned Some Snails | 288783 | [288783-i-commissioned-some-snails.json](./288783-i-commissioned-some-snails.json) |
 | I Commissioned Some Snails 2 | 337083 | [337083-i-commissioned-some-snails-2.json](./337083-i-commissioned-some-snails-2.json) |
 | I Commissioned Some Unicorns | 257692 | [257692-i-commissioned-some-unicorns.json](./257692-i-commissioned-some-unicorns.json) |
@@ -829,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irwin Ego: Ace Attorney | 302652 | [302652-irwin-ego-ace-attorney.json](./302652-irwin-ego-ace-attorney.json) |
 | Is it Love ? Nicolae Vampire | 109023 | [109023-is-it-love-nicolae-vampire.json](./109023-is-it-love-nicolae-vampire.json) |
 | Is it Love? Blue Swan Hospital | 116392 | [116392-is-it-love-blue-swan-hospital.json](./116392-is-it-love-blue-swan-hospital.json) |
+| Is It Wrong to Try to Pick Up Girls in a Dungeon?: Battle Chronicle | 287107 | [287107-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-battle-chronicle.json](./287107-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-battle-chronicle.json) |
 | Is It Wrong To Try To Rescue Monster Girls From The Inquisition? | 247774 | [247774-is-it-wrong-to-try-to-rescue-monster-girls-from-the-inquisition.json](./247774-is-it-wrong-to-try-to-rescue-monster-girls-from-the-inquisition.json) |
 | Is the Vat Utopia or Dystopia? | 355551 | [355551-is-the-vat-utopia-or-dystopia.json](./355551-is-the-vat-utopia-or-dystopia.json) |
 | Is this a Game yet? | 353312 | [353312-is-this-a-game-yet.json](./353312-is-this-a-game-yet.json) |
