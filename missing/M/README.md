@@ -1711,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minigame Party | 257648 | [257648-minigame-party.json](./257648-minigame-party.json) |
 | Minigame Party VR | 33146 | [33146-minigame-party-vr.json](./33146-minigame-party-vr.json) |
 | Minigolf | 307596 | [307596-minigolf.json](./307596-minigolf.json) |
+| Minigolf Galaxy | 275597 | [275597-minigolf-galaxy.json](./275597-minigolf-galaxy.json) |
 | Minigolf VR | 34356 | [34356-minigolf-vr.json](./34356-minigolf-vr.json) |
 | Minigore | 76624 | [76624-minigore.json](./76624-minigore.json) |
 | Minigunner | 207509 | [207509-minigunner.json](./207509-minigunner.json) |
