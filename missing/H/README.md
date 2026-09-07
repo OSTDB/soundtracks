@@ -1049,6 +1049,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Hou: Hinamizawa Teiryuujo | 263492 | [263492-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json](./263492-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json) |
 | Higurashi no Naku Koro ni Hou: Kamikashimashi-hen | 263493 | [263493-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json](./263493-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json) |
 | Higurashi no Naku Koro ni Hou: Outbreak | 263490 | [263490-higurashi-no-naku-koro-ni-hou-outbreak.json](./263490-higurashi-no-naku-koro-ni-hou-outbreak.json) |
+| Higurashi no Naku Koro ni Kizuna: Alternative Hirukowashi-hen | 262970 | [262970-higurashi-no-naku-koro-ni-kizuna-alternative-hirukowashi-hen.json](./262970-higurashi-no-naku-koro-ni-kizuna-alternative-hirukowashi-hen.json) |
+| Higurashi no Naku Koro ni Kizuna: Himatsubushi-hen | 262960 | [262960-higurashi-no-naku-koro-ni-kizuna-himatsubushi-hen.json](./262960-higurashi-no-naku-koro-ni-kizuna-himatsubushi-hen.json) |
+| Higurashi no Naku Koro ni Kizuna: Kageboushi-hen | 262971 | [262971-higurashi-no-naku-koro-ni-kizuna-kageboushi-hen.json](./262971-higurashi-no-naku-koro-ni-kizuna-kageboushi-hen.json) |
+| Higurashi no Naku Koro ni Kizuna: Meakashi-hen | 262961 | [262961-higurashi-no-naku-koro-ni-kizuna-meakashi-hen.json](./262961-higurashi-no-naku-koro-ni-kizuna-meakashi-hen.json) |
+| Higurashi no Naku Koro ni Kizuna: Minagoroshi-hen | 262980 | [262980-higurashi-no-naku-koro-ni-kizuna-minagoroshi-hen.json](./262980-higurashi-no-naku-koro-ni-kizuna-minagoroshi-hen.json) |
+| Higurashi no Naku Koro ni Kizuna: Tsumihoroboshi-hen | 262978 | [262978-higurashi-no-naku-koro-ni-kizuna-tsumihoroboshi-hen.json](./262978-higurashi-no-naku-koro-ni-kizuna-tsumihoroboshi-hen.json) |
 | Higurashi no Naku Koro ni Matsuri: Ch.0 Himatsubushi-hen | 262688 | [262688-higurashi-no-naku-koro-ni-matsuri-ch-0-himatsubushi-hen.json](./262688-higurashi-no-naku-koro-ni-matsuri-ch-0-himatsubushi-hen.json) |
 | Higurashi no Naku Koro ni Matsuri: Ch.1 Taraimawashi-hen | 262680 | [262680-higurashi-no-naku-koro-ni-matsuri-ch-1-taraimawashi-hen.json](./262680-higurashi-no-naku-koro-ni-matsuri-ch-1-taraimawashi-hen.json) |
 | Higurashi no Naku Koro ni Matsuri: Ch.2 Onikakushi-hen | 262682 | [262682-higurashi-no-naku-koro-ni-matsuri-ch-2-onikakushi-hen.json](./262682-higurashi-no-naku-koro-ni-matsuri-ch-2-onikakushi-hen.json) |
@@ -1401,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot And Lovely Waifu XXII | 318430 | [318430-hot-and-lovely-waifu-xxii.json](./318430-hot-and-lovely-waifu-xxii.json) |
 | Hot And Lovely XXII | 318431 | [318431-hot-and-lovely-xxii.json](./318431-hot-and-lovely-xxii.json) |
 | Hot And Lovely: Dream | 296911 | [296911-hot-and-lovely-dream.json](./296911-hot-and-lovely-dream.json) |
+| Hot Candy Land | 262955 | [262955-hot-candy-land.json](./262955-hot-candy-land.json) |
 | Hot Cocoa Magic! | 249469 | [249469-hot-cocoa-magic.json](./249469-hot-cocoa-magic.json) |
 | Hot Dodge! | 158721 | [158721-hot-dodge.json](./158721-hot-dodge.json) |
 | Hot Dog Bush | 159351 | [159351-hot-dog-bush.json](./159351-hot-dog-bush.json) |
