@@ -1584,6 +1584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Fit | 303482 | [303482-domino-fit.json](./303482-domino-fit.json) |
 | Domino Sky | 33131 | [33131-domino-sky.json](./33131-domino-sky.json) |
 | Domino VR | 31894 | [31894-domino-vr.json](./31894-domino-vr.json) |
+| Dominoes Colors | 264599 | [264599-dominoes-colors.json](./264599-dominoes-colors.json) |
 | Dominos Pro | 86694 | [86694-dominos-pro.json](./86694-dominos-pro.json) |
 | Dominus Rage | 199615 | [199615-dominus-rage.json](./199615-dominus-rage.json) |
 | DommeGer's Plane | 215373 | [215373-dommegers-plane.json](./215373-dommegers-plane.json) |
