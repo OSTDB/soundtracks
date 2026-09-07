@@ -279,6 +279,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandits | 228079 | [228079-bandits.json](./228079-bandits.json) |
 | Bandits On West | 402929 | [402929-bandits-on-west.json](./402929-bandits-on-west.json) |
 | Bandle | 294451 | [294451-bandle.json](./294451-bandle.json) |
+| Bandle Tale: A League of Legends Story - Deluxe Edition | 283158 | [283158-bandle-tale-a-league-of-legends-story-deluxe-edition.json](./283158-bandle-tale-a-league-of-legends-story-deluxe-edition.json) |
+| Bandle Tale: Bigger-On-The-Inside Pack | 283187 | [283187-bandle-tale-bigger-on-the-inside-pack.json](./283187-bandle-tale-bigger-on-the-inside-pack.json) |
 | Baneseed | 184658 | [184658-baneseed.json](./184658-baneseed.json) |
 | Bang Bang Ball | 40268 | [40268-bang-bang-ball.json](./40268-bang-bang-ball.json) |
 | Bang Bang Pull Pull | 329020 | [329020-bang-bang-pull-pull.json](./329020-bang-bang-pull-pull.json) |
