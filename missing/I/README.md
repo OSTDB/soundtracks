@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Bees Advent | 228084 | [228084-i-commissioned-some-bees-advent.json](./228084-i-commissioned-some-bees-advent.json) |
 | I Commissioned Some Bunnies 10 | 306993 | [306993-i-commissioned-some-bunnies-10.json](./306993-i-commissioned-some-bunnies-10.json) |
 | I Commissioned Some Invisible People 0 | 292546 | [292546-i-commissioned-some-invisible-people-0.json](./292546-i-commissioned-some-invisible-people-0.json) |
+| I Commissioned Some Snails | 288783 | [288783-i-commissioned-some-snails.json](./288783-i-commissioned-some-snails.json) |
 | I Commissioned Some Snails 2 | 337083 | [337083-i-commissioned-some-snails-2.json](./337083-i-commissioned-some-snails-2.json) |
 | I Commissioned Some Unicorns | 257692 | [257692-i-commissioned-some-unicorns.json](./257692-i-commissioned-some-unicorns.json) |
 | I Did a Bad Thing | 229370 | [229370-i-did-a-bad-thing.json](./229370-i-did-a-bad-thing.json) |
@@ -55,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Human Machine | 195222 | [195222-i-human-machine.json](./195222-i-human-machine.json) |
 | I Know This Place..? | 244472 | [244472-i-know-this-place.json](./244472-i-know-this-place.json) |
 | I Know This Place..?: Chapter II | 291780 | [291780-i-know-this-place-chapter-ii.json](./291780-i-know-this-place-chapter-ii.json) |
+| I Know Your Address | 288776 | [288776-i-know-your-address.json](./288776-i-know-your-address.json) |
 | I Lost My Eggs: Easter | 387329 | [387329-i-lost-my-eggs-easter.json](./387329-i-lost-my-eggs-easter.json) |
 | I Lost My Luggage | 155653 | [155653-i-lost-my-luggage.json](./155653-i-lost-my-luggage.json) |
 | I Lost Someone | 362296 | [362296-i-lost-someone.json](./362296-i-lost-someone.json) |
