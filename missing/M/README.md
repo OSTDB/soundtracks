@@ -2248,9 +2248,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonstrider | 34562 | [34562-moonstrider.json](./34562-moonstrider.json) |
 | Moontales Picbook | 359999 | [359999-moontales-picbook.json](./359999-moontales-picbook.json) |
 | Mooon | 184652 | [184652-mooon.json](./184652-mooon.json) |
+| Moorhen Seasons | 282544 | [282544-moorhen-seasons.json](./282544-moorhen-seasons.json) |
 | Moorhuhn Adventure: Der Fluch des Goldes | 69856 | [69856-moorhuhn-adventure-der-fluch-des-goldes.json](./69856-moorhuhn-adventure-der-fluch-des-goldes.json) |
 | Moorhuhn Adventure: Der Schatz des Pharao | 190208 | [190208-moorhuhn-adventure-der-schatz-des-pharao.json](./190208-moorhuhn-adventure-der-schatz-des-pharao.json) |
+| Moorhuhn in Südafrika | 282543 | [282543-moorhuhn-in-sudafrika.json](./282543-moorhuhn-in-sudafrika.json) |
 | Moorhuhn: Die ersten 10 Jahre | 265946 | [265946-moorhuhn-die-ersten-10-jahre.json](./265946-moorhuhn-die-ersten-10-jahre.json) |
+| Moorhuhn: The Good, The Egg, and The Ugly Mobile | 282546 | [282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json](./282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json) |
 | MopGarden's Veggie Cart | 225879 | [225879-mopgardens-veggie-cart.json](./225879-mopgardens-veggie-cart.json) |
 | Mops & Mobs: A Sweeping Dungeon Adventure | 291767 | [291767-mops-and-mobs-a-sweeping-dungeon-adventure.json](./291767-mops-and-mobs-a-sweeping-dungeon-adventure.json) |
 | Morbid Catastrophe | 248313 | [248313-morbid-catastrophe.json](./248313-morbid-catastrophe.json) |
@@ -2799,6 +2802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
 | My Monster | 318391 | [318391-my-monster.json](./318391-my-monster.json) |
 | My Moon Mart | 212467 | [212467-my-moon-mart.json](./212467-my-moon-mart.json) |
+| My Moorhen | 282549 | [282549-my-moorhen.json](./282549-my-moorhen.json) |
 | My Name is Sarah | 129221 | [129221-my-name-is-sarah.json](./129221-my-name-is-sarah.json) |
 | My Naughty Shotgun | 197400 | [197400-my-naughty-shotgun.json](./197400-my-naughty-shotgun.json) |
 | My Neighbor is a Yandere?! | 143062 | [143062-my-neighbor-is-a-yandere.json](./143062-my-neighbor-is-a-yandere.json) |
