@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Para-sol | 309651 | [309651-para-sol.json](./309651-para-sol.json) |
 | Parachute Ninja | 232671 | [232671-parachute-ninja.json](./232671-parachute-ninja.json) |
 | Paracom | 384535 | [384535-paracom.json](./384535-paracom.json) |
+| Paradigm Island | 285976 | [285976-paradigm-island.json](./285976-paradigm-island.json) |
 | Paradigm Overhaul | 291762 | [291762-paradigm-overhaul.json](./291762-paradigm-overhaul.json) |
 | Paradigmfetish | 223137 | [223137-paradigmfetish.json](./223137-paradigmfetish.json) |
 | Paradise | 20527 | [20527-paradise.json](./20527-paradise.json) |
