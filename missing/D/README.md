@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death's Playground | 208603 | [208603-deaths-playground.json](./208603-deaths-playground.json) |
 | Deathbed Lullabye | 201328 | [201328-deathbed-lullabye.json](./201328-deathbed-lullabye.json) |
 | Deathbound: Accepted by Death | 320735 | [320735-deathbound-accepted-by-death.json](./320735-deathbound-accepted-by-death.json) |
+| Deathloop + Ghostwire: Tokyo Bundle | 281406 | [281406-deathloop-ghostwire-tokyo-bundle.json](./281406-deathloop-ghostwire-tokyo-bundle.json) |
 | Deathmatch Classic | 9073 | [9073-deathmatch-classic.json](./9073-deathmatch-classic.json) |
 | Deathmatch Soccer | 74437 | [74437-deathmatch-soccer.json](./74437-deathmatch-soccer.json) |
 | Deathmatch Village | 42683 | [42683-deathmatch-village.json](./42683-deathmatch-village.json) |
@@ -1863,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Champions | 125473 | [125473-dragon-champions.json](./125473-dragon-champions.json) |
 | Dragon City | 38877 | [38877-dragon-city.json](./38877-dragon-city.json) |
 | Dragon Coins | 63337 | [63337-dragon-coins.json](./63337-dragon-coins.json) |
+| Dragon Court | 281384 | [281384-dragon-court.json](./281384-dragon-court.json) |
 | Dragon Dance | 49940 | [49940-dragon-dance.json](./49940-dragon-dance.json) |
 | Dragon Dice | 69894 | [69894-dragon-dice.json](./69894-dragon-dice.json) |
 | Dragon Dodge Valley | 238743 | [238743-dragon-dodge-valley.json](./238743-dragon-dodge-valley.json) |
@@ -2026,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Home | 127082 | [127082-dream-home.json](./127082-dream-home.json) |
 | Dream Hotel Master | 303492 | [303492-dream-hotel-master.json](./303492-dream-hotel-master.json) |
 | Dream Invader | 220330 | [220330-dream-invader.json](./220330-dream-invader.json) |
+| Dream Island: A Skyward Journey | 281380 | [281380-dream-island-a-skyward-journey.json](./281380-dream-island-a-skyward-journey.json) |
 | Dream Knights: The Little Hero | 181372 | [181372-dream-knights-the-little-hero.json](./181372-dream-knights-the-little-hero.json) |
 | Dream Kombat | 229382 | [229382-dream-kombat.json](./229382-dream-kombat.json) |
 | Dream Labyrinth | 181934 | [181934-dream-labyrinth.json](./181934-dream-labyrinth.json) |
