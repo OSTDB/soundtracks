@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferno’s Embrace | 298902 | [298902-inferno-s-embrace.json](./298902-inferno-s-embrace.json) |
 | Infernum Bound | 337094 | [337094-infernum-bound.json](./337094-infernum-bound.json) |
 | Infestation | 9486 | [9486-infestation.json](./9486-infestation.json) |
+| Infestation: Origins | 281398 | [281398-infestation-origins.json](./281398-infestation-origins.json) |
 | Infested Planet: Planetary Campaign | 53231 | [53231-infested-planet-planetary-campaign.json](./53231-infested-planet-planetary-campaign.json) |
 | Infestus | 235456 | [235456-infestus.json](./235456-infestus.json) |
 | Infiltrate | 22413 | [22413-infiltrate.json](./22413-infiltrate.json) |
