@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T09:48:25.979Z",
-  "total_missing": 41429,
+  "generated_at": "2026-09-07T10:03:46.782Z",
+  "total_missing": 41479,
   "games": [
     {
       "igdb_id": 306086,
@@ -7571,6 +7571,11 @@
       "igdb_id": 273129,
       "game_name": "Alien Invasion",
       "file": "missing/A/273129-alien-invasion.json"
+    },
+    {
+      "igdb_id": 289888,
+      "game_name": "Alien Nah'Topsy",
+      "file": "missing/A/289888-alien-nahtopsy.json"
     },
     {
       "igdb_id": 11259,
@@ -20443,6 +20448,11 @@
       "file": "missing/B/329021-big-hunt.json"
     },
     {
+      "igdb_id": 289855,
+      "game_name": "Big Klondike: FreeCell Solitaire",
+      "file": "missing/B/289855-big-klondike-freecell-solitaire.json"
+    },
+    {
       "igdb_id": 88322,
       "game_name": "Big Mountain Snowboarding",
       "file": "missing/B/88322-big-mountain-snowboarding.json"
@@ -27863,6 +27873,11 @@
       "file": "missing/C/105922-calculation-castle-grecos-ghostly-challenge-multiplication.json"
     },
     {
+      "igdb_id": 289850,
+      "game_name": "California Swingers Club: Season 1 - Sea Swap",
+      "file": "missing/C/289850-california-swingers-club-season-1-sea-swap.json"
+    },
+    {
       "igdb_id": 292311,
       "game_name": "Call Center Tycoon",
       "file": "missing/C/292311-call-center-tycoon.json"
@@ -33531,6 +33546,21 @@
       "igdb_id": 309658,
       "game_name": "Classified: France '44 - Agent",
       "file": "missing/C/309658-classified-france-44-agent.json"
+    },
+    {
+      "igdb_id": 289856,
+      "game_name": "Classified: France '44 - Guerrilla",
+      "file": "missing/C/289856-classified-france-44-guerrilla.json"
+    },
+    {
+      "igdb_id": 289857,
+      "game_name": "Classified: France '44 - Resistance Kit",
+      "file": "missing/C/289857-classified-france-44-resistance-kit.json"
+    },
+    {
+      "igdb_id": 289858,
+      "game_name": "Classified: France '44 - Season Pass",
+      "file": "missing/C/289858-classified-france-44-season-pass.json"
     },
     {
       "igdb_id": 5777,
@@ -40638,6 +40668,11 @@
       "file": "missing/D/151190-daardoa.json"
     },
     {
+      "igdb_id": 289862,
+      "game_name": "DACHstudio Jigsaw Puzzle Box: Vanlau's Tinybuns",
+      "file": "missing/D/289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json"
+    },
+    {
       "igdb_id": 296683,
       "game_name": "DachStudio Puzzle Box:: Illumarie's Fantastic Characters",
       "file": "missing/D/296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json"
@@ -41816,6 +41851,11 @@
       "igdb_id": 102791,
       "game_name": "Darkmoor Manor",
       "file": "missing/D/102791-darkmoor-manor.json"
+    },
+    {
+      "igdb_id": 289868,
+      "game_name": "Darkness Machine",
+      "file": "missing/D/289868-darkness-machine.json"
     },
     {
       "igdb_id": 195220,
@@ -55263,6 +55303,11 @@
       "file": "missing/E/200737-endless-nightmare-shrine.json"
     },
     {
+      "igdb_id": 289872,
+      "game_name": "Endless Ocean",
+      "file": "missing/E/289872-endless-ocean.json"
+    },
+    {
       "igdb_id": 218696,
       "game_name": "Endless Siege Online",
       "file": "missing/E/218696-endless-siege-online.json"
@@ -57801,6 +57846,11 @@
       "igdb_id": 397702,
       "game_name": "Expeditions: A MudRunner Game - Season 3: Icy Shores",
       "file": "missing/E/397702-expeditions-a-mudrunner-game-season-3-icy-shores.json"
+    },
+    {
+      "igdb_id": 289860,
+      "game_name": "Expeditions: A MudRunner Game - The Great Don 71",
+      "file": "missing/E/289860-expeditions-a-mudrunner-game-the-great-don-71.json"
     },
     {
       "igdb_id": 16523,
@@ -61583,6 +61633,11 @@
       "file": "missing/F/388766-find-all-valentines-day.json"
     },
     {
+      "igdb_id": 289895,
+      "game_name": "Find Cats",
+      "file": "missing/F/289895-find-cats.json"
+    },
+    {
       "igdb_id": 359393,
       "game_name": "Find El Chupacabra",
       "file": "missing/F/359393-find-el-chupacabra.json"
@@ -62786,6 +62841,11 @@
       "igdb_id": 378803,
       "game_name": "Flag Trivia Quiz: Four Choices!",
       "file": "missing/F/378803-flag-trivia-quiz-four-choices.json"
+    },
+    {
+      "igdb_id": 289871,
+      "game_name": "Flagdashers",
+      "file": "missing/F/289871-flagdashers.json"
     },
     {
       "igdb_id": 333550,
@@ -70748,6 +70808,11 @@
       "file": "missing/G/222540-go-princess-precure-sugar-oukoku-to-6-nin-no-princess.json"
     },
     {
+      "igdb_id": 289864,
+      "game_name": "Go! Save The Queen!",
+      "file": "missing/G/289864-go-save-the-queen.json"
+    },
+    {
       "igdb_id": 414329,
       "game_name": "Go! Super Awesome Monkey!",
       "file": "missing/G/414329-go-super-awesome-monkey.json"
@@ -75506,6 +75571,11 @@
       "igdb_id": 405536,
       "game_name": "Hannibal",
       "file": "missing/H/405536-hannibal.json"
+    },
+    {
+      "igdb_id": 289870,
+      "game_name": "Hanno",
+      "file": "missing/H/289870-hanno.json"
     },
     {
       "igdb_id": 215350,
@@ -81773,6 +81843,16 @@
       "file": "missing/H/127365-hueor.json"
     },
     {
+      "igdb_id": 289853,
+      "game_name": "Hues",
+      "file": "missing/H/289853-hues.json"
+    },
+    {
+      "igdb_id": 289854,
+      "game_name": "Hues: Moon Sea",
+      "file": "missing/H/289854-hues-moon-sea.json"
+    },
+    {
       "igdb_id": 368519,
       "game_name": "Hug Me, Senpai!",
       "file": "missing/H/368519-hug-me-senpai.json"
@@ -83513,6 +83593,11 @@
       "file": "missing/I/43178-idle-champions-of-the-forgotten-realms.json"
     },
     {
+      "igdb_id": 289847,
+      "game_name": "Idle Champions: Aasimar Glitch Donaar Skin & Feat Pack",
+      "file": "missing/I/289847-idle-champions-aasimar-glitch-donaar-skin-and-feat-pack.json"
+    },
+    {
       "igdb_id": 313702,
       "game_name": "Idle Champions: Agent Vin Ursa Skin & Feat Pack",
       "file": "missing/I/313702-idle-champions-agent-vin-ursa-skin-and-feat-pack.json"
@@ -83523,9 +83608,19 @@
       "file": "missing/I/313709-idle-champions-alvina-the-tressym-familiar-pack.json"
     },
     {
+      "igdb_id": 289846,
+      "game_name": "Idle Champions: Archmage Dhadius Theme Pack",
+      "file": "missing/I/289846-idle-champions-archmage-dhadius-theme-pack.json"
+    },
+    {
       "igdb_id": 313696,
       "game_name": "Idle Champions: Avatar of Azuth Familiar Pack",
       "file": "missing/I/313696-idle-champions-avatar-of-azuth-familiar-pack.json"
+    },
+    {
+      "igdb_id": 289849,
+      "game_name": "Idle Champions: Baldur's Gate Dynaheir Theme Pack",
+      "file": "missing/I/289849-idle-champions-baldurs-gate-dynaheir-theme-pack.json"
     },
     {
       "igdb_id": 313708,
@@ -83573,6 +83668,11 @@
       "file": "missing/I/313695-idle-champions-masquerade-ball-rust-theme-pack.json"
     },
     {
+      "igdb_id": 289845,
+      "game_name": "Idle Champions: Mind Flayer Dark Urge Theme Pack",
+      "file": "missing/I/289845-idle-champions-mind-flayer-dark-urge-theme-pack.json"
+    },
+    {
       "igdb_id": 306079,
       "game_name": "Idle Champions: Ms. Squiggles the Octopus Familiar Pack",
       "file": "missing/I/306079-idle-champions-ms-squiggles-the-octopus-familiar-pack.json"
@@ -83601,6 +83701,11 @@
       "igdb_id": 313699,
       "game_name": "Idle Champions: Triton Glitch Nayeli Skin & Feat Pack",
       "file": "missing/I/313699-idle-champions-triton-glitch-nayeli-skin-and-feat-pack.json"
+    },
+    {
+      "igdb_id": 289848,
+      "game_name": "Idle Champions: Undead Knight Solaak Skin & Feat Pack",
+      "file": "missing/I/289848-idle-champions-undead-knight-solaak-skin-and-feat-pack.json"
     },
     {
       "igdb_id": 313703,
@@ -105023,6 +105128,11 @@
       "file": "missing/M/218702-maze-of-realities-reflection-of-light-collectors-edition.json"
     },
     {
+      "igdb_id": 289859,
+      "game_name": "Maze of Realities: Symphony of Invention DLC",
+      "file": "missing/M/289859-maze-of-realities-symphony-of-invention-dlc.json"
+    },
+    {
       "igdb_id": 211920,
       "game_name": "Maze of the Gamja",
       "file": "missing/M/211920-maze-of-the-gamja.json"
@@ -105586,6 +105696,11 @@
       "igdb_id": 374608,
       "game_name": "Meet Me at the Apple Garden",
       "file": "missing/M/374608-meet-me-at-the-apple-garden.json"
+    },
+    {
+      "igdb_id": 289873,
+      "game_name": "Meet My Teacher",
+      "file": "missing/M/289873-meet-my-teacher.json"
     },
     {
       "igdb_id": 326969,
@@ -106661,6 +106776,11 @@
       "igdb_id": 265415,
       "game_name": "Meow Meoww",
       "file": "missing/M/265415-meow-meoww.json"
+    },
+    {
+      "igdb_id": 289844,
+      "game_name": "Meow Moments: Valentine's Day",
+      "file": "missing/M/289844-meow-moments-valentines-day.json"
     },
     {
       "igdb_id": 335269,
@@ -108276,6 +108396,11 @@
       "igdb_id": 62780,
       "game_name": "Miku Miku Hockey",
       "file": "missing/M/62780-miku-miku-hockey.json"
+    },
+    {
+      "igdb_id": 289890,
+      "game_name": "Miku Runner",
+      "file": "missing/M/289890-miku-runner.json"
     },
     {
       "igdb_id": 299482,
@@ -125583,6 +125708,11 @@
       "file": "missing/P/347688-packri-monster.json"
     },
     {
+      "igdb_id": 289882,
+      "game_name": "Pacman Club",
+      "file": "missing/P/289882-pacman-club.json"
+    },
+    {
       "igdb_id": 230500,
       "game_name": "Pacman Cube",
       "file": "missing/P/230500-pacman-cube.json"
@@ -134578,6 +134708,11 @@
       "file": "missing/P/324128-pro-flight-simulator-deluxe.json"
     },
     {
+      "igdb_id": 289866,
+      "game_name": "Pro Football",
+      "file": "missing/P/289866-pro-football.json"
+    },
+    {
       "igdb_id": 103471,
       "game_name": "Pro Gamer Tycoon",
       "file": "missing/P/103471-pro-gamer-tycoon.json"
@@ -135861,6 +135996,11 @@
       "igdb_id": 222530,
       "game_name": "Puchicon Magazine: Soukangou",
       "file": "missing/P/222530-puchicon-magazine-soukangou.json"
+    },
+    {
+      "igdb_id": 289887,
+      "game_name": "Puck-Man Puzzler",
+      "file": "missing/P/289887-puck-man-puzzler.json"
     },
     {
       "igdb_id": 380448,
@@ -145553,6 +145693,11 @@
       "file": "missing/R/311787-roxy-raccoons-pinball-panic-paradise-parks.json"
     },
     {
+      "igdb_id": 289863,
+      "game_name": "Roxy Raccoon's Pinball Panic: Retro Revival",
+      "file": "missing/R/289863-roxy-raccoons-pinball-panic-retro-revival.json"
+    },
+    {
       "igdb_id": 337470,
       "game_name": "Roxy Raccoon's Pinball Panic: Steampunk Stories",
       "file": "missing/R/337470-roxy-raccoons-pinball-panic-steampunk-stories.json"
@@ -153796,6 +153941,11 @@
       "igdb_id": 208583,
       "game_name": "Silver Falls: Ghoul Busters",
       "file": "missing/S/208583-silver-falls-ghoul-busters.json"
+    },
+    {
+      "igdb_id": 289884,
+      "game_name": "Silver Level Pack",
+      "file": "missing/S/289884-silver-level-pack.json"
     },
     {
       "igdb_id": 40251,
@@ -170163,6 +170313,11 @@
       "file": "missing/S/35937-sword-daughter.json"
     },
     {
+      "igdb_id": 289876,
+      "game_name": "Sword Fight",
+      "file": "missing/S/289876-sword-fight.json"
+    },
+    {
       "igdb_id": 212438,
       "game_name": "Sword of Convallaria: For This World of Peace",
       "file": "missing/S/212438-sword-of-convallaria-for-this-world-of-peace.json"
@@ -171246,6 +171401,11 @@
       "igdb_id": 198529,
       "game_name": "Tails in Sonic the Hedgehog",
       "file": "missing/T/198529-tails-in-sonic-the-hedgehog.json"
+    },
+    {
+      "igdb_id": 289867,
+      "game_name": "Tails of Glimmervale",
+      "file": "missing/T/289867-tails-of-glimmervale.json"
     },
     {
       "igdb_id": 116422,
@@ -175323,6 +175483,11 @@
       "file": "missing/T/153450-the-bugs-bunny-crazy-castle.json"
     },
     {
+      "igdb_id": 289885,
+      "game_name": "The Bugs Bunny Crazy Castle Atarisized",
+      "file": "missing/T/289885-the-bugs-bunny-crazy-castle-atarisized.json"
+    },
+    {
       "igdb_id": 176513,
       "game_name": "The Building 71 Incident",
       "file": "missing/T/176513-the-building-71-incident.json"
@@ -178656,6 +178821,11 @@
       "igdb_id": 346608,
       "game_name": "The Land of Rest 1",
       "file": "missing/T/346608-the-land-of-rest-1.json"
+    },
+    {
+      "igdb_id": 289865,
+      "game_name": "The Land of the Magnates",
+      "file": "missing/T/289865-the-land-of-the-magnates.json"
     },
     {
       "igdb_id": 302963,
@@ -195968,6 +196138,11 @@
       "file": "missing/V/388749-victordle.json"
     },
     {
+      "igdb_id": 289852,
+      "game_name": "Victoria 3: Trains Bonus Pack",
+      "file": "missing/V/289852-victoria-3-trains-bonus-pack.json"
+    },
+    {
       "igdb_id": 247786,
       "game_name": "Victoria 3: Voice of the People",
       "file": "missing/V/247786-victoria-3-voice-of-the-people.json"
@@ -198468,6 +198643,11 @@
       "file": "missing/W/53888-warhammer-40-000-armageddon-ork-hunters.json"
     },
     {
+      "igdb_id": 289900,
+      "game_name": "Warhammer 40,000: Battlesector - T'au",
+      "file": "missing/W/289900-warhammer-40-000-battlesector-tau.json"
+    },
+    {
       "igdb_id": 27768,
       "game_name": "Warhammer 40,000: Dawn of War III - Collector's Edition",
       "file": "missing/W/27768-warhammer-40-000-dawn-of-war-iii-collectors-edition.json"
@@ -199036,6 +199216,11 @@
       "igdb_id": 161399,
       "game_name": "Wave Rider",
       "file": "missing/W/161399-wave-rider.json"
+    },
+    {
+      "igdb_id": 289899,
+      "game_name": "Wave Weaver",
+      "file": "missing/W/289899-wave-weaver.json"
     },
     {
       "igdb_id": 362808,
@@ -200073,6 +200258,11 @@
       "file": "missing/W/161396-where-is-the-meaning.json"
     },
     {
+      "igdb_id": 289896,
+      "game_name": "Where Safety Ends R",
+      "file": "missing/W/289896-where-safety-ends-r.json"
+    },
+    {
       "igdb_id": 364488,
       "game_name": "Where Sea Foam Fades",
       "file": "missing/W/364488-where-sea-foam-fades.json"
@@ -200626,6 +200816,11 @@
       "igdb_id": 335243,
       "game_name": "Why?",
       "file": "missing/W/335243-why.json"
+    },
+    {
+      "igdb_id": 289897,
+      "game_name": "WhyImmortal",
+      "file": "missing/W/289897-whyimmortal.json"
     },
     {
       "igdb_id": 268206,
@@ -201813,6 +202008,11 @@
       "file": "missing/W/211927-wizard-man.json"
     },
     {
+      "igdb_id": 289898,
+      "game_name": "Wizard Mukbang: The Game",
+      "file": "missing/W/289898-wizard-mukbang-the-game.json"
+    },
+    {
       "igdb_id": 68043,
       "game_name": "Wizard of Wall Street",
       "file": "missing/W/68043-wizard-of-wall-street.json"
@@ -202983,6 +203183,11 @@
       "file": "missing/W/3432-world-of-warplanes.json"
     },
     {
+      "igdb_id": 289894,
+      "game_name": "World of Warplanes: Potez 540 Pack",
+      "file": "missing/W/289894-world-of-warplanes-potez-540-pack.json"
+    },
+    {
       "igdb_id": 225866,
       "game_name": "World of Warships: Admiral Graf Spee Pack",
       "file": "missing/W/225866-world-of-warships-admiral-graf-spee-pack.json"
@@ -203336,6 +203541,11 @@
       "igdb_id": 320552,
       "game_name": "Worst Case",
       "file": "missing/W/320552-worst-case.json"
+    },
+    {
+      "igdb_id": 289893,
+      "game_name": "Worst Coach in the World",
+      "file": "missing/W/289893-worst-coach-in-the-world.json"
     },
     {
       "igdb_id": 178658,
@@ -203798,6 +204008,11 @@
       "file": "missing/W/290721-wyrmbound.json"
     },
     {
+      "igdb_id": 289861,
+      "game_name": "Wyvern Studios Solitaire: 30th Aniversary Edition",
+      "file": "missing/W/289861-wyvern-studios-solitaire-30th-aniversary-edition.json"
+    },
+    {
       "igdb_id": 12271,
       "game_name": "X Multiply",
       "file": "missing/X/12271-x-multiply.json"
@@ -203893,9 +204108,19 @@
       "file": "missing/X/205810-x-plane-10-regional-edition-north-america.json"
     },
     {
+      "igdb_id": 289892,
+      "game_name": "X-Plane 11: Aerosoft - Society Islands XP: Tahiti & Windward Islands",
+      "file": "missing/X/289892-x-plane-11-aerosoft-society-islands-xp-tahiti-and-windward-islands.json"
+    },
+    {
       "igdb_id": 168367,
       "game_name": "X-Plane 11: Aerosoft Seychelles XP",
       "file": "missing/X/168367-x-plane-11-aerosoft-seychelles-xp.json"
+    },
+    {
+      "igdb_id": 289881,
+      "game_name": "X-Plane 12: Aerosoft - Society Islands XP: Tahiti & Windward Islands",
+      "file": "missing/X/289881-x-plane-12-aerosoft-society-islands-xp-tahiti-and-windward-islands.json"
     },
     {
       "igdb_id": 72091,
@@ -204268,6 +204493,11 @@
       "file": "missing/X/304330-xonix.json"
     },
     {
+      "igdb_id": 289880,
+      "game_name": "XP Racing",
+      "file": "missing/X/289880-xp-racing.json"
+    },
+    {
       "igdb_id": 15569,
       "game_name": "XP8",
       "file": "missing/X/15569-xp8.json"
@@ -204281,6 +204511,11 @@
       "igdb_id": 55210,
       "game_name": "XR-35",
       "file": "missing/X/55210-xr-35.json"
+    },
+    {
+      "igdb_id": 289883,
+      "game_name": "XRick",
+      "file": "missing/X/289883-xrick.json"
     },
     {
       "igdb_id": 43942,
@@ -204436,6 +204671,11 @@
       "igdb_id": 58248,
       "game_name": "Y-Tiles",
       "file": "missing/Y/58248-y-tiles.json"
+    },
+    {
+      "igdb_id": 289879,
+      "game_name": "Yaad",
+      "file": "missing/Y/289879-yaad.json"
     },
     {
       "igdb_id": 385065,
@@ -204921,6 +205161,11 @@
       "igdb_id": 103052,
       "game_name": "Yomawari: The Long Night Collection",
       "file": "missing/Y/103052-yomawari-the-long-night-collection.json"
+    },
+    {
+      "igdb_id": 289877,
+      "game_name": "Yomi 2: Renegades",
+      "file": "missing/Y/289877-yomi-2-renegades.json"
     },
     {
       "igdb_id": 208061,
@@ -206061,6 +206306,11 @@
       "igdb_id": 23871,
       "game_name": "Zeppelin",
       "file": "missing/Z/23871-zeppelin.json"
+    },
+    {
+      "igdb_id": 289878,
+      "game_name": "Zerko",
+      "file": "missing/Z/289878-zerko.json"
     },
     {
       "igdb_id": 40818,
