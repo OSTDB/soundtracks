@@ -1800,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runway | 174345 | [174345-runway.json](./174345-runway.json) |
 | Runway 66 | 348768 | [348768-runway-66.json](./348768-runway-66.json) |
 | RuPaul's Drag Race Match Queen | 339640 | [339640-rupauls-drag-race-match-queen.json](./339640-rupauls-drag-race-match-queen.json) |
+| Rupture | 261821 | [261821-rupture.json](./261821-rupture.json) |
 | Ruptured | 226438 | [226438-ruptured.json](./226438-ruptured.json) |
 | Rupupu Cube: Lup Salad | 66137 | [66137-rupupu-cube-lup-salad.json](./66137-rupupu-cube-lup-salad.json) |
 | Rural Nightmare | 272007 | [272007-rural-nightmare.json](./272007-rural-nightmare.json) |
