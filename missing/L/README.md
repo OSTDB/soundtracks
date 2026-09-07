@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter Lost | 343275 | [343275-letter-lost.json](./343275-letter-lost.json) |
 | Letter Quest: Grimm's Journey | 17942 | [17942-letter-quest-grimms-journey.json](./17942-letter-quest-grimms-journey.json) |
 | Letter Snap: Term Challenge | 409537 | [409537-letter-snap-term-challenge.json](./409537-letter-snap-term-challenge.json) |
+| Letter to a Landlord | 309345 | [309345-letter-to-a-landlord.json](./309345-letter-to-a-landlord.json) |
 | Letter Vetter | 149084 | [149084-letter-vetter.json](./149084-letter-vetter.json) |
 | Letter Zap! | 70430 | [70430-letter-zap.json](./70430-letter-zap.json) |
 | Letteral | 242795 | [242795-letteral.json](./242795-letteral.json) |
