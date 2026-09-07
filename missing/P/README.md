@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper io 2: Complete Edition | 331857 | [331857-paper-io-2-complete-edition.json](./331857-paper-io-2-complete-edition.json) |
 | Paper Mario Eggstraordinary Egg Hunt | 245039 | [245039-paper-mario-eggstraordinary-egg-hunt.json](./245039-paper-mario-eggstraordinary-egg-hunt.json) |
 | Paper Mario Multiplayer | 159325 | [159325-paper-mario-multiplayer.json](./159325-paper-mario-multiplayer.json) |
+| Paper Mario Randomizer | 304045 | [304045-paper-mario-randomizer.json](./304045-paper-mario-randomizer.json) |
 | Paper Mario TTYD64 | 257636 | [257636-paper-mario-ttyd64.json](./257636-paper-mario-ttyd64.json) |
 | Paper Mario World | 339661 | [339661-paper-mario-world.json](./339661-paper-mario-world.json) |
 | Paper Mario World 2 | 339668 | [339668-paper-mario-world-2.json](./339668-paper-mario-world-2.json) |
@@ -740,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Wrong | 413602 | [413602-phoenix-wrong.json](./413602-phoenix-wrong.json) |
 | Phonequest | 134694 | [134694-phonequest.json](./134694-phonequest.json) |
 | Phonics Fun with Biff, Chip & Kipper Vol. 1 | 61657 | [61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json](./61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json) |
+| Phoots and the Pineapple Throne | 304015 | [304015-phoots-and-the-pineapple-throne.json](./304015-phoots-and-the-pineapple-throne.json) |
 | Photogeist Albums: Case 1 | 307337 | [307337-photogeist-albums-case-1.json](./307337-photogeist-albums-case-1.json) |
 | Photon Cube | 104057 | [104057-photon-cube.json](./104057-photon-cube.json) |
 | Photon Flux | 68703 | [68703-photon-flux.json](./68703-photon-flux.json) |
