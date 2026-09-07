@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T06:03:23.558Z",
-  "total_missing": 40679,
+  "generated_at": "2026-09-07T06:18:19.782Z",
+  "total_missing": 40729,
   "games": [
     {
       "igdb_id": 306086,
@@ -18658,6 +18658,31 @@
       "file": "missing/B/357250-beat-saber-britney-spears-music-pack.json"
     },
     {
+      "igdb_id": 298063,
+      "game_name": "Beat Saber: Daft Punk - \"Da Funk / Daftendirekt\"",
+      "file": "missing/B/298063-beat-saber-daft-punk-da-funk-daftendirekt.json"
+    },
+    {
+      "igdb_id": 298030,
+      "game_name": "Beat Saber: Daft Punk - \"Lose Yourself to Dance (feat. Pharrell Williams)\"",
+      "file": "missing/B/298030-beat-saber-daft-punk-lose-yourself-to-dance-feat-pharrell-williams.json"
+    },
+    {
+      "igdb_id": 298060,
+      "game_name": "Beat Saber: Daft Punk - \"One More Time\"",
+      "file": "missing/B/298060-beat-saber-daft-punk-one-more-time.json"
+    },
+    {
+      "igdb_id": 298062,
+      "game_name": "Beat Saber: Daft Punk - \"Technologic\"",
+      "file": "missing/B/298062-beat-saber-daft-punk-technologic.json"
+    },
+    {
+      "igdb_id": 298027,
+      "game_name": "Beat Saber: Daft Punk - \"Veridis Quo\"",
+      "file": "missing/B/298027-beat-saber-daft-punk-veridis-quo.json"
+    },
+    {
       "igdb_id": 357254,
       "game_name": "Beat Saber: Daft Punk Music Pack",
       "file": "missing/B/357254-beat-saber-daft-punk-music-pack.json"
@@ -19143,6 +19168,11 @@
       "file": "missing/B/26188-behold-the-kickmen.json"
     },
     {
+      "igdb_id": 298041,
+      "game_name": "Beholder: Conductor",
+      "file": "missing/B/298041-beholder-conductor.json"
+    },
+    {
       "igdb_id": 228739,
       "game_name": "Beholgar: Collector's Edition",
       "file": "missing/B/228739-beholgar-collectors-edition.json"
@@ -19551,6 +19581,11 @@
       "igdb_id": 86721,
       "game_name": "Bergen Bridge Beginner 1",
       "file": "missing/B/86721-bergen-bridge-beginner-1.json"
+    },
+    {
+      "igdb_id": 298059,
+      "game_name": "Berkeley's Maid: Remake Edition",
+      "file": "missing/B/298059-berkeleys-maid-remake-edition.json"
     },
     {
       "igdb_id": 43365,
@@ -20346,6 +20381,11 @@
       "igdb_id": 22429,
       "game_name": "Bingo 75",
       "file": "missing/B/22429-bingo-75.json"
+    },
+    {
+      "igdb_id": 298035,
+      "game_name": "Bingo Beavers: Kitchen",
+      "file": "missing/B/298035-bingo-beavers-kitchen.json"
     },
     {
       "igdb_id": 377081,
@@ -39038,6 +39078,11 @@
       "file": "missing/C/222498-custom-monsters.json"
     },
     {
+      "igdb_id": 298043,
+      "game_name": "Custom Order Maid 3D2: It's a Night Magic the Arrival of Spring All In Pack",
+      "file": "missing/C/298043-custom-order-maid-3d2-its-a-night-magic-the-arrival-of-spring-all-in-pack.json"
+    },
+    {
       "igdb_id": 296663,
       "game_name": "Custom Order Maid 3D2: Mature, Level-Headed, and Dependable Secretary Maid GP-01",
       "file": "missing/C/296663-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01.json"
@@ -57238,6 +57283,11 @@
       "file": "missing/F/238217-faeria-game-all-dlc-bundle.json"
     },
     {
+      "igdb_id": 298022,
+      "game_name": "Faery: Swapped",
+      "file": "missing/F/298022-faery-swapped.json"
+    },
+    {
       "igdb_id": 298554,
       "game_name": "Fahrenheit",
       "file": "missing/F/298554-fahrenheit.json"
@@ -70621,6 +70671,11 @@
       "igdb_id": 277008,
       "game_name": "Gran Carismo",
       "file": "missing/G/277008-gran-carismo.json"
+    },
+    {
+      "igdb_id": 298017,
+      "game_name": "Gran Turismo 2000",
+      "file": "missing/G/298017-gran-turismo-2000.json"
     },
     {
       "igdb_id": 339256,
@@ -87098,6 +87153,11 @@
       "file": "missing/J/218722-jojo-siwa-worldwide-party.json"
     },
     {
+      "igdb_id": 298016,
+      "game_name": "JoJo's Bizarre Adventure: All Star Battle - Golden Experience Box",
+      "file": "missing/J/298016-jojos-bizarre-adventure-all-star-battle-golden-experience-box.json"
+    },
+    {
       "igdb_id": 128606,
       "game_name": "Jojo's Bizarre Adventure: The 7th Stand User",
       "file": "missing/J/128606-jojos-bizarre-adventure-the-7th-stand-user.json"
@@ -95783,6 +95843,11 @@
       "file": "missing/L/391073-ling-and-the-corrupted-hollow.json"
     },
     {
+      "igdb_id": 298038,
+      "game_name": "LingerieS",
+      "file": "missing/L/298038-lingeries.json"
+    },
+    {
       "igdb_id": 383935,
       "game_name": "Linggango",
       "file": "missing/L/383935-linggango.json"
@@ -95916,6 +95981,11 @@
       "igdb_id": 310387,
       "game_name": "Liquidum: Secrets of the Deep",
       "file": "missing/L/310387-liquidum-secrets-of-the-deep.json"
+    },
+    {
+      "igdb_id": 298051,
+      "game_name": "Liquidum: Small & Tricky",
+      "file": "missing/L/298051-liquidum-small-and-tricky.json"
     },
     {
       "igdb_id": 326398,
@@ -100073,6 +100143,11 @@
       "file": "missing/M/376447-maid-moving-boxes.json"
     },
     {
+      "igdb_id": 298032,
+      "game_name": "Maid Survivors: Little Angels",
+      "file": "missing/M/298032-maid-survivors-little-angels.json"
+    },
+    {
       "igdb_id": 396913,
       "game_name": "Maid-Sama Cafe: Anime Girls Services in Cute Outfits",
       "file": "missing/M/396913-maid-sama-cafe-anime-girls-services-in-cute-outfits.json"
@@ -104033,6 +104108,11 @@
       "file": "missing/M/259837-melvor-idle-atlas-of-discovery.json"
     },
     {
+      "igdb_id": 298026,
+      "game_name": "Melvor Idle: Into the Abyss",
+      "file": "missing/M/298026-melvor-idle-into-the-abyss.json"
+    },
+    {
       "igdb_id": 404875,
       "game_name": "Memasiki po Classice",
       "file": "missing/M/404875-memasiki-po-classice.json"
@@ -104761,6 +104841,16 @@
       "igdb_id": 383391,
       "game_name": "Metal Gear Solid 3: Snake Eater - Master Collection Version",
       "file": "missing/M/383391-metal-gear-solid-3-snake-eater-master-collection-version.json"
+    },
+    {
+      "igdb_id": 298015,
+      "game_name": "Metal Gear Solid HD Edition - Premium Package",
+      "file": "missing/M/298015-metal-gear-solid-hd-edition-premium-package.json"
+    },
+    {
+      "igdb_id": 298021,
+      "game_name": "Metal Gear Solid V: The Phantom Pain - Special Edition",
+      "file": "missing/M/298021-metal-gear-solid-v-the-phantom-pain-special-edition.json"
     },
     {
       "igdb_id": 235458,
@@ -111558,6 +111648,11 @@
       "file": "missing/M/256543-music-puzzle.json"
     },
     {
+      "igdb_id": 298031,
+      "game_name": "Music Sim Empire",
+      "file": "missing/M/298031-music-sim-empire.json"
+    },
+    {
       "igdb_id": 243404,
       "game_name": "Musical de Primeiro de Abril",
       "file": "missing/M/243404-musical-de-primeiro-de-abril.json"
@@ -115293,6 +115388,11 @@
       "file": "missing/N/253566-neverending-check-in-the-hotel-stories.json"
     },
     {
+      "igdb_id": 298064,
+      "game_name": "NeverGoingHome",
+      "file": "missing/N/298064-nevergoinghome.json"
+    },
+    {
       "igdb_id": 39003,
       "game_name": "NeverGone",
       "file": "missing/N/39003-nevergone.json"
@@ -116626,6 +116726,11 @@
       "igdb_id": 44657,
       "game_name": "Ninja Gaiden Sigma 2: Collector's Edition",
       "file": "missing/N/44657-ninja-gaiden-sigma-2-collectors-edition.json"
+    },
+    {
+      "igdb_id": 298018,
+      "game_name": "Ninja Gaiden Sigma 2: Premium Box",
+      "file": "missing/N/298018-ninja-gaiden-sigma-2-premium-box.json"
     },
     {
       "igdb_id": 269875,
@@ -121016,6 +121121,11 @@
       "igdb_id": 86715,
       "game_name": "Ono: Fast Card Game Fun",
       "file": "missing/O/86715-ono-fast-card-game-fun.json"
+    },
+    {
+      "igdb_id": 298039,
+      "game_name": "Onoow",
+      "file": "missing/O/298039-onoow.json"
     },
     {
       "igdb_id": 132270,
@@ -129828,6 +129938,11 @@
       "file": "missing/P/313114-pokemon-desert-bus.json"
     },
     {
+      "igdb_id": 298034,
+      "game_name": "Pokémon: Golden Emerald",
+      "file": "missing/P/298034-pokemon-golden-emerald.json"
+    },
+    {
       "igdb_id": 135872,
       "game_name": "Pokémon: Legends of the Arena",
       "file": "missing/P/135872-pokemon-legends-of-the-arena.json"
@@ -133198,6 +133313,11 @@
       "file": "missing/P/177051-pugovki.json"
     },
     {
+      "igdb_id": 298053,
+      "game_name": "PUIQ: Demons",
+      "file": "missing/P/298053-puiq-demons.json"
+    },
+    {
       "igdb_id": 406109,
       "game_name": "Pull the Beer",
       "file": "missing/P/406109-pull-the-beer.json"
@@ -133493,6 +133613,11 @@
       "file": "missing/P/175431-pureskate-2.json"
     },
     {
+      "igdb_id": 298048,
+      "game_name": "Purgatory Survivors",
+      "file": "missing/P/298048-purgatory-survivors.json"
+    },
+    {
       "igdb_id": 58246,
       "game_name": "Purgatory: Echoes From the Void",
       "file": "missing/P/58246-purgatory-echoes-from-the-void.json"
@@ -133611,6 +133736,11 @@
       "igdb_id": 369026,
       "game_name": "Pushed a 'Bot!",
       "file": "missing/P/369026-pushed-a-bot.json"
+    },
+    {
+      "igdb_id": 298033,
+      "game_name": "Pushing It! With Sisyphus",
+      "file": "missing/P/298033-pushing-it-with-sisyphus.json"
     },
     {
       "igdb_id": 298578,
@@ -136086,6 +136216,11 @@
       "igdb_id": 137669,
       "game_name": "Rance Quest Magnum",
       "file": "missing/R/137669-rance-quest-magnum.json"
+    },
+    {
+      "igdb_id": 298049,
+      "game_name": "Ranch Mayhem",
+      "file": "missing/R/298049-ranch-mayhem.json"
     },
     {
       "igdb_id": 333012,
@@ -138726,6 +138861,11 @@
       "igdb_id": 20456,
       "game_name": "Resident Evil: Deadly Silence",
       "file": "missing/R/20456-resident-evil-deadly-silence.json"
+    },
+    {
+      "igdb_id": 298036,
+      "game_name": "Resident Evil: Grim Beginnings",
+      "file": "missing/R/298036-resident-evil-grim-beginnings.json"
     },
     {
       "igdb_id": 185684,
@@ -142908,6 +143048,11 @@
       "file": "missing/R/274209-rrward02.json"
     },
     {
+      "igdb_id": 298065,
+      "game_name": "RSSU: Retro Style Soviet Undies",
+      "file": "missing/R/298065-rssu-retro-style-soviet-undies.json"
+    },
+    {
       "igdb_id": 359992,
       "game_name": "RTA New York Street",
       "file": "missing/R/359992-rta-new-york-street.json"
@@ -142996,6 +143141,11 @@
       "igdb_id": 96741,
       "game_name": "Ruby Square: logical puzzle game",
       "file": "missing/R/96741-ruby-square-logical-puzzle-game.json"
+    },
+    {
+      "igdb_id": 298052,
+      "game_name": "Ruby's Land",
+      "file": "missing/R/298052-rubys-land.json"
     },
     {
       "igdb_id": 304033,
@@ -146543,6 +146693,11 @@
       "file": "missing/S/318389-sea-of-stars-dawn-of-equinox.json"
     },
     {
+      "igdb_id": 298029,
+      "game_name": "Sea of Thieves: 2024 Deluxe Bundle",
+      "file": "missing/S/298029-sea-of-thieves-2024-deluxe-bundle.json"
+    },
+    {
       "igdb_id": 335072,
       "game_name": "Sea of Thieves: 2024 Edition",
       "file": "missing/S/335072-sea-of-thieves-2024-edition.json"
@@ -146911,6 +147066,11 @@
       "igdb_id": 243930,
       "game_name": "Secret Pet Playmate",
       "file": "missing/S/243930-secret-pet-playmate.json"
+    },
+    {
+      "igdb_id": 298024,
+      "game_name": "Secret Pie: End Roll",
+      "file": "missing/S/298024-secret-pie-end-roll.json"
     },
     {
       "igdb_id": 201864,
@@ -148846,6 +149006,11 @@
       "igdb_id": 336568,
       "game_name": "SharpShooter3D",
       "file": "missing/S/336568-sharpshooter3d.json"
+    },
+    {
+      "igdb_id": 298044,
+      "game_name": "Shashingo: Learn Japanese with Photography - Additional Camera Filters",
+      "file": "missing/S/298044-shashingo-learn-japanese-with-photography-additional-camera-filters.json"
     },
     {
       "igdb_id": 137083,
@@ -151958,6 +152123,11 @@
       "file": "missing/S/348247-sky-reclaimers.json"
     },
     {
+      "igdb_id": 298045,
+      "game_name": "Sky Roller Coaster",
+      "file": "missing/S/298045-sky-roller-coaster.json"
+    },
+    {
       "igdb_id": 392131,
       "game_name": "Sky Scaffold",
       "file": "missing/S/392131-sky-scaffold.json"
@@ -152571,6 +152741,11 @@
       "igdb_id": 301812,
       "game_name": "Slime Coming",
       "file": "missing/S/301812-slime-coming.json"
+    },
+    {
+      "igdb_id": 298056,
+      "game_name": "Slime Cores",
+      "file": "missing/S/298056-slime-cores.json"
     },
     {
       "igdb_id": 161389,
@@ -154751,6 +154926,11 @@
       "igdb_id": 335247,
       "game_name": "Something Took Her",
       "file": "missing/S/335247-something-took-her.json"
+    },
+    {
+      "igdb_id": 298047,
+      "game_name": "Something's Not Right",
+      "file": "missing/S/298047-somethings-not-right.json"
     },
     {
       "igdb_id": 35712,
@@ -157948,6 +158128,11 @@
       "file": "missing/S/46761-spider-man-the-video-game.json"
     },
     {
+      "igdb_id": 298042,
+      "game_name": "Spiderbro 2",
+      "file": "missing/S/298042-spiderbro-2.json"
+    },
+    {
       "igdb_id": 137073,
       "game_name": "SpiderHeck",
       "file": "missing/S/137073-spiderheck.json"
@@ -159123,6 +159308,11 @@
       "file": "missing/S/4851-stacking.json"
     },
     {
+      "igdb_id": 298028,
+      "game_name": "Stacklands 2000",
+      "file": "missing/S/298028-stacklands-2000.json"
+    },
+    {
       "igdb_id": 337983,
       "game_name": "StackZap",
       "file": "missing/S/337983-stackzap.json"
@@ -159368,9 +159558,19 @@
       "file": "missing/S/354436-star-conflict-pirate-weapons-pack.json"
     },
     {
+      "igdb_id": 298046,
+      "game_name": "Star Conflict: Procyon - Deluxe Edition",
+      "file": "missing/S/298046-star-conflict-procyon-deluxe-edition.json"
+    },
+    {
       "igdb_id": 354431,
       "game_name": "Star Conflict: Raven",
       "file": "missing/S/354431-star-conflict-raven.json"
+    },
+    {
+      "igdb_id": 298040,
+      "game_name": "Star Conflict: Salamander",
+      "file": "missing/S/298040-star-conflict-salamander.json"
     },
     {
       "igdb_id": 310394,
@@ -160133,6 +160333,11 @@
       "file": "missing/S/131612-starfall-online.json"
     },
     {
+      "igdb_id": 298037,
+      "game_name": "Starfall: Operation Outro",
+      "file": "missing/S/298037-starfall-operation-outro.json"
+    },
+    {
       "igdb_id": 269304,
       "game_name": "Starfield Digipick-Locking Minigame Simulator",
       "file": "missing/S/269304-starfield-digipick-locking-minigame-simulator.json"
@@ -160391,6 +160596,11 @@
       "igdb_id": 72724,
       "game_name": "Starship Troopers: Battlespace",
       "file": "missing/S/72724-starship-troopers-battlespace.json"
+    },
+    {
+      "igdb_id": 298054,
+      "game_name": "Starship Troopers: Terran Command - Urban Onslaught",
+      "file": "missing/S/298054-starship-troopers-terran-command-urban-onslaught.json"
     },
     {
       "igdb_id": 389422,
@@ -161941,6 +162151,11 @@
       "igdb_id": 45196,
       "game_name": "Street Fighter 2010: The Final Fight",
       "file": "missing/S/45196-street-fighter-2010-the-final-fight.json"
+    },
+    {
+      "igdb_id": 298020,
+      "game_name": "Street Fighter 30th Anniversary Collection: International",
+      "file": "missing/S/298020-street-fighter-30th-anniversary-collection-international.json"
     },
     {
       "igdb_id": 191692,
@@ -168353,6 +168568,11 @@
       "file": "missing/T/54424-tales-of-lagoona-orphans-of-the-ocean.json"
     },
     {
+      "igdb_id": 298057,
+      "game_name": "Tales of Lost Ages Vol 1.",
+      "file": "missing/T/298057-tales-of-lost-ages-vol-1.json"
+    },
+    {
       "igdb_id": 389982,
       "game_name": "Tales of Medieval Duelists",
       "file": "missing/T/389982-tales-of-medieval-duelists.json"
@@ -169011,6 +169231,11 @@
       "igdb_id": 210872,
       "game_name": "Tanks Boom Boom",
       "file": "missing/T/210872-tanks-boom-boom.json"
+    },
+    {
+      "igdb_id": 298013,
+      "game_name": "Tanks Defense",
+      "file": "missing/T/298013-tanks-defense.json"
     },
     {
       "igdb_id": 117073,
@@ -171286,6 +171511,11 @@
       "igdb_id": 301838,
       "game_name": "The Artifact of Ancients",
       "file": "missing/T/301838-the-artifact-of-ancients.json"
+    },
+    {
+      "igdb_id": 298061,
+      "game_name": "The Ascot",
+      "file": "missing/T/298061-the-ascot.json"
     },
     {
       "igdb_id": 199088,
@@ -179128,6 +179358,11 @@
       "file": "missing/T/351013-the-texas-chain-saw-massacre-sunday-best-outfit-pack.json"
     },
     {
+      "igdb_id": 298023,
+      "game_name": "The Texas Chain Saw Massacre: Virginia",
+      "file": "missing/T/298023-the-texas-chain-saw-massacre-virginia.json"
+    },
+    {
       "igdb_id": 308570,
       "game_name": "The Texas Chain Saw Massacre: Weapon Skin Variants",
       "file": "missing/T/308570-the-texas-chain-saw-massacre-weapon-skin-variants.json"
@@ -181221,6 +181456,11 @@
       "igdb_id": 308235,
       "game_name": "Tick Tock Clock",
       "file": "missing/T/308235-tick-tock-clock.json"
+    },
+    {
+      "igdb_id": 298025,
+      "game_name": "Ticket to Ride: Nordic Expansion",
+      "file": "missing/T/298025-ticket-to-ride-nordic-expansion.json"
     },
     {
       "igdb_id": 311992,
@@ -187453,6 +187693,11 @@
       "file": "missing/T/163949-trouble-inn-jonnys-room.json"
     },
     {
+      "igdb_id": 298050,
+      "game_name": "Trouble of Tabu",
+      "file": "missing/T/298050-trouble-of-tabu.json"
+    },
+    {
       "igdb_id": 250013,
       "game_name": "Troubles in Silesia Country",
       "file": "missing/T/250013-troubles-in-silesia-country.json"
@@ -193291,6 +193536,11 @@
       "igdb_id": 155660,
       "game_name": "VoidOut Parkour",
       "file": "missing/V/155660-voidout-parkour.json"
+    },
+    {
+      "igdb_id": 298019,
+      "game_name": "Voir Dire",
+      "file": "missing/V/298019-voir-dire.json"
     },
     {
       "igdb_id": 339785,
