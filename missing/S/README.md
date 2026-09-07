@@ -989,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowbane: The Rise of Chaos | 70972 | [70972-shadowbane-the-rise-of-chaos.json](./70972-shadowbane-the-rise-of-chaos.json) |
 | Shadowblade Knight Symphony | 313154 | [313154-shadowblade-knight-symphony.json](./313154-shadowblade-knight-symphony.json) |
 | Shadowbound | 374076 | [374076-shadowbound.json](./374076-shadowbound.json) |
+| Shadowcaster | 268461 | [268461-shadowcaster.json](./268461-shadowcaster.json) |
 | Shadowgate 2 | 291480 | [291480-shadowgate-2.json](./291480-shadowgate-2.json) |
 | Shadowgate Classic | 8699 | [8699-shadowgate-classic.json](./8699-shadowgate-classic.json) |
 | Shadowgate: MacVenture Series | 35911 | [35911-shadowgate-macventure-series.json](./35911-shadowgate-macventure-series.json) |
@@ -1259,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shleep | 340225 | [340225-shleep.json](./340225-shleep.json) |
 | Shmadow | 34594 | [34594-shmadow.json](./34594-shmadow.json) |
 | Shmucker Casino 2: Purple Boog's Revenge | 270371 | [270371-shmucker-casino-2-purple-boogs-revenge.json](./270371-shmucker-casino-2-purple-boogs-revenge.json) |
+| Shmup Bundle | 268476 | [268476-shmup-bundle.json](./268476-shmup-bundle.json) |
 | Shmup! | 408773 | [408773-shmup.json](./408773-shmup.json) |
 | Shnipers | 56484 | [56484-shnipers.json](./56484-shnipers.json) |
 | Shocking Twist | 308261 | [308261-shocking-twist.json](./308261-shocking-twist.json) |
@@ -1575,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SinClient | 82951 | [82951-sinclient.json](./82951-sinclient.json) |
 | Sinderfury | 306089 | [306089-sinderfury.json](./306089-sinderfury.json) |
 | Sinew | 369587 | [369587-sinew.json](./369587-sinew.json) |
+| Sinful Discharge | 268459 | [268459-sinful-discharge.json](./268459-sinful-discharge.json) |
 | Sing 4: The Hits Edition | 50602 | [50602-sing-4-the-hits-edition.json](./50602-sing-4-the-hits-edition.json) |
 | Singalongsong | 302932 | [302932-singalongsong.json](./302932-singalongsong.json) |
 | Single City | 328461 | [328461-single-city.json](./328461-single-city.json) |
@@ -4023,6 +4026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Classic 2 | 328479 | [328479-sudoku-classic-2.json](./328479-sudoku-classic-2.json) |
 | Sudoku Constellation | 292281 | [292281-sudoku-constellation.json](./292281-sudoku-constellation.json) |
 | Sudoku Deluxe | 86733 | [86733-sudoku-deluxe.json](./86733-sudoku-deluxe.json) |
+| Sudoku for Kids | 268481 | [268481-sudoku-for-kids.json](./268481-sudoku-for-kids.json) |
 | Sudoku Gridmaster | 20538 | [20538-sudoku-gridmaster.json](./20538-sudoku-gridmaster.json) |
 | Sudoku HD | 97911 | [97911-sudoku-hd.json](./97911-sudoku-hd.json) |
 | Sudoku Jigsaw | 103418 | [103418-sudoku-jigsaw.json](./103418-sudoku-jigsaw.json) |
