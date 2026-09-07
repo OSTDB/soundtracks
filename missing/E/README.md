@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emin's Journey | 291754 | [291754-emins-journey.json](./291754-emins-journey.json) |
 | Emio: The Smiling Man - Famicom Detective Club | 308052 | [308052-emio-the-smiling-man-famicom-detective-club.json](./308052-emio-the-smiling-man-famicom-detective-club.json) |
 | Emissary One | 411620 | [411620-emissary-one.json](./411620-emissary-one.json) |
+| Emlis | 304585 | [304585-emlis.json](./304585-emlis.json) |
 | Emma's Armaments | 213017 | [213017-emmas-armaments.json](./213017-emmas-armaments.json) |
 | Emmensity | 356639 | [356639-emmensity.json](./356639-emmensity.json) |
 | Emmy II | 62195 | [62195-emmy-ii.json](./62195-emmy-ii.json) |
