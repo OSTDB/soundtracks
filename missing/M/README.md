@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Made in Abyss: Binary Star Falling into Darkness - Collector's Edition | 150144 | [150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json](./150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json) |
 | Made of DIrt | 185691 | [185691-made-of-dirt.json](./185691-made-of-dirt.json) |
 | Madievals | 120378 | [120378-madievals.json](./120378-madievals.json) |
+| Madness | 309846 | [309846-madness.json](./309846-madness.json) |
 | Madness Below | 326619 | [326619-madness-below.json](./326619-madness-below.json) |
 | Madness Interactive Reloaded | 331704 | [331704-madness-interactive-reloaded.json](./331704-madness-interactive-reloaded.json) |
 | Madness of the Architect | 83549 | [83549-madness-of-the-architect.json](./83549-madness-of-the-architect.json) |
@@ -1167,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metacity Patrol | 339796 | [339796-metacity-patrol.json](./339796-metacity-patrol.json) |
 | Metagal | 19321 | [19321-metagal.json](./19321-metagal.json) |
 | Metal Angel 3 | 91961 | [91961-metal-angel-3.json](./91961-metal-angel-3.json) |
+| Metal Bunny | 309894 | [309894-metal-bunny.json](./309894-metal-bunny.json) |
 | Metal Coffin | 335256 | [335256-metal-coffin.json](./335256-metal-coffin.json) |
 | Metal Dragon | 325243 | [325243-metal-dragon.json](./325243-metal-dragon.json) |
 | Metal Dragon/Life on Mars | 325244 | [325244-metal-dragon-life-on-mars.json](./325244-metal-dragon-life-on-mars.json) |
