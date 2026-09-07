@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aba Daba | 84237 | [84237-aba-daba.json](./84237-aba-daba.json) |
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
 | Abalone | 328242 | [328242-abalone.json](./328242-abalone.json) |
+| Abandoned | 295781 | [295781-abandoned.json](./295781-abandoned.json) |
 | Abandoned City | 316439 | [316439-abandoned-city.json](./316439-abandoned-city.json) |
 | Abandoned Life | 164513 | [164513-abandoned-life.json](./164513-abandoned-life.json) |
 | Abandoned Nursery | 178084 | [178084-abandoned-nursery.json](./178084-abandoned-nursery.json) |
