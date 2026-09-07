@@ -2225,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rest is Silence | 271770 | [271770-the-rest-is-silence.json](./271770-the-rest-is-silence.json) |
 | The Restless Dead | 87304 | [87304-the-restless-dead.json](./87304-the-restless-dead.json) |
 | The Restless Resort | 271987 | [271987-the-restless-resort.json](./271987-the-restless-resort.json) |
+| The Return of the Heroes | 259561 | [259561-the-return-of-the-heroes.json](./259561-the-return-of-the-heroes.json) |
 | The Revanchist | 338722 | [338722-the-revanchist.json](./338722-the-revanchist.json) |
 | The Revenant Prince | 129761 | [129761-the-revenant-prince.json](./129761-the-revenant-prince.json) |
 | The Rewinder: Root of Evil | 267364 | [267364-the-rewinder-root-of-evil.json](./267364-the-rewinder-root-of-evil.json) |
@@ -2269,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sapling | 126479 | [126479-the-sapling.json](./126479-the-sapling.json) |
 | The Savior's Gang | 115049 | [115049-the-saviors-gang.json](./115049-the-saviors-gang.json) |
 | The Scene Of the Crime | 383374 | [383374-the-scene-of-the-crime.json](./383374-the-scene-of-the-crime.json) |
+| The Scientists' Secret: Hidden Object Game | 259542 | [259542-the-scientists-secret-hidden-object-game.json](./259542-the-scientists-secret-hidden-object-game.json) |
 | The Scoop | 73816 | [73816-the-scoop.json](./73816-the-scoop.json) |
 | The Scottish Open: Carnoustie Virtual Golf | 68706 | [68706-the-scottish-open-carnoustie-virtual-golf.json](./68706-the-scottish-open-carnoustie-virtual-golf.json) |
 | The Scourge | 267072 | [267072-the-scourge.json](./267072-the-scourge.json) |
@@ -2824,6 +2826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Are Coming! | 173283 | [173283-they-are-coming.json](./173283-they-are-coming.json) |
 | They Are Rising | 392135 | [392135-they-are-rising.json](./392135-they-are-rising.json) |
 | They Fear The Mist | 292536 | [292536-they-fear-the-mist.json](./292536-they-fear-the-mist.json) |
+| They Linger | 259588 | [259588-they-linger.json](./259588-they-linger.json) |
 | They That Feast | 113036 | [113036-they-that-feast.json](./113036-they-that-feast.json) |
 | They Watch From the Walls | 181930 | [181930-they-watch-from-the-walls.json](./181930-they-watch-from-the-walls.json) |
 | They Will Come | 389421 | [389421-they-will-come.json](./389421-they-will-come.json) |
@@ -4065,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped Beast | 339106 | [339106-trapped-beast.json](./339106-trapped-beast.json) |
 | Trapped Dead: Lockdown | 17508 | [17508-trapped-dead-lockdown.json](./17508-trapped-dead-lockdown.json) |
 | Trapped in a Cage | 267067 | [267067-trapped-in-a-cage.json](./267067-trapped-in-a-cage.json) |
+| Trapped in the Kanal | 259538 | [259538-trapped-in-the-kanal.json](./259538-trapped-in-the-kanal.json) |
 | Trapped Summoner: Taigren's Secrets | 172194 | [172194-trapped-summoner-taigrens-secrets.json](./172194-trapped-summoner-taigrens-secrets.json) |
 | Trapped Within | 28918 | [28918-trapped-within.json](./28918-trapped-within.json) |
 | Trapper's Delight | 32701 | [32701-trappers-delight.json](./32701-trappers-delight.json) |
