@@ -1258,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Abalone | 374615 | [374615-play-abalone.json](./374615-play-abalone.json) |
 | Play Club | 22478 | [22478-play-club.json](./22478-play-club.json) |
 | Play Dead! #2 | 183073 | [183073-play-dead-2.json](./183073-play-dead-2.json) |
+| Play Dice | 277867 | [277867-play-dice.json](./277867-play-dice.json) |
 | Play Fire: Battle Royale | 221381 | [221381-play-fire-battle-royale.json](./221381-play-fire-battle-royale.json) |
 | Play for Love | 292008 | [292008-play-for-love.json](./292008-play-for-love.json) |
 | Play Room 0g | 111017 | [111017-play-room-0g.json](./111017-play-room-0g.json) |
