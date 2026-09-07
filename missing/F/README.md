@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London: Upwards! | 191912 | [191912-fallen-london-upwards.json](./191912-fallen-london-upwards.json) |
 | Fallen Princess | 55909 | [55909-fallen-princess.json](./55909-fallen-princess.json) |
 | Fallen Relics | 360570 | [360570-fallen-relics.json](./360570-fallen-relics.json) |
+| Fallen's Challenge | 285467 | [285467-fallens-challenge.json](./285467-fallens-challenge.json) |
 | Falling Apart | 402261 | [402261-falling-apart.json](./402261-falling-apart.json) |
 | Falling Ball Ocean | 107167 | [107167-falling-ball-ocean.json](./107167-falling-ball-ocean.json) |
 | Falling for Yaoguais | 333569 | [333569-falling-for-yaoguais.json](./333569-falling-for-yaoguais.json) |
@@ -765,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Fly | 23855 | [23855-fire-fly.json](./23855-fire-fly.json) |
 | Fire Fly | 277588 | [277588-fire-fly.json](./277588-fire-fly.json) |
 | Fire in the Hole | 381019 | [381019-fire-in-the-hole.json](./381019-fire-in-the-hole.json) |
+| Fire Racing | 285464 | [285464-fire-racing.json](./285464-fire-racing.json) |
 | Fire Sale | 165694 | [165694-fire-sale.json](./165694-fire-sale.json) |
 | Fire Up! | 87659 | [87659-fire-up.json](./87659-fire-up.json) |
 | Fire Woman: Matoi Gumi | 45958 | [45958-fire-woman-matoi-gumi.json](./45958-fire-woman-matoi-gumi.json) |
@@ -920,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Kyle's 2 | 179724 | [179724-five-nights-at-kyles-2.json](./179724-five-nights-at-kyles-2.json) |
 | Five Nights at Roner's: Remastered | 330734 | [330734-five-nights-at-roners-remastered.json](./330734-five-nights-at-roners-remastered.json) |
 | Five Nights at Sonic's Remastered | 333960 | [333960-five-nights-at-sonics-remastered.json](./333960-five-nights-at-sonics-remastered.json) |
+| Five Starless Rivers | 285438 | [285438-five-starless-rivers.json](./285438-five-starless-rivers.json) |
 | Five-A-Side Soccer | 84235 | [84235-five-a-side-soccer.json](./84235-five-a-side-soccer.json) |
 | Five-O Deluxe | 104103 | [104103-five-o-deluxe.json](./104103-five-o-deluxe.json) |
 | FiveM | 146553 | [146553-fivem.json](./146553-fivem.json) |
@@ -953,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Bird | 298312 | [298312-flappy-bird.json](./298312-flappy-bird.json) |
 | Flappy Bird | 339269 | [339269-flappy-bird.json](./339269-flappy-bird.json) |
 | Flappy Bird Ultra | 368522 | [368522-flappy-bird-ultra.json](./368522-flappy-bird-ultra.json) |
+| Flappy Box | 285478 | [285478-flappy-box.json](./285478-flappy-box.json) |
 | Flappy Cube | 179195 | [179195-flappy-cube.json](./179195-flappy-cube.json) |
 | Flappy Doge | 62183 | [62183-flappy-doge.json](./62183-flappy-doge.json) |
 | Flappy Dragon | 316049 | [316049-flappy-dragon.json](./316049-flappy-dragon.json) |
@@ -1397,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 5: VIP | 387371 | [387371-forza-horizon-5-vip.json](./387371-forza-horizon-5-vip.json) |
 | Forza Horizon 5: Welcome Pack | 387369 | [387369-forza-horizon-5-welcome-pack.json](./387369-forza-horizon-5-welcome-pack.json) |
 | Forza Motorsport: 2016 Ligier #11 Eurointernational JS P3 | 305542 | [305542-forza-motorsport-2016-ligier-11-eurointernational-js-p3.json](./305542-forza-motorsport-2016-ligier-11-eurointernational-js-p3.json) |
+| Forza Motorsport: 2018 Lamborghini #63 Squadra Corse Huracán Super Trofeo Evo | 285479 | [285479-forza-motorsport-2018-lamborghini-63-squadra-corse-huracan-super-trofeo-evo.json](./285479-forza-motorsport-2018-lamborghini-63-squadra-corse-huracan-super-trofeo-evo.json) |
 | Forza Motorsport: 2019 McLaren Senna GTR | 286540 | [286540-forza-motorsport-2019-mclaren-senna-gtr.json](./286540-forza-motorsport-2019-mclaren-senna-gtr.json) |
 | Forza Motorsport: Deluxe Edition | 271467 | [271467-forza-motorsport-deluxe-edition.json](./271467-forza-motorsport-deluxe-edition.json) |
 | Forza Motorsport: Porsche 963 Combo | 316395 | [316395-forza-motorsport-porsche-963-combo.json](./316395-forza-motorsport-porsche-963-combo.json) |
