@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShowMeSpeed | 303768 | [303768-showmespeed.json](./303768-showmespeed.json) |
 | Shox: Rally Reinvented | 8265 | [8265-shox-rally-reinvented.json](./8265-shox-rally-reinvented.json) |
 | Shrapnel City 2096: Trapped In The Future! | 308237 | [308237-shrapnel-city-2096-trapped-in-the-future.json](./308237-shrapnel-city-2096-trapped-in-the-future.json) |
+| Shredded Faith | 306349 | [306349-shredded-faith.json](./306349-shredded-faith.json) |
 | Shredz64 | 84268 | [84268-shredz64.json](./84268-shredz64.json) |
 | Shrek Playtime is Ogre | 302687 | [302687-shrek-playtime-is-ogre.json](./302687-shrek-playtime-is-ogre.json) |
 | Shrek Playtime is Ogre 2 | 302685 | [302685-shrek-playtime-is-ogre-2.json](./302685-shrek-playtime-is-ogre-2.json) |
@@ -1504,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siren Sands | 350418 | [350418-siren-sands.json](./350418-siren-sands.json) |
 | Siren's Call: Escape Velocity | 258728 | [258728-sirens-call-escape-velocity.json](./258728-sirens-call-escape-velocity.json) |
 | Sirène | 310975 | [310975-sirene.json](./310975-sirene.json) |
+| SirKwitz | 306336 | [306336-sirkwitz.json](./306336-sirkwitz.json) |
 | Sisyphus | 340369 | [340369-sisyphus.json](./340369-sisyphus.json) |
 | Sisyphus Is a Bug | 372456 | [372456-sisyphus-is-a-bug.json](./372456-sisyphus-is-a-bug.json) |
 | Site Z-374 | 308271 | [308271-site-z-374.json](./308271-site-z-374.json) |
@@ -1546,6 +1548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeal | 185682 | [185682-skeal.json](./185682-skeal.json) |
 | Skelemania | 183059 | [183059-skelemania.json](./183059-skelemania.json) |
 | Skelerun | 198513 | [198513-skelerun.json](./198513-skelerun.json) |
+| Skelet_666 | 306380 | [306380-skelet-666.json](./306380-skelet-666.json) |
 | Skeletal Skism | 186315 | [186315-skeletal-skism.json](./186315-skeletal-skism.json) |
 | Skelethrone: The Chronicles of Ericona - Complete Edition | 340744 | [340744-skelethrone-the-chronicles-of-ericona-complete-edition.json](./340744-skelethrone-the-chronicles-of-ericona-complete-edition.json) |
 | Skeleton King | 163962 | [163962-skeleton-king.json](./163962-skeleton-king.json) |
@@ -1700,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep Clock: Record and Analyse Your Sleep Patterns | 84883 | [84883-sleep-clock-record-and-analyse-your-sleep-patterns.json](./84883-sleep-clock-record-and-analyse-your-sleep-patterns.json) |
 | Sleep Is Death | 20664 | [20664-sleep-is-death.json](./20664-sleep-is-death.json) |
 | Sleep Paralysis: The Uncanny Valley | 196876 | [196876-sleep-paralysis-the-uncanny-valley.json](./196876-sleep-paralysis-the-uncanny-valley.json) |
+| Sleep Stream | 306339 | [306339-sleep-stream.json](./306339-sleep-stream.json) |
 | Sleep Terror | 292309 | [292309-sleep-terror.json](./292309-sleep-terror.json) |
 | Sleeping Beauty X : The Legend of Tales | 175984 | [175984-sleeping-beauty-x-the-legend-of-tales.json](./175984-sleeping-beauty-x-the-legend-of-tales.json) |
 | Sleeping Valley | 24960 | [24960-sleeping-valley.json](./24960-sleeping-valley.json) |
@@ -1881,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake | 307608 | [307608-snake.json](./307608-snake.json) |
 | Snake 2 DX: Reawakening | 171624 | [171624-snake-2-dx-reawakening.json](./171624-snake-2-dx-reawakening.json) |
 | Snake Bricks-Bounce Balls | 106569 | [106569-snake-bricks-bounce-balls.json](./106569-snake-bricks-bounce-balls.json) |
+| Snake Crossing | 306382 | [306382-snake-crossing.json](./306382-snake-crossing.json) |
 | Snake Den | 84876 | [84876-snake-den.json](./84876-snake-den.json) |
 | Snake Game Ultra Core | 368476 | [368476-snake-game-ultra-core.json](./368476-snake-game-ultra-core.json) |
 | Snake Infinity Lite | 26680 | [26680-snake-infinity-lite.json](./26680-snake-infinity-lite.json) |
@@ -2149,6 +2154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solomania | 329378 | [329378-solomania.json](./329378-solomania.json) |
 | Solomon's Keep | 132812 | [132812-solomons-keep.json](./132812-solomons-keep.json) |
 | Solous | 133466 | [133466-solous.json](./133466-solous.json) |
+| Solstice | 306355 | [306355-solstice.json](./306355-solstice.json) |
 | Solve This! Emoji Puzzle | 213596 | [213596-solve-this-emoji-puzzle.json](./213596-solve-this-emoji-puzzle.json) |
 | Solvimus | 370138 | [370138-solvimus.json](./370138-solvimus.json) |
 | Soma Spirits | 400893 | [400893-soma-spirits.json](./400893-soma-spirits.json) |
@@ -2855,6 +2861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splett | 342660 | [342660-splett.json](./342660-splett.json) |
 | Spliced | 218706 | [218706-spliced.json](./218706-spliced.json) |
 | Splinterlands | 165055 | [165055-splinterlands.json](./165055-splinterlands.json) |
+| Splinterra | 306375 | [306375-splinterra.json](./306375-splinterra.json) |
 | Split Apart | 324313 | [324313-split-apart.json](./324313-split-apart.json) |
 | Split Brain Samsara | 401487 | [401487-split-brain-samsara.json](./401487-split-brain-samsara.json) |
 | Split Drive | 189197 | [189197-split-drive.json](./189197-split-drive.json) |
