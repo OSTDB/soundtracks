@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carousel | 13700 | [13700-carousel.json](./13700-carousel.json) |
 | Carpark Hero | 404216 | [404216-carpark-hero.json](./404216-carpark-hero.json) |
 | Carpathian Survival | 315263 | [315263-carpathian-survival.json](./315263-carpathian-survival.json) |
+| Carpe Noctem | 309372 | [309372-carpe-noctem.json](./309372-carpe-noctem.json) |
 | Carpenter Genzo: Robot Empire | 55937 | [55937-carpenter-genzo-robot-empire.json](./55937-carpenter-genzo-robot-empire.json) |
 | Carperation | 163973 | [163973-carperation.json](./163973-carperation.json) |
 | Carrera | 295031 | [295031-carrera.json](./295031-carrera.json) |
@@ -572,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Fighter | 7898 | [7898-cave-fighter.json](./7898-cave-fighter.json) |
 | Cave Flying | 27878 | [27878-cave-flying.json](./27878-cave-flying.json) |
 | Cave Ghost | 368480 | [368480-cave-ghost.json](./368480-cave-ghost.json) |
+| Cave Girl Clair | 309340 | [309340-cave-girl-clair.json](./309340-cave-girl-clair.json) |
 | Cave Hopper | 139468 | [139468-cave-hopper.json](./139468-cave-hopper.json) |
 | Cave Oasis at Shylake | 380423 | [380423-cave-oasis-at-shylake.json](./380423-cave-oasis-at-shylake.json) |
 | Cave of Illusions | 125116 | [125116-cave-of-illusions.json](./125116-cave-of-illusions.json) |
@@ -657,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Shot | 64438 | [64438-chain-shot.json](./64438-chain-shot.json) |
 | Chain Strike | 96546 | [96546-chain-strike.json](./96546-chain-strike.json) |
 | Chain-Chillas | 398343 | [398343-chain-chillas.json](./398343-chain-chillas.json) |
+| Chained | 309352 | [309352-chained.json](./309352-chained.json) |
 | Chainsaw Juice King | 321143 | [321143-chainsaw-juice-king.json](./321143-chainsaw-juice-king.json) |
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
@@ -752,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef Life: A Restaurant Simulator | 191698 | [191698-chef-life-a-restaurant-simulator.json](./191698-chef-life-a-restaurant-simulator.json) |
 | Chef Wanted | 232665 | [232665-chef-wanted.json](./232665-chef-wanted.json) |
 | Chefrens Pyramid | 142454 | [142454-chefrens-pyramid.json](./142454-chefrens-pyramid.json) |
+| Chelsea of the South Sea Islands | 309339 | [309339-chelsea-of-the-south-sea-islands.json](./309339-chelsea-of-the-south-sea-islands.json) |
 | Cheollang Yeoljeon | 145657 | [145657-cheollang-yeoljeon.json](./145657-cheollang-yeoljeon.json) |
 | Cheongchunhyang Jeon | 404824 | [404824-cheongchunhyang-jeon.json](./404824-cheongchunhyang-jeon.json) |
 | Cheonsang Soma Yeongung-jeon | 145639 | [145639-cheonsang-soma-yeongung-jeon.json](./145639-cheonsang-soma-yeongung-jeon.json) |
