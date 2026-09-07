@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Spot It | 317227 | [317227-santas-spot-it.json](./317227-santas-spot-it.json) |
 | Santa's Workshop | 343787 | [343787-santas-workshop.json](./343787-santas-workshop.json) |
 | Santa's World | 277577 | [277577-santas-world.json](./277577-santas-world.json) |
+| Santas Christmas Escape VR | 288229 | [288229-santas-christmas-escape-vr.json](./288229-santas-christmas-escape-vr.json) |
 | Santas Little Helper | 363372 | [363372-santas-little-helper.json](./363372-santas-little-helper.json) |
 | Santatlantean | 42047 | [42047-santatlantean.json](./42047-santatlantean.json) |
 | Santo Island Incident | 199661 | [199661-santo-island-incident.json](./199661-santo-island-incident.json) |
@@ -1090,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shenmue III: Battle Rally | 129191 | [129191-shenmue-iii-battle-rally.json](./129191-shenmue-iii-battle-rally.json) |
 | Shennong: Taste of Illusion | 113015 | [113015-shennong-taste-of-illusion.json](./113015-shennong-taste-of-illusion.json) |
 | Shēnyuān | 165700 | [165700-shenyuan.json](./165700-shenyuan.json) |
+| Shepherd's Eye | 288230 | [288230-shepherds-eye.json](./288230-shepherds-eye.json) |
 | Shepherd’s Plan | 314068 | [314068-shepherd-s-plan.json](./314068-shepherd-s-plan.json) |
 | Sherbert In A Bottle | 225311 | [225311-sherbert-in-a-bottle.json](./225311-sherbert-in-a-bottle.json) |
 | Sheriff Looper | 383344 | [383344-sheriff-looper.json](./383344-sheriff-looper.json) |
@@ -1953,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Pass | 19220 | [19220-snake-pass.json](./19220-snake-pass.json) |
 | Snake Plissken's Escape | 67295 | [67295-snake-plisskens-escape.json](./67295-snake-plisskens-escape.json) |
 | Snake Quest | 261517 | [261517-snake-quest.json](./261517-snake-quest.json) |
+| Snake-O-Tron | 288239 | [288239-snake-o-tron.json](./288239-snake-o-tron.json) |
 | Snake: The Elder Forest | 122415 | [122415-snake-the-elder-forest.json](./122415-snake-the-elder-forest.json) |
 | Snake's Revenge | 7848 | [7848-snakes-revenge.json](./7848-snakes-revenge.json) |
 | Snakebird Complete | 239519 | [239519-snakebird-complete.json](./239519-snakebird-complete.json) |
@@ -2966,6 +2969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob in Run For The Krusty Krab | 382779 | [382779-spongebob-in-run-for-the-krusty-krab.json](./382779-spongebob-in-run-for-the-krusty-krab.json) |
 | SpongeBob SolitairePants | 294177 | [294177-spongebob-solitairepants.json](./294177-spongebob-solitairepants.json) |
 | SpongeBob SquarePants: Flip or Flop | 273123 | [273123-spongebob-squarepants-flip-or-flop.json](./273123-spongebob-squarepants-flip-or-flop.json) |
+| SpongeBob SquarePants: Four Squared | 288190 | [288190-spongebob-squarepants-four-squared.json](./288190-spongebob-squarepants-four-squared.json) |
 | SpongeBob SquarePants: Nighty Nightmare | 18301 | [18301-spongebob-squarepants-nighty-nightmare.json](./18301-spongebob-squarepants-nighty-nightmare.json) |
 | SpongeBob SquarePants: Titans of the Tide | 358751 | [358751-spongebob-squarepants-titans-of-the-tide.json](./358751-spongebob-squarepants-titans-of-the-tide.json) |
 | SpongeBob's Atlantis Squarepantis | 43312 | [43312-spongebobs-atlantis-squarepantis.json](./43312-spongebobs-atlantis-squarepantis.json) |
@@ -4790,14 +4794,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Ark | 317234 | [317234-synth-ark.json](./317234-synth-ark.json) |
 | Synth Riders | 372492 | [372492-synth-riders.json](./372492-synth-riders.json) |
 | Synth Riders: Bad Religion - "21st Century (Digital Boy)" | 356085 | [356085-synth-riders-bad-religion-21st-century-digital-boy.json](./356085-synth-riders-bad-religion-21st-century-digital-boy.json) |
+| Synth Riders: Balduin, Wolfgang Lohr - "Magic Man" | 288233 | [288233-synth-riders-balduin-wolfgang-lohr-magic-man.json](./288233-synth-riders-balduin-wolfgang-lohr-magic-man.json) |
 | Synth Riders: Bruno Mars - "Runaway Baby" | 356079 | [356079-synth-riders-bruno-mars-runaway-baby.json](./356079-synth-riders-bruno-mars-runaway-baby.json) |
+| Synth Riders: Cut Capers - "Let's Start Again (Odd Chap Remix)" | 288234 | [288234-synth-riders-cut-capers-lets-start-again-odd-chap-remix.json](./288234-synth-riders-cut-capers-lets-start-again-odd-chap-remix.json) |
+| Synth Riders: Jamie Berry - "Guilty Pleasure" | 288238 | [288238-synth-riders-jamie-berry-guilty-pleasure.json](./288238-synth-riders-jamie-berry-guilty-pleasure.json) |
 | Synth Riders: Lindsey Stirling - "Mirage" | 356082 | [356082-synth-riders-lindsey-stirling-mirage.json](./356082-synth-riders-lindsey-stirling-mirage.json) |
 | Synth Riders: Monstercat Music Pack | 382180 | [382180-synth-riders-monstercat-music-pack.json](./382180-synth-riders-monstercat-music-pack.json) |
 | Synth Riders: Muse - "Pressure" | 356083 | [356083-synth-riders-muse-pressure.json](./356083-synth-riders-muse-pressure.json) |
 | Synth Riders: Silk Sonic - "Skate" | 356116 | [356116-synth-riders-silk-sonic-skate.json](./356116-synth-riders-silk-sonic-skate.json) |
 | Synth Riders: Starcadian - "New Cydonia" | 356080 | [356080-synth-riders-starcadian-new-cydonia.json](./356080-synth-riders-starcadian-new-cydonia.json) |
 | Synth Riders: Swingrowers - "Butterfly" | 356084 | [356084-synth-riders-swingrowers-butterfly.json](./356084-synth-riders-swingrowers-butterfly.json) |
+| Synth Riders: Swingrowers - "Rose" | 288235 | [288235-synth-riders-swingrowers-rose.json](./288235-synth-riders-swingrowers-rose.json) |
 | Synth Riders: Synthwave Essentials 3 Music Pack | 382181 | [382181-synth-riders-synthwave-essentials-3-music-pack.json](./382181-synth-riders-synthwave-essentials-3-music-pack.json) |
+| Synth Riders: Tamela D'Amico, Wolfgang Lohr - "Boring 20s" | 288237 | [288237-synth-riders-tamela-damico-wolfgang-lohr-boring-20s.json](./288237-synth-riders-tamela-damico-wolfgang-lohr-boring-20s.json) |
 | Synth Riders: The Midnight - "Sunset" | 356081 | [356081-synth-riders-the-midnight-sunset.json](./356081-synth-riders-the-midnight-sunset.json) |
 | Synth War Tactics | 151188 | [151188-synth-war-tactics.json](./151188-synth-war-tactics.json) |
 | Synthaar | 304880 | [304880-synthaar.json](./304880-synthaar.json) |
