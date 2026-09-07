@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haze | 7317 | [7317-haze.json](./7317-haze.json) |
 | Hazelnut Hex | 218725 | [218725-hazelnut-hex.json](./218725-hazelnut-hex.json) |
 | Hazelwood Station | 295001 | [295001-hazelwood-station.json](./295001-hazelwood-station.json) |
+| Hazing: Night Shift | 305147 | [305147-hazing-night-shift.json](./305147-hazing-night-shift.json) |
 | HB Arcade Cards | 80583 | [80583-hb-arcade-cards.json](./80583-hb-arcade-cards.json) |
 | HDOS | 373557 | [373557-hdos.json](./373557-hdos.json) |
 | He Followed Me | 399004 | [399004-he-followed-me.json](./399004-he-followed-me.json) |
@@ -818,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats | 183564 | [183564-hidden-cats.json](./183564-hidden-cats.json) |
 | Hidden Cats In Amusement Park | 263791 | [263791-hidden-cats-in-amusement-park.json](./263791-hidden-cats-in-amusement-park.json) |
 | Hidden Cats In Fallen Leaves Town | 311486 | [311486-hidden-cats-in-fallen-leaves-town.json](./311486-hidden-cats-in-fallen-leaves-town.json) |
+| Hidden Cats In Japanese Village | 305137 | [305137-hidden-cats-in-japanese-village.json](./305137-hidden-cats-in-japanese-village.json) |
 | Hidden Cats: Castle | 412261 | [412261-hidden-cats-castle.json](./412261-hidden-cats-castle.json) |
 | Hidden Clues: Mystery Scene Challenge | 409532 | [409532-hidden-clues-mystery-scene-challenge.json](./409532-hidden-clues-mystery-scene-challenge.json) |
 | Hidden Collection | 86714 | [86714-hidden-collection.json](./86714-hidden-collection.json) |
@@ -983,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit Hit Alaska | 326607 | [326607-hit-hit-alaska.json](./326607-hit-hit-alaska.json) |
 | Hit n' Bit | 319010 | [319010-hit-n-bit.json](./319010-hit-n-bit.json) |
 | Hit Tank PRO | 57129 | [57129-hit-tank-pro.json](./57129-hit-tank-pro.json) |
+| Hit The Beat | 305164 | [305164-hit-the-beat.json](./305164-hit-the-beat.json) |
 | Hit the Ice | 295042 | [295042-hit-the-ice.json](./295042-hit-the-ice.json) |
 | HIT: Heroes of Incredible Tales | 79317 | [79317-hit-heroes-of-incredible-tales.json](./79317-hit-heroes-of-incredible-tales.json) |
 | HitBox | 21982 | [21982-hitbox.json](./21982-hitbox.json) |
