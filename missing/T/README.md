@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TechMate Chess | 327801 | [327801-techmate-chess.json](./327801-techmate-chess.json) |
 | Technician Ted | 84242 | [84242-technician-ted.json](./84242-technician-ted.json) |
 | Technoblade The Quest Of L'Manburg | 337634 | [337634-technoblade-the-quest-of-lmanburg.json](./337634-technoblade-the-quest-of-lmanburg.json) |
+| Technocide | 262937 | [262937-technocide.json](./262937-technocide.json) |
 | Technosphere Reload | 116829 | [116829-technosphere-reload.json](./116829-technosphere-reload.json) |
 | Technuclear | 180812 | [180812-technuclear.json](./180812-technuclear.json) |
 | Tecmo Bowl: Kickoff | 264889 | [264889-tecmo-bowl-kickoff.json](./264889-tecmo-bowl-kickoff.json) |
@@ -729,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thanatophobia | 278966 | [278966-thanatophobia.json](./278966-thanatophobia.json) |
 | Thandor: The Invasion | 54432 | [54432-thandor-the-invasion.json](./54432-thandor-the-invasion.json) |
 | Thank Goodness You're Here! | 262538 | [262538-thank-goodness-youre-here.json](./262538-thank-goodness-youre-here.json) |
+| Thanks, Light. | 262934 | [262934-thanks-light.json](./262934-thanks-light.json) |
 | That Blooming Feeling | 182510 | [182510-that-blooming-feeling.json](./182510-that-blooming-feeling.json) |
 | That Crazy World | 71006 | [71006-that-crazy-world.json](./71006-that-crazy-world.json) |
 | That Lava Escape Game | 128015 | [128015-that-lava-escape-game.json](./128015-that-lava-escape-game.json) |
@@ -1503,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Green Hook Fighter | 377075 | [377075-the-green-hook-fighter.json](./377075-the-green-hook-fighter.json) |
 | The Griffon Legend | 202975 | [202975-the-griffon-legend.json](./202975-the-griffon-legend.json) |
 | The Growth Project | 26614 | [26614-the-growth-project.json](./26614-the-growth-project.json) |
+| The Grugs: Origins | 262969 | [262969-the-grugs-origins.json](./262969-the-grugs-origins.json) |
 | The Guardian and the Dreamer | 318801 | [318801-the-guardian-and-the-dreamer.json](./318801-the-guardian-and-the-dreamer.json) |
 | The Guardians of the Secret Garden | 349305 | [349305-the-guardians-of-the-secret-garden.json](./349305-the-guardians-of-the-secret-garden.json) |
 | The Guest: Home Alone | 394171 | [394171-the-guest-home-alone.json](./394171-the-guest-home-alone.json) |
@@ -2151,6 +2154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Problem With Golf | 330156 | [330156-the-problem-with-golf.json](./330156-the-problem-with-golf.json) |
 | The Procession to Calvary | 106985 | [106985-the-procession-to-calvary.json](./106985-the-procession-to-calvary.json) |
 | The Professor Presents: Got Handles? | 28937 | [28937-the-professor-presents-got-handles.json](./28937-the-professor-presents-got-handles.json) |
+| The Projection Room of Malka Spitzer | 262953 | [262953-the-projection-room-of-malka-spitzer.json](./262953-the-projection-room-of-malka-spitzer.json) |
 | The Promised Land | 17318 | [17318-the-promised-land.json](./17318-the-promised-land.json) |
 | The Protectorate | 284914 | [284914-the-protectorate.json](./284914-the-protectorate.json) |
 | The Prototype | 94771 | [94771-the-prototype.json](./94771-the-prototype.json) |
@@ -2914,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Ages | 87726 | [87726-through-the-ages.json](./87726-through-the-ages.json) |
 | Through the Mist and Sky | 102179 | [102179-through-the-mist-and-sky.json](./102179-through-the-mist-and-sky.json) |
 | Through the Wall | 339294 | [339294-through-the-wall.json](./339294-through-the-wall.json) |
+| Through Time the Girl Puzzle | 262933 | [262933-through-time-the-girl-puzzle.json](./262933-through-time-the-girl-puzzle.json) |
 | Throw Bro | 302350 | [302350-throw-bro.json](./302350-throw-bro.json) |
 | Throw Cubes into Brick Towers to Collapse Them | 134662 | [134662-throw-cubes-into-brick-towers-to-collapse-them.json](./134662-throw-cubes-into-brick-towers-to-collapse-them.json) |
 | Throw M | 319962 | [319962-throw-m.json](./319962-throw-m.json) |
@@ -3580,6 +3585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torchbear | 341898 | [341898-torchbear.json](./341898-torchbear.json) |
 | Torches of Fate | 133458 | [133458-torches-of-fate.json](./133458-torches-of-fate.json) |
 | Toree 3D | 144687 | [144687-toree-3d.json](./144687-toree-3d.json) |
+| Toree Saturn | 262958 | [262958-toree-saturn.json](./262958-toree-saturn.json) |
 | Toree's Panic Pack | 308530 | [308530-torees-panic-pack.json](./308530-torees-panic-pack.json) |
 | Toride | 37784 | [37784-toride.json](./37784-toride.json) |
 | Toril | 228700 | [228700-toril.json](./228700-toril.json) |
@@ -3653,6 +3659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touchgrind BMX | 88294 | [88294-touchgrind-bmx.json](./88294-touchgrind-bmx.json) |
 | TouchSports Tennis 2012 HD | 233744 | [233744-touchsports-tennis-2012-hd.json](./233744-touchsports-tennis-2012-hd.json) |
 | Touchtone | 15550 | [15550-touchtone.json](./15550-touchtone.json) |
+| Toufra | 262948 | [262948-toufra.json](./262948-toufra.json) |
 | Touge King: The Spirits 2 | 66100 | [66100-touge-king-the-spirits-2.json](./66100-touge-king-the-spirits-2.json) |
 | Touge Max 2 | 66099 | [66099-touge-max-2.json](./66099-touge-max-2.json) |
 | Tough Story: Big Hell | 54457 | [54457-tough-story-big-hell.json](./54457-tough-story-big-hell.json) |
