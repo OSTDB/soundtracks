@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kajko i Kokosz: W Krainie Borostworów | 93587 | [93587-kajko-i-kokosz-w-krainie-borostworow.json](./93587-kajko-i-kokosz-w-krainie-borostworow.json) |
 | Kakatte Koi Yo! | 127671 | [127671-kakatte-koi-yo.json](./127671-kakatte-koi-yo.json) |
 | Kakegurui Cheating Allowed | 220311 | [220311-kakegurui-cheating-allowed.json](./220311-kakegurui-cheating-allowed.json) |
+| Kakkouke | 284341 | [284341-kakkouke.json](./284341-kakkouke.json) |
 | Kakurenbo no Oto: Hidden Notes | 172741 | [172741-kakurenbo-no-oto-hidden-notes.json](./172741-kakurenbo-no-oto-hidden-notes.json) |
 | Kakyuusei 2 | 330548 | [330548-kakyuusei-2.json](./330548-kakyuusei-2.json) |
 | Kal | 391591 | [391591-kal.json](./391591-kal.json) |
