@@ -914,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School of the Dead Day 0 | 402943 | [402943-high-school-of-the-dead-day-0.json](./402943-high-school-of-the-dead-day-0.json) |
 | High School: Bisexual Experience | 106590 | [106590-high-school-bisexual-experience.json](./106590-high-school-bisexual-experience.json) |
 | High Seas Havoc | 10150 | [10150-high-seas-havoc.json](./10150-high-seas-havoc.json) |
+| High Stakes | 299750 | [299750-high-stakes.json](./299750-high-stakes.json) |
 | HighFleet | 157439 | [157439-highfleet.json](./157439-highfleet.json) |
 | Highpoint | 202917 | [202917-highpoint.json](./202917-highpoint.json) |
 | Highrise | 292832 | [292832-highrise.json](./292832-highrise.json) |
@@ -992,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit Him | 195254 | [195254-hit-him.json](./195254-hit-him.json) |
 | Hit Hit Alaska | 326607 | [326607-hit-hit-alaska.json](./326607-hit-hit-alaska.json) |
 | Hit n' Bit | 319010 | [319010-hit-n-bit.json](./319010-hit-n-bit.json) |
+| Hit Single | 299720 | [299720-hit-single.json](./299720-hit-single.json) |
 | Hit Tank PRO | 57129 | [57129-hit-tank-pro.json](./57129-hit-tank-pro.json) |
 | Hit The Beat | 305164 | [305164-hit-the-beat.json](./305164-hit-the-beat.json) |
 | Hit the Ice | 295042 | [295042-hit-the-ice.json](./295042-hit-the-ice.json) |
