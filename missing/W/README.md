@@ -1044,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Connect HD | 96069 | [96069-word-connect-hd.json](./96069-word-connect-hd.json) |
 | Word Crack | 402312 | [402312-word-crack.json](./402312-word-crack.json) |
 | Word Crystal | 195197 | [195197-word-crystal.json](./195197-word-crystal.json) |
+| Word Dungeons | 262368 | [262368-word-dungeons.json](./262368-word-dungeons.json) |
 | Word Escape | 152930 | [152930-word-escape.json](./152930-word-escape.json) |
 | Word Feud | 131583 | [131583-word-feud.json](./131583-word-feud.json) |
 | Word Finder - Word Connect | 96742 | [96742-word-finder-word-connect.json](./96742-word-finder-word-connect.json) |
