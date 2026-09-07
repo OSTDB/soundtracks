@@ -1312,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Predict | 399015 | [399015-gun-predict.json](./399015-gun-predict.json) |
 | Gun Priest | 116354 | [116354-gun-priest.json](./116354-gun-priest.json) |
 | Gun Raiders | 145040 | [145040-gun-raiders.json](./145040-gun-raiders.json) |
+| Gun Shop 3 | 301245 | [301245-gun-shop-3.json](./301245-gun-shop-3.json) |
 | Gun Soul Girl 2 | 169455 | [169455-gun-soul-girl-2.json](./169455-gun-soul-girl-2.json) |
 | Gun Sounds: Shooting Master | 227499 | [227499-gun-sounds-shooting-master.json](./227499-gun-sounds-shooting-master.json) |
 | Gun Sprint | 332804 | [332804-gun-sprint.json](./332804-gun-sprint.json) |
@@ -1360,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunnVR | 29908 | [29908-gunnvr.json](./29908-gunnvr.json) |
 | Gunny | 117721 | [117721-gunny.json](./117721-gunny.json) |
 | Gunpoint Gambit | 391036 | [391036-gunpoint-gambit.json](./391036-gunpoint-gambit.json) |
+| Gunpowder Massacre | 301259 | [301259-gunpowder-massacre.json](./301259-gunpowder-massacre.json) |
 | Gunpyre | 340404 | [340404-gunpyre.json](./340404-gunpyre.json) |
 | Gunroar | 91936 | [91936-gunroar.json](./91936-gunroar.json) |
 | Guns & Bots | 304906 | [304906-guns-and-bots.json](./304906-guns-and-bots.json) |
