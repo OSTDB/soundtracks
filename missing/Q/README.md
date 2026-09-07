@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuestMania | 79305 | [79305-questmania.json](./79305-questmania.json) |
 | Questscape | 294145 | [294145-questscape.json](./294145-questscape.json) |
 | Queue | 180255 | [180255-queue.json](./180255-queue.json) |
+| Queue Simulator | 276715 | [276715-queue-simulator.json](./276715-queue-simulator.json) |
 | Queued | 256538 | [256538-queued.json](./256538-queued.json) |
 | Qui Veut Gagner Des Millions | 313505 | [313505-qui-veut-gagner-des-millions.json](./313505-qui-veut-gagner-des-millions.json) |
 | Quick Fire | 241046 | [241046-quick-fire.json](./241046-quick-fire.json) |
