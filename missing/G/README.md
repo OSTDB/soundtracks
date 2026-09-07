@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Machine | 294441 | [294441-gravity-machine.json](./294441-gravity-machine.json) |
 | Gravity run | 153432 | [153432-gravity-run.json](./153432-gravity-run.json) |
 | Gravity Rush Remastered: Collector's Edition | 205265 | [205265-gravity-rush-remastered-collectors-edition.json](./205265-gravity-rush-remastered-collectors-edition.json) |
+| Gravity Sphere | 309870 | [309870-gravity-sphere.json](./309870-gravity-sphere.json) |
 | Gravity Still Sucks! | 251210 | [251210-gravity-still-sucks.json](./251210-gravity-still-sucks.json) |
 | Gravity Storm: First Mission | 329586 | [329586-gravity-storm-first-mission.json](./329586-gravity-storm-first-mission.json) |
 | Gravity Up | 318424 | [318424-gravity-up.json](./318424-gravity-up.json) |
@@ -1087,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greenfield Valley | 391054 | [391054-greenfield-valley.json](./391054-greenfield-valley.json) |
 | GreenFlame | 76656 | [76656-greenflame.json](./76656-greenflame.json) |
 | Greengrocer Simulator 2024 | 326419 | [326419-greengrocer-simulator-2024.json](./326419-greengrocer-simulator-2024.json) |
+| GreenWood Defense | 309858 | [309858-greenwood-defense.json](./309858-greenwood-defense.json) |
 | Greg Hastings' Tournament Paintball MAX'D | 5855 | [5855-greg-hastings-tournament-paintball-maxd.json](./5855-greg-hastings-tournament-paintball-maxd.json) |
 | Greg Norman's Golf Power | 48701 | [48701-greg-normans-golf-power.json](./48701-greg-normans-golf-power.json) |
 | Greg Norman's Ultimate Golf | 98979 | [98979-greg-normans-ultimate-golf.json](./98979-greg-normans-ultimate-golf.json) |
@@ -1380,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guójì Xiàngqí: Dānshuāngrén Duìzhàn Qípái Xiǎoyóuxì | 109011 | [109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json](./109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json) |
 | Gura's Adventure | 184097 | [184097-guras-adventure.json](./184097-guras-adventure.json) |
 | Gurei | 235913 | [235913-gurei.json](./235913-gurei.json) |
+| Guru Guru | 309884 | [309884-guru-guru.json](./309884-guru-guru.json) |
 | Guru Logic | 84233 | [84233-guru-logic.json](./84233-guru-logic.json) |
 | Guru Meditation | 178091 | [178091-guru-meditation.json](./178091-guru-meditation.json) |
 | Guts and Syringes | 94766 | [94766-guts-and-syringes.json](./94766-guts-and-syringes.json) |
