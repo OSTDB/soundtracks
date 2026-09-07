@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T22:48:35.855Z",
-  "total_missing": 44002,
+  "generated_at": "2026-09-07T23:03:12.773Z",
+  "total_missing": 44052,
   "games": [
     {
       "igdb_id": 306086,
@@ -5043,6 +5043,11 @@
       "file": "missing/A/238739-across-the-wilds.json"
     },
     {
+      "igdb_id": 261264,
+      "game_name": "Acrostics on Stream",
+      "file": "missing/A/261264-acrostics-on-stream.json"
+    },
+    {
       "igdb_id": 305792,
       "game_name": "Acrylic Nails!",
       "file": "missing/A/305792-acrylic-nails.json"
@@ -9501,6 +9506,11 @@
       "igdb_id": 331108,
       "game_name": "Amy Adventure",
       "file": "missing/A/331108-amy-adventure.json"
+    },
+    {
+      "igdb_id": 261277,
+      "game_name": "Amy's American Page One",
+      "file": "missing/A/261277-amys-american-page-one.json"
     },
     {
       "igdb_id": 269284,
@@ -46048,6 +46058,11 @@
       "file": "missing/D/51291-death-to-spies-gold-edition.json"
     },
     {
+      "igdb_id": 261287,
+      "game_name": "Death Tormention: The Complete Trilogy",
+      "file": "missing/D/261287-death-tormention-the-complete-trilogy.json"
+    },
+    {
       "igdb_id": 242798,
       "game_name": "Death Tour",
       "file": "missing/D/242798-death-tour.json"
@@ -51728,6 +51743,11 @@
       "file": "missing/D/336542-doomed-detective-game.json"
     },
     {
+      "igdb_id": 261284,
+      "game_name": "Doomed Space Wars",
+      "file": "missing/D/261284-doomed-space-wars.json"
+    },
+    {
       "igdb_id": 283731,
       "game_name": "Doomed Urbex",
       "file": "missing/D/283731-doomed-urbex.json"
@@ -57073,6 +57093,11 @@
       "file": "missing/E/309664-eggman.json"
     },
     {
+      "igdb_id": 261249,
+      "game_name": "Eggman no Kazuate Panic!",
+      "file": "missing/E/261249-eggman-no-kazuate-panic.json"
+    },
+    {
       "igdb_id": 338180,
       "game_name": "Eggplant",
       "file": "missing/E/338180-eggplant.json"
@@ -58876,6 +58901,11 @@
       "igdb_id": 174328,
       "game_name": "EnigmOn",
       "file": "missing/E/174328-enigmon.json"
+    },
+    {
+      "igdb_id": 261257,
+      "game_name": "Enigmoon",
+      "file": "missing/E/261257-enigmoon.json"
     },
     {
       "igdb_id": 404874,
@@ -65598,6 +65628,11 @@
       "file": "missing/F/322378-fire-emblem-immortal-sword.json"
     },
     {
+      "igdb_id": 261267,
+      "game_name": "Fire Emblem: Legends of Avenir",
+      "file": "missing/F/261267-fire-emblem-legends-of-avenir.json"
+    },
+    {
       "igdb_id": 1441,
       "game_name": "Fire Emblem: Path of Radiance",
       "file": "missing/F/1441-fire-emblem-path-of-radiance.json"
@@ -68488,6 +68523,11 @@
       "file": "missing/F/192960-forget-westbury-falls-disc-one.json"
     },
     {
+      "igdb_id": 261244,
+      "game_name": "Forget Your Chains",
+      "file": "missing/F/261244-forget-your-chains.json"
+    },
+    {
       "igdb_id": 178672,
       "game_name": "Forget-Me-Not",
       "file": "missing/F/178672-forget-me-not.json"
@@ -68911,6 +68951,11 @@
       "igdb_id": 313492,
       "game_name": "Fortress",
       "file": "missing/F/313492-fortress.json"
+    },
+    {
+      "igdb_id": 261282,
+      "game_name": "Fortress 1024",
+      "file": "missing/F/261282-fortress-1024.json"
     },
     {
       "igdb_id": 340237,
@@ -72563,6 +72608,11 @@
       "file": "missing/G/234931-gangsta-bean.json"
     },
     {
+      "igdb_id": 261296,
+      "game_name": "Gangsta Bean 2",
+      "file": "missing/G/261296-gangsta-bean-2.json"
+    },
+    {
       "igdb_id": 132263,
       "game_name": "Gangsta Underground: The Poker",
       "file": "missing/G/132263-gangsta-underground-the-poker.json"
@@ -73026,6 +73076,11 @@
       "igdb_id": 297511,
       "game_name": "Gears Forever",
       "file": "missing/G/297511-gears-forever.json"
+    },
+    {
+      "igdb_id": 261258,
+      "game_name": "Gears of Babies: Browser",
+      "file": "missing/G/261258-gears-of-babies-browser.json"
     },
     {
       "igdb_id": 20656,
@@ -76126,6 +76181,11 @@
       "igdb_id": 215356,
       "game_name": "Good Hell",
       "file": "missing/G/215356-good-hell.json"
+    },
+    {
+      "igdb_id": 261259,
+      "game_name": "Good Job!",
+      "file": "missing/G/261259-good-job.json"
     },
     {
       "igdb_id": 369021,
@@ -89213,6 +89273,11 @@
       "file": "missing/I/200729-idle-zombie-shelter.json"
     },
     {
+      "igdb_id": 261270,
+      "game_name": "Idleplex",
+      "file": "missing/I/261270-idleplex.json"
+    },
+    {
       "igdb_id": 237081,
       "game_name": "Idling Gears",
       "file": "missing/I/237081-idling-gears.json"
@@ -102073,6 +102138,11 @@
       "file": "missing/L/37131-legend-the-four-crystals-of-trazere.json"
     },
     {
+      "igdb_id": 261297,
+      "game_name": "Legend 64",
+      "file": "missing/L/261297-legend-64.json"
+    },
+    {
       "igdb_id": 70969,
       "game_name": "Legend of Aladdin",
       "file": "missing/L/70969-legend-of-aladdin.json"
@@ -108491,6 +108561,11 @@
       "igdb_id": 12182,
       "game_name": "Magicland Dizzy",
       "file": "missing/M/12182-magicland-dizzy.json"
+    },
+    {
+      "igdb_id": 261260,
+      "game_name": "Magicliment",
+      "file": "missing/M/261260-magicliment.json"
     },
     {
       "igdb_id": 280173,
@@ -119066,6 +119141,11 @@
       "igdb_id": 273100,
       "game_name": "More Invaders!",
       "file": "missing/M/273100-more-invaders.json"
+    },
+    {
+      "igdb_id": 261256,
+      "game_name": "More or Less",
+      "file": "missing/M/261256-more-or-less.json"
     },
     {
       "igdb_id": 361720,
@@ -133903,6 +133983,11 @@
       "file": "missing/P/81384-palace-of-cards.json"
     },
     {
+      "igdb_id": 261283,
+      "game_name": "Palace of Nemrac",
+      "file": "missing/P/261283-palace-of-nemrac.json"
+    },
+    {
       "igdb_id": 134683,
       "game_name": "Palace of Woe",
       "file": "missing/P/134683-palace-of-woe.json"
@@ -143071,6 +143156,11 @@
       "igdb_id": 240473,
       "game_name": "Pro Evolution Soccer 2019",
       "file": "missing/P/240473-pro-evolution-soccer-2019.json"
+    },
+    {
+      "igdb_id": 261262,
+      "game_name": "Pro Evolution Soccer Collection",
+      "file": "missing/P/261262-pro-evolution-soccer-collection.json"
     },
     {
       "igdb_id": 78688,
@@ -160793,6 +160883,11 @@
       "file": "missing/S/150140-shadow-seeker.json"
     },
     {
+      "igdb_id": 261279,
+      "game_name": "Shadow Shoot",
+      "file": "missing/S/261279-shadow-shoot.json"
+    },
+    {
       "igdb_id": 37186,
       "game_name": "Shadow Skimmer",
       "file": "missing/S/37186-shadow-skimmer.json"
@@ -167658,6 +167753,11 @@
       "file": "missing/S/353871-something-dark-beyond-the-light.json"
     },
     {
+      "igdb_id": 261263,
+      "game_name": "Something in the Woods",
+      "file": "missing/S/261263-something-in-the-woods.json"
+    },
+    {
       "igdb_id": 315488,
       "game_name": "Something Is Wrong With My World Map",
       "file": "missing/S/315488-something-is-wrong-with-my-world-map.json"
@@ -168018,6 +168118,11 @@
       "file": "missing/S/266507-sonic-battle-rush.json"
     },
     {
+      "igdb_id": 261246,
+      "game_name": "Sonic Billiards",
+      "file": "missing/S/261246-sonic-billiards.json"
+    },
+    {
       "igdb_id": 334140,
       "game_name": "Sonic Blasters",
       "file": "missing/S/334140-sonic-blasters.json"
@@ -168026,6 +168131,16 @@
       "igdb_id": 330512,
       "game_name": "Sonic Blaze",
       "file": "missing/S/330512-sonic-blaze.json"
+    },
+    {
+      "igdb_id": 261248,
+      "game_name": "Sonic Bowling",
+      "file": "missing/S/261248-sonic-bowling.json"
+    },
+    {
+      "igdb_id": 261293,
+      "game_name": "Sonic Bowling",
+      "file": "missing/S/261293-sonic-bowling.json"
     },
     {
       "igdb_id": 86807,
@@ -168088,9 +168203,19 @@
       "file": "missing/S/150157-sonic-colors-ultimate-30th-anniversary-pack.json"
     },
     {
+      "igdb_id": 261252,
+      "game_name": "Sonic Darts",
+      "file": "missing/S/261252-sonic-darts.json"
+    },
+    {
       "igdb_id": 19506,
       "game_name": "Sonic Dash",
       "file": "missing/S/19506-sonic-dash.json"
+    },
+    {
+      "igdb_id": 261292,
+      "game_name": "Sonic Dash Quiz",
+      "file": "missing/S/261292-sonic-dash-quiz.json"
     },
     {
       "igdb_id": 331715,
@@ -168133,6 +168258,11 @@
       "file": "missing/S/330528-sonic-gallery.json"
     },
     {
+      "igdb_id": 261275,
+      "game_name": "Sonic Gammon",
+      "file": "missing/S/261275-sonic-gammon.json"
+    },
+    {
       "igdb_id": 332255,
       "game_name": "Sonic Gear",
       "file": "missing/S/332255-sonic-gear.json"
@@ -168153,9 +168283,39 @@
       "file": "missing/S/331714-sonic-genesis-of-the-azure-wind.json"
     },
     {
+      "igdb_id": 261242,
+      "game_name": "Sonic Golf",
+      "file": "missing/S/261242-sonic-golf.json"
+    },
+    {
+      "igdb_id": 261280,
+      "game_name": "Sonic Golf 3D",
+      "file": "missing/S/261280-sonic-golf-3d.json"
+    },
+    {
+      "igdb_id": 261294,
+      "game_name": "Sonic Golf DX",
+      "file": "missing/S/261294-sonic-golf-dx.json"
+    },
+    {
       "igdb_id": 331713,
       "game_name": "Sonic Headway",
       "file": "missing/S/331713-sonic-headway.json"
+    },
+    {
+      "igdb_id": 261273,
+      "game_name": "Sonic Hearts",
+      "file": "missing/S/261273-sonic-hearts.json"
+    },
+    {
+      "igdb_id": 261271,
+      "game_name": "Sonic Hopping",
+      "file": "missing/S/261271-sonic-hopping.json"
+    },
+    {
+      "igdb_id": 261272,
+      "game_name": "Sonic Hopping 2",
+      "file": "missing/S/261272-sonic-hopping-2.json"
     },
     {
       "igdb_id": 266512,
@@ -168171,6 +168331,11 @@
       "igdb_id": 317609,
       "game_name": "Sonic Journey",
       "file": "missing/S/317609-sonic-journey.json"
+    },
+    {
+      "igdb_id": 261278,
+      "game_name": "Sonic Kart 3DX",
+      "file": "missing/S/261278-sonic-kart-3dx.json"
     },
     {
       "igdb_id": 330704,
@@ -168213,6 +168378,26 @@
       "file": "missing/S/325849-sonic-neo-genesis.json"
     },
     {
+      "igdb_id": 261286,
+      "game_name": "Sonic no 7 Narabe",
+      "file": "missing/S/261286-sonic-no-7-narabe.json"
+    },
+    {
+      "igdb_id": 261276,
+      "game_name": "Sonic no Daifuugou",
+      "file": "missing/S/261276-sonic-no-daifuugou.json"
+    },
+    {
+      "igdb_id": 261290,
+      "game_name": "Sonic no Jigen Ressha",
+      "file": "missing/S/261290-sonic-no-jigen-ressha.json"
+    },
+    {
+      "igdb_id": 261250,
+      "game_name": "Sonic no Jirai Sagashi Game",
+      "file": "missing/S/261250-sonic-no-jirai-sagashi-game.json"
+    },
+    {
       "igdb_id": 331710,
       "game_name": "Sonic Omega",
       "file": "missing/S/331710-sonic-omega.json"
@@ -168248,6 +168433,11 @@
       "file": "missing/S/266513-sonic-overdrive.json"
     },
     {
+      "igdb_id": 261274,
+      "game_name": "Sonic Panel Puzzle",
+      "file": "missing/S/261274-sonic-panel-puzzle.json"
+    },
+    {
       "igdb_id": 333935,
       "game_name": "Sonic Paradigm",
       "file": "missing/S/333935-sonic-paradigm.json"
@@ -168266,6 +168456,11 @@
       "igdb_id": 333939,
       "game_name": "Sonic Powered Up",
       "file": "missing/S/333939-sonic-powered-up.json"
+    },
+    {
+      "igdb_id": 261251,
+      "game_name": "Sonic Putter",
+      "file": "missing/S/261251-sonic-putter.json"
     },
     {
       "igdb_id": 266511,
@@ -168443,6 +168638,11 @@
       "file": "missing/S/330708-sonic-speed-blast.json"
     },
     {
+      "igdb_id": 261281,
+      "game_name": "Sonic Speed DX",
+      "file": "missing/S/261281-sonic-speed-dx.json"
+    },
+    {
       "igdb_id": 274722,
       "game_name": "Sonic Spinball: Life Savers",
       "file": "missing/S/274722-sonic-spinball-life-savers.json"
@@ -168478,6 +168678,11 @@
       "file": "missing/S/325840-sonic-switch.json"
     },
     {
+      "igdb_id": 261295,
+      "game_name": "Sonic Tennis DX",
+      "file": "missing/S/261295-sonic-tennis-dx.json"
+    },
+    {
       "igdb_id": 331300,
       "game_name": "Sonic the Fighters 2",
       "file": "missing/S/331300-sonic-the-fighters-2.json"
@@ -168486,6 +168691,11 @@
       "igdb_id": 321766,
       "game_name": "Sonic the Fighters Blitz",
       "file": "missing/S/321766-sonic-the-fighters-blitz.json"
+    },
+    {
+      "igdb_id": 261243,
+      "game_name": "Sonic the Hedgehog",
+      "file": "missing/S/261243-sonic-the-hedgehog.json"
     },
     {
       "igdb_id": 264886,
@@ -168743,9 +168953,19 @@
       "file": "missing/S/341904-sonic-exe-2-the-game.json"
     },
     {
+      "igdb_id": 261291,
+      "game_name": "Sonic's Casino Poker",
+      "file": "missing/S/261291-sonics-casino-poker.json"
+    },
+    {
       "igdb_id": 63901,
       "game_name": "Sonic's Edusoft",
       "file": "missing/S/63901-sonics-edusoft.json"
+    },
+    {
+      "igdb_id": 261289,
+      "game_name": "Sonic's Napoleon",
+      "file": "missing/S/261289-sonics-napoleon.json"
     },
     {
       "igdb_id": 330531,
@@ -169251,6 +169471,11 @@
       "igdb_id": 295544,
       "game_name": "Soulrise",
       "file": "missing/S/295544-soulrise.json"
+    },
+    {
+      "igdb_id": 261255,
+      "game_name": "Souls",
+      "file": "missing/S/261255-souls.json"
     },
     {
       "igdb_id": 410228,
@@ -170603,6 +170828,11 @@
       "file": "missing/S/166736-speechless.json"
     },
     {
+      "igdb_id": 261245,
+      "game_name": "Speed",
+      "file": "missing/S/261245-speed.json"
+    },
+    {
       "igdb_id": 328484,
       "game_name": "Speed & Precision Collection",
       "file": "missing/S/328484-speed-and-precision-collection.json"
@@ -170636,6 +170866,11 @@
       "igdb_id": 193998,
       "game_name": "Speed Drifters",
       "file": "missing/S/193998-speed-drifters.json"
+    },
+    {
+      "igdb_id": 261254,
+      "game_name": "Speed DX",
+      "file": "missing/S/261254-speed-dx.json"
     },
     {
       "igdb_id": 378777,
@@ -176623,6 +176858,11 @@
       "file": "missing/S/130358-sukutte-save-me.json"
     },
     {
+      "igdb_id": 261285,
+      "game_name": "Sulfur",
+      "file": "missing/S/261285-sulfur.json"
+    },
+    {
       "igdb_id": 352224,
       "game_name": "Sulfur Ignition",
       "file": "missing/S/352224-sulfur-ignition.json"
@@ -181921,6 +182161,11 @@
       "igdb_id": 198529,
       "game_name": "Tails in Sonic the Hedgehog",
       "file": "missing/T/198529-tails-in-sonic-the-hedgehog.json"
+    },
+    {
+      "igdb_id": 261253,
+      "game_name": "Tails no Flying Get",
+      "file": "missing/T/261253-tails-no-flying-get.json"
     },
     {
       "igdb_id": 289867,
@@ -215701,6 +215946,11 @@
       "igdb_id": 216480,
       "game_name": "World War 3: Card Battler",
       "file": "missing/W/216480-world-war-3-card-battler.json"
+    },
+    {
+      "igdb_id": 261288,
+      "game_name": "World War Alpha",
+      "file": "missing/W/261288-world-war-alpha.json"
     },
     {
       "igdb_id": 212473,
