@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legena: Union Tides | 34449 | [34449-legena-union-tides.json](./34449-legena-union-tides.json) |
 | Legend | 197955 | [197955-legend.json](./197955-legend.json) |
 | Legend - The Four Crystals of Trazere | 37131 | [37131-legend-the-four-crystals-of-trazere.json](./37131-legend-the-four-crystals-of-trazere.json) |
+| Legend 64 | 261297 | [261297-legend-64.json](./261297-legend-64.json) |
 | Legend of Aladdin | 70969 | [70969-legend-of-aladdin.json](./70969-legend-of-aladdin.json) |
 | Legend of Cozar | 334475 | [334475-legend-of-cozar.json](./334475-legend-of-cozar.json) |
 | Legend of Djel | 12176 | [12176-legend-of-djel.json](./12176-legend-of-djel.json) |
