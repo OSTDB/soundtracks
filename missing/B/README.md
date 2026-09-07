@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlerite Royale: All Champions Pack | 168365 | [168365-battlerite-royale-all-champions-pack.json](./168365-battlerite-royale-all-champions-pack.json) |
 | Battles Game | 370135 | [370135-battles-game.json](./370135-battles-game.json) |
 | Battles of Cardista | 356653 | [356653-battles-of-cardista.json](./356653-battles-of-cardista.json) |
+| Battleship | 267406 | [267406-battleship.json](./267406-battleship.json) |
 | Battleship | 317631 | [317631-battleship.json](./317631-battleship.json) |
 | Battleship | 95434 | [95434-battleship.json](./95434-battleship.json) |
 | Battleships and Carriers: WW2 Battleship Game | 111706 | [111706-battleships-and-carriers-ww2-battleship-game.json](./111706-battleships-and-carriers-ww2-battleship-game.json) |
