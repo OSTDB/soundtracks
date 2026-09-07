@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parking Game 3D - Real City Driving School | 83585 | [83585-car-parking-game-3d-real-city-driving-school.json](./83585-car-parking-game-3d-real-city-driving-school.json) |
 | Car Parking Simulator 3D Game | 105929 | [105929-car-parking-simulator-3d-game.json](./105929-car-parking-simulator-3d-game.json) |
 | Car Physics Simulator: Trucks + Missions DLC | 155107 | [155107-car-physics-simulator-trucks-missions-dlc.json](./155107-car-physics-simulator-trucks-missions-dlc.json) |
+| Car Racing: Highway Driving Simulator - Premium Edition | 283153 | [283153-car-racing-highway-driving-simulator-premium-edition.json](./283153-car-racing-highway-driving-simulator-premium-edition.json) |
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
 | Car Tycoon | 362291 | [362291-car-tycoon.json](./362291-car-tycoon.json) |
 | Car Wash | 295261 | [295261-car-wash.json](./295261-car-wash.json) |
@@ -501,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Plus | 330190 | [330190-cat-plus.json](./330190-cat-plus.json) |
 | Cat Purrtrol: Find All 100! | 295772 | [295772-cat-purrtrol-find-all-100.json](./295772-cat-purrtrol-find-all-100.json) |
 | Cat Screen | 410234 | [410234-cat-screen.json](./410234-cat-screen.json) |
+| Cat Simulator | 283154 | [283154-cat-simulator.json](./283154-cat-simulator.json) |
 | Cat Simulator 2015 | 87780 | [87780-cat-simulator-2015.json](./87780-cat-simulator-2015.json) |
 | Cat Slaps | 332976 | [332976-cat-slaps.json](./332976-cat-slaps.json) |
 | Cat Sokoban | 135868 | [135868-cat-sokoban.json](./135868-cat-sokoban.json) |
@@ -818,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Brain: Dark Troops | 157156 | [157156-chess-brain-dark-troops.json](./157156-chess-brain-dark-troops.json) |
 | Chess Deluxe | 86703 | [86703-chess-deluxe.json](./86703-chess-deluxe.json) |
 | Chess Dungeons | 209663 | [209663-chess-dungeons.json](./209663-chess-dungeons.json) |
+| Chess Grandmaster Royal Bundle | 283189 | [283189-chess-grandmaster-royal-bundle.json](./283189-chess-grandmaster-royal-bundle.json) |
 | Chess Master | 245540 | [245540-chess-master.json](./245540-chess-master.json) |
 | Chess Minimal | 147955 | [147955-chess-minimal.json](./147955-chess-minimal.json) |
 | Chess Morph: The Queen's Wormholes | 237058 | [237058-chess-morph-the-queens-wormholes.json](./237058-chess-morph-the-queens-wormholes.json) |
@@ -1517,12 +1520,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Swiper | 319956 | [319956-color-swiper.json](./319956-color-swiper.json) |
 | Color Teaser | 261527 | [261527-color-teaser.json](./261527-color-teaser.json) |
 | Color Water Sort: Complete Edition | 308798 | [308798-color-water-sort-complete-edition.json](./308798-color-water-sort-complete-edition.json) |
+| Colorful Adventures Bundle | 283190 | [283190-colorful-adventures-bundle.json](./283190-colorful-adventures-bundle.json) |
 | Colorful Critter | 218144 | [218144-colorful-critter.json](./218144-colorful-critter.json) |
 | Colorful Life Simulator | 316646 | [316646-colorful-life-simulator.json](./316646-colorful-life-simulator.json) |
 | Colorful Tower of Hanoi | 386701 | [386701-colorful-tower-of-hanoi.json](./386701-colorful-tower-of-hanoi.json) |
 | Colorful3D II | 131623 | [131623-colorful3d-ii.json](./131623-colorful3d-ii.json) |
 | Colorim | 261525 | [261525-colorim.json](./261525-colorim.json) |
 | Coloring Animal Zoo Touch to Color Activity Coloring Book for Kids and Family Preschool Ultimate Edition | 232167 | [232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json](./232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json) |
+| Coloring Book: Complete Bundle - 410 drawings | 283191 | [283191-coloring-book-complete-bundle-410-drawings.json](./283191-coloring-book-complete-bundle-410-drawings.json) |
 | Coloring Bundle | 317237 | [317237-coloring-bundle.json](./317237-coloring-bundle.json) |
 | Coloring Game: Girls | 255329 | [255329-coloring-game-girls.json](./255329-coloring-game-girls.json) |
 | Coloring Game: Little City | 130402 | [130402-coloring-game-little-city.json](./130402-coloring-game-little-city.json) |
@@ -1763,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookies Cookies Cookies | 205243 | [205243-cookies-cookies-cookies.json](./205243-cookies-cookies-cookies.json) |
 | Cookies Inc. | 243980 | [243980-cookies-inc.json](./243980-cookies-inc.json) |
 | Cooking | 314874 | [314874-cooking.json](./314874-cooking.json) |
+| Cooking Arena: 3 in 1 Edition | 283176 | [283176-cooking-arena-3-in-1-edition.json](./283176-cooking-arena-3-in-1-edition.json) |
 | Cooking Arena: 9 in 1 Edition | 275892 | [275892-cooking-arena-9-in-1-edition.json](./275892-cooking-arena-9-in-1-edition.json) |
 | Cooking Arena: Sushi Master | 308810 | [308810-cooking-arena-sushi-master.json](./308810-cooking-arena-sushi-master.json) |
 | Cooking Champions | 119017 | [119017-cooking-champions.json](./119017-cooking-champions.json) |
@@ -2067,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashed | 329598 | [329598-crashed.json](./329598-crashed.json) |
 | Crashland | 144349 | [144349-crashland.json](./144349-crashland.json) |
 | Crashletics | 242217 | [242217-crashletics.json](./242217-crashletics.json) |
+| CrashMetal: Drift Racing Car Driving Simulator - Premium Edition | 283151 | [283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json](./283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json) |
 | Crashy Cars! | 247178 | [247178-crashy-cars.json](./247178-crashy-cars.json) |
 | Crashy Cops! | 104642 | [104642-crashy-cops.json](./104642-crashy-cops.json) |
 | Crate Escape | 269283 | [269283-crate-escape.json](./269283-crate-escape.json) |
@@ -2636,6 +2643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cylor vs. the Bullets From Hell | 123612 | [123612-cylor-vs-the-bullets-from-hell.json](./123612-cylor-vs-the-bullets-from-hell.json) |
 | Cymut x Mutrobo: The Last Cymut | 292326 | [292326-cymut-x-mutrobo-the-last-cymut.json](./292326-cymut-x-mutrobo-the-last-cymut.json) |
 | Cynoroid Gaiden | 150167 | [150167-cynoroid-gaiden.json](./150167-cynoroid-gaiden.json) |
+| Cynthia: Hidden in the Moonshadow - Complete Edition | 283152 | [283152-cynthia-hidden-in-the-moonshadow-complete-edition.json](./283152-cynthia-hidden-in-the-moonshadow-complete-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Summer Edition | 317261 | [317261-cynthia-hidden-in-the-moonshadow-summer-edition.json](./317261-cynthia-hidden-in-the-moonshadow-summer-edition.json) |
 | Cyoube | 302346 | [302346-cyoube.json](./302346-cyoube.json) |
 | Cypest Underground | 111734 | [111734-cypest-underground.json](./111734-cypest-underground.json) |
