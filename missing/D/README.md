@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent: Levels of the World | 68718 | [68718-descent-levels-of-the-world.json](./68718-descent-levels-of-the-world.json) |
 | Desecrated Deck | 338709 | [338709-desecrated-deck.json](./338709-desecrated-deck.json) |
 | Desert Kingdoms 2 | 303473 | [303473-desert-kingdoms-2.json](./303473-desert-kingdoms-2.json) |
+| Desert Of The Undead New Frontiers | 296364 | [296364-desert-of-the-undead-new-frontiers.json](./296364-desert-of-the-undead-new-frontiers.json) |
 | Desert Racer | 61646 | [61646-desert-racer.json](./61646-desert-racer.json) |
 | Desert Raider | 151174 | [151174-desert-raider.json](./151174-desert-raider.json) |
 | Desert Rigs | 134060 | [134060-desert-rigs.json](./134060-desert-rigs.json) |
@@ -1390,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: The First Adventure | 66678 | [66678-doctor-who-the-first-adventure.json](./66678-doctor-who-the-first-adventure.json) |
 | Doctor Who: Thirteen | 240494 | [240494-doctor-who-thirteen.json](./240494-doctor-who-thirteen.json) |
 | Dodge | 177542 | [177542-dodge.json](./177542-dodge.json) |
+| Dodge Barrage | 296369 | [296369-dodge-barrage.json](./296369-dodge-barrage.json) |
 | Dodge Club Pocket | 96105 | [96105-dodge-club-pocket.json](./96105-dodge-club-pocket.json) |
 | Dodge Dancer | 149577 | [149577-dodge-dancer.json](./149577-dodge-dancer.json) |
 | Dodge Racing: Charger vs Challenger | 197942 | [197942-dodge-racing-charger-vs-challenger.json](./197942-dodge-racing-charger-vs-challenger.json) |
