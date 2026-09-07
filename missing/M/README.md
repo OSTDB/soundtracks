@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaton Musashi W: V Navigator "Korone Inugami" | 301015 | [301015-megaton-musashi-w-v-navigator-korone-inugami.json](./301015-megaton-musashi-w-v-navigator-korone-inugami.json) |
 | Megatron VGA | 46648 | [46648-megatron-vga.json](./46648-megatron-vga.json) |
 | MegaWorld | 286568 | [286568-megaworld.json](./286568-megaworld.json) |
+| Megdan | 298549 | [298549-megdan.json](./298549-megdan.json) |
 | Megurine Luka no Jikenbo | 264358 | [264358-megurine-luka-no-jikenbo.json](./264358-megurine-luka-no-jikenbo.json) |
 | Mei Paranormies 2 | 410236 | [410236-mei-paranormies-2.json](./410236-mei-paranormies-2.json) |
 | MeiaUm: Escaping the Pix | 329373 | [329373-meiaum-escaping-the-pix.json](./329373-meiaum-escaping-the-pix.json) |
@@ -1529,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Quest | 196868 | [196868-mine-quest.json](./196868-mine-quest.json) |
 | Mine Seeker | 89965 | [89965-mine-seeker.json](./89965-mine-seeker.json) |
 | Mine Sweeper | 252359 | [252359-mine-sweeper.json](./252359-mine-sweeper.json) |
+| Mine Sweeper Million | 298586 | [298586-mine-sweeper-million.json](./298586-mine-sweeper-million.json) |
 | Mine The Diamond | 245005 | [245005-mine-the-diamond.json](./245005-mine-the-diamond.json) |
 | Mine Upgrade | 369585 | [369585-mine-upgrade.json](./369585-mine-upgrade.json) |
 | MineCart - 3D Mine Cart Game for MineCraft | 86692 | [86692-minecart-3d-mine-cart-game-for-minecraft.json](./86692-minecart-3d-mine-cart-game-for-minecraft.json) |
@@ -1702,6 +1704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirax Force | 55208 | [55208-mirax-force.json](./55208-mirax-force.json) |
 | Mircea | 320739 | [320739-mircea.json](./320739-mircea.json) |
 | Mire | 339823 | [339823-mire.json](./339823-mire.json) |
+| Mirko Polo | 298564 | [298564-mirko-polo.json](./298564-mirko-polo.json) |
 | Mirror Image | 322352 | [322352-mirror-image.json](./322352-mirror-image.json) |
 | Mirror Insideout | 331882 | [331882-mirror-insideout.json](./331882-mirror-insideout.json) |
 | Mirror Land | 91986 | [91986-mirror-land.json](./91986-mirror-land.json) |
@@ -1777,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixed Unit Tactics | 252983 | [252983-mixed-unit-tactics.json](./252983-mixed-unit-tactics.json) |
 | MixMaster Online | 77363 | [77363-mixmaster-online.json](./77363-mixmaster-online.json) |
 | Mixology | 402922 | [402922-mixology.json](./402922-mixology.json) |
+| Mixx Island: Remix Plus - Superb Edition | 298573 | [298573-mixx-island-remix-plus-superb-edition.json](./298573-mixx-island-remix-plus-superb-edition.json) |
 | Mixx Island: Remix Plus - Ultra Special | 308820 | [308820-mixx-island-remix-plus-ultra-special.json](./308820-mixx-island-remix-plus-ultra-special.json) |
 | Mixx Island: Remix Vol. 2 | 186316 | [186316-mixx-island-remix-vol-2.json](./186316-mixx-island-remix-vol-2.json) |
 | Mizari Loves Company | 385056 | [385056-mizari-loves-company.json](./385056-mizari-loves-company.json) |
@@ -2226,6 +2230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 1: Sektor | 312333 | [312333-mortal-kombat-1-sektor.json](./312333-mortal-kombat-1-sektor.json) |
 | Mortal Kombat 1: Shang Tsung | 265938 | [265938-mortal-kombat-1-shang-tsung.json](./265938-mortal-kombat-1-shang-tsung.json) |
 | Mortal Kombat 1: T-1000 | 312340 | [312340-mortal-kombat-1-t-1000.json](./312340-mortal-kombat-1-t-1000.json) |
+| Mortal Kombat 11: DC Elseworlds Skin Pack | 298557 | [298557-mortal-kombat-11-dc-elseworlds-skin-pack.json](./298557-mortal-kombat-11-dc-elseworlds-skin-pack.json) |
 | Mortal Kombat 11: Fujin | 139439 | [139439-mortal-kombat-11-fujin.json](./139439-mortal-kombat-11-fujin.json) |
 | Mortal Kombat 11: Kombat Pack 2 | 139445 | [139445-mortal-kombat-11-kombat-pack-2.json](./139445-mortal-kombat-11-kombat-pack-2.json) |
 | Mortal Kombat 11: Mileena | 139442 | [139442-mortal-kombat-11-mileena.json](./139442-mortal-kombat-11-mileena.json) |
@@ -2472,6 +2477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mukaeute Uchuu Gundan Galack | 66130 | [66130-mukaeute-uchuu-gundan-galack.json](./66130-mukaeute-uchuu-gundan-galack.json) |
 | Mullet Madjack: Deluxe Edition | 318218 | [318218-mullet-madjack-deluxe-edition.json](./318218-mullet-madjack-deluxe-edition.json) |
 | Multi Maze 3D | 221380 | [221380-multi-maze-3d.json](./221380-multi-maze-3d.json) |
+| Multi Maze 3D: Complete Edition | 298574 | [298574-multi-maze-3d-complete-edition.json](./298574-multi-maze-3d-complete-edition.json) |
 | Multi Play Volleyball | 38363 | [38363-multi-play-volleyball.json](./38363-multi-play-volleyball.json) |
 | Multi Sports II | 301579 | [301579-multi-sports-ii.json](./301579-multi-sports-ii.json) |
 | Multibowl | 239313 | [239313-multibowl.json](./239313-multibowl.json) |
