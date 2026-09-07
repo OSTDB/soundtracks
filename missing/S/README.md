@@ -1265,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop of Forgotten Memories | 298883 | [298883-shop-of-forgotten-memories.json](./298883-shop-of-forgotten-memories.json) |
 | Shop Simulator: Supermarket | 320721 | [320721-shop-simulator-supermarket.json](./320721-shop-simulator-supermarket.json) |
 | Shop Town Dooter | 310182 | [310182-shop-town-dooter.json](./310182-shop-town-dooter.json) |
+| Shop Tycoon | 284891 | [284891-shop-tycoon.json](./284891-shop-tycoon.json) |
 | Shop-Like: The Rogue-Like Item Shop Experience | 250649 | [250649-shop-like-the-rogue-like-item-shop-experience.json](./250649-shop-like-the-rogue-like-item-shop-experience.json) |
 | Shopkins: Cutie Cars | 109007 | [109007-shopkins-cutie-cars.json](./109007-shopkins-cutie-cars.json) |
 | Shopkins: Top Trumps | 82140 | [82140-shopkins-top-trumps.json](./82140-shopkins-top-trumps.json) |
@@ -1582,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six-Guns: Gang Showdown | 38991 | [38991-six-guns-gang-showdown.json](./38991-six-guns-gang-showdown.json) |
 | Six-Sided Streets | 234897 | [234897-six-sided-streets.json](./234897-six-sided-streets.json) |
 | Sixtar Gate: Startrail - Dystopia Pack | 293402 | [293402-sixtar-gate-startrail-dystopia-pack.json](./293402-sixtar-gate-startrail-dystopia-pack.json) |
+| Sixtar Gate: Startrail - Oshiribeat Pack | 284913 | [284913-sixtar-gate-startrail-oshiribeat-pack.json](./284913-sixtar-gate-startrail-oshiribeat-pack.json) |
 | Sixteen Undead | 340368 | [340368-sixteen-undead.json](./340368-sixteen-undead.json) |
 | Size Matters! | 331709 | [331709-size-matters.json](./331709-size-matters.json) |
 | Sk8 | 75918 | [75918-sk8.json](./75918-sk8.json) |
@@ -2004,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Seekers | 253609 | [253609-sneaky-seekers.json](./253609-sneaky-seekers.json) |
 | Sneezies HD | 21748 | [21748-sneezies-hd.json](./21748-sneezies-hd.json) |
 | SnekMP | 226442 | [226442-snekmp.json](./226442-snekmp.json) |
+| Snezhinka: Sentinel Girls 2 | 284892 | [284892-snezhinka-sentinel-girls-2.json](./284892-snezhinka-sentinel-girls-2.json) |
 | Snezhnaja Koroleva | 197956 | [197956-snezhnaja-koroleva.json](./197956-snezhnaja-koroleva.json) |
 | Sniper 3D | 311780 | [311780-sniper-3d.json](./311780-sniper-3d.json) |
 | Sniper Assassin 3 | 316087 | [316087-sniper-assassin-3.json](./316087-sniper-assassin-3.json) |
@@ -2519,6 +2522,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Master | 180288 | [180288-soul-master.json](./180288-soul-master.json) |
 | Soul Master | 66669 | [66669-soul-master.json](./66669-soul-master.json) |
 | Soul Mates | 340400 | [340400-soul-mates.json](./340400-soul-mates.json) |
+| Soul of Butterflies | 284888 | [284888-soul-of-butterflies.json](./284888-soul-of-butterflies.json) |
+| Soul of Butterflies: The Lobby | 284889 | [284889-soul-of-butterflies-the-lobby.json](./284889-soul-of-butterflies-the-lobby.json) |
 | Soul of Heroes: Empire Wars | 247175 | [247175-soul-of-heroes-empire-wars.json](./247175-soul-of-heroes-empire-wars.json) |
 | Soul of Mask | 75179 | [75179-soul-of-mask.json](./75179-soul-of-mask.json) |
 | Soul Passage | 236542 | [236542-soul-passage.json](./236542-soul-passage.json) |
@@ -4681,6 +4686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweeper Zero | 107870 | [107870-sweeper-zero.json](./107870-sweeper-zero.json) |
 | Sweepminer | 377044 | [377044-sweepminer.json](./377044-sweepminer.json) |
 | Sweet Baby Girl Christmas 2 | 227474 | [227474-sweet-baby-girl-christmas-2.json](./227474-sweet-baby-girl-christmas-2.json) |
+| Sweet Bakery Tycoon: Complete Edition | 284931 | [284931-sweet-bakery-tycoon-complete-edition.json](./284931-sweet-bakery-tycoon-complete-edition.json) |
 | Sweet Bakery Tycoon: Super Edition | 315851 | [315851-sweet-bakery-tycoon-super-edition.json](./315851-sweet-bakery-tycoon-super-edition.json) |
 | Sweet Bakery Tycoon: Value Edition | 317243 | [317243-sweet-bakery-tycoon-value-edition.json](./317243-sweet-bakery-tycoon-value-edition.json) |
 | Sweet Cafe | 239881 | [239881-sweet-cafe.json](./239881-sweet-cafe.json) |
