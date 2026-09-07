@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Escape | 99619 | [99619-ball-escape.json](./99619-ball-escape.json) |
 | Ball Game | 75197 | [75197-ball-game.json](./75197-ball-game.json) |
 | Ball Game Remix | 217510 | [217510-ball-game-remix.json](./217510-ball-game-remix.json) |
+| Ball Jumper | 272854 | [272854-ball-jumper.json](./272854-ball-jumper.json) |
 | Ball Kicker | 109640 | [109640-ball-kicker.json](./109640-ball-kicker.json) |
 | Ball Match Quest | 108481 | [108481-ball-match-quest.json](./108481-ball-match-quest.json) |
 | Ball of Wonder | 31897 | [31897-ball-of-wonder.json](./31897-ball-of-wonder.json) |
@@ -1043,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Beach Sports 2 | 50639 | [50639-big-beach-sports-2.json](./50639-big-beach-sports-2.json) |
 | Big Bears Bad Advice: A Non-Biased Daily Fortune Teller | 126623 | [126623-big-bears-bad-advice-a-non-biased-daily-fortune-teller.json](./126623-big-bears-bad-advice-a-non-biased-daily-fortune-teller.json) |
 | Big Bible Town | 326992 | [326992-big-bible-town.json](./326992-big-bible-town.json) |
+| Big Blue | 272857 | [272857-big-blue.json](./272857-big-blue.json) |
 | Big Boo's Haunt | 308230 | [308230-big-boos-haunt.json](./308230-big-boos-haunt.json) |
 | Big Booty Adventures | 186312 | [186312-big-booty-adventures.json](./186312-big-booty-adventures.json) |
 | Big Brave | 91440 | [91440-big-brave.json](./91440-big-brave.json) |
@@ -1205,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin VS Brain | 89961 | [89961-bitcoin-vs-brain.json](./89961-bitcoin-vs-brain.json) |
 | BitColor | 184116 | [184116-bitcolor.json](./184116-bitcolor.json) |
 | Bite Me | 128623 | [128623-bite-me.json](./128623-bite-me.json) |
+| Bite Size Terrors: Eye Candy | 272836 | [272836-bite-size-terrors-eye-candy.json](./272836-bite-size-terrors-eye-candy.json) |
 | Bite the Bullet | 108770 | [108770-bite-the-bullet.json](./108770-bite-the-bullet.json) |
 | Bitfighter | 47275 | [47275-bitfighter.json](./47275-bitfighter.json) |
 | Bitgram | 55157 | [55157-bitgram.json](./55157-bitgram.json) |
@@ -1628,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blumgi Castle | 219262 | [219262-blumgi-castle.json](./219262-blumgi-castle.json) |
 | Blunted in The Malen | 302956 | [302956-blunted-in-the-malen.json](./302956-blunted-in-the-malen.json) |
 | Blyte | 358867 | [358867-blyte.json](./358867-blyte.json) |
+| Blyx | 272859 | [272859-blyx.json](./272859-blyx.json) |
 | BMX Pipe | 102770 | [102770-bmx-pipe.json](./102770-bmx-pipe.json) |
 | BMX Simulator | 11973 | [11973-bmx-simulator.json](./11973-bmx-simulator.json) |
 | Bō: Path of the Teal Lotus - Tanuki Kabuki | 335294 | [335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json](./335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json) |
@@ -1861,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bots | 58817 | [58817-bots.json](./58817-bots.json) |
 | Bots & Belts | 139484 | [139484-bots-and-belts.json](./139484-bots-and-belts.json) |
 | Bots Rush | 112350 | [112350-bots-rush.json](./112350-bots-rush.json) |
+| Bottle Can Float | 272826 | [272826-bottle-can-float.json](./272826-bottle-can-float.json) |
 | Bottle Flip VR | 159895 | [159895-bottle-flip-vr.json](./159895-bottle-flip-vr.json) |
 | Bottle It!: Beverage Simulator | 389971 | [389971-bottle-it-beverage-simulator.json](./389971-bottle-it-beverage-simulator.json) |
 | Bottom of the Ninth | 245547 | [245547-bottom-of-the-ninth.json](./245547-bottom-of-the-ninth.json) |
