@@ -133,6 +133,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammer Joe | 307586 | [307586-hammer-joe.json](./307586-hammer-joe.json) |
 | Hammer Kid | 187490 | [187490-hammer-kid.json](./187490-hammer-kid.json) |
 | Hammer time! | 178089 | [178089-hammer-time.json](./178089-hammer-time.json) |
+| Hammerin' Harry 2: Dan the Red Strikes Back - Collector's Edition | 306987 | [306987-hammerin-harry-2-dan-the-red-strikes-back-collectors-edition.json](./306987-hammerin-harry-2-dan-the-red-strikes-back-collectors-edition.json) |
+| Hammerin' Harry: Collector's Edition | 306986 | [306986-hammerin-harry-collectors-edition.json](./306986-hammerin-harry-collectors-edition.json) |
+| Hammerin' Harry: Concrete Collection | 306988 | [306988-hammerin-harry-concrete-collection.json](./306988-hammerin-harry-concrete-collection.json) |
 | Hammerwatch | 7891 | [7891-hammerwatch.json](./7891-hammerwatch.json) |
 | Hampstead | 12953 | [12953-hampstead.json](./12953-hampstead.json) |
 | Hampton Court | 123594 | [123594-hampton-court.json](./123594-hampton-court.json) |
