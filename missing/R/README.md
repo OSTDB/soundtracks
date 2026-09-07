@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Hell | 257080 | [257080-rhythm-hell.json](./257080-rhythm-hell.json) |
 | Rhythm Racer | 406108 | [406108-rhythm-racer.json](./406108-rhythm-racer.json) |
 | Rhythm Stars Climbing | 157196 | [157196-rhythm-stars-climbing.json](./157196-rhythm-stars-climbing.json) |
+| Rhythm Station | 277853 | [277853-rhythm-station.json](./277853-rhythm-station.json) |
 | Rhythm Tengoku: Tempo Up! | 280761 | [280761-rhythm-tengoku-tempo-up.json](./280761-rhythm-tengoku-tempo-up.json) |
 | Rhythm Town: Music Visualizer | 335251 | [335251-rhythm-town-music-visualizer.json](./335251-rhythm-town-music-visualizer.json) |
 | Rhythm Typer | 382798 | [382798-rhythm-typer.json](./382798-rhythm-typer.json) |
@@ -1004,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 4: Bonus Pack 14 | 190708 | [190708-ride-4-bonus-pack-14.json](./190708-ride-4-bonus-pack-14.json) |
 | Ride 4: Naked Japan Style | 190706 | [190706-ride-4-naked-japan-style.json](./190706-ride-4-naked-japan-style.json) |
 | Ride 5: Born to Race Pack | 288213 | [288213-ride-5-born-to-race-pack.json](./288213-ride-5-born-to-race-pack.json) |
+| Ride 5: Dreamer's Garage Pack | 277830 | [277830-ride-5-dreamers-garage-pack.json](./277830-ride-5-dreamers-garage-pack.json) |
 | Ride 5: Free Pack 06 | 293410 | [293410-ride-5-free-pack-06.json](./293410-ride-5-free-pack-06.json) |
 | Ride 5: Speed With Style Pack | 293411 | [293411-ride-5-speed-with-style-pack.json](./293411-ride-5-speed-with-style-pack.json) |
 | Ride Control Ultimate | 243403 | [243403-ride-control-ultimate.json](./243403-ride-control-ultimate.json) |
