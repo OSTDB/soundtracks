@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Absence of Miriam Lane | 219792 | [219792-the-absence-of-miriam-lane.json](./219792-the-absence-of-miriam-lane.json) |
 | The Abyss Has Walls | 195760 | [195760-the-abyss-has-walls.json](./195760-the-abyss-has-walls.json) |
 | The Abyssal Zone | 12246 | [12246-the-abyssal-zone.json](./12246-the-abyssal-zone.json) |
+| The Academy | 302947 | [302947-the-academy.json](./302947-the-academy.json) |
 | The Aching Aversion: Blood Orange Dreams | 312589 | [312589-the-aching-aversion-blood-orange-dreams.json](./312589-the-aching-aversion-blood-orange-dreams.json) |
 | The Acorn Protocol | 408036 | [408036-the-acorn-protocol.json](./408036-the-acorn-protocol.json) |
 | The Act | 64990 | [64990-the-act.json](./64990-the-act.json) |
@@ -1184,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Epic Quest of Birdo The Pink Dinosaur | 250662 | [250662-the-epic-quest-of-birdo-the-pink-dinosaur.json](./250662-the-epic-quest-of-birdo-the-pink-dinosaur.json) |
 | The Equinox Hunt | 125368 | [125368-the-equinox-hunt.json](./125368-the-equinox-hunt.json) |
 | The ER: Patient Typhon | 146320 | [146320-the-er-patient-typhon.json](./146320-the-er-patient-typhon.json) |
+| The Era of Pioneers | 302924 | [302924-the-era-of-pioneers.json](./302924-the-era-of-pioneers.json) |
 | The Escape from the Hen-Roost | 69866 | [69866-the-escape-from-the-hen-roost.json](./69866-the-escape-from-the-hen-roost.json) |
 | The Escape Room Chronicles ep 4: The 24-Hour TV Station | 324122 | [324122-the-escape-room-chronicles-ep-4-the-24-hour-tv-station.json](./324122-the-escape-room-chronicles-ep-4-the-24-hour-tv-station.json) |
 | The Escape Room Chronicles ep1: The Mysterious KumaDonald's | 324119 | [324119-the-escape-room-chronicles-ep1-the-mysterious-kumadonalds.json](./324119-the-escape-room-chronicles-ep1-the-mysterious-kumadonalds.json) |
@@ -1544,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land of Dasthir | 30898 | [30898-the-land-of-dasthir.json](./30898-the-land-of-dasthir.json) |
 | The Land of Morning Calm | 358888 | [358888-the-land-of-morning-calm.json](./358888-the-land-of-morning-calm.json) |
 | The Land of Rest 1 | 346608 | [346608-the-land-of-rest-1.json](./346608-the-land-of-rest-1.json) |
+| The Land: Elf no Mori | 302963 | [302963-the-land-elf-no-mori.json](./302963-the-land-elf-no-mori.json) |
 | The Lar | 118380 | [118380-the-lar.json](./118380-the-lar.json) |
 | The Last Birdling | 44162 | [44162-the-last-birdling.json](./44162-the-last-birdling.json) |
 | The Last Catalyst | 277613 | [277613-the-last-catalyst.json](./277613-the-last-catalyst.json) |
@@ -2555,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's No Easter Eggs | 273630 | [273630-theres-no-easter-eggs.json](./273630-theres-no-easter-eggs.json) |
 | There's No Monsters | 306991 | [306991-theres-no-monsters.json](./306991-theres-no-monsters.json) |
 | There's No Santa | 315296 | [315296-theres-no-santa.json](./315296-theres-no-santa.json) |
+| There's No Socks: The Extra Challenge | 302940 | [302940-theres-no-socks-the-extra-challenge.json](./302940-theres-no-socks-the-extra-challenge.json) |
 | There's Nothing Underground | 331290 | [331290-theres-nothing-underground.json](./331290-theres-nothing-underground.json) |
 | There's Poop In My Soup | 33315 | [33315-theres-poop-in-my-soup.json](./33315-theres-poop-in-my-soup.json) |
 | Therian Saga | 30951 | [30951-therian-saga.json](./30951-therian-saga.json) |
@@ -3223,6 +3227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Boom | 366232 | [366232-tomb-boom.json](./366232-tomb-boom.json) |
 | Tomb Guard VR | 28874 | [28874-tomb-guard-vr.json](./28874-tomb-guard-vr.json) |
 | Tomb Joe | 29874 | [29874-tomb-joe.json](./29874-tomb-joe.json) |
+| Tomb Nightmares | 302929 | [302929-tomb-nightmares.json](./302929-tomb-nightmares.json) |
 | Tomb of Friends | 249468 | [249468-tomb-of-friends.json](./249468-tomb-of-friends.json) |
 | Tomb of Horror | 356664 | [356664-tomb-of-horror.json](./356664-tomb-of-horror.json) |
 | Tomb of the Dash | 199630 | [199630-tomb-of-the-dash.json](./199630-tomb-of-the-dash.json) |
@@ -3747,6 +3752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Horror Collection | 204091 | [204091-trash-horror-collection.json](./204091-trash-horror-collection.json) |
 | Trash is Fun | 153997 | [153997-trash-is-fun.json](./153997-trash-is-fun.json) |
 | Trash Panda: The Adventures of Ricky and Boxman | 226433 | [226433-trash-panda-the-adventures-of-ricky-and-boxman.json](./226433-trash-panda-the-adventures-of-ricky-and-boxman.json) |
+| Trash Pandamonium | 302931 | [302931-trash-pandamonium.json](./302931-trash-pandamonium.json) |
 | Trash Sailors | 122426 | [122426-trash-sailors.json](./122426-trash-sailors.json) |
 | Trashcan Simulator | 329594 | [329594-trashcan-simulator.json](./329594-trashcan-simulator.json) |
 | Trashman | 23054 | [23054-trashman.json](./23054-trashman.json) |
