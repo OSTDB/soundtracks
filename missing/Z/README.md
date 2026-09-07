@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoria: Age of Shattering - Ancestors' Weapon Pack | 402944 | [402944-zoria-age-of-shattering-ancestors-weapon-pack.json](./402944-zoria-age-of-shattering-ancestors-weapon-pack.json) |
 | Zorro | 81431 | [81431-zorro.json](./81431-zorro.json) |
 | ZorroMoro | 119796 | [119796-zorromoro.json](./119796-zorromoro.json) |
+| Zorropa y La Torre de las Sombras | 265693 | [265693-zorropa-y-la-torre-de-las-sombras.json](./265693-zorropa-y-la-torre-de-las-sombras.json) |
 | Zorse | 328256 | [328256-zorse.json](./328256-zorse.json) |
 | Zort | 309176 | [309176-zort.json](./309176-zort.json) |
 | Zort 9 | 274227 | [274227-zort-9.json](./274227-zort-9.json) |
