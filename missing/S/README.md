@@ -1904,6 +1904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Story: Love Edition | 193500 | [193500-snail-story-love-edition.json](./193500-snail-story-love-edition.json) |
 | Snail Trek: Chapter 4 - The Final Fondue | 89664 | [89664-snail-trek-chapter-4-the-final-fondue.json](./89664-snail-trek-chapter-4-the-final-fondue.json) |
 | Snail's Knock Out! | 301021 | [301021-snails-knock-out.json](./301021-snails-knock-out.json) |
+| Snails | 299126 | [299126-snails.json](./299126-snails.json) |
 | Snails vs. Humans | 326076 | [326076-snails-vs-humans.json](./326076-snails-vs-humans.json) |
 | Snake | 100202 | [100202-snake.json](./100202-snake.json) |
 | Snake | 305744 | [305744-snake.json](./305744-snake.json) |
@@ -3202,6 +3203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Challenge | 86087 | [86087-star-wars-challenge.json](./86087-star-wars-challenge.json) |
 | Star Wars Chess | 11289 | [11289-star-wars-chess.json](./11289-star-wars-chess.json) |
 | Star Wars Episode I: The Phantom Menace | 158 | [158-star-wars-episode-i-the-phantom-menace.json](./158-star-wars-episode-i-the-phantom-menace.json) |
+| Star Wars Mod: Galactic Warfare | 299135 | [299135-star-wars-mod-galactic-warfare.json](./299135-star-wars-mod-galactic-warfare.json) |
 | Star Wars Outlaws: Cartel Ronin Bundle | 325857 | [325857-star-wars-outlaws-cartel-ronin-bundle.json](./325857-star-wars-outlaws-cartel-ronin-bundle.json) |
 | Star Wars Outlaws: Forest Commando Pack | 325856 | [325856-star-wars-outlaws-forest-commando-pack.json](./325856-star-wars-outlaws-forest-commando-pack.json) |
 | Star Wars Outlaws: Hunter's Legacy Bundle | 325858 | [325858-star-wars-outlaws-hunters-legacy-bundle.json](./325858-star-wars-outlaws-hunters-legacy-bundle.json) |
@@ -4356,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Turrican | 191878 | [191878-super-turrican.json](./191878-super-turrican.json) |
 | Super Tyrone Land | 142464 | [142464-super-tyrone-land.json](./142464-super-tyrone-land.json) |
 | Super Ubie Land | 85530 | [85530-super-ubie-land.json](./85530-super-ubie-land.json) |
+| Super Uwol | 299173 | [299173-super-uwol.json](./299173-super-uwol.json) |
 | Super Vadimka II: Revenge of Dr. Kulik | 194612 | [194612-super-vadimka-ii-revenge-of-dr-kulik.json](./194612-super-vadimka-ii-revenge-of-dr-kulik.json) |
 | Super Vadimka VI: A Terrible Threat there is No Vadimka | 224769 | [224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json](./224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json) |
 | Super Volte-Face | 310414 | [310414-super-volte-face.json](./310414-super-volte-face.json) |
