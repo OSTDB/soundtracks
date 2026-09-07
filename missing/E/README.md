@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force: World Brothers 2 - Extra Mission Pack: Robo Saurous vs. The Mecharmy | 325434 | [325434-earth-defense-force-world-brothers-2-extra-mission-pack-robo-saurous-vs-the-mecharmy.json](./325434-earth-defense-force-world-brothers-2-extra-mission-pack-robo-saurous-vs-the-mecharmy.json) |
 | Earth Defense Force: World Brothers 2 - Humanity Dominates!? Air Raider (EDF6) Up & Coming: Reskin | 325433 | [325433-earth-defense-force-world-brothers-2-humanity-dominates-air-raider-edf6-up-and-coming-reskin.json](./325433-earth-defense-force-world-brothers-2-humanity-dominates-air-raider-edf6-up-and-coming-reskin.json) |
 | Earth Invasion | 72085 | [72085-earth-invasion.json](./72085-earth-invasion.json) |
+| Earth Saves Our Love | 267392 | [267392-earth-saves-our-love.json](./267392-earth-saves-our-love.json) |
 | Earth's Center of Gravity | 209667 | [209667-earths-center-of-gravity.json](./209667-earths-center-of-gravity.json) |
 | Earth's Last Defense | 182535 | [182535-earths-last-defense.json](./182535-earths-last-defense.json) |
 | EarthBound 64 Experience | 238206 | [238206-earthbound-64-experience.json](./238206-earthbound-64-experience.json) |
@@ -1000,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution of a Mini World: Physics Wonderland | 153429 | [153429-evolution-of-a-mini-world-physics-wonderland.json](./153429-evolution-of-a-mini-world-physics-wonderland.json) |
 | Evolution Soccer | 137690 | [137690-evolution-soccer.json](./137690-evolution-soccer.json) |
 | Evolution: Dino Dudes | 40801 | [40801-evolution-dino-dudes.json](./40801-evolution-dino-dudes.json) |
+| Evolution: Dragon X | 267354 | [267354-evolution-dragon-x.json](./267354-evolution-dragon-x.json) |
 | Evolve Incremental | 255342 | [255342-evolve-incremental.json](./255342-evolve-incremental.json) |
 | Evolve or Die | 373526 | [373526-evolve-or-die.json](./373526-evolve-or-die.json) |
 | Evolve: Mecha Squad | 309691 | [309691-evolve-mecha-squad.json](./309691-evolve-mecha-squad.json) |
