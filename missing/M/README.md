@@ -647,6 +647,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maseylia: Echoes of the Past | 302107 | [302107-maseylia-echoes-of-the-past.json](./302107-maseylia-echoes-of-the-past.json) |
 | Masha and Medved | 216457 | [216457-masha-and-medved.json](./216457-masha-and-medved.json) |
 | Masha and the Bear: Dentist | 227487 | [227487-masha-and-the-bear-dentist.json](./227487-masha-and-the-bear-dentist.json) |
+| Mashiroiro Symphony HD: Love is Pure White | 292527 | [292527-mashiroiro-symphony-hd-love-is-pure-white.json](./292527-mashiroiro-symphony-hd-love-is-pure-white.json) |
+| Mashiroiro Symphony HD: Sana Edition | 292529 | [292529-mashiroiro-symphony-hd-sana-edition.json](./292529-mashiroiro-symphony-hd-sana-edition.json) |
 | Mask Fighting:Otherworldly Awakening | 357809 | [357809-mask-fighting-otherworldly-awakening.json](./357809-mask-fighting-otherworldly-awakening.json) |
 | Mask of Fury | 125434 | [125434-mask-of-fury.json](./125434-mask-of-fury.json) |
 | Mask of Sanity | 121696 | [121696-mask-of-sanity.json](./121696-mask-of-sanity.json) |
@@ -2530,6 +2532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murdeer | 395556 | [395556-murdeer.json](./395556-murdeer.json) |
 | Murder | 14158 | [14158-murder.json](./14158-murder.json) |
 | Murder at Masquerade Manor | 223682 | [223682-murder-at-masquerade-manor.json](./223682-murder-at-masquerade-manor.json) |
+| Murder Avenue | 292531 | [292531-murder-avenue.json](./292531-murder-avenue.json) |
 | Murder by Moonlight 2: Crimson Night | 193501 | [193501-murder-by-moonlight-2-crimson-night.json](./193501-murder-by-moonlight-2-crimson-night.json) |
 | Murder by Numbers | 123902 | [123902-murder-by-numbers.json](./123902-murder-by-numbers.json) |
 | Murder Is Game Over: Murder Otaku | 338721 | [338721-murder-is-game-over-murder-otaku.json](./338721-murder-is-game-over-murder-otaku.json) |
