@@ -880,6 +880,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf or Boy | 117709 | [117709-wolf-or-boy.json](./117709-wolf-or-boy.json) |
 | Wolf Riot | 193491 | [193491-wolf-riot.json](./193491-wolf-riot.json) |
 | Wolf Souls: Arena | 324331 | [324331-wolf-souls-arena.json](./324331-wolf-souls-arena.json) |
+| Wolfenstein 3D | 306944 | [306944-wolfenstein-3d.json](./306944-wolfenstein-3d.json) |
+| Wolfenstein 3D | 306948 | [306948-wolfenstein-3d.json](./306948-wolfenstein-3d.json) |
+| Wolfenstein 3D | 306965 | [306965-wolfenstein-3d.json](./306965-wolfenstein-3d.json) |
+| Wolfenstein 3D | 306975 | [306975-wolfenstein-3d.json](./306975-wolfenstein-3d.json) |
+| Wolfenstein 3D | 306982 | [306982-wolfenstein-3d.json](./306982-wolfenstein-3d.json) |
+| Wolfenstein 3D | 306984 | [306984-wolfenstein-3d.json](./306984-wolfenstein-3d.json) |
+| Wolfenstein 3D | 306985 | [306985-wolfenstein-3d.json](./306985-wolfenstein-3d.json) |
+| Wolfenstein 3D: Second Encounter | 306961 | [306961-wolfenstein-3d-second-encounter.json](./306961-wolfenstein-3d-second-encounter.json) |
+| Wolfenstein 3D: Third Encounter | 306963 | [306963-wolfenstein-3d-third-encounter.json](./306963-wolfenstein-3d-third-encounter.json) |
 | Wolfenstein II: The Freedom Chronicles - Season Pass | 75847 | [75847-wolfenstein-ii-the-freedom-chronicles-season-pass.json](./75847-wolfenstein-ii-the-freedom-chronicles-season-pass.json) |
 | Wolfenstein X: Hearts of Liberty | 143081 | [143081-wolfenstein-x-hearts-of-liberty.json](./143081-wolfenstein-x-hearts-of-liberty.json) |
 | Wolfenstein: Triple Pack | 152339 | [152339-wolfenstein-triple-pack.json](./152339-wolfenstein-triple-pack.json) |
