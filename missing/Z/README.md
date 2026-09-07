@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zatch Bell! Mamodo Fury Update | 358308 | [358308-zatch-bell-mamodo-fury-update.json](./358308-zatch-bell-mamodo-fury-update.json) |
 | Zatsugaku Olympic Quiz Part II | 41419 | [41419-zatsugaku-olympic-quiz-part-ii.json](./41419-zatsugaku-olympic-quiz-part-ii.json) |
 | Zavix Tower | 25104 | [25104-zavix-tower.json](./25104-zavix-tower.json) |
+| Zaxxon | 309341 | [309341-zaxxon.json](./309341-zaxxon.json) |
 | Zeddas | 242258 | [242258-zeddas.json](./242258-zeddas.json) |
 | Zee Artillery | 93068 | [93068-zee-artillery.json](./93068-zee-artillery.json) |
 | Zegapain NOT | 68015 | [68015-zegapain-not.json](./68015-zegapain-not.json) |
