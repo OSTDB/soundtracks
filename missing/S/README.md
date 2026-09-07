@@ -1824,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice N' Hook | 67335 | [67335-slice-n-hook.json](./67335-slice-n-hook.json) |
 | Slice To Meet You | 409583 | [409583-slice-to-meet-you.json](./409583-slice-to-meet-you.json) |
 | Slice&Dice | 345526 | [345526-slice-and-dice.json](./345526-slice-and-dice.json) |
+| Slick Slack | 277300 | [277300-slick-slack.json](./277300-slick-slack.json) |
 | Slick Tricks: Potion Persuasion! | 386101 | [386101-slick-tricks-potion-persuasion.json](./386101-slick-tricks-potion-persuasion.json) |
 | Slicy Flips | 322977 | [322977-slicy-flips.json](./322977-slicy-flips.json) |
 | Slide Hexagon | 358312 | [358312-slide-hexagon.json](./358312-slide-hexagon.json) |
@@ -4779,6 +4780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swing Fall | 359442 | [359442-swing-fall.json](./359442-swing-fall.json) |
 | Swing Into Zero-G | 296667 | [296667-swing-into-zero-g.json](./296667-swing-into-zero-g.json) |
 | Swing of the Valkyries | 391597 | [391597-swing-of-the-valkyries.json](./391597-swing-of-the-valkyries.json) |
+| Swing Solver | 277293 | [277293-swing-solver.json](./277293-swing-solver.json) |
 | Swing Striker | 133471 | [133471-swing-striker.json](./133471-swing-striker.json) |
 | Swingers | 283718 | [283718-swingers.json](./283718-swingers.json) |
 | Swingin' Beats | 338204 | [338204-swingin-beats.json](./338204-swingin-beats.json) |
