@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Flat Owner | 391032 | [391032-nano-flat-owner.json](./391032-nano-flat-owner.json) |
 | Nano Reef | 405538 | [405538-nano-reef.json](./405538-nano-reef.json) |
 | NanoApostle | 279485 | [279485-nanoapostle.json](./279485-nanoapostle.json) |
+| Nanobots | 281389 | [281389-nanobots.json](./281389-nanobots.json) |
 | Nanocorp | 173281 | [173281-nanocorp.json](./173281-nanocorp.json) |
 | NanoHive | 216991 | [216991-nanohive.json](./216991-nanohive.json) |
 | Nanos World | 152927 | [152927-nanos-world.json](./152927-nanos-world.json) |
@@ -489,7 +490,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Supper Banana! | 366220 | [366220-new-supper-banana.json](./366220-new-supper-banana.json) |
 | New Swordsman | 212478 | [212478-new-swordsman.json](./212478-new-swordsman.json) |
 | New Town Needs Tamer | 216989 | [216989-new-town-needs-tamer.json](./216989-new-town-needs-tamer.json) |
+| New Vegas Bounties III | 281369 | [281369-new-vegas-bounties-iii.json](./281369-new-vegas-bounties-iii.json) |
 | New Vegas Games | 72077 | [72077-new-vegas-games.json](./72077-new-vegas-games.json) |
+| New Vegas Killer | 281367 | [281367-new-vegas-killer.json](./281367-new-vegas-killer.json) |
 | New Witch in Town | 143694 | [143694-new-witch-in-town.json](./143694-new-witch-in-town.json) |
 | New World | 263768 | [263768-new-world.json](./263768-new-world.json) |
 | New World Order | 19215 | [19215-new-world-order.json](./19215-new-world-order.json) |
@@ -594,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night At The Motel | 376485 | [376485-night-at-the-motel.json](./376485-night-at-the-motel.json) |
 | Night at the Office | 327806 | [327806-night-at-the-office.json](./327806-night-at-the-office.json) |
 | Night Bars | 233204 | [233204-night-bars.json](./233204-night-bars.json) |
+| Night Cafe | 281422 | [281422-night-cafe.json](./281422-night-cafe.json) |
 | Night Call: Deluxe Edition | 124794 | [124794-night-call-deluxe-edition.json](./124794-night-call-deluxe-edition.json) |
 | Night Castle | 216988 | [216988-night-castle.json](./216988-night-castle.json) |
 | Night City | 293654 | [293654-night-city.json](./293654-night-city.json) |
