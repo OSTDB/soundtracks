@@ -368,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kim and Prostitute | 102410 | [102410-kim-and-prostitute.json](./102410-kim-and-prostitute.json) |
 | Kimero!! Hero Gakuen: Eiyuu ni Shinjutsu Nashi | 59439 | [59439-kimero-hero-gakuen-eiyuu-ni-shinjutsu-nashi.json](./59439-kimero-hero-gakuen-eiyuu-ni-shinjutsu-nashi.json) |
 | Kimi ga Mita Hikari 2 | 329968 | [329968-kimi-ga-mita-hikari-2.json](./329968-kimi-ga-mita-hikari-2.json) |
+| Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi to Koi Shite Musubarete | 394886 | [394886-kimi-to-koi-shite-musubarete.json](./394886-kimi-to-koi-shite-musubarete.json) |
 | Kimi to Mezameru Ikutsuka no Houhou | 398997 | [398997-kimi-to-mezameru-ikutsuka-no-houhou.json](./398997-kimi-to-mezameru-ikutsuka-no-houhou.json) |
