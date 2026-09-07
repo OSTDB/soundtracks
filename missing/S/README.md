@@ -1819,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Cops | 22929 | [22929-smash-cops.json](./22929-smash-cops.json) |
 | Smash Court 3 | 61669 | [61669-smash-court-3.json](./61669-smash-court-3.json) |
 | Smash Crabs | 151744 | [151744-smash-crabs.json](./151744-smash-crabs.json) |
+| Smash Drums: Pop Rock Legends | 306954 | [306954-smash-drums-pop-rock-legends.json](./306954-smash-drums-pop-rock-legends.json) |
 | Smash Halloween Pumpkins: The Challenge | 103485 | [103485-smash-halloween-pumpkins-the-challenge.json](./103485-smash-halloween-pumpkins-the-challenge.json) |
 | Smash Hit | 39239 | [39239-smash-hit.json](./39239-smash-hit.json) |
 | Smash N' Crash | 367455 | [367455-smash-n-crash.json](./367455-smash-n-crash.json) |
@@ -2020,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So I'm a Spider, So What? Ruler of the Labyrinth | 323711 | [323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json](./323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json) |
 | So Many Words | 308548 | [308548-so-many-words.json](./308548-so-many-words.json) |
 | Soapy Tales | 392763 | [392763-soapy-tales.json](./392763-soapy-tales.json) |
+| Soar | 306951 | [306951-soar.json](./306951-soar.json) |
 | Sobreviva Ziggy! | 329012 | [329012-sobreviva-ziggy.json](./329012-sobreviva-ziggy.json) |
 | Soccer | 346058 | [346058-soccer.json](./346058-soccer.json) |
 | Soccer America International Cup | 43307 | [43307-soccer-america-international-cup.json](./43307-soccer-america-international-cup.json) |
@@ -2671,7 +2673,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spawn: In the Demon's Hand | 4358 | [4358-spawn-in-the-demons-hand.json](./4358-spawn-in-the-demons-hand.json) |
 | Speak Lies | 127360 | [127360-speak-lies.json](./127360-speak-lies.json) |
 | Speakeasy Simulator | 375821 | [375821-speakeasy-simulator.json](./375821-speakeasy-simulator.json) |
+| Spear of Destiny | 306981 | [306981-spear-of-destiny.json](./306981-spear-of-destiny.json) |
 | Spear of Destiny | 6633 | [6633-spear-of-destiny.json](./6633-spear-of-destiny.json) |
+| Spear of Destiny Super CD Pack | 306973 | [306973-spear-of-destiny-super-cd-pack.json](./306973-spear-of-destiny-super-cd-pack.json) |
 | Spear of Destiny: The Final Journey | 177043 | [177043-spear-of-destiny-the-final-journey.json](./177043-spear-of-destiny-the-final-journey.json) |
 | Spear of Destiny: The Kaiseki - Director's Cut | 228098 | [228098-spear-of-destiny-the-kaiseki-directors-cut.json](./228098-spear-of-destiny-the-kaiseki-directors-cut.json) |
 | Spearmint Goose | 195195 | [195195-spearmint-goose.json](./195195-spearmint-goose.json) |
@@ -3284,6 +3288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StartPlay | 339669 | [339669-startplay.json](./339669-startplay.json) |
 | Startron | 333022 | [333022-startron.json](./333022-startron.json) |
 | Starvania: Tales Of The Past | 372498 | [372498-starvania-tales-of-the-past.json](./372498-starvania-tales-of-the-past.json) |
+| Starwave | 306943 | [306943-starwave.json](./306943-starwave.json) |
 | Starway Ateez | 315487 | [315487-starway-ateez.json](./315487-starway-ateez.json) |
 | StarWheels | 119041 | [119041-starwheels.json](./119041-starwheels.json) |
 | Starwisp Hyperdrive | 217023 | [217023-starwisp-hyperdrive.json](./217023-starwisp-hyperdrive.json) |
