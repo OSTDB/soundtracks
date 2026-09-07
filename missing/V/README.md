@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veggie Killer | 86334 | [86334-veggie-killer.json](./86334-veggie-killer.json) |
 | Veggie Tales 3D | 269838 | [269838-veggie-tales-3d.json](./269838-veggie-tales-3d.json) |
 | VeggieTales: LarryBoy and the Bad Apple | 49374 | [49374-veggietales-larryboy-and-the-bad-apple.json](./49374-veggietales-larryboy-and-the-bad-apple.json) |
+| Veil Runners | 310932 | [310932-veil-runners.json](./310932-veil-runners.json) |
 | Veiled Edge | 253596 | [253596-veiled-edge.json](./253596-veiled-edge.json) |
 | Veilwalkers | 349308 | [349308-veilwalkers.json](./349308-veilwalkers.json) |
 | Vein Hotel | 102180 | [102180-vein-hotel.json](./102180-vein-hotel.json) |
