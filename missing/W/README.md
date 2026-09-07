@@ -708,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will it Crush? | 102785 | [102785-will-it-crush.json](./102785-will-it-crush.json) |
 | William Shatner's TekWar | 8686 | [8686-william-shatners-tekwar.json](./8686-william-shatners-tekwar.json) |
 | Williams Arcade's Greatest Hits | 20713 | [20713-williams-arcades-greatest-hits.json](./20713-williams-arcades-greatest-hits.json) |
+| Williams Arcade's Greatest Hits | 287084 | [287084-williams-arcades-greatest-hits.json](./287084-williams-arcades-greatest-hits.json) |
 | Williams Pinball: Attack from Mars | 354452 | [354452-williams-pinball-attack-from-mars.json](./354452-williams-pinball-attack-from-mars.json) |
 | Williams Pinball: Black Rose | 354456 | [354456-williams-pinball-black-rose.json](./354456-williams-pinball-black-rose.json) |
 | Williams Pinball: Fish Tales | 354451 | [354451-williams-pinball-fish-tales.json](./354451-williams-pinball-fish-tales.json) |
