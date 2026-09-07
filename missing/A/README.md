@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adopt A Boyfriend | 332439 | [332439-adopt-a-boyfriend.json](./332439-adopt-a-boyfriend.json) |
 | Adopt Me Please | 410894 | [410894-adopt-me-please.json](./410894-adopt-me-please.json) |
 | Adora and My Treasure | 301598 | [301598-adora-and-my-treasure.json](./301598-adora-and-my-treasure.json) |
+| Adorable Dog: Gnomeageddon | 301253 | [301253-adorable-dog-gnomeageddon.json](./301253-adorable-dog-gnomeageddon.json) |
 | Adorable Home | 193994 | [193994-adorable-home.json](./193994-adorable-home.json) |
 | Adorable Witch 4: Lust | 211393 | [211393-adorable-witch-4-lust.json](./211393-adorable-witch-4-lust.json) |
 | Adoventoro Tcheco | 321779 | [321779-adoventoro-tcheco.json](./321779-adoventoro-tcheco.json) |
@@ -1010,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Alone | 307276 | [307276-all-alone.json](./307276-all-alone.json) |
 | All Ashes and Illusions | 173825 | [173825-all-ashes-and-illusions.json](./173825-all-ashes-and-illusions.json) |
 | All Aspect Warfare | 16065 | [16065-all-aspect-warfare.json](./16065-all-aspect-warfare.json) |
+| All Doe's Life | 301283 | [301283-all-does-life.json](./301283-all-does-life.json) |
 | All Elite Wrestling: Fight Forever - Elite Beats and Stampede Expansion | 301012 | [301012-all-elite-wrestling-fight-forever-elite-beats-and-stampede-expansion.json](./301012-all-elite-wrestling-fight-forever-elite-beats-and-stampede-expansion.json) |
 | All Elite Wrestling: Fight Forever - Rated Gold Superstar Pack | 301008 | [301008-all-elite-wrestling-fight-forever-rated-gold-superstar-pack.json](./301008-all-elite-wrestling-fight-forever-rated-gold-superstar-pack.json) |
 | All Elite Wrestling: Fight Forever - Season Pass 4 | 301011 | [301011-all-elite-wrestling-fight-forever-season-pass-4.json](./301011-all-elite-wrestling-fight-forever-season-pass-4.json) |
