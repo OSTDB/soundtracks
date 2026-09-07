@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vitality | 213040 | [213040-vitality.json](./213040-vitality.json) |
 | Vitamin X | 69288 | [69288-vitamin-x.json](./69288-vitamin-x.json) |
 | Vitreous | 179717 | [179717-vitreous.json](./179717-vitreous.json) |
+| Vitriol | 301258 | [301258-vitriol.json](./301258-vitriol.json) |
 | Vitrum | 36362 | [36362-vitrum.json](./36362-vitrum.json) |
 | Viva Mortis | 117734 | [117734-viva-mortis.json](./117734-viva-mortis.json) |
 | Viva Piñata | 7236 | [7236-viva-pinata.json](./7236-viva-pinata.json) |
