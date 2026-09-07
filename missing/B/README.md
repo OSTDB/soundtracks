@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Gear 4 | 64964 | [64964-battle-gear-4.json](./64964-battle-gear-4.json) |
 | Battle Gem Ponies | 183573 | [183573-battle-gem-ponies.json](./183573-battle-gem-ponies.json) |
 | Battle Grand Prix | 42628 | [42628-battle-grand-prix.json](./42628-battle-grand-prix.json) |
+| Battle Grid Arena | 306333 | [306333-battle-grid-arena.json](./306333-battle-grid-arena.json) |
 | Battle Grounds III | 117066 | [117066-battle-grounds-iii.json](./117066-battle-grounds-iii.json) |
 | Battle Hanafuda | 377059 | [377059-battle-hanafuda.json](./377059-battle-hanafuda.json) |
 | Battle Heat! | 45962 | [45962-battle-heat.json](./45962-battle-heat.json) |
@@ -976,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bible Trivia | 278164 | [278164-bible-trivia.json](./278164-bible-trivia.json) |
 | Bible Verse Challenge | 317848 | [317848-bible-verse-challenge.json](./317848-bible-verse-challenge.json) |
 | Biblically Inaccurate | 374043 | [374043-biblically-inaccurate.json](./374043-biblically-inaccurate.json) |
+| Biblios: Tome of Darkness | 306343 | [306343-biblios-tome-of-darkness.json](./306343-biblios-tome-of-darkness.json) |
 | Biblistry | 58797 | [58797-biblistry.json](./58797-biblistry.json) |
 | Bibou | 32916 | [32916-bibou.json](./32916-bibou.json) |
 | Bicycle Casino | 5747 | [5747-bicycle-casino.json](./5747-bicycle-casino.json) |
@@ -1562,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobby Carrot 3: Evolution | 66136 | [66136-bobby-carrot-3-evolution.json](./66136-bobby-carrot-3-evolution.json) |
 | Bobby Six Seven: Time Traveling Detective | 313143 | [313143-bobby-six-seven-time-traveling-detective.json](./313143-bobby-six-seven-time-traveling-detective.json) |
 | Bobcos | 368479 | [368479-bobcos.json](./368479-bobcos.json) |
+| Bober Bros: The Hole | 306350 | [306350-bober-bros-the-hole.json](./306350-bober-bros-the-hole.json) |
 | Bobls | 185156 | [185156-bobls.json](./185156-bobls.json) |
 | BoBo | 14328 | [14328-bobo.json](./14328-bobo.json) |
 | Bobo and the Chest of Nightmares | 332274 | [332274-bobo-and-the-chest-of-nightmares.json](./332274-bobo-and-the-chest-of-nightmares.json) |
@@ -1722,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands Triple Pack | 268734 | [268734-borderlands-triple-pack.json](./268734-borderlands-triple-pack.json) |
 | BorderStrain | 115037 | [115037-borderstrain.json](./115037-borderstrain.json) |
 | Boreal Tenebrae: Deluxe Ultimate Edition | 247753 | [247753-boreal-tenebrae-deluxe-ultimate-edition.json](./247753-boreal-tenebrae-deluxe-ultimate-edition.json) |
+| Bored Wife | 306379 | [306379-bored-wife.json](./306379-bored-wife.json) |
 | Boredom Survivor | 301611 | [301611-boredom-survivor.json](./301611-boredom-survivor.json) |
 | BOREWORKS | 413654 | [413654-boreworks.json](./413654-boreworks.json) |
 | Boring Game | 166741 | [166741-boring-game.json](./166741-boring-game.json) |
@@ -2191,6 +2195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulb Boy 2: Jar of Despair | 172747 | [172747-bulb-boy-2-jar-of-despair.json](./172747-bulb-boy-2-jar-of-despair.json) |
 | Bulb! | 215384 | [215384-bulb.json](./215384-bulb.json) |
 | Bulbo and the Lizard-King | 58822 | [58822-bulbo-and-the-lizard-king.json](./58822-bulbo-and-the-lizard-king.json) |
+| Bulbs 2.0 | 306353 | [306353-bulbs-2-0.json](./306353-bulbs-2-0.json) |
 | Bulby: Diamond Course | 33042 | [33042-bulby-diamond-course.json](./33042-bulby-diamond-course.json) |
 | Bule Form | 158224 | [158224-bule-form.json](./158224-bule-form.json) |
 | Bull Fighter | 40273 | [40273-bull-fighter.json](./40273-bull-fighter.json) |
