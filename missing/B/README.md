@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Base Jump: Wing Suit Flying | 199114 | [199114-base-jump-wing-suit-flying.json](./199114-base-jump-wing-suit-flying.json) |
 | Baseball | 245560 | [245560-baseball.json](./245560-baseball.json) |
 | Baseball | 245561 | [245561-baseball.json](./245561-baseball.json) |
+| Baseball | 277862 | [277862-baseball.json](./277862-baseball.json) |
 | Baseball | 297486 | [297486-baseball.json](./297486-baseball.json) |
 | Baseball | 7580 | [7580-baseball.json](./7580-baseball.json) |
 | Baseball 3DS | 21150 | [21150-baseball-3ds.json](./21150-baseball-3ds.json) |
