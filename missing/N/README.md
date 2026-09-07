@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Struct: Carrion Carrier | 158211 | [158211-neon-struct-carrion-carrier.json](./158211-neon-struct-carrion-carrier.json) |
 | Neon Sword | 107169 | [107169-neon-sword.json](./107169-neon-sword.json) |
 | Neon Tail | 119431 | [119431-neon-tail.json](./119431-neon-tail.json) |
+| Neon Village | 302358 | [302358-neon-village.json](./302358-neon-village.json) |
 | Neon Wars | 312925 | [312925-neon-wars.json](./312925-neon-wars.json) |
 | Neon White | 143612 | [143612-neon-white.json](./143612-neon-white.json) |
 | NeonHat | 187517 | [187517-neonhat.json](./187517-neonhat.json) |
