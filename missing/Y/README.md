@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yomaia | 238768 | [238768-yomaia.json](./238768-yomaia.json) |
 | Yomawari: Night Alone / htol#NiQ: The Firefly Diary - Limited Edition | 297245 | [297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json](./297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json) |
 | Yomawari: The Long Night Collection | 103052 | [103052-yomawari-the-long-night-collection.json](./103052-yomawari-the-long-night-collection.json) |
+| Yomesou de Yomenai Kanji DS | 287632 | [287632-yomesou-de-yomenai-kanji-ds.json](./287632-yomesou-de-yomenai-kanji-ds.json) |
 | Yomi 2: Renegades | 289877 | [289877-yomi-2-renegades.json](./289877-yomi-2-renegades.json) |
 | Yongbi M | 208061 | [208061-yongbi-m.json](./208061-yongbi-m.json) |
 | Yooca: Next Horizon | 369058 | [369058-yooca-next-horizon.json](./369058-yooca-next-horizon.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Will Select a Decision | 60015 | [60015-you-will-select-a-decision.json](./60015-you-will-select-a-decision.json) |
 | You, Me and Empty Words | 150153 | [150153-you-me-and-empty-words.json](./150153-you-me-and-empty-words.json) |
 | You... and who else? | 33098 | [33098-you-and-who-else.json](./33098-you-and-who-else.json) |
+| You're Boned | 287672 | [287672-youre-boned.json](./287672-youre-boned.json) |
 | You're Grounded! | 322355 | [322355-youre-grounded.json](./322355-youre-grounded.json) |
 | You're Mine! | 303275 | [303275-youre-mine.json](./303275-youre-mine.json) |
 | You're My Hero | 55934 | [55934-youre-my-hero.json](./55934-youre-my-hero.json) |
@@ -236,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yummyland Solitaire | 386122 | [386122-yummyland-solitaire.json](./386122-yummyland-solitaire.json) |
 | Yummyland Solitaire 2 | 386130 | [386130-yummyland-solitaire-2.json](./386130-yummyland-solitaire-2.json) |
 | Yumper | 146306 | [146306-yumper.json](./146306-yumper.json) |
+| Yumpr | 287675 | [287675-yumpr.json](./287675-yumpr.json) |
 | Yunak | 330541 | [330541-yunak.json](./330541-yunak.json) |
 | Yunyun Syndrome!?: Rhythm Psychosis | 302655 | [302655-yunyun-syndrome-rhythm-psychosis.json](./302655-yunyun-syndrome-rhythm-psychosis.json) |
 | Yupitergrad | 142438 | [142438-yupitergrad.json](./142438-yupitergrad.json) |
