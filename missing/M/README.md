@@ -1767,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MJ | 130945 | [130945-mj.json](./130945-mj.json) |
 | MKL The Game | 331866 | [331866-mkl-the-game.json](./331866-mkl-the-game.json) |
 | MLB 2K10 DS | 21157 | [21157-mlb-2k10-ds.json](./21157-mlb-2k10-ds.json) |
+| MLB 9 Innings | 304051 | [304051-mlb-9-innings.json](./304051-mlb-9-innings.json) |
 | MLB Bobblehead Pros | 20562 | [20562-mlb-bobblehead-pros.json](./20562-mlb-bobblehead-pros.json) |
 | MLB Home Run Derby 18 | 96055 | [96055-mlb-home-run-derby-18.json](./96055-mlb-home-run-derby-18.json) |
 | MLB Home Run Derby VR | 293378 | [293378-mlb-home-run-derby-vr.json](./293378-mlb-home-run-derby-vr.json) |
