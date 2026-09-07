@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuoki: Demon of the Fleeting Blossom | 17272 | [17272-hakuoki-demon-of-the-fleeting-blossom.json](./17272-hakuoki-demon-of-the-fleeting-blossom.json) |
 | Hakuoki: Kyoto Winds - Deluxe Edition | 243920 | [243920-hakuoki-kyoto-winds-deluxe-edition.json](./243920-hakuoki-kyoto-winds-deluxe-edition.json) |
 | Hakuoki: Kyoto Winds - Winds Treasure Box | 168905 | [168905-hakuoki-kyoto-winds-winds-treasure-box.json](./168905-hakuoki-kyoto-winds-winds-treasure-box.json) |
+| Halcyon Days | 274472 | [274472-halcyon-days.json](./274472-halcyon-days.json) |
 | Haldion | 82913 | [82913-haldion.json](./82913-haldion.json) |
 | Halen: Ballad of the Blade Thief | 134002 | [134002-halen-ballad-of-the-blade-thief.json](./134002-halen-ballad-of-the-blade-thief.json) |
 | Half Empty | 103510 | [103510-half-empty.json](./103510-half-empty.json) |
@@ -99,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Harry in Zombie Wars | 93057 | [93057-halloween-harry-in-zombie-wars.json](./93057-halloween-harry-in-zombie-wars.json) |
 | Halloween Online Horror Night | 274764 | [274764-halloween-online-horror-night.json](./274764-halloween-online-horror-night.json) |
 | Halloween Secrets: The Blood Vow - Collector's Edition | 362829 | [362829-halloween-secrets-the-blood-vow-collectors-edition.json](./362829-halloween-secrets-the-blood-vow-collectors-edition.json) |
+| Halloween Sinister Trivia | 274488 | [274488-halloween-sinister-trivia.json](./274488-halloween-sinister-trivia.json) |
 | Halloween Stories: Inspiration's Spark - Collector's Edition | 362849 | [362849-halloween-stories-inspirations-spark-collectors-edition.json](./362849-halloween-stories-inspirations-spark-collectors-edition.json) |
 | Halloween Stories: Written in Blood - Collector's Edition | 362850 | [362850-halloween-stories-written-in-blood-collectors-edition.json](./362850-halloween-stories-written-in-blood-collectors-edition.json) |
 | Halloween Trouble 2 | 155647 | [155647-halloween-trouble-2.json](./155647-halloween-trouble-2.json) |
@@ -729,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stars: Amazing Edition | 308800 | [308800-hentai-stars-amazing-edition.json](./308800-hentai-stars-amazing-edition.json) |
 | Hentai Stars: Premium Edition | 283172 | [283172-hentai-stars-premium-edition.json](./283172-hentai-stars-premium-edition.json) |
 | Hentai Stars: Superb Edition | 314885 | [314885-hentai-stars-superb-edition.json](./314885-hentai-stars-superb-edition.json) |
+| Hentai Stars: Ultimate Edition | 274475 | [274475-hentai-stars-ultimate-edition.json](./274475-hentai-stars-ultimate-edition.json) |
 | Hentai Tales Vol. 2: Hitomi and Sea Trip | 277309 | [277309-hentai-tales-vol-2-hitomi-and-sea-trip.json](./277309-hentai-tales-vol-2-hitomi-and-sea-trip.json) |
 | Hentai Tales: Triangle That Wants Me All | 401532 | [401532-hentai-tales-triangle-that-wants-me-all.json](./401532-hentai-tales-triangle-that-wants-me-all.json) |
 | Hentai vs. Orcs | 161388 | [161388-hentai-vs-orcs.json](./161388-hentai-vs-orcs.json) |
@@ -1360,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Dog Stand: The Works | 228685 | [228685-hot-dog-stand-the-works.json](./228685-hot-dog-stand-the-works.json) |
 | Hot Foot | 318408 | [318408-hot-foot.json](./318408-hot-foot.json) |
 | Hot Garbage: A Keysmash Story | 183571 | [183571-hot-garbage-a-keysmash-story.json](./183571-hot-garbage-a-keysmash-story.json) |
+| Hot Love Dreams: Classic Hentai Logic Puzzle | 274502 | [274502-hot-love-dreams-classic-hentai-logic-puzzle.json](./274502-hot-love-dreams-classic-hentai-logic-puzzle.json) |
 | Hot Mars 69 | 89587 | [89587-hot-mars-69.json](./89587-hot-mars-69.json) |
 | Hot Milf 4 | 192441 | [192441-hot-milf-4.json](./192441-hot-milf-4.json) |
 | Hot Milf 9 | 224222 | [224222-hot-milf-9.json](./224222-hot-milf-9.json) |
