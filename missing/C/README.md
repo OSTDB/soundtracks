@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Sky Flight | 300995 | [300995-cazzarion-sky-flight.json](./300995-cazzarion-sky-flight.json) |
 | Cazzarion: Space Ace | 293901 | [293901-cazzarion-space-ace.json](./293901-cazzarion-space-ace.json) |
 | Cazzarion: Space Shooter | 293902 | [293902-cazzarion-space-shooter.json](./293902-cazzarion-space-shooter.json) |
+| Cazzarion: Zombie Drive | 301803 | [301803-cazzarion-zombie-drive.json](./301803-cazzarion-zombie-drive.json) |
 | CBeebies Playtime Island: Game | 321783 | [321783-cbeebies-playtime-island-game.json](./321783-cbeebies-playtime-island-game.json) |
 | CCTV | 264863 | [264863-cctv.json](./264863-cctv.json) |
 | CDL for a UFO | 386115 | [386115-cdl-for-a-ufo.json](./386115-cdl-for-a-ufo.json) |
@@ -1337,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Name Teacher | 292307 | [292307-code-name-teacher.json](./292307-code-name-teacher.json) |
 | Code of Ethics | 123042 | [123042-code-of-ethics.json](./123042-code-of-ethics.json) |
 | Code of Princess EX | 90104 | [90104-code-of-princess-ex.json](./90104-code-of-princess-ex.json) |
+| Code Of Superheroes | 301809 | [301809-code-of-superheroes.json](./301809-code-of-superheroes.json) |
 | Code of the Savage | 173310 | [173310-code-of-the-savage.json](./173310-code-of-the-savage.json) |
 | Code Reactors | 330142 | [330142-code-reactors.json](./330142-code-reactors.json) |
 | Code Tracer | 124227 | [124227-code-tracer.json](./124227-code-tracer.json) |
@@ -1448,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Slayer | 121012 | [121012-color-slayer.json](./121012-color-slayer.json) |
 | Color Soul: Memories | 124229 | [124229-color-soul-memories.json](./124229-color-soul-memories.json) |
 | Color Splash: Dogs | 261509 | [261509-color-splash-dogs.json](./261509-color-splash-dogs.json) |
+| Color Splash: Fairies | 301834 | [301834-color-splash-fairies.json](./301834-color-splash-fairies.json) |
 | Color Splash: Horses | 337633 | [337633-color-splash-horses.json](./337633-color-splash-horses.json) |
 | Color Surge | 306354 | [306354-color-surge.json](./306354-color-surge.json) |
 | Color Swiper | 319956 | [319956-color-swiper.json](./319956-color-swiper.json) |
@@ -1904,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crab Raid Tactics | 247749 | [247749-crab-raid-tactics.json](./247749-crab-raid-tactics.json) |
 | Crab-Ball | 370111 | [370111-crab-ball.json](./370111-crab-ball.json) |
 | CrabbleUp | 295018 | [295018-crabbleup.json](./295018-crabbleup.json) |
+| Crabity | 301807 | [301807-crabity.json](./301807-crabity.json) |
 | Crablike | 342058 | [342058-crablike.json](./342058-crablike.json) |
 | CrabMania | 267665 | [267665-crabmania.json](./267665-crabmania.json) |
 | Crabs | 362816 | [362816-crabs.json](./362816-crabs.json) |
