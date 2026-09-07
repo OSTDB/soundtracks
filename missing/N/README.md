@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverland | 216990 | [216990-neverland.json](./216990-neverland.json) |
 | Neverland: Aeterna Chronicles | 353288 | [353288-neverland-aeterna-chronicles.json](./353288-neverland-aeterna-chronicles.json) |
 | Neverless Academy | 371259 | [371259-neverless-academy.json](./371259-neverless-academy.json) |
+| Nevermind | 290939 | [290939-nevermind.json](./290939-nevermind.json) |
 | NeveRossa: Mille e una notte | 316644 | [316644-neverossa-mille-e-una-notte.json](./316644-neverossa-mille-e-una-notte.json) |
 | Neverputt | 51246 | [51246-neverputt.json](./51246-neverputt.json) |
 | Neverseas | 301808 | [301808-neverseas.json](./301808-neverseas.json) |
@@ -837,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Sun To Worship | 236015 | [236015-no-sun-to-worship.json](./236015-no-sun-to-worship.json) |
 | No Thoughts Just Dodge | 413689 | [413689-no-thoughts-just-dodge.json](./413689-no-thoughts-just-dodge.json) |
 | No Throwing | 341487 | [341487-no-throwing.json](./341487-no-throwing.json) |
+| No Ticket Back: Craft, Survive & Escape | 290945 | [290945-no-ticket-back-craft-survive-and-escape.json](./290945-no-ticket-back-craft-survive-and-escape.json) |
 | No Time Left | 104111 | [104111-no-time-left.json](./104111-no-time-left.json) |
 | No Time to Build | 337484 | [337484-no-time-to-build.json](./337484-no-time-to-build.json) |
 | No Transmission | 183070 | [183070-no-transmission.json](./183070-no-transmission.json) |
