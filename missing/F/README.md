@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: Gone Fission | 347166 | [347166-fallout-76-gone-fission.json](./347166-fallout-76-gone-fission.json) |
 | Fallout 76: Platinum Edition | 111060 | [111060-fallout-76-platinum-edition.json](./111060-fallout-76-platinum-edition.json) |
 | Fallout 76: Season 11 - Nuka-World | 232689 | [232689-fallout-76-season-11-nuka-world.json](./232689-fallout-76-season-11-nuka-world.json) |
+| Fallout 76: Skyline Valley | 305150 | [305150-fallout-76-skyline-valley.json](./305150-fallout-76-skyline-valley.json) |
 | Fallout 76: Wild Appalachia | 115713 | [115713-fallout-76-wild-appalachia.json](./115713-fallout-76-wild-appalachia.json) |
 | Fallout: New Vegas - Lonesome Road | 10307 | [10307-fallout-new-vegas-lonesome-road.json](./10307-fallout-new-vegas-lonesome-road.json) |
 | Falnarion Tactics: Oathbreaker | 158730 | [158730-falnarion-tactics-oathbreaker.json](./158730-falnarion-tactics-oathbreaker.json) |
@@ -966,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flick Arena | 104094 | [104094-flick-arena.json](./104094-flick-arena.json) |
 | Flick Erasers Battle Royale | 315834 | [315834-flick-erasers-battle-royale.json](./315834-flick-erasers-battle-royale.json) |
 | Flick Home Run ! HD | 89537 | [89537-flick-home-run-hd.json](./89537-flick-home-run-hd.json) |
+| Flick Kick Football Legends | 305151 | [305151-flick-kick-football-legends.json](./305151-flick-kick-football-legends.json) |
 | Flick Shoot | 117727 | [117727-flick-shoot.json](./117727-flick-shoot.json) |
 | Flicker | 381024 | [381024-flicker.json](./381024-flicker.json) |
 | Flickle | 383393 | [383393-flickle.json](./383393-flickle.json) |
@@ -1323,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: May 2024 Fortnite Crew Pack | 303239 | [303239-fortnite-may-2024-fortnite-crew-pack.json](./303239-fortnite-may-2024-fortnite-crew-pack.json) |
 | Fortnite: Minty Legends Pack | 221948 | [221948-fortnite-minty-legends-pack.json](./221948-fortnite-minty-legends-pack.json) |
 | Fortnite: Raptor Royale Pack | 333588 | [333588-fortnite-raptor-royale-pack.json](./333588-fortnite-raptor-royale-pack.json) |
+| Fortnite: Rogue Alias Pack | 305198 | [305198-fortnite-rogue-alias-pack.json](./305198-fortnite-rogue-alias-pack.json) |
 | Fortnite: Rogue Scout Pack | 369598 | [369598-fortnite-rogue-scout-pack.json](./369598-fortnite-rogue-scout-pack.json) |
 | Fortnite: Storm-Wild Raven Starter Pack | 331701 | [331701-fortnite-storm-wild-raven-starter-pack.json](./331701-fortnite-storm-wild-raven-starter-pack.json) |
 | FortOfTheNight | 105341 | [105341-fortofthenight.json](./105341-fortofthenight.json) |
