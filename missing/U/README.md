@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled: The flower game | 181899 | [181899-untitled-the-flower-game.json](./181899-untitled-the-flower-game.json) |
 | Untold Legends: The Warrior's Code | 23006 | [23006-untold-legends-the-warriors-code.json](./23006-untold-legends-the-warriors-code.json) |
 | Untold Stories 01: Goliath | 406718 | [406718-untold-stories-01-goliath.json](./406718-untold-stories-01-goliath.json) |
+| Untold Tales: A Scarlet Way | 312567 | [312567-untold-tales-a-scarlet-way.json](./312567-untold-tales-a-scarlet-way.json) |
 | Untouchable | 101594 | [101594-untouchable.json](./101594-untouchable.json) |
 | Untravelled Planet | 325270 | [325270-untravelled-planet.json](./325270-untravelled-planet.json) |
 | Unusual and Not Safe Experiments | 368488 | [368488-unusual-and-not-safe-experiments.json](./368488-unusual-and-not-safe-experiments.json) |
@@ -370,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uoris DX | 147475 | [147475-uoris-dx.json](./147475-uoris-dx.json) |
 | Up | 210281 | [210281-up.json](./210281-up.json) |
 | Up | 228708 | [228708-up.json](./228708-up.json) |
+| Up & Down | 312568 | [312568-up-and-down.json](./312568-up-and-down.json) |
 | Up All Night: Rumination | 225305 | [225305-up-all-night-rumination.json](./225305-up-all-night-rumination.json) |
 | Up or Fall | 343243 | [343243-up-or-fall.json](./343243-up-or-fall.json) |
 | Up or Out | 105317 | [105317-up-or-out.json](./105317-up-or-out.json) |
@@ -377,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up to Gods | 275351 | [275351-up-to-gods.json](./275351-up-to-gods.json) |
 | Up Until the End | 133472 | [133472-up-until-the-end.json](./133472-up-until-the-end.json) |
 | Up Up & Down! | 312324 | [312324-up-up-and-down.json](./312324-up-up-and-down.json) |
+| Up With Doznik | 312569 | [312569-up-with-doznik.json](./312569-up-with-doznik.json) |
 | Upgraded | 338582 | [338582-upgraded.json](./338582-upgraded.json) |
 | Upgrades & Enemies | 362271 | [362271-upgrades-and-enemies.json](./362271-upgrades-and-enemies.json) |
 | Upheaval | 228064 | [228064-upheaval.json](./228064-upheaval.json) |
@@ -400,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upward | 234353 | [234353-upward.json](./234353-upward.json) |
 | Ura Jinsei Enjoi! Tamagotchi Plus | 229953 | [229953-ura-jinsei-enjoi-tamagotchi-plus.json](./229953-ura-jinsei-enjoi-tamagotchi-plus.json) |
 | Uraankhians Dygyn: The Beginning | 314904 | [314904-uraankhians-dygyn-the-beginning.json](./314904-uraankhians-dygyn-the-beginning.json) |
+| Urban | 312570 | [312570-urban.json](./312570-urban.json) |
 | Urban Champion-e | 170014 | [170014-urban-champion-e.json](./170014-urban-champion-e.json) |
 | Urban Dead | 69281 | [69281-urban-dead.json](./69281-urban-dead.json) |
 | Urban Drug Empire | 223138 | [223138-urban-drug-empire.json](./223138-urban-drug-empire.json) |
@@ -436,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UsoNatsu: The Summer Romance Bloomed From a Lie | 234340 | [234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json](./234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json) |
 | Usurper of Fire | 408035 | [408035-usurper-of-fire.json](./408035-usurper-of-fire.json) |
 | Uta Kumi 575 | 42670 | [42670-uta-kumi-575.json](./42670-uta-kumi-575.json) |
+| Utility for the Soul | 312571 | [312571-utility-for-the-soul.json](./312571-utility-for-the-soul.json) |
 | Utopia no Soubou | 378191 | [378191-utopia-no-soubou.json](./378191-utopia-no-soubou.json) |
 | Utopia: The Creation of a Nation | 12231 | [12231-utopia-the-creation-of-a-nation.json](./12231-utopia-the-creation-of-a-nation.json) |
 | Utsuho's Great Hunger Battle | 262101 | [262101-utsuhos-great-hunger-battle.json](./262101-utsuhos-great-hunger-battle.json) |
