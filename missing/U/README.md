@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Fishing Simulator: Moraine Lake | 124821 | [124821-ultimate-fishing-simulator-moraine-lake.json](./124821-ultimate-fishing-simulator-moraine-lake.json) |
 | Ultimate Flying Cars | 215401 | [215401-ultimate-flying-cars.json](./215401-ultimate-flying-cars.json) |
 | Ultimate FPS Challenge | 299175 | [299175-ultimate-fps-challenge.json](./299175-ultimate-fps-challenge.json) |
+| Ultimate Gem | 259537 | [259537-ultimate-gem.json](./259537-ultimate-gem.json) |
 | Ultimate Guess Game | 408797 | [408797-ultimate-guess-game.json](./408797-ultimate-guess-game.json) |
 | Ultimate Hero | 333530 | [333530-ultimate-hero.json](./333530-ultimate-hero.json) |
 | Ultimate Holidays: Deluxe Edition | 328810 | [328810-ultimate-holidays-deluxe-edition.json](./328810-ultimate-holidays-deluxe-edition.json) |
