@@ -1409,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Battle Factory | 339247 | [339247-pokemon-battle-factory.json](./339247-pokemon-battle-factory.json) |
 | Pokémon: Cave Escape | 342676 | [342676-pokemon-cave-escape.json](./342676-pokemon-cave-escape.json) |
 | Pokémon: Desert Bus | 313114 | [313114-pokemon-desert-bus.json](./313114-pokemon-desert-bus.json) |
+| Pokémon: Golden Emerald | 298034 | [298034-pokemon-golden-emerald.json](./298034-pokemon-golden-emerald.json) |
 | Pokémon: Legends of the Arena | 135872 | [135872-pokemon-legends-of-the-arena.json](./135872-pokemon-legends-of-the-arena.json) |
 | Pokémon: Maxie's Island | 342679 | [342679-pokemon-maxies-island.json](./342679-pokemon-maxies-island.json) |
 | Pokémon: National History Museum | 340212 | [340212-pokemon-national-history-museum.json](./340212-pokemon-national-history-museum.json) |
@@ -2083,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pug'llector | 311252 | [311252-pugllector.json](./311252-pugllector.json) |
 | Pug's Quest | 82954 | [82954-pugs-quest.json](./82954-pugs-quest.json) |
 | Pugovki | 177051 | [177051-pugovki.json](./177051-pugovki.json) |
+| PUIQ: Demons | 298053 | [298053-puiq-demons.json](./298053-puiq-demons.json) |
 | Pull the Beer | 406109 | [406109-pull-the-beer.json](./406109-pull-the-beer.json) |
 | Pull the Pin | 227513 | [227513-pull-the-pin.json](./227513-pull-the-pin.json) |
 | Pulp Race: Daft Enigma Fighter | 382780 | [382780-pulp-race-daft-enigma-fighter.json](./382780-pulp-race-daft-enigma-fighter.json) |
@@ -2142,6 +2144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Mini Golf | 188100 | [188100-pure-mini-golf.json](./188100-pure-mini-golf.json) |
 | Pure Nastalgia | 277034 | [277034-pure-nastalgia.json](./277034-pure-nastalgia.json) |
 | PureSkate 2 | 175431 | [175431-pureskate-2.json](./175431-pureskate-2.json) |
+| Purgatory Survivors | 298048 | [298048-purgatory-survivors.json](./298048-purgatory-survivors.json) |
 | Purgatory: Echoes From the Void | 58246 | [58246-purgatory-echoes-from-the-void.json](./58246-purgatory-echoes-from-the-void.json) |
 | Purity | 184113 | [184113-purity.json](./184113-purity.json) |
 | Purple Chicken Spaceman | 117777 | [117777-purple-chicken-spaceman.json](./117777-purple-chicken-spaceman.json) |
@@ -2166,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push the square | 375846 | [375846-push-the-square.json](./375846-push-the-square.json) |
 | Push The Squares | 262076 | [262076-push-the-squares.json](./262076-push-the-squares.json) |
 | Pushed a 'Bot! | 369026 | [369026-pushed-a-bot.json](./369026-pushed-a-bot.json) |
+| Pushing It! With Sisyphus | 298033 | [298033-pushing-it-with-sisyphus.json](./298033-pushing-it-with-sisyphus.json) |
 | Puss in Boots: Purrfect Adventures | 298578 | [298578-puss-in-boots-purrfect-adventures.json](./298578-puss-in-boots-purrfect-adventures.json) |
 | Pussies Wrestling Dicks | 211928 | [211928-pussies-wrestling-dicks.json](./211928-pussies-wrestling-dicks.json) |
 | Puszka Pandory | 93586 | [93586-puszka-pandory.json](./93586-puszka-pandory.json) |
