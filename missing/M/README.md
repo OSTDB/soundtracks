@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magia X: Leta | 172158 | [172158-magia-x-leta.json](./172158-magia-x-leta.json) |
 | Magic & Sanctuary | 219784 | [219784-magic-and-sanctuary.json](./219784-magic-and-sanctuary.json) |
 | Magic Archery | 318318 | [318318-magic-archery.json](./318318-magic-archery.json) |
+| Magic Balls | 263474 | [263474-magic-balls.json](./263474-magic-balls.json) |
 | Magic Book Auto Battler | 328257 | [328257-magic-book-auto-battler.json](./328257-magic-book-auto-battler.json) |
 | Magic Bows | 359400 | [359400-magic-bows.json](./359400-magic-bows.json) |
 | Magic Box | 29867 | [29867-magic-box.json](./29867-magic-box.json) |
@@ -953,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Battlegrounds | 188669 | [188669-medieval-battlegrounds.json](./188669-medieval-battlegrounds.json) |
 | Medieval Castle Siege Defense vs. Invaders | 406083 | [406083-medieval-castle-siege-defense-vs-invaders.json](./406083-medieval-castle-siege-defense-vs-invaders.json) |
 | Medieval Defence | 235997 | [235997-medieval-defence.json](./235997-medieval-defence.json) |
+| Medieval Delivery | 263519 | [263519-medieval-delivery.json](./263519-medieval-delivery.json) |
 | Medieval Dynasty: Echoes of Nature | 366852 | [366852-medieval-dynasty-echoes-of-nature.json](./366852-medieval-dynasty-echoes-of-nature.json) |
 | Medieval Fantasy: Jigsaw Puzzle | 313148 | [313148-medieval-fantasy-jigsaw-puzzle.json](./313148-medieval-fantasy-jigsaw-puzzle.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Eerie Darkness | 314889 | [314889-medieval-fantasy-jigsaw-puzzle-eerie-darkness.json](./314889-medieval-fantasy-jigsaw-puzzle-eerie-darkness.json) |
@@ -1169,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory | 383929 | [383929-memory.json](./383929-memory.json) |
 | Memory Data Memory | 331131 | [331131-memory-data-memory.json](./331131-memory-data-memory.json) |
 | Memory Eater | 123595 | [123595-memory-eater.json](./123595-memory-eater.json) |
+| Memory Fragment | 263501 | [263501-memory-fragment.json](./263501-memory-fragment.json) |
 | Memory Ghosts | 308229 | [308229-memory-ghosts.json](./308229-memory-ghosts.json) |
 | Memory Grove | 189195 | [189195-memory-grove.json](./189195-memory-grove.json) |
 | Memory Holders: The Colors II | 392171 | [392171-memory-holders-the-colors-ii.json](./392171-memory-holders-the-colors-ii.json) |
@@ -1268,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Messy Up | 263771 | [263771-messy-up.json](./263771-messy-up.json) |
 | Mesudoku | 400866 | [400866-mesudoku.json](./400866-mesudoku.json) |
 | Meta Fox | 39689 | [39689-meta-fox.json](./39689-meta-fox.json) |
+| Meta Nanos: Rumble Race | 263521 | [263521-meta-nanos-rumble-race.json](./263521-meta-nanos-rumble-race.json) |
 | Meta: Assembled | 392795 | [392795-meta-assembled.json](./392795-meta-assembled.json) |
 | Metaball: Guitar Man Pack | 293416 | [293416-metaball-guitar-man-pack.json](./293416-metaball-guitar-man-pack.json) |
 | Metaball: Kung Fu Pack | 293417 | [293417-metaball-kung-fu-pack.json](./293417-metaball-kung-fu-pack.json) |
@@ -1860,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Critical: Foresight | 186328 | [186328-mission-critical-foresight.json](./186328-mission-critical-foresight.json) |
 | Mission Idle | 172193 | [172193-mission-idle.json](./172193-mission-idle.json) |
 | Mission in Snowdriftland | 143095 | [143095-mission-in-snowdriftland.json](./143095-mission-in-snowdriftland.json) |
+| Mission Mars | 263479 | [263479-mission-mars.json](./263479-mission-mars.json) |
 | Mission Mars Mobile | 213047 | [213047-mission-mars-mobile.json](./213047-mission-mars-mobile.json) |
 | Mission Ring Possible | 141901 | [141901-mission-ring-possible.json](./141901-mission-ring-possible.json) |
 | Mission Supernova | 93040 | [93040-mission-supernova.json](./93040-mission-supernova.json) |
