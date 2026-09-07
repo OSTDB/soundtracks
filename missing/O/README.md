@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origame | 152916 | [152916-origame.json](./152916-origame.json) |
 | Origami Paradise | 227478 | [227478-origami-paradise.json](./227478-origami-paradise.json) |
 | Origin | 126648 | [126648-origin.json](./126648-origin.json) |
+| Origins | 300704 | [300704-origins.json](./300704-origins.json) |
 | Origins TCG | 412262 | [412262-origins-tcg.json](./412262-origins-tcg.json) |
 | Orin Gamble | 396901 | [396901-orin-gamble.json](./396901-orin-gamble.json) |
 | Orion Everton: Mysteries of Metrosomia | 291774 | [291774-orion-everton-mysteries-of-metrosomia.json](./291774-orion-everton-mysteries-of-metrosomia.json) |
