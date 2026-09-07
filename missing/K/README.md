@@ -108,6 +108,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanzo | 236532 | [236532-kanzo.json](./236532-kanzo.json) |
 | Kao the Kangaroo | 134528 | [134528-kao-the-kangaroo.json](./134528-kao-the-kangaroo.json) |
 | Kao the Kangaroo | 142453 | [142453-kao-the-kangaroo.json](./142453-kao-the-kangaroo.json) |
+| Kao The Kangaroo: Top Of The Class | 290412 | [290412-kao-the-kangaroo-top-of-the-class.json](./290412-kao-the-kangaroo-top-of-the-class.json) |
+| Kao the Kangaroo: VIP | 290411 | [290411-kao-the-kangaroo-vip.json](./290411-kao-the-kangaroo-vip.json) |
 | Kaos | 118397 | [118397-kaos.json](./118397-kaos.json) |
 | Kaperfahrt | 414347 | [414347-kaperfahrt.json](./414347-kaperfahrt.json) |
 | Kapih | 332262 | [332262-kapih.json](./332262-kapih.json) |
