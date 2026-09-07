@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall Street Trader 2000 | 73831 | [73831-wall-street-trader-2000.json](./73831-wall-street-trader-2000.json) |
 | Wall Street Trader 98 | 64967 | [64967-wall-street-trader-98.json](./64967-wall-street-trader-98.json) |
 | Wall World | 224705 | [224705-wall-world.json](./224705-wall-world.json) |
+| Wall-E | 279597 | [279597-wall-e.json](./279597-wall-e.json) |
 | Wallace & Gromit: The Big Fix Up | 321331 | [321331-wallace-and-gromit-the-big-fix-up.json](./321331-wallace-and-gromit-the-big-fix-up.json) |
 | Walled City Sunset | 326601 | [326601-walled-city-sunset.json](./326601-walled-city-sunset.json) |
 | Walled Haven | 382195 | [382195-walled-haven.json](./382195-walled-haven.json) |
@@ -809,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winx Club: Winx Fairy School | 96728 | [96728-winx-club-winx-fairy-school.json](./96728-winx-club-winx-fairy-school.json) |
 | Winzer | 77383 | [77383-winzer.json](./77383-winzer.json) |
 | Wipeout | 265970 | [265970-wipeout.json](./265970-wipeout.json) |
+| Wipeout 2600 | 279595 | [279595-wipeout-2600.json](./279595-wipeout-2600.json) |
 | Wiper | 312020 | [312020-wiper.json](./312020-wiper.json) |
 | Wire | 195755 | [195755-wire.json](./195755-wire.json) |
 | Wire Flying Maid | 129236 | [129236-wire-flying-maid.json](./129236-wire-flying-maid.json) |
