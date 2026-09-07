@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Path of Radiance | 1441 | [1441-fire-emblem-path-of-radiance.json](./1441-fire-emblem-path-of-radiance.json) |
 | Fire Emblem: Shadow Dragon and the Blade of Light - 30th Anniversary Edition | 140611 | [140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json](./140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json) |
 | Fire Emblem: Storge | 312345 | [312345-fire-emblem-storge.json](./312345-fire-emblem-storge.json) |
+| Fire Emblem: The Lonely Mirror | 273926 | [273926-fire-emblem-the-lonely-mirror.json](./273926-fire-emblem-the-lonely-mirror.json) |
 | Fire Emblem: Vision Quest | 141237 | [141237-fire-emblem-vision-quest.json](./141237-fire-emblem-vision-quest.json) |
 | Fire Entrance | 374086 | [374086-fire-entrance.json](./374086-fire-entrance.json) |
 | Fire Farm VR | 31964 | [31964-fire-farm-vr.json](./31964-fire-farm-vr.json) |
@@ -876,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Master World Tour | 50630 | [50630-fishing-master-world-tour.json](./50630-fishing-master-world-tour.json) |
 | Fishing Mayhem | 318187 | [318187-fishing-mayhem.json](./318187-fishing-mayhem.json) |
 | Fishing Mega-Game | 373002 | [373002-fishing-mega-game.json](./373002-fishing-mega-game.json) |
+| Fishing Minigame 2 | 273921 | [273921-fishing-minigame-2.json](./273921-fishing-minigame-2.json) |
 | Fishing Online | 274975 | [274975-fishing-online.json](./274975-fishing-online.json) |
 | Fishing Paradise 3D | 25744 | [25744-fishing-paradise-3d.json](./25744-fishing-paradise-3d.json) |
 | Fishing Sea Adventure | 335089 | [335089-fishing-sea-adventure.json](./335089-fishing-sea-adventure.json) |
@@ -924,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's 2 | 305746 | [305746-five-nights-at-freddys-2.json](./305746-five-nights-at-freddys-2.json) |
 | Five Nights at Freddy's 2 | 9195 | [9195-five-nights-at-freddys-2.json](./9195-five-nights-at-freddys-2.json) |
 | Five Nights at Freddy's 4: Halloween Edition | 226410 | [226410-five-nights-at-freddys-4-halloween-edition.json](./226410-five-nights-at-freddys-4-halloween-edition.json) |
+| Five Nights at Freddy's AR Lite | 273955 | [273955-five-nights-at-freddys-ar-lite.json](./273955-five-nights-at-freddys-ar-lite.json) |
 | Five Nights at Freddy's Gameboy | 305749 | [305749-five-nights-at-freddys-gameboy.json](./305749-five-nights-at-freddys-gameboy.json) |
 | Five Nights at Freddy's Soulless Look | 383375 | [383375-five-nights-at-freddys-soulless-look.json](./383375-five-nights-at-freddys-soulless-look.json) |
 | Five Nights at Freddy's: Backlogged | 329023 | [329023-five-nights-at-freddys-backlogged.json](./329023-five-nights-at-freddys-backlogged.json) |
@@ -1211,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Follow My Voice | 179194 | [179194-follow-my-voice.json](./179194-follow-my-voice.json) |
 | Follow Nightmare | 391589 | [391589-follow-nightmare.json](./391589-follow-nightmare.json) |
 | Follow The Cat | 170544 | [170544-follow-the-cat.json](./170544-follow-the-cat.json) |
+| Follow the Rules | 273952 | [273952-follow-the-rules.json](./273952-follow-the-rules.json) |
 | Follow You | 218129 | [218129-follow-you.json](./218129-follow-you.json) |
 | Follower | 383354 | [383354-follower.json](./383354-follower.json) |
 | Follower:Sacrifice | 99006 | [99006-follower-sacrifice.json](./99006-follower-sacrifice.json) |
@@ -1628,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Folding Simulator | 350436 | [350436-frog-folding-simulator.json](./350436-frog-folding-simulator.json) |
 | Frog Fractions | 18723 | [18723-frog-fractions.json](./18723-frog-fractions.json) |
 | Frog Frenzy | 87707 | [87707-frog-frenzy.json](./87707-frog-frenzy.json) |
+| Frog Jump | 273912 | [273912-frog-jump.json](./273912-frog-jump.json) |
 | Frog on Ice | 100884 | [100884-frog-on-ice.json](./100884-frog-on-ice.json) |
 | Frog Space | 133468 | [133468-frog-space.json](./133468-frog-space.json) |
 | Frog Street A-Z | 100818 | [100818-frog-street-a-z.json](./100818-frog-street-a-z.json) |
