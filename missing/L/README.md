@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left Stranded | 195199 | [195199-left-stranded.json](./195199-left-stranded.json) |
 | Left to Survive | 106608 | [106608-left-to-survive.json](./106608-left-to-survive.json) |
 | Left. | 265979 | [265979-left.json](./265979-left.json) |
+| Lefties' Righteous Arcade Emporium | 289305 | [289305-lefties-righteous-arcade-emporium.json](./289305-lefties-righteous-arcade-emporium.json) |
 | Leftovers | 221977 | [221977-leftovers.json](./221977-leftovers.json) |
 | Legacy | 213049 | [213049-legacy.json](./213049-legacy.json) |
 | Legacy | 23896 | [23896-legacy.json](./23896-legacy.json) |
