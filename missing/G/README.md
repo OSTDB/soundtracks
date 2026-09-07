@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnaughty Gnomes | 346030 | [346030-gnaughty-gnomes.json](./346030-gnaughty-gnomes.json) |
 | Gnomael's Vampire | 184662 | [184662-gnomaels-vampire.json](./184662-gnomaels-vampire.json) |
 | Gnomageddon: Forge of Infinity | 408033 | [408033-gnomageddon-forge-of-infinity.json](./408033-gnomageddon-forge-of-infinity.json) |
+| Gnomber | 288199 | [288199-gnomber.json](./288199-gnomber.json) |
 | Gnome Light | 54471 | [54471-gnome-light.json](./54471-gnome-light.json) |
 | Gnome Nations | 106595 | [106595-gnome-nations.json](./106595-gnome-nations.json) |
 | Gnomecart Havoc | 319006 | [319006-gnomecart-havoc.json](./319006-gnomecart-havoc.json) |
