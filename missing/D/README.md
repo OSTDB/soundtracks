@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Chthonicle | 57103 | [57103-daily-chthonicle.json](./57103-daily-chthonicle.json) |
 | Daily Driven Racer | 334474 | [334474-daily-driven-racer.json](./334474-daily-driven-racer.json) |
 | Daily Quizz | 78701 | [78701-daily-quizz.json](./78701-daily-quizz.json) |
+| Daily Thread: The Sewing of Discontent | 270121 | [270121-daily-thread-the-sewing-of-discontent.json](./270121-daily-thread-the-sewing-of-discontent.json) |
 | Daily Vrai | 413610 | [413610-daily-vrai.json](./413610-daily-vrai.json) |
 | Daimaou no Bijutsukan to Kaitoudan | 140003 | [140003-daimaou-no-bijutsukan-to-kaitoudan.json](./140003-daimaou-no-bijutsukan-to-kaitoudan.json) |
 | Dairantou Kanoair Smash 2002 | 196867 | [196867-dairantou-kanoair-smash-2002.json](./196867-dairantou-kanoair-smash-2002.json) |
@@ -379,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DC Comics Legends | 60027 | [60027-dc-comics-legends.json](./60027-dc-comics-legends.json) |
 | DC's Justice League: Cosmic Chaos | 228740 | [228740-dcs-justice-league-cosmic-chaos.json](./228740-dcs-justice-league-cosmic-chaos.json) |
 | DCF Universe Triple Trouble Bundle | 338026 | [338026-dcf-universe-triple-trouble-bundle.json](./338026-dcf-universe-triple-trouble-bundle.json) |
+| DCop | 270117 | [270117-dcop.json](./270117-dcop.json) |
 | DCS World: AH-64D Outpost Campaign by Stone Sky | 324898 | [324898-dcs-world-ah-64d-outpost-campaign-by-stone-sky.json](./324898-dcs-world-ah-64d-outpost-campaign-by-stone-sky.json) |
 | DCS World: AV-8B Kerman Campaign by Ground Pounder Sims | 325249 | [325249-dcs-world-av-8b-kerman-campaign-by-ground-pounder-sims.json](./325249-dcs-world-av-8b-kerman-campaign-by-ground-pounder-sims.json) |
 | DCS World: Black Shark 3 | 324663 | [324663-dcs-world-black-shark-3.json](./324663-dcs-world-black-shark-3.json) |
@@ -480,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Zed | 388038 | [388038-dead-zed.json](./388038-dead-zed.json) |
 | Dead Zone | 203555 | [203555-dead-zone.json](./203555-dead-zone.json) |
 | Dead Zone Defense | 304897 | [304897-dead-zone-defense.json](./304897-dead-zone-defense.json) |
+| Dead Zone: Rebirth of Survivors | 270103 | [270103-dead-zone-rebirth-of-survivors.json](./270103-dead-zone-rebirth-of-survivors.json) |
 | Deadbait | 161381 | [161381-deadbait.json](./161381-deadbait.json) |
 | DeadballCrusader | 290951 | [290951-deadballcrusader.json](./290951-deadballcrusader.json) |
 | Deadblast | 248331 | [248331-deadblast.json](./248331-deadblast.json) |
@@ -1086,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice of Kalma | 357258 | [357258-dice-of-kalma.json](./357258-dice-of-kalma.json) |
 | Dice Paradise | 175416 | [175416-dice-paradise.json](./175416-dice-paradise.json) |
 | Dice Rogues | 406120 | [406120-dice-rogues.json](./406120-dice-rogues.json) |
+| Dice to Meet You | 270140 | [270140-dice-to-meet-you.json](./270140-dice-to-meet-you.json) |
 | Dice Up | 274754 | [274754-dice-up.json](./274754-dice-up.json) |
 | Dice vs Dice | 173269 | [173269-dice-vs-dice.json](./173269-dice-vs-dice.json) |
 | Dice vs. Monsters | 184619 | [184619-dice-vs-monsters.json](./184619-dice-vs-monsters.json) |
@@ -1115,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Original Moorhuhn Jagd | 83237 | [83237-die-original-moorhuhn-jagd.json](./83237-die-original-moorhuhn-jagd.json) |
 | Die Rowdy | 299766 | [299766-die-rowdy.json](./299766-die-rowdy.json) |
 | Die Totenmaske | 184105 | [184105-die-totenmaske.json](./184105-die-totenmaske.json) |
+| Die, Pablo! | 270119 | [270119-die-pablo.json](./270119-die-pablo.json) |
 | DieFeen | 305161 | [305161-diefeen.json](./305161-diefeen.json) |
 | Diego Balls | 343830 | [343830-diego-balls.json](./343830-diego-balls.json) |
 | Diep.io | 19341 | [19341-diep-io.json](./19341-diep-io.json) |
