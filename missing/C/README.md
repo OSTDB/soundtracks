@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Atlantis: Treasures of Poseidon - Collector's Edition | 355541 | [355541-call-of-atlantis-treasures-of-poseidon-collectors-edition.json](./355541-call-of-atlantis-treasures-of-poseidon-collectors-edition.json) |
 | Call of Duty 4: Modern Warfare | 135294 | [135294-call-of-duty-4-modern-warfare.json](./135294-call-of-duty-4-modern-warfare.json) |
 | Call of Duty 4: Modern Warfare - Game of the Year Edition | 290723 | [290723-call-of-duty-4-modern-warfare-game-of-the-year-edition.json](./290723-call-of-duty-4-modern-warfare-game-of-the-year-edition.json) |
+| Call of Duty 4: Survival Mode | 299136 | [299136-call-of-duty-4-survival-mode.json](./299136-call-of-duty-4-survival-mode.json) |
 | Call of Duty Tactics | 276488 | [276488-call-of-duty-tactics.json](./276488-call-of-duty-tactics.json) |
 | Call of Duty: Black Ops | 343819 | [343819-call-of-duty-black-ops.json](./343819-call-of-duty-black-ops.json) |
 | Call of Duty: Black Ops - Annihilation | 22636 | [22636-call-of-duty-black-ops-annihilation.json](./22636-call-of-duty-black-ops-annihilation.json) |
@@ -297,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardnarok: Raid with Gods | 132232 | [132232-cardnarok-raid-with-gods.json](./132232-cardnarok-raid-with-gods.json) |
 | Cardpocalypse: Time Warp Edition | 154554 | [154554-cardpocalypse-time-warp-edition.json](./154554-cardpocalypse-time-warp-edition.json) |
 | Cards and Castles 2 | 178080 | [178080-cards-and-castles-2.json](./178080-cards-and-castles-2.json) |
+| Cards and Towers | 299139 | [299139-cards-and-towers.json](./299139-cards-and-towers.json) |
 | Cards of Eternity: The Wheel of Time | 321147 | [321147-cards-of-eternity-the-wheel-of-time.json](./321147-cards-of-eternity-the-wheel-of-time.json) |
 | Cards of the Dreaming Dragons | 207531 | [207531-cards-of-the-dreaming-dragons.json](./207531-cards-of-the-dreaming-dragons.json) |
 | CardWarden | 175409 | [175409-cardwarden.json](./175409-cardwarden.json) |
@@ -1592,6 +1594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Virus Simulator | 218133 | [218133-computer-virus-simulator.json](./218133-computer-virus-simulator.json) |
 | Computer, Open That Door! | 181382 | [181382-computer-open-that-door.json](./181382-computer-open-that-door.json) |
 | ComputerCraft | 232659 | [232659-computercraft.json](./232659-computercraft.json) |
+| Comuni Non Comuni | 299158 | [299158-comuni-non-comuni.json](./299158-comuni-non-comuni.json) |
 | Conan | 3862 | [3862-conan.json](./3862-conan.json) |
 | Conan the mighty pig | 32411 | [32411-conan-the-mighty-pig.json](./32411-conan-the-mighty-pig.json) |
 | Conbunn Cardboard | 204099 | [204099-conbunn-cardboard.json](./204099-conbunn-cardboard.json) |
