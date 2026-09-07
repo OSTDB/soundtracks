@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daydreamer | 295789 | [295789-daydreamer.json](./295789-daydreamer.json) |
 | Daylife in Japan: Pixel Art Jigsaw Puzzle | 147966 | [147966-daylife-in-japan-pixel-art-jigsaw-puzzle.json](./147966-daylife-in-japan-pixel-art-jigsaw-puzzle.json) |
 | Daylight Dread | 317214 | [317214-daylight-dread.json](./317214-daylight-dread.json) |
+| Daymaker: Release From Doomsday | 265654 | [265654-daymaker-release-from-doomsday.json](./265654-daymaker-release-from-doomsday.json) |
 | Daymare Cat: 10-year Anniversary | 257659 | [257659-daymare-cat-10-year-anniversary.json](./257659-daymare-cat-10-year-anniversary.json) |
 | Daymare Town 2 | 257642 | [257642-daymare-town-2.json](./257642-daymare-town-2.json) |
 | Daymare Town 2 | 257643 | [257643-daymare-town-2.json](./257643-daymare-town-2.json) |
@@ -1253,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dioramos | 333556 | [333556-dioramos.json](./333556-dioramos.json) |
 | Diplomacy is Not an Option: Fog of War | 415090 | [415090-diplomacy-is-not-an-option-fog-of-war.json](./415090-diplomacy-is-not-an-option-fog-of-war.json) |
 | Diptych: The Great War | 199135 | [199135-diptych-the-great-war.json](./199135-diptych-the-great-war.json) |
+| Dirappen Restoration | 265700 | [265700-dirappen-restoration.json](./265700-dirappen-restoration.json) |
 | Direction! Level Up! | 306359 | [306359-direction-level-up.json](./306359-direction-level-up.json) |
 | DirectionDungeon! | 179200 | [179200-directiondungeon.json](./179200-directiondungeon.json) |
 | Director Manager Total | 344940 | [344940-director-manager-total.json](./344940-director-manager-total.json) |
@@ -1513,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogistry | 58799 | [58799-dogistry.json](./58799-dogistry.json) |
 | Dogma | 74466 | [74466-dogma.json](./74466-dogma.json) |
 | Dogman | 141214 | [141214-dogman.json](./141214-dogman.json) |
+| Dogs of the Dark | 265678 | [265678-dogs-of-the-dark.json](./265678-dogs-of-the-dark.json) |
 | Dogs of Wallstreet | 197925 | [197925-dogs-of-wallstreet.json](./197925-dogs-of-wallstreet.json) |
 | Dogs Organized Neatly | 154011 | [154011-dogs-organized-neatly.json](./154011-dogs-organized-neatly.json) |
 | Dogs++ | 180814 | [180814-dogs.json](./180814-dogs.json) |
@@ -1552,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokodemo Crash-kun | 210242 | [210242-dokodemo-crash-kun.json](./210242-dokodemo-crash-kun.json) |
 | Dokodemo Mahjong | 43966 | [43966-dokodemo-mahjong.json](./43966-dokodemo-mahjong.json) |
 | Doku to Kuzu | 285989 | [285989-doku-to-kuzu.json](./285989-doku-to-kuzu.json) |
+| Dolan Reborn | 265685 | [265685-dolan-reborn.json](./265685-dolan-reborn.json) |
 | Dolce | 229972 | [229972-dolce.json](./229972-dolce.json) |
 | Doll Defenders | 293622 | [293622-doll-defenders.json](./293622-doll-defenders.json) |
 | Doll Recollect | 299737 | [299737-doll-recollect.json](./299737-doll-recollect.json) |
@@ -1659,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Konk | 231608 | [231608-donkey-konk.json](./231608-donkey-konk.json) |
 | Donki Hills | 358294 | [358294-donki-hills.json](./358294-donki-hills.json) |
 | Donnie's Delicious Nuclear Funeral | 390521 | [390521-donnies-delicious-nuclear-funeral.json](./390521-donnies-delicious-nuclear-funeral.json) |
+| Donny Donut: Dokrats | 265689 | [265689-donny-donut-dokrats.json](./265689-donny-donut-dokrats.json) |
 | Dontbegrey | 51965 | [51965-dontbegrey.json](./51965-dontbegrey.json) |
 | Donut Drop by ABCya | 96075 | [96075-donut-drop-by-abcya.json](./96075-donut-drop-by-abcya.json) |
 | Donut Hockey | 373558 | [373558-donut-hockey.json](./373558-donut-hockey.json) |
@@ -1770,6 +1775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dots Pop : Sexy Hentai Girls | 113012 | [113012-dots-pop-sexy-hentai-girls.json](./113012-dots-pop-sexy-hentai-girls.json) |
 | DotSec | 329579 | [329579-dotsec.json](./329579-dotsec.json) |
 | Dottie Dreads Nought | 313475 | [313475-dottie-dreads-nought.json](./313475-dottie-dreads-nought.json) |
+| Dotty | 265692 | [265692-dotty.json](./265692-dotty.json) |
 | Double Bubble Blaster Madness VR | 112989 | [112989-double-bubble-blaster-madness-vr.json](./112989-double-bubble-blaster-madness-vr.json) |
 | Double Dragon | 200154 | [200154-double-dragon.json](./200154-double-dragon.json) |
 | Double Dragon | 201319 | [201319-double-dragon.json](./201319-double-dragon.json) |
