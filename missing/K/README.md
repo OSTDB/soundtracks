@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Dragon | 184635 | [184635-kill-the-dragon.json](./184635-kill-the-dragon.json) |
 | Kill the Dragon | 268494 | [268494-kill-the-dragon.json](./268494-kill-the-dragon.json) |
 | Kill The Emoji: The Remake | 127094 | [127094-kill-the-emoji-the-remake.json](./127094-kill-the-emoji-the-remake.json) |
+| Kill The K.O.T.H | 261794 | [261794-kill-the-k-o-t-h.json](./261794-kill-the-k-o-t-h.json) |
 | Kill The Lights! | 337636 | [337636-kill-the-lights.json](./337636-kill-the-lights.json) |
 | Kill The Monk | 269865 | [269865-kill-the-monk.json](./269865-kill-the-monk.json) |
 | Kill the Monster | 105362 | [105362-kill-the-monster.json](./105362-kill-the-monster.json) |
@@ -599,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kly-Kly | 192942 | [192942-kly-kly.json](./192942-kly-kly.json) |
 | Kmenta | 109653 | [109653-kmenta.json](./109653-kmenta.json) |
 | KMON: Genesis | 254790 | [254790-kmon-genesis.json](./254790-kmon-genesis.json) |
+| Knee-deep in 2023 | 261822 | [261822-knee-deep-in-2023.json](./261822-knee-deep-in-2023.json) |
 | Knife Flip - Hit Geometry Cube | 104666 | [104666-knife-flip-hit-geometry-cube.json](./104666-knife-flip-hit-geometry-cube.json) |
 | Knife road | 122434 | [122434-knife-road.json](./122434-knife-road.json) |
 | Knife Rush | 104093 | [104093-knife-rush.json](./104093-knife-rush.json) |
