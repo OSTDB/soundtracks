@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFL | 165352 | [165352-ufl.json](./165352-ufl.json) |
 | UFO | 100199 | [100199-ufo.json](./100199-ufo.json) |
 | UFO Enemy Known | 310768 | [310768-ufo-enemy-known.json](./310768-ufo-enemy-known.json) |
+| UFO Joe | 263475 | [263475-ufo-joe.json](./263475-ufo-joe.json) |
 | UFO Ride | 294725 | [294725-ufo-ride.json](./294725-ufo-ride.json) |
 | UFO: Alien Invasion | 47271 | [47271-ufo-alien-invasion.json](./47271-ufo-alien-invasion.json) |
 | UFO: The Ranch | 248886 | [248886-ufo-the-ranch.json](./248886-ufo-the-ranch.json) |
