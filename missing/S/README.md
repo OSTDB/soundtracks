@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari Quest | 84904 | [84904-safari-quest.json](./84904-safari-quest.json) |
 | Safe House | 392132 | [392132-safe-house.json](./392132-safe-house.json) |
 | Safe Journey | 175941 | [175941-safe-journey.json](./175941-safe-journey.json) |
+| Safebreaker | 296373 | [296373-safebreaker.json](./296373-safebreaker.json) |
 | Safecracker | 24002 | [24002-safecracker.json](./24002-safecracker.json) |
 | Safecracker | 326988 | [326988-safecracker.json](./326988-safecracker.json) |
 | Safelight | 302926 | [302926-safelight.json](./302926-safelight.json) |
@@ -380,7 +381,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scanline | 180810 | [180810-scanline.json](./180810-scanline.json) |
 | Scanner Force | 402269 | [402269-scanner-force.json](./402269-scanner-force.json) |
 | Scapeghost | 12208 | [12208-scapeghost.json](./12208-scapeghost.json) |
+| Scarecrow vs. Big Butt Birds | 296389 | [296389-scarecrow-vs-big-butt-birds.json](./296389-scarecrow-vs-big-butt-birds.json) |
 | Scared of Zombies | 371860 | [371860-scared-of-zombies.json](./371860-scared-of-zombies.json) |
+| Scaredy Cat | 296348 | [296348-scaredy-cat.json](./296348-scaredy-cat.json) |
 | Scares on Halloween | 123601 | [123601-scares-on-halloween.json](./123601-scares-on-halloween.json) |
 | Scarface: The World Is Yours | 5139 | [5139-scarface-the-world-is-yours.json](./5139-scarface-the-world-is-yours.json) |
 | Scarlet Deer Inn | 143710 | [143710-scarlet-deer-inn.json](./143710-scarlet-deer-inn.json) |
@@ -1513,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinister Adventures Bundle | 199624 | [199624-sinister-adventures-bundle.json](./199624-sinister-adventures-bundle.json) |
 | Sinister City | 17898 | [17898-sinister-city.json](./17898-sinister-city.json) |
 | Sinister Fate | 38992 | [38992-sinister-fate.json](./38992-sinister-fate.json) |
+| Sinister Hospital | 296384 | [296384-sinister-hospital.json](./296384-sinister-hospital.json) |
 | Sinister Mansion | 297798 | [297798-sinister-mansion.json](./297798-sinister-mansion.json) |
 | Sinister Zombies | 95604 | [95604-sinister-zombies.json](./95604-sinister-zombies.json) |
 | Sinistrous | 153423 | [153423-sinistrous.json](./153423-sinistrous.json) |
@@ -2681,6 +2685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceBlocc | 193499 | [193499-spaceblocc.json](./193499-spaceblocc.json) |
 | SpaceBones | 353865 | [353865-spacebones.json](./353865-spacebones.json) |
 | Spaceborne Fighters | 392141 | [392141-spaceborne-fighters.json](./392141-spaceborne-fighters.json) |
+| Spaced Out | 296360 | [296360-spaced-out.json](./296360-spaced-out.json) |
 | Spaceforce: Captains | 20783 | [20783-spaceforce-captains.json](./20783-spaceforce-captains.json) |
 | Spaceguy III | 109749 | [109749-spaceguy-iii.json](./109749-spaceguy-iii.json) |
 | Spacejump | 250598 | [250598-spacejump.json](./250598-spacejump.json) |
@@ -2791,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbinder: The Nexus Conflict | 62208 | [62208-spellbinder-the-nexus-conflict.json](./62208-spellbinder-the-nexus-conflict.json) |
 | SpellBlast | 58837 | [58837-spellblast.json](./58837-spellblast.json) |
 | Spellbound Schoolgirls! | 206950 | [206950-spellbound-schoolgirls.json](./206950-spellbound-schoolgirls.json) |
+| Spellbrew Express | 296361 | [296361-spellbrew-express.json](./296361-spellbrew-express.json) |
 | Spellcaster University: Gears and Gobelins | 347676 | [347676-spellcaster-university-gears-and-gobelins.json](./347676-spellcaster-university-gears-and-gobelins.json) |
 | Spellcaster's Assistant | 96733 | [96733-spellcasters-assistant.json](./96733-spellcasters-assistant.json) |
 | Spellcasting 1+2+3 | 124795 | [124795-spellcasting-1-2-3.json](./124795-spellcasting-1-2-3.json) |
@@ -4671,6 +4677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordmancy | 373562 | [373562-swordmancy.json](./373562-swordmancy.json) |
 | SwordQuest: AirWorld | 67334 | [67334-swordquest-airworld.json](./67334-swordquest-airworld.json) |
 | Swords & Bones 3 | 235454 | [235454-swords-and-bones-3.json](./235454-swords-and-bones-3.json) |
+| Swords & Bones 4 | 296359 | [296359-swords-and-bones-4.json](./296359-swords-and-bones-4.json) |
 | Swords & Bones 5 | 360592 | [360592-swords-and-bones-5.json](./360592-swords-and-bones-5.json) |
 | Swords & Soldiers | 210258 | [210258-swords-and-soldiers.json](./210258-swords-and-soldiers.json) |
 | Swords & Soldiers | 210261 | [210261-swords-and-soldiers.json](./210261-swords-and-soldiers.json) |
@@ -4747,6 +4754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthrome | 316614 | [316614-synthrome.json](./316614-synthrome.json) |
 | Synthwave Driver | 344387 | [344387-synthwave-driver.json](./344387-synthwave-driver.json) |
 | Synthwave Hop | 172198 | [172198-synthwave-hop.json](./172198-synthwave-hop.json) |
+| Syon | 296383 | [296383-syon.json](./296383-syon.json) |
 | Syphon Filter: Logan's Shadow | 19430 | [19430-syphon-filter-logans-shadow.json](./19430-syphon-filter-logans-shadow.json) |
 | SyS KillMirror | 316616 | [316616-sys-killmirror.json](./316616-sys-killmirror.json) |
 | Sysop | 130950 | [130950-sysop.json](./130950-sysop.json) |
