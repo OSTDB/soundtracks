@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Quest: Simple Card Game | 406084 | [406084-card-quest-simple-card-game.json](./406084-card-quest-simple-card-game.json) |
 | Card Shop Game Store: TCG Simulator | 335957 | [335957-card-shop-game-store-tcg-simulator.json](./335957-card-shop-game-store-tcg-simulator.json) |
 | Card Shuffle Sort | 251237 | [251237-card-shuffle-sort.json](./251237-card-shuffle-sort.json) |
+| Card Survival: Fantasy Forest | 290925 | [290925-card-survival-fantasy-forest.json](./290925-card-survival-fantasy-forest.json) |
 | Card Thief | 28018 | [28018-card-thief.json](./28018-card-thief.json) |
 | Card Tower Defence | 153458 | [153458-card-tower-defence.json](./153458-card-tower-defence.json) |
 | Card Town | 333966 | [333966-card-town.json](./333966-card-town.json) |
@@ -1442,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collapse! Crunch | 73327 | [73327-collapse-crunch.json](./73327-collapse-crunch.json) |
 | Collapsed Galaxy II | 248895 | [248895-collapsed-galaxy-ii.json](./248895-collapsed-galaxy-ii.json) |
 | Collapsing | 258713 | [258713-collapsing.json](./258713-collapsing.json) |
+| Collateral Dungeon | 290958 | [290958-collateral-dungeon.json](./290958-collateral-dungeon.json) |
 | Collection of Mana | 27916 | [27916-collection-of-mana.json](./27916-collection-of-mana.json) |
 | Collection of Most Awful Things that Could Ever Happen on St. Valentine's Day | 319985 | [319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json](./319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json) |
 | Collector | 130936 | [130936-collector.json](./130936-collector.json) |
@@ -2184,6 +2186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criss Cross | 67520 | [67520-criss-cross.json](./67520-criss-cross.json) |
 | Critical Bullet: 7th Target | 72121 | [72121-critical-bullet-7th-target.json](./72121-critical-bullet-7th-target.json) |
 | Critical Point | 337490 | [337490-critical-point.json](./337490-critical-point.json) |
+| CriticalOrb | 290929 | [290929-criticalorb.json](./290929-criticalorb.json) |
 | Critter Caboodle | 333910 | [333910-critter-caboodle.json](./333910-critter-caboodle.json) |
 | Critter Crush - Hunting Game | 89282 | [89282-critter-crush-hunting-game.json](./89282-critter-crush-hunting-game.json) |
 | Critter Loop | 412267 | [412267-critter-loop.json](./412267-critter-loop.json) |
@@ -2484,6 +2487,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Order Maid 3D2: Mature, Level-Headed, and Dependable Secretary Maid GP-01 | 296663 | [296663-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01.json](./296663-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01.json) |
 | Custom Order Maid 3D2: Mature, Level-Headed, and Dependable Secretary Maid GP-01fb | 296662 | [296662-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01fb.json](./296662-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01fb.json) |
 | Custom Order Maid 3D2: Mature, Level-Headed, and Dependable Secretary Maid GP-02 | 296661 | [296661-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-02.json](./296661-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-02.json) |
+| Custom Order Maid 3D2: Soft Cuddly Girl GP-01 | 290937 | [290937-custom-order-maid-3d2-soft-cuddly-girl-gp-01.json](./290937-custom-order-maid-3d2-soft-cuddly-girl-gp-01.json) |
+| Custom Order Maid 3D2: Soft Cuddly Girl GP-01fb | 290940 | [290940-custom-order-maid-3d2-soft-cuddly-girl-gp-01fb.json](./290940-custom-order-maid-3d2-soft-cuddly-girl-gp-01fb.json) |
+| Custom Order Maid 3D2: Soft Cuddly Girl GP-02 | 290935 | [290935-custom-order-maid-3d2-soft-cuddly-girl-gp-02.json](./290935-custom-order-maid-3d2-soft-cuddly-girl-gp-02.json) |
 | Custom Robo Arena Redux | 219276 | [219276-custom-robo-arena-redux.json](./219276-custom-robo-arena-redux.json) |
 | Custom Robo GX | 3464 | [3464-custom-robo-gx.json](./3464-custom-robo-gx.json) |
 | Custom Robo V2 | 3463 | [3463-custom-robo-v2.json](./3463-custom-robo-v2.json) |
