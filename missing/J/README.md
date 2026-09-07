@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumbline 2 | 86729 | [86729-jumbline-2.json](./86729-jumbline-2.json) |
 | Jumbo Pumbo | 341471 | [341471-jumbo-pumbo.json](./341471-jumbo-pumbo.json) |
 | Jumfrog | 318762 | [318762-jumfrog.json](./318762-jumfrog.json) |
+| Jump | 272304 | [272304-jump.json](./272304-jump.json) |
 | Jump Ball | 317027 | [317027-jump-ball.json](./317027-jump-ball.json) |
 | Jump Ball Jump! | 310767 | [310767-jump-ball-jump.json](./310767-jump-ball-jump.json) |
 | Jump Ball-Bounce on Tower Tile | 105909 | [105909-jump-ball-bounce-on-tower-tile.json](./105909-jump-ball-bounce-on-tower-tile.json) |
