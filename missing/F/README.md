@@ -841,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishhead 3: The Search For a Heart of Gold | 191256 | [191256-fishhead-3-the-search-for-a-heart-of-gold.json](./191256-fishhead-3-the-search-for-a-heart-of-gold.json) |
 | Fishing Adventure | 299454 | [299454-fishing-adventure.json](./299454-fishing-adventure.json) |
 | Fishing Clash 2020: Fish Catching Games | 135263 | [135263-fishing-clash-2020-fish-catching-games.json](./135263-fishing-clash-2020-fish-catching-games.json) |
+| Fishing Craze | 294739 | [294739-fishing-craze.json](./294739-fishing-craze.json) |
 | Fishing For Cats | 309685 | [309685-fishing-for-cats.json](./309685-fishing-for-cats.json) |
 | Fishing Freaks: Bass Rise Plus | 123044 | [123044-fishing-freaks-bass-rise-plus.json](./123044-fishing-freaks-bass-rise-plus.json) |
 | Fishing Kingdom | 195226 | [195226-fishing-kingdom.json](./195226-fishing-kingdom.json) |
@@ -1281,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forget-Me-Not of the Tetragon | 335696 | [335696-forget-me-not-of-the-tetragon.json](./335696-forget-me-not-of-the-tetragon.json) |
 | Forgetting Emily | 309680 | [309680-forgetting-emily.json](./309680-forgetting-emily.json) |
 | Forging Glory | 132814 | [132814-forging-glory.json](./132814-forging-glory.json) |
+| Forgiveness RPG: The First Chapter - Part Two | 294688 | [294688-forgiveness-rpg-the-first-chapter-part-two.json](./294688-forgiveness-rpg-the-first-chapter-part-two.json) |
 | Forgotten | 26702 | [26702-forgotten.json](./26702-forgotten.json) |
 | Forgotten Depths | 381034 | [381034-forgotten-depths.json](./381034-forgotten-depths.json) |
 | Forgotten Dreams | 340233 | [340233-forgotten-dreams.json](./340233-forgotten-dreams.json) |
@@ -1826,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Zero | 378172 | [378172-future-zero.json](./378172-future-zero.json) |
 | Fuu | 393493 | [393493-fuu.json](./393493-fuu.json) |
 | Fuu3's Fuun Journey | 265927 | [265927-fuu3s-fuun-journey.json](./265927-fuu3s-fuun-journey.json) |
+| Fuuka σ Taisen | 294694 | [294694-fuuka-taisen.json](./294694-fuuka-taisen.json) |
 | Fuwa! Fuwa! Omurice Simulator Roguelite | 415083 | [415083-fuwa-fuwa-omurice-simulator-roguelite.json](./415083-fuwa-fuwa-omurice-simulator-roguelite.json) |
 | Fuyu no Rondo | 69310 | [69310-fuyu-no-rondo.json](./69310-fuyu-no-rondo.json) |
 | Fuzzy Critters | 104644 | [104644-fuzzy-critters.json](./104644-fuzzy-critters.json) |
