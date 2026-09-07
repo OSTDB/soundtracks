@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk Zero1 | 329364 | [329364-walk-zero1.json](./329364-walk-zero1.json) |
 | Walkabout Mini Golf: Mars Gardens | 360019 | [360019-walkabout-mini-golf-mars-gardens.json](./360019-walkabout-mini-golf-mars-gardens.json) |
 | Walkabout Mini Golf: Mount Olympus | 334481 | [334481-walkabout-mini-golf-mount-olympus.json](./334481-walkabout-mini-golf-mount-olympus.json) |
+| Walkabout Mini Golf: Venice | 305774 | [305774-walkabout-mini-golf-venice.json](./305774-walkabout-mini-golf-venice.json) |
 | Walking on Ice | 343242 | [343242-walking-on-ice.json](./343242-walking-on-ice.json) |
 | Walkover | 35787 | [35787-walkover.json](./35787-walkover.json) |
 | Walkure Romanze More & More | 194624 | [194624-walkure-romanze-more-and-more.json](./194624-walkure-romanze-more-and-more.json) |
@@ -1221,4 +1222,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWTF | 110369 | [110369-wwtf.json](./110369-wwtf.json) |
 | Wyld Land | 334480 | [334480-wyld-land.json](./334480-wyld-land.json) |
 | Wyrd World | 360571 | [360571-wyrd-world.json](./360571-wyrd-world.json) |
+| Wyrm Climb | 305795 | [305795-wyrm-climb.json](./305795-wyrm-climb.json) |
 | WyrmBound | 290721 | [290721-wyrmbound.json](./290721-wyrmbound.json) |
