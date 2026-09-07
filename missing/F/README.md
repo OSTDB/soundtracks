@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Princess: Super Version | 328819 | [328819-fashion-princess-super-version.json](./328819-fashion-princess-super-version.json) |
 | Fashion Space | 212493 | [212493-fashion-space.json](./212493-fashion-space.json) |
 | Fashion Universe | 212481 | [212481-fashion-universe.json](./212481-fashion-universe.json) |
+| Fashion World: Premium Edition | 308804 | [308804-fashion-world-premium-edition.json](./308804-fashion-world-premium-edition.json) |
 | FashionVerse | 296068 | [296068-fashionverse.json](./296068-fashionverse.json) |
 | Fast & Furious: Spy Racers Rise of Sh1ft3r | 150132 | [150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json](./150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json) |
 | Fast Beat Battle Rider | 292288 | [292288-fast-beat-battle-rider.json](./292288-fast-beat-battle-rider.json) |
@@ -848,6 +849,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit Cats | 382188 | [382188-fit-cats.json](./382188-fit-cats.json) |
 | Fit For A King | 121200 | [121200-fit-for-a-king.json](./121200-fit-for-a-king.json) |
 | Fit My Zoo: Complete + | 328820 | [328820-fit-my-zoo-complete.json](./328820-fit-my-zoo-complete.json) |
+| Fit My Zoo: Zoo's Puzzle Pack 1 | 308811 | [308811-fit-my-zoo-zoos-puzzle-pack-1.json](./308811-fit-my-zoo-zoos-puzzle-pack-1.json) |
+| Fit My Zoo: Zoo's Puzzle Pack 2 | 308812 | [308812-fit-my-zoo-zoos-puzzle-pack-2.json](./308812-fit-my-zoo-zoos-puzzle-pack-2.json) |
+| Fit My Zoo: Zoo's Puzzle Pack 3 | 308813 | [308813-fit-my-zoo-zoos-puzzle-pack-3.json](./308813-fit-my-zoo-zoos-puzzle-pack-3.json) |
 | Fit Puzzle Blocks: Expansion Pack | 263197 | [263197-fit-puzzle-blocks-expansion-pack.json](./263197-fit-puzzle-blocks-expansion-pack.json) |
 | Fitness Boxing Fist of the North Star | 217551 | [217551-fitness-boxing-fist-of-the-north-star.json](./217551-fitness-boxing-fist-of-the-north-star.json) |
 | Fittest | 100167 | [100167-fittest.json](./100167-fittest.json) |
@@ -1424,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frayed | 292314 | [292314-frayed.json](./292314-frayed.json) |
 | Freakfield 2042 | 195268 | [195268-freakfield-2042.json](./195268-freakfield-2042.json) |
 | Freakout: Calamity TV Show | 102150 | [102150-freakout-calamity-tv-show.json](./102150-freakout-calamity-tv-show.json) |
+| Freaky Trip: Amazing Edition | 308803 | [308803-freaky-trip-amazing-edition.json](./308803-freaky-trip-amazing-edition.json) |
 | Freaky Trip: Superb Edition | 315864 | [315864-freaky-trip-superb-edition.json](./315864-freaky-trip-superb-edition.json) |
 | Fred Fuches Around | 397693 | [397693-fred-fuches-around.json](./397693-fred-fuches-around.json) |
 | Fred Johnson's: Mech Simulator | 326429 | [326429-fred-johnsons-mech-simulator.json](./326429-fred-johnsons-mech-simulator.json) |
