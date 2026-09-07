@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramblings | 204678 | [204678-ramblings.json](./204678-ramblings.json) |
 | Ramen Chain | 159345 | [159345-ramen-chain.json](./159345-ramen-chain.json) |
 | Ramen in the 90's | 141190 | [141190-ramen-in-the-90s.json](./141190-ramen-in-the-90s.json) |
+| Ramen no Megami | 283716 | [283716-ramen-no-megami.json](./283716-ramen-no-megami.json) |
 | Ramenbashi | 92513 | [92513-ramenbashi.json](./92513-ramenbashi.json) |
 | Ramhart | 341311 | [341311-ramhart.json](./341311-ramhart.json) |
 | Ramming Turtleship: 1592 - The Imjin War | 390000 | [390000-ramming-turtleship-1592-the-imjin-war.json](./390000-ramming-turtleship-1592-the-imjin-war.json) |
@@ -882,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverie | 114417 | [114417-reverie.json](./114417-reverie.json) |
 | Reverie | 254161 | [254161-reverie.json](./254161-reverie.json) |
 | Reversal | 78717 | [78717-reversal.json](./78717-reversal.json) |
+| Reversal of Deck | 283717 | [283717-reversal-of-deck.json](./283717-reversal-of-deck.json) |
 | Reverse 1999: E lucevan le stelle | 340218 | [340218-reverse-1999-e-lucevan-le-stelle.json](./340218-reverse-1999-e-lucevan-le-stelle.json) |
 | Reverse 1999: Farewell, Rayashki | 340220 | [340220-reverse-1999-farewell-rayashki.json](./340220-reverse-1999-farewell-rayashki.json) |
 | Reverse 1999: Notes on Shuori | 340217 | [340217-reverse-1999-notes-on-shuori.json](./340217-reverse-1999-notes-on-shuori.json) |
@@ -1668,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumpus | 30940 | [30940-rumpus.json](./30940-rumpus.json) |
 | Rumu | 74584 | [74584-rumu.json](./74584-rumu.json) |
 | Run & Jump Guy | 304363 | [304363-run-and-jump-guy.json](./304363-run-and-jump-guy.json) |
+| Run and Gun | 283765 | [283765-run-and-gun.json](./283765-run-and-gun.json) |
 | Run Away With Me, Empress! | 225270 | [225270-run-away-with-me-empress.json](./225270-run-away-with-me-empress.json) |
 | Run Bird Run | 344926 | [344926-run-bird-run.json](./344926-run-bird-run.json) |
 | Run Buddy | 274211 | [274211-run-buddy.json](./274211-run-buddy.json) |
