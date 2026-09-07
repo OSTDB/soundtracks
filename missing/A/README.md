@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dark Place | 274228 | [274228-a-dark-place.json](./274228-a-dark-place.json) |
 | A Dark Place | 301587 | [301587-a-dark-place.json](./301587-a-dark-place.json) |
 | A Dark Room | 255977 | [255977-a-dark-room.json](./255977-a-dark-room.json) |
+| A Date for the Ages | 260648 | [260648-a-date-for-the-ages.json](./260648-a-date-for-the-ages.json) |
 | A Day At the Track | 243399 | [243399-a-day-at-the-track.json](./243399-a-day-at-the-track.json) |
 | A Day In the Life | 78681 | [78681-a-day-in-the-life.json](./78681-a-day-in-the-life.json) |
 | A Day in the Office | 176500 | [176500-a-day-in-the-office.json](./176500-a-day-in-the-office.json) |
