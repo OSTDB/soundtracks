@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0101: Classic Bonus Levels 3 | 325453 | [325453-0101-classic-bonus-levels-3.json](./325453-0101-classic-bonus-levels-3.json) |
 | 0101: Counter Bonus Levels 3 | 325454 | [325454-0101-counter-bonus-levels-3.json](./325454-0101-counter-bonus-levels-3.json) |
 | 0101: Pusher Bonus Levels 3 | 325455 | [325455-0101-pusher-bonus-levels-3.json](./325455-0101-pusher-bonus-levels-3.json) |
+| 027 | 278425 | [278425-027.json](./278425-027.json) |
 | 0927 | 316429 | [316429-0927.json](./316429-0927.json) |
 | 0th floor.: The Cursed Elevator To Floor Zero | 292535 | [292535-0th-floor-the-cursed-elevator-to-floor-zero.json](./292535-0th-floor-the-cursed-elevator-to-floor-zero.json) |
 | 1 Ball 1 Cup | 59435 | [59435-1-ball-1-cup.json](./59435-1-ball-1-cup.json) |
