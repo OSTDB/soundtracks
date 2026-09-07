@@ -965,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Girl | 338731 | [338731-it-girl.json](./338731-it-girl.json) |
 | It Goes Away in the End | 312920 | [312920-it-goes-away-in-the-end.json](./312920-it-goes-away-in-the-end.json) |
 | It Happened Here: Beacon of Truth - Collector's Edition | 270102 | [270102-it-happened-here-beacon-of-truth-collectors-edition.json](./270102-it-happened-here-beacon-of-truth-collectors-edition.json) |
+| It Happened Here: Streaming Lives | 266244 | [266244-it-happened-here-streaming-lives.json](./266244-it-happened-here-streaming-lives.json) |
 | It Is Coming | 335665 | [335665-it-is-coming.json](./335665-it-is-coming.json) |
 | It Knows You're Here | 185134 | [185134-it-knows-youre-here.json](./185134-it-knows-youre-here.json) |
 | It Lives | 270666 | [270666-it-lives.json](./270666-it-lives.json) |
