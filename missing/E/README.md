@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Grief | 254760 | [254760-edge-of-grief.json](./254760-edge-of-grief.json) |
 | Edge of Nowhere | 11159 | [11159-edge-of-nowhere.json](./11159-edge-of-nowhere.json) |
 | Edge of Soul: Ragnarok | 284919 | [284919-edge-of-soul-ragnarok.json](./284919-edge-of-soul-ragnarok.json) |
+| Edge of Survival | 272268 | [272268-edge-of-survival.json](./272268-edge-of-survival.json) |
 | Edge of the Abyss Awaken | 152895 | [152895-edge-of-the-abyss-awaken.json](./152895-edge-of-the-abyss-awaken.json) |
 | Edge Run | 197935 | [197935-edge-run.json](./197935-edge-run.json) |
 | Edgy Fantasy Battle Deluxe | 184632 | [184632-edgy-fantasy-battle-deluxe.json](./184632-edgy-fantasy-battle-deluxe.json) |
