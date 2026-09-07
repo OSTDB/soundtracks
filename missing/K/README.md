@@ -709,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami 88 | 40228 | [40228-konami-88.json](./40228-konami-88.json) |
 | Konami's Ping Pong | 46832 | [46832-konamis-ping-pong.json](./46832-konamis-ping-pong.json) |
 | Kong: The 8th Wonder of the World | 49397 | [49397-kong-the-8th-wonder-of-the-world.json](./49397-kong-the-8th-wonder-of-the-world.json) |
+| Konk World | 267910 | [267910-konk-world.json](./267910-konk-world.json) |
 | Konkwest | 277599 | [277599-konkwest.json](./277599-konkwest.json) |
 | Konna | 275598 | [275598-konna.json](./275598-konna.json) |
 | Kono Aozora ni Yakusoku wo | 324662 | [324662-kono-aozora-ni-yakusoku-wo.json](./324662-kono-aozora-ni-yakusoku-wo.json) |
