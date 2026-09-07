@@ -896,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Body Monstrous | 176502 | [176502-the-body-monstrous.json](./176502-the-body-monstrous.json) |
 | The Boggy Region | 260940 | [260940-the-boggy-region.json](./260940-the-boggy-region.json) |
 | The Bombing Islands | 3457 | [3457-the-bombing-islands.json](./3457-the-bombing-islands.json) |
+| The Bones of Rosalinda | 290394 | [290394-the-bones-of-rosalinda.json](./290394-the-bones-of-rosalinda.json) |
 | The Boo Croo | 381619 | [381619-the-boo-croo.json](./381619-the-boo-croo.json) |
 | The Boohbah Zone | 299478 | [299478-the-boohbah-zone.json](./299478-the-boohbah-zone.json) |
 | The Book of Blood | 392172 | [392172-the-book-of-blood.json](./392172-the-book-of-blood.json) |
@@ -1039,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew: Wild Run Edition | 166227 | [166227-the-crew-wild-run-edition.json](./166227-the-crew-wild-run-edition.json) |
 | The Criminal | 383398 | [383398-the-criminal.json](./383398-the-criminal.json) |
 | The Crimson Crown | 15532 | [15532-the-crimson-crown.json](./15532-the-crimson-crown.json) |
+| The Crimson Debt | 290408 | [290408-the-crimson-debt.json](./290408-the-crimson-debt.json) |
 | The Crisis Zone | 257117 | [257117-the-crisis-zone.json](./257117-the-crisis-zone.json) |
 | The Croaker: The Ice | 306058 | [306058-the-croaker-the-ice.json](./306058-the-croaker-the-ice.json) |
 | The Croods: Prehistoric Party and Rise of the Guardians Combo Pack | 79313 | [79313-the-croods-prehistoric-party-and-rise-of-the-guardians-combo-pack.json](./79313-the-croods-prehistoric-party-and-rise-of-the-guardians-combo-pack.json) |
@@ -1725,6 +1727,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lisa Joyful in Hopeful Christmas Special | 360020 | [360020-the-lisa-joyful-in-hopeful-christmas-special.json](./360020-the-lisa-joyful-in-hopeful-christmas-special.json) |
 | The Little Drone 2 | 172202 | [172202-the-little-drone-2.json](./172202-the-little-drone-2.json) |
 | The Little Girl Mill of a Ginko | 300383 | [300383-the-little-girl-mill-of-a-ginko.json](./300383-the-little-girl-mill-of-a-ginko.json) |
+| The Little Match Girl 2: Annus Evertens | 290400 | [290400-the-little-match-girl-2-annus-evertens.json](./290400-the-little-match-girl-2-annus-evertens.json) |
+| The Little Match Girl 4: Crown of Pearls | 290406 | [290406-the-little-match-girl-4-crown-of-pearls.json](./290406-the-little-match-girl-4-crown-of-pearls.json) |
+| The Little Match Girl against the Universal Sisterhood of Naughty Little Girls | 290407 | [290407-the-little-match-girl-against-the-universal-sisterhood-of-naughty-little-girls.json](./290407-the-little-match-girl-against-the-universal-sisterhood-of-naughty-little-girls.json) |
+| The Little Match Girl and Her Friend, the Crow | 290405 | [290405-the-little-match-girl-and-her-friend-the-crow.json](./290405-the-little-match-girl-and-her-friend-the-crow.json) |
+| The Little Match Girl, by Hans Christian Andersen | 290401 | [290401-the-little-match-girl-by-hans-christian-andersen.json](./290401-the-little-match-girl-by-hans-christian-andersen.json) |
 | The Little Mermaid: Wonder Puzzles | 314881 | [314881-the-little-mermaid-wonder-puzzles.json](./314881-the-little-mermaid-wonder-puzzles.json) |
 | The Little Mermaid's Friend | 252386 | [252386-the-little-mermaids-friend.json](./252386-the-little-mermaids-friend.json) |
 | The Little Uni | 330731 | [330731-the-little-uni.json](./330731-the-little-uni.json) |
@@ -3631,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tradewinds Caravan | 59455 | [59455-tradewinds-caravan.json](./59455-tradewinds-caravan.json) |
 | Tradewinds Legends | 59454 | [59454-tradewinds-legends.json](./59454-tradewinds-legends.json) |
 | Tradewinds Odyssey | 59456 | [59456-tradewinds-odyssey.json](./59456-tradewinds-odyssey.json) |
+| Trading Simulator | 290421 | [290421-trading-simulator.json](./290421-trading-simulator.json) |
 | Traffic | 312583 | [312583-traffic.json](./312583-traffic.json) |
 | Traffic | 319601 | [319601-traffic.json](./319601-traffic.json) |
 | Traffic Chase | 173303 | [173303-traffic-chase.json](./173303-traffic-chase.json) |
