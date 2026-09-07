@@ -1527,6 +1527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antichromatic | 112323 | [112323-antichromatic.json](./112323-antichromatic.json) |
 | Antigrav Racing Championship | 248329 | [248329-antigrav-racing-championship.json](./248329-antigrav-racing-championship.json) |
 | Antigravity Racing | 239292 | [239292-antigravity-racing.json](./239292-antigravity-racing.json) |
+| Antihue | 297461 | [297461-antihue.json](./297461-antihue.json) |
 | AntiMatcher | 403582 | [403582-antimatcher.json](./403582-antimatcher.json) |
 | Antimatter Elevator | 166759 | [166759-antimatter-elevator.json](./166759-antimatter-elevator.json) |
 | Antinomia: Final Fantasy VI | 339248 | [339248-antinomia-final-fantasy-vi.json](./339248-antinomia-final-fantasy-vi.json) |
@@ -1628,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquanore | 376451 | [376451-aquanore.json](./376451-aquanore.json) |
 | Aquapark Tycoon | 296651 | [296651-aquapark-tycoon.json](./296651-aquapark-tycoon.json) |
 | Aquaphobia | 46655 | [46655-aquaphobia.json](./46655-aquaphobia.json) |
+| Aquaria | 297464 | [297464-aquaria.json](./297464-aquaria.json) |
 | Aquaris | 109044 | [109044-aquaris.json](./109044-aquaris.json) |
 | Aquarium Designer | 159879 | [159879-aquarium-designer.json](./159879-aquarium-designer.json) |
 | Aquarium Designer: Amazonia | 253600 | [253600-aquarium-designer-amazonia.json](./253600-aquarium-designer-amazonia.json) |
