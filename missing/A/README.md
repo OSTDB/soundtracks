@@ -1633,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Ordyne | 223153 | [223153-arcade-archives-ordyne.json](./223153-arcade-archives-ordyne.json) |
 | Arcade Archives: Rave Racer | 392771 | [392771-arcade-archives-rave-racer.json](./392771-arcade-archives-rave-racer.json) |
 | Arcade Archives: Saint Dragon | 129766 | [129766-arcade-archives-saint-dragon.json](./129766-arcade-archives-saint-dragon.json) |
+| Arcade Archives: The Final Round | 312019 | [312019-arcade-archives-the-final-round.json](./312019-arcade-archives-the-final-round.json) |
 | Arcade Archives: The Ninja Kids | 314869 | [314869-arcade-archives-the-ninja-kids.json](./314869-arcade-archives-the-ninja-kids.json) |
 | Arcade Archives: Vigilante | 121716 | [121716-arcade-archives-vigilante.json](./121716-arcade-archives-vigilante.json) |
 | Arcade Archives: vs. Battle City | 317219 | [317219-arcade-archives-vs-battle-city.json](./317219-arcade-archives-vs-battle-city.json) |
