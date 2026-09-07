@@ -817,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outhouse | 342063 | [342063-outhouse.json](./342063-outhouse.json) |
 | Outland Odyssey | 214172 | [214172-outland-odyssey.json](./214172-outland-odyssey.json) |
 | Outland Rapture | 169475 | [169475-outland-rapture.json](./169475-outland-rapture.json) |
+| Outlander: Fantastic Princess | 261798 | [261798-outlander-fantastic-princess.json](./261798-outlander-fantastic-princess.json) |
 | Outlands Safehouse | 405475 | [405475-outlands-safehouse.json](./405475-outlands-safehouse.json) |
 | Outlast: Journey of a Gladiator | 157186 | [157186-outlast-journey-of-a-gladiator.json](./157186-outlast-journey-of-a-gladiator.json) |
 | Outlaw | 123065 | [123065-outlaw.json](./123065-outlaw.json) |
