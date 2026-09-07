@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Talent | 163454 | [163454-battle-talent.json](./163454-battle-talent.json) |
 | Battle Tanks: Arena | 240476 | [240476-battle-tanks-arena.json](./240476-battle-tanks-arena.json) |
 | Battle Tap Tap | 233239 | [233239-battle-tap-tap.json](./233239-battle-tap-tap.json) |
+| Battle Teams 2: Wishlist Pack | 310384 | [310384-battle-teams-2-wishlist-pack.json](./310384-battle-teams-2-wishlist-pack.json) |
 | Battle Thunder Front | 220354 | [220354-battle-thunder-front.json](./220354-battle-thunder-front.json) |
 | Battle Trendaria | 75138 | [75138-battle-trendaria.json](./75138-battle-trendaria.json) |
 | Battle Trendaria | 75191 | [75191-battle-trendaria.json](./75191-battle-trendaria.json) |
@@ -1814,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Office Boss | 239303 | [239303-box-office-boss.json](./239303-box-office-boss.json) |
 | Box Runner! | 209671 | [209671-box-runner.json](./209671-box-runner.json) |
 | Box Rush | 191243 | [191243-box-rush.json](./191243-box-rush.json) |
+| Box To The Beat VR: Electro Swing Pack | 310399 | [310399-box-to-the-beat-vr-electro-swing-pack.json](./310399-box-to-the-beat-vr-electro-swing-pack.json) |
 | Box To The Beat VR: Shadow Dreams Pack | 263202 | [263202-box-to-the-beat-vr-shadow-dreams-pack.json](./263202-box-to-the-beat-vr-shadow-dreams-pack.json) |
 | Box Zombies | 311783 | [311783-box-zombies.json](./311783-box-zombies.json) |
 | Boxcars | 318425 | [318425-boxcars.json](./318425-boxcars.json) |
