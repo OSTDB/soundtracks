@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Last Xmas | 280186 | [280186-your-last-xmas.json](./280186-your-last-xmas.json) |
 | Your Majesty's Arrival | 339132 | [339132-your-majestys-arrival.json](./339132-your-majestys-arrival.json) |
 | Your Mom | 385608 | [385608-your-mom.json](./385608-your-mom.json) |
+| Your Shots Count | 277815 | [277815-your-shots-count.json](./277815-your-shots-count.json) |
 | Your Sister's Drown'd, Laertes | 135302 | [135302-your-sisters-drownd-laertes.json](./135302-your-sisters-drownd-laertes.json) |
 | Your Time Is Mine | 82945 | [82945-your-time-is-mine.json](./82945-your-time-is-mine.json) |
 | Your Train 2 | 267085 | [267085-your-train-2.json](./267085-your-train-2.json) |
