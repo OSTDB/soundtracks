@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfpack | 100177 | [100177-wolfpack.json](./100177-wolfpack.json) |
 | Wolfriders A Sniper Adventure | 159859 | [159859-wolfriders-a-sniper-adventure.json](./159859-wolfriders-a-sniper-adventure.json) |
 | Wolverine: Adamantium Redux | 219275 | [219275-wolverine-adamantium-redux.json](./219275-wolverine-adamantium-redux.json) |
+| Wolverine: Feral Instinct | 272814 | [272814-wolverine-feral-instinct.json](./272814-wolverine-feral-instinct.json) |
 | Wolves in Sheep's Clothing | 292317 | [292317-wolves-in-sheeps-clothing.json](./292317-wolves-in-sheeps-clothing.json) |
 | Wolvesville | 262964 | [262964-wolvesville.json](./262964-wolvesville.json) |
 | Women's Murder Club: Little Black Lies | 135250 | [135250-womens-murder-club-little-black-lies.json](./135250-womens-murder-club-little-black-lies.json) |
