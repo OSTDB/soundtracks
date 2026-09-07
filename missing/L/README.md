@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loading Zone | 193469 | [193469-loading-zone.json](./193469-loading-zone.json) |
 | Loafing Town | 369064 | [369064-loafing-town.json](./369064-loafing-town.json) |
 | Lobby Cam by Bryn Oh | 235468 | [235468-lobby-cam-by-bryn-oh.json](./235468-lobby-cam-by-bryn-oh.json) |
+| Lober Lobe | 311475 | [311475-lober-lobe.json](./311475-lober-lobe.json) |
 | Lobo | 86130 | [86130-lobo.json](./86130-lobo.json) |
 | Lobotrypo | 332254 | [332254-lobotrypo.json](./332254-lobotrypo.json) |
 | Loca-Love: My Pure Priestess | 146302 | [146302-loca-love-my-pure-priestess.json](./146302-loca-love-my-pure-priestess.json) |
