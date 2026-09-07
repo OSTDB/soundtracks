@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hako | 22468 | [22468-hako.json](./22468-hako.json) |
 | HakoBoy! Hakozume Box | 81428 | [81428-hakoboy-hakozume-box.json](./81428-hakoboy-hakozume-box.json) |
 | Hakoniwa Explorer Plus | 101606 | [101606-hakoniwa-explorer-plus.json](./101606-hakoniwa-explorer-plus.json) |
+| Hakuga | 280179 | [280179-hakuga.json](./280179-hakuga.json) |
 | Hakuoki SSL: Sweet School Life for Nintendo Switch | 243921 | [243921-hakuoki-ssl-sweet-school-life-for-nintendo-switch.json](./243921-hakuoki-ssl-sweet-school-life-for-nintendo-switch.json) |
 | Hakuoki: Demon of the Fleeting Blossom | 17272 | [17272-hakuoki-demon-of-the-fleeting-blossom.json](./17272-hakuoki-demon-of-the-fleeting-blossom.json) |
 | Hakuoki: Kyoto Winds - Deluxe Edition | 243920 | [243920-hakuoki-kyoto-winds-deluxe-edition.json](./243920-hakuoki-kyoto-winds-deluxe-edition.json) |
@@ -1156,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Umbrella: Dondera no Mubou!! | 38386 | [38386-holy-umbrella-dondera-no-mubou.json](./38386-holy-umbrella-dondera-no-mubou.json) |
 | Homaysa | 224223 | [224223-homaysa.json](./224223-homaysa.json) |
 | Home | 121014 | [121014-home.json](./121014-home.json) |
+| Home | 280198 | [280198-home.json](./280198-home.json) |
 | Home | 331351 | [331351-home.json](./331351-home.json) |
 | Home | 372448 | [372448-home.json](./372448-home.json) |
 | Home A Drone | 122421 | [122421-home-a-drone.json](./122421-home-a-drone.json) |
