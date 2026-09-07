@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetroSim: The Subway Simulator | 277598 | [277598-metrosim-the-subway-simulator.json](./277598-metrosim-the-subway-simulator.json) |
 | Meu Primeiro Laptop da Xuxa | 255339 | [255339-meu-primeiro-laptop-da-xuxa.json](./255339-meu-primeiro-laptop-da-xuxa.json) |
 | Mew's Under The Truck | 276486 | [276486-mews-under-the-truck.json](./276486-mews-under-the-truck.json) |
+| Mewing Simulator | 312024 | [312024-mewing-simulator.json](./312024-mewing-simulator.json) |
 | Mexiball | 208009 | [208009-mexiball.json](./208009-mexiball.json) |
 | Mexico 1921: A Deep Slumber | 211921 | [211921-mexico-1921-a-deep-slumber.json](./211921-mexico-1921-a-deep-slumber.json) |
 | Mezase! Kanji Ou | 43962 | [43962-mezase-kanji-ou.json](./43962-mezase-kanji-ou.json) |
@@ -1472,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindshow | 75145 | [75145-mindshow.json](./75145-mindshow.json) |
 | Mindtrap | 91406 | [91406-mindtrap.json](./91406-mindtrap.json) |
 | Mindwheel | 25778 | [25778-mindwheel.json](./25778-mindwheel.json) |
+| Mine | 311988 | [311988-mine.json](./311988-mine.json) |
 | Mine & Ship Bundle: Gold Mining & Ship Graveyard Simulator 2 | 340950 | [340950-mine-and-ship-bundle-gold-mining-and-ship-graveyard-simulator-2.json](./340950-mine-and-ship-bundle-gold-mining-and-ship-graveyard-simulator-2.json) |
 | Mine Blast | 96758 | [96758-mine-blast.json](./96758-mine-blast.json) |
 | Mine Click | 358288 | [358288-mine-click.json](./358288-mine-click.json) |
@@ -2142,6 +2144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Cultivation Biography | 368504 | [368504-mortal-cultivation-biography.json](./368504-mortal-cultivation-biography.json) |
 | Mortal Fighter | 251837 | [251837-mortal-fighter.json](./251837-mortal-fighter.json) |
 | Mortal Glory | 119763 | [119763-mortal-glory.json](./119763-mortal-glory.json) |
+| Mortal Glory 2: Reign of Tyrants | 311996 | [311996-mortal-glory-2-reign-of-tyrants.json](./311996-mortal-glory-2-reign-of-tyrants.json) |
 | Mortal Hire | 295006 | [295006-mortal-hire.json](./295006-mortal-hire.json) |
 | Mortal Kombat | 242239 | [242239-mortal-kombat.json](./242239-mortal-kombat.json) |
 | Mortal Kombat 1: Conan the Barbarian | 312343 | [312343-mortal-kombat-1-conan-the-barbarian.json](./312343-mortal-kombat-1-conan-the-barbarian.json) |
