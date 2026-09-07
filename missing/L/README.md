@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of the Lost: Crystal Adventure | 68042 | [68042-land-of-the-lost-crystal-adventure.json](./68042-land-of-the-lost-crystal-adventure.json) |
 | Land of Viewers | 204095 | [204095-land-of-viewers.json](./204095-land-of-viewers.json) |
 | Land of War: The Beginning | 122376 | [122376-land-of-war-the-beginning.json](./122376-land-of-war-the-beginning.json) |
+| Land of Zombies | 302387 | [302387-land-of-zombies.json](./302387-land-of-zombies.json) |
 | Landborne | 250036 | [250036-landborne.json](./250036-landborne.json) |
 | Landfall | 56511 | [56511-landfall.json](./56511-landfall.json) |
 | Landing Hero: Haneda x 787 | 199108 | [199108-landing-hero-haneda-x-787.json](./199108-landing-hero-haneda-x-787.json) |
@@ -140,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Larry's Lab | 373527 | [373527-larrys-lab.json](./373527-larrys-lab.json) |
 | LarryDS: Chapter 1 | 313108 | [313108-larryds-chapter-1.json](./313108-larryds-chapter-1.json) |
 | Lars the Wanderer | 145652 | [145652-lars-the-wanderer.json](./145652-lars-the-wanderer.json) |
+| Laruaville 15 | 302355 | [302355-laruaville-15.json](./302355-laruaville-15.json) |
 | Laruaville 17 | 377062 | [377062-laruaville-17.json](./377062-laruaville-17.json) |
 | Las Vegas | 41423 | [41423-las-vegas.json](./41423-las-vegas.json) |
 | Las Vegas Gambling | 47291 | [47291-las-vegas-gambling.json](./47291-las-vegas-gambling.json) |
@@ -1129,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love My Pegasus | 239871 | [239871-love-my-pegasus.json](./239871-love-my-pegasus.json) |
 | Love on Paper | 158220 | [158220-love-on-paper.json](./158220-love-on-paper.json) |
 | Love or Loved | 83592 | [83592-love-or-loved.json](./83592-love-or-loved.json) |
+| Love Red | 302371 | [302371-love-red.json](./302371-love-red.json) |
 | Love Rhythm | 126420 | [126420-love-rhythm.json](./126420-love-rhythm.json) |
 | Love Stitch | 412297 | [412297-love-stitch.json](./412297-love-stitch.json) |
 | Love Stories: Sex and the Furry Titty | 165031 | [165031-love-stories-sex-and-the-furry-titty.json](./165031-love-stories-sex-and-the-furry-titty.json) |
