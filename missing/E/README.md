@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egghead Gumpty | 210852 | [210852-egghead-gumpty.json](./210852-egghead-gumpty.json) |
 | Eggies | 233770 | [233770-eggies.json](./233770-eggies.json) |
 | Eggman | 309664 | [309664-eggman.json](./309664-eggman.json) |
+| Eggman no Kazuate Panic! | 261249 | [261249-eggman-no-kazuate-panic.json](./261249-eggman-no-kazuate-panic.json) |
 | Eggplant | 338180 | [338180-eggplant.json](./338180-eggplant.json) |
 | Eggrolls Shoot | 379881 | [379881-eggrolls-shoot.json](./379881-eggrolls-shoot.json) |
 | Eggs of Steel: Charlie's Eggcellent Adventure | 68023 | [68023-eggs-of-steel-charlies-eggcellent-adventure.json](./68023-eggs-of-steel-charlies-eggcellent-adventure.json) |
@@ -599,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigmatis: The Ghosts of Maple Creek | 17137 | [17137-enigmatis-the-ghosts-of-maple-creek.json](./17137-enigmatis-the-ghosts-of-maple-creek.json) |
 | Enigmi.net | 327205 | [327205-enigmi-net.json](./327205-enigmi-net.json) |
 | EnigmOn | 174328 | [174328-enigmon.json](./174328-enigmon.json) |
+| Enigmoon | 261257 | [261257-enigmoon.json](./261257-enigmoon.json) |
 | Enjoy Amoy & Sisters | 404874 | [404874-enjoy-amoy-and-sisters.json](./404874-enjoy-amoy-and-sisters.json) |
 | EnjoyUp's 3 in 1 | 390511 | [390511-enjoyups-3-in-1.json](./390511-enjoyups-3-in-1.json) |
 | Enkan no Memo-ria: Kakera Tomoshi | 135858 | [135858-enkan-no-memo-ria-kakera-tomoshi.json](./135858-enkan-no-memo-ria-kakera-tomoshi.json) |
