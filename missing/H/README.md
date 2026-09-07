@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heads Will Roll: Reforged - Threads of Destiny | 327860 | [327860-heads-will-roll-reforged-threads-of-destiny.json](./327860-heads-will-roll-reforged-threads-of-destiny.json) |
 | Heads-Up | 231634 | [231634-heads-up.json](./231634-heads-up.json) |
 | Headspun: Dazed Edition | 134664 | [134664-headspun-dazed-edition.json](./134664-headspun-dazed-edition.json) |
+| Headwaters | 288768 | [288768-headwaters.json](./288768-headwaters.json) |
 | Heal Plz | 121741 | [121741-heal-plz.json](./121741-heal-plz.json) |
 | Heal: Pocket Edition | 208010 | [208010-heal-pocket-edition.json](./208010-heal-pocket-edition.json) |
 | Healthy Weapon | 112332 | [112332-healthy-weapon.json](./112332-healthy-weapon.json) |
