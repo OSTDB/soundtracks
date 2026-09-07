@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game For Anna | 154004 | [154004-game-for-anna.json](./154004-game-for-anna.json) |
 | Game for Peace | 196849 | [196849-game-for-peace.json](./196849-game-for-peace.json) |
 | Game ga Ippai Kikansha Thomas | 327581 | [327581-game-ga-ippai-kikansha-thomas.json](./327581-game-ga-ippai-kikansha-thomas.json) |
+| Game Grumps: The Video Game | 283768 | [283768-game-grumps-the-video-game.json](./283768-game-grumps-the-video-game.json) |
 | Game Hits! 4 Games in 1 | 209593 | [209593-game-hits-4-games-in-1.json](./209593-game-hits-4-games-in-1.json) |
 | Game Jam Jam Game | 128607 | [128607-game-jam-jam-game.json](./128607-game-jam-jam-game.json) |
 | Game of Clowns | 27806 | [27806-game-of-clowns.json](./27806-game-of-clowns.json) |
@@ -865,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gomiboru | 333017 | [333017-gomiboru.json](./333017-gomiboru.json) |
 | Gomo | 7552 | [7552-gomo.json](./7552-gomo.json) |
 | Gonner2: The Full Ikk Edition | 154552 | [154552-gonner2-the-full-ikk-edition.json](./154552-gonner2-the-full-ikk-edition.json) |
+| Goo Fighter | 283725 | [283725-goo-fighter.json](./283725-goo-fighter.json) |
 | Goo Go | 304380 | [304380-goo-go.json](./304380-goo-go.json) |
 | Goo Saga | 57709 | [57709-goo-saga.json](./57709-goo-saga.json) |
 | Goo Saga: HD Edition | 31941 | [31941-goo-saga-hd-edition.json](./31941-goo-saga-hd-edition.json) |
@@ -1196,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: The White Lady - Collector's Edition | 250594 | [250594-grim-tales-the-white-lady-collectors-edition.json](./250594-grim-tales-the-white-lady-collectors-edition.json) |
 | Grimdoria | 278135 | [278135-grimdoria.json](./278135-grimdoria.json) |
 | Grime: Tinge of Terror | 252363 | [252363-grime-tinge-of-terror.json](./252363-grime-tinge-of-terror.json) |
+| GrimGrimoire OnceMore: Limited Edition | 283698 | [283698-grimgrimoire-oncemore-limited-edition.json](./283698-grimgrimoire-oncemore-limited-edition.json) |
 | Grimlight | 200727 | [200727-grimlight.json](./200727-grimlight.json) |
 | Grimm & Tonic | 109751 | [109751-grimm-and-tonic.json](./109751-grimm-and-tonic.json) |
 | Grimm: Dark Legacy | 25823 | [25823-grimm-dark-legacy.json](./25823-grimm-dark-legacy.json) |
