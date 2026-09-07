@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate ADOM: Caverns of Chaos - Save the World Edition | 186876 | [186876-ultimate-adom-caverns-of-chaos-save-the-world-edition.json](./186876-ultimate-adom-caverns-of-chaos-save-the-world-edition.json) |
 | Ultimate Arena | 33667 | [33667-ultimate-arena.json](./33667-ultimate-arena.json) |
 | Ultimate Arena of Fate | 273090 | [273090-ultimate-arena-of-fate.json](./273090-ultimate-arena-of-fate.json) |
+| Ultimate Armored Turbodrifter: Saga Chapter 2 - Tank Authority Wolfram | 290950 | [290950-ultimate-armored-turbodrifter-saga-chapter-2-tank-authority-wolfram.json](./290950-ultimate-armored-turbodrifter-saga-chapter-2-tank-authority-wolfram.json) |
 | Ultimate Battle Kingdom | 390507 | [390507-ultimate-battle-kingdom.json](./390507-ultimate-battle-kingdom.json) |
 | Ultimate Battle Royale PvP | 90675 | [90675-ultimate-battle-royale-pvp.json](./90675-ultimate-battle-royale-pvp.json) |
 | Ultimate Blackball | 243383 | [243383-ultimate-blackball.json](./243383-ultimate-blackball.json) |
