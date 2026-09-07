@@ -2284,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DT: Lords of Genomes | 65523 | [65523-dt-lords-of-genomes.json](./65523-dt-lords-of-genomes.json) |
 | DTXPlayer | 130948 | [130948-dtxplayer.json](./130948-dtxplayer.json) |
 | Dual Bus Simulator | 269028 | [269028-dual-bus-simulator.json](./269028-dual-bus-simulator.json) |
+| Dual Chroma: Haereticus | 259563 | [259563-dual-chroma-haereticus.json](./259563-dual-chroma-haereticus.json) |
 | Dual Eclipse | 309848 | [309848-dual-eclipse.json](./309848-dual-eclipse.json) |
 | Dual Force | 413669 | [413669-dual-force.json](./413669-dual-force.json) |
 | Dual Heroes | 3477 | [3477-dual-heroes.json](./3477-dual-heroes.json) |
