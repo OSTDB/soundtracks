@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urbance Clans Card Battle! | 107879 | [107879-urbance-clans-card-battle.json](./107879-urbance-clans-card-battle.json) |
 | Urgent Message | 343232 | [343232-urgent-message.json](./343232-urgent-message.json) |
 | URLIRL | 394837 | [394837-urlirl.json](./394837-urlirl.json) |
+| Ursine Science | 260162 | [260162-ursine-science.json](./260162-ursine-science.json) |
 | Urtuk: The Desolation | 98073 | [98073-urtuk-the-desolation.json](./98073-urtuk-the-desolation.json) |
 | Urusei Yatsura: Endless Summer | 72697 | [72697-urusei-yatsura-endless-summer.json](./72697-urusei-yatsura-endless-summer.json) |
 | Us & Them | 17118 | [17118-us-and-them.json](./17118-us-and-them.json) |
