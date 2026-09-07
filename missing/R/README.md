@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Razed Earth | 192423 | [192423-razed-earth.json](./192423-razed-earth.json) |
 | RazePact | 356644 | [356644-razepact.json](./356644-razepact.json) |
 | RC Airplane Challenge | 158711 | [158711-rc-airplane-challenge.json](./158711-rc-airplane-challenge.json) |
+| Rc Plane 2 | 260654 | [260654-rc-plane-2.json](./260654-rc-plane-2.json) |
 | RC SIM 2022 | 369554 | [369554-rc-sim-2022.json](./369554-rc-sim-2022.json) |
 | RC Toy Machines | 100173 | [100173-rc-toy-machines.json](./100173-rc-toy-machines.json) |
 | RDP-Files_ | 265673 | [265673-rdp-files.json](./265673-rdp-files.json) |
