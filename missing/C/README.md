@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celldom Classic | 404823 | [404823-celldom-classic.json](./404823-celldom-classic.json) |
 | Cellings | 190202 | [190202-cellings.json](./190202-cellings.json) |
 | Cellitaire | 338713 | [338713-cellitaire.json](./338713-cellitaire.json) |
+| Cellular Survival | 296346 | [296346-cellular-survival.json](./296346-cellular-survival.json) |
 | Celted | 176478 | [176478-celted.json](./176478-celted.json) |
 | Celtic Carnage | 58821 | [58821-celtic-carnage.json](./58821-celtic-carnage.json) |
 | Celtic Football Coach | 138212 | [138212-celtic-football-coach.json](./138212-celtic-football-coach.json) |
@@ -708,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Control | 325843 | [325843-chaos-control.json](./325843-chaos-control.json) |
 | Chaos Crafters | 265399 | [265399-chaos-crafters.json](./265399-chaos-crafters.json) |
 | Chaos Entropy | 320559 | [320559-chaos-entropy.json](./320559-chaos-entropy.json) |
+| Chaos Islands | 296395 | [296395-chaos-islands.json](./296395-chaos-islands.json) |
 | Chaos Journey | 295021 | [295021-chaos-journey.json](./295021-chaos-journey.json) |
 | Chaos Machina | 331323 | [331323-chaos-machina.json](./331323-chaos-machina.json) |
 | Chaos Maker | 113033 | [113033-chaos-maker.json](./113033-chaos-maker.json) |
@@ -1283,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudpunk | 111837 | [111837-cloudpunk.json](./111837-cloudpunk.json) |
 | Clouds of Farfisa | 182542 | [182542-clouds-of-farfisa.json](./182542-clouds-of-farfisa.json) |
 | Cloudsea | 196871 | [196871-cloudsea.json](./196871-cloudsea.json) |
+| CloudStudy | 296358 | [296358-cloudstudy.json](./296358-cloudstudy.json) |
 | Cloudy & Stormy: Pawtastic Adventure | 333911 | [333911-cloudy-and-stormy-pawtastic-adventure.json](./333911-cloudy-and-stormy-pawtastic-adventure.json) |
 | Clover Heart's: Looking for Happiness | 69282 | [69282-clover-hearts-looking-for-happiness.json](./69282-clover-hearts-looking-for-happiness.json) |
 | Clover's Quadrants | 392120 | [392120-clovers-quadrants.json](./392120-clovers-quadrants.json) |
@@ -1399,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Steel | 373518 | [373518-cold-steel.json](./373518-cold-steel.json) |
 | Cold Sweat | 323508 | [323508-cold-sweat.json](./323508-cold-sweat.json) |
 | Cold Verdict 3 | 371862 | [371862-cold-verdict-3.json](./371862-cold-verdict-3.json) |
+| Cold VR | 296392 | [296392-cold-vr.json](./296392-cold-vr.json) |
 | Cold War Warfare | 73805 | [73805-cold-war-warfare.json](./73805-cold-war-warfare.json) |
 | Cold War: Frontline | 339101 | [339101-cold-war-frontline.json](./339101-cold-war-frontline.json) |
 | Cold Wires | 127315 | [127315-cold-wires.json](./127315-cold-wires.json) |
@@ -2128,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Thread of Fate | 318769 | [318769-crimson-thread-of-fate.json](./318769-crimson-thread-of-fate.json) |
 | Crimsonland | 253323 | [253323-crimsonland.json](./253323-crimsonland.json) |
 | Crimzon Clover | 137065 | [137065-crimzon-clover.json](./137065-crimzon-clover.json) |
+| Cringegolf | 296386 | [296386-cringegolf.json](./296386-cringegolf.json) |
 | Crisis Action | 86093 | [86093-crisis-action.json](./86093-crisis-action.json) |
 | Crisis Brigade 2: Reloaded | 223144 | [223144-crisis-brigade-2-reloaded.json](./223144-crisis-brigade-2-reloaded.json) |
 | Crisis in the Aegean Sea | 127320 | [127320-crisis-in-the-aegean-sea.json](./127320-crisis-in-the-aegean-sea.json) |
@@ -2529,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybersphere | 228696 | [228696-cybersphere.json](./228696-cybersphere.json) |
 | CyberStorm 2: Corporate Wars | 11028 | [11028-cyberstorm-2-corporate-wars.json](./11028-cyberstorm-2-corporate-wars.json) |
 | CyberTaxi | 140602 | [140602-cybertaxi.json](./140602-cybertaxi.json) |
+| CyberTaxi: Lunatic Nights | 296388 | [296388-cybertaxi-lunatic-nights.json](./296388-cybertaxi-lunatic-nights.json) |
 | CyberThreat | 31603 | [31603-cyberthreat.json](./31603-cyberthreat.json) |
 | CyberWave Survivor | 254173 | [254173-cyberwave-survivor.json](./254173-cyberwave-survivor.json) |
 | Cyberwinter | 158194 | [158194-cyberwinter.json](./158194-cyberwinter.json) |
