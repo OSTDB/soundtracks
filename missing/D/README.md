@@ -1730,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula Hakushaku | 66111 | [66111-dracula-hakushaku.json](./66111-dracula-hakushaku.json) |
 | Dracula Solitaire | 386152 | [386152-dracula-solitaire.json](./386152-dracula-solitaire.json) |
 | Dracula Twins | 19594 | [19594-dracula-twins.json](./19594-dracula-twins.json) |
+| Dracula vs. Monsters | 298584 | [298584-dracula-vs-monsters.json](./298584-dracula-vs-monsters.json) |
 | Dracula vs. The Ninja On the Moon | 144306 | [144306-dracula-vs-the-ninja-on-the-moon.json](./144306-dracula-vs-the-ninja-on-the-moon.json) |
 | Dracula: Crazy Vampire | 49941 | [49941-dracula-crazy-vampire.json](./49941-dracula-crazy-vampire.json) |
 | Dracula: Origin 2 | 95433 | [95433-dracula-origin-2.json](./95433-dracula-origin-2.json) |
@@ -1815,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Knight | 31918 | [31918-dragon-knight.json](./31918-dragon-knight.json) |
 | Dragon Knight | 39628 | [39628-dragon-knight.json](./39628-dragon-knight.json) |
 | Dragon Knight 4 | 45959 | [45959-dragon-knight-4.json](./45959-dragon-knight-4.json) |
+| Dragon Lair | 298548 | [298548-dragon-lair.json](./298548-dragon-lair.json) |
 | Dragon Marked for Death: Advanced Attackers | 147998 | [147998-dragon-marked-for-death-advanced-attackers.json](./147998-dragon-marked-for-death-advanced-attackers.json) |
 | Dragon Master | 209127 | [209127-dragon-master.json](./209127-dragon-master.json) |
 | Dragon Merge Wind | 228112 | [228112-dragon-merge-wind.json](./228112-dragon-merge-wind.json) |
@@ -1909,6 +1911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Puzzle | 46479 | [46479-draw-puzzle.json](./46479-draw-puzzle.json) |
 | Draw Rider Plus | 175394 | [175394-draw-rider-plus.json](./175394-draw-rider-plus.json) |
 | Draw_Love | 43513 | [43513-draw-love.json](./43513-draw-love.json) |
+| Drawing Carnival: Horror Edition | 298570 | [298570-drawing-carnival-horror-edition.json](./298570-drawing-carnival-horror-edition.json) |
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
 | Drawize | 131579 | [131579-drawize.json](./131579-drawize.json) |
 | Drawquarium | 374055 | [374055-drawquarium.json](./374055-drawquarium.json) |
