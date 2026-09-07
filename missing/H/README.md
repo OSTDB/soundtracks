@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Aquarium | 250638 | [250638-happy-aquarium.json](./250638-happy-aquarium.json) |
 | Happy Bird | 312034 | [312034-happy-bird.json](./312034-happy-bird.json) |
 | Happy Cat Tavern | 209603 | [209603-happy-cat-tavern.json](./209603-happy-cat-tavern.json) |
+| Happy Color Links | 277834 | [277834-happy-color-links.json](./277834-happy-color-links.json) |
 | Happy Feet | 3940 | [3940-happy-feet.json](./3940-happy-feet.json) |
 | Happy Fox | 89280 | [89280-happy-fox.json](./89280-happy-fox.json) |
 | Happy Furry Restaurant | 340411 | [340411-happy-furry-restaurant.json](./340411-happy-furry-restaurant.json) |
@@ -542,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heiwa Pachinko World 64 | 3510 | [3510-heiwa-pachinko-world-64.json](./3510-heiwa-pachinko-world-64.json) |
 | Heldric: The Legend of the Shoemaker | 17233 | [17233-heldric-the-legend-of-the-shoemaker.json](./17233-heldric-the-legend-of-the-shoemaker.json) |
 | Helenenkapelle VR | 296900 | [296900-helenenkapelle-vr.json](./296900-helenenkapelle-vr.json) |
+| Heli Mission | 277865 | [277865-heli-mission.json](./277865-heli-mission.json) |
 | Heli War | 243934 | [243934-heli-war.json](./243934-heli-war.json) |
 | Heli-Cats | 238758 | [238758-heli-cats.json](./238758-heli-cats.json) |
 | Helichapter X | 287110 | [287110-helichapter-x.json](./287110-helichapter-x.json) |
@@ -943,8 +945,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Series 1 | 258194 | [258194-hidden-series-1.json](./258194-hidden-series-1.json) |
 | Hidden Storehouse Top-Down 3D | 320548 | [320548-hidden-storehouse-top-down-3d.json](./320548-hidden-storehouse-top-down-3d.json) |
 | Hidden Through Time | 128909 | [128909-hidden-through-time.json](./128909-hidden-through-time.json) |
+| Hidden Western Top-Down 3D | 277827 | [277827-hidden-western-top-down-3d.json](./277827-hidden-western-top-down-3d.json) |
 | Hidden Words | 170534 | [170534-hidden-words.json](./170534-hidden-words.json) |
 | Hidden Words and Pictures Game | 108490 | [108490-hidden-words-and-pictures-game.json](./108490-hidden-words-and-pictures-game.json) |
+| Hidden World 10 Top-Down 3D | 277826 | [277826-hidden-world-10-top-down-3d.json](./277826-hidden-world-10-top-down-3d.json) |
 | Hidden World of Art 2 | 126667 | [126667-hidden-world-of-art-2.json](./126667-hidden-world-of-art-2.json) |
 | Hidden World Top-Down 3D | 192466 | [192466-hidden-world-top-down-3d.json](./192466-hidden-world-top-down-3d.json) |
 | Hiddens Awakening | 212998 | [212998-hiddens-awakening.json](./212998-hiddens-awakening.json) |
@@ -1362,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Vacation | 173835 | [173835-hot-vacation.json](./173835-hot-vacation.json) |
 | Hot Wave | 40780 | [40780-hot-wave.json](./40780-hot-wave.json) |
 | Hot Wheels Unleashed 2: Mercedes-Benz Pack | 312012 | [312012-hot-wheels-unleashed-2-mercedes-benz-pack.json](./312012-hot-wheels-unleashed-2-mercedes-benz-pack.json) |
+| Hot Wheels Unleashed 2: Turbocharged - Manga Free Pack | 277831 | [277831-hot-wheels-unleashed-2-turbocharged-manga-free-pack.json](./277831-hot-wheels-unleashed-2-turbocharged-manga-free-pack.json) |
 | Hot Wheels Unleashed: Corvette Stingray Convertible 2014 | 195769 | [195769-hot-wheels-unleashed-corvette-stingray-convertible-2014.json](./195769-hot-wheels-unleashed-corvette-stingray-convertible-2014.json) |
 | Hot Wheels Unleashed: DC Super Heroes Racing Season | 195766 | [195766-hot-wheels-unleashed-dc-super-heroes-racing-season.json](./195766-hot-wheels-unleashed-dc-super-heroes-racing-season.json) |
 | Hot Wheels Unleashed: McLaren Senna | 195768 | [195768-hot-wheels-unleashed-mclaren-senna.json](./195768-hot-wheels-unleashed-mclaren-senna.json) |
@@ -1474,6 +1479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HPL: Nyarlathotep Rising | 258223 | [258223-hpl-nyarlathotep-rising.json](./258223-hpl-nyarlathotep-rising.json) |
 | HQ Trivia | 214770 | [214770-hq-trivia.json](./214770-hq-trivia.json) |
 | HR Simulator | 322971 | [322971-hr-simulator.json](./322971-hr-simulator.json) |
+| Hrumka | 277825 | [277825-hrumka.json](./277825-hrumka.json) |
 | HS Galaxy | 147450 | [147450-hs-galaxy.json](./147450-hs-galaxy.json) |
 | HSNU Academy 79th Anniversary | 396207 | [396207-hsnu-academy-79th-anniversary.json](./396207-hsnu-academy-79th-anniversary.json) |
 | HSX: Hypersonic Xtreme | 43656 | [43656-hsx-hypersonic-xtreme.json](./43656-hsx-hypersonic-xtreme.json) |
@@ -1565,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter's Soul | 122435 | [122435-hunters-soul.json](./122435-hunters-soul.json) |
 | Hunters All Star Battle | 137657 | [137657-hunters-all-star-battle.json](./137657-hunters-all-star-battle.json) |
 | Hunters Gate | 110327 | [110327-hunters-gate.json](./110327-hunters-gate.json) |
+| HunterX: Code Name T | 277836 | [277836-hunterx-code-name-t.json](./277836-hunterx-code-name-t.json) |
 | Huntfeast | 147431 | [147431-huntfeast.json](./147431-huntfeast.json) |
 | Hunting Moon vol.2 | 165022 | [165022-hunting-moon-vol-2.json](./165022-hunting-moon-vol-2.json) |
 | Hunting Season 3D | 220830 | [220830-hunting-season-3d.json](./220830-hunting-season-3d.json) |
