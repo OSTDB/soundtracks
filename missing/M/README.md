@@ -1729,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Dungeon | 326041 | [326041-mini-dungeon.json](./326041-mini-dungeon.json) |
 | Mini Football | 322563 | [322563-mini-football.json](./322563-mini-football.json) |
 | Mini Football Cup | 334101 | [334101-mini-football-cup.json](./334101-mini-football-cup.json) |
+| Mini Garden Cafe | 260153 | [260153-mini-garden-cafe.json](./260153-mini-garden-cafe.json) |
 | Mini Golf 3D | 117753 | [117753-mini-golf-3d.json](./117753-mini-golf-3d.json) |
 | Mini Golf Championship | 204705 | [204705-mini-golf-championship.json](./204705-mini-golf-championship.json) |
 | Mini Golf Halloween | 233754 | [233754-mini-golf-halloween.json](./233754-mini-golf-halloween.json) |
@@ -2097,6 +2098,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monari Station | 395567 | [395567-monari-station.json](./395567-monari-station.json) |
 | Monark: Limited Edition Box | 152340 | [152340-monark-limited-edition-box.json](./152340-monark-limited-edition-box.json) |
 | Monato Esprit | 68047 | [68047-monato-esprit.json](./68047-monato-esprit.json) |
+| Mondai no Aru Share House | 260117 | [260117-mondai-no-aru-share-house.json](./260117-mondai-no-aru-share-house.json) |
+| Monday Meltdown | 260159 | [260159-monday-meltdown.json](./260159-monday-meltdown.json) |
 | Monday Meow | 388762 | [388762-monday-meow.json](./388762-monday-meow.json) |
 | Mondo Agency | 72707 | [72707-mondo-agency.json](./72707-mondo-agency.json) |
 | Monet - The Mystery of the Orangery | 129764 | [129764-monet-the-mystery-of-the-orangery.json](./129764-monet-the-mystery-of-the-orangery.json) |
@@ -2282,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monti: The Hidden Secret | 278989 | [278989-monti-the-hidden-secret.json](./278989-monti-the-hidden-secret.json) |
 | Montjoie! | 66719 | [66719-montjoie.json](./66719-montjoie.json) |
 | Monty Python & the Quest for the Holy Grail | 8552 | [8552-monty-python-and-the-quest-for-the-holy-grail.json](./8552-monty-python-and-the-quest-for-the-holy-grail.json) |
+| Monument | 260138 | [260138-monument.json](./260138-monument.json) |
 | Monument Builders: Big Ben | 294445 | [294445-monument-builders-big-ben.json](./294445-monument-builders-big-ben.json) |
 | Monument Builders: Cathedral Rising | 294444 | [294444-monument-builders-cathedral-rising.json](./294444-monument-builders-cathedral-rising.json) |
 | Monument Valley II: The Lost Forest | 255779 | [255779-monument-valley-ii-the-lost-forest.json](./255779-monument-valley-ii-the-lost-forest.json) |
@@ -2556,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Movie Award Winners Trivia | 104637 | [104637-movie-award-winners-trivia.json](./104637-movie-award-winners-trivia.json) |
 | Movie Business: Die Welt der Filme | 388716 | [388716-movie-business-die-welt-der-filme.json](./388716-movie-business-die-welt-der-filme.json) |
 | Movie Quest | 206339 | [206339-movie-quest.json](./206339-movie-quest.json) |
+| Movierooms: Cinema Management | 260156 | [260156-movierooms-cinema-management.json](./260156-movierooms-cinema-management.json) |
 | MovieStarPlanet | 94981 | [94981-moviestarplanet.json](./94981-moviestarplanet.json) |
 | Moving Day: Make It Home | 389417 | [389417-moving-day-make-it-home.json](./389417-moving-day-make-it-home.json) |
 | Moving Out 2: Deluxe Edition | 271470 | [271470-moving-out-2-deluxe-edition.json](./271470-moving-out-2-deluxe-edition.json) |
