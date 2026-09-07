@@ -935,6 +935,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Backrooms: Waifu Edition | 277828 | [277828-five-nights-at-backrooms-waifu-edition.json](./277828-five-nights-at-backrooms-waifu-edition.json) |
 | Five Nights At Bidens | 257665 | [257665-five-nights-at-bidens.json](./257665-five-nights-at-bidens.json) |
 | Five Nights at Candy's | 45983 | [45983-five-nights-at-candys.json](./45983-five-nights-at-candys.json) |
+| Five Nights at Candy's 2 DX | 266215 | [266215-five-nights-at-candys-2-dx.json](./266215-five-nights-at-candys-2-dx.json) |
+| Five Nights at Candy's 3 DX | 266218 | [266218-five-nights-at-candys-3-dx.json](./266218-five-nights-at-candys-3-dx.json) |
+| Five Nights at Candy's DX | 266212 | [266212-five-nights-at-candys-dx.json](./266212-five-nights-at-candys-dx.json) |
 | Five Nights at Dream's​ | 387340 | [387340-five-nights-at-dreams.json](./387340-five-nights-at-dreams.json) |
 | Five Nights at Ethans | 194614 | [194614-five-nights-at-ethans.json](./194614-five-nights-at-ethans.json) |
 | Five Nights at Freddy's | 339271 | [339271-five-nights-at-freddys.json](./339271-five-nights-at-freddys.json) |
