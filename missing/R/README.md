@@ -161,6 +161,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Lines HD | 174362 | [174362-rainbow-lines-hd.json](./174362-rainbow-lines-hd.json) |
 | Rainbow Mosaics 11: Helper's Valentine | 337618 | [337618-rainbow-mosaics-11-helpers-valentine.json](./337618-rainbow-mosaics-11-helpers-valentine.json) |
 | Rainbow Mosaics 12: Easter Helper | 294458 | [294458-rainbow-mosaics-12-easter-helper.json](./294458-rainbow-mosaics-12-easter-helper.json) |
+| Rainbow Mosaics 13: Detective Helper | 294686 | [294686-rainbow-mosaics-13-detective-helper.json](./294686-rainbow-mosaics-13-detective-helper.json) |
+| Rainbow Mosaics 14: Hawaiian Vacation | 294687 | [294687-rainbow-mosaics-14-hawaiian-vacation.json](./294687-rainbow-mosaics-14-hawaiian-vacation.json) |
 | Rainbow Mosaics 15: Twilight Sentinel | 337619 | [337619-rainbow-mosaics-15-twilight-sentinel.json](./337619-rainbow-mosaics-15-twilight-sentinel.json) |
 | Rainbow Mosaics: Blooming Garden | 294460 | [294460-rainbow-mosaics-blooming-garden.json](./294460-rainbow-mosaics-blooming-garden.json) |
 | Rainbow Mosaics: Christmas Lights | 294459 | [294459-rainbow-mosaics-christmas-lights.json](./294459-rainbow-mosaics-christmas-lights.json) |
