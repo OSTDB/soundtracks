@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Coins | 278706 | [278706-dangerous-coins.json](./278706-dangerous-coins.json) |
 | Dangerous Line | 327827 | [327827-dangerous-line.json](./327827-dangerous-line.json) |
 | Dangerous Village Tradition | 273660 | [273660-dangerous-village-tradition.json](./273660-dangerous-village-tradition.json) |
+| Dangle | 274996 | [274996-dangle.json](./274996-dangle.json) |
 | Danju | 410238 | [410238-danju.json](./410238-danju.json) |
 | DanLab's Golf | 315825 | [315825-danlabs-golf.json](./315825-danlabs-golf.json) |
 | Danmakai: Red Forbidden Fruit | 140040 | [140040-danmakai-red-forbidden-fruit.json](./140040-danmakai-red-forbidden-fruit.json) |
@@ -384,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: F-15E | 254774 | [254774-dcs-world-f-15e.json](./254774-dcs-world-f-15e.json) |
 | DCS World: F-16C Arctic Thunder Campaign by Reflected Simulations | 324673 | [324673-dcs-world-f-16c-arctic-thunder-campaign-by-reflected-simulations.json](./324673-dcs-world-f-16c-arctic-thunder-campaign-by-reflected-simulations.json) |
 | DCS World: F-16C Dragon's Fury Campaign by SorelRo | 324899 | [324899-dcs-world-f-16c-dragons-fury-campaign-by-sorelro.json](./324899-dcs-world-f-16c-dragons-fury-campaign-by-sorelro.json) |
+| DCS World: F-4E Phantom II by Heatblur Simulations | 274977 | [274977-dcs-world-f-4e-phantom-ii-by-heatblur-simulations.json](./274977-dcs-world-f-4e-phantom-ii-by-heatblur-simulations.json) |
 | DCS World: F-5E Remastered | 324873 | [324873-dcs-world-f-5e-remastered.json](./324873-dcs-world-f-5e-remastered.json) |
 | DCS World: F/A-18C Inherent Resolve Campaign by Looking Glass | 325248 | [325248-dcs-world-f-a-18c-inherent-resolve-campaign-by-looking-glass.json](./325248-dcs-world-f-a-18c-inherent-resolve-campaign-by-looking-glass.json) |
 | DCS World: Mosquito FB VI - V for Victory Campaign by Reflected Simulations | 325251 | [325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json](./325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json) |
@@ -1701,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors Quest Demo | 101593 | [101593-doors-quest-demo.json](./101593-doors-quest-demo.json) |
 | Doorways | 185655 | [185655-doorways.json](./185655-doorways.json) |
 | Dopamine | 295798 | [295798-dopamine.json](./295798-dopamine.json) |
+| Doppelgänger | 275029 | [275029-doppelganger.json](./275029-doppelganger.json) |
 | Doppelgänger | 275902 | [275902-doppelganger.json](./275902-doppelganger.json) |
 | Doppelscape | 288228 | [288228-doppelscape.json](./288228-doppelscape.json) |
 | DoppelTest | 352746 | [352746-doppeltest.json](./352746-doppeltest.json) |
