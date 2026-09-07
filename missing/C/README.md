@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare 3 - Collection 1 | 194363 | [194363-call-of-duty-modern-warfare-3-collection-1.json](./194363-call-of-duty-modern-warfare-3-collection-1.json) |
 | Call of Duty: Modern Warfare 3 - Defiance | 134652 | [134652-call-of-duty-modern-warfare-3-defiance.json](./134652-call-of-duty-modern-warfare-3-defiance.json) |
 | Call of Duty: Modern Warfare II - Griffin: Pro Pack | 254759 | [254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json](./254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json) |
+| Call of Duty: Modern Warfare III - Season 3 | 298563 | [298563-call-of-duty-modern-warfare-iii-season-3.json](./298563-call-of-duty-modern-warfare-iii-season-3.json) |
 | Call of Duty: Modern Warfare III - Season 4 | 304046 | [304046-call-of-duty-modern-warfare-iii-season-4.json](./304046-call-of-duty-modern-warfare-iii-season-4.json) |
 | Call of Duty: The War Collection | 292856 | [292856-call-of-duty-the-war-collection.json](./292856-call-of-duty-the-war-collection.json) |
 | Call of Duty: Warchest | 240503 | [240503-call-of-duty-warchest.json](./240503-call-of-duty-warchest.json) |
@@ -1761,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corporate Hell | 391617 | [391617-corporate-hell.json](./391617-corporate-hell.json) |
 | Corporate Lockdown | 250005 | [250005-corporate-lockdown.json](./250005-corporate-lockdown.json) |
 | Corporation | 57696 | [57696-corporation.json](./57696-corporation.json) |
+| Corpse Killer | 298551 | [298551-corpse-killer.json](./298551-corpse-killer.json) |
 | Corpse Master Carnage | 277020 | [277020-corpse-master-carnage.json](./277020-corpse-master-carnage.json) |
 | Corpse Party D2: Depths of Despair | 170023 | [170023-corpse-party-d2-depths-of-despair.json](./170023-corpse-party-d2-depths-of-despair.json) |
 | Corpse Party: Cross Fear | 135889 | [135889-corpse-party-cross-fear.json](./135889-corpse-party-cross-fear.json) |
@@ -1870,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courage | 25768 | [25768-courage.json](./25768-courage.json) |
 | Courage Saw Game | 385598 | [385598-courage-saw-game.json](./385598-courage-saw-game.json) |
 | Courage: The Videogame | 170005 | [170005-courage-the-videogame.json](./170005-courage-the-videogame.json) |
+| Courageous Reasoning Nori 6 MikiEdition Last | 298567 | [298567-courageous-reasoning-nori-6-mikiedition-last.json](./298567-courageous-reasoning-nori-6-mikiedition-last.json) |
 | Courageous Reasoning Nori 7 New World | 309077 | [309077-courageous-reasoning-nori-7-new-world.json](./309077-courageous-reasoning-nori-7-new-world.json) |
 | Courageous Reasoning Nori 9 Reasoning Tournament Sticking Nori | 330129 | [330129-courageous-reasoning-nori-9-reasoning-tournament-sticking-nori.json](./330129-courageous-reasoning-nori-9-reasoning-tournament-sticking-nori.json) |
 | Courier Beware | 399597 | [399597-courier-beware.json](./399597-courier-beware.json) |
