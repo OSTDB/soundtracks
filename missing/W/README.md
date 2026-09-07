@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Wild Things Are | 5278 | [5278-where-the-wild-things-are.json](./5278-where-the-wild-things-are.json) |
 | Where They Wait | 342081 | [342081-where-they-wait.json](./342081-where-they-wait.json) |
 | Where's an Egg? | 135870 | [135870-wheres-an-egg.json](./135870-wheres-an-egg.json) |
+| Where's Fido? | 278995 | [278995-wheres-fido.json](./278995-wheres-fido.json) |
 | Where's My Perry? | 65064 | [65064-wheres-my-perry.json](./65064-wheres-my-perry.json) |
 | Where's My Tripod? | 180801 | [180801-wheres-my-tripod.json](./180801-wheres-my-tripod.json) |
 | Where's Tess | 298869 | [298869-wheres-tess.json](./298869-wheres-tess.json) |
@@ -924,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf And Moon: Nonogram | 312365 | [312365-wolf-and-moon-nonogram.json](./312365-wolf-and-moon-nonogram.json) |
 | Wolf And Moon: Sudoku | 312362 | [312362-wolf-and-moon-sudoku.json](./312362-wolf-and-moon-sudoku.json) |
 | Wolf Hero: Animals vs. Robots | 312541 | [312541-wolf-hero-animals-vs-robots.json](./312541-wolf-hero-animals-vs-robots.json) |
+| Wolf Knight Memoir | 278982 | [278982-wolf-knight-memoir.json](./278982-wolf-knight-memoir.json) |
 | Wolf or Boy | 117709 | [117709-wolf-or-boy.json](./117709-wolf-or-boy.json) |
 | Wolf Riot | 193491 | [193491-wolf-riot.json](./193491-wolf-riot.json) |
 | Wolf Souls: Arena | 324331 | [324331-wolf-souls-arena.json](./324331-wolf-souls-arena.json) |
