@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | I Am a Dorm Resident (but Cat) | 353841 | [353841-i-am-a-dorm-resident-but-cat.json](./353841-i-am-a-dorm-resident-but-cat.json) |
 | I Am a Teacher: Teami no Kiso | 41374 | [41374-i-am-a-teacher-teami-no-kiso.json](./41374-i-am-a-teacher-teami-no-kiso.json) |
+| I am an Air Traffic Controller 4: Airport Narita - RJAA | 310386 | [310386-i-am-an-air-traffic-controller-4-airport-narita-rjaa.json](./310386-i-am-an-air-traffic-controller-4-airport-narita-rjaa.json) |
 | I Am An Air Traffic Controller: Airport Hero Naha | 56475 | [56475-i-am-an-air-traffic-controller-airport-hero-naha.json](./56475-i-am-an-air-traffic-controller-airport-hero-naha.json) |
 | I Am An Air Traffic Controller: Airport Hero Narita | 56474 | [56474-i-am-an-air-traffic-controller-airport-hero-narita.json](./56474-i-am-an-air-traffic-controller-airport-hero-narita.json) |
 | I Am an Air Traffic Controller: Airport Hero Osaka-KIX | 55940 | [55940-i-am-an-air-traffic-controller-airport-hero-osaka-kix.json](./55940-i-am-an-air-traffic-controller-airport-hero-osaka-kix.json) |
@@ -837,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islands of Insight | 212652 | [212652-islands-of-insight.json](./212652-islands-of-insight.json) |
 | Islands of Wakfu | 22947 | [22947-islands-of-wakfu.json](./22947-islands-of-wakfu.json) |
 | Isle Clash | 132265 | [132265-isle-clash.json](./132265-isle-clash.json) |
+| Isle o' Little Men | 310409 | [310409-isle-o-little-men.json](./310409-isle-o-little-men.json) |
 | Isle of Arrows | 197945 | [197945-isle-of-arrows.json](./197945-isle-of-arrows.json) |
 | Isle of Jura | 167395 | [167395-isle-of-jura.json](./167395-isle-of-jura.json) |
 | Isles Above | 337082 | [337082-isles-above.json](./337082-isles-above.json) |
