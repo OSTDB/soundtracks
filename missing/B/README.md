@@ -1440,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood of Calamity | 319375 | [319375-blood-of-calamity.json](./319375-blood-of-calamity.json) |
 | Blood of Darkness | 153434 | [153434-blood-of-darkness.json](./153434-blood-of-darkness.json) |
 | Blood of Heroes | 146880 | [146880-blood-of-heroes.json](./146880-blood-of-heroes.json) |
+| Blood of Old: The Rise To Greatness | 307570 | [307570-blood-of-old-the-rise-to-greatness.json](./307570-blood-of-old-the-rise-to-greatness.json) |
 | Blood of Patriots | 86318 | [86318-blood-of-patriots.json](./86318-blood-of-patriots.json) |
 | Blood of Rations | 408031 | [408031-blood-of-rations.json](./408031-blood-of-rations.json) |
 | Blood Omen 2: Legacy of Kain | 3823 | [3823-blood-omen-2-legacy-of-kain.json](./3823-blood-omen-2-legacy-of-kain.json) |
