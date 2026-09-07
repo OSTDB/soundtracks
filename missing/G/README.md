@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geography Champion | 105933 | [105933-geography-champion.json](./105933-geography-champion.json) |
 | GeoMaze | 298344 | [298344-geomaze.json](./298344-geomaze.json) |
 | Geometric Feel the Beats | 224206 | [224206-geometric-feel-the-beats.json](./224206-geometric-feel-the-beats.json) |
+| Geometric Link | 269017 | [269017-geometric-link.json](./269017-geometric-link.json) |
 | Geometric Shapes 1: Circleboy | 322584 | [322584-geometric-shapes-1-circleboy.json](./322584-geometric-shapes-1-circleboy.json) |
 | Geometric Sniper | 133424 | [133424-geometric-sniper.json](./133424-geometric-sniper.json) |
 | Geometric Sniper Z | 163944 | [163944-geometric-sniper-z.json](./163944-geometric-sniper-z.json) |
@@ -693,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnubbl | 370720 | [370720-gnubbl.json](./370720-gnubbl.json) |
 | Go | 13722 | [13722-go.json](./13722-go.json) |
 | Go Ape Ship! | 376467 | [376467-go-ape-ship.json](./376467-go-ape-ship.json) |
+| Go Bananas | 269016 | [269016-go-bananas.json](./269016-go-bananas.json) |
 | Go Bear Go! | 327830 | [327830-go-bear-go.json](./327830-go-bear-go.json) |
 | Go Big | 394220 | [394220-go-big.json](./394220-go-big.json) |
 | Go Carts | 297473 | [297473-go-carts.json](./297473-go-carts.json) |
@@ -774,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God's Trigger: O.M.G. Edition | 154548 | [154548-gods-trigger-o-m-g-edition.json](./154548-gods-trigger-o-m-g-edition.json) |
 | Godbeast Mk.II | 191219 | [191219-godbeast-mk-ii.json](./191219-godbeast-mk-ii.json) |
 | Goddess Connect | 310203 | [310203-goddess-connect.json](./310203-goddess-connect.json) |
+| Goddess Detective 3 | 269001 | [269001-goddess-detective-3.json](./269001-goddess-detective-3.json) |
 | Goddess Of Swing | 329353 | [329353-goddess-of-swing.json](./329353-goddess-of-swing.json) |
 | Goddess Scroll: Brave Star | 396211 | [396211-goddess-scroll-brave-star.json](./396211-goddess-scroll-brave-star.json) |
 | Godfall: Primal Update | 312371 | [312371-godfall-primal-update.json](./312371-godfall-primal-update.json) |
@@ -846,6 +849,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Kingdom VR | 333963 | [333963-golden-kingdom-vr.json](./333963-golden-kingdom-vr.json) |
 | Golden Knight | 331661 | [331661-golden-knight.json](./331661-golden-knight.json) |
 | Golden Leaf Jigsaw Puzzles | 266470 | [266470-golden-leaf-jigsaw-puzzles.json](./266470-golden-leaf-jigsaw-puzzles.json) |
+| Golden Leaf Jigsaw Puzzles: Expansion Pack 1 | 268998 | [268998-golden-leaf-jigsaw-puzzles-expansion-pack-1.json](./268998-golden-leaf-jigsaw-puzzles-expansion-pack-1.json) |
+| Golden Leaf Jigsaw Puzzles: Expansion Pack 2 | 268999 | [268999-golden-leaf-jigsaw-puzzles-expansion-pack-2.json](./268999-golden-leaf-jigsaw-puzzles-expansion-pack-2.json) |
+| Golden Leaf Jigsaw Puzzles: Expansion Pack 3 | 269000 | [269000-golden-leaf-jigsaw-puzzles-expansion-pack-3.json](./269000-golden-leaf-jigsaw-puzzles-expansion-pack-3.json) |
 | Golden Racing | 335958 | [335958-golden-racing.json](./335958-golden-racing.json) |
 | Golden Record Retriever | 234310 | [234310-golden-record-retriever.json](./234310-golden-record-retriever.json) |
 | Golden Tee 2018 | 82145 | [82145-golden-tee-2018.json](./82145-golden-tee-2018.json) |
@@ -867,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Loop | 329570 | [329570-golf-loop.json](./329570-golf-loop.json) |
 | Golf Master | 137673 | [137673-golf-master.json](./137673-golf-master.json) |
 | Golf Monster | 156670 | [156670-golf-monster.json](./156670-golf-monster.json) |
+| Golf Odyssey 2 DX | 269003 | [269003-golf-odyssey-2-dx.json](./269003-golf-odyssey-2-dx.json) |
 | Golf Of America | 351647 | [351647-golf-of-america.json](./351647-golf-of-america.json) |
 | Golf Pro 2000 Downunder | 93072 | [93072-golf-pro-2000-downunder.json](./93072-golf-pro-2000-downunder.json) |
 | Golf Resort Tycoon | 73296 | [73296-golf-resort-tycoon.json](./73296-golf-resort-tycoon.json) |
@@ -1174,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greendog: The Beached Surfer Dude! | 45792 | [45792-greendog-the-beached-surfer-dude.json](./45792-greendog-the-beached-surfer-dude.json) |
 | Greener Grass Awaits | 266490 | [266490-greener-grass-awaits.json](./266490-greener-grass-awaits.json) |
 | Greenfeet Haven | 291781 | [291781-greenfeet-haven.json](./291781-greenfeet-haven.json) |
+| Greenfield | 269002 | [269002-greenfield.json](./269002-greenfield.json) |
 | Greenfield Valley | 391054 | [391054-greenfield-valley.json](./391054-greenfield-valley.json) |
 | GreenFlame | 76656 | [76656-greenflame.json](./76656-greenflame.json) |
 | Greengrocer Simulator 2024 | 326419 | [326419-greengrocer-simulator-2024.json](./326419-greengrocer-simulator-2024.json) |
@@ -1452,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunlok | 25008 | [25008-gunlok.json](./25008-gunlok.json) |
 | Gunma's Ambition: You and me are Gunma | 146925 | [146925-gunmas-ambition-you-and-me-are-gunma.json](./146925-gunmas-ambition-you-and-me-are-gunma.json) |
 | Gunma's Ambition: You and me are Gunma - Reiwa 2nd National Census Edition | 331891 | [331891-gunmas-ambition-you-and-me-are-gunma-reiwa-2nd-national-census-edition.json](./331891-gunmas-ambition-you-and-me-are-gunma-reiwa-2nd-national-census-edition.json) |
+| Gunman Contracts: Stand Alone | 269009 | [269009-gunman-contracts-stand-alone.json](./269009-gunman-contracts-stand-alone.json) |
 | Gunman Tales | 102450 | [102450-gunman-tales.json](./102450-gunman-tales.json) |
 | GunMaster | 266491 | [266491-gunmaster.json](./266491-gunmaster.json) |
 | Gunner 3 | 259821 | [259821-gunner-3.json](./259821-gunner-3.json) |
