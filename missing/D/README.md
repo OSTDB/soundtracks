@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Delivery | 371237 | [371237-death-delivery.json](./371237-death-delivery.json) |
 | Death Dojo | 30913 | [30913-death-dojo.json](./30913-death-dojo.json) |
 | Death Dungeon | 193995 | [193995-death-dungeon.json](./193995-death-dungeon.json) |
+| Death Education | 301263 | [301263-death-education.json](./301263-death-education.json) |
 | Death End Re;Quest 2 | 120302 | [120302-death-end-re-quest-2.json](./120302-death-end-re-quest-2.json) |
 | Death End Re;Quest 2: Complete Deluxe Edition | 186871 | [186871-death-end-re-quest-2-complete-deluxe-edition.json](./186871-death-end-re-quest-2-complete-deluxe-edition.json) |
 | Death End Re;Quest 2: Limited Edition | 166236 | [166236-death-end-re-quest-2-limited-edition.json](./166236-death-end-re-quest-2-limited-edition.json) |
@@ -1091,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diluvian Ultra: Awakening | 316989 | [316989-diluvian-ultra-awakening.json](./316989-diluvian-ultra-awakening.json) |
 | Dim Glow | 158193 | [158193-dim-glow.json](./158193-dim-glow.json) |
 | Dima Rescues Ira | 75157 | [75157-dima-rescues-ira.json](./75157-dima-rescues-ira.json) |
+| Dimachaerus | 301248 | [301248-dimachaerus.json](./301248-dimachaerus.json) |
 | Dimension of Monster Girls | 89608 | [89608-dimension-of-monster-girls.json](./89608-dimension-of-monster-girls.json) |
 | Dimension Ranger | 349330 | [349330-dimension-ranger.json](./349330-dimension-ranger.json) |
 | Dimension X | 246067 | [246067-dimension-x.json](./246067-dimension-x.json) |
@@ -1183,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Love | 303481 | [303481-dirty-love.json](./303481-dirty-love.json) |
 | Dirty Texts: Are You Sure? | 263221 | [263221-dirty-texts-are-you-sure.json](./263221-dirty-texts-are-you-sure.json) |
 | Disaster Crisis | 166749 | [166749-disaster-crisis.json](./166749-disaster-crisis.json) |
+| Disaster Plan Z | 301257 | [301257-disaster-plan-z.json](./301257-disaster-plan-z.json) |
 | Disbelief | 354417 | [354417-disbelief.json](./354417-disbelief.json) |
 | Disc | 365671 | [365671-disc.json](./365671-disc.json) |
 | Disc Dimension | 278153 | [278153-disc-dimension.json](./278153-disc-dimension.json) |
