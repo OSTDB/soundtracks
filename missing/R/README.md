@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re.wired | 270937 | [270937-re-wired.json](./270937-re-wired.json) |
 | Re≒Connect Exit Loop | 288224 | [288224-re-connect-exit-loop.json](./288224-re-connect-exit-loop.json) |
 | RE0: VTuber Life | 370680 | [370680-re0-vtuber-life.json](./370680-re0-vtuber-life.json) |
+| Reach to Tsukuyomi | 278984 | [278984-reach-to-tsukuyomi.json](./278984-reach-to-tsukuyomi.json) |
 | Reach Your Destiny | 297797 | [297797-reach-your-destiny.json](./297797-reach-your-destiny.json) |
 | Reaction | 152347 | [152347-reaction.json](./152347-reaction.json) |
 | Reactor 09 | 123596 | [123596-reactor-09.json](./123596-reactor-09.json) |
@@ -650,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relayer: Limited Edition | 172776 | [172776-relayer-limited-edition.json](./172776-relayer-limited-edition.json) |
 | Release Me | 310173 | [310173-release-me.json](./310173-release-me.json) |
 | Relevo's Snowboarding | 311986 | [311986-relevos-snowboarding.json](./311986-relevos-snowboarding.json) |
+| Relic Arena | 278976 | [278976-relic-arena.json](./278976-relic-arena.json) |
 | Relic Heroes | 219812 | [219812-relic-heroes.json](./219812-relic-heroes.json) |
 | Relic Raiders | 70986 | [70986-relic-raiders.json](./70986-relic-raiders.json) |
 | Relicfall | 415078 | [415078-relicfall.json](./415078-relicfall.json) |
@@ -692,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remute: The Cult of Remute Portable | 321791 | [321791-remute-the-cult-of-remute-portable.json](./321791-remute-the-cult-of-remute-portable.json) |
 | Ren & Stimpy Happy, Happy, Joy, Joy Collection | 387373 | [387373-ren-and-stimpy-happy-happy-joy-joy-collection.json](./387373-ren-and-stimpy-happy-happy-joy-joy-collection.json) |
 | Ren Ti Tu Pu | 130972 | [130972-ren-ti-tu-pu.json](./130972-ren-ti-tu-pu.json) |
+| Renaissance Kingdom Wars | 278968 | [278968-renaissance-kingdom-wars.json](./278968-renaissance-kingdom-wars.json) |
 | Rending Sky | 114374 | [114374-rending-sky.json](./114374-rending-sky.json) |
 | Renegade X: Black Dawn | 51290 | [51290-renegade-x-black-dawn.json](./51290-renegade-x-black-dawn.json) |
 | Renegade: Arena Shooter | 150679 | [150679-renegade-arena-shooter.json](./150679-renegade-arena-shooter.json) |
@@ -877,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of Marjorie the Chicken | 137694 | [137694-revenge-of-marjorie-the-chicken.json](./137694-revenge-of-marjorie-the-chicken.json) |
 | Revenge of Noxi | 254148 | [254148-revenge-of-noxi.json](./254148-revenge-of-noxi.json) |
 | Revenge of the Apes | 40772 | [40772-revenge-of-the-apes.json](./40772-revenge-of-the-apes.json) |
+| Revenge Of The Colon | 279005 | [279005-revenge-of-the-colon.json](./279005-revenge-of-the-colon.json) |
 | Revenge of the Fallen | 123600 | [123600-revenge-of-the-fallen.json](./123600-revenge-of-the-fallen.json) |
 | Revenge of the Wounded Dragons | 21770 | [21770-revenge-of-the-wounded-dragons.json](./21770-revenge-of-the-wounded-dragons.json) |
 | Revenge on Bad Guy | 220316 | [220316-revenge-on-bad-guy.json](./220316-revenge-on-bad-guy.json) |
