@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraCube | 361690 | [361690-terracube.json](./361690-terracube.json) |
 | Terraformers: Megastructures | 318782 | [318782-terraformers-megastructures.json](./318782-terraformers-megastructures.json) |
 | Terraformers: Supporter Edition | 271471 | [271471-terraformers-supporter-edition.json](./271471-terraformers-supporter-edition.json) |
+| Terrafort | 285966 | [285966-terrafort.json](./285966-terrafort.json) |
 | TerraGenesis - Space Colony | 102762 | [102762-terragenesis-space-colony.json](./102762-terragenesis-space-colony.json) |
 | Terrapins | 185141 | [185141-terrapins.json](./185141-terrapins.json) |
 | Terraria: Calamity Mod | 141229 | [141229-terraria-calamity-mod.json](./141229-terraria-calamity-mod.json) |
@@ -1025,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Commander of Steel | 262063 | [262063-the-commander-of-steel.json](./262063-the-commander-of-steel.json) |
 | The Companion | 143121 | [143121-the-companion.json](./143121-the-companion.json) |
 | The Complex | 119178 | [119178-the-complex.json](./119178-the-complex.json) |
+| The Complex IV | 286003 | [286003-the-complex-iv.json](./286003-the-complex-iv.json) |
 | The Complex: Expedition | 223188 | [223188-the-complex-expedition.json](./223188-the-complex-expedition.json) |
 | The Condition | 373548 | [373548-the-condition.json](./373548-the-condition.json) |
 | The Confinement | 332413 | [332413-the-confinement.json](./332413-the-confinement.json) |
@@ -1632,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Memory of a Burning Thought | 335655 | [335655-the-last-memory-of-a-burning-thought.json](./335655-the-last-memory-of-a-burning-thought.json) |
 | The Last Night | 18285 | [18285-the-last-night.json](./18285-the-last-night.json) |
 | The Last Ninja | 8400 | [8400-the-last-ninja.json](./8400-the-last-ninja.json) |
+| The Last of the Summer Tank | 286014 | [286014-the-last-of-the-summer-tank.json](./286014-the-last-of-the-summer-tank.json) |
 | The Last of Them | 339800 | [339800-the-last-of-them.json](./339800-the-last-of-them.json) |
 | The Last of Us Complete | 340213 | [340213-the-last-of-us-complete.json](./340213-the-last-of-us-complete.json) |
 | The Last of Us Complete: Collector's Edition | 340226 | [340226-the-last-of-us-complete-collectors-edition.json](./340226-the-last-of-us-complete-collectors-edition.json) |
@@ -3060,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Flight | 60550 | [60550-time-flight.json](./60550-time-flight.json) |
 | Time for Teletubbies | 326581 | [326581-time-for-teletubbies.json](./326581-time-for-teletubbies.json) |
 | Time Gentlemen, Please! and Ben There, Dan That! Special Edition Double Pack | 27846 | [27846-time-gentlemen-please-and-ben-there-dan-that-special-edition-double-pack.json](./27846-time-gentlemen-please-and-ben-there-dan-that-special-edition-double-pack.json) |
+| Time Is Honey | 285968 | [285968-time-is-honey.json](./285968-time-is-honey.json) |
 | Time is Life | 306345 | [306345-time-is-life.json](./306345-time-is-life.json) |
 | Time is Solid Here | 197960 | [197960-time-is-solid-here.json](./197960-time-is-solid-here.json) |
 | Time Killers | 8939 | [8939-time-killers.json](./8939-time-killers.json) |
