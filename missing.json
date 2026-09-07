@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T05:48:29.099Z",
-  "total_missing": 40629,
+  "generated_at": "2026-09-07T06:03:23.558Z",
+  "total_missing": 40679,
   "games": [
     {
       "igdb_id": 306086,
@@ -10908,6 +10908,11 @@
       "file": "missing/A/192950-arcade-archives-dragon-spirit.json"
     },
     {
+      "igdb_id": 298583,
+      "game_name": "Arcade Archives: Emeraldia",
+      "file": "missing/A/298583-arcade-archives-emeraldia.json"
+    },
+    {
       "igdb_id": 315828,
       "game_name": "Arcade Archives: Finalizer Super Transformation",
       "file": "missing/A/315828-arcade-archives-finalizer-super-transformation.json"
@@ -15408,6 +15413,11 @@
       "file": "missing/B/366831-backrooms-reminiscence.json"
     },
     {
+      "igdb_id": 298562,
+      "game_name": "BackRooms's 1995 The Lost Footage: Chapter 1",
+      "file": "missing/B/298562-backroomss-1995-the-lost-footage-chapter-1.json"
+    },
+    {
       "igdb_id": 342047,
       "game_name": "Backseat Drivers",
       "file": "missing/B/342047-backseat-drivers.json"
@@ -18866,6 +18876,11 @@
       "igdb_id": 315874,
       "game_name": "Beauties Unveiled 2: CEO 69 Edition",
       "file": "missing/B/315874-beauties-unveiled-2-ceo-69-edition.json"
+    },
+    {
+      "igdb_id": 298568,
+      "game_name": "Beauties Unveiled: Hot Edition",
+      "file": "missing/B/298568-beauties-unveiled-hot-edition.json"
     },
     {
       "igdb_id": 100194,
@@ -24828,6 +24843,11 @@
       "file": "missing/B/315875-breakfast-bar-tycoon-super-edition.json"
     },
     {
+      "igdb_id": 298569,
+      "game_name": "Breakfast Bar Tycoon: Ultimate Edition",
+      "file": "missing/B/298569-breakfast-bar-tycoon-ultimate-edition.json"
+    },
+    {
       "igdb_id": 165688,
       "game_name": "Breaking earth",
       "file": "missing/B/165688-breaking-earth.json"
@@ -27331,6 +27351,11 @@
       "igdb_id": 254759,
       "game_name": "Call of Duty: Modern Warfare II - Griffin: Pro Pack",
       "file": "missing/C/254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json"
+    },
+    {
+      "igdb_id": 298563,
+      "game_name": "Call of Duty: Modern Warfare III - Season 3",
+      "file": "missing/C/298563-call-of-duty-modern-warfare-iii-season-3.json"
     },
     {
       "igdb_id": 304046,
@@ -35653,6 +35678,11 @@
       "file": "missing/C/57696-corporation.json"
     },
     {
+      "igdb_id": 298551,
+      "game_name": "Corpse Killer",
+      "file": "missing/C/298551-corpse-killer.json"
+    },
+    {
       "igdb_id": 277020,
       "game_name": "Corpse Master Carnage",
       "file": "missing/C/277020-corpse-master-carnage.json"
@@ -36196,6 +36226,11 @@
       "igdb_id": 170005,
       "game_name": "Courage: The Videogame",
       "file": "missing/C/170005-courage-the-videogame.json"
+    },
+    {
+      "igdb_id": 298567,
+      "game_name": "Courageous Reasoning Nori 6 MikiEdition Last",
+      "file": "missing/C/298567-courageous-reasoning-nori-6-mikiedition-last.json"
     },
     {
       "igdb_id": 309077,
@@ -48238,6 +48273,11 @@
       "file": "missing/D/19594-dracula-twins.json"
     },
     {
+      "igdb_id": 298584,
+      "game_name": "Dracula vs. Monsters",
+      "file": "missing/D/298584-dracula-vs-monsters.json"
+    },
+    {
       "igdb_id": 144306,
       "game_name": "Dracula vs. The Ninja On the Moon",
       "file": "missing/D/144306-dracula-vs-the-ninja-on-the-moon.json"
@@ -48661,6 +48701,11 @@
       "igdb_id": 45959,
       "game_name": "Dragon Knight 4",
       "file": "missing/D/45959-dragon-knight-4.json"
+    },
+    {
+      "igdb_id": 298548,
+      "game_name": "Dragon Lair",
+      "file": "missing/D/298548-dragon-lair.json"
     },
     {
       "igdb_id": 147998,
@@ -49131,6 +49176,11 @@
       "igdb_id": 43513,
       "game_name": "Draw_Love",
       "file": "missing/D/43513-draw-love.json"
+    },
+    {
+      "igdb_id": 298570,
+      "game_name": "Drawing Carnival: Horror Edition",
+      "file": "missing/D/298570-drawing-carnival-horror-edition.json"
     },
     {
       "igdb_id": 275922,
@@ -54923,6 +54973,11 @@
       "file": "missing/E/335698-escape-game-sleepless.json"
     },
     {
+      "igdb_id": 298585,
+      "game_name": "Escape Game The Dr. Mouse's Lab",
+      "file": "missing/E/298585-escape-game-the-dr-mouses-lab.json"
+    },
+    {
       "igdb_id": 334094,
       "game_name": "Escape Game: R00m 02",
       "file": "missing/E/334094-escape-game-r00m-02.json"
@@ -57181,6 +57236,16 @@
       "igdb_id": 238217,
       "game_name": "Faeria: Game + All DLC Bundle",
       "file": "missing/F/238217-faeria-game-all-dlc-bundle.json"
+    },
+    {
+      "igdb_id": 298554,
+      "game_name": "Fahrenheit",
+      "file": "missing/F/298554-fahrenheit.json"
+    },
+    {
+      "igdb_id": 298555,
+      "game_name": "Fahrenheit",
+      "file": "missing/F/298555-fahrenheit.json"
     },
     {
       "igdb_id": 196314,
@@ -59971,6 +60036,11 @@
       "igdb_id": 219282,
       "game_name": "Final Fantasy Redux",
       "file": "missing/F/219282-final-fantasy-redux.json"
+    },
+    {
+      "igdb_id": 298558,
+      "game_name": "Final Fantasy Renaissance",
+      "file": "missing/F/298558-final-fantasy-renaissance.json"
     },
     {
       "igdb_id": 428,
@@ -64063,6 +64133,11 @@
       "file": "missing/F/308803-freaky-trip-amazing-edition.json"
     },
     {
+      "igdb_id": 298571,
+      "game_name": "Freaky Trip: Platinum Edition",
+      "file": "missing/F/298571-freaky-trip-platinum-edition.json"
+    },
+    {
       "igdb_id": 315864,
       "game_name": "Freaky Trip: Superb Edition",
       "file": "missing/F/315864-freaky-trip-superb-edition.json"
@@ -67118,6 +67193,11 @@
       "file": "missing/G/393475-gas-station-manager-2026.json"
     },
     {
+      "igdb_id": 298596,
+      "game_name": "Gas Station Simulator: Can Touch This DLC",
+      "file": "missing/G/298596-gas-station-simulator-can-touch-this-dlc.json"
+    },
+    {
       "igdb_id": 148001,
       "game_name": "Gas Station: Highway Services",
       "file": "missing/G/148001-gas-station-highway-services.json"
@@ -69896,6 +69976,11 @@
       "igdb_id": 325850,
       "game_name": "Golf With Your Friends 2",
       "file": "missing/G/325850-golf-with-your-friends-2.json"
+    },
+    {
+      "igdb_id": 298594,
+      "game_name": "Golf With Your Friends: Critical Hit Pack",
+      "file": "missing/G/298594-golf-with-your-friends-critical-hit-pack.json"
     },
     {
       "igdb_id": 336929,
@@ -76166,6 +76251,11 @@
       "igdb_id": 277596,
       "game_name": "Hentai Girls Slide",
       "file": "missing/H/277596-hentai-girls-slide.json"
+    },
+    {
+      "igdb_id": 298572,
+      "game_name": "Hentai Girls: Magnificent Edition",
+      "file": "missing/H/298572-hentai-girls-magnificent-edition.json"
     },
     {
       "igdb_id": 314871,
@@ -90983,6 +91073,11 @@
       "file": "missing/K/356666-knights-quest.json"
     },
     {
+      "igdb_id": 298577,
+      "game_name": "Knight's Redemption: War for Freedom",
+      "file": "missing/K/298577-knights-redemption-war-for-freedom.json"
+    },
+    {
       "igdb_id": 23923,
       "game_name": "Knight's Rush",
       "file": "missing/K/23923-knights-rush.json"
@@ -103708,6 +103803,11 @@
       "file": "missing/M/286568-megaworld.json"
     },
     {
+      "igdb_id": 298549,
+      "game_name": "Megdan",
+      "file": "missing/M/298549-megdan.json"
+    },
+    {
       "igdb_id": 264358,
       "game_name": "Megurine Luka no Jikenbo",
       "file": "missing/M/264358-megurine-luka-no-jikenbo.json"
@@ -106263,6 +106363,11 @@
       "file": "missing/M/252359-mine-sweeper.json"
     },
     {
+      "igdb_id": 298586,
+      "game_name": "Mine Sweeper Million",
+      "file": "missing/M/298586-mine-sweeper-million.json"
+    },
+    {
       "igdb_id": 245005,
       "game_name": "Mine The Diamond",
       "file": "missing/M/245005-mine-the-diamond.json"
@@ -107128,6 +107233,11 @@
       "file": "missing/M/339823-mire.json"
     },
     {
+      "igdb_id": 298564,
+      "game_name": "Mirko Polo",
+      "file": "missing/M/298564-mirko-polo.json"
+    },
+    {
       "igdb_id": 322352,
       "game_name": "Mirror Image",
       "file": "missing/M/322352-mirror-image.json"
@@ -107501,6 +107611,11 @@
       "igdb_id": 402922,
       "game_name": "Mixology",
       "file": "missing/M/402922-mixology.json"
+    },
+    {
+      "igdb_id": 298573,
+      "game_name": "Mixx Island: Remix Plus - Superb Edition",
+      "file": "missing/M/298573-mixx-island-remix-plus-superb-edition.json"
     },
     {
       "igdb_id": 308820,
@@ -109748,6 +109863,11 @@
       "file": "missing/M/312340-mortal-kombat-1-t-1000.json"
     },
     {
+      "igdb_id": 298557,
+      "game_name": "Mortal Kombat 11: DC Elseworlds Skin Pack",
+      "file": "missing/M/298557-mortal-kombat-11-dc-elseworlds-skin-pack.json"
+    },
+    {
       "igdb_id": 139439,
       "game_name": "Mortal Kombat 11: Fujin",
       "file": "missing/M/139439-mortal-kombat-11-fujin.json"
@@ -110976,6 +111096,11 @@
       "igdb_id": 221380,
       "game_name": "Multi Maze 3D",
       "file": "missing/M/221380-multi-maze-3d.json"
+    },
+    {
+      "igdb_id": 298574,
+      "game_name": "Multi Maze 3D: Complete Edition",
+      "file": "missing/M/298574-multi-maze-3d-complete-edition.json"
     },
     {
       "igdb_id": 38363,
@@ -113988,6 +114113,26 @@
       "file": "missing/N/65509-nba-king-of-the-court.json"
     },
     {
+      "igdb_id": 298589,
+      "game_name": "Nblocks: Builder Pack 1",
+      "file": "missing/N/298589-nblocks-builder-pack-1.json"
+    },
+    {
+      "igdb_id": 298592,
+      "game_name": "Nblocks: Builder Pack 2",
+      "file": "missing/N/298592-nblocks-builder-pack-2.json"
+    },
+    {
+      "igdb_id": 298590,
+      "game_name": "Nblocks: Builder Pack 3",
+      "file": "missing/N/298590-nblocks-builder-pack-3.json"
+    },
+    {
+      "igdb_id": 298591,
+      "game_name": "Nblocks: Builder Pack 4",
+      "file": "missing/N/298591-nblocks-builder-pack-4.json"
+    },
+    {
       "igdb_id": 4039,
       "game_name": "NCAA College Football 2K3",
       "file": "missing/N/4039-ncaa-college-football-2k3.json"
@@ -116058,6 +116203,11 @@
       "file": "missing/N/45974-night-slave.json"
     },
     {
+      "igdb_id": 298556,
+      "game_name": "Night Trap",
+      "file": "missing/N/298556-night-trap.json"
+    },
+    {
       "igdb_id": 28249,
       "game_name": "Night Trap: 25th Anniversary Edition",
       "file": "missing/N/28249-night-trap-25th-anniversary-edition.json"
@@ -116511,6 +116661,11 @@
       "igdb_id": 62207,
       "game_name": "Ninja JaJaMaru-kun: Sakura-hime to Karyu no Himitsu",
       "file": "missing/N/62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json"
+    },
+    {
+      "igdb_id": 298587,
+      "game_name": "Ninja Kamui: Shinobi Origins",
+      "file": "missing/N/298587-ninja-kamui-shinobi-origins.json"
     },
     {
       "igdb_id": 297800,
@@ -121848,6 +122003,11 @@
       "file": "missing/O/153421-oubey-vr-cosmic-voyage.json"
     },
     {
+      "igdb_id": 298602,
+      "game_name": "Ouch! So Many Beauties!",
+      "file": "missing/O/298602-ouch-so-many-beauties.json"
+    },
+    {
       "igdb_id": 206371,
       "game_name": "Ouchi Otofuda",
       "file": "missing/O/206371-ouchi-otofuda.json"
@@ -121876,6 +122036,11 @@
       "igdb_id": 197411,
       "game_name": "Our Fate Forsaken",
       "file": "missing/O/197411-our-fate-forsaken.json"
+    },
+    {
+      "igdb_id": 298582,
+      "game_name": "Our Field Trip Adventure",
+      "file": "missing/O/298582-our-field-trip-adventure.json"
     },
     {
       "igdb_id": 179196,
@@ -129198,6 +129363,11 @@
       "file": "missing/P/243965-pogoduck.json"
     },
     {
+      "igdb_id": 298547,
+      "game_name": "Poibos Part 1: Dasshutsu",
+      "file": "missing/P/298547-poibos-part-1-dasshutsu.json"
+    },
+    {
       "igdb_id": 327621,
       "game_name": "Point Gakushuu: 10-masu Keisan",
       "file": "missing/P/327621-point-gakushuu-10-masu-keisan.json"
@@ -133343,6 +133513,11 @@
       "file": "missing/P/213610-purple-fantasy.json"
     },
     {
+      "igdb_id": 298581,
+      "game_name": "Purple Slime Production Line",
+      "file": "missing/P/298581-purple-slime-production-line.json"
+    },
+    {
       "igdb_id": 198541,
       "game_name": "Purple War",
       "file": "missing/P/198541-purple-war.json"
@@ -133436,6 +133611,11 @@
       "igdb_id": 369026,
       "game_name": "Pushed a 'Bot!",
       "file": "missing/P/369026-pushed-a-bot.json"
+    },
+    {
+      "igdb_id": 298578,
+      "game_name": "Puss in Boots: Purrfect Adventures",
+      "file": "missing/P/298578-puss-in-boots-purrfect-adventures.json"
     },
     {
       "igdb_id": 211928,
@@ -152008,6 +152188,11 @@
       "file": "missing/S/39017-slam-n-jam-95.json"
     },
     {
+      "igdb_id": 298559,
+      "game_name": "Slam City with Scottie Pippen",
+      "file": "missing/S/298559-slam-city-with-scottie-pippen.json"
+    },
+    {
       "igdb_id": 106631,
       "game_name": "Slam Dunk - The best basketball game 2018",
       "file": "missing/S/106631-slam-dunk-the-best-basketball-game-2018.json"
@@ -156216,6 +156401,11 @@
       "igdb_id": 296657,
       "game_name": "SOVL: Reptilian Kingdoms",
       "file": "missing/S/296657-sovl-reptilian-kingdoms.json"
+    },
+    {
+      "igdb_id": 298579,
+      "game_name": "Sowon : The Toy Wonderland",
+      "file": "missing/S/298579-sowon-the-toy-wonderland.json"
     },
     {
       "igdb_id": 242788,
@@ -165763,6 +165953,11 @@
       "file": "missing/S/257101-supreme-summoner.json"
     },
     {
+      "igdb_id": 298560,
+      "game_name": "Supreme Warrior",
+      "file": "missing/S/298560-supreme-warrior.json"
+    },
+    {
       "igdb_id": 150676,
       "game_name": "Surabaya Inferno",
       "file": "missing/S/150676-surabaya-inferno.json"
@@ -168101,6 +168296,11 @@
       "igdb_id": 301004,
       "game_name": "Tales From The Under-Realm: After Midnight",
       "file": "missing/T/301004-tales-from-the-under-realm-after-midnight.json"
+    },
+    {
+      "igdb_id": 298566,
+      "game_name": "Tales From The Under-Realm: Hazel",
+      "file": "missing/T/298566-tales-from-the-under-realm-hazel.json"
     },
     {
       "igdb_id": 318795,
@@ -172943,6 +173143,11 @@
       "file": "missing/T/400858-the-dream-machine-the-definitive-edition.json"
     },
     {
+      "igdb_id": 298601,
+      "game_name": "The Dream of the Limbo",
+      "file": "missing/T/298601-the-dream-of-the-limbo.json"
+    },
+    {
       "igdb_id": 196872,
       "game_name": "The Dream Team",
       "file": "missing/T/196872-the-dream-team.json"
@@ -173216,6 +173421,11 @@
       "igdb_id": 250662,
       "game_name": "The Epic Quest of Birdo The Pink Dinosaur",
       "file": "missing/T/250662-the-epic-quest-of-birdo-the-pink-dinosaur.json"
+    },
+    {
+      "igdb_id": 298580,
+      "game_name": "The Epyx Collection: Handheld",
+      "file": "missing/T/298580-the-epyx-collection-handheld.json"
     },
     {
       "igdb_id": 125368,
@@ -175473,6 +175683,11 @@
       "file": "missing/T/307951-the-legend-of-sky-stones.json"
     },
     {
+      "igdb_id": 298598,
+      "game_name": "The Legend of Snow Maiden",
+      "file": "missing/T/298598-the-legend-of-snow-maiden.json"
+    },
+    {
       "igdb_id": 300392,
       "game_name": "The Legend of Spyro: A New Beginning",
       "file": "missing/T/300392-the-legend-of-spyro-a-new-beginning.json"
@@ -176626,6 +176841,11 @@
       "igdb_id": 194653,
       "game_name": "The Nightmare Inside",
       "file": "missing/T/194653-the-nightmare-inside.json"
+    },
+    {
+      "igdb_id": 298561,
+      "game_name": "The Nightmare Of Arrival Chapter 1",
+      "file": "missing/T/298561-the-nightmare-of-arrival-chapter-1.json"
     },
     {
       "igdb_id": 339801,
@@ -178291,6 +178511,11 @@
       "igdb_id": 328794,
       "game_name": "The Smurfs: Colorful Stories - Magnificent Edition",
       "file": "missing/T/328794-the-smurfs-colorful-stories-magnificent-edition.json"
+    },
+    {
+      "igdb_id": 298588,
+      "game_name": "The Smurfs: Colorful Stories - Personal Boards 6",
+      "file": "missing/T/298588-the-smurfs-colorful-stories-personal-boards-6.json"
     },
     {
       "igdb_id": 328795,
@@ -185688,6 +185913,11 @@
       "file": "missing/T/324323-train-to-hong-kong.json"
     },
     {
+      "igdb_id": 298576,
+      "game_name": "Train Traffic Manager: Deluxe Edition",
+      "file": "missing/T/298576-train-traffic-manager-deluxe-edition.json"
+    },
+    {
       "igdb_id": 317244,
       "game_name": "Train Traffic Manager: Diamond Edition",
       "file": "missing/T/317244-train-traffic-manager-diamond-edition.json"
@@ -186146,6 +186376,11 @@
       "igdb_id": 302931,
       "game_name": "Trash Pandamonium",
       "file": "missing/T/302931-trash-pandamonium.json"
+    },
+    {
+      "igdb_id": 298575,
+      "game_name": "Trash Punk: Extended Edition",
+      "file": "missing/T/298575-trash-punk-extended-edition.json"
     },
     {
       "igdb_id": 122426,
@@ -189286,6 +189521,11 @@
       "igdb_id": 181896,
       "game_name": "Unbridled Horror",
       "file": "missing/U/181896-unbridled-horror.json"
+    },
+    {
+      "igdb_id": 298600,
+      "game_name": "Unbroken",
+      "file": "missing/U/298600-unbroken.json"
     },
     {
       "igdb_id": 178075,
@@ -194046,6 +194286,11 @@
       "igdb_id": 339131,
       "game_name": "Wandering Dreams of Yuri",
       "file": "missing/W/339131-wandering-dreams-of-yuri.json"
+    },
+    {
+      "igdb_id": 298599,
+      "game_name": "Wandering Planet: Prelude",
+      "file": "missing/W/298599-wandering-planet-prelude.json"
     },
     {
       "igdb_id": 16073,
@@ -199256,6 +199501,11 @@
       "igdb_id": 301018,
       "game_name": "WorldNeverland: Black Modern Wedding Outfit Set",
       "file": "missing/W/301018-worldneverland-black-modern-wedding-outfit-set.json"
+    },
+    {
+      "igdb_id": 298593,
+      "game_name": "WorldNeverland: White Modern Wedding Outfit Set",
+      "file": "missing/W/298593-worldneverland-white-modern-wedding-outfit-set.json"
     },
     {
       "igdb_id": 101609,
