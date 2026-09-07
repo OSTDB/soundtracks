@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T13:03:43.825Z",
-  "total_missing": 42052,
+  "generated_at": "2026-09-07T13:18:35.425Z",
+  "total_missing": 42102,
   "games": [
     {
       "igdb_id": 306086,
@@ -6803,6 +6803,11 @@
       "file": "missing/A/306639-airplane-tycoon-first-class.json"
     },
     {
+      "igdb_id": 283155,
+      "game_name": "Airport",
+      "file": "missing/A/283155-airport.json"
+    },
+    {
       "igdb_id": 346048,
       "game_name": "Airport",
       "file": "missing/A/346048-airport.json"
@@ -7951,6 +7956,11 @@
       "igdb_id": 301008,
       "game_name": "All Elite Wrestling: Fight Forever - Rated Gold Superstar Pack",
       "file": "missing/A/301008-all-elite-wrestling-fight-forever-rated-gold-superstar-pack.json"
+    },
+    {
+      "igdb_id": 283188,
+      "game_name": "All Elite Wrestling: Fight Forever - Season Pass 2",
+      "file": "missing/A/283188-all-elite-wrestling-fight-forever-season-pass-2.json"
     },
     {
       "igdb_id": 287121,
@@ -9771,6 +9781,11 @@
       "igdb_id": 295265,
       "game_name": "Animal Farm Jigsaw Games for Toddlers, Babys and Kids",
       "file": "missing/A/295265-animal-farm-jigsaw-games-for-toddlers-babys-and-kids.json"
+    },
+    {
+      "igdb_id": 283156,
+      "game_name": "Animal Farm Parking: Extended Edition",
+      "file": "missing/A/283156-animal-farm-parking-extended-edition.json"
     },
     {
       "igdb_id": 50635,
@@ -16896,6 +16911,16 @@
       "igdb_id": 294451,
       "game_name": "Bandle",
       "file": "missing/B/294451-bandle.json"
+    },
+    {
+      "igdb_id": 283158,
+      "game_name": "Bandle Tale: A League of Legends Story - Deluxe Edition",
+      "file": "missing/B/283158-bandle-tale-a-league-of-legends-story-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 283187,
+      "game_name": "Bandle Tale: Bigger-On-The-Inside Pack",
+      "file": "missing/B/283187-bandle-tale-bigger-on-the-inside-pack.json"
     },
     {
       "igdb_id": 184658,
@@ -29173,6 +29198,11 @@
       "file": "missing/C/155107-car-physics-simulator-trucks-missions-dlc.json"
     },
     {
+      "igdb_id": 283153,
+      "game_name": "Car Racing: Highway Driving Simulator - Premium Edition",
+      "file": "missing/C/283153-car-racing-highway-driving-simulator-premium-edition.json"
+    },
+    {
       "igdb_id": 129206,
       "game_name": "Car Tuner 2020",
       "file": "missing/C/129206-car-tuner-2020.json"
@@ -30336,6 +30366,11 @@
       "igdb_id": 410234,
       "game_name": "Cat Screen",
       "file": "missing/C/410234-cat-screen.json"
+    },
+    {
+      "igdb_id": 283154,
+      "game_name": "Cat Simulator",
+      "file": "missing/C/283154-cat-simulator.json"
     },
     {
       "igdb_id": 87780,
@@ -31921,6 +31956,11 @@
       "igdb_id": 209663,
       "game_name": "Chess Dungeons",
       "file": "missing/C/209663-chess-dungeons.json"
+    },
+    {
+      "igdb_id": 283189,
+      "game_name": "Chess Grandmaster Royal Bundle",
+      "file": "missing/C/283189-chess-grandmaster-royal-bundle.json"
     },
     {
       "igdb_id": 245540,
@@ -35418,6 +35458,11 @@
       "file": "missing/C/308798-color-water-sort-complete-edition.json"
     },
     {
+      "igdb_id": 283190,
+      "game_name": "Colorful Adventures Bundle",
+      "file": "missing/C/283190-colorful-adventures-bundle.json"
+    },
+    {
       "igdb_id": 218144,
       "game_name": "Colorful Critter",
       "file": "missing/C/218144-colorful-critter.json"
@@ -35446,6 +35491,11 @@
       "igdb_id": 232167,
       "game_name": "Coloring Animal Zoo Touch to Color Activity Coloring Book for Kids and Family Preschool Ultimate Edition",
       "file": "missing/C/232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json"
+    },
+    {
+      "igdb_id": 283191,
+      "game_name": "Coloring Book: Complete Bundle - 410 drawings",
+      "file": "missing/C/283191-coloring-book-complete-bundle-410-drawings.json"
     },
     {
       "igdb_id": 317237,
@@ -36646,6 +36696,11 @@
       "igdb_id": 314874,
       "game_name": "Cooking",
       "file": "missing/C/314874-cooking.json"
+    },
+    {
+      "igdb_id": 283176,
+      "game_name": "Cooking Arena: 3 in 1 Edition",
+      "file": "missing/C/283176-cooking-arena-3-in-1-edition.json"
     },
     {
       "igdb_id": 275892,
@@ -38166,6 +38221,11 @@
       "igdb_id": 242217,
       "game_name": "Crashletics",
       "file": "missing/C/242217-crashletics.json"
+    },
+    {
+      "igdb_id": 283151,
+      "game_name": "CrashMetal: Drift Racing Car Driving Simulator - Premium Edition",
+      "file": "missing/C/283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json"
     },
     {
       "igdb_id": 247178,
@@ -41013,6 +41073,11 @@
       "file": "missing/C/150167-cynoroid-gaiden.json"
     },
     {
+      "igdb_id": 283152,
+      "game_name": "Cynthia: Hidden in the Moonshadow - Complete Edition",
+      "file": "missing/C/283152-cynthia-hidden-in-the-moonshadow-complete-edition.json"
+    },
+    {
       "igdb_id": 317261,
       "game_name": "Cynthia: Hidden in the Moonshadow - Summer Edition",
       "file": "missing/C/317261-cynthia-hidden-in-the-moonshadow-summer-edition.json"
@@ -42991,6 +43056,16 @@
       "igdb_id": 167819,
       "game_name": "Dead by Daylight: Hellraiser Chapter",
       "file": "missing/D/167819-dead-by-daylight-hellraiser-chapter.json"
+    },
+    {
+      "igdb_id": 283186,
+      "game_name": "Dead by Daylight: Macabre Tales Pack",
+      "file": "missing/D/283186-dead-by-daylight-macabre-tales-pack.json"
+    },
+    {
+      "igdb_id": 283185,
+      "game_name": "Dead by Daylight: Old Wounds Pack",
+      "file": "missing/D/283185-dead-by-daylight-old-wounds-pack.json"
     },
     {
       "igdb_id": 109718,
@@ -65068,6 +65143,16 @@
       "file": "missing/F/29902-footrock-2.json"
     },
     {
+      "igdb_id": 283148,
+      "game_name": "For a Vast Future: Definitive Edition",
+      "file": "missing/F/283148-for-a-vast-future-definitive-edition.json"
+    },
+    {
+      "igdb_id": 283149,
+      "game_name": "For a Vast Future: Premium Edition",
+      "file": "missing/F/283149-for-a-vast-future-premium-edition.json"
+    },
+    {
       "igdb_id": 336894,
       "game_name": "For All the People I Love",
       "file": "missing/F/336894-for-all-the-people-i-love.json"
@@ -66378,6 +66463,11 @@
       "file": "missing/F/298571-freaky-trip-platinum-edition.json"
     },
     {
+      "igdb_id": 283175,
+      "game_name": "Freaky Trip: Special Edition",
+      "file": "missing/F/283175-freaky-trip-special-edition.json"
+    },
+    {
       "igdb_id": 315864,
       "game_name": "Freaky Trip: Superb Edition",
       "file": "missing/F/315864-freaky-trip-superb-edition.json"
@@ -67463,9 +67553,19 @@
       "file": "missing/F/105918-fuel-tanker-truck.json"
     },
     {
+      "igdb_id": 283145,
+      "game_name": "Fuga: Melodies of Steel - Ultimate Edition",
+      "file": "missing/F/283145-fuga-melodies-of-steel-ultimate-edition.json"
+    },
+    {
       "igdb_id": 246620,
       "game_name": "Fuga: Melodies of Steel 2 - Deluxe Edition",
       "file": "missing/F/246620-fuga-melodies-of-steel-2-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 283150,
+      "game_name": "Fuga: Melodies of Steel 2 - Ultimate Edition",
+      "file": "missing/F/283150-fuga-melodies-of-steel-2-ultimate-edition.json"
     },
     {
       "igdb_id": 372996,
@@ -67611,6 +67711,11 @@
       "igdb_id": 384508,
       "game_name": "Fumpers 2: Dual Realms",
       "file": "missing/F/384508-fumpers-2-dual-realms.json"
+    },
+    {
+      "igdb_id": 283146,
+      "game_name": "Fun Chess: Platinum Edition",
+      "file": "missing/F/283146-fun-chess-platinum-edition.json"
     },
     {
       "igdb_id": 394165,
@@ -72388,6 +72493,11 @@
       "file": "missing/G/105919-golf-cart-race.json"
     },
     {
+      "igdb_id": 283174,
+      "game_name": "Golf Guys: Complete Edition",
+      "file": "missing/G/283174-golf-guys-complete-edition.json"
+    },
+    {
       "igdb_id": 130954,
       "game_name": "Golf Keeper",
       "file": "missing/G/130954-golf-keeper.json"
@@ -74391,6 +74501,16 @@
       "igdb_id": 361705,
       "game_name": "Groove Coaster: Undertale DLC Pack 01",
       "file": "missing/G/361705-groove-coaster-undertale-dlc-pack-01.json"
+    },
+    {
+      "igdb_id": 283179,
+      "game_name": "Groove Coaster: Wai Wai Party!!!! - Undertale + Deltarune Pack",
+      "file": "missing/G/283179-groove-coaster-wai-wai-party-undertale-deltarune-pack.json"
+    },
+    {
+      "igdb_id": 283180,
+      "game_name": "Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 9",
+      "file": "missing/G/283180-groove-coaster-wai-wai-party-vocaloid-pack-9.json"
     },
     {
       "igdb_id": 130961,
@@ -78303,6 +78423,11 @@
       "file": "missing/H/101536-helix-jump-2.json"
     },
     {
+      "igdb_id": 283173,
+      "game_name": "Helix Jump: Complete Edition",
+      "file": "missing/H/283173-helix-jump-complete-edition.json"
+    },
+    {
       "igdb_id": 284906,
       "game_name": "Helix: Descent N Ascent",
       "file": "missing/H/284906-helix-descent-n-ascent.json"
@@ -78908,6 +79033,11 @@
       "file": "missing/H/314871-hentai-girls-paris-romance.json"
     },
     {
+      "igdb_id": 283147,
+      "game_name": "Hentai Girls: Platinum Edition",
+      "file": "missing/H/283147-hentai-girls-platinum-edition.json"
+    },
+    {
       "igdb_id": 296907,
       "game_name": "Hentai Girls: Sexy Feet Goddesses",
       "file": "missing/H/296907-hentai-girls-sexy-feet-goddesses.json"
@@ -78916,6 +79046,16 @@
       "igdb_id": 308817,
       "game_name": "Hentai Girls: Ultra Extended",
       "file": "missing/H/308817-hentai-girls-ultra-extended.json"
+    },
+    {
+      "igdb_id": 283177,
+      "game_name": "Hentai Golf",
+      "file": "missing/H/283177-hentai-golf.json"
+    },
+    {
+      "igdb_id": 283178,
+      "game_name": "Hentai Golf: Deluxe Edition",
+      "file": "missing/H/283178-hentai-golf-deluxe-edition.json"
     },
     {
       "igdb_id": 315861,
@@ -79061,6 +79201,11 @@
       "igdb_id": 308800,
       "game_name": "Hentai Stars: Amazing Edition",
       "file": "missing/H/308800-hentai-stars-amazing-edition.json"
+    },
+    {
+      "igdb_id": 283172,
+      "game_name": "Hentai Stars: Premium Edition",
+      "file": "missing/H/283172-hentai-stars-premium-edition.json"
     },
     {
       "igdb_id": 314885,
@@ -88228,6 +88373,11 @@
       "file": "missing/I/22394-isolani.json"
     },
     {
+      "igdb_id": 283144,
+      "game_name": "Isolated",
+      "file": "missing/I/283144-isolated.json"
+    },
+    {
       "igdb_id": 86116,
       "game_name": "Isolated",
       "file": "missing/I/86116-isolated.json"
@@ -90261,6 +90411,11 @@
       "igdb_id": 396919,
       "game_name": "Johnny Trigger: Gold Edition",
       "file": "missing/J/396919-johnny-trigger-gold-edition.json"
+    },
+    {
+      "igdb_id": 283171,
+      "game_name": "Johnny Trigger: Hotshot Edition",
+      "file": "missing/J/283171-johnny-trigger-hotshot-edition.json"
     },
     {
       "igdb_id": 370723,
@@ -94503,9 +94658,19 @@
       "file": "missing/K/317252-knights-and-guns-advanced-edition.json"
     },
     {
+      "igdb_id": 283141,
+      "game_name": "Knights & Guns: Definitive Edition",
+      "file": "missing/K/283141-knights-and-guns-definitive-edition.json"
+    },
+    {
       "igdb_id": 315860,
       "game_name": "Knights & Guns: Grand Edition",
       "file": "missing/K/315860-knights-and-guns-grand-edition.json"
+    },
+    {
+      "igdb_id": 283142,
+      "game_name": "Knights & Guns: Ultimate Edition",
+      "file": "missing/K/283142-knights-and-guns-ultimate-edition.json"
     },
     {
       "igdb_id": 25584,
@@ -95281,6 +95446,11 @@
       "igdb_id": 129218,
       "game_name": "Kubble Star",
       "file": "missing/K/129218-kubble-star.json"
+    },
+    {
+      "igdb_id": 283143,
+      "game_name": "Kubic",
+      "file": "missing/K/283143-kubic.json"
     },
     {
       "igdb_id": 296690,
@@ -98881,6 +99051,11 @@
       "igdb_id": 161371,
       "game_name": "Light Up the Room",
       "file": "missing/L/161371-light-up-the-room.json"
+    },
+    {
+      "igdb_id": 283170,
+      "game_name": "Light-It Up: Complete Edition",
+      "file": "missing/L/283170-light-it-up-complete-edition.json"
     },
     {
       "igdb_id": 392136,
@@ -111728,6 +111903,11 @@
       "file": "missing/M/209718-moar-appeteaser.json"
     },
     {
+      "igdb_id": 283169,
+      "game_name": "Mob Control: Complete Edition",
+      "file": "missing/M/283169-mob-control-complete-edition.json"
+    },
+    {
       "igdb_id": 406078,
       "game_name": "Mob Drop Castle",
       "file": "missing/M/406078-mob-drop-castle.json"
@@ -113133,6 +113313,11 @@
       "file": "missing/M/69483-monster-prom.json"
     },
     {
+      "igdb_id": 283183,
+      "game_name": "Monster Prom 2: Monster Camp XXL Character Pack - Colorful Campers",
+      "file": "missing/M/283183-monster-prom-2-monster-camp-xxl-character-pack-colorful-campers.json"
+    },
+    {
       "igdb_id": 307329,
       "game_name": "Monster Prom 4: Monster Con",
       "file": "missing/M/307329-monster-prom-4-monster-con.json"
@@ -114281,6 +114466,11 @@
       "igdb_id": 396922,
       "game_name": "Moto Rush GT: Core Edition",
       "file": "missing/M/396922-moto-rush-gt-core-edition.json"
+    },
+    {
+      "igdb_id": 283139,
+      "game_name": "Moto Rush GT: Definitive Edition",
+      "file": "missing/M/283139-moto-rush-gt-definitive-edition.json"
     },
     {
       "igdb_id": 315869,
@@ -124903,6 +125093,11 @@
       "file": "missing/O/313142-one-night-burlesque-amazing-edition.json"
     },
     {
+      "igdb_id": 283167,
+      "game_name": "One Night: Burlesque - Extended Edition",
+      "file": "missing/O/283167-one-night-burlesque-extended-edition.json"
+    },
+    {
       "igdb_id": 308790,
       "game_name": "One Night: Burlesque - GOTY Edition",
       "file": "missing/O/308790-one-night-burlesque-goty-edition.json"
@@ -124916,6 +125111,11 @@
       "igdb_id": 317246,
       "game_name": "One Night: Burlesque - Superb Edition",
       "file": "missing/O/317246-one-night-burlesque-superb-edition.json"
+    },
+    {
+      "igdb_id": 283168,
+      "game_name": "One Night: Burlesque - Ultimate Edition",
+      "file": "missing/O/283168-one-night-burlesque-ultimate-edition.json"
     },
     {
       "igdb_id": 306088,
@@ -124986,6 +125186,11 @@
       "igdb_id": 375164,
       "game_name": "One Piece: Pirate Warriors 4 - Character Pack 8 Special Selection",
       "file": "missing/O/375164-one-piece-pirate-warriors-4-character-pack-8-special-selection.json"
+    },
+    {
+      "igdb_id": 283182,
+      "game_name": "One Piece: Pirate Warriors 4 - One Piece Film: Red Pack",
+      "file": "missing/O/283182-one-piece-pirate-warriors-4-one-piece-film-red-pack.json"
     },
     {
       "igdb_id": 294429,
@@ -132601,6 +132806,11 @@
       "igdb_id": 104654,
       "game_name": "Pixel Origin",
       "file": "missing/P/104654-pixel-origin.json"
+    },
+    {
+      "igdb_id": 283166,
+      "game_name": "Pixel Paint 2: Platinum Edition",
+      "file": "missing/P/283166-pixel-paint-2-platinum-edition.json"
     },
     {
       "igdb_id": 300981,
@@ -148958,6 +149168,11 @@
       "file": "missing/S/396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json"
     },
     {
+      "igdb_id": 283164,
+      "game_name": "S.N.I.P.E.R.: Hunter Scope - GOTY Edition",
+      "file": "missing/S/283164-s-n-i-p-e-r-hunter-scope-goty-edition.json"
+    },
+    {
       "igdb_id": 315856,
       "game_name": "S.N.I.P.E.R.: Hunter Scope - Grand Edition",
       "file": "missing/S/315856-s-n-i-p-e-r-hunter-scope-grand-edition.json"
@@ -149426,6 +149641,11 @@
       "igdb_id": 21862,
       "game_name": "Saints Row IV: Super Dangerous Wad Wad Edition (aka the Million Dollar Pack)",
       "file": "missing/S/21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json"
+    },
+    {
+      "igdb_id": 283181,
+      "game_name": "Saints Row: The Big Purple Package",
+      "file": "missing/S/283181-saints-row-the-big-purple-package.json"
     },
     {
       "igdb_id": 249476,
@@ -163993,6 +164213,11 @@
       "file": "missing/S/46617-spore-galactic-edition.json"
     },
     {
+      "igdb_id": 283165,
+      "game_name": "Sport & Fun: Swimming - Amazing Edition",
+      "file": "missing/S/283165-sport-and-fun-swimming-amazing-edition.json"
+    },
+    {
       "igdb_id": 328836,
       "game_name": "Sport & Fun: Swimming - Complete +",
       "file": "missing/S/328836-sport-and-fun-swimming-complete.json"
@@ -166091,6 +166316,11 @@
       "igdb_id": 372498,
       "game_name": "Starvania: Tales Of The Past",
       "file": "missing/S/372498-starvania-tales-of-the-past.json"
+    },
+    {
+      "igdb_id": 283159,
+      "game_name": "Starward Rogue: Complete Edition",
+      "file": "missing/S/283159-starward-rogue-complete-edition.json"
     },
     {
       "igdb_id": 306943,
@@ -186503,6 +186733,11 @@
       "file": "missing/T/360591-thec64-mini-black-edition.json"
     },
     {
+      "igdb_id": 283160,
+      "game_name": "Theft Ride Legacy: Gold Edition",
+      "file": "missing/T/283160-theft-ride-legacy-gold-edition.json"
+    },
+    {
       "igdb_id": 89952,
       "game_name": "TheGunRunner",
       "file": "missing/T/89952-thegunrunner.json"
@@ -190511,6 +190746,11 @@
       "igdb_id": 402920,
       "game_name": "Torima Headbang",
       "file": "missing/T/402920-torima-headbang.json"
+    },
+    {
+      "igdb_id": 283161,
+      "game_name": "Tormentor: Action Fire Counter Shooter Game Simulator - Premium Edition",
+      "file": "missing/T/283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json"
     },
     {
       "igdb_id": 253595,
@@ -196521,6 +196761,11 @@
       "igdb_id": 96076,
       "game_name": "Unicorn Coloring Book",
       "file": "missing/U/96076-unicorn-coloring-book.json"
+    },
+    {
+      "igdb_id": 283162,
+      "game_name": "Unicorn Overlord: Monarch Edition",
+      "file": "missing/U/283162-unicorn-overlord-monarch-edition.json"
     },
     {
       "igdb_id": 338588,
@@ -209581,6 +209826,11 @@
       "igdb_id": 28886,
       "game_name": "Zombie Buster VR",
       "file": "missing/Z/28886-zombie-buster-vr.json"
+    },
+    {
+      "igdb_id": 283163,
+      "game_name": "Zombie Dead Smasher Shooter: Premium Edition",
+      "file": "missing/Z/283163-zombie-dead-smasher-shooter-premium-edition.json"
     },
     {
       "igdb_id": 400206,
