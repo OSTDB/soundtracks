@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven: The Days Long Gone | 18908 | [18908-seven-the-days-long-gone.json](./18908-seven-the-days-long-gone.json) |
 | Severance | 327843 | [327843-severance.json](./327843-severance.json) |
 | Severity | 93615 | [93615-severity.json](./93615-severity.json) |
+| Sewer Jam 2 | 271196 | [271196-sewer-jam-2.json](./271196-sewer-jam-2.json) |
 | Sex Adventures: Futanari Doctor | 286529 | [286529-sex-adventures-futanari-doctor.json](./286529-sex-adventures-futanari-doctor.json) |
 | Sex Adventures: Mile High Club | 286528 | [286528-sex-adventures-mile-high-club.json](./286528-sex-adventures-mile-high-club.json) |
 | Sex and the Furry Titty 2: Sins of the City - Love Stories Episodes | 173846 | [173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json](./173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json) |
@@ -1889,7 +1890,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingshot Stunt Driver & Sports | 188102 | [188102-slingshot-stunt-driver-and-sports.json](./188102-slingshot-stunt-driver-and-sports.json) |
 | Slingshot: The Bump Challenge | 108470 | [108470-slingshot-the-bump-challenge.json](./108470-slingshot-the-bump-challenge.json) |
 | Slip 'n Slime | 310190 | [310190-slip-n-slime.json](./310190-slip-n-slime.json) |
+| Slip Tripping | 271189 | [271189-slip-tripping.json](./271189-slip-tripping.json) |
 | Slip, Slap 'n' Quack! | 177020 | [177020-slip-slap-n-quack.json](./177020-slip-slap-n-quack.json) |
+| Slipgate to a Lost Dimension | 271188 | [271188-slipgate-to-a-lost-dimension.json](./271188-slipgate-to-a-lost-dimension.json) |
 | Slippery ice | 177008 | [177008-slippery-ice.json](./177008-slippery-ice.json) |
 | Slippery Sammy | 252982 | [252982-slippery-sammy.json](./252982-slippery-sammy.json) |
 | SlipSpeed | 132818 | [132818-slipspeed.json](./132818-slipspeed.json) |
@@ -3214,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squids in a Pickle | 340924 | [340924-squids-in-a-pickle.json](./340924-squids-in-a-pickle.json) |
 | Squillamorph | 126652 | [126652-squillamorph.json](./126652-squillamorph.json) |
 | Squirdle | 194654 | [194654-squirdle.json](./194654-squirdle.json) |
+| Squire of Time | 271224 | [271224-squire-of-time.json](./271224-squire-of-time.json) |
 | Squirm 16 | 313498 | [313498-squirm-16.json](./313498-squirm-16.json) |
 | Squirrel Day | 278693 | [278693-squirrel-day.json](./278693-squirrel-day.json) |
 | Squirrel vs. Worms | 262075 | [262075-squirrel-vs-worms.json](./262075-squirrel-vs-worms.json) |
@@ -4528,6 +4532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Rugby League 2 | 23009 | [23009-super-rugby-league-2.json](./23009-super-rugby-league-2.json) |
 | Super Russian Roulette | 307936 | [307936-super-russian-roulette.json](./307936-super-russian-roulette.json) |
 | Super Samtong | 92509 | [92509-super-samtong.json](./92509-super-samtong.json) |
+| Super Scope 15 | 271240 | [271240-super-scope-15.json](./271240-super-scope-15.json) |
 | Super Scoundrel Solitaire | 400868 | [400868-super-scoundrel-solitaire.json](./400868-super-scoundrel-solitaire.json) |
 | Super Screepy Underworld | 25740 | [25740-super-screepy-underworld.json](./25740-super-screepy-underworld.json) |
 | Super Seals Float | 149594 | [149594-super-seals-float.json](./149594-super-seals-float.json) |
