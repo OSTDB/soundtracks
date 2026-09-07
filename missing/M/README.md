@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magus in Mystic Geometries. | 123591 | [123591-magus-in-mystic-geometries.json](./123591-magus-in-mystic-geometries.json) |
 | Mah Jong Solitaire 2 | 86699 | [86699-mah-jong-solitaire-2.json](./86699-mah-jong-solitaire-2.json) |
 | Mah-jongg Puzzle Pai-Sen | 124787 | [124787-mah-jongg-puzzle-pai-sen.json](./124787-mah-jongg-puzzle-pai-sen.json) |
+| Mahjick: The Realm Taker | 265129 | [265129-mahjick-the-realm-taker.json](./265129-mahjick-the-realm-taker.json) |
 | Mahjong | 90692 | [90692-mahjong.json](./90692-mahjong.json) |
 | Mahjong Cascade: Bamboo and Dragons | 334100 | [334100-mahjong-cascade-bamboo-and-dragons.json](./334100-mahjong-cascade-bamboo-and-dragons.json) |
 | Mahjong Elements HD | 174371 | [174371-mahjong-elements-hd.json](./174371-mahjong-elements-hd.json) |
@@ -413,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manny's | 260528 | [260528-mannys.json](./260528-mannys.json) |
 | Manny's 2 | 329018 | [329018-mannys-2.json](./329018-mannys-2.json) |
 | Manny's Murderous Movie Theater: The Snackbar Simulator | 370718 | [370718-mannys-murderous-movie-theater-the-snackbar-simulator.json](./370718-mannys-murderous-movie-theater-the-snackbar-simulator.json) |
+| Manor of Mysteries | 265149 | [265149-manor-of-mysteries.json](./265149-manor-of-mysteries.json) |
 | Mansion | 269861 | [269861-mansion.json](./269861-mansion.json) |
 | Mansion 2 | 269863 | [269863-mansion-2.json](./269863-mansion-2.json) |
 | Mansion of the Dead | 337486 | [337486-mansion-of-the-dead.json](./337486-mansion-of-the-dead.json) |
@@ -2683,6 +2685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Is Game Over: Murder Otaku | 338721 | [338721-murder-is-game-over-murder-otaku.json](./338721-murder-is-game-over-murder-otaku.json) |
 | Murder Is Game Over: The Blackinton Curse | 318208 | [318208-murder-is-game-over-the-blackinton-curse.json](./318208-murder-is-game-over-the-blackinton-curse.json) |
 | Murder Makes Strange Deadfellows | 73320 | [73320-murder-makes-strange-deadfellows.json](./73320-murder-makes-strange-deadfellows.json) |
+| Murder Miners X | 265159 | [265159-murder-miners-x.json](./265159-murder-miners-x.json) |
 | Murder Mystery J: Jinrou Judgment - Maru Icon | 325460 | [325460-murder-mystery-j-jinrou-judgment-maru-icon.json](./325460-murder-mystery-j-jinrou-judgment-maru-icon.json) |
 | Murder Mystery J: Jinrou Judgment - SP1 Icon | 325457 | [325457-murder-mystery-j-jinrou-judgment-sp1-icon.json](./325457-murder-mystery-j-jinrou-judgment-sp1-icon.json) |
 | Murder Mystery J: Jinrou Judgment - SP2 Icon | 325459 | [325459-murder-mystery-j-jinrou-judgment-sp2-icon.json](./325459-murder-mystery-j-jinrou-judgment-sp2-icon.json) |
