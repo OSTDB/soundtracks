@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magna Braban: Henreki no Yuusha | 38374 | [38374-magna-braban-henreki-no-yuusha.json](./38374-magna-braban-henreki-no-yuusha.json) |
 | Magna Fortuna | 171590 | [171590-magna-fortuna.json](./171590-magna-fortuna.json) |
 | Magna Regna | 211926 | [211926-magna-regna.json](./211926-magna-regna.json) |
+| Magnate: Robot Idle Tycoon | 268449 | [268449-magnate-robot-idle-tycoon.json](./268449-magnate-robot-idle-tycoon.json) |
 | Magnavody | 277610 | [277610-magnavody.json](./277610-magnavody.json) |
 | Magnetic Billiards | 47276 | [47276-magnetic-billiards.json](./47276-magnetic-billiards.json) |
 | Magnetic By Nature | 17322 | [17322-magnetic-by-nature.json](./17322-magnetic-by-nature.json) |
@@ -1363,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Genesis | 323757 | [323757-metroid-genesis.json](./323757-metroid-genesis.json) |
 | Metroid: Samus Returns | 37140 | [37140-metroid-samus-returns.json](./37140-metroid-samus-returns.json) |
 | Metroid: Takeover | 255384 | [255384-metroid-takeover.json](./255384-metroid-takeover.json) |
+| Metroidvania Bundle | 268482 | [268482-metroidvania-bundle.json](./268482-metroidvania-bundle.json) |
 | Metropocre | 169975 | [169975-metropocre.json](./169975-metropocre.json) |
 | Metropolismania | 26661 | [26661-metropolismania.json](./26661-metropolismania.json) |
 | Metropolitan Mayhem | 270667 | [270667-metropolitan-mayhem.json](./270667-metropolitan-mayhem.json) |
@@ -2050,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monaco | 178055 | [178055-monaco.json](./178055-monaco.json) |
 | Monaco 2 | 194505 | [194505-monaco-2.json](./194505-monaco-2.json) |
 | Monaco Grand Prix | 3413 | [3413-monaco-grand-prix.json](./3413-monaco-grand-prix.json) |
+| Monaco Master | 268495 | [268495-monaco-master.json](./268495-monaco-master.json) |
 | Monari Station | 395567 | [395567-monari-station.json](./395567-monari-station.json) |
 | Monark: Limited Edition Box | 152340 | [152340-monark-limited-edition-box.json](./152340-monark-limited-edition-box.json) |
 | Monato Esprit | 68047 | [68047-monato-esprit.json](./68047-monato-esprit.json) |
