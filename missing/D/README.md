@@ -2114,6 +2114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Attack Spy Drone Games | 303263 | [303263-drone-attack-spy-drone-games.json](./303263-drone-attack-spy-drone-games.json) |
 | Drone Lander | 23859 | [23859-drone-lander.json](./23859-drone-lander.json) |
 | Drone Race Simulator Pilot Flight School Airplane Games Jet 2023 | 227515 | [227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json](./227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json) |
+| Drone Racer: Fly Stunt Simulator | 287663 | [287663-drone-racer-fly-stunt-simulator.json](./287663-drone-racer-fly-stunt-simulator.json) |
 | Drone Shadow Strike | 303262 | [303262-drone-shadow-strike.json](./303262-drone-shadow-strike.json) |
 | Drone Simulator: Smash Zombies | 343249 | [343249-drone-simulator-smash-zombies.json](./343249-drone-simulator-smash-zombies.json) |
 | Drone Tanks | 415111 | [415111-drone-tanks.json](./415111-drone-tanks.json) |
@@ -2198,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Run | 87570 | [87570-duck-run.json](./87570-duck-run.json) |
 | Duck Shoot | 385597 | [385597-duck-shoot.json](./385597-duck-shoot.json) |
 | Duck vs. Evil | 350453 | [350453-duck-vs-evil.json](./350453-duck-vs-evil.json) |
+| Duck, Quack, Shoot! | 287665 | [287665-duck-quack-shoot.json](./287665-duck-quack-shoot.json) |
 | Duckified: Cosmic Legends | 295571 | [295571-duckified-cosmic-legends.json](./295571-duckified-cosmic-legends.json) |
 | Ducks | 314262 | [314262-ducks.json](./314262-ducks.json) |
 | Ducks | 314263 | [314263-ducks.json](./314263-ducks.json) |
