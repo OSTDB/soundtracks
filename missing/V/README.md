@@ -404,6 +404,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivecraft | 370146 | [370146-vivecraft.json](./370146-vivecraft.json) |
 | Vivid | 415091 | [415091-vivid.json](./415091-vivid.json) |
 | Viviparous Dumpling | 354449 | [354449-viviparous-dumpling.json](./354449-viviparous-dumpling.json) |
+| Vivitter: Additional Mini-game - "Hole-in-one" | 308772 | [308772-vivitter-additional-mini-game-hole-in-one.json](./308772-vivitter-additional-mini-game-hole-in-one.json) |
+| Vivitter: Additional Mini-game - "Kiss Game" | 308785 | [308785-vivitter-additional-mini-game-kiss-game.json](./308785-vivitter-additional-mini-game-kiss-game.json) |
+| Vivitter: Additional Mini-game - "Leaning Tower" | 308783 | [308783-vivitter-additional-mini-game-leaning-tower.json](./308783-vivitter-additional-mini-game-leaning-tower.json) |
+| Vivitter: Additional Mini-game - "Lightning Shoot" | 308782 | [308782-vivitter-additional-mini-game-lightning-shoot.json](./308782-vivitter-additional-mini-game-lightning-shoot.json) |
+| Vivitter: Additional Mini-game - "Magic Soda" | 308784 | [308784-vivitter-additional-mini-game-magic-soda.json](./308784-vivitter-additional-mini-game-magic-soda.json) |
+| Vivitter: Additional Mini-game - "Matrlympics" | 308781 | [308781-vivitter-additional-mini-game-matrlympics.json](./308781-vivitter-additional-mini-game-matrlympics.json) |
+| Vivitter: Additional Mini-game - "Milk In Black" | 308780 | [308780-vivitter-additional-mini-game-milk-in-black.json](./308780-vivitter-additional-mini-game-milk-in-black.json) |
+| Vivitter: Additional Mini-game - "Ninjutsu Fusuma" | 308778 | [308778-vivitter-additional-mini-game-ninjutsu-fusuma.json](./308778-vivitter-additional-mini-game-ninjutsu-fusuma.json) |
+| Vivitter: Additional Mini-game - "Parley!" | 308777 | [308777-vivitter-additional-mini-game-parley.json](./308777-vivitter-additional-mini-game-parley.json) |
+| Vivitter: Additional Mini-game - "Shoot That Star!" | 308776 | [308776-vivitter-additional-mini-game-shoot-that-star.json](./308776-vivitter-additional-mini-game-shoot-that-star.json) |
+| Vivitter: Additional Mini-game - "Top Hairstylist" | 308775 | [308775-vivitter-additional-mini-game-top-hairstylist.json](./308775-vivitter-additional-mini-game-top-hairstylist.json) |
+| Vivitter: Additional Mini-game - "United Robot" | 308779 | [308779-vivitter-additional-mini-game-united-robot.json](./308779-vivitter-additional-mini-game-united-robot.json) |
+| Vivitter: Additional Mini-game - "Unstoppable" | 308774 | [308774-vivitter-additional-mini-game-unstoppable.json](./308774-vivitter-additional-mini-game-unstoppable.json) |
+| Vivitter: Additional Mini-game - "Vivid ViviCure" | 308773 | [308773-vivitter-additional-mini-game-vivid-vivicure.json](./308773-vivitter-additional-mini-game-vivid-vivicure.json) |
 | Viz: The Soft Floppy One | 67993 | [67993-viz-the-soft-floppy-one.json](./67993-viz-the-soft-floppy-one.json) |
 | Vlad Circus: Curse of Asmodeus | 337993 | [337993-vlad-circus-curse-of-asmodeus.json](./337993-vlad-circus-curse-of-asmodeus.json) |
 | Vlad the Impaler | 17309 | [17309-vlad-the-impaler.json](./17309-vlad-the-impaler.json) |
