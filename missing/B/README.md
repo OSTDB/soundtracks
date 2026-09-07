@@ -1152,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Beacon: Forsaken Eternity | 349327 | [349327-black-beacon-forsaken-eternity.json](./349327-black-beacon-forsaken-eternity.json) |
 | Black Belt | 12257 | [12257-black-belt.json](./12257-black-belt.json) |
 | Black Belt | 29134 | [29134-black-belt.json](./29134-black-belt.json) |
+| Black Bird | 312581 | [312581-black-bird.json](./312581-black-bird.json) |
 | Black Blood | 379357 | [379357-black-blood.json](./379357-black-blood.json) |
 | Black Box VR | 140619 | [140619-black-box-vr.json](./140619-black-box-vr.json) |
 | Black Cat Blitz | 316085 | [316085-black-cat-blitz.json](./316085-black-cat-blitz.json) |
@@ -1222,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacktail | 152129 | [152129-blacktail.json](./152129-blacktail.json) |
 | Blackthorn Arena | 127233 | [127233-blackthorn-arena.json](./127233-blackthorn-arena.json) |
 | Blackwater 100 | 92540 | [92540-blackwater-100.json](./92540-blackwater-100.json) |
+| Blackwoods | 312577 | [312577-blackwoods.json](./312577-blackwoods.json) |
 | Blade | 14312 | [14312-blade.json](./14312-blade.json) |
 | Blade & Sorcery | 111474 | [111474-blade-and-sorcery.json](./111474-blade-and-sorcery.json) |
 | Blade Arcus from Shining | 121039 | [121039-blade-arcus-from-shining.json](./121039-blade-arcus-from-shining.json) |
@@ -1435,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Pact: Premium Edition | 239876 | [239876-blood-pact-premium-edition.json](./239876-blood-pact-premium-edition.json) |
 | Blood Running: Prologue | 293388 | [293388-blood-running-prologue.json](./293388-blood-running-prologue.json) |
 | Blood Safari | 165662 | [165662-blood-safari.json](./165662-blood-safari.json) |
+| Blood Sea | 312572 | [312572-blood-sea.json](./312572-blood-sea.json) |
 | Blood Ties | 78714 | [78714-blood-ties.json](./78714-blood-ties.json) |
 | Blood-over- | 93069 | [93069-blood-over.json](./93069-blood-over.json) |
 | Blood, Fuel, Ammo & Speed | 265406 | [265406-blood-fuel-ammo-and-speed.json](./265406-blood-fuel-ammo-and-speed.json) |
@@ -1489,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blox | 18322 | [18322-blox.json](./18322-blox.json) |
 | Bloxicus | 122428 | [122428-bloxicus.json](./122428-bloxicus.json) |
 | Bloxter | 84267 | [84267-bloxter.json](./84267-bloxter.json) |
+| Blubber | 312582 | [312582-blubber.json](./312582-blubber.json) |
 | Blue Angelo | 18253 | [18253-blue-angelo.json](./18253-blue-angelo.json) |
 | Blue Bird's Song | 275346 | [275346-blue-birds-song.json](./275346-blue-birds-song.json) |
 | Blue Blaze Maze | 96080 | [96080-blue-blaze-maze.json](./96080-blue-blaze-maze.json) |
