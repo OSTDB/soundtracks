@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capelord: Bounty Hunters | 190718 | [190718-capelord-bounty-hunters.json](./190718-capelord-bounty-hunters.json) |
 | Capes: Supporter Pack | 304362 | [304362-capes-supporter-pack.json](./304362-capes-supporter-pack.json) |
 | Capital | 311489 | [311489-capital.json](./311489-capital.json) |
+| Capital Fire | 284885 | [284885-capital-fire.json](./284885-capital-fire.json) |
 | Capital Kings | 342635 | [342635-capital-kings.json](./342635-capital-kings.json) |
 | Capitalist Misadventures | 358290 | [358290-capitalist-misadventures.json](./358290-capitalist-misadventures.json) |
 | CapoeiRogue: Dandara Cordão de Ouro | 215919 | [215919-capoeirogue-dandara-cordao-de-ouro.json](./215919-capoeirogue-dandara-cordao-de-ouro.json) |
@@ -1037,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of a Dark Lord: Episode II War of The Abyss | 35962 | [35962-chronicles-of-a-dark-lord-episode-ii-war-of-the-abyss.json](./35962-chronicles-of-a-dark-lord-episode-ii-war-of-the-abyss.json) |
 | Chronicles of Albian 2: The Wizbury School of Magic | 339644 | [339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json](./339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json) |
 | Chronicles Of Errodean | 247740 | [247740-chronicles-of-errodean.json](./247740-chronicles-of-errodean.json) |
+| Chronicles of Lussaria | 284899 | [284899-chronicles-of-lussaria.json](./284899-chronicles-of-lussaria.json) |
 | Chronicles of the Great Wilderness | 339109 | [339109-chronicles-of-the-great-wilderness.json](./339109-chronicles-of-the-great-wilderness.json) |
 | Chronicles of the Wolf | 258184 | [258184-chronicles-of-the-wolf.json](./258184-chronicles-of-the-wolf.json) |
 | Chronicon | 35130 | [35130-chronicon.json](./35130-chronicon.json) |
@@ -1468,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Bound: Episode 4 | 207504 | [207504-college-bound-episode-4.json](./207504-college-bound-episode-4.json) |
 | College Craze | 210863 | [210863-college-craze.json](./210863-college-craze.json) |
 | College Hoops 2K6 | 5782 | [5782-college-hoops-2k6.json](./5782-college-hoops-2k6.json) |
+| College Kings 2: Episodes 4 & 5 "Moving Out" | 284908 | [284908-college-kings-2-episodes-4-and-5-moving-out.json](./284908-college-kings-2-episodes-4-and-5-moving-out.json) |
 | College Kings: The Complete Season | 328460 | [328460-college-kings-the-complete-season.json](./328460-college-kings-the-complete-season.json) |
 | College Slam | 365698 | [365698-college-slam.json](./365698-college-slam.json) |
 | College Wrestling Manager 2026 | 384514 | [384514-college-wrestling-manager-2026.json](./384514-college-wrestling-manager-2026.json) |
