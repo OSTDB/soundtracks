@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cānghóng Lèi: Nì Tiān Shénhuà | 394183 | [394183-canghong-lei-ni-tian-shenhua.json](./394183-canghong-lei-ni-tian-shenhua.json) |
 | Canidae | 336517 | [336517-canidae.json](./336517-canidae.json) |
 | Cannibal | 299444 | [299444-cannibal.json](./299444-cannibal.json) |
+| Cannibal Island: Survival | 266780 | [266780-cannibal-island-survival.json](./266780-cannibal-island-survival.json) |
 | Cannibals and Missionaries | 355524 | [355524-cannibals-and-missionaries.json](./355524-cannibals-and-missionaries.json) |
 | Cannon Army | 152349 | [152349-cannon-army.json](./152349-cannon-army.json) |
 | Cannon Ball | 95431 | [95431-cannon-ball.json](./95431-cannon-ball.json) |
@@ -998,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChiroTerra | 278168 | [278168-chiroterra.json](./278168-chiroterra.json) |
 | Chitei Tairiku Orudoora | 41379 | [41379-chitei-tairiku-orudoora.json](./41379-chitei-tairiku-orudoora.json) |
 | Chivalry 2: Regicide Update | 312382 | [312382-chivalry-2-regicide-update.json](./312382-chivalry-2-regicide-update.json) |
+| Chiyo | 266815 | [266815-chiyo.json](./266815-chiyo.json) |
 | Chkn | 34021 | [34021-chkn.json](./34021-chkn.json) |
 | ChloroLink | 374061 | [374061-chlorolink.json](./374061-chlorolink.json) |
 | Chlorophos | 119742 | [119742-chlorophos.json](./119742-chlorophos.json) |
@@ -1701,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command: Modern Operations Live - Aegean in Flames | 167869 | [167869-command-modern-operations-live-aegean-in-flames.json](./167869-command-modern-operations-live-aegean-in-flames.json) |
 | Command: Modern Operations Live - Kuril Sunrise | 167867 | [167867-command-modern-operations-live-kuril-sunrise.json](./167867-command-modern-operations-live-kuril-sunrise.json) |
 | Command: Modern Operations Live - The King of the Border | 167868 | [167868-command-modern-operations-live-the-king-of-the-border.json](./167868-command-modern-operations-live-the-king-of-the-border.json) |
+| Command: Showcase - Operation Desert Falcon | 266793 | [266793-command-showcase-operation-desert-falcon.json](./266793-command-showcase-operation-desert-falcon.json) |
 | Commander Keen in Invasion of the Vorticons: Marooned on Mars | 2439 | [2439-commander-keen-in-invasion-of-the-vorticons-marooned-on-mars.json](./2439-commander-keen-in-invasion-of-the-vorticons-marooned-on-mars.json) |
 | Commander of Battlefront | 333941 | [333941-commander-of-battlefront.json](./333941-commander-of-battlefront.json) |
 | Commander: Europe at War | 324929 | [324929-commander-europe-at-war.json](./324929-commander-europe-at-war.json) |
