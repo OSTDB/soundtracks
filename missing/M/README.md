@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine of Madness | 409547 | [409547-machine-of-madness.json](./409547-machine-of-madness.json) |
 | Machine With a Big Gun | 103479 | [103479-machine-with-a-big-gun.json](./103479-machine-with-a-big-gun.json) |
 | Machinicide | 196962 | [196962-machinicide.json](./196962-machinicide.json) |
+| Machiteba Tengoku! Makereba Jigoku! Ryoutsuryuu Ikkakusenkin Daisakusen! | 269588 | [269588-machiteba-tengoku-makereba-jigoku-ryoutsuryuu-ikkakusenkin-daisakusen.json](./269588-machiteba-tengoku-makereba-jigoku-ryoutsuryuu-ikkakusenkin-daisakusen.json) |
 | Machizzle | 139478 | [139478-machizzle.json](./139478-machizzle.json) |
 | Macrocosm | 200180 | [200180-macrocosm.json](./200180-macrocosm.json) |
 | Macross 30: Voices across the Galaxy | 79292 | [79292-macross-30-voices-across-the-galaxy.json](./79292-macross-30-voices-across-the-galaxy.json) |
@@ -607,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marlboro Go! | 253027 | [253027-marlboro-go.json](./253027-marlboro-go.json) |
 | Marmalade Boy | 38339 | [38339-marmalade-boy.json](./38339-marmalade-boy.json) |
 | Marriage or Pervert: The Small Penis Warrior & The Perverted Magician | 82909 | [82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json](./82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json) |
+| Marrow | 269569 | [269569-marrow.json](./269569-marrow.json) |
 | Mars Base Excavation Incident | 271746 | [271746-mars-base-excavation-incident.json](./271746-mars-base-excavation-incident.json) |
 | Mars for the Rich | 202382 | [202382-mars-for-the-rich.json](./202382-mars-for-the-rich.json) |
 | Mars Odyssey | 32929 | [32929-mars-odyssey.json](./32929-mars-odyssey.json) |
@@ -1130,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoria VR | 311793 | [311793-memoria-vr.json](./311793-memoria-vr.json) |
 | Memorial Series: Sunsoft vol. 1 | 79347 | [79347-memorial-series-sunsoft-vol-1.json](./79347-memorial-series-sunsoft-vol-1.json) |
 | Memoriedit | 373521 | [373521-memoriedit.json](./373521-memoriedit.json) |
+| Memories | 269566 | [269566-memories.json](./269566-memories.json) |
 | Memories From Beyond a Coral Sea | 243382 | [243382-memories-from-beyond-a-coral-sea.json](./243382-memories-from-beyond-a-coral-sea.json) |
 | Memories in Late Summer | 109688 | [109688-memories-in-late-summer.json](./109688-memories-in-late-summer.json) |
 | Memories of a Vagabond | 17534 | [17534-memories-of-a-vagabond.json](./17534-memories-of-a-vagabond.json) |
@@ -1756,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minion Masters: Zealous Inferno | 330729 | [330729-minion-masters-zealous-inferno.json](./330729-minion-masters-zealous-inferno.json) |
 | MinMe | 241050 | [241050-minme.json](./241050-minme.json) |
 | Minna de Nanpure | 55939 | [55939-minna-de-nanpure.json](./55939-minna-de-nanpure.json) |
+| Minna de Shitendo DS: Hanshichi Yuumon & Ango & Ago Juurou & Hatamoto Taikutsu Otoko | 269589 | [269589-minna-de-shitendo-ds-hanshichi-yuumon-and-ango-and-ago-juurou-and-hatamoto-taikutsu-otoko.json](./269589-minna-de-shitendo-ds-hanshichi-yuumon-and-ango-and-ago-juurou-and-hatamoto-taikutsu-otoko.json) |
 | Minna no Doubutsuen | 69270 | [69270-minna-no-doubutsuen.json](./69270-minna-no-doubutsuen.json) |
 | Minnano Gensokyo Single | 369561 | [369561-minnano-gensokyo-single.json](./369561-minnano-gensokyo-single.json) |
 | Minos | 370704 | [370704-minos.json](./370704-minos.json) |
