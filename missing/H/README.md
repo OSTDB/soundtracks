@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Miners | 310169 | [310169-hell-miners.json](./310169-hell-miners.json) |
 | Hell of Sins: Soul | 209144 | [209144-hell-of-sins-soul.json](./209144-hell-of-sins-soul.json) |
 | Hell Of War: Combined Arms | 411596 | [411596-hell-of-war-combined-arms.json](./411596-hell-of-war-combined-arms.json) |
+| Hell Spheres | 285455 | [285455-hell-spheres.json](./285455-hell-spheres.json) |
 | Hell Survivors | 302694 | [302694-hell-survivors.json](./302694-hell-survivors.json) |
 | Hell Takes All | 278137 | [278137-hell-takes-all.json](./278137-hell-takes-all.json) |
 | Hell Warriors | 127380 | [127380-hell-warriors.json](./127380-hell-warriors.json) |
@@ -1292,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hose Hero | 314032 | [314032-hose-hero.json](./314032-hose-hero.json) |
 | Hoshi & Ishi | 76673 | [76673-hoshi-and-ishi.json](./76673-hoshi-and-ishi.json) |
 | Hoshi no Kakera no Monogatari. Shikake-ban | 220328 | [220328-hoshi-no-kakera-no-monogatari-shikake-ban.json](./220328-hoshi-no-kakera-no-monogatari-shikake-ban.json) |
+| Hoshi no Natchan | 285452 | [285452-hoshi-no-natchan.json](./285452-hoshi-no-natchan.json) |
 | Hoshi wo Miru Hito | 25016 | [25016-hoshi-wo-miru-hito.json](./25016-hoshi-wo-miru-hito.json) |
 | Hoshi wo Miru Hito: Bad Ebuna Patch 2 | 269869 | [269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json](./269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json) |
 | Hoshizora no Memoria: Wish Upon a Shooting Star HD | 312361 | [312361-hoshizora-no-memoria-wish-upon-a-shooting-star-hd.json](./312361-hoshizora-no-memoria-wish-upon-a-shooting-star-hd.json) |
@@ -1416,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Far Can U Go? | 176486 | [176486-how-far-can-u-go.json](./176486-how-far-can-u-go.json) |
 | How I learned to Skate | 175972 | [175972-how-i-learned-to-skate.json](./175972-how-i-learned-to-skate.json) |
 | How it was to live Guadalindie 2026 | 410255 | [410255-how-it-was-to-live-guadalindie-2026.json](./410255-how-it-was-to-live-guadalindie-2026.json) |
+| How Little We Wait | 285468 | [285468-how-little-we-wait.json](./285468-how-little-we-wait.json) |
 | How long can human beings exist | 109657 | [109657-how-long-can-human-beings-exist.json](./109657-how-long-can-human-beings-exist.json) |
 | How Many Bugs in a Box | 380444 | [380444-how-many-bugs-in-a-box.json](./380444-how-many-bugs-in-a-box.json) |
 | How the Little Match Girl Got Her Colt Paterson Revolver, and Taught a Virtue to a Goblin | 290403 | [290403-how-the-little-match-girl-got-her-colt-paterson-revolver-and-taught-a-virtue-to-a-goblin.json](./290403-how-the-little-match-girl-got-her-colt-paterson-revolver-and-taught-a-virtue-to-a-goblin.json) |
