@@ -387,6 +387,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Motion Fishing: Hooked! Again | 67289 | [67289-real-motion-fishing-hooked-again.json](./67289-real-motion-fishing-hooked-again.json) |
 | Real Motocross Driving Simulator | 259814 | [259814-real-motocross-driving-simulator.json](./259814-real-motocross-driving-simulator.json) |
 | Real Play | 22484 | [22484-real-play.json](./22484-real-play.json) |
+| Real Pro Yakyuu!: Central League-hen | 282573 | [282573-real-pro-yakyuu-central-league-hen.json](./282573-real-pro-yakyuu-central-league-hen.json) |
+| Real Pro Yakyuu!: Pacific League-hen | 282574 | [282574-real-pro-yakyuu-pacific-league-hen.json](./282574-real-pro-yakyuu-pacific-league-hen.json) |
 | Real Racing GTI | 343794 | [343794-real-racing-gti.json](./343794-real-racing-gti.json) |
 | Real Rally | 240493 | [240493-real-rally.json](./240493-real-rally.json) |
 | Real Robots Final Attack | 68026 | [68026-real-robots-final-attack.json](./68026-real-robots-final-attack.json) |
@@ -1042,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ringo's Roundup | 292278 | [292278-ringos-roundup.json](./292278-ringos-roundup.json) |
 | Rings of Saturn: Tungsten Edition | 188093 | [188093-rings-of-saturn-tungsten-edition.json](./188093-rings-of-saturn-tungsten-edition.json) |
 | Rinne no Lagrange: Kamogawa Match | 268741 | [268741-rinne-no-lagrange-kamogawa-match.json](./268741-rinne-no-lagrange-kamogawa-match.json) |
+| Rinne Tsukihime | 282562 | [282562-rinne-tsukihime.json](./282562-rinne-tsukihime.json) |
 | Rio Warzone | 150699 | [150699-rio-warzone.json](./150699-rio-warzone.json) |
 | Rio: Raised In Oblivion | 152407 | [152407-rio-raised-in-oblivion.json](./152407-rio-raised-in-oblivion.json) |
 | RIP | 392756 | [392756-rip.json](./392756-rip.json) |
@@ -1383,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rohgah Armor Force | 94756 | [94756-rohgah-armor-force.json](./94756-rohgah-armor-force.json) |
 | Roka Blocks Game - Fun & Hexagon Puzzle | 57690 | [57690-roka-blocks-game-fun-and-hexagon-puzzle.json](./57690-roka-blocks-game-fun-and-hexagon-puzzle.json) |
 | Roko-Loko no Castelo do Ratozinger Remix | 78042 | [78042-roko-loko-no-castelo-do-ratozinger-remix.json](./78042-roko-loko-no-castelo-do-ratozinger-remix.json) |
+| Rokumon Tengai Mon Colle Knight GB | 282584 | [282584-rokumon-tengai-mon-colle-knight-gb.json](./282584-rokumon-tengai-mon-colle-knight-gb.json) |
 | Rolando | 23029 | [23029-rolando.json](./23029-rolando.json) |
 | Rolando: Deluxe Edition | 236539 | [236539-rolando-deluxe-edition.json](./236539-rolando-deluxe-edition.json) |
 | Role in the Hole | 20595 | [20595-role-in-the-hole.json](./20595-role-in-the-hole.json) |
