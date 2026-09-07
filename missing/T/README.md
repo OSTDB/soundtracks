@@ -4182,6 +4182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trilogic | 91978 | [91978-trilogic.json](./91978-trilogic.json) |
 | Trilogy of the Moon | 339795 | [339795-trilogy-of-the-moon.json](./339795-trilogy-of-the-moon.json) |
 | Trimorta | 184086 | [184086-trimorta.json](./184086-trimorta.json) |
+| Trinity Heart | 266238 | [266238-trinity-heart.json](./266238-trinity-heart.json) |
 | Trinity Trigger: Day 1 Edition | 221947 | [221947-trinity-trigger-day-1-edition.json](./221947-trinity-trigger-day-1-edition.json) |
 | Trinoline | 116366 | [116366-trinoline.json](./116366-trinoline.json) |
 | Trio the Punch | 292851 | [292851-trio-the-punch.json](./292851-trio-the-punch.json) |
@@ -4369,6 +4370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Golf Racing | 194736 | [194736-turbo-golf-racing.json](./194736-turbo-golf-racing.json) |
 | Turbo Hovercraft | 359418 | [359418-turbo-hovercraft.json](./359418-turbo-hovercraft.json) |
 | Turbo Kid | 212164 | [212164-turbo-kid.json](./212164-turbo-kid.json) |
+| Turbo Leaper | 266204 | [266204-turbo-leaper.json](./266204-turbo-leaper.json) |
 | Turbo Live | 318765 | [318765-turbo-live.json](./318765-turbo-live.json) |
 | Turbo OutRun Reimagined | 349882 | [349882-turbo-outrun-reimagined.json](./349882-turbo-outrun-reimagined.json) |
 | Turbo Stars | 352166 | [352166-turbo-stars.json](./352166-turbo-stars.json) |
