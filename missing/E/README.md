@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Mage Defense | 269269 | [269269-elemental-mage-defense.json](./269269-elemental-mage-defense.json) |
 | Elemental Master | 46218 | [46218-elemental-master.json](./46218-elemental-master.json) |
 | Elemental Ninja | 61119 | [61119-elemental-ninja.json](./61119-elemental-ninja.json) |
+| Elemental Pinball | 310964 | [310964-elemental-pinball.json](./310964-elemental-pinball.json) |
 | Elemental Raiders | 231614 | [231614-elemental-raiders.json](./231614-elemental-raiders.json) |
 | Elemental Soul | 391606 | [391606-elemental-soul.json](./391606-elemental-soul.json) |
 | Elemental War | 110131 | [110131-elemental-war.json](./110131-elemental-war.json) |
