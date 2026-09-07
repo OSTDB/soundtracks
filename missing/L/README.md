@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion Was Here | 347168 | [347168-legion-was-here.json](./347168-legion-was-here.json) |
 | Legna Tactica | 26666 | [26666-legna-tactica.json](./26666-legna-tactica.json) |
 | LEGO Agents: Mission X | 314853 | [314853-lego-agents-mission-x.json](./314853-lego-agents-mission-x.json) |
+| LEGO Batman 3: Beyond Gotham - Dark Knight | 266232 | [266232-lego-batman-3-beyond-gotham-dark-knight.json](./266232-lego-batman-3-beyond-gotham-dark-knight.json) |
 | LEGO Batman: The Mobile Game | 259264 | [259264-lego-batman-the-mobile-game.json](./259264-lego-batman-the-mobile-game.json) |
 | LEGO Batman: The Videogame | 259251 | [259251-lego-batman-the-videogame.json](./259251-lego-batman-the-videogame.json) |
 | LEGO Batman: The Videogame | 259254 | [259254-lego-batman-the-videogame.json](./259254-lego-batman-the-videogame.json) |
@@ -923,6 +924,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizzie McGuire: On the Go! | 49394 | [49394-lizzie-mcguire-on-the-go.json](./49394-lizzie-mcguire-on-the-go.json) |
 | Llamas With Hats: Cruise Catastrophe | 63336 | [63336-llamas-with-hats-cruise-catastrophe.json](./63336-llamas-with-hats-cruise-catastrophe.json) |
 | LLM x Quiz | 369055 | [369055-llm-x-quiz.json](./369055-llm-x-quiz.json) |
+| Lloyd the Monkey | 266214 | [266214-lloyd-the-monkey.json](./266214-lloyd-the-monkey.json) |
+| Lloyd the Monkey 3: Judgement Day | 266221 | [266221-lloyd-the-monkey-3-judgement-day.json](./266221-lloyd-the-monkey-3-judgement-day.json) |
+| Lloyd the Monkey: Remastered | 266216 | [266216-lloyd-the-monkey-remastered.json](./266216-lloyd-the-monkey-remastered.json) |
 | LMA Manager 2007 | 20561 | [20561-lma-manager-2007.json](./20561-lma-manager-2007.json) |
 | Lo and Behold | 371874 | [371874-lo-and-behold.json](./371874-lo-and-behold.json) |
 | Load Roll Die | 172734 | [172734-load-roll-die.json](./172734-load-roll-die.json) |
