@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kebab Chefs!: Restaurant Simulator | 156653 | [156653-kebab-chefs-restaurant-simulator.json](./156653-kebab-chefs-restaurant-simulator.json) |
 | Kebab Simulator: Taste Revolution | 336372 | [336372-kebab-simulator-taste-revolution.json](./336372-kebab-simulator-taste-revolution.json) |
 | Keep Defending | 31350 | [31350-keep-defending.json](./31350-keep-defending.json) |
+| Keep Going | 312576 | [312576-keep-going.json](./312576-keep-going.json) |
 | Keep Her Safe | 414300 | [414300-keep-her-safe.json](./414300-keep-her-safe.json) |
 | Keep it Live | 194666 | [194666-keep-it-live.json](./194666-keep-it-live.json) |
 | Keep looking | 158185 | [158185-keep-looking.json](./158185-keep-looking.json) |
@@ -325,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Barney in Tokyo | 325818 | [325818-kill-barney-in-tokyo.json](./325818-kill-barney-in-tokyo.json) |
 | Kill Dad | 126034 | [126034-kill-dad.json](./126034-kill-dad.json) |
 | Kill Invaders | 278714 | [278714-kill-invaders.json](./278714-kill-invaders.json) |
+| Kill Kill Kill Kill | 312579 | [312579-kill-kill-kill-kill.json](./312579-kill-kill-kill-kill.json) |
 | Kill Me If You Can | 292293 | [292293-kill-me-if-you-can.json](./292293-kill-me-if-you-can.json) |
 | Kill PC | 121728 | [121728-kill-pc.json](./121728-kill-pc.json) |
 | Kill the Barney | 325819 | [325819-kill-the-barney.json](./325819-kill-the-barney.json) |
