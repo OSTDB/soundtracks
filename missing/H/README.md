@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: Combat Evolved Anniversary | 2640 | [2640-halo-combat-evolved-anniversary.json](./2640-halo-combat-evolved-anniversary.json) |
 | Halo: GoldSource | 352185 | [352185-halo-goldsource.json](./352185-halo-goldsource.json) |
 | Halo: Reach - Legendary Edition | 43954 | [43954-halo-reach-legendary-edition.json](./43954-halo-reach-legendary-edition.json) |
+| HalOpe | 281399 | [281399-halope.json](./281399-halope.json) |
 | Hamatora: Look at Smoking World | 60542 | [60542-hamatora-look-at-smoking-world.json](./60542-hamatora-look-at-smoking-world.json) |
 | Hamb: Rotari | 402916 | [402916-hamb-rotari.json](./402916-hamb-rotari.json) |
 | Hamburger | 346059 | [346059-hamburger.json](./346059-hamburger.json) |
