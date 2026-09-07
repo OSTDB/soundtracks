@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice and Fire | 22623 | [22623-ice-and-fire.json](./22623-ice-and-fire.json) |
 | Ice and Fire | 232712 | [232712-ice-and-fire.json](./232712-ice-and-fire.json) |
 | Ice Climber-e | 170012 | [170012-ice-climber-e.json](./170012-ice-climber-e.json) |
+| Ice Crush 10.000 BC | 300725 | [300725-ice-crush-10-000-bc.json](./300725-ice-crush-10-000-bc.json) |
 | Ice King in Secret Santa | 339824 | [339824-ice-king-in-secret-santa.json](./339824-ice-king-in-secret-santa.json) |
 | Ice Nosfe | 236499 | [236499-ice-nosfe.json](./236499-ice-nosfe.json) |
 | Ice on the Edge | 335288 | [335288-ice-on-the-edge.json](./335288-ice-on-the-edge.json) |
@@ -848,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Survival: Craft, Build, Grow | 314858 | [314858-island-survival-craft-build-grow.json](./314858-island-survival-craft-build-grow.json) |
 | Island Tribe 4 | 76635 | [76635-island-tribe-4.json](./76635-island-tribe-4.json) |
 | Island Tribe 4 | 76646 | [76646-island-tribe-4.json](./76646-island-tribe-4.json) |
+| Island Xtreme Stunts | 300709 | [300709-island-xtreme-stunts.json](./300709-island-xtreme-stunts.json) |
 | Islanders: New Shores | 333961 | [333961-islanders-new-shores.json](./333961-islanders-new-shores.json) |
 | Islands of Insight | 212652 | [212652-islands-of-insight.json](./212652-islands-of-insight.json) |
 | Islands of Wakfu | 22947 | [22947-islands-of-wakfu.json](./22947-islands-of-wakfu.json) |
@@ -909,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iterria Zone | 171609 | [171609-iterria-zone.json](./171609-iterria-zone.json) |
 | Itineris | 29675 | [29675-itineris.json](./29675-itineris.json) |
 | Itoi Shigesato no Bass Tsuri No. 1 | 3518 | [3518-itoi-shigesato-no-bass-tsuri-no-1.json](./3518-itoi-shigesato-no-bass-tsuri-no-1.json) |
+| Itoi Shigesato no Bass Tsuri No.1: Haru no Zenkoku Tournament - Gomihiroi Campaign | 300691 | [300691-itoi-shigesato-no-bass-tsuri-no-1-haru-no-zenkoku-tournament-gomihiroi-campaign.json](./300691-itoi-shigesato-no-bass-tsuri-no-1-haru-no-zenkoku-tournament-gomihiroi-campaign.json) |
 | iTownGamePlay UNIVERSE | 90652 | [90652-itowngameplay-universe.json](./90652-itowngameplay-universe.json) |
 | Its Been a While Since I Went for a Walk | 151708 | [151708-its-been-a-while-since-i-went-for-a-walk.json](./151708-its-been-a-while-since-i-went-for-a-walk.json) |
 | Its Time To Meet God | 334131 | [334131-its-time-to-meet-god.json](./334131-its-time-to-meet-god.json) |
