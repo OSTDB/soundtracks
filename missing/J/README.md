@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jagged Alliance DS | 53254 | [53254-jagged-alliance-ds.json](./53254-jagged-alliance-ds.json) |
 | Jagged Alliance: Back in Action | 1008 | [1008-jagged-alliance-back-in-action.json](./1008-jagged-alliance-back-in-action.json) |
 | Jaghund Armoured Organ Delivery Service | 329941 | [329941-jaghund-armoured-organ-delivery-service.json](./329941-jaghund-armoured-organ-delivery-service.json) |
+| Jagot | 267393 | [267393-jagot.json](./267393-jagot.json) |
 | Jaguar Suns | 333403 | [333403-jaguar-suns.json](./333403-jaguar-suns.json) |
 | Jahto: Savior of the Sky | 214152 | [214152-jahto-savior-of-the-sky.json](./214152-jahto-savior-of-the-sky.json) |
 | Jailbird Nocturne | 364530 | [364530-jailbird-nocturne.json](./364530-jailbird-nocturne.json) |
