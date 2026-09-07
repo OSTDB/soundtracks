@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mabeop Cheonjamun DS 2: The Final Hanja Magic | 124788 | [124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json](./124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json) |
 | Macabre no Zantou: Remnants of the Macabre | 309363 | [309363-macabre-no-zantou-remnants-of-the-macabre.json](./309363-macabre-no-zantou-remnants-of-the-macabre.json) |
 | Macadam: Futari Yogari | 66125 | [66125-macadam-futari-yogari.json](./66125-macadam-futari-yogari.json) |
+| Macaroni in a Pot | 299156 | [299156-macaroni-in-a-pot.json](./299156-macaroni-in-a-pot.json) |
 | Mace Knight | 391572 | [391572-mace-knight.json](./391572-mace-knight.json) |
 | MacGuffin | 34526 | [34526-macguffin.json](./34526-macguffin.json) |
 | Machi Knights: Blood Bagos | 115662 | [115662-machi-knights-blood-bagos.json](./115662-machi-knights-blood-bagos.json) |
@@ -189,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Weapon | 358310 | [358310-magic-weapon.json](./358310-magic-weapon.json) |
 | Magic: The Gathering - Battlegrounds | 5907 | [5907-magic-the-gathering-battlegrounds.json](./5907-magic-the-gathering-battlegrounds.json) |
 | Magic: The Gathering - Duels of the Planeswalkers 2015 | 18218 | [18218-magic-the-gathering-duels-of-the-planeswalkers-2015.json](./18218-magic-the-gathering-duels-of-the-planeswalkers-2015.json) |
+| Magicafe | 299127 | [299127-magicafe.json](./299127-magicafe.json) |
 | Magical Blaster | 151741 | [151741-magical-blaster.json](./151741-magical-blaster.json) |
 | Magical Boco | 313464 | [313464-magical-boco.json](./313464-magical-boco.json) |
 | Magical Circle Guru-Guru: Stardust Adventure | 302653 | [302653-magical-circle-guru-guru-stardust-adventure.json](./302653-magical-circle-guru-guru-stardust-adventure.json) |
@@ -834,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me and the Key 2 | 225280 | [225280-me-and-the-key-2.json](./225280-me-and-the-key-2.json) |
 | Me and the Key 3 | 225281 | [225281-me-and-the-key-3.json](./225281-me-and-the-key-3.json) |
 | Me and the Zombies | 200714 | [200714-me-and-the-zombies.json](./200714-me-and-the-zombies.json) |
+| Me Mostre Sonhos Doces | 299121 | [299121-me-mostre-sonhos-doces.json](./299121-me-mostre-sonhos-doces.json) |
 | Me vs. You | 172177 | [172177-me-vs-you.json](./172177-me-vs-you.json) |
 | Mea’s Saifu Collection Party | 411618 | [411618-mea-s-saifu-collection-party.json](./411618-mea-s-saifu-collection-party.json) |
 | Meadow Assault | 304582 | [304582-meadow-assault.json](./304582-meadow-assault.json) |
@@ -1296,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mewing Simulator | 312024 | [312024-mewing-simulator.json](./312024-mewing-simulator.json) |
 | Mexiball | 208009 | [208009-mexiball.json](./208009-mexiball.json) |
 | Mexico 1921: A Deep Slumber | 211921 | [211921-mexico-1921-a-deep-slumber.json](./211921-mexico-1921-a-deep-slumber.json) |
+| Meyni | 299128 | [299128-meyni.json](./299128-meyni.json) |
 | Mezase! Kanji Ou | 43962 | [43962-mezase-kanji-ou.json](./43962-mezase-kanji-ou.json) |
 | Mezzo Piano: Oshare & Lesson | 327597 | [327597-mezzo-piano-oshare-and-lesson.json](./327597-mezzo-piano-oshare-and-lesson.json) |
 | MGP Manager | 260382 | [260382-mgp-manager.json](./260382-mgp-manager.json) |
@@ -2236,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat Gold | 45155 | [45155-mortal-kombat-gold.json](./45155-mortal-kombat-gold.json) |
 | Mortal Kombat HD Arcade Kollection | 44618 | [44618-mortal-kombat-hd-arcade-kollection.json](./44618-mortal-kombat-hd-arcade-kollection.json) |
 | Mortal Kombat II | 242249 | [242249-mortal-kombat-ii.json](./242249-mortal-kombat-ii.json) |
+| Mortal Kombat II | 299167 | [299167-mortal-kombat-ii.json](./299167-mortal-kombat-ii.json) |
 | Mortal Kombat Mobile | 305553 | [305553-mortal-kombat-mobile.json](./305553-mortal-kombat-mobile.json) |
 | Mortal Kombat Trilogy | 4121 | [4121-mortal-kombat-trilogy.json](./4121-mortal-kombat-trilogy.json) |
 | Mortal Kombat X: Apocalypse Pack | 302667 | [302667-mortal-kombat-x-apocalypse-pack.json](./302667-mortal-kombat-x-apocalypse-pack.json) |
@@ -2792,6 +2797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysteria ~Occult Shadows~ | 108626 | [108626-mysteria-occult-shadows.json](./108626-mysteria-occult-shadows.json) |
 | Mysteries of Perception | 317583 | [317583-mysteries-of-perception.json](./317583-mysteries-of-perception.json) |
 | Mysteries of the Forbidden Forest | 337464 | [337464-mysteries-of-the-forbidden-forest.json](./337464-mysteries-of-the-forbidden-forest.json) |
+| Mysteries of the Heart: The Psychic Detective Case Files | 299138 | [299138-mysteries-of-the-heart-the-psychic-detective-case-files.json](./299138-mysteries-of-the-heart-the-psychic-detective-case-files.json) |
 | Mysteries of the Past: Shadow of the Deamon | 87275 | [87275-mysteries-of-the-past-shadow-of-the-deamon.json](./87275-mysteries-of-the-past-shadow-of-the-deamon.json) |
 | Mysterious Island: A Hidden Object Adventure | 195758 | [195758-mysterious-island-a-hidden-object-adventure.json](./195758-mysterious-island-a-hidden-object-adventure.json) |
 | Mysterious Islandz | 322385 | [322385-mysterious-islandz.json](./322385-mysterious-islandz.json) |
