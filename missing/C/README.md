@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsule Hotel Simulator | 159887 | [159887-capsule-hotel-simulator.json](./159887-capsule-hotel-simulator.json) |
 | Capsule Rush | 218710 | [218710-capsule-rush.json](./218710-capsule-rush.json) |
 | Captain Alexia | 181907 | [181907-captain-alexia.json](./181907-captain-alexia.json) |
+| Captain Beeble | 294722 | [294722-captain-beeble.json](./294722-captain-beeble.json) |
 | Captain Blood | 73030 | [73030-captain-blood.json](./73030-captain-blood.json) |
 | Captain Comic: The Adventure | 48110 | [48110-captain-comic-the-adventure.json](./48110-captain-comic-the-adventure.json) |
 | Captain Contraband | 129201 | [129201-captain-contraband.json](./129201-captain-contraband.json) |
@@ -619,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Drone Attack | 320760 | [320760-cazzarion-drone-attack.json](./320760-cazzarion-drone-attack.json) |
 | Cazzarion: Fishing | 335091 | [335091-cazzarion-fishing.json](./335091-cazzarion-fishing.json) |
 | Cazzarion: Ghost Frenzy | 293899 | [293899-cazzarion-ghost-frenzy.json](./293899-cazzarion-ghost-frenzy.json) |
+| Cazzarion: Gunslinger | 294683 | [294683-cazzarion-gunslinger.json](./294683-cazzarion-gunslinger.json) |
 | Cazzarion: Hell Biker | 334491 | [334491-cazzarion-hell-biker.json](./334491-cazzarion-hell-biker.json) |
 | Cazzarion: Jetpack Fighter | 378178 | [378178-cazzarion-jetpack-fighter.json](./378178-cazzarion-jetpack-fighter.json) |
 | Cazzarion: Portal Pilot | 305782 | [305782-cazzarion-portal-pilot.json](./305782-cazzarion-portal-pilot.json) |
@@ -770,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheddly and Cloud's Crazy Adventure 2 | 332261 | [332261-cheddly-and-clouds-crazy-adventure-2.json](./332261-cheddly-and-clouds-crazy-adventure-2.json) |
 | Chee-Chai Alien | 79920 | [79920-chee-chai-alien.json](./79920-chee-chai-alien.json) |
 | Cheep Cheep Challenge | 268181 | [268181-cheep-cheep-challenge.json](./268181-cheep-cheep-challenge.json) |
+| Cheese Banquet Advanced | 294695 | [294695-cheese-banquet-advanced.json](./294695-cheese-banquet-advanced.json) |
 | Cheese Bit | 412971 | [412971-cheese-bit.json](./412971-cheese-bit.json) |
 | Cheese Quest 3D: The Brother Lady Saga | 234896 | [234896-cheese-quest-3d-the-brother-lady-saga.json](./234896-cheese-quest-3d-the-brother-lady-saga.json) |
 | Cheesequest | 213022 | [213022-cheesequest.json](./213022-cheesequest.json) |
