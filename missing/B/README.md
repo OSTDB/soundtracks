@@ -1830,6 +1830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bootstrap Island | 196895 | [196895-bootstrap-island.json](./196895-bootstrap-island.json) |
 | Booty Barrage | 292530 | [292530-booty-barrage.json](./292530-booty-barrage.json) |
 | Booze Master | 191852 | [191852-booze-master.json](./191852-booze-master.json) |
+| Booze Masters: Freezing Moonshine | 266821 | [266821-booze-masters-freezing-moonshine.json](./266821-booze-masters-freezing-moonshine.json) |
 | Boppin' | 14333 | [14333-boppin.json](./14333-boppin.json) |
 | Border Force: Space Force | 171627 | [171627-border-force-space-force.json](./171627-border-force-space-force.json) |
 | Border of her Heart 2 | 156669 | [156669-border-of-her-heart-2.json](./156669-border-of-her-heart-2.json) |
