@@ -684,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Path | 126654 | [126654-phantom-path.json](./126654-phantom-path.json) |
 | Phantom Rend | 379862 | [379862-phantom-rend.json](./379862-phantom-rend.json) |
 | Phantom Rift | 174351 | [174351-phantom-rift.json](./174351-phantom-rift.json) |
+| Phantom Shift | 307598 | [307598-phantom-shift.json](./307598-phantom-shift.json) |
 | Phantom Sol | 125437 | [125437-phantom-sol.json](./125437-phantom-sol.json) |
 | Phantom Tank | 321993 | [321993-phantom-tank.json](./321993-phantom-tank.json) |
 | Phantom Ten | 311292 | [311292-phantom-ten.json](./311292-phantom-ten.json) |
@@ -908,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pineapple Panic! | 337652 | [337652-pineapple-panic.json](./337652-pineapple-panic.json) |
 | Pineapple Smash Crew | 16330 | [16330-pineapple-smash-crew.json](./16330-pineapple-smash-crew.json) |
 | Pineford: Part I | 302120 | [302120-pineford-part-i.json](./302120-pineford-part-i.json) |
+| Ping | 307600 | [307600-ping.json](./307600-ping.json) |
 | Ping | 90641 | [90641-ping.json](./90641-ping.json) |
 | Ping & Pong | 400909 | [400909-ping-and-pong.json](./400909-ping-and-pong.json) |
 | Ping Of Death: Odyssey Live | 375862 | [375862-ping-of-death-odyssey-live.json](./375862-ping-of-death-odyssey-live.json) |
@@ -1518,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popgoes: Lost Dreams | 250606 | [250606-popgoes-lost-dreams.json](./250606-popgoes-lost-dreams.json) |
 | PopIdle | 294461 | [294461-popidle.json](./294461-popidle.json) |
 | Popil | 264314 | [264314-popil.json](./264314-popil.json) |
+| Popmundo | 307602 | [307602-popmundo.json](./307602-popmundo.json) |
 | Popoposan | 329555 | [329555-popoposan.json](./329555-popoposan.json) |
 | PoPoRoGue | 79937 | [79937-poporogue.json](./79937-poporogue.json) |
 | Poppit! Party | 354993 | [354993-poppit-party.json](./354993-poppit-party.json) |
@@ -1666,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Present Panic!: A Princess Adventure | 269877 | [269877-present-panic-a-princess-adventure.json](./269877-present-panic-a-princess-adventure.json) |
 | Presentfall: Santa Defense | 384521 | [384521-presentfall-santa-defense.json](./384521-presentfall-santa-defense.json) |
 | Presentiment of Death | 241650 | [241650-presentiment-of-death.json](./241650-presentiment-of-death.json) |
+| Presents to the Metal | 307601 | [307601-presents-to-the-metal.json](./307601-presents-to-the-metal.json) |
 | President | 93038 | [93038-president.json](./93038-president.json) |
 | President 47 | 318435 | [318435-president-47.json](./318435-president-47.json) |
 | Press Any Button | 143596 | [143596-press-any-button.json](./143596-press-any-button.json) |
@@ -2082,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch the Rats | 104102 | [104102-punch-the-rats.json](./104102-punch-the-rats.json) |
 | Punch-Out!! | 2194 | [2194-punch-out.json](./2194-punch-out.json) |
 | Punch! | 321956 | [321956-punch.json](./321956-punch.json) |
+| Punch'Em Up | 307605 | [307605-punchem-up.json](./307605-punchem-up.json) |
 | Punchhead | 96074 | [96074-punchhead.json](./96074-punchhead.json) |
 | Punching a Concrete Wall | 399013 | [399013-punching-a-concrete-wall.json](./399013-punching-a-concrete-wall.json) |
 | Punching Storm | 358332 | [358332-punching-storm.json](./358332-punching-storm.json) |
