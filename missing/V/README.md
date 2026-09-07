@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vengeance | 368470 | [368470-vengeance.json](./368470-vengeance.json) |
 | Vengeance of Mr. Peppermint | 250012 | [250012-vengeance-of-mr-peppermint.json](./250012-vengeance-of-mr-peppermint.json) |
 | Vengeance/Justification | 395573 | [395573-vengeance-justification.json](./395573-vengeance-justification.json) |
+| VeniVidiFutzi | 271731 | [271731-venividifutzi.json](./271731-venividifutzi.json) |
 | Venomous | 338573 | [338573-venomous.json](./338573-venomous.json) |
 | Venture | 94741 | [94741-venture.json](./94741-venture.json) |
 | Venture Arctic | 66707 | [66707-venture-arctic.json](./66707-venture-arctic.json) |
