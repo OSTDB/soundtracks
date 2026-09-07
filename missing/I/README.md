@@ -881,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It All Boils Down to This | 184125 | [184125-it-all-boils-down-to-this.json](./184125-it-all-boils-down-to-this.json) |
 | It Came From the Closet | 109050 | [109050-it-came-from-the-closet.json](./109050-it-came-from-the-closet.json) |
 | It Came from the Desert | 1060 | [1060-it-came-from-the-desert.json](./1060-it-came-from-the-desert.json) |
+| It Doesn't Have to Be Like This | 299125 | [299125-it-doesnt-have-to-be-like-this.json](./299125-it-doesnt-have-to-be-like-this.json) |
 | It Girl | 338731 | [338731-it-girl.json](./338731-it-girl.json) |
 | It Goes Away in the End | 312920 | [312920-it-goes-away-in-the-end.json](./312920-it-goes-away-in-the-end.json) |
 | It Is Coming | 335665 | [335665-it-is-coming.json](./335665-it-is-coming.json) |
