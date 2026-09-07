@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Survival Simulator | 401540 | [401540-raccoon-survival-simulator.json](./401540-raccoon-survival-simulator.json) |
 | Race Ace | 315274 | [315274-race-ace.json](./315274-race-ace.json) |
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
+| Race Manager | 264630 | [264630-race-manager.json](./264630-race-manager.json) |
 | Race Max Pro | 392152 | [392152-race-max-pro.json](./392152-race-max-pro.json) |
 | Race or Crash: Secret Racer League | 341314 | [341314-race-or-crash-secret-racer-league.json](./341314-race-or-crash-secret-racer-league.json) |
 | Race Race Racer | 126996 | [126996-race-race-racer.json](./126996-race-race-racer.json) |
@@ -125,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Route: The Story of Jozic | 199127 | [199127-rail-route-the-story-of-jozic.json](./199127-rail-route-the-story-of-jozic.json) |
 | Railbreak: 90s Throwback Collection | 335102 | [335102-railbreak-90s-throwback-collection.json](./335102-railbreak-90s-throwback-collection.json) |
 | Railed Up | 254780 | [254780-railed-up.json](./254780-railed-up.json) |
+| Railgun 500 | 264595 | [264595-railgun-500.json](./264595-railgun-500.json) |
 | Railgunners | 74440 | [74440-railgunners.json](./74440-railgunners.json) |
 | Railroad Empire | 394822 | [394822-railroad-empire.json](./394822-railroad-empire.json) |
 | Railroad Ink Challenge | 156127 | [156127-railroad-ink-challenge.json](./156127-railroad-ink-challenge.json) |
@@ -759,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team: Attack of the Atom - Collector's Edition | 337626 | [337626-rescue-team-attack-of-the-atom-collectors-edition.json](./337626-rescue-team-attack-of-the-atom-collectors-edition.json) |
 | Rescue Team: Evil Genius | 122409 | [122409-rescue-team-evil-genius.json](./122409-rescue-team-evil-genius.json) |
 | Rescue Team: Heist of the Century | 195206 | [195206-rescue-team-heist-of-the-century.json](./195206-rescue-team-heist-of-the-century.json) |
+| Rescue Team: Mineral of Miracles | 264631 | [264631-rescue-team-mineral-of-miracles.json](./264631-rescue-team-mineral-of-miracles.json) |
 | Research Station | 273140 | [273140-research-station.json](./273140-research-station.json) |
 | Resequenced | 96650 | [96650-resequenced.json](./96650-resequenced.json) |
 | Reset | 23906 | [23906-reset.json](./23906-reset.json) |
@@ -1512,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronin: Two Souls | 139474 | [139474-ronin-two-souls.json](./139474-ronin-two-souls.json) |
 | Ronnarium | 263758 | [263758-ronnarium.json](./263758-ronnarium.json) |
 | Ronnie O'Sullivan's Snooker | 312350 | [312350-ronnie-osullivans-snooker.json](./312350-ronnie-osullivans-snooker.json) |
+| Ronshade | 264639 | [264639-ronshade.json](./264639-ronshade.json) |
 | Roof Genocide | 193492 | [193492-roof-genocide.json](./193492-roof-genocide.json) |
 | Roof Jump Stunt Driver | 231054 | [231054-roof-jump-stunt-driver.json](./231054-roof-jump-stunt-driver.json) |
 | Roof Jumping: Stunt Driver Sim | 104087 | [104087-roof-jumping-stunt-driver-sim.json](./104087-roof-jumping-stunt-driver-sim.json) |
