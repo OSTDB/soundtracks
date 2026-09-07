@@ -1791,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Perfect Miss Ending | 320753 | [320753-miss-perfect-miss-ending.json](./320753-miss-perfect-miss-ending.json) |
 | Missile Base | 13740 | [13740-missile-base.json](./13740-missile-base.json) |
 | Missile Comes Back to Me | 361693 | [361693-missile-comes-back-to-me.json](./361693-missile-comes-back-to-me.json) |
+| Missile Command | 280782 | [280782-missile-command.json](./280782-missile-command.json) |
 | Missile Command 3D | 40810 | [40810-missile-command-3d.json](./40810-missile-command-3d.json) |
 | Missileman Clone Commandos! | 131586 | [131586-missileman-clone-commandos.json](./131586-missileman-clone-commandos.json) |
 | Missileman Spy Strike 2 | 131603 | [131603-missileman-spy-strike-2.json](./131603-missileman-spy-strike-2.json) |
@@ -2221,9 +2222,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Chronicles | 8606 | [8606-moon-chronicles.json](./8606-moon-chronicles.json) |
 | Moon Colonization Project | 32237 | [32237-moon-colonization-project.json](./32237-moon-colonization-project.json) |
 | Moon Fall | 122381 | [122381-moon-fall.json](./122381-moon-fall.json) |
+| Moon Knight | 280758 | [280758-moon-knight.json](./280758-moon-knight.json) |
 | Moon Minions | 243940 | [243940-moon-minions.json](./243940-moon-minions.json) |
 | Moon Mystery | 196935 | [196935-moon-mystery.json](./196935-moon-mystery.json) |
 | Moon Observatory Melanie | 250602 | [250602-moon-observatory-melanie.json](./250602-moon-observatory-melanie.json) |
+| Moon Patrol | 280784 | [280784-moon-patrol.json](./280784-moon-patrol.json) |
 | Moon Patrol | 287080 | [287080-moon-patrol.json](./287080-moon-patrol.json) |
 | Moon Rider | 295026 | [295026-moon-rider.json](./295026-moon-rider.json) |
 | Moon River | 298303 | [298303-moon-river.json](./298303-moon-river.json) |
@@ -2528,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Rescue | 51222 | [51222-mr-rescue.json](./51222-mr-rescue.json) |
 | Mr. Rightaway | 341341 | [341341-mr-rightaway.json](./341341-mr-rightaway.json) |
 | Mr. Robot and His Robot Factory | 23900 | [23900-mr-robot-and-his-robot-factory.json](./23900-mr-robot-and-his-robot-factory.json) |
+| Mr. Run and Jump 2600 | 280753 | [280753-mr-run-and-jump-2600.json](./280753-mr-run-and-jump-2600.json) |
 | Mr. Setam: Lady Killer | 61118 | [61118-mr-setam-lady-killer.json](./61118-mr-setam-lady-killer.json) |
 | Mr. Shorty | 337074 | [337074-mr-shorty.json](./337074-mr-shorty.json) |
 | Mr. Steal Yo Wifi | 107200 | [107200-mr-steal-yo-wifi.json](./107200-mr-steal-yo-wifi.json) |
