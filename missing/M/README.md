@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory | 383929 | [383929-memory.json](./383929-memory.json) |
 | Memory Data Memory | 331131 | [331131-memory-data-memory.json](./331131-memory-data-memory.json) |
 | Memory Eater | 123595 | [123595-memory-eater.json](./123595-memory-eater.json) |
+| Memory Ghosts | 308229 | [308229-memory-ghosts.json](./308229-memory-ghosts.json) |
 | Memory Grove | 189195 | [189195-memory-grove.json](./189195-memory-grove.json) |
 | Memory Holders: The Colors II | 392171 | [392171-memory-holders-the-colors-ii.json](./392171-memory-holders-the-colors-ii.json) |
 | Memory Illusions | 157199 | [157199-memory-illusions.json](./157199-memory-illusions.json) |
@@ -1175,6 +1176,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Coffin | 335256 | [335256-metal-coffin.json](./335256-metal-coffin.json) |
 | Metal Dragon | 325243 | [325243-metal-dragon.json](./325243-metal-dragon.json) |
 | Metal Dragon/Life on Mars | 325244 | [325244-metal-dragon-life-on-mars.json](./325244-metal-dragon-life-on-mars.json) |
+| Metal Eye | 308246 | [308246-metal-eye.json](./308246-metal-eye.json) |
+| Metal Eye 2 | 308247 | [308247-metal-eye-2.json](./308247-metal-eye-2.json) |
 | Metal Fight Beyblade: Bakushin Susanow Attacks! | 394193 | [394193-metal-fight-beyblade-bakushin-susanow-attacks.json](./394193-metal-fight-beyblade-bakushin-susanow-attacks.json) |
 | Metal Freezer | 267644 | [267644-metal-freezer.json](./267644-metal-freezer.json) |
 | Metal Gear Noah | 107207 | [107207-metal-gear-noah.json](./107207-metal-gear-noah.json) |
@@ -1690,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missileman Spy Strike 2 | 131603 | [131603-missileman-spy-strike-2.json](./131603-missileman-spy-strike-2.json) |
 | Missiles Away | 254149 | [254149-missiles-away.json](./254149-missiles-away.json) |
 | Missing | 213634 | [213634-missing.json](./213634-missing.json) |
+| Missing Coordinates | 308272 | [308272-missing-coordinates.json](./308272-missing-coordinates.json) |
 | Missing In Action | 40806 | [40806-missing-in-action.json](./40806-missing-in-action.json) |
 | Missing Kitty | 258724 | [258724-missing-kitty.json](./258724-missing-kitty.json) |
 | Missing Memories | 257088 | [257088-missing-memories.json](./257088-missing-memories.json) |
@@ -2385,6 +2389,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Squeaker's Home for the Sick | 109402 | [109402-ms-squeakers-home-for-the-sick.json](./109402-ms-squeakers-home-for-the-sick.json) |
 | MSCR | 310930 | [310930-mscr.json](./310930-mscr.json) |
 | Msoids | 199081 | [199081-msoids.json](./199081-msoids.json) |
+| MSSP 9: New Pietniemi | 308263 | [308263-mssp-9-new-pietniemi.json](./308263-mssp-9-new-pietniemi.json) |
+| MSSP8 | 308262 | [308262-mssp8.json](./308262-mssp8.json) |
 | MT Force Aliens Uprising | 341343 | [341343-mt-force-aliens-uprising.json](./341343-mt-force-aliens-uprising.json) |
 | MTB DirtCross | 298860 | [298860-mtb-dirtcross.json](./298860-mtb-dirtcross.json) |
 | MTV Sports: Pure Ride | 306635 | [306635-mtv-sports-pure-ride.json](./306635-mtv-sports-pure-ride.json) |
