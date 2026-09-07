@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galdia | 343250 | [343250-galdia.json](./343250-galdia.json) |
 | GALDR | 307585 | [307585-galdr.json](./307585-galdr.json) |
 | Galer: Plague of Heroes | 31924 | [31924-galer-plague-of-heroes.json](./31924-galer-plague-of-heroes.json) |
+| Gallagant | 287652 | [287652-gallagant.json](./287652-gallagant.json) |
 | Galleon | 5843 | [5843-galleon.json](./5843-galleon.json) |
 | Gallerie | 392169 | [392169-gallerie.json](./392169-gallerie.json) |
 | Gallery: Coloring book & decor | 322558 | [322558-gallery-coloring-book-and-decor.json](./322558-gallery-coloring-book-and-decor.json) |
@@ -700,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobblemen | 152346 | [152346-gobblemen.json](./152346-gobblemen.json) |
 | Gobbo Goes Adventures | 251834 | [251834-gobbo-goes-adventures.json](./251834-gobbo-goes-adventures.json) |
 | GoBlaster | 161898 | [161898-goblaster.json](./161898-goblaster.json) |
+| Goblet Tower | 287654 | [287654-goblet-tower.json](./287654-goblet-tower.json) |
 | Goblin and Coins 2 | 117715 | [117715-goblin-and-coins-2.json](./117715-goblin-and-coins-2.json) |
 | Goblin Dice and Cleave | 370140 | [370140-goblin-dice-and-cleave.json](./370140-goblin-dice-and-cleave.json) |
 | Goblin Goopmaxxing | 375840 | [375840-goblin-goopmaxxing.json](./375840-goblin-goopmaxxing.json) |
