@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether: Wizard Life | 235487 | [235487-aether-wizard-life.json](./235487-aether-wizard-life.json) |
 | Aetherbound | 357789 | [357789-aetherbound.json](./357789-aetherbound.json) |
 | Aetherial | 357786 | [357786-aetherial.json](./357786-aetherial.json) |
+| Aethus | 270142 | [270142-aethus.json](./270142-aethus.json) |
 | Aethyr | 142476 | [142476-aethyr.json](./142476-aethyr.json) |
 | AEW: Fight Forever | 145216 | [145216-aew-fight-forever.json](./145216-aew-fight-forever.json) |
 | Afei's Trouble | 357790 | [357790-afeis-trouble.json](./357790-afeis-trouble.json) |
@@ -1493,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Unite | 212472 | [212472-animal-unite.json](./212472-animal-unite.json) |
 | Animal Up! | 121703 | [121703-animal-up.json](./121703-animal-up.json) |
 | Animal Village Rescue | 232170 | [232170-animal-village-rescue.json](./232170-animal-village-rescue.json) |
+| Animal Wars | 270138 | [270138-animal-wars.json](./270138-animal-wars.json) |
 | Animal Water Pang! | 314857 | [314857-animal-water-pang.json](./314857-animal-water-pang.json) |
 | Animal Way | 295552 | [295552-animal-way.json](./295552-animal-way.json) |
 | Animal Well | 191435 | [191435-animal-well.json](./191435-animal-well.json) |
@@ -2139,6 +2141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascend to Zero | 316425 | [316425-ascend-to-zero.json](./316425-ascend-to-zero.json) |
 | Ascendant Realms | 343253 | [343253-ascendant-realms.json](./343253-ascendant-realms.json) |
 | Ascendants: Power Rising | 52610 | [52610-ascendants-power-rising.json](./52610-ascendants-power-rising.json) |
+| Ascended Gods: Realm of Origins | 270104 | [270104-ascended-gods-realm-of-origins.json](./270104-ascended-gods-realm-of-origins.json) |
 | Ascended Realms | 137683 | [137683-ascended-realms.json](./137683-ascended-realms.json) |
 | Ascending Pinball | 26684 | [26684-ascending-pinball.json](./26684-ascending-pinball.json) |
 | Ascending: Dojo | 170523 | [170523-ascending-dojo.json](./170523-ascending-dojo.json) |
