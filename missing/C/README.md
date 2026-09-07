@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caduca | 412969 | [412969-caduca.json](./412969-caduca.json) |
 | Caesar's Travels | 73307 | [73307-caesars-travels.json](./73307-caesars-travels.json) |
 | Caesars Palace | 365687 | [365687-caesars-palace.json](./365687-caesars-palace.json) |
+| Caesars Palace 64 | 297465 | [297465-caesars-palace-64.json](./297465-caesars-palace-64.json) |
 | Café Bouvardie | 225269 | [225269-cafe-bouvardie.json](./225269-cafe-bouvardie.json) |
 | Cafe Cuillere | 141888 | [141888-cafe-cuillere.json](./141888-cafe-cuillere.json) |
 | Café Enchanté: Limited Edition | 254787 | [254787-cafe-enchante-limited-edition.json](./254787-cafe-enchante-limited-edition.json) |
