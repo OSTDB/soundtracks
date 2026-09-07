@@ -1757,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BOREWORKS | 413654 | [413654-boreworks.json](./413654-boreworks.json) |
 | Boring Game | 166741 | [166741-boring-game.json](./166741-boring-game.json) |
 | Boring in paradise | 156657 | [156657-boring-in-paradise.json](./156657-boring-in-paradise.json) |
+| Boring Movies | 296382 | [296382-boring-movies.json](./296382-boring-movies.json) |
 | Boring Movies: Boring Television | 362307 | [362307-boring-movies-boring-television.json](./362307-boring-movies-boring-television.json) |
 | Boring Movies: Friends of Stolen Jewelry | 362310 | [362310-boring-movies-friends-of-stolen-jewelry.json](./362310-boring-movies-friends-of-stolen-jewelry.json) |
 | Boring Movies: Groovy Chainsaw Man | 362309 | [362309-boring-movies-groovy-chainsaw-man.json](./362309-boring-movies-groovy-chainsaw-man.json) |
@@ -1932,7 +1933,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Arms | 65527 | [65527-brave-arms.json](./65527-brave-arms.json) |
 | Brave Cano | 174350 | [174350-brave-cano.json](./174350-brave-cano.json) |
 | Brave Heroes | 208604 | [208604-brave-heroes.json](./208604-brave-heroes.json) |
+| Brave Legacy | 296379 | [296379-brave-legacy.json](./296379-brave-legacy.json) |
 | Brave Mouse Cartographer Trilogy | 139476 | [139476-brave-mouse-cartographer-trilogy.json](./139476-brave-mouse-cartographer-trilogy.json) |
+| Brave Quest | 296378 | [296378-brave-quest.json](./296378-brave-quest.json) |
 | Brave Sword | 329395 | [329395-brave-sword.json](./329395-brave-sword.json) |
 | Brave Tank Hero | 210270 | [210270-brave-tank-hero.json](./210270-brave-tank-hero.json) |
 | Brave the Dungeon | 242224 | [242224-brave-the-dungeon.json](./242224-brave-the-dungeon.json) |
