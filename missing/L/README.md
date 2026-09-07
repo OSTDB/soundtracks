@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Call BBS | 205064 | [205064-last-call-bbs.json](./205064-last-call-bbs.json) |
 | Last Card Dungeon | 370139 | [370139-last-card-dungeon.json](./370139-last-card-dungeon.json) |
 | Last Case | 377058 | [377058-last-case.json](./377058-last-case.json) |
+| Last Caveman | 278972 | [278972-last-caveman.json](./278972-last-caveman.json) |
 | Last Chaos | 90316 | [90316-last-chaos.json](./90316-last-chaos.json) |
 | Last Contingency | 152902 | [152902-last-contingency.json](./152902-last-contingency.json) |
 | Last Days of Future | 226446 | [226446-last-days-of-future.json](./226446-last-days-of-future.json) |
@@ -698,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilith Rising: Season 2 | 296929 | [296929-lilith-rising-season-2.json](./296929-lilith-rising-season-2.json) |
 | Lilium | 128653 | [128653-lilium.json](./128653-lilium.json) |
 | Lilly Knight and the Three Cities of Lust | 127999 | [127999-lilly-knight-and-the-three-cities-of-lust.json](./127999-lilly-knight-and-the-three-cities-of-lust.json) |
+| Lily Fantasia | 278975 | [278975-lily-fantasia.json](./278975-lily-fantasia.json) |
 | Lily of the Hollow | 115038 | [115038-lily-of-the-hollow.json](./115038-lily-of-the-hollow.json) |
 | Lily Story | 338543 | [338543-lily-story.json](./338543-lily-story.json) |
 | Lily: Shiroki Yuri no Otome-tachi S | 222504 | [222504-lily-shiroki-yuri-no-otome-tachi-s.json](./222504-lily-shiroki-yuri-no-otome-tachi-s.json) |
@@ -1008,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Tunes: Back in Action | 3979 | [3979-looney-tunes-back-in-action.json](./3979-looney-tunes-back-in-action.json) |
 | Looney Tunes: Wacky World of Sports - Deluxe Edition | 315873 | [315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json](./315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json) |
 | Loony | 197934 | [197934-loony.json](./197934-loony.json) |
+| Loop | 279011 | [279011-loop.json](./279011-loop.json) |
 | Loop Dungeon | 248321 | [248321-loop-dungeon.json](./248321-loop-dungeon.json) |
 | Loop Frogs | 284893 | [284893-loop-frogs.json](./284893-loop-frogs.json) |
 | Loop Hero: Deluxe Edition | 248294 | [248294-loop-hero-deluxe-edition.json](./248294-loop-hero-deluxe-edition.json) |
@@ -1044,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loppi Puzzle Magazine: Kangaeru Dai-3-gou | 226400 | [226400-loppi-puzzle-magazine-kangaeru-dai-3-gou.json](./226400-loppi-puzzle-magazine-kangaeru-dai-3-gou.json) |
 | Loppi Puzzle Magazine: Kangaeru Puzzle Soukangou | 226401 | [226401-loppi-puzzle-magazine-kangaeru-puzzle-soukangou.json](./226401-loppi-puzzle-magazine-kangaeru-puzzle-soukangou.json) |
 | Lord and Maiden | 404869 | [404869-lord-and-maiden.json](./404869-lord-and-maiden.json) |
+| Lord of Darkness: Aftermath | 279014 | [279014-lord-of-darkness-aftermath.json](./279014-lord-of-darkness-aftermath.json) |
 | Lord of Ogre | 365078 | [365078-lord-of-ogre.json](./365078-lord-of-ogre.json) |
 | Lord of the Click 3 | 197410 | [197410-lord-of-the-click-3.json](./197410-lord-of-the-click-3.json) |
 | Lord of the Dark Castle | 35761 | [35761-lord-of-the-dark-castle.json](./35761-lord-of-the-dark-castle.json) |
@@ -1088,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost God | 24939 | [24939-lost-god.json](./24939-lost-god.json) |
 | Lost Grimoires 2: Shard of Mystery | 29961 | [29961-lost-grimoires-2-shard-of-mystery.json](./29961-lost-grimoires-2-shard-of-mystery.json) |
 | Lost Harem | 173823 | [173823-lost-harem.json](./173823-lost-harem.json) |
+| Lost Harmony | 278978 | [278978-lost-harmony.json](./278978-lost-harmony.json) |
 | Lost Heroes | 64953 | [64953-lost-heroes.json](./64953-lost-heroes.json) |
 | Lost Horizon | 200193 | [200193-lost-horizon.json](./200193-lost-horizon.json) |
 | Lost in a Forest | 35895 | [35895-lost-in-a-forest.json](./35895-lost-in-a-forest.json) |
