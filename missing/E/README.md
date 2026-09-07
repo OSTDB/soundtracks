@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldritchvania | 223680 | [223680-eldritchvania.json](./223680-eldritchvania.json) |
 | Ele Blaze | 68662 | [68662-ele-blaze.json](./68662-ele-blaze.json) |
 | Ele-Mental | 149082 | [149082-ele-mental.json](./149082-ele-mental.json) |
+| EleBall | 302944 | [302944-eleball.json](./302944-eleball.json) |
 | Elecade | 400907 | [400907-elecade.json](./400907-elecade.json) |
 | Elect | 331720 | [331720-elect.json](./331720-elect.json) |
 | Electric Dreams | 313124 | [313124-electric-dreams.json](./313124-electric-dreams.json) |
@@ -867,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everstill Valley | 394899 | [394899-everstill-valley.json](./394899-everstill-valley.json) |
 | Evertales | 23927 | [23927-evertales.json](./23927-evertales.json) |
 | Every Ending Is A New Beginning | 184131 | [184131-every-ending-is-a-new-beginning.json](./184131-every-ending-is-a-new-beginning.json) |
+| Every Hue of You | 302954 | [302954-every-hue-of-you.json](./302954-every-hue-of-you.json) |
 | Every Wednesday | 387366 | [387366-every-wednesday.json](./387366-every-wednesday.json) |
 | Every Year Banjir | 254765 | [254765-every-year-banjir.json](./254765-every-year-banjir.json) |
 | Everybody Herds | 350425 | [350425-everybody-herds.json](./350425-everybody-herds.json) |
