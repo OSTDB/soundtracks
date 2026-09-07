@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie All Star Vol. 2 | 320759 | [320759-indie-all-star-vol-2.json](./320759-indie-all-star-vol-2.json) |
 | Indie Bungle 2: Breakout Indies | 414340 | [414340-indie-bungle-2-breakout-indies.json](./414340-indie-bungle-2-breakout-indies.json) |
 | Indie Gems Bundle: JRPG Edition | 129805 | [129805-indie-gems-bundle-jrpg-edition.json](./129805-indie-gems-bundle-jrpg-edition.json) |
+| Indie Nights: Nightmare in Yellow Pine | 277289 | [277289-indie-nights-nightmare-in-yellow-pine.json](./277289-indie-nights-nightmare-in-yellow-pine.json) |
 | Indiepocalypse #61 | 336536 | [336536-indiepocalypse-61.json](./336536-indiepocalypse-61.json) |
 | Indiepocalypse #68 | 382208 | [382208-indiepocalypse-68.json](./382208-indiepocalypse-68.json) |
 | Indiepocalypse #69 | 382205 | [382205-indiepocalypse-69.json](./382205-indiepocalypse-69.json) |
