@@ -1502,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simply Chess | 17604 | [17604-simply-chess.json](./17604-simply-chess.json) |
 | Simply Cubic | 253586 | [253586-simply-cubic.json](./253586-simply-cubic.json) |
 | Simply Puzzles: Codewords | 163424 | [163424-simply-puzzles-codewords.json](./163424-simply-puzzles-codewords.json) |
+| Simply Rotate | 285482 | [285482-simply-rotate.json](./285482-simply-rotate.json) |
 | Simstory: Live As You Wish | 101573 | [101573-simstory-live-as-you-wish.json](./101573-simstory-live-as-you-wish.json) |
 | SimTown | 20194 | [20194-simtown.json](./20194-simtown.json) |
 | Simulacro | 344363 | [344363-simulacro.json](./344363-simulacro.json) |
@@ -2681,6 +2682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Misfits | 123040 | [123040-space-misfits.json](./123040-space-misfits.json) |
 | Space on the Case | 310961 | [310961-space-on-the-case.json](./310961-space-on-the-case.json) |
 | Space Operation | 273661 | [273661-space-operation.json](./273661-space-operation.json) |
+| Space Ops Arcade | 285480 | [285480-space-ops-arcade.json](./285480-space-ops-arcade.json) |
 | Space Pilgrim Academy: Year 2 | 95596 | [95596-space-pilgrim-academy-year-2.json](./95596-space-pilgrim-academy-year-2.json) |
 | Space Pilgrim Academy: Year 3 | 109399 | [109399-space-pilgrim-academy-year-3.json](./109399-space-pilgrim-academy-year-3.json) |
 | Space Pilgrim Episode II: Epsilon Indi | 33810 | [33810-space-pilgrim-episode-ii-epsilon-indi.json](./33810-space-pilgrim-episode-ii-epsilon-indi.json) |
@@ -2882,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider | 320132 | [320132-spider.json](./320132-spider.json) |
 | Spider Bounce | 263745 | [263745-spider-bounce.json](./263745-spider-bounce.json) |
 | Spider Canyon | 332990 | [332990-spider-canyon.json](./332990-spider-canyon.json) |
+| Spider Inferno | 285460 | [285460-spider-inferno.json](./285460-spider-inferno.json) |
 | Spider Lander | 111723 | [111723-spider-lander.json](./111723-spider-lander.json) |
 | Spider Matrix | 408780 | [408780-spider-matrix.json](./408780-spider-matrix.json) |
 | Spider Roulette | 386694 | [386694-spider-roulette.json](./386694-spider-roulette.json) |
@@ -3781,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Red: Devil's Dare | 126045 | [126045-streets-of-red-devils-dare.json](./126045-streets-of-red-devils-dare.json) |
 | Streets of Rogue | 23275 | [23275-streets-of-rogue.json](./23275-streets-of-rogue.json) |
 | StreetSync | 332983 | [332983-streetsync.json](./332983-streetsync.json) |
+| Stress Ball | 285448 | [285448-stress-ball.json](./285448-stress-ball.json) |
 | Stress Test | 200168 | [200168-stress-test.json](./200168-stress-test.json) |
 | Stress, Out! | 258716 | [258716-stress-out.json](./258716-stress-out.json) |
 | StressRoom | 301256 | [301256-stressroom.json](./301256-stressroom.json) |
@@ -4195,6 +4199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Sunsets Puzzles | 155630 | [155630-super-jigsaw-puzzle-generations-sunsets-puzzles.json](./155630-super-jigsaw-puzzle-generations-sunsets-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - USA Puzzles | 155634 | [155634-super-jigsaw-puzzle-generations-usa-puzzles.json](./155634-super-jigsaw-puzzle-generations-usa-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Vegetables 2 | 396204 | [396204-super-jigsaw-puzzle-generations-vegetables-2.json](./396204-super-jigsaw-puzzle-generations-vegetables-2.json) |
+| Super Jigsaw Puzzle: Generations - Waterfalls 2 | 285471 | [285471-super-jigsaw-puzzle-generations-waterfalls-2.json](./285471-super-jigsaw-puzzle-generations-waterfalls-2.json) |
 | Super Jigsaw Puzzle: Generations - Winter 2023 | 273631 | [273631-super-jigsaw-puzzle-generations-winter-2023.json](./273631-super-jigsaw-puzzle-generations-winter-2023.json) |
 | Super Jump Guys | 267683 | [267683-super-jump-guys.json](./267683-super-jump-guys.json) |
 | Super Karts | 50614 | [50614-super-karts.json](./50614-super-karts.json) |
