@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Bees 10 | 224776 | [224776-i-commissioned-some-bees-10.json](./224776-i-commissioned-some-bees-10.json) |
 | I Commissioned Some Bees 2 | 205245 | [205245-i-commissioned-some-bees-2.json](./205245-i-commissioned-some-bees-2.json) |
 | I Commissioned Some Bees Advent | 228084 | [228084-i-commissioned-some-bees-advent.json](./228084-i-commissioned-some-bees-advent.json) |
+| I Commissioned Some Bunnies 10 | 306993 | [306993-i-commissioned-some-bunnies-10.json](./306993-i-commissioned-some-bunnies-10.json) |
 | I Commissioned Some Snails 2 | 337083 | [337083-i-commissioned-some-snails-2.json](./337083-i-commissioned-some-snails-2.json) |
 | I Commissioned Some Unicorns | 257692 | [257692-i-commissioned-some-unicorns.json](./257692-i-commissioned-some-unicorns.json) |
 | I Did a Bad Thing | 229370 | [229370-i-did-a-bad-thing.json](./229370-i-did-a-bad-thing.json) |
