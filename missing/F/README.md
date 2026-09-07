@@ -1461,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fred Fuches Around | 397693 | [397693-fred-fuches-around.json](./397693-fred-fuches-around.json) |
 | Fred Johnson's: Mech Simulator | 326429 | [326429-fred-johnsons-mech-simulator.json](./326429-fred-johnsons-mech-simulator.json) |
 | Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch | 3746 | [3746-freddi-fish-4-the-case-of-the-hogfish-rustlers-of-briny-gulch.json](./3746-freddi-fish-4-the-case-of-the-hogfish-rustlers-of-briny-gulch.json) |
+| Freddi Fish Collection | 300717 | [300717-freddi-fish-collection.json](./300717-freddi-fish-collection.json) |
 | Freddy Fazbear's Pizzeria Simulator VR | 231618 | [231618-freddy-fazbears-pizzeria-simulator-vr.json](./231618-freddy-fazbears-pizzeria-simulator-vr.json) |
 | Freddy Hardest in Manhattan South | 45333 | [45333-freddy-hardest-in-manhattan-south.json](./45333-freddy-hardest-in-manhattan-south.json) |
 | Freddy's Journey | 104083 | [104083-freddys-journey.json](./104083-freddys-journey.json) |
@@ -1761,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fururu Project : Ruby | 114366 | [114366-fururu-project-ruby.json](./114366-fururu-project-ruby.json) |
 | Fury of Dracula: Digital Edition | 129189 | [129189-fury-of-dracula-digital-edition.json](./129189-fury-of-dracula-digital-edition.json) |
 | Fury Strike | 107918 | [107918-fury-strike.json](./107918-fury-strike.json) |
+| FuryDough | 300675 | [300675-furydough.json](./300675-furydough.json) |
 | FuryFury | 234910 | [234910-furyfury.json](./234910-furyfury.json) |
 | Fuse | 381030 | [381030-fuse.json](./381030-fuse.json) |
 | Fushigi Deka | 59442 | [59442-fushigi-deka.json](./59442-fushigi-deka.json) |
