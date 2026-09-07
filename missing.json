@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T18:03:24.359Z",
-  "total_missing": 43052,
+  "generated_at": "2026-09-07T18:18:31.211Z",
+  "total_missing": 43102,
   "games": [
     {
       "igdb_id": 306086,
@@ -301,6 +301,11 @@
       "igdb_id": 314855,
       "game_name": "10-Second Ghost",
       "file": "missing/0-9/314855-10-second-ghost.json"
+    },
+    {
+      "igdb_id": 271729,
+      "game_name": "10,000 Feet Below",
+      "file": "missing/0-9/271729-10-000-feet-below.json"
     },
     {
       "igdb_id": 267102,
@@ -3478,6 +3483,11 @@
       "file": "missing/A/331291-a-night-with-succubus.json"
     },
     {
+      "igdb_id": 271725,
+      "game_name": "A Once Glorious City",
+      "file": "missing/A/271725-a-once-glorious-city.json"
+    },
+    {
       "igdb_id": 209704,
       "game_name": "A Pact With Me",
       "file": "missing/A/209704-a-pact-with-me.json"
@@ -4876,6 +4886,11 @@
       "igdb_id": 102877,
       "game_name": "Acid Spy",
       "file": "missing/A/102877-acid-spy.json"
+    },
+    {
+      "igdb_id": 271740,
+      "game_name": "Acid Worship",
+      "file": "missing/A/271740-acid-worship.json"
     },
     {
       "igdb_id": 79318,
@@ -22368,6 +22383,11 @@
       "file": "missing/B/190219-blackholes-stars.json"
     },
     {
+      "igdb_id": 271769,
+      "game_name": "Blackish House",
+      "file": "missing/B/271769-blackish-house.json"
+    },
+    {
       "igdb_id": 85514,
       "game_name": "Blackjack 21",
       "file": "missing/B/85514-blackjack-21.json"
@@ -26296,6 +26316,11 @@
       "igdb_id": 342616,
       "game_name": "Breakfall: Nuclear Winter",
       "file": "missing/B/342616-breakfall-nuclear-winter.json"
+    },
+    {
+      "igdb_id": 271771,
+      "game_name": "Breakfast at Twilight",
+      "file": "missing/B/271771-breakfast-at-twilight.json"
     },
     {
       "igdb_id": 315875,
@@ -30738,6 +30763,11 @@
       "file": "missing/C/331315-castle-of-shikigami-3.json"
     },
     {
+      "igdb_id": 271754,
+      "game_name": "Castle of The Dark Ages",
+      "file": "missing/C/271754-castle-of-the-dark-ages.json"
+    },
+    {
       "igdb_id": 259856,
       "game_name": "Castle Push",
       "file": "missing/C/259856-castle-push.json"
@@ -31686,6 +31716,11 @@
       "igdb_id": 389407,
       "game_name": "Caves of Qud: Pets of Harvest Dawn",
       "file": "missing/C/389407-caves-of-qud-pets-of-harvest-dawn.json"
+    },
+    {
+      "igdb_id": 271774,
+      "game_name": "Caves, Canyons & Crevices",
+      "file": "missing/C/271774-caves-canyons-and-crevices.json"
     },
     {
       "igdb_id": 317012,
@@ -43038,6 +43073,11 @@
       "file": "missing/D/108504-daredevil-dynamite.json"
     },
     {
+      "igdb_id": 271759,
+      "game_name": "Daredevil's Descent & Cryogenic Crypt",
+      "file": "missing/D/271759-daredevils-descent-and-cryogenic-crypt.json"
+    },
+    {
       "igdb_id": 217030,
       "game_name": "Darfall",
       "file": "missing/D/217030-darfall.json"
@@ -48006,6 +48046,11 @@
       "igdb_id": 89608,
       "game_name": "Dimension of Monster Girls",
       "file": "missing/D/89608-dimension-of-monster-girls.json"
+    },
+    {
+      "igdb_id": 271723,
+      "game_name": "Dimension of the Diminished",
+      "file": "missing/D/271723-dimension-of-the-diminished.json"
     },
     {
       "igdb_id": 349330,
@@ -59138,6 +59183,11 @@
       "file": "missing/E/217020-evening-vibes.json"
     },
     {
+      "igdb_id": 271755,
+      "game_name": "Event Horizon",
+      "file": "missing/E/271755-event-horizon.json"
+    },
+    {
       "igdb_id": 295523,
       "game_name": "Event World VR",
       "file": "missing/E/295523-event-world-vr.json"
@@ -67283,6 +67333,11 @@
       "file": "missing/F/132816-fort-apache.json"
     },
     {
+      "igdb_id": 271753,
+      "game_name": "Fort Driant",
+      "file": "missing/F/271753-fort-driant.json"
+    },
+    {
       "igdb_id": 261540,
       "game_name": "Fort Solis: Limited Edition",
       "file": "missing/F/261540-fort-solis-limited-edition.json"
@@ -67481,6 +67536,11 @@
       "igdb_id": 25106,
       "game_name": "Forward March: Attack! Deluxe",
       "file": "missing/F/25106-forward-march-attack-deluxe.json"
+    },
+    {
+      "igdb_id": 271742,
+      "game_name": "Forwards Compatible",
+      "file": "missing/F/271742-forwards-compatible.json"
     },
     {
       "igdb_id": 132825,
@@ -78033,6 +78093,11 @@
       "file": "missing/H/77343-halo-4-king-of-the-hill-fueled-by-mountain-dew.json"
     },
     {
+      "igdb_id": 271760,
+      "game_name": "Halo Chaotic Edition",
+      "file": "missing/H/271760-halo-chaotic-edition.json"
+    },
+    {
       "igdb_id": 335851,
       "game_name": "Halo Infinite: Operation - Champions",
       "file": "missing/H/335851-halo-infinite-operation-champions.json"
@@ -80303,6 +80368,11 @@
       "file": "missing/H/219826-hell-grocery.json"
     },
     {
+      "igdb_id": 271762,
+      "game_name": "Hell in a Can",
+      "file": "missing/H/271762-hell-in-a-can.json"
+    },
+    {
       "igdb_id": 280765,
       "game_name": "Hell Inspector's Mod of Stupidity",
       "file": "missing/H/280765-hell-inspectors-mod-of-stupidity.json"
@@ -81706,6 +81776,11 @@
       "igdb_id": 337635,
       "game_name": "Hexalert",
       "file": "missing/H/337635-hexalert.json"
+    },
+    {
+      "igdb_id": 271773,
+      "game_name": "Hexameron: Phase One",
+      "file": "missing/H/271773-hexameron-phase-one.json"
     },
     {
       "igdb_id": 110601,
@@ -88288,6 +88363,11 @@
       "file": "missing/I/324902-industrial-annihilation.json"
     },
     {
+      "igdb_id": 271750,
+      "game_name": "Industrial Combat",
+      "file": "missing/I/271750-industrial-combat.json"
+    },
+    {
       "igdb_id": 53228,
       "game_name": "Industry Giant 2 - Gold 2012",
       "file": "missing/I/53228-industry-giant-2-gold-2012.json"
@@ -94833,6 +94913,11 @@
       "file": "missing/K/277580-keep-up.json"
     },
     {
+      "igdb_id": 271748,
+      "game_name": "Keeper Of The Hell Gate",
+      "file": "missing/K/271748-keeper-of-the-hell-gate.json"
+    },
+    {
       "igdb_id": 306062,
       "game_name": "Keepers 1477",
       "file": "missing/K/306062-keepers-1477.json"
@@ -98451,6 +98536,11 @@
       "igdb_id": 119030,
       "game_name": "Lair Land Story: Remake Edition",
       "file": "missing/L/119030-lair-land-story-remake-edition.json"
+    },
+    {
+      "igdb_id": 271735,
+      "game_name": "Lair Of The Dragon Ogre",
+      "file": "missing/L/271735-lair-of-the-dragon-ogre.json"
     },
     {
       "igdb_id": 291220,
@@ -107908,6 +107998,11 @@
       "file": "missing/M/82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json"
     },
     {
+      "igdb_id": 271746,
+      "game_name": "Mars Base Excavation Incident",
+      "file": "missing/M/271746-mars-base-excavation-incident.json"
+    },
+    {
       "igdb_id": 202382,
       "game_name": "Mars for the Rich",
       "file": "missing/M/202382-mars-for-the-rich.json"
@@ -108076,6 +108171,11 @@
       "igdb_id": 19663,
       "game_name": "Marvel Super Hero Squad Online",
       "file": "missing/M/19663-marvel-super-hero-squad-online.json"
+    },
+    {
+      "igdb_id": 271768,
+      "game_name": "Marvel Super Heroes: War Of The Gems",
+      "file": "missing/M/271768-marvel-super-heroes-war-of-the-gems.json"
     },
     {
       "igdb_id": 122700,
@@ -113773,6 +113873,11 @@
       "file": "missing/M/42021-mirai-shounen-conan.json"
     },
     {
+      "igdb_id": 271728,
+      "game_name": "Mírame",
+      "file": "missing/M/271728-mirame.json"
+    },
+    {
       "igdb_id": 55208,
       "game_name": "Mirax Force",
       "file": "missing/M/55208-mirax-force.json"
@@ -114036,6 +114141,11 @@
       "igdb_id": 210855,
       "game_name": "Mission: Driver",
       "file": "missing/M/210855-mission-driver.json"
+    },
+    {
+      "igdb_id": 271726,
+      "game_name": "Mission: Escape",
+      "file": "missing/M/271726-mission-escape.json"
     },
     {
       "igdb_id": 73325,
@@ -116306,6 +116416,16 @@
       "igdb_id": 248313,
       "game_name": "Morbid Catastrophe",
       "file": "missing/M/248313-morbid-catastrophe.json"
+    },
+    {
+      "igdb_id": 271757,
+      "game_name": "Morbidity: 1",
+      "file": "missing/M/271757-morbidity-1.json"
+    },
+    {
+      "igdb_id": 271758,
+      "game_name": "Morbidity: 2",
+      "file": "missing/M/271758-morbidity-2.json"
     },
     {
       "igdb_id": 385050,
@@ -121281,6 +121401,11 @@
       "igdb_id": 173317,
       "game_name": "Necromancer's Gift",
       "file": "missing/N/173317-necromancers-gift.json"
+    },
+    {
+      "igdb_id": 271734,
+      "game_name": "Necromanicide",
+      "file": "missing/N/271734-necromanicide.json"
     },
     {
       "igdb_id": 304048,
@@ -128908,6 +129033,11 @@
       "file": "missing/O/285969-orb-of-the-watcher.json"
     },
     {
+      "igdb_id": 271732,
+      "game_name": "Orb's Betrayal",
+      "file": "missing/O/271732-orbs-betrayal.json"
+    },
+    {
       "igdb_id": 88028,
       "game_name": "Orbia",
       "file": "missing/O/88028-orbia.json"
@@ -131611,6 +131741,11 @@
       "igdb_id": 356065,
       "game_name": "Paragon Sex A Doll",
       "file": "missing/P/356065-paragon-sex-a-doll.json"
+    },
+    {
+      "igdb_id": 271743,
+      "game_name": "Parallax",
+      "file": "missing/P/271743-parallax.json"
     },
     {
       "igdb_id": 292841,
@@ -139433,6 +139568,11 @@
       "file": "missing/P/105361-primitive-survival.json"
     },
     {
+      "igdb_id": 271724,
+      "game_name": "Primo",
+      "file": "missing/P/271724-primo.json"
+    },
+    {
       "igdb_id": 302150,
       "game_name": "Primo Richards: Case 1",
       "file": "missing/P/302150-primo-richards-case-1.json"
@@ -140536,6 +140676,11 @@
       "igdb_id": 255379,
       "game_name": "Project Parasite",
       "file": "missing/P/255379-project-parasite.json"
+    },
+    {
+      "igdb_id": 271727,
+      "game_name": "Project Playtime: Phase 3 - Forsaken",
+      "file": "missing/P/271727-project-playtime-phase-3-forsaken.json"
     },
     {
       "igdb_id": 211950,
@@ -147613,6 +147758,11 @@
       "file": "missing/R/77220-return-to-castle-wolfenstein-tides-of-war.json"
     },
     {
+      "igdb_id": 271737,
+      "game_name": "Return to Dust",
+      "file": "missing/R/271737-return-to-dust.json"
+    },
+    {
       "igdb_id": 157182,
       "game_name": "Return to Earth 2130",
       "file": "missing/R/157182-return-to-earth-2130.json"
@@ -148156,6 +148306,11 @@
       "igdb_id": 199616,
       "game_name": "Rich Lady's Slave Role Play",
       "file": "missing/R/199616-rich-ladys-slave-role-play.json"
+    },
+    {
+      "igdb_id": 271749,
+      "game_name": "Rich Mahogany and Human Leather-Bound Books",
+      "file": "missing/R/271749-rich-mahogany-and-human-leather-bound-books.json"
     },
     {
       "igdb_id": 297811,
@@ -152058,6 +152213,11 @@
       "file": "missing/R/215909-runic-survivor.json"
     },
     {
+      "igdb_id": 271745,
+      "game_name": "Runic Warrens",
+      "file": "missing/R/271745-runic-warrens.json"
+    },
+    {
       "igdb_id": 25735,
       "game_name": "Runion",
       "file": "missing/R/25735-runion.json"
@@ -152271,6 +152431,11 @@
       "igdb_id": 165693,
       "game_name": "Rust 'n Dust",
       "file": "missing/R/165693-rust-n-dust.json"
+    },
+    {
+      "igdb_id": 271765,
+      "game_name": "Rust in Peace",
+      "file": "missing/R/271765-rust-in-peace.json"
     },
     {
       "igdb_id": 341511,
@@ -159776,6 +159941,11 @@
       "igdb_id": 1356,
       "game_name": "Silhouette Mirage",
       "file": "missing/S/1356-silhouette-mirage.json"
+    },
+    {
+      "igdb_id": 271767,
+      "game_name": "Silhouette of Darkness",
+      "file": "missing/S/271767-silhouette-of-darkness.json"
     },
     {
       "igdb_id": 358889,
@@ -169916,6 +170086,11 @@
       "igdb_id": 211942,
       "game_name": "Starshifter",
       "file": "missing/S/211942-starshifter.json"
+    },
+    {
+      "igdb_id": 271761,
+      "game_name": "Starship",
+      "file": "missing/S/271761-starship.json"
     },
     {
       "igdb_id": 360605,
@@ -180068,6 +180243,11 @@
       "file": "missing/T/61621-temple-of-aluxes.json"
     },
     {
+      "igdb_id": 271736,
+      "game_name": "Temple Of Anubis: Judgement Of The Dead",
+      "file": "missing/T/271736-temple-of-anubis-judgement-of-the-dead.json"
+    },
+    {
       "igdb_id": 198562,
       "game_name": "Temple of Boonil",
       "file": "missing/T/198562-temple-of-boonil.json"
@@ -182703,6 +182883,11 @@
       "file": "missing/T/177530-the-contract.json"
     },
     {
+      "igdb_id": 271756,
+      "game_name": "The Contract",
+      "file": "missing/T/271756-the-contract.json"
+    },
+    {
       "igdb_id": 397669,
       "game_name": "The Cook in the Court of the Count",
       "file": "missing/T/397669-the-cook-in-the-court-of-the-count.json"
@@ -183713,6 +183898,11 @@
       "file": "missing/T/343235-the-end-of-gameplay.json"
     },
     {
+      "igdb_id": 271751,
+      "game_name": "The End of Solace",
+      "file": "missing/T/271751-the-end-of-solace.json"
+    },
+    {
       "igdb_id": 115033,
       "game_name": "The End of Us",
       "file": "missing/T/115033-the-end-of-us.json"
@@ -184023,6 +184213,11 @@
       "file": "missing/T/104077-the-fiends-tavern.json"
     },
     {
+      "igdb_id": 271764,
+      "game_name": "The Fierce Livid",
+      "file": "missing/T/271764-the-fierce-livid.json"
+    },
+    {
       "igdb_id": 232710,
       "game_name": "The Fifth Paradox",
       "file": "missing/T/232710-the-fifth-paradox.json"
@@ -184258,6 +184453,11 @@
       "file": "missing/T/352186-the-forgers.json"
     },
     {
+      "igdb_id": 271763,
+      "game_name": "The Forgotten Level",
+      "file": "missing/T/271763-the-forgotten-level.json"
+    },
+    {
       "igdb_id": 17656,
       "game_name": "The Forgotten Ones",
       "file": "missing/T/17656-the-forgotten-ones.json"
@@ -184458,6 +184658,11 @@
       "file": "missing/T/348237-the-gatekeeper-of-scarlets-mansion.json"
     },
     {
+      "igdb_id": 271752,
+      "game_name": "The Gateway to Hell",
+      "file": "missing/T/271752-the-gateway-to-hell.json"
+    },
+    {
       "igdb_id": 19672,
       "game_name": "The Gene Machine",
       "file": "missing/T/19672-the-gene-machine.json"
@@ -184586,6 +184791,11 @@
       "igdb_id": 322392,
       "game_name": "The Gorge",
       "file": "missing/T/322392-the-gorge.json"
+    },
+    {
+      "igdb_id": 271733,
+      "game_name": "The Grand Guignol",
+      "file": "missing/T/271733-the-grand-guignol.json"
     },
     {
       "igdb_id": 411613,
@@ -186653,6 +186863,11 @@
       "file": "missing/T/171612-the-lost-legends-of-redwall-the-scout-act-3.json"
     },
     {
+      "igdb_id": 271772,
+      "game_name": "The Lost Levels",
+      "file": "missing/T/271772-the-lost-levels.json"
+    },
+    {
       "igdb_id": 161390,
       "game_name": "The Lost Marble",
       "file": "missing/T/161390-the-lost-marble.json"
@@ -186731,6 +186946,11 @@
       "igdb_id": 12180,
       "game_name": "The Lurking Horror",
       "file": "missing/T/12180-the-lurking-horror.json"
+    },
+    {
+      "igdb_id": 271747,
+      "game_name": "The Machinery",
+      "file": "missing/T/271747-the-machinery.json"
     },
     {
       "igdb_id": 205274,
@@ -187291,6 +187511,11 @@
       "igdb_id": 180256,
       "game_name": "The Nerve Game",
       "file": "missing/T/180256-the-nerve-game.json"
+    },
+    {
+      "igdb_id": 271766,
+      "game_name": "The NetherWorld",
+      "file": "missing/T/271766-the-netherworld.json"
     },
     {
       "igdb_id": 2164,
@@ -188163,6 +188388,11 @@
       "file": "missing/T/299157-the-reshaping-of-googol-1b-the-tower.json"
     },
     {
+      "igdb_id": 271770,
+      "game_name": "The Rest is Silence",
+      "file": "missing/T/271770-the-rest-is-silence.json"
+    },
+    {
       "igdb_id": 87304,
       "game_name": "The Restless Dead",
       "file": "missing/T/87304-the-restless-dead.json"
@@ -188656,6 +188886,11 @@
       "igdb_id": 123625,
       "game_name": "The Shape You Make When You Want Your Bones to Be Closest to the Surface",
       "file": "missing/T/123625-the-shape-you-make-when-you-want-your-bones-to-be-closest-to-the-surface.json"
+    },
+    {
+      "igdb_id": 271741,
+      "game_name": "The Shark's Bathhouse",
+      "file": "missing/T/271741-the-sharks-bathhouse.json"
     },
     {
       "igdb_id": 114372,
@@ -194981,6 +195216,11 @@
       "igdb_id": 402920,
       "game_name": "Torima Headbang",
       "file": "missing/T/402920-torima-headbang.json"
+    },
+    {
+      "igdb_id": 271730,
+      "game_name": "Tormentarium",
+      "file": "missing/T/271730-tormentarium.json"
     },
     {
       "igdb_id": 283161,
@@ -203283,6 +203523,11 @@
       "file": "missing/V/395573-vengeance-justification.json"
     },
     {
+      "igdb_id": 271731,
+      "game_name": "VeniVidiFutzi",
+      "file": "missing/V/271731-venividifutzi.json"
+    },
+    {
       "igdb_id": 338573,
       "game_name": "Venomous",
       "file": "missing/V/338573-venomous.json"
@@ -211511,6 +211756,11 @@
       "igdb_id": 177032,
       "game_name": "Wrong Floor",
       "file": "missing/W/177032-wrong-floor.json"
+    },
+    {
+      "igdb_id": 271744,
+      "game_name": "Wroth",
+      "file": "missing/W/271744-wroth.json"
     },
     {
       "igdb_id": 93572,
