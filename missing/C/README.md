@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Zombie Drive | 301803 | [301803-cazzarion-zombie-drive.json](./301803-cazzarion-zombie-drive.json) |
 | CBeebies Playtime Island: Game | 321783 | [321783-cbeebies-playtime-island-game.json](./321783-cbeebies-playtime-island-game.json) |
 | CCTV | 264863 | [264863-cctv.json](./264863-cctv.json) |
+| CD Battle: Hikari no Yuushi-tachi | 267948 | [267948-cd-battle-hikari-no-yuushi-tachi.json](./267948-cd-battle-hikari-no-yuushi-tachi.json) |
 | CDL for a UFO | 386115 | [386115-cdl-for-a-ufo.json](./386115-cdl-for-a-ufo.json) |
 | Cecil Hollow | 253613 | [253613-cecil-hollow.json](./253613-cecil-hollow.json) |
 | CEdges | 68678 | [68678-cedges.json](./68678-cedges.json) |
@@ -846,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef Life: A Restaurant Simulator | 191698 | [191698-chef-life-a-restaurant-simulator.json](./191698-chef-life-a-restaurant-simulator.json) |
 | Chef Wanted | 232665 | [232665-chef-wanted.json](./232665-chef-wanted.json) |
 | Chefrens Pyramid | 142454 | [142454-chefrens-pyramid.json](./142454-chefrens-pyramid.json) |
+| Chelsea Club Football 2005 | 267908 | [267908-chelsea-club-football-2005.json](./267908-chelsea-club-football-2005.json) |
 | Chelsea of the South Sea Islands | 309339 | [309339-chelsea-of-the-south-sea-islands.json](./309339-chelsea-of-the-south-sea-islands.json) |
 | Cheollang Yeoljeon | 145657 | [145657-cheollang-yeoljeon.json](./145657-cheollang-yeoljeon.json) |
 | Cheongchunhyang Jeon | 404824 | [404824-cheongchunhyang-jeon.json](./404824-cheongchunhyang-jeon.json) |
@@ -2647,6 +2649,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Order Maid 3D2: Mature, Level-Headed, and Dependable Secretary Maid GP-01 | 296663 | [296663-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01.json](./296663-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01.json) |
 | Custom Order Maid 3D2: Mature, Level-Headed, and Dependable Secretary Maid GP-01fb | 296662 | [296662-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01fb.json](./296662-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01fb.json) |
 | Custom Order Maid 3D2: Mature, Level-Headed, and Dependable Secretary Maid GP-02 | 296661 | [296661-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-02.json](./296661-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-02.json) |
+| Custom Order Maid 3D2: Overbearing and Preppy Girl Maid GP-01 | 267947 | [267947-custom-order-maid-3d2-overbearing-and-preppy-girl-maid-gp-01.json](./267947-custom-order-maid-3d2-overbearing-and-preppy-girl-maid-gp-01.json) |
+| Custom Order Maid 3D2: Overbearing and Preppy Girl Maid GP-01fb | 267946 | [267946-custom-order-maid-3d2-overbearing-and-preppy-girl-maid-gp-01fb.json](./267946-custom-order-maid-3d2-overbearing-and-preppy-girl-maid-gp-01fb.json) |
+| Custom Order Maid 3D2: Overbearing and Preppy Girl Maid GP-02 | 267945 | [267945-custom-order-maid-3d2-overbearing-and-preppy-girl-maid-gp-02.json](./267945-custom-order-maid-3d2-overbearing-and-preppy-girl-maid-gp-02.json) |
 | Custom Order Maid 3D2: Soft Cuddly Girl GP-01 | 290937 | [290937-custom-order-maid-3d2-soft-cuddly-girl-gp-01.json](./290937-custom-order-maid-3d2-soft-cuddly-girl-gp-01.json) |
 | Custom Order Maid 3D2: Soft Cuddly Girl GP-01fb | 290940 | [290940-custom-order-maid-3d2-soft-cuddly-girl-gp-01fb.json](./290940-custom-order-maid-3d2-soft-cuddly-girl-gp-01fb.json) |
 | Custom Order Maid 3D2: Soft Cuddly Girl GP-02 | 290935 | [290935-custom-order-maid-3d2-soft-cuddly-girl-gp-02.json](./290935-custom-order-maid-3d2-soft-cuddly-girl-gp-02.json) |
