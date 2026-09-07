@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Cat 3 | 356074 | [356074-castle-cat-3.json](./356074-castle-cat-3.json) |
 | Castle Creeps Battle | 105908 | [105908-castle-creeps-battle.json](./105908-castle-creeps-battle.json) |
 | Castle Crisis | 40782 | [40782-castle-crisis.json](./40782-castle-crisis.json) |
+| Castle Defender | 273909 | [273909-castle-defender.json](./273909-castle-defender.json) |
 | Castle Fantasia: Erencia Senki - Plus Stories | 408777 | [408777-castle-fantasia-erencia-senki-plus-stories.json](./408777-castle-fantasia-erencia-senki-plus-stories.json) |
 | Castle Formers | 154026 | [154026-castle-formers.json](./154026-castle-formers.json) |
 | Castle Hassle | 59452 | [59452-castle-hassle.json](./59452-castle-hassle.json) |
@@ -739,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager 2 | 37133 | [37133-championship-manager-2.json](./37133-championship-manager-2.json) |
 | Championship Manager: Season 03/04 | 628 | [628-championship-manager-season-03-04.json](./628-championship-manager-season-03-04.json) |
 | Championship Wrestling Promoter | 199124 | [199124-championship-wrestling-promoter.json](./199124-championship-wrestling-promoter.json) |
+| ChampionsTCG | 273920 | [273920-championstcg.json](./273920-championstcg.json) |
 | Champoo Club | 172200 | [172200-champoo-club.json](./172200-champoo-club.json) |
 | Champs TD | 210862 | [210862-champs-td.json](./210862-champs-td.json) |
 | Chance | 387323 | [387323-chance.json](./387323-chance.json) |
@@ -1198,6 +1200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Parklife Edition | 205268 | [205268-cities-skylines-parklife-edition.json](./205268-cities-skylines-parklife-edition.json) |
 | Cities: Skylines - Piano Tunes Radio | 257084 | [257084-cities-skylines-piano-tunes-radio.json](./257084-cities-skylines-piano-tunes-radio.json) |
 | Cities: Skylines - Race Day | 393462 | [393462-cities-skylines-race-day.json](./393462-cities-skylines-race-day.json) |
+| Cities: Skylines II - Ultimate Edition | 273942 | [273942-cities-skylines-ii-ultimate-edition.json](./273942-cities-skylines-ii-ultimate-edition.json) |
 | Citizen Conflict | 248301 | [248301-citizen-conflict.json](./248301-citizen-conflict.json) |
 | Citizen Pain | 348269 | [348269-citizen-pain.json](./348269-citizen-pain.json) |
 | Citizen Witch | 184650 | [184650-citizen-witch.json](./184650-citizen-witch.json) |
@@ -1342,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cliffhanger | 81446 | [81446-cliffhanger.json](./81446-cliffhanger.json) |
 | Climb and Fall Dice Adventure | 242205 | [242205-climb-and-fall-dice-adventure.json](./242205-climb-and-fall-dice-adventure.json) |
 | Climb Challenge: Castle | 213019 | [213019-climb-challenge-castle.json](./213019-climb-challenge-castle.json) |
+| Climb It | 273910 | [273910-climb-it.json](./273910-climb-it.json) |
 | Climb the Tower | 268185 | [268185-climb-the-tower.json](./268185-climb-the-tower.json) |
 | Climber | 269843 | [269843-climber.json](./269843-climber.json) |
 | Climbing Simplified | 392812 | [392812-climbing-simplified.json](./392812-climbing-simplified.json) |
@@ -1706,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Competition Karate | 25780 | [25780-competition-karate.json](./25780-competition-karate.json) |
 | Compilation Assassin's Creed: Brotherhood + Revelations | 151207 | [151207-compilation-assassins-creed-brotherhood-revelations.json](./151207-compilation-assassins-creed-brotherhood-revelations.json) |
 | Completion LawnCare | 216454 | [216454-completion-lawncare.json](./216454-completion-lawncare.json) |
+| Complex Complex | 273924 | [273924-complex-complex.json](./273924-complex-complex.json) |
 | Compound Word Puzzles 2 | 359997 | [359997-compound-word-puzzles-2.json](./359997-compound-word-puzzles-2.json) |
 | Compulsive | 250661 | [250661-compulsive.json](./250661-compulsive.json) |
 | Computer Baseball | 245531 | [245531-computer-baseball.json](./245531-computer-baseball.json) |
@@ -2178,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Market | 62750 | [62750-crazy-market.json](./62750-crazy-market.json) |
 | Crazy Mouse | 74410 | [74410-crazy-mouse.json](./74410-crazy-mouse.json) |
 | Crazy One | 242791 | [242791-crazy-one.json](./242791-crazy-one.json) |
+| Crazy People | 273960 | [273960-crazy-people.json](./273960-crazy-people.json) |
 | Crazy Pizza Boy | 242214 | [242214-crazy-pizza-boy.json](./242214-crazy-pizza-boy.json) |
 | Crazy Pocket | 413613 | [413613-crazy-pocket.json](./413613-crazy-pocket.json) |
 | Crazy School: Schulverweis! | 327219 | [327219-crazy-school-schulverweis.json](./327219-crazy-school-schulverweis.json) |
