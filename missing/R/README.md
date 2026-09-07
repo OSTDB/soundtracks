@@ -1065,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Nations | 848 | [848-rise-of-nations.json](./848-rise-of-nations.json) |
 | Rise of SamuraizerzZz | 156664 | [156664-rise-of-samuraizerzzz.json](./156664-rise-of-samuraizerzzz.json) |
 | Rise of the Bugs | 304592 | [304592-rise-of-the-bugs.json](./304592-rise-of-the-bugs.json) |
+| Rise of the Eternal | 288756 | [288756-rise-of-the-eternal.json](./288756-rise-of-the-eternal.json) |
 | Rise of The Fey | 82120 | [82120-rise-of-the-fey.json](./82120-rise-of-the-fey.json) |
 | Rise of the Ghostdom | 210895 | [210895-rise-of-the-ghostdom.json](./210895-rise-of-the-ghostdom.json) |
 | Rise of the Outcast Hero | 297202 | [297202-rise-of-the-outcast-hero.json](./297202-rise-of-the-outcast-hero.json) |
@@ -1233,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band: Metal Track Pack | 67778 | [67778-rock-band-metal-track-pack.json](./67778-rock-band-metal-track-pack.json) |
 | Rock Bottom | 141856 | [141856-rock-bottom.json](./141856-rock-bottom.json) |
 | Rock Bottom | 304339 | [304339-rock-bottom.json](./304339-rock-bottom.json) |
+| Rock Climbing? | 288790 | [288790-rock-climbing.json](./288790-rock-climbing.json) |
 | Rock Defender | 26650 | [26650-rock-defender.json](./26650-rock-defender.json) |
 | Rock Flipper | 332808 | [332808-rock-flipper.json](./332808-rock-flipper.json) |
 | Rock Gunner | 356621 | [356621-rock-gunner.json](./356621-rock-gunner.json) |
