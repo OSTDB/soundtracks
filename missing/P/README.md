@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pen Fight | 233760 | [233760-pen-fight.json](./233760-pen-fight.json) |
 | Pen Pals | 145020 | [145020-pen-pals.json](./145020-pen-pals.json) |
 | Penalty Shooters Footy | 241061 | [241061-penalty-shooters-footy.json](./241061-penalty-shooters-footy.json) |
+| Penalty Soccer 2012 | 259560 | [259560-penalty-soccer-2012.json](./259560-penalty-soccer-2012.json) |
 | Penance | 367401 | [367401-penance.json](./367401-penance.json) |
 | Penance | 370685 | [370685-penance.json](./370685-penance.json) |
 | Pencil Plus: The Wrath of The Spankster | 242245 | [242245-pencil-plus-the-wrath-of-the-spankster.json](./242245-pencil-plus-the-wrath-of-the-spankster.json) |
@@ -1327,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Don't Understand Me | 394861 | [394861-please-dont-understand-me.json](./394861-please-dont-understand-me.json) |
 | Please Follow | 134681 | [134681-please-follow.json](./134681-please-follow.json) |
 | Please Ignore The Anomalies | 412277 | [412277-please-ignore-the-anomalies.json](./412277-please-ignore-the-anomalies.json) |
+| Please Leave a Message | 259577 | [259577-please-leave-a-message.json](./259577-please-leave-a-message.json) |
 | Please Smile | 318974 | [318974-please-smile.json](./318974-please-smile.json) |
 | Please Stop Crying | 291230 | [291230-please-stop-crying.json](./291230-please-stop-crying.json) |
 | Please Stop Crying: Terrible Twos | 337110 | [337110-please-stop-crying-terrible-twos.json](./337110-please-stop-crying-terrible-twos.json) |
@@ -2380,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Balls | 268478 | [268478-puzzle-balls.json](./268478-puzzle-balls.json) |
 | Puzzle Bear | 121019 | [121019-puzzle-bear.json](./121019-puzzle-bear.json) |
 | Puzzle Block Blast | 221382 | [221382-puzzle-block-blast.json](./221382-puzzle-block-blast.json) |
+| Puzzle Bonsai | 259558 | [259558-puzzle-bonsai.json](./259558-puzzle-bonsai.json) |
 | Puzzle Boys | 41393 | [41393-puzzle-boys.json](./41393-puzzle-boys.json) |
 | Puzzle Bundle Xbox: Mimi New Friend, Sokocrab and StoryBlocks | 335104 | [335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json](./335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json) |
 | Puzzle Bundle Xbox: PuzzlePet - Feed Your Cat, Say Cheese, Mimi the Cat: New Friends, Story Blocks: The King and Sokocrab | 335103 | [335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json](./335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json) |
