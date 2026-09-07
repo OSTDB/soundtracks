@@ -312,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zutto Atai no Turn! | 216458 | [216458-zutto-atai-no-turn.json](./216458-zutto-atai-no-turn.json) |
 | Zwaard | 235973 | [235973-zwaard.json](./235973-zwaard.json) |
 | ZX Asteroids | 319602 | [319602-zx-asteroids.json](./319602-zx-asteroids.json) |
+| ZXC | 266803 | [266803-zxc.json](./266803-zxc.json) |
 | ZxZ | 307621 | [307621-zxz.json](./307621-zxz.json) |
 | Zyrcon | 413623 | [413623-zyrcon.json](./413623-zyrcon.json) |
 | Zythum | 30954 | [30954-zythum.json](./30954-zythum.json) |
