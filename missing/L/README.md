@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lake Masters | 67302 | [67302-lake-masters.json](./67302-lake-masters.json) |
 | Lake Masters 2 | 67298 | [67298-lake-masters-2.json](./67298-lake-masters-2.json) |
 | Lake Masters Pro | 67300 | [67300-lake-masters-pro.json](./67300-lake-masters-pro.json) |
+| Lakefront Restaurant | 272303 | [272303-lakefront-restaurant.json](./272303-lakefront-restaurant.json) |
 | LakeQueen | 394130 | [394130-lakequeen.json](./394130-lakequeen.json) |
 | Lakesider: Above and Below | 285477 | [285477-lakesider-above-and-below.json](./285477-lakesider-above-and-below.json) |
 | Lamb to the Slaughter | 323553 | [323553-lamb-to-the-slaughter.json](./323553-lamb-to-the-slaughter.json) |
@@ -952,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lockdown Lewd Up! | 159315 | [159315-lockdown-lewd-up.json](./159315-lockdown-lewd-up.json) |
 | Lockdown Protocol | 176469 | [176469-lockdown-protocol.json](./176469-lockdown-protocol.json) |
 | Lockdown VR: Circus of the Dead | 195261 | [195261-lockdown-vr-circus-of-the-dead.json](./195261-lockdown-vr-circus-of-the-dead.json) |
+| Loco-Sort | 272265 | [272265-loco-sort.json](./272265-loco-sort.json) |
 | Loco: Rails & Tails | 381632 | [381632-loco-rails-and-tails.json](./381632-loco-rails-and-tails.json) |
 | Locomotion | 117048 | [117048-locomotion.json](./117048-locomotion.json) |
 | Locomotion | 202410 | [202410-locomotion.json](./202410-locomotion.json) |
