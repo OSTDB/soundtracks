@@ -1164,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet of the Ants | 347134 | [347134-planet-of-the-ants.json](./347134-planet-of-the-ants.json) |
 | Planet Omnia | 197912 | [197912-planet-omnia.json](./197912-planet-omnia.json) |
 | Planet Quiz: Learn & Discover | 187494 | [187494-planet-quiz-learn-and-discover.json](./187494-planet-quiz-learn-and-discover.json) |
+| Planet Royale | 292556 | [292556-planet-royale.json](./292556-planet-royale.json) |
 | Planet Soccer | 57688 | [57688-planet-soccer.json](./57688-planet-soccer.json) |
 | Planet TD | 195265 | [195265-planet-td.json](./195265-planet-td.json) |
 | Planet Zeta | 166783 | [166783-planet-zeta.json](./166783-planet-zeta.json) |
