@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Sorceress | 382217 | [382217-scarlet-sorceress.json](./382217-scarlet-sorceress.json) |
 | Scarlet Thread | 290714 | [290714-scarlet-thread.json](./290714-scarlet-thread.json) |
 | Scarlet's Haunted Hotel | 319373 | [319373-scarlets-haunted-hotel.json](./319373-scarlets-haunted-hotel.json) |
+| ScarQuest | 301242 | [301242-scarquest.json](./301242-scarquest.json) |
 | Scars of Mars | 267687 | [267687-scars-of-mars.json](./267687-scars-of-mars.json) |
 | Scars of Summer | 169438 | [169438-scars-of-summer.json](./169438-scars-of-summer.json) |
 | Scary 8 Bits | 404207 | [404207-scary-8-bits.json](./404207-scary-8-bits.json) |
@@ -579,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search | 233771 | [233771-search.json](./233771-search.json) |
 | Search & Destroy | 43347 | [43347-search-and-destroy.json](./43347-search-and-destroy.json) |
 | Search All: Bones | 387338 | [387338-search-all-bones.json](./387338-search-all-bones.json) |
+| Search and Rescue: Snowman From Outer Space | 301271 | [301271-search-and-rescue-snowman-from-outer-space.json](./301271-search-and-rescue-snowman-from-outer-space.json) |
 | Search for the Secret Keys | 69885 | [69885-search-for-the-secret-keys.json](./69885-search-for-the-secret-keys.json) |
 | Search for the Titanic | 69849 | [69849-search-for-the-titanic.json](./69849-search-for-the-titanic.json) |
 | Seashell Thief | 302111 | [302111-seashell-thief.json](./302111-seashell-thief.json) |
@@ -869,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shades of Doom | 71518 | [71518-shades-of-doom.json](./71518-shades-of-doom.json) |
 | Shadow | 324309 | [324309-shadow.json](./324309-shadow.json) |
 | Shadow Among Nove | 297218 | [297218-shadow-among-nove.json](./297218-shadow-among-nove.json) |
+| Shadow and Darkness | 301286 | [301286-shadow-and-darkness.json](./301286-shadow-and-darkness.json) |
 | Shadow Arena | 125357 | [125357-shadow-arena.json](./125357-shadow-arena.json) |
 | Shadow Blade Zero | 174864 | [174864-shadow-blade-zero.json](./174864-shadow-blade-zero.json) |
 | Shadow Bug | 44246 | [44246-shadow-bug.json](./44246-shadow-bug.json) |
@@ -2838,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinal Breakers | 39666 | [39666-spinal-breakers.json](./39666-spinal-breakers.json) |
 | SpinDrive Ping Pong | 43354 | [43354-spindrive-ping-pong.json](./43354-spindrive-ping-pong.json) |
 | Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
+| SpinSweep | 301277 | [301277-spinsweep.json](./301277-spinsweep.json) |
 | Spintires | 7347 | [7347-spintires.json](./7347-spintires.json) |
 | Spinwave Survivors | 388002 | [388002-spinwave-survivors.json](./388002-spinwave-survivors.json) |
 | Spiny & Chilly | 355034 | [355034-spiny-and-chilly.json](./355034-spiny-and-chilly.json) |
@@ -3187,6 +3191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Troopers: Combat Force | 411568 | [411568-star-troopers-combat-force.json](./411568-star-troopers-combat-force.json) |
 | Star Valor | 100418 | [100418-star-valor.json](./100418-star-valor.json) |
 | Star Vortex | 154021 | [154021-star-vortex.json](./154021-star-vortex.json) |
+| Star Voyage: Treasure Hunting | 301240 | [301240-star-voyage-treasure-hunting.json](./301240-star-voyage-treasure-hunting.json) |
 | Star Warrior | 94241 | [94241-star-warrior.json](./94241-star-warrior.json) |
 | Star Wars | 212479 | [212479-star-wars.json](./212479-star-wars.json) |
 | Star Wars Battlefront: Hoth Bundle | 115714 | [115714-star-wars-battlefront-hoth-bundle.json](./115714-star-wars-battlefront-hoth-bundle.json) |
@@ -3585,6 +3590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Pong | 339659 | [339659-strange-pong.json](./339659-strange-pong.json) |
 | Strange Pool | 331879 | [331879-strange-pool.json](./331879-strange-pool.json) |
 | Strange Shores: Social Desktop Fishing | 344395 | [344395-strange-shores-social-desktop-fishing.json](./344395-strange-shores-social-desktop-fishing.json) |
+| Strange Tales of Tei-Shan | 301262 | [301262-strange-tales-of-tei-shan.json](./301262-strange-tales-of-tei-shan.json) |
 | Stranger Danger or Horror, Quest and Magic | 197390 | [197390-stranger-danger-or-horror-quest-and-magic.json](./197390-stranger-danger-or-horror-quest-and-magic.json) |
 | Stranger of Paradise: Final Fantasy Origin - Digital Deluxe Edition | 173775 | [173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json](./173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json) |
 | Stranger of Sword City: Limited Edition | 42681 | [42681-stranger-of-sword-city-limited-edition.json](./42681-stranger-of-sword-city-limited-edition.json) |
@@ -3670,6 +3676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StreetSync | 332983 | [332983-streetsync.json](./332983-streetsync.json) |
 | Stress Test | 200168 | [200168-stress-test.json](./200168-stress-test.json) |
 | Stress, Out! | 258716 | [258716-stress-out.json](./258716-stress-out.json) |
+| StressRoom | 301256 | [301256-stressroom.json](./301256-stressroom.json) |
 | Stretch Guy | 315844 | [315844-stretch-guy.json](./315844-stretch-guy.json) |
 | StretchingVr | 99014 | [99014-stretchingvr.json](./99014-stretchingvr.json) |
 | Stretchy Adventure | 319957 | [319957-stretchy-adventure.json](./319957-stretchy-adventure.json) |
