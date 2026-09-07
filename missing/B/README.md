@@ -833,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeiJing Courier Simulator | 118413 | [118413-beijing-courier-simulator.json](./118413-beijing-courier-simulator.json) |
 | Bejeweled | 121723 | [121723-bejeweled.json](./121723-bejeweled.json) |
 | Bejeweled Deluxe | 27819 | [27819-bejeweled-deluxe.json](./27819-bejeweled-deluxe.json) |
+| Bela Kovacs and the Trail of Blood | 299758 | [299758-bela-kovacs-and-the-trail-of-blood.json](./299758-bela-kovacs-and-the-trail-of-blood.json) |
 | Belial | 14295 | [14295-belial.json](./14295-belial.json) |
 | Belial Wars | 234351 | [234351-belial-wars.json](./234351-belial-wars.json) |
 | Bella | 260939 | [260939-bella.json](./260939-bella.json) |
@@ -1106,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Alone | 135897 | [135897-bird-alone.json](./135897-bird-alone.json) |
 | Bird Fall | 37150 | [37150-bird-fall.json](./37150-bird-fall.json) |
 | Bird Game III | 381008 | [381008-bird-game-iii.json](./381008-bird-game-iii.json) |
+| Bird Jumper | 299741 | [299741-bird-jumper.json](./299741-bird-jumper.json) |
 | Bird Mania 3D | 65254 | [65254-bird-mania-3d.json](./65254-bird-mania-3d.json) |
 | Bird Mania 3D Christmas | 62258 | [62258-bird-mania-3d-christmas.json](./62258-bird-mania-3d-christmas.json) |
 | Bird Shooter | 229974 | [229974-bird-shooter.json](./229974-bird-shooter.json) |
@@ -1864,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boyfriend Dungeon: Secret Weapons | 228681 | [228681-boyfriend-dungeon-secret-weapons.json](./228681-boyfriend-dungeon-secret-weapons.json) |
 | Boyfriend or Cake?? | 364508 | [364508-boyfriend-or-cake.json](./364508-boyfriend-or-cake.json) |
 | Boys Tale | 255358 | [255358-boys-tale.json](./255358-boys-tale.json) |
+| Boyz Don't Cry | 299725 | [299725-boyz-dont-cry.json](./299725-boyz-dont-cry.json) |
 | Bozalleth's Curse | 267088 | [267088-bozalleths-curse.json](./267088-bozalleths-curse.json) |
 | Bpop Attack | 319953 | [319953-bpop-attack.json](./319953-bpop-attack.json) |
 | Bradley Trainer | 40272 | [40272-bradley-trainer.json](./40272-bradley-trainer.json) |
@@ -2157,6 +2160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Pop Math Challenge Gr. 1-2 Premium | 87255 | [87255-bubble-pop-math-challenge-gr-1-2-premium.json](./87255-bubble-pop-math-challenge-gr-1-2-premium.json) |
 | Bubble Rage | 340228 | [340228-bubble-rage.json](./340228-bubble-rage.json) |
 | Bubble Riders | 300999 | [300999-bubble-riders.json](./300999-bubble-riders.json) |
+| Bubble Shooter 2 | 299775 | [299775-bubble-shooter-2.json](./299775-bubble-shooter-2.json) |
 | Bubble Shooter! Tournaments | 78387 | [78387-bubble-shooter-tournaments.json](./78387-bubble-shooter-tournaments.json) |
 | Bubble Tanks | 210285 | [210285-bubble-tanks.json](./210285-bubble-tanks.json) |
 | Bubble Troops | 236531 | [236531-bubble-troops.json](./236531-bubble-troops.json) |
