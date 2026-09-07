@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Survivor | 74411 | [74411-last-survivor.json](./74411-last-survivor.json) |
 | Last Survivor | 81430 | [81430-last-survivor.json](./81430-last-survivor.json) |
 | Last Survivors | 255964 | [255964-last-survivors.json](./255964-last-survivors.json) |
+| Last Viking: Ragnarok Loop | 291485 | [291485-last-viking-ragnarok-loop.json](./291485-last-viking-ragnarok-loop.json) |
 | Last Year | 19819 | [19819-last-year.json](./19819-last-year.json) |
 | Last Z: Survival Shooter | 375192 | [375192-last-z-survival-shooter.json](./375192-last-z-survival-shooter.json) |
 | Lastbane | 348773 | [348773-lastbane.json](./348773-lastbane.json) |
@@ -592,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lichenia | 138271 | [138271-lichenia.json](./138271-lichenia.json) |
 | Lichtung | 415105 | [415105-lichtung.json](./415105-lichtung.json) |
 | Lickspittles | 392814 | [392814-lickspittles.json](./392814-lickspittles.json) |
+| Lidar Exploration Program | 291468 | [291468-lidar-exploration-program.json](./291468-lidar-exploration-program.json) |
 | Liebt Mich Nicht | 126021 | [126021-liebt-mich-nicht.json](./126021-liebt-mich-nicht.json) |
 | Liero Xtreme | 72080 | [72080-liero-xtreme.json](./72080-liero-xtreme.json) |
 | Life & Death | 12177 | [12177-life-and-death.json](./12177-life-and-death.json) |
@@ -1074,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Memory | 228087 | [228087-lost-in-memory.json](./228087-lost-in-memory.json) |
 | Lost in Paradise | 20528 | [20528-lost-in-paradise.json](./20528-lost-in-paradise.json) |
 | Lost in Play | 150462 | [150462-lost-in-play.json](./150462-lost-in-play.json) |
+| Lost in Prayer | 291445 | [291445-lost-in-prayer.json](./291445-lost-in-prayer.json) |
 | Lost in Reefs: Antarctic | 30934 | [30934-lost-in-reefs-antarctic.json](./30934-lost-in-reefs-antarctic.json) |
 | Lost in Space | 167812 | [167812-lost-in-space.json](./167812-lost-in-space.json) |
 | Lost in the Amazon | 296057 | [296057-lost-in-the-amazon.json](./296057-lost-in-the-amazon.json) |
