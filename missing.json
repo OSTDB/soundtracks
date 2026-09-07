@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T16:18:19.229Z",
-  "total_missing": 42702,
+  "generated_at": "2026-09-07T16:33:33.791Z",
+  "total_missing": 42752,
   "games": [
     {
       "igdb_id": 306086,
@@ -11156,6 +11156,11 @@
       "igdb_id": 325861,
       "game_name": "Apex Legends: PlayStation Plus Play Pack",
       "file": "missing/A/325861-apex-legends-playstation-plus-play-pack.json"
+    },
+    {
+      "igdb_id": 275576,
+      "game_name": "Apex Rebels",
+      "file": "missing/A/275576-apex-rebels.json"
     },
     {
       "igdb_id": 171599,
@@ -28983,6 +28988,11 @@
       "file": "missing/C/31541-camper-jumper-simulator.json"
     },
     {
+      "igdb_id": 275600,
+      "game_name": "Campfire",
+      "file": "missing/C/275600-campfire.json"
+    },
+    {
       "igdb_id": 402251,
       "game_name": "Campfire Harmony",
       "file": "missing/C/402251-campfire-harmony.json"
@@ -32331,6 +32341,11 @@
       "igdb_id": 234896,
       "game_name": "Cheese Quest 3D: The Brother Lady Saga",
       "file": "missing/C/234896-cheese-quest-3d-the-brother-lady-saga.json"
+    },
+    {
+      "igdb_id": 275579,
+      "game_name": "Cheesecake Cult: Unholy Feast",
+      "file": "missing/C/275579-cheesecake-cult-unholy-feast.json"
     },
     {
       "igdb_id": 213022,
@@ -48313,6 +48328,11 @@
       "file": "missing/D/276494-disillusion-st.json"
     },
     {
+      "igdb_id": 275590,
+      "game_name": "Disney 100",
+      "file": "missing/D/275590-disney-100.json"
+    },
+    {
       "igdb_id": 204668,
       "game_name": "Disney Classic Games: Aladdin and The Lion King - The Jungle Book and More Aladdin Pack",
       "file": "missing/D/204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json"
@@ -50128,6 +50148,11 @@
       "file": "missing/D/299447-doom-2-in-city-only.json"
     },
     {
+      "igdb_id": 275569,
+      "game_name": "Doom Core",
+      "file": "missing/D/275569-doom-core.json"
+    },
+    {
       "igdb_id": 144731,
       "game_name": "Doom Eternal: The Ancient Gods - Part Two",
       "file": "missing/D/144731-doom-eternal-the-ancient-gods-part-two.json"
@@ -50331,6 +50356,11 @@
       "igdb_id": 209124,
       "game_name": "Dora the Explorer: Lost and Found Adventure",
       "file": "missing/D/209124-dora-the-explorer-lost-and-found-adventure.json"
+    },
+    {
+      "igdb_id": 275577,
+      "game_name": "Dora the Explorer: Twins' Day",
+      "file": "missing/D/275577-dora-the-explorer-twins-day.json"
     },
     {
       "igdb_id": 209122,
@@ -50731,6 +50761,11 @@
       "igdb_id": 232181,
       "game_name": "Dr. Dino -Doctor & Dentist games for boys girls",
       "file": "missing/D/232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json"
+    },
+    {
+      "igdb_id": 275560,
+      "game_name": "Dr. Finklestein's Marvelous Room",
+      "file": "missing/D/275560-dr-finklesteins-marvelous-room.json"
     },
     {
       "igdb_id": 369599,
@@ -54436,6 +54471,11 @@
       "igdb_id": 296394,
       "game_name": "Early Mellow",
       "file": "missing/E/296394-early-mellow.json"
+    },
+    {
+      "igdb_id": 275613,
+      "game_name": "Early-blooming Black Lily: Moshi Mo-series",
+      "file": "missing/E/275613-early-blooming-black-lily-moshi-mo-series.json"
     },
     {
       "igdb_id": 80713,
@@ -58871,6 +58911,11 @@
       "igdb_id": 23927,
       "game_name": "Evertales",
       "file": "missing/E/23927-evertales.json"
+    },
+    {
+      "igdb_id": 275578,
+      "game_name": "Everwarder",
+      "file": "missing/E/275578-everwarder.json"
     },
     {
       "igdb_id": 280759,
@@ -64533,6 +64578,11 @@
       "file": "missing/F/275905-five-nights-at-freddys-nightshift.json"
     },
     {
+      "igdb_id": 275568,
+      "game_name": "Five Nights at Freddy's: Pocket Horror",
+      "file": "missing/F/275568-five-nights-at-freddys-pocket-horror.json"
+    },
+    {
       "igdb_id": 276493,
       "game_name": "Five Nights at Freddy's: Security Breach - The Remains",
       "file": "missing/F/276493-five-nights-at-freddys-security-breach-the-remains.json"
@@ -66963,6 +67013,11 @@
       "file": "missing/F/365712-forza-horizon-4-welcome-pack.json"
     },
     {
+      "igdb_id": 275616,
+      "game_name": "Forza Horizon 5: American Automotive Car Pack",
+      "file": "missing/F/275616-forza-horizon-5-american-automotive-car-pack.json"
+    },
+    {
       "igdb_id": 305531,
       "game_name": "Forza Horizon 5: Apex Allstars Car Pack",
       "file": "missing/F/305531-forza-horizon-5-apex-allstars-car-pack.json"
@@ -68623,6 +68678,11 @@
       "file": "missing/F/402912-full-belly-breakout.json"
     },
     {
+      "igdb_id": 275561,
+      "game_name": "Full Bloom",
+      "file": "missing/F/275561-full-bloom.json"
+    },
+    {
       "igdb_id": 241053,
       "game_name": "Full Contact Teams Racing",
       "file": "missing/F/241053-full-contact-teams-racing.json"
@@ -68886,6 +68946,11 @@
       "igdb_id": 226405,
       "game_name": "Fur Squadron",
       "file": "missing/F/226405-fur-squadron.json"
+    },
+    {
+      "igdb_id": 275562,
+      "game_name": "Fur Squadron Phoenix",
+      "file": "missing/F/275562-fur-squadron-phoenix.json"
     },
     {
       "igdb_id": 204670,
@@ -72953,6 +73018,11 @@
       "file": "missing/G/117715-goblin-and-coins-2.json"
     },
     {
+      "igdb_id": 275563,
+      "game_name": "Goblin and Coins II: The Lost Recipes",
+      "file": "missing/G/275563-goblin-and-coins-ii-the-lost-recipes.json"
+    },
+    {
       "igdb_id": 370140,
       "game_name": "Goblin Dice and Cleave",
       "file": "missing/G/370140-goblin-dice-and-cleave.json"
@@ -76373,6 +76443,11 @@
       "file": "missing/G/392798-gunboxing.json"
     },
     {
+      "igdb_id": 275604,
+      "game_name": "Guncho",
+      "file": "missing/G/275604-guncho.json"
+    },
+    {
       "igdb_id": 343805,
       "game_name": "Guncrafter",
       "file": "missing/G/343805-guncrafter.json"
@@ -79723,6 +79798,11 @@
       "file": "missing/H/411596-hell-of-war-combined-arms.json"
     },
     {
+      "igdb_id": 275570,
+      "game_name": "Hell Revealations",
+      "file": "missing/H/275570-hell-revealations.json"
+    },
+    {
       "igdb_id": 285455,
       "game_name": "Hell Spheres",
       "file": "missing/H/285455-hell-spheres.json"
@@ -81191,6 +81271,11 @@
       "igdb_id": 233585,
       "game_name": "Hi-Fi Rush",
       "file": "missing/H/233585-hi-fi-rush.json"
+    },
+    {
+      "igdb_id": 275615,
+      "game_name": "Hi-Fi Rush: Teamplay Costume Pack",
+      "file": "missing/H/275615-hi-fi-rush-teamplay-costume-pack.json"
     },
     {
       "igdb_id": 255966,
@@ -84511,6 +84596,11 @@
       "igdb_id": 12954,
       "game_name": "Hungry Horace",
       "file": "missing/H/12954-hungry-horace.json"
+    },
+    {
+      "igdb_id": 275612,
+      "game_name": "Hungry Humphrey: Eat The World",
+      "file": "missing/H/275612-hungry-humphrey-eat-the-world.json"
     },
     {
       "igdb_id": 128651,
@@ -91953,6 +92043,11 @@
       "file": "missing/J/347683-journey-through-the-nightmare-realm-ii.json"
     },
     {
+      "igdb_id": 275580,
+      "game_name": "Journey To Bethlehem: Fig Run",
+      "file": "missing/J/275580-journey-to-bethlehem-fig-run.json"
+    },
+    {
       "igdb_id": 302921,
       "game_name": "Journey to Earth",
       "file": "missing/J/302921-journey-to-earth.json"
@@ -96438,6 +96533,11 @@
       "file": "missing/K/277599-konkwest.json"
     },
     {
+      "igdb_id": 275598,
+      "game_name": "Konna",
+      "file": "missing/K/275598-konna.json"
+    },
+    {
       "igdb_id": 324662,
       "game_name": "Kono Aozora ni Yakusoku wo",
       "file": "missing/K/324662-kono-aozora-ni-yakusoku-wo.json"
@@ -99721,6 +99821,11 @@
       "igdb_id": 315859,
       "game_name": "Let's Play! Oink Games - Complete Edition",
       "file": "missing/L/315859-lets-play-oink-games-complete-edition.json"
+    },
+    {
+      "igdb_id": 275559,
+      "game_name": "Let's Play! Oink Games: Rafter Five",
+      "file": "missing/L/275559-lets-play-oink-games-rafter-five.json"
     },
     {
       "igdb_id": 49396,
@@ -112533,6 +112638,11 @@
       "file": "missing/M/307596-minigolf.json"
     },
     {
+      "igdb_id": 275597,
+      "game_name": "Minigolf Galaxy",
+      "file": "missing/M/275597-minigolf-galaxy.json"
+    },
+    {
       "igdb_id": 34356,
       "game_name": "Minigolf VR",
       "file": "missing/M/34356-minigolf-vr.json"
@@ -121733,6 +121843,11 @@
       "file": "missing/N/132847-newer-summer-sun.json"
     },
     {
+      "igdb_id": 275571,
+      "game_name": "Newgothic Movement 2",
+      "file": "missing/N/275571-newgothic-movement-2.json"
+    },
+    {
       "igdb_id": 279603,
       "game_name": "Newly-wedded Woman Stealing Life",
       "file": "missing/N/279603-newly-wedded-woman-stealing-life.json"
@@ -122051,6 +122166,16 @@
       "igdb_id": 123052,
       "game_name": "Nick's Night Out",
       "file": "missing/N/123052-nicks-night-out.json"
+    },
+    {
+      "igdb_id": 275617,
+      "game_name": "Nickelodeon All-Star Brawl 2: Costume Pack",
+      "file": "missing/N/275617-nickelodeon-all-star-brawl-2-costume-pack.json"
+    },
+    {
+      "igdb_id": 275618,
+      "game_name": "Nickelodeon All-Star Brawl 2: Season Pass",
+      "file": "missing/N/275618-nickelodeon-all-star-brawl-2-season-pass.json"
     },
     {
       "igdb_id": 263234,
@@ -125448,6 +125573,51 @@
       "file": "missing/O/21119-officers.json"
     },
     {
+      "igdb_id": 275582,
+      "game_name": "Official AFL: The Interactive DVD Trivia Game - Adelaide Super Quiz",
+      "file": "missing/O/275582-official-afl-the-interactive-dvd-trivia-game-adelaide-super-quiz.json"
+    },
+    {
+      "igdb_id": 275583,
+      "game_name": "Official AFL: The Interactive DVD Trivia Game - Carlton Super Quiz",
+      "file": "missing/O/275583-official-afl-the-interactive-dvd-trivia-game-carlton-super-quiz.json"
+    },
+    {
+      "igdb_id": 275584,
+      "game_name": "Official AFL: The Interactive DVD Trivia Game - Collingwood Super Quiz",
+      "file": "missing/O/275584-official-afl-the-interactive-dvd-trivia-game-collingwood-super-quiz.json"
+    },
+    {
+      "igdb_id": 275581,
+      "game_name": "Official AFL: The Interactive DVD Trivia Game - Essendon Super Quiz",
+      "file": "missing/O/275581-official-afl-the-interactive-dvd-trivia-game-essendon-super-quiz.json"
+    },
+    {
+      "igdb_id": 275585,
+      "game_name": "Official AFL: The Interactive DVD Trivia Game - Geelong Super Quiz",
+      "file": "missing/O/275585-official-afl-the-interactive-dvd-trivia-game-geelong-super-quiz.json"
+    },
+    {
+      "igdb_id": 275589,
+      "game_name": "Official AFL: The Interactive DVD Trivia Game - Richmond Super Quiz",
+      "file": "missing/O/275589-official-afl-the-interactive-dvd-trivia-game-richmond-super-quiz.json"
+    },
+    {
+      "igdb_id": 275588,
+      "game_name": "Official AFL: The Interactive DVD Trivia Game - St Kilda Super Quiz",
+      "file": "missing/O/275588-official-afl-the-interactive-dvd-trivia-game-st-kilda-super-quiz.json"
+    },
+    {
+      "igdb_id": 275586,
+      "game_name": "Official AFL: The Interactive DVD Trivia Game - Sydney Swans Super Quiz",
+      "file": "missing/O/275586-official-afl-the-interactive-dvd-trivia-game-sydney-swans-super-quiz.json"
+    },
+    {
+      "igdb_id": 275587,
+      "game_name": "Official AFL: The Interactive DVD Trivia Game - West Coast Eagles Super Quiz",
+      "file": "missing/O/275587-official-afl-the-interactive-dvd-trivia-game-west-coast-eagles-super-quiz.json"
+    },
+    {
       "igdb_id": 216977,
       "game_name": "Offline",
       "file": "missing/O/216977-offline.json"
@@ -125951,6 +126121,11 @@
       "igdb_id": 396923,
       "game_name": "Om Nom: Run 2 - Emerald Edition",
       "file": "missing/O/396923-om-nom-run-2-emerald-edition.json"
+    },
+    {
+      "igdb_id": 275605,
+      "game_name": "Omakase! Savers",
+      "file": "missing/O/275605-omakase-savers.json"
     },
     {
       "igdb_id": 357219,
@@ -135408,6 +135583,11 @@
       "file": "missing/P/336549-plants-vs-zombies-neighborhood-defense.json"
     },
     {
+      "igdb_id": 275575,
+      "game_name": "Plants vs. Zombies",
+      "file": "missing/P/275575-plants-vs-zombies.json"
+    },
+    {
       "igdb_id": 342043,
       "game_name": "Plants vs. Zombies",
       "file": "missing/P/342043-plants-vs-zombies.json"
@@ -136738,6 +136918,11 @@
       "file": "missing/P/21768-polar-panic.json"
     },
     {
+      "igdb_id": 275603,
+      "game_name": "Polar Panic",
+      "file": "missing/P/275603-polar-panic.json"
+    },
+    {
       "igdb_id": 374601,
       "game_name": "Polaria",
       "file": "missing/P/374601-polaria.json"
@@ -137171,6 +137356,11 @@
       "igdb_id": 43295,
       "game_name": "Pool Paradise: International Edition",
       "file": "missing/P/43295-pool-paradise-international-edition.json"
+    },
+    {
+      "igdb_id": 275611,
+      "game_name": "Pool Pro 2022",
+      "file": "missing/P/275611-pool-pro-2022.json"
     },
     {
       "igdb_id": 315842,
@@ -139686,6 +139876,11 @@
       "igdb_id": 204062,
       "game_name": "Project: The MIR Incident",
       "file": "missing/P/204062-project-the-mir-incident.json"
+    },
+    {
+      "igdb_id": 275572,
+      "game_name": "Project: Unity",
+      "file": "missing/P/275572-project-unity.json"
     },
     {
       "igdb_id": 224783,
@@ -145741,6 +145936,11 @@
       "igdb_id": 204073,
       "game_name": "Repairny",
       "file": "missing/R/204073-repairny.json"
+    },
+    {
+      "igdb_id": 275602,
+      "game_name": "Repeat the Ending",
+      "file": "missing/R/275602-repeat-the-ending.json"
     },
     {
       "igdb_id": 270938,
@@ -161243,6 +161443,11 @@
       "file": "missing/S/171624-snake-2-dx-reawakening.json"
     },
     {
+      "igdb_id": 275610,
+      "game_name": "Snake Break",
+      "file": "missing/S/275610-snake-break.json"
+    },
+    {
       "igdb_id": 106569,
       "game_name": "Snake Bricks-Bounce Balls",
       "file": "missing/S/106569-snake-bricks-bounce-balls.json"
@@ -170018,6 +170223,11 @@
       "file": "missing/S/389969-stranded-with-you.json"
     },
     {
+      "igdb_id": 275619,
+      "game_name": "Stranded: Alien Dawn Premium Edition",
+      "file": "missing/S/275619-stranded-alien-dawn-premium-edition.json"
+    },
+    {
       "igdb_id": 311825,
       "game_name": "Strandzha Adventures 3D",
       "file": "missing/S/311825-strandzha-adventures-3d.json"
@@ -173278,6 +173488,11 @@
       "file": "missing/S/250041-super-mario-magnum-opus.json"
     },
     {
+      "igdb_id": 275565,
+      "game_name": "Super Mario: The Cursed Forest",
+      "file": "missing/S/275565-super-mario-the-cursed-forest.json"
+    },
+    {
       "igdb_id": 339245,
       "game_name": "Super Mario: The New Beginning Revival",
       "file": "missing/S/339245-super-mario-the-new-beginning-revival.json"
@@ -174063,6 +174278,11 @@
       "file": "missing/S/310414-super-volte-face.json"
     },
     {
+      "igdb_id": 275567,
+      "game_name": "Super Wakana Land",
+      "file": "missing/S/275567-super-wakana-land.json"
+    },
+    {
       "igdb_id": 391040,
       "game_name": "Super Wash Simulator",
       "file": "missing/S/391040-super-wash-simulator.json"
@@ -174521,6 +174741,11 @@
       "igdb_id": 33613,
       "game_name": "Surfingers",
       "file": "missing/S/33613-surfingers.json"
+    },
+    {
+      "igdb_id": 275573,
+      "game_name": "Surge",
+      "file": "missing/S/275573-surge.json"
     },
     {
       "igdb_id": 185693,
@@ -183793,6 +184018,11 @@
       "file": "missing/T/138906-the-invincible.json"
     },
     {
+      "igdb_id": 275594,
+      "game_name": "The Invincible: Deluxe Edition",
+      "file": "missing/T/275594-the-invincible-deluxe-edition.json"
+    },
+    {
       "igdb_id": 185670,
       "game_name": "The Invisible Guardian",
       "file": "missing/T/185670-the-invisible-guardian.json"
@@ -184786,6 +185016,11 @@
       "igdb_id": 338073,
       "game_name": "The Legend of Zelda: Tears of the Kingdom - Nintendo Switch 2 Edition",
       "file": "missing/T/338073-the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-2-edition.json"
+    },
+    {
+      "igdb_id": 275620,
+      "game_name": "The Legend of Zelda: The Mini Quest",
+      "file": "missing/T/275620-the-legend-of-zelda-the-mini-quest.json"
     },
     {
       "igdb_id": 332219,
@@ -202623,6 +202858,11 @@
       "file": "missing/V/248914-visk.json"
     },
     {
+      "igdb_id": 275574,
+      "game_name": "Vispire",
+      "file": "missing/V/275574-vispire.json"
+    },
+    {
       "igdb_id": 32891,
       "game_name": "Vistascapes VR",
       "file": "missing/V/32891-vistascapes-vr.json"
@@ -204741,6 +204981,11 @@
       "igdb_id": 57697,
       "game_name": "Warlock's Quest",
       "file": "missing/W/57697-warlocks-quest.json"
+    },
+    {
+      "igdb_id": 275614,
+      "game_name": "Warlocks Deeds: Uncharted Realms",
+      "file": "missing/W/275614-warlocks-deeds-uncharted-realms.json"
     },
     {
       "igdb_id": 258217,
@@ -207801,6 +208046,11 @@
       "igdb_id": 155652,
       "game_name": "Witchcraft U",
       "file": "missing/W/155652-witchcraft-u.json"
+    },
+    {
+      "igdb_id": 275595,
+      "game_name": "Witches & Woodlands",
+      "file": "missing/W/275595-witches-and-woodlands.json"
     },
     {
       "igdb_id": 201824,
