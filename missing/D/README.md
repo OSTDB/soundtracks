@@ -1308,6 +1308,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DMX Presents: Unnecessary Hypeman Hero | 138266 | [138266-dmx-presents-unnecessary-hypeman-hero.json](./138266-dmx-presents-unnecessary-hypeman-hero.json) |
 | DMZ Adventure 2 | 331110 | [331110-dmz-adventure-2.json](./331110-dmz-adventure-2.json) |
 | DNA: Episode 4 | 297801 | [297801-dna-episode-4.json](./297801-dna-episode-4.json) |
+| DNA: Season 2 - Episode 1 | 310383 | [310383-dna-season-2-episode-1.json](./310383-dna-season-2-episode-1.json) |
+| DNA: Season 2 - Episode 2 | 310397 | [310397-dna-season-2-episode-2.json](./310397-dna-season-2-episode-2.json) |
+| DNA: Season 2 - Episode 3 | 310407 | [310407-dna-season-2-episode-3.json](./310407-dna-season-2-episode-3.json) |
 | DnD Dice | 105951 | [105951-dnd-dice.json](./105951-dnd-dice.json) |
 | Do Crimes! | 380413 | [380413-do-crimes.json](./380413-do-crimes.json) |
 | Do I Pass? | 179738 | [179738-do-i-pass.json](./179738-do-i-pass.json) |
@@ -2022,6 +2025,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drum Girl | 232140 | [232140-drum-girl.json](./232140-drum-girl.json) |
 | Drum Legend | 277023 | [277023-drum-legend.json](./277023-drum-legend.json) |
 | DrumMania 3rdMix | 188662 | [188662-drummania-3rdmix.json](./188662-drummania-3rdmix.json) |
+| Drums Rock: Disturbed - 'Down with the Sickness' | 310378 | [310378-drums-rock-disturbed-down-with-the-sickness.json](./310378-drums-rock-disturbed-down-with-the-sickness.json) |
+| Drums Rock: Disturbed - 'Stricken' | 310374 | [310374-drums-rock-disturbed-stricken.json](./310374-drums-rock-disturbed-stricken.json) |
+| Drums Rock: Disturbed - 'Ten Thousand Fists' | 310380 | [310380-drums-rock-disturbed-ten-thousand-fists.json](./310380-drums-rock-disturbed-ten-thousand-fists.json) |
+| Drums Rock: Green Day - 'American Idiot' | 310375 | [310375-drums-rock-green-day-american-idiot.json](./310375-drums-rock-green-day-american-idiot.json) |
+| Drums Rock: Green Day - 'Holiday' | 310372 | [310372-drums-rock-green-day-holiday.json](./310372-drums-rock-green-day-holiday.json) |
+| Drums Rock: Green Day - 'The American Dream Is Killing Me' | 310376 | [310376-drums-rock-green-day-the-american-dream-is-killing-me.json](./310376-drums-rock-green-day-the-american-dream-is-killing-me.json) |
+| Drums Rock: Pantera - '5 Minutes Alone' | 310379 | [310379-drums-rock-pantera-5-minutes-alone.json](./310379-drums-rock-pantera-5-minutes-alone.json) |
+| Drums Rock: Pantera - 'Walk' | 310381 | [310381-drums-rock-pantera-walk.json](./310381-drums-rock-pantera-walk.json) |
+| Drums Rock: The Proclaimers - 'I'm Gonna Be (500 Miles)' | 310377 | [310377-drums-rock-the-proclaimers-im-gonna-be-500-miles.json](./310377-drums-rock-the-proclaimers-im-gonna-be-500-miles.json) |
 | Drunk | 183068 | [183068-drunk.json](./183068-drunk.json) |
 | Drunk but Not Wasted Knight | 363398 | [363398-drunk-but-not-wasted-knight.json](./363398-drunk-but-not-wasted-knight.json) |
 | Drunk Fist | 180817 | [180817-drunk-fist.json](./180817-drunk-fist.json) |
