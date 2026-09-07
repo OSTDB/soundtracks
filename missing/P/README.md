@@ -820,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pik's Epic Kirby Sprite Comics: Teh Game 2 | 246666 | [246666-piks-epic-kirby-sprite-comics-teh-game-2.json](./246666-piks-epic-kirby-sprite-comics-teh-game-2.json) |
 | Pikabuu: Stop! | 357230 | [357230-pikabuu-stop.json](./357230-pikabuu-stop.json) |
 | Pikari Walk | 230503 | [230503-pikari-walk.json](./230503-pikari-walk.json) |
+| Pikes.io | 306978 | [306978-pikes-io.json](./306978-pikes-io.json) |
 | Pikmin 2 | 84697 | [84697-pikmin-2.json](./84697-pikmin-2.json) |
 | Pikmin 3 DX: Caves Reborn | 313484 | [313484-pikmin-3-dx-caves-reborn.json](./313484-pikmin-3-dx-caves-reborn.json) |
 | Pikmin Finder | 264892 | [264892-pikmin-finder.json](./264892-pikmin-finder.json) |
@@ -1516,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popeye | 232703 | [232703-popeye.json](./232703-popeye.json) |
 | PopGerm Classic | 253021 | [253021-popgerm-classic.json](./253021-popgerm-classic.json) |
 | Popgoes and the Machinist | 231093 | [231093-popgoes-and-the-machinist.json](./231093-popgoes-and-the-machinist.json) |
+| Popgoes Arcade: Fighting Chance | 306983 | [306983-popgoes-arcade-fighting-chance.json](./306983-popgoes-arcade-fighting-chance.json) |
 | Popgoes Evergreen | 234342 | [234342-popgoes-evergreen.json](./234342-popgoes-evergreen.json) |
 | Popgoes: Lost Dreams | 250606 | [250606-popgoes-lost-dreams.json](./250606-popgoes-lost-dreams.json) |
 | PopIdle | 294461 | [294461-popidle.json](./294461-popidle.json) |
@@ -1647,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pragmatics | 326068 | [326068-pragmatics.json](./326068-pragmatics.json) |
 | Pranksters: Treasure of the Indians | 322570 | [322570-pranksters-treasure-of-the-indians.json](./322570-pranksters-treasure-of-the-indians.json) |
 | Pray Game | 167306 | [167306-pray-game.json](./167306-pray-game.json) |
+| Pre Post-Modernistic Post-Ironic Dadaism: Dating Simulator | 306969 | [306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json](./306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json) |
 | Pre-RON MI5 Bob | 71007 | [71007-pre-ron-mi5-bob.json](./71007-pre-ron-mi5-bob.json) |
 | Precipice Pain | 308245 | [308245-precipice-pain.json](./308245-precipice-pain.json) |
 | Precision Point VR | 270949 | [270949-precision-point-vr.json](./270949-precision-point-vr.json) |
