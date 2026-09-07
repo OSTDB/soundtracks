@@ -1820,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Mario 64 | 3475 | [3475-dr-mario-64.json](./3475-dr-mario-64.json) |
 | Dr. Mario World Redrawn | 132854 | [132854-dr-mario-world-redrawn.json](./132854-dr-mario-world-redrawn.json) |
 | Dr. Mario: Vitamin Toss | 231636 | [231636-dr-mario-vitamin-toss.json](./231636-dr-mario-vitamin-toss.json) |
+| Dr. Mary | 268447 | [268447-dr-mary.json](./268447-dr-mary.json) |
 | Dr. Neo Cortex: Inventor's Madness | 314661 | [314661-dr-neo-cortex-inventors-madness.json](./314661-dr-neo-cortex-inventors-madness.json) |
 | Dr. P | 278398 | [278398-dr-p.json](./278398-dr-p.json) |
 | Dr. Panda Restaurant 2 | 344927 | [344927-dr-panda-restaurant-2.json](./344927-dr-panda-restaurant-2.json) |
