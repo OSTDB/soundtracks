@@ -300,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangram Puzzle: Shape Puzzle | 237625 | [237625-tangram-puzzle-shape-puzzle.json](./237625-tangram-puzzle-shape-puzzle.json) |
 | Tangy TD | 236534 | [236534-tangy-td.json](./236534-tangy-td.json) |
 | Tanigawa Kouji no Shogi Shinan II: Meijin he no Michi | 41382 | [41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json](./41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json) |
+| Tank Attack | 273913 | [273913-tank-attack.json](./273913-tank-attack.json) |
 | Tank Battle Heroes: Iron Warfare | 120430 | [120430-tank-battle-heroes-iron-warfare.json](./120430-tank-battle-heroes-iron-warfare.json) |
 | Tank Battle: 1944 | 34600 | [34600-tank-battle-1944.json](./34600-tank-battle-1944.json) |
 | Tank Brigade | 391599 | [391599-tank-brigade.json](./391599-tank-brigade.json) |
@@ -410,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasty Planet: Back for Seconds | 33469 | [33469-tasty-planet-back-for-seconds.json](./33469-tasty-planet-back-for-seconds.json) |
 | Tasty Ramen | 176503 | [176503-tasty-ramen.json](./176503-tasty-ramen.json) |
 | Tasty Words - Free Word Games | 105973 | [105973-tasty-words-free-word-games.json](./105973-tasty-words-free-word-games.json) |
+| Tatara Kogasa's Surprise Operation | 273948 | [273948-tatara-kogasas-surprise-operation.json](./273948-tatara-kogasas-surprise-operation.json) |
 | Tatari: Curse Road | 293382 | [293382-tatari-curse-road.json](./293382-tatari-curse-road.json) |
 | Tatari: The Arrival | 267101 | [267101-tatari-the-arrival.json](./267101-tatari-the-arrival.json) |
 | Tatlone | 415066 | [415066-tatlone.json](./415066-tatlone.json) |
@@ -3306,6 +3308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Together: A Wish No One Remembers | 130967 | [130967-together-a-wish-no-one-remembers.json](./130967-together-a-wish-no-one-remembers.json) |
 | ToHeart | 303230 | [303230-toheart.json](./303230-toheart.json) |
 | Tohotopia | 391609 | [391609-tohotopia.json](./391609-tohotopia.json) |
+| Toilet Fight: Open World | 273945 | [273945-toilet-fight-open-world.json](./273945-toilet-fight-open-world.json) |
 | Toilet in Wonderland | 25015 | [25015-toilet-in-wonderland.json](./25015-toilet-in-wonderland.json) |
 | Toilet Paper Simulator | 248890 | [248890-toilet-paper-simulator.json](./248890-toilet-paper-simulator.json) |
 | Toilet Run | 110488 | [110488-toilet-run.json](./110488-toilet-run.json) |
@@ -3779,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2: Hauptstrecke Hamburg - Lübeck Route Add-On | 147456 | [147456-train-sim-world-2-hauptstrecke-hamburg-lubeck-route-add-on.json](./147456-train-sim-world-2-hauptstrecke-hamburg-lubeck-route-add-on.json) |
 | Train Sim World 2: S-Bahn Zentralschweiz - Luzern: Sursee Route | 195777 | [195777-train-sim-world-2-s-bahn-zentralschweiz-luzern-sursee-route.json](./195777-train-sim-world-2-s-bahn-zentralschweiz-luzern-sursee-route.json) |
 | Train Sim World 3: Niddertalbahn - Bad Vilbel - Stockheim Route Add-On | 269329 | [269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json](./269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json) |
+| Train Sim World 3: Peak Forest Railway - Ambergate - Chinley & Buxton | 273930 | [273930-train-sim-world-3-peak-forest-railway-ambergate-chinley-and-buxton.json](./273930-train-sim-world-3-peak-forest-railway-ambergate-chinley-and-buxton.json) |
 | Train Sim World 4: Antelope Valley Line - Los Angeles - Lancaster Route | 269324 | [269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json](./269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json) |
 | Train Sim World 4: Berninalinie - Tirano: Ospizio Bernina Route | 286525 | [286525-train-sim-world-4-berninalinie-tirano-ospizio-bernina-route.json](./286525-train-sim-world-4-berninalinie-tirano-ospizio-bernina-route.json) |
 | Train Sim World 4: Nahverkehr Dresden - Riesa Route Add-On | 307970 | [307970-train-sim-world-4-nahverkehr-dresden-riesa-route-add-on.json](./307970-train-sim-world-4-nahverkehr-dresden-riesa-route-add-on.json) |
@@ -3963,6 +3967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Punk: Deluxe Edition | 287122 | [287122-trash-punk-deluxe-edition.json](./287122-trash-punk-deluxe-edition.json) |
 | Trash Punk: Extended Edition | 298575 | [298575-trash-punk-extended-edition.json](./298575-trash-punk-extended-edition.json) |
 | Trash Sailors | 122426 | [122426-trash-sailors.json](./122426-trash-sailors.json) |
+| Trash Troopers: Earth Reclaim | 273933 | [273933-trash-troopers-earth-reclaim.json](./273933-trash-troopers-earth-reclaim.json) |
 | Trashcan Simulator | 329594 | [329594-trashcan-simulator.json](./329594-trashcan-simulator.json) |
 | Trashman | 23054 | [23054-trashman.json](./23054-trashman.json) |
 | Traulian: O Ultimo General | 293900 | [293900-traulian-o-ultimo-general.json](./293900-traulian-o-ultimo-general.json) |
