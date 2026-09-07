@@ -431,10 +431,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maps 4Matt | 312897 | [312897-maps-4matt.json](./312897-maps-4matt.json) |
 | Maps 4TMD | 312911 | [312911-maps-4tmd.json](./312911-maps-4tmd.json) |
 | Mär Heaven: Karudea no Akuma | 353317 | [353317-mar-heaven-karudea-no-akuma.json](./353317-mar-heaven-karudea-no-akuma.json) |
+| Mar Koochooloo | 276719 | [276719-mar-koochooloo.json](./276719-mar-koochooloo.json) |
 | Marbellous | 311465 | [311465-marbellous.json](./311465-marbellous.json) |
 | Marbies Party | 344934 | [344934-marbies-party.json](./344934-marbies-party.json) |
 | Marble Blast Platinum | 239883 | [239883-marble-blast-platinum.json](./239883-marble-blast-platinum.json) |
 | Marble Bloomers | 127962 | [127962-marble-bloomers.json](./127962-marble-bloomers.json) |
+| Marble Champions | 276739 | [276739-marble-champions.json](./276739-marble-champions.json) |
 | Marble Jetpack | 26720 | [26720-marble-jetpack.json](./26720-marble-jetpack.json) |
 | Marble Machine | 58221 | [58221-marble-machine.json](./58221-marble-machine.json) |
 | Marble Madness | 301853 | [301853-marble-madness.json](./301853-marble-madness.json) |
@@ -888,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Wars | 317028 | [317028-mech-wars.json](./317028-mech-wars.json) |
 | Mecha Knights: Nightmare 2 | 377069 | [377069-mecha-knights-nightmare-2.json](./377069-mecha-knights-nightmare-2.json) |
 | Mecha's Negotiations | 363915 | [363915-mechas-negotiations.json](./363915-mechas-negotiations.json) |
+| Mechachain | 276738 | [276738-mechachain.json](./276738-mechachain.json) |
 | Mechanic Miner | 77754 | [77754-mechanic-miner.json](./77754-mechanic-miner.json) |
 | Mechanical Tralp | 278665 | [278665-mechanical-tralp.json](./278665-mechanical-tralp.json) |
 | Mechanical Violator Hakaider: Last Judgement | 66147 | [66147-mechanical-violator-hakaider-last-judgement.json](./66147-mechanical-violator-hakaider-last-judgement.json) |
@@ -2264,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonstrider | 34562 | [34562-moonstrider.json](./34562-moonstrider.json) |
 | Moontales Picbook | 359999 | [359999-moontales-picbook.json](./359999-moontales-picbook.json) |
 | Mooon | 184652 | [184652-mooon.json](./184652-mooon.json) |
+| Mooon | 276742 | [276742-mooon.json](./276742-mooon.json) |
 | Moorhen Seasons | 282544 | [282544-moorhen-seasons.json](./282544-moorhen-seasons.json) |
 | Moorhuhn Adventure: Der Fluch des Goldes | 69856 | [69856-moorhuhn-adventure-der-fluch-des-goldes.json](./69856-moorhuhn-adventure-der-fluch-des-goldes.json) |
 | Moorhuhn Adventure: Der Schatz des Pharao | 190208 | [190208-moorhuhn-adventure-der-schatz-des-pharao.json](./190208-moorhuhn-adventure-der-schatz-des-pharao.json) |
