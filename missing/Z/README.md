@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Attack Pinball HD: Monster Challenge | 89275 | [89275-zombie-attack-pinball-hd-monster-challenge.json](./89275-zombie-attack-pinball-hd-monster-challenge.json) |
 | Zombie Attack: Zombies Survival Shooter | 317235 | [317235-zombie-attack-zombies-survival-shooter.json](./317235-zombie-attack-zombies-survival-shooter.json) |
 | Zombie Ballz | 29709 | [29709-zombie-ballz.json](./29709-zombie-ballz.json) |
+| Zombie Bar Simulator VR | 300718 | [300718-zombie-bar-simulator-vr.json](./300718-zombie-bar-simulator-vr.json) |
 | Zombie Blender | 190746 | [190746-zombie-blender.json](./190746-zombie-blender.json) |
 | Zombie Buster VR | 28886 | [28886-zombie-buster-vr.json](./28886-zombie-buster-vr.json) |
 | Zombie Defense: Emerald Edition | 400206 | [400206-zombie-defense-emerald-edition.json](./400206-zombie-defense-emerald-edition.json) |
