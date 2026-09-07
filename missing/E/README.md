@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evangelion: Breaking Dawn | 382795 | [382795-evangelion-breaking-dawn.json](./382795-evangelion-breaking-dawn.json) |
 | Evasion | 346055 | [346055-evasion.json](./346055-evasion.json) |
 | Evasion from Cluster 42 | 259283 | [259283-evasion-from-cluster-42.json](./259283-evasion-from-cluster-42.json) |
+| Evasive | 273917 | [273917-evasive.json](./273917-evasive.json) |
 | Eve Frontier | 323164 | [323164-eve-frontier.json](./323164-eve-frontier.json) |
 | EVE Jan | 59432 | [59432-eve-jan.json](./59432-eve-jan.json) |
 | Eve of Destruction | 290946 | [290946-eve-of-destruction.json](./290946-eve-of-destruction.json) |
