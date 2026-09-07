@@ -1337,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Spot | 377586 | [377586-blind-spot.json](./377586-blind-spot.json) |
 | Blind zum Bus | 383973 | [383973-blind-zum-bus.json](./383973-blind-zum-bus.json) |
 | Blindfire | 320139 | [320139-blindfire.json](./320139-blindfire.json) |
+| Blinding Lite | 302370 | [302370-blinding-lite.json](./302370-blinding-lite.json) |
 | Blinding Oversight | 253592 | [253592-blinding-oversight.json](./253592-blinding-oversight.json) |
 | Blindscape | 26644 | [26644-blindscape.json](./26644-blindscape.json) |
 | Blindsight: War of the Wardens | 248889 | [248889-blindsight-war-of-the-wardens.json](./248889-blindsight-war-of-the-wardens.json) |
@@ -1660,12 +1661,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombshell Barista: Speed Dating | 258195 | [258195-bombshell-barista-speed-dating.json](./258195-bombshell-barista-speed-dating.json) |
 | Bombyx | 123639 | [123639-bombyx.json](./123639-bombyx.json) |
 | Bonbon | 74482 | [74482-bonbon.json](./74482-bonbon.json) |
+| Bond | 302388 | [302388-bond.json](./302388-bond.json) |
 | Bonded Realities | 66109 | [66109-bonded-realities.json](./66109-bonded-realities.json) |
 | Bonds of the Skies | 210264 | [210264-bonds-of-the-skies.json](./210264-bonds-of-the-skies.json) |
 | Bondstones | 302696 | [302696-bondstones.json](./302696-bondstones.json) |
 | Bone Mayhem | 146877 | [146877-bone-mayhem.json](./146877-bone-mayhem.json) |
 | Bone Stuff | 407338 | [407338-bone-stuff.json](./407338-bone-stuff.json) |
 | Bonelab | 198230 | [198230-bonelab.json](./198230-bonelab.json) |
+| Boneless VR | 302352 | [302352-boneless-vr.json](./302352-boneless-vr.json) |
 | Bones in the Boneyard | 319339 | [319339-bones-in-the-boneyard.json](./319339-bones-in-the-boneyard.json) |
 | Bones: Lab Panic | 58811 | [58811-bones-lab-panic.json](./58811-bones-lab-panic.json) |
 | Bones: Wandering Soul | 347678 | [347678-bones-wandering-soul.json](./347678-bones-wandering-soul.json) |
@@ -2217,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Hell Monday | 57089 | [57089-bullet-hell-monday.json](./57089-bullet-hell-monday.json) |
 | Bullet Inferno | 368494 | [368494-bullet-inferno.json](./368494-bullet-inferno.json) |
 | Bullet Maniac | 237629 | [237629-bullet-maniac.json](./237629-bullet-maniac.json) |
+| Bullet Rain | 302357 | [302357-bullet-rain.json](./302357-bullet-rain.json) |
 | Bullet Soul: Tama Tamashii | 43952 | [43952-bullet-soul-tama-tamashii.json](./43952-bullet-soul-tama-tamashii.json) |
 | Bullet Speed | 291227 | [291227-bullet-speed.json](./291227-bullet-speed.json) |
 | Bullet Town | 258720 | [258720-bullet-town.json](./258720-bullet-town.json) |
@@ -2272,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burak Bahar's Unseen Anchor | 83594 | [83594-burak-bahars-unseen-anchor.json](./83594-burak-bahars-unseen-anchor.json) |
 | Buramato | 214744 | [214744-buramato.json](./214744-buramato.json) |
 | Burgaholic | 343793 | [343793-burgaholic.json](./343793-burgaholic.json) |
+| Burger | 302367 | [302367-burger.json](./302367-burger.json) |
 | Burger Bots Inc. | 365101 | [365101-burger-bots-inc.json](./365101-burger-bots-inc.json) |
 | Burger Chef Tycoon: Complete Edition | 199110 | [199110-burger-chef-tycoon-complete-edition.json](./199110-burger-chef-tycoon-complete-edition.json) |
 | Burger Chef Tycoon: GOTY Edition | 273629 | [273629-burger-chef-tycoon-goty-edition.json](./273629-burger-chef-tycoon-goty-edition.json) |
