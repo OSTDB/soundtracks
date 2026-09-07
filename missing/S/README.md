@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scream Collector | 74450 | [74450-scream-collector.json](./74450-scream-collector.json) |
 | Scream Hero | 194000 | [194000-scream-hero.json](./194000-scream-hero.json) |
 | Scream of the Viking 3 | 117074 | [117074-scream-of-the-viking-3.json](./117074-scream-of-the-viking-3.json) |
+| Screamboat Willie | 291464 | [291464-screamboat-willie.json](./291464-screamboat-willie.json) |
 | ScreamCap | 190723 | [190723-screamcap.json](./190723-screamcap.json) |
 | Screen | 300716 | [300716-screen.json](./300716-screen.json) |
 | Screen Blaster | 101548 | [101548-screen-blaster.json](./101548-screen-blaster.json) |
@@ -590,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeaQuest Dungeon | 379346 | [379346-seaquest-dungeon.json](./379346-seaquest-dungeon.json) |
 | Search | 233771 | [233771-search.json](./233771-search.json) |
 | Search & Destroy | 43347 | [43347-search-and-destroy.json](./43347-search-and-destroy.json) |
+| Search All: Balls | 291475 | [291475-search-all-balls.json](./291475-search-all-balls.json) |
 | Search All: Bones | 387338 | [387338-search-all-bones.json](./387338-search-all-bones.json) |
 | Search and Rescue: Snowman From Outer Space | 301271 | [301271-search-and-rescue-snowman-from-outer-space.json](./301271-search-and-rescue-snowman-from-outer-space.json) |
 | Search for the Secret Keys | 69885 | [69885-search-for-the-secret-keys.json](./69885-search-for-the-secret-keys.json) |
@@ -942,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowbane: The Rise of Chaos | 70972 | [70972-shadowbane-the-rise-of-chaos.json](./70972-shadowbane-the-rise-of-chaos.json) |
 | Shadowblade Knight Symphony | 313154 | [313154-shadowblade-knight-symphony.json](./313154-shadowblade-knight-symphony.json) |
 | Shadowbound | 374076 | [374076-shadowbound.json](./374076-shadowbound.json) |
+| Shadowgate 2 | 291480 | [291480-shadowgate-2.json](./291480-shadowgate-2.json) |
 | Shadowgate Classic | 8699 | [8699-shadowgate-classic.json](./8699-shadowgate-classic.json) |
 | Shadowgate: MacVenture Series | 35911 | [35911-shadowgate-macventure-series.json](./35911-shadowgate-macventure-series.json) |
 | Shadowhand Solitaire | 322568 | [322568-shadowhand-solitaire.json](./322568-shadowhand-solitaire.json) |
@@ -2069,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner: Season 19 - Research & Restore | 397683 | [397683-snowrunner-season-19-research-and-restore.json](./397683-snowrunner-season-19-research-and-restore.json) |
 | SnowRunner: Season 20 | 397684 | [397684-snowrunner-season-20.json](./397684-snowrunner-season-20.json) |
 | Snowsquall Grip | 302375 | [302375-snowsquall-grip.json](./302375-snowsquall-grip.json) |
+| Snowy Flag | 291444 | [291444-snowy-flag.json](./291444-snowy-flag.json) |
 | Snowy: Fish Frenzy | 71519 | [71519-snowy-fish-frenzy.json](./71519-snowy-fish-frenzy.json) |
 | Snowy: Lunch Rush | 73289 | [73289-snowy-lunch-rush.json](./73289-snowy-lunch-rush.json) |
 | Snug Finder & Puzzles | 231059 | [231059-snug-finder-and-puzzles.json](./231059-snug-finder-and-puzzles.json) |
@@ -2097,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Player Simulator | 116473 | [116473-soccer-player-simulator.json](./116473-soccer-player-simulator.json) |
 | Soccer RPG: Become the coach for the national team! | 94259 | [94259-soccer-rpg-become-the-coach-for-the-national-team.json](./94259-soccer-rpg-become-the-coach-for-the-national-team.json) |
 | Soccer Showdown 3 | 233735 | [233735-soccer-showdown-3.json](./233735-soccer-showdown-3.json) |
+| Soccer Squad | 291486 | [291486-soccer-squad.json](./291486-soccer-squad.json) |
 | Soccer Star Manager | 108467 | [108467-soccer-star-manager.json](./108467-soccer-star-manager.json) |
 | Soccer VR | 329004 | [329004-soccer-vr.json](./329004-soccer-vr.json) |
 | Soccer VR Football | 200169 | [200169-soccer-vr-football.json](./200169-soccer-vr-football.json) |
@@ -2119,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Softnauts the Game | 23908 | [23908-softnauts-the-game.json](./23908-softnauts-the-game.json) |
 | Software Tycoon: Der Spielemanager | 243953 | [243953-software-tycoon-der-spielemanager.json](./243953-software-tycoon-der-spielemanager.json) |
 | Sohee | 355020 | [355020-sohee.json](./355020-sohee.json) |
+| Sojourn Past | 291473 | [291473-sojourn-past.json](./291473-sojourn-past.json) |
 | Sojourn Through the Decade | 314056 | [314056-sojourn-through-the-decade.json](./314056-sojourn-through-the-decade.json) |
 | Sokoban | 19573 | [19573-sokoban.json](./19573-sokoban.json) |
 | Sokoban (Boxman) Classic | 171619 | [171619-sokoban-boxman-classic.json](./171619-sokoban-boxman-classic.json) |
@@ -2558,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOVL: Ratkin Clans | 305773 | [305773-sovl-ratkin-clans.json](./305773-sovl-ratkin-clans.json) |
 | SOVL: Reptilian Kingdoms | 296657 | [296657-sovl-reptilian-kingdoms.json](./296657-sovl-reptilian-kingdoms.json) |
 | Sowon : The Toy Wonderland | 298579 | [298579-sowon-the-toy-wonderland.json](./298579-sowon-the-toy-wonderland.json) |
+| SP-Light | 291452 | [291452-sp-light.json](./291452-sp-light.json) |
 | Sp:In | 242788 | [242788-sp-in.json](./242788-sp-in.json) |
 | Space 2: Breakthrough Gaming Arcade | 145669 | [145669-space-2-breakthrough-gaming-arcade.json](./145669-space-2-breakthrough-gaming-arcade.json) |
 | Space Adventure | 100187 | [100187-space-adventure.json](./100187-space-adventure.json) |
@@ -2729,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark | 256525 | [256525-spark.json](./256525-spark.json) |
 | Spark Five | 111683 | [111683-spark-five.json](./111683-spark-five.json) |
 | Spark in the Dark | 140616 | [140616-spark-in-the-dark.json](./140616-spark-in-the-dark.json) |
+| Spark Of Nature | 291471 | [291471-spark-of-nature.json](./291471-spark-of-nature.json) |
 | Sparked | 382199 | [382199-sparked.json](./382199-sparked.json) |
 | Sparking Beam Strike 1000 | 328485 | [328485-sparking-beam-strike-1000.json](./328485-sparking-beam-strike-1000.json) |
 | Sparkle | 88277 | [88277-sparkle.json](./88277-sparkle.json) |
@@ -3024,6 +3032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprint | 359441 | [359441-sprint.json](./359441-sprint.json) |
 | Sprint Car Challenge | 43333 | [43333-sprint-car-challenge.json](./43333-sprint-car-challenge.json) |
 | Sprite Fantasia | 174861 | [174861-sprite-fantasia.json](./174861-sprite-fantasia.json) |
+| Sprite's Honor! | 291491 | [291491-sprites-honor.json](./291491-sprites-honor.json) |
 | Sprites at Play | 196880 | [196880-sprites-at-play.json](./196880-sprites-at-play.json) |
 | Sproing | 329401 | [329401-sproing.json](./329401-sproing.json) |
 | Sprout Crafter | 329587 | [329587-sprout-crafter.json](./329587-sprout-crafter.json) |
@@ -3361,6 +3370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarryMonogatari: Student's Terminal | 302103 | [302103-starrymonogatari-students-terminal.json](./302103-starrymonogatari-students-terminal.json) |
 | Stars Collapse | 302672 | [302672-stars-collapse.json](./302672-stars-collapse.json) |
 | Stars of the Screen | 232677 | [232677-stars-of-the-screen.json](./232677-stars-of-the-screen.json) |
+| Stars Survivor | 291481 | [291481-stars-survivor.json](./291481-stars-survivor.json) |
 | Starseed Harmonies | 385553 | [385553-starseed-harmonies.json](./385553-starseed-harmonies.json) |
 | Starshifter | 211942 | [211942-starshifter.json](./211942-starshifter.json) |
 | Starship Eleven Deluxe | 360605 | [360605-starship-eleven-deluxe.json](./360605-starship-eleven-deluxe.json) |
