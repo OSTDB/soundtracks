@@ -928,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Tactics: Aiko's Choice - Deluxe Edition | 331844 | [331844-shadow-tactics-aikos-choice-deluxe-edition.json](./331844-shadow-tactics-aikos-choice-deluxe-edition.json) |
 | Shadow Tactics: Blades of the Shogun | 19085 | [19085-shadow-tactics-blades-of-the-shogun.json](./19085-shadow-tactics-blades-of-the-shogun.json) |
 | Shadow Tactics: Blades of the Shogun - Deluxe Edition | 331845 | [331845-shadow-tactics-blades-of-the-shogun-deluxe-edition.json](./331845-shadow-tactics-blades-of-the-shogun-deluxe-edition.json) |
+| Shadow Touched | 294136 | [294136-shadow-touched.json](./294136-shadow-touched.json) |
 | Shadow Warren | 356631 | [356631-shadow-warren.json](./356631-shadow-warren.json) |
 | Shadow Warrior 2: Bounty Hunt Part 1 | 27876 | [27876-shadow-warrior-2-bounty-hunt-part-1.json](./27876-shadow-warrior-2-bounty-hunt-part-1.json) |
 | Shadow Warrior 2: Special Reserve Collector's Edition | 25772 | [25772-shadow-warrior-2-special-reserve-collectors-edition.json](./25772-shadow-warrior-2-special-reserve-collectors-edition.json) |
@@ -2933,6 +2934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splosion Man | 8354 | [8354-splosion-man.json](./8354-splosion-man.json) |
 | SpongeBob HeroPants | 8474 | [8474-spongebob-heropants.json](./8474-spongebob-heropants.json) |
 | SpongeBob in Run For The Krusty Krab | 382779 | [382779-spongebob-in-run-for-the-krusty-krab.json](./382779-spongebob-in-run-for-the-krusty-krab.json) |
+| SpongeBob SolitairePants | 294177 | [294177-spongebob-solitairepants.json](./294177-spongebob-solitairepants.json) |
 | SpongeBob SquarePants: Flip or Flop | 273123 | [273123-spongebob-squarepants-flip-or-flop.json](./273123-spongebob-squarepants-flip-or-flop.json) |
 | SpongeBob SquarePants: Nighty Nightmare | 18301 | [18301-spongebob-squarepants-nighty-nightmare.json](./18301-spongebob-squarepants-nighty-nightmare.json) |
 | SpongeBob SquarePants: Titans of the Tide | 358751 | [358751-spongebob-squarepants-titans-of-the-tide.json](./358751-spongebob-squarepants-titans-of-the-tide.json) |
@@ -3440,6 +3442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Judgment | 329589 | [329589-steel-judgment.json](./329589-steel-judgment.json) |
 | Steel Manticore | 295016 | [295016-steel-manticore.json](./295016-steel-manticore.json) |
 | Steel Skirmish: Reloaded | 379347 | [379347-steel-skirmish-reloaded.json](./379347-steel-skirmish-reloaded.json) |
+| Steel Soul | 294133 | [294133-steel-soul.json](./294133-steel-soul.json) |
 | Steel Storm: Burning Retribution | 16243 | [16243-steel-storm-burning-retribution.json](./16243-steel-storm-burning-retribution.json) |
 | Steel Strider | 34403 | [34403-steel-strider.json](./34403-steel-strider.json) |
 | Steel Thunder | 244476 | [244476-steel-thunder.json](./244476-steel-thunder.json) |
@@ -3728,6 +3731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Squadron: Caracará | 31958 | [31958-strike-squadron-caracara.json](./31958-strike-squadron-caracara.json) |
 | Strike Witches: Doki! Otome Darake no Jouriku Sakusen | 69278 | [69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json](./69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json) |
 | StrikeNet | 339655 | [339655-strikenet.json](./339655-strikenet.json) |
+| String Theory | 294149 | [294149-string-theory.json](./294149-string-theory.json) |
 | Strip Breaker: Hentai Girls | 109695 | [109695-strip-breaker-hentai-girls.json](./109695-strip-breaker-hentai-girls.json) |
 | Strip Fighter 5: Chimpocon Edition | 185648 | [185648-strip-fighter-5-chimpocon-edition.json](./185648-strip-fighter-5-chimpocon-edition.json) |
 | Stripper Anya 2: X-MiGuFighters | 75168 | [75168-stripper-anya-2-x-migufighters.json](./75168-stripper-anya-2-x-migufighters.json) |
