@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baraduke | 39856 | [39856-baraduke.json](./39856-baraduke.json) |
 | Baratin: The Video Game | 374085 | [374085-baratin-the-video-game.json](./374085-baratin-the-video-game.json) |
 | Barbarian Simulator | 157718 | [157718-barbarian-simulator.json](./157718-barbarian-simulator.json) |
+| Barbarization | 311491 | [311491-barbarization.json](./311491-barbarization.json) |
 | Barbarous 2: Tavern Wars | 192944 | [192944-barbarous-2-tavern-wars.json](./192944-barbarous-2-tavern-wars.json) |
 | BarBarQ | 82149 | [82149-barbarq.json](./82149-barbarq.json) |
 | Barbershop Simulator | 220351 | [220351-barbershop-simulator.json](./220351-barbershop-simulator.json) |
@@ -676,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beambender | 14293 | [14293-beambender.json](./14293-beambender.json) |
 | Beamdown | 338198 | [338198-beamdown.json](./338198-beamdown.json) |
 | Bean Battle Brawl | 338199 | [338199-bean-battle-brawl.json](./338199-bean-battle-brawl.json) |
+| Bean There Won That | 311497 | [311497-bean-there-won-that.json](./311497-bean-there-won-that.json) |
 | Bear Stormin' | 339647 | [339647-bear-stormin.json](./339647-bear-stormin.json) |
 | Bear's Restaurant | 151754 | [151754-bears-restaurant.json](./151754-bears-restaurant.json) |
 | Bearded Dragons | 133475 | [133475-bearded-dragons.json](./133475-bearded-dragons.json) |
@@ -1300,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach: The Blade of Fate | 20530 | [20530-bleach-the-blade-of-fate.json](./20530-bleach-the-blade-of-fate.json) |
 | Bleak Frontier | 258707 | [258707-bleak-frontier.json](./258707-bleak-frontier.json) |
 | Bleak Haven | 350435 | [350435-bleak-haven.json](./350435-bleak-haven.json) |
+| Bleak House | 311468 | [311468-bleak-house.json](./311468-bleak-house.json) |
 | Bleak Sword DX | 235203 | [235203-bleak-sword-dx.json](./235203-bleak-sword-dx.json) |
 | Bleaklight Falls | 362270 | [362270-bleaklight-falls.json](./362270-bleaklight-falls.json) |
 | Bleeding Kansas | 51939 | [51939-bleeding-kansas.json](./51939-bleeding-kansas.json) |
@@ -2044,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broom Racer | 405525 | [405525-broom-racer.json](./405525-broom-racer.json) |
 | Brotato: Nintendo Switch 2 Edition | 378791 | [378791-brotato-nintendo-switch-2-edition.json](./378791-brotato-nintendo-switch-2-edition.json) |
 | Brother Wings | 29912 | [29912-brother-wings.json](./29912-brother-wings.json) |
+| Brotherhood of Ruin 2024: Element Temple Research Complex | 311464 | [311464-brotherhood-of-ruin-2024-element-temple-research-complex.json](./311464-brotherhood-of-ruin-2024-element-temple-research-complex.json) |
 | Brothers Conflict: Brilliant Blue | 45991 | [45991-brothers-conflict-brilliant-blue.json](./45991-brothers-conflict-brilliant-blue.json) |
 | Brothers Conflict: Passion Pink | 45990 | [45990-brothers-conflict-passion-pink.json](./45990-brothers-conflict-passion-pink.json) |
 | Broventure: The Wild Co-op | 332270 | [332270-broventure-the-wild-co-op.json](./332270-broventure-the-wild-co-op.json) |
