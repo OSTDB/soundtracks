@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underfell Neutral Run | 335065 | [335065-underfell-neutral-run.json](./335065-underfell-neutral-run.json) |
 | Undergod | 276153 | [276153-undergod.json](./276153-undergod.json) |
 | Underground 2077 | 174858 | [174858-underground-2077.json](./174858-underground-2077.json) |
+| Underground Defense Force: Sword and Sorcery and Swarm of Insects | 270108 | [270108-underground-defense-force-sword-and-sorcery-and-swarm-of-insects.json](./270108-underground-defense-force-sword-and-sorcery-and-swarm-of-insects.json) |
 | Underground Dungeon | 192418 | [192418-underground-dungeon.json](./192418-underground-dungeon.json) |
 | Underground Prisoner | 310178 | [310178-underground-prisoner.json](./310178-underground-prisoner.json) |
 | Underground Security Inc | 367984 | [367984-underground-security-inc.json](./367984-underground-security-inc.json) |
@@ -250,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undernauts: Labyrinth of Yomi | 25672 | [25672-undernauts-labyrinth-of-yomi.json](./25672-undernauts-labyrinth-of-yomi.json) |
 | Undernauts: Labyrinth of Yomi & Mon-Yu | 304331 | [304331-undernauts-labyrinth-of-yomi-and-mon-yu.json](./304331-undernauts-labyrinth-of-yomi-and-mon-yu.json) |
 | Underneath | 177545 | [177545-underneath.json](./177545-underneath.json) |
+| UnderOneRoof | 270095 | [270095-underoneroof.json](./270095-underoneroof.json) |
 | Underpond | 376444 | [376444-underpond.json](./376444-underpond.json) |
 | Underponder | 151189 | [151189-underponder.json](./151189-underponder.json) |
 | Underquest | 250016 | [250016-underquest.json](./250016-underquest.json) |
