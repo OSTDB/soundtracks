@@ -2622,6 +2622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch's Yarn | 9510 | [9510-the-witchs-yarn.json](./9510-the-witchs-yarn.json) |
 | The Witcher 2: Assassins of Kings - Enhanced Edition | 20740 | [20740-the-witcher-2-assassins-of-kings-enhanced-edition.json](./20740-the-witcher-2-assassins-of-kings-enhanced-edition.json) |
 | The Witcher 3: Enhanced Edition - Redux | 283715 | [283715-the-witcher-3-enhanced-edition-redux.json](./283715-the-witcher-3-enhanced-edition-redux.json) |
+| The Witches Pond | 277823 | [277823-the-witches-pond.json](./277823-the-witches-pond.json) |
 | The Wizard Game | 149092 | [149092-the-wizard-game.json](./149092-the-wizard-game.json) |
 | The Wizard Needs Food, Badly! | 330717 | [330717-the-wizard-needs-food-badly.json](./330717-the-wizard-needs-food-badly.json) |
 | The Wizard of Oz | 25781 | [25781-the-wizard-of-oz.json](./25781-the-wizard-of-oz.json) |
@@ -4083,6 +4084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trip Movie /Mosaic: Shounen Alice Satsujin Jiken | 366243 | [366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json](./366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json) |
 | Trip Time Collection | 328467 | [328467-trip-time-collection.json](./328467-trip-time-collection.json) |
 | Trip's Voyage: Gem Rush | 309122 | [309122-trips-voyage-gem-rush.json](./309122-trips-voyage-gem-rush.json) |
+| Triple | 277861 | [277861-triple.json](./277861-triple.json) |
 | Triple Action | 5709 | [5709-triple-action.json](./5709-triple-action.json) |
 | Triple Agent! | 75144 | [75144-triple-agent.json](./75144-triple-agent.json) |
 | Triple Bubble | 307579 | [307579-triple-bubble.json](./307579-triple-bubble.json) |
@@ -4321,6 +4323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Town: A Cyberpunk FPS | 260400 | [260400-twilight-town-a-cyberpunk-fps.json](./260400-twilight-town-a-cyberpunk-fps.json) |
 | Twilight Wars: Declassified | 166205 | [166205-twilight-wars-declassified.json](./166205-twilight-wars-declassified.json) |
 | Twin Calibre: 688 Attack Sub + Chuck Yeager's Air Combat | 86086 | [86086-twin-calibre-688-attack-sub-chuck-yeagers-air-combat.json](./86086-twin-calibre-688-attack-sub-chuck-yeagers-air-combat.json) |
+| Twin Cards | 277866 | [277866-twin-cards.json](./277866-twin-cards.json) |
 | Twin Dragons | 159356 | [159356-twin-dragons.json](./159356-twin-dragons.json) |
 | Twin Eagle II | 70389 | [70389-twin-eagle-ii.json](./70389-twin-eagle-ii.json) |
 | Twin Kingdom Valley | 12971 | [12971-twin-kingdom-valley.json](./12971-twin-kingdom-valley.json) |
