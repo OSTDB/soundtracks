@@ -1714,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombs Away! | 245548 | [245548-bombs-away.json](./245548-bombs-away.json) |
 | Bombshell Barista: Speed Dating | 258195 | [258195-bombshell-barista-speed-dating.json](./258195-bombshell-barista-speed-dating.json) |
 | Bombyx | 123639 | [123639-bombyx.json](./123639-bombyx.json) |
+| Bonanza Burger | 288779 | [288779-bonanza-burger.json](./288779-bonanza-burger.json) |
 | Bonbon | 74482 | [74482-bonbon.json](./74482-bonbon.json) |
 | Bond | 302388 | [302388-bond.json](./302388-bond.json) |
 | Bond Blues | 293107 | [293107-bond-blues.json](./293107-bond-blues.json) |
