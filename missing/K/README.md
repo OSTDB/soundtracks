@@ -617,7 +617,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights | 32575 | [32575-knights.json](./32575-knights.json) |
 | Knights & Dragons | 59980 | [59980-knights-and-dragons.json](./59980-knights-and-dragons.json) |
 | Knights & Guns: Advanced Edition | 317252 | [317252-knights-and-guns-advanced-edition.json](./317252-knights-and-guns-advanced-edition.json) |
+| Knights & Guns: Definitive Edition | 283141 | [283141-knights-and-guns-definitive-edition.json](./283141-knights-and-guns-definitive-edition.json) |
 | Knights & Guns: Grand Edition | 315860 | [315860-knights-and-guns-grand-edition.json](./315860-knights-and-guns-grand-edition.json) |
+| Knights & Guns: Ultimate Edition | 283142 | [283142-knights-and-guns-ultimate-edition.json](./283142-knights-and-guns-ultimate-edition.json) |
 | Knights and Bikes | 25584 | [25584-knights-and-bikes.json](./25584-knights-and-bikes.json) |
 | Knights and Craftsmen | 223689 | [223689-knights-and-craftsmen.json](./223689-knights-and-craftsmen.json) |
 | Knights Conquest | 123060 | [123060-knights-conquest.json](./123060-knights-conquest.json) |
@@ -773,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kselebox | 169978 | [169978-kselebox.json](./169978-kselebox.json) |
 | Kuàilè Xiǎojī | 130953 | [130953-kuaile-xiaoji.json](./130953-kuaile-xiaoji.json) |
 | Kubble Star | 129218 | [129218-kubble-star.json](./129218-kubble-star.json) |
+| Kubic | 283143 | [283143-kubic.json](./283143-kubic.json) |
 | Kubits Gallery | 296690 | [296690-kubits-gallery.json](./296690-kubits-gallery.json) |
 | Kubo 3 | 159353 | [159353-kubo-3.json](./159353-kubo-3.json) |
 | Kubus | 80580 | [80580-kubus.json](./80580-kubus.json) |
