@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1939 | 265966 | [265966-1939.json](./265966-1939.json) |
 | 1942 Pacific Front | 109016 | [109016-1942-pacific-front.json](./109016-1942-pacific-front.json) |
 | 1943: The Battle of Midway | 6076 | [6076-1943-the-battle-of-midway.json](./6076-1943-the-battle-of-midway.json) |
+| 1944: Return to Midway | 310970 | [310970-1944-return-to-midway.json](./310970-1944-return-to-midway.json) |
 | 1953: KGB Unleashed | 9771 | [9771-1953-kgb-unleashed.json](./9771-1953-kgb-unleashed.json) |
 | 1954 Alcatraz | 7169 | [7169-1954-alcatraz.json](./7169-1954-alcatraz.json) |
 | 1979 Invasion Earth | 29876 | [29876-1979-invasion-earth.json](./29876-1979-invasion-earth.json) |
