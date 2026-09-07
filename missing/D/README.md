@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Anarchy | 274773 | [274773-dawn-of-anarchy.json](./274773-dawn-of-anarchy.json) |
 | Dawn of Defense | 310733 | [310733-dawn-of-defense.json](./310733-dawn-of-defense.json) |
 | Dawn of Dynasty | 163439 | [163439-dawn-of-dynasty.json](./163439-dawn-of-dynasty.json) |
+| Dawn of Gray | 288791 | [288791-dawn-of-gray.json](./288791-dawn-of-gray.json) |
 | Dawn of Magic 2 | 11025 | [11025-dawn-of-magic-2.json](./11025-dawn-of-magic-2.json) |
 | Dawn of Shadow | 237082 | [237082-dawn-of-shadow.json](./237082-dawn-of-shadow.json) |
 | Dawn of the Mexica | 143739 | [143739-dawn-of-the-mexica.json](./143739-dawn-of-the-mexica.json) |
@@ -633,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deepfried in Deepspace | 373541 | [373541-deepfried-in-deepspace.json](./373541-deepfried-in-deepspace.json) |
 | Deephome | 66693 | [66693-deephome.json](./66693-deephome.json) |
 | Deeplanders | 319344 | [319344-deeplanders.json](./319344-deeplanders.json) |
+| DeepSea Serenity: VR Underwater Trip | 288786 | [288786-deepsea-serenity-vr-underwater-trip.json](./288786-deepsea-serenity-vr-underwater-trip.json) |
 | DeepWeb Simulator | 291448 | [291448-deepweb-simulator.json](./291448-deepweb-simulator.json) |
 | Deer Avenger | 73851 | [73851-deer-avenger.json](./73851-deer-avenger.json) |
 | Deer Avenger 2 | 316617 | [316617-deer-avenger-2.json](./316617-deer-avenger-2.json) |
@@ -2312,6 +2314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Redemption | 204691 | [204691-dungeon-redemption.json](./204691-dungeon-redemption.json) |
 | Dungeon Rollers | 184623 | [184623-dungeon-rollers.json](./184623-dungeon-rollers.json) |
 | Dungeon Rummage: Tiqee's Escape | 195248 | [195248-dungeon-rummage-tiqees-escape.json](./195248-dungeon-rummage-tiqees-escape.json) |
+| Dungeon Settlers | 288782 | [288782-dungeon-settlers.json](./288782-dungeon-settlers.json) |
 | Dungeon Shifters | 364507 | [364507-dungeon-shifters.json](./364507-dungeon-shifters.json) |
 | Dungeon Slayer | 194008 | [194008-dungeon-slayer.json](./194008-dungeon-slayer.json) |
 | Dungeon Slime Hero | 295808 | [295808-dungeon-slime-hero.json](./295808-dungeon-slime-hero.json) |
