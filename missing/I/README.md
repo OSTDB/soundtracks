@@ -264,6 +264,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Kingdom | 405517 | [405517-idol-kingdom.json](./405517-idol-kingdom.json) |
 | Idol Mahjong Final Romance 4 Remaster | 273652 | [273652-idol-mahjong-final-romance-4-remaster.json](./273652-idol-mahjong-final-romance-4-remaster.json) |
 | Idol Manager | 95215 | [95215-idol-manager.json](./95215-idol-manager.json) |
+| Idol Project | 283713 | [283713-idol-project.json](./283713-idol-project.json) |
+| Idol Project 2 | 283714 | [283714-idol-project-2.json](./283714-idol-project-2.json) |
 | Idol Showdown | 243747 | [243747-idol-showdown.json](./243747-idol-showdown.json) |
 | Idol Tantei You&My | 246105 | [246105-idol-tantei-you-and-my.json](./246105-idol-tantei-you-and-my.json) |
 | Idolz | 348248 | [348248-idolz.json](./348248-idolz.json) |
