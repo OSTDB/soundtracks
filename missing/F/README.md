@@ -1241,6 +1241,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Russian 20!8 | 86306 | [86306-football-russian-20-8.json](./86306-football-russian-20-8.json) |
 | Football Superstar 2 | 317008 | [317008-football-superstar-2.json](./317008-football-superstar-2.json) |
 | FootRock 2 | 29902 | [29902-footrock-2.json](./29902-footrock-2.json) |
+| For a Vast Future: Definitive Edition | 283148 | [283148-for-a-vast-future-definitive-edition.json](./283148-for-a-vast-future-definitive-edition.json) |
+| For a Vast Future: Premium Edition | 283149 | [283149-for-a-vast-future-premium-edition.json](./283149-for-a-vast-future-premium-edition.json) |
 | For All the People I Love | 336894 | [336894-for-all-the-people-i-love.json](./336894-for-all-the-people-i-love.json) |
 | For Elise | 257070 | [257070-for-elise.json](./257070-for-elise.json) |
 | For Honor: Ezio Auditore – Peacekeeper Hero Skin | 305765 | [305765-for-honor-ezio-auditore-peacekeeper-hero-skin.json](./305765-for-honor-ezio-auditore-peacekeeper-hero-skin.json) |
@@ -1503,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freakout: Calamity TV Show | 102150 | [102150-freakout-calamity-tv-show.json](./102150-freakout-calamity-tv-show.json) |
 | Freaky Trip: Amazing Edition | 308803 | [308803-freaky-trip-amazing-edition.json](./308803-freaky-trip-amazing-edition.json) |
 | Freaky Trip: Platinum Edition | 298571 | [298571-freaky-trip-platinum-edition.json](./298571-freaky-trip-platinum-edition.json) |
+| Freaky Trip: Special Edition | 283175 | [283175-freaky-trip-special-edition.json](./283175-freaky-trip-special-edition.json) |
 | Freaky Trip: Superb Edition | 315864 | [315864-freaky-trip-superb-edition.json](./315864-freaky-trip-superb-edition.json) |
 | Fred Fuches Around | 397693 | [397693-fred-fuches-around.json](./397693-fred-fuches-around.json) |
 | Fred Johnson's: Mech Simulator | 326429 | [326429-fred-johnsons-mech-simulator.json](./326429-fred-johnsons-mech-simulator.json) |
@@ -1720,7 +1723,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fucked by the Princesses of the Realm | 372488 | [372488-fucked-by-the-princesses-of-the-realm.json](./372488-fucked-by-the-princesses-of-the-realm.json) |
 | Fuel Station Simulator | 336369 | [336369-fuel-station-simulator.json](./336369-fuel-station-simulator.json) |
 | Fuel Tanker Truck | 105918 | [105918-fuel-tanker-truck.json](./105918-fuel-tanker-truck.json) |
+| Fuga: Melodies of Steel - Ultimate Edition | 283145 | [283145-fuga-melodies-of-steel-ultimate-edition.json](./283145-fuga-melodies-of-steel-ultimate-edition.json) |
 | Fuga: Melodies of Steel 2 - Deluxe Edition | 246620 | [246620-fuga-melodies-of-steel-2-deluxe-edition.json](./246620-fuga-melodies-of-steel-2-deluxe-edition.json) |
+| Fuga: Melodies of Steel 2 - Ultimate Edition | 283150 | [283150-fuga-melodies-of-steel-2-ultimate-edition.json](./283150-fuga-melodies-of-steel-2-ultimate-edition.json) |
 | Fuggedaboutit Farm | 372996 | [372996-fuggedaboutit-farm.json](./372996-fuggedaboutit-farm.json) |
 | Fugue | 104072 | [104072-fugue.json](./104072-fugue.json) |
 | FukTopia 3 | 173833 | [173833-fuktopia-3.json](./173833-fuktopia-3.json) |
@@ -1750,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuman Ghoul | 399007 | [399007-fuman-ghoul.json](./399007-fuman-ghoul.json) |
 | Fumble Fiesta | 292557 | [292557-fumble-fiesta.json](./292557-fumble-fiesta.json) |
 | Fumpers 2: Dual Realms | 384508 | [384508-fumpers-2-dual-realms.json](./384508-fumpers-2-dual-realms.json) |
+| Fun Chess: Platinum Edition | 283146 | [283146-fun-chess-platinum-edition.json](./283146-fun-chess-platinum-edition.json) |
 | Fun Park Simulator | 394165 | [394165-fun-park-simulator.json](./394165-fun-park-simulator.json) |
 | Fun Run 3 | 57120 | [57120-fun-run-3.json](./57120-fun-run-3.json) |
 | Fun Times at Homer's | 383384 | [383384-fun-times-at-homers.json](./383384-fun-times-at-homers.json) |
