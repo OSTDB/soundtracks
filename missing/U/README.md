@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Business Tycoon IV: Whitewater Rafting | 290389 | [290389-ultra-business-tycoon-iv-whitewater-rafting.json](./290389-ultra-business-tycoon-iv-whitewater-rafting.json) |
 | Ultra Bust-A-Move | 47317 | [47317-ultra-bust-a-move.json](./47317-ultra-bust-a-move.json) |
 | Ultra Fighters | 95454 | [95454-ultra-fighters.json](./95454-ultra-fighters.json) |
+| Ultra Foodmess: Deluxe Edition | 287114 | [287114-ultra-foodmess-deluxe-edition.json](./287114-ultra-foodmess-deluxe-edition.json) |
 | Ultra Hyperball | 51950 | [51950-ultra-hyperball.json](./51950-ultra-hyperball.json) |
 | Ultra Mega Dungeon 64 | 397662 | [397662-ultra-mega-dungeon-64.json](./397662-ultra-mega-dungeon-64.json) |
 | Ultra Ninja Soul | 151755 | [151755-ultra-ninja-soul.json](./151755-ultra-ninja-soul.json) |
@@ -481,3 +482,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uzzuzzu My Pet: Golf Dash - Magnificent Edition | 328815 | [328815-uzzuzzu-my-pet-golf-dash-magnificent-edition.json](./328815-uzzuzzu-my-pet-golf-dash-magnificent-edition.json) |
 | Uzzuzzu My Pet: Golf Dash - Platinum Edition | 328816 | [328816-uzzuzzu-my-pet-golf-dash-platinum-edition.json](./328816-uzzuzzu-my-pet-golf-dash-platinum-edition.json) |
 | Uzzuzzu My Pet: Golf Dash - Superb Edition | 328817 | [328817-uzzuzzu-my-pet-golf-dash-superb-edition.json](./328817-uzzuzzu-my-pet-golf-dash-superb-edition.json) |
+| Uzzuzzu My Pet: Golf Dash - Ultimate Edition | 287123 | [287123-uzzuzzu-my-pet-golf-dash-ultimate-edition.json](./287123-uzzuzzu-my-pet-golf-dash-ultimate-edition.json) |
