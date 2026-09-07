@@ -734,6 +734,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Britney Spears - "Oops!...I Did It Again" | 357224 | [357224-beat-saber-britney-spears-oops-i-did-it-again.json](./357224-beat-saber-britney-spears-oops-i-did-it-again.json) |
 | Beat Saber: Britney Spears - "Toxic" | 357221 | [357221-beat-saber-britney-spears-toxic.json](./357221-beat-saber-britney-spears-toxic.json) |
 | Beat Saber: Britney Spears Music Pack | 357250 | [357250-beat-saber-britney-spears-music-pack.json](./357250-beat-saber-britney-spears-music-pack.json) |
+| Beat Saber: Daft Punk - "Da Funk / Daftendirekt" | 298063 | [298063-beat-saber-daft-punk-da-funk-daftendirekt.json](./298063-beat-saber-daft-punk-da-funk-daftendirekt.json) |
+| Beat Saber: Daft Punk - "Lose Yourself to Dance (feat. Pharrell Williams)" | 298030 | [298030-beat-saber-daft-punk-lose-yourself-to-dance-feat-pharrell-williams.json](./298030-beat-saber-daft-punk-lose-yourself-to-dance-feat-pharrell-williams.json) |
+| Beat Saber: Daft Punk - "One More Time" | 298060 | [298060-beat-saber-daft-punk-one-more-time.json](./298060-beat-saber-daft-punk-one-more-time.json) |
+| Beat Saber: Daft Punk - "Technologic" | 298062 | [298062-beat-saber-daft-punk-technologic.json](./298062-beat-saber-daft-punk-technologic.json) |
+| Beat Saber: Daft Punk - "Veridis Quo" | 298027 | [298027-beat-saber-daft-punk-veridis-quo.json](./298027-beat-saber-daft-punk-veridis-quo.json) |
 | Beat Saber: Daft Punk Music Pack | 357254 | [357254-beat-saber-daft-punk-music-pack.json](./357254-beat-saber-daft-punk-music-pack.json) |
 | Beat Saber: Darude - "Sandstorm" | 357240 | [357240-beat-saber-darude-sandstorm.json](./357240-beat-saber-darude-sandstorm.json) |
 | Beat Saber: deadmau5 - "Ghosts 'n' Stuff (feat. Rob Swire)" | 357238 | [357238-beat-saber-deadmau5-ghosts-n-stuff-feat-rob-swire.json](./357238-beat-saber-deadmau5-ghosts-n-stuff-feat-rob-swire.json) |
@@ -831,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind You | 34572 | [34572-behind-you.json](./34572-behind-you.json) |
 | Behoarder | 184617 | [184617-behoarder.json](./184617-behoarder.json) |
 | Behold the Kickmen | 26188 | [26188-behold-the-kickmen.json](./26188-behold-the-kickmen.json) |
+| Beholder: Conductor | 298041 | [298041-beholder-conductor.json](./298041-beholder-conductor.json) |
 | Beholgar: Collector's Edition | 228739 | [228739-beholgar-collectors-edition.json](./228739-beholgar-collectors-edition.json) |
 | BeiJing Courier Simulator | 118413 | [118413-beijing-courier-simulator.json](./118413-beijing-courier-simulator.json) |
 | Bejeweled | 121723 | [121723-bejeweled.json](./121723-bejeweled.json) |
@@ -913,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berenice: Videogame | 344346 | [344346-berenice-videogame.json](./344346-berenice-videogame.json) |
 | Berenstain Bears in Big Paw's Cave | 273082 | [273082-berenstain-bears-in-big-paws-cave.json](./273082-berenstain-bears-in-big-paws-cave.json) |
 | Bergen Bridge Beginner 1 | 86721 | [86721-bergen-bridge-beginner-1.json](./86721-bergen-bridge-beginner-1.json) |
+| Berkeley's Maid: Remake Edition | 298059 | [298059-berkeleys-maid-remake-edition.json](./298059-berkeleys-maid-remake-edition.json) |
 | Bermuda: Lost Survival | 43365 | [43365-bermuda-lost-survival.json](./43365-bermuda-lost-survival.json) |
 | Bernband | 348252 | [348252-bernband.json](./348252-bernband.json) |
 | Berry Brother | 257662 | [257662-berry-brother.json](./257662-berry-brother.json) |
@@ -1072,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bing in Wonderland: Wings & Weapon Looks - White Tiger | 325442 | [325442-bing-in-wonderland-wings-and-weapon-looks-white-tiger.json](./325442-bing-in-wonderland-wings-and-weapon-looks-white-tiger.json) |
 | Bingaboll | 259862 | [259862-bingaboll.json](./259862-bingaboll.json) |
 | Bingo 75 | 22429 | [22429-bingo-75.json](./22429-bingo-75.json) |
+| Bingo Beavers: Kitchen | 298035 | [298035-bingo-beavers-kitchen.json](./298035-bingo-beavers-kitchen.json) |
 | Bingo Betty | 377081 | [377081-bingo-betty.json](./377081-bingo-betty.json) |
 | Bingo de NouTore: BinTore | 222526 | [222526-bingo-de-noutore-bintore.json](./222526-bingo-de-noutore-bintore.json) |
 | Bingo Infinity | 96082 | [96082-bingo-infinity.json](./96082-bingo-infinity.json) |
