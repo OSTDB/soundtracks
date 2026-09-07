@@ -131,6 +131,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Sex | 365717 | [365717-office-sex.json](./365717-office-sex.json) |
 | Office Simulator | 326392 | [326392-office-simulator.json](./326392-office-simulator.json) |
 | Officers | 21119 | [21119-officers.json](./21119-officers.json) |
+| Official AFL: The Interactive DVD Trivia Game - Adelaide Super Quiz | 275582 | [275582-official-afl-the-interactive-dvd-trivia-game-adelaide-super-quiz.json](./275582-official-afl-the-interactive-dvd-trivia-game-adelaide-super-quiz.json) |
+| Official AFL: The Interactive DVD Trivia Game - Carlton Super Quiz | 275583 | [275583-official-afl-the-interactive-dvd-trivia-game-carlton-super-quiz.json](./275583-official-afl-the-interactive-dvd-trivia-game-carlton-super-quiz.json) |
+| Official AFL: The Interactive DVD Trivia Game - Collingwood Super Quiz | 275584 | [275584-official-afl-the-interactive-dvd-trivia-game-collingwood-super-quiz.json](./275584-official-afl-the-interactive-dvd-trivia-game-collingwood-super-quiz.json) |
+| Official AFL: The Interactive DVD Trivia Game - Essendon Super Quiz | 275581 | [275581-official-afl-the-interactive-dvd-trivia-game-essendon-super-quiz.json](./275581-official-afl-the-interactive-dvd-trivia-game-essendon-super-quiz.json) |
+| Official AFL: The Interactive DVD Trivia Game - Geelong Super Quiz | 275585 | [275585-official-afl-the-interactive-dvd-trivia-game-geelong-super-quiz.json](./275585-official-afl-the-interactive-dvd-trivia-game-geelong-super-quiz.json) |
+| Official AFL: The Interactive DVD Trivia Game - Richmond Super Quiz | 275589 | [275589-official-afl-the-interactive-dvd-trivia-game-richmond-super-quiz.json](./275589-official-afl-the-interactive-dvd-trivia-game-richmond-super-quiz.json) |
+| Official AFL: The Interactive DVD Trivia Game - St Kilda Super Quiz | 275588 | [275588-official-afl-the-interactive-dvd-trivia-game-st-kilda-super-quiz.json](./275588-official-afl-the-interactive-dvd-trivia-game-st-kilda-super-quiz.json) |
+| Official AFL: The Interactive DVD Trivia Game - Sydney Swans Super Quiz | 275586 | [275586-official-afl-the-interactive-dvd-trivia-game-sydney-swans-super-quiz.json](./275586-official-afl-the-interactive-dvd-trivia-game-sydney-swans-super-quiz.json) |
+| Official AFL: The Interactive DVD Trivia Game - West Coast Eagles Super Quiz | 275587 | [275587-official-afl-the-interactive-dvd-trivia-game-west-coast-eagles-super-quiz.json](./275587-official-afl-the-interactive-dvd-trivia-game-west-coast-eagles-super-quiz.json) |
 | Offline | 216977 | [216977-offline.json](./216977-offline.json) |
 | Offline Games | 336389 | [336389-offline-games.json](./336389-offline-games.json) |
 | Offroad Arcade | 389981 | [389981-offroad-arcade.json](./389981-offroad-arcade.json) |
@@ -231,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympic Decathlon | 178060 | [178060-olympic-decathlon.json](./178060-olympic-decathlon.json) |
 | Om Nom Solitaire | 183608 | [183608-om-nom-solitaire.json](./183608-om-nom-solitaire.json) |
 | Om Nom: Run 2 - Emerald Edition | 396923 | [396923-om-nom-run-2-emerald-edition.json](./396923-om-nom-run-2-emerald-edition.json) |
+| Omakase! Savers | 275605 | [275605-omakase-savers.json](./275605-omakase-savers.json) |
 | Omashu: Snail Racing | 357219 | [357219-omashu-snail-racing.json](./357219-omashu-snail-racing.json) |
 | Omber | 208576 | [208576-omber.json](./208576-omber.json) |
 | Omega | 336352 | [336352-omega.json](./336352-omega.json) |
