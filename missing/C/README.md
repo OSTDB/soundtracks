@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Control | 325843 | [325843-chaos-control.json](./325843-chaos-control.json) |
 | Chaos Crafters | 265399 | [265399-chaos-crafters.json](./265399-chaos-crafters.json) |
 | Chaos Entropy | 320559 | [320559-chaos-entropy.json](./320559-chaos-entropy.json) |
+| Chaos Front | 291490 | [291490-chaos-front.json](./291490-chaos-front.json) |
 | Chaos Islands | 296395 | [296395-chaos-islands.json](./296395-chaos-islands.json) |
 | Chaos Journey | 295021 | [295021-chaos-journey.json](./295021-chaos-journey.json) |
 | Chaos Machina | 331323 | [331323-chaos-machina.json](./331323-chaos-machina.json) |
@@ -759,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase: Hollywood Stunt Driver | 5774 | [5774-chase-hollywood-stunt-driver.json](./5774-chase-hollywood-stunt-driver.json) |
 | Chased Around the World | 211963 | [211963-chased-around-the-world.json](./211963-chased-around-the-world.json) |
 | Chasing the wind | 150697 | [150697-chasing-the-wind.json](./150697-chasing-the-wind.json) |
+| ChatBBT | 291451 | [291451-chatbbt.json](./291451-chatbbt.json) |
 | Château Pluie: The New Cellar Keeper | 412309 | [412309-chateau-pluie-the-new-cellar-keeper.json](./412309-chateau-pluie-the-new-cellar-keeper.json) |
 | ChatTDT: Tower Defense Twitch | 306678 | [306678-chattdt-tower-defense-twitch.json](./306678-chattdt-tower-defense-twitch.json) |
 | Cheap Game 3 | 153984 | [153984-cheap-game-3.json](./153984-cheap-game-3.json) |
@@ -852,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickaboom | 314663 | [314663-chickaboom.json](./314663-chickaboom.json) |
 | Chicken and Duck Brothers | 218699 | [218699-chicken-and-duck-brothers.json](./218699-chicken-and-duck-brothers.json) |
 | Chicken Assassin: Reloaded | 100501 | [100501-chicken-assassin-reloaded.json](./100501-chicken-assassin-reloaded.json) |
+| Chicken Boy's Counterattack | 291488 | [291488-chicken-boys-counterattack.json](./291488-chicken-boys-counterattack.json) |
 | Chicken Coop Invaders | 388753 | [388753-chicken-coop-invaders.json](./388753-chicken-coop-invaders.json) |
 | Chicken Defense | 181398 | [181398-chicken-defense.json](./181398-chicken-defense.json) |
 | Chicken Flight | 354426 | [354426-chicken-flight.json](./354426-chicken-flight.json) |
@@ -1397,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffeetime Crosswords | 74409 | [74409-coffeetime-crosswords.json](./74409-coffeetime-crosswords.json) |
 | Coffin Counseling | 179704 | [179704-coffin-counseling.json](./179704-coffin-counseling.json) |
 | Coffinman | 337463 | [337463-coffinman.json](./337463-coffinman.json) |
+| Cog Fire | 291483 | [291483-cog-fire.json](./291483-cog-fire.json) |
 | Cognitive Dissonance: A SiIvaGunner Christmas Comeback Crisis Side Story | 326956 | [326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json](./326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json) |
 | Cogs and Carnage | 291215 | [291215-cogs-and-carnage.json](./291215-cogs-and-carnage.json) |
 | Cohabitation Life | 296647 | [296647-cohabitation-life.json](./296647-cohabitation-life.json) |
@@ -1644,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confederate Express | 62730 | [62730-confederate-express.json](./62730-confederate-express.json) |
 | Confession of the Golden Witch | 255386 | [255386-confession-of-the-golden-witch.json](./255386-confession-of-the-golden-witch.json) |
 | Confined Space | 415101 | [415101-confined-space.json](./415101-confined-space.json) |
+| Confined: Leaving OKB-134 | 291489 | [291489-confined-leaving-okb-134.json](./291489-confined-leaving-okb-134.json) |
 | Confinement Community Project | 312891 | [312891-confinement-community-project.json](./312891-confinement-community-project.json) |
 | Conflict: Global Terror | 5785 | [5785-conflict-global-terror.json](./5785-conflict-global-terror.json) |
 | Conflict: Middle East | 69884 | [69884-conflict-middle-east.json](./69884-conflict-middle-east.json) |
@@ -1746,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking with Cat | 180310 | [180310-cooking-with-cat.json](./180310-cooking-with-cat.json) |
 | Cool Cats | 174909 | [174909-cool-cats.json](./174909-cool-cats.json) |
 | Cool Cool Jam | 43967 | [43967-cool-cool-jam.json](./43967-cool-cool-jam.json) |
+| Cool Cucumber Cricket | 291450 | [291450-cool-cucumber-cricket.json](./291450-cool-cucumber-cricket.json) |
 | Cool Cucumber Cricket Manager | 311270 | [311270-cool-cucumber-cricket-manager.json](./311270-cool-cucumber-cricket-manager.json) |
 | Cool Forts Prevail | 176472 | [176472-cool-forts-prevail.json](./176472-cool-forts-prevail.json) |
 | Cool Game Pack | 409563 | [409563-cool-game-pack.json](./409563-cool-game-pack.json) |
