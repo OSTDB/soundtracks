@@ -2033,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Chess: Fantasy Edition | 274483 | [274483-brawl-chess-fantasy-edition.json](./274483-brawl-chess-fantasy-edition.json) |
 | Brawl Royale | 269326 | [269326-brawl-royale.json](./269326-brawl-royale.json) |
 | Brawl Stars: Season 31 - Scary Tales | 320182 | [320182-brawl-stars-season-31-scary-tales.json](./320182-brawl-stars-season-31-scary-tales.json) |
+| Brawlberry | 273961 | [273961-brawlberry.json](./273961-brawlberry.json) |
 | Brawlhalla: Autumn Championship 2018 Pack | 342628 | [342628-brawlhalla-autumn-championship-2018-pack.json](./342628-brawlhalla-autumn-championship-2018-pack.json) |
 | Brawlhalla: Bonus Pack 14 | 316624 | [316624-brawlhalla-bonus-pack-14.json](./316624-brawlhalla-bonus-pack-14.json) |
 | Brawlhalla: Spring Championship 2018 Pack | 342626 | [342626-brawlhalla-spring-championship-2018-pack.json](./342626-brawlhalla-spring-championship-2018-pack.json) |
