@@ -1326,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleaning Simulator | 374584 | [374584-cleaning-simulator.json](./374584-cleaning-simulator.json) |
 | Cleaning Simulator: Ultimate Mess | 407359 | [407359-cleaning-simulator-ultimate-mess.json](./407359-cleaning-simulator-ultimate-mess.json) |
 | Cleaning Up! | 360587 | [360587-cleaning-up.json](./360587-cleaning-up.json) |
+| Clear The Coast | 270692 | [270692-clear-the-coast.json](./270692-clear-the-coast.json) |
 | Cleimos | 260945 | [260945-cleimos.json](./260945-cleimos.json) |
 | Cleimos II | 260946 | [260946-cleimos-ii.json](./260946-cleimos-ii.json) |
 | Cleo: A Pirate's Tale - Deluxe Edition | 186887 | [186887-cleo-a-pirates-tale-deluxe-edition.json](./186887-cleo-a-pirates-tale-deluxe-edition.json) |
