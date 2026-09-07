@@ -775,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Christmas | 248907 | [248907-first-christmas.json](./248907-first-christmas.json) |
 | First Class Rescue | 407312 | [407312-first-class-rescue.json](./407312-first-class-rescue.json) |
 | First Date: Late to Date | 210233 | [210233-first-date-late-to-date.json](./210233-first-date-late-to-date.json) |
+| First Flight | 307582 | [307582-first-flight.json](./307582-first-flight.json) |
 | First Frog | 136457 | [136457-first-frog.json](./136457-first-frog.json) |
 | First Made Break Rock | 395542 | [395542-first-made-break-rock.json](./395542-first-made-break-rock.json) |
 | First Odium | 236010 | [236010-first-odium.json](./236010-first-odium.json) |
@@ -1475,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freewheelin | 253023 | [253023-freewheelin.json](./253023-freewheelin.json) |
 | Freeze: The Escape | 79902 | [79902-freeze-the-escape.json](./79902-freeze-the-escape.json) |
 | Fregocles y la Desinfección del Olimpo | 322551 | [322551-fregocles-y-la-desinfeccion-del-olimpo.json](./322551-fregocles-y-la-desinfeccion-del-olimpo.json) |
+| FrenQuest | 307604 | [307604-frenquest.json](./307604-frenquest.json) |
 | Frenzic: Overtime | 152926 | [152926-frenzic-overtime.json](./152926-frenzic-overtime.json) |
 | Frenzy | 13717 | [13717-frenzy.json](./13717-frenzy.json) |
 | Frequency Dissonance | 199120 | [199120-frequency-dissonance.json](./199120-frequency-dissonance.json) |
@@ -1762,6 +1764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari Vampire Girlfriend | 163978 | [163978-futanari-vampire-girlfriend.json](./163978-futanari-vampire-girlfriend.json) |
 | Futari ha Pretty Cure Splash Star | 327580 | [327580-futari-ha-pretty-cure-splash-star.json](./327580-futari-ha-pretty-cure-splash-star.json) |
 | Futariuum's Gate | 310210 | [310210-futariuums-gate.json](./310210-futariuums-gate.json) |
+| Future Avoid | 307583 | [307583-future-avoid.json](./307583-future-avoid.json) |
 | Future Card Buddyfight Mezase! Buddy Champion! | 222542 | [222542-future-card-buddyfight-mezase-buddy-champion.json](./222542-future-card-buddyfight-mezase-buddy-champion.json) |
 | Future Card Buddyfight: Tanjou! Oretachi no Saikyou Buddy! | 222545 | [222545-future-card-buddyfight-tanjou-oretachi-no-saikyou-buddy.json](./222545-future-card-buddyfight-tanjou-oretachi-no-saikyou-buddy.json) |
 | Future Flappy | 89290 | [89290-future-flappy.json](./89290-future-flappy.json) |
