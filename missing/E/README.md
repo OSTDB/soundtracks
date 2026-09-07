@@ -442,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji Craft ! | 103503 | [103503-emoji-craft.json](./103503-emoji-craft.json) |
 | Emoji Rampage: Origins | 378798 | [378798-emoji-rampage-origins.json](./378798-emoji-rampage-origins.json) |
 | Emoji Wars | 397649 | [397649-emoji-wars.json](./397649-emoji-wars.json) |
+| Emoji-Connect | 291989 | [291989-emoji-connect.json](./291989-emoji-connect.json) |
 | EmoteGuesser | 232687 | [232687-emoteguesser.json](./232687-emoteguesser.json) |
 | Emperium | 155661 | [155661-emperium.json](./155661-emperium.json) |
 | Empire Chronicles | 163985 | [163985-empire-chronicles.json](./163985-empire-chronicles.json) |
@@ -622,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epicedium | 102797 | [102797-epicedium.json](./102797-epicedium.json) |
 | Epicinium | 82124 | [82124-epicinium.json](./82124-epicinium.json) |
 | Epigenesis | 16576 | [16576-epigenesis.json](./16576-epigenesis.json) |
+| Episode XOXO | 291981 | [291981-episode-xoxo.json](./291981-episode-xoxo.json) |
 | Epithymía | 352759 | [352759-epithymia.json](./352759-epithymia.json) |
 | Epoch | 16939 | [16939-epoch.json](./16939-epoch.json) |
 | Epoch Reset | 380414 | [380414-epoch-reset.json](./380414-epoch-reset.json) |
