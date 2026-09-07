@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 7: Season Pass | 385588 | [385588-tekken-7-season-pass.json](./385588-tekken-7-season-pass.json) |
 | Tekken 8: Character Costume - Aurora Outfit Pack | 414330 | [414330-tekken-8-character-costume-aurora-outfit-pack.json](./414330-tekken-8-character-costume-aurora-outfit-pack.json) |
 | Tekken 8: Eddy Gordo | 296675 | [296675-tekken-8-eddy-gordo.json](./296675-tekken-8-eddy-gordo.json) |
+| Tekken 8: Launch Edition | 283759 | [283759-tekken-8-launch-edition.json](./283759-tekken-8-launch-edition.json) |
 | Tekken 8: Phoenix Gate | 333580 | [333580-tekken-8-phoenix-gate.json](./333580-tekken-8-phoenix-gate.json) |
 | Tekken 8: Season 1 Character & Stage Pass | 347697 | [347697-tekken-8-season-1-character-and-stage-pass.json](./347697-tekken-8-season-1-character-and-stage-pass.json) |
 | Tekken 8: Season 2 - Deluxe Edition | 338222 | [338222-tekken-8-season-2-deluxe-edition.json](./338222-tekken-8-season-2-deluxe-edition.json) |
@@ -718,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's So Raven | 49407 | [49407-thats-so-raven.json](./49407-thats-so-raven.json) |
 | That's So Raven 2: Supernatural Style | 49406 | [49406-thats-so-raven-2-supernatural-style.json](./49406-thats-so-raven-2-supernatural-style.json) |
 | The 13th Floor | 298323 | [298323-the-13th-floor.json](./298323-the-13th-floor.json) |
+| The 2030 Proto-Interfacer's Guide to House-Oriented Emotional Exploration | 283711 | [283711-the-2030-proto-interfacers-guide-to-house-oriented-emotional-exploration.json](./283711-the-2030-proto-interfacers-guide-to-house-oriented-emotional-exploration.json) |
 | The 2048 | 48015 | [48015-the-2048.json](./48015-the-2048.json) |
 | The 3 Little Princesses | 357253 | [357253-the-3-little-princesses.json](./357253-the-3-little-princesses.json) |
 | The 39 Steps | 10985 | [10985-the-39-steps.json](./10985-the-39-steps.json) |
@@ -975,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cat and the Coup | 16241 | [16241-the-cat-and-the-coup.json](./16241-the-cat-and-the-coup.json) |
 | The Cat in the Hijab | 55930 | [55930-the-cat-in-the-hijab.json](./55930-the-cat-in-the-hijab.json) |
 | The Cat Maze | 218709 | [218709-the-cat-maze.json](./218709-the-cat-maze.json) |
+| The Cat That Got the Milk | 283742 | [283742-the-cat-that-got-the-milk.json](./283742-the-cat-that-got-the-milk.json) |
 | The Catch: Carp & Coarse - Collector's Edition | 141891 | [141891-the-catch-carp-and-coarse-collectors-edition.json](./141891-the-catch-carp-and-coarse-collectors-edition.json) |
 | The Catch! | 262074 | [262074-the-catch.json](./262074-the-catch.json) |
 | The Cats of Ulthar | 182557 | [182557-the-cats-of-ulthar.json](./182557-the-cats-of-ulthar.json) |
@@ -1090,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark | 140576 | [140576-the-dark.json](./140576-the-dark.json) |
 | The Dark Arrival: Shadows of the Past | 343269 | [343269-the-dark-arrival-shadows-of-the-past.json](./343269-the-dark-arrival-shadows-of-the-past.json) |
 | The Dark Curiosity | 381002 | [381002-the-dark-curiosity.json](./381002-the-dark-curiosity.json) |
+| The Dark Debt | 283769 | [283769-the-dark-debt.json](./283769-the-dark-debt.json) |
 | The Dark Defender | 199092 | [199092-the-dark-defender.json](./199092-the-dark-defender.json) |
 | The Dark Delivers | 335694 | [335694-the-dark-delivers.json](./335694-the-dark-delivers.json) |
 | The Dark Dungeon | 196291 | [196291-the-dark-dungeon.json](./196291-the-dark-dungeon.json) |
@@ -2056,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prototype | 94771 | [94771-the-prototype.json](./94771-the-prototype.json) |
 | The Psychologist | 319934 | [319934-the-psychologist.json](./319934-the-psychologist.json) |
 | The Pub Simulator | 238727 | [238727-the-pub-simulator.json](./238727-the-pub-simulator.json) |
+| The Pulps Company | 283764 | [283764-the-pulps-company.json](./283764-the-pulps-company.json) |
 | The Punisher | 18294 | [18294-the-punisher.json](./18294-the-punisher.json) |
 | The Punisher | 75883 | [75883-the-punisher.json](./75883-the-punisher.json) |
 | The Puppet Master | 30910 | [30910-the-puppet-master.json](./30910-the-puppet-master.json) |
@@ -2592,6 +2597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch's Realm | 346583 | [346583-the-witchs-realm.json](./346583-the-witchs-realm.json) |
 | The Witch's Yarn | 9510 | [9510-the-witchs-yarn.json](./9510-the-witchs-yarn.json) |
 | The Witcher 2: Assassins of Kings - Enhanced Edition | 20740 | [20740-the-witcher-2-assassins-of-kings-enhanced-edition.json](./20740-the-witcher-2-assassins-of-kings-enhanced-edition.json) |
+| The Witcher 3: Enhanced Edition - Redux | 283715 | [283715-the-witcher-3-enhanced-edition-redux.json](./283715-the-witcher-3-enhanced-edition-redux.json) |
 | The Wizard Game | 149092 | [149092-the-wizard-game.json](./149092-the-wizard-game.json) |
 | The Wizard Needs Food, Badly! | 330717 | [330717-the-wizard-needs-food-badly.json](./330717-the-wizard-needs-food-badly.json) |
 | The Wizard of Oz | 25781 | [25781-the-wizard-of-oz.json](./25781-the-wizard-of-oz.json) |
@@ -3420,6 +3426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Street Soccer | 102209 | [102209-top-street-soccer.json](./102209-top-street-soccer.json) |
 | Top Troops! | 228123 | [228123-top-troops.json](./228123-top-troops.json) |
 | Top Trumps Turbo | 35897 | [35897-top-trumps-turbo.json](./35897-top-trumps-turbo.json) |
+| Top Web Search 23 | 283719 | [283719-top-web-search-23.json](./283719-top-web-search-23.json) |
 | Topgolf with Pro Putt | 143067 | [143067-topgolf-with-pro-putt.json](./143067-topgolf-with-pro-putt.json) |
 | Topic Twister | 254162 | [254162-topic-twister.json](./254162-topic-twister.json) |
 | Topo Mix Game | 204107 | [204107-topo-mix-game.json](./204107-topo-mix-game.json) |
