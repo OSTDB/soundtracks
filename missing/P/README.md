@@ -1037,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series: Isekai Quartet Adventure - Action Game | 152891 | [152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json](./152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json) |
 | Pixel Gear | 25182 | [25182-pixel-gear.json](./25182-pixel-gear.json) |
 | Pixel Gun 3D: PC Edition | 261628 | [261628-pixel-gun-3d-pc-edition.json](./261628-pixel-gun-3d-pc-edition.json) |
+| Pixel Heroes: Tales of Emond | 294690 | [294690-pixel-heroes-tales-of-emond.json](./294690-pixel-heroes-tales-of-emond.json) |
 | Pixel House: Color by Number | 328494 | [328494-pixel-house-color-by-number.json](./328494-pixel-house-color-by-number.json) |
 | Pixel Mage Quest RPG | 145050 | [145050-pixel-mage-quest-rpg.json](./145050-pixel-mage-quest-rpg.json) |
 | Pixel of War | 294424 | [294424-pixel-of-war.json](./294424-pixel-of-war.json) |
@@ -1278,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pnevmo-Capsula | 220345 | [220345-pnevmo-capsula.json](./220345-pnevmo-capsula.json) |
 | Pnickies | 40262 | [40262-pnickies.json](./40262-pnickies.json) |
 | Po-Go-No! | 257111 | [257111-po-go-no.json](./257111-po-go-no.json) |
+| PO'ed: Definitive Edition | 294706 | [294706-poed-definitive-edition.json](./294706-poed-definitive-edition.json) |
 | Poached : Hunt The Hunter | 163965 | [163965-poached-hunt-the-hunter.json](./163965-poached-hunt-the-hunter.json) |
 | Pochard Jamie | 351632 | [351632-pochard-jamie.json](./351632-pochard-jamie.json) |
 | Pocket Arcade Story DX | 208033 | [208033-pocket-arcade-story-dx.json](./208033-pocket-arcade-story-dx.json) |
@@ -1374,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Luminescent Platinum | 199621 | [199621-pokemon-luminescent-platinum.json](./199621-pokemon-luminescent-platinum.json) |
 | Pokémon Mega Evolution Aquamarine | 300428 | [300428-pokemon-mega-evolution-aquamarine.json](./300428-pokemon-mega-evolution-aquamarine.json) |
 | Pokémon Monomyth | 413611 | [413611-pokemon-monomyth.json](./413611-pokemon-monomyth.json) |
+| Pokémon Mystery Dungeon: Outlaw's Paradise | 294718 | [294718-pokemon-mystery-dungeon-outlaws-paradise.json](./294718-pokemon-mystery-dungeon-outlaws-paradise.json) |
 | Pokémon Nameless FireRed Project | 213034 | [213034-pokemon-nameless-firered-project.json](./213034-pokemon-nameless-firered-project.json) |
 | Pokémon Online | 311459 | [311459-pokemon-online.json](./311459-pokemon-online.json) |
 | Pokémon Orange | 141203 | [141203-pokemon-orange.json](./141203-pokemon-orange.json) |
@@ -1752,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Miyumi and The Necro's Dungeon | 183570 | [183570-princess-miyumi-and-the-necros-dungeon.json](./183570-princess-miyumi-and-the-necros-dungeon.json) |
 | Princess Nightmare | 72674 | [72674-princess-nightmare.json](./72674-princess-nightmare.json) |
 | Princess of the Tomb | 353862 | [353862-princess-of-the-tomb.json](./353862-princess-of-the-tomb.json) |
+| Princess Peach Sex Hack | 294709 | [294709-princess-peach-sex-hack.json](./294709-princess-peach-sex-hack.json) |
 | Princess Pony's Magic Seesaw | 337985 | [337985-princess-ponys-magic-seesaw.json](./337985-princess-ponys-magic-seesaw.json) |
 | Princess Princess: Himetachi no Abunai Houkago | 72671 | [72671-princess-princess-himetachi-no-abunai-houkago.json](./72671-princess-princess-himetachi-no-abunai-houkago.json) |
 | Princess Quest Part 1 | 250055 | [250055-princess-quest-part-1.json](./250055-princess-quest-part-1.json) |
@@ -2031,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proton VR | 392133 | [392133-proton-vr.json](./392133-proton-vr.json) |
 | Protory Jigen | 326078 | [326078-protory-jigen.json](./326078-protory-jigen.json) |
 | Protoshift | 34555 | [34555-protoshift.json](./34555-protoshift.json) |
+| Protostar Twilight | 294716 | [294716-protostar-twilight.json](./294716-protostar-twilight.json) |
 | Prototype Blocks | 191244 | [191244-prototype-blocks.json](./191244-prototype-blocks.json) |
 | Prototype Mansion - Used No Cover | 77443 | [77443-prototype-mansion-used-no-cover.json](./77443-prototype-mansion-used-no-cover.json) |
 | Prototype Mint B | 332403 | [332403-prototype-mint-b.json](./332403-prototype-mint-b.json) |
