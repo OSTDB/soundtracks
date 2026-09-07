@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badaboom | 233203 | [233203-badaboom.json](./233203-badaboom.json) |
 | Badger Brawl | 177016 | [177016-badger-brawl.json](./177016-badger-brawl.json) |
 | Badlands | 190719 | [190719-badlands.json](./190719-badlands.json) |
+| Badmad Robots | 294140 | [294140-badmad-robots.json](./294140-badmad-robots.json) |
 | BadMan | 240524 | [240524-badman.json](./240524-badman.json) |
 | Badminton Kings VR | 89258 | [89258-badminton-kings-vr.json](./89258-badminton-kings-vr.json) |
 | Baff 4 | 234348 | [234348-baff-4.json](./234348-baff-4.json) |
@@ -628,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefleet Gothic: Armada 2 - Deluxe Edition | 186340 | [186340-battlefleet-gothic-armada-2-deluxe-edition.json](./186340-battlefleet-gothic-armada-2-deluxe-edition.json) |
 | Battlefleet Gothic: Leviathan | 34371 | [34371-battlefleet-gothic-leviathan.json](./34371-battlefleet-gothic-leviathan.json) |
 | Battlegrounds | 403592 | [403592-battlegrounds.json](./403592-battlegrounds.json) |
+| Battlegrounds: The Pirate King | 294158 | [294158-battlegrounds-the-pirate-king.json](./294158-battlegrounds-the-pirate-king.json) |
 | BattleGuild | 251816 | [251816-battleguild.json](./251816-battleguild.json) |
 | BattleHeights | 327220 | [327220-battleheights.json](./327220-battleheights.json) |
 | Battlejack: Blackjack RPG | 91992 | [91992-battlejack-blackjack-rpg.json](./91992-battlejack-blackjack-rpg.json) |
@@ -664,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BBlocks | 109737 | [109737-bblocks.json](./109737-bblocks.json) |
 | BBQ Simulator: The Squad | 185674 | [185674-bbq-simulator-the-squad.json](./185674-bbq-simulator-the-squad.json) |
 | Bckspce | 411576 | [411576-bckspce.json](./411576-bckspce.json) |
+| BDSM Sex | 294129 | [294129-bdsm-sex.json](./294129-bdsm-sex.json) |
 | Be a Pirate | 143746 | [143746-be-a-pirate.json](./143746-be-a-pirate.json) |
 | Be Brave, Barb | 331143 | [331143-be-brave-barb.json](./331143-be-brave-barb.json) |
 | Be Funny Now! | 194440 | [194440-be-funny-now.json](./194440-be-funny-now.json) |
@@ -2114,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothers Conflict: Passion Pink | 45990 | [45990-brothers-conflict-passion-pink.json](./45990-brothers-conflict-passion-pink.json) |
 | Broventure: The Wild Co-op | 332270 | [332270-broventure-the-wild-co-op.json](./332270-broventure-the-wild-co-op.json) |
 | Brown Trouble | 295011 | [295011-brown-trouble.json](./295011-brown-trouble.json) |
+| Brownie's Adventure 2 | 294151 | [294151-brownies-adventure-2.json](./294151-brownies-adventure-2.json) |
 | Bruce Lee: Quest of the Dragon | 5758 | [5758-bruce-lee-quest-of-the-dragon.json](./5758-bruce-lee-quest-of-the-dragon.json) |
 | Bruce Quest: The Secrets of the Outback | 379888 | [379888-bruce-quest-the-secrets-of-the-outback.json](./379888-bruce-quest-the-secrets-of-the-outback.json) |
 | Brudal Baddle | 57677 | [57677-brudal-baddle.json](./57677-brudal-baddle.json) |
