@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.O.B.2 | 303812 | [303812-b-o-b-2.json](./303812-b-o-b-2.json) |
 | B.o.o.o. | 178676 | [178676-b-o-o-o.json](./178676-b-o-o-o.json) |
 | B.O.W II VR | 251830 | [251830-b-o-w-ii-vr.json](./251830-b-o-w-ii-vr.json) |
+| B.U.D.D. | 265677 | [265677-b-u-d-d.json](./265677-b-u-d-d.json) |
 | B.U.T.T.O.N. | 16235 | [16235-b-u-t-t-o-n.json](./16235-b-u-t-t-o-n.json) |
 | B.U.T.T.O.N. (Brutally Unfair Tactics Totally OK Now) | 92526 | [92526-b-u-t-t-o-n-brutally-unfair-tactics-totally-ok-now.json](./92526-b-u-t-t-o-n-brutally-unfair-tactics-totally-ok-now.json) |
 | B's-LOG Party | 45989 | [45989-bs-log-party.json](./45989-bs-log-party.json) |
@@ -1449,6 +1450,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blix & Chocolate Mine | 145031 | [145031-blix-and-chocolate-mine.json](./145031-blix-and-chocolate-mine.json) |
 | Blizzard Blowout 64 | 177563 | [177563-blizzard-blowout-64.json](./177563-blizzard-blowout-64.json) |
 | Blob | 14319 | [14319-blob.json](./14319-blob.json) |
+| Blob Command | 265668 | [265668-blob-command.json](./265668-blob-command.json) |
+| Blob Command: New Attack | 265669 | [265669-blob-command-new-attack.json](./265669-blob-command-new-attack.json) |
 | Blob Wars | 294472 | [294472-blob-wars.json](./294472-blob-wars.json) |
 | Blob's Adventure | 344389 | [344389-blobs-adventure.json](./344389-blobs-adventure.json) |
 | Bloba's Adventure | 251849 | [251849-blobas-adventure.json](./251849-blobas-adventure.json) |
@@ -1665,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob's Bad Day | 14329 | [14329-bobs-bad-day.json](./14329-bobs-bad-day.json) |
 | Boba | 177569 | [177569-boba.json](./177569-boba.json) |
 | Boba Tale | 199622 | [199622-boba-tale.json](./199622-boba-tale.json) |
+| Bobble Bash | 265657 | [265657-bobble-bash.json](./265657-bobble-bash.json) |
 | Bobblehead College Football | 247171 | [247171-bobblehead-college-football.json](./247171-bobblehead-college-football.json) |
 | Bobby Carrot 3: Evolution | 66136 | [66136-bobby-carrot-3-evolution.json](./66136-bobby-carrot-3-evolution.json) |
 | Bobby Six Seven: Time Traveling Detective | 313143 | [313143-bobby-six-seven-time-traveling-detective.json](./313143-bobby-six-seven-time-traveling-detective.json) |
@@ -2064,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawlhalla: Summer Championship 2018 Pack | 342627 | [342627-brawlhalla-summer-championship-2018-pack.json](./342627-brawlhalla-summer-championship-2018-pack.json) |
 | Brawlhalla: Winter Championship 2018 Pack | 342625 | [342625-brawlhalla-winter-championship-2018-pack.json](./342625-brawlhalla-winter-championship-2018-pack.json) |
 | Brawlin' Sailor | 201288 | [201288-brawlin-sailor.json](./201288-brawlin-sailor.json) |
+| Brazen Blaze | 265663 | [265663-brazen-blaze.json](./265663-brazen-blaze.json) |
 | Breach | 251831 | [251831-breach.json](./251831-breach.json) |
 | Breach | 413003 | [413003-breach.json](./413003-breach.json) |
 | Breach & Clear: Deadline Rebirth | 36293 | [36293-breach-and-clear-deadline-rebirth.json](./36293-breach-and-clear-deadline-rebirth.json) |
@@ -2401,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumper 7 | 319574 | [319574-bumper-7.json](./319574-bumper-7.json) |
 | Bumper Wars | 71534 | [71534-bumper-wars.json](./71534-bumper-wars.json) |
 | Bumpy's Arcade Fantasy | 11724 | [11724-bumpys-arcade-fantasy.json](./11724-bumpys-arcade-fantasy.json) |
+| Bun 'N' Gun | 265671 | [265671-bun-n-gun.json](./265671-bun-n-gun.json) |
 | Bun Wars: Best of fun for Boys Girls and Kids | 101533 | [101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json](./101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json) |
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
 | Bungmyeong | 145640 | [145640-bungmyeong.json](./145640-bungmyeong.json) |
