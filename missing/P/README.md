@@ -2005,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Watts Word Search: Yummy Foods | 103468 | [103468-professor-watts-word-search-yummy-foods.json](./103468-professor-watts-word-search-yummy-foods.json) |
 | Professor Watts: Memory Match | 50760 | [50760-professor-watts-memory-match.json](./50760-professor-watts-memory-match.json) |
 | Professora Abelha Aprendendo Figuras Geométricas | 294437 | [294437-professora-abelha-aprendendo-figuras-geometricas.json](./294437-professora-abelha-aprendendo-figuras-geometricas.json) |
+| Profiler: The Hopscotch Killer - Extended Edition | 262360 | [262360-profiler-the-hopscotch-killer-extended-edition.json](./262360-profiler-the-hopscotch-killer-extended-edition.json) |
 | Profound | 277594 | [277594-profound.json](./277594-profound.json) |
 | Profundus | 341468 | [341468-profundus.json](./341468-profundus.json) |
 | Program Pack 4 | 319591 | [319591-program-pack-4.json](./319591-program-pack-4.json) |
