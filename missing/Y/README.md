@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yamame Climb | 335688 | [335688-yamame-climb.json](./335688-yamame-climb.json) |
 | Yami Fuku Natsu: Teito Monogatari Futatabi | 147956 | [147956-yami-fuku-natsu-teito-monogatari-futatabi.json](./147956-yami-fuku-natsu-teito-monogatari-futatabi.json) |
 | Yami no Koe | 275312 | [275312-yami-no-koe.json](./275312-yami-no-koe.json) |
+| Yami no Koe II | 308248 | [308248-yami-no-koe-ii.json](./308248-yami-no-koe-ii.json) |
 | Yamizome Liberator | 327834 | [327834-yamizome-liberator.json](./327834-yamizome-liberator.json) |
 | Yandere-Chan | 125998 | [125998-yandere-chan.json](./125998-yandere-chan.json) |
 | Yang2020: Path to Presidency | 127468 | [127468-yang2020-path-to-presidency.json](./127468-yang2020-path-to-presidency.json) |
@@ -80,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-Ho-Ho Cannon | 349842 | [349842-yo-ho-ho-cannon.json](./349842-yo-ho-ho-cannon.json) |
 | Yo-Jin-Bo: The Bodyguards | 72679 | [72679-yo-jin-bo-the-bodyguards.json](./72679-yo-jin-bo-the-bodyguards.json) |
 | Yo-kai Sangokushi: Kunitori Wars | 77356 | [77356-yo-kai-sangokushi-kunitori-wars.json](./77356-yo-kai-sangokushi-kunitori-wars.json) |
+| Yo-kai Watch 1 Smartphone | 308252 | [308252-yo-kai-watch-1-smartphone.json](./308252-yo-kai-watch-1-smartphone.json) |
 | Yo! Ninjia | 234321 | [234321-yo-ninjia.json](./234321-yo-ninjia.json) |
 | Yo' Bro | 42023 | [42023-yo-bro.json](./42023-yo-bro.json) |
 | Yoga Wii | 19655 | [19655-yoga-wii.json](./19655-yoga-wii.json) |
