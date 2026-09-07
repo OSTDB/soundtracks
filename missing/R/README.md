@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready Action | 196893 | [196893-ready-action.json](./196893-ready-action.json) |
 | Ready Player One: Oasis | 99013 | [99013-ready-player-one-oasis.json](./99013-ready-player-one-oasis.json) |
 | Ready Steady Play | 61073 | [61073-ready-steady-play.json](./61073-ready-steady-play.json) |
+| Ready, Set, Plumb! | 306352 | [306352-ready-set-plumb.json](./306352-ready-set-plumb.json) |
 | Ready? Set. Haiya! | 149601 | [149601-ready-set-haiya.json](./149601-ready-set-haiya.json) |
 | Reaktron | 121706 | [121706-reaktron.json](./121706-reaktron.json) |
 | Real Al's Humanity Academy | 115009 | [115009-real-als-humanity-academy.json](./115009-real-als-humanity-academy.json) |
@@ -789,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Tanks | 130960 | [130960-retro-tanks.json](./130960-retro-tanks.json) |
 | Retro Three Kingdoms: Special edition | 195251 | [195251-retro-three-kingdoms-special-edition.json](./195251-retro-three-kingdoms-special-edition.json) |
 | Retro Vaders: Reloaded - Classified Projects | 171629 | [171629-retro-vaders-reloaded-classified-projects.json](./171629-retro-vaders-reloaded-classified-projects.json) |
+| Retro Wave | 306370 | [306370-retro-wave.json](./306370-retro-wave.json) |
 | Retro Wing Prime | 113034 | [113034-retro-wing-prime.json](./113034-retro-wing-prime.json) |
 | Retrocade | 385593 | [385593-retrocade.json](./385593-retrocade.json) |
 | RetroCube | 175404 | [175404-retrocube.json](./175404-retrocube.json) |
@@ -1317,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Survivor | 80557 | [80557-rogue-survivor.json](./80557-rogue-survivor.json) |
 | Rogue Trooper Redux: Collector's Edition | 154524 | [154524-rogue-trooper-redux-collectors-edition.json](./154524-rogue-trooper-redux-collectors-edition.json) |
 | Rogue Waves | 414345 | [414345-rogue-waves.json](./414345-rogue-waves.json) |
+| Rogue's Realm: The Old God | 306360 | [306360-rogues-realm-the-old-god.json](./306360-rogues-realm-the-old-god.json) |
 | Rogueblock | 382770 | [382770-rogueblock.json](./382770-rogueblock.json) |
 | Roguebound Pirates | 365092 | [365092-roguebound-pirates.json](./365092-roguebound-pirates.json) |
 | RogueCraft Squadron | 56507 | [56507-roguecraft-squadron.json](./56507-roguecraft-squadron.json) |
@@ -1593,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruler of the Earth | 185694 | [185694-ruler-of-the-earth.json](./185694-ruler-of-the-earth.json) |
 | Rules of the Game | 94237 | [94237-rules-of-the-game.json](./94237-rules-of-the-game.json) |
 | Rules: Motel Horizon | 392128 | [392128-rules-motel-horizon.json](./392128-rules-motel-horizon.json) |
+| Rum N' Gold Royale | 306376 | [306376-rum-n-gold-royale.json](./306376-rum-n-gold-royale.json) |
 | Ruma | 274210 | [274210-ruma.json](./274210-ruma.json) |
 | Rumblade | 109269 | [109269-rumblade.json](./109269-rumblade.json) |
 | Rumble Avenue | 408757 | [408757-rumble-avenue.json](./408757-rumble-avenue.json) |
@@ -1647,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runes of the Abyss | 348246 | [348246-runes-of-the-abyss.json](./348246-runes-of-the-abyss.json) |
 | RuneScape: Dragonwilds | 337712 | [337712-runescape-dragonwilds.json](./337712-runescape-dragonwilds.json) |
 | RuneStone Keeper & YourToy & Distrust Bundle | 301565 | [301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json](./301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json) |
+| Runi's Math Castle | 306337 | [306337-runis-math-castle.json](./306337-runis-math-castle.json) |
 | Runic Survivor | 215909 | [215909-runic-survivor.json](./215909-runic-survivor.json) |
 | Runion | 25735 | [25735-runion.json](./25735-runion.json) |
 | Runner2: Good Friends Character Pack | 226929 | [226929-runner2-good-friends-character-pack.json](./226929-runner2-good-friends-character-pack.json) |
@@ -1677,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush'n Attack | 90990 | [90990-rushn-attack.json](./90990-rushn-attack.json) |
 | Rushcremental | 381635 | [381635-rushcremental.json](./381635-rushcremental.json) |
 | Rushmith | 331877 | [331877-rushmith.json](./331877-rushmith.json) |
+| Rushuzen | 306362 | [306362-rushuzen.json](./306362-rushuzen.json) |
 | Russian bank - card game | 106568 | [106568-russian-bank-card-game.json](./106568-russian-bank-card-game.json) |
 | Russian Driver | 197376 | [197376-russian-driver.json](./197376-russian-driver.json) |
 | Russian Drunken Boxers | 158697 | [158697-russian-drunken-boxers.json](./158697-russian-drunken-boxers.json) |
