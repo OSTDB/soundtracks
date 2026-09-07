@@ -783,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Host of the Dark | 296106 | [296106-fire-emblem-host-of-the-dark.json](./296106-fire-emblem-host-of-the-dark.json) |
 | Fire Emblem: Illuminated | 341470 | [341470-fire-emblem-illuminated.json](./341470-fire-emblem-illuminated.json) |
 | Fire Emblem: Immortal Sword | 322378 | [322378-fire-emblem-immortal-sword.json](./322378-fire-emblem-immortal-sword.json) |
+| Fire Emblem: Legends of Avenir | 261267 | [261267-fire-emblem-legends-of-avenir.json](./261267-fire-emblem-legends-of-avenir.json) |
 | Fire Emblem: Path of Radiance | 1441 | [1441-fire-emblem-path-of-radiance.json](./1441-fire-emblem-path-of-radiance.json) |
 | Fire Emblem: Shadow Dragon and the Blade of Light - 30th Anniversary Edition | 140611 | [140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json](./140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json) |
 | Fire Emblem: Storge | 312345 | [312345-fire-emblem-storge.json](./312345-fire-emblem-storge.json) |
@@ -1361,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgebeast | 244506 | [244506-forgebeast.json](./244506-forgebeast.json) |
 | ForgeRun | 374047 | [374047-forgerun.json](./374047-forgerun.json) |
 | Forget Westbury Falls: Disc One | 192960 | [192960-forget-westbury-falls-disc-one.json](./192960-forget-westbury-falls-disc-one.json) |
+| Forget Your Chains | 261244 | [261244-forget-your-chains.json](./261244-forget-your-chains.json) |
 | Forget-Me-Not | 178672 | [178672-forget-me-not.json](./178672-forget-me-not.json) |
 | Forget-Me-Not | 47269 | [47269-forget-me-not.json](./47269-forget-me-not.json) |
 | Forget-Me-Not of the Tetragon | 335696 | [335696-forget-me-not-of-the-tetragon.json](./335696-forget-me-not-of-the-tetragon.json) |
@@ -1446,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FortOfTheNight | 105341 | [105341-fortofthenight.json](./105341-fortofthenight.json) |
 | Fortress | 13715 | [13715-fortress.json](./13715-fortress.json) |
 | Fortress | 313492 | [313492-fortress.json](./313492-fortress.json) |
+| Fortress 1024 | 261282 | [261282-fortress-1024.json](./261282-fortress-1024.json) |
 | Fortress 2 Blue | 340237 | [340237-fortress-2-blue.json](./340237-fortress-2-blue.json) |
 | Fortress Forge | 310928 | [310928-fortress-forge.json](./310928-fortress-forge.json) |
 | Fortress of Zorlac | 319579 | [319579-fortress-of-zorlac.json](./319579-fortress-of-zorlac.json) |
