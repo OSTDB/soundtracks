@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Bar Simulator VR | 300718 | [300718-zombie-bar-simulator-vr.json](./300718-zombie-bar-simulator-vr.json) |
 | Zombie Blender | 190746 | [190746-zombie-blender.json](./190746-zombie-blender.json) |
 | Zombie Buster VR | 28886 | [28886-zombie-buster-vr.json](./28886-zombie-buster-vr.json) |
+| Zombie Dead Smasher Shooter: Premium Edition | 283163 | [283163-zombie-dead-smasher-shooter-premium-edition.json](./283163-zombie-dead-smasher-shooter-premium-edition.json) |
 | Zombie Defense: Emerald Edition | 400206 | [400206-zombie-defense-emerald-edition.json](./400206-zombie-defense-emerald-edition.json) |
 | Zombie Defense: Perfect Cut Edition | 284932 | [284932-zombie-defense-perfect-cut-edition.json](./284932-zombie-defense-perfect-cut-edition.json) |
 | Zombie Derby | 96622 | [96622-zombie-derby.json](./96622-zombie-derby.json) |
