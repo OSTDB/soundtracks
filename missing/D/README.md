@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend Your Nuts | 315522 | [315522-defend-your-nuts.json](./315522-defend-your-nuts.json) |
 | Defenda | 45350 | [45350-defenda.json](./45350-defenda.json) |
 | Defender | 228072 | [228072-defender.json](./228072-defender.json) |
+| Defender | 287077 | [287077-defender.json](./287077-defender.json) |
 | Defender 2000 | 40817 | [40817-defender-2000.json](./40817-defender-2000.json) |
 | Defender of the Crown | 1873 | [1873-defender-of-the-crown.json](./1873-defender-of-the-crown.json) |
 | Defender of the Turrets: Warp Attack | 171593 | [171593-defender-of-the-turrets-warp-attack.json](./171593-defender-of-the-turrets-warp-attack.json) |
@@ -1444,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog's Walts | 408060 | [408060-dogs-walts.json](./408060-dogs-walts.json) |
 | Doge Dimensions | 187527 | [187527-doge-dimensions.json](./187527-doge-dimensions.json) |
 | Dogforce: Seasons | 179161 | [179161-dogforce-seasons.json](./179161-dogforce-seasons.json) |
+| Doggo | 287098 | [287098-doggo.json](./287098-doggo.json) |
 | DoggoPromenade | 398349 | [398349-doggopromenade.json](./398349-doggopromenade.json) |
 | Doggy | 304054 | [304054-doggy.json](./304054-doggy.json) |
 | DogHotel | 101582 | [101582-doghotel.json](./101582-doghotel.json) |
