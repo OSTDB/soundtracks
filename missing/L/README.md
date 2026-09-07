@@ -576,6 +576,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Levantar La Botella | 364512 | [364512-levantar-la-botella.json](./364512-levantar-la-botella.json) |
 | Level | 326614 | [326614-level.json](./326614-level.json) |
 | Level Squared | 82890 | [82890-level-squared.json](./82890-level-squared.json) |
+| Level Up Boxing VR | 270115 | [270115-level-up-boxing-vr.json](./270115-level-up-boxing-vr.json) |
+| Level Up Your Body | 270129 | [270129-level-up-your-body.json](./270129-level-up-your-body.json) |
 | Levers! | 200195 | [200195-levers.json](./200195-levers.json) |
 | Levi's Garden | 142503 | [142503-levis-garden.json](./142503-levis-garden.json) |
 | Leviaclaw | 379877 | [379877-leviaclaw.json](./379877-leviaclaw.json) |
@@ -1320,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumiere | 415100 | [415100-lumiere.json](./415100-lumiere.json) |
 | Luminastadt | 295258 | [295258-luminastadt.json](./295258-luminastadt.json) |
 | Luminex Quartet | 384502 | [384502-luminex-quartet.json](./384502-luminex-quartet.json) |
+| Luminis: Heal Them All | 270133 | [270133-luminis-heal-them-all.json](./270133-luminis-heal-them-all.json) |
 | Luminosity | 35836 | [35836-luminosity.json](./35836-luminosity.json) |
 | Luminous | 382191 | [382191-luminous.json](./382191-luminous.json) |
 | Luminous Arc 3 | 25100 | [25100-luminous-arc-3.json](./25100-luminous-arc-3.json) |
