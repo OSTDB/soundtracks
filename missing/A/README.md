@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Shadow Cast on Water | 253582 | [253582-a-shadow-cast-on-water.json](./253582-a-shadow-cast-on-water.json) |
 | A Shard of Mine | 243418 | [243418-a-shard-of-mine.json](./243418-a-shard-of-mine.json) |
 | A Short Death | 332977 | [332977-a-short-death.json](./332977-a-short-death.json) |
+| A Short Odyssey | 294128 | [294128-a-short-odyssey.json](./294128-a-short-odyssey.json) |
 | A Shrimpful Adventure | 314269 | [314269-a-shrimpful-adventure.json](./314269-a-shrimpful-adventure.json) |
 | A Siren's Call VR: Death Comes At Night | 195228 | [195228-a-sirens-call-vr-death-comes-at-night.json](./195228-a-sirens-call-vr-death-comes-at-night.json) |
 | A Skyrocket Story | 58800 | [58800-a-skyrocket-story.json](./58800-a-skyrocket-story.json) |
@@ -1870,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed and Armoured | 190747 | [190747-armed-and-armoured.json](./190747-armed-and-armoured.json) |
 | Armed Animals RPG | 365060 | [365060-armed-animals-rpg.json](./365060-armed-animals-rpg.json) |
 | Armed Forces Corp: Mercenaries | 123059 | [123059-armed-forces-corp-mercenaries.json](./123059-armed-forces-corp-mercenaries.json) |
+| Armed Forces of Ukraine | 294138 | [294138-armed-forces-of-ukraine.json](./294138-armed-forces-of-ukraine.json) |
 | Armed Warrior VR | 74435 | [74435-armed-warrior-vr.json](./74435-armed-warrior-vr.json) |
 | Armed With WIngs: Culmination | 379364 | [379364-armed-with-wings-culmination.json](./379364-armed-with-wings-culmination.json) |
 | Armello: Collector's Edition | 52599 | [52599-armello-collectors-edition.json](./52599-armello-collectors-edition.json) |
