@@ -161,6 +161,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umineko no Naku Koro ni: Tenshi 17-sai Higashi-shi - 44a | 272537 | [272537-umineko-no-naku-koro-ni-tenshi-17-sai-higashi-shi-44a.json](./272537-umineko-no-naku-koro-ni-tenshi-17-sai-higashi-shi-44a.json) |
 | Umineko no Naku Koro ni: Valentine Paper | 272539 | [272539-umineko-no-naku-koro-ni-valentine-paper.json](./272539-umineko-no-naku-koro-ni-valentine-paper.json) |
 | Umineko no Naku Koro ni: Warera no Kokuhaku | 272534 | [272534-umineko-no-naku-koro-ni-warera-no-kokuhaku.json](./272534-umineko-no-naku-koro-ni-warera-no-kokuhaku.json) |
+| Umineko When They Cry: Episode 1 - Legend of the Golden Witch | 272309 | [272309-umineko-when-they-cry-episode-1-legend-of-the-golden-witch.json](./272309-umineko-when-they-cry-episode-1-legend-of-the-golden-witch.json) |
+| Umineko When They Cry: Episode 2 - Turn of the Golden Witch | 272310 | [272310-umineko-when-they-cry-episode-2-turn-of-the-golden-witch.json](./272310-umineko-when-they-cry-episode-2-turn-of-the-golden-witch.json) |
+| Umineko When They Cry: Episode 3 - Banquet of the Golden Witch | 272311 | [272311-umineko-when-they-cry-episode-3-banquet-of-the-golden-witch.json](./272311-umineko-when-they-cry-episode-3-banquet-of-the-golden-witch.json) |
+| Umineko When They Cry: Episode 4 - Alliance of the Golden Witch | 272312 | [272312-umineko-when-they-cry-episode-4-alliance-of-the-golden-witch.json](./272312-umineko-when-they-cry-episode-4-alliance-of-the-golden-witch.json) |
+| Umineko When They Cry: Episode 5 - End of the Golden Witch | 272313 | [272313-umineko-when-they-cry-episode-5-end-of-the-golden-witch.json](./272313-umineko-when-they-cry-episode-5-end-of-the-golden-witch.json) |
+| Umineko When They Cry: Episode 6 - Dawn of the Golden Witch | 272314 | [272314-umineko-when-they-cry-episode-6-dawn-of-the-golden-witch.json](./272314-umineko-when-they-cry-episode-6-dawn-of-the-golden-witch.json) |
+| Umineko When They Cry: Episode 7 - Requiem of the Golden Witch | 272316 | [272316-umineko-when-they-cry-episode-7-requiem-of-the-golden-witch.json](./272316-umineko-when-they-cry-episode-7-requiem-of-the-golden-witch.json) |
+| Umineko When They Cry: Episode 8 - Twilight of the Golden Witch | 272318 | [272318-umineko-when-they-cry-episode-8-twilight-of-the-golden-witch.json](./272318-umineko-when-they-cry-episode-8-twilight-of-the-golden-witch.json) |
 | Umokay 64DS 6: Wrath of the Blood Eye | 270372 | [270372-umokay-64ds-6-wrath-of-the-blood-eye.json](./270372-umokay-64ds-6-wrath-of-the-blood-eye.json) |
 | Umokay 64DS 7: The Rise of a God! | 270373 | [270373-umokay-64ds-7-the-rise-of-a-god.json](./270373-umokay-64ds-7-the-rise-of-a-god.json) |
 | Umokay 64DS 8: The End is Near... | 270374 | [270374-umokay-64ds-8-the-end-is-near.json](./270374-umokay-64ds-8-the-end-is-near.json) |
