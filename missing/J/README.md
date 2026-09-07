@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Sing! Christmas Vol. 3 | 65489 | [65489-just-sing-christmas-vol-3.json](./65489-just-sing-christmas-vol-3.json) |
 | Just Skill Shooter: Catacombs | 340783 | [340783-just-skill-shooter-catacombs.json](./340783-just-skill-shooter-catacombs.json) |
 | Just Take Your Left | 148542 | [148542-just-take-your-left.json](./148542-just-take-your-left.json) |
+| Just Thanks | 267905 | [267905-just-thanks.json](./267905-just-thanks.json) |
 | Just Two | 299732 | [299732-just-two.json](./299732-just-two.json) |
 | Just. Press. The Button. | 396911 | [396911-just-press-the-button.json](./396911-just-press-the-button.json) |
 | JustBox | 340782 | [340782-justbox.json](./340782-justbox.json) |
