@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night: Burlesque - Ultimate Edition | 283168 | [283168-one-night-burlesque-ultimate-edition.json](./283168-one-night-burlesque-ultimate-edition.json) |
 | One of Them | 306088 | [306088-one-of-them.json](./306088-one-of-them.json) |
 | One Paradox | 341507 | [341507-one-paradox.json](./341507-one-paradox.json) |
+| One Perfect Day | 264061 | [264061-one-perfect-day.json](./264061-one-perfect-day.json) |
 | One Piece Odyssey | 194837 | [194837-one-piece-odyssey.json](./194837-one-piece-odyssey.json) |
 | One Piece Odyssey: Reunion of Memories | 252387 | [252387-one-piece-odyssey-reunion-of-memories.json](./252387-one-piece-odyssey-reunion-of-memories.json) |
 | One Piece: Burning Blood - Character Pack | 171053 | [171053-one-piece-burning-blood-character-pack.json](./171053-one-piece-burning-blood-character-pack.json) |
@@ -519,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only One Night | 394222 | [394222-only-one-night.json](./394222-only-one-night.json) |
 | Only Pinball | 292532 | [292532-only-pinball.json](./292532-only-pinball.json) |
 | Only Shadows Left Behind | 109730 | [109730-only-shadows-left-behind.json](./109730-only-shadows-left-behind.json) |
+| Only Straight and Up! | 264027 | [264027-only-straight-and-up.json](./264027-only-straight-and-up.json) |
 | Only The Lost Shall See | 341508 | [341508-only-the-lost-shall-see.json](./341508-only-the-lost-shall-see.json) |
 | Only the Rich May Die | 270940 | [270940-only-the-rich-may-die.json](./270940-only-the-rich-may-die.json) |
 | Only Trump: Up To Presidents! | 341509 | [341509-only-trump-up-to-presidents.json](./341509-only-trump-up-to-presidents.json) |
@@ -663,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order of Battle: World War II - Order of Battle: Allies Victorious | 219793 | [219793-order-of-battle-world-war-ii-order-of-battle-allies-victorious.json](./219793-order-of-battle-world-war-ii-order-of-battle-allies-victorious.json) |
 | Order of Renewal | 337647 | [337647-order-of-renewal.json](./337647-order-of-renewal.json) |
 | Order of the Elements | 270961 | [270961-order-of-the-elements.json](./270961-order-of-the-elements.json) |
+| Order Us! | 264031 | [264031-order-us.json](./264031-order-us.json) |
 | Orderly Havoc | 251820 | [251820-orderly-havoc.json](./251820-orderly-havoc.json) |
 | OrderZero | 256520 | [256520-orderzero.json](./256520-orderzero.json) |
 | Ore ga Watashi ni Kawatta Hi...: Becoming a She | 224208 | [224208-ore-ga-watashi-ni-kawatta-hi-becoming-a-she.json](./224208-ore-ga-watashi-ni-kawatta-hi-becoming-a-she.json) |
