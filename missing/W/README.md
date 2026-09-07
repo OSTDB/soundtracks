@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Jane's Story in the World of Project: Summer Ice | 208621 | [208621-welcome-to-janes-story-in-the-world-of-project-summer-ice.json](./208621-welcome-to-janes-story-in-the-world-of-project-summer-ice.json) |
 | Welcome to Levy | 238730 | [238730-welcome-to-levy.json](./238730-welcome-to-levy.json) |
 | Welcome to Lightford | 273391 | [273391-welcome-to-lightford.json](./273391-welcome-to-lightford.json) |
+| Welcome to My Cave | 260652 | [260652-welcome-to-my-cave.json](./260652-welcome-to-my-cave.json) |
 | Welcome to Paradise Island | 331119 | [331119-welcome-to-paradise-island.json](./331119-welcome-to-paradise-island.json) |
 | Welcome to Pinehills | 165673 | [165673-welcome-to-pinehills.json](./165673-welcome-to-pinehills.json) |
 | Welcome to Primrose Lake 3 | 337472 | [337472-welcome-to-primrose-lake-3.json](./337472-welcome-to-primrose-lake-3.json) |
@@ -487,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Is This Sorcery | 328451 | [328451-what-is-this-sorcery.json](./328451-what-is-this-sorcery.json) |
 | What Lies Between | 199118 | [199118-what-lies-between.json](./199118-what-lies-between.json) |
 | What Must Be Done | 309132 | [309132-what-must-be-done.json](./309132-what-must-be-done.json) |
+| What Remains | 260665 | [260665-what-remains.json](./260665-what-remains.json) |
 | What Remains | 318969 | [318969-what-remains.json](./318969-what-remains.json) |
 | What the Car? x Goat Simulator+ | 400246 | [400246-what-the-car-x-goat-simulator.json](./400246-what-the-car-x-goat-simulator.json) |
 | What the Clash? | 339825 | [339825-what-the-clash.json](./339825-what-the-clash.json) |
