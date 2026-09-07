@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 22: Pumps n' Hoses Pack | 210271 | [210271-farming-simulator-22-pumps-n-hoses-pack.json](./210271-farming-simulator-22-pumps-n-hoses-pack.json) |
 | Farming Simulator 22: Vermeer Pack | 210269 | [210269-farming-simulator-22-vermeer-pack.json](./210269-farming-simulator-22-vermeer-pack.json) |
 | Farming Simulator: Grow a Garden 2025 | 378801 | [378801-farming-simulator-grow-a-garden-2025.json](./378801-farming-simulator-grow-a-garden-2025.json) |
+| Farming Tractor Simulator 2023: Drive Combine & Trucks | 263497 | [263497-farming-tractor-simulator-2023-drive-combine-and-trucks.json](./263497-farming-tractor-simulator-2023-drive-combine-and-trucks.json) |
 | Farming World: Jam Factory | 238724 | [238724-farming-world-jam-factory.json](./238724-farming-world-jam-factory.json) |
 | Farmnana Defence | 404863 | [404863-farmnana-defence.json](./404863-farmnana-defence.json) |
 | FarmVille: Tropic Escape | 87574 | [87574-farmville-tropic-escape.json](./87574-farmville-tropic-escape.json) |
@@ -1188,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Hard | 381027 | [381027-fly-hard.json](./381027-fly-hard.json) |
 | Fly High Runners | 391575 | [391575-fly-high-runners.json](./391575-fly-high-runners.json) |
 | Fly Spy | 12997 | [12997-fly-spy.json](./12997-fly-spy.json) |
+| Fly the Plane | 263494 | [263494-fly-the-plane.json](./263494-fly-the-plane.json) |
 | Fly! | 69847 | [69847-fly.json](./69847-fly.json) |
 | Fly! 2K | 93065 | [93065-fly-2k.json](./93065-fly-2k.json) |
 | Fly2k | 391578 | [391578-fly2k.json](./391578-fly2k.json) |
@@ -1515,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPV Kamikaze Drone | 280172 | [280172-fpv-kamikaze-drone.json](./280172-fpv-kamikaze-drone.json) |
 | FR Legends | 126025 | [126025-fr-legends.json](./126025-fr-legends.json) |
 | Fractal | 381036 | [381036-fractal.json](./381036-fractal.json) |
+| Fractal Glide | 263503 | [263503-fractal-glide.json](./263503-fractal-glide.json) |
 | Fractalis | 121775 | [121775-fractalis.json](./121775-fractalis.json) |
 | Fractium | 217512 | [217512-fractium.json](./217512-fractium.json) |
 | Fracture Point | 335257 | [335257-fracture-point.json](./335257-fracture-point.json) |
