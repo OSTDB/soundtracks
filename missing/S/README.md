@@ -1470,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silentium 2D | 106578 | [106578-silentium-2d.json](./106578-silentium-2d.json) |
 | Silhouette | 31378 | [31378-silhouette.json](./31378-silhouette.json) |
 | Silhouette Mirage | 1356 | [1356-silhouette-mirage.json](./1356-silhouette-mirage.json) |
+| Silhouette of Darkness | 271767 | [271767-silhouette-of-darkness.json](./271767-silhouette-of-darkness.json) |
 | Silhouette of Fear | 358889 | [358889-silhouette-of-fear.json](./358889-silhouette-of-fear.json) |
 | Silhouette Stories | 198550 | [198550-silhouette-stories.json](./198550-silhouette-stories.json) |
 | SilhouetteGirl Zan | 233219 | [233219-silhouettegirl-zan.json](./233219-silhouettegirl-zan.json) |
@@ -3498,6 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars Survivor | 291481 | [291481-stars-survivor.json](./291481-stars-survivor.json) |
 | Starseed Harmonies | 385553 | [385553-starseed-harmonies.json](./385553-starseed-harmonies.json) |
 | Starshifter | 211942 | [211942-starshifter.json](./211942-starshifter.json) |
+| Starship | 271761 | [271761-starship.json](./271761-starship.json) |
 | Starship Eleven Deluxe | 360605 | [360605-starship-eleven-deluxe.json](./360605-starship-eleven-deluxe.json) |
 | Starship Escape | 57113 | [57113-starship-escape.json](./57113-starship-escape.json) |
 | Starship Home | 293377 | [293377-starship-home.json](./293377-starship-home.json) |
