@@ -1377,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunstable | 180800 | [180800-gunstable.json](./180800-gunstable.json) |
 | Gunstar | 13003 | [13003-gunstar.json](./13003-gunstar.json) |
 | GunStar's Gambit | 340405 | [340405-gunstars-gambit.json](./340405-gunstars-gambit.json) |
+| Gunswitch | 306373 | [306373-gunswitch.json](./306373-gunswitch.json) |
 | Guntastic | 113024 | [113024-guntastic.json](./113024-guntastic.json) |
 | Guntris | 311824 | [311824-guntris.json](./311824-guntris.json) |
 | GunWorld VR | 159853 | [159853-gunworld-vr.json](./159853-gunworld-vr.json) |
