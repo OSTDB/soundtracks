@@ -57,7 +57,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantaar | 159884 | [159884-quantaar.json](./159884-quantaar.json) |
 | Quantum Beast | 295526 | [295526-quantum-beast.json](./295526-quantum-beast.json) |
 | Quantum Coherence | 215901 | [215901-quantum-coherence.json](./215901-quantum-coherence.json) |
+| Quantum Contours | 278394 | [278394-quantum-contours.json](./278394-quantum-contours.json) |
 | Quantum Covenant | 113718 | [113718-quantum-covenant.json](./113718-quantum-covenant.json) |
+| Quantum Drive | 278395 | [278395-quantum-drive.json](./278395-quantum-drive.json) |
 | Quantum Lake | 26604 | [26604-quantum-lake.json](./26604-quantum-lake.json) |
 | Quantum Qitty | 180799 | [180799-quantum-qitty.json](./180799-quantum-qitty.json) |
 | Quantum Threshold | 344962 | [344962-quantum-threshold.json](./344962-quantum-threshold.json) |
