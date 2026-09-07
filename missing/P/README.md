@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5 Dancing in Starlight: Picaresque Mouse Set | 324706 | [324706-persona-5-dancing-in-starlight-picaresque-mouse-set.json](./324706-persona-5-dancing-in-starlight-picaresque-mouse-set.json) |
 | Persona 5 Royal: 1 More Edition | 261539 | [261539-persona-5-royal-1-more-edition.json](./261539-persona-5-royal-1-more-edition.json) |
 | Persona 5 Strikers | 117731 | [117731-persona-5-strikers.json](./117731-persona-5-strikers.json) |
+| Persona 5 Tactica: DLC All in One | 277311 | [277311-persona-5-tactica-dlc-all-in-one.json](./277311-persona-5-tactica-dlc-all-in-one.json) |
 | Persona 5: Dancing in Starlight - Atlus Selection Set | 362255 | [362255-persona-5-dancing-in-starlight-atlus-selection-set.json](./362255-persona-5-dancing-in-starlight-atlus-selection-set.json) |
 | Persona 5: Dancing in Starlight - Catherine Set | 362253 | [362253-persona-5-dancing-in-starlight-catherine-set.json](./362253-persona-5-dancing-in-starlight-catherine-set.json) |
 | Persona 5: Dancing in Starlight - Costume Season Pass | 362256 | [362256-persona-5-dancing-in-starlight-costume-season-pass.json](./362256-persona-5-dancing-in-starlight-costume-season-pass.json) |
@@ -2209,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pump It Up NX2: Next Xenesis | 57714 | [57714-pump-it-up-nx2-next-xenesis.json](./57714-pump-it-up-nx2-next-xenesis.json) |
 | Pump It Up Zero | 316095 | [316095-pump-it-up-zero.json](./316095-pump-it-up-zero.json) |
 | Pump It Up: Exceed | 43313 | [43313-pump-it-up-exceed.json](./43313-pump-it-up-exceed.json) |
+| Pump Press | 277299 | [277299-pump-press.json](./277299-pump-press.json) |
 | Pumped BMX Flow | 174894 | [174894-pumped-bmx-flow.json](./174894-pumped-bmx-flow.json) |
 | Pumpkin Delivery | 242234 | [242234-pumpkin-delivery.json](./242234-pumpkin-delivery.json) |
 | Pumpkin Panic | 257329 | [257329-pumpkin-panic.json](./257329-pumpkin-panic.json) |
