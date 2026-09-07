@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear.Club Unlimited: Super Cars Pack | 238212 | [238212-gear-club-unlimited-super-cars-pack.json](./238212-gear-club-unlimited-super-cars-pack.json) |
 | Gearguns: Tank Offensive | 31375 | [31375-gearguns-tank-offensive.json](./31375-gearguns-tank-offensive.json) |
 | Gears of War 3: Fenix Rising | 20656 | [20656-gears-of-war-3-fenix-rising.json](./20656-gears-of-war-3-fenix-rising.json) |
+| Gears of War: E-Day | 305160 | [305160-gears-of-war-e-day.json](./305160-gears-of-war-e-day.json) |
 | Geas | 228695 | [228695-geas.json](./228695-geas.json) |
 | Geckos & Deckos | 379367 | [379367-geckos-and-deckos.json](./379367-geckos-and-deckos.json) |
 | Gedda Cake | 180286 | [180286-gedda-cake.json](./180286-gedda-cake.json) |
@@ -327,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geneforge 1: Mutagen | 134650 | [134650-geneforge-1-mutagen.json](./134650-geneforge-1-mutagen.json) |
 | Geneki Toudai-sei ga Tsukutta!: Dekiru Ko ni Naru Seikatsu Shuukan Dragon Sakura Youji-hen | 327587 | [327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json](./327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json) |
 | General Coco | 122392 | [122392-general-coco.json](./122392-general-coco.json) |
+| Generation Exile | 305182 | [305182-generation-exile.json](./305182-generation-exile.json) |
 | Generation of Chaos: Pandora's Reflection | 21018 | [21018-generation-of-chaos-pandoras-reflection.json](./21018-generation-of-chaos-pandoras-reflection.json) |
 | Generation Streets | 110088 | [110088-generation-streets.json](./110088-generation-streets.json) |
 | Generation Zero: Base Support Pack | 234923 | [234923-generation-zero-base-support-pack.json](./234923-generation-zero-base-support-pack.json) |
@@ -1317,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunball: Emperor's Revenge | 353314 | [353314-gunball-emperors-revenge.json](./353314-gunball-emperors-revenge.json) |
 | Gunbird: Special Edition | 44643 | [44643-gunbird-special-edition.json](./44643-gunbird-special-edition.json) |
 | Gunblade Ranger | 374589 | [374589-gunblade-ranger.json](./374589-gunblade-ranger.json) |
+| Gunboat God | 305189 | [305189-gunboat-god.json](./305189-gunboat-god.json) |
 | Gunboat: River Combat Simulation | 12127 | [12127-gunboat-river-combat-simulation.json](./12127-gunboat-river-combat-simulation.json) |
 | GunBound | 26189 | [26189-gunbound.json](./26189-gunbound.json) |
 | GunBoxing | 392798 | [392798-gunboxing.json](./392798-gunboxing.json) |
