@@ -3023,6 +3023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time to Play Hearts | 86709 | [86709-time-to-play-hearts.json](./86709-time-to-play-hearts.json) |
 | Time to Play Pyramid | 96759 | [96759-time-to-play-pyramid.json](./96759-time-to-play-pyramid.json) |
 | Time Travel | 117091 | [117091-time-travel.json](./117091-time-travel.json) |
+| Time Travel Cafe | 295777 | [295777-time-travel-cafe.json](./295777-time-travel-cafe.json) |
 | Time Traveler | 201849 | [201849-time-traveler.json](./201849-time-traveler.json) |
 | Time Tripper | 209128 | [209128-time-tripper.json](./209128-time-tripper.json) |
 | Time Tunnel | 12968 | [12968-time-tunnel.json](./12968-time-tunnel.json) |
