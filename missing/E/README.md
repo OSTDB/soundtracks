@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclectic Shell | 328265 | [328265-eclectic-shell.json](./328265-eclectic-shell.json) |
 | Eclipse | 172192 | [172192-eclipse.json](./172192-eclipse.json) |
 | Eclipse | 218163 | [218163-eclipse.json](./218163-eclipse.json) |
+| Eclipse | 295243 | [295243-eclipse.json](./295243-eclipse.json) |
 | Eclipse Isle | 125435 | [125435-eclipse-isle.json](./125435-eclipse-isle.json) |
 | Eclipse of Elysium | 295815 | [295815-eclipse-of-elysium.json](./295815-eclipse-of-elysium.json) |
 | Eclipse: Edge of Light | 27809 | [27809-eclipse-edge-of-light.json](./27809-eclipse-edge-of-light.json) |
@@ -242,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eigenstate | 176470 | [176470-eigenstate.json](./176470-eigenstate.json) |
 | Eight Ball | 93592 | [93592-eight-ball.json](./93592-eight-ball.json) |
 | Eight Pool Fever | 322586 | [322586-eight-pool-fever.json](./322586-eight-pool-fever.json) |
+| Eighteen | 295244 | [295244-eighteen.json](./295244-eighteen.json) |
 | Eighth Era | 329967 | [329967-eighth-era.json](./329967-eighth-era.json) |
 | Eigo wo Taberu Fushigi na Ikimono | 338715 | [338715-eigo-wo-taberu-fushigi-na-ikimono.json](./338715-eigo-wo-taberu-fushigi-na-ikimono.json) |
 | Eikou no Saint Andrews | 3484 | [3484-eikou-no-saint-andrews.json](./3484-eikou-no-saint-andrews.json) |
@@ -662,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erwartung | 295014 | [295014-erwartung.json](./295014-erwartung.json) |
 | eSail | 89648 | [89648-esail.json](./89648-esail.json) |
 | Esc-8-bit | 114369 | [114369-esc-8-bit.json](./114369-esc-8-bit.json) |
+| Escape | 295270 | [295270-escape.json](./295270-escape.json) |
 | Escape | 356667 | [356667-escape.json](./356667-escape.json) |
 | Escape | 98433 | [98433-escape.json](./98433-escape.json) |
 | Escape Academy 2: Back 2 School | 347671 | [347671-escape-academy-2-back-2-school.json](./347671-escape-academy-2-back-2-school.json) |
@@ -669,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Academy: Escape From Anti-Escape Island | 222336 | [222336-escape-academy-escape-from-anti-escape-island.json](./222336-escape-academy-escape-from-anti-escape-island.json) |
 | Escape Artist | 386136 | [386136-escape-artist.json](./386136-escape-artist.json) |
 | Escape Block King | 402311 | [402311-escape-block-king.json](./402311-escape-block-king.json) |
+| Escape Blocks | 295269 | [295269-escape-blocks.json](./295269-escape-blocks.json) |
 | Escape Chase Monster | 219254 | [219254-escape-chase-monster.json](./219254-escape-chase-monster.json) |
 | Escape Condition | 219255 | [219255-escape-condition.json](./219255-escape-condition.json) |
 | Escape Depths of Immanis | 322989 | [322989-escape-depths-of-immanis.json](./322989-escape-depths-of-immanis.json) |
@@ -999,6 +1003,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exoprimal: Murasame Alpha Gladiator Set | 298331 | [298331-exoprimal-murasame-alpha-gladiator-set.json](./298331-exoprimal-murasame-alpha-gladiator-set.json) |
 | Exoprimal: Nimbus Alpha Kimen Set | 298327 | [298327-exoprimal-nimbus-alpha-kimen-set.json](./298327-exoprimal-nimbus-alpha-kimen-set.json) |
 | Exoprimal: Roadblock Tragic Monster Set | 256549 | [256549-exoprimal-roadblock-tragic-monster-set.json](./256549-exoprimal-roadblock-tragic-monster-set.json) |
+| Exoprimal: Season 3 | 295253 | [295253-exoprimal-season-3.json](./295253-exoprimal-season-3.json) |
+| Exoprimal: Season 4 | 295254 | [295254-exoprimal-season-4.json](./295254-exoprimal-season-4.json) |
 | Exoprimal: Skywave Alpha Future Flight Set | 298333 | [298333-exoprimal-skywave-alpha-future-flight-set.json](./298333-exoprimal-skywave-alpha-future-flight-set.json) |
 | Exoprimal: Vigilant Alpha Insurgent Set | 298334 | [298334-exoprimal-vigilant-alpha-insurgent-set.json](./298334-exoprimal-vigilant-alpha-insurgent-set.json) |
 | Exoprimal: Witchdoctor Mega Man Set | 298330 | [298330-exoprimal-witchdoctor-mega-man-set.json](./298330-exoprimal-witchdoctor-mega-man-set.json) |
