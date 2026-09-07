@@ -36,10 +36,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can't Remember a Time I Didn't Need You | 188627 | [188627-i-cant-remember-a-time-i-didnt-need-you.json](./188627-i-cant-remember-a-time-i-didnt-need-you.json) |
 | I Can’t Stop Gooning and Jorking to My Virtual Girlfriend | 340934 | [340934-i-can-t-stop-gooning-and-jorking-to-my-virtual-girlfriend.json](./340934-i-can-t-stop-gooning-and-jorking-to-my-virtual-girlfriend.json) |
 | I Commissioned Some Bees 10 | 224776 | [224776-i-commissioned-some-bees-10.json](./224776-i-commissioned-some-bees-10.json) |
+| I Commissioned Some Bees 13 | 270139 | [270139-i-commissioned-some-bees-13.json](./270139-i-commissioned-some-bees-13.json) |
 | I Commissioned Some Bees 2 | 205245 | [205245-i-commissioned-some-bees-2.json](./205245-i-commissioned-some-bees-2.json) |
 | I Commissioned Some Bees Advent | 228084 | [228084-i-commissioned-some-bees-advent.json](./228084-i-commissioned-some-bees-advent.json) |
 | I Commissioned Some Bunnies 10 | 306993 | [306993-i-commissioned-some-bunnies-10.json](./306993-i-commissioned-some-bunnies-10.json) |
 | I Commissioned Some Bunnies 3 | 287070 | [287070-i-commissioned-some-bunnies-3.json](./287070-i-commissioned-some-bunnies-3.json) |
+| I Commissioned Some Butterflies | 270127 | [270127-i-commissioned-some-butterflies.json](./270127-i-commissioned-some-butterflies.json) |
+| I Commissioned Some Cats 5 | 270126 | [270126-i-commissioned-some-cats-5.json](./270126-i-commissioned-some-cats-5.json) |
+| I Commissioned Some Frogs 2 | 270131 | [270131-i-commissioned-some-frogs-2.json](./270131-i-commissioned-some-frogs-2.json) |
 | I Commissioned Some Invisible People 0 | 292546 | [292546-i-commissioned-some-invisible-people-0.json](./292546-i-commissioned-some-invisible-people-0.json) |
 | I Commissioned Some Ladybugs 3 | 287071 | [287071-i-commissioned-some-ladybugs-3.json](./287071-i-commissioned-some-ladybugs-3.json) |
 | I Commissioned Some Mice 3 | 287067 | [287067-i-commissioned-some-mice-3.json](./287067-i-commissioned-some-mice-3.json) |
@@ -498,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infected run to Survive: Zombie Apocalypse Survival Story Shooter Dead Cry | 231078 | [231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json](./231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json) |
 | Infected World | 412279 | [412279-infected-world.json](./412279-infected-world.json) |
 | Infection | 142474 | [142474-infection.json](./142474-infection.json) |
+| Infection Crisis: Fight For Life | 270134 | [270134-infection-crisis-fight-for-life.json](./270134-infection-crisis-fight-for-life.json) |
 | Infection X | 260417 | [260417-infection-x.json](./260417-infection-x.json) |
 | Infecto | 89934 | [89934-infecto.json](./89934-infecto.json) |
 | Infectonator | 200728 | [200728-infectonator.json](./200728-infectonator.json) |
@@ -953,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Doesn't Have to Be Like This | 299125 | [299125-it-doesnt-have-to-be-like-this.json](./299125-it-doesnt-have-to-be-like-this.json) |
 | It Girl | 338731 | [338731-it-girl.json](./338731-it-girl.json) |
 | It Goes Away in the End | 312920 | [312920-it-goes-away-in-the-end.json](./312920-it-goes-away-in-the-end.json) |
+| It Happened Here: Beacon of Truth - Collector's Edition | 270102 | [270102-it-happened-here-beacon-of-truth-collectors-edition.json](./270102-it-happened-here-beacon-of-truth-collectors-edition.json) |
 | It Is Coming | 335665 | [335665-it-is-coming.json](./335665-it-is-coming.json) |
 | It Knows You're Here | 185134 | [185134-it-knows-youre-here.json](./185134-it-knows-youre-here.json) |
 | It Lives | 270666 | [270666-it-lives.json](./270666-it-lives.json) |
