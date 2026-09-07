@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T03:48:21.344Z",
-  "total_missing": 40229,
+  "generated_at": "2026-09-07T04:02:54.687Z",
+  "total_missing": 40279,
   "games": [
     {
       "igdb_id": 306086,
@@ -41403,6 +41403,11 @@
       "file": "missing/D/87095-dead-route.json"
     },
     {
+      "igdb_id": 303466,
+      "game_name": "Dead Scrap",
+      "file": "missing/D/303466-dead-scrap.json"
+    },
+    {
       "igdb_id": 251815,
       "game_name": "Dead Shapes",
       "file": "missing/D/251815-dead-shapes.json"
@@ -42643,6 +42648,11 @@
       "file": "missing/D/320553-delirium.json"
     },
     {
+      "igdb_id": 303467,
+      "game_name": "Deliver Us Home",
+      "file": "missing/D/303467-deliver-us-home.json"
+    },
+    {
       "igdb_id": 195242,
       "game_name": "Deliverance",
       "file": "missing/D/195242-deliverance.json"
@@ -42656,6 +42666,11 @@
       "igdb_id": 190214,
       "game_name": "Delivery Boy",
       "file": "missing/D/190214-delivery-boy.json"
+    },
+    {
+      "igdb_id": 303468,
+      "game_name": "Delivery Express",
+      "file": "missing/D/303468-delivery-express.json"
     },
     {
       "igdb_id": 274759,
@@ -42868,6 +42883,11 @@
       "file": "missing/D/333944-demon-corporation-onboarding.json"
     },
     {
+      "igdb_id": 303469,
+      "game_name": "Demon Crush",
+      "file": "missing/D/303469-demon-crush.json"
+    },
+    {
       "igdb_id": 47283,
       "game_name": "Demon Driver",
       "file": "missing/D/47283-demon-driver.json"
@@ -42946,6 +42966,11 @@
       "igdb_id": 349847,
       "game_name": "Demon Killer",
       "file": "missing/D/349847-demon-killer.json"
+    },
+    {
+      "igdb_id": 303470,
+      "game_name": "Demon Kingdom",
+      "file": "missing/D/303470-demon-kingdom.json"
     },
     {
       "igdb_id": 215904,
@@ -43076,6 +43101,11 @@
       "igdb_id": 73841,
       "game_name": "Demonworld: Dark Armies",
       "file": "missing/D/73841-demonworld-dark-armies.json"
+    },
+    {
+      "igdb_id": 303471,
+      "game_name": "Den of the Defiant",
+      "file": "missing/D/303471-den-of-the-defiant.json"
     },
     {
       "igdb_id": 345507,
@@ -43343,6 +43373,11 @@
       "file": "missing/D/32423-derelict.json"
     },
     {
+      "igdb_id": 303475,
+      "game_name": "Derf Party",
+      "file": "missing/D/303475-derf-party.json"
+    },
+    {
       "igdb_id": 74433,
       "game_name": "Derpy Dinos",
       "file": "missing/D/74433-derpy-dinos.json"
@@ -43393,6 +43428,11 @@
       "file": "missing/D/272017-descent-into-hades.json"
     },
     {
+      "igdb_id": 303474,
+      "game_name": "Descent the Abyss",
+      "file": "missing/D/303474-descent-the-abyss.json"
+    },
+    {
       "igdb_id": 153431,
       "game_name": "Descent Vector: Space Runner",
       "file": "missing/D/153431-descent-vector-space-runner.json"
@@ -43411,6 +43451,11 @@
       "igdb_id": 338709,
       "game_name": "Desecrated Deck",
       "file": "missing/D/338709-desecrated-deck.json"
+    },
+    {
+      "igdb_id": 303473,
+      "game_name": "Desert Kingdoms 2",
+      "file": "missing/D/303473-desert-kingdoms-2.json"
     },
     {
       "igdb_id": 61646,
@@ -43491,6 +43536,11 @@
       "igdb_id": 298892,
       "game_name": "Desires of a Vampire",
       "file": "missing/D/298892-desires-of-a-vampire.json"
+    },
+    {
+      "igdb_id": 303472,
+      "game_name": "Desk Deck Heroes",
+      "file": "missing/D/303472-desk-deck-heroes.json"
     },
     {
       "igdb_id": 317224,
@@ -44733,6 +44783,11 @@
       "file": "missing/D/399601-dinahs-dreamwoods.json"
     },
     {
+      "igdb_id": 303477,
+      "game_name": "DinD",
+      "file": "missing/D/303477-dind.json"
+    },
+    {
       "igdb_id": 205238,
       "game_name": "Dine Together",
       "file": "missing/D/205238-dine-together.json"
@@ -44846,6 +44901,11 @@
       "igdb_id": 237631,
       "game_name": "Dino Merge Wars",
       "file": "missing/D/237631-dino-merge-wars.json"
+    },
+    {
+      "igdb_id": 303476,
+      "game_name": "Dino Precision Platformer",
+      "file": "missing/D/303476-dino-precision-platformer.json"
     },
     {
       "igdb_id": 106627,
@@ -45101,6 +45161,11 @@
       "igdb_id": 278158,
       "game_name": "Dirty House",
       "file": "missing/D/278158-dirty-house.json"
+    },
+    {
+      "igdb_id": 303481,
+      "game_name": "Dirty Love",
+      "file": "missing/D/303481-dirty-love.json"
     },
     {
       "igdb_id": 263221,
@@ -45798,9 +45863,19 @@
       "file": "missing/D/233222-dizzyroids.json"
     },
     {
+      "igdb_id": 303480,
+      "game_name": "Dj 8 Beats: Infinite",
+      "file": "missing/D/303480-dj-8-beats-infinite.json"
+    },
+    {
       "igdb_id": 68028,
       "game_name": "DJ Mix Tour",
       "file": "missing/D/68028-dj-mix-tour.json"
+    },
+    {
+      "igdb_id": 303479,
+      "game_name": "DJ Simulator",
+      "file": "missing/D/303479-dj-simulator.json"
     },
     {
       "igdb_id": 371909,
@@ -45946,6 +46021,11 @@
       "igdb_id": 401548,
       "game_name": "Do You Even Brick?!",
       "file": "missing/D/401548-do-you-even-brick.json"
+    },
+    {
+      "igdb_id": 303484,
+      "game_name": "Do You Remember?",
+      "file": "missing/D/303484-do-you-remember.json"
     },
     {
       "igdb_id": 126023,
@@ -46498,6 +46578,11 @@
       "file": "missing/D/134677-dominique-pamplemousse.json"
     },
     {
+      "igdb_id": 303482,
+      "game_name": "Domino Fit",
+      "file": "missing/D/303482-domino-fit.json"
+    },
+    {
       "igdb_id": 33131,
       "game_name": "Domino Sky",
       "file": "missing/D/33131-domino-sky.json"
@@ -46583,6 +46668,11 @@
       "file": "missing/D/158729-dont-cut-your-hand-2.json"
     },
     {
+      "igdb_id": 303483,
+      "game_name": "Don't Drop Luggage!",
+      "file": "missing/D/303483-dont-drop-luggage.json"
+    },
+    {
       "igdb_id": 323532,
       "game_name": "Don't Drop The Cake",
       "file": "missing/D/323532-dont-drop-the-cake.json"
@@ -46611,6 +46701,11 @@
       "igdb_id": 341896,
       "game_name": "Don't Feed It",
       "file": "missing/D/341896-dont-feed-it.json"
+    },
+    {
+      "igdb_id": 303488,
+      "game_name": "Don't Find Me!!",
+      "file": "missing/D/303488-dont-find-me.json"
     },
     {
       "igdb_id": 267089,
@@ -46973,6 +47068,11 @@
       "file": "missing/D/334699-doodle-god-merge-evolution.json"
     },
     {
+      "igdb_id": 303487,
+      "game_name": "Doodle Harmony Idle Merge",
+      "file": "missing/D/303487-doodle-harmony-idle-merge.json"
+    },
+    {
       "igdb_id": 104106,
       "game_name": "Doodle Jump HD: Insanely Good!",
       "file": "missing/D/104106-doodle-jump-hd-insanely-good.json"
@@ -47056,6 +47156,11 @@
       "igdb_id": 16116,
       "game_name": "Doom Rails",
       "file": "missing/D/16116-doom-rails.json"
+    },
+    {
+      "igdb_id": 303486,
+      "game_name": "Doom Roller",
+      "file": "missing/D/303486-doom-roller.json"
     },
     {
       "igdb_id": 396187,
@@ -47541,6 +47646,11 @@
       "igdb_id": 400221,
       "game_name": "Download RAM Idle 2",
       "file": "missing/D/400221-download-ram-idle-2.json"
+    },
+    {
+      "igdb_id": 303485,
+      "game_name": "Downpour Dash!",
+      "file": "missing/D/303485-downpour-dash.json"
     },
     {
       "igdb_id": 391048,
@@ -48553,6 +48663,11 @@
       "file": "missing/D/210885-drain-runner.json"
     },
     {
+      "igdb_id": 303490,
+      "game_name": "DrainSim",
+      "file": "missing/D/303490-drainsim.json"
+    },
+    {
       "igdb_id": 168390,
       "game_name": "Drak",
       "file": "missing/D/168390-drak.json"
@@ -48708,6 +48823,11 @@
       "file": "missing/D/244999-dream-64.json"
     },
     {
+      "igdb_id": 303491,
+      "game_name": "Dream Addict",
+      "file": "missing/D/303491-dream-addict.json"
+    },
+    {
       "igdb_id": 347715,
       "game_name": "Dream Boundary",
       "file": "missing/D/347715-dream-boundary.json"
@@ -48821,6 +48941,11 @@
       "igdb_id": 127082,
       "game_name": "Dream Home",
       "file": "missing/D/127082-dream-home.json"
+    },
+    {
+      "igdb_id": 303492,
+      "game_name": "Dream Hotel Master",
+      "file": "missing/D/303492-dream-hotel-master.json"
     },
     {
       "igdb_id": 220330,
@@ -49873,6 +49998,11 @@
       "file": "missing/D/341466-dueling-drums.json"
     },
     {
+      "igdb_id": 303496,
+      "game_name": "Duelite",
+      "file": "missing/D/303496-duelite.json"
+    },
+    {
       "igdb_id": 315252,
       "game_name": "Duendes in New Year",
       "file": "missing/D/315252-duendes-in-new-year.json"
@@ -49958,6 +50088,11 @@
       "file": "missing/D/195202-dulce-et-decorum.json"
     },
     {
+      "igdb_id": 303495,
+      "game_name": "Dull Acres",
+      "file": "missing/D/303495-dull-acres.json"
+    },
+    {
       "igdb_id": 273108,
       "game_name": "Duludubi Star",
       "file": "missing/D/273108-duludubi-star.json"
@@ -49993,6 +50128,11 @@
       "file": "missing/D/260404-dumbriel-magnificent-adventure-in-hell.json"
     },
     {
+      "igdb_id": 303493,
+      "game_name": "Dummy Guyz",
+      "file": "missing/D/303493-dummy-guyz.json"
+    },
+    {
       "igdb_id": 234902,
       "game_name": "Dummy Never Fails",
       "file": "missing/D/234902-dummy-never-fails.json"
@@ -50001,6 +50141,11 @@
       "igdb_id": 234903,
       "game_name": "Dummy Never Fails 2",
       "file": "missing/D/234903-dummy-never-fails-2.json"
+    },
+    {
+      "igdb_id": 303494,
+      "game_name": "DummyDoodle",
+      "file": "missing/D/303494-dummydoodle.json"
     },
     {
       "igdb_id": 104638,
@@ -50043,6 +50188,11 @@
       "file": "missing/D/349832-duncrush.json"
     },
     {
+      "igdb_id": 303497,
+      "game_name": "Dunderbeck",
+      "file": "missing/D/303497-dunderbeck.json"
+    },
+    {
       "igdb_id": 13710,
       "game_name": "Dune Rider",
       "file": "missing/D/13710-dune-rider.json"
@@ -50068,6 +50218,11 @@
       "file": "missing/D/320131-dunebound-tactics.json"
     },
     {
+      "igdb_id": 303498,
+      "game_name": "Dunes of Valor",
+      "file": "missing/D/303498-dunes-of-valor.json"
+    },
+    {
       "igdb_id": 169436,
       "game_name": "Dungen",
       "file": "missing/D/169436-dungen.json"
@@ -50076,6 +50231,11 @@
       "igdb_id": 86095,
       "game_name": "Dungeon",
       "file": "missing/D/86095-dungeon.json"
+    },
+    {
+      "igdb_id": 303499,
+      "game_name": "Dungeon & Doggies",
+      "file": "missing/D/303499-dungeon-and-doggies.json"
     },
     {
       "igdb_id": 277583,
@@ -50888,6 +51048,11 @@
       "file": "missing/E/201836-e-nikki.json"
     },
     {
+      "igdb_id": 303507,
+      "game_name": "E-commerce Simulator",
+      "file": "missing/E/303507-e-commerce-simulator.json"
+    },
+    {
       "igdb_id": 355538,
       "game_name": "E-Reader 5-Card Sample Pack",
       "file": "missing/E/355538-e-reader-5-card-sample-pack.json"
@@ -51233,6 +51398,11 @@
       "file": "missing/E/248928-easy-puzzle-landscape.json"
     },
     {
+      "igdb_id": 303502,
+      "game_name": "Easy RTS",
+      "file": "missing/E/303502-easy-rts.json"
+    },
+    {
       "igdb_id": 411605,
       "game_name": "Easy-Bake Treats!",
       "file": "missing/E/411605-easy-bake-treats.json"
@@ -51276,6 +51446,11 @@
       "igdb_id": 76637,
       "game_name": "Eat: The Revolution",
       "file": "missing/E/76637-eat-the-revolution.json"
+    },
+    {
+      "igdb_id": 303501,
+      "game_name": "EatFish",
+      "file": "missing/E/303501-eatfish.json"
     },
     {
       "igdb_id": 195216,
@@ -51363,9 +51538,29 @@
       "file": "missing/E/316998-echo-chess.json"
     },
     {
+      "igdb_id": 303511,
+      "game_name": "Echo Flesh Metal",
+      "file": "missing/E/303511-echo-flesh-metal.json"
+    },
+    {
+      "igdb_id": 303510,
+      "game_name": "Echo in Capistrano",
+      "file": "missing/E/303510-echo-in-capistrano.json"
+    },
+    {
       "igdb_id": 213604,
       "game_name": "Echo Night: The First Voyage",
       "file": "missing/E/213604-echo-night-the-first-voyage.json"
+    },
+    {
+      "igdb_id": 303509,
+      "game_name": "Echo of Mobius",
+      "file": "missing/E/303509-echo-of-mobius.json"
+    },
+    {
+      "igdb_id": 303508,
+      "game_name": "Echo of Prypiat",
+      "file": "missing/E/303508-echo-of-prypiat.json"
     },
     {
       "igdb_id": 243932,
@@ -51383,6 +51578,11 @@
       "file": "missing/E/215896-echo-wars-road-rage.json"
     },
     {
+      "igdb_id": 303500,
+      "game_name": "Echo: Defy Death",
+      "file": "missing/E/303500-echo-defy-death.json"
+    },
+    {
       "igdb_id": 166752,
       "game_name": "EchoBlade",
       "file": "missing/E/166752-echoblade.json"
@@ -51393,6 +51593,16 @@
       "file": "missing/E/295000-echoed-realms.json"
     },
     {
+      "igdb_id": 303503,
+      "game_name": "Echoes",
+      "file": "missing/E/303503-echoes.json"
+    },
+    {
+      "igdb_id": 303513,
+      "game_name": "Echoes Afterfall",
+      "file": "missing/E/303513-echoes-afterfall.json"
+    },
+    {
       "igdb_id": 387335,
       "game_name": "Echoes From Ciudadela",
       "file": "missing/E/387335-echoes-from-ciudadela.json"
@@ -51401,6 +51611,11 @@
       "igdb_id": 309135,
       "game_name": "Echoes from the Abyss",
       "file": "missing/E/309135-echoes-from-the-abyss.json"
+    },
+    {
+      "igdb_id": 303505,
+      "game_name": "Echoes Ⅱ",
+      "file": "missing/E/303505-echoes-ii.json"
     },
     {
       "igdb_id": 318768,
@@ -51461,6 +51676,11 @@
       "igdb_id": 398979,
       "game_name": "Echoes of the Scourge",
       "file": "missing/E/398979-echoes-of-the-scourge.json"
+    },
+    {
+      "igdb_id": 303512,
+      "game_name": "Echoes of the Woods",
+      "file": "missing/E/303512-echoes-of-the-woods.json"
     },
     {
       "igdb_id": 355019,
@@ -51611,6 +51831,11 @@
       "igdb_id": 325448,
       "game_name": "Eden Tactics",
       "file": "missing/E/325448-eden-tactics.json"
+    },
+    {
+      "igdb_id": 303506,
+      "game_name": "Eden Warrior",
+      "file": "missing/E/303506-eden-warrior.json"
     },
     {
       "igdb_id": 290722,
@@ -53198,6 +53423,11 @@
       "file": "missing/E/249452-enderal-the-shards-of-order.json"
     },
     {
+      "igdb_id": 303514,
+      "game_name": "EndGame",
+      "file": "missing/E/303514-endgame.json"
+    },
+    {
       "igdb_id": 35924,
       "game_name": "Endica VII: The Dream King",
       "file": "missing/E/35924-endica-vii-the-dream-king.json"
@@ -53558,6 +53788,11 @@
       "file": "missing/E/396200-ennuigi-a-time-for-monsters.json"
     },
     {
+      "igdb_id": 303516,
+      "game_name": "Enoah's Quest",
+      "file": "missing/E/303516-enoahs-quest.json"
+    },
+    {
       "igdb_id": 269830,
       "game_name": "Enpitsu de Oku no Hosomichi DS",
       "file": "missing/E/269830-enpitsu-de-oku-no-hosomichi-ds.json"
@@ -53661,6 +53896,11 @@
       "igdb_id": 149598,
       "game_name": "Enyla X",
       "file": "missing/E/149598-enyla-x.json"
+    },
+    {
+      "igdb_id": 303515,
+      "game_name": "EOEOnline",
+      "file": "missing/E/303515-eoeonline.json"
     },
     {
       "igdb_id": 355025,
@@ -114418,6 +114658,11 @@
       "file": "missing/N/410235-nibble-quest.json"
     },
     {
+      "igdb_id": 303489,
+      "game_name": "Nibeos",
+      "file": "missing/N/303489-nibeos.json"
+    },
+    {
       "igdb_id": 123629,
       "game_name": "Nice Shot Golf",
       "file": "missing/N/123629-nice-shot-golf.json"
@@ -146926,6 +147171,11 @@
       "igdb_id": 18299,
       "game_name": "Shaolin",
       "file": "missing/S/18299-shaolin.json"
+    },
+    {
+      "igdb_id": 303478,
+      "game_name": "Shaolin Bao",
+      "file": "missing/S/303478-shaolin-bao.json"
     },
     {
       "igdb_id": 123063,
