@@ -1872,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Progress Bar Deluxe | 371861 | [371861-progress-bar-deluxe.json](./371861-progress-bar-deluxe.json) |
 | Progress Orders | 328491 | [328491-progress-orders.json](./328491-progress-orders.json) |
 | Progressbar Popup Fighter | 250015 | [250015-progressbar-popup-fighter.json](./250015-progressbar-popup-fighter.json) |
+| Progs_dump | 300705 | [300705-progs-dump.json](./300705-progs-dump.json) |
 | Prohibeast | 343266 | [343266-prohibeast.json](./343266-prohibeast.json) |
 | Project 13: Nightwatch - Canteen | 310382 | [310382-project-13-nightwatch-canteen.json](./310382-project-13-nightwatch-canteen.json) |
 | Project 2/3 | 322933 | [322933-project-2-3.json](./322933-project-2-3.json) |
@@ -1906,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Highrise: London Life | 124801 | [124801-project-highrise-london-life.json](./124801-project-highrise-london-life.json) |
 | Project Highrise: Tokyo Towers | 124798 | [124798-project-highrise-tokyo-towers.json](./124798-project-highrise-tokyo-towers.json) |
 | Project Hive | 317034 | [317034-project-hive.json](./317034-project-hive.json) |
+| Project Homecoming Haven | 300711 | [300711-project-homecoming-haven.json](./300711-project-homecoming-haven.json) |
 | Project II: Final Fantasy IV | 379344 | [379344-project-ii-final-fantasy-iv.json](./379344-project-ii-final-fantasy-iv.json) |
 | Project Kizuna | 321764 | [321764-project-kizuna.json](./321764-project-kizuna.json) |
 | Project Labyrinth | 236515 | [236515-project-labyrinth.json](./236515-project-labyrinth.json) |
@@ -2024,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prototype Mansion - Used No Cover | 77443 | [77443-prototype-mansion-used-no-cover.json](./77443-prototype-mansion-used-no-cover.json) |
 | Prototype Mint B | 332403 | [332403-prototype-mint-b.json](./332403-prototype-mint-b.json) |
 | Prototype TD 2 | 195796 | [195796-prototype-td-2.json](./195796-prototype-td-2.json) |
+| Prototype Textures II | 300703 | [300703-prototype-textures-ii.json](./300703-prototype-textures-ii.json) |
 | Proud To Love | 385052 | [385052-proud-to-love.json](./385052-proud-to-love.json) |
 | Proun | 80558 | [80558-proun.json](./80558-proun.json) |
 | Provide Relief | 272008 | [272008-provide-relief.json](./272008-provide-relief.json) |
