@@ -1630,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydra: Poseidon's Сonspiracy | 342645 | [342645-hydra-poseidons-onspiracy.json](./342645-hydra-poseidons-onspiracy.json) |
 | Hydrangea | 299171 | [299171-hydrangea.json](./299171-hydrangea.json) |
 | Hydrofoil Generation | 190237 | [190237-hydrofoil-generation.json](./190237-hydrofoil-generation.json) |
+| Hydrofusion Substation | 270677 | [270677-hydrofusion-substation.json](./270677-hydrofusion-substation.json) |
 | Hydropawnics | 371893 | [371893-hydropawnics.json](./371893-hydropawnics.json) |
 | Hymeno Striker: Akashicverse Minigame | 171597 | [171597-hymeno-striker-akashicverse-minigame.json](./171597-hymeno-striker-akashicverse-minigame.json) |
 | Hyokkori Hyoutan-jima: Takaramono Tocchae! | 346028 | [346028-hyokkori-hyoutan-jima-takaramono-tocchae.json](./346028-hyokkori-hyoutan-jima-takaramono-tocchae.json) |
