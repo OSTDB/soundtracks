@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel vs. Capcom 2: New Age of Heroes | 305168 | [305168-marvel-vs-capcom-2-new-age-of-heroes.json](./305168-marvel-vs-capcom-2-new-age-of-heroes.json) |
 | Marvel vs. Capcom 2: New Age of Heroes | 305169 | [305169-marvel-vs-capcom-2-new-age-of-heroes.json](./305169-marvel-vs-capcom-2-new-age-of-heroes.json) |
 | Marvel's Avengers Definitive Edition | 259466 | [259466-marvels-avengers-definitive-edition.json](./259466-marvels-avengers-definitive-edition.json) |
+| Marvel's Blade | 279646 | [279646-marvels-blade.json](./279646-marvels-blade.json) |
 | Marvel's Guardians of the Galaxy: Cloud Version | 152370 | [152370-marvels-guardians-of-the-galaxy-cloud-version.json](./152370-marvels-guardians-of-the-galaxy-cloud-version.json) |
 | Marvel's Midnight Suns: Blood Storm | 248352 | [248352-marvels-midnight-suns-blood-storm.json](./248352-marvels-midnight-suns-blood-storm.json) |
 | Marvel's Midnight Suns: The Good, The Bad, and The Undead | 232424 | [232424-marvels-midnight-suns-the-good-the-bad-and-the-undead.json](./232424-marvels-midnight-suns-the-good-the-bad-and-the-undead.json) |
@@ -1864,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Bobblehead Pros | 20562 | [20562-mlb-bobblehead-pros.json](./20562-mlb-bobblehead-pros.json) |
 | MLB Home Run Derby 18 | 96055 | [96055-mlb-home-run-derby-18.json](./96055-mlb-home-run-derby-18.json) |
 | MLB Home Run Derby VR | 293378 | [293378-mlb-home-run-derby-vr.json](./293378-mlb-home-run-derby-vr.json) |
+| MLB Manager 2015 | 279628 | [279628-mlb-manager-2015.json](./279628-mlb-manager-2015.json) |
 | MLB Manager 2018 | 96270 | [96270-mlb-manager-2018.json](./96270-mlb-manager-2018.json) |
 | MLB Perfect Inning | 323161 | [323161-mlb-perfect-inning.json](./323161-mlb-perfect-inning.json) |
 | MLB Slugfest 2003 | 47334 | [47334-mlb-slugfest-2003.json](./47334-mlb-slugfest-2003.json) |
