@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cagebreak | 60568 | [60568-cagebreak.json](./60568-cagebreak.json) |
 | Cages: Hidden Worlds | 406114 | [406114-cages-hidden-worlds.json](./406114-cages-hidden-worlds.json) |
 | Cahors Sunset | 35956 | [35956-cahors-sunset.json](./35956-cahors-sunset.json) |
+| Cain x Nica | 304609 | [304609-cain-x-nica.json](./304609-cain-x-nica.json) |
 | Cairn | 178665 | [178665-cairn.json](./178665-cairn.json) |
 | Cairn | 394894 | [394894-cairn.json](./394894-cairn.json) |
 | Caïssa Board | 152893 | [152893-caissa-board.json](./152893-caissa-board.json) |
