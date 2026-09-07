@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrorist Takedown: Payback | 54430 | [54430-terrorist-takedown-payback.json](./54430-terrorist-takedown-payback.json) |
 | TerrorMario! | 323754 | [323754-terrormario.json](./323754-terrormario.json) |
 | Terrors to Unveil: Intrusion | 344352 | [344352-terrors-to-unveil-intrusion.json](./344352-terrors-to-unveil-intrusion.json) |
+| Terrorween Playdate Bundle | 272820 | [272820-terrorween-playdate-bundle.json](./272820-terrorween-playdate-bundle.json) |
 | Terry The Turtle's Big Adventure | 315502 | [315502-terry-the-turtles-big-adventure.json](./315502-terry-the-turtles-big-adventure.json) |
 | Terry's Other Games | 327820 | [327820-terrys-other-games.json](./327820-terrys-other-games.json) |
 | Terry's Treasure Trouble! | 265934 | [265934-terrys-treasure-trouble.json](./265934-terrys-treasure-trouble.json) |
@@ -1834,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: The Fellowship of the Ring | 201347 | [201347-the-lord-of-the-rings-the-fellowship-of-the-ring.json](./201347-the-lord-of-the-rings-the-fellowship-of-the-ring.json) |
 | The Lord of War | 262064 | [262064-the-lord-of-war.json](./262064-the-lord-of-war.json) |
 | The Lords of Midnight | 25733 | [25733-the-lords-of-midnight.json](./25733-the-lords-of-midnight.json) |
+| The Lords of Midnight | 272816 | [272816-the-lords-of-midnight.json](./272816-the-lords-of-midnight.json) |
 | The Lost | 120432 | [120432-the-lost.json](./120432-the-lost.json) |
 | The Lost | 320130 | [320130-the-lost.json](./320130-the-lost.json) |
 | The Lost | 33178 | [33178-the-lost.json](./33178-the-lost.json) |
@@ -3444,6 +3446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tome of Heroes | 48675 | [48675-tome-of-heroes.json](./48675-tome-of-heroes.json) |
 | Tomes and Quests: Nemesis Campaign | 241665 | [241665-tomes-and-quests-nemesis-campaign.json](./241665-tomes-and-quests-nemesis-campaign.json) |
 | Tomica de Asobou! | 327612 | [327612-tomica-de-asobou.json](./327612-tomica-de-asobou.json) |
+| Tommy Is My Hero! | 272853 | [272853-tommy-is-my-hero.json](./272853-tommy-is-my-hero.json) |
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
 | Tomodachi Life | 6403 | [6403-tomodachi-life.json](./6403-tomodachi-life.json) |
 | Tomodachii | 332803 | [332803-tomodachii.json](./332803-tomodachii.json) |
@@ -4037,6 +4040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasures of the Haunted Forest | 273645 | [273645-treasures-of-the-haunted-forest.json](./273645-treasures-of-the-haunted-forest.json) |
 | Trebuchet Town | 175993 | [175993-trebuchet-town.json](./175993-trebuchet-town.json) |
 | Tree Kingdoms | 345485 | [345485-tree-kingdoms.json](./345485-tree-kingdoms.json) |
+| Tree of Ashes | 272823 | [272823-tree-of-ashes.json](./272823-tree-of-ashes.json) |
 | Tree of Knowledge | 392138 | [392138-tree-of-knowledge.json](./392138-tree-of-knowledge.json) |
 | Tree of Life: Yggdrasil | 82159 | [82159-tree-of-life-yggdrasil.json](./82159-tree-of-life-yggdrasil.json) |
 | Tree of Savior: Neo | 349296 | [349296-tree-of-savior-neo.json](./349296-tree-of-savior-neo.json) |
@@ -4251,6 +4255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukikage no Simulacre: Kaihou no Hane | 120995 | [120995-tsukikage-no-simulacre-kaihou-no-hane.json](./120995-tsukikage-no-simulacre-kaihou-no-hane.json) |
 | Tsukikomori | 37781 | [37781-tsukikomori.json](./37781-tsukikomori.json) |
 | Tsukumo Reiko's Summer Holidays | 394163 | [394163-tsukumo-reikos-summer-holidays.json](./394163-tsukumo-reikos-summer-holidays.json) |
+| Tsukumogamis! | 272870 | [272870-tsukumogamis.json](./272870-tsukumogamis.json) |
 | Tsukumonogatari | 66115 | [66115-tsukumonogatari.json](./66115-tsukumonogatari.json) |
 | Tsumobaka Nisshi | 299440 | [299440-tsumobaka-nisshi.json](./299440-tsumobaka-nisshi.json) |
 | Tsunagaru Voiro Shooters vs. Space Kedamaki | 204732 | [204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json](./204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json) |
