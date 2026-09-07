@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am Jesus | 57681 | [57681-i-am-jesus.json](./57681-i-am-jesus.json) |
 | I Am Kilt | 291247 | [291247-i-am-kilt.json](./291247-i-am-kilt.json) |
 | I am Machine | 371877 | [371877-i-am-machine.json](./371877-i-am-machine.json) |
+| I am Neutron | 294172 | [294172-i-am-neutron.json](./294172-i-am-neutron.json) |
 | I Am Night | 352165 | [352165-i-am-night.json](./352165-i-am-night.json) |
 | I Am Not What Remains | 176498 | [176498-i-am-not-what-remains.json](./176498-i-am-not-what-remains.json) |
 | I am Sakuya VR: Touhou FPS Game | 244477 | [244477-i-am-sakuya-vr-touhou-fps-game.json](./244477-i-am-sakuya-vr-touhou-fps-game.json) |
@@ -236,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Slayer | 139040 | [139040-idle-slayer.json](./139040-idle-slayer.json) |
 | Idle Sphere | 323157 | [323157-idle-sphere.json](./323157-idle-sphere.json) |
 | Idle Tiers | 369577 | [369577-idle-tiers.json](./369577-idle-tiers.json) |
+| Idle Trillionaire | 294137 | [294137-idle-trillionaire.json](./294137-idle-trillionaire.json) |
 | Idle Ultimate | 368509 | [368509-idle-ultimate.json](./368509-idle-ultimate.json) |
 | Idle Universe Creator | 351606 | [351606-idle-universe-creator.json](./351606-idle-universe-creator.json) |
 | Idle Waters | 304604 | [304604-idle-waters.json](./304604-idle-waters.json) |
@@ -266,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IFU | 274774 | [274774-ifu.json](./274774-ifu.json) |
 | Iga Ninden Ga-ou | 55899 | [55899-iga-ninden-ga-ou.json](./55899-iga-ninden-ga-ou.json) |
 | IGKnight | 238720 | [238720-igknight.json](./238720-igknight.json) |
+| Ignis | 294170 | [294170-ignis.json](./294170-ignis.json) |
 | Ignisia | 328239 | [328239-ignisia.json](./328239-ignisia.json) |
 | Ignition | 180309 | [180309-ignition.json](./180309-ignition.json) |
 | Ignition Arena | 314896 | [314896-ignition-arena.json](./314896-ignition-arena.json) |
