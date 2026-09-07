@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gantz: The Game | 78046 | [78046-gantz-the-game.json](./78046-gantz-the-game.json) |
 | Ganz Schön Clever | 105957 | [105957-ganz-schon-clever.json](./105957-ganz-schon-clever.json) |
 | Gapper | 57674 | [57674-gapper.json](./57674-gapper.json) |
+| Garage Works | 278417 | [278417-garage-works.json](./278417-garage-works.json) |
 | Garage: Bad Dream Adventure | 24947 | [24947-garage-bad-dream-adventure.json](./24947-garage-bad-dream-adventure.json) |
 | Garbage Collector | 376437 | [376437-garbage-collector.json](./376437-garbage-collector.json) |
 | Garbage Scow Captain | 317813 | [317813-garbage-scow-captain.json](./317813-garbage-scow-captain.json) |
@@ -575,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl's Blossom Project: Unbelievable Real Love | 245022 | [245022-girls-blossom-project-unbelievable-real-love.json](./245022-girls-blossom-project-unbelievable-real-love.json) |
 | Girl's Memories | 295569 | [295569-girls-memories.json](./295569-girls-memories.json) |
 | Girlfriend Cards | 106582 | [106582-girlfriend-cards.json](./106582-girlfriend-cards.json) |
+| Girlfriend from Hell | 278416 | [278416-girlfriend-from-hell.json](./278416-girlfriend-from-hell.json) |
 | Girlfriend Note | 58812 | [58812-girlfriend-note.json](./58812-girlfriend-note.json) |
 | Girlish Love Revolution | 80610 | [80610-girlish-love-revolution.json](./80610-girlish-love-revolution.json) |
 | GirlJail | 97348 | [97348-girljail.json](./97348-girljail.json) |
@@ -599,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator of sparta | 173275 | [173275-gladiator-of-sparta.json](./173275-gladiator-of-sparta.json) |
 | Gladiator School | 284329 | [284329-gladiator-school.json](./284329-gladiator-school.json) |
 | Gladiator's Arena | 236530 | [236530-gladiators-arena.json](./236530-gladiators-arena.json) |
+| Gladio Mori | 278415 | [278415-gladio-mori.json](./278415-gladio-mori.json) |
 | GlaiveBound | 290719 | [290719-glaivebound.json](./290719-glaivebound.json) |
 | Glass Horizon | 322604 | [322604-glass-horizon.json](./322604-glass-horizon.json) |
 | Glass Tactics | 244518 | [244518-glass-tactics.json](./244518-glass-tactics.json) |
