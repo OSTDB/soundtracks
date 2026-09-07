@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expansion | 120397 | [120397-expansion.json](./120397-expansion.json) |
 | Expediente Ñ | 322368 | [322368-expediente-n.json](./322368-expediente-n.json) |
 | Expedition Amazon | 23898 | [23898-expedition-amazon.json](./23898-expedition-amazon.json) |
+| Expedition Astra | 288777 | [288777-expedition-astra.json](./288777-expedition-astra.json) |
 | Expedition to the Backrooms | 324305 | [324305-expedition-to-the-backrooms.json](./324305-expedition-to-the-backrooms.json) |
 | Expedition: Into Darkness | 324300 | [324300-expedition-into-darkness.json](./324300-expedition-into-darkness.json) |
 | Expeditions: A MudRunner Game - Season 1: Cave Odyssey | 397701 | [397701-expeditions-a-mudrunner-game-season-1-cave-odyssey.json](./397701-expeditions-a-mudrunner-game-season-1-cave-odyssey.json) |
