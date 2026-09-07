@@ -1603,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concrete Spaces | 335871 | [335871-concrete-spaces.json](./335871-concrete-spaces.json) |
 | Concurrence | 166779 | [166779-concurrence.json](./166779-concurrence.json) |
 | Conde | 265424 | [265424-conde.json](./265424-conde.json) |
+| Condemned | 299764 | [299764-condemned.json](./299764-condemned.json) |
 | Condemned 2: Bloodshot | 6943 | [6943-condemned-2-bloodshot.json](./6943-condemned-2-bloodshot.json) |
 | Condemned: Criminal Origins | 6942 | [6942-condemned-criminal-origins.json](./6942-condemned-criminal-origins.json) |
 | Condominium | 333356 | [333356-condominium.json](./333356-condominium.json) |
@@ -2330,6 +2331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubicle Quest | 35762 | [35762-cubicle-quest.json](./35762-cubicle-quest.json) |
 | CubicPanic | 98980 | [98980-cubicpanic.json](./98980-cubicpanic.json) |
 | Cubidle | 311473 | [311473-cubidle.json](./311473-cubidle.json) |
+| Cubin | 299744 | [299744-cubin.json](./299744-cubin.json) |
 | Cubin II | 368485 | [368485-cubin-ii.json](./368485-cubin-ii.json) |
 | Cubio | 321152 | [321152-cubio.json](./321152-cubio.json) |
 | Cubis Creatures | 253017 | [253017-cubis-creatures.json](./253017-cubis-creatures.json) |
