@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T00:48:21.967Z",
-  "total_missing": 39629,
+  "generated_at": "2026-09-07T01:03:18.693Z",
+  "total_missing": 39679,
   "games": [
     {
       "igdb_id": 306086,
@@ -4286,6 +4286,16 @@
       "igdb_id": 308543,
       "game_name": "Ace Attorney: Beyond the Shadows",
       "file": "missing/A/308543-ace-attorney-beyond-the-shadows.json"
+    },
+    {
+      "igdb_id": 310417,
+      "game_name": "Ace Attorney: Judgement Seekers",
+      "file": "missing/A/310417-ace-attorney-judgement-seekers.json"
+    },
+    {
+      "igdb_id": 310416,
+      "game_name": "Ace Attorney: The Feather of Crime",
+      "file": "missing/A/310416-ace-attorney-the-feather-of-crime.json"
     },
     {
       "igdb_id": 182524,
@@ -17618,6 +17628,11 @@
       "file": "missing/B/233239-battle-tap-tap.json"
     },
     {
+      "igdb_id": 310384,
+      "game_name": "Battle Teams 2: Wishlist Pack",
+      "file": "missing/B/310384-battle-teams-2-wishlist-pack.json"
+    },
+    {
       "igdb_id": 220354,
       "game_name": "Battle Thunder Front",
       "file": "missing/B/220354-battle-thunder-front.json"
@@ -23763,6 +23778,11 @@
       "file": "missing/B/191243-box-rush.json"
     },
     {
+      "igdb_id": 310399,
+      "game_name": "Box To The Beat VR: Electro Swing Pack",
+      "file": "missing/B/310399-box-to-the-beat-vr-electro-swing-pack.json"
+    },
+    {
       "igdb_id": 263202,
       "game_name": "Box To The Beat VR: Shadow Dreams Pack",
       "file": "missing/B/263202-box-to-the-beat-vr-shadow-dreams-pack.json"
@@ -28646,6 +28666,11 @@
       "igdb_id": 314672,
       "game_name": "Cat Astro Phi",
       "file": "missing/C/314672-cat-astro-phi.json"
+    },
+    {
+      "igdb_id": 310418,
+      "game_name": "Cat Bait",
+      "file": "missing/C/310418-cat-bait.json"
     },
     {
       "igdb_id": 185679,
@@ -35358,6 +35383,11 @@
       "file": "missing/C/176511-count-on-me.json"
     },
     {
+      "igdb_id": 310385,
+      "game_name": "Count to Ten: Supporter Edition",
+      "file": "missing/C/310385-count-to-ten-supporter-edition.json"
+    },
+    {
       "igdb_id": 95417,
       "game_name": "Countdown",
       "file": "missing/C/95417-countdown.json"
@@ -37966,6 +37996,11 @@
       "igdb_id": 318392,
       "game_name": "Curiosity",
       "file": "missing/C/318392-curiosity.json"
+    },
+    {
+      "igdb_id": 310423,
+      "game_name": "Curiosity of a Turnabout",
+      "file": "missing/C/310423-curiosity-of-a-turnabout.json"
     },
     {
       "igdb_id": 304883,
@@ -45323,6 +45358,21 @@
       "file": "missing/D/297801-dna-episode-4.json"
     },
     {
+      "igdb_id": 310383,
+      "game_name": "DNA: Season 2 - Episode 1",
+      "file": "missing/D/310383-dna-season-2-episode-1.json"
+    },
+    {
+      "igdb_id": 310397,
+      "game_name": "DNA: Season 2 - Episode 2",
+      "file": "missing/D/310397-dna-season-2-episode-2.json"
+    },
+    {
+      "igdb_id": 310407,
+      "game_name": "DNA: Season 2 - Episode 3",
+      "file": "missing/D/310407-dna-season-2-episode-3.json"
+    },
+    {
       "igdb_id": 105951,
       "game_name": "DnD Dice",
       "file": "missing/D/105951-dnd-dice.json"
@@ -48893,6 +48943,51 @@
       "file": "missing/D/188662-drummania-3rdmix.json"
     },
     {
+      "igdb_id": 310378,
+      "game_name": "Drums Rock: Disturbed - 'Down with the Sickness'",
+      "file": "missing/D/310378-drums-rock-disturbed-down-with-the-sickness.json"
+    },
+    {
+      "igdb_id": 310374,
+      "game_name": "Drums Rock: Disturbed - 'Stricken'",
+      "file": "missing/D/310374-drums-rock-disturbed-stricken.json"
+    },
+    {
+      "igdb_id": 310380,
+      "game_name": "Drums Rock: Disturbed - 'Ten Thousand Fists'",
+      "file": "missing/D/310380-drums-rock-disturbed-ten-thousand-fists.json"
+    },
+    {
+      "igdb_id": 310375,
+      "game_name": "Drums Rock: Green Day - 'American Idiot'",
+      "file": "missing/D/310375-drums-rock-green-day-american-idiot.json"
+    },
+    {
+      "igdb_id": 310372,
+      "game_name": "Drums Rock: Green Day - 'Holiday'",
+      "file": "missing/D/310372-drums-rock-green-day-holiday.json"
+    },
+    {
+      "igdb_id": 310376,
+      "game_name": "Drums Rock: Green Day - 'The American Dream Is Killing Me'",
+      "file": "missing/D/310376-drums-rock-green-day-the-american-dream-is-killing-me.json"
+    },
+    {
+      "igdb_id": 310379,
+      "game_name": "Drums Rock: Pantera - '5 Minutes Alone'",
+      "file": "missing/D/310379-drums-rock-pantera-5-minutes-alone.json"
+    },
+    {
+      "igdb_id": 310381,
+      "game_name": "Drums Rock: Pantera - 'Walk'",
+      "file": "missing/D/310381-drums-rock-pantera-walk.json"
+    },
+    {
+      "igdb_id": 310377,
+      "game_name": "Drums Rock: The Proclaimers - 'I'm Gonna Be (500 Miles)'",
+      "file": "missing/D/310377-drums-rock-the-proclaimers-im-gonna-be-500-miles.json"
+    },
+    {
       "igdb_id": 183068,
       "game_name": "Drunk",
       "file": "missing/D/183068-drunk.json"
@@ -50998,6 +51093,11 @@
       "file": "missing/E/35755-edolie.json"
     },
     {
+      "igdb_id": 310413,
+      "game_name": "Edouard Roivas: The Eye of Law",
+      "file": "missing/E/310413-edouard-roivas-the-eye-of-law.json"
+    },
+    {
       "igdb_id": 78031,
       "game_name": "Edtris 2600",
       "file": "missing/E/78031-edtris-2600.json"
@@ -52001,6 +52101,11 @@
       "igdb_id": 340741,
       "game_name": "Ember & Blade",
       "file": "missing/E/340741-ember-and-blade.json"
+    },
+    {
+      "igdb_id": 310371,
+      "game_name": "Ember Knights: Wrath of the Architect",
+      "file": "missing/E/310371-ember-knights-wrath-of-the-architect.json"
     },
     {
       "igdb_id": 324303,
@@ -62413,6 +62518,11 @@
       "file": "missing/F/305534-free-chess-cheese-set.json"
     },
     {
+      "igdb_id": 310390,
+      "game_name": "Free Chess: Primitives Set",
+      "file": "missing/F/310390-free-chess-primitives-set.json"
+    },
+    {
       "igdb_id": 339087,
       "game_name": "Free Dunk",
       "file": "missing/F/339087-free-dunk.json"
@@ -65401,6 +65511,11 @@
       "igdb_id": 377089,
       "game_name": "Gate2up",
       "file": "missing/G/377089-gate2up.json"
+    },
+    {
+      "igdb_id": 310401,
+      "game_name": "Gatekeeper: Supporter Pack",
+      "file": "missing/G/310401-gatekeeper-supporter-pack.json"
     },
     {
       "igdb_id": 319987,
@@ -78618,6 +78733,11 @@
       "file": "missing/I/41374-i-am-a-teacher-teami-no-kiso.json"
     },
     {
+      "igdb_id": 310386,
+      "game_name": "I am an Air Traffic Controller 4: Airport Narita - RJAA",
+      "file": "missing/I/310386-i-am-an-air-traffic-controller-4-airport-narita-rjaa.json"
+    },
+    {
       "igdb_id": 56475,
       "game_name": "I Am An Air Traffic Controller: Airport Hero Naha",
       "file": "missing/I/56475-i-am-an-air-traffic-controller-airport-hero-naha.json"
@@ -82761,6 +82881,11 @@
       "igdb_id": 132265,
       "game_name": "Isle Clash",
       "file": "missing/I/132265-isle-clash.json"
+    },
+    {
+      "igdb_id": 310409,
+      "game_name": "Isle o' Little Men",
+      "file": "missing/I/310409-isle-o-little-men.json"
     },
     {
       "igdb_id": 197945,
@@ -87191,6 +87316,11 @@
       "igdb_id": 92489,
       "game_name": "Kickin Momma",
       "file": "missing/K/92489-kickin-momma.json"
+    },
+    {
+      "igdb_id": 310398,
+      "game_name": "Kicking The Ball Over Mountains Of Stuff",
+      "file": "missing/K/310398-kicking-the-ball-over-mountains-of-stuff.json"
     },
     {
       "igdb_id": 40238,
@@ -93331,6 +93461,11 @@
       "igdb_id": 51250,
       "game_name": "Liquid War",
       "file": "missing/L/51250-liquid-war.json"
+    },
+    {
+      "igdb_id": 310387,
+      "game_name": "Liquidum: Secrets of the Deep",
+      "file": "missing/L/310387-liquidum-secrets-of-the-deep.json"
     },
     {
       "igdb_id": 326398,
@@ -117188,6 +117323,11 @@
       "file": "missing/O/324699-one-girl-army.json"
     },
     {
+      "igdb_id": 310419,
+      "game_name": "One Hell of a Turnabout",
+      "file": "missing/O/310419-one-hell-of-a-turnabout.json"
+    },
+    {
       "igdb_id": 296688,
       "game_name": "One Iced Latte With Your Breast Milk, Please!",
       "file": "missing/O/296688-one-iced-latte-with-your-breast-milk-please.json"
@@ -123133,6 +123273,11 @@
       "file": "missing/P/221286-phoenix-wright-ace-attorney-justice-for-all.json"
     },
     {
+      "igdb_id": 310412,
+      "game_name": "Phoenix Wright: Ace Attorney - Project Justice",
+      "file": "missing/P/310412-phoenix-wright-ace-attorney-project-justice.json"
+    },
+    {
       "igdb_id": 253014,
       "game_name": "Phoenix Wright: Ace Attorney - Spirit of Justice",
       "file": "missing/P/253014-phoenix-wright-ace-attorney-spirit-of-justice.json"
@@ -128736,6 +128881,11 @@
       "igdb_id": 343266,
       "game_name": "Prohibeast",
       "file": "missing/P/343266-prohibeast.json"
+    },
+    {
+      "igdb_id": 310382,
+      "game_name": "Project 13: Nightwatch - Canteen",
+      "file": "missing/P/310382-project-13-nightwatch-canteen.json"
     },
     {
       "igdb_id": 322933,
@@ -144288,6 +144438,11 @@
       "file": "missing/S/110529-sexy-comedy-it-was-a-mistake.json"
     },
     {
+      "igdb_id": 310424,
+      "game_name": "Sexy Futa: Mecha Battles of Islands",
+      "file": "missing/S/310424-sexy-futa-mecha-battles-of-islands.json"
+    },
+    {
       "igdb_id": 311991,
       "game_name": "Sexy Girl Next Door: Virtual Valentine Sex",
       "file": "missing/S/311991-sexy-girl-next-door-virtual-valentine-sex.json"
@@ -145196,6 +145351,11 @@
       "igdb_id": 397665,
       "game_name": "She Hungers",
       "file": "missing/S/397665-she-hungers.json"
+    },
+    {
+      "igdb_id": 310373,
+      "game_name": "She is Home Alone",
+      "file": "missing/S/310373-she-is-home-alone.json"
     },
     {
       "igdb_id": 50511,
@@ -146516,6 +146676,11 @@
       "igdb_id": 111714,
       "game_name": "Siam Twinstick",
       "file": "missing/S/111714-siam-twinstick.json"
+    },
+    {
+      "igdb_id": 310408,
+      "game_name": "Siberian Dawn: Winterflood",
+      "file": "missing/S/310408-siberian-dawn-winterflood.json"
     },
     {
       "igdb_id": 117076,
@@ -152638,6 +152803,11 @@
       "file": "missing/S/247778-space-engineers-automatons.json"
     },
     {
+      "igdb_id": 310403,
+      "game_name": "Space Engineers: Signal Pack",
+      "file": "missing/S/310403-space-engineers-signal-pack.json"
+    },
+    {
       "igdb_id": 331850,
       "game_name": "Space Engineers: Ultimate Edition 2024",
       "file": "missing/S/331850-space-engineers-ultimate-edition-2024.json"
@@ -155233,6 +155403,16 @@
       "file": "missing/S/175420-star-chindy.json"
     },
     {
+      "igdb_id": 310391,
+      "game_name": "Star Conflict: Bark-2",
+      "file": "missing/S/310391-star-conflict-bark-2.json"
+    },
+    {
+      "igdb_id": 310392,
+      "game_name": "Star Conflict: Bark-2 - Deluxe Edition",
+      "file": "missing/S/310392-star-conflict-bark-2-deluxe-edition.json"
+    },
+    {
       "igdb_id": 354419,
       "game_name": "Star Conflict: Custodian",
       "file": "missing/S/354419-star-conflict-custodian.json"
@@ -155303,6 +155483,16 @@
       "file": "missing/S/354431-star-conflict-raven.json"
     },
     {
+      "igdb_id": 310394,
+      "game_name": "Star Conflict: Shrike",
+      "file": "missing/S/310394-star-conflict-shrike.json"
+    },
+    {
+      "igdb_id": 310395,
+      "game_name": "Star Conflict: Shrike - Deluxe Edition",
+      "file": "missing/S/310395-star-conflict-shrike-deluxe-edition.json"
+    },
+    {
       "igdb_id": 354424,
       "game_name": "Star Conflict: Starter Pack. Pterosaur",
       "file": "missing/S/354424-star-conflict-starter-pack-pterosaur.json"
@@ -155311,6 +155501,11 @@
       "igdb_id": 354422,
       "game_name": "Star Conflict: Tornado",
       "file": "missing/S/354422-star-conflict-tornado.json"
+    },
+    {
+      "igdb_id": 310393,
+      "game_name": "Star Conflict: Yith'Mor - Weapons of Victory",
+      "file": "missing/S/310393-star-conflict-yithmor-weapons-of-victory.json"
     },
     {
       "igdb_id": 354439,
@@ -158256,6 +158451,11 @@
       "igdb_id": 369597,
       "game_name": "Study Time Anomaly",
       "file": "missing/S/369597-study-time-anomaly.json"
+    },
+    {
+      "igdb_id": 310388,
+      "game_name": "Stumble And Fall",
+      "file": "missing/S/310388-stumble-and-fall.json"
     },
     {
       "igdb_id": 312886,
@@ -161393,6 +161593,11 @@
       "file": "missing/S/224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json"
     },
     {
+      "igdb_id": 310414,
+      "game_name": "Super Volte-Face",
+      "file": "missing/S/310414-super-volte-face.json"
+    },
+    {
       "igdb_id": 391040,
       "game_name": "Super Wash Simulator",
       "file": "missing/S/391040-super-wash-simulator.json"
@@ -162081,6 +162286,11 @@
       "igdb_id": 92524,
       "game_name": "Surviving West",
       "file": "missing/S/92524-surviving-west.json"
+    },
+    {
+      "igdb_id": 310389,
+      "game_name": "Survivor Cells: Virusbane",
+      "file": "missing/S/310389-survivor-cells-virusbane.json"
     },
     {
       "igdb_id": 210892,
@@ -167278,6 +167488,11 @@
       "file": "missing/T/357223-the-best-investor.json"
     },
     {
+      "igdb_id": 310422,
+      "game_name": "The Best Most Epic Turnabout",
+      "file": "missing/T/310422-the-best-most-epic-turnabout.json"
+    },
+    {
       "igdb_id": 267635,
       "game_name": "The Best Play Baseball '90",
       "file": "missing/T/267635-the-best-play-baseball-90.json"
@@ -168456,6 +168671,11 @@
       "igdb_id": 321127,
       "game_name": "The Death of Fo-gu",
       "file": "missing/T/321127-the-death-of-fo-gu.json"
+    },
+    {
+      "igdb_id": 310421,
+      "game_name": "The Deceived Man",
+      "file": "missing/T/310421-the-deceived-man.json"
     },
     {
       "igdb_id": 395592,
@@ -169838,6 +170058,11 @@
       "file": "missing/T/28852-the-great-escape.json"
     },
     {
+      "igdb_id": 310406,
+      "game_name": "The Great Escape",
+      "file": "missing/T/310406-the-great-escape.json"
+    },
+    {
       "igdb_id": 318176,
       "game_name": "The Great Farce",
       "file": "missing/T/318176-the-great-farce.json"
@@ -169956,6 +170181,11 @@
       "igdb_id": 113708,
       "game_name": "The Hardest BrickBreaker",
       "file": "missing/T/113708-the-hardest-brickbreaker.json"
+    },
+    {
+      "igdb_id": 310404,
+      "game_name": "The Hardest Game in the Universe 2: Bridging to the Third Chapter",
+      "file": "missing/T/310404-the-hardest-game-in-the-universe-2-bridging-to-the-third-chapter.json"
     },
     {
       "igdb_id": 306069,
@@ -172361,6 +172591,11 @@
       "igdb_id": 38997,
       "game_name": "The Normal Day",
       "file": "missing/T/38997-the-normal-day.json"
+    },
+    {
+      "igdb_id": 310410,
+      "game_name": "The Normal Turnabout",
+      "file": "missing/T/310410-the-normal-turnabout.json"
     },
     {
       "igdb_id": 382797,
@@ -183793,6 +184028,11 @@
       "file": "missing/T/375175-two-point-museum-sonic-pre-order-pack.json"
     },
     {
+      "igdb_id": 310420,
+      "game_name": "Two Sides of the Same Turnabout",
+      "file": "missing/T/310420-two-sides-of-the-same-turnabout.json"
+    },
+    {
       "igdb_id": 177549,
       "game_name": "Two Worlds",
       "file": "missing/T/177549-two-worlds.json"
@@ -185751,6 +185991,11 @@
       "igdb_id": 221393,
       "game_name": "Unusual Times",
       "file": "missing/U/221393-unusual-times.json"
+    },
+    {
+      "igdb_id": 310396,
+      "game_name": "Unveiling the Unknown",
+      "file": "missing/U/310396-unveiling-the-unknown.json"
     },
     {
       "igdb_id": 405465,
@@ -192556,6 +192801,11 @@
       "igdb_id": 275895,
       "game_name": "Wingspan + European Expansion + Oceania Expansion + Seasonal Decorative Pack",
       "file": "missing/W/275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json"
+    },
+    {
+      "igdb_id": 310400,
+      "game_name": "Wingspan: Woodland Wonders Decorative Pack",
+      "file": "missing/W/310400-wingspan-woodland-wonders-decorative-pack.json"
     },
     {
       "igdb_id": 350454,
