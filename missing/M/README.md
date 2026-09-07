@@ -1467,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimic Search | 278678 | [278678-mimic-search.json](./278678-mimic-search.json) |
 | Mimic Sleuth | 355031 | [355031-mimic-sleuth.json](./355031-mimic-sleuth.json) |
 | Mimizu Panzer | 267645 | [267645-mimizu-panzer.json](./267645-mimizu-panzer.json) |
+| Mina the Hollower GBC Demake | 305750 | [305750-mina-the-hollower-gbc-demake.json](./305750-mina-the-hollower-gbc-demake.json) |
 | Minable & Create | 155123 | [155123-minable-and-create.json](./155123-minable-and-create.json) |
 | Minami Lane | 276203 | [276203-minami-lane.json](./276203-minami-lane.json) |
 | Minami no Shima ni Buta Ga Ita | 267647 | [267647-minami-no-shima-ni-buta-ga-ita.json](./267647-minami-no-shima-ni-buta-ga-ita.json) |
@@ -2064,6 +2065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Montain Offroad | 228105 | [228105-monster-truck-montain-offroad.json](./228105-monster-truck-montain-offroad.json) |
 | Monster Universe | 237640 | [237640-monster-universe.json](./237640-monster-universe.json) |
 | Monster+Connect! | 181396 | [181396-monster-connect.json](./181396-monster-connect.json) |
+| Monsterburg | 305790 | [305790-monsterburg.json](./305790-monsterburg.json) |
 | Monsterlands | 203531 | [203531-monsterlands.json](./203531-monsterlands.json) |
 | Monsterpatch | 334706 | [334706-monsterpatch.json](./334706-monsterpatch.json) |
 | MonsterRoll | 97917 | [97917-monsterroll.json](./97917-monsterroll.json) |
