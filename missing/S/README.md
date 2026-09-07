@@ -3742,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Sports Football | 55153 | [55153-street-sports-football.json](./55153-street-sports-football.json) |
 | Street Sports Soccer | 55152 | [55152-street-sports-soccer.json](./55152-street-sports-soccer.json) |
 | Street Tennis, the Next Generation Champions | 57668 | [57668-street-tennis-the-next-generation-champions.json](./57668-street-tennis-the-next-generation-champions.json) |
+| Street Totochèr | 288760 | [288760-street-totocher.json](./288760-street-totocher.json) |
 | Street Warrior | 44621 | [44621-street-warrior.json](./44621-street-warrior.json) |
 | Streetbike: Full Blast | 20722 | [20722-streetbike-full-blast.json](./20722-streetbike-full-blast.json) |
 | Streetdance 3D | 9466 | [9466-streetdance-3d.json](./9466-streetdance-3d.json) |
