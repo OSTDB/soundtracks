@@ -941,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grainwind Incident 77 | 229358 | [229358-grainwind-incident-77.json](./229358-grainwind-incident-77.json) |
 | Gramik Paint Roller | 254129 | [254129-gramik-paint-roller.json](./254129-gramik-paint-roller.json) |
 | Gran Carismo | 277008 | [277008-gran-carismo.json](./277008-gran-carismo.json) |
+| Gran Turismo 2000 | 298017 | [298017-gran-turismo-2000.json](./298017-gran-turismo-2000.json) |
 | Gran Turismo 4: Spec II | 339256 | [339256-gran-turismo-4-spec-ii.json](./339256-gran-turismo-4-spec-ii.json) |
 | Granblue Fantasy Versus Rising: Color Set 1 | 332820 | [332820-granblue-fantasy-versus-rising-color-set-1.json](./332820-granblue-fantasy-versus-rising-color-set-1.json) |
 | Granblue Fantasy Versus Rising: Color Set 2 | 332821 | [332821-granblue-fantasy-versus-rising-color-set-2.json](./332821-granblue-fantasy-versus-rising-color-set-2.json) |
