@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarFire: Deluxe Edition | 53886 | [53886-warfire-deluxe-edition.json](./53886-warfire-deluxe-edition.json) |
 | Warframe: Angels of the Zariman - Chrysalith Pack | 223706 | [223706-warframe-angels-of-the-zariman-chrysalith-pack.json](./223706-warframe-angels-of-the-zariman-chrysalith-pack.json) |
 | Warframe: Angels of the Zariman - Emergence Pack | 223707 | [223707-warframe-angels-of-the-zariman-emergence-pack.json](./223707-warframe-angels-of-the-zariman-emergence-pack.json) |
+| Warframe: Dante Chronicles Pack | 294148 | [294148-warframe-dante-chronicles-pack.json](./294148-warframe-dante-chronicles-pack.json) |
 | Warframe: Gunblade Battlekit | 353310 | [353310-warframe-gunblade-battlekit.json](./353310-warframe-gunblade-battlekit.json) |
 | Warframe: Starter Weapon Pack | 353309 | [353309-warframe-starter-weapon-pack.json](./353309-warframe-starter-weapon-pack.json) |
 | WarFriends: PvP Army Shooter | 87479 | [87479-warfriends-pvp-army-shooter.json](./87479-warfriends-pvp-army-shooter.json) |
