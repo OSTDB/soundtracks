@@ -910,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Elements: Ghosts Delivery | 296645 | [296645-five-elements-ghosts-delivery.json](./296645-five-elements-ghosts-delivery.json) |
 | Five Fold Tower | 311819 | [311819-five-fold-tower.json](./311819-five-fold-tower.json) |
 | Five Letter Words | 104115 | [104115-five-letter-words.json](./104115-five-letter-words.json) |
+| Five Nights at Backrooms: Waifu Edition | 277828 | [277828-five-nights-at-backrooms-waifu-edition.json](./277828-five-nights-at-backrooms-waifu-edition.json) |
 | Five Nights At Bidens | 257665 | [257665-five-nights-at-bidens.json](./257665-five-nights-at-bidens.json) |
 | Five Nights at Candy's | 45983 | [45983-five-nights-at-candys.json](./45983-five-nights-at-candys.json) |
 | Five Nights at Dream's​ | 387340 | [387340-five-nights-at-dreams.json](./387340-five-nights-at-dreams.json) |
