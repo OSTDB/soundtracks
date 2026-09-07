@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game About Jetpack Fly | 320537 | [320537-game-about-jetpack-fly.json](./320537-game-about-jetpack-fly.json) |
 | Game Chinese | 105949 | [105949-game-chinese.json](./105949-game-chinese.json) |
 | Game club "Waka-Waka" | 117064 | [117064-game-club-waka-waka.json](./117064-game-club-waka-waka.json) |
+| Game Collector | 266792 | [266792-game-collector.json](./266792-game-collector.json) |
 | Game Dev Masters | 146909 | [146909-game-dev-masters.json](./146909-game-dev-masters.json) |
 | Game Doraemon: Nobita no Takara-jima | 97373 | [97373-game-doraemon-nobita-no-takara-jima.json](./97373-game-doraemon-nobita-no-takara-jima.json) |
 | Game For Anna | 154004 | [154004-game-for-anna.json](./154004-game-for-anna.json) |
@@ -1436,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunboat: River Combat Simulation | 12127 | [12127-gunboat-river-combat-simulation.json](./12127-gunboat-river-combat-simulation.json) |
 | GunBound | 26189 | [26189-gunbound.json](./26189-gunbound.json) |
 | GunBoxing | 392798 | [392798-gunboxing.json](./392798-gunboxing.json) |
+| Gunbrella: Deluxe Edition | 266822 | [266822-gunbrella-deluxe-edition.json](./266822-gunbrella-deluxe-edition.json) |
 | Guncho | 275604 | [275604-guncho.json](./275604-guncho.json) |
 | Guncrafter | 343805 | [343805-guncrafter.json](./343805-guncrafter.json) |
 | GunCrank | 414292 | [414292-guncrank.json](./414292-guncrank.json) |
