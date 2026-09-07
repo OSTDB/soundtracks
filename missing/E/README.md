@@ -858,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everlong Swansong | 257086 | [257086-everlong-swansong.json](./257086-everlong-swansong.json) |
 | Everlost | 397695 | [397695-everlost.json](./397695-everlost.json) |
 | EverMatch | 237672 | [237672-evermatch.json](./237672-evermatch.json) |
+| Evernight | 300714 | [300714-evernight.json](./300714-evernight.json) |
 | EverQuest II: Chains of Eternity | 18318 | [18318-everquest-ii-chains-of-eternity.json](./18318-everquest-ii-chains-of-eternity.json) |
 | EverQuest II: The Bloodline Chronicles | 111024 | [111024-everquest-ii-the-bloodline-chronicles.json](./111024-everquest-ii-the-bloodline-chronicles.json) |
 | EverQuest II: The Fallen Dynasty | 20533 | [20533-everquest-ii-the-fallen-dynasty.json](./20533-everquest-ii-the-fallen-dynasty.json) |
