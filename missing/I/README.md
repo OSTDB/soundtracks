@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infiltrate | 22413 | [22413-infiltrate.json](./22413-infiltrate.json) |
 | Infiltration: Alone in Combat | 151196 | [151196-infiltration-alone-in-combat.json](./151196-infiltration-alone-in-combat.json) |
 | Infiniboss | 134008 | [134008-infiniboss.json](./134008-infiniboss.json) |
+| Infinicity | 295262 | [295262-infinicity.json](./295262-infinicity.json) |
 | InfiniPicross 2.0: 100 Large Puzzles - Animals | 163426 | [163426-infinipicross-2-0-100-large-puzzles-animals.json](./163426-infinipicross-2-0-100-large-puzzles-animals.json) |
 | InfiniPicross 2.0: 100 Medium Puzzles | 163425 | [163425-infinipicross-2-0-100-medium-puzzles.json](./163425-infinipicross-2-0-100-medium-puzzles.json) |
 | InfiniPicross 3 | 251807 | [251807-infinipicross-3.json](./251807-infinipicross-3.json) |
