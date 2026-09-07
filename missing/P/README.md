@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Lost | 137092 | [137092-paradise-lost.json](./137092-paradise-lost.json) |
 | Paradise Shooting 2!! | 311808 | [311808-paradise-shooting-2.json](./311808-paradise-shooting-2.json) |
 | Paradise Story | 233761 | [233761-paradise-story.json](./233761-paradise-story.json) |
+| Paradise Up Above: Gold Label Edition | 311462 | [311462-paradise-up-above-gold-label-edition.json](./311462-paradise-up-above-gold-label-edition.json) |
 | Paradox Lost | 330161 | [330161-paradox-lost.json](./330161-paradox-lost.json) |
 | Paradox of the Cryptomancers | 99622 | [99622-paradox-of-the-cryptomancers.json](./99622-paradox-of-the-cryptomancers.json) |
 | Paradox Soul | 83933 | [83933-paradox-soul.json](./83933-paradox-soul.json) |
@@ -802,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pif Paf | 105323 | [105323-pif-paf.json](./105323-pif-paf.json) |
 | Pig Bros Adventure | 214729 | [214729-pig-bros-adventure.json](./214729-pig-bros-adventure.json) |
 | Pig vs. Box | 366219 | [366219-pig-vs-box.json](./366219-pig-vs-box.json) |
+| Pigeon | 311457 | [311457-pigeon.json](./311457-pigeon.json) |
 | Pigeon West: Call of Gun. Isekai | 340394 | [340394-pigeon-west-call-of-gun-isekai.json](./340394-pigeon-west-call-of-gun-isekai.json) |
 | Pigeon West: El Diablo | 340393 | [340393-pigeon-west-el-diablo.json](./340393-pigeon-west-el-diablo.json) |
 | Piggy Go | 212489 | [212489-piggy-go.json](./212489-piggy-go.json) |
@@ -1348,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mega Evolution Aquamarine | 300428 | [300428-pokemon-mega-evolution-aquamarine.json](./300428-pokemon-mega-evolution-aquamarine.json) |
 | Pokémon Monomyth | 413611 | [413611-pokemon-monomyth.json](./413611-pokemon-monomyth.json) |
 | Pokémon Nameless FireRed Project | 213034 | [213034-pokemon-nameless-firered-project.json](./213034-pokemon-nameless-firered-project.json) |
+| Pokémon Online | 311459 | [311459-pokemon-online.json](./311459-pokemon-online.json) |
 | Pokémon Orange | 141203 | [141203-pokemon-orange.json](./141203-pokemon-orange.json) |
 | Pokémon Photonic Sun | 214739 | [214739-pokemon-photonic-sun.json](./214739-pokemon-photonic-sun.json) |
 | Pokémon Plasma | 415074 | [415074-pokemon-plasma.json](./415074-pokemon-plasma.json) |
