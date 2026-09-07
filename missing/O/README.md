@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overheat: Kitchen Chaos | 324134 | [324134-overheat-kitchen-chaos.json](./324134-overheat-kitchen-chaos.json) |
 | Overhours | 253599 | [253599-overhours.json](./253599-overhours.json) |
 | Overkill | 272013 | [272013-overkill.json](./272013-overkill.json) |
+| Overlapping World | 284342 | [284342-overlapping-world.json](./284342-overlapping-world.json) |
 | Overlook: Local multiplayer game up to 16 players | 78112 | [78112-overlook-local-multiplayer-game-up-to-16-players.json](./78112-overlook-local-multiplayer-game-up-to-16-players.json) |
 | Overmind | 327180 | [327180-overmind.json](./327180-overmind.json) |
 | OverNight | 207512 | [207512-overnight.json](./207512-overnight.json) |
