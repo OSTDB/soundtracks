@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.I.P. SE: Safety is Power | 302386 | [302386-s-i-p-se-safety-is-power.json](./302386-s-i-p-se-safety-is-power.json) |
 | S.M.A.R.T. Adventures: Mission Math - Sabotage at the Space Station | 86092 | [86092-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json](./86092-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json) |
 | S.N.I.P.E.R.: Hunter Scope - Comprehensive Edition | 396929 | [396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json](./396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json) |
+| S.N.I.P.E.R.: Hunter Scope - GOTY Edition | 283164 | [283164-s-n-i-p-e-r-hunter-scope-goty-edition.json](./283164-s-n-i-p-e-r-hunter-scope-goty-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Grand Edition | 315856 | [315856-s-n-i-p-e-r-hunter-scope-grand-edition.json](./315856-s-n-i-p-e-r-hunter-scope-grand-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Mega Edition | 317241 | [317241-s-n-i-p-e-r-hunter-scope-mega-edition.json](./317241-s-n-i-p-e-r-hunter-scope-mega-edition.json) |
 | S.O.N | 102781 | [102781-s-o-n.json](./102781-s-o-n.json) |
@@ -109,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints of Virtue | 67312 | [67312-saints-of-virtue.json](./67312-saints-of-virtue.json) |
 | Saints Row 2: Ultor Exposed | 22998 | [22998-saints-row-2-ultor-exposed.json](./22998-saints-row-2-ultor-exposed.json) |
 | Saints Row IV: Super Dangerous Wad Wad Edition (aka the Million Dollar Pack) | 21862 | [21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json](./21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json) |
+| Saints Row: The Big Purple Package | 283181 | [283181-saints-row-the-big-purple-package.json](./283181-saints-row-the-big-purple-package.json) |
 | Saints Row: The Heist & The Hazardous | 249476 | [249476-saints-row-the-heist-and-the-hazardous.json](./249476-saints-row-the-heist-and-the-hazardous.json) |
 | Saints Row: The Third - The Trouble with Clones | 78452 | [78452-saints-row-the-third-the-trouble-with-clones.json](./78452-saints-row-the-third-the-trouble-with-clones.json) |
 | Saira | 67328 | [67328-saira.json](./67328-saira.json) |
@@ -3022,6 +3024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Town | 272565 | [272565-spooky-town.json](./272565-spooky-town.json) |
 | Spooky Typing: The Ghost Plague | 178097 | [178097-spooky-typing-the-ghost-plague.json](./178097-spooky-typing-the-ghost-plague.json) |
 | Spore: Galactic Edition | 46617 | [46617-spore-galactic-edition.json](./46617-spore-galactic-edition.json) |
+| Sport & Fun: Swimming - Amazing Edition | 283165 | [283165-sport-and-fun-swimming-amazing-edition.json](./283165-sport-and-fun-swimming-amazing-edition.json) |
 | Sport & Fun: Swimming - Complete + | 328836 | [328836-sport-and-fun-swimming-complete.json](./328836-sport-and-fun-swimming-complete.json) |
 | Sport & Fun: Swimming - Ultimate Edition | 243370 | [243370-sport-and-fun-swimming-ultimate-edition.json](./243370-sport-and-fun-swimming-ultimate-edition.json) |
 | Sport & Fun: Swimming - Ultra Director's Cut | 328835 | [328835-sport-and-fun-swimming-ultra-directors-cut.json](./328835-sport-and-fun-swimming-ultra-directors-cut.json) |
@@ -3442,6 +3445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StartPlay | 339669 | [339669-startplay.json](./339669-startplay.json) |
 | Startron | 333022 | [333022-startron.json](./333022-startron.json) |
 | Starvania: Tales Of The Past | 372498 | [372498-starvania-tales-of-the-past.json](./372498-starvania-tales-of-the-past.json) |
+| Starward Rogue: Complete Edition | 283159 | [283159-starward-rogue-complete-edition.json](./283159-starward-rogue-complete-edition.json) |
 | Starwave | 306943 | [306943-starwave.json](./306943-starwave.json) |
 | Starway Ateez | 315487 | [315487-starway-ateez.json](./315487-starway-ateez.json) |
 | StarWheels | 119041 | [119041-starwheels.json](./119041-starwheels.json) |
