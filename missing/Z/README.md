@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zatsugaku Olympic Quiz Part II | 41419 | [41419-zatsugaku-olympic-quiz-part-ii.json](./41419-zatsugaku-olympic-quiz-part-ii.json) |
 | Zavix Tower | 25104 | [25104-zavix-tower.json](./25104-zavix-tower.json) |
 | Zaxxon | 309341 | [309341-zaxxon.json](./309341-zaxxon.json) |
+| ZDSS: Zombie Drone Survival Show | 289336 | [289336-zdss-zombie-drone-survival-show.json](./289336-zdss-zombie-drone-survival-show.json) |
 | Zeddas | 242258 | [242258-zeddas.json](./242258-zeddas.json) |
 | Zee Artillery | 93068 | [93068-zee-artillery.json](./93068-zee-artillery.json) |
 | Zegapain NOT | 68015 | [68015-zegapain-not.json](./68015-zegapain-not.json) |
@@ -89,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zerko | 289878 | [289878-zerko.json](./289878-zerko.json) |
 | Zero 5 | 40818 | [40818-zero-5.json](./40818-zero-5.json) |
 | Zero Core: Exile | 140579 | [140579-zero-core-exile.json](./140579-zero-core-exile.json) |
+| Zero Days Since | 289337 | [289337-zero-days-since.json](./289337-zero-days-since.json) |
 | Zero Degrees | 258702 | [258702-zero-degrees.json](./258702-zero-degrees.json) |
 | Zero Divide | 20709 | [20709-zero-divide.json](./20709-zero-divide.json) |
 | Zero Escape: Nine Hours, Nine Persons, Nine Doors | 319754 | [319754-zero-escape-nine-hours-nine-persons-nine-doors.json](./319754-zero-escape-nine-hours-nine-persons-nine-doors.json) |
@@ -98,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero no Tsukaima: Ko-akuma to Harukaze no Concerto | 72685 | [72685-zero-no-tsukaima-ko-akuma-to-harukaze-no-concerto.json](./72685-zero-no-tsukaima-ko-akuma-to-harukaze-no-concerto.json) |
 | Zero Ops | 213626 | [213626-zero-ops.json](./213626-zero-ops.json) |
 | Zero Parades: For Dead Spies | 361880 | [361880-zero-parades-for-dead-spies.json](./361880-zero-parades-for-dead-spies.json) |
+| Zero Protocol | 289338 | [289338-zero-protocol.json](./289338-zero-protocol.json) |
 | Zero Zero | 130361 | [130361-zero-zero.json](./130361-zero-zero.json) |
 | Zero-G MMO | 396231 | [396231-zero-g-mmo.json](./396231-zero-g-mmo.json) |
 | Zeromiss | 327210 | [327210-zeromiss.json](./327210-zeromiss.json) |
@@ -231,7 +234,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies and Orcs | 327822 | [327822-zombies-and-orcs.json](./327822-zombies-and-orcs.json) |
 | Zombies Crusher | 319960 | [319960-zombies-crusher.json](./319960-zombies-crusher.json) |
 | Zombies vs. Sheep | 67294 | [67294-zombies-vs-sheep.json](./67294-zombies-vs-sheep.json) |
+| Zombies vs. You | 289339 | [289339-zombies-vs-you.json](./289339-zombies-vs-you.json) |
 | Zombies! | 335649 | [335649-zombies.json](./335649-zombies.json) |
+| Zombies!!! Board Game: NotDeadYet | 289340 | [289340-zombies-board-game-notdeadyet.json](./289340-zombies-board-game-notdeadyet.json) |
 | Zombies.io | 130359 | [130359-zombies-io.json](./130359-zombies-io.json) |
 | ZombieSquad | 216475 | [216475-zombiesquad.json](./216475-zombiesquad.json) |
 | ZombieZoid Zenith | 34435 | [34435-zombiezoid-zenith.json](./34435-zombiezoid-zenith.json) |
