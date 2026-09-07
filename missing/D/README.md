@@ -1195,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt 3: Colin McRae Vision Charity Pack | 234913 | [234913-dirt-3-colin-mcrae-vision-charity-pack.json](./234913-dirt-3-colin-mcrae-vision-charity-pack.json) |
 | Dirt 3: Complete Edition | 47381 | [47381-dirt-3-complete-edition.json](./47381-dirt-3-complete-edition.json) |
 | Dirt 3: Horn Pack | 234918 | [234918-dirt-3-horn-pack.json](./234918-dirt-3-horn-pack.json) |
+| Dirt 5: Wild Spirits Content Pack | 292027 | [292027-dirt-5-wild-spirits-content-pack.json](./292027-dirt-5-wild-spirits-content-pack.json) |
 | Dirt And Flo | 278691 | [278691-dirt-and-flo.json](./278691-dirt-and-flo.json) |
 | Dirt Bicycle Rider Simulator | 259816 | [259816-dirt-bicycle-rider-simulator.json](./259816-dirt-bicycle-rider-simulator.json) |
 | Dirt Racing 2 Sprint Car Game | 232161 | [232161-dirt-racing-2-sprint-car-game.json](./232161-dirt-racing-2-sprint-car-game.json) |
@@ -1311,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Transmission | 159886 | [159886-distant-transmission.json](./159886-distant-transmission.json) |
 | Distant Worlds 2: Return of the Shakturi | 324930 | [324930-distant-worlds-2-return-of-the-shakturi.json](./324930-distant-worlds-2-return-of-the-shakturi.json) |
 | Distantia | 408029 | [408029-distantia.json](./408029-distantia.json) |
+| Distill, My Beating Heart! | 292019 | [292019-distill-my-beating-heart.json](./292019-distill-my-beating-heart.json) |
 | Distorted Signal | 413667 | [413667-distorted-signal.json](./413667-distorted-signal.json) |
 | Distraint Collection | 186910 | [186910-distraint-collection.json](./186910-distraint-collection.json) |
 | Distress Signal | 178640 | [178640-distress-signal.json](./178640-distress-signal.json) |
@@ -2208,11 +2210,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duilius: The Ancient Duel | 294152 | [294152-duilius-the-ancient-duel.json](./294152-duilius-the-ancient-duel.json) |
 | Dukai | 271984 | [271984-dukai.json](./271984-dukai.json) |
 | Duke Dashington Remastered | 96565 | [96565-duke-dashington-remastered.json](./96565-duke-dashington-remastered.json) |
+| Duke Forces | 291977 | [291977-duke-forces.json](./291977-duke-forces.json) |
 | Duke Hard | 218118 | [218118-duke-hard.json](./218118-duke-hard.json) |
 | Duke Nukem Forever | 490 | [490-duke-nukem-forever.json](./490-duke-nukem-forever.json) |
 | Duke Nukem Forever 2013 | 153446 | [153446-duke-nukem-forever-2013.json](./153446-duke-nukem-forever-2013.json) |
 | Duke Nukem Forever Collection | 335681 | [335681-duke-nukem-forever-collection.json](./335681-duke-nukem-forever-collection.json) |
 | Duke Nukem Forever: Enhanced | 297232 | [297232-duke-nukem-forever-enhanced.json](./297232-duke-nukem-forever-enhanced.json) |
+| Duke Nukem Xmas 2014 | 291979 | [291979-duke-nukem-xmas-2014.json](./291979-duke-nukem-xmas-2014.json) |
 | Duke Nukem's Penthouse Paradise | 218117 | [218117-duke-nukems-penthouse-paradise.json](./218117-duke-nukems-penthouse-paradise.json) |
 | Duke Tournament | 308260 | [308260-duke-tournament.json](./308260-duke-tournament.json) |
 | Duke: Nuclear Winter | 18498 | [18498-duke-nuclear-winter.json](./18498-duke-nuclear-winter.json) |
