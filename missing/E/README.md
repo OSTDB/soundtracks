@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi: Time to Oppai | 349303 | [349303-ecchi-time-to-oppai.json](./349303-ecchi-time-to-oppai.json) |
 | Ecco 2: Sentinels of the Universe | 19682 | [19682-ecco-2-sentinels-of-the-universe.json](./19682-ecco-2-sentinels-of-the-universe.json) |
 | ECH8 | 395554 | [395554-ech8.json](./395554-ech8.json) |
+| Echelon | 277845 | [277845-echelon.json](./277845-echelon.json) |
 | Echo | 177546 | [177546-echo.json](./177546-echo.json) |
 | Echo 9 | 410936 | [410936-echo-9.json](./410936-echo-9.json) |
 | Echo Chess | 316998 | [316998-echo-chess.json](./316998-echo-chess.json) |
@@ -133,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Magic | 194024 | [194024-echoes-of-magic.json](./194024-echoes-of-magic.json) |
 | Echoes of Nocturnal Chords | 284335 | [284335-echoes-of-nocturnal-chords.json](./284335-echoes-of-nocturnal-chords.json) |
 | Echoes of Sin: Confusion | 400239 | [400239-echoes-of-sin-confusion.json](./400239-echoes-of-sin-confusion.json) |
+| Echoes of Steel | 277851 | [277851-echoes-of-steel.json](./277851-echoes-of-steel.json) |
 | Echoes of the Fey: The Last Sacrament | 102346 | [102346-echoes-of-the-fey-the-last-sacrament.json](./102346-echoes-of-the-fey-the-last-sacrament.json) |
 | Echoes of the Hive | 373523 | [373523-echoes-of-the-hive.json](./373523-echoes-of-the-hive.json) |
 | Echoes of the Past | 168391 | [168391-echoes-of-the-past.json](./168391-echoes-of-the-past.json) |
@@ -393,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elusive | 336540 | [336540-elusive.json](./336540-elusive.json) |
 | Elva the Eco Dragon | 187503 | [187503-elva-the-eco-dragon.json](./187503-elva-the-eco-dragon.json) |
 | Elven Battlegrounds | 235457 | [235457-elven-battlegrounds.json](./235457-elven-battlegrounds.json) |
+| Elven Dreams | 277835 | [277835-elven-dreams.json](./277835-elven-dreams.json) |
 | Elves of Duty | 211922 | [211922-elves-of-duty.json](./211922-elves-of-duty.json) |
 | Elvin: The Water Sphere | 316059 | [316059-elvin-the-water-sphere.json](./316059-elvin-the-water-sphere.json) |
 | Elvine | 225263 | [225263-elvine.json](./225263-elvine.json) |
@@ -878,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve Online: Onslaught | 329913 | [329913-eve-online-onslaught.json](./329913-eve-online-onslaught.json) |
 | Eve Online: Reign | 329925 | [329925-eve-online-reign.json](./329925-eve-online-reign.json) |
 | Eve Online: Zenith - Quadrant 3 | 329917 | [329917-eve-online-zenith-quadrant-3.json](./329917-eve-online-zenith-quadrant-3.json) |
+| EVE Vanguard | 277846 | [277846-eve-vanguard.json](./277846-eve-vanguard.json) |
 | Eve: Galaxy Conquest | 317843 | [317843-eve-galaxy-conquest.json](./317843-eve-galaxy-conquest.json) |
 | Even Lovers Drown | 408772 | [408772-even-lovers-drown.json](./408772-even-lovers-drown.json) |
 | Evening Vibes | 217020 | [217020-evening-vibes.json](./217020-evening-vibes.json) |
