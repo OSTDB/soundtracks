@@ -149,12 +149,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse | 172192 | [172192-eclipse.json](./172192-eclipse.json) |
 | Eclipse | 218163 | [218163-eclipse.json](./218163-eclipse.json) |
 | Eclipse Isle | 125435 | [125435-eclipse-isle.json](./125435-eclipse-isle.json) |
+| Eclipse of Elysium | 295815 | [295815-eclipse-of-elysium.json](./295815-eclipse-of-elysium.json) |
 | Eclipse: Edge of Light | 27809 | [27809-eclipse-edge-of-light.json](./27809-eclipse-edge-of-light.json) |
 | Eclipse: Fall - Kami no Danzai | 379353 | [379353-eclipse-fall-kami-no-danzai.json](./379353-eclipse-fall-kami-no-danzai.json) |
 | Eco Mahjong | 177049 | [177049-eco-mahjong.json](./177049-eco-mahjong.json) |
 | Eco Shooter: Plant 530 | 20506 | [20506-eco-shooter-plant-530.json](./20506-eco-shooter-plant-530.json) |
 | EcoL tactics | 112312 | [112312-ecol-tactics.json](./112312-ecol-tactics.json) |
 | EcoQuest II: Lost Secret of the Rainforest | 7694 | [7694-ecoquest-ii-lost-secret-of-the-rainforest.json](./7694-ecoquest-ii-lost-secret-of-the-rainforest.json) |
+| EcoQuest: Explore, Discover, Protect! | 295814 | [295814-ecoquest-explore-discover-protect.json](./295814-ecoquest-explore-discover-protect.json) |
 | Ecrazeus Castle | 389401 | [389401-ecrazeus-castle.json](./389401-ecrazeus-castle.json) |
 | eCrew Development Program | 141196 | [141196-ecrew-development-program.json](./141196-ecrew-development-program.json) |
 | Ecto | 298341 | [298341-ecto.json](./298341-ecto.json) |
@@ -171,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden.schemata(); | 151707 | [151707-eden-schemata.json](./151707-eden-schemata.json) |
 | Eden's Inferno | 353304 | [353304-edens-inferno.json](./353304-edens-inferno.json) |
 | Eden's Last Sunrise | 190187 | [190187-edens-last-sunrise.json](./190187-edens-last-sunrise.json) |
+| Edenbound | 295813 | [295813-edenbound.json](./295813-edenbound.json) |
 | Edens Zero Deluxe Edition | 336887 | [336887-edens-zero-deluxe-edition.json](./336887-edens-zero-deluxe-edition.json) |
 | Edens Zero: Pocket Galaxy | 174888 | [174888-edens-zero-pocket-galaxy.json](./174888-edens-zero-pocket-galaxy.json) |
 | Edge of Atlantis | 28946 | [28946-edge-of-atlantis.json](./28946-edge-of-atlantis.json) |
@@ -310,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Adventure | 226451 | [226451-elemental-adventure.json](./226451-elemental-adventure.json) |
 | Elemental Angel II | 192420 | [192420-elemental-angel-ii.json](./192420-elemental-angel-ii.json) |
 | Elemental Empire | 297816 | [297816-elemental-empire.json](./297816-elemental-empire.json) |
+| Elemental Exiles | 295812 | [295812-elemental-exiles.json](./295812-elemental-exiles.json) |
 | Elemental Gelade: Tozasareshi Uta | 49413 | [49413-elemental-gelade-tozasareshi-uta.json](./49413-elemental-gelade-tozasareshi-uta.json) |
 | Elemental Gimmick Gear | 45862 | [45862-elemental-gimmick-gear.json](./45862-elemental-gimmick-gear.json) |
 | Elemental Knights R: Dark Arthur Premium Pack | 402925 | [402925-elemental-knights-r-dark-arthur-premium-pack.json](./402925-elemental-knights-r-dark-arthur-premium-pack.json) |
@@ -376,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elrentaros Wanderings | 230621 | [230621-elrentaros-wanderings.json](./230621-elrentaros-wanderings.json) |
 | Elsewhere in the Night | 229373 | [229373-elsewhere-in-the-night.json](./229373-elsewhere-in-the-night.json) |
 | Elsword | 115692 | [115692-elsword.json](./115692-elsword.json) |
+| Elumin | 295811 | [295811-elumin.json](./295811-elumin.json) |
 | Elusive | 336540 | [336540-elusive.json](./336540-elusive.json) |
 | Elva the Eco Dragon | 187503 | [187503-elva-the-eco-dragon.json](./187503-elva-the-eco-dragon.json) |
 | Elven Battlegrounds | 235457 | [235457-elven-battlegrounds.json](./235457-elven-battlegrounds.json) |
