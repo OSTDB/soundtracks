@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | D or D | 250004 | [250004-d-or-d.json](./250004-d-or-d.json) |
 | D-Day | 14768 | [14768-d-day.json](./14768-d-day.json) |
+| D-Day VR Museum | 295790 | [295790-d-day-vr-museum.json](./295790-d-day-vr-museum.json) |
 | D-Pad Hero 2 | 48649 | [48649-d-pad-hero-2.json](./48649-d-pad-hero-2.json) |
 | D-Virus: Devilnitive Edition | 259847 | [259847-d-virus-devilnitive-edition.json](./259847-d-virus-devilnitive-edition.json) |
 | D-Virus: Evil Menance | 259846 | [259846-d-virus-evil-menance.json](./259846-d-virus-evil-menance.json) |
@@ -234,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's The Pit and the Pendulum - Collector's Edition | 370679 | [370679-dark-tales-edgar-allan-poes-the-pit-and-the-pendulum-collectors-edition.json](./370679-dark-tales-edgar-allan-poes-the-pit-and-the-pendulum-collectors-edition.json) |
 | Dark Tartarus | 260950 | [260950-dark-tartarus.json](./260950-dark-tartarus.json) |
 | Dark Train | 25298 | [25298-dark-train.json](./25298-dark-train.json) |
+| Dark Umbra | 295793 | [295793-dark-umbra.json](./295793-dark-umbra.json) |
 | Dark Void | 4220 | [4220-dark-void.json](./4220-dark-void.json) |
 | Dark Wish | 99011 | [99011-dark-wish.json](./99011-dark-wish.json) |
 | Dark Wonderland | 412293 | [412293-dark-wonderland.json](./412293-dark-wonderland.json) |
@@ -332,10 +334,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of the Dimetrodon | 168382 | [168382-day-of-the-dimetrodon.json](./168382-day-of-the-dimetrodon.json) |
 | Day of the Rising Dead | 349885 | [349885-day-of-the-rising-dead.json](./349885-day-of-the-rising-dead.json) |
 | Day One: Garry's Incident | 3046 | [3046-day-one-garrys-incident.json](./3046-day-one-garrys-incident.json) |
+| Daydam Knight | 295794 | [295794-daydam-knight.json](./295794-daydam-knight.json) |
 | Daydream | 192955 | [192955-daydream.json](./192955-daydream.json) |
 | Daydream Drifters | 395543 | [395543-daydream-drifters.json](./395543-daydream-drifters.json) |
 | Daydream Heartbeat Cure | 394853 | [394853-daydream-heartbeat-cure.json](./394853-daydream-heartbeat-cure.json) |
 | DayDream Mosaics 2: Juliette's Tale | 193506 | [193506-daydream-mosaics-2-juliettes-tale.json](./193506-daydream-mosaics-2-juliettes-tale.json) |
+| Daydreamer | 295789 | [295789-daydreamer.json](./295789-daydreamer.json) |
 | Daylife in Japan: Pixel Art Jigsaw Puzzle | 147966 | [147966-daylife-in-japan-pixel-art-jigsaw-puzzle.json](./147966-daylife-in-japan-pixel-art-jigsaw-puzzle.json) |
 | Daylight Dread | 317214 | [317214-daylight-dread.json](./317214-daylight-dread.json) |
 | Daymare Cat: 10-year Anniversary | 257659 | [257659-daymare-cat-10-year-anniversary.json](./257659-daymare-cat-10-year-anniversary.json) |
@@ -464,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Danger Dungeon | 323742 | [323742-deadly-danger-dungeon.json](./323742-deadly-danger-dungeon.json) |
 | Deadly Dozen Reloaded | 193753 | [193753-deadly-dozen-reloaded.json](./193753-deadly-dozen-reloaded.json) |
 | Deadly Duck | 22434 | [22434-deadly-duck.json](./22434-deadly-duck.json) |
+| Deadly Footprints | 295791 | [295791-deadly-footprints.json](./295791-deadly-footprints.json) |
 | Deadly Joy | 334503 | [334503-deadly-joy.json](./334503-deadly-joy.json) |
 | Deadly Rehearsal | 326599 | [326599-deadly-rehearsal.json](./326599-deadly-rehearsal.json) |
 | Deadly Sky | 51981 | [51981-deadly-sky.json](./51981-deadly-sky.json) |
@@ -614,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeepBubbles | 358890 | [358890-deepbubbles.json](./358890-deepbubbles.json) |
 | Deeper | 104650 | [104650-deeper.json](./104650-deeper.json) |
 | Deeper | 343279 | [343279-deeper.json](./343279-deeper.json) |
+| Deeper Than Hell | 295792 | [295792-deeper-than-hell.json](./295792-deeper-than-hell.json) |
 | Deepest Depth | 320186 | [320186-deepest-depth.json](./320186-deepest-depth.json) |
 | Deepest Regret | 280434 | [280434-deepest-regret.json](./280434-deepest-regret.json) |
 | Deepfried in Deepspace | 373541 | [373541-deepfried-in-deepspace.json](./373541-deepfried-in-deepspace.json) |
@@ -1203,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Station MSX #09 | 266482 | [266482-disc-station-msx-09.json](./266482-disc-station-msx-09.json) |
 | Disc Station MSX #11 | 266489 | [266489-disc-station-msx-11.json](./266489-disc-station-msx-11.json) |
 | Discharge | 117040 | [117040-discharge.json](./117040-discharge.json) |
+| Discin | 295797 | [295797-discin.json](./295797-discin.json) |
 | Disciples II Mobile | 314309 | [314309-disciples-ii-mobile.json](./314309-disciples-ii-mobile.json) |
 | Disciples II: Dark Prophecy | 6542 | [6542-disciples-ii-dark-prophecy.json](./6542-disciples-ii-dark-prophecy.json) |
 | Disciples II: Gallean's Return | 19351 | [19351-disciples-ii-galleans-return.json](./19351-disciples-ii-galleans-return.json) |
@@ -1397,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge Racing: Charger vs Challenger | 197942 | [197942-dodge-racing-charger-vs-challenger.json](./197942-dodge-racing-charger-vs-challenger.json) |
 | Dodge the Creeps | 344390 | [344390-dodge-the-creeps.json](./344390-dodge-the-creeps.json) |
 | DodgerBall | 59415 | [59415-dodgerball.json](./59415-dodgerball.json) |
+| Dodgy Deliveries | 295796 | [295796-dodgy-deliveries.json](./295796-dodgy-deliveries.json) |
 | DoDodge2020 | 209674 | [209674-dododge2020.json](./209674-dododge2020.json) |
 | DodoGo! | 66709 | [66709-dodogo.json](./66709-dodogo.json) |
 | DoDonPachi DaiOuJou DX | 214719 | [214719-dodonpachi-daioujou-dx.json](./214719-dodonpachi-daioujou-dx.json) |
@@ -1477,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominay | 211962 | [211962-dominay.json](./211962-dominay.json) |
 | Dominions 3: The Awakening | 16641 | [16641-dominions-3-the-awakening.json](./16641-dominions-3-the-awakening.json) |
 | Dominique Pamplemousse | 134677 | [134677-dominique-pamplemousse.json](./134677-dominique-pamplemousse.json) |
+| Domino Clicker | 295802 | [295802-domino-clicker.json](./295802-domino-clicker.json) |
 | Domino Fit | 303482 | [303482-domino-fit.json](./303482-domino-fit.json) |
 | Domino Sky | 33131 | [33131-domino-sky.json](./33131-domino-sky.json) |
 | Domino VR | 31894 | [31894-domino-vr.json](./31894-domino-vr.json) |
@@ -1570,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Creatures HD | 100873 | [100873-doodle-creatures-hd.json](./100873-doodle-creatures-hd.json) |
 | Doodle Empires | 336893 | [336893-doodle-empires.json](./336893-doodle-empires.json) |
 | Doodle Escape | 338011 | [338011-doodle-escape.json](./338011-doodle-escape.json) |
+| Doodle Factory | 295801 | [295801-doodle-factory.json](./295801-doodle-factory.json) |
 | Doodle God | 18528 | [18528-doodle-god.json](./18528-doodle-god.json) |
 | Doodle God Bundle | 119072 | [119072-doodle-god-bundle.json](./119072-doodle-god-bundle.json) |
 | Doodle God: Fantasy World of Magic | 186346 | [186346-doodle-god-fantasy-world-of-magic.json](./186346-doodle-god-fantasy-world-of-magic.json) |
@@ -1578,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Harmony Idle Merge | 303487 | [303487-doodle-harmony-idle-merge.json](./303487-doodle-harmony-idle-merge.json) |
 | Doodle Jump HD: Insanely Good! | 104106 | [104106-doodle-jump-hd-insanely-good.json](./104106-doodle-jump-hd-insanely-good.json) |
 | Doodle Kingdom | 27243 | [27243-doodle-kingdom.json](./27243-doodle-kingdom.json) |
+| Doodle TD 2 | 295800 | [295800-doodle-td-2.json](./295800-doodle-td-2.json) |
 | DoodleBob and the Magic Pencil | 341323 | [341323-doodlebob-and-the-magic-pencil.json](./341323-doodlebob-and-the-magic-pencil.json) |
 | DoodleBob and the Magic Pencil DX | 341325 | [341325-doodlebob-and-the-magic-pencil-dx.json](./341325-doodlebob-and-the-magic-pencil-dx.json) |
 | Doodlebug | 261511 | [261511-doodlebug.json](./261511-doodlebug.json) |
@@ -1595,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Rails | 16116 | [16116-doom-rails.json](./16116-doom-rails.json) |
 | Doom Roller | 303486 | [303486-doom-roller.json](./303486-doom-roller.json) |
 | Doom Survivor: Horde Rush | 396187 | [396187-doom-survivor-horde-rush.json](./396187-doom-survivor-horde-rush.json) |
+| Doom Survivors | 295799 | [295799-doom-survivors.json](./295799-doom-survivors.json) |
 | Doom Troopers: Mutant Chronicles | 4544 | [4544-doom-troopers-mutant-chronicles.json](./4544-doom-troopers-mutant-chronicles.json) |
 | Doom: Hell Followed | 25571 | [25571-doom-hell-followed.json](./25571-doom-hell-followed.json) |
 | Doom: The Dark Ages - Revelations | 405075 | [405075-doom-the-dark-ages-revelations.json](./405075-doom-the-dark-ages-revelations.json) |
@@ -1617,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors Closed | 415070 | [415070-doors-closed.json](./415070-doors-closed.json) |
 | Doors Quest Demo | 101593 | [101593-doors-quest-demo.json](./101593-doors-quest-demo.json) |
 | Doorways | 185655 | [185655-doorways.json](./185655-doorways.json) |
+| Dopamine | 295798 | [295798-dopamine.json](./295798-dopamine.json) |
 | Doppelgänger | 275902 | [275902-doppelganger.json](./275902-doppelganger.json) |
 | DoppelTest | 352746 | [352746-doppeltest.json](./352746-doppeltest.json) |
 | Dor | 84278 | [84278-dor.json](./84278-dor.json) |
@@ -1644,7 +1657,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorothy's Magical Journey in Oz | 410213 | [410213-dorothys-magical-journey-in-oz.json](./410213-dorothys-magical-journey-in-oz.json) |
 | Dorpie | 360015 | [360015-dorpie.json](./360015-dorpie.json) |
 | Dosukoi Slime | 322998 | [322998-dosukoi-slime.json](./322998-dosukoi-slime.json) |
+| Dot & Dot Dungeons | 295766 | [295766-dot-and-dot-dungeons.json](./295766-dot-and-dot-dungeons.json) |
 | Dot Clicker | 411575 | [411575-dot-clicker.json](./411575-dot-clicker.json) |
+| Dot Hop | 295803 | [295803-dot-hop.json](./295803-dot-hop.json) |
 | Dot Ninja | 179183 | [179183-dot-ninja.json](./179183-dot-ninja.json) |
 | DotAge | 111045 | [111045-dotage.json](./111045-dotage.json) |
 | DotAge: Folkways | 336527 | [336527-dotage-folkways.json](./336527-dotage-folkways.json) |
@@ -1855,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Swarm | 87240 | [87240-dragon-swarm.json](./87240-dragon-swarm.json) |
 | Dragon Tales: Dragon Wings | 49939 | [49939-dragon-tales-dragon-wings.json](./49939-dragon-tales-dragon-wings.json) |
 | Dragon Tales: Learn & Fly With Dragons | 72127 | [72127-dragon-tales-learn-and-fly-with-dragons.json](./72127-dragon-tales-learn-and-fly-with-dragons.json) |
+| Dragon Title | 295804 | [295804-dragon-title.json](./295804-dragon-title.json) |
 | Dragon Trails | 173289 | [173289-dragon-trails.json](./173289-dragon-trails.json) |
 | Dragon Tycoon Edge | 97321 | [97321-dragon-tycoon-edge.json](./97321-dragon-tycoon-edge.json) |
 | Dragon valley | 109744 | [109744-dragon-valley.json](./109744-dragon-valley.json) |
@@ -1927,6 +1943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadlands | 117002 | [117002-dreadlands.json](./117002-dreadlands.json) |
 | Dreadnaughts | 55178 | [55178-dreadnaughts.json](./55178-dreadnaughts.json) |
 | DreadOut | 11712 | [11712-dreadout.json](./11712-dreadout.json) |
+| Dreadrun | 295805 | [295805-dreadrun.json](./295805-dreadrun.json) |
 | Dreadtome | 349884 | [349884-dreadtome.json](./349884-dreadtome.json) |
 | DreadWood | 184110 | [184110-dreadwood.json](./184110-dreadwood.json) |
 | Dream "ID" Journey | 292860 | [292860-dream-id-journey.json](./292860-dream-id-journey.json) |
@@ -1975,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream TV | 93573 | [93573-dream-tv.json](./93573-dream-tv.json) |
 | Dream Warrior | 307899 | [307899-dream-warrior.json](./307899-dream-warrior.json) |
 | Dream Wave'84 | 379870 | [379870-dream-wave84.json](./379870-dream-wave84.json) |
+| Dreamboat | 295806 | [295806-dreamboat.json](./295806-dreamboat.json) |
 | DreamCatcher | 312588 | [312588-dreamcatcher.json](./312588-dreamcatcher.json) |
 | Dreamians: Card Battle | 304891 | [304891-dreamians-card-battle.json](./304891-dreamians-card-battle.json) |
 | Dreaming About You | 371230 | [371230-dreaming-about-you.json](./371230-dreaming-about-you.json) |
@@ -2255,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Mori | 338000 | [338000-dungeon-mori.json](./338000-dungeon-mori.json) |
 | Dungeon of Despair | 193990 | [193990-dungeon-of-despair.json](./193990-dungeon-of-despair.json) |
 | Dungeon of Erotic Master Reboot | 374614 | [374614-dungeon-of-erotic-master-reboot.json](./374614-dungeon-of-erotic-master-reboot.json) |
+| Dungeon of Memories | 295807 | [295807-dungeon-of-memories.json](./295807-dungeon-of-memories.json) |
 | Dungeon Peplum | 379880 | [379880-dungeon-peplum.json](./379880-dungeon-peplum.json) |
 | Dungeon Pizza | 365096 | [365096-dungeon-pizza.json](./365096-dungeon-pizza.json) |
 | Dungeon Quest | 101600 | [101600-dungeon-quest.json](./101600-dungeon-quest.json) |
@@ -2266,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Rummage: Tiqee's Escape | 195248 | [195248-dungeon-rummage-tiqees-escape.json](./195248-dungeon-rummage-tiqees-escape.json) |
 | Dungeon Shifters | 364507 | [364507-dungeon-shifters.json](./364507-dungeon-shifters.json) |
 | Dungeon Slayer | 194008 | [194008-dungeon-slayer.json](./194008-dungeon-slayer.json) |
+| Dungeon Slime Hero | 295808 | [295808-dungeon-slime-hero.json](./295808-dungeon-slime-hero.json) |
 | Dungeon Stalkers | 255912 | [255912-dungeon-stalkers.json](./255912-dungeon-stalkers.json) |
 | Dungeon Survivor II | 126007 | [126007-dungeon-survivor-ii.json](./126007-dungeon-survivor-ii.json) |
 | Dungeon Tales: RPG Card Game | 121732 | [121732-dungeon-tales-rpg-card-game.json](./121732-dungeon-tales-rpg-card-game.json) |
@@ -2332,8 +2352,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust to Dusk | 138831 | [138831-dust-to-dusk.json](./138831-dust-to-dusk.json) |
 | Dustborn: The Vision Tour Bundle | 315518 | [315518-dustborn-the-vision-tour-bundle.json](./315518-dustborn-the-vision-tour-bundle.json) |
 | Dustbunny: Emotions to Plants | 322598 | [322598-dustbunny-emotions-to-plants.json](./322598-dustbunny-emotions-to-plants.json) |
+| Dustino 64 | 295809 | [295809-dustino-64.json](./295809-dustino-64.json) |
 | Dustland | 260393 | [260393-dustland.json](./260393-dustland.json) |
 | Dustland Delivery | 302379 | [302379-dustland-delivery.json](./302379-dustland-delivery.json) |
+| Dustopia | 295810 | [295810-dustopia.json](./295810-dustopia.json) |
 | Dustwun | 83561 | [83561-dustwun.json](./83561-dustwun.json) |
 | Dusty's Challenge | 359392 | [359392-dustys-challenge.json](./359392-dustys-challenge.json) |
 | Dutch Maximus: Out of the Toy Box | 217004 | [217004-dutch-maximus-out-of-the-toy-box.json](./217004-dutch-maximus-out-of-the-toy-box.json) |
