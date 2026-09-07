@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanojo to Ore to Koibito to. | 194609 | [194609-kanojo-to-ore-to-koibito-to.json](./194609-kanojo-to-ore-to-koibito-to.json) |
 | Kanye Zone | 274745 | [274745-kanye-zone.json](./274745-kanye-zone.json) |
 | Kanzo | 236532 | [236532-kanzo.json](./236532-kanzo.json) |
+| Kao no nai Tsuki Select Story | 287639 | [287639-kao-no-nai-tsuki-select-story.json](./287639-kao-no-nai-tsuki-select-story.json) |
 | Kao the Kangaroo | 134528 | [134528-kao-the-kangaroo.json](./134528-kao-the-kangaroo.json) |
 | Kao the Kangaroo | 142453 | [142453-kao-the-kangaroo.json](./142453-kao-the-kangaroo.json) |
 | Kao The Kangaroo: Top Of The Class | 290412 | [290412-kao-the-kangaroo-top-of-the-class.json](./290412-kao-the-kangaroo-top-of-the-class.json) |
@@ -461,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms: The Crown | 100212 | [100212-kingdoms-the-crown.json](./100212-kingdoms-the-crown.json) |
 | KingHunt | 76626 | [76626-kinghunt.json](./76626-kinghunt.json) |
 | Kingmaker | 292554 | [292554-kingmaker.json](./292554-kingmaker.json) |
+| Kingmakers | 287671 | [287671-kingmakers.json](./287671-kingmakers.json) |
 | Kings and Pigs | 152937 | [152937-kings-and-pigs.json](./152937-kings-and-pigs.json) |
 | Kings of Chaos | 402314 | [402314-kings-of-chaos.json](./402314-kings-of-chaos.json) |
 | Kings of the Realm | 344914 | [344914-kings-of-the-realm.json](./344914-kings-of-the-realm.json) |
@@ -538,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten Super Adventure | 35807 | [35807-kitten-super-adventure.json](./35807-kitten-super-adventure.json) |
 | Kitten's Head Football: Spooky Edition | 221970 | [221970-kittens-head-football-spooky-edition.json](./221970-kittens-head-football-spooky-edition.json) |
 | Kittenrock Cats - A Hidden Object Game | 255973 | [255973-kittenrock-cats-a-hidden-object-game.json](./255973-kittenrock-cats-a-hidden-object-game.json) |
+| Kittenrock Cats - A Hidden Object Game | 287657 | [287657-kittenrock-cats-a-hidden-object-game.json](./287657-kittenrock-cats-a-hidden-object-game.json) |
 | Kitty & Friends: Blast of Fun | 239886 | [239886-kitty-and-friends-blast-of-fun.json](./239886-kitty-and-friends-blast-of-fun.json) |
 | Kitty Death Room | 221408 | [221408-kitty-death-room.json](./221408-kitty-death-room.json) |
 | Kitty Farm Island | 409536 | [409536-kitty-farm-island.json](./409536-kitty-farm-island.json) |
