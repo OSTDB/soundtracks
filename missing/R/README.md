@@ -601,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Deal Card Games 2011 | 77389 | [77389-reel-deal-card-games-2011.json](./77389-reel-deal-card-games-2011.json) |
 | Reel Deal Casino: Championship Edition | 77391 | [77391-reel-deal-casino-championship-edition.json](./77391-reel-deal-casino-championship-edition.json) |
 | Reel Deal Casino: Shuffle Master Edition | 77390 | [77390-reel-deal-casino-shuffle-master-edition.json](./77390-reel-deal-casino-shuffle-master-edition.json) |
+| Reel Gold | 263473 | [263473-reel-gold.json](./263473-reel-gold.json) |
 | Reel-istic Fishing | 259823 | [259823-reel-istic-fishing.json](./259823-reel-istic-fishing.json) |
 | Reels of Fortune | 270416 | [270416-reels-of-fortune.json](./270416-reels-of-fortune.json) |
 | Reels of the Damned | 411589 | [411589-reels-of-the-damned.json](./411589-reels-of-the-damned.json) |
@@ -889,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reus 2: Supporter Pack | 312031 | [312031-reus-2-supporter-pack.json](./312031-reus-2-supporter-pack.json) |
 | Rev. Noir | 389436 | [389436-rev-noir.json](./389436-rev-noir.json) |
 | Revealed | 388705 | [388705-revealed.json](./388705-revealed.json) |
+| Revelation | 263510 | [263510-revelation.json](./263510-revelation.json) |
 | Revelation of Decay | 301606 | [301606-revelation-of-decay.json](./301606-revelation-of-decay.json) |
 | Revelations 2012 | 16279 | [16279-revelations-2012.json](./16279-revelations-2012.json) |
 | Revella | 344368 | [344368-revella.json](./344368-revella.json) |
@@ -1035,6 +1037,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RideOp: New Heights - Expansion pack | 226950 | [226950-rideop-new-heights-expansion-pack.json](./226950-rideop-new-heights-expansion-pack.json) |
 | Rider | 87651 | [87651-rider.json](./87651-rider.json) |
 | Riders 2491 | 158706 | [158706-riders-2491.json](./158706-riders-2491.json) |
+| Riders Republic: 360 Edition | 263514 | [263514-riders-republic-360-edition.json](./263514-riders-republic-360-edition.json) |
+| Riders Republic: Complete Edition | 263515 | [263515-riders-republic-complete-edition.json](./263515-riders-republic-complete-edition.json) |
+| Riders Republic: Skate Edition | 263516 | [263516-riders-republic-skate-edition.json](./263516-riders-republic-skate-edition.json) |
 | Riders Republic: Year 1 Pass | 293916 | [293916-riders-republic-year-1-pass.json](./293916-riders-republic-year-1-pass.json) |
 | Ridge Hold | 414325 | [414325-ridge-hold.json](./414325-ridge-hold.json) |
 | Ridge Racer 8 | 339264 | [339264-ridge-racer-8.json](./339264-ridge-racer-8.json) |
