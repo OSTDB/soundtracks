@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I`m Isekai Hero | 296935 | [296935-i-m-isekai-hero.json](./296935-i-m-isekai-hero.json) |
 | IAH: Internet War | 371911 | [371911-iah-internet-war.json](./371911-iah-internet-war.json) |
 | Iai | 196885 | [196885-iai.json](./196885-iai.json) |
+| Iaidoka_Interlude | 273922 | [273922-iaidoka-interlude.json](./273922-iaidoka-interlude.json) |
 | IAlly | 250008 | [250008-ially.json](./250008-ially.json) |
 | iAmBored Throw It Deluxe | 101527 | [101527-iambored-throw-it-deluxe.json](./101527-iambored-throw-it-deluxe.json) |
 | Ian Botham's Test Match | 15574 | [15574-ian-bothams-test-match.json](./15574-ian-bothams-test-match.json) |
@@ -159,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Nosfe | 236499 | [236499-ice-nosfe.json](./236499-ice-nosfe.json) |
 | Ice on the Edge | 335288 | [335288-ice-on-the-edge.json](./335288-ice-on-the-edge.json) |
 | Ice Scream 4: Rod's Factory | 275007 | [275007-ice-scream-4-rods-factory.json](./275007-ice-scream-4-rods-factory.json) |
+| Ice Scream 6 Friends: Charlie | 273947 | [273947-ice-scream-6-friends-charlie.json](./273947-ice-scream-6-friends-charlie.json) |
 | Ice Scream 7 Friends: Lis | 275009 | [275009-ice-scream-7-friends-lis.json](./275009-ice-scream-7-friends-lis.json) |
 | Ice World: The Frozen Age | 314882 | [314882-ice-world-the-frozen-age.json](./314882-ice-world-the-frozen-age.json) |
 | Iceblox | 94254 | [94254-iceblox.json](./94254-iceblox.json) |
@@ -657,11 +659,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instinct | 286509 | [286509-instinct.json](./286509-instinct.json) |
 | Insurgency: Sandstorm - Chemical Combat Gear Set | 321157 | [321157-insurgency-sandstorm-chemical-combat-gear-set.json](./321157-insurgency-sandstorm-chemical-combat-gear-set.json) |
 | Insurgency: Sandstorm - Desert Veteran Weapon Skin Set | 321159 | [321159-insurgency-sandstorm-desert-veteran-weapon-skin-set.json](./321159-insurgency-sandstorm-desert-veteran-weapon-skin-set.json) |
+| Insurgency: Sandstorm - Digital Splatter Skin Set | 273937 | [273937-insurgency-sandstorm-digital-splatter-skin-set.json](./273937-insurgency-sandstorm-digital-splatter-skin-set.json) |
 | Insurgency: Sandstorm - Dusty Weapon Skin Set | 321160 | [321160-insurgency-sandstorm-dusty-weapon-skin-set.json](./321160-insurgency-sandstorm-dusty-weapon-skin-set.json) |
+| Insurgency: Sandstorm - Mountain Tactical Gear Set | 273935 | [273935-insurgency-sandstorm-mountain-tactical-gear-set.json](./273935-insurgency-sandstorm-mountain-tactical-gear-set.json) |
+| Insurgency: Sandstorm - Onslaught Set Bundle | 273934 | [273934-insurgency-sandstorm-onslaught-set-bundle.json](./273934-insurgency-sandstorm-onslaught-set-bundle.json) |
 | Insurgency: Sandstorm - Protective Gear Set | 321158 | [321158-insurgency-sandstorm-protective-gear-set.json](./321158-insurgency-sandstorm-protective-gear-set.json) |
 | Insurgency: Sandstorm - Year 1 Pass | 293920 | [293920-insurgency-sandstorm-year-1-pass.json](./293920-insurgency-sandstorm-year-1-pass.json) |
 | Insurgency: Sandstorm - Year 1 Pass + Year 2 Pass | 293922 | [293922-insurgency-sandstorm-year-1-pass-year-2-pass.json](./293922-insurgency-sandstorm-year-1-pass-year-2-pass.json) |
+| Insurgency: Sandstorm - Year 1+2+3 Bundle | 273938 | [273938-insurgency-sandstorm-year-1-2-3-bundle.json](./273938-insurgency-sandstorm-year-1-2-3-bundle.json) |
 | Insurgency: Sandstorm - Year 2 Pass | 293921 | [293921-insurgency-sandstorm-year-2-pass.json](./293921-insurgency-sandstorm-year-2-pass.json) |
+| Insurgency: Sandstorm - Year 3 Pass | 273936 | [273936-insurgency-sandstorm-year-3-pass.json](./273936-insurgency-sandstorm-year-3-pass.json) |
 | Insurmountable | 133846 | [133846-insurmountable.json](./133846-insurmountable.json) |
 | Insurrection: Cyborgs Awakening | 211945 | [211945-insurrection-cyborgs-awakening.json](./211945-insurrection-cyborgs-awakening.json) |
 | inSynch | 18232 | [18232-insynch.json](./18232-insynch.json) |
@@ -901,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island of Enchantment | 296940 | [296940-island-of-enchantment.json](./296940-island-of-enchantment.json) |
 | Island of Hearts | 373514 | [373514-island-of-hearts.json](./373514-island-of-hearts.json) |
 | Island of Lust | 191220 | [191220-island-of-lust.json](./191220-island-of-lust.json) |
+| Island of Mine | 273959 | [273959-island-of-mine.json](./273959-island-of-mine.json) |
 | Island Paradise | 296939 | [296939-island-paradise.json](./296939-island-paradise.json) |
 | Island Peril | 57673 | [57673-island-peril.json](./57673-island-peril.json) |
 | Island Simulator 2016 | 31914 | [31914-island-simulator-2016.json](./31914-island-simulator-2016.json) |
