@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | User Is Typing // Message Sent | 134687 | [134687-user-is-typing-message-sent.json](./134687-user-is-typing-message-sent.json) |
 | Ushio to Tora | 38380 | [38380-ushio-to-tora.json](./38380-ushio-to-tora.json) |
 | UsoNatsu: The Summer Romance Bloomed From a Lie | 234340 | [234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json](./234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json) |
+| Usual June | 279615 | [279615-usual-june.json](./279615-usual-june.json) |
 | Usurper of Fire | 408035 | [408035-usurper-of-fire.json](./408035-usurper-of-fire.json) |
 | Uta Kumi 575 | 42670 | [42670-uta-kumi-575.json](./42670-uta-kumi-575.json) |
 | Utility for the Soul | 312571 | [312571-utility-for-the-soul.json](./312571-utility-for-the-soul.json) |
