@@ -2053,6 +2053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brathian | 104061 | [104061-brathian.json](./104061-brathian.json) |
 | Bratz Ponyz 2 | 94733 | [94733-bratz-ponyz-2.json](./94733-bratz-ponyz-2.json) |
 | Bratz: Flaunt Your Fashion - Pretty 'N' Punk Fashion Pack | 301569 | [301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json](./301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json) |
+| Brave 22 | 263507 | [263507-brave-22.json](./263507-brave-22.json) |
 | Brave Arms | 65527 | [65527-brave-arms.json](./65527-brave-arms.json) |
 | Brave Cano | 174350 | [174350-brave-cano.json](./174350-brave-cano.json) |
 | Brave Hero | 295271 | [295271-brave-hero.json](./295271-brave-hero.json) |
@@ -2502,6 +2503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Story: games for kids | 98999 | [98999-bus-story-games-for-kids.json](./98999-bus-story-games-for-kids.json) |
 | Bus Tycoon ND | 24995 | [24995-bus-tycoon-nd.json](./24995-bus-tycoon-nd.json) |
 | Bus-Simulator 2012 | 16700 | [16700-bus-simulator-2012.json](./16700-bus-simulator-2012.json) |
+| Bush Royal Rampage | 263481 | [263481-bush-royal-rampage.json](./263481-bush-royal-rampage.json) |
 | Bushido Saga: Nightmare of the Samurai | 260375 | [260375-bushido-saga-nightmare-of-the-samurai.json](./260375-bushido-saga-nightmare-of-the-samurai.json) |
 | Business Empire: RichMan | 280220 | [280220-business-empire-richman.json](./280220-business-empire-richman.json) |
 | Business Management | 400853 | [400853-business-management.json](./400853-business-management.json) |
@@ -2553,4 +2555,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bygone Worlds: Jerusalem | 74446 | [74446-bygone-worlds-jerusalem.json](./74446-bygone-worlds-jerusalem.json) |
 | Byte Wars | 360578 | [360578-byte-wars.json](./360578-byte-wars.json) |
 | Byter | 319575 | [319575-byter.json](./319575-byter.json) |
+| Bytesize | 263489 | [263489-bytesize.json](./263489-bytesize.json) |
 | Bythzkel-Sombréa | 311820 | [311820-bythzkel-sombrea.json](./311820-bythzkel-sombrea.json) |
