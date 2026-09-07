@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Wonderland 12 | 186292 | [186292-christmas-wonderland-12.json](./186292-christmas-wonderland-12.json) |
 | Christmas Wonderland 7 | 226426 | [226426-christmas-wonderland-7.json](./226426-christmas-wonderland-7.json) |
 | Christmas Yarn 2 | 278699 | [278699-christmas-yarn-2.json](./278699-christmas-yarn-2.json) |
+| Christmas: Dark Side | 286006 | [286006-christmas-dark-side.json](./286006-christmas-dark-side.json) |
 | Christmasdius | 63887 | [63887-christmasdius.json](./63887-christmasdius.json) |
 | Christminster | 60021 | [60021-christminster.json](./60021-christminster.json) |
 | Chroam | 349858 | [349858-chroam.json](./349858-chroam.json) |
@@ -2479,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Castilla | 288182 | [288182-cursed-castilla.json](./288182-cursed-castilla.json) |
 | Cursed Covenant: The Demonic Pursuit | 338712 | [338712-cursed-covenant-the-demonic-pursuit.json](./338712-cursed-covenant-the-demonic-pursuit.json) |
 | Cursed Crew | 217018 | [217018-cursed-crew.json](./217018-cursed-crew.json) |
+| Cursed Diamonds | 285985 | [285985-cursed-diamonds.json](./285985-cursed-diamonds.json) |
 | Cursed Fables: A Voice to Die For - Collector's Edition | 260422 | [260422-cursed-fables-a-voice-to-die-for-collectors-edition.json](./260422-cursed-fables-a-voice-to-die-for-collectors-edition.json) |
 | Cursed Fables: Before the Clock Strikes - Collector's Edition | 362841 | [362841-cursed-fables-before-the-clock-strikes-collectors-edition.json](./362841-cursed-fables-before-the-clock-strikes-collectors-edition.json) |
 | Cursed Gun | 396895 | [396895-cursed-gun.json](./396895-cursed-gun.json) |
