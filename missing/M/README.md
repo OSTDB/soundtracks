@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Interactive Reloaded | 331704 | [331704-madness-interactive-reloaded.json](./331704-madness-interactive-reloaded.json) |
 | Madness of the Architect | 83549 | [83549-madness-of-the-architect.json](./83549-madness-of-the-architect.json) |
 | Madness of the Architect | 83550 | [83550-madness-of-the-architect.json](./83550-madness-of-the-architect.json) |
+| MadnessMadnessMadness | 283738 | [283738-madnessmadnessmadness.json](./283738-madnessmadnessmadness.json) |
 | Madotsuki's Closet | 145675 | [145675-madotsukis-closet.json](./145675-madotsukis-closet.json) |
 | Madou Gakuin R | 46613 | [46613-madou-gakuin-r.json](./46613-madou-gakuin-r.json) |
 | Madou Monogatari | 57675 | [57675-madou-monogatari.json](./57675-madou-monogatari.json) |
@@ -372,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Managate | 392150 | [392150-managate.json](./392150-managate.json) |
 | Management in Space | 400849 | [400849-management-in-space.json](./400849-management-in-space.json) |
 | Manatee | 311249 | [311249-manatee.json](./311249-manatee.json) |
+| Manbomber | 283749 | [283749-manbomber.json](./283749-manbomber.json) |
 | Manchester United Club Football | 52013 | [52013-manchester-united-club-football.json](./52013-manchester-united-club-football.json) |
 | Mancy | 381611 | [381611-mancy.json](./381611-mancy.json) |
 | Mandate Order | 374619 | [374619-mandate-order.json](./374619-mandate-order.json) |
@@ -1178,6 +1180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Tower: Nonogram | 221399 | [221399-meow-tower-nonogram.json](./221399-meow-tower-nonogram.json) |
 | Meow Weight Loss Diary | 352227 | [352227-meow-weight-loss-diary.json](./352227-meow-weight-loss-diary.json) |
 | Meowingtons Simulator | 326384 | [326384-meowingtons-simulator.json](./326384-meowingtons-simulator.json) |
+| MeowMatch | 283724 | [283724-meowmatch.json](./283724-meowmatch.json) |
 | Meowmewbug | 370151 | [370151-meowmewbug.json](./370151-meowmewbug.json) |
 | Meown | 348265 | [348265-meown.json](./348265-meown.json) |
 | Meowniverse | 391584 | [391584-meowniverse.json](./391584-meowniverse.json) |
@@ -1318,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Exodus: Sam's Story | 121756 | [121756-metro-exodus-sams-story.json](./121756-metro-exodus-sams-story.json) |
 | Metro Survival: Zombie Hunter | 174873 | [174873-metro-survival-zombie-hunter.json](./174873-metro-survival-zombie-hunter.json) |
 | Metro-Police | 19586 | [19586-metro-police.json](./19586-metro-police.json) |
+| Metro.Siberia | 283743 | [283743-metro-siberia.json](./283743-metro-siberia.json) |
 | Metrogether | 326385 | [326385-metrogether.json](./326385-metrogether.json) |
 | Metroid | 1101 | [1101-metroid.json](./1101-metroid.json) |
 | Metroid Ecliption | 324077 | [324077-metroid-ecliption.json](./324077-metroid-ecliption.json) |
@@ -1779,6 +1783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misk Schools Quest | 187516 | [187516-misk-schools-quest.json](./187516-misk-schools-quest.json) |
 | Miskatonic | 389973 | [389973-miskatonic.json](./389973-miskatonic.json) |
 | Miss | 242777 | [242777-miss.json](./242777-miss.json) |
+| Miss It! | 283707 | [283707-miss-it.json](./283707-miss-it.json) |
 | Miss Mantis | 307288 | [307288-miss-mantis.json](./307288-miss-mantis.json) |
 | Miss Perfect Miss Ending | 320753 | [320753-miss-perfect-miss-ending.json](./320753-miss-perfect-miss-ending.json) |
 | Missile Base | 13740 | [13740-missile-base.json](./13740-missile-base.json) |
@@ -2430,6 +2435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouseman: Point-and-Click RPG Adventure - Chapter 1 | 383353 | [383353-mouseman-point-and-click-rpg-adventure-chapter-1.json](./383353-mouseman-point-and-click-rpg-adventure-chapter-1.json) |
 | Mousement | 388727 | [388727-mousement.json](./388727-mousement.json) |
 | Mousey | 231625 | [231625-mousey.json](./231625-mousey.json) |
+| Moussacre | 283763 | [283763-moussacre.json](./283763-moussacre.json) |
 | Moustache Mountain | 33133 | [33133-moustache-mountain.json](./33133-moustache-mountain.json) |
 | Mouth Trap | 318429 | [318429-mouth-trap.json](./318429-mouth-trap.json) |
 | Move Blocks | 285454 | [285454-move-blocks.json](./285454-move-blocks.json) |
@@ -2453,6 +2459,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moyashibito DX | 233211 | [233211-moyashibito-dx.json](./233211-moyashibito-dx.json) |
 | Mozarella Hills | 291766 | [291766-mozarella-hills.json](./291766-mozarella-hills.json) |
 | Mozzle | 175414 | [175414-mozzle.json](./175414-mozzle.json) |
+| MP2: Bill Nye's Science Lab | 283777 | [283777-mp2-bill-nyes-science-lab.json](./283777-mp2-bill-nyes-science-lab.json) |
+| MP2: Blue Koopa Land | 283779 | [283779-mp2-blue-koopa-land.json](./283779-mp2-blue-koopa-land.json) |
+| MP2: Calm Isles | 283783 | [283783-mp2-calm-isles.json](./283783-mp2-calm-isles.json) |
+| MP2: Dream Haven | 283678 | [283678-mp2-dream-haven.json](./283678-mp2-dream-haven.json) |
+| MP2: Hope Land | 283780 | [283780-mp2-hope-land.json](./283780-mp2-hope-land.json) |
+| MP2: JMGO Sands | 283781 | [283781-mp2-jmgo-sands.json](./283781-mp2-jmgo-sands.json) |
+| MP2: Koopa Kid Land | 283773 | [283773-mp2-koopa-kid-land.json](./283773-mp2-koopa-kid-land.json) |
+| MP2: Open RCT2 | 283782 | [283782-mp2-open-rct2.json](./283782-mp2-open-rct2.json) |
+| MP2: Petropolis (Block Party) | 283775 | [283775-mp2-petropolis-block-party.json](./283775-mp2-petropolis-block-party.json) |
+| MP2: Yoshi Valley | 283774 | [283774-mp2-yoshi-valley.json](./283774-mp2-yoshi-valley.json) |
 | Mpirimpa | 341339 | [341339-mpirimpa.json](./341339-mpirimpa.json) |
 | Mr Anchry's Divine Intervention | 124271 | [124271-mr-anchrys-divine-intervention.json](./124271-mr-anchrys-divine-intervention.json) |
 | Mr Bea Boy Kart Dash Race | 247206 | [247206-mr-bea-boy-kart-dash-race.json](./247206-mr-bea-boy-kart-dash-race.json) |
