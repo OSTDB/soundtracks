@@ -1139,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hive | 5604 | [5604-hive.json](./5604-hive.json) |
 | Hive Defender | 190193 | [190193-hive-defender.json](./190193-hive-defender.json) |
 | Hive In Space | 290716 | [290716-hive-in-space.json](./290716-hive-in-space.json) |
+| Hive Jump 2: Survivors | 264591 | [264591-hive-jump-2-survivors.json](./264591-hive-jump-2-survivors.json) |
 | Hive Time | 124254 | [124254-hive-time.json](./124254-hive-time.json) |
 | Hivefront TD | 379857 | [379857-hivefront-td.json](./379857-hivefront-td.json) |
 | Hiveswap Friendsim | 97012 | [97012-hiveswap-friendsim.json](./97012-hiveswap-friendsim.json) |
