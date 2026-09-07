@@ -825,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Steel: Max Technical | 294464 | [294464-max-steel-max-technical.json](./294464-max-steel-max-technical.json) |
 | Max Steel: Turbo Tablet | 294465 | [294465-max-steel-turbo-tablet.json](./294465-max-steel-turbo-tablet.json) |
 | Max Traffic | 191887 | [191887-max-traffic.json](./191887-max-traffic.json) |
+| Max Twist | 262965 | [262965-max-twist.json](./262965-max-twist.json) |
 | Max's Big Bust 2 - Max's Bigger Bust | 140626 | [140626-maxs-big-bust-2-maxs-bigger-bust.json](./140626-maxs-big-bust-2-maxs-bigger-bust.json) |
 | MaxControl | 31928 | [31928-maxcontrol.json](./31928-maxcontrol.json) |
 | Maxi Trucks Racing | 366212 | [366212-maxi-trucks-racing.json](./366212-maxi-trucks-racing.json) |
@@ -1134,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meme Barley-Break | 112351 | [112351-meme-barley-break.json](./112351-meme-barley-break.json) |
 | Meme Wars | 366827 | [366827-meme-wars.json](./366827-meme-wars.json) |
 | Memento | 33176 | [33176-memento.json](./33176-memento.json) |
+| Memento Dawn | 262956 | [262956-memento-dawn.json](./262956-memento-dawn.json) |
 | Memento Mori | 28231 | [28231-memento-mori.json](./28231-memento-mori.json) |
 | Memento Mori 2 | 16529 | [16529-memento-mori-2.json](./16529-memento-mori-2.json) |
 | Memento Vivere | 161355 | [161355-memento-vivere.json](./161355-memento-vivere.json) |
@@ -1538,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MightyBowOfGreenHills | 96761 | [96761-mightybowofgreenhills.json](./96761-mightybowofgreenhills.json) |
 | Miglorn | 304590 | [304590-miglorn.json](./304590-miglorn.json) |
 | Miguelshroom: First Day at School | 149593 | [149593-miguelshroom-first-day-at-school.json](./149593-miguelshroom-first-day-at-school.json) |
+| Mik | 262928 | [262928-mik.json](./262928-mik.json) |
 | Mika and the Witch's Mountain | 195098 | [195098-mika-and-the-witchs-mountain.json](./195098-mika-and-the-witchs-mountain.json) |
 | Mika Dozer Spin | 90693 | [90693-mika-dozer-spin.json](./90693-mika-dozer-spin.json) |
 | Mikagami Sumika No Seifuku Katsudou | 147446 | [147446-mikagami-sumika-no-seifuku-katsudou.json](./147446-mikagami-sumika-no-seifuku-katsudou.json) |
@@ -1745,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini-Market Simulator VR | 309377 | [309377-mini-market-simulator-vr.json](./309377-mini-market-simulator-vr.json) |
 | Mini-U: Mosaic | 175408 | [175408-mini-u-mosaic.json](./175408-mini-u-mosaic.json) |
 | Miniacs: Steering Madness | 382227 | [382227-miniacs-steering-madness.json](./382227-miniacs-steering-madness.json) |
+| Miniature Mayhem! | 262931 | [262931-miniature-mayhem.json](./262931-miniature-mayhem.json) |
 | MiniBotz | 31929 | [31929-minibotz.json](./31929-minibotz.json) |
 | Minibuilder | 352182 | [352182-minibuilder.json](./352182-minibuilder.json) |
 | Minifiend | 253034 | [253034-minifiend.json](./253034-minifiend.json) |
@@ -2348,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mori Adventures | 407351 | [407351-mori-adventures.json](./407351-mori-adventures.json) |
 | Mori no Fantasy: Sekaiju no Densetsu | 220321 | [220321-mori-no-fantasy-sekaiju-no-densetsu.json](./220321-mori-no-fantasy-sekaiju-no-densetsu.json) |
 | MoriArashi | 205235 | [205235-moriarashi.json](./205235-moriarashi.json) |
+| Morikomori Life | 262977 | [262977-morikomori-life.json](./262977-morikomori-life.json) |
 | Morita Shogi 64 | 3543 | [3543-morita-shogi-64.json](./3543-morita-shogi-64.json) |
 | Mörk Borg Heresy Supreme | 317584 | [317584-mork-borg-heresy-supreme.json](./317584-mork-borg-heresy-supreme.json) |
 | Morlush | 203563 | [203563-morlush.json](./203563-morlush.json) |
@@ -2457,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motherbird: The Dark One | 239922 | [239922-motherbird-the-dark-one.json](./239922-motherbird-the-dark-one.json) |
 | Motherbored | 293623 | [293623-motherbored.json](./293623-motherbored.json) |
 | Motherload: Goldium Edition | 186345 | [186345-motherload-goldium-edition.json](./186345-motherload-goldium-edition.json) |
+| Mothership | 262981 | [262981-mothership.json](./262981-mothership.json) |
 | Mothership | 293414 | [293414-mothership.json](./293414-mothership.json) |
 | Mothlight | 54445 | [54445-mothlight.json](./54445-mothlight.json) |
 | Motion Soccer Pro | 320521 | [320521-motion-soccer-pro.json](./320521-motion-soccer-pro.json) |
