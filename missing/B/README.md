@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Street Fighter II - 38. Rolling Nail | 388037 | [388037-barcode-battler-ii-street-fighter-ii-38-rolling-nail.json](./388037-barcode-battler-ii-street-fighter-ii-38-rolling-nail.json) |
 | Barcode Knight | 173808 | [173808-barcode-knight.json](./173808-barcode-knight.json) |
 | Bardarts | 141222 | [141222-bardarts.json](./141222-bardarts.json) |
+| Bardic: Quest for Love | 270100 | [270100-bardic-quest-for-love.json](./270100-bardic-quest-for-love.json) |
 | Bardo | 109727 | [109727-bardo.json](./109727-bardo.json) |
 | Barely Floating | 138214 | [138214-barely-floating.json](./138214-barely-floating.json) |
 | Barezu ni Ikiru! | 212465 | [212465-barezu-ni-ikiru.json](./212465-barezu-ni-ikiru.json) |
