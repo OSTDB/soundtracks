@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Reavers | 24411 | [24411-galaxy-reavers.json](./24411-galaxy-reavers.json) |
 | Galaxy Strike | 135896 | [135896-galaxy-strike.json](./135896-galaxy-strike.json) |
 | Galaxy Trader | 175402 | [175402-galaxy-trader.json](./175402-galaxy-trader.json) |
+| Galaxy Trek | 285458 | [285458-galaxy-trek.json](./285458-galaxy-trek.json) |
 | Galaxy Trucker | 60538 | [60538-galaxy-trucker.json](./60538-galaxy-trucker.json) |
 | Galaxy Wars 4 | 385552 | [385552-galaxy-wars-4.json](./385552-galaxy-wars-4.json) |
 | Galaxy Wars: Space Launcher | 312874 | [312874-galaxy-wars-space-launcher.json](./312874-galaxy-wars-space-launcher.json) |
@@ -629,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glogwillette | 306968 | [306968-glogwillette.json](./306968-glogwillette.json) |
 | Gloom | 151203 | [151203-gloom.json](./151203-gloom.json) |
 | Gloom | 78126 | [78126-gloom.json](./78126-gloom.json) |
+| Gloomsday | 285459 | [285459-gloomsday.json](./285459-gloomsday.json) |
 | Gloomy Island | 278133 | [278133-gloomy-island.json](./278133-gloomy-island.json) |
 | Glorgorian Weather Initiative | 393509 | [393509-glorgorian-weather-initiative.json](./393509-glorgorian-weather-initiative.json) |
 | Gloria Sinica: Han Xiongnu Wars | 67930 | [67930-gloria-sinica-han-xiongnu-wars.json](./67930-gloria-sinica-han-xiongnu-wars.json) |
@@ -668,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Bear Go! | 327830 | [327830-go-bear-go.json](./327830-go-bear-go.json) |
 | Go Big | 394220 | [394220-go-big.json](./394220-go-big.json) |
 | Go Carts | 297473 | [297473-go-carts.json](./297473-go-carts.json) |
+| Go Deep Or Go Home | 285484 | [285484-go-deep-or-go-home.json](./285484-go-deep-or-go-home.json) |
 | Go Fight Fantastic! | 127364 | [127364-go-fight-fantastic.json](./127364-go-fight-fantastic.json) |
 | Go Go Muffin | 212451 | [212451-go-go-muffin.json](./212451-go-go-muffin.json) |
 | Go Go Poncho! | 89958 | [89958-go-go-poncho.json](./89958-go-go-poncho.json) |
@@ -1260,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GT New Horizons | 204699 | [204699-gt-new-horizons.json](./204699-gt-new-horizons.json) |
 | GT Racing 1980 | 371885 | [371885-gt-racing-1980.json](./371885-gt-racing-1980.json) |
 | GT Ride | 233749 | [233749-gt-ride.json](./233749-gt-ride.json) |
+| GTH 3033: Grand Theft Hunter 3033 | 285486 | [285486-gth-3033-grand-theft-hunter-3033.json](./285486-gth-3033-grand-theft-hunter-3033.json) |
 | GTI Club+: Rally Côte d'Azur | 97105 | [97105-gti-club-rally-cote-dazur.json](./97105-gti-club-rally-cote-dazur.json) |
 | GTR 2: FIA GT Racing Game | 737 | [737-gtr-2-fia-gt-racing-game.json](./737-gtr-2-fia-gt-racing-game.json) |
 | GTTOD: Lost in Reflection | 207528 | [207528-gttod-lost-in-reflection.json](./207528-gttod-lost-in-reflection.json) |
