@@ -2247,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sea Has No Claim | 185646 | [185646-the-sea-has-no-claim.json](./185646-the-sea-has-no-claim.json) |
 | The Search | 30193 | [30193-the-search.json](./30193-the-search.json) |
 | The Search For Sonic Mania 2 | 352175 | [352175-the-search-for-sonic-mania-2.json](./352175-the-search-for-sonic-mania-2.json) |
+| The Search for Tikiman | 265679 | [265679-the-search-for-tikiman.json](./265679-the-search-for-tikiman.json) |
 | The Search Master: Metal Gear Solid Edition | 270390 | [270390-the-search-master-metal-gear-solid-edition.json](./270390-the-search-master-metal-gear-solid-edition.json) |
 | The Searcher Wild West Adventure | 105373 | [105373-the-searcher-wild-west-adventure.json](./105373-the-searcher-wild-west-adventure.json) |
 | The Second Kids' World Almanac Adventure | 71531 | [71531-the-second-kids-world-almanac-adventure.json](./71531-the-second-kids-world-almanac-adventure.json) |
@@ -2338,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: My Wedding Stories | 191387 | [191387-the-sims-4-my-wedding-stories.json](./191387-the-sims-4-my-wedding-stories.json) |
 | The Sims 4: Outdoor Bundle | 159339 | [159339-the-sims-4-outdoor-bundle.json](./159339-the-sims-4-outdoor-bundle.json) |
 | The Sims 4: Party Essentials Kit | 296899 | [296899-the-sims-4-party-essentials-kit.json](./296899-the-sims-4-party-essentials-kit.json) |
+| The Sims 4: Poolside Splash Kit | 265704 | [265704-the-sims-4-poolside-splash-kit.json](./265704-the-sims-4-poolside-splash-kit.json) |
 | The Sims 4: Prairie Dreams | 404225 | [404225-the-sims-4-prairie-dreams.json](./404225-the-sims-4-prairie-dreams.json) |
 | The Sims 4: Restoration Workshop Kit | 350997 | [350997-the-sims-4-restoration-workshop-kit.json](./350997-the-sims-4-restoration-workshop-kit.json) |
 | The Sims 4: Romantic Garden Stuff | 121022 | [121022-the-sims-4-romantic-garden-stuff.json](./121022-the-sims-4-romantic-garden-stuff.json) |
@@ -3723,6 +3725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Ardia | 169453 | [169453-tower-of-ardia.json](./169453-tower-of-ardia.json) |
 | Tower of Babel: No Mercy | 129190 | [129190-tower-of-babel-no-mercy.json](./129190-tower-of-babel-no-mercy.json) |
 | Tower of Doom VR | 310921 | [310921-tower-of-doom-vr.json](./310921-tower-of-doom-vr.json) |
+| Tower of Dreams | 265705 | [265705-tower-of-dreams.json](./265705-tower-of-dreams.json) |
 | Tower of Evil | 25731 | [25731-tower-of-evil.json](./25731-tower-of-evil.json) |
 | Tower of Saviors | 22440 | [22440-tower-of-saviors.json](./22440-tower-of-saviors.json) |
 | Tower of Shades | 127386 | [127386-tower-of-shades.json](./127386-tower-of-shades.json) |
@@ -4182,6 +4185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trilogic | 91978 | [91978-trilogic.json](./91978-trilogic.json) |
 | Trilogy of the Moon | 339795 | [339795-trilogy-of-the-moon.json](./339795-trilogy-of-the-moon.json) |
 | Trimorta | 184086 | [184086-trimorta.json](./184086-trimorta.json) |
+| Trimurti Online | 265688 | [265688-trimurti-online.json](./265688-trimurti-online.json) |
 | Trinity Heart | 266238 | [266238-trinity-heart.json](./266238-trinity-heart.json) |
 | Trinity Trigger: Day 1 Edition | 221947 | [221947-trinity-trigger-day-1-edition.json](./221947-trinity-trigger-day-1-edition.json) |
 | Trinoline | 116366 | [116366-trinoline.json](./116366-trinoline.json) |
@@ -4365,6 +4369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tupsu | 117761 | [117761-tupsu.json](./117761-tupsu.json) |
 | Turbo 21 HD | 355009 | [355009-turbo-21-hd.json](./355009-turbo-21-hd.json) |
 | Turbo 84 | 239344 | [239344-turbo-84.json](./239344-turbo-84.json) |
+| Turbo Booster | 265653 | [265653-turbo-booster.json](./265653-turbo-booster.json) |
 | Turbo Bullets | 311822 | [311822-turbo-bullets.json](./311822-turbo-bullets.json) |
 | Turbo DX | 313106 | [313106-turbo-dx.json](./313106-turbo-dx.json) |
 | Turbo Golf Racing | 194736 | [194736-turbo-golf-racing.json](./194736-turbo-golf-racing.json) |
