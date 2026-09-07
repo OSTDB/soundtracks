@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsighted | 111815 | [111815-unsighted.json](./111815-unsighted.json) |
 | Unsolicited | 185647 | [185647-unsolicited.json](./185647-unsolicited.json) |
 | Unsolved Case: Ash and Secrets - Collector's Edition | 338584 | [338584-unsolved-case-ash-and-secrets-collectors-edition.json](./338584-unsolved-case-ash-and-secrets-collectors-edition.json) |
+| Unsolved Case: Killer Popularity DLC | 289325 | [289325-unsolved-case-killer-popularity-dlc.json](./289325-unsolved-case-killer-popularity-dlc.json) |
 | Unstable | 191248 | [191248-unstable.json](./191248-unstable.json) |
 | Unstable Blocks | 303224 | [303224-unstable-blocks.json](./303224-unstable-blocks.json) |
 | Unstable Star | 338583 | [338583-unstable-star.json](./338583-unstable-star.json) |
