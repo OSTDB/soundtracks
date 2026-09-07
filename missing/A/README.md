@@ -605,6 +605,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeris | 288745 | [288745-aeris.json](./288745-aeris.json) |
 | Aero Attack: Retro Space Shooter | 115715 | [115715-aero-attack-retro-space-shooter.json](./115715-aero-attack-retro-space-shooter.json) |
 | Aero Cosmos | 335094 | [335094-aero-cosmos.json](./335094-aero-cosmos.json) |
+| Aero Dancing F: Todoroki Tsubasa no Hatsu Hikou | 267381 | [267381-aero-dancing-f-todoroki-tsubasa-no-hatsu-hikou.json](./267381-aero-dancing-f-todoroki-tsubasa-no-hatsu-hikou.json) |
+| Aero Dancing I | 267380 | [267380-aero-dancing-i.json](./267380-aero-dancing-i.json) |
+| Aero Dancing I: Jikai Saku made Matemasen | 267382 | [267382-aero-dancing-i-jikai-saku-made-matemasen.json](./267382-aero-dancing-i-jikai-saku-made-matemasen.json) |
 | Aero Fighters | 306980 | [306980-aero-fighters.json](./306980-aero-fighters.json) |
 | Aerobics Revolution | 269323 | [269323-aerobics-revolution.json](./269323-aerobics-revolution.json) |
 | Aerobots | 120425 | [120425-aerobots.json](./120425-aerobots.json) |
@@ -1383,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Frontier: Quests & Events | 170510 | [170510-ancient-frontier-quests-and-events.json](./170510-ancient-frontier-quests-and-events.json) |
 | Ancient Frontier: The Crew | 170509 | [170509-ancient-frontier-the-crew.json](./170509-ancient-frontier-the-crew.json) |
 | Ancient Islands | 192031 | [192031-ancient-islands.json](./192031-ancient-islands.json) |
+| Ancient Mahjong | 267370 | [267370-ancient-mahjong.json](./267370-ancient-mahjong.json) |
 | Ancient Military | 392800 | [392800-ancient-military.json](./392800-ancient-military.json) |
 | Ancient Rituals: Stonehenge | 216467 | [216467-ancient-rituals-stonehenge.json](./216467-ancient-rituals-stonehenge.json) |
 | Ancient Rus vs. Lizards | 277013 | [277013-ancient-rus-vs-lizards.json](./277013-ancient-rus-vs-lizards.json) |
@@ -1423,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Legion: Oriental - Purple | 254160 | [254160-angel-legion-oriental-purple.json](./254160-angel-legion-oriental-purple.json) |
 | Angel Night | 314651 | [314651-angel-night.json](./314651-angel-night.json) |
 | Angel of Death | 269285 | [269285-angel-of-death.json](./269285-angel-of-death.json) |
+| Angel Present | 267405 | [267405-angel-present.json](./267405-angel-present.json) |
 | Angel Spirit | 293088 | [293088-angel-spirit.json](./293088-angel-spirit.json) |
 | Angel Tears | 169444 | [169444-angel-tears.json](./169444-angel-tears.json) |
 | Angel Wings | 102168 | [102168-angel-wings.json](./102168-angel-wings.json) |
@@ -1548,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Love Chat Girls | 380394 | [380394-anime-love-chat-girls.json](./380394-anime-love-chat-girls.json) |
 | Anime Parody: Tentacle Slayer | 319978 | [319978-anime-parody-tentacle-slayer.json](./319978-anime-parody-tentacle-slayer.json) |
 | Anime School Love: His Teacher Secret Lesson | 378780 | [378780-anime-school-love-his-teacher-secret-lesson.json](./378780-anime-school-love-his-teacher-secret-lesson.json) |
+| Anime Sexy Girl Puzzle: Hentai Game History Adventure | 267371 | [267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json](./267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json) |
 | Anime Story Otome Game: Comino | 298878 | [298878-anime-story-otome-game-comino.json](./298878-anime-story-otome-game-comino.json) |
 | Anime Thighs: 18+ Content | 297774 | [297774-anime-thighs-18-content.json](./297774-anime-thighs-18-content.json) |
 | Anime Uni | 273943 | [273943-anime-uni.json](./273943-anime-uni.json) |
@@ -1779,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquanore | 376451 | [376451-aquanore.json](./376451-aquanore.json) |
 | Aquapark Tycoon | 296651 | [296651-aquapark-tycoon.json](./296651-aquapark-tycoon.json) |
 | Aquaphobia | 46655 | [46655-aquaphobia.json](./46655-aquaphobia.json) |
+| Aquapolis SOS | 267398 | [267398-aquapolis-sos.json](./267398-aquapolis-sos.json) |
 | Aquaria | 297464 | [297464-aquaria.json](./297464-aquaria.json) |
 | Aquaris | 109044 | [109044-aquaris.json](./109044-aquaris.json) |
 | Aquarium Designer | 159879 | [159879-aquarium-designer.json](./159879-aquarium-designer.json) |
@@ -2092,6 +2099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrival, or Attack of the B-Movie Clichés | 314038 | [314038-arrival-or-attack-of-the-b-movie-cliches.json](./314038-arrival-or-attack-of-the-b-movie-cliches.json) |
 | Arrow Bingo | 382773 | [382773-arrow-bingo.json](./382773-arrow-bingo.json) |
 | Arrow Busters | 97349 | [97349-arrow-busters.json](./97349-arrow-busters.json) |
+| Arrow Patterns | 267361 | [267361-arrow-patterns.json](./267361-arrow-patterns.json) |
 | Arrow Snake | 135874 | [135874-arrow-snake.json](./135874-arrow-snake.json) |
 | Arrow Ventura VR | 132853 | [132853-arrow-ventura-vr.json](./132853-arrow-ventura-vr.json) |
 | Arrowman | 389463 | [389463-arrowman.json](./389463-arrowman.json) |
