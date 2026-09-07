@@ -193,6 +193,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Street Vol. 2 | 4036 | [4036-nba-street-vol-2.json](./4036-nba-street-vol-2.json) |
 | NBA the Run | 309667 | [309667-nba-the-run.json](./309667-nba-the-run.json) |
 | NBA: King of the Court | 65509 | [65509-nba-king-of-the-court.json](./65509-nba-king-of-the-court.json) |
+| Nblocks: Builder Pack 1 | 298589 | [298589-nblocks-builder-pack-1.json](./298589-nblocks-builder-pack-1.json) |
+| Nblocks: Builder Pack 2 | 298592 | [298592-nblocks-builder-pack-2.json](./298592-nblocks-builder-pack-2.json) |
+| Nblocks: Builder Pack 3 | 298590 | [298590-nblocks-builder-pack-3.json](./298590-nblocks-builder-pack-3.json) |
+| Nblocks: Builder Pack 4 | 298591 | [298591-nblocks-builder-pack-4.json](./298591-nblocks-builder-pack-4.json) |
 | NCAA College Football 2K3 | 4039 | [4039-ncaa-college-football-2k3.json](./4039-ncaa-college-football-2k3.json) |
 | NCAA Football 09: All-Play | 137060 | [137060-ncaa-football-09-all-play.json](./137060-ncaa-football-09-all-play.json) |
 | NCAA Football 2002 | 44644 | [44644-ncaa-football-2002.json](./44644-ncaa-football-2002.json) |
@@ -607,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Sing | 119758 | [119758-night-sing.json](./119758-night-sing.json) |
 | Night Slashers X | 51229 | [51229-night-slashers-x.json](./51229-night-slashers-x.json) |
 | Night Slave | 45974 | [45974-night-slave.json](./45974-night-slave.json) |
+| Night Trap | 298556 | [298556-night-trap.json](./298556-night-trap.json) |
 | Night Trap: 25th Anniversary Edition | 28249 | [28249-night-trap-25th-anniversary-edition.json](./28249-night-trap-25th-anniversary-edition.json) |
 | Night World | 178057 | [178057-night-world.json](./178057-night-world.json) |
 | Night&Scape | 237052 | [237052-night-and-scape.json](./237052-night-and-scape.json) |
@@ -698,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Hattori-kun | 346042 | [346042-ninja-hattori-kun.json](./346042-ninja-hattori-kun.json) |
 | Ninja Instinct | 25765 | [25765-ninja-instinct.json](./25765-ninja-instinct.json) |
 | Ninja JaJaMaru-kun: Sakura-hime to Karyu no Himitsu | 62207 | [62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json](./62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json) |
+| Ninja Kamui: Shinobi Origins | 298587 | [298587-ninja-kamui-shinobi-origins.json](./298587-ninja-kamui-shinobi-origins.json) |
 | Ninja Kato 3 | 297800 | [297800-ninja-kato-3.json](./297800-ninja-kato-3.json) |
 | Ninja Ming: Wu | 341478 | [341478-ninja-ming-wu.json](./341478-ninja-ming-wu.json) |
 | Ninja Monkey | 309849 | [309849-ninja-monkey.json](./309849-ninja-monkey.json) |
