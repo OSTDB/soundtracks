@@ -2438,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Slayer | 194008 | [194008-dungeon-slayer.json](./194008-dungeon-slayer.json) |
 | Dungeon Slime Hero | 295808 | [295808-dungeon-slime-hero.json](./295808-dungeon-slime-hero.json) |
 | Dungeon Stalkers | 255912 | [255912-dungeon-stalkers.json](./255912-dungeon-stalkers.json) |
+| Dungeon Survival | 261827 | [261827-dungeon-survival.json](./261827-dungeon-survival.json) |
 | Dungeon Survivor II | 126007 | [126007-dungeon-survivor-ii.json](./126007-dungeon-survivor-ii.json) |
 | Dungeon Tales: RPG Card Game | 121732 | [121732-dungeon-tales-rpg-card-game.json](./121732-dungeon-tales-rpg-card-game.json) |
 | Dungeon Tiles | 58235 | [58235-dungeon-tiles.json](./58235-dungeon-tiles.json) |
