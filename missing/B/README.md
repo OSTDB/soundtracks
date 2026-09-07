@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backbreaker Vengeance | 22942 | [22942-backbreaker-vengeance.json](./22942-backbreaker-vengeance.json) |
 | Backfire Brigade | 370137 | [370137-backfire-brigade.json](./370137-backfire-brigade.json) |
 | Backfire! | 37139 | [37139-backfire.json](./37139-backfire.json) |
+| Backflip | 293630 | [293630-backflip.json](./293630-backflip.json) |
 | Backgammon | 152338 | [152338-backgammon.json](./152338-backgammon.json) |
 | Backgammon | 339276 | [339276-backgammon.json](./339276-backgammon.json) |
 | Backgammon 3D | 146896 | [146896-backgammon-3d.json](./146896-backgammon-3d.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bahari | 201306 | [201306-bahari.json](./201306-bahari.json) |
 | Bái Xiǎo | 195266 | [195266-bai-xiao.json](./195266-bai-xiao.json) |
 | Baia | 334498 | [334498-baia.json](./334498-baia.json) |
+| Baimason's Thing Finder Puzzle | 293612 | [293612-baimasons-thing-finder-puzzle.json](./293612-baimasons-thing-finder-puzzle.json) |
 | Baja or Bust | 259245 | [259245-baja-or-bust.json](./259245-baja-or-bust.json) |
 | Bakahazard | 316633 | [316633-bakahazard.json](./316633-bakahazard.json) |
 | Bake it! Pizza Master | 378781 | [378781-bake-it-pizza-master.json](./378781-bake-it-pizza-master.json) |
