@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jim's Gym | 241056 | [241056-jims-gym.json](./241056-jims-gym.json) |
 | Jimmy Connors Tennis | 365696 | [365696-jimmy-connors-tennis.json](./365696-jimmy-connors-tennis.json) |
 | Jimmy Neutron: Boy Genius | 49291 | [49291-jimmy-neutron-boy-genius.json](./49291-jimmy-neutron-boy-genius.json) |
+| Jimmy's Agony | 266777 | [266777-jimmys-agony.json](./266777-jimmys-agony.json) |
 | Jimmy's No. 44 House | 356668 | [356668-jimmys-no-44-house.json](./356668-jimmys-no-44-house.json) |
 | Jimmy's Soccer Manager | 77377 | [77377-jimmys-soccer-manager.json](./77377-jimmys-soccer-manager.json) |
 | JimmyQuest | 299146 | [299146-jimmyquest.json](./299146-jimmyquest.json) |
@@ -282,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiwa: The Damned Soul | 327169 | [327169-jiwa-the-damned-soul.json](./327169-jiwa-the-damned-soul.json) |
 | Jixo 2: Summer Dreams - Collector's Edition | 362854 | [362854-jixo-2-summer-dreams-collectors-edition.json](./362854-jixo-2-summer-dreams-collectors-edition.json) |
 | Jixo 3: Hidden Horizons - Collector's Edition | 362853 | [362853-jixo-3-hidden-horizons-collectors-edition.json](./362853-jixo-3-hidden-horizons-collectors-edition.json) |
+| JJJ | 266790 | [266790-jjj.json](./266790-jjj.json) |
 | JK Assassins | 178648 | [178648-jk-assassins.json](./178648-jk-assassins.json) |
 | JNKBombers | 80605 | [80605-jnkbombers.json](./80605-jnkbombers.json) |
 | JNZ: Nightmare Girls | 340773 | [340773-jnz-nightmare-girls.json](./340773-jnz-nightmare-girls.json) |
