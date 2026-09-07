@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queeny Army | 126565 | [126565-queeny-army.json](./126565-queeny-army.json) |
 | Quell 4D | 25070 | [25070-quell-4d.json](./25070-quell-4d.json) |
 | Quern: Undying Thoughts | 26223 | [26223-quern-undying-thoughts.json](./26223-quern-undying-thoughts.json) |
+| Quest 2: The Ancient Temples | 266229 | [266229-quest-2-the-ancient-temples.json](./266229-quest-2-the-ancient-temples.json) |
 | Quest 64 "French Vanilla" | 248305 | [248305-quest-64-french-vanilla.json](./248305-quest-64-french-vanilla.json) |
 | Quest Adventure | 133444 | [133444-quest-adventure.json](./133444-quest-adventure.json) |
 | Quest Eternal | 290954 | [290954-quest-eternal.json](./290954-quest-eternal.json) |
