@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Wall Defense Force | 149566 | [149566-ultimate-wall-defense-force.json](./149566-ultimate-wall-defense-force.json) |
 | Ultionus: A Tale of Petty Revenge | 36408 | [36408-ultionus-a-tale-of-petty-revenge.json](./36408-ultionus-a-tale-of-petty-revenge.json) |
 | Ultire: Balls Out | 124259 | [124259-ultire-balls-out.json](./124259-ultire-balls-out.json) |
+| Ultra 2000 Series: Pac-Man | 284370 | [284370-ultra-2000-series-pac-man.json](./284370-ultra-2000-series-pac-man.json) |
 | Ultra 64 Mario Bros. | 294715 | [294715-ultra-64-mario-bros.json](./294715-ultra-64-mario-bros.json) |
 | Ultra Age: Rebirth Project | 224203 | [224203-ultra-age-rebirth-project.json](./224203-ultra-age-rebirth-project.json) |
 | Ultra Baseball Jitsumei-ban 3 | 37775 | [37775-ultra-baseball-jitsumei-ban-3.json](./37775-ultra-baseball-jitsumei-ban-3.json) |
