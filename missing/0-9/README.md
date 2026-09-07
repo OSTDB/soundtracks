@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0101: Counter Bonus Levels 3 | 325454 | [325454-0101-counter-bonus-levels-3.json](./325454-0101-counter-bonus-levels-3.json) |
 | 0101: Pusher Bonus Levels 3 | 325455 | [325455-0101-pusher-bonus-levels-3.json](./325455-0101-pusher-bonus-levels-3.json) |
 | 0927 | 316429 | [316429-0927.json](./316429-0927.json) |
+| 0th floor.: The Cursed Elevator To Floor Zero | 292535 | [292535-0th-floor-the-cursed-elevator-to-floor-zero.json](./292535-0th-floor-the-cursed-elevator-to-floor-zero.json) |
 | 1 Ball 1 Cup | 59435 | [59435-1-ball-1-cup.json](./59435-1-ball-1-cup.json) |
 | 1 Hop | 171045 | [171045-1-hop.json](./171045-1-hop.json) |
 | 1 Meter | 327613 | [327613-1-meter.json](./327613-1-meter.json) |
@@ -287,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Fusion | 308226 | [308226-2048-fusion.json](./308226-2048-fusion.json) |
 | 2048 Maniac | 317633 | [317633-2048-maniac.json](./317633-2048-maniac.json) |
 | 2048 Royal Cards | 190740 | [190740-2048-royal-cards.json](./190740-2048-royal-cards.json) |
+| 2048: Dungeons | 292516 | [292516-2048-dungeons.json](./292516-2048-dungeons.json) |
 | 204863 | 342678 | [342678-204863.json](./342678-204863.json) |
 | 209 | 316432 | [316432-209.json](./316432-209.json) |
 | 20th Century Trivia Challenge | 205826 | [205826-20th-century-trivia-challenge.json](./205826-20th-century-trivia-challenge.json) |
