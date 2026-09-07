@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enthralled | 239882 | [239882-enthralled.json](./239882-enthralled.json) |
 | Enthusia: Professional Racing | 19818 | [19818-enthusia-professional-racing.json](./19818-enthusia-professional-racing.json) |
 | Entity | 171620 | [171620-entity.json](./171620-entity.json) |
+| Entity: The Black Day | 260168 | [260168-entity-the-black-day.json](./260168-entity-the-black-day.json) |
 | Entropic Fracture | 369035 | [369035-entropic-fracture.json](./369035-entropic-fracture.json) |
 | Entropy | 188667 | [188667-entropy.json](./188667-entropy.json) |
 | Entropy | 363898 | [363898-entropy.json](./363898-entropy.json) |
@@ -738,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Lavender Island | 235991 | [235991-escape-from-lavender-island.json](./235991-escape-from-lavender-island.json) |
 | Escape from Moonbase Alpha | 330177 | [330177-escape-from-moonbase-alpha.json](./330177-escape-from-moonbase-alpha.json) |
 | Escape from Mutation Station | 320729 | [320729-escape-from-mutation-station.json](./320729-escape-from-mutation-station.json) |
+| Escape from Nalaxion | 260158 | [260158-escape-from-nalaxion.json](./260158-escape-from-nalaxion.json) |
 | Escape from Puzzlegate | 34373 | [34373-escape-from-puzzlegate.json](./34373-escape-from-puzzlegate.json) |
 | Escape From Roswell | 225901 | [225901-escape-from-roswell.json](./225901-escape-from-roswell.json) |
 | Escape From School: F.E.L.I.K | 235472 | [235472-escape-from-school-f-e-l-i-k.json](./235472-escape-from-school-f-e-l-i-k.json) |
