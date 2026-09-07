@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac Rabbit | 319590 | [319590-pac-rabbit.json](./319590-pac-rabbit.json) |
 | Pac-Boy & Mouse | 86097 | [86097-pac-boy-and-mouse.json](./86097-pac-boy-and-mouse.json) |
 | Pac-Man | 284317 | [284317-pac-man.json](./284317-pac-man.json) |
+| Pac-Man | 292000 | [292000-pac-man.json](./292000-pac-man.json) |
 | Pac-Man | 88904 | [88904-pac-man.json](./88904-pac-man.json) |
 | Pac-Man & Galaga Dimensions | 6861 | [6861-pac-man-and-galaga-dimensions.json](./6861-pac-man-and-galaga-dimensions.json) |
 | Pac-Man 256 | 14701 | [14701-pac-man-256.json](./14701-pac-man-256.json) |
@@ -55,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Padel Pro World Tour | 409553 | [409553-padel-pro-world-tour.json](./409553-padel-pro-world-tour.json) |
 | Paimordle | 243974 | [243974-paimordle.json](./243974-paimordle.json) |
 | Pain | 7387 | [7387-pain.json](./7387-pain.json) |
+| Pain is the Best Medicine | 292007 | [292007-pain-is-the-best-medicine.json](./292007-pain-is-the-best-medicine.json) |
 | Pain Train | 29911 | [29911-pain-train.json](./29911-pain-train.json) |
 | Paincult | 177022 | [177022-paincult.json](./177022-paincult.json) |
 | PainFighting | 255984 | [255984-painfighting.json](./255984-painfighting.json) |
@@ -126,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palm Tetris | 250599 | [250599-palm-tetris.json](./250599-palm-tetris.json) |
 | Palmon: Survival | 369018 | [369018-palmon-survival.json](./369018-palmon-survival.json) |
 | Palmyra Orphanage | 120719 | [120719-palmyra-orphanage.json](./120719-palmyra-orphanage.json) |
+| Palps | 292001 | [292001-palps.json](./292001-palps.json) |
 | Pals Go Only Up! | 295774 | [295774-pals-go-only-up.json](./295774-pals-go-only-up.json) |
 | PalWar | 371275 | [371275-palwar.json](./371275-palwar.json) |
 | Pam's HarvestCraft | 232682 | [232682-pams-harvestcraft.json](./232682-pams-harvestcraft.json) |
@@ -1220,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Club | 22478 | [22478-play-club.json](./22478-play-club.json) |
 | Play Dead! #2 | 183073 | [183073-play-dead-2.json](./183073-play-dead-2.json) |
 | Play Fire: Battle Royale | 221381 | [221381-play-fire-battle-royale.json](./221381-play-fire-battle-royale.json) |
+| Play for Love | 292008 | [292008-play-for-love.json](./292008-play-for-love.json) |
 | Play Room 0g | 111017 | [111017-play-room-0g.json](./111017-play-room-0g.json) |
 | Play Something Different Vol. 1 | 173788 | [173788-play-something-different-vol-1.json](./173788-play-something-different-vol-1.json) |
 | Play Tennis | 323171 | [323171-play-tennis.json](./323171-play-tennis.json) |
@@ -1334,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poison Heart | 308242 | [308242-poison-heart.json](./308242-poison-heart.json) |
 | Poké Everworld Online | 389447 | [389447-poke-everworld-online.json](./389447-poke-everworld-online.json) |
 | PokeFields | 414341 | [414341-pokefields.json](./414341-pokefields.json) |
+| Pokémath! | 291987 | [291987-pokemath.json](./291987-pokemath.json) |
 | Pokemomcore | 299120 | [299120-pokemomcore.json](./299120-pokemomcore.json) |
 | Pokémon | 221996 | [221996-pokemon.json](./221996-pokemon.json) |
 | Pokémon 2000 Adventure Game | 254167 | [254167-pokemon-2000-adventure-game.json](./254167-pokemon-2000-adventure-game.json) |
