@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Awakening of a Villainous Lady: A Crimson and Pure White Romance | 310208 | [310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json](./310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json) |
 | The Awesome Adventures of Victor Vector & Yondo: The Cyberplasm Formula | 72098 | [72098-the-awesome-adventures-of-victor-vector-and-yondo-the-cyberplasm-formula.json](./72098-the-awesome-adventures-of-victor-vector-and-yondo-the-cyberplasm-formula.json) |
 | The Axolotl Project | 60022 | [60022-the-axolotl-project.json](./60022-the-axolotl-project.json) |
+| The Backrooms Company | 293614 | [293614-the-backrooms-company.json](./293614-the-backrooms-company.json) |
 | The Backrooms Simulator | 121032 | [121032-the-backrooms-simulator.json](./121032-the-backrooms-simulator.json) |
 | The Backrooms World | 204671 | [204671-the-backrooms-world.json](./204671-the-backrooms-world.json) |
 | The Backrooms: Forsaken | 329584 | [329584-the-backrooms-forsaken.json](./329584-the-backrooms-forsaken.json) |
@@ -939,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Caped Crusader | 278715 | [278715-the-caped-crusader.json](./278715-the-caped-crusader.json) |
 | The Capitol Cheese Agreement | 307316 | [307316-the-capitol-cheese-agreement.json](./307316-the-capitol-cheese-agreement.json) |
 | The Captive | 362814 | [362814-the-captive.json](./362814-the-captive.json) |
+| The Carnival Of Company | 293632 | [293632-the-carnival-of-company.json](./293632-the-carnival-of-company.json) |
 | The Cartographer's Tale | 103509 | [103509-the-cartographers-tale.json](./103509-the-cartographers-tale.json) |
 | The Case of the Cautious Condor | 70968 | [70968-the-case-of-the-cautious-condor.json](./70968-the-case-of-the-cautious-condor.json) |
 | The Case of the Mysterious Maulings | 306959 | [306959-the-case-of-the-mysterious-maulings.json](./306959-the-case-of-the-mysterious-maulings.json) |
@@ -992,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cold Case | 302140 | [302140-the-cold-case.json](./302140-the-cold-case.json) |
 | The Cold Forest | 211946 | [211946-the-cold-forest.json](./211946-the-cold-forest.json) |
 | The Cold Hand Reef | 326980 | [326980-the-cold-hand-reef.json](./326980-the-cold-hand-reef.json) |
+| The Coldest Winter | 293617 | [293617-the-coldest-winter.json](./293617-the-coldest-winter.json) |
 | The Collar | 268230 | [268230-the-collar.json](./268230-the-collar.json) |
 | The Collection | 296390 | [296390-the-collection.json](./296390-the-collection.json) |
 | The Collector | 238210 | [238210-the-collector.json](./238210-the-collector.json) |
@@ -3165,6 +3168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobe's Hookshot Escape | 248880 | [248880-tobes-hookshot-escape.json](./248880-tobes-hookshot-escape.json) |
 | Toberu yo! Honoka-chan | 405509 | [405509-toberu-yo-honoka-chan.json](./405509-toberu-yo-honoka-chan.json) |
 | Toby | 378190 | [378190-toby.json](./378190-toby.json) |
+| Toby's Topsy Tale | 293615 | [293615-tobys-topsy-tale.json](./293615-tobys-topsy-tale.json) |
 | Toca Life World | 126005 | [126005-toca-life-world.json](./126005-toca-life-world.json) |
 | Toca Pisadinha | 237621 | [237621-toca-pisadinha.json](./237621-toca-pisadinha.json) |
 | TOCA Race Driver 2 | 246667 | [246667-toca-race-driver-2.json](./246667-toca-race-driver-2.json) |
@@ -3792,6 +3796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap for Winners | 115687 | [115687-trap-for-winners.json](./115687-trap-for-winners.json) |
 | Trap of Musk: Asia Night | 235481 | [235481-trap-of-musk-asia-night.json](./235481-trap-of-musk-asia-night.json) |
 | Trap of Musk: Europe Night | 237046 | [237046-trap-of-musk-europe-night.json](./237046-trap-of-musk-europe-night.json) |
+| Trap Trek: Ultimate Other Me | 293619 | [293619-trap-trek-ultimate-other-me.json](./293619-trap-trek-ultimate-other-me.json) |
 | Trapnoid 2 | 109743 | [109743-trapnoid-2.json](./109743-trapnoid-2.json) |
 | Trapped Beast | 339106 | [339106-trapped-beast.json](./339106-trapped-beast.json) |
 | Trapped Dead: Lockdown | 17508 | [17508-trapped-dead-lockdown.json](./17508-trapped-dead-lockdown.json) |
@@ -4066,6 +4071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truth: Disorder II | 98985 | [98985-truth-disorder-ii.json](./98985-truth-disorder-ii.json) |
 | Truth: Disorder III - Gemini | 116786 | [116786-truth-disorder-iii-gemini.json](./116786-truth-disorder-iii-gemini.json) |
 | Truxton Extreme | 287620 | [287620-truxton-extreme.json](./287620-truxton-extreme.json) |
+| Truxton II | 293647 | [293647-truxton-ii.json](./293647-truxton-ii.json) |
 | Truxton II | 39662 | [39662-truxton-ii.json](./39662-truxton-ii.json) |
 | Try Again | 249388 | [249388-try-again.json](./249388-try-again.json) |
 | Try to Survive | 116552 | [116552-try-to-survive.json](./116552-try-to-survive.json) |
