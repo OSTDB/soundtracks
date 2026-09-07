@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmagedon | 340416 | [340416-harmagedon.json](./340416-harmagedon.json) |
 | HarmoKnight | 18156 | [18156-harmoknight.json](./18156-harmoknight.json) |
 | Harpoon Classic '97 | 365063 | [365063-harpoon-classic-97.json](./365063-harpoon-classic-97.json) |
+| Harpoon Lagoon | 309332 | [309332-harpoon-lagoon.json](./309332-harpoon-lagoon.json) |
 | Harpoon Reef Hunter | 253570 | [253570-harpoon-reef-hunter.json](./253570-harpoon-reef-hunter.json) |
 | Harpy | 412265 | [412265-harpy.json](./412265-harpy.json) |
 | Harpy's Curse | 332393 | [332393-harpys-curse.json](./332393-harpys-curse.json) |
@@ -742,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heros Survival | 304898 | [304898-heros-survival.json](./304898-heros-survival.json) |
 | Heros: The Sanguine Seven | 140621 | [140621-heros-the-sanguine-seven.json](./140621-heros-the-sanguine-seven.json) |
 | HerrAnwalt: Lawyers Legacy | 224233 | [224233-herranwalt-lawyers-legacy.json](./224233-herranwalt-lawyers-legacy.json) |
+| Herta's Chess Game | 309371 | [309371-hertas-chess-game.json](./309371-hertas-chess-game.json) |
 | HesGames | 84269 | [84269-hesgames.json](./84269-hesgames.json) |
 | Hesperian Wars | 229367 | [229367-hesperian-wars.json](./229367-hesperian-wars.json) |
 | Heterodox | 147484 | [147484-heterodox.json](./147484-heterodox.json) |
