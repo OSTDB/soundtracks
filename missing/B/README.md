@@ -586,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Spirits: Kiseki no Hasha | 56516 | [56516-battle-spirits-kiseki-no-hasha.json](./56516-battle-spirits-kiseki-no-hasha.json) |
 | Battle Squares | 322008 | [322008-battle-squares.json](./322008-battle-squares.json) |
 | Battle Talent | 163454 | [163454-battle-talent.json](./163454-battle-talent.json) |
+| Battle Talent: Multiplayer Update | 306952 | [306952-battle-talent-multiplayer-update.json](./306952-battle-talent-multiplayer-update.json) |
 | Battle Tanks: Arena | 240476 | [240476-battle-tanks-arena.json](./240476-battle-tanks-arena.json) |
 | Battle Tap Tap | 233239 | [233239-battle-tap-tap.json](./233239-battle-tap-tap.json) |
 | Battle Teams 2: Wishlist Pack | 310384 | [310384-battle-teams-2-wishlist-pack.json](./310384-battle-teams-2-wishlist-pack.json) |
@@ -1396,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block-O-Mania | 57090 | [57090-block-o-mania.json](./57090-block-o-mania.json) |
 | Blockade Runner | 23864 | [23864-blockade-runner.json](./23864-blockade-runner.json) |
 | Blockade Runner | 297244 | [297244-blockade-runner.json](./297244-blockade-runner.json) |
+| Blockage | 306966 | [306966-blockage.json](./306966-blockage.json) |
 | Blockbuster Inc. | 189965 | [189965-blockbuster-inc.json](./189965-blockbuster-inc.json) |
 | Blockdown | 157204 | [157204-blockdown.json](./157204-blockdown.json) |
 | Blocker Survive | 75849 | [75849-blocker-survive.json](./75849-blocker-survive.json) |
@@ -1766,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash: 30th Anniversary | 25569 | [25569-boulder-dash-30th-anniversary.json](./25569-boulder-dash-30th-anniversary.json) |
 | Boulder Match 4 | 66673 | [66673-boulder-match-4.json](./66673-boulder-match-4.json) |
 | Boulderdash | 47237 | [47237-boulderdash.json](./47237-boulderdash.json) |
+| Bounce Arcade | 306945 | [306945-bounce-arcade.json](./306945-bounce-arcade.json) |
 | Bounce Ball | 68653 | [68653-bounce-ball.json](./68653-bounce-ball.json) |
 | Bounce Boing Voyage | 245006 | [245006-bounce-boing-voyage.json](./245006-bounce-boing-voyage.json) |
 | Bounce Cat | 352747 | [352747-bounce-cat.json](./352747-bounce-cat.json) |
@@ -2345,6 +2348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz!: Quiz TV Special Edition | 268768 | [268768-buzz-quiz-tv-special-edition.json](./268768-buzz-quiz-tv-special-edition.json) |
 | Buzzy's World Tour | 336545 | [336545-buzzys-world-tour.json](./336545-buzzys-world-tour.json) |
 | BvB: Burglars vs. Brats | 275875 | [275875-bvb-burglars-vs-brats.json](./275875-bvb-burglars-vs-brats.json) |
+| By Grit Alone | 306947 | [306947-by-grit-alone.json](./306947-by-grit-alone.json) |
 | By the King's Command | 399008 | [399008-by-the-kings-command.json](./399008-by-the-kings-command.json) |
 | Byflvgvr | 306686 | [306686-byflvgvr.json](./306686-byflvgvr.json) |
 | Bygone Worlds: Jerusalem | 74446 | [74446-bygone-worlds-jerusalem.json](./74446-bygone-worlds-jerusalem.json) |
