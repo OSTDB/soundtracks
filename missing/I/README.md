@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion of The Halloween Fiends | 318436 | [318436-invasion-of-the-halloween-fiends.json](./318436-invasion-of-the-halloween-fiends.json) |
 | Invaxion | 109323 | [109323-invaxion.json](./109323-invaxion.json) |
 | Invector: Rhythm Galaxy - Latin Power Song Pack | 265249 | [265249-invector-rhythm-galaxy-latin-power-song-pack.json](./265249-invector-rhythm-galaxy-latin-power-song-pack.json) |
+| Invention 4 | 261778 | [261778-invention-4.json](./261778-invention-4.json) |
 | Invention 6 | 340759 | [340759-invention-6.json](./340759-invention-6.json) |
 | Invention 7 | 340760 | [340760-invention-7.json](./340760-invention-7.json) |
 | Inventor Labs | 94242 | [94242-inventor-labs.json](./94242-inventor-labs.json) |
@@ -903,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Truck Driver | 296941 | [296941-isekai-truck-driver.json](./296941-isekai-truck-driver.json) |
 | Isekai Valley | 296944 | [296944-isekai-valley.json](./296944-isekai-valley.json) |
 | Isekai x Isekai: Tsugi ha Dono Sakuhin wo | 367445 | [367445-isekai-x-isekai-tsugi-ha-dono-sakuhin-wo.json](./367445-isekai-x-isekai-tsugi-ha-dono-sakuhin-wo.json) |
+| Isekai: Slow Life | 261796 | [261796-isekai-slow-life.json](./261796-isekai-slow-life.json) |
 | Isekaing: From Zero to Zero | 323548 | [323548-isekaing-from-zero-to-zero.json](./323548-isekaing-from-zero-to-zero.json) |
 | ISEPS Idle Particle Simulator | 256524 | [256524-iseps-idle-particle-simulator.json](./256524-iseps-idle-particle-simulator.json) |
 | Iseran: Isekai Rantou | 257675 | [257675-iseran-isekai-rantou.json](./257675-iseran-isekai-rantou.json) |
