@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFL | 165352 | [165352-ufl.json](./165352-ufl.json) |
 | UFO | 100199 | [100199-ufo.json](./100199-ufo.json) |
 | UFO Enemy Known | 310768 | [310768-ufo-enemy-known.json](./310768-ufo-enemy-known.json) |
+| UFO Ride | 294725 | [294725-ufo-ride.json](./294725-ufo-ride.json) |
 | UFO: Alien Invasion | 47271 | [47271-ufo-alien-invasion.json](./47271-ufo-alien-invasion.json) |
 | UFO: The Ranch | 248886 | [248886-ufo-the-ranch.json](./248886-ufo-the-ranch.json) |
 | Ug! Caveman Game | 198528 | [198528-ug-caveman-game.json](./198528-ug-caveman-game.json) |
@@ -105,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Wall Defense Force | 149566 | [149566-ultimate-wall-defense-force.json](./149566-ultimate-wall-defense-force.json) |
 | Ultionus: A Tale of Petty Revenge | 36408 | [36408-ultionus-a-tale-of-petty-revenge.json](./36408-ultionus-a-tale-of-petty-revenge.json) |
 | Ultire: Balls Out | 124259 | [124259-ultire-balls-out.json](./124259-ultire-balls-out.json) |
+| Ultra 64 Mario Bros. | 294715 | [294715-ultra-64-mario-bros.json](./294715-ultra-64-mario-bros.json) |
 | Ultra Age: Rebirth Project | 224203 | [224203-ultra-age-rebirth-project.json](./224203-ultra-age-rebirth-project.json) |
 | Ultra Baseball Jitsumei-ban 3 | 37775 | [37775-ultra-baseball-jitsumei-ban-3.json](./37775-ultra-baseball-jitsumei-ban-3.json) |
 | Ultra Bonk Survivors | 378181 | [378181-ultra-bonk-survivors.json](./378181-ultra-bonk-survivors.json) |
@@ -181,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncle's Casino | 78674 | [78674-uncles-casino.json](./78674-uncles-casino.json) |
 | Uncolor for iPad | 108460 | [108460-uncolor-for-ipad.json](./108460-uncolor-for-ipad.json) |
 | Uncommon Valor: Campaign for the South Pacific | 69881 | [69881-uncommon-valor-campaign-for-the-south-pacific.json](./69881-uncommon-valor-campaign-for-the-south-pacific.json) |
+| Uncompromising Mode | 294684 | [294684-uncompromising-mode.json](./294684-uncompromising-mode.json) |
 | Uncover | 316427 | [316427-uncover.json](./316427-uncover.json) |
 | Undawn: Desert Fury | 262700 | [262700-undawn-desert-fury.json](./262700-undawn-desert-fury.json) |
 | Undead Blackout | 34425 | [34425-undead-blackout.json](./34425-undead-blackout.json) |
