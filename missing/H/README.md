@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamlet in a Pond | 306081 | [306081-hamlet-in-a-pond.json](./306081-hamlet-in-a-pond.json) |
 | Hammer & Potion | 215351 | [215351-hammer-and-potion.json](./215351-hammer-and-potion.json) |
 | Hammer climber - Hard Get Over | 105944 | [105944-hammer-climber-hard-get-over.json](./105944-hammer-climber-hard-get-over.json) |
+| Hammer Joe | 307586 | [307586-hammer-joe.json](./307586-hammer-joe.json) |
 | Hammer Kid | 187490 | [187490-hammer-kid.json](./187490-hammer-kid.json) |
 | Hammer time! | 178089 | [178089-hammer-time.json](./178089-hammer-time.json) |
 | Hammerwatch | 7891 | [7891-hammerwatch.json](./7891-hammerwatch.json) |
@@ -941,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hikikomori No Chuunibyou | 32072 | [32072-hikikomori-no-chuunibyou.json](./32072-hikikomori-no-chuunibyou.json) |
 | Hillbilly Apocalypse | 111709 | [111709-hillbilly-apocalypse.json](./111709-hillbilly-apocalypse.json) |
 | Hills & Hollows | 141876 | [141876-hills-and-hollows.json](./141876-hills-and-hollows.json) |
+| Hills in the Moonlight | 307587 | [307587-hills-in-the-moonlight.json](./307587-hills-in-the-moonlight.json) |
 | Hilltop Hotrods | 233231 | [233231-hilltop-hotrods.json](./233231-hilltop-hotrods.json) |
 | Him & Her: Her Challenges | 238195 | [238195-him-and-her-her-challenges.json](./238195-him-and-her-her-challenges.json) |
 | Himawari Catastrophe! | 333912 | [333912-himawari-catastrophe.json](./333912-himawari-catastrophe.json) |
@@ -1277,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Mario ReBooked | 321398 | [321398-hotel-mario-rebooked.json](./321398-hotel-mario-rebooked.json) |
 | Hotel of the Dead | 274749 | [274749-hotel-of-the-dead.json](./274749-hotel-of-the-dead.json) |
 | Hotel Security | 339846 | [339846-hotel-security.json](./339846-hotel-security.json) |
+| Hotel Simulator 2024 | 307567 | [307567-hotel-simulator-2024.json](./307567-hotel-simulator-2024.json) |
 | Hotel Simulator 2026 | 390536 | [390536-hotel-simulator-2026.json](./390536-hotel-simulator-2026.json) |
 | Hotel Story | 224754 | [224754-hotel-story.json](./224754-hotel-story.json) |
 | Hotel Tales | 333351 | [333351-hotel-tales.json](./333351-hotel-tales.json) |
