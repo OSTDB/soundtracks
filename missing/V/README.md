@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veer | 34384 | [34384-veer.json](./34384-veer.json) |
 | Vegas Casino & Slots: Slottist | 364505 | [364505-vegas-casino-and-slots-slottist.json](./364505-vegas-casino-and-slots-slottist.json) |
 | Vegas Games 2000 | 46639 | [46639-vegas-games-2000.json](./46639-vegas-games-2000.json) |
+| Vegas Infinite | 277301 | [277301-vegas-infinite.json](./277301-vegas-infinite.json) |
 | Vegas Stakes | 85469 | [85469-vegas-stakes.json](./85469-vegas-stakes.json) |
 | Veggie Eggs | 373561 | [373561-veggie-eggs.json](./373561-veggie-eggs.json) |
 | Veggie Killer | 86334 | [86334-veggie-killer.json](./86334-veggie-killer.json) |
@@ -459,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Destroyer 2: Ashes | 168377 | [168377-void-destroyer-2-ashes.json](./168377-void-destroyer-2-ashes.json) |
 | Void Destroyer 2: Big Red | 168376 | [168376-void-destroyer-2-big-red.json](./168376-void-destroyer-2-big-red.json) |
 | Void Encounter | 172185 | [172185-void-encounter.json](./172185-void-encounter.json) |
+| Void Guard | 277276 | [277276-void-guard.json](./277276-void-guard.json) |
 | Void Inside | 282023 | [282023-void-inside.json](./282023-void-inside.json) |
 | Void Light | 387363 | [387363-void-light.json](./387363-void-light.json) |
 | Void Martyrs | 335686 | [335686-void-martyrs.json](./335686-void-martyrs.json) |
