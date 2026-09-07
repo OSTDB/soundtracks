@@ -1159,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WpnFire | 345516 | [345516-wpnfire.json](./345516-wpnfire.json) |
 | Wrack | 5596 | [5596-wrack.json](./5596-wrack.json) |
 | Wrack: Exoverse | 87560 | [87560-wrack-exoverse.json](./87560-wrack-exoverse.json) |
+| Wrain | 302348 | [302348-wrain.json](./302348-wrain.json) |
 | Wraith | 125994 | [125994-wraith.json](./125994-wraith.json) |
 | Wraith VR | 187515 | [187515-wraith-vr.json](./187515-wraith-vr.json) |
 | Wrap The Zap | 392786 | [392786-wrap-the-zap.json](./392786-wrap-the-zap.json) |
