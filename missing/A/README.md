@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abermore | 191621 | [191621-abermore.json](./191621-abermore.json) |
 | Abha | 111036 | [111036-abha.json](./111036-abha.json) |
 | Abi and the soul | 153988 | [153988-abi-and-the-soul.json](./153988-abi-and-the-soul.json) |
+| ABI-DOS | 293628 | [293628-abi-dos.json](./293628-abi-dos.json) |
 | Abigor | 210899 | [210899-abigor.json](./210899-abigor.json) |
 | Abiko the Miko 2 | 161360 | [161360-abiko-the-miko-2.json](./161360-abiko-the-miko-2.json) |
 | Ability Draft | 109031 | [109031-ability-draft.json](./109031-ability-draft.json) |
@@ -2462,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axios Football | 338173 | [338173-axios-football.json](./338173-axios-football.json) |
 | Axium's Box | 235453 | [235453-axiums-box.json](./235453-axiums-box.json) |
 | Axom: Conquest | 333357 | [333357-axom-conquest.json](./333357-axom-conquest.json) |
+| Axyz | 293648 | [293648-axyz.json](./293648-axyz.json) |
 | Ayakashi & Sweets | 298879 | [298879-ayakashi-and-sweets.json](./298879-ayakashi-and-sweets.json) |
 | Ayakashi Rumble | 208034 | [208034-ayakashi-rumble.json](./208034-ayakashi-rumble.json) |
 | Ayakashibito: Genyou Ibunroku | 56521 | [56521-ayakashibito-genyou-ibunroku.json](./56521-ayakashibito-genyou-ibunroku.json) |
