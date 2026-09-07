@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.E.R.O. | 6112 | [6112-h-e-r-o.json](./6112-h-e-r-o.json) |
 | H@ck3r++ | 179191 | [179191-h-ck3r.json](./179191-h-ck3r.json) |
 | H2O: Footprints in the Sand | 72719 | [72719-h2o-footprints-in-the-sand.json](./72719-h2o-footprints-in-the-sand.json) |
+| H7N9 | 305752 | [305752-h7n9.json](./305752-h7n9.json) |
 | H8machine | 210868 | [210868-h8machine.json](./210868-h8machine.json) |
 | Ha_Bits | 170537 | [170537-ha-bits.json](./170537-ha-bits.json) |
 | Ha/ck | 113710 | [113710-ha-ck.json](./113710-ha-ck.json) |
@@ -1071,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Avenger | 30916 | [30916-holy-avenger.json](./30916-holy-avenger.json) |
 | Holy Beast Online | 338213 | [338213-holy-beast-online.json](./338213-holy-beast-online.json) |
 | Holy Cow! Milking Simulator | 118390 | [118390-holy-cow-milking-simulator.json](./118390-holy-cow-milking-simulator.json) |
+| Holy Grain | 305778 | [305778-holy-grain.json](./305778-holy-grain.json) |
 | Holy Horror Mansion | 317593 | [317593-holy-horror-mansion.json](./317593-holy-horror-mansion.json) |
 | Holy Knight Bitch | 82902 | [82902-holy-knight-bitch.json](./82902-holy-knight-bitch.json) |
 | Holy Potatoes! A Weapon Shop?!: Spud Tales - Journey to Olympus | 124836 | [124836-holy-potatoes-a-weapon-shop-spud-tales-journey-to-olympus.json](./124836-holy-potatoes-a-weapon-shop-spud-tales-journey-to-olympus.json) |
@@ -1098,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home trip | 262103 | [262103-home-trip.json](./262103-home-trip.json) |
 | Home Wars | 43334 | [43334-home-wars.json](./43334-home-wars.json) |
 | Home: Boov Pop! | 344931 | [344931-home-boov-pop.json](./344931-home-boov-pop.json) |
+| Home: Mother | 305762 | [305762-home-mother.json](./305762-home-mother.json) |
 | Homebound Mariana | 302124 | [302124-homebound-mariana.json](./302124-homebound-mariana.json) |
 | Homecoming: Kitaku | 323708 | [323708-homecoming-kitaku.json](./323708-homecoming-kitaku.json) |
 | Homefront: The Rock Map Pack | 224224 | [224224-homefront-the-rock-map-pack.json](./224224-homefront-the-rock-map-pack.json) |
