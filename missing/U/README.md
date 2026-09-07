@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercraft | 331345 | [331345-undercraft.json](./331345-undercraft.json) |
 | Underdog Detective | 198551 | [198551-underdog-detective.json](./198551-underdog-detective.json) |
 | Underfell Neutral Run | 335065 | [335065-underfell-neutral-run.json](./335065-underfell-neutral-run.json) |
+| Undergod | 276153 | [276153-undergod.json](./276153-undergod.json) |
 | Underground 2077 | 174858 | [174858-underground-2077.json](./174858-underground-2077.json) |
 | Underground Dungeon | 192418 | [192418-underground-dungeon.json](./192418-underground-dungeon.json) |
 | Underground Prisoner | 310178 | [310178-underground-prisoner.json](./310178-underground-prisoner.json) |
@@ -309,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universal Combat | 70975 | [70975-universal-combat.json](./70975-universal-combat.json) |
 | Universal Conquest | 258741 | [258741-universal-conquest.json](./258741-universal-conquest.json) |
 | Universal Nuts | 91955 | [91955-universal-nuts.json](./91955-universal-nuts.json) |
+| Universal Power | 276154 | [276154-universal-power.json](./276154-universal-power.json) |
 | Universal Slot Street | 220297 | [220297-universal-slot-street.json](./220297-universal-slot-street.json) |
 | Universe 25: The Loop | 171072 | [171072-universe-25-the-loop.json](./171072-universe-25-the-loop.json) |
 | Universe of Trials | 318789 | [318789-universe-of-trials.json](./318789-universe-of-trials.json) |
