@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into The Wild | 377583 | [377583-into-the-wild.json](./377583-into-the-wild.json) |
 | Intrana | 310207 | [310207-intrana.json](./310207-intrana.json) |
 | Intrepid | 112999 | [112999-intrepid.json](./112999-intrepid.json) |
+| Intrepid | 297485 | [297485-intrepid.json](./297485-intrepid.json) |
 | Introspectus | 398353 | [398353-introspectus.json](./398353-introspectus.json) |
 | Intruder | 313504 | [313504-intruder.json](./313504-intruder.json) |
 | Intruder | 378208 | [378208-intruder.json](./378208-intruder.json) |
