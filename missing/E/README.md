@@ -743,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternals' Path | 249999 | [249999-eternals-path.json](./249999-eternals-path.json) |
 | Eternia: Chronicles of Meranthe | 215366 | [215366-eternia-chronicles-of-meranthe.json](./215366-eternia-chronicles-of-meranthe.json) |
 | Eternity Convergence | 156135 | [156135-eternity-convergence.json](./156135-eternity-convergence.json) |
+| Ether | 311502 | [311502-ether.json](./311502-ether.json) |
 | Ether Loop | 126735 | [126735-ether-loop.json](./126735-ether-loop.json) |
 | Ethereal: Clash of Souls | 127325 | [127325-ethereal-clash-of-souls.json](./127325-ethereal-clash-of-souls.json) |
 | Etherium | 401481 | [401481-etherium.json](./401481-etherium.json) |
