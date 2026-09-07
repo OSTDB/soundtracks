@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic 4 | 3914 | [3914-fantastic-4.json](./3914-fantastic-4.json) |
 | Fantastic 4 in a Row HD | 70407 | [70407-fantastic-4-in-a-row-hd.json](./70407-fantastic-4-in-a-row-hd.json) |
 | Fantastic Four: Rise of the Silver Surfer | 197930 | [197930-fantastic-four-rise-of-the-silver-surfer.json](./197930-fantastic-four-rise-of-the-silver-surfer.json) |
+| Fantastic Frolic | 301260 | [301260-fantastic-frolic.json](./301260-fantastic-frolic.json) |
 | Fantastic Journey | 38391 | [38391-fantastic-journey.json](./38391-fantastic-journey.json) |
 | Fantastic Kingdom | 120421 | [120421-fantastic-kingdom.json](./120421-fantastic-kingdom.json) |
 | Fantasy & Blade | 119021 | [119021-fantasy-and-blade.json](./119021-fantasy-and-blade.json) |
@@ -501,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fergus the Fly | 29641 | [29641-fergus-the-fly.json](./29641-fergus-the-fly.json) |
 | Feria 3000 | 391057 | [391057-feria-3000.json](./391057-feria-3000.json) |
 | Feria d'Arles | 126394 | [126394-feria-darles.json](./126394-feria-darles.json) |
+| Fern Light | 301247 | [301247-fern-light.json](./301247-fern-light.json) |
 | Fernageddon | 258196 | [258196-fernageddon.json](./258196-fernageddon.json) |
 | Fernbus Simulator: Denmark | 254769 | [254769-fernbus-simulator-denmark.json](./254769-fernbus-simulator-denmark.json) |
 | Fernocity | 272014 | [272014-fernocity.json](./272014-fernocity.json) |
@@ -1599,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier | 162905 | [162905-frontier.json](./162905-frontier.json) |
 | Frontier Force Vanguard | 337478 | [337478-frontier-force-vanguard.json](./337478-frontier-force-vanguard.json) |
 | Frontier Legends | 319390 | [319390-frontier-legends.json](./319390-frontier-legends.json) |
+| Frontier Mayhem | 301288 | [301288-frontier-mayhem.json](./301288-frontier-mayhem.json) |
 | Frontier Mech: Ash Walkers | 356075 | [356075-frontier-mech-ash-walkers.json](./356075-frontier-mech-ash-walkers.json) |
 | Frontier: Elite II | 2953 | [2953-frontier-elite-ii.json](./2953-frontier-elite-ii.json) |
 | Frontiers | 14081 | [14081-frontiers.json](./14081-frontiers.json) |
@@ -1687,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Throttle: Hell on Wheels | 72722 | [72722-full-throttle-hell-on-wheels.json](./72722-full-throttle-hell-on-wheels.json) |
 | Full Voice Throttle | 181352 | [181352-full-voice-throttle.json](./181352-full-voice-throttle.json) |
 | Fullmetal Alchemist: To the Promised Day | 62757 | [62757-fullmetal-alchemist-to-the-promised-day.json](./62757-fullmetal-alchemist-to-the-promised-day.json) |
+| Fully Dogomatic | 301289 | [301289-fully-dogomatic.json](./301289-fully-dogomatic.json) |
 | Fúlóng: Tiānyuán Jìnglèi | 124214 | [124214-fulong-tianyuan-jinglei.json](./124214-fulong-tianyuan-jinglei.json) |
 | Fuman Ghoul | 399007 | [399007-fuman-ghoul.json](./399007-fuman-ghoul.json) |
 | Fumpers 2: Dual Realms | 384508 | [384508-fumpers-2-dual-realms.json](./384508-fumpers-2-dual-realms.json) |
