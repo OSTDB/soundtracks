@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veggie Tales 3D | 269838 | [269838-veggie-tales-3d.json](./269838-veggie-tales-3d.json) |
 | VeggieTales: LarryBoy and the Bad Apple | 49374 | [49374-veggietales-larryboy-and-the-bad-apple.json](./49374-veggietales-larryboy-and-the-bad-apple.json) |
 | Veil Runners | 310932 | [310932-veil-runners.json](./310932-veil-runners.json) |
+| Veil: Tactics | 304619 | [304619-veil-tactics.json](./304619-veil-tactics.json) |
 | Veiled Edge | 253596 | [253596-veiled-edge.json](./253596-veiled-edge.json) |
 | Veilwalkers | 349308 | [349308-veilwalkers.json](./349308-veilwalkers.json) |
 | Vein Hotel | 102180 | [102180-vein-hotel.json](./102180-vein-hotel.json) |
@@ -461,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voivod: The Nuclear Warrior | 339785 | [339785-voivod-the-nuclear-warrior.json](./339785-voivod-the-nuclear-warrior.json) |
 | Vol'Talkes - The AI War | 35846 | [35846-voltalkes-the-ai-war.json](./35846-voltalkes-the-ai-war.json) |
 | Volara | 339792 | [339792-volara.json](./339792-volara.json) |
+| Volcanewt | 304572 | [304572-volcanewt.json](./304572-volcanewt.json) |
 | Volcania Peaks | 254120 | [254120-volcania-peaks.json](./254120-volcania-peaks.json) |
 | Volcanic Blocks | 146918 | [146918-volcanic-blocks.json](./146918-volcanic-blocks.json) |
 | Volcanic Field 2 | 85477 | [85477-volcanic-field-2.json](./85477-volcanic-field-2.json) |
