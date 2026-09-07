@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z Juice | 311812 | [311812-z-juice.json](./311812-z-juice.json) |
 | Z Line | 254152 | [254152-z-line.json](./254152-z-line.json) |
 | Z Rush | 304579 | [304579-z-rush.json](./304579-z-rush.json) |
+| Z-Ape: Tower Defense | 304009 | [304009-z-ape-tower-defense.json](./304009-z-ape-tower-defense.json) |
 | Z-axys | 102210 | [102210-z-axys.json](./102210-z-axys.json) |
 | Z-Grav: Clash | 263222 | [263222-z-grav-clash.json](./263222-z-grav-clash.json) |
 | Z-MMO | 55919 | [55919-z-mmo.json](./55919-z-mmo.json) |
@@ -130,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zipple World 2: The Sweet Chaos | 33052 | [33052-zipple-world-2-the-sweet-chaos.json](./33052-zipple-world-2-the-sweet-chaos.json) |
 | Zippy Zombi | 73813 | [73813-zippy-zombi.json](./73813-zippy-zombi.json) |
 | Zjawa: Bloodstained Soul | 374587 | [374587-zjawa-bloodstained-soul.json](./374587-zjawa-bloodstained-soul.json) |
+| Zlin City: Arch Moderna | 304008 | [304008-zlin-city-arch-moderna.json](./304008-zlin-city-arch-moderna.json) |
 | Zlorp Adventures | 328999 | [328999-zlorp-adventures.json](./328999-zlorp-adventures.json) |
 | Zodiac Online | 93558 | [93558-zodiac-online.json](./93558-zodiac-online.json) |
 | Zodiac Paradigm | 353874 | [353874-zodiac-paradigm.json](./353874-zodiac-paradigm.json) |
