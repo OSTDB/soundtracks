@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parfait Fan Box | 332428 | [332428-parfait-fan-box.json](./332428-parfait-fan-box.json) |
 | Pari Delicto | 384531 | [384531-pari-delicto.json](./384531-pari-delicto.json) |
 | Paris Belle Epoque | 303270 | [303270-paris-belle-epoque.json](./303270-paris-belle-epoque.json) |
+| Paris Saint-Germain Club Football 2005 | 267911 | [267911-paris-saint-germain-club-football-2005.json](./267911-paris-saint-germain-club-football-2005.json) |
 | Paris Transylvania | 258189 | [258189-paris-transylvania.json](./258189-paris-transylvania.json) |
 | Paris: Jigsaw Puzzles | 104078 | [104078-paris-jigsaw-puzzles.json](./104078-paris-jigsaw-puzzles.json) |
 | Parisian Brasserie Simulator | 326380 | [326380-parisian-brasserie-simulator.json](./326380-parisian-brasserie-simulator.json) |
@@ -542,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Wars | 392168 | [392168-penguin-wars.json](./392168-penguin-wars.json) |
 | Penguins vs. Bugs | 122402 | [122402-penguins-vs-bugs.json](./122402-penguins-vs-bugs.json) |
 | Pengwyn | 13745 | [13745-pengwyn.json](./13745-pengwyn.json) |
+| Penky | 267937 | [267937-penky.json](./267937-penky.json) |
 | Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness - Episode Two | 14917 | [14917-penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-two.json](./14917-penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-two.json) |
 | Penny RPG: Shadows of the Lost - A Blood City Tale | 149611 | [149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json](./149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json) |
 | Penrose | 262681 | [262681-penrose.json](./262681-penrose.json) |
@@ -1640,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popoposan | 329555 | [329555-popoposan.json](./329555-popoposan.json) |
 | PoPoRoGue | 79937 | [79937-poporogue.json](./79937-poporogue.json) |
 | Poppit! Party | 354993 | [354993-poppit-party.json](./354993-poppit-party.json) |
+| Poppy Birds | 267955 | [267955-poppy-birds.json](./267955-poppy-birds.json) |
 | Poppy It! Playtime | 281420 | [281420-poppy-it-playtime.json](./281420-poppy-it-playtime.json) |
 | Poppy Kart 2 | 366248 | [366248-poppy-kart-2.json](./366248-poppy-kart-2.json) |
 | Poppy Playtime Toybox Bundle 1 | 375863 | [375863-poppy-playtime-toybox-bundle-1.json](./375863-poppy-playtime-toybox-bundle-1.json) |
