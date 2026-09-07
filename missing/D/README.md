@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Note: Killer Within | 320363 | [320363-death-note-killer-within.json](./320363-death-note-killer-within.json) |
 | Death Note: Kira Game | 22388 | [22388-death-note-kira-game.json](./22388-death-note-kira-game.json) |
 | Death Note: Successors to L | 22389 | [22389-death-note-successors-to-l.json](./22389-death-note-successors-to-l.json) |
+| Death of the Artificer | 299727 | [299727-death-of-the-artificer.json](./299727-death-of-the-artificer.json) |
 | Death of the Augnob | 251198 | [251198-death-of-the-augnob.json](./251198-death-of-the-augnob.json) |
 | Death of the King | 314040 | [314040-death-of-the-king.json](./314040-death-of-the-king.json) |
 | Death Park 2: Horror Clown | 251232 | [251232-death-park-2-horror-clown.json](./251232-death-park-2-horror-clown.json) |
@@ -557,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decaying Wires | 335657 | [335657-decaying-wires.json](./335657-decaying-wires.json) |
 | December 3rd | 392758 | [392758-december-3rd.json](./392758-december-3rd.json) |
 | Decimated | 206358 | [206358-decimated.json](./206358-decimated.json) |
+| Decision | 299762 | [299762-decision.json](./299762-decision.json) |
 | Deck Collector | 404827 | [404827-deck-collector.json](./404827-deck-collector.json) |
 | Deck Hunter | 106418 | [106418-deck-hunter.json](./106418-deck-hunter.json) |
 | Deck of Souls | 252356 | [252356-deck-of-souls.json](./252356-deck-of-souls.json) |
@@ -985,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diaball | 176485 | [176485-diaball.json](./176485-diaball.json) |
 | Diabetor & The Sugar Monsters | 278736 | [278736-diabetor-and-the-sugar-monsters.json](./278736-diabetor-and-the-sugar-monsters.json) |
 | Diablo II: Resurrected - Prime Evil Collection | 155099 | [155099-diablo-ii-resurrected-prime-evil-collection.json](./155099-diablo-ii-resurrected-prime-evil-collection.json) |
+| Diablo IV: Loot Reborn | 299726 | [299726-diablo-iv-loot-reborn.json](./299726-diablo-iv-loot-reborn.json) |
 | Diablo IV: Lord of Hatred | 381239 | [381239-diablo-iv-lord-of-hatred.json](./381239-diablo-iv-lord-of-hatred.json) |
 | Diablo IV: Sins of the Horadrim | 352222 | [352222-diablo-iv-sins-of-the-horadrim.json](./352222-diablo-iv-sins-of-the-horadrim.json) |
 | Diablo IV: Vessel of Hatred | 275171 | [275171-diablo-iv-vessel-of-hatred.json](./275171-diablo-iv-vessel-of-hatred.json) |
@@ -1044,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die kleine Lokomotive und ihre Freunde | 81401 | [81401-die-kleine-lokomotive-und-ihre-freunde.json](./81401-die-kleine-lokomotive-und-ihre-freunde.json) |
 | Die O'Clock | 214161 | [214161-die-oclock.json](./214161-die-oclock.json) |
 | Die Original Moorhuhn Jagd | 83237 | [83237-die-original-moorhuhn-jagd.json](./83237-die-original-moorhuhn-jagd.json) |
+| Die Rowdy | 299766 | [299766-die-rowdy.json](./299766-die-rowdy.json) |
 | Die Totenmaske | 184105 | [184105-die-totenmaske.json](./184105-die-totenmaske.json) |
 | DieFeen | 305161 | [305161-diefeen.json](./305161-diefeen.json) |
 | Diego Balls | 343830 | [343830-diego-balls.json](./343830-diego-balls.json) |
@@ -1448,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokodemo Crash-kun | 210242 | [210242-dokodemo-crash-kun.json](./210242-dokodemo-crash-kun.json) |
 | Dokodemo Mahjong | 43966 | [43966-dokodemo-mahjong.json](./43966-dokodemo-mahjong.json) |
 | Dolce | 229972 | [229972-dolce.json](./229972-dolce.json) |
+| Doll Recollect | 299737 | [299737-doll-recollect.json](./299737-doll-recollect.json) |
 | Doll's Ingram | 131585 | [131585-dolls-ingram.json](./131585-dolls-ingram.json) |
 | Dollal Simulator 2018 | 89261 | [89261-dollal-simulator-2018.json](./89261-dollal-simulator-2018.json) |
 | Dollar Dash: More Ways to Win | 171055 | [171055-dollar-dash-more-ways-to-win.json](./171055-dollar-dash-more-ways-to-win.json) |
@@ -2363,3 +2368,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyschronia: Chronos Alternate - Dual Edition | 273637 | [273637-dyschronia-chronos-alternate-dual-edition.json](./273637-dyschronia-chronos-alternate-dual-edition.json) |
 | Dysto-wanderer | 319016 | [319016-dysto-wanderer.json](./319016-dysto-wanderer.json) |
 | Dystofarm | 275347 | [275347-dystofarm.json](./275347-dystofarm.json) |
+| Dziedzic: A Book of Unanswered Questions | 299735 | [299735-dziedzic-a-book-of-unanswered-questions.json](./299735-dziedzic-a-book-of-unanswered-questions.json) |
