@@ -1553,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fray | 381038 | [381038-fray.json](./381038-fray.json) |
 | Fray: Reloaded Edition | 16364 | [16364-fray-reloaded-edition.json](./16364-fray-reloaded-edition.json) |
 | Frayed | 292314 | [292314-frayed.json](./292314-frayed.json) |
+| Freak Factory | 265664 | [265664-freak-factory.json](./265664-freak-factory.json) |
 | Freakfield 2042 | 195268 | [195268-freakfield-2042.json](./195268-freakfield-2042.json) |
 | Freakout: Calamity TV Show | 102150 | [102150-freakout-calamity-tv-show.json](./102150-freakout-calamity-tv-show.json) |
 | Freaky Trip: Amazing Edition | 308803 | [308803-freaky-trip-amazing-edition.json](./308803-freaky-trip-amazing-edition.json) |
