@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch & Cats | 258177 | [258177-witch-and-cats.json](./258177-witch-and-cats.json) |
 | Witch & Hero 2 | 21925 | [21925-witch-and-hero-2.json](./21925-witch-and-hero-2.json) |
 | Witch Epoch | 203528 | [203528-witch-epoch.json](./203528-witch-epoch.json) |
+| Witch House Mixtape | 271187 | [271187-witch-house-mixtape.json](./271187-witch-house-mixtape.json) |
 | Witch Hunt | 210283 | [210283-witch-hunt.json](./210283-witch-hunt.json) |
 | Witch Hunter | 218158 | [218158-witch-hunter.json](./218158-witch-hunter.json) |
 | Witch Potion | 221427 | [221427-witch-potion.json](./221427-witch-potion.json) |
