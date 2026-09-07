@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indigo Horizon | 336528 | [336528-indigo-horizon.json](./336528-indigo-horizon.json) |
 | Indigo Prophecy | 410247 | [410247-indigo-prophecy.json](./410247-indigo-prophecy.json) |
 | Indoor Baseball | 330562 | [330562-indoor-baseball.json](./330562-indoor-baseball.json) |
+| Indoors: The Alston Manor | 269005 | [269005-indoors-the-alston-manor.json](./269005-indoors-the-alston-manor.json) |
 | Induction | 18194 | [18194-induction.json](./18194-induction.json) |
 | Indulge | 414312 | [414312-indulge.json](./414312-indulge.json) |
 | Industria II | 292878 | [292878-industria-ii.json](./292878-industria-ii.json) |
@@ -660,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InSpheration | 53234 | [53234-inspheration.json](./53234-inspheration.json) |
 | Inspiral: Echoes of Gravity | 372462 | [372462-inspiral-echoes-of-gravity.json](./372462-inspiral-echoes-of-gravity.json) |
 | Inspire | 298302 | [298302-inspire.json](./298302-inspire.json) |
+| Install Fee Tycoon | 269006 | [269006-install-fee-tycoon.json](./269006-install-fee-tycoon.json) |
 | Instant Sports Summer + Winter | 269299 | [269299-instant-sports-summer-winter.json](./269299-instant-sports-summer-winter.json) |
 | Instarion | 260972 | [260972-instarion.json](./260972-instarion.json) |
 | InstaTok Tycoon | 301837 | [301837-instatok-tycoon.json](./301837-instatok-tycoon.json) |
