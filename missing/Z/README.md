@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z After: A Point and Click Survival | 343272 | [343272-z-after-a-point-and-click-survival.json](./343272-z-after-a-point-and-click-survival.json) |
 | Z Juice | 311812 | [311812-z-juice.json](./311812-z-juice.json) |
 | Z Line | 254152 | [254152-z-line.json](./254152-z-line.json) |
+| Z Rush | 304579 | [304579-z-rush.json](./304579-z-rush.json) |
 | Z-axys | 102210 | [102210-z-axys.json](./102210-z-axys.json) |
 | Z-Grav: Clash | 263222 | [263222-z-grav-clash.json](./263222-z-grav-clash.json) |
 | Z-MMO | 55919 | [55919-z-mmo.json](./55919-z-mmo.json) |
