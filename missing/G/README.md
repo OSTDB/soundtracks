@@ -42,7 +42,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gain Ground SX | 42013 | [42013-gain-ground-sx.json](./42013-gain-ground-sx.json) |
 | Gaishin Senki: Millennium Sword | 264307 | [264307-gaishin-senki-millennium-sword.json](./264307-gaishin-senki-millennium-sword.json) |
 | Gakken DS: Otona no Gakushuu Kintaichi Sensei no Nihongo Lesson | 245046 | [245046-gakken-ds-otona-no-gakushuu-kintaichi-sensei-no-nihongo-lesson.json](./245046-gakken-ds-otona-no-gakushuu-kintaichi-sensei-no-nihongo-lesson.json) |
+| Gakkyu Ou Yamazaki | 281423 | [281423-gakkyu-ou-yamazaki.json](./281423-gakkyu-ou-yamazaki.json) |
 | Gakkyuu-ou Yamazaki: Yamazaki Oukoku Daifunsou! | 130351 | [130351-gakkyuu-ou-yamazaki-yamazaki-oukoku-daifunsou.json](./130351-gakkyuu-ou-yamazaki-yamazaki-oukoku-daifunsou.json) |
+| Gakuen Battle Fishers: Yoky Shiimono wa Tsure | 281424 | [281424-gakuen-battle-fishers-yoky-shiimono-wa-tsure.json](./281424-gakuen-battle-fishers-yoky-shiimono-wa-tsure.json) |
 | Gakuen Club | 31975 | [31975-gakuen-club.json](./31975-gakuen-club.json) |
 | Gakuen Hetalia Portable | 59419 | [59419-gakuen-hetalia-portable.json](./59419-gakuen-hetalia-portable.json) |
 | Gakuen Hyoryuu Senki | 191872 | [191872-gakuen-hyoryuu-senki.json](./191872-gakuen-hyoryuu-senki.json) |
@@ -66,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Empire | 240484 | [240484-galactic-empire.json](./240484-galactic-empire.json) |
 | Galactic Express | 381041 | [381041-galactic-express.json](./381041-galactic-express.json) |
 | Galactic Field | 336906 | [336906-galactic-field.json](./336906-galactic-field.json) |
+| Galactic Foodtruck Simulator 2999 | 281412 | [281412-galactic-foodtruck-simulator-2999.json](./281412-galactic-foodtruck-simulator-2999.json) |
 | Galactic Gardener | 313101 | [313101-galactic-gardener.json](./313101-galactic-gardener.json) |
 | Galactic Gardener | 377587 | [377587-galactic-gardener.json](./377587-galactic-gardener.json) |
 | Galactic Gladiators | 186342 | [186342-galactic-gladiators.json](./186342-galactic-gladiators.json) |
@@ -836,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoldStorm Pirates | 326948 | [326948-goldstorm-pirates.json](./326948-goldstorm-pirates.json) |
 | Golf Around! | 126509 | [126509-golf-around.json](./126509-golf-around.json) |
 | Golf Cart Race | 105919 | [105919-golf-cart-race.json](./105919-golf-cart-race.json) |
+| Golf Escape | 281387 | [281387-golf-escape.json](./281387-golf-escape.json) |
 | Golf Guys: Complete Edition | 283174 | [283174-golf-guys-complete-edition.json](./283174-golf-guys-complete-edition.json) |
 | Golf Keeper | 130954 | [130954-golf-keeper.json](./130954-golf-keeper.json) |
 | Golf Loop | 329570 | [329570-golf-loop.json](./329570-golf-loop.json) |
