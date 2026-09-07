@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Heart: Book 1 | 313721 | [313721-open-heart-book-1.json](./313721-open-heart-book-1.json) |
 | Open Heart: Second Year | 313722 | [313722-open-heart-second-year.json](./313722-open-heart-second-year.json) |
 | Open Rails | 89985 | [89985-open-rails.json](./89985-open-rails.json) |
+| Open School World | 297505 | [297505-open-school-world.json](./297505-open-school-world.json) |
 | Open Space Collection | 196306 | [196306-open-space-collection.json](./196306-open-space-collection.json) |
 | Open Star Fighter | 339288 | [339288-open-star-fighter.json](./339288-open-star-fighter.json) |
 | OpenArena | 77358 | [77358-openarena.json](./77358-openarena.json) |
@@ -782,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outrunner 2 | 96630 | [96630-outrunner-2.json](./96630-outrunner-2.json) |
 | Outscore | 182529 | [182529-outscore.json](./182529-outscore.json) |
 | Outside of Our Own | 184127 | [184127-outside-of-our-own.json](./184127-outside-of-our-own.json) |
+| OutSider | 297462 | [297462-outsider.json](./297462-outsider.json) |
 | Outsp4ce | 172176 | [172176-outsp4ce.json](./172176-outsp4ce.json) |
 | Outspace | 332263 | [332263-outspace.json](./332263-outspace.json) |
 | Outspell | 219267 | [219267-outspell.json](./219267-outspell.json) |
