@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven And Hell: The Last War | 111713 | [111713-heaven-and-hell-the-last-war.json](./111713-heaven-and-hell-the-last-war.json) |
 | Heaven Impact | 301001 | [301001-heaven-impact.json](./301001-heaven-impact.json) |
 | Heaven Keepers | 192941 | [192941-heaven-keepers.json](./192941-heaven-keepers.json) |
+| Heaven Over It | 304029 | [304029-heaven-over-it.json](./304029-heaven-over-it.json) |
 | Heaven's Door | 231057 | [231057-heavens-door.json](./231057-heavens-door.json) |
 | Heaven's Glaive | 387362 | [387362-heavens-glaive.json](./387362-heavens-glaive.json) |
 | Heavenly Hammer | 173820 | [173820-heavenly-hammer.json](./173820-heavenly-hammer.json) |
@@ -1137,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hong Kong Mahjong Pro | 79933 | [79933-hong-kong-mahjong-pro.json](./79933-hong-kong-mahjong-pro.json) |
 | Hong Kong Phooey: No.1 Super Guy | 71528 | [71528-hong-kong-phooey-no-1-super-guy.json](./71528-hong-kong-phooey-no-1-super-guy.json) |
 | Honjou Rendoku to Ushinawareta Nachlass | 398976 | [398976-honjou-rendoku-to-ushinawareta-nachlass.json](./398976-honjou-rendoku-to-ushinawareta-nachlass.json) |
+| Honkai Impact 3rd: Crusade of Chasing Shadows | 304037 | [304037-honkai-impact-3rd-crusade-of-chasing-shadows.json](./304037-honkai-impact-3rd-crusade-of-chasing-shadows.json) |
 | Honkai Impact 3rd: Cutting Dreams at Dawn | 268770 | [268770-honkai-impact-3rd-cutting-dreams-at-dawn.json](./268770-honkai-impact-3rd-cutting-dreams-at-dawn.json) |
 | Honkai Impact 3rd: Elysian Reverie | 276496 | [276496-honkai-impact-3rd-elysian-reverie.json](./276496-honkai-impact-3rd-elysian-reverie.json) |
 | Honkai Impact 3rd: Equinox Gate | 276497 | [276497-honkai-impact-3rd-equinox-gate.json](./276497-honkai-impact-3rd-equinox-gate.json) |
