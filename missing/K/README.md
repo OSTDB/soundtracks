@@ -706,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krashimals | 330558 | [330558-krashimals.json](./330558-krashimals.json) |
 | Kratoria | 187540 | [187540-kratoria.json](./187540-kratoria.json) |
 | Krazy Ivan | 20604 | [20604-krazy-ivan.json](./20604-krazy-ivan.json) |
+| Krazy Kart! | 310968 | [310968-krazy-kart.json](./310968-krazy-kart.json) |
 | Kreed | 95498 | [95498-kreed.json](./95498-kreed.json) |
 | Krell | 93032 | [93032-krell.json](./93032-krell.json) |
 | Kremlin 3D | 320717 | [320717-kremlin-3d.json](./320717-kremlin-3d.json) |
