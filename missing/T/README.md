@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantrum | 274220 | [274220-tantrum.json](./274220-tantrum.json) |
 | Tantrum 2 | 274221 | [274221-tantrum-2.json](./274221-tantrum-2.json) |
 | Tanuki: Pon's Summer | 317817 | [317817-tanuki-pons-summer.json](./317817-tanuki-pons-summer.json) |
+| Tanzanite Crush | 282548 | [282548-tanzanite-crush.json](./282548-tanzanite-crush.json) |
 | Táolí Dìqiú | 158203 | [158203-taoli-diqiu.json](./158203-taoli-diqiu.json) |
 | Tap a Jam | 73290 | [73290-tap-a-jam.json](./73290-tap-a-jam.json) |
 | Tap Away | 230515 | [230515-tap-away.json](./230515-tap-away.json) |
@@ -3211,6 +3212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Light: Ex Umbra | 102370 | [102370-to-light-ex-umbra.json](./102370-to-light-ex-umbra.json) |
 | To My Darling | 393512 | [393512-to-my-darling.json](./393512-to-my-darling.json) |
 | To Swat A Fly | 378212 | [378212-to-swat-a-fly.json](./378212-to-swat-a-fly.json) |
+| To Tell the Truth | 282570 | [282570-to-tell-the-truth.json](./282570-to-tell-the-truth.json) |
 | To the Bridge | 348787 | [348787-to-the-bridge.json](./348787-to-the-bridge.json) |
 | To the Capital | 24476 | [24476-to-the-capital.json](./24476-to-the-capital.json) |
 | To the City of the Clouds | 83597 | [83597-to-the-city-of-the-clouds.json](./83597-to-the-city-of-the-clouds.json) |
@@ -4298,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
 | Twin Tornado | 363889 | [363889-twin-tornado.json](./363889-twin-tornado.json) |
 | TwinBee | 282650 | [282650-twinbee.json](./282650-twinbee.json) |
+| TwinBee Da!! | 282567 | [282567-twinbee-da.json](./282567-twinbee-da.json) |
 | Twincantation | 355017 | [355017-twincantation.json](./355017-twincantation.json) |
 | Twinkle Crusaders GoGo! | 59417 | [59417-twinkle-crusaders-gogo.json](./59417-twinkle-crusaders-gogo.json) |
 | Twinkle Knights | 39016 | [39016-twinkle-knights.json](./39016-twinkle-knights.json) |
