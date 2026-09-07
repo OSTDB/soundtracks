@@ -338,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator Action | 51241 | [51241-elevator-action.json](./51241-elevator-action.json) |
 | Elevator Music | 329588 | [329588-elevator-music.json](./329588-elevator-music.json) |
 | Elevatrix | 316408 | [316408-elevatrix.json](./316408-elevatrix.json) |
+| Eleven Beat World Tournament | 299780 | [299780-eleven-beat-world-tournament.json](./299780-eleven-beat-world-tournament.json) |
 | Eleven: Table Tennis VR | 32889 | [32889-eleven-table-tennis-vr.json](./32889-eleven-table-tennis-vr.json) |
 | Elfie | 304867 | [304867-elfie.json](./304867-elfie.json) |
 | Elfin National Park | 341877 | [341877-elfin-national-park.json](./341877-elfin-national-park.json) |
@@ -527,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EndlessHell | 117046 | [117046-endlesshell.json](./117046-endlesshell.json) |
 | Endline | 144984 | [144984-endline.json](./144984-endline.json) |
 | Endocrisis Hyperactive | 173294 | [173294-endocrisis-hyperactive.json](./173294-endocrisis-hyperactive.json) |
+| Endoom Mapping Contest 2024 | 299767 | [299767-endoom-mapping-contest-2024.json](./299767-endoom-mapping-contest-2024.json) |
 | Endquest | 268763 | [268763-endquest.json](./268763-endquest.json) |
 | Endura | 301272 | [301272-endura.json](./301272-endura.json) |
 | Endurance | 204680 | [204680-endurance.json](./204680-endurance.json) |
@@ -902,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil of Demons: Algailah | 243948 | [243948-evil-of-demons-algailah.json](./243948-evil-of-demons-algailah.json) |
 | Evil of Fate | 373549 | [373549-evil-of-fate.json](./373549-evil-of-fate.json) |
 | Evil Resistance: Morning of the Dead | 55183 | [55183-evil-resistance-morning-of-the-dead.json](./55183-evil-resistance-morning-of-the-dead.json) |
+| Evil Returns | 299768 | [299768-evil-returns.json](./299768-evil-returns.json) |
 | Evil Robot Traffic Jam HD | 34407 | [34407-evil-robot-traffic-jam-hd.json](./34407-evil-robot-traffic-jam-hd.json) |
 | Evil Spirits | 55182 | [55182-evil-spirits.json](./55182-evil-spirits.json) |
 | Evil Tactics | 236018 | [236018-evil-tactics.json](./236018-evil-tactics.json) |
@@ -1033,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extra Extra Poison | 369578 | [369578-extra-extra-poison.json](./369578-extra-extra-poison.json) |
 | Extra Terrestrial Perception | 44615 | [44615-extra-terrestrial-perception.json](./44615-extra-terrestrial-perception.json) |
 | Extra Terrestrials | 40778 | [40778-extra-terrestrials.json](./40778-extra-terrestrials.json) |
+| Extraordinary Detective Marshall | 299728 | [299728-extraordinary-detective-marshall.json](./299728-extraordinary-detective-marshall.json) |
 | Extravaganza Rising | 32078 | [32078-extravaganza-rising.json](./32078-extravaganza-rising.json) |
 | Extreme Basketball | 86104 | [86104-extreme-basketball.json](./86104-extreme-basketball.json) |
 | Extreme Car Parking! | 310196 | [310196-extreme-car-parking.json](./310196-extreme-car-parking.json) |
@@ -1053,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extremely Realistic Siege Warfare Simulator | 130957 | [130957-extremely-realistic-siege-warfare-simulator.json](./130957-extremely-realistic-siege-warfare-simulator.json) |
 | Exzore: The Rising | 42666 | [42666-exzore-the-rising.json](./42666-exzore-the-rising.json) |
 | Exсive A-1000 | 113714 | [113714-ex-ive-a-1000.json](./113714-ex-ive-a-1000.json) |
+| Eye of the Storm | 299731 | [299731-eye-of-the-storm.json](./299731-eye-of-the-storm.json) |
 | Eye on the world | 258731 | [258731-eye-on-the-world.json](./258731-eye-on-the-world.json) |
 | Eye Transplant : ER Emergency Hospital | 100855 | [100855-eye-transplant-er-emergency-hospital.json](./100855-eye-transplant-er-emergency-hospital.json) |
 | Eye-Witness | 271994 | [271994-eye-witness.json](./271994-eye-witness.json) |
