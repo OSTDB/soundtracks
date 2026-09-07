@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Drinks A Glass of Milk | 250051 | [250051-mario-drinks-a-glass-of-milk.json](./250051-mario-drinks-a-glass-of-milk.json) |
 | Mario for the Masses | 330716 | [330716-mario-for-the-masses.json](./330716-mario-for-the-masses.json) |
 | Mario Forever Galaxy | 139452 | [139452-mario-forever-galaxy.json](./139452-mario-forever-galaxy.json) |
+| Mario Gives Up | 272818 | [272818-mario-gives-up.json](./272818-mario-gives-up.json) |
 | Mario Golf: Super Rush | 143609 | [143609-mario-golf-super-rush.json](./143609-mario-golf-super-rush.json) |
 | Mario Golf: World Tour - Flower Pack | 309117 | [309117-mario-golf-world-tour-flower-pack.json](./309117-mario-golf-world-tour-flower-pack.json) |
 | Mario Golf: World Tour - Mushroom Pack | 309116 | [309116-mario-golf-world-tour-mushroom-pack.json](./309116-mario-golf-world-tour-mushroom-pack.json) |
@@ -1643,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: The Cake Is A Lie | 325863 | [325863-minecraft-the-cake-is-a-lie.json](./325863-minecraft-the-cake-is-a-lie.json) |
 | Minecraft: The Traveling Trader | 322955 | [322955-minecraft-the-traveling-trader.json](./322955-minecraft-the-traveling-trader.json) |
 | Minecraft: The Wild Update | 223161 | [223161-minecraft-the-wild-update.json](./223161-minecraft-the-wild-update.json) |
+| Minecraft: Tricky Trials | 272821 | [272821-minecraft-tricky-trials.json](./272821-minecraft-tricky-trials.json) |
 | MInecraft: Weapon Fusion 2 | 333585 | [333585-minecraft-weapon-fusion-2.json](./333585-minecraft-weapon-fusion-2.json) |
 | Minecraft: Winter Whimsy Skin Pack | 324892 | [324892-minecraft-winter-whimsy-skin-pack.json](./324892-minecraft-winter-whimsy-skin-pack.json) |
 | Minecraftle | 306695 | [306695-minecraftle.json](./306695-minecraftle.json) |
@@ -2176,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Phenomenon | 192982 | [192982-monster-phenomenon.json](./192982-monster-phenomenon.json) |
 | Monster Prom | 69483 | [69483-monster-prom.json](./69483-monster-prom.json) |
 | Monster Prom 2: Monster Camp XXL Character Pack - Colorful Campers | 283183 | [283183-monster-prom-2-monster-camp-xxl-character-pack-colorful-campers.json](./283183-monster-prom-2-monster-camp-xxl-character-pack-colorful-campers.json) |
+| Monster Prom 3: Monster Roadtrip x Cult of the Lamb | 272830 | [272830-monster-prom-3-monster-roadtrip-x-cult-of-the-lamb.json](./272830-monster-prom-3-monster-roadtrip-x-cult-of-the-lamb.json) |
 | Monster Prom 4: Monster Con | 307329 | [307329-monster-prom-4-monster-con.json](./307329-monster-prom-4-monster-con.json) |
 | Monster Rancher | 4104 | [4104-monster-rancher.json](./4104-monster-rancher.json) |
 | Monster Rescue | 188104 | [188104-monster-rescue.json](./188104-monster-rescue.json) |
@@ -2783,6 +2786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Foxy Girlfriend | 205818 | [205818-my-foxy-girlfriend.json](./205818-my-foxy-girlfriend.json) |
 | My Friend Barrington | 398323 | [398323-my-friend-barrington.json](./398323-my-friend-barrington.json) |
 | My Friend Peppa Pig: Complete Edition | 214721 | [214721-my-friend-peppa-pig-complete-edition.json](./214721-my-friend-peppa-pig-complete-edition.json) |
+| My Friendly Neighborhood: Neighborhorde | 272834 | [272834-my-friendly-neighborhood-neighborhorde.json](./272834-my-friendly-neighborhood-neighborhorde.json) |
 | My Furry Trainer | 215892 | [215892-my-furry-trainer.json](./215892-my-furry-trainer.json) |
 | My Garage | 162411 | [162411-my-garage.json](./162411-my-garage.json) |
 | My Ghost Pet Is Zhong Kui | 309362 | [309362-my-ghost-pet-is-zhong-kui.json](./309362-my-ghost-pet-is-zhong-kui.json) |
