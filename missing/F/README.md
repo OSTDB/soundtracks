@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Animals - Activity Book | 96059 | [96059-farm-animals-activity-book.json](./96059-farm-animals-activity-book.json) |
 | Farm Boy | 92507 | [92507-farm-boy.json](./92507-farm-boy.json) |
 | Farm Chores | 304901 | [304901-farm-chores.json](./304901-farm-chores.json) |
+| Farm Day Simulator 2024 | 283728 | [283728-farm-day-simulator-2024.json](./283728-farm-day-simulator-2024.json) |
 | Farm Dream Village Harvest Sim | 101585 | [101585-farm-dream-village-harvest-sim.json](./101585-farm-dream-village-harvest-sim.json) |
 | Farm Expert 2016: Farm Machines Pack | 263190 | [263190-farm-expert-2016-farm-machines-pack.json](./263190-farm-expert-2016-farm-machines-pack.json) |
 | Farm Expert 2017 | 25105 | [25105-farm-expert-2017.json](./25105-farm-expert-2017.json) |
@@ -850,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Tales | 358849 | [358849-fish-tales.json](./358849-fish-tales.json) |
 | Fish Tank Simulator | 383958 | [383958-fish-tank-simulator.json](./383958-fish-tank-simulator.json) |
 | Fisher-Price: I Can Remember | 26659 | [26659-fisher-price-i-can-remember.json](./26659-fisher-price-i-can-remember.json) |
+| Fisher-Price: Time To Play - Pet Shop | 283677 | [283677-fisher-price-time-to-play-pet-shop.json](./283677-fisher-price-time-to-play-pet-shop.json) |
 | Fisherman's House | 172749 | [172749-fishermans-house.json](./172749-fishermans-house.json) |
 | Fishery Tycoon | 212475 | [212475-fishery-tycoon.json](./212475-fishery-tycoon.json) |
 | Fishhead 3: The Search For a Heart of Gold | 191256 | [191256-fishhead-3-the-search-for-a-heart-of-gold.json](./191256-fishhead-3-the-search-for-a-heart-of-gold.json) |
@@ -960,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Bird | 339269 | [339269-flappy-bird.json](./339269-flappy-bird.json) |
 | Flappy Bird Ultra | 368522 | [368522-flappy-bird-ultra.json](./368522-flappy-bird-ultra.json) |
 | Flappy Box | 285478 | [285478-flappy-box.json](./285478-flappy-box.json) |
+| Flappy Camel | 283767 | [283767-flappy-camel.json](./283767-flappy-camel.json) |
 | Flappy Cube | 179195 | [179195-flappy-cube.json](./179195-flappy-cube.json) |
 | Flappy Doge | 62183 | [62183-flappy-doge.json](./62183-flappy-doge.json) |
 | Flappy Dragon | 316049 | [316049-flappy-dragon.json](./316049-flappy-dragon.json) |
@@ -1330,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklift Extreme: Ultra DLC Pack | 252405 | [252405-forklift-extreme-ultra-dlc-pack.json](./252405-forklift-extreme-ultra-dlc-pack.json) |
 | Forklift Extreme: Ultra Edition | 252404 | [252404-forklift-extreme-ultra-edition.json](./252404-forklift-extreme-ultra-edition.json) |
 | Forklift Simulator | 326425 | [326425-forklift-simulator.json](./326425-forklift-simulator.json) |
+| Forklift Simulator 2024 | 283729 | [283729-forklift-simulator-2024.json](./283729-forklift-simulator-2024.json) |
 | Forlorn Memories | 214761 | [214761-forlorn-memories.json](./214761-forlorn-memories.json) |
 | Format | 312580 | [312580-format.json](./312580-format.json) |
 | Formation | 258690 | [258690-formation.json](./258690-formation.json) |
