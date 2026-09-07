@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Roses: Kingmaker | 11040 | [11040-war-of-the-roses-kingmaker.json](./11040-war-of-the-roses-kingmaker.json) |
 | War of the Seraphim | 117056 | [117056-war-of-the-seraphim.json](./117056-war-of-the-seraphim.json) |
 | War of the Worlds | 333949 | [333949-war-of-the-worlds.json](./333949-war-of-the-worlds.json) |
+| War of Zanzor III: Birth of Unity | 301825 | [301825-war-of-zanzor-iii-birth-of-unity.json](./301825-war-of-zanzor-iii-birth-of-unity.json) |
 | War Pigeons | 348776 | [348776-war-pigeons.json](./348776-war-pigeons.json) |
 | War Pinball | 209715 | [209715-war-pinball.json](./209715-war-pinball.json) |
 | War Pirates | 237639 | [237639-war-pirates.json](./237639-war-pirates.json) |
@@ -232,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlordocracy: Chapter 3 | 336569 | [336569-warlordocracy-chapter-3.json](./336569-warlordocracy-chapter-3.json) |
 | WarLords | 196892 | [196892-warlords.json](./196892-warlords.json) |
 | Warlords of Aternum | 107181 | [107181-warlords-of-aternum.json](./107181-warlords-of-aternum.json) |
+| Warlords of the Deck | 301805 | [301805-warlords-of-the-deck.json](./301805-warlords-of-the-deck.json) |
 | Warlords.IO | 111729 | [111729-warlords-io.json](./111729-warlords-io.json) |
 | Warm Monkey | 331314 | [331314-warm-monkey.json](./331314-warm-monkey.json) |
 | WarMages | 68676 | [68676-warmages.json](./68676-warmages.json) |
@@ -957,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woohoo!: Game - WordSearch | 304021 | [304021-woohoo-game-wordsearch.json](./304021-woohoo-game-wordsearch.json) |
 | WooLoop | 199121 | [199121-wooloop.json](./199121-wooloop.json) |
 | WooLoop: Magic Pack | 319347 | [319347-wooloop-magic-pack.json](./319347-wooloop-magic-pack.json) |
+| WooLoop: Video Games Pack | 301829 | [301829-wooloop-video-games-pack.json](./301829-wooloop-video-games-pack.json) |
 | Wooly Rockbottom and the Quest for the Golden Beard of Thor! | 325254 | [325254-wooly-rockbottom-and-the-quest-for-the-golden-beard-of-thor.json](./325254-wooly-rockbottom-and-the-quest-for-the-golden-beard-of-thor.json) |
 | Woon | 315253 | [315253-woon.json](./315253-woon.json) |
 | Wooo | 260979 | [260979-wooo.json](./260979-wooo.json) |
