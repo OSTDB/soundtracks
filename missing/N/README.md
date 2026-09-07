@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NecroLand: Undead Corps | 127361 | [127361-necroland-undead-corps.json](./127361-necroland-undead-corps.json) |
 | Necromancer Nonsense | 347151 | [347151-necromancer-nonsense.json](./347151-necromancer-nonsense.json) |
 | Necromancer's Gift | 173317 | [173317-necromancers-gift.json](./173317-necromancers-gift.json) |
+| Necromanicide | 271734 | [271734-necromanicide.json](./271734-necromanicide.json) |
 | Necronator | 304048 | [304048-necronator.json](./304048-necronator.json) |
 | Necronator 2 | 304049 | [304049-necronator-2.json](./304049-necronator-2.json) |
 | Necrophobia | 296345 | [296345-necrophobia.json](./296345-necrophobia.json) |
