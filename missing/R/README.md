@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reality Core | 309677 | [309677-reality-core.json](./309677-reality-core.json) |
 | Reality Rifts | 320517 | [320517-reality-rifts.json](./320517-reality-rifts.json) |
 | RealityMinds | 165651 | [165651-realityminds.json](./165651-realityminds.json) |
+| Really Dog | 276182 | [276182-really-dog.json](./276182-really-dog.json) |
 | Really? Really! RiaRiaDS | 330554 | [330554-really-really-riariads.json](./330554-really-really-riariads.json) |
 | Realm Craft | 251811 | [251811-realm-craft.json](./251811-realm-craft.json) |
 | Realm Hacker | 132271 | [132271-realm-hacker.json](./132271-realm-hacker.json) |
@@ -949,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Cat Pro | 86707 | [86707-rhythm-cat-pro.json](./86707-rhythm-cat-pro.json) |
 | Rhythm Heaven Groove | 337031 | [337031-rhythm-heaven-groove.json](./337031-rhythm-heaven-groove.json) |
 | Rhythm Hell | 257080 | [257080-rhythm-hell.json](./257080-rhythm-hell.json) |
+| Rhythm League Heroes | 276181 | [276181-rhythm-league-heroes.json](./276181-rhythm-league-heroes.json) |
 | Rhythm Racer | 406108 | [406108-rhythm-racer.json](./406108-rhythm-racer.json) |
 | Rhythm Stars Climbing | 157196 | [157196-rhythm-stars-climbing.json](./157196-rhythm-stars-climbing.json) |
 | Rhythm Station | 277853 | [277853-rhythm-station.json](./277853-rhythm-station.json) |
@@ -1251,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotic Arm Simulator | 386697 | [386697-robotic-arm-simulator.json](./386697-robotic-arm-simulator.json) |
 | Robotron: 2084 | 3592 | [3592-robotron-2084.json](./3592-robotron-2084.json) |
 | Robots 2 Unknown World | 105369 | [105369-robots-2-unknown-world.json](./105369-robots-2-unknown-world.json) |
+| Robots at Midnight | 276180 | [276180-robots-at-midnight.json](./276180-robots-at-midnight.json) |
 | Robovenger | 192421 | [192421-robovenger.json](./192421-robovenger.json) |
 | RoboWarrior Arena | 266473 | [266473-robowarrior-arena.json](./266473-robowarrior-arena.json) |
 | Roburst | 199647 | [199647-roburst.json](./199647-roburst.json) |
@@ -1598,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Paradise Parks | 311787 | [311787-roxy-raccoons-pinball-panic-paradise-parks.json](./311787-roxy-raccoons-pinball-panic-paradise-parks.json) |
 | Roxy Raccoon's Pinball Panic: Retro Revival | 289863 | [289863-roxy-raccoons-pinball-panic-retro-revival.json](./289863-roxy-raccoons-pinball-panic-retro-revival.json) |
 | Roxy Raccoon's Pinball Panic: Steampunk Stories | 337470 | [337470-roxy-raccoons-pinball-panic-steampunk-stories.json](./337470-roxy-raccoons-pinball-panic-steampunk-stories.json) |
+| Roxy Raccoon's Pinball Panic: Thanksgiving Throwdown | 276178 | [276178-roxy-raccoons-pinball-panic-thanksgiving-throwdown.json](./276178-roxy-raccoons-pinball-panic-thanksgiving-throwdown.json) |
 | Roxy Raccoon's Pinball Panic: Tropical Treats | 311789 | [311789-roxy-raccoons-pinball-panic-tropical-treats.json](./311789-roxy-raccoons-pinball-panic-tropical-treats.json) |
 | Roxy Raccoon's Pinball Panic: Wicked Warfare | 252980 | [252980-roxy-raccoons-pinball-panic-wicked-warfare.json](./252980-roxy-raccoons-pinball-panic-wicked-warfare.json) |
 | Royal Alchemist | 109734 | [109734-royal-alchemist.json](./109734-royal-alchemist.json) |
