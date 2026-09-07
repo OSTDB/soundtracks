@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa: Eternal Endings | 304347 | [304347-danganronpa-eternal-endings.json](./304347-danganronpa-eternal-endings.json) |
 | Danganronpa: Fandom's Calling | 338724 | [338724-danganronpa-fandoms-calling.json](./338724-danganronpa-fandoms-calling.json) |
 | Danger Bounce | 26607 | [26607-danger-bounce.json](./26607-danger-bounce.json) |
+| Danger City | 279591 | [279591-danger-city.json](./279591-danger-city.json) |
 | Danger Close! | 76658 | [76658-danger-close.json](./76658-danger-close.json) |
 | Danger Course VR | 124231 | [124231-danger-course-vr.json](./124231-danger-course-vr.json) |
 | Danger Ramps | 282005 | [282005-danger-ramps.json](./282005-danger-ramps.json) |
