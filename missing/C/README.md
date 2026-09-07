@@ -518,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Gentlemans Play: Insult Spinner 10 Cents | 128626 | [128626-cat-gentlemans-play-insult-spinner-10-cents.json](./128626-cat-gentlemans-play-insult-spinner-10-cents.json) |
 | Cat Girl Survivor | 295771 | [295771-cat-girl-survivor.json](./295771-cat-girl-survivor.json) |
 | Cat Good Work | 309686 | [309686-cat-good-work.json](./309686-cat-good-work.json) |
+| Cat got Lost | 260670 | [260670-cat-got-lost.json](./260670-cat-got-lost.json) |
 | Cat in Rain | 320764 | [320764-cat-in-rain.json](./320764-cat-in-rain.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 1 | 263200 | [263200-cat-jigsaw-puzzle-games-expansion-pack-1.json](./263200-cat-jigsaw-puzzle-games-expansion-pack-1.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 3 | 263207 | [263207-cat-jigsaw-puzzle-games-expansion-pack-3.json](./263207-cat-jigsaw-puzzle-games-expansion-pack-3.json) |
@@ -1183,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinco Noches en Casa Rosada 2 | 353900 | [353900-cinco-noches-en-casa-rosada-2.json](./353900-cinco-noches-en-casa-rosada-2.json) |
 | Cinderella Nine in August | 82121 | [82121-cinderella-nine-in-august.json](./82121-cinderella-nine-in-august.json) |
 | Cinderella Phenomenon | 30030 | [30030-cinderella-phenomenon.json](./30030-cinderella-phenomenon.json) |
+| Cinderella: Interactive Book | 260673 | [260673-cinderella-interactive-book.json](./260673-cinderella-interactive-book.json) |
 | Cinema Manager | 157171 | [157171-cinema-manager.json](./157171-cinema-manager.json) |
 | Cinema Quest | 107249 | [107249-cinema-quest.json](./107249-cinema-quest.json) |
 | CineNerdle | 231638 | [231638-cinenerdle.json](./231638-cinenerdle.json) |
