@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takeda 3 | 24923 | [24923-takeda-3.json](./24923-takeda-3.json) |
 | Takeda Shingen | 81334 | [81334-takeda-shingen.json](./81334-takeda-shingen.json) |
 | Takemiya Masaki Kudan no Igo Taishou | 37794 | [37794-takemiya-masaki-kudan-no-igo-taishou.json](./37794-takemiya-masaki-kudan-no-igo-taishou.json) |
+| Taken Soul | 273400 | [273400-taken-soul.json](./273400-taken-soul.json) |
 | Taken Souls: Blood Ritual | 139427 | [139427-taken-souls-blood-ritual.json](./139427-taken-souls-blood-ritual.json) |
 | Takeout | 306368 | [306368-takeout.json](./306368-takeout.json) |
 | Takeout food | 107902 | [107902-takeout-food.json](./107902-takeout-food.json) |
@@ -435,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tayal | 109622 | [109622-tayal.json](./109622-tayal.json) |
 | Tayutama: Kiss on My Deity | 69311 | [69311-tayutama-kiss-on-my-deity.json](./69311-tayutama-kiss-on-my-deity.json) |
 | Taz | 100183 | [100183-taz.json](./100183-taz.json) |
+| Taz Cebula's Brides of Vampira: The Circle of Seven | 273402 | [273402-taz-cebulas-brides-of-vampira-the-circle-of-seven.json](./273402-taz-cebulas-brides-of-vampira-the-circle-of-seven.json) |
 | Taz-Mania | 365672 | [365672-taz-mania.json](./365672-taz-mania.json) |
 | Taz-Mania | 8066 | [8066-taz-mania.json](./8066-taz-mania.json) |
 | Tazmanian Devil: Munching Madness | 49967 | [49967-tazmanian-devil-munching-madness.json](./49967-tazmanian-devil-munching-madness.json) |
@@ -610,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Hacker - Into the Deep | 35935 | [35935-terminal-hacker-into-the-deep.json](./35935-terminal-hacker-into-the-deep.json) |
 | Terminal Machine | 54427 | [54427-terminal-machine.json](./54427-terminal-machine.json) |
 | Terminal Singularity | 158701 | [158701-terminal-singularity.json](./158701-terminal-singularity.json) |
+| Terminal V | 273403 | [273403-terminal-v.json](./273403-terminal-v.json) |
 | Terminal VR | 127362 | [127362-terminal-vr.json](./127362-terminal-vr.json) |
 | Terminate: Study X | 253574 | [253574-terminate-study-x.json](./253574-terminate-study-x.json) |
 | Terminator: Dark Fate - Defiance: Evolution | 380994 | [380994-terminator-dark-fate-defiance-evolution.json](./380994-terminator-dark-fate-defiance-evolution.json) |
@@ -1004,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cave of Magic | 413648 | [413648-the-cave-of-magic.json](./413648-the-cave-of-magic.json) |
 | The Cell | 307965 | [307965-the-cell.json](./307965-the-cell.json) |
 | The Cell | 326947 | [326947-the-cell.json](./326947-the-cell.json) |
+| The Cerpan Project | 273397 | [273397-the-cerpan-project.json](./273397-the-cerpan-project.json) |
 | The Cesspit | 367966 | [367966-the-cesspit.json](./367966-the-cesspit.json) |
 | The Champ | 78689 | [78689-the-champ.json](./78689-the-champ.json) |
 | The Champions of Lootheim | 382759 | [382759-the-champions-of-lootheim.json](./382759-the-champions-of-lootheim.json) |
@@ -1232,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eastern Sacrifice | 273659 | [273659-the-eastern-sacrifice.json](./273659-the-eastern-sacrifice.json) |
 | The Echoes of Mars | 301841 | [301841-the-echoes-of-mars.json](./301841-the-echoes-of-mars.json) |
 | The Edge | 340937 | [340937-the-edge.json](./340937-the-edge.json) |
+| The Edibles | 273416 | [273416-the-edibles.json](./273416-the-edibles.json) |
 | The Eerie Inn | 95595 | [95595-the-eerie-inn.json](./95595-the-eerie-inn.json) |
 | The Egg of Human Endeavors | 223133 | [223133-the-egg-of-human-endeavors.json](./223133-the-egg-of-human-endeavors.json) |
 | The Eggsperts | 373560 | [373560-the-eggsperts.json](./373560-the-eggsperts.json) |
@@ -1247,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Electric Yoyo | 221402 | [221402-the-electric-yoyo.json](./221402-the-electric-yoyo.json) |
 | The Elementalist Typing | 347183 | [347183-the-elementalist-typing.json](./347183-the-elementalist-typing.json) |
 | The Elevator | 326986 | [326986-the-elevator.json](./326986-the-elevator.json) |
+| The Elision Effect | 273415 | [273415-the-elision-effect.json](./273415-the-elision-effect.json) |
 | The Eminence in Shadow: Master of Garden | 227490 | [227490-the-eminence-in-shadow-master-of-garden.json](./227490-the-eminence-in-shadow-master-of-garden.json) |
 | The Empathy Algorithm | 387999 | [387999-the-empathy-algorithm.json](./387999-the-empathy-algorithm.json) |
 | The Emperor and State | 278977 | [278977-the-emperor-and-state.json](./278977-the-emperor-and-state.json) |
@@ -1609,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kindeman Remedy | 244499 | [244499-the-kindeman-remedy.json](./244499-the-kindeman-remedy.json) |
 | The King in the Shades | 259852 | [259852-the-king-in-the-shades.json](./259852-the-king-in-the-shades.json) |
 | The King of Alzoria | 276724 | [276724-the-king-of-alzoria.json](./276724-the-king-of-alzoria.json) |
+| The King of Creation | 273414 | [273414-the-king-of-creation.json](./273414-the-king-of-creation.json) |
 | The King of Dragons | 6814 | [6814-the-king-of-dragons.json](./6814-the-king-of-dragons.json) |
 | The King of Fighters '95 | 15427 | [15427-the-king-of-fighters-95.json](./15427-the-king-of-fighters-95.json) |
 | The King of Fighters '97 | 15428 | [15428-the-king-of-fighters-97.json](./15428-the-king-of-fighters-97.json) |
@@ -1935,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mooseman | 27358 | [27358-the-mooseman.json](./27358-the-mooseman.json) |
 | The Moroccan Castle 3: Behind The Secrets | 242229 | [242229-the-moroccan-castle-3-behind-the-secrets.json](./242229-the-moroccan-castle-3-behind-the-secrets.json) |
 | The Moron Test | 117757 | [117757-the-moron-test.json](./117757-the-moron-test.json) |
+| The Most Beautiful Room in the World | 273413 | [273413-the-most-beautiful-room-in-the-world.json](./273413-the-most-beautiful-room-in-the-world.json) |
 | The Most Searched Playground | 280229 | [280229-the-most-searched-playground.json](./280229-the-most-searched-playground.json) |
 | The Most Searched Playground: Paris 2024 | 311458 | [311458-the-most-searched-playground-paris-2024.json](./311458-the-most-searched-playground-paris-2024.json) |
 | The Most Terrible Time of the Year | 318418 | [318418-the-most-terrible-time-of-the-year.json](./318418-the-most-terrible-time-of-the-year.json) |
@@ -2584,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Void Corridors | 337123 | [337123-the-void-corridors.json](./337123-the-void-corridors.json) |
 | The Volcano | 125463 | [125463-the-volcano.json](./125463-the-volcano.json) |
 | The Vomit | 323535 | [323535-the-vomit.json](./323535-the-vomit.json) |
+| The Vorezkor Hack | 273417 | [273417-the-vorezkor-hack.json](./273417-the-vorezkor-hack.json) |
 | The VR Canyon | 126660 | [126660-the-vr-canyon.json](./126660-the-vr-canyon.json) |
 | The Wailing of the Forest | 385062 | [385062-the-wailing-of-the-forest.json](./385062-the-wailing-of-the-forest.json) |
 | The Wake of the Wyrm | 415904 | [415904-the-wake-of-the-wyrm.json](./415904-the-wake-of-the-wyrm.json) |
@@ -3644,6 +3653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tourist Bus Simulator: VDL Futura FHD2 | 168886 | [168886-tourist-bus-simulator-vdl-futura-fhd2.json](./168886-tourist-bus-simulator-vdl-futura-fhd2.json) |
 | Tourist Bus Simulator: W906 | 168893 | [168893-tourist-bus-simulator-w906.json](./168893-tourist-bus-simulator-w906.json) |
 | Tournament of Tamers | 157168 | [157168-tournament-of-tamers.json](./157168-tournament-of-tamers.json) |
+| Tournament Tower | 273412 | [273412-tournament-tower.json](./273412-tournament-tower.json) |
 | Tournament: Blood & Steel | 119051 | [119051-tournament-blood-and-steel.json](./119051-tournament-blood-and-steel.json) |
 | Toushin Toshi Girls Gift RPG | 175943 | [175943-toushin-toshi-girls-gift-rpg.json](./175943-toushin-toshi-girls-gift-rpg.json) |
 | Tover | 24994 | [24994-tover.json](./24994-tover.json) |
