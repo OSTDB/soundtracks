@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ichor | 122398 | [122398-ichor.json](./122398-ichor.json) |
 | Ichorian Tales | 415923 | [415923-ichorian-tales.json](./415923-ichorian-tales.json) |
 | iClub Manager | 200159 | [200159-iclub-manager.json](./200159-iclub-manager.json) |
+| ICode Stem Universe | 265154 | [265154-icode-stem-universe.json](./265154-icode-stem-universe.json) |
 | Icon Tower Defense | 333384 | [333384-icon-tower-defense.json](./333384-icon-tower-defense.json) |
 | Iconic | 132253 | [132253-iconic.json](./132253-iconic.json) |
 | Icontrivia: Guess the Character | 233746 | [233746-icontrivia-guess-the-character.json](./233746-icontrivia-guess-the-character.json) |
@@ -800,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inverness Nights | 134676 | [134676-inverness-nights.json](./134676-inverness-nights.json) |
 | Inverse Ninjas vs. The Public Domain | 277593 | [277593-inverse-ninjas-vs-the-public-domain.json](./277593-inverse-ninjas-vs-the-public-domain.json) |
 | Inversion | 7020 | [7020-inversion.json](./7020-inversion.json) |
+| Invert by SlushyRh | 265144 | [265144-invert-by-slushyrh.json](./265144-invert-by-slushyrh.json) |
 | Invert: Tile Flipping Puzzles | 82953 | [82953-invert-tile-flipping-puzzles.json](./82953-invert-tile-flipping-puzzles.json) |
 | Inverted | 32209 | [32209-inverted.json](./32209-inverted.json) |
 | Investation | 92527 | [92527-investation.json](./92527-investation.json) |
@@ -916,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Dwellers | 317874 | [317874-island-dwellers.json](./317874-island-dwellers.json) |
 | Island Flight Simulator | 24747 | [24747-island-flight-simulator.json](./24747-island-flight-simulator.json) |
 | Island Getaway | 29939 | [29939-island-getaway.json](./29939-island-getaway.json) |
+| Island Hopper | 265141 | [265141-island-hopper.json](./265141-island-hopper.json) |
 | Island of 16 Sisters | 371864 | [371864-island-of-16-sisters.json](./371864-island-of-16-sisters.json) |
 | Island of 16 Sisters Part 2 | 371866 | [371866-island-of-16-sisters-part-2.json](./371866-island-of-16-sisters-part-2.json) |
 | Island of Aito | 199657 | [199657-island-of-aito.json](./199657-island-of-aito.json) |
