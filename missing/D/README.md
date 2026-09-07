@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days of Saturn | 326062 | [326062-days-of-saturn.json](./326062-days-of-saturn.json) |
 | Days of the Divine | 243955 | [243955-days-of-the-divine.json](./243955-days-of-the-divine.json) |
 | Days With Girlfriends Ⅲ | 391601 | [391601-days-with-girlfriends-iii.json](./391601-days-with-girlfriends-iii.json) |
+| Days With Ollie | 294689 | [294689-days-with-ollie.json](./294689-days-with-ollie.json) |
 | DC Comics Legends | 60027 | [60027-dc-comics-legends.json](./60027-dc-comics-legends.json) |
 | DC's Justice League: Cosmic Chaos | 228740 | [228740-dcs-justice-league-cosmic-chaos.json](./228740-dcs-justice-league-cosmic-chaos.json) |
 | DCF Universe Triple Trouble Bundle | 338026 | [338026-dcf-universe-triple-trouble-bundle.json](./338026-dcf-universe-triple-trouble-bundle.json) |
@@ -979,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Way | 306358 | [306358-devils-way.json](./306358-devils-way.json) |
 | DevilDark: The Fallen Kingdom | 343817 | [343817-devildark-the-fallen-kingdom.json](./343817-devildark-the-fallen-kingdom.json) |
 | Deviled Dice | 397711 | [397711-deviled-dice.json](./397711-deviled-dice.json) |
+| Devils of the Deep | 294738 | [294738-devils-of-the-deep.json](./294738-devils-of-the-deep.json) |
 | Devoid | 377568 | [377568-devoid.json](./377568-devoid.json) |
 | Devolution: Maken no Ou to Shimobe-tachi | 220329 | [220329-devolution-maken-no-ou-to-shimobe-tachi.json](./220329-devolution-maken-no-ou-to-shimobe-tachi.json) |
 | Devotion | 107228 | [107228-devotion.json](./107228-devotion.json) |
@@ -1202,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Texts: Are You Sure? | 263221 | [263221-dirty-texts-are-you-sure.json](./263221-dirty-texts-are-you-sure.json) |
 | Disaster Crisis | 166749 | [166749-disaster-crisis.json](./166749-disaster-crisis.json) |
 | Disaster Plan Z | 301257 | [301257-disaster-plan-z.json](./301257-disaster-plan-z.json) |
+| Disaster Town Tycoon | 294731 | [294731-disaster-town-tycoon.json](./294731-disaster-town-tycoon.json) |
 | Disbelief | 354417 | [354417-disbelief.json](./354417-disbelief.json) |
 | Disc | 365671 | [365671-disc.json](./365671-disc.json) |
 | Disc Dimension | 278153 | [278153-disc-dimension.json](./278153-disc-dimension.json) |
@@ -1820,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Dice | 69894 | [69894-dragon-dice.json](./69894-dragon-dice.json) |
 | Dragon Dodge Valley | 238743 | [238743-dragon-dodge-valley.json](./238743-dragon-dodge-valley.json) |
 | Dragon Dragon Fire Fire Deluxe | 384497 | [384497-dragon-dragon-fire-fire-deluxe.json](./384497-dragon-dragon-fire-fire-deluxe.json) |
+| Dragon Drill | 294691 | [294691-dragon-drill.json](./294691-dragon-drill.json) |
 | Dragon Eternity | 59981 | [59981-dragon-eternity.json](./59981-dragon-eternity.json) |
 | Dragon Expedition | 332993 | [332993-dragon-expedition.json](./332993-dragon-expedition.json) |
 | Dragon Finga | 403614 | [403614-dragon-finga.json](./403614-dragon-finga.json) |
