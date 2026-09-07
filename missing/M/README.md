@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MatchVentures | 251818 | [251818-matchventures.json](./251818-matchventures.json) |
 | MatchyGotchy Z | 109661 | [109661-matchygotchy-z.json](./109661-matchygotchy-z.json) |
 | Mate-in-Two | 347703 | [347703-mate-in-two.json](./347703-mate-in-two.json) |
+| Matel Gear II | 267366 | [267366-matel-gear-ii.json](./267366-matel-gear-ii.json) |
 | Math Be Nimble: Brain Training | 265425 | [265425-math-be-nimble-brain-training.json](./265425-math-be-nimble-brain-training.json) |
 | Math Blaster Ages 4-6 | 58816 | [58816-math-blaster-ages-4-6.json](./58816-math-blaster-ages-4-6.json) |
 | Math Blaster Ages 6-8 | 250608 | [250608-math-blaster-ages-6-8.json](./250608-math-blaster-ages-6-8.json) |
@@ -1359,7 +1360,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Prime: Trial of Strength | 339260 | [339260-metroid-prime-trial-of-strength.json](./339260-metroid-prime-trial-of-strength.json) |
 | Metroid Tactics | 264878 | [264878-metroid-tactics.json](./264878-metroid-tactics.json) |
 | Metroid Vanguard | 331700 | [331700-metroid-vanguard.json](./331700-metroid-vanguard.json) |
+| Metroid X | 267400 | [267400-metroid-x.json](./267400-metroid-x.json) |
 | Metroid: 3D TechDemo | 324088 | [324088-metroid-3d-techdemo.json](./324088-metroid-3d-techdemo.json) |
+| Metroid: Another Legend | 267399 | [267399-metroid-another-legend.json](./267399-metroid-another-legend.json) |
 | Metroid: Crocomire's Last Stand | 277040 | [277040-metroid-crocomires-last-stand.json](./277040-metroid-crocomires-last-stand.json) |
 | Metroid: Desolation | 255381 | [255381-metroid-desolation.json](./255381-metroid-desolation.json) |
 | Metroid: Genesis | 323757 | [323757-metroid-genesis.json](./323757-metroid-genesis.json) |
@@ -1385,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mia's Math Adventure: Just in Time! | 144378 | [144378-mias-math-adventure-just-in-time.json](./144378-mias-math-adventure-just-in-time.json) |
 | Miami Horizon 2077 | 238735 | [238735-miami-horizon-2077.json](./238735-miami-horizon-2077.json) |
 | Miami Shark | 234942 | [234942-miami-shark.json](./234942-miami-shark.json) |
+| Miamo.fun | 267368 | [267368-miamo-fun.json](./267368-miamo-fun.json) |
 | MiaouVSRG | 351047 | [351047-miaouvsrg.json](./351047-miaouvsrg.json) |
 | Miazma or the Devil's Stone | 99012 | [99012-miazma-or-the-devils-stone.json](./99012-miazma-or-the-devils-stone.json) |
 | Michael Jackson's Moonwalker | 262508 | [262508-michael-jacksons-moonwalker.json](./262508-michael-jacksons-moonwalker.json) |
@@ -1569,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milthm | 258703 | [258703-milthm.json](./258703-milthm.json) |
 | Milya[broken] | 150128 | [150128-milya-broken.json](./150128-milya-broken.json) |
 | Mima's Magical Wardrobe | 325817 | [325817-mimas-magical-wardrobe.json](./325817-mimas-magical-wardrobe.json) |
+| Mimi in The Sky | 267374 | [267374-mimi-in-the-sky.json](./267374-mimi-in-the-sky.json) |
 | Mimic Party | 413646 | [413646-mimic-party.json](./413646-mimic-party.json) |
 | Mimic Search | 278678 | [278678-mimic-search.json](./278678-mimic-search.json) |
 | Mimic Sleuth | 355031 | [355031-mimic-sleuth.json](./355031-mimic-sleuth.json) |
