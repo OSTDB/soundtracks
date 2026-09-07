@@ -1138,6 +1138,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Betty | 377081 | [377081-bingo-betty.json](./377081-bingo-betty.json) |
 | Bingo de NouTore: BinTore | 222526 | [222526-bingo-de-noutore-bintore.json](./222526-bingo-de-noutore-bintore.json) |
 | Bingo Infinity | 96082 | [96082-bingo-infinity.json](./96082-bingo-infinity.json) |
+| Bingo Pinball Gameroom: Agogo | 265167 | [265167-bingo-pinball-gameroom-agogo.json](./265167-bingo-pinball-gameroom-agogo.json) |
+| Bingo Pinball Gameroom: Bally Acapulco | 265169 | [265169-bingo-pinball-gameroom-bally-acapulco.json](./265169-bingo-pinball-gameroom-bally-acapulco.json) |
+| Bingo Pinball Gameroom: Bally Atlantic City | 265170 | [265170-bingo-pinball-gameroom-bally-atlantic-city.json](./265170-bingo-pinball-gameroom-bally-atlantic-city.json) |
+| Bingo Pinball Gameroom: Bally Bali | 265171 | [265171-bingo-pinball-gameroom-bally-bali.json](./265171-bingo-pinball-gameroom-bally-bali.json) |
+| Bingo Pinball Gameroom: Bally Ballerina | 265172 | [265172-bingo-pinball-gameroom-bally-ballerina.json](./265172-bingo-pinball-gameroom-bally-ballerina.json) |
+| Bingo Pinball Gameroom: Bally Beach Beauty | 265173 | [265173-bingo-pinball-gameroom-bally-beach-beauty.json](./265173-bingo-pinball-gameroom-bally-beach-beauty.json) |
+| Bingo Pinball Gameroom: Bally Yacht Club | 265168 | [265168-bingo-pinball-gameroom-bally-yacht-club.json](./265168-bingo-pinball-gameroom-bally-yacht-club.json) |
+| Bingo Pinball Gameroom: United Brazil | 265166 | [265166-bingo-pinball-gameroom-united-brazil.json](./265166-bingo-pinball-gameroom-united-brazil.json) |
+| Bingo Pinball Gameroom: United Caravan | 265165 | [265165-bingo-pinball-gameroom-united-caravan.json](./265165-bingo-pinball-gameroom-united-caravan.json) |
+| Bingo Pinball Gameroom: United Hawaii | 265164 | [265164-bingo-pinball-gameroom-united-hawaii.json](./265164-bingo-pinball-gameroom-united-hawaii.json) |
+| Bingo Pinball Gameroom: United Manhattan | 265163 | [265163-bingo-pinball-gameroom-united-manhattan.json](./265163-bingo-pinball-gameroom-united-manhattan.json) |
+| Bingo Pinball Gameroom: United Mexico | 265162 | [265162-bingo-pinball-gameroom-united-mexico.json](./265162-bingo-pinball-gameroom-united-mexico.json) |
+| Bingo Pinball Gameroom: United Rio | 265161 | [265161-bingo-pinball-gameroom-united-rio.json](./265161-bingo-pinball-gameroom-united-rio.json) |
 | Bingo Roulette | 404213 | [404213-bingo-roulette.json](./404213-bingo-roulette.json) |
 | Binky's Trash Service | 142483 | [142483-binkys-trash-service.json](./142483-binkys-trash-service.json) |
 | Bio Fail | 410910 | [410910-bio-fail.json](./410910-bio-fail.json) |
@@ -1619,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Bird's Song | 275346 | [275346-blue-birds-song.json](./275346-blue-birds-song.json) |
 | Blue Blaze Maze | 96080 | [96080-blue-blaze-maze.json](./96080-blue-blaze-maze.json) |
 | Blue Box | 200753 | [200753-blue-box.json](./200753-blue-box.json) |
+| Blue Cradle: Signifie | 265143 | [265143-blue-cradle-signifie.json](./265143-blue-cradle-signifie.json) |
 | Blue Dragon: Shuffle Dungeon | 259863 | [259863-blue-dragon-shuffle-dungeon.json](./259863-blue-dragon-shuffle-dungeon.json) |
 | Blue fencer Resurrection | 159860 | [159860-blue-fencer-resurrection.json](./159860-blue-fencer-resurrection.json) |
 | Blue Forest Story: Kaze no Fuuin | 37204 | [37204-blue-forest-story-kaze-no-fuuin.json](./37204-blue-forest-story-kaze-no-fuuin.json) |
