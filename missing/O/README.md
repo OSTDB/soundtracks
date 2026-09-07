@@ -682,12 +682,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otto's Ottifanten: Kommando Stortebeker | 50559 | [50559-ottos-ottifanten-kommando-stortebeker.json](./50559-ottos-ottifanten-kommando-stortebeker.json) |
 | Ou Dorobou Jing: Devil Version | 146341 | [146341-ou-dorobou-jing-devil-version.json](./146341-ou-dorobou-jing-devil-version.json) |
 | Oubey VR: Cosmic Voyage | 153421 | [153421-oubey-vr-cosmic-voyage.json](./153421-oubey-vr-cosmic-voyage.json) |
+| Ouch! So Many Beauties! | 298602 | [298602-ouch-so-many-beauties.json](./298602-ouch-so-many-beauties.json) |
 | Ouchi Otofuda | 206371 | [206371-ouchi-otofuda.json](./206371-ouchi-otofuda.json) |
 | Oukaranman | 59408 | [59408-oukaranman.json](./59408-oukaranman.json) |
 | Oukoku no Dougu-ya-san | 222533 | [222533-oukoku-no-dougu-ya-san.json](./222533-oukoku-no-dougu-ya-san.json) |
 | Our Beautiful Earth 3 | 294447 | [294447-our-beautiful-earth-3.json](./294447-our-beautiful-earth-3.json) |
 | Our Church and Halloween: Story One | 146311 | [146311-our-church-and-halloween-story-one.json](./146311-our-church-and-halloween-story-one.json) |
 | Our Fate Forsaken | 197411 | [197411-our-fate-forsaken.json](./197411-our-fate-forsaken.json) |
+| Our Field Trip Adventure | 298582 | [298582-our-field-trip-adventure.json](./298582-our-field-trip-adventure.json) |
 | Our Friend Sloth | 179196 | [179196-our-friend-sloth.json](./179196-our-friend-sloth.json) |
 | Our Ninja World | 199106 | [199106-our-ninja-world.json](./199106-our-ninja-world.json) |
 | Our Tribe Above All | 263774 | [263774-our-tribe-above-all.json](./263774-our-tribe-above-all.json) |
