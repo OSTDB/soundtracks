@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldritchvania | 223680 | [223680-eldritchvania.json](./223680-eldritchvania.json) |
 | Ele Blaze | 68662 | [68662-ele-blaze.json](./68662-ele-blaze.json) |
 | Ele-Mental | 149082 | [149082-ele-mental.json](./149082-ele-mental.json) |
+| Eleanor 3 | 286502 | [286502-eleanor-3.json](./286502-eleanor-3.json) |
 | EleBall | 302944 | [302944-eleball.json](./302944-eleball.json) |
 | Elecade | 400907 | [400907-elecade.json](./400907-elecade.json) |
 | Elect | 331720 | [331720-elect.json](./331720-elect.json) |
@@ -562,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Survivors | 224785 | [224785-energy-survivors.json](./224785-energy-survivors.json) |
 | Energy Tail | 215924 | [215924-energy-tail.json](./215924-energy-tail.json) |
 | Energy Tanks | 269270 | [269270-energy-tanks.json](./269270-energy-tanks.json) |
+| ENF Novels: Dress Code | 286526 | [286526-enf-novels-dress-code.json](./286526-enf-novels-dress-code.json) |
 | Engare | 34110 | [34110-engare.json](./34110-engare.json) |
 | Engie Benjy: Time for Teamwork! | 325255 | [325255-engie-benjy-time-for-teamwork.json](./325255-engie-benjy-time-for-teamwork.json) |
 | Engine Room | 47266 | [47266-engine-room.json](./47266-engine-room.json) |
@@ -633,6 +635,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epoch Reset | 380414 | [380414-epoch-reset.json](./380414-epoch-reset.json) |
 | Epochs of Fire | 333009 | [333009-epochs-of-fire.json](./333009-epochs-of-fire.json) |
 | Epos 11 | 355525 | [355525-epos-11.json](./355525-epos-11.json) |
+| EPS Series Vol. 1: Because I Love You - Yukiko Morikawa | 286507 | [286507-eps-series-vol-1-because-i-love-you-yukiko-morikawa.json](./286507-eps-series-vol-1-because-i-love-you-yukiko-morikawa.json) |
+| EPS Series Vol. 2: Moonlight to Daybreak - Yukie Nakama | 286510 | [286510-eps-series-vol-2-moonlight-to-daybreak-yukie-nakama.json](./286510-eps-series-vol-2-moonlight-to-daybreak-yukie-nakama.json) |
 | Epsilon | 17391 | [17391-epsilon.json](./17391-epsilon.json) |
 | Epsilon wars | 167296 | [167296-epsilon-wars.json](./167296-epsilon-wars.json) |
 | Equilibrium Ocean | 107161 | [107161-equilibrium-ocean.json](./107161-equilibrium-ocean.json) |
