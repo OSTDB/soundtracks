@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paris: Jigsaw Puzzles | 104078 | [104078-paris-jigsaw-puzzles.json](./104078-paris-jigsaw-puzzles.json) |
 | Parisian Brasserie Simulator | 326380 | [326380-parisian-brasserie-simulator.json](./326380-parisian-brasserie-simulator.json) |
 | Parity | 124243 | [124243-parity.json](./124243-parity.json) |
+| Parity Shot Integral | 305167 | [305167-parity-shot-integral.json](./305167-parity-shot-integral.json) |
 | Park Beyond: Beyond Extreme | 262670 | [262670-park-beyond-beyond-extreme.json](./262670-park-beyond-beyond-extreme.json) |
 | Park Beyond: Complete Edition | 331856 | [331856-park-beyond-complete-edition.json](./331856-park-beyond-complete-edition.json) |
 | Park Inc | 146878 | [146878-park-inc.json](./146878-park-inc.json) |
@@ -732,6 +733,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Wright: Ace Attorney - Trials and Tribulations | 221287 | [221287-phoenix-wright-ace-attorney-trials-and-tribulations.json](./221287-phoenix-wright-ace-attorney-trials-and-tribulations.json) |
 | Phoenix Wright: Ace Attorney - Truth and Consequences | 302651 | [302651-phoenix-wright-ace-attorney-truth-and-consequences.json](./302651-phoenix-wright-ace-attorney-truth-and-consequences.json) |
 | Phoenix Wright: Ace Attorney Trilogy - E-Capcom Limited Edition | 205266 | [205266-phoenix-wright-ace-attorney-trilogy-e-capcom-limited-edition.json](./205266-phoenix-wright-ace-attorney-trilogy-e-capcom-limited-edition.json) |
+| Phoenix Wright: Comeback & Turnabout | 305194 | [305194-phoenix-wright-comeback-and-turnabout.json](./305194-phoenix-wright-comeback-and-turnabout.json) |
+| Phoenix Wright: Hidden Traces | 305192 | [305192-phoenix-wright-hidden-traces.json](./305192-phoenix-wright-hidden-traces.json) |
+| Phoenix Wright: Legends of Liability | 305185 | [305185-phoenix-wright-legends-of-liability.json](./305185-phoenix-wright-legends-of-liability.json) |
+| Phoenix Wright: Turnabout Cuddles! | 305187 | [305187-phoenix-wright-turnabout-cuddles.json](./305187-phoenix-wright-turnabout-cuddles.json) |
 | Phoenix Wrong | 413602 | [413602-phoenix-wrong.json](./413602-phoenix-wrong.json) |
 | Phonequest | 134694 | [134694-phonequest.json](./134694-phonequest.json) |
 | Phonics Fun with Biff, Chip & Kipper Vol. 1 | 61657 | [61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json](./61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json) |
