@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darwins Trash | 370149 | [370149-darwins-trash.json](./370149-darwins-trash.json) |
 | Das Boot: German U-Boat Simulation | 14332 | [14332-das-boot-german-u-boat-simulation.json](./14332-das-boot-german-u-boat-simulation.json) |
 | Das Rätsel in Ägypten | 81399 | [81399-das-ratsel-in-agypten.json](./81399-das-ratsel-in-agypten.json) |
+| Dash & Roll | 285981 | [285981-dash-and-roll.json](./285981-dash-and-roll.json) |
 | Dash.io | 256521 | [256521-dash-io.json](./256521-dash-io.json) |
 | Dasher | 158205 | [158205-dasher.json](./158205-dasher.json) |
 | Dashing Pixels | 136484 | [136484-dashing-pixels.json](./136484-dashing-pixels.json) |
@@ -1069,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die CD-ROM mit der Maus 3 | 250611 | [250611-die-cd-rom-mit-der-maus-3.json](./250611-die-cd-rom-mit-der-maus-3.json) |
 | Die Cook | 277024 | [277024-die-cook.json](./277024-die-cook.json) |
 | Die drei???: Plan der Chamäleonbande | 302665 | [302665-die-drei-plan-der-chamaleonbande.json](./302665-die-drei-plan-der-chamaleonbande.json) |
+| Die Erdnussbutter | 285978 | [285978-die-erdnussbutter.json](./285978-die-erdnussbutter.json) |
 | Die Hard Trilogy | 8234 | [8234-die-hard-trilogy.json](./8234-die-hard-trilogy.json) |
 | Die Hard: Nakatomi Plaza | 18219 | [18219-die-hard-nakatomi-plaza.json](./18219-die-hard-nakatomi-plaza.json) |
 | Die Hard: Vendetta | 3876 | [3876-die-hard-vendetta.json](./3876-die-hard-vendetta.json) |
@@ -1488,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doko he Iku no, Ano Hi | 408770 | [408770-doko-he-iku-no-ano-hi.json](./408770-doko-he-iku-no-ano-hi.json) |
 | Dokodemo Crash-kun | 210242 | [210242-dokodemo-crash-kun.json](./210242-dokodemo-crash-kun.json) |
 | Dokodemo Mahjong | 43966 | [43966-dokodemo-mahjong.json](./43966-dokodemo-mahjong.json) |
+| Doku to Kuzu | 285989 | [285989-doku-to-kuzu.json](./285989-doku-to-kuzu.json) |
 | Dolce | 229972 | [229972-dolce.json](./229972-dolce.json) |
 | Doll Defenders | 293622 | [293622-doll-defenders.json](./293622-doll-defenders.json) |
 | Doll Recollect | 299737 | [299737-doll-recollect.json](./299737-doll-recollect.json) |
@@ -2385,6 +2388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duskbound | 258197 | [258197-duskbound.json](./258197-duskbound.json) |
 | Dusky Depths | 273628 | [273628-dusky-depths.json](./273628-dusky-depths.json) |
 | Dust & Letters | 402915 | [402915-dust-and-letters.json](./402915-dust-and-letters.json) |
+| Dust Courier | 285984 | [285984-dust-courier.json](./285984-dust-courier.json) |
 | Dust Dasher | 135280 | [135280-dust-dasher.json](./135280-dust-dasher.json) |
 | Dust Fleet | 133464 | [133464-dust-fleet.json](./133464-dust-fleet.json) |
 | Dust to Dusk | 138831 | [138831-dust-to-dusk.json](./138831-dust-to-dusk.json) |
