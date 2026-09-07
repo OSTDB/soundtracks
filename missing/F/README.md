@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabled Lands | 133420 | [133420-fabled-lands.json](./133420-fabled-lands.json) |
 | Fabled Lands: The Serpent King's Domain | 296671 | [296671-fabled-lands-the-serpent-kings-domain.json](./296671-fabled-lands-the-serpent-kings-domain.json) |
 | Fables of Talumos | 119007 | [119007-fables-of-talumos.json](./119007-fables-of-talumos.json) |
+| Face 2 Face | 299730 | [299730-face-2-face.json](./299730-face-2-face.json) |
 | Faceball 2000 | 19701 | [19701-faceball-2000.json](./19701-faceball-2000.json) |
 | Faceball 2000 | 299462 | [299462-faceball-2000.json](./299462-faceball-2000.json) |
 | Faced | 181377 | [181377-faced.json](./181377-faced.json) |
@@ -75,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FactoryX | 271986 | [271986-factoryx.json](./271986-factoryx.json) |
 | Faded Melodies | 298897 | [298897-faded-melodies.json](./298897-faded-melodies.json) |
 | Faded Monsuta | 350999 | [350999-faded-monsuta.json](./350999-faded-monsuta.json) |
+| Fadin's Vacation in the Parallel Kingdom | 299740 | [299740-fadins-vacation-in-the-parallel-kingdom.json](./299740-fadins-vacation-in-the-parallel-kingdom.json) |
 | Fading Afternoon | 166734 | [166734-fading-afternoon.json](./166734-fading-afternoon.json) |
 | Fading Echoes | 291213 | [291213-fading-echoes.json](./291213-fading-echoes.json) |
 | Fading Haven | 402260 | [402260-fading-haven.json](./402260-fading-haven.json) |
@@ -1657,6 +1659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruitimo! | 352216 | [352216-fruitimo.json](./352216-fruitimo.json) |
 | Fruits Inc. Deluxe Pack | 35750 | [35750-fruits-inc-deluxe-pack.json](./35750-fruits-inc-deluxe-pack.json) |
 | Fruits of Fury | 413618 | [413618-fruits-of-fury.json](./413618-fruits-of-fury.json) |
+| Frutakia | 299776 | [299776-frutakia.json](./299776-frutakia.json) |
 | Frutiger Space | 366227 | [366227-frutiger-space.json](./366227-frutiger-space.json) |
 | Frutz | 405530 | [405530-frutz.json](./405530-frutz.json) |
 | FTB Academy | 396938 | [396938-ftb-academy.json](./396938-ftb-academy.json) |
