@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of the Night | 238749 | [238749-shadows-of-the-night.json](./238749-shadows-of-the-night.json) |
 | Shadows of the Tusk | 66118 | [66118-shadows-of-the-tusk.json](./66118-shadows-of-the-tusk.json) |
 | Shadows of Thornkeep | 374073 | [374073-shadows-of-thornkeep.json](./374073-shadows-of-thornkeep.json) |
+| Shadows on the Walls | 262967 | [262967-shadows-on-the-walls.json](./262967-shadows-on-the-walls.json) |
 | Shadows Over Loathing: Collector’s Edition | 247193 | [247193-shadows-over-loathing-collector-s-edition.json](./247193-shadows-over-loathing-collector-s-edition.json) |
 | Shadowsense. | 207510 | [207510-shadowsense.json](./207510-shadowsense.json) |
 | Shadowvane | 254781 | [254781-shadowvane.json](./254781-shadowvane.json) |
@@ -1805,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skypop Scramble | 323750 | [323750-skypop-scramble.json](./323750-skypop-scramble.json) |
 | SkyRider ADV | 90696 | [90696-skyrider-adv.json](./90696-skyrider-adv.json) |
 | Skyscraper | 9422 | [9422-skyscraper.json](./9422-skyscraper.json) |
+| SkySouls | 262947 | [262947-skysouls.json](./262947-skysouls.json) |
 | Skystead Christmas | 327864 | [327864-skystead-christmas.json](./327864-skystead-christmas.json) |
 | Skyvern | 350422 | [350422-skyvern.json](./350422-skyvern.json) |
 | Skyward | 117099 | [117099-skyward.json](./117099-skyward.json) |
@@ -1972,6 +1974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smackitball | 33036 | [33036-smackitball.json](./33036-smackitball.json) |
 | Small Army | 185688 | [185688-small-army.json](./185688-small-army.json) |
 | Small Ball | 169461 | [169461-small-ball.json](./169461-small-ball.json) |
+| Small Kingdoms | 262959 | [262959-small-kingdoms.json](./262959-small-kingdoms.json) |
 | Small Soldiers | 71671 | [71671-small-soldiers.json](./71671-small-soldiers.json) |
 | Small Town Terrors: Pilgrim's Hook - Collector's Edition | 36314 | [36314-small-town-terrors-pilgrims-hook-collectors-edition.json](./36314-small-town-terrors-pilgrims-hook-collectors-edition.json) |
 | Smart As... | 92456 | [92456-smart-as.json](./92456-smart-as.json) |
@@ -2930,6 +2933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Meat | 411610 | [411610-special-meat.json](./411610-special-meat.json) |
 | Special Sampler | 55925 | [55925-special-sampler.json](./55925-special-sampler.json) |
 | Special Tee Shot | 60587 | [60587-special-tee-shot.json](./60587-special-tee-shot.json) |
+| Specimen #08 | 262963 | [262963-specimen-08.json](./262963-specimen-08.json) |
 | Spectator 2 | 264629 | [264629-spectator-2.json](./264629-spectator-2.json) |
 | Specter Spelunker Resizes | 283736 | [283736-specter-spelunker-resizes.json](./283736-specter-spelunker-resizes.json) |
 | Spectral Ascension | 152938 | [152938-spectral-ascension.json](./152938-spectral-ascension.json) |
@@ -3871,6 +3875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stratagem | 289311 | [289311-stratagem.json](./289311-stratagem.json) |
 | Strategems | 353271 | [353271-strategems.json](./353271-strategems.json) |
 | Strategic Command WWII: War in the Pacific | 292538 | [292538-strategic-command-wwii-war-in-the-pacific.json](./292538-strategic-command-wwii-war-in-the-pacific.json) |
+| Strategic Command: World War I - Empires in Turmoil | 262929 | [262929-strategic-command-world-war-i-empires-in-turmoil.json](./262929-strategic-command-world-war-i-empires-in-turmoil.json) |
 | Strategie Spiele | 81396 | [81396-strategie-spiele.json](./81396-strategie-spiele.json) |
 | Strato | 35955 | [35955-strato.json](./35955-strato.json) |
 | Stratum Descent | 279015 | [279015-stratum-descent.json](./279015-stratum-descent.json) |
@@ -4346,6 +4351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Abandoned Places 2 | 155625 | [155625-super-jigsaw-puzzle-generations-abandoned-places-2.json](./155625-super-jigsaw-puzzle-generations-abandoned-places-2.json) |
 | Super Jigsaw Puzzle: Generations - Abandoned Places Puzzles | 155643 | [155643-super-jigsaw-puzzle-generations-abandoned-places-puzzles.json](./155643-super-jigsaw-puzzle-generations-abandoned-places-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Airplanes Puzzles | 155629 | [155629-super-jigsaw-puzzle-generations-airplanes-puzzles.json](./155629-super-jigsaw-puzzle-generations-airplanes-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Amusements | 262939 | [262939-super-jigsaw-puzzle-generations-amusements.json](./262939-super-jigsaw-puzzle-generations-amusements.json) |
 | Super Jigsaw Puzzle: Generations - Anime Puzzles 2 | 155615 | [155615-super-jigsaw-puzzle-generations-anime-puzzles-2.json](./155615-super-jigsaw-puzzle-generations-anime-puzzles-2.json) |
 | Super Jigsaw Puzzle: Generations - Baby Animals 2 | 263751 | [263751-super-jigsaw-puzzle-generations-baby-animals-2.json](./263751-super-jigsaw-puzzle-generations-baby-animals-2.json) |
 | Super Jigsaw Puzzle: Generations - Bears Puzzles | 155637 | [155637-super-jigsaw-puzzle-generations-bears-puzzles.json](./155637-super-jigsaw-puzzle-generations-bears-puzzles.json) |
@@ -4826,6 +4832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Isolation | 384528 | [384528-surviving-isolation.json](./384528-surviving-isolation.json) |
 | Surviving Mars: In-Dome Buildings Pack | 215400 | [215400-surviving-mars-in-dome-buildings-pack.json](./215400-surviving-mars-in-dome-buildings-pack.json) |
 | Surviving Medieval | 118402 | [118402-surviving-medieval.json](./118402-surviving-medieval.json) |
+| Surviving Skeleton Island | 262968 | [262968-surviving-skeleton-island.json](./262968-surviving-skeleton-island.json) |
 | Surviving West | 92524 | [92524-surviving-west.json](./92524-surviving-west.json) |
 | Surviving with a Bat | 277824 | [277824-surviving-with-a-bat.json](./277824-surviving-with-a-bat.json) |
 | Survivor Cells: Virusbane | 310389 | [310389-survivor-cells-virusbane.json](./310389-survivor-cells-virusbane.json) |
@@ -4913,6 +4920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweetie Candy Maze: Brown Chocolate | 398322 | [398322-sweetie-candy-maze-brown-chocolate.json](./398322-sweetie-candy-maze-brown-chocolate.json) |
 | Sweets Drop | 283721 | [283721-sweets-drop.json](./283721-sweets-drop.json) |
 | Sweety Kitty 2 | 224774 | [224774-sweety-kitty-2.json](./224774-sweety-kitty-2.json) |
+| Swell | 262974 | [262974-swell.json](./262974-swell.json) |
 | Swervle | 413686 | [413686-swervle.json](./413686-swervle.json) |
 | Swift Death | 138229 | [138229-swift-death.json](./138229-swift-death.json) |
 | Swim! Sacabambaspis | 276470 | [276470-swim-sacabambaspis.json](./276470-swim-sacabambaspis.json) |
