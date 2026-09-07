@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land Drifters | 238746 | [238746-land-drifters.json](./238746-land-drifters.json) |
 | Land Fight | 91964 | [91964-land-fight.json](./91964-land-fight.json) |
 | Land of Chark | 141243 | [141243-land-of-chark.json](./141243-land-of-chark.json) |
+| Land of Futures | 294144 | [294144-land-of-futures.json](./294144-land-of-futures.json) |
 | Land of Glarefall | 352737 | [352737-land-of-glarefall.json](./352737-land-of-glarefall.json) |
 | Land of Illusion Starring Mickey Mouse | 8123 | [8123-land-of-illusion-starring-mickey-mouse.json](./8123-land-of-illusion-starring-mickey-mouse.json) |
 | Land of the Lost: Crystal Adventure | 68042 | [68042-land-of-the-lost-crystal-adventure.json](./68042-land-of-the-lost-crystal-adventure.json) |
@@ -643,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Up the Room | 161371 | [161371-light-up-the-room.json](./161371-light-up-the-room.json) |
 | Light: Path of the Archmage | 392136 | [392136-light-path-of-the-archmage.json](./392136-light-path-of-the-archmage.json) |
 | Light: Rebirth-The falsehood | 53274 | [53274-light-rebirth-the-falsehood.json](./53274-light-rebirth-the-falsehood.json) |
+| Light's End | 294179 | [294179-lights-end.json](./294179-lights-end.json) |
 | Lightening Force: Quest for the Darkstar | 46273 | [46273-lightening-force-quest-for-the-darkstar.json](./46273-lightening-force-quest-for-the-darkstar.json) |
 | Lighter | 114394 | [114394-lighter.json](./114394-lighter.json) |
 | Lightfish | 16271 | [16271-lightfish.json](./16271-lightfish.json) |
@@ -1107,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Zion | 395555 | [395555-lost-zion.json](./395555-lost-zion.json) |
 | Losted Mind | 348256 | [348256-losted-mind.json](./348256-losted-mind.json) |
 | LostHero | 138248 | [138248-losthero.json](./138248-losthero.json) |
+| Lot Lizard | 294178 | [294178-lot-lizard.json](./294178-lot-lizard.json) |
 | Lotan | 185143 | [185143-lotan.json](./185143-lotan.json) |
 | Lotion Samurai | 161400 | [161400-lotion-samurai.json](./161400-lotion-samurai.json) |
 | Lotto Fun | 312352 | [312352-lotto-fun.json](./312352-lotto-fun.json) |
