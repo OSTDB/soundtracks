@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Wonderland Solitaire | 276200 | [276200-happy-wonderland-solitaire.json](./276200-happy-wonderland-solitaire.json) |
 | Happy Words | 117051 | [117051-happy-words.json](./117051-happy-words.json) |
 | HappyFamily - Cut Knife | 100866 | [100866-happyfamily-cut-knife.json](./100866-happyfamily-cut-knife.json) |
+| HappyFunland | 215689 | [215689-happyfunland.json](./215689-happyfunland.json) |
 | HappySnowMan | 236540 | [236540-happysnowman.json](./236540-happysnowman.json) |
 | Haramimura: When a Wife Becomes a Villager | 388721 | [388721-haramimura-when-a-wife-becomes-a-villager.json](./388721-haramimura-when-a-wife-becomes-a-villager.json) |
 | Harassment ni Ki wo Tsukete | 251609 | [251609-harassment-ni-ki-wo-tsukete.json](./251609-harassment-ni-ki-wo-tsukete.json) |
@@ -297,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardlight | 138829 | [138829-hardlight.json](./138829-hardlight.json) |
 | Hardline | 94221 | [94221-hardline.json](./94221-hardline.json) |
 | Hardnoid | 29976 | [29976-hardnoid.json](./29976-hardnoid.json) |
+| Hardrock Sex 3D | 215687 | [215687-hardrock-sex-3d.json](./215687-hardrock-sex-3d.json) |
 | Hardwar | 19566 | [19566-hardwar.json](./19566-hardwar.json) |
 | Hardware Engineering | 31400 | [31400-hardware-engineering.json](./31400-hardware-engineering.json) |
 | Hardware Engineers | 32457 | [32457-hardware-engineers.json](./32457-hardware-engineers.json) |
@@ -1203,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himehibi: New Princess Days Zoku! Nigakki Portable | 218485 | [218485-himehibi-new-princess-days-zoku-nigakki-portable.json](./218485-himehibi-new-princess-days-zoku-nigakki-portable.json) |
 | Himei Dam | 324703 | [324703-himei-dam.json](./324703-himei-dam.json) |
 | Himemiya-san wa Kamaitai: Limited Edition | 205264 | [205264-himemiya-san-wa-kamaitai-limited-edition.json](./205264-himemiya-san-wa-kamaitai-limited-edition.json) |
+| HimeYoku: A Sacrifice of Lust and Grace | 215685 | [215685-himeyoku-a-sacrifice-of-lust-and-grace.json](./215685-himeyoku-a-sacrifice-of-lust-and-grace.json) |
 | Himitsu no AiPri | 284918 | [284918-himitsu-no-aipri.json](./284918-himitsu-no-aipri.json) |
 | Hinomaruko | 122404 | [122404-hinomaruko.json](./122404-hinomaruko.json) |
 | Hinterhalt 2 | 110361 | [110361-hinterhalt-2.json](./110361-hinterhalt-2.json) |
@@ -1313,6 +1316,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Bonus Gold | 29929 | [29929-holiday-bonus-gold.json](./29929-holiday-bonus-gold.json) |
 | Holiday Holocaust | 273139 | [273139-holiday-holocaust.json](./273139-holiday-holocaust.json) |
 | Holiday in Europe: Netherlands Dreams - Collector's Edition | 362852 | [362852-holiday-in-europe-netherlands-dreams-collectors-edition.json](./362852-holiday-in-europe-netherlands-dreams-collectors-edition.json) |
+| Holiday Jigsaw: Christmas 2 | 215684 | [215684-holiday-jigsaw-christmas-2.json](./215684-holiday-jigsaw-christmas-2.json) |
+| Holiday Jigsaw: Thanksgiving Day 3 | 215683 | [215683-holiday-jigsaw-thanksgiving-day-3.json](./215683-holiday-jigsaw-thanksgiving-day-3.json) |
 | Holiday Mania | 157183 | [157183-holiday-mania.json](./157183-holiday-mania.json) |
 | Holiday Racer | 144386 | [144386-holiday-racer.json](./144386-holiday-racer.json) |
 | Hollenburg: Hell Castle | 256259 | [256259-hollenburg-hell-castle.json](./256259-hollenburg-hell-castle.json) |
