@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Dungeon Game | 333018 | [333018-random-dungeon-game.json](./333018-random-dungeon-game.json) |
 | Random Number God | 184625 | [184625-random-number-god.json](./184625-random-number-god.json) |
 | Random Quest : First Person RPG | 103505 | [103505-random-quest-first-person-rpg.json](./103505-random-quest-first-person-rpg.json) |
+| Random Thing Game | 236278 | [236278-random-thing-game.json](./236278-random-thing-game.json) |
 | Randungeon | 326073 | [326073-randungeon.json](./326073-randungeon.json) |
 | Rangarok End Girls | 309357 | [309357-rangarok-end-girls.json](./309357-rangarok-end-girls.json) |
 | Range Ball | 104056 | [104056-range-ball.json](./104056-range-ball.json) |
