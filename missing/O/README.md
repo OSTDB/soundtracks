@@ -750,11 +750,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherside | 209129 | [209129-otherside.json](./209129-otherside.json) |
 | Otherworld Heroes | 208054 | [208054-otherworld-heroes.json](./208054-otherworld-heroes.json) |
 | Otis | 64428 | [64428-otis.json](./64428-otis.json) |
+| Otokiyome | 241380 | [241380-otokiyome.json](./241380-otokiyome.json) |
 | Otoko Cross: Naked Remix | 247186 | [247186-otoko-cross-naked-remix.json](./247186-otoko-cross-naked-remix.json) |
 | Otoko Cross: Naked Remix 2 | 381621 | [381621-otoko-cross-naked-remix-2.json](./381621-otoko-cross-naked-remix-2.json) |
 | Otoko Dogeza Zigoku | 63870 | [63870-otoko-dogeza-zigoku.json](./63870-otoko-dogeza-zigoku.json) |
 | Otona no Gal Jan Kimi ni Hane Man | 248628 | [248628-otona-no-gal-jan-kimi-ni-hane-man.json](./248628-otona-no-gal-jan-kimi-ni-hane-man.json) |
 | Otona no Joushikiryoku Training DS | 68029 | [68029-otona-no-joushikiryoku-training-ds.json](./68029-otona-no-joushikiryoku-training-ds.json) |
+| Otosan | 241366 | [241366-otosan.json](./241366-otosan.json) |
 | Otostaz | 175947 | [175947-otostaz.json](./175947-otostaz.json) |
 | Otsuge Uranai nan desu | 69268 | [69268-otsuge-uranai-nan-desu.json](./69268-otsuge-uranai-nan-desu.json) |
 | Otter Ocean | 242786 | [242786-otter-ocean.json](./242786-otter-ocean.json) |
