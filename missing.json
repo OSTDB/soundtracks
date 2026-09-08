@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T16:31:10.114Z",
-  "total_missing": 47398,
+  "generated_at": "2026-09-08T16:41:07.118Z",
+  "total_missing": 47397,
   "games": [
     {
       "igdb_id": 306086,
@@ -171,11 +171,6 @@
       "igdb_id": 205801,
       "game_name": "10 Talismans",
       "file": "missing/0-9/205801-10-talismans.json"
-    },
-    {
-      "igdb_id": 176499,
-      "game_name": "10-103",
-      "file": "missing/0-9/176499-10-103.json"
     },
     {
       "igdb_id": 153453,
