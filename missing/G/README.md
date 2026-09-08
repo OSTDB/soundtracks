@@ -1434,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growbots: Battle Academy | 161386 | [161386-growbots-battle-academy.json](./161386-growbots-battle-academy.json) |
 | Growers | 264058 | [264058-growers.json](./264058-growers.json) |
 | Growing My Manhole | 404809 | [404809-growing-my-manhole.json](./404809-growing-my-manhole.json) |
+| Growth | 229675 | [229675-growth.json](./229675-growth.json) |
 | Growth | 280208 | [280208-growth.json](./280208-growth.json) |
 | Growth | 331885 | [331885-growth.json](./331885-growth.json) |
 | Gru Dash Play | 384538 | [384538-gru-dash-play.json](./384538-gru-dash-play.json) |
