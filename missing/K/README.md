@@ -428,7 +428,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Mita Hikari 2 | 329968 | [329968-kimi-ga-mita-hikari-2.json](./329968-kimi-ga-mita-hikari-2.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi sae Ireba: Episode Sutelz | 311494 | [311494-kimi-sae-ireba-episode-sutelz.json](./311494-kimi-sae-ireba-episode-sutelz.json) |
 | Kimi to Koi Shite Musubarete | 394886 | [394886-kimi-to-koi-shite-musubarete.json](./394886-kimi-to-koi-shite-musubarete.json) |
 | Kimi to Mezameru Ikutsuka no Houhou | 398997 | [398997-kimi-to-mezameru-ikutsuka-no-houhou.json](./398997-kimi-to-mezameru-ikutsuka-no-houhou.json) |
@@ -902,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuru-kuru Action Kuru Pachi 6 | 220845 | [220845-kuru-kuru-action-kuru-pachi-6.json](./220845-kuru-kuru-action-kuru-pachi-6.json) |
 | Kuru-kuru Puzzle Sekai-shi B | 276465 | [276465-kuru-kuru-puzzle-sekai-shi-b.json](./276465-kuru-kuru-puzzle-sekai-shi-b.json) |
 | Kuruma de DS | 302675 | [302675-kuruma-de-ds.json](./302675-kuruma-de-ds.json) |
+| Kururin Donuts: Okashi Recipe | 228453 | [228453-kururin-donuts-okashi-recipe.json](./228453-kururin-donuts-okashi-recipe.json) |
 | Kururuga | 412967 | [412967-kururuga.json](./412967-kururuga.json) |
 | Kurushi Final: Mental Blocks | 272549 | [272549-kurushi-final-mental-blocks.json](./272549-kurushi-final-mental-blocks.json) |
 | Kusarihime: Euthanasia | 138804 | [138804-kusarihime-euthanasia.json](./138804-kusarihime-euthanasia.json) |
