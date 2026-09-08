@@ -771,6 +771,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of the Wind | 123642 | [123642-master-of-the-wind.json](./123642-master-of-the-wind.json) |
 | Master Reboot | 10541 | [10541-master-reboot.json](./10541-master-reboot.json) |
 | Master Sleuth Bundle | 209692 | [209692-master-sleuth-bundle.json](./209692-master-sleuth-bundle.json) |
+| Master System 3 | 230823 | [230823-master-system-3.json](./230823-master-system-3.json) |
+| Master System 3 Collection: 131 Super Jogos na Memória | 230826 | [230826-master-system-3-collection-131-super-jogos-na-memoria.json](./230826-master-system-3-collection-131-super-jogos-na-memoria.json) |
+| Master System Plug & Play | 230828 | [230828-master-system-plug-and-play.json](./230828-master-system-plug-and-play.json) |
 | Master the Sky | 257693 | [257693-master-the-sky.json](./257693-master-the-sky.json) |
 | Masterchef Cakes Edition | 217507 | [217507-masterchef-cakes-edition.json](./217507-masterchef-cakes-edition.json) |
 | Masterchef Chinese Food Edition | 195273 | [195273-masterchef-chinese-food-edition.json](./195273-masterchef-chinese-food-edition.json) |
@@ -901,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazaica | 304598 | [304598-mazaica.json](./304598-mazaica.json) |
 | Maze | 220340 | [220340-maze.json](./220340-maze.json) |
 | Maze | 360565 | [360565-maze.json](./360565-maze.json) |
+| Maze 2010 | 230851 | [230851-maze-2010.json](./230851-maze-2010.json) |
 | Maze Company | 326093 | [326093-maze-company.json](./326093-maze-company.json) |
 | Maze Death Race | 319586 | [319586-maze-death-race.json](./319586-maze-death-race.json) |
 | Maze Defenders | 255734 | [255734-maze-defenders.json](./255734-maze-defenders.json) |
@@ -937,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McDonald's Fairies: Lily | 254793 | [254793-mcdonalds-fairies-lily.json](./254793-mcdonalds-fairies-lily.json) |
 | McDonald's Fairies: Rose | 254794 | [254794-mcdonalds-fairies-rose.json](./254794-mcdonalds-fairies-rose.json) |
 | McDroid | 16689 | [16689-mcdroid.json](./16689-mcdroid.json) |
+| McTetris | 230831 | [230831-mctetris.json](./230831-mctetris.json) |
 | MDF: Magical Defense Force - Chapters 10-18 | 285445 | [285445-mdf-magical-defense-force-chapters-10-18.json](./285445-mdf-magical-defense-force-chapters-10-18.json) |
 | Me | 145034 | [145034-me.json](./145034-me.json) |
 | Me and the Key 2 | 225280 | [225280-me-and-the-key-2.json](./225280-me-and-the-key-2.json) |
@@ -1057,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Carrier Simulator | 392170 | [392170-mega-carrier-simulator.json](./392170-mega-carrier-simulator.json) |
 | Mega Collection: 8 Amazing Games - Volume 2 | 409542 | [409542-mega-collection-8-amazing-games-volume-2.json](./409542-mega-collection-8-amazing-games-volume-2.json) |
 | Mega Custom Night | 389412 | [389412-mega-custom-night.json](./389412-mega-custom-night.json) |
+| Mega Drive 3 | 230834 | [230834-mega-drive-3.json](./230834-mega-drive-3.json) |
 | Mega Drive Mini | 215392 | [215392-mega-drive-mini.json](./215392-mega-drive-mini.json) |
 | Mega Force | 22433 | [22433-mega-force.json](./22433-mega-force.json) |
 | Mega Man | 281415 | [281415-mega-man.json](./281415-mega-man.json) |
@@ -2370,7 +2376,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Pet Shop | 242787 | [242787-monster-pet-shop.json](./242787-monster-pet-shop.json) |
 | Monster Phenomenon | 192982 | [192982-monster-phenomenon.json](./192982-monster-phenomenon.json) |
 | Monster Prom | 69483 | [69483-monster-prom.json](./69483-monster-prom.json) |
+| Monster Prom 2: Monster Camp Outfit Pack - Thirst and Sensibility | 230815 | [230815-monster-prom-2-monster-camp-outfit-pack-thirst-and-sensibility.json](./230815-monster-prom-2-monster-camp-outfit-pack-thirst-and-sensibility.json) |
 | Monster Prom 2: Monster Camp XXL Character Pack - Colorful Campers | 283183 | [283183-monster-prom-2-monster-camp-xxl-character-pack-colorful-campers.json](./283183-monster-prom-2-monster-camp-xxl-character-pack-colorful-campers.json) |
+| Monster Prom 3: Monster Roadtrip - Hitchhiker Pack: Amira & Oz | 230822 | [230822-monster-prom-3-monster-roadtrip-hitchhiker-pack-amira-and-oz.json](./230822-monster-prom-3-monster-roadtrip-hitchhiker-pack-amira-and-oz.json) |
 | Monster Prom 3: Monster Roadtrip - Hitchhiker Pack: Vicky & Brian | 241967 | [241967-monster-prom-3-monster-roadtrip-hitchhiker-pack-vicky-and-brian.json](./241967-monster-prom-3-monster-roadtrip-hitchhiker-pack-vicky-and-brian.json) |
 | Monster Prom 3: Monster Roadtrip x Cult of the Lamb | 272830 | [272830-monster-prom-3-monster-roadtrip-x-cult-of-the-lamb.json](./272830-monster-prom-3-monster-roadtrip-x-cult-of-the-lamb.json) |
 | Monster Prom 4: Monster Con | 307329 | [307329-monster-prom-4-monster-con.json](./307329-monster-prom-4-monster-con.json) |
@@ -3220,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myst | 272031 | [272031-myst.json](./272031-myst.json) |
 | Myst | 347130 | [347130-myst.json](./347130-myst.json) |
 | Myst Mobile | 237366 | [237366-myst-mobile.json](./237366-myst-mobile.json) |
+| Myst: Through the Ages Collection | 230816 | [230816-myst-through-the-ages-collection.json](./230816-myst-through-the-ages-collection.json) |
 | Mystereet: Yasogami Kaoru no Chousen! | 326951 | [326951-mystereet-yasogami-kaoru-no-chousen.json](./326951-mystereet-yasogami-kaoru-no-chousen.json) |
 | Mysteria ~Occult Shadows~ | 108626 | [108626-mysteria-occult-shadows.json](./108626-mysteria-occult-shadows.json) |
 | Mysteries of Perception | 317583 | [317583-mysteries-of-perception.json](./317583-mysteries-of-perception.json) |
