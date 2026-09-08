@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T17:31:09.155Z",
-  "total_missing": 47546,
+  "generated_at": "2026-09-08T17:41:04.763Z",
+  "total_missing": 47545,
   "games": [
     {
       "igdb_id": 306086,
@@ -201,11 +201,6 @@
       "igdb_id": 334119,
       "game_name": "100 Caliber Dash",
       "file": "missing/0-9/334119-100-caliber-dash.json"
-    },
-    {
-      "igdb_id": 348783,
-      "game_name": "100 Cats Lost in World Find & Color",
-      "file": "missing/0-9/348783-100-cats-lost-in-world-find-and-color.json"
     },
     {
       "igdb_id": 315289,
