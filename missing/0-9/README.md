@@ -38,7 +38,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 | 294440 | [294440-10.json](./294440-10.json) |
 | 10 Blaze Escape | 326084 | [326084-10-blaze-escape.json](./326084-10-blaze-escape.json) |
 | 10 Games | 319563 | [319563-10-games.json](./319563-10-games.json) |
-| 10 Little Robots | 76621 | [76621-10-little-robots.json](./76621-10-little-robots.json) |
 | 10 Minute Massacre | 316985 | [316985-10-minute-massacre.json](./316985-10-minute-massacre.json) |
 | 10 Pin: Champions Alley | 97356 | [97356-10-pin-champions-alley.json](./97356-10-pin-champions-alley.json) |
 | 10 Talismans | 205801 | [205801-10-talismans.json](./205801-10-talismans.json) |
