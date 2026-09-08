@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaal Yoddha | 332445 | [332445-kaal-yoddha.json](./332445-kaal-yoddha.json) |
 | Kaapelipeli: The Cable Game | 138260 | [138260-kaapelipeli-the-cable-game.json](./138260-kaapelipeli-the-cable-game.json) |
 | Kabaneri of the Iron Fortress: Ran - Hajimaru Michiato | 89983 | [89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json](./89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json) |
+| Kabedon Kareshi: Manatsu no Charao | 240227 | [240227-kabedon-kareshi-manatsu-no-charao.json](./240227-kabedon-kareshi-manatsu-no-charao.json) |
 | Kabuki-chou Reach Mahjong: Toupuusen | 42630 | [42630-kabuki-chou-reach-mahjong-toupuusen.json](./42630-kabuki-chou-reach-mahjong-toupuusen.json) |
 | Kader Mühürleri | 86127 | [86127-kader-muhurleri.json](./86127-kader-muhurleri.json) |
 | Kaf Village | 340784 | [340784-kaf-village.json](./340784-kaf-village.json) |
