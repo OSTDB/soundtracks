@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampyre Crusade | 317002 | [317002-vampyre-crusade.json](./317002-vampyre-crusade.json) |
 | Van Helsing sniper Zx100 | 85470 | [85470-van-helsing-sniper-zx100.json](./85470-van-helsing-sniper-zx100.json) |
 | Van Van Up! | 188067 | [188067-van-van-up.json](./188067-van-van-up.json) |
+| Van-Gale: The War of Neo-Century | 246410 | [246410-van-gale-the-war-of-neo-century.json](./246410-van-gale-the-war-of-neo-century.json) |
 | Vanguard Of Armor | 394159 | [394159-vanguard-of-armor.json](./394159-vanguard-of-armor.json) |
 | Vanguard Princess | 9433 | [9433-vanguard-princess.json](./9433-vanguard-princess.json) |
 | Vanguard Valiants | 394826 | [394826-vanguard-valiants.json](./394826-vanguard-valiants.json) |
