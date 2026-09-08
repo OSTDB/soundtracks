@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.I.E.B The Backrooms Project | 265402 | [265402-c-i-e-b-the-backrooms-project.json](./265402-c-i-e-b-the-backrooms-project.json) |
 | C.L.T.: Cheguei Louco no Trabalho | 255390 | [255390-c-l-t-cheguei-louco-no-trabalho.json](./255390-c-l-t-cheguei-louco-no-trabalho.json) |
 | C.R.E.E.P | 358863 | [358863-c-r-e-e-p.json](./358863-c-r-e-e-p.json) |
+| C.T.R.: Cross The Road | 240202 | [240202-c-t-r-cross-the-road.json](./240202-c-t-r-cross-the-road.json) |
 | C.U.B.E | 412998 | [412998-c-u-b-e.json](./412998-c-u-b-e.json) |
 | C15: Horror | 121001 | [121001-c15-horror.json](./121001-c15-horror.json) |
 | C64 & Amiga Classix Remakes Sixpack | 94773 | [94773-c64-and-amiga-classix-remakes-sixpack.json](./94773-c64-and-amiga-classix-remakes-sixpack.json) |
@@ -390,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Battles 4 Guadalcanal: Advanced Fog of War in the Pacific | 170520 | [170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json](./170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json) |
 | Carrier Command | 11992 | [11992-carrier-command.json](./11992-carrier-command.json) |
 | Carrion Fields | 228692 | [228692-carrion-fields.json](./228692-carrion-fields.json) |
+| Carrom Friends | 240205 | [240205-carrom-friends.json](./240205-carrom-friends.json) |
 | Carrot Catcher | 382766 | [382766-carrot-catcher.json](./382766-carrot-catcher.json) |
 | Carrot Girl Adventures | 165678 | [165678-carrot-girl-adventures.json](./165678-carrot-girl-adventures.json) |
 | Carrot Overload | 337099 | [337099-carrot-overload.json](./337099-carrot-overload.json) |
@@ -614,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cathedral: Crow's Curse | 352757 | [352757-cathedral-crows-curse.json](./352757-cathedral-crows-curse.json) |
 | Catherine | 2151 | [2151-catherine.json](./2151-catherine.json) |
 | CatHotel | 256531 | [256531-cathotel.json](./256531-cathotel.json) |
+| Catloons | 240204 | [240204-catloons.json](./240204-catloons.json) |
 | Catman: Gimmick Action Game | 161368 | [161368-catman-gimmick-action-game.json](./161368-catman-gimmick-action-game.json) |
 | Cats & Cups | 360002 | [360002-cats-and-cups.json](./360002-cats-and-cups.json) |
 | Cats & Dice | 319342 | [319342-cats-and-dice.json](./319342-cats-and-dice.json) |
@@ -1042,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chip's Challenge | 282561 | [282561-chips-challenge.json](./282561-chips-challenge.json) |
 | Chipmatic | 355037 | [355037-chipmatic.json](./355037-chipmatic.json) |
 | Chipper & Sons Lumber Co. | 59984 | [59984-chipper-and-sons-lumber-co.json](./59984-chipper-and-sons-lumber-co.json) |
+| Chippy & Noppo | 240228 | [240228-chippy-and-noppo.json](./240228-chippy-and-noppo.json) |
 | Chiral | 309855 | [309855-chiral.json](./309855-chiral.json) |
 | Chiralmori | 287634 | [287634-chiralmori.json](./287634-chiralmori.json) |
 | Chirashiiru | 325444 | [325444-chirashiiru.json](./325444-chirashiiru.json) |
@@ -2432,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Cities | 7872 | [7872-crime-cities.json](./7872-crime-cities.json) |
 | Crime Coast - Mob versus Mafia | 87665 | [87665-crime-coast-mob-versus-mafia.json](./87665-crime-coast-mob-versus-mafia.json) |
 | Crime District | 165699 | [165699-crime-district.json](./165699-crime-district.json) |
+| Crime Investigation Escape | 240203 | [240203-crime-investigation-escape.json](./240203-crime-investigation-escape.json) |
 | Crime Moto Racer | 218695 | [218695-crime-moto-racer.json](./218695-crime-moto-racer.json) |
 | Crime Secrets: Crimson Lily | 32930 | [32930-crime-secrets-crimson-lily.json](./32930-crime-secrets-crimson-lily.json) |
 | Crime Simulator: Playgrounds | 415075 | [415075-crime-simulator-playgrounds.json](./415075-crime-simulator-playgrounds.json) |
