@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Derby | 96622 | [96622-zombie-derby.json](./96622-zombie-derby.json) |
 | Zombie Derby Collection | 280230 | [280230-zombie-derby-collection.json](./280230-zombie-derby-collection.json) |
 | Zombie Diary | 356651 | [356651-zombie-diary.json](./356651-zombie-diary.json) |
+| Zombie Dice | 252134 | [252134-zombie-dice.json](./252134-zombie-dice.json) |
 | Zombie Escape: The Driving Dead | 213589 | [213589-zombie-escape-the-driving-dead.json](./213589-zombie-escape-the-driving-dead.json) |
 | Zombie Exodus: Safe Haven - Part Four | 388743 | [388743-zombie-exodus-safe-haven-part-four.json](./388743-zombie-exodus-safe-haven-part-four.json) |
 | Zombie Exodus: Safe Haven - Side Stories 2 | 291208 | [291208-zombie-exodus-safe-haven-side-stories-2.json](./291208-zombie-exodus-safe-haven-side-stories-2.json) |
