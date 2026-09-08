@@ -944,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversing Caste: Omegaverse | 269303 | [269303-reversing-caste-omegaverse.json](./269303-reversing-caste-omegaverse.json) |
 | Reversion: The Meeting | 36412 | [36412-reversion-the-meeting.json](./36412-reversion-the-meeting.json) |
 | Reversion: The Return | 130398 | [130398-reversion-the-return.json](./130398-reversion-the-return.json) |
+| Revival and Exploration | 252130 | [252130-revival-and-exploration.json](./252130-revival-and-exploration.json) |
 | Reviver: The Real-Time Adventure | 63884 | [63884-reviver-the-real-time-adventure.json](./63884-reviver-the-real-time-adventure.json) |
 | Revolt Legion VR | 254138 | [254138-revolt-legion-vr.json](./254138-revolt-legion-vr.json) |
 | Revolution | 81387 | [81387-revolution.json](./81387-revolution.json) |
@@ -1201,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RKR: Rush Kill Repeat | 217495 | [217495-rkr-rush-kill-repeat.json](./217495-rkr-rush-kill-repeat.json) |
 | Rktcr | 35863 | [35863-rktcr.json](./35863-rktcr.json) |
 | RLCraft | 203457 | [203457-rlcraft.json](./203457-rlcraft.json) |
+| Ro Sham Bo Rush | 252142 | [252142-ro-sham-bo-rush.json](./252142-ro-sham-bo-rush.json) |
 | Roach Royale | 275331 | [275331-roach-royale.json](./275331-roach-royale.json) |
 | Roach's Room ~Horror Experience Series~ | 107210 | [107210-roachs-room-horror-experience-series.json](./107210-roachs-room-horror-experience-series.json) |
 | Road 3 Pack | 147992 | [147992-road-3-pack.json](./147992-road-3-pack.json) |
