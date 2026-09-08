@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Racing Championship | 3495 | [3495-f1-racing-championship.json](./3495-f1-racing-championship.json) |
 | F1 Racing Championship 2 | 137653 | [137653-f1-racing-championship-2.json](./137653-f1-racing-championship-2.json) |
 | F18 Pilot Simulator | 174355 | [174355-f18-pilot-simulator.json](./174355-f18-pilot-simulator.json) |
+| FA Tetris | 250372 | [250372-fa-tetris.json](./250372-fa-tetris.json) |
 | Fabby Golf | 239324 | [239324-fabby-golf.json](./239324-fabby-golf.json) |
 | Fable III: Limited Collector's Edition | 43958 | [43958-fable-iii-limited-collectors-edition.json](./43958-fable-iii-limited-collectors-edition.json) |
 | Fable III: Understone Quest Pack | 20558 | [20558-fable-iii-understone-quest-pack.json](./20558-fable-iii-understone-quest-pack.json) |
@@ -466,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FatSheep Crisis | 247763 | [247763-fatsheep-crisis.json](./247763-fatsheep-crisis.json) |
 | Fatty Fight | 256544 | [256544-fatty-fight.json](./256544-fatty-fight.json) |
 | Fatum | 407302 | [407302-fatum.json](./407302-fatum.json) |
+| Fatum Betula + Food Truck Tycoon | 250343 | [250343-fatum-betula-food-truck-tycoon.json](./250343-fatum-betula-food-truck-tycoon.json) |
 | Fatum Betula + Knights & Guns | 246080 | [246080-fatum-betula-knights-and-guns.json](./246080-fatum-betula-knights-and-guns.json) |
 | Faucet VR | 89269 | [89269-faucet-vr.json](./89269-faucet-vr.json) |
 | Faul! | 194659 | [194659-faul.json](./194659-faul.json) |
@@ -896,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Market | 391052 | [391052-fish-market.json](./391052-fish-market.json) |
 | Fish Memory | 150678 | [150678-fish-memory.json](./150678-fish-memory.json) |
 | Fish Orbit | 390543 | [390543-fish-orbit.json](./390543-fish-orbit.json) |
+| Fish Party Online | 250385 | [250385-fish-party-online.json](./250385-fish-party-online.json) |
 | Fish Person Shooter | 145636 | [145636-fish-person-shooter.json](./145636-fish-person-shooter.json) |
 | Fish Royale | 227500 | [227500-fish-royale.json](./227500-fish-royale.json) |
 | Fish Swarm: Within Inches | 383962 | [383962-fish-swarm-within-inches.json](./383962-fish-swarm-within-inches.json) |
@@ -1302,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Wagon | 333359 | [333359-food-wagon.json](./333359-food-wagon.json) |
 | FoodFighters | 286010 | [286010-foodfighters.json](./286010-foodfighters.json) |
 | Foodguessr | 293936 | [293936-foodguessr.json](./293936-foodguessr.json) |
+| Foodie Avenue | 250368 | [250368-foodie-avenue.json](./250368-foodie-avenue.json) |
 | Fool's Frontier | 291221 | [291221-fools-frontier.json](./291221-fools-frontier.json) |
 | Fool's Gold | 381029 | [381029-fools-gold.json](./381029-fools-gold.json) |
 | Fool's Pub | 325264 | [325264-fools-pub.json](./325264-fools-pub.json) |
@@ -1457,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Legends: Season Early 2010 + Turbo Pack | 403583 | [403583-formula-legends-season-early-2010-turbo-pack.json](./403583-formula-legends-season-early-2010-turbo-pack.json) |
 | Formula Legends: Tech Power Pack | 403564 | [403564-formula-legends-tech-power-pack.json](./403564-formula-legends-tech-power-pack.json) |
 | Formula Legends: Turbo Power Pack | 403566 | [403566-formula-legends-turbo-power-pack.json](./403566-formula-legends-turbo-power-pack.json) |
+| Formula One | 250341 | [250341-formula-one.json](./250341-formula-one.json) |
 | Formula One 2002 | 8300 | [8300-formula-one-2002.json](./8300-formula-one-2002.json) |
 | Formula One 2003 | 8301 | [8301-formula-one-2003.json](./8301-formula-one-2003.json) |
 | Formula Racing Pro 2026: Upgrade Edition | 396918 | [396918-formula-racing-pro-2026-upgrade-edition.json](./396918-formula-racing-pro-2026-upgrade-edition.json) |
@@ -1850,6 +1855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuck Space! | 199085 | [199085-fuck-space.json](./199085-fuck-space.json) |
 | Fuck the Police | 159889 | [159889-fuck-the-police.json](./159889-fuck-the-police.json) |
 | Fucked by the Princesses of the Realm | 372488 | [372488-fucked-by-the-princesses-of-the-realm.json](./372488-fucked-by-the-princesses-of-the-realm.json) |
+| Fuddo & Slam | 250342 | [250342-fuddo-and-slam.json](./250342-fuddo-and-slam.json) |
 | Fuel Station Simulator | 336369 | [336369-fuel-station-simulator.json](./336369-fuel-station-simulator.json) |
 | Fuel Tanker Truck | 105918 | [105918-fuel-tanker-truck.json](./105918-fuel-tanker-truck.json) |
 | Fuga: Melodies of Steel - Ultimate Edition | 283145 | [283145-fuga-melodies-of-steel-ultimate-edition.json](./283145-fuga-melodies-of-steel-ultimate-edition.json) |
