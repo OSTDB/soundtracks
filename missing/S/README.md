@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Bringer | 192434 | [192434-samurai-bringer.json](./192434-samurai-bringer.json) |
 | Samurai Champloo: Sidetracked | 19625 | [19625-samurai-champloo-sidetracked.json](./19625-samurai-champloo-sidetracked.json) |
 | Samurai Chess | 149571 | [149571-samurai-chess.json](./149571-samurai-chess.json) |
+| Samurai Daisuke | 233502 | [233502-samurai-daisuke.json](./233502-samurai-daisuke.json) |
 | Samurai Defender | 84903 | [84903-samurai-defender.json](./84903-samurai-defender.json) |
 | Samurai Fighter | 108475 | [108475-samurai-fighter.json](./108475-samurai-fighter.json) |
 | Samurai Forge | 51972 | [51972-samurai-forge.json](./51972-samurai-forge.json) |
@@ -764,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeking for Puppies | 359415 | [359415-seeking-for-puppies.json](./359415-seeking-for-puppies.json) |
 | Seeking Revenge | 158225 | [158225-seeking-revenge.json](./158225-seeking-revenge.json) |
 | SeekOut | 391614 | [391614-seekout.json](./391614-seekout.json) |
+| Seemly Girl Escape | 233493 | [233493-seemly-girl-escape.json](./233493-seemly-girl-escape.json) |
 | Seemonster | 40784 | [40784-seemonster.json](./40784-seemonster.json) |
 | Seers Isle | 86344 | [86344-seers-isle.json](./86344-seers-isle.json) |
 | SeeYou | 381606 | [381606-seeyou.json](./381606-seeyou.json) |
@@ -1191,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShedHorror | 308549 | [308549-shedhorror.json](./308549-shedhorror.json) |
 | Sheep Game | 99636 | [99636-sheep-game.json](./99636-sheep-game.json) |
 | Sheep in Love | 245017 | [245017-sheep-in-love.json](./245017-sheep-in-love.json) |
+| Sheep Launcher 2 | 233524 | [233524-sheep-launcher-2.json](./233524-sheep-launcher-2.json) |
 | Sheep Legion - turn-based tactical RPG game | 174321 | [174321-sheep-legion-turn-based-tactical-rpg-game.json](./174321-sheep-legion-turn-based-tactical-rpg-game.json) |
 | Sheep Quest | 340379 | [340379-sheep-quest.json](./340379-sheep-quest.json) |
 | Sheep's Symphony | 294455 | [294455-sheeps-symphony.json](./294455-sheeps-symphony.json) |
@@ -1956,6 +1959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep Stream | 306339 | [306339-sleep-stream.json](./306339-sleep-stream.json) |
 | Sleep Terror | 292309 | [292309-sleep-terror.json](./292309-sleep-terror.json) |
 | Sleeping Beauty X : The Legend of Tales | 175984 | [175984-sleeping-beauty-x-the-legend-of-tales.json](./175984-sleeping-beauty-x-the-legend-of-tales.json) |
+| Sleeping Flowers: Thread Curse | 233490 | [233490-sleeping-flowers-thread-curse.json](./233490-sleeping-flowers-thread-curse.json) |
 | Sleeping Forest | 292513 | [292513-sleeping-forest.json](./292513-sleeping-forest.json) |
 | Sleeping Valley | 24960 | [24960-sleeping-valley.json](./24960-sleeping-valley.json) |
 | Sleepless Cinderella: Party | 298884 | [298884-sleepless-cinderella-party.json](./298884-sleepless-cinderella-party.json) |
@@ -3157,6 +3161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed DX | 261254 | [261254-speed-dx.json](./261254-speed-dx.json) |
 | Speed Factor | 378777 | [378777-speed-factor.json](./378777-speed-factor.json) |
 | Speed Guess: Something | 323188 | [323188-speed-guess-something.json](./323188-speed-guess-something.json) |
+| Speed Intense Island | 233514 | [233514-speed-intense-island.json](./233514-speed-intense-island.json) |
 | Speed Journey: Nitro | 221407 | [221407-speed-journey-nitro.json](./221407-speed-journey-nitro.json) |
 | Speed Legacy: Ultimate Drive | 378186 | [378186-speed-legacy-ultimate-drive.json](./378186-speed-legacy-ultimate-drive.json) |
 | Speed Legends | 234330 | [234330-speed-legends.json](./234330-speed-legends.json) |
@@ -4068,6 +4073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stories to Tell: Downhill Cemetery | 295534 | [295534-stories-to-tell-downhill-cemetery.json](./295534-stories-to-tell-downhill-cemetery.json) |
 | Storm Area 51: The Game | 120982 | [120982-storm-area-51-the-game.json](./120982-storm-area-51-the-game.json) |
 | Storm Arena | 114425 | [114425-storm-arena.json](./114425-storm-arena.json) |
+| Storm of Darkness | 233500 | [233500-storm-of-darkness.json](./233500-storm-of-darkness.json) |
 | Storm of Jigsaw Puzzles | 109654 | [109654-storm-of-jigsaw-puzzles.json](./109654-storm-of-jigsaw-puzzles.json) |
 | Storm Settlers | 353912 | [353912-storm-settlers.json](./353912-storm-settlers.json) |
 | Storm Swordsman | 190733 | [190733-storm-swordsman.json](./190733-storm-swordsman.json) |
@@ -5034,6 +5040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernatural Visual Novel: The Fourteenth Guzai Vol. 1 & 2 | 373524 | [373524-supernatural-visual-novel-the-fourteenth-guzai-vol-1-and-2.json](./373524-supernatural-visual-novel-the-fourteenth-guzai-vol-1-and-2.json) |
 | Supernormal | 278716 | [278716-supernormal.json](./278716-supernormal.json) |
 | Superola and the Lost Burgers | 87475 | [87475-superola-and-the-lost-burgers.json](./87475-superola-and-the-lost-burgers.json) |
+| SuperPro Snowboarding | 233525 | [233525-superpro-snowboarding.json](./233525-superpro-snowboarding.json) |
 | SuperQuest | 342636 | [342636-superquest.json](./342636-superquest.json) |
 | Supersonic Highway Defenders | 355559 | [355559-supersonic-highway-defenders.json](./355559-supersonic-highway-defenders.json) |
 | SuperSpec Rallycross | 291740 | [291740-superspec-rallycross.json](./291740-superspec-rallycross.json) |
@@ -5177,6 +5184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swapfell Ascendance | 331347 | [331347-swapfell-ascendance.json](./331347-swapfell-ascendance.json) |
 | Swapfell Maelstrom | 331668 | [331668-swapfell-maelstrom.json](./331668-swapfell-maelstrom.json) |
 | Swaplatformer | 178680 | [178680-swaplatformer.json](./178680-swaplatformer.json) |
+| Swapologic | 233517 | [233517-swapologic.json](./233517-swapologic.json) |
 | SwapOut | 173316 | [173316-swapout.json](./173316-swapout.json) |
 | SwapStar | 252394 | [252394-swapstar.json](./252394-swapstar.json) |
 | Swarm 2 | 280060 | [280060-swarm-2.json](./280060-swarm-2.json) |
