@@ -1805,6 +1805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apox: Legend | 167853 | [167853-apox-legend.json](./167853-apox-legend.json) |
 | App Co Tycoon | 211438 | [211438-app-co-tycoon.json](./211438-app-co-tycoon.json) |
 | Appa | 367951 | [367951-appa.json](./367951-appa.json) |
+| Appearances | 244774 | [244774-appearances.json](./244774-appearances.json) |
 | Appetite for Detestation | 147482 | [147482-appetite-for-detestation.json](./147482-appetite-for-detestation.json) |
 | Apple Bag | 280197 | [280197-apple-bag.json](./280197-apple-bag.json) |
 | Apple Cider Spider | 12254 | [12254-apple-cider-spider.json](./12254-apple-cider-spider.json) |
