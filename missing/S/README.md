@@ -4540,6 +4540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Meetings | 121692 | [121692-summer-meetings.json](./121692-summer-meetings.json) |
 | Summer Memories: Deluxe Edition | 186897 | [186897-summer-memories-deluxe-edition.json](./186897-summer-memories-deluxe-edition.json) |
 | Summer Nightmare | 29895 | [29895-summer-nightmare.json](./29895-summer-nightmare.json) |
+| Summer of '69 | 224578 | [224578-summer-of-69.json](./224578-summer-of-69.json) |
 | Summer Paws | 122378 | [122378-summer-paws.json](./122378-summer-paws.json) |
 | Summer Pleasure | 210876 | [210876-summer-pleasure.json](./210876-summer-pleasure.json) |
 | Summer Puzzles | 226200 | [226200-summer-puzzles.json](./226200-summer-puzzles.json) |
@@ -4652,6 +4653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cat Tales | 96155 | [96155-super-cat-tales.json](./96155-super-cat-tales.json) |
 | Super Cats | 111058 | [111058-super-cats.json](./111058-super-cats.json) |
 | Super Cauldron | 39028 | [39028-super-cauldron.json](./39028-super-cauldron.json) |
+| Super Cave Boy | 224589 | [224589-super-cave-boy.json](./224589-super-cave-boy.json) |
 | Super Chibi Knight | 36438 | [36438-super-chibi-knight.json](./36438-super-chibi-knight.json) |
 | Super Chroma Bots: Season One | 283682 | [283682-super-chroma-bots-season-one.json](./283682-super-chroma-bots-season-one.json) |
 | Super Chuck Norris Bros | 294428 | [294428-super-chuck-norris-bros.json](./294428-super-chuck-norris-bros.json) |
@@ -4676,6 +4678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Creme World | 267920 | [267920-super-creme-world.json](./267920-super-creme-world.json) |
 | Super Dany | 42658 | [42658-super-dany.json](./42658-super-dany.json) |
 | Super Dapper Man vs. Furries | 310215 | [310215-super-dapper-man-vs-furries.json](./310215-super-dapper-man-vs-furries.json) |
+| Super Dark Deception | 224549 | [224549-super-dark-deception.json](./224549-super-dark-deception.json) |
 | Super Darts VR | 111720 | [111720-super-darts-vr.json](./111720-super-darts-vr.json) |
 | Super Dash | 302361 | [302361-super-dash.json](./302361-super-dash.json) |
 | Super Destronaut 2: Go Duck Yourself | 84917 | [84917-super-destronaut-2-go-duck-yourself.json](./84917-super-destronaut-2-go-duck-yourself.json) |
