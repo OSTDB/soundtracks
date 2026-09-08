@@ -1399,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Ascent | 408826 | [408826-the-final-ascent.json](./408826-the-final-ascent.json) |
 | The Final Countdown | 277318 | [277318-the-final-countdown.json](./277318-the-final-countdown.json) |
 | The Final Earth 2 | 126651 | [126651-the-final-earth-2.json](./126651-the-final-earth-2.json) |
+| The Final Exhibition | 245862 | [245862-the-final-exhibition.json](./245862-the-final-exhibition.json) |
 | The Final Heist | 184640 | [184640-the-final-heist.json](./184640-the-final-heist.json) |
 | The Final Station | 16136 | [16136-the-final-station.json](./16136-the-final-station.json) |
 | The Final Station: The Only Traitor | 124810 | [124810-the-final-station-the-only-traitor.json](./124810-the-final-station-the-only-traitor.json) |
@@ -3286,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timber Jump VR | 149589 | [149589-timber-jump-vr.json](./149589-timber-jump-vr.json) |
 | Timber Slash | 108473 | [108473-timber-slash.json](./108473-timber-slash.json) |
 | Timber Tales | 291443 | [291443-timber-tales.json](./291443-timber-tales.json) |
+| Timberquest | 245859 | [245859-timberquest.json](./245859-timberquest.json) |
 | Timberveil | 382757 | [382757-timberveil.json](./382757-timberveil.json) |
 | Time | 130947 | [130947-time.json](./130947-time.json) |
 | Time Assassin | 344383 | [344383-time-assassin.json](./344383-time-assassin.json) |
@@ -4646,6 +4648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TwoPlay Mahjong | 115020 | [115020-twoplay-mahjong.json](./115020-twoplay-mahjong.json) |
 | Twosheep.io | 274721 | [274721-twosheep-io.json](./274721-twosheep-io.json) |
 | TXXX | 232706 | [232706-txxx.json](./232706-txxx.json) |
+| Tycoon Legends | 245855 | [245855-tycoon-legends.json](./245855-tycoon-legends.json) |
 | Tynk! and the Final Phonorecord | 194610 | [194610-tynk-and-the-final-phonorecord.json](./194610-tynk-and-the-final-phonorecord.json) |
 | Type II | 124273 | [124273-type-ii.json](./124273-type-ii.json) |
 | Type the Entire of Ulysses. That's It. That's the Game. | 198526 | [198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json](./198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json) |
