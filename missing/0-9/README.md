@@ -78,7 +78,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100% Orange Juice: Railway Runners Pack | 164474 | [164474-100-orange-juice-railway-runners-pack.json](./164474-100-orange-juice-railway-runners-pack.json) |
 | 100% Orange Juice: Sham & Sherry | 164477 | [164477-100-orange-juice-sham-and-sherry.json](./164477-100-orange-juice-sham-and-sherry.json) |
 | 100% Orange Juice: Syura & Nanako | 164473 | [164473-100-orange-juice-syura-and-nanako.json](./164473-100-orange-juice-syura-and-nanako.json) |
-| 100% Orange Juice: Toy Store Pack | 164479 | [164479-100-orange-juice-toy-store-pack.json](./164479-100-orange-juice-toy-store-pack.json) |
 | 100% Orange Juice: Wanderer Pack | 164480 | [164480-100-orange-juice-wanderer-pack.json](./164480-100-orange-juice-wanderer-pack.json) |
 | 100% Orange Juice: Witch Pack | 164467 | [164467-100-orange-juice-witch-pack.json](./164467-100-orange-juice-witch-pack.json) |
 | 100% Orange Juice: Yuki & Tomomo Renewal Pack | 164470 | [164470-100-orange-juice-yuki-and-tomomo-renewal-pack.json](./164470-100-orange-juice-yuki-and-tomomo-renewal-pack.json) |
