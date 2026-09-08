@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachislot Akumajou Dracula | 315523 | [315523-pachislot-akumajou-dracula.json](./315523-pachislot-akumajou-dracula.json) |
 | Pacific Warships | 254748 | [254748-pacific-warships.json](./254748-pacific-warships.json) |
 | Pacifish | 203545 | [203545-pacifish.json](./203545-pacifish.json) |
+| Pacifix War Iwo Jima | 231922 | [231922-pacifix-war-iwo-jima.json](./231922-pacifix-war-iwo-jima.json) |
 | Pack | 342659 | [342659-pack.json](./342659-pack.json) |
 | Pack 2 Games Pony Friends 2 + My Riding Stables: Life with Horses | 147465 | [147465-pack-2-games-pony-friends-2-my-riding-stables-life-with-horses.json](./147465-pack-2-games-pony-friends-2-my-riding-stables-life-with-horses.json) |
 | Pack and Ship: Warehouse Simulator | 389963 | [389963-pack-and-ship-warehouse-simulator.json](./389963-pack-and-ship-warehouse-simulator.json) |
@@ -524,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peace Maker VR | 200717 | [200717-peace-maker-vr.json](./200717-peace-maker-vr.json) |
 | Peace of Evil | 118395 | [118395-peace-of-evil.json](./118395-peace-of-evil.json) |
 | Peacebringer | 338750 | [338750-peacebringer.json](./338750-peacebringer.json) |
+| Peaceful Dog Escape | 231923 | [231923-peaceful-dog-escape.json](./231923-peaceful-dog-escape.json) |
 | Peaceful Fishing Story | 390502 | [390502-peaceful-fishing-story.json](./390502-peaceful-fishing-story.json) |
 | Peachleaf Valley: Seeds of Love | 152935 | [152935-peachleaf-valley-seeds-of-love.json](./152935-peachleaf-valley-seeds-of-love.json) |
 | Peachy Adventure | 173818 | [173818-peachy-adventure.json](./173818-peachy-adventure.json) |
@@ -1092,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Hunter: Somali Trap | 309850 | [309850-pirate-hunter-somali-trap.json](./309850-pirate-hunter-somali-trap.json) |
 | Pirate Island Survival Simulator 3D | 351038 | [351038-pirate-island-survival-simulator-3d.json](./351038-pirate-island-survival-simulator-3d.json) |
 | Pirate Life | 395538 | [395538-pirate-life.json](./395538-pirate-life.json) |
+| Pirate Ship | 231924 | [231924-pirate-ship.json](./231924-pirate-ship.json) |
 | Pirate Solitaire | 58844 | [58844-pirate-solitaire.json](./58844-pirate-solitaire.json) |
 | Pirate Treasure: Island of Mazes | 187489 | [187489-pirate-treasure-island-of-mazes.json](./187489-pirate-treasure-island-of-mazes.json) |
 | Pirateer: High Seas | 253575 | [253575-pirateer-high-seas.json](./253575-pirateer-high-seas.json) |
@@ -2017,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Architect: Nintendo Switch Edition - Bundle | 222502 | [222502-prison-architect-nintendo-switch-edition-bundle.json](./222502-prison-architect-nintendo-switch-edition-bundle.json) |
 | Prison Architect: Psych Ward - Warden's Edition | 148526 | [148526-prison-architect-psych-ward-wardens-edition.json](./148526-prison-architect-psych-ward-wardens-edition.json) |
 | Prison Chainball Massacre | 75170 | [75170-prison-chainball-massacre.json](./75170-prison-chainball-massacre.json) |
+| Prison Empire Tycoon: Idle Game | 231907 | [231907-prison-empire-tycoon-idle-game.json](./231907-prison-empire-tycoon-idle-game.json) |
 | Prison Escape io | 347147 | [347147-prison-escape-io.json](./347147-prison-escape-io.json) |
 | Prison Fights Simulator | 310168 | [310168-prison-fights-simulator.json](./310168-prison-fights-simulator.json) |
 | Prison Forever | 128016 | [128016-prison-forever.json](./128016-prison-forever.json) |
@@ -2129,6 +2133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Profiler: The Hopscotch Killer - Extended Edition | 262360 | [262360-profiler-the-hopscotch-killer-extended-edition.json](./262360-profiler-the-hopscotch-killer-extended-edition.json) |
 | Profound | 277594 | [277594-profound.json](./277594-profound.json) |
 | Profundus | 341468 | [341468-profundus.json](./341468-profundus.json) |
+| Progear: Airplane Shooter | 231908 | [231908-progear-airplane-shooter.json](./231908-progear-airplane-shooter.json) |
 | Program Pack 4 | 319591 | [319591-program-pack-4.json](./319591-program-pack-4.json) |
 | Progress Bar Deluxe | 371861 | [371861-progress-bar-deluxe.json](./371861-progress-bar-deluxe.json) |
 | Progress Orders | 328491 | [328491-progress-orders.json](./328491-progress-orders.json) |
@@ -2262,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Summer Ice - Bowling: Story Three - Jane Version | 215352 | [215352-project-summer-ice-bowling-story-three-jane-version.json](./215352-project-summer-ice-bowling-story-three-jane-version.json) |
 | Project: Summer Ice - Bowling: Story Two - Jane Version | 215357 | [215357-project-summer-ice-bowling-story-two-jane-version.json](./215357-project-summer-ice-bowling-story-two-jane-version.json) |
 | Project: SX | 331712 | [331712-project-sx.json](./331712-project-sx.json) |
+| Project: Tempo | 231909 | [231909-project-tempo.json](./231909-project-tempo.json) |
 | Project: The MIR Incident | 204062 | [204062-project-the-mir-incident.json](./204062-project-the-mir-incident.json) |
 | Project: Unity | 275572 | [275572-project-unity.json](./275572-project-unity.json) |
 | Project: Waterfall | 224783 | [224783-project-waterfall.json](./224783-project-waterfall.json) |
@@ -2386,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PUIQ: Demons | 298053 | [298053-puiq-demons.json](./298053-puiq-demons.json) |
 | Pull the Beer | 406109 | [406109-pull-the-beer.json](./406109-pull-the-beer.json) |
 | Pull the Pin | 227513 | [227513-pull-the-pin.json](./227513-pull-the-pin.json) |
+| Pulling Pin: Pull the Pin | 231910 | [231910-pulling-pin-pull-the-pin.json](./231910-pulling-pin-pull-the-pin.json) |
 | Pulp Race: Daft Enigma Fighter | 382780 | [382780-pulp-race-daft-enigma-fighter.json](./382780-pulp-race-daft-enigma-fighter.json) |
 | Pulsar | 172728 | [172728-pulsar.json](./172728-pulsar.json) |
 | Pulse | 266480 | [266480-pulse.json](./266480-pulse.json) |
@@ -2413,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Ball Mario Bros. | 91994 | [91994-punch-ball-mario-bros.json](./91994-punch-ball-mario-bros.json) |
 | Punch Chess | 332237 | [332237-punch-chess.json](./332237-punch-chess.json) |
 | Punch Hero | 38999 | [38999-punch-hero.json](./38999-punch-hero.json) |
+| Punch Kick Duck | 231911 | [231911-punch-kick-duck.json](./231911-punch-kick-duck.json) |
 | Punch the Rats | 104102 | [104102-punch-the-rats.json](./104102-punch-the-rats.json) |
 | Punch-Out!! | 2194 | [2194-punch-out.json](./2194-punch-out.json) |
 | Punch! | 321956 | [321956-punch.json](./321956-punch.json) |
