@@ -2486,6 +2486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spreader | 312021 | [312021-the-spreader.json](./312021-the-spreader.json) |
 | The Springlock: Aftermath | 315504 | [315504-the-springlock-aftermath.json](./315504-the-springlock-aftermath.json) |
 | The Square Game | 130377 | [130377-the-square-game.json](./130377-the-square-game.json) |
+| The Squeal of the Pig | 249190 | [249190-the-squeal-of-the-pig.json](./249190-the-squeal-of-the-pig.json) |
 | The Squirrel & Sea | 358305 | [358305-the-squirrel-and-sea.json](./358305-the-squirrel-and-sea.json) |
 | The Stadium Project | 62177 | [62177-the-stadium-project.json](./62177-the-stadium-project.json) |
 | The Stairwell | 347177 | [347177-the-stairwell.json](./347177-the-stairwell.json) |
@@ -3011,6 +3012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderchopper | 37161 | [37161-thunderchopper.json](./37161-thunderchopper.json) |
 | Thundercross | 55201 | [55201-thundercross.json](./55201-thundercross.json) |
 | Thunderdawn | 342615 | [342615-thunderdawn.json](./342615-thunderdawn.json) |
+| Thunderday | 249220 | [249220-thunderday.json](./249220-thunderday.json) |
 | Thunderhawk: Danger Close | 387365 | [387365-thunderhawk-danger-close.json](./387365-thunderhawk-danger-close.json) |
 | Thunderpeak | 256854 | [256854-thunderpeak.json](./256854-thunderpeak.json) |
 | Thunderstrike 2 | 24991 | [24991-thunderstrike-2.json](./24991-thunderstrike-2.json) |
@@ -4410,6 +4412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trundle | 93599 | [93599-trundle.json](./93599-trundle.json) |
 | Trust & Safety: Armed Conflict | 401484 | [401484-trust-and-safety-armed-conflict.json](./401484-trust-and-safety-armed-conflict.json) |
 | Trust Me Bro, I Trade | 384515 | [384515-trust-me-bro-i-trade.json](./384515-trust-me-bro-i-trade.json) |
+| Trust Your Ears | 249193 | [249193-trust-your-ears.json](./249193-trust-your-ears.json) |
 | Truth Loop | 218735 | [218735-truth-loop.json](./218735-truth-loop.json) |
 | Truth Loop 2 | 246120 | [246120-truth-loop-2.json](./246120-truth-loop-2.json) |
 | Truth or Lies | 25217 | [25217-truth-or-lies.json](./25217-truth-or-lies.json) |
@@ -4467,6 +4470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumor Necrosis Factor: Amen | 386716 | [386716-tumor-necrosis-factor-amen.json](./386716-tumor-necrosis-factor-amen.json) |
 | Tun Shi Tian Di III | 330523 | [330523-tun-shi-tian-di-iii.json](./330523-tun-shi-tian-di-iii.json) |
 | Tuna Roll | 325826 | [325826-tuna-roll.json](./325826-tuna-roll.json) |
+| Tuna The Cat | 249184 | [249184-tuna-the-cat.json](./249184-tuna-the-cat.json) |
 | Tundralia: The Frigid Frontier | 324714 | [324714-tundralia-the-frigid-frontier.json](./324714-tundralia-the-frigid-frontier.json) |
 | Tune My Car: Tuning Studio & Mechanic Simulator 2026 | 409562 | [409562-tune-my-car-tuning-studio-and-mechanic-simulator-2026.json](./409562-tune-my-car-tuning-studio-and-mechanic-simulator-2026.json) |
 | Tuned Heart | 45971 | [45971-tuned-heart.json](./45971-tuned-heart.json) |
