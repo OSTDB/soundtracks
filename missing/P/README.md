@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Pizzeria to Go! | 96296 | [96296-papas-pizzeria-to-go.json](./96296-papas-pizzeria-to-go.json) |
 | Pape Rangers | 294131 | [294131-pape-rangers.json](./294131-pape-rangers.json) |
 | Paper Angel | 247522 | [247522-paper-angel.json](./247522-paper-angel.json) |
+| Paper Bride 4: Bound Love | 236258 | [236258-paper-bride-4-bound-love.json](./236258-paper-bride-4-bound-love.json) |
 | Paper Bride 6: Nightmare | 326046 | [326046-paper-bride-6-nightmare.json](./326046-paper-bride-6-nightmare.json) |
 | Paper Cages | 178670 | [178670-paper-cages.json](./178670-paper-cages.json) |
 | Paper Champion | 242800 | [242800-paper-champion.json](./242800-paper-champion.json) |
@@ -2024,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisoner Breaker | 372485 | [372485-prisoner-breaker.json](./372485-prisoner-breaker.json) |
 | Prisoners | 285470 | [285470-prisoners.json](./285470-prisoners.json) |
 | Prisoners of Ulag'Bol | 333358 | [333358-prisoners-of-ulagbol.json](./333358-prisoners-of-ulagbol.json) |
+| Prisseceal, the Dazzling-and-Flaring Peach Princess | 236277 | [236277-prisseceal-the-dazzling-and-flaring-peach-princess.json](./236277-prisseceal-the-dazzling-and-flaring-peach-princess.json) |
 | Priton | 91948 | [91948-priton.json](./91948-priton.json) |
 | Private Dance VR | 286534 | [286534-private-dance-vr.json](./286534-private-dance-vr.json) |
 | Private Detective Punch Drunk: PDPD | 77365 | [77365-private-detective-punch-drunk-pdpd.json](./77365-private-detective-punch-drunk-pdpd.json) |
@@ -2201,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Sara | 374591 | [374591-project-sara.json](./374591-project-sara.json) |
 | Project Scar | 288781 | [288781-project-scar.json](./288781-project-scar.json) |
 | Project Scav | 173279 | [173279-project-scav.json](./173279-project-scav.json) |
+| Project Screwed | 236293 | [236293-project-screwed.json](./236293-project-screwed.json) |
 | Project Sekuter | 317606 | [317606-project-sekuter.json](./317606-project-sekuter.json) |
 | Project Shiver Wing | 212452 | [212452-project-shiver-wing.json](./212452-project-shiver-wing.json) |
 | Project Shore | 103516 | [103516-project-shore.json](./103516-project-shore.json) |
@@ -2230,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Xinatra | 31934 | [31934-project-xinatra.json](./31934-project-xinatra.json) |
 | Project Xsting | 278987 | [278987-project-xsting.json](./278987-project-xsting.json) |
 | Project XY | 178645 | [178645-project-xy.json](./178645-project-xy.json) |
+| Project Zero | 236252 | [236252-project-zero.json](./236252-project-zero.json) |
 | Project_Arktik | 410881 | [410881-project-arktik.json](./410881-project-arktik.json) |
 | Project-X Special Edition & F17 Challenge | 71537 | [71537-project-x-special-edition-and-f17-challenge.json](./71537-project-x-special-edition-and-f17-challenge.json) |
 | Project: Another Use - Graftage | 374080 | [374080-project-another-use-graftage.json](./374080-project-another-use-graftage.json) |
