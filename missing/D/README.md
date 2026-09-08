@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Tycoon | 256251 | [256251-desert-tycoon.json](./256251-desert-tycoon.json) |
 | Deserted Island | 138823 | [138823-deserted-island.json](./138823-deserted-island.json) |
 | DesertLand 2115 | 34350 | [34350-desertland-2115.json](./34350-desertland-2115.json) |
+| Desertopia | 244804 | [244804-desertopia.json](./244804-desertopia.json) |
 | Deserved | 391598 | [391598-deserved.json](./391598-deserved.json) |
 | Designed for Danger | 321771 | [321771-designed-for-danger.json](./321771-designed-for-danger.json) |
 | Desire & Decorum: Book 1 | 313713 | [313713-desire-and-decorum-book-1.json](./313713-desire-and-decorum-book-1.json) |
@@ -2176,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Life in the Country Side | 333010 | [333010-dream-life-in-the-country-side.json](./333010-dream-life-in-the-country-side.json) |
 | Dream Management Company | 339127 | [339127-dream-management-company.json](./339127-dream-management-company.json) |
 | Dream of Light | 215903 | [215903-dream-of-light.json](./215903-dream-of-light.json) |
+| Dream of Tiny Snow | 244786 | [244786-dream-of-tiny-snow.json](./244786-dream-of-tiny-snow.json) |
 | Dream Seed | 257069 | [257069-dream-seed.json](./257069-dream-seed.json) |
 | Dream Shopper | 39629 | [39629-dream-shopper.json](./39629-dream-shopper.json) |
 | Dream Slayers | 342032 | [342032-dream-slayers.json](./342032-dream-slayers.json) |
