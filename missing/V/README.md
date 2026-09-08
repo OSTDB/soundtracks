@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Tycoon | 265651 | [265651-vacation-tycoon.json](./265651-vacation-tycoon.json) |
 | Vaccine Case | 237959 | [237959-vaccine-case.json](./237959-vaccine-case.json) |
 | Vaccine Hunter | 144355 | [144355-vaccine-hunter.json](./144355-vaccine-hunter.json) |
+| Vaccine Rebirth | 236842 | [236842-vaccine-rebirth.json](./236842-vaccine-rebirth.json) |
 | Vacuum Cleaner Robot Simulator: Pile Sos Edition | 369591 | [369591-vacuum-cleaner-robot-simulator-pile-sos-edition.json](./369591-vacuum-cleaner-robot-simulator-pile-sos-edition.json) |
 | Vade Retro: Exorcist | 216492 | [216492-vade-retro-exorcist.json](./216492-vade-retro-exorcist.json) |
 | Vader Immortal: A Star Wars VR Series | 125987 | [125987-vader-immortal-a-star-wars-vr-series.json](./125987-vader-immortal-a-star-wars-vr-series.json) |
@@ -117,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Clans | 216493 | [216493-vampire-clans.json](./216493-vampire-clans.json) |
 | Vampire Crystals: Rebirth | 85471 | [85471-vampire-crystals-rebirth.json](./85471-vampire-crystals-rebirth.json) |
 | Vampire Domain | 319020 | [319020-vampire-domain.json](./319020-vampire-domain.json) |
+| Vampire Family | 236837 | [236837-vampire-family.json](./236837-vampire-family.json) |
 | Vampire Girls | 243152 | [243152-vampire-girls.json](./243152-vampire-girls.json) |
 | Vampire Hunters | 244759 | [244759-vampire-hunters.json](./244759-vampire-hunters.json) |
 | Vampire Killer | 1115 | [1115-vampire-killer.json](./1115-vampire-killer.json) |
