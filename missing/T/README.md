@@ -1385,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eastern Sacrifice | 273659 | [273659-the-eastern-sacrifice.json](./273659-the-eastern-sacrifice.json) |
 | The Echoes of Mars | 301841 | [301841-the-echoes-of-mars.json](./301841-the-echoes-of-mars.json) |
 | The Edge | 340937 | [340937-the-edge.json](./340937-the-edge.json) |
+| The Edge of The World Z Will Shock You | 212827 | [212827-the-edge-of-the-world-z-will-shock-you.json](./212827-the-edge-of-the-world-z-will-shock-you.json) |
 | The Edibles | 273416 | [273416-the-edibles.json](./273416-the-edibles.json) |
 | The Eerie Inn | 95595 | [95595-the-eerie-inn.json](./95595-the-eerie-inn.json) |
 | The Egg of Human Endeavors | 223133 | [223133-the-egg-of-human-endeavors.json](./223133-the-egg-of-human-endeavors.json) |
@@ -1805,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Food Delivery | 359991 | [359991-the-jumping-food-delivery.json](./359991-the-jumping-food-delivery.json) |
 | The Jumping Food Racing 2 | 380407 | [380407-the-jumping-food-racing-2.json](./380407-the-jumping-food-racing-2.json) |
 | The Jumping Fries | 204078 | [204078-the-jumping-fries.json](./204078-the-jumping-fries.json) |
+| The Jumping Noodles: Turbo | 212792 | [212792-the-jumping-noodles-turbo.json](./212792-the-jumping-noodles-turbo.json) |
 | The Jumping Onion Ring | 329575 | [329575-the-jumping-onion-ring.json](./329575-the-jumping-onion-ring.json) |
 | The Jumping Orange 3 | 373563 | [373563-the-jumping-orange-3.json](./373563-the-jumping-orange-3.json) |
 | The Jumping Salad | 230302 | [230302-the-jumping-salad.json](./230302-the-jumping-salad.json) |
@@ -4209,6 +4211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrailRail | 366850 | [366850-trailrail.json](./366850-trailrail.json) |
 | Trails of Illusion | 197951 | [197951-trails-of-illusion.json](./197951-trails-of-illusion.json) |
 | Trails of Sunder | 241077 | [241077-trails-of-sunder.json](./241077-trails-of-sunder.json) |
+| Trails of the Ancestors | 212828 | [212828-trails-of-the-ancestors.json](./212828-trails-of-the-ancestors.json) |
 | Train Fever: USA | 238506 | [238506-train-fever-usa.json](./238506-train-fever-usa.json) |
 | Train Journey | 382209 | [382209-train-journey.json](./382209-train-journey.json) |
 | Train Merger | 108472 | [108472-train-merger.json](./108472-train-merger.json) |
