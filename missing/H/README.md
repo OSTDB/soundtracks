@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Drakerealm | 235485 | [235485-heroes-of-drakerealm.json](./235485-heroes-of-drakerealm.json) |
 | Heroes of Eroticism: New Beginnings | 221204 | [221204-heroes-of-eroticism-new-beginnings.json](./221204-heroes-of-eroticism-new-beginnings.json) |
 | Heroes of Gaia | 63867 | [63867-heroes-of-gaia.json](./63867-heroes-of-gaia.json) |
+| Heroes of Jin Yong | 210689 | [210689-heroes-of-jin-yong.json](./210689-heroes-of-jin-yong.json) |
 | Heroes of Magic & Cards | 369047 | [369047-heroes-of-magic-and-cards.json](./369047-heroes-of-magic-and-cards.json) |
 | Heroes of Magic: Card Battle | 108492 | [108492-heroes-of-magic-card-battle.json](./108492-heroes-of-magic-card-battle.json) |
 | Heroes of Might & Magic: Olden Era | 314543 | [314543-heroes-of-might-and-magic-olden-era.json](./314543-heroes-of-might-and-magic-olden-era.json) |
