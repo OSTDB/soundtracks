@@ -925,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Rigs | 134060 | [134060-desert-rigs.json](./134060-desert-rigs.json) |
 | Desert Rush | 265430 | [265430-desert-rush.json](./265430-desert-rush.json) |
 | Desert Storm | 270687 | [270687-desert-storm.json](./270687-desert-storm.json) |
+| Desert Tycoon | 256251 | [256251-desert-tycoon.json](./256251-desert-tycoon.json) |
 | Deserted Island | 138823 | [138823-deserted-island.json](./138823-deserted-island.json) |
 | DesertLand 2115 | 34350 | [34350-desertland-2115.json](./34350-desertland-2115.json) |
 | Deserved | 391598 | [391598-deserved.json](./391598-deserved.json) |
@@ -1534,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogistry | 58799 | [58799-dogistry.json](./58799-dogistry.json) |
 | Dogma | 74466 | [74466-dogma.json](./74466-dogma.json) |
 | Dogman | 141214 | [141214-dogman.json](./141214-dogman.json) |
+| Dogotchi: Virtual Pet - Deluxe Edition | 256265 | [256265-dogotchi-virtual-pet-deluxe-edition.json](./256265-dogotchi-virtual-pet-deluxe-edition.json) |
 | Dogs of the Dark | 265678 | [265678-dogs-of-the-dark.json](./265678-dogs-of-the-dark.json) |
 | Dogs of Wallstreet | 197925 | [197925-dogs-of-wallstreet.json](./197925-dogs-of-wallstreet.json) |
 | Dogs Organized Neatly | 154011 | [154011-dogs-organized-neatly.json](./154011-dogs-organized-neatly.json) |
@@ -1684,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Konga Beat | 231646 | [231646-donkey-konga-beat.json](./231646-donkey-konga-beat.json) |
 | Donkey Konk | 231608 | [231608-donkey-konk.json](./231608-donkey-konk.json) |
 | Donki Hills | 358294 | [358294-donki-hills.json](./358294-donki-hills.json) |
+| Donna Kanji? Ii Kanji | 256271 | [256271-donna-kanji-ii-kanji.json](./256271-donna-kanji-ii-kanji.json) |
 | Donnie's Delicious Nuclear Funeral | 390521 | [390521-donnies-delicious-nuclear-funeral.json](./390521-donnies-delicious-nuclear-funeral.json) |
 | Donny Donut: Dokrats | 265689 | [265689-donny-donut-dokrats.json](./265689-donny-donut-dokrats.json) |
 | Dontbegrey | 51965 | [51965-dontbegrey.json](./51965-dontbegrey.json) |
