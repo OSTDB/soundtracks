@@ -1299,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboDeal Simulator | 406127 | [406127-robodeal-simulator.json](./406127-robodeal-simulator.json) |
 | RoboGal: Gaga Delta Lady | 306994 | [306994-robogal-gaga-delta-lady.json](./306994-robogal-gaga-delta-lady.json) |
 | RoboJep | 165691 | [165691-robojep.json](./165691-robojep.json) |
+| Robolifter | 227850 | [227850-robolifter.json](./227850-robolifter.json) |
 | Roboloop | 295776 | [295776-roboloop.json](./295776-roboloop.json) |
 | RoboMaze III: The Dome | 78029 | [78029-robomaze-iii-the-dome.json](./78029-robomaze-iii-the-dome.json) |
 | Roborobi | 357808 | [357808-roborobi.json](./357808-roborobi.json) |
@@ -1797,6 +1798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RuinsCity_VR | 30930 | [30930-ruinscity-vr.json](./30930-ruinscity-vr.json) |
 | Rule the Waves 3: Expanded Battles | 324928 | [324928-rule-the-waves-3-expanded-battles.json](./324928-rule-the-waves-3-expanded-battles.json) |
 | Ruler of the Earth | 185694 | [185694-ruler-of-the-earth.json](./185694-ruler-of-the-earth.json) |
+| Ruler of the Waves 1916 | 227838 | [227838-ruler-of-the-waves-1916.json](./227838-ruler-of-the-waves-1916.json) |
 | Rules of the Game | 94237 | [94237-rules-of-the-game.json](./94237-rules-of-the-game.json) |
 | Rules: Motel Horizon | 392128 | [392128-rules-motel-horizon.json](./392128-rules-motel-horizon.json) |
 | Rum N' Gold Royale | 306376 | [306376-rum-n-gold-royale.json](./306376-rum-n-gold-royale.json) |
@@ -1832,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run TavernQuest | 132835 | [132835-run-tavernquest.json](./132835-run-tavernquest.json) |
 | Run the Rings | 323520 | [323520-run-the-rings.json](./323520-run-the-rings.json) |
 | Run Think Shoot | 253041 | [253041-run-think-shoot.json](./253041-run-think-shoot.json) |
+| Run to Infinity | 227841 | [227841-run-to-infinity.json](./227841-run-to-infinity.json) |
 | Run Tom Hanks Run | 307294 | [307294-run-tom-hanks-run.json](./307294-run-tom-hanks-run.json) |
 | Run, Veggies! | 358878 | [358878-run-veggies.json](./358878-run-veggies.json) |
 | Run! Run! Don't Die! | 329942 | [329942-run-run-dont-die.json](./329942-run-run-dont-die.json) |
