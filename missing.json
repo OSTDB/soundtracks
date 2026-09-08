@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T17:03:52.338Z",
-  "total_missing": 47496,
+  "generated_at": "2026-09-08T17:11:08.802Z",
+  "total_missing": 47495,
   "games": [
     {
       "igdb_id": 306086,
@@ -186,11 +186,6 @@
       "igdb_id": 267102,
       "game_name": "10:16",
       "file": "missing/0-9/267102-10-16.json"
-    },
-    {
-      "igdb_id": 350428,
-      "game_name": "10.000 Pizzas Please",
-      "file": "missing/0-9/350428-10-000-pizzas-please.json"
     },
     {
       "igdb_id": 334117,
