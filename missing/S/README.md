@@ -1087,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shall we date?: Ninja Love | 225316 | [225316-shall-we-date-ninja-love.json](./225316-shall-we-date-ninja-love.json) |
 | Shalnor Legends 2: Trials of Thunder | 232702 | [232702-shalnor-legends-2-trials-of-thunder.json](./232702-shalnor-legends-2-trials-of-thunder.json) |
 | ShamaL | 201316 | [201316-shamal.json](./201316-shamal.json) |
+| Shame Legacy | 241959 | [241959-shame-legacy.json](./241959-shame-legacy.json) |
 | Shameless Afterparty | 340382 | [340382-shameless-afterparty.json](./340382-shameless-afterparty.json) |
 | Shamus: Case II | 23889 | [23889-shamus-case-ii.json](./23889-shamus-case-ii.json) |
 | Shan Gui II: Sweet Osmanthus II | 110467 | [110467-shan-gui-ii-sweet-osmanthus-ii.json](./110467-shan-gui-ii-sweet-osmanthus-ii.json) |
@@ -1120,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShapeScale | 324326 | [324326-shapescale.json](./324326-shapescale.json) |
 | ShapeShift for Cheese! | 326618 | [326618-shapeshift-for-cheese.json](./326618-shapeshift-for-cheese.json) |
 | Shapeshifter: Endless Run | 392787 | [392787-shapeshifter-endless-run.json](./392787-shapeshifter-endless-run.json) |
+| Shapey Heads | 241989 | [241989-shapey-heads.json](./241989-shapey-heads.json) |
 | Shapo | 84898 | [84898-shapo.json](./84898-shapo.json) |
 | Shapy Road | 244805 | [244805-shapy-road.json](./244805-shapy-road.json) |
 | Shaq Attaq | 94736 | [94736-shaq-attaq.json](./94736-shaq-attaq.json) |
@@ -1573,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silva Saga | 48708 | [48708-silva-saga.json](./48708-silva-saga.json) |
 | SilvaGunner: Rebooted | 326957 | [326957-silvagunner-rebooted.json](./326957-silvagunner-rebooted.json) |
 | Silver Blade of Gods' End | 301602 | [301602-silver-blade-of-gods-end.json](./301602-silver-blade-of-gods-end.json) |
+| Silver Box Classics | 241957 | [241957-silver-box-classics.json](./241957-silver-box-classics.json) |
 | Silver Creek Falls: Chapter 3 | 33534 | [33534-silver-creek-falls-chapter-3.json](./33534-silver-creek-falls-chapter-3.json) |
 | Silver Falls: Ghoul Busters | 208583 | [208583-silver-falls-ghoul-busters.json](./208583-silver-falls-ghoul-busters.json) |
 | Silver Falls: Guardians And Metal Exterminators S | 283722 | [283722-silver-falls-guardians-and-metal-exterminators-s.json](./283722-silver-falls-guardians-and-metal-exterminators-s.json) |
@@ -3428,6 +3431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Route | 98997 | [98997-square-route.json](./98997-square-route.json) |
 | Square Shooter | 108482 | [108482-square-shooter.json](./108482-square-shooter.json) |
 | Squared Adventure | 311262 | [311262-squared-adventure.json](./311262-squared-adventure.json) |
+| Squared: Adjacent Stones | 241996 | [241996-squared-adjacent-stones.json](./241996-squared-adjacent-stones.json) |
 | Squareface | 31585 | [31585-squareface.json](./31585-squareface.json) |
 | Squarepinski | 372994 | [372994-squarepinski.json](./372994-squarepinski.json) |
 | Squares | 101610 | [101610-squares.json](./101610-squares.json) |
