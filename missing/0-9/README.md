@@ -52,7 +52,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Cyprus Cats | 334121 | [334121-100-cyprus-cats.json](./334121-100-cyprus-cats.json) |
 | 100 doors of artifact: Room Escape Challenge | 145001 | [145001-100-doors-of-artifact-room-escape-challenge.json](./145001-100-doors-of-artifact-room-escape-challenge.json) |
 | 100 Dubai Cats | 334120 | [334120-100-dubai-cats.json](./334120-100-dubai-cats.json) |
-| 100 Fantasy Cats | 315288 | [315288-100-fantasy-cats.json](./315288-100-fantasy-cats.json) |
 | 100 for Justice | 407343 | [407343-100-for-justice.json](./407343-100-for-justice.json) |
 | 100 Forest Cats | 301029 | [301029-100-forest-cats.json](./301029-100-forest-cats.json) |
 | 100 Gates | 327614 | [327614-100-gates.json](./327614-100-gates.json) |
