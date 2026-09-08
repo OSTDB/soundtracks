@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Hunt: Halloween Pack2 | 273670 | [273670-west-hunt-halloween-pack2.json](./273670-west-hunt-halloween-pack2.json) |
 | West Sweety | 127019 | [127019-west-sweety.json](./127019-west-sweety.json) |
 | Western Bank VR | 76678 | [76678-western-bank-vr.json](./76678-western-bank-vr.json) |
+| Western Press: TF2 Heavy | 228462 | [228462-western-press-tf2-heavy.json](./228462-western-press-tf2-heavy.json) |
 | Westfall | 343252 | [343252-westfall.json](./343252-westfall.json) |
 | WestHalla | 257681 | [257681-westhalla.json](./257681-westhalla.json) |
 | Westland Survival: Albino Alligator | 383360 | [383360-westland-survival-albino-alligator.json](./383360-westland-survival-albino-alligator.json) |
@@ -569,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Silence Fell | 114428 | [114428-when-silence-fell.json](./114428-when-silence-fell.json) |
 | When Sirens Fall Silent | 380417 | [380417-when-sirens-fall-silent.json](./380417-when-sirens-fall-silent.json) |
 | When Stars Collide | 364519 | [364519-when-stars-collide.json](./364519-when-stars-collide.json) |
+| When Tails Gets Bored | 228460 | [228460-when-tails-gets-bored.json](./228460-when-tails-gets-bored.json) |
 | When the Barn Sleeps | 389998 | [389998-when-the-barn-sleeps.json](./389998-when-the-barn-sleeps.json) |
 | When the Lying Petals Scatter Into the Wind | 155104 | [155104-when-the-lying-petals-scatter-into-the-wind.json](./155104-when-the-lying-petals-scatter-into-the-wind.json) |
 | When the Shutter Stops | 109713 | [109713-when-the-shutter-stops.json](./109713-when-the-shutter-stops.json) |
