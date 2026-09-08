@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertown | 51263 | [51263-undertown.json](./51263-undertown.json) |
 | Undervault | 129771 | [129771-undervault.json](./129771-undervault.json) |
 | Underwater Affect | 113000 | [113000-underwater-affect.json](./113000-underwater-affect.json) |
+| Underwater Diving | 224547 | [224547-underwater-diving.json](./224547-underwater-diving.json) |
 | Underworld | 349298 | [349298-underworld.json](./349298-underworld.json) |
 | Underworld Football Manager | 233739 | [233739-underworld-football-manager.json](./233739-underworld-football-manager.json) |
 | Underworld Re: Card | 213050 | [213050-underworld-re-card.json](./213050-underworld-re-card.json) |
@@ -378,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlock the King | 126885 | [126885-unlock-the-king.json](./126885-unlock-the-king.json) |
 | Unlock the King 2 | 127418 | [127418-unlock-the-king-2.json](./127418-unlock-the-king-2.json) |
 | Unlog | 370705 | [370705-unlog.json](./370705-unlog.json) |
+| Unluckily in Love | 224573 | [224573-unluckily-in-love.json](./224573-unluckily-in-love.json) |
 | Unmanned helicopter | 105365 | [105365-unmanned-helicopter.json](./105365-unmanned-helicopter.json) |
 | Unmatch | 58805 | [58805-unmatch.json](./58805-unmatch.json) |
 | Unmaze | 159363 | [159363-unmaze.json](./159363-unmaze.json) |
@@ -481,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uprising: Join or Die | 32768 | [32768-uprising-join-or-die.json](./32768-uprising-join-or-die.json) |
 | Uprk.cz | 161891 | [161891-uprk-cz.json](./161891-uprk-cz.json) |
 | Uproot: Lost Leaf | 226752 | [226752-uproot-lost-leaf.json](./226752-uproot-lost-leaf.json) |
+| UpRooted | 224553 | [224553-uprooted.json](./224553-uprooted.json) |
 | Uprush | 266239 | [266239-uprush.json](./266239-uprush.json) |
 | Upscale Studio: Logic Bundle: 5 in 1 | 379360 | [379360-upscale-studio-logic-bundle-5-in-1.json](./379360-upscale-studio-logic-bundle-5-in-1.json) |
 | Upside the Backrooms | 258740 | [258740-upside-the-backrooms.json](./258740-upside-the-backrooms.json) |
