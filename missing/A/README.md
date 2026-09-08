@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim/Flash Trainer | 404837 | [404837-aim-flash-trainer.json](./404837-aim-flash-trainer.json) |
 | Aimee's Cafe | 266520 | [266520-aimees-cafe.json](./266520-aimees-cafe.json) |
 | AimRogue | 288747 | [288747-aimrogue.json](./288747-aimrogue.json) |
+| Ainmora: The Impending Disaster | 241949 | [241949-ainmora-the-impending-disaster.json](./241949-ainmora-the-impending-disaster.json) |
 | AionGuard | 94732 | [94732-aionguard.json](./94732-aionguard.json) |
 | AiPri Verse | 284922 | [284922-aipri-verse.json](./284922-aipri-verse.json) |
 | Air | 270385 | [270385-air.json](./270385-air.json) |
@@ -2019,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ardent Fever | 316980 | [316980-ardent-fever.json](./316980-ardent-fever.json) |
 | Ardu Turf Masters | 340204 | [340204-ardu-turf-masters.json](./340204-ardu-turf-masters.json) |
 | Arduventure | 144324 | [144324-arduventure.json](./144324-arduventure.json) |
+| Are We Thawing | 241984 | [241984-are-we-thawing.json](./241984-are-we-thawing.json) |
 | Are You Afraid of the Dark | 220347 | [220347-are-you-afraid-of-the-dark.json](./220347-are-you-afraid-of-the-dark.json) |
 | Are You Kidding Me? | 324922 | [324922-are-you-kidding-me.json](./324922-are-you-kidding-me.json) |
 | Are You Smarter Than a 5th Grader? Game Time | 197940 | [197940-are-you-smarter-than-a-5th-grader-game-time.json](./197940-are-you-smarter-than-a-5th-grader-game-time.json) |
@@ -2545,6 +2547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantis-6 | 147472 | [147472-atlantis-6.json](./147472-atlantis-6.json) |
 | Atlas Architect | 157191 | [157191-atlas-architect.json](./157191-atlas-architect.json) |
 | Atlas Earth: Buy Virtual Land | 247217 | [247217-atlas-earth-buy-virtual-land.json](./247217-atlas-earth-buy-virtual-land.json) |
+| Atlas Fallen: Signature Edition | 241961 | [241961-atlas-fallen-signature-edition.json](./241961-atlas-fallen-signature-edition.json) |
 | Atlas Novum | 298293 | [298293-atlas-novum.json](./298293-atlas-novum.json) |
 | Atlas Reactor | 18063 | [18063-atlas-reactor.json](./18063-atlas-reactor.json) |
 | Atlas Reactor VR Character Viewer | 33173 | [33173-atlas-reactor-vr-character-viewer.json](./33173-atlas-reactor-vr-character-viewer.json) |
