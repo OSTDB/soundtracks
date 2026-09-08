@@ -1067,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Normal Shmup | 250378 | [250378-normal-shmup.json](./250378-normal-shmup.json) |
 | Norman | 60590 | [60590-norman.json](./60590-norman.json) |
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
+| Noroware Cycle | 223481 | [223481-noroware-cycle.json](./223481-noroware-cycle.json) |
 | NoRoY | 193490 | [193490-noroy.json](./193490-noroy.json) |
 | Norse by Norse West: The Return of the Lost Vikings | 2615 | [2615-norse-by-norse-west-the-return-of-the-lost-vikings.json](./2615-norse-by-norse-west-the-return-of-the-lost-vikings.json) |
 | North American Hunting Extravaganza 2 | 50619 | [50619-north-american-hunting-extravaganza-2.json](./50619-north-american-hunting-extravaganza-2.json) |
