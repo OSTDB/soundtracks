@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturday Night is the Loneliest Night of the Week | 230855 | [230855-saturday-night-is-the-loneliest-night-of-the-week.json](./230855-saturday-night-is-the-loneliest-night-of-the-week.json) |
 | Saturday Night is the Loneliest Night of the Week II | 230856 | [230856-saturday-night-is-the-loneliest-night-of-the-week-ii.json](./230856-saturday-night-is-the-loneliest-night-of-the-week-ii.json) |
 | Saturn | 313467 | [313467-saturn.json](./313467-saturn.json) |
+| Saturn Quest: R.U.N.E. 3000 | 221169 | [221169-saturn-quest-r-u-n-e-3000.json](./221169-saturn-quest-r-u-n-e-3000.json) |
 | Saturnalia | 131564 | [131564-saturnalia.json](./131564-saturnalia.json) |
 | Sauk Mind | 326600 | [326600-sauk-mind.json](./326600-sauk-mind.json) |
 | Sausage Cat | 320774 | [320774-sausage-cat.json](./320774-sausage-cat.json) |
@@ -2076,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Kingdom | 102192 | [102192-slime-kingdom.json](./102192-slime-kingdom.json) |
 | Slime Legion | 242238 | [242238-slime-legion.json](./242238-slime-legion.json) |
 | Slime Rancher | 16287 | [16287-slime-rancher.json](./16287-slime-rancher.json) |
+| Slime Ranger | 221159 | [221159-slime-ranger.json](./221159-slime-ranger.json) |
 | Slime Road | 108509 | [108509-slime-road.json](./108509-slime-road.json) |
 | Slime Runner | 215886 | [215886-slime-runner.json](./215886-slime-runner.json) |
 | Slime Scramble | 309328 | [309328-slime-scramble.json](./309328-slime-scramble.json) |
@@ -2465,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban | 19573 | [19573-sokoban.json](./19573-sokoban.json) |
 | Sokoban (Boxman) Classic | 171619 | [171619-sokoban-boxman-classic.json](./171619-sokoban-boxman-classic.json) |
 | Sokoban World | 308565 | [308565-sokoban-world.json](./308565-sokoban-world.json) |
+| Sokobear: Goo | 221161 | [221161-sokobear-goo.json](./221161-sokobear-goo.json) |
 | Sokocat - Islands | 147449 | [147449-sokocat-islands.json](./147449-sokocat-islands.json) |
 | SokoCode | 322593 | [322593-sokocode.json](./322593-sokocode.json) |
 | SokoMage | 235205 | [235205-sokomage.json](./235205-sokomage.json) |
@@ -3060,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Imperia 4X | 391570 | [391570-space-imperia-4x.json](./391570-space-imperia-4x.json) |
 | Space Industrial Empire | 250962 | [250962-space-industrial-empire.json](./250962-space-industrial-empire.json) |
 | Space Interceptor | 262369 | [262369-space-interceptor.json](./262369-space-interceptor.json) |
+| Space Intern | 221187 | [221187-space-intern.json](./221187-space-intern.json) |
 | Space Invaders Anniversary | 69888 | [69888-space-invaders-anniversary.json](./69888-space-invaders-anniversary.json) |
 | Space Invaders Part II | 246397 | [246397-space-invaders-part-ii.json](./246397-space-invaders-part-ii.json) |
 | Space Invaders: Carabiner Edition | 225630 | [225630-space-invaders-carabiner-edition.json](./225630-space-invaders-carabiner-edition.json) |
@@ -4352,6 +4356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | String Theory | 294149 | [294149-string-theory.json](./294149-string-theory.json) |
 | Strip Breaker: Hentai Girls | 109695 | [109695-strip-breaker-hentai-girls.json](./109695-strip-breaker-hentai-girls.json) |
 | Strip Fighter 5: Chimpocon Edition | 185648 | [185648-strip-fighter-5-chimpocon-edition.json](./185648-strip-fighter-5-chimpocon-edition.json) |
+| Strip n Play with Valerie | 221205 | [221205-strip-n-play-with-valerie.json](./221205-strip-n-play-with-valerie.json) |
 | Stripper Anya 2: X-MiGuFighters | 75168 | [75168-stripper-anya-2-x-migufighters.json](./75168-stripper-anya-2-x-migufighters.json) |
 | Strive: A Path Forward | 334496 | [334496-strive-a-path-forward.json](./334496-strive-a-path-forward.json) |
 | Strix STG | 228077 | [228077-strix-stg.json](./228077-strix-stg.json) |
@@ -5147,6 +5152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket 3D Tycoon Business Simulator | 317231 | [317231-supermarket-3d-tycoon-business-simulator.json](./317231-supermarket-3d-tycoon-business-simulator.json) |
 | Supermarket CEO Simulator | 335949 | [335949-supermarket-ceo-simulator.json](./335949-supermarket-ceo-simulator.json) |
 | Supermarket CEO Simulator VR | 335950 | [335950-supermarket-ceo-simulator-vr.json](./335950-supermarket-ceo-simulator-vr.json) |
+| Supermarket Duck Dash | 221160 | [221160-supermarket-duck-dash.json](./221160-supermarket-duck-dash.json) |
 | Supermarket Manager | 218686 | [218686-supermarket-manager.json](./218686-supermarket-manager.json) |
 | Supermarket Manager Simulator | 314863 | [314863-supermarket-manager-simulator.json](./314863-supermarket-manager-simulator.json) |
 | Supermarket Simulator 2026 | 378772 | [378772-supermarket-simulator-2026.json](./378772-supermarket-simulator-2026.json) |
