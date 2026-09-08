@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palitoman Adventure | 408085 | [408085-palitoman-adventure.json](./408085-palitoman-adventure.json) |
 | Palladise Island: Legendary Space | 228089 | [228089-palladise-island-legendary-space.json](./228089-palladise-island-legendary-space.json) |
 | Pallas of Vines | 129762 | [129762-pallas-of-vines.json](./129762-pallas-of-vines.json) |
+| Pallet | 250971 | [250971-pallet.json](./250971-pallet.json) |
 | Palm Reading Premium | 111056 | [111056-palm-reading-premium.json](./111056-palm-reading-premium.json) |
 | Palm Tetris | 250599 | [250599-palm-tetris.json](./250599-palm-tetris.json) |
 | Palmon: Survival | 369018 | [369018-palmon-survival.json](./369018-palmon-survival.json) |
@@ -1488,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Go: Might and Mastery | 333565 | [333565-pokemon-go-might-and-mastery.json](./333565-pokemon-go-might-and-mastery.json) |
 | Pokemon HG/SS Golden Edition | 334655 | [334655-pokemon-hg-ss-golden-edition.json](./334655-pokemon-hg-ss-golden-edition.json) |
 | Pokémon Island | 202405 | [202405-pokemon-island.json](./202405-pokemon-island.json) |
+| Pokémon Kanto Ultimate | 250926 | [250926-pokemon-kanto-ultimate.json](./250926-pokemon-kanto-ultimate.json) |
 | Pokémon Lazarus | 337439 | [337439-pokemon-lazarus.json](./337439-pokemon-lazarus.json) |
 | Pokémon Lost Silver | 320167 | [320167-pokemon-lost-silver.json](./320167-pokemon-lost-silver.json) |
 | Pokémon Luminescent Platinum | 199621 | [199621-pokemon-luminescent-platinum.json](./199621-pokemon-luminescent-platinum.json) |
@@ -1557,6 +1559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokini Kagura | 284896 | [284896-pokini-kagura.json](./284896-pokini-kagura.json) |
 | Pokkén Tournament: Update Ver.C07 | 300366 | [300366-pokken-tournament-update-ver-c07.json](./300366-pokken-tournament-update-ver-c07.json) |
 | Pokkén Tournament: Update Ver.N01 | 300364 | [300364-pokken-tournament-update-ver-n01.json](./300364-pokken-tournament-update-ver-n01.json) |
+| Polar Bear in Space! | 250934 | [250934-polar-bear-in-space.json](./250934-polar-bear-in-space.json) |
 | Polar Bowler 1st Frame | 294452 | [294452-polar-bowler-1st-frame.json](./294452-polar-bowler-1st-frame.json) |
 | Polar Panic | 21768 | [21768-polar-panic.json](./21768-polar-panic.json) |
 | Polar Panic | 275603 | [275603-polar-panic.json](./275603-polar-panic.json) |
@@ -2102,6 +2105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Labyrinth | 236515 | [236515-project-labyrinth.json](./236515-project-labyrinth.json) |
 | Project Landsword | 331140 | [331140-project-landsword.json](./331140-project-landsword.json) |
 | Project Lazarus | 205275 | [205275-project-lazarus.json](./205275-project-lazarus.json) |
+| Project Life is RPG | 250919 | [250919-project-life-is-rpg.json](./250919-project-life-is-rpg.json) |
 | Project Lilith | 396240 | [396240-project-lilith.json](./396240-project-lilith.json) |
 | Project Loro | 262690 | [262690-project-loro.json](./262690-project-loro.json) |
 | Project Lumoria | 136481 | [136481-project-lumoria.json](./136481-project-lumoria.json) |
@@ -2501,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyl | 126013 | [126013-pyl.json](./126013-pyl.json) |
 | PyNori | 336921 | [336921-pynori.json](./336921-pynori.json) |
 | Pyramania | 379901 | [379901-pyramania.json](./379901-pyramania.json) |
+| Pyrami Head | 250967 | [250967-pyrami-head.json](./250967-pyrami-head.json) |
 | Pyramid Bloxx | 194657 | [194657-pyramid-bloxx.json](./194657-pyramid-bloxx.json) |
 | Pyramid Game | 310185 | [310185-pyramid-game.json](./310185-pyramid-game.json) |
 | Pyramid Power | 71535 | [71535-pyramid-power.json](./71535-pyramid-power.json) |
