@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gary Grigsby's Pacific War | 72106 | [72106-gary-grigsbys-pacific-war.json](./72106-gary-grigsbys-pacific-war.json) |
 | Gary Grigsby's War in the Pacific | 69846 | [69846-gary-grigsbys-war-in-the-pacific.json](./69846-gary-grigsbys-war-in-the-pacific.json) |
 | Gary the Gull | 33169 | [33169-gary-the-gull.json](./33169-gary-the-gull.json) |
+| Gas Station Inc. | 255753 | [255753-gas-station-inc.json](./255753-gas-station-inc.json) |
 | Gas Station Manager 2026 | 393475 | [393475-gas-station-manager-2026.json](./393475-gas-station-manager-2026.json) |
 | Gas Station Simulator and Airstrip DLC Bundle | 286511 | [286511-gas-station-simulator-and-airstrip-dlc-bundle.json](./286511-gas-station-simulator-and-airstrip-dlc-bundle.json) |
 | Gas Station Simulator, Airstrip DLC and Can Touch This DLC Bundle | 297455 | [297455-gas-station-simulator-airstrip-dlc-and-can-touch-this-dlc-bundle.json](./297455-gas-station-simulator-airstrip-dlc-and-can-touch-this-dlc-bundle.json) |
@@ -496,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghaib | 117767 | [117767-ghaib.json](./117767-ghaib.json) |
 | Gharp | 192438 | [192438-gharp.json](./192438-gharp.json) |
 | Ghetto Conspiracy | 127366 | [127366-ghetto-conspiracy.json](./127366-ghetto-conspiracy.json) |
+| Ghetto Zombies: Graffiti Squad | 255711 | [255711-ghetto-zombies-graffiti-squad.json](./255711-ghetto-zombies-graffiti-squad.json) |
 | Ghost Bros | 224236 | [224236-ghost-bros.json](./224236-ghost-bros.json) |
 | Ghost Catchers | 272294 | [272294-ghost-catchers.json](./272294-ghost-catchers.json) |
 | Ghost Chaser | 81429 | [81429-ghost-chaser.json](./81429-ghost-chaser.json) |
@@ -1076,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Guilds | 109774 | [109774-grand-guilds.json](./109774-grand-guilds.json) |
 | Grand Lizard | 92543 | [92543-grand-lizard.json](./92543-grand-lizard.json) |
 | Grand Master | 48695 | [48695-grand-master.json](./48695-grand-master.json) |
+| Grand Mini Slam | 255742 | [255742-grand-mini-slam.json](./255742-grand-mini-slam.json) |
 | Grand Mountain Adventure 2 | 324130 | [324130-grand-mountain-adventure-2.json](./324130-grand-mountain-adventure-2.json) |
 | Grand Poo World | 138218 | [138218-grand-poo-world.json](./138218-grand-poo-world.json) |
 | Grand Poo World II | 138219 | [138219-grand-poo-world-ii.json](./138219-grand-poo-world-ii.json) |
@@ -1107,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandma With A Gun | 335276 | [335276-grandma-with-a-gun.json](./335276-grandma-with-a-gun.json) |
 | Grandma's Guide to the Grand Outside | 415110 | [415110-grandmas-guide-to-the-grand-outside.json](./415110-grandmas-guide-to-the-grand-outside.json) |
 | Grandmaster's Revenge | 215355 | [215355-grandmasters-revenge.json](./215355-grandmasters-revenge.json) |
+| Grandpa Rally | 255730 | [255730-grandpa-rally.json](./255730-grandpa-rally.json) |
 | Grandslam: The Tennis Tournament | 81410 | [81410-grandslam-the-tennis-tournament.json](./81410-grandslam-the-tennis-tournament.json) |
 | Granny Unleashed | 177561 | [177561-granny-unleashed.json](./177561-granny-unleashed.json) |
 | Granola Jumps | 297252 | [297252-granola-jumps.json](./297252-granola-jumps.json) |
