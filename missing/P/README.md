@@ -18,6 +18,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac Maze | 312907 | [312907-pac-maze.json](./312907-pac-maze.json) |
 | Pac Rabbit | 319590 | [319590-pac-rabbit.json](./319590-pac-rabbit.json) |
 | Pac-Boy & Mouse | 86097 | [86097-pac-boy-and-mouse.json](./86097-pac-boy-and-mouse.json) |
+| Pac-Man | 218442 | [218442-pac-man.json](./218442-pac-man.json) |
+| Pac-Man | 218443 | [218443-pac-man.json](./218443-pac-man.json) |
 | Pac-Man | 284317 | [284317-pac-man.json](./284317-pac-man.json) |
 | Pac-Man | 284368 | [284368-pac-man.json](./284368-pac-man.json) |
 | Pac-Man | 284369 | [284369-pac-man.json](./284369-pac-man.json) |
@@ -1564,6 +1566,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Go: Dual Destiny | 323177 | [323177-pokemon-go-dual-destiny.json](./323177-pokemon-go-dual-destiny.json) |
 | Pokémon Go: Max Out | 316620 | [316620-pokemon-go-max-out.json](./316620-pokemon-go-max-out.json) |
 | Pokémon Go: Might and Mastery | 333565 | [333565-pokemon-go-might-and-mastery.json](./333565-pokemon-go-might-and-mastery.json) |
+| Pokémon Go: Season of Alola | 218482 | [218482-pokemon-go-season-of-alola.json](./218482-pokemon-go-season-of-alola.json) |
+| Pokémon Go: Season of Discovery | 218496 | [218496-pokemon-go-season-of-discovery.json](./218496-pokemon-go-season-of-discovery.json) |
+| Pokémon Go: Season of Heritage | 218486 | [218486-pokemon-go-season-of-heritage.json](./218486-pokemon-go-season-of-heritage.json) |
+| Pokémon Go: Season of Legends | 218502 | [218502-pokemon-go-season-of-legends.json](./218502-pokemon-go-season-of-legends.json) |
+| Pokémon Go: Season of Mischief | 218487 | [218487-pokemon-go-season-of-mischief.json](./218487-pokemon-go-season-of-mischief.json) |
 | Pokemon HG/SS Golden Edition | 334655 | [334655-pokemon-hg-ss-golden-edition.json](./334655-pokemon-hg-ss-golden-edition.json) |
 | Pokémon Island | 202405 | [202405-pokemon-island.json](./202405-pokemon-island.json) |
 | Pokémon Kanto Ultimate | 250926 | [250926-pokemon-kanto-ultimate.json](./250926-pokemon-kanto-ultimate.json) |
@@ -2122,6 +2129,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Football | 289866 | [289866-pro-football.json](./289866-pro-football.json) |
 | Pro Gamer Tycoon | 103471 | [103471-pro-gamer-tycoon.json](./103471-pro-gamer-tycoon.json) |
 | Pro Gymnast Simulator + Brawl Chess | 219051 | [219051-pro-gymnast-simulator-brawl-chess.json](./219051-pro-gymnast-simulator-brawl-chess.json) |
+| Pro Gymnast Simulator + Clumsy Rush | 218456 | [218456-pro-gymnast-simulator-clumsy-rush.json](./218456-pro-gymnast-simulator-clumsy-rush.json) |
+| Pro Gymnast Simulator + Cyber Protocol | 218501 | [218501-pro-gymnast-simulator-cyber-protocol.json](./218501-pro-gymnast-simulator-cyber-protocol.json) |
 | Pro Mahjong Kiwame 64 | 97880 | [97880-pro-mahjong-kiwame-64.json](./97880-pro-mahjong-kiwame-64.json) |
 | Pro Mahjong Kiwame D | 97874 | [97874-pro-mahjong-kiwame-d.json](./97874-pro-mahjong-kiwame-d.json) |
 | Pro Mahjong Kiwame GB II | 97878 | [97878-pro-mahjong-kiwame-gb-ii.json](./97878-pro-mahjong-kiwame-gb-ii.json) |
@@ -2200,6 +2209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Battlefield | 342655 | [342655-project-battlefield.json](./342655-project-battlefield.json) |
 | Project BlockchainZ | 180313 | [180313-project-blockchainz.json](./180313-project-blockchainz.json) |
 | Project Cairo | 297475 | [297475-project-cairo.json](./297475-project-cairo.json) |
+| Project Cars: Digital Edition | 218478 | [218478-project-cars-digital-edition.json](./218478-project-cars-digital-edition.json) |
 | Project CARS: Logitech Livery Pack | 353279 | [353279-project-cars-logitech-livery-pack.json](./353279-project-cars-logitech-livery-pack.json) |
 | Project Cartaphilus | 266796 | [266796-project-cartaphilus.json](./266796-project-cartaphilus.json) |
 | Project Chameleon | 279584 | [279584-project-chameleon.json](./279584-project-chameleon.json) |
@@ -2596,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli W Hashiwokakero | 236816 | [236816-puzzle-by-nikoli-w-hashiwokakero.json](./236816-puzzle-by-nikoli-w-hashiwokakero.json) |
 | Puzzle by Nikoli W Heyawake | 230827 | [230827-puzzle-by-nikoli-w-heyawake.json](./230827-puzzle-by-nikoli-w-heyawake.json) |
 | Puzzle by Nikoli W Kakuro | 262657 | [262657-puzzle-by-nikoli-w-kakuro.json](./262657-puzzle-by-nikoli-w-kakuro.json) |
+| Puzzle Club | 218450 | [218450-puzzle-club.json](./218450-puzzle-club.json) |
 | Puzzle Cozy | 386692 | [386692-puzzle-cozy.json](./386692-puzzle-cozy.json) |
 | Puzzle Craft | 47286 | [47286-puzzle-craft.json](./47286-puzzle-craft.json) |
 | Puzzle da Moro! | 259828 | [259828-puzzle-da-moro.json](./259828-puzzle-da-moro.json) |
@@ -2682,6 +2693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramids and Aliens: Escape Room | 295019 | [295019-pyramids-and-aliens-escape-room.json](./295019-pyramids-and-aliens-escape-room.json) |
 | Pyramis | 397668 | [397668-pyramis.json](./397668-pyramis.json) |
 | Pyratel | 308239 | [308239-pyratel.json](./308239-pyratel.json) |
+| Pyro Complete Bundle | 218460 | [218460-pyro-complete-bundle.json](./218460-pyro-complete-bundle.json) |
 | Pyrocast | 288762 | [288762-pyrocast.json](./288762-pyrocast.json) |
 | Pyrosynchist | 370690 | [370690-pyrosynchist.json](./370690-pyrosynchist.json) |
 | Pyrus: Alle Tiders Familiespil | 129813 | [129813-pyrus-alle-tiders-familiespil.json](./129813-pyrus-alle-tiders-familiespil.json) |
