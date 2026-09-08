@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T20:03:40.743Z",
-  "total_missing": 47999,
+  "generated_at": "2026-09-08T20:11:02.011Z",
+  "total_missing": 47998,
   "games": [
     {
       "igdb_id": 306086,
@@ -281,11 +281,6 @@
       "igdb_id": 231615,
       "game_name": "100 Keys to Your Heart",
       "file": "missing/0-9/231615-100-keys-to-your-heart.json"
-    },
-    {
-      "igdb_id": 278175,
-      "game_name": "100 Kills Challenge",
-      "file": "missing/0-9/278175-100-kills-challenge.json"
     },
     {
       "igdb_id": 301030,
