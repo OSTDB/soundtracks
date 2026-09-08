@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bacteria Warfare | 309097 | [309097-bacteria-warfare.json](./309097-bacteria-warfare.json) |
 | Bacteria Wars | 165701 | [165701-bacteria-wars.json](./165701-bacteria-wars.json) |
 | Bacteria: Collector's Edition | 52620 | [52620-bacteria-collectors-edition.json](./52620-bacteria-collectors-edition.json) |
+| Bacterial Takeover - Idle game | 257373 | [257373-bacterial-takeover-idle-game.json](./257373-bacterial-takeover-idle-game.json) |
 | Bacteriophage | 197948 | [197948-bacteriophage.json](./197948-bacteriophage.json) |
 | Bactory | 413612 | [413612-bactory.json](./413612-bactory.json) |
 | Baculus | 140599 | [140599-baculus.json](./140599-baculus.json) |
@@ -1203,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biphase | 148549 | [148549-biphase.json](./148549-biphase.json) |
 | Birb Game | 343803 | [343803-birb-game.json](./343803-birb-game.json) |
 | Bird Alone | 135897 | [135897-bird-alone.json](./135897-bird-alone.json) |
+| Bird Ball | 257378 | [257378-bird-ball.json](./257378-bird-ball.json) |
 | Bird Fall | 37150 | [37150-bird-fall.json](./37150-bird-fall.json) |
 | Bird Game III | 381008 | [381008-bird-game-iii.json](./381008-bird-game-iii.json) |
 | Bird Jumper | 299741 | [299741-bird-jumper.json](./299741-bird-jumper.json) |
@@ -1426,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazeSky | 131611 | [131611-blazesky.json](./131611-blazesky.json) |
 | Blazin' Aces | 61107 | [61107-blazin-aces.json](./61107-blazin-aces.json) |
 | Blazing Legion: Ignition | 78064 | [78064-blazing-legion-ignition.json](./78064-blazing-legion-ignition.json) |
+| Blazing Snake | 257372 | [257372-blazing-snake.json](./257372-blazing-snake.json) |
 | Blazing Strike | 193531 | [193531-blazing-strike.json](./193531-blazing-strike.json) |
 | Blazing Trail | 293100 | [293100-blazing-trail.json](./293100-blazing-trail.json) |
 | Bleach: Heat the Soul 4 | 46001 | [46001-bleach-heat-the-soul-4.json](./46001-bleach-heat-the-soul-4.json) |
