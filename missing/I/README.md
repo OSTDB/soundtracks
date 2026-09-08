@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ishin no Arashi | 30923 | [30923-ishin-no-arashi.json](./30923-ishin-no-arashi.json) |
 | Ishu Saikyou-ou Zukan: Battle Colosseum | 225897 | [225897-ishu-saikyou-ou-zukan-battle-colosseum.json](./225897-ishu-saikyou-ou-zukan-battle-colosseum.json) |
 | Isida | 382755 | [382755-isida.json](./382755-isida.json) |
+| Isis: The Fall | 255100 | [255100-isis-the-fall.json](./255100-isis-the-fall.json) |
 | Island | 260380 | [260380-island.json](./260380-island.json) |
 | Island | 346060 | [346060-island.json](./346060-island.json) |
 | Island Bender | 234346 | [234346-island-bender.json](./234346-island-bender.json) |
