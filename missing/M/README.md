@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Cafe | 265435 | [265435-maid-cafe.json](./265435-maid-cafe.json) |
 | Maid Cafe Coop | 381636 | [381636-maid-cafe-coop.json](./381636-maid-cafe-coop.json) |
 | Maid Cafe on Electric Street | 302952 | [302952-maid-cafe-on-electric-street.json](./302952-maid-cafe-on-electric-street.json) |
+| Maid for Loving You | 255115 | [255115-maid-for-loving-you.json](./255115-maid-for-loving-you.json) |
 | Maid Hunter | 235462 | [235462-maid-hunter.json](./235462-maid-hunter.json) |
 | Maid in Witch Life!: Yakata de Hajimaru H na Miryou Seikatsu | 194633 | [194633-maid-in-witch-life-yakata-de-hajimaru-h-na-miryou-seikatsu.json](./194633-maid-in-witch-life-yakata-de-hajimaru-h-na-miryou-seikatsu.json) |
 | Maid Knight Alicia | 199089 | [199089-maid-knight-alicia.json](./199089-maid-knight-alicia.json) |
@@ -1754,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Racer Car Shop Simulator | 326386 | [326386-mini-racer-car-shop-simulator.json](./326386-mini-racer-car-shop-simulator.json) |
 | Mini Racing: Mini Cars Curling | 233755 | [233755-mini-racing-mini-cars-curling.json](./233755-mini-racing-mini-cars-curling.json) |
 | Mini Raid Leader | 398999 | [398999-mini-raid-leader.json](./398999-mini-raid-leader.json) |
+| Mini Ranger | 255127 | [255127-mini-ranger.json](./255127-mini-ranger.json) |
 | Mini Rogue | 144376 | [144376-mini-rogue.json](./144376-mini-rogue.json) |
 | Mini Royale | 201020 | [201020-mini-royale.json](./201020-mini-royale.json) |
 | Mini Star Quest | 344948 | [344948-mini-star-quest.json](./344948-mini-star-quest.json) |
@@ -1951,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Manager 2015 | 279628 | [279628-mlb-manager-2015.json](./279628-mlb-manager-2015.json) |
 | MLB Manager 2018 | 96270 | [96270-mlb-manager-2018.json](./96270-mlb-manager-2018.json) |
 | MLB Perfect Inning | 323161 | [323161-mlb-perfect-inning.json](./323161-mlb-perfect-inning.json) |
+| MLB Rivals | 255104 | [255104-mlb-rivals.json](./255104-mlb-rivals.json) |
 | MLB Slugfest 2003 | 47334 | [47334-mlb-slugfest-2003.json](./47334-mlb-slugfest-2003.json) |
 | MLB The Show 19: MVP Edition | 119070 | [119070-mlb-the-show-19-mvp-edition.json](./119070-mlb-the-show-19-mvp-edition.json) |
 | MLB The Show 22: MVP Edition | 196516 | [196516-mlb-the-show-22-mvp-edition.json](./196516-mlb-the-show-22-mvp-edition.json) |
