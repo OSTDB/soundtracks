@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food Panic | 50631 | [50631-fast-food-panic.json](./50631-fast-food-panic.json) |
 | Fast Food Rage | 386700 | [386700-fast-food-rage.json](./386700-fast-food-rage.json) |
 | Fast Travel: Loot Delivery Service | 117050 | [117050-fast-travel-loot-delivery-service.json](./117050-fast-travel-loot-delivery-service.json) |
+| FastBall 2 | 257370 | [257370-fastball-2.json](./257370-fastball-2.json) |
 | Faster Harder More Challenging Q*bert | 39671 | [39671-faster-harder-more-challenging-q-bert.json](./39671-faster-harder-more-challenging-q-bert.json) |
 | Fastidious | 381013 | [381013-fastidious.json](./381013-fastidious.json) |
 | Fastival | 302123 | [302123-fastival.json](./302123-fastival.json) |
@@ -706,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XVI: Deluxe Edition | 228738 | [228738-final-fantasy-xvi-deluxe-edition.json](./228738-final-fantasy-xvi-deluxe-edition.json) |
 | Final Fantasy: Pixel Remaster Collection | 159253 | [159253-final-fantasy-pixel-remaster-collection.json](./159253-final-fantasy-pixel-remaster-collection.json) |
 | Final Flock | 260163 | [260163-final-flock.json](./260163-final-flock.json) |
+| Final Freeway | 257369 | [257369-final-freeway.json](./257369-final-freeway.json) |
 | Final Goal | 253002 | [253002-final-goal.json](./253002-final-goal.json) |
 | Final Hour | 27772 | [27772-final-hour.json](./27772-final-hour.json) |
 | Final Nation | 251823 | [251823-final-nation.json](./251823-final-nation.json) |
@@ -1857,7 +1859,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Chess: Platinum Edition | 283146 | [283146-fun-chess-platinum-edition.json](./283146-fun-chess-platinum-edition.json) |
 | Fun Infused Arcade | 260178 | [260178-fun-infused-arcade.json](./260178-fun-infused-arcade.json) |
 | Fun Park Simulator | 394165 | [394165-fun-park-simulator.json](./394165-fun-park-simulator.json) |
+| Fun Run | 257410 | [257410-fun-run.json](./257410-fun-run.json) |
 | Fun Run 3 | 57120 | [57120-fun-run-3.json](./57120-fun-run-3.json) |
+| Fun Run 4 | 257400 | [257400-fun-run-4.json](./257400-fun-run-4.json) |
 | Fun Times at Homer's | 383384 | [383384-fun-times-at-homers.json](./383384-fun-times-at-homers.json) |
 | Fun With the Fitzgeralds | 262946 | [262946-fun-with-the-fitzgeralds.json](./262946-fun-with-the-fitzgeralds.json) |
 | Fun! Fun! Pingu | 61678 | [61678-fun-fun-pingu.json](./61678-fun-fun-pingu.json) |
