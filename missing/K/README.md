@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Mita Hikari 2 | 329968 | [329968-kimi-ga-mita-hikari-2.json](./329968-kimi-ga-mita-hikari-2.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi sae Ireba: Episode Sutelz | 311494 | [311494-kimi-sae-ireba-episode-sutelz.json](./311494-kimi-sae-ireba-episode-sutelz.json) |
 | Kimi to Koi Shite Musubarete | 394886 | [394886-kimi-to-koi-shite-musubarete.json](./394886-kimi-to-koi-shite-musubarete.json) |
 | Kimi to Mezameru Ikutsuka no Houhou | 398997 | [398997-kimi-to-mezameru-ikutsuka-no-houhou.json](./398997-kimi-to-mezameru-ikutsuka-no-houhou.json) |
@@ -812,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krakatoa | 45368 | [45368-krakatoa.json](./45368-krakatoa.json) |
 | Kraken | 74458 | [74458-kraken.json](./74458-kraken.json) |
 | Kraken Attack | 318228 | [318228-kraken-attack.json](./318228-kraken-attack.json) |
+| Kraken Invasion: RPG Idle | 233504 | [233504-kraken-invasion-rpg-idle.json](./233504-kraken-invasion-rpg-idle.json) |
 | Kraktures | 318981 | [318981-kraktures.json](./318981-kraktures.json) |
 | Krampus | 25317 | [25317-krampus.json](./25317-krampus.json) |
 | Krampus Quest | 76674 | [76674-krampus-quest.json](./76674-krampus-quest.json) |
