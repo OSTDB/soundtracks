@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted Waters: New Horizons | 102810 | [102810-uncharted-waters-new-horizons.json](./102810-uncharted-waters-new-horizons.json) |
 | Uncharted World | 310188 | [310188-uncharted-world.json](./310188-uncharted-world.json) |
 | Unclaimed World | 17130 | [17130-unclaimed-world.json](./17130-unclaimed-world.json) |
+| Uncle Slam Vice Squad | 255723 | [255723-uncle-slam-vice-squad.json](./255723-uncle-slam-vice-squad.json) |
 | Uncle's Casino | 78674 | [78674-uncles-casino.json](./78674-uncles-casino.json) |
 | Uncolor for iPad | 108460 | [108460-uncolor-for-ipad.json](./108460-uncolor-for-ipad.json) |
 | Uncommon Valor: Campaign for the South Pacific | 69881 | [69881-uncommon-valor-campaign-for-the-south-pacific.json](./69881-uncommon-valor-campaign-for-the-south-pacific.json) |
