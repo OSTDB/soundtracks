@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangsta Bean 2 | 261296 | [261296-gangsta-bean-2.json](./261296-gangsta-bean-2.json) |
 | Gangsta Underground: The Poker | 132263 | [132263-gangsta-underground-the-poker.json](./132263-gangsta-underground-the-poker.json) |
 | Gangstar City | 403574 | [403574-gangstar-city.json](./403574-gangstar-city.json) |
+| Gangstar New York | 211210 | [211210-gangstar-new-york.json](./211210-gangstar-new-york.json) |
 | Gangster Bros | 282577 | [282577-gangster-bros.json](./282577-gangster-bros.json) |
 | Gantz: The Game | 78046 | [78046-gantz-the-game.json](./78046-gantz-the-game.json) |
 | Ganz Schön Clever | 105957 | [105957-ganz-schon-clever.json](./105957-ganz-schon-clever.json) |
@@ -418,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genfanad | 159346 | [159346-genfanad.json](./159346-genfanad.json) |
 | Genghis Khan | 308557 | [308557-genghis-khan.json](./308557-genghis-khan.json) |
 | Genies & Jewels - Puzzle Quest | 105940 | [105940-genies-and-jewels-puzzle-quest.json](./105940-genies-and-jewels-puzzle-quest.json) |
+| Genimas: Life Reborn | 211201 | [211201-genimas-life-reborn.json](./211201-genimas-life-reborn.json) |
 | Gênio Fly | 241945 | [241945-genio-fly.json](./241945-genio-fly.json) |
 | Gênio Quiz | 240244 | [240244-genio-quiz.json](./240244-genio-quiz.json) |
 | Gênio Quiz Anitta | 241942 | [241942-genio-quiz-anitta.json](./241942-genio-quiz-anitta.json) |
