@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abulia | 372445 | [372445-abulia.json](./372445-abulia.json) |
 | Abunai Tengu Densetsu | 299786 | [299786-abunai-tengu-densetsu.json](./299786-abunai-tengu-densetsu.json) |
 | Abunka | 216777 | [216777-abunka.json](./216777-abunka.json) |
+| Abyss | 210669 | [210669-abyss.json](./210669-abyss.json) |
 | Abyss | 265405 | [265405-abyss.json](./265405-abyss.json) |
 | Abyss | 8524 | [8524-abyss.json](./8524-abyss.json) |
 | Abyss Cave | 35789 | [35789-abyss-cave.json](./35789-abyss-cave.json) |
@@ -2157,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Combat | 63888 | [63888-arctic-combat.json](./63888-arctic-combat.json) |
 | Arctic Digger TCG Collection | 358873 | [358873-arctic-digger-tcg-collection.json](./358873-arctic-digger-tcg-collection.json) |
 | Arctic Motel Simulator | 311829 | [311829-arctic-motel-simulator.json](./311829-arctic-motel-simulator.json) |
+| Arctic Zone | 210639 | [210639-arctic-zone.json](./210639-arctic-zone.json) |
 | Arctis | 334663 | [334663-arctis.json](./334663-arctis.json) |
 | Ardem | 260389 | [260389-ardem.json](./260389-ardem.json) |
 | Ardency: Heart of the Rebellion | 297788 | [297788-ardency-heart-of-the-rebellion.json](./297788-ardency-heart-of-the-rebellion.json) |
