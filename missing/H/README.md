@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition: The Pearl of Discord | 140037 | [140037-hidden-expedition-the-pearl-of-discord.json](./140037-hidden-expedition-the-pearl-of-discord.json) |
 | Hidden Farm 2 Top-Down 3D | 208593 | [208593-hidden-farm-2-top-down-3d.json](./208593-hidden-farm-2-top-down-3d.json) |
 | Hidden Folks 2 | 404849 | [404849-hidden-folks-2.json](./404849-hidden-folks-2.json) |
+| Hidden Futa | 236287 | [236287-hidden-futa.json](./236287-hidden-futa.json) |
 | Hidden Garden | 63885 | [63885-hidden-garden.json](./63885-hidden-garden.json) |
 | Hidden Garden Fairies | 100883 | [100883-hidden-garden-fairies.json](./100883-hidden-garden-fairies.json) |
 | Hidden Garden Fairy Tale | 95580 | [95580-hidden-garden-fairy-tale.json](./95580-hidden-garden-fairy-tale.json) |
