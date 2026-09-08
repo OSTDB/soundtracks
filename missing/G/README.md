@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galletron | 13001 | [13001-galletron.json](./13001-galletron.json) |
 | Gallium | 314077 | [314077-gallium.json](./314077-gallium.json) |
 | Gallop Glory: Obstacle Racing & Horse Simulator | 300726 | [300726-gallop-glory-obstacle-racing-and-horse-simulator.json](./300726-gallop-glory-obstacle-racing-and-horse-simulator.json) |
+| GalRock Girls | 258440 | [258440-galrock-girls.json](./258440-galrock-girls.json) |
 | Galvatia | 169474 | [169474-galvatia.json](./169474-galvatia.json) |
 | Gambit Maestro | 385586 | [385586-gambit-maestro.json](./385586-gambit-maestro.json) |
 | Gamble Fight Plus | 116783 | [116783-gamble-fight-plus.json](./116783-gamble-fight-plus.json) |
@@ -314,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear Senshi Dendoh | 19595 | [19595-gear-senshi-dendoh.json](./19595-gear-senshi-dendoh.json) |
 | Gear Slots | 389972 | [389972-gear-slots.json](./389972-gear-slots.json) |
 | Gear.Club Unlimited: Super Cars Pack | 238212 | [238212-gear-club-unlimited-super-cars-pack.json](./238212-gear-club-unlimited-super-cars-pack.json) |
+| Gearbits | 258457 | [258457-gearbits.json](./258457-gearbits.json) |
 | Gearguns: Tank Offensive | 31375 | [31375-gearguns-tank-offensive.json](./31375-gearguns-tank-offensive.json) |
 | Gears Forever | 297511 | [297511-gears-forever.json](./297511-gears-forever.json) |
 | Gears of Babies: Browser | 261258 | [261258-gears-of-babies-browser.json](./261258-gears-of-babies-browser.json) |
@@ -517,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Rider | 218142 | [218142-ghost-rider.json](./218142-ghost-rider.json) |
 | Ghost Run 3D | 154571 | [154571-ghost-run-3d.json](./154571-ghost-run-3d.json) |
 | Ghost Shadow | 214199 | [214199-ghost-shadow.json](./214199-ghost-shadow.json) |
+| Ghost Simulator | 258491 | [258491-ghost-simulator.json](./258491-ghost-simulator.json) |
 | Ghost Stories | 119035 | [119035-ghost-stories.json](./119035-ghost-stories.json) |
 | Ghost Story | 311269 | [311269-ghost-story.json](./311269-ghost-story.json) |
 | Ghost Study | 229328 | [229328-ghost-study.json](./229328-ghost-study.json) |
@@ -765,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoblinAmerica | 271228 | [271228-goblinamerica.json](./271228-goblinamerica.json) |
 | Goblinna's Garden | 374063 | [374063-goblinnas-garden.json](./374063-goblinnas-garden.json) |
 | Goblins Factory | 213003 | [213003-goblins-factory.json](./213003-goblins-factory.json) |
+| Goblins Never Die | 258446 | [258446-goblins-never-die.json](./258446-goblins-never-die.json) |
 | Goblins Please | 260405 | [260405-goblins-please.json](./260405-goblins-please.json) |
 | GoBlock's Impossible Medley | 28884 | [28884-goblocks-impossible-medley.json](./28884-goblocks-impossible-medley.json) |
 | Goblr: Goblin Date Night Simulator | 238719 | [238719-goblr-goblin-date-night-simulator.json](./238719-goblr-goblin-date-night-simulator.json) |
