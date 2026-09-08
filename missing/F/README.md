@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill and Cross: Trick or Treat | 163987 | [163987-fill-and-cross-trick-or-treat.json](./163987-fill-and-cross-trick-or-treat.json) |
 | Fill the Fridge | 311817 | [311817-fill-the-fridge.json](./311817-fill-the-fridge.json) |
 | Filly Fantasy VI | 312347 | [312347-filly-fantasy-vi.json](./312347-filly-fantasy-vi.json) |
+| Filsnown: Hikari to Toki | 247506 | [247506-filsnown-hikari-to-toki.json](./247506-filsnown-hikari-to-toki.json) |
 | Fin Fin: On Teo, the Magic Planet | 172775 | [172775-fin-fin-on-teo-the-magic-planet.json](./172775-fin-fin-on-teo-the-magic-planet.json) |
 | FIN: The Way Home | 302127 | [302127-fin-the-way-home.json](./302127-fin-the-way-home.json) |
 | Fina | 127981 | [127981-fina.json](./127981-fina.json) |
@@ -711,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VI: Presentiment Era | 339252 | [339252-final-fantasy-vi-presentiment-era.json](./339252-final-fantasy-vi-presentiment-era.json) |
 | Final Fantasy VI: Revised Old Style Edition | 379343 | [379343-final-fantasy-vi-revised-old-style-edition.json](./379343-final-fantasy-vi-revised-old-style-edition.json) |
 | Final Fantasy VII | 392808 | [392808-final-fantasy-vii.json](./392808-final-fantasy-vii.json) |
+| Final Fantasy X-2: International | 247548 | [247548-final-fantasy-x-2-international.json](./247548-final-fantasy-x-2-international.json) |
 | Final Fantasy XIV Online | 386 | [386-final-fantasy-xiv-online.json](./386-final-fantasy-xiv-online.json) |
 | Final Fantasy XIV: Endwalker | 143232 | [143232-final-fantasy-xiv-endwalker.json](./143232-final-fantasy-xiv-endwalker.json) |
 | Final Fantasy XIV: Endwalker - Collector's Edition | 152343 | [152343-final-fantasy-xiv-endwalker-collectors-edition.json](./152343-final-fantasy-xiv-endwalker-collectors-edition.json) |
@@ -1507,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress Forge | 310928 | [310928-fortress-forge.json](./310928-fortress-forge.json) |
 | Fortress of the Undead | 248075 | [248075-fortress-of-the-undead.json](./248075-fortress-of-the-undead.json) |
 | Fortress of Zorlac | 319579 | [319579-fortress-of-zorlac.json](./319579-fortress-of-zorlac.json) |
+| Fortress S | 247491 | [247491-fortress-s.json](./247491-fortress-s.json) |
 | FortressCraft Evolved!: Frozen Factory | 167319 | [167319-fortresscraft-evolved-frozen-factory.json](./167319-fortresscraft-evolved-frozen-factory.json) |
 | Forts: High Seas | 195771 | [195771-forts-high-seas.json](./195771-forts-high-seas.json) |
 | Fortuito: Lost History | 156667 | [156667-fortuito-lost-history.json](./156667-fortuito-lost-history.json) |
@@ -1920,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funk Unplugged | 31623 | [31623-funk-unplugged.json](./31623-funk-unplugged.json) |
 | Funky Fish | 39685 | [39685-funky-fish.json](./39685-funky-fish.json) |
 | Funnels and Buckets | 46644 | [46644-funnels-and-buckets.json](./46644-funnels-and-buckets.json) |
+| Funny Bird | 247538 | [247538-funny-bird.json](./247538-funny-bird.json) |
 | Funny Card | 193495 | [193495-funny-card.json](./193495-funny-card.json) |
 | Funny Cards | 82138 | [82138-funny-cards.json](./82138-funny-cards.json) |
 | Funny Face Apartment | 310762 | [310762-funny-face-apartment.json](./310762-funny-face-apartment.json) |
