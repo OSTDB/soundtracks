@@ -789,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Brain: Tricky Puzzles | 293079 | [293079-agent-brain-tricky-puzzles.json](./293079-agent-brain-tricky-puzzles.json) |
 | Agent Emerson | 127618 | [127618-agent-emerson.json](./127618-agent-emerson.json) |
 | Agent Forest | 357798 | [357798-agent-forest.json](./357798-agent-forest.json) |
+| Agent from C.O.G.O.O. | 234598 | [234598-agent-from-c-o-g-o-o.json](./234598-agent-from-c-o-g-o-o.json) |
 | Agent Hugo | 95462 | [95462-agent-hugo.json](./95462-agent-hugo.json) |
 | Agent Intercept | 122635 | [122635-agent-intercept.json](./122635-agent-intercept.json) |
 | Agent Karen: Undercover Investigation of an Evil Organization | 82884 | [82884-agent-karen-undercover-investigation-of-an-evil-organization.json](./82884-agent-karen-undercover-investigation-of-an-evil-organization.json) |
@@ -881,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Glide | 312323 | [312323-air-glide.json](./312323-air-glide.json) |
 | Air Hockey | 43934 | [43934-air-hockey.json](./43934-air-hockey.json) |
 | Air Hockey: Championship 3D+ | 239889 | [239889-air-hockey-championship-3d.json](./239889-air-hockey-championship-3d.json) |
+| Air Jet Fighter Combat: Europe Fly Plane Attack | 234624 | [234624-air-jet-fighter-combat-europe-fly-plane-attack.json](./234624-air-jet-fighter-combat-europe-fly-plane-attack.json) |
 | Air Offense Command | 258449 | [258449-air-offense-command.json](./258449-air-offense-command.json) |
 | Air patrol | 40768 | [40768-air-patrol.json](./40768-air-patrol.json) |
 | Air Power: Battle in the Skies | 22622 | [22622-air-power-battle-in-the-skies.json](./22622-air-power-battle-in-the-skies.json) |
@@ -995,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alaloth: Champions of the Four Kingdoms | 27406 | [27406-alaloth-champions-of-the-four-kingdoms.json](./27406-alaloth-champions-of-the-four-kingdoms.json) |
 | Alan Probe: Amateur Surgeon | 70415 | [70415-alan-probe-amateur-surgeon.json](./70415-alan-probe-amateur-surgeon.json) |
 | Alan Wake II: The Final Draft | 298842 | [298842-alan-wake-ii-the-final-draft.json](./298842-alan-wake-ii-the-final-draft.json) |
+| Alan Walker: The Aviation Game | 234642 | [234642-alan-walker-the-aviation-game.json](./234642-alan-walker-the-aviation-game.json) |
 | Alaska | 86767 | [86767-alaska.json](./86767-alaska.json) |
 | Alaska: An Endless Night | 350429 | [350429-alaska-an-endless-night.json](./350429-alaska-an-endless-night.json) |
 | Alba: A Wildlife Adventure | 135919 | [135919-alba-a-wildlife-adventure.json](./135919-alba-a-wildlife-adventure.json) |
@@ -1933,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Mazinger Z | 249490 | [249490-arcade-archives-mazinger-z.json](./249490-arcade-archives-mazinger-z.json) |
 | Arcade Archives: Metal Black | 225889 | [225889-arcade-archives-metal-black.json](./225889-arcade-archives-metal-black.json) |
 | Arcade Archives: Ordyne | 223153 | [223153-arcade-archives-ordyne.json](./223153-arcade-archives-ordyne.json) |
+| Arcade Archives: Phelios | 234631 | [234631-arcade-archives-phelios.json](./234631-arcade-archives-phelios.json) |
 | Arcade Archives: Rastan Saga | 300731 | [300731-arcade-archives-rastan-saga.json](./300731-arcade-archives-rastan-saga.json) |
 | Arcade Archives: Rave Racer | 392771 | [392771-arcade-archives-rave-racer.json](./392771-arcade-archives-rave-racer.json) |
 | Arcade Archives: Saint Dragon | 129766 | [129766-arcade-archives-saint-dragon.json](./129766-arcade-archives-saint-dragon.json) |
