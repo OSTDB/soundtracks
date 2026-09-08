@@ -910,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Arrogant Kaiju Princess and The Detective Servant | 267060 | [267060-the-arrogant-kaiju-princess-and-the-detective-servant.json](./267060-the-arrogant-kaiju-princess-and-the-detective-servant.json) |
 | The Arson Betrayal | 239312 | [239312-the-arson-betrayal.json](./239312-the-arson-betrayal.json) |
 | The Artifact of Ancients | 301838 | [301838-the-artifact-of-ancients.json](./301838-the-artifact-of-ancients.json) |
+| The Asafo Journey | 220672 | [220672-the-asafo-journey.json](./220672-the-asafo-journey.json) |
 | The Ascot | 298061 | [298061-the-ascot.json](./298061-the-ascot.json) |
 | The Asmodian Princesses and the Witch in the Forest | 199088 | [199088-the-asmodian-princesses-and-the-witch-in-the-forest.json](./199088-the-asmodian-princesses-and-the-witch-in-the-forest.json) |
 | The Assassins: PD Games Volume 01 | 267643 | [267643-the-assassins-pd-games-volume-01.json](./267643-the-assassins-pd-games-volume-01.json) |
@@ -1535,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fruit, Labyrinth, and Eden of Grisaia Full Package | 117746 | [117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json](./117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json) |
 | The Funny Boneyard | 112335 | [112335-the-funny-boneyard.json](./112335-the-funny-boneyard.json) |
 | The Future Devil Must Work! Debt Repayment Arc | 82916 | [82916-the-future-devil-must-work-debt-repayment-arc.json](./82916-the-future-devil-must-work-debt-repayment-arc.json) |
+| The Future Radio and the Artificial Pigeons | 220663 | [220663-the-future-radio-and-the-artificial-pigeons.json](./220663-the-future-radio-and-the-artificial-pigeons.json) |
 | The Futurist | 181355 | [181355-the-futurist.json](./181355-the-futurist.json) |
 | The Galactic Plague | 13000 | [13000-the-galactic-plague.json](./13000-the-galactic-plague.json) |
 | The Gallery | 337081 | [337081-the-gallery.json](./337081-the-gallery.json) |
@@ -1583,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Godkiller: Chapter 1 | 163984 | [163984-the-godkiller-chapter-1.json](./163984-the-godkiller-chapter-1.json) |
 | The Gold and Black Keys that Cannot Open | 251192 | [251192-the-gold-and-black-keys-that-cannot-open.json](./251192-the-gold-and-black-keys-that-cannot-open.json) |
 | The Golden Age | 213586 | [213586-the-golden-age.json](./213586-the-golden-age.json) |
+| The Good Chicken | 220673 | [220673-the-good-chicken.json](./220673-the-good-chicken.json) |
 | The Good Ghouls | 224590 | [224590-the-good-ghouls.json](./224590-the-good-ghouls.json) |
 | The Good Overlord | 272582 | [272582-the-good-overlord.json](./272582-the-good-overlord.json) |
 | The Good, the Bad, and the Horsey | 264049 | [264049-the-good-the-bad-and-the-horsey.json](./264049-the-good-the-bad-and-the-horsey.json) |
@@ -1661,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hell in I | 301830 | [301830-the-hell-in-i.json](./301830-the-hell-in-i.json) |
 | The Hellbrand | 190728 | [190728-the-hellbrand.json](./190728-the-hellbrand.json) |
 | The Hellchemist | 240800 | [240800-the-hellchemist.json](./240800-the-hellchemist.json) |
+| The Henchmen | 220674 | [220674-the-henchmen.json](./220674-the-henchmen.json) |
 | The Hepatica Spring | 190222 | [190222-the-hepatica-spring.json](./190222-the-hepatica-spring.json) |
 | The Herobrine Mod | 232684 | [232684-the-herobrine-mod.json](./232684-the-herobrine-mod.json) |
 | The Heroic Legend of Eagarlnia: Expansion Pack | 199651 | [199651-the-heroic-legend-of-eagarlnia-expansion-pack.json](./199651-the-heroic-legend-of-eagarlnia-expansion-pack.json) |
@@ -1679,6 +1683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Horus Heresy: Battle of Tallarn | 31633 | [31633-the-horus-heresy-battle-of-tallarn.json](./31633-the-horus-heresy-battle-of-tallarn.json) |
 | The Hospital of Fear | 274505 | [274505-the-hospital-of-fear.json](./274505-the-hospital-of-fear.json) |
 | The Hot Dog would Explode | 109750 | [109750-the-hot-dog-would-explode.json](./109750-the-hot-dog-would-explode.json) |
+| The Hotel | 220675 | [220675-the-hotel.json](./220675-the-hotel.json) |
 | The Hotel 2 | 118436 | [118436-the-hotel-2.json](./118436-the-hotel-2.json) |
 | The Hotel: Floor 13 | 272576 | [272576-the-hotel-floor-13.json](./272576-the-hotel-floor-13.json) |
 | The House | 17440 | [17440-the-house.json](./17440-the-house.json) |
@@ -2017,6 +2022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Loop | 170528 | [170528-the-loop.json](./170528-the-loop.json) |
 | The Loopler | 377087 | [377087-the-loopler.json](./377087-the-loopler.json) |
 | The Lord of the Creatures | 137641 | [137641-the-lord-of-the-creatures.json](./137641-the-lord-of-the-creatures.json) |
+| The Lord of the Parties x Amane Momo | 220627 | [220627-the-lord-of-the-parties-x-amane-momo.json](./220627-the-lord-of-the-parties-x-amane-momo.json) |
 | The Lord of the Parties x Kokonoe Yukari | 235733 | [235733-the-lord-of-the-parties-x-kokonoe-yukari.json](./235733-the-lord-of-the-parties-x-kokonoe-yukari.json) |
 | The Lord of the Rings Online: Before the Shadow | 275927 | [275927-the-lord-of-the-rings-online-before-the-shadow.json](./275927-the-lord-of-the-rings-online-before-the-shadow.json) |
 | The Lord of the Rings Online: Corsairs of Umbar | 275928 | [275928-the-lord-of-the-rings-online-corsairs-of-umbar.json](./275928-the-lord-of-the-rings-online-corsairs-of-umbar.json) |
