@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge: Mech-Ascent | 230303 | [230303-edge-mech-ascent.json](./230303-edge-mech-ascent.json) |
 | Edgy Fantasy Battle Deluxe | 184632 | [184632-edgy-fantasy-battle-deluxe.json](./184632-edgy-fantasy-battle-deluxe.json) |
 | Ediction | 333545 | [333545-ediction.json](./333545-ediction.json) |
+| Editor's Hell | 221176 | [221176-editors-hell.json](./221176-editors-hell.json) |
 | Edmund Puzzle and The Mystery of the Sacred Relics | 269268 | [269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json](./269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json) |
 | Edna & Harvey: Harvey's New Eyes | 6701 | [6701-edna-and-harvey-harveys-new-eyes.json](./6701-edna-and-harvey-harveys-new-eyes.json) |
 | Edolie | 35755 | [35755-edolie.json](./35755-edolie.json) |
@@ -496,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire in Decay | 352199 | [352199-empire-in-decay.json](./352199-empire-in-decay.json) |
 | Empire of Angels IV | 78589 | [78589-empire-of-angels-iv.json](./78589-empire-of-angels-iv.json) |
 | Empire of Empires | 211966 | [211966-empire-of-empires.json](./211966-empire-of-empires.json) |
+| Empire of Revenant | 221180 | [221180-empire-of-revenant.json](./221180-empire-of-revenant.json) |
 | Empire of the Ants: Digital Deluxe Edition | 320754 | [320754-empire-of-the-ants-digital-deluxe-edition.json](./320754-empire-of-the-ants-digital-deluxe-edition.json) |
 | Empire Origin: Rise | 258204 | [258204-empire-origin-rise.json](./258204-empire-origin-rise.json) |
 | Empire Run | 248648 | [248648-empire-run.json](./248648-empire-run.json) |
