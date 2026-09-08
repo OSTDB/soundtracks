@@ -1192,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bigroom Escape | 151727 | [151727-bigroom-escape.json](./151727-bigroom-escape.json) |
 | Biida-Bash | 372471 | [372471-biida-bash.json](./372471-biida-bash.json) |
 | Bike Arena | 236266 | [236266-bike-arena.json](./236266-bike-arena.json) |
+| Bike Banditz | 216262 | [216262-bike-banditz.json](./216262-bike-banditz.json) |
 | Bike Baron | 65290 | [65290-bike-baron.json](./65290-bike-baron.json) |
 | Bike Game 3D | 254747 | [254747-bike-game-3d.json](./254747-bike-game-3d.json) |
 | Bike Offroad Simulator | 248033 | [248033-bike-offroad-simulator.json](./248033-bike-offroad-simulator.json) |
