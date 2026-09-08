@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T18:03:20.413Z",
-  "total_missing": 47644,
+  "generated_at": "2026-09-08T18:11:04.013Z",
+  "total_missing": 47643,
   "games": [
     {
       "igdb_id": 306086,
@@ -216,11 +216,6 @@
       "igdb_id": 47939,
       "game_name": "100 Classic Book Collection",
       "file": "missing/0-9/47939-100-classic-book-collection.json"
-    },
-    {
-      "igdb_id": 301028,
-      "game_name": "100 Crime Cats",
-      "file": "missing/0-9/301028-100-crime-cats.json"
     },
     {
       "igdb_id": 334121,
