@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Stars | 332395 | [332395-night-of-the-stars.json](./332395-night-of-the-stars.json) |
 | Night of the Wererat | 216986 | [216986-night-of-the-wererat.json](./216986-night-of-the-wererat.json) |
 | Night of the Wordsmith | 64985 | [64985-night-of-the-wordsmith.json](./64985-night-of-the-wordsmith.json) |
+| Night of Wolves | 257968 | [257968-night-of-wolves.json](./257968-night-of-wolves.json) |
 | Night Pump | 399005 | [399005-night-pump.json](./399005-night-pump.json) |
 | Night Run | 236526 | [236526-night-run.json](./236526-night-run.json) |
 | Night School | 406088 | [406088-night-school.json](./406088-night-school.json) |
