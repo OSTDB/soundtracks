@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watchmen: The End Is Nigh Complete Experience | 44619 | [44619-watchmen-the-end-is-nigh-complete-experience.json](./44619-watchmen-the-end-is-nigh-complete-experience.json) |
 | Watchtower | 15568 | [15568-watchtower.json](./15568-watchtower.json) |
 | Watchword | 343281 | [343281-watchword.json](./343281-watchword.json) |
+| Water 2050 | 239680 | [239680-water-2050.json](./239680-water-2050.json) |
 | Water Balloon Mania | 147467 | [147467-water-balloon-mania.json](./147467-water-balloon-mania.json) |
 | Water Castle | 268473 | [268473-water-castle.json](./268473-water-castle.json) |
 | Water City | 268472 | [268472-water-city.json](./268472-water-city.json) |
