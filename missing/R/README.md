@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rai-Net Access Battlers | 299721 | [299721-rai-net-access-battlers.json](./299721-rai-net-access-battlers.json) |
 | Raid 2000 | 30955 | [30955-raid-2000.json](./30955-raid-2000.json) |
 | Raid Gaza! | 318205 | [318205-raid-gaza.json](./318205-raid-gaza.json) |
+| Raid Leader | 237385 | [237385-raid-leader.json](./237385-raid-leader.json) |
 | Raid Rush | 355014 | [355014-raid-rush.json](./355014-raid-rush.json) |
 | Raidborn: Founder's Pack | 298337 | [298337-raidborn-founders-pack.json](./298337-raidborn-founders-pack.json) |
 | Raiden Trad | 46211 | [46211-raiden-trad.json](./46211-raiden-trad.json) |
@@ -212,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Racers | 76648 | [76648-rally-racers.json](./76648-rally-racers.json) |
 | Rally Racing | 186867 | [186867-rally-racing.json](./186867-rally-racing.json) |
 | Rally Rumble | 280787 | [280787-rally-rumble.json](./280787-rally-rumble.json) |
+| Rally Run | 237371 | [237371-rally-run.json](./237371-rally-run.json) |
 | Rally45 | 89279 | [89279-rally45.json](./89279-rally45.json) |
 | Rallycross Track Racing | 221383 | [221383-rallycross-track-racing.json](./221383-rallycross-track-racing.json) |
 | Ralph Baer's Pinball! | 257666 | [257666-ralph-baers-pinball.json](./257666-ralph-baers-pinball.json) |
@@ -515,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ball Super Run | 228711 | [228711-red-ball-super-run.json](./228711-red-ball-super-run.json) |
 | Red Baron History | 9411 | [9411-red-baron-history.json](./9411-red-baron-history.json) |
 | Red Bash | 187537 | [187537-red-bash.json](./187537-red-bash.json) |
+| Red Bird Adventure: Classic Physics Puzzle | 237358 | [237358-red-bird-adventure-classic-physics-puzzle.json](./237358-red-bird-adventure-classic-physics-puzzle.json) |
 | Red Blue Cell | 327844 | [327844-red-blue-cell.json](./327844-red-blue-cell.json) |
 | Red Bow: Strange Dream | 380998 | [380998-red-bow-strange-dream.json](./380998-red-bow-strange-dream.json) |
 | Red Bull Air Race 2 | 100165 | [100165-red-bull-air-race-2.json](./100165-red-bull-air-race-2.json) |
@@ -891,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return | 255987 | [255987-return.json](./255987-return.json) |
 | Return Ace | 195759 | [195759-return-ace.json](./195759-return-ace.json) |
 | Return of the Phantom | 69869 | [69869-return-of-the-phantom.json](./69869-return-of-the-phantom.json) |
+| Return of the Saiyans | 237407 | [237407-return-of-the-saiyans.json](./237407-return-of-the-saiyans.json) |
 | Return to Abyss | 233251 | [233251-return-to-abyss.json](./233251-return-to-abyss.json) |
 | Return to Castle Wolfenstein: Tides of War | 77220 | [77220-return-to-castle-wolfenstein-tides-of-war.json](./77220-return-to-castle-wolfenstein-tides-of-war.json) |
 | Return to Dust | 271737 | [271737-return-to-dust.json](./271737-return-to-dust.json) |
@@ -1413,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky Legends | 6016 | [6016-rocky-legends.json](./6016-rocky-legends.json) |
 | Rocky Mountain: Trophy Hunter | 49946 | [49946-rocky-mountain-trophy-hunter.json](./49946-rocky-mountain-trophy-hunter.json) |
 | Rocky Rodent | 42648 | [42648-rocky-rodent.json](./42648-rocky-rodent.json) |
+| Rocky Towers: Puzzle Defense | 237378 | [237378-rocky-towers-puzzle-defense.json](./237378-rocky-towers-puzzle-defense.json) |
 | Rocococo: Audiogame Fantastique | 258700 | [258700-rocococo-audiogame-fantastique.json](./258700-rocococo-audiogame-fantastique.json) |
 | Roda a Roda | 254788 | [254788-roda-a-roda.json](./254788-roda-a-roda.json) |
 | Rodea Eternal | 317613 | [317613-rodea-eternal.json](./317613-rodea-eternal.json) |
