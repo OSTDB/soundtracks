@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Hentai Quest | 210856 | [210856-fantasy-hentai-quest.json](./210856-fantasy-hentai-quest.json) |
 | Fantasy Heroes | 119005 | [119005-fantasy-heroes.json](./119005-fantasy-heroes.json) |
 | Fantasy Illness | 339115 | [339115-fantasy-illness.json](./339115-fantasy-illness.json) |
+| Fantasy Jigsaw Puzzles: Dragons | 236825 | [236825-fantasy-jigsaw-puzzles-dragons.json](./236825-fantasy-jigsaw-puzzles-dragons.json) |
 | Fantasy Jigsaw Puzzles: Dwarves | 235467 | [235467-fantasy-jigsaw-puzzles-dwarves.json](./235467-fantasy-jigsaw-puzzles-dwarves.json) |
 | Fantasy Jigsaw Puzzles: Northlands | 234341 | [234341-fantasy-jigsaw-puzzles-northlands.json](./234341-fantasy-jigsaw-puzzles-northlands.json) |
 | Fantasy Kingdom: Fantasy Tiny Forest | 219290 | [219290-fantasy-kingdom-fantasy-tiny-forest.json](./219290-fantasy-kingdom-fantasy-tiny-forest.json) |
@@ -1306,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlyWings 2018 Flight Simulator: Military Helicopters | 168880 | [168880-flywings-2018-flight-simulator-military-helicopters.json](./168880-flywings-2018-flight-simulator-military-helicopters.json) |
 | FlyWings 2018 Flight Simulator: World War I Fighters | 168879 | [168879-flywings-2018-flight-simulator-world-war-i-fighters.json](./168879-flywings-2018-flight-simulator-world-war-i-fighters.json) |
 | Flywrench | 12072 | [12072-flywrench.json](./12072-flywrench.json) |
+| FMV Horror Bundle | 236812 | [236812-fmv-horror-bundle.json](./236812-fmv-horror-bundle.json) |
 | FNaF 2: Wii U Edition | 358328 | [358328-fnaf-2-wii-u-edition.json](./358328-fnaf-2-wii-u-edition.json) |
 | FNaF World Redacted | 362810 | [362810-fnaf-world-redacted.json](./362810-fnaf-world-redacted.json) |
 | FNF x Ace Attorney: Turnabout | 314044 | [314044-fnf-x-ace-attorney-turnabout.json](./314044-fnf-x-ace-attorney-turnabout.json) |
