@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Island Escape 8 | 315527 | [315527-magic-island-escape-8.json](./315527-magic-island-escape-8.json) |
 | Magic Island Escape 9 | 315529 | [315529-magic-island-escape-9.json](./315529-magic-island-escape-9.json) |
 | Magic Jewel | 359394 | [359394-magic-jewel.json](./359394-magic-jewel.json) |
+| Magic John | 215143 | [215143-magic-john.json](./215143-magic-john.json) |
 | Magic Kingdom | 213591 | [213591-magic-kingdom.json](./213591-magic-kingdom.json) |
 | Magic Knight Rayearth | 38375 | [38375-magic-knight-rayearth.json](./38375-magic-knight-rayearth.json) |
 | Magic League | 99016 | [99016-magic-league.json](./99016-magic-league.json) |
@@ -278,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjick: The Realm Taker | 265129 | [265129-mahjick-the-realm-taker.json](./265129-mahjick-the-realm-taker.json) |
 | Mahjong | 90692 | [90692-mahjong.json](./90692-mahjong.json) |
 | Mahjong Cascade: Bamboo and Dragons | 334100 | [334100-mahjong-cascade-bamboo-and-dragons.json](./334100-mahjong-cascade-bamboo-and-dragons.json) |
+| Mahjong Connect Onet Puzzle | 215120 | [215120-mahjong-connect-onet-puzzle.json](./215120-mahjong-connect-onet-puzzle.json) |
 | Mahjong Elements HD | 174371 | [174371-mahjong-elements-hd.json](./174371-mahjong-elements-hd.json) |
 | Mahjong Gakuen Touma Soushirou Toujou | 59429 | [59429-mahjong-gakuen-touma-soushirou-toujou.json](./59429-mahjong-gakuen-touma-soushirou-toujou.json) |
 | Mahjong Infinity | 117043 | [117043-mahjong-infinity.json](./117043-mahjong-infinity.json) |
@@ -847,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MatchyGotchy Z | 109661 | [109661-matchygotchy-z.json](./109661-matchygotchy-z.json) |
 | Mate-in-Two | 347703 | [347703-mate-in-two.json](./347703-mate-in-two.json) |
 | Matel Gear II | 267366 | [267366-matel-gear-ii.json](./267366-matel-gear-ii.json) |
+| Matendouji | 215140 | [215140-matendouji.json](./215140-matendouji.json) |
 | MaternalBound Redux | 219084 | [219084-maternalbound-redux.json](./219084-maternalbound-redux.json) |
 | Math Be Nimble: Brain Training | 265425 | [265425-math-be-nimble-brain-training.json](./265425-math-be-nimble-brain-training.json) |
 | Math Blaster Ages 4-6 | 58816 | [58816-math-blaster-ages-4-6.json](./58816-math-blaster-ages-4-6.json) |
@@ -1132,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man in Super Mario Bros. | 269874 | [269874-mega-man-in-super-mario-bros.json](./269874-mega-man-in-super-mario-bros.json) |
 | Mega Man Star Force 2: Zerker x Ninja | 1785 | [1785-mega-man-star-force-2-zerker-x-ninja.json](./1785-mega-man-star-force-2-zerker-x-ninja.json) |
 | Mega Man Star Force: Dragon | 1783 | [1783-mega-man-star-force-dragon.json](./1783-mega-man-star-force-dragon.json) |
+| Mega Man Uprising | 215155 | [215155-mega-man-uprising.json](./215155-mega-man-uprising.json) |
 | Mega Man X Alpha | 222928 | [222928-mega-man-x-alpha.json](./222928-mega-man-x-alpha.json) |
 | Mega Man X Dive | 121045 | [121045-mega-man-x-dive.json](./121045-mega-man-x-dive.json) |
 | Mega Man X Dive Offline | 252996 | [252996-mega-man-x-dive-offline.json](./252996-mega-man-x-dive-offline.json) |
@@ -1147,8 +1151,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X3: Proto Edition | 219082 | [219082-mega-man-x3-proto-edition.json](./219082-mega-man-x3-proto-edition.json) |
 | Mega Man X8 | 1748 | [1748-mega-man-x8.json](./1748-mega-man-x8.json) |
 | Mega Man: Limbo Edition | 269871 | [269871-mega-man-limbo-edition.json](./269871-mega-man-limbo-edition.json) |
+| Mega Man: Shattered Diamond | 215151 | [215151-mega-man-shattered-diamond.json](./215151-mega-man-shattered-diamond.json) |
 | Mega Man: Speed Bomber | 269872 | [269872-mega-man-speed-bomber.json](./269872-mega-man-speed-bomber.json) |
 | Mega Man: The New Lands Remastered | 269873 | [269873-mega-man-the-new-lands-remastered.json](./269873-mega-man-the-new-lands-remastered.json) |
+| Mega Man: The Sequel Wars | 215146 | [215146-mega-man-the-sequel-wars.json](./215146-mega-man-the-sequel-wars.json) |
 | Mega Man: Twin Destinies | 313111 | [313111-mega-man-twin-destinies.json](./313111-mega-man-twin-destinies.json) |
 | Mega Mario World 2: Awakened Power | 229347 | [229347-mega-mario-world-2-awakened-power.json](./229347-mega-mario-world-2-awakened-power.json) |
 | Mega Math | 19670 | [19670-mega-math.json](./19670-mega-math.json) |
@@ -2487,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters: Survival | 114997 | [114997-monsters-survival.json](./114997-monsters-survival.json) |
 | Monsters: The Hunter of Darkness | 214198 | [214198-monsters-the-hunter-of-darkness.json](./214198-monsters-the-hunter-of-darkness.json) |
 | MonsterSoft | 138803 | [138803-monstersoft.json](./138803-monstersoft.json) |
+| Monsterstone: Prelude | 215122 | [215122-monsterstone-prelude.json](./215122-monsterstone-prelude.json) |
 | Monsterthon | 39005 | [39005-monsterthon.json](./39005-monsterthon.json) |
 | Monstro Maestro | 382763 | [382763-monstro-maestro.json](./382763-monstro-maestro.json) |
 | Monstrous Love | 221200 | [221200-monstrous-love.json](./221200-monstrous-love.json) |
