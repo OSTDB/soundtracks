@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercover: Blood Bonds | 225303 | [225303-undercover-blood-bonds.json](./225303-undercover-blood-bonds.json) |
 | Undercraft | 331345 | [331345-undercraft.json](./331345-undercraft.json) |
 | Underdog Detective | 198551 | [198551-underdog-detective.json](./198551-underdog-detective.json) |
+| UnderDungeon: Deluxe Edition | 250367 | [250367-underdungeon-deluxe-edition.json](./250367-underdungeon-deluxe-edition.json) |
 | Underfell Neutral Run | 335065 | [335065-underfell-neutral-run.json](./335065-underfell-neutral-run.json) |
 | Undergod | 276153 | [276153-undergod.json](./276153-undergod.json) |
 | Underground 2077 | 174858 | [174858-underground-2077.json](./174858-underground-2077.json) |
@@ -483,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Epic Edition | 328808 | [328808-urban-flow-epic-edition.json](./328808-urban-flow-epic-edition.json) |
 | Urban Flow: Mega Edition | 328807 | [328807-urban-flow-mega-edition.json](./328807-urban-flow-mega-edition.json) |
 | Urban Flow: Platinum Edition | 238741 | [238741-urban-flow-platinum-edition.json](./238741-urban-flow-platinum-edition.json) |
+| Urban Flow: Silver Edition | 250390 | [250390-urban-flow-silver-edition.json](./250390-urban-flow-silver-edition.json) |
 | Urban Flow: X-Mas Edition | 275893 | [275893-urban-flow-x-mas-edition.json](./275893-urban-flow-x-mas-edition.json) |
 | Urban Mercenary | 146297 | [146297-urban-mercenary.json](./146297-urban-mercenary.json) |
 | Urban Shadows Racing Tokyo | 371905 | [371905-urban-shadows-racing-tokyo.json](./371905-urban-shadows-racing-tokyo.json) |
