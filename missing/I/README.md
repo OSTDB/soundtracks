@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am a Dorm Resident (but Cat) | 353841 | [353841-i-am-a-dorm-resident-but-cat.json](./353841-i-am-a-dorm-resident-but-cat.json) |
 | I Am a Teacher: Teami no Kiso | 41374 | [41374-i-am-a-teacher-teami-no-kiso.json](./41374-i-am-a-teacher-teami-no-kiso.json) |
 | I am an Air Traffic Controller 4: Airport Narita - RJAA | 310386 | [310386-i-am-an-air-traffic-controller-4-airport-narita-rjaa.json](./310386-i-am-an-air-traffic-controller-4-airport-narita-rjaa.json) |
+| I am an Air Traffic Controller: Airport Hero Haneda - Sky Day! Variety Pack | 237971 | [237971-i-am-an-air-traffic-controller-airport-hero-haneda-sky-day-variety-pack.json](./237971-i-am-an-air-traffic-controller-airport-hero-haneda-sky-day-variety-pack.json) |
 | I Am An Air Traffic Controller: Airport Hero Naha | 56475 | [56475-i-am-an-air-traffic-controller-airport-hero-naha.json](./56475-i-am-an-air-traffic-controller-airport-hero-naha.json) |
 | I Am An Air Traffic Controller: Airport Hero Narita | 56474 | [56474-i-am-an-air-traffic-controller-airport-hero-narita.json](./56474-i-am-an-air-traffic-controller-airport-hero-narita.json) |
 | I Am an Air Traffic Controller: Airport Hero Osaka-KIX | 55940 | [55940-i-am-an-air-traffic-controller-airport-hero-osaka-kix.json](./55940-i-am-an-air-traffic-controller-airport-hero-osaka-kix.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Not Crazy | 309866 | [309866-im-not-crazy.json](./309866-im-not-crazy.json) |
 | I'm Not Sleepy | 295002 | [295002-im-not-sleepy.json](./295002-im-not-sleepy.json) |
 | I'm on Cirno Duty | 206931 | [206931-im-on-cirno-duty.json](./206931-im-on-cirno-duty.json) |
+| I'm on Merrymaking Watch | 237948 | [237948-im-on-merrymaking-watch.json](./237948-im-on-merrymaking-watch.json) |
 | I'm Only Sleeping | 71001 | [71001-im-only-sleeping.json](./71001-im-only-sleeping.json) |
 | I'm the Policeman | 278704 | [278704-im-the-policeman.json](./278704-im-the-policeman.json) |
 | I'm Truely a Good Guy! | 337483 | [337483-im-truely-a-good-guy.json](./337483-im-truely-a-good-guy.json) |
