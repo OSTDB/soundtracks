@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T15:48:07.288Z",
-  "total_missing": 47336,
+  "generated_at": "2026-09-08T15:51:06.870Z",
+  "total_missing": 47335,
   "games": [
     {
       "igdb_id": 306086,
@@ -146,11 +146,6 @@
       "igdb_id": 98422,
       "game_name": "1/2 Blood",
       "file": "missing/0-9/98422-1-2-blood.json"
-    },
-    {
-      "igdb_id": 98415,
-      "game_name": "1/2 Summer",
-      "file": "missing/0-9/98415-1-2-summer.json"
     },
     {
       "igdb_id": 294440,
