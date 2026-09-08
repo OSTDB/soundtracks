@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z.O.M.B.I.E. | 163952 | [163952-z-o-m-b-i-e.json](./163952-z-o-m-b-i-e.json) |
 | Z69 | 51959 | [51959-z69.json](./51959-z69.json) |
 | ZaBaTa! | 235496 | [235496-zabata.json](./235496-zabata.json) |
+| Zac's Batting Academy | 234595 | [234595-zacs-batting-academy.json](./234595-zacs-batting-academy.json) |
 | Zaccaria Pinball | 33463 | [33463-zaccaria-pinball.json](./33463-zaccaria-pinball.json) |
 | Zaccaria Pinball: Postal 2 Table Pack | 215390 | [215390-zaccaria-pinball-postal-2-table-pack.json](./215390-zaccaria-pinball-postal-2-table-pack.json) |
 | Zach-Like | 119788 | [119788-zach-like.json](./119788-zach-like.json) |
