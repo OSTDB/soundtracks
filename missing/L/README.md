@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Light: Dark Omens & League of Light: Wicked Harvest | 201815 | [201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json](./201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json) |
 | League Star | 100870 | [100870-league-star.json](./100870-league-star.json) |
 | Leaks In Space | 369563 | [369563-leaks-in-space.json](./369563-leaks-in-space.json) |
+| Leap in Bootstrap | 254530 | [254530-leap-in-bootstrap.json](./254530-leap-in-bootstrap.json) |
 | Leap Tactics | 357817 | [357817-leap-tactics.json](./357817-leap-tactics.json) |
 | Leap to the Top+ | 267077 | [267077-leap-to-the-top.json](./267077-leap-to-the-top.json) |
 | Leap up no Justu: Double | 278410 | [278410-leap-up-no-justu-double.json](./278410-leap-up-no-justu-double.json) |
@@ -1248,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love or Loved | 83592 | [83592-love-or-loved.json](./83592-love-or-loved.json) |
 | Love Red | 302371 | [302371-love-red.json](./302371-love-red.json) |
 | Love Rhythm | 126420 | [126420-love-rhythm.json](./126420-love-rhythm.json) |
+| Love Spell: The Starlight Update | 254503 | [254503-love-spell-the-starlight-update.json](./254503-love-spell-the-starlight-update.json) |
 | Love Stitch | 412297 | [412297-love-stitch.json](./412297-love-stitch.json) |
 | Love Stories: Sex and the Furry Titty | 165031 | [165031-love-stories-sex-and-the-furry-titty.json](./165031-love-stories-sex-and-the-furry-titty.json) |
 | Love Story: The Way Home | 102187 | [102187-love-story-the-way-home.json](./102187-love-story-the-way-home.json) |
