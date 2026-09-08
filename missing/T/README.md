@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TDS: War Games | 203541 | [203541-tds-war-games.json](./203541-tds-war-games.json) |
 | Tea Time | 359406 | [359406-tea-time.json](./359406-tea-time.json) |
 | Teacher Seduction | 276160 | [276160-teacher-seduction.json](./276160-teacher-seduction.json) |
+| Teahouse of the Gods | 226192 | [226192-teahouse-of-the-gods.json](./226192-teahouse-of-the-gods.json) |
 | Team Batista no Eikou Shinjitsu wo Tsumugu 4 tsu no Chart | 70412 | [70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json](./70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json) |
 | Team Force 2 | 203535 | [203535-team-force-2.json](./203535-team-force-2.json) |
 | Team Fortress 2: Gold Rush | 335705 | [335705-team-fortress-2-gold-rush.json](./335705-team-fortress-2-gold-rush.json) |
@@ -1316,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Door | 246123 | [246123-the-door.json](./246123-the-door.json) |
 | The Door at the End of the Hall | 398321 | [398321-the-door-at-the-end-of-the-hall.json](./398321-the-door-at-the-end-of-the-hall.json) |
 | The Door Factory | 405529 | [405529-the-door-factory.json](./405529-the-door-factory.json) |
+| The Dot | 226205 | [226205-the-dot.json](./226205-the-dot.json) |
 | The Downgeon | 137640 | [137640-the-downgeon.json](./137640-the-downgeon.json) |
 | The Drafting Table | 231645 | [231645-the-drafting-table.json](./231645-the-drafting-table.json) |
 | The Dragon and the Djinn | 189166 | [189166-the-dragon-and-the-djinn.json](./189166-the-dragon-and-the-djinn.json) |
@@ -4388,6 +4390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Quest | 100213 | [100213-treasure-quest.json](./100213-treasure-quest.json) |
 | Treasure Raiders: Zombie Crisis | 82152 | [82152-treasure-raiders-zombie-crisis.json](./82152-treasure-raiders-zombie-crisis.json) |
 | Treasure Rangers | 153445 | [153445-treasure-rangers.json](./153445-treasure-rangers.json) |
+| Treasure Seekers: The Time Has Come | 226208 | [226208-treasure-seekers-the-time-has-come.json](./226208-treasure-seekers-the-time-has-come.json) |
 | Treasure Star | 247746 | [247746-treasure-star.json](./247746-treasure-star.json) |
 | Treasure World | 21125 | [21125-treasure-world.json](./21125-treasure-world.json) |
 | Treasures of the Aegean | 146900 | [146900-treasures-of-the-aegean.json](./146900-treasures-of-the-aegean.json) |
@@ -4631,6 +4634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TS Marketplace: Maunsell 59ft Low Window Corridor Coach Pack Crimson Cream | 227295 | [227295-ts-marketplace-maunsell-59ft-low-window-corridor-coach-pack-crimson-cream.json](./227295-ts-marketplace-maunsell-59ft-low-window-corridor-coach-pack-crimson-cream.json) |
 | TS Marketplace: Northeast Corridor Scenario Pack 02 | 227291 | [227291-ts-marketplace-northeast-corridor-scenario-pack-02.json](./227291-ts-marketplace-northeast-corridor-scenario-pack-02.json) |
 | TS Marketplace: Renewable Energy Pack | 227300 | [227300-ts-marketplace-renewable-energy-pack.json](./227300-ts-marketplace-renewable-energy-pack.json) |
+| Tsubaki Hata | 226203 | [226203-tsubaki-hata.json](./226203-tsubaki-hata.json) |
 | Tsugunohi: Supernatural Supermarket | 234297 | [234297-tsugunohi-supernatural-supermarket.json](./234297-tsugunohi-supernatural-supermarket.json) |
 | Tsugunohi: The Chamber of Phantom Name | 340941 | [340941-tsugunohi-the-chamber-of-phantom-name.json](./340941-tsugunohi-the-chamber-of-phantom-name.json) |
 | Tsuki no Shoujo: Bishoujo Gakuen 2 | 194622 | [194622-tsuki-no-shoujo-bishoujo-gakuen-2.json](./194622-tsuki-no-shoujo-bishoujo-gakuen-2.json) |
