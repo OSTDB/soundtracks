@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T20:18:28.640Z",
-  "total_missing": 48048,
+  "generated_at": "2026-09-08T20:21:00.414Z",
+  "total_missing": 48047,
   "games": [
     {
       "igdb_id": 306086,
@@ -286,11 +286,6 @@
       "igdb_id": 231615,
       "game_name": "100 Keys to Your Heart",
       "file": "missing/0-9/231615-100-keys-to-your-heart.json"
-    },
-    {
-      "igdb_id": 301030,
-      "game_name": "100 Korea Cats",
-      "file": "missing/0-9/301030-100-korea-cats.json"
     },
     {
       "igdb_id": 334125,
