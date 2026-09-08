@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Seiya: Ougon Densetsu | 48655 | [48655-saint-seiya-ougon-densetsu.json](./48655-saint-seiya-ougon-densetsu.json) |
 | Saint Seiya: Ougon Densetsu - Kanketsu-hen | 48654 | [48654-saint-seiya-ougon-densetsu-kanketsu-hen.json](./48654-saint-seiya-ougon-densetsu-kanketsu-hen.json) |
 | Sainth | 126003 | [126003-sainth.json](./126003-sainth.json) |
+| Sainthood | 249223 | [249223-sainthood.json](./249223-sainthood.json) |
 | Saints of Virtue | 67312 | [67312-saints-of-virtue.json](./67312-saints-of-virtue.json) |
 | Saints Row 2: Ultor Exposed | 22998 | [22998-saints-row-2-ultor-exposed.json](./22998-saints-row-2-ultor-exposed.json) |
 | Saints Row IV: Super Dangerous Wad Wad Edition (aka the Million Dollar Pack) | 21862 | [21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json](./21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json) |
@@ -2735,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Symphony | 196878 | [196878-soul-symphony.json](./196878-soul-symphony.json) |
 | Soul Wizards & Rogulite | 290933 | [290933-soul-wizards-and-rogulite.json](./290933-soul-wizards-and-rogulite.json) |
 | Soul's Spectrum: Awakening | 267110 | [267110-souls-spectrum-awakening.json](./267110-souls-spectrum-awakening.json) |
+| Soulash 2 | 249194 | [249194-soulash-2.json](./249194-soulash-2.json) |
 | SoulBound | 215932 | [215932-soulbound.json](./215932-soulbound.json) |
 | SoulCalibur II | 1565 | [1565-soulcalibur-ii.json](./1565-soulcalibur-ii.json) |
 | SoulCalibur V | 1013 | [1013-soulcalibur-v.json](./1013-soulcalibur-v.json) |
