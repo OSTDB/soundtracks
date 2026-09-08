@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy puzzle: Bridges | 248921 | [248921-easy-puzzle-bridges.json](./248921-easy-puzzle-bridges.json) |
 | Easy puzzle: Landscape | 248928 | [248928-easy-puzzle-landscape.json](./248928-easy-puzzle-landscape.json) |
 | Easy RTS | 303502 | [303502-easy-rts.json](./303502-easy-rts.json) |
+| Easy Simple Game | 212832 | [212832-easy-simple-game.json](./212832-easy-simple-game.json) |
 | Easy VTT | 269026 | [269026-easy-vtt.json](./269026-easy-vtt.json) |
 | Easy-Bake Treats! | 411605 | [411605-easy-bake-treats.json](./411605-easy-bake-treats.json) |
 | Easy-Peasy Tic Tac Toe | 88317 | [88317-easy-peasy-tic-tac-toe.json](./88317-easy-peasy-tic-tac-toe.json) |
