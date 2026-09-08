@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fake Emperors | 264060 | [264060-fake-emperors.json](./264060-fake-emperors.json) |
 | Fake Future | 249482 | [249482-fake-future.json](./249482-fake-future.json) |
 | Fake Happy End | 29922 | [29922-fake-happy-end.json](./29922-fake-happy-end.json) |
+| Fake Signals | 236273 | [236273-fake-signals.json](./236273-fake-signals.json) |
 | Falcão & a cornopopéia brasileira | 245041 | [245041-falcao-and-a-cornopopeia-brasileira.json](./245041-falcao-and-a-cornopopeia-brasileira.json) |
 | Falcata | 125459 | [125459-falcata.json](./125459-falcata.json) |
 | Falco Tunes | 301843 | [301843-falco-tunes.json](./301843-falco-tunes.json) |
@@ -366,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm2 + | 406082 | [406082-farm2.json](./406082-farm2.json) |
 | Farmageddon | 362279 | [362279-farmageddon.json](./362279-farmageddon.json) |
 | Farmageddon: Undead | 302380 | [302380-farmageddon-undead.json](./302380-farmageddon-undead.json) |
+| Farmburgh | 236263 | [236263-farmburgh.json](./236263-farmburgh.json) |
 | Farmcraft 2 | 411590 | [411590-farmcraft-2.json](./411590-farmcraft-2.json) |
 | Farmer and Zombie | 286008 | [286008-farmer-and-zombie.json](./286008-farmer-and-zombie.json) |
 | Farmer Drift! | 246430 | [246430-farmer-drift.json](./246430-farmer-drift.json) |
@@ -1996,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funtoon's World | 51964 | [51964-funtoons-world.json](./51964-funtoons-world.json) |
 | Funus: The Climb | 379895 | [379895-funus-the-climb.json](./379895-funus-the-climb.json) |
 | FunWar | 195757 | [195757-funwar.json](./195757-funwar.json) |
+| Funwreckers | 236276 | [236276-funwreckers.json](./236276-funwreckers.json) |
 | Fur and Fangs | 412994 | [412994-fur-and-fangs.json](./412994-fur-and-fangs.json) |
 | Fur and Void | 337645 | [337645-fur-and-void.json](./337645-fur-and-void.json) |
 | Fur Squadron | 226405 | [226405-fur-squadron.json](./226405-fur-squadron.json) |
