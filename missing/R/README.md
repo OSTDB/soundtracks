@@ -956,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge On Gold Diggers | 372482 | [372482-revenge-on-gold-diggers.json](./372482-revenge-on-gold-diggers.json) |
 | Revenge Request | 295533 | [295533-revenge-request.json](./295533-revenge-request.json) |
 | Revenger: Age of Morons | 89980 | [89980-revenger-age-of-morons.json](./89980-revenger-age-of-morons.json) |
+| Revengers | 220626 | [220626-revengers.json](./220626-revengers.json) |
 | Revenggie | 412308 | [412308-revenggie.json](./412308-revenggie.json) |
 | Revenis Prologue 01 | 116336 | [116336-revenis-prologue-01.json](./116336-revenis-prologue-01.json) |
 | Reverberant | 128619 | [128619-reverberant.json](./128619-reverberant.json) |
@@ -1042,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Mahogany and Human Leather-Bound Books | 271749 | [271749-rich-mahogany-and-human-leather-bound-books.json](./271749-rich-mahogany-and-human-leather-bound-books.json) |
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
 | Richard Scarry's Best Neighborhood Disc Ever | 127322 | [127322-richard-scarrys-best-neighborhood-disc-ever.json](./127322-richard-scarrys-best-neighborhood-disc-ever.json) |
+| RichMan 11 | 220664 | [220664-richman-11.json](./220664-richman-11.json) |
 | Richman 2 | 125446 | [125446-richman-2.json](./125446-richman-2.json) |
 | Richman 3 | 125447 | [125447-richman-3.json](./125447-richman-3.json) |
 | Richman 4 | 125448 | [125448-richman-4.json](./125448-richman-4.json) |
@@ -1333,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Ponkottsu: Moon Version | 243919 | [243919-robot-ponkottsu-moon-version.json](./243919-robot-ponkottsu-moon-version.json) |
 | Robot Programmer | 235976 | [235976-robot-programmer.json](./235976-robot-programmer.json) |
 | Robot Reckoning | 406695 | [406695-robot-reckoning.json](./406695-robot-reckoning.json) |
+| Robot Rejects | 220630 | [220630-robot-rejects.json](./220630-robot-rejects.json) |
 | Robot Squad Simulator 2017 | 34389 | [34389-robot-squad-simulator-2017.json](./34389-robot-squad-simulator-2017.json) |
 | Robot Squad Simulator X | 134013 | [134013-robot-squad-simulator-x.json](./134013-robot-squad-simulator-x.json) |
 | Robot Start: Puzzle Game | 149605 | [149605-robot-start-puzzle-game.json](./149605-robot-start-puzzle-game.json) |
@@ -1664,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose & Camellia 2 | 317596 | [317596-rose-and-camellia-2.json](./317596-rose-and-camellia-2.json) |
 | Rose & Camellia 3 | 317597 | [317597-rose-and-camellia-3.json](./317597-rose-and-camellia-3.json) |
 | Rose & Camellia 4 | 317598 | [317598-rose-and-camellia-4.json](./317598-rose-and-camellia-4.json) |
+| Rose City Revenge: The Beginning | 220632 | [220632-rose-city-revenge-the-beginning.json](./220632-rose-city-revenge-the-beginning.json) |
 | Rose Guns Days: Season 1 | 274213 | [274213-rose-guns-days-season-1.json](./274213-rose-guns-days-season-1.json) |
 | Rose Guns Days: Season 1 | 326598 | [326598-rose-guns-days-season-1.json](./326598-rose-guns-days-season-1.json) |
 | Rose of Meat | 392161 | [392161-rose-of-meat.json](./392161-rose-of-meat.json) |
