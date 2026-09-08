@@ -1851,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush'n Attack | 90990 | [90990-rushn-attack.json](./90990-rushn-attack.json) |
 | Rushcremental | 381635 | [381635-rushcremental.json](./381635-rushcremental.json) |
 | Rushing Punch | 270675 | [270675-rushing-punch.json](./270675-rushing-punch.json) |
+| RushLane | 243679 | [243679-rushlane.json](./243679-rushlane.json) |
 | Rushmith | 331877 | [331877-rushmith.json](./331877-rushmith.json) |
 | Rushuzen | 306362 | [306362-rushuzen.json](./306362-rushuzen.json) |
 | Russian bank - card game | 106568 | [106568-russian-bank-card-game.json](./106568-russian-bank-card-game.json) |
