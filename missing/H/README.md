@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartbeats | 338206 | [338206-heartbeats.json](./338206-heartbeats.json) |
 | HeartBound | 377566 | [377566-heartbound.json](./377566-heartbound.json) |
 | Heartful Memories: Little Witch Parfait 2 | 332419 | [332419-heartful-memories-little-witch-parfait-2.json](./332419-heartful-memories-little-witch-parfait-2.json) |
+| Hearth's Light: Potion Shop | 239669 | [239669-hearths-light-potion-shop.json](./239669-hearths-light-potion-shop.json) |
 | Hearthstone: Forged in the Barrens | 143738 | [143738-hearthstone-forged-in-the-barrens.json](./143738-hearthstone-forged-in-the-barrens.json) |
 | Hearthstone: Fractured in Alterac Valley | 387383 | [387383-hearthstone-fractured-in-alterac-valley.json](./387383-hearthstone-fractured-in-alterac-valley.json) |
 | Hearthstone: Madness at the Darkmoon Faire | 387380 | [387380-hearthstone-madness-at-the-darkmoon-faire.json](./387380-hearthstone-madness-at-the-darkmoon-faire.json) |
