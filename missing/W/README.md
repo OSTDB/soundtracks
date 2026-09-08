@@ -692,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wii Chess | 5280 | [5280-wii-chess.json](./5280-wii-chess.json) |
 | Wikipedia Gacha | 394176 | [394176-wikipedia-gacha.json](./394176-wikipedia-gacha.json) |
 | Wilbur Scoville’s 151st Birthday | 375817 | [375817-wilbur-scoville-s-151st-birthday.json](./375817-wilbur-scoville-s-151st-birthday.json) |
+| Wild | 257947 | [257947-wild.json](./257947-wild.json) |
 | Wild Adventure | 208032 | [208032-wild-adventure.json](./208032-wild-adventure.json) |
 | Wild Adventures: Ultimate Deer Hunt 3D | 85491 | [85491-wild-adventures-ultimate-deer-hunt-3d.json](./85491-wild-adventures-ultimate-deer-hunt-3d.json) |
 | Wild Arms 3 | 1679 | [1679-wild-arms-3.json](./1679-wild-arms-3.json) |
@@ -704,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Hearts: Karakuri Edition | 228734 | [228734-wild-hearts-karakuri-edition.json](./228734-wild-hearts-karakuri-edition.json) |
 | Wild Ice | 166777 | [166777-wild-ice.json](./166777-wild-ice.json) |
 | Wild Marble Beats | 181351 | [181351-wild-marble-beats.json](./181351-wild-marble-beats.json) |
+| Wild Mutation | 257927 | [257927-wild-mutation.json](./257927-wild-mutation.json) |
 | Wild Planet | 137049 | [137049-wild-planet.json](./137049-wild-planet.json) |
 | Wild Ride | 12973 | [12973-wild-ride.json](./12973-wild-ride.json) |
 | Wild Rides: WaterPark Factory | 205807 | [205807-wild-rides-waterpark-factory.json](./205807-wild-rides-waterpark-factory.json) |
