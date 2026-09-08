@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana's Manual | 248884 | [248884-manas-manual.json](./248884-manas-manual.json) |
 | Managate | 392150 | [392150-managate.json](./392150-managate.json) |
 | Management in Space | 400849 | [400849-management-in-space.json](./400849-management-in-space.json) |
+| Manascape | 257933 | [257933-manascape.json](./257933-manascape.json) |
 | Manatee | 311249 | [311249-manatee.json](./311249-manatee.json) |
 | Manbomber | 283749 | [283749-manbomber.json](./283749-manbomber.json) |
 | Manchester United Club Football | 52013 | [52013-manchester-united-club-football.json](./52013-manchester-united-club-football.json) |
@@ -1773,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minigore | 76624 | [76624-minigore.json](./76624-minigore.json) |
 | Minigunner | 207509 | [207509-minigunner.json](./207509-minigunner.json) |
 | MiniLaw: Ministry of Law | 32024 | [32024-minilaw-ministry-of-law.json](./32024-minilaw-ministry-of-law.json) |
+| MiniLife: Tournament | 257960 | [257960-minilife-tournament.json](./257960-minilife-tournament.json) |
 | Minima | 293652 | [293652-minima.json](./293652-minima.json) |
 | Minimal Affect | 132831 | [132831-minimal-affect.json](./132831-minimal-affect.json) |
 | Minimal Crypt | 163947 | [163947-minimal-crypt.json](./163947-minimal-crypt.json) |
@@ -2662,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MSSP8 | 308262 | [308262-mssp8.json](./308262-mssp8.json) |
 | MT Force Aliens Uprising | 341343 | [341343-mt-force-aliens-uprising.json](./341343-mt-force-aliens-uprising.json) |
 | MTB DirtCross | 298860 | [298860-mtb-dirtcross.json](./298860-mtb-dirtcross.json) |
+| Mtn Chaos | 257963 | [257963-mtn-chaos.json](./257963-mtn-chaos.json) |
 | MTV Sports: Pure Ride | 306635 | [306635-mtv-sports-pure-ride.json](./306635-mtv-sports-pure-ride.json) |
 | MTV Sports: Pure Ride | 49960 | [49960-mtv-sports-pure-ride.json](./49960-mtv-sports-pure-ride.json) |
 | MTV Sports: Skateboarding Featuring Andy Macdonald | 49959 | [49959-mtv-sports-skateboarding-featuring-andy-macdonald.json](./49959-mtv-sports-skateboarding-featuring-andy-macdonald.json) |
@@ -2793,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Puzzle | 256543 | [256543-music-puzzle.json](./256543-music-puzzle.json) |
 | Music Sim Empire | 298031 | [298031-music-sim-empire.json](./298031-music-sim-empire.json) |
 | Musical de Primeiro de Abril | 243404 | [243404-musical-de-primeiro-de-abril.json](./243404-musical-de-primeiro-de-abril.json) |
+| Musical Vibes | 257971 | [257971-musical-vibes.json](./257971-musical-vibes.json) |
 | Musical Zoo | 79934 | [79934-musical-zoo.json](./79934-musical-zoo.json) |
 | Musicus! | 125432 | [125432-musicus.json](./125432-musicus.json) |
 | Musicus! | 185708 | [185708-musicus.json](./185708-musicus.json) |
