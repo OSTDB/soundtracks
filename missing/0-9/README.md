@@ -19,7 +19,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | [Redacted] the Safehouse | 398337 | [398337-redacted-the-safehouse.json](./398337-redacted-the-safehouse.json) |
 | [Speer] | 134672 | [134672-speer.json](./134672-speer.json) |
 | [Stories to Tell]: The Stoneville Incident | 410259 | [410259-stories-to-tell-the-stoneville-incident.json](./410259-stories-to-tell-the-stoneville-incident.json) |
-| @ Home Mate | 22467 | [22467-home-mate.json](./22467-home-mate.json) |
 | *N Sync: Get to the Show | 94742 | [94742-n-sync-get-to-the-show.json](./94742-n-sync-get-to-the-show.json) |
 | /R | 329554 | [329554-r.json](./329554-r.json) |
 | #Blud | 117500 | [117500-blud.json](./117500-blud.json) |
