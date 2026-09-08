@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bankruptcy | 292283 | [292283-bankruptcy.json](./292283-bankruptcy.json) |
 | Bankshot Billiards 2 | 20523 | [20523-bankshot-billiards-2.json](./20523-bankshot-billiards-2.json) |
 | Bannerlands | 413683 | [413683-bannerlands.json](./413683-bannerlands.json) |
+| Banners of Ruin: Moonstone | 230817 | [230817-banners-of-ruin-moonstone.json](./230817-banners-of-ruin-moonstone.json) |
 | Banquet of Nausea | 402887 | [402887-banquet-of-nausea.json](./402887-banquet-of-nausea.json) |
 | Banshees: The Game | 241944 | [241944-banshees-the-game.json](./241944-banshees-the-game.json) |
 | Banshiryuu | 123606 | [123606-banshiryuu.json](./123606-banshiryuu.json) |
@@ -473,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball | 277862 | [277862-baseball.json](./277862-baseball.json) |
 | Baseball | 297486 | [297486-baseball.json](./297486-baseball.json) |
 | Baseball | 7580 | [7580-baseball.json](./7580-baseball.json) |
+| Baseball 101 | 230839 | [230839-baseball-101.json](./230839-baseball-101.json) |
 | Baseball 3DS | 21150 | [21150-baseball-3ds.json](./21150-baseball-3ds.json) |
 | Baseball Boy! | 87059 | [87059-baseball-boy.json](./87059-baseball-boy.json) |
 | Baseball Kings VR | 89255 | [89255-baseball-kings-vr.json](./89255-baseball-kings-vr.json) |
@@ -2086,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling | 291999 | [291999-bowling.json](./291999-bowling.json) |
 | Bowling | 300414 | [300414-bowling.json](./300414-bowling.json) |
 | Bowling | 317634 | [317634-bowling.json](./317634-bowling.json) |
+| Bowling Alley | 230840 | [230840-bowling-alley.json](./230840-bowling-alley.json) |
 | Bowling by Jason Belmonte | 262386 | [262386-bowling-by-jason-belmonte.json](./262386-bowling-by-jason-belmonte.json) |
 | Bowling Fever: Grand Edition | 396914 | [396914-bowling-fever-grand-edition.json](./396914-bowling-fever-grand-edition.json) |
 | Bowling Islands | 234616 | [234616-bowling-islands.json](./234616-bowling-islands.json) |
@@ -2112,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxguy Adventure | 358322 | [358322-boxguy-adventure.json](./358322-boxguy-adventure.json) |
 | Boxguy Adventure 2 | 358292 | [358292-boxguy-adventure-2.json](./358292-boxguy-adventure-2.json) |
 | Boxigon! | 109656 | [109656-boxigon.json](./109656-boxigon.json) |
+| Boxing | 230841 | [230841-boxing.json](./230841-boxing.json) |
 | Boxing | 55103 | [55103-boxing.json](./55103-boxing.json) |
 | Boxing Babes: Sexy Fight Hentai Anime Girls | 165016 | [165016-boxing-babes-sexy-fight-hentai-anime-girls.json](./165016-boxing-babes-sexy-fight-hentai-anime-girls.json) |
 | Boxing Club: Ultimate Fighting | 108469 | [108469-boxing-club-ultimate-fighting.json](./108469-boxing-club-ultimate-fighting.json) |
@@ -2241,6 +2245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Tactics | 85516 | [85516-break-tactics.json](./85516-break-tactics.json) |
 | Break the Balloons: Ghost Town | 252151 | [252151-break-the-balloons-ghost-town.json](./252151-break-the-balloons-ghost-town.json) |
 | Break the Empire | 304870 | [304870-break-the-empire.json](./304870-break-the-empire.json) |
+| Break the Fireline | 230847 | [230847-break-the-fireline.json](./230847-break-the-fireline.json) |
 | Break the Tower | 394878 | [394878-break-the-tower.json](./394878-break-the-tower.json) |
 | Break Time: The National Pool Tour | 48103 | [48103-break-time-the-national-pool-tour.json](./48103-break-time-the-national-pool-tour.json) |
 | Break Ultimate | 241614 | [241614-break-ultimate.json](./241614-break-ultimate.json) |
@@ -2474,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Wrap Frenzy | 233236 | [233236-bubble-wrap-frenzy.json](./233236-bubble-wrap-frenzy.json) |
 | Bubble Xmas | 57663 | [57663-bubble-xmas.json](./57663-bubble-xmas.json) |
 | Bubble's Travel | 387337 | [387337-bubbles-travel.json](./387337-bubbles-travel.json) |
+| Bubbles Master | 230848 | [230848-bubbles-master.json](./230848-bubbles-master.json) |
 | BubbleTT: Oh! My Fart | 256528 | [256528-bubblett-oh-my-fart.json](./256528-bubblett-oh-my-fart.json) |
 | BubbleXRush | 61089 | [61089-bubblexrush.json](./61089-bubblexrush.json) |
 | BUBG Single on the Ground | 269039 | [269039-bubg-single-on-the-ground.json](./269039-bubg-single-on-the-ground.json) |
