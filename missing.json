@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T20:51:01.081Z",
-  "total_missing": 48144,
+  "generated_at": "2026-09-08T21:01:04.217Z",
+  "total_missing": 48146,
   "games": [
     {
       "igdb_id": 306086,
@@ -306,11 +306,6 @@
       "igdb_id": 315291,
       "game_name": "100 Sea Cats",
       "file": "missing/0-9/315291-100-sea-cats.json"
-    },
-    {
-      "igdb_id": 315293,
-      "game_name": "100 Thailand Cats",
-      "file": "missing/0-9/315293-100-thailand-cats.json"
     },
     {
       "igdb_id": 316430,
@@ -32826,6 +32821,16 @@
       "igdb_id": 76738,
       "game_name": "Captain Tsubasa: Dream Team",
       "file": "missing/C/76738-captain-tsubasa-dream-team.json"
+    },
+    {
+      "igdb_id": 214543,
+      "game_name": "Captain Tsubasa: Rise of New Champions - Juan Diaz Mission",
+      "file": "missing/C/214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json"
+    },
+    {
+      "igdb_id": 214544,
+      "game_name": "Captain Tsubasa: Rise of New Champions - Tsubasa Ozora Mission",
+      "file": "missing/C/214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json"
     },
     {
       "igdb_id": 256837,
@@ -145916,6 +145921,11 @@
       "igdb_id": 366244,
       "game_name": "Paddle Together",
       "file": "missing/P/366244-paddle-together.json"
+    },
+    {
+      "igdb_id": 214545,
+      "game_name": "Paddles",
+      "file": "missing/P/214545-paddles.json"
     },
     {
       "igdb_id": 409553,
