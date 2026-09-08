@@ -2058,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Botanical TD | 214163 | [214163-botanical-td.json](./214163-botanical-td.json) |
 | Botanicula: Collector's Edition | 186881 | [186881-botanicula-collectors-edition.json](./186881-botanicula-collectors-edition.json) |
 | Botaniki | 229673 | [229673-botaniki.json](./229673-botaniki.json) |
+| Boti: Byteland Overclocked | 221164 | [221164-boti-byteland-overclocked.json](./221164-boti-byteland-overclocked.json) |
 | Boti: Byteland Overclocked - Bit Racing | 327814 | [327814-boti-byteland-overclocked-bit-racing.json](./327814-boti-byteland-overclocked-bit-racing.json) |
 | Boti: Byteland Overclocked - Bitosaurus | 327813 | [327813-boti-byteland-overclocked-bitosaurus.json](./327813-boti-byteland-overclocked-bitosaurus.json) |
 | Botics | 14336 | [14336-botics.json](./14336-botics.json) |
@@ -2646,6 +2647,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunnies & Ballgames! | 376462 | [376462-bunnies-and-ballgames.json](./376462-bunnies-and-ballgames.json) |
 | Bunninjutsu | 378179 | [378179-bunninjutsu.json](./378179-bunninjutsu.json) |
 | Bunny Bond | 265395 | [265395-bunny-bond.json](./265395-bunny-bond.json) |
+| Bunny Box Breakout | 221192 | [221192-bunny-box-breakout.json](./221192-bunny-box-breakout.json) |
+| Bunny Eureka | 221162 | [221162-bunny-eureka.json](./221162-bunny-eureka.json) |
 | Bunny Girl Story | 201844 | [201844-bunny-girl-story.json](./201844-bunny-girl-story.json) |
 | Bunny Hopper | 377049 | [377049-bunny-hopper.json](./377049-bunny-hopper.json) |
 | Bunny Hurling | 335286 | [335286-bunny-hurling.json](./335286-bunny-hurling.json) |
