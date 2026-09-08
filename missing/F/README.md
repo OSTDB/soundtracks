@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-16 Multirole Fighter | 72715 | [72715-f-16-multirole-fighter.json](./72715-f-16-multirole-fighter.json) |
 | F-16 Renegade | 66706 | [66706-f-16-renegade.json](./66706-f-16-renegade.json) |
 | F-18 Thunder Strike | 49931 | [49931-f-18-thunder-strike.json](./49931-f-18-thunder-strike.json) |
+| F-4 Phantom II: Sky Defender | 253358 | [253358-f-4-phantom-ii-sky-defender.json](./253358-f-4-phantom-ii-sky-defender.json) |
 | F-Rank Hero Story | 186323 | [186323-f-rank-hero-story.json](./186323-f-rank-hero-story.json) |
 | F-Stop Museum | 362288 | [362288-f-stop-museum.json](./362288-f-stop-museum.json) |
 | F-Zero | 3490 | [3490-f-zero.json](./3490-f-zero.json) |
@@ -752,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Road | 242210 | [242210-find-the-road.json](./242210-find-the-road.json) |
 | Find the Stalker | 310219 | [310219-find-the-stalker.json](./310219-find-the-stalker.json) |
 | Find Us Cats | 315297 | [315297-find-us-cats.json](./315297-find-us-cats.json) |
+| Find with Seoul: Story Puzzle | 253385 | [253385-find-with-seoul-story-puzzle.json](./253385-find-with-seoul-story-puzzle.json) |
 | Finders, Keepers | 139457 | [139457-finders-keepers.json](./139457-finders-keepers.json) |
 | Finding Alex | 344379 | [344379-finding-alex.json](./344379-finding-alex.json) |
 | Finding America: New England | 273665 | [273665-finding-america-new-england.json](./273665-finding-america-new-england.json) |
@@ -841,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireplace Simulator | 337615 | [337615-fireplace-simulator.json](./337615-fireplace-simulator.json) |
 | Fireside Hero | 191854 | [191854-fireside-hero.json](./191854-fireside-hero.json) |
 | Firestarter | 78049 | [78049-firestarter.json](./78049-firestarter.json) |
+| Firestorm Deadland | 253365 | [253365-firestorm-deadland.json](./253365-firestorm-deadland.json) |
 | FireTry: Capture the Flag | 167850 | [167850-firetry-capture-the-flag.json](./167850-firetry-capture-the-flag.json) |
 | Firewall Zero Hour | 76966 | [76966-firewall-zero-hour.json](./76966-firewall-zero-hour.json) |
 | Firewatch: Audio Tour | 251228 | [251228-firewatch-audio-tour.json](./251228-firewatch-audio-tour.json) |
