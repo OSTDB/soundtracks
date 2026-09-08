@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Drop | 245052 | [245052-king-of-drop.json](./245052-king-of-drop.json) |
 | King of Fighters 2002: 3rd Strike of the Orochi | 205791 | [205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json](./205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json) |
 | King of Karts | 88306 | [88306-king-of-karts.json](./88306-king-of-karts.json) |
+| King of Kings | 231927 | [231927-king-of-kings.json](./231927-king-of-kings.json) |
 | King of Meat | 314255 | [314255-king-of-meat.json](./314255-king-of-meat.json) |
 | King of Queendoms | 110609 | [110609-king-of-queendoms.json](./110609-king-of-queendoms.json) |
 | King of Snatchers | 306338 | [306338-king-of-snatchers.json](./306338-king-of-snatchers.json) |
@@ -509,12 +510,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom's Life | 189177 | [189177-kingdoms-life.json](./189177-kingdoms-life.json) |
 | Kingdomino | 338728 | [338728-kingdomino.json](./338728-kingdomino.json) |
 | Kingdoms of Marazia: Classic | 107199 | [107199-kingdoms-of-marazia-classic.json](./107199-kingdoms-of-marazia-classic.json) |
+| Kingdoms of Merge & Magic | 231926 | [231926-kingdoms-of-merge-and-magic.json](./231926-kingdoms-of-merge-and-magic.json) |
 | Kingdoms: Merge & Build | 291982 | [291982-kingdoms-merge-and-build.json](./291982-kingdoms-merge-and-build.json) |
 | Kingdoms: The Crown | 100212 | [100212-kingdoms-the-crown.json](./100212-kingdoms-the-crown.json) |
 | KingHunt | 76626 | [76626-kinghunt.json](./76626-kinghunt.json) |
 | Kingmaker | 292554 | [292554-kingmaker.json](./292554-kingmaker.json) |
 | Kingmakers | 287671 | [287671-kingmakers.json](./287671-kingmakers.json) |
 | Kings and Pigs | 152937 | [152937-kings-and-pigs.json](./152937-kings-and-pigs.json) |
+| Kings of Battleground | 231928 | [231928-kings-of-battleground.json](./231928-kings-of-battleground.json) |
 | Kings of Chaos | 402314 | [402314-kings-of-chaos.json](./402314-kings-of-chaos.json) |
 | Kings of the Realm | 344914 | [344914-kings-of-the-realm.json](./344914-kings-of-the-realm.json) |
 | Kings Shire | 237073 | [237073-kings-shire.json](./237073-kings-shire.json) |
@@ -600,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty & Friends: Blast of Fun | 239886 | [239886-kitty-and-friends-blast-of-fun.json](./239886-kitty-and-friends-blast-of-fun.json) |
 | Kitty Death Room | 221408 | [221408-kitty-death-room.json](./221408-kitty-death-room.json) |
 | Kitty Farm Island | 409536 | [409536-kitty-farm-island.json](./409536-kitty-farm-island.json) |
+| Kitty in the Box 2 | 231929 | [231929-kitty-in-the-box-2.json](./231929-kitty-in-the-box-2.json) |
 | Kitty in the Crowd | 243970 | [243970-kitty-in-the-crowd.json](./243970-kitty-in-the-crowd.json) |
 | Kitty Letter | 145044 | [145044-kitty-letter.json](./145044-kitty-letter.json) |
 | Kitty Loves Birds | 346601 | [346601-kitty-loves-birds.json](./346601-kitty-loves-birds.json) |
