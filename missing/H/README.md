@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Hour Hero | 277007 | [277007-happy-hour-hero.json](./277007-happy-hour-hero.json) |
 | Happy Mask | 263209 | [263209-happy-mask.json](./263209-happy-mask.json) |
 | Happy Maze | 30944 | [30944-happy-maze.json](./30944-happy-maze.json) |
+| Happy Mouse | 241373 | [241373-happy-mouse.json](./241373-happy-mouse.json) |
 | Happy Night | 280767 | [280767-happy-night.json](./280767-happy-night.json) |
 | Happy Rabbit Farm | 338741 | [338741-happy-rabbit-farm.json](./338741-happy-rabbit-farm.json) |
 | Happy Room: Robo | 194035 | [194035-happy-room-robo.json](./194035-happy-room-robo.json) |
@@ -768,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Party: Secret Garden | 371251 | [371251-hentai-party-secret-garden.json](./371251-hentai-party-secret-garden.json) |
 | Hentai Party: Summer Paradise | 371249 | [371249-hentai-party-summer-paradise.json](./371249-hentai-party-summer-paradise.json) |
 | Hentai Polka | 294139 | [294139-hentai-polka.json](./294139-hentai-polka.json) |
+| Hentai Pool | 241386 | [241386-hentai-pool.json](./241386-hentai-pool.json) |
 | Hentai Project | 262366 | [262366-hentai-project.json](./262366-hentai-project.json) |
 | Hentai Project 67 | 409529 | [409529-hentai-project-67.json](./409529-hentai-project-67.json) |
 | Hentai Pussy 4 | 214188 | [214188-hentai-pussy-4.json](./214188-hentai-pussy-4.json) |
