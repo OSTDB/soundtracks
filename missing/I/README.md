@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Rebirth | 382764 | [382764-immortal-rebirth.json](./382764-immortal-rebirth.json) |
 | Immortal Redneck | 23188 | [23188-immortal-redneck.json](./23188-immortal-redneck.json) |
 | Immortal Truth | 33087 | [33087-immortal-truth.json](./33087-immortal-truth.json) |
+| Immortal: And the Death that Follows | 217325 | [217325-immortal-and-the-death-that-follows.json](./217325-immortal-and-the-death-that-follows.json) |
 | Immortality | 152288 | [152288-immortality.json](./152288-immortality.json) |
 | ImmortalSurvivors | 273663 | [273663-immortalsurvivors.json](./273663-immortalsurvivors.json) |
 | Immortum | 332246 | [332246-immortum.json](./332246-immortum.json) |
