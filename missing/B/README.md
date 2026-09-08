@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon to the Moon 2 | 316083 | [316083-balloon-to-the-moon-2.json](./316083-balloon-to-the-moon-2.json) |
 | Balloonacy 2 | 97324 | [97324-balloonacy-2.json](./97324-balloonacy-2.json) |
 | Balloonacy! | 39043 | [39043-balloonacy.json](./39043-balloonacy.json) |
+| Balloons | 257936 | [257936-balloons.json](./257936-balloons.json) |
 | Balloony | 290439 | [290439-balloony.json](./290439-balloony.json) |
 | Ballpoint Universe: Infinite | 16770 | [16770-ballpoint-universe-infinite.json](./16770-ballpoint-universe-infinite.json) |
 | BallRoll | 189184 | [189184-ballroll.json](./189184-ballroll.json) |
@@ -560,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Capacity | 332815 | [332815-battle-capacity.json](./332815-battle-capacity.json) |
 | Battle Cars | 332256 | [332256-battle-cars.json](./332256-battle-cars.json) |
 | Battle Charge | 211426 | [211426-battle-charge.json](./211426-battle-charge.json) |
+| Battle Craft | 257926 | [257926-battle-craft.json](./257926-battle-craft.json) |
 | Battle Cross | 40242 | [40242-battle-cross.json](./40242-battle-cross.json) |
 | Battle Cross | 95412 | [95412-battle-cross.json](./95412-battle-cross.json) |
 | Battle Cruiser M-12 | 40241 | [40241-battle-cruiser-m-12.json](./40241-battle-cruiser-m-12.json) |
