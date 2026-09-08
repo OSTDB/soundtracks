@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies and Keys | 197393 | [197393-zombies-and-keys.json](./197393-zombies-and-keys.json) |
 | Zombies and Orcs | 327822 | [327822-zombies-and-orcs.json](./327822-zombies-and-orcs.json) |
 | Zombies Crusher | 319960 | [319960-zombies-crusher.json](./319960-zombies-crusher.json) |
+| Zombies in City: Apocalypse Survival | 215115 | [215115-zombies-in-city-apocalypse-survival.json](./215115-zombies-in-city-apocalypse-survival.json) |
 | Zombies vs. Sheep | 67294 | [67294-zombies-vs-sheep.json](./67294-zombies-vs-sheep.json) |
 | Zombies vs. You | 289339 | [289339-zombies-vs-you.json](./289339-zombies-vs-you.json) |
 | Zombies! | 335649 | [335649-zombies.json](./335649-zombies.json) |
