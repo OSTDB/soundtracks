@@ -903,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Cross | 80581 | [80581-iron-cross.json](./80581-iron-cross.json) |
 | Iron Crown | 318183 | [318183-iron-crown.json](./318183-iron-crown.json) |
 | Iron Danger | 101065 | [101065-iron-danger.json](./101065-iron-danger.json) |
+| Iron Diamond | 236300 | [236300-iron-diamond.json](./236300-iron-diamond.json) |
 | Iron Force 2 | 243706 | [243706-iron-force-2.json](./243706-iron-force-2.json) |
 | Iron Front: Liberation 1944 - Gold Edition | 53237 | [53237-iron-front-liberation-1944-gold-edition.json](./53237-iron-front-liberation-1944-gold-edition.json) |
 | Iron Front: Liberation 1944 D-Day | 53236 | [53236-iron-front-liberation-1944-d-day.json](./53236-iron-front-liberation-1944-d-day.json) |
