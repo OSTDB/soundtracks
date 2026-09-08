@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Pinball | 310964 | [310964-elemental-pinball.json](./310964-elemental-pinball.json) |
 | Elemental Raiders | 231614 | [231614-elemental-raiders.json](./231614-elemental-raiders.json) |
 | Elemental Soul | 391606 | [391606-elemental-soul.json](./391606-elemental-soul.json) |
+| Elemental Survivors | 244234 | [244234-elemental-survivors.json](./244234-elemental-survivors.json) |
 | Elemental War | 110131 | [110131-elemental-war.json](./110131-elemental-war.json) |
 | Elemental World | 208039 | [208039-elemental-world.json](./208039-elemental-world.json) |
 | Elemental World | 311798 | [311798-elemental-world.json](./311798-elemental-world.json) |
@@ -559,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Memories | 126265 | [126265-endless-memories.json](./126265-endless-memories.json) |
 | Endless Nightmare | 193996 | [193996-endless-nightmare.json](./193996-endless-nightmare.json) |
 | Endless Nightmare: Shrine | 200737 | [200737-endless-nightmare-shrine.json](./200737-endless-nightmare-shrine.json) |
+| Endless Nights: Zombie Apocalypse | 244253 | [244253-endless-nights-zombie-apocalypse.json](./244253-endless-nights-zombie-apocalypse.json) |
 | Endless Ocean | 289872 | [289872-endless-ocean.json](./289872-endless-ocean.json) |
 | Endless Siege Online | 218696 | [218696-endless-siege-online.json](./218696-endless-siege-online.json) |
 | Endless Space: Definitive Edition | 231650 | [231650-endless-space-definitive-edition.json](./231650-endless-space-definitive-edition.json) |
@@ -791,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Party | 278419 | [278419-escape-party.json](./278419-escape-party.json) |
 | Escape Room Collection C1 | 295536 | [295536-escape-room-collection-c1.json](./295536-escape-room-collection-c1.json) |
 | Escape Room Mystery Adventure: Enchanting Tales | 152389 | [152389-escape-room-mystery-adventure-enchanting-tales.json](./152389-escape-room-mystery-adventure-enchanting-tales.json) |
+| Escape Room: Bank Robbery Gone Wrong | 244246 | [244246-escape-room-bank-robbery-gone-wrong.json](./244246-escape-room-bank-robbery-gone-wrong.json) |
 | Escape Room: Beyond Mystery | 315265 | [315265-escape-room-beyond-mystery.json](./315265-escape-room-beyond-mystery.json) |
 | Escape Sequence | 411591 | [411591-escape-sequence.json](./411591-escape-sequence.json) |
 | Escape Simulator | 145439 | [145439-escape-simulator.json](./145439-escape-simulator.json) |
@@ -861,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Quest | 43353 | [43353-eternal-quest.json](./43353-eternal-quest.json) |
 | Eternal Return | 135842 | [135842-eternal-return.json](./135842-eternal-return.json) |
 | Eternal Ring | 10905 | [10905-eternal-ring.json](./10905-eternal-ring.json) |
+| Eternal Rome | 244241 | [244241-eternal-rome.json](./244241-eternal-rome.json) |
 | Eternal Saga | 62762 | [62762-eternal-saga.json](./62762-eternal-saga.json) |
 | Eternal Seas | 236509 | [236509-eternal-seas.json](./236509-eternal-seas.json) |
 | Eternal Step | 14388 | [14388-eternal-step.json](./14388-eternal-step.json) |
