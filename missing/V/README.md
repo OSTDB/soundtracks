@@ -462,6 +462,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visualizer | 80590 | [80590-visualizer.json](./80590-visualizer.json) |
 | Vita: The Ember Oracle | 356112 | [356112-vita-the-ember-oracle.json](./356112-vita-the-ember-oracle.json) |
 | Vital Force | 62188 | [62188-vital-force.json](./62188-vital-force.json) |
+| Vital Signs: Emergency Department - Infections Package | 225107 | [225107-vital-signs-emergency-department-infections-package.json](./225107-vital-signs-emergency-department-infections-package.json) |
+| Vital Signs: Emergency Department - Injuries Package #1 | 225105 | [225105-vital-signs-emergency-department-injuries-package-1.json](./225105-vital-signs-emergency-department-injuries-package-1.json) |
+| Vital Signs: Emergency Department - Injuries Package #2 | 225106 | [225106-vital-signs-emergency-department-injuries-package-2.json](./225106-vital-signs-emergency-department-injuries-package-2.json) |
 | Vitalis | 399000 | [399000-vitalis.json](./399000-vitalis.json) |
 | Vitality | 213040 | [213040-vitality.json](./213040-vitality.json) |
 | Vitamin X | 69288 | [69288-vitamin-x.json](./69288-vitamin-x.json) |
