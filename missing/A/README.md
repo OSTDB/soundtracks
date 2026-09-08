@@ -847,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AiPri Verse | 284922 | [284922-aipri-verse.json](./284922-aipri-verse.json) |
 | Air | 270385 | [270385-air.json](./270385-air.json) |
 | Air | 270403 | [270403-air.json](./270403-air.json) |
+| Air Cavalry: Flight Simulator | 246427 | [246427-air-cavalry-flight-simulator.json](./246427-air-cavalry-flight-simulator.json) |
 | Air Combat | 333953 | [333953-air-combat.json](./333953-air-combat.json) |
 | Air Combat Fighter | 119024 | [119024-air-combat-fighter.json](./119024-air-combat-fighter.json) |
 | Air Combat MF | 121009 | [121009-air-combat-mf.json](./121009-air-combat-mf.json) |
