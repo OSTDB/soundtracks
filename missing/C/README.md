@@ -1284,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Parklife Edition | 205268 | [205268-cities-skylines-parklife-edition.json](./205268-cities-skylines-parklife-edition.json) |
 | Cities: Skylines - Piano Tunes Radio | 257084 | [257084-cities-skylines-piano-tunes-radio.json](./257084-cities-skylines-piano-tunes-radio.json) |
 | Cities: Skylines - Race Day | 393462 | [393462-cities-skylines-race-day.json](./393462-cities-skylines-race-day.json) |
+| Cities: Skylines - Remastered | 237966 | [237966-cities-skylines-remastered.json](./237966-cities-skylines-remastered.json) |
 | Cities: Skylines II - Ultimate Edition | 273942 | [273942-cities-skylines-ii-ultimate-edition.json](./273942-cities-skylines-ii-ultimate-edition.json) |
 | Citizen Conflict | 248301 | [248301-citizen-conflict.json](./248301-citizen-conflict.json) |
 | Citizen Pain | 348269 | [348269-citizen-pain.json](./348269-citizen-pain.json) |
@@ -1354,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Digital: Rumble Smash | 241666 | [241666-clash-of-digital-rumble-smash.json](./241666-clash-of-digital-rumble-smash.json) |
 | Clash of Elements | 233216 | [233216-clash-of-elements.json](./233216-clash-of-elements.json) |
 | Clash of Evil: The Comeback | 272815 | [272815-clash-of-evil-the-comeback.json](./272815-clash-of-evil-the-comeback.json) |
+| Clash of Fingers | 237958 | [237958-clash-of-fingers.json](./237958-clash-of-fingers.json) |
 | Clash of Ten Sides | 348804 | [348804-clash-of-ten-sides.json](./348804-clash-of-ten-sides.json) |
 | Clash of the Metal | 173298 | [173298-clash-of-the-metal.json](./173298-clash-of-the-metal.json) |
 | Classic Card Games | 85539 | [85539-classic-card-games.json](./85539-classic-card-games.json) |
