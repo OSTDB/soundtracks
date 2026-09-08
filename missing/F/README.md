@@ -1164,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floating with Spirits | 383368 | [383368-floating-with-spirits.json](./383368-floating-with-spirits.json) |
 | Floatopia | 314274 | [314274-floatopia.json](./314274-floatopia.json) |
 | Floaty Fighters | 123041 | [123041-floaty-fighters.json](./123041-floaty-fighters.json) |
+| FloCity | 244260 | [244260-flocity.json](./244260-flocity.json) |
 | Flood | 320187 | [320187-flood.json](./320187-flood.json) |
 | Flood Descendance | 355024 | [355024-flood-descendance.json](./355024-flood-descendance.json) |
 | Flood Fighting Hero | 165019 | [165019-flood-fighting-hero.json](./165019-flood-fighting-hero.json) |
@@ -1299,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foldy's OS Quest | 335865 | [335865-foldys-os-quest.json](./335865-foldys-os-quest.json) |
 | Folie Fatale: Kousaku Fanaticism | 364513 | [364513-folie-fatale-kousaku-fanaticism.json](./364513-folie-fatale-kousaku-fanaticism.json) |
 | Folk Emerging | 244766 | [244766-folk-emerging.json](./244766-folk-emerging.json) |
+| Folk Hero | 244242 | [244242-folk-hero.json](./244242-folk-hero.json) |
 | Folk Song | 317010 | [317010-folk-song.json](./317010-folk-song.json) |
 | Follow Dalian | 377070 | [377070-follow-dalian.json](./377070-follow-dalian.json) |
 | Follow My Voice | 179194 | [179194-follow-my-voice.json](./179194-follow-my-voice.json) |
