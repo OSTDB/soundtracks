@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sciware Defense | 245841 | [245841-sciware-defense.json](./245841-sciware-defense.json) |
 | Scooby Doo: Horror of the High Seas - Episode 3: Reef Relief | 337126 | [337126-scooby-doo-horror-of-the-high-seas-episode-3-reef-relief.json](./337126-scooby-doo-horror-of-the-high-seas-episode-3-reef-relief.json) |
 | Scooby-Doo 2: Monsters Unleashed - Escape from the Coolsonian | 327821 | [327821-scooby-doo-2-monsters-unleashed-escape-from-the-coolsonian.json](./327821-scooby-doo-2-monsters-unleashed-escape-from-the-coolsonian.json) |
+| Scooby-Doo and the Mystery of the Castle | 220107 | [220107-scooby-doo-and-the-mystery-of-the-castle.json](./220107-scooby-doo-and-the-mystery-of-the-castle.json) |
 | Scooby-Doo Mystery Cases | 87730 | [87730-scooby-doo-mystery-cases.json](./87730-scooby-doo-mystery-cases.json) |
 | Scooby-Doo: Case File 1 - The Glowing Bug Man | 78685 | [78685-scooby-doo-case-file-1-the-glowing-bug-man.json](./78685-scooby-doo-case-file-1-the-glowing-bug-man.json) |
 | Scooby-Doo!: Mistery Mayhem | 44634 | [44634-scooby-doo-mistery-mayhem.json](./44634-scooby-doo-mistery-mayhem.json) |
@@ -924,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serve The Cups | 276176 | [276176-serve-the-cups.json](./276176-serve-the-cups.json) |
 | Served in Yong'an | 266474 | [266474-served-in-yongan.json](./266474-served-in-yongan.json) |
 | Served! A Gourmet Race | 104684 | [104684-served-a-gourmet-race.json](./104684-served-a-gourmet-race.json) |
+| Sesame Street Beat | 220108 | [220108-sesame-street-beat.json](./220108-sesame-street-beat.json) |
 | Sesame Street Fighter | 339673 | [339673-sesame-street-fighter.json](./339673-sesame-street-fighter.json) |
 | Sesame Street: 1-2-3 | 78035 | [78035-sesame-street-1-2-3.json](./78035-sesame-street-1-2-3.json) |
 | Sesame Street: Elmo's 123s | 49934 | [49934-sesame-street-elmos-123s.json](./49934-sesame-street-elmos-123s.json) |
@@ -3344,12 +3346,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Roulette | 386694 | [386694-spider-roulette.json](./386694-spider-roulette.json) |
 | Spider Shooting Bee | 119793 | [119793-spider-shooting-bee.json](./119793-spider-shooting-bee.json) |
 | Spider-Guy: Trapped in the Cheese Place | 291773 | [291773-spider-guy-trapped-in-the-cheese-place.json](./291773-spider-guy-trapped-in-the-cheese-place.json) |
+| Spider-Man | 220109 | [220109-spider-man.json](./220109-spider-man.json) |
 | Spider-Man | 248203 | [248203-spider-man.json](./248203-spider-man.json) |
 | Spider-Man | 363917 | [363917-spider-man.json](./363917-spider-man.json) |
 | Spider-Man | 363918 | [363918-spider-man.json](./363918-spider-man.json) |
 | Spider-Man / X-Men: Arcade's Redux | 219274 | [219274-spider-man-x-men-arcades-redux.json](./219274-spider-man-x-men-arcades-redux.json) |
 | Spider-Man 2: The Sinister Six | 49971 | [49971-spider-man-2-the-sinister-six.json](./49971-spider-man-2-the-sinister-six.json) |
 | Spider-Man 3 | 218140 | [218140-spider-man-3.json](./218140-spider-man-3.json) |
+| Spider-Man 3 | 220112 | [220112-spider-man-3.json](./220112-spider-man-3.json) |
 | Spider-Man 3 | 247535 | [247535-spider-man-3.json](./247535-spider-man-3.json) |
 | Spider-Man 3 Action | 225298 | [225298-spider-man-3-action.json](./225298-spider-man-3-action.json) |
 | Spider-Man 4 | 231383 | [231383-spider-man-4.json](./231383-spider-man-4.json) |
@@ -3366,6 +3370,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: Friend or Foe | 5180 | [5180-spider-man-friend-or-foe.json](./5180-spider-man-friend-or-foe.json) |
 | Spider-Man: Mysterio's Menace | 6605 | [6605-spider-man-mysterios-menace.json](./6605-spider-man-mysterios-menace.json) |
 | Spider-Man: The Video Game | 46761 | [46761-spider-man-the-video-game.json](./46761-spider-man-the-video-game.json) |
+| Spider-Sense Spider-Man and the Masked Menace | 220110 | [220110-spider-sense-spider-man-and-the-masked-menace.json](./220110-spider-sense-spider-man-and-the-masked-menace.json) |
+| Spider-Sense Spider-Man: Web-Master | 220111 | [220111-spider-sense-spider-man-web-master.json](./220111-spider-sense-spider-man-web-master.json) |
 | Spiderbro 2 | 298042 | [298042-spiderbro-2.json](./298042-spiderbro-2.json) |
 | SpiderHeck | 137073 | [137073-spiderheck.json](./137073-spiderheck.json) |
 | Spidey & His Amazing Friends | 230277 | [230277-spidey-and-his-amazing-friends.json](./230277-spidey-and-his-amazing-friends.json) |
@@ -3451,10 +3457,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob HeroPants | 8474 | [8474-spongebob-heropants.json](./8474-spongebob-heropants.json) |
 | SpongeBob in Run For The Krusty Krab | 382779 | [382779-spongebob-in-run-for-the-krusty-krab.json](./382779-spongebob-in-run-for-the-krusty-krab.json) |
 | SpongeBob SolitairePants | 294177 | [294177-spongebob-solitairepants.json](./294177-spongebob-solitairepants.json) |
+| SpongeBob SquarePants | 220120 | [220120-spongebob-squarepants.json](./220120-spongebob-squarepants.json) |
+| SpongeBob SquarePants: Bikini Bottom 500 | 220117 | [220117-spongebob-squarepants-bikini-bottom-500.json](./220117-spongebob-squarepants-bikini-bottom-500.json) |
 | SpongeBob SquarePants: Bundle | 286514 | [286514-spongebob-squarepants-bundle.json](./286514-spongebob-squarepants-bundle.json) |
+| SpongeBob SquarePants: Dilly Dabber | 220119 | [220119-spongebob-squarepants-dilly-dabber.json](./220119-spongebob-squarepants-dilly-dabber.json) |
 | SpongeBob SquarePants: Flip or Flop | 273123 | [273123-spongebob-squarepants-flip-or-flop.json](./273123-spongebob-squarepants-flip-or-flop.json) |
 | SpongeBob SquarePants: Four Squared | 288190 | [288190-spongebob-squarepants-four-squared.json](./288190-spongebob-squarepants-four-squared.json) |
+| SpongeBob SquarePants: JellyFish Dodge | 220116 | [220116-spongebob-squarepants-jellyfish-dodge.json](./220116-spongebob-squarepants-jellyfish-dodge.json) |
+| SpongeBob SquarePants: JellyFish Dodge | 220118 | [220118-spongebob-squarepants-jellyfish-dodge.json](./220118-spongebob-squarepants-jellyfish-dodge.json) |
 | SpongeBob SquarePants: Nighty Nightmare | 18301 | [18301-spongebob-squarepants-nighty-nightmare.json](./18301-spongebob-squarepants-nighty-nightmare.json) |
+| SpongeBob SquarePants: The Fry Cook Games | 220115 | [220115-spongebob-squarepants-the-fry-cook-games.json](./220115-spongebob-squarepants-the-fry-cook-games.json) |
 | SpongeBob SquarePants: Titans of the Tide | 358751 | [358751-spongebob-squarepants-titans-of-the-tide.json](./358751-spongebob-squarepants-titans-of-the-tide.json) |
 | SpongeBob's Atlantis Squarepantis | 43312 | [43312-spongebobs-atlantis-squarepantis.json](./43312-spongebobs-atlantis-squarepantis.json) |
 | Spoofs Playland | 373552 | [373552-spoofs-playland.json](./373552-spoofs-playland.json) |
@@ -5058,6 +5070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sheffy World 2: The Quest for 5 Shells | 214773 | [214773-super-sheffy-world-2-the-quest-for-5-shells.json](./214773-super-sheffy-world-2-the-quest-for-5-shells.json) |
 | Super Sheffy World Deluxe | 214774 | [214774-super-sheffy-world-deluxe.json](./214774-super-sheffy-world-deluxe.json) |
 | Super Shootout | 360582 | [360582-super-shootout.json](./360582-super-shootout.json) |
+| Super Silly Makeover | 220124 | [220124-super-silly-makeover.json](./220124-super-silly-makeover.json) |
 | Super Sized Rescue Squad | 305764 | [305764-super-sized-rescue-squad.json](./305764-super-sized-rescue-squad.json) |
 | Super Sketchy Party | 167294 | [167294-super-sketchy-party.json](./167294-super-sketchy-party.json) |
 | Super Skyland | 175406 | [175406-super-skyland.json](./175406-super-skyland.json) |
@@ -5154,6 +5167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 1500: Crazy Balloon 2000 | 97323 | [97323-superlite-1500-crazy-balloon-2000.json](./97323-superlite-1500-crazy-balloon-2000.json) |
 | SuperLite 2000: Oekaki Puzzle | 386127 | [386127-superlite-2000-oekaki-puzzle.json](./386127-superlite-2000-oekaki-puzzle.json) |
 | Superman | 361718 | [361718-superman.json](./361718-superman.json) |
+| Superman in Supervillain Showdown | 220123 | [220123-superman-in-supervillain-showdown.json](./220123-superman-in-supervillain-showdown.json) |
 | Superman: Man of Steel | 264862 | [264862-superman-man-of-steel.json](./264862-superman-man-of-steel.json) |
 | Superman: The Mysterious Mr. Mist | 73324 | [73324-superman-the-mysterious-mr-mist.json](./73324-superman-the-mysterious-mr-mist.json) |
 | Supermarket | 329556 | [329556-supermarket.json](./329556-supermarket.json) |
