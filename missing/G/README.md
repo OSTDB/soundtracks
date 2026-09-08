@@ -400,10 +400,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genghis Khan | 308557 | [308557-genghis-khan.json](./308557-genghis-khan.json) |
 | Genies & Jewels - Puzzle Quest | 105940 | [105940-genies-and-jewels-puzzle-quest.json](./105940-genies-and-jewels-puzzle-quest.json) |
 | Gênio Fly | 241945 | [241945-genio-fly.json](./241945-genio-fly.json) |
+| Gênio Quiz | 240244 | [240244-genio-quiz.json](./240244-genio-quiz.json) |
 | Gênio Quiz Anitta | 241942 | [241942-genio-quiz-anitta.json](./241942-genio-quiz-anitta.json) |
 | Gênio Quiz BBB 21 | 241943 | [241943-genio-quiz-bbb-21.json](./241943-genio-quiz-bbb-21.json) |
 | Gênio Quiz Poke 2 | 241969 | [241969-genio-quiz-poke-2.json](./241969-genio-quiz-poke-2.json) |
 | Genital Jousting | 18387 | [18387-genital-jousting.json](./18387-genital-jousting.json) |
+| Genius Quiz | 240245 | [240245-genius-quiz.json](./240245-genius-quiz.json) |
+| Genius Quiz 1 | 240246 | [240246-genius-quiz-1.json](./240246-genius-quiz-1.json) |
 | Genius Quiz 10 | 241642 | [241642-genius-quiz-10.json](./241642-genius-quiz-10.json) |
 | Genius Quiz 11 | 241643 | [241643-genius-quiz-11.json](./241643-genius-quiz-11.json) |
 | Genius Quiz 12 | 241644 | [241644-genius-quiz-12.json](./241644-genius-quiz-12.json) |
