@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensou Tairiku Aurelia | 79293 | [79293-gensou-tairiku-aurelia.json](./79293-gensou-tairiku-aurelia.json) |
 | Gensouband | 252734 | [252734-gensouband.json](./252734-gensouband.json) |
 | Gent Stickman vs Evil Meat Hand | 290409 | [290409-gent-stickman-vs-evil-meat-hand.json](./290409-gent-stickman-vs-evil-meat-hand.json) |
+| Genzai: Serialization | 223428 | [223428-genzai-serialization.json](./223428-genzai-serialization.json) |
 | Geo Brain Boost! 50 U.S. States Silhouette Quiz | 399640 | [399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json](./399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json) |
 | Geo Mythica | 264315 | [264315-geo-mythica.json](./264315-geo-mythica.json) |
 | Geo-Political Simulator | 79943 | [79943-geo-political-simulator.json](./79943-geo-political-simulator.json) |
@@ -1055,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gordian Tomb | 73850 | [73850-gordian-tomb.json](./73850-gordian-tomb.json) |
 | Gordon and the Light Within | 334691 | [334691-gordon-and-the-light-within.json](./334691-gordon-and-the-light-within.json) |
 | Gore Crush | 323728 | [323728-gore-crush.json](./323728-gore-crush.json) |
+| Goreagulation | 223461 | [223461-goreagulation.json](./223461-goreagulation.json) |
 | Goremon | 249224 | [249224-goremon.json](./249224-goremon.json) |
 | Gorescript Classic | 81424 | [81424-gorescript-classic.json](./81424-gorescript-classic.json) |
 | Gorgon | 22411 | [22411-gorgon.json](./22411-gorgon.json) |
