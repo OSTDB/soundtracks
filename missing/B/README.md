@@ -1120,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Game 3D | 254747 | [254747-bike-game-3d.json](./254747-bike-game-3d.json) |
 | Bike Rush | 227508 | [227508-bike-rush.json](./227508-bike-rush.json) |
 | Bike Stunt Master | 105960 | [105960-bike-stunt-master.json](./105960-bike-stunt-master.json) |
+| Bike Unchained | 255737 | [255737-bike-unchained.json](./255737-bike-unchained.json) |
 | Bikeout | 244505 | [244505-bikeout.json](./244505-bikeout.json) |
 | Bikerz | 119018 | [119018-bikerz.json](./119018-bikerz.json) |
 | Bikini Balls 2: Christmas Edition | 216455 | [216455-bikini-balls-2-christmas-edition.json](./216455-bikini-balls-2-christmas-edition.json) |
@@ -2208,6 +2209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrickBounce | 273381 | [273381-brickbounce.json](./273381-brickbounce.json) |
 | Brickhaven | 273380 | [273380-brickhaven.json](./273380-brickhaven.json) |
 | Bricknosis | 391615 | [391615-bricknosis.json](./391615-bricknosis.json) |
+| Bricks King | 255756 | [255756-bricks-king.json](./255756-bricks-king.json) |
 | Bricks n Balls | 89246 | [89246-bricks-n-balls.json](./89246-bricks-n-balls.json) |
 | Bricksbumpbump | 325830 | [325830-bricksbumpbump.json](./325830-bricksbumpbump.json) |
 | Brickyard / Clowns | 93565 | [93565-brickyard-clowns.json](./93565-brickyard-clowns.json) |
@@ -2390,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug-o-Buster | 322985 | [322985-bug-o-buster.json](./322985-bug-o-buster.json) |
 | Bugdas | 113721 | [113721-bugdas.json](./113721-bugdas.json) |
 | Bugger Off! | 278712 | [278712-bugger-off.json](./278712-bugger-off.json) |
+| Buggle Blast | 255721 | [255721-buggle-blast.json](./255721-buggle-blast.json) |
 | Buggy Boogie | 66677 | [66677-buggy-boogie.json](./66677-buggy-boogie.json) |
 | Buggy Boy | 12728 | [12728-buggy-boy.json](./12728-buggy-boy.json) |
 | Buggy Off-Road Racing: Deluxe Edition | 308799 | [308799-buggy-off-road-racing-deluxe-edition.json](./308799-buggy-off-road-racing-deluxe-edition.json) |
