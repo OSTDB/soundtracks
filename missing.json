@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T20:48:31.945Z",
-  "total_missing": 48145,
+  "generated_at": "2026-09-08T20:51:01.081Z",
+  "total_missing": 48144,
   "games": [
     {
       "igdb_id": 306086,
@@ -301,11 +301,6 @@
       "igdb_id": 349879,
       "game_name": "100 Men vs 1 Gorilla",
       "file": "missing/0-9/349879-100-men-vs-1-gorilla.json"
-    },
-    {
-      "igdb_id": 247184,
-      "game_name": "100 Rooms of Enemies",
-      "file": "missing/0-9/247184-100-rooms-of-enemies.json"
     },
     {
       "igdb_id": 315291,
