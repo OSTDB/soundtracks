@@ -884,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo MP3 Player | 300369 | [300369-nintendo-mp3-player.json](./300369-nintendo-mp3-player.json) |
 | Nintendo Wars | 324081 | [324081-nintendo-wars.json](./324081-nintendo-wars.json) |
 | Nintendogs + Cats: French Bulldog & New Friends | 85600 | [85600-nintendogs-cats-french-bulldog-and-new-friends.json](./85600-nintendogs-cats-french-bulldog-and-new-friends.json) |
+| Nintendogs + Cats: Shiba Inu & New Friends | 222328 | [222328-nintendogs-cats-shiba-inu-and-new-friends.json](./222328-nintendogs-cats-shiba-inu-and-new-friends.json) |
 | Nintendogs: Best Friends | 47727 | [47727-nintendogs-best-friends.json](./47727-nintendogs-best-friends.json) |
 | Nioh 3: Bloody Insurrection | 411562 | [411562-nioh-3-bloody-insurrection.json](./411562-nioh-3-bloody-insurrection.json) |
 | Nioh 3: Hell Rising | 411561 | [411561-nioh-3-hell-rising.json](./411561-nioh-3-hell-rising.json) |
