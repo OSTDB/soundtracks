@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Burglar | 256835 | [256835-cat-burglar.json](./256835-cat-burglar.json) |
 | Cat Cafe 101 | 243115 | [243115-cat-cafe-101.json](./243115-cat-cafe-101.json) |
 | Cat Cafe Simulator | 301266 | [301266-cat-cafe-simulator.json](./301266-cat-cafe-simulator.json) |
+| Cat Cafe: Dessert Panic | 241991 | [241991-cat-cafe-dessert-panic.json](./241991-cat-cafe-dessert-panic.json) |
 | Cat Capacity | 173304 | [173304-cat-capacity.json](./173304-cat-capacity.json) |
 | Cat Chases Mouse | 406722 | [406722-cat-chases-mouse.json](./406722-cat-chases-mouse.json) |
 | Cat Doctor: For Loyal Servants | 396880 | [396880-cat-doctor-for-loyal-servants.json](./396880-cat-doctor-for-loyal-servants.json) |
@@ -2498,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croquet Pro 2 | 111728 | [111728-croquet-pro-2.json](./111728-croquet-pro-2.json) |
 | Cross and Crush | 89270 | [89270-cross-and-crush.json](./89270-cross-and-crush.json) |
 | Cross Impact | 250398 | [250398-cross-impact.json](./250398-cross-impact.json) |
+| Cross or Crash | 241993 | [241993-cross-or-crash.json](./241993-cross-or-crash.json) |
 | Cross Reunion | 237652 | [237652-cross-reunion.json](./237652-cross-reunion.json) |
 | Cross Seekers | 258987 | [258987-cross-seekers.json](./258987-cross-seekers.json) |
 | Crossbar Kevin | 246961 | [246961-crossbar-kevin.json](./246961-crossbar-kevin.json) |
@@ -2861,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Dodge | 42054 | [42054-cyber-dodge.json](./42054-cyber-dodge.json) |
 | Cyber Evolution | 372988 | [372988-cyber-evolution.json](./372988-cyber-evolution.json) |
 | Cyber Horror: Project S.Y.L.A. | 370110 | [370110-cyber-horror-project-s-y-l-a.json](./370110-cyber-horror-project-s-y-l-a.json) |
+| Cyber Lust | 241988 | [241988-cyber-lust.json](./241988-cyber-lust.json) |
 | Cyber Paranoia | 408058 | [408058-cyber-paranoia.json](./408058-cyber-paranoia.json) |
 | Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
 | Cyber Rats | 336523 | [336523-cyber-rats.json](./336523-cyber-rats.json) |
