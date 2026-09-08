@@ -817,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape IV - Prison Break | 90665 | [90665-escape-iv-prison-break.json](./90665-escape-iv-prison-break.json) |
 | Escape Lizards | 31903 | [31903-escape-lizards.json](./31903-escape-lizards.json) |
 | Escape Mystery-The Dark Fence | 237368 | [237368-escape-mystery-the-dark-fence.json](./237368-escape-mystery-the-dark-fence.json) |
+| Escape or Imprison | 227253 | [227253-escape-or-imprison.json](./227253-escape-or-imprison.json) |
 | Escape Party | 278419 | [278419-escape-party.json](./278419-escape-party.json) |
 | Escape Room Collection C1 | 295536 | [295536-escape-room-collection-c1.json](./295536-escape-room-collection-c1.json) |
 | Escape Room Mystery Adventure: Enchanting Tales | 152389 | [152389-escape-room-mystery-adventure-enchanting-tales.json](./152389-escape-room-mystery-adventure-enchanting-tales.json) |
