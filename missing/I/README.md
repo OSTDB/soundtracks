@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IHRA Drag Racing: Sportsman Edition | 20547 | [20547-ihra-drag-racing-sportsman-edition.json](./20547-ihra-drag-racing-sportsman-edition.json) |
 | II-III-V | 180808 | [180808-ii-iii-v.json](./180808-ii-iii-v.json) |
 | IIslands of War | 126162 | [126162-iislands-of-war.json](./126162-iislands-of-war.json) |
+| Iiwake Docchi!? | 251621 | [251621-iiwake-docchi.json](./251621-iiwake-docchi.json) |
 | Ijigen Kara no Dasshutsu: Escape from Twilight Zone | 97326 | [97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json](./97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json) |
 | IkachanDS | 339243 | [339243-ikachands.json](./339243-ikachands.json) |
 | Ikari III: The Rescue | 48054 | [48054-ikari-iii-the-rescue.json](./48054-ikari-iii-the-rescue.json) |
@@ -358,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imagine: Rescue Vet | 147432 | [147432-imagine-rescue-vet.json](./147432-imagine-rescue-vet.json) |
 | Imago | 97864 | [97864-imago.json](./97864-imago.json) |
 | iMake IcePops | 101554 | [101554-imake-icepops.json](./101554-imake-icepops.json) |
+| Imi ga Wakaru to Kowai Shashin | 251604 | [251604-imi-ga-wakaru-to-kowai-shashin.json](./251604-imi-ga-wakaru-to-kowai-shashin.json) |
 | iMimic: 80's Vintage Electronic Memory Game | 232142 | [232142-imimic-80s-vintage-electronic-memory-game.json](./232142-imimic-80s-vintage-electronic-memory-game.json) |
 | Imitating Zombies | 189191 | [189191-imitating-zombies.json](./189191-imitating-zombies.json) |
 | Immay | 253922 | [253922-immay.json](./253922-immay.json) |
