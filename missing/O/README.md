@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneBit Frogger | 209651 | [209651-onebit-frogger.json](./209651-onebit-frogger.json) |
 | Onechanbara Z: Kagura With NoNoNo! | 116359 | [116359-onechanbara-z-kagura-with-nonono.json](./116359-onechanbara-z-kagura-with-nonono.json) |
 | OneDayOne | 341505 | [341505-onedayone.json](./341505-onedayone.json) |
+| Onee-san ga Tabetai no ha Kimi no... | 251617 | [251617-onee-san-ga-tabetai-no-ha-kimi-no.json](./251617-onee-san-ga-tabetai-no-ha-kimi-no.json) |
 | Onefog Xonix | 98974 | [98974-onefog-xonix.json](./98974-onefog-xonix.json) |
 | Onegai AiPri | 396935 | [396935-onegai-aipri.json](./396935-onegai-aipri.json) |
 | Oneiro Man | 299779 | [299779-oneiro-man.json](./299779-oneiro-man.json) |
