@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Effigy | 218715 | [218715-effigy.json](./218715-effigy.json) |
 | Effortworld | 265655 | [265655-effortworld.json](./265655-effortworld.json) |
 | Effugium | 255954 | [255954-effugium.json](./255954-effugium.json) |
+| Effy: One of Unreasonable "If" | 236822 | [236822-effy-one-of-unreasonable-if.json](./236822-effy-one-of-unreasonable-if.json) |
 | Efi | 176508 | [176508-efi.json](./176508-efi.json) |
 | EFO: Escape From Outerworld | 165674 | [165674-efo-escape-from-outerworld.json](./165674-efo-escape-from-outerworld.json) |
 | Egg Drop Soup | 414301 | [414301-egg-drop-soup.json](./414301-egg-drop-soup.json) |
@@ -1064,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolve or Die | 373526 | [373526-evolve-or-die.json](./373526-evolve-or-die.json) |
 | Evolve: Mecha Squad | 309691 | [309691-evolve-mecha-squad.json](./309691-evolve-mecha-squad.json) |
 | Evoplasm | 309859 | [309859-evoplasm.json](./309859-evoplasm.json) |
+| Evorevo | 236839 | [236839-evorevo.json](./236839-evorevo.json) |
 | Evotales | 245884 | [245884-evotales.json](./245884-evotales.json) |
 | EvoWars.io | 241633 | [241633-evowars-io.json](./241633-evowars-io.json) |
 | EVR Race | 100172 | [100172-evr-race.json](./100172-evr-race.json) |
@@ -1130,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exoprimal: Witchdoctor Mega Man Set | 298330 | [298330-exoprimal-witchdoctor-mega-man-set.json](./298330-exoprimal-witchdoctor-mega-man-set.json) |
 | Exoprimal: Witchdoctor UFO Set | 256551 | [256551-exoprimal-witchdoctor-ufo-set.json](./256551-exoprimal-witchdoctor-ufo-set.json) |
 | Exoprimal: Zephyr Security Guard Set | 256548 | [256548-exoprimal-zephyr-security-guard-set.json](./256548-exoprimal-zephyr-security-guard-set.json) |
+| Exorcist 2: Crow Magic | 236845 | [236845-exorcist-2-crow-magic.json](./236845-exorcist-2-crow-magic.json) |
 | Exorcist Onmyoji | 304875 | [304875-exorcist-onmyoji.json](./304875-exorcist-onmyoji.json) |
 | Exorcist Simulator | 259005 | [259005-exorcist-simulator.json](./259005-exorcist-simulator.json) |
 | ExorSYS | 335245 | [335245-exorsys.json](./335245-exorsys.json) |
