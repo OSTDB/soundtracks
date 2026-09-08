@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Test | 126035 | [126035-johnny-test.json](./126035-johnny-test.json) |
 | Johnny Trigger: Gold Edition | 396919 | [396919-johnny-trigger-gold-edition.json](./396919-johnny-trigger-gold-edition.json) |
 | Johnny Trigger: Hotshot Edition | 283171 | [283171-johnny-trigger-hotshot-edition.json](./283171-johnny-trigger-hotshot-edition.json) |
+| Johny Explorer | 231358 | [231358-johny-explorer.json](./231358-johny-explorer.json) |
 | Join Us | 370723 | [370723-join-us.json](./370723-join-us.json) |
 | Joint Venture | 410221 | [410221-joint-venture.json](./410221-joint-venture.json) |
 | JoJo Siwa: Worldwide Party | 218722 | [218722-jojo-siwa-worldwide-party.json](./218722-jojo-siwa-worldwide-party.json) |
@@ -584,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Keep Running | 248325 | [248325-just-keep-running.json](./248325-just-keep-running.json) |
 | Just Kiss Him Already! | 225310 | [225310-just-kiss-him-already.json](./225310-just-kiss-him-already.json) |
 | Just Move On! | 329005 | [329005-just-move-on.json](./329005-just-move-on.json) |
+| Just One | 231354 | [231354-just-one.json](./231354-just-one.json) |
 | Just Plumbers in Hallowville | 287622 | [287622-just-plumbers-in-hallowville.json](./287622-just-plumbers-in-hallowville.json) |
 | Just Random Squares | 120394 | [120394-just-random-squares.json](./120394-just-random-squares.json) |
 | Just Shapes & Beats | 31194 | [31194-just-shapes-and-beats.json](./31194-just-shapes-and-beats.json) |
