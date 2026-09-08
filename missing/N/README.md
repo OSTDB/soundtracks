@@ -778,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Realms: Revolt | 254770 | [254770-nine-realms-revolt.json](./254770-nine-realms-revolt.json) |
 | Nine Rounds Rapid | 238718 | [238718-nine-rounds-rapid.json](./238718-nine-rounds-rapid.json) |
 | Nine to Five | 127353 | [127353-nine-to-five.json](./127353-nine-to-five.json) |
+| Nine Trials | 223989 | [223989-nine-trials.json](./223989-nine-trials.json) |
 | Nine Worlds | 150659 | [150659-nine-worlds.json](./150659-nine-worlds.json) |
 | Nineteen | 128654 | [128654-nineteen.json](./128654-nineteen.json) |
 | Ninety-Nine Nights Online | 66135 | [66135-ninety-nine-nights-online.json](./66135-ninety-nine-nights-online.json) |
@@ -786,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ningen Tower Battle | 346018 | [346018-ningen-tower-battle.json](./346018-ningen-tower-battle.json) |
 | Ningyou no Kizuato | 255112 | [255112-ningyou-no-kizuato.json](./255112-ningyou-no-kizuato.json) |
 | Ningyou Tsukai | 41407 | [41407-ningyou-tsukai.json](./41407-ningyou-tsukai.json) |
+| Ninja Arashi 2 | 223997 | [223997-ninja-arashi-2.json](./223997-ninja-arashi-2.json) |
 | Ninja Ball | 100192 | [100192-ninja-ball.json](./100192-ninja-ball.json) |
 | Ninja Battle Heroes | 24564 | [24564-ninja-battle-heroes.json](./24564-ninja-battle-heroes.json) |
 | Ninja Break | 203559 | [203559-ninja-break.json](./203559-ninja-break.json) |
@@ -1163,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Combat Ship | 252714 | [252714-nuclear-combat-ship.json](./252714-nuclear-combat-ship.json) |
 | Nuclear Contingency | 30963 | [30963-nuclear-contingency.json](./30963-nuclear-contingency.json) |
 | Nuclear Corps | 187519 | [187519-nuclear-corps.json](./187519-nuclear-corps.json) |
+| Nuclear Day | 223996 | [223996-nuclear-day.json](./223996-nuclear-day.json) |
 | Nuclear Engineer Tycoon | 414331 | [414331-nuclear-engineer-tycoon.json](./414331-nuclear-engineer-tycoon.json) |
 | Nuclear Inc 2 | 100862 | [100862-nuclear-inc-2.json](./100862-nuclear-inc-2.json) |
 | Nuclear Lizard Island Rampage | 318434 | [318434-nuclear-lizard-island-rampage.json](./318434-nuclear-lizard-island-rampage.json) |
@@ -1194,10 +1197,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numb: Just Don't Think About It | 255103 | [255103-numb-just-dont-think-about-it.json](./255103-numb-just-dont-think-about-it.json) |
 | Number Chain - Logic Puzzle | 96048 | [96048-number-chain-logic-puzzle.json](./96048-number-chain-logic-puzzle.json) |
 | Number Guesser | 97905 | [97905-number-guesser.json](./97905-number-guesser.json) |
+| Number Master | 223995 | [223995-number-master.json](./223995-number-master.json) |
 | Number Merge Mania | 358289 | [358289-number-merge-mania.json](./358289-number-merge-mania.json) |
 | Number Munchers | 128661 | [128661-number-munchers.json](./128661-number-munchers.json) |
 | Number Munchers | 50339 | [50339-number-munchers.json](./50339-number-munchers.json) |
 | Number One Rich | 158198 | [158198-number-one-rich.json](./158198-number-one-rich.json) |
+| Number Party | 223994 | [223994-number-party.json](./223994-number-party.json) |
 | Number Place Value Tutor | 108497 | [108497-number-place-value-tutor.json](./108497-number-place-value-tutor.json) |
 | Number Puzzler | 109042 | [109042-number-puzzler.json](./109042-number-puzzler.json) |
 | Number Slide Puzzle | 228106 | [228106-number-slide-puzzle.json](./228106-number-slide-puzzle.json) |
