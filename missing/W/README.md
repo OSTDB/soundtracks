@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waku Waku Sweets | 102782 | [102782-waku-waku-sweets.json](./102782-waku-waku-sweets.json) |
 | Waku Waku Sweets: Happy Sweets Making | 96093 | [96093-waku-waku-sweets-happy-sweets-making.json](./96093-waku-waku-sweets-happy-sweets-making.json) |
 | Waku-waku Ski Wonder Spur | 37770 | [37770-waku-waku-ski-wonder-spur.json](./37770-waku-waku-ski-wonder-spur.json) |
+| Waku-waku Ultraman Racing | 252170 | [252170-waku-waku-ultraman-racing.json](./252170-waku-waku-ultraman-racing.json) |
 | Wakugumi: Monochrome Puzzle | 85479 | [85479-wakugumi-monochrome-puzzle.json](./85479-wakugumi-monochrome-puzzle.json) |
 | Wales Interactive Publisher Bundle | 301564 | [301564-wales-interactive-publisher-bundle.json](./301564-wales-interactive-publisher-bundle.json) |
 | Walk Home | 183069 | [183069-walk-home.json](./183069-walk-home.json) |
@@ -422,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird Al's Great Adventure | 55933 | [55933-weird-als-great-adventure.json](./55933-weird-als-great-adventure.json) |
 | Weird Cities | 386698 | [386698-weird-cities.json](./386698-weird-cities.json) |
 | Weird Dreams | 12232 | [12232-weird-dreams.json](./12232-weird-dreams.json) |
+| Weird Store | 252135 | [252135-weird-store.json](./252135-weird-store.json) |
 | WeirdParisGame | 353872 | [353872-weirdparisgame.json](./353872-weirdparisgame.json) |
 | Weirdshine | 395557 | [395557-weirdshine.json](./395557-weirdshine.json) |
 | Wekele Wordle | 329557 | [329557-wekele-wordle.json](./329557-wekele-wordle.json) |
@@ -1007,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder of Blue | 345509 | [345509-wonder-of-blue.json](./345509-wonder-of-blue.json) |
 | Wonder Planet | 40245 | [40245-wonder-planet.json](./40245-wonder-planet.json) |
 | Wonder Wand | 304016 | [304016-wonder-wand.json](./304016-wonder-wand.json) |
+| Wonder Wars | 252180 | [252180-wonder-wars.json](./252180-wonder-wars.json) |
 | Wonder Wheel | 262979 | [262979-wonder-wheel.json](./262979-wonder-wheel.json) |
 | Wonder Wonder Punch | 273386 | [273386-wonder-wonder-punch.json](./273386-wonder-wonder-punch.json) |
 | Wonder World | 312547 | [312547-wonder-world.json](./312547-wonder-world.json) |
