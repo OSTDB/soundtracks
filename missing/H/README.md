@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Food Town | 249481 | [249481-hello-kitty-food-town.json](./249481-hello-kitty-food-town.json) |
 | Hello Kitty Jewel Town | 279607 | [279607-hello-kitty-jewel-town.json](./279607-hello-kitty-jewel-town.json) |
 | Hello Kitty Kruisers with Sanrio Friends | 62781 | [62781-hello-kitty-kruisers-with-sanrio-friends.json](./62781-hello-kitty-kruisers-with-sanrio-friends.json) |
+| Hello Kitty Lunchbox | 225660 | [225660-hello-kitty-lunchbox.json](./225660-hello-kitty-lunchbox.json) |
 | Hello Kitty no 'Otonaru' Mail | 279598 | [279598-hello-kitty-no-otonaru-mail.json](./279598-hello-kitty-no-otonaru-mail.json) |
 | Hello Kitty no Gotouchi Collection: Koi no Doki-doki Travel | 269832 | [269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json](./269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json) |
 | Hello Kitty no Happy Accessory | 279592 | [279592-hello-kitty-no-happy-accessory.json](./279592-hello-kitty-no-happy-accessory.json) |
