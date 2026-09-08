@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Incident | 41714 | [41714-zombie-incident.json](./41714-zombie-incident.json) |
 | Zombie Infection | 331340 | [331340-zombie-infection.json](./331340-zombie-infection.json) |
 | Zombie Killing Simulator | 103184 | [103184-zombie-killing-simulator.json](./103184-zombie-killing-simulator.json) |
+| Zombie Land | 239089 | [239089-zombie-land.json](./239089-zombie-land.json) |
 | Zombie Lane | 143126 | [143126-zombie-lane.json](./143126-zombie-lane.json) |
 | Zombie Lines | 415928 | [415928-zombie-lines.json](./415928-zombie-lines.json) |
 | Zombie Mansion | 218713 | [218713-zombie-mansion.json](./218713-zombie-mansion.json) |
