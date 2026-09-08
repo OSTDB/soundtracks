@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Office | 226445 | [226445-fantasy-office.json](./226445-fantasy-office.json) |
 | Fantasy Online 2 | 327624 | [327624-fantasy-online-2.json](./327624-fantasy-online-2.json) |
 | Fantasy Rivals | 63299 | [63299-fantasy-rivals.json](./63299-fantasy-rivals.json) |
+| Fantasy Shop | 238492 | [238492-fantasy-shop.json](./238492-fantasy-shop.json) |
 | Fantasy Smith VR | 115558 | [115558-fantasy-smith-vr.json](./115558-fantasy-smith-vr.json) |
 | Fantasy Tavern Simulator | 237088 | [237088-fantasy-tavern-simulator.json](./237088-fantasy-tavern-simulator.json) |
 | Fantasy Tower | 304617 | [304617-fantasy-tower.json](./304617-fantasy-tower.json) |
@@ -1175,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipz | 249455 | [249455-flipz.json](./249455-flipz.json) |
 | Flirt | 130362 | [130362-flirt.json](./130362-flirt.json) |
 | Flirting Island | 303786 | [303786-flirting-island.json](./303786-flirting-island.json) |
+| Flirting with Yasmine | 238479 | [238479-flirting-with-yasmine.json](./238479-flirting-with-yasmine.json) |
 | Flixy Cats | 165034 | [165034-flixy-cats.json](./165034-flixy-cats.json) |
 | Float: Champions | 257948 | [257948-float-champions.json](./257948-float-champions.json) |
 | Floating Cloud God: Anniversary Edition | 225881 | [225881-floating-cloud-god-anniversary-edition.json](./225881-floating-cloud-god-anniversary-edition.json) |
@@ -1516,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Apache | 132816 | [132816-fort-apache.json](./132816-fort-apache.json) |
 | Fort Driant | 271753 | [271753-fort-driant.json](./271753-fort-driant.json) |
 | Fort Solis: Limited Edition | 261540 | [261540-fort-solis-limited-edition.json](./261540-fort-solis-limited-edition.json) |
+| Fort Valen | 238501 | [238501-fort-valen.json](./238501-fort-valen.json) |
 | Fortissimo FA//Akkord:Nachsten Phase | 101597 | [101597-fortissimo-fa-akkord-nachsten-phase.json](./101597-fortissimo-fa-akkord-nachsten-phase.json) |
 | Fortnite Ballistic | 325281 | [325281-fortnite-ballistic.json](./325281-fortnite-ballistic.json) |
 | Fortnite Festival: Season 1 | 383943 | [383943-fortnite-festival-season-1.json](./383943-fortnite-festival-season-1.json) |
@@ -1823,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Age of Dinosaurs to the Edo Period: Tokio no Meiro - By Gentaro Kagawa | 396908 | [396908-from-the-age-of-dinosaurs-to-the-edo-period-tokio-no-meiro-by-gentaro-kagawa.json](./396908-from-the-age-of-dinosaurs-to-the-edo-period-tokio-no-meiro-by-gentaro-kagawa.json) |
 | From the Ashes | 224243 | [224243-from-the-ashes.json](./224243-from-the-ashes.json) |
 | From the Deep | 224240 | [224240-from-the-deep.json](./224240-from-the-deep.json) |
+| From the Streets to the Script: A Carabanchel Story | 238500 | [238500-from-the-streets-to-the-script-a-carabanchel-story.json](./238500-from-the-streets-to-the-script-a-carabanchel-story.json) |
 | Fromage | 326059 | [326059-fromage.json](./326059-fromage.json) |
 | Front Edge | 296065 | [296065-front-edge.json](./296065-front-edge.json) |
 | Front Mission 2: Remake | 191401 | [191401-front-mission-2-remake.json](./191401-front-mission-2-remake.json) |
