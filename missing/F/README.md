@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firework | 399603 | [399603-firework.json](./399603-firework.json) |
 | Firework Syndrome | 310756 | [310756-firework-syndrome.json](./310756-firework-syndrome.json) |
 | First | 377569 | [377569-first.json](./377569-first.json) |
+| First Bite: Bad Blood | 221167 | [221167-first-bite-bad-blood.json](./221167-first-bite-bad-blood.json) |
 | First Blood | 312895 | [312895-first-blood.json](./312895-first-blood.json) |
 | First Break | 293639 | [293639-first-break.json](./293639-first-break.json) |
 | First Christmas | 248907 | [248907-first-christmas.json](./248907-first-christmas.json) |
@@ -2053,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Fetishists | 286501 | [286501-furry-fetishists.json](./286501-furry-fetishists.json) |
 | Furry Futa | 239340 | [239340-furry-futa.json](./239340-furry-futa.json) |
 | Furry Hentai Quest | 192460 | [192460-furry-hentai-quest.json](./192460-furry-hentai-quest.json) |
+| Furry Love & Sex | 221197 | [221197-furry-love-and-sex.json](./221197-furry-love-and-sex.json) |
 | Furry Love 2 | 165026 | [165026-furry-love-2.json](./165026-furry-love-2.json) |
 | Furry Meow | 224241 | [224241-furry-meow.json](./224241-furry-meow.json) |
 | Furry Pride | 148570 | [148570-furry-pride.json](./148570-furry-pride.json) |
