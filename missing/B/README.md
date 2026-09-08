@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldy Dash | 314681 | [314681-baldy-dash.json](./314681-baldy-dash.json) |
 | Balkan Bloodbath | 310726 | [310726-balkan-bloodbath.json](./310726-balkan-bloodbath.json) |
 | Balkan Horror Tales | 330542 | [330542-balkan-horror-tales.json](./330542-balkan-horror-tales.json) |
+| Ball | 231388 | [231388-ball.json](./231388-ball.json) |
 | Ball Breaker 3D | 78036 | [78036-ball-breaker-3d.json](./78036-ball-breaker-3d.json) |
 | Ball Drop | 243703 | [243703-ball-drop.json](./243703-ball-drop.json) |
 | Ball Drop | 338188 | [338188-ball-drop.json](./338188-ball-drop.json) |
@@ -256,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloonacy! | 39043 | [39043-balloonacy.json](./39043-balloonacy.json) |
 | Balloons | 257936 | [257936-balloons.json](./257936-balloons.json) |
 | Balloony | 290439 | [290439-balloony.json](./290439-balloony.json) |
+| Ballotron Oceans | 231345 | [231345-ballotron-oceans.json](./231345-ballotron-oceans.json) |
 | Ballpoint Universe: Infinite | 16770 | [16770-ballpoint-universe-infinite.json](./16770-ballpoint-universe-infinite.json) |
 | BallRoll | 189184 | [189184-ballroll.json](./189184-ballroll.json) |
 | Balls 'n Ropes | 233507 | [233507-balls-n-ropes.json](./233507-balls-n-ropes.json) |
@@ -960,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10 Bundle | 146329 | [146329-ben-10-bundle.json](./146329-ben-10-bundle.json) |
 | Ben 10 Game Generator | 130941 | [130941-ben-10-game-generator.json](./130941-ben-10-game-generator.json) |
 | Ben 10 Triple Pack | 86074 | [86074-ben-10-triple-pack.json](./86074-ben-10-triple-pack.json) |
+| Ben 10 Ultimate Alien: Mind Mine | 231387 | [231387-ben-10-ultimate-alien-mind-mine.json](./231387-ben-10-ultimate-alien-mind-mine.json) |
 | Ben 10: 028 - Power Mod: High Jump | 363890 | [363890-ben-10-028-power-mod-high-jump.json](./363890-ben-10-028-power-mod-high-jump.json) |
 | Ben 10: 065 - Villain Defense: Smoke and Mirrors | 363869 | [363869-ben-10-065-villain-defense-smoke-and-mirrors.json](./363869-ben-10-065-villain-defense-smoke-and-mirrors.json) |
 | Ben 10: 066 - Villain Defense: Short Circuit | 363870 | [363870-ben-10-066-villain-defense-short-circuit.json](./363870-ben-10-066-villain-defense-short-circuit.json) |
@@ -2366,6 +2369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Sword: The Shadow of the Templars | 206502 | [206502-broken-sword-the-shadow-of-the-templars.json](./206502-broken-sword-the-shadow-of-the-templars.json) |
 | Broken Sword: The Shadow of the Templars | 206503 | [206503-broken-sword-the-shadow-of-the-templars.json](./206503-broken-sword-the-shadow-of-the-templars.json) |
 | Broken System | 236007 | [236007-broken-system.json](./236007-broken-system.json) |
+| Broken Universe + Brawl Chess | 231362 | [231362-broken-universe-brawl-chess.json](./231362-broken-universe-brawl-chess.json) |
 | Broken Voyage | 405471 | [405471-broken-voyage.json](./405471-broken-voyage.json) |
 | Broken War | 309136 | [309136-broken-war.json](./309136-broken-war.json) |
 | BrokenLore: Don't Lie | 370708 | [370708-brokenlore-dont-lie.json](./370708-brokenlore-dont-lie.json) |
