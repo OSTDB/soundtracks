@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Potion For Chamomile | 196859 | [196859-a-potion-for-chamomile.json](./196859-a-potion-for-chamomile.json) |
 | A Pretty Ornament I Made | 163457 | [163457-a-pretty-ornament-i-made.json](./163457-a-pretty-ornament-i-made.json) |
 | A Punk with Wheels 2 | 322343 | [322343-a-punk-with-wheels-2.json](./322343-a-punk-with-wheels-2.json) |
+| A Quest That Became Legend | 217294 | [217294-a-quest-that-became-legend.json](./217294-a-quest-that-became-legend.json) |
 | A Question of Scruples: The Computer Edition | 133441 | [133441-a-question-of-scruples-the-computer-edition.json](./133441-a-question-of-scruples-the-computer-edition.json) |
 | A Red Boat | 229918 | [229918-a-red-boat.json](./229918-a-red-boat.json) |
 | A Red Sky at Dawn | 183584 | [183584-a-red-sky-at-dawn.json](./183584-a-red-sky-at-dawn.json) |
@@ -204,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Spaceship Accident | 372446 | [372446-a-spaceship-accident.json](./372446-a-spaceship-accident.json) |
 | A Spooky Teaparty | 221172 | [221172-a-spooky-teaparty.json](./221172-a-spooky-teaparty.json) |
 | A Squire's Tale | 131616 | [131616-a-squires-tale.json](./131616-a-squires-tale.json) |
+| A Star of Chrome | 217332 | [217332-a-star-of-chrome.json](./217332-a-star-of-chrome.json) |
 | A Starspangled Zephyr | 179189 | [179189-a-starspangled-zephyr.json](./179189-a-starspangled-zephyr.json) |
 | A Steak Temple Panic: Chapter 2 - Welcome to Sanglinours | 226228 | [226228-a-steak-temple-panic-chapter-2-welcome-to-sanglinours.json](./226228-a-steak-temple-panic-chapter-2-welcome-to-sanglinours.json) |
 | A Storied Life: Tabitha | 362283 | [362283-a-storied-life-tabitha.json](./362283-a-storied-life-tabitha.json) |
@@ -1249,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Pro Football 2K8 | 5481 | [5481-all-pro-football-2k8.json](./5481-all-pro-football-2k8.json) |
 | All-Star Baseball 2003 | 11557 | [11557-all-star-baseball-2003.json](./11557-all-star-baseball-2003.json) |
 | All-Star Slammin' D-Ball | 43929 | [43929-all-star-slammin-d-ball.json](./43929-all-star-slammin-d-ball.json) |
+| Allakin | 217307 | [217307-allakin.json](./217307-allakin.json) |
 | Allan Border's Cricket | 77392 | [77392-allan-borders-cricket.json](./77392-allan-borders-cricket.json) |
 | Allan Poe's Nightmare | 112315 | [112315-allan-poes-nightmare.json](./112315-allan-poes-nightmare.json) |
 | Allegro Molto wo Hakobu Game | 339094 | [339094-allegro-molto-wo-hakobu-game.json](./339094-allegro-molto-wo-hakobu-game.json) |
@@ -2784,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automatica | 217013 | [217013-automatica.json](./217013-automatica.json) |
 | Automaton Heart | 317850 | [317850-automaton-heart.json](./317850-automaton-heart.json) |
 | Automatonics | 244263 | [244263-automatonics.json](./244263-automatonics.json) |
+| Automatrain | 217329 | [217329-automatrain.json](./217329-automatrain.json) |
 | Automobilista | 19442 | [19442-automobilista.json](./19442-automobilista.json) |
 | Automobilista 2: Adrenaline Pack Pt2 | 352745 | [352745-automobilista-2-adrenaline-pack-pt2.json](./352745-automobilista-2-adrenaline-pack-pt2.json) |
 | Automobilista 2: Endurance Pack Pt2 | 352739 | [352739-automobilista-2-endurance-pack-pt2.json](./352739-automobilista-2-endurance-pack-pt2.json) |
