@@ -808,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura: Estival Versus - Endless Summer Edition | 42677 | [42677-senran-kagura-estival-versus-endless-summer-edition.json](./42677-senran-kagura-estival-versus-endless-summer-edition.json) |
 | Senran Meisuishu Tactics | 83548 | [83548-senran-meisuishu-tactics.json](./83548-senran-meisuishu-tactics.json) |
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
+| Sensations | 252733 | [252733-sensations.json](./252733-sensations.json) |
 | Sensible Train-Spotting | 77374 | [77374-sensible-train-spotting.json](./77374-sensible-train-spotting.json) |
 | Sensitive | 320188 | [320188-sensitive.json](./320188-sensitive.json) |
 | Sensory Deprivation Chamber | 262088 | [262088-sensory-deprivation-chamber.json](./262088-sensory-deprivation-chamber.json) |
@@ -1005,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Tactics: Blades of the Shogun | 19085 | [19085-shadow-tactics-blades-of-the-shogun.json](./19085-shadow-tactics-blades-of-the-shogun.json) |
 | Shadow Tactics: Blades of the Shogun - Deluxe Edition | 331845 | [331845-shadow-tactics-blades-of-the-shogun-deluxe-edition.json](./331845-shadow-tactics-blades-of-the-shogun-deluxe-edition.json) |
 | Shadow Touched | 294136 | [294136-shadow-touched.json](./294136-shadow-touched.json) |
+| Shadow Walker | 252726 | [252726-shadow-walker.json](./252726-shadow-walker.json) |
 | Shadow Warren | 356631 | [356631-shadow-warren.json](./356631-shadow-warren.json) |
 | Shadow Warrior 2: Bounty Hunt Part 1 | 27876 | [27876-shadow-warrior-2-bounty-hunt-part-1.json](./27876-shadow-warrior-2-bounty-hunt-part-1.json) |
 | Shadow Warrior 2: Special Reserve Collector's Edition | 25772 | [25772-shadow-warrior-2-special-reserve-collectors-edition.json](./25772-shadow-warrior-2-special-reserve-collectors-edition.json) |
@@ -2913,6 +2915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Spartans | 5700 | [5700-space-spartans.json](./5700-space-spartans.json) |
 | Space Station Loma: Operations | 29841 | [29841-space-station-loma-operations.json](./29841-space-station-loma-operations.json) |
 | Space Station Proto Speedmap Jam | 300420 | [300420-space-station-proto-speedmap-jam.json](./300420-space-station-proto-speedmap-jam.json) |
+| Space Stranger | 252730 | [252730-space-stranger.json](./252730-space-stranger.json) |
 | Space Subtraction | 310971 | [310971-space-subtraction.json](./310971-space-subtraction.json) |
 | Space Theory | 203544 | [203544-space-theory.json](./203544-space-theory.json) |
 | Space Thinger | 34471 | [34471-space-thinger.json](./34471-space-thinger.json) |
