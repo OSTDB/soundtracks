@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyria Revolution: Limited Edition | 138813 | [138813-valkyria-revolution-limited-edition.json](./138813-valkyria-revolution-limited-edition.json) |
 | Valkyria Revolution: Scenario Pack - The Circle of Five | 138816 | [138816-valkyria-revolution-scenario-pack-the-circle-of-five.json](./138816-valkyria-revolution-scenario-pack-the-circle-of-five.json) |
 | Valkyrie Blade VR | 28891 | [28891-valkyrie-blade-vr.json](./28891-valkyrie-blade-vr.json) |
+| Valkyrie Champions | 215675 | [215675-valkyrie-champions.json](./215675-valkyrie-champions.json) |
 | Valkyrie Drive: Bhikkhuni - Liberator's Edition | 42678 | [42678-valkyrie-drive-bhikkhuni-liberators-edition.json](./42678-valkyrie-drive-bhikkhuni-liberators-edition.json) |
 | Valkyrie Svia | 109002 | [109002-valkyrie-svia.json](./109002-valkyrie-svia.json) |
 | Valkyrie: Journey to Midgard | 165671 | [165671-valkyrie-journey-to-midgard.json](./165671-valkyrie-journey-to-midgard.json) |
@@ -252,10 +253,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venture’s Gauntlet VR: Multiplayer Update | 306960 | [306960-venture-s-gauntlet-vr-multiplayer-update.json](./306960-venture-s-gauntlet-vr-multiplayer-update.json) |
 | Venturous in the Footsteps of the Fallen | 269565 | [269565-venturous-in-the-footsteps-of-the-fallen.json](./269565-venturous-in-the-footsteps-of-the-fallen.json) |
 | Venus Flytraps | 234593 | [234593-venus-flytraps.json](./234593-venus-flytraps.json) |
+| Venus in Furs: Sensual Pleasure | 215674 | [215674-venus-in-furs-sensual-pleasure.json](./215674-venus-in-furs-sensual-pleasure.json) |
 | Venus in Transit | 395581 | [395581-venus-in-transit.json](./395581-venus-in-transit.json) |
 | Venus One: Galactic Overlords | 253602 | [253602-venus-one-galactic-overlords.json](./253602-venus-one-galactic-overlords.json) |
 | Venus Puzzles | 272572 | [272572-venus-puzzles.json](./272572-venus-puzzles.json) |
 | Venus Voyager 2 | 292882 | [292882-venus-voyager-2.json](./292882-venus-voyager-2.json) |
+| Vera: The Last Hope | 215673 | [215673-vera-the-last-hope.json](./215673-vera-the-last-hope.json) |
 | Verald Defense | 53874 | [53874-verald-defense.json](./53874-verald-defense.json) |
 | Veredilia: The Sacred Forest | 265932 | [265932-veredilia-the-sacred-forest.json](./265932-veredilia-the-sacred-forest.json) |
 | Verfall | 338572 | [338572-verfall.json](./338572-verfall.json) |
@@ -379,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villainous | 319976 | [319976-villainous.json](./319976-villainous.json) |
 | Villains Corp. | 252136 | [252136-villains-corp.json](./252136-villains-corp.json) |
 | Vilmonic | 33104 | [33104-vilmonic.json](./33104-vilmonic.json) |
+| Vilomah | 215672 | [215672-vilomah.json](./215672-vilomah.json) |
 | Vilovejets | 413657 | [413657-vilovejets.json](./413657-vilovejets.json) |
 | Vilzam: Cosmic Struggle | 265649 | [265649-vilzam-cosmic-struggle.json](./265649-vilzam-cosmic-struggle.json) |
 | Vincemus: Air Combat | 195259 | [195259-vincemus-air-combat.json](./195259-vincemus-air-combat.json) |
@@ -521,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Climber | 316062 | [316062-void-climber.json](./316062-void-climber.json) |
 | Void Destroyer 2: Ashes | 168377 | [168377-void-destroyer-2-ashes.json](./168377-void-destroyer-2-ashes.json) |
 | Void Destroyer 2: Big Red | 168376 | [168376-void-destroyer-2-big-red.json](./168376-void-destroyer-2-big-red.json) |
+| Void Eagle | 215671 | [215671-void-eagle.json](./215671-void-eagle.json) |
 | Void Encounter | 172185 | [172185-void-encounter.json](./172185-void-encounter.json) |
 | Void Guard | 277276 | [277276-void-guard.json](./277276-void-guard.json) |
 | Void Inside | 282023 | [282023-void-inside.json](./282023-void-inside.json) |
