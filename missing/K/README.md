@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi to Mezameru Ikutsuka no Houhou | 398997 | [398997-kimi-to-mezameru-ikutsuka-no-houhou.json](./398997-kimi-to-mezameru-ikutsuka-no-houhou.json) |
 | Kin and Conquest | 400228 | [400228-kin-and-conquest.json](./400228-kin-and-conquest.json) |
 | Kinacoustic | 33093 | [33093-kinacoustic.json](./33093-kinacoustic.json) |
+| Kind Nature | 250958 | [250958-kind-nature.json](./250958-kind-nature.json) |
 | Kindan no Jikobukken | 260690 | [260690-kindan-no-jikobukken.json](./260690-kindan-no-jikobukken.json) |
 | KindergarTen 3: The Basement | 290696 | [290696-kindergarten-3-the-basement.json](./290696-kindergarten-3-the-basement.json) |
 | Kindred Spirits Complete Collection | 53240 | [53240-kindred-spirits-complete-collection.json](./53240-kindred-spirits-complete-collection.json) |
