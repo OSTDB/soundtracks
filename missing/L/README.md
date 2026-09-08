@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Las Vegas Roulette | 47278 | [47278-las-vegas-roulette.json](./47278-las-vegas-roulette.json) |
 | Laser | 322581 | [322581-laser.json](./322581-laser.json) |
 | Laser Blaster | 58252 | [58252-laser-blaster.json](./58252-laser-blaster.json) |
+| Laser Cat Craft | 244803 | [244803-laser-cat-craft.json](./244803-laser-cat-craft.json) |
 | Laser Dreams | 58267 | [58267-laser-dreams.json](./58267-laser-dreams.json) |
 | Laser Droplets | 159870 | [159870-laser-droplets.json](./159870-laser-droplets.json) |
 | Laser Fortress | 318757 | [318757-laser-fortress.json](./318757-laser-fortress.json) |
@@ -1128,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Time | 23050 | [23050-lords-of-time.json](./23050-lords-of-time.json) |
 | Lore Restore | 368477 | [368477-lore-restore.json](./368477-lore-restore.json) |
 | Lore: Aftermath | 69274 | [69274-lore-aftermath.json](./69274-lore-aftermath.json) |
+| Lore: Curse of the Elemental | 244770 | [244770-lore-curse-of-the-elemental.json](./244770-lore-curse-of-the-elemental.json) |
 | Loree 3D | 412950 | [412950-loree-3d.json](./412950-loree-3d.json) |
 | Loren the Amazon Princess: The Castle Of N'Mar | 171634 | [171634-loren-the-amazon-princess-the-castle-of-nmar.json](./171634-loren-the-amazon-princess-the-castle-of-nmar.json) |
 | Lorerim | 383387 | [383387-lorerim.json](./383387-lorerim.json) |
