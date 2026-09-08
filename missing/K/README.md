@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kayaks Don't Climb | 355550 | [355550-kayaks-dont-climb.json](./355550-kayaks-dont-climb.json) |
 | Kaze no Keishousha | 408763 | [408763-kaze-no-keishousha.json](./408763-kaze-no-keishousha.json) |
 | Kazekao | 340786 | [340786-kazekao.json](./340786-kazekao.json) |
+| Kazoku Keikaku Soshite Mata Kazoku Keikaku o | 237408 | [237408-kazoku-keikaku-soshite-mata-kazoku-keikaku-o.json](./237408-kazoku-keikaku-soshite-mata-kazoku-keikaku-o.json) |
 | Kazoku Minna no Nouryoku Trainer | 327595 | [327595-kazoku-minna-no-nouryoku-trainer.json](./327595-kazoku-minna-no-nouryoku-trainer.json) |
 | Kazuma Kaneko's Tsukuyomi: Digital Deluxe Edition | 390532 | [390532-kazuma-kanekos-tsukuyomi-digital-deluxe-edition.json](./390532-kazuma-kanekos-tsukuyomi-digital-deluxe-edition.json) |
 | KDice | 56512 | [56512-kdice.json](./56512-kdice.json) |
