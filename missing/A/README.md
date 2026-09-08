@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Passive Boy at the Huntress Clinic | 232425 | [232425-a-passive-boy-at-the-huntress-clinic.json](./232425-a-passive-boy-at-the-huntress-clinic.json) |
 | A Passive Boy at the Huntress Clinic | 240215 | [240215-a-passive-boy-at-the-huntress-clinic.json](./240215-a-passive-boy-at-the-huntress-clinic.json) |
 | A Past and Future Secret | 271200 | [271200-a-past-and-future-secret.json](./271200-a-past-and-future-secret.json) |
+| A Path to the Princess | 224586 | [224586-a-path-to-the-princess.json](./224586-a-path-to-the-princess.json) |
 | A Phone Found in Tall Grass | 245025 | [245025-a-phone-found-in-tall-grass.json](./245025-a-phone-found-in-tall-grass.json) |
 | A Platformer for Ants | 82150 | [82150-a-platformer-for-ants.json](./82150-a-platformer-for-ants.json) |
 | A Plumber for All Seasons | 204718 | [204718-a-plumber-for-all-seasons.json](./204718-a-plumber-for-all-seasons.json) |
@@ -1562,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angler's World | 217019 | [217019-anglers-world.json](./217019-anglers-world.json) |
 | Angrbotha Mountains | 239668 | [239668-angrbotha-mountains.json](./239668-angrbotha-mountains.json) |
 | Angriest Whopper Game | 237940 | [237940-angriest-whopper-game.json](./237940-angriest-whopper-game.json) |
+| Angry Angus | 224540 | [224540-angry-angus.json](./224540-angry-angus.json) |
 | Angry Barry | 67987 | [67987-angry-barry.json](./67987-angry-barry.json) |
 | Angry Battalion | 330191 | [330191-angry-battalion.json](./330191-angry-battalion.json) |
 | Angry Birds | 2035 | [2035-angry-birds.json](./2035-angry-birds.json) |
@@ -2124,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Breakout: Season 5 - Road to Gold | 318419 | [318419-arena-breakout-season-5-road-to-gold.json](./318419-arena-breakout-season-5-road-to-gold.json) |
 | Arena Breakout: Season 6 - Operation Blackout | 320181 | [320181-arena-breakout-season-6-operation-blackout.json](./320181-arena-breakout-season-6-operation-blackout.json) |
 | Arena Brutal | 197913 | [197913-arena-brutal.json](./197913-arena-brutal.json) |
+| Arena Champion | 224588 | [224588-arena-champion.json](./224588-arena-champion.json) |
 | Arena Constellation | 295012 | [295012-arena-constellation.json](./295012-arena-constellation.json) |
 | Arena Football | 5731 | [5731-arena-football.json](./5731-arena-football.json) |
 | Arena Kingdoms | 265690 | [265690-arena-kingdoms.json](./265690-arena-kingdoms.json) |
