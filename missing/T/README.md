@@ -611,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tengu no Kassha: Shoot and Embodiment! | 342037 | [342037-tengu-no-kassha-shoot-and-embodiment.json](./342037-tengu-no-kassha-shoot-and-embodiment.json) |
 | Tenioha! feat. Mami | 263741 | [263741-tenioha-feat-mami.json](./263741-tenioha-feat-mami.json) |
 | Tennis Antics | 54426 | [54426-tennis-antics.json](./54426-tennis-antics.json) |
+| Tennis Challenge | 230845 | [230845-tennis-challenge.json](./230845-tennis-challenge.json) |
 | Tennis Champs Returns | 58823 | [58823-tennis-champs-returns.json](./58823-tennis-champs-returns.json) |
 | Tennis Club Story | 134020 | [134020-tennis-club-story.json](./134020-tennis-club-story.json) |
 | Tennis Game in Roaring ’20s | 248064 | [248064-tennis-game-in-roaring-20s.json](./248064-tennis-game-in-roaring-20s.json) |
@@ -2520,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Yard Charm Kit | 404230 | [404230-the-sims-4-yard-charm-kit.json](./404230-the-sims-4-yard-charm-kit.json) |
 | The Sims Bustin' Out | 4151 | [4151-the-sims-bustin-out.json](./4151-the-sims-bustin-out.json) |
 | The Sims: Legacy Collection | 329954 | [329954-the-sims-legacy-collection.json](./329954-the-sims-legacy-collection.json) |
+| The Simulacrum | 230858 | [230858-the-simulacrum.json](./230858-the-simulacrum.json) |
 | The Simuloid Affair: Infinite Possibilities | 300692 | [300692-the-simuloid-affair-infinite-possibilities.json](./300692-the-simuloid-affair-infinite-possibilities.json) |
 | The Sinking City 2 | 289696 | [289696-the-sinking-city-2.json](./289696-the-sinking-city-2.json) |
 | The Sinking City: Investigator Pack | 308567 | [308567-the-sinking-city-investigator-pack.json](./308567-the-sinking-city-investigator-pack.json) |
@@ -4808,4 +4810,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyranny: Gold Edition | 154526 | [154526-tyranny-gold-edition.json](./154526-tyranny-gold-edition.json) |
 | Tyrant Quest: Gold Edition | 197406 | [197406-tyrant-quest-gold-edition.json](./197406-tyrant-quest-gold-edition.json) |
 | Tyrant Tactics: Birth of Revolution | 398970 | [398970-tyrant-tactics-birth-of-revolution.json](./398970-tyrant-tactics-birth-of-revolution.json) |
+| Tyrant's Blessing: Deluxe Edition | 230818 | [230818-tyrants-blessing-deluxe-edition.json](./230818-tyrants-blessing-deluxe-edition.json) |
 | Tzompantli | 30941 | [30941-tzompantli.json](./30941-tzompantli.json) |
