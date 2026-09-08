@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Express Chaldea | 339113 | [339113-galaxy-express-chaldea.json](./339113-galaxy-express-chaldea.json) |
 | Galaxy Game | 11396 | [11396-galaxy-game.json](./11396-galaxy-game.json) |
 | Galaxy Hero H2H | 233207 | [233207-galaxy-hero-h2h.json](./233207-galaxy-hero-h2h.json) |
+| Galaxy Hordes | 258978 | [258978-galaxy-hordes.json](./258978-galaxy-hordes.json) |
 | Galaxy Hunter: Into the Portal | 137639 | [137639-galaxy-hunter-into-the-portal.json](./137639-galaxy-hunter-into-the-portal.json) |
 | Galaxy Invader 1000 | 47282 | [47282-galaxy-invader-1000.json](./47282-galaxy-invader-1000.json) |
 | Galaxy Life | 324894 | [324894-galaxy-life.json](./324894-galaxy-life.json) |
@@ -980,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gore Crush | 323728 | [323728-gore-crush.json](./323728-gore-crush.json) |
 | Gorescript Classic | 81424 | [81424-gorescript-classic.json](./81424-gorescript-classic.json) |
 | Gorgon | 22411 | [22411-gorgon.json](./22411-gorgon.json) |
+| Gorgon Shield | 259018 | [259018-gorgon-shield.json](./259018-gorgon-shield.json) |
 | Gorgonia: A Gorgon's Tragedy | 326975 | [326975-gorgonia-a-gorgons-tragedy.json](./326975-gorgonia-a-gorgons-tragedy.json) |
 | Gori: Cuddly Carnage - Special Edition | 315867 | [315867-gori-cuddly-carnage-special-edition.json](./315867-gori-cuddly-carnage-special-edition.json) |
 | Gori: Cuddly Carnage: Catbox Skin Pack | 357268 | [357268-gori-cuddly-carnage-catbox-skin-pack.json](./357268-gori-cuddly-carnage-catbox-skin-pack.json) |
