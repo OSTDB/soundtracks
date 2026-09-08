@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galdia | 343250 | [343250-galdia.json](./343250-galdia.json) |
 | GALDR | 307585 | [307585-galdr.json](./307585-galdr.json) |
 | Galer: Plague of Heroes | 31924 | [31924-galer-plague-of-heroes.json](./31924-galer-plague-of-heroes.json) |
+| Galga | 227882 | [227882-galga.json](./227882-galga.json) |
 | Gallagant | 287652 | [287652-gallagant.json](./287652-gallagant.json) |
 | Galleon | 5843 | [5843-galleon.json](./5843-galleon.json) |
 | Gallerie | 392169 | [392169-gallerie.json](./392169-gallerie.json) |
