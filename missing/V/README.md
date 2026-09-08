@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Clans | 216493 | [216493-vampire-clans.json](./216493-vampire-clans.json) |
 | Vampire Crystals: Rebirth | 85471 | [85471-vampire-crystals-rebirth.json](./85471-vampire-crystals-rebirth.json) |
 | Vampire Domain | 319020 | [319020-vampire-domain.json](./319020-vampire-domain.json) |
+| Vampire Girls | 243152 | [243152-vampire-girls.json](./243152-vampire-girls.json) |
 | Vampire Hunters | 244759 | [244759-vampire-hunters.json](./244759-vampire-hunters.json) |
 | Vampire Killer | 1115 | [1115-vampire-killer.json](./1115-vampire-killer.json) |
 | Vampire Knight DS | 69290 | [69290-vampire-knight-ds.json](./69290-vampire-knight-ds.json) |
