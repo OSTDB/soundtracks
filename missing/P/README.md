@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Lust 2 | 253369 | [253369-paradise-lust-2.json](./253369-paradise-lust-2.json) |
 | Paradise Shooting 2!! | 311808 | [311808-paradise-shooting-2.json](./311808-paradise-shooting-2.json) |
 | Paradise Story | 233761 | [233761-paradise-story.json](./233761-paradise-story.json) |
+| Paradise Tomb | 224560 | [224560-paradise-tomb.json](./224560-paradise-tomb.json) |
 | Paradise Up Above: Gold Label Edition | 311462 | [311462-paradise-up-above-gold-label-edition.json](./311462-paradise-up-above-gold-label-edition.json) |
 | Paradox Lost | 330161 | [330161-paradox-lost.json](./330161-paradox-lost.json) |
 | Paradox of the Cryptomancers | 99622 | [99622-paradox-of-the-cryptomancers.json](./99622-paradox-of-the-cryptomancers.json) |
@@ -1495,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poetry, wine and sword | 158186 | [158186-poetry-wine-and-sword.json](./158186-poetry-wine-and-sword.json) |
 | Pogglewash | 249504 | [249504-pogglewash.json](./249504-pogglewash.json) |
 | Pogo Knight | 320566 | [320566-pogo-knight.json](./320566-pogo-knight.json) |
+| Pogo Party | 224587 | [224587-pogo-party.json](./224587-pogo-party.json) |
 | Pogo-Gogo | 291784 | [291784-pogo-gogo.json](./291784-pogo-gogo.json) |
 | Pogo-Rocket | 154030 | [154030-pogo-rocket.json](./154030-pogo-rocket.json) |
 | Pogo3D | 259015 | [259015-pogo3d.json](./259015-pogo3d.json) |
@@ -1673,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Kingdom: Siege | 270947 | [270947-poly-kingdom-siege.json](./270947-poly-kingdom-siege.json) |
 | Poly Link: RPG Girls | 215397 | [215397-poly-link-rpg-girls.json](./215397-poly-link-rpg-girls.json) |
 | Poly Memory: Birds | 195786 | [195786-poly-memory-birds.json](./195786-poly-memory-birds.json) |
+| Poly Memory: Dinosaurs | 224592 | [224592-poly-memory-dinosaurs.json](./224592-poly-memory-dinosaurs.json) |
 | Poly Memory: Primates | 210878 | [210878-poly-memory-primates.json](./210878-poly-memory-primates.json) |
 | Poly Racing | 173290 | [173290-poly-racing.json](./173290-poly-racing.json) |
 | Poly Squad | 149076 | [149076-poly-squad.json](./149076-poly-squad.json) |
@@ -2608,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzler Clover | 69300 | [69300-puzzler-clover.json](./69300-puzzler-clover.json) |
 | Puzzlerio | 270945 | [270945-puzzlerio.json](./270945-puzzlerio.json) |
 | Puzzles & Chaos | 301582 | [301582-puzzles-and-chaos.json](./301582-puzzles-and-chaos.json) |
+| Puzzline | 224541 | [224541-puzzline.json](./224541-puzzline.json) |
 | Puzzling Places: All Puzzles of 2024 Bundle | 353878 | [353878-puzzling-places-all-puzzles-of-2024-bundle.json](./353878-puzzling-places-all-puzzles-of-2024-bundle.json) |
 | Puzzling Places: Cityscapes Bundle | 353888 | [353888-puzzling-places-cityscapes-bundle.json](./353888-puzzling-places-cityscapes-bundle.json) |
 | Puzzling Places: Cozy Rooms Bundle | 353889 | [353889-puzzling-places-cozy-rooms-bundle.json](./353889-puzzling-places-cozy-rooms-bundle.json) |
