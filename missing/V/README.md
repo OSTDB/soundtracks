@@ -208,6 +208,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vellum | 273394 | [273394-vellum.json](./273394-vellum.json) |
 | Velocide Overdrive | 393501 | [393501-velocide-overdrive.json](./393501-velocide-overdrive.json) |
 | Velocidevorium | 96765 | [96765-velocidevorium.json](./96765-velocidevorium.json) |
+| Velocity 2X: Critical Urgency DLC Pack | 250375 | [250375-velocity-2x-critical-urgency-dlc-pack.json](./250375-velocity-2x-critical-urgency-dlc-pack.json) |
+| Velocity 2X: Daily Sprint | 250380 | [250380-velocity-2x-daily-sprint.json](./250380-velocity-2x-daily-sprint.json) |
+| Velocity 2X: Dual Core DLC Pack | 250377 | [250377-velocity-2x-dual-core-dlc-pack.json](./250377-velocity-2x-dual-core-dlc-pack.json) |
 | Velocity Classics: Volume 1 | 84252 | [84252-velocity-classics-volume-1.json](./84252-velocity-classics-volume-1.json) |
 | Velocity Rush | 338574 | [338574-velocity-rush.json](./338574-velocity-rush.json) |
 | Velocity Uncapped | 411614 | [411614-velocity-uncapped.json](./411614-velocity-uncapped.json) |
