@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainy Butcher | 211937 | [211937-rainy-butcher.json](./211937-rainy-butcher.json) |
 | Rainy Day | 341312 | [341312-rainy-day.json](./341312-rainy-day.json) |
 | Rainy Day Spider Solitaire HD | 354996 | [354996-rainy-day-spider-solitaire-hd.json](./354996-rainy-day-spider-solitaire-hd.json) |
+| RainyCloud | 224542 | [224542-rainycloud.json](./224542-rainycloud.json) |
 | Rainyday | 67905 | [67905-rainyday.json](./67905-rainyday.json) |
 | Raiohgar: Asuka and the King of Steel | 126816 | [126816-raiohgar-asuka-and-the-king-of-steel.json](./126816-raiohgar-asuka-and-the-king-of-steel.json) |
 | Raios Funde | 245012 | [245012-raios-funde.json](./245012-raios-funde.json) |
@@ -568,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Machina Teaser: ThoughtJudger | 270939 | [270939-red-machina-teaser-thoughtjudger.json](./270939-red-machina-teaser-thoughtjudger.json) |
 | Red Matter 2 | 198227 | [198227-red-matter-2.json](./198227-red-matter-2.json) |
 | Red points | 111735 | [111735-red-points.json](./111735-red-points.json) |
+| Red Rebellion | 224554 | [224554-red-rebellion.json](./224554-red-rebellion.json) |
 | Red Riding Hood | 225309 | [225309-red-riding-hood.json](./225309-red-riding-hood.json) |
 | Red Rope: Don't Fall Behind + | 147950 | [147950-red-rope-dont-fall-behind.json](./147950-red-rope-dont-fall-behind.json) |
 | Red Rose Rising | 102202 | [102202-red-rose-rising.json](./102202-red-rose-rising.json) |
@@ -908,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return Ace | 195759 | [195759-return-ace.json](./195759-return-ace.json) |
 | Return of the Phantom | 69869 | [69869-return-of-the-phantom.json](./69869-return-of-the-phantom.json) |
 | Return of the Saiyans | 237407 | [237407-return-of-the-saiyans.json](./237407-return-of-the-saiyans.json) |
+| Return the Backrooms | 224561 | [224561-return-the-backrooms.json](./224561-return-the-backrooms.json) |
 | Return to Abyss | 233251 | [233251-return-to-abyss.json](./233251-return-to-abyss.json) |
 | Return to Castle Wolfenstein: Tides of War | 77220 | [77220-return-to-castle-wolfenstein-tides-of-war.json](./77220-return-to-castle-wolfenstein-tides-of-war.json) |
 | Return to Dust | 271737 | [271737-return-to-dust.json](./271737-return-to-dust.json) |
@@ -1829,6 +1832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Crabby Run | 54462 | [54462-run-crabby-run.json](./54462-run-crabby-run.json) |
 | Run Fairy | 111014 | [111014-run-fairy.json](./111014-run-fairy.json) |
 | Run for Cheese | 174356 | [174356-run-for-cheese.json](./174356-run-for-cheese.json) |
+| Run Foxy, Run! | 224543 | [224543-run-foxy-run.json](./224543-run-foxy-run.json) |
 | Run from Bubol Horror | 359990 | [359990-run-from-bubol-horror.json](./359990-run-from-bubol-horror.json) |
 | Run Gor | 270932 | [270932-run-gor.json](./270932-run-gor.json) |
 | Run Hunter Run | 96086 | [96086-run-hunter-run.json](./96086-run-hunter-run.json) |
