@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search & Find: Hidden Objects | 264637 | [264637-search-and-find-hidden-objects.json](./264637-search-and-find-hidden-objects.json) |
 | Search All: Balls | 291475 | [291475-search-all-balls.json](./291475-search-all-balls.json) |
 | Search All: Bones | 387338 | [387338-search-all-bones.json](./387338-search-all-bones.json) |
+| Search All: UFO | 249800 | [249800-search-all-ufo.json](./249800-search-all-ufo.json) |
 | Search and Rescue: Snowman From Outer Space | 301271 | [301271-search-and-rescue-snowman-from-outer-space.json](./301271-search-and-rescue-snowman-from-outer-space.json) |
 | Search for the Secret Keys | 69885 | [69885-search-for-the-secret-keys.json](./69885-search-for-the-secret-keys.json) |
 | Search for the Titanic | 69849 | [69849-search-for-the-titanic.json](./69849-search-for-the-titanic.json) |
@@ -1165,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shells Delivery Deluxe | 267917 | [267917-shells-delivery-deluxe.json](./267917-shells-delivery-deluxe.json) |
 | Shells Shooter | 340378 | [340378-shells-shooter.json](./340378-shells-shooter.json) |
 | Shellshock | 20635 | [20635-shellshock.json](./20635-shellshock.json) |
+| ShellShot Arena | 249808 | [249808-shellshot-arena.json](./249808-shellshot-arena.json) |
 | Shelter from the Storm | 340377 | [340377-shelter-from-the-storm.json](./340377-shelter-from-the-storm.json) |
 | Sheltered Double Pack | 186885 | [186885-sheltered-double-pack.json](./186885-sheltered-double-pack.json) |
 | Shelves and Sorcery: Tidy Up the Enchanted Shop | 411566 | [411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json](./411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json) |
@@ -1524,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Threat | 311259 | [311259-silent-threat.json](./311259-silent-threat.json) |
 | Silent Whisper | 337125 | [337125-silent-whisper.json](./337125-silent-whisper.json) |
 | Silentium 2D | 106578 | [106578-silentium-2d.json](./106578-silentium-2d.json) |
+| Silfade Gensoutan | 249769 | [249769-silfade-gensoutan.json](./249769-silfade-gensoutan.json) |
 | Silhouette | 31378 | [31378-silhouette.json](./31378-silhouette.json) |
 | Silhouette Mirage | 1356 | [1356-silhouette-mirage.json](./1356-silhouette-mirage.json) |
 | Silhouette of Darkness | 271767 | [271767-silhouette-of-darkness.json](./271767-silhouette-of-darkness.json) |
@@ -3249,6 +3252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Spins Returns: Crazy Cash Edition - Slots | 276172 | [276172-spooky-spins-returns-crazy-cash-edition-slots.json](./276172-spooky-spins-returns-crazy-cash-edition-slots.json) |
 | Spooky Town | 272565 | [272565-spooky-town.json](./272565-spooky-town.json) |
 | Spooky Typing: The Ghost Plague | 178097 | [178097-spooky-typing-the-ghost-plague.json](./178097-spooky-typing-the-ghost-plague.json) |
+| Spooples | 249806 | [249806-spooples.json](./249806-spooples.json) |
 | Spore: Galactic Edition | 46617 | [46617-spore-galactic-edition.json](./46617-spore-galactic-edition.json) |
 | Sport & Fun: Swimming - Amazing Edition | 283165 | [283165-sport-and-fun-swimming-amazing-edition.json](./283165-sport-and-fun-swimming-amazing-edition.json) |
 | Sport & Fun: Swimming - Complete + | 328836 | [328836-sport-and-fun-swimming-complete.json](./328836-sport-and-fun-swimming-complete.json) |
@@ -3425,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stalcraft | 321393 | [321393-stalcraft.json](./321393-stalcraft.json) |
 | Stalin vs. Martians | 8543 | [8543-stalin-vs-martians.json](./8543-stalin-vs-martians.json) |
 | Stalin vs. Martians 4 | 117736 | [117736-stalin-vs-martians-4.json](./117736-stalin-vs-martians-4.json) |
+| Stalk the Giant | 249788 | [249788-stalk-the-giant.json](./249788-stalk-the-giant.json) |
 | Stalker Defender Bunker 3D | 89238 | [89238-stalker-defender-bunker-3d.json](./89238-stalker-defender-bunker-3d.json) |
 | Stalker Together | 327831 | [327831-stalker-together.json](./327831-stalker-together.json) |
 | Stallions in America | 199117 | [199117-stallions-in-america.json](./199117-stallions-in-america.json) |
@@ -4121,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold: Warlords - The Mongol Empire Campaign | 186879 | [186879-stronghold-warlords-the-mongol-empire-campaign.json](./186879-stronghold-warlords-the-mongol-empire-campaign.json) |
 | Strongloween: The Escape | 192424 | [192424-strongloween-the-escape.json](./192424-strongloween-the-escape.json) |
 | Struggle Weapon Girl | 410899 | [410899-struggle-weapon-girl.json](./410899-struggle-weapon-girl.json) |
+| Stryke | 249805 | [249805-stryke.json](./249805-stryke.json) |
 | Stuck at Home | 71004 | [71004-stuck-at-home.json](./71004-stuck-at-home.json) |
 | Stuck in the Present | 348763 | [348763-stuck-in-the-present.json](./348763-stuck-in-the-present.json) |
 | Stuck Like a Stone | 276731 | [276731-stuck-like-a-stone.json](./276731-stuck-like-a-stone.json) |
