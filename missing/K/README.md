@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kishki | 376480 | [376480-kishki.json](./376480-kishki.json) |
 | Kiss Effect | 235477 | [235477-kiss-effect.json](./235477-kiss-effect.json) |
 | Kiss in Hell | 298298 | [298298-kiss-in-hell.json](./298298-kiss-in-hell.json) |
+| Kiss My Camera | 227262 | [227262-kiss-my-camera.json](./227262-kiss-my-camera.json) |
 | Kiss Pinball | 43917 | [43917-kiss-pinball.json](./43917-kiss-pinball.json) |
 | Kiss Rock City: Be A Rockstar | 265419 | [265419-kiss-rock-city-be-a-rockstar.json](./265419-kiss-rock-city-be-a-rockstar.json) |
 | Kissa | 181891 | [181891-kissa.json](./181891-kissa.json) |
