@@ -988,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexplorando | 291778 | [291778-hexplorando.json](./291778-hexplorando.json) |
 | HeXpunk | 343246 | [343246-hexpunk.json](./343246-hexpunk.json) |
 | HexRoller | 253015 | [253015-hexroller.json](./253015-hexroller.json) |
+| HexTD | 212834 | [212834-hextd.json](./212834-hextd.json) |
 | HextriX | 105912 | [105912-hextrix.json](./105912-hextrix.json) |
 | Hexual Deflection | 308552 | [308552-hexual-deflection.json](./308552-hexual-deflection.json) |
 | Hexuma | 265422 | [265422-hexuma.json](./265422-hexuma.json) |
