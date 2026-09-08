@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War 2410 | 38398 | [38398-war-2410.json](./38398-war-2410.json) |
 | War 3010: The Revolution | 38397 | [38397-war-3010-the-revolution.json](./38397-war-3010-the-revolution.json) |
 | War Angels | 385609 | [385609-war-angels.json](./385609-war-angels.json) |
+| War Ashes | 214488 | [214488-war-ashes.json](./214488-war-ashes.json) |
 | War Doves | 24999 | [24999-war-doves.json](./24999-war-doves.json) |
 | War for the Overworld: The Under Games | 124819 | [124819-war-for-the-overworld-the-under-games.json](./124819-war-for-the-overworld-the-under-games.json) |
 | War General: Multiplayer Rank | 254172 | [254172-war-general-multiplayer-rank.json](./254172-war-general-multiplayer-rank.json) |
