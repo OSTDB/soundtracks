@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T23:18:21.823Z",
-  "total_missing": 48491,
+  "generated_at": "2026-09-08T23:21:01.705Z",
+  "total_missing": 48490,
   "games": [
     {
       "igdb_id": 306086,
@@ -376,11 +376,6 @@
       "igdb_id": 55906,
       "game_name": "100% Pasukaru Sensei: Perfect Paint Bombers",
       "file": "missing/0-9/55906-100-pasukaru-sensei-perfect-paint-bombers.json"
-    },
-    {
-      "igdb_id": 292004,
-      "game_name": "1000 Best Solitaire Games",
-      "file": "missing/0-9/292004-1000-best-solitaire-games.json"
     },
     {
       "igdb_id": 34360,
