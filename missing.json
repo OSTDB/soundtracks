@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T21:01:04.217Z",
-  "total_missing": 48146,
+  "generated_at": "2026-09-08T21:11:00.368Z",
+  "total_missing": 48145,
   "games": [
     {
       "igdb_id": 306086,
@@ -311,11 +311,6 @@
       "igdb_id": 316430,
       "game_name": "100 Wars",
       "file": "missing/0-9/316430-100-wars.json"
-    },
-    {
-      "igdb_id": 330714,
-      "game_name": "100 Ways to Kill the Crazy Frog",
-      "file": "missing/0-9/330714-100-ways-to-kill-the-crazy-frog.json"
     },
     {
       "igdb_id": 369054,
