@@ -1483,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angkot d Game | 214753 | [214753-angkot-d-game.json](./214753-angkot-d-game.json) |
 | Angle | 396218 | [396218-angle.json](./396218-angle.json) |
 | Angler Dangler | 386681 | [386681-angler-dangler.json](./386681-angler-dangler.json) |
+| Angler King | 249778 | [249778-angler-king.json](./249778-angler-king.json) |
 | Angler Quest | 290711 | [290711-angler-quest.json](./290711-angler-quest.json) |
 | Angler's Journey | 350442 | [350442-anglers-journey.json](./350442-anglers-journey.json) |
 | Angler's World | 217019 | [217019-anglers-world.json](./217019-anglers-world.json) |
@@ -1970,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archipelago: Island Survival | 297787 | [297787-archipelago-island-survival.json](./297787-archipelago-island-survival.json) |
 | Architect | 326623 | [326623-architect.json](./326623-architect.json) |
 | Architects of Shangri-La | 167839 | [167839-architects-of-shangri-la.json](./167839-architects-of-shangri-la.json) |
+| Architecture Zeitgeist | 249770 | [249770-architecture-zeitgeist.json](./249770-architecture-zeitgeist.json) |
 | Archmage Ricka | 211440 | [211440-archmage-ricka.json](./211440-archmage-ricka.json) |
 | Archmage Rises | 31937 | [31937-archmage-rises.json](./31937-archmage-rises.json) |
 | Archon | 5539 | [5539-archon.json](./5539-archon.json) |
@@ -2399,6 +2401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Combat | 337648 | [337648-astro-combat.json](./337648-astro-combat.json) |
 | Astro Command Scramble Retro! | 208624 | [208624-astro-command-scramble-retro.json](./208624-astro-command-scramble-retro.json) |
 | Astro Dash | 156655 | [156655-astro-dash.json](./156655-astro-dash.json) |
+| Astro Engineers | 249798 | [249798-astro-engineers.json](./249798-astro-engineers.json) |
 | Astro Fighter | 23049 | [23049-astro-fighter.json](./23049-astro-fighter.json) |
 | Astro Invader | 39656 | [39656-astro-invader.json](./39656-astro-invader.json) |
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
