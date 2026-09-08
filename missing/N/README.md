@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko-sama no Karaguri: Garden kara no Dasshutsu | 240231 | [240231-neko-sama-no-karaguri-garden-kara-no-dasshutsu.json](./240231-neko-sama-no-karaguri-garden-kara-no-dasshutsu.json) |
 | Neko-sama no Kominka kara no Dasshutsu | 260689 | [260689-neko-sama-no-kominka-kara-no-dasshutsu.json](./260689-neko-sama-no-kominka-kara-no-dasshutsu.json) |
 | Neko's Rage | 251840 | [251840-nekos-rage.json](./251840-nekos-rage.json) |
+| Nekobabaa: Melonbooks Omake Tokubetsu-hen | 212253 | [212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json](./212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json) |
 | Nekopara Vol. 3 | 29271 | [29271-nekopara-vol-3.json](./29271-nekopara-vol-3.json) |
 | Nekron: 24 | 323199 | [323199-nekron-24.json](./323199-nekron-24.json) |
 | Nelda Nockbladder's Anatomy Lesson | 73284 | [73284-nelda-nockbladders-anatomy-lesson.json](./73284-nelda-nockbladders-anatomy-lesson.json) |
