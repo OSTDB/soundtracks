@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Yankee 6: In Pharaoh's Court | 117096 | [117096-new-yankee-6-in-pharaohs-court.json](./117096-new-yankee-6-in-pharaohs-court.json) |
 | New Year Simulator 2025 | 326390 | [326390-new-year-simulator-2025.json](./326390-new-year-simulator-2025.json) |
 | New Year's Jam | 325263 | [325263-new-years-jam.json](./325263-new-years-jam.json) |
+| New York City Driver | 243696 | [243696-new-york-city-driver.json](./243696-new-york-city-driver.json) |
 | New York Mysteries | 378774 | [378774-new-york-mysteries.json](./378774-new-york-mysteries.json) |
 | New York Mysteries 3: The Lantern of Souls | 87664 | [87664-new-york-mysteries-3-the-lantern-of-souls.json](./87664-new-york-mysteries-3-the-lantern-of-souls.json) |
 | New York Mysteries: Power of Art - Collector's Edition | 339642 | [339642-new-york-mysteries-power-of-art-collectors-edition.json](./339642-new-york-mysteries-power-of-art-collectors-edition.json) |
@@ -1072,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Just An Ordinary Ballerina | 60018 | [60018-not-just-an-ordinary-ballerina.json](./60018-not-just-an-ordinary-ballerina.json) |
 | Not Match | 232147 | [232147-not-match.json](./232147-not-match.json) |
 | Not Meow Purroblem | 247539 | [247539-not-meow-purroblem.json](./247539-not-meow-purroblem.json) |
+| Not Only Nine | 243672 | [243672-not-only-nine.json](./243672-not-only-nine.json) |
 | Not Our Home 2 | 156649 | [156649-not-our-home-2.json](./156649-not-our-home-2.json) |
 | Not Quite Dead | 414336 | [414336-not-quite-dead.json](./414336-not-quite-dead.json) |
 | Not Sonic Flash | 330525 | [330525-not-sonic-flash.json](./330525-not-sonic-flash.json) |
