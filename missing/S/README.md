@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of a Sunless World | 183063 | [183063-shadows-of-a-sunless-world.json](./183063-shadows-of-a-sunless-world.json) |
 | Shadows of Duat | 252395 | [252395-shadows-of-duat.json](./252395-shadows-of-duat.json) |
 | Shadows of Dungeon | 237659 | [237659-shadows-of-dungeon.json](./237659-shadows-of-dungeon.json) |
+| Shadows of Empires | 227268 | [227268-shadows-of-empires.json](./227268-shadows-of-empires.json) |
 | Shadows of Rogue: The Sorcerer's Curse | 272281 | [272281-shadows-of-rogue-the-sorcerers-curse.json](./272281-shadows-of-rogue-the-sorcerers-curse.json) |
 | Shadows of Steam | 328499 | [328499-shadows-of-steam.json](./328499-shadows-of-steam.json) |
 | Shadows of the Damned | 264883 | [264883-shadows-of-the-damned.json](./264883-shadows-of-the-damned.json) |
@@ -5120,6 +5121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supracore | 251854 | [251854-supracore.json](./251854-supracore.json) |
 | Supraworld | 250601 | [250601-supraworld.json](./250601-supraworld.json) |
 | Supreme Candy: Oudou ni wa Oudoutaru Riyuu ga Arun Desu! | 137107 | [137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json](./137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json) |
+| Supreme Duo | 227269 | [227269-supreme-duo.json](./227269-supreme-duo.json) |
 | Supreme Ruler 2020 Gold | 25062 | [25062-supreme-ruler-2020-gold.json](./25062-supreme-ruler-2020-gold.json) |
 | Supreme Snowboarding | 9277 | [9277-supreme-snowboarding.json](./9277-supreme-snowboarding.json) |
 | Supreme Summoner | 257101 | [257101-supreme-summoner.json](./257101-supreme-summoner.json) |
