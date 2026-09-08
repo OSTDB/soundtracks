@@ -665,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminate: Study X | 253574 | [253574-terminate-study-x.json](./253574-terminate-study-x.json) |
 | Terminator: Dark Fate - Defiance: Evolution | 380994 | [380994-terminator-dark-fate-defiance-evolution.json](./380994-terminator-dark-fate-defiance-evolution.json) |
 | Terminull | 185151 | [185151-terminull.json](./185151-terminull.json) |
+| Terminus Machina | 230287 | [230287-terminus-machina.json](./230287-terminus-machina.json) |
 | Terminus: Ultiverse | 288755 | [288755-terminus-ultiverse.json](./288755-terminus-ultiverse.json) |
 | Terra | 295236 | [295236-terra.json](./295236-terra.json) |
 | Terra Alia | 279404 | [279404-terra-alia.json](./279404-terra-alia.json) |
@@ -863,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Frog? | 63333 | [63333-the-amazing-frog.json](./63333-the-amazing-frog.json) |
 | The Amazing Shinsengumi: Heroes in Love | 32318 | [32318-the-amazing-shinsengumi-heroes-in-love.json](./32318-the-amazing-shinsengumi-heroes-in-love.json) |
 | The Amazing Spider-Man | 254522 | [254522-the-amazing-spider-man.json](./254522-the-amazing-spider-man.json) |
+| The Amazing Spider-Man: Countdown to Doom | 230280 | [230280-the-amazing-spider-man-countdown-to-doom.json](./230280-the-amazing-spider-man-countdown-to-doom.json) |
 | The Amazing World of Gumball Mini Games | 352173 | [352173-the-amazing-world-of-gumball-mini-games.json](./352173-the-amazing-world-of-gumball-mini-games.json) |
 | The Amber Throne | 19517 | [19517-the-amber-throne.json](./19517-the-amber-throne.json) |
 | The Amen Variations | 382200 | [382200-the-amen-variations.json](./382200-the-amen-variations.json) |
@@ -1180,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew: Motorfest - Drift Pack | 408788 | [408788-the-crew-motorfest-drift-pack.json](./408788-the-crew-motorfest-drift-pack.json) |
 | The Crew: Motorfest - Year 2 Pass | 335098 | [335098-the-crew-motorfest-year-2-pass.json](./335098-the-crew-motorfest-year-2-pass.json) |
 | The Crew: Wild Run Edition | 166227 | [166227-the-crew-wild-run-edition.json](./166227-the-crew-wild-run-edition.json) |
+| The Cricket C | 230301 | [230301-the-cricket-c.json](./230301-the-cricket-c.json) |
 | The Criminal | 383398 | [383398-the-criminal.json](./383398-the-criminal.json) |
 | The Crimson Crown | 15532 | [15532-the-crimson-crown.json](./15532-the-crimson-crown.json) |
 | The Crimson Debt | 290408 | [290408-the-crimson-debt.json](./290408-the-crimson-debt.json) |
@@ -1749,6 +1752,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Fries | 204078 | [204078-the-jumping-fries.json](./204078-the-jumping-fries.json) |
 | The Jumping Onion Ring | 329575 | [329575-the-jumping-onion-ring.json](./329575-the-jumping-onion-ring.json) |
 | The Jumping Orange 3 | 373563 | [373563-the-jumping-orange-3.json](./373563-the-jumping-orange-3.json) |
+| The Jumping Salad | 230302 | [230302-the-jumping-salad.json](./230302-the-jumping-salad.json) |
+| The Jumping Salad: Turbo | 230304 | [230304-the-jumping-salad-turbo.json](./230304-the-jumping-salad-turbo.json) |
 | The Jumping Taco | 205240 | [205240-the-jumping-taco.json](./205240-the-jumping-taco.json) |
 | The Kaiju Offensive | 117097 | [117097-the-kaiju-offensive.json](./117097-the-kaiju-offensive.json) |
 | The Kangaroo Conspiracy DX | 366224 | [366224-the-kangaroo-conspiracy-dx.json](./366224-the-kangaroo-conspiracy-dx.json) |
@@ -2531,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sinking Structure, Clione, and Lost Child: Log5 | 195225 | [195225-the-sinking-structure-clione-and-lost-child-log5.json](./195225-the-sinking-structure-clione-and-lost-child-log5.json) |
 | The Six Transgender Lesbian Goddesses of Love Are Having A Petty Argument, So They Try To Settle Things Alongside The Three Transgender Gay Gods of Flavor | 318796 | [318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json](./318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json) |
 | The Skirmish | 282032 | [282032-the-skirmish.json](./282032-the-skirmish.json) |
+| The Skullkid | 230259 | [230259-the-skullkid.json](./230259-the-skullkid.json) |
 | The Sky Crawlers: Innocent Aces | 5160 | [5160-the-sky-crawlers-innocent-aces.json](./5160-the-sky-crawlers-innocent-aces.json) |
 | The Slasher Camp Massacre | 218738 | [218738-the-slasher-camp-massacre.json](./218738-the-slasher-camp-massacre.json) |
 | The Smurfs Bakery | 248647 | [248647-the-smurfs-bakery.json](./248647-the-smurfs-bakery.json) |
@@ -3990,6 +3996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TowerDefenceDesigner | 296648 | [296648-towerdefencedesigner.json](./296648-towerdefencedesigner.json) |
 | TowerFall Ascension | 9567 | [9567-towerfall-ascension.json](./9567-towerfall-ascension.json) |
 | Towerful Defense: A Rogue TD - The First Expansion | 385554 | [385554-towerful-defense-a-rogue-td-the-first-expansion.json](./385554-towerful-defense-a-rogue-td-the-first-expansion.json) |
+| Towering | 230295 | [230295-towering.json](./230295-towering.json) |
 | Towering Rescue | 47263 | [47263-towering-rescue.json](./47263-towering-rescue.json) |
 | Towerø | 318427 | [318427-tower.json](./318427-tower.json) |
 | Towers | 271222 | [271222-towers.json](./271222-towers.json) |
@@ -4265,6 +4272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transport Fever 2: Deluxe Edition | 241359 | [241359-transport-fever-2-deluxe-edition.json](./241359-transport-fever-2-deluxe-edition.json) |
 | Transport Giant: Down Under | 9445 | [9445-transport-giant-down-under.json](./9445-transport-giant-down-under.json) |
 | Transport Giant: Gold Edition 2012 | 53856 | [53856-transport-giant-gold-edition-2012.json](./53856-transport-giant-gold-edition-2012.json) |
+| Transport-inators of Doooom! | 230298 | [230298-transport-inators-of-doooom.json](./230298-transport-inators-of-doooom.json) |
 | Transporter Truck Simulator | 119043 | [119043-transporter-truck-simulator.json](./119043-transporter-truck-simulator.json) |
 | Transpose | 109417 | [109417-transpose.json](./109417-transpose.json) |
 | Transubstantiation Synthesis | 239879 | [239879-transubstantiation-synthesis.json](./239879-transubstantiation-synthesis.json) |
@@ -4580,6 +4588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truxton II | 39662 | [39662-truxton-ii.json](./39662-truxton-ii.json) |
 | Try Again | 249388 | [249388-try-again.json](./249388-try-again.json) |
 | Try to Survive | 116552 | [116552-try-to-survive.json](./116552-try-to-survive.json) |
+| Trying to Sing in Static | 230291 | [230291-trying-to-sing-in-static.json](./230291-trying-to-sing-in-static.json) |
 | TS Marketplace: Marias Pass Scenario Pack 01 | 196896 | [196896-ts-marketplace-marias-pass-scenario-pack-01.json](./196896-ts-marketplace-marias-pass-scenario-pack-01.json) |
 | Tsugunohi: Supernatural Supermarket | 234297 | [234297-tsugunohi-supernatural-supermarket.json](./234297-tsugunohi-supernatural-supermarket.json) |
 | Tsugunohi: The Chamber of Phantom Name | 340941 | [340941-tsugunohi-the-chamber-of-phantom-name.json](./340941-tsugunohi-the-chamber-of-phantom-name.json) |
@@ -4592,6 +4601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukumo Reiko's Summer Holidays | 394163 | [394163-tsukumo-reikos-summer-holidays.json](./394163-tsukumo-reikos-summer-holidays.json) |
 | Tsukumogamis! | 272870 | [272870-tsukumogamis.json](./272870-tsukumogamis.json) |
 | Tsukumonogatari | 66115 | [66115-tsukumonogatari.json](./66115-tsukumonogatari.json) |
+| Tsukutte Utau: Saru Band | 230300 | [230300-tsukutte-utau-saru-band.json](./230300-tsukutte-utau-saru-band.json) |
 | Tsumera | 268456 | [268456-tsumera.json](./268456-tsumera.json) |
 | Tsumobaka Nisshi | 299440 | [299440-tsumobaka-nisshi.json](./299440-tsumobaka-nisshi.json) |
 | Tsunagaru Voiro Shooters vs. Space Kedamaki | 204732 | [204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json](./204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json) |
