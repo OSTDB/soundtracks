@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenomatrix | 332450 | [332450-zenomatrix.json](./332450-zenomatrix.json) |
 | Zenonia 5 | 75155 | [75155-zenonia-5.json](./75155-zenonia-5.json) |
 | Zenteni: Create Creatures | 387326 | [387326-zenteni-create-creatures.json](./387326-zenteni-create-creatures.json) |
+| Zentris | 229052 | [229052-zentris.json](./229052-zentris.json) |
 | Zenvader | 358316 | [358316-zenvader.json](./358316-zenvader.json) |
 | Zeppelin | 23871 | [23871-zeppelin.json](./23871-zeppelin.json) |
 | Zerko | 289878 | [289878-zerko.json](./289878-zerko.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zipper Amusement Ride | 104668 | [104668-zipper-amusement-ride.json](./104668-zipper-amusement-ride.json) |
 | Zipple World 2: The Sweet Chaos | 33052 | [33052-zipple-world-2-the-sweet-chaos.json](./33052-zipple-world-2-the-sweet-chaos.json) |
 | Zippy Zombi | 73813 | [73813-zippy-zombi.json](./73813-zippy-zombi.json) |
+| ZJ the Ball: Special | 229078 | [229078-zj-the-ball-special.json](./229078-zj-the-ball-special.json) |
 | Zjawa: Bloodstained Soul | 374587 | [374587-zjawa-bloodstained-soul.json](./374587-zjawa-bloodstained-soul.json) |
 | Zlalox | 302949 | [302949-zlalox.json](./302949-zlalox.json) |
 | Zlin City: Arch Moderna | 304008 | [304008-zlin-city-arch-moderna.json](./304008-zlin-city-arch-moderna.json) |
