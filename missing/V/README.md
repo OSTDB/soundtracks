@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V-Ware | 250052 | [250052-v-ware.json](./250052-v-ware.json) |
 | V: The Video Game | 45313 | [45313-v-the-video-game.json](./45313-v-the-video-game.json) |
 | V.G. Re-birth | 180273 | [180273-v-g-re-birth.json](./180273-v-g-re-birth.json) |
+| V.O.I.D.: Vexation of Infinite Dungeons | 245886 | [245886-v-o-i-d-vexation-of-infinite-dungeons.json](./245886-v-o-i-d-vexation-of-infinite-dungeons.json) |
 | V.O.S.S. Turbo | 215918 | [215918-v-o-s-s-turbo.json](./215918-v-o-s-s-turbo.json) |
 | V64 | 283733 | [283733-v64.json](./283733-v64.json) |
 | V8 Challenge | 69886 | [69886-v8-challenge.json](./69886-v8-challenge.json) |
