@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yangshuo Invasion | 321368 | [321368-yangshuo-invasion.json](./321368-yangshuo-invasion.json) |
 | Yankai's Peak. | 43515 | [43515-yankais-peak.json](./43515-yankais-peak.json) |
 | Yard of the Dead | 268765 | [268765-yard-of-the-dead.json](./268765-yard-of-the-dead.json) |
+| YARG | 245335 | [245335-yarg.json](./245335-yarg.json) |
 | Yarudora Series Vol. 1: Double Cast | 79353 | [79353-yarudora-series-vol-1-double-cast.json](./79353-yarudora-series-vol-1-double-cast.json) |
 | Yarudora Series Vol. 3: Sampaguita | 79349 | [79349-yarudora-series-vol-3-sampaguita.json](./79349-yarudora-series-vol-3-sampaguita.json) |
 | Yarudora Series Vol. 4: Yukiwari no Hana | 79348 | [79348-yarudora-series-vol-4-yukiwari-no-hana.json](./79348-yarudora-series-vol-4-yukiwari-no-hana.json) |
