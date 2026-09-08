@@ -1766,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruarua.ru | 369558 | [369558-ruarua-ru.json](./369558-ruarua-ru.json) |
 | Rubbadubbers | 335108 | [335108-rubbadubbers.json](./335108-rubbadubbers.json) |
 | Rubber Bandits: Animal Bandits | 297456 | [297456-rubber-bandits-animal-bandits.json](./297456-rubber-bandits-animal-bandits.json) |
+| Rubber Bandits: Go Wild Pack | 225071 | [225071-rubber-bandits-go-wild-pack.json](./225071-rubber-bandits-go-wild-pack.json) |
 | Rubber Bird | 404862 | [404862-rubber-bird.json](./404862-rubber-bird.json) |
 | Rubber Duck Survival | 411556 | [411556-rubber-duck-survival.json](./411556-rubber-duck-survival.json) |
 | Rubber Man | 185131 | [185131-rubber-man.json](./185131-rubber-man.json) |
@@ -1792,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby League Raw | 385080 | [385080-rugby-league-raw.json](./385080-rugby-league-raw.json) |
 | Rugby League Riot | 274478 | [274478-rugby-league-riot.json](./274478-rugby-league-riot.json) |
 | Rugby Sevens 23 | 240817 | [240817-rugby-sevens-23.json](./240817-rugby-sevens-23.json) |
+| Rugby Union Team Manager 4 | 225072 | [225072-rugby-union-team-manager-4.json](./225072-rugby-union-team-manager-4.json) |
 | Rugrats: Adventures in Gameland | 299152 | [299152-rugrats-adventures-in-gameland.json](./299152-rugrats-adventures-in-gameland.json) |
 | Rugrats: Scavenger Hunt | 2786 | [2786-rugrats-scavenger-hunt.json](./2786-rugrats-scavenger-hunt.json) |
 | Ruiga Pirates: Cursed Seas | 301823 | [301823-ruiga-pirates-cursed-seas.json](./301823-ruiga-pirates-cursed-seas.json) |
@@ -1834,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run or Boom | 215927 | [215927-run-or-boom.json](./215927-run-or-boom.json) |
 | Run or Die | 14721 | [14721-run-or-die.json](./14721-run-or-die.json) |
 | Run Pizza Run 2 | 332988 | [332988-run-pizza-run-2.json](./332988-run-pizza-run-2.json) |
+| Run Run Boy | 225073 | [225073-run-run-boy.json](./225073-run-run-boy.json) |
 | Run Sausage Run: Coins, Bugs and Chicken | 247754 | [247754-run-sausage-run-coins-bugs-and-chicken.json](./247754-run-sausage-run-coins-bugs-and-chicken.json) |
 | Run Sausage Run: Complete Edition | 248060 | [248060-run-sausage-run-complete-edition.json](./248060-run-sausage-run-complete-edition.json) |
 | Run Sausage Run!: Poison Edition | 396928 | [396928-run-sausage-run-poison-edition.json](./396928-run-sausage-run-poison-edition.json) |
