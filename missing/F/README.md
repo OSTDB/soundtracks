@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floors | 309374 | [309374-floors.json](./309374-floors.json) |
 | Floppy and the Sleepy Planet | 116385 | [116385-floppy-and-the-sleepy-planet.json](./116385-floppy-and-the-sleepy-planet.json) |
 | Floppy Cat Bow Golf! | 252981 | [252981-floppy-cat-bow-golf.json](./252981-floppy-cat-bow-golf.json) |
+| Floppy Knights: Version 2.0 | 230299 | [230299-floppy-knights-version-2-0.json](./230299-floppy-knights-version-2-0.json) |
 | Flora Learns to Sing! | 321332 | [321332-flora-learns-to-sing.json](./321332-flora-learns-to-sing.json) |
 | FloraMancer: Seeds and Spells | 235982 | [235982-floramancer-seeds-and-spells.json](./235982-floramancer-seeds-and-spells.json) |
 | Florarium | 258454 | [258454-florarium.json](./258454-florarium.json) |
@@ -1605,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fossil Quest | 386729 | [386729-fossil-quest.json](./386729-fossil-quest.json) |
 | Fossil Skater | 318214 | [318214-fossil-skater.json](./318214-fossil-skater.json) |
 | Fossilpunk | 327189 | [327189-fossilpunk.json](./327189-fossilpunk.json) |
+| Foster's Home for Imaginary Friends | 230313 | [230313-fosters-home-for-imaginary-friends.json](./230313-fosters-home-for-imaginary-friends.json) |
 | Fostering Apocalypse | 153991 | [153991-fostering-apocalypse.json](./153991-fostering-apocalypse.json) |
 | Foto Boy: A New Job | 290932 | [290932-foto-boy-a-new-job.json](./290932-foto-boy-a-new-job.json) |
 | Foto Face: The Face Stealer Strikes | 67286 | [67286-foto-face-the-face-stealer-strikes.json](./67286-foto-face-the-face-stealer-strikes.json) |
