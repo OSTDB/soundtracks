@@ -2527,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk Park | 400854 | [400854-dusk-park.json](./400854-dusk-park.json) |
 | Dusk Pub | 224771 | [224771-dusk-pub.json](./224771-dusk-pub.json) |
 | Duskbound | 258197 | [258197-duskbound.json](./258197-duskbound.json) |
+| Dusklight Manor | 255096 | [255096-dusklight-manor.json](./255096-dusklight-manor.json) |
 | Dusky Depths | 273628 | [273628-dusky-depths.json](./273628-dusky-depths.json) |
 | Dust & Letters | 402915 | [402915-dust-and-letters.json](./402915-dust-and-letters.json) |
 | Dust Courier | 285984 | [285984-dust-courier.json](./285984-dust-courier.json) |
