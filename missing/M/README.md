@@ -83,7 +83,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 2002 | 3539 | [3539-madden-nfl-2002.json](./3539-madden-nfl-2002.json) |
 | Madden NFL 2004 | 777 | [777-madden-nfl-2004.json](./777-madden-nfl-2004.json) |
 | Madden NFL 21: Ultimate Team Starter Pack | 140010 | [140010-madden-nfl-21-ultimate-team-starter-pack.json](./140010-madden-nfl-21-ultimate-team-starter-pack.json) |
+| Madden NFL 22 | 243665 | [243665-madden-nfl-22.json](./243665-madden-nfl-22.json) |
 | Madden NFL 22: Dynasty Edition | 155098 | [155098-madden-nfl-22-dynasty-edition.json](./155098-madden-nfl-22-dynasty-edition.json) |
+| Madden NFL 23 | 243668 | [243668-madden-nfl-23.json](./243668-madden-nfl-23.json) |
 | Madden NFL 23: All Madden Edition | 204081 | [204081-madden-nfl-23-all-madden-edition.json](./204081-madden-nfl-23-all-madden-edition.json) |
 | Madden NFL 24: Deluxe Edition | 252388 | [252388-madden-nfl-24-deluxe-edition.json](./252388-madden-nfl-24-deluxe-edition.json) |
 | Madden NFL 25 | 243261 | [243261-madden-nfl-25.json](./243261-madden-nfl-25.json) |
@@ -307,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maigo no Koneko-chan | 276472 | [276472-maigo-no-koneko-chan.json](./276472-maigo-no-koneko-chan.json) |
 | Mail Mole + Expansions Bundle | 238186 | [238186-mail-mole-expansions-bundle.json](./238186-mail-mole-expansions-bundle.json) |
 | Mailbag Mayhem | 62191 | [62191-mailbag-mayhem.json](./62191-mailbag-mayhem.json) |
+| Maimai DX Festival Plus | 243688 | [243688-maimai-dx-festival-plus.json](./243688-maimai-dx-festival-plus.json) |
 | Maimai DX Plus | 331676 | [331676-maimai-dx-plus.json](./331676-maimai-dx-plus.json) |
 | Maimai DX Splash Plus | 167282 | [167282-maimai-dx-splash-plus.json](./167282-maimai-dx-splash-plus.json) |
 | Maimai DX Universe | 167281 | [167281-maimai-dx-universe.json](./167281-maimai-dx-universe.json) |
@@ -419,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manga English Native Phrase Quiz | 409544 | [409544-manga-english-native-phrase-quiz.json](./409544-manga-english-native-phrase-quiz.json) |
 | Manga Solitaire | 73844 | [73844-manga-solitaire.json](./73844-manga-solitaire.json) |
 | Mangan Shisen-sho | 206357 | [206357-mangan-shisen-sho.json](./206357-mangan-shisen-sho.json) |
+| ManHandler | 243689 | [243689-manhandler.json](./243689-manhandler.json) |
 | Manhunt | 1971 | [1971-manhunt.json](./1971-manhunt.json) |
 | Mani Mouse | 239327 | [239327-mani-mouse.json](./239327-mani-mouse.json) |
 | Mani Yugi Tokoyo | 96106 | [96106-mani-yugi-tokoyo.json](./96106-mani-yugi-tokoyo.json) |
@@ -1605,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mikagura Shoujo Tanteidan | 60575 | [60575-mikagura-shoujo-tanteidan.json](./60575-mikagura-shoujo-tanteidan.json) |
 | Mikane's Hand | 406686 | [406686-mikanes-hand.json](./406686-mikanes-hand.json) |
 | Mikazuki: Hoshimeguri no Uta | 331890 | [331890-mikazuki-hoshimeguri-no-uta.json](./331890-mikazuki-hoshimeguri-no-uta.json) |
+| Mike and the Zombies | 243676 | [243676-mike-and-the-zombies.json](./243676-mike-and-the-zombies.json) |
 | Mike Piazza's Strike Zone | 3410 | [3410-mike-piazzas-strike-zone.json](./3410-mike-piazzas-strike-zone.json) |
 | Mike V: Skateboard Party HD | 87709 | [87709-mike-v-skateboard-party-hd.json](./87709-mike-v-skateboard-party-hd.json) |
 | Mike's Paper Mario Adventure | 324110 | [324110-mikes-paper-mario-adventure.json](./324110-mikes-paper-mario-adventure.json) |
@@ -1629,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Military Transporter Sim | 293646 | [293646-military-transporter-sim.json](./293646-military-transporter-sim.json) |
 | Milites Fortunae | 249210 | [249210-milites-fortunae.json](./249210-milites-fortunae.json) |
 | Milk and Cookies | 132233 | [132233-milk-and-cookies.json](./132233-milk-and-cookies.json) |
+| Milk Farm Tycoon | 243708 | [243708-milk-farm-tycoon.json](./243708-milk-farm-tycoon.json) |
 | Milk Me Darling | 385061 | [385061-milk-me-darling.json](./385061-milk-me-darling.json) |
 | Milk Race | 46660 | [46660-milk-race.json](./46660-milk-race.json) |
 | Milkblood | 241031 | [241031-milkblood.json](./241031-milkblood.json) |
@@ -2381,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Chronicles | 8606 | [8606-moon-chronicles.json](./8606-moon-chronicles.json) |
 | Moon Colonization Project | 32237 | [32237-moon-colonization-project.json](./32237-moon-colonization-project.json) |
 | Moon Fall | 122381 | [122381-moon-fall.json](./122381-moon-fall.json) |
+| Moon is Not the Limit | 243674 | [243674-moon-is-not-the-limit.json](./243674-moon-is-not-the-limit.json) |
 | Moon Knight | 280758 | [280758-moon-knight.json](./280758-moon-knight.json) |
 | Moon Minions | 243940 | [243940-moon-minions.json](./243940-moon-minions.json) |
 | Moon Mystery | 196935 | [196935-moon-mystery.json](./196935-moon-mystery.json) |
@@ -3137,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyDU | 365704 | [365704-mydu.json](./365704-mydu.json) |
 | Myha: Return to the Lost Island | 116558 | [116558-myha-return-to-the-lost-island.json](./116558-myha-return-to-the-lost-island.json) |
 | Myles Wright: Ace Attorney | 303775 | [303775-myles-wright-ace-attorney.json](./303775-myles-wright-ace-attorney.json) |
+| MyPopgoes | 243687 | [243687-mypopgoes.json](./243687-mypopgoes.json) |
 | Myrddin | 174361 | [174361-myrddin.json](./174361-myrddin.json) |
 | Myriad Mayhem | 258208 | [258208-myriad-mayhem.json](./258208-myriad-mayhem.json) |
 | Myrrh | 118375 | [118375-myrrh.json](./118375-myrrh.json) |
