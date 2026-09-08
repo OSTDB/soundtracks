@@ -144,6 +144,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yóu Mèng Zhèng: Dreamfarer | 394196 | [394196-you-meng-zheng-dreamfarer.json](./394196-you-meng-zheng-dreamfarer.json) |
 | You Only Livez Twice | 124250 | [124250-you-only-livez-twice.json](./124250-you-only-livez-twice.json) |
 | You Should Eat Breakfast | 176515 | [176515-you-should-eat-breakfast.json](./176515-you-should-eat-breakfast.json) |
+| You vs. Wild | 256863 | [256863-you-vs-wild.json](./256863-you-vs-wild.json) |
+| You vs. Wild: Out Cold | 256855 | [256855-you-vs-wild-out-cold.json](./256855-you-vs-wild-out-cold.json) |
 | You Will Fall | 245000 | [245000-you-will-fall.json](./245000-you-will-fall.json) |
 | You Will Return | 307620 | [307620-you-will-return.json](./307620-you-will-return.json) |
 | You Will Select a Decision | 60015 | [60015-you-will-select-a-decision.json](./60015-you-will-select-a-decision.json) |
