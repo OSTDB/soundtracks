@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Force Genesis | 165652 | [165652-x-force-genesis.json](./165652-x-force-genesis.json) |
 | X-Man | 79301 | [79301-x-man.json](./79301-x-man.json) |
 | X-Mas Bubble Mania | 385066 | [385066-x-mas-bubble-mania.json](./385066-x-mas-bubble-mania.json) |
+| X-Mas Eve | 224572 | [224572-x-mas-eve.json](./224572-x-mas-eve.json) |
 | X-Men | 363894 | [363894-x-men.json](./363894-x-men.json) |
 | X-Men 2: Battle | 343821 | [343821-x-men-2-battle.json](./343821-x-men-2-battle.json) |
 | X-Men Legends II: Rise of Apocalypse | 245310 | [245310-x-men-legends-ii-rise-of-apocalypse.json](./245310-x-men-legends-ii-rise-of-apocalypse.json) |
