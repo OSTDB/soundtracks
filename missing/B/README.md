@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back In 1995 64 | 85503 | [85503-back-in-1995-64.json](./85503-back-in-1995-64.json) |
 | Back Rank Chess: Zombie Strike | 289341 | [289341-back-rank-chess-zombie-strike.json](./289341-back-rank-chess-zombie-strike.json) |
 | Back Rooms: Ground Zero | 250641 | [250641-back-rooms-ground-zero.json](./250641-back-rooms-ground-zero.json) |
+| Back to Basics | 256852 | [256852-back-to-basics.json](./256852-back-to-basics.json) |
 | Back to Brother | 231047 | [231047-back-to-brother.json](./231047-back-to-brother.json) |
 | Back to Home | 220350 | [220350-back-to-home.json](./220350-back-to-home.json) |
 | Back To School | 278739 | [278739-back-to-school.json](./278739-back-to-school.json) |
@@ -917,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Below Nowhere | 343824 | [343824-below-nowhere.json](./343824-below-nowhere.json) |
 | Below the Ocean | 173312 | [173312-below-the-ocean.json](./173312-below-the-ocean.json) |
 | Beluflin: Beautiful Luminous Flying Insects | 325268 | [325268-beluflin-beautiful-luminous-flying-insects.json](./325268-beluflin-beautiful-luminous-flying-insects.json) |
+| Beluga | 256857 | [256857-beluga.json](./256857-beluga.json) |
 | Beluga Dreams | 268498 | [268498-beluga-dreams.json](./268498-beluga-dreams.json) |
 | Bemuzed | 135908 | [135908-bemuzed.json](./135908-bemuzed.json) |
 | Ben 10 | 363904 | [363904-ben-10.json](./363904-ben-10.json) |
@@ -1052,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeYourCat | 309851 | [309851-beyourcat.json](./309851-beyourcat.json) |
 | BeZombie Anime Invasion | 261825 | [261825-bezombie-anime-invasion.json](./261825-bezombie-anime-invasion.json) |
 | BFGE | 114995 | [114995-bfge.json](./114995-bfge.json) |
+| BGPA Missions Liberation | 256849 | [256849-bgpa-missions-liberation.json](./256849-bgpa-missions-liberation.json) |
 | Bhard | 401525 | [401525-bhard.json](./401525-bhard.json) |
 | Bibi & Tina: Das große Unwetter | 216453 | [216453-bibi-and-tina-das-gro-e-unwetter.json](./216453-bibi-and-tina-das-gro-e-unwetter.json) |
 | Bibi & Tina: Mikoschs großer Auftritt | 151206 | [151206-bibi-and-tina-mikoschs-gro-er-auftritt.json](./151206-bibi-and-tina-mikoschs-gro-er-auftritt.json) |
