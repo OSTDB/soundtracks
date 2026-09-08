@@ -592,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Corp | 154568 | [154568-hell-corp.json](./154568-hell-corp.json) |
 | Hell Dive | 324307 | [324307-hell-dive.json](./324307-hell-dive.json) |
 | Hell Grocery | 219826 | [219826-hell-grocery.json](./219826-hell-grocery.json) |
+| Hell Ground | 256827 | [256827-hell-ground.json](./256827-hell-ground.json) |
 | Hell in a Can | 271762 | [271762-hell-in-a-can.json](./271762-hell-in-a-can.json) |
 | Hell Inspector's Mod of Stupidity | 280765 | [280765-hell-inspectors-mod-of-stupidity.json](./280765-hell-inspectors-mod-of-stupidity.json) |
 | Hell is Us: Deluxe Edition | 331310 | [331310-hell-is-us-deluxe-edition.json](./331310-hell-is-us-deluxe-edition.json) |
