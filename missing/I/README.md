@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impious | 309678 | [309678-impious.json](./309678-impious.json) |
 | Impious Pumpkins | 183611 | [183611-impious-pumpkins.json](./183611-impious-pumpkins.json) |
 | Impish Rat Electronic Pet | 314645 | [314645-impish-rat-electronic-pet.json](./314645-impish-rat-electronic-pet.json) |
+| ImpliCations | 257401 | [257401-implications.json](./257401-implications.json) |
 | Impossible Caves | 105927 | [105927-impossible-caves.json](./105927-impossible-caves.json) |
 | Impossible Geometry | 34358 | [34358-impossible-geometry.json](./34358-impossible-geometry.json) |
 | Impossible Maze | 135898 | [135898-impossible-maze.json](./135898-impossible-maze.json) |
@@ -838,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IQ Logic Codes: Number & Letter Puzzles | 415062 | [415062-iq-logic-codes-number-and-letter-puzzles.json](./415062-iq-logic-codes-number-and-letter-puzzles.json) |
 | iRagdoll | 90672 | [90672-iragdoll.json](./90672-iragdoll.json) |
 | Iragon | 115664 | [115664-iragon.json](./115664-iragon.json) |
+| Irang: The Last Hope | 257395 | [257395-irang-the-last-hope.json](./257395-irang-the-last-hope.json) |
 | Iraroji VOW | 191867 | [191867-iraroji-vow.json](./191867-iraroji-vow.json) |
 | Iratus: Necromancer Edition | 154555 | [154555-iratus-necromancer-edition.json](./154555-iratus-necromancer-edition.json) |
 | Irbot | 233212 | [233212-irbot.json](./233212-irbot.json) |
