@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Perfect Day | 264061 | [264061-one-perfect-day.json](./264061-one-perfect-day.json) |
 | One Piece Odyssey | 194837 | [194837-one-piece-odyssey.json](./194837-one-piece-odyssey.json) |
 | One Piece Odyssey: Reunion of Memories | 252387 | [252387-one-piece-odyssey-reunion-of-memories.json](./252387-one-piece-odyssey-reunion-of-memories.json) |
+| One Piece Unlimited World Red: Chopper Edition | 223469 | [223469-one-piece-unlimited-world-red-chopper-edition.json](./223469-one-piece-unlimited-world-red-chopper-edition.json) |
 | One Piece: Burning Blood - Character Pack | 171053 | [171053-one-piece-burning-blood-character-pack.json](./171053-one-piece-burning-blood-character-pack.json) |
 | One Piece: Burning Blood - Platinum Luffy | 171051 | [171051-one-piece-burning-blood-platinum-luffy.json](./171051-one-piece-burning-blood-platinum-luffy.json) |
 | One Piece: Burning Blood - Wanted | 171048 | [171048-one-piece-burning-blood-wanted.json](./171048-one-piece-burning-blood-wanted.json) |
