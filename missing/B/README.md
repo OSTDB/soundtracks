@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Street Fighter II - 37. Double Knee Bomber | 388036 | [388036-barcode-battler-ii-street-fighter-ii-37-double-knee-bomber.json](./388036-barcode-battler-ii-street-fighter-ii-37-double-knee-bomber.json) |
 | Barcode Battler II: Street Fighter II - 38. Rolling Nail | 388037 | [388037-barcode-battler-ii-street-fighter-ii-38-rolling-nail.json](./388037-barcode-battler-ii-street-fighter-ii-38-rolling-nail.json) |
 | Barcode Knight | 173808 | [173808-barcode-knight.json](./173808-barcode-knight.json) |
+| Bard's Gold: Complete Edition | 214520 | [214520-bards-gold-complete-edition.json](./214520-bards-gold-complete-edition.json) |
 | Bardarts | 141222 | [141222-bardarts.json](./141222-bardarts.json) |
 | Bardic: Quest for Love | 270100 | [270100-bardic-quest-for-love.json](./270100-bardic-quest-for-love.json) |
 | Bardo | 109727 | [109727-bardo.json](./109727-bardo.json) |
@@ -484,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball | 7580 | [7580-baseball.json](./7580-baseball.json) |
 | Baseball 101 | 230839 | [230839-baseball-101.json](./230839-baseball-101.json) |
 | Baseball 3DS | 21150 | [21150-baseball-3ds.json](./21150-baseball-3ds.json) |
+| Baseball Bout: Otterrific Arcade | 214517 | [214517-baseball-bout-otterrific-arcade.json](./214517-baseball-bout-otterrific-arcade.json) |
 | Baseball Boy! | 87059 | [87059-baseball-boy.json](./87059-baseball-boy.json) |
 | Baseball Kings VR | 89255 | [89255-baseball-kings-vr.json](./89255-baseball-kings-vr.json) |
 | Baseball Mogul 2000 | 72675 | [72675-baseball-mogul-2000.json](./72675-baseball-mogul-2000.json) |
@@ -2011,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom! Tanks | 62778 | [62778-boom-tanks.json](./62778-boom-tanks.json) |
 | Boomblastica | 65520 | [65520-boomblastica.json](./65520-boomblastica.json) |
 | Boomcestors | 367961 | [367961-boomcestors.json](./367961-boomcestors.json) |
+| Boomer | 214541 | [214541-boomer.json](./214541-boomer.json) |
 | Boomerang RPG | 297248 | [297248-boomerang-rpg.json](./297248-boomerang-rpg.json) |
 | BoomScroll | 400236 | [400236-boomscroll.json](./400236-boomscroll.json) |
 | BoomSweeper VR | 232970 | [232970-boomsweeper-vr.json](./232970-boomsweeper-vr.json) |
@@ -2371,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Breaker: Infinity | 331353 | [331353-brick-breaker-infinity.json](./331353-brick-breaker-infinity.json) |
 | Brick Buddies | 272274 | [272274-brick-buddies.json](./272274-brick-buddies.json) |
 | Brick Building | 166220 | [166220-brick-building.json](./166220-brick-building.json) |
+| Brick City | 214526 | [214526-brick-city.json](./214526-brick-city.json) |
 | Brick Crossy Road | 241613 | [241613-brick-crossy-road.json](./241613-brick-crossy-road.json) |
 | Brick Mini Golf | 297249 | [297249-brick-mini-golf.json](./297249-brick-mini-golf.json) |
 | Brick Odyssey | 229332 | [229332-brick-odyssey.json](./229332-brick-odyssey.json) |
