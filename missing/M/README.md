@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maggotmania | 109041 | [109041-maggotmania.json](./109041-maggotmania.json) |
 | Magi: Mind Game | 197917 | [197917-magi-mind-game.json](./197917-magi-mind-game.json) |
 | Magia Para Todos | 86111 | [86111-magia-para-todos.json](./86111-magia-para-todos.json) |
+| Magia Story | 244762 | [244762-magia-story.json](./244762-magia-story.json) |
 | Magia X: Leta | 172158 | [172158-magia-x-leta.json](./172158-magia-x-leta.json) |
 | Magic & Sanctuary | 219784 | [219784-magic-and-sanctuary.json](./219784-magic-and-sanctuary.json) |
 | Magic Archery | 318318 | [318318-magic-archery.json](./318318-magic-archery.json) |
@@ -961,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechAssault 2: Lone Wolf Limited Edition | 47315 | [47315-mechassault-2-lone-wolf-limited-edition.json](./47315-mechassault-2-lone-wolf-limited-edition.json) |
 | Mechastrike: Red War | 384505 | [384505-mechastrike-red-war.json](./384505-mechastrike-red-war.json) |
 | Mechatronika | 166737 | [166737-mechatronika.json](./166737-mechatronika.json) |
+| MechaWing! | 244782 | [244782-mechawing.json](./244782-mechawing.json) |
 | MechCom | 101549 | [101549-mechcom.json](./101549-mechcom.json) |
 | MechCorp | 102886 | [102886-mechcorp.json](./102886-mechcorp.json) |
 | Mechjestic | 293653 | [293653-mechjestic.json](./293653-mechjestic.json) |
@@ -1156,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melody's Escape 2 | 217497 | [217497-melodys-escape-2.json](./217497-melodys-escape-2.json) |
 | Melon | 314248 | [314248-melon.json](./314248-melon.json) |
 | Melon Bounce | 366250 | [366250-melon-bounce.json](./366250-melon-bounce.json) |
+| Melon Journey Pocket | 244794 | [244794-melon-journey-pocket.json](./244794-melon-journey-pocket.json) |
 | Melon Madness | 288765 | [288765-melon-madness.json](./288765-melon-madness.json) |
 | Melon Parker: We are Whatever Club! | 378816 | [378816-melon-parker-we-are-whatever-club.json](./378816-melon-parker-we-are-whatever-club.json) |
 | Melon's Sokoban Walk | 386103 | [386103-melons-sokoban-walk.json](./386103-melons-sokoban-walk.json) |
@@ -2028,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobu | 404826 | [404826-mobu.json](./404826-mobu.json) |
 | Mobula | 311790 | [311790-mobula.json](./311790-mobula.json) |
 | Mocap Boxing | 61667 | [61667-mocap-boxing.json](./61667-mocap-boxing.json) |
+| Mocaverse | 244773 | [244773-mocaverse.json](./244773-mocaverse.json) |
 | Moccoletti | 302381 | [302381-moccoletti.json](./302381-moccoletti.json) |
 | Mochi Word Puzzles | 100881 | [100881-mochi-word-puzzles.json](./100881-mochi-word-puzzles.json) |
 | Mochi's Dreamland | 395579 | [395579-mochis-dreamland.json](./395579-mochis-dreamland.json) |
