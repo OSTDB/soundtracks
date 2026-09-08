@@ -1946,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirrorscape: Outdoor Starter Pack | 301848 | [301848-mirrorscape-outdoor-starter-pack.json](./301848-mirrorscape-outdoor-starter-pack.json) |
 | Misadventure In Little Lon | 125425 | [125425-misadventure-in-little-lon.json](./125425-misadventure-in-little-lon.json) |
 | Misadventures of Laura Silver - Chapter II | 121771 | [121771-misadventures-of-laura-silver-chapter-ii.json](./121771-misadventures-of-laura-silver-chapter-ii.json) |
+| Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Clara Edition | 232996 | [232996-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-clara-edition.json](./232996-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-clara-edition.json) |
 | Mischief Motors | 294130 | [294130-mischief-motors.json](./294130-mischief-motors.json) |
 | Miscrits: Volcano Island | 98465 | [98465-miscrits-volcano-island.json](./98465-miscrits-volcano-island.json) |
 | Misdecayed | 375847 | [375847-misdecayed.json](./375847-misdecayed.json) |
@@ -2152,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojito the Cat: Christmas Skins | 309642 | [309642-mojito-the-cat-christmas-skins.json](./309642-mojito-the-cat-christmas-skins.json) |
 | Mojito the Cat: Definitive Edition | 251600 | [251600-mojito-the-cat-definitive-edition.json](./251600-mojito-the-cat-definitive-edition.json) |
 | Mojito the Cat: Easter Edition | 246644 | [246644-mojito-the-cat-easter-edition.json](./246644-mojito-the-cat-easter-edition.json) |
+| Mojito the Cat: Extended Edition | 232995 | [232995-mojito-the-cat-extended-edition.json](./232995-mojito-the-cat-extended-edition.json) |
 | Mojito the Cat: Halloween Skins | 309643 | [309643-mojito-the-cat-halloween-skins.json](./309643-mojito-the-cat-halloween-skins.json) |
 | Mojito the Cat: Legendary Edition | 260686 | [260686-mojito-the-cat-legendary-edition.json](./260686-mojito-the-cat-legendary-edition.json) |
 | Mojito the Cat: Platina Edition | 262364 | [262364-mojito-the-cat-platina-edition.json](./262364-mojito-the-cat-platina-edition.json) |
