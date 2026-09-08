@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mania Fish | 188069 | [188069-mania-fish.json](./188069-mania-fish.json) |
 | Maniac Jackson and the Moonwalking Mindbenders | 93035 | [93035-maniac-jackson-and-the-moonwalking-mindbenders.json](./93035-maniac-jackson-and-the-moonwalking-mindbenders.json) |
 | Maniac Path 3 | 327824 | [327824-maniac-path-3.json](./327824-maniac-path-3.json) |
+| Manic Miner | 248054 | [248054-manic-miner.json](./248054-manic-miner.json) |
 | Manic you and depressed me | 357816 | [357816-manic-you-and-depressed-me.json](./357816-manic-you-and-depressed-me.json) |
 | Manifest | 215923 | [215923-manifest.json](./215923-manifest.json) |
 | Manifest No | 352162 | [352162-manifest-no.json](./352162-manifest-no.json) |
@@ -1001,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Lords: Soldier Kings of Europe | 69876 | [69876-medieval-lords-soldier-kings-of-europe.json](./69876-medieval-lords-soldier-kings-of-europe.json) |
 | Medieval Masters Collection | 131581 | [131581-medieval-masters-collection.json](./131581-medieval-masters-collection.json) |
 | Medieval Nightt: Part 1 | 311804 | [311804-medieval-nightt-part-1.json](./311804-medieval-nightt-part-1.json) |
+| Medieval Simulators: Baker | 248047 | [248047-medieval-simulators-baker.json](./248047-medieval-simulators-baker.json) |
 | Medieval Wars | 165697 | [165697-medieval-wars.json](./165697-medieval-wars.json) |
 | Medival Hustle | 304578 | [304578-medival-hustle.json](./304578-medival-hustle.json) |
 | Medusa Frontier | 196889 | [196889-medusa-frontier.json](./196889-medusa-frontier.json) |
@@ -1751,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miners' Union | 391065 | [391065-miners-union.json](./391065-miners-union.json) |
 | Minerva | 10129 | [10129-minerva.json](./10129-minerva.json) |
 | Mines | 102817 | [102817-mines.json](./102817-mines.json) |
+| Mines of Moria | 248063 | [248063-mines-of-moria.json](./248063-mines-of-moria.json) |
 | Mineshaft | 333023 | [333023-mineshaft.json](./333023-mineshaft.json) |
 | Minesweeper | 307595 | [307595-minesweeper.json](./307595-minesweeper.json) |
 | Minesweeper | 327606 | [327606-minesweeper.json](./327606-minesweeper.json) |
@@ -2603,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Hero | 157716 | [157716-mouse-hero.json](./157716-mouse-hero.json) |
 | Mouse Maze - Top Brain Puzzle | 89274 | [89274-mouse-maze-top-brain-puzzle.json](./89274-mouse-maze-top-brain-puzzle.json) |
 | Mouse Mind: Secrets of Pharaon | 73808 | [73808-mouse-mind-secrets-of-pharaon.json](./73808-mouse-mind-secrets-of-pharaon.json) |
+| Mouse Trap | 248053 | [248053-mouse-trap.json](./248053-mouse-trap.json) |
 | Mouse Work | 339137 | [339137-mouse-work.json](./339137-mouse-work.json) |
 | Mouseman: Point-and-Click RPG Adventure - Chapter 1 | 383353 | [383353-mouseman-point-and-click-rpg-adventure-chapter-1.json](./383353-mouseman-point-and-click-rpg-adventure-chapter-1.json) |
 | Mousement | 388727 | [388727-mousement.json](./388727-mousement.json) |
@@ -3170,6 +3174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Inn | 84272 | [84272-mystic-inn.json](./84272-mystic-inn.json) |
 | Mystic Kingdoms | 328456 | [328456-mystic-kingdoms.json](./328456-mystic-kingdoms.json) |
 | Mystic Land: The search for Maphaldo | 270967 | [270967-mystic-land-the-search-for-maphaldo.json](./270967-mystic-land-the-search-for-maphaldo.json) |
+| Mystic Mischief | 248029 | [248029-mystic-mischief.json](./248029-mystic-mischief.json) |
 | Mystic Store | 146889 | [146889-mystic-store.json](./146889-mystic-store.json) |
 | Mystic Strife | 278414 | [278414-mystic-strife.json](./278414-mystic-strife.json) |
 | Mystic Tower Legends | 341354 | [341354-mystic-tower-legends.json](./341354-mystic-tower-legends.json) |
