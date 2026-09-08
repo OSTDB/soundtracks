@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill PC | 121728 | [121728-kill-pc.json](./121728-kill-pc.json) |
 | Kill the Barney | 325819 | [325819-kill-the-barney.json](./325819-kill-the-barney.json) |
 | Kill the Brickman | 362260 | [362260-kill-the-brickman.json](./362260-kill-the-brickman.json) |
+| Kill The Crows | 253394 | [253394-kill-the-crows.json](./253394-kill-the-crows.json) |
 | Kill the Dragon | 184635 | [184635-kill-the-dragon.json](./184635-kill-the-dragon.json) |
 | Kill the Dragon | 268494 | [268494-kill-the-dragon.json](./268494-kill-the-dragon.json) |
 | Kill The Emoji: The Remake | 127094 | [127094-kill-the-emoji-the-remake.json](./127094-kill-the-emoji-the-remake.json) |
