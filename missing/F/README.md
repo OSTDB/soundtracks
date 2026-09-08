@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Manager 2021 | 139459 | [139459-farm-manager-2021.json](./139459-farm-manager-2021.json) |
 | Farm Manager 2021: Brewing & Winemaking | 171606 | [171606-farm-manager-2021-brewing-and-winemaking.json](./171606-farm-manager-2021-brewing-and-winemaking.json) |
 | Farm Manager 2022 | 193460 | [193460-farm-manager-2022.json](./193460-farm-manager-2022.json) |
+| Farm Manager World | 257967 | [257967-farm-manager-world.json](./257967-farm-manager-world.json) |
 | Farm Racing | 381014 | [381014-farm-racing.json](./381014-farm-racing.json) |
 | Farm Rescue | 359407 | [359407-farm-rescue.json](./359407-farm-rescue.json) |
 | Farm Slam | 241628 | [241628-farm-slam.json](./241628-farm-slam.json) |
@@ -463,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faucet VR | 89269 | [89269-faucet-vr.json](./89269-faucet-vr.json) |
 | Faul! | 194659 | [194659-faul.json](./194659-faul.json) |
 | Fault Milestone Two Side: Above | 35883 | [35883-fault-milestone-two-side-above.json](./35883-fault-milestone-two-side-above.json) |
+| Faunamorph | 257965 | [257965-faunamorph.json](./257965-faunamorph.json) |
 | Faustian Bargain | 209669 | [209669-faustian-bargain.json](./209669-faustian-bargain.json) |
 | Faylinn's Quest | 173840 | [173840-faylinns-quest.json](./173840-faylinns-quest.json) |
 | FC Barcelona Club Football 2005 | 267909 | [267909-fc-barcelona-club-football-2005.json](./267909-fc-barcelona-club-football-2005.json) |
@@ -777,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fio Fizhook | 296365 | [296365-fio-fizhook.json](./296365-fio-fizhook.json) |
 | Fira | 173315 | [173315-fira.json](./173315-fira.json) |
 | Fire & Water | 147997 | [147997-fire-and-water.json](./147997-fire-and-water.json) |
+| Fire All Weapons | 257973 | [257973-fire-all-weapons.json](./257973-fire-all-weapons.json) |
 | Fire and Ashes | 339624 | [339624-fire-and-ashes.json](./339624-fire-and-ashes.json) |
 | Fire and Brim Co. | 258708 | [258708-fire-and-brim-co.json](./258708-fire-and-brim-co.json) |
 | Fire Ant | 93077 | [93077-fire-ant.json](./93077-fire-ant.json) |
@@ -1120,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flirt | 130362 | [130362-flirt.json](./130362-flirt.json) |
 | Flirting Island | 303786 | [303786-flirting-island.json](./303786-flirting-island.json) |
 | Flixy Cats | 165034 | [165034-flixy-cats.json](./165034-flixy-cats.json) |
+| Float: Champions | 257948 | [257948-float-champions.json](./257948-float-champions.json) |
 | Floating Cloud God: Anniversary Edition | 225881 | [225881-floating-cloud-god-anniversary-edition.json](./225881-floating-cloud-god-anniversary-edition.json) |
 | Floating with Spirits | 383368 | [383368-floating-with-spirits.json](./383368-floating-with-spirits.json) |
 | Floatopia | 314274 | [314274-floatopia.json](./314274-floatopia.json) |
@@ -1338,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ford vs. Chevy | 5838 | [5838-ford-vs-chevy.json](./5838-ford-vs-chevy.json) |
 | Forebears | 211934 | [211934-forebears.json](./211934-forebears.json) |
 | Forecast Death | 382758 | [382758-forecast-death.json](./382758-forecast-death.json) |
+| Forehead Chip | 257939 | [257939-forehead-chip.json](./257939-forehead-chip.json) |
 | Foreign Body | 236549 | [236549-foreign-body.json](./236549-foreign-body.json) |
 | Foreman Frenzy! | 343284 | [343284-foreman-frenzy.json](./343284-foreman-frenzy.json) |
 | Forensic Science Mystery | 399633 | [399633-forensic-science-mystery.json](./399633-forensic-science-mystery.json) |
