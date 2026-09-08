@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanou Kaihatsu Series 5: Meiro, Kioku | 303764 | [303764-sanou-kaihatsu-series-5-meiro-kioku.json](./303764-sanou-kaihatsu-series-5-meiro-kioku.json) |
 | Sanou Kaihatsu Series 6 Ouyou Mondai | 303766 | [303766-sanou-kaihatsu-series-6-ouyou-mondai.json](./303766-sanou-kaihatsu-series-6-ouyou-mondai.json) |
 | Sanrio Characters Miracle Match: Magical Onigokko | 334648 | [334648-sanrio-characters-miracle-match-magical-onigokko.json](./334648-sanrio-characters-miracle-match-magical-onigokko.json) |
+| Sanrio Danshi: Watashi, Koi Wo, Shirimashita | 229031 | [229031-sanrio-danshi-watashi-koi-wo-shirimashita.json](./229031-sanrio-danshi-watashi-koi-wo-shirimashita.json) |
 | Sanrio Timenet World | 302682 | [302682-sanrio-timenet-world.json](./302682-sanrio-timenet-world.json) |
 | Sans & Papyrus: Salsa Lesson | 367395 | [367395-sans-and-papyrus-salsa-lesson.json](./367395-sans-and-papyrus-salsa-lesson.json) |
 | Sansara Naga 1 | 341472 | [341472-sansara-naga-1.json](./341472-sansara-naga-1.json) |
@@ -1278,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shikinjou | 231346 | [231346-shikinjou.json](./231346-shikinjou.json) |
 | Shimajiro no Eigo Activity Ehon: ABC Park de Asobou! | 327617 | [327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json](./327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json) |
 | Shime Houmeichou | 415071 | [415071-shime-houmeichou.json](./415071-shime-houmeichou.json) |
+| Shin Fumi Ikemen Ouoku Kinjirareta Koi | 229027 | [229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json](./229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json) |
 | Shin Hayarigami | 79331 | [79331-shin-hayarigami.json](./79331-shin-hayarigami.json) |
 | Shin Hayarigami: Secret Club | 100817 | [100817-shin-hayarigami-secret-club.json](./100817-shin-hayarigami-secret-club.json) |
 | Shin Hisui no Shizuku: Hiiro no Kakera 2 DS | 124278 | [124278-shin-hisui-no-shizuku-hiiro-no-kakera-2-ds.json](./124278-shin-hisui-no-shizuku-hiiro-no-kakera-2-ds.json) |
@@ -1481,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek Playtime is Ogre | 302687 | [302687-shrek-playtime-is-ogre.json](./302687-shrek-playtime-is-ogre.json) |
 | Shrek Playtime is Ogre 2 | 302685 | [302685-shrek-playtime-is-ogre-2.json](./302685-shrek-playtime-is-ogre-2.json) |
 | Shrek Sugar Fever | 97357 | [97357-shrek-sugar-fever.json](./97357-shrek-sugar-fever.json) |
+| Shrek: Fire Donkey | 229066 | [229066-shrek-fire-donkey.json](./229066-shrek-fire-donkey.json) |
 | Shrek's Vacation | 230274 | [230274-shreks-vacation.json](./230274-shreks-vacation.json) |
 | Shrimp | 314251 | [314251-shrimp.json](./314251-shrimp.json) |
 | Shrimp Keeping Simulator | 340371 | [340371-shrimp-keeping-simulator.json](./340371-shrimp-keeping-simulator.json) |
@@ -4467,6 +4470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suisenka | 261776 | [261776-suisenka.json](./261776-suisenka.json) |
 | SuiSui Sweet | 254547 | [254547-suisui-sweet.json](./254547-suisui-sweet.json) |
 | Suite PreCure: Happy Oshare Harmony | 327601 | [327601-suite-precure-happy-oshare-harmony.json](./327601-suite-precure-happy-oshare-harmony.json) |
+| Suite Room no Nemurihime Celebteki Zeitaku Ren'ai | 229029 | [229029-suite-room-no-nemurihime-celebteki-zeitaku-renai.json](./229029-suite-room-no-nemurihime-celebteki-zeitaku-renai.json) |
 | Suīyáng: Shī Yǔ Huǒ | 374626 | [374626-suiyang-shi-yu-huo.json](./374626-suiyang-shi-yu-huo.json) |
 | Sukeban Deka III | 48684 | [48684-sukeban-deka-iii.json](./48684-sukeban-deka-iii.json) |
 | Sukutte: Save Me... | 130358 | [130358-sukutte-save-me.json](./130358-sukutte-save-me.json) |
