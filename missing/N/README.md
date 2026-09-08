@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No-brainer! Heroes | 134655 | [134655-no-brainer-heroes.json](./134655-no-brainer-heroes.json) |
 | No, Birdie, No! | 128640 | [128640-no-birdie-no.json](./128640-no-birdie-no.json) |
 | Noa Noa! | 115029 | [115029-noa-noa.json](./115029-noa-noa.json) |
+| Noah in a Dream | 236295 | [236295-noah-in-a-dream.json](./236295-noah-in-a-dream.json) |
 | Noah no Yurikago | 58830 | [58830-noah-no-yurikago.json](./58830-noah-no-yurikago.json) |
 | Noah's Ark: Animal Adventure | 326586 | [326586-noahs-ark-animal-adventure.json](./326586-noahs-ark-animal-adventure.json) |
 | Noah's Descent into Madness | 267096 | [267096-noahs-descent-into-madness.json](./267096-noahs-descent-into-madness.json) |
