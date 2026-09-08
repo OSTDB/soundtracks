@@ -622,15 +622,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 14 | 240422 | [240422-fifa-14.json](./240422-fifa-14.json) |
 | FIFA 16 | 11071 | [11071-fifa-16.json](./11071-fifa-16.json) |
 | FIFA 19: Ultimate Edition | 111047 | [111047-fifa-19-ultimate-edition.json](./111047-fifa-19-ultimate-edition.json) |
+| FIFA 2001: Major League Soccer | 240243 | [240243-fifa-2001-major-league-soccer.json](./240243-fifa-2001-major-league-soccer.json) |
 | FIFA 22 | 240455 | [240455-fifa-22.json](./240455-fifa-22.json) |
 | FIFA 22: Legacy Edition | 155102 | [155102-fifa-22-legacy-edition.json](./155102-fifa-22-legacy-edition.json) |
 | FIFA 22: Ultimate Edition | 155101 | [155101-fifa-22-ultimate-edition.json](./155101-fifa-22-ultimate-edition.json) |
+| FIFA International Soccer | 240238 | [240238-fifa-international-soccer.json](./240238-fifa-international-soccer.json) |
+| FIFA International Soccer | 240239 | [240239-fifa-international-soccer.json](./240239-fifa-international-soccer.json) |
 | FIFA Manager 07 | 20676 | [20676-fifa-manager-07.json](./20676-fifa-manager-07.json) |
 | FIFA Manager 12 | 20684 | [20684-fifa-manager-12.json](./20684-fifa-manager-12.json) |
 | FIFA Soccer 07 | 696 | [696-fifa-soccer-07.json](./696-fifa-soccer-07.json) |
 | FIFA Soccer 11 | 503 | [503-fifa-soccer-11.json](./503-fifa-soccer-11.json) |
 | FIFA Soccer 2003 | 229956 | [229956-fifa-soccer-2003.json](./229956-fifa-soccer-2003.json) |
 | FIFA Soccer 64 | 10682 | [10682-fifa-soccer-64.json](./10682-fifa-soccer-64.json) |
+| FIFA Soccer 96 | 240232 | [240232-fifa-soccer-96.json](./240232-fifa-soccer-96.json) |
+| FIFA Soccer 96 | 240234 | [240234-fifa-soccer-96.json](./240234-fifa-soccer-96.json) |
+| FIFA Soccer 96 | 240236 | [240236-fifa-soccer-96.json](./240236-fifa-soccer-96.json) |
 | FIFA Street 3 | 7304 | [7304-fifa-street-3.json](./7304-fifa-street-3.json) |
 | FIFA: Road to World Cup 98 | 705 | [705-fifa-road-to-world-cup-98.json](./705-fifa-road-to-world-cup-98.json) |
 | Fifi's Fortunes: Reclamation | 253944 | [253944-fifis-fortunes-reclamation.json](./253944-fifis-fortunes-reclamation.json) |
@@ -1500,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Racing Pro 2026: Upgrade Edition | 396918 | [396918-formula-racing-pro-2026-upgrade-edition.json](./396918-formula-racing-pro-2026-upgrade-edition.json) |
 | Formula Top | 199646 | [199646-formula-top.json](./199646-formula-top.json) |
 | Formula X | 99643 | [99643-formula-x.json](./99643-formula-x.json) |
+| Forsake The Rake | 240240 | [240240-forsake-the-rake.json](./240240-forsake-the-rake.json) |
 | Forsaken Compound | 299441 | [299441-forsaken-compound.json](./299441-forsaken-compound.json) |
 | Forsaken Ones | 360008 | [360008-forsaken-ones.json](./360008-forsaken-ones.json) |
 | Forsaken Overlook | 256823 | [256823-forsaken-overlook.json](./256823-forsaken-overlook.json) |
@@ -1777,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Frenzy | 87707 | [87707-frog-frenzy.json](./87707-frog-frenzy.json) |
 | Frog Jump | 273912 | [273912-frog-jump.json](./273912-frog-jump.json) |
 | Frog on Ice | 100884 | [100884-frog-on-ice.json](./100884-frog-on-ice.json) |
+| Frog Quest | 240235 | [240235-frog-quest.json](./240235-frog-quest.json) |
 | Frog Space | 133468 | [133468-frog-space.json](./133468-frog-space.json) |
 | Frog Street A-Z | 100818 | [100818-frog-street-a-z.json](./100818-frog-street-a-z.json) |
 | Frogenlav: Skyward Bound | 278418 | [278418-frogenlav-skyward-bound.json](./278418-frogenlav-skyward-bound.json) |
