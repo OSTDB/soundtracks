@@ -1367,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambitious Mission | 293897 | [293897-ambitious-mission.json](./293897-ambitious-mission.json) |
 | Ambulance Driver | 311816 | [311816-ambulance-driver.json](./311816-ambulance-driver.json) |
 | Ambulance Life: A Paramedic Simulator - Bay Side Expansion | 334668 | [334668-ambulance-life-a-paramedic-simulator-bay-side-expansion.json](./334668-ambulance-life-a-paramedic-simulator-bay-side-expansion.json) |
+| Ambulance Race | 221712 | [221712-ambulance-race.json](./221712-ambulance-race.json) |
 | Ambush in Sector 9 | 311279 | [311279-ambush-in-sector-9.json](./311279-ambush-in-sector-9.json) |
 | Ambush: Convoy Strike | 154559 | [154559-ambush-convoy-strike.json](./154559-ambush-convoy-strike.json) |
 | Ambuuu | 329936 | [329936-ambuuu.json](./329936-ambuuu.json) |
@@ -1723,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annoying Orange: Splatter Up! | 108462 | [108462-annoying-orange-splatter-up.json](./108462-annoying-orange-splatter-up.json) |
 | Annulus | 196308 | [196308-annulus.json](./196308-annulus.json) |
 | Annunaki Clicker | 348786 | [348786-annunaki-clicker.json](./348786-annunaki-clicker.json) |
+| Annventure | 221769 | [221769-annventure.json](./221769-annventure.json) |
 | Ano Hi wo Mou Ichido | 220318 | [220318-ano-hi-wo-mou-ichido.json](./220318-ano-hi-wo-mou-ichido.json) |
 | Ano Ko Doko no Ko | 314652 | [314652-ano-ko-doko-no-ko.json](./314652-ano-ko-doko-no-ko.json) |
 | Ano ne DS | 130388 | [130388-ano-ne-ds.json](./130388-ano-ne-ds.json) |
@@ -1951,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ar nosurge Plus: Ode to an Unborn Star - Limited Edition | 89915 | [89915-ar-nosurge-plus-ode-to-an-unborn-star-limited-edition.json](./89915-ar-nosurge-plus-ode-to-an-unborn-star-limited-edition.json) |
 | AR Race Car | 242215 | [242215-ar-race-car.json](./242215-ar-race-car.json) |
 | Ar3na | 257937 | [257937-ar3na.json](./257937-ar3na.json) |
+| Arab Drift Cars | 221746 | [221746-arab-drift-cars.json](./221746-arab-drift-cars.json) |
 | Arab Drift Cars 2 | 330192 | [330192-arab-drift-cars-2.json](./330192-arab-drift-cars-2.json) |
 | Arabian Nights: Sabaku no Seirei-ou | 38381 | [38381-arabian-nights-sabaku-no-seirei-ou.json](./38381-arabian-nights-sabaku-no-seirei-ou.json) |
 | Arachnoid | 23886 | [23886-arachnoid.json](./23886-arachnoid.json) |
