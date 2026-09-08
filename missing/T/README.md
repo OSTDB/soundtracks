@@ -1327,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Drugstore: Matsumoto Kiyoshi de Okaimono! | 280792 | [280792-the-drugstore-matsumoto-kiyoshi-de-okaimono.json](./280792-the-drugstore-matsumoto-kiyoshi-de-okaimono.json) |
 | The Duck Pond | 310220 | [310220-the-duck-pond.json](./310220-the-duck-pond.json) |
 | The Ducksuckers | 195245 | [195245-the-ducksuckers.json](./195245-the-ducksuckers.json) |
+| The Duduk Master | 232433 | [232433-the-duduk-master.json](./232433-the-duduk-master.json) |
 | The Dukes of Hazzard: Return of the General Lee | 5818 | [5818-the-dukes-of-hazzard-return-of-the-general-lee.json](./5818-the-dukes-of-hazzard-return-of-the-general-lee.json) |
 | The Dungeon of Doom | 229374 | [229374-the-dungeon-of-doom.json](./229374-the-dungeon-of-doom.json) |
 | The Dungeon of Naheulbeuk: The Amulet of Chaos - Chicken Edition: Splat Jaypak's Arenas | 199115 | [199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json](./199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json) |
@@ -1592,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great War: Western Front | 214505 | [214505-the-great-war-western-front.json](./214505-the-great-war-western-front.json) |
 | The Great Yokai of the Haunted Halls | 331118 | [331118-the-great-yokai-of-the-haunted-halls.json](./331118-the-great-yokai-of-the-haunted-halls.json) |
 | The Green Hook Fighter | 377075 | [377075-the-green-hook-fighter.json](./377075-the-green-hook-fighter.json) |
+| The Green Room Experiment: Episode 1 | 232432 | [232432-the-green-room-experiment-episode-1.json](./232432-the-green-room-experiment-episode-1.json) |
 | The Green Room Experiment: Episode 1 VR | 243678 | [243678-the-green-room-experiment-episode-1-vr.json](./243678-the-green-room-experiment-episode-1-vr.json) |
 | The Griffon Legend | 202975 | [202975-the-griffon-legend.json](./202975-the-griffon-legend.json) |
 | The Growth Project | 26614 | [26614-the-growth-project.json](./26614-the-growth-project.json) |
@@ -2461,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Back to School Bundle | 159331 | [159331-the-sims-4-back-to-school-bundle.json](./159331-the-sims-4-back-to-school-bundle.json) |
 | The Sims 4: Backyard Stuff | 121024 | [121024-the-sims-4-backyard-stuff.json](./121024-the-sims-4-backyard-stuff.json) |
 | The Sims 4: Basement Treasures Kit | 246619 | [246619-the-sims-4-basement-treasures-kit.json](./246619-the-sims-4-basement-treasures-kit.json) |
+| The Sims 4: Bathroom Clutter Kit | 232428 | [232428-the-sims-4-bathroom-clutter-kit.json](./232428-the-sims-4-bathroom-clutter-kit.json) |
 | The Sims 4: Bikini Bottom Bundle - Conch Street Aquarium and The Flying Dutchman's Jungle Gym | 404227 | [404227-the-sims-4-bikini-bottom-bundle-conch-street-aquarium-and-the-flying-dutchmans-jungle-gym.json](./404227-the-sims-4-bikini-bottom-bundle-conch-street-aquarium-and-the-flying-dutchmans-jungle-gym.json) |
 | The Sims 4: Bikini Bottom Bundle - Goofy Goober Guitar | 404226 | [404226-the-sims-4-bikini-bottom-bundle-goofy-goober-guitar.json](./404226-the-sims-4-bikini-bottom-bundle-goofy-goober-guitar.json) |
 | The Sims 4: Bowling Night Stuff | 121026 | [121026-the-sims-4-bowling-night-stuff.json](./121026-the-sims-4-bowling-night-stuff.json) |
@@ -2495,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Seasons, Jungle Adventure, Spooky Stuff | 159332 | [159332-the-sims-4-seasons-jungle-adventure-spooky-stuff.json](./159332-the-sims-4-seasons-jungle-adventure-spooky-stuff.json) |
 | The Sims 4: Silver Screen Style Kit | 404223 | [404223-the-sims-4-silver-screen-style-kit.json](./404223-the-sims-4-silver-screen-style-kit.json) |
 | The Sims 4: Sims' Night Out Bundle | 159337 | [159337-the-sims-4-sims-night-out-bundle.json](./159337-the-sims-4-sims-night-out-bundle.json) |
+| The Sims 4: Simtimates Collection Kit | 232427 | [232427-the-sims-4-simtimates-collection-kit.json](./232427-the-sims-4-simtimates-collection-kit.json) |
 | The Sims 4: Spa Day | 13146 | [13146-the-sims-4-spa-day.json](./13146-the-sims-4-spa-day.json) |
 | The Sims 4: SpongeBob Kid’s Room Kit | 404229 | [404229-the-sims-4-spongebob-kid-s-room-kit.json](./404229-the-sims-4-spongebob-kid-s-room-kit.json) |
 | The Sims 4: SpongeBob’s House Kit | 404228 | [404228-the-sims-4-spongebob-s-house-kit.json](./404228-the-sims-4-spongebob-s-house-kit.json) |
@@ -4082,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 3: Niddertalbahn - Bad Vilbel - Stockheim Route Add-On | 269329 | [269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json](./269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json) |
 | Train Sim World 3: Northeast Corridor - New York: Trenton | 237942 | [237942-train-sim-world-3-northeast-corridor-new-york-trenton.json](./237942-train-sim-world-3-northeast-corridor-new-york-trenton.json) |
 | Train Sim World 3: Peak Forest Railway - Ambergate - Chinley & Buxton | 273930 | [273930-train-sim-world-3-peak-forest-railway-ambergate-chinley-and-buxton.json](./273930-train-sim-world-3-peak-forest-railway-ambergate-chinley-and-buxton.json) |
+| Train Sim World 3: ScotRail Express: Edinburgh - Glasgow Route | 232430 | [232430-train-sim-world-3-scotrail-express-edinburgh-glasgow-route.json](./232430-train-sim-world-3-scotrail-express-edinburgh-glasgow-route.json) |
 | Train Sim World 3: Union Pacific Heritage - Livery Collection | 237943 | [237943-train-sim-world-3-union-pacific-heritage-livery-collection.json](./237943-train-sim-world-3-union-pacific-heritage-livery-collection.json) |
 | Train Sim World 4: Antelope Valley Line - Los Angeles - Lancaster Route | 269324 | [269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json](./269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json) |
 | Train Sim World 4: Berninalinie - Tirano: Ospizio Bernina Route | 286525 | [286525-train-sim-world-4-berninalinie-tirano-ospizio-bernina-route.json](./286525-train-sim-world-4-berninalinie-tirano-ospizio-bernina-route.json) |
