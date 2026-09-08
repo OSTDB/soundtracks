@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.E.A. | 161383 | [161383-s-e-a.json](./161383-s-e-a.json) |
 | S.E.X. Retreat: WellCum In! | 278381 | [278381-s-e-x-retreat-wellcum-in.json](./278381-s-e-x-retreat-wellcum-in.json) |
 | S.I.P. SE: Safety is Power | 302386 | [302386-s-i-p-se-safety-is-power.json](./302386-s-i-p-se-safety-is-power.json) |
+| S.M.A.C.K. | 225097 | [225097-s-m-a-c-k.json](./225097-s-m-a-c-k.json) |
 | S.M.A.R.T. Adventures: Mission Math - Sabotage at the Space Station | 86092 | [86092-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json](./86092-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json) |
 | S.N.I.P.E.R.: Hunter Scope - Comprehensive Edition | 396929 | [396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json](./396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - GOTY Edition | 283164 | [283164-s-n-i-p-e-r-hunter-scope-goty-edition.json](./283164-s-n-i-p-e-r-hunter-scope-goty-edition.json) |
@@ -262,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanction | 203533 | [203533-sanction.json](./203533-sanction.json) |
 | Sanctity | 282551 | [282551-sanctity.json](./282551-sanctity.json) |
 | Sanctuarium Online | 191858 | [191858-sanctuarium-online.json](./191858-sanctuarium-online.json) |
+| Sanctum: Map Pack 2 | 225076 | [225076-sanctum-map-pack-2.json](./225076-sanctum-map-pack-2.json) |
 | Sanctus | 235775 | [235775-sanctus.json](./235775-sanctus.json) |
 | Sanctus Mortem | 102912 | [102912-sanctus-mortem.json](./102912-sanctus-mortem.json) |
 | Sand Castles | 161387 | [161387-sand-castles.json](./161387-sand-castles.json) |
@@ -332,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Throw | 186907 | [186907-santa-throw.json](./186907-santa-throw.json) |
 | Santa's Big Sack | 380442 | [380442-santas-big-sack.json](./380442-santas-big-sack.json) |
 | Santa's Factory | 279588 | [279588-santas-factory.json](./279588-santas-factory.json) |
+| Santa's Gifts | 225074 | [225074-santas-gifts.json](./225074-santas-gifts.json) |
 | Santa's Gifts Load | 378769 | [378769-santas-gifts-load.json](./378769-santas-gifts-load.json) |
 | Santa's Letters VR | 257066 | [257066-santas-letters-vr.json](./257066-santas-letters-vr.json) |
 | Santa's Spot It | 317227 | [317227-santas-spot-it.json](./317227-santas-spot-it.json) |
@@ -387,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage Turret | 248074 | [248074-savage-turret.json](./248074-savage-turret.json) |
 | Savage: The Shard of Gosen | 34332 | [34332-savage-the-shard-of-gosen.json](./34332-savage-the-shard-of-gosen.json) |
 | Savage: The Ultimate Quest for Survival | 69890 | [69890-savage-the-ultimate-quest-for-survival.json](./69890-savage-the-ultimate-quest-for-survival.json) |
+| Savage: Ultimate Boss Fight | 225075 | [225075-savage-ultimate-boss-fight.json](./225075-savage-ultimate-boss-fight.json) |
 | Savant: Ascent - Anniversary Edition | 245867 | [245867-savant-ascent-anniversary-edition.json](./245867-savant-ascent-anniversary-edition.json) |
 | Save City R | 260399 | [260399-save-city-r.json](./260399-save-city-r.json) |
 | Save Da Frogs | 237047 | [237047-save-da-frogs.json](./237047-save-da-frogs.json) |
@@ -623,6 +627,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam Battle Alliance: Limited Edition | 205271 | [205271-sd-gundam-battle-alliance-limited-edition.json](./205271-sd-gundam-battle-alliance-limited-edition.json) |
 | SD Gundam Battle Alliance: Unit and Scenario Pack 2 | 237976 | [237976-sd-gundam-battle-alliance-unit-and-scenario-pack-2.json](./237976-sd-gundam-battle-alliance-unit-and-scenario-pack-2.json) |
 | SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 1 | 238486 | [238486-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-1.json](./238486-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-1.json) |
+| SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 3 | 225077 | [225077-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-3.json](./225077-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-3.json) |
+| SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 4 | 225078 | [225078-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-4.json](./225078-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-4.json) |
+| SD Gundam G Generation Cross Rays: Expansion Pack | 225079 | [225079-sd-gundam-g-generation-cross-rays-expansion-pack.json](./225079-sd-gundam-g-generation-cross-rays-expansion-pack.json) |
 | SD Hiryuu no Ken Gaiden | 64968 | [64968-sd-hiryuu-no-ken-gaiden.json](./64968-sd-hiryuu-no-ken-gaiden.json) |
 | SD Sengoku-den: Tenka Touitsu-hen - Aku Mu Haiki Yume Yama no Tatakai! | 346026 | [346026-sd-sengoku-den-tenka-touitsu-hen-aku-mu-haiki-yume-yama-no-tatakai.json](./346026-sd-sengoku-den-tenka-touitsu-hen-aku-mu-haiki-yume-yama-no-tatakai.json) |
 | SDK Paint | 84860 | [84860-sdk-paint.json](./84860-sdk-paint.json) |
@@ -759,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seduce Me: The Complete Story | 134665 | [134665-seduce-me-the-complete-story.json](./134665-seduce-me-the-complete-story.json) |
 | Seduce, Breed, Conquer | 376448 | [376448-seduce-breed-conquer.json](./376448-seduce-breed-conquer.json) |
 | Seduced in the Sleepless City | 220877 | [220877-seduced-in-the-sleepless-city.json](./220877-seduced-in-the-sleepless-city.json) |
+| Seductive Solitude | 225080 | [225080-seductive-solitude.json](./225080-seductive-solitude.json) |
 | See Me | 97903 | [97903-see-me.json](./97903-see-me.json) |
 | See You Later | 235451 | [235451-see-you-later.json](./235451-see-you-later.json) |
 | Seeb Defender | 244777 | [244777-seeb-defender.json](./244777-seeb-defender.json) |
@@ -1025,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Code: Lucy | 297217 | [297217-shadow-code-lucy.json](./297217-shadow-code-lucy.json) |
 | Shadow Council: The Puppeteers | 102949 | [102949-shadow-council-the-puppeteers.json](./102949-shadow-council-the-puppeteers.json) |
 | Shadow Eclipse | 166766 | [166766-shadow-eclipse.json](./166766-shadow-eclipse.json) |
+| Shadow Empire: Oceania | 225088 | [225088-shadow-empire-oceania.json](./225088-shadow-empire-oceania.json) |
 | Shadow Falls | 311258 | [311258-shadow-falls.json](./311258-shadow-falls.json) |
 | Shadow Fate | 191264 | [191264-shadow-fate.json](./191264-shadow-fate.json) |
 | Shadow Fight 2: Special Edition | 68463 | [68463-shadow-fight-2-special-edition.json](./68463-shadow-fight-2-special-edition.json) |
@@ -1782,10 +1791,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siren's Call: Escape Velocity | 258728 | [258728-sirens-call-escape-velocity.json](./258728-sirens-call-escape-velocity.json) |
 | Sirène | 310975 | [310975-sirene.json](./310975-sirene.json) |
 | SirKwitz | 306336 | [306336-sirkwitz.json](./306336-sirkwitz.json) |
+| Sisters of Sweetwater | 225091 | [225091-sisters-of-sweetwater.json](./225091-sisters-of-sweetwater.json) |
 | Sisyphus | 340369 | [340369-sisyphus.json](./340369-sisyphus.json) |
 | Sisyphus Is a Bug | 372456 | [372456-sisyphus-is-a-bug.json](./372456-sisyphus-is-a-bug.json) |
 | Site Z-374 | 308271 | [308271-site-z-374.json](./308271-site-z-374.json) |
 | Sitnalta | 268762 | [268762-sitnalta.json](./268762-sitnalta.json) |
+| Sitri: Shadow Walk | 225092 | [225092-sitri-shadow-walk.json](./225092-sitri-shadow-walk.json) |
 | Situation Outbreak | 91456 | [91456-situation-outbreak.json](./91456-situation-outbreak.json) |
 | Six | 60012 | [60012-six.json](./60012-six.json) |
 | Six & Six | 392759 | [392759-six-and-six.json](./392759-six-and-six.json) |
@@ -1799,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six-Guns: Gang Showdown | 38991 | [38991-six-guns-gang-showdown.json](./38991-six-guns-gang-showdown.json) |
 | Six-Sided Streets | 234897 | [234897-six-sided-streets.json](./234897-six-sided-streets.json) |
 | Sixtar Gate: Startrail - Dystopia Pack | 293402 | [293402-sixtar-gate-startrail-dystopia-pack.json](./293402-sixtar-gate-startrail-dystopia-pack.json) |
+| Sixtar Gate: Startrail - Flower & Destiny Pack | 225093 | [225093-sixtar-gate-startrail-flower-and-destiny-pack.json](./225093-sixtar-gate-startrail-flower-and-destiny-pack.json) |
 | Sixtar Gate: Startrail - Oshiribeat Pack | 284913 | [284913-sixtar-gate-startrail-oshiribeat-pack.json](./284913-sixtar-gate-startrail-oshiribeat-pack.json) |
 | Sixteen Undead | 340368 | [340368-sixteen-undead.json](./340368-sixteen-undead.json) |
 | Sixty Jumps to Ceres | 258479 | [258479-sixty-jumps-to-ceres.json](./258479-sixty-jumps-to-ceres.json) |
@@ -1824,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skateboarding | 358842 | [358842-skateboarding.json](./358842-skateboarding.json) |
 | Skatemasta Tcheco | 118401 | [118401-skatemasta-tcheco.json](./118401-skatemasta-tcheco.json) |
 | SkateNationXL | 272579 | [272579-skatenationxl.json](./272579-skatenationxl.json) |
+| Skater XL: Tampa Pro 2022 Gear Pack For Charity | 225094 | [225094-skater-xl-tampa-pro-2022-gear-pack-for-charity.json](./225094-skater-xl-tampa-pro-2022-gear-pack-for-charity.json) |
 | Skautfold: Shrouded in Sanity | 19481 | [19481-skautfold-shrouded-in-sanity.json](./19481-skautfold-shrouded-in-sanity.json) |
 | Skeal | 185682 | [185682-skeal.json](./185682-skeal.json) |
 | Skedaddling In Egypt | 244244 | [244244-skedaddling-in-egypt.json](./244244-skedaddling-in-egypt.json) |
@@ -2088,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slip, Slap 'n' Quack! | 177020 | [177020-slip-slap-n-quack.json](./177020-slip-slap-n-quack.json) |
 | Slipgate to a Lost Dimension | 271188 | [271188-slipgate-to-a-lost-dimension.json](./271188-slipgate-to-a-lost-dimension.json) |
 | Slippery ice | 177008 | [177008-slippery-ice.json](./177008-slippery-ice.json) |
+| Slippery Richard!: He's Taller Than My Husband | 225100 | [225100-slippery-richard-hes-taller-than-my-husband.json](./225100-slippery-richard-hes-taller-than-my-husband.json) |
 | Slippery Sammy | 252982 | [252982-slippery-sammy.json](./252982-slippery-sammy.json) |
 | SlipSpeed | 132818 | [132818-slipspeed.json](./132818-slipspeed.json) |
 | Slither.io | 239311 | [239311-slither-io.json](./239311-slither-io.json) |
@@ -2110,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slow.Bullet VR | 392797 | [392797-slow-bullet-vr.json](./392797-slow-bullet-vr.json) |
 | Slowly Fighter | 333926 | [333926-slowly-fighter.json](./333926-slowly-fighter.json) |
 | Slug Blast | 28893 | [28893-slug-blast.json](./28893-slug-blast.json) |
+| Slugmania | 225098 | [225098-slugmania.json](./225098-slugmania.json) |
 | Slugterra: Dark Waters | 327630 | [327630-slugterra-dark-waters.json](./327630-slugterra-dark-waters.json) |
 | Slumberfish! | 243954 | [243954-slumberfish.json](./243954-slumberfish.json) |
 | Sly 3: Honor Among Thieves | 222127 | [222127-sly-3-honor-among-thieves.json](./222127-sly-3-honor-among-thieves.json) |
@@ -4969,6 +4984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Paper Mario: Hard Mode - Rubies & Magic | 344918 | [344918-super-paper-mario-hard-mode-rubies-and-magic.json](./344918-super-paper-mario-hard-mode-rubies-and-magic.json) |
 | Super Party Games Online | 306098 | [306098-super-party-games-online.json](./306098-super-party-games-online.json) |
 | Super Pig | 120989 | [120989-super-pig.json](./120989-super-pig.json) |
+| Super Planet Life | 225101 | [225101-super-planet-life.json](./225101-super-planet-life.json) |
 | Super Pocket: Atari Edition | 327197 | [327197-super-pocket-atari-edition.json](./327197-super-pocket-atari-edition.json) |
 | Super Pole Position | 108506 | [108506-super-pole-position.json](./108506-super-pole-position.json) |
 | Super Punch | 147959 | [147959-super-punch.json](./147959-super-punch.json) |
