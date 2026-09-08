@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man | 88904 | [88904-pac-man.json](./88904-pac-man.json) |
 | Pac-Man & Galaga Dimensions | 6861 | [6861-pac-man-and-galaga-dimensions.json](./6861-pac-man-and-galaga-dimensions.json) |
 | Pac-Man 256 | 14701 | [14701-pac-man-256.json](./14701-pac-man-256.json) |
+| Pac-Man 99: Deluxe Pack | 237983 | [237983-pac-man-99-deluxe-pack.json](./237983-pac-man-99-deluxe-pack.json) |
 | Pac-Man and the Ghostly Adventures | 19940 | [19940-pac-man-and-the-ghostly-adventures.json](./19940-pac-man-and-the-ghostly-adventures.json) |
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
 | Pac-Mania | 284365 | [284365-pac-mania.json](./284365-pac-mania.json) |
@@ -379,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Arcade: Enhanced Edition | 330186 | [330186-party-arcade-enhanced-edition.json](./330186-party-arcade-enhanced-edition.json) |
 | Party Club | 295020 | [295020-party-club.json](./295020-party-club.json) |
 | Party Golf | 31009 | [31009-party-golf.json](./31009-party-golf.json) |
+| Party Hard Pack | 237984 | [237984-party-hard-pack.json](./237984-party-hard-pack.json) |
 | Party Hard: High Crimes | 171630 | [171630-party-hard-high-crimes.json](./171630-party-hard-high-crimes.json) |
 | Party Jousting | 33608 | [33608-party-jousting.json](./33608-party-jousting.json) |
 | Party Party Time | 231043 | [231043-party-party-time.json](./231043-party-party-time.json) |
@@ -700,6 +702,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Puzzle | 119025 | [119025-pet-puzzle.json](./119025-pet-puzzle.json) |
 | Pet Rock Duty | 278994 | [278994-pet-rock-duty.json](./278994-pet-rock-duty.json) |
 | Pet Shop Simulator | 248906 | [248906-pet-shop-simulator.json](./248906-pet-shop-simulator.json) |
+| Pet Shop Snacks: Expansion Pack 1 | 237981 | [237981-pet-shop-snacks-expansion-pack-1.json](./237981-pet-shop-snacks-expansion-pack-1.json) |
+| Pet Shop Snacks: Expansion Pack 2 | 237982 | [237982-pet-shop-snacks-expansion-pack-2.json](./237982-pet-shop-snacks-expansion-pack-2.json) |
 | Pet Show Craze | 177041 | [177041-pet-show-craze.json](./177041-pet-show-craze.json) |
 | Pet Tycoon | 209158 | [209158-pet-tycoon.json](./209158-pet-tycoon.json) |
 | Pet Vet 3D: Animal Hospital | 81435 | [81435-pet-vet-3d-animal-hospital.json](./81435-pet-vet-3d-animal-hospital.json) |
@@ -1194,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelJunk Eden Obscura | 140013 | [140013-pixeljunk-eden-obscura.json](./140013-pixeljunk-eden-obscura.json) |
 | PixelJunk Monsters 2: Danganronpa Pack | 140017 | [140017-pixeljunk-monsters-2-danganronpa-pack.json](./140017-pixeljunk-monsters-2-danganronpa-pack.json) |
 | PixelJunk Monsters 2: Encore Pack | 140016 | [140016-pixeljunk-monsters-2-encore-pack.json](./140016-pixeljunk-monsters-2-encore-pack.json) |
+| PixelJunk Monsters 2: Tiki Bundle | 237939 | [237939-pixeljunk-monsters-2-tiki-bundle.json](./237939-pixeljunk-monsters-2-tiki-bundle.json) |
 | PixelJunk: Scrappers Deluxe | 213499 | [213499-pixeljunk-scrappers-deluxe.json](./213499-pixeljunk-scrappers-deluxe.json) |
 | Pixelmancy | 319371 | [319371-pixelmancy.json](./319371-pixelmancy.json) |
 | PixelMogul | 251209 | [251209-pixelmogul.json](./251209-pixelmogul.json) |
@@ -1214,6 +1219,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixPaint - Color By Number | 105970 | [105970-pixpaint-color-by-number.json](./105970-pixpaint-color-by-number.json) |
 | Piyo Blocks 2 | 175413 | [175413-piyo-blocks-2.json](./175413-piyo-blocks-2.json) |
 | Piyo Puzz: Piyokoro x Puzzle | 328493 | [328493-piyo-puzz-piyokoro-x-puzzle.json](./328493-piyo-puzz-piyokoro-x-puzzle.json) |
+| Pizza Bar Tycoon: Expansion Pack 1 | 237977 | [237977-pizza-bar-tycoon-expansion-pack-1.json](./237977-pizza-bar-tycoon-expansion-pack-1.json) |
+| Pizza Bar Tycoon: Expansion Pack 2 | 237978 | [237978-pizza-bar-tycoon-expansion-pack-2.json](./237978-pizza-bar-tycoon-expansion-pack-2.json) |
 | Pizza Death | 207541 | [207541-pizza-death.json](./207541-pizza-death.json) |
 | Pizza Deathlivery | 347717 | [347717-pizza-deathlivery.json](./347717-pizza-deathlivery.json) |
 | Pizza Delivery Bagel | 209676 | [209676-pizza-delivery-bagel.json](./209676-pizza-delivery-bagel.json) |
@@ -1591,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokéSmash | 191883 | [191883-pokesmash.json](./191883-pokesmash.json) |
 | PokeXGames | 145038 | [145038-pokexgames.json](./145038-pokexgames.json) |
 | Pokini Kagura | 284896 | [284896-pokini-kagura.json](./284896-pokini-kagura.json) |
+| Pokkén Tournament DX: Battle Pack | 237933 | [237933-pokken-tournament-dx-battle-pack.json](./237933-pokken-tournament-dx-battle-pack.json) |
 | Pokkén Tournament: Update Ver.C07 | 300366 | [300366-pokken-tournament-update-ver-c07.json](./300366-pokken-tournament-update-ver-c07.json) |
 | Pokkén Tournament: Update Ver.N01 | 300364 | [300364-pokken-tournament-update-ver-n01.json](./300364-pokken-tournament-update-ver-n01.json) |
 | Polar Bear in Space! | 250934 | [250934-polar-bear-in-space.json](./250934-polar-bear-in-space.json) |
@@ -1835,6 +1843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers Super Samurai | 25162 | [25162-power-rangers-super-samurai.json](./25162-power-rangers-super-samurai.json) |
 | Power Rangers: Battle for the Grid - Collector's Edition | 119069 | [119069-power-rangers-battle-for-the-grid-collectors-edition.json](./119069-power-rangers-battle-for-the-grid-collectors-edition.json) |
 | Power Rangers: Battle for the Grid - Digital Collector's Edition | 205276 | [205276-power-rangers-battle-for-the-grid-digital-collectors-edition.json](./205276-power-rangers-battle-for-the-grid-digital-collectors-edition.json) |
+| Power Rangers: Battle for the Grid - Street Fighter Pack | 237979 | [237979-power-rangers-battle-for-the-grid-street-fighter-pack.json](./237979-power-rangers-battle-for-the-grid-street-fighter-pack.json) |
 | Power Rangers: Mystic Force | 330744 | [330744-power-rangers-mystic-force.json](./330744-power-rangers-mystic-force.json) |
 | Power Serve 3D Tennis | 20641 | [20641-power-serve-3d-tennis.json](./20641-power-serve-3d-tennis.json) |
 | Power Slave | 45972 | [45972-power-slave.json](./45972-power-slave.json) |
@@ -2482,6 +2491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Bear | 121019 | [121019-puzzle-bear.json](./121019-puzzle-bear.json) |
 | Puzzle Block Blast | 221382 | [221382-puzzle-block-blast.json](./221382-puzzle-block-blast.json) |
 | Puzzle Bonsai | 259558 | [259558-puzzle-bonsai.json](./259558-puzzle-bonsai.json) |
+| Puzzle Book: Adventure Pack | 237980 | [237980-puzzle-book-adventure-pack.json](./237980-puzzle-book-adventure-pack.json) |
 | Puzzle Boys | 41393 | [41393-puzzle-boys.json](./41393-puzzle-boys.json) |
 | Puzzle Bundle Xbox: Mimi New Friend, Sokocrab and StoryBlocks | 335104 | [335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json](./335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json) |
 | Puzzle Bundle Xbox: PuzzlePet - Feed Your Cat, Say Cheese, Mimi the Cat: New Friends, Story Blocks: The King and Sokocrab | 335103 | [335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json](./335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json) |
