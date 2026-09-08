@@ -1311,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merendam 2: Diary of Two Shaman Sisters | 70409 | [70409-merendam-2-diary-of-two-shaman-sisters.json](./70409-merendam-2-diary-of-two-shaman-sisters.json) |
 | MerFight | 191862 | [191862-merfight.json](./191862-merfight.json) |
 | Merge 3 Mania | 234618 | [234618-merge-3-mania.json](./234618-merge-3-mania.json) |
+| Merge 5: 10x10 Color | 233518 | [233518-merge-5-10x10-color.json](./233518-merge-5-10x10-color.json) |
 | Merge AirPlane | 227501 | [227501-merge-airplane.json](./227501-merge-airplane.json) |
 | Merge Circus | 285472 | [285472-merge-circus.json](./285472-merge-circus.json) |
 | Merge County | 212449 | [212449-merge-county.json](./212449-merge-county.json) |
@@ -2286,6 +2287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Fair | 218156 | [218156-monster-fair.json](./218156-monster-fair.json) |
 | Monster Feeder | 344917 | [344917-monster-feeder.json](./344917-monster-feeder.json) |
 | Monster Fishing 2018 | 102766 | [102766-monster-fishing-2018.json](./102766-monster-fishing-2018.json) |
+| Monster Fishing: Fishing Life RPG | 233510 | [233510-monster-fishing-fishing-life-rpg.json](./233510-monster-fishing-fishing-life-rpg.json) |
 | Monster Force | 49390 | [49390-monster-force.json](./49390-monster-force.json) |
 | Monster Forest | 383949 | [383949-monster-forest.json](./383949-monster-forest.json) |
 | Monster Galaxy | 197943 | [197943-monster-galaxy.json](./197943-monster-galaxy.json) |
@@ -2952,6 +2954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Herd | 292827 | [292827-mutant-herd.json](./292827-mutant-herd.json) |
 | Mutant Karate Canary | 214156 | [214156-mutant-karate-canary.json](./214156-mutant-karate-canary.json) |
 | Mutant Monty | 66711 | [66711-mutant-monty.json](./66711-mutant-monty.json) |
+| Mutant Roadkill | 233532 | [233532-mutant-roadkill.json](./233532-mutant-roadkill.json) |
 | Mutant Storm: Reloaded | 16266 | [16266-mutant-storm-reloaded.json](./16266-mutant-storm-reloaded.json) |
 | Mutants Ate My Carrots | 273401 | [273401-mutants-ate-my-carrots.json](./273401-mutants-ate-my-carrots.json) |
 | Mutants Of Mist | 285964 | [285964-mutants-of-mist.json](./285964-mutants-of-mist.json) |
