@@ -1197,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Difficult times | 327826 | [327826-difficult-times.json](./327826-difficult-times.json) |
 | Dig Baby Dig Company | 376450 | [376450-dig-baby-dig-company.json](./376450-dig-baby-dig-company.json) |
 | Dig Mania | 129200 | [129200-dig-mania.json](./129200-dig-mania.json) |
+| Dig Master | 239036 | [239036-dig-master.json](./239036-dig-master.json) |
 | Dig Odyssey: Cosmic Mining | 251205 | [251205-dig-odyssey-cosmic-mining.json](./251205-dig-odyssey-cosmic-mining.json) |
 | Dig Out! | 87330 | [87330-dig-out.json](./87330-dig-out.json) |
 | Dig2China | 247515 | [247515-dig2china.json](./247515-dig2china.json) |
