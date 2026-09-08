@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn in the Air | 234065 | [234065-dawn-in-the-air.json](./234065-dawn-in-the-air.json) |
 | Dawn of Anarchy | 274773 | [274773-dawn-of-anarchy.json](./274773-dawn-of-anarchy.json) |
 | Dawn of Defense | 310733 | [310733-dawn-of-defense.json](./310733-dawn-of-defense.json) |
+| Dawn of Dreams | 229716 | [229716-dawn-of-dreams.json](./229716-dawn-of-dreams.json) |
 | Dawn of Dynasty | 163439 | [163439-dawn-of-dynasty.json](./163439-dawn-of-dynasty.json) |
 | Dawn of Gray | 288791 | [288791-dawn-of-gray.json](./288791-dawn-of-gray.json) |
 | Dawn of Magic 2 | 11025 | [11025-dawn-of-magic-2.json](./11025-dawn-of-magic-2.json) |
@@ -681,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Echo | 25762 | [25762-deep-echo.json](./25762-deep-echo.json) |
 | Deep Fear | 46057 | [46057-deep-fear.json](./46057-deep-fear.json) |
 | Deep Fishing | 188091 | [188091-deep-fishing.json](./188091-deep-fishing.json) |
+| Deep Fried Nikki | 229667 | [229667-deep-fried-nikki.json](./229667-deep-fried-nikki.json) |
 | Deep Fry Maker | 227520 | [227520-deep-fry-maker.json](./227520-deep-fry-maker.json) |
 | Deep Golf | 250658 | [250658-deep-golf.json](./250658-deep-golf.json) |
 | Deep Horrors of Fishing | 323724 | [323724-deep-horrors-of-fishing.json](./323724-deep-horrors-of-fishing.json) |
@@ -768,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Degu Squad | 282007 | [282007-degu-squad.json](./282007-degu-squad.json) |
 | Deities Flush | 324113 | [324113-deities-flush.json](./324113-deities-flush.json) |
 | Deity's Domain | 306383 | [306383-deitys-domain.json](./306383-deitys-domain.json) |
+| Deja Vu | 229690 | [229690-deja-vu.json](./229690-deja-vu.json) |
 | Déjà Vu I | 310192 | [310192-deja-vu-i.json](./310192-deja-vu-i.json) |
 | Déjà Vu II | 310193 | [310193-deja-vu-ii.json](./310193-deja-vu-ii.json) |
 | Deja Vu II: MacVenture Series | 35914 | [35914-deja-vu-ii-macventure-series.json](./35914-deja-vu-ii-macventure-series.json) |
@@ -1456,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Treasure Planet: Etherium Rescue | 213037 | [213037-disneys-treasure-planet-etherium-rescue.json](./213037-disneys-treasure-planet-etherium-rescue.json) |
 | Disney's Treasure Planet: Treasure Racer | 213025 | [213025-disneys-treasure-planet-treasure-racer.json](./213025-disneys-treasure-planet-treasure-racer.json) |
 | Disonante | 118432 | [118432-disonante.json](./118432-disonante.json) |
+| Disorder | 229692 | [229692-disorder.json](./229692-disorder.json) |
 | Disorderly | 356625 | [356625-disorderly.json](./356625-disorderly.json) |
 | Displaced | 28939 | [28939-displaced.json](./28939-displaced.json) |
 | Disposable Heroes | 14037 | [14037-disposable-heroes.json](./14037-disposable-heroes.json) |
@@ -2224,6 +2228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream League Soccer 2016 | 403613 | [403613-dream-league-soccer-2016.json](./403613-dream-league-soccer-2016.json) |
 | Dream Life in the Country Side | 333010 | [333010-dream-life-in-the-country-side.json](./333010-dream-life-in-the-country-side.json) |
 | Dream Management Company | 339127 | [339127-dream-management-company.json](./339127-dream-management-company.json) |
+| Dream of Life | 229721 | [229721-dream-of-life.json](./229721-dream-of-life.json) |
 | Dream of Light | 215903 | [215903-dream-of-light.json](./215903-dream-of-light.json) |
 | Dream of Tiny Snow | 244786 | [244786-dream-of-tiny-snow.json](./244786-dream-of-tiny-snow.json) |
 | Dream Seed | 257069 | [257069-dream-seed.json](./257069-dream-seed.json) |
