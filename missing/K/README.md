@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karakuri Kengou-den: Musashi Road - Harikiri Daishuugyou! | 346027 | [346027-karakuri-kengou-den-musashi-road-harikiri-daishuugyou.json](./346027-karakuri-kengou-den-musashi-road-harikiri-daishuugyou.json) |
 | Karakuru | 371904 | [371904-karakuru.json](./371904-karakuru.json) |
 | Karao | 392176 | [392176-karao.json](./392176-karao.json) |
+| Karaoke Family Fun | 210018 | [210018-karaoke-family-fun.json](./210018-karaoke-family-fun.json) |
 | Karaoke Joysound for Nintendo Switch | 146313 | [146313-karaoke-joysound-for-nintendo-switch.json](./146313-karaoke-joysound-for-nintendo-switch.json) |
 | Karaoke Party | 137687 | [137687-karaoke-party.json](./137687-karaoke-party.json) |
 | Karaoke Revolution Glee: Volume 2 | 50617 | [50617-karaoke-revolution-glee-volume-2.json](./50617-karaoke-revolution-glee-volume-2.json) |
