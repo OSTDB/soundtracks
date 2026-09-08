@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T22:48:06.773Z",
-  "total_missing": 48440,
+  "generated_at": "2026-09-08T22:51:00.777Z",
+  "total_missing": 48439,
   "games": [
     {
       "igdb_id": 306086,
@@ -361,11 +361,6 @@
       "igdb_id": 164473,
       "game_name": "100% Orange Juice: Syura & Nanako",
       "file": "missing/0-9/164473-100-orange-juice-syura-and-nanako.json"
-    },
-    {
-      "igdb_id": 164479,
-      "game_name": "100% Orange Juice: Toy Store Pack",
-      "file": "missing/0-9/164479-100-orange-juice-toy-store-pack.json"
     },
     {
       "igdb_id": 164480,
