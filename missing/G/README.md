@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaiadon: Eternal Quest | 318761 | [318761-gaiadon-eternal-quest.json](./318761-gaiadon-eternal-quest.json) |
 | Gaijin Troubles | 126630 | [126630-gaijin-troubles.json](./126630-gaijin-troubles.json) |
 | Gain | 33109 | [33109-gain.json](./33109-gain.json) |
+| Gain Foxes | 245888 | [245888-gain-foxes.json](./245888-gain-foxes.json) |
 | Gain Ground SX | 42013 | [42013-gain-ground-sx.json](./42013-gain-ground-sx.json) |
 | Gaishin Senki: Millennium Sword | 264307 | [264307-gaishin-senki-millennium-sword.json](./264307-gaishin-senki-millennium-sword.json) |
 | Gakken DS: Otona no Gakushuu Kintaichi Sensei no Nihongo Lesson | 245046 | [245046-gakken-ds-otona-no-gakushuu-kintaichi-sensei-no-nihongo-lesson.json](./245046-gakken-ds-otona-no-gakushuu-kintaichi-sensei-no-nihongo-lesson.json) |
@@ -168,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Chinese | 105949 | [105949-game-chinese.json](./105949-game-chinese.json) |
 | Game club "Waka-Waka" | 117064 | [117064-game-club-waka-waka.json](./117064-game-club-waka-waka.json) |
 | Game Collector | 266792 | [266792-game-collector.json](./266792-game-collector.json) |
+| Game Dev Fantasy | 245877 | [245877-game-dev-fantasy.json](./245877-game-dev-fantasy.json) |
 | Game Dev Masters | 146909 | [146909-game-dev-masters.json](./146909-game-dev-masters.json) |
 | Game Doraemon: Nobita no Takara-jima | 97373 | [97373-game-doraemon-nobita-no-takara-jima.json](./97373-game-doraemon-nobita-no-takara-jima.json) |
 | Game For Anna | 154004 | [154004-game-for-anna.json](./154004-game-for-anna.json) |
@@ -1057,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grabitoons | 231049 | [231049-grabitoons.json](./231049-grabitoons.json) |
 | Grace Online | 248302 | [248302-grace-online.json](./248302-grace-online.json) |
 | Gracia | 301844 | [301844-gracia.json](./301844-gracia.json) |
+| Grade Sword | 245883 | [245883-grade-sword.json](./245883-grade-sword.json) |
 | Gradius | 213191 | [213191-gradius.json](./213191-gradius.json) |
 | Gradius | 262393 | [262393-gradius.json](./262393-gradius.json) |
 | Gradius | 262394 | [262394-gradius.json](./262394-gradius.json) |
@@ -1160,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Ghoul! | 133999 | [133999-graveyard-ghoul.json](./133999-graveyard-ghoul.json) |
 | Graveyard Orbit | 407329 | [407329-graveyard-orbit.json](./407329-graveyard-orbit.json) |
 | Graveyard Shift | 292517 | [292517-graveyard-shift.json](./292517-graveyard-shift.json) |
+| Graveyard Sprint | 245874 | [245874-graveyard-sprint.json](./245874-graveyard-sprint.json) |
 | Gravico | 280776 | [280776-gravico.json](./280776-gravico.json) |
 | Gravillipse | 252159 | [252159-gravillipse.json](./252159-gravillipse.json) |
 | GraviSound | 109701 | [109701-gravisound.json](./109701-gravisound.json) |
@@ -1528,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunDress | 213042 | [213042-gundress.json](./213042-gundress.json) |
 | Gundroid | 249799 | [249799-gundroid.json](./249799-gundroid.json) |
 | Gunducky Industries | 54455 | [54455-gunducky-industries.json](./54455-gunducky-industries.json) |
+| Gunfield | 245876 | [245876-gunfield.json](./245876-gunfield.json) |
 | Gunfight Arena | 373003 | [373003-gunfight-arena.json](./373003-gunfight-arena.json) |
 | Gunfighter | 347675 | [347675-gunfighter.json](./347675-gunfighter.json) |
 | Gunfighter | 95448 | [95448-gunfighter.json](./95448-gunfighter.json) |
