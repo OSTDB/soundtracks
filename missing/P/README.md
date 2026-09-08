@@ -1277,6 +1277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planarity | 246117 | [246117-planarity.json](./246117-planarity.json) |
 | Plane and Simple | 143108 | [143108-plane-and-simple.json](./143108-plane-and-simple.json) |
 | Plane Master | 232691 | [232691-plane-master.json](./232691-plane-master.json) |
+| Plane Racer | 230296 | [230296-plane-racer.json](./230296-plane-racer.json) |
 | Planes | 262093 | [262093-planes.json](./262093-planes.json) |
 | Planes Combat | 278150 | [278150-planes-combat.json](./278150-planes-combat.json) |
 | Planes.io | 194038 | [194038-planes-io.json](./194038-planes-io.json) |
