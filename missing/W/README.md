@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterful | 404861 | [404861-waterful.json](./404861-waterful.json) |
 | Watermelon Game: Fruits Puzzle | 293904 | [293904-watermelon-game-fruits-puzzle.json](./293904-watermelon-game-fruits-puzzle.json) |
 | Watermelon Merge: Strategy Game | 303236 | [303236-watermelon-merge-strategy-game.json](./303236-watermelon-merge-strategy-game.json) |
+| Waternet | 210651 | [210651-waternet.json](./210651-waternet.json) |
 | Waterpark Simulator | 348648 | [348648-waterpark-simulator.json](./348648-waterpark-simulator.json) |
 | Watertight | 355567 | [355567-watertight.json](./355567-watertight.json) |
 | Wave Buxters | 329574 | [329574-wave-buxters.json](./329574-wave-buxters.json) |
@@ -961,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch's Weapon | 196331 | [196331-witchs-weapon.json](./196331-witchs-weapon.json) |
 | Witchblood | 129238 | [129238-witchblood.json](./129238-witchblood.json) |
 | Witchblood | 413640 | [413640-witchblood.json](./413640-witchblood.json) |
+| Witchcraft | 210673 | [210673-witchcraft.json](./210673-witchcraft.json) |
 | Witchcraft U | 155652 | [155652-witchcraft-u.json](./155652-witchcraft-u.json) |
 | Witches & Woodlands | 275595 | [275595-witches-and-woodlands.json](./275595-witches-and-woodlands.json) |
 | Witches Legacy: Slumbering Darkness & Dark Throne | 201824 | [201824-witches-legacy-slumbering-darkness-and-dark-throne.json](./201824-witches-legacy-slumbering-darkness-and-dark-throne.json) |
@@ -1332,6 +1334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm Game | 231396 | [231396-worm-game.json](./231396-worm-game.json) |
 | Worm Goes to Hell | 216820 | [216820-worm-goes-to-hell.json](./216820-worm-goes-to-hell.json) |
 | Worm Odyssey | 275914 | [275914-worm-odyssey.json](./275914-worm-odyssey.json) |
+| Worm Visitor | 210645 | [210645-worm-visitor.json](./210645-worm-visitor.json) |
 | Worm War: Greengrocer | 290420 | [290420-worm-war-greengrocer.json](./290420-worm-war-greengrocer.json) |
 | Wormatozoa | 190722 | [190722-wormatozoa.json](./190722-wormatozoa.json) |
 | Wormhole | 307618 | [307618-wormhole.json](./307618-wormhole.json) |
