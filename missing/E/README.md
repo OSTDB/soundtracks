@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy-Bake Treats! | 411605 | [411605-easy-bake-treats.json](./411605-easy-bake-treats.json) |
 | Easy-Peasy Tic Tac Toe | 88317 | [88317-easy-peasy-tic-tac-toe.json](./88317-easy-peasy-tic-tac-toe.json) |
 | EasyAim Trainer | 339648 | [339648-easyaim-trainer.json](./339648-easyaim-trainer.json) |
+| Eat Bananas | 213399 | [213399-eat-bananas.json](./213399-eat-bananas.json) |
 | Eat It | 414313 | [414313-eat-it.json](./414313-eat-it.json) |
 | Eat More Vegetables! | 157206 | [157206-eat-more-vegetables.json](./157206-eat-more-vegetables.json) |
 | Eat the Fish 2016 | 90680 | [90680-eat-the-fish-2016.json](./90680-eat-the-fish-2016.json) |
@@ -445,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elysium Infinity | 237668 | [237668-elysium-infinity.json](./237668-elysium-infinity.json) |
 | Elysium Lost | 219823 | [219823-elysium-lost.json](./219823-elysium-lost.json) |
 | EM: Shader Attack | 31354 | [31354-em-shader-attack.json](./31354-em-shader-attack.json) |
+| EmagineWorld | 213402 | [213402-emagineworld.json](./213402-emagineworld.json) |
 | Emancy: Borderline War | 237650 | [237650-emancy-borderline-war.json](./237650-emancy-borderline-war.json) |
 | Ember & Blade | 340741 | [340741-ember-and-blade.json](./340741-ember-and-blade.json) |
 | Ember Knights: Wrath of the Architect | 310371 | [310371-ember-knights-wrath-of-the-architect.json](./310371-ember-knights-wrath-of-the-architect.json) |
