@@ -923,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex College | 297214 | [297214-sex-college.json](./297214-sex-college.json) |
 | Sex Diary: Double Trouble Teacher | 286532 | [286532-sex-diary-double-trouble-teacher.json](./286532-sex-diary-double-trouble-teacher.json) |
 | Sex Diary: Futanari Jail | 286533 | [286533-sex-diary-futanari-jail.json](./286533-sex-diary-futanari-jail.json) |
+| Sex Doll K-Pop Idol | 243155 | [243155-sex-doll-k-pop-idol.json](./243155-sex-doll-k-pop-idol.json) |
 | Sex Dorm | 349868 | [349868-sex-dorm.json](./349868-sex-dorm.json) |
 | Sex House: Orgy Party | 273658 | [273658-sex-house-orgy-party.json](./273658-sex-house-orgy-party.json) |
 | Sex Instructor Yoga | 173830 | [173830-sex-instructor-yoga.json](./173830-sex-instructor-yoga.json) |
@@ -2715,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sons of Saturn | 256546 | [256546-sons-of-saturn.json](./256546-sons-of-saturn.json) |
 | Sons Of The Dream Forest | 315283 | [315283-sons-of-the-dream-forest.json](./315283-sons-of-the-dream-forest.json) |
 | Soot | 231085 | [231085-soot.json](./231085-soot.json) |
+| Soothsayer: The Oraclepus Knows All | 243101 | [243101-soothsayer-the-oraclepus-knows-all.json](./243101-soothsayer-the-oraclepus-knows-all.json) |
 | Sooty's Revenge | 311284 | [311284-sootys-revenge.json](./311284-sootys-revenge.json) |
 | Sophia and the Mansion of Doubt | 82897 | [82897-sophia-and-the-mansion-of-doubt.json](./82897-sophia-and-the-mansion-of-doubt.json) |
 | Sophias Pizza Restaurant | 293636 | [293636-sophias-pizza-restaurant.json](./293636-sophias-pizza-restaurant.json) |
@@ -2920,6 +2922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders Part II | 246397 | [246397-space-invaders-part-ii.json](./246397-space-invaders-part-ii.json) |
 | Space Invaders: World Defense | 257365 | [257365-space-invaders-world-defense.json](./257365-space-invaders-world-defense.json) |
 | Space Inversion Puzzle | 255720 | [255720-space-inversion-puzzle.json](./255720-space-inversion-puzzle.json) |
+| Space is Key | 243107 | [243107-space-is-key.json](./243107-space-is-key.json) |
 | Space is Key Christmas | 408824 | [408824-space-is-key-christmas.json](./408824-space-is-key-christmas.json) |
 | Space Is Red | 379341 | [379341-space-is-red.json](./379341-space-is-red.json) |
 | Space Jelly | 297479 | [297479-space-jelly.json](./297479-space-jelly.json) |
@@ -5027,6 +5030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival RPG: The Lost Treasure | 167295 | [167295-survival-rpg-the-lost-treasure.json](./167295-survival-rpg-the-lost-treasure.json) |
 | Survival Simulator | 166203 | [166203-survival-simulator.json](./166203-survival-simulator.json) |
 | Survival Space: Unlimited Shooting | 83571 | [83571-survival-space-unlimited-shooting.json](./83571-survival-space-unlimited-shooting.json) |
+| Survival Sprint | 243117 | [243117-survival-sprint.json](./243117-survival-sprint.json) |
 | Survival Z The Alpha | 292304 | [292304-survival-z-the-alpha.json](./292304-survival-z-the-alpha.json) |
 | Survival Zone: Craft, Build & Grow | 336395 | [336395-survival-zone-craft-build-and-grow.json](./336395-survival-zone-craft-build-and-grow.json) |
 | Survival: Fountain of Youth - Captain's Edition | 317209 | [317209-survival-fountain-of-youth-captains-edition.json](./317209-survival-fountain-of-youth-captains-edition.json) |
@@ -5199,6 +5203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Apocalypse | 389413 | [389413-sword-of-the-apocalypse.json](./389413-sword-of-the-apocalypse.json) |
 | Sword of the Necromancer: Resurrection | 290642 | [290642-sword-of-the-necromancer-resurrection.json](./290642-sword-of-the-necromancer-resurrection.json) |
 | Sword of the Necromancer: Ultra Collector's Edition | 148543 | [148543-sword-of-the-necromancer-ultra-collectors-edition.json](./148543-sword-of-the-necromancer-ultra-collectors-edition.json) |
+| Sword of the Spirit | 243123 | [243123-sword-of-the-spirit.json](./243123-sword-of-the-spirit.json) |
 | Sword of the Stars: Argos Naval Yard | 10936 | [10936-sword-of-the-stars-argos-naval-yard.json](./10936-sword-of-the-stars-argos-naval-yard.json) |
 | Sword of the Stars: The Pit - Mind Games | 10950 | [10950-sword-of-the-stars-the-pit-mind-games.json](./10950-sword-of-the-stars-the-pit-mind-games.json) |
 | Sword of the Stars: The Pit 2 | 178077 | [178077-sword-of-the-stars-the-pit-2.json](./178077-sword-of-the-stars-the-pit-2.json) |
