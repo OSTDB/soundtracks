@@ -828,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat the Boss 2 | 86786 | [86786-beat-the-boss-2.json](./86786-beat-the-boss-2.json) |
 | Beat The Boss Game | 331699 | [331699-beat-the-boss-game.json](./331699-beat-the-boss-game.json) |
 | Beat the Markets | 348262 | [348262-beat-the-markets.json](./348262-beat-the-markets.json) |
+| Beat Them Up: Street Fight Band Simulator | 251598 | [251598-beat-them-up-street-fight-band-simulator.json](./251598-beat-them-up-street-fight-band-simulator.json) |
 | Beat Time | 91439 | [91439-beat-time.json](./91439-beat-time.json) |
 | Beat Vector | 393465 | [393465-beat-vector.json](./393465-beat-vector.json) |
 | Beatcraft Cyclon | 232683 | [232683-beatcraft-cyclon.json](./232683-beatcraft-cyclon.json) |
@@ -1775,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bokura no Gakkou Sensou: Tsuukai Adventure | 222534 | [222534-bokura-no-gakkou-sensou-tsuukai-adventure.json](./222534-bokura-no-gakkou-sensou-tsuukai-adventure.json) |
 | Bokura no Keshigomu Otoshi Shin Gakki | 208628 | [208628-bokura-no-keshigomu-otoshi-shin-gakki.json](./208628-bokura-no-keshigomu-otoshi-shin-gakki.json) |
 | Bokura no Keshigomu Otoshi Shingakki 3 | 247744 | [247744-bokura-no-keshigomu-otoshi-shingakki-3.json](./247744-bokura-no-keshigomu-otoshi-shingakki-3.json) |
+| Bokura no Keshigum Otoshi 3: Sekai-hen | 251608 | [251608-bokura-no-keshigum-otoshi-3-sekai-hen.json](./251608-bokura-no-keshigum-otoshi-3-sekai-hen.json) |
 | Bokura no Nanokakan Sensou: Yuujou Adventure | 222509 | [222509-bokura-no-nanokakan-sensou-yuujou-adventure.json](./222509-bokura-no-nanokakan-sensou-yuujou-adventure.json) |
 | Bokura no Terebi Game Kentei | 69296 | [69296-bokura-no-terebi-game-kentei.json](./69296-bokura-no-terebi-game-kentei.json) |
 | Bolix | 300382 | [300382-bolix.json](./300382-bolix.json) |
@@ -1878,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Karts: Multiplayer Kart Racing | 144982 | [144982-boom-karts-multiplayer-kart-racing.json](./144982-boom-karts-multiplayer-kart-racing.json) |
 | Boom Zoo | 297226 | [297226-boom-zoo.json](./297226-boom-zoo.json) |
 | Boom-Bahh | 43537 | [43537-boom-bahh.json](./43537-boom-bahh.json) |
+| Boom! | 251582 | [251582-boom.json](./251582-boom.json) |
 | Boom! Boom! | 115691 | [115691-boom-boom.json](./115691-boom-boom.json) |
 | Boom! Tanks | 62778 | [62778-boom-tanks.json](./62778-boom-tanks.json) |
 | Boomblastica | 65520 | [65520-boomblastica.json](./65520-boomblastica.json) |
