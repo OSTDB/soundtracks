@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Skills Motocross 3 | 241639 | [241639-mad-skills-motocross-3.json](./241639-mad-skills-motocross-3.json) |
 | Mad Stalker: Full Metal Force | 41408 | [41408-mad-stalker-full-metal-force.json](./41408-mad-stalker-full-metal-force.json) |
 | Mad Valley | 294135 | [294135-mad-valley.json](./294135-mad-valley.json) |
+| Mad Way | 256285 | [256285-mad-way.json](./256285-mad-way.json) |
 | Madden NFL 07 | 243011 | [243011-madden-nfl-07.json](./243011-madden-nfl-07.json) |
 | Madden NFL 07 | 4983 | [4983-madden-nfl-07.json](./4983-madden-nfl-07.json) |
 | Madden NFL 13 | 243257 | [243257-madden-nfl-13.json](./243257-madden-nfl-13.json) |
@@ -725,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Chaos | 398362 | [398362-master-of-chaos.json](./398362-master-of-chaos.json) |
 | Master of Dimensions | 7695 | [7695-master-of-dimensions.json](./7695-master-of-dimensions.json) |
 | Master of Ives | 284879 | [284879-master-of-ives.json](./284879-master-of-ives.json) |
+| Master of Magic: Rise of the Soultrapped | 256261 | [256261-master-of-magic-rise-of-the-soultrapped.json](./256261-master-of-magic-rise-of-the-soultrapped.json) |
 | Master of Mutations | 109716 | [109716-master-of-mutations.json](./109716-master-of-mutations.json) |
 | Master of Orion III | 69 | [69-master-of-orion-iii.json](./69-master-of-orion-iii.json) |
 | Master of Pieces: Jigsaw Puzzle - Bonsai | 293065 | [293065-master-of-pieces-jigsaw-puzzle-bonsai.json](./293065-master-of-pieces-jigsaw-puzzle-bonsai.json) |
@@ -1294,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metacity Patrol | 339796 | [339796-metacity-patrol.json](./339796-metacity-patrol.json) |
 | Metagal | 19321 | [19321-metagal.json](./19321-metagal.json) |
 | Metal Angel 3 | 91961 | [91961-metal-angel-3.json](./91961-metal-angel-3.json) |
+| Metal Brigade Tactics Versus | 256254 | [256254-metal-brigade-tactics-versus.json](./256254-metal-brigade-tactics-versus.json) |
 | Metal Bunny | 309894 | [309894-metal-bunny.json](./309894-metal-bunny.json) |
 | Metal Coffin | 335256 | [335256-metal-coffin.json](./335256-metal-coffin.json) |
 | Metal Dogs: New Dog Addition - Labrador Retriever | 302919 | [302919-metal-dogs-new-dog-addition-labrador-retriever.json](./302919-metal-dogs-new-dog-addition-labrador-retriever.json) |
