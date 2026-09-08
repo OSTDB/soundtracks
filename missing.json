@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T15:21:07.232Z",
-  "total_missing": 47284,
+  "generated_at": "2026-09-08T15:31:11.749Z",
+  "total_missing": 47287,
   "games": [
     {
       "igdb_id": 306086,
@@ -136,11 +136,6 @@
       "igdb_id": 237063,
       "game_name": "1 Trait Escape",
       "file": "missing/0-9/237063-1-trait-escape.json"
-    },
-    {
-      "igdb_id": 300728,
-      "game_name": "1-2-Word Search!",
-      "file": "missing/0-9/300728-1-2-word-search.json"
     },
     {
       "igdb_id": 325869,
@@ -97608,6 +97603,11 @@
       "file": "missing/I/383945-infinity-nikki-life-as-a-poem.json"
     },
     {
+      "igdb_id": 224034,
+      "game_name": "Infinity Party Battle",
+      "file": "missing/I/224034-infinity-party-battle.json"
+    },
+    {
       "igdb_id": 340752,
       "game_name": "Infinity R",
       "file": "missing/I/340752-infinity-r.json"
@@ -103823,6 +103823,11 @@
       "file": "missing/K/274745-kanye-zone.json"
     },
     {
+      "igdb_id": 224033,
+      "game_name": "Kanyu: Sword Tomb",
+      "file": "missing/K/224033-kanyu-sword-tomb.json"
+    },
+    {
       "igdb_id": 251622,
       "game_name": "Kanzen Hanzai Mystery",
       "file": "missing/K/251622-kanzen-hanzai-mystery.json"
@@ -105038,6 +105043,11 @@
       "file": "missing/K/215395-kids-zoo-puzzle.json"
     },
     {
+      "igdb_id": 224032,
+      "game_name": "Kiem Ma 3D",
+      "file": "missing/K/224032-kiem-ma-3d.json"
+    },
+    {
       "igdb_id": 360602,
       "game_name": "Kiipluu",
       "file": "missing/K/360602-kiipluu.json"
@@ -105756,6 +105766,11 @@
       "igdb_id": 58240,
       "game_name": "Kingdom Warriors",
       "file": "missing/K/58240-kingdom-warriors.json"
+    },
+    {
+      "igdb_id": 224031,
+      "game_name": "Kingdom Winds",
+      "file": "missing/K/224031-kingdom-winds.json"
     },
     {
       "igdb_id": 13686,
