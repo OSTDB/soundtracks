@@ -1278,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foolish Mortals | 217011 | [217011-foolish-mortals.json](./217011-foolish-mortals.json) |
 | Foosball Runner | 318195 | [318195-foosball-runner.json](./318195-foosball-runner.json) |
 | Foot Clinic | 268470 | [268470-foot-clinic.json](./268470-foot-clinic.json) |
+| Foot Fashion Simulator | 258983 | [258983-foot-fashion-simulator.json](./258983-foot-fashion-simulator.json) |
 | Footage | 302930 | [302930-footage.json](./302930-footage.json) |
 | Football Career Mode 26 | 346582 | [346582-football-career-mode-26.json](./346582-football-career-mode-26.json) |
 | Football Club Builder | 409577 | [409577-football-club-builder.json](./409577-football-club-builder.json) |
