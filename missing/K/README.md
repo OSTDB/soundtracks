@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi sae Ireba: Episode Sutelz | 311494 | [311494-kimi-sae-ireba-episode-sutelz.json](./311494-kimi-sae-ireba-episode-sutelz.json) |
 | Kimi to Koi Shite Musubarete | 394886 | [394886-kimi-to-koi-shite-musubarete.json](./394886-kimi-to-koi-shite-musubarete.json) |
 | Kimi to Mezameru Ikutsuka no Houhou | 398997 | [398997-kimi-to-mezameru-ikutsuka-no-houhou.json](./398997-kimi-to-mezameru-ikutsuka-no-houhou.json) |
+| Kimono Cats | 249774 | [249774-kimono-cats.json](./249774-kimono-cats.json) |
 | Kin and Conquest | 400228 | [400228-kin-and-conquest.json](./400228-kin-and-conquest.json) |
 | Kinacoustic | 33093 | [33093-kinacoustic.json](./33093-kinacoustic.json) |
 | Kind Nature | 250958 | [250958-kind-nature.json](./250958-kind-nature.json) |
