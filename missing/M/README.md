@@ -1502,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiaouVSRG | 351047 | [351047-miaouvsrg.json](./351047-miaouvsrg.json) |
 | Miasma | 253908 | [253908-miasma.json](./253908-miasma.json) |
 | Miazma or the Devil's Stone | 99012 | [99012-miazma-or-the-devils-stone.json](./99012-miazma-or-the-devils-stone.json) |
+| Miburi and Teburi | 230271 | [230271-miburi-and-teburi.json](./230271-miburi-and-teburi.json) |
 | Michael Jackson's Moonwalker | 262508 | [262508-michael-jacksons-moonwalker.json](./262508-michael-jacksons-moonwalker.json) |
 | Michael Owen's WLS 2000 | 3407 | [3407-michael-owens-wls-2000.json](./3407-michael-owens-wls-2000.json) |
 | Michael's Dream Adventure | 378815 | [378815-michaels-dream-adventure.json](./378815-michaels-dream-adventure.json) |
@@ -2441,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mood Bye | 319550 | [319550-mood-bye.json](./319550-mood-bye.json) |
 | MookerzZ | 252377 | [252377-mookerzz.json](./252377-mookerzz.json) |
 | Moomin Midsummer Madness | 404859 | [404859-moomin-midsummer-madness.json](./404859-moomin-midsummer-madness.json) |
+| Moomin no Suteki na Present | 230276 | [230276-moomin-no-suteki-na-present.json](./230276-moomin-no-suteki-na-present.json) |
 | Moon | 242775 | [242775-moon.json](./242775-moon.json) |
 | Moon 2999 | 302939 | [302939-moon-2999.json](./302939-moon-2999.json) |
 | Moon Ball Magic | 41402 | [41402-moon-ball-magic.json](./41402-moon-ball-magic.json) |
