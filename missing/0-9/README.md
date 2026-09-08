@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10min Heroes | 326085 | [326085-10min-heroes.json](./326085-10min-heroes.json) |
 | 10Minutes | 258997 | [258997-10minutes.json](./258997-10minutes.json) |
 | 11.45 A Vivid Life | 176512 | [176512-11-45-a-vivid-life.json](./176512-11-45-a-vivid-life.json) |
+| 1112: Episode 01 | 213381 | [213381-1112-episode-01.json](./213381-1112-episode-01.json) |
 | 11eyes: Resona Forma | 98425 | [98425-11eyes-resona-forma.json](./98425-11eyes-resona-forma.json) |
 | 11gatsu no Arcadia | 98426 | [98426-11gatsu-no-arcadia.json](./98426-11gatsu-no-arcadia.json) |
 | 11wol Sonyeon | 98427 | [98427-11wol-sonyeon.json](./98427-11wol-sonyeon.json) |
