@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailor Fuku to Femme Fatale | 293941 | [293941-sailor-fuku-to-femme-fatale.json](./293941-sailor-fuku-to-femme-fatale.json) |
 | Sailor Moon | 38280 | [38280-sailor-moon.json](./38280-sailor-moon.json) |
 | Sailor Moon RevengeX | 279589 | [279589-sailor-moon-revengex.json](./279589-sailor-moon-revengex.json) |
+| Sailor Moon S: Kotaete Moon Call! | 230284 | [230284-sailor-moon-s-kotaete-moon-call.json](./230284-sailor-moon-s-kotaete-moon-call.json) |
 | Sailor's Stories Solitaire | 196881 | [196881-sailors-stories-solitaire.json](./196881-sailors-stories-solitaire.json) |
 | Saily Seas | 297507 | [297507-saily-seas.json](./297507-saily-seas.json) |
 | Saimazoom | 45326 | [45326-saimazoom.json](./45326-saimazoom.json) |
@@ -487,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schizophrenic Rooms | 230857 | [230857-schizophrenic-rooms.json](./230857-schizophrenic-rooms.json) |
 | Schlag den Raab: Das 3. Spiel | 86078 | [86078-schlag-den-raab-das-3-spiel.json](./86078-schlag-den-raab-das-3-spiel.json) |
 | Schlag den Star: Das Spiel | 78045 | [78045-schlag-den-star-das-spiel.json](./78045-schlag-den-star-das-spiel.json) |
+| Schmaragon | 230265 | [230265-schmaragon.json](./230265-schmaragon.json) |
 | Schola Spiritus | 383358 | [383358-schola-spiritus.json](./383358-schola-spiritus.json) |
 | Scholastic Brain Play: Preschool - 1st Grade | 167276 | [167276-scholastic-brain-play-preschool-1st-grade.json](./167276-scholastic-brain-play-preschool-1st-grade.json) |
 | School Bus Simulator: Blocky World | 104633 | [104633-school-bus-simulator-blocky-world.json](./104633-school-bus-simulator-blocky-world.json) |
@@ -1243,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes: Chapter One - Beyond a Joke | 186894 | [186894-sherlock-holmes-chapter-one-beyond-a-joke.json](./186894-sherlock-holmes-chapter-one-beyond-a-joke.json) |
 | Sherlock Holmes: Crimes & Punishments | 5541 | [5541-sherlock-holmes-crimes-and-punishments.json](./5541-sherlock-holmes-crimes-and-punishments.json) |
 | Sherlock Holmes: The Awakened | 212664 | [212664-sherlock-holmes-the-awakened.json](./212664-sherlock-holmes-the-awakened.json) |
+| Sherlock Holmes: The Case of the Beheaded Smuggler | 230257 | [230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json](./230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json) |
 | Sherlock Holmes: The Tea Shop Murder Mystery | 310948 | [310948-sherlock-holmes-the-tea-shop-murder-mystery.json](./310948-sherlock-holmes-the-tea-shop-murder-mystery.json) |
 | Sherlock Horse's Horror Academy | 125468 | [125468-sherlock-horses-horror-academy.json](./125468-sherlock-horses-horror-academy.json) |
 | Sherlock Purr 2: Deluxe Edition | 314890 | [314890-sherlock-purr-2-deluxe-edition.json](./314890-sherlock-purr-2-deluxe-edition.json) |
@@ -1471,9 +1474,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shred-A-Bunch! | 248030 | [248030-shred-a-bunch.json](./248030-shred-a-bunch.json) |
 | Shredded Faith | 306349 | [306349-shredded-faith.json](./306349-shredded-faith.json) |
 | Shredz64 | 84268 | [84268-shredz64.json](./84268-shredz64.json) |
+| Shrek 2: Castle Run | 230273 | [230273-shrek-2-castle-run.json](./230273-shrek-2-castle-run.json) |
 | Shrek Playtime is Ogre | 302687 | [302687-shrek-playtime-is-ogre.json](./302687-shrek-playtime-is-ogre.json) |
 | Shrek Playtime is Ogre 2 | 302685 | [302685-shrek-playtime-is-ogre-2.json](./302685-shrek-playtime-is-ogre-2.json) |
 | Shrek Sugar Fever | 97357 | [97357-shrek-sugar-fever.json](./97357-shrek-sugar-fever.json) |
+| Shrek's Vacation | 230274 | [230274-shreks-vacation.json](./230274-shreks-vacation.json) |
 | Shrimp | 314251 | [314251-shrimp.json](./314251-shrimp.json) |
 | Shrimp Keeping Simulator | 340371 | [340371-shrimp-keeping-simulator.json](./340371-shrimp-keeping-simulator.json) |
 | Shrine | 132241 | [132241-shrine.json](./132241-shrine.json) |
@@ -1608,6 +1613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silly Royale: Devil Amongst Us | 242233 | [242233-silly-royale-devil-amongst-us.json](./242233-silly-royale-devil-amongst-us.json) |
 | Silly Scribbles | 285965 | [285965-silly-scribbles.json](./285965-silly-scribbles.json) |
 | Silly Sync | 379894 | [379894-silly-sync.json](./379894-silly-sync.json) |
+| Silmar | 230258 | [230258-silmar.json](./230258-silmar.json) |
 | Silo | 348224 | [348224-silo.json](./348224-silo.json) |
 | Silva Saga | 48708 | [48708-silva-saga.json](./48708-silva-saga.json) |
 | SilvaGunner: Rebooted | 326957 | [326957-silvagunner-rebooted.json](./326957-silvagunner-rebooted.json) |
@@ -1738,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sins Of Kaleido | 276733 | [276733-sins-of-kaleido.json](./276733-sins-of-kaleido.json) |
 | Sinsations 2: Modern Gods | 332432 | [332432-sinsations-2-modern-gods.json](./332432-sinsations-2-modern-gods.json) |
 | Sintropia Fruits Together | 388053 | [388053-sintropia-fruits-together.json](./388053-sintropia-fruits-together.json) |
+| Sionan | 230260 | [230260-sionan.json](./230260-sionan.json) |
 | Siphonogore | 291237 | [291237-siphonogore.json](./291237-siphonogore.json) |
 | Sir Ababol: Remastered Edition | 194641 | [194641-sir-ababol-remastered-edition.json](./194641-sir-ababol-remastered-edition.json) |
 | Sir Fallen: Supporter Pack | 312008 | [312008-sir-fallen-supporter-pack.json](./312008-sir-fallen-supporter-pack.json) |
@@ -1828,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skill Legends Royale | 316603 | [316603-skill-legends-royale.json](./316603-skill-legends-royale.json) |
 | SkillGrid | 392785 | [392785-skillgrid.json](./392785-skillgrid.json) |
 | Skills and Slimes | 340367 | [340367-skills-and-slimes.json](./340367-skills-and-slimes.json) |
+| Skincrawlers | 230292 | [230292-skincrawlers.json](./230292-skincrawlers.json) |
 | Skinny & Franko: Fists of Violence | 215900 | [215900-skinny-and-franko-fists-of-violence.json](./215900-skinny-and-franko-fists-of-violence.json) |
 | Skinny Girls | 259023 | [259023-skinny-girls.json](./259023-skinny-girls.json) |
 | Skins Game | 91433 | [91433-skins-game.json](./91433-skins-game.json) |
@@ -1978,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleeping Valley | 24960 | [24960-sleeping-valley.json](./24960-sleeping-valley.json) |
 | Sleepless Cinderella: Party | 298884 | [298884-sleepless-cinderella-party.json](./298884-sleepless-cinderella-party.json) |
 | Sleepover | 113709 | [113709-sleepover.json](./113709-sleepover.json) |
+| Sleepthrough | 230264 | [230264-sleepthrough.json](./230264-sleepthrough.json) |
 | SleepWalker | 117718 | [117718-sleepwalker.json](./117718-sleepwalker.json) |
 | Sleepwalking | 318388 | [318388-sleepwalking.json](./318388-sleepwalking.json) |
 | Sleepy Girl | 343801 | [343801-sleepy-girl.json](./343801-sleepy-girl.json) |
@@ -2102,6 +2111,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart As... | 92456 | [92456-smart-as.json](./92456-smart-as.json) |
 | Smart CyberFly | 69851 | [69851-smart-cyberfly.json](./69851-smart-cyberfly.json) |
 | Smart Girl's Playhouse Mini | 21011 | [21011-smart-girls-playhouse-mini.json](./21011-smart-girls-playhouse-mini.json) |
+| Smart Technology | 230266 | [230266-smart-technology.json](./230266-smart-technology.json) |
+| Smart Technology 2 | 230267 | [230267-smart-technology-2.json](./230267-smart-technology-2.json) |
 | Smarty | 130360 | [130360-smarty.json](./130360-smarty.json) |
 | Smash Balls | 275898 | [275898-smash-balls.json](./275898-smash-balls.json) |
 | Smash Bowling 3D | 84881 | [84881-smash-bowling-3d.json](./84881-smash-bowling-3d.json) |
@@ -2807,6 +2818,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soreike! Anpanman Doki-doki! Rescue Drive: Car Navi-tsuki | 327609 | [327609-soreike-anpanman-doki-doki-rescue-drive-car-navi-tsuki.json](./327609-soreike-anpanman-doki-doki-rescue-drive-car-navi-tsuki.json) |
 | Soreike! Anpanman o-Mise ga Ippai! TV de o-Ryouri Tsukucchao | 327610 | [327610-soreike-anpanman-o-mise-ga-ippai-tv-de-o-ryouri-tsukucchao.json](./327610-soreike-anpanman-o-mise-ga-ippai-tv-de-o-ryouri-tsukucchao.json) |
 | Soreike! Anpanman Waku-waku Eigo Game! | 327611 | [327611-soreike-anpanman-waku-waku-eigo-game.json](./327611-soreike-anpanman-waku-waku-eigo-game.json) |
+| Soreike! Anpanman: Karada no Naka no Daibouken | 230278 | [230278-soreike-anpanman-karada-no-naka-no-daibouken.json](./230278-soreike-anpanman-karada-no-naka-no-daibouken.json) |
+| Soreike! Anpanman: Yukai nao Tanjoue | 230279 | [230279-soreike-anpanman-yukai-nao-tanjoue.json](./230279-soreike-anpanman-yukai-nao-tanjoue.json) |
 | Sorrow Asylum 2 | 264627 | [264627-sorrow-asylum-2.json](./264627-sorrow-asylum-2.json) |
 | Sorrowself | 143731 | [143731-sorrowself.json](./143731-sorrowself.json) |
 | Sorry About The Mess | 414322 | [414322-sorry-about-the-mess.json](./414322-sorry-about-the-mess.json) |
@@ -3290,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: The Video Game | 46761 | [46761-spider-man-the-video-game.json](./46761-spider-man-the-video-game.json) |
 | Spiderbro 2 | 298042 | [298042-spiderbro-2.json](./298042-spiderbro-2.json) |
 | SpiderHeck | 137073 | [137073-spiderheck.json](./137073-spiderheck.json) |
+| Spidey & His Amazing Friends | 230277 | [230277-spidey-and-his-amazing-friends.json](./230277-spidey-and-his-amazing-friends.json) |
 | Spikes Are Dangerous | 118434 | [118434-spikes-are-dangerous.json](./118434-spikes-are-dangerous.json) |
 | Spikey Walls | 59445 | [59445-spikey-walls.json](./59445-spikey-walls.json) |
 | Spikit | 31908 | [31908-spikit.json](./31908-spikit.json) |
@@ -3530,6 +3544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel and Nuts | 239645 | [239645-squirrel-and-nuts.json](./239645-squirrel-and-nuts.json) |
 | Squirrel Bobble | 246392 | [246392-squirrel-bobble.json](./246392-squirrel-bobble.json) |
 | Squirrel Day | 278693 | [278693-squirrel-day.json](./278693-squirrel-day.json) |
+| Squirrel Launcher | 230307 | [230307-squirrel-launcher.json](./230307-squirrel-launcher.json) |
 | Squirrel vs. Worms | 262075 | [262075-squirrel-vs-worms.json](./262075-squirrel-vs-worms.json) |
 | Squirreled Away | 314650 | [314650-squirreled-away.json](./314650-squirreled-away.json) |
 | Squish 'em | 23887 | [23887-squish-em.json](./23887-squish-em.json) |
@@ -4834,6 +4849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World 2021 | 267933 | [267933-super-mario-world-2021.json](./267933-super-mario-world-2021.json) |
 | Super Mario World 64 | 230538 | [230538-super-mario-world-64.json](./230538-super-mario-world-64.json) |
 | Super Mario World Odyssey | 247185 | [247185-super-mario-world-odyssey.json](./247185-super-mario-world-odyssey.json) |
+| Super Mario World: Mario to Yoshi no Bouken Land | 230281 | [230281-super-mario-world-mario-to-yoshi-no-bouken-land.json](./230281-super-mario-world-mario-to-yoshi-no-bouken-land.json) |
 | Super Mario World: The Lost Adventure - Episode I Remastered | 259290 | [259290-super-mario-world-the-lost-adventure-episode-i-remastered.json](./259290-super-mario-world-the-lost-adventure-episode-i-remastered.json) |
 | Super Mario World: The Second Reality Project - Reloaded | 202377 | [202377-super-mario-world-the-second-reality-project-reloaded.json](./202377-super-mario-world-the-second-reality-project-reloaded.json) |
 | Super Mario World: The Second Reality Project 2 - Zycloboo's Challenge | 202378 | [202378-super-mario-world-the-second-reality-project-2-zycloboos-challenge.json](./202378-super-mario-world-the-second-reality-project-2-zycloboos-challenge.json) |
