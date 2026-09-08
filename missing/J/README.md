@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jennifer Janowski is Doomed | 242818 | [242818-jennifer-janowski-is-doomed.json](./242818-jennifer-janowski-is-doomed.json) |
 | Jennifer's Lustful Journey | 340771 | [340771-jennifers-lustful-journey.json](./340771-jennifers-lustful-journey.json) |
 | Jenny's Fish Shop | 177044 | [177044-jennys-fish-shop.json](./177044-jennys-fish-shop.json) |
+| Jeopardy! | 220095 | [220095-jeopardy.json](./220095-jeopardy.json) |
 | Jeopardy! World Tour | 87356 | [87356-jeopardy-world-tour.json](./87356-jeopardy-world-tour.json) |
 | Jeopardy!: 25th Anniversary Edition | 48694 | [48694-jeopardy-25th-anniversary-edition.json](./48694-jeopardy-25th-anniversary-edition.json) |
 | Jeopardy!: Junior Edition | 48709 | [48709-jeopardy-junior-edition.json](./48709-jeopardy-junior-edition.json) |
@@ -610,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JustHammers | 341865 | [341865-justhammers.json](./341865-justhammers.json) |
 | Justice Became Prey | 351596 | [351596-justice-became-prey.json](./351596-justice-became-prey.json) |
 | Justice Fighting Force | 206948 | [206948-justice-fighting-force.json](./206948-justice-fighting-force.json) |
+| Justice League | 220121 | [220121-justice-league.json](./220121-justice-league.json) |
 | Justice Project | 398968 | [398968-justice-project.json](./398968-justice-project.json) |
 | Justice Xwar Online 2 | 117712 | [117712-justice-xwar-online-2.json](./117712-justice-xwar-online-2.json) |
 | Justice.exe | 132238 | [132238-justice-exe.json](./132238-justice-exe.json) |
