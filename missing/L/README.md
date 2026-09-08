@@ -1284,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Light | 210887 | [210887-lost-light.json](./210887-lost-light.json) |
 | Lost Love Island | 278148 | [278148-lost-love-island.json](./278148-lost-love-island.json) |
 | Lost Maria: Namonaki Hana | 394168 | [394168-lost-maria-namonaki-hana.json](./394168-lost-maria-namonaki-hana.json) |
+| Lost Melody | 211195 | [211195-lost-melody.json](./211195-lost-melody.json) |
 | Lost Memories | 224779 | [224779-lost-memories.json](./224779-lost-memories.json) |
 | Lost Memories 3 Side Stories | 369569 | [369569-lost-memories-3-side-stories.json](./369569-lost-memories-3-side-stories.json) |
 | Lost Memories: Romance You Choose | 299456 | [299456-lost-memories-romance-you-choose.json](./299456-lost-memories-romance-you-choose.json) |
