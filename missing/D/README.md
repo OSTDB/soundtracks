@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.E.E.P.: Battle of Jove | 139485 | [139485-d-e-e-p-battle-of-jove.json](./139485-d-e-e-p-battle-of-jove.json) |
 | D.H.Trouble Guy | 117067 | [117067-d-h-trouble-guy.json](./117067-d-h-trouble-guy.json) |
 | D.O.W.N | 229383 | [229383-d-o-w-n.json](./229383-d-o-w-n.json) |
+| D's Diner: The Director's Cut | 245311 | [245311-ds-diner-the-directors-cut.json](./245311-ds-diner-the-directors-cut.json) |
 | D1 Grand Prix | 20551 | [20551-d1-grand-prix.json](./20551-d1-grand-prix.json) |
 | D3d Inside | 126659 | [126659-d3d-inside.json](./126659-d3d-inside.json) |
 | D3L3T3.exe | 264331 | [264331-d3l3t3-exe.json](./264331-d3l3t3-exe.json) |
@@ -854,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons Infernalize | 243376 | [243376-demons-infernalize.json](./243376-demons-infernalize.json) |
 | Demons of Problematique | 260126 | [260126-demons-of-problematique.json](./260126-demons-of-problematique.json) |
 | Demons of Problematique 2 | 260127 | [260127-demons-of-problematique-2.json](./260127-demons-of-problematique-2.json) |
+| Demons vs. Fairyland | 245328 | [245328-demons-vs-fairyland.json](./245328-demons-vs-fairyland.json) |
 | Demonstar | 9117 | [9117-demonstar.json](./9117-demonstar.json) |
 | DemonsTier | 61647 | [61647-demonstier.json](./61647-demonstier.json) |
 | Demonworld: Dark Armies | 73841 | [73841-demonworld-dark-armies.json](./73841-demonworld-dark-armies.json) |
@@ -1159,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die drei???: Plan der Chamäleonbande | 302665 | [302665-die-drei-plan-der-chamaleonbande.json](./302665-die-drei-plan-der-chamaleonbande.json) |
 | Die Erdnussbutter | 285978 | [285978-die-erdnussbutter.json](./285978-die-erdnussbutter.json) |
 | Die Hard Trilogy | 8234 | [8234-die-hard-trilogy.json](./8234-die-hard-trilogy.json) |
+| Die Hard with a Vengeance | 245292 | [245292-die-hard-with-a-vengeance.json](./245292-die-hard-with-a-vengeance.json) |
 | Die Hard: Nakatomi Plaza | 18219 | [18219-die-hard-nakatomi-plaza.json](./18219-die-hard-nakatomi-plaza.json) |
 | Die Hard: Vendetta | 3876 | [3876-die-hard-vendetta.json](./3876-die-hard-vendetta.json) |
 | Die kleine Lokomotive und ihre Freunde | 81401 | [81401-die-kleine-lokomotive-und-ihre-freunde.json](./81401-die-kleine-lokomotive-und-ihre-freunde.json) |
