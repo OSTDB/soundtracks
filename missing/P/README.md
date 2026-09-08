@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pets and Friends: Cuties Bundle | 400207 | [400207-pets-and-friends-cuties-bundle.json](./400207-pets-and-friends-cuties-bundle.json) |
 | Pets and Friends: Cuties Pack | 400208 | [400208-pets-and-friends-cuties-pack.json](./400208-pets-and-friends-cuties-pack.json) |
 | Pets and Friends: Easter Pack | 396910 | [396910-pets-and-friends-easter-pack.json](./396910-pets-and-friends-easter-pack.json) |
+| Pets in Action Bundle | 212787 | [212787-pets-in-action-bundle.json](./212787-pets-in-action-bundle.json) |
 | PetShop | 235494 | [235494-petshop.json](./235494-petshop.json) |
 | PetVille | 309123 | [309123-petville.json](./309123-petville.json) |
 | PetWorld: Animal Shelter | 97334 | [97334-petworld-animal-shelter.json](./97334-petworld-animal-shelter.json) |
@@ -931,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross S8 | 219032 | [219032-picross-s8.json](./219032-picross-s8.json) |
 | Picross: Lord of the Nazarick | 120899 | [120899-picross-lord-of-the-nazarick.json](./120899-picross-lord-of-the-nazarick.json) |
 | Picross.io | 126640 | [126640-picross-io.json](./126640-picross-io.json) |
+| PictoPull | 212811 | [212811-pictopull.json](./212811-pictopull.json) |
 | Pictorbit | 414358 | [414358-pictorbit.json](./414358-pictorbit.json) |
 | Pictoword: Fun Word Pics Games | 87361 | [87361-pictoword-fun-word-pics-games.json](./87361-pictoword-fun-word-pics-games.json) |
 | Picture Party VR | 187541 | [187541-picture-party-vr.json](./187541-picture-party-vr.json) |
@@ -2376,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Promise Me, You'll Live | 280803 | [280803-promise-me-youll-live.json](./280803-promise-me-youll-live.json) |
 | Promise of Lingyun | 255120 | [255120-promise-of-lingyun.json](./255120-promise-of-lingyun.json) |
 | Promises to Keep | 309092 | [309092-promises-to-keep.json](./309092-promises-to-keep.json) |
+| Promo Pack 2x1 | 212786 | [212786-promo-pack-2x1.json](./212786-promo-pack-2x1.json) |
 | Promotion | 377610 | [377610-promotion.json](./377610-promotion.json) |
 | Pronty | 143125 | [143125-pronty.json](./143125-pronty.json) |
 | Proof of Existence | 405467 | [405467-proof-of-existence.json](./405467-proof-of-existence.json) |
