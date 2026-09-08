@@ -780,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Me in the Maze | 214733 | [214733-find-me-in-the-maze.json](./214733-find-me-in-the-maze.json) |
 | Find My Weiner | 292292 | [292292-find-my-weiner.json](./292292-find-my-weiner.json) |
 | Find Room 96 | 291457 | [291457-find-room-96.json](./291457-find-room-96.json) |
+| Find the Bug | 234076 | [234076-find-the-bug.json](./234076-find-the-bug.json) |
 | Find the Cat: Nightmare | 391604 | [391604-find-the-cat-nightmare.json](./391604-find-the-cat-nightmare.json) |
 | Find the Differences Detective | 232174 | [232174-find-the-differences-detective.json](./232174-find-the-differences-detective.json) |
 | Find the light | 216473 | [216473-find-the-light.json](./216473-find-the-light.json) |
@@ -1116,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleeing Felines: The Cat Escape | 337450 | [337450-fleeing-felines-the-cat-escape.json](./337450-fleeing-felines-the-cat-escape.json) |
 | FleeTing | 371241 | [371241-fleeting.json](./371241-fleeting.json) |
 | Fleeting JKT | 183048 | [183048-fleeting-jkt.json](./183048-fleeting-jkt.json) |
+| FleetMaster | 234060 | [234060-fleetmaster.json](./234060-fleetmaster.json) |
 | Flem | 35960 | [35960-flem.json](./35960-flem.json) |
 | Flempire | 224248 | [224248-flempire.json](./224248-flempire.json) |
 | Flesh & Spirit | 383365 | [383365-flesh-and-spirit.json](./383365-flesh-and-spirit.json) |
@@ -1137,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flicky | 275910 | [275910-flicky.json](./275910-flicky.json) |
 | Flict | 393479 | [393479-flict.json](./393479-flict.json) |
 | Flies. | 412280 | [412280-flies.json](./412280-flies.json) |
+| Fliese | 234044 | [234044-fliese.json](./234044-fliese.json) |
 | Fliggles Rescue Adventure | 259557 | [259557-fliggles-rescue-adventure.json](./259557-fliggles-rescue-adventure.json) |
 | Flight Commander 2 | 73854 | [73854-flight-commander-2.json](./73854-flight-commander-2.json) |
 | Flight of a Dragon | 270406 | [270406-flight-of-a-dragon.json](./270406-flight-of-a-dragon.json) |
