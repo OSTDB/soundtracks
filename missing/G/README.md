@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Digger | 147994 | [147994-gold-digger.json](./147994-gold-digger.json) |
 | Gold Digger Maze | 105380 | [105380-gold-digger-maze.json](./105380-gold-digger-maze.json) |
 | Gold Digger: The Simulator | 315835 | [315835-gold-digger-the-simulator.json](./315835-gold-digger-the-simulator.json) |
+| Gold Drill | 215688 | [215688-gold-drill.json](./215688-gold-drill.json) |
 | Gold Drop Mania | 329919 | [329919-gold-drop-mania.json](./329919-gold-drop-mania.json) |
 | Gold For All | 248338 | [248338-gold-for-all.json](./248338-gold-for-all.json) |
 | Gold Knight | 277269 | [277269-gold-knight.json](./277269-gold-knight.json) |
