@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jampack: Volume 15 | 43317 | [43317-jampack-volume-15.json](./43317-jampack-volume-15.json) |
 | Jams | 340765 | [340765-jams.json](./340765-jams.json) |
 | Jamster Allstars | 333561 | [333561-jamster-allstars.json](./333561-jamster-allstars.json) |
+| JanduSoft Games Bundle Vol. 1 | 247493 | [247493-jandusoft-games-bundle-vol-1.json](./247493-jandusoft-games-bundle-vol-1.json) |
 | Jane's Combat Simulations: Advanced Tactical Fighters | 78026 | [78026-janes-combat-simulations-advanced-tactical-fighters.json](./78026-janes-combat-simulations-advanced-tactical-fighters.json) |
 | Jane's Combat Simulations: Attack Pack | 78022 | [78022-janes-combat-simulations-attack-pack.json](./78022-janes-combat-simulations-attack-pack.json) |
 | Jane's Hotel | 20549 | [20549-janes-hotel.json](./20549-janes-hotel.json) |
@@ -453,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Finn | 254524 | [254524-jumping-finn.json](./254524-jumping-finn.json) |
 | Jumping Fish | 348236 | [348236-jumping-fish.json](./348236-jumping-fish.json) |
 | Jumping Flash! | 7432 | [7432-jumping-flash.json](./7432-jumping-flash.json) |
+| Jumping Frog: A Time Traveller | 247496 | [247496-jumping-frog-a-time-traveller.json](./247496-jumping-frog-a-time-traveller.json) |
 | Jumping Henry | 340779 | [340779-jumping-henry.json](./340779-jumping-henry.json) |
 | Jumping Jack | 340780 | [340780-jumping-jack.json](./340780-jumping-jack.json) |
 | Jumping Over It With Kang KiYun | 120382 | [120382-jumping-over-it-with-kang-kiyun.json](./120382-jumping-over-it-with-kang-kiyun.json) |
