@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicycle Together | 389403 | [389403-unicycle-together.json](./389403-unicycle-together.json) |
 | Unimime: Unicycle Madness | 251594 | [251594-unimime-unicycle-madness.json](./251594-unimime-unicycle-madness.json) |
 | Uninvited: MacVenture Series | 35912 | [35912-uninvited-macventure-series.json](./35912-uninvited-macventure-series.json) |
+| Union | 226751 | [226751-union.json](./226751-union.json) |
 | Union of Gnomes | 213004 | [213004-union-of-gnomes.json](./213004-union-of-gnomes.json) |
 | Union of Koi Musubi | 53879 | [53879-union-of-koi-musubi.json](./53879-union-of-koi-musubi.json) |
 | UniqKiller: Urban Shooter | 323514 | [323514-uniqkiller-urban-shooter.json](./323514-uniqkiller-urban-shooter.json) |
@@ -479,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uprising: Humanum | 248903 | [248903-uprising-humanum.json](./248903-uprising-humanum.json) |
 | Uprising: Join or Die | 32768 | [32768-uprising-join-or-die.json](./32768-uprising-join-or-die.json) |
 | Uprk.cz | 161891 | [161891-uprk-cz.json](./161891-uprk-cz.json) |
+| Uproot: Lost Leaf | 226752 | [226752-uproot-lost-leaf.json](./226752-uproot-lost-leaf.json) |
 | Uprush | 266239 | [266239-uprush.json](./266239-uprush.json) |
 | Upscale Studio: Logic Bundle: 5 in 1 | 379360 | [379360-upscale-studio-logic-bundle-5-in-1.json](./379360-upscale-studio-logic-bundle-5-in-1.json) |
 | Upside the Backrooms | 258740 | [258740-upside-the-backrooms.json](./258740-upside-the-backrooms.json) |
