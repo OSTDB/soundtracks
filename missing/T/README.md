@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Two Sides | 309133 | [309133-tale-of-two-sides.json](./309133-tale-of-two-sides.json) |
 | Talents | 248320 | [248320-talents.json](./248320-talents.json) |
 | Tales & Dragons: Merge Puzzle | 254178 | [254178-tales-and-dragons-merge-puzzle.json](./254178-tales-and-dragons-merge-puzzle.json) |
+| Tales AFar | 233497 | [233497-tales-afar.json](./233497-tales-afar.json) |
 | Tales Beyond the Tomb: No Witnesses | 407331 | [407331-tales-beyond-the-tomb-no-witnesses.json](./407331-tales-beyond-the-tomb-no-witnesses.json) |
 | Tales from Ahrum | 175981 | [175981-tales-from-ahrum.json](./175981-tales-from-ahrum.json) |
 | Tales from Centropolis | 244239 | [244239-tales-from-centropolis.json](./244239-tales-from-centropolis.json) |
@@ -319,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Combat | 54425 | [54425-tank-combat.json](./54425-tank-combat.json) |
 | Tank Elite | 82130 | [82130-tank-elite.json](./82130-tank-elite.json) |
 | Tank Game | 69315 | [69315-tank-game.json](./69315-tank-game.json) |
+| Tank It | 233483 | [233483-tank-it.json](./233483-tank-it.json) |
 | Tank Kingdoms | 238525 | [238525-tank-kingdoms.json](./238525-tank-kingdoms.json) |
 | Tank Legend Online: League of Tanks | 237961 | [237961-tank-legend-online-league-of-tanks.json](./237961-tank-legend-online-league-of-tanks.json) |
 | Tank Master | 200733 | [200733-tank-master.json](./200733-tank-master.json) |
@@ -581,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of the Lizardmen | 142486 | [142486-temple-of-the-lizardmen.json](./142486-temple-of-the-lizardmen.json) |
 | Temple of the Lizardmen 2 | 142487 | [142487-temple-of-the-lizardmen-2.json](./142487-temple-of-the-lizardmen-2.json) |
 | Temple Run 2 | 336388 | [336388-temple-run-2.json](./336388-temple-run-2.json) |
+| Temple Run: Treasure Hunters | 233503 | [233503-temple-run-treasure-hunters.json](./233503-temple-run-treasure-hunters.json) |
 | Temples vs. Buildings | 296353 | [296353-temples-vs-buildings.json](./296353-temples-vs-buildings.json) |
 | Templum de Malum | 118399 | [118399-templum-de-malum.json](./118399-templum-de-malum.json) |
 | Templum Dormiens Dei | 268460 | [268460-templum-dormiens-dei.json](./268460-templum-dormiens-dei.json) |
@@ -2978,6 +2981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Think Logic! Sudoku: Binary - Suguru | 231081 | [231081-think-logic-sudoku-binary-suguru.json](./231081-think-logic-sudoku-binary-suguru.json) |
 | Think Shift | 250386 | [250386-think-shift.json](./250386-think-shift.json) |
 | Think Tap Turn | 100815 | [100815-think-tap-turn.json](./100815-think-tap-turn.json) |
+| Think! Think! Monsters | 233512 | [233512-think-think-monsters.json](./233512-think-think-monsters.json) |
 | Thinkin' Science: Zap! | 243422 | [243422-thinkin-science-zap.json](./243422-thinkin-science-zap.json) |
 | ThinkTanks | 84240 | [84240-thinktanks.json](./84240-thinktanks.json) |
 | Third | 233784 | [233784-third.json](./233784-third.json) |
@@ -3817,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Unbalanced | 32402 | [32402-totally-unbalanced.json](./32402-totally-unbalanced.json) |
 | TotemBall | 79930 | [79930-totemball.json](./79930-totemball.json) |
 | Totems: Game of Conquest | 200188 | [200188-totems-game-of-conquest.json](./200188-totems-game-of-conquest.json) |
+| Toten | 233486 | [233486-toten.json](./233486-toten.json) |
 | Toto's Toy Box | 129222 | [129222-totos-toy-box.json](./129222-totos-toy-box.json) |
 | Totonoi Simulator | 325450 | [325450-totonoi-simulator.json](./325450-totonoi-simulator.json) |
 | Tottemo! Luckyman: Lucky Cookie Roulette de Totsugeki | 37783 | [37783-tottemo-luckyman-lucky-cookie-roulette-de-totsugeki.json](./37783-tottemo-luckyman-lucky-cookie-roulette-de-totsugeki.json) |
