@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D3d Inside | 126659 | [126659-d3d-inside.json](./126659-d3d-inside.json) |
 | D3L3T3.exe | 264331 | [264331-d3l3t3-exe.json](./264331-d3l3t3-exe.json) |
 | Dà Fùwēng | 125469 | [125469-da-fuweng.json](./125469-da-fuweng.json) |
+| Da Paper Boy | 259017 | [259017-da-paper-boy.json](./259017-da-paper-boy.json) |
 | DA-VI-NC1 | 360596 | [360596-da-vi-nc1.json](./360596-da-vi-nc1.json) |
 | Daardoa | 151190 | [151190-daardoa.json](./151190-daardoa.json) |
 | DACHstudio Jigsaw Puzzle Box: Vanlau's Tinybuns | 289862 | [289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json](./289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json) |
