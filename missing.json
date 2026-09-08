@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T13:33:34.320Z",
-  "total_missing": 46944,
+  "generated_at": "2026-09-08T13:41:19.858Z",
+  "total_missing": 46943,
   "games": [
     {
       "igdb_id": 306086,
@@ -81,11 +81,6 @@
       "igdb_id": 147438,
       "game_name": "#Halloween, Super Puzzles Dream",
       "file": "missing/0-9/147438-halloween-super-puzzles-dream.json"
-    },
-    {
-      "igdb_id": 99640,
-      "game_name": "#Have A Sticker",
-      "file": "missing/0-9/99640-have-a-sticker.json"
     },
     {
       "igdb_id": 147437,
