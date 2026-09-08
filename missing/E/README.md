@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Mage Defense | 269269 | [269269-elemental-mage-defense.json](./269269-elemental-mage-defense.json) |
 | Elemental Master | 46218 | [46218-elemental-master.json](./46218-elemental-master.json) |
 | Elemental Ninja | 61119 | [61119-elemental-ninja.json](./61119-elemental-ninja.json) |
+| Elemental Odyssey | 253373 | [253373-elemental-odyssey.json](./253373-elemental-odyssey.json) |
 | Elemental Pinball | 310964 | [310964-elemental-pinball.json](./310964-elemental-pinball.json) |
 | Elemental Raiders | 231614 | [231614-elemental-raiders.json](./231614-elemental-raiders.json) |
 | Elemental Soul | 391606 | [391606-elemental-soul.json](./391606-elemental-soul.json) |
@@ -693,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erina & A Mansao Rosaria | 219253 | [219253-erina-and-a-mansao-rosaria.json](./219253-erina-and-a-mansao-rosaria.json) |
 | Erion | 228699 | [228699-erion.json](./228699-erion.json) |
 | Eris and the Fading Kingdom | 208589 | [208589-eris-and-the-fading-kingdom.json](./208589-eris-and-the-fading-kingdom.json) |
+| Eris Dysnomia | 253379 | [253379-eris-dysnomia.json](./253379-eris-dysnomia.json) |
 | Erix | 274743 | [274743-erix.json](./274743-erix.json) |
 | Erk: Adventures in Stone Age Real Estate | 322347 | [322347-erk-adventures-in-stone-age-real-estate.json](./322347-erk-adventures-in-stone-age-real-estate.json) |
 | Erl | 362859 | [362859-erl.json](./362859-erl.json) |
