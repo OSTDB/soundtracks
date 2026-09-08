@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T13:04:08.044Z",
-  "total_missing": 46848,
+  "generated_at": "2026-09-08T13:11:35.035Z",
+  "total_missing": 46847,
   "games": [
     {
       "igdb_id": 306086,
@@ -66,11 +66,6 @@
       "igdb_id": 410259,
       "game_name": "[Stories to Tell]: The Stoneville Incident",
       "file": "missing/0-9/410259-stories-to-tell-the-stoneville-incident.json"
-    },
-    {
-      "igdb_id": 22467,
-      "game_name": "@ Home Mate",
-      "file": "missing/0-9/22467-home-mate.json"
     },
     {
       "igdb_id": 94742,
