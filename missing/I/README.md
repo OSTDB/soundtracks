@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal: And the Death that Follows | 217325 | [217325-immortal-and-the-death-that-follows.json](./217325-immortal-and-the-death-that-follows.json) |
 | Immortality | 152288 | [152288-immortality.json](./152288-immortality.json) |
 | ImmortalSurvivors | 273663 | [273663-immortalsurvivors.json](./273663-immortalsurvivors.json) |
+| Immortelle | 212825 | [212825-immortelle.json](./212825-immortelle.json) |
 | Immortum | 332246 | [332246-immortum.json](./332246-immortum.json) |
 | Immune Attack | 366828 | [366828-immune-attack.json](./366828-immune-attack.json) |
 | Immune Simulator | 264057 | [264057-immune-simulator.json](./264057-immune-simulator.json) |
