@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Anti-Gravity Machine | 359420 | [359420-the-anti-gravity-machine.json](./359420-the-anti-gravity-machine.json) |
 | The Anything Gallery | 177029 | [177029-the-anything-gallery.json](./177029-the-anything-gallery.json) |
 | The Apartment 57 | 327867 | [327867-the-apartment-57.json](./327867-the-apartment-57.json) |
+| The Ape Painting | 240241 | [240241-the-ape-painting.json](./240241-the-ape-painting.json) |
 | The Apothecary's Apprentice | 177571 | [177571-the-apothecarys-apprentice.json](./177571-the-apothecarys-apprentice.json) |
 | The Apple of Our Time | 281374 | [281374-the-apple-of-our-time.json](./281374-the-apple-of-our-time.json) |
 | The Apple Tree | 208594 | [208594-the-apple-tree.json](./208594-the-apple-tree.json) |
