@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpers League | 329960 | [329960-jumpers-league.json](./329960-jumpers-league.json) |
 | Jumphobia | 55946 | [55946-jumphobia.json](./55946-jumphobia.json) |
 | Jumping Challenge | 296927 | [296927-jumping-challenge.json](./296927-jumping-challenge.json) |
+| Jumping Finn | 254524 | [254524-jumping-finn.json](./254524-jumping-finn.json) |
 | Jumping Fish | 348236 | [348236-jumping-fish.json](./348236-jumping-fish.json) |
 | Jumping Flash! | 7432 | [7432-jumping-flash.json](./7432-jumping-flash.json) |
 | Jumping Henry | 340779 | [340779-jumping-henry.json](./340779-jumping-henry.json) |
