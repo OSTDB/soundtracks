@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MakeNumber | 94243 | [94243-makenumber.json](./94243-makenumber.json) |
 | Makoto Mobius | 150152 | [150152-makoto-mobius.json](./150152-makoto-mobius.json) |
 | Makoto Wakaido's Case Files: Executioner's Wedge | 245045 | [245045-makoto-wakaidos-case-files-executioners-wedge.json](./245045-makoto-wakaidos-case-files-executioners-wedge.json) |
+| Malacadabra | 229037 | [229037-malacadabra.json](./229037-malacadabra.json) |
 | Maldrin Journey | 123037 | [123037-maldrin-journey.json](./123037-maldrin-journey.json) |
 | Maleficent Free Fall | 61680 | [61680-maleficent-free-fall.json](./61680-maleficent-free-fall.json) |
 | Malfortune | 105382 | [105382-malfortune.json](./105382-malfortune.json) |
@@ -548,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario In Search of The Stars 2 | 267929 | [267929-mario-in-search-of-the-stars-2.json](./267929-mario-in-search-of-the-stars-2.json) |
 | Mario in the Dreamscape | 296093 | [296093-mario-in-the-dreamscape.json](./296093-mario-in-the-dreamscape.json) |
 | Mario Is Missing! | 210223 | [210223-mario-is-missing.json](./210223-mario-is-missing.json) |
+| Mario Kart 64 HD | 229075 | [229075-mario-kart-64-hd.json](./229075-mario-kart-64-hd.json) |
 | Mario Kart 64: Amped Up - Version 3 | 358307 | [358307-mario-kart-64-amped-up-version-3.json](./358307-mario-kart-64-amped-up-version-3.json) |
 | Mario Kart 64: Hooting Time | 248303 | [248303-mario-kart-64-hooting-time.json](./248303-mario-kart-64-hooting-time.json) |
 | Mario Kart 64: Mega Mushroom Blast | 266208 | [266208-mario-kart-64-mega-mushroom-blast.json](./266208-mario-kart-64-mega-mushroom-blast.json) |
@@ -973,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech vs. Bugs | 263784 | [263784-mech-vs-bugs.json](./263784-mech-vs-bugs.json) |
 | Mech Wars | 317028 | [317028-mech-wars.json](./317028-mech-wars.json) |
 | Mecha Knights: Nightmare 2 | 377069 | [377069-mecha-knights-nightmare-2.json](./377069-mecha-knights-nightmare-2.json) |
+| Mecha Ritz: Steel Rondo 2.0 | 229042 | [229042-mecha-ritz-steel-rondo-2-0.json](./229042-mecha-ritz-steel-rondo-2-0.json) |
 | Mecha's Negotiations | 363915 | [363915-mechas-negotiations.json](./363915-mechas-negotiations.json) |
 | Mechachain | 276738 | [276738-mechachain.json](./276738-mechachain.json) |
 | Mechanic 8230: Escape From Ilgrot - Extended Edition | 259544 | [259544-mechanic-8230-escape-from-ilgrot-extended-edition.json](./259544-mechanic-8230-escape-from-ilgrot-extended-edition.json) |
@@ -1344,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Story | 219289 | [219289-mermaid-story.json](./219289-mermaid-story.json) |
 | Mermaid Swamp | 287635 | [287635-mermaid-swamp.json](./287635-mermaid-swamp.json) |
 | Mermaid Tail | 302132 | [302132-mermaid-tail.json](./302132-mermaid-tail.json) |
+| Mermaidio 3 | 229077 | [229077-mermaidio-3.json](./229077-mermaidio-3.json) |
 | Merriam-Webster Spell Jam | 69287 | [69287-merriam-webster-spell-jam.json](./69287-merriam-webster-spell-jam.json) |
 | Merry Christmas: Snowball Bubble | 187495 | [187495-merry-christmas-snowball-bubble.json](./187495-merry-christmas-snowball-bubble.json) |
 | Merry Cook | 367934 | [367934-merry-cook.json](./367934-merry-cook.json) |
