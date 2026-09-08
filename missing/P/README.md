@@ -322,6 +322,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paris Belle Epoque | 303270 | [303270-paris-belle-epoque.json](./303270-paris-belle-epoque.json) |
 | Paris Saint-Germain Club Football 2005 | 267911 | [267911-paris-saint-germain-club-football-2005.json](./267911-paris-saint-germain-club-football-2005.json) |
 | Paris Transylvania | 258189 | [258189-paris-transylvania.json](./258189-paris-transylvania.json) |
+| Paris-Marseille Racing | 249771 | [249771-paris-marseille-racing.json](./249771-paris-marseille-racing.json) |
+| Paris-Marseille Racing II | 249772 | [249772-paris-marseille-racing-ii.json](./249772-paris-marseille-racing-ii.json) |
 | Paris: Jigsaw Puzzles | 104078 | [104078-paris-jigsaw-puzzles.json](./104078-paris-jigsaw-puzzles.json) |
 | Parisian Brasserie Simulator | 326380 | [326380-parisian-brasserie-simulator.json](./326380-parisian-brasserie-simulator.json) |
 | Parity | 124243 | [124243-parity.json](./124243-parity.json) |
@@ -2412,6 +2414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putty | 39022 | [39022-putty.json](./39022-putty.json) |
 | Putty Squad | 39021 | [39021-putty-squad.json](./39021-putty-squad.json) |
 | Puyo Puyo | 146876 | [146876-puyo-puyo.json](./146876-puyo-puyo.json) |
+| Puyo Puyo | 249773 | [249773-puyo-puyo.json](./249773-puyo-puyo.json) |
 | Puyo Puyo Puzzle Pop | 291210 | [291210-puyo-puyo-puzzle-pop.json](./291210-puyo-puyo-puzzle-pop.json) |
 | Puyo Puyo Sun | 250340 | [250340-puyo-puyo-sun.json](./250340-puyo-puyo-sun.json) |
 | Puyo Puyo Tetris 2 | 137132 | [137132-puyo-puyo-tetris-2.json](./137132-puyo-puyo-tetris-2.json) |
