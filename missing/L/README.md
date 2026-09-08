@@ -1328,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Elysium: Secret of the Goddess - Ultimate Edition | 313141 | [313141-love-elysium-secret-of-the-goddess-ultimate-edition.json](./313141-love-elysium-secret-of-the-goddess-ultimate-edition.json) |
 | Love Engine | 29956 | [29956-love-engine.json](./29956-love-engine.json) |
 | Love Girl | 22474 | [22474-love-girl.json](./22474-love-girl.json) |
+| Love Goes Toward Love | 212805 | [212805-love-goes-toward-love.json](./212805-love-goes-toward-love.json) |
 | Love Hentai: Sexy Body | 109714 | [109714-love-hentai-sexy-body.json](./109714-love-hentai-sexy-body.json) |
 | Love Hina Advance ~Shukufuku no Kane wa Naru kana~ | 49416 | [49416-love-hina-advance-shukufuku-no-kane-wa-naru-kana.json](./49416-love-hina-advance-shukufuku-no-kane-wa-naru-kana.json) |
 | Love Hotel Manager | 351602 | [351602-love-hotel-manager.json](./351602-love-hotel-manager.json) |
