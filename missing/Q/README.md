@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| Q.u.q. | 238527 | [238527-q-u-q.json](./238527-q-u-q.json) |
 | QAD: Quintessential Art of Destruction | 72102 | [72102-qad-quintessential-art-of-destruction.json](./72102-qad-quintessential-art-of-destruction.json) |
 | Qanga | 97909 | [97909-qanga.json](./97909-qanga.json) |
 | Qasir al-Wasat: International Edition | 36327 | [36327-qasir-al-wasat-international-edition.json](./36327-qasir-al-wasat-international-edition.json) |
@@ -119,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest For Milkshake | 310950 | [310950-quest-for-milkshake.json](./310950-quest-for-milkshake.json) |
 | Quest for the Crystal Skulls | 268756 | [268756-quest-for-the-crystal-skulls.json](./268756-quest-for-the-crystal-skulls.json) |
 | Quest for the Golden Chalice | 306664 | [306664-quest-for-the-golden-chalice.json](./306664-quest-for-the-golden-chalice.json) |
+| Quest for the Pinnacle | 238508 | [238508-quest-for-the-pinnacle.json](./238508-quest-for-the-pinnacle.json) |
 | Quest For The X | 259822 | [259822-quest-for-the-x.json](./259822-quest-for-the-x.json) |
 | Quest For Wartorn Brotherhood | 118389 | [118389-quest-for-wartorn-brotherhood.json](./118389-quest-for-wartorn-brotherhood.json) |
 | Quest for Yrolg | 57098 | [57098-quest-for-yrolg.json](./57098-quest-for-yrolg.json) |
