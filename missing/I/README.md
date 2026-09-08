@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IndyCar Racing II | 71514 | [71514-indycar-racing-ii.json](./71514-indycar-racing-ii.json) |
 | IndyCar Series | 5866 | [5866-indycar-series.json](./5866-indycar-series.json) |
 | Ines | 340925 | [340925-ines.json](./340925-ines.json) |
+| Inescapable: No Rules, No Rescue | 244764 | [244764-inescapable-no-rules-no-rescue.json](./244764-inescapable-no-rules-no-rescue.json) |
 | Inexplicable Geeks: RestoreTheMillerCut | 253924 | [253924-inexplicable-geeks-restorethemillercut.json](./253924-inexplicable-geeks-restorethemillercut.json) |
 | Infamous: First Light | 7328 | [7328-infamous-first-light.json](./7328-infamous-first-light.json) |
 | Infantry Attack: Backup Edition | 308805 | [308805-infantry-attack-backup-edition.json](./308805-infantry-attack-backup-edition.json) |
@@ -643,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innadreem | 383938 | [383938-innadreem.json](./383938-innadreem.json) |
 | Innchanted | 138239 | [138239-innchanted.json](./138239-innchanted.json) |
 | Inner Ashes | 217007 | [217007-inner-ashes.json](./217007-inner-ashes.json) |
+| Inner Blade | 244753 | [244753-inner-blade.json](./244753-inner-blade.json) |
 | Inner Fire | 97341 | [97341-inner-fire.json](./97341-inner-fire.json) |
 | Inner silence | 29869 | [29869-inner-silence.json](./29869-inner-silence.json) |
 | InnerCube | 35879 | [35879-innercube.json](./35879-innercube.json) |
