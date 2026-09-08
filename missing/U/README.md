@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Savanna Simulator | 86690 | [86690-ultimate-savanna-simulator.json](./86690-ultimate-savanna-simulator.json) |
 | Ultimate Sheep Raccoon | 325276 | [325276-ultimate-sheep-raccoon.json](./325276-ultimate-sheep-raccoon.json) |
 | Ultimate Sim | 91425 | [91425-ultimate-sim.json](./91425-ultimate-sim.json) |
+| Ultimate Simplicity | 256815 | [256815-ultimate-simplicity.json](./256815-ultimate-simplicity.json) |
 | Ultimate Sliding Puzzle: Arcade Pack | 270391 | [270391-ultimate-sliding-puzzle-arcade-pack.json](./270391-ultimate-sliding-puzzle-arcade-pack.json) |
 | Ultimate Sliding Puzzle: Ecchi Pack | 270392 | [270392-ultimate-sliding-puzzle-ecchi-pack.json](./270392-ultimate-sliding-puzzle-ecchi-pack.json) |
 | Ultimate Sliding Puzzle: Sci-Fi Pack | 270393 | [270393-ultimate-sliding-puzzle-sci-fi-pack.json](./270393-ultimate-sliding-puzzle-sci-fi-pack.json) |
@@ -195,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbodied | 311496 | [311496-unbodied.json](./311496-unbodied.json) |
 | Unbothered | 329033 | [329033-unbothered.json](./329033-unbothered.json) |
 | Unboxing: Cozy Home Simulator | 334104 | [334104-unboxing-cozy-home-simulator.json](./334104-unboxing-cozy-home-simulator.json) |
+| Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend | 256848 | [256848-unbreakable-kimmy-schmidt-kimmy-vs-the-reverend.json](./256848-unbreakable-kimmy-schmidt-kimmy-vs-the-reverend.json) |
 | Unbridled Horror | 181896 | [181896-unbridled-horror.json](./181896-unbridled-horror.json) |
 | Unbroken | 298600 | [298600-unbroken.json](./298600-unbroken.json) |
 | Unchained | 178075 | [178075-unchained.json](./178075-unchained.json) |
@@ -299,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfazed | 31948 | [31948-unfazed.json](./31948-unfazed.json) |
 | Unfinished 2 | 338589 | [338589-unfinished-2.json](./338589-unfinished-2.json) |
 | Unfortunate Spacemen | 34300 | [34300-unfortunate-spacemen.json](./34300-unfortunate-spacemen.json) |
+| Unhallowed | 256834 | [256834-unhallowed.json](./256834-unhallowed.json) |
 | Unheard: The Lethal Script | 228720 | [228720-unheard-the-lethal-script.json](./228720-unheard-the-lethal-script.json) |
 | Unhold | 407330 | [407330-unhold.json](./407330-unhold.json) |
 | Unholy Arts | 135882 | [135882-unholy-arts.json](./135882-unholy-arts.json) |
