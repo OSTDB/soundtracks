@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Can Make It | 216485 | [216485-we-can-make-it.json](./216485-we-can-make-it.json) |
 | We Cheer | 5263 | [5263-we-cheer.json](./5263-we-cheer.json) |
 | We Dance | 20580 | [20580-we-dance.json](./20580-we-dance.json) |
+| We don't die here | 212281 | [212281-we-dont-die-here.json](./212281-we-dont-die-here.json) |
 | We Dream Standing Up | 228097 | [228097-we-dream-standing-up.json](./228097-we-dream-standing-up.json) |
 | We Gotta Go | 375823 | [375823-we-gotta-go.json](./375823-we-gotta-go.json) |
 | We Grew Up in War | 318776 | [318776-we-grew-up-in-war.json](./318776-we-grew-up-in-war.json) |
@@ -520,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wettop | 358871 | [358871-wettop.json](./358871-wettop.json) |
 | WFD | 272567 | [272567-wfd.json](./272567-wfd.json) |
 | WG Mega | 270661 | [270661-wg-mega.json](./270661-wg-mega.json) |
+| Whack First!: Fight the Moles | 212268 | [212268-whack-first-fight-the-moles.json](./212268-whack-first-fight-the-moles.json) |
 | Whack-A-Friend | 85486 | [85486-whack-a-friend.json](./85486-whack-a-friend.json) |
 | Whack-A-Monster | 410919 | [410919-whack-a-monster.json](./410919-whack-a-monster.json) |
 | Whacky Ball | 243712 | [243712-whacky-ball.json](./243712-whacky-ball.json) |
@@ -876,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winglet | 299172 | [299172-winglet.json](./299172-winglet.json) |
 | WingMan | 216484 | [216484-wingman.json](./216484-wingman.json) |
 | Wings 1941 | 203571 | [203571-wings-1941.json](./203571-wings-1941.json) |
+| Wings of Glory | 212247 | [212247-wings-of-glory.json](./212247-wings-of-glory.json) |
 | Wings of Magloryx | 85492 | [85492-wings-of-magloryx.json](./85492-wings-of-magloryx.json) |
 | Wings! Remastered Edition | 8801 | [8801-wings-remastered-edition.json](./8801-wings-remastered-edition.json) |
 | Wingspan + European Expansion + Oceania Expansion | 275894 | [275894-wingspan-european-expansion-oceania-expansion.json](./275894-wingspan-european-expansion-oceania-expansion.json) |
