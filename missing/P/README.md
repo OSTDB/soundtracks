@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patchworkz!: X-maz! | 185696 | [185696-patchworkz-x-maz.json](./185696-patchworkz-x-maz.json) |
 | Patchworld | 316399 | [316399-patchworld.json](./316399-patchworld.json) |
 | Path of Achra | 222738 | [222738-path-of-achra.json](./222738-path-of-achra.json) |
+| Path of Ascension | 259003 | [259003-path-of-ascension.json](./259003-path-of-ascension.json) |
 | Path of Destruction | 195773 | [195773-path-of-destruction.json](./195773-path-of-destruction.json) |
 | Path of Exile: Settlers of Kalguur | 310958 | [310958-path-of-exile-settlers-of-kalguur.json](./310958-path-of-exile-settlers-of-kalguur.json) |
 | Path of Heaven | 278142 | [278142-path-of-heaven.json](./278142-path-of-heaven.json) |
@@ -725,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online 2: Howzer Pack | 225863 | [225863-phantasy-star-online-2-howzer-pack.json](./225863-phantasy-star-online-2-howzer-pack.json) |
 | Phantasy Star Online 2: Vivienne Pack | 225862 | [225862-phantasy-star-online-2-vivienne-pack.json](./225862-phantasy-star-online-2-vivienne-pack.json) |
 | PhantazmA | 125429 | [125429-phantazma.json](./125429-phantazma.json) |
+| Phantom | 258994 | [258994-phantom.json](./258994-phantom.json) |
 | Phantom Blade 0 | 250618 | [250618-phantom-blade-0.json](./250618-phantom-blade-0.json) |
 | Phantom Bound | 293626 | [293626-phantom-bound.json](./293626-phantom-bound.json) |
 | Phantom City | 317826 | [317826-phantom-city.json](./317826-phantom-city.json) |
@@ -921,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pimp My Dungeon | 243959 | [243959-pimp-my-dungeon.json](./243959-pimp-my-dungeon.json) |
 | Pimp My Ride Street Racing | 274184 | [274184-pimp-my-ride-street-racing.json](./274184-pimp-my-ride-street-racing.json) |
 | Pin Climb | 318755 | [318755-pin-climb.json](./318755-pin-climb.json) |
+| Pin Crasher | 258989 | [258989-pin-crasher.json](./258989-pin-crasher.json) |
 | Pin To Win | 302351 | [302351-pin-to-win.json](./302351-pin-to-win.json) |
 | Pin Zhi | 304893 | [304893-pin-zhi.json](./304893-pin-zhi.json) |
 | Pin-Bowler | 92541 | [92541-pin-bowler.json](./92541-pin-bowler.json) |
@@ -1412,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo Knight | 320566 | [320566-pogo-knight.json](./320566-pogo-knight.json) |
 | Pogo-Gogo | 291784 | [291784-pogo-gogo.json](./291784-pogo-gogo.json) |
 | Pogo-Rocket | 154030 | [154030-pogo-rocket.json](./154030-pogo-rocket.json) |
+| Pogo3D | 259015 | [259015-pogo3d.json](./259015-pogo3d.json) |
 | Pogoduck | 243965 | [243965-pogoduck.json](./243965-pogoduck.json) |
 | Poibos Part 1: Dasshutsu | 298547 | [298547-poibos-part-1-dasshutsu.json](./298547-poibos-part-1-dasshutsu.json) |
 | Point Gakushuu: 10-masu Keisan | 327621 | [327621-point-gakushuu-10-masu-keisan.json](./327621-point-gakushuu-10-masu-keisan.json) |
@@ -2120,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Treasure | 94761 | [94761-project-treasure.json](./94761-project-treasure.json) |
 | Project Unknown Designation | 309881 | [309881-project-unknown-designation.json](./309881-project-unknown-designation.json) |
 | Project Volition | 270123 | [270123-project-volition.json](./270123-project-volition.json) |
+| Project Vostok | 258985 | [258985-project-vostok.json](./258985-project-vostok.json) |
 | Project Werewolf | 306099 | [306099-project-werewolf.json](./306099-project-werewolf.json) |
 | Project Windless | 389432 | [389432-project-windless.json](./389432-project-windless.json) |
 | Project Wingman | 56859 | [56859-project-wingman.json](./56859-project-wingman.json) |
@@ -2196,6 +2201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proud To Love | 385052 | [385052-proud-to-love.json](./385052-proud-to-love.json) |
 | Proun | 80558 | [80558-proun.json](./80558-proun.json) |
 | Provide Relief | 272008 | [272008-provide-relief.json](./272008-provide-relief.json) |
+| Provoron | 258977 | [258977-provoron.json](./258977-provoron.json) |
 | Prune & Milo | 294134 | [294134-prune-and-milo.json](./294134-prune-and-milo.json) |
 | Prussia's Glory | 77384 | [77384-prussias-glory.json](./77384-prussias-glory.json) |
 | Pry into the Void | 187530 | [187530-pry-into-the-void.json](./187530-pry-into-the-void.json) |
