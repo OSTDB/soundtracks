@@ -25,7 +25,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #womenUp, Super Puzzles Dream | 147437 | [147437-womenup-super-puzzles-dream.json](./147437-womenup-super-puzzles-dream.json) |
 | > Terminal | 383380 | [383380-terminal.json](./383380-terminal.json) |
 | >Connect | 124224 | [124224-connect.json](./124224-connect.json) |
-| 001 Earth | 191250 | [191250-001-earth.json](./191250-001-earth.json) |
 | 0101: Classic Bonus Levels 3 | 325453 | [325453-0101-classic-bonus-levels-3.json](./325453-0101-classic-bonus-levels-3.json) |
 | 0101: Counter Bonus Levels 3 | 325454 | [325454-0101-counter-bonus-levels-3.json](./325454-0101-counter-bonus-levels-3.json) |
 | 0101: Pusher Bonus Levels 3 | 325455 | [325455-0101-pusher-bonus-levels-3.json](./325455-0101-pusher-bonus-levels-3.json) |
