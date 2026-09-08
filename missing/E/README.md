@@ -685,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equinox | 100180 | [100180-equinox.json](./100180-equinox.json) |
 | Equinox | 197403 | [197403-equinox.json](./197403-equinox.json) |
 | Equiverse | 303801 | [303801-equiverse.json](./303801-equiverse.json) |
+| Era's Adventures | 247534 | [247534-eras-adventures.json](./247534-eras-adventures.json) |
 | Eradicator | 8340 | [8340-eradicator.json](./8340-eradicator.json) |
 | Erannorth Reborn | 116711 | [116711-erannorth-reborn.json](./116711-erannorth-reborn.json) |
 | Erannorth Reborn: Blood Coven Rise | 168914 | [168914-erannorth-reborn-blood-coven-rise.json](./168914-erannorth-reborn-blood-coven-rise.json) |
@@ -705,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erk: Adventures in Stone Age Real Estate | 322347 | [322347-erk-adventures-in-stone-age-real-estate.json](./322347-erk-adventures-in-stone-age-real-estate.json) |
 | Erl | 362859 | [362859-erl.json](./362859-erl.json) |
 | Eroblast: Playful Edition | 259572 | [259572-eroblast-playful-edition.json](./259572-eroblast-playful-edition.json) |
+| Erobos Heaven | 247514 | [247514-erobos-heaven.json](./247514-erobos-heaven.json) |
 | Erotic Colouring Book | 110356 | [110356-erotic-colouring-book.json](./110356-erotic-colouring-book.json) |
 | Erotic Jigsaw Puzzle | 156644 | [156644-erotic-jigsaw-puzzle.json](./156644-erotic-jigsaw-puzzle.json) |
 | Erotic Jigsaw Puzzle 2 | 150652 | [150652-erotic-jigsaw-puzzle-2.json](./150652-erotic-jigsaw-puzzle-2.json) |
