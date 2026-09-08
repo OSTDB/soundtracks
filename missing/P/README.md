@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Corps: US Corps | 124806 | [124806-panzer-corps-us-corps.json](./124806-panzer-corps-us-corps.json) |
 | Panzer Crew VR | 132273 | [132273-panzer-crew-vr.json](./132273-panzer-crew-vr.json) |
 | Panzer Strike | 324314 | [324314-panzer-strike.json](./324314-panzer-strike.json) |
+| Panzer War | 255754 | [255754-panzer-war.json](./255754-panzer-war.json) |
 | Panzerfaust | 258212 | [258212-panzerfaust.json](./258212-panzerfaust.json) |
 | Papa Sangre | 7698 | [7698-papa-sangre.json](./7698-papa-sangre.json) |
 | Papa's Burgeria HD | 86695 | [86695-papas-burgeria-hd.json](./86695-papas-burgeria-hd.json) |
@@ -1632,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poodle Kick | 391608 | [391608-poodle-kick.json](./391608-poodle-kick.json) |
 | Poogers | 223131 | [223131-poogers.json](./223131-poogers.json) |
 | Pooh's Hundred Acre Wood Adventure | 326583 | [326583-poohs-hundred-acre-wood-adventure.json](./326583-poohs-hundred-acre-wood-adventure.json) |
+| Pooking: Billiards City | 255757 | [255757-pooking-billiards-city.json](./255757-pooking-billiards-city.json) |
 | Pool | 352172 | [352172-pool.json](./352172-pool.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Definitive Edition | 400201 | [400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json](./400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json) |
 | Pool Adventure | 191221 | [191221-pool-adventure.json](./191221-pool-adventure.json) |
