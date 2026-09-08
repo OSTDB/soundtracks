@@ -45,7 +45,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10:16 | 267102 | [267102-10-16.json](./267102-10-16.json) |
 | 100 Africa Cats | 334117 | [334117-100-africa-cats.json](./334117-100-africa-cats.json) |
 | 100 Balls | 331350 | [331350-100-balls.json](./331350-100-balls.json) |
-| 100 Berlin Cats | 334118 | [334118-100-berlin-cats.json](./334118-100-berlin-cats.json) |
 | 100 Caliber Dash | 334119 | [334119-100-caliber-dash.json](./334119-100-caliber-dash.json) |
 | 100 Cats Lost in World Find & Color | 348783 | [348783-100-cats-lost-in-world-find-and-color.json](./348783-100-cats-lost-in-world-find-and-color.json) |
 | 100 China Cats | 315289 | [315289-100-china-cats.json](./315289-100-china-cats.json) |
