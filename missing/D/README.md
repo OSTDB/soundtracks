@@ -2731,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light: Enhanced Edition | 248317 | [248317-dying-light-enhanced-edition.json](./248317-dying-light-enhanced-edition.json) |
 | Dying Reign | 355560 | [355560-dying-reign.json](./355560-dying-reign.json) |
 | Dying: Reborn | 27569 | [27569-dying-reborn.json](./27569-dying-reborn.json) |
+| Dying: Reborn + Dying: Reborn VR Bundle | 217861 | [217861-dying-reborn-dying-reborn-vr-bundle.json](./217861-dying-reborn-dying-reborn-vr-bundle.json) |
 | Dylan Dog: Horror Luna Park | 70970 | [70970-dylan-dog-horror-luna-park.json](./70970-dylan-dog-horror-luna-park.json) |
 | Dymension | 191262 | [191262-dymension.json](./191262-dymension.json) |
 | Dynacat | 196958 | [196958-dynacat.json](./196958-dynacat.json) |
