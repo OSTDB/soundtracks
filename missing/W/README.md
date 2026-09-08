@@ -1224,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Zoo | 5287 | [5287-world-of-zoo.json](./5287-world-of-zoo.json) |
 | World on Paper | 307572 | [307572-world-on-paper.json](./307572-world-on-paper.json) |
 | World Poker Tour: Texas Hold 'Em | 85498 | [85498-world-poker-tour-texas-hold-em.json](./85498-world-poker-tour-texas-hold-em.json) |
+| World Racing 2: Champion Edition | 231399 | [231399-world-racing-2-champion-edition.json](./231399-world-racing-2-champion-edition.json) |
 | World Rally | 46834 | [46834-world-rally.json](./46834-world-rally.json) |
 | World Robot Boxing 2 | 196302 | [196302-world-robot-boxing-2.json](./196302-world-robot-boxing-2.json) |
 | World Series Basketball | 45316 | [45316-world-series-basketball.json](./45316-world-series-basketball.json) |
@@ -1275,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds of Legend: Son of the Empire | 71521 | [71521-worlds-of-legend-son-of-the-empire.json](./71521-worlds-of-legend-son-of-the-empire.json) |
 | Worm AR | 234597 | [234597-worm-ar.json](./234597-worm-ar.json) |
 | Worm Dungeon | 135878 | [135878-worm-dungeon.json](./135878-worm-dungeon.json) |
+| Worm Game | 231396 | [231396-worm-game.json](./231396-worm-game.json) |
 | Worm Odyssey | 275914 | [275914-worm-odyssey.json](./275914-worm-odyssey.json) |
 | Worm War: Greengrocer | 290420 | [290420-worm-war-greengrocer.json](./290420-worm-war-greengrocer.json) |
 | Wormatozoa | 190722 | [190722-wormatozoa.json](./190722-wormatozoa.json) |
