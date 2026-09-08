@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jupiter Melon | 284901 | [284901-jupiter-melon.json](./284901-jupiter-melon.json) |
 | Juqueision | 186301 | [186301-juqueision.json](./186301-juqueision.json) |
 | Jurard Run | 337441 | [337441-jurard-run.json](./337441-jurard-run.json) |
+| Jurassic Dinosaur | 252148 | [252148-jurassic-dinosaur.json](./252148-jurassic-dinosaur.json) |
 | Jurassic Genesis: We Are Aliens | 411586 | [411586-jurassic-genesis-we-are-aliens.json](./411586-jurassic-genesis-we-are-aliens.json) |
 | Jurassic Island Rescue and Escape | 294433 | [294433-jurassic-island-rescue-and-escape.json](./294433-jurassic-island-rescue-and-escape.json) |
 | Jurassic Island: The Dinosaur Zoo | 14745 | [14745-jurassic-island-the-dinosaur-zoo.json](./14745-jurassic-island-the-dinosaur-zoo.json) |
