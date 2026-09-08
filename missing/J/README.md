@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jessica Deliverson | 340772 | [340772-jessica-deliverson.json](./340772-jessica-deliverson.json) |
 | Jessica Plunkenstein and the Dusseldorf Conspiracy | 169992 | [169992-jessica-plunkenstein-and-the-dusseldorf-conspiracy.json](./169992-jessica-plunkenstein-and-the-dusseldorf-conspiracy.json) |
 | Jester / King | 166745 | [166745-jester-king.json](./166745-jester-king.json) |
+| Jester's Quest | 221163 | [221163-jesters-quest.json](./221163-jesters-quest.json) |
 | Jesucristo: El Robot del Futuro | 302125 | [302125-jesucristo-el-robot-del-futuro.json](./302125-jesucristo-el-robot-del-futuro.json) |
 | Jesus Sacred Heart | 392792 | [392792-jesus-sacred-heart.json](./392792-jesus-sacred-heart.json) |
 | Jet Bike Simulator | 55211 | [55211-jet-bike-simulator.json](./55211-jet-bike-simulator.json) |
@@ -526,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junior Fitness Trainer | 268182 | [268182-junior-fitness-trainer.json](./268182-junior-fitness-trainer.json) |
 | Junior's Revenge | 78039 | [78039-juniors-revenge.json](./78039-juniors-revenge.json) |
 | Juniper: A Scrapbooking Adventure | 386722 | [386722-juniper-a-scrapbooking-adventure.json](./386722-juniper-a-scrapbooking-adventure.json) |
+| Junjou Gal to Shiawase no Katachi: Shape of Happiness | 221201 | [221201-junjou-gal-to-shiawase-no-katachi-shape-of-happiness.json](./221201-junjou-gal-to-shiawase-no-katachi-shape-of-happiness.json) |
 | Junk Race | 246988 | [246988-junk-race.json](./246988-junk-race.json) |
 | Junk Sec | 394901 | [394901-junk-sec.json](./394901-junk-sec.json) |
 | Junk Survivor | 246075 | [246075-junk-survivor.json](./246075-junk-survivor.json) |
