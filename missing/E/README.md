@@ -651,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Pixel War | 296391 | [296391-epic-pixel-war.json](./296391-epic-pixel-war.json) |
 | Epic Pizza | 277314 | [277314-epic-pizza.json](./277314-epic-pizza.json) |
 | Epic Prose: Special Edition | 52020 | [52020-epic-prose-special-edition.json](./52020-epic-prose-special-edition.json) |
+| Epic Roller Coasters: Antarctica | 255133 | [255133-epic-roller-coasters-antarctica.json](./255133-epic-roller-coasters-antarctica.json) |
 | Epic Sax Game | 414339 | [414339-epic-sax-game.json](./414339-epic-sax-game.json) |
 | Epic Showdown | 34365 | [34365-epic-showdown.json](./34365-epic-showdown.json) |
 | Epic Skater | 70999 | [70999-epic-skater.json](./70999-epic-skater.json) |
