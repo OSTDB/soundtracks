@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T18:48:41.619Z",
-  "total_missing": 47791,
+  "generated_at": "2026-09-08T19:01:07.334Z",
+  "total_missing": 47796,
   "games": [
     {
       "igdb_id": 306086,
@@ -241,11 +241,6 @@
       "igdb_id": 301029,
       "game_name": "100 Forest Cats",
       "file": "missing/0-9/301029-100-forest-cats.json"
-    },
-    {
-      "igdb_id": 327614,
-      "game_name": "100 Gates",
-      "file": "missing/0-9/327614-100-gates.json"
     },
     {
       "igdb_id": 334122,
@@ -63273,6 +63268,11 @@
       "file": "missing/E/288223-endure-or-perish.json"
     },
     {
+      "igdb_id": 218504,
+      "game_name": "Endzone: A World Apart - Complete Edition",
+      "file": "missing/E/218504-endzone-a-world-apart-complete-edition.json"
+    },
+    {
       "igdb_id": 193533,
       "game_name": "Endzone: A World Apart - Survivor Edition",
       "file": "missing/E/193533-endzone-a-world-apart-survivor-edition.json"
@@ -67513,6 +67513,11 @@
       "file": "missing/F/305150-fallout-76-skyline-valley.json"
     },
     {
+      "igdb_id": 218503,
+      "game_name": "Fallout 76: The Pitt - Deluxe Edition",
+      "file": "missing/F/218503-fallout-76-the-pitt-deluxe-edition.json"
+    },
+    {
       "igdb_id": 115713,
       "game_name": "Fallout 76: Wild Appalachia",
       "file": "missing/F/115713-fallout-76-wild-appalachia.json"
@@ -68586,6 +68591,11 @@
       "igdb_id": 150132,
       "game_name": "Fast & Furious: Spy Racers Rise of Sh1ft3r",
       "file": "missing/F/150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json"
+    },
+    {
+      "igdb_id": 218500,
+      "game_name": "Fast & Furious: Spy Racers Rise of Sh1ft3r - Complete Edition",
+      "file": "missing/F/218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json"
     },
     {
       "igdb_id": 292288,
@@ -104111,6 +104121,11 @@
       "igdb_id": 86127,
       "game_name": "Kader Mühürleri",
       "file": "missing/K/86127-kader-muhurleri.json"
+    },
+    {
+      "igdb_id": 218505,
+      "game_name": "Kaeru Batake DE Tsukamaete Portable",
+      "file": "missing/K/218505-kaeru-batake-de-tsukamaete-portable.json"
     },
     {
       "igdb_id": 340784,
@@ -152523,6 +152538,11 @@
       "file": "missing/P/333565-pokemon-go-might-and-mastery.json"
     },
     {
+      "igdb_id": 218502,
+      "game_name": "Pokémon Go: Season of Legends",
+      "file": "missing/P/218502-pokemon-go-season-of-legends.json"
+    },
+    {
       "igdb_id": 334655,
       "game_name": "Pokemon HG/SS Golden Edition",
       "file": "missing/P/334655-pokemon-hg-ss-golden-edition.json"
@@ -155311,6 +155331,11 @@
       "igdb_id": 219051,
       "game_name": "Pro Gymnast Simulator + Brawl Chess",
       "file": "missing/P/219051-pro-gymnast-simulator-brawl-chess.json"
+    },
+    {
+      "igdb_id": 218501,
+      "game_name": "Pro Gymnast Simulator + Cyber Protocol",
+      "file": "missing/P/218501-pro-gymnast-simulator-cyber-protocol.json"
     },
     {
       "igdb_id": 97880,
