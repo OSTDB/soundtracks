@@ -2658,6 +2658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnin' Rubber 6 | 320749 | [320749-burnin-rubber-6.json](./320749-burnin-rubber-6.json) |
 | Burnin' Rubber Shift | 237965 | [237965-burnin-rubber-shift.json](./237965-burnin-rubber-shift.json) |
 | Burninate the Barnyard | 231613 | [231613-burninate-the-barnyard.json](./231613-burninate-the-barnyard.json) |
+| Burning Dead | 226777 | [226777-burning-dead.json](./226777-burning-dead.json) |
 | Burning Love | 287082 | [287082-burning-love.json](./287082-burning-love.json) |
 | Burning Monkey Casino | 352743 | [352743-burning-monkey-casino.json](./352743-burning-monkey-casino.json) |
 | Burning Mountain and Sea | 150681 | [150681-burning-mountain-and-sea.json](./150681-burning-mountain-and-sea.json) |
