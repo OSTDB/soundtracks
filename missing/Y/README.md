@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yattsu no Hiseki 2X | 386156 | [386156-yattsu-no-hiseki-2x.json](./386156-yattsu-no-hiseki-2x.json) |
 | Yatzy Addict+ | 252137 | [252137-yatzy-addict.json](./252137-yatzy-addict.json) |
 | Yeah Bunny 2 | 337091 | [337091-yeah-bunny-2.json](./337091-yeah-bunny-2.json) |
+| Year 500 | 248046 | [248046-year-500.json](./248046-year-500.json) |
 | Yedesna Shoots 2 | 315847 | [315847-yedesna-shoots-2.json](./315847-yedesna-shoots-2.json) |
 | Yedoma Globula | 140051 | [140051-yedoma-globula.json](./140051-yedoma-globula.json) |
 | Yellow Fins HD | 89574 | [89574-yellow-fins-hd.json](./89574-yellow-fins-hd.json) |
