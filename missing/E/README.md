@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eight Ball | 93592 | [93592-eight-ball.json](./93592-eight-ball.json) |
 | Eight Pool Fever | 322586 | [322586-eight-pool-fever.json](./322586-eight-pool-fever.json) |
 | Eighteen | 295244 | [295244-eighteen.json](./295244-eighteen.json) |
+| Eighteen Gold | 258484 | [258484-eighteen-gold.json](./258484-eighteen-gold.json) |
 | Eighth Era | 329967 | [329967-eighth-era.json](./329967-eighth-era.json) |
 | Eigo wo Taberu Fushigi na Ikimono | 338715 | [338715-eigo-wo-taberu-fushigi-na-ikimono.json](./338715-eigo-wo-taberu-fushigi-na-ikimono.json) |
 | Eikou no Saint Andrews | 3484 | [3484-eikou-no-saint-andrews.json](./3484-eikou-no-saint-andrews.json) |
