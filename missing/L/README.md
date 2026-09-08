@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lennod Jump Game | 384542 | [384542-lennod-jump-game.json](./384542-lennod-jump-game.json) |
 | Lenny Loosejocks Goes Walkabout | 170548 | [170548-lenny-loosejocks-goes-walkabout.json](./170548-lenny-loosejocks-goes-walkabout.json) |
 | Lenny! | 186343 | [186343-lenny.json](./186343-lenny.json) |
+| Lent: The Easter Bunny - Lent's Adventure: Story One | 215123 | [215123-lent-the-easter-bunny-lents-adventure-story-one.json](./215123-lent-the-easter-bunny-lents-adventure-story-one.json) |
 | Léo | 386726 | [386726-leo.json](./386726-leo.json) |
 | Leo the Lion | 124823 | [124823-leo-the-lion.json](./124823-leo-the-lion.json) |
 | Leonardo | 133430 | [133430-leonardo.json](./133430-leonardo.json) |
