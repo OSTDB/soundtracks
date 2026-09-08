@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclectic Guests | 178674 | [178674-eclectic-guests.json](./178674-eclectic-guests.json) |
 | Eclectic Shell | 328265 | [328265-eclectic-shell.json](./328265-eclectic-shell.json) |
 | Eclipse | 172192 | [172192-eclipse.json](./172192-eclipse.json) |
+| Eclipse | 216246 | [216246-eclipse.json](./216246-eclipse.json) |
 | Eclipse | 218163 | [218163-eclipse.json](./218163-eclipse.json) |
 | Eclipse | 295243 | [295243-eclipse.json](./295243-eclipse.json) |
 | Eclipse Isle | 125435 | [125435-eclipse-isle.json](./125435-eclipse-isle.json) |
