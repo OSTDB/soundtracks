@@ -405,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Play Mania | 361688 | [361688-party-play-mania.json](./361688-party-play-mania.json) |
 | Party Poopers | 112345 | [112345-party-poopers.json](./112345-party-poopers.json) |
 | Party Poppers | 113684 | [113684-party-poppers.json](./113684-party-poppers.json) |
+| Party Quiz Mega Q 2022 | 216258 | [216258-party-quiz-mega-q-2022.json](./216258-party-quiz-mega-q-2022.json) |
 | Party Saboteurs: After Party | 130364 | [130364-party-saboteurs-after-party.json](./130364-party-saboteurs-after-party.json) |
 | Party Words | 207543 | [207543-party-words.json](./207543-party-words.json) |
 | Partygoer! | 329035 | [329035-partygoer.json](./329035-partygoer.json) |
@@ -1033,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Prelude | 15564 | [15564-pinball-prelude.json](./15564-pinball-prelude.json) |
 | Pinball Pulse: The Ancients Beckon | 67355 | [67355-pinball-pulse-the-ancients-beckon.json](./67355-pinball-pulse-the-ancients-beckon.json) |
 | Pinball Quest | 48026 | [48026-pinball-quest.json](./48026-pinball-quest.json) |
+| Pinball Science | 216248 | [216248-pinball-science.json](./216248-pinball-science.json) |
 | Pinball Shuffle | 88315 | [88315-pinball-shuffle.json](./88315-pinball-shuffle.json) |
 | Pinball Sniper | 344963 | [344963-pinball-sniper.json](./344963-pinball-sniper.json) |
 | Pinball Wicked | 43121 | [43121-pinball-wicked.json](./43121-pinball-wicked.json) |
@@ -2233,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Genom | 24907 | [24907-project-genom.json](./24907-project-genom.json) |
 | Project GGG | 273623 | [273623-project-ggg.json](./273623-project-ggg.json) |
 | Project Glasloc | 253577 | [253577-project-glasloc.json](./253577-project-glasloc.json) |
+| Project H.A.Z.A.R.D | 216218 | [216218-project-h-a-z-a-r-d.json](./216218-project-h-a-z-a-r-d.json) |
 | Project Hailstorm | 331144 | [331144-project-hailstorm.json](./331144-project-hailstorm.json) |
 | Project Hardline | 253366 | [253366-project-hardline.json](./253366-project-hardline.json) |
 | Project Heartbeat | 130920 | [130920-project-heartbeat.json](./130920-project-heartbeat.json) |
