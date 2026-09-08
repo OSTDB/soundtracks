@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Aria of Sorrow - Reprise | 231091 | [231091-castlevania-aria-of-sorrow-reprise.json](./231091-castlevania-aria-of-sorrow-reprise.json) |
 | Castlevania: Belmont's Curse | 389434 | [389434-castlevania-belmonts-curse.json](./389434-castlevania-belmonts-curse.json) |
 | Castlevania: Circle of the Moon | 1132 | [1132-castlevania-circle-of-the-moon.json](./1132-castlevania-circle-of-the-moon.json) |
+| Castlevania: Circle of the Moon - Card Mode | 219075 | [219075-castlevania-circle-of-the-moon-card-mode.json](./219075-castlevania-circle-of-the-moon-card-mode.json) |
 | Castlevania: Dawn of Sorrow - Definitive Edition+ | 314028 | [314028-castlevania-dawn-of-sorrow-definitive-edition.json](./314028-castlevania-dawn-of-sorrow-definitive-edition.json) |
 | Castlevania: Lords of Shadow - Reverie | 10075 | [10075-castlevania-lords-of-shadow-reverie.json](./10075-castlevania-lords-of-shadow-reverie.json) |
 | Castlevania: Maria of Sorrow | 248309 | [248309-castlevania-maria-of-sorrow.json](./248309-castlevania-maria-of-sorrow.json) |
@@ -1218,6 +1219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Tales | 333574 | [333574-chrono-tales.json](./333574-chrono-tales.json) |
 | Chrono Trigger | 20398 | [20398-chrono-trigger.json](./20398-chrono-trigger.json) |
 | Chrono Trigger: Bugfix and Uncensoring Patch | 249442 | [249442-chrono-trigger-bugfix-and-uncensoring-patch.json](./249442-chrono-trigger-bugfix-and-uncensoring-patch.json) |
+| Chrono Trigger+ | 219077 | [219077-chrono-trigger.json](./219077-chrono-trigger.json) |
 | Chrono's Arena | 126628 | [126628-chronos-arena.json](./126628-chronos-arena.json) |
 | ChronoBlade | 63877 | [63877-chronoblade.json](./63877-chronoblade.json) |
 | ChronoBreach | 117045 | [117045-chronobreach.json](./117045-chronobreach.json) |
@@ -1305,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus Caper | 48099 | [48099-circus-caper.json](./48099-circus-caper.json) |
 | Circus of Clowns | 342085 | [342085-circus-of-clowns.json](./342085-circus-of-clowns.json) |
 | Circut's Edge | 277032 | [277032-circuts-edge.json](./277032-circuts-edge.json) |
+| Cirno's Perfect Punchout!! | 219035 | [219035-cirnos-perfect-punchout.json](./219035-cirnos-perfect-punchout.json) |
 | Cirnozardry | 292858 | [292858-cirnozardry.json](./292858-cirnozardry.json) |
 | Citadale Resurrection: Prelude to War | 250358 | [250358-citadale-resurrection-prelude-to-war.json](./250358-citadale-resurrection-prelude-to-war.json) |
 | Citadale: The Accursed Seal | 318212 | [318212-citadale-the-accursed-seal.json](./318212-citadale-the-accursed-seal.json) |
