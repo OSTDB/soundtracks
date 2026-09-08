@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Arise: Premium Edition | 146339 | [146339-tales-of-arise-premium-edition.json](./146339-tales-of-arise-premium-edition.json) |
 | Tales of Arise: SAO Collaboration Pack | 259813 | [259813-tales-of-arise-sao-collaboration-pack.json](./259813-tales-of-arise-sao-collaboration-pack.json) |
 | Tales of Graces | 1211 | [1211-tales-of-graces.json](./1211-tales-of-graces.json) |
+| Tales of Hearts: CG Movie Edition | 222922 | [222922-tales-of-hearts-cg-movie-edition.json](./222922-tales-of-hearts-cg-movie-edition.json) |
 | Tales of Innocence R | 42673 | [42673-tales-of-innocence-r.json](./42673-tales-of-innocence-r.json) |
 | Tales of Klodan | 349328 | [349328-tales-of-klodan.json](./349328-tales-of-klodan.json) |
 | Tales of Lagoona: Orphans of the Ocean | 54424 | [54424-tales-of-lagoona-orphans-of-the-ocean.json](./54424-tales-of-lagoona-orphans-of-the-ocean.json) |
@@ -529,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Radical Reptiles | 317624 | [317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json](./317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json) |
 | Teenage Mutant Ninja Turtles: The HyperStone Heist | 4404 | [4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json](./4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json) |
 | Teenage Mutant Ninja Turtles: Tournament Fighters | 134079 | [134079-teenage-mutant-ninja-turtles-tournament-fighters.json](./134079-teenage-mutant-ninja-turtles-tournament-fighters.json) |
+| Teenage Super Ninja Plumbers | 222882 | [222882-teenage-super-ninja-plumbers.json](./222882-teenage-super-ninja-plumbers.json) |
 | Teeny Heist | 83556 | [83556-teeny-heist.json](./83556-teeny-heist.json) |
 | Teeny Tiny Trains | 297228 | [297228-teeny-tiny-trains.json](./297228-teeny-tiny-trains.json) |
 | Teeth Brushing Simulator | 228730 | [228730-teeth-brushing-simulator.json](./228730-teeth-brushing-simulator.json) |
@@ -2407,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Royal Heir: Book 3 | 313685 | [313685-the-royal-heir-book-3.json](./313685-the-royal-heir-book-3.json) |
 | The Ruins of Machi Itcza | 182520 | [182520-the-ruins-of-machi-itcza.json](./182520-the-ruins-of-machi-itcza.json) |
 | The Rules | 224762 | [224762-the-rules.json](./224762-the-rules.json) |
+| The Rumble Fish 2: Collector's Edition | 222947 | [222947-the-rumble-fish-2-collectors-edition.json](./222947-the-rumble-fish-2-collectors-edition.json) |
 | The Rumble Fish 2: Deluxe Edition | 251601 | [251601-the-rumble-fish-2-deluxe-edition.json](./251601-the-rumble-fish-2-deluxe-edition.json) |
 | The Rumble Fish: Complete Pack | 336932 | [336932-the-rumble-fish-complete-pack.json](./336932-the-rumble-fish-complete-pack.json) |
 | The Runaway Feijoao | 159874 | [159874-the-runaway-feijoao.json](./159874-the-runaway-feijoao.json) |
@@ -2478,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shade Forest | 319028 | [319028-the-shade-forest.json](./319028-the-shade-forest.json) |
 | The Shadow in the Cathedral | 10939 | [10939-the-shadow-in-the-cathedral.json](./10939-the-shadow-in-the-cathedral.json) |
 | The Shadow of Shadows | 377047 | [377047-the-shadow-of-shadows.json](./377047-the-shadow-of-shadows.json) |
+| The Shadow People | 222938 | [222938-the-shadow-people.json](./222938-the-shadow-people.json) |
 | The Shadow Sun | 108496 | [108496-the-shadow-sun.json](./108496-the-shadow-sun.json) |
 | The Shadows Within: Nightmare's Game | 304615 | [304615-the-shadows-within-nightmares-game.json](./304615-the-shadows-within-nightmares-game.json) |
 | The Shape of Us | 279601 | [279601-the-shape-of-us.json](./279601-the-shape-of-us.json) |
@@ -2786,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trolls in Crazyland | 48706 | [48706-the-trolls-in-crazyland.json](./48706-the-trolls-in-crazyland.json) |
 | The Truth of a Snowy Night | 340955 | [340955-the-truth-of-a-snowy-night.json](./340955-the-truth-of-a-snowy-night.json) |
 | The Tudors | 10986 | [10986-the-tudors.json](./10986-the-tudors.json) |
+| The Turgenev Study | 222885 | [222885-the-turgenev-study.json](./222885-the-turgenev-study.json) |
 | The Turnabout that Shouldn't Exist | 318786 | [318786-the-turnabout-that-shouldnt-exist.json](./318786-the-turnabout-that-shouldnt-exist.json) |
 | The Turned About Turnabout | 308542 | [308542-the-turned-about-turnabout.json](./308542-the-turned-about-turnabout.json) |
 | The Turrican Collection | 394895 | [394895-the-turrican-collection.json](./394895-the-turrican-collection.json) |
@@ -3494,6 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinker's Ascent | 355564 | [355564-tinkers-ascent.json](./355564-tinkers-ascent.json) |
 | Tinkernest | 404846 | [404846-tinkernest.json](./404846-tinkernest.json) |
 | TinkerTech | 310929 | [310929-tinkertech.json](./310929-tinkertech.json) |
+| Tinkertown x Among Us | 222931 | [222931-tinkertown-x-among-us.json](./222931-tinkertown-x-among-us.json) |
 | Tinting Time | 216500 | [216500-tinting-time.json](./216500-tinting-time.json) |
 | Tiny Arcade Tetris | 234083 | [234083-tiny-arcade-tetris.json](./234083-tiny-arcade-tetris.json) |
 | Tiny Atolls | 230529 | [230529-tiny-atolls.json](./230529-tiny-atolls.json) |
@@ -4652,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TS Marketplace: Maunsell 59ft Low Window Corridor Coach Pack Crimson Cream | 227295 | [227295-ts-marketplace-maunsell-59ft-low-window-corridor-coach-pack-crimson-cream.json](./227295-ts-marketplace-maunsell-59ft-low-window-corridor-coach-pack-crimson-cream.json) |
 | TS Marketplace: Northeast Corridor Scenario Pack 02 | 227291 | [227291-ts-marketplace-northeast-corridor-scenario-pack-02.json](./227291-ts-marketplace-northeast-corridor-scenario-pack-02.json) |
 | TS Marketplace: Renewable Energy Pack | 227300 | [227300-ts-marketplace-renewable-energy-pack.json](./227300-ts-marketplace-renewable-energy-pack.json) |
+| Tsjost's Heroic Soup Bazooka | 222902 | [222902-tsjosts-heroic-soup-bazooka.json](./222902-tsjosts-heroic-soup-bazooka.json) |
 | Tsubaki Hata | 226203 | [226203-tsubaki-hata.json](./226203-tsubaki-hata.json) |
 | Tsugunohi: Supernatural Supermarket | 234297 | [234297-tsugunohi-supernatural-supermarket.json](./234297-tsugunohi-supernatural-supermarket.json) |
 | Tsugunohi: The Chamber of Phantom Name | 340941 | [340941-tsugunohi-the-chamber-of-phantom-name.json](./340941-tsugunohi-the-chamber-of-phantom-name.json) |
