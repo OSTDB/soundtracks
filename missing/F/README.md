@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fibbage XL | 33374 | [33374-fibbage-xl.json](./33374-fibbage-xl.json) |
 | Fibble | 228714 | [228714-fibble.json](./228714-fibble.json) |
 | Fibbler.io | 282568 | [282568-fibbler-io.json](./282568-fibbler-io.json) |
+| Fibula | 253945 | [253945-fibula.json](./253945-fibula.json) |
 | Fiddlebert's Folly | 313476 | [313476-fiddleberts-folly.json](./313476-fiddleberts-folly.json) |
 | Fidelity | 116549 | [116549-fidelity.json](./116549-fidelity.json) |
 | Fideos | 329024 | [329024-fideos.json](./329024-fideos.json) |
@@ -614,12 +615,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 64 | 10682 | [10682-fifa-soccer-64.json](./10682-fifa-soccer-64.json) |
 | FIFA Street 3 | 7304 | [7304-fifa-street-3.json](./7304-fifa-street-3.json) |
 | FIFA: Road to World Cup 98 | 705 | [705-fifa-road-to-world-cup-98.json](./705-fifa-road-to-world-cup-98.json) |
+| Fifi's Fortunes: Reclamation | 253944 | [253944-fifis-fortunes-reclamation.json](./253944-fifis-fortunes-reclamation.json) |
 | Fifth Era: Fragments of the Holy Stone | 162414 | [162414-fifth-era-fragments-of-the-holy-stone.json](./162414-fifth-era-fragments-of-the-holy-stone.json) |
 | Fight | 150650 | [150650-fight.json](./150650-fight.json) |
 | Fight & Crush | 234313 | [234313-fight-and-crush.json](./234313-fight-and-crush.json) |
 | Fight Buddy Mobile | 200738 | [200738-fight-buddy-mobile.json](./200738-fight-buddy-mobile.json) |
 | Fight Club: Join us if you can | 231058 | [231058-fight-club-join-us-if-you-can.json](./231058-fight-club-join-us-if-you-can.json) |
 | Fight Crab | 90231 | [90231-fight-crab.json](./90231-fight-crab.json) |
+| Fight for Eden: Heat | 253943 | [253943-fight-for-eden-heat.json](./253943-fight-for-eden-heat.json) |
 | Fight for Life | 40800 | [40800-fight-for-life.json](./40800-fight-for-life.json) |
 | Fight For Love | 345523 | [345523-fight-for-love.json](./345523-fight-for-love.json) |
 | Fight Legends | 316068 | [316068-fight-legends.json](./316068-fight-legends.json) |
@@ -945,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Boxing Fist of the North Star | 217551 | [217551-fitness-boxing-fist-of-the-north-star.json](./217551-fitness-boxing-fist-of-the-north-star.json) |
 | Fitness Game: Romance Story | 256250 | [256250-fitness-game-romance-story.json](./256250-fitness-game-romance-story.json) |
 | Fittest | 100167 | [100167-fittest.json](./100167-fittest.json) |
+| Fitting-In | 253942 | [253942-fitting-in.json](./253942-fitting-in.json) |
 | Five a Side Football 2024 | 267413 | [267413-five-a-side-football-2024.json](./267413-five-a-side-football-2024.json) |
 | Five Dates | 141088 | [141088-five-dates.json](./141088-five-dates.json) |
 | Five Day Great Escape | 114399 | [114399-five-day-great-escape.json](./114399-five-day-great-escape.json) |
@@ -1123,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flips: Mr. Gum | 66664 | [66664-flips-mr-gum.json](./66664-flips-mr-gum.json) |
 | Flips: Too Ghoul for School | 66663 | [66663-flips-too-ghoul-for-school.json](./66663-flips-too-ghoul-for-school.json) |
 | FlipScapes | 224249 | [224249-flipscapes.json](./224249-flipscapes.json) |
+| Flipshot | 253941 | [253941-flipshot.json](./253941-flipshot.json) |
 | Flipull | 172779 | [172779-flipull.json](./172779-flipull.json) |
 | Flipz | 249455 | [249455-flipz.json](./249455-flipz.json) |
 | Flirt | 130362 | [130362-flirt.json](./130362-flirt.json) |
@@ -1277,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Follow You | 218129 | [218129-follow-you.json](./218129-follow-you.json) |
 | Follower | 383354 | [383354-follower.json](./383354-follower.json) |
 | Follower:Sacrifice | 99006 | [99006-follower-sacrifice.json](./99006-follower-sacrifice.json) |
+| Folly Of The Wizards | 253946 | [253946-folly-of-the-wizards.json](./253946-folly-of-the-wizards.json) |
 | Food And Hotel Simulator Bundle: Road Cafe & Motel Business & Street Food | 399634 | [399634-food-and-hotel-simulator-bundle-road-cafe-and-motel-business-and-street-food.json](./399634-food-and-hotel-simulator-bundle-road-cafe-and-motel-business-and-street-food.json) |
 | Food Comes From Above | 157715 | [157715-food-comes-from-above.json](./157715-food-comes-from-above.json) |
 | Food Delivery Simulator | 316420 | [316420-food-delivery-simulator.json](./316420-food-delivery-simulator.json) |
@@ -1342,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For What Will Come | 213010 | [213010-for-what-will-come.json](./213010-for-what-will-come.json) |
 | Forbidden Compass | 404206 | [404206-forbidden-compass.json](./404206-forbidden-compass.json) |
 | Forbidden Island | 381031 | [381031-forbidden-island.json](./381031-forbidden-island.json) |
+| Forbidden Magic | 253947 | [253947-forbidden-magic.json](./253947-forbidden-magic.json) |
 | Forbidden Planet | 81414 | [81414-forbidden-planet.json](./81414-forbidden-planet.json) |
 | Forbidden Solitaire | 330176 | [330176-forbidden-solitaire.json](./330176-forbidden-solitaire.json) |
 | Forbidden World | 219794 | [219794-forbidden-world.json](./219794-forbidden-world.json) |
@@ -1420,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fork of the Crimson Soul | 369051 | [369051-fork-of-the-crimson-soul.json](./369051-fork-of-the-crimson-soul.json) |
 | Forklift Extreme: Ultra DLC Pack | 252405 | [252405-forklift-extreme-ultra-dlc-pack.json](./252405-forklift-extreme-ultra-dlc-pack.json) |
 | Forklift Extreme: Ultra Edition | 252404 | [252404-forklift-extreme-ultra-edition.json](./252404-forklift-extreme-ultra-edition.json) |
+| Forklift Racer | 253948 | [253948-forklift-racer.json](./253948-forklift-racer.json) |
 | Forklift Simulator | 326425 | [326425-forklift-simulator.json](./326425-forklift-simulator.json) |
 | Forklift Simulator 2024 | 283729 | [283729-forklift-simulator-2024.json](./283729-forklift-simulator-2024.json) |
 | Forlorn | 280804 | [280804-forlorn.json](./280804-forlorn.json) |
@@ -1606,12 +1614,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freaky Trip: Superb Edition | 315864 | [315864-freaky-trip-superb-edition.json](./315864-freaky-trip-superb-edition.json) |
 | Fred Fuches Around | 397693 | [397693-fred-fuches-around.json](./397693-fred-fuches-around.json) |
 | Fred Johnson's: Mech Simulator | 326429 | [326429-fred-johnsons-mech-simulator.json](./326429-fred-johnsons-mech-simulator.json) |
+| Fred's Cereal Company | 253950 | [253950-freds-cereal-company.json](./253950-freds-cereal-company.json) |
 | Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch | 3746 | [3746-freddi-fish-4-the-case-of-the-hogfish-rustlers-of-briny-gulch.json](./3746-freddi-fish-4-the-case-of-the-hogfish-rustlers-of-briny-gulch.json) |
 | Freddi Fish Collection | 300717 | [300717-freddi-fish-collection.json](./300717-freddi-fish-collection.json) |
 | Freddy | 280774 | [280774-freddy.json](./280774-freddy.json) |
 | Freddy Fazbear's Pizza Massacre | 272297 | [272297-freddy-fazbears-pizza-massacre.json](./272297-freddy-fazbears-pizza-massacre.json) |
 | Freddy Fazbear's Pizzeria Simulator VR | 231618 | [231618-freddy-fazbears-pizzeria-simulator-vr.json](./231618-freddy-fazbears-pizzeria-simulator-vr.json) |
 | Freddy Hardest in Manhattan South | 45333 | [45333-freddy-hardest-in-manhattan-south.json](./45333-freddy-hardest-in-manhattan-south.json) |
+| Freddy's Archives: Remains Of The Past | 253949 | [253949-freddys-archives-remains-of-the-past.json](./253949-freddys-archives-remains-of-the-past.json) |
 | Freddy's Journey | 104083 | [104083-freddys-journey.json](./104083-freddys-journey.json) |
 | Freddy's Rescue Roundup | 72088 | [72088-freddys-rescue-roundup.json](./72088-freddys-rescue-roundup.json) |
 | Free Bees | 224245 | [224245-free-bees.json](./224245-free-bees.json) |
@@ -1933,6 +1943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Reich | 237055 | [237055-furry-reich.json](./237055-furry-reich.json) |
 | Furry Sex Resort | 309687 | [309687-furry-sex-resort.json](./309687-furry-sex-resort.json) |
 | Furry Shades of Gay | 165025 | [165025-furry-shades-of-gay.json](./165025-furry-shades-of-gay.json) |
+| Furry Shakespeare: To Date Or Not To Date Cat Girls? - 2 Prophecy of Convenience | 253951 | [253951-furry-shakespeare-to-date-or-not-to-date-cat-girls-2-prophecy-of-convenience.json](./253951-furry-shakespeare-to-date-or-not-to-date-cat-girls-2-prophecy-of-convenience.json) |
 | Furry Striptease | 215899 | [215899-furry-striptease.json](./215899-furry-striptease.json) |
 | Furry Superstar | 213007 | [213007-furry-superstar.json](./213007-furry-superstar.json) |
 | Furry Tits | 349865 | [349865-furry-tits.json](./349865-furry-tits.json) |
