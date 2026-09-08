@@ -145,7 +145,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Mojo: Redux | 10020 | [10020-bad-mojo-redux.json](./10020-bad-mojo-redux.json) |
 | Bad Mothafucka | 281368 | [281368-bad-mothafucka.json](./281368-bad-mothafucka.json) |
 | Bad Pad | 31579 | [31579-bad-pad.json](./31579-bad-pad.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Sector 3 | 371265 | [371265-bad-sector-3.json](./371265-bad-sector-3.json) |
 | Bad Teams | 348806 | [348806-bad-teams.json](./348806-bad-teams.json) |
 | Bad Way | 189204 | [189204-bad-way.json](./189204-bad-way.json) |
@@ -627,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Mages | 17427 | [17427-battle-mages.json](./17427-battle-mages.json) |
 | Battle Magi | 402899 | [402899-battle-magi.json](./402899-battle-magi.json) |
 | Battle Mutants | 383957 | [383957-battle-mutants.json](./383957-battle-mutants.json) |
+| Battle Night | 228434 | [228434-battle-night.json](./228434-battle-night.json) |
 | Battle of 2048: Fantasy Edition | 234350 | [234350-battle-of-2048-fantasy-edition.json](./234350-battle-of-2048-fantasy-edition.json) |
 | Battle of Angels | 137681 | [137681-battle-of-angels.json](./137681-battle-of-angels.json) |
 | Battle of Arrow | 82146 | [82146-battle-of-arrow.json](./82146-battle-of-arrow.json) |
@@ -1326,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitfighter | 47275 | [47275-bitfighter.json](./47275-bitfighter.json) |
 | Bitgram | 55157 | [55157-bitgram.json](./55157-bitgram.json) |
 | Bitmap Bureau Collection | 287089 | [287089-bitmap-bureau-collection.json](./287089-bitmap-bureau-collection.json) |
+| Bitmates | 228413 | [228413-bitmates.json](./228413-bitmates.json) |
 | Bitsnake | 135281 | [135281-bitsnake.json](./135281-bitsnake.json) |
 | Bitsturbed | 145011 | [145011-bitsturbed.json](./145011-bitsturbed.json) |
 | Bitsy Bits: The Secret of Magic | 311248 | [311248-bitsy-bits-the-secret-of-magic.json](./311248-bitsy-bits-the-secret-of-magic.json) |
@@ -1505,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Snake | 257372 | [257372-blazing-snake.json](./257372-blazing-snake.json) |
 | Blazing Strike | 193531 | [193531-blazing-strike.json](./193531-blazing-strike.json) |
 | Blazing Trail | 293100 | [293100-blazing-trail.json](./293100-blazing-trail.json) |
+| Bleach vs Naruto | 228437 | [228437-bleach-vs-naruto.json](./228437-bleach-vs-naruto.json) |
 | Bleach: Heat the Soul 4 | 46001 | [46001-bleach-heat-the-soul-4.json](./46001-bleach-heat-the-soul-4.json) |
 | Bleach: Soul Puzzle | 317846 | [317846-bleach-soul-puzzle.json](./317846-bleach-soul-puzzle.json) |
 | Bleach: The Blade of Fate | 20530 | [20530-bleach-the-blade-of-fate.json](./20530-bleach-the-blade-of-fate.json) |
@@ -1924,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bongo Cat | 334486 | [334486-bongo-cat.json](./334486-bongo-cat.json) |
 | Bonjin: An Ordinary Man | 349869 | [349869-bonjin-an-ordinary-man.json](./349869-bonjin-an-ordinary-man.json) |
 | Bonk Voyage | 415112 | [415112-bonk-voyage.json](./415112-bonk-voyage.json) |
+| Bonk's Revenge | 228469 | [228469-bonks-revenge.json](./228469-bonks-revenge.json) |
 | Bonkers | 177539 | [177539-bonkers.json](./177539-bonkers.json) |
 | Bonkers | 78677 | [78677-bonkers.json](./78677-bonkers.json) |
 | Bonza Planet | 354445 | [354445-bonza-planet.json](./354445-bonza-planet.json) |
