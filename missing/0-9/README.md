@@ -76,9 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100% Orange Juice: Krila & Kae | 164482 | [164482-100-orange-juice-krila-and-kae.json](./164482-100-orange-juice-krila-and-kae.json) |
 | 100% Orange Juice: Nath & Tomato+Mimyuu | 164472 | [164472-100-orange-juice-nath-and-tomato-mimyuu.json](./164472-100-orange-juice-nath-and-tomato-mimyuu.json) |
 | 100% Orange Juice: Railway Runners Pack | 164474 | [164474-100-orange-juice-railway-runners-pack.json](./164474-100-orange-juice-railway-runners-pack.json) |
-| 100% Orange Juice: Saki & Kyousuke | 164471 | [164471-100-orange-juice-saki-and-kyousuke.json](./164471-100-orange-juice-saki-and-kyousuke.json) |
 | 100% Orange Juice: Sham & Sherry | 164477 | [164477-100-orange-juice-sham-and-sherry.json](./164477-100-orange-juice-sham-and-sherry.json) |
-| 100% Orange Juice: Sora & Sham (Cuties) | 164478 | [164478-100-orange-juice-sora-and-sham-cuties.json](./164478-100-orange-juice-sora-and-sham-cuties.json) |
 | 100% Orange Juice: Syura & Nanako | 164473 | [164473-100-orange-juice-syura-and-nanako.json](./164473-100-orange-juice-syura-and-nanako.json) |
 | 100% Orange Juice: Toy Store Pack | 164479 | [164479-100-orange-juice-toy-store-pack.json](./164479-100-orange-juice-toy-store-pack.json) |
 | 100% Orange Juice: Wanderer Pack | 164480 | [164480-100-orange-juice-wanderer-pack.json](./164480-100-orange-juice-wanderer-pack.json) |
