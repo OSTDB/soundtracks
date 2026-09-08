@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Fright | 318402 | [318402-night-fright.json](./318402-night-fright.json) |
 | Night Gal Summer | 229340 | [229340-night-gal-summer.json](./229340-night-gal-summer.json) |
 | Night Guard: The Last Shift | 177533 | [177533-night-guard-the-last-shift.json](./177533-night-guard-the-last-shift.json) |
+| Night in the Unpleasant House | 227837 | [227837-night-in-the-unpleasant-house.json](./227837-night-in-the-unpleasant-house.json) |
 | Night Intruders | 184089 | [184089-night-intruders.json](./184089-night-intruders.json) |
 | Night is Coming: Wrath of the Woods | 336551 | [336551-night-is-coming-wrath-of-the-woods.json](./336551-night-is-coming-wrath-of-the-woods.json) |
 | Night Magic | 109747 | [109747-night-magic.json](./109747-night-magic.json) |
