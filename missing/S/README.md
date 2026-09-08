@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikin MMO | 306083 | [306083-saikin-mmo.json](./306083-saikin-mmo.json) |
 | Saikko-nee to Death Game | 301025 | [301025-saikko-nee-to-death-game.json](./301025-saikko-nee-to-death-game.json) |
 | Saikyo Robots | 251824 | [251824-saikyo-robots.json](./251824-saikyo-robots.json) |
+| Saikyou Retsuden: Jidai Hashiru | 225658 | [225658-saikyou-retsuden-jidai-hashiru.json](./225658-saikyou-retsuden-jidai-hashiru.json) |
 | Saikyou Todai Shogi | 203548 | [203548-saikyou-todai-shogi.json](./203548-saikyou-todai-shogi.json) |
 | Saikyou Todai Shogi 2 | 203549 | [203549-saikyou-todai-shogi-2.json](./203549-saikyou-todai-shogi-2.json) |
 | Sail Simulator 4 | 143740 | [143740-sail-simulator-4.json](./143740-sail-simulator-4.json) |
@@ -710,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Cat Forest | 206930 | [206930-secret-cat-forest.json](./206930-secret-cat-forest.json) |
 | Secret Cats: Zoo | 315300 | [315300-secret-cats-zoo.json](./315300-secret-cats-zoo.json) |
 | Secret City: Chalk of Fate - Collector's Edition | 129214 | [129214-secret-city-chalk-of-fate-collectors-edition.json](./129214-secret-city-chalk-of-fate-collectors-edition.json) |
+| Secret Crossing | 225647 | [225647-secret-crossing.json](./225647-secret-crossing.json) |
 | Secret Empires of the Ancient World | 84857 | [84857-secret-empires-of-the-ancient-world.json](./84857-secret-empires-of-the-ancient-world.json) |
 | Secret Forest | 295277 | [295277-secret-forest.json](./295277-secret-forest.json) |
 | Secret HavEat | 352209 | [352209-secret-haveat.json](./352209-secret-haveat.json) |
@@ -1117,8 +1119,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shakugan no Shana | 72686 | [72686-shakugan-no-shana.json](./72686-shakugan-no-shana.json) |
 | Shaky Structures | 180811 | [180811-shaky-structures.json](./180811-shaky-structures.json) |
 | Shalguy | 373024 | [373024-shalguy.json](./373024-shalguy.json) |
+| Shall we date? Love Tangle: Finding my Better Half | 225661 | [225661-shall-we-date-love-tangle-finding-my-better-half.json](./225661-shall-we-date-love-tangle-finding-my-better-half.json) |
 | Shall we date?: Angel or Devil | 225315 | [225315-shall-we-date-angel-or-devil.json](./225315-shall-we-date-angel-or-devil.json) |
+| Shall we date?: Arabian Dreams Wildest Tales in Starry Nights | 225664 | [225664-shall-we-date-arabian-dreams-wildest-tales-in-starry-nights.json](./225664-shall-we-date-arabian-dreams-wildest-tales-in-starry-nights.json) |
+| Shall we date?: Guard Me, Sherlock! | 225667 | [225667-shall-we-date-guard-me-sherlock.json](./225667-shall-we-date-guard-me-sherlock.json) |
+| Shall we date?: Love, Mafia Dawn of the Don | 225673 | [225673-shall-we-date-love-mafia-dawn-of-the-don.json](./225673-shall-we-date-love-mafia-dawn-of-the-don.json) |
+| Shall we date?: Love, Mafia My Signore | 225674 | [225674-shall-we-date-love-mafia-my-signore.json](./225674-shall-we-date-love-mafia-my-signore.json) |
+| Shall we date?: Modern Cinderella | 225670 | [225670-shall-we-date-modern-cinderella.json](./225670-shall-we-date-modern-cinderella.json) |
 | Shall we date?: Ninja Love | 225316 | [225316-shall-we-date-ninja-love.json](./225316-shall-we-date-ninja-love.json) |
+| Shall we date?: Null; | 225675 | [225675-shall-we-date-null.json](./225675-shall-we-date-null.json) |
+| Shall we date?: Oz | 225666 | [225666-shall-we-date-oz.json](./225666-shall-we-date-oz.json) |
+| Shall we date?: Pirates Treasured Love in the Ocean | 225665 | [225665-shall-we-date-pirates-treasured-love-in-the-ocean.json](./225665-shall-we-date-pirates-treasured-love-in-the-ocean.json) |
+| Shall We Date?: War of Prayers - Inori no Otome | 225662 | [225662-shall-we-date-war-of-prayers-inori-no-otome.json](./225662-shall-we-date-war-of-prayers-inori-no-otome.json) |
+| Shall we date?: We the Girls | 225671 | [225671-shall-we-date-we-the-girls.json](./225671-shall-we-date-we-the-girls.json) |
 | Shalnor Legends 2: Trials of Thunder | 232702 | [232702-shalnor-legends-2-trials-of-thunder.json](./232702-shalnor-legends-2-trials-of-thunder.json) |
 | ShamaL | 201316 | [201316-shamal.json](./201316-shamal.json) |
 | Shame Legacy | 241959 | [241959-shame-legacy.json](./241959-shame-legacy.json) |
@@ -2306,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snood Towers | 246389 | [246389-snood-towers.json](./246389-snood-towers.json) |
 | Snooker Fever | 328487 | [328487-snooker-fever.json](./328487-snooker-fever.json) |
 | Snooker Fever: Discovery Edition | 396930 | [396930-snooker-fever-discovery-edition.json](./396930-snooker-fever-discovery-edition.json) |
+| Snoop Dogg Cruisin' | 225651 | [225651-snoop-dogg-cruisin.json](./225651-snoop-dogg-cruisin.json) |
 | Snoopy DS: Let's Go Meet Snoopy and His Friends! | 302711 | [302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json](./302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json) |
 | Snoopy no Hajimete no Otsukai | 324912 | [324912-snoopy-no-hajimete-no-otsukai.json](./324912-snoopy-no-hajimete-no-otsukai.json) |
 | Snoopy's Magic Show DX | 279583 | [279583-snoopys-magic-show-dx.json](./279583-snoopys-magic-show-dx.json) |
@@ -3023,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Interceptor | 262369 | [262369-space-interceptor.json](./262369-space-interceptor.json) |
 | Space Invaders Anniversary | 69888 | [69888-space-invaders-anniversary.json](./69888-space-invaders-anniversary.json) |
 | Space Invaders Part II | 246397 | [246397-space-invaders-part-ii.json](./246397-space-invaders-part-ii.json) |
+| Space Invaders: Carabiner Edition | 225630 | [225630-space-invaders-carabiner-edition.json](./225630-space-invaders-carabiner-edition.json) |
 | Space Invaders: World Defense | 257365 | [257365-space-invaders-world-defense.json](./257365-space-invaders-world-defense.json) |
 | Space Inversion Puzzle | 255720 | [255720-space-inversion-puzzle.json](./255720-space-inversion-puzzle.json) |
 | Space is Key | 243107 | [243107-space-is-key.json](./243107-space-is-key.json) |
@@ -4086,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sting | 230541 | [230541-sting.json](./230541-sting.json) |
 | Sting & Swing | 398983 | [398983-sting-and-swing.json](./398983-sting-and-swing.json) |
 | Stinker Golf | 406107 | [406107-stinker-golf.json](./406107-stinker-golf.json) |
+| Stitch. | 225655 | [225655-stitch.json](./225655-stitch.json) |
 | Stitch's Blazing Lasers | 342673 | [342673-stitchs-blazing-lasers.json](./342673-stitchs-blazing-lasers.json) |
 | Stix: Combat Devolved | 190699 | [190699-stix-combat-devolved.json](./190699-stix-combat-devolved.json) |
 | Stlthscpe | 284320 | [284320-stlthscpe.json](./284320-stlthscpe.json) |
@@ -4188,6 +4204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger Danger or Horror, Quest and Magic | 197390 | [197390-stranger-danger-or-horror-quest-and-magic.json](./197390-stranger-danger-or-horror-quest-and-magic.json) |
 | Stranger of Paradise: Final Fantasy Origin - Digital Deluxe Edition | 173775 | [173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json](./173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json) |
 | Stranger of Sword City: Limited Edition | 42681 | [42681-stranger-of-sword-city-limited-edition.json](./42681-stranger-of-sword-city-limited-edition.json) |
+| Stranger Things VR | 225668 | [225668-stranger-things-vr.json](./225668-stranger-things-vr.json) |
 | Strangers Awaken | 262377 | [262377-strangers-awaken.json](./262377-strangers-awaken.json) |
 | Strangers In The Land Of Turnabouts | 303247 | [303247-strangers-in-the-land-of-turnabouts.json](./303247-strangers-in-the-land-of-turnabouts.json) |
 | Strangers Lurk | 335263 | [335263-strangers-lurk.json](./335263-strangers-lurk.json) |
