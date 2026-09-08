@@ -396,6 +396,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsolicited | 185647 | [185647-unsolicited.json](./185647-unsolicited.json) |
 | Unsolved Case: Ash and Secrets - Collector's Edition | 338584 | [338584-unsolved-case-ash-and-secrets-collectors-edition.json](./338584-unsolved-case-ash-and-secrets-collectors-edition.json) |
 | Unsolved Case: Killer Popularity DLC | 289325 | [289325-unsolved-case-killer-popularity-dlc.json](./289325-unsolved-case-killer-popularity-dlc.json) |
+| Unsolved Case: The Scarlet Hyacinth - Collector's Edition | 256273 | [256273-unsolved-case-the-scarlet-hyacinth-collectors-edition.json](./256273-unsolved-case-the-scarlet-hyacinth-collectors-edition.json) |
+| Unsolved Case: The Scarlet Hyacinth - DLC | 256274 | [256274-unsolved-case-the-scarlet-hyacinth-dlc.json](./256274-unsolved-case-the-scarlet-hyacinth-dlc.json) |
 | Unstable | 191248 | [191248-unstable.json](./191248-unstable.json) |
 | Unstable Blocks | 303224 | [303224-unstable-blocks.json](./303224-unstable-blocks.json) |
 | Unstable Star | 338583 | [338583-unstable-star.json](./338583-unstable-star.json) |
@@ -466,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upward | 234353 | [234353-upward.json](./234353-upward.json) |
 | Ura Jinsei Enjoi! Tamagotchi Plus | 229953 | [229953-ura-jinsei-enjoi-tamagotchi-plus.json](./229953-ura-jinsei-enjoi-tamagotchi-plus.json) |
 | Uraankhians Dygyn: The Beginning | 314904 | [314904-uraankhians-dygyn-the-beginning.json](./314904-uraankhians-dygyn-the-beginning.json) |
+| Urânio 235 | 256281 | [256281-uranio-235.json](./256281-uranio-235.json) |
 | Urban | 312570 | [312570-urban.json](./312570-urban.json) |
 | Urban Champion-e | 170014 | [170014-urban-champion-e.json](./170014-urban-champion-e.json) |
 | Urban Dead | 69281 | [69281-urban-dead.json](./69281-urban-dead.json) |
