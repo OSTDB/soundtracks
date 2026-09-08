@@ -431,6 +431,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neopets: The Darkest Faerie | 43641 | [43641-neopets-the-darkest-faerie.json](./43641-neopets-the-darkest-faerie.json) |
 | Neophyte: Koplio's Story | 145695 | [145695-neophyte-koplios-story.json](./145695-neophyte-koplios-story.json) |
 | Neophyte: The Spirit Master | 145696 | [145696-neophyte-the-spirit-master.json](./145696-neophyte-the-spirit-master.json) |
+| NeoQuest | 229025 | [229025-neoquest.json](./229025-neoquest.json) |
+| NeoQuest II | 229026 | [229026-neoquest-ii.json](./229026-neoquest-ii.json) |
 | NeoSprint | 295286 | [295286-neosprint.json](./295286-neosprint.json) |
 | Neoteria | 61111 | [61111-neoteria.json](./61111-neoteria.json) |
 | NeoTrap | 184112 | [184112-neotrap.json](./184112-neotrap.json) |
