@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mansion 2 | 269863 | [269863-mansion-2.json](./269863-mansion-2.json) |
 | Mansion of the Dead | 337486 | [337486-mansion-of-the-dead.json](./337486-mansion-of-the-dead.json) |
 | MansionDungeon | 404246 | [404246-mansiondungeon.json](./404246-mansiondungeon.json) |
+| Mantra | 223438 | [223438-mantra.json](./223438-mantra.json) |
 | Manufactur'inc. | 265956 | [265956-manufacturinc.json](./265956-manufacturinc.json) |
 | Manyland | 35940 | [35940-manyland.json](./35940-manyland.json) |
 | Manzaka | 288757 | [288757-manzaka.json](./288757-manzaka.json) |
@@ -1970,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirage Motel | 183061 | [183061-mirage-motel.json](./183061-mirage-motel.json) |
 | Mirage Noir | 309655 | [309655-mirage-noir.json](./309655-mirage-noir.json) |
 | Mirage: Illusions | 326977 | [326977-mirage-illusions.json](./326977-mirage-illusions.json) |
+| Mirages | 223433 | [223433-mirages.json](./223433-mirages.json) |
 | Mirai | 200755 | [200755-mirai.json](./200755-mirai.json) |
 | Mirai Ninja: Keigumo Kinin Gaiden | 70997 | [70997-mirai-ninja-keigumo-kinin-gaiden.json](./70997-mirai-ninja-keigumo-kinin-gaiden.json) |
 | Mirai Shounen Conan | 42021 | [42021-mirai-shounen-conan.json](./42021-mirai-shounen-conan.json) |
@@ -2206,6 +2208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojito the Cat: Legendary Edition | 260686 | [260686-mojito-the-cat-legendary-edition.json](./260686-mojito-the-cat-legendary-edition.json) |
 | Mojito the Cat: Platina Edition | 262364 | [262364-mojito-the-cat-platina-edition.json](./262364-mojito-the-cat-platina-edition.json) |
 | Mojo Master | 66702 | [66702-mojo-master.json](./66702-mojo-master.json) |
+| Mojo Melee | 223479 | [223479-mojo-melee.json](./223479-mojo-melee.json) |
 | Mokete | 266472 | [266472-mokete.json](./266472-mokete.json) |
 | Moki: The Escape | 238725 | [238725-moki-the-escape.json](./238725-moki-the-escape.json) |
 | Mokoko | 127005 | [127005-mokoko.json](./127005-mokoko.json) |
@@ -3008,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musicus! | 125432 | [125432-musicus.json](./125432-musicus.json) |
 | Musicus! | 185708 | [185708-musicus.json](./185708-musicus.json) |
 | MusicVR Episode 1: Tr3s Lunas | 70978 | [70978-musicvr-episode-1-tr3s-lunas.json](./70978-musicvr-episode-1-tr3s-lunas.json) |
+| Must Flee | 223434 | [223434-must-flee.json](./223434-must-flee.json) |
 | Musuko to Oyome-sama: Wakeari Tsuma ha Jirai-kei Doronuma Story | 240229 | [240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json](./240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json) |
 | Musynx: House Theme | 255749 | [255749-musynx-house-theme.json](./255749-musynx-house-theme.json) |
 | Mutant | 79916 | [79916-mutant.json](./79916-mutant.json) |
