@@ -1034,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rick and Morty: Virtual Rick-ality | 20459 | [20459-rick-and-morty-virtual-rick-ality.json](./20459-rick-and-morty-virtual-rick-ality.json) |
 | Ricochet | 209166 | [209166-ricochet.json](./209166-ricochet.json) |
 | Ricochet Blur | 226453 | [226453-ricochet-blur.json](./226453-ricochet-blur.json) |
+| Ricochet Kills 2 | 235241 | [235241-ricochet-kills-2.json](./235241-ricochet-kills-2.json) |
 | Ricochet Raven | 370668 | [370668-ricochet-raven.json](./370668-ricochet-raven.json) |
 | Ricochet Xtreme | 70421 | [70421-ricochet-xtreme.json](./70421-ricochet-xtreme.json) |
 | Riddle Tower: Halloween DLC | 318433 | [318433-riddle-tower-halloween-dlc.json](./318433-riddle-tower-halloween-dlc.json) |
@@ -1595,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roommates | 297205 | [297205-roommates.json](./297205-roommates.json) |
 | Rooster: Princess Rescue | 409558 | [409558-rooster-princess-rescue.json](./409558-rooster-princess-rescue.json) |
 | Root After and Another | 72720 | [72720-root-after-and-another.json](./72720-root-after-and-another.json) |
+| Root Bear | 235214 | [235214-root-bear.json](./235214-root-bear.json) |
 | Root Double: Before Crime * After Days | 79295 | [79295-root-double-before-crime-after-days.json](./79295-root-double-before-crime-after-days.json) |
 | Root Infinity Rexx | 61660 | [61660-root-infinity-rexx.json](./61660-root-infinity-rexx.json) |
 | Root of All Evil | 57105 | [57105-root-of-all-evil.json](./57105-root-of-all-evil.json) |
