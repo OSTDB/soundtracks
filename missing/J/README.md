@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japan Train Models: JR West Edition | 278130 | [278130-japan-train-models-jr-west-edition.json](./278130-japan-train-models-jr-west-edition.json) |
 | Japan Trip | 340767 | [340767-japan-trip.json](./340767-japan-trip.json) |
 | Japanese Escape Games: The Hotel of Tricks | 209690 | [209690-japanese-escape-games-the-hotel-of-tricks.json](./209690-japanese-escape-games-the-hotel-of-tricks.json) |
+| Japanese Escape Games: The Room with Sturdy Door | 232465 | [232465-japanese-escape-games-the-room-with-sturdy-door.json](./232465-japanese-escape-games-the-room-with-sturdy-door.json) |
 | Japanese Goblins | 220871 | [220871-japanese-goblins.json](./220871-japanese-goblins.json) |
 | Japanese Love | 349864 | [349864-japanese-love.json](./349864-japanese-love.json) |
 | Japanese Nekosama Escape: The Old Inn | 197921 | [197921-japanese-nekosama-escape-the-old-inn.json](./197921-japanese-nekosama-escape-the-old-inn.json) |
