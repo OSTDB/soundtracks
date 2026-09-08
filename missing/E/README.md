@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat, Sleep, Bet, Repeat | 68167 | [68167-eat-sleep-bet-repeat.json](./68167-eat-sleep-bet-repeat.json) |
 | Eat: The Revolution | 76637 | [76637-eat-the-revolution.json](./76637-eat-the-revolution.json) |
 | EatFish | 303501 | [303501-eatfish.json](./303501-eatfish.json) |
+| eBall 2 | 238523 | [238523-eball-2.json](./238523-eball-2.json) |
 | Ebanashi: Kaiwa | 195216 | [195216-ebanashi-kaiwa.json](./195216-ebanashi-kaiwa.json) |
 | eBaseball: Pro Spirit 2026 | 410262 | [410262-ebaseball-pro-spirit-2026.json](./410262-ebaseball-pro-spirit-2026.json) |
 | Eberouge | 97318 | [97318-eberouge.json](./97318-eberouge.json) |
