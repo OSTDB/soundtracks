@@ -785,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Degenerate Souls | 159848 | [159848-degenerate-souls.json](./159848-degenerate-souls.json) |
 | Degeneration | 107891 | [107891-degeneration.json](./107891-degeneration.json) |
 | Degu Squad | 282007 | [282007-degu-squad.json](./282007-degu-squad.json) |
+| Dehoarder 2 | 214509 | [214509-dehoarder-2.json](./214509-dehoarder-2.json) |
 | Deities Flush | 324113 | [324113-deities-flush.json](./324113-deities-flush.json) |
 | Deity's Domain | 306383 | [306383-deitys-domain.json](./306383-deitys-domain.json) |
 | Deja Vu | 229690 | [229690-deja-vu.json](./229690-deja-vu.json) |
@@ -1829,6 +1830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donnie's Delicious Nuclear Funeral | 390521 | [390521-donnies-delicious-nuclear-funeral.json](./390521-donnies-delicious-nuclear-funeral.json) |
 | Donny Donut: Dokrats | 265689 | [265689-donny-donut-dokrats.json](./265689-donny-donut-dokrats.json) |
 | Dontbegrey | 51965 | [51965-dontbegrey.json](./51965-dontbegrey.json) |
+| Donut Break 2: Head to Head | 214516 | [214516-donut-break-2-head-to-head.json](./214516-donut-break-2-head-to-head.json) |
 | Donut Drop by ABCya | 96075 | [96075-donut-drop-by-abcya.json](./96075-donut-drop-by-abcya.json) |
 | Donut Hockey | 373558 | [373558-donut-hockey.json](./373558-donut-hockey.json) |
 | Donut Maker | 232179 | [232179-donut-maker.json](./232179-donut-maker.json) |
@@ -2360,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Apocalypse | 296091 | [296091-drift-apocalypse.json](./296091-drift-apocalypse.json) |
 | Drift Clicker | 233496 | [233496-drift-clicker.json](./233496-drift-clicker.json) |
 | Drift Gang | 372449 | [372449-drift-gang.json](./372449-drift-gang.json) |
+| Drift Journey: Nitro | 214499 | [214499-drift-journey-nitro.json](./214499-drift-journey-nitro.json) |
 | Drift Market | 388757 | [388757-drift-market.json](./388757-drift-market.json) |
 | Drift Out | 39674 | [39674-drift-out.json](./39674-drift-out.json) |
 | Drift Streets Japan | 34167 | [34167-drift-streets-japan.json](./34167-drift-streets-japan.json) |
