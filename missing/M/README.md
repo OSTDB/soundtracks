@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandragora: Whispers of the Witch Tree | 191427 | [191427-mandragora-whispers-of-the-witch-tree.json](./191427-mandragora-whispers-of-the-witch-tree.json) |
 | Mandrake Boys | 202398 | [202398-mandrake-boys.json](./202398-mandrake-boys.json) |
 | Mandrake Girls: Garden of Secret | 202399 | [202399-mandrake-girls-garden-of-secret.json](./202399-mandrake-girls-garden-of-secret.json) |
+| Mane Box | 237396 | [237396-mane-box.json](./237396-mane-box.json) |
 | Maneater: Truth Quest | 162622 | [162622-maneater-truth-quest.json](./162622-maneater-truth-quest.json) |
 | Maneuver Warfare | 293419 | [293419-maneuver-warfare.json](./293419-maneuver-warfare.json) |
 | Maneuver Warfare: CSS Pack | 293423 | [293423-maneuver-warfare-css-pack.json](./293423-maneuver-warfare-css-pack.json) |
@@ -1369,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gunner | 137655 | [137655-metal-gunner.json](./137655-metal-gunner.json) |
 | Metal Hunter | 189202 | [189202-metal-hunter.json](./189202-metal-hunter.json) |
 | Metal Hunter | 392783 | [392783-metal-hunter.json](./392783-metal-hunter.json) |
+| Metal Knights | 237344 | [237344-metal-knights.json](./237344-metal-knights.json) |
 | Metal March | 228088 | [228088-metal-march.json](./228088-metal-march.json) |
 | Metal Max 3 | 66922 | [66922-metal-max-3.json](./66922-metal-max-3.json) |
 | Metal Max Returns | 38373 | [38373-metal-max-returns.json](./38373-metal-max-returns.json) |
@@ -3185,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MySims Agents | 5035 | [5035-mysims-agents.json](./5035-mysims-agents.json) |
 | Myst | 272031 | [272031-myst.json](./272031-myst.json) |
 | Myst | 347130 | [347130-myst.json](./347130-myst.json) |
+| Myst Mobile | 237366 | [237366-myst-mobile.json](./237366-myst-mobile.json) |
 | Mystereet: Yasogami Kaoru no Chousen! | 326951 | [326951-mystereet-yasogami-kaoru-no-chousen.json](./326951-mystereet-yasogami-kaoru-no-chousen.json) |
 | Mysteria ~Occult Shadows~ | 108626 | [108626-mysteria-occult-shadows.json](./108626-mysteria-occult-shadows.json) |
 | Mysteries of Perception | 317583 | [317583-mysteries-of-perception.json](./317583-mysteries-of-perception.json) |
