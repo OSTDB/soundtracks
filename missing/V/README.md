@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Bart Redux | 219273 | [219273-virtual-bart-redux.json](./219273-virtual-bart-redux.json) |
 | Virtual Boxing League | 89667 | [89667-virtual-boxing-league.json](./89667-virtual-boxing-league.json) |
 | Virtual Boy Wario Land | 1696 | [1696-virtual-boy-wario-land.json](./1696-virtual-boy-wario-land.json) |
+| Virtual Cameraman Part 4: Toya Shiori | 217878 | [217878-virtual-cameraman-part-4-toya-shiori.json](./217878-virtual-cameraman-part-4-toya-shiori.json) |
 | Virtual Chess | 351645 | [351645-virtual-chess.json](./351645-virtual-chess.json) |
 | Virtual Dream | 312578 | [312578-virtual-dream.json](./312578-virtual-dream.json) |
 | Virtual Driving School | 404840 | [404840-virtual-driving-school.json](./404840-virtual-driving-school.json) |
