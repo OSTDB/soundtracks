@@ -64,9 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Italy Cats | 315290 | [315290-100-italy-cats.json](./315290-100-italy-cats.json) |
 | 100 Keys to Your Heart | 231615 | [231615-100-keys-to-your-heart.json](./231615-100-keys-to-your-heart.json) |
 | 100 Los Angeles Cats | 334125 | [334125-100-los-angeles-cats.json](./334125-100-los-angeles-cats.json) |
-| 100 March Cats: Extra Content | 289333 | [289333-100-march-cats-extra-content.json](./289333-100-march-cats-extra-content.json) |
 | 100 Men vs 1 Gorilla | 349879 | [349879-100-men-vs-1-gorilla.json](./349879-100-men-vs-1-gorilla.json) |
-| 100 Miami Cats | 334126 | [334126-100-miami-cats.json](./334126-100-miami-cats.json) |
 | 100 Rooms of Enemies | 247184 | [247184-100-rooms-of-enemies.json](./247184-100-rooms-of-enemies.json) |
 | 100 Sea Cats | 315291 | [315291-100-sea-cats.json](./315291-100-sea-cats.json) |
 | 100 Thailand Cats | 315293 | [315293-100-thailand-cats.json](./315293-100-thailand-cats.json) |
