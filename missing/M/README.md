@@ -638,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Market Chain 98 | 405540 | [405540-market-chain-98.json](./405540-market-chain-98.json) |
 | Market Dominion | 114393 | [114393-market-dominion.json](./114393-market-dominion.json) |
 | Market Trouble | 182541 | [182541-market-trouble.json](./182541-market-trouble.json) |
+| Marksman Shooting | 245298 | [245298-marksman-shooting.json](./245298-marksman-shooting.json) |
 | MarksmanVR | 28878 | [28878-marksmanvr.json](./28878-marksmanvr.json) |
 | Marlboro Go! | 253027 | [253027-marlboro-go.json](./253027-marlboro-go.json) |
 | Marmalade Boy | 38339 | [38339-marmalade-boy.json](./38339-marmalade-boy.json) |
@@ -969,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior: Living Legends | 51237 | [51237-mechwarrior-living-legends.json](./51237-mechwarrior-living-legends.json) |
 | Medabots 5: Susutake Mura no Tenkousei | 55142 | [55142-medabots-5-susutake-mura-no-tenkousei.json](./55142-medabots-5-susutake-mura-no-tenkousei.json) |
 | Medabots Classic Collection | 55143 | [55143-medabots-classic-collection.json](./55143-medabots-classic-collection.json) |
+| Medal Bound | 245327 | [245327-medal-bound.json](./245327-medal-bound.json) |
 | Medal of Honor: 10th Anniversary Edition | 45980 | [45980-medal-of-honor-10th-anniversary-edition.json](./45980-medal-of-honor-10th-anniversary-edition.json) |
 | Medal of Honor: Airborne | 264877 | [264877-medal-of-honor-airborne.json](./264877-medal-of-honor-airborne.json) |
 | Medal of Honor: Heroes | 1312 | [1312-medal-of-honor-heroes.json](./1312-medal-of-honor-heroes.json) |
@@ -1286,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Design: Mansion Makeover | 246662 | [246662-merge-design-mansion-makeover.json](./246662-merge-design-mansion-makeover.json) |
 | Merge Fellas | 281409 | [281409-merge-fellas.json](./281409-merge-fellas.json) |
 | Merge Games Japan Best | 276454 | [276454-merge-games-japan-best.json](./276454-merge-games-japan-best.json) |
+| Merge Gangster Heist vs. Police | 245348 | [245348-merge-gangster-heist-vs-police.json](./245348-merge-gangster-heist-vs-police.json) |
 | Merge Girls | 212490 | [212490-merge-girls.json](./212490-merge-girls.json) |
 | Merge Mansion | 196866 | [196866-merge-mansion.json](./196866-merge-mansion.json) |
 | Merge Marbles | 309337 | [309337-merge-marbles.json](./309337-merge-marbles.json) |
@@ -1755,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Clicker | 291477 | [291477-miner-clicker.json](./291477-miner-clicker.json) |
 | Miner Rogue | 290391 | [290391-miner-rogue.json](./290391-miner-rogue.json) |
 | Mineroids | 413614 | [413614-mineroids.json](./413614-mineroids.json) |
+| Miners Settlement: Idle RPG | 245343 | [245343-miners-settlement-idle-rpg.json](./245343-miners-settlement-idle-rpg.json) |
 | Miners' Union | 391065 | [391065-miners-union.json](./391065-miners-union.json) |
 | Minerva | 10129 | [10129-minerva.json](./10129-minerva.json) |
 | Mines | 102817 | [102817-mines.json](./102817-mines.json) |
