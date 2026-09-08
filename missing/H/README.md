@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazelwood Station | 295001 | [295001-hazelwood-station.json](./295001-hazelwood-station.json) |
 | Hazeron Starship | 277286 | [277286-hazeron-starship.json](./277286-hazeron-starship.json) |
 | Hazing: Night Shift | 305147 | [305147-hazing-night-shift.json](./305147-hazing-night-shift.json) |
+| Hazuki Makimura's Love Story | 255108 | [255108-hazuki-makimuras-love-story.json](./255108-hazuki-makimuras-love-story.json) |
 | Hazy Monochrome Wand | 258486 | [258486-hazy-monochrome-wand.json](./258486-hazy-monochrome-wand.json) |
 | HB Arcade Cards | 80583 | [80583-hb-arcade-cards.json](./80583-hb-arcade-cards.json) |
 | HDOS | 373557 | [373557-hdos.json](./373557-hdos.json) |
@@ -1363,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope We'll Still be Friends Tomorrow | 410251 | [410251-hope-well-still-be-friends-tomorrow.json](./410251-hope-well-still-be-friends-tomorrow.json) |
 | Hopeless Dregs | 156658 | [156658-hopeless-dregs.json](./156658-hopeless-dregs.json) |
 | Hopeless. | 228080 | [228080-hopeless.json](./228080-hopeless.json) |
+| Hopepunk City | 255098 | [255098-hopepunk-city.json](./255098-hopepunk-city.json) |
 | Hopfall | 370126 | [370126-hopfall.json](./370126-hopfall.json) |
 | Hoppe Chan: Punitto Shibotte Daibouken! | 222538 | [222538-hoppe-chan-punitto-shibotte-daibouken.json](./222538-hoppe-chan-punitto-shibotte-daibouken.json) |
 | Hopper | 13726 | [13726-hopper.json](./13726-hopper.json) |
