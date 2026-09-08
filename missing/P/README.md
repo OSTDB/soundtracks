@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Rider | 179187 | [179187-paint-rider.json](./179187-paint-rider.json) |
 | Paint to Pixel | 192959 | [192959-paint-to-pixel.json](./192959-paint-to-pixel.json) |
 | Paintball 3: Candy Match Factory | 270960 | [270960-paintball-3-candy-match-factory.json](./270960-paintball-3-candy-match-factory.json) |
+| Paintball Champs | 237386 | [237386-paintball-champs.json](./237386-paintball-champs.json) |
 | Paintboss - Car Painting VR | 75909 | [75909-paintboss-car-painting-vr.json](./75909-paintboss-car-painting-vr.json) |
 | Paintbrush Warrior | 339130 | [339130-paintbrush-warrior.json](./339130-paintbrush-warrior.json) |
 | Painted Kingdoms | 392796 | [392796-painted-kingdoms.json](./392796-painted-kingdoms.json) |
@@ -404,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pass Tiger Cage | 374599 | [374599-pass-tiger-cage.json](./374599-pass-tiger-cage.json) |
 | Passage | 204687 | [204687-passage.json](./204687-passage.json) |
 | Passage | 209700 | [209700-passage.json](./209700-passage.json) |
+| Passage: A Job Interview Simulator! | 237360 | [237360-passage-a-job-interview-simulator.json](./237360-passage-a-job-interview-simulator.json) |
 | Passageway of the Ancients | 258490 | [258490-passageway-of-the-ancients.json](./258490-passageway-of-the-ancients.json) |
 | Passant: A Chess Roguelike | 323192 | [323192-passant-a-chess-roguelike.json](./323192-passant-a-chess-roguelike.json) |
 | Passengers of Execution | 143743 | [143743-passengers-of-execution.json](./143743-passengers-of-execution.json) |
@@ -466,6 +468,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Patrol: Laptop Infantil | 294467 | [294467-paw-patrol-laptop-infantil.json](./294467-paw-patrol-laptop-infantil.json) |
 | Pawapuro Stadium | 63285 | [63285-pawapuro-stadium.json](./63285-pawapuro-stadium.json) |
 | Pawapuro-kun Pocket 12 | 229923 | [229923-pawapuro-kun-pocket-12.json](./229923-pawapuro-kun-pocket-12.json) |
+| Pawapuro-kun Pocket 6 | 237346 | [237346-pawapuro-kun-pocket-6.json](./237346-pawapuro-kun-pocket-6.json) |
+| Pawapuro-kun Pocket 7 | 237347 | [237347-pawapuro-kun-pocket-7.json](./237347-pawapuro-kun-pocket-7.json) |
 | Pawapuro-kun Pocket R | 152368 | [152368-pawapuro-kun-pocket-r.json](./152368-pawapuro-kun-pocket-r.json) |
 | Pawar | 273953 | [273953-pawar.json](./273953-pawar.json) |
 | Pawfect Cat Mansion | 314862 | [314862-pawfect-cat-mansion.json](./314862-pawfect-cat-mansion.json) |
@@ -1914,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Angel | 127092 | [127092-pretty-angel.json](./127092-pretty-angel.json) |
 | Pretty Chaser | 269601 | [269601-pretty-chaser.json](./269601-pretty-chaser.json) |
 | Pretty Girls and Dark Witch. A simple story | 173816 | [173816-pretty-girls-and-dark-witch-a-simple-story.json](./173816-pretty-girls-and-dark-witch-a-simple-story.json) |
+| Pretty Girls Breakers! Plus | 237362 | [237362-pretty-girls-breakers-plus.json](./237362-pretty-girls-breakers-plus.json) |
 | Pretty Girls Escape | 204088 | [204088-pretty-girls-escape.json](./204088-pretty-girls-escape.json) |
 | Pretty Girls Four Kings Solitaire | 195797 | [195797-pretty-girls-four-kings-solitaire.json](./195797-pretty-girls-four-kings-solitaire.json) |
 | Pretty Good Solitaire | 89241 | [89241-pretty-good-solitaire.json](./89241-pretty-good-solitaire.json) |
@@ -2495,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Boys | 41393 | [41393-puzzle-boys.json](./41393-puzzle-boys.json) |
 | Puzzle Bundle Xbox: Mimi New Friend, Sokocrab and StoryBlocks | 335104 | [335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json](./335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json) |
 | Puzzle Bundle Xbox: PuzzlePet - Feed Your Cat, Say Cheese, Mimi the Cat: New Friends, Story Blocks: The King and Sokocrab | 335103 | [335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json](./335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json) |
+| Puzzle by Nikoli S Hashiwokakero | 237357 | [237357-puzzle-by-nikoli-s-hashiwokakero.json](./237357-puzzle-by-nikoli-s-hashiwokakero.json) |
 | Puzzle by Nikoli S Sudoku | 219293 | [219293-puzzle-by-nikoli-s-sudoku.json](./219293-puzzle-by-nikoli-s-sudoku.json) |
 | Puzzle by Nikoli S: Numberlink | 250392 | [250392-puzzle-by-nikoli-s-numberlink.json](./250392-puzzle-by-nikoli-s-numberlink.json) |
 | Puzzle by Nikoli S: Nurikabe | 231075 | [231075-puzzle-by-nikoli-s-nurikabe.json](./231075-puzzle-by-nikoli-s-nurikabe.json) |
