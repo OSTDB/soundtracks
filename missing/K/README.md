@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kero Quest 64 | 326620 | [326620-kero-quest-64.json](./326620-kero-quest-64.json) |
 | Keroro RPG: Kishi to Busha to Densetsu no Kaizoku | 67306 | [67306-keroro-rpg-kishi-to-busha-to-densetsu-no-kaizoku.json](./67306-keroro-rpg-kishi-to-busha-to-densetsu-no-kaizoku.json) |
 | Kestrel | 152386 | [152386-kestrel.json](./152386-kestrel.json) |
+| Ketchapp Summer Sports | 246960 | [246960-ketchapp-summer-sports.json](./246960-ketchapp-summer-sports.json) |
 | KetnetKick | 94236 | [94236-ketnetkick.json](./94236-ketnetkick.json) |
 | Ketris | 182540 | [182540-ketris.json](./182540-ketris.json) |
 | Ketsugou Danshi: Elements with Emotions - Zenshi Konkan Pack | 260691 | [260691-ketsugou-danshi-elements-with-emotions-zenshi-konkan-pack.json](./260691-ketsugou-danshi-elements-with-emotions-zenshi-konkan-pack.json) |
@@ -346,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Dinosaur Rex Jigsaw Puzzles | 96749 | [96749-kids-dinosaur-rex-jigsaw-puzzles.json](./96749-kids-dinosaur-rex-jigsaw-puzzles.json) |
 | Kids Dreamland Adventures | 101552 | [101552-kids-dreamland-adventures.json](./101552-kids-dreamland-adventures.json) |
 | Kids Learn Animal Words | 97915 | [97915-kids-learn-animal-words.json](./97915-kids-learn-animal-words.json) |
+| Kids Learn to Sort | 246973 | [246973-kids-learn-to-sort.json](./246973-kids-learn-to-sort.json) |
 | Kids Preschool Puzzles | 323152 | [323152-kids-preschool-puzzles.json](./323152-kids-preschool-puzzles.json) |
 | Kids Puzzle - 2 in 1 Bundle | 231048 | [231048-kids-puzzle-2-in-1-bundle.json](./231048-kids-puzzle-2-in-1-bundle.json) |
 | Kids Station: Digimon Park | 58808 | [58808-kids-station-digimon-park.json](./58808-kids-station-digimon-park.json) |
