@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmageddon: Undead | 302380 | [302380-farmageddon-undead.json](./302380-farmageddon-undead.json) |
 | Farmcraft 2 | 411590 | [411590-farmcraft-2.json](./411590-farmcraft-2.json) |
 | Farmer and Zombie | 286008 | [286008-farmer-and-zombie.json](./286008-farmer-and-zombie.json) |
+| Farmer Drift! | 246430 | [246430-farmer-drift.json](./246430-farmer-drift.json) |
 | Farmer's Delight | 232679 | [232679-farmers-delight.json](./232679-farmers-delight.json) |
 | Farmhand Go! | 223171 | [223171-farmhand-go.json](./223171-farmhand-go.json) |
 | Farming Homestead | 411570 | [411570-farming-homestead.json](./411570-farming-homestead.json) |
@@ -819,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Vision Quest | 141237 | [141237-fire-emblem-vision-quest.json](./141237-fire-emblem-vision-quest.json) |
 | Fire Entrance | 374086 | [374086-fire-entrance.json](./374086-fire-entrance.json) |
 | Fire Farm VR | 31964 | [31964-fire-farm-vr.json](./31964-fire-farm-vr.json) |
+| Fire Fighter | 246395 | [246395-fire-fighter.json](./246395-fire-fighter.json) |
 | Fire Flight | 76661 | [76661-fire-flight.json](./76661-fire-flight.json) |
 | Fire Flush | 107220 | [107220-fire-flush.json](./107220-fire-flush.json) |
 | Fire Fly | 23855 | [23855-fire-fly.json](./23855-fire-fly.json) |
@@ -1753,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Street A-Z | 100818 | [100818-frog-street-a-z.json](./100818-frog-street-a-z.json) |
 | Frogenlav: Skyward Bound | 278418 | [278418-frogenlav-skyward-bound.json](./278418-frogenlav-skyward-bound.json) |
 | Frogger | 240485 | [240485-frogger.json](./240485-frogger.json) |
+| Frogger | 246398 | [246398-frogger.json](./246398-frogger.json) |
 | Frogger | 341890 | [341890-frogger.json](./341890-frogger.json) |
 | Frogger Returns | 11484 | [11484-frogger-returns.json](./11484-frogger-returns.json) |
 | Froggerty Arcade | 161384 | [161384-froggerty-arcade.json](./161384-froggerty-arcade.json) |
