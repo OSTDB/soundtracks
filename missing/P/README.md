@@ -1146,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Paint 2: Ultimate Edition | 260680 | [260680-pixel-paint-2-ultimate-edition.json](./260680-pixel-paint-2-ultimate-edition.json) |
 | Pixel Paint Together | 300981 | [300981-pixel-paint-together.json](./300981-pixel-paint-together.json) |
 | Pixel Paint: Definitive Edition | 243367 | [243367-pixel-paint-definitive-edition.json](./243367-pixel-paint-definitive-edition.json) |
+| Pixel Paint: Premium Edition | 241395 | [241395-pixel-paint-premium-edition.json](./241395-pixel-paint-premium-edition.json) |
 | Pixel Pro Tennis | 213643 | [213643-pixel-pro-tennis.json](./213643-pixel-pro-tennis.json) |
 | Pixel Puzzle Makeout League | 121603 | [121603-pixel-puzzle-makeout-league.json](./121603-pixel-puzzle-makeout-league.json) |
 | Pixel Puzzles 4k: Japan | 163411 | [163411-pixel-puzzles-4k-japan.json](./163411-pixel-puzzles-4k-japan.json) |
@@ -1490,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Cross Stadium | 281394 | [281394-pokemon-cross-stadium.json](./281394-pokemon-cross-stadium.json) |
 | Pokémon Crystal 251 | 312377 | [312377-pokemon-crystal-251.json](./312377-pokemon-crystal-251.json) |
 | Pokémon Cyan | 129814 | [129814-pokemon-cyan.json](./129814-pokemon-cyan.json) |
+| Pokémon Daybreak | 241389 | [241389-pokemon-daybreak.json](./241389-pokemon-daybreak.json) |
 | Pokémon Deluge | 172745 | [172745-pokemon-deluge.json](./172745-pokemon-deluge.json) |
 | Pokémon Duelist | 359980 | [359980-pokemon-duelist.json](./359980-pokemon-duelist.json) |
 | Pokémon Dumbdumb Island | 362817 | [362817-pokemon-dumbdumb-island.json](./362817-pokemon-dumbdumb-island.json) |
@@ -1499,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Edición Team Rocket | 353274 | [353274-pokemon-edicion-team-rocket.json](./353274-pokemon-edicion-team-rocket.json) |
 | Pokémon Emerald Kaizo | 172744 | [172744-pokemon-emerald-kaizo.json](./172744-pokemon-emerald-kaizo.json) |
 | Pokémon Empyrean | 221394 | [221394-pokemon-empyrean.json](./221394-pokemon-empyrean.json) |
+| Pokémon Eon Guardians | 241388 | [241388-pokemon-eon-guardians.json](./241388-pokemon-eon-guardians.json) |
 | Pokémon Fire Ash | 135871 | [135871-pokemon-fire-ash.json](./135871-pokemon-fire-ash.json) |
 | Pokemon FireRed and LeafGreen+ | 288206 | [288206-pokemon-firered-and-leafgreen.json](./288206-pokemon-firered-and-leafgreen.json) |
 | Pokémon Fushigi no Dungeon: Ikuzo! Arashi no Boukendan | 103512 | [103512-pokemon-fushigi-no-dungeon-ikuzo-arashi-no-boukendan.json](./103512-pokemon-fushigi-no-dungeon-ikuzo-arashi-no-boukendan.json) |
@@ -2289,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PSY in Apocalypse | 270953 | [270953-psy-in-apocalypse.json](./270953-psy-in-apocalypse.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Boys Dating Sim | 336558 | [336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json](./336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim | 338006 | [338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json](./338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json) |
+| Psychic Investigation of Sakuragi Haru | 241385 | [241385-psychic-investigation-of-sakuragi-haru.json](./241385-psychic-investigation-of-sakuragi-haru.json) |
 | Psycho Simulator | 389465 | [389465-psycho-simulator.json](./389465-psycho-simulator.json) |
 | Psycho-Nics Oscar | 55193 | [55193-psycho-nics-oscar.json](./55193-psycho-nics-oscar.json) |
 | PsychoCudgel | 316641 | [316641-psychocudgel.json](./316641-psychocudgel.json) |
@@ -2542,6 +2546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzsoft’s Cooleidoscope | 316050 | [316050-puzzsoft-s-cooleidoscope.json](./316050-puzzsoft-s-cooleidoscope.json) |
 | PvPillman | 285463 | [285463-pvpillman.json](./285463-pvpillman.json) |
 | Pwn! | 341318 | [341318-pwn.json](./341318-pwn.json) |
+| Pwordle | 241405 | [241405-pwordle.json](./241405-pwordle.json) |
 | Px Art | 369573 | [369573-px-art.json](./369573-px-art.json) |
 | PxBeats | 256540 | [256540-pxbeats.json](./256540-pxbeats.json) |
 | Pyjamarama | 23060 | [23060-pyjamarama.json](./23060-pyjamarama.json) |
