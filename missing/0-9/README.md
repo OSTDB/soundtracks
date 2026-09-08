@@ -74,7 +74,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100% Orange Juice: Alicianrone & Teotoratta | 164469 | [164469-100-orange-juice-alicianrone-and-teotoratta.json](./164469-100-orange-juice-alicianrone-and-teotoratta.json) |
 | 100% Orange Juice: Chris & Kyupita | 164476 | [164476-100-orange-juice-chris-and-kyupita.json](./164476-100-orange-juice-chris-and-kyupita.json) |
 | 100% Orange Juice: Krila & Kae | 164482 | [164482-100-orange-juice-krila-and-kae.json](./164482-100-orange-juice-krila-and-kae.json) |
-| 100% Orange Juice: Mei & Natsumi | 164475 | [164475-100-orange-juice-mei-and-natsumi.json](./164475-100-orange-juice-mei-and-natsumi.json) |
 | 100% Orange Juice: Nath & Tomato+Mimyuu | 164472 | [164472-100-orange-juice-nath-and-tomato-mimyuu.json](./164472-100-orange-juice-nath-and-tomato-mimyuu.json) |
 | 100% Orange Juice: Pudding Pack | 164466 | [164466-100-orange-juice-pudding-pack.json](./164466-100-orange-juice-pudding-pack.json) |
 | 100% Orange Juice: Railway Runners Pack | 164474 | [164474-100-orange-juice-railway-runners-pack.json](./164474-100-orange-juice-railway-runners-pack.json) |
