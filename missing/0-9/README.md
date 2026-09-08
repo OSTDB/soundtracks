@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13 Minutes of Light | 98413 | [98413-13-minutes-of-light.json](./98413-13-minutes-of-light.json) |
 | 13 Page | 201304 | [201304-13-page.json](./201304-13-page.json) |
 | 13 Sentinels: Aegis Rim | 28337 | [28337-13-sentinels-aegis-rim.json](./28337-13-sentinels-aegis-rim.json) |
+| 13 Thieves | 234074 | [234074-13-thieves.json](./234074-13-thieves.json) |
 | 13: Origin - Chapter One | 197399 | [197399-13-origin-chapter-one.json](./197399-13-origin-chapter-one.json) |
 | 137E0 Action 1 Steak | 234303 | [234303-137e0-action-1-steak.json](./234303-137e0-action-1-steak.json) |
 | 13Z | 301031 | [301031-13z.json](./301031-13z.json) |
@@ -447,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4.1.60Co | 295543 | [295543-4-1-60co.json](./295543-4-1-60co.json) |
 | 4004Ripper | 342062 | [342062-4004ripper.json](./342062-4004ripper.json) |
 | 4096 | 157721 | [157721-4096.json](./157721-4096.json) |
+| 41m | 234073 | [234073-41m.json](./234073-41m.json) |
 | 44 Hidden Naomis | 353323 | [353323-44-hidden-naomis.json](./353323-44-hidden-naomis.json) |
 | 46 Okunen Monogatari: The Shinka Ron | 26675 | [26675-46-okunen-monogatari-the-shinka-ron.json](./26675-46-okunen-monogatari-the-shinka-ron.json) |
 | 48 Pieces | 109036 | [109036-48-pieces.json](./109036-48-pieces.json) |
