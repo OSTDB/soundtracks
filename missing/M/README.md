@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makaimura Gaiden: The Demon Darkness | 84640 | [84640-makaimura-gaiden-the-demon-darkness.json](./84640-makaimura-gaiden-the-demon-darkness.json) |
 | Makaimura Online | 63297 | [63297-makaimura-online.json](./63297-makaimura-online.json) |
 | Make a Friend | 201828 | [201828-make-a-friend.json](./201828-make-a-friend.json) |
+| Make a Happy Baby | 239039 | [239039-make-a-happy-baby.json](./239039-make-a-happy-baby.json) |
 | Make a Scene: Dinosaurs | 96044 | [96044-make-a-scene-dinosaurs.json](./96044-make-a-scene-dinosaurs.json) |
 | Make Capybara Happy | 335248 | [335248-make-capybara-happy.json](./335248-make-capybara-happy.json) |
 | Make It Cozy! | 409546 | [409546-make-it-cozy.json](./409546-make-it-cozy.json) |
@@ -1985,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mister Versatile: A Gay Superhero Visual Novel | 180251 | [180251-mister-versatile-a-gay-superhero-visual-novel.json](./180251-mister-versatile-a-gay-superhero-visual-novel.json) |
 | Misterious Thief | 321996 | [321996-misterious-thief.json](./321996-misterious-thief.json) |
 | Mistery | 264046 | [264046-mistery.json](./264046-mistery.json) |
+| Mistfall | 239042 | [239042-mistfall.json](./239042-mistfall.json) |
 | Mistful Crimson Morning | 341911 | [341911-mistful-crimson-morning.json](./341911-mistful-crimson-morning.json) |
 | Mistletoe Hotel | 323731 | [323731-mistletoe-hotel.json](./323731-mistletoe-hotel.json) |
 | MistsBook | 296371 | [296371-mistsbook.json](./296371-mistsbook.json) |
@@ -2071,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Model Sisters | 414310 | [414310-model-sisters.json](./414310-model-sisters.json) |
 | Model Style: Dress Up! | 314878 | [314878-model-style-dress-up.json](./314878-model-style-dress-up.json) |
 | Modern Campaigns: Quang Tri '72 | 229964 | [229964-modern-campaigns-quang-tri-72.json](./229964-modern-campaigns-quang-tri-72.json) |
+| Modern Cannon Strike | 239041 | [239041-modern-cannon-strike.json](./239041-modern-cannon-strike.json) |
 | Modern Combat | 166216 | [166216-modern-combat.json](./166216-modern-combat.json) |
 | Modern Combat Versus | 71910 | [71910-modern-combat-versus.json](./71910-modern-combat-versus.json) |
 | Modern Command | 227510 | [227510-modern-command.json](./227510-modern-command.json) |
@@ -3013,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero Academia: The Strongest Hero | 146301 | [146301-my-hero-academia-the-strongest-hero.json](./146301-my-hero-academia-the-strongest-hero.json) |
 | My Hero One's Justice 2: Cheerleader Costumes Bundle | 259811 | [259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json](./259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json) |
 | My Hole is a Mouth of Dirt | 131594 | [131594-my-hole-is-a-mouth-of-dirt.json](./131594-my-hole-is-a-mouth-of-dirt.json) |
+| My Home Design: Makeover Games | 239043 | [239043-my-home-design-makeover-games.json](./239043-my-home-design-makeover-games.json) |
 | My Horse Stories: Sunny Edition | 308807 | [308807-my-horse-stories-sunny-edition.json](./308807-my-horse-stories-sunny-edition.json) |
 | My Hotel | 199122 | [199122-my-hotel.json](./199122-my-hotel.json) |
 | My Hotel Romance | 298900 | [298900-my-hotel-romance.json](./298900-my-hotel-romance.json) |
