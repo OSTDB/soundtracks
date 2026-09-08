@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Venture | 234609 | [234609-dead-venture.json](./234609-dead-venture.json) |
 | Dead Weight | 288215 | [288215-dead-weight.json](./288215-dead-weight.json) |
 | Dead Witch in Night Sky | 394161 | [394161-dead-witch-in-night-sky.json](./394161-dead-witch-in-night-sky.json) |
+| Dead World Heroes | 221185 | [221185-dead-world-heroes.json](./221185-dead-world-heroes.json) |
 | Dead Years | 19582 | [19582-dead-years.json](./19582-dead-years.json) |
 | Dead Zed | 388038 | [388038-dead-zed.json](./388038-dead-zed.json) |
 | Dead Zone | 203555 | [203555-dead-zone.json](./203555-dead-zone.json) |
@@ -1757,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Let Me Fade | 352220 | [352220-dont-let-me-fade.json](./352220-dont-let-me-fade.json) |
 | Don't Look | 177547 | [177547-dont-look.json](./177547-dont-look.json) |
 | Don't Look at Grandma | 375820 | [375820-dont-look-at-grandma.json](./375820-dont-look-at-grandma.json) |
+| Don't Look Away | 221188 | [221188-dont-look-away.json](./221188-dont-look-away.json) |
 | Don't Look Back | 343785 | [343785-dont-look-back.json](./343785-dont-look-back.json) |
 | Don't Look Down | 107877 | [107877-dont-look-down.json](./107877-dont-look-down.json) |
 | Don't Look! | 168387 | [168387-dont-look.json](./168387-dont-look.json) |
@@ -1914,6 +1916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dororo: Jigoku Emaki no Shou | 353899 | [353899-dororo-jigoku-emaki-no-shou.json](./353899-dororo-jigoku-emaki-no-shou.json) |
 | Dorothy's Magical Journey in Oz | 410213 | [410213-dorothys-magical-journey-in-oz.json](./410213-dorothys-magical-journey-in-oz.json) |
 | Dorpie | 360015 | [360015-dorpie.json](./360015-dorpie.json) |
+| Dosi | 221158 | [221158-dosi.json](./221158-dosi.json) |
 | Dosukoi Slime | 322998 | [322998-dosukoi-slime.json](./322998-dosukoi-slime.json) |
 | Dot & Dot Dungeons | 295766 | [295766-dot-and-dot-dungeons.json](./295766-dot-and-dot-dungeons.json) |
 | Dot Clicker | 411575 | [411575-dot-clicker.json](./411575-dot-clicker.json) |
