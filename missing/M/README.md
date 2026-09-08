@@ -1275,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Menphis | 293929 | [293929-menphis.json](./293929-menphis.json) |
 | Mensch Ärger' Dich Nicht! | 98971 | [98971-mensch-arger-dich-nicht.json](./98971-mensch-arger-dich-nicht.json) |
 | Mentai Uncensored | 110608 | [110608-mentai-uncensored.json](./110608-mentai-uncensored.json) |
+| Mental Harm | 235751 | [235751-mental-harm.json](./235751-mental-harm.json) |
 | Mental Hospital IV | 292817 | [292817-mental-hospital-iv.json](./292817-mental-hospital-iv.json) |
 | Mental: The Dark Night | 236828 | [236828-mental-the-dark-night.json](./236828-mental-the-dark-night.json) |
 | Mentula Macanus: Apocolocyntosis | 22420 | [22420-mentula-macanus-apocolocyntosis.json](./22420-mentula-macanus-apocolocyntosis.json) |
@@ -1356,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Brigade Tactics Versus | 256254 | [256254-metal-brigade-tactics-versus.json](./256254-metal-brigade-tactics-versus.json) |
 | Metal Bunny | 309894 | [309894-metal-bunny.json](./309894-metal-bunny.json) |
 | Metal Coffin | 335256 | [335256-metal-coffin.json](./335256-metal-coffin.json) |
+| Metal Detecting Simulator | 235768 | [235768-metal-detecting-simulator.json](./235768-metal-detecting-simulator.json) |
 | Metal Dogs: New Dog Addition - Labrador Retriever | 302919 | [302919-metal-dogs-new-dog-addition-labrador-retriever.json](./302919-metal-dogs-new-dog-addition-labrador-retriever.json) |
 | Metal Dragon | 325243 | [325243-metal-dragon.json](./325243-metal-dragon.json) |
 | Metal Dragon/Life on Mars | 325244 | [325244-metal-dragon-life-on-mars.json](./325244-metal-dragon-life-on-mars.json) |
@@ -2421,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Fall | 122381 | [122381-moon-fall.json](./122381-moon-fall.json) |
 | Moon is Not the Limit | 243674 | [243674-moon-is-not-the-limit.json](./243674-moon-is-not-the-limit.json) |
 | Moon Knight | 280758 | [280758-moon-knight.json](./280758-moon-knight.json) |
+| Moon Lab Shooter | 235773 | [235773-moon-lab-shooter.json](./235773-moon-lab-shooter.json) |
 | Moon Minions | 243940 | [243940-moon-minions.json](./243940-moon-minions.json) |
 | Moon Mystery | 196935 | [196935-moon-mystery.json](./196935-moon-mystery.json) |
 | Moon Observatory Melanie | 250602 | [250602-moon-observatory-melanie.json](./250602-moon-observatory-melanie.json) |
@@ -2604,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motherload: Goldium Edition | 186345 | [186345-motherload-goldium-edition.json](./186345-motherload-goldium-edition.json) |
 | Mothership | 262981 | [262981-mothership.json](./262981-mothership.json) |
 | Mothership | 293414 | [293414-mothership.json](./293414-mothership.json) |
+| Mothership Forever | 235737 | [235737-mothership-forever.json](./235737-mothership-forever.json) |
 | Mothlight | 54445 | [54445-mothlight.json](./54445-mothlight.json) |
 | Motion Soccer Pro | 320521 | [320521-motion-soccer-pro.json](./320521-motion-soccer-pro.json) |
 | Motion Wulin | 373515 | [373515-motion-wulin.json](./373515-motion-wulin.json) |
