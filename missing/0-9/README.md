@@ -424,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4-In-1 Electronic Computer Games | 245576 | [245576-4-in-1-electronic-computer-games.json](./245576-4-in-1-electronic-computer-games.json) |
 | 4-Lung Boy | 185651 | [185651-4-lung-boy.json](./185651-4-lung-boy.json) |
 | 4.1.60Co | 295543 | [295543-4-1-60co.json](./295543-4-1-60co.json) |
+| 40 x Escape | 222924 | [222924-40-x-escape.json](./222924-40-x-escape.json) |
 | 4004Ripper | 342062 | [342062-4004ripper.json](./342062-4004ripper.json) |
 | 4096 | 157721 | [157721-4096.json](./157721-4096.json) |
 | 41m | 234073 | [234073-41m.json](./234073-41m.json) |
