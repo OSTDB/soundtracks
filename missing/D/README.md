@@ -2228,6 +2228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamscape Highschool | 337452 | [337452-dreamscape-highschool.json](./337452-dreamscape-highschool.json) |
 | Dreamscape Highschool: After Stories | 337451 | [337451-dreamscape-highschool-after-stories.json](./337451-dreamscape-highschool-after-stories.json) |
 | Dreamscape Return | 290920 | [290920-dreamscape-return.json](./290920-dreamscape-return.json) |
+| Dreamscape Runners | 238503 | [238503-dreamscape-runners.json](./238503-dreamscape-runners.json) |
 | Dreamscaper | 116166 | [116166-dreamscaper.json](./116166-dreamscaper.json) |
 | Dreamspring | 333372 | [333372-dreamspring.json](./333372-dreamspring.json) |
 | Dreamtale | 178656 | [178656-dreamtale.json](./178656-dreamtale.json) |
