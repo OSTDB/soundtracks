@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Skool Classics | 93569 | [93569-old-skool-classics.json](./93569-old-skool-classics.json) |
 | Old Times | 294169 | [294169-old-times.json](./294169-old-times.json) |
 | Old Towers | 126017 | [126017-old-towers.json](./126017-old-towers.json) |
+| Old Town Bus Simulator | 250959 | [250959-old-town-bus-simulator.json](./250959-old-town-bus-simulator.json) |
 | Old World Blues | 321740 | [321740-old-world-blues.json](./321740-old-world-blues.json) |
 | Oldfartenstein 3D | 255375 | [255375-oldfartenstein-3d.json](./255375-oldfartenstein-3d.json) |
 | oldTail | 98990 | [98990-oldtail.json](./98990-oldtail.json) |
@@ -754,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otter of My Life | 104662 | [104662-otter-of-my-life.json](./104662-otter-of-my-life.json) |
 | Otto Matic | 67426 | [67426-otto-matic.json](./67426-otto-matic.json) |
 | Otto's Ottifanten: Kommando Stortebeker | 50559 | [50559-ottos-ottifanten-kommando-stortebeker.json](./50559-ottos-ottifanten-kommando-stortebeker.json) |
+| Ottopunks: Gangs of Bosphorus | 250943 | [250943-ottopunks-gangs-of-bosphorus.json](./250943-ottopunks-gangs-of-bosphorus.json) |
 | Ou Dorobou Jing: Devil Version | 146341 | [146341-ou-dorobou-jing-devil-version.json](./146341-ou-dorobou-jing-devil-version.json) |
 | Oubey VR: Cosmic Voyage | 153421 | [153421-oubey-vr-cosmic-voyage.json](./153421-oubey-vr-cosmic-voyage.json) |
 | Ouch! So Many Beauties! | 298602 | [298602-ouch-so-many-beauties.json](./298602-ouch-so-many-beauties.json) |
