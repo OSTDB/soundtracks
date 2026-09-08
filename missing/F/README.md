@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tail: Beach Volleyball Havoc | 313127 | [313127-fairy-tail-beach-volleyball-havoc.json](./313127-fairy-tail-beach-volleyball-havoc.json) |
 | Fairy Tail: Dungeons | 313123 | [313123-fairy-tail-dungeons.json](./313123-fairy-tail-dungeons.json) |
 | Fairy Tale Fighters | 406081 | [406081-fairy-tale-fighters.json](./406081-fairy-tale-fighters.json) |
+| Fairy Tower | 213964 | [213964-fairy-tower.json](./213964-fairy-tower.json) |
 | Fairy Tower | 218159 | [218159-fairy-tower.json](./218159-fairy-tower.json) |
 | Fairyland: Power Dice | 103473 | [103473-fairyland-power-dice.json](./103473-fairyland-power-dice.json) |
 | Fairyside | 223480 | [223480-fairyside.json](./223480-fairyside.json) |
@@ -334,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farethere City | 75151 | [75151-farethere-city.json](./75151-farethere-city.json) |
 | Farewell | 252987 | [252987-farewell.json](./252987-farewell.json) |
 | Farewell of Life | 329569 | [329569-farewell-of-life.json](./329569-farewell-of-life.json) |
+| Farewell Sen | 213983 | [213983-farewell-sen.json](./213983-farewell-sen.json) |
 | Farewell, My Dearest Love | 314063 | [314063-farewell-my-dearest-love.json](./314063-farewell-my-dearest-love.json) |
 | Farfalla | 91442 | [91442-farfalla.json](./91442-farfalla.json) |
 | Faria: A World of Mystery and Danger! | 48060 | [48060-faria-a-world-of-mystery-and-danger.json](./48060-faria-a-world-of-mystery-and-danger.json) |
