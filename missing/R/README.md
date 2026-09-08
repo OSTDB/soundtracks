@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain's Love Memory | 117087 | [117087-rains-love-memory.json](./117087-rains-love-memory.json) |
 | Rain98 | 339805 | [339805-rain98.json](./339805-rain98.json) |
 | Rainbow | 359417 | [359417-rainbow.json](./359417-rainbow.json) |
+| Rainbow Dash Tylenol | 213934 | [213934-rainbow-dash-tylenol.json](./213934-rainbow-dash-tylenol.json) |
 | Rainbow Despair | 337444 | [337444-rainbow-despair.json](./337444-rainbow-despair.json) |
 | Rainbow Dreams | 115016 | [115016-rainbow-dreams.json](./115016-rainbow-dreams.json) |
 | Rainbow Fish Goes to College | 305138 | [305138-rainbow-fish-goes-to-college.json](./305138-rainbow-fish-goes-to-college.json) |
@@ -733,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remembrance | 82917 | [82917-remembrance.json](./82917-remembrance.json) |
 | RememPair | 349304 | [349304-remempair.json](./349304-remempair.json) |
 | Remi | 388700 | [388700-remi.json](./388700-remi.json) |
+| RemiFla Spirits 2 | 213957 | [213957-remifla-spirits-2.json](./213957-remifla-spirits-2.json) |
 | Remilia's Challenge | 369571 | [369571-remilias-challenge.json](./369571-remilias-challenge.json) |
 | Reminisce | 306685 | [306685-reminisce.json](./306685-reminisce.json) |
 | ReMix: Encore | 311815 | [311815-remix-encore.json](./311815-remix-encore.json) |
@@ -1293,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roam | 63893 | [63893-roam.json](./63893-roam.json) |
 | Roaming Backrooms | 265156 | [265156-roaming-backrooms.json](./265156-roaming-backrooms.json) |
 | Roaming through the Rivers | 214731 | [214731-roaming-through-the-rivers.json](./214731-roaming-through-the-rivers.json) |
+| Roaring Twenties Solitaire | 213935 | [213935-roaring-twenties-solitaire.json](./213935-roaring-twenties-solitaire.json) |
 | Robber | 254535 | [254535-robber.json](./254535-robber.json) |
 | Robber | 385579 | [385579-robber.json](./385579-robber.json) |
 | Robber Knight | 204068 | [204068-robber-knight.json](./204068-robber-knight.json) |
