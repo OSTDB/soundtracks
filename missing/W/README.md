@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Birds Sleep | 136451 | [136451-where-birds-sleep.json](./136451-where-birds-sleep.json) |
 | Where in Space is Carmen Sandiego?: Deluxe Edition | 73309 | [73309-where-in-space-is-carmen-sandiego-deluxe-edition.json](./73309-where-in-space-is-carmen-sandiego-deluxe-edition.json) |
 | Where in Time is Carmen Sandiego? | 4376 | [4376-where-in-time-is-carmen-sandiego.json](./4376-where-in-time-is-carmen-sandiego.json) |
+| Where is a Toilet!? | 227878 | [227878-where-is-a-toilet.json](./227878-where-is-a-toilet.json) |
 | Where is a Toilet!? | 228682 | [228682-where-is-a-toilet.json](./228682-where-is-a-toilet.json) |
 | Where is Mr. Cloud | 251809 | [251809-where-is-mr-cloud.json](./251809-where-is-mr-cloud.json) |
 | Where is Mrs Peregrine? | 318772 | [318772-where-is-mrs-peregrine.json](./318772-where-is-mrs-peregrine.json) |
