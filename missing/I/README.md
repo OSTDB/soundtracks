@@ -343,6 +343,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikari Warriors II: Victory Road | 48055 | [48055-ikari-warriors-ii-victory-road.json](./48055-ikari-warriors-ii-victory-road.json) |
 | Ikaros | 51955 | [51955-ikaros.json](./51955-ikaros.json) |
 | Ikaruga | 200996 | [200996-ikaruga.json](./200996-ikaruga.json) |
+| Ikemen Oukoku Joou to Shinjitsu no Kiss | 229030 | [229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json](./229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json) |
+| Ikemen Prince: Beauty and Her Beast | 229032 | [229032-ikemen-prince-beauty-and-her-beast.json](./229032-ikemen-prince-beauty-and-her-beast.json) |
+| Ikemen Villains: Wrapped in Wicked Romance | 229033 | [229033-ikemen-villains-wrapped-in-wicked-romance.json](./229033-ikemen-villains-wrapped-in-wicked-romance.json) |
 | Ikkitousen: Shining Dragon | 44645 | [44645-ikkitousen-shining-dragon.json](./44645-ikkitousen-shining-dragon.json) |
 | Iktsua | 329930 | [329930-iktsua.json](./329930-iktsua.json) |
 | Ikuzo | 253923 | [253923-ikuzo.json](./253923-ikuzo.json) |
@@ -504,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incursion2D | 284887 | [284887-incursion2d.json](./284887-incursion2d.json) |
 | Indecision. | 83969 | [83969-indecision.json](./83969-indecision.json) |
 | Independence Day Resurgence: Battle Heroes | 354411 | [354411-independence-day-resurgence-battle-heroes.json](./354411-independence-day-resurgence-battle-heroes.json) |
+| Independence Day Run | 229039 | [229039-independence-day-run.json](./229039-independence-day-run.json) |
 | Indian Street Food Simulator | 407345 | [407345-indian-street-food-simulator.json](./407345-indian-street-food-simulator.json) |
 | Indiana Jones and The Great Circle: Collector's Edition | 317816 | [317816-indiana-jones-and-the-great-circle-collectors-edition.json](./317816-indiana-jones-and-the-great-circle-collectors-edition.json) |
 | Indiana Jones and The Great Circle: Premium Edition | 317815 | [317815-indiana-jones-and-the-great-circle-premium-edition.json](./317815-indiana-jones-and-the-great-circle-premium-edition.json) |
@@ -1028,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isolani | 22394 | [22394-isolani.json](./22394-isolani.json) |
 | Isolated | 283144 | [283144-isolated.json](./283144-isolated.json) |
 | Isolated | 86116 | [86116-isolated.json](./86116-isolated.json) |
+| Isolated Room | 229024 | [229024-isolated-room.json](./229024-isolated-room.json) |
 | Isolation | 29945 | [29945-isolation.json](./29945-isolation.json) |
 | Isolationist Nightclub Simulator | 148523 | [148523-isolationist-nightclub-simulator.json](./148523-isolationist-nightclub-simulator.json) |
 | Isonzo | 158603 | [158603-isonzo.json](./158603-isonzo.json) |
