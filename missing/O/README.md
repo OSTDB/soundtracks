@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outrunner 2 | 96630 | [96630-outrunner-2.json](./96630-outrunner-2.json) |
 | Outscore | 182529 | [182529-outscore.json](./182529-outscore.json) |
 | Outside of Our Own | 184127 | [184127-outside-of-our-own.json](./184127-outside-of-our-own.json) |
+| Outside the Blocks | 245868 | [245868-outside-the-blocks.json](./245868-outside-the-blocks.json) |
 | OutSider | 297462 | [297462-outsider.json](./297462-outsider.json) |
 | Outsp4ce | 172176 | [172176-outsp4ce.json](./172176-outsp4ce.json) |
 | Outspace | 332263 | [332263-outspace.json](./332263-outspace.json) |
