@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taurus War | 290701 | [290701-taurus-war.json](./290701-taurus-war.json) |
 | Tavenier | 81420 | [81420-tavenier.json](./81420-tavenier.json) |
 | Tavern Girl | 290949 | [290949-tavern-girl.json](./290949-tavern-girl.json) |
+| Tavern of Empire | 248670 | [248670-tavern-of-empire.json](./248670-tavern-of-empire.json) |
 | Tavern Rumble: Roguelike Card | 256517 | [256517-tavern-rumble-roguelike-card.json](./256517-tavern-rumble-roguelike-card.json) |
 | TavernHold | 361685 | [361685-tavernhold.json](./361685-tavernhold.json) |
 | Tavernier | 31587 | [31587-tavernier.json](./31587-tavernier.json) |
@@ -1914,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings Online: Siege of Mirkwood | 21155 | [21155-the-lord-of-the-rings-online-siege-of-mirkwood.json](./21155-the-lord-of-the-rings-online-siege-of-mirkwood.json) |
 | The Lord of the Rings Online: War of Three Peaks | 275925 | [275925-the-lord-of-the-rings-online-war-of-three-peaks.json](./275925-the-lord-of-the-rings-online-war-of-three-peaks.json) |
 | The Lord of the Rings: Adventure Card Game - Definitive Edition | 147962 | [147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json](./147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json) |
+| The Lord of the Rings: Gollum - Precious Edition | 248677 | [248677-the-lord-of-the-rings-gollum-precious-edition.json](./248677-the-lord-of-the-rings-gollum-precious-edition.json) |
 | The Lord of the Rings: Return to Moria - Ent-craft Pack | 336898 | [336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json](./336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json) |
 | The Lord of the Rings: Rise to War | 174867 | [174867-the-lord-of-the-rings-rise-to-war.json](./174867-the-lord-of-the-rings-rise-to-war.json) |
 | The Lord of the Rings: The Battle for Middle-earth | 3154 | [3154-the-lord-of-the-rings-the-battle-for-middle-earth.json](./3154-the-lord-of-the-rings-the-battle-for-middle-earth.json) |
@@ -2439,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Skirmish | 282032 | [282032-the-skirmish.json](./282032-the-skirmish.json) |
 | The Sky Crawlers: Innocent Aces | 5160 | [5160-the-sky-crawlers-innocent-aces.json](./5160-the-sky-crawlers-innocent-aces.json) |
 | The Slasher Camp Massacre | 218738 | [218738-the-slasher-camp-massacre.json](./218738-the-slasher-camp-massacre.json) |
+| The Smurfs Bakery | 248647 | [248647-the-smurfs-bakery.json](./248647-the-smurfs-bakery.json) |
 | The Smurfs Collection | 75142 | [75142-the-smurfs-collection.json](./75142-the-smurfs-collection.json) |
 | The Smurfs: Colorful Stories | 275888 | [275888-the-smurfs-colorful-stories.json](./275888-the-smurfs-colorful-stories.json) |
 | The Smurfs: Colorful Stories - Complete + | 328824 | [328824-the-smurfs-colorful-stories-complete.json](./328824-the-smurfs-colorful-stories-complete.json) |
@@ -3363,6 +3366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Mage in Puzzle Land | 402928 | [402928-tiny-mage-in-puzzle-land.json](./402928-tiny-mage-in-puzzle-land.json) |
 | Tiny Man's Revenge | 258463 | [258463-tiny-mans-revenge.json](./258463-tiny-mans-revenge.json) |
 | Tiny Metal: Will of the Shogun | 165045 | [165045-tiny-metal-will-of-the-shogun.json](./165045-tiny-metal-will-of-the-shogun.json) |
+| Tiny Pixel Farm: Go Farm Life | 248674 | [248674-tiny-pixel-farm-go-farm-life.json](./248674-tiny-pixel-farm-go-farm-life.json) |
 | Tiny Ring | 257364 | [257364-tiny-ring.json](./257364-tiny-ring.json) |
 | Tiny Robots Recharged | 167830 | [167830-tiny-robots-recharged.json](./167830-tiny-robots-recharged.json) |
 | Tiny Robots: Portal Escape | 297201 | [297201-tiny-robots-portal-escape.json](./297201-tiny-robots-portal-escape.json) |
@@ -3698,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Extreme Wrestling 2016 | 27681 | [27681-total-extreme-wrestling-2016.json](./27681-total-extreme-wrestling-2016.json) |
 | Total Football Online | 406683 | [406683-total-football-online.json](./406683-total-football-online.json) |
 | Total Miner | 77339 | [77339-total-miner.json](./77339-total-miner.json) |
+| Total Reload | 248661 | [248661-total-reload.json](./248661-total-reload.json) |
 | Total Upheaval | 250640 | [250640-total-upheaval.json](./250640-total-upheaval.json) |
 | Total War: Attila | 8200 | [8200-total-war-attila.json](./8200-total-war-attila.json) |
 | Total War: Rome II - Hannibal at the Gates Campaign Pack | 167824 | [167824-total-war-rome-ii-hannibal-at-the-gates-campaign-pack.json](./167824-total-war-rome-ii-hannibal-at-the-gates-campaign-pack.json) |
