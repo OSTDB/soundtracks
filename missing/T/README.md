@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics Returners | 345508 | [345508-tactics-returners.json](./345508-tactics-returners.json) |
 | Tactics Rogue | 109709 | [109709-tactics-rogue.json](./109709-tactics-rogue.json) |
 | TacticsLand | 311805 | [311805-tacticsland.json](./311805-tacticsland.json) |
+| Tad the Lost Explorer and the Emerald Tablet: Craziest and Madness Edition | 250359 | [250359-tad-the-lost-explorer-and-the-emerald-tablet-craziest-and-madness-edition.json](./250359-tad-the-lost-explorer-and-the-emerald-tablet-craziest-and-madness-edition.json) |
 | Tadaima Yuusha Boshuuchuu Okawari | 37799 | [37799-tadaima-yuusha-boshuuchuu-okawari.json](./37799-tadaima-yuusha-boshuuchuu-okawari.json) |
 | Taern | 55929 | [55929-taern.json](./55929-taern.json) |
 | Tag Hop | 153413 | [153413-tag-hop.json](./153413-tag-hop.json) |
@@ -757,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles - DLC 2 | 313510 | [313510-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-2.json](./313510-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-2.json) |
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles - DLC 3 | 313511 | [313511-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-3.json](./313511-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-3.json) |
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles: Digital Deluxe Edition | 313133 | [313133-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-digital-deluxe-edition.json](./313133-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-digital-deluxe-edition.json) |
+| That's a Cow: Premium Edition | 250364 | [250364-thats-a-cow-premium-edition.json](./250364-thats-a-cow-premium-edition.json) |
 | That's a Thing | 344942 | [344942-thats-a-thing.json](./344942-thats-a-thing.json) |
 | That's How Sumireko's Roach Stomping Mafia Works | 123593 | [123593-thats-how-sumirekos-roach-stomping-mafia-works.json](./123593-thats-how-sumirekos-roach-stomping-mafia-works.json) |
 | That's Not How it Happened | 209131 | [209131-thats-not-how-it-happened.json](./209131-thats-not-how-it-happened.json) |
@@ -800,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Liam | 264605 | [264605-the-adventures-of-liam.json](./264605-the-adventures-of-liam.json) |
 | The Adventures of LinShanHai | 234311 | [234311-the-adventures-of-linshanhai.json](./234311-the-adventures-of-linshanhai.json) |
 | The Adventures of Little Red Riding Cap | 54433 | [54433-the-adventures-of-little-red-riding-cap.json](./54433-the-adventures-of-little-red-riding-cap.json) |
+| The Adventures of Nerdstan | 250348 | [250348-the-adventures-of-nerdstan.json](./250348-the-adventures-of-nerdstan.json) |
 | The Adventures of Oddley | 320742 | [320742-the-adventures-of-oddley.json](./320742-the-adventures-of-oddley.json) |
 | The Adventures of Rad Gravity | 8777 | [8777-the-adventures-of-rad-gravity.json](./8777-the-adventures-of-rad-gravity.json) |
 | The Adventures of Square | 18284 | [18284-the-adventures-of-square.json](./18284-the-adventures-of-square.json) |
@@ -1232,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil Rais’d the Storm | 349883 | [349883-the-devil-rais-d-the-storm.json](./349883-the-devil-rais-d-the-storm.json) |
 | The Devil Within | 314049 | [314049-the-devil-within.json](./314049-the-devil-within.json) |
 | The Devilz Work | 315512 | [315512-the-devilz-work.json](./315512-the-devilz-work.json) |
+| The Diary | 250356 | [250356-the-diary.json](./250356-the-diary.json) |
 | The Die Is Cast | 240474 | [240474-the-die-is-cast.json](./240474-the-die-is-cast.json) |
 | The Dig | 207 | [207-the-dig.json](./207-the-dig.json) |
 | The Dime Birthday Level Collection | 312901 | [312901-the-dime-birthday-level-collection.json](./312901-the-dime-birthday-level-collection.json) |
@@ -2782,6 +2786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizards of Trinity Bellwoods | 58265 | [58265-the-wizards-of-trinity-bellwoods.json](./58265-the-wizards-of-trinity-bellwoods.json) |
 | The Wonder Sword | 327585 | [327585-the-wonder-sword.json](./327585-the-wonder-sword.json) |
 | The Wonderful 101 | 264890 | [264890-the-wonderful-101.json](./264890-the-wonderful-101.json) |
+| The Wonderful 101: Remastered - The Wonderful One: After School Hero - Part 1 | 250349 | [250349-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-1.json](./250349-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-1.json) |
 | The Word is Not the Thing | 74468 | [74468-the-word-is-not-the-thing.json](./74468-the-word-is-not-the-thing.json) |
 | The World 3: Rise of Demon | 91965 | [91965-the-world-3-rise-of-demon.json](./91965-the-world-3-rise-of-demon.json) |
 | The World After | 184618 | [184618-the-world-after.json](./184618-the-world-after.json) |
@@ -2817,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheBestiary | 196894 | [196894-thebestiary.json](./196894-thebestiary.json) |
 | TheBootCamp | 195219 | [195219-thebootcamp.json](./195219-thebootcamp.json) |
 | TheC64 Mini: Black Edition | 360591 | [360591-thec64-mini-black-edition.json](./360591-thec64-mini-black-edition.json) |
+| Theft Ride Legacy | 250391 | [250391-theft-ride-legacy.json](./250391-theft-ride-legacy.json) |
 | Theft Ride Legacy: Gold Edition | 283160 | [283160-theft-ride-legacy-gold-edition.json](./283160-theft-ride-legacy-gold-edition.json) |
 | TheGunRunner | 89952 | [89952-thegunrunner.json](./89952-thegunrunner.json) |
 | TheHunter: Call of the Wild | 26381 | [26381-thehunter-call-of-the-wild.json](./26381-thehunter-call-of-the-wild.json) |
@@ -2886,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Things on Wheels | 72727 | [72727-things-on-wheels.json](./72727-things-on-wheels.json) |
 | Think in Two | 388758 | [388758-think-in-two.json](./388758-think-in-two.json) |
 | Think Logic! Sudoku: Binary - Suguru | 231081 | [231081-think-logic-sudoku-binary-suguru.json](./231081-think-logic-sudoku-binary-suguru.json) |
+| Think Shift | 250386 | [250386-think-shift.json](./250386-think-shift.json) |
 | Think Tap Turn | 100815 | [100815-think-tap-turn.json](./100815-think-tap-turn.json) |
 | Thinkin' Science: Zap! | 243422 | [243422-thinkin-science-zap.json](./243422-thinkin-science-zap.json) |
 | ThinkTanks | 84240 | [84240-thinktanks.json](./84240-thinktanks.json) |
@@ -3919,6 +3926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Chase | 173303 | [173303-traffic-chase.json](./173303-traffic-chase.json) |
 | Traffic City | 169476 | [169476-traffic-city.json](./169476-traffic-city.json) |
 | Traffic Panic London | 343799 | [343799-traffic-panic-london.json](./343799-traffic-panic-london.json) |
+| Traffic Racer Highway Online | 250350 | [250350-traffic-racer-highway-online.json](./250350-traffic-racer-highway-online.json) |
 | Traffic Rush | 87886 | [87886-traffic-rush.json](./87886-traffic-rush.json) |
 | Traffix | 118755 | [118755-traffix.json](./118755-traffix.json) |
 | Traffix 3D | 296071 | [296071-traffix-3d.json](./296071-traffix-3d.json) |
