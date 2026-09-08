@@ -889,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes & Legends: Conquerors of Kolhar | 17531 | [17531-heroes-and-legends-conquerors-of-kolhar.json](./17531-heroes-and-legends-conquerors-of-kolhar.json) |
 | Heroes and Forsaken: The Official Wheel of Time Digital Card Game | 362304 | [362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json](./362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json) |
 | Heroes and Test of Succubus | 294165 | [294165-heroes-and-test-of-succubus.json](./294165-heroes-and-test-of-succubus.json) |
+| Heroes Clash | 226778 | [226778-heroes-clash.json](./226778-heroes-clash.json) |
 | Heroes For Hire | 295559 | [295559-heroes-for-hire.json](./295559-heroes-for-hire.json) |
 | Heroes of Annihilated Empires | 14824 | [14824-heroes-of-annihilated-empires.json](./14824-heroes-of-annihilated-empires.json) |
 | Heroes of Drakerealm | 235485 | [235485-heroes-of-drakerealm.json](./235485-heroes-of-drakerealm.json) |
