@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman: Digital Edition - Apprentice Mage | 149053 | [149053-talisman-digital-edition-apprentice-mage.json](./149053-talisman-digital-edition-apprentice-mage.json) |
 | Talisman: Digital Edition - Black Witch | 149069 | [149069-talisman-digital-edition-black-witch.json](./149069-talisman-digital-edition-black-witch.json) |
 | Talisman: Digital Edition - Courtesan | 149065 | [149065-talisman-digital-edition-courtesan.json](./149065-talisman-digital-edition-courtesan.json) |
+| Talisman: Digital Edition - Deluxe Edition | 233015 | [233015-talisman-digital-edition-deluxe-edition.json](./233015-talisman-digital-edition-deluxe-edition.json) |
 | Talisman: Digital Edition - Devil's Minion | 149067 | [149067-talisman-digital-edition-devils-minion.json](./149067-talisman-digital-edition-devils-minion.json) |
 | Talisman: Digital Edition - Exorcist | 149058 | [149058-talisman-digital-edition-exorcist.json](./149058-talisman-digital-edition-exorcist.json) |
 | Talisman: Digital Edition - Expansion Pack 1 | 237935 | [237935-talisman-digital-edition-expansion-pack-1.json](./237935-talisman-digital-edition-expansion-pack-1.json) |
@@ -793,6 +794,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles - DLC 2 | 313510 | [313510-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-2.json](./313510-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-2.json) |
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles - DLC 3 | 313511 | [313511-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-3.json](./313511-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-3.json) |
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles: Digital Deluxe Edition | 313133 | [313133-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-digital-deluxe-edition.json](./313133-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-digital-deluxe-edition.json) |
+| That's a Cow: Deluxe Edition | 232994 | [232994-thats-a-cow-deluxe-edition.json](./232994-thats-a-cow-deluxe-edition.json) |
+| That's a Cow: Eggshell | 233001 | [233001-thats-a-cow-eggshell.json](./233001-thats-a-cow-eggshell.json) |
 | That's a Cow: Premium Edition | 250364 | [250364-thats-a-cow-premium-edition.json](./250364-thats-a-cow-premium-edition.json) |
 | That's a Thing | 344942 | [344942-thats-a-thing.json](./344942-thats-a-thing.json) |
 | That's How Sumireko's Roach Stomping Mafia Works | 123593 | [123593-thats-how-sumirekos-roach-stomping-mafia-works.json](./123593-thats-how-sumirekos-roach-stomping-mafia-works.json) |
@@ -1089,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cat Scheduled Oil Sampling Game | 281379 | [281379-the-cat-scheduled-oil-sampling-game.json](./281379-the-cat-scheduled-oil-sampling-game.json) |
 | The Cat That Got the Milk | 283742 | [283742-the-cat-that-got-the-milk.json](./283742-the-cat-that-got-the-milk.json) |
 | The Catch: Carp & Coarse - Collector's Edition | 141891 | [141891-the-catch-carp-and-coarse-collectors-edition.json](./141891-the-catch-carp-and-coarse-collectors-edition.json) |
+| The Catch: Carp & Coarse - Deluxe Edition | 233014 | [233014-the-catch-carp-and-coarse-deluxe-edition.json](./233014-the-catch-carp-and-coarse-deluxe-edition.json) |
 | The Catch! | 262074 | [262074-the-catch.json](./262074-the-catch.json) |
 | The Cats of Ulthar | 182557 | [182557-the-cats-of-ulthar.json](./182557-the-cats-of-ulthar.json) |
 | The Cave of Magic | 413648 | [413648-the-cave-of-magic.json](./413648-the-cave-of-magic.json) |
@@ -2262,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Power | 137071 | [137071-the-power.json](./137071-the-power.json) |
 | The power of chaos | 118369 | [118369-the-power-of-chaos.json](./118369-the-power-of-chaos.json) |
 | The Powerpuff Girls: Monkey Mania | 309101 | [309101-the-powerpuff-girls-monkey-mania.json](./309101-the-powerpuff-girls-monkey-mania.json) |
+| The Preschoolers: Season 1 - Extended Edition | 233006 | [233006-the-preschoolers-season-1-extended-edition.json](./233006-the-preschoolers-season-1-extended-edition.json) |
 | The President | 209640 | [209640-the-president.json](./209640-the-president.json) |
 | The Price is Right | 78446 | [78446-the-price-is-right.json](./78446-the-price-is-right.json) |
 | The Prime MoVR | 76659 | [76659-the-prime-movr.json](./76659-the-prime-movr.json) |
@@ -2345,6 +2350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The River Of Fire | 268730 | [268730-the-river-of-fire.json](./268730-the-river-of-fire.json) |
 | The Road Driver | 221387 | [221387-the-road-driver.json](./221387-the-road-driver.json) |
 | The Road to Hades | 96354 | [96354-the-road-to-hades.json](./96354-the-road-to-hades.json) |
+| The Rocket Jumper | 232965 | [232965-the-rocket-jumper.json](./232965-the-rocket-jumper.json) |
 | The Rolling Room | 309893 | [309893-the-rolling-room.json](./309893-the-rolling-room.json) |
 | The Room | 11625 | [11625-the-room.json](./11625-the-room.json) |
 | The Room of Black & White | 34455 | [34455-the-room-of-black-and-white.json](./34455-the-room-of-black-and-white.json) |
@@ -2828,6 +2834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Weight of a Soul | 230546 | [230546-the-weight-of-a-soul.json](./230546-the-weight-of-a-soul.json) |
 | The Werehouse | 337107 | [337107-the-werehouse.json](./337107-the-werehouse.json) |
 | The Whisper of the Abyss: Echo of Eden | 311256 | [311256-the-whisper-of-the-abyss-echo-of-eden.json](./311256-the-whisper-of-the-abyss-echo-of-eden.json) |
+| The Whisper Soul | 232966 | [232966-the-whisper-soul.json](./232966-the-whisper-soul.json) |
 | The Whispering Bones | 389400 | [389400-the-whispering-bones.json](./389400-the-whispering-bones.json) |
 | The White Flower | 392801 | [392801-the-white-flower.json](./392801-the-white-flower.json) |
 | The White Hell | 390545 | [390545-the-white-hell.json](./390545-the-white-hell.json) |
@@ -3069,6 +3076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Ages | 87726 | [87726-through-the-ages.json](./87726-through-the-ages.json) |
 | Through the Mist and Sky | 102179 | [102179-through-the-mist-and-sky.json](./102179-through-the-mist-and-sky.json) |
 | Through the Wall | 339294 | [339294-through-the-wall.json](./339294-through-the-wall.json) |
+| Through the Years | 232989 | [232989-through-the-years.json](./232989-through-the-years.json) |
 | Through Time the Girl Puzzle | 262933 | [262933-through-time-the-girl-puzzle.json](./262933-through-time-the-girl-puzzle.json) |
 | Throw Bro | 302350 | [302350-throw-bro.json](./302350-throw-bro.json) |
 | Throw Cubes into Brick Towers to Collapse Them | 134662 | [134662-throw-cubes-into-brick-towers-to-collapse-them.json](./134662-throw-cubes-into-brick-towers-to-collapse-them.json) |
@@ -3759,12 +3767,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TopSpin 2K25: Grand Slam Edition | 293925 | [293925-topspin-2k25-grand-slam-edition.json](./293925-topspin-2k25-grand-slam-edition.json) |
 | Tora | 114381 | [114381-tora.json](./114381-tora.json) |
 | Torbaci Oyunu | 274769 | [274769-torbaci-oyunu.json](./274769-torbaci-oyunu.json) |
+| Torch | 232977 | [232977-torch.json](./232977-torch.json) |
 | Torch of Shadows | 374074 | [374074-torch-of-shadows.json](./374074-torch-of-shadows.json) |
 | Torchbear | 341898 | [341898-torchbear.json](./341898-torchbear.json) |
 | Torches of Fate | 133458 | [133458-torches-of-fate.json](./133458-torches-of-fate.json) |
 | Toree 3D | 144687 | [144687-toree-3d.json](./144687-toree-3d.json) |
 | Toree Saturn | 262958 | [262958-toree-saturn.json](./262958-toree-saturn.json) |
 | Toree's Panic Pack | 308530 | [308530-torees-panic-pack.json](./308530-torees-panic-pack.json) |
+| Torico's B-day Gift Hunt | 232968 | [232968-toricos-b-day-gift-hunt.json](./232968-toricos-b-day-gift-hunt.json) |
 | Toride | 37784 | [37784-toride.json](./37784-toride.json) |
 | Toril | 228700 | [228700-toril.json](./228700-toril.json) |
 | Torima Headbang | 402920 | [402920-torima-headbang.json](./402920-torima-headbang.json) |
