@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Chaos | 90316 | [90316-last-chaos.json](./90316-last-chaos.json) |
 | Last Contingency | 152902 | [152902-last-contingency.json](./152902-last-contingency.json) |
 | Last Dawn | 236847 | [236847-last-dawn.json](./236847-last-dawn.json) |
+| Last Day | 224026 | [224026-last-day.json](./224026-last-day.json) |
 | Last Days of Future | 226446 | [226446-last-days-of-future.json](./226446-last-days-of-future.json) |
 | Last Days of Spring 2: Deluxe Edition | 53264 | [53264-last-days-of-spring-2-deluxe-edition.json](./53264-last-days-of-spring-2-deluxe-edition.json) |
 | Last Days of Spring Visual Novel | 34322 | [34322-last-days-of-spring-visual-novel.json](./34322-last-days-of-spring-visual-novel.json) |
@@ -223,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Night of Winter | 154024 | [154024-last-night-of-winter.json](./154024-last-night-of-winter.json) |
 | Last of Ass | 157161 | [157161-last-of-ass.json](./157161-last-of-ass.json) |
 | Last Order | 235994 | [235994-last-order.json](./235994-last-order.json) |
+| Last Outlander | 224028 | [224028-last-outlander.json](./224028-last-outlander.json) |
 | Last Outpost | 302110 | [302110-last-outpost.json](./302110-last-outpost.json) |
 | Last Remains | 249467 | [249467-last-remains.json](./249467-last-remains.json) |
 | Last Report | 333277 | [333277-last-report.json](./333277-last-report.json) |
@@ -243,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Week of a King | 288227 | [288227-last-week-of-a-king.json](./288227-last-week-of-a-king.json) |
 | Last Year | 19819 | [19819-last-year.json](./19819-last-year.json) |
 | Last Z: Survival Shooter | 375192 | [375192-last-z-survival-shooter.json](./375192-last-z-survival-shooter.json) |
+| Last-Hit Defense | 224027 | [224027-last-hit-defense.json](./224027-last-hit-defense.json) |
 | Lastbane | 348773 | [348773-lastbane.json](./348773-lastbane.json) |
 | Lastfight | 19250 | [19250-lastfight.json](./19250-lastfight.json) |
 | Lasting Moonlight | 245866 | [245866-lasting-moonlight.json](./245866-lasting-moonlight.json) |
@@ -393,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Fairies | 73814 | [73814-legend-of-fairies.json](./73814-legend-of-fairies.json) |
 | Legend of Frog | 327576 | [327576-legend-of-frog.json](./327576-legend-of-frog.json) |
 | Legend of Heroes: Eternal Arena | 151200 | [151200-legend-of-heroes-eternal-arena.json](./151200-legend-of-heroes-eternal-arena.json) |
+| Legend of Kingdoms | 224020 | [224020-legend-of-kingdoms.json](./224020-legend-of-kingdoms.json) |
 | Legend of Labot: The Golden Pearl | 173280 | [173280-legend-of-labot-the-golden-pearl.json](./173280-legend-of-labot-the-golden-pearl.json) |
 | Legend of Maratha Warriors | 158702 | [158702-legend-of-maratha-warriors.json](./158702-legend-of-maratha-warriors.json) |
 | Legend of Marrow | 296933 | [296933-legend-of-marrow.json](./296933-legend-of-marrow.json) |
@@ -420,7 +424,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Yashiyu 2 | 172773 | [172773-legend-of-yashiyu-2.json](./172773-legend-of-yashiyu-2.json) |
 | Legend of Yashiyu 3 | 173773 | [173773-legend-of-yashiyu-3.json](./173773-legend-of-yashiyu-3.json) |
 | Legend of Yashiyu 4 | 173774 | [173774-legend-of-yashiyu-4.json](./173774-legend-of-yashiyu-4.json) |
+| Legendary Archer: Rebirth | 224029 | [224029-legendary-archer-rebirth.json](./224029-legendary-archer-rebirth.json) |
 | Legendary Heroes Unchained | 324106 | [324106-legendary-heroes-unchained.json](./324106-legendary-heroes-unchained.json) |
+| Legendary Larry | 224022 | [224022-legendary-larry.json](./224022-legendary-larry.json) |
 | Legendary Mahjong | 53269 | [53269-legendary-mahjong.json](./53269-legendary-mahjong.json) |
 | Legendary Master Idle | 251233 | [251233-legendary-master-idle.json](./251233-legendary-master-idle.json) |
 | Legendary Racing | 232163 | [232163-legendary-racing.json](./232163-legendary-racing.json) |
@@ -429,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Tales | 157175 | [157175-legendary-tales.json](./157175-legendary-tales.json) |
 | Legendary Tales: Cataclysm | 186322 | [186322-legendary-tales-cataclysm.json](./186322-legendary-tales-cataclysm.json) |
 | Legendary Tales: Dawn of History | 413598 | [413598-legendary-tales-dawn-of-history.json](./413598-legendary-tales-dawn-of-history.json) |
+| Legendino | 224021 | [224021-legendino.json](./224021-legendino.json) |
 | Legendo's the Three Musketeers | 71533 | [71533-legendos-the-three-musketeers.json](./71533-legendos-the-three-musketeers.json) |
 | Legends Aligned | 335085 | [335085-legends-aligned.json](./335085-legends-aligned.json) |
 | Legends Core Plus | 231401 | [231401-legends-core-plus.json](./231401-legends-core-plus.json) |
@@ -1090,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistical: The Lot | 53280 | [53280-logistical-the-lot.json](./53280-logistical-the-lot.json) |
 | Logistical: United Kingdom | 53281 | [53281-logistical-united-kingdom.json](./53281-logistical-united-kingdom.json) |
 | Loihtija | 176518 | [176518-loihtija.json](./176518-loihtija.json) |
+| Lokapala | 224018 | [224018-lokapala.json](./224018-lokapala.json) |
 | Loki the Lynx | 364499 | [364499-loki-the-lynx.json](./364499-loki-the-lynx.json) |
 | Lola and the Giant | 110325 | [110325-lola-and-the-giant.json](./110325-lola-and-the-giant.json) |
 | Loli Racing | 292291 | [292291-loli-racing.json](./292291-loli-racing.json) |
@@ -1131,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Frogs | 284893 | [284893-loop-frogs.json](./284893-loop-frogs.json) |
 | Loop Hero: Deluxe Edition | 248294 | [248294-loop-hero-deluxe-edition.json](./248294-loop-hero-deluxe-edition.json) |
 | Loop Kingdom | 253005 | [253005-loop-kingdom.json](./253005-loop-kingdom.json) |
+| Loop Knight | 224017 | [224017-loop-knight.json](./224017-loop-knight.json) |
 | Loop My Crank | 374629 | [374629-loop-my-crank.json](./374629-loop-my-crank.json) |
 | Loopbreaker | 395586 | [395586-loopbreaker.json](./395586-loopbreaker.json) |
 | LoopBreaker | 335241 | [335241-loopbreaker.json](./335241-loopbreaker.json) |
