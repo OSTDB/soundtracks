@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weaveborn Heroes | 323517 | [323517-weaveborn-heroes.json](./323517-weaveborn-heroes.json) |
 | Web Crawlies | 236523 | [236523-web-crawlies.json](./236523-web-crawlies.json) |
 | Web Earth Online | 392155 | [392155-web-earth-online.json](./392155-web-earth-online.json) |
+| Web or Dead | 236272 | [236272-web-or-dead.json](./236272-web-or-dead.json) |
 | Web Runner | 178066 | [178066-web-runner.json](./178066-web-runner.json) |
 | Web Spice Purple World | 128020 | [128020-web-spice-purple-world.json](./128020-web-spice-purple-world.json) |
 | Webbed | 139458 | [139458-webbed.json](./139458-webbed.json) |
@@ -800,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Angel Challenge | 195253 | [195253-wind-angel-challenge.json](./195253-wind-angel-challenge.json) |
 | Wind Fantasy Double Cross | 408793 | [408793-wind-fantasy-double-cross.json](./408793-wind-fantasy-double-cross.json) |
 | Wind Love | 259589 | [259589-wind-love.json](./259589-wind-love.json) |
+| Wind Peaks 2 | 236284 | [236284-wind-peaks-2.json](./236284-wind-peaks-2.json) |
 | Wind Rider: Hero Outfit | 312001 | [312001-wind-rider-hero-outfit.json](./312001-wind-rider-hero-outfit.json) |
 | Wind Story | 312540 | [312540-wind-story.json](./312540-wind-story.json) |
 | Wind Traveler | 324311 | [324311-wind-traveler.json](./324311-wind-traveler.json) |
