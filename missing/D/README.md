@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of the Tiberium Age | 322388 | [322388-dawn-of-the-tiberium-age.json](./322388-dawn-of-the-tiberium-age.json) |
 | Dawn of Warriors | 30956 | [30956-dawn-of-warriors.json](./30956-dawn-of-warriors.json) |
 | Dawn of Yokai | 236299 | [236299-dawn-of-yokai.json](./236299-dawn-of-yokai.json) |
+| Dawn One | 235750 | [235750-dawn-one.json](./235750-dawn-one.json) |
 | Day at the Races | 242821 | [242821-day-at-the-races.json](./242821-day-at-the-races.json) |
 | Day D: Through Time - Collector's Edition | 355556 | [355556-day-d-through-time-collectors-edition.json](./355556-day-d-through-time-collectors-edition.json) |
 | Day of Defeat | 7551 | [7551-day-of-defeat.json](./7551-day-of-defeat.json) |
